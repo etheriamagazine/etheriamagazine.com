@@ -1,0 +1,12 @@
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240302201252-e7b9929eb357 h1:5b3uxwhJGq3L8jRifL+dZ+RK+Xr+nNPE6qISo5yaD+o=
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240302201252-e7b9929eb357/go.mod h1:dxP/RcOhcfwAGxOxhFFFb8TFvpIINa5ZpQi7G54Oyp0=
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240302212746-2434dd18d064 h1:Wrjb36zejk+5zZyNbXruj2cQRUoqfGtcp4dmfF6a95o=
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240302212746-2434dd18d064/go.mod h1:dxP/RcOhcfwAGxOxhFFFb8TFvpIINa5ZpQi7G54Oyp0=
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240302214530-5ff8fa8205cf h1:pnTrZHuPE3S4sdS+22hkyBJ21L8nNVGbynlkz9qTYFI=
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240302214530-5ff8fa8205cf/go.mod h1:dxP/RcOhcfwAGxOxhFFFb8TFvpIINa5ZpQi7G54Oyp0=
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240303185816-8b77e55ffae8 h1:BLPqPHsQaFwe8+0Yx6NYHaGL+z1lrbm6PE3rgKzeSS4=
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240303185816-8b77e55ffae8/go.mod h1:DSOUpmLzO3UmaYfTe7KLgeB0Mb8mwXhE0f6KpUugCjc=
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240303190605-9fb4779956da h1:9fXlm78JoQ/tXo4wwNzTNHzKLAdV2hzgb2BmzmC4gCM=
+github.com/etheriamagazine/hugo-etheria v0.0.0-20240303190605-9fb4779956da/go.mod h1:DSOUpmLzO3UmaYfTe7KLgeB0Mb8mwXhE0f6KpUugCjc=
+github.com/etheriamagazine/hugo-mod-jslibs/preact-bundle v0.0.0-20240303185219-7bed176ccd00 h1:opd4su/eBsguSD3CoJ+mO3r8ugihY+XPyLqHy0+yFR4=
+github.com/etheriamagazine/hugo-mod-jslibs/preact-bundle v0.0.0-20240303185219-7bed176ccd00/go.mod h1:2tzKXmKmduTBP2S37x+Mis7vOB/wS7bJ2oRWag7bGNU=

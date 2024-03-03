@@ -1,0 +1,22 @@
+# Hugo site configuration
+baseURL = 'https://etheriamagazine.com'
+title = 'Etheria Magazine'
+languageCode = 'es-ES'
+defaultContentLanguage = 'es'
+
+removePathAccents = true
+
+[permalinks]
+  posts = '/:year/:month/:day/:slug'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      autoHeadingID = false
+      wrapStandAloneImageWithinParagraph = false
+
+# import hugo-etheria module which implements all the sites templates
+[module]
+  [[module.imports]]
+    path = 'github.com/etheriamagazine/hugo-etheria'
+
