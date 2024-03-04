@@ -7,7 +7,7 @@ defaultContentLanguage = 'es'
 removePathAccents = true
 
 [permalinks]
-  posts = '/:year/:month/:day/:slug'
+  posts = '/:year/:month/:day/:filename'
 
 [markup]
   [markup.goldmark]
