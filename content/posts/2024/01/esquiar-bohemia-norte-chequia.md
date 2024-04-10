@@ -1,13 +1,13 @@
 ---
 title: "Esquiar en Chequia a los pies de una nave espacial y otros planes especiales"
-date: "2024-01-09"
-coverImage: "etheria_images/2024/01/jested-liberec.jpg"
+date: 2024-01-09
+coverImage: etheria_images/2024/01/jested-liberec.jpg
 categories: 
-  - "viajes-con-amigas"
-  - "viaje-en-familia"
-  - "viajes-para-mujeres"
+  - viajes-con-amigas
+  - viaje-en-familia
+  - viajes-para-mujeres
 author: 
-  - "Pepa G. Marin"
+  - Pepa G. Marin
 ---
 
 Deslizarse por las pistas de esquí de fondo de las Montañas Jizerské hory podría ser un 

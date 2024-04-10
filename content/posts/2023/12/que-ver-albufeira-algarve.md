@@ -1,12 +1,12 @@
 ---
 title: "Albufeira, un destino en el Algarve para todo el año"
-date: "2023-12-15"
-coverImage: "etheria_images/2023/12/albufeira-playa-pescadores.jpg"
+date: 2023-12-15
+coverImage: etheria_images/2023/12/albufeira-playa-pescadores.jpg
 categories: 
-  - "viajes-con-amigas"
-  - "viajes-para-mujeres"
+  - viajes-con-amigas
+  - viajes-para-mujeres
 author: 
-  - "Susana Garcia"
+  - Susana Garcia
 ---
 
 El Algarve portugués está lleno de tesoros en forma de playas perfectas y localidades 

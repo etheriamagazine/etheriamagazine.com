@@ -1,13 +1,13 @@
 ---
 title: "10 productos manchegos de calidad que alegran tu mesa por pocos euros"
-date: "2023-12-22"
-coverImage: "etheria_images/2023/12/productos-manchegos-cena-navidad.jpg"
+date: 2023-12-22
+coverImage: etheria_images/2023/12/productos-manchegos-cena-navidad.jpg
 categories: 
-  - "organiza-tu-viaje"
-  - "mejores-restaurantes-gastronomia"
-  - "viajes-para-mujeres"
+  - organiza-tu-viaje
+  - mejores-restaurantes-gastronomia
+  - viajes-para-mujeres
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Vino, queso y aceite de oliva virgen, tres productos manchegos capaces de alegrar 

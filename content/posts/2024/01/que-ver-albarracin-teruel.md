@@ -1,14 +1,14 @@
 ---
 title: "Secretos de Albarracín, el pueblo más bonito de Teruel"
-date: "2024-01-19"
-coverImage: "etheria_images/2024/01/albarracin-pueblo-teruel.jpg"
+date: 2024-01-19
+coverImage: etheria_images/2024/01/albarracin-pueblo-teruel.jpg
 categories: 
-  - "viajes-con-amigas"
-  - "viaje-en-familia"
-  - "viajes-romanticos"
-  - "viajes-para-mujeres"
+  - viajes-con-amigas
+  - viaje-en-familia
+  - viajes-romanticos
+  - viajes-para-mujeres
 author: 
-  - "Juan Carlos y Mar"
+  - Juan Carlos y Mar
 ---
 
 La gran hoz del río Guadalaviar es la única capaz de poner límite a la belleza 

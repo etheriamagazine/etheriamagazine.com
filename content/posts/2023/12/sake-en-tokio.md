@@ -1,12 +1,12 @@
 ---
 title: "El milagro del sake en Tokio, lugares de cata y degustación"
-date: "2023-12-04"
-coverImage: "etheria_images/2023/12/tokio-Valle-Akigawa.jpg"
+date: 2023-12-04
+coverImage: etheria_images/2023/12/tokio-Valle-Akigawa.jpg
 categories: 
-  - "organiza-tu-viaje"
-  - "mejores-restaurantes-gastronomia"
+  - organiza-tu-viaje
+  - mejores-restaurantes-gastronomia
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Si estáis a punto de viajar a la capital japonesa y os fascina el mundo de los 

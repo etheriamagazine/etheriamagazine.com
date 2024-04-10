@@ -1,14 +1,14 @@
 ---
 title: "Siete tesoros de la provincia de Salamanca que os encantarán"
-date: "2024-01-12"
-coverImage: "etheria_images/2024/01/salamanca-mogarraz.jpg"
+date: 2024-01-12
+coverImage: etheria_images/2024/01/salamanca-mogarraz.jpg
 categories: 
-  - "viajes-con-amigas"
-  - "viajes-romanticos"
-  - "viajes-para-mujeres"
-  - "viajar-sola"
+  - viajes-con-amigas
+  - viajes-romanticos
+  - viajes-para-mujeres
+  - viajar-sola
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Si aún no conocéis bien la provincia de Salamanca os animamos a elegir un fin de semana 

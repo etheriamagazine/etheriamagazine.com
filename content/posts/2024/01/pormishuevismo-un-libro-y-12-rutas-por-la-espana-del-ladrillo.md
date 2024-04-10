@@ -1,12 +1,12 @@
 ---
 title: "Pormishuevismo, un libro y 12 rutas por la España del ladrillo"
-date: "2024-01-04"
-coverImage: "etheria_images/2024/01/por-mis-huevismo.jpg"
+date: 2024-01-04
+coverImage: etheria_images/2024/01/por-mis-huevismo.jpg
 categories: 
-  - "libros-de-viajes"
-  - "planes-cultura-ocio"
+  - libros-de-viajes
+  - planes-cultura-ocio
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Erik Harley, graduado en Bellas Artes, experto en Estudios Urbanos, investigador, 

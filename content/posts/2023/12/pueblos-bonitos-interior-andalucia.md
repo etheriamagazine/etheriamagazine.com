@@ -1,13 +1,13 @@
 ---
 title: "16 pueblos bonitos del interior de Andalucía para pasar un fin de semana"
-date: "2023-12-29"
-coverImage: "etheria_images/2023/12/malaga-frigiliana.jpg"
+date: 2023-12-29
+coverImage: etheria_images/2023/12/malaga-frigiliana.jpg
 categories: 
-  - "viajes-con-amigas"
-  - "viajes-para-mujeres"
-  - "viajar-sola"
+  - viajes-con-amigas
+  - viajes-para-mujeres
+  - viajar-sola
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Nos ha costado mucho elegir únicamente 16 pueblos bonitos del interior de Andalucía, dos 

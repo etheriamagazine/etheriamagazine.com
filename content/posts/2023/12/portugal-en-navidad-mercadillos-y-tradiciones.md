@@ -1,13 +1,13 @@
 ---
 title: "Portugal en Navidad: mercadillos y tradiciones que enamoran"
-date: "2023-12-06"
-coverImage: "etheria_images/2023/12/madeira-luces-navidad.jpg"
+date: 2023-12-06
+coverImage: etheria_images/2023/12/madeira-luces-navidad.jpg
 categories: 
-  - "viajes-con-amigas"
-  - "festivales"
-  - "viajes-para-mujeres"
+  - viajes-con-amigas
+  - festivales
+  - viajes-para-mujeres
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 El periodo de Adviento, con sus mercadillos, luces e ilusión por la inminente llegada de 

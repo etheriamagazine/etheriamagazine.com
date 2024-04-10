@@ -1,13 +1,12 @@
 ---
 title: "Ruta en coche por Irlanda: condados de Cork y Kerry"
-date: "2023-12-30"
-coverImage: "etheria_images/2023/12/irlanda-isla-Garinish.jpg"
+date: 2023-12-30
+coverImage: etheria_images/2023/12/irlanda-isla-Garinish.jpg
 categories: 
-  - "viajes-con-amigas"
-  - "ruta-en-coche"
-  - "viajes-para-mujeres"
+  - viajes-con-amigas
+  - viajes-para-mujeres
 author: 
-  - "Pepa G. Marin"
+  - Pepa G. Marin
 ---
 
 Entre brumas, bosques, lagos, acantilados y pueblos pintorescos transcurre esta 

@@ -1,13 +1,13 @@
 ---
 title: "Cómo disfrutar de los deportes de invierno con total seguridad"
-date: "2023-12-11"
-coverImage: "etheria_images/2023/12/esqui-intermundial-mujer.jpg"
+date: 2023-12-11
+coverImage: etheria_images/2023/12/esqui-intermundial-mujer.jpg
 categories: 
-  - "consejos-practicos"
-  - "planes-cultura-ocio"
-  - "viajes-para-mujeres"
+  - consejos-practicos
+  - planes-cultura-ocio
+  - viajes-para-mujeres
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Llega la temporada de los deportes de invierno, que nos permiten combinar la actividad 

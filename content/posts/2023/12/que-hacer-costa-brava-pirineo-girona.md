@@ -1,13 +1,13 @@
 ---
 title: "Planes con un toque mágico en la Costa Brava y el Pirineo de Girona"
-date: "2023-12-18"
-coverImage: "etheria_images/2023/12/Eugenia-Mas-Generos.jpg"
+date: 2023-12-18
+coverImage: etheria_images/2023/12/Eugenia-Mas-Generos.jpg
 categories: 
-  - "viajes-con-amigas"
-  - "viajes-para-mujeres"
-  - "viajar-sola"
+  - viajes-con-amigas
+  - viajes-para-mujeres
+  - viajar-sola
 author: 
-  - "Yolanda Cardo"
+  - Yolanda Cardo
 ---
 
 Encantadoras masías, platos con flores, pueblos pintorescos, ricos vinos, quesos, 

@@ -1,14 +1,13 @@
 ---
 title: "Navidad en Dubái, mercadillos entre rascacielos y a 25 grados"
-date: "2023-12-08"
-coverImage: "etheria_images/2023/12/dubai-navidad-madinat-jumeirah.jpg"
+date: 2023-12-08
+coverImage: etheria_images/2023/12/dubai-navidad-madinat-jumeirah.jpg
 categories: 
-  - "eventos-fiestas-imprescindibles"
-  - "planes-originales-para-mujeres"
-  - "viajes-urbanos"
-  - "viajes-para-mujeres"
+  - planes-originales-para-mujeres
+  - viajes-urbanos
+  - viajes-para-mujeres
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Hay pocas actividades más agradables que viajar a lugares cálidos durante el invierno y, 

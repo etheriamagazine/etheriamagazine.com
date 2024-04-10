@@ -1,11 +1,11 @@
 ---
 title: "No te pierdas los artículos de Etheria Magazine más leídos en 2023"
-date: "2023-12-26"
-coverImage: "etheria_images/2023/12/viajes-2023.jpg"
+date: 2023-12-26
+coverImage: etheria_images/2023/12/viajes-2023.jpg
 categories: 
-  - "viajes-para-mujeres"
+  - viajes-para-mujeres
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 2023 ha sido el año de la recuperación del turismo después de la pandemia. Hemos vuelto 

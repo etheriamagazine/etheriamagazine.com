@@ -1,11 +1,12 @@
 ---
 title: "Una guía para que no te dejes (casi) nada por ver en Manhattan"
-date: "2024-01-11"
-coverImage: "etheria_images/2024/01/manhattan-ferry.jpg"
+date: 2024-01-11
+coverImage: etheria_images/2024/01/manhattan-ferry.jpg
 categories: 
-  - "viajes-para-mujeres"
+  - viajes-urbanos
+  - viajes-para-mujeres
 author: 
-  - "Susana Garcia"
+  - Susana Garcia
 ---
 
 Manhattan es el corazón de Nueva York, el barrio que se lleva todas las miradas y que 

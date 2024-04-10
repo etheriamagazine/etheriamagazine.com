@@ -1,13 +1,13 @@
 ---
 title: "Dorothea Hotel, Budapest, Autograph Collection, nuevo hotel de lujo en la capital húngara"
-date: "2023-12-01"
-coverImage: "etheria_images/2023/11/budapest-hotel-dorothea-hall.jpg"
+date: 2023-12-01
+coverImage: etheria_images/2023/11/budapest-hotel-dorothea-hall.jpg
 categories: 
-  - "organiza-tu-viaje"
-  - "hoteles"
-  - "viajes-para-mujeres"
+  - organiza-tu-viaje
+  - hoteles
+  - viajes-para-mujeres
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Nos vamos al Dorothea Hotel, un precioso alojamiento cinco estrellas que ocupa tres 

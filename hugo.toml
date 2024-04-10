@@ -5,14 +5,32 @@ languageCode = 'es-ES'
 defaultContentLanguage = 'es'
 
 removePathAccents = true
+# summary length in words is approximate as hugo cuts always
+# on a sentence
+summaryLength = 20
+
+[taxonomies]
+  category = 'categories'
 
 [permalinks]
-  posts = '/:year/:month/:day/:filename'
+  [permalinks.page]
+    posts = '/:year/:month/:day/:filename'
+
+  [permalinks.section]
+    posts = '/articulos'
+
+  [permalinks.taxonomy]
+    categories = "/categorias"
+
+  [permalinks.term]
+    categories = "/categorias/:slug/"      
+
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser]
-      autoHeadingID = false
+      autoHeadingID = true
+      autoHeadingIDType = "github-ascii"
       wrapStandAloneImageWithinParagraph = false
 
 # import hugo-etheria module which implements all the sites templates

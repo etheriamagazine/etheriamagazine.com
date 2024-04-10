@@ -1,13 +1,13 @@
 ---
 title: "Hotel Al Wathba, una cita con el lujo en Abu Dhabi"
-date: "2023-12-20"
-coverImage: "etheria_images/2023/12/hotel-Al-Wathba-abu-dhabi-piscina.jpg"
+date: 2023-12-20
+coverImage: etheria_images/2023/12/hotel-Al-Wathba-abu-dhabi-piscina.jpg
 categories: 
-  - "organiza-tu-viaje"
-  - "hoteles"
-  - "viajes-para-mujeres"
+  - organiza-tu-viaje
+  - hoteles
+  - viajes-para-mujeres
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Al Wathba, a Luxury Collection Desert Resort & Spa es un hotel de la cadena Marriot 

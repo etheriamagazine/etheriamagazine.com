@@ -1,13 +1,13 @@
 ---
 title: "Fragancias para mujeres viajeras, cómo elegir el perfume perfecto"
-date: "2024-01-16"
-coverImage: "etheria_images/2024/01/portada-perfumes-viajes.jpg"
+date: 2024-01-16
+coverImage: etheria_images/2024/01/portada-perfumes-viajes.jpg
 categories: 
-  - "organiza-tu-viaje"
-  - "bienestar-belleza"
-  - "viajes-para-mujeres"
+  - bienestar-belleza
+  - organiza-tu-viaje
+  - viajes-para-mujeres
 author: 
-  - "Redaccion Etheria"
+  - Redaccion Etheria
 ---
 
 Como elemento imprescindible del equipaje y también cómplice de nuestras aventuras, la 
@@ -72,9 +72,8 @@ White** de Elie Saab... ambos tan sutiles que no empalagan.
 Los envases también juegan un papel crucial en la elección del perfume para viajar, ya 
 que habitualmente no se permiten más de 100 ml en el equipaje de mano cuando vuelas. 
 Algunas marcas ofrecen envases compactos, perfectos para proteger la fragancia en el 
-ajetreo del viaje, pero no es así en la mayoría de los casos. Puedes aprovechar si 
-viajas en avión para adquirir esos pequeños tamaños en la zona de _Duty free_, es más 
-difícil conseguirlos allí que en otros lugares. 
+ajetreo del viaje, pero no es así en la mayoría de los casos. Si viajas en avión, puedes 
+aprovechar para adquirir tamaños pequeños en la zona de _Duty free_. 
 
 ![Atomizadores de perfumes.](etheria_images/2024/01/envase-perfume-viaje.jpg "Atomizadores de perfumes.")
 
@@ -90,13 +89,12 @@ puedes usar para llevar tu perfume en el bolso en el día a día.
 
 Una última opción que se puede explorar en relación a las **fragancias para mujeres 
 viajeras** es adquirir los famosos "**dupes**", es decir, aquellos perfumes que son una 
-copia casi perfecta de los originales y cuyo precio permiten asumir el riesgo de una 
-rotura en la maleta, olvido en el hotel o rotura en el equipaje. Algunos de Zara, que 
-tienen bastantes adeptas son **Gardenia**, que imita a Black Opium; **Applejuice**, que 
-se parece a Chance de Chanel; y Femme, que hace lo propio con Miracle. Y, por último, 
-dos que dan un gran resultado: **Verissime** de Mercadona, una muy buena imitación de 
-Blanche de Byredo; y **Belle Italie**, igual de energizante que Escale à Portofino, de 
-Dior. 
+copia casi perfecta de los originales y cuyo precio permiten asumir el riesgo de un 
+olvido en el hotel o rotura en el equipaje. Algunos de Zara, que tienen bastantes 
+adeptas son **Gardenia**, que imita a Black Opium; **Applejuice**, que se parece a 
+Chance de Chanel; y Femme, que hace lo propio con Miracle. Y, por último, dos que dan un 
+gran resultado: **Verissime** de Mercadona, una muy buena imitación de Blanche de 
+Byredo; y **Belle Italie**, igual de energizante que Escale à Portofino, de Dior. 
 
 ![Perfume Gardenia, de Zara, ideal para mujeres viajeras](etheria_images/2024/01/gardenia-zara.jpg "Perfume Gardenia, de Zara.")
 
@@ -109,8 +107,7 @@ que va en el interior de la maleta... no siempre es la mejor opción para llevar
 protegido. Te aconsejamos introducir el envase si es de cristal en una bolsa hermética 
 de plástico y, posteriormente, envolverlo en algo que pueda servir de barrera para un 
 posible impacto (calcetín, bufanda...). Una vez en el destino, procura no dejarlo en un 
-lugar donde le pueda dar el sol o la temperatura sea muy alta, ya que el aroma cambiará 
-inevitablemente. 
+lugar expuesto al sol o cerca de radiadores, ya que el aroma cambiará inevitablemente. 
 
 ![Tienda de perfumes en India](etheria_images/2024/01/perfumes-india.jpg "Tienda de perfumes en India. © Omkar Jadhav")
 
