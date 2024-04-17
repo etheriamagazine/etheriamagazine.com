@@ -12,7 +12,7 @@ author:
 Aunque no solemos identificar a la isla de Ibiza con el turismo familiar, sí que cuenta 
 con propuestas para todas las edades. Y hay municipios como Santa Eulària des Riu que, 
 aun contando con todos los requisitos para atraer al público más diverso, cuida las 
-experiencias de quienes viajan a Ibiza con niños. Os contamos algunas motivos para 
+experiencias de quienes viajan a Ibiza con niños. Os contamos algunos motivos para 
 elegir su entorno en vuestras próximas vacaciones. 
 
 ![Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.](etheria_images/2024/03/ibiza-granja-familiar-850x567.jpg "Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.")

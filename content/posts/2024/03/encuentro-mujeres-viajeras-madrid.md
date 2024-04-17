@@ -3,10 +3,9 @@ title: "Encuentro de Mujeres Viajeras en Madrid, experiencias que cambian la vid
 date: 2024-03-08
 coverImage: etheria_images/2024/03/angela-zapwe-emprendedora.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-romanticos
+  - historias-en-femenino
+  - mujeres-etheria
   - viajes-para-mujeres
-  - viajar-sola
 author: 
   - Redaccion Etheria
 ---

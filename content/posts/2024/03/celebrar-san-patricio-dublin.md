@@ -10,7 +10,7 @@ author:
   - manenamunar
 ---
 
-La cantidad de pintaS de Guinness que llenan a diario las barras de los pubs irlandeses 
+La cantidad de pintas de Guinness que llenan a diario las barras de los pubs irlandeses 
 baten su récord en San Patricio pero si no puedes viajar en marzo... ¡Dublín está 
 abierto todo el año! 
 
