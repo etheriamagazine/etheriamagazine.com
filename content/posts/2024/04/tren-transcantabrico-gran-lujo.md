@@ -1,5 +1,5 @@
 ---
-title: "Por qué merece la pena viajar en El Transcantábrico"
+title: "Por qué merece la pena viajar en El Transcantábrico 2"
 date: 2024-04-16
 coverImage: etheria_images/2024/04/vagon-panoramico-transcantabrico.jpg
 categories: 
