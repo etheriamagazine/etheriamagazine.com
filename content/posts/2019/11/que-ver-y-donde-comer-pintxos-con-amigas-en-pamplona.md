@@ -1,14 +1,14 @@
 ---
 title: "Ruta gastro por Pamplona: bares de pintxos, visitas y curiosidades"
 date: 2019-11-15
-coverImage: etheria_images/2019/11/Pamplona-Plaza-del-Castillo.jpg
+coverImage: etheria-images/2019/11/Pamplona-Plaza-del-Castillo.jpg
 categories: 
   - viajes-48-horas
   - viajes-gastronomicos
   - viajes-urbanos
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Elisabeth G. Iborra
 ---
 
@@ -18,7 +18,7 @@ Además, puedes hacer alguna excursión a lugares cercanos como el pantano de Ye
 monasterio de Leyre. Esta ruta gastronómica por Pamplona la ha realizado _in situ_ 
 Elisabeth G. Iborra y nos trae las mejores recomendaciones en la capital navarra. 
 
-![Iglesia de San Saturnino, conocida como de San Cerin.](etheria_images/2019/11/Pamplona-San-Saturnino-900x675.jpg "Iglesia de San Saturnino, conocida como de San Cerin. ©Turismo Navarra")
+![Iglesia de San Saturnino, conocida como de San Cerin.](etheria-images/2019/11/Pamplona-San-Saturnino-900x675.jpg "Iglesia de San Saturnino, conocida como de San Cerin. ©Turismo Navarra")
 
 Las ciudades no ganan fama por casualidad, y la de Pamplona va muchísimo más allá de los 
 Sanfermines. Es más, si puedes, vete en cualquier otra fecha del año porque la ciudad 
@@ -35,7 +35,7 @@ rehabilitadas, te puedes tomar un café en el mítico **Café Iruña** (cafeirun
 su decoración en madera, columnas de hierro forjado y lámparas que se reflejan en sus 
 enormes espejos desde el siglo XIX. 
 
-![Plaza del Castillo, en Pamplona](etheria_images/2019/11/Pamplona-Plaza-del-Castillo-900x505.jpg "Plaza del Castillo.*©Turismo Navarra")
+![Plaza del Castillo, en Pamplona](etheria-images/2019/11/Pamplona-Plaza-del-Castillo-900x505.jpg "Plaza del Castillo.*©Turismo Navarra")
 
 De ahí a la calle Estafeta, famosa por los encierros, pero infinitamente más agradable 
 cuando no los hay. En el **archiconocido Sarria** (bodegonsarria.com) hay muchos pintxos 
@@ -44,7 +44,7 @@ llegar con ganas al **Iruñazarra** (irunazarra.com) porque, aparte de los pintx
 verás en barra, mantiene una carta con las tapas premiadas en pasadas ediciones de 
 concursos varios, ¡y te las querrás comer todas! 
 
-![Fachada del Ayuntamiento.](etheria_images/2019/11/Pamplona-Ayuntamiento-756x1024.jpg "Fachada del Ayuntamiento.")
+![Fachada del Ayuntamiento.](etheria-images/2019/11/Pamplona-Ayuntamiento-756x1024.jpg "Fachada del Ayuntamiento.")
 
 Desde la calle Mercaderes, si te metes hacia la **calle Mayor**, vas a contemplar un 
 edificio histórico tras otro. Mira hacia arriba, por favor, y te toparás con el 
@@ -73,7 +73,7 @@ tranquilamente a la sombrita, antes de dar un paseo hasta los parques de Larrain
 Antoniutti. De ahí, puedes ir a visitar la **Ciudadela** de Pamplona, una fortaleza 
 pentagonal del sigo XVI donde hay exhibiciones y esculturas interesantes. 
 
-![Ciudadela de Pamplona.](etheria_images/2019/11/Pamplona-Ciudadela-900x506.jpg "Ciudadela de Pamplona.*©Turismo Navarra")
+![Ciudadela de Pamplona.](etheria-images/2019/11/Pamplona-Ciudadela-900x506.jpg "Ciudadela de Pamplona.*©Turismo Navarra")
 
 Volviendo por el paseo de Sarasate, pasando por el Parlamento y el monumento a los 
 Fueros, arribas a la plaza de la **iglesia de San Nicolás**. En la calle perpendicular y 
@@ -85,7 +85,7 @@ de tigre', el ceviche, 'los txurros y merinas untados en foie con trufa', el 's�
 de toro con pesto marino y bechamel de mejillón' y el 'pan de leche de oveja con cordero 
 thai'. 
 
-![Pintxos de La Vieja Iruña.](etheria_images/2019/11/Pamplona-La-vieja-iruna-900x640.jpg "Pintxos de © La Vieja Iruña.")
+![Pintxos de La Vieja Iruña.](etheria-images/2019/11/Pamplona-La-vieja-iruna-900x640.jpg "Pintxos de © La Vieja Iruña.")
 
 ## De paseo por su patrimonio cultural
 
@@ -96,14 +96,14 @@ Hospital de Nuestra Señora de la Misericordia. Fíjate en la fachada barroca de
 iglesia de Santo Domingo y, dentro, en su órgano del siglo XVII. Del mismo estilo es el 
 seminario de San Juan y Archivo municipal. 
 
-![Puente Nuevo, en Pamplona](etheria_images/2019/11/Pamplona-Puente-Nuevo-900x506.jpg "Puente Nuevo.*©Turismo Navarra")
+![Puente Nuevo, en Pamplona](etheria-images/2019/11/Pamplona-Puente-Nuevo-900x506.jpg "Puente Nuevo.*©Turismo Navarra")
 
 El **Palacio Real** ha sido, desde el siglo XII, el Palacio de los Reyes de Navarra, de 
 San Pedro, del Virrey o de Capitanía. Ahora es el Archivo Real y General de Navarra 
 gracias a la restauración de Rafael Moneo. El patrono también tiene la basílica de San 
 Fermín de Aldapa desde el medievo. 
 
-![Calle de Pamplona con la catedral de Santa María la Real al fondo.](etheria_images/2019/11/Pamplona-catedral-calle-900x600.jpg "Calle de Pamplona con la catedral de Santa María la Real al fondo.")
+![Calle de Pamplona con la catedral de Santa María la Real al fondo.](etheria-images/2019/11/Pamplona-catedral-calle-900x600.jpg "Calle de Pamplona con la catedral de Santa María la Real al fondo.")
 
 Y no dejes de fijarte en el **palacio Marqués de Rozalejo** y en la **catedral de Santa 
 María la Real** que, tras su fachada neoclásica, esconde un apabullante templo gótico 
@@ -127,7 +127,7 @@ Carteles de San Fermín** en el Zaguán de Civivox Condestable y el Museo de la 
 Toros. Puedes acabar tu paseo por las murallas en el **Fortín de San Bartolomé**, 
 actualmente Centro de Interpretación de las Fortificaciones de Pamplona. 
 
-![Monumento al Encierro, en Pamplona](etheria_images/2019/11/Pamplona-monumento-encierro-900x675.jpg "Monumento al Encierro.")
+![Monumento al Encierro, en Pamplona](etheria-images/2019/11/Pamplona-monumento-encierro-900x675.jpg "Monumento al Encierro.")
 
 Para terminar en la capital con el mejor sabor de boca, de cabeza a un clásico: el 
 **Gaucho** (www.cafebargaucho.com), probablemente el más famoso por sus creativas 
@@ -147,7 +147,7 @@ puedes alojarte y comer en su hotel-restaurante. Tienes que visitar los ábsides
 torre del siglo XI, la cripta, el túnel de San Virila y la preciosa iglesia que da a la 
 plazoleta, donde se erige el hermoso pórtico del siglo XII, la llamada puerta Speciosa. 
 
-![Monasterio de Leyre.](etheria_images/2019/11/Pamplona-Monasterio-de-Leyre-900x506.jpg "Monasterio de Leyre.*©Turismo Navarra")
+![Monasterio de Leyre.](etheria-images/2019/11/Pamplona-Monasterio-de-Leyre-900x506.jpg "Monasterio de Leyre.*©Turismo Navarra")
 
 Déjate inundar por la paz del Patio de la Hospedería, como hacen los monjes que 
 comparten su vocación en el monasterio antiguo rehabilitado para su hospedaje y para 

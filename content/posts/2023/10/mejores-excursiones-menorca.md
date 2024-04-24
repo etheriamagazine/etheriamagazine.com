@@ -1,15 +1,15 @@
 ---
 title: "10 excursiones en Menorca para unas vacaciones perfectas"
 date: 2023-10-13
-coverImage: etheria_images/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg
+coverImage: etheria-images/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Menorca ofrece todo lo que puedes desear para unas vacaciones: un mar transparente que 
@@ -17,7 +17,7 @@ parece de mentira, ciudades históricas, restos arqueológicos y una gastronomí
 tradicional muy apetitosa. Te proponemos diez excursiones por Menorca para que no te 
 pierdas nada de lo fundamental de esta isla donde el slow travel cobra todo su sentido. 
 
-![Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls.](etheria_images/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg "Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls. © SG")
+![Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls.](etheria-images/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg "Barcos frente a las calas de Mararella y Macarelleta desde el Camí de Cavalls. © SG")
 
 Menorca es un plan excelente siempre. Esta isla mediterránea, reserva de la Biosfera por 
 la Unesco (que incluye la mayor Reserva Marina de Europa), ha sabido mantener su esencia 
@@ -47,7 +47,7 @@ perfecta integración con el paisaje y el excelente estado de conservación de m
 ellas. Puedes integrar sus visitas en cualquier excursión por la isla, sobre todo en las 
 que hagas en la zona sur que es dónde más yacimientos se conservan. 
 
-![La Naveta de Tudons.](etheria_images/2023/10/menorca-naveta-tudons.jpg "La Naveta de Tudons. © Susana García")
+![La Naveta de Tudons.](etheria-images/2023/10/menorca-naveta-tudons.jpg "La Naveta de Tudons. © Susana García")
 
 Uno de las más visitados es la Naveta des Tudons (en el km 40 de la carretera de Mahón a 
 Ciudadela), un tipo de construcción que sólo se ha encontrado en Menorca. Fue restaurada 
@@ -65,7 +65,7 @@ de las mejores formas de conocer el corazón de la isla es recorrerla en una exc
 queserías y yacimientos arqueológicos y facilita la llegada a calas recónditas donde 
 ponerse las gafas de bucear para hacer esnórquel en soledad. 
 
-![Land Rover en Menorca](etheria_images/2023/10/menorca-jeep-excursiones.jpg "Land Rover con el que se hace la excursión por el interior de Menorca. © Susana García")
+![Land Rover en Menorca](etheria-images/2023/10/menorca-jeep-excursiones.jpg "Land Rover con el que se hace la excursión por el interior de Menorca. © Susana García")
 
 La empresa Jeep Safari Menorca (www.jeepsafarimenorca.es) se dedica a organizar estas 
 muy recomendables excursiones con conductores-guías experimentados que te explicarán 
@@ -81,7 +81,7 @@ apetecer navergarlo. Además, es una de las mejores formas de conocer algunas de
 calas más recónditas, esas a las que es imposible llegar por carretera y sólo se puede 
 acceder en barco o tras una larga caminata. 
 
-![cala Macarella con barcos en Menorca](etheria_images/2023/10/menorca-barcos-calas-sur.jpg "En Menorca se pueden alquilar pequeñas embarcaciones sin patrón. © Susana García")
+![cala Macarella con barcos en Menorca](etheria-images/2023/10/menorca-barcos-calas-sur.jpg "En Menorca se pueden alquilar pequeñas embarcaciones sin patrón. © Susana García")
 
 Hay varias formas (y presupuestos) para hacer una excursión por mar en Menorca, desde 
 alquilar una pequeña embarcación sin patrón (con unas sencillas indicaciones se pueden 
@@ -110,7 +110,7 @@ vida marina y por la presencia de la posidonia. Si estás pensando en iniciarte 
 es uno de los mejores lugares que puedes elegir para hacer el bautismo y las primeras 
 inmersiones en su litoral, protegido como Reserva de la Biosfera. 
 
-![Kayak en las calas del sur de Menorca.](etheria_images/2023/10/menorca-kayak-calas-sur.jpg "Kayak en las calas del sur de Menorca. © Susana García")
+![Kayak en las calas del sur de Menorca.](etheria-images/2023/10/menorca-kayak-calas-sur.jpg "Kayak en las calas del sur de Menorca. © Susana García")
 
 Al llegar a la isla consulta a los locales si es mejor la costa norte o la sur para la 
 práctica de estos deportes, ya que la tranquilidad de sus aguas depende del viento y si 
@@ -139,7 +139,7 @@ conocida como **Ses Voltes** (llamada en realidad carrer Josep M. Quadarado) y, 
 por ella, puedes llegar a pensar que te encuentras en alguna ciudad del centro de 
 Italia. 
 
-![Calle del casco histórico de Ciutadella.](etheria_images/2023/10/menorca-citadella.jpg "Calle del casco histórico de Ciutadella. © Susana García")
+![Calle del casco histórico de Ciutadella.](etheria-images/2023/10/menorca-citadella.jpg "Calle del casco histórico de Ciutadella. © Susana García")
 
 En un paseo por la ciudad te asaltarán lugares como el bastió de sa Font, uno de los 
 últimos restos de la antigua muralla; el Palau Martorell, de finales del XVII; la 
@@ -171,7 +171,7 @@ caldereta de langosta menorquina. Un producto que también puedes probar a la pl
 huevos fritos o en tempura. Algunos de los restaurantes con los que aciertas seguro son 
 **Sa Llangosta** o **Es Cranc**. 
 
-![Puerto de Fornells.](etheria_images/2023/10/menorca-puerto-fornells.jpg "Puerto de Fornells. © Susana García")
+![Puerto de Fornells.](etheria-images/2023/10/menorca-puerto-fornells.jpg "Puerto de Fornells. © Susana García")
 
 ## Visitar Mahón
 
@@ -187,7 +187,7 @@ por la Plaza de España hasta la iglesia de Santa María y el Ayuntamiento. Desp
 sucederán calles llenas de comercios y agradables plazas. Pasealas sin prisa porque 
 merece la pena. 
 
-![Plaza de Colón, en Mahón.](etheria_images/2023/10/menorca-mahon-plaza.jpg "Plaza de Colón, en Mahón. © SG")
+![Plaza de Colón, en Mahón.](etheria-images/2023/10/menorca-mahon-plaza.jpg "Plaza de Colón, en Mahón. © SG")
 
 ## Ruta por el Camí de Cavalls
 
@@ -197,7 +197,7 @@ disfruta de la naturaleza. En su origen, que se remonta al menos al siglo XIV, s
 utilizaba para vigilar la costa, además de para permitir la comunicación y traslado de 
 personas y mercancías con servidumbre de paso en las fincas privadas. 
 
-![Tramo del Camí de Cavalls entre Cala Galdana y Cala en Turqueta.](etheria_images/2023/10/menorca-cami-de-cavalls.jpg "Tramo del Camí de Cavalls entre Cala Galdana y Cala en Turqueta. © SG")
+![Tramo del Camí de Cavalls entre Cala Galdana y Cala en Turqueta.](etheria-images/2023/10/menorca-cami-de-cavalls.jpg "Tramo del Camí de Cavalls entre Cala Galdana y Cala en Turqueta. © SG")
 
 Hoy en día, con sus 185 kilómetros se ha convertido en uno de los grandes senderos 
 europeos y está dividido en 20 tramos bien señalizados, por lo que podrás elegir el que 
@@ -218,7 +218,7 @@ sus carreteras verás carteles indicando “quesería” donde en las propias ex
 vende el queso directamente. Pero también podrás comprar estos productos en las tiendas 
 de Mahón y Ciutadella o en los mercados populares como el famoso de Es Mercadal. 
 
-![quesería artesanal Son Mercer de Baix en Menorca](etheria_images/2023/10/menorca-queseria-son-mercer-de-baix.jpg "Venta de quesos en la quesería artesanal Son Mercer de Baix. © SG")
+![quesería artesanal Son Mercer de Baix en Menorca](etheria-images/2023/10/menorca-queseria-son-mercer-de-baix.jpg "Venta de quesos en la quesería artesanal Son Mercer de Baix. © SG")
 
 **También te puede interesar:** 
 

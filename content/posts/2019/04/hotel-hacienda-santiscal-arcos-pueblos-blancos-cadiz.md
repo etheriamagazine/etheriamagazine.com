@@ -1,17 +1,17 @@
 ---
 title: "Hacienda El Santiscal Adults Only, tu refugio en Arcos de la Frontera"
 date: 2019-04-29
-coverImage: etheria_images/2019/04/El-Santiscal-piscina.jpg
+coverImage: etheria-images/2019/04/El-Santiscal-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Hay hoteles donde no se necesita más que mirar el horizonte para sentir la paz que proporciona el paisaje. Esto lo saben muy bien en la Hacienda El Santiscal Adults Only, en las afueras del bonito pueblo blanco gaditano de Arcos de la Frontera, donde todo ha sido pensado para que no tengas que ocuparte de nada más que de descansar.
 
-![Piscina del hotel Hacienda El Santiscal](etheria_images/2019/04/El-Santiscal-piscina.jpg "Piscina de la Hacienda El Santiscal.")
+![Piscina del hotel Hacienda El Santiscal](etheria-images/2019/04/El-Santiscal-piscina.jpg "Piscina de la Hacienda El Santiscal.")
 
 La **Hacienda El Santiscal** es un hotel con historia de verdad, que se remonta a una 
 villa romana aquí ubicada descubierta en el siglo XIX (de la que se conserva un 
@@ -25,7 +25,7 @@ padre en el asedio de Ronda.
 > horas. La decoración ha sido cuidada con esmero a través de detalles que alternan su 
 > origen señorial y la influencia árabe con piezas más modernas. 
 
-![Patio típico andaluz en un hotel](etheria_images/2019/04/El-Santiscal-patio.jpg "Patio central de la Hacienda.")
+![Patio típico andaluz en un hotel](etheria-images/2019/04/El-Santiscal-patio.jpg "Patio central de la Hacienda.")
 
 ## Las habitaciones
 
@@ -37,7 +37,7 @@ trasladaran a otra época son sus altos techos abovedados y los suelos de ladril
 o terracota. Todo en perfecta armonía con los servicios del hotel como el Wi-Fi 
 gratuito, aire acondicionado, _amenities_, caja de seguridad, etc. 
 
-![habitación de hotel con vistas](etheria_images/2019/04/El-Santiscal-habitacion-vistas.jpg "Habitación 'Para mirar las estrellas' de la Hacienda El Santiscal.")
+![habitación de hotel con vistas](etheria-images/2019/04/El-Santiscal-habitacion-vistas.jpg "Habitación 'Para mirar las estrellas' de la Hacienda El Santiscal.")
 
 Sus **habitaciones tematizadas** tienen nombres tan sugerentes como ‘Una noche 
 inolvidable’, ‘Sin límites en el horizonte’, ‘Sueños ininterrumpidos’, o ‘La brillante 
@@ -59,7 +59,7 @@ si quieres cenar en el hotel te pueden preparar alguna carne o pescado, eso sí,
 avisas con antelación. Y muy cerca podrás disfrutar de gastronomía gaditana en los 
 restaurantes de Arcos de la Frontera, ¡a tan sólo cinco kilómetros del hotel! 
 
-![mirador a la campiña de Cádiz](etheria_images/2019/04/El-Santiscal-comedor.jpg "Comedor de la Hacienda El Santiscal.")
+![mirador a la campiña de Cádiz](etheria-images/2019/04/El-Santiscal-comedor.jpg "Comedor de la Hacienda El Santiscal.")
 
 Y para tomar algo, seguro que te acercas a su **bar**, donde puedes servirte tú mismo. 
 
@@ -75,7 +75,7 @@ acceso privado al **Paraje Natural del Lago** donde los amantes de la observaci�
 aves encontrarán un auténtico paraíso, y en tan sólo treinta minutos se llega a la **Vía 
 Verde de la Sierra** donde continuar un recorrido que permitirá ver buitres leonados. 
 
-![Paraje natural de El Lago en Arcos de la Frontera](etheria_images/2019/04/El-Santiscal-general.jpg "La Hacienda El Santiscal se ubica en medio de un bonito paraje natural.")
+![Paraje natural de El Lago en Arcos de la Frontera](etheria-images/2019/04/El-Santiscal-general.jpg "La Hacienda El Santiscal se ubica en medio de un bonito paraje natural.")
 
 Con el coche podrás también acercarte en poco tiempo a la siempre apetecible costa 
 gaditana y recorrer la famosa [Ruta del atún 

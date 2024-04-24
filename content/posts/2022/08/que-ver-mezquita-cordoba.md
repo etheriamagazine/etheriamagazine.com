@@ -1,18 +1,18 @@
 ---
 title: "Qué ver en la Mezquita-Catedral de Córdoba: 10 rincones imprescindibles"
 date: 2022-08-12
-coverImage: etheria_images/2022/08/mezquita-cordoba-arcos-cruz.jpg
+coverImage: etheria-images/2022/08/mezquita-cordoba-arcos-cruz.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La Mezquita-Catedral de Córdoba es uno de los edificios histórico-artísticos más valiosos del mundo. Aunque sobran las razones para viajar a Córdoba, conocer este monumento justifica cualquier escapada. Te damos algunas claves de su historia y diez rincones imprescindibles que debes ver en la Mezquita.
 
-![Tejado de la mezquita de Córdoba y Patio de los Naranjos](etheria_images/2022/08/mezquita-cordoba-vista-aerea.jpg "Vista aérea de la Mezquita-Catedral de Córdoba.")
+![Tejado de la mezquita de Córdoba y Patio de los Naranjos](etheria-images/2022/08/mezquita-cordoba-vista-aerea.jpg "Vista aérea de la Mezquita-Catedral de Córdoba.")
 
 Es fácil que cuando nos encontramos ante edificios históricos de la envergadura y la 
 importancia de la Mezquita-Catedral de Córdoba nos dé un 'stendhalazo' de tal magnitud 
@@ -40,7 +40,7 @@ riqueza artística única en el mihrab y la maqsura (siglo X); y Almanzor realiz
 última ampliación, esta vez con ocho naves hacia el este que modifican el aspecto 
 alargado de la mezquita de Alhakén II. 
 
-![arqueria típica musulmana bicolor de la mezquita de Córdoba](etheria_images/2022/08/mezquita-cordoba-detalle-puerta-san-ildefonso.jpg "Detalle de la puerta de San Ildefonso en el exterior de la mezquita.")
+![arqueria típica musulmana bicolor de la mezquita de Córdoba](etheria-images/2022/08/mezquita-cordoba-detalle-puerta-san-ildefonso.jpg "Detalle de la puerta de San Ildefonso en el exterior de la mezquita.")
 
 En 1236 Córdoba fue **conquistada por Fernando III el Santo** y la mezquita pasó a 
 convertirse en iglesia católica. Se utilizó primero como altar mayor el mihrab de la 
@@ -74,7 +74,7 @@ tuvieron en la arquitectura árabe. Esta sucesión de arcos está formada por do
 superpuestas, capaces de transmitir una increíble sensación de ligereza. Fueron 
 definidos en la mezquita original y continuados en la ampliación de Abderramán II. 
 
-![arcos bicolores de la mezquita de córdoba](etheria_images/2022/08/mezquita-cordoba-arcos-cruz.jpg "En la Mezquita-Catedral de Córdoba conviven los símbolos cristianos y musulmanes. © SG")
+![arcos bicolores de la mezquita de córdoba](etheria-images/2022/08/mezquita-cordoba-arcos-cruz.jpg "En la Mezquita-Catedral de Córdoba conviven los símbolos cristianos y musulmanes. © SG")
 
 ### Mezquita fundacional de Abderramán I
 
@@ -94,7 +94,7 @@ y los elaborados mosaicos. En la maqsura podrás distinguir **cuatro lucernarios
 de acceso a esta parte de la mezquita y otros tres frente al mihrab, que aportan un 
 extra de luz y ofrecen una preciosa bóveda de arcos entrecruzados. 
 
-![Arcos de la mezquita de Córdoba de la ampliación de Alhakén II](etheria_images/2022/08/mezquita-catedral-arcos-polilobulados.jpg "Arquerías polilobuladas de la maqsura. © SG")
+![Arcos de la mezquita de Córdoba de la ampliación de Alhakén II](etheria-images/2022/08/mezquita-catedral-arcos-polilobulados.jpg "Arquerías polilobuladas de la maqsura. © SG")
 
 ### El Mihrab
 
@@ -106,7 +106,7 @@ maravillosa cúpula que cubre la planta octogonal. Lo que era el lugar al que or
 rezo fue convertido en una auténtica obra de arte. Podrás pasar muchos minutos 
 contemplando todos sus detalles. 
 
-![Arco de acceso al mihrab de la mezquita de Córdoba](etheria_images/2022/08/mezquita-cordoba-mihrab.jpg "Mihrab de la ampliación de Alhakén II. © SG")
+![Arco de acceso al mihrab de la mezquita de Córdoba](etheria-images/2022/08/mezquita-cordoba-mihrab.jpg "Mihrab de la ampliación de Alhakén II. © SG")
 
 ### La Capilla Mayor: el crucero y el coro
 
@@ -120,7 +120,7 @@ V. Bajo la contigua bóveda de cañón, aparece una maravillosa **sillería del 
 mediados del siglo XVIII donde hay que prestar atención a la iconografía y al trono 
 episcopal coronado por San Rafael, arcángel custodio de la ciudad de Córdoba. 
 
-![Techo de la catedral de la mezquita de Córdoba](etheria_images/2022/08/mezquita-catedral-cordoba-cupula.jpg "Cúpula sobre la Capilla Mayor de la Mezquita-Catedral de Córdoba.")
+![Techo de la catedral de la mezquita de Córdoba](etheria-images/2022/08/mezquita-catedral-cordoba-cupula.jpg "Cúpula sobre la Capilla Mayor de la Mezquita-Catedral de Córdoba.")
 
 ### La custodia
 
@@ -141,7 +141,7 @@ eje y la estructura del edificio con ocho nuevas naves hacia el este. La ampliac
 también afectó al patio (al que se añadió un aljibe) y dentro del edificio aporta una 
 perspectiva diferente que potencia el efecto infinito de las columnas. 
 
-![Interior de la mezquita de Córdoba](etheria_images/2022/08/mezquita-cordoba-columnas.jpg "Arcos de la Mezquita-Catedral de Córdoba. © SG")
+![Interior de la mezquita de Córdoba](etheria-images/2022/08/mezquita-cordoba-columnas.jpg "Arcos de la Mezquita-Catedral de Córdoba. © SG")
 
 ### La parroquia del Sagrario
 
@@ -161,7 +161,7 @@ ciudad y marca el perfil de la ciudad de Córdoba con sus 54 metros de altura. E
 compendio de estilos arquitectónicos derivado de la intervención de varios arquitectos y 
 destacan sus conocidas campanas, cada una con un nombre, que siguen tocando cada día. 
 
-![Alminar campanario de la mezquita de Córdoba](etheria_images/2022/08/mezquita-cordoba-torre-alminar-683x1024.jpg "Torre-campanario y Patio de los Naranjos. © SG")
+![Alminar campanario de la mezquita de Córdoba](etheria-images/2022/08/mezquita-cordoba-torre-alminar-683x1024.jpg "Torre-campanario y Patio de los Naranjos. © SG")
 
 ## Preguntas frecuentes
 

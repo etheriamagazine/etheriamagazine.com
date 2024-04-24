@@ -1,17 +1,17 @@
 ---
 title: "Diez mujeres que nos inspiraron en 2020"
 date: 2021-01-05
-coverImage: etheria_images/2020/12/mujeres-2020-ada-coleman.jpg
+coverImage: etheria-images/2020/12/mujeres-2020-ada-coleman.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 En Etheria Magazine nos gusta destacar las figuras femeninas que han hecho historia y también a aquellas viajeras que nos inspiran cada día con su curiosidad y sus relatos. Aquí hemos seleccionados 10 mujeres a las que hemos dedicado artículos o entrevistas en 2020, con perfiles para todos los gustos, pero con un denominador común: su empuje y valentía.
 
-![mujeres de la ciencia](etheria_images/2020/12/mujeres-2020-Hedy-Lamarr.jpg "Hedy Lamarr, inventora de la tecnología wifi. ©CC")
+![mujeres de la ciencia](etheria-images/2020/12/mujeres-2020-Hedy-Lamarr.jpg "Hedy Lamarr, inventora de la tecnología wifi. ©CC")
 
 ## 1\. Hedy Lamarr, protagonista del primer orgasmo (fingido) del cine e inventora de la tecnología wifi
 
@@ -28,7 +28,7 @@ contra las flotas enemigas. Era el inicio de las comunicaciones internacionales
 inalámbricas a larga distancia. Ni más ni menos. Es una de las mujeres que nos 
 inspiraron en 2020. 
 
-![viajes a la India](etheria_images/2020/12/mujeres-2020-anita-delgado.jpg "Anita se casó por el rito sij, con un sari de color grosella. © Marcus Lewis")
+![viajes a la India](etheria-images/2020/12/mujeres-2020-anita-delgado.jpg "Anita se casó por el rito sij, con un sari de color grosella. © Marcus Lewis")
 
 ## 2\. La “pasión india” de Anita Delgado
 
@@ -44,7 +44,7 @@ sociedad india que le había tocado vivir. Y tras su separación, siguió con su
 entre París, Málaga y Madrid dejando material suficiente para fascinar a escritores y 
 cineastas. 
 
-![mujeres en la mixologia](etheria_images/2020/12/mujeres-2020-ada-coleman.jpg "Ada Coleman y su cóctel Hanky Panky. © Pedro Grifol")
+![mujeres en la mixologia](etheria-images/2020/12/mujeres-2020-ada-coleman.jpg "Ada Coleman y su cóctel Hanky Panky. © Pedro Grifol")
 
 ## 3\. Ada Coleman y María Dolors Boadas, referentes del ‘poderío femenino’ y la igualdad en la mixología
 
@@ -58,7 +58,7 @@ Boadas se convirtió en todo un referente de la mixología en Cataluña cuando s
 cargo de la barra de la coctelería barcelonesa 'Boadas Bar' (fundado en 1933) tras la 
 muerte de su padre. 
 
-![mujeres en la historia](etheria_images/2020/12/mujeres-2020-lola-montes.jpg "Lola Montes y Luis I de Baviera.")
+![mujeres en la historia](etheria-images/2020/12/mujeres-2020-lola-montes.jpg "Lola Montes y Luis I de Baviera.")
 
 ## 4\. Lola Montes, una “falsa española” en la corte de Luis I de Baviera
 
@@ -73,7 +73,7 @@ Bolshoi de Moscú hasta la Ópera de Múnich. También daba conferencias relacio
 considera el primer libro de consejos de belleza de la Historia: ‘Las artes de la 
 belleza o consejos de tocados de la condesa de Landsfeld‘. 
 
-![mujeres Etheria](etheria_images/2020/12/mujeres-2020-manena-munar.jpg "Momentos inolvidables en Sudáfrica. © Helena Rodríguez")
+![mujeres Etheria](etheria-images/2020/12/mujeres-2020-manena-munar.jpg "Momentos inolvidables en Sudáfrica. © Helena Rodríguez")
 
 ## 5\. Manena Munar: “Todavía se me dispara la adrenalina cuando visito algún lugar por primera vez”
 
@@ -90,7 +90,7 @@ una serie de obras donde se mezclan las historias humanas y los cambios sociales
 sus anécdotas e historias de viajes tenía que estar entre las mujeres que nos inspiraron 
 en 2020. 
 
-![mujeres viajeras](etheria_images/2020/12/mujeres-2020-elena-del-amo.jpg "Viaje en tren en Sri Lanka. © Luis Davilla")
+![mujeres viajeras](etheria-images/2020/12/mujeres-2020-elena-del-amo.jpg "Viaje en tren en Sri Lanka. © Luis Davilla")
 
 ## 6\. Elena del Amo: “Recomendaría viajar a quien de verdad le guste y esté dispuesto a abrirse a otros mundos”
 
@@ -103,7 +103,7 @@ personal en proyectos humanitarios y la ilusión y el respeto por la profesión
 periodística. No os perdáis su entrevista para descubrir sus destinos preferidos y 
 aquellos que todavía le quedan por descubrir. 
 
-![mujeres en la ciencia](etheria_images/2020/12/mujeres-2020-isabel-zendal.jpg "‘Vacunación brazo a brazo’, de Constant Desbordes. (Imagen de portada de ‘Isabel Zendal Gómez en los Archivos de Galicia’. © Scala Archives-Firenze")
+![mujeres en la ciencia](etheria-images/2020/12/mujeres-2020-isabel-zendal.jpg "‘Vacunación brazo a brazo’, de Constant Desbordes. (Imagen de portada de ‘Isabel Zendal Gómez en los Archivos de Galicia’. © Scala Archives-Firenze")
 
 ## 7\. Isabel Zendal, la madre de todas las vacunas
 
@@ -118,7 +118,7 @@ mujer que ha pasado injustamente desapercibida para la sociedad española y que 
 vacuna de la viruela a Filipinas y a distintos lugares de América, salvando de esta 
 manera millones de vidas. Tenía que ser una de las mujeres que nos inspiraron en 2020. 
 
-![mujeres en la ciencia](etheria_images/2020/12/mujeres-2020-maria-andresa-casamayor.jpg "Fotograma del documental dedicado a María Andresa Casamayor. © Sintregua Comunicación")
+![mujeres en la ciencia](etheria-images/2020/12/mujeres-2020-maria-andresa-casamayor.jpg "Fotograma del documental dedicado a María Andresa Casamayor. © Sintregua Comunicación")
 
 ## 8\. María Andresa Casamayor, la aragonesa que soñaba con números
 
@@ -134,7 +134,7 @@ enseñanza, aprendió varias lenguas y vivió soltera en un momento en el que o 
 o entrabas a un convento. Es uno de esos referentes femeninos que deberían tener más 
 difusión en las escuelas actuales. 
 
-![mujeres periodistas](etheria_images/2020/12/mujeres-2020-marta-rojas.jpg "Marta Rojas en su casa. © Manena Munar")
+![mujeres periodistas](etheria-images/2020/12/mujeres-2020-marta-rojas.jpg "Marta Rojas en su casa. © Manena Munar")
 
 ## 9\. Marta Rojas. De joven cronista del Moncada a fecunda escritora
 
@@ -150,7 +150,7 @@ profunda vocación periodística, mirada sagaz, estilo directo y preciso, don de
 muchas cosas en pocas palabras”. Con esta arrolladora personalidad es sin duda una de 
 las mujeres que nos inspiraron en 2020. 
 
-![mujeres del sector turístico](etheria_images/2020/12/mujeres-2020-celia-diaz.jpg "Celia Díaz en el malecón de Cuba.")
+![mujeres del sector turístico](etheria-images/2020/12/mujeres-2020-celia-diaz.jpg "Celia Díaz en el malecón de Cuba.")
 
 ## 10\. Celia Díaz: “Viajar nos completa y nos hace mejores personas”
 

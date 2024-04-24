@@ -1,17 +1,17 @@
 ---
 title: "5 exposiciones temporales que no te puedes perder este invierno en Barcelona"
 date: 2020-12-09
-coverImage: etheria_images/2020/12/Patricio-Reig-Bramante.jpg
+coverImage: etheria-images/2020/12/Patricio-Reig-Bramante.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Los museos y salas de arte de la ciudad condal se fijan en Tàpies y Carlos Saura, miran a la Antártida y al diseño modernista, y muestran las obras generadas con las emociones de la pandemia. Estas exposiciones de Barcelona nos invitan a disfrutar del arte este invierno, y algunas gran parte de 2021.
 
-![Gino Rupert True Love](etheria_images/2020/12/Gino-Rubert-True-love-Pintura.jpg "© Gino Rupert. True Love. Pintura. 2020/ Cápsulas del Confinamiento.")
+![Gino Rupert True Love](etheria-images/2020/12/Gino-Rubert-True-love-Pintura.jpg "© Gino Rupert. True Love. Pintura. 2020/ Cápsulas del Confinamiento.")
 
 La oferta artística de los museos, fundaciones y galerías de Barcelona es muy amplia. 
 Imposible abarcar todas las posibilidades que ofrece la ciudad, pero hay algunas 
@@ -20,7 +20,7 @@ ruta cultural por la ciudad condal y comienza a disfrutar de las magníficas pro
 que están a tu disposición de forma temporal. Hemos seleccionado cinco exposiciones en 
 Barcelona que se alargan hasta 2021 y que seguro te enamorarán. 
 
-![exposicion de barcelona, antoni tapies](etheria_images/2020/12/Antoni-Tapies-expo-barcelona.jpg "'El grito. Amarillo y violeta', de © Antoni Tàpies, 1953")
+![exposicion de barcelona, antoni tapies](etheria-images/2020/12/Antoni-Tapies-expo-barcelona.jpg "'El grito. Amarillo y violeta', de © Antoni Tàpies, 1953")
 
 ## Tàpies a los 30
 
@@ -41,7 +41,7 @@ círculos de la vanguardia internacional.
 Lugar: Fundación Antoni Tàpies (Carrer d’Aragó, 255). Fecha: Hasta el 6 de junio de 
 2021. Precio: 8 € (entrada general). Hay descuentos. 
 
-![biombo la creacion de ramon sarsanedas](etheria_images/2020/12/Modernisme-Biombo-La-Creacion.jpg "Biombo 'La Creación' (1929), de Ramón Sarsanedas y Francesc d'A Galí. © Gasull")
+![biombo la creacion de ramon sarsanedas](etheria-images/2020/12/Modernisme-Biombo-La-Creacion.jpg "Biombo 'La Creación' (1929), de Ramón Sarsanedas y Francesc d'A Galí. © Gasull")
 
 ## Modernisme. Hacia la cultura del diseño
 
@@ -66,7 +66,7 @@ diseño más vanguardista.
 Lugar: Museu del Disseny (Pl. Glòries Catalanes, 37-38). Fecha: hasta diciembre de 2021. 
 Precio: 6 € (entrada general) y 4 € (reducida). 
 
-![dos miradas a la antartida, exposicion barcelona](etheria_images/2020/12/dos-miradas-antartida.jpg "Dos miradas a la Antártida.")
+![dos miradas a la antartida, exposicion barcelona](etheria-images/2020/12/dos-miradas-antartida.jpg "Dos miradas a la Antártida.")
 
 ## Dos miradas a la Antártida
 
@@ -86,7 +86,7 @@ investigación y cooperación internacional.
 
 Lugar: CosmoCaixa (Isaac Newton, 26). Precio: 6 €, entrada al museo. 
 
-![Carlos Pazos Acaramel, exposicion de barcelona](etheria_images/2020/12/capsulas-del-confinamiento.jpg "© Carlos Pazos Acaramel, Acaramelémonos.")
+![Carlos Pazos Acaramel, exposicion de barcelona](etheria-images/2020/12/capsulas-del-confinamiento.jpg "© Carlos Pazos Acaramel, Acaramelémonos.")
 
 ## 100 cápsulas de confinamiento
 
@@ -103,7 +103,7 @@ Fundació Vila Casas cuando se decretó el primer estado de alarma. Ante la
 excepcionalidad de la situación, este proyecto colectivo perseguía ver cómo los artistas 
 vivían la experiencia de la pandemia y cómo afectaba a sus procesos creativos. 
 
-![Patricio Reig Bramante, usted y yo](etheria_images/2020/12/Patricio-Reig-Bramante.jpg "© Patricio Reig Bramante: 'usted y yo'.")
+![Patricio Reig Bramante, usted y yo](etheria-images/2020/12/Patricio-Reig-Bramante.jpg "© Patricio Reig Bramante: 'usted y yo'.")
 
 ¿El resultado? 100 propuestas de artistas de diferente edad y condición que muestran sus 
 voces, sus registros y sus perspectivas. Entre ellos están Eulàlia Valldosera, Ignasi 
@@ -113,7 +113,7 @@ exposición, sin duda, que va más allá del arte.
 Lugar: Museo Can Framis (Carrer de Roc Boronat, 116-126). Fecha: Hasta el 17 de enero de 
 2021. Precio: 5€ (entrada general), 2 € (reducida). 
 
-![Carlos Saura, Canete, Cuenca, 1962](etheria_images/2020/12/Carlos-Saura.jpg "© Carlos Saura, Cañete, Cuenca, 1962.")
+![Carlos Saura, Canete, Cuenca, 1962](etheria-images/2020/12/Carlos-Saura.jpg "© Carlos Saura, Cañete, Cuenca, 1962.")
 
 ## Carlos Saura, fotógrafo
 
@@ -129,7 +129,7 @@ familia, sus escenarios favoritos… Son imágenes que hablan de su vida como si
 parte de un diario personal que jalona acontecimientos de su biografía y que basculan 
 entre lo personal y lo profesional. 
 
-![carlos saura, exposicion de barcelona](etheria_images/2020/12/Carlos-Saura-descanso-en-el-rodaje-692x1024.jpg "© Carlos Saura, descanso en el rodaje de 'Ana y los lobos'. Madrid, 1972.")
+![carlos saura, exposicion de barcelona](etheria-images/2020/12/Carlos-Saura-descanso-en-el-rodaje-692x1024.jpg "© Carlos Saura, descanso en el rodaje de 'Ana y los lobos'. Madrid, 1972.")
 
 Por eso, la muestra se estructura en cuatro ámbitos cronológicos: “Primer laboratorio”, 
 con su obra más temprana de los últimos años 40, donde utiliza como modelos a su propia 

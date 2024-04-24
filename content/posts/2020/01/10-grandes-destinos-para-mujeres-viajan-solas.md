@@ -1,12 +1,12 @@
 ---
 title: "10 destinos ideales para descubrir viajando sola"
 date: 2020-01-30
-coverImage: etheria_images/2019/05/viajar-sola-salar-uyuni.jpg
+coverImage: etheria-images/2019/05/viajar-sola-salar-uyuni.jpg
 categories: 
   - de-un-vistazo
   - viajar-sola
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Viajar sola puede llegar a ser una de las experiencias más placenteras de tu vida. Eso 
@@ -14,7 +14,7 @@ sí, primero prueba con destinos cercanos y cómodos antes de aventurarte más l
 te proponemos diez viajes de larga distancia para mujeres que ya están habituadas a 
 viajar solas. Amplía información en los enlaces integrados. 
 
-![Playa de isla Diablo, en el archipiélago de San Blas.](etheria_images/2019/06/Panama-San-Blas-isla-diablo.jpg "Playa de isla Diablo, en el archipiélago de San Blas.")
+![Playa de isla Diablo, en el archipiélago de San Blas.](etheria-images/2019/06/Panama-San-Blas-isla-diablo.jpg "Playa de isla Diablo, en el archipiélago de San Blas.")
 
 ## 1\. Couchsurfing en Panamá: Bocas del Toro y archipiélago de San Blas
 
@@ -26,7 +26,7 @@ del submarinismo en Bocas del Toro y el archipiélago de San Blas. Sigue leyendo
 artículo completo de [Viajar sola a 
 Panamá](https://etheriamagazine.com/2019/07/12/viajar-sola-panama-couchsurfing-panama-bocas-del-toro-archipielago-san-blas/). 
 
-![Flores en Mildford Sound, en Nueva Zelanda](etheria_images/2019/07/Nueva-Zelanda-flores-Mildford-Sound.jpg "Flores en Mildford Sound (Nueva Zelanda). © Aneta Foubikova")
+![Flores en Mildford Sound, en Nueva Zelanda](etheria-images/2019/07/Nueva-Zelanda-flores-Mildford-Sound.jpg "Flores en Mildford Sound (Nueva Zelanda). © Aneta Foubikova")
 
 ## 2\. Trekking en Nueva Zelanda
 
@@ -38,7 +38,7 @@ jornada por el Parque Nacional Tongariro. Sigue leyendo el artículo completo de
 sola a Nueva 
 Zelanda](https://etheriamagazine.com/2019/08/28/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking/). 
 
-![Barca en el lago Atitlán.](etheria_images/2020/01/Guatemala-lago-atitlan-flores-900x600.jpg "Barca en el lago Atitlán.")
+![Barca en el lago Atitlán.](etheria-images/2020/01/Guatemala-lago-atitlan-flores-900x600.jpg "Barca en el lago Atitlán.")
 
 ## 3\. Lago Atitlán (Guatemala)
 
@@ -49,7 +49,7 @@ Atitlán o San Pedro La Laguna y no sabrás cual de estos pueblos te gusta más.
 leyendo el artículo completo de [Viajar sola a Guatemala (lago 
 Atitlán)](https://etheriamagazine.com/2020/01/17/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala/). 
 
-![Elefantes en Sri Lanka.](etheria_images/2019/01/Viajes-mujeres-Sri-lanka-2-1024x682.jpg "Elefantes en Sri Lanka. © David Santiago")
+![Elefantes en Sri Lanka.](etheria-images/2019/01/Viajes-mujeres-Sri-lanka-2-1024x682.jpg "Elefantes en Sri Lanka. © David Santiago")
 
 ## 4\. Sri Lanka
 
@@ -60,7 +60,7 @@ Nacionales de Uda Walewe y Minneriya. Sigue leyendo el artículo completo de [Vi
 o en compañía a Sri 
 Lanka](https://etheriamagazine.com/2019/02/01/sri-lanka-para-mujeres-viajeras/). 
 
-![A las palmeras de Salento (Eje Cafetero de Colombia) se las conoce como 'bailarinas del viento'.](etheria_images/2019/01/Colombia-Valle-Cocora.jpg "A las palmeras de Salento (Eje Cafetero de Colombia) se las conoce como 'bailarinas del viento'.")
+![A las palmeras de Salento (Eje Cafetero de Colombia) se las conoce como 'bailarinas del viento'.](etheria-images/2019/01/Colombia-Valle-Cocora.jpg "A las palmeras de Salento (Eje Cafetero de Colombia) se las conoce como 'bailarinas del viento'.")
 
 ## 5\. Eje cafetero (Colombia)
 
@@ -71,7 +71,7 @@ Central de los Andes colombianos, ni el Parque Nacional del Café, en Montenegro
 leyendo el artículo completo de [Viajar sola a Colombia (Eje 
 Cafetero)](https://etheriamagazine.com/2019/01/28/viajar-sola-al-eje-cafetero-colombia/). 
 
-![Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi).](etheria_images/2019/12/viaje-china-senderismo-colinas-guangxi-900x600.jpg "Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi). © David Santiago")
+![Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi).](etheria-images/2019/12/viaje-china-senderismo-colinas-guangxi-900x600.jpg "Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi). © David Santiago")
 
 ## 6\. Guangxi (China)
 
@@ -82,7 +82,7 @@ bancales de arroz, pesca tradicional en los ríos y una población que vive al m
 las grandes urbes chinas. Sigue leyendo el artículo completo de [Viajar sola a China 
 (Guangxi)](https://etheriamagazine.com/2019/12/27/que-hacer-en-guangxi-viaja-sola-china/). 
 
-![Salar de Uyuni.](etheria_images/2019/05/viajar-sola-salar-uyuni.jpg "Salar de Uyuni. © Alan Hurt Jr.")
+![Salar de Uyuni.](etheria-images/2019/05/viajar-sola-salar-uyuni.jpg "Salar de Uyuni. © Alan Hurt Jr.")
 
 ## 7\. Salar de Uyuni
 
@@ -94,7 +94,7 @@ problemas que pueden surgir. Sigue leyendo el artículo completo de [Viajar sola
 Bolivia (Salar de 
 Uyuni)](https://etheriamagazine.com/2019/05/24/ruta-3-dias-salar-de-uyuni-y-precauciones-a-tener-en-cuenta/). 
 
-![Esnórquel en la Isla Perhentian (Malasia).](etheria_images/2019/04/malasia-isla-perhentian.jpg "Esnórquel en la Isla Perhentian (Malasia). © David Santiago")
+![Esnórquel en la Isla Perhentian (Malasia).](etheria-images/2019/04/malasia-isla-perhentian.jpg "Esnórquel en la Isla Perhentian (Malasia). © David Santiago")
 
 ## 8\. Malasia
 
@@ -105,7 +105,7 @@ selva como con sus increíbles fondos marinos y querrás quedarte en las playas 
 **islas Perhentian**. Sigue leyendo el artículo completo de [Viajar sola a 
 Malasia](https://etheriamagazine.com/2019/04/12/viajar-sola-malasia-pulau-tioman-perhentian/). 
 
-![El buque de Navimag atraviesa los canales chilenos.](etheria_images/2019/03/crucero-patagonia-chile.jpg "El buque de Navimag atraviesa los canales chilenos. © Navimag")
+![El buque de Navimag atraviesa los canales chilenos.](etheria-images/2019/03/crucero-patagonia-chile.jpg "El buque de Navimag atraviesa los canales chilenos. © Navimag")
 
 ## 9\. Crucero por la Patagonia chilena
 
@@ -118,7 +118,7 @@ camarote a modo de albergue), y que cuentan con charlas de especialistas a bordo
 leyendo el artículo completo de [Viajar sola a Chile (crucero Patagonia 
 chilena)](https://etheriamagazine.com/2019/03/22/viajar-sola-crucero-fiordos-canales-patagonia-chile/). 
 
-![Relax en Shigira Beach.](etheria_images/2019/04/okinawa-japon-tumbonas.jpg "Relax en Shigira Beach. © Felix Lorenzo")
+![Relax en Shigira Beach.](etheria-images/2019/04/okinawa-japon-tumbonas.jpg "Relax en Shigira Beach. © Felix Lorenzo")
 
 ## 10\. Okinawa (Japón)
 

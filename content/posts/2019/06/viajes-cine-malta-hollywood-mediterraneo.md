@@ -1,12 +1,12 @@
 ---
-title: "Malta, el Hollywood del Mediterráneo"
+title: "Localizaciones de cine en Malta, el Hollywood del Mediterráneo"
 date: 2019-06-14
-coverImage: etheria_images/2019/06/viajes-cine-malta-juego-tronos.jpg
+coverImage: etheria-images/2019/06/viaje-cine-malta-blue-lagoon-troya.jpg
 categories: 
   - viajes-cine
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Eva Madruga
 ---
 
@@ -15,7 +15,7 @@ gigantesco y cotizado plató de cine. Grandes éxitos de taquilla como _Ágora_,
 _Juego de Tronos_ o _Gladiator_ se han rodado aquí. Te proponemos recorrer el 
 archipiélago maltés a través de sus escenarios cinematográficos. 
 
-![Algunas escenas de 'Troya' se rodaron en la Laguna Azul de Comino.](etheria_images/2019/06/viaje-cine-malta-blue-lagoon-troya.jpg "Algunas escenas de 'Troya' se rodaron en la Laguna Azul de Comino. © Visit Malta")
+![Algunas escenas de 'Troya' se rodaron en la Laguna Azul de Comino.](etheria-images/2019/06/viaje-cine-malta-blue-lagoon-troya.jpg "Algunas escenas de 'Troya' se rodaron en la Laguna Azul de Comino. © Visit Malta")
 
 Este pequeño territorio de sólo 316 km2 –aproximadamente la mitad de Ibiza– fue 
 codiciada por fenicios, cartagineses, romanos, bizantinos, árabes, normandos, españoles, 
@@ -31,9 +31,9 @@ Ritchie o Alejandro Amenábar –entre otros directores de renombre– hayan sen
 por esta tierra y la hayan inmortalizado en sus largometrajes, ambientando todo tipo de 
 épocas y lugares. Repasamos algunos de ellos. 
 
-![Fotograma de 'El expreso de medianoche'.](etheria_images/2019/06/viaje-cine-expreso-de-medianoche.jpg "Fotograma de 'El expreso de medianoche'.")
+![Fotograma de 'El expreso de medianoche'.](etheria-images/2019/06/viaje-cine-expreso-de-medianoche.jpg "Fotograma de 'El expreso de medianoche'.")
 
-## 1978: 'El expreso de medianoche'
+## 1978: El expreso de medianoche
 
 Este éxito de taquilla del cineasta británico Alan Parker fue rodado casi en su 
 totalidad en Malta. La isla se convirtió en Turquía para recrear el infierno que vivió 
@@ -44,19 +44,19 @@ estuvo Billy encerrado. Más allá del mapa cinéfilo, la capital del país es u
 mejores lugares para ver la perfecta interacción que se da entre el color miel de la 
 piedra caliza de los edificios con el intenso azul del mar. 
 
-![Vista del Fuerte de San Telmo.](etheria_images/2019/06/viaje-cine-malta-expreso-medianoche.jpg "Vista del Fuerte de San Telmo. © Viewingmalta")
+![Vista del Fuerte de San Telmo.](etheria-images/2019/06/viaje-cine-malta-expreso-medianoche.jpg "Vista del Fuerte de San Telmo. © Viewingmalta")
 
 Entre las visitas imprescindibles de esta bella ciudad amurallada, además de caminar por 
 su calle más transitada (Republic Street) y las aledañas, hay que apuntar la 
 **concatedral de San Juan** que tras un austero exterior muestra deslumbrantes tesoros 
-como el pavimento y el cuadro de Caravaggio, _La decapitación de san Juan Bautista_; El 
+como el pavimento y el cuadro de Caravaggio, _La decapitación de San Juan Bautista_; El 
 palacio del Gran Maestre, la Casa Rocca Piccola y _ver_ atardecer desde los **Upper 
 Barrakka Gardens**, unos jardines con bellas vistas del Gran Puerto y las ciudades 
 históricas de Vittoriosa, Cospicua y Senglea. 
 
-![Set de rodaje de Popeye en Malta.](etheria_images/2019/06/viajes-cine-malta-popeye.jpg "Set de rodaje de Popeye en Malta. © Viewingmalta/ Paramount Picture")
+![Set de rodaje de Popeye en Malta.](etheria-images/2019/06/viajes-cine-malta-popeye.jpg "Set de rodaje de Popeye en Malta. © Viewingmalta/ Paramount Picture")
 
-## 1980: 'Popeye'
+## 1980: Popeye
 
 La **bahía de Anchor Bay**, en el noroeste de la isla, fue el lugar escogido para 
 construir el set de rodaje de la película dedicada a las aventuras del famoso marino que 
@@ -66,9 +66,9 @@ las visitas obligadas. Los más pequeños –y los mayores también– disfrutar
 auténtico museo a cielo abierto con atracciones, parques de bolas y espectáculos. 
 Imprescindible dar un paseo en bote por la bahía y contemplar el pueblo desde el mar. 
 
-![Película Tormenta Blanca.](etheria_images/2019/06/viaje-cine-malta-tormenta-blanca.jpg "Película Tormenta Blanca. © Visit Malta")
+![Película Tormenta Blanca.](etheria-images/2019/06/viaje-cine-malta-tormenta-blanca.jpg "Película Tormenta Blanca. © Visit Malta")
 
-## 1996: 'La tormenta blanca'
+## 1996: La tormenta blanca
 
 Además de enclaves naturales, Malta cuenta con los Mediterranean Film Studios, un 
 espacio de cerca de siete hectáreas donde se han creado impresionantes decorados. Ahí se 
@@ -79,21 +79,21 @@ Mediterráneo. Por eso no es de extrañar que en estos estudios se rodase la esc
 fuerte tormenta de la película dirigida por Ridley Scott, donde los efectos especiales 
 ocupaban un lugar determinante. 
 
-![Rodaje de 'Gladiator'.](etheria_images/2019/06/viajes-cine-gladiator.jpg "Rodaje de 'Gladiator'. © Dreamworks LLC & Universal Pictures/ Malta Film Commission")
+![Rodaje de 'Gladiator'.](etheria-images/2019/06/viajes-cine-gladiator.jpg "Rodaje de 'Gladiator'. © Dreamworks LLC & Universal Pictures/ Malta Film Commission")
 
-## 2000: 'Gladiator'
+## 2000: Gladiator
 
 El entorno del **Fuerte Ricasoli** se transformó en la antigua Roma para la película 
 épica _Gladiator_, dirigida también por Ridley Scott. Allí se levantó una réplica del 
 Coliseo de quince metros de altura. Durante el rodaje de la cinta se produjo el 
-fallecimiento del actor británico Oliver Reed en un bar de Valletta llamado “El Pub” 
+fallecimiento del actor británico Oliver Reed en un bar de Valletta llamado El Pub 
 (Archbishop Street). Desde entonces, este establecimiento, conocido ya con el 
 sobrenombre de “Ollies Last Pub”, se ha convertido en un lugar de peregrinación para sus 
 admiradores. 
 
-!['La venganza del conde de Montecristo'.](etheria_images/2019/06/viajes-cine-malta-Montecristo.jpg "'La venganza del conde de Montecristo'. © Albert-Watson/ Spyglass Entertainment Group y © Viewingmalta")
+!['La venganza del conde de Montecristo'.](etheria-images/2019/06/viajes-cine-malta-Montecristo.jpg "'La venganza del conde de Montecristo'. © Albert-Watson/ Spyglass Entertainment Group y © Viewingmalta")
 
-## 2002: 'La venganza del conde de Montecristo'
+## 2002: La venganza del conde de Montecristo
 
 Comino es otra de las islas de Malta que ha enamorado a cineastas y que atrae a los 
 viajeros. Aquí, en la **Torre de Santa María**, se representó la fortaleza de la isla de 
@@ -104,9 +104,9 @@ tan popular tiene el inconveniente de que la encontrarás algo masificada. Aún 
 paraje es inigualable. Para llegar se puede viajar en uno de los ferries que salen desde 
 Malta o Gozo**.** 
 
-!['La liga de los hombres extraordinarios'. Panorámica de Xlendi Bay.](etheria_images/2019/06/viajes-cine-liga-hombres-extraordinarios.jpg "'La liga de los hombres extraordinarios'. Panorámica de Xlendi Bay. ©Visit Malta")
+!['La liga de los hombres extraordinarios'. Panorámica de Xlendi Bay.](etheria-images/2019/06/viajes-cine-liga-hombres-extraordinarios.jpg "'La liga de los hombres extraordinarios'. Panorámica de Xlendi Bay. ©Visit Malta")
 
-## 2003: 'La liga de los hombres extraordinarios'
+## 2003: La liga de los hombres extraordinarios
 
 Ningún viaje a Malta estará completo sin visitar la isla de Gozo. Resulta casi imposible 
 no caer profundamente enamorado de la belleza natural del lugar, que muestra identidad y 
@@ -118,25 +118,19 @@ panorámica del agua y del cielo que daba a los actores la apariencia de estar e
 Actualmente, este pueblo gocitano se está posicionando como uno de los destinos de playa 
 favoritos de Malta. 
 
-? No te pierdas este [artículo de 
-Gozo](http://etheriamagazine.com/2018/05/17/ecoturismo-en-gozo-islas-maltesas/). 
+![Esta escena de 'Troya' se rodó en el Fuerte Ricasoli.](etheria-images/2019/06/viajes-cine-troya.jpg "Esta escena de 'Troya' se rodó en el Fuerte Ricasoli. © 2004 Warner Bros")
 
-![Esta escena de 'Troya' se rodó en el Fuerte Ricasoli.](etheria_images/2019/06/viajes-cine-troya.jpg "Esta escena de 'Troya' se rodó en el Fuerte Ricasoli. © 2004 Warner Bros")
-
-## 2004: 'Troya'
+## 2004: Troya
 
 Este espectáculo y entretenimiento épico protagonizado por Brad Pitt y Orlando Bloom 
 también tiene localizaciones maltesas. Además del Fuerte Ricasoli, la película muestra 
 reclamos turísticos de la isla como la playa Golden Bay, ubicada en un acantilado en el 
 noroeste de Malta; y la Laguna Azul, en Comino. Por cierto, esta paradisíaca cala de 
-aguas cristalinas apareció también en la película _El Lago Azul._ 
+aguas cristalinas apareció también en la película _El lago azul._ 
 
-![Marsaxlokk Harbour](etheria_images/2019/05/turismo-cine-malta-agora.jpg "Marsaxlokk Harbour © Visit Malta y Rodaje de Ágora/ Teresalsasi")
+![Marsaxlokk Harbour](etheria-images/2019/05/turismo-cine-malta-agora.jpg "Marsaxlokk Harbour © Visit Malta y Rodaje de Ágora/ Teresalsasi")
 
-?No te pierdas los [escenarios de cine de 
-Jamaica](http://etheriamagazine.com/2019/03/15/jamaica-turismo-viajes-de-cine/). 
-
-## 2009: 'Ágora'
+## 2009: Ágora
 
 En esta superproducción histórica dirigida por Alejandro Amenábar, Malta se convirtió en 
 la antigua Alejandría, donde vivió la famosa matemática Hipatia. Entre las 
@@ -152,9 +146,9 @@ maltesa, **Mdina**. La conocida como c_iudad del silencio_ está amurallada, sit
 sobre un promontorio y repleta de bellos edificios, palacios barrocos y un laberinto de 
 calles estrechas donde el susurro del pasado se hace evidente. 
 
-![Rodaje de 'Juego de Tronos' en la desaparecida Ventana Azul de Gozo.](etheria_images/2019/06/viajes-cine-malta-juego-tronos.jpg "Rodaje de 'Juego de Tronos' en la desaparecida Ventana Azul de Gozo. © HBO")
+![Rodaje de 'Juego de Tronos' en la desaparecida Ventana Azul de Gozo.](etheria-images/2019/06/viajes-cine-malta-juego-tronos.jpg "Rodaje de 'Juego de Tronos' en la desaparecida Ventana Azul de Gozo. © HBO")
 
-## 2011: 'Juego de tronos'
+## 2011: Juego de tronos
 
 Aunque estamos todavía con la resaca del final de la serie _Juego de Tronos_, no está de 
 más recordar que los comienzos televisivos del universo de George R. R. Martin se 
@@ -166,12 +160,12 @@ Drogo**. Los impresionantes acantilados de Gozo se convirtieron en los exteriore
 ciudad libre de Pentos, donde Daenerys y Viserys Targaryen pasan una temporada como 
 invitados del Magíster Illiryo Mopatis. 
 
-? No te pierdas este artículo de la [Ruta de Juego de Tronos en Irlanda del 
+\*No te pierdas este artículo de la [Ruta de Juego de Tronos en Irlanda del 
 Norte](http://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/). 
 
-![Rodaje de 'Juego de tronos' en Mdina (Malta).](etheria_images/2019/06/viajes-cine-mdina-juego-tronos.jpg "Rodaje de 'Juego de tronos' en Mdina (Malta). © HBO")
+![Rodaje de 'Juego de tronos' en Mdina (Malta).](etheria-images/2019/06/viajes-cine-mdina-juego-tronos.jpg "Rodaje de 'Juego de tronos' en Mdina (Malta). © HBO")
 
-## Otros rodajes en Malta
+**Otros rodajes en Malta** 
 
 Está claro que este pequeño archipiélago se lleva bien con el séptimo arte. Si te 
 apasiona el turismo cinematográfico, aquí tienes otras películas rodadas en territorio 
@@ -183,7 +177,7 @@ o _Frente al mar_ (2015).
 Pero más allá del cine, Malta ofrece un sinfín de estímulos irresistibles que no te 
 dejarán indiferente. No dejes de **protagonizar tu propia película...** 
 
-### Guía de viajes de Malta
+## Guía de viajes de Malta
 
 **¿Cuál es el mejor momento para viajar a Malta?** 
 

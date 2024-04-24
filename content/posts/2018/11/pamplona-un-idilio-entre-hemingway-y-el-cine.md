@@ -1,12 +1,12 @@
 ---
 title: "Pamplona, un idilio entre Hemingway y el cine"
 date: 2018-11-30
-coverImage: etheria_images/2018/11/Hemingway-1959-Pamplona-Iruña.jpg
+coverImage: etheria-images/2018/11/Hemingway-1959-Pamplona-Iruña.jpg
 categories: 
   - viajes-cine
   - organiza-tu-viaje
   - festivales
-author: 
+authors: 
   - Eva Madruga
 ---
 
@@ -17,7 +17,7 @@ enamoró que regresó 8 veces más. El evento, que este año se centra en la rep
 cinematográfica de la ciudad, incluye una exposición, degustaciones gastronómicas, 
 proyecciones cinematográficas y visitas guiadas. 
 
-![Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.](etheria_images/2018/11/Festival-cine-pamplona-1024x716.jpg "Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.")
+![Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.](etheria-images/2018/11/Festival-cine-pamplona-1024x716.jpg "Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.")
 
 Difícilmente los sanfermines serían tan universales si Ernest Hemingway no se hubiera 
 apasionado tanto con esta fiesta y hubiera escrito su novela **_Fiesta_**. O quizás sí. 
@@ -34,7 +34,7 @@ gracias al escritor. Lo mejor para descubrir esta conexión entre Hemingway, Pam
 el cine es visitar la exposición '_Rodando Hemingway_', que se ha instalado en la plaza 
 del Castillo. 
 
-![Ernest Hemingway cerca de Pamplona en 1927.](etheria_images/2018/11/Pamplona-hemingway-1927.jpg "Ernest Hemingway cerca de Pamplona en 1927.")
+![Ernest Hemingway cerca de Pamplona en 1927.](etheria-images/2018/11/Pamplona-hemingway-1927.jpg "Ernest Hemingway cerca de Pamplona en 1927.")
 
 ## Fotografías inéditas
 
@@ -77,7 +77,7 @@ proyectarán en la Filmoteca de Navarra: _Por quién doblan las campanas_, _Tene
 tener_ y _Forajidos_. Las catas cuestan dos euros y las inscripciones se recogen en la 
 Oficina de Turismo de Pamplona. 
 
-![Hemingway en Pamplona (1959).](etheria_images/2018/11/Pamplona-hemingway-1959.jpg "Hemingway en Pamplona (1959).")
+![Hemingway en Pamplona (1959).](etheria-images/2018/11/Pamplona-hemingway-1959.jpg "Hemingway en Pamplona (1959).")
 
 ## Nuevos productos gastronómicos
 

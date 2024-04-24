@@ -1,11 +1,11 @@
 ---
 title: "Machu Picchu y otros lugares imprescindibles de Perú"
 date: 2023-08-30
-coverImage: etheria_images/2023/08/Laguna-Huacachina.jpg
+coverImage: etheria-images/2023/08/Laguna-Huacachina.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Perú es uno de esos países que siempre está presente en la lista de deseos de aquellas 
@@ -13,7 +13,7 @@ personas con espíritu aventurero, uno de esos sueños que junto con lugares com
 Jordania habla de antiguas civilizaciones y de misterio. Te animamos a conocer Machu 
 Picchu, su abanderado turístico, pero también otros lugares imprescindibles de Perú. 
 
-![Mujeres peruanas ataviadas con el traje tradicional](etheria_images/2023/08/mujeres-peru-viajes.jpg "La cultura y el folclore son una atractivo añadido en Perú. © Deb Dowd")
+![Mujeres peruanas ataviadas con el traje tradicional](etheria-images/2023/08/mujeres-peru-viajes.jpg "La cultura y el folclore son una atractivo añadido en Perú. © Deb Dowd")
 
 Si llevas ya algún tiempo pensando en viajar al país andino, este artículo donde te 
 enumeramos los lugares imprescindibles de Perú te va a interesar. Sin profundizar 
@@ -43,7 +43,7 @@ del año podrás callejear por el centro histórico en busca de recuerdos del pa
 pasear en bicicleta por las calles de Miraflores o incluso sobrevolar la Costa Verde en 
 parapente. 
 
-![playa mayor de lima, la capital de Perú](etheria_images/2023/08/lima-peru.jpg "Plaza Mayor de Lima. © Karina Mendoza/ Promperú")
+![playa mayor de lima, la capital de Perú](etheria-images/2023/08/lima-peru.jpg "Plaza Mayor de Lima. © Karina Mendoza/ Promperú")
 
 ## Machu Picchu
 
@@ -55,7 +55,7 @@ políticos y culturales más importantes del imperio incaico. Este 2023, **Machu
 conmemora 16 años como una de las Siete Maravillas del Mundo Moderno, un buen motivo 
 para ir a visitarlo si aún no lo has hecho. 
 
-![Ciudadela de Machu Picchu, uno de los imprescindibles de Perú](etheria_images/2023/08/machupicchu.jpg "Ciudadela de Machu Picchu. © Wells Baum")
+![Ciudadela de Machu Picchu, uno de los imprescindibles de Perú](etheria-images/2023/08/machupicchu.jpg "Ciudadela de Machu Picchu. © Wells Baum")
 
 ## Arequipa
 
@@ -68,7 +68,7 @@ blancos hechos de sillar. Reserva tiempo también para degustar la rica **cocina
 Arequipa** en la que destacan platos como el rocoto relleno o el cuy frito, también 
 conocido como chactado. 
 
-![Un campanario de Arequipa con el volcán al fondo](etheria_images/2023/08/arequipa-volcan-peru.jpg "Arequipa, con el omnipresente volcán Misti. © Megan Kotlus")
+![Un campanario de Arequipa con el volcán al fondo](etheria-images/2023/08/arequipa-volcan-peru.jpg "Arequipa, con el omnipresente volcán Misti. © Megan Kotlus")
 
 ### Valle y cañón del Colca
 
@@ -77,7 +77,7 @@ Arequipa sin visitar el **Valle del Colca** donde puedes practicar senderismo, r
 ciclismo de montaña. Además, en el **Cañón del Colca**, uno de los más profundos del 
 mundo, es posible admirar el cóndor andino. 
 
-![Valle y Cañón del Colca, uno de los lugares desconocidos pero imprescindibles de Perú](etheria_images/2023/08/Valle-Canon-Colca.jpg "Valle y Cañón del Colca. © Gihan Tubbeh/ Promperú")
+![Valle y Cañón del Colca, uno de los lugares desconocidos pero imprescindibles de Perú](etheria-images/2023/08/Valle-Canon-Colca.jpg "Valle y Cañón del Colca. © Gihan Tubbeh/ Promperú")
 
 ## Puno y el lago Titicaca
 
@@ -97,7 +97,7 @@ rituales funerarios de las culturas Inca, Colla y Tiahuanaco.
 Isla del 
 Sol](https://etheriamagazine.com/2019/12/20/que-ver-en-lago-titicaca-isla-del-sol-copacabana-bolivia/). 
 
-![Barca de totora en el Lago Titicaca](etheria_images/2023/08/lago-titicada-barca-totora.jpg "Lago Titicaca. © William Reis")
+![Barca de totora en el Lago Titicaca](etheria-images/2023/08/lago-titicada-barca-totora.jpg "Lago Titicaca. © William Reis")
 
 ## Ica y las Líneas de Nasca
 
@@ -110,7 +110,7 @@ hasta 270 metros de longitud, continúan siendo uno de los mayores misterios del
 Anímate a identificar desde el aire las figuras del colibrí, el cóndor, la araña o el 
 mono. 
 
-![Figura del cóndor, en las Líneas de Nasca.](etheria_images/2023/08/lineas-nasca-peru.jpg "Figura del cóndor, en las Líneas de Nasca.")
+![Figura del cóndor, en las Líneas de Nasca.](etheria-images/2023/08/lineas-nasca-peru.jpg "Figura del cóndor, en las Líneas de Nasca.")
 
 ### Laguna de Huacachina
 

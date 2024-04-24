@@ -1,18 +1,18 @@
 ---
 title: "Cascais, Sintra y Estoril, la escapada con amigas que mereces"
 date: 2018-07-31
-coverImage: etheria_images/2018/07/Palacio-de-Queluz-RuiCunha-turismo-Cascais.jpg
+coverImage: etheria-images/2018/07/Palacio-de-Queluz-RuiCunha-turismo-Cascais.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Es la zona más exclusiva de Portugal, tan apetecible que hemos decidido regalarnos 48 horas entre glamour y belleza. Aquí se asientan los hoteles más lujosos y tienen su residencia las grandes familias y fortunas del país. Hablamos de la señorial Cascais y de sus vecinas Sintra y Estoril, un destino tan ideal como cercano para pasar un par de días en buena compañía.
 
-![viaje mujeres cascais carcavelos](etheria_images/2018/07/Esplanada-Capricciosa-Carcavelos-Cascais-1024x683.jpg "Esplanada Capricciosa, Carcavelos (Cascais). © Rui Cunha")
+![viaje mujeres cascais carcavelos](etheria-images/2018/07/Esplanada-Capricciosa-Carcavelos-Cascais-1024x683.jpg "Esplanada Capricciosa, Carcavelos (Cascais). © Rui Cunha")
 
 ```
 Actualizado agosto 2021
@@ -25,7 +25,7 @@ el encanto y el esplendor de un pasado glorioso. No en vano aquí se asentaron r
 aristócratas y ricos con muy buen gusto. Y lo suyo sería disfrutar de las tres 
 localidades, porque cada una de ellas posee una belleza singular. 
 
-![viaje mujeres cascais fin de semana](etheria_images/2018/07/Cidadela-Turismo-Cascais-1024x683.jpg "Ciudadela de Cascais. © Rui Cunha/ T.Cascais")
+![viaje mujeres cascais fin de semana](etheria-images/2018/07/Cidadela-Turismo-Cascais-1024x683.jpg "Ciudadela de Cascais. © Rui Cunha/ T.Cascais")
 
 Cascais es uno de esos lugares **cosmopolitas y turísticos**, de toda la vida, 
 circunstancia a la que contribuye, sin duda, su cercanía con Lisboa, además de sus 
@@ -45,7 +45,7 @@ también frecuentaban los espías británicos, japoneses y alemanes, los de carn
 que poblaron la zona durante la Segunda Guerra Mundial, y que son lugares que aún hoy se 
 pueden visitar. 
 
-![fin de semana en cascais para mujeres](etheria_images/2018/07/Centro-Cascais-Turismo-Cascais-1024x681.jpg "Centro de Cascais. © Paulo Silva")
+![fin de semana en cascais para mujeres](etheria-images/2018/07/Centro-Cascais-Turismo-Cascais-1024x681.jpg "Centro de Cascais. © Paulo Silva")
 
 Una buena idea para tomar el pulso a **Cascais** es dar un paseo relajado, sin prisas, 
 por su centro histórico y sin perder de vista su magnífica **Ciudadela**. Nos 
@@ -72,7 +72,7 @@ impresionante Cabo da Roca –”el lugar donde la tierra acaba y el mar comienz
 Luís de Camoes– porque ocupa el punto más occidental de la Europa continental con 
 acantilados que superan los 140 metros de altura. 
 
-![Palacio da pena viaje a cascais](etheria_images/2018/07/Palacio-da-Pena-Sintra-Turismo-Cascais-1024x651.jpg "Palacio da Pena (Sintra).")
+![Palacio da pena viaje a cascais](etheria-images/2018/07/Palacio-da-Pena-Sintra-Turismo-Cascais-1024x651.jpg "Palacio da Pena (Sintra).")
 
 Ya hemos llegado a **Sintra** y, para aproximarnos a lo que nos ofrece esta bellísima y 
 romántica ciudad, sólo apuntaremos dos datos: tiene la declaración de Patrimonio de la 
@@ -84,7 +84,7 @@ sobre las ruinas de un monasterio de jerónimos del siglo XV; y el **Palacio de 
 antigua residencia de verano de la familia real portuguesa, más conocido como “el 
 Versalles portugués”. 
 
-![Fin de semana a Sintra](etheria_images/2018/07/Palacio-de-Queluz-RuiCunha-turismo-Cascais-1024x676.jpg "El Palacio de Queluz (Sintra) es conocido como el Versalles portugués.")
+![Fin de semana a Sintra](etheria-images/2018/07/Palacio-de-Queluz-RuiCunha-turismo-Cascais-1024x676.jpg "El Palacio de Queluz (Sintra) es conocido como el Versalles portugués.")
 
 ## Alquimia y masonería
 
@@ -97,7 +97,7 @@ rey Juan V de Portugal a su esposa, la archiduquesa María Ana de Austria, por d
 descendencia; o el **Castelo dos Mouros**, junto al Palacio da Pena, un castillo 
 totalmente recuperado y que fue construido por los árabes durante los siglos VIIII y IX. 
 
-![](etheria_images/2018/07/Guincho-cresmina-RuiCunha-Turismo-Cascais-1024x682.jpg "Playa de Guincho (Cascais).")
+![](etheria-images/2018/07/Guincho-cresmina-RuiCunha-Turismo-Cascais-1024x682.jpg "Playa de Guincho (Cascais).")
 
 Las playas de arena dorada y aguas cristalinas son otro de los grandes atractivos de 
 esta zona y son perfectas para recorrerlas con amigas. Tienen mucho encanto porque 
@@ -107,7 +107,7 @@ el inmenso campo de golf del magnífico hotel The Otaivos, o la de **Adraga**, e
 parque natural, ambas convertidas en uno de los destinos soñados por los amantes del 
 surf, por la personalidad y fuerza de sus aguas. 
 
-![casino estoril viaje lisboa cascais mujeres](etheria_images/2018/07/Casino-Estoril-1024x621.jpg "Casino Estoril.")
+![casino estoril viaje lisboa cascais mujeres](etheria-images/2018/07/Casino-Estoril-1024x621.jpg "Casino Estoril.")
 
 ## Un pastel con el agente 007
 
@@ -124,7 +124,7 @@ antigua **Pastelería Garret de Estoril**, tan querida por los espías y los dev
 las novelas de Ian Fleming. No nos despistemos, porque en la cola nos podemos encontrar, 
 ya lo hemos advertido, al agente 007. Para endulzar la aventura. 
 
-![gastronomía portuguesa fin de semana Cascais](etheria_images/2018/07/Gastronomia-Paulo-Silva-Turismo-Cascais-1024x702.jpg "Cataplana de pescado.")
+![gastronomía portuguesa fin de semana Cascais](etheria-images/2018/07/Gastronomia-Paulo-Silva-Turismo-Cascais-1024x702.jpg "Cataplana de pescado.")
 
 ### CONSEJOS ETHERIA
 

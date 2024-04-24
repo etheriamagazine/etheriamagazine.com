@@ -1,18 +1,18 @@
 ---
 title: "Excursión a Setenil de las Bodegas: qué ver en este precioso pueblo blanco de Cádiz"
 date: 2022-07-22
-coverImage: etheria_images/2022/07/Setenil-cuevas-sombra.jpg
+coverImage: etheria-images/2022/07/Setenil-cuevas-sombra.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 [](https://etheriamagazine.com/wp-admin/edit.php?post_type=post)Los pueblos blancos de Cádiz son una fuente de excursiones en cualquier época del año y Setenil de las Bodegas es uno de los imprescindibles. Te damos las claves para organizar una excursión a Setenil de las Bodegas y los rincones que no puedes perderte.
 
-![Letras de Setenil de las Bodegas con la iglesia de la Encarnación al fondo](etheria_images/2022/07/setenil-letras-mirador-carmen.jpg "Mirador del Carmen. © Susana García/Etheria Magazine")
+![Letras de Setenil de las Bodegas con la iglesia de la Encarnación al fondo](etheria-images/2022/07/setenil-letras-mirador-carmen.jpg "Mirador del Carmen. © Susana García/Etheria Magazine")
 
 Setenil de las Bodegas tiene que estar en tu lista de excursiones imprescindibles si 
 pasas unos días en Cádiz o Málaga, ya que es uno de esos rincones mágicos que guarda la 
@@ -57,7 +57,7 @@ de lluvia y abastecer a la fortaleza. Se puede visitar para ver sus bóvedas de 
 apoyadas sobre dos pilares centrales y tres arcos. Es increíble el fresquito que hace 
 dentro en los días más calurosos de verano. 
 
-![almacenamiento de agua de la época árabe situado bajo el torreón de Setenil](etheria_images/2022/07/setenil-aljibe.jpg "Aljibe de Setenil de las Bodegas. © SG/ Etheria Magazine")
+![almacenamiento de agua de la época árabe situado bajo el torreón de Setenil](etheria-images/2022/07/setenil-aljibe.jpg "Aljibe de Setenil de las Bodegas. © SG/ Etheria Magazine")
 
 ### 3\. Casa de la Damita de Setenil
 
@@ -68,7 +68,7 @@ incalculable. Esta venus de cinco mil años de antigüedad ha permitido, junto c
 restos arqueológicos, certificar la presencia humana en las cuevas de Setenil desde el 
 Calcolítico. 
 
-![venus del calcolítico en Setenil](etheria_images/2022/07/Setenil-idolo-calcolitico.jpg "La diminuta damita de Setenil. © SG/ Etheria Magazine")
+![venus del calcolítico en Setenil](etheria-images/2022/07/Setenil-idolo-calcolitico.jpg "La diminuta damita de Setenil. © SG/ Etheria Magazine")
 
 En este museo se guardan además otros restos arqueológicos de importancia como tres 
 estelas funerarias nazaríes. 
@@ -89,7 +89,7 @@ el laberinto de casas inmaculadas que forman el pueblo. Al lado puedes acercarte
 conocer la **ermita de Nuestra Señora del Carmen**, del siglo XVIII, con un bonito 
 retablo dedicado a la patrona de la villa. 
 
-![panorámica de Setenil de las Bodegas desde el mirador del Carmen](etheria_images/2022/07/Setenil-mirador-carmen.jpg "Vistas de la iglesia de la Encarnación y el torreón desde el mirador del Carmen. © SG/ Etheria Magazine")
+![panorámica de Setenil de las Bodegas desde el mirador del Carmen](etheria-images/2022/07/Setenil-mirador-carmen.jpg "Vistas de la iglesia de la Encarnación y el torreón desde el mirador del Carmen. © SG/ Etheria Magazine")
 
 ### 6\. Calle Herrería
 
@@ -97,7 +97,7 @@ De la plaza de Andalucía sale la empinada calle Herrería, considerada una de l
 bonitas de Andalucía. Estrecha, escalonada, decorada con rejas y macetas y protegida en 
 parte por las rocas, tiene hasta un “rincón del beso”. No podrás resistirte a una foto. 
 
-![calle típica de Setenil de las Bodegas cubierta en parte por la piedra](etheria_images/2022/07/Setenil-calle-683x1024.jpg "La calle Herrería, una de las más bonitas de Setenil. © SG/ Etheria Magazine")
+![calle típica de Setenil de las Bodegas cubierta en parte por la piedra](etheria-images/2022/07/Setenil-calle-683x1024.jpg "La calle Herrería, una de las más bonitas de Setenil. © SG/ Etheria Magazine")
 
 ### 7\. Calle Cuevas de la Sombra
 
@@ -108,7 +108,7 @@ ido creciendo el pueblo forma un tejado completo sobre las casas. Y debajo, casa
 y la vida de un pueblo que parece ajeno a la originalidad que supone encajar 
 completamente una calle bajo la roca. 
 
-![calle bajo la roca en Setenil de las Bodegas](etheria_images/2022/07/Setenil-cuevas-sombra.jpg "Calle de las Cuevas de la Sombra. © SG/ Etheria Magazine")
+![calle bajo la roca en Setenil de las Bodegas](etheria-images/2022/07/Setenil-cuevas-sombra.jpg "Calle de las Cuevas de la Sombra. © SG/ Etheria Magazine")
 
 ### 8\. Calle Cuevas del Sol
 
@@ -118,7 +118,7 @@ de la anterior calle, aquí la piedra cubre sólo uno de los lados, ya que el ot
 asoma directamente al río. Es una de las calles más animadas de Setenil, con terrazas, 
 bares y tiendas de souvenirs. 
 
-![terrazas para tomar algo en Setenil de las Bodegas en la calle Cuevas del Sol](etheria_images/2022/07/Setenil-cuevas-sol.jpg "Calle de las Cuevas del Sol. © SG/ Etheria Magazine")
+![terrazas para tomar algo en Setenil de las Bodegas en la calle Cuevas del Sol](etheria-images/2022/07/Setenil-cuevas-sol.jpg "Calle de las Cuevas del Sol. © SG/ Etheria Magazine")
 
 ### 9\. Calles Jabonería y Cabrerizas  
 
@@ -137,7 +137,7 @@ que el nombre lo recibe de un hijo prematuro que dio a luz Isabel de Castilla du
 asedio de la villa, aunque este hecho no aparece referenciado en ningún árbol 
 genealógico de los Reyes Católicos. 
 
-![plaza en el centro de Setenil desde donde sale la calle Herrería](etheria_images/2022/07/Setenil-plaza.jpg "La plaza de Andalucía de Setenil de las Bodegas. © SG/ Etheria Magazine")
+![plaza en el centro de Setenil desde donde sale la calle Herrería](etheria-images/2022/07/Setenil-plaza.jpg "La plaza de Andalucía de Setenil de las Bodegas. © SG/ Etheria Magazine")
 
 ## Excursión a Setenil de las Bodegas – Preguntas frecuentes
 
@@ -169,7 +169,7 @@ El pueblo tiene numerosas casas rurales en el casco histórico, que es la mejor 
 vivir el ambiente del pueblo desde dentro. Muchas se encuentran reseñadas en la **web de 
 la Oficina de Turismo**. 
 
-![margen del río de Setenil de las Bodegas entre las calles de las Cuevas del Sol y las Cuevas de la Sombra](etheria_images/2022/07/setenil-terraza-rio.jpg "Terraza sobre el río entre las calles de las Cuevas de la Sombra y de las Cuevas del Sol. © SG")
+![margen del río de Setenil de las Bodegas entre las calles de las Cuevas del Sol y las Cuevas de la Sombra](etheria-images/2022/07/setenil-terraza-rio.jpg "Terraza sobre el río entre las calles de las Cuevas de la Sombra y de las Cuevas del Sol. © SG")
 
 ### ¿Dónde conseguir más información sobre Setenil de las Bodegas?
 

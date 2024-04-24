@@ -1,18 +1,18 @@
 ---
 title: "Lee Krasner, artista y esposa de Pollock, una reivindicación necesaria"
 date: 2021-08-06
-coverImage: etheria_images/2021/07/Combat-The-Pollock-Krasner.jpg
+coverImage: etheria-images/2021/07/Combat-The-Pollock-Krasner.jpg
 categories: 
   - libros-de-viajes
   - mujeres-etheria
   - mujeres-que-inspiran
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 La historiadora y escritora Ara de Haro nos introduce en el universo de la pintora Lee Krasner y nos habla de 'El color de tu nombre', una novela cuya protagonista está inspirada en esta artista que aupó a la fama a Jackson Pollock. 
 
-![fotografia lee krasner 1972](etheria_images/2021/07/Lee-Krasner-1972.jpg "Fotografía de Lee Krasner, tomada por Irving Penn (1972). © The Irving Penn Foundation")
+![fotografia lee krasner 1972](etheria-images/2021/07/Lee-Krasner-1972.jpg "Fotografía de Lee Krasner, tomada por Irving Penn (1972). © The Irving Penn Foundation")
 
 Considerada una de las grandes figuras del arte moderno, Lee Krasner llevó siempre, como 
 otras mujeres ligadas a esposos “geniales”, el sobrenombre de “esposa de Jackson 
@@ -29,7 +29,7 @@ embargo, y aunque no era frecuente que las mujeres se decantaran por el arte, el
 tan sólo 14 años, ya decidió con determinación aprender el oficio sin saber que muy 
 pronto se convertiría en una de las pioneras del Expresionismo Abstracto. 
 
-![lee krasner y Prophecy](etheria_images/2021/07/lee-krasner-prophecy.jpg "Lee Krasner (1938) y "Prophecy" (1956). © The Pollock-Krasner Foundation Kasmin Gallery")
+![lee krasner y Prophecy](etheria-images/2021/07/lee-krasner-prophecy.jpg "Lee Krasner (1938) y "Prophecy" (1956). © The Pollock-Krasner Foundation Kasmin Gallery")
 
 ## Una relación tempestuosa
 
@@ -47,7 +47,7 @@ modelo… que tuvo que romper con muchos límites impuestos sólo por ser mujer 
 pertenecer a una familia judía ortodoxa. Eso sí, desde los años 50, conquistó y expuso 
 en los grandes templos del arte de Europa y Estados Unidos, MOMA incluido. 
 
-![Combat pintura lee krasner](etheria_images/2021/07/Combat-The-Pollock-Krasner.jpg "Obra "Combat" (1965). © The Pollock-Krasner Foundation")
+![Combat pintura lee krasner](etheria-images/2021/07/Combat-The-Pollock-Krasner.jpg "Obra "Combat" (1965). © The Pollock-Krasner Foundation")
 
 ## El universo de Lee Krasner
 
@@ -76,7 +76,7 @@ protagonista, que bien podría ser Lee Krasner, y una mujer española con proble
 diferentes, pero que entre ellas se produce un flujo de emociones en una época que no 
 era fácil para las mujeres. 
 
-![Autorretrato de Lee Krasner](etheria_images/2021/07/Autorretrato-de-Lee-Krasner.jpg "Autorretrato de Lee Krasner (1928). © The Pollock-Krasner Foundation / Jewish Museum New York")
+![Autorretrato de Lee Krasner](etheria-images/2021/07/Autorretrato-de-Lee-Krasner.jpg "Autorretrato de Lee Krasner (1928). © The Pollock-Krasner Foundation / Jewish Museum New York")
 
 ##### 3\. ¿Cómo era la personalidad de Lee Krasner?
 
@@ -106,7 +106,7 @@ China y África, que antes eran la periferia total, y ahora tienen la oportunida
 generar interés. Estamos en camino de llegar a una equidad razonable. El canon ha 
 funcionado durante siglos, pero ya no. 
 
-![el color de tu nombre libro lee krasner](etheria_images/2021/07/el-color-de-tu-nombre-1-676x1024.jpg "'El color de tu nombre'.")
+![el color de tu nombre libro lee krasner](etheria-images/2021/07/el-color-de-tu-nombre-1-676x1024.jpg "'El color de tu nombre'.")
 
 ##### 6\. La novela es también un canto de amor a Nueva York.
 

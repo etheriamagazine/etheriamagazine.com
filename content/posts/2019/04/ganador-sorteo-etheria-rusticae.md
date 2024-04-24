@@ -1,11 +1,11 @@
 ---
 title: "El Sorteo Etheria-Rusticae ya tiene ganador"
 date: 2019-04-09
-coverImage: etheria_images/2019/04/sorte-etheria-rusticae.jpg
+coverImage: etheria-images/2019/04/sorte-etheria-rusticae.jpg
 categories: 
   - organiza-tu-viaje
-author: 
-  - Etheriamagazine
+authors: 
+  - Etheria Magazine
 ---
 
 El afortunado ganador del [Sorteo 
@@ -13,16 +13,16 @@ Etheria-Rusticae](https://etheriamagazine.com/2019/03/26/sorteo-etheria-rusticae
 ha sido Carlos Virué. Esperamos que disfrute mucho de su estancia en este magnífico 
 hotel y que pronto nos de envidia compartiendo fotos de su experiencia. 
 
-![sorteo etheria rusticae](etheria_images/2019/04/sorte-etheria-rusticae.jpg)
+![sorteo etheria rusticae](etheria-images/2019/04/sorte-etheria-rusticae.jpg)
 
 Os agradecemos inmensamente vuestra participación y os deseamos mucha suerte en los próximos sorteos y concursos. De momento, os dejamos algunas imágenes del [**Hotel Rusticae Castillo de Gorraiz&Spa**](https://etheriamagazine.com/2019/03/20/viaje-en-pareja-hotel-castillo-de-gorraiz-navarra/) por si, igualmente, os apetece pasar un fin de semana en sus magníficas instalaciones. Se encuentra ubicado a sólo cuatro kilómetros de [Pamplona](https://www.turismo.navarra.es/esp/organice-viaje/recurso/Localidades/2513/Pamplona.htm), una ciudad con un amplio patrimonio artístico y cultural y con una buena oferta gastronómica. Desde el establecimiento también podéis emprender una ruta por el precioso **valle del Baztán** y visitar, a sólo una hora del hotel, las **cuevas de Zagarramurdi**, ligadas a historias de brujas y aquelarres.
 
-\[caption id="attachment\_8412" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria_images/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg "Vista exterior del hotel Castillo de Gorraiz Golf & Spa.") Vista exterior del hotel.\[/caption\]
+\[caption id="attachment\_8412" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria-images/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg "Vista exterior del hotel Castillo de Gorraiz Golf & Spa.") Vista exterior del hotel.\[/caption\]
 
-\[caption id="attachment\_8411" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria_images/2019/03/hotel-castillo-gormaizterraza-interior-y-exterior.jpg "Vistas desde el hotel Castillo de Gorraiz Golf & Spa") Desayuno con vistas.\[/caption\]
+\[caption id="attachment\_8411" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria-images/2019/03/hotel-castillo-gormaizterraza-interior-y-exterior.jpg "Vistas desde el hotel Castillo de Gorraiz Golf & Spa") Desayuno con vistas.\[/caption\]
 
-\[caption id="attachment\_8413" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria_images/2019/03/hotel-castillo-gormaiz-habitacion.jpg) Habitación del hotel Castillo de Gorraiz Golf & Spa.\[/caption\]
+\[caption id="attachment\_8413" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria-images/2019/03/hotel-castillo-gormaiz-habitacion.jpg) Habitación del hotel Castillo de Gorraiz Golf & Spa.\[/caption\]
 
-\[caption id="attachment\_8489" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria_images/2019/03/hotel-castillo-gorraiz-spa.jpg) Spa del hotel Castillo de Gorraiz Golf & Spa.\[/caption\]
+\[caption id="attachment\_8489" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria-images/2019/03/hotel-castillo-gorraiz-spa.jpg) Spa del hotel Castillo de Gorraiz Golf & Spa.\[/caption\]
 
-\[caption id="attachment\_8415" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria_images/2019/03/hotel-castillo-gormaiz-lounge.jpg) Lounge del hotel.\[/caption\]
+\[caption id="attachment\_8415" align="aligncenter" width="800"\]![hoteles con encanto, hoteles Rusticae, escapada en pareja, fin de semana en Navarra](etheria-images/2019/03/hotel-castillo-gormaiz-lounge.jpg) Lounge del hotel.\[/caption\]

@@ -1,17 +1,17 @@
 ---
 title: "Hotel Alhambra Palace, tres curiosidades que tienes que saber antes de alojarte"
 date: 2021-09-02
-coverImage: etheria_images/2021/08/Alhambra-palace-panoramica.jpg
+coverImage: etheria-images/2021/08/Alhambra-palace-panoramica.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El hotel Alhambra Palace de Granada ha reabierto sus puertas en septiembre de 2021 y lo hace con la misma ilusión que en su inauguración hace 111 años. Os contamos tres curiosidades de este precioso hotel de cinco estrellas que ofrece las mejores vistas de Granada y una experiencia única, a la altura de la ciudad nazarí.
 
-![Hotel Alhambra Palace](etheria_images/2021/08/Alhambra-palace-panoramica.jpg "Hotel Alhambra Palace.")
+![Hotel Alhambra Palace](etheria-images/2021/08/Alhambra-palace-panoramica.jpg "Hotel Alhambra Palace.")
 
 Los hoteles históricos atesoran secretos, leyendas y datos curiosos que ya querrían para 
 sí los de nueva construcción. Y el hotel de cinco estrellas [Alhambra 
@@ -21,7 +21,7 @@ más apetecible y como referente del **turismo de lujo en Granada**. Te contamos
 razones por las que este hotel es mucho más que un lugar donde dormir mientras visitas 
 la ciudad. 
 
-![Lobby del hotel.](etheria_images/2021/08/alhambra-palace-lobby.jpg "Lobby del hotel.")
+![Lobby del hotel.](etheria-images/2021/08/alhambra-palace-lobby.jpg "Lobby del hotel.")
 
 1 **Es el hotel de cinco estrellas más antiguo de España.** Inaugurado el 1 de enero de 
 1910, el Alhambra Palace es el hotel más antiguo de España. Su gestor fue Julio 
@@ -33,7 +33,7 @@ Salón Teatro, conocido como **‘El Teatrillo’**. Aquí Federico García Lorc
 recitó por primera vez su Cante Jondo acompañado al piano por Manuel de Falla. Imagínate 
 por un instante este momento. 
 
-![El Salón Teatro (antiguo Teatrillo).](etheria_images/2021/08/Alhambra-palace-teatrillo.jpg "El Salón Teatro (antiguo Teatrillo).")
+![El Salón Teatro (antiguo Teatrillo).](etheria-images/2021/08/Alhambra-palace-teatrillo.jpg "El Salón Teatro (antiguo Teatrillo).")
 
 Pero también ha vivido momentos difíciles. En la Guerra Civil se convirtió durante tres 
 años en Hospital de Campaña (su reapertura en 1942 fue por todo lo alto, convirtiéndose 
@@ -50,7 +50,7 @@ misma mesa que alguno de sus huéspedes más ilustres? Desde el rey Alfonso XIII
 reyes eméritos hasta figuras de otras casas reales como el rey Alberto II de Bélgica, el 
 rey Gustavo XVI de Suecia o el príncipe Carlos de Inglaterra. 
 
-![A la izq. los actores Douglas Fairbanks y Mary Pickford. A la derecha el Duque de San Pedro de Galatino.](etheria_images/2021/08/alhambra-palace-fotos-antiguas.jpg "A la izq. los actores Douglas Fairbanks y Mary Pickford. A la derecha el Duque de San Pedro de Galatino.")
+![A la izq. los actores Douglas Fairbanks y Mary Pickford. A la derecha el Duque de San Pedro de Galatino.](etheria-images/2021/08/alhambra-palace-fotos-antiguas.jpg "A la izq. los actores Douglas Fairbanks y Mary Pickford. A la derecha el Duque de San Pedro de Galatino.")
 
 > Pero no todo es realeza, Hollywood ha estado siempre muy presente con actores y actrices 
 > como Tyrone Power, Vivien Leigh, Burt Lancaster, Henry Fonda, Lauren Bacall, Steven 
@@ -70,7 +70,7 @@ la nueva gastronomía granadina, lleva al frente de la restauración del hotel d
 Ofrece una experiencia gastronómica que lleva a las raíces de la tradición culinaria 
 granadina, esa que sale de los sabores y aromas de Al-Andalus. 
 
-![Ensalada Zalamadroña con vistas a Granada.](etheria_images/2021/08/Alhambra-palace-gastronomia.jpg "Ensalada Zalamadroña con vistas a Granada.")
+![Ensalada Zalamadroña con vistas a Granada.](etheria-images/2021/08/Alhambra-palace-gastronomia.jpg "Ensalada Zalamadroña con vistas a Granada.")
 
 Estos platos los podrás encontrar tanto en la carta del restaurante como en las de la 
 terraza o el _room service_. Con propuestas como la _Ensalada Zalamadroña_ (causa de 

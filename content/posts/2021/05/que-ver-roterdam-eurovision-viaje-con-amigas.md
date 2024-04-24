@@ -1,18 +1,18 @@
 ---
 title: "10 planes en Róterdam con amigas para un fin de semana movido"
 date: 2021-05-15
-coverImage: etheria_images/2020/02/viaje-roterdam-Cubehouses.jpg
+coverImage: etheria-images/2020/02/viaje-roterdam-Cubehouses.jpg
 categories: 
   - viajes-48-horas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
 Situada en la desembocadura de los ríos Rin y Mosa, Róterdam nos regala una extraordinaria exhibición arquitectónica. Una ciudad vanguardista con siglos de historia, en cuyas aguas se levanta el puerto más grande de Europa. Si quieres saber qué ver y hacer en Róterdam o ideas para tu viaje con amigas, estás en el lugar adecuado.
 
-![que ver en Roterdam Markthal](etheria_images/2020/02/viaje-roterdam-Markthal-mercado-cubierto-900x600.jpg "Markthal, el mercado cubierto más grande de Holanda. © Yolanda Cardo")
+![que ver en Roterdam Markthal](etheria-images/2020/02/viaje-roterdam-Markthal-mercado-cubierto-900x600.jpg "Markthal, el mercado cubierto más grande de Holanda. © Yolanda Cardo")
 
 ```
 Actualizado mayo 2021
@@ -36,7 +36,7 @@ construcciones donde habitar una nueva vida. Este espíritu audaz e innovador ya
 respiraba en sus calles. Buena prueba de ello son las tres primeras paradas del 
 itinerario que proponemos, anteriores a 1940. 
 
-![Oude Haven que ver en Roterdam](etheria_images/2020/02/viaje-roterdam-Oude-Haven-900x608.jpg "Oude Haven, el puerto más antiguo del centro de Róterdam. Al fondo, la Casa Blanca de 1898. © Jan Bijl")
+![Oude Haven que ver en Roterdam](etheria-images/2020/02/viaje-roterdam-Oude-Haven-900x608.jpg "Oude Haven, el puerto más antiguo del centro de Róterdam. Al fondo, la Casa Blanca de 1898. © Jan Bijl")
 
 > Los fans del festival de Eurovisión están de enhorabuena porque este año se celebra en 
 > Róterdam el 18, 20 y 22 de mayo de 2021. ¡Qué mejor excusa para recorrer esta 
@@ -50,7 +50,7 @@ internacional. Un auténtico paraíso para los amantes de la arquitectura y el l
 perfecto para una escapada con amigas. Aquí va nuestra propuesta para no perderse lo 
 imprescindible de [Róterdam](https://en.rotterdam.info). 
 
-![Van Nelle Factory viaje roterdam](etheria_images/2020/02/viaje-roterdam-La-Van-Nelle-Factory-900x609.jpg "La Van Nelle Factory fue declarada Patrimonio de la Humanidad por la Unesco en 2014. ©Yolanda Cardo")
+![Van Nelle Factory viaje roterdam](etheria-images/2020/02/viaje-roterdam-La-Van-Nelle-Factory-900x609.jpg "La Van Nelle Factory fue declarada Patrimonio de la Humanidad por la Unesco en 2014. ©Yolanda Cardo")
 
 ## Qué ver y hacer en Róterdam
 
@@ -72,7 +72,7 @@ Desde 2014 es Patrimonio de la Unesco y en la actualidad acoge un dinámico cent
 actividades empresariales y eventos. Un edificio que fascinó al mismísimo Le Corbusier 
 que llegó a decir de él que era el espectáculo más bello de la era moderna. 
 
-![Sonneveld House que ver en roterdam](etheria_images/2020/02/viaje-roterdam-Sonneveld-House-900x372.jpg "Interior y detalle de Sonneveld House. © Yolanda Cardo")
+![Sonneveld House que ver en roterdam](etheria-images/2020/02/viaje-roterdam-Sonneveld-House-900x372.jpg "Interior y detalle de Sonneveld House. © Yolanda Cardo")
 
 ## 2\. Sonneveld House
 
@@ -87,7 +87,7 @@ totalmente transgresores para la época, que se plasman en habitaciones con bañ
 hilo musical, montacargas, cocina comunicada con el comedor, espacios amplios y 
 abiertos, garaje en la planta baja… 
 
-![Chabot Museum viaje roterdam](etheria_images/2020/02/viaje-roterdam-chabot-museum-900x600.jpg "Chabot Museum. © Yolanda Cardo")
+![Chabot Museum viaje roterdam](etheria-images/2020/02/viaje-roterdam-chabot-museum-900x600.jpg "Chabot Museum. © Yolanda Cardo")
 
 ## 3\. Chabot Museum
 
@@ -102,7 +102,7 @@ encontramos en el Museumpark (Parque de los Museos), un espacio verde donde se s
 gran parte de los museos de la ciudad, entre ellos el Kunsthal, nuestra siguiente 
 parada. 
 
-![Kunsthal roterdam](etheria_images/2020/02/viaje-roterdam-Kunsthal-900x600.jpg "Kunsthal. © Ossip van Duivenbode")
+![Kunsthal roterdam](etheria-images/2020/02/viaje-roterdam-Kunsthal-900x600.jpg "Kunsthal. © Ossip van Duivenbode")
 
 ## 4\. Kunsthal (Museo de Arte Contemporáneo)
 
@@ -117,7 +117,7 @@ hilo conductor entre las distintas estancias de este museo considerado, en sí m
 obra de arte. Se organizan muchas exposiciones temporales a lo largo del año, así que no 
 dejes de consultar su agenda para no perderte nada. 
 
-![puente de erasmos  viaje roterdam](etheria_images/2020/02/viaje-roterdam-puente-de-Erasmusbrug-con-las-torres-De-Rotterdam-900x600.jpg "Erasmusbrug o Puente de Erasmo, con las torres 'De Rotterdam' al fondo. © Ossip van Duivenbode")
+![puente de erasmos  viaje roterdam](etheria-images/2020/02/viaje-roterdam-puente-de-Erasmusbrug-con-las-torres-De-Rotterdam-900x600.jpg "Erasmusbrug o Puente de Erasmo, con las torres 'De Rotterdam' al fondo. © Ossip van Duivenbode")
 
 ## 5\. Torres De Róterdam
 
@@ -140,7 +140,7 @@ Desde entonces esta extraordinaria pasarela de más de 800 metros de longitud y 
 inconfundible pilón de 139 metros de alto, del que surgen 40 cables de acero, es todo un 
 emblema de Róterdam y escenario de diversos eventos entre ellos su popular maratón. 
 
-![Cubehouses, viaje roterdam](etheria_images/2020/02/viaje-roterdam-Cubehouses-900x600.jpg "Las emblemáticas Cubehouses de Róterdam. © Yolanda Cardo")
+![Cubehouses, viaje roterdam](etheria-images/2020/02/viaje-roterdam-Cubehouses-900x600.jpg "Las emblemáticas Cubehouses de Róterdam. © Yolanda Cardo")
 
 ## 7\. Cubehouses
 
@@ -156,7 +156,7 @@ las leyes de la gravedad, único en el mundo.
 alcance pero sí dormir, al menos una noche, en el Stayokay Hostel Rotterdam y para 
 completar la experiencia no dejéis de visitar la casa museo Kijk Kubus. 
 
-![Markthal, viaje roterdam](etheria_images/2020/02/viaje-roterdam-Markthal-900x573.jpg "Detalle del interior del Markthal. © Yolanda Cardo")
+![Markthal, viaje roterdam](etheria-images/2020/02/viaje-roterdam-Markthal-900x573.jpg "Detalle del interior del Markthal. © Yolanda Cardo")
 
 ## 8\. Markthal
 
@@ -169,7 +169,7 @@ flores, frutas y verduras sobre nuestras cabezas y un auténtico paraíso para l
 _foodies_ gracias a su centenar de puestos gastronómicos, tiendas de comida y zona de 
 restauración. 
 
-![Pasarela Luchtsingel, viaje roterdam](etheria_images/2020/02/viaje-roterdam-Pasarela-Luchtsingel-900x600.jpg "Pasarela Luchtsingel. © Iris van den Broek")
+![Pasarela Luchtsingel, viaje roterdam](etheria-images/2020/02/viaje-roterdam-Pasarela-Luchtsingel-900x600.jpg "Pasarela Luchtsingel. © Iris van den Broek")
 
 ## 9\. Pasarela Lunchtsingel
 
@@ -183,7 +183,7 @@ Cerca de 400 metros construidos con tablones de madera, de un llamativo color am
 que llevan grabado el nombre de todas y cada una de las personas que participaron en el 
 proyecto. 
 
-![estacion roterdam central, viaje con amigas roterdam](etheria_images/2020/02/viaje-roterdam-estacion-central-900x600.jpg "Estación Róterdam Central. © Ossip van Duivenbode")
+![estacion roterdam central, viaje con amigas roterdam](etheria-images/2020/02/viaje-roterdam-estacion-central-900x600.jpg "Estación Róterdam Central. © Ossip van Duivenbode")
 
 ## 10\. Estación Central de Róterdam
 

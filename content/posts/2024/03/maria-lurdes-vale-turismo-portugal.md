@@ -1,13 +1,13 @@
 ---
 title: "Maria de Lurdes Vale, tejiendo redes desde Turismo de Portugal"
 date: 2024-03-11
-coverImage: etheria_images/2024/03/maria-lurdes-barca-azores.jpg
+coverImage: etheria-images/2024/03/maria-lurdes-barca-azores.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Intuitiva, decidida y creativa. Maria de Lurdes Vale es una mujer entregada al Turismo 
@@ -15,7 +15,7 @@ con profesionalidad y pasión. Desde su posición como Directora de la Oficina d
 de Portugal en España comparte los atractivos de su país, crea productos turísticos 
 integradores y teje redes en las que las mujeres son protagonistas. 
 
-![Maria Lurdes Vale directora oficina de turismo de portugal](etheria_images/2024/03/maria-lurdes-barca-azores.jpg "Maria de Lurdes en un rincón de sus queridas islas Azores.")
+![Maria Lurdes Vale directora oficina de turismo de portugal](etheria-images/2024/03/maria-lurdes-barca-azores.jpg "Maria de Lurdes en un rincón de sus queridas islas Azores.")
 
 Maria de Lurdes Vale, Directora de la Oficina de Turismo de Portugal en España, es una 
 mujer decidida que transmite todo lo que cuenta con la palabra, con los ojos y con las 
@@ -86,7 +86,7 @@ van a admirar y valorar más así, si eres una persona independiente de ellos. E
 fundamental que vean una madre feliz, que disfruta con su trabajo. Tengo una relación 
 excelente con mis hijos, que ya son adultos, y disfrutamos mucho viajando juntos. 
 
-![Maria de Lurdes con uno de sus hijos en Madeira.](etheria_images/2024/03/maria-lurdes-madeira-hijo.jpg "Maria de Lurdes con uno de sus hijos en Madeira.")
+![Maria de Lurdes con uno de sus hijos en Madeira.](etheria-images/2024/03/maria-lurdes-madeira-hijo.jpg "Maria de Lurdes con uno de sus hijos en Madeira.")
 
 ## Sobre la mujer y el sector turístico
 
@@ -112,7 +112,7 @@ dejado llevar por mi intuición, he confiado mucho en ella para tomar decisiones
 siempre me ha servido para ir hacia delante, no concibo ir para atrás ni cuando me 
 pierdo con el coche (risas). 
 
-![Maria en el lago do Fogo, en la isla de San Miguel, en las Azores.](etheria_images/2024/03/maria-lurdes-azores.jpg "Maria en el lago do Fogo, en la isla de San Miguel, en las Azores.")
+![Maria en el lago do Fogo, en la isla de San Miguel, en las Azores.](etheria-images/2024/03/maria-lurdes-azores.jpg "Maria en el lago do Fogo, en la isla de San Miguel, en las Azores.")
 
 ## Sobre el turismo
 
@@ -205,7 +205,7 @@ cena y a la vuelta nadie quiere volver, y lo hacen con los coches cargados de pr
 locales, frutas, hortalizas… Paramos durante los años de pandemia y este año vamos a 
 retomar el programa con grupos que salgan desde Madrid. 
 
-![Maria de Lurdes en Costa Rica.](etheria_images/2024/03/maria-lurdes-costa-rica-canoa.jpg "Maria de Lurdes en Costa Rica.")
+![Maria de Lurdes en Costa Rica.](etheria-images/2024/03/maria-lurdes-costa-rica-canoa.jpg "Maria de Lurdes en Costa Rica.")
 
 ## Maria de Lurdes como viajera
 
@@ -235,7 +235,7 @@ el que, para empezar, no hace falta hablar, **significa estar contigo misma y se
 dueña de tu tiempo**, tu itinerario… Y no es necesario que compartas tus experiencias y 
 vivencias con nadie. Tienes toda la libertad de vivir tu viaje como tú quieras. 
 
-![Maria Lurdes en un bosque en la isla de San Miguel](etheria_images/2024/03/maria-lurdes-azores-arboles.jpg "La isla de San Miguel, en las Azores, es uno de los lugares preferidos de Maria.")
+![Maria Lurdes en un bosque en la isla de San Miguel](etheria-images/2024/03/maria-lurdes-azores-arboles.jpg "La isla de San Miguel, en las Azores, es uno de los lugares preferidos de Maria.")
 
 ### ¿Qué 3 destinos de Portugal recomendarías a una mujer que viaje sola…?
 

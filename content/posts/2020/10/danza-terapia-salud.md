@@ -1,17 +1,17 @@
 ---
 title: "Danza, la belleza que sana"
 date: 2020-10-21
-coverImage: etheria_images/2020/10/danza-terapia-salud.jpg
+coverImage: etheria-images/2020/10/danza-terapia-salud.jpg
 categories: 
   - salud-bienestar-nutricion
   - viajes-para-mujeres
-author: 
+authors: 
   - Maria Miret
 ---
 
 ##### La danza es “un arte fundamental que surge de la vida misma”, escribía Paul Valéry. “Bailar es vivir”, añadía Isadora Duncan. Para Roger Garaudy, “la danza es una forma de existir”. La alegría forma parte de una disciplina con numerosos beneficios físicos y psicológicos que además, te ayuda a reconectar con tu feminidad. Clásico, contemporáneo, danza-movimiento terapia… las opciones son infinitas. Como decía Isadora Duncan: “La danza se explica mejor bailando” así que ¿a qué esperas para probar?
 
-![](etheria_images/2020/10/danza-terapia-salud.jpg "La danza, la mejor terapia para la mujer. © Ahmad Odeh")
+![](etheria-images/2020/10/danza-terapia-salud.jpg "La danza, la mejor terapia para la mujer. © Ahmad Odeh")
 
 “La danza, a mi entender, no se limita a ser un ejercicio, una diversión, un arte 
 ornamental y, en ocasiones, un juego de sociedad”, escribía Paul Valéry en su 
@@ -36,7 +36,7 @@ cuando celebras algo”.
 > La danza es “un arte fundamental que surge de la vida misma”, como sostenía Valéry, 
 > “pues no es sino la acción del conjunto del cuerpo humano”. 
 
-![beneficios del baile para salud](etheria_images/2020/10/beneficios-bailar-salud.jpg "La danza es una forma de expresión del ser humano. © Leon Liu")
+![beneficios del baile para salud](etheria-images/2020/10/beneficios-bailar-salud.jpg "La danza es una forma de expresión del ser humano. © Leon Liu")
 
 Mª Ángeles Hurtado, que imparte los **talleres Danzathe**, explica que al bailar “hay 
 muchas capas en las que puedes profundizar. Te puedes quedar en el aspecto lúdico o 
@@ -54,7 +54,7 @@ favorecen el funcionamiento correcto de los distintos sistemas del organismo, en
 especial del sistema nervioso. “La danza te permite tomar conciencia de ese movimiento”, 
 explica Mª Ángeles Hurtado. 
 
-![El ballet una actividad saludable y relajante](etheria_images/2020/10/ballet-danza-saludable.jpg "Nunca es tarde para aprender ballet. © Alexandre Dinaut")
+![El ballet una actividad saludable y relajante](etheria-images/2020/10/ballet-danza-saludable.jpg "Nunca es tarde para aprender ballet. © Alexandre Dinaut")
 
 ## Danza clásica o moderna
 
@@ -78,7 +78,7 @@ que, si te apetece probar, la [Fundación de Danza Isadora
 Duncan](https://isadoraduncan.org/) todavía ofrece clases en países como Estados Unidos 
 de América o Grecia siguiendo la estela de “las Isadoras”. 
 
-![danza al amanecer terapia saludable](etheria_images/2020/10/danza-al-amanecer-salud.jpg "Comienza el día, o acábalo, bailando. © Andrew Rice")
+![danza al amanecer terapia saludable](etheria-images/2020/10/danza-al-amanecer-salud.jpg "Comienza el día, o acábalo, bailando. © Andrew Rice")
 
 “Lo que yo entiendo por bailar es liberar mi cuerpo a la salida del sol”. La naturaleza 
 era la base de la danza para Isadora Duncan, que la concebía como algo instintivo, como 
@@ -117,7 +117,7 @@ con un poder estar sostenida en el mundo por ella misma, obtuvo un empoderamient
 quién era y de aquello que tenía para dar al mundo. También entiende que hay una 
 sabiduría inherente profunda a la que todos tenemos acceso. 
 
-![la danza una terapia para la mujer](etheria_images/2020/10/danza-bienestar-salud.jpg "La danza como terapia. © Ketan Rajput")
+![la danza una terapia para la mujer](etheria-images/2020/10/danza-bienestar-salud.jpg "La danza como terapia. © Ketan Rajput")
 
 Paz Corrales, por su parte, ayuda a las mujeres a despertar su danza interior, ya que 
 **reconectando la feminidad mejora la autoestima**. En las clases intenta “que las 
@@ -142,7 +142,7 @@ actividad que trabaja mucho con la cadera, el “centro neurálgico” del cánc
 de útero que padeció. Para esta psicoterapeuta corporal, bailarina y actriz, “la belleza 
 fue muy importante”. 
 
-![](etheria_images/2020/10/danza-oriental-terapia.jpg "El baile ayuda a combatir la ansiedad y la depresión. © Anton Shuvalov")
+![](etheria-images/2020/10/danza-oriental-terapia.jpg "El baile ayuda a combatir la ansiedad y la depresión. © Anton Shuvalov")
 
 ## La danza en pacientes con cáncer
 

@@ -1,13 +1,13 @@
 ---
 title: "10 consejos para aprovechar una visita a Futuroscope"
 date: 2018-08-24
-coverImage: etheria_images/2018/08/Futuroscope-panoramica.jpg
+coverImage: etheria-images/2018/08/Futuroscope-panoramica.jpg
 categories: 
   - viaje-en-familia
   - parques-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Te contamos diez claves para aprovechar mejor tu tiempo en Futuroscope, un parque que ha 
@@ -15,7 +15,7 @@ enfocado sus atracciones a la tecnología 4D y a la realidad virtual y que las c
 con zonas de juego pensadas para los más pequeños. Una parada perfecta en Francia para 
 un viaje con niños. 
 
-![zona de espectáculos de Futuroscope](etheria_images/2018/08/Futuroscope-panoramica.jpg "Anfiteatro para espectáculos y edificio de la atracción de Tomas Pesquet.")
+![zona de espectáculos de Futuroscope](etheria-images/2018/08/Futuroscope-panoramica.jpg "Anfiteatro para espectáculos y edificio de la atracción de Tomas Pesquet.")
 
 ## 1\. Alójate en un hotel junto al parque
 
@@ -40,7 +40,7 @@ elegida. Este Pase Premium sale por unos 20 Euros por persona, también cuenta c
 **Pase Premium Gold** y un **Pase Premium Diamant** con entrada ilimitada a la mayoría 
 de atracciones, aunque no siempre están disponibles. 
 
-![Atracción 'El Viaje Extraordinario'.](etheria_images/2018/08/Futuroscope-viaje-extraordinario.jpg "Atracción 'El Viaje Extraordinario'. © CUBE Creative")
+![Atracción 'El Viaje Extraordinario'.](etheria-images/2018/08/Futuroscope-viaje-extraordinario.jpg "Atracción 'El Viaje Extraordinario'. © CUBE Creative")
 
 ## 3\. Descárgate la aplicación de Futuroscope
 
@@ -59,7 +59,7 @@ parque o en algunas de las atracciones de **'El Mundo de los Niños'**. Los niñ
 de 5 años entran gratis y la tarifa infantil es para menores de 16 años. También puedes 
 subir a contemplar las magníficas vistas que ofrece el 'Gyrotour'. 
 
-![atracción de baile de Futuroscope](etheria_images/2018/08/Futuroscope-bailando-con-robots.jpg "Para disfrutar de 'Bailando con Robots' hay que medir más de 120 cm. © ACI (JL AUDY-F JUILLE).")
+![atracción de baile de Futuroscope](etheria-images/2018/08/Futuroscope-bailando-con-robots.jpg "Para disfrutar de 'Bailando con Robots' hay que medir más de 120 cm. © ACI (JL AUDY-F JUILLE).")
 
 ## 5\. Restaurantes de Futuroscope
 
@@ -83,7 +83,7 @@ que no se alojan en el parque comienzan a marcharse. Son divertidas e incluyen a
 de agua, vienen muy bien para alternarlas con las atracciones de 4D y realidad virtual 
 del parque. 
 
-![zona de atracciones al aire libre de Futuroscope](etheria_images/2018/08/Futuroscope-zona-juegos.jpg "Las Velodos, una atracción para toda la familia en "El Mundo de los Niños" de Futuroscope.")
+![zona de atracciones al aire libre de Futuroscope](etheria-images/2018/08/Futuroscope-zona-juegos.jpg "Las Velodos, una atracción para toda la familia en "El Mundo de los Niños" de Futuroscope.")
 
 ## 7\. Compra recuerdos cómodamente
 
@@ -108,7 +108,7 @@ Los más gamberros y representativos son los **Rabbids** (_Cretins Lapins_ en fr
 pero también están los personajes de **Arthur y los Minimoys** Arthur y Selénia y el 
 **Guerliguet**, un ser vegetal que sale de su bosque para recorrer el parque. 
 
-![fotografía con los Rabbids](etheria_images/2018/08/Futuroscope-rabbids.jpg "Los Rabbids sorprenden en cualquier momento. © Bruno Comtesse/D LAMING2")
+![fotografía con los Rabbids](etheria-images/2018/08/Futuroscope-rabbids.jpg "Los Rabbids sorprenden en cualquier momento. © Bruno Comtesse/D LAMING2")
 
 ## 10\. Combina Futuroscope con otros destinos de Francia
 

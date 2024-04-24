@@ -1,13 +1,13 @@
 ---
 title: "10 planes para disfrutar al máximo de León en familia"
 date: 2021-07-05
-coverImage: etheria_images/2021/06/parque-cid-leon-con-ninos.jpg
+coverImage: etheria-images/2021/06/parque-cid-leon-con-ninos.jpg
 categories: 
   - viaje-en-familia
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Eva Madruga
 ---
 
@@ -16,7 +16,7 @@ patrimonio monumental y cultural, pero también es un ideal para disfrutar de un
 familia" a través de decenas de planes. A continuación te proponemos diez actividades 
 didácticas y divertidas, entre ellas una escapada a la bonita cueva de Valporquero. 
 
-![tren turistico leon viajes en familia](etheria_images/2021/06/tren-turistico-leon.jpg "Tren turístico de León frente a la Catedral.")
+![tren turistico leon viajes en familia](etheria-images/2021/06/tren-turistico-leon.jpg "Tren turístico de León frente a la Catedral.")
 
 ## 1\. ¡Niños al tren!
 
@@ -26,7 +26,7 @@ atractivos turísticos al iniciar esta ruta de "León en familia". El punto de i
 este recorrido está ubicado en la plaza San Marcelo, frente al edificio Botines. El 
 horario es de 11.00 a 23.00 horas con salidas cada 45 minutos. 
 
-![marco topo leon en familia](etheria_images/2021/06/marco-topo-viaje-familia-leon.jpg "Descubre la ciudad en familia con Marco Topo.")
+![marco topo leon en familia](etheria-images/2021/06/marco-topo-viaje-familia-leon.jpg "Descubre la ciudad en familia con Marco Topo.")
 
 ## 2\. Descubrir la ciudad jugando
 
@@ -42,7 +42,7 @@ descubriendo los principales monumentos de la capital leonesa: las murallas roma
 Catedral gótica, la Casa Botines, la Real Colegiata de San Isidoro o el Barrio Húmedo. Y 
 cada vez que liberen a un _flopi_ pueden colocar una pegatina en sus mapas de papel. 
 
-![audioguia familias leon carmina y rodrigo](etheria_images/2021/06/audioguia-leon-carmina-y-rodrigo.jpg "Audioguía Carmina y Rodrigo.")
+![audioguia familias leon carmina y rodrigo](etheria-images/2021/06/audioguia-leon-carmina-y-rodrigo.jpg "Audioguía Carmina y Rodrigo.")
 
 ## 3\. Visitar la Catedral de León con Carmina y el topo Rodrigo
 
@@ -59,7 +59,7 @@ familia" para conocer a fondo la Pulchra Leonina!
 ?**No te pierdas:** [16 secretos que desconoces de la milenaria ciudad de 
 León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/). 
 
-![talleres ninos casa botines leon](etheria_images/2021/06/taller-ninos-casa-botines-leon.jpg "Actividad para niños en la © Casa Botines de León.")
+![talleres ninos casa botines leon](etheria-images/2021/06/taller-ninos-casa-botines-leon.jpg "Actividad para niños en la © Casa Botines de León.")
 
 ## 4\. Visitas teatralizadas para conocer Botines
 
@@ -78,7 +78,7 @@ significativos que están relacionados con la Casa Botines. Además, durante el 
 julio organizan talleres infantiles que giran en torno al reciclaje. Se realizan de 
 lunes a viernes de 10 a 14 horas, para niños de entre 5 y 12 años. 
 
-![Diverviajes de pequeamigos musac](etheria_images/2021/06/Diverviajes-Pequeamigos-musac.jpg "Diverviajes de pequeamigos, en el © MUSAC.")
+![Diverviajes de pequeamigos musac](etheria-images/2021/06/Diverviajes-Pequeamigos-musac.jpg "Diverviajes de pequeamigos, en el © MUSAC.")
 
 ## 5\. Recorridos activos por el MUSAC
 
@@ -93,7 +93,7 @@ escapada a León en familia, y están adaptadas a niños de 5 a 12 años. Se rea
 primer domingo de cada mes a las 12 del mediodía y hay que inscribirse 10 minutos antes 
 en la taquilla. 
 
-![Museo Sierra Pambley leon](etheria_images/2021/06/leon-Museo-Sierra-Pambley.jpg "Sala de Compañía del © Museo Sierra-Pambley.")
+![Museo Sierra Pambley leon](etheria-images/2021/06/leon-Museo-Sierra-Pambley.jpg "Sala de Compañía del © Museo Sierra-Pambley.")
 
 ## 6\. Transportarse hasta el siglo XIX
 
@@ -109,7 +109,7 @@ retrete**. La visita les descubrirá curiosidades que muchas veces desconocen, c
 había colchones de lana, de muelles e incluso de hojas de maíz… Consulta su programación 
 en www.sierrapambley.org y en las redes sociales de la fundación. 
 
-![planes en leon centro interpretacion romano](etheria_images/2021/06/Centro-de-Interpretacion-Leon-Romano.jpg "Centro de Interpretación. © Turismo de León")
+![planes en leon centro interpretacion romano](etheria-images/2021/06/Centro-de-Interpretacion-Leon-Romano.jpg "Centro de Interpretación. © Turismo de León")
 
 ## 7\. Historia entretenida en el Palacio del Conde Luna
 
@@ -123,7 +123,7 @@ será el p_hotocall_ para meter la cabeza en las siluetas de monarcas. También 
 rato entretenidos contemplando las maquetas. Hay una del siglo XVI ubicada en la planta 
 baja, y otra del siglo X en la planta superior. 
 
-![trajes legionarios leon](etheria_images/2021/06/museo-leon-planes-familia.jpg "Indumentaria de legionario. © Turismo de León")
+![trajes legionarios leon](etheria-images/2021/06/museo-leon-planes-familia.jpg "Indumentaria de legionario. © Turismo de León")
 
 ## 8\. La vida en las legiones
 
@@ -140,7 +140,7 @@ duración que permite visitar el adarve de la muralla romana, la cripta arqueol�
 Puerta Obispo (restos de las termas y de la Porta Principalis) y las criptas 
 arqueológicas de la calle Cascalería (restos del anfiteatro). Tel. 987 878 238 
 
-![donde comer en leon cecina](etheria_images/2021/06/leon-cecina.jpg "No te puedes ir de León sin disfrutar de una deliciosa tapa de cecina. © Turismo de León")
+![donde comer en leon cecina](etheria-images/2021/06/leon-cecina.jpg "No te puedes ir de León sin disfrutar de una deliciosa tapa de cecina. © Turismo de León")
 
 ## 9\. De tapeo con los niños
 
@@ -160,7 +160,7 @@ bebida llegará la tapa y empezaréis a entender por qué en la ciudad gusta tan
 ?**No te pierdas:** [Ruta gastronómica por 
 León](https://etheriamagazine.com/2021/09/09/ruta-para-comer-bien-en-leon-capital/). 
 
-![cueva de valporquero planes en familia en leon](etheria_images/2021/06/cueva-valporquero-planes-leon-familia.jpg "Cueva de Valporquero, en la provincia de León. © Diputación de León")
+![cueva de valporquero planes en familia en leon](etheria-images/2021/06/cueva-valporquero-planes-leon-familia.jpg "Cueva de Valporquero, en la provincia de León. © Diputación de León")
 
 ## 10\. Viaje al centro de la Tierra
 
@@ -182,7 +182,7 @@ Vegacervera, un impresionante desfiladero labrado por las aguas del río Torío 
 caliza de la Cordillera Cantábrica. Y no os vayáis de Vegacervera sin probar uno de los 
 productos típicos de la zona: **la cecina de chivo.** 
 
-![parque del cid turismo leon](etheria_images/2021/06/parque-cid-leon-con-ninos.jpg "Parque del Cid. © Turismo de León")
+![parque del cid turismo leon](etheria-images/2021/06/parque-cid-leon-con-ninos.jpg "Parque del Cid. © Turismo de León")
 
 ## Más consejos si vas con niños a León
 

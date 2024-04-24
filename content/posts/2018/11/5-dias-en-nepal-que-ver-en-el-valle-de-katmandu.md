@@ -1,18 +1,18 @@
 ---
 title: "5 días en Nepal, un paseo por el Valle de Katmandú"
 date: 2018-11-28
-coverImage: etheria_images/2022/02/viajes-novios-originales-Katmandu-nepal.jpg
+coverImage: etheria-images/2022/02/viajes-novios-originales-Katmandu-nepal.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Recorrer todo Nepal en 5 días es imposible así que te proponemos conocer el Valle de Katmandú. En esta escapada visitaremos sus tres ciudades más importantes: Katmandú, Bhaktapur y Patan, que fueron reinos independientes y que concentran siete monumentos declarados Patrimonio de la Humanidad por la Unesco.
 
-![Estanque de Siddha Pokhari en bhaktapur](etheria_images/2018/11/Bhaktapur-mujer-nepal-e1644907573592.jpg "Estanque de Siddha Pokhari, en Bhaktapur. © Pepa García")
+![Estanque de Siddha Pokhari en bhaktapur](etheria-images/2018/11/Bhaktapur-mujer-nepal-e1644907573592.jpg "Estanque de Siddha Pokhari, en Bhaktapur. © Pepa García")
 
 ## Katmandú, la capital
 
@@ -32,7 +32,7 @@ siglos XVII y XVIII se arremolinan grupos de estudiantes uniformados, vendedoras
 flores, rickshaws, carritos de vendedores que ofrecen granadas y mujeres (sobre todo 
 mujeres) que realizan ofrendas a los dioses. 
 
-![calles de katmandu](etheria_images/2018/11/Katmandu-viajes-nepal-mujeres-e1644907600512.jpg "Calles de Katmandú. © Pepa García")
+![calles de katmandu](etheria-images/2018/11/Katmandu-viajes-nepal-mujeres-e1644907600512.jpg "Calles de Katmandú. © Pepa García")
 
 Cerca de la plaza se alza un lugar silencioso y sagrado, es **Kumari Bahal**, la casa de 
 la Kumari o diosa viviente. La reencarnación humana de la deidad hindú Durga es elegida 
@@ -47,7 +47,7 @@ pueden encontrar hoteles, pensiones para mochileros y centenares de tiendas de
 artesanía, recuerdos y ropa de montaña (aprovecha la ocasión porque hay buenas marcas a 
 precios asequibles). 
 
-![Swayambhunath o templo de los monos](etheria_images/2018/11/templo-Katmandu-viaje-mujeres-nepa.jpg "Swayambhunath o templo de los Monos. ©P.G.")
+![Swayambhunath o templo de los monos](etheria-images/2018/11/templo-Katmandu-viaje-mujeres-nepa.jpg "Swayambhunath o templo de los Monos. ©P.G.")
 
 ### Templo de los Monos
 
@@ -59,7 +59,7 @@ impresionante conjunto cuyo origen se encuentra envuelto en la leyenda. Los rito
 alrededor de la misma son habituales: hacer girar los rodillos de oración, encender 
 velas o ser bendecidos por un sacerdote forman parte del día a día. 
 
-![estupa de Boudhanath en nepal](etheria_images/2018/11/nepal-estupa-tibetana-e1644907610833.jpg "Estupa de Boudhanath. © Pepa García")
+![estupa de Boudhanath en nepal](etheria-images/2018/11/nepal-estupa-tibetana-e1644907610833.jpg "Estupa de Boudhanath. © Pepa García")
 
 ### Estupa de Boudhanath
 
@@ -70,7 +70,7 @@ entran y salen de los pequeños monasterios que la rodean y, también, se toman 
 los cafés. Las cafeterías y bares circundantes suelen tener terrazas que se convierten 
 en maravillosos miradores de todo el conjunto. 
 
-![bhaktapur viaje mujeres a nepal](etheria_images/2018/11/Bhaktapur-viaje-mujeres-ninos-1024x684.jpg "Una madre y su hijo asisten con sus mejores galas a un ritual en Bhaktapur. ©P.G.")
+![bhaktapur viaje mujeres a nepal](etheria-images/2018/11/Bhaktapur-viaje-mujeres-ninos-1024x684.jpg "Una madre y su hijo asisten con sus mejores galas a un ritual en Bhaktapur. ©P.G.")
 
 ## Bhaktapur, ciudad de rituales
 
@@ -82,13 +82,13 @@ vuelo y localizaríamos enseguida la hermosa **plaza Durbar**, los **templos de
 Nyatapola** y de **Bhairavnath**, el gran **estanque de Siddha Pokhari**, el sinuoso 
 entramado de calles y el espacio donde los alfareros secan sus jarras al sol. 
 
-![Taller de costura en Bhaktapur.](etheria_images/2018/11/bhaktapur-costureras-nepal-mujeres-e1644907582438.jpg "Taller de costura en Bhaktapur. ©P.G.")
+![Taller de costura en Bhaktapur.](etheria-images/2018/11/bhaktapur-costureras-nepal-mujeres-e1644907582438.jpg "Taller de costura en Bhaktapur. ©P.G.")
 
 En la **plaza Dattatreya** incluso podríamos seguir visualmente a una joven con sari 
 rojo que se acerca con flores a un altar, a un grupo de colegiales que compra helados en 
 un motocarro y a un barbero que parlotea mientras rasura a un cliente. 
 
-![Taller de costura en Bhaktapur.](etheria_images/2018/11/Bhaktapur-rito-viaje-mujeres-nepal-e1644907538975.jpg "Taller de costura en Bhaktapur.©P.G.")
+![Taller de costura en Bhaktapur.](etheria-images/2018/11/Bhaktapur-rito-viaje-mujeres-nepal-e1644907538975.jpg "Taller de costura en Bhaktapur.©P.G.")
 
 ### Rituales ancestrales
 
@@ -113,7 +113,7 @@ por los hindúes. Sin embargo, sí está permitida la asistencia a las cremacion
 realizan a lo largo de este afluente del Ganges. Desde unas concurridas escalinatas, 
 situadas frente al ghat de las cremaciones, se puede observar todo el proceso. 
 
-![Rito funerario en Pashupatinath, la'Ciudad de los muertos'](etheria_images/2018/11/Pashupatinath-1024x684.jpg "Rito funerario en Pashupatinath, la 'Ciudad de los muertos'. ©P.G.")
+![Rito funerario en Pashupatinath, la'Ciudad de los muertos'](etheria-images/2018/11/Pashupatinath-1024x684.jpg "Rito funerario en Pashupatinath, la 'Ciudad de los muertos'. ©P.G.")
 
 ### Un viaje hacia la muerte
 
@@ -132,7 +132,7 @@ rincones del país. Por los intensos tonos amarillos de su maquillaje no pasan
 desapercibidos los, también presentes, _saddhus_ (o santones), quienes a través de la 
 meditación y una vida contemplativa intentan liberarse de lo material. 
 
-![Plaza Durbar de Patan nepal](etheria_images/2018/11/plaza-durbar-patan-nepal-e1644907564641.jpg "Plaza Durbar de Patan (Nepal). ©Pepa García")
+![Plaza Durbar de Patan nepal](etheria-images/2018/11/plaza-durbar-patan-nepal-e1644907564641.jpg "Plaza Durbar de Patan (Nepal). ©Pepa García")
 
 ## Patan, la ciudad de la belleza
 
@@ -145,7 +145,7 @@ de 2015). Los ornamentados templos de esta plaza, de los siglos XIV a XVIII, el 
 Real custodiado por dos leones de piedra en la entrada (en su interior se halla el Museo 
 de Historia) y el Golden Temple o Templo Dorado son visitas imprescindibles. 
 
-![palacio dorado](etheria_images/2018/11/Patan-viaje-mujeres-nepal-e1644907552804.jpg "Palacio Dorado.")
+![palacio dorado](etheria-images/2018/11/Patan-viaje-mujeres-nepal-e1644907552804.jpg "Palacio Dorado.")
 
 ### Niños sacerdotes
 

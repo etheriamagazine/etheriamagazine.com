@@ -1,11 +1,11 @@
 ---
 title: "La Capilla del Surf, descubre el primer museo del surf de Canarias"
 date: 2023-03-29
-coverImage: etheria_images/2023/03/capilla-surf-tenerife.jpg
+coverImage: etheria-images/2023/03/capilla-surf-tenerife.jpg
 categories: 
   - exposiciones
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La Capilla del Surf es el primer museo dedicado íntegramente a este deporte en Canarias 
@@ -13,7 +13,7 @@ y uno de los más completos de nuestro país. Si viajas a Tenerife, tienes una c
 este templo de la cultura surfista en Bajamar, una población de San Cristóbal de La 
 Laguna. 
 
-![Jesús Dionis, Tato, ha sido el impulsor de la Capilla del Surf.](etheria_images/2023/03/tato-dionis-museo-surf.jpg "Jesús Dionis, Tato, ha sido el impulsor de la Capilla del Surf.")
+![Jesús Dionis, Tato, ha sido el impulsor de la Capilla del Surf.](etheria-images/2023/03/tato-dionis-museo-surf.jpg "Jesús Dionis, Tato, ha sido el impulsor de la Capilla del Surf.")
 
 Si hay un deporte que no ha dejado de ganar adeptos en las últimas décadas ese es el 
 surf. No sólo ha logrado afianzarse sino que determinados destinos han conseguido atraer 
@@ -38,7 +38,7 @@ taller de reparación de material surfista. Con el tiempo, su establecimiento se
 convertido en un punto de encuentro fundamental para los amantes de este deporte en 
 Tenerife. 
 
-![El museo del surf acoge piezas de todo el mundo.](etheria_images/2023/03/capilla-surf-tenerife-tato-dionis-683x1024.jpg "El museo acoge piezas de todo el mundo.")
+![El museo del surf acoge piezas de todo el mundo.](etheria-images/2023/03/capilla-surf-tenerife-tato-dionis-683x1024.jpg "El museo acoge piezas de todo el mundo.")
 
 Lo más curioso es que Tato Dionis no llegó a Canarias ligero de equipaje sino que 
 llevaba consigo un bueno número de piezas relacionadas con el surf que había reunido a 
@@ -50,7 +50,7 @@ participado en muestras temporales, para él era necesario encontrar un espacio 
 pudiese acoger la colección de forma permanente. Para ello, Tato solicitó a las 
 autoridades un espacio donde exhibirlas, de manera organizada, al público. 
 
-![Entrada de la Capilla del Surf, en la ermita del Gran Poder de Dios de Bajamar.](etheria_images/2023/03/capilla-surf-tenerife-683x1024.jpg "Entrada de la Capilla del Surf, en la ermita del Gran Poder de Dios de Bajamar.")
+![Entrada de la Capilla del Surf, en la ermita del Gran Poder de Dios de Bajamar.](etheria-images/2023/03/capilla-surf-tenerife-683x1024.jpg "Entrada de la Capilla del Surf, en la ermita del Gran Poder de Dios de Bajamar.")
 
 ## Qué se puede ver en la Capilla del surf
 

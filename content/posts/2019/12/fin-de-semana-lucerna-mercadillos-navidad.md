@@ -1,12 +1,12 @@
 ---
 title: "8 actividades en Lucerna para un fin de semana navideño"
 date: 2019-12-04
-coverImage: etheria_images/2019/11/lucerna-luces-navidad.jpg
+coverImage: etheria-images/2019/11/lucerna-luces-navidad.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 El mes de diciembre es el momento ideal para realizar un viaje con el que reconciliarse 
@@ -14,7 +14,7 @@ con el espíritu navideño, y Lucerna es el destino perfecto. Te proponemos ocho
 actividades para disfrutar de esta bonita ciudad suiza durante una escapada de fin de 
 semana. 
 
-![Luces de Navidad en Lucerna, una preciosa ciudad de Suiza](etheria_images/2019/11/lucerna-luces-navidad-900x599.jpg "© Luces de Navidad en Lucerna. STST-STTP/Jan Geerk")
+![Luces de Navidad en Lucerna, una preciosa ciudad de Suiza](etheria-images/2019/11/lucerna-luces-navidad-900x599.jpg "© Luces de Navidad en Lucerna. STST-STTP/Jan Geerk")
 
 Escaparse unos días a una ciudad europea para conocer sus **mercadillos de Navidad** es 
 un planazo para estas fechas. Suiza es uno de los países que mejor cuida la estética 
@@ -28,7 +28,7 @@ ocho actividades o lugares que no debes perderte en esta escapada.
 
 ## Qué hacer en Lucerna en diciembre
 
-![El Kapellbruecke nevado.](etheria_images/2019/11/Lucerna-puente-900x675.jpg "El Kapellbruecke nevado. © STST-STTP/Christof Schuerpf")
+![El Kapellbruecke nevado.](etheria-images/2019/11/Lucerna-puente-900x675.jpg "El Kapellbruecke nevado. © STST-STTP/Christof Schuerpf")
 
 ### 1\. Cruzar el Kapellbrüche
 
@@ -39,7 +39,7 @@ pinturas renacentistas del techo, que cuentan historias de la ciudad. No te pier
 pasear por él y contemplarlo desde las orillas del río Reuss al anochecer para verlo con 
 las luces navideñas. 
 
-![Mercadillo Lozärner Wiehnachtsmärt en la Franziskanerplatz.](etheria_images/2019/11/Lucerna-mercadillo-900x675.jpg "Mercadillo Lozärner Wiehnachtsmärt en la Franziskanerplatz. © STST-STTP/Christof Schuerpf")
+![Mercadillo Lozärner Wiehnachtsmärt en la Franziskanerplatz.](etheria-images/2019/11/Lucerna-mercadillo-900x675.jpg "Mercadillo Lozärner Wiehnachtsmärt en la Franziskanerplatz. © STST-STTP/Christof Schuerpf")
 
 ### 2\. Recorrer los mercadillos navideños de Lucerna
 
@@ -58,7 +58,7 @@ no podrás evitar hacer unos giros (o intentarlo) en la pista sobre hielo que es
 la Europaplatz, frente al centro de exposiciones KKL Luzern. Puedes consultar todo el 
 programa en su [web](https://www.luzern.com/en/highlights/christmas-in-lucerne/christmas-markets/). 
 
-![Escultura del León Moribundo.](etheria_images/2019/11/Lucerna-leon-moribundo-900x629.jpg "Escultura del León Moribundo. © SG")
+![Escultura del León Moribundo.](etheria-images/2019/11/Lucerna-leon-moribundo-900x629.jpg "Escultura del León Moribundo. © SG")
 
 ### 3\. Visitar la escultura del León Moribundo
 
@@ -68,7 +68,7 @@ la Revolución Francesa. Un lugar para visitar y contemplar la obra del escultor
 Bertel Thorvaldsen que Marc Twain definió como “la pieza de piedra más triste del 
 mundo”. 
 
-![Crucero de Navidad por el lago de los Cuatro Cantones.](etheria_images/2019/11/Lucerna-crucero-lago-navidad-900x601.jpg "Crucero de Navidad por el lago de los Cuatro Cantones. © SGV Luzern/Alexander Dietz")
+![Crucero de Navidad por el lago de los Cuatro Cantones.](etheria-images/2019/11/Lucerna-crucero-lago-navidad-900x601.jpg "Crucero de Navidad por el lago de los Cuatro Cantones. © SGV Luzern/Alexander Dietz")
 
 ### 4\. Navegar por el lago de los Cuatro Cantones
 
@@ -79,7 +79,7 @@ rodean, y tienen salidas especiales durante el Adviento y la Navidad. Puedes pas
 agradable cena mientras contemplas las luces navideñas de Lucerna y los bellos paisajes 
 que rodean el lago. 
 
-![Vistas desde el monte Pilatus.](etheria_images/2019/11/Lucerna-pilatus-vistas-900x600.jpg "Vistas desde el monte Pilatus. © Pilatus-Bahnen/Rainer Eder")
+![Vistas desde el monte Pilatus.](etheria-images/2019/11/Lucerna-pilatus-vistas-900x600.jpg "Vistas desde el monte Pilatus. © Pilatus-Bahnen/Rainer Eder")
 
 ### 5\. Subir al monte Pilatus
 
@@ -94,7 +94,7 @@ enlaza con el telecabina ‘Dragon Ride’, que ofrece unas vistas fabulosas has
 Pilatus, donde podrás pasar un rato contemplando el increíble paisaje, tomando algo en 
 su restaurante o comprando algún recuerdo en sus tiendas. 
 
-![Fachadas del casco histórico de Lucerna.](etheria_images/2019/11/lucerna-fachadas-centro-900x433.jpg "Fachadas del casco histórico de Lucerna. © SG")
+![Fachadas del casco histórico de Lucerna.](etheria-images/2019/11/lucerna-fachadas-centro-900x433.jpg "Fachadas del casco histórico de Lucerna. © SG")
 
 ### 6\. Contemplar las fachadas del centro histórico
 
@@ -105,7 +105,7 @@ frescos y mil detalles. Algunas de las fachadas más conocidas son la del edific
 Farmacia (en la plaza Weinmarkt) y la del Antiguo Ayuntamiento (en la plaza Kornmarkt), 
 pero encontrarás muchas más por todo el centro. 
 
-![Fondue de queso y delicias de chocolate de Max Chocolatier](etheria_images/2019/11/Lucerna-gastronomia-900x301.jpg "Fondue de queso (©swiss-image.ch/Remy Steinegger) y delicias de chocolate de Max Chocolatier (©Switzerland Tourism chocolate/Andre Meier)")
+![Fondue de queso y delicias de chocolate de Max Chocolatier](etheria-images/2019/11/Lucerna-gastronomia-900x301.jpg "Fondue de queso (©swiss-image.ch/Remy Steinegger) y delicias de chocolate de Max Chocolatier (©Switzerland Tourism chocolate/Andre Meier)")
 
 ### 7\. Degustar la gastronomía suiza
 
@@ -124,7 +124,7 @@ hacerlo en la céntrica Confiserie Bachmann, en Mardi Gras Café o en Konditorei
 Heini. Y si quieres probar (y llevarte a casa) unos excelentes chocolates acércate a Max 
 Chocolatier. 
 
-![Fachada del hotel Wilden Mann.](etheria_images/2019/11/Lucerna-hotel-wilden-mann-900x600.jpg "Fachada del © hotel Wilden Mann.")
+![Fachada del hotel Wilden Mann.](etheria-images/2019/11/Lucerna-hotel-wilden-mann-900x600.jpg "Fachada del © hotel Wilden Mann.")
 
 ### 8\. Alojarse en un hotel con encanto
 
@@ -145,7 +145,7 @@ corto de Suiza, que sale desde la ribera del lago, es una de las formas de acced
 este hotel con panorámicas increíbles del lago de los Cuatro Cantones y del centro 
 histórico de Lucerna. Además, cuenta con una decoración moderna, acogedora y exquisita. 
 
-![Vistas desde el Hotel Montana Art Deco.](etheria_images/2019/11/Lucerna-hotel-montana-900x376.jpg "Vistas desde el © Hotel Montana Art Deco.")
+![Vistas desde el Hotel Montana Art Deco.](etheria-images/2019/11/Lucerna-hotel-montana-900x376.jpg "Vistas desde el © Hotel Montana Art Deco.")
 
 **Más información** 
 

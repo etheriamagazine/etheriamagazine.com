@@ -1,14 +1,14 @@
 ---
 title: "6 escapadas nacionales para mujeres de buen comer"
 date: 2019-12-12
-coverImage: etheria_images/2019/06/Cinco-Jotas-Bodega-plato-jamon.jpg
+coverImage: etheria-images/2019/06/Cinco-Jotas-Bodega-plato-jamon.jpg
 categories: 
   - viajes-gastronomicos
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cualquier momento es bueno para realizar una escapada con la que deleitarte 
@@ -16,7 +16,7 @@ gastronómicamente y, de paso, conocer ciudades y regiones que merecen una ruta.
 que algunas apetezcan más en verano y otras en invierno pero eso lo dejamos a tu 
 elección. 
 
-![escapadas fin de semana, escapadas con chicas](etheria_images/2019/02/Viajes-amigas-1024x814.jpg)
+![escapadas fin de semana, escapadas con chicas](etheria-images/2019/02/Viajes-amigas-1024x814.jpg)
 
 Cuando está a punto de acabar el año solemos hacer recuento de todo lo que hemos hecho 
 y, sobre todo, de aquello que nos ha faltado por hacer. Si estás en este punto, seguro 
@@ -25,7 +25,7 @@ habrá muchos destinos que se han quedado en el tintero y que no quieres perdert
 este reportaje dejamos seis escapadas _foodie_ que si no las has hecho todavía tienen 
 que estar sí o sí en tu próxima lista. 
 
-![gastronomia, escapada gastronomica, viaje con amigas](etheria_images/2019/04/Lechazo-Azofra.jpg "Lechazo asado de © Casa Azofra.")
+![gastronomia, escapada gastronomica, viaje con amigas](etheria-images/2019/04/Lechazo-Azofra.jpg "Lechazo asado de © Casa Azofra.")
 
 ## 1\. Ruta del lechazo en Castilla y León
 
@@ -36,7 +36,7 @@ además de explicarte las bondades de este maravilloso y tradicional producto co
 fuego lento en hornos tradicionales, te recomendamos algunos de los restaurantes más 
 emblemáticos de cada lugar. 
 
-![jamon cinco jotas, ruta del jabugo en aracena](etheria_images/2019/06/viaje-huelva-aracena-Cinco-Jotas-Bodega.jpg "© Jamón Cinco Jotas.")
+![jamon cinco jotas, ruta del jabugo en aracena](etheria-images/2019/06/viaje-huelva-aracena-Cinco-Jotas-Bodega.jpg "© Jamón Cinco Jotas.")
 
 ## 2\. Huelva, cien por cien bellota
 
@@ -51,7 +51,7 @@ sierra homónima.
 
 ## 3\. San Sebastián de pintxos
 
-![pintxos en San Sebastián, viaje a la costa vasca, fin de semana en Donosti](etheria_images/2019/10/San-Sebastian-ambiente-Gros-900x600.jpg "Ambiente en el barrio de Gros. © DSST")
+![pintxos en San Sebastián, viaje a la costa vasca, fin de semana en Donosti](etheria-images/2019/10/San-Sebastian-ambiente-Gros-900x600.jpg "Ambiente en el barrio de Gros. © DSST")
 
 San Sebastián es una ciudad perfecta para hacer una escapada cualquier fin de semana del 
 año. Además de paisajes maravillosos, ofrece una oferta gastronómica difícil de superar, 
@@ -63,7 +63,7 @@ ciudad.
 
 ## 4\. El Mediterráneo y su gamba roja
 
-![escapada gourmet, viaje gastronómico, viaje con amigas](etheria_images/2019/06/Gamba-roja-Palamos.jpg "Gamba roja de Palamós. ©Foto Óscar Oliu. Museu de la Pesca")
+![escapada gourmet, viaje gastronómico, viaje con amigas](etheria-images/2019/06/Gamba-roja-Palamos.jpg "Gamba roja de Palamós. ©Foto Óscar Oliu. Museu de la Pesca")
 
 Una de las ventajas del marisco es que, además de ser un producto delicioso que nos hace 
 hasta soñar, se puede degustar en los lugares de costa. Y no me digáis que ver el mar no 
@@ -75,7 +75,7 @@ alistada) además de su exquisita gamba blanca.
 
 ## 5\. Norte de Extremadura
 
-![viaje gastro caceres, restaurante atrio, chef tono perez](etheria_images/2019/09/viaje-caceres-restaurante-atrio-900x563.jpg "Restaurante Atrio (Cáceres) y su chef, Toño Pérez, con el plato Binomio del Casar. © P.Grifol")
+![viaje gastro caceres, restaurante atrio, chef tono perez](etheria-images/2019/09/viaje-caceres-restaurante-atrio-900x563.jpg "Restaurante Atrio (Cáceres) y su chef, Toño Pérez, con el plato Binomio del Casar. © P.Grifol")
 
 En Cáceres o Plasencia no sabes si te gusta más su gastronomía o su increíble patrimonio 
 artístico. En nuestro [viaje gastro por el norte de 
@@ -86,7 +86,7 @@ para descubrir todos los matices de la gastronomía extremeña.
 
 ## 6\. Pamplona entre pintxos y cultura
 
-![viajar sola a Pamplona, fin de semana en Pamplona, ruta de pintxos](etheria_images/2019/11/Pamplona-Plaza-del-Castillo-900x505.jpg "Plaza del Castillo. ©Turismo Navarra")
+![viajar sola a Pamplona, fin de semana en Pamplona, ruta de pintxos](etheria-images/2019/11/Pamplona-Plaza-del-Castillo-900x505.jpg "Plaza del Castillo. ©Turismo Navarra")
 
 [Pamplona es un destino excelente para viajar sola o con 
 amigas](https://etheriamagazine.com/2019/11/15/que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona/) 

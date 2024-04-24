@@ -1,11 +1,11 @@
 ---
 title: "Descubre la belleza de Myanmar, uno de los destinos más mágicos del mundo"
 date: 2020-04-27
-coverImage: etheria_images/2020/04/viaje-mujeres-myanmar-bagan.jpg
+coverImage: etheria-images/2020/04/viaje-mujeres-myanmar-bagan.jpg
 categories: 
   - viajes-con-amigas
   - viajar-sola
-author: 
+authors: 
   - Ana Vara y David Santiago
 ---
 
@@ -15,7 +15,7 @@ afables. En esta situación que estamos viviendo, tendremos que esperar para vol
 despegar. Si bien, mientras se resuelve, os sugiero tomar nota y añadir Myanmar a la 
 lista destinos que una mujer viajera no se debe perder. 
 
-![Una panorámica inolvidable de Bagan, en Myanmar](etheria_images/2020/04/viaje-mujeres-myanmar-bagan-900x603.jpg "Una panorámica inolvidable de Bagan. © David Santiago")
+![Una panorámica inolvidable de Bagan, en Myanmar](etheria-images/2020/04/viaje-mujeres-myanmar-bagan-900x603.jpg "Una panorámica inolvidable de Bagan. © David Santiago")
 
 Actualizado 12/2023 
 
@@ -44,7 +44,7 @@ y estupas, todos ellos dedicados a Buda. La más asombrosa es la **estupa Kuthod
 Paya**, apodada ‘el libro más grande del mundo’ por las 729 losas de mármol que 
 constituyen los quince libros enteros del _Tripitaka_, un código budista. 
 
-![Niño budista en un templo de Sagaing Hill, a unos 20 km de Mandalay, en Myanmar](etheria_images/2020/04/viaje-myanmar-sagaing-hill-mandalay-900x600.jpg "Niño budista en un templo de Sagaing Hill, a unos 20 km de Mandalay. © David Santiago")
+![Niño budista en un templo de Sagaing Hill, a unos 20 km de Mandalay, en Myanmar](etheria-images/2020/04/viaje-myanmar-sagaing-hill-mandalay-900x600.jpg "Niño budista en un templo de Sagaing Hill, a unos 20 km de Mandalay. © David Santiago")
 
 > Mandalay se halla rodeada por antiguas capitales que aún hablan del esplendor de la 
 > historia y la realeza birmanas: Sagaing, Ava, Amarapura y Mingún. La primera es una 
@@ -62,7 +62,7 @@ colegio… Para llegar a **Mingún** hay que navegar río arriba. Escoltada por 
 niños, recorro las ruinas de esta ciudad y trepo por la Mingún Paya, que si se hubiera 
 terminado habría sido la estupa más grande del mundo. 
 
-![Surcando el río Ayeyarwady en barco](etheria_images/2020/04/viaje-mujeres-ayeyarwady-900x600.jpg "Surcando el río Ayeyarwady. © David Santiago")
+![Surcando el río Ayeyarwady en barco](etheria-images/2020/04/viaje-mujeres-ayeyarwady-900x600.jpg "Surcando el río Ayeyarwady. © David Santiago")
 
 ## Por el río Ayeyarwadi hasta Bagán
 
@@ -79,7 +79,7 @@ discurre lenta en el tiempo y en la que sus habitantes viven en cabañas de junc
 construidas sobre pilotes. Tras 12 de horas de incesante hormigueo fluvial llego a uno 
 de los conjuntos arqueológicos más impresionantes del mundo: **Bagán**. 
 
-![Pagodas de Bagan.](etheria_images/2020/04/viaje-mujeres-myanmar-Burma-templos-900x600.jpg "Pagodas de Bagan. © David Santiago")
+![Pagodas de Bagan.](etheria-images/2020/04/viaje-mujeres-myanmar-Burma-templos-900x600.jpg "Pagodas de Bagan. © David Santiago")
 
 ### Descubriendo Bagan
 
@@ -92,7 +92,7 @@ bellos del mundo’**. Y es que, durante dos siglos y medio a partir de 1044, re
 plebeyos compitieron por honrar a Buda y llegaron a construir 4.400 templos en apenas 
 cuarenta kilómetros cuadrados. 
 
-![Pagodas en Bagan, en Myanmar](etheria_images/2020/04/viaje-mujeres-myanmar-pagodas-estupas-pagan-683x1024.jpg "Pagodas en Bagan, en Myanmar. © David Santiago")
+![Pagodas en Bagan, en Myanmar](etheria-images/2020/04/viaje-mujeres-myanmar-pagodas-estupas-pagan-683x1024.jpg "Pagodas en Bagan, en Myanmar. © David Santiago")
 
 A lo largo de varios días recorro la zona a pie, en bicicleta y en carro de caballos. Me 
 pierdo por los palmerales, llego a aldeas y entro en decenas de templos, con budas 
@@ -104,7 +104,7 @@ esperar la puesta de sol. A la vuelta, me cruzo con las carretas de bueyes de lo
 campesinos que regresan a sus aldeas; con las **ancianas que fuman gruesos cigarros**; y 
 con los niños sonrientes que siempre están dispuestos a venderte algo. 
 
-![Una anciana birmana fuma un cigarro al acabar el día.](etheria_images/2020/04/viaje-mujeres-myanmar-birmana-fumando-pagan-900x600.jpg "Una anciana birmana fuma un cigarro al acabar el día. © David Santiago")
+![Una anciana birmana fuma un cigarro al acabar el día.](etheria-images/2020/04/viaje-mujeres-myanmar-birmana-fumando-pagan-900x600.jpg "Una anciana birmana fuma un cigarro al acabar el día. © David Santiago")
 
 ## De Kalow al lago Inle
 
@@ -122,7 +122,7 @@ lago Inle**. El primer día subo y bajo suaves lomas, visito pequeñas aldeas ha
 por las **etnias palaung y pa-o** y otras comunidades primitivas como los intha, los 
 shan, los taungthu, los taung-yo, los danu, los kayah, los danaw y los bamar. 
 
-![Mujer de la tribu palaung.](etheria_images/2020/04/viaje-mujeres-myanmar-burma-mujer-jirafa-683x1024.jpg "Mujer de la tribu palaung. © David Santiago")
+![Mujer de la tribu palaung.](etheria-images/2020/04/viaje-mujeres-myanmar-burma-mujer-jirafa-683x1024.jpg "Mujer de la tribu palaung. © David Santiago")
 
 > Los niños me observan tímidamente y las bellas mujeres, que llevan un pañuelo en la 
 > cabeza de distintos colores según la etnia a la que pertenezcan, me saludan y sonríen. 
@@ -134,7 +134,7 @@ emoción de mis pequeños anfitriones. Hay peleas por prepararme la cena o el ca
 competiciones por ver quién llama más la atención de esta invitada occidental de aspecto 
 extraño. 
 
-![Niños budistas con sus características túnicas.](etheria_images/2020/04/myanmar-ninos-budistas.jpg "Niños budistas con sus características túnicas. © David Santiago")
+![Niños budistas con sus características túnicas.](etheria-images/2020/04/myanmar-ninos-budistas.jpg "Niños budistas con sus características túnicas. © David Santiago")
 
 ### El lago Inle
 
@@ -147,7 +147,7 @@ locomoción para disfrutar durante varios días de la intensa actividad que se a
 las orillas. Un exótico lugar para terminar mi viaje en el país en el que todo el mundo 
 regala sonrisas. 
 
-![Pescador intha en el lago Inle, viaje myanmar](etheria_images/2020/04/viaje-mujeres-myanmar-burma-arrozales-900x600.jpg "Pescador intha en el lago Inle.")
+![Pescador intha en el lago Inle, viaje myanmar](etheria-images/2020/04/viaje-mujeres-myanmar-burma-arrozales-900x600.jpg "Pescador intha en el lago Inle.")
 
 ## Guía de viaje a Myanmar
 

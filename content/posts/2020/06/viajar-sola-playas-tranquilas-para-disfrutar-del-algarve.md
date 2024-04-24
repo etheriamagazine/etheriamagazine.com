@@ -1,18 +1,18 @@
 ---
 title: "Playas del Algarve, descubre sus tesoros menos masificados"
 date: 2020-06-19
-coverImage: etheria_images/2020/06/playas-Algarve-Armona.jpg
+coverImage: etheria-images/2020/06/playas-Algarve-Armona.jpg
 categories: 
   - viajes-con-amigas
   - planes-cultura-ocio
   - viajar-sola
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 A pesar de su alta demanda, puedes encontrar numerosas playas del Algarve poco masificadas para disfrutarlas casi en soledad. ¡Y sin renunciar a arenales infinitos y a la compañía azul del Atlántico! Si estás dispuesta a prescindir de chiringuitos o a moverte un poco para llegar a bonitas playas, encontrarás auténticos tesoros lejos de multitudes.
 
-![Cacela Velha playas algarve](etheria_images/2020/06/playas-algarve-Cacela-Velha.jpg "Cacela Velha es un pueblo del municipio de Vila Real de Santo Antonio.")
+![Cacela Velha playas algarve](etheria-images/2020/06/playas-algarve-Cacela-Velha.jpg "Cacela Velha es un pueblo del municipio de Vila Real de Santo Antonio.")
 
 Las 115 preciosas playas del Algarve te esperan repartidas entre los doscientos 
 kilómetros de litoral de esta región portuguesa. Como no todas están aisladas, son 
@@ -32,7 +32,7 @@ En el **municipio de Aljezur** se sitúan varios de estos parajes costeros donde
 del mar y de los deportes acuáticos sin que te moleste tu vecino de sombrilla. Toma 
 nota, para empezar, de estos tres arenales. 
 
-![Playa de Carriagem algarve](etheria_images/2020/06/playas-algarve-Carriagem.jpg "Playa de Carriagem (Algarve).")
+![Playa de Carriagem algarve](etheria-images/2020/06/playas-algarve-Carriagem.jpg "Playa de Carriagem (Algarve).")
 
 ### Playa de Carreagem
 
@@ -41,7 +41,7 @@ niños jugando a la pelota. El acceso es través de caminos rocosos, lo que desa
 las familias... En el extremo norte de la playa, cuando la marea está baja, se puede 
 observar un curioso anfiteatro natural, tallado en esquisto. 
 
-![playa bordeira algarve](etheria_images/2020/06/playa-algarve-Bordeira.jpg "Playa de Bordeira (Algarve).")
+![playa bordeira algarve](etheria-images/2020/06/playa-algarve-Bordeira.jpg "Playa de Bordeira (Algarve).")
 
 ### Playa Vale de Figueira
 
@@ -55,7 +55,7 @@ Es una playa muy agradable con un paisaje a base de naturaleza calcárea de colo
 cálidos, extensos campos de dunas y una laguna que se forma en la **Ribeira de 
 Bordeira** donde, a veces, se pueden ver nutrias nadando. 
 
-![playa de barriga Algarve Sagres](etheria_images/2020/06/playa-algarve-Barriga.jpg "Playa de Barriga, en Sagres.")
+![playa de barriga Algarve Sagres](etheria-images/2020/06/playa-algarve-Barriga.jpg "Playa de Barriga, en Sagres.")
 
 ### Playa da Barriga, en Sagres
 
@@ -65,7 +65,7 @@ se encuentra oculta en el tramo final de un valle y protegida por grandes acanti
 negros. Es una ensenada tranquila desde la que, cuando se produce la bajamar, se puede 
 llegar caminando hasta la **Playa do Castelejo**, algo más frecuentada por surfistas. 
 
-![deserta playas del Algarve](etheria_images/2020/06/playas-algarve-costa-deserta.jpg "Playa de Isla Desierta (Algarve).")
+![deserta playas del Algarve](etheria-images/2020/06/playas-algarve-costa-deserta.jpg "Playa de Isla Desierta (Algarve).")
 
 ## Ilhas del Algarve, entre Faro y Huelva
 
@@ -81,7 +81,7 @@ que las convierte en lugares aún menos demandados.
 solo se puede ir en barco desde Faro y tiene 10 kilómetros por los que pasear con escasa 
 compañía. Esta es una zona completamente deshabitada del Parque Natural de Ría Formosa. 
 
-![ilha armona algarve](etheria_images/2020/06/playas-Algarve-Armona.jpg "Isla de Armona (Algarve).")
+![ilha armona algarve](etheria-images/2020/06/playas-Algarve-Armona.jpg "Isla de Armona (Algarve).")
 
 ### Ilha de Armona
 
@@ -95,7 +95,7 @@ de la isla. La lengua de arena se estrecha, pero igualmente es extensa y apeteci
 Después de 45 minutos caminando hacia oriente se llega a otro arenal desierto e intacto 
 de la bocana de Fuseta, así como a sus innumerables piscinas naturales en la arena. 
 
-![fuseta playas del algarve](etheria_images/2020/06/playas-algarve-fuseta.jpg "Playa de Fuseta (Algarve).")
+![fuseta playas del algarve](etheria-images/2020/06/playas-algarve-fuseta.jpg "Playa de Fuseta (Algarve).")
 
 ### Ilha de Tavira
 
@@ -106,7 +106,7 @@ que tiene agradables chiringuitos junto a la playa. Si se sigue caminando por la
 de costa se llega hasta la **Playa do Homem Nu** (Playa del Hombre Desnudo), menos 
 frecuentada y donde se permite el nudismo. 
 
-![playas del algarve hombre desnudo](etheria_images/2020/06/playas-algarve-Homem.jpg "Playa del Hombre Desnudo (Algarve).")
+![playas del algarve hombre desnudo](etheria-images/2020/06/playas-algarve-Homem.jpg "Playa del Hombre Desnudo (Algarve).")
 
 ### Ilha de Cabanas
 

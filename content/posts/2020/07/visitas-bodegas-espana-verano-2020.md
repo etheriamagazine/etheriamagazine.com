@@ -1,14 +1,14 @@
 ---
 title: "Las bodegas son para el verano: 11 propuestas entre viñas y frescas salas de barricas"
 date: 2020-07-08
-coverImage: etheria_images/2020/07/bodegas-franco-espanolas-cata.jpg
+coverImage: etheria-images/2020/07/bodegas-franco-espanolas-cata.jpg
 categories: 
   - viajes-gastronomicos
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Vanesa
+authors: 
+  - Vanesa Viñolo
 ---
 
 Para este verano te proponemos 11 bodegas donde hacer una parada. Unas son históricas, 
@@ -16,7 +16,7 @@ otras destacan por su diseño y modernidad, algunas producen unas pocas botellas
 y otras son grandes elaboradoras… Pero todas se han puesto las pilas y han adaptado sus 
 instalaciones y experiencias para que sean 100% seguras. 
 
-![Vino al atardecer en Bodegas Mar de Frades](etheria_images/2020/07/bodegas-mar-de-frades-atardecer-900x600.jpg "Vino al atardecer en © Bodegas Mar de Frades")
+![Vino al atardecer en Bodegas Mar de Frades](etheria-images/2020/07/bodegas-mar-de-frades-atardecer-900x600.jpg "Vino al atardecer en © Bodegas Mar de Frades")
 
 Tanto si eres de los que acaban de descubrir el **mundo del vino**, como si quieres 
 adentrarte más en él, entre todas las opciones que nos depara este verano el enoturismo 
@@ -30,7 +30,7 @@ bodegas.
 
 ## Enoturismo en Castilla-La Mancha
 
-![Viñedos de Finca Antigua.](etheria_images/2020/07/bodega-finca-antigua-vinedos-900x408.jpg "Viñedos de © Finca Antigua.")
+![Viñedos de Finca Antigua.](etheria-images/2020/07/bodega-finca-antigua-vinedos-900x408.jpg "Viñedos de © Finca Antigua.")
 
 ### 1\. Finca Antigua: la más ecosostenible en la Ruta del Quijote
 
@@ -59,7 +59,7 @@ de Santiago o Quintanar de la Orden. Sus visitas incluyen cata en pleno viñedo 
 opción más completa, un almuerzo frío. Más información y reservas, previa cita, en su 
 web: www.fincaantigua.com 
 
-![Viñas en Dehesa de Luna](etheria_images/2020/07/bodegas-dehesa-luna-vinedos-900x600.jpg "Viñas en © Dehesa de Luna")
+![Viñas en Dehesa de Luna](etheria-images/2020/07/bodegas-dehesa-luna-vinedos-900x600.jpg "Viñas en © Dehesa de Luna")
 
 ### 2\. Dehesa de Luna: entre viñas y aves rapaces
 
@@ -78,7 +78,7 @@ reservas concertadas a través de su web: www.dehesadeluna.com
 
 ## Enoturismo en Navarra
 
-![Bodegas Otazu](etheria_images/2020/07/bodegas-otazu-noche-900x630.jpg "© Bodegas Otazu")
+![Bodegas Otazu](etheria-images/2020/07/bodegas-otazu-noche-900x630.jpg "© Bodegas Otazu")
 
 ### 3\. Otazu: el diálogo entre el arte y el vino de pago
 
@@ -101,7 +101,7 @@ información y reservas, previa cita, en su web: www.otazu.com/visitas/visitas
 
 ### 4\. Franco Españolas: la bodega centenaria más activa
 
-![Visita a Bodegas Franco-Españolas](etheria_images/2020/07/bodegas-franco-espanolas-visita-900x601.jpg "Visita a © Bodegas Franco-Españolas")
+![Visita a Bodegas Franco-Españolas](etheria-images/2020/07/bodegas-franco-espanolas-visita-900x601.jpg "Visita a © Bodegas Franco-Españolas")
 
 Ubicadas en el casco urbano de Logroño, a orillas del río Ebro y a solo 5 minutos 
 caminando del centro histórico de la ciudad, las bodegas Franco-Españolas superaron el 
@@ -123,7 +123,7 @@ www.francoespanolas.com/visitas
 
 ### 5\. Roda: el barrio de la Estación más top
 
-![Un vino en Bodegas Roda](etheria_images/2020/07/Bodegas-roda-vino-900x598.jpg "Un vino en © Bodegas Roda")
+![Un vino en Bodegas Roda](etheria-images/2020/07/Bodegas-roda-vino-900x598.jpg "Un vino en © Bodegas Roda")
 
 Esta bodega _boutique_ es una de las más prestigiosas de La Rioja y sus vinos siempre se 
 encuentran en el _top ten_ de las mejores guías de vino. Está ubicada a la vera del río 
@@ -140,7 +140,7 @@ con sus vinos de Ribera… Otras opciones son un picnic en el Balcón del Ebro, 
 calesa por sus viñedos o un paseo caminando hasta su viñedo El Perdigón, con cata entre 
 las viñas. Toda la información y la posibilidad de reservar en su web. 
 
-![Sala de barricas de Bodegas Campo Viejo](etheria_images/2020/07/Bodegas-campo-viejo-barricas-900x687.jpg "Sala de barricas de © Bodegas Campo Viejo")
+![Sala de barricas de Bodegas Campo Viejo](etheria-images/2020/07/Bodegas-campo-viejo-barricas-900x687.jpg "Sala de barricas de © Bodegas Campo Viejo")
 
 ### 6\. Campo Viejo: la sala de barricas más espectacular
 
@@ -163,7 +163,7 @@ se puede ver al detalle cada una de estas experiencias.
 
 ## Enoturismo en Jerez
 
-![Una copa por la noche en las Bodegas González Byass](etheria_images/2020/07/bodegas-gonzalez-byass-noche-900x601.jpg "Una copa por la noche en las © Bodegas González Byass")
+![Una copa por la noche en las Bodegas González Byass](etheria-images/2020/07/bodegas-gonzalez-byass-noche-900x601.jpg "Una copa por la noche en las © Bodegas González Byass")
 
 ### 7\. González Byass te invita a veranear en su bodega
 
@@ -186,7 +186,7 @@ encontrarás un bonito recorrido por la ciudad.
 
 ## Enoturismo en Cataluña
 
-![Restaurante El Celleret de Bodegas Torres](etheria_images/2020/07/bodegas-torres-celleret-900x600.jpg "Restaurante El Celleret de © Bodegas Torres")
+![Restaurante El Celleret de Bodegas Torres](etheria-images/2020/07/bodegas-torres-celleret-900x600.jpg "Restaurante El Celleret de © Bodegas Torres")
 
 ### 8\. Torres: La importancia de ser sostenibles
 
@@ -211,7 +211,7 @@ desde el interior de la comarca hasta la costa del Garraf.
 
 ## Enoturismo en Rías Baixas
 
-![Viñedos de Mar de Frades](etheria_images/2020/07/bodega-mar-de-frades-vinedos-900x598.jpg "Viñedos de © Mar de Frades")
+![Viñedos de Mar de Frades](etheria-images/2020/07/bodega-mar-de-frades-vinedos-900x598.jpg "Viñedos de © Mar de Frades")
 
 ### 9\. Mar de Frades: mirando al mar
 
@@ -227,7 +227,7 @@ bodega y con el Atlántico, la ría y la Finca Valiñas (las viñas de donde sal
 albariño más top) como telón de fondo. Reservas por email en 
 info.mardefrades@zamoracompany.com o en el teléfono 637 479 469. 
 
-![Viñedos en Bodegas Pazo de Señorans](etheria_images/2020/07/bodegas-pazo-senorans-900x599.jpg "Viñedos en © Bodegas Pazo de Señorans")
+![Viñedos en Bodegas Pazo de Señorans](etheria-images/2020/07/bodegas-pazo-senorans-900x599.jpg "Viñedos en © Bodegas Pazo de Señorans")
 
 ### 10\. Pazo de Señorans: visitar un pazo gallego histórico
 
@@ -244,7 +244,7 @@ cata rellenando un formulario o llamando al tel. 986 715 373.
 
 ### 11\. Protos: el diseño más vanguardista
 
-![Bodegas Protos con el Castillo de Peñafiel al fondo.](etheria_images/2020/07/bodegas-protos-900x268.jpg "Bodegas Protos con el Castillo de Peñafiel al fondo. © Bodegas Protos")
+![Bodegas Protos con el Castillo de Peñafiel al fondo.](etheria-images/2020/07/bodegas-protos-900x268.jpg "Bodegas Protos con el Castillo de Peñafiel al fondo. © Bodegas Protos")
 
 Es una complicada tarea escoger una sola bodega en la **Ribera del Duero**. Finalmente, 
 pensando en una bodega que complete una visita no enológica, he optado por esta 

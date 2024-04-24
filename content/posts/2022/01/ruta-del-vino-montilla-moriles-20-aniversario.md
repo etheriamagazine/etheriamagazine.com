@@ -1,17 +1,17 @@
 ---
 title: "Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de Andalucía"
 date: 2022-01-11
-coverImage: etheria_images/2022/01/montilla-moriles-vinedos.jpg
+coverImage: etheria-images/2022/01/montilla-moriles-vinedos.jpg
 categories: 
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Con veinte años, la Ruta del Vino Montilla-Moriles se encuentra en un estado óptimo para ofrecer la vitalidad de la juventud y, también, la oferta madura de sus pueblos, paisajes vinícolas y naturaleza. Descubre los atractivos de los 17 municipios por los que transcurre o elige aquellos que mejor se adecúen a tus gustos o necesidades. En el corazón de Andalucía te espera un maridaje perfecto entre gastronomía y turismo.
 
-![Ruta del Vino Montilla Moriles](etheria_images/2022/01/montilla-moriles-1.jpg "Un paseo entre viñas de la Ruta del Vino Montilla-Moriles.")
+![Ruta del Vino Montilla Moriles](etheria-images/2022/01/montilla-moriles-1.jpg "Un paseo entre viñas de la Ruta del Vino Montilla-Moriles.")
 
 Si entre tus planes en 2022 está hacer una escapada a la Ruta del Vino Montilla-Moriles, 
 deberías empezar con un brindis por sus veinte años como destino ligado a la cultura del 
@@ -31,7 +31,7 @@ territorios vitivinícolas de nuestro país. Montilla-Moriles se unió desde el 
 fue una de las primeras rutas de España y la primera de las andaluzas en lograr la 
 certificación que acredita estos estándares de calidad. 
 
-![bodega cruz conde montilla](etheria_images/2022/01/bodega-CruzConde.jpg "Bodegas Cruz Conde.")
+![bodega cruz conde montilla](etheria-images/2022/01/bodega-CruzConde.jpg "Bodegas Cruz Conde.")
 
 ### Pueblos integrantes de la ruta
 
@@ -52,7 +52,7 @@ Montilla Moriles, donde la tradición artesanal mantiene vivos antiguos oficios 
 cerámica, joyería, orfebrería.., o vinculados al mundo del vino, como la **tonelería** y 
 la **hojalatería**. 
 
-![tren turistico lagar el monte montilla moriles](etheria_images/2022/01/Tren-turistico-Lagar-El-Monte.jpg "Tren turístico de las Bodegas Lagar El Monte.")
+![tren turistico lagar el monte montilla moriles](etheria-images/2022/01/Tren-turistico-Lagar-El-Monte.jpg "Tren turístico de las Bodegas Lagar El Monte.")
 
 ### Parajes naturales de la Ruta del Vino Montilla-Moriles
 
@@ -71,7 +71,7 @@ generosos de la **D.O.P. Montilla-Moriles**. Unos vinos que constituyen un mundo
 dentro del universo de la Enología y que se han convertido en patrimonio exclusivo de un 
 marco que no puede trasladarse a ningún otro rincón de España. 
 
-![ruta vino montilla moriles](etheria_images/2022/01/brindis-montilla-moriles.jpg "Un brindis entre viñedos es una actividad imprescindible.")
+![ruta vino montilla moriles](etheria-images/2022/01/brindis-montilla-moriles.jpg "Un brindis entre viñedos es una actividad imprescindible.")
 
 ## Tipos de vinos de la D.O. Montilla-Moriles
 
@@ -85,7 +85,7 @@ biológica bajo velo de flor (Fino, Amontillado y Palo Cortado), además de vino
 Crianza Oxidativa, vino Oloroso y el Vino dulce Pedro Ximénez, elaborado este a partir 
 de la uvas pasificadas al sol. 
 
-![picnic en ruta del vino montilla moriles](etheria_images/2022/01/montilla-moriles-picnic.jpg "Algunas bodegas organizan atractivos pícnics entre las vides.")
+![picnic en ruta del vino montilla moriles](etheria-images/2022/01/montilla-moriles-picnic.jpg "Algunas bodegas organizan atractivos pícnics entre las vides.")
 
 ## Qué comer en la Ruta del Vino Montilla-Moriles
 
@@ -104,7 +104,7 @@ quesos, carnes a la brasa o simplemente con unas tostadas. Un homenaje a la alim
 kilómetro cero, dada la oferta gastronómica que ofrece la provincia de Córdoba, 
 aglutinando hasta 7 denominaciones de origen diferentes. 
 
-![bodega lagar blanco montilla moriles](etheria_images/2022/01/bodega-Lagar-Blanco.jpg "Bodega Lagar Blanco.")
+![bodega lagar blanco montilla moriles](etheria-images/2022/01/bodega-Lagar-Blanco.jpg "Bodega Lagar Blanco.")
 
 ## Propuestas en la ruta
 
@@ -122,7 +122,7 @@ _la Cata del Vino Montilla- Moriles, la Fiesta de la Vendimia, Cata Flamenca; la
 Fiestas del Vino Nuevo de Tinaja, SemaVin (Semana del Vino), Semana del Enoturismo, 
 Patios de Bodega,_ etc. 
 
-![bodega la primilla ruta del vino montilla moriles](etheria_images/2022/01/bodega-La-Primilla.jpg "Bodega La Primilla, en Montilla.")
+![bodega la primilla ruta del vino montilla moriles](etheria-images/2022/01/bodega-La-Primilla.jpg "Bodega La Primilla, en Montilla.")
 
 Todos los servicios y empresas adscritos a la ruta son evaluados y deben obtener el 
 marchamo de calidad para conseguir la anhelada certificación. Esto supone una garantía 
@@ -134,7 +134,7 @@ España](https://wineroutesofspain.com/).
 
 \*Fotografías cedidas por la Ruta del Vino Montilla-Moriles. 
 
-![bodegas alvear montilla moriles](etheria_images/2022/01/Visita-Alvear.jpg "Visita Bodegas Alvear.")
+![bodegas alvear montilla moriles](etheria-images/2022/01/Visita-Alvear.jpg "Visita Bodegas Alvear.")
 
 ### También en Etheria Magazine
 

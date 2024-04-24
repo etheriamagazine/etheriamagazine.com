@@ -1,12 +1,12 @@
 ---
 title: "Viajar sola a Malasia, un itinerario entre islas y selva"
 date: 2019-04-12
-coverImage: etheria_images/2019/04/Malasia-puerto-isla-Perhentian.jpg
+coverImage: etheria-images/2019/04/Malasia-puerto-isla-Perhentian.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Ana Vara y David Santiago
 ---
 
@@ -15,7 +15,7 @@ misterios de las profundidades del mar en alguna de sus islas y en pocas horas
 recorriendo el interior de una selva. Todo está muy a mano en este rincón del sudeste 
 asiático. Además, es un buen destino para comenzar a viajar sola. 
 
-![isla Perhentian en malasia](etheria_images/2019/04/malasia-isla-perhentian.jpg "Esnórquel en la Isla Perhentian.")
+![isla Perhentian en malasia](etheria-images/2019/04/malasia-isla-perhentian.jpg "Esnórquel en la Isla Perhentian.")
 
 Malasia es una buena elección si estás buscando un destino asiático para viajar sola. En 
 este país todo está muy a mano, es seguro y la gente te recibe con los brazos abiertos. 
@@ -41,7 +41,7 @@ que la revista **_Time_ escribió que la isla era una de las 10 más bonitas del
 cabañitas a pie de playa–. Y aunque esto fue allá por los años setenta, hoy en día 
 podría afirmar lo mismo. La montaña selvática del interior es de una belleza pasmosa. 
 
-![Playa de Pulau Tioman](etheria_images/2019/04/malasia-pulau-tioman.jpg "Playa de Pulau Tioman.")
+![Playa de Pulau Tioman](etheria-images/2019/04/malasia-pulau-tioman.jpg "Playa de Pulau Tioman.")
 
 No voy a esperar más para descubrirla así que, de inmediato, echo mano de mis pantalones 
 largos y mis zapatillas de _trekking_ y me adentro en la selva por un camino que llega a 
@@ -56,14 +56,14 @@ ve roto por los monos y otros animales salvajes.
 > varánidos, serpientes, monos y puercoespines deambulan por aquí gracias a la ausencia de 
 > grandes depredadores. 
 
-![Embarcadero de Pulau Perhentian Besar](etheria_images/2019/04/Malasia-puerto-isla-Perhentian.jpg "Embarcadero de Pulau Perhentian Besar.")
+![Embarcadero de Pulau Perhentian Besar](etheria-images/2019/04/Malasia-puerto-isla-Perhentian.jpg "Embarcadero de Pulau Perhentian Besar.")
 
 Pero el verdadero tesoro que guarda Pulau Tioman es el **maravilloso mundo subacuático** 
 que la envuelve, con aguas transparentes y un mar que alberga innumerables variedades de 
 peces tropicales. Las rocas, cubiertas con una densa capa de corales duros y blandos, 
 proporcionan el hábitat perfecto para una gran abundancia de vida marina. 
 
-![especies marinas de Malasia](etheria_images/2019/04/malasia-submarinismo.jpg "El agua cristalina de Pulau Tiomán guarda una increíble biodiversidad.")
+![especies marinas de Malasia](etheria-images/2019/04/malasia-submarinismo.jpg "El agua cristalina de Pulau Tiomán guarda una increíble biodiversidad.")
 
 ## Qué ver en Pulau Perhentian
 
@@ -77,7 +77,7 @@ día, el motivo para detenerse es otro: las Perhentian atesoran playas de fina a
 blanca y un mar color aguamarina con exquisitos arrecifes de coral y una impresionante y 
 variada fauna marina. 
 
-![Tortuga marina en Malasia](etheria_images/2019/04/malasia-tortuga-verde.jpg "Tortuga marina en Malasia.")
+![Tortuga marina en Malasia](etheria-images/2019/04/malasia-tortuga-verde.jpg "Tortuga marina en Malasia.")
 
 Para descubrir la exótica colección de criaturas que existe bajo sus aguas, tomo mi 
 equipo de snorkel y me dirijo a la **bahía de las Tres Calas**, un grupo de tres playas 
@@ -87,7 +87,7 @@ septiembre. Es fácil bucear con ellas, ver al divertido pez payaso que vive en 
 con la anémona marina o perseguir a los bancos de jureles, a las rayas, a los peces 
 mandarines o a los caballitos de mar. 
 
-![Una de las idílicas playas de las Islas Perenthian](etheria_images/2019/04/malasia-perenthian.jpg "Una de las idílicas playas de las Islas Perenthian.")
+![Una de las idílicas playas de las Islas Perenthian](etheria-images/2019/04/malasia-perenthian.jpg "Una de las idílicas playas de las Islas Perenthian.")
 
 ## Taman Negara, la selva más primitiva del mundo
 
@@ -99,7 +99,7 @@ Sungai Tembeling**. La diversidad de flora es asombrosa: desde hongos luminiscen
 orquídeas y helechos hasta altísimos y ancianos árboles. Todo en este parque es grande; 
 me siento diminuta en esta selva tan inmensa como antigua. 
 
-![Parque Nacional de Taman Negara](etheria_images/2019/04/malasia-taman-negara-park.jpg "Parque Nacional de Taman Negara.")
+![Parque Nacional de Taman Negara](etheria-images/2019/04/malasia-taman-negara-park.jpg "Parque Nacional de Taman Negara.")
 
 Sigo un sendero que lleva a **Bukit Teresik**, desde cuya cima se disfruta de unas 
 bonitas vistas del Taman Negara. El recorrido presenta tramos abruptos y resbaladizos, 
@@ -120,7 +120,7 @@ más, podría ser la selva más antigua del mundo, con sus 130 millones de años
 pues no ha sufrido los efectos de ninguna glaciación y ha eludido cualquier actividad 
 volcánica y otros fenómenos geológicos. 
 
-![Parque Nacional de Taman Negara, selva malasia](etheria_images/2019/04/malasia-taman-negara-parque.jpg "El Parque Nacional de Taman Negara es uno de los lugares más vírgenes del mundo.")
+![Parque Nacional de Taman Negara, selva malasia](etheria-images/2019/04/malasia-taman-negara-parque.jpg "El Parque Nacional de Taman Negara es uno de los lugares más vírgenes del mundo.")
 
 Termino con el ascenso escarpado pero gratificante al Bukit Indah, un collado que regala 
 fabulosas vistas de la selva y de los **rápidos del Sungai Tembeling.** Con el aire 
@@ -145,7 +145,7 @@ Posee una red de carreteras que te permite conectar en autobús con cualquier pu
 país. También se puede volar a cualquier destino a unos precios realmente baratos, 
 gracias a las muchas compañías aéreas _low cost_. 
 
-![mujer saltando en el agua en la playa de Malasia](etheria_images/2019/04/malasia-perhentian.jpg "La diversión está asegurada en las islas Perenthian.")
+![mujer saltando en el agua en la playa de Malasia](etheria-images/2019/04/malasia-perhentian.jpg "La diversión está asegurada en las islas Perenthian.")
 
 ### ¿Cuándo viajar a Malasia?
 

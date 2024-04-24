@@ -1,18 +1,18 @@
 ---
 title: "Cómo hacer la maleta para un viaje de trabajo"
 date: 2018-05-28
-coverImage: etheria_images/2018/05/WorkingOutfits-7-2.jpg
+coverImage: etheria-images/2018/05/WorkingOutfits-7-2.jpg
 categories: 
   - que-llevar-en-la-maleta
-author: 
-  - Rebeca Avila
+authors: 
+  - Rebeca Ávila
 ---
 
 Como mujer profesional y activa seguro que son muchas las veces que tienes que realizar 
 salidas a otros destinos o empresas. En este artículo te ayudamos a gestionar una maleta 
 para un viaje de trabajo de la forma más eficaz posible. 
 
-![Hacer la maleta en los viajes profesionales](etheria_images/2018/05/WorkingOutfits-7-2-1024x682.jpg "Los viajes profesionales requieren de un equipaje específico y bien planteado")
+![Hacer la maleta en los viajes profesionales](etheria-images/2018/05/WorkingOutfits-7-2-1024x682.jpg "Los viajes profesionales requieren de un equipaje específico y bien planteado")
 
 Las que viajamos frecuentemente sabemos lo importante que es seleccionar el equipaje 
 para llevar en los trolleys o maletas de cabina todo lo que necesitamos y acertar en el 
@@ -28,7 +28,7 @@ sigas los siguientes tips de imagen:
 Incluye todos los ítems que no debes olvidar: neceser con productos cosméticos (los de 
 tamaño de prueba son perfectos), pijama, ropa interior, medias, etc. 
 
-![](etheria_images/2018/05/WorkingOutfits-2-2-1024x683.jpg)
+![](etheria-images/2018/05/WorkingOutfits-2-2-1024x683.jpg)
 
 ## 2\. Calzados, sólo dos
 
@@ -42,7 +42,7 @@ diferentes tipos de _outfits_, de los más casual a lo más formales en función
 de viaje. Por ejemplo: una camisa blanca con falda lápiz para un estilismo más formal o 
 con jeans para un estilismo más casual. 
 
-![Prendas versátiles en la maleta en los viajes profesionales](etheria_images/2018/05/WorkingOutfits-1-3-1024x682.jpg "Como hace la maleta una mujer viajera si se desplaza por trabajo")
+![Prendas versátiles en la maleta en los viajes profesionales](etheria-images/2018/05/WorkingOutfits-1-3-1024x682.jpg "Como hace la maleta una mujer viajera si se desplaza por trabajo")
 
 ## 4\. Tejidos
 
@@ -62,7 +62,7 @@ Apuesta por los tonos neutros: son más fáciles de combinar entre sí.
 Incluye todos los que puedas, pues abultan poco y con ellos conseguirás dar un aire 
 diferente a tus looks: cinturones, collares, carteras. 
 
-![Los complementos pueden ayudar a cambiar un look sin cargar demasiado la maleta de una  mujer viajera](etheria_images/2018/05/WorkingOutfits-11-1024x682.jpg "Los complementos pueden ayudar a cambiar un look sin cargar demasiado la maleta")
+![Los complementos pueden ayudar a cambiar un look sin cargar demasiado la maleta de una  mujer viajera](etheria-images/2018/05/WorkingOutfits-11-1024x682.jpg "Los complementos pueden ayudar a cambiar un look sin cargar demasiado la maleta")
 
 ## ¿Cómo organizar la maleta?
 

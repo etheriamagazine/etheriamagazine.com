@@ -1,12 +1,12 @@
 ---
 title: "12 miradores de Lisboa para enamorarse de sus vistas"
 date: 2018-10-30
-coverImage: etheria_images/2018/10/Miradores-de-Lisboa-e1566028365742.jpg
+coverImage: etheria-images/2018/10/Miradores-de-Lisboa-e1566028365742.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 La mejor forma de establecer una primera toma de contacto con una ciudad como Lisboa es 
@@ -14,7 +14,7 @@ a través de sus 'miradouros', que te ayudarán a extraer la esencia de la capit
 fado. Algunos de los miradores de Lisboa te lo pondrán muy fácil pero para otros tendrás 
 que poner un poco de tu parte. ¿Estás dispuesta a descubrirlos con nosotras? 
 
-![miradores de Lisboa](etheria_images/2018/10/Miradores-de-Lisboa-e1566028365742.jpg "miradores de lisboa, que ver en lisboa, vistas de lisboa")
+![miradores de Lisboa](etheria-images/2018/10/Miradores-de-Lisboa-e1566028365742.jpg "miradores de lisboa, que ver en lisboa, vistas de lisboa")
 
 Tradicionales quioscos callejeros de estilo _art nouveau_ anuncian tragos de _ginja_ —un 
 licor de guindas típico—, mientras grupos de estudiantes animan el cotarro pinchando 
@@ -24,7 +24,7 @@ homenajea los orígenes de una ciudad que se erigió, según cuenta la leyenda, 
 colinas. En realidad son ocho, pero todo fuera por emular a la capital del Imperio 
 romano. 
 
-![miradores de lisboa, las mejores vistas de lisboa, mirador de santa lucia en lisboa](etheria_images/2018/10/1-Santa-Lucia-e1640169212731.jpg "Mirador de Santa Luzia. © Kelu Robles")
+![miradores de lisboa, las mejores vistas de lisboa, mirador de santa lucia en lisboa](etheria-images/2018/10/1-Santa-Lucia-e1640169212731.jpg "Mirador de Santa Luzia. © Kelu Robles")
 
 ## 1\. Mirador de Santa Luzia
 
@@ -37,7 +37,7 @@ mucho tiempo en Santa Luzia porque existen demasiados encantos en su entorno, co
 calles más antiguas de la ciudad, repletas de locales de fado y pequeñas tiendas de 
 artesanía. 
 
-![mirador de Portas do sol en lisboa](etheria_images/2018/10/2-Portas-do-sol-e1640169227874.jpg "Terraza de Portas do Sol. © Visit Lisboa")
+![mirador de Portas do sol en lisboa](etheria-images/2018/10/2-Portas-do-sol-e1640169227874.jpg "Terraza de Portas do Sol. © Visit Lisboa")
 
 ## 2\. Terraza del _lounge_ Portas do Sol
 
@@ -49,7 +49,7 @@ de tomar cócteles que combinados. La cachaza —un destilado de azúcar de cañ
 están presentes en caipiriñas, caipiroskas, mojitos y morangoskas, y protagonizan las 
 cartas de los clubes nocturnos. 
 
-![mirador de senhora do monte en lisboa](etheria_images/2018/10/3-senhora-do-monte-e1640169243909.jpg "Mirador de Senhora do Monte. © Kelu Robles")
+![mirador de senhora do monte en lisboa](etheria-images/2018/10/3-senhora-do-monte-e1640169243909.jpg "Mirador de Senhora do Monte. © Kelu Robles")
 
 ## 3\. Mirador de la Senhora do Monte
 
@@ -63,7 +63,7 @@ balcón es perfecto para observar el Castillo de São Jorge, el Elevador de Sant
 las ruinas del convento do Carmo, el barrio de Baixa, las grandes avenidas del Marqués 
 de Pombal y el Bairro Alto. 
 
-![mirador de graça lisboa](etheria_images/2018/10/4-Mirador-de-Graca-e1640169256991.jpg "Mirador de Graça, en Lisboa. © Visit Lisboa")
+![mirador de graça lisboa](etheria-images/2018/10/4-Mirador-de-Graca-e1640169256991.jpg "Mirador de Graça, en Lisboa. © Visit Lisboa")
 
 ## 4\. Mirador de Graça
 
@@ -74,7 +74,7 @@ justo al lado. La panorámica es similar a la de aquel, pero **el ambiente en es
 mucho más íntimo**. Es habitual ver a los vecinos del barrio disfrutando de un café en 
 sus magníficas terrazas. 
 
-![mirador de san jorge en lisboa](etheria_images/2018/10/5-castillo-de-Sao-jorge-e1640169269799.jpg "Mirador de São Jorge (Lisboa). © Visit Lisboa")
+![mirador de san jorge en lisboa](etheria-images/2018/10/5-castillo-de-Sao-jorge-e1640169269799.jpg "Mirador de São Jorge (Lisboa). © Visit Lisboa")
 
 ## 5\. Castillo de São Jorge, uno de los mejores miradores de Lisboa
 
@@ -87,7 +87,7 @@ la arrebatara durante la Reconquista y lo convirtiera en Palacio Real. Te aconse
 consultar en su programación las guías teatralizadas, conciertos y representaciones que 
 allí se celebran. 
 
-![miradores de lisboa de santa catarina.](etheria_images/2018/10/6-Santa-Catarina-e1640169282132.jpg "Mirador de Santa Catarina (Lisboa).")
+![miradores de lisboa de santa catarina.](etheria-images/2018/10/6-Santa-Catarina-e1640169282132.jpg "Mirador de Santa Catarina (Lisboa).")
 
 ## 6\. Mirador de Santa Catarina
 
@@ -103,7 +103,7 @@ Noobai,** un pequeño café cercano que goza de la misma vista que Santa Catarin
 Puente del 25 de Abril, Almada, Belém… Ahora es fácil averiguar por qué la llaman la 
 ciudad de la luz. 
 
-![mirador de san pedro de alcantara](etheria_images/2018/10/7-San-Pedro-de-Alcantara-e1640169297658.jpg "Mirador de San Pedro de Alcántara (Lisboa). © Visit Lisboa")
+![mirador de san pedro de alcantara](etheria-images/2018/10/7-San-Pedro-de-Alcantara-e1640169297658.jpg "Mirador de San Pedro de Alcántara (Lisboa). © Visit Lisboa")
 
 ## 7.  Mirador de São Pedro de Alcântara
 
@@ -117,7 +117,7 @@ el barrio de Restauradores. **No podemos irnos sin tomar una Super Bock** en el 
 Pinto Coelho. Esta antigua mercería de estilo años 20 alberga el café más barroco de la 
 capital. 
 
-![miradores de Lisboa arco rua augusto](etheria_images/2018/10/8-arco-rua-augusta-e1640169583564.jpg "Arco rúa Augusta (Lisboa). © Visit Lisboa")
+![miradores de Lisboa arco rua augusto](etheria-images/2018/10/8-arco-rua-augusta-e1640169583564.jpg "Arco rúa Augusta (Lisboa). © Visit Lisboa")
 
 ## 8\. Arco da rua Augusta
 
@@ -129,7 +129,7 @@ descubrimientos, y también la de Nuno Álvares Pereira, líder de la independen
 portuguesa durante la Edad Media. El acceso al edificio se encuentra en la rua Augusta, 
 y la visita se completa con una exposición sobre la historia del monumento. 
 
-![miradores de lisboa, elevador de santa justa, que ver en Lisboa](etheria_images/2018/10/9-Santa-Justa-632x1024.jpg "Elevador de Santa Justa (Lisboa).")
+![miradores de lisboa, elevador de santa justa, que ver en Lisboa](etheria-images/2018/10/9-Santa-Justa-632x1024.jpg "Elevador de Santa Justa (Lisboa).")
 
 ## 9\. Elevador de Santa Justa
 
@@ -142,7 +142,7 @@ Gustave Eiffel. Sus motores están más activos que nunca –transporta continua
 viajeros–, aunque ahora la tecnología no es de vapor, sino eléctrica. La cafetería en su 
 azotea brinda unas vistas espectaculares. 
 
-![miradores de lisboa, mirador de monte agudo, que ver en lisboa](etheria_images/2018/10/10-Monte-Agudo-ok.jpg "Mirador de Monte Agudo (Lisboa). © Café Esplanada do Miradouro do Monte Agudo")
+![miradores de lisboa, mirador de monte agudo, que ver en lisboa](etheria-images/2018/10/10-Monte-Agudo-ok.jpg "Mirador de Monte Agudo (Lisboa). © Café Esplanada do Miradouro do Monte Agudo")
 
 ## 10\. Monte Agudo, alejado del turismo
 
@@ -153,7 +153,7 @@ barrio donde vivían los musulmanes tras la Reconquista, con el consentimiento d
 Don Alfonso Henriques. Quien llega hasta aquí sabe que Lisboa no solo es Alfama, fado, 
 bacalao y tranvías. 
 
-![que ver en lisboa, miradores de lisboa, experiencia pilar en lisboa](etheria_images/2018/10/11-experiencia-pilar-e1640169641739.jpg "Experiencia Pilar (Lisboa). © Kelu Robles")
+![que ver en lisboa, miradores de lisboa, experiencia pilar en lisboa](etheria-images/2018/10/11-experiencia-pilar-e1640169641739.jpg "Experiencia Pilar (Lisboa). © Kelu Robles")
 
 ## 11\. Experiencia Pilar 7
 
@@ -166,7 +166,7 @@ mires abajo. En las inmediaciones del **Pilar 7**, en una antigua fábrica, se e
 diseñadores gráficos demuestran que los artistas de Portugal tienen mucho que aportar al 
 mundo. 
 
-![miradores de lisboa, que ver en lisboa, telecabina en lisboa](etheria_images/2018/10/12-telecabina-e1640169671541.jpg "Telecabina en Lisboa. © Visit Lisboa")
+![miradores de lisboa, que ver en lisboa, telecabina en lisboa](etheria-images/2018/10/12-telecabina-e1640169671541.jpg "Telecabina en Lisboa. © Visit Lisboa")
 
 ## 12\. Telecabina de Lisboa
 

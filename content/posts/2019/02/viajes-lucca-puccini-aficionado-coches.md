@@ -1,16 +1,16 @@
 ---
 title: "Puccini nos lleva de viaje (en coche) a Lucca"
 date: 2019-02-21
-coverImage: etheria_images/2019/02/puccini.jpg
+coverImage: etheria-images/2019/02/puccini.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Puccini, nacido en Lucca, era un apasionado de la música, el tabaco, la caza, el cine y la fotografía. También sentía una gran atracción por los viajes y los coches. De hecho, el autor de _La Boheme_ y _Madame Butterfly_ mandó construir el primer todoterreno de Italia.
 
-![Imagen de Puccini en su casa museo](etheria_images/2019/02/puccini.jpg "Puccini sentado al piano en su casa de Milán. © Casa Museo Puccini")
+![Imagen de Puccini en su casa museo](etheria-images/2019/02/puccini.jpg "Puccini sentado al piano en su casa de Milán. © Casa Museo Puccini")
 
 Giacomo Puccini (Lucca, 1854 – Bruselas, 1924) pasó a la historia por haber compuesto 
 óperas tan sublimes como _Tosca_, _Madame Butterfly_ o _Turandot_, pero el genial 
@@ -29,7 +29,7 @@ casi al 50%, tanto en el terreno profesional como en el personal. Y cuando las c
 le iban bien, siempre encontraba remedio para sus males en los coches. Pero, eso sí, no 
 le valía cualquiera. 
 
-![plaza de Lucca con terrazas para comer](etheria_images/2019/02/Lucca-piazza-Anfiteatro-1024x683.jpg "La Piazza dell'Anfiteatro (Lucca) es una de las más animadas. © S.G.")
+![plaza de Lucca con terrazas para comer](etheria-images/2019/02/Lucca-piazza-Anfiteatro-1024x683.jpg "La Piazza dell'Anfiteatro (Lucca) es una de las más animadas. © S.G.")
 
 ## El último modelo
 
@@ -41,14 +41,14 @@ visto en la Exposición de Milán y que, dos años después, lo sustituyó por u
 Bavard'. Desde entonces, se convirtió en un comprador compulsivo y no dejó de perseguir 
 siempre el último grito en automoción, el último modelo. 
 
-![Puccini en uno de sus coches.](etheria_images/2019/02/puccini-coche.jpg "Puccini en uno de sus coches.")
+![Puccini en uno de sus coches.](etheria-images/2019/02/puccini-coche.jpg "Puccini en uno de sus coches.")
 
 Con estos vehículos viajaba, causando la envidia general, por su tierra, desde **Torre 
 del Lago**, una pequeña localidad junto al lago Massaciuccoli donde se había construido 
 una bonita casa de dos plantas, hasta la elegante **Viareggio** o **Forte dei Marmi**, 
 donde también pasaba temporadas. 
 
-![vista aérea de una plaza de Lucca](etheria_images/2019/02/Lucca-casco-historico-e1550912952514.jpg "Vista del casco histórico de Lucca. © Pilar Ortega")
+![vista aérea de una plaza de Lucca](etheria-images/2019/02/Lucca-casco-historico-e1550912952514.jpg "Vista del casco histórico de Lucca. © Pilar Ortega")
 
 Como buen aficionado (casi obsesivo) a los vehículos a motor, a Puccini le apasionaba la 
 velocidad y hay constancia de que alguna vez se pasó. Por ejemplo, en diciembre de 1902 
@@ -59,7 +59,7 @@ la que su 'Clement', en el que también iban su mujer y su hijo, se salió de la
 Menos mal que no hubo que lamentar desgracias, sólo el músico acabó con una pierna 
 fracturada que le dejaría cojo ya de por vida. 
 
-![Fotografía de Puccini y estatua del autor ubicada frente a la entrada de su casa-museo, en Lucca.](etheria_images/2019/02/Puccini-viaje-lucca.jpg "Fotografía de Puccini y estatua del autor ubicada frente a la entrada de su casa-museo, en Lucca.")
+![Fotografía de Puccini y estatua del autor ubicada frente a la entrada de su casa-museo, en Lucca.](etheria-images/2019/02/Puccini-viaje-lucca.jpg "Fotografía de Puccini y estatua del autor ubicada frente a la entrada de su casa-museo, en Lucca.")
 
 ## La caza sobre cuatro ruedas
 
@@ -82,7 +82,7 @@ reforzada y ruedas articuladas, algo que no fue suficiente para el exigente comp
 italiano, que no quedó satisfecho del todo y finalmente se hizo con un 'Lancia Trikappa' 
 y un 'Lancia Lambda'. 
 
-![jardín en el tejado de la torre Guinigi](etheria_images/2019/02/Lucca-Torre-Guinigi-e1550912985392.jpg "La torre Guinigi (Lucca) con su jardín en el tejado. © Pilar Ortega")
+![jardín en el tejado de la torre Guinigi](etheria-images/2019/02/Lucca-Torre-Guinigi-e1550912985392.jpg "La torre Guinigi (Lucca) con su jardín en el tejado. © Pilar Ortega")
 
 ## Puccini, un tipo curioso
 
@@ -94,7 +94,7 @@ le mandaron a estudiar con su tío Fortunato, quien pronosticó que estaba poco 
 para el arte musical, seguramente por su carácter rebelde e indisciplinado. Pero el tío 
 Fortu se equivocó. 
 
-![sala de la casa-museo de Puccini en Lucca.](etheria_images/2019/02/Museo-Puccini-piano-e1550913007389.jpg "Estancia de la casa-museo de Puccini en Lucca. © Pilar Ortega")
+![sala de la casa-museo de Puccini en Lucca.](etheria-images/2019/02/Museo-Puccini-piano-e1550913007389.jpg "Estancia de la casa-museo de Puccini en Lucca. © Pilar Ortega")
 
 Convertido ya en un compositor famoso, Giacomo Puccini mostró también interés por el 
 cine y la fotografía y, siempre, siempre, por los **viajes**, porque sabemos que en 
@@ -105,7 +105,7 @@ Bolzano, Inssbruck, Viena, Múnich, Ingolstadt, Núremberg, Fráncfort, Bonn, Co
 Ámsterdam, La Haya, Constanza y otros lugares antes de regresar, de nuevo, a la Toscana 
 italiana, de donde eran todos. 
 
-![Iglesia de San Frediano (Lucca).](etheria_images/2019/02/Lucca-Iglesia-de-San-Frediano-e1550913026149.jpg "Iglesia de San Frediano (Lucca). © Pilar Ortega")
+![Iglesia de San Frediano (Lucca).](etheria-images/2019/02/Lucca-Iglesia-de-San-Frediano-e1550913026149.jpg "Iglesia de San Frediano (Lucca). © Pilar Ortega")
 
 Se sabe que su último viaje lo hizo con su 'Lambda'. Con él llegó hasta la estación de 
 Pisa, donde debía de tomar un tren en dirección a Bruselas, para tratarse de su cáncer 

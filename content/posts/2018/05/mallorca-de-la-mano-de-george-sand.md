@@ -1,18 +1,18 @@
 ---
 title: "Por qué a George Sand no le gustó Mallorca"
 date: 2018-05-16
-coverImage: etheria_images/2018/05/mallorca-3257130_1920-e1558282089298.jpg
+coverImage: etheria-images/2018/05/mallorca-3257130_1920-e1558282089298.jpg
 categories: 
   - historias-en-femenino
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 George Sand descubrió hace casi dos siglos una isla de Mallorca completamente distinta 
 de la que podemos percibir en la actualidad. A través de sus testimonios conocemos la 
 impresión que obtuvo de sus paisajes y de sus gentes. 
 
-![Torre de la cartuja de Valldemossa.](etheria_images/2018/05/iglesia-valldemossa.jpg "Torre de la cartuja de Valldemossa. © Zoran Borojevic")
+![Torre de la cartuja de Valldemossa.](etheria-images/2018/05/iglesia-valldemossa.jpg "Torre de la cartuja de Valldemossa. © Zoran Borojevic")
 
 Para conocer las impresiones de George Sand sobre la isla balear nos hemos zambullido en 
 las páginas de **_Un invierno en Mallorca_**. Este es el célebre libro que la escritora 
@@ -31,7 +31,7 @@ desconfiados, de celosos… y **no dejó títere con cabeza** cuando se refería
 sus costumbres, sus comidas y el trato que dispensaban al forastero. Sin embargo, dedicó 
 encendidos elogios al paisaje insular. 
 
-![George Sand, retrato de Augusto Charpentier.](etheria_images/2018/05/George-Sand-y-Mallorca-1.jpg "George Sand, retrato de Augusto Charpentier.")
+![George Sand, retrato de Augusto Charpentier.](etheria-images/2018/05/George-Sand-y-Mallorca-1.jpg "George Sand, retrato de Augusto Charpentier.")
 
 ## Uno de los más bellos paisajes
 
@@ -67,7 +67,7 @@ la cabaña del campesino, “hasta el niño envuelto en sus harapos y triunfal e
 grandiosa suciedad, como dice Heine al hablar de las mujeres del mercado de verduras de 
 Verona”. 
 
-![Cartuja de Valldemossa](etheria_images/2018/05/Viaje-Mallorca-Valldemossa-e1558282195642.jpg "Miles de personas peregrinan a la cartuja de Valldemossa para recordar aquel viaje romántico.  © Mateu Bennassar")
+![Cartuja de Valldemossa](etheria-images/2018/05/Viaje-Mallorca-Valldemossa-e1558282195642.jpg "Miles de personas peregrinan a la cartuja de Valldemossa para recordar aquel viaje romántico.  © Mateu Bennassar")
 
 ## De la Casa del Viento a la Cartuja de Valldemossa
 
@@ -83,7 +83,7 @@ muy duramente. En cambio, sí elogió los paisajes altivos y elegantes, propios 
 Poussin, que fue descubriendo y que estaban salpicados de numerosos conventos. “En 
 Mallorca, el silencio es más profundo que en ninguna otra parte”, dejó escrito. 
 
-![La fuerza de la naturaleza en Mallorca proporciona energía tanto al paisaje como al viajero.](etheria_images/2018/05/mallorca-3257130_1920-e1558282089298.jpg "La fuerza de la naturaleza en Mallorca proporciona energía tanto al paisaje como al viajero.")
+![La fuerza de la naturaleza en Mallorca proporciona energía tanto al paisaje como al viajero.](etheria-images/2018/05/mallorca-3257130_1920-e1558282089298.jpg "La fuerza de la naturaleza en Mallorca proporciona energía tanto al paisaje como al viajero.")
 
 ## Elogios encendidos al paisaje
 
@@ -119,7 +119,7 @@ se puede rastrear el influjo que le dejó su estancia en la misma. Y Chopin tamb
 sacar fuerzas de su deteriorado estado físico para componer buena parte de sus preludios 
 y algunas polonesas, mazurcas y sonatas. 
 
-![Calles de Valldemossa](etheria_images/2018/05/Valldemossa-683x1024.jpg "Una bonita postal de Valldemossa.")
+![Calles de Valldemossa](etheria-images/2018/05/Valldemossa-683x1024.jpg "Una bonita postal de Valldemossa.")
 
 ## Un viaje romántico
 
@@ -152,7 +152,7 @@ invariablemente, es el cerdo, bajo todas las formas y bajo todos los aspectos".
 > por lo menos, 200 especies de embutidos, sazonados con tal profusión de ajo, pimienta, 
 > pimentón y especias corrosivas de todo género, que peligra la vida en cada bocado”. 
 
-![coca bamba o patata dulce palma](etheria_images/2021/11/Coca-Bamba-palma-mallorca.jpg "Coca bamba o de patata, ideal para mojar en chocolate.")
+![coca bamba o patata dulce palma](etheria-images/2021/11/Coca-Bamba-palma-mallorca.jpg "Coca bamba o de patata, ideal para mojar en chocolate.")
 
 ## Una gastronomía no de su gusto
 

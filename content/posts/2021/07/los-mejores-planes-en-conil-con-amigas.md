@@ -1,19 +1,19 @@
 ---
 title: "16 planes imprescindibles en Conil con amigas"
 date: 2021-07-05
-coverImage: etheria_images/2021/01/cala-enebro-playa-conil.jpg
+coverImage: etheria-images/2021/01/cala-enebro-playa-conil.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Estos 16 planes en Conil con amigas (o con quien quieras) te ayudarán a averiguar qué es eso tan especial que hace que tantas familias y amigos lo elijan cada verano como su lugar de vacaciones. Este pueblo blanco gaditano, con playas espectaculares y restaurantes para quitarse el sombrero, también posee algo intangible que logra que los “veraneantes” se conviertan en sus mejores prescriptores.
 
-![iglesia santa Catalina Conil](etheria_images/2021/06/plaza-iglesia-conil.jpg "Plaza con la iglesia de Santa Catalina al fondo (actual centro cultural). © P.G.")
+![iglesia santa Catalina Conil](etheria-images/2021/06/plaza-iglesia-conil.jpg "Plaza con la iglesia de Santa Catalina al fondo (actual centro cultural). © P.G.")
 
 En estos tiempos en los que hablamos con naturalidad de prescriptores e _influencers_ 
 como si fuese algo nuevo, habría que echar la vista atrás y reflexionar por qué elegían 
@@ -32,7 +32,7 @@ amigas (o con quien quieras). Te recomendaremos un poco de todo, paseos por el p
 días de playa, yoga, algo de deporte, lugares de buen comer y alguna visita por los 
 alrededores. ¿Preparada? ¡Allá vamos! 
 
-![plaza espana Conil](etheria_images/2021/06/conil-pueblo-blanco.jpg "Plaza de España, en Conil. © P.García")
+![plaza espana Conil](etheria-images/2021/06/conil-pueblo-blanco.jpg "Plaza de España, en Conil. © P.García")
 
 ## 1\. Pasear por el pueblo, ¿hay algo que ver en Conil?
 
@@ -55,7 +55,7 @@ oficina de turismo son una buena manera de acercarse al patrimonio conileño.
 ✅ [15 visitas imprescindibles en Conil gratis y ninguna es una 
 playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/). 
 
-![cala el enebro en conil cadiz](etheria_images/2021/01/cala-enebro-playa-conil.jpg "Cala El Enebro (Conil de la Frontera). © Etheria M.")
+![cala el enebro en conil cadiz](etheria-images/2021/01/cala-enebro-playa-conil.jpg "Cala El Enebro (Conil de la Frontera). © Etheria M.")
 
 ## 2\. Un baño en las playas y calas de Conil
 
@@ -75,7 +75,7 @@ la
 Frontera”](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/) 
 encontrarás detalladas las 15 mejores y cómo llegar a las mismas. 
 
-![tapeo mirador del Roqueo planes en Conil](etheria_images/2021/06/tapas-mirador-roqueo.jpg "Tapeo con vistas en El Mirador del Roqueo. © Pepa G.")
+![tapeo mirador del Roqueo planes en Conil](etheria-images/2021/06/tapas-mirador-roqueo.jpg "Tapeo con vistas en El Mirador del Roqueo. © Pepa G.")
 
 ## 3.  Tapeo o pescaíto frito en Conil
 
@@ -104,7 +104,7 @@ Tergal](https://www.facebook.com/El-Tergal-109963012408513/), uno de los referen
 toda la vida con buena materia prima y excelente relación calidad-precio. Es ideal tanto 
 para comer como para cenar. 
 
-![playa fontanilla de conil](etheria_images/2021/01/conil-atardecer.jpg "Atardecer desde playa de la Fontanilla. © Etheria M.")
+![playa fontanilla de conil](etheria-images/2021/01/conil-atardecer.jpg "Atardecer desde playa de la Fontanilla. © Etheria M.")
 
 ## 4\. Atardecer en Conil con amigas (con o sin cóctel)
 
@@ -122,14 +122,14 @@ más elevada y las siluetas (o selfis) quedarán espectaculares. Este año, adem
 inaugurado un **mirador junto al puerto pesquero** que regala una imagen de los 
 acantilados dorados que es espectacular. 
 
-![chiringuito fuente del gallo Conil](etheria_images/2021/06/chiringuito-fuente-gallo-conil.jpg "Chiringuito de la playa Fuente del Gallo. © Pepa G.")
+![chiringuito fuente del gallo Conil](etheria-images/2021/06/chiringuito-fuente-gallo-conil.jpg "Chiringuito de la playa Fuente del Gallo. © Pepa G.")
 
 Otros lugares para hacer fotos “copa en mano” son **El Mirador de El Roqueo**, el 
 **bar-terraza Mirador de la Atalaya**, en el parque de la Atalaya (zona playa de la 
 Fontanilla), y la terraza B-Heaven, del recién inaugurado Barceló Conil Playa (zona El 
 Roqueo). 
 
-![paseo por acantilados Conil](etheria_images/2021/06/ruta-acantilados-conil.jpg "Pasarela junto a los acantilados, uno de los planes en Conil que no debes perderte. © P.G.")
+![paseo por acantilados Conil](etheria-images/2021/06/ruta-acantilados-conil.jpg "Pasarela junto a los acantilados, uno de los planes en Conil que no debes perderte. © P.G.")
 
 ## 5\. Paseo por los acantilados
 
@@ -144,7 +144,7 @@ zona de El Punto). Si pretendes pasar el día en alguna cala es mejor que te lle
 imprescindible porque allí no hay chiringuitos, tampoco baños, duchas ni vigilancia 
 (exceptuando la cala del Aceite). 
 
-![atun rojo Conil frontera](etheria_images/2021/06/atun-mercado-conil.jpg "Atún rojo en el Mercado de Abastos de Conil. © P.G.")
+![atun rojo Conil frontera](etheria-images/2021/06/atun-mercado-conil.jpg "Atún rojo en el Mercado de Abastos de Conil. © P.G.")
 
 ## 6\. Probar el atún rojo
 
@@ -162,7 +162,7 @@ Francisco](https://www.franciscofontanilla.com/), [Bar Juan
 María](https://www.facebook.com/barJuanMaria) y [Venta 
 Melchor](http://www.restauranteventamelchor.com/). 
 
-![copas en Conil](etheria_images/2021/06/calle-cadiz-tomas-borrego-conil.jpg "Calle Cádiz y José Tomás Borrego, dos calles con mucho ambiente por la noche. © P.G.")
+![copas en Conil](etheria-images/2021/06/calle-cadiz-tomas-borrego-conil.jpg "Calle Cádiz y José Tomás Borrego, dos calles con mucho ambiente por la noche. © P.G.")
 
 ## 7\. Ir de copas en Conil
 
@@ -185,7 +185,7 @@ Buganvilla Gintoneria** (calle Señores Curas) y El Duende. Y en discotecas, la 
 Ícaro. Este verano 2021 hay que guardar un extra de prudencia para evitar 
 masificaciones, y usar mascarilla donde no se pueda mantener la distancia de seguridad. 
 
-![mirador de la Fontanilla Conil](etheria_images/2021/06/mirador-fontanilla.jpg "Mirador de La Atalaya, un buen lugar para tomar una cerveza con vistas al mar. © P.G.")
+![mirador de la Fontanilla Conil](etheria-images/2021/06/mirador-fontanilla.jpg "Mirador de La Atalaya, un buen lugar para tomar una cerveza con vistas al mar. © P.G.")
 
 ## 8\. Actividad de kayak, surf, buceo…  
 
@@ -204,7 +204,7 @@ alquila lo que te resulte más sencillo o divertido.
 Y si prefieres montar en bicicleta, encontrarás una ruta cicloturista que lleva desde 
 Conil hasta Caños de Meca (EuroVelo 8, de 12 km). 
 
-![puerto de conil de la frontera](etheria_images/2021/01/puerto-conil-de-la-frontera.jpg "Puerto de Conil de la Frontera. © Etheria M.")
+![puerto de conil de la frontera](etheria-images/2021/01/puerto-conil-de-la-frontera.jpg "Puerto de Conil de la Frontera. © Etheria M.")
 
 ## 9\. Yoga, también en verano
 
@@ -218,7 +218,7 @@ organizan algo. También están especializados en masajes, osteopatía y terapia
 craneosacral biodinámica, así que la propuesta no puede ser más completa. Pregunta por 
 Ofelia que te atenderá de maravilla. 
 
-![yoga en la playa Conil](etheria_images/2021/06/yoga-conil.jpg "Yoga en la playa.")
+![yoga en la playa Conil](etheria-images/2021/06/yoga-conil.jpg "Yoga en la playa.")
 
 ## 10\. Visita a la Bodega Sancha Pérez
 

@@ -1,16 +1,16 @@
 ---
 title: "Hotel María Cristina, historia y glamour en San Sebastián"
 date: 2018-07-21
-coverImage: etheria_images/2018/04/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight.jpg
+coverImage: etheria-images/2018/04/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight.jpg
 categories: 
   - hoteles
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 El hotel María Cristina es uno de esos lugares con aura, que cuentan mucho más de lo que se percibe a simple vista. Es un hotel orgulloso que se sabe parte de la historia de Donosti desde que se inauguró en 1912. Además, es la sede de los actores internacionales que acuden al famoso Festival de Cine de la ciudad.
 
-![San Sebastian hotel Maria Cristina fin de semana mujeres](etheria_images/2018/04/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight-1024x576.jpg)
+![San Sebastian hotel Maria Cristina fin de semana mujeres](etheria-images/2018/04/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight-1024x576.jpg)
 
 El hotel María Cristina de San Sebastián, renovado hace pocos años, ha conseguido 
 conservar su decoración inspirada en la _Belle Époque_. Cada rincón del hall y de los 
@@ -22,7 +22,7 @@ de la playa y del imponente edificio del Kursaal. En una zona tranquila pero a e
 minutos caminando del bullicioso Barrio Antiguo de la ciudad, por lo que es un lugar 
 perfecto para visitar San Sebastián. 
 
-![San Sebastián hotel Maria Cristina fin de semana](etheria_images/2018/04/HOTEL-MARIA-CRISTINA-DRY_Terrace-02_1600x900-1024x576.jpg "Terraza del hotel María Cristina.")
+![San Sebastián hotel Maria Cristina fin de semana](etheria-images/2018/04/HOTEL-MARIA-CRISTINA-DRY_Terrace-02_1600x900-1024x576.jpg "Terraza del hotel María Cristina.")
 
 ## Habitaciones del hotel María Cristina
 
@@ -36,7 +36,7 @@ especial es la **Suite Bette Davis**. En esta habitación, decorada con fotos su
 estancia en San Sebastián, se alojó la actriz en 1989, en la que fue su última aparición 
 pública. 
 
-![San Sebastián fin de semana viaje mujeres](etheria_images/2018/04/HOTEL-MARIA-CRISTINA-Family-Room-1024x576.jpg "Family Room del hotel María Cristina.")
+![San Sebastián fin de semana viaje mujeres](etheria-images/2018/04/HOTEL-MARIA-CRISTINA-Family-Room-1024x576.jpg "Family Room del hotel María Cristina.")
 
 ## Gastronomía en el hotel
 
@@ -51,7 +51,7 @@ contrapunto perfecto a la oferta de pinchos donostiarras de la ciudad. Un rincó
 exotismo ubicado en un salón clásico que armoniza perfectamente con el resto del 
 edificio. 
 
-![San Sebastián hotel María Cristina fin de semana](etheria_images/2018/04/HOTEL-MARIA-CRISTINA-HBAMainentranceHotelMariaCristinaSanSebastian-1024x576.jpg "Entrada principal del hotel María Cristina.")
+![San Sebastián hotel María Cristina fin de semana](etheria-images/2018/04/HOTEL-MARIA-CRISTINA-HBAMainentranceHotelMariaCristinaSanSebastian-1024x576.jpg "Entrada principal del hotel María Cristina.")
 
 ## Mimo San Sebastián
 

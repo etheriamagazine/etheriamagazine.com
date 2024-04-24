@@ -1,12 +1,12 @@
 ---
 title: "Ruta en autobús por las bodegas de Mendoza (Argentina)"
 date: 2019-04-26
-coverImage: etheria_images/2019/04/Mendoza-bodega-Cruzat.jpg
+coverImage: etheria-images/2019/04/Mendoza-bodega-Cruzat.jpg
 categories: 
   - viajes-gastronomicos
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Elisabeth G. Iborra
 ---
 
@@ -15,7 +15,7 @@ coche tras las catas. La escritora Elisabeth G. Iborra, nuestra experta en viaja
 ha probado esta ruta vitivinícola que permite visitar 27 bodegas en 6 días en la región 
 argentina de Mendoza. ¡Salud! 
 
-![Mujer bebiendo vino](etheria_images/2019/04/Mendoza-bodegas-mujer.jpg "Degustando una copa de vino. © Alfonso Scarpa")
+![Mujer bebiendo vino](etheria-images/2019/04/Mendoza-bodegas-mujer.jpg "Degustando una copa de vino. © Alfonso Scarpa")
 
 El vino está de moda en todo el mundo y especialmente en Argentina, que incluso ha 
 conseguido su **Día Internacional del Malbec**, su uva estrella, aunque tienen 
@@ -33,7 +33,7 @@ bodegas a 1.000 y se han arrancado más de 100.000 hectáreas de viñedo. Sin em
 las **1.000 bodegas y las 210.000 hectáreas de viñedos**, Argentina es el octavo país 
 productor a nivel mundial. 
 
-![Viñas en la provincia de Mendoza](etheria_images/2019/04/Mendoza-bodega-A16.jpg "Bodegas A16. © Bus Vitivinícola")
+![Viñas en la provincia de Mendoza](etheria-images/2019/04/Mendoza-bodega-A16.jpg "Bodegas A16. © Bus Vitivinícola")
 
 ¿Por qué entonces afirmo, sin miedo a equivocarme, que el vino está de moda? Pues porque 
 desde la primera década del siglo XX se ha ido cambiando cantidad por calidad, se 
@@ -58,7 +58,7 @@ por bodega y almorzando en las más bonitas sin tener que conducir. Voy a ponero
 dientes largos con una breve reseña de cada una destacando lo que más las diferencia 
 entre sí. Servíos un vinito, que os va a apetecer. 
 
-![Toneles de la bodega Casa Vigil](etheria_images/2019/04/Mendoza-casa-Vigil-1.jpg "Bodega Casa Vigil. © Bus Vitivinícola")
+![Toneles de la bodega Casa Vigil](etheria-images/2019/04/Mendoza-casa-Vigil-1.jpg "Bodega Casa Vigil. © Bus Vitivinícola")
 
 ## Camino del Vino El Río (martes)
 
@@ -76,7 +76,7 @@ original; te enseñan a identificar los aromas oliendo esencias y te explican lo
 maridajes perfectos con el ‘Nature’ de la línea Cuvée, el semi seco de la ‘Premier’ y 
 los delicados rosados. 
 
-![mujer trabajando en una bodega](etheria_images/2019/04/Mendoza-bodega-Cruzat.jpg "Bodegas Cruzat. © Bus Vitivinícola")
+![mujer trabajando en una bodega](etheria-images/2019/04/Mendoza-bodega-Cruzat.jpg "Bodegas Cruzat. © Bus Vitivinícola")
 
 Para empezar a empapar, vamos a vivir la experiencia **Bodega Renacer Food&Wine** con 
 una panorámica delante del restaurante que recuerda a la Toscana por su laguito y su 
@@ -86,7 +86,7 @@ mollejas y un ojo de bife que maridan estupendamente con su chardonnay, su sauvi
 franc y el malbec reserva. Como postre, el vino pasificado ‘Milamores’, un mezcla de 
 uvas autóctonas. 
 
-![lago y castillo en la bodega Renacer en Mendoza](etheria_images/2019/04/Renacer-paisaje.jpg "Paisaje que parece de la Toscana italiana en la bodega Renacer. © Bus Vitivinícola")
+![lago y castillo en la bodega Renacer en Mendoza](etheria-images/2019/04/Renacer-paisaje.jpg "Paisaje que parece de la Toscana italiana en la bodega Renacer. © Bus Vitivinícola")
 
 ### La Bodega Norton
 
@@ -100,7 +100,7 @@ desde 2019, en el resto del país. Sus líneas de alta gama apenas las exportan,
 deliciosas, jugosas, potentes, con un T-bone debajo si es posible. Cada botella es una 
 joya, como las de Swarovski, su actual propietario. 
 
-![Bodegas Norton.](etheria_images/2019/04/Mendoza-norton-bodega.jpg "© Bodegas Norton.")
+![Bodegas Norton.](etheria-images/2019/04/Mendoza-norton-bodega.jpg "© Bodegas Norton.")
 
 ## Camino del Vino Luján Sur (miércoles)
 
@@ -146,7 +146,7 @@ viñedos y sus pastos; la verdura, las vacas, los olivos que dan su aceite, la l
 de sus panes caseros... Y su elaboración está diseñada conjuntamente entre el chef Lucas 
 Bustos y su primer enólogo Daniel Pi para sacarle el mayor partido a cada sabor. 
 
-![dos botellas sobre un barril](etheria_images/2019/04/Mendoza-bodega-Trapiche.jpg "Espacio El Trapiche. © Rodrigo Abreu.")
+![dos botellas sobre un barril](etheria-images/2019/04/Mendoza-bodega-Trapiche.jpg "Espacio El Trapiche. © Rodrigo Abreu.")
 
 ## El Camino del Vino Luján Sur (viernes)
 
@@ -156,7 +156,7 @@ disfrutamos de champagne como el ‘Baron B cuvée millésime brut Rosé 2015’
 ‘Sélection du Chef de Cave’, que sólo se puede degustar en esta bodega de Agrelo, en 
 Luján de Cuyo. 
 
-![parrillas argentinas en la bodega Casarena](etheria_images/2019/04/Mendoza-bodega-Casarena.jpg "Vistas desde el restaurante de bodega Casarena.")
+![parrillas argentinas en la bodega Casarena](etheria-images/2019/04/Mendoza-bodega-Casarena.jpg "Vistas desde el restaurante de bodega Casarena.")
 
 A continuación, aconsejo encarecidamente apostar por la visita, **degustación y almuerzo 
 en Bodega Casarena** porque vais a disfrutar de su espectacular paisaje con el Cerro del 
@@ -174,7 +174,7 @@ consiguientes consecuencias para el sabor… y os animo a comprar las botellas d
 ‘Lauren’s vineyard cabernet franc’ y del sensacional ‘Mythic de chardonnay con 
 viognier’. 
 
-![Bodega Casarena.](etheria_images/2019/04/Mendoza-casarena-vinedos.jpg "Bodega Casarena. © Casarena")
+![Bodega Casarena.](etheria-images/2019/04/Mendoza-casarena-vinedos.jpg "Bodega Casarena. © Casarena")
 
 ## Camino del Vino El Sol (sábado)
 
@@ -192,7 +192,7 @@ les ha cantado la soprano Verónica Cangemia a las cepas, con óptimos resultado
 queréis, podéis comprar una hilera de viñedo por 10.000 € anuales, ir a vendimiar con 
 los colegas y ventilaros un asado a la llama con vuestro propio vino. 
 
-![obras de arte en Casa Vigil y viñas de las bodegas A16](etheria_images/2019/04/Mendonza-bodegas.jpg "Arte en Casa Vigil e hilera de viñedo en la bodega boutique A16.")
+![obras de arte en Casa Vigil y viñas de las bodegas A16](etheria-images/2019/04/Mendonza-bodegas.jpg "Arte en Casa Vigil e hilera de viñedo en la bodega boutique A16.")
 
 Es muy recomendable la **Experiencia Malbec en Bodega Tierras Altas** porque los 
 herederos de la familia Arbizu, con Freddy Vargas en cabeza, han logrado aportar 
@@ -211,7 +211,7 @@ unos vinos muy particulares respetando el terroir, que bebe del río, para que s
 la mineralidad de su malbec, su tannat y otras uvas como la angelota o la cabernet 
 franc. Quédate a comer en ese marco incomparable. 
 
-![Botellas de vino y sofa en la bodega Andeluna](etheria_images/2019/04/Mendoza-bodega-Andeluna.jpg "Interior de bodega Andeluna.")
+![Botellas de vino y sofa en la bodega Andeluna](etheria-images/2019/04/Mendoza-bodega-Andeluna.jpg "Interior de bodega Andeluna.")
 
 La **Bodega Andeluna** también tiene unas bellas vistas y el guía explica muy bien, 
 recomendando los maridajes de cada vino, dándolo a probar de los tanques y comparándolo 

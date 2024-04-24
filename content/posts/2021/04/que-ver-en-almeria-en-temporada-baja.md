@@ -1,14 +1,14 @@
 ---
 title: "Planes en Almería para una escapada en clave slow"
 date: 2021-04-17
-coverImage: etheria_images/2018/11/almeria-playa-escullos.jpg
+coverImage: etheria-images/2018/11/almeria-playa-escullos.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Cada kilómetro de Almería cautiva por sus paisajes inmensos y despejados, su mar 
@@ -16,7 +16,7 @@ presente y ese gusto por la vida tranquila que tanto seduce. Aquí os contamos q
 Almería fuera de temporada alta, con los mismos encantos de siempre (y mucha menos 
 gente). 
 
-![Playa de los Escullos o del Arco en Cabo de Gata.](etheria_images/2018/11/almeria-playa-escullos.jpg "Playa de los Escullos o del Arco en Cabo de Gata.")
+![Playa de los Escullos o del Arco en Cabo de Gata.](etheria-images/2018/11/almeria-playa-escullos.jpg "Playa de los Escullos o del Arco en Cabo de Gata.")
 
 La variedad de atractivos de Almería permite descubrir una faceta distinta en cada 
 viaje, con la ventaja de que puede recorrerse en cualquier época del año. En invierno 
@@ -42,7 +42,7 @@ tarde en el puerto, a esta hora ya habrás comido en algún restaurante cercano.
 interesante asistir por dos motivos: por su ambiente, amable y accesible, y por la 
 cantidad de pescado fresco que pasa por allí en un momento. 
 
-![Subasta de pescado en La Garrucha.](etheria_images/2018/11/Almeria-subasta-Garrucha-1024x682.jpg "Subasta de pescado en La Garrucha. © SG")
+![Subasta de pescado en La Garrucha.](etheria-images/2018/11/Almeria-subasta-Garrucha-1024x682.jpg "Subasta de pescado en La Garrucha. © SG")
 
 Puedes acercarte antes de la subasta a las cajas para ver los diversos tipos que 
 ofertan, hablar con los pescadores y los compradores (sobre todo, restaurantes) y 
@@ -61,7 +61,7 @@ recorría el desierto de Tabernas hasta todo tipo de producciones publicitarias.
 espacio natural merece una visita, que tiene que ser organizada porque no se puede 
 recorrer por tu cuenta. 
 
-![Ruta en 4x4 en el desierto de Tabernas.](etheria_images/2018/11/Almeria-ruta-desierto-tabernas-1024x682.jpg "Ruta en 4x4 en el desierto de Tabernas. © SG")
+![Ruta en 4x4 en el desierto de Tabernas.](etheria-images/2018/11/Almeria-ruta-desierto-tabernas-1024x682.jpg "Ruta en 4x4 en el desierto de Tabernas. © SG")
 
 La mejor opción es contratar una excursión con una empresa local como **Malcamino’s**, 
 que te llevará en sus 4x4 y te contarán, además de la singularidad geológica de esta 
@@ -76,7 +76,7 @@ rodó en esta zona (y que todavía se siguen utilizando para rodajes). Es un sit
 divertido, con espectáculos de can-can, _shows_ de pistoleros y decenas de lugares donde 
 hacerse una foto. 
 
-![Escenarios de películas de Fort Bravo.](etheria_images/2018/11/Almeria-fort-bravo-1024x576.jpg "Escenarios de películas de Fort Bravo.")
+![Escenarios de películas de Fort Bravo.](etheria-images/2018/11/Almeria-fort-bravo-1024x576.jpg "Escenarios de películas de Fort Bravo.")
 
 Si decides comer por la zona, una buena opción es el **restaurante Las Eras**, que 
 combina platos tradicionales de la zona con apuestas más vanguardistas. 
@@ -94,7 +94,7 @@ sinuosas, que van desvelando paisajes cada vez más sorprendentes.
 > los Genoveses, la de Mónsul y el Playazo, que es la salida al mar de la caldera 
 > volcánica del valle de Rodalquilar. 
 
-![Playa de Monsul.](etheria_images/2018/11/viaje-almeria-playa-monsul.jpg "Playa de Monsul.")
+![Playa de Monsul.](etheria-images/2018/11/viaje-almeria-playa-monsul.jpg "Playa de Monsul.")
 
 Y otra de las que hay que visitar sí o sí es la **playa de los Muertos**. Situada entre 
 Agua Amarga y Carboneras, cuenta con un bonito mirador para quienes no quieran (o 
@@ -110,7 +110,7 @@ Sirenas**, formado por chimeneas volcánicas que son otra prueba más de la inte
 actividad geológica que ha vivido esta zona. Merece la pena acercarse hasta el faro 
 caminando y, si se hace por la tarde, la puesta de sol que espera es espectacular. 
 
-![El arrecife de las Sirenas es uno de los paisajes que se pueden contemplar desde el faro de Cabo de Gata.](etheria_images/2018/11/Almeria-arrecife-de-las-sirenas.jpg "El arrecife de las Sirenas es uno de los paisajes que se pueden contemplar desde el faro de Cabo de Gata.")
+![El arrecife de las Sirenas es uno de los paisajes que se pueden contemplar desde el faro de Cabo de Gata.](etheria-images/2018/11/Almeria-arrecife-de-las-sirenas.jpg "El arrecife de las Sirenas es uno de los paisajes que se pueden contemplar desde el faro de Cabo de Gata.")
 
 ### 4\. Pueblos de Cabo de Gata
 
@@ -123,7 +123,7 @@ barcas de pescadores locales. Y, por supuesto, **Agua Amarga**, un pueblo peque�
 bello, con una playa preciosa donde se puede comer en alguno de sus restaurantes 
 (abiertos todo el año) al borde de la arena. 
 
-![Calle de Mojácar.](etheria_images/2018/11/viaje-a-Almeria-mojacar.jpg "Calle de Mojácar.")
+![Calle de Mojácar.](etheria-images/2018/11/viaje-a-Almeria-mojacar.jpg "Calle de Mojácar.")
 
 ### 5\. Mojácar, uno de los pueblos más bonitos de España
 
@@ -136,7 +136,7 @@ alojarse en invierno es interesante valorar la zona de **Mojácar costa**. Está
 unos kilómetros de la localidad y ofrece una extensa playa que merece un paseo en 
 cualquier época del año. 
 
-![La ciudad de Almería tiene preciosos rincones como la Plaza de la Catedral.](etheria_images/2018/11/viaje-Almeria-Plaza-Catedral.jpg "La ciudad de Almería tiene preciosos rincones como la Plaza de la Catedral. © P.G.")
+![La ciudad de Almería tiene preciosos rincones como la Plaza de la Catedral.](etheria-images/2018/11/viaje-Almeria-Plaza-Catedral.jpg "La ciudad de Almería tiene preciosos rincones como la Plaza de la Catedral. © P.G.")
 
 ### 6\. La ciudad de Almería, mucho más que sus conocidas tapas
 
@@ -155,7 +155,7 @@ o el parque de Nicolás Salmerón. Fuera del centro, es imprescindible acercarse
 **Alcazaba** que mandó construir Abd-al Rahman III y que, después de La Alhambra, es la 
 construcción musulmana más grande de España. 
 
-![Alcazaba de Almería.](etheria_images/2018/11/Almeria-alcazaba-1024x627.jpg "Alcazaba de Almería.")
+![Alcazaba de Almería.](etheria-images/2018/11/Almeria-alcazaba-1024x627.jpg "Alcazaba de Almería.")
 
 Una curiosa visita que muestra detalles de una historia no tan lejana es a los 
 **refugios de la Guerra Civil**, que se construyeron en 1938 para que la población 

@@ -1,17 +1,17 @@
 ---
 title: "Isla de Pag, descubre a qué sabe la \"Ibiza del Adriático\""
 date: 2018-08-16
-coverImage: etheria_images/2018/08/pag-croacia-queso-paskisir-e1653808083197.jpg
+coverImage: etheria-images/2018/08/pag-croacia-queso-paskisir-e1653808083197.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 La isla de Pag es uno de esos destinos de Croacia que queda grabado para siempre en la memoria por su historia, cultura y gastronomía. Además de por la fiesta, ¡por algo la llaman la Ibiza del Adriático! En este artículo te hablamos de sus productos más emblemáticos para que le des gusto también al paladar.
 
-![Propietaria de la Quesería GlIgora.](etheria_images/2018/08/quesos-pag-croacia-1024x683.jpg "Quesería GlIgora. © Pepa García")
+![Propietaria de la Quesería GlIgora.](etheria-images/2018/08/quesos-pag-croacia-1024x683.jpg "Quesería GlIgora. © Pepa García")
 
 ```
 Actualizado mayo 2022.
@@ -27,7 +27,7 @@ recorrido: la iglesia de San Jorge, la de San Francisco y el convento de Santa
 Margarita. Y si aún queda tiempo –y ganas– de más, se puede incluir el **sitio 
 arqueológico de Old Town**, con la iglesia de Santa María y los restos de una acrópolis. 
 
-![Playa de Zrce en la isla de Pag.](etheria_images/2018/08/playas-pag-croacia-e1653808067385.jpg "Playa de Zrce (Pag). © Pepa García")
+![Playa de Zrce en la isla de Pag.](etheria-images/2018/08/playas-pag-croacia-e1653808067385.jpg "Playa de Zrce (Pag). © Pepa García")
 
 Si vais en coche lo tendréis más fácil para visitar sus playas (tiene 27 km de 
 arenales). Algunas de ellas cuentan con lodos que ayudan a mejorar los dolores 
@@ -36,7 +36,7 @@ por su gran concentración de discotecas y _beach clubs_, se convierte en una gr
 de baile al aire libre todos los veranos. A esta isla la comparan con Ibiza y con 
 Mykonos. 
 
-![Detalle de un cartel en la Playa de Zrce.](etheria_images/2018/08/pag-isla-fiesta-croacia-e1653808075630.jpg "Playa de Zrce. © Pepa García")
+![Detalle de un cartel en la Playa de Zrce.](etheria-images/2018/08/pag-isla-fiesta-croacia-e1653808075630.jpg "Playa de Zrce. © Pepa García")
 
 ## Ruta gastronómica en la isla de Pag
 
@@ -46,7 +46,7 @@ se come fenomenal (pescado, cordero, vinos, aceite, queso...) sino que cuenta co
 productos exquisitos y a precios moderados. Entre sus alimentos más icónicos se 
 encuentran: el queso, el aceite y la sal. 
 
-![queso paski sir pag croacia](etheria_images/2018/08/pag-croacia-queso-paskisir-e1653808083197.jpg "Queso de Pag con olivas, una especialidad de la Quesería Gligora. © Pepa García")
+![queso paski sir pag croacia](etheria-images/2018/08/pag-croacia-queso-paskisir-e1653808083197.jpg "Queso de Pag con olivas, una especialidad de la Quesería Gligora. © Pepa García")
 
 ### Queso de oveja con sabor a mar
 
@@ -68,7 +68,7 @@ están salpicados de sal marina, como comentábamos anteriormente), es otra de l
 especialidades. Se suele cocinar a la parrilla, al horno con patatas o con guisantes y 
 se realiza a fuego lento (la más valorada allí). 
 
-![parque olivos isla pag croacia](etheria_images/2018/08/olivos-isla-pag-croacia-e1560948081714.jpg "Parque de olivos milenarios de Lun. © Pepa García")
+![parque olivos isla pag croacia](etheria-images/2018/08/olivos-isla-pag-croacia-e1560948081714.jpg "Parque de olivos milenarios de Lun. © Pepa García")
 
 ### Aceite de los olivos milenarios en Pag
 
@@ -84,7 +84,7 @@ solo un indicador de su juventud, algunos alcanzan **los 2.000 años de edad**. 
 del paseo puedes pasarte por la tienda donde venden objetos artesanos realizados con 
 madera de olivo y también aceite. 
 
-![salinas isla pag croacia viaje gastronomia](etheria_images/2018/08/Salina-pag-viaje-e1561018345122.jpg "Isla de Pag. © Pepa García")
+![salinas isla pag croacia viaje gastronomia](etheria-images/2018/08/Salina-pag-viaje-e1561018345122.jpg "Isla de Pag. © Pepa García")
 
 ### Sal de unas salinas históricas
 

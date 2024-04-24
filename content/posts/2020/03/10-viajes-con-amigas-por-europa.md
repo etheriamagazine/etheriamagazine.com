@@ -1,19 +1,19 @@
 ---
 title: "10 viajes con amigas por Europa"
 date: 2020-03-03
-coverImage: etheria_images/2019/11/Malta-Cafe-del-mar.jpg
+coverImage: etheria-images/2019/11/Malta-Cafe-del-mar.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Una de las mejores decisiones que puedes tomar en estos momentos es planear un viaje con tus amigas por Europa. Sincronizad agendas y elegid un destino que, además de vuestra inestimable compañía, os aporte recuerdos imborrables. Aquí os proponemos 10 escapadas por Europa con las que acertaréis seguro.
 
-![Atardecer en Malta](etheria_images/2019/11/Malta-Cafe-del-mar-900x601.jpg "Puesta de sol en el © Café del Mar de Malta.")
+![Atardecer en Malta](etheria-images/2019/11/Malta-Cafe-del-mar-900x601.jpg "Puesta de sol en el © Café del Mar de Malta.")
 
 ## Viajes con amigas por Europa:
 
@@ -36,7 +36,7 @@ defrauda](https://etheriamagazine.com/2019/11/19/que-ver-hacer-malta-gozo-comino
 ? [La isla de Gozo, un lugar donde querrás quedarte a 
 vivir](https://etheriamagazine.com/2021/04/29/que-ver-hacer-gozo-malta/). 
 
-![atardecer en Mdina](etheria_images/2019/11/Malta-Mdina-900x514.jpg "Ciudad de Mdina, en Malta.")
+![atardecer en Mdina](etheria-images/2019/11/Malta-Mdina-900x514.jpg "Ciudad de Mdina, en Malta.")
 
 ### 2\. Coimbra
 
@@ -49,7 +49,7 @@ a un espectáculo de fado y para degustar su gastronomía y su exquisita reposte
 ? [Enamórate de Coimbra en solo un fin de 
 semana](https://etheriamagazine.com/2020/01/31/viaje-con-amigas-que-ver-en-coimbra/). 
 
-![universidad coimbra](etheria_images/2020/01/universidad-coimbra-900x587.jpg "Escaleras de la Universidad de Coimbra, photocall de los estudiantes. © P.G.")
+![universidad coimbra](etheria-images/2020/01/universidad-coimbra-900x587.jpg "Escaleras de la Universidad de Coimbra, photocall de los estudiantes. © P.G.")
 
 ### 3\. Hamburgo
 
@@ -62,7 +62,7 @@ su arquitectura moderna. Y, por supuesto, de su animada vida nocturna y diurna.
 ? [Descubre Hamburgo en 48 horas, la Alemania más 
 canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/). 
 
-![Puerto de Hamburgo](etheria_images/2020/02/Hamburgo-puerto-900x600.jpg "Animadas terrazas en St. Pauli (Hamburgo).")
+![Puerto de Hamburgo](etheria-images/2020/02/Hamburgo-puerto-900x600.jpg "Animadas terrazas en St. Pauli (Hamburgo).")
 
 ### 4\. Bolonia
 
@@ -75,7 +75,7 @@ gastronomía tan rica que seguro que volvéis con algún producto a casa.
 ? [Viaje con amigas a Bolonia: 10 planes imbatibles en 
 Italia.](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/) 
 
-![atardecer en Bolonia](etheria_images/2022/06/Clock-Tower-bolonia.jpg "Vistas desde la terraza del Clock Tower. © Piergiorgio Sorgetti/ Bologna Welcome")
+![atardecer en Bolonia](etheria-images/2022/06/Clock-Tower-bolonia.jpg "Vistas desde la terraza del Clock Tower. © Piergiorgio Sorgetti/ Bologna Welcome")
 
 ### 5\. Budapest
 
@@ -88,7 +88,7 @@ librerías y tiendas de antigüedades.
 ? [Descubre Budapest con amigas en sólo 3 
 días](https://etheriamagazine.com/2019/10/25/que-ver-viaje-amigas-budapest-en-3-dias/). 
 
-![gran palacio de budapest](etheria_images/2019/10/viaje-budapest-crucero-parlamento-900x598.jpg "Crucero por el Danubio en Budapest. ©PB")
+![gran palacio de budapest](etheria-images/2019/10/viaje-budapest-crucero-parlamento-900x598.jpg "Crucero por el Danubio en Budapest. ©PB")
 
 ### 6\. Copenhague
 
@@ -103,7 +103,7 @@ especiales que podéis realizar.
 ? [Descubre el secreto de la felicidad que guarda celosamente 
 Copenhague](https://etheriamagazine.com/2019/09/23/que-ver-tres-dias-en-copenhague-mujeres-viajeras/). 
 
-![Personas en bicicleta en Copenhague](etheria_images/2019/09/3-dias-copenhague-en-bici.jpg "La bicicleta es imprescindible en Copenhague. © Visit Copenhaguen")
+![Personas en bicicleta en Copenhague](etheria-images/2019/09/3-dias-copenhague-en-bici.jpg "La bicicleta es imprescindible en Copenhague. © Visit Copenhaguen")
 
 ### 7\. Karlovy Vary
 
@@ -116,7 +116,7 @@ realizan tratamientos médicos, no son un spa al uso) y actividades culturales.
 ? [Karlovy Vary, la ciudad balnearia checa que Goethe visitó 13 
 veces.](https://etheriamagazine.com/2021/12/09/que-ver-en-karlovy-vary-la-ciudad-balnearia-checa/) 
 
-![karlovy vary entre bosques](etheria_images/2021/12/karlovy-vary-vistas.jpg "Karlovy Vary cuenta con una ubicación privilegiada entre grandes bosques. © P.G.")
+![karlovy vary entre bosques](etheria-images/2021/12/karlovy-vary-vistas.jpg "Karlovy Vary cuenta con una ubicación privilegiada entre grandes bosques. © P.G.")
 
 ### 8\. Mánchester
 
@@ -129,7 +129,7 @@ animada noche o daros un momento ‘relax’ en un spa victoriano.
 ? [12 visitas para triunfar en un fin de semana con amigas en 
 Mánchester](https://etheriamagazine.com/2019/12/30/12-visitas-para-fin-de-semana-en-manchester-con-amigas/). 
 
-![arquitectura moderna en Mánchester](etheria_images/2019/12/viaje-manchester-900x584.jpg "Manchester Ship Canal in Salford and Trafford. © Julian Elliott/ Visit Britain")
+![arquitectura moderna en Mánchester](etheria-images/2019/12/viaje-manchester-900x584.jpg "Manchester Ship Canal in Salford and Trafford. © Julian Elliott/ Visit Britain")
 
 ### 9\. Noruega
 
@@ -145,7 +145,7 @@ Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen
 ? [Qué ver y hacer en tu primera visita a 
 Oslo](https://etheriamagazine.com/2020/01/24/viajes-con-amigas-que-ver-y-hacer-en-oslo/). 
 
-![Picnic frente a la catedral de Nidaros en Trondheim](etheria_images/2020/01/noruega-Nidaros-Cathedral-Trondheim-900x620.jpg "Catedral de Nidaros, en Trondheim. © Visit Norway")
+![Picnic frente a la catedral de Nidaros en Trondheim](etheria-images/2020/01/noruega-Nidaros-Cathedral-Trondheim-900x620.jpg "Catedral de Nidaros, en Trondheim. © Visit Norway")
 
 ### 10\. Aix-en-Provence
 
@@ -159,7 +159,7 @@ podáis realizar
 ? [Aix-en-Provence, descubre el paraíso de Cézanne con tus mejores 
 amigas](https://etheriamagazine.com/2020/01/03/viaje-amigas-ruta-cezanne-en-aix-en-provence-francia/). 
 
-![flores y arquitectura en Aix-en-Provence](etheria_images/2019/12/etheria-magazine-torre-junto-ayuntamiento-900x464.jpg "La torre del reloj junto al ayuntamiento de Aix-en-Provence. © Yolanda Cardo")
+![flores y arquitectura en Aix-en-Provence](etheria-images/2019/12/etheria-magazine-torre-junto-ayuntamiento-900x464.jpg "La torre del reloj junto al ayuntamiento de Aix-en-Provence. © Yolanda Cardo")
 
 ## También te puede interesar:
 

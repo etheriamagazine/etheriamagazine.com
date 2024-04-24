@@ -1,10 +1,10 @@
 ---
 title: "El Hurtigruten, el barco postal desde el que ver las auroras boreales"
 date: 2022-03-11
-coverImage: etheria_images/2022/02/noruega-El-Expreso-del-Litoral.jpg
+coverImage: etheria-images/2022/02/noruega-El-Expreso-del-Litoral.jpg
 categories: 
   - viajes-con-amigas
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -13,7 +13,7 @@ recorrer la costa noruega en el Hurtigruten la magia de admirar una aurora borea
 el propio barco. Si te seduce la idea de ver las ‘luces del cielo’ desde El Expreso del 
 Litoral, te damos las claves para lograrlo. 
 
-![El Hurtigruten o Expreso del Litoral en su ruta costera](etheria_images/2022/02/noruega-El-Expreso-del-Litoral.jpg "El Hurtigruten o Expreso del Litoral en su ruta por la costa de Noruega.")
+![El Hurtigruten o Expreso del Litoral en su ruta costera](etheria-images/2022/02/noruega-El-Expreso-del-Litoral.jpg "El Hurtigruten o Expreso del Litoral en su ruta por la costa de Noruega.")
 
 Si de viajes en barco hablamos, el viaje a bordo del **Hurtigruten** –llamado 
 oficialmente El Expreso del Litoral– constituye una de las más atractivas experiencias 
@@ -23,7 +23,7 @@ la costa Noruega el más popular. No te pierdas su atractivo recorrido, que se p
 realizar por etapas, y la posibilidad de ver en sus cubiertas las singulares auroras 
 boreales. 
 
-![Barco del Expreso del Litoral mas conocido como Hurtigruten](etheria_images/2022/02/barco-hurtigruten.jpg "Barco del Expreso del Litoral, más conocido como Hurtigruten.")
+![Barco del Expreso del Litoral mas conocido como Hurtigruten](etheria-images/2022/02/barco-hurtigruten.jpg "Barco del Expreso del Litoral, más conocido como Hurtigruten.")
 
 ## Expreso del Litoral, una icónica travesía
 
@@ -32,7 +32,7 @@ noruegos**, esas brechas creadas durante eras glaciares que dieron lugar a la fo
 de profundos valles donde penetró el mar, y donde se formaron miles de islas, bahías y 
 cascadas. 
 
-![interior del crucero hurtigruten de noruega](etheria_images/2022/02/crucero-hurtigruten-noruega.jpg "Distintas zonas del Hurtigruten. © Pedro Grifol")
+![interior del crucero hurtigruten de noruega](etheria-images/2022/02/crucero-hurtigruten-noruega.jpg "Distintas zonas del Hurtigruten. © Pedro Grifol")
 
 Conviene saber que **El Expreso del Litoral** o Hurtigruten no es un crucero 
 convencional. Es una travesía basada en la tranquilidad y el relax a bordo de un barco 
@@ -45,7 +45,7 @@ ocupa buena parte del ocio turístico. Y **nada de llevarse disfraces, ni pajari
 etiqueta informal es lo que se lleva, porque lo importante es la esencia misma del 
 viaje. 
 
-![Gastronomía a bordo del Hurtigruten](etheria_images/2022/02/Gastronomia-a-bordo-del-Hurtigruten.jpg "Gastronomía a bordo del Hurtigruten. © Pedro Grifol")
+![Gastronomía a bordo del Hurtigruten](etheria-images/2022/02/Gastronomia-a-bordo-del-Hurtigruten.jpg "Gastronomía a bordo del Hurtigruten. © Pedro Grifol")
 
 ## Recorrido del Hurtigruten
 
@@ -60,7 +60,7 @@ desde ahí volver a casa.
 
 > “Antes de embarcar, conviene que te informes de las escalas que no hay que perderse” 
 
-![Recorrido del Hurtigruten por la costa de Noruega](etheria_images/2022/02/Recorrido-hurtigruten-noruega.jpg "Recorrido del Hurtigruten por la costa de Noruega.")
+![Recorrido del Hurtigruten por la costa de Noruega](etheria-images/2022/02/Recorrido-hurtigruten-noruega.jpg "Recorrido del Hurtigruten por la costa de Noruega.")
 
 ### Bergen, puerto de salida del Hurtigruten
 
@@ -72,7 +72,7 @@ monopolizaron el comercio del bacalao para garantizar el suministro al resto de 
 Europa. Se trata de un conjunto de casas de madera de dos plantas pintadas con vivos 
 colores y agrupadas en torno a un área funcional. 
 
-![Barrio de Brygge, en Bergen](etheria_images/2022/02/Bergen-Barrio-de-Bryggen.jpg "Barrio de Brygge, en Bergen. © Pedro Grifol")
+![Barrio de Brygge, en Bergen](etheria-images/2022/02/Bergen-Barrio-de-Bryggen.jpg "Barrio de Brygge, en Bergen. © Pedro Grifol")
 
 Hoy en día tiendas de recuerdos y restaurantes turísticos han sustituido los quehaceres 
 de este muelle que ha sido designado Patrimonio de la Humanidad. Frente a las 
@@ -90,13 +90,13 @@ navegamos, en silencio, hasta Nordfjord. Al día siguiente nos encontramos en la
 del _art nouveau_ noruego, **Ålesund**, donde pasamos buena parte del día visitando la 
 ciudad. 
 
-![Alesund, otra parada en la ruta del Hurtigruten](etheria_images/2022/02/Alesund-ruta-hurtigruten.jpg "Alesund, otra parada en la ruta del Hurtigruten. © Pedro Grifol")
+![Alesund, otra parada en la ruta del Hurtigruten](etheria-images/2022/02/Alesund-ruta-hurtigruten.jpg "Alesund, otra parada en la ruta del Hurtigruten. © Pedro Grifol")
 
 Seguimos navegando hasta **Trondheim** –que significa literalmente "El hogar de los 
 Trols”–, fundada por reyes vikingos y donde se encuentra la famosa Catedral de Nidaros, 
 que ha sido el lugar utilizado para las ceremonias de coronación de los reyes del país. 
 
-![Puerto de Trondheim, en la ruta del Hurtigruten](etheria_images/2022/02/Puerto-de-Trondheim-noruega-hurtigruten.jpg "Puerto de Trondheim, en la ruta del Hurtigruten. © Pedro Grifol")
+![Puerto de Trondheim, en la ruta del Hurtigruten](etheria-images/2022/02/Puerto-de-Trondheim-noruega-hurtigruten.jpg "Puerto de Trondheim, en la ruta del Hurtigruten. © Pedro Grifol")
 
 ### Baile de luces en el Círculo Polar Ártico
 
@@ -114,7 +114,7 @@ Seguirá la escala en **Tromsø**, ciudad que fue el punto base de numerosas exp
 polares. Allí tendrás la oportunidad de hacer una excursión con **trineos tirados por 
 perros** para gozar del paisaje de las mesetas nevadas. 
 
-![pescador de bacalao de las islas lofoten](etheria_images/2022/02/Bacalao-en-las-Islas-Lofoten-714x1024.jpg "Pescador con un bacalao en las islas Lofoten. © Pedro Grifol")
+![pescador de bacalao de las islas lofoten](etheria-images/2022/02/Bacalao-en-las-Islas-Lofoten-714x1024.jpg "Pescador con un bacalao en las islas Lofoten. © Pedro Grifol")
 
 ### Pesca del cangrejo real en Kirkenes
 
@@ -130,7 +130,7 @@ de lo que ofrece la travesía en El Expreso del Litoral. Los puertos que visitam
 noche yendo al norte, a la vuelta paramos de día. Por eso, antes de embarcarte, diseña 
 bien tu viaje. 
 
-![La ciudad de Kirkenes con las casas nevadas](etheria_images/2022/02/hurtigruten-Kirkenes.jpg "Bonito paisajes de Kirkenes.")
+![La ciudad de Kirkenes con las casas nevadas](etheria-images/2022/02/hurtigruten-Kirkenes.jpg "Bonito paisajes de Kirkenes.")
 
 ## Auroras boreales desde el Hurtigruten
 
@@ -145,7 +145,7 @@ este peculiar fenómeno.
 Sin embargo, si decides viajar en verano a Noruega podrás admirar otro fenómeno 
 espectacular: el Sol de Medianoche… que es cuando la luz del sol inunda día y noche. 
 
-![Desde el propio barco Hurtigruten se pueden admirar bellísimas auroras boreales](etheria_images/2022/02/Aurora-boreal-desde-hurtigruten.jpg "Desde el propio barco Hurtigruten se pueden admirar bellísimas auroras boreales.")
+![Desde el propio barco Hurtigruten se pueden admirar bellísimas auroras boreales](etheria-images/2022/02/Aurora-boreal-desde-hurtigruten.jpg "Desde el propio barco Hurtigruten se pueden admirar bellísimas auroras boreales.")
 
 **\*Fotos del autor y de la empresa Hurtigruten.** 
 
@@ -166,7 +166,7 @@ Manual (no auto). Apertura: Lo más bajo posible. No flash.
 ✅ Y lo más importante: Antes de ver las auroras boreales a través del objetivo de la 
 cámara, vive la experiencia de contemplar su belleza con los ojos y el corazón. 
 
-![Mujer junto a la Catedral de Nidaros, en Trondheim.](etheria_images/2022/02/mujer-Trondheim-690x1024.jpg "Mujer junto a la Catedral de Nidaros, en Trondheim. © Pedro Grifol")
+![Mujer junto a la Catedral de Nidaros, en Trondheim.](etheria-images/2022/02/mujer-Trondheim-690x1024.jpg "Mujer junto a la Catedral de Nidaros, en Trondheim. © Pedro Grifol")
 
 ### ¿Se puede hacer el viaje de Hurtigruten todo el año?
 

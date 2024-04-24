@@ -1,19 +1,19 @@
 ---
 title: "10 fachadas básicas en la Ruta de los Murales de Vitoria"
 date: 2019-11-21
-coverImage: etheria_images/2019/11/Vitoria-ciudad-medieval.jpg
+coverImage: etheria-images/2019/11/Vitoria-ciudad-medieval.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 Vitoria es una ciudad que ha hecho de la sostenibilidad la senda a seguir, pero a sus tonos verdes también se han sumado atractivas propuestas urbanas como la Ruta de los Murales. Pasea por su casco histórico y déjate seducir por sus coloridas fachadas y otros rincones secretos. En Etheria Magazine ya lo hemos hecho para contaros todas las claves.
 
-![ruta murales de vitoria](etheria_images/2019/11/mural-luz-esperanza-900x600.jpg "'La luz de la esperanza', en la Ruta de los Murales de Vitoria.")
+![ruta murales de vitoria](etheria-images/2019/11/mural-luz-esperanza-900x600.jpg "'La luz de la esperanza', en la Ruta de los Murales de Vitoria.")
 
 Desde tiempos romanos es un frecuentado cruce de caminos, pero Vitoria no se conforma 
 con ser lugar de paso de la meseta hacia Europa. Ha demostrado que la sostenibilidad es 
@@ -47,7 +47,7 @@ urbano**, levantado por una familia hidalga responsable de la custodia de la mur
 alta, defendía la ciudad y en sus bajos, hoy convertidos en restaurante, acogía una 
 **posada para el descanso de comerciantes y sus monturas** al llegar a Vitoria. 
 
-![ruta grafitis en Vitoria](etheria_images/2019/11/Vitoria-ciudad-medieval-900x600.jpg "'Al hilo del tiempo', en la Ruta de los Murales de Vitoria.")
+![ruta grafitis en Vitoria](etheria-images/2019/11/Vitoria-ciudad-medieval-900x600.jpg "'Al hilo del tiempo', en la Ruta de los Murales de Vitoria.")
 
 ## 2\. Donde triunfa el amor
 
@@ -63,7 +63,7 @@ tela **abrazándose bajo el cielo.** Es una creativa visión del fresco que **Gi
 Bondone** pintó en Padua sobre el encuentro de los padres de la Virgen María en la 
 puerta Dorada de Jerusalén. 
 
-![ruta murales en vitoria](etheria_images/2019/11/Vitoria-grafitis-amor-657x1024.jpg "La colaboración vecinal ha sido fundamental.")
+![ruta murales en vitoria](etheria-images/2019/11/Vitoria-grafitis-amor-657x1024.jpg "La colaboración vecinal ha sido fundamental.")
 
 ## 3\. Manos con arte
 
@@ -77,7 +77,7 @@ alegría reparten y que en estas obras enfocan múltiples elementos con **una vi
 arte pop**. Su homenaje más secreto es a los huertos urbanos, esos que por los patios de 
 la urbe se esconden reverdeciendo la actitud vecinal. 
 
-![ruta grafitis en Vitoria](etheria_images/2019/11/vitoria-manos-arte-900x600.jpg "Las manos son las protagonistas en este mural de Vitoria.")
+![ruta grafitis en Vitoria](etheria-images/2019/11/vitoria-manos-arte-900x600.jpg "Las manos son las protagonistas en este mural de Vitoria.")
 
 ## 4\. Un templo de _best seller_
 
@@ -98,7 +98,7 @@ Vitoria](https://viajesporeuskadi.es/es/a/63-los-secretos-de-una-catedral-visita
 asómate sobre la ciudad desde su torre y conoce los misterios de las policromías que se 
 solapan sobre sus muros. 
 
-![catedral de santa maria, catedral de ken follet vitoria](etheria_images/2019/11/vitorial-catedral-ken-follet-683x1024.jpg "Interior de la Catedral de Santa María, en Vitoria.")
+![catedral de santa maria, catedral de ken follet vitoria](etheria-images/2019/11/vitorial-catedral-ken-follet-683x1024.jpg "Interior de la Catedral de Santa María, en Vitoria.")
 
 ## 5\. Damas por doquier
 
@@ -113,7 +113,7 @@ hacerle trampas. No te pierdas el panel **_Huellas de cine_,** obra situada fren
 mural que recoge las manos imprimadas sobre barro de personajes del mundo del cine que 
 han visitado la ciudad. 
 
-![ruta grafitis en Vitoria](etheria_images/2019/11/vitoria-damas-grafitis-900x600.jpg "Mural 'El triunfo de Vitoria'.")
+![ruta grafitis en Vitoria](etheria-images/2019/11/vitoria-damas-grafitis-900x600.jpg "Mural 'El triunfo de Vitoria'.")
 
 ## 6\. Busca el cactus
 
@@ -131,7 +131,7 @@ ciudad– y la reutilización de espacios existentes. Además, constantemente im
 eficiencia energética y las energías limpias para así **enfrentar el cambio climático**, 
 situándose **entre las ciudades europeas líderes** en el descenso de emisiones de CO2. 
 
-![ruta grafitis en Vitoria](etheria_images/2019/11/vitoria-grafitis-cactus-900x600.jpg "El cactus, un detalle de arte urbano en Vitoria.")
+![ruta grafitis en Vitoria](etheria-images/2019/11/vitoria-grafitis-cactus-900x600.jpg "El cactus, un detalle de arte urbano en Vitoria.")
 
 ## 7\. Un anillo de compromiso
 
@@ -146,7 +146,7 @@ el centro de interpretación del parque. El cinturón verde urbano está jalonad
 vistas y **huertos urbanos** que crean un auténtico anillo de vida para los ciudadanos 
 que apuestan por una forma de **vida ecológica**. 
 
-![anillo verde vitoria](etheria_images/2019/11/vitoria-green-capital-900x596.jpg "El Anillo Verde de Vitoria, un gran logro de esta ciudad.")
+![anillo verde vitoria](etheria-images/2019/11/vitoria-green-capital-900x596.jpg "El Anillo Verde de Vitoria, un gran logro de esta ciudad.")
 
 ## 8\. Vitoria es arte
 
@@ -166,7 +166,7 @@ hasta la más vanguardista actualidad**. Déjate llevar por las muestras que cad
 museo organiza de su nutrida colección y sigue las invitaciones a mirar el mundo con las 
 propuestas más rompedoras de las obras de artistas exhibidas en muestras temporales. 
 
-![museo artium, viaje vitoria](etheria_images/2019/11/vitoria-arte-moderno-682x1024.jpg "El arte también invade al propio edificio del Artium.")
+![museo artium, viaje vitoria](etheria-images/2019/11/vitoria-arte-moderno-682x1024.jpg "El arte también invade al propio edificio del Artium.")
 
 ## 9\. Viajeras, quedamos en el arrabal
 
@@ -185,7 +185,7 @@ de los que más nos han gustado. Aúna su espíritu de reunión entre sus fachad
 medieval contra el aire refinado que aportaron las tendencias arquitectónicas 
 neoclásicas de la Ilustración. 
 
-![Plaza de la Virgen Blanca, vitoria](etheria_images/2019/11/vitoria-viaje-mujeres-644x1024.jpg "Plaza de la Virgen Blanca, el lugar de encuentro en Vitoria.")
+![Plaza de la Virgen Blanca, vitoria](etheria-images/2019/11/vitoria-viaje-mujeres-644x1024.jpg "Plaza de la Virgen Blanca, el lugar de encuentro en Vitoria.")
 
 ## 10\. Mujeres de paz
 
@@ -203,7 +203,7 @@ por un mundo más justo.
 ? [RESERVA una visita guiada por los murales de 
 Vitoria](https://www.civitatis.com/es/vitoria/tour-arte-urbano-vitoria/) por 12 euros. 
 
-![La luz de la esperanza, ruta grafitis en Vitoria](etheria_images/2019/11/vitoria-mujeres-ruta-arte-callejero-717x1024.jpg "Mural 'La luz de la esperanza', en Vitoria.")
+![La luz de la esperanza, ruta grafitis en Vitoria](etheria-images/2019/11/vitoria-mujeres-ruta-arte-callejero-717x1024.jpg "Mural 'La luz de la esperanza', en Vitoria.")
 
 ### También te puede interesar...
 

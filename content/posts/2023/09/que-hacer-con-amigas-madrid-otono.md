@@ -1,12 +1,12 @@
 ---
 title: "Qué hacer con amigas en Madrid este otoño e invierno"
 date: 2023-09-07
-coverImage: etheria_images/2023/09/terraza-hotel-suecia.jpg
+coverImage: etheria-images/2023/09/terraza-hotel-suecia.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Las vacaciones más extensas del año se acabaron y los días se acortan pero hay algo que 
@@ -14,7 +14,7 @@ siempre nos ayuda a superarlo: hacer planes con amigas en Madrid. Tanto si es la
 vez que pisas la capital como si es tu hogar, estas actividades te darán la oportunidad 
 de brindar por los encuentros, echarte unas risas y cargarte de energía positiva. 
 
-![Terraza de Casa Suecia, en Madrid](etheria_images/2023/09/terraza-hotel-suecia-850x584.jpg "Terraza de Casa Suecia, en Madrid. © Etheria Magazine")
+![Terraza de Casa Suecia, en Madrid](etheria-images/2023/09/terraza-hotel-suecia-850x584.jpg "Terraza de Casa Suecia, en Madrid. © Etheria Magazine")
 
 Si quedásemos más a menudo con las mujeres de nuestra vida, ya sean familia, amigas, 
 colegas de trabajo... la vida sería un poquito mejor. No hay nada más sencillo, 
@@ -38,7 +38,7 @@ Teatro Calderón. Y, por último, otro muy esperado: **Bailo Bailo,** el musical
 Raffaella Carrà, una adaptación de Federico Bellone del famoso filme ‘Explota explota’. 
 Lo podrás ver hasta el 21 de enero de 2024 en el Teatro Capitol. 
 
-![Musical El fantasma de la ópera](etheria_images/2023/09/fantasma-opera-madrid.jpg "© Musical El fantasma de la ópera, uno de los estrenos de 2023 en Madrid.")
+![Musical El fantasma de la ópera](etheria-images/2023/09/fantasma-opera-madrid.jpg "© Musical El fantasma de la ópera, uno de los estrenos de 2023 en Madrid.")
 
 ## 2\. Lanzar hachas
 
@@ -63,7 +63,7 @@ es un rincón inesperado y con una relajante fuente en el centro.
 Si preferís algo más "cañero" no os perdáis las exposiciones del innovador **Museo Gran 
 Vía 15** (museogranvia15.com). 
 
-![Museo del Romanticismo de Madrid.](etheria_images/2023/09/museo-romanticismo-madrid1.jpg "© Museo del Romanticismo de Madrid.")
+![Museo del Romanticismo de Madrid.](etheria-images/2023/09/museo-romanticismo-madrid1.jpg "© Museo del Romanticismo de Madrid.")
 
 ## 4\. La azotea con vistas de Picalagartos
 
@@ -80,7 +80,7 @@ Otra terraza que nos encanta es la de **Casa Suecia** (casasuecia.es), también 
 hotel NH Collection y es un "plan b" cercano si Picalagartos está completo (Marqués de 
 Casa Riera, 4). 
 
-![Picalagartos Sky Bar de Madrid](etheria_images/2023/09/azotea-picalagartos-madrid.jpg "© Picalagartos Sky Bar.")
+![Picalagartos Sky Bar de Madrid](etheria-images/2023/09/azotea-picalagartos-madrid.jpg "© Picalagartos Sky Bar.")
 
 ## 5\. Comprar en tiendas vintage
 
@@ -95,7 +95,7 @@ tiendas: **Biba** **Vintage** (Velarde, 1, [La mona checa](https://lamonacheca.c
 (Velarde, 2), **Magpie** (Velarde, 3), **Kinda Kinks** (Velarde, 6), **El templo de 
 Susu** (Espíritu Santo, 1), **Friperie Vintage** (Rodríguez San Pedro, 2). 
 
-![Tiendas de segunda mano en Madrid.](etheria_images/2023/09/tiendas-segunda-mano-madrid.jpg "Tiendas de segunda mano en Madrid. © Megan Lee")
+![Tiendas de segunda mano en Madrid.](etheria-images/2023/09/tiendas-segunda-mano-madrid.jpg "Tiendas de segunda mano en Madrid. © Megan Lee")
 
 ## 6\. Taller de cerámica o de bisutería
 
@@ -111,7 +111,7 @@ diseñar tus propias colgantes u otros abalorios, te los llevarás puestos. En A
 disponen de bonos regalos. Si no os coinciden los horarios, también podéis probar en 
 **Pinta en copas** (Velarde, 3) y en **Marta Cerámica** (San Anastasio, 2). 
 
-![Los talleres de manualidades son uno de  los planes con amigas más divertidos.](etheria_images/2023/09/taller-bisuteria-madrid.jpg "Los talleres de artesanía son planes con amigas ideales para el invierno. © Brooke Cagle")
+![Los talleres de manualidades son uno de  los planes con amigas más divertidos.](etheria-images/2023/09/taller-bisuteria-madrid.jpg "Los talleres de artesanía son planes con amigas ideales para el invierno. © Brooke Cagle")
 
 ## 7\. Cocinar cebiche
 
@@ -128,7 +128,7 @@ asistencia.
 No te pierdas: [Restaurantes peruanos en Madrid con el sello del chef Jhosef 
 Arias](https://etheriamagazine.com/2022/01/24/restaurantes-peruanos-en-madrid-de-jhosef-arias/) 
 
-![cebiche peruano de boldkitchen](etheria_images/2022/01/ceviche-peruano-adn-madrid.jpg "Cebiche peruano. © Pepa García")
+![cebiche peruano de boldkitchen](etheria-images/2022/01/ceviche-peruano-adn-madrid.jpg "Cebiche peruano. © Pepa García")
 
 ## 8\. Aprender pole dance o claqué
 
@@ -140,7 +140,7 @@ física especial y sólo hay llevar ropa cómoda (se realiza sin calzado). En la
 Flow** (escuelaflow.es), además, también cuentan con otros tipos de bailes como claqué, 
 latin jazz, twerk o hip hop. El precio de un día de pole dance es de 65 euros. 
 
-![Clases de baile en Madrid.](etheria_images/2023/09/clases-baile-madrid.jpg "Clases de baile en Madrid. © Brooke Cagle")
+![Clases de baile en Madrid.](etheria-images/2023/09/clases-baile-madrid.jpg "Clases de baile en Madrid. © Brooke Cagle")
 
 ## 9\. Free tour de las mujeres ilustres de Madrid
 
@@ -154,7 +154,7 @@ Recordad que es gratuito y que cada cual paga el importe que desea a la guía al
 finalizar. Este free tour de las [mujeres ilustres se reserva en 
 Civitatis](https://www.civitatis.com/es/madrid/free-tour-mujeres-madrid/?aid=10211). 
 
-![Terraza cóctel bar del hotel Fénix Gran Meliá, en Madrid.](etheria_images/2023/09/terraza-hotel-fenix.jpg "Terraza cóctel bar del hotel Fénix Gran Meliá, en Madrid.")
+![Terraza cóctel bar del hotel Fénix Gran Meliá, en Madrid.](etheria-images/2023/09/terraza-hotel-fenix.jpg "Terraza cóctel bar del hotel Fénix Gran Meliá, en Madrid.")
 
 ## 10\. Terracear en el Fénix Gran Meliá
 

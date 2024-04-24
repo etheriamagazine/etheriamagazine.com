@@ -1,13 +1,13 @@
 ---
 title: "Nueva York: el mejor plan con amigas al otro lado del charco"
 date: 2019-05-17
-coverImage: etheria_images/2019/05/Nueva-York-primavera-Central-Park.jpg
+coverImage: etheria-images/2019/05/Nueva-York-primavera-Central-Park.jpg
 categories: 
   - viajes-con-amigas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - macarenaetheria
+authors: 
+  - Macarena Escrivá
 ---
 
 Nos escapamos a la Gran Manzana porque era cierto eso que dicen de que esta ciudad nunca 
@@ -15,7 +15,7 @@ duerme. Nuevos barrios, mercados, exposiciones... y todo el encanto inconmensura
 la ciudad de los rascacielos por excelencia. No te pierdas un viaje a Nueva York con 
 amigas. 
 
-![Terrazas de The Vessel](etheria_images/2019/05/nueva-york-primavera.jpg "Terrazas de The Vessel, la penúltima atracción arquitectónica de Nueva York.")
+![Terrazas de The Vessel](etheria-images/2019/05/nueva-york-primavera.jpg "Terrazas de The Vessel, la penúltima atracción arquitectónica de Nueva York.")
 
 Nueva York es una gozada. Y no sé qué pensaréis, pero a mí me parece que es una ciudad a 
 la que nunca te cansas de volver. Da igual la época del año, si repites varias veces... 
@@ -29,7 +29,7 @@ interminables, cansancio acumulado... Y se nos olvida la Gran Manzana, que se se
 la Península por un inmenso océano Atlántico pero que para llegar hasta allí solo se 
 necesitan unas siete horas de avión o incluso menos si el viento pone de su parte. 
 
-![Atardecer en Manhattan desde Governor's Island](etheria_images/2019/05/Nueva-york-primavera-manhattan.jpg "Atardecer en Manhattan desde Governor's Island. © Oleg Chursin")
+![Atardecer en Manhattan desde Governor's Island](etheria-images/2019/05/Nueva-york-primavera-manhattan.jpg "Atardecer en Manhattan desde Governor's Island. © Oleg Chursin")
 
 ## Hundson Yards, un nuevo barrio
 
@@ -40,7 +40,7 @@ y multitud de planes y eventos. Lo que más ha llamado la atención a todo el qu
 visita es el espectacular edificio **The Vessel**, una nueva atracción de 154 escaleras 
 interconectadas diseñadas por el arquitecto Thomas Heatherwick. 
 
-![The Vessel y edificios de Hudson Yards desde High Line](etheria_images/2019/05/Nueva-york-huson-yards.jpg "The Vessel y edificios de Hudson Yards desde High Line. © Macarena Escrivá")
+![The Vessel y edificios de Hudson Yards desde High Line](etheria-images/2019/05/Nueva-york-huson-yards.jpg "The Vessel y edificios de Hudson Yards desde High Line. © Macarena Escrivá")
 
 A su lado, acaba de abrir **The Shed**, un centro de arte que albergará todo tipo de 
 disciplinas artísticas: obras de teatro, música de todo tipo, arte digital o literatura. 
@@ -62,7 +62,7 @@ Y lo han conseguido con creces.
 Churros, bravas, tostas, paellas, jamón ibérico, quesos, tortilla de patata... No nos 
 extraña que todos hayan caído rendidos a los pies de este mercado gourmet. 
 
-![Interior del Mercado Little Spain](etheria_images/2019/05/Nueva-York-primavera-Little-Spain-Plaza.jpg "Interior del © Mercado Little Spain")
+![Interior del Mercado Little Spain](etheria-images/2019/05/Nueva-York-primavera-Little-Spain-Plaza.jpg "Interior del © Mercado Little Spain")
 
 El nuevo barrio conecta con el siempre apetecible Chelsea mediante el **High Line**, un 
 parque que ocupa las antiguas vías elevadas de un tren de mercancías. Y además, este año 
@@ -72,7 +72,7 @@ grafittero brasileño Kobra o edificios de formas sinuosas de la arquitecta Zaha
 Además, terminar en el mercado de Chelsea comprando o comiendo en alguno de sus 
 infinitos puestos de comida, hará que el paseo tenga su recompensa. 
 
-![Vistas desde High Line del cruce de 10th Avenue con la 23 St en Nueva York](etheria_images/2019/05/Nueva-York-primavera-high-line.jpg "Vistas desde High Line del cruce de 10th Avenue con la 23 St. ©. Morgan")
+![Vistas desde High Line del cruce de 10th Avenue con la 23 St en Nueva York](etheria-images/2019/05/Nueva-York-primavera-high-line.jpg "Vistas desde High Line del cruce de 10th Avenue con la 23 St. ©. Morgan")
 
 ## Capital del shopping
 
@@ -97,7 +97,7 @@ Park](https://www.centralpark.com/things-to-do/activities/shakespeare-in-the-par
 serie de representaciones de teatro al aire libre de obras del dramaturgo inglés, que se 
 entremezclan con comedias y obras de corte policiaco. 
 
-![Central Park en primavera](etheria_images/2019/05/Nueva-York-primavera-Central-Park.jpg "Central Park en primavera. © NYGO")
+![Central Park en primavera](etheria-images/2019/05/Nueva-York-primavera-Central-Park.jpg "Central Park en primavera. © NYGO")
 
 En una de las esquinas del parque, se encuentra el **Mandarin Oriental New York**, uno 
 de los mejores hoteles de la ciudad. ¿La razón? Además de contar con el sello de calidad 
@@ -112,7 +112,7 @@ través de una puerta en The Aviary. Te alucinará su cápsula del tiempo, con a
 añejos de décadas pasadas, su _truffle bar_ de destilados macerados con trufa y todo lo 
 que sus expertos bárman pueden crear a la vista de tus ojos. 
 
-![Vistas de Central Park desde el hotel Mandarin Oriental New York](etheria_images/2019/05/Nueva-York-primavera-Vistas-Mandarion-Oriental.jpg "Vistas de Central Park desde el hotel © Mandarin Oriental New York.")
+![Vistas de Central Park desde el hotel Mandarin Oriental New York](etheria-images/2019/05/Nueva-York-primavera-Vistas-Mandarion-Oriental.jpg "Vistas de Central Park desde el hotel © Mandarin Oriental New York.")
 
 Y después de tanto estímulo, paseo y descubrimiento, este viaje a Nueva York con amigas 
 se merece un descanso. Si buscas hotel en Manhattan, ten muy en cuenta el flamante 

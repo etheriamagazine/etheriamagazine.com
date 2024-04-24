@@ -1,18 +1,18 @@
 ---
 title: "Kiev, ocho razones por las que amarás esta ciudad"
 date: 2020-02-05
-coverImage: etheria_images/2020/01/Kiev-san-miguel-de-las-cupulas-doradas.jpg
+coverImage: etheria-images/2020/01/Kiev-san-miguel-de-las-cupulas-doradas.jpg
 categories: 
   - viajes-con-amigas
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Elena Ortega
 ---
 
 Entre verdes colinas y con el río Dniéper como testigo, Kiev está siempre dispuesta a asombrar a sus visitantes con un sinfín de atractivos. Con sus emblemáticas iglesias coronadas por cúpulas doradas y rincones históricos renovados la antigua ciudad soviética se abre paso entre las capitales europeas que merecen ser exploradas.
 
-![Panoramica de Kiev](etheria_images/2020/01/Kiev-panoramica-900x600.jpg "Panorámica de Kiev. © Robert Anasch")
+![Panoramica de Kiev](etheria-images/2020/01/Kiev-panoramica-900x600.jpg "Panorámica de Kiev. © Robert Anasch")
 
 Para haber transcurrido tan solo tres décadas de su independencia de la URSS, el centro 
 de Kiev no guarda demasiadas muestras de su pasado soviético. Aquí, el color, la moda y 
@@ -36,7 +36,7 @@ también te detendrás en los años 30, cuando las autoridades soviéticas la de
 San Miguel, dedicada al patrón de la ciudad, fue reconstruida tras la independencia de 
 Ucrania. 
 
-![San Miguel de las Cupulas Doradas en kiev](etheria_images/2020/01/Kiev-san-miguel-de-las-cupulas-doradas-900x600.jpg "San Miguel de las Cúpulas Doradas.")
+![San Miguel de las Cupulas Doradas en kiev](etheria-images/2020/01/Kiev-san-miguel-de-las-cupulas-doradas-900x600.jpg "San Miguel de las Cúpulas Doradas.")
 
 La **catedral de Mikhailovsky**, como también es conocida, está localizada a las puertas 
 del parque Vladimirskaya Gorka, en el que destaca la imponente estatua de San Vladimir. 
@@ -50,7 +50,7 @@ ornamentados interiores y las llamativas cúpulas, el monasterio es famoso por l
 catacumbas en las que se encuentran momificados los monjes que habitaron el lugar. 
 También es interesante subir al campanario para obtener otra perspectiva de Kiev. 
 
-![Monasterio de las Cuevas.](etheria_images/2020/01/Kiev-monasterio-cuevas-900x506.jpg "Monasterio de las Cuevas.")
+![Monasterio de las Cuevas.](etheria-images/2020/01/Kiev-monasterio-cuevas-900x506.jpg "Monasterio de las Cuevas.")
 
 ### 2\. El metro de Kieva
 
@@ -61,7 +61,7 @@ comprar un billete en una taquilla icónica y bajar a las profundidades. Aunque 
 estaciones parecen descender al centro de la Tierra, la de **Arsenalda**, situada a más 
 de 100 metros, destaca por ser una de las más profundas del mundo. 
 
-![Metro de Kiev.](etheria_images/2020/01/Kiev-metro-900x865.jpg "Metro de Kiev. © Elena Ortega")
+![Metro de Kiev.](etheria-images/2020/01/Kiev-metro-900x865.jpg "Metro de Kiev. © Elena Ortega")
 
 > El distrito de Arsenalda es otra zona interesante que conviene descubrir despacio, 
 > caminando por Ivana Mazepy o deteniéndote en el Puente de los Besos para ensimismarte, 
@@ -74,7 +74,7 @@ comunista. En él destacan comercios de las marcas internacionales más conocida
 también establecimientos locales como **Bci Cboï**, que solo vende productos de 
 diseñadores ucranianos. 
 
-![Mercado de Besarabsky en kiev](etheria_images/2020/01/Kiev-Mercado-de-Besarabsky-900x675.jpg "Mercado de Besarabsky. © E.Ortega")
+![Mercado de Besarabsky en kiev](etheria-images/2020/01/Kiev-Mercado-de-Besarabsky-900x675.jpg "Mercado de Besarabsky. © E.Ortega")
 
 A un lado del bulevar, el **Mercado de Besarabsky** es uno de los sitios donde mejor 
 podrás palpar la vida de Kiev. Los puestos de flores, frutas y verduras apenas han 
@@ -90,14 +90,14 @@ como Patrimonio de la Humanidad por la Unesco. En su interior podrás ver fresco
 mosaicos bizantinos que, probablemente, te recuerden a la catedral de Estambul. Desde su 
 campanario, de estilo barroco, obtendrás unas buenas vistas panorámicas. 
 
-![Catedral de Santa Sofia  kiev](etheria_images/2020/01/Kiev-catedral-santa-sofia-900x997.jpg "Catedral de Santa Sofía. © E.Ortega")
+![Catedral de Santa Sofia  kiev](etheria-images/2020/01/Kiev-catedral-santa-sofia-900x997.jpg "Catedral de Santa Sofía. © E.Ortega")
 
 La **Puerta Dorada**, que daba acceso a la ciudad en el siglo XI, y la **Ópera 
 Nacional** son otros imprescindibles de la ciudad antigua de Kiev. Asistiendo a una 
 ópera o un ballet experimentarás la elegancia e intensidad con las que se viven las 
 sesiones de ocio más especiales de la capital. 
 
-![opera Nacional kiev](etheria_images/2020/01/Kiev-opera-nacional-900x506.jpg "Ópera Nacional.")
+![opera Nacional kiev](etheria-images/2020/01/Kiev-opera-nacional-900x506.jpg "Ópera Nacional.")
 
 ### 5\. Catedral de San Andrés y sus alrededores bohemios
 
@@ -110,7 +110,7 @@ quinto motivo por el que deberías estar reservando ya mismo un billete a Kiev.
 Su pintoresca atmósfera es la culpable de que la zona haya sido rebautizada popularmente 
 como la “Montmartre de Kiev”. 
 
-![Catedral de San Andres kiev](etheria_images/2020/01/Kiev-san-andres-768x1024.jpg "Catedral de San Andrés. © E.Ortega")
+![Catedral de San Andres kiev](etheria-images/2020/01/Kiev-san-andres-768x1024.jpg "Catedral de San Andrés. © E.Ortega")
 
 Al otro lado de la catedral sobresale también la calle Andriyivsky, invadida por 
 puestecitos en los que se venden objetos militares entremezclados con _souvenirs_ más 
@@ -122,7 +122,7 @@ vertiginosa. Es tal su atractivo, que la ciudad se ha posicionado como una de la
 reconocidas en cuanto al ‘street art’ europeo e incluso ofrece recorridos por estas 
 efímeras obras urbanas. 
 
-![grafitis en kiev](etheria_images/2020/01/Kiev-arte-callejero-900x675.jpg "Arte callejero en Kiev. © E.Ortega")
+![grafitis en kiev](etheria-images/2020/01/Kiev-arte-callejero-900x675.jpg "Arte callejero en Kiev. © E.Ortega")
 
 ### 6\. Barrio Vozdvizhenka
 
@@ -135,7 +135,7 @@ crisis, el proyecto quedó a medias y muchos de los edificios están vacíos.
 > Actualmente, este curioso barrio ha sabido renacer para convertirse en un lugar de moda 
 > con hoteles boutique, galerías de arte, cafeterías y restaurantes aclamados. 
 
-![Landscape Alley](etheria_images/2020/01/Kiev-landscape.alley_-900x675.jpg "El inquietante parque infantil Landscape Alley. © E. Ortega.")
+![Landscape Alley](etheria-images/2020/01/Kiev-landscape.alley_-900x675.jpg "El inquietante parque infantil Landscape Alley. © E. Ortega.")
 
 Junto a Vozdvizhenka, el **parque infantil de Landscape Alley** es otro de los espacios 
 que te conquistarán por su situación algo escondida, sus columpios retro y sus vistas. 
@@ -148,7 +148,7 @@ ciudad. Apúntalo en tu lista de lugares que ver en Kiev. Se encuentra localizad
 cerca del río Dniéper. En él no puedes dejar de visitar el **Museo de Chernóbil**, un 
 espacio estremecedor que rememora la fatídica noche del 26 de abril de 1986. 
 
-![Museo de Chernobil](etheria_images/2020/01/Kiev-Museo-Chernobil-768x1024.jpg "Museo de Chernóbil. © E. Ortega")
+![Museo de Chernobil](etheria-images/2020/01/Kiev-Museo-Chernobil-768x1024.jpg "Museo de Chernóbil. © E. Ortega")
 
 ### 8\. Otros espacios de historia y arte
 
@@ -167,7 +167,7 @@ Algunas de las muestras expuestas en el peculiar centro artístico de [Pinchuk A
 Center](http://new.pinchukartcentre.org/en) pueden resultar muy desconcertantes, aunque 
 quizá ese sea el mejor motivo para acercarse a echar un vistazo. 
 
-![Museo Pinchuk Art Center kiev](etheria_images/2020/01/Kiev-Pinchuk-Art-Center-900x675.jpg "Museo Pinchuk Art Center. © E. Ortega.")
+![Museo Pinchuk Art Center kiev](etheria-images/2020/01/Kiev-Pinchuk-Art-Center-900x675.jpg "Museo Pinchuk Art Center. © E. Ortega.")
 
 ### Museo de Arte Occidental y Oriental
 

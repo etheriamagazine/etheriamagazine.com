@@ -1,14 +1,14 @@
 ---
 title: "Esto es lo que ocurrirá si haces un viaje romántico a Apulia"
 date: 2019-11-25
-coverImage: etheria_images/2019/11/viaje-puglia-trani-puerto.jpg
+coverImage: etheria-images/2019/11/viaje-puglia-trani-puerto.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Si eliges Apulia en tu próximo viaje a Italia pasearás por pueblos marineros, te 
@@ -16,7 +16,7 @@ enamorarás de sus castillos medievales y de sus callejuelas con altares, y tend
 tiempo para descubrir las reliquias de ¿Papá Noel? en Bari. Te contamos qué ver en 
 Apulia para que no te pierdas nada. 
 
-![Piazza Mercantile, Bari](etheria_images/2019/11/viaje-puglia-portada-900x675.jpg "Piazza Mercantile, Bari. © Kelu Robles")
+![Piazza Mercantile, Bari](etheria-images/2019/11/viaje-puglia-portada-900x675.jpg "Piazza Mercantile, Bari. © Kelu Robles")
 
 El tacón de la bota de Italia, en una península dentro de otra península, es capaz de 
 reunir todos los **tópicos italianos**: los pulleses son fanfarrones, abiertos, 
@@ -34,7 +34,7 @@ baila al son de la **tarantela**, el ritmo sinuoso de la danza más popular de I
 puntillas e imitando a una tarántula, nos moveremos por la sorprendente Puglia (Apulia 
 en castellano), una joya viajera _slow_ todavía desapercibida para el gran público. 
 
-![Acceso a la Catedral de San Sabino, en Bari.](etheria_images/2019/11/viaje-puglia-bari-catedral-900x675.jpg "Acceso a la Catedral de San Sabino, en Bari. © KR")
+![Acceso a la Catedral de San Sabino, en Bari.](etheria-images/2019/11/viaje-puglia-bari-catedral-900x675.jpg "Acceso a la Catedral de San Sabino, en Bari. © KR")
 
 ## Encontrarás a Papá Noel
 
@@ -48,7 +48,7 @@ Sabino** y la pulcritud de la **Basilica di San Nicola**, un valioso centro de
 peregrinación para ortodoxos que acuden a encontrarse con las reliquias de **San 
 Nicolás**, el santo en el que se basa el mito de Papá Noel. 
 
-![basilica de san nicolas en Apulia](etheria_images/2019/11/viaje-puglia-san-nicolas-900x675.jpg "Atardecer junto a la basílica de San Nicolás. ©KR")
+![basilica de san nicolas en Apulia](etheria-images/2019/11/viaje-puglia-san-nicolas-900x675.jpg "Atardecer junto a la basílica de San Nicolás. ©KR")
 
 ## Amarás a Federico II sobre todas las cosas
 
@@ -59,7 +59,7 @@ poesía a las batallas, Federico II reformó y construyó nada menos que ciento 
 castillos en toda Apulia y Basilicata. El **Castel del Monte** es uno de los monumentos 
 más misteriosos de todo el país. La razón por la que lo construyó todavía es un enigma. 
 
-![castel del monte en Apulia](etheria_images/2019/11/viaje-puglia-castel-exterior-900x630.jpg "Castel del Monte, Patrimonio Mundial de la Unesco desde 1996. ©KR")
+![castel del monte en Apulia](etheria-images/2019/11/viaje-puglia-castel-exterior-900x630.jpg "Castel del Monte, Patrimonio Mundial de la Unesco desde 1996. ©KR")
 
 Tiene forma de **corona**, no es una fortaleza defensiva y, aunque el Castel del Monte 
 fue elevado sobre la **meseta de Murgia**, el lugar en el que se encuentra tampoco 
@@ -72,7 +72,7 @@ símbolos de la perfección de Dios y del hombre, de lo infinito y lo finito. Ot
 teorías sostienen que el monumento daba techo a peregrinos que buscaban el **Santo 
 Grial**, de ahí tanto simbolismo. 
 
-![Castel del Monte en Puglia](etheria_images/2019/11/viaje-puglia-castel-interior.jpg "Interior del Castel del Monte. ©KR")
+![Castel del Monte en Puglia](etheria-images/2019/11/viaje-puglia-castel-interior.jpg "Interior del Castel del Monte. ©KR")
 
 ## Pasarás por Trani, Barletta y Ruvo, el trío imperial
 
@@ -85,7 +85,7 @@ lomos de un delfín. Los desvencijados palacetes encalados que se yerguen junto 
 de Trani albergan coquetas _osterias_, _trattorias_ y _ristorantes_ cuya especialidad 
 son los mariscos de la zona. Date un capricho en **La Locanda della Via Larga**. 
 
-![Trani enPuglia.](etheria_images/2019/11/viaje-puglia-trani-puerto-900x652.jpg "Trani es una de las ciudades más elegantes de Puglia. ©KR")
+![Trani enPuglia.](etheria-images/2019/11/viaje-puglia-trani-puerto-900x652.jpg "Trani es una de las ciudades más elegantes de Puglia. ©KR")
 
 Federico II también ordenó construir el **Castillo Svevo de Trani**, que llama la 
 atención por su imponente ubicación junto al mar. Su estructura ha sufrido diversas 
@@ -95,7 +95,7 @@ prisión, de hecho hoy se pueden visitar sus celdas.
 > El mayor Coloso romano en bronce del mundo se encuentra en la ciudad de Barletta y mide 
 > cinco metros. 
 
-![Coloso de Barletta apuglia](etheria_images/2019/11/viaje-puglia-coloso.jpg "Nadie sabe a quién representa la figura del Coloso de Barletta. © Kelu Robles")
+![Coloso de Barletta apuglia](etheria-images/2019/11/viaje-puglia-coloso.jpg "Nadie sabe a quién representa la figura del Coloso de Barletta. © Kelu Robles")
 
 La escultura llegó a la localidad fruto de un saqueo de los venecianos a la ciudad de 
 Constantinopla en el año 1203. Al parecer, el karma hizo de las suyas y el barco en el 
@@ -104,7 +104,7 @@ que viajaba el botín naufragó. La corriente arrastró la estatua hasta la cost
 para descubrir las cámaras oscuras de su castillo, donde se produce un interesante juego 
 de sonidos y ecos. 
 
-![Plaza del Ayuntamiento, Ruvo di Puglia](etheria_images/2019/11/viaje-puglia-ruvo-900x636.jpg "Plaza del Ayuntamiento en Ruvo di Puglia. ©KR")
+![Plaza del Ayuntamiento, Ruvo di Puglia](etheria-images/2019/11/viaje-puglia-ruvo-900x636.jpg "Plaza del Ayuntamiento en Ruvo di Puglia. ©KR")
 
 ### Ruvo
 
@@ -118,7 +118,7 @@ enriquecido el arte de Apulia.
 > Por Puglia han pasado griegos, bizantinos, normandos, suevos, angevinos y aragoneses 
 > (los de la Corona de Aragón). 
 
-![Talos Festival](etheria_images/2019/11/viaje-puglia-festival-talos-900x636.jpg "Un momento del Talos Festival. ©KR")
+![Talos Festival](etheria-images/2019/11/viaje-puglia-festival-talos-900x636.jpg "Un momento del Talos Festival. ©KR")
 
 ## Participarás en la cultura en todas sus formas
 
@@ -140,7 +140,7 @@ callejera dirigido por Tommaso Scarimbolo y donde participan adolescentes de la 
 que tocan marimbas, vibráfonos, baterías y todo tipo de instrumentos creados con 
 material reciclado. 
 
-![cavatelli alle frutti di mare, gastronomia puglia](etheria_images/2019/11/viaje-puglia-cavatelli-900x630.jpg "Deliciosos 'Cavatelli alle frutti di mare'. ©KR")
+![cavatelli alle frutti di mare, gastronomia puglia](etheria-images/2019/11/viaje-puglia-cavatelli-900x630.jpg "Deliciosos 'Cavatelli alle frutti di mare'. ©KR")
 
 ## Comerás orejas y caballitos (y te encantarán)
 
@@ -156,7 +156,7 @@ _frutti di mare_.
 > Jamás verás a un italiano añadir queso parmesano a un plato de pasta con pescado o 
 > mariscos. 
 
-![playas de Bari](etheria_images/2019/11/viaje-puglia-playa-900x675.jpg "En Bari, la capital de Puglia, también existen playas paradisíacas. ©KR")
+![playas de Bari](etheria-images/2019/11/viaje-puglia-playa-900x675.jpg "En Bari, la capital de Puglia, también existen playas paradisíacas. ©KR")
 
 ## Guardarás el secreto de sus playas
 
@@ -170,7 +170,7 @@ a los bañistas más intrépidos. A tan solo 40 kilómetros de Bari, en los vert
 acantilados **de Polignano a Mare** se celebran todo tipo de competiciones y mundiales 
 de salto. 
 
-![altar callejero de Bari, viaje apuglia](etheria_images/2019/11/viaje-puglia-altar.jpg "Detalle de un altar callejero de Bari. ©KR")
+![altar callejero de Bari, viaje apuglia](etheria-images/2019/11/viaje-puglia-altar.jpg "Detalle de un altar callejero de Bari. ©KR")
 
 ## Guía de Puglia
 
@@ -198,7 +198,7 @@ referencias a la gastronomía tradicional pullesa.
 Pregunta por las _orecchiette alle cime di rapa_, la pasta de orejitas con grelos es el 
 plato más representativo de la región. 
 
-![](etheria_images/2019/11/viaje-puglia-panoramica-bari-900x570.jpg "Skyline de Bari. ©KR")
+![](etheria-images/2019/11/viaje-puglia-panoramica-bari-900x570.jpg "Skyline de Bari. ©KR")
 
 ### Toma buena nota
 

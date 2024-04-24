@@ -1,18 +1,18 @@
 ---
 title: "10 planes originales en Bilbao con amigas"
 date: 2020-09-09
-coverImage: etheria_images/2020/09/planes-originales-bilbao-Hotel-Capsula.jpg
+coverImage: etheria-images/2020/09/planes-originales-bilbao-Hotel-Capsula.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Arte, ocio, gastronomía y deporte nos esperan para disfrutar de una urbe que ha pasado de ser un foco industrial a un imán turístico indiscutible. Seleccionamos 10 planes imprescindibles en Bilbao para hacer con amigas. Exposiciones, masajes, bares de pintxos e, incluso, 'goming' y un hotel cápsula te esperan. La tentación está servida...
 
-![Maika guggenheim planes en bilbao](etheria_images/2020/09/planes-bilbao-guggenheim-anos-20.jpg "Maika, 1929. © Christian Schad Stiftung, Aschaffenburg, VEGAP, Bilbao, 2021.")
+![Maika guggenheim planes en bilbao](etheria-images/2020/09/planes-bilbao-guggenheim-anos-20.jpg "Maika, 1929. © Christian Schad Stiftung, Aschaffenburg, VEGAP, Bilbao, 2021.")
 
 ```
 Actualizado 6/2021
@@ -38,7 +38,7 @@ collage y el diseño de mobiliario– en **diversas ciudades europeas** como Ber
 Viena y Zúrich. Más de 300 obras para hacerse una completa idea de este periodo. Hasta 
 el 19 de septiembre de 2021. 
 
-![Restaurante Nerua, Museo Guggenheim, comer bien en bilbao, restaurantes originales en bilbao](etheria_images/2020/09/planes-originales-bilbao-nerua.jpg "Restaurante Nerua, dentro del Museo Guggenheim.")
+![Restaurante Nerua, Museo Guggenheim, comer bien en bilbao, restaurantes originales en bilbao](etheria-images/2020/09/planes-originales-bilbao-nerua.jpg "Restaurante Nerua, dentro del Museo Guggenheim.")
 
 ## 2\. Cena en el restaurante Nerua
 
@@ -50,7 +50,7 @@ creativo y cultural por los productos locales de temporada. Y eso que presume de
 muchos de sus platos sólo tienen tres ingredientes. Recomendamos el **menú especial 
 Sena**, cinco pasos con propuestas icónicas de Nerua. 
 
-![libro de bilbao, verdes valles colinas rojas, obra de ramillo pinilla](etheria_images/2020/09/planes-originales-bilbao-verdes-valles.jpg "'Verdes valles, colinas rojas', una obra de Ramillo Pinilla.")
+![libro de bilbao, verdes valles colinas rojas, obra de ramillo pinilla](etheria-images/2020/09/planes-originales-bilbao-verdes-valles.jpg "'Verdes valles, colinas rojas', una obra de Ramillo Pinilla.")
 
 ## 3\. Descubrir Bilbao con Ramiro Pinilla
 
@@ -63,7 +63,7 @@ en el momento en que Cristina Oiaindia, una aristócrata casada con un rico indu
 Getxo, se enfrenta a Ella, una criada que hace tambalear la estructura familiar cuando 
 anuncia que espera un hijo ilegítimo. 
 
-![teatro arriaga planes en bilbao](etheria_images/2020/09/habitacion-maria-teatro-arriaga.jpg "© 'La habitación de María', en el Teatro Arriaga.")
+![teatro arriaga planes en bilbao](etheria-images/2020/09/habitacion-maria-teatro-arriaga.jpg "© 'La habitación de María', en el Teatro Arriaga.")
 
 ## 4\. Tarde de teatro en el Arriaga
 
@@ -75,7 +75,7 @@ Arriaga](http://www.teatroarriaga.eus). Te adelantamos que si vas en agosto de 2
 19 a 22) tendrás en cartel 'La habitación de María', interpretada por la genial Concha 
 Velasco. Precio: de 12 a 25 €. 
 
-![tapas creativas en bilbao, victor montes, gure toki, sorginzulo, comer bien en bilbao](etheria_images/2020/09/planes-originales-bilbao-pinchos.jpg "Cocina creativa de Víctor Montes, Gure Toki y Sorginzulo (de izq. a dcha.)")
+![tapas creativas en bilbao, victor montes, gure toki, sorginzulo, comer bien en bilbao](etheria-images/2020/09/planes-originales-bilbao-pinchos.jpg "Cocina creativa de Víctor Montes, Gure Toki y Sorginzulo (de izq. a dcha.)")
 
 ## 5\. Degustar los mejores pintxos
 
@@ -90,7 +90,7 @@ y **Zuga**. Estos locales tienen sello de garantía. Os gustarán. En este artí
 encontraréis más claves para disfrutar de una [Bilbao 
 gastronómica](https://etheriamagazine.com/2019/12/23/finde-bilbao-con-amigas-mejores-restaurantes/). 
 
-![Torre Loizaga, planes en bilbao, planes con amigas](etheria_images/2020/09/planes-originales-bilbao-torre-loizaga.jpg "Coches clásicos en Torre Loizaga, un plan original en Billbao.")
+![Torre Loizaga, planes en bilbao, planes con amigas](etheria-images/2020/09/planes-originales-bilbao-torre-loizaga.jpg "Coches clásicos en Torre Loizaga, un plan original en Billbao.")
 
 ## 6\. Ver Rolls-Royce y otros coches clásicos en Torre Loizaga
 
@@ -105,7 +105,7 @@ olivos centenarios. Y si no os gustan los coches antiguos, os encantará conocer
 historia de este espacio y la biografía de Miguel de la Vía, un rico empresario vasco 
 que falleció hace cinco años y que amaba el arte, la música y, sobre todo, los coches. 
 
-![actividades originales en bilbao, goming en bilbao, planes bilbao con amigas](etheria_images/2020/09/planes-originales-bilbao-Goming-Puente-Bizkaia.jpg "'Goming” desde el Puente de Bizkaia, un plan divertido con amigas en Bilbao.")
+![actividades originales en bilbao, goming en bilbao, planes bilbao con amigas](etheria-images/2020/09/planes-originales-bilbao-Goming-Puente-Bizkaia.jpg "'Goming” desde el Puente de Bizkaia, un plan divertido con amigas en Bilbao.")
 
 ## 7\. Hacer “goming” desde el Puente de Bizkaia
 
@@ -122,7 +122,7 @@ ría de Bilbao en velero o un simple y [agradable paseo en
 barco](https://www.civitatis.com/es/bilbao/paseo-barco-bilbao/?aid=10211) (13 €). Seguro 
 que será una experiencia mucho más relajada. 
 
-![Optimi Rooms, hotel capsula de Espana, hotel original en bilbao, planes bilbao con amigas](etheria_images/2020/09/planes-originales-bilbao-Hotel-Capsula.jpg "Optimi Rooms, el primer hotel cápsula de España.")
+![Optimi Rooms, hotel capsula de Espana, hotel original en bilbao, planes bilbao con amigas](etheria-images/2020/09/planes-originales-bilbao-Hotel-Capsula.jpg "Optimi Rooms, el primer hotel cápsula de España.")
 
 ## 8\. ¿Y si dormimos a la japonesa?
 
@@ -136,7 +136,7 @@ hay módulos dobles para parejas que deseen vivir la experiencia del hotel cáps
 mejor: hay **opción de siesta, con tres horas a elegir en la franja de la tarde**. En 
 breve, extenderán su propuesta a Barcelona, Madrid y Sevilla. 
 
-![la despensa de etxanobe, tortellini bilbao](etheria_images/2019/12/La-Despensa-de-Etxanobe-Tortellini-de-remolacha-con-trufa-900x600.jpg "Tortellini de remolacha con trufa de 'La despensa del Etxanobe'.")
+![la despensa de etxanobe, tortellini bilbao](etheria-images/2019/12/La-Despensa-de-Etxanobe-Tortellini-de-remolacha-con-trufa-900x600.jpg "Tortellini de remolacha con trufa de 'La despensa del Etxanobe'.")
 
 ## 9\. La despensa del Etxanobe
 
@@ -148,7 +148,7 @@ están ricos a rabiar su 'Txangurro de gamba blanca’, su 'Flor de alcachofa a 
 salsa romescu' y los 'Caracoles a la Bizkaina’. Además, cuentan con una excelente bodega 
 para maridar sus platos, y experiencias gastronómicas desde 63 euros. 
 
-![spa en bilbao, planes con amigas en bilbao, relax en bilbao](etheria_images/2020/09/planes-originales-bilbao-spa-sthai.jpg "Masaje oriental en S’Thai, un buen plan para hacer con amigas en Bilbao.")
+![spa en bilbao, planes con amigas en bilbao, relax en bilbao](etheria-images/2020/09/planes-originales-bilbao-spa-sthai.jpg "Masaje oriental en S’Thai, un buen plan para hacer con amigas en Bilbao.")
 
 ## 10\. Un masaje oriental en una galería de arte
 

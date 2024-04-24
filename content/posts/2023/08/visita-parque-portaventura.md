@@ -1,14 +1,14 @@
 ---
 title: "Cómo organizar un viaje a PortAventura World"
 date: 2023-08-23
-coverImage: etheria_images/2023/08/port-aventura-Mediterrania.jpg
+coverImage: etheria-images/2023/08/port-aventura-Mediterrania.jpg
 categories: 
   - viaje-en-familia
   - parques-ocio
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Cuando viajas en familia pocos planes superan la visita a un parque temático. 
@@ -18,7 +18,7 @@ en una zona muy bien comunicada. En este artículo te damos algunas claves que t
 ayudarán con la planificación de un viaje a PortAventura. ¡Ya sólo te quedaría disfrutar 
 de la experiencia! 
 
-![montañas rusas en Port Aventura](etheria_images/2023/08/port-aventura-Shambala-Dragon-Khan.jpg "Las montañas rusas Shambala y Dragon Khan son las estrellas de Port Aventura.")
+![montañas rusas en Port Aventura](etheria-images/2023/08/port-aventura-Shambala-Dragon-Khan.jpg "Las montañas rusas Shambala y Dragon Khan son las estrellas de Port Aventura.")
 
 Viajar a un parque temático es garantía de diversión si se viaja en familia o con amigos 
 y, para disfrutarlo al máximo, hay que pasar el tiempo suficiente en ellos para no tener 
@@ -42,7 +42,7 @@ ambientado en el mundo Ferrari se puede visitar en medio día. Por lo que la mej
 es alojarse uno o dos días en sus hoteles. Si vas en verano y añades Caribe Aquatic Park 
 a tu viaje, tendrás que incrementar un día y una noche la estancia. 
 
-![Caribe Aquatic Park.](etheria_images/2023/08/port-aventura-Costa-Caribe.jpg "Caribe Aquatic Park.")
+![Caribe Aquatic Park.](etheria-images/2023/08/port-aventura-Costa-Caribe.jpg "Caribe Aquatic Park.")
 
 ## ¿Qué tipo de entradas hay en PortAventura y Ferrari Land?
 
@@ -53,7 +53,7 @@ con transporte. La entrada de un día para PortAventura y Ferrari Land cuesta 48
 (42 Euros para edades entre 4 y 10 años y para más de 60); la entrada para Caribe 
 Aquatic Park cuesta 23 euros para todas las edades. 
 
-![Entrada a Ferrari Land.](etheria_images/2023/08/ferrari-land-entrada.jpg "Entrada a Ferrari Land.")
+![Entrada a Ferrari Land.](etheria-images/2023/08/ferrari-land-entrada.jpg "Entrada a Ferrari Land.")
 
 El alojamiento en los hoteles del parque lleva la entrada a PortAventura Park y a 
 Ferrari Land incluida. Siempre una entrada más de los días que duermas para PortAventura 
@@ -86,7 +86,7 @@ del lejano oeste que tiene un acceso directo a PortAventura Park. El hotel PortA
 se encuentra entre PortAventura Park y Ferrari Land; y los hoteles Caribe y El Paso 
 enfrente de los parques, al otro lado del parking de entrada. 
 
-![Piscina del hotel Gold River.](etheria_images/2023/08/port-aventura-piscina-hotel.jpg "Piscina del hotel Gold River.")
+![Piscina del hotel Gold River.](etheria-images/2023/08/port-aventura-piscina-hotel.jpg "Piscina del hotel Gold River.")
 
 El precio es desde 130 Euros por habitación y noche y hay habitaciones familiares en 
 todos los hoteles. Para los fans de las sorpresas, existe una opción llamada **Hotel 
@@ -109,7 +109,7 @@ Vinosfera Tapes/Vins, The Iron Horse o Hacienda El Charro); **bufé** como Marco
 numerosos **autoservicios** y **snacks bar**. Todos ambientados según las zonas 
 temáticas del parque en las que se encuentren. 
 
-![zona Mediterránea de PortAventura](etheria_images/2023/08/port-aventura-Mediterrania.jpg "En la zona de Mediterrànea se encuentran algunos de los restaurantes a la carta.")
+![zona Mediterránea de PortAventura](etheria-images/2023/08/port-aventura-Mediterrania.jpg "En la zona de Mediterrànea se encuentran algunos de los restaurantes a la carta.")
 
 En **Ferrari Land** podrás sentarte a comer un buen plato de pizza o pasta en 
 **Cavallino** o tomar algo rápido en los snacks bar repartidos por el parque. Y en 
@@ -132,7 +132,7 @@ para no tener que esperar, te pueden ayudar en la recepción de los hoteles. Tam
 valora si os conviene comprar algún tipo de pase exprés, sobre todo si visitas los 
 parques en temporada alta. 
 
-![Street Mission](etheria_images/2023/08/port-aventura-street-mission.jpg "Street Mission.")
+![Street Mission](etheria-images/2023/08/port-aventura-street-mission.jpg "Street Mission.")
 
 El día de la visita es casi imprescindible empezar a primera hora. Lo mejor es dirigirse 
 directamente a las atracciones que más os interesen, sobre todo a las montañas rusas 
@@ -163,7 +163,7 @@ a apetecer seguro. Si viajas con niños pequeños, **Sesamo Aventura** ocupará 
 de tu tiempo, aunque en otras zonas como Polynesia encontrarás también atracciones para 
 toda la familia. 
 
-![Sesamo Aventura en PortAventura.](etheria_images/2023/08/port-aventura-sesamo-aventura.jpg "Entrada a la zona Sesamo Aventura.")
+![Sesamo Aventura en PortAventura.](etheria-images/2023/08/port-aventura-sesamo-aventura.jpg "Entrada a la zona Sesamo Aventura.")
 
 Los amantes de las **montañas rusas** tienen varias citas imprescindibles: Shambala, la 
 más alta del parque; Dragon Khan, con ocho _loopings_ y que alcanza los 110 km/h; 
@@ -174,7 +174,7 @@ Las **atracciones de agua** te refrescarán seguro durante el verano y son siemp
 divertidas y perfectas para disfrutar en familia. No te pierdas Angkor, Tutuki Splash, 
 Silver River Flumy ni Grand Canyon Rapids. 
 
-![tutuki splash en PortAventura.](etheria_images/2023/08/port-aventura-atracciones-agua.jpg "Las atracciones de agua son perfectas para refrescarse en verano.")
+![tutuki splash en PortAventura.](etheria-images/2023/08/port-aventura-atracciones-agua.jpg "Las atracciones de agua son perfectas para refrescarse en verano.")
 
 Port Aventura cuenta con una atracción inaugurada en verano de 2023: **Uncharted, el 
 Enigma de Penitence**. Es la primera caída lateral de Europa y combina la búsqueda de un 
@@ -189,7 +189,7 @@ más alta de Europa, que alcanza una aceleración de 180 km/h en sólo cinco seg
 sumar adrenalina, hay que subirse también a la **Torre de caída libre**, otra atracción 
 de altura en este parque. 
 
-![Red Force en Ferrari Land](etheria_images/2023/08/port-aventura-ferrari-montana-rusa-683x1024.jpg "Red Force, la montaña rusa con más adrenalina de Ferrari Land.")
+![Red Force en Ferrari Land](etheria-images/2023/08/port-aventura-ferrari-montana-rusa-683x1024.jpg "Red Force, la montaña rusa con más adrenalina de Ferrari Land.")
 
 Ferrari Land cuenta también con una **zona de atracciones infantiles**, todas 
 ambientadas en el mundo Ferrari, y dos atracciones de realidad virtual. Dos espacios 
@@ -206,7 +206,7 @@ de varias atracciones aptas para todos los públicos, cuenta con una extensa zon
 infantil al aire libre, otra cubierta y una playa artificial. Si quieres adrenalina, el 
 **Ciclón Tropical**, un tobogán con cien metros de altura, es tu atracción. 
 
-![Atracción de agua en Caribe Aquatic Park.](etheria_images/2023/08/port-aventura-caribe-aquapark-683x1024.jpg "Atracción de agua en Caribe Aquatic Park.")
+![Atracción de agua en Caribe Aquatic Park.](etheria-images/2023/08/port-aventura-caribe-aquapark-683x1024.jpg "Atracción de agua en Caribe Aquatic Park.")
 
 ## ¿Qué espectáculos se pueden ver en PortAventura Park?
 
@@ -223,7 +223,7 @@ Y, como en cualquier parque que se tercie, no puede faltar el pasaje del terror,
 caso **REC© Experience**, el más largo de Europa y con una ambientación que te cortará 
 la respiración. 
 
-![Espectáculo Aloha Tahití en la zona de Polinesia.](etheria_images/2023/08/port-aventura-espectaculo-Aloha-Tahiti.jpg "Espectáculo Aloha Tahití en la zona de Polynesia.")
+![Espectáculo Aloha Tahití en la zona de Polinesia.](etheria-images/2023/08/port-aventura-espectaculo-Aloha-Tahiti.jpg "Espectáculo Aloha Tahití en la zona de Polynesia.")
 
 Además de los espectáculos fijos, hay que otros que cambian según la temporada del año y 
 se hacen **tematizados en Halloween, Navidades, Carnaval o Pascua**. No hay que perderse 
@@ -255,7 +255,7 @@ la temporada y los parques permanecen cerrados algunos días durante el otoño y
 invierno. Ferrari Land está abierto por las tardes y Caribe Aquatic Park abre de finales 
 de mayo a mediados de septiembre. 
 
-![Atracción Angkor en PortAventura](etheria_images/2023/08/port-aventura-angkor.jpg "Atracción Angkor.")
+![Atracción Angkor en PortAventura](etheria-images/2023/08/port-aventura-angkor.jpg "Atracción Angkor.")
 
 ### Servicios de los parques
 
@@ -279,7 +279,7 @@ Para facilitar la estancia en los parques, en PortAventura se pueden alquilar ca
 de bebé y sillas de ruedas. Además, hay consignas para dejar aquello que no necesites al 
 montar en las atracciones, consulta en la web los precios. 
 
-![Zona Far West de Port Aventura.](etheria_images/2023/08/port-aventura-far-west.jpg "Zona Far West de PortAventura.")
+![Zona Far West de Port Aventura.](etheria-images/2023/08/port-aventura-far-west.jpg "Zona Far West de PortAventura.")
 
 **Fotos y vídeos** 
 

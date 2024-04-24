@@ -1,17 +1,17 @@
 ---
 title: "10 complementos y juegos de playa para disfrutar en familia"
 date: 2020-06-09
-coverImage: etheria_images/2020/06/complementos-playa-familia.jpg
+coverImage: etheria-images/2020/06/complementos-playa-familia.jpg
 categories: 
   - regalos-compras-viajeras
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Para tus próximas vacaciones en la playa te proponemos 10 complementos y juegos que 
 harán que podáis disfrutar en familia sin aburriros ni un instante. Toma buena nota. 
 
-![](etheria_images/2020/06/complementos-playa-familia.jpg "Familia en la playa.")
+![](etheria-images/2020/06/complementos-playa-familia.jpg "Familia en la playa.")
 
 Si eres de las que organiza bien la maleta (y el maletero) antes de irse de vacaciones, 
 coge papel y lápiz porque hemos seleccionado una serie de juegos y enseres que serán muy 
@@ -20,7 +20,7 @@ con tiempo ya que en temporada alta se suelen quedar sin stock.
 
 ## 1\. Juegos de mesa resistentes al agua.
 
-![](etheria_images/2020/06/complementos-playa-juegos.jpg "Juegos de mesa para la playa.")
+![](etheria-images/2020/06/complementos-playa-juegos.jpg "Juegos de mesa para la playa.")
 
 Una buena manera de mantener a los niños sin moverse demasiado de la parcela de playa 
 que ocupemos es dedicar un rato a un juego de mesa. Existen versiones resistentes al 
@@ -30,7 +30,7 @@ playa.
 
 ## 2\. Carpa de playa.
 
-![viajes a la playa, viajes en España, viajes con niños](etheria_images/2020/06/complementos-playa-carpa.jpg "Carpa para la playa.")
+![viajes a la playa, viajes en España, viajes con niños](etheria-images/2020/06/complementos-playa-carpa.jpg "Carpa para la playa.")
 
 Si vas con niños pequeños es imprescindible llevar algún complemento para asegurarse la 
 sombra. Una buena opción es llevar una [carpa de playa](https://amzn.to/3L0phIJ). Esta 
@@ -38,7 +38,7 @@ de Amazon cubre 2,1x2,1 m, por lo que además delimita muy bien el espacio famil
 
 ## 3\. Libros.
 
-![viajes a la playa, viajes en España, viajes con niños](etheria_images/2020/06/complementos-playa-libros.jpg "'Con el agua al cuello' de Donna Leon y libro de enigmas de Miguel Capó.")
+![viajes a la playa, viajes en España, viajes con niños](etheria-images/2020/06/complementos-playa-libros.jpg "'Con el agua al cuello' de Donna Leon y libro de enigmas de Miguel Capó.")
 
 Los ratos de playa son perfectos para dedicar un rato a esos libros que se nos han 
 quedado pendientes durante el año. Lo mejor, buscar lecturas entretenidas y ediciones de 
@@ -51,7 +51,7 @@ literarias'.](https://etheriamagazine.com/2020/04/09/viaja-a-traves-de-los-libro
 
 ## 4\. Juguetes de playa.
 
-![viajes a la playa, viajes en España, viajes con niños](etheria_images/2020/06/complementos-playa-juguetes.jpg "Juguetes para la playa.")
+![viajes a la playa, viajes en España, viajes con niños](etheria-images/2020/06/complementos-playa-juguetes.jpg "Juguetes para la playa.")
 
 Los habituales juguetes para divertirse en la arena se podrán llevar este año siempre 
 que los más pequeños estén en la zona de su familia. Para poder transportar una buena 
@@ -62,7 +62,7 @@ comprar la bolsa con los juguetes incluidos.
 
 ## 5\. Escarpines para la playa.
 
-![viajes a la playa, viajes en España, viajes con niños](etheria_images/2020/06/complementos-playa-escarpines-1.jpg "Escarpines para niños de Decathlon.")
+![viajes a la playa, viajes en España, viajes con niños](etheria-images/2020/06/complementos-playa-escarpines-1.jpg "Escarpines para niños de Decathlon.")
 
 En muchas playas de España hay zonas con rocas y a los niños les encanta explorarlas en 
 busca de conchas, mejillones o pequeños cangrejos. Para realizar esta actividad con 
@@ -71,7 +71,7 @@ para que puedan subir sobre ellas sin hacerse pequeños y molestos cortes en los
 
 ## 6\. Tumbonas y esterillas.
 
-![viajes a la playa, viajes en España, viajes con niños](etheria_images/2020/06/complementos-playa-esterilla.jpg "Esterilla plegable con respaldo.")
+![viajes a la playa, viajes en España, viajes con niños](etheria-images/2020/06/complementos-playa-esterilla.jpg "Esterilla plegable con respaldo.")
 
 Si consigues tener a los niños entretenidos con la arena o saltando las olas, ¿por qué 
 no regalarte un rato de descanso en condiciones? Si no quieres cargar con sillas o 
@@ -81,7 +81,7 @@ desconectar. Este modelo de Amazon ni abulta ni pesa.
 
 ## 7\. Tablas de bodyboard.
 
-![viajes a la playa, viajes en España, viajes con niños](etheria_images/2020/06/complementos-playa-bodyboard.jpg "Tablas de bodyboard para niños.")
+![viajes a la playa, viajes en España, viajes con niños](etheria-images/2020/06/complementos-playa-bodyboard.jpg "Tablas de bodyboard para niños.")
 
 Los deportes en el agua están permitidos y en las playas habrá zonas habilitadas para 
 ellos. Para los más pequeños, la mejor opción es una tabla pequeña con alguno de sus 
@@ -90,7 +90,7 @@ de bonitos colores.
 
 ## 8\. Gomas y combas.
 
-![viajes a la playa, viajes en España, viajes con niños](etheria_images/2020/06/complementos-playa-comba.jpg "Gomas y comba para saltar.")
+![viajes a la playa, viajes en España, viajes con niños](etheria-images/2020/06/complementos-playa-comba.jpg "Gomas y comba para saltar.")
 
 Este es un juego tan antiguo como actual, ya que retorna periódicamente a los patios de 
 los colegios. ¿Por qué no llevar en la bolsa de la playa una [goma](https://amzn.to/2XWrSsM) 
@@ -99,7 +99,7 @@ practicar la coordinación y apto para toda la familia.
 
 ## 9\. Alfombra de playa.
 
-![viajes a la playa, viajes en España, viajes con niños](etheria_images/2020/06/complementos-playa-alfombra.jpg "Alfombra de playa.")
+![viajes a la playa, viajes en España, viajes con niños](etheria-images/2020/06/complementos-playa-alfombra.jpg "Alfombra de playa.")
 
 Hay versiones impermeables muy prácticas de [alfombras de 
 playa](https://amzn.to/3ybSk4o) que pueden delimitar muy bien el sitio que ocupas. En 
@@ -107,7 +107,7 @@ Amazon hemos encontrado ésta de 210x200 cm que no abulta nada y pesa poquísimo
 
 ## 10\. Cometas.
 
-![viajes a la playa, viajes en España, viajes con niños](etheria_images/2020/06/complementos-playa-cometas.jpg "Cometas.")
+![viajes a la playa, viajes en España, viajes con niños](etheria-images/2020/06/complementos-playa-cometas.jpg "Cometas.")
 
 Volar una cometa es una de las imágenes más típicas de la playa y no parece que este año 
 vaya a haber restricciones al respecto. Eso sí, tendréis que buscar una zona poco 

@@ -1,12 +1,12 @@
 ---
 title: "Hotel NH Collection New York Madison Avenue, una opción imbatible para dormir en Nueva York"
 date: 2024-01-22
-coverImage: etheria_images/2024/01/NH-Collection-New-York-Madison-Vistas.jpg
+coverImage: etheria-images/2024/01/NH-Collection-New-York-Madison-Vistas.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si tienes planeada una escapada a Nueva York no te desesperes con la búsqueda de 
@@ -14,7 +14,7 @@ alojamiento, ya que tenemos la solución: el NH Collection New York Madison Aven
 hotel de cuatro estrellas, renovado en 2021, tiene una ubicación inmejorable y la 
 garantía de calidad de NH Collection. 
 
-![Hotel NH Collection New York Madison Avenue.](etheria_images/2024/01/NH-Collection-New-York-Madison-Vistas.jpg "Hotel NH Collection New York Madison Avenue.")
+![Hotel NH Collection New York Madison Avenue.](etheria-images/2024/01/NH-Collection-New-York-Madison-Vistas.jpg "Hotel NH Collection New York Madison Avenue.")
 
 Buscar alojamiento en Nueva York puede convertirse en una auténtica tortura, sobre todo 
 si quieres dormir en Manhattan, tanto por la inmensa oferta que existe como por la 
@@ -34,7 +34,7 @@ cien años, de esos de ladrillo rojo que mantienen su imponente presencia entre
 rascacielos de cristal. Una personalidad y belleza que le llevó a ser nombrado en 2022 
 como **"el hotel más instagrameable de Norteamérica”** por Luxury Travel Advisor. 
 
-![chimeniea y butacas en el NH Collection New York Madison Avenue](etheria_images/2024/01/NH-Collection-New-York-Madison-Lobby.jpg "Rincón del Lobby.")
+![chimeniea y butacas en el NH Collection New York Madison Avenue](etheria-images/2024/01/NH-Collection-New-York-Madison-Lobby.jpg "Rincón del Lobby.")
 
 ## Un hotel renovado en 2021
 
@@ -49,7 +49,7 @@ te pueda ocurrir al llegar a Nueva York, que, ya os adelantamos, serán muchas.
 Además, el hotel dispone de un gimnasio abierto 24 horas, perfecto para mantenerse en 
 forma durante las vacaciones, y opción de parking (con cargo extra). 
 
-![Terraza de una de las habitaciones Premium.](etheria_images/2024/01/NH-Collection-New-York-Madison-Avenue-habitacion-premium.jpg "Terraza de una de las habitaciones Premium.")
+![Terraza de una de las habitaciones Premium.](etheria-images/2024/01/NH-Collection-New-York-Madison-Avenue-habitacion-premium.jpg "Terraza de una de las habitaciones Premium.")
 
 ## Las habitaciones
 
@@ -69,7 +69,7 @@ auténticas joyas del hotel son las cuatro **Tower Suites**, con unas vistas de 
 y la preciosa **Penthouse Empire Suite**, que ofrece el lujo de una bonita terraza en el 
 centro de Manhattan. 
 
-![Penthouse Empire Suite del hotel NH Collection New York Madison Avenue](etheria_images/2024/01/NH-Collection-New-York-Madison-Penthouse-Empire-Suite.jpg "Penthouse Empire Suite.")
+![Penthouse Empire Suite del hotel NH Collection New York Madison Avenue](etheria-images/2024/01/NH-Collection-New-York-Madison-Penthouse-Empire-Suite.jpg "Penthouse Empire Suite.")
 
 Todas disponen de wifi gratuito, climatización individual, Smart TV y ventanas 
 insonorizadas, algo muy de agradecer en el centro de Nueva York. 
@@ -88,7 +88,7 @@ ofrece el hotel. Un dato a tener muy en cuenta, ya que en la mayoría de los hot
 neoyorkinos el desayuno no está incluido y es muy cómodo poder desayunar así de bien 
 antes de iniciar las excursiones por la ciudad. 
 
-![Tabla de embutidos del restaurante Serafina.](etheria_images/2024/01/NH-Collection-New-York-Madison-picnic-tabla.jpg "Tabla de embutidos del restaurante Serafina.")
+![Tabla de embutidos del restaurante Serafina.](etheria-images/2024/01/NH-Collection-New-York-Madison-picnic-tabla.jpg "Tabla de embutidos del restaurante Serafina.")
 
 Otro de los espacios donde detenerse en el hotel a tomar algo es el **Mad Bar & 
 Lounge**, también en la planta baja, una coctelería donde probar combinados clásicos o 

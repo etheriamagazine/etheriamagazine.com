@@ -1,20 +1,20 @@
 ---
 title: "Un hotel de capricho en Lisboa: Tivoli Avenida Liberdade"
 date: 2019-02-14
-coverImage: etheria_images/2019/02/Tivoli-Avenida-Liberdade-Anantara-Spa.jpg
+coverImage: etheria-images/2019/02/Tivoli-Avenida-Liberdade-Anantara-Spa.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-urbanos
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El Tivoli Avenida Liberdade, un hotel histórico de la capital portuguesa, suma a sus ya 
 confortables instalaciones dos placeres más: el de la mesa y el de los masajes. ¿Sabes 
 donde te alojarás cuando viajes a Lisboa? Nosotras, sí. 
 
-![Lobby del hotel Tivoli Avenida Liberdade de Lisboa.](etheria_images/2019/02/Tivoli-Avenida-Liberdade-Lobby-1024x595.jpg "Lobby del hotel Tivoli Avenida Liberdade de Lisboa.")
+![Lobby del hotel Tivoli Avenida Liberdade de Lisboa.](etheria-images/2019/02/Tivoli-Avenida-Liberdade-Lobby-1024x595.jpg "Lobby del hotel Tivoli Avenida Liberdade de Lisboa.")
 
 Lisboa es una ciudad para vivirla y para recorrerla, en la medida de los posible a pie, 
 y este hotel te ofrece la oportunidad de moverte por el centro histórico sin recurrir al 
@@ -25,7 +25,7 @@ en el artículo de [Los 12 mejores miradores de
 Lisboa](http://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/), te 
 sorprenderá la cantidad de opciones que tienes. 
 
-![Sky Bar del Tivoli Avenida Liberdade](etheria_images/2019/02/Tivoli-Avenida-Liberdade-Sky-Bar-1024x685.jpg "Sky Bar del Tivoli Avenida Liberdade.")
+![Sky Bar del Tivoli Avenida Liberdade](etheria-images/2019/02/Tivoli-Avenida-Liberdade-Sky-Bar-1024x685.jpg "Sky Bar del Tivoli Avenida Liberdade.")
 
 ## ¿Por qué elegir este hotel?
 
@@ -38,7 +38,7 @@ ayuda para organizar tu estancia, no te preocupes porque su **Experience Team** 
 encarga de preparar los itinerarios más selectos por la ciudad, desde ir de tiendas a 
 pasear por el Barrio del Chiado. 
 
-![Habitación doble deluxe del hotel Avenida Liberdade.](etheria_images/2019/02/Lisboa-Tivoli-Avenida-Liberdade-1024x656.jpg "Habitación doble deluxe del hotel Avenida Liberdade.")
+![Habitación doble deluxe del hotel Avenida Liberdade.](etheria-images/2019/02/Lisboa-Tivoli-Avenida-Liberdade-1024x656.jpg "Habitación doble deluxe del hotel Avenida Liberdade.")
 
 A la hora de elegir la habitación todo dependerá de tus necesidades, ¿vas sola? ¿con 
 pareja o amigas? Puedes elegir entre diversos tipos de habitaciones, desde la exquisita 
@@ -47,7 +47,7 @@ habitaciones familiares con sofá cama o dobles con vistas a la avenida Liberdad
 gustos y tu bolsillo son los que mandan porque todas están perfectamente equipadas para 
 una estancia agradable. 
 
-![Restaurante SEEN , Tivoli Avenida Liberdad](etheria_images/2019/02/SEEN-Restaurante-1024x603.jpg "Restaurante SEEN del Tivoli Avenida Liberdade.")
+![Restaurante SEEN , Tivoli Avenida Liberdad](etheria-images/2019/02/SEEN-Restaurante-1024x603.jpg "Restaurante SEEN del Tivoli Avenida Liberdade.")
 
 ## Una cena con vistas en Lisboa
 
@@ -65,7 +65,7 @@ su **Sky Bar Lisboa** desde donde es un placer ver ocultarse el astro rey tras l
 tejados lisboetas. Sus cócteles y la amplia agenda de actividades que desarrolla en 
 cuanto llega el buen tiempo serán un gran incentivo. 
 
-![Sala de tratamientos del Anantara Spa Lisboa](etheria_images/2019/02/Tivoli-Avenida-Liberdade-Anantara-Spa-1024x682.jpg "Anantara Spa Lisboa.")
+![Sala de tratamientos del Anantara Spa Lisboa](etheria-images/2019/02/Tivoli-Avenida-Liberdade-Anantara-Spa-1024x682.jpg "Anantara Spa Lisboa.")
 
 ## Un Anantara Spa en Lisboa
 

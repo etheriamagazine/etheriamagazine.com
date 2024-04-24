@@ -1,10 +1,10 @@
 ---
 title: "Cruce Andino, Bariloche y El Bolsón, fin del viaje de Sania en Patagonia"
 date: 2023-02-10
-coverImage: etheria_images/2023/02/sania-tres-lagos-horizontal.jpg
+coverImage: etheria-images/2023/02/sania-tres-lagos-horizontal.jpg
 categories: 
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -14,7 +14,7 @@ por las imágenes. Tras pasar por Bariloche, finaliza su etapa en El Bolsón, un
 localidad menos conocida pero con una naturaleza abrumadora. Te lo cuenta a continuación 
 con todo detalle. 
 
-![Sania en el Cruce Andino.](etheria_images/2023/02/Sania-cruce-andino.jpg "Sania en el Cruce Andino. © Sania Jelic")
+![Sania en el Cruce Andino.](etheria-images/2023/02/Sania-cruce-andino.jpg "Sania en el Cruce Andino. © Sania Jelic")
 
 La frontera entre Chile y Argentina atraviesa la cordillera. Divide lagos y quiere 
 separar un sistema único. Y complica el viaje por la región. Quería ir a Bariloche desde 
@@ -39,7 +39,7 @@ La primera parada después de una hora es en los Saltos de Petrohué (la entrada
 unos 7.000 pesos para extranjeros, unos 7 €). Hay varios miradores y al fondo está el 
 volcán Osorno. Bellísimo. 
 
-![Volcán Osorno.](etheria_images/2023/02/sania-patagonia-volcan-osorno.jpg "Volcán Osorno. © Sania Jelic")
+![Volcán Osorno.](etheria-images/2023/02/sania-patagonia-volcan-osorno.jpg "Volcán Osorno. © Sania Jelic")
 
 Se sigue un rato en autobús hasta el puerto de Petrohué, donde se entra en el primer 
 catamarán. Es la travesía del **lago Todos Los Santos** de unas dos horas. El lago tiene 
@@ -76,7 +76,7 @@ Para seguir en autobús a Puerto Blest y después navegar por el **lago Nahei Hu
 durante una hora y media. Nuevamente aparecen paisajes de película. Desde ahí, se hace 
 el traslado en autobús hasta Bariloche, una hora, o lo que dure, según el tráfico. 
 
-![Barco para realizar el Cruce Andino.](etheria_images/2023/02/sania-tres-lagos-barco.jpg "Barco para realizar el Cruce Andino. © SJ")
+![Barco para realizar el Cruce Andino.](etheria-images/2023/02/sania-tres-lagos-barco.jpg "Barco para realizar el Cruce Andino. © SJ")
 
 La travesía se hace más amena con las magníficas explicaciones de los guías sobre los 
 entornos, parajes, volcanes (¿sabías que Chile es el segundo lugar del mundo con más 
@@ -106,7 +106,7 @@ mercado artesanal llamado la **Feria Regional de El Bolsón**. Además, ha adqui
 reputación de pueblo bohemio. Desde aquí se hacen excursiones al río Azul y a la laguna 
 el Cajón del Azul. Hay muchas opciones de caminata. 
 
-![Lago Puelo.](etheria_images/2023/02/sania-lago-puelo.jpg "Lago Puelo. © Sania Jelic")
+![Lago Puelo.](etheria-images/2023/02/sania-lago-puelo.jpg "Lago Puelo. © Sania Jelic")
 
 Unos kilómetros más al sur está el **lago Puelo**, que curiosamente nace en un lado de 
 la cordillera pero desemboca en el océano Pacífico. A cuatro kilómetros del Parque 
@@ -123,7 +123,7 @@ _trekking_.
 En Lago Puelo conocí, además, una historia bonita: tres generaciones de mujeres que han 
 construido, y además regentan, los tres locales más bellos que he visto en la ruta. 
 
-![locales con encanto en El Bolsón](etheria_images/2023/02/sania-el-bolson-mujeres-emprendedoras.jpg "Detalles de los locales de la familia de Ana Ordóñez. © SJ")
+![locales con encanto en El Bolsón](etheria-images/2023/02/sania-el-bolson-mujeres-emprendedoras.jpg "Detalles de los locales de la familia de Ana Ordóñez. © SJ")
 
 La señora **Ana Ordoñez** compró unos terrenos en Lago Puelo a mediados de los años 90. 
 Con el tiempo, su hija **Ana del Moro** y su nieta **Verónica** fueron construyendo los 
@@ -138,7 +138,7 @@ familiar. El resultado es envidiable.
 ✅ Al igual que en otros pueblos de la Patagonia, me encontré con pinturas y grafitis 
 reivindicando los **derechos de la mujer**. 
 
-![street art en El Bolsón](etheria_images/2023/02/sania-murales-mujeres.jpg "Murales reivindicativos de los derechos de la mujer en El Bolsón. © SJ")
+![street art en El Bolsón](etheria-images/2023/02/sania-murales-mujeres.jpg "Murales reivindicativos de los derechos de la mujer en El Bolsón. © SJ")
 
 ## Impresiones finales de la Patagonia
 
@@ -163,7 +163,7 @@ entonces cuando una tiene que elegir si quiere seguir viendo lagos o quiere dedi
 tiempo a ver otra cosa y hacer otra actividad. Lo mismo se puede aplicar para montañas y 
 rutas de trekking. 
 
-![Monte Tronador y Lago en el Cruce Andino](etheria_images/2023/02/sania-cruce-andino-ruta.jpg "Imágenes del Cruce Andino. © SJ")
+![Monte Tronador y Lago en el Cruce Andino](etheria-images/2023/02/sania-cruce-andino-ruta.jpg "Imágenes del Cruce Andino. © SJ")
 
 ✅ Si el tiempo no escasea durante el viaje, **recomiendo seriamente planificar** **una 
 parada de unos 4-5 días** en algún sitio para permitir que se asienten las impresiones. 
@@ -181,7 +181,7 @@ Hay un mínimo de picaresca en la hostelería, sobre todo, a la hora de dar el c
 etc. Pero eso pasa en España y en otros tantos lugares con turistas y viajeros. Así que 
 nada nuevo. 
 
-![cruce andino entre Chile y Argentina](etheria_images/2023/02/sania-cruce-andino-rio.jpg "No sabrás con qué paisaje quedarte de todos los que verás en Patagonia. © SJ")
+![cruce andino entre Chile y Argentina](etheria-images/2023/02/sania-cruce-andino-rio.jpg "No sabrás con qué paisaje quedarte de todos los que verás en Patagonia. © SJ")
 
 Las poblaciones pequeñas son seguras y tranquilas. Las ciudades tienen otra dinámica. 
 Aquí es siempre muy útil tener algún contacto local que se puede buscar a través de 

@@ -1,12 +1,12 @@
 ---
 title: "Grandes mujeres artistas. Arte ¡para ver y para comprar!"
 date: 2019-11-18
-coverImage: etheria_images/2019/11/Sofonisba-y-Lavinia-museo-del-prado.jpg
+coverImage: etheria-images/2019/11/Sofonisba-y-Lavinia-museo-del-prado.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -14,7 +14,7 @@ La exposición sobre dos grandes pintoras en el Museo del Prado y el libro ‘Gr
 mujeres artistas’ pueden ocupar buena parte de nuestro tiempo (cultural) de estas 
 fiestas navideñas. 
 
-![exposicion el prado](etheria_images/2019/11/Sofonisba-y-Lavinia-museo-del-prado-900x569.jpg "'Historia de dos pintoras: Sofonisba Anguissola y Lavinia Fontana', en el museo del Prado.")
+![exposicion el prado](etheria-images/2019/11/Sofonisba-y-Lavinia-museo-del-prado-900x569.jpg "'Historia de dos pintoras: Sofonisba Anguissola y Lavinia Fontana', en el museo del Prado.")
 
 A veces, en la historiografía artística algunos críticos han tratado de ver aspectos 
 masculinos o femeninos en algunas obras de arte, pero las expresiones artísticas tienen 
@@ -36,7 +36,7 @@ pinturas entre las dos; y también, eso sí: tenemos que felicitar esa decisión
 dirección del museo porque ahora tenemos la oportunidad de profundizar más en la 
 personalidad de estas dos grandes pintoras. 
 
-![museo del prado, lavinia fontana, sofonisba anguissola](etheria_images/2019/11/museo-prado-Lavinia-Fontana-sofonisba-Anguissola-900x502.jpg "'Autorretrato tocando la espineta', de Lavinia Fontana, y 'Autorretrato ante el caballete', de Sofonisba Anguissola.")
+![museo del prado, lavinia fontana, sofonisba anguissola](etheria-images/2019/11/museo-prado-Lavinia-Fontana-sofonisba-Anguissola-900x502.jpg "'Autorretrato tocando la espineta', de Lavinia Fontana, y 'Autorretrato ante el caballete', de Sofonisba Anguissola.")
 
 **Sofonisba Anguissola**, nacida 1534 en Cremona (Italia) y fallecida en 1625 en 
 Palermo, estuvo en activo hasta entrados sus noventa años. Admirada por Miguel Ángel, 
@@ -54,7 +54,7 @@ hay que colocarse frente al lienzo ‘Venus y Marte’ –casualmente, propiedad
 Alba y donde habitualmente duerme (en el reabierto Palacio de Liria)–, donde Marte le 
 toca el culo a Venus. **Lavinia, valiente como ella sola, rompió tabúes**. 
 
-![marte y venus, lavinia fontana, museo del prado](etheria_images/2019/11/museo-prado-marte-y-venus-Lavinia-Fontana.jpg "'Marte y Venus'(1595), de Lavinia Fontana.")
+![marte y venus, lavinia fontana, museo del prado](etheria-images/2019/11/museo-prado-marte-y-venus-Lavinia-Fontana.jpg "'Marte y Venus'(1595), de Lavinia Fontana.")
 
 Lavinia tuvo 11 hijos, así que pasó buena parte de su existir sumando embarazos, pero 
 sin dejar de trabajar. Precisamente fue su marido, también pintor, quien más la apoyó, 
@@ -65,7 +65,7 @@ La exposición es un buen ejemplo para ver y aprender que el papel de igualdad d
 mujeres no es un concepto actual… sino que ya existía en algunas esferas culturales. 
 Como siempre: es cuestión de cultura. A estudiar más, por favor. 
 
-![Retrato de Felipe II, Sofonisba Anguissola](etheria_images/2019/11/felipe-II-miverva-lavinia-fontana-900x597.jpg "Retrato de Felipe II (1565), de Sofonisba Anguissola, y 'Minerva vistiéndose' (1613), de Lavinia Fontana.")
+![Retrato de Felipe II, Sofonisba Anguissola](etheria-images/2019/11/felipe-II-miverva-lavinia-fontana-900x597.jpg "Retrato de Felipe II (1565), de Sofonisba Anguissola, y 'Minerva vistiéndose' (1613), de Lavinia Fontana.")
 
 Los nombres de estas dos pintoras aparecen, junto a **otras 400 mujeres artistas** de 
 los últimos cinco siglos en el libro que acaba de aparecer publicado por Phaidon bajo el 
@@ -77,7 +77,7 @@ contexto de la labor artística de cada una de las pintoras.
 > ‘Grandes mujeres artistas’ es el libro ilustrado sobre mujeres artistas más extenso 
 > jamás publicado. 
 
-![portada grandes mujeres artistas, editorial phaidon](etheria_images/2019/11/Portada-libro-grandes-mujeres-artistas-900x660.jpg "Portada 'Grandes mujeres artistas'.")
+![portada grandes mujeres artistas, editorial phaidon](etheria-images/2019/11/Portada-libro-grandes-mujeres-artistas-900x660.jpg "Portada 'Grandes mujeres artistas'.")
 
 ## Del siglo XVI al siglo XX
 
@@ -96,7 +96,7 @@ en la que el espectador se implicara en el acto, potencialmente agresivo, de rev
 cuerpo femenino, de desnudar a un cuerpo pasivo. Ono se iba tapando los pechos a medida 
 que la ropa iba ‘deconstruyéndose’. 
 
-![cut piece, performance yoko ono](etheria_images/2019/11/Cut-Piece-Performance-de-Yoko-Ono-900x658.jpg "'Cut Piece' (1964). Performance de Yoko Ono.")
+![cut piece, performance yoko ono](etheria-images/2019/11/Cut-Piece-Performance-de-Yoko-Ono-900x658.jpg "'Cut Piece' (1964). Performance de Yoko Ono.")
 
 A este _happening,_ que pasó hace más de cincuenta años, hoy habría que sumar también 
 los aspectos de género, ya que se trataba de un cuerpo femenino. 
@@ -118,7 +118,7 @@ espectadores debían intervenir sobre el cuerpo de la artista (algo parecido a l
 diez años antes). La _performance_ terminó cuando alguien apuntó a la cabeza con la 
 pistola. Fin. 
 
-![Performance de Marina Abramovic, libros mujeres artistas](etheria_images/2019/11/Rhythm-0-libro-mujeres-artista.jpg "'Rhythm 0' (1974). Performance de Marina Abramovic.")
+![Performance de Marina Abramovic, libros mujeres artistas](etheria-images/2019/11/Rhythm-0-libro-mujeres-artista.jpg "'Rhythm 0' (1974). Performance de Marina Abramovic.")
 
 Y aquí acaba la historia… Hay cosas con las que mejor no jugar. No es necesario que 
 nadie muera por defender el Arte. 

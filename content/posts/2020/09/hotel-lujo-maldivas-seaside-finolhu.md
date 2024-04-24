@@ -1,13 +1,13 @@
 ---
 title: "Hotel Seaside Finolhu, un paraíso para el buceo en Maldivas"
 date: 2020-09-29
-coverImage: etheria_images/2020/09/hotel-seaside-finolhu-ocean-pool-villa.jpg
+coverImage: etheria-images/2020/09/hotel-seaside-finolhu-ocean-pool-villa.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cuando se unen un destino paradisíaco y un hotel de lujo, de esos de los que no querrías 
@@ -15,7 +15,7 @@ marcharte, se consigue una escapada perfecta. El Seaside Finolhu y el atolón Ba
 Maldivas logran esa unión y demuestran que este archipiélago también es una bendición 
 para los viajes activos, ya sean en pareja, con amigos o en familia. 
 
-![Viajes a Maldivas en pareja](etheria_images/2020/09/hotel-seaside-finolhu-playa.jpg "Playa del hotel Seaside Finolhu.")
+![Viajes a Maldivas en pareja](etheria-images/2020/09/hotel-seaside-finolhu-playa.jpg "Playa del hotel Seaside Finolhu.")
 
 Cuando la mente divaga pensando en trasladarse a un paraíso donde olvidarse de todo, es 
 fácil que tome la forma de un lugar como el hotel Seaside Finolhu, en Maldivas, uno de 
@@ -24,7 +24,7 @@ establecimiento existe y, como si no fuera suficiente su entorno natural, el res
 remodelado todo el complejo y se prepara para su reapertura en noviembre de 2020 con la 
 intención de hacer sentir a sus huéspedes como en un sueño. 
 
-![Atolón en Maldivas para disfrutar con amigos](etheria_images/2020/09/hotel-seaside-finolhu-atolon.jpg "Vista aérea del hotel y sus islas.")
+![Atolón en Maldivas para disfrutar con amigos](etheria-images/2020/09/hotel-seaside-finolhu-atolon.jpg "Vista aérea del hotel y sus islas.")
 
 Si hay algo que seduce a las viajeras en Maldivas es la sensación de que se está 
 viviendo un viaje único. La exclusividad que aportan los hoteles, que ocupan una isla 
@@ -34,7 +34,7 @@ la amabilidad parece ser la norma. Y, aunque es perfecto para una **escapada
 romántica**, también lo es para un viaje en familia o con ese grupo de amigas con el que 
 llevas tiempo planeando daros un capricho. 
 
-![burbuja en el Finolhu de Maldivas.](etheria_images/2020/09/burbujas-finolhu-maldivas-dia.jpg "Dormir en una burbuja, la nueva experiencia que ofrece el hotel a sus huéspedes.")
+![burbuja en el Finolhu de Maldivas.](etheria-images/2020/09/burbujas-finolhu-maldivas-dia.jpg "Dormir en una burbuja, la nueva experiencia que ofrece el hotel a sus huéspedes.")
 
 Todo es especial en este hotel: la sensación de isla desierta de sus playas, sus 
 acogedoras villas de las que no querrás salir y, por supuesto, sus fondos marinos que se 
@@ -52,7 +52,7 @@ que permite, incluso, ducharte al aire libre si te apetece. Se ubican en la play
 sobre la laguna, y la mitad tiene piscina. Existen distintas categorías para adaptarse a 
 los gustos y presupuestos de cada cliente. 
 
-![Romantica piscina de un hotel en Maldivas](etheria_images/2020/09/hotel-seaside-finolhu-ocean-pool-villa.jpg "Terraza de la villa Ocean Pool Villa.")
+![Romantica piscina de un hotel en Maldivas](etheria-images/2020/09/hotel-seaside-finolhu-ocean-pool-villa.jpg "Terraza de la villa Ocean Pool Villa.")
 
 Las tres categorías de villas sobre la laguna (conocidas como _overwaters_) son **Lagoon 
 Villa**, **Ocean Pool Villa** y **Villa con dos dormitorios y piscina**. Permiten vivir 
@@ -65,7 +65,7 @@ metros cuadrados, está sobre el mar, tiene cama con vistas y cuenta con una pis
 ocho metros. Y también tienes disponible la **Rockstar Villa**, con las mismas 
 características y un extra de lujo y exclusividad. 
 
-![Villas sobre el agua en Maldivas](etheria_images/2020/09/hotel-seaside-finolhu-rockstar-suite.jpg "Piscina de la Rockstar Villa.")
+![Villas sobre el agua en Maldivas](etheria-images/2020/09/hotel-seaside-finolhu-rockstar-suite.jpg "Piscina de la Rockstar Villa.")
 
 Las **villas que se ubican sobre la playa** ofrecen la sensación de tener un arenal 
 blanco privado y la sombra de las palmeras sobre las tumbonas no tiene precio. Existen 
@@ -87,7 +87,7 @@ un delicioso buffet a la hora del almuerzo y de la cena. **Kanusan** es el resta
 que ofrece gastronomía asiática y un lugar perfecto para una velada romántica. Además, 
 cuenta con un bar para tomar un aperitivo antes de la cena. 
 
-![Comer en el Crab Shack de Maldivas](etheria_images/2020/09/hotel-seaside-finolhu-crab.jpg "Almuerzo en el Crab Shack.")
+![Comer en el Crab Shack de Maldivas](etheria-images/2020/09/hotel-seaside-finolhu-crab.jpg "Almuerzo en el Crab Shack.")
 
 Si te apetece una cena más informal, **Arabian Grill**, que ofrece todos los aromas y 
 sabores del Magreb, es una elección perfecta. Y, para la hora del almuerzo, puedes 
@@ -104,7 +104,7 @@ Además, el hotel cuenta con distintas opciones para sentirse más mimado si cab
 imaginas comenzar el día en la piscina de tu villa con un desayuno en una bandeja 
 flotante? ¿Y una romántica cena privada en la playa? 
 
-![snacks en las playas de maldivas](etheria_images/2020/09/hotel-seaside-finolhou-snacks.jpg "Furgoneta con snacks en la playa del hotel.")
+![snacks en las playas de maldivas](etheria-images/2020/09/hotel-seaside-finolhou-snacks.jpg "Furgoneta con snacks en la playa del hotel.")
 
 ## Disfruta del fondo del mar: buceo y esnórquel
 
@@ -115,7 +115,7 @@ colores, corales, tortugas marinas… Es el mejor enclave del mundo para ver man
 que acuden sobre todo de mayo a noviembre a la cercana bahía de Hanifaru atraídas por su 
 plancton. 
 
-![Buceo en Maldivas](etheria_images/2020/09/Hotel-seaside-finolhu-peces.jpg "Peces en el atolón Baa.")
+![Buceo en Maldivas](etheria-images/2020/09/Hotel-seaside-finolhu-peces.jpg "Peces en el atolón Baa.")
 
 El **centro de buceo del hotel** (llamado Dive Butler Fonolhu) ofrece actividades en el 
 mar para todos los gustos: las buceadoras más expertas pueden hacer inmersiones 
@@ -127,7 +127,7 @@ También pueden formarte para tu bautismo de buceo, organizar inmersiones noctur
 excursiones en el **Penguin** (una curiosa embarcación semisumergible perfecta para ver 
 el fondo marino sin mojarse) y llevarte a pescar al amanecer. 
 
-![barcos con suelos de cristal en Maldivas](etheria_images/2020/09/hotel-seaside-finolhu-penguin.jpg "Crucero en el Penguin, una embarcación con parte acristalada y sumergida.")
+![barcos con suelos de cristal en Maldivas](etheria-images/2020/09/hotel-seaside-finolhu-penguin.jpg "Crucero en el Penguin, una embarcación con parte acristalada y sumergida.")
 
 El hotel está plenamente comprometido con la defensa del medioambiente y todas las 
 actividades relacionadas con el mar han sido supervisadas por un biólogo marino 
@@ -142,7 +142,7 @@ acuático, motos de agua… Casi cualquier cosa que puedas imaginar para diverti
 las aguas se puede hacer en Maldivas. Y si prefieres cambiar al agua dulce, siempre 
 puedes disfrutar de su preciosa **piscina**. 
 
-![Atardecer en Maldivas desde hotel seaside finolhu.](etheria_images/2020/09/hotel-seaside-finolhou-piscina.jpg "Piscina del hotel Seaside Finolhu.")
+![Atardecer en Maldivas desde hotel seaside finolhu.](etheria-images/2020/09/hotel-seaside-finolhou-piscina.jpg "Piscina del hotel Seaside Finolhu.")
 
 Si quieres conocer más a fondo las islas Maldivas y no quedarte todo el tiempo en el 
 resort, se pueden realizar **excursiones** a las islas habitadas por la población local, 
@@ -150,7 +150,7 @@ un crucero para ver delfines, navegar con biólogos marinos, una jornada en una 
 desierta… ¿Has pensado en pasar la noche en una burbuja transparente en la playa para 
 ver las estrellas? 
 
-![romantica burbuja en la playa de maldivas](etheria_images/2020/09/hotel-seaside-finolhou-burbuja.jpg "Burbuja-habitación para pasar la noche sobre la playa del hotel.")
+![romantica burbuja en la playa de maldivas](etheria-images/2020/09/hotel-seaside-finolhou-burbuja.jpg "Burbuja-habitación para pasar la noche sobre la playa del hotel.")
 
 El hotel cuenta también con **pista de tenis**, gimnasio, sala de yoga y entrenadores 
 personales para que no pierdas la forma y disfrutes haciendo deporte en un lugar tan 
@@ -164,7 +164,7 @@ que ofrece un programa de actividades de lo más completo para que no se aburran
 momento. Incluso pueden cenar en el club mientras tú disfrutas de una cena con adultos 
 en el restaurante que elijas. 
 
-![Burbuja para la Dream Eclipse Experience](etheria_images/2020/09/burbujas-finolhu-maldivas-900x600.jpg "Burbuja para la Dream Eclipse Experience.")
+![Burbuja para la Dream Eclipse Experience](etheria-images/2020/09/burbujas-finolhu-maldivas-900x600.jpg "Burbuja para la Dream Eclipse Experience.")
 
 ### Una experiencia romántica
 

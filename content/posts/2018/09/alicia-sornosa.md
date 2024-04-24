@@ -1,17 +1,17 @@
 ---
 title: "Alicia Sornosa: “Toda aventura empieza con un sí”"
 date: 2018-09-24
-coverImage: etheria_images/2018/09/alicia-sornosa-viajera-etheria-magazine.jpg
+coverImage: etheria-images/2018/09/alicia-sornosa-viajera-etheria-magazine.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Alicia Sornosa, madrileña y periodista, ha dedicado gran parte de su vida al mundo del motor. Su aventura como viajera sobre dos ruedas comenzó en 2011, cuando decidió recorrer el mundo en solitario. Desde su regreso, dos años después, ha recorrido en moto más de 200.000 km (y más de 50 países).
 
-![alicia sornosa viajera etheria viajes moto](etheria_images/2018/09/alicia-sornosa-viajera-etheria-magazine-1024x667.jpg "Alicia Sornosa en su Ducati Scrambler.")
+![alicia sornosa viajera etheria viajes moto](etheria-images/2018/09/alicia-sornosa-viajera-etheria-magazine-1024x667.jpg "Alicia Sornosa en su Ducati Scrambler.")
 
 Embajadora de Ducati Scrambler, **Alicia Sornosa** aprovecha sus viajes para hacer 
 colectas con las que ayudar a pequeñas comunidades que lo necesitan. Su gusto por la 
@@ -36,7 +36,7 @@ llegar a esa isla.
 La sensación de vida y libertad que tengo. Saber que voy a poder ayudar a otros y, 
 además, que voy a aprender un montón de cosas nuevas. 
 
-![alicia sornosa viajera etheria viajes moto](etheria_images/2018/09/alicia-sornosa-Sudan-1024x765.jpg "Alicia Sornosa en una comunidad local en Sudán.")
+![alicia sornosa viajera etheria viajes moto](etheria-images/2018/09/alicia-sornosa-Sudan-1024x765.jpg "Alicia Sornosa en una comunidad local en Sudán.")
 
 ##### 3\. ¿Qué consideras que te han aportado los viajes? ¿Por qué los aconsejarías?
 
@@ -53,7 +53,7 @@ personalidad estoy segura de que viajar va a ser algo intrínseco en ella. Serí
 compañera, con una manera nueva de ver muchas cosas, me gustaría aprender de alguien 
 mucho más joven que yo. 
 
-![alicia sornosa viajera etheria viajes moto](etheria_images/2018/09/alicia-sornosa-nepal-etheria-magazine-1024x645.jpg "La educación no debe faltar en el camino (saludo en Nepal).")
+![alicia sornosa viajera etheria viajes moto](etheria-images/2018/09/alicia-sornosa-nepal-etheria-magazine-1024x645.jpg "La educación no debe faltar en el camino (saludo en Nepal).")
 
 ##### 5\. ¿Sueles planificar con antelación tus viajes o prefieres improvisar
 
@@ -73,7 +73,7 @@ aprendido, llorado y reído. Ha sido el más duro y el más tierno, el más dif�
 que más gente increíble he encontrado. Pero no olvido otros, como Madrid-Tokio, que por 
 motivos muy personales, no puedo olvidar. 
 
-![alicia sornosa viajera etheria viajes moto](etheria_images/2018/09/alicia-sornosa-Etiopia-Lago-Tana-1024x765.jpg "Alicia Sornosa en el lago Tana, de Etiopía.")
+![alicia sornosa viajera etheria viajes moto](etheria-images/2018/09/alicia-sornosa-Etiopia-Lago-Tana-1024x765.jpg "Alicia Sornosa en el lago Tana, de Etiopía.")
 
 ##### 8\. ¿Y tu último viaje? ¿Qué es lo que más y lo que menos te ha gustado de ese destino?
 
@@ -94,7 +94,7 @@ Recomendaría los mismo viajes que a cualquier hombre: **la carretera Austral en
 cerca con sus “carnitas y tacos del Pastor”. Cualquier país asiático es una delicia, 
 como **Tailandia** y su “Pad Thai”, y en **España nuestro jamón ibérico**. 
 
-![alicia sornosa viajera etheria viajes moto](etheria_images/2018/09/alicia-sornosa-viajera-moto-1024x576.jpg "Alicia ha recorrido más de 50 países en moto.")
+![alicia sornosa viajera etheria viajes moto](etheria-images/2018/09/alicia-sornosa-viajera-moto-1024x576.jpg "Alicia ha recorrido más de 50 países en moto.")
 
 ##### 12\. ¿En qué medio de transporte prefieres viajar?
 
@@ -112,7 +112,7 @@ alucinada por su lujo, el servicio y la belleza de la decoración.
 Barra de labios, protección solar, mi portátil y el móvil. Algo para leer, mi libreta y 
 un boli, por si se me ocurre algo, y una batería extra para el móvil. 
 
-![alicia sornosa viajar en moto](etheria_images/2018/09/alicia-sornosa-etiopia-Hawasa-1024x768.jpg "Viaje a Etiopía en moto.")
+![alicia sornosa viajar en moto](etheria-images/2018/09/alicia-sornosa-etiopia-Hawasa-1024x768.jpg "Viaje a Etiopía en moto.")
 
 > 15\. ¿Escribes un listado antes de hacer la maleta? ¿Cuáles son tus cinco 
 > imprescindibles? Sí, lo escribo, soy despistada. Además de unos jeans y varias 

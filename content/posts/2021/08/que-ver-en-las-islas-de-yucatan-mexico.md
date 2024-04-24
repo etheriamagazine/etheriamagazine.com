@@ -1,19 +1,19 @@
 ---
 title: "Cozumel, Holbox e Isla Mujeres, tres islas de Yucatán donde querrás quedarte a vivir"
 date: 2021-08-01
-coverImage: etheria_images/2018/12/mujeres-viajeras-islas-yucatan.jpg
+coverImage: etheria-images/2018/12/mujeres-viajeras-islas-yucatan.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Ana Vara y David Santiago
 ---
 
 Hay tres islas cercanas al litoral de la península de Yucatán bañadas por aguas de un color y una transparencia espectaculares. Isla Cozumel, isla Mujeres e isla Holbox invitan a bucear, pasear por sus playas y descubrir sus arrecifes. Desde Etheria Magazine te animamos a conocerlas con amigas, sola, en pareja o con toda la familia.
 
-![viaje mujeres en holbox, viajes yucatan, mujeres viajeras](etheria_images/2018/12/Mujeres-viajeras-Yucatan-1024x678.jpg "Relax en la isla de Holbox.")
+![viaje mujeres en holbox, viajes yucatan, mujeres viajeras](etheria-images/2018/12/Mujeres-viajeras-Yucatan-1024x678.jpg "Relax en la isla de Holbox.")
 
 ## Qué ver en Isla Cozumel
 
@@ -30,7 +30,7 @@ preferida, la golondrina, por eso la llamaron isla Cuzamil, ‘el lugar de las
 golondrinas’. Pero la belleza de Cozumel no solo está en el cielo, sino también en el 
 mar. 
 
-![playas de cozumel, tortugas marinas en yucatan](etheria_images/2018/12/viajes-yucatan-mujeres-tortugas-1024x726.jpg "Playas infinitas y tortugas marinas forman parte del paisaje de Cozumel.")
+![playas de cozumel, tortugas marinas en yucatan](etheria-images/2018/12/viajes-yucatan-mujeres-tortugas-1024x726.jpg "Playas infinitas y tortugas marinas forman parte del paisaje de Cozumel.")
 
 El oceanógrafo y buzo francés Jacques-Yves Cousteau dijo que este era **el lugar más 
 impresionante para bucear**, así que sin poner en duda la palabra del más conocido 
@@ -40,7 +40,7 @@ inmersiones, desde las playas podemos zambullirnos en aguas cálidas y someras, 
 entre grandes esponjas, estrellas de mar, espectaculares gorgonias y corales, siempre 
 rodeados de peces multicolores y, en ocasiones, de simpáticas tortugas. 
 
-![playas del caribe, isla mujeres para mujeres, viaje a yucatan](etheria_images/2018/12/mujeres-viajeras-islas-yucatan-1024x683.jpg "La diversión está asegurada en Isla Mujeres.")
+![playas del caribe, isla mujeres para mujeres, viaje a yucatan](etheria-images/2018/12/mujeres-viajeras-islas-yucatan-1024x683.jpg "La diversión está asegurada en Isla Mujeres.")
 
 ## Qué hacer en Isla Mujeres
 
@@ -49,7 +49,7 @@ dominios del Golfo de México, constituye el límite norteño de los corales del
 que a partir de aquí empiezan a disminuir. Las **playas de arena blanca** se mezclan con 
 las aguas turquesas. Y bajo el mar la fauna marina nos regala todo su colorido. 
 
-![museo submarino de cancun, viajes para mujeres a mexico](etheria_images/2018/12/Mujeres-viajeras-Yucatan-museo-submarino-1024x768.jpg "Museo Subacuático de Arte en Cancún (MUSA).")
+![museo submarino de cancun, viajes para mujeres a mexico](etheria-images/2018/12/Mujeres-viajeras-Yucatan-museo-submarino-1024x768.jpg "Museo Subacuático de Arte en Cancún (MUSA).")
 
 Embarco en una pequeña lancha con Manuel, que hace de capitán, de guía y de instructor 
 bajo el agua a la vez. ‘Nos dirigimos a la **Cueva de los Tiburones Dormidos**’ – me 
@@ -71,7 +71,7 @@ Museo Atlántico de [Lanzarote](https://etheriamagazine.com/2018/10/03/lanzarote
 > los habitantes de un pueblo maya, conviven en simbiosis con la naturaleza. Parece emular 
 > la misteriosa historia de la Atlántida de Platón. 
 
-![playas de holbox, mujeres en la playa](etheria_images/2018/12/que-ver-en-yucatan-1024x683.jpg "Las cristalinas aguas de Holbox son una invitación constante al baño.")
+![playas de holbox, mujeres en la playa](etheria-images/2018/12/que-ver-en-yucatan-1024x683.jpg "Las cristalinas aguas de Holbox son una invitación constante al baño.")
 
 ## Isla Holbox, sin coches ni zapatos
 
@@ -88,7 +88,7 @@ de arte.
 > El turismo no ha desnaturalizado el carácter de esta pequeña isla, al menos hasta 
 > ahora…. 
 
-![viajes a yucatan, gaviotas en holbox](etheria_images/2018/12/yucatan-viajes-mexico-1024x683.jpg "Las gaviotas forman parte del paisaje en Holbox (Yucatán, México).")
+![viajes a yucatan, gaviotas en holbox](etheria-images/2018/12/yucatan-viajes-mexico-1024x683.jpg "Las gaviotas forman parte del paisaje en Holbox (Yucatán, México).")
 
 Paseo por una de sus playas infinitas. Las aguas están tranquilas y una galaxia de 
 conchas de todas las formas y colores aparece en cada uno de mis pasos. Sobre mi cabeza 

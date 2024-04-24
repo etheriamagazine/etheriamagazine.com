@@ -1,18 +1,18 @@
 ---
 title: "Canteras de Hontoria, Cubillo y Tornadijo, una visita a los orígenes de la Catedral de Burgos"
 date: 2021-08-30
-coverImage: etheria_images/2021/08/cantera-hontoria-catedral-3.jpg
+coverImage: etheria-images/2021/08/cantera-hontoria-catedral-3.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Desde las canteras de Hontoria, Cubillo y Tornadijo hasta la Catedral de Burgos, te proponemos un recorrido desde la oscuridad de las entrañas de la tierra hasta la cegadora luz de uno de los mayores representantes del gótico en España. Celebra el aniversario de la Catedral de Burgos realizando un viaje de 800 años en un trayecto de apenas 20 kilómetros.
 
-![galeria la catedral cantera de hontoria](etheria_images/2021/08/cantera-hontoria-catedral-3.jpg "Visitantes en la galería La Catedral. © Pepa García")
+![galeria la catedral cantera de hontoria](etheria-images/2021/08/cantera-hontoria-catedral-3.jpg "Visitantes en la galería La Catedral. © Pepa García")
 
 Te has preguntado alguna vez de dónde sale la piedra necesaria para construir los 
 grandes templos y otras construcciones que salpican nuestra geografía? Canteras como la 
@@ -38,7 +38,7 @@ promoción](https://www.facebook.com/watch/?v=301151017497261) de Turismo de Bur
 Todos ellos sitúan sus relatos en la particular atmósfera de estas canteras. Pero este 
 lugar es mucho más que un plató de rodaje. 
 
-![Fotograma del videoclip de Conchita.](etheria_images/2021/08/fotograma-video-conchita.jpg "© Fotograma del videoclip de Conchita.")
+![Fotograma del videoclip de Conchita.](etheria-images/2021/08/fotograma-video-conchita.jpg "© Fotograma del videoclip de Conchita.")
 
 #### Más de 300 monumentos han sido realizados con la piedra de estas canteras
 
@@ -61,7 +61,7 @@ cálcico) incluso lucirá próximamente en China, donde se están enviando bloqu
 m3) para construir [la mayor escultura de 
 Quanzhou.](https://www.diariodeburgos.es/Noticia/Z1CCC4F07-BF75-B3EC-927B6752329A59E5/202108/Piedra-de-Hontoria-para-construir-monumentos-en-China) 
 
-![galeria la catedral hontoria de la catedral](etheria_images/2021/08/cantera-hontoria-catedral-salida.jpg "Entrada de la galería La Catedral. © Pepa García")
+![galeria la catedral hontoria de la catedral](etheria-images/2021/08/cantera-hontoria-catedral-salida.jpg "Entrada de la galería La Catedral. © Pepa García")
 
 ## Galería La Catedral
 
@@ -81,7 +81,7 @@ pesados camiones.
 
 ##### "La clausura militar definitiva tuvo lugar en 1994, a partir de ahí, vandalismo e, incluso, se comenta que rituales satánicos... pero, por suerte, ha sido recuperada y admite visitas"
 
-![sombras galeria la catedral burgos](etheria_images/2021/08/cantera-hontoria-catedral-4.jpg "Sombras chinescas en la galería La Catedral. © P.G.")
+![sombras galeria la catedral burgos](etheria-images/2021/08/cantera-hontoria-catedral-4.jpg "Sombras chinescas en la galería La Catedral. © P.G.")
 
 Mientras el guía alumbra vetas con su linterna, incide en el valor de la piedra 
 inmaculada, motivo por el cual es más frecuente ver en las paredes la de tonos 
@@ -98,7 +98,7 @@ La salida al exterior devuelve al cuerpo la temperatura robada en el interior, y
 unos instantes al sol, comienza la segunda parte de la aventura. Es necesario recorrer 
 en coche los pocos kilómetros que distan hasta la Galería El Pozo. 
 
-![grua galeria el pozo canteras de hontoria-](etheria_images/2021/08/grua-galeria-el-pozo.jpg "Grúa situada en la galería de El Pozo. © Pepa García")
+![grua galeria el pozo canteras de hontoria-](etheria-images/2021/08/grua-galeria-el-pozo.jpg "Grúa situada en la galería de El Pozo. © Pepa García")
 
 ## Galería El Pozo
 
@@ -116,7 +116,7 @@ piquetas. No es tan fácil como parece pero desestresa bastante. Si la visita en
 Galería La Catedral se centraba en los datos históricos, ésta permite conocer los 
 fundamentos de las antiguas explotaciones y su evolución. 
 
-![actividades familia en canteras de burgos](etheria_images/2021/08/cantera-hontoria-el-pozo3.jpg "Los visitantes pueden probar las herramientas de los canteros. © P.García")
+![actividades familia en canteras de burgos](etheria-images/2021/08/cantera-hontoria-el-pozo3.jpg "Los visitantes pueden probar las herramientas de los canteros. © P.García")
 
 Pero no sólo los canteros trabajaban en el interior de este tipo de canteras, también se 
 desplazaban hasta allí algunos escultores que aprovechaban la humedad de la glera para 
@@ -127,7 +127,7 @@ de sombras, estalactitas y banderolas. No podría haber mejor _photocall_ de des
 > todo corales, algas y alguna concha de vieira que atestiguan el pasado marino de estas 
 > capas. 
 
-![galeria el pozo cantera de hontoria](etheria_images/2021/08/cantera-hontoria-el-pozo-salida.jpg "Galería El Pozo. © Pepa García")
+![galeria el pozo cantera de hontoria](etheria-images/2021/08/cantera-hontoria-el-pozo-salida.jpg "Galería El Pozo. © Pepa García")
 
 ##### Ruta turística por las poblaciones cercanas
 
@@ -141,7 +141,7 @@ la puerta de Santa María, la Casa del Cordón, la iglesia de Nuestra Señora de
 el Hospital del Rey, y, por supuesto, el monasterio de las Huelgas y la Catedral de 
 Santa María de Burgos. 
 
-![respiradero galeria el pozo hontoria](etheria_images/2021/08/galeria-el-pozo-683x1024.jpg "Respiradero de la galería El Pozo, en las canteras de Hontoria, Cubillo y Tornadijo. © Pepa García")
+![respiradero galeria el pozo hontoria](etheria-images/2021/08/galeria-el-pozo-683x1024.jpg "Respiradero de la galería El Pozo, en las canteras de Hontoria, Cubillo y Tornadijo. © Pepa García")
 
 ## Catedral de Burgos, una joya gótica con 800 años
 
@@ -153,7 +153,7 @@ en eso hay que darles la razón porque este templo gótico si hay algo que trans
 luz, una luz que se multiplica gracias a su piedra, sus elevadas dimensiones, y sus 
 bellas vidrieras. 
 
-![mirador de la catedral de burgos](etheria_images/2021/08/mirador-catedral-burgos.jpg "Catedral desde el mirador del castillo. © Pepa G.")
+![mirador de la catedral de burgos](etheria-images/2021/08/mirador-catedral-burgos.jpg "Catedral desde el mirador del castillo. © Pepa G.")
 
 Ha pasado mucho tiempo, ocho siglos exactamente (consulta los eventos por su [VIII 
 centenario](https://www.catedraldeburgos2021.es/)), desde que el obispo Mauricio pusiera 
@@ -165,7 +165,7 @@ detalle, de sus muchas capillas, esculturas y simbología. Las paradas obligadas
 tienes descritas en la app de la catedral que funciona como una completa audioguía 
 gratuita. 
 
-![catedral de burgos](etheria_images/2021/08/catedral-burgos-5.jpg "Catedral de Burgos. © Pepa García")
+![catedral de burgos](etheria-images/2021/08/catedral-burgos-5.jpg "Catedral de Burgos. © Pepa García")
 
 ##### Qué ver en una visita corta a la Catedral de Burgos
 
@@ -176,7 +176,7 @@ el claustro alto, el coro, el retablo Mayor, la sala Capitular y nuestra favorit
 con interesantes exposiciones. En la catedral hay dos cosas aseguradas: la sorpresa ante 
 tanta perfección y el dolor de cuello por tratar de admirar sus altísimas bóvedas. 
 
-![cimborrio catedral de burgos](etheria_images/2021/08/catedral-burgos-2.jpg "Cimborrio de la Catedral de Burgos. © P.G.")
+![cimborrio catedral de burgos](etheria-images/2021/08/catedral-burgos-2.jpg "Cimborrio de la Catedral de Burgos. © P.G.")
 
 Si te interesa conocer la catedral en profundidad, te recomendamos reservar una visita 
 guiada. Y si ya quieres llevar hechos los deberes, este programa de RNE ([Ocho siglos de 
@@ -194,7 +194,7 @@ Maps](https://www.google.com/maps/dir//Patrimonio+de+la+Luz+Conjunto+Monumental+
 ? Recomendaciones en el interior de las canteras de Hontoria, Cubillo y Tornadijo: ropa 
 de abrigo y calzado deportivo. 
 
-![escalera dorada catedral de burgos](etheria_images/2021/08/catedral-burgos-escaleras.jpg "Escalera dorada de la Catedral de Burgos. © Pepa García")
+![escalera dorada catedral de burgos](etheria-images/2021/08/catedral-burgos-escaleras.jpg "Escalera dorada de la Catedral de Burgos. © Pepa García")
 
 ##### Visitas a la Catedral de Burgos
 

@@ -1,18 +1,18 @@
 ---
 title: "Desiertos de película y pinchos “de cine”: una ruta por las Bardenas Reales y Tudela"
 date: 2020-07-27
-coverImage: etheria_images/2020/07/bardenas-paisaje.jpg
+coverImage: etheria-images/2020/07/bardenas-paisaje.jpg
 categories: 
   - viajes-con-amigas
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
-  - Vanesa
+authors: 
+  - Vanesa Viñolo
 ---
 
 Viñedos centenarios. Una huerta inmejorable que te hará amar el verde. El placer de dormir en una burbuja en medio de un desierto de película o disfrutar de la mejor ruta de pinchos. Son solo algunos de los secretos que esconde la Ribera de Navarra, una región asombrosa que seguro te sorprenderá y que es perfecta para un viaje en coche con amigas.
 
-![Bardenas Reales, viajes a Navarra, escapadas por España](etheria_images/2020/07/bardenas-ruta-900x600.jpg "Bardenas Reales © Marco de Luca")
+![Bardenas Reales, viajes a Navarra, escapadas por España](etheria-images/2020/07/bardenas-ruta-900x600.jpg "Bardenas Reales © Marco de Luca")
 
 Las Bardenas Reales ofrecen otra cara de Navarra. Frente al verde y las nieves eternas 
 de sus Pirineos, la Navarra del Sur esconde joyas como este **Parque Nacional Reserva de 
@@ -32,7 +32,7 @@ contra los árabes. Tierra de ganaderos, lugar excepcional para la trashumancia,
 los años 50 también se cultiva principalmente arroz y cereales, lo que hace que en 
 primavera se llene del color, primero verde y luego oro, en sus campos de cultivo. 
 
-![Bardenas Reales, viajes a Navarra, escapadas por España](etheria_images/2020/07/bardenas-desierto-900x602.jpg "Árido paisaje de las Bardenas Reales.")
+![Bardenas Reales, viajes a Navarra, escapadas por España](etheria-images/2020/07/bardenas-desierto-900x602.jpg "Árido paisaje de las Bardenas Reales.")
 
 ## Ruta por las Bardenas Reales
 
@@ -45,7 +45,7 @@ pie, en bicicleta de montaña o a motor). Yo comencé mi recorrido en el **Mirad
 Blanca**, desde donde puedes llevarte una imagen general del Parque, para después 
 acercarme hasta **Castildeterra**, quizá la formación más reconocible de Las Bardenas. 
 
-![Bardenas Reales, viajes a Navarra, escapadas por España](etheria_images/2020/07/bardenas-monticulo-900x602.jpg "Castildeterra en las Bardenas Reales.")
+![Bardenas Reales, viajes a Navarra, escapadas por España](etheria-images/2020/07/bardenas-monticulo-900x602.jpg "Castildeterra en las Bardenas Reales.")
 
 Castildeterra es un “cabezo” impresionante que representa la esencia de estas tierras 
 que, en su día, formaban parte del Mediterráneo. Porque sí, aunque parezca imposible, 
@@ -57,7 +57,7 @@ Muy cerca se encuentra el **embalse de las Cortinas**, donde poder disfrutar de 
 espectacular variedad de aves con la que cuenta esta Reserva de la Biosfera. Hay muchas 
 más opciones, lo mejor es preguntar y adaptar la ruta a nuestras preferencias y tiempos. 
 
-![Bardenas Reales, viajes a Navarra, escapadas por España](etheria_images/2020/07/Bardenas-aires-de-bardenas-burbuja-900x600.jpg "Habitación-burbuja para ver las estrellas en el hotel Aire de Bardenas.")
+![Bardenas Reales, viajes a Navarra, escapadas por España](etheria-images/2020/07/Bardenas-aires-de-bardenas-burbuja-900x600.jpg "Habitación-burbuja para ver las estrellas en el hotel Aire de Bardenas.")
 
 #### Hotel Aire de Bardenas
 
@@ -76,7 +76,7 @@ prensa internacional, escogidos entre las escapadas más selectas. Ofrecen mucha
 actividades, cuentan con su propio restaurante y, en fin, te lo van a poner muy muy 
 fácil para que tu alojamiento sea inolvidable. 
 
-![Bardenas Reales, viajes a Navarra, escapadas por España](etheria_images/2020/07/Tudela-alcachofas-900x600.jpg "Alcachofas de Navarra.")
+![Bardenas Reales, viajes a Navarra, escapadas por España](etheria-images/2020/07/Tudela-alcachofas-900x600.jpg "Alcachofas de Navarra.")
 
 ## Tudela, de la alcachofa más 'gourmet' al origen de la expresión 'tirar de la manta'
 
@@ -95,7 +95,7 @@ retorcidas y pasadizos para descubrir casas nobles y palacios como el del Marqu�
 Adrián (XVI), el del Marqués de Huarte (siglo XVIII), el Centro Cultural Castel Ruiz 
 (XVII), o el museo Muñoz Sola de Arte Moderno. 
 
-![Tudela, viajes a Navarra, escapadas por España](etheria_images/2020/07/Tudela-catedral-900x600.jpg "Catedral de Santa María de Tudela. © Blanca Aldanondo Otamendi")
+![Tudela, viajes a Navarra, escapadas por España](etheria-images/2020/07/Tudela-catedral-900x600.jpg "Catedral de Santa María de Tudela. © Blanca Aldanondo Otamendi")
 
 Pero, sin duda, la joya de la ciudad es la **catedral de Santa María**. Construida hacia 
 1180 sobre los restos de una antigua mezquita, es monumento nacional desde 1884, y 
@@ -115,7 +115,7 @@ todo queda en un pintoresco dicho y una anécdota que contar durante la visita, 
 desde una de sus atalayas toda la belleza de la ciudad. La **Torre Monreal** es la 
 primera cámara oscura de Navarra y desde ella se ofrece una panorámica espectacular. 
 
-![Tudela, viajes a Navarra, escapadas por España](etheria_images/2020/07/Tudela-verduras-900x600.jpg "Verduras de Navarra. © Blanca Aldanondo Otamendi")
+![Tudela, viajes a Navarra, escapadas por España](etheria-images/2020/07/Tudela-verduras-900x600.jpg "Verduras de Navarra. © Blanca Aldanondo Otamendi")
 
 ## Ruta de pinchos en Tudela
 
@@ -150,7 +150,7 @@ bien en sus gildas. Otras buenas opciones son el **Moncayo 2**, con sus pinchos 
 o el **Sua**, con pinchos más creativos, como su penca en tempura con emulsión de 
 borraja. 
 
-![Tudela, viajes a Navarra, escapadas por España](etheria_images/2020/07/bardenas-esparragos-al-natural-900x718.jpg "Espárragos al natural, alimento con DO Navarra.")
+![Tudela, viajes a Navarra, escapadas por España](etheria-images/2020/07/bardenas-esparragos-al-natural-900x718.jpg "Espárragos al natural, alimento con DO Navarra.")
 
 Y si ya lo que te apetece es comer con mesa y mantel, te recomiendo [Casa 
 Lola](https://restaurantecasalola.es), un asador estupendo cuyo chuletón ganó el 
@@ -166,7 +166,7 @@ Para terminar esta **escapada foodie-cultural por Navarra** os propongo un poco 
 enoturismo. Y es que, después de haber disfrutado de sus vinos en la ruta de pinchos, 
 ¿cómo no conocer el origen de alguno de ellos? 
 
-![Vinos navarros, viajes a Navarra, escapadas por España](etheria_images/2020/07/navarra-bodegas-pago-cirsus-900x600.jpg "Viñedos de © Pago de Cirsus")
+![Vinos navarros, viajes a Navarra, escapadas por España](etheria-images/2020/07/navarra-bodegas-pago-cirsus-900x600.jpg "Viñedos de © Pago de Cirsus")
 
 Esta zona, conocida como la Ribera Baja, cuenta con una interesantísima red de [bodegas 
 visitables](https://www.navarrawine.com/guia/guia-de-bodegas-y-vinos/bodegas/1). Allí os 
@@ -185,7 +185,7 @@ minutos en coche, encontraréis otra zona muy interesante de viñas y bodegas, e
 Corella y Cintruéñigo, con [Gran Feudo](https://granfeudo.com), [Viña 
 Zorzal](https://vinazorzalwines.com), [Dominio Lasierpe](http://dominiolasierpe.com)… 
 
-![Vinos navarros, viajes a Navarra, escapadas por España](etheria_images/2020/07/vinedos-malon-echaide-900x599.jpg "© Bodega Malón de Echaide.")
+![Vinos navarros, viajes a Navarra, escapadas por España](etheria-images/2020/07/vinedos-malon-echaide-900x599.jpg "© Bodega Malón de Echaide.")
 
 Allí, donde nacen, es el mejor lugar para probar, por ejemplo, sus excelentes blancos 
 –sus chardonnay tienen fama mundial–, sus reconocidos rosados “de lágrima”, elaborados 

@@ -1,11 +1,11 @@
 ---
 title: "Ruta del Atún Rojo de Cádiz, de Conil a Tarifa por la orilla del mar"
 date: 2018-06-12
-coverImage: etheria_images/2018/06/tartar-ruta-del-atun.jpg
+coverImage: etheria-images/2018/06/tartar-ruta-del-atun.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 La Ruta del Atún Rojo de Cádiz es un itinerario esencial para los amantes de la buena 
@@ -14,7 +14,7 @@ estrecho de Gibraltar camino del Mediterráneo. Este año, entre abril y junio, 
 la Ruta del Atún en Conil, Barbate, Zahara de los Atunes y Tarifa, una buena ocasión 
 para degustar atún rojo y para hacer las visitas que te recomendamos en este artículo. 
 
-![Petri Benitez, chef de la Venta Melchor, un restaurante básico en la Ruta del Atún Conil](etheria_images/2018/06/Petri-benitez-venta-melchor-ruta-del-atun-conil-e1649843656194.jpg "Petri Benitez, chef de Venta Melchor, es una experta en atún rojo. © Pepa García")
+![Petri Benitez, chef de la Venta Melchor, un restaurante básico en la Ruta del Atún Conil](etheria-images/2018/06/Petri-benitez-venta-melchor-ruta-del-atun-conil-e1649843656194.jpg "Petri Benitez, chef de Venta Melchor, es una experta en atún rojo. © Pepa García")
 
 Desde hace más de tres mil años, los atunes rojos (_Thunnus thynnus_) son esperados por 
 los almadraberos con gran excitación. La migración de estos grandes túnidos desde el 
@@ -29,7 +29,7 @@ peregrinaje del atún. Partimos de Conil de la Frontera y, tras pasar por Barbat
 Zahara de los Atunes, finalizamos en Tarifa. Estas cuatro poblaciones almadraberas 
 ofrecen una interesante propuesta conjunta para los viajeros gourmets. 
 
-![Atardecer en la playa de la Fontanilla en Conil de la Frontera](etheria_images/2018/06/atardecer-conil-ruta-del-atun-e1649843712878.jpg "Cada atardecer ofrece una gama de colores única e irrepetible en el litoral. © Pepa García")
+![Atardecer en la playa de la Fontanilla en Conil de la Frontera](etheria-images/2018/06/atardecer-conil-ruta-del-atun-e1649843712878.jpg "Cada atardecer ofrece una gama de colores única e irrepetible en el litoral. © Pepa García")
 
 ## 1\. Conil de la Frontera, punto de partida de la Ruta del Atún Rojo
 
@@ -66,7 +66,7 @@ desapercibido pero donde se degusta excelente pescado y paellas.
 ?No te pierdas: [Descubre las 15 mejores playas y calas de Conil (cómo llegar y fotos de 
 todas)](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/). 
 
-![Cocina de Casa Francisco, en Conil de la Frontera](etheria_images/2018/06/casa-francisco-ruta-del-atun-conil-e1649843735505.jpg "Casa Francisco La Fontanilla dispone de una amplia carta de atún durante todo el año.")
+![Cocina de Casa Francisco, en Conil de la Frontera](etheria-images/2018/06/casa-francisco-ruta-del-atun-conil-e1649843735505.jpg "Casa Francisco La Fontanilla dispone de una amplia carta de atún durante todo el año.")
 
 Sashimi, tartar, tataki, carpacio, ventresca... y otros muchos platos se pueden 
 encontrar en los restaurantes de Conil (algunos de referencia son **Casa Francisco**, 
@@ -92,7 +92,7 @@ una finca dedicada al turismo rural. Y, justo antes de llegar a la población, a
 para darte un baño en la playa de la Yerbabuena, rodeada de dunas y vegetación de 
 litoral. 
 
-![La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate](etheria_images/2018/06/playa-yerbabuena-barbate-ruta-del-atun-1024x682.jpg "Playa de la Yerbabuena, en el Parque Natural Marismas del Barbate.")
+![La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate](etheria-images/2018/06/playa-yerbabuena-barbate-ruta-del-atun-1024x682.jpg "Playa de la Yerbabuena, en el Parque Natural Marismas del Barbate.")
 
 ### De la playa a la conservera
 
@@ -105,7 +105,7 @@ Chanca**). Una visita guiada en la **empresa Herpac** (con 'ronqueo' o despiece
 incluido) terminará de desvelarte los secretos de los túnidos. En este polígono venden 
 al público final así que no dejes de adquirir la riquísima mojama de Barbate. 
 
-![Empleado de Herpac cortando atún](etheria_images/2018/06/conservas-herpac-barbate-ruta-del-atun-894x1024.jpg "La empresa Herpac organiza visitas guiadas a sus instalaciones en Barbate. © Pepa García")
+![Empleado de Herpac cortando atún](etheria-images/2018/06/conservas-herpac-barbate-ruta-del-atun-894x1024.jpg "La empresa Herpac organiza visitas guiadas a sus instalaciones en Barbate. © Pepa García")
 
 ? Entre los establecimientos que incluyen el atún en su carta destaca el afamado 
 restaurante El Campero (reserva con antelación) que ofrece una cocina enraizada con la 
@@ -123,7 +123,7 @@ también, la fotografía de un atún de unos 800 kg junto a un pescador al que t
 altura. Otro reputado local es el **Restaurante Antonio**, donde puedes probar sus 
 _delicatessen_ en pequeñas porciones. 
 
-![Zahara de los Atunes ruta del atún](etheria_images/2018/06/playa-de-zahara-de-los-atunes-ruta-del-atun-1024x682.jpg "Barcas en la arena en Zahara de los Atunes.")
+![Zahara de los Atunes ruta del atún](etheria-images/2018/06/playa-de-zahara-de-los-atunes-ruta-del-atun-1024x682.jpg "Barcas en la arena en Zahara de los Atunes.")
 
 Sus playas de aguas color azul-turquesa y la buena infraestructura turística (hoteles, 
 urbanizaciones de apartamentos y restaurantes) atraen cada verano a miles de viajeros 
@@ -138,7 +138,7 @@ rojo. Antes de llegar al municipio es conveniente que realices dos paradas en el
 estrellas son los profesionales del _kitesurfing_ (un deporte que, junto al _surf_ y al 
 _windsurf_, también se practica en la playa de Los Lances). 
 
-![Ruinas de Baelo Claudia ruta del atún tarifa](etheria_images/2018/06/ruina-de-baelo-claudia-tarifa-ruta-del-atun-1024x683.jpg "Baelo Claudia se encuentra junto a la playa de Bolonia.")
+![Ruinas de Baelo Claudia ruta del atún tarifa](etheria-images/2018/06/ruina-de-baelo-claudia-tarifa-ruta-del-atun-1024x683.jpg "Baelo Claudia se encuentra junto a la playa de Bolonia.")
 
 ### La ciudad romana de Baelo Claudia
 
@@ -155,7 +155,7 @@ las vísceras de este pez, entre otros elementos) a las colonias romanas.
 ?No te pierdas la [mejor guía para visitar Baelo 
 Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
 
-![Vista de Tarifa desde el castillo de Guzmán el Bueno](etheria_images/2020/06/tarifa-pueblo-900x611.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
+![Vista de Tarifa desde el castillo de Guzmán el Bueno](etheria-images/2020/06/tarifa-pueblo-900x611.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
 
 ### Un paseo por Tarifa
 

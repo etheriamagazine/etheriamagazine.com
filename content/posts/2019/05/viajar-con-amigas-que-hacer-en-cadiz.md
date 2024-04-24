@@ -1,12 +1,12 @@
 ---
 title: "Cádiz, tras las huellas de su legado andalusí"
 date: 2019-05-20
-coverImage: etheria_images/2019/05/viaje-cadiz-mujer-tapada-vejer.jpg
+coverImage: etheria-images/2019/05/viaje-cadiz-mujer-tapada-vejer.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Has leído ‘Cádiz’ y te han venido a la mente sus enormes playas, sus coquetos pueblos 
@@ -15,7 +15,7 @@ Ruibal. Necesitar no necesitamos mucho más para querer volver a la antigua _Yaz
 Qadis_, pero existe otro motivo más para escaparnos: descubrir su romántica faceta 
 andalusí. 
 
-![casas blancas de vejer de la frontera](etheria_images/2019/05/viaje-cadiz-pueblo-blanco.jpg "Vejer de la Frontera es uno de los pueblos con más encanto de Cádiz. © K.R.")
+![casas blancas de vejer de la frontera](etheria-images/2019/05/viaje-cadiz-pueblo-blanco.jpg "Vejer de la Frontera es uno de los pueblos con más encanto de Cádiz. © K.R.")
 
 Si hay una cuestión que los gaditanos saben es que los pequeños placeres se disfrutan 
 con pausa, a ralentí, como en una bulería por soleá. Contemplando un atardecer en **La 
@@ -30,7 +30,7 @@ contamos qué hacer en Cádiz para pasar unos días de lujo.
 visitas de interés (con mapa 
 incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
 
-![edificios de Cádiz](etheria_images/2019/05/viaje-cadiz-ayuntamiento.jpg "Los fenicios fundaron hace tres mil años Gadir (Cádiz), la ciudad más antigua de occidente. © Turismo Ayto. Cádiz")
+![edificios de Cádiz](etheria-images/2019/05/viaje-cadiz-ayuntamiento.jpg "Los fenicios fundaron hace tres mil años Gadir (Cádiz), la ciudad más antigua de occidente. © Turismo Ayto. Cádiz")
 
 ## El Pópulo
 
@@ -42,7 +42,7 @@ suelo único, ¡el de la plaza en la que se encuentra! La de **Fray Félix**, es
 diferente a las demás por su pavimento, formado con el auténtico lastre de los galeones 
 que regresaban del Nuevo Mundo. 
 
-![plaza típica de Cádiz](etheria_images/2019/05/viaje-cadiz-fray-felix.jpg "La plaza de Fray Félix se sitúa en un discreto rincón de la capital. © Manuel Fernández")
+![plaza típica de Cádiz](etheria-images/2019/05/viaje-cadiz-fray-felix.jpg "La plaza de Fray Félix se sitúa en un discreto rincón de la capital. © Manuel Fernández")
 
 Ignoremos la **Catedral** por un momento —la identificarás por su enorme cúpula 
 amarilla— y el icónico _skyline_ costero de la ciudad. Nos dirigimos hacia los arcos de 
@@ -51,7 +51,7 @@ la muralla medieval para conocer un curioso detalle.
 > Cuando pensábamos que la muralla fue elevada tras la Reconquista, descubrimos que fueron 
 > los musulmanes quienes comenzaron a construirla. 
 
-![ruinas romanas de Cádiz](etheria_images/2019/05/viaje-cadiz-teatro-romano.jpg "El Teatro Romano de Cádiz es uno de los más grandes y antiguos de la Península ibérica. © Juan de Dios Borrego")
+![ruinas romanas de Cádiz](etheria-images/2019/05/viaje-cadiz-teatro-romano.jpg "El Teatro Romano de Cádiz es uno de los más grandes y antiguos de la Península ibérica. © Juan de Dios Borrego")
 
 Mientras los objetivos de las cámaras se dirigen al Teatro Romano, añadimos a la lista 
 de hallazgos andalusíes **el capitel califal y las vasijas almohades** que aparecieron a 
@@ -70,7 +70,7 @@ manjar, sigue nuestra particular ruta del atún rojo por toda la provincia.
 ✅ [Ruta del Atún Rojo de Cádiz, de Conil a Tarifa por la orilla del 
 mar](https://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/). 
 
-![tartar de atún en Cádiz](etheria_images/2019/05/viaje-cadiz-atun-rojo.jpg "El atún rojo de almadraba es el producto estrella en la cocina gaditana. © Taberna La Sorpresa")
+![tartar de atún en Cádiz](etheria-images/2019/05/viaje-cadiz-atun-rojo.jpg "El atún rojo de almadraba es el producto estrella en la cocina gaditana. © Taberna La Sorpresa")
 
 El aroma a té de hierbabuena fluye entre el vapor de **las cachimbas de El Oasis**, una 
 pequeña tetería árabe que cada viernes celebra su espectáculo de danza oriental. 
@@ -83,7 +83,7 @@ tenemos constancia gracias a unos planos del siglo XV. El Parador Nacional de C�
 controvertida pérgola del **Parque Genovés** enmarcan este punto de la ciudad con aires 
 vanguardistas. 
 
-![puesta de sol en Cádiz](etheria_images/2019/05/viaje-cadiz-baluarte-santa-catalina.jpg "Atardecer desde el Castillo de Santa Catalina. © Manuel Fernández")
+![puesta de sol en Cádiz](etheria-images/2019/05/viaje-cadiz-baluarte-santa-catalina.jpg "Atardecer desde el Castillo de Santa Catalina. © Manuel Fernández")
 
 ## Exótica gastronomía
 
@@ -91,7 +91,7 @@ Seguramente no necesitemos visitar un antiguo granero del siglo XVI para disfrut
 buen cuscús e introducirnos en la fascinante cocina árabe, pero el universo culinario de 
 El Jardín del Califa, en Vejer de la Frontera, nos seduce con su evocador espacio. 
 
-![hotel restaurante el Califa de Vejer](etheria_images/2019/05/viaje-cadiz-vejer-califa.jpg "El Jardín del Califa es el mayor exponente de la gastronomía árabe en la provincia. © K.R.")
+![hotel restaurante el Califa de Vejer](etheria-images/2019/05/viaje-cadiz-vejer-califa.jpg "El Jardín del Califa es el mayor exponente de la gastronomía árabe en la provincia. © K.R.")
 
 Su romántico jardín y un aljibe del siglo XII nos introducen en las esencias del Magreb: 
 gustosos tajines —guisos a fuego lento en cazuela de barro—, especiados maglubas 
@@ -102,7 +102,7 @@ rescatan la frescura de la costa gaditana.
 > Endúlzate con los backlavas, unos bocados de miel, hojaldre y pistachos, y atrévete con 
 > los chapakiyas, los pestiños árabes con ajonjolí y forma de flor. 
 
-![cous cous en Vejer](etheria_images/2019/05/viaje-cadiz-cuscus.jpg "El delicioso cuscús agridulce de El Jardín del Califa.")
+![cous cous en Vejer](etheria-images/2019/05/viaje-cadiz-cuscus.jpg "El delicioso cuscús agridulce de El Jardín del Califa.")
 
 Descubrimos los bocados árabes con un punto innovador del restaurante **Alboronía**, en 
 **Jerez de la Frontera**. No te pierdas su ternera Baharat, la última especialidad de su 
@@ -122,7 +122,7 @@ Al-Andalus.
 
 > A pesar de sus orígenes bélicos, la belleza del itinerario es incontestable. 
 
-![África desde Tarifa](etheria_images/2019/05/viaje-cadiz-que-ver-tarofa.jpg "El punto más meridional de la península ibérica se encuentra en Tarifa. © K.R.")
+![África desde Tarifa](etheria-images/2019/05/viaje-cadiz-que-ver-tarofa.jpg "El punto más meridional de la península ibérica se encuentra en Tarifa. © K.R.")
 
 ## Planes para dos
 
@@ -142,7 +142,7 @@ _chillout_ arabescos las tardes doradas frente al mar, como las que se viven en 
 **Jaima Meccarola**, en **Los Caños de Meca**, uno de los pueblos más _hippies_ del 
 litoral gaditano. 
 
-![jaimas en cadiz](etheria_images/2019/05/viaje-cadiz-jaima-meccarola.jpg "Buen ambiente y relax en la jaima más famosa de Cádiz. © Jaima Meccarola")
+![jaimas en cadiz](etheria-images/2019/05/viaje-cadiz-jaima-meccarola.jpg "Buen ambiente y relax en la jaima más famosa de Cádiz. © Jaima Meccarola")
 
 Pon la guinda a este viaje andalusí alojándote en un riad. ¿Sabes qué es? Riad significa 
 ‘edén’, ‘jardín’, en árabe, pero también hace referencia a un tipo de casa o palacete 
@@ -153,7 +153,7 @@ de hoteles-boutique y cuenta con su propio hammam.
 > De aquella Tarifa musulmana hoy nos queda el gran torreón con el que Abderramán III 
 > defendió la zona del puerto. 
 
-![terraza de the riad tarifa](etheria_images/2019/05/viaje-cadiz-the-riad-tarifa.jpg "Velada romántica en la azotea de The Riad Tarifa. © The Riad Tarifa")
+![terraza de the riad tarifa](etheria-images/2019/05/viaje-cadiz-the-riad-tarifa.jpg "Velada romántica en la azotea de The Riad Tarifa. © The Riad Tarifa")
 
 No te vayas de Tarifa sin conocer el capítulo más impactante de su historia. Ocurrió a 
 finales del siglo XIII cuando el militar Guzmán el Bueno prefirió que degollaran a su 
@@ -179,7 +179,7 @@ intelectuales argelinos que visitó la ciudad durante aquel periodo musulmán:
 > “Su gente es elegante en el vestir, lo que demuestra lujo y buenas maneras. No es raro 
 > ver en ella a amantes y enamorados.” 
 
-![cobijada de Vejer](etheria_images/2019/05/viaje-cadiz-mujer-tapada-vejer.jpg "Monumento en homenaje a la mujer vejeriega en Vejer de la Frontera © K.R.")
+![cobijada de Vejer](etheria-images/2019/05/viaje-cadiz-mujer-tapada-vejer.jpg "Monumento en homenaje a la mujer vejeriega en Vejer de la Frontera © K.R.")
 
 Sigue nuestra [Ruta de los Pueblos 
 Blancos](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/) 

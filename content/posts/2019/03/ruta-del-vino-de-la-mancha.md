@@ -1,13 +1,13 @@
 ---
 title: "La Ruta del Vino de La Mancha en coche"
 date: 2019-03-20
-coverImage: etheria_images/2019/03/ruta-del-vino-la-mancha.jpg
+coverImage: etheria-images/2019/03/ruta-del-vino-la-mancha.jpg
 categories: 
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - colaboradores
+authors: 
+  - Firmas invitadas
 ---
 
 La Mancha es… Don Quijote, horizontes infinitos, pueblos blancos, molinos, castillos, 
@@ -17,7 +17,7 @@ enoturismo en la región que alberga el viñedo más grande del mundo.
 
 **Autor: Óscar Checa Algarra** 
 
-![Atardecer sobre el viñedo de Bodega Finca Antigua.](etheria_images/2019/03/enoturismo-mancha-bodega-finca-Antigua.jpg "Atardecer sobre el viñedo de © Bodega Finca Antigua.")
+![Atardecer sobre el viñedo de Bodega Finca Antigua.](etheria-images/2019/03/enoturismo-mancha-bodega-finca-Antigua.jpg "Atardecer sobre el viñedo de © Bodega Finca Antigua.")
 
 La del alba sería cuando llegamos a Alcázar de San Juan. En realidad, durante los meses 
 más alejados del verano no importa tanto madrugar para recorrer La Mancha: nosotros lo 
@@ -36,7 +36,7 @@ los seis que forman parte de esta ruta: Alcázar de San Juan, Campo de Criptana,
 Tomelloso y Socuéllamos, en Ciudad Real; Villarrobledo, en Albacete; y El Toboso, en 
 Toledo. 
 
-![Molinos de Alcázar de San Juan.](etheria_images/2019/03/viaje-alcazar-de-juan-juan.jpg "Molinos de Alcázar de San Juan. © O.Checa")
+![Molinos de Alcázar de San Juan.](etheria-images/2019/03/viaje-alcazar-de-juan-juan.jpg "Molinos de Alcázar de San Juan. © O.Checa")
 
 ## De molino en molino
 
@@ -55,7 +55,7 @@ llamativo y moderno museo para conocer todos los usos que se le han dado a las p
 alfareras desde tiempos remotos. Entre ellos estaba el de almacenar el vino, claro está, 
 con las tinajas. 
 
-![Lagunas de Alcázar de San Juan.](etheria_images/2019/03/viaje-lagunas-alcazar-san-juan.jpg "Lagunas de Alcázar de San Juan. © O. Checa")
+![Lagunas de Alcázar de San Juan.](etheria-images/2019/03/viaje-lagunas-alcazar-san-juan.jpg "Lagunas de Alcázar de San Juan. © O. Checa")
 
 El universo quijotesco no tarda en salir a nuestro encuentro en esta tierra y aquí en 
 Alcázar de San Juan es imprescindible visitar el **Museo del Hidalgo** para entender la 
@@ -83,7 +83,7 @@ demostraciones de la molienda tradicional.
 **No te pierdas:** [Ruta Saritísima por Campo de 
 Criptana](https://etheriamagazine.com/2019/04/08/ruta-sara-montiel-campo-de-criptana/). 
 
-![Molinos de Campo de Criptana.](etheria_images/2019/03/Campo-de-Criptana-molinos-Ruta-del-Vino-de-La-Mancha.jpg "Molinos de Campo de Criptana. © R.V. de La Mancha")
+![Molinos de Campo de Criptana.](etheria-images/2019/03/Campo-de-Criptana-molinos-Ruta-del-Vino-de-La-Mancha.jpg "Molinos de Campo de Criptana. © R.V. de La Mancha")
 
 ## Bombos y torres
 
@@ -106,7 +106,7 @@ ese proceso de destilación. Su altura (más de 20 metros) estaba justificada po
 esa forma ejercían una fuerte aspiración del humo sin necesidad de usar ventiladores, y 
 además lo elevaban a una altura suficiente para que no cayera al suelo. 
 
-![Bodegas Lahoz (Tomelloso).](etheria_images/2019/03/Tomelloso-bodegas-lahoz.jpg "Bodegas Lahoz (Tomelloso). © R.V. de La Mancha")
+![Bodegas Lahoz (Tomelloso).](etheria-images/2019/03/Tomelloso-bodegas-lahoz.jpg "Bodegas Lahoz (Tomelloso). © R.V. de La Mancha")
 
 Esta industria fue tan importante para Tomelloso que en los años 50 del siglo XX llegó a 
 haber aquí hasta 60 destilerías y 100 chimeneas. Hoy, las que quedan, están protegidas 
@@ -124,7 +124,7 @@ nombre que reciben unas construcciones rurales pensadas para alojar a personas y
 animales. Se levantaban en el campo, utilizando la técnica de la piedra seca, sin 
 argamasa, y servían como refugio y vivienda durante la época de la recolección. 
 
-![Torre del Vino de Socuéllamos.](etheria_images/2019/03/torre-vino-socuellamos.jpg "Torre del Vino de Socuéllamos. © J. López/ RVM")
+![Torre del Vino de Socuéllamos.](etheria-images/2019/03/torre-vino-socuellamos.jpg "Torre del Vino de Socuéllamos. © J. López/ RVM")
 
 ### Socuéllamos
 
@@ -172,7 +172,7 @@ ornamental, aunque muchas bodegas de todo el mundo han vuelto a apostar por la c
 en tinajas, en barro, por lo que quién sabe si la industria tinajera de Villarrobledo, 
 tan importante en otra época, puede volver a conocer una edad dorada… 
 
-![Centro de Interpretación de la Alfarería Tinajera (Villarrobledo).](etheria_images/2019/03/Villarrobledo.jpg "Centro de Interpretación de la Alfarería Tinajera (Villarrobledo). © Juanjo Isidro")
+![Centro de Interpretación de la Alfarería Tinajera (Villarrobledo).](etheria-images/2019/03/Villarrobledo.jpg "Centro de Interpretación de la Alfarería Tinajera (Villarrobledo). © Juanjo Isidro")
 
 ### El Toboso
 

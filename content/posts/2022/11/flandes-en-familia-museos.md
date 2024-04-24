@@ -1,11 +1,11 @@
 ---
 title: "Museos en Flandes para visitar con niños"
 date: 2022-11-21
-coverImage: etheria_images/2022/11/Flandes-Atomium-Bruselas.jpg
+coverImage: etheria-images/2022/11/Flandes-Atomium-Bruselas.jpg
 categories: 
   - viaje-en-familia
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Flandes siempre tiene que estar en tu radar viajero porque es un destino perfecto para 
@@ -13,7 +13,7 @@ todo tipo de escapadas. Esto incluye los viajes en familia y, por ese motivo, te
 proponemos 10 museos en Flandes para visitar con niños que darán contenido a tu viaje. 
 Los hay para todos los gustos y edades. ¡No te los pierdas! 
 
-![niñas haciendo construcciones en el museo STAM de Gante](etheria_images/2022/11/Flandes-Stam-museum-ninas.jpg "Actividad en STAM, un museo perfecto para familias en Gante.")
+![niñas haciendo construcciones en el museo STAM de Gante](etheria-images/2022/11/Flandes-Stam-museum-ninas.jpg "Actividad en STAM, un museo perfecto para familias en Gante.")
 
 Viajar con niños por Europa es cómodo y fácil, solo hay que adaptar los horarios y 
 alternar actividades culturales con otras más lúdicas. Los museos que poseen actividades 
@@ -35,7 +35,7 @@ más interesantes de la capital belga, con exposiciones temporales, actividades 
 talleres para niños (hay una guía gratuita para niños de 6 a 12 años con explicaciones y 
 acertijos) y unas vistas magníficas de la ciudad desde su esfera superior. 
 
-![Atomium de Bruselas.](etheria_images/2022/11/Flandes-Atomium-Bruselas.jpg "Atomium de Bruselas. © alexandrelaurent.com/Gaëtan")
+![Atomium de Bruselas.](etheria-images/2022/11/Flandes-Atomium-Bruselas.jpg "Atomium de Bruselas. © alexandrelaurent.com/Gaëtan")
 
 ? Dirección: Place de l'Atomium 1, Bruselas. 
 
@@ -51,7 +51,7 @@ décadas como líder europeo de las tiras de cómic. Si eres un auténtico amant
 género, no te pierdas su biblioteca con más de sesenta mil referencias, algunas son 
 auténticas joyas. 
 
-![Salas del museo del Cómic de Bruselas](etheria_images/2022/11/Bruselas-museo-comic.jpg "Museo del Cómic. © Visit Brussels/Jean-Paul Remy.")
+![Salas del museo del Cómic de Bruselas](etheria-images/2022/11/Bruselas-museo-comic.jpg "Museo del Cómic. © Visit Brussels/Jean-Paul Remy.")
 
 ? Dirección: 20 rue des Sables, Bruselas. 
 
@@ -69,7 +69,7 @@ tiempo para visitar el museo, pide la guía que te lleva a los quince objetos
 imprescindibles de la colección y si viajas con niños también hay un recorrido perfecto 
 para hacer con ellos. 
 
-![niño en el museo STAM de Gante en Flandes](etheria_images/2022/11/Flandes-STAM.jpg "Museo STAM de Gante.")
+![niño en el museo STAM de Gante en Flandes](etheria-images/2022/11/Flandes-STAM.jpg "Museo STAM de Gante.")
 
 ? Dirección: Bijlokesite, Godshuizenlaan, 2. 
 
@@ -82,7 +82,7 @@ arqueología, la biología, la psicología o la medicina, se puede tratar de ent
 proceso de trabajo de los científicos y los desafíos a los que se enfrentan. Es perfecto 
 para visitar con adolescentes. 
 
-![actividades para familias en el GUM de Gante](etheria_images/2022/11/Flandes-GUM.jpg "Familia en el GUM de Gante. © Martin Corlazzoli.")
+![actividades para familias en el GUM de Gante](etheria-images/2022/11/Flandes-GUM.jpg "Familia en el GUM de Gante. © Martin Corlazzoli.")
 
 ? Dirección: Ledeganckstraat 35, Gante. 
 
@@ -97,7 +97,7 @@ puedes aprovechar su tirón para que conozcan la historia del chocolate en Choco
 y su fabricación en una exposición en la que participan la vista, el olfato y, por 
 supuesto, el gusto, probando algunos productos elaborados por el museo. 
 
-![Huevo y conejo de pascua de chocolate en Brujas](etheria_images/2022/11/Flandes-museo-chocolate.jpg "Sala del Museo de Chocolate © Choco Factory.")
+![Huevo y conejo de pascua de chocolate en Brujas](etheria-images/2022/11/Flandes-museo-chocolate.jpg "Sala del Museo de Chocolate © Choco Factory.")
 
 ? Dirección: Wijnzakstraat, 2 (Sint-Jansplein), Brujas. 
 
@@ -111,7 +111,7 @@ creatividad musical gracias a Omni, un “champiñón” con ciento ocho facetas
 musicales o transmitiendo las notas de la resistencia eléctrica de la piel de los tubos 
 sonoros. ¡Y no te pierdas las vistas! Son increíbles. 
 
-![Familia en la actividad interactiva Sound Factory en Brujas Flandes](etheria_images/2022/11/Flandes-sound-factory.jpg "Saund Factory en Brujas. © Jan D'Hondt")
+![Familia en la actividad interactiva Sound Factory en Brujas Flandes](etheria-images/2022/11/Flandes-sound-factory.jpg "Saund Factory en Brujas. © Jan D'Hondt")
 
 ? Dirección: 't Zand 34, Brujas. 
 
@@ -128,7 +128,7 @@ temáticas (como la de arte de la América precolombina o la dedicada al transpo
 las exposiciones temporales. Y lo que no puedes perderte en ningún caso son las vistas 
 que ofrece de la ciudad desde su décima planta. 
 
-![Edificio del MAS de Amberes.](etheria_images/2022/11/Flandes-Museo-Mam-Amberes.jpg "Edificio del MAS de Amberes.")
+![Edificio del MAS de Amberes.](etheria-images/2022/11/Flandes-Museo-Mam-Amberes.jpg "Edificio del MAS de Amberes.")
 
 ? Dirección: Hanzestedenplaats, 1. Amberes. 
 
@@ -140,7 +140,7 @@ los más pequeños. Cuenta con distintas atracciones y encuentros con personajes
 pitufos o la abeja Maya en un entorno divertido, lleno de color y de sorpresas. Dentro 
 encontrarás también restaurantes y tiendas para pasar un rato de lo más completo. 
 
-![Salas de juegos en el Plopsa de Amberes Flandes](etheria_images/2022/11/Flandes-Comic-Station-Amberes.jpg "Interior de © Plopsa Comic Station en Amberes.")
+![Salas de juegos en el Plopsa de Amberes Flandes](etheria-images/2022/11/Flandes-Comic-Station-Amberes.jpg "Interior de © Plopsa Comic Station en Amberes.")
 
 ? Dirección: Estación Plopsa Amberes, Mediaplein, Amberes. 
 
@@ -156,7 +156,7 @@ ingeniería, la química o la biología. Algunas de las actividades más popular
 aterrizar un avión, levantar un coche con un nivel, dormir en una cama de clavos o hacer 
 rodar una bicicleta sobre un cable. 
 
-![Experimento con sonido en Technopolis en Flandes](etheria_images/2022/11/Flandes-Technopolis-Malinas.jpg "Actividad en Technopolis en Malinas.")
+![Experimento con sonido en Technopolis en Flandes](etheria-images/2022/11/Flandes-Technopolis-Malinas.jpg "Actividad en Technopolis en Malinas.")
 
 ? Dirección: Technologielaan en Mechelenechnologielaan, Malinas. 
 
@@ -172,7 +172,7 @@ interactivas. Descubrirán como _Tungrorum_ (la Tongeren romana) fue la capital 
 extenso distrito romano y cómo se vivía en ella. Es muy recomendable utilizar audio-guía 
 (también la hay para niños) para no perderse ninguna explicación. 
 
-![actores en Museo Gallo-Romano de Tongeren](etheria_images/2022/11/Flandes-museo-galo-romano.jpg "Teatralización en el Museo Gallo-Romano. © Toerisme Tongeren")
+![actores en Museo Gallo-Romano de Tongeren](etheria-images/2022/11/Flandes-museo-galo-romano.jpg "Teatralización en el Museo Gallo-Romano. © Toerisme Tongeren")
 
 ? Dirección: Kielenstraat 15, Tongeren. 
 

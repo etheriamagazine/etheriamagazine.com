@@ -1,7 +1,7 @@
 ---
 title: "Visita de la catedral de Pamplona y su exposición Occidens"
 date: 2024-02-07
-coverImage: etheria_images/2024/02/pamplona-catedral-fachada.jpg
+coverImage: etheria-images/2024/02/pamplona-catedral-fachada.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
@@ -9,8 +9,8 @@ categories:
   - viajes-urbanos
   - viajes-para-mujeres
   - visitas-guiadas
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Pamplona es una ciudad con tanta vida en sus calles que en una escapada a la capital 
@@ -20,7 +20,7 @@ visita a la catedral de Pamplona que, además de su evidente interés arquitect�
 catedral gótica, alberga una de las exposiciones más interesantes que puedes ver en 
 España sobre la civilización occidental. 
 
-![Fachada neoclásica de la catedral de Pamplona.](etheria_images/2024/02/pamplona-catedral-fachada.jpg "Fachada neoclásica de la catedral de Pamplona.")
+![Fachada neoclásica de la catedral de Pamplona.](etheria-images/2024/02/pamplona-catedral-fachada.jpg "Fachada neoclásica de la catedral de Pamplona.")
 
 Una escapada a Pamplona es siempre un buen plan, aunque lo repitas varias veces. Seguro 
 que la asocias rápidamente a la Plaza Consistorial, donde cada año se anuncian los 
@@ -65,7 +65,7 @@ con bonitas tracerías. No dudes en pasar un buen rato paseando por sus corredor
 admirando sus pinturas y sus capiteles y disfrutando de la paz que se respira en este 
 espacio. 
 
-![Claustro de la catedral de Pamplona.](etheria_images/2024/02/pamplona-catedral-claustro.jpg "Claustro de la catedral de Pamplona. © Susana García.")
+![Claustro de la catedral de Pamplona.](etheria-images/2024/02/pamplona-catedral-claustro.jpg "Claustro de la catedral de Pamplona. © Susana García.")
 
 ## Exposición Occidens
 
@@ -78,7 +78,7 @@ el entorno en el que se ubica, desde un punto de vista cristianocentrista, pero 
 pierde de vista ni su vocación divulgativa de la historia ni el debate sobre conceptos 
 filosóficos universales. 
 
-![Escalera helicoidal del conjunto catedralicio de Pamplona.](etheria_images/2024/02/pamplona-catedral-escalera.jpg "Escalera helicoidal del conjunto catedralicio de Pamplona. © Susana García.")
+![Escalera helicoidal del conjunto catedralicio de Pamplona.](etheria-images/2024/02/pamplona-catedral-escalera.jpg "Escalera helicoidal del conjunto catedralicio de Pamplona. © Susana García.")
 
 ### Estructura de la exposición
 
@@ -98,7 +98,7 @@ con las **excavaciones arqueológicas** con restos que van desde el poblado vasc
 (siglos VII a I a.C.) y el pasado romano hasta algunos vestigios de la iglesia románica 
 primitiva. 
 
-![Sala de la exposición Occidens en la catedral de Pamplona](etheria_images/2024/02/pamplona-catedral-sala-medieval.jpg "Sala de la exposición Occidens. © Susana García.")
+![Sala de la exposición Occidens en la catedral de Pamplona](etheria-images/2024/02/pamplona-catedral-sala-medieval.jpg "Sala de la exposición Occidens. © Susana García.")
 
 La zona dedicada a la **Cristiandad Medieval** incluye la preciosa capilla románica, 
 donde se hace referencia a la Reforma Gregoriana de 1073 y al conocido Canto Gregoriano, 
@@ -118,7 +118,7 @@ occidental en un momento de encrucijada entre el relativismo y los valores unive
 Este hecho se representa de una forma muy gráfica con un espacio color rosa perfecto 
 para _selfies_ ubicado entre los sólidos muros y las vidrieras de la catedral. 
 
-![exposición Occidens en la catedral de Pamplona](etheria_images/2024/02/pamplona-catedral-sala-posmoderna.jpg "Mundo de color de rosa como símbolo de la modernidad relativista. © Susana García.")
+![exposición Occidens en la catedral de Pamplona](etheria-images/2024/02/pamplona-catedral-sala-posmoderna.jpg "Mundo de color de rosa como símbolo de la modernidad relativista. © Susana García.")
 
 ## Guía práctica de la catedral de Pamplona
 

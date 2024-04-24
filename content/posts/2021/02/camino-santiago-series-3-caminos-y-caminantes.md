@@ -1,17 +1,17 @@
 ---
 title: "'3 caminos' y 'Caminantes', emoción o terror en el Camino de Santiago"
 date: 2021-02-11
-coverImage: etheria_images/2021/02/3-Caminos-serie-amazon.jpg
+coverImage: etheria-images/2021/02/3-Caminos-serie-amazon.jpg
 categories: 
   - viajes-cine
   - viajes-para-mujeres
-author: 
+authors: 
   - Eva Madruga
 ---
 
 Entre las series de televisión más recientes que tienen el Camino de Santiago como escenario se encuentran '3 caminos' y 'Caminantes'. Aunque sus argumentos son completamente distintos, ambas juegan con las emociones y recuerdan al viajero que esta peregrinación no pierde actualidad.
 
-![catedral de santiago en tres caminos](etheria_images/2021/02/3-Caminos-serie-amazon.jpg "Llegada a la Catedral de Santiago en '3 caminos'.")
+![catedral de santiago en tres caminos](etheria-images/2021/02/3-Caminos-serie-amazon.jpg "Llegada a la Catedral de Santiago en '3 caminos'.")
 
 El Camino de Santiago tiene algo de adictivo. ¡Quien lo probó lo sabe, porque siempre 
 sueña con repetirlo! Pero incluso los que no lo han realizado aún fantasean muchas veces 
@@ -23,7 +23,7 @@ de la crisis sanitaria, se ha prolongado el Año Santo hasta diciembre de 2022. 
 se despierta tu espíritu peregrino, te proponemos un viaje sin desgastar la suela de tus 
 zapatillas a través de dos series que tienen el Camino de Santiago como escenario. 
 
-![cartel oficial de tres caminos](etheria_images/2021/02/3-Caminos-Poster-oficial.jpg "Cartel oficial de '3 caminos'. © A. Prime Vídeo")
+![cartel oficial de tres caminos](etheria-images/2021/02/3-Caminos-Poster-oficial.jpg "Cartel oficial de '3 caminos'. © A. Prime Vídeo")
 
 ## '3 caminos', en Amazon Prime (2021)
 
@@ -38,7 +38,7 @@ escuchar en uno de los capítulos de la ficción. Esos desconocidos están prota
 sus reflexiones y vivencias abordan temas tan complejos como el paso del tiempo, el amor 
 en el momento que llega a su fin, la muerte de ciertos sueños o el miedo a envejecer. 
 
-![escena camino de santiago en tres caminos](etheria_images/2021/02/3-Caminos-serie-television-amazon.jpg "Fotograma de '3 caminos', en © Amazon Prime Video.")
+![escena camino de santiago en tres caminos](etheria-images/2021/02/3-Caminos-serie-television-amazon.jpg "Fotograma de '3 caminos', en © Amazon Prime Video.")
 
 #### El Camino de Santiago, el eje principal
 
@@ -56,7 +56,7 @@ durante esta ruta, descubrir la rica gastronomía de territorios por los que ava
 peregrinos o contemplar panorámicas que sólo pueden disfrutar los que recorren uno a uno 
 los tramos de esta **ruta que avanza desde Roncesvalles hasta Finisterre.** 
 
-![protagonistas de tres caminos](etheria_images/2021/02/3-Caminos-serie-amazon-prime.jpg "Algunos de los protagonistas de '3 caminos'. © A. Prime Vídeo")
+![protagonistas de tres caminos](etheria-images/2021/02/3-Caminos-serie-amazon-prime.jpg "Algunos de los protagonistas de '3 caminos'. © A. Prime Vídeo")
 
 ### Localizaciones navarras
 
@@ -64,7 +64,7 @@ Navarra es la puerta de entrada al Camino de Santiago en la Península y sus mar
 paisajes quedan representados en la serie con Roncesvalles, el monasterio de Leyre, 
 Eunate, Puente la Reina, el monte de El Perdón y Pamplona. 
 
-![monasterio de leyre camino santiago navarra](etheria_images/2021/02/monasterio-leyre-camino-santiago.jpg "Monasterio de Leyre (Navarra).")
+![monasterio de leyre camino santiago navarra](etheria-images/2021/02/monasterio-leyre-camino-santiago.jpg "Monasterio de Leyre (Navarra).")
 
 ### Paisajes riojanos
 
@@ -72,7 +72,7 @@ Los cinco protagonistas recorren también el tramo riojano que atraviesa el Cami
 Santiago, dejando escenas inolvidables en la calle Laurel de Logroño y en enclaves de la 
 región como el embalse de La Grajera o Santo Domingo de la Calzada. 
 
-![amigos del camino de santiago en 3 caminos](etheria_images/2021/02/3-Caminos-ruta-camino-santiago.jpg "'3 caminos', una historia de amistades nacidas en el Camino de Santiago. © A. Prime Vídeo")
+![amigos del camino de santiago en 3 caminos](etheria-images/2021/02/3-Caminos-ruta-camino-santiago.jpg "'3 caminos', una historia de amistades nacidas en el Camino de Santiago. © A. Prime Vídeo")
 
 ### Por tierras castellanoleonesas
 
@@ -90,7 +90,7 @@ Manjarín), **Molinaseca** y Ponferrada. Molinaseca ha sido incluida en la Asoci
 pueblos más bonitos de 
 2021](https://etheriamagazine.com/2021/01/19/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021/). 
 
-![Cecilia Suarez en la casa de las flores y 3 caminos](etheria_images/2021/02/3-Caminos-actriz-casa-de-las-flores.jpg "Cecilia Suárez, que la recordarás por su papel de Paulina en 'La casa de las flores', también actúa en '3 caminos'. © Amazon Prime")
+![Cecilia Suarez en la casa de las flores y 3 caminos](etheria-images/2021/02/3-Caminos-actriz-casa-de-las-flores.jpg "Cecilia Suárez, que la recordarás por su papel de Paulina en 'La casa de las flores', también actúa en '3 caminos'. © Amazon Prime")
 
 ### Galicia, destino final de los peregrinos
 
@@ -101,7 +101,7 @@ los 5 amigos transitan por **O Cebreiro**, **Triacastela** y **Samos**. Pero '_3
 caminos_' no pone su punto y final en Compostela, lo hace en **Finisterre**. 
 Perfectamente inmortalizado con su faro y la playa de Langosteira. 
 
-![terror en serie caminantes](etheria_images/2021/02/Caminantes-serie-terror.jpg "Esta imagen presagia lo peor... en la serie 'Caminantes'. © Orange TV")
+![terror en serie caminantes](etheria-images/2021/02/Caminantes-serie-terror.jpg "Esta imagen presagia lo peor... en la serie 'Caminantes'. © Orange TV")
 
 ## Caminantes, terror en Orange TV (2020)
 
@@ -113,7 +113,7 @@ se perdió en la **Selva de Irati**, muy cerca de la frontera con Francia. Días
 de desaparecer encuentran sus teléfonos móviles, junto con sus mochilas y varios objetos 
 personales. 
 
-![caminantes en orange tv](etheria_images/2021/02/Caminantes-Orange-tv-5.jpg "Fotograma de Caminantes, una serie que se emite en © Orange TV.")
+![caminantes en orange tv](etheria-images/2021/02/Caminantes-Orange-tv-5.jpg "Fotograma de Caminantes, una serie que se emite en © Orange TV.")
 
 La serie consta de **ocho capítulos** de 20 minutos cada uno y cuenta con la 
 particularidad de que ha sido **grabada en su totalidad con teléfonos móviles**. 
@@ -122,7 +122,7 @@ Ambientada en la parte del Camino de Santiago que transcurre en la Selva de Irat
 del Gorbeia, el Palacio Munibe, el hayedo de Otzarreta y el albergue de peregrinos de 
 Markina. ¡Miedo y acción a raudales! 
 
-![caminantes de camino de santiago serie de terror](etheria_images/2021/02/Caminantes-serie-orange-tv.jpg "Fotograma de 'Caminantes', la nueva serie de terror de © Orange TV.")
+![caminantes de camino de santiago serie de terror](etheria-images/2021/02/Caminantes-serie-orange-tv.jpg "Fotograma de 'Caminantes', la nueva serie de terror de © Orange TV.")
 
 ### También te puede interesar...
 

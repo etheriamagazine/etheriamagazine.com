@@ -1,18 +1,18 @@
 ---
 title: "Planes entre volcanes y titanes en la comarca de Entreparques"
 date: 2021-10-14
-coverImage: etheria_images/2021/10/ruta-todoterreno-parque-cabaneros.jpg
+coverImage: etheria-images/2021/10/ruta-todoterreno-parque-cabaneros.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 En la comarca de Entreparques, situada en Ciudad Real, te esperan pequeñas grandes actividades que, en conjunto, ofrecen suficientes alicientes para disfrutar de un fin de semana excepcional en familia o con amigas y con muchas “batallitas” que contar a la vuelta.
 
-![ruta coche parque cabaneros comarca entreparques](etheria_images/2021/10/ruta-todoterreno-parque-cabaneros.jpg "Ruta en 4x4 por el Parque Nacional de Cabañeros. © Pepa García")
+![ruta coche parque cabaneros comarca entreparques](etheria-images/2021/10/ruta-todoterreno-parque-cabaneros.jpg "Ruta en 4x4 por el Parque Nacional de Cabañeros. © Pepa García")
 
 Si es la primera vez que escuchas o lees la denominación “comarca de Entreparques”, en 
 el noreste de la provincia de Ciudad Real, no te preocupes porque a continuación te 
@@ -38,7 +38,7 @@ son el escenario de esta escapada a Entreparques.
 Presta atención a los próximos planes en Entreparques y escoge los que más se adapten a 
 tus gustos y compañía (ideal para un viaje en familia, con amigos o en pareja). 
 
-![mirador volcanes maares poblete](etheria_images/2021/10/mirador-maares-comarca-entreparques.jpg "Mirador de los Maares, en la comarca de Entreparques. © P.G.")
+![mirador volcanes maares poblete](etheria-images/2021/10/mirador-maares-comarca-entreparques.jpg "Mirador de los Maares, en la comarca de Entreparques. © P.G.")
 
 ### 1\. Volcanes que entran en erupción (virtual)
 
@@ -56,7 +56,7 @@ reconocida como geoparque en 2023.
 volcánica, a través de realidad aumentada, capturando los códigos QR de los paneles 
 explicativos. 
 
-![ruta del boqueron del estena](etheria_images/2021/10/ruta-boqueron-estena.jpg "Ruta del Boquerón del Estena. © P.G.")
+![ruta del boqueron del estena](etheria-images/2021/10/ruta-boqueron-estena.jpg "Ruta del Boquerón del Estena. © P.G.")
 
 ### 2\. Geo-ruta del Boquerón del Estena
 
@@ -80,7 +80,7 @@ de Estena](http://www.boquerondestena.com/bde/), con un excelente museo geológi
 privado, te puede interesar. Tiene 7 habitaciones, zonas comunes y piscina. Se alquila 
 de forma completa. 
 
-![ruta batalla alarcos comarca entreparques](etheria_images/2021/10/ruta-batalla-alarcos.jpg "Una de las paradas de la ruta de la Batalla de Alarcos (Poblete). © P.G.")
+![ruta batalla alarcos comarca entreparques](etheria-images/2021/10/ruta-batalla-alarcos.jpg "Una de las paradas de la ruta de la Batalla de Alarcos (Poblete). © P.G.")
 
 ### 3\. Vive la batalla de Alarcos en primera persona
 
@@ -99,7 +99,7 @@ Ayuntamiento](https://poblete.es/ruta-informacion-reservas).
 ? Si está abierta, no dejes de entrar en la ermita de Nuestra Señora de Alarcos, una 
 auténtica belleza. 
 
-![vuelo globo ciudad real](etheria_images/2021/10/vuelo-globo-entreparques-748x1024.jpg "Vuelo en globo por el Campo de Calatrava. © P.G.")
+![vuelo globo ciudad real](etheria-images/2021/10/vuelo-globo-entreparques-748x1024.jpg "Vuelo en globo por el Campo de Calatrava. © P.G.")
 
 ### 4\. Volar en globo por el Campo de Calatrava  
 
@@ -114,7 +114,7 @@ Corral de Calatrava](http://casaruralhidalgo.com/casaruralhidalgo/). Esta confor
 vivienda cuenta con nueve habitaciones dobles, comedor, patio, jardín con barbacoas y 
 una pequeña piscina. 
 
-![Quesos de Fuentillezjos ciudad real](etheria_images/2021/10/queseria-fuentillezjos-poblete.jpg "Quesos de Fuentillezjos. © Pepa García")
+![Quesos de Fuentillezjos ciudad real](etheria-images/2021/10/queseria-fuentillezjos-poblete.jpg "Quesos de Fuentillezjos. © Pepa García")
 
 ### 5\. Visita la quesería de Fuentillezjos
 
@@ -133,7 +133,7 @@ De momento, se pueden pedir sus quesos online o en tiendas especializadas. Queso
 tierno, semicurado, curado, con romero y miel... se elaboran con la mejor leche y 
 respetando sus tiempos de curación para conseguir todos los matices. 
 
-![bodega dehesa carrizal comarca entreparques](etheria_images/2021/10/dehesa-carrizal-entreparques.jpg "Bodega Dehesa del Carrizal. © Pepa G.")
+![bodega dehesa carrizal comarca entreparques](etheria-images/2021/10/dehesa-carrizal-entreparques.jpg "Bodega Dehesa del Carrizal. © Pepa G.")
 
 ### 6\. De bodegas: Dehesa del Carrizal
 
@@ -149,7 +149,7 @@ elaboran vinos de gran calidad controlados de principio a fin. Disponen de tiend
 bodega, así que puedes pasar por allí para llevarte algunas botellas (precios entre 8,75 
 y 27 €), y, de paso, hacer una visita guiada. 
 
-![ciervos parque cabaneros ciudad real](etheria_images/2021/10/ciervos-parques-cabaneros.jpg "Parque Nacional de Cabañeros, en la comarca de Entreparques. © P.G.")
+![ciervos parque cabaneros ciudad real](etheria-images/2021/10/ciervos-parques-cabaneros.jpg "Parque Nacional de Cabañeros, en la comarca de Entreparques. © P.G.")
 
 ### 7\. Un safari en el Parque de Cabañeros
 
@@ -168,7 +168,7 @@ molino del Brezoso, la raña del Peral o la solana del macizo del Chorito.
 Cabañeros](https://aventurascabaneros.com/tours/rutas-4x4-en-p-n-cabaneros/). No olvides 
 llevar calzado cómodo, agua, gorra y prismáticos. 
 
-![silo malagon grafitis](etheria_images/2021/10/silo-titan-malagon-737x1024.jpg "Silo de Malagón, en la ruta de los Titanes de Ciudad Real. © P.G.")
+![silo malagon grafitis](etheria-images/2021/10/silo-titan-malagon-737x1024.jpg "Silo de Malagón, en la ruta de los Titanes de Ciudad Real. © P.G.")
 
 ### 8\. Grafitis titánicos en la comarca de Entreparques
 
@@ -182,7 +182,7 @@ Porzuna. Te animamos a conocer la [ruta completa de los
 Titanes](https://iamtitanes.com/) y este proyecto que ha integrado a personas con 
 distintas capacidades en la elaboración de estas obras artísticas. 
 
-![pisto tataki gamo ciudad real](etheria_images/2021/10/gastronomia-ciudad-real.jpg "Pisto manchego y tataki de gamo con pistachos. © P.G.")
+![pisto tataki gamo ciudad real](etheria-images/2021/10/gastronomia-ciudad-real.jpg "Pisto manchego y tataki de gamo con pistachos. © P.G.")
 
 ### 9\. Sabores de la tierra
 

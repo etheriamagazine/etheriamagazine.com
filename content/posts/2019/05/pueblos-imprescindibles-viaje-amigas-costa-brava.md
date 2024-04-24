@@ -1,12 +1,12 @@
 ---
 title: "Pueblos bonitos de la Costa Brava para ir con amigas"
 date: 2019-05-28
-coverImage: etheria_images/2019/05/Calella-de-Palafrugel-viaje-amigas.jpg
+coverImage: etheria-images/2019/05/Calella-de-Palafrugel-viaje-amigas.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Yvonne Sole
+authors: 
+  - Yvonne Solé
 ---
 
 Desde Blanes hasta Portbou, esta preciosa costa está repleta de pintorescas poblaciones 
@@ -15,7 +15,7 @@ recorrer este abrupto y salvaje litoral para descubrir calas y playas de aguas
 cristalinas, algunas todavía vírgenes, resguardadas por pinares. Un planazo, no lo 
 negarás. 
 
-![viaje amigas costa brava, viaje cadaques](etheria_images/2019/05/playas-cadaques-costa-brva.jpg "Playa de Cadaqués. © Félix Lorenzo")
+![viaje amigas costa brava, viaje cadaques](etheria-images/2019/05/playas-cadaques-costa-brva.jpg "Playa de Cadaqués. © Félix Lorenzo")
 
 ```
 Actualizado abril 2021
@@ -43,7 +43,7 @@ calas de arena fina, aquí solo encontrarás guijarros y rocas–. El casco anti
 Cadaqués es laberíntico, con cuestas, escaleras, desniveles y recovecos inesperados y 
 muy pintorescos (no podrás dejar de hacer fotos para Instagram). 
 
-![Cadaqués, vistas del pueblo y del mar](etheria_images/2019/05/cadaques-viaje-amigas.jpg "Cadaqués (Costa Brava). © Félix Lorenzo")
+![Cadaqués, vistas del pueblo y del mar](etheria-images/2019/05/cadaques-viaje-amigas.jpg "Cadaqués (Costa Brava). © Félix Lorenzo")
 
 Fíjate en el suelo, especialmente en la **calle del Call**. Verás que todavía se 
 conserva el "rastrell" original. Es un pavimento hecho con piedras moldeadas por el mar 
@@ -54,7 +54,7 @@ pueblo de frente, se obtiene caminando por el paseo en dirección a Port Lligat.
 vayas de aquí sin haber probado las famosas anchoas de Cadaqués ni sus "taps", unos 
 bizcochos en forma de tapón de cava. 
 
-![Pintoresco pueblo de Cadaqués](etheria_images/2019/05/Viaje-amigas-cadaques-costa-brava.jpg "Pintoresco pueblo de Cadaqués. © Félix Lorenzo")
+![Pintoresco pueblo de Cadaqués](etheria-images/2019/05/Viaje-amigas-cadaques-costa-brava.jpg "Pintoresco pueblo de Cadaqués. © Félix Lorenzo")
 
 ### 2\. Port de la Selva
 
@@ -66,7 +66,7 @@ los fuertes soplos de la Tramuntana. Las barquitas de colores y las casitas blan
 construidas en hilera mirando al mar aportan los ingredientes necesarios para un pueblo 
 de postal. 
 
-![Monasterio benedictino de Sant Pere de Rodes.](etheria_images/2019/05/sant-pere-rodes-costa-brava.jpg "Monasterio benedictino de Sant Pere de Rodes. ©Pixabay")
+![Monasterio benedictino de Sant Pere de Rodes.](etheria-images/2019/05/sant-pere-rodes-costa-brava.jpg "Monasterio benedictino de Sant Pere de Rodes. ©Pixabay")
 
 Para zambullirse de lleno en la belleza abrupta del litoral en este viaje a la Costa 
 Brava con amigas se puede recorrer el **camino de ronda**, que bordea la costa. Hay una 
@@ -77,7 +77,7 @@ s’Arenella. Para admirar el pueblo desde lo alto (y todo el Cap de Creus) vale
 acercarse hasta el imponente **monasterio benedictino de Sant Pere de Rodes**. Del siglo 
 X, es el máximo exponente del arte románico en las comarcas gerundenses. 
 
-![Vista aérea de cala de Aiguablava, en Begur.](etheria_images/2019/05/Cala-de-Aiguablava-Begur.jpg "Vista aérea de cala de Aiguablava, en Begur. © Félix Lorenzo")
+![Vista aérea de cala de Aiguablava, en Begur.](etheria-images/2019/05/Cala-de-Aiguablava-Begur.jpg "Vista aérea de cala de Aiguablava, en Begur. © Félix Lorenzo")
 
 ### 3\. Begur
 
@@ -96,7 +96,7 @@ alta conviene ir temprano porque el aparcamiento se llena enseguida. Si eres ama
 naturismo preferirás la **cala Illa Roja** (Isla Roja) que debe su nombre a la gran roca 
 rojiza que preside la playita. 
 
-![Calles de Tossa de Mar.](etheria_images/2019/05/viaje-amigas-tossa-mar.jpg "Tossa de Mar. © Félix Lorenzo")
+![Calles de Tossa de Mar.](etheria-images/2019/05/viaje-amigas-tossa-mar.jpg "Tossa de Mar. © Félix Lorenzo")
 
 ### 4\. Tossa de Mar
 
@@ -115,7 +115,7 @@ Codolar**. Antes de seguir paseando, ya fuera de las murallas, por el tradiciona
 de pescadores de sa Roqueta o por el paseo de la playa Gran hasta la Mar Menuda para 
 tomar la famosa foto de las murallas y la playa. 
 
-![tossa mar, viaje amigas costa brava](etheria_images/2019/05/tossa-mar-viaje-costa-brava.jpg "Playa de Tossa de Mar (Costa Brava). © Félix Lorenzo")
+![tossa mar, viaje amigas costa brava](etheria-images/2019/05/tossa-mar-viaje-costa-brava.jpg "Playa de Tossa de Mar (Costa Brava). © Félix Lorenzo")
 
 ### 5\. Calella de Palafrugell
 
@@ -126,7 +126,7 @@ puerto de Calella, para haber sido declarado Patrimonio Cultural de Importancia
 Nacional. Es aquí donde cada primer fin de semana de julio tiene lugar la conocida 
 **cantada de habaneras**, con los emblemáticos edificios porticados de fondo. 
 
-![Playa de Calella de Palafrugell.](etheria_images/2019/05/mejor-playa-Calella-de-Palafrugel-e1557312271495.jpg "Playa de Calella de Palafrugell. © Félix Lorenzo")
+![Playa de Calella de Palafrugell.](etheria-images/2019/05/mejor-playa-Calella-de-Palafrugel-e1557312271495.jpg "Playa de Calella de Palafrugell. © Félix Lorenzo")
 
 Siguiendo la costa por el camino de ronda es desde donde se aprecia mejor la belleza de 
 Calella. Además de comer un buen arroz con vistas al mar, vale la pena acercarse hasta 
@@ -135,7 +135,7 @@ de los símbolos de este espacio es el castillo construido con la piedra ferrugi
 la zona. Es el escenario del Festival de Cap Roig, el mayor acontecimiento musical del 
 año en la Costa Brava. 
 
-![Barcas en la Calella de Palafrugel.](etheria_images/2019/05/viaje-amigas-costa-brava-Calella-de-Palafrugel.jpg "Calella de Palafrugel. © Félix Lorenzo")
+![Barcas en la Calella de Palafrugel.](etheria-images/2019/05/viaje-amigas-costa-brava-Calella-de-Palafrugel.jpg "Calella de Palafrugel. © Félix Lorenzo")
 
 ### 6\. Sant Martí d'Empúries
 
@@ -154,7 +154,7 @@ griego) del que se conserva parte de la muralla original. No te pierdas el mirad
 las cuevas, entre las playas de Portitxol y el Rec del Molí, desde donde podrás admirar 
 la bahía de Roses, el litoral de Empúries y l'Escala. 
 
-![Yacimiento grecorromano de Empúries.](etheria_images/2019/05/ruinas-empuries-costa-brava.jpg "Yacimiento grecorromano de Empúries. © Pixabay")
+![Yacimiento grecorromano de Empúries.](etheria-images/2019/05/ruinas-empuries-costa-brava.jpg "Yacimiento grecorromano de Empúries. © Pixabay")
 
 **También te puede interesar:** 
 

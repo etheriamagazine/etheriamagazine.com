@@ -1,12 +1,12 @@
 ---
 title: "7 Consejos para viajar a Australia"
 date: 2019-03-07
-coverImage: etheria_images/2019/02/australia-viaje-surf.jpg
+coverImage: etheria-images/2019/02/australia-viaje-surf.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
-author: 
-  - Cristina
+authors: 
+  - Cristina R. Bareño
 ---
 
 Un viaje a un país como Australia, que puede ser uno de tus mayores sueños, requiere de 
@@ -14,7 +14,7 @@ unos preparativos básicos para asegurarte de que todo va a ir bien una vez all�
 Respondemos a algunas cuestiones que te puedes estar planteando si estás pensando en 
 viajar a Australia. 
 
-![organizar viaje australia, australia para mujeres](etheria_images/2019/02/australia-viaje-surf.jpg "El surf es una de las actividad más divertidas que puedes practicar en Australia.")
+![organizar viaje australia, australia para mujeres](etheria-images/2019/02/australia-viaje-surf.jpg "El surf es una de las actividad más divertidas que puedes practicar en Australia.")
 
 Un viaje a Australia no es algo que se pueda improvisar. Tendrás que ponerte a buscar la 
 mejor combinación aérea, opciones de alojamiento, excursiones... Y, durante este 
@@ -45,7 +45,7 @@ costa hasta abrigarnos debidamente las noches más frías.
 > Calzado cómodo, protección solar, gafas de sol, gorro o sombrero y un pequeño botiquín 
 > son los básicos para recorrer estas tierras salvajes. 
 
-![viaje en coche australia, ruta australia](etheria_images/2019/02/australia-coche.jpg "No te pierdas una ruta en coche por la Great Ocean Road.")
+![viaje en coche australia, ruta australia](etheria-images/2019/02/australia-coche.jpg "No te pierdas una ruta en coche por la Great Ocean Road.")
 
 ## 3\. ¿Qué itinerario elegir?
 
@@ -71,7 +71,7 @@ compañías **Qatar Airways** (escala en Doha), **Etihad Airways** (escala en Ab
 para llegar a Melbourne o a Sídney, los dos aeropuertos australianos con más tráfico 
 aéreo. 
 
-![buceo australia, gran barrera australia](etheria_images/2019/02/australia-gran-barrera.jpg "Practica buceo en la Gran Barrera de Coral.")
+![buceo australia, gran barrera australia](etheria-images/2019/02/australia-gran-barrera.jpg "Practica buceo en la Gran Barrera de Coral.")
 
 ## 5\. ¿Qué documentos necesito?
 
@@ -93,7 +93,7 @@ la opción de **alquilar un coche o una caravana** para recorrer diferentes zona
 es una idea interesante siempre y cuando se disponga de días suficientes para realizar 
 estos recorridos sin prisa. 
 
-![lonja sidney, viaje australia](etheria_images/2019/02/Lonja-de-Sidney.jpg "Lonja de Sídney. © Cristina Bareño")
+![lonja sidney, viaje australia](etheria-images/2019/02/Lonja-de-Sidney.jpg "Lonja de Sídney. © Cristina Bareño")
 
 ## 6\. ¿Pasaré hambre?
 

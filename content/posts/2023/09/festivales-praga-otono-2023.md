@@ -1,13 +1,13 @@
 ---
 title: "Festivales de Praga en otoño: diseño, arte y música"
 date: 2023-09-20
-coverImage: etheria_images/2023/09/praga-otono.jpg
+coverImage: etheria-images/2023/09/praga-otono.jpg
 categories: 
   - organiza-tu-viaje
   - festivales
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La capital checa tiene esa rara capacidad de sorprender sea cual sea el momento del año 
@@ -15,7 +15,7 @@ en que se visite, pero si decides ir a Praga en otoño tendrás la suerte de con
 algunos de sus festivales más sorprendentes. El diseño, la creación lumínica y la música 
 son el complemento perfecto a los románticos paseos que regala la estación. 
 
-![Praga en otoño se viste de romanticismo.](etheria_images/2023/09/praga-otono-850x812.jpg "Praga en otoño se viste de romanticismo. © Etheria Magazine")
+![Praga en otoño se viste de romanticismo.](etheria-images/2023/09/praga-otono-850x812.jpg "Praga en otoño se viste de romanticismo. © Etheria Magazine")
 
 El arte moderno, la originalidad y la creación –muchas veces irreverente– de algunos 
 artistas checos son el contrapunto perfecto en una ciudad histórica como Praga para 
@@ -41,7 +41,7 @@ de
 Vinohrady](https://www.visitczechia.com/es-ES/Things-to-Do/Events/2021/09/e-prague-grebovka-vintage), 
 en los Jardines de Havlíček y en la náměstí Míru. 
 
-![Vides en la colina del Castillo de Praga.](etheria_images/2023/09/vendimia-praga.jpg "Vides en la colina del Castillo de Praga. © Etheria Magazine")
+![Vides en la colina del Castillo de Praga.](etheria-images/2023/09/vendimia-praga.jpg "Vides en la colina del Castillo de Praga. © Etheria Magazine")
 
 ### Praga de Dvořák
 
@@ -55,7 +55,7 @@ Los conciertos se celebran en el Rudolfinum, la Catedral de San Vito del Castill
 Praga, en la sala de conciertos del Conservatorio de Praga y en la iglesia de Santa Ana. 
 Finaliza el 25 de septiembre, así que hay que darse prisa. 
 
-![Violinistas en el Puente de Carlos, en Praga.](etheria_images/2023/09/violinistas-puente-praga.jpg "Violinistas en el Puente de Carlos, en Praga. © Etheria Magazine")
+![Violinistas en el Puente de Carlos, en Praga.](etheria-images/2023/09/violinistas-puente-praga.jpg "Violinistas en el Puente de Carlos, en Praga. © Etheria Magazine")
 
 ### Designblok, el Festival Internacional de Diseño de Praga
 
@@ -76,7 +76,7 @@ Nacional de Praga** -Palacio de Exposiciones, el **Museo de Artes Aplicadas** y 
 tiendas pop up, galerías y escuelas de arte que exponen los mejores trabajos de sus 
 alumnos. 
 
-![Exposición de jarrones de cristal de Designblok 2022](etheria_images/2023/09/Designblok-2022-praga.jpg "Designblok 2022. © Tomáš Hercog")
+![Exposición de jarrones de cristal de Designblok 2022](etheria-images/2023/09/Designblok-2022-praga.jpg "Designblok 2022. © Tomáš Hercog")
 
 ### Signal Festival, la fiesta de la luz
 
@@ -97,7 +97,7 @@ instalaciones de diversos artistas y 13 obras de arte de libre** acceso que incl
 **videomappings**, uno en la Biblioteca Municipal de la plaza de Mariánské y otro en la 
 iglesia de San Cirilo y San Metodio en la plaza de Karlín. 
 
-![Instalación del Festival Signal de 2022.](etheria_images/2023/09/Signal-2022-praga.jpg "Instalación del Festival Signal de 2022. © Tomas Slavik")
+![Instalación del Festival Signal de 2022.](etheria-images/2023/09/Signal-2022-praga.jpg "Instalación del Festival Signal de 2022. © Tomas Slavik")
 
 ### Festival Prague Sounds
 
@@ -117,7 +117,7 @@ Stone** en Lucerna Music Bar, uno de los locales praguenses míticos. En la [web
 de Prague Sounds](https://www.praguesounds.cz/cs/uvod) encontraréis toda la información 
 sobre el resto de grupos participantes. 
 
-![Angelique Kidjo actuará en el Prague Sounds.](etheria_images/2023/09/Angelique-Kidjo-prague-sounds.jpg "Angelique Kidjo actuará en el Prague Sounds. © Youri Lanquette")
+![Angelique Kidjo actuará en el Prague Sounds.](etheria-images/2023/09/Angelique-Kidjo-prague-sounds.jpg "Angelique Kidjo actuará en el Prague Sounds. © Youri Lanquette")
 
 **Te puede interesar...** 
 

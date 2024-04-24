@@ -1,13 +1,13 @@
 ---
 title: "Dorothea Hotel, Budapest, Autograph Collection, nuevo hotel de lujo en la capital húngara"
 date: 2023-12-01
-coverImage: etheria_images/2023/11/budapest-hotel-dorothea-hall.jpg
+coverImage: etheria-images/2023/11/budapest-hotel-dorothea-hall.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Nos vamos al Dorothea Hotel, un precioso alojamiento cinco estrellas que ocupa tres 
@@ -15,7 +15,7 @@ edificios históricos en el corazón de Budapest. Un lugar perfecto para disfrut
 ciudad centroeuropea llena de contenido histórico y artístico desde un hotel de lujo que 
 sumará muchos puntos a tu viaje. 
 
-![exterior del hotel Dorothea de Budapest.](etheria_images/2023/11/budapest-dorothea-hotel-exterior.jpg "Dorothea Hotel, Budapest, Autograph Collection.")
+![exterior del hotel Dorothea de Budapest.](etheria-images/2023/11/budapest-dorothea-hotel-exterior.jpg "Dorothea Hotel, Budapest, Autograph Collection.")
 
 Hay hoteles que llevan la historia de las ciudades donde se ubican sobre los hombros y 
 son parte indisoluble del alma de la ciudad. Ese es el caso del Dorothea Hotel, 
@@ -42,7 +42,7 @@ Budapest Metropolitan Savings Bank, de 1873; **Mahart**, de 1913 y estilo art No
 que estaba ocupado por la Compañía Húngara de Transporte Fluvial y Marítima; y 
 **Munnich**, un edificio modernista con toques art decó y Bauhaus de 1937. 
 
-![Entrada del Dorothea Hotel de Budapest.](etheria_images/2023/11/budapest-hotel-dorothea-hall.jpg "Entrada del Dorothea Hotel de Budapest.")
+![Entrada del Dorothea Hotel de Budapest.](etheria-images/2023/11/budapest-hotel-dorothea-hall.jpg "Entrada del Dorothea Hotel de Budapest.")
 
 Nada más entrar en el Dorothea Hotel, Budapest, Autograph Collection te das cuenta de 
 que te vas a alojar en un hotel muy especial donde el arte es protagonista. Junto al 
@@ -65,7 +65,7 @@ un dormitorio principal, vestidor, sauna, salón, comedor y cocina. Pero lo que 
 la atención de esta suite son sus inmensos ventanales, con unas vistas increíbles del 
 perfil de la ciudad de Budapest. 
 
-![Habitación del hotel Dorothea de Budapest](etheria_images/2023/11/budapest-dorothea-habitacion.jpg "Habitación del hotel Dorothea.")
+![Habitación del hotel Dorothea de Budapest](etheria-images/2023/11/budapest-dorothea-habitacion.jpg "Habitación del hotel Dorothea.")
 
 El resto de las habitaciones son de **estilo contemporáneo** y en ellas predominan los 
 tonos beige y naranja, que forman un original contraste con las cortinas color azul pavo 
@@ -83,7 +83,7 @@ acompañarán en 2024 dos nuevos espacios de altura: **BiBo**, el restaurante de
 galardonado **chef español Dani García**, que ocupará un espacio muy especial en la 
 azotea; y **Alelí**, una ostería en la planta baja. 
 
-![Anton’s Bar & Deli del hotel Dorothea](etheria_images/2023/11/budapest-dorothea-Anton-Bar.jpg "Anton’s Bar & Deli.")
+![Anton’s Bar & Deli del hotel Dorothea](etheria-images/2023/11/budapest-dorothea-Anton-Bar.jpg "Anton’s Bar & Deli.")
 
 Además, ya se puede disfrutar en el hotel de **The Mark**, un espacio habitual en la 
 marca Autograph Collection que en este caso presenta un jardín vertical; rinde homenaje 
@@ -100,7 +100,7 @@ de vapor y gimnasio. Los productos cosméticos y de tratamiento son de la marca 
 Cosmetics y se pueden disfrutar en las tres salas para masajes, una de ellas habilitadas 
 para parejas. El mejor broche posible a una jornada en la bella ciudad de Budapest. 
 
-![Piscina cubierta de la zona del spa del hotel Dorothea](etheria_images/2023/11/budapest-hotel-dorothea-spa-piscina.jpg "Piscina cubierta de la zona del spa.")
+![Piscina cubierta de la zona del spa del hotel Dorothea](etheria-images/2023/11/budapest-hotel-dorothea-spa-piscina.jpg "Piscina cubierta de la zona del spa.")
 
 [Dorothea Hotel, Budapest, Autograph 
 Collection.](https://www.marriott.com/en-us/hotels/budkc-dorothea-hotel-budapest-autograph-collection/overview/) 

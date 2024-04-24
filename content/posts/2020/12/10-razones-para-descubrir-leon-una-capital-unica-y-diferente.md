@@ -1,17 +1,17 @@
 ---
 title: "Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un reino fascinante"
 date: 2020-12-28
-coverImage: etheria_images/2020/12/leon-casa-botines-fachada.jpg
+coverImage: etheria-images/2020/12/leon-casa-botines-fachada.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Sentirse como Indiana Jones en busca del Santo Grial, adentrarse en la _Pulchra Leonina_, contemplar la obra más sorprendente de Gaudí o tomarse un vino leonés con un peregrino. Te damos diez motivos por los que León es una ciudad única (y tan adictiva como sus tapas). 
 
-![catedral de leon capital](etheria_images/2020/12/catedral-leon-869x1024.jpg "Catedral de León. © Kelu Robles")
+![catedral de leon capital](etheria-images/2020/12/catedral-leon-869x1024.jpg "Catedral de León. © Kelu Robles")
 
 ## 1\. La belleza hipnotizante de la catedral de León
 
@@ -23,7 +23,7 @@ mejores de Europa—, sus intensos colores se proyectan sobre dinteles, columnas
 tabiques, generando un **efecto óptico** casi mágico. La magia está muy presente en 
 León. 
 
-![colegiata san isidoro leon](etheria_images/2020/12/leon-san-isidoro.jpg "Interior del Panteón de los Reyes en la Real Colegiata de San Isidoro. © Ayto. de León")
+![colegiata san isidoro leon](etheria-images/2020/12/leon-san-isidoro.jpg "Interior del Panteón de los Reyes en la Real Colegiata de San Isidoro. © Ayto. de León")
 
 ## 2\. El misterio del Santo Grial 
 
@@ -34,7 +34,7 @@ apodada **‘Capilla Sixtina del Románico’**, un monumento reconocido interna
 por la excelente conservación de sus claustros, códices y frescos de más de mil años de 
 antigüedad. 
 
-![dragon y torre de casa botines](etheria_images/2020/12/dragon-casa-botines.jpg "Torreones, San Jorge y el dragón de © Casa Botines.")
+![dragon y torre de casa botines](etheria-images/2020/12/dragon-casa-botines.jpg "Torreones, San Jorge y el dragón de © Casa Botines.")
 
 ## 3\. Una versión poco común de Gaudí
 
@@ -50,7 +50,7 @@ mundo](https://www.casabotines.es/) dedicado a Gaudí, y su sótano está dedica
 Modernista de Ezequiel](http://www.casabotines.es/restaurante), el restaurante de una de 
 las firmas hosteleras más importantes de León. 
 
-![parque del cid en leon](etheria_images/2020/12/parque-del-cid-leon.jpg "En el Parque del Cid se puede ascender por libre hasta la parte superior de la muralla romana. © Santiago Robles")
+![parque del cid en leon](etheria-images/2020/12/parque-del-cid-leon.jpg "En el Parque del Cid se puede ascender por libre hasta la parte superior de la muralla romana. © Santiago Robles")
 
 ## 4\. El origen romano y guerrero de León, una ciudad-campamento
 
@@ -63,7 +63,7 @@ guiadas](http://www.aytoleon.es/es/ayuntamiento/areasmunicipales/patrimonio/Pagi
 gratuitas por el trazado original del campamento legionario, con visita incluida a sus 
 termas y al **anfiteatro romano**. 
 
-![museo arte contemporaneo de leon](etheria_images/2020/12/museo-arte-contemporaneo-leon.jpg "MUSAC, Museo de Arte Contemporáneo de Castilla y León. © Juan José Berhó")
+![museo arte contemporaneo de leon](etheria-images/2020/12/museo-arte-contemporaneo-leon.jpg "MUSAC, Museo de Arte Contemporáneo de Castilla y León. © Juan José Berhó")
 
 ## 5\. Impregnarse del arte contemporáneo del MUSAC
 
@@ -75,7 +75,7 @@ como resultado un ambiente que da cabida a la reflexión filosófica, desde lo m
 profundo del ser humano hasta lo más banal. Una visita a su interior no deja indiferente 
 a nadie y, además, la entrada es gratuita los domingos. 
 
-![rosquillas san froilan de leon](etheria_images/2020/12/rosquillas-san-froilan-leon.jpg "Las rosquillas de San Froilán son el dulce típico del 5 de octubre, festividad que conmemora al patrón de León. © Confitería Sanvy")
+![rosquillas san froilan de leon](etheria-images/2020/12/rosquillas-san-froilan-leon.jpg "Las rosquillas de San Froilán son el dulce típico del 5 de octubre, festividad que conmemora al patrón de León. © Confitería Sanvy")
 
 ## 6\. De cortos, Prietos, butanos y limonadas: el idioma del Húmedo y un barrio inventado
 
@@ -92,7 +92,7 @@ te encuentras con un cartel que anuncia **“limonada**”, en realidad se trata
 bebida más famosa de la Semana Santa leonesa, un rojizo brebaje alcohólico similar a la 
 sangría, pero elaborado artesanalmente y con un punto meloso. 
 
-![vinos y tapas en leon](etheria_images/2020/12/barrio-humedo-leon.jpg "Los vinos siempre irán acompañados de tapas en León. © Ayto. de León")
+![vinos y tapas en leon](etheria-images/2020/12/barrio-humedo-leon.jpg "Los vinos siempre irán acompañados de tapas en León. © Ayto. de León")
 
 Y todo esto incluirá siempre, siempre, SIEMPRE, una considerable tapa cuyo tamaño aspira 
 a ración. En el **Barrio Húmedo**, en pleno casco histórico de la ciudad, probarás la 
@@ -110,7 +110,7 @@ coqueta de la capital, con locales de cocina internacional, vermuterías y bonit
 de copas, como el antiguo cabaret de [El Gran 
 Café](https://m.facebook.com/ELGRANCAFELEON/?locale2=es_ES). 
 
-![semana santa de leon](etheria_images/2020/12/semana-santa-leon.jpg "La Exaltación de la Cruz de la procesión de Los Pasos. © Ruben Ojeda")
+![semana santa de leon](etheria-images/2020/12/semana-santa-leon.jpg "La Exaltación de la Cruz de la procesión de Los Pasos. © Ruben Ojeda")
 
 ## 7\. Sentir la magia de su Navidad y el fervor de su Semana Santa  
 
@@ -129,7 +129,7 @@ Magia](https://festivalvivelamagia.es/), este año con especiales medidas de seg
 Durante esos días, cualquier cosa es posible en las calles de León y la ilusión de los 
 más pequeños se convierte en lo más importante. 
 
-![parador de leon](etheria_images/2020/12/parador-leon-renovado-683x1024.jpg "Interior del recién renovado Parador de León. © Paradores")
+![parador de leon](etheria-images/2020/12/parador-leon-renovado-683x1024.jpg "Interior del recién renovado Parador de León. © Paradores")
 
 ## 8\. Dormir como un peregrino de lujo
 
@@ -144,7 +144,7 @@ de peregrinos, cuartel y hasta cárcel en la que estuvo preso **Francisco de**
 quinientas obras de arte, una de las razones por las que ha obtenido la exclusiva 
 categoría cinco estrellas Gran Lujo. 
 
-![plaza del grano de leon](etheria_images/2020/12/Leon-nevado.jpg "Plaza del Grano. © El Leonés Errante")
+![plaza del grano de leon](etheria-images/2020/12/Leon-nevado.jpg "Plaza del Grano. © El Leonés Errante")
 
 ## 9\. Vivir sus dos estaciones: el invierno y la del tren
 
@@ -154,7 +154,7 @@ frío en invierno, esta gélida cuestión ofrece una excusa ideal para disfrutar
 de semana en [San Isidro](https://www.san-isidro.net/), la estación de esquí más grande 
 de la provincia. 
 
-![museo de leon](etheria_images/2020/12/vista-centro-leon.jpg "El Museo de León es el más antiguo de la provincia. © El Leonés Errante")
+![museo de leon](etheria-images/2020/12/vista-centro-leon.jpg "El Museo de León es el más antiguo de la provincia. © El Leonés Errante")
 
 ## 10\. Irás por su abrumador legado histórico, volverás por su ambiente ‘prestoso’ 
 

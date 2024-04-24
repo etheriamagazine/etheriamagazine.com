@@ -1,19 +1,19 @@
 ---
 title: "El aguacate, conoce sus beneficios y prepara recetas sencillas"
 date: 2021-01-26
-coverImage: etheria_images/2021/01/aguacates-rellenos.jpg
+coverImage: etheria-images/2021/01/aguacates-rellenos.jpg
 categories: 
   - salud-bienestar-nutricion
   - mejores-restaurantes-gastronomia
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El aguacate es uno de los grandes aliados para la salud y también un ingrediente muy 
 útil para preparar desayunos sencillos, y cenas rápidas bajas en calorías. Te contamos 
 sus beneficios, algunas curiosidades y varias recetas para hacer en menos de 10 minutos. 
 
-![El aguacate proporciona grandes beneficios a la salud.](etheria_images/2021/01/aguacate-no-engorda.jpg "El aguacate proporciona grandes beneficios a la salud. © Noah Buscher")
+![El aguacate proporciona grandes beneficios a la salud.](etheria-images/2021/01/aguacate-no-engorda.jpg "El aguacate proporciona grandes beneficios a la salud. © Noah Buscher")
 
 **Actualizado 10/2023** 
 
@@ -35,7 +35,7 @@ marrón. Como ya imaginarás, el aguacate no es originario de España, sino que 
 México, Colombia y Venezuela. Cuando los españoles llegaron por aquellos lares, 
 comenzaron a llamarlo “pera de las Indias” debido a su forma. 
 
-![aguacate en arbol](etheria_images/2021/01/arbol-aguacate.jpg "Árbol de aguacate. © Wimber Cancho")
+![aguacate en arbol](etheria-images/2021/01/arbol-aguacate.jpg "Árbol de aguacate. © Wimber Cancho")
 
 ## Variedades de aguacate
 
@@ -50,7 +50,7 @@ pera, piel mate y muy buen sabor. Cada pieza pesa unos 250 gramos y se cultiva e
 Sudáfrica, Israel y España. Y, por último, el **Pinkerton**, alargado y de piel rugosa 
 que se cultiva en Israel. Tienes donde elegir. 
 
-![parte carnosa del aguacate](etheria_images/2021/01/recetas-con-aguacate.jpg "Así se extrae la parte carnosa del aguacate. © Louis Hansel")
+![parte carnosa del aguacate](etheria-images/2021/01/recetas-con-aguacate.jpg "Así se extrae la parte carnosa del aguacate. © Louis Hansel")
 
 ## Cuándo comprar los mejores aguacates
 
@@ -59,7 +59,7 @@ si la tiene. En este caso, a partir de octubre si eliges la variedad _Bacon_, du
 todo el año en caso de la _Fuerte_, y la _Pinkerton_, en febrero y marzo, aunque en 
 España es difícil encontrarla en el mercado. 
 
-![Carne cremosa del aguacate.](etheria_images/2021/01/color-verde-aguacate.jpg "Carne cremosa del aguacate. © Glen Carrie")
+![Carne cremosa del aguacate.](etheria-images/2021/01/color-verde-aguacate.jpg "Carne cremosa del aguacate. © Glen Carrie")
 
 ## Propiedades y beneficios del aguacate para el organismo
 
@@ -82,7 +82,7 @@ aguacate al día no te hará subir de peso si controlas no pasarte de una ingest
 de calorías (unas 2.200 en el caso de una mujer adulta, de entre 18 y 30 años, con una 
 actividad física media). 
 
-![desayuno saludable con aguacate](etheria_images/2021/01/tostadas-saludables-aguacate-742x1024.jpg "Desayuno saludable. © Luisa Brimble")
+![desayuno saludable con aguacate](etheria-images/2021/01/tostadas-saludables-aguacate-742x1024.jpg "Desayuno saludable. © Luisa Brimble")
 
 ## Recetas con aguacate, ricas y bajas en calorías
 
@@ -99,7 +99,7 @@ aguacates no están en su punto, no los metas en el frigorífico porque se corta
 proceso de maduración, déjalos unos días en un lugar cálido (a 15-20 ºC) y mejor a 
 oscuras. 
 
-![tostada de aguacate y huevo frito](etheria_images/2021/01/tostada-aguacate-huevo-801x1024.jpg "Tosta de aguacate y huevo frito. © Alison Marras")
+![tostada de aguacate y huevo frito](etheria-images/2021/01/tostada-aguacate-huevo-801x1024.jpg "Tosta de aguacate y huevo frito. © Alison Marras")
 
 ### Tostadas con aguacate, un desayuno ligero y completo
 
@@ -110,7 +110,7 @@ lo que prefieras. Es habituar tomarla con lonchas de queso fresco, con un huevo
 benedictino, tomate, jamón, anchoas... Con queso gorgonzola, pera, nueces y miel, es una 
 delicia. 
 
-![tartar de salmon con aguacate](etheria_images/2021/01/tartar-aguacate-salmon.jpg "Tartar de aguacate y salmón. © Timolina")
+![tartar de salmon con aguacate](etheria-images/2021/01/tartar-aguacate-salmon.jpg "Tartar de aguacate y salmón. © Timolina")
 
 ### Tartar de aguacate y salmón
 
@@ -122,7 +122,7 @@ y ralladura), cilantro (o perejil si no te gusta), sal y pimienta. Ahora solo te
 montarlo en capas, y dejarlo en el frigorífico para que se enfríe. Lo puedes adornar con 
 brotes tiernos o semillas de sésamo. 
 
-![aguacates rellenos con queso feta](etheria_images/2021/01/aguacates-rellenos.jpg "Aguacates rellenos de queso Queta. © Heather Ford")
+![aguacates rellenos con queso feta](etheria-images/2021/01/aguacates-rellenos.jpg "Aguacates rellenos de queso Queta. © Heather Ford")
 
 ### Aguacates rellenos
 

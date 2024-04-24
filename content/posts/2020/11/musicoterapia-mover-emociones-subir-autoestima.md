@@ -1,16 +1,16 @@
 ---
 title: "Musicoterapia, un recurso importante para restaurar el equilibrio y la salud"
 date: 2020-11-11
-coverImage: etheria_images/2020/11/musicoterapia-ayuda-autoestima.jpg
+coverImage: etheria-images/2020/11/musicoterapia-ayuda-autoestima.jpg
 categories: 
   - salud-bienestar-nutricion
-author: 
+authors: 
   - Maria Miret
 ---
 
 ##### La Musicoterapia utiliza la música para conseguir objetivos no musicales. Mover emociones, subir la autoestima o aumentar la confianza en uno mismo son algunos de los beneficios del encuentro entre el ser humano y la música. No cura enfermedades _per se_, pero proporciona alivio espiritual. Esta terapia complementaria sin efectos secundarios tiene cabida en el ámbito sanitario, donde se trabaja en equipos interdisciplinares.
 
-![musicoterapia una terapia con grandes beneficios](etheria_images/2020/11/musicoterapia-salud.jpg "Musicoterapia, una terapia con múltiples beneficios. © James Park")
+![musicoterapia una terapia con grandes beneficios](etheria-images/2020/11/musicoterapia-salud.jpg "Musicoterapia, una terapia con múltiples beneficios. © James Park")
 
 . 
 
@@ -39,7 +39,7 @@ basado en la evidencia de las intervenciones de la música para lograr metas
 individuales” dentro de una relación terapéutica con un profesional acreditado que ha 
 cursado un programa oficial de Musicoterapia. 
 
-![musicoterapia para el estres](etheria_images/2020/11/terapia-musical.jpg "Una terapia sin efectos secundarios negativos. © Alp Ancel")
+![musicoterapia para el estres](etheria-images/2020/11/terapia-musical.jpg "Una terapia sin efectos secundarios negativos. © Alp Ancel")
 
 Se trata de una **terapia complementaria a la farmacológica, de bajo coste y sin efectos 
 secundarios**. En España, su utilización y aplicación debe ser siempre llevada a cabo 
@@ -58,7 +58,7 @@ entidad multidimensional y la música también lo es desde su dimensión física
 social y espiritual”, recuerda Camino Bengoechea, musicoterapeuta en [HM 
 Hospitales](https://www.hmhospitales.com/). 
 
-![musicoterapia para mover emociones](etheria_images/2020/11/musica-para-curar.jpg "A través del sonido se mueven las emociones. @ Josephine Bevan")
+![musicoterapia para mover emociones](etheria-images/2020/11/musica-para-curar.jpg "A través del sonido se mueven las emociones. @ Josephine Bevan")
 
 ## En Musicoterapia “has de conocer la psicología de la persona”
 
@@ -81,7 +81,7 @@ fundamento de lo que estamos haciendo”. Numerosas universidades en Europa tien
 doctorados en Musicoterapia y en España existe una apuesta por la profesionalización de 
 la musicoterapia desde las asociaciones profesionales. 
 
-![musicoterapia para mujeres](etheria_images/2020/11/musicoterapia-ayuda-autoestima.jpg "La musicoterapia complementa otras terapias. © Vidar Nordii Mathisen")
+![musicoterapia para mujeres](etheria-images/2020/11/musicoterapia-ayuda-autoestima.jpg "La musicoterapia complementa otras terapias. © Vidar Nordii Mathisen")
 
 ## El encuentro entre el ser humano y la música
 
@@ -104,7 +104,7 @@ arreglan las músicas”, explica Conxita Bentz. Se trata de un “camino para a
 se pone música y otras no, pero la musicoterapia abarca el silencio, la armonía, el 
 sonido, las formas musicales…” 
 
-![musicoterapeutas](etheria_images/2020/11/musica-piano-terapia-690x1024.jpg "Para beneficiarse de la musicoterapia no hace falta disponer de grandes habilidades musicales. © Rukma Pratista")
+![musicoterapeutas](etheria-images/2020/11/musica-piano-terapia-690x1024.jpg "Para beneficiarse de la musicoterapia no hace falta disponer de grandes habilidades musicales. © Rukma Pratista")
 
 Lo importante es que para beneficiarse de la musicoterapia no hace falta disponer de 
 habilidades musicales especiales. Tampoco quien la recibe tiene por qué saber música. La 
@@ -131,7 +131,7 @@ se utilizan todos los elementos de la música para que los enfermos expresen sus
 emociones y puedan manipular objetos en su vida cotidiana, que vean que pueden 
 controlar, a través del ritmo y de tocar instrumentos adecuados a cada situación. 
 
-![terapia musical](etheria_images/2020/11/terapia-escuchar-musica-892x1024.jpg "Escuchar música también forma parte de la terapia. © Engin Akyurt")
+![terapia musical](etheria-images/2020/11/terapia-escuchar-musica-892x1024.jpg "Escuchar música también forma parte de la terapia. © Engin Akyurt")
 
 En el ámbito de la salud se trabaja en equipos interdisciplinares, en colaboración con 
 el equipo médico. “Hay que saber lo que haces y conocer la historia médica y musical de 

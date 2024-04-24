@@ -1,12 +1,12 @@
 ---
 title: "5 razones para visitar Polonia en Navidad"
 date: 2019-11-05
-coverImage: etheria_images/2019/10/polonia-que-ver-navidad.jpg
+coverImage: etheria-images/2019/10/polonia-que-ver-navidad.jpg
 categories: 
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El período navideño en Polonia es una de las épocas más entrañables del año. Durante 
@@ -14,7 +14,7 @@ casi un mes, sus ciudades se muestran envueltas en un paréntesis de fantasía, 
 dulce, vino caliente y villancicos. Si aún estás pensando qué país europeo te interesa 
 más para conocer su Navidad, te damos cinco razones por las que Polonia es buena idea. 
 
-![navidad varsovia, fuente varsovia, navidad polonia](etheria_images/2019/10/polonia-luces-fuente-navidad-varsovia-900x600.jpg "Iluminación navideña de Varsovia.")
+![navidad varsovia, fuente varsovia, navidad polonia](etheria-images/2019/10/polonia-luces-fuente-navidad-varsovia-900x600.jpg "Iluminación navideña de Varsovia.")
 
 Europa se viste de gala para celebrar el Adviento y la Navidad. Si casi todas las 
 ciudades europeas exhiben preciosos mercadillos navideños, ¿por qué tendríamos que 
@@ -36,7 +36,7 @@ suelen tener programas en estas fechas.
 Si, por algún motivo, esas fechas no cuadran en tu agenda, encontrarás muchas más 
 razones para conocer la ciudad, considerada uno de los mejores destinos europeos. 
 
-![Festival Internacional de Esculturas en el Hielo de Poznan](etheria_images/2019/10/polonia-festival-figuras-hielo-poznan.jpg "Festival Internacional de Esculturas en el Hielo de Poznan.")
+![Festival Internacional de Esculturas en el Hielo de Poznan](etheria-images/2019/10/polonia-festival-figuras-hielo-poznan.jpg "Festival Internacional de Esculturas en el Hielo de Poznan.")
 
 ## 2\. Los belenes de Cracovia, Patrimonio de la Humanidad
 
@@ -59,7 +59,7 @@ del Mercado (o Plaza Mayor) para ser expuestos. Los más pequeñitos, se colocan
 vitrinas en lugares emblemáticos de Cracovia y los de mayor tamaño, en el Museo 
 Etnográfico. 
 
-![concurso belenes cracovia](etheria_images/2019/10/concurso-belenes-unesco-cracovia-900x619.jpg "Concurso de belenes de Cracovia. © M.M.")
+![concurso belenes cracovia](etheria-images/2019/10/concurso-belenes-unesco-cracovia-900x619.jpg "Concurso de belenes de Cracovia. © M.M.")
 
 ## 3\. Las luces de Varsovia
 
@@ -74,7 +74,7 @@ Wilanów, que invita a sumergirse en un sorprendente laberinto de luces.
 Sólo un dato para terminar: se emplean más de 1.000 elementos decorativos que, si los 
 pusiésemos en fila, alcanzarían ¡700 km de longitud! 
 
-![luces de varsovia, navidad varsovia](etheria_images/2019/10/polonia-navidad-mercadillos-luces-900x587.jpg "Preciosa iluminación de Varsovia.")
+![luces de varsovia, navidad varsovia](etheria-images/2019/10/polonia-navidad-mercadillos-luces-900x587.jpg "Preciosa iluminación de Varsovia.")
 
 ## 4\. La diversión de Zakopane
 
@@ -88,7 +88,7 @@ casualmente, tiene lugar en Navidad y Nochevieja.
 No podrás creer el ambiente que se respira el último día del año o los artistas famosos 
 que acuden a estos eventos musicales. Hace dos años, estuvo Luis Fonsi. 
 
-![zakopane, navidad polonia](etheria_images/2019/10/polonia-navidad-zakopane-mercadillo-900x600.jpg "Idílica postal navideña en Zakopane.")
+![zakopane, navidad polonia](etheria-images/2019/10/polonia-navidad-zakopane-mercadillo-900x600.jpg "Idílica postal navideña en Zakopane.")
 
 ## 5\. Relax cerca de Zakopane
 
@@ -97,7 +97,7 @@ ellos, también tenemos una sugerencia en Polonia. Además, es una recomendació
 glamour y relax. En los alrededores de la ciudad anterior, Zakopane, se ubican varios 
 centros de aguas termales que son idóneos para conectar con uno mismo. 
 
-![turismo termal polonia](etheria_images/2019/10/polonia-termas-bania-900x577.jpg "Terma del hotel Bania. © Szymon-Polansk/ hotel Bania")
+![turismo termal polonia](etheria-images/2019/10/polonia-termas-bania-900x577.jpg "Terma del hotel Bania. © Szymon-Polansk/ hotel Bania")
 
 No son spas, ya que sus aguas son geotermales y llegan directamente a las instalaciones. 
 Suelen estar abiertas todo el año y en invierno acuden muchos esquiadores, que van a 
@@ -105,7 +105,7 @@ relajarse tras un día de intenso ejercicio deportivo. Si te atrae el deporte bl
 alójate en hoteles como Bania o Bukovina, que te brindan la oportunidad de acudir de 
 forma ilimitada a la zona de termas. 
 
-![termas hotel bania, navidades termales polonia](etheria_images/2019/10/polonia-hotel-bania-termas-900x600.jpg "Terma del hotel Bania. © Szymon-Polansk/ hotel Bania")
+![termas hotel bania, navidades termales polonia](etheria-images/2019/10/polonia-hotel-bania-termas-900x600.jpg "Terma del hotel Bania. © Szymon-Polansk/ hotel Bania")
 
 ¿Necesitas algún motivo más para realizar una inmersión en la cultura navideña de 
 Polonia? 

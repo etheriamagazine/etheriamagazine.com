@@ -1,18 +1,18 @@
 ---
 title: "10 experiencias navideñas en Alemania a través de sus länder"
 date: 2020-12-10
-coverImage: etheria_images/2020/12/Alemania-Baviera-Ramsau.jpg
+coverImage: etheria-images/2020/12/Alemania-Baviera-Ramsau.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ##### Alemania es un país diverso, que ofrece una personalidad propia en cada uno de sus dieciséis länder. En este artículo te contamos cómo se manifiesta esta diversidad durante la época navideña en 10 de estos estados federados, el momento del año en el que se viven de forma más intensa las costumbres y tradiciones.
 
-![Navidad en Alemania](etheria_images/2020/12/Alemania-Baviera-Ramsau.jpg "Navideña imagen de la iglesia de San Sebastián en Ramsau, Baviera. © GNTB/Getty Images/Bluejayphoto")
+![Navidad en Alemania](etheria-images/2020/12/Alemania-Baviera-Ramsau.jpg "Navideña imagen de la iglesia de San Sebastián en Ramsau, Baviera. © GNTB/Getty Images/Bluejayphoto")
 
 Si hay un país que rápidamente asociamos con las tradiciones navideñas ese es Alemania. 
 Han conseguido que la arquitectura de los cascos históricos con edificios de ladrillo y 
@@ -26,7 +26,7 @@ realizar en esta época del año en 10 de sus estados federados. Las hay origina
 naturaleza, urbanas, muy navideñas o para apartarse del jaleo de esta época. ¡Tú 
 decides! 
 
-![Cerveza en Alemania](etheria_images/2020/12/Alemania-baviera-cerveza.jpg "Disfrutar de una buena cerveza es obligatorio en Baviera. © GNTB/Franken Tourismus/Bamberg TKS/Andreas Hub")
+![Cerveza en Alemania](etheria-images/2020/12/Alemania-baviera-cerveza.jpg "Disfrutar de una buena cerveza es obligatorio en Baviera. © GNTB/Franken Tourismus/Bamberg TKS/Andreas Hub")
 
 ## 1\. Cerveza y esquí en Baviera
 
@@ -44,7 +44,7 @@ junto al Almerg, donde la zona de Junior Ski Zirkus ofrece de los mejores lugare
 Alemania para que los más pequeños disfruten de la nieve. Una de las experiencias 
 navideñas en Alemania perfectas para las amantes del deporte. 
 
-![Navidad en Berlín](etheria_images/2020/12/Alemania-Berlin.jpg "La Puerta de Brandeburgo en Navidad. © GNTB/Getty Images/Golero")
+![Navidad en Berlín](etheria-images/2020/12/Alemania-Berlin.jpg "La Puerta de Brandeburgo en Navidad. © GNTB/Getty Images/Golero")
 
 ## 2\. Mercadillos de Navidad en Berlín
 
@@ -59,7 +59,7 @@ necesarias para combatir la Covid, pero seguirán siendo el lugar que mejor repr
 espíritu navideño alemán con sus regalos y detalles para el árbol y el aroma de los 
 dulces y del vino caliente. 
 
-![Hamburgo en Navidad.](etheria_images/2020/12/Alemania-Hamburgo.jpg "Hamburgo en Navidad. © GNTB/Getty Images/Westend61")
+![Hamburgo en Navidad.](etheria-images/2020/12/Alemania-Hamburgo.jpg "Hamburgo en Navidad. © GNTB/Getty Images/Westend61")
 
 ## 3\. Ambiente nocturno en Hamburgo
 
@@ -71,7 +71,7 @@ casetas, desde las más infantiles y tradicionales a otras más desenfadadas. Un
 mejores espectáculos es el que proporciona el **puerto**, con barcos históricos como el 
 Rickmer Rickmers que navegan totalmente iluminados. 
 
-![Invierno en el mar de Frisia](etheria_images/2020/12/Alemania-Husum-Frisia.jpg "Imagen helada de Husum, en el mar de Frisia. © GNTB/Tourismus und Stadtmarketing Husum GmbH/Oliver Franke")
+![Invierno en el mar de Frisia](etheria-images/2020/12/Alemania-Husum-Frisia.jpg "Imagen helada de Husum, en el mar de Frisia. © GNTB/Tourismus und Stadtmarketing Husum GmbH/Oliver Franke")
 
 ## 4\. Playa en invierno en Baja Sajonia
 
@@ -84,7 +84,7 @@ nieve y mar. No puedes perderte una de esas especialidades alemanas que reviven 
 muerto: una _Tote Tante_, una bebida caliente a base de cacao y ron decorada con nata. 
 Apetece, ¿verdad? 
 
-![Bremen en Navidad](etheria_images/2020/12/Alemania-Bremen.jpg "Luces navideñas en Bremen. © GNTB/BTZ/Jonas Ginter")
+![Bremen en Navidad](etheria-images/2020/12/Alemania-Bremen.jpg "Luces navideñas en Bremen. © GNTB/BTZ/Jonas Ginter")
 
 ## 5\. Ciencia en Bremen
 
@@ -94,7 +94,7 @@ Tierra: experimentarás climas de los cinco continentes. Después, no puede habe
 plan que acercarse al **mercadillo** que se ubica cada año a orillas del Weser y 
 disfrutar de la iluminación navideña del casco antiguo. 
 
-![contemplar la migración de gansos en Alemania es una de las mejores experiencias navideñas](etheria_images/2020/12/Alemania-Renania-gansos.jpg "Avistamiento de gansos en el Bajo Rin. © GNTB/Getty Images/Richard Dorn")
+![contemplar la migración de gansos en Alemania es una de las mejores experiencias navideñas](etheria-images/2020/12/Alemania-Renania-gansos.jpg "Avistamiento de gansos en el Bajo Rin. © GNTB/Getty Images/Richard Dorn")
 
 ## 6\. Aves en Renania del Norte-Westfalia
 
@@ -108,7 +108,7 @@ navideñas en Alemania preferidas. Y después, para meterse de lleno en el espí
 navideño, en **Kevelaer** disfrutarán las amantes de los belenes y los adornos navideños 
 en su mercadillo de Adviento. 
 
-![Paseo en trineo con perros husky es una de las experiencias navideña sen Alemania imprescindibles](etheria_images/2020/12/Alemania-hesse-perros-husky.jpg "En el norte de Hesse no puedes perderte un paseo en trineo tirado por perros husky. © GNTB/DZT/Andreas Kaster")
+![Paseo en trineo con perros husky es una de las experiencias navideña sen Alemania imprescindibles](etheria-images/2020/12/Alemania-hesse-perros-husky.jpg "En el norte de Hesse no puedes perderte un paseo en trineo tirado por perros husky. © GNTB/DZT/Andreas Kaster")
 
 ## 7\. Paseo en trineo tirado por perros husky en Hesse
 
@@ -120,7 +120,7 @@ por uno con ruedas para que la experiencia sea lo más similar posible. Para ter
 una bebida de esas con las que seguro entras en calor: el _Stöffsche_, sidra caliente 
 con canela y clavo. 
 
-![Bosque nevado en Alemania.](etheria_images/2020/12/Alemania-bosque-spree.jpg "Paisaje nevado del bosque Srpee.© GNTB/TMB-Fotoarchiv/Steffen Lehmann")
+![Bosque nevado en Alemania.](etheria-images/2020/12/Alemania-bosque-spree.jpg "Paisaje nevado del bosque Srpee.© GNTB/TMB-Fotoarchiv/Steffen Lehmann")
 
 ## 8\. Naturaleza en el bosque en Brandeburgo
 
@@ -133,7 +133,7 @@ lagos’](https://www.brandenburg-tourism.com/poi/spreewald/hiking-tours/66-lake
 que con sus más de 400 kilómetros es una de las más bonitas de Alemania por sus paisajes 
 naturales y por los pueblos de cuento que atraviesa. 
 
-![](etheria_images/2020/12/Alemania-straldsun.jpg "Casco histórico de Stralsund con la iglesia de San Nicolás, el Ayuntamiento y el Mercado. © GNTB/Francesco Carovillano")
+![](etheria-images/2020/12/Alemania-straldsun.jpg "Casco histórico de Stralsund con la iglesia de San Nicolás, el Ayuntamiento y el Mercado. © GNTB/Francesco Carovillano")
 
 ## 9\. Tradición en Mecklemburgo-Pomerania Occidental
 
@@ -147,7 +147,7 @@ bóveda gótica más grande de la zona del Báltico. Por cierto, si queréis pro
 alemán muy típico, tenéis que saber que ésta es la tierra de los **arenques Bismarck**, 
 que se maceran en una mezcla suave de vinagre, azúcar, sal y cebolla. Deliciosos. 
 
-![Pasear en los alrededores del castillo de Hohenzollern es una de las experiencias navideñas en Alemania que no puedes perderte](etheria_images/2020/12/Alemania-castillo-Hohenzollern.jpg "Castillo de Hohenzollern en el länder Baden-Wurtemberg. © GNTB/Dietmar Scherf")
+![Pasear en los alrededores del castillo de Hohenzollern es una de las experiencias navideñas en Alemania que no puedes perderte](etheria-images/2020/12/Alemania-castillo-Hohenzollern.jpg "Castillo de Hohenzollern en el länder Baden-Wurtemberg. © GNTB/Dietmar Scherf")
 
 ## 10\. Ruta panorámica en Baden-Wurtemberg
 

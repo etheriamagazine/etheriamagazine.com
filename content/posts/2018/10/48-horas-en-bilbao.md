@@ -1,18 +1,18 @@
 ---
 title: "Rutas básicas en Bilbao para un fin de semana"
 date: 2018-10-22
-coverImage: etheria_images/2018/10/viaje-bilbao-puente.jpg
+coverImage: etheria-images/2018/10/viaje-bilbao-puente.jpg
 categories: 
   - viajes-48-horas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Si no sabes qué hacer en Bilbao durante un fin de semana, toma nota de las siguientes recomendaciones. Te ayudarán a descubrir nuevas facetas de la capital vizcaína mientras navegas por la ría del Nervión, tomas pintxos, vas de compras o admiras la arquitectura.
 
-![chuleton en barcelo nervion bilbao](etheria_images/2018/10/viaje-bilbao-hotel-nervion.jpg "Restaurante Ibaizabal en hotel Barceló Nervión (Bilbao).")
+![chuleton en barcelo nervion bilbao](etheria-images/2018/10/viaje-bilbao-hotel-nervion.jpg "Restaurante Ibaizabal en hotel Barceló Nervión (Bilbao).")
 
 Quien acuda a Bilbao esperando encontrar una ciudad gris y con perfil industrial se 
 sentirá totalmente defraudado. Esa imagen de urbe portuaria donde las plantas 
@@ -27,7 +27,7 @@ César Pelli, Santiago Calatrava, Arata Isozaki, Álvaro Siza, Zaha Hadid, Ricar
 Legorreta y Peña Ganchegui no les costó ver el potencial que ocultaba y aceptaron el 
 reto de aportar su granito de arena en la creación de un Bilbao renovado. 
 
-![viaje a bilbao, que ver en bilbao](etheria_images/2018/10/viaje-mujeres-bilbao-guggenheim.jpg "'Maman' y el Guggenheim.")
+![viaje a bilbao, que ver en bilbao](etheria-images/2018/10/viaje-mujeres-bilbao-guggenheim.jpg "'Maman' y el Guggenheim.")
 
 ## Bilbao: de patito feo a cisne
 
@@ -40,7 +40,7 @@ tiendas, que crean sus propias colecciones; y los espacios que se transforman, c
 no os prometemos que lo podáis ver todo pero sí que os enganchará lo suficiente como 
 para poner fecha de vuelta antes de marcharos. 
 
-![viaje a bilbao, que hacer en bilbao, paseos por bilbao](etheria_images/2018/10/viaje-bilbao-crucero-ria-nervion.jpg "Paseo por la ría del Nervión.")
+![viaje a bilbao, que hacer en bilbao, paseos por bilbao](etheria-images/2018/10/viaje-bilbao-crucero-ria-nervion.jpg "Paseo por la ría del Nervión.")
 
 ## Qué ver y hacer en Bilbao en un finde
 
@@ -58,7 +58,7 @@ Subamos a uno de los barcos que realizan el trayecto fluvial desde el centro has
 desembocadura de la ría para disfrutar de sus puentes y de la perspectiva urbana que se 
 obtiene desde cubierta. 
 
-![que hacer en bilbao, visitas en bilbao](etheria_images/2018/10/viaje-bilbao-puente-vizcaya.jpg "Puente Vizcaya, el primer trasbordador metálico del mundo.")
+![que hacer en bilbao, visitas en bilbao](etheria-images/2018/10/viaje-bilbao-puente-vizcaya.jpg "Puente Vizcaya, el primer trasbordador metálico del mundo.")
 
 #### Puentes del Ayuntamiento y de Zubizuri
 
@@ -95,7 +95,7 @@ Este paseo es de unas dos horas sintetiza la historia de Bilbao, pasa por planta
 siderúrgicas,y se pueden el Museo Guggenheim, el estadio San Mamés, el puente Zubizuri o 
 la pasarela de Arrupe. 
 
-![bares de pinchos en bilbao, donde comer en bilbao](etheria_images/2018/10/viaje-bilbao-gildas.jpg "Tomar unas gildas es obligatorio en Bilbao.")
+![bares de pinchos en bilbao, donde comer en bilbao](etheria-images/2018/10/viaje-bilbao-gildas.jpg "Tomar unas gildas es obligatorio en Bilbao.")
 
 ## 2\. Ruta de pintxos en Bilbao
 
@@ -132,7 +132,7 @@ restaurante de Eneko Atxa, [Azurmendi](https://azurmendi.restaurant/), que cuent
 tres estrellas Michelin. Disfrutar de las terrazas no siempre es posible pero si amanece 
 uno de esos días de invierno soleados es un placer sentarse junto a la ría. 
 
-![compras en bilbao, que ver en bilbao](etheria_images/2018/10/viaje-bilbao-tiendas.jpg "Bilbao cuenta con tiendas-boutique muy originales.")
+![compras en bilbao, que ver en bilbao](etheria-images/2018/10/viaje-bilbao-tiendas.jpg "Bilbao cuenta con tiendas-boutique muy originales.")
 
 ## 3\. Ruta de compras
 
@@ -155,7 +155,7 @@ que ya tienen presencia en cuatro continentes. Su fundador, Mikel Feijoo Elzo, q
 comenzó diseñando camisetas para conciertos, ha logrado diferenciarse con una moda que 
 sigue las tendencias pero con una apuesta firme por la sostenibilidad. 
 
-![que ver en bilbao, arquitectos bilbao](etheria_images/2018/10/viaje-bilbao-puente.jpg "Paseo arquitectónico por Bilbao.")
+![que ver en bilbao, arquitectos bilbao](etheria-images/2018/10/viaje-bilbao-puente.jpg "Paseo arquitectónico por Bilbao.")
 
 ## 4\. Ruta arquitectónica
 

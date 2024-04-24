@@ -1,11 +1,11 @@
 ---
 title: "5 excursiones básicas con niños en Madrid"
 date: 2023-03-24
-coverImage: etheria_images/2023/03/casita-principe-escorial.jpg
+coverImage: etheria-images/2023/03/casita-principe-escorial.jpg
 categories: 
   - viaje-en-familia
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Divertirse y aprender en una excursión con niños en la Comunidad de Madrid puede ser de 
@@ -15,7 +15,7 @@ excursiones con niños en Madrid con elementos atractivos para los pequeños: un
 un palacio, una villa medieval, un monasterio lleno de secretos y un bosque. ¿Por cuál 
 vas a empezar? 
 
-![Casita del Príncipe, en San Lorenzo.](etheria_images/2023/03/casita-principe-escorial.jpg "Casita del Príncipe, en San Lorenzo de El Escorial. © Etheria Magazine")
+![Casita del Príncipe, en San Lorenzo.](etheria-images/2023/03/casita-principe-escorial.jpg "Casita del Príncipe, en San Lorenzo de El Escorial. © Etheria Magazine")
 
 Las **excursiones con niños en Madrid** no tienen por qué reducirse a actividades 
 organizadas, que hay muchas, sino que también se pueden enfocar como escapadas "por 
@@ -47,7 +47,7 @@ el parking Bosque de la Herrería para hacer únicamente el último tramo a pie.
 paseo lo puedes hacer campo a través o seguir pacientemente la carretera, cosa que te 
 recomendamos si vas con niños pequeños o no son muy habilidosos. 
 
-![Real Biblioteca el escorial](etheria_images/2021/03/visitar-el-escorial-biblioteca.jpg "Interior de la Real Biblioteca. © Patrimonio Nacional")
+![Real Biblioteca el escorial](etheria-images/2021/03/visitar-el-escorial-biblioteca.jpg "Interior de la Real Biblioteca. © Patrimonio Nacional")
 
 ### Dónde comer en El Escorial con niños
 
@@ -85,7 +85,7 @@ Consulta los horarios en esta [web oficial de la Comunidad de
 Madrid](https://www.comunidad.madrid/actividades/2022/representaciones-teatrales-castillo-manzanares-real). 
 En nuestra visita coincidimos con una exhibición de lucha medieval y fue espectacular. 
 
-![Castillo de Manzanares el Real una excursión ideal para hacer con niños desde Madrid](etheria_images/2023/03/castillo-manzanares-el-real.jpg "Castillo de Manzanares el Real. © Etheria Magazine")
+![Castillo de Manzanares el Real una excursión ideal para hacer con niños desde Madrid](etheria-images/2023/03/castillo-manzanares-el-real.jpg "Castillo de Manzanares el Real. © Etheria Magazine")
 
 ### Dónde comer en Manzanares el Real con niños
 
@@ -120,7 +120,7 @@ más asilvestrados. No te pierdas el Jardín de la Isla, con sus fuentes de pied
 esculturas de mármol, el Jardín del Parterre, el Jardín del Príncipe, de gran tamaño, la 
 Casa del Labrador o el Museo de Falúas. 
 
-![jardines chinescos, excursion aranjuez](etheria_images/2020/05/excursion-aranjuez-900x675.jpg "Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
+![jardines chinescos, excursion aranjuez](etheria-images/2020/05/excursion-aranjuez-900x675.jpg "Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
 
 ### Dónde comer en Aranjuez con niños
 
@@ -154,7 +154,7 @@ y amigo de Picasso y su colección está compuesta por 60 obras de diversa tipol
 (dibujo, cerámica, carteles, etc). El museo está instalado en los bajos del Ayuntamiento 
 y en sus dependencias se organizan interesantes talleres infantiles. 
 
-![Buitrago del Lozoya una excursión perfecta en Madrid](etheria_images/2023/03/Buitrago-del-Lozoya.jpg "Buitrago del Lozoya.")
+![Buitrago del Lozoya una excursión perfecta en Madrid](etheria-images/2023/03/Buitrago-del-Lozoya.jpg "Buitrago del Lozoya.")
 
 ### Dónde comer en Buitrago de Lozoya con niños
 
@@ -178,7 +178,7 @@ robles centenarios.
 de Montejo, visitas guiadas y gratuitas todo el 
 año](https://etheriamagazine.com/2021/01/15/hayedo-de-montejo-madrid-como-reservar-y-llegar/). 
 
-![Excursion con niños en Madrid al Hayedo de Montejo](etheria_images/2021/01/visitas-hayedo-montejo.jpg "Hayedo de Montejo en familia. © Etheria M.")
+![Excursion con niños en Madrid al Hayedo de Montejo](etheria-images/2021/01/visitas-hayedo-montejo.jpg "Hayedo de Montejo en familia. © Etheria M.")
 
 ### Dónde comer en Montejo con niños
 

@@ -1,11 +1,11 @@
 ---
 title: "Crónica de un virus no anunciado"
 date: 2020-04-04
-coverImage: etheria_images/2020/04/soledad-coronavirus.jpg
+coverImage: etheria-images/2020/04/soledad-coronavirus.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Que la realidad supera a la fantasía lo sabemos todos. Que los enredos más complicados, 
@@ -13,7 +13,7 @@ las situaciones más inesperadas, y los encuentros fortuitos más imposibles pas
 también lo sabemos. Pero nadie, pocos –parece que Bill Gates lo vaticinó en 2015– 
 imaginaron que pudiésemos llegar a esta crisis sanitaria mundial. 
 
-![soledad del coronavirus](etheria_images/2020/04/soledad-coronavirus-900x600.jpg "La vida desde la ventana. © Alex Ivashenko")
+![soledad del coronavirus](etheria-images/2020/04/soledad-coronavirus-900x600.jpg "La vida desde la ventana. © Alex Ivashenko")
 
 Un buen día, “_un bichito tan pequeño tan pequeño que no podemos verlo ni matarlo”,_ 
 decía un chavalín en la tele, “_apareció en China”_. Que si salió de un murciélago, que 
@@ -28,7 +28,7 @@ Coronavirus, o COVID-19, también le gusta viajar en avión acompañando a sus v
 sin dejarse ver, sin dejar que éstas lo presientan. Y lo hace en barco, y en coche, y en 
 tren, hasta llegar al rincón más remoto del planeta. 
 
-![venecia, coronavirus](etheria_images/2020/04/venecia-900x600.jpg "Venecia. © Diego Gennaro")
+![venecia, coronavirus](etheria-images/2020/04/venecia-900x600.jpg "Venecia. © Diego Gennaro")
 
 En su invasión continental eligió a **Italia la bella**, a Italia la única, como la 
 elegimos todos, pero sus fines eran perversos. Los simpáticos y bulliciosos italianos 
@@ -47,7 +47,7 @@ lo hizo por los cinco continentes. En unos con más lentitud y en otros con ira 
 el caso de España, hasta se dice que le gusta el Mediterráneo para instalarse con saña 
 en sus habitantes. 
 
-![dias de coronavirus](etheria_images/2020/04/soledad-confinamiento-900x600.jpg "Días de reflexión. © Engin Akyurt")
+![dias de coronavirus](etheria-images/2020/04/soledad-confinamiento-900x600.jpg "Días de reflexión. © Engin Akyurt")
 
 ## Se cierran las puertas y se abren las ventanas
 
@@ -71,7 +71,7 @@ tienes perro”_. Se conoce más íntimamente, “_a dos metros de distancia”_
 los que se ha vivido pared con pared toda la vida, y de los que apenas se sabe su 
 nombre. El día es largo, pero tiene su disciplina. 
 
-![teletrabajo coronavirus](etheria_images/2020/04/teletrabajo-coronavirus-900x600.jpg "Trabajo y conciliación, el gran hándicap. © Charles Deluvio")
+![teletrabajo coronavirus](etheria-images/2020/04/teletrabajo-coronavirus-900x600.jpg "Trabajo y conciliación, el gran hándicap. © Charles Deluvio")
 
 _Nunca he limpiado tan a fondo, ni arreglado tantos armarios, hasta he leído un par de 
 libros y aprendido recetas nuevas. Y lo más curioso de todo es que hablo por teléfono, 
@@ -84,7 +84,7 @@ y, en realidad, no se sabía casi nada. _“¿Te acuerdas de aquel día que fuim
 sitio, y nos cayó una tormenta estrepitosa y acabamos conociendo otro distinto, y 
 comimos aquí, y bailamos allá y lo pasamos bomba?”_ 
 
-![coronavirus, confinamiento en casa](etheria_images/2020/04/confinamiento-coronavirus-casa-900x590.jpg "Nos quedamos en casa. © Jessica Rockowitz")
+![coronavirus, confinamiento en casa](etheria-images/2020/04/confinamiento-coronavirus-casa-900x590.jpg "Nos quedamos en casa. © Jessica Rockowitz")
 
 Y como no se puede compartir la mesa, o el bar, se brinda por _Facetime_, se ríe por 
 Facetime y se mira por Facetime. "_Ponme un whatsapp cuando me vayas a teleobservar para 
@@ -109,7 +109,7 @@ Coronavirus. Una siesta, vuelta a teletrabajar, una videoconferencia con los pri
 pondré el jersey azul que es el que más favorece en pantalla– y a prepararse para el 
 momento esperado del día"._ 
 
-![primavera en casa](etheria_images/2020/04/jardines-primavera-900x600.jpg "Y la primavera sigue su curso... © Sergey Shmidt")
+![primavera en casa](etheria-images/2020/04/jardines-primavera-900x600.jpg "Y la primavera sigue su curso... © Sergey Shmidt")
 
 Se abren las ventanas, se escuchan las palmas más que merecidas por los héroes que 
 luchan contra el “_bichito chiquitito”_. RESISTIRÉ resuena por toda la calle, llega a 

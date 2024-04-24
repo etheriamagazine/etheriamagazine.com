@@ -1,17 +1,17 @@
 ---
 title: "Only YOU Valencia, un hotel donde no sólo querrás dormir"
 date: 2021-12-21
-coverImage: etheria_images/2021/12/Only-YOU-Hotel-Valencia-exterior.jpg
+coverImage: etheria-images/2021/12/Only-YOU-Hotel-Valencia-exterior.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Si estás organizando una escapada con amigas a Valencia y buscas un hotel céntrico, confortable y con un toque especial, el Only YOU Valencia reúne todas esas condiciones y algunas más. Para que te hagas una primera idea, debes saber que tiene floristería y coctelería en la primera planta, ofrece un brunch con vistas en la novena y alberga el restaurante Salvaje (que incluye _performances_).
 
-![entrada hotel you valencia](etheria_images/2021/12/Only-YOU-Hotel-Valencia-exterior.jpg "Entrada del © hotel Only YOU Valencia.")
+![entrada hotel you valencia](etheria-images/2021/12/Only-YOU-Hotel-Valencia-exterior.jpg "Entrada del © hotel Only YOU Valencia.")
 
 Seguro que la cadena Only YOU ya se encuentra entre tus favoritas si has visitado alguno 
 de sus hoteles en la capital madrileña, pero si no es así, tener una primera experiencia 
@@ -22,7 +22,7 @@ que se preciara que no pasara por sus afamados salones. Pero si te alojaste algu
 en el Astoria, ahora apenas lo reconocerías ni por su interiorismo ni por su concepto, 
 mucho más moderno y adaptado a la filosofía de la nueva marca. 
 
-![lobby only you valencia](etheria_images/2021/12/lobby-only-you-hotel-Valencia.jpg "Zona del lobby. © OYV")
+![lobby only you valencia](etheria-images/2021/12/lobby-only-you-hotel-Valencia.jpg "Zona del lobby. © OYV")
 
 ## Cómo es el hotel Only YOU Valencia
 
@@ -34,7 +34,7 @@ esperando para entrar, algo poco habitual en un hotel. Pero, tranquila, no es pa
 a las habitaciones sino para disfrutar de los espacios gastronómicos o de la coctelería 
 situados en el establecimiento. 
 
-![suite only you valencia](etheria_images/2021/12/suites-Only-YOU-Hotel-Valencia.jpg "Habitación del Only YOU Valencia. © OYV")
+![suite only you valencia](etheria-images/2021/12/suites-Only-YOU-Hotel-Valencia.jpg "Habitación del Only YOU Valencia. © OYV")
 
 Del interiorismo del hotel se ha encargado el estudio de **Lázaro Rosa-Violán**, que se 
 ha inspirado en el Mediterráneo y ha añadido tonos y texturas que trasladan al viajero 
@@ -45,7 +45,7 @@ constante en todos sus espacios comunes. En las habitaciones, distribuidas en oc
 plantas, también destacan las tonalidades azules acordes con el estilo de vida 
 mediterráneo de la capital del Turia. 
 
-![detalles hotel only you valencia](etheria_images/2021/12/detalles-habitacion-only-you-valencia-1.jpg "Detalles que marcan la diferencia en el hotel. © Pepa García")
+![detalles hotel only you valencia](etheria-images/2021/12/detalles-habitacion-only-you-valencia-1.jpg "Detalles que marcan la diferencia en el hotel. © Pepa García")
 
 Aunque todas sus habitaciones sean confortables (dobles o suites), hay algunas que se 
 pueden ajustar mejor al tipo de estancia que buscas: en la **Panorama Suite**, con 80 
@@ -53,7 +53,7 @@ metros cuadrados, disfrutarás de una estancia romántica; y las **Homie Suites*
 zona de estar, balcón con vistas a la ciudad y una pequeña cocina, son perfectas para 
 familias o estancias largas. 
 
-![bano suite only you valencia](etheria_images/2021/12/bano-hotel-only-you-valencia.jpg "Baño de una habitación del Only YOU Valencia. © OYV")
+![bano suite only you valencia](etheria-images/2021/12/bano-hotel-only-you-valencia.jpg "Baño de una habitación del Only YOU Valencia. © OYV")
 
 ### Recepción o coctelería
 
@@ -62,7 +62,7 @@ bar, o más bien, en una coctelería. La recepción y el espacio de restauració
 difuminan totalmente, y casi podrías estar tomando una margarita mientras haces el 
 check-in sentado en una silla alta. 
 
-![cocteles only you valencia](etheria_images/2021/12/cocteleria-only-you-valencia.jpg "Barra de la zona de coctelería del Only YOU Valencia. © OYV")
+![cocteles only you valencia](etheria-images/2021/12/cocteleria-only-you-valencia.jpg "Barra de la zona de coctelería del Only YOU Valencia. © OYV")
 
 ### Un hotel con floristería
 
@@ -76,7 +76,7 @@ tus amigas bajan de sus habitaciones. Si te has fijado en los magníficos arregl
 florales repartidos por las distintas plantas del hotel, ahora sabes por qué muestran 
 ese aspecto tan cuidado. 
 
-![floristeria only you valencia](etheria_images/2021/12/floristeria-hotel-only-you-valencia.jpg "Floristería del hotel Only YOU Valencia. © OYV")
+![floristeria only you valencia](etheria-images/2021/12/floristeria-hotel-only-you-valencia.jpg "Floristería del hotel Only YOU Valencia. © OYV")
 
 #### Una sastrería a medida
 
@@ -87,7 +87,7 @@ además de hacer trajes a medida, también asesoran en cuanto a estilismos e ima
 sido los encargados de vestir al jurado de Masterchef o de hacer los uniformes de los 
 empleados del restaurante de Paco Roncero, en el Casino de Madrid. 
 
-![restaurante el mirador only you valencia](etheria_images/2021/12/El-Mirador-only-you-valencia.jpg "Restaurante El Mirador, en el Only YOU Valencia. © OYV")
+![restaurante el mirador only you valencia](etheria-images/2021/12/El-Mirador-only-you-valencia.jpg "Restaurante El Mirador, en el Only YOU Valencia. © OYV")
 
 ## ¿Brunch, arroz con bogavante o cóctel?
 
@@ -99,7 +99,7 @@ zumos naturales, bollería, dulces y salados, sino que también podrás disfruta
 domingos de un completo **brunch** (dicen que es el mejor de Valencia, y, aunque no 
 hemos probado todos los de la ciudad, sí que podemos asegurar que es espectacular). 
 
-![arroceria el mirador only you valencia](etheria_images/2021/12/arroceria-Only-YOU-Valencia.jpg "Prueba los platos de la Arrocería El Mirador. © OYV")
+![arroceria el mirador only you valencia](etheria-images/2021/12/arroceria-Only-YOU-Valencia.jpg "Prueba los platos de la Arrocería El Mirador. © OYV")
 
 Y, también, puedes darte el gusto de probar **los arroces del chef José María 
 Climente**. En esta arrocería no sólo sirven recetas tradicionales, con marisco, 
@@ -107,14 +107,14 @@ bogavante, a banda... sino que han incorporado propuestas creativas como el arro
 pato con higos en llanda, el de pollo de corral con calabaza y setas, o el de 
 langostinos y ajos tiernos. Difícil decidirse por uno, ¿verdad? 
 
-![zumos frutas only you valencia](etheria_images/2021/12/desayuno-hotel-valencia.jpg "Zumos naturales y fruta para desayunar. © Pepa García")
+![zumos frutas only you valencia](etheria-images/2021/12/desayuno-hotel-valencia.jpg "Zumos naturales y fruta para desayunar. © Pepa García")
 
 Si prefieres el picoteo, te puedes quedar en la planta baja. Allí se encuentra el 
 espacio **Trotamundos**, donde sirven el clásico _Esmorçaret_ valenciano, e invitan a 
 degustar algunos bocados acompañados de los cócteles de Iván Talens. Sin duda, esta es 
 una opción muy convincente para la hora del vermú o para un _afterwork_. 
 
-![espacio trotamundos hotel valencia](etheria_images/2021/12/bar-Only-YOU-Hotel-Valencia.jpg "Espacio Trotamundos, en el Only YOU Valencia. © OYV")
+![espacio trotamundos hotel valencia](etheria-images/2021/12/bar-Only-YOU-Hotel-Valencia.jpg "Espacio Trotamundos, en el Only YOU Valencia. © OYV")
 
 ## Una cena un poquito ‘Salvaje’
 
@@ -126,7 +126,7 @@ grandes dimensiones colgado del techo. El interiorismo de este espacio también 
 diseñado por Lázaro Rosa Violán, que ha aportado una atmósfera y una iluminación algo 
 canalla y poco habitual en un restaurante. 
 
-![platos japoneses restaurante salvaje valencia](etheria_images/2021/12/restaurante-salvaje-valencia.jpg "Platos del restaurante Salvaje. © Pepa García")
+![platos japoneses restaurante salvaje valencia](etheria-images/2021/12/restaurante-salvaje-valencia.jpg "Platos del restaurante Salvaje. © Pepa García")
 
 Al frente de la cocina se encuentra el **chef venezolano Fermín Azkue** que ha preparado 
 una carta en la que predominan los platos japoneses de fusión, sin olvidar la 
@@ -138,7 +138,7 @@ antelación.
 Aunque en Valencia no te faltarán los planes para divertirte, organiza la agenda para 
 pasar parte de tu tiempo en este hotel y su “salvaje” restaurante. 
 
-![salvaje discoteca valencia](etheria_images/2021/12/restaurante-salvaje-madrid-disco.jpg "Cena en Salvaje y zona de copas. © Pepa García")
+![salvaje discoteca valencia](etheria-images/2021/12/restaurante-salvaje-madrid-disco.jpg "Cena en Salvaje y zona de copas. © Pepa García")
 
 ##### Más información
 

@@ -1,18 +1,18 @@
 ---
 title: "Relais de Chambord, un pequeño hotel de lujo en el corazón del Valle del Loira"
 date: 2021-08-02
-coverImage: etheria_images/2021/07/relais-de-chambord-restaurant-le-grand-saint-michel.jpg
+coverImage: etheria-images/2021/07/relais-de-chambord-restaurant-le-grand-saint-michel.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El Valle del Loira con sus castillos es una ruta obligada para toda viajera. Para vivir esta experiencia, nada mejor que alojarse en el Relais de Chambord, un pequeño hotel de lujo dentro del dominio del castillo del mismo nombre. Una opción excelente para vivir esta preciosa zona de Francia a lo grande.
 
-![Relais de Chambord.](etheria_images/2021/07/relais-de-chambord-fachada.jpg "Relais de Chambord.")
+![Relais de Chambord.](etheria-images/2021/07/relais-de-chambord-fachada.jpg "Relais de Chambord.")
 
 No hay nada como dormir en un edificio histórico. En lo que era la antigua granja del 
 castillo de Chambord se ubica hoy un delicioso hotel boutique de lujo que te hará sentir 
@@ -29,7 +29,7 @@ historia en primera persona. Todo lo que rodea al Castillo de Chambord, el casti
 renacentista más grande del Valle del Loira, destila clase. Y eso que este lugar fue 
 ideado por Francisco I para que fuera tan solo un pabellón de caza. 
 
-![Recepción del Relais de Chambord](etheria_images/2021/07/relais-de-chambord-reception.jpg "Recepción del hotel.")
+![Recepción del Relais de Chambord](etheria-images/2021/07/relais-de-chambord-reception.jpg "Recepción del hotel.")
 
 Normalmente si te alojas en este hotel es porque estás realizando una ruta para conocer 
 los **castillos del Loira**. Pero no des de lado ni dejes de aprovechar este maravilloso 
@@ -40,7 +40,7 @@ algo de deporte en su pista de tenis o recorrer el río Cosson en barca eléctri
 ofrece una nueva perspectiva del castillo. Y, por qué no, para dar un paseo en globo y 
 contemplar desde lo alto esta enorme reserva natural. 
 
-![Deluxe Room.](etheria_images/2021/07/relais-de-chambord-deluxe-room.jpg "Deluxe Room.")
+![Deluxe Room.](etheria-images/2021/07/relais-de-chambord-deluxe-room.jpg "Deluxe Room.")
 
 ## Las habitaciones
 
@@ -59,7 +59,7 @@ tanto las **Deluxe Chambord** como las **Junior Suite Chambord** añaden a las a
 características unas vistas del castillo Chambord que harán que queráis estar todo el 
 día asomada a sus balcones. 
 
-![Junior Suite del Relais de Chambord.](etheria_images/2021/07/relais-de-chambord-junior-suite.jpg "Junior Suite del Relais de Chambord.")
+![Junior Suite del Relais de Chambord.](etheria-images/2021/07/relais-de-chambord-junior-suite.jpg "Junior Suite del Relais de Chambord.")
 
 Pero si os apetece alojaros en este hotel de la forma más original, tenéis que elegir 
 **La Toue du Relais**. Es una lujosa suite que ocupa un típico barco fluvial del Loira 
@@ -86,7 +86,7 @@ francés, presta atención a su deliciosa oferta de quesos.
 En este restaurante tomarás también el desayuno si te alojas en el hotel. Y, si acudes 
 en fin de semana, no te pierdas su _brunch_ de los domingos. 
 
-![Terraza del restaurante Le Grand Saint Michel.](etheria_images/2021/07/relais-de-chambord-restaurant-le-grand-saint-michel.jpg "Terraza del restaurante Le Grand Saint Michel.")
+![Terraza del restaurante Le Grand Saint Michel.](etheria-images/2021/07/relais-de-chambord-restaurant-le-grand-saint-michel.jpg "Terraza del restaurante Le Grand Saint Michel.")
 
 Si buscas algo más informal, tu sitio es **La Brasserie les Armes du Château**, ubicada 
 en la misma plaza de Saint-Louis. Puedes tomar ensaladas, platos de pasta, hamburguesas, 
@@ -99,7 +99,7 @@ y elementos de latón no puede ser más acogedora. Puedes acudir a cualquier hor
 y tomar tanto un cóctel preparado por el bartender Brieuc Gautrey como degustar una copa 
 de vino de la región con un aperitivo. 
 
-![Castillo de Chambord.](etheria_images/2021/07/Relais-de-Chambord-CASTILLO.jpg "Castillo de Chambord.")
+![Castillo de Chambord.](etheria-images/2021/07/Relais-de-Chambord-CASTILLO.jpg "Castillo de Chambord.")
 
 ## Spa by Nuxe
 
@@ -109,7 +109,7 @@ del turista. Tiene dos cabinas para tratamientos (una de ellas doble), baño tur
 sauna, zona de relajación (donde te ofrecerán una selección de tés) y lo mejor de todo: 
 un jacuzzi exterior con vistas al castillo. 
 
-![Spa by Nuxe Relais de Chambord](etheria_images/2021/07/relais-de-chambord-spa-by-nuxe.jpg "Spa by Nuxe.")
+![Spa by Nuxe Relais de Chambord](etheria-images/2021/07/relais-de-chambord-spa-by-nuxe.jpg "Spa by Nuxe.")
 
 Podrás elegir entre su variada carta de masajes, sus tratamientos de rostro, de cuerpo o 
 uno de sus rituales de belleza. El broche perfecto a una jornada por el Valle del Loira. 

@@ -1,13 +1,13 @@
 ---
 title: "Cómo visitar Las Médulas, el skyline de El Bierzo"
 date: 2020-05-11
-coverImage: etheria_images/2020/04/viajar-leon-medulas-mirador-orellan.jpg
+coverImage: etheria-images/2020/04/viajar-leon-medulas-mirador-orellan.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Esculpidas en el 'skyline' berciano por el Imperio Romano, los impresionantes riscos 
@@ -15,7 +15,7 @@ arcillosos de Las Médulas traducen de forma sublime el significado de la ‘pre
 leonesa, un particular placer que experimentan quienes se asoman por este balcón natural 
 declarado Patrimonio de la Humanidad por la Unesco. 
 
-![Las Médulas aguardan a los pies de la Sierra de la Encina de la Lastra y de la gallega Sierra del Caurel (al fondo).](etheria_images/2020/04/viajar-sola-leon-medulas-900x675.jpg "Las Médulas aguardan a los pies de la Sierra de la Encina de la Lastra y de la gallega Sierra del Caurel (al fondo). © Kelu Robles")
+![Las Médulas aguardan a los pies de la Sierra de la Encina de la Lastra y de la gallega Sierra del Caurel (al fondo).](etheria-images/2020/04/viajar-sola-leon-medulas-900x675.jpg "Las Médulas aguardan a los pies de la Sierra de la Encina de la Lastra y de la gallega Sierra del Caurel (al fondo). © Kelu Robles")
 
 Antes de que se echen encima los asturianos a los que también les "_presta por la vida"_ 
 contemplar ciertas maravillas, conviene aclarar algo: ciertamente, este sentimiento de 
@@ -25,7 +25,7 @@ algunos placeres. En Etheria Magazine, como si de la RAE (Real Academia Español
 tratáramos, queremos definir qué es eso de la 'prestosidad' a través de un estimulante 
 viaje a **Las Médulas**, las minas al aire libre más poderosas del Imperio Romano. 
 
-![Uno de los tramos en la senda de las Valiñas.](etheria_images/2020/04/viajar-medulas-leon-valinas-900x675.jpg "Uno de los tramos en la senda de las Valiñas. © KR")
+![Uno de los tramos en la senda de las Valiñas.](etheria-images/2020/04/viajar-medulas-leon-valinas-900x675.jpg "Uno de los tramos en la senda de las Valiñas. © KR")
 
 ## Una maravilla impensable hoy
 
@@ -44,7 +44,7 @@ Su existencia demuestra toda una lección de ingeniería de la época —las obr
 hasta el siglo III d.C.—. Para observar de cerca estos puntiagudos farallones se pueden 
 trazar varias rutas, todas asumibles en una excursión de un día. 
 
-![mapa las medulas de leon](etheria_images/2020/04/viajar-leon-mapa-fundacion-medulas-900x506.jpg "Cartografía con los puntos más interesantes de Las Médulas. © Fundación Las Médulas")
+![mapa las medulas de leon](etheria-images/2020/04/viajar-leon-mapa-fundacion-medulas-900x506.jpg "Cartografía con los puntos más interesantes de Las Médulas. © Fundación Las Médulas")
 
 ## Cómo acceder a Las Médulas desde Carucedo
 
@@ -59,7 +59,7 @@ Lucerna.
 > La aparición de la ninfa Carissia en el lago de Carucedo durante la noche de San Juan 
 > completa la colección de leyendas que tanto gustan a los bercianos. 
 
-![Panorámica desde el Mirador de Orellán.](etheria_images/2020/04/viajar-leon-medulas-mirador-orellan-900x594.jpg "Panorámica desde el Mirador de Orellán. © KR")
+![Panorámica desde el Mirador de Orellán.](etheria-images/2020/04/viajar-leon-medulas-mirador-orellan-900x594.jpg "Panorámica desde el Mirador de Orellán. © KR")
 
 ## Mirador de Orellán
 
@@ -84,7 +84,7 @@ Castaños, alcornoques, encinas, madroños, abedules, robles... la lista se alar
 como las raíces de algunos de los árboles centenarios de la zona. Diferentes especies 
 enmarcan de forma dispar las sendas que recorren el **Parque Natural de las Médulas**. 
 
-![Iglesia del pueblo de Las Médulas y árboles que podrían inspirar a Tim Burton.](etheria_images/2020/04/viajar-sola-pueblo-medulas-900x352.jpg "Iglesia del pueblo de Las Médulas y árboles que podrían inspirar a Tim Burton. © KR")
+![Iglesia del pueblo de Las Médulas y árboles que podrían inspirar a Tim Burton.](etheria-images/2020/04/viajar-sola-pueblo-medulas-900x352.jpg "Iglesia del pueblo de Las Médulas y árboles que podrían inspirar a Tim Burton. © KR")
 
 ## ¡Será por rutas!
 
@@ -113,7 +113,7 @@ envergadura de una tradición como la del magosto, celebración otoñal por la q
 recolectan castañas, se consumen asadas y, sobre todo, la tarea se lleva a cabo en 
 compañía de familia y amigos. 
 
-![Uno de los alcornoques de la senda de los Zufreiros del Frade.](etheria_images/2020/04/viajar-leon-medulas-zufreiro-900x563.jpg "Uno de los alcornoques de la senda de los Zufreiros del Frade. © Javier Ortiz")
+![Uno de los alcornoques de la senda de los Zufreiros del Frade.](etheria-images/2020/04/viajar-leon-medulas-zufreiro-900x563.jpg "Uno de los alcornoques de la senda de los Zufreiros del Frade. © Javier Ortiz")
 
 > En la Hispania Romana no existían patatas ni trigo, por lo que el magosto recuerda la 
 > importancia que tuvo un fruto como la castaña. 
@@ -128,7 +128,7 @@ preguntarse es otra...
 Un _paisanín_ berciano respondería _"Haberlo, haylo"_, pero no en una concentración por 
 la que merezca la pena la explotación de estas tierras. 
 
-![Los templarios dejaron en Ponferrada uno de sus emblemas medievales: el Castillo del Temple](etheria_images/2020/04/viajar-sola-leon-castillo-temple.jpg "Los templarios dejaron en Ponferrada uno de sus emblemas medievales: el Castillo del Temple. © Miguel E. Gil")
+![Los templarios dejaron en Ponferrada uno de sus emblemas medievales: el Castillo del Temple](etheria-images/2020/04/viajar-sola-leon-castillo-temple.jpg "Los templarios dejaron en Ponferrada uno de sus emblemas medievales: el Castillo del Temple. © Miguel E. Gil")
 
 ## Y ya que estás...
 
@@ -142,7 +142,7 @@ de anacoretas como esta. El rumor del río Oza pone los acordes a esta escapada 
 la arquitectura pizarrosa de Peñalba de Santiago completa la vertiente más serena y 
 espiritual de El Bierzo. 
 
-![La vajilla de madera potencia el sabor del pulpo.](etheria_images/2020/04/viajar-sola-leon-medulas-pulpo-900x600.jpg "La vajilla de madera potencia el sabor del pulpo. © Javier Lastras")
+![La vajilla de madera potencia el sabor del pulpo.](etheria-images/2020/04/viajar-sola-leon-medulas-pulpo-900x600.jpg "La vajilla de madera potencia el sabor del pulpo. © Javier Lastras")
 
 ## Entre _pulpeiras_ y uva mencía
 
@@ -163,7 +163,7 @@ vinícola de la D.O. Bierzo, especialmente valorada por el toque afrutado de sus
 color cereza. Los paladares poco entrenados también notarán la singularidad de los 
 caldos de esta comarca. 
 
-![Las viñas rodean al Palacio de Canedo.](etheria_images/2020/04/viajar-sola-leon-prada-tope-900x600.jpg "Las viñas rodean al Palacio de Canedo. © Prada a Tope")
+![Las viñas rodean al Palacio de Canedo.](etheria-images/2020/04/viajar-sola-leon-prada-tope-900x600.jpg "Las viñas rodean al Palacio de Canedo. © Prada a Tope")
 
 Entender el mundo culinario berciano pasa por visitar el **Palacio de Canedo de Prada a 
 Tope**, empresa hostelera de envergadura nacional con epicentro en esta coqueta bodega 

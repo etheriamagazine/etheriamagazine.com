@@ -1,13 +1,13 @@
 ---
 title: "París con amigas, diez planes para una escapada perfecta"
 date: 2023-06-16
-coverImage: etheria_images/2023/06/paris-amigas-tullerias.jpg
+coverImage: etheria-images/2023/06/paris-amigas-tullerias.jpg
 categories: 
   - viajes-con-amigas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 París es una de esas ciudades con las que siempre aciertas. A sus incontables tesoros 
@@ -16,7 +16,7 @@ pisarla por primera vez y que hace que siempre quieras volver. Te contamos diez 
 que no pueden faltar en un primer viaje a París con amigas para que os salga una 
 escapada redonda. 
 
-![Notre-Dame de París.](etheria_images/2023/06/paris-amigas-notre-dame.jpg "Notre-Dame de París. © Susana García")
+![Notre-Dame de París.](etheria-images/2023/06/paris-amigas-notre-dame.jpg "Notre-Dame de París. © Susana García")
 
 París es una de esas ciudades a las que puedes ir tantas veces como quieras y en 
 cualquier época del año. Tiene tantas cosas para ver, tantas calles para pasear, que 
@@ -50,7 +50,7 @@ perfectas para Instagram, tenéis una cita en la champañería de la última pla
 tomar una **copa de Moët Chandon** (22 Euros), que se puede acompañar de caviar o 
 _macarons_. Un caprichito de esos que se merece París. 
 
-![La Torre Eiffel desde el Trocadero.](etheria_images/2023/06/paris-amigas-torre-eiffel.jpg "La Torre Eiffel desde el Trocadero. © SG")
+![La Torre Eiffel desde el Trocadero.](etheria-images/2023/06/paris-amigas-torre-eiffel.jpg "La Torre Eiffel desde el Trocadero. © SG")
 
 ? No te pierdas las vistas de la Torre Eiffel desde **Trocadero**, sobre todo al 
 anochecer cuando se puede disfrutar de las 20.000 luces que centellean cada hora 
@@ -73,7 +73,7 @@ lateral. Aquí ya hay mucha menos gente y se puede disfrutar del monumento con m
 tranquilidad, además de ver unas vistas estupendas de la ciudad. Eso sí, tendréis que 
 echarle ganas para **subir los trescientos escalones de su escalera de caracol**. 
 
-![Músico en Montmartre y retratos en la place du Terre.](etheria_images/2023/06/paris-amigas-montmartre.jpg "Músico en Montmartre y retratos en la place du Tertre. © SG")
+![Músico en Montmartre y retratos en la place du Terre.](etheria-images/2023/06/paris-amigas-montmartre.jpg "Músico en Montmartre y retratos en la place du Tertre. © SG")
 
 Después, ya sólo queda pasear por la estrechas calles de este barrio hasta llegar a la 
 **place du Tertre**, donde los pintores de retratos comparten espacio con las 
@@ -94,7 +94,7 @@ galerías parece un gran escenario con sus amplios _halls_ y escaleras ubicados 
 hacerla brillar. Además, las Galerías Lafayette tienen otro tesoro: su terraza, que es 
 gratuita y ofrece otra de esas vistas de París desde las alturas que tanto nos gustan. 
 
-![Cúpula de las Galerías Lafayette](etheria_images/2023/06/paris-amigas-galerias-lafayette.jpg "Cúpula de las Galerías Lafayette. © SG")
+![Cúpula de las Galerías Lafayette](etheria-images/2023/06/paris-amigas-galerias-lafayette.jpg "Cúpula de las Galerías Lafayette. © SG")
 
 ? Otra galerías preciosas son los de **La Samaritaine**, cerca del Museo del Louvre. 
 
@@ -110,7 +110,7 @@ día. Lo mejor es hacerla con suficiente tiempo para poder detenerse en cada uno
 detalles (que son muchos) y echar un vistazo a su colección de retratos de grandes 
 dramaturgos franceses de todos los tiempos. 
 
-![Techo de uno de los salones del Palais Garnier](etheria_images/2023/06/paris-amigas-opera-garnier.jpg "Techo de uno de los salones del Palais Garnier. © SG")
+![Techo de uno de los salones del Palais Garnier](etheria-images/2023/06/paris-amigas-opera-garnier.jpg "Techo de uno de los salones del Palais Garnier. © SG")
 
 ✅ Merece la pena comprar con antelación las [entradas a la Ópera 
 Garnier](https://www.civitatis.com/es/paris/entrada-opera-garnier/?aid=10211) para 
@@ -131,7 +131,7 @@ caminar tranquilas entre las estatuas de reinas y personajes destacados de Franc
 gran parque también alberga un palacio y un museo (con un bonito invernadero), donde os 
 podéis acercar si tenéis tiempo suficiente. 
 
-![Jardín de Luxemburgo](etheria_images/2023/06/Paris-amigas-jardin-luxemburgo.jpg "Jardín de Luxemburgo. © SG")
+![Jardín de Luxemburgo](etheria-images/2023/06/Paris-amigas-jardin-luxemburgo.jpg "Jardín de Luxemburgo. © SG")
 
 ? Si queréis explorar el barrio más a fondo, son imprescindibles las **iglesias de 
 St-Sulpice y de St. Germain-des-Pres** y algunos de los cafés más emblemáticos, como el 
@@ -153,7 +153,7 @@ d’Orsay** es más manejable, sobre todo si os queréis centrar en los impresio
 cuyos cuadros se concentran en la cuarta planta; pero, aunque solo sea de pasada, no 
 puedes perderte los lienzos de los grandes realistas franceses de la primera planta. 
 
-![Interior del Museo d'Orsey.](etheria_images/2023/06/paris-amigas-museo-orsay.jpg "Interior del Museo d'Orsey. © SG")
+![Interior del Museo d'Orsey.](etheria-images/2023/06/paris-amigas-museo-orsay.jpg "Interior del Museo d'Orsey. © SG")
 
 París guarda muchos más museos, algunos muy interesantes, como el famoso **Centro 
 Pompidou**, el **Museo Rodin** o el **Museo du Quai Branly-Jacques Chirac**, un museo 
@@ -177,7 +177,7 @@ ofrecen locuciones en diferentes idiomas que explican los principales puntos tur
 que se recorren, aunque si queréis alargarlo podéis elegir uno que incluya almuerzo o 
 cena. 
 
-![Barcos para turistas en el Sena.](etheria_images/2023/06/paris-amigas-sena.jpg "Barcos para turistas en el Sena. © SG")
+![Barcos para turistas en el Sena.](etheria-images/2023/06/paris-amigas-sena.jpg "Barcos para turistas en el Sena. © SG")
 
 ? Si no tenéis mucho tiempo y no os queréis perder la perspectiva desde el río, una 
 buena opción es utilizar los [Batobus](https://www.civitatis.com/es/paris/barco-turistico-paris/?aid=10211), 
@@ -196,7 +196,7 @@ albergan esculturas clásicas y contemporáneas de artistas como Rodin o Henry M
 Sentaos junto a sus fuentes o estanques en alguna de sus tumbonas y disfrutad con calma 
 de este precioso espacio tan querido por los parisinos. 
 
-![Gente tomando el sol en el Jardín de las Tullerías](etheria_images/2023/06/paris-amigas-tullerias.jpg "Descanso en el Jardín de las Tullerías. © SG")
+![Gente tomando el sol en el Jardín de las Tullerías](etheria-images/2023/06/paris-amigas-tullerias.jpg "Descanso en el Jardín de las Tullerías. © SG")
 
 ? Si tenéis tiempo, acercaos al **Museo de l’Orangerie**, ubicado en un antiguo 
 invernadero de naranjos. Aquí se encuentra la serie de _Nenúfares_ de Monet, además de 
@@ -214,7 +214,7 @@ París y conserva el encanto de los elegantes edificios y arcadas que rodean su 
 central. Uno de esos lugares que, por mucha gente que haya siempre en París, es capaz de 
 brindar un momento de tranquilidad. 
 
-![Jardín de la plaza des Vosges](etheria_images/2023/06/paris-amigas-plaza-des-vosgues.jpg "Jardín de la plaza des Vosges. © SG")
+![Jardín de la plaza des Vosges](etheria-images/2023/06/paris-amigas-plaza-des-vosgues.jpg "Jardín de la plaza des Vosges. © SG")
 
 ## Subir a la torre Montparnasse
 
@@ -224,7 +224,7 @@ mejores vistas panorámicas de la ciudad y se llega muy fácilmente en metro. No
 perdáis la experiencia de contemplar París desde el edificio más alto de la ciudad ¡a 
 210 metros! 
 
-![París desde lo alto de la Torre Montparnasse](etheria_images/2023/06/paris-amigas-vistas-montparnasse.jpg "París desde lo alto de la Torre Montparnasse. © SG")
+![París desde lo alto de la Torre Montparnasse](etheria-images/2023/06/paris-amigas-vistas-montparnasse.jpg "París desde lo alto de la Torre Montparnasse. © SG")
 
 En esta zona, donde conviven las oficinas con el ambiente más tradicional y típico de 
 sus cafés y brasseries, se ubican también dos lugares muy visitados: las **Catacumbas** 
@@ -247,7 +247,7 @@ cerca de una parada de metro. Un lugar céntrico con una buena relación calidad
 son los apartamentos **Le Jardin Sant Honoré** (www.jardinsh.com), que incluyen una 
 habitación y un salón con sofá-cama y se encuentran en el corazón de Le Marais. 
 
-![Museo del Louvre desde los Jardínes de las Tullerías](etheria_images/2023/06/paris-amigas-louvre-tullerias.jpg "Museo del Louvre desde los Jardínes de las Tullerías. © Susana García")
+![Museo del Louvre desde los Jardínes de las Tullerías](etheria-images/2023/06/paris-amigas-louvre-tullerias.jpg "Museo del Louvre desde los Jardínes de las Tullerías. © Susana García")
 
 ### Dónde comer
 
@@ -273,7 +273,7 @@ son el Campo de Marte (a los pies de la Torre Eiffel), el Jardín de Luxemburgo 
 Barrio Latino) y el Jardín de las Tullerías (junto al Louvre). Es una forma económica y 
 divertida de almorzar mientras se descansa al aire libre. 
 
-![heladería Berthillon](etheria_images/2023/06/paris-amigas-berthillon.jpg "No os podéis perder un helado en Berthillon. © Alfonso Fernández-Pacheco")
+![heladería Berthillon](etheria-images/2023/06/paris-amigas-berthillon.jpg "No os podéis perder un helado en Berthillon. © Alfonso Fernández-Pacheco")
 
 ? Para tomar el que es probablemente el mejor helado de París buscad la marca 
 **Berthillon**. Una de sus cafeterías se encuentra en la isla de St. Louis, justo al 

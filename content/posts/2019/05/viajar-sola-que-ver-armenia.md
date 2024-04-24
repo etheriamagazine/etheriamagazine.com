@@ -1,10 +1,10 @@
 ---
 title: "Armenia, descubre 10 pistas en el Jardín del Edén"
 date: 2019-05-02
-coverImage: etheria_images/2019/04/viaje-armenia-templo-garni-e1555859873292.jpg
+coverImage: etheria-images/2019/04/viaje-armenia-templo-garni-e1555859873292.jpg
 categories: 
   - de-un-vistazo
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -14,7 +14,7 @@ Edén. En este bello panorama situado más allá de las tierras cultivadas verá
 de una de las civilizaciones más antiguas del mundo. Te damos 10 pistas para que si 
 viajas sola o por libre sepas lo que no debes perderte. 
 
-![Catedral de Zvartnots, en Armenia](etheria_images/2019/04/viaje-armenia-Catedral-Zvartnots-e1555859798285.jpg "Catedral de Zvartnots.")
+![Catedral de Zvartnots, en Armenia](etheria-images/2019/04/viaje-armenia-Catedral-Zvartnots-e1555859798285.jpg "Catedral de Zvartnots.")
 
 ## 1\. Entre ángeles celestiales
 
@@ -29,7 +29,7 @@ caídos a su alrededor. El que fuera un templo en forma de cruz griega de 45 met
 altura –de los más altos del mundo cuando se terminó– aún en ruinas es un marco 
 legendario de las más ancestrales tradiciones arquitectónicas armenias. 
 
-![Pan tradicional (o lavash) de Armenia.](etheria_images/2019/04/viaje-armenia-pan-lavash.jpg "Pan tradicional (o lavash) de Armenia.")
+![Pan tradicional (o lavash) de Armenia.](etheria-images/2019/04/viaje-armenia-pan-lavash.jpg "Pan tradicional (o lavash) de Armenia.")
 
 ## 2\. Mujeres que hacen pan en Armenia
 
@@ -48,7 +48,7 @@ meses. En las bodas los novios lo llevan sobre los hombros para **invocar la
 fertilidad** y traer prosperidad a la nueva familia. No en vano estás ante un Patrimonio 
 Inmaterial de la Humanidad de la Unesco desde el año 2014. 
 
-![templo garni en armenia](etheria_images/2019/04/viaje-armenia-templo-garni-e1555859873292.jpg "Templo Garni.")
+![templo garni en armenia](etheria-images/2019/04/viaje-armenia-templo-garni-e1555859873292.jpg "Templo Garni.")
 
 ## 3\. Adora al dios Sol
 
@@ -66,7 +66,7 @@ Vardavar**. La adoración a la deidad pagana Astghik encargada del amor, el agua
 fertilidad señala el final de la cosecha. Antaño la gente se rociaba de agua de rosas, 
 hoy se refrescan con agua fría y salpican a otros en medio del ambiente festivo. 
 
-![Centro de Artes Cafesjian en armenia](etheria_images/2019/04/viaje-armenia-Cafesjian-museo-matenadaran.jpg "Centro de Artes Cafesjian.")
+![Centro de Artes Cafesjian en armenia](etheria-images/2019/04/viaje-armenia-Cafesjian-museo-matenadaran.jpg "Centro de Artes Cafesjian.")
 
 ## 4\. Exploradora entre manuscritos y arte moderno
 
@@ -89,7 +89,7 @@ tienda. Es elaborado con plantas, que solo crecen en el altiplano armenio, y coc
 y sigue la receta contra el envejecimiento empleada por las mujeres nobles de la Edad 
 Media. 
 
-![Monasterio de Saghmosavank en armenia](etheria_images/2019/04/viaje-armenia-monasterio-Saghmosavan-e1555859955205.jpg "Monasterio de Saghmosavank.")
+![Monasterio de Saghmosavank en armenia](etheria-images/2019/04/viaje-armenia-monasterio-Saghmosavan-e1555859955205.jpg "Monasterio de Saghmosavank.")
 
 ## 5\. En la tierra prometida
 
@@ -103,7 +103,7 @@ con sus 4.090 metros. Fíjate bien en sus fachadas meridional y occidental, son 
 espectaculares por las bellas decoraciones que cubren el templo dedicado a Zion, o la 
 'tierra prometida' donde estuviera la ciudad del rey David. 
 
-![Plaza de la Republica de la ciudad de Erevan](etheria_images/2019/04/viaje-armenia-national-history-plaza-republica-e1555859983774.jpg "Plaza de la República de la ciudad de Ereván.")
+![Plaza de la Republica de la ciudad de Erevan](etheria-images/2019/04/viaje-armenia-national-history-plaza-republica-e1555859983774.jpg "Plaza de la República de la ciudad de Ereván.")
 
 ## 6\. Donde todo comenzó.
 
@@ -118,7 +118,7 @@ enriquecido la cultura armenia durante milenios con la miscelánea de civilizaci
 –hitita, árabe, asiria, seléucida, persa, egipcia, romana y bizantina–, que han habitado 
 esta tierra. 
 
-![Monasterio de Geghard en armenia](etheria_images/2019/04/viaje-armenia-monasterio-Geghard-e1555860086291.jpg "Monasterio de Geghard.")
+![Monasterio de Geghard en armenia](etheria-images/2019/04/viaje-armenia-monasterio-Geghard-e1555860086291.jpg "Monasterio de Geghard.")
 
 ## 7\. En busca de una legendaria lanza
 
@@ -132,7 +132,7 @@ peregrinación** de los cristianos armenios por las valiosas reliquias que alber
 la lanza que hirió a Cristo en la Cruz –de donde procede el nombre del templo– y que 
 transportó hasta este lugar el apóstol Judas Tadeo. 
 
-![Memorial del genocidio de Tsitsernakaberd](etheria_images/2019/04/viaje-armenia-memorial-genocidio-e1555860138966.jpg "Memorial del genocidio de Tsitsernakaberd.")
+![Memorial del genocidio de Tsitsernakaberd](etheria-images/2019/04/viaje-armenia-memorial-genocidio-e1555860138966.jpg "Memorial del genocidio de Tsitsernakaberd.")
 
 ## 8\. Aprender de los errores
 
@@ -149,7 +149,7 @@ genocidios más desconocidos de la historia: entre 1915 y 1922 murieron miles de
 durante la Primera Guerra Mundial. Lo más reconfortante son los árboles que estadistas 
 de todo el mundo han plantado en los jardines para no olvidar tan cruento pasado. 
 
-![viaje armenia, Sevanavanq Monastery, Sevan Peninsula, Lake Sevan, Gegharkunik Province, Armenia, Middle East](etheria_images/2019/04/viaje-armenia-monasterio-sevanavank.jpg "Monasterio de Sevanavanq.")
+![viaje armenia, Sevanavanq Monastery, Sevan Peninsula, Lake Sevan, Gegharkunik Province, Armenia, Middle East](etheria-images/2019/04/viaje-armenia-monasterio-sevanavank.jpg "Monasterio de Sevanavanq.")
 
 ## 9\. Al mar de Armenia
 
@@ -163,7 +163,7 @@ Bagratuni sobre un asentamiento árabe, aunque en el lugar las huellas humanas s
 remontan hasta el Neolítico. Estás en uno de los lugares de peregrinaje que más admiran 
 los armenios, es donde empezó a difundirse el más ancestral cristianismo del mundo. 
 
-![monte Ararat y monasterio Khor Virap  de armenia](etheria_images/2019/04/viaje-armenia-Ararat-monasterio-Khor-Virap-e1555860227350.jpg "Monte Ararat y monasterio de Khor Virap.")
+![monte Ararat y monasterio Khor Virap  de armenia](etheria-images/2019/04/viaje-armenia-Ararat-monasterio-Khor-Virap-e1555860227350.jpg "Monte Ararat y monasterio de Khor Virap.")
 
 ## 10\. Una montaña en la frontera
 

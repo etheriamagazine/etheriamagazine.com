@@ -1,20 +1,20 @@
 ---
 title: "Planes secretos en Benidorm más allá de ir a la playa o tomar el sol"
 date: 2021-03-26
-coverImage: etheria_images/2021/03/benidorm-rascacielos.jpg
+coverImage: etheria-images/2021/03/benidorm-rascacielos.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 ¿Crees que no hay planes originales en Benidorm o que estás al tanto de todo lo que se puede hacer allí? Te retamos a confirmar que conoces estos 10 lugares y actividades que te recomendamos en este artículo. ¡Si has visitado más de 5, queremos saberlo!
 
-![panoramica de benidorm](etheria_images/2021/03/benidorm-rascacielos.jpg "Playa de Poniente, Benidorm. © T.B.")
+![panoramica de benidorm](etheria-images/2021/03/benidorm-rascacielos.jpg "Playa de Poniente, Benidorm. © T.B.")
 
 En Benidorm empezó casi todo. Es la cuna del turismo y del éxito mundial de Julio 
 Iglesias, la capital del ocio estival y la diversión, el paraíso de los “guiris”, el 
@@ -35,7 +35,7 @@ Y si entonces no había turismo, ¿a qué se dedicaban sus habitantes? Pues a la
 sector en el que despuntaron como expertos caladores de almadrabas en todo el 
 Mediterráneo. 
 
-![benidorm](etheria_images/2021/03/benidorm-Castillo.jpg "Benidorm, un icono turístico del Mediterráneo. © T.B.")
+![benidorm](etheria-images/2021/03/benidorm-Castillo.jpg "Benidorm, un icono turístico del Mediterráneo. © T.B.")
 
 En el año 1940, Benidorm todavía era un pequeño **pueblo de pescadores** que no podía 
 imaginar el “boom” que iba a tener muy pronto como destino turístico, aunque ya venía 
@@ -47,7 +47,7 @@ de sus discotecas… y del sol mediterráneo. Otra curiosidad: las fiestas patro
 celebran en honor de la Virgen del Sufragio, cuya imagen fue encontrada de una forma 
 misteriosa en la playa. 
 
-![salir de copas planes originales en benidorm](etheria_images/2021/03/benidorm-fiesta.jpg "Benidorm, un destino ideal para una escapada de amigas. © T.B.")
+![salir de copas planes originales en benidorm](etheria-images/2021/03/benidorm-fiesta.jpg "Benidorm, un destino ideal para una escapada de amigas. © T.B.")
 
 ## 10 actividades y lugares en Benidorm fuera de lo común
 
@@ -64,7 +64,7 @@ a las clases de gimnasia que se ofrecen todos los días sobre la arena. Ya tiene
 actividad que hacer en Benidorm, y gratis. Eso sí, es necesario apuntarse con 
 antelación. 
 
-![cala almadraba de benidorm](etheria_images/2021/03/cala-almadraba-benidorm.jpg "Cala Almadraba, en Benidorm. © T.B.")
+![cala almadraba de benidorm](etheria-images/2021/03/cala-almadraba-benidorm.jpg "Cala Almadraba, en Benidorm. © T.B.")
 
 ### 2\. Bañarse en una cala
 
@@ -76,7 +76,7 @@ el nudismo. Y entre la playa de Poniente y la de Levante, además, hay un tramo 
 coincide con el casco antiguo, que está al abrigo del Cerro Canfali y donde se halla la 
 **Cala de Mal Pas**. 
 
-![senderismo planes originales en benidorm](etheria_images/2021/03/benidorm-senderismo.jpg "Senderismo en Benidorm por la costa. © T.B.")
+![senderismo planes originales en benidorm](etheria-images/2021/03/benidorm-senderismo.jpg "Senderismo en Benidorm por la costa. © T.B.")
 
 ### 3\. Hacer senderismo (y fotos) por los acantilados
 
@@ -87,7 +87,7 @@ senderismo que atraviesa la sierra desde la Cruz de Benidorm hasta el faro de Al
 Tendrás unas vistas de ésas que cortan el hipo. Si te gusta caminar, este es uno de los 
 planes originales en Benidorm que no pueden faltar en tu lista de imprescindibles. 
 
-![parque aiguera benidorm](etheria_images/2021/03/benidorm-parque-aiguera.jpg "Parque de L’Aigüera, en Benidorm. © T.B.")
+![parque aiguera benidorm](etheria-images/2021/03/benidorm-parque-aiguera.jpg "Parque de L’Aigüera, en Benidorm. © T.B.")
 
 ###  4. Pasear por el Parque de L’Aigüera
 
@@ -106,7 +106,7 @@ calendario de cursos impartidos por personalidades de la ciencia, las artes, las
 y la investigación. Este es uno de esos planes ideales si **viajas sola a Benidorm**, ya 
 que te permitirá conocer a otras personas con tus mismos intereses. 
 
-![visitar la isla planes originales en benidorm](etheria_images/2021/03/excursion-isla-benidorm.jpg "Excursión a la isla de Benidorm. ©. T.B.")
+![visitar la isla planes originales en benidorm](etheria-images/2021/03/excursion-isla-benidorm.jpg "Excursión a la isla de Benidorm. ©. T.B.")
 
 ### 6\. Ir de excursión a la isla de Benidorm
 
@@ -128,7 +128,7 @@ Quatre Cantons, el carrer de Sant Vicent, el Carrer Major o la plaça de la Seny
 antes de seguir hacia el **Balcón del Mediterráneo**, ubicado donde antes estuvo el 
 castillo de Benidorm. 
 
-![balcon del mediterraneo en benidorm](etheria_images/2021/03/benidorm-balcon-mediterraneo.jpg "Balcón del Mediterráneo, en Benidorm. © T.B.")
+![balcon del mediterraneo en benidorm](etheria-images/2021/03/benidorm-balcon-mediterraneo.jpg "Balcón del Mediterráneo, en Benidorm. © T.B.")
 
 ### 8\. Visitar la Casa Museo Hort de Colón
 
@@ -136,7 +136,7 @@ La **Casa Museo Hort de Colón** viene a ser como el museo etnológico de la ciu
 ubicado en una casa con huerto de mediados del siglo XIX. Ahora está cerrada 
 temporalmente pero comprueba si puedes acudir cuando visites Benidorm. 
 
-![Casa museo Hort de Colon en benidorm](etheria_images/2021/03/benidorm-Casa-museo-Hort-de-Colon.jpg "© Casa Museo "Hort de Colón", en Benidorm.")
+![Casa museo Hort de Colon en benidorm](etheria-images/2021/03/benidorm-Casa-museo-Hort-de-Colon.jpg "© Casa Museo "Hort de Colón", en Benidorm.")
 
 ### 9\. Museo Boca del Calvari
 
@@ -147,7 +147,7 @@ colecciones municipales de arqueología, fotografías, documentos, etc. Siempre 
 interesantes exposiciones temporales. Se encuentra situado en la antigua sede del 
 Ayuntamiento, en la calle Tomas Ortuño, s/n. 
 
-![fiestas benidorm virgen del sufragio](etheria_images/2021/03/benidorm-fiestas-hallazgo.jpg "Durante las fiestas patronales de Benidorm, se celebra la Escenificación del Hallazgo de la Virgen del Sufragio. © T.B.")
+![fiestas benidorm virgen del sufragio](etheria-images/2021/03/benidorm-fiestas-hallazgo.jpg "Durante las fiestas patronales de Benidorm, se celebra la Escenificación del Hallazgo de la Virgen del Sufragio. © T.B.")
 
 ### 10\. Entrar en el Centro Cultural Marítimo
 

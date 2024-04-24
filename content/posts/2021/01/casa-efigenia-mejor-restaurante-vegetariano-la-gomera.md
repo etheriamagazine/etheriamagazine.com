@@ -1,12 +1,12 @@
 ---
 title: "Efigenia la de Las Hayas y la cocina que hechizó a Angela Merkel en La Gomera"
 date: 2021-01-06
-coverImage: etheria_images/2020/12/efigenia-las-hayas-la-gomera.jpg
+coverImage: etheria-images/2020/12/efigenia-las-hayas-la-gomera.jpg
 categories: 
   - mejores-restaurantes-gastronomia
   - mujeres-que-inspiran
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Honestidad, tradición y serenidad son algunos de los ingredientes de la cautivadora 
@@ -14,7 +14,7 @@ cocina de Efigenia. Hoy te llevamos a conocer a esta gran mujer y a comer en su
 restaurante La Montaña - Casa Efigenia, que se ha convertido en el lugar favorito de 
 Angela Merkel y de otras personalidades. ¿Nos acompañas a La Gomera? 
 
-![Efigenia restaurante la montana en la gomera](etheria_images/2020/12/efigenia-las-hayas-la-gomera.jpg "Efigenia Borges, fundadora del © restaurante La Montaña - Casa Efigenia.")
+![Efigenia restaurante la montana en la gomera](etheria-images/2020/12/efigenia-las-hayas-la-gomera.jpg "Efigenia Borges, fundadora del © restaurante La Montaña - Casa Efigenia.")
 
 Para hablar de la gran **Efigenia Borges**, hay que dedicar primero unas líneas a 
 describir ese entorno que justifica el porqué de su vida y de su restaurante. La Gomera 
@@ -44,7 +44,7 @@ Efigenia cuarenta años atrás. En aquel momento, una joven pareja, la de Manuel
 Efigenia Borges –o, como la conocen, **_Efigenia la de Las Hayas_**–, monta **_La 
 Ventita del Barrio_**. 
 
-![restaurante vegetariano de la gomera](etheria_images/2020/12/restaurante-vegetariano-la-gomera.jpg "Platos vegetarianos del © restaurante La Montaña- Casa Efigenia.")
+![restaurante vegetariano de la gomera](etheria-images/2020/12/restaurante-vegetariano-la-gomera.jpg "Platos vegetarianos del © restaurante La Montaña- Casa Efigenia.")
 
 No tardó mucho tiempo en adquirir fama por la calidad de sus productos y lo sabroso de 
 sus guisos. Esto animó a la pareja a abrir un restaurante donde la clave fuese la cocina 
@@ -61,7 +61,7 @@ la famosa **_Torta de Efigenia_**.
 > Sus manjares caseros han atraído clientes allende los mares, especialmente alemanes de 
 > los que la dueña ha aprendido su lengua. 
 
-![interior y platos restaurante Casa Efigenia](etheria_images/2020/12/interior-restaurante-efigenia.jpg "Interior del © restaurante La Montaña Casa Efigenia y algunos platos vegetarianos.")
+![interior y platos restaurante Casa Efigenia](etheria-images/2020/12/interior-restaurante-efigenia.jpg "Interior del © restaurante La Montaña Casa Efigenia y algunos platos vegetarianos.")
 
 Otro secreto del éxito que Efigenia la de las Hayas desvela con una sonrisa es cómo ella 
 **siempre se acerca a las mesas**, da conversación a sus comensales y les hace sentirse 
@@ -76,7 +76,7 @@ Echanove, **_Un país para comérselo_**, bajo el retrato de su boda con Manuel,
 fallecido, y de las innumerables fotos de famosos y no famosos que le han rendido 
 visita. 
 
-![restaurante vegetariano Efigenia en la gomera](etheria_images/2020/12/efigenia-restaurante-la-gomera.jpg "© Efigenia Borges, más conocida como Efigenia la de Las Hayas.")
+![restaurante vegetariano Efigenia en la gomera](etheria-images/2020/12/efigenia-restaurante-la-gomera.jpg "© Efigenia Borges, más conocida como Efigenia la de Las Hayas.")
 
 ## Casa Efigenia, un restaurante familiar
 
@@ -90,7 +90,7 @@ recorre la estancia y no deja de responder a las preguntas de los presentes, ni 
 saludar al recién llegado. Se atusa el pelo de vez en cuando, pues Efigenia peca de 
 coqueta. 
 
-![Casa Efigenia en la gomera](etheria_images/2020/12/platos-vegetarianos-casa-efigenia.jpg "Los platos vegetarianos de Efigenia han conquistado a personalidades de todo el mundo.")
+![Casa Efigenia en la gomera](etheria-images/2020/12/platos-vegetarianos-casa-efigenia.jpg "Los platos vegetarianos de Efigenia han conquistado a personalidades de todo el mundo.")
 
 ## Tradiciones de La Gomera
 

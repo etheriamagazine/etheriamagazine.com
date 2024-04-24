@@ -1,14 +1,14 @@
 ---
 title: "5 datos para que te convenzas de que Halloween es irlandés"
 date: 2021-10-23
-coverImage: etheria_images/2021/10/Irlanda-halloween-Fuegos-de-Samhain.jpg
+coverImage: etheria-images/2021/10/Irlanda-halloween-Fuegos-de-Samhain.jpg
 categories: 
   - organiza-tu-viaje
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Calabazas, calaveras, disfraces de monstruos… Cada vez nuestras ciudades se transforman 
@@ -16,7 +16,7 @@ más cuando llega Halloween y vamos tomando como propia una tradición que llega
 pero no de tan lejos como algunos piensan. Halloween en realidad tiene su origen en 
 Irlanda, y aquí te damos 5 datos para que te quedes convencida. 
 
-![Desfile del Festival de Puca, en Irlanda.](etheria_images/2021/10/irlanda-halloween-Puca-Festival.jpg "Desfile del Festival de Puca, en Irlanda.")
+![Desfile del Festival de Puca, en Irlanda.](etheria-images/2021/10/irlanda-halloween-Puca-Festival.jpg "Desfile del Festival de Puca, en Irlanda.")
 
 Como nos encanta dividirnos en bandos, cuando se acerca la festividad de Todos los 
 Santos la población española se reparte entre los que se niegan a aceptar la invasión de 
@@ -26,7 +26,7 @@ tradición que se sigue celebrando en los hogares y en el [Festival de
 Puca](https://www.pucafestival.com/). Además, Derry, en Irlanda del Norte, tiene la 
 mayor feria de Halloween del mundo, llena de encanto y tradiciones locales. 
 
-![Espectáculo de fuegos artificiales en Derry.](etheria_images/2021/10/Irlanda-halloween-Espectáculo-fuegos-artificiales-de-Derry.jpg "Espectáculo de fuegos artificiales en Derry.")
+![Espectáculo de fuegos artificiales en Derry.](etheria-images/2021/10/Irlanda-halloween-Espectáculo-fuegos-artificiales-de-Derry.jpg "Espectáculo de fuegos artificiales en Derry.")
 
 Quizá con estos datos convenzamos a los más reticentes y les resulten más cercanas las 
 tradicionales originales de la isla verde que las de recrear escenarios de películas de 
@@ -39,7 +39,7 @@ Santos), que enlazan estas dos fiestas, aunque las tradiciones de cada una de el
 parezcan tan diferentes. En Irlanda esto se unió al 'Samheim', una fiesta que marcaba el 
 final de la cosecha y del año celta y que se celebraba con hogueras y banquetes. 
 
-![Nabos tallados según la tradición irlandesa.](etheria_images/2021/10/Irlanda-halloween-Nabos-tallados.jpg "Nabos tallados según la tradición irlandesa.")
+![Nabos tallados según la tradición irlandesa.](etheria-images/2021/10/Irlanda-halloween-Nabos-tallados.jpg "Nabos tallados según la tradición irlandesa.")
 
 **2 Son nabos, no calabazas.** Si pensamos en Halloween es fácil que lo primero que 
 venga a la cabeza sea una calabaza tallada e iluminada con aspecto terrorífico. Pero en 
@@ -52,7 +52,7 @@ con la calabaza) proviene del folclore irlandés. Se decía que era un hombre qu
 engañar al diablo fue condenado a vagar por la tierra con una linterna ¡hecha con un 
 nabo! Aquí tampoco estaba todavía presente la calabaza. 
 
-![Disfraz irlandés de Halloween.](etheria_images/2021/10/irlanda-halloween-disfraz.jpg "Disfraz irlandés de Halloween.")
+![Disfraz irlandés de Halloween.](etheria-images/2021/10/irlanda-halloween-disfraz.jpg "Disfraz irlandés de Halloween.")
 
 **3 Disfraces para ahuyentar a los muertos** La idea de disfrazarse de zombis o 
 cualquier otro personaje que asuste ha calado el día 31 de octubre. Y son muchos los 
@@ -66,7 +66,7 @@ Por cierto, ya que nos disfrazamos, si queremos rendir homenaje a la cultura irl
 una buena idea puede ser Drácula. Aunque no forma parte de estas tradiciones, sí fue el 
 protagonista del célebre libro del autor irlandés Bram Stoker. 
 
-![Hogueras según la tradición del Samhain.](etheria_images/2021/10/Irlanda-halloween-Fuegos-de-Samhain.jpg "Hogueras según la tradición del Samhain.")
+![Hogueras según la tradición del Samhain.](etheria-images/2021/10/Irlanda-halloween-Fuegos-de-Samhain.jpg "Hogueras según la tradición del Samhain.")
 
 **4 Hogueras en lugar de escenarios tétricos.** La cinematografía ha invadido la fiesta 
 de Halloween. La tradición de decorar las casas con telas de araña, calabazas y 
@@ -83,7 +83,7 @@ aprovechaban esta fecha para ir de puerta en puerta pidiendo limosna y comida a 
 de rezar por las almas de los muertos de cada casa. Algo que tiene mucho más que ver con 
 la tradición católica de rezar por los muertos el Día de Todos los Santos. 
 
-![Colina de Tara, lugar de celebración del Halloween irlandés.](etheria_images/2021/10/Irlanda-halloween-Colina-de-Tara.jpg "Colina de Tara, lugar de celebración del Halloween irlandés.")
+![Colina de Tara, lugar de celebración del Halloween irlandés.](etheria-images/2021/10/Irlanda-halloween-Colina-de-Tara.jpg "Colina de Tara, lugar de celebración del Halloween irlandés.")
 
 © Fotografías cedidas por Turismo de Irlanda. 
 

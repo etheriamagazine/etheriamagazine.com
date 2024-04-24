@@ -1,14 +1,14 @@
 ---
 title: "Viajar con niños por Europa: consejos y propuestas para acertar en tu primer viaje"
 date: 2021-02-02
-coverImage: etheria_images/2021/01/viajar-ninos-europa-terceira.jpg
+coverImage: etheria-images/2021/01/viajar-ninos-europa-terceira.jpg
 categories: 
   - consejos-practicos
   - viaje-en-familia
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Europa está llena de opciones para viajar con niños. Cercanía, seguridad y la 
@@ -17,7 +17,7 @@ eligiendo alguna región europea para tu primer viaje en familia al extranjero. 
 damos algunos consejos y propuestas concretas para que aciertes con esta primera 
 escapada. 
 
-![banco con niñas en Engelberg](etheria_images/2021/01/viajar-ninos-europa-engelberg-suiza.jpg "Excursión a la montaña en Engelberg (Suiza). © Laura Fernández")
+![banco con niñas en Engelberg](etheria-images/2021/01/viajar-ninos-europa-engelberg-suiza.jpg "Excursión a la montaña en Engelberg (Suiza). © Laura Fernández")
 
 Casi siempre tenemos la errónea idea de que los niños se adaptan mal a los cambios 
 cuando, en general, son unos auténticos todoterrenos. El mundo entre algodones en el que 
@@ -33,7 +33,7 @@ europeas. Después, seguro que te animas a destinos más lejanos donde también 
 **viajar con niños** sin ningún problema. **Tailandia**, **Japón** o **Costa Rica** son 
 solo algunos entre una casi infinita lista. 
 
-![Senderismo en Agualva en Terceira](etheria_images/2021/01/viajar-ninos-terceira-Senderismo-BAIAS-DA-ALGUALVA-2-1024x683-1-900x600.jpg "Ruta de senderismo de Baias da Agualva (Terceira, Azores). © SG")
+![Senderismo en Agualva en Terceira](etheria-images/2021/01/viajar-ninos-terceira-Senderismo-BAIAS-DA-ALGUALVA-2-1024x683-1-900x600.jpg "Ruta de senderismo de Baias da Agualva (Terceira, Azores). © SG")
 
 Lo primero que deberías tener en cuenta es que en un viaje con niños (sobre todo si son 
 muy pequeños) es mejor llevarlo todo bastante organizado y previsto, aunque después 
@@ -54,7 +54,7 @@ empezar con un **viaje corto aprovechando un puente en primavera o en otoño**. 
 noches son suficientes para desconectar, conocer otro lugar y no liarte mucho con los 
 preparativos. Y así vas ‘ensayando’ para viajes más largos. 
 
-![Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé (Amboise, valle del Loira)](etheria_images/2021/01/Amboise-castillo-clos-luce.jpg "Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé (Amboise, valle del Loira). © S.G.")
+![Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé (Amboise, valle del Loira)](etheria-images/2021/01/Amboise-castillo-clos-luce.jpg "Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé (Amboise, valle del Loira). © S.G.")
 
 Después, elige la zona. No te preocupes demasiado por la duración del vuelo. Los niños 
 se adaptan a aeropuertos y vuelos mucho mejor de lo que pensamos, basta con llevar 
@@ -70,7 +70,7 @@ como un rato en un parque. Para **una semana**, es mejor no seleccionar más de 
 tres alojamientos, lo de cambiar cada día de hotel no es muy buena idea por el follón de 
 hacer y deshacer maletas familiares. 
 
-![Tobogán en el monte Brunni en Suiza.](etheria_images/2021/01/viajar-ninos-europa-Engelberg-tobogan.jpg "Tobogán en el monte Brunni en Suiza. © Cristina Monllor")
+![Tobogán en el monte Brunni en Suiza.](etheria-images/2021/01/viajar-ninos-europa-Engelberg-tobogan.jpg "Tobogán en el monte Brunni en Suiza. © Cristina Monllor")
 
 ## Elegir hoteles familiares
 
@@ -92,7 +92,7 @@ en plena naturaleza en Holanda, Bélgica, Francia y Alemania. Con restaurantes y
 servicios de ocio como piscinas o pistas deportivas, donde te costará sacar a los niños 
 del complejo. 
 
-![Aqua Mundo, el parque acuático cubierto de Center Parcs De Eemhof (Holanda).](etheria_images/2021/01/viajar-ninos-Center-Parcs-Eemhof-.jpg "Aqua Mundo, el parque acuático cubierto de Center Parcs De Eemhof (Holanda). © Milan Vermeulen")
+![Aqua Mundo, el parque acuático cubierto de Center Parcs De Eemhof (Holanda).](etheria-images/2021/01/viajar-ninos-Center-Parcs-Eemhof-.jpg "Aqua Mundo, el parque acuático cubierto de Center Parcs De Eemhof (Holanda). © Milan Vermeulen")
 
 ## Organizar excursiones en familia
 
@@ -103,7 +103,7 @@ zona. Esta investigación requiere tiempo. Es mejor que durante el viaje te dedi
 disfrutar de lo organizado y no restes horas al sueño preparando la ruta del día 
 siguiente. 
 
-![Taller de galletas con Papá y Mamá Noel en su cabaña privada (Laponia finlandesa).](etheria_images/2021/01/viajar-ninos-europa-galletas-laponia.jpg "Taller de galletas con Papá y Mamá Noel en su cabaña privada (Laponia finlandesa). © SG")
+![Taller de galletas con Papá y Mamá Noel en su cabaña privada (Laponia finlandesa).](etheria-images/2021/01/viajar-ninos-europa-galletas-laponia.jpg "Taller de galletas con Papá y Mamá Noel en su cabaña privada (Laponia finlandesa). © SG")
 
 Hoy día Internet pone el mundo, hasta el más local, a golpe de clic, aprovéchalo. Con 
 niños es preferible planificar las excursiones por tu cuenta para respetar sus tiempos. 
@@ -130,7 +130,7 @@ famosas piezas de Lego. Y el viaje termina con la mejor de las imágenes: la del
 **Castillo de Neuschwanstein**. Desde aquí la ruta sigue hasta Múnich, atravesando la 
 Baviera más típica en pueblos como Oberammergau. 
 
-![Parque Playmobil Fun Park.](etheria_images/2021/01/viajar-ninos-baviera-playmobil.jpg "Parque Playmobil Fun Park. © SG")
+![Parque Playmobil Fun Park.](etheria-images/2021/01/viajar-ninos-baviera-playmobil.jpg "Parque Playmobil Fun Park. © SG")
 
 ### Holanda, parques y divertidos museos
 
@@ -154,7 +154,7 @@ mano](https://etheriamagazine.com/2018/10/06/museo-nemo-en-amsterdam-ciencia-par
 ✅ [Center Parcs Eemhof, tu alojamiento familiar en 
 Holanda](https://etheriamagazine.com/2018/08/11/center-parcs-de-eemhof-vacaciones-en-la-naturaleza/) 
 
-![El museo de las miniaturas de Madurodam.](etheria_images/2021/01/viajar-ninos-holanda-madurodam.jpg "El museo de las miniaturas de Madurodam. © SG")
+![El museo de las miniaturas de Madurodam.](etheria-images/2021/01/viajar-ninos-holanda-madurodam.jpg "El museo de las miniaturas de Madurodam. © SG")
 
 ### Suiza con niños
 
@@ -174,7 +174,7 @@ inolvidable](https://etheriamagazine.com/2018/10/12/mercados-de-navidad-en-zuric
 ✅ [8 actividades en Lucerna para un fin de semana 
 navideño](https://etheriamagazine.com/2019/12/04/fin-de-semana-lucerna-mercadillos-navidad/) 
 
-![Trineos en julio en el Glacier Park, en el monte Titlis](etheria_images/2021/01/viajar-ninos-Engelberg-snow-park-titlis.jpg "Trineos en julio en el Glacier Park, en el monte Titlis. © Laura Fernández")
+![Trineos en julio en el Glacier Park, en el monte Titlis](etheria-images/2021/01/viajar-ninos-Engelberg-snow-park-titlis.jpg "Trineos en julio en el Glacier Park, en el monte Titlis. © Laura Fernández")
 
 ### Florencia y Toscana, arte en familia
 
@@ -193,7 +193,7 @@ Por ejemplo, dedicar un día a Volterra, San Gimignano y Monteriggioni y otro a
 Montepulciano, Pienza y Montalcino. Ciudades como Pisa, Luca o Siena merecen un día 
 entero de excursión para verlas con calma. 
 
-![barco en azores](etheria_images/2021/01/viajar-ninos-euorpa-toscana.jpg "Montepulciano, encaramado a una colina.")
+![barco en azores](etheria-images/2021/01/viajar-ninos-euorpa-toscana.jpg "Montepulciano, encaramado a una colina.")
 
 ### Isla de Terceira (Azores) para niños aventureros
 
@@ -210,7 +210,7 @@ Gruta do Natal. Tampoco la excursión estrella en Terceira: una salida en barco 
 rápida para ver de cerca a los delfines que rodean la isla y, si hay suerte, a alguna 
 ballena. 
 
-![Viajes a Azores con niños](etheria_images/2021/01/viajar-ninos-europa-terceira-900x600.jpg "Avistamiento de cetáceos en Terceira. © SG")
+![Viajes a Azores con niños](etheria-images/2021/01/viajar-ninos-europa-terceira-900x600.jpg "Avistamiento de cetáceos en Terceira. © SG")
 
 ### Alsacia y Selva Negra, paisajes de cuento
 
@@ -228,7 +228,7 @@ cuento y dos lugares de visita obligada: las cataratas de Triberg y el gran relo
 cuco de Schonach. Un viaje con ciudades maravillosas, naturaleza y un gran parque 
 temático que tienes que conocer sí o sí. 
 
-![Camino a las cataratas de Triberg, en la Selva Negra.](etheria_images/2021/01/viajar-ninos-cataratas-triberg.jpg "Camino a las cataratas de Triberg, en la Selva Negra. © SG")
+![Camino a las cataratas de Triberg, en la Selva Negra.](etheria-images/2021/01/viajar-ninos-cataratas-triberg.jpg "Camino a las cataratas de Triberg, en la Selva Negra. © SG")
 
 ### Valle del Loira y Futuroscope
 
@@ -243,7 +243,7 @@ Chanteloup. Como broche final, ¿qué tal si os acercáis a [Futuroscope](https:
 Está a tan solo dos horas de coche y es un parque donde disfrutaréis todos con sus 
 atracciones de realidad virtual y su zona de juegos para los más pequeños. 
 
-![El ‘Loire a Velo’ pasa junto al castillo de Chenanceau.](etheria_images/2021/01/viajar-ninos-europa-Chenonceau.jpg "El ‘Loire a Velo’ pasa junto al castillo de Chenanceau. © D. Darrault/ CRT Centre Val de Loire")
+![El ‘Loire a Velo’ pasa junto al castillo de Chenanceau.](etheria-images/2021/01/viajar-ninos-europa-Chenonceau.jpg "El ‘Loire a Velo’ pasa junto al castillo de Chenanceau. © D. Darrault/ CRT Centre Val de Loire")
 
 ### Laponia, el hogar de Papá Noel
 
@@ -262,7 +262,7 @@ privada, es una experiencia única para toda la familia. Te recomendamos que ech
 vistazo a nuestro artículo [8 consejos para viajar con niños a la Laponia 
 finlandesa](https://etheriamagazine.com/2018/09/08/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos/). 
 
-![niño con Papa Noel en Laponia](etheria_images/2021/01/viajar-ninos-laponia-papa-noel.jpg "Visita a la cabaña privada de Papá Noel en la Laponia finlandesa. © SG")
+![niño con Papa Noel en Laponia](etheria-images/2021/01/viajar-ninos-laponia-papa-noel.jpg "Visita a la cabaña privada de Papá Noel en la Laponia finlandesa. © SG")
 
 **También te puede interesar:** 
 

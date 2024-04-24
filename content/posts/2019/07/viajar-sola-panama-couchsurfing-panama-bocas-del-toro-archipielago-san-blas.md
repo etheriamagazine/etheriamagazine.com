@@ -1,12 +1,12 @@
 ---
 title: "Couchsurfing en Panamá: viaja sola a Bocas del Toro y al archipiélago de San Blas"
 date: 2019-07-12
-coverImage: etheria_images/2019/06/Panama-San-Blas-isla-diablo.jpg
+coverImage: etheria-images/2019/06/Panama-San-Blas-isla-diablo.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Elisabeth G. Iborra
 ---
 
@@ -16,7 +16,7 @@ Yala, en el archipiélago de San Blas; y alojarte a coste cero gracias al couchs
 Como siempre, te damos, las claves para viajar sola a Panamá y sacar el máximo partido a 
 la experiencia. 
 
-![Playa en el archipiélago de San Blas](etheria_images/2019/06/Panama-san-blas.jpg "Playa en el archipiélago de San Blas. © Rocío Guillén")
+![Playa en el archipiélago de San Blas](etheria-images/2019/06/Panama-san-blas.jpg "Playa en el archipiélago de San Blas. © Rocío Guillén")
 
 Supongamos que llegas a Panamá City en avión. Bien, vas a visitar ese aeropuerto varias 
 veces si quieres ir a Bocas del Toro y a San Blas porque no están conectados entre sí, 
@@ -24,7 +24,7 @@ pese a situarse en la misma costa caribeña. Air Panama tiene varias frecuencias
 también puedes ir por vía terrestre, yo en concreto crucé a Bocas del Toro por la 
 frontera con Costa Rica caminando y luego en barquito para llegar al archipiélago. 
 
-![Casco histórico de Ciudad de Panamá.](etheria_images/2019/06/panama-casco-historico.jpg "Casco histórico de Ciudad de Panamá.")
+![Casco histórico de Ciudad de Panamá.](etheria-images/2019/06/panama-casco-historico.jpg "Casco histórico de Ciudad de Panamá.")
 
 ## La ciudad de Panamá
 
@@ -59,7 +59,7 @@ De esa gente extraordinaria que no conoces si no es por Couchsurfing (CS en adel
 Pero es que congeniamos tanto los tres que, cuando me desperté para ir al aeropuerto, me 
 los encontré a los dos preparándome un desayuno delicioso. 
 
-![Ciudad de Panamá](etheria_images/2019/06/Panama-viajar-sola.jpg "Ciudad de Panamá.")
+![Ciudad de Panamá](etheria-images/2019/06/Panama-viajar-sola.jpg "Ciudad de Panamá.")
 
 Y así me fui, deseando volver a verlos, cosa que me sucedió más tarde en Ecuador, divino 
 azar, justo antes del golpe de estado que nos confinó al norteamericano andarín y a mí 
@@ -86,7 +86,7 @@ asamblea vecinal donde toman sus decisiones, algunas de ellas muy beligerantes c
 gobierno estatal, ya que se sienten abandonados a su suerte desde los tiempos de Nele 
 Kantule, líder de la primera revolución kuna en 1925. 
 
-![Playa de isla Diablo, en el archipiélago de San Blas](etheria_images/2019/06/Panama-San-Blas-isla-diablo.jpg "Playa de isla Diablo, en el archipiélago de San Blas.")
+![Playa de isla Diablo, en el archipiélago de San Blas](etheria-images/2019/06/Panama-San-Blas-isla-diablo.jpg "Playa de isla Diablo, en el archipiélago de San Blas.")
 
 El hecho de ir con el contacto de este hombre, tan respetado por los 3.000 habitantes de 
 su isla **Ustupu,** impidió que un barquero abusara cobrándome más por el trayecto en 
@@ -107,7 +107,7 @@ sobre todo, a la inconmensurable belleza de sus fondos marinos. Si te da miedo h
 submarinismo, en los tours organizados por las islas suelen llevar a hacer esnórquel a 
 Punta Hospital y verás lo suficiente… aunque no todo a un palmo de tu nariz. 
 
-![Bocas del Toro en Panamá](etheria_images/2019/06/Panama-Bocas-del-toro.jpg "Bocas del Toro.")
+![Bocas del Toro en Panamá](etheria-images/2019/06/Panama-Bocas-del-toro.jpg "Bocas del Toro.")
 
 Puedes aprovechar que estás en una de las zonas de buceo más bonitas del mundo para 
 probar con un bautismo, en el que te lleva el monitor de la mano para que no temas, 
@@ -132,7 +132,7 @@ un grupo pequeño, alquilar una barca privada y pedirle al capitán que os lleve
 escojáis y no a las que imponen en las agencias, porque separan las islas más lindas en 
 dos jornadas diferentes para que tengáis que comprar ambos tours. 
 
-![Rana Roja de Panamá](etheria_images/2019/06/Panama-rana.jpg "Rana Roja de Panamá.")
+![Rana Roja de Panamá](etheria-images/2019/06/Panama-rana.jpg "Rana Roja de Panamá.")
 
 La opción privada que os invito a hacer empieza por ver la salida del sol por **Bahía 
 Delfines** con los susodichos mamíferos saltando sobre sus límpidas aguas. Las islas de 

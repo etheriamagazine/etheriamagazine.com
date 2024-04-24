@@ -1,12 +1,12 @@
 ---
 title: "Heidelberg, sola o con amigas, siempre es un planazo"
 date: 2020-06-12
-coverImage: etheria_images/2020/06/Heidelberg-vistas-puente.jpg
+coverImage: etheria-images/2020/06/Heidelberg-vistas-puente.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Alegre, extrovertida y con un punto muy mediterráneo, la ciudad alemana de Heidelberg es 
@@ -15,7 +15,7 @@ con música en la calle, paseos y festivales en este rincón de Baden-Wurtemberg
 leyendo porque te contaremos lo esencial que tienes que ver en Heidelberg en sólo 10 
 planes. 
 
-![Paseo por la ribera del río Neckar.](etheria_images/2020/06/Heidelberg-paseo-neckar-703x1024.jpg "Paseo por la ribera del río Neckar. © Etheria Magazine")
+![Paseo por la ribera del río Neckar.](etheria-images/2020/06/Heidelberg-paseo-neckar-703x1024.jpg "Paseo por la ribera del río Neckar. © Etheria Magazine")
 
 Es Heidelberg una ciudad histórica? Sí. ¿Tiene un amplio patrimonio monumental? También. 
 Sin embargo, cuando pasa cierto tiempo desde que la has visitado, los recuerdos más 
@@ -25,7 +25,7 @@ lleno de vida, de música, de paseos y de luz. Es imposible caer en la melancol�
 Heidelberg. Como ya hemos comentado en otros artículos, hay lugares que pertenecen a una 
 categoría especial, la de ciudades antídoto. Y Heidelberg lo es. 
 
-![ambiente de heidelberg](etheria_images/2020/06/heidelberg-terrazas.jpg "Animado ambiente de Heidelberg. © Etheria Magazine")
+![ambiente de heidelberg](etheria-images/2020/06/heidelberg-terrazas.jpg "Animado ambiente de Heidelberg. © Etheria Magazine")
 
 Es, por dicho motivo, por el que es un destino adecuado tanto para descansar como para 
 vivir una fiesta cada noche, para olvidar un amor o para enamorarte con cada brindis. 
@@ -37,7 +37,7 @@ desde Stuttgart (a 90 km, una hora y media en tren). En este artículo partiremo
 momento de vuestra llegada para recomendaros los lugares que tienes que ver en 
 Heidelberg y las experiencias que más nos gustaron a nosotras. 
 
-![puente carlos Teodoro, viaje heidelberg](etheria_images/2020/06/Castillo-heidelberg.jpg "Castillo de Heidelberg desde el puente de Carlos Teodoro. © Etheria Magazine")
+![puente carlos Teodoro, viaje heidelberg](etheria-images/2020/06/Castillo-heidelberg.jpg "Castillo de Heidelberg desde el puente de Carlos Teodoro. © Etheria Magazine")
 
 ## 1\. Castillo y jardines de Heidelberg
 
@@ -51,21 +51,21 @@ construcciones. En este complejo palaciego no faltan fachadas monumentales, como
 **Friedrichsbau**, con decenas de esculturas, ni magníficas torres, ni grandes 
 balconadas. 
 
-![Castillo de Heidelberg, viaje amigas, viajar sola](etheria_images/2020/06/Castillo-heidelberg-balcon.jpg "Castillo de Heidelberg. © Etheria Magazine")
+![Castillo de Heidelberg, viaje amigas, viajar sola](etheria-images/2020/06/Castillo-heidelberg-balcon.jpg "Castillo de Heidelberg. © Etheria Magazine")
 
 Deberías entrar, al menos, a las estancias y salones palaciegos; al **Museo de la 
 Farmacia**, una auténtica maravilla; y a la Bodega con su sala del barril gigante, con 
 capacidad para 130.000 litros, que ocupa casi toda una habitación. Fíjate bien en los 
 horarios porque cierran temprano. 
 
-![museo farmacia, castillo Heidelberg](etheria_images/2020/06/Museo-farmacia-heidelberg.jpg "Museo de la Farmacia. © Etheria Magazine")
+![museo farmacia, castillo Heidelberg](etheria-images/2020/06/Museo-farmacia-heidelberg.jpg "Museo de la Farmacia. © Etheria Magazine")
 
 En el patio central del castillo se suelen celebrar **conciertos en verano**, y 
 alrededor del conjunto se extienden unos grandísimos jardines. Es habitual ver a grupos 
 de jóvenes tumbados en el césped disfrutando de las vistas de la ciudad al atardecer con 
 una copa de vino en la mano. 
 
-![jardines castillo heidelberg](etheria_images/2020/06/jardines-castillo-heidelberg.jpg "Jardines del castillo de Heidelberg. © Etheria Magazine")
+![jardines castillo heidelberg](etheria-images/2020/06/jardines-castillo-heidelberg.jpg "Jardines del castillo de Heidelberg. © Etheria Magazine")
 
 ## 2\. Subir en funicular
 
@@ -77,7 +77,7 @@ cumbre, pasando previamente por la estación Molkenkur. Cuando llegues a la cima
 **Königstuhl** (a 549 metros), puedes emprender algunas rutas senderistas o sencillos 
 paseos. 
 
-![Haus zum Ritter o casa del caballero un lugar que tienes que ver en heidelberg](etheria_images/2020/06/casa-zum-ritter-heidelberg.jpg "Casa del Caballero (Haus zum Ritter), en Heidelberg. © Etheria Magazine")
+![Haus zum Ritter o casa del caballero un lugar que tienes que ver en heidelberg](etheria-images/2020/06/casa-zum-ritter-heidelberg.jpg "Casa del Caballero (Haus zum Ritter), en Heidelberg. © Etheria Magazine")
 
 ## 3\. Un paseo por el casco antiguo
 
@@ -93,7 +93,7 @@ la calle peatonal más larga de Europa. En esta vía, además de bonitos edifici
 históricos, encontrarás muchísimas **tiendas, agradables cafés** y pastelerías donde 
 disfrutar del ambiente y pasar la tarde. 
 
-![Marktplatz un espacio publico de heidelberg](etheria_images/2020/06/heidelberg-marktplatz.jpg "Marktplatz con la iglesia del Espíritu Santo. © Etheria Magazine")
+![Marktplatz un espacio publico de heidelberg](etheria-images/2020/06/heidelberg-marktplatz.jpg "Marktplatz con la iglesia del Espíritu Santo. © Etheria Magazine")
 
 ## 4\. Marktplatz
 
@@ -106,7 +106,7 @@ Aunque ahora ya no exista el mercado que le dio nombre a la plaza, aún se conse
 animado ambiente. Alrededor de la misma se encuentra el Ayuntamiento, la magnífica 
 **iglesia del Espíritu Santo**, a cuya torre es posible subir, y coloridas viviendas. 
 
-![puente de carlos teodoro en heidelberg](etheria_images/2020/06/puente-carlos-teodoro-heidelberg.jpg "Puente de Carlos Teodoro. © Etheria Magazine")
+![puente de carlos teodoro en heidelberg](etheria-images/2020/06/puente-carlos-teodoro-heidelberg.jpg "Puente de Carlos Teodoro. © Etheria Magazine")
 
 ## 5\. Puente de Carlos Teodoro o Alte Brücke
 
@@ -120,7 +120,7 @@ El puente es un lugar muy concurrido durante todo el día, pero especialmente al
 atardecer. Desde el puente se puede ver cómo el sol tiñe de rojo las paredes del 
 castillo y casi parece que esté en llamas. 
 
-![rio Heidelberg](etheria_images/2020/06/Heidelberg-rio.jpg "Ribera del río Neckar, en Heidelberg. © Etheria Magazine")
+![rio Heidelberg](etheria-images/2020/06/Heidelberg-rio.jpg "Ribera del río Neckar, en Heidelberg. © Etheria Magazine")
 
 ## 6\. Relájate en la ribera del Neckar
 
@@ -131,7 +131,7 @@ bicicleta... incluso hay quien se relaja en un pícnic con amigos. Es un sitio s
 agradable para hacer un alto en el camino y descansar un rato mientras decides si 
 quieres hacer un pequeño crucero o ir en kayak por el río. 
 
-![vistas heidelberg desde el castillo](etheria_images/2020/06/Heidelberg-vistas-puente.jpg "Vistas de Heidelberg desde el castillo. © Etheria Magazine")
+![vistas heidelberg desde el castillo](etheria-images/2020/06/Heidelberg-vistas-puente.jpg "Vistas de Heidelberg desde el castillo. © Etheria Magazine")
 
 ## 7\. Camino de los Filósofos
 
@@ -145,7 +145,7 @@ higueras, almendros y castaños.
 Las vistas de la ciudad y del castillo son increíbles desde el sendero. Un incentivo más 
 para ponernos calzado cómodo y echar a andar. 
 
-![Heidelberg Kulturbrauerei Cervecería heidelberg](etheria_images/2020/06/cerveceria-heidelberg.jpg "Cervecería Heidelberg Kulturbrauerei. © Etheria Magazine")
+![Heidelberg Kulturbrauerei Cervecería heidelberg](etheria-images/2020/06/cerveceria-heidelberg.jpg "Cervecería Heidelberg Kulturbrauerei. © Etheria Magazine")
 
 ## 8\. Tabernas históricas y agradables cervecerías
 
@@ -158,7 +158,7 @@ nota de estas dos: [Zum roten Ochsen](https://roterochsen.de/en/961-2/) (El buey
 Seppl](https://heidelberger-kulturbrauerei.de/en/seppl/) (Casa Pepe, y no es broma). 
 Sirven comida tradicional, así que son una buena opción para cenar. 
 
-![cerveceria vetter en heidelberg](etheria_images/2020/06/vetter-heidelberg.jpg "Cervecería Vetter. © Etheria Magazine")
+![cerveceria vetter en heidelberg](etheria-images/2020/06/vetter-heidelberg.jpg "Cervecería Vetter. © Etheria Magazine")
 
 Otra visita inexcusable es a Vetter donde elaboran y sirven la Vetter 33, con 33 grados 
 de alcohol, y que entró en los Guinness como la cerveza con más gradación del mundo. 
@@ -166,7 +166,7 @@ Habrá que probarla, ¿no crees? Ya te avisamos de que es intensa, así que pide
 para empezar... Si prefieres algo más tranquilo, una cervecería que está fenomenal y que 
 tiene una bonita terraza para cenar comida tradicional es Heidelberg Kulturbrauerei. 
 
-![terraza Heidelberg](etheria_images/2020/06/Heidelberg-patio-universidad-2.jpg "Terraza del campus universitario. © Etheria Magazine")
+![terraza Heidelberg](etheria-images/2020/06/Heidelberg-patio-universidad-2.jpg "Terraza del campus universitario. © Etheria Magazine")
 
 ## 9\. La Universidad y su biblioteca
 
@@ -179,7 +179,7 @@ porque está prácticamente todo en una manzana. Además en los patios de las in
 universitarias, hay terrazas y bares con mucho ambiente como Zeughause-Mensa im 
 Marstall. 
 
-![Schwetzingen palace](etheria_images/2020/06/palacio-schwetzingen.jpg "Visita teatralizada en el palacio de Schwetzingen. © Etheria Magazine")
+![Schwetzingen palace](etheria-images/2020/06/palacio-schwetzingen.jpg "Visita teatralizada en el palacio de Schwetzingen. © Etheria Magazine")
 
 ## 10\. Excursión a Schwetzingen
 
@@ -193,7 +193,7 @@ dejes de acercarte a la mezquita que se encuentra dentro del inmenso espacio aja
 Frente al palacio hay varias cervecerías, nosotras comimos en Schwetzinger Brauhaus zum 
 Ritter, elaboran su propia cerveza y tienen unos menús tradicionales deliciosos. 
 
-![Schwetzingen palace, viaje mujeres](etheria_images/2020/06/mezquita-palacio-schwetzingen.jpg "Mezquita del palacio de Schwetzingen. © Etheria Magazine")
+![Schwetzingen palace, viaje mujeres](etheria-images/2020/06/mezquita-palacio-schwetzingen.jpg "Mezquita del palacio de Schwetzingen. © Etheria Magazine")
 
 ## Guía de Heidelberg | Etheria Magazine
 

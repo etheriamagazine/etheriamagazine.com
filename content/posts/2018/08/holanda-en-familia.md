@@ -1,17 +1,17 @@
 ---
 title: "Qué ver y hacer en un viaje en familia por Holanda"
 date: 2018-08-10
-coverImage: etheria_images/2018/05/Holanda-Madurodam-e1558171413662.jpg
+coverImage: etheria-images/2018/05/Holanda-Madurodam-e1558171413662.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Holanda es un país perfecto para un viaje en familia. Cuenta con atracciones únicas, las distancias entre los lugares son cortas y es fácil moverse en coche. Los niños encuentran numerosos lugares donde disfrutar y divertirse al aire libre, además de aprender en lugares como el museo NEMO de Ámsterdam.
 
-![Parque Efteling en Holanda](etheria_images/2018/08/Holanda-con-ninos-efteling.jpg "Parque Efteling en Holanda. © SG")
+![Parque Efteling en Holanda](etheria-images/2018/08/Holanda-con-ninos-efteling.jpg "Parque Efteling en Holanda. © SG")
 
 Holanda es un país fácil para viajar en familia. Si se quiere ver algo más que Ámsterdam 
 lo mejor es alquilar un coche y con el navegador encendido recorrer otros pueblos, 
@@ -28,7 +28,7 @@ niños**: toboganes gigantes, barcas que se conducen por un canal, un pequeño c
 karts y una zona cubierta con maquinas recreativas, coches de choque y un pequeño “tren 
 de la bruja”. Cuenta con un hotel y un buen restaurante. 
 
-![Holanda en familia, viajes con niños, escapadas por Europa](etheria_images/2018/05/Holanda-Avifauna-e1558171351767.jpg "Paseo en Avifauna. @ Susana García")
+![Holanda en familia, viajes con niños, escapadas por Europa](etheria-images/2018/05/Holanda-Avifauna-e1558171351767.jpg "Paseo en Avifauna. @ Susana García")
 
 ## Parque Madurodam, un mundo en miniatura
 
@@ -40,7 +40,7 @@ barco con una manguera, comprobar el funcionamiento de la energía eólica o puj
 subasta de flores. Además, tiene un **parque infantil** con numerosos juegos y una 
 tirolina, perfecto para completar la visita. 
 
-![Holanda en familia, viajes con niños, escapadas por Europa](etheria_images/2018/05/Holanda-Madurodam-e1558171413662.jpg "Madurodam muestra un mundo en miniatura. @ SG")
+![Holanda en familia, viajes con niños, escapadas por Europa](etheria-images/2018/05/Holanda-Madurodam-e1558171413662.jpg "Madurodam muestra un mundo en miniatura. @ SG")
 
 ## Ámsterdam con niños
 
@@ -52,7 +52,7 @@ gigantes hasta participar con un juego en la cadena de montaje de una fábrica. 
 terraza increíble (a la que se puede acceder aunque no se visite el museo), que 
 desciende en forma de escalera gigante desde una quinta planta. 
 
-![Holanda en familia, viajes con niños, escapadas por Europa](etheria_images/2018/05/Holanda-Amsterdam-museo-Nemo-e1558171438104.jpg "Museo Nemo de Ámsterdam.")
+![Holanda en familia, viajes con niños, escapadas por Europa](etheria-images/2018/05/Holanda-Amsterdam-museo-Nemo-e1558171438104.jpg "Museo Nemo de Ámsterdam.")
 
 Otra actividad muy cómoda para realizar con los niños en Ámsterdam es un **crucero por 
 los canales**. Hay mucha variedad en tipo de cruceros (desde simples paseos a cruceros 
@@ -74,7 +74,7 @@ es posible subir para tener una perspectiva desde arriba de los campos de tulipa
 varios lugares para comer. Si viajas a Holanda con niños (o sin ellos) en estas fechas 
 es una cita imprescindible. 
 
-![Holanda en familia, viajes con niños, escapadas por Europa](etheria_images/2018/05/Holanda-Keukenhof-tulipanes-e1558171625534.jpg "Tulipanes en Keukenhof. @ Susana García.")
+![Holanda en familia, viajes con niños, escapadas por Europa](etheria-images/2018/05/Holanda-Keukenhof-tulipanes-e1558171625534.jpg "Tulipanes en Keukenhof. @ Susana García.")
 
 ## Edam, Volendam y Marken: la Holanda de las fotos
 
@@ -87,7 +87,7 @@ una carrera construida sobre el agua, ya que se encuentra en una isla dentro del
 Markermeer (lago artificial ganado al mar). Es un lugar de paz absoluta que casi parece 
 un decorado donde no se ha dejado nada fuera de su sitio. 
 
-![Holanda en familia, viajes con niños, escapadas por Europa](etheria_images/2018/05/Holanda-Edam-e1558171554778.jpg "Barcos en Edam. @ SG")
+![Holanda en familia, viajes con niños, escapadas por Europa](etheria-images/2018/05/Holanda-Edam-e1558171554778.jpg "Barcos en Edam. @ SG")
 
 ## Disfruta de la naturaleza en las cabañas De Eemhof
 
@@ -102,7 +102,7 @@ distintos tamaños** ocupa un gran espacio y es casi imprescindible alquilar una
 bicicletas para moverse por él, ya que los coches sólo pueden acercarse a la cabaña para 
 dejar y recoger el equipaje. 
 
-![Holanda en familia, viajes con niños, escapadas por Europa](etheria_images/2018/07/Center-Parcs-Eemhof-Aquamundo-e1558171576170.jpg "Aqua Mundo, el parque acuático cubierto del Center Parcs de Eemhof. © Milan Vermeulen.")
+![Holanda en familia, viajes con niños, escapadas por Europa](etheria-images/2018/07/Center-Parcs-Eemhof-Aquamundo-e1558171576170.jpg "Aqua Mundo, el parque acuático cubierto del Center Parcs de Eemhof. © Milan Vermeulen.")
 
 ## Parque de atracciones Efteling, el país de los cuentos
 
@@ -117,7 +117,7 @@ pequeños disfrutaran entrando en las casas de los cuentos y los mayores con atr
 llenas de adrenalina. Merece la pena alojarse en su hotel en una de sus habitaciones 
 temáticas. 
 
-![Holanda en familia, viajes con niños, escapadas por Europa](etheria_images/2018/05/Holanda-familiar-Efteling-e1558171594445.jpg "Rincón del parque Efteling. @SG")
+![Holanda en familia, viajes con niños, escapadas por Europa](etheria-images/2018/05/Holanda-familiar-Efteling-e1558171594445.jpg "Rincón del parque Efteling. @SG")
 
 ### CONSEJOS ETHERIA
 

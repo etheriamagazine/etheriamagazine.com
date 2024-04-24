@@ -1,12 +1,12 @@
 ---
 title: "Planes originales en un viaje romántico a Madeira"
 date: 2024-02-02
-coverImage: etheria_images/2024/02/Madeira-arco-iris.jpg
+coverImage: etheria-images/2024/02/Madeira-arco-iris.jpg
 categories: 
   - viajes-romanticos
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Muchos destinos portugueses son perfectos para recorrer en pareja, pero hay uno que lo 
@@ -14,7 +14,7 @@ tiene todo, está rodeado por el mar, inundado de flores y aporta una dosis extr
 bienestar. Si queréis triunfar en la elección de una escapada muy dulce, no dudéis en 
 organizar un viaje romántico a Madeira. 
 
-![Romántico Parque de Funchal.](etheria_images/2024/02/Funchal-parque-madeira.jpg "Romántico Jardín Monte Palace de Funchal. © Pepa García")
+![Romántico Parque de Funchal.](etheria-images/2024/02/Funchal-parque-madeira.jpg "Romántico Jardín Monte Palace de Funchal. © Pepa García")
 
 Es habitual complicarse la vida a la hora de organizar una escapada en pareja, ya que 
 tratamos de que cumpla todos los requisitos para que resulte perfecta. Que sea un 
@@ -51,7 +51,7 @@ resto de la isla.
 ◼️No os perdáis: [Qué ver en Funchal, guía para 48 horas bien 
 aprovechadas](https://etheriamagazine.com/2022/08/08/que-ver-funchal/). 
 
-![Puertas pintadas de Funchal](etheria_images/2024/02/Funchal-Puertas-pintadas-676x1000.jpg "Puertas pintadas de Funchal. © Pepa García")
+![Puertas pintadas de Funchal](etheria-images/2024/02/Funchal-Puertas-pintadas-676x1000.jpg "Puertas pintadas de Funchal. © Pepa García")
 
 ## Tirarse en un cesto
 
@@ -63,7 +63,7 @@ curvas, en seguida os acostumbraréis y disfrutaréis de las vistas de Funchal c
 del océano al fondo. Sin duda, estas emociones son siempre bienvenidas en un viaje 
 romántico (que no aburrido) a Madeira. 
 
-![Carreiros do monte en Funchal.](etheria_images/2024/02/Funchal-carreiros-do-monte.jpg "Carreiros do monte en Funchal. © Pepa García")
+![Carreiros do monte en Funchal.](etheria-images/2024/02/Funchal-carreiros-do-monte.jpg "Carreiros do monte en Funchal. © Pepa García")
 
 ## Cena romántica
 
@@ -80,7 +80,7 @@ guisar especialidades de la isla.
 ◼️No os perdáis: [Qué comer en Madeira, la isla de las 
 nubes](https://etheriamagazine.com/2022/08/30/que-comer-en-madeira/). 
 
-![Pareja comparte una espetada en Madeira.](etheria_images/2024/02/Madeira-romantica.jpg "Pareja comparte una espetada en Madeira. © Andre Carvalho")
+![Pareja comparte una espetada en Madeira.](etheria-images/2024/02/Madeira-romantica.jpg "Pareja comparte una espetada en Madeira. © Andre Carvalho")
 
 ## Visitar algún museo
 
@@ -90,7 +90,7 @@ por alto. Entre los imprescindibles están el **Museo de Arte Sacro**, el **Muse
 Bordado y la Artesanía** y el **Museo Militar de Madeira**, ubicado en el Palacio de São 
 Lourenço (siglo XVI). 
 
-![Museo de las Tradiciones de Funchal.](etheria_images/2024/02/Funchal-museo.jpg "Museo de las Tradiciones de Funchal. © Pepa García")
+![Museo de las Tradiciones de Funchal.](etheria-images/2024/02/Funchal-museo.jpg "Museo de las Tradiciones de Funchal. © Pepa García")
 
 ## Piscinas naturales y balnearios
 
@@ -118,7 +118,7 @@ archipiélago. Estos kilómetros de acequias marcan los itinerarios para descubr
 belleza más natural y auténtica de Madeira. En muchos de ellos, la naturaleza sorprende 
 con sus bosques de laurisilva, cascadas, miradores y grandes bosques. 
 
-![Ruta senderista por una levada en Madeira.](etheria_images/2024/02/Madeira-ruta-levada.jpg "Ruta senderista por una levada en Madeira. © Pepa García")
+![Ruta senderista por una levada en Madeira.](etheria-images/2024/02/Madeira-ruta-levada.jpg "Ruta senderista por una levada en Madeira. © Pepa García")
 
 ## Salto en parapente para dos
 
@@ -135,7 +135,7 @@ hacen juntas. La cata de los vinos de Madeira se puede hacer en alguna de sus bo
 pero también es posible aprovechar el atardecer para brindar desde un velero mientras el 
 sol se oculta despacito en el horizonte. 
 
-![Funchal desde el mar.](etheria_images/2024/02/Madeira-arco-iris.jpg "Funchal desde el mar. © Pepa García")
+![Funchal desde el mar.](etheria-images/2024/02/Madeira-arco-iris.jpg "Funchal desde el mar. © Pepa García")
 
 ## Avistamiento de ballenas
 
@@ -158,7 +158,7 @@ conocer todo lo que tiene que ofrecer. Entre sus puntos fuertes está su playa d
 kilómetros, a un paso de la capital, por lo que es perfecta para una escapada en la que 
 se quiera pernoctar y disfrutar de la gastronomía local. 
 
-![Playa de Porto Santo.](etheria_images/2024/02/Porto-Santo-playa-.jpg "Playa de Porto Santo. © Pepa García")
+![Playa de Porto Santo.](etheria-images/2024/02/Porto-Santo-playa-.jpg "Playa de Porto Santo. © Pepa García")
 
 ◼️**No os perdáis:** [Por qué visitar Porto Santo si viajas a 
 Madeira](https://etheriamagazine.com/2019/02/05/que-ver-porto-santo-madeira/)

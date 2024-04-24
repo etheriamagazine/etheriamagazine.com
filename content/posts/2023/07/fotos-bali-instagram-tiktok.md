@@ -1,14 +1,14 @@
 ---
 title: "Bali, diez lugares que van directos a Instagram y TikTok"
 date: 2023-07-26
-coverImage: etheria_images/2023/07/foto-ubud-arrozales-columpio.jpg
+coverImage: etheria-images/2023/07/foto-ubud-arrozales-columpio.jpg
 categories: 
   - consejos-practicos
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La paradisíaca isla de Bali es uno de los destinos más deseados del planeta para pasar 
@@ -18,7 +18,7 @@ unas vacaciones. A sus indiscutibles encantos paisajísticos y culturales se sum
 diez lugares de Bali donde dar rienda suelta al "postureo" para lucir como nadie en tus 
 redes sociales. 
 
-![foto en el templo Besakih de Bali](etheria_images/2023/07/bali-templo-besakih-foto-espejo.jpg "En algunos templos te podrás hacer una foto reflejando la imagen en un espejo bajo el móvil simulando un falso lago. La imagen muestra el templo Besakih. © Etheria Magazine")
+![foto en el templo Besakih de Bali](etheria-images/2023/07/bali-templo-besakih-foto-espejo.jpg "En algunos templos te podrás hacer una foto reflejando la imagen en un espejo bajo el móvil simulando un falso lago. La imagen muestra el templo Besakih. © Etheria Magazine")
 
 Por mucho que nos pese, hay veces que la elección de un viaje depende en gran medida de 
 lo “instagrameables” que sean sus paisajes en detrimento de la cultura y la historia de 
@@ -48,7 +48,7 @@ para que llegue tu turno y te puedas hacer la foto deprisa y corriendo en soleda
 de dar paso al siguiente. Unos jóvenes balineses se encargarán de buscar los mejores 
 planos a cambio de una propina. 
 
-![pareja haciéndose fotos en la cascada de Kanto Lampo en Bali](etheria_images/2023/07/bali-cascada-kanto-lampo-pose.jpg "Fotos en la cascada de Kanto Lampo. © Susana García")
+![pareja haciéndose fotos en la cascada de Kanto Lampo en Bali](etheria-images/2023/07/bali-cascada-kanto-lampo-pose.jpg "Fotos en la cascada de Kanto Lampo. © Susana García")
 
 ✅ Si quieres ver la cascada y no quieres esperar para la foto perfecta, hay otra bajada 
 al final de la escalera hacia la izquierda con la que puedes acceder igualmente cerca de 
@@ -65,7 +65,7 @@ paisajes de arrozales escalonados de Ubud perfectos para una foto y cobrar entra
 el acceso. Y alrededor de esto, se crea una exitosa experiencia turística que antes no 
 existía. 
 
-![fotos en](etheria_images/2023/07/bali-columpios-aloha-ubud-850x564.jpg "Fotos en los famosos columpios de Ubud. © Susana García")
+![fotos en](etheria-images/2023/07/bali-columpios-aloha-ubud-850x564.jpg "Fotos en los famosos columpios de Ubud. © Susana García")
 
 ✅ La entrada cuesta 400.000 rupias y puedes además **alquilar un vaporoso vestido de 
 raso** (otra opción es llevarte el vestido más chic de tu maleta) y te ofrecen la 
@@ -81,7 +81,7 @@ sagrada que emana de sus caños. Hasta aquí todo bien, el templo es un lugar ma
 que data del siglo X y cuya creación la mitología la atribuye a Indra, el dios de la 
 fuerza hindú. 
 
-![caños de purificación en el templo de Tirta Umpul en Bali](etheria_images/2023/07/bali-manantial-purificacion.jpg "Turistas purificándose en Tirta Umpul. © Susana García")
+![caños de purificación en el templo de Tirta Umpul en Bali](etheria-images/2023/07/bali-manantial-purificacion.jpg "Turistas purificándose en Tirta Umpul. © Susana García")
 
 Lo sorprendente llega cuando ves cómo ese ritual sagrado de purificación se ha 
 trasladado a los turistas que, sin pudor alguno, se lanzan al agua sagrada envueltos en 
@@ -103,7 +103,7 @@ asomando en tus planos. Cuentan con unos caminos entre las plantaciones que prop
 un agradable paseo y podrás incluso utilizar algo de “atrezzo” para tus fotos o los 
 rincones en forma de corazón con las mejores vistas al fondo. 
 
-![Foto en los arrozales de Jitaluwih en Bali](etheria_images/2023/07/bali-arrozales-Jatiluwih.jpg "Foto en los arrozales de Jitaluwih. © SG")
+![Foto en los arrozales de Jitaluwih en Bali](etheria-images/2023/07/bali-arrozales-Jatiluwih.jpg "Foto en los arrozales de Jitaluwih. © SG")
 
 ## Miradores a los lagos Buyan y Tambligan
 
@@ -117,7 +117,7 @@ selva](https://www.civitatis.com/es/bali/trekking-lagos-tamblingan-buyan/?aid=10
 descendiendo al borde del lago para conocer parte de los secretos de la flora y fauna 
 balinesas, merece mucho la pena y puedes organizarla con empresas como Civitatis. 
 
-![Mirador sobre el lago Buyan en Bali](etheria_images/2023/07/bali-mirador-lago-buyan.jpg "Mirador sobre el lago Buyan. © SG")
+![Mirador sobre el lago Buyan en Bali](etheria-images/2023/07/bali-mirador-lago-buyan.jpg "Mirador sobre el lago Buyan. © SG")
 
 ## Las Puertas del Cielo
 
@@ -131,7 +131,7 @@ espacio donde algunos locales te la harán con tu móvil provocando un curioso e
 ponen un cristal debajo y así la foto queda reflejada, como si hubiera un lago justo 
 debajo. 
 
-![Templo de Lempuyang en Bali](etheria_images/2023/07/bali-puerta-cielo-set-fotos.jpg "Set de fotos frente a las Puertas del Cielo. © SG")
+![Templo de Lempuyang en Bali](etheria-images/2023/07/bali-puerta-cielo-set-fotos.jpg "Set de fotos frente a las Puertas del Cielo. © SG")
 
 ✅ Si no quieres esperar fila, siempre puedes hacer las fotos desde el otro lado de la 
 puerta, aunque el efecto no es el mismo sí se ve mejor la estructura del templo. Además, 
@@ -149,7 +149,7 @@ Beach** y la piscina natural que forma llamada **Angel´s Billabong**. Tendrás 
 un buen ángulo y siempre encuentras a algún habitante de la isla dispuesto a encontrar 
 el mejor encuadre. 
 
-![Broken Beach en Nusa Penida](etheria_images/2023/07/bali-nusa-penida-broken-beach.jpg "Broken Beach es uno de los escenarios preferidos para las fotos en Nusa Penida. © SG")
+![Broken Beach en Nusa Penida](etheria-images/2023/07/bali-nusa-penida-broken-beach.jpg "Broken Beach es uno de los escenarios preferidos para las fotos en Nusa Penida. © SG")
 
 La otra foto que no puede faltar en Nusa Penida es sobre **Kelingking Beach**, que se 
 observa desde lo alto de un acantilado ofreciendo una imagen de infarto a la que es 
@@ -166,7 +166,7 @@ su teatro. Es una forma perfecta de acercarse a una parte de los sonidos y baile
 locales y, además, de llevarse una fotografía con las bailarinas y bailarines que 
 interpretan este teatro musical. 
 
-![anfiteatro en el templo de Uluwatu en Bali](etheria_images/2023/07/bali-templo-uluwatu.jpg "Espectáculo de danzas kechak en el templo de Uluwatu. © SG")
+![anfiteatro en el templo de Uluwatu en Bali](etheria-images/2023/07/bali-templo-uluwatu.jpg "Espectáculo de danzas kechak en el templo de Uluwatu. © SG")
 
 ## Bosque de monos Sangeh
 
@@ -178,7 +178,7 @@ entrenados para subirse a los turistas y posar incluso mejor que ellos. Sólo ti
 quedarte quieta, no intentar tocarles y ellos buscarán la mejor posición como unos 
 consumados _instagramers_. 
 
-![chica con un mono en Sangeh](etheria_images/2023/07/bali-bosque-monos-foto.jpg "Esperando la mejor pose para la foto con un mono en Sangeh. © SG")
+![chica con un mono en Sangeh](etheria-images/2023/07/bali-bosque-monos-foto.jpg "Esperando la mejor pose para la foto con un mono en Sangeh. © SG")
 
 ## Una foto con elefantes
 
@@ -192,7 +192,7 @@ bañarte con ellos subida a horcajadas en su lomo o simplemente dejar que te abr
 su trompa o te coloquen una corona de flores. En la reserva insisten en que todo lo 
 aprenden a base de repetición y no se utiliza ningún tipo de violencia con ellos. 
 
-![Fotos con elefantes en Mason Elephant Park & Lodge](etheria_images/2023/07/bali-reserva-elefantes-fotos-parejas-850x613.jpg "Fotos con elefantes en Mason Elephant Park & Lodge. © SG")
+![Fotos con elefantes en Mason Elephant Park & Lodge](etheria-images/2023/07/bali-reserva-elefantes-fotos-parejas-850x613.jpg "Fotos con elefantes en Mason Elephant Park & Lodge. © SG")
 
 ## Información práctica
 

@@ -1,13 +1,13 @@
 ---
 title: "8 planes que no puedes perderte en Bruselas y Flandes"
 date: 2021-03-12
-coverImage: etheria_images/2021/03/Planes-flandes-paseo-barca-brujas.jpg
+coverImage: etheria-images/2021/03/Planes-flandes-paseo-barca-brujas.jpg
 categories: 
   - de-un-vistazo
   - planes-originales-para-mujeres
   - planes-cultura-ocio
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Viajar a Bruselas y Flandes es siempre un buen plan. A sus ciudades históricas llenas de 
@@ -15,7 +15,7 @@ tesoros artísticos se suma un gusto natural por vivir en la calle que se reflej
 plazas y calles llenas de terrazas al aire libre. Aquí te contamos 8 planes 
 imprescindibles para conocer algunos de sus secretos. ¡No te los pierdas! 
 
-![Graslei, el animado muelle de Gante.](etheria_images/2021/03/Planes-flandes-Graslei-Gante.jpg "Graslei, el animado muelle de Gante.")
+![Graslei, el animado muelle de Gante.](etheria-images/2021/03/Planes-flandes-Graslei-Gante.jpg "Graslei, el animado muelle de Gante.")
 
 Si estás pensando en un destino cómodo accesible y que combine cultura y naturaleza para 
 una escapada ten muy en cuenta la región de Flandes. La conexión aérea con Bruselas es 
@@ -30,7 +30,7 @@ planes en Bruselas y Flandes que nos gustan por su contenido cultural o su origi
 en sus ciudades principales, pero Flandes está llena de tesoros que merecen ser 
 descubiertos. 
 
-![Terrazas en en la Grand Place de Bruselas.](etheria_images/2021/03/Planes-Grand-Place-Bruselas.jpg "Terrazas en en la Grand Place de Bruselas.")
+![Terrazas en en la Grand Place de Bruselas.](etheria-images/2021/03/Planes-Grand-Place-Bruselas.jpg "Terrazas en en la Grand Place de Bruselas.")
 
 ## 1\. Tomar una cerveza en la Grand Place de Bruselas
 
@@ -41,7 +41,7 @@ Place**. Construida como mercado para comerciantes en el siglo XIII, hoy es un l
 perfecto para sentir el ritmo de la ciudad mientras contemplas los majestuosos edificios 
 que la rodean. 
 
-![Torre Belfort en Gante.](etheria_images/2021/03/Planes-flandes-Belfort-gante.jpg "Torre Belfort en Gante. © Artoria")
+![Torre Belfort en Gante.](etheria-images/2021/03/Planes-flandes-Belfort-gante.jpg "Torre Belfort en Gante. © Artoria")
 
 ## 2\. Subir al campanario Belfort de Gante
 
@@ -54,7 +54,7 @@ fuerzas puedes subir en ascensor, pero recomendamos hacer algo de ejercicio para
 disfrutar de la preciosa escalera y de las maquetas que se encuentran distribuidas en 
 varias plantas. Es uno de los planes en Bruselas y Flandes que tienes que hacer sí o sí. 
 
-![Paseo en barca por Brujas, uno de los más divertidos en landes](etheria_images/2021/03/Planes-flandes-paseo-barca-brujas.jpg "Paseo en barca por Brujas.")
+![Paseo en barca por Brujas, uno de los más divertidos en landes](etheria-images/2021/03/Planes-flandes-paseo-barca-brujas.jpg "Paseo en barca por Brujas.")
 
 ## 3\. Dar un paseo en barca por Brujas
 
@@ -64,7 +64,7 @@ y sus puentes te darán una visión única de las bonitas fachadas de sus casas 
 permitirán disfrutar de toda la paz que transmiten. Hay cinco embarcaderos en la ciudad 
 y los paseos duran una media hora. Precio: 10 Euros. 
 
-![Fábrica de cerveza de Stella Artois.](etheria_images/2021/03/planes-flandes-cerveceria-stella-artois.jpg "Fábrica de cerveza de Stella Artois. © Milo Profi")
+![Fábrica de cerveza de Stella Artois.](etheria-images/2021/03/planes-flandes-cerveceria-stella-artois.jpg "Fábrica de cerveza de Stella Artois. © Milo Profi")
 
 ## 4\. Visitar la fábrica de cerveza de Stella Artois en Lovaina
 
@@ -75,7 +75,7 @@ La visita dura una hora y media y permite interactuar con los productos y distin
 procesos de elaboración y, cómo no, terminar degustando una deliciosa cerveza en la 
 azotea de la fábrica. 
 
-![Estación Central de Amberes.](etheria_images/2021/03/Planes-flandes-Estacion-central-amberes-interior.jpg "Estación Central de Amberes.")
+![Estación Central de Amberes.](etheria-images/2021/03/Planes-flandes-Estacion-central-amberes-interior.jpg "Estación Central de Amberes.")
 
 ## 5\. Recorrer la Estación Central de Amberes
 
@@ -85,7 +85,7 @@ de acero y cristal cuenta con un edificio central de piedra construido por Louis
 Delacenserie y está coronada por una gran cúpula. Este es uno de los planes en Bruselas 
 y Flandes que no pueden perderse los amantes de la arquitectura. 
 
-![Mercado De Vleeshalle en Malinas.](etheria_images/2021/03/Planes-flandes-De-Vleeshalle.jpg "Mercado © De Vleeshalle en Malinas.")
+![Mercado De Vleeshalle en Malinas.](etheria-images/2021/03/Planes-flandes-De-Vleeshalle.jpg "Mercado © De Vleeshalle en Malinas.")
 
 ## 6\. Tomar algo en De Vleeshalle en Malinas
 
@@ -96,7 +96,7 @@ naturales, donde puedes comprar para llevar o probar las especialidades allí mi
 la segunda planta hay algunas tiendas donde también te puedes parar a echar un vistazo. 
 Ten en cuenta que sólo puedes pagar con tarjeta o a través de una aplicación. 
 
-![Murales de Bruselas dedicados a los que han ayudado durante la pandemia: 'Entre Aide' y 'Thank You'.](etheria_images/2021/03/bruseas-street-art.jpg "Murales de Bruselas dedicados a los que han ayudado durante la pandemia: 'Entre Aide' y 'Thank You'. © Visit Brusssels/Eric Danhier")
+![Murales de Bruselas dedicados a los que han ayudado durante la pandemia: 'Entre Aide' y 'Thank You'.](etheria-images/2021/03/bruseas-street-art.jpg "Murales de Bruselas dedicados a los que han ayudado durante la pandemia: 'Entre Aide' y 'Thank You'. © Visit Brusssels/Eric Danhier")
 
 ## 7\. Buscar el Street Art en Bruselas
 
@@ -108,7 +108,7 @@ sobre los derechos LGBTQI, el feminismo, la discriminación o la defensa del med
 ambiente (con uno muy especial dedicado a Gretta Thumberg). En Visit Brussels podrás 
 descubrir algunos de los principales murales con sus direcciones y sus creadores. 
 
-!['El cordero místico' en Gante.](etheria_images/2021/03/planes-flandes-gante-cordero-mistico.jpg "'El cordero místico' en Gante. © www.lukasweb.be")
+!['El cordero místico' en Gante.](etheria-images/2021/03/planes-flandes-gante-cordero-mistico.jpg "'El cordero místico' en Gante. © www.lukasweb.be")
 
 ## 8 . Contemplar el Cordero Místico en Gante
 

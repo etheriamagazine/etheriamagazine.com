@@ -1,12 +1,12 @@
 ---
 title: "Planes con un toque mágico en la Costa Brava y el Pirineo de Girona"
 date: 2023-12-18
-coverImage: etheria_images/2023/12/Eugenia-Mas-Generos.jpg
+coverImage: etheria-images/2023/12/Eugenia-Mas-Generos.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
@@ -15,7 +15,7 @@ colmenas y hasta un castillo. Estos son los protagonistas de algunos de los plan
 Costa Brava y el Pirineo de Girona que os proponemos para sentir la magia de este 
 territorio y de sus gentes. 
 
-![Bonitas calles de Pals, un pueblo bonito de la Costa Brava](etheria_images/2023/12/costa-brava-Calles-villa-medieval-Pals.jpg "Bonitas calles de Pals. © Yolanda Cardo")
+![Bonitas calles de Pals, un pueblo bonito de la Costa Brava](etheria-images/2023/12/costa-brava-Calles-villa-medieval-Pals.jpg "Bonitas calles de Pals. © Yolanda Cardo")
 
 En el dinámico mundo del turismo, los proyectos de autor redefinen el modo en que los 
 viajeros interactúan con el destino encapsulando en originales propuestas la esencia 
@@ -46,7 +46,7 @@ con un idílico jardín interior; los distintos ambientes de la planta principal
 cinco habitaciones y la pequeña caseta con capacidad para seis personas, aquí todo está 
 pensado para disfrutar de las cosas sencillas. 
 
-![piscina de Mas el Mir en la Costa Brava](etheria_images/2023/12/costa-brava-Mas-el-Mir-piscina.jpg "Mas el Mir, el proyecto más personal de Eva Arbonés. © Yolanda Cardo.")
+![piscina de Mas el Mir en la Costa Brava](etheria-images/2023/12/costa-brava-Mas-el-Mir-piscina.jpg "Mas el Mir, el proyecto más personal de Eva Arbonés. © Yolanda Cardo.")
 
 Avalada por una sólida trayectoria en el ámbito de la restauración, ella es también la 
 ideóloga y chef de la propuesta culinaria. Su cocina es un elogio a la sencillez, con el 
@@ -62,7 +62,7 @@ o de una sabrosa e instructiva cata de quesos de la mano de Neus y Guillem, art�
 **Som Formatgers**, un original proyecto que pone en valor la labor de las queserías de 
 la zona y promueve el consumo de quesos catalanes de calidad. 
 
-![Eugenia de Mas Generos., en la Costa Brava](etheria_images/2023/12/Eugenia-Mas-Generos-850x567.jpg "Eugenia, propietaria de Mas Generós. © Yolanda Cardo")
+![Eugenia de Mas Generos., en la Costa Brava](etheria-images/2023/12/Eugenia-Mas-Generos-850x567.jpg "Eugenia, propietaria de Mas Generós. © Yolanda Cardo")
 
 ## Mas Generós, experiencias transformadoras y el paisaje en el plato
 
@@ -92,7 +92,7 @@ una carne, un postre o un pescado. Pequeños ecosistemas comestibles elaborados 
 ingredientes de km 0, “nunca compro nada que no sé de dónde viene”. Ya lo decía Josep 
 Pla, “la cocina es el paisaje llevado a la cazuela”. 
 
-![propuestas gastronómicas de Mas Generosas](etheria_images/2023/12/costa-brava-Mas-Generos.jpg "Iolanda Bustos es el alma de la propuesta gastronómica de Mas Generós. © Yolanda Cardo")
+![propuestas gastronómicas de Mas Generosas](etheria-images/2023/12/costa-brava-Mas-Generos.jpg "Iolanda Bustos es el alma de la propuesta gastronómica de Mas Generós. © Yolanda Cardo")
 
 ## La Vinyeta, mucho más que vinos
 
@@ -106,7 +106,7 @@ una locura, pero finalmente accedieron con una condición: que aceptarían si é
 ayudaba. Este reto que comenzó en 2002 es, a día de hoy, uno de los proyectos más 
 comprometidos, sostenibles y queridos de la zona. 
 
-![productos de la viñeta](etheria_images/2023/12/Costa-brava-La-Vinyeta.jpg "En La Vinyeta no sólo elaboran vinos, también producen quesos. © Yolanda Cardo.")
+![productos de la viñeta](etheria-images/2023/12/Costa-brava-La-Vinyeta.jpg "En La Vinyeta no sólo elaboran vinos, también producen quesos. © Yolanda Cardo.")
 
 En **La Vinyeta** (lavinyeta.es) han recuperado modelos tradicionales de gestión 
 agrícola y son pioneros en producción integrada. Por ejemplo, las ovejas pastan en los 
@@ -132,7 +132,7 @@ torres, esconde un sorprendente espacio que bien merece una visita, el museo del
 castillo. Emplazado en un antiguo convento carmelita del siglo XIV, el edificio acoge 
 las colecciones privadas de los Suqué Mateu, sus propietarios. 
 
-![Biblioteca del Castillo de Peralada](etheria_images/2023/12/costa-brava-Biblioteca-Castillo-Peralada.jpg "La Biblioteca del Castillo de Peralada contiene numerosas joyas bibliográficas. © Yolanda Cardo.")
+![Biblioteca del Castillo de Peralada](etheria-images/2023/12/costa-brava-Biblioteca-Castillo-Peralada.jpg "La Biblioteca del Castillo de Peralada contiene numerosas joyas bibliográficas. © Yolanda Cardo.")
 
 Los puntos de interés son numerosos, comenzando por el mismo claustro del convento, la 
 iglesia gótica con su artesonado o la antigua bodega donde siguen elaborando el cava 
@@ -161,7 +161,7 @@ brindan la oportunidad de sentirse “apicultores por un día” en el maravillo
 Natural de la Albera (un espacio protegido por su interés paisajístico, situado en la 
 parte más oriental de los Pirineos) donde tienen el apiario. 
 
-![platos del restaurante BO.TIC](etheria_images/2023/12/costa-brava-restaurante-BO-TIC.jpg "BO.TIC, el restaurante de Albert Sastregener con dos estrellas Michelin. © Yolanda Cardo")
+![platos del restaurante BO.TIC](etheria-images/2023/12/costa-brava-restaurante-BO-TIC.jpg "BO.TIC, el restaurante de Albert Sastregener con dos estrellas Michelin. © Yolanda Cardo")
 
 ## BO.TIC, un dos estrellas Michelin para chuparse los dedos
 

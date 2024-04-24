@@ -1,12 +1,12 @@
 ---
 title: "Formentera con amigas, planes imprescindibles para una escapada perfecta"
 date: 2023-04-24
-coverImage: etheria_images/2023/04/Formentera-Es-Calo-des-Mort.jpg
+coverImage: etheria-images/2023/04/Formentera-Es-Calo-des-Mort.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Formentera está asociada en nuestra mente a la imagen del verano eterno, ese que se 
@@ -14,7 +14,7 @@ disfruta en chanclas y pareo al borde del mar. Pero esta pequeña isla ofrece mu
 historia, naturaleza, turismo activo y buena gastronomía. No puede haber mejor destino 
 para una escapada con amigas de esas que recarga las pilas para todo el año. 
 
-![bahía de Formentera](etheria_images/2023/04/Formentera-playa-yate.jpg "El mar en Formentera tiene un color azul espectacular.")
+![bahía de Formentera](etheria-images/2023/04/Formentera-playa-yate.jpg "El mar en Formentera tiene un color azul espectacular.")
 
 Es nombrar a **Formentera** y en seguida nos viene a la mente la imagen del verano y del 
 disfrute más hedonista. Te puedes imaginar que como **plan de viaje con amigas** es 
@@ -38,7 +38,7 @@ puerta de entrada a la icónica **playa de Ses Illetes**, considerada una de las
 del mundo y objeto de infinidad de fotos en Instagram. Ocupa una estrecha franja de 
 arena llamada la península de Es Trucadors. 
 
-![playa de Caló d'es Mort.](etheria_images/2023/04/Formentera-Es-Calo-des-Mort.jpg "La pequeña playa de Caló d'es Mort.")
+![playa de Caló d'es Mort.](etheria-images/2023/04/Formentera-Es-Calo-des-Mort.jpg "La pequeña playa de Caló d'es Mort.")
 
 En la parte oeste de la isla se encuentra la bonita **Cala Saona**, en una zona de 
 acantilados bajos. Y al este destacan las playas de **Es Pujols**, **Sa Roqueta** y 
@@ -56,7 +56,7 @@ como si os gusta madrugar, un lugar estupendo para ver amanecer es el **faro de 
 Mola**, ubicado sobre unos acantilados en la costa este. Y para las puestas de sol, 
 podéis acudir a otro faro, al de **Cap de Barbaria**, en el extremo sur de la isla. 
 
-![Atardecer en el faro de Barbaria en Formentera](etheria_images/2023/04/formentera-FARO-DE-BARBARIA.jpg "Atardecer en el faro de Barbaria. © Amparo Arias.")
+![Atardecer en el faro de Barbaria en Formentera](etheria-images/2023/04/formentera-FARO-DE-BARBARIA.jpg "Atardecer en el faro de Barbaria. © Amparo Arias.")
 
 ## Recorrer sus pueblos
 
@@ -67,7 +67,7 @@ con una curiosa iglesia-fortaleza del siglo XVIII. En **Es Pujols** encontraréi
 amplia oferta de ocio en forma de hoteles, bares y restaurantes y **Sant Ferran** es uno 
 de los pueblos más bohemios de la isla. 
 
-![familia en el mirador de la Mola en Formentera](etheria_images/2023/04/formentera-Mirador-de-La-Mola.jpg "Mirador de La Mola, cerca del pueblo Pilar de la Mola.")
+![familia en el mirador de la Mola en Formentera](etheria-images/2023/04/formentera-Mirador-de-La-Mola.jpg "Mirador de La Mola, cerca del pueblo Pilar de la Mola.")
 
 Tampoco os podéis perder **El Pilar de la Mola**, con el mercado de artesanía más famoso 
 de la isla, y **Es Caló de Sant Agustí**, perfecto para retratar su fotogénico puerto de 
@@ -83,7 +83,7 @@ importancia de la zona. Además, la zona de **Sa Pedrera**, una antigua cantera,
 curiosas formas rocosas que seguro que se llevan alguna fotografía. Un plan perfecto si 
 viajas a Formentera con amigas. 
 
-![Parque Natural de Ses Salines en Formentera](etheria_images/2023/04/formentera-Ses-Salines.jpg "Parque Natural de Ses Salines.")
+![Parque Natural de Ses Salines en Formentera](etheria-images/2023/04/formentera-Ses-Salines.jpg "Parque Natural de Ses Salines.")
 
 ## Hacer snorkel en su costa
 
@@ -97,7 +97,7 @@ _snorkel_ y gozar desde muchas de sus playas y calas de una variada vida submari
 Algunos de los lugares en los que adentraros con gafas y tubo son la playa de Es 
 Carnatge, Ses Platgetes (en el pueblo de Es Caló), Caló d'es Mort o Cala en Baster. 
 
-![peces en Formentera](etheria_images/2023/04/Formentera-fondo-marino.jpg "Formentera tiene un fondo marino increíble para el snorkel y el buceo.")
+![peces en Formentera](etheria-images/2023/04/Formentera-fondo-marino.jpg "Formentera tiene un fondo marino increíble para el snorkel y el buceo.")
 
 ## Turismo activo: senderismo y bicicleta
 
@@ -111,7 +111,7 @@ tradicional de la isla. Otra buena alternativa es hacer un itinerario para la
 observación de aves por el **Camí des Brolls**, desde el que se pueden ver más de 
 doscientas especies de aves acuáticas y migratorias. 
 
-![Senderismo en Formentera](etheria_images/2023/04/Formentera-senderismo.jpg "Formentera está llena de rutas de senderismo preciosas.")
+![Senderismo en Formentera](etheria-images/2023/04/Formentera-senderismo.jpg "Formentera está llena de rutas de senderismo preciosas.")
 
 ## Conocer la historia
 
@@ -122,7 +122,7 @@ Costa**, un sepulcro megalítico de la Edad del Bronce ubicado junto al Estany P
 **Cap de Barbaria I, II y III**, unos importantes yacimientos arqueológicos; y **Can 
 Blai**, los restos de una fortificación romana cerca de Es Caló. 
 
-![Torre de Sa Gavina en Formentera](etheria_images/2023/04/Formentera-Torre-de-La-Gavina.jpg "Torre de Sa Gavina.")
+![Torre de Sa Gavina en Formentera](etheria-images/2023/04/Formentera-Torre-de-La-Gavina.jpg "Torre de Sa Gavina.")
 
 Además, merece la pena destacar sus **cinco torres defensivas del siglo XVIII**, creadas 
 para vigilar el mar y detectar los ataques piratas. Hay cuatro en la isla (Torre de La 
@@ -142,7 +142,7 @@ sus platos típicos son la ensalada payesa con _peix sec_, el _sofrit pagès_ co
 patatas o los calamares fritos en su tinta. De postre, una _Greixonera_ (pudin de 
 ensaimada) o el _Flaó_ (tarta de queso fresco con hierbabuena) son una apuesta segura. 
 
-![Plato de marisco con patatas y huevo y ensalada payesa](etheria_images/2023/04/Formentera-gastronomia.jpg "Plato de marisco con patatas y huevo y ensalada payesa © Alfredo Montero.")
+![Plato de marisco con patatas y huevo y ensalada payesa](etheria-images/2023/04/Formentera-gastronomia.jpg "Plato de marisco con patatas y huevo y ensalada payesa © Alfredo Montero.")
 
 Y, como recomendación, una excelente forma de disfrutar de una jornada en la playa, 
 sobre todo si se busca una tranquila como la preciosa Cala d'es Mort, es preparar un 

@@ -1,20 +1,20 @@
 ---
 title: "Budapest con amigas, imprescindibles para un fin de semana"
 date: 2019-10-25
-coverImage: etheria_images/2019/10/palacio-real-budapest.jpg
+coverImage: etheria-images/2019/10/palacio-real-budapest.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - de-un-vistazo
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Hacer una escapada a Budapest con amigas es una gran idea por muchas razones. Para empezar, por sus visitas culturales, su animado ambiente y el gran número de actividades que se pueden hacer en grupo: baños termales, bares alternativos, mercados, el Parlamento, crucero por el Danubio...
 
-![Atardecer en el Parlamento de Budapest.](etheria_images/2019/10/viaje-budapest-sola-amigas-congreso-900x506.jpg "Parlamento de Budapest. © Seth Fogelman")
+![Atardecer en el Parlamento de Budapest.](etheria-images/2019/10/viaje-budapest-sola-amigas-congreso-900x506.jpg "Parlamento de Budapest. © Seth Fogelman")
 
 Las propuestas urbanas en Europa son tan amplias que resulta difícil elegir solo una, 
 pero un fin de semana en Budapest con amigas está entre las mejores. Cuando tengas que 
@@ -45,7 +45,7 @@ reserva](https://www.civitatis.com/es/budapest/tour-castillo-buda/?aid=10211).
 ?Free tour por Budapest. La mejor introducción para luego moverse por libre. [Haz tu 
 reserva](https://www.civitatis.com/es/budapest/free-tour-budapest/?aid=10211). 
 
-![Palacio Real de Budapest, con el puente de las Cadenas en primer plano.](etheria_images/2019/10/palacio-real-budapest-900x600.jpg "Palacio Real de Budapest, con el puente de las Cadenas en primer plano. © Florin Corbu")
+![Palacio Real de Budapest, con el puente de las Cadenas en primer plano.](etheria-images/2019/10/palacio-real-budapest-900x600.jpg "Palacio Real de Budapest, con el puente de las Cadenas en primer plano. © Florin Corbu")
 
 Es conveniente iniciar las visitas en la parte alta y, a partir de ahí, ir bajando. 
 Tened en cuenta que hay varios elevadores, por si a alguna le da pereza los desniveles. 
@@ -67,7 +67,7 @@ cobijado a realeza con todo tipo de estandartes, pero lo que más nos interesa e
 ahora alberga varios museos, la Biblioteca Nacional y que ofrece unas vistas 
 maravillosas de Pest. 
 
-![Iglesia de Matías, en Buda.](etheria_images/2019/10/viaje-budapest-mujeres-iglesia-matias-740x1024.jpg "Iglesia de Matías, en Buda. © Anna Oliinyk")
+![Iglesia de Matías, en Buda.](etheria-images/2019/10/viaje-budapest-mujeres-iglesia-matias-740x1024.jpg "Iglesia de Matías, en Buda. © Anna Oliinyk")
 
 ### 2\. Iglesia de Matías
 
@@ -78,7 +78,7 @@ los dos últimos monarcas húngaros. La torre campanario de Matías te servirá 
 orientarte por Buda cuando te despistes (se puede subir por unas escaleras de caracol). 
 Exteriormente es muy llamativa, con sus revestimientos cerámicos y vitrales. 
 
-![Gran Mercado de Budapest.](etheria_images/2019/10/viaje-budapest-mercado-central-900x636.jpg "Gran Mercado de Budapest. © Pepa G.")
+![Gran Mercado de Budapest.](etheria-images/2019/10/viaje-budapest-mercado-central-900x636.jpg "Gran Mercado de Budapest. © Pepa G.")
 
 ### 3\. Curso de cocina en Nagycsarnok, el gran mercado de Buda
 
@@ -90,7 +90,7 @@ vino Tokaj, el salchichón de Szeged y la paprika, son los clásicos), también 
 recomendamos que comas en alguna de sus tabernas de la planta primera y que hagas un 
 curso de cocina exprés. Se hacen allí mismo, en el bar donde luego comerás. 
 
-![Catedral de San Esteban.](etheria_images/2019/10/viaje-budapest-catedral-san-esteban-681x1024.jpg "Catedral de San Esteban. © Yael Edery.")
+![Catedral de San Esteban.](etheria-images/2019/10/viaje-budapest-catedral-san-esteban-681x1024.jpg "Catedral de San Esteban. © Yael Edery.")
 
 ### 4\. Basílica de San Esteban
 
@@ -101,7 +101,7 @@ para 'venerar' la mano derecha del rey San Esteban. Desde su mirador, el más al
 Pest (se pueden subir 364 peldaños o en ascensor), se contempla una amplia panorámica de 
 360 grados. 
 
-![Crucero por el Danubio frente al Parlamento de Budapest.](etheria_images/2019/10/viaje-budapest-crucero-parlamento-900x598.jpg "Crucero por el Danubio. ©PB")
+![Crucero por el Danubio frente al Parlamento de Budapest.](etheria-images/2019/10/viaje-budapest-crucero-parlamento-900x598.jpg "Crucero por el Danubio. ©PB")
 
 ### 5\. Crucero por el Danubio
 
@@ -119,7 +119,7 @@ reserva](https://www.civitatis.com/es/budapest/paseo-barco-noche-budapest/?aid=1
 ?Crucero con cena y música en vivo. [Haz tu 
 reserva](https://www.civitatis.com/es/budapest/paseo-barco-cena-musica/?aid=10211). 
 
-![Suntuoso interior del Parlamento.](etheria_images/2019/10/viaje-budapest-Parlamento-900x659.jpg "Suntuoso interior del Parlamento. © Pepa G.")
+![Suntuoso interior del Parlamento.](etheria-images/2019/10/viaje-budapest-Parlamento-900x659.jpg "Suntuoso interior del Parlamento. © Pepa G.")
 
 ### 6\. Parlamento
 
@@ -137,7 +137,7 @@ abovedada donde se encuentra la corona de San Esteban.
 
 ?Visita guiada por Budapest + Parlamento. [Reservas](https://www.civitatis.com/es/budapest/paseo-barco-cena-musica/?aid=10211). 
 
-![Csendes, un bar de ruina de Budapest.](etheria_images/2019/10/viaje-budapest-var-ruina-Csendes-900x600.jpg "Csendes, un bar de ruina de Budapest. © Pepa G.")
+![Csendes, un bar de ruina de Budapest.](etheria-images/2019/10/viaje-budapest-var-ruina-Csendes-900x600.jpg "Csendes, un bar de ruina de Budapest. © Pepa G.")
 
 ### 7\. El jardín Szimpla y otros bares de ruina
 
@@ -157,7 +157,7 @@ Abre a las 9 de la noche y cierra a las 6 de la mañana.
 ?Tour guiado por los ruins bar de Budapest. [Haz tu 
 reserva](https://www.civitatis.com/es/budapest/tour-fiesta-ruin-pubs/?aid=10211). 
 
-![Cúpula de entrada de los Baños Gellért.](etheria_images/2019/10/Boveda-Banos-Gellert-900x600.jpg "Cúpula de entrada de los Baños Gellért. © Pepa G.")
+![Cúpula de entrada de los Baños Gellért.](etheria-images/2019/10/Boveda-Banos-Gellert-900x600.jpg "Cúpula de entrada de los Baños Gellért. © Pepa G.")
 
 ### 8\. Baños termales en Budapest
 
@@ -191,7 +191,7 @@ mañana a 10 de la noche.
 ?Reserva tu entrada al balneario. [Haz tu 
 reserva](https://www.civitatis.com/es/budapest/entrada-balneario-szechenyi/?aid=10211). 
 
-![Balneario Széchenyi.](etheria_images/2019/10/Banos-termales-budapest-900x600.jpg "Balneario Széchenyi. © Pepa G.")
+![Balneario Széchenyi.](etheria-images/2019/10/Banos-termales-budapest-900x600.jpg "Balneario Széchenyi. © Pepa G.")
 
 #### Rudas
 
@@ -213,7 +213,7 @@ monumentales, se iba a hablar de política, revolución, literatura y temas soci
 Algunos que no debes perderte por su increíble belleza son el **Central Café** (Károlyi 
 Mihály, 9), **New York Café** y la cafetería pastelería **Gerbeaud** (Vörösmarty tér). 
 
-![Café histórico de Budapest.](etheria_images/2019/10/viaje-budapest-cafe-historico-900x675.jpg "Café histórico de Budapest. © Pepa G.")
+![Café histórico de Budapest.](etheria-images/2019/10/viaje-budapest-cafe-historico-900x675.jpg "Café histórico de Budapest. © Pepa G.")
 
 ### 10\. Librerías y antigüedades
 
@@ -225,7 +225,7 @@ magníficos. En Pest, te recomendamos que vayas al **distrito V** y camines por 
 buscas librerías, dirígente a **Muzeum korút** (Anticuario Central, Muzeum Antikvarium y 
 Antiquarium Hungaricum). 
 
-![Bonito detalle de una calle de Budapest.](etheria_images/2019/10/viaje-budapest-calle-tiendas-900x600.jpg "Bonito detalle de una calle de Budapest. © P.B.")
+![Bonito detalle de una calle de Budapest.](etheria-images/2019/10/viaje-budapest-calle-tiendas-900x600.jpg "Bonito detalle de una calle de Budapest. © P.B.")
 
 ### Guía Budapest | Etheria Magazine
 
@@ -234,7 +234,7 @@ Antiquarium Hungaricum).
 **Budapest Card**. Transporte público gratuito, entrada libre a numerosos museos, 
 monumentos y algunos balnearios. 
 
-![hostel a and o budapest](etheria_images/2021/12/albergue-ao-budapest.jpg "Hostel a&o Budapest: distintos espacios y habitación familiar.")
+![hostel a and o budapest](etheria-images/2021/12/albergue-ao-budapest.jpg "Hostel a&o Budapest: distintos espacios y habitación familiar.")
 
 ##### Dónde dormir en Budapest
 

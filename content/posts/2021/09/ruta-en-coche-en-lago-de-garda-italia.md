@@ -1,12 +1,12 @@
 ---
 title: "Ruta en coche alrededor del lago de Garda, el mayor de Italia"
 date: 2021-09-22
-coverImage: etheria_images/2021/09/viaje-riva-del-garda.jpg
+coverImage: etheria-images/2021/09/viaje-riva-del-garda.jpg
 categories: 
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
-  - Alfredo
+authors: 
+  - Alfredo G. Reyes
 ---
 
 Con casi 370 kilómetros cuadrados de superficie, el lago de Garda es el mayor de los 
@@ -15,7 +15,7 @@ localidades de urbanismo impecable, todas conectadas por una serpenteante carret
 litoral, es una magnífica opción para hacer una ruta en coche de tres días en cualquier 
 época del año. 
 
-![Aperitivo en el centro histórico de Riva del Garda.](etheria_images/2021/09/viaje-riva-del-garda.jpg "Aperitivo en el centro histórico de Riva del Garda. © Carlo Baroni/ Alto Garda")
+![Aperitivo en el centro histórico de Riva del Garda.](etheria-images/2021/09/viaje-riva-del-garda.jpg "Aperitivo en el centro histórico de Riva del Garda. © Carlo Baroni/ Alto Garda")
 
 Muchos dicen del lago de Garda y su zona de influencia que es el Mediterráneo de los 
 Alpes. De hecho, el microclima que lo caracteriza permite la producción de frutales, 
@@ -30,7 +30,7 @@ Así que, casi como el mar que es, todo el perímetro está salpicado de playas 
 que hacen las delicias de viajeros de toda Europa (sobre todo alemanes y suizos), que 
 suelen copar la mayor parte de los alojamientos del lago durante el verano. 
 
-![Carretera en zona sur del lago de Garda.](etheria_images/2021/09/ruta-coche-Lago-de-Garda.jpg "Carretera en zona sur del lago de Garda. © Alfredo G. Reyes")
+![Carretera en zona sur del lago de Garda.](etheria-images/2021/09/ruta-coche-Lago-de-Garda.jpg "Carretera en zona sur del lago de Garda. © Alfredo G. Reyes")
 
 El punto de partida lógico para esta ruta en coche de unos tres días es cualquiera de 
 las localidades meridionales del lago. Hasta ahí llegan las carreteras más cómodas 
@@ -41,7 +41,7 @@ Riva del Garda, ya en la provincia alpina del Trentino.
 Nuestra propuesta es que ese punto de partida y referencia sea, sin duda, el pueblo más 
 escenográfico y seductor del lago de Garda: Sirmione. 
 
-![Jamaica Beach, en Sirmione.](etheria_images/2021/09/Jamaica-Beach-Sirmione.jpg "Jamaica Beach, en Sirmione. © A.G.R.")
+![Jamaica Beach, en Sirmione.](etheria-images/2021/09/Jamaica-Beach-Sirmione.jpg "Jamaica Beach, en Sirmione. © A.G.R.")
 
 ## Sirmione, punto de partida en la ruta del lago de Garda
 
@@ -61,7 +61,7 @@ la gran diva del bel canto, que disfrutó aquí de varias temporadas de descanso
 años 50 del siglo XX, mientras mantuvo su relación con el empresario Giovani Battista 
 Meneghini. 
 
-![Jardín con el lago de Garda de fondo en Sirmione.](etheria_images/2021/09/Jardin-y-lago-Sirmione.jpg "Jardín con el lago de Garda de fondo en Sirmione. © A.G.R.")
+![Jardín con el lago de Garda de fondo en Sirmione.](etheria-images/2021/09/Jardin-y-lago-Sirmione.jpg "Jardín con el lago de Garda de fondo en Sirmione. © A.G.R.")
 
 Por lo demás, Sirmione es una bonita villa medieval encerrada en los muros de una 
 fortaleza que mantiene sus escenográficos torreones, almenas y portones de acceso. Un 
@@ -69,7 +69,7 @@ entorno ideal para pasear, para reponer fuerzas en sus muchos restaurantes o,
 simplemente, tomarse un helado junto al puerto y dejar pasar el tiempo observando el 
 trasiego de barcos de pasajeros. 
 
-![Fortaleza de Sirmione.](etheria_images/2021/09/Fortaleza-Sirmione.jpg "Fortaleza de Sirmione. © A.G.R.")
+![Fortaleza de Sirmione.](etheria-images/2021/09/Fortaleza-Sirmione.jpg "Fortaleza de Sirmione. © A.G.R.")
 
 ### Dónde comer
 
@@ -88,7 +88,7 @@ desayuno desde 280 euros.
 al lago, pues se encuentra, prácticamente, sobre su superficie. Habitación doble con 
 desayuno desde 96 euros. 
 
-![Panorámica de Desenzano, en el lago de Garda.](etheria_images/2021/09/Desenzano-del-Garda.jpg "Panorámica de Desenzano, en el lago de Garda. © A.G.R.")
+![Panorámica de Desenzano, en el lago de Garda.](etheria-images/2021/09/Desenzano-del-Garda.jpg "Panorámica de Desenzano, en el lago de Garda. © A.G.R.")
 
 ## Desenzano, la más poblada del lago de Garda
 
@@ -106,7 +106,7 @@ Como curiosidad para amantes de la gastronomía y del queso, en particular, Dese
 la sede de la **denominación de origen del grana padano**. Y en el entorno del lago 
 también se producen variedades de parmesano, gorgonzola y mascarpone. 
 
-![Desenzano del Garda.](etheria_images/2021/09/Desenzano-del-lago-Garda.jpg "Desenzano del Garda. © A.G.R.")
+![Desenzano del Garda.](etheria-images/2021/09/Desenzano-del-lago-Garda.jpg "Desenzano del Garda. © A.G.R.")
 
 ### Dónde comer (o cenar)
 
@@ -115,7 +115,7 @@ y, efectivamente, con un tamaño justo); este es un buen local donde degustar pa
 diversas, ensaladas y productos regionales (como las distintas variedades de salumi 
 italianos) interpretados en una versión muy actual. 
 
-![Tagliatelle funghi, en el restaurante Santa (Desenzano)](etheria_images/2021/09/Tagliatelle-funghi-Desenzano.jpg "Tagliatelle funghi, en el restaurante Santa (Desenzano). © A.G.R.")
+![Tagliatelle funghi, en el restaurante Santa (Desenzano)](etheria-images/2021/09/Tagliatelle-funghi-Desenzano.jpg "Tagliatelle funghi, en el restaurante Santa (Desenzano). © A.G.R.")
 
 ## Saló y Gardone
 
@@ -135,7 +135,7 @@ restaurantes y callejones cuajados de flores en los que perderse en un agradable
 También merece una visita el **Jardín Botánico Fundación André Heller**, una ensoñación 
 oriental en la que se pueden pasar horas y horas de auténtica placidez. 
 
-![Panorámica desde Gardone con el lago de Garda al fondo.](etheria_images/2021/09/Gardone-lago-garda.jpg "Panorámica desde Gardone con el lago de Garda al fondo. © A.G.R.")
+![Panorámica desde Gardone con el lago de Garda al fondo.](etheria-images/2021/09/Gardone-lago-garda.jpg "Panorámica desde Gardone con el lago de Garda al fondo. © A.G.R.")
 
 ## Limone sul Garda
 
@@ -156,7 +156,7 @@ elaborado con ese mismo cítrico), terrazas y restaurantes con vistas al lago.
 embutidos locales). Pero por lo que recomendamos este local es por sus magníficas 
 vistas, por sus _spritzs_ y por su tarta de limón. 
 
-![Limone sul Garda.](etheria_images/2021/09/Limone-sul-garda.jpg "Limone sul Garda. © A.G.R.")
+![Limone sul Garda.](etheria-images/2021/09/Limone-sul-garda.jpg "Limone sul Garda. © A.G.R.")
 
 ## Peschiera del Garda
 
@@ -172,7 +172,7 @@ ribereñas, aquí todo está milimétricamente colocado como para un set de roda
 cualquier adoquín de sus calles hasta las composiciones florales que decoran parterres y 
 jardineras exteriores. 
 
-![Llegada del ferry a Assenza.](etheria_images/2021/09/ferry-a-Assenza.jpg "Llegada del ferry a Assenza. © A.G.R.")
+![Llegada del ferry a Assenza.](etheria-images/2021/09/ferry-a-Assenza.jpg "Llegada del ferry a Assenza. © A.G.R.")
 
 ## Bardolino
 
@@ -196,7 +196,7 @@ platos de pasta (hecha en la propia casa) son una delicia y resulta muy difícil
 entre tantas variedades y salsas. Por supuesto, la selección de vinos locales es 
 fantástica. 
 
-![Fortificación en Torri del Benaco.](etheria_images/2021/09/Torri-del-Benaco.jpg "Fortificación en Torri del Benaco. © A.G.R.")
+![Fortificación en Torri del Benaco.](etheria-images/2021/09/Torri-del-Benaco.jpg "Fortificación en Torri del Benaco. © A.G.R.")
 
 ## Torri del Benaco
 
@@ -220,7 +220,7 @@ final disfrutar de las que, sin duda, son las mejores panorámicas del lago y la
 montañas que lo rodean. Además, la estación de llegada la utilizan muchos como 
 plataforma para explorar la diversa naturaleza de este monte y llegar hasta su cima. 
 
-![Veleros en Riva del Garda.](etheria_images/2021/09/riva-del-garda.jpg "Veleros en Riva del Garda. © Fabio Staropoli")
+![Veleros en Riva del Garda.](etheria-images/2021/09/riva-del-garda.jpg "Veleros en Riva del Garda. © Fabio Staropoli")
 
 ## Riva del Garda y Torbole
 
@@ -238,7 +238,7 @@ relacionados con la vela. Pero también es un señorial casco histórico al que 
 antiguos palacios señoriales y callejuelas flanqueadas por las inefables casas de 
 colores. 
 
-![Riva del Garda](etheria_images/2021/09/riva-del-garda-barco.jpg "Riva del Garda. © Ronny Kiaulehn")
+![Riva del Garda](etheria-images/2021/09/riva-del-garda-barco.jpg "Riva del Garda. © Ronny Kiaulehn")
 
 En sus restaurantes se puede aprovechar para degustar la gastronomía trentina y alpina, 
 que difiere en parte de la zona más meridional del lago. Por ejemplo, se puede probar la 
@@ -253,7 +253,7 @@ con un _strudel_ (tarta de manzana) de libro.
 carne bien hecha al fuego de leña. Un lugar cálido y confortable, adonde conviene venir 
 sin prisas y con (muchas) ganas de disfrutar de la comida. 
 
-![Aperitivo jardines Hotel Villa Cortine](etheria_images/2021/09/Aperitivo-jardines-Hotel-Villa-Cortine.jpg "Aperitivo en los jardines del © hotel Villa Cortine.")
+![Aperitivo jardines Hotel Villa Cortine](etheria-images/2021/09/Aperitivo-jardines-Hotel-Villa-Cortine.jpg "Aperitivo en los jardines del © hotel Villa Cortine.")
 
 ## Más información
 

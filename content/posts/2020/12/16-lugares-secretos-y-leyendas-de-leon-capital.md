@@ -1,11 +1,11 @@
 ---
 title: "16 secretos que desconoces de la milenaria ciudad de León"
 date: 2020-12-16
-coverImage: etheria_images/2020/12/Leon-catedral-interior.jpg
+coverImage: etheria-images/2020/12/Leon-catedral-interior.jpg
 categories: 
   - de-un-vistazo
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Todas las ciudades del mundo tienen su particular catálogo de secretos, mitos y 
@@ -14,7 +14,7 @@ infinidad de historias asociadas a sus rincones, personajes y monumentos. ¿Las 
 conocer? Te contamos algunos relatos poco conocidos –casi secretos– que hacen única a 
 esta ciudad milenaria. 
 
-![secretos catedral de leon](etheria_images/2020/12/Leon-catedral-interior.jpg "Interior de la Catedral de León. © Ayto. León")
+![secretos catedral de leon](etheria-images/2020/12/Leon-catedral-interior.jpg "Interior de la Catedral de León. © Ayto. León")
 
 ## 1\. Los cuatro espectros de la Catedral de León
 
@@ -29,9 +29,9 @@ pende de la catedral es el caparazón de una tortuga llegada de un lugar remoto.
 
 • [Visita guiada por la 
 Catedral](https://www.civitatis.com/es/leon/visita-guiada-catedral-leon/?aid=10211) (6 
-€) 
+€). 
 
-![leon en plaza de san marcelo](etheria_images/2020/12/leon-escultura-san-marcelo.jpg "Este león sale de una alcantarilla en la Plaza de San Marcelo. © Ayto. León")
+![leon en plaza de san marcelo](etheria-images/2020/12/leon-escultura-san-marcelo.jpg "Este león sale de una alcantarilla en la Plaza de San Marcelo. © Ayto. León")
 
 ## 2\. El león que abandona la alcantarilla
 
@@ -48,7 +48,7 @@ futura.
 León](https://www.civitatis.com/es/leon/free-tour-leon/?aid=10211) para entrar en 
 situación. 
 
-![san jorge y el dragon, casa botines de leon](etheria_images/2020/12/leon-casa-botines-dragon.jpg "San Jorge y el dragón en © Casa Botines.")
+![san jorge y el dragon, casa botines de leon](etheria-images/2020/12/leon-casa-botines-dragon.jpg "San Jorge y el dragón en © Casa Botines.")
 
 ## 3\. El secreto del dragón de Gaudí en la Casa Botines
 
@@ -67,7 +67,7 @@ desde la calle son prácticamente imperceptibles.
 • [Tour de los misterios y leyendas de 
 León](https://www.civitatis.com/es/leon/tour-misterios-leyendas-leon/?aid=10211) (10 €). 
 
-![leyendas casa botines](etheria_images/2020/12/leon-casa-botines-fachada.jpg "Fachada y torres de la Casa Botines. © Ayto. de León")
+![leyendas casa botines](etheria-images/2020/12/leon-casa-botines-fachada.jpg "Fachada y torres de la Casa Botines. © Ayto. de León")
 
 ## 4\. Arte del siglo XXI con guiños a la Catedral
 
@@ -78,7 +78,7 @@ vanguardista edificio, tiene esta peculiaridad. Lo cual no ha sido obstáculo pa
 recibir el importante galardón Mies van der Rohe. Es todo un ejemplo de innovación 
 arquitectónica del siglo XXI. 
 
-![musac, museo arte moderno de de leon](etheria_images/2020/12/leon-museo-musac.jpg "© Museo de Arte Contemporáneo de Castilla y León (MUSAC).")
+![musac, museo arte moderno de de leon](etheria-images/2020/12/leon-museo-musac.jpg "© Museo de Arte Contemporáneo de Castilla y León (MUSAC).")
 
 ## 5\. Plaza del Grano, homenaje al borracho más famoso de León
 
@@ -90,7 +90,7 @@ transitan también los peregrinos de camino a Santiago de Compostela y en la pla
 venera cada Semana Santa, con una procesión, al borracho más famoso de la ciudad: **San 
 Genarín**, que fue atropellado junto a las murallas romanas en 1929. 
 
-![plaza del grano, viaje a leon](etheria_images/2018/09/leon-Plaza-del-Grano-peregrinos.jpg "Plaza del Grano (León). © Ayto. León")
+![plaza del grano, viaje a leon](etheria-images/2018/09/leon-Plaza-del-Grano-peregrinos.jpg "Plaza del Grano (León). © Ayto. León")
 
 ## 6\. Palacio del Conde Luna
 
@@ -101,7 +101,7 @@ albergó una funeraria. El edificio ha tenido varios accidentes, incluidos una e
 de “butano” en 1976 y el desplome del torreón renacentista en 1979. Todo esto alimenta, 
 sin duda, la ”leyenda negra” de esta construcción palaciega. 
 
-![palacio del conde luna en leon](etheria_images/2020/12/leon-palacio-condes-luna.jpg "Entrada del Palacio del Conde Luna. © Ayto. León")
+![palacio del conde luna en leon](etheria-images/2020/12/leon-palacio-condes-luna.jpg "Entrada del Palacio del Conde Luna. © Ayto. León")
 
 ## 7\. La celda de Quevedo en el Convento de San Marcos
 
@@ -113,7 +113,7 @@ hoy la estancia del célebre “preso”. ¿El motivo de su encierro? No está m
 al parecer fue **un escarmiento al carácter mujeriego** y pendenciero del escritor, que 
 para entonces había perdido el favor real. 
 
-![parador de san marcos, viaje leon](etheria_images/2020/12/leon-parador-san-marcos.jpg "Parador de San Marcos, en León. © Paradores")
+![parador de san marcos, viaje leon](etheria-images/2020/12/leon-parador-san-marcos.jpg "Parador de San Marcos, en León. © Paradores")
 
 ## 8\. El Castillo de León
 
@@ -123,7 +123,7 @@ deambula el **fantasma de un conde** que habitó en el castillo y que se ocupaba
 defensa de las murallas de León. Dicen que todavía se escuchan los murmullos que salen 
 del alma en pena de este aristócrata. 
 
-![tapeo en leon, taberna benito](etheria_images/2020/12/Leon-vino-cecina-683x1024.jpg "El buen tapeo en León no es ningún secreto. © Ayto. de León")
+![tapeo en leon, taberna benito](etheria-images/2020/12/Leon-vino-cecina-683x1024.jpg "El buen tapeo en León no es ningún secreto. © Ayto. de León")
 
 ## 9\. Barrio Romántico de León
 
@@ -144,7 +144,7 @@ tal expectación que hasta un canónigo de la catedral puso a prueba la autentic
 hecho y pudo comprobar que, efectivamente, el fantasma dormía en una cama que aparecía, 
 a la mañana siguiente, con signos claros de haber pasado allí la noche. 
 
-![palacio de gaviria, museo liceo egipcio](etheria_images/2020/12/leon-palacio-gaviria.jpg "Fachada del © Museo de Palacio de Gaviria y Museo Liceo Egipcio.")
+![palacio de gaviria, museo liceo egipcio](etheria-images/2020/12/leon-palacio-gaviria.jpg "Fachada del © Museo de Palacio de Gaviria y Museo Liceo Egipcio.")
 
 ## 11\. Taberna Casa Benito
 
@@ -155,7 +155,7 @@ Aparicio, Julio Llamazares o Francisco Umbral, que lo denominó en una columna �
 Ateneo del mus**”. Pero no son los únicos. También Stanley Kubrick, Joaquín Sabina, los 
 Scorpions y todo el “star sistem” se han rendido a sus muchos encantos y leyendas. 
 
-![calle ancha leon, tapeo barrio humedo](etheria_images/2020/12/leon-calle-ancha.jpg "Calle Ancha, entre los Barrios Húmedo y Romántico. © Ayto. de León")
+![calle ancha leon, tapeo barrio humedo](etheria-images/2020/12/leon-calle-ancha.jpg "Calle Ancha, entre los Barrios Húmedo y Romántico. © Ayto. de León")
 
 ## 12\. Casa de Zuloaga
 
@@ -165,7 +165,7 @@ extraños. Dicen que es el fantasma de Fernando Merino, un personaje célebre de
 ciudad, que se suicidó en 1929. También se cuenta que en esta casa su propietario, un 
 rico segoviano, murió asesinado junto a su sirvienta en 1892. 
 
-![farmacia merino leon](etheria_images/2020/12/farmacia-merino-1.jpg "Si la fachada de la Farmacia Merino es bonita, espera a ver el interior. © TripAdvisor")
+![farmacia merino leon](etheria-images/2020/12/farmacia-merino-1.jpg "Si la fachada de la Farmacia Merino es bonita, espera a ver el interior. © TripAdvisor")
 
 ## 13\. Farmacia Merino
 
@@ -186,7 +186,7 @@ de invierno se pasea por aquí un hombre con capa y espada y se escuchan voces d
 Puedes ver la imagen en este artículo del [Diario de 
 León.](https://www.diariodeleon.es/articulo/destinos/la-calle-de-la-emboscada/201601150400001567692.html) 
 
-![plaza mayor de leon](etheria_images/2020/12/Leon-plaza-mayor.jpg "Plaza Mayor de León. ©FirkinCat / CC BY-SA 3.0 es")
+![plaza mayor de leon](etheria-images/2020/12/Leon-plaza-mayor.jpg "Plaza Mayor de León. ©FirkinCat / CC BY-SA 3.0 es")
 
 ## 15\. Las escalerillas de la Plaza Mayor
 
@@ -197,7 +197,7 @@ permitir la salida de los soldados leoneses cercados por las tropas invasoras en
 En plena huida, uno de los coraceros franceses cayó por las escaleras con su caballo y 
 ambos murieron, un hecho que facilitó también que los leoneses pudieran escapar. 
 
-![guzman el bueno, leon](etheria_images/2020/12/leon-escultura-guzman-el-bueno.jpg "Escultura de Guzmán el Bueno, en León. © Nacho Traseira")
+![guzman el bueno, leon](etheria-images/2020/12/leon-escultura-guzman-el-bueno.jpg "Escultura de Guzmán el Bueno, en León. © Nacho Traseira")
 
 ## 16\. Tributo a Guzmán el Bueno
 

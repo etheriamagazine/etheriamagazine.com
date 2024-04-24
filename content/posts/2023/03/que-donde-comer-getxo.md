@@ -1,11 +1,11 @@
 ---
 title: "Getxo a bocados, una cita exquisita con el paladar"
 date: 2023-03-30
-coverImage: etheria_images/2023/03/Restaurante-Tamarises-Izarra.jpg
+coverImage: etheria-images/2023/03/Restaurante-Tamarises-Izarra.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -15,7 +15,7 @@ dónde comer en Getxo sino a empaparte de la esencia de sus tiendas, mercados, b
 populares y personas más queridas ligadas a la gastronomía y al vino. Este año te 
 mereces unas vacaciones exquisitas en Getxo... y lo sabes. 
 
-![Un bonito rincón del Puerto Viejo de Getxo.](etheria_images/2023/03/getxo-puerto-viejo-850x478.jpg "Un bonito rincón del Puerto Viejo de Getxo.")
+![Un bonito rincón del Puerto Viejo de Getxo.](etheria-images/2023/03/getxo-puerto-viejo-850x478.jpg "Un bonito rincón del Puerto Viejo de Getxo.")
 
 Quien se ha asomado a la ría del Nervión sabe dónde reside la buena vida. Basta con 
 recalar en la orilla derecha del estuario del río, frente al mar y al Abra o puerto de 
@@ -33,7 +33,7 @@ de Andra Mari vas a sucumbir a sus bocados de esencia salina. Si quieres saber *
 dónde comer en Getxo**, y un buen número de curiosidades, no te pierdas las siguientes 
 recomendaciones. 
 
-![Puente Bizkaia y regata de veleros en Getxo.](etheria_images/2023/03/Puente-Bizkaia-regata-getxo.jpg "Puente Bizkaia y regata de veleros en Getxo.")
+![Puente Bizkaia y regata de veleros en Getxo.](etheria-images/2023/03/Puente-Bizkaia-regata-getxo.jpg "Puente Bizkaia y regata de veleros en Getxo.")
 
 ## 1\. Getxo y la buena vida… con un kalimotxo
 
@@ -52,7 +52,7 @@ abrigo litoral conocido cariñosamente, como “el puertito”. Donde amarraban 
 sus capturas cada jornada, surgieron elaboraciones sencillas que dan identidad marinera 
 a la villa como el marmitako, almejas a la marinera o txipirones en su tinta. 
 
-![pintxo y caracolillos de Getxo](etheria_images/2023/03/pintxo-getxo-683x1024.jpg "Un pintxo para saborear la buena vida de Getxo.")
+![pintxo y caracolillos de Getxo](etheria-images/2023/03/pintxo-getxo-683x1024.jpg "Un pintxo para saborear la buena vida de Getxo.")
 
 ✅ **Sabías que...** en Getxo nació el popular **kalimotxo**, una bebida que combina vino 
 tinto y refresco de cola. Adquirió su denominación getxotarra durante unas fiestas de 
@@ -80,7 +80,7 @@ combinada con ese arenal que se funde con el mar y el cielo colándose a través
 enormes ventanales del restaurante, hacen brillar esta nueva cocina vasca de autor tanto 
 a la vista como en boca. 
 
-![Chef Javier Izarra, del restaurante Tamarises Izarra.](etheria_images/2023/03/Chef-Javier-Izarra-getxo.jpg "Chef Javier Izarra, del restaurante Tamarises Izarra.")
+![Chef Javier Izarra, del restaurante Tamarises Izarra.](etheria-images/2023/03/Chef-Javier-Izarra-getxo.jpg "Chef Javier Izarra, del restaurante Tamarises Izarra.")
 
 Seguir saboreando la gastronomía local requiere una [parada en la 
 tradición](https://www.getxo.eus/es/turismo/descubre-getxo/cocina-tradicional). Bocados 
@@ -91,7 +91,7 @@ asado) o a través de las presentaciones creativas que revisitan los platos más
 conocidos, los restaurantes de Getxo coinciden en ligarse a la temporada y a la 
 confianza de saber que en el producto local reside el mejor atractivo culinario. 
 
-![Tartar de carabinero del restaurante Tamarises Izarra.](etheria_images/2023/03/Restaurante-Tamarises-Izarra.jpg "Tartar de carabinero del restaurante Tamarises Izarra.")
+![Tartar de carabinero del restaurante Tamarises Izarra.](etheria-images/2023/03/Restaurante-Tamarises-Izarra.jpg "Tartar de carabinero del restaurante Tamarises Izarra.")
 
 Pero, además, hay sorpresas chispeantes con [sabores 
 lejanos](https://www.getxo.eus/es/turismo/descubre-getxo/comida-internacional) pero con 
@@ -115,7 +115,7 @@ los sentidos en apenas un bocado. La capacidad de trabajo y el respeto por la tr
 salta a la vista ante el universo de texturas, sabores y colores de los **bares de 
 pintxos de Getxo**. 
 
-![Pintxo de bacalao en el Puerto Viejo de Algorta, un buen lugar donde comer en Getxo](etheria_images/2023/03/Pintxo-Puerto-Viejo-Algorta-596x1024.jpg "Pintxo de bacalao en el Puerto Viejo de Algorta.")
+![Pintxo de bacalao en el Puerto Viejo de Algorta, un buen lugar donde comer en Getxo](etheria-images/2023/03/Pintxo-Puerto-Viejo-Algorta-596x1024.jpg "Pintxo de bacalao en el Puerto Viejo de Algorta.")
 
 ### Las gildas
 
@@ -144,7 +144,7 @@ vivencia culinaria cercana, que se puede hacer en familia, es una clase de cocin
 niños y niñas se lo pasen en grande. Además, la clase termina con un delicioso final, 
 probando las elaboraciones que han realizado con tanto mimo. 
 
-![Hortalizas para un curso de cocina en Getxo](etheria_images/2023/03/Experiencia-cocina-getxo.jpg "Experiencia gastronómica en Getxo, clase de cocina en familia.")
+![Hortalizas para un curso de cocina en Getxo](etheria-images/2023/03/Experiencia-cocina-getxo.jpg "Experiencia gastronómica en Getxo, clase de cocina en familia.")
 
 ### Maridajes
 
@@ -162,7 +162,7 @@ su estilo con textura en el paladar y color propio. Sentirás la magia de experi
 cómo su sabor se transforma al probarlas junto a alimentos vascos. Un maridaje que a 
 buen seguro dejará el mejor sabor de boca para seguir viaje. 
 
-![cata cervezas planes en getxo](etheria_images/2021/06/cata-cervezas-txinuk-getxo.jpg "Experiencia gastronómica en Getxo, cata de cervezas.")
+![cata cervezas planes en getxo](etheria-images/2021/06/cata-cervezas-txinuk-getxo.jpg "Experiencia gastronómica en Getxo, cata de cervezas.")
 
 ## 5\. Sabores y tiendas gourmet
 
@@ -177,7 +177,7 @@ productos frescos de la tierra y el mar tienen en el **mercado de abastos**, en 
 Torrene, junto a la oficina de Correos, un auténtico palacio para elegir entre su 
 variedad y las sorpresas que cada temporada regala el territorio. 
 
-![La Granja Selección, tienda gourmet donde comprar en Getxo](etheria_images/2023/03/La-Granja-Seleccion-getxo.jpg "Establecimientos gourmet en Getxo, el mejor lugar para llevarte un recuerdo.")
+![La Granja Selección, tienda gourmet donde comprar en Getxo](etheria-images/2023/03/La-Granja-Seleccion-getxo.jpg "Establecimientos gourmet en Getxo, el mejor lugar para llevarte un recuerdo.")
 
 ### Qué comprar en Getxo
 
@@ -203,7 +203,7 @@ Santa en la **carnicería Gabiria** (Andikoetxe Kalea, 22, Getxo). Un negocio fa
 –con Aritza y su hermano Mikel al mando– donde a los buenos cortes de ternera añaden 
 dulzura con su textura suave y un dulce gusto. 
 
-![Detalle de las deliciosas torrijas o tostadas de carnaval de la carnicería Gabiria.](etheria_images/2023/03/torrijas-getxo-803x1024.jpg "Detalle de las deliciosas torrijas o tostadas de carnaval de la carnicería Gabiria.")
+![Detalle de las deliciosas torrijas o tostadas de carnaval de la carnicería Gabiria.](etheria-images/2023/03/torrijas-getxo-803x1024.jpg "Detalle de las deliciosas torrijas o tostadas de carnaval de la carnicería Gabiria.")
 
 ## 6\. Getxo se paladea en femenino
 
@@ -224,7 +224,7 @@ mejor lugar del mundo donde extender el mantel. Con su sapiencia culinaria consi
 los sabores de su tierra sean su mejor refugio y también una increíble terapia para 
 seguir comiéndose la vida con muchas ganas. 
 
-![Almudena Gandarias, ganadora de la edición abuelos de Masterchef.](etheria_images/2023/03/almudena-gandarias-getxo-694x1024.jpg "Almudena Gandarias, ganadora de la edición abuelos de Masterchef.")
+![Almudena Gandarias, ganadora de la edición abuelos de Masterchef.](etheria-images/2023/03/almudena-gandarias-getxo-694x1024.jpg "Almudena Gandarias, ganadora de la edición abuelos de Masterchef.")
 
 ### Olalla, la maga que hace hablar al vino
 
@@ -246,7 +246,7 @@ sus presentaciones, el vino habla y cuenta historias únicas sobre el territorio
 aromas de la tierra y del aire que ha atrapado hasta llegar a la botella que ahora 
 tenemos entre las manos y que nos desvela, gracias a su experiencia, el alma de un vino. 
 
-![Olalla Elorriaga, contadora de vinos de Getxo](etheria_images/2023/03/Olalla-Elorriaga-getxo.jpg "Olalla Elorriaga, contadora de vinos.")
+![Olalla Elorriaga, contadora de vinos de Getxo](etheria-images/2023/03/Olalla-Elorriaga-getxo.jpg "Olalla Elorriaga, contadora de vinos.")
 
 ### Itxaso, enamorada de los vinos del mundo
 
@@ -270,7 +270,7 @@ hubiese sido porque el negocio familiar la necesitaba, o mostrando su sabiduría
 a través del vino, porque ella también, como su progenitor, es una mujer con espíritu de 
 apertura. 
 
-![Itxaso Arana, Nariz de Oro en 2003.](etheria_images/2023/03/Itxaso-Arana-getxo.jpg "Itxaso Arana, Nariz de Oro en 2003.")
+![Itxaso Arana, Nariz de Oro en 2003.](etheria-images/2023/03/Itxaso-Arana-getxo.jpg "Itxaso Arana, Nariz de Oro en 2003.")
 
 ## 7\. Las citas más gustosas
 
@@ -294,7 +294,7 @@ El 23 de julio, en el barrio de Andra Mari, se celebra un Concurso Internacional
 Paellas. Conviene, eso sí, que formes parte de una cuadrilla para disfrutar plenamente 
 del quehacer culinario que gobierna la jornada al pie del mar. 
 
-![Concurso de Paellas de Getxo.](etheria_images/2023/03/concurso-paellas-getxo.jpg "Concurso de Paellas de Getxo.")
+![Concurso de Paellas de Getxo.](etheria-images/2023/03/concurso-paellas-getxo.jpg "Concurso de Paellas de Getxo.")
 
 ### Concurso de Caracoles
 
@@ -302,7 +302,7 @@ El último fin de semana de septiembre, en Las Arenas, se rinde honor a Nuestra 
 las Mercedes, es cuando los caracoles se convierten en las estrellas gastronómicas del 
 Concurso de Caracoles. Una cita tan sabrosa como recomendable. 
 
-![Concurso de Caracoles de Getxo.](etheria_images/2023/03/concurso-caracoles-getxo.jpg "Concurso de Caracoles de Getxo. © Turismo de Getxo")
+![Concurso de Caracoles de Getxo.](etheria-images/2023/03/concurso-caracoles-getxo.jpg "Concurso de Caracoles de Getxo. © Turismo de Getxo")
 
 ### Concurso de Marmitako (en pijama)
 
@@ -313,7 +313,7 @@ podrás catar un bocado de mar asistiendo al delicioso **Concurso de Marmitako**
 Getxo. No olvides llevar tu mejor pijama porque es tradición vestirlo durante esa 
 jornada. 
 
-![Concurso de Marmitako en Getxo](etheria_images/2023/03/concurso-marmitako-getxo.jpg "Concurso de Marmitako, en Getxo.")
+![Concurso de Marmitako en Getxo](etheria-images/2023/03/concurso-marmitako-getxo.jpg "Concurso de Marmitako, en Getxo.")
 
 ?La alimentación sostenible ha llegado para quedarse en Getxo gracias a la buena 
 respuesta que está teniendo entre los [establecimientos de alimentación 

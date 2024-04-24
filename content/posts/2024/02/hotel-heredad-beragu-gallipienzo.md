@@ -1,13 +1,13 @@
 ---
 title: "Heredad Beragu, un refugio de lujo en un lugar secreto de Navarra"
 date: 2024-02-16
-coverImage: etheria_images/2024/02/heredad-beragu-navarra-terraza.jpg
+coverImage: etheria-images/2024/02/heredad-beragu-navarra-terraza.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Patxi y Ramón no lo tenían planeado, pero se enamoraron de este rincón perdido en la 
@@ -16,7 +16,7 @@ en Gallipienzo, porque Heredad Beragu es mucho más que un hotel rural donde dor
 un abrazo en el que refugiarse para olvidarse del resto del mundo. Al menos durante unos 
 días. 
 
-![Terraza del hotel Heredad Beragu.](etheria_images/2024/02/heredad-beragu-navarra-terraza.jpg "Terraza del hotel © Heredad Beragu.")
+![Terraza del hotel Heredad Beragu.](etheria-images/2024/02/heredad-beragu-navarra-terraza.jpg "Terraza del hotel © Heredad Beragu.")
 
 Ese temor a parar un momento y el miedo al atropello constante de las agujas del reloj 
 en los entornos urbanos... no existe más que en nuestra cabeza. Y no es una conclusión 
@@ -31,7 +31,7 @@ Aragón, se sitúa el **Hotel Rural Heredad Beragu**. Este cálido balcón de pi
 situado a varias alturas, se ubica en la calle de El Abrigo y no podría tener un nombre 
 más adecuado porque ese abrazo se siente aún antes de cruzar la puerta de entrada. 
 
-![Salón del hotel rural Heredad Beragu.](etheria_images/2024/02/heredad-beragu-navarra-salon.jpg "Salón del hotel rural © Heredad Beragu.")
+![Salón del hotel rural Heredad Beragu.](etheria-images/2024/02/heredad-beragu-navarra-salon.jpg "Salón del hotel rural © Heredad Beragu.")
 
 ## Heredad Beragu
 
@@ -43,7 +43,7 @@ viajeros que buscasen paz y desconexión. La ubicación no podía ser más idón
 falda del monte Beragu y en un pueblo con mucha historia pero con escasos habitantes. 
 Tras una profunda transformación y no pocos sudores, nació Heredad Beragu en 2016. 
 
-![Vista nocturna del patio del hotel de Gallipienzo](etheria_images/2024/02/heredad-beragu-navarra-patio.jpg "Vista nocturna del patio de este hotel de Gallipienzo. © Heredad Beragu")
+![Vista nocturna del patio del hotel de Gallipienzo](etheria-images/2024/02/heredad-beragu-navarra-patio.jpg "Vista nocturna del patio de este hotel de Gallipienzo. © Heredad Beragu")
 
 ## Interiorismo y filosofía
 
@@ -62,7 +62,7 @@ reconstrucción, empleando calefacción y agua caliente producida por biomasa y 
 solar, reciclaje sistemático, huerto y gallinero ecológicos, y muchas otras medidas que 
 denotan un gran compromiso medioambiental. 
 
-![Habitación Almadieros, en el hotel rural de Gallipienzo.](etheria_images/2024/02/heredad-beragu-habitacion-Almadieros.jpg "Habitación Almadieros. © Heredad Beragu")
+![Habitación Almadieros, en el hotel rural de Gallipienzo.](etheria-images/2024/02/heredad-beragu-habitacion-Almadieros.jpg "Habitación Almadieros. © Heredad Beragu")
 
 ## Habitaciones con historia
 
@@ -77,7 +77,7 @@ Aragón y a la Reserva Natural de la Kaparreta, pero en todas se disfruta de cal
 silencio. Imagina despertar y observar desde la cama la vegetación, el río, el azul del 
 cielo, el sonido de los pájaros... 
 
-![Habitación La Herbolera en Heredad Beragu.](etheria_images/2024/02/heredad-beragu-habitacion-Herbolera.jpg "Habitación La Herbolera. © Heredad Beragu")
+![Habitación La Herbolera en Heredad Beragu.](etheria-images/2024/02/heredad-beragu-habitacion-Herbolera.jpg "Habitación La Herbolera. © Heredad Beragu")
 
 ## Desayunos y cenas
 
@@ -96,7 +96,7 @@ de la tierra. En su carta están representados los productos de siete denominaci
 origen protegida, cinco indicaciones geográficas protegidas, alimentos artesanos y 
 producción ecológica. 
 
-![Desayuno del hotel rural Heredad Beragu.](etheria_images/2024/02/desayuno-heredad-beragu.jpg "Desayuno del hotel rural Heredad Beragu. © Pepa García/ Etheria Magazine")
+![Desayuno del hotel rural Heredad Beragu.](etheria-images/2024/02/desayuno-heredad-beragu.jpg "Desayuno del hotel rural Heredad Beragu. © Pepa García/ Etheria Magazine")
 
 ## Visitas desde el hotel
 
@@ -111,7 +111,7 @@ la iglesia de San Salvador y la parroquia de San Pedro. Los aficionados al astro
 tampoco pueden perderse la experiencia de **observar las estrellas** en el entorno de la 
 ermita de Nuestra Señora de la Peña, a unos kilómetros de Gallipienzo. 
 
-![Gallipienzo y su entorno, en Navarra.](etheria_images/2024/02/gallipienzo-navarra-850x638.jpg "Gallipienzo y su entorno. © Pepa García/Etheria Magazine")
+![Gallipienzo y su entorno, en Navarra.](etheria-images/2024/02/gallipienzo-navarra-850x638.jpg "Gallipienzo y su entorno. © Pepa García/Etheria Magazine")
 
 Si os gusta la historia, otra visita de interés es el [yacimiento de Santa Criz de 
 Eslava](https://www.santacrizdeeslava.com/), a sólo 12 kilómetros del hotel, que es la 

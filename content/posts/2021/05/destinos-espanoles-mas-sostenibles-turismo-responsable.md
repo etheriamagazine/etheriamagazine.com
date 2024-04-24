@@ -1,11 +1,11 @@
 ---
 title: "Los 5 destinos españoles más sostenibles para escaparse esta primavera"
 date: 2021-05-05
-coverImage: etheria_images/2021/04/las-hurdes-extremadura.jpg
+coverImage: etheria-images/2021/04/las-hurdes-extremadura.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - Rosa Marques
+authors: 
+  - Rosa Marqués
 ---
 
 Queremos seguir viajando. Viajar nos inspira, nos da libertad, nos resetea y nos permite 
@@ -13,7 +13,7 @@ vivir cada día como si fuera un día nuevo. Y esto, en definitiva, cura. Pero n
 forma de viajar ha cambiado para siempre. Ahora queremos hacerlo con conciencia, y por 
 este motivo te proponemos comenzar con los cinco destinos más sostenibles de España. 
 
-![formentera uno de los destinos sostenibles de espana](etheria_images/2021/04/formentera-sostenible.jpg "Formentera, una isla sostenible. © Elisabeth Agustin")
+![formentera uno de los destinos sostenibles de espana](etheria-images/2021/04/formentera-sostenible.jpg "Formentera, una isla sostenible. © Elisabeth Agustin")
 
 En estos nuevos tiempos, buscamos lugares donde relajarnos, soltar el estrés, sentirnos 
 seguros y seguir conociendo el mundo con una dosis de consciencia y de respeto superior 
@@ -35,7 +35,7 @@ también por la enorme cantidad de especies que viven bajo el mar. Por todo ello
 Formentera es uno de los destinos mundiales más apetecibles para bucear –tanto para 
 iniciarse como para los que lo practican con frecuencia–. 
 
-![playa llevant, formentera](etheria_images/2020/04/formentera-playa-llevant-900x600.jpg "Playa de Llevant (Formentera).")
+![playa llevant, formentera](etheria-images/2020/04/formentera-playa-llevant-900x600.jpg "Playa de Llevant (Formentera).")
 
 Otra opción para recorrer **la isla en clave sostenible** es disfrutar de sus 
 itinerarios ornitológicos a pie o en bicicleta a lo largo de 4,3 kilómetros, mientras 
@@ -48,7 +48,7 @@ vida tradicional, marcado por el vínculo con el mar y la agricultura de secano,
 lujo. Disfruta comprando en sus mercados productos autóctonos: aceites, vinos, _peixes 
 secs_, verduras y hortalizas… y pasea y vive la isla de la calma. 
 
-![Playa de Lanzarote entre acantilados](etheria_images/2021/04/lanzarote-sostenible.jpg "Vacaciones sostenibles en Lanzarote. © Thibault Mokuenko")
+![Playa de Lanzarote entre acantilados](etheria-images/2021/04/lanzarote-sostenible.jpg "Vacaciones sostenibles en Lanzarote. © Thibault Mokuenko")
 
 ## 2\. Lanzarote, la otra isla, la del silencio, los volcanes y las playas semidesiertas
 
@@ -72,7 +72,7 @@ sus trabajadores la conservación de su patrimonio cultural y natural. Uno de el
 centro de talasoterapia que es el único de la isla con agua de mar y, además, _family 
 friendly_. 
 
-![arrecife sirenas cabo de gata almeria](etheria_images/2021/04/cabo-gata-almeria-sostenible.jpg "Arrecife de las Sirenas, en Cabo de Gata. © Antonio Lainez")
+![arrecife sirenas cabo de gata almeria](etheria-images/2021/04/cabo-gata-almeria-sostenible.jpg "Arrecife de las Sirenas, en Cabo de Gata. © Antonio Lainez")
 
 ## 3\. Cabo de Gata, un parque natural para hacer senderismo y perderse en sus calas
 
@@ -90,14 +90,14 @@ Cuervo. El valle de Rodalquilar, que realmente es una caldera volcánica, se ext
 hasta el borde del mar y El Playazo es una de las playas más amplias en una costa que se 
 caracteriza por sus numerosas calas que hay que recorrer sin prisas, sí o sí. 
 
-![paseo san jose almeria sostenible](etheria_images/2021/04/san-jose-almeria.jpg "Caminata cerca de San José, en Almería. © Victoriano Izquierdo")
+![paseo san jose almeria sostenible](etheria-images/2021/04/san-jose-almeria.jpg "Caminata cerca de San José, en Almería. © Victoriano Izquierdo")
 
 Otra forma de visitar la zona en clave sostenible, es adentrarse en los pueblecitos del 
 parque natural: Isleta del Moro, Las Negras, Agua Amarga… y detenerte en Níjar para 
 visitar sus talleres artesanales, con bonitas cerámicas o hacerse con algunas de sus 
 tradicionales jarapas. 
 
-![faro de orchilla en el hierro](etheria_images/2021/04/faro-de-orchilla-el-hierro.jpg "Faro de Orchilla. © Cabildo El Hierro")
+![faro de orchilla en el hierro](etheria-images/2021/04/faro-de-orchilla-el-hierro.jpg "Faro de Orchilla. © Cabildo El Hierro")
 
 ## 4\. El Hierro, la primera isla autosuficiente
 
@@ -123,7 +123,7 @@ requiere mayores retos, el **Camino de Jinama** es una preciosidad, una ruta que
 un desnivel de 1.000 metros en 4 kilómetros. Solo apto para aventureros. Tras recorrer 
 El Hierro comprenderás por qué es uno de los destinos más sostenibles del mundo. 
 
-![las hurdes destino verde extremadura](etheria_images/2021/04/las-hurdes-extremadura.jpg "Las Hurdes, Extremadura. © Javier Peñas")
+![las hurdes destino verde extremadura](etheria-images/2021/04/las-hurdes-extremadura.jpg "Las Hurdes, Extremadura. © Javier Peñas")
 
 ## 5\. Extremadura, el paraíso del 'slow food'
 
@@ -140,7 +140,7 @@ auténtico slow food tiene aquí uno de los templos nacionales: jamones, mieles,
 carnes, vinos, quesos, pimentón… Cualquier ruta en clave gastronómica –de disfrute 
 consciente de lo que comemos– es en este territorio un auténtico acierto. 
 
-![ruta jamon extremadura](etheria_images/2021/04/ruta-jamon-extremadura.jpg "El jamón es uno de los productos estrella de Extremadura.")
+![ruta jamon extremadura](etheria-images/2021/04/ruta-jamon-extremadura.jpg "El jamón es uno de los productos estrella de Extremadura.")
 
 **✅ También te interesa leer..** 
 

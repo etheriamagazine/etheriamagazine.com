@@ -1,16 +1,16 @@
 ---
 title: "Planes increíbles por los que querrás viajar a Navarra"
 date: 2021-12-23
-coverImage: etheria_images/2021/12/paisajes-del-valle-del-Bidasoa.jpg
+coverImage: etheria-images/2021/12/paisajes-del-valle-del-Bidasoa.jpg
 categories: 
   - viajes-con-amigas
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
 ¿Buscáis ideas para hacer una escapada en el norte de España? Os proponemos un viaje a Navarra con amigas para visitar sus lugares más conocidos y descubrir otros realmente sorprendentes. Castillos, valles, monasterios, fiestas y ricos manjares, sobran los motivos para recorrer esta bella tierra.
 
-![navarra con amigas valle bidasoa](etheria_images/2021/12/paisajes-del-valle-del-Bidasoa.jpg "El verde imprega los paisajes del valle del Bidasoa. © Yolanda Cardo")
+![navarra con amigas valle bidasoa](etheria-images/2021/12/paisajes-del-valle-del-Bidasoa.jpg "El verde imprega los paisajes del valle del Bidasoa. © Yolanda Cardo")
 
 Érase una vez un reino en el que construyeron un castillo para complacer a una recelosa 
 reina; en el que una gamberrada se convirtió en espectáculo multitudinario; donde un 
@@ -20,7 +20,7 @@ dragones y caminos rescatados del olvido atraviesan hermosos pueblos, verdes val
 frondosos bosques susurrados por los vientos del Cantábrico. Sorpresas más que 
 suficientes para que este viaje a **Navarra con amigas** resulte apoteósico. 
 
-![catedral pamplona navarra](etheria_images/2021/12/catedral-de-Pamplona.jpg "La catedral de Pamplona. © Y.Cardo")
+![catedral pamplona navarra](etheria-images/2021/12/catedral-de-Pamplona.jpg "La catedral de Pamplona. © Y.Cardo")
 
 ## 1\. Pamplona ¡Menuda historia!
 
@@ -40,7 +40,7 @@ en tierra de nadie, el lugar donde se alza el actual consistorio. Como estas hay
 de historias que [Santi Lesmes](https://guiadepamplona.org/) relata durante las visitas 
 guiadas por Pamplona. 
 
-![pintxos navarra](etheria_images/2021/12/navarra-pintxos.jpg "Los pintxos son toda una tradición en la capital navarra. © Y. Cardo")
+![pintxos navarra](etheria-images/2021/12/navarra-pintxos.jpg "Los pintxos son toda una tradición en la capital navarra. © Y. Cardo")
 
 ### Sanfermines: una gamberrada hecha tradición
 
@@ -59,7 +59,7 @@ estos actos, incluso se les multaba, pero como ya podéis imaginar de nada sirvi
 el tiempo lo que comenzó siendo una **bizarra gamberrada** acabó convirtiéndose en el 
 símbolo de la ciudad. 
 
-![ayuntamiento pamplona](etheria_images/2021/12/Ayuntamiento-de-Pamplona.jpg "Ayuntamiento de Pamplona, la sede del tradicional chupinazo. © Y. Cardo")
+![ayuntamiento pamplona](etheria-images/2021/12/Ayuntamiento-de-Pamplona.jpg "Ayuntamiento de Pamplona, la sede del tradicional chupinazo. © Y. Cardo")
 
 ## 2\. Etxalar, una villa de montaña
 
@@ -73,7 +73,7 @@ balconadas que recuerdan su pasado indiano; de la iglesia de Nuestra Señora de 
 Asunción y sus jardines con estelas funerarias; de molinos y pétreos puentes que sortean 
 los afluentes del Bidasoa. 
 
-![etxalar casonas navarra con amigas](etheria_images/2021/12/Etxalar-grandes-casonas-navarra.jpg "Etxalar es una preciosa villa de grandes casonas. © Y. Cardo")
+![etxalar casonas navarra con amigas](etheria-images/2021/12/Etxalar-grandes-casonas-navarra.jpg "Etxalar es una preciosa villa de grandes casonas. © Y. Cardo")
 
 ### El pueblo de las palomeras
 
@@ -84,7 +84,7 @@ llegada de estas aves migratorias en el collado Usategieta, a unos 7 km de Etxal
 Existen visitas guiadas a las **Palomeras de Etxalar**, donde podréis contemplar con 
 vuestros ojos, si es que hay suerte ese día, esta ancestral práctica cinegética. 
 
-![xanti elizagoien guia navarra](etheria_images/2021/12/Xanti-Elizagoien-contrabandista.jpg "El antiguo contrabandista Xanti Elizagoien organiza rutas nocturnas. © Y. Cardo")
+![xanti elizagoien guia navarra](etheria-images/2021/12/Xanti-Elizagoien-contrabandista.jpg "El antiguo contrabandista Xanti Elizagoien organiza rutas nocturnas. © Y. Cardo")
 
 ### Y de la ruta de los contrabandistas
 
@@ -97,7 +97,7 @@ hilos de cobre, calcetines o medias de cristal. Ahora organiza visitas nocturnas
 recorren la conocida como **ruta de los contrabandistas** mientras rememora sus 
 aventuras de aquellos años. 
 
-![peru harri navarra con amigas](etheria_images/2021/12/Peru-Harri-navarra.jpg "Peru-Harri es un museo consagrado a la piedra que Iñaki Perurena ha construido con sus propias manos. © Y. Cardo")
+![peru harri navarra con amigas](etheria-images/2021/12/Peru-Harri-navarra.jpg "Peru-Harri es un museo consagrado a la piedra que Iñaki Perurena ha construido con sus propias manos. © Y. Cardo")
 
 ## 3\. El museo de Iñaki Perurena
 
@@ -115,7 +115,7 @@ Además de un mágico recorrido entre un bosquete decorado con pinturas que ilus
 oficios, personajes mitológicos o la fauna autóctona. Todo obra de este incansable 
 Hércules para el que la piedra “es mi vida y me da vida”. 
 
-![leitza navarra con amigas](etheria_images/2021/12/navarra-Leitza.jpg "En Leitza se rodaron muchas escenas de 'Ocho apellidos vascos'. © Y. Cardo")
+![leitza navarra con amigas](etheria-images/2021/12/navarra-Leitza.jpg "En Leitza se rodaron muchas escenas de 'Ocho apellidos vascos'. © Y. Cardo")
 
 ## 4\. Leitza, el plató de 'Ocho apellidos vascos'
 
@@ -132,7 +132,7 @@ diseñadora, tiene una coqueta tienda de ropa donde vende las prendas de su **ma
 301K**. Además de bonitas camisetas y sudaderas, elabora chalecos a medida 
 personalizados para los _harrijasotzaile_ (levantadores de piedra). 
 
-![santuario san miguel aralar](etheria_images/2021/12/Santuario-de-San-Miguel-de-Aralar.jpg "Santuario de San Miguel de Aralar y detalle del frontal cerámico que guarda en su interior. © Y. Cardo")
+![santuario san miguel aralar](etheria-images/2021/12/Santuario-de-San-Miguel-de-Aralar.jpg "Santuario de San Miguel de Aralar y detalle del frontal cerámico que guarda en su interior. © Y. Cardo")
 
 ## 5\. Sakana, un valle espiritual. San Miguel de Aralar  
 
@@ -159,7 +159,7 @@ octubre de 1979 por el famoso Erik “el Belga”. Afortunadamente en 1981 se re
 mayoría de las piezas y se detuvo a la banda conocida como “**clan de los 
 marselleses**”. 
 
-![monasterio de zamartze navarra](etheria_images/2021/12/Monasterio-de-Zamartze.jpg "Monasterio de Zamartze en el Camino de Santiago Navarro. © Y. Cardo")
+![monasterio de zamartze navarra](etheria-images/2021/12/Monasterio-de-Zamartze.jpg "Monasterio de Zamartze en el Camino de Santiago Navarro. © Y. Cardo")
 
 ## 6\. Monasterio de Santa María de Zamartze
 
@@ -175,7 +175,7 @@ disfrutar del _slow-travel_. Aunque si os gustan las emociones fuertes, podéis 
 el trail-running en la **Estación de Trail de Sakana**. Cinco espectaculares rutas para 
 disfrutar de otra manera de estos espectaculares parajes. 
 
-![calzada de bernoa navarra con amigas](etheria_images/2021/12/Calzada-de-Bernoa.jpg "Calzada de Bernoa. Un antiguo camino de arrieros convertido en gran ruta. © Yolanda Cardo")
+![calzada de bernoa navarra con amigas](etheria-images/2021/12/Calzada-de-Bernoa.jpg "Calzada de Bernoa. Un antiguo camino de arrieros convertido en gran ruta. © Yolanda Cardo")
 
 Como veis, Navarra es tierra de caminos. La **Calzada de Bernoa** de época medieval es 
 otro recuperado recientemente. Se trata de una serie de vías empedradas, que discurren 
@@ -192,7 +192,7 @@ elaborados de manera sostenible y completamente artesanal. El sello **Dastatu Sa
 distingue los comercios y restaurantes de la zona en los que se pueden consumir o 
 adquirir. Buscadlo, os encantarán. 
 
-![castillo olite navarra](etheria_images/2021/12/navarra-castillo-de-Olite.jpg "El monumental castillo de Olite es visita obligada. © Y. Cardo")
+![castillo olite navarra](etheria-images/2021/12/navarra-castillo-de-Olite.jpg "El monumental castillo de Olite es visita obligada. © Y. Cardo")
 
 ## 7\. Olite, entre castillos y vinos
 

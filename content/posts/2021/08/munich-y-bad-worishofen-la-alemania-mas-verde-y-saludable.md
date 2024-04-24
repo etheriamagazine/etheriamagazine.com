@@ -1,18 +1,18 @@
 ---
 title: "Múnich y Bad Wörishofen, la Alemania más verde y saludable"
 date: 2021-08-04
-coverImage: etheria_images/2021/07/alemania-kupark-bad-worishofen-scaled.jpg
+coverImage: etheria-images/2021/07/alemania-kupark-bad-worishofen-scaled.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Recorrer Múnich en bicicleta para conocer el entorno de su río, sus bosques y jardines es perfecto, pero también es conveniente ir más allá y visitar la ciudad balneario de Bad Wörishofen. Allí vivió Sebastian Kneipp, el "Médico del agua", conocido por sus innovadoras terapias. ¿Estás preparada para descubrir la Alemania más verde y saludable en estas dos ciudades?
 
-![Kupark Bad Worishofen](etheria_images/2021/07/alemania-kupark-bad-worishofen-900x620.jpg "El bucólico Kurpark en Bad Wörishofen parece un cuadro impresionista. © Manena Munar")
+![Kupark Bad Worishofen](etheria-images/2021/07/alemania-kupark-bad-worishofen-900x620.jpg "El bucólico Kurpark en Bad Wörishofen parece un cuadro impresionista. © Manena Munar")
 
 Una forma estupenda de conocer la Alemania más saludable es pedaleando a orillas del río 
 Isar, que nace en los Alpes Austriacos y desemboca en el Danubio, pasando antes por el 
@@ -21,7 +21,7 @@ paseando entre el río y la iglesia de San Maximiliano. El Isar en sus tiempos h
 estragos cuando sus aguas salvajes se desbordaban inundando la ciudad. Ahora, ya domado 
 y canalizado, aunque menos pintoresco, es mucho más útil a sus habitantes. 
 
-![ruta ciclista munich](etheria_images/2021/08/ruta-ciclista-rio-isar-munich.jpg "Recorrido ciclista a orillas del río Isar en Múnich. © M.M.")
+![ruta ciclista munich](etheria-images/2021/08/ruta-ciclista-rio-isar-munich.jpg "Recorrido ciclista a orillas del río Isar en Múnich. © M.M.")
 
 ##### En bici por Múnich para conocer su faceta más verde
 
@@ -29,7 +29,7 @@ Siguiendo con el pedaleo se atraviesa una serie de puentes, modernos y antiguos,
 merecen parada y foto, pues desde ellos se divisa una bella panorámica del Isar con su 
 ciudad al fondo. 
 
-![paisaje ruta ciclista munich](etheria_images/2021/08/alemania-rio-isar-munich.jpg "Paisaje en el recorrido ciclista a orillas del río Isar en Múnich. © M.M.")
+![paisaje ruta ciclista munich](etheria-images/2021/08/alemania-rio-isar-munich.jpg "Paisaje en el recorrido ciclista a orillas del río Isar en Múnich. © M.M.")
 
 ### Babarian Beer Garden, un fresco descanso
 
@@ -44,7 +44,7 @@ salchichas blancas muniquesas por excelencia, _Weisswurst_. Al lado los _pretzel
 jarra, bien de cerámica, cristal o barro, rebosante de una de las muchas espumosas 
 cervezas con las que cuenta el local. 
 
-![salchichas Weisswurst munich](etheria_images/2021/08/salchichas-munich.jpg "Las salchichas blandas Weisswurst son muniquesas por excelencia. © M.M.")
+![salchichas Weisswurst munich](etheria-images/2021/08/salchichas-munich.jpg "Las salchichas blandas Weisswurst son muniquesas por excelencia. © M.M.")
 
 ##### De jardines a bares...
 
@@ -60,7 +60,7 @@ con lo que se pidió otro nuevo permiso al gobernante. Esta vez el fin era **ada
 jardines a bares** con mesas donde la gente pudiera llevar comida casera y dar salida a 
 la cerveza del año anterior. 
 
-![cancilleria munich jardin corte](etheria_images/2021/08/munich-cancilleria-jardin-corte.jpg "La Cancillería del estado de Baviera rodea el Jardín de la Corte (Hofgarten). © M.M.")
+![cancilleria munich jardin corte](etheria-images/2021/08/munich-cancilleria-jardin-corte.jpg "La Cancillería del estado de Baviera rodea el Jardín de la Corte (Hofgarten). © M.M.")
 
 ## Jardines para todos en Múnich
 
@@ -79,7 +79,7 @@ Maximiliano I y por él hoy pasea la gente, a veces entre ciervos y conejos, cob
 del sol o la lluvia en el **Pabellón a Diana**, diosa virgen de la caza, protectora de 
 la naturaleza y de la luna. 
 
-![jardin ingles munich](etheria_images/2021/08/munich-jardin-ingles.jpg "Desde el Templo Griego en el Jardín Inglés se divisa una espléndida panorámica de las cúpulas de Múnich. © M.M.")
+![jardin ingles munich](etheria-images/2021/08/munich-jardin-ingles.jpg "Desde el Templo Griego en el Jardín Inglés se divisa una espléndida panorámica de las cúpulas de Múnich. © M.M.")
 
 ### Jardín Inglés
 
@@ -98,7 +98,7 @@ de altura, la casa de té donde se celebra su ceremonia y un **templo griego** d
 lo alto de la colina desde donde ver la magnitud del parque con las cúpulas de la ciudad 
 sobresaliendo. 
 
-![Surfeando en el Eisbach munich](etheria_images/2021/08/munich-surf-jardin-ingles-649x1024.jpg "Surfeando en el Eisbach (afluente del Isar) en el Jardín Inglés, centro de Múnich. © M.M.")
+![Surfeando en el Eisbach munich](etheria-images/2021/08/munich-surf-jardin-ingles-649x1024.jpg "Surfeando en el Eisbach (afluente del Isar) en el Jardín Inglés, centro de Múnich. © M.M.")
 
 #### Surfeando en el centro de la _city_
 
@@ -110,7 +110,7 @@ gigantesca ola que cogen los surfistas.
 > estupor de todo aquel que cruza el puente y se encuentra con los surfistas vestidos de 
 > neopreno sobre la ola, tanto en verano como en invierno a temperaturas bajo cero. 
 
-![jardin frances munich](etheria_images/2021/08/jardin-frances-munich.jpg "El Jardín Francés rodea el Palacio de Nymphenburg. © M.M.")
+![jardin frances munich](etheria-images/2021/08/jardin-frances-munich.jpg "El Jardín Francés rodea el Palacio de Nymphenburg. © M.M.")
 
 ### Jardín Francés de Múnich
 
@@ -124,7 +124,7 @@ escenario y de cronología el **Parque Olímpico** fue parte del complejo destin
 Olimpiadas de 1972, y por sus trescientas hectáreas se pueden practicar deportes varios 
 y contemplar el _Universo BMW_ que se sitúa frente al estadio de las Olimpiadas. 
 
-![Klingwirt munich](etheria_images/2021/08/munich-Klingwirt.jpg "Klingwirt, restaurante de gastronomía ecológica en el centro de Múnich. © M.M.")
+![Klingwirt munich](etheria-images/2021/08/munich-Klingwirt.jpg "Klingwirt, restaurante de gastronomía ecológica en el centro de Múnich. © M.M.")
 
 ## Comer y beber bien en Múnich
 
@@ -143,7 +143,7 @@ Múnich, con pena, pues es mucho lo que ofrece, es obligado caminar hasta **Mari
 a pocos pasos del hotel, entrar por la muralla medieval de la ciudad vieja y 
 estremecerse ante la belleza del Nuevo Ayuntamiento. 
 
-![Sebastian Kneipp medico del agua](etheria_images/2021/08/sebastian-kneipp-alemania.jpg "La figura de Sebastian Kneipp referente a su hidroterapia se encuentra en cada esquina de Bad Wörishofen. © M.M.")
+![Sebastian Kneipp medico del agua](etheria-images/2021/08/sebastian-kneipp-alemania.jpg "La figura de Sebastian Kneipp referente a su hidroterapia se encuentra en cada esquina de Bad Wörishofen. © M.M.")
 
 ## Una escapada a Bad Wörishofen
 
@@ -153,7 +153,7 @@ coqueto pueblo bávaro apenas a 80 kilómetros de Múnich que, en 2021, celebra 
 bicentenario del hombre que puso a la villa en el mapa como uno de los lugares claves 
 para disfrutar y sanar con hidroterapia. ¿Te suena el nombre de **Sebastian Kneipp?** 
 
-![Kupark-bad worishofen alemania](etheria_images/2021/07/Kupark-bad-worishofen-alemania.jpg "El bucólico Kupark en Bad Wörishofen parece un cuadro impresionista. © M.M.")
+![Kupark-bad worishofen alemania](etheria-images/2021/07/Kupark-bad-worishofen-alemania.jpg "El bucólico Kupark en Bad Wörishofen parece un cuadro impresionista. © M.M.")
 
 ### Sebastian Kneipp, el médico del agua
 
@@ -164,7 +164,7 @@ filosofía y medicina **Johann Siegmund Hahn** sobre las propiedades curativas d
 las puso en práctica y logró curarse de tuberculosis. Desde entonces, ofreció su vida y 
 su sacerdocio a extender la terapia holística, especialmente entre los más necesitados. 
 
-![convento hotel Kuroase im Kloster en Bad Worishofen](etheria_images/2021/08/convento-hotel-kuroase-im-kloster.jpg "Convento-hotel Kuroase im Kloster en Bad Wörishofen donde Sebastian Kneipp fue confesor, y hoy sigue su tratamiento holístico. © M.M.")
+![convento hotel Kuroase im Kloster en Bad Worishofen](etheria-images/2021/08/convento-hotel-kuroase-im-kloster.jpg "Convento-hotel Kuroase im Kloster en Bad Wörishofen donde Sebastian Kneipp fue confesor, y hoy sigue su tratamiento holístico. © M.M.")
 
 ## Tratamientos en Bad Wörishofen
 
@@ -181,7 +181,7 @@ los que llevan años acudiendo regularmente a la cura del agua.
 > psicosomáticos, falta de olfato o cualquier síntoma para el que tienen preparado un 
 > equipo especializado en sus secuelas. 
 
-![Sebastian Kneipp medico del agua](etheria_images/2021/08/terapia-sebastianeum-kneipp.jpg "La terapia de Sebastian Kneipp celebra este 2021 el bicentenario de su fundador. © M.M.")
+![Sebastian Kneipp medico del agua](etheria-images/2021/08/terapia-sebastianeum-kneipp.jpg "La terapia de Sebastian Kneipp celebra este 2021 el bicentenario de su fundador. © M.M.")
 
 #### La importancia de los pies para Sebastian Kneipp
 
@@ -193,7 +193,7 @@ conduce a sus visitantes por un pasaje lleno de pequeños obstáculos que supera
 descalzos entre hierba, piedras, arena, a la par que les instruye sobre los beneficios 
 de ir sin calzado. 
 
-![terapia pies en kupark alemania](etheria_images/2021/07/alemania-sebastian-kneipp-pies.jpg "Toni Fenkl lidera el paseo descalzo con pequeños obstáculos y diferentes suelos por Kurpark. © M.M.")
+![terapia pies en kupark alemania](etheria-images/2021/07/alemania-sebastian-kneipp-pies.jpg "Toni Fenkl lidera el paseo descalzo con pequeños obstáculos y diferentes suelos por Kurpark. © M.M.")
 
 > Sebastian Kneipp consideraba de vital importancia el sentir los elementos en la planta 
 > del pie que se encarga de repartir sus sensaciones por todo el cuerpo. 
@@ -204,7 +204,7 @@ del agua. Imprescindible profundizar en lo que ha venido a llamarse Medicina Nat
 Europea, comparable a la Medicina China o Ayurveda, en el museo de su precursor, el 
 **Kneipp-Museum Bad Wörishofen**. 
 
-![museo Sebastian Kneipp](etheria_images/2021/08/museo-sebastian-kneipp.jpg "En el museo destinado a Sebastian Kneipp en Bad Wörishofen se explica la trayectoria sanadora del Médico del Agua. © M.M.")
+![museo Sebastian Kneipp](etheria-images/2021/08/museo-sebastian-kneipp.jpg "En el museo destinado a Sebastian Kneipp en Bad Wörishofen se explica la trayectoria sanadora del Médico del Agua. © M.M.")
 
 ##### La terapia de Sebastian Kneipp fue declarada Patrimonio Inmaterial de la Unesco
 
@@ -223,7 +223,7 @@ Lufthansa dispone de vuelos directos (2 horas y media) entre Madrid y Múnich.
 
 Más información en [Turismo de Alemania](https://www.germany.travel/en/home.html). 
 
-![Beer Garden en el Jardín Ingles de Munich](etheria_images/2021/08/beer-garden-jardin-ingles-munich.jpg "Beer Garden en el Jardín Inglés de Múnich. © M.M.")
+![Beer Garden en el Jardín Ingles de Munich](etheria-images/2021/08/beer-garden-jardin-ingles-munich.jpg "Beer Garden en el Jardín Inglés de Múnich. © M.M.")
 
 ### También te puede interesar
 

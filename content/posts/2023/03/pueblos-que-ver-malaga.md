@@ -1,13 +1,13 @@
 ---
 title: "Una guía para no perderte nada de la provincia de Málaga"
 date: 2023-03-23
-coverImage: etheria_images/2023/03/malaga-nerja-playa-calahonda.jpg
+coverImage: etheria-images/2023/03/malaga-nerja-playa-calahonda.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - de-un-vistazo
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Pasar unos días en Málaga es una propuesta imbatible sea cual sea la época del año 
@@ -16,7 +16,7 @@ acantilados, pequeñas calas… las posibilidades de pasarlo bien en esta provin
 tantas que nos ha costado seleccionar sólo quince lugares que ver en Málaga. Te los 
 contamos en este artículo. 
 
-![Mirador sobre Mijas Costa](etheria_images/2023/03/Mirador-mijas-costa-sol.jpg "Mirador de Mijas sobre la Costa del Sol. © Turismo de Andalucía.")
+![Mirador sobre Mijas Costa](etheria-images/2023/03/Mirador-mijas-costa-sol.jpg "Mirador de Mijas sobre la Costa del Sol. © Turismo de Andalucía.")
 
 Si en cualquier momento de tu vida alguien te propone unas **vacaciones en Málaga** di 
 que sí al momento. Es cierto que durante el verano hay mucha gente, como en casi toda la 
@@ -45,7 +45,7 @@ centrada en la pintura española de los siglos XIX y XX. Y, si te gusta el arte 
 la original estructura El Cubo del **Centre Pompidou Málaga** anticipa su exposición de 
 arte contemporáneo. 
 
-![paseo marítimo, puerto y jardines de Málaga](etheria_images/2023/03/malaga-ayuntamiento-jardines.jpg "Málaga desde la Alcazaba.")
+![paseo marítimo, puerto y jardines de Málaga](etheria-images/2023/03/malaga-ayuntamiento-jardines.jpg "Málaga desde la Alcazaba.")
 
 ### Joyas del casco urbano
 
@@ -97,7 +97,7 @@ Niña del Pisto, La Polaca, el Bar Fiesta (en el mercado) o el Bar del Estrecho.
 que también cae alguna compra en sus bonitas tiendas de ropa y complementos llenos de 
 color. 
 
-![yates en puerto Banús](etheria_images/2023/03/malaga-puerto-banus-850x567.jpg "Puerto Banús.")
+![yates en puerto Banús](etheria-images/2023/03/malaga-puerto-banus-850x567.jpg "Puerto Banús.")
 
 Para disfrutar al borde del mar, puedes elegir algún chiringuito como La Milla Marbella 
 o Trocadero Beach o uno de sus _beach club_, siempre animados en verano. Nikki Beach, 
@@ -126,7 +126,7 @@ tapear por su centro, por las barriadas de La Carihuela y El Bajoncillo para pro
 especialidades de cada bar. Tampoco puedes perderte un cóctel en la playa de La 
 Carihuela o una tarde de tiendas por la calle San Miguel. 
 
-![La Casa de las Navajas de Torremolinos](etheria_images/2023/03/malaga-casa-navajas-torremolinos.jpg "La Casa de las Navajas de Torremolinos. © Etheria Mag.")
+![La Casa de las Navajas de Torremolinos](etheria-images/2023/03/malaga-casa-navajas-torremolinos.jpg "La Casa de las Navajas de Torremolinos. © Etheria Mag.")
 
 Los amantes de la naturaleza disfrutarán con un paseo a pie o en bicicleta por la **Ruta 
 del Agua**, que une la Senda Litoral con la Gran Senda de Málaga. No hay que olvidar que 
@@ -150,7 +150,7 @@ Tejerinas, con un bonito patio con columnas, la Casa del Aljibe (actual Casa
 Consistorial) y la iglesia de Nuestra Señora de los Remedios, todos edificios del siglo 
 XVIII. 
 
-![Calle y torre de la iglesia de los Remedios en Estepona](etheria_images/2023/03/Malaga-Estepona-iglesia-remedios.jpg "Calle y torre de la iglesia de los Remedios en Estepona. © Turismo de Andalucía.")
+![Calle y torre de la iglesia de los Remedios en Estepona](etheria-images/2023/03/Malaga-Estepona-iglesia-remedios.jpg "Calle y torre de la iglesia de los Remedios en Estepona. © Turismo de Andalucía.")
 
 Además, merece la pena caminar por el **Paseo Marítimo** que va desde la Playa de la 
 Rada hasta el Puerto Pesquero, donde se encuentra también el **faro Punta Doncella**, 
@@ -170,7 +170,7 @@ pedanía de Arroyo de la Miel entre las dos. Para ver las dos caras de esta loca
 merece la pena visitar tanto el **Museo de Arte Precolombino Felipe Orlando** como el 
 puerto deportivo. 
 
-![Estupa de la iluminación de Benalmádena](etheria_images/2023/03/malaga-estupa-benalmadena.jpg "Estupa de la iluminación de Benalmádena. © Ramón Albiol")
+![Estupa de la iluminación de Benalmádena](etheria-images/2023/03/malaga-estupa-benalmadena.jpg "Estupa de la iluminación de Benalmádena. © Ramón Albiol")
 
 Si estás aquí de vacaciones, algunos de los lugares que puedes visitar son el castillo 
 El Bil Bil, el castillo de Colomares o la curiosa **estupa de la iluminación**, que se 
@@ -196,7 +196,7 @@ Desde aquí, es casi imposible resistirse a un baño en la **playa Calahonda**. 
 puedes ir a otras playas como la de Burriana o las más pequeñas de El Carabeo y El 
 Carabeillo. 
 
-![Playa de Calahonda, en Nerja.](etheria_images/2023/03/malaga-nerja-playa-calahonda.jpg "Playa de Calahonda, en Nerja.")
+![Playa de Calahonda, en Nerja.](etheria-images/2023/03/malaga-nerja-playa-calahonda.jpg "Playa de Calahonda, en Nerja.")
 
 Una de las excursiones que no puedes perderte es a la **Cueva de Nerja**, una de las más 
 espectaculares de España. La visita es muy cómoda, aunque hay que ir preparado para 
@@ -228,7 +228,7 @@ de dos mil quinientos años que ha dejado la marca de aquellos que la habitaron.
 como la Casa del Moro, el Palacio de Mondragón, el Palacio de Moztezuma o la Colegiata 
 de Santa María Auxiliadora son algunos de los monumentos imprescindibles. 
 
-![El Puente Nuevo de Ronda.](etheria_images/2023/03/malaga-ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
+![El Puente Nuevo de Ronda.](etheria-images/2023/03/malaga-ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
 
 Además, en Ronda se come muy bien. Tiene bares de tapeo por todas partes donde degustar 
 las delicias malagueñas, y alberga el restaurante **Bardal**, del chef Benito Gómez, que 
@@ -254,7 +254,7 @@ que la Oficina de Turismo lo pone muy fácil con un mapa que hace un itinerario 
 por los principales puntos de interés y miradores (la dificultad la aportan, únicamente, 
 las cuestas y las escaleras). 
 
-![casas blancas en Frigiliana en Málaga](etheria_images/2023/03/Malaga-Frigiliana-calle-barrio-alto.jpg "Calle de Frigiliana. © SG")
+![casas blancas en Frigiliana en Málaga](etheria-images/2023/03/Malaga-Frigiliana-calle-barrio-alto.jpg "Calle de Frigiliana. © SG")
 
 En el paseo descubrirás sus adarves, muestra del urbanismo andalusí, y los bonitos 
 rincones de flores y puertas pintadas del **Barribarto** (Barrio Alto) que dan para mil 
@@ -280,7 +280,7 @@ zona incluye pueblos como **Cómpeta**, que mantiene vivo su pasado árabe y tie
 gran tradición vinícola; **Canillas de Albaida**, con sus bonitas calles llenas de 
 macetas; o **Sedella**, con su famosa Casa Torreón. 
 
-![Sedella](etheria_images/2023/03/Malaga-Sedella.jpg "Sedella. © Turismo de Andalucía.")
+![Sedella](etheria-images/2023/03/Malaga-Sedella.jpg "Sedella. © Turismo de Andalucía.")
 
 Otro de los atractivos de la zona es el **embalse de La Viñuela**, un lugar lleno de paz 
 en medio de la montaña perfecto para desconectar del bullicio de la costa. 
@@ -300,7 +300,7 @@ durante el dominio musulmán. Después de estas visitas, ya sólo quedaría un p
 Antequera para ir descubriendo sus plazas e iglesias (hay más de treinta, algunas tan 
 bonitas como la iglesia del Carmen). 
 
-![Torcal de Antequera.](etheria_images/2023/03/malaga-torcal-antequera.jpg "Torcal de Antequera.")
+![Torcal de Antequera.](etheria-images/2023/03/malaga-torcal-antequera.jpg "Torcal de Antequera.")
 
 Si estás por esta zona de Málaga, es imprescindible una visita al **Torcal de 
 Antequera**. Desde su centro de visitantes salen unas rutas señalizadas de varios 
@@ -323,7 +323,7 @@ Museo de la Villa y el Carromato de Mijas, con una colección de miniaturas. Tam
 merecen una visita el santuario de la Virgen de la Peña, del siglo XVII, y la iglesia de 
 la Inmaculada Concepción. 
 
-![bar en Mijas](etheria_images/2023/03/malaga-mijas.jpg "Calle típica de Mijas.")
+![bar en Mijas](etheria-images/2023/03/malaga-mijas.jpg "Calle típica de Mijas.")
 
 Aunque es un pueblo de interior, el municipio cuenta con una zona de catorce kilómetros 
 de playas conocida como **Mijas Costa** que incluye arenales, pequeñas calas rocosas y 
@@ -353,7 +353,7 @@ perderte la subida a alguno de sus miradores, como el **Puerto de Saucillo**, o 
 **Puerto de Lobos**, cuyo agreste paisaje hace fácil imaginárselo como la tierra de 
 bandoleros que fue en el pasado. 
 
-![Pinsapar en el Parque Nacional Sierra de las Nieves.](etheria_images/2023/03/malaga-sierra-nieves-pinsapar.jpg "Pinsapar en el Parque Nacional Sierra de las Nieves.")
+![Pinsapar en el Parque Nacional Sierra de las Nieves.](etheria-images/2023/03/malaga-sierra-nieves-pinsapar.jpg "Pinsapar en el Parque Nacional Sierra de las Nieves.")
 
 Dentro del parque se encuentran trece pueblos, algunos de los cuales conservan restos de 
 murallas y castillos de origen musulmán como la torre de Escalante en Istán o el 
@@ -379,7 +379,7 @@ hasta El Chorro y su situación, a 100 metros sobre el río adosado a las parede
 verticales del acantilado y con apenas un metro de ancho, hace que no sea apto para 
 personas con vértigo. 
 
-![excursionistas en el caminito del rey](etheria_images/2023/03/malaga-caminito-del-rey.jpg "Caminito del Rey.")
+![excursionistas en el caminito del rey](etheria-images/2023/03/malaga-caminito-del-rey.jpg "Caminito del Rey.")
 
 El centro de recepción de visitantes está ubicado en el **Puerto de las Atalayas** y 
 para adquirir las entradas lo mejor es hacerlo a través de la web 
@@ -401,7 +401,7 @@ Calaiza, en La Herradura (Granada). Es un lugar perfecto para hacer senderismo e
 sendero señalizado **Torre del Cerro Gordo**, donde disfrutan especialmente los amantes 
 del avistamiento de aves. 
 
-![Acantilados de Maro-Cerro Gordo](etheria_images/2023/03/Malaga-Costa-Maro.jpg "Costa de Maro. © Turismo de Andalucía.")
+![Acantilados de Maro-Cerro Gordo](etheria-images/2023/03/Malaga-Costa-Maro.jpg "Costa de Maro. © Turismo de Andalucía.")
 
 Los acantilados también merecen ser vistos desde el mar por su estructura con grutas y 
 para ver la **cascada de Maro** y en la costa se organizan excursiones en catamarán, 
@@ -420,7 +420,7 @@ parque de animales, donde se pueden ver especies asiáticas, europeas y africana
 también con atracciones como los puentes colgantes, una divertida tirolina y camas 
 elásticas. 
 
-![Puente colgante en Selwo Aventura.](etheria_images/2023/03/Malaga-selwo-puente.jpg "Puente colgante en Selwo Aventura. © Parques Reunidos.")
+![Puente colgante en Selwo Aventura.](etheria-images/2023/03/Malaga-selwo-puente.jpg "Puente colgante en Selwo Aventura. © Parques Reunidos.")
 
 Merece la pena apuntarse al **Safari Serengueti** para poder acercarse más a los 
 animales y escuchar las explicaciones de un guía experto que acompaña y explica los 

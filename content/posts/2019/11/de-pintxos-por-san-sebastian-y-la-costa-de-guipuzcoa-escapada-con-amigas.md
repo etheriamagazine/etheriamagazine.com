@@ -1,14 +1,14 @@
 ---
 title: "Descubre los mejores bares de pintxos de San Sebastián para ir con amigas"
 date: 2019-11-08
-coverImage: etheria_images/2019/10/San-Sebastian-gastronomia-Gros.jpg
+coverImage: etheria-images/2019/10/San-Sebastian-gastronomia-Gros.jpg
 categories: 
   - viajes-48-horas
   - viajes-gastronomicos
   - viajes-urbanos
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Elisabeth G. Iborra
 ---
 
@@ -17,7 +17,7 @@ guía por San Sebastián y Guipúzcoa a través de sus restaurantes y bares de p
 Aprovecha y elige este destino para viajar sola o con amigas y darte un buen homenaje 
 gastronómico. 
 
-![mirador Monte Igeldo](etheria_images/2019/10/San-Sebastian-Igueldo-900x600.jpg "Vista de la bahía de San Sebatián desde el monte Igueldo. © DSST")
+![mirador Monte Igeldo](etheria-images/2019/10/San-Sebastian-Igueldo-900x600.jpg "Vista de la bahía de San Sebatián desde el monte Igueldo. © DSST")
 
 Cuando entras en Euskadi, el paisaje ya te atrapa por la densidad de árboles por 
 habitante –de las más altas de España– y por el verdor de sus valles. Conforme te vas 
@@ -30,7 +30,7 @@ acaudalada, la favorita; la bañada por esas tres playas urbanas que se atestan 
 sol caliente lo justito tras las nubes. Antaño era casi una celebración ver asomar al 
 astro; ahora es bastante más habitual recibirlo con alegría y hasta sudar la camiseta. 
 
-![Isla de Santa Clara en San Sebastián](etheria_images/2019/10/San-Sebastian-isla-santa-clara-900x676.jpg "Isla de Santa Clara en la bahía de la Concha. © Jochem Raat")
+![Isla de Santa Clara en San Sebastián](etheria-images/2019/10/San-Sebastian-isla-santa-clara-900x676.jpg "Isla de Santa Clara en la bahía de la Concha. © Jochem Raat")
 
 Seguro que lo primero que vas a querer hacer es una foto de la **playa de la Concha**. 
 Sea pues: vete a caminar por su paseo marítimo o por la orilla si el tiempo acompaña, 
@@ -49,7 +49,7 @@ el Aste **148 Gastroleku** –sorprendente el tartar de cerdo ibérico–, **Cas
 buenísimos el huevo con picada de chorizo, el arroz con algas y salicornia, la 
 carrillera y los canapés de brandada de bacalao y de cabrales. 
 
-![Plaza Constitución y calle Mayor de San Sebastián](etheria_images/2019/10/San-Sebatian-parte-vieja-consitucion-mayor-900x435.jpg "Plaza de la Constitución y calle Mayor, en la Parte Vieja de San Sebastián. © DSST")
+![Plaza Constitución y calle Mayor de San Sebastián](etheria-images/2019/10/San-Sebatian-parte-vieja-consitucion-mayor-900x435.jpg "Plaza de la Constitución y calle Mayor, en la Parte Vieja de San Sebastián. © DSST")
 
 ## ¿Dónde comer por el centro de San Sebastián?
 
@@ -60,7 +60,7 @@ Polvorín** del monte Urgull, pasando por la escultura 'Construcción Vacía' de
 Oteiza. A la vuelta, puedes seguir disfrutando las vistas con un cóctel en el bar 
 público del Club Náutico, el **GU**: de lujo. 
 
-![Mercado de San Martín en San Sebastián](etheria_images/2019/10/San-Sebastian-catedral-900x600.jpg "Mercado de San Martín con la catedral al fondo. © DSST")
+![Mercado de San Martín en San Sebastián](etheria-images/2019/10/San-Sebastian-catedral-900x600.jpg "Mercado de San Martín con la catedral al fondo. © DSST")
 
 Cerca de los bares de tapeo **Zazpi** y **Antonio**, siempre a tope, nos adentramos 
 hacia la **plaza del Buen Pastor**, con su catedral y el mercado de San Martín. Aquí se 
@@ -88,7 +88,7 @@ sensacionales tapas a muy buen precio. Más carito pero ideal para sentarse en u
 mesa es el **Bernardo Etxea**, donde puedes comerte un rodaballo tú sola sin que se 
 escandalicen puesto que ya te abrí yo el camino. 
 
-![Playa de Ondarreta](etheria_images/2019/10/San-Sebastian-Ondarreta-Miramar-900x414.jpg "Playa de Ondarreta y vistas desde los jardines del Palacio de Miramar. © DSST")
+![Playa de Ondarreta](etheria-images/2019/10/San-Sebastian-Ondarreta-Miramar-900x414.jpg "Playa de Ondarreta y vistas desde los jardines del Palacio de Miramar. © DSST")
 
 Para quemar tanto aperitivo puedes subir al **monte Igueldo** haciendo senderismo, donde 
 hay que pagar para poder acceder al mirador y su parque de atracciones, pero la 
@@ -112,7 +112,7 @@ restaurante vasco-latinoamericano **Topa Sukaldería**, de lo más original.
 Culturalmente, es un _must_ la **Tabakalera**, antiguo edificio rehabilitado donde se 
 concentra una interesante vida cultural de expos y conciertos. 
 
-![Pintxos de Ramontxu Berri y Topa Sukaldería](etheria_images/2019/10/San-Sebastian-gastronomia-Gros-900x673.jpg "Pintxo de queso al carbón de Ramontxu Berri y tacos en Topa Sukaldería. © DSST")
+![Pintxos de Ramontxu Berri y Topa Sukaldería](etheria-images/2019/10/San-Sebastian-gastronomia-Gros-900x673.jpg "Pintxo de queso al carbón de Ramontxu Berri y tacos en Topa Sukaldería. © DSST")
 
 ## El pintxo-pote
 
@@ -127,7 +127,7 @@ vermú. Por la zona se están poniendo de moda las vinotecas, como **Divinum**, 
 el **Lukas de Don Serapio**… Y, la mejor, **Casa Agustín** ¡a ver dónde vas a poder 
 probar tú 150 referencias nacionales e internacionales por copas! 
 
-![terraza en el barrio de Gros](etheria_images/2019/10/San-Sebastian-ambiente-Gros-900x600.jpg "Ambiente en el barrio de Gros. © DSST")
+![terraza en el barrio de Gros](etheria-images/2019/10/San-Sebastian-ambiente-Gros-900x600.jpg "Ambiente en el barrio de Gros. © DSST")
 
 ## La costa de Guipúzcoa hacia Francia
 
@@ -139,7 +139,7 @@ de la Plata** y descendiendo hacia Pasajes de San Pedro. Desde ahí cruzas en ba
 antes de emprender el camino de vuelta o de darte un bañito en la desembocadura del río 
 Oyarzun. 
 
-![Barcos en Fuenterrabía](etheria_images/2019/10/San-Sebastian-Hondarribia-900x683.jpg "Puerto de Hondarribia. ©PB")
+![Barcos en Fuenterrabía](etheria-images/2019/10/San-Sebastian-Hondarribia-900x683.jpg "Puerto de Hondarribia. ©PB")
 
 ### Rentería y Hondarribia
 
@@ -175,7 +175,7 @@ misteriosos de la Península. Sin salir del municipio, disfruta de unos pintxos
 deliciosos en el **Txikitxa**, la **vinoteca Idoia** y la **Taberna de la Amona**. De 
 ahí, a **Zarautz**, una playa inmensa para hacer surf. 
 
-![Ermita de San Telmo en Zumaia](etheria_images/2019/10/Costa-vasca-zumaia-900x675.jpg "Acantilados de Zumaia con la ermita de San Telmo. © Jordi Vich Navarro")
+![Ermita de San Telmo en Zumaia](etheria-images/2019/10/Costa-vasca-zumaia-900x675.jpg "Acantilados de Zumaia con la ermita de San Telmo. © Jordi Vich Navarro")
 
 Merece la pena acercarse a ver las esculturas de **Chillida Leku**, el museo del 
 grandioso artista guipuzcoano que muestra su obra y donde se realizan actividades como 

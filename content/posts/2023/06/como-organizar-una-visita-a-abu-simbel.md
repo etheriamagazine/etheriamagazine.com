@@ -1,13 +1,13 @@
 ---
 title: "Cómo y por qué organizar una visita a Abu Simbel"
 date: 2023-06-30
-coverImage: etheria_images/2023/06/egipto-abu-simbel-estatuas.jpg
+coverImage: etheria-images/2023/06/egipto-abu-simbel-estatuas.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La excursión a Abu Simbel suele aparecer como opcional en la mayoría de los viajes que 
@@ -15,7 +15,7 @@ se organizan por Egipto pero aquí te explicamos por qué es imprescindible. Tam
 damos algunas claves para organizar una visita a Abu Simbel y aprovecharla al máximo. 
 Será un lugar que quedará para siempre en tu memoria. 
 
-![fachada de Abu Simbel](etheria_images/2023/06/egipto-abu-simbel-amanecer.jpg "Entrada del templo principal de Abu Simbel con los cuatro colosos de Ramsés II al amanecer. © Susana García")
+![fachada de Abu Simbel](etheria-images/2023/06/egipto-abu-simbel-amanecer.jpg "Entrada del templo principal de Abu Simbel con los cuatro colosos de Ramsés II al amanecer. © Susana García")
 
 Abu Simbel, cuyo recinto arqueológico ha sido declarado Patrimonio de la Humanidad por 
 la Unesco, es uno de esos rincones del mundo que hay que visitar al menos una vez en la 
@@ -46,7 +46,7 @@ en el sanctasanctórum. Unas estatuas sobre las que se produce un curioso efecto
 el 22 de febrero y el 22 de octubre entra la luz al fondo del templo para iluminarlas 
 (excepto la de Ptah Sikar Osiris por ser una deidad funeraria). 
 
-![santasanctórum de Abu Simbel](etheria_images/2023/06/egipto-abu-simbel-sancta-sanctorum.jpg "Cámara interior del templo con las estatuas de los tres dioses a los que está dedicado y de Ramsés II. © SG")
+![santasanctórum de Abu Simbel](etheria-images/2023/06/egipto-abu-simbel-sancta-sanctorum.jpg "Cámara interior del templo con las estatuas de los tres dioses a los que está dedicado y de Ramsés II. © SG")
 
 Los **cuatros colosos de Ramsés II** que reciben en la entrada tienen más de **veinte 
 metros de altura** y el interior del templo está decorado con unos delicados relieves 
@@ -62,7 +62,7 @@ está **dedicado a Hathor**, la diosa del amor y la belleza, que solía mostrars
 orejas de vaca, y en su interior se pueden ver los típicos capiteles hathoricos con la 
 cabeza de esta diosa. 
 
-![Fachada del templo de Abu Simbel dedicado a Nefertari.](etheria_images/2023/06/egipto-abu-simbel-templo-nefertari.jpg "Fachada del templo de Abu Simbel dedicado a Nefertari. © SG")
+![Fachada del templo de Abu Simbel dedicado a Nefertari.](etheria-images/2023/06/egipto-abu-simbel-templo-nefertari.jpg "Fachada del templo de Abu Simbel dedicado a Nefertari. © SG")
 
 ### El traslado del templo
 
@@ -95,7 +95,7 @@ los bares de carretera para ir al baño y comprar algún refresco; y poco más s
 hacer que echar alguna cabezadita o mirar la interminable y recta carretera mientras se 
 escucha música durante el trayecto. 
 
-![Interior del templo de Abu Simbel.](etheria_images/2023/06/egipto-abu-simbel-entrada-templo-ramses-ii.jpg "Interior del templo de Abu Simbel. © SG")
+![Interior del templo de Abu Simbel.](etheria-images/2023/06/egipto-abu-simbel-entrada-templo-ramses-ii.jpg "Interior del templo de Abu Simbel. © SG")
 
 ### Cómo visitar Abu Simbel
 
@@ -124,7 +124,7 @@ madrugada) para llegar en torno a las seis y media a los templos. Tras unas hora
 ellos, hay que volver a Asuán en el día, por lo que esta visita supone en total más de 
 nueve horas de autobús. 
 
-![Gente haciendo cola en Abu Simbel](etheria_images/2023/06/egipto-abu-simbel-templos.jpg "Vista general del yacimiento arqueológico de Abu Simbel. © SG")
+![Gente haciendo cola en Abu Simbel](etheria-images/2023/06/egipto-abu-simbel-templos.jpg "Vista general del yacimiento arqueológico de Abu Simbel. © SG")
 
 ### Dormir una noche en Abu Simbel
 
@@ -142,7 +142,7 @@ escucharla directamente en español sin necesidad de auriculares.
 ? El **hotel Seti Abu Simbel** es un hotel muy sencillo en sus habitaciones y su oferta 
 gastronómica, pero su situación y su excelente piscina hacen que merezca la pena. 
 
-![Piscina del hotel Seti Abu Simbel](etheria_images/2023/06/egipto-abu-simbel-hotel-seti.jpg "Piscina del hotel Seti Abu Simbel. © SG")
+![Piscina del hotel Seti Abu Simbel](etheria-images/2023/06/egipto-abu-simbel-hotel-seti.jpg "Piscina del hotel Seti Abu Simbel. © SG")
 
 La otra gran ventaja de dormir en Abu Simbel es poder entrar nada más abrir el templo (a 
 las seis de la mañana). Así se dispone de un buen rato con muy poca gente para 
@@ -175,7 +175,7 @@ si usas el enlace anterior, por ser lector/a de ETHERIA MAGAZINE. Puedes elegir 
 seguro para este viaje en concreto o **uno ANUAL**, que te saldrá a cuenta si realizas 
 más de un viaje al año. 
 
-![Capitel con la imagen de la diosa Hathor en el templo de Nefertari en Abu Simbel](etheria_images/2023/06/egipto-abu-simbel-relieve-hator.jpg "Capitel con la imagen de la diosa Hathor en el templo de Nefertari. © SG")
+![Capitel con la imagen de la diosa Hathor en el templo de Nefertari en Abu Simbel](etheria-images/2023/06/egipto-abu-simbel-relieve-hator.jpg "Capitel con la imagen de la diosa Hathor en el templo de Nefertari. © SG")
 
 **También te puede interesar:** 
 

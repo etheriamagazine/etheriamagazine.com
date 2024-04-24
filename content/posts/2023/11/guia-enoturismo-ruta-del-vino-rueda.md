@@ -1,13 +1,13 @@
 ---
 title: "Cómo disfrutar de la Ruta del Vino de Rueda, tu guía más hedonista"
 date: 2023-11-14
-coverImage: etheria_images/2023/11/Bodega-Montepedroso.jpg
+coverImage: etheria-images/2023/11/Bodega-Montepedroso.jpg
 categories: 
   - viajes-con-amigas
   - viajes-romanticos
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Una escapada corta a la Ruta del Vino de Rueda permite despejar mente y espíritu. No se 
@@ -16,7 +16,7 @@ vides y que proyecta felicidad gracias a su combinación de naturaleza, cultura,
 gastronomía y bienestar. Animaos a descubrir el secreto que ocultan sus vinos, sus 
 sabores y su agua milagrosa. 
 
-![Copas en la Sala de catas de la Bodega Montepedroso](etheria_images/2023/11/Bodega-Montepedroso.jpg "Sala de catas de la Bodega Montepedroso. © Miguel A. Muñoz Romero")
+![Copas en la Sala de catas de la Bodega Montepedroso](etheria-images/2023/11/Bodega-Montepedroso.jpg "Sala de catas de la Bodega Montepedroso. © Miguel A. Muñoz Romero")
 
 Cada fin de semana del año nos regala la oportunidad de descubrir un nuevo territorio, 
 de nutrirnos de experiencias que enriquezcan nuestro espíritu, de descansar de rutinas y 
@@ -52,7 +52,7 @@ cava del siglo XVII a diez metros de profundidad. Sus vinos, 100% verdejos y con
 personalidad bien definida, reinan entre barricas de roble francés, huevos de hormigón y 
 depósitos de acero inoxidable. 
 
-![Bodega Campo Elíseo, en la Ruta del Vino de Rueda](etheria_images/2023/11/ruta-vino-rueda-campo-eliseo.jpg "© Bodega Campo Elíseo.")
+![Bodega Campo Elíseo, en la Ruta del Vino de Rueda](etheria-images/2023/11/ruta-vino-rueda-campo-eliseo.jpg "© Bodega Campo Elíseo.")
 
 ### Bodega Montepedroso
 
@@ -70,7 +70,7 @@ La Finca Montepedroso, con sus 25 hectáreas de viñedos a 750 metros de altitud
 perfecta para vivir una experiencia enoturística ya que ofrece diversas posibilidades, 
 con o sin maridaje, desde 15 €. 
 
-![Interior de la Bodega Montepedroso.](etheria_images/2023/11/bodega-montepedroso-rueda.jpg "Interior de la Bodega Montepedroso. © Etheria Magazine")
+![Interior de la Bodega Montepedroso.](etheria-images/2023/11/bodega-montepedroso-rueda.jpg "Interior de la Bodega Montepedroso. © Etheria Magazine")
 
 ### Bodegas Yllera, El hilo de Ariadna
 
@@ -82,7 +82,7 @@ En 2022 obtuvo el premio Mejor Experiencia Enoturística de España por su propu
 "Entre uvas y estrellas". El recorrido se puede complementar con una cata de vinos y una 
 experiencia culinaria de la que os hablaremos en nuestras sugerencias gastronómicas. 
 
-![Galería subterránea de la Bodega Yllera, El hilo de Ariadna.](etheria_images/2023/11/Bodega-Yllera.jpg "Galería subterránea de la Bodega Yllera, El hilo de Ariadna. © Miguel A. Muñoz Romero")
+![Galería subterránea de la Bodega Yllera, El hilo de Ariadna.](etheria-images/2023/11/Bodega-Yllera.jpg "Galería subterránea de la Bodega Yllera, El hilo de Ariadna. © Miguel A. Muñoz Romero")
 
 ## Artesanos del sabor
 
@@ -105,7 +105,7 @@ el sitio perfecto para hacer una parada, degustar algunas de sus creaciones y ll
 un recuerdo tan original como sus turrones _Wine selection_, elaborados con diferentes 
 tipos de vino. 
 
-![Tarta de Xokoreto.](etheria_images/2023/11/tarta-xokoreto.jpg "© Tarta de Xokoreto.")
+![Tarta de Xokoreto.](etheria-images/2023/11/tarta-xokoreto.jpg "© Tarta de Xokoreto.")
 
 ### Quesos de la Granja Cantagrullas
 
@@ -127,7 +127,7 @@ Nuestra recomendación es hacer la **visita guiada** para apreciar su singularid
 supuesto, tener en el radar a la Quesería Cultivo (Conde Duque, 15. Madrid. 
 queseriacultivo.com) donde se puede comprar tanto _on line_ como en persona. 
 
-![Queso de la Granja Cantagrullas.](etheria_images/2023/11/quesos-granja-cantagrullas.jpg "Queso de la Granja Cantagrullas. © Etheria Magazine")
+![Queso de la Granja Cantagrullas.](etheria-images/2023/11/quesos-granja-cantagrullas.jpg "Queso de la Granja Cantagrullas. © Etheria Magazine")
 
 ## Cocina de autor
 
@@ -156,7 +156,7 @@ especialmente de sus _Mantecados al verdejo_, que obtuvo el Premio **Artesano de
 ‘Tierra de Sabor’** en 2022. También se pueden adquirir online en 
 www.lagiraldadecastilla.es 
 
-![Plato de La Botica de Matapozuelos.](etheria_images/2023/11/la-botica-matapozuelos.jpg "La Botica de Matapozuelos. © Etheria Magazine")
+![Plato de La Botica de Matapozuelos.](etheria-images/2023/11/la-botica-matapozuelos.jpg "La Botica de Matapozuelos. © Etheria Magazine")
 
 ### El hilo de Ariadna by Martín Berasategui
 
@@ -170,7 +170,7 @@ un guiño tanto a la procedencia del chef (como la tortilla de bacalao a la dono
 como a los productos de proximidad. El maridaje con los vinos de Yllera es, sin duda, la 
 guinda a cualquier escapada de enoturismo por estas tierras vallisoletanas. 
 
-![El Hilo de Ariadna by Martín Berasategui.](etheria_images/2023/11/hilo-ariadna-berasategui.jpg "El Hilo de Ariadna by Martín Berasategui. © Etheria Magazine")
+![El Hilo de Ariadna by Martín Berasategui.](etheria-images/2023/11/hilo-ariadna-berasategui.jpg "El Hilo de Ariadna by Martín Berasategui. © Etheria Magazine")
 
 ### La Mejillonera
 
@@ -185,7 +185,7 @@ platos tan exquisitos como el _Canelón meloso de lechazo con bechamel y trufa f
 el _Solomillo de ciervo con puré de castañas_. Sin duda, una parada muy recomendable en 
 esta histórica ciudad. 
 
-![Sala de cata de La Mejillonera, en Medina del Campo.](etheria_images/2023/11/mejillonera.jpg "Diego Baz en la sala de cata de La Mejillonera, en Medina del Campo. © Etheria Magazine")
+![Sala de cata de La Mejillonera, en Medina del Campo.](etheria-images/2023/11/mejillonera.jpg "Diego Baz en la sala de cata de La Mejillonera, en Medina del Campo. © Etheria Magazine")
 
 ## El agua milagrosa de Castilla Termal Olmedo
 
@@ -203,7 +203,7 @@ sesión privada en su claustro termal, inspirado en el patio mudéjar del monast
 Santa Clara de Tordesillas. Su restaurante gastronómico es asimismo idóneo para culminar 
 una estancia relajante en este antiguo convento. 
 
-![Claustro termal del hotel balneario Castilla Termal Olmedo.](etheria_images/2023/11/castilla-termal-olmedo.jpg "Claustro termal del hotel balneario Castilla Termal Olmedo. © Etheria Magazine")
+![Claustro termal del hotel balneario Castilla Termal Olmedo.](etheria-images/2023/11/castilla-termal-olmedo.jpg "Claustro termal del hotel balneario Castilla Termal Olmedo. © Etheria Magazine")
 
 Tras descubrir las tentadoras propuestas de la **Ruta del Vino de Rueda**, ¿estáis 
 dispuestas a daros un capricho en vuestra próxima escapada? 

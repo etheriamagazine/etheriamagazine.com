@@ -1,18 +1,18 @@
 ---
 title: "Expresionismo alemán en el Thyssen-Bornemisza. La rebeldía del barón Thyssen"
 date: 2020-11-09
-coverImage: etheria_images/2020/10/El-sueno-de-Franz-Marc.jpg
+coverImage: etheria-images/2020/10/El-sueno-de-Franz-Marc.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 La muestra 'Expresionismo alemán en la colección del barón Thyssen-Bornemisza' permite contemplar, hasta el 14 de marzo de 2021, en el Museo Thyssen de Madrid todas las obras que el barón compró de esta corriente artística. Una exposición imprescindible este otoño-invierno en Madrid.
 
-![Franz Marc en museo thyssen](etheria_images/2020/10/El-sueno-de-Franz-Marc.jpg "El sueño, 1912. Franz Marc. © Thyssen B. Collections")
+![Franz Marc en museo thyssen](etheria-images/2020/10/El-sueno-de-Franz-Marc.jpg "El sueño, 1912. Franz Marc. © Thyssen B. Collections")
 
 El 13 de abril de 2021 se cumplirá el centenario del nacimiento del barón Thyssen 
 (1921-2002) y tan redonda efeméride ya ha comenzado a celebrarse en el museo que fundó 
@@ -35,7 +35,7 @@ Thyssen-Bornemisza** adquirió, a principios de los años 60, la primera obra de
 despreciaba el arte moderno, y desde entonces no paró en descubrir a los grandes nombres 
 del arte del siglo XX. 
 
-![Casa en Dangast Erich Heckel museo thyssen](etheria_images/2020/10/Casa-en-Dangast-La-casa-blanca-de-Erich-Heckel.jpg "Casa en Dangast (La casa blanca), 1908. Erich Heckel. © Thyssen B. Collections")
+![Casa en Dangast Erich Heckel museo thyssen](etheria-images/2020/10/Casa-en-Dangast-La-casa-blanca-de-Erich-Heckel.jpg "Casa en Dangast (La casa blanca), 1908. Erich Heckel. © Thyssen B. Collections")
 
 ## “Un espíritu de libertad”
 
@@ -56,7 +56,7 @@ familiar pasaron a formar parte del nuevo museo situado en el Paseo del Prado. D
 entonces los españoles pueden admirar un arte que hasta ese momento estaba ausente de 
 las colecciones españolas. 
 
-![Wassily Kandinsky expresionismo aleman](etheria_images/2020/10/Bagatella-n-2-de-Vsily-Kandinski.jpg "Bagatella n. 2, 1915. Wassily Kandinsky. © Thyssen B. Collections")
+![Wassily Kandinsky expresionismo aleman](etheria-images/2020/10/Bagatella-n-2-de-Vsily-Kandinski.jpg "Bagatella n. 2, 1915. Wassily Kandinsky. © Thyssen B. Collections")
 
 ## Expresionismo alemán. El “arte degenerado” del régimen nazi
 
@@ -78,7 +78,7 @@ Esto lo podemos apreciar en la sección “Exteriores”, con cuadros como “Ve
 (1919-1920), de Max Pechstein; “Puente en la marisma” (1910), de Emil Nolde, o “Fábrica 
 de ladrillos” (1907), de Erich Heckel. 
 
-![joven pareja emil nolde en museo thyssen](etheria_images/2020/10/Joven-pareja-de-Emil-Nolde-706x1024.jpg "Joven pareja, hacia 1931-1935. Emil Nolde. © Thyssen B. Collections")
+![joven pareja emil nolde en museo thyssen](etheria-images/2020/10/Joven-pareja-de-Emil-Nolde-706x1024.jpg "Joven pareja, hacia 1931-1935. Emil Nolde. © Thyssen B. Collections")
 
 ## De Gauguin a Van Gogh, inspiradores del expresionismo alemán
 
@@ -94,7 +94,7 @@ en el frente, Kandinski volvió a Rusia, Jawlenski se refugió en Suiza… hasta
 años 20 algunos se reunieron en torno a la Bauhaus y otros, como Grosz o Beckmann, se 
 dedicaron a traducir en sus obras la descomposición de la sociedad alemana. 
 
-![verano en nidden pechstein expresionismo aleman thyssen](etheria_images/2020/10/Verano-en-Nidden-de-Max-Pechtein.jpg "Verano en Nidden, hacia 1919-1920. Max Pechstein. © Thyssen B. Collections")
+![verano en nidden pechstein expresionismo aleman thyssen](etheria-images/2020/10/Verano-en-Nidden-de-Max-Pechtein.jpg "Verano en Nidden, hacia 1919-1920. Max Pechstein. © Thyssen B. Collections")
 
 Cuando Hitler subió al poder, el régimen nacionalsocialista comenzó su política de 
 depuración artística y organizó varias exposiciones de condena, entre ellas una que 
@@ -106,7 +106,7 @@ cuadros incautados salieron al mercado para recaudar fondos para la guerra: “N
 verano” (1913), de Nolde, o “Retrato de Siddi Heckel” (1913), de Erich Heckel, que más 
 tarde fueron adquiridos por el barón Thyssen. 
 
-![Cabeza de mujer Erich Heckel expresionismo thyssen](etheria_images/2020/10/Cabeza-de-mujer-Retrato-de-Siddi-Heckel-de-ERich-Heckel.jpg "Retrato de Siddi Heckel, 1913. Erich Heckel. © Thyssen B. Collections")
+![Cabeza de mujer Erich Heckel expresionismo thyssen](etheria-images/2020/10/Cabeza-de-mujer-Retrato-de-Siddi-Heckel-de-ERich-Heckel.jpg "Retrato de Siddi Heckel, 1913. Erich Heckel. © Thyssen B. Collections")
 
 ## Una reivindicación necesaria
 

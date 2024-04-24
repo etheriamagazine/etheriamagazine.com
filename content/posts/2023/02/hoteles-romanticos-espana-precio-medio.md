@@ -1,11 +1,11 @@
 ---
 title: "Hoteles románticos en España, ni muy caros ni muy baratos"
 date: 2023-02-06
-coverImage: etheria_images/2023/02/hotel-teepee-romantico-avila.jpg
+coverImage: etheria-images/2023/02/hotel-teepee-romantico-avila.jpg
 categories: 
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Regalos de aniversarios, cumpleaños, el famoso San Valentín... nos pasamos horas 
@@ -15,7 +15,7 @@ para parejas, pero a veces nos pillan lejos para un fin de semana o el precio se
 del presupuesto. Si tu "romanticismo" tiene un término medio, estos hoteles –que no son 
 ni muy caros ni muy baratos– te resultarán útiles. 
 
-![Suite del hotel Castilla Termal Valbuena, en Ribera del Duero (Valladolid)](etheria_images/2023/02/suite-valbuena.jpg "Suite del hotel Castilla Termal Valbuena, en Ribera del Duero (Valladolid)")
+![Suite del hotel Castilla Termal Valbuena, en Ribera del Duero (Valladolid)](etheria-images/2023/02/suite-valbuena.jpg "Suite del hotel Castilla Termal Valbuena, en Ribera del Duero (Valladolid)")
 
 En este artículo partimos de la premisa de que en algún momento del año necesitas 
 escoger un hotel romántico, es decir, un lugar donde pasar una media de dos o tres 
@@ -49,7 +49,7 @@ naturales para refrescarse en verano.
 
 ?Más información en glampingtheteepee.com 
 
-![Glamping The Teepee, en la Sierra de Gredos (Ávila).](etheria_images/2023/02/teepee-avila-768x1024.jpg "© Glamping The Teepee, en la Sierra de Gredos (Ávila).")
+![Glamping The Teepee, en la Sierra de Gredos (Ávila).](etheria-images/2023/02/teepee-avila-768x1024.jpg "© Glamping The Teepee, en la Sierra de Gredos (Ávila).")
 
 ### Hotel Miluna, en Toledo
 
@@ -65,7 +65,7 @@ de Maqueda.
 
 ?Más información en miluna.es 
 
-![Hotel burbuja Mi Luna, uno de los más románticos de Toledo](etheria_images/2023/02/hotel-romantico-mi-luna.jpg "© Hotel burbuja Mi Luna.")
+![Hotel burbuja Mi Luna, uno de los más románticos de Toledo](etheria-images/2023/02/hotel-romantico-mi-luna.jpg "© Hotel burbuja Mi Luna.")
 
 ### Hotel rural & spa Los Ánades, en Guadalajara
 
@@ -80,7 +80,7 @@ ciudades de Sigüenza, Medinaceli o Atienza.
 
 ?Más información en losanades.com 
 
-![Habitación de hotel Los Ánades.](etheria_images/2022/04/Los-Anades-hotel-guadalajara.jpg "Habitación de hotel Los Ánades.")
+![Habitación de hotel Los Ánades.](etheria-images/2022/04/Los-Anades-hotel-guadalajara.jpg "Habitación de hotel Los Ánades.")
 
 ### Castilla Termal Valbuena, en Valladolid
 
@@ -98,7 +98,7 @@ encontrarás un buen número de bodegas.
 ?Más información de [Castilla Termal 
 Valbuena](https://etheriamagazine.com/2021/10/29/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero/). 
 
-![Sala de contrastes Capilla de San Pedro, en Monasterio de Valbuena, el hotel más romántico de Valladolid](etheria_images/2021/10/circuito-de-contrastes-monasterio-valbuena.jpg "Sala de contrastes Capilla de San Pedro. © CT Monasterio de Valbuena")
+![Sala de contrastes Capilla de San Pedro, en Monasterio de Valbuena, el hotel más romántico de Valladolid](etheria-images/2021/10/circuito-de-contrastes-monasterio-valbuena.jpg "Sala de contrastes Capilla de San Pedro. © CT Monasterio de Valbuena")
 
 ### La Dehesa Experiences, en Córdoba
 
@@ -116,7 +116,7 @@ cabaña. No se puede pedir más.
 ?Más información de [La 
 Dehesa](https://etheriamagazine.com/2022/06/10/la-dehesa-experience-cordoba/). 
 
-![Cabaña tipo glamping en La Dehesa Experience.](etheria_images/2022/06/dehesa-experience-glamping.jpg "Cabaña tipo glamping en © La Dehesa Experience.")
+![Cabaña tipo glamping en La Dehesa Experience.](etheria-images/2022/06/dehesa-experience-glamping.jpg "Cabaña tipo glamping en © La Dehesa Experience.")
 
 ### Hotel Faro de Punta Cumplida, La Palma
 
@@ -134,7 +134,7 @@ Palma](https://etheriamagazine.com/2021/04/05/10-secretos-para-conocer-la-isla-d
 
 ?Más información en [Floatel](https://floatel.de/es/hideaways/faro-punta-cumplida). 
 
-![Faro de Punta Cumplida, en la isla de La Palma, uno de los hoteles más románticos de Canarias](etheria_images/2019/05/Rusticae-faro-punta-cumplida-patio.jpg "Faro de Punta Cumplida, en la isla de La Palma.")
+![Faro de Punta Cumplida, en la isla de La Palma, uno de los hoteles más románticos de Canarias](etheria-images/2019/05/Rusticae-faro-punta-cumplida-patio.jpg "Faro de Punta Cumplida, en la isla de La Palma.")
 
 ### Parador de Cambados, en Galicia
 
@@ -151,7 +151,7 @@ y rutas mágicas](https://etheriamagazine.com/2022/12/14/que-ver-pontevedra/).
 
 ?Más información en paradores.es/es/parador-de-cambados 
 
-![Parador de Cambados, uno de los hoteles románticos en España](etheria_images/2023/02/Parador-cambados-hotel-romantico-850x567.jpg "© Parador de Cambados.")
+![Parador de Cambados, uno de los hoteles románticos en España](etheria-images/2023/02/Parador-cambados-hotel-romantico-850x567.jpg "© Parador de Cambados.")
 
 ### Hotel Villa Rosario, en Asturias
 
@@ -167,7 +167,7 @@ costa cantábrica.
 ?Más información de [Villa 
 Rosario.](https://etheriamagazine.com/2021/07/20/hotel-villa-rosario-palacio-ribadesella/) 
 
-![Hotel Villa Rosario, en Ribadesella.](etheria_images/2021/07/hotel-villa-rosario-asturias.jpg "© Hotel Villa Rosario, en Ribadesella.")
+![Hotel Villa Rosario, en Ribadesella.](etheria-images/2021/07/hotel-villa-rosario-asturias.jpg "© Hotel Villa Rosario, en Ribadesella.")
 
 ### Hotel Villa Magalean, en Guipúzcoa
 
@@ -183,7 +183,7 @@ restaurante donde degustar la mejor cocina vasca de autor.
 ?Más información de [Villa 
 Magalean](https://etheriamagazine.com/2019/12/03/hotel-villa-magalean-spa-restaurante-en-hondarribia/). 
 
-![Cada detalle está cuidadosamente pensado en Villa Magalean.](etheria_images/2019/11/villa-magalean-hotel-salon-900x600.jpg "Cada detalle está cuidadosamente pensado en © Villa Magalean.")
+![Cada detalle está cuidadosamente pensado en Villa Magalean.](etheria-images/2019/11/villa-magalean-hotel-salon-900x600.jpg "Cada detalle está cuidadosamente pensado en © Villa Magalean.")
 
 ### Angelats Hotel Rusticae, en Girona
 
@@ -199,6 +199,6 @@ estrellas desde el mismo alojamiento, dada la escasa contaminación lumínica de
 
 ?Más información en angelats.es o en rusticae.es 
 
-![Angelats Hotel Rusticae, hotel romántico de Girona](etheria_images/2023/02/Angelats-hotel-romantico-girona.jpg "© Angelats Hotel Rusticae")
+![Angelats Hotel Rusticae, hotel romántico de Girona](etheria-images/2023/02/Angelats-hotel-romantico-girona.jpg "© Angelats Hotel Rusticae")
 
 ✅ No olvides compartir este artículo con aquellos que necesiten una escapada romántica.

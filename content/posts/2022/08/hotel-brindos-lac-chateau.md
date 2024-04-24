@@ -1,17 +1,17 @@
 ---
 title: "Brindos, Lac & Château, una atípica mansión con habitaciones flotantes"
 date: 2022-08-10
-coverImage: etheria_images/2022/08/hotel-Brindos-Lac-Chateau-anglet.jpg
+coverImage: etheria-images/2022/08/hotel-Brindos-Lac-Chateau-anglet.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 A pocos kilómetros de Biarritz se sitúa ‘Brindos, Lac & Château’, uno de esos idílicos hoteles situado en un palacete cubierto de enredaderas pero que sorprende con una innovadora propuesta: 10 habitaciones flotantes sobre un lago. Esta original propuesta se localiza en Anglet, en el País Vasco Francés, y bien merece una escapada.
 
-![Fachada del hotel Brindos, Lac & Château.](etheria_images/2022/08/hotel-Brindos-Lac-Chateau-anglet.jpg "Fachada del hotel Brindos, Lac & Château. © Mathilde Ranchon")
+![Fachada del hotel Brindos, Lac & Château.](etheria-images/2022/08/hotel-Brindos-Lac-Chateau-anglet.jpg "Fachada del hotel Brindos, Lac & Château. © Mathilde Ranchon")
 
 A veces no es necesario viajar muy lejos para vivir experiencias nuevas y emocionantes. 
 Esta que te proponemos consiste en conocer las instalaciones de **Brindos, Lac & 
@@ -23,7 +23,7 @@ emplazamiento en un jardín, entre bosques y junto a un lago privado que añade 
 mágico al conjunto. Mimosas, retamas, azafrán, girasoles… ponen color al conjunto. De 
 sus peculiares habitaciones, cuidada gastronomía y de su spa te hablamos a continuación. 
 
-![Vista aérea del hotel Brindos, Lac & Château.](etheria_images/2022/08/Brindos-Lac-Chateau-vistas-hotel.jpg "Vista aérea del hotel Brindos, Lac & Château. © Mathilde Ranchon")
+![Vista aérea del hotel Brindos, Lac & Château.](etheria-images/2022/08/Brindos-Lac-Chateau-vistas-hotel.jpg "Vista aérea del hotel Brindos, Lac & Château. © Mathilde Ranchon")
 
 ## Cómo es el hotel Brindos, Lac & Château
 
@@ -40,7 +40,7 @@ entre las que elegir, desde la más básica (Habitaciones superiores, con 36 m2)
 joya de la corona, la Suite Presidencial que tiene una superficie de 85 m2, dos baños, 
 una terraza de 62 m2 y sala de estar. 
 
-![Suite del hotel Brindos, Lac & Château, en Anglet.](etheria_images/2022/08/Brindos-Lac-Chateau-anglet.jpg "Suite del hotel Brindos, Lac & Château, en Anglet. © Gaëlle Le Boulicaut")
+![Suite del hotel Brindos, Lac & Château, en Anglet.](etheria-images/2022/08/Brindos-Lac-Chateau-anglet.jpg "Suite del hotel Brindos, Lac & Château, en Anglet. © Gaëlle Le Boulicaut")
 
 ### Lodges flotantes en un lago
 
@@ -52,7 +52,7 @@ privados más grandes del país. Entre los lodges también existen categorías: 
 terraza de 25 m2 con baño noruego), Familiar (49 m2 + terraza de 25 m2) y Dobles (30 m2 
 + terraza de 25 m2). De esta manera se adaptan a las circunstancias más variadas. 
 
-![Interior y exterior de los Lodges flotantes del Brindos, Lac & Château de Anglet](etheria_images/2022/08/lodge-flotante-pais-vasco-frances.jpg "Lodges flotantes. © Gaëlle Le Boulicaut/ Aymeric Masson / Mathilde Ranchon")
+![Interior y exterior de los Lodges flotantes del Brindos, Lac & Château de Anglet](etheria-images/2022/08/lodge-flotante-pais-vasco-frances.jpg "Lodges flotantes. © Gaëlle Le Boulicaut/ Aymeric Masson / Mathilde Ranchon")
 
 ## Restaurantes del château Brindos
 
@@ -67,7 +67,7 @@ sí, deja lugar para el postre porque Mathieu Mandard, el chef repostero, sorpre
 sus pasteles vascos, las milhojas, el pastel Paris-Bayonne y su riquísimo borracho de 
 ron (o servido con el licor que prefieras). 
 
-![Cuatro espacios de restauración del hotel.](etheria_images/2022/08/resturantes-brindos-lac-chateau.jpg "Espacios de restauración y bares del hotel. © Mathilde Ranchon, Gaëlle Le Boulicaut,")
+![Cuatro espacios de restauración del hotel.](etheria-images/2022/08/resturantes-brindos-lac-chateau.jpg "Espacios de restauración y bares del hotel. © Mathilde Ranchon, Gaëlle Le Boulicaut,")
 
 ### Entre tapas, cócteles y chocolate caliente
 
@@ -85,7 +85,7 @@ Luis XIII y Ana de Austria. Aunque todas las elaboraciones de la chocolatería m
 probarse (cookies, bizcochos, pastitas), la más conocida es el **chocolate caliente 
 espumoso**, un clásico a la hora de tomar el té. 
 
-![Spa del hotel Brindos, Lac & Château, en Anglet](etheria_images/2022/08/spa-hotel-Brindos-anglet.jpg "Spa del hotel Brindos, Lac & Château, en Anglet (País Vasco Francés). © Mathilde Ranchon")
+![Spa del hotel Brindos, Lac & Château, en Anglet](etheria-images/2022/08/spa-hotel-Brindos-anglet.jpg "Spa del hotel Brindos, Lac & Château, en Anglet (País Vasco Francés). © Mathilde Ranchon")
 
 ## Un masaje o un hamman
 

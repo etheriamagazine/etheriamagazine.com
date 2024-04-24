@@ -1,11 +1,11 @@
 ---
 title: "Ruta de cine: 'Primos' en Comillas"
 date: 2019-09-03
-coverImage: etheria_images/2019/07/Viaje-comillas-vista-aerea.jpg
+coverImage: etheria-images/2019/07/Viaje-comillas-vista-aerea.jpg
 categories: 
   - viajes-cine
-author: 
-  - colaboradores
+authors: 
+  - Firmas invitadas
 ---
 
 La preciosa villa modernista de Comillas, en Cantabria, sirvió de plató cinematográfico 
@@ -15,7 +15,7 @@ sus escenarios y vivir nuestra propia aventura.
 
 **Texto: Elena Ruiz Fotos: Archivo del Ayuntamiento de Comillas** 
 
-![Plaza el corro en Comillas](etheria_images/2019/07/viaje-comillas-el-corro.jpg "El Corro, en Comillas.")
+![Plaza el corro en Comillas](etheria-images/2019/07/viaje-comillas-el-corro.jpg "El Corro, en Comillas.")
 
 Antes de empezar a leer, asegúrate de que esté sonando “Quiet town” de Josh Rouse. No 
 por capricho propio, sino porque estás a punto de realizar un viaje de película y, como 
@@ -27,7 +27,7 @@ despejado. Cinco chicas cantan mientras ven el mar acercarse. Imagina también q
 tus amigas de toda la vida se casa y que su película favorita es **'Primos', de Daniel 
 Sánchez Arévalo**. 
 
-![Protagonistas de la pelicula Primos en Comillas](etheria_images/2019/08/fotograma-pelicula-primos.jpg "Fotograma película 'Primos'.")
+![Protagonistas de la pelicula Primos en Comillas](etheria-images/2019/08/fotograma-pelicula-primos.jpg "Fotograma película 'Primos'.")
 
 Lleváis años viéndola juntas, os sabéis los diálogos y hasta habéis fantaseado con ir 
 alguna vez a conocer las fiestas del pueblecito donde se rodó. Entenderás, entonces, que 
@@ -52,7 +52,7 @@ experiencia completa. Por eso, nuestra **ruta por Comillas** pasa por visitar lo
 escenarios en los que se rodaron algunas de las escenas de la película, pero, también, 
 por experimentar, a nuestro modo, ciertas vivencias. 
 
-![Palacio de sobrellano en Comillas](etheria_images/2019/08/viaje-comillas-modernismo-e1566465913398.jpg "Palacio de Sobrellano.")
+![Palacio de sobrellano en Comillas](etheria-images/2019/08/viaje-comillas-modernismo-e1566465913398.jpg "Palacio de Sobrellano.")
 
 El **Corro Campíos** es, desde sus inicios, un lugar configurado para el ocio, donde se 
 solía jugar a los bolos y se celebraban los bailes y fiestas. Para nosotras, es, sobre 
@@ -64,7 +64,7 @@ sigue manteniendo su carácter lúdico y de reunión. Por eso, nuestros pasos no
 en varias ocasiones por aquí, especialmente al llegar la noche, pues es en la plaza 
 donde tienen lugar las **verbenas nocturnas**. 
 
-![Protagonistas de la pelicula primos en una feria de Comillas](etheria_images/2019/08/pelicula-primos-ruta.jpg "© Fotograma de 'Primos'.")
+![Protagonistas de la pelicula primos en una feria de Comillas](etheria-images/2019/08/pelicula-primos-ruta.jpg "© Fotograma de 'Primos'.")
 
 ## La iglesia de San Cristóbal
 
@@ -79,7 +79,7 @@ uno de los momentos más memorables de su cinta: la **actuación de “_Backstre
 Primos_”** –tal vez sea buen momento para cambiar de canción y darle al _play_ al tema 
 que bailan, “_As long as you love me_”, de los Backstreet Boys–. 
 
-![Monumento al marques de Comillas](etheria_images/2019/07/Viaje-comillas-vista-aerea.jpg "Monumento al marqués de Comillas.")
+![Monumento al marques de Comillas](etheria-images/2019/07/Viaje-comillas-vista-aerea.jpg "Monumento al marqués de Comillas.")
 
 ## Verbenas de verano
 
@@ -99,7 +99,7 @@ recinto sirve como mirador desde el que se puede observar todo el pueblo y el ma
 las alturas. Allí, aparecen sentados junto a la escultura de piedra de una cruz, José 
 Miguel y Toña –Alicia Rubio–, mientras charlan. 
 
-![Cementerio modernista de Comillas](etheria_images/2019/07/viaje-comillas-modernista-cementerio.jpg "Cementerio modernista de Comillas.")
+![Cementerio modernista de Comillas](etheria-images/2019/07/viaje-comillas-modernista-cementerio.jpg "Cementerio modernista de Comillas.")
 
 ## Ruta modernista en Comillas
 
@@ -120,7 +120,7 @@ entrar al enorme recinto que se entrevé desde fuera, pero un simple vistazo sir
 poder contextualizar un poco más esa casa en la que tienen lugar algunas de las escenas 
 de la cinta. 
 
-![Playa de Comillas un escenario de la pelicula Primos](etheria_images/2019/07/viaje-comillas-playa.jpg "Playa de Comillas.")
+![Playa de Comillas un escenario de la pelicula Primos](etheria-images/2019/07/viaje-comillas-playa.jpg "Playa de Comillas.")
 
 ## La playa y el puerto de Comillas
 
@@ -129,7 +129,7 @@ verde brillante de las montañas que son casi lamidas por el agua, tan mansa que
 parece cantábrica, y la arena amarilla, fina, fresca “parece mantequilla”, oigo decir a 
 una de mis viajeras amigas mientras caminamos descalzas y mojadas sobre ella. 
 
-![Puerto de Comillas](etheria_images/2019/07/viaje-comillas-pelicula-primos-puerto.jpg "Puerto de Comillas.")
+![Puerto de Comillas](etheria-images/2019/07/viaje-comillas-pelicula-primos-puerto.jpg "Puerto de Comillas.")
 
 Y, junto a la playa, el puerto de Comillas. Pequeño y recogido, en él vimos al Bachi 
 lanzarse a dormir al mar y a Diego coger la bandera en la famosa y **tradicional 

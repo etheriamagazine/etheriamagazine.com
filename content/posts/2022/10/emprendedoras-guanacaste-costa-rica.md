@@ -1,12 +1,12 @@
 ---
 title: "Conoce los secretos de Guanacaste y la ilusión de sus emprendedoras"
 date: 2022-10-27
-coverImage: etheria_images/2022/10/Guanacaste-playa-hermosa.jpg
+coverImage: etheria-images/2022/10/Guanacaste-playa-hermosa.jpg
 categories: 
   - viajes-con-amigas
   - historias-en-femenino
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La región de Guanacaste combina frondosos parques en el interior con una costa de playas 
@@ -15,7 +15,7 @@ entorno te presentamos a Dalila Cascante y Santos Girón, dos mujeres emprendedo
 con mucho trabajo y proyectos enfocados en el turismo han dado forma a su carrera 
 profesional y ayudan cada día a dinamizar la economía de sus localidades. 
 
-![Playa Hermosa, en la península de Papagayo.](etheria_images/2022/10/Guanacaste-playa-hermosa.jpg "Playa Hermosa, en la península de Papagayo. © Joan Vendrell.")
+![Playa Hermosa, en la península de Papagayo.](etheria-images/2022/10/Guanacaste-playa-hermosa.jpg "Playa Hermosa, en la península de Papagayo. © Joan Vendrell.")
 
 La región de Guanacaste es para muchos una etapa imprescindible en un **viaje a Costa 
 Rica**. Permite combinar el turismo activo en sus Parques Nacionales con días de 
@@ -40,7 +40,7 @@ Palo Verde que terminan con un almuerzo que también es preparado por ellos con 
 colaboración de productores locales que ofrecen materias primas de primera calidad. De 
 esta forma ayudan a que otras familias se vean beneficiadas de la llegada del turismo. 
 
-![mujer empresaria de Costa Rica](etheria_images/2022/10/guanacaste-dalila-683x1024.jpg "Dalila Cascante, empresaria turística de Costa Rica.")
+![mujer empresaria de Costa Rica](etheria-images/2022/10/guanacaste-dalila-683x1024.jpg "Dalila Cascante, empresaria turística de Costa Rica.")
 
 Dalila tuvo que apostar por la creatividad para crear una empresa como ésta con pocos 
 recursos y piensa que esa creatividad es precisamente el secreto de su éxito. Para ella 
@@ -65,7 +65,7 @@ guanacasteca que podrás conocer en tu viaje a Guanacaste.
 
 ? Puede conocer su testimonio en este [vídeo](https://www.youtube.com/watch?v=6CqsqW5DGMw). 
 
-![mujer cocinera de Costa Rica](etheria_images/2022/10/Guanacaste-Antonina.jpg "Santos Girón, cocinera de "las mujeres del maíz" de Guanacaste.")
+![mujer cocinera de Costa Rica](etheria-images/2022/10/Guanacaste-Antonina.jpg "Santos Girón, cocinera de "las mujeres del maíz" de Guanacaste.")
 
 ## 10 lugares de Guanacaste que no puedes perderte
 
@@ -88,7 +88,7 @@ excursión como la que propone **Dalila Cascante** con su empresa Palo Verde Tou
 que prestar atención y seguir las indicaciones de los guías para disfrutar de su fauna: 
 cigüeñas, garzas, ibis, garcetas, guacamayos, tucanes… Una experiencia inolvidable. 
 
-![Laguna de Palo Verde en Guanacaste](etheria_images/2022/10/guanacaste-Palo-Verde.jpg "Laguna de Palo Verde.")
+![Laguna de Palo Verde en Guanacaste](etheria-images/2022/10/guanacaste-Palo-Verde.jpg "Laguna de Palo Verde.")
 
 ### Reserva Biológica Lomas de Barbudal
 
@@ -107,7 +107,7 @@ formada en torno a una catarata de 30 metros de altura. El acceso es sencillo a 
 de un camino por el bosque tropical que la rodea. Es un plan perfecto para dedicar unas 
 horas al descanso entre caminata y caminata. 
 
-![Cataratas Llanos del Cortez en Guanacaste](etheria_images/2022/10/guanacaste-Cataratas-Llano-Cortez.jpg "Cataratas Llanos del Cortez.")
+![Cataratas Llanos del Cortez en Guanacaste](etheria-images/2022/10/guanacaste-Cataratas-Llano-Cortez.jpg "Cataratas Llanos del Cortez.")
 
 ### Playa Tamarindo
 
@@ -117,7 +117,7 @@ encontrar hoteles de calidad en los que disfrutar del mar tumbado sobre la arena
 También es un lugar perfecto para **surf** y ha sido galardonada durante muchos años con 
 la **Bandera Azul Ecológica** que reconoce su compromiso con el medio ambiente. 
 
-![surf en Playa Tamarindo al atardecer.](etheria_images/2022/10/Guanacaste-Tamarindo.jpg "Playa Tamarindo. © Joan Vendrell.")
+![surf en Playa Tamarindo al atardecer.](etheria-images/2022/10/Guanacaste-Tamarindo.jpg "Playa Tamarindo. © Joan Vendrell.")
 
 ### Parque Nacional Marino Las Baulas
 
@@ -127,7 +127,7 @@ tortuga más grande del mundo y que se encuentra en peligro de extinción. De he
 zona de anidación de esta tortuga más grande del Pacífico americano. Durante el día, se 
 pueden hacer rutas de senderismo por el estero Tamarindo y paseos a caballo. 
 
-![Tortugas en la playa del Ostional en Costa Rica](etheria_images/2022/10/guanacaste-ostional.jpg "Arribada de tortugas en el Refugio del Ostional.")
+![Tortugas en la playa del Ostional en Costa Rica](etheria-images/2022/10/guanacaste-ostional.jpg "Arribada de tortugas en el Refugio del Ostional.")
 
 ### Refugio Nacional de Vida Silvestre Ostional
 
@@ -146,7 +146,7 @@ Ocotal, del Coco, Hermosa o Panamá, de arena blanca y mar tranquilo y el bosque
 seco que las enmarca. Cuenta con una marina bien equipada y es una zona perfecta para 
 familias en la que se puede practicar buceo y deportes acuáticos. 
 
-![yate frente a las costas de Papagayo en Guanacaste](etheria_images/2022/10/guanacaste-papagayo.jpg "Excursión familiar en la península de Papagayo.")
+![yate frente a las costas de Papagayo en Guanacaste](etheria-images/2022/10/guanacaste-papagayo.jpg "Excursión familiar en la península de Papagayo.")
 
 ### Parque Nacional Rincón de la Vieja
 
@@ -159,7 +159,7 @@ También se puede conocer de cerca parte de la variada fauna de Costa Rica, con 
 300 especies de aves y mamíferos como monos, mapaches, armadillos, perezosos, osos 
 hormigueros, pumas y jaguares. 
 
-![Parque Nacional Rincón de la Vieja.](etheria_images/2022/10/Guanacaste-Rincon-de-la-vieja.jpg "Volcán Rincón de la Vieja.")
+![Parque Nacional Rincón de la Vieja.](etheria-images/2022/10/Guanacaste-Rincon-de-la-vieja.jpg "Volcán Rincón de la Vieja.")
 
 Es perfecto para hacer senderismo y está dividido en dos sectores: Las Pailas (con 
 varios senderos, entre ellos el que lleva a los cráteres); y Santa María (también con 
@@ -178,7 +178,7 @@ lancha. La zona también tiene un importante patrimonio histórico y destaca el 
 Histórico Casona de Santa Rosa**, dedicado a recordar la cultura de las haciendas de 
 Guanacaste y la Batalla de Santa Rosa, que tuvo lugar aquí en 1856. 
 
-![Museo Histórico Casona de Santa Rosa.](etheria_images/2022/10/guanacaste-Santa-Rosa.jpg "Museo Histórico Casona de Santa Rosa.")
+![Museo Histórico Casona de Santa Rosa.](etheria-images/2022/10/guanacaste-Santa-Rosa.jpg "Museo Histórico Casona de Santa Rosa.")
 
 ### Parque Nacional de Guanacaste
 

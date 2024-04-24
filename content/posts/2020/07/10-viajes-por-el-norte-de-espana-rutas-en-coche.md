@@ -1,18 +1,18 @@
 ---
 title: "10 viajes por el norte de España para buscar el fresquito"
 date: 2020-07-20
-coverImage: etheria_images/2019/03/camino-oculto-pais-vasco.jpg
+coverImage: etheria-images/2019/03/camino-oculto-pais-vasco.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si lo que buscas es pasar tus vacaciones de verano en España alejada de las altas temperaturas, la opción más segura es el norte de la Península. Aquí te proponemos 10 viajes para que disfrutes de sus paisajes, sus playas y su gastronomía, perfectos tanto si viajas en familia como si vas a realizar una escapada con amigas.
 
-![barcos de pesca en Bermeo](etheria_images/2020/07/viaje-norte-bizkaia.jpg "Puerto de Bermeo.")
+![barcos de pesca en Bermeo](etheria-images/2020/07/viaje-norte-bizkaia.jpg "Puerto de Bermeo.")
 
 El norte de España es una fuente inagotable de viajes, tanto de fin de semana como para 
 dedicar unas vacaciones completas. Si nos centramos en la cornisa Cantábrica, aparecen 
@@ -44,7 +44,7 @@ y apunta las direcciones que no puedes perderte para degustar la capital.
 ? [Avistar cetáceos en la costa vasca, una experiencia 
 inolvidable](https://etheriamagazine.com/2020/04/20/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco/). 
 
-![Delfines en el Cantábrico](etheria_images/2020/03/viaje-mujeres-bizkaia-ver-delfines-900x576.jpg "Avistamiento de cetáceos en el golfo de Bizkaia.")
+![Delfines en el Cantábrico](etheria-images/2020/03/viaje-mujeres-bizkaia-ver-delfines-900x576.jpg "Avistamiento de cetáceos en el golfo de Bizkaia.")
 
 ## 2\. Cañones en el País Vasco
 
@@ -56,7 +56,7 @@ mina en la vertiente norte de la sierra de Aralar o el Parque Natural de Aizkorr
 ?[Paisajes del agua en los 10 mejores cañones del País 
 Vasco](https://etheriamagazine.com/2019/04/09/viajes-naturaleza-mejores-canones-pais-vasco/). 
 
-![Barranco de Arantzazu al atardecer](etheria_images/2019/03/camino-oculto-pais-vasco.jpg "Barranco de Arantzazu (País Vasco).")
+![Barranco de Arantzazu al atardecer](etheria-images/2019/03/camino-oculto-pais-vasco.jpg "Barranco de Arantzazu (País Vasco).")
 
 ## 3\. San Sebastián y la costa vasca
 
@@ -72,7 +72,7 @@ amigas](http://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-
 ? [Planes para un fin de semana en San Sebatián: seguro que no te 
 aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/). 
 
-![Paseo de la Concha](etheria_images/2018/04/San-Sebastian-paseo-de-la-Concha-Etheriamagazine-e1593857818824.jpg "Playa de la Concha en San Sebastián. © SG")
+![Paseo de la Concha](etheria-images/2018/04/San-Sebastian-paseo-de-la-Concha-Etheriamagazine-e1593857818824.jpg "Playa de la Concha en San Sebastián. © SG")
 
 ## 4\. Cantabria desconocida
 
@@ -89,7 +89,7 @@ divertido](https://etheriamagazine.com/2018/07/13/cantabria-viaje-en-familia/).
 ? [Lugares sorprendentes de Cantabria que aún no 
 conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/). 
 
-![Bosque de Cantabria](etheria_images/2020/06/viaje-bosque-secuoyas-cantabria-900x649.jpg "Paseando en el bosque de secuoyas de Cantabria. © Alfredo G. Reyes")
+![Bosque de Cantabria](etheria-images/2020/06/viaje-bosque-secuoyas-cantabria-900x649.jpg "Paseando en el bosque de secuoyas de Cantabria. © Alfredo G. Reyes")
 
 ## 5\. Ruta por los faros de Cantabria
 
@@ -101,7 +101,7 @@ o para visitar alguno de ellos si te encuentras pasando unos días en Cantabria.
 ? [Ruta por los mejores faros de 
 Cantabria](https://etheriamagazine.com/2020/05/18/viaje-a-los-mejores-faros-de-cantabria/). 
 
-![Ola azotando el Faro de la isla de Mouro](etheria_images/2020/04/faros-cantabria-isla-mouro-900x585.jpg "Faro de la isla de Mouro (Santander, Cantabria).")
+![Ola azotando el Faro de la isla de Mouro](etheria-images/2020/04/faros-cantabria-isla-mouro-900x585.jpg "Faro de la isla de Mouro (Santander, Cantabria).")
 
 ## 6\. Asturias con amigas
 
@@ -116,7 +116,7 @@ una parada que tiene que estar sí o sí en vuestra ruta.
 ? [Asturias en coche, guía para un viaje legendario con 
 amigas](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindible/). 
 
-![playa Torimbia, una de las mejores del norte de España](etheria_images/2020/07/Asturias-playa-Torimbia.jpg "Panorámica de la playa de Torimbia. © Yolanda Cardo")
+![playa Torimbia, una de las mejores del norte de España](etheria-images/2020/07/Asturias-playa-Torimbia.jpg "Panorámica de la playa de Torimbia. © Yolanda Cardo")
 
 ## 7\. Picos de Europa
 
@@ -128,7 +128,7 @@ Naranjo de Bulnes, Fuente Dé, los lagos de Covadonga y Cangas de Onís. ¿A que
 ? [Picos de Europa, una ruta por la columna vertebral de Asturias, León y 
 Cantabria](http://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/). 
 
-![Pareja sentada en lago Covadonga](etheria_images/2018/10/Parque-Natural-Picos-Europa-1024x683.jpg "Parque Nacional Picos de Europa. ©Patronato de Turismo de Asturias.")
+![Pareja sentada en lago Covadonga](etheria-images/2018/10/Parque-Natural-Picos-Europa-1024x683.jpg "Parque Nacional Picos de Europa. ©Patronato de Turismo de Asturias.")
 
 ## 8\. El Camino de Finisterre
 
@@ -141,7 +141,7 @@ paisajes increíbles del Cabo de Fisterra.
 ? [El Camino de Finisterre: plan de fuga a los misterios del fin del 
 mundo](https://etheriamagazine.com/2019/03/06/camino-de-finisterre-fairway/). 
 
-![Un vecino de Fisterra saluda en la playa Langosteira.](etheria_images/2019/02/Fisterra-camino-finisterre.jpg "Un vecino de Fisterra saluda en la playa Langosteira. © K.R.")
+![Un vecino de Fisterra saluda en la playa Langosteira.](etheria-images/2019/02/Fisterra-camino-finisterre.jpg "Un vecino de Fisterra saluda en la playa Langosteira. © K.R.")
 
 ## 9\. Ribeira Sacra
 
@@ -154,7 +154,7 @@ con amigas o en familia.
 ? [Planes en la Ribeira Sacra para descubrir sus mayores 
 secretos](https://etheriamagazine.com/2021/06/17/planes-en-la-ribeira-sacra-con-amigas/). 
 
-![viñas en las laderas del Sil en la Ribeira Sacra](etheria_images/2020/07/norte-ribeira-sacra.jpg "Viticultura heroica en Ribeira Sacra. © Cynthia Martín")
+![viñas en las laderas del Sil en la Ribeira Sacra](etheria-images/2020/07/norte-ribeira-sacra.jpg "Viticultura heroica en Ribeira Sacra. © Cynthia Martín")
 
 ## 10\. Costa de Pontevedra en familia
 
@@ -166,7 +166,7 @@ Cambados hasta un paseo por la Ruta de las Pedras Negras en la península de O�
 ? [8 planes con niños en la costa de 
 Pontevedra](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/). 
 
-![Joven en el mirador de la ruta de las Pedras Negras](etheria_images/2019/09/ogrove-ruta-pedras-negras-900x587.jpg "Mirador en la ruta de las Pedras Negras.(Pontevedra). © SG")
+![Joven en el mirador de la ruta de las Pedras Negras](etheria-images/2019/09/ogrove-ruta-pedras-negras-900x587.jpg "Mirador en la ruta de las Pedras Negras.(Pontevedra). © SG")
 
 ### También te puede interesar:
 

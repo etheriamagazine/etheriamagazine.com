@@ -1,14 +1,14 @@
 ---
 title: "Elige uno de estos 10 motivos para viajar a La Siberia extremeña"
 date: 2021-09-26
-coverImage: etheria_images/2021/09/miradores-Reserva-Biosfera-La-Siberia.jpg
+coverImage: etheria-images/2021/09/miradores-Reserva-Biosfera-La-Siberia.jpg
 categories: 
   - viaje-en-familia
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Once pueblos rodeados de montañas, bosques, dehesas, embalses, ríos y olivares, una 
@@ -17,7 +17,7 @@ cielo limpio donde brillan las estrellas y muchos motivos más justifican una vi
 Siberia extremeña. Elige tu razón favorita y sube al coche porque nos vamos a la 
 provincia de Badajoz. 
 
-![Bosque de Ribera Guadalupejo, en la Reserva de la Biosfera La Siberia.](etheria_images/2021/09/bosque-ribera-Reserva-Biosfera-La-Siberia.jpg "Bosque de Ribera Guadalupejo, en la Reserva de la Biosfera La Siberia.")
+![Bosque de Ribera Guadalupejo, en la Reserva de la Biosfera La Siberia.](etheria-images/2021/09/bosque-ribera-Reserva-Biosfera-La-Siberia.jpg "Bosque de Ribera Guadalupejo, en la Reserva de la Biosfera La Siberia.")
 
 **Actualizado 10/2023** 
 
@@ -31,7 +31,7 @@ las tradiciones, de “ir de pueblos”, y de comer bien son más que bienvenido
 que vivan en la zona central de la Península, tardarán sólo unas dos horas en llegar. Es 
 una excursión ideal desde Madrid, Toledo, Ávila, Salamanca o Sevilla. 
 
-![embalses de la reserva de la biosfera la siberia](etheria_images/2021/09/kayak-Reserva-Biosfera-La-Siberia.jpg "En la Reserva de la Biosfera de La Siberia existen auténticos mares de interior.")
+![embalses de la reserva de la biosfera la siberia](etheria-images/2021/09/kayak-Reserva-Biosfera-La-Siberia.jpg "En la Reserva de la Biosfera de La Siberia existen auténticos mares de interior.")
 
 ## Elige tu motivo para viajar a La Siberia extremeña:
 
@@ -46,7 +46,7 @@ Km. 3, Peloche, Tel. 659 650 706), un restaurante donde saborear el tradicional
 escarapuche de Peloche (ensalada de carne asada) o unas chuletas de lechal siberiano con 
 vistas al mar (de interior). 
 
-![rutas por la siberia extremena](etheria_images/2021/09/senderismo-Reserva-Biosfera-La-Siberia.jpg "Los ecosistemas son tan variados en La Siberia que cada ruta es un descubrimiento.")
+![rutas por la siberia extremena](etheria-images/2021/09/senderismo-Reserva-Biosfera-La-Siberia.jpg "Los ecosistemas son tan variados en La Siberia que cada ruta es un descubrimiento.")
 
 ### 2\. Hacer una ruta senderista
 
@@ -58,7 +58,7 @@ guía de rutas porque existen [34 rutas
 senderistas](https://turismolasiberia.juntaex.es/senderismo) y seguro que encuentras una 
 que se adapte a tus gustos y a tu capacidad física. 
 
-![astroturismo en la siberia extremena](etheria_images/2021/09/Reserva-Biosfera-La-Siberia-astroturismo.jpg "Al caer la noche el espectáculo está en el cielo.")
+![astroturismo en la siberia extremena](etheria-images/2021/09/Reserva-Biosfera-La-Siberia-astroturismo.jpg "Al caer la noche el espectáculo está en el cielo.")
 
 ### 3\. Identificar estrellas en La Siberia
 
@@ -73,7 +73,7 @@ Peñas** (Helechosa de los Montes, apartamentoshelechosa.es) y desayunar a la ma
 siguiente unas contundentes **migas siberianas** con tasajo, pimientos secos fritos y 
 miel de la comarca. 
 
-![observacion aves siberia extremena](etheria_images/2021/09/observar-aves-Reserva-Biosfera-La-Siberia-683x1024.jpg "Observar aves, una actividad para toda la familia en la Reserva de la Biosfera La Siberia")
+![observacion aves siberia extremena](etheria-images/2021/09/observar-aves-Reserva-Biosfera-La-Siberia-683x1024.jpg "Observar aves, una actividad para toda la familia en la Reserva de la Biosfera La Siberia")
 
 ### 4\. Observar aves
 
@@ -85,7 +85,7 @@ La ayuda de algún especialista siempre viene bien, pero si no lo más fácil es
 grullas que acuden juntas a comederos y dormideros, gansos, etc. Este lugar acoge aves 
 migratorias que llegan del norte de Europa buscando un clima menos extremo. 
 
-![setas badajoz](etheria_images/2021/09/coger-setas.jpg "Las setas son las protagonistas del otoño.")
+![setas badajoz](etheria-images/2021/09/coger-setas.jpg "Las setas son las protagonistas del otoño.")
 
 ### 5\. Salir a por setas
 
@@ -95,7 +95,7 @@ organizan jornadas micológicas tan interesantes como [MYCOSFERA](http://www.myc
 en torno al níscalo, en el pueblo de Castilblanco. Consulta su programa porque hay un 
 montón de actividades, además de cocina en vivo, rutas y senderismo micológico, etc. 
 
-![productos badajoz la siberia](etheria_images/2021/09/productos-La-Siberia-extremena.jpg "Quesos, embutido, miel, repostería... el pícnic perfecto.")
+![productos badajoz la siberia](etheria-images/2021/09/productos-La-Siberia-extremena.jpg "Quesos, embutido, miel, repostería... el pícnic perfecto.")
 
 ### 6\. Platos y productos con sabor y tradición
 
@@ -105,7 +105,7 @@ allí? Caldereta de cordero, migas, ajoblanco, guiso de liebre y escarapuche, en
 platos “ligeros”. Además, tiene productos exquisitos como quesos, miel y repostería 
 típica de sus once municipios. 
 
-![miel de la siberia extremena](etheria_images/2021/09/miel-Reserva-Biosfera-La-Siberia.jpg "La Siberia extremeña es uno de los mayores lugares de producción de miel.")
+![miel de la siberia extremena](etheria-images/2021/09/miel-Reserva-Biosfera-La-Siberia.jpg "La Siberia extremeña es uno de los mayores lugares de producción de miel.")
 
 ? Restaurantes y direcciones de interés: en **Herrera del Duque** se encuentra _La 
 Marina_ (con un solete Repsol), el _Mesón la Quinta Rueda_ con un rico escarapuche, el 
@@ -121,7 +121,7 @@ de la hermana _Antonia_. En Villarta de los Montes te esperan los platos tradici
 de _El Andaluz_**;** y los mejores bollos de chicharrón y candelillas en _El Chorro_. 
 Las mermeladas artesanas _Glasai_ las elabora Victoria en Valdecaballeros… 
 
-![tholos cerro de la barca siberia extremena](etheria_images/2021/09/ruta-historica-La-Siberia-extremena.jpg "Tholos del Cerro de la Barca.")
+![tholos cerro de la barca siberia extremena](etheria-images/2021/09/ruta-historica-La-Siberia-extremena.jpg "Tholos del Cerro de la Barca.")
 
 ### 7\. Historia al cuadrado
 
@@ -141,7 +141,7 @@ fenomenal, pero si necesitas algo más “fuerte” puede que te interesen las r
 todoterreno, BTT o un itinerario a caballo. No tendrás problema para encontrar alguna 
 empresa que te proporcione todo el material u organice la actividad. 
 
-![vistas miradores de siberia extremena](etheria_images/2021/09/miradores-Reserva-Biosfera-La-Siberia.jpg "Los miradores de La Siberia extremeña regalan bellísimas panorámicas.")
+![vistas miradores de siberia extremena](etheria-images/2021/09/miradores-Reserva-Biosfera-La-Siberia.jpg "Los miradores de La Siberia extremeña regalan bellísimas panorámicas.")
 
 ### 9\. Vistas desde las alturas: 16 miradores
 
@@ -150,7 +150,7 @@ realizar la ruta de los 16 miradores que proporciona otras tantas panorámicas i
 Además, se puede recorrer en coche o moto siguiendo las carreteras N-502 y la N-430. Si 
 acudes en otoño, existen dos miradores naturales donde escuchar la berrea del ciervo. 
 
-![fiestas la siberia extremena](etheria_images/2021/09/Fiestas-la-Siberia-extremena.jpg "Las tradiciones en La Siberia extremeña están muy arraigadas.")
+![fiestas la siberia extremena](etheria-images/2021/09/Fiestas-la-Siberia-extremena.jpg "Las tradiciones en La Siberia extremeña están muy arraigadas.")
 
 ### 10\. Fiesta de la Trasterminancia
 
@@ -168,7 +168,7 @@ la visitas en otro momento, también existen otros festejos tan lucidos como la 
 La Jara en Flor (abril), Los Diablucos de Helechosa de los Montes, Los Danzantes de 
 Peloche o Los Danzaores de Garbayuela. 
 
-![ovejas la siberia extremena](etheria_images/2021/09/ovejas-reserva-biosfera-La-Siberia.jpg "Ovejas en La Siberia extremeña.")
+![ovejas la siberia extremena](etheria-images/2021/09/ovejas-reserva-biosfera-La-Siberia.jpg "Ovejas en La Siberia extremeña.")
 
 ¿Necesitas algún motivo más para viajar a la Reserva de la Biosfera de La Siberia 
 extremeña? Su amplia agenda festiva te proporcionará cuantas excusas precises para 

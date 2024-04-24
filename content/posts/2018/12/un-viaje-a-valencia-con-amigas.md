@@ -1,13 +1,13 @@
 ---
 title: "Escapada a Valencia con amigas en invierno"
 date: 2018-12-04
-coverImage: etheria_images/2018/11/valencia-con-amigas-Palau-Alameda.jpg
+coverImage: etheria-images/2018/11/valencia-con-amigas-Palau-Alameda.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - macarenaetheria
+authors: 
+  - Macarena Escrivá
 ---
 
 Si te decimos que para el puente de diciembre las temperaturas máximas serán de 20 
@@ -15,7 +15,7 @@ grados, seguro que correrás a preguntarnos dónde. En Valencia. La capital del 
 de las bondades de una climatología envidiable y un tamaño perfecto para tu próxima 
 escapada con amigas. 
 
-![Palau Alameda, un imprescindible de la noche en Valencia.](etheria_images/2018/11/valencia-con-amigas-Palau-Alameda-1024x580.jpg "Palau Alameda, un imprescindible de la noche en Valencia.")
+![Palau Alameda, un imprescindible de la noche en Valencia.](etheria-images/2018/11/valencia-con-amigas-Palau-Alameda-1024x580.jpg "Palau Alameda, un imprescindible de la noche en Valencia.")
 
 Manga corta en diciembre? ¿Pasear junto al mar en invierno? ¡Sí! Y además disfrutar de 
 una ciudad vibrante, divertida, accesible y gastronómicamente deliciosa. Coge a tus 
@@ -29,7 +29,7 @@ y conocer la Ciudad de las Artes y las Ciencias y la impresionante arquitectura 
 Calatrava o la zona de la Marina con sus novedades. Todo plan se antoja apetecible en 
 Valencia. 
 
-![Apartamentos 'La más bonita' (Valencia).](etheria_images/2018/11/valencia-con-amigas-Apartamentos-La-Mas-Bonita.jpg "Apartamentos 'La más bonita' (Valencia).")
+![Apartamentos 'La más bonita' (Valencia).](etheria-images/2018/11/valencia-con-amigas-Apartamentos-La-Mas-Bonita.jpg "Apartamentos 'La más bonita' (Valencia).")
 
 ## ¿Dónde alojarse en una escapada con amigas a Valencia?
 
@@ -44,7 +44,7 @@ regalo de bienvenida: un ticket de descuento de 20 euros de su restaurante de la
 Patacona, un mapa con los puntos más interesantes de la ciudad y productos de calidad 
 del barrio del Cabañal. 
 
-![Desayuno en La más bonita (Valencia).](etheria_images/2018/11/valencia-con-amigas-Desayuno-La-Mas-bonita.jpg "Desayuno en La más bonita (Valencia).")
+![Desayuno en La más bonita (Valencia).](etheria-images/2018/11/valencia-con-amigas-Desayuno-La-Mas-bonita.jpg "Desayuno en La más bonita (Valencia).")
 
 ## Desayuno y a recorrer la ciudad
 
@@ -58,7 +58,7 @@ que hereda la esencia de la pastelería argentina de la familia Lanfranco. Alfaj
 cañoncitos rellenos de dulce de leche, chocotartas, tarta de Oreo, tartaletas de limón, 
 empanadas... ¡Se nos hace la boca agua solo de pensarlo! 
 
-![Dulce de Leche es la mejor pastelería de Valencia.](etheria_images/2018/11/valencia-con-amigas-Dulce-de-Leche.jpg "Dulce de Leche es la mejor pastelería de Valencia.")
+![Dulce de Leche es la mejor pastelería de Valencia.](etheria-images/2018/11/valencia-con-amigas-Dulce-de-Leche.jpg "Dulce de Leche es la mejor pastelería de Valencia.")
 
 La ciudad estrena varios espacios destinados a convertirse en lo más visitados de estos 
 días. Empezamos por el **mercado de San Valero** (mercadosanvalero.com). Se trata del 
@@ -66,7 +66,7 @@ primer _street food market_ de Valencia, ubicado en Ruzafa, que cuenta con diez 
 diferentes (Aguacateria Club, Ostrarium bar, Poke Bros y Mangiamo!, entre otros), barra 
 y vinoteca para montar un plan divertido entre amigas. 
 
-![Mercado de San Valero (Valencia).](etheria_images/2018/11/valencia-con-amigas-Mercado-San-Valero.jpg "Mercado de San Valero (Valencia).")
+![Mercado de San Valero (Valencia).](etheria-images/2018/11/valencia-con-amigas-Mercado-San-Valero.jpg "Mercado de San Valero (Valencia).")
 
 Otra de los que ha causado furor, ha sido la apertura de **Convent Carmen** 
 (conventcarmen.com). El que fuera un convento de 1609 se ha transformado en un espacio 
@@ -75,7 +75,7 @@ música en directo, exposiciones y un impresionante jardín de 2000 m2 que acoge
 mercado gastronómico al aire libre –con más de 100 platos diferentes– dirigido por el 
 chef de Sucede (estrella Michelin) Miguel Ángel Mayor. 
 
-![En Convent Carmen, entre otras actividades, puedes practicar yoga.](etheria_images/2018/11/valencia-con-amigas-Convent-Carmen-yoga.jpg "En Convent Carmen, entre otras actividades, puedes practicar yoga.")
+![En Convent Carmen, entre otras actividades, puedes practicar yoga.](etheria-images/2018/11/valencia-con-amigas-Convent-Carmen-yoga.jpg "En Convent Carmen, entre otras actividades, puedes practicar yoga.")
 
 ## ¿Dónde comer bien en Valencia?
 
@@ -87,7 +87,7 @@ gallega, ostras escabechadas, caldereta de bogavante... son solo algunas de las
 deliciosas propuestas que conforman su carta, en la que el producto se presenta con mimo 
 y sin nada que enmascare su sabor. 
 
-![Llisa Negra es el nuevo restaurante de Quique Dacosta en Valencia.](etheria_images/2018/11/valencia-con-amigas-Llisa-Negra-Quique-Dacosta.jpg "Llisa Negra es el nuevo restaurante de Quique Dacosta en Valencia.")
+![Llisa Negra es el nuevo restaurante de Quique Dacosta en Valencia.](etheria-images/2018/11/valencia-con-amigas-Llisa-Negra-Quique-Dacosta.jpg "Llisa Negra es el nuevo restaurante de Quique Dacosta en Valencia.")
 
 ¿Alguna de vosotras es aficionada a la cocina china? Entonces tenéis que saber que 
 Valencia también cuenta con un pequeño barrio Chinatown, lo que aportará el puntito 
@@ -99,7 +99,7 @@ la calle Pelayo. Las berenjenas con salsa Yu Xiang de **Min Dou**, las empanadil
 plancha de **Casa Wei Wei (**restauranteweiwei.com) o los noodles con algas, espinacas y 
 caldo de panceta de **Felisano**, son algunos de los favoritos del barrio. 
 
-![Pollo Chongqing, de Casa Weiwei. Mercado de Colón y Xian Mian de Felisano](etheria_images/2018/11/comer-en-valencia-1024x774.jpg "Pollo Chongqing, de Casa Weiwei (Izq.). Mercado de Colón (Dcha. Arr.) y Xian Mian de Felisano (Dcha. Ab.)")
+![Pollo Chongqing, de Casa Weiwei. Mercado de Colón y Xian Mian de Felisano](etheria-images/2018/11/comer-en-valencia-1024x774.jpg "Pollo Chongqing, de Casa Weiwei (Izq.). Mercado de Colón (Dcha. Arr.) y Xian Mian de Felisano (Dcha. Ab.)")
 
 Para bajar tanta delicia gastronómica, te proponemos un paseo por el centro de la 
 ciudad, un poco de **_shopping_ por la calle Colón** y una visita al **mercado de 
@@ -118,7 +118,7 @@ corre a cargo del bartender Ivan Talens, mientras que la propuesta gastronómica
 bajo la batuta de Nacho Romero, chef de Kaymus, con una carta de platos viajeros y 
 divertidos. 
 
-![El Café Madrid acaba de reabrir sus puertas en el hotel Marqués House (Valencia).](etheria_images/2018/11/valencia-con-amigas-Cafe-Madrid.jpg "El Café Madrid acaba de reabrir sus puertas en el hotel Marqués House (Valencia).")
+![El Café Madrid acaba de reabrir sus puertas en el hotel Marqués House (Valencia).](etheria-images/2018/11/valencia-con-amigas-Cafe-Madrid.jpg "El Café Madrid acaba de reabrir sus puertas en el hotel Marqués House (Valencia).")
 
 Y ya que hemos entrado en territorio noche, seguiremos disfrutando de la fiesta 
 valenciana tomando una copa en la **terraza panorámica de Palau Alameda** 

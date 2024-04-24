@@ -1,17 +1,17 @@
 ---
 title: "Baena, Montilla y Puente Genil, una ruta por la campiña cordobesa"
 date: 2021-05-25
-coverImage: etheria_images/2021/05/Baena-Parque-Arqueologico-Torreparedones-vistas.jpg
+coverImage: etheria-images/2021/05/Baena-Parque-Arqueologico-Torreparedones-vistas.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 La provincia de Córdoba alberga muchos secretos que estamos dispuestos a descubrir. Si a ti también te gusta hacer rutas diferentes, sigue leyendo porque pasearemos por la historia, la cultura y la gastronomía. ¿Nos acompañas a la campiña cordobesa?
 
-![parque arqueologico torreparedones baena campina cordobesa](etheria_images/2021/05/Baena-Parque-Arqueologico-Torreparedones-vistas.jpg "Parque Arqueológico Torreparedones, en Baena. © Pedro Grifol")
+![parque arqueologico torreparedones baena campina cordobesa](etheria-images/2021/05/Baena-Parque-Arqueologico-Torreparedones-vistas.jpg "Parque Arqueológico Torreparedones, en Baena. © Pedro Grifol")
 
 A veces, esta España nuestra guarda tesoros que no solo merecen ser visitados, sino 
 también ser vividos más a fondo, es decir: ‘con fundamento’ (como dicen los cordobeses). 
@@ -25,7 +25,7 @@ En estos meses de exultante primavera, tenemos las mismas horas de luz que de os
 así que gozamos de más tiempo para respirar el aire libre campestre. Es un buen momento 
 para perdernos entre los viñedos y olivares de la campiña cordobesa. 
 
-![calles de baena campina cordobesa](etheria_images/2021/05/viaje-baena-cordoba-729x1024.jpg "Calles de Baena. © P. Grifol")
+![calles de baena campina cordobesa](etheria-images/2021/05/viaje-baena-cordoba-729x1024.jpg "Calles de Baena. © P. Grifol")
 
 Los lugares que proponemos visitar en esta ocasión, aparte de las visitas a lo más 
 sobresaliente de cada pueblo –incluida la notoria gastronomía de la zona: alcachofas, 
@@ -37,7 +37,7 @@ del colegio; pero la oportunidad de verlos _in situ_ supera a las imágenes impr
 ¡incluso las de la tele! Pero vayamos sin más dilación a descubrir la **campiña 
 cordobesa.** 
 
-![museo arqueologico baena](etheria_images/2021/05/baena-museo-arqueologico-escultura-zoomorfa-iberica.jpg "Escultura zoomorfa ibérica, en el Museo Arqueológico de Baena. © Pedro Grifol")
+![museo arqueologico baena](etheria-images/2021/05/baena-museo-arqueologico-escultura-zoomorfa-iberica.jpg "Escultura zoomorfa ibérica, en el Museo Arqueológico de Baena. © Pedro Grifol")
 
 ## Baena: íbera, mora y cristiana
 
@@ -50,7 +50,7 @@ cultural dejado por los íberos, que queda constatada en la representación escu
 las impactantes figuras zoomorfas, como la famosa Leona de Baena, de la que aquí vemos 
 una copia, ya que la verdadera leona está en el MAN de Madrid. 
 
-![leona de baena](etheria_images/2021/05/Leona-de-Baena-Castillo.jpg "Leona de Baena. © P. Grifol")
+![leona de baena](etheria-images/2021/05/Leona-de-Baena-Castillo.jpg "Leona de Baena. © P. Grifol")
 
 > La Leona de Baena es considerada una de las obras de excelencia del patrimonio 
 > escultórico español. 
@@ -62,7 +62,7 @@ que ofrece un paseo por tres mil años de historia que nos muestra cómo vivían
 pobladores de Iponoba, ciudad ibérica citada por Plinio el Viejo, que nos deparará 
 innumerables sorpresas. 
 
-![Parque Arqueologico Torreparedones  campina cordobesa](etheria_images/2021/05/Baena-Parque-Arqueologico-Torreparedones-739x1024.jpg "Parque Arqueológico Torreparedones, en Baena. © Pedro Grifol")
+![Parque Arqueologico Torreparedones  campina cordobesa](etheria-images/2021/05/Baena-Parque-Arqueologico-Torreparedones-739x1024.jpg "Parque Arqueológico Torreparedones, en Baena. © Pedro Grifol")
 
 #### Excursión a la Cueva del Yeso
 
@@ -73,7 +73,7 @@ público. Una oportunidad para admirar cristales de yeso que parecen pedruscos
 diamantinos. También, en lo más recóndito de la caverna, nos asombrará ver 
 representaciones de pintura del Neolítico. 
 
-![cueva del yeso de baena](etheria_images/2021/05/Baena-Cueva-del-Yeso.jpg "Cueva del Yeso. © P. Grifol")
+![cueva del yeso de baena](etheria-images/2021/05/Baena-Cueva-del-Yeso.jpg "Cueva del Yeso. © P. Grifol")
 
 ## Montilla: ciudad del vino y más…
 
@@ -91,7 +91,7 @@ rubí oscuro, de cuyo origen cuentan las crónicas que la cepa fue traída por u
 de los Tercios de Flandes llamado Peter Siemens (en su versión germánica), que con el 
 tiempo se transformó en Pedro Ximénez. 
 
-![fino de montilla moriles cordoba](etheria_images/2021/05/vino-fino-cordoba-678x1024.jpg "Fino servido con jarra de metal. © P. Grifol")
+![fino de montilla moriles cordoba](etheria-images/2021/05/vino-fino-cordoba-678x1024.jpg "Fino servido con jarra de metal. © P. Grifol")
 
 #### Casa del Inca Garcilaso de la Vega
 
@@ -103,7 +103,7 @@ primer escritor iberoamericano que publicó en Europa, quedando como símbolo de
 mestizaje entre culturas. En Montilla pasó gran parte de su vida, donde desarrolló casi 
 la totalidad de su creación literaria. 
 
-![museo pintor jose garnelo en montilla](etheria_images/2021/05/Montilla-Museo-del-pintor-Jose-Garnelo.jpg "Museo del Pintor José Garnelo. © P. Grifol")
+![museo pintor jose garnelo en montilla](etheria-images/2021/05/Montilla-Museo-del-pintor-Jose-Garnelo.jpg "Museo del Pintor José Garnelo. © P. Grifol")
 
 #### Casa de Aguas, Museo de Garnelo
 
@@ -120,7 +120,7 @@ lugar que merece en la Historia del Arte. Sin duda, cuando contemples su magníf
 trabajo, valorarás con justicia la magnitud de su legado. Un descubrimiento, una grata 
 sorpresa y un gran placer para la vista. 
 
-![viajes puente genil](etheria_images/2021/05/viaje-cordoba-Puente-Genil-669x1024.jpg "Puente Genil. © P. Grifol")
+![viajes puente genil](etheria-images/2021/05/viaje-cordoba-Puente-Genil-669x1024.jpg "Puente Genil. © P. Grifol")
 
 ## Puente Genil, pura tradición
 
@@ -136,7 +136,7 @@ por la singularidad de la temática. Además de ‘el del comic’, destacan los
 impresionantes, y universalmente reproducidos, _Las Tres Gracias_ y _El Triunfo de 
 Baco_. 
 
-![mosaicos fuente del alamo cordoba](etheria_images/2021/05/cordoba-fuente-alamo.-Mosaico-las-tres-gracias.jpg "Mosaicos de Fuente del Álamo. © P. Grifol")
+![mosaicos fuente del alamo cordoba](etheria-images/2021/05/cordoba-fuente-alamo.-Mosaico-las-tres-gracias.jpg "Mosaicos de Fuente del Álamo. © P. Grifol")
 
 #### La Mananta, Museo de la Semana Santa
 
@@ -147,7 +147,7 @@ Semana Santa local que dispone de una exuberancia de curiosidades que no nos dej
 indiferentes. La Mananta se forjó a lo largo de cientos de años y sus ancestrales 
 costumbres han venido transmitiéndose de generación en generación entre sus habitantes. 
 
-![los rostrillos puente genil](etheria_images/2021/05/Puente-Genil-Los-Rostrillos.jpg "'Los Rostrillos', en Puente Genil. © P. Grifol")
+![los rostrillos puente genil](etheria-images/2021/05/Puente-Genil-Los-Rostrillos.jpg "'Los Rostrillos', en Puente Genil. © P. Grifol")
 
 El museo custodia los llamados ‘rostrillos’, unas impresionantes caretas de faz arcaica 
 elaboradas con cartón piedra y escayola pintada. Representan a casi 400 figuras bíblicas 
@@ -161,7 +161,7 @@ saeta llega al corazón no solo de quién la canta, sino también al de quién l
 No en vano, en esta localidad se celebra todos los agostos el **Festival de Cante 
 Grande** en honor al insigne cantaor pontanense **Fosforito**. ¡Qué arte! 
 
-![salmorejo cordoba y atun rojo](etheria_images/2021/05/salmorejo-atun.jpg "Salmorejo y tartar de atún del restaurante Los Arcos (Montilla). © P. Grifol")
+![salmorejo cordoba y atun rojo](etheria-images/2021/05/salmorejo-atun.jpg "Salmorejo y tartar de atún del restaurante Los Arcos (Montilla). © P. Grifol")
 
 ### Qué comer en la Campiña cordobesa
 

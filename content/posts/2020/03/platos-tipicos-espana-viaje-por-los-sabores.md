@@ -1,13 +1,13 @@
 ---
 title: "Viaja con el paladar por España a través de estos 7 platos tradicionales"
 date: 2020-03-25
-coverImage: etheria_images/2020/03/cocinera.jpg
+coverImage: etheria-images/2020/03/cocinera.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Conviértete en el mejor chef de tu casa y degusta algunos platos típicos de España 
@@ -15,7 +15,7 @@ cocinados por ti mismo. Viaja mentalmente durante una semana a través de estas 
 recetas: fabada, salmorejo, paella, cocido, migas, lechazo y pulpo. El menú hoy lo 
 eliges tú. 
 
-![Mujer cocinando en el horno](etheria_images/2020/03/cocinera-900x600.jpg "Descubre el placer de cocinar.")
+![Mujer cocinando en el horno](etheria-images/2020/03/cocinera-900x600.jpg "Descubre el placer de cocinar.")
 
 Hoy día es inconcebible un viaje en el que no esté presente la gastronomía. A veces 
 incluso es el motivo principal para elegir un destino en lugar de otro. Ya sea para 
@@ -44,7 +44,7 @@ Para preparar esta receta y viajar mentalmente a Asturias, no olvides comprar: 5
 fabes, chorizo asturiano, morcilla asturiana, magro, panceta, cebolla, ajo, agua, 
 azafrán y sal. Te dejamos la vídeo receta de Cocina con David a continuación. 
 
-[![fabada asturiana](etheria_images/2020/03/fabada-asturiana.jpg "Fabada asturiana preparada en olla rápida por Cocina con David.")](https://www.youtube.com/watch?v=wKJTCeg7FCw)
+[![fabada asturiana](etheria-images/2020/03/fabada-asturiana.jpg "Fabada asturiana preparada en olla rápida por Cocina con David.")](https://www.youtube.com/watch?v=wKJTCeg7FCw)
 
 ## Gazpacho o salmorejo
 
@@ -64,7 +64,7 @@ No olvides servirte [tu vino blanco
 favorito](http://etheriamagazine.com/2019/05/23/los-10-mejores-vinos-para-este-verano/) 
 mientras lo preparas. 
 
-[![salmorejo](etheria_images/2020/03/salmorejo-cocina-carmen.jpg "Salmorejo de Cocina con Carmen.")](https://www.youtube.com/watch?v=2yQpkUXWSiU)
+[![salmorejo](etheria-images/2020/03/salmorejo-cocina-carmen.jpg "Salmorejo de Cocina con Carmen.")](https://www.youtube.com/watch?v=2yQpkUXWSiU)
 
 ## Lechazo
 
@@ -81,7 +81,7 @@ ya que sólo hay que colocar el cordero en la bandeja tras frotarlo con ajo y po
 manteca y sal. Y, después, meterlo en el horno... Aunque lo mejor es que veas el vídeo, 
 porque cada cocinero tiene sus truquillos. Haz clic en la imagen. 
 
-[![lechazo castilla y leon](etheria_images/2020/03/lechazo-rico-900x505.jpg "Lechazo con receta de Javier Romero.")](https://www.youtube.com/watch?v=6QIdvGfF3F0)
+[![lechazo castilla y leon](etheria-images/2020/03/lechazo-rico-900x505.jpg "Lechazo con receta de Javier Romero.")](https://www.youtube.com/watch?v=6QIdvGfF3F0)
 
 ## Pulpo a la gallega
 
@@ -94,7 +94,7 @@ todos los pasos por si os apetece aprender a cocerlo. Los ingredientes son muy b
 pulpo, sal gorda, aceite de oliva y pimentón dulce y picante. Se puede acompañar con 
 patatas cocidas. 
 
-[![pulpo a feria](etheria_images/2020/03/pulpo-gallega.jpg "Pulpo a la gallega del canal Rosa Cocinera y madre.")](https://www.youtube.com/watch?v=ZmwiwuJNtUM)
+[![pulpo a feria](etheria-images/2020/03/pulpo-gallega.jpg "Pulpo a la gallega del canal Rosa Cocinera y madre.")](https://www.youtube.com/watch?v=ZmwiwuJNtUM)
 
 ## Cocido madrileño
 
@@ -110,7 +110,7 @@ Cada año se hacen rankings de los mejores cocidos, aunque esto va en cuestión 
 y de presupuestos. Atiende a este vídeo donde te enseñan a hacerlo en casa. Y después de 
 comer, una buena siesta en el sofá. 
 
-[![cocido madrileño](etheria_images/2020/03/cocido-madrileno.jpg "Cocido madrileño con receta del canal La cocina de Masito.")](https://www.youtube.com/watch?v=mAHJWcYONsQ)
+[![cocido madrileño](etheria-images/2020/03/cocido-madrileno.jpg "Cocido madrileño con receta del canal La cocina de Masito.")](https://www.youtube.com/watch?v=mAHJWcYONsQ)
 
 ## Paella
 
@@ -124,7 +124,7 @@ gustos. Si lo prefieres, hazla de verdura, de marisco o de lo que tengas, no te 
 Y mejor no la llames "paella" sino "arroz con cosas", por si acaso... Haz clic en la 
 imagen. 
 
-[![paella valenciana](etheria_images/2020/03/receta-paella-valenciana-900x496.jpg "Receta del canal Paellas y cocina valencianas.")](https://www.youtube.com/watch?v=zrSyyNugKYo)
+[![paella valenciana](etheria-images/2020/03/receta-paella-valenciana-900x496.jpg "Receta del canal Paellas y cocina valencianas.")](https://www.youtube.com/watch?v=zrSyyNugKYo)
 
 ## Migas
 
@@ -135,7 +135,7 @@ pan duro (unos 500 gr, de 1 o 2 días), aceite de oliva, ajo, panceta de cerdo, 
 pimiento rojo o verde, agua templada y sal. En el vídeo, haz clic en la imagen, te lo 
 explican muy bien. 
 
-[![migas extremenas](etheria_images/2020/03/migas-extremenas.jpg "Receta de migas extremeñas del canal Andalucía videorecetas.")](https://www.youtube.com/watch?v=LV1sKYMHMTQ)
+[![migas extremenas](etheria-images/2020/03/migas-extremenas.jpg "Receta de migas extremeñas del canal Andalucía videorecetas.")](https://www.youtube.com/watch?v=LV1sKYMHMTQ)
 
 ? **También te puede interesar:** 
 

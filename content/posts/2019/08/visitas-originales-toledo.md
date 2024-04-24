@@ -1,11 +1,11 @@
 ---
 title: "Una ‘noche toledana’ con Eugenia de Montijo: visitas orginales en Toledo"
 date: 2019-08-19
-coverImage: etheria_images/2019/08/que-hacer-toledo-noche.jpg
+coverImage: etheria-images/2019/08/que-hacer-toledo-noche.jpg
 categories: 
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -14,7 +14,7 @@ un solo día! No saben lo que se pierden, porque fuera de las rutas habituales, 
 tiene otros secretos para descubrir cuando la noche la cubre de misterio. Descubre que 
 visitas originales puedes hacer en Toledo. 
 
-![calle de Toledo por la noche](etheria_images/2019/08/que-hacer-toledo-noche.jpg "La noche en Toledo es mágica. ©P. Grifol")
+![calle de Toledo por la noche](etheria-images/2019/08/que-hacer-toledo-noche.jpg "La noche en Toledo es mágica. ©P. Grifol")
 
 No le faltaba razón a Al-Idrisi, el gran viajero andalusí del siglo XII, cuando dejó 
 escrito con justicia: “Toledo está por encima de cuanto se dice de ella. Dios la ha 
@@ -31,7 +31,7 @@ extrañarán calificativos como la **sinagoga de Santa María la Blanca**, que d
 estilo morisco, es un ejemplo del sincretismo de fusión arquitectónica entre las tres 
 grandes comunidades monoteístas de la España medieval: cristiana, hebrea y musulmana. 
 
-![bar de Toledo](etheria_images/2019/08/que-hacer-toledo-07.jpg "Bar tradicional en Toledo. ©P. Grifol")
+![bar de Toledo](etheria-images/2019/08/que-hacer-toledo-07.jpg "Bar tradicional en Toledo. ©P. Grifol")
 
 Toledo emana la energía acumulada en siglos, e historia y leyenda se funden en los 
 paseos nocturnos guiados por las estrechas y empinadas callejuelas del recinto 
@@ -50,7 +50,7 @@ portando una gran llave y buscando la puerta de la casa de sus antepasados… Y 
 sido bonito saber que la cerradura de la antigua puerta respondió al giro de la llave, 
 pero las leyendas es lo que tienen”. 
 
-![Pilar Gordillo, de Evocarte](etheria_images/2019/08/Pilar-Gordillo-evocarte.jpg "Pilar Gordillo, de Evocarte. ©P. Grifol")
+![Pilar Gordillo, de Evocarte](etheria-images/2019/08/Pilar-Gordillo-evocarte.jpg "Pilar Gordillo, de Evocarte. ©P. Grifol")
 
 En el **programa de visitas especializadas** que propone la empresa podemos elegir 
 varios recorridos. A saber: conocer los detalles de la **memoria sefardí**, sus señas de 
@@ -67,7 +67,7 @@ serán algunas de nuestras anfitrionas que consentirán que nos asomemos a su in
 este **viaje increíble por el laberinto toledano**, y que finaliza en el palacio donde 
 vivió la emperatriz Eugenia de Montijo, la esposa de Napoleón III. 
 
-![Lobby y restaurante del hotel Eugenia de Montijo.](etheria_images/2019/08/Hotel-Eugenia-de-Montijo-lobby-restaurante-federico.jpg "Lobby y restaurante del hotel Eugenia de Montijo. ©P. Grifol")
+![Lobby y restaurante del hotel Eugenia de Montijo.](etheria-images/2019/08/Hotel-Eugenia-de-Montijo-lobby-restaurante-federico.jpg "Lobby y restaurante del hotel Eugenia de Montijo. ©P. Grifol")
 
 ### El palacio de Eugenia de Montijo convertido en hotel
 
@@ -94,7 +94,7 @@ En homenaje al carácter goloso de la emperatriz, en el lobby del hotel se ha di
 mazapan corner, en el que puede degustarse (y adquirirse para llevar a casa) los 
 _macarons_, la clásica galleta francesa, pero que aquí elaboran con almendras toledanas. 
 
-![Adolfo, del restaurante homónimo de Toledo](etheria_images/2019/08/donde-comer-toledo-Adolfo-Muñoz.jpg "Adolfo, del restaurante homónimo de Toledo. ©P. Grifol")
+![Adolfo, del restaurante homónimo de Toledo](etheria-images/2019/08/donde-comer-toledo-Adolfo-Muñoz.jpg "Adolfo, del restaurante homónimo de Toledo. ©P. Grifol")
 
 ## La imponente bodega de Adolfo
 
@@ -111,7 +111,7 @@ de langostinos con granada y maracuyá', o los 'chipirones con cebolla roja y ma
 manzana'. Mención especial para su clásica 'perdiz roja emplatada en diferentes 
 texturas'. 
 
-![Perdiz en 6 texturas del restaurante Adolfo, en Toledo](etheria_images/2019/08/restaurante-adolfo-toledo-Perdiz-en-6-texturas.jpg "Perdiz en 6 texturas del restaurante Adolfo, en Toledo.")
+![Perdiz en 6 texturas del restaurante Adolfo, en Toledo](etheria-images/2019/08/restaurante-adolfo-toledo-Perdiz-en-6-texturas.jpg "Perdiz en 6 texturas del restaurante Adolfo, en Toledo.")
 
 Otro de los alicientes del guiado tour toledano es visitar su bodega, donde Adolfo 
 atesora cerca de 26.000 botellas y más de 2.800 referencias de todo el mundo. Está 
@@ -126,7 +126,7 @@ Hostelería Toledo, de la cual es presidente, instruirá a 30 estudiantes venido
 sobre los secretos de la cocina manchega, un proyecto en cooperación con el Instituto de 
 Cultura Gastronómica Hispano-China. Seguro que prepara una sorpresa. 
 
-![La Casa del Mazapán, en Toledo](etheria_images/2019/08/que-hacer-toledo-Mazapán-de-Toledo.jpg "La Casa del Mazapán, en Toledo. ©P. Grifol")
+![La Casa del Mazapán, en Toledo](etheria-images/2019/08/que-hacer-toledo-Mazapán-de-Toledo.jpg "La Casa del Mazapán, en Toledo. ©P. Grifol")
 
 ## Clásicos damasquinados
 
@@ -138,7 +138,7 @@ de Toledo**, cuyo trabajo artesanal consiste en la realización de dibujos media
 incrustación de hilos y láminas de oro en acero o hierro. El nombre, que hace referencia 
 a la ciudad de **Damasco**, es seña identificativa de la ciudad. 
 
-![Artesano del damasquinado en Toledo](etheria_images/2019/08/que-hacer-toledo-Damasquinado.jpg "Artesano del damasquinado en Toledo. ©P. Grifol")
+![Artesano del damasquinado en Toledo](etheria-images/2019/08/que-hacer-toledo-Damasquinado.jpg "Artesano del damasquinado en Toledo. ©P. Grifol")
 
 Siendo esta la ciudad de las espadas por excelencia, es el mejor lugar para ver la 
 colección de espadería de todas las épocas. Se mantienen los diseños tradicionales, 
@@ -149,7 +149,7 @@ también tienen la falcata de Alejandro Magno, la Tizona de El Cid y ahora tambi
 fabrican la Garra, que es la espada que blande Jon Snow en la popular serie Juego de 
 Tronos. 
 
-![armaduras en Toledo](etheria_images/2019/08/espadas-Toledo.jpg "Compras típicas en Toledo. ©P. Grifol")
+![armaduras en Toledo](etheria-images/2019/08/espadas-Toledo.jpg "Compras típicas en Toledo. ©P. Grifol")
 
 ## Arte Moderno
 
@@ -159,7 +159,7 @@ convento de Santa Fe. Una recopilación de obras de un valor excepcional firmada
 artistas de la talla de Delacroix, Kandinsky, Klee o Man Ray y cedidas por el 
 coleccionista de arte cubano-estadounidense Roberto Polo. 
 
-![Mazapán de Toledo](etheria_images/2019/08/que-comprar-toledo-mazapan.jpg "Mazapán de Toledo. ©P. Grifol")
+![Mazapán de Toledo](etheria-images/2019/08/que-comprar-toledo-mazapan.jpg "Mazapán de Toledo. ©P. Grifol")
 
 Una vez ‘descubiertos’ algunos de estos secretos de Toledo, te darás cuenta de que has 
 estado poco tiempo, y habrá que volver. Los que deambularon una sola mañana se habrán 

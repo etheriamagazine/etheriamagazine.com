@@ -1,18 +1,18 @@
 ---
 title: "Ruta en coche con amigas en Gales"
 date: 2019-08-23
-coverImage: etheria_images/2019/08/Gales-Tenby.jpg
+coverImage: etheria-images/2019/08/Gales-Tenby.jpg
 categories: 
   - viajes-con-amigas
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Castillos, valles, playas, acantilados, pueblos coquetos y una capital, Cardiff, elegida como la 'más sociable' de Gran Bretaña, hacen de Gales un destino perfecto para viajar en coche con amigas.
 
-![Edificios de Cardiff](etheria_images/2019/08/Cardiff-centro.jpg "Imagen de Cardiff, con su contraste de arquitectura antigua y moderna.")
+![Edificios de Cardiff](etheria-images/2019/08/Cardiff-centro.jpg "Imagen de Cardiff, con su contraste de arquitectura antigua y moderna.")
 
 Que su nombre signifique ‘país de los forasteros’ es una prueba de la buena acogida de 
 los galeses a sus huéspedes. La costumbre de recibir gente no es nueva, se remonta a 
@@ -34,7 +34,7 @@ olvido temporal, ya que dos de los edificios más impresionantes del Reino Unido
 venido a sustituir su grandeza pasada en el **Mermaid Quay** (muelle de la Sirena), en 
 plena bahía. 
 
-![Millenium Center, en Marmaid Quay.](etheria_images/2019/08/Cardiff-millenium-center.jpg "Millenium Center, en Marmaid Quay. © Manena Munar")
+![Millenium Center, en Marmaid Quay.](etheria-images/2019/08/Cardiff-millenium-center.jpg "Millenium Center, en Marmaid Quay. © Manena Munar")
 
 El que más llama la atención es el **Millenium Centre**, obra de Jonathan Adams, que hoy 
 alberga ocho instituciones culturales galesas. Su estructura de bronce oxidado emula un 
@@ -55,7 +55,7 @@ David´s](https://www.ihg.com/voco/hotels/gb/en/cardiff/cwlcd/hoteldetail?cm_mmc
 todo un clásico de acero y vidrio, remodelado en un lujoso alojamiento con spa de 
 primera y un cotizado restaurante, The Admiral. 
 
-![estadio de rugby Principality con el río Cardiff](etheria_images/2019/08/Cardiff-stadium.jpg "Al navegar por el río Cardiff se pasa por el famoso estadio de rugby Principality.")
+![estadio de rugby Principality con el río Cardiff](etheria-images/2019/08/Cardiff-stadium.jpg "Al navegar por el río Cardiff se pasa por el famoso estadio de rugby Principality.")
 
 > Durante la navegación se contempla, a orillas del río Taff ,el estadio Principality, la 
 > catedral del rugby galés, donde el Real Madrid ganó la Liga de Campeones 2017. 
@@ -69,7 +69,7 @@ esquinas; y un **cuarto de niños,** con mosaicos de personajes de cuentos infan
 casa de muñecas y un caballito balancín. Jardines árabes y patios escondidos también 
 aparecen en cada recoveco de la fortaleza. 
 
-![Castillo de Cardiff.](etheria_images/2019/08/Cardiff-castillo.jpg "Castillo de Cardiff.")
+![Castillo de Cardiff.](etheria-images/2019/08/Cardiff-castillo.jpg "Castillo de Cardiff.")
 
 Al salir del castillo, con solo cruzar la calle, se entra en **Queen St**., adornada con 
 los estandartes del dragón galés y centro de reunión de la capital, lleno de cafés, 
@@ -86,7 +86,7 @@ maravillosa muestra de pintura impresionista con cuadros de Van Gogh, Cézanne, 
 y _El Beso_ de Rodin. Vecinos del museo, sin salir del parque, son la Universidad y el 
 Ayuntamiento, que aseguran que es el más bello del Reino Unido. 
 
-![Jardín Botánico de Gales, con la cúpula de Norman Foster.](etheria_images/2019/08/Gales-jardin-botanico.jpg "Jardín Botánico de Gales, con la cúpula de Norman Foster.")
+![Jardín Botánico de Gales, con la cúpula de Norman Foster.](etheria-images/2019/08/Gales-jardin-botanico.jpg "Jardín Botánico de Gales, con la cúpula de Norman Foster.")
 
 ## Recorriendo la costa galesa
 
@@ -112,7 +112,7 @@ Pasó más de diez años escribiendo en su 'boat house' y bebiendo hasta la saci
 salud Burton y Taylor, Peter O´Toole e, incluso, el príncipe de Gales y la duquesa de 
 Cornualles, Carlos y Camilla. 
 
-![Tenby con sus casas de colores y su puerto](etheria_images/2019/08/Gales-Tenby.jpg "Pueblo amurallado de Tenby, en la costa de Pembrokeshire. © MM")
+![Tenby con sus casas de colores y su puerto](etheria-images/2019/08/Gales-Tenby.jpg "Pueblo amurallado de Tenby, en la costa de Pembrokeshire. © MM")
 
 #### Parque Nacional de Pembrokeshire
 
@@ -126,7 +126,7 @@ Pembrokeshire, para luego disfrutar del ocaso desde la **playa de Broadhaven** o
 Baranfundle Bay. Volviendo a los pueblecitos costeros, **Solva** tiene un llamativo 
 puerto de yates y casas que parecen de muñecas por lo detallista de sus remates. 
 
-![Hombre bajando a la capilla de St. Govan](etheria_images/2019/08/Gales-parque-nacional-Pembrokeshire.jpg "Capilla de St. Govan en uno de los acantilados del Parque Nacional de Pembrokeshire. © MM")
+![Hombre bajando a la capilla de St. Govan](etheria-images/2019/08/Gales-parque-nacional-Pembrokeshire.jpg "Capilla de St. Govan en uno de los acantilados del Parque Nacional de Pembrokeshire. © MM")
 
 #### St. David's
 
@@ -136,7 +136,7 @@ pueblo en otro. El **St. David's** actual, galés donde los haya, es recoleto y
 tranquilo. El antiguo se compone de una imponente catedral y los restos del castillo 
 donde los habitantes celtas se refugiaban de los ataques vikingos. 
 
-![Catedral de St. David's rodeada de flores](etheria_images/2019/08/Gales-catedra-st-david.jpg "Catedral de St. David's. © MM")
+![Catedral de St. David's rodeada de flores](etheria-images/2019/08/Gales-catedra-st-david.jpg "Catedral de St. David's. © MM")
 
 Para sentir la historia de St. David's en primera persona hay que alojarse en el [Roch 
 Castle Hotel](http://www.rochcastle.com), castillo remozado cuyas seis suites cuentan 
@@ -147,7 +147,7 @@ de Pembrokeshire.
 Antes de dar por finalizado el trayecto costero de Gales, es imprescindible asomarse al 
 **faro de Stumble Head** para contemplar una de sus más espectaculares postales. 
 
-![Playa de Baranfundle rodeada de acantilados.](etheria_images/2019/08/Gales-playa-Baranfundle.jpg "Playa de Baranfundle, una de las más bellas del Reino Unido. © MM")
+![Playa de Baranfundle rodeada de acantilados.](etheria-images/2019/08/Gales-playa-Baranfundle.jpg "Playa de Baranfundle, una de las más bellas del Reino Unido. © MM")
 
 ### CONSEJOS ETHERIA
 

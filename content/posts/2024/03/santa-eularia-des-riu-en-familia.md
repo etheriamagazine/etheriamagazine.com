@@ -1,12 +1,12 @@
 ---
 title: "Santa Eulària des Riu o cómo disfrutar de Ibiza en familia"
 date: 2024-03-20
-coverImage: etheria_images/2024/03/ibiza-ruta-senderista-caballo.jpg
+coverImage: etheria-images/2024/03/ibiza-ruta-senderista-caballo.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Aunque no solemos identificar a la isla de Ibiza con el turismo familiar, sí que cuenta 
@@ -15,7 +15,7 @@ aun contando con todos los requisitos para atraer al público más diverso, cuid
 experiencias de quienes viajan a Ibiza con niños. Os contamos algunos motivos para 
 elegir su entorno en vuestras próximas vacaciones. 
 
-![Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.](etheria_images/2024/03/ibiza-granja-familiar-850x567.jpg "Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.")
+![Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.](etheria-images/2024/03/ibiza-granja-familiar-850x567.jpg "Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.")
 
 Las islas Baleares son un acierto durante todo el año para los viajes en familia porque 
 disponen de una oferta turística tan amplia que siempre se encuentra un hotel donde 
@@ -50,7 +50,7 @@ el ringo. Las actividades dirigidas de kayak, esnórquel u observación cetáceo
 son idóneas para los viajes con adolescentes porque no sólo harán deporte sino que 
 aprenderán sobre geografía, biología o ecología. 
 
-![Cala Nova, en Santa Eulària des Riu.](etheria_images/2024/03/ibiza-cala-nova.jpg "Cala Nova, en Santa Eulària des Riu.")
+![Cala Nova, en Santa Eulària des Riu.](etheria-images/2024/03/ibiza-cala-nova.jpg "Cala Nova, en Santa Eulària des Riu.")
 
 ### Por las propuestas de diversión
 
@@ -68,7 +68,7 @@ más bonitos del municipio a bordo de un tren turístico, divertiros en el **par
 infantil Es Fameliar** o relajaros en el área de picnic de Sant Carles. Todos con el 
 sello familiar del municipio. 
 
-![Parque de aventuras Acrobosc.](etheria_images/2024/03/ibiza-parque-aventuras.jpg "Parque de aventuras Acrobosc.")
+![Parque de aventuras Acrobosc.](etheria-images/2024/03/ibiza-parque-aventuras.jpg "Parque de aventuras Acrobosc.")
 
 ### Por las rutas senderistas y cicloturistas
 
@@ -86,7 +86,7 @@ Etnográfico de Ibiza y el Puig de Missa. Quienes prefieran ir sobre dos ruedas,
 alquilar las bicicletas en alguna de las empresas del municipio para recorrer 
 itinerarios sencillos como los R6, R4 y R3. 
 
-![Ruta senderista en Santa Eulària des Riu.](etheria_images/2024/03/ibiza-ruta-senderista-caballo.jpg "Ruta senderista en Santa Eulària des Riu.")
+![Ruta senderista en Santa Eulària des Riu.](etheria-images/2024/03/ibiza-ruta-senderista-caballo.jpg "Ruta senderista en Santa Eulària des Riu.")
 
 #### La Ruta del Río
 
@@ -96,7 +96,7 @@ Museo de Etnografía de Ibiza. La mecánica es muy sencilla, sólo hay que segui
 indicaciones de un duende (o famelier) durante tres kilómetros e ir descubriendo las 
 curiosidades del municipio y de la isla. 
 
-![La Ruta del Río, en Santa Eulària del Río, es ideal para hacer con niños.](etheria_images/2024/03/ibiza-paseo-del-rio-850x567.jpg "La Ruta del Río, en Santa Eulària del Río, es ideal para hacer con niños.")
+![La Ruta del Río, en Santa Eulària del Río, es ideal para hacer con niños.](etheria-images/2024/03/ibiza-paseo-del-rio-850x567.jpg "La Ruta del Río, en Santa Eulària del Río, es ideal para hacer con niños.")
 
 ### Por el Festival de Teatro Familiar Barruguet
 
@@ -111,7 +111,7 @@ alegre y juguetón. Además, en torno al primer domingo de mayo también se orga
 decenas de actividades infantiles y espectáculos que giran alrededor de las tradiciones, 
 la música, los bailes típicos… que disfrutaréis todos. 
 
-![Festival de Teatro Familiar Barruguet](etheria_images/2024/03/teatro-barruguet.jpg "Festival de Teatro Familiar Barruguet.")
+![Festival de Teatro Familiar Barruguet](etheria-images/2024/03/teatro-barruguet.jpg "Festival de Teatro Familiar Barruguet.")
 
 ### Por sus agroturismos
 
@@ -124,7 +124,7 @@ villas para 4-6 personas. Podéis consultar otros hoteles de todas las categorí
 también disponen del [sello Family Moments en este 
 pdf](https://visitsantaeulalia.com/images/recursos/PDF/Sello-family-moments.pdf). 
 
-![Agroturismo Can Guillem, en Ibiza, tiene el sello familiar](etheria_images/2024/03/ibiza-Agroturismo-can-guillem.jpg "Agroturismo Can Guillem.")
+![Agroturismo Can Guillem, en Ibiza, tiene el sello familiar](etheria-images/2024/03/ibiza-Agroturismo-can-guillem.jpg "Agroturismo Can Guillem.")
 
 \*Fotos cedidas por Turismo de Santa Eulària des Riu. 
 

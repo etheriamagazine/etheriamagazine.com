@@ -1,11 +1,11 @@
 ---
 title: "Descubre el Getxo más cultural, 15 lugares imprescindibles en tu agenda"
 date: 2022-10-10
-coverImage: etheria_images/2022/10/paseo-grandes-villas-getxo.jpg
+coverImage: etheria-images/2022/10/paseo-grandes-villas-getxo.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Pocos lugares como Getxo reúnen en un territorio tan pequeño una diversidad de 
@@ -13,7 +13,7 @@ atractivos turísticos tan espectacular. Es uno de esos “place to be” del no
 para disfrutar y volver, porque siempre nos deja con ganas de más. Te vamos a desvelar 
 los 15 lugares imprescindibles de Getxo con un toque cultural. 
 
-![GetxoFolk, una de las citas imprescindibles en Getxo.](etheria_images/2022/10/getxo-folk-850x527.jpg "GetxoFolk, una de las citas imprescindibles en Getxo.")
+![GetxoFolk, una de las citas imprescindibles en Getxo.](etheria-images/2022/10/getxo-folk-850x527.jpg "GetxoFolk, una de las citas imprescindibles en Getxo.")
 
 Getxo es un destino que uno no puede perderse por nada del mundo en una escapada 
 turística por el País Vasco. A sus increíbles acantilados hay que sumar unas playas que 
@@ -31,7 +31,7 @@ opciones para elegir. Solo por eso conviene descubrir esta deliciosa localidad b
 por el Atlántico y que está a un paso de Bilbao, a no más de 14 kilómetros. No olvides 
 que, además, hay metro directo desde la capital vizcaína. 
 
-![El palacio Ampuero se sitúa en el promontorio de Arriluce de Getxo](etheria_images/2022/10/getxo-palacio-Ampuero.jpg "El palacio Ampuero se sitúa en el promontorio de Arriluce.")
+![El palacio Ampuero se sitúa en el promontorio de Arriluce de Getxo](etheria-images/2022/10/getxo-palacio-Ampuero.jpg "El palacio Ampuero se sitúa en el promontorio de Arriluce.")
 
 ## Lugares imprescindibles en Getxo
 
@@ -44,7 +44,7 @@ Viejo, el de Algorta, cargado de historias y emociones. Con algo más de 77.000
 habitantes, Getxo es la quinta ciudad más poblada del País Vasco y el sexto municipio 
 con mayor renta de España. 
 
-![Conocer la historia de las grandes villas es uno de los imprescindibles de Getxo.](etheria_images/2022/10/villa-getxo.jpg "Conocer la historia de las grandes villas es uno de los imprescindibles de Getxo.")
+![Conocer la historia de las grandes villas es uno de los imprescindibles de Getxo.](etheria-images/2022/10/villa-getxo.jpg "Conocer la historia de las grandes villas es uno de los imprescindibles de Getxo.")
 
 ### Por dónde empezar
 
@@ -70,7 +70,7 @@ ver la gran cantidad de festivales, encuentros, conciertos y exposiciones tempor
 se programan a lo largo del año. Seguro que hay algún plan que se adapta a tus intereses 
 culturales. 
 
-![Playa y muelle de Las Arenas, en Getxo.](etheria_images/2022/10/Playa-y-muelle-de-Las-Arenas.jpg "Playa y muelle de Las Arenas, en Getxo.")
+![Playa y muelle de Las Arenas, en Getxo.](etheria-images/2022/10/Playa-y-muelle-de-Las-Arenas.jpg "Playa y muelle de Las Arenas, en Getxo.")
 
 ## Lugares que sólo podrás ver en Getxo
 
@@ -84,7 +84,7 @@ que recuerda las obras de Gustave Eiffel, aunque es obra de Alberto de Palacio. 
 cuenta con un ascensor panorámico que conduce hasta una pasarela peatonal que tiene unas 
 vistas extraordinarias. 
 
-![Subiendo al Puente Bizkaia.](etheria_images/2022/10/getxo-puente-bizkaia-683x1024.jpg "Subiendo al Puente Bizkaia, un prodigio de la ingeniería.")
+![Subiendo al Puente Bizkaia.](etheria-images/2022/10/getxo-puente-bizkaia-683x1024.jpg "Subiendo al Puente Bizkaia, un prodigio de la ingeniería.")
 
 ### 2\. Monumento a Evaristo de Churruca
 
@@ -94,7 +94,7 @@ desarrollo de la industria siderúrgica y naval del País Vasco. Por eso, Getxo 
 doble monumento en su memoria, uno en forma de torre-faro de estilo _art déco_ y el 
 otro, un conjunto escultórico en bronce. 
 
-![Monumento a Churruca y El hombre y el mar, en Las Arenas.](etheria_images/2022/07/Monumento-a-Churruca-getxo.jpg "Monumento a Churruca y El hombre y el mar, en Las Arenas. © Juan Carlos Muñoz")
+![Monumento a Churruca y El hombre y el mar, en Las Arenas.](etheria-images/2022/07/Monumento-a-Churruca-getxo.jpg "Monumento a Churruca y El hombre y el mar, en Las Arenas. © Juan Carlos Muñoz")
 
 ### 3\. Las playas de Getxo
 
@@ -105,7 +105,7 @@ en Getxo. Las más conocidas son Las Arenas, Ereaga, Arrigunaga, Azkorri-Gorrond
 Barinatxe, si bien hay otras más escondidas, como La Bola, Tunelboca o la del Puerto 
 Viejo. 
 
-![playa de Getxto](etheria_images/2022/10/getxo-playa-barrinatxe.jpg "Playa de Barinatxe desde los acantilados de La Galea.")
+![playa de Getxto](etheria-images/2022/10/getxo-playa-barrinatxe.jpg "Playa de Barinatxe desde los acantilados de La Galea.")
 
 ### 4\. Descubriendo sus barrios
 
@@ -130,7 +130,7 @@ rostro.
 \*No te pierdas el artículo: [Un paseo por las Grandes Mansiones y Villas de 
 Getxo](https://etheriamagazine.com/2023/11/02/grandes-villas-mansiones-getxo/). 
 
-![Paseo de las Grandes Villas, un itinerario muy recomendable en Getxo.](etheria_images/2022/10/paseo-grandes-villas-getxo.jpg "Paseo de las Grandes Villas, un itinerario muy recomendable en Getxo.")
+![Paseo de las Grandes Villas, un itinerario muy recomendable en Getxo.](etheria-images/2022/10/paseo-grandes-villas-getxo.jpg "Paseo de las Grandes Villas, un itinerario muy recomendable en Getxo.")
 
 ### 6\. Puerto Viejo de Algorta
 
@@ -148,7 +148,7 @@ emplazamientos más singulares. Descubrirás por ejemplo que el “kalimotxo” 
 cuna y sabrás que “el txo” (el grumete) era el más joven de la tripulación de los barcos 
 y el primero que se levantaba por la mañana. 
 
-![Puerto Viejo de Algorta, en Getxo.](etheria_images/2022/10/getxo-puerto-viejo.jpg "Puerto Viejo de Algorta, en Getxo.")
+![Puerto Viejo de Algorta, en Getxo.](etheria-images/2022/10/getxo-puerto-viejo.jpg "Puerto Viejo de Algorta, en Getxo.")
 
 ## Rutas para un paseo cultural en Getxo
 
@@ -167,7 +167,7 @@ emblemáticos de Getxo como el Puerto Viejo o sus palacios.
 ¡Atención! Si lo tuyo es escribir, aprovecha y participa en el Concurso de Novela Corta 
 Ramiro Pinilla que se convoca todos los años. 
 
-![Ruta de Ramiro Pinilla.](etheria_images/2022/10/Getxo-Ramiro-Pilla-659x1024.jpg "Ruta de Ramiro Pinilla en Getxo.")
+![Ruta de Ramiro Pinilla.](etheria-images/2022/10/Getxo-Ramiro-Pilla-659x1024.jpg "Ruta de Ramiro Pinilla en Getxo.")
 
 ### 8\. Galerías de Punta Begoña
 
@@ -181,7 +181,7 @@ a la margen izquierda de la ría de Bilbao que hoy siguen dando que hablar. Sobr
 por su belleza. Si te apetece hacer una visita guiada, puedes ponerte en contacto con la 
 **Fundación Punta Begoña** y reservarla. 
 
-![Galerías de Punta Begoña, en Getxo.](etheria_images/2022/10/galeria-punta-begona.jpg "Galerías de Punta Begoña.")
+![Galerías de Punta Begoña, en Getxo.](etheria-images/2022/10/galeria-punta-begona.jpg "Galerías de Punta Begoña.")
 
 ### 9\. Rutas Deapie
 
@@ -196,7 +196,7 @@ Bizcarra**, que no solo cuidaba, sino que también amamantaba a los hijos de la 
 vizcaína; o de **Marina Ybarra**, la primera “baserritarra” (aldeana) en denunciar malos 
 tratos por parte de su marido, a mediados del siglo XVII. 
 
-![Iglesia de Andra Mari, una de las visitas de Rutas deapie.](etheria_images/2022/10/getxo-iglesia-Andra-Mari.jpg "Iglesia de Andra Mari, una de las visitas de Rutas deapie.")
+![Iglesia de Andra Mari, una de las visitas de Rutas deapie.](etheria-images/2022/10/getxo-iglesia-Andra-Mari.jpg "Iglesia de Andra Mari, una de las visitas de Rutas deapie.")
 
 ### 10\. Flysch de Bizkaia
 
@@ -209,7 +209,7 @@ que significa “flysch”? Es el término con el que se nombra el conjunto de c
 que se fracturaron en el fondo marino y salieron a la luz después de producirse una 
 colisión de las placas tectónicas. 
 
-![Dos personas en bicicleta en el Paseo de La Galea en el](etheria_images/2022/07/Paseo-Galea-Sendero-del-flysch.jpg "Paseo de La Galea, un sendero sobre el flysch. © Juan Carlos Muñoz")
+![Dos personas en bicicleta en el Paseo de La Galea en el](etheria-images/2022/07/Paseo-Galea-Sendero-del-flysch.jpg "Paseo de La Galea, un sendero sobre el flysch. © Juan Carlos Muñoz")
 
 ## Eventos culturales que no te puedes perder en Getxo
 
@@ -228,7 +228,7 @@ entradas suelen volar, especialmente las de los grupos o figuras estrella. El ce
 tiene lugar en diferentes escenarios de la ciudad y habrá hasta desfiles de calle para 
 incentivar que el público familiar pueda participar también su programación. 
 
-![Festival de Jazz de Getxo.](etheria_images/2022/10/festival-jazz-getxo.jpg "Festival de Jazz de Getxo.")
+![Festival de Jazz de Getxo.](etheria-images/2022/10/festival-jazz-getxo.jpg "Festival de Jazz de Getxo.")
 
 ### 12\. Getxophoto
 
@@ -245,7 +245,7 @@ encuentro multicultural para disfrutar del sonido procedente de distintas parte 
 mundo. Hace unos años se rindió homenaje al gran compositor de tango **Astor Piazzolla** 
 en su centenario. 
 
-![Festival de Folk de Getxo.](etheria_images/2022/10/folk-getxo-681x1024.jpg "Festival de Folk de Getxo.")
+![Festival de Folk de Getxo.](etheria-images/2022/10/folk-getxo-681x1024.jpg "Festival de Folk de Getxo.")
 
 ### 14\. Salón del Cómic de Getxo
 
@@ -255,7 +255,7 @@ la creación en el universo de la historieta. En años anteriores, el Aula de Cu
 Romo acogió un diverso programa de actividades, en el que no faltaron turnos de firmas, 
 charlas, mesas redondas, talleres, presentaciones, etc. 
 
-![El lago', espectáculo de danza de la compañía LaMov](etheria_images/2022/10/lamov-el-lago-getxo-850x567.jpg "'El lago', espectáculo de danza de la compañía LaMov. © Enrique Fantova")
+![El lago', espectáculo de danza de la compañía LaMov](etheria-images/2022/10/lamov-el-lago-getxo-850x567.jpg "'El lago', espectáculo de danza de la compañía LaMov. © Enrique Fantova")
 
 ### 15\. Jornadas de Artes Escénicas
 
@@ -271,7 +271,7 @@ tendrá lugar en **Muxikebarri**, el Centro de Arte, Cultura y Congresos de Getx
 
 [Turismo de Getxo.](https://www.getxo.eus/es/turismo/) 
 
-![Logotipos de Gobierno Vasco.](etheria_images/2022/07/colaboradores-gobierno-vasco.jpg)
+![Logotipos de Gobierno Vasco.](etheria-images/2022/07/colaboradores-gobierno-vasco.jpg)
 
 **También te puede interesar...** 
 

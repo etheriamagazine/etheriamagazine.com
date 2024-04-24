@@ -1,11 +1,11 @@
 ---
 title: "Innsbruck con amigas, una escapada con sello tirolés"
 date: 2023-10-18
-coverImage: etheria_images/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg
+coverImage: etheria-images/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Alicia Bea
 ---
 
@@ -15,7 +15,7 @@ las numerosas posibilidades que ofrecen los cercanos Alpes, y llegarás a la ún
 conclusión posible: la capital del Tirol austríaco merece un hueco en tu agenda viajera. 
 Y si viajas a Innsbruck con amigas, mejor que mejor. 
 
-![Maria-Theresien Strasse, la fisonomía de Innsbruck en una sola imagen](etheria_images/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg "Maria-Theresien Strasse, la fisonomía de Innsbruck en una sola imagen. © Alícia Bea")
+![Maria-Theresien Strasse, la fisonomía de Innsbruck en una sola imagen](etheria-images/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg "Maria-Theresien Strasse, la fisonomía de Innsbruck en una sola imagen. © Alícia Bea")
 
 Convencer a tu _troupe_ no resultará complicado: háblales de naturaleza, arte, tradición 
 y vanguardia, de paseos en bici a la vera del río Inn, de la magia de Swarovski y de 
@@ -24,7 +24,7 @@ cascos históricos con más encanto de Europa** más allá de los clásicos. Sal
 itinerario de postal en busca de la cara más auténtica de la ciudad. Hacer planes en 
 Innsbruck con amigas, tiene recompensa. 
 
-![La Herzog-Friedrich-Straße reúne algunos de los edificios más bonitos de Innsbruck](etheria_images/2023/10/que-ver-innsbruck-centro.jpg "La calle Herzog-Friedrich-Straße reúne algunos de los edificios más bonitos de Innsbruck. © Alícia Bea")
+![La Herzog-Friedrich-Straße reúne algunos de los edificios más bonitos de Innsbruck](etheria-images/2023/10/que-ver-innsbruck-centro.jpg "La calle Herzog-Friedrich-Straße reúne algunos de los edificios más bonitos de Innsbruck. © Alícia Bea")
 
 ## Planes imprescindibles en Innsbruck
 
@@ -34,7 +34,7 @@ inmejorable ubicación, al abrigo de escarpados picos, hace que todo esto sea po
 Pasar del bullicio urbano a la calma que brindan sus espectaculares paisajes en un mismo 
 día nunca fue tan fácil. 
 
-![Mariahilf, una de los enclaves más buscados de Innsbruck.](etheria_images/2023/10/que-ver-innsbruck-Mariahilf.jpg "Mariahilf, una de los enclaves más buscados de Innsbruck. © Alícia Bea")
+![Mariahilf, una de los enclaves más buscados de Innsbruck.](etheria-images/2023/10/que-ver-innsbruck-Mariahilf.jpg "Mariahilf, una de los enclaves más buscados de Innsbruck. © Alícia Bea")
 
 ### 1\. Recorre el Altstadt
 
@@ -49,7 +49,7 @@ La imagen más famosa de este escaparate arquitectónico es el **Tejadillo de Or
 balcón recubierto por miles de tejas de cobre dorado que mandó construir el propio 
 Maximiliano I para contemplar los festejos de su boda con Bianca de Sforza. 
 
-![Vista del Tejadillo de Oro desde la Stadtturm](etheria_images/2023/10/que-ver-innsbruck-Tejadillo-Oro.jpg "Vista del Tejadillo de Oro desde la Stadtturm. © Alícia Bea")
+![Vista del Tejadillo de Oro desde la Stadtturm](etheria-images/2023/10/que-ver-innsbruck-Tejadillo-Oro.jpg "Vista del Tejadillo de Oro desde la Stadtturm. © Alícia Bea")
 
 Tras las fotos de rigor, se impone subir al mirador de la **Stadtturm** o torre de la 
 ciudad para contemplar cómo luce a vista de pájaro el casco medieval con las cumbres de 
@@ -60,7 +60,7 @@ muros las estancias de la emperatriz Elisabeth, más conocida como "Sisi".
 ✅ **No te pierdas:** [Así es la verdadera historia de Sisi, y no es de 
 cuento](https://etheriamagazine.com/2022/09/07/museo-sisi-de-viena/). 
 
-![Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial](etheria_images/2023/10/que-ver-innsbruck-Hofburg.jpg "Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial.")
+![Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial](etheria-images/2023/10/que-ver-innsbruck-Hofburg.jpg "Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial.")
 
 #### Más visitas en el centro de Innsbruck
 
@@ -85,7 +85,7 @@ para desviar la mirada del núcleo imperial y sentirte como una vecina más pase
 sus riberas o recorriéndolas sobre dos ruedas, mientras coleccionas imágenes de postal y 
 escenas cotidianas. 
 
-![El río Inn, un atractivo más de Innsbruck](etheria_images/2023/10/que-ver-innsbruck-Rio-Inn.jpg "El río Inn, un atractivo más de Innsbruck. © Alícia Bea")
+![El río Inn, un atractivo más de Innsbruck](etheria-images/2023/10/que-ver-innsbruck-Rio-Inn.jpg "El río Inn, un atractivo más de Innsbruck. © Alícia Bea")
 
 ### 3\. Descubre el trampolín de salto de Bergisel
 
@@ -101,7 +101,7 @@ que recrea la victoria de los tiroleses frente a los ejércitos bávaros y franc
 hacer la ruta circular que discurre alrededor de Bergisel. Son poco más de dos 
 kilómetros y las vistas suelen arrancar más de una cara de asombro. 
 
-![Mirador y trampolín de salto de Bergisel](etheria_images/2023/10/que-ver-innsbruck-Trampolin.jpg "Mirador y trampolín de salto de Bergisel. © Alícia Bea")
+![Mirador y trampolín de salto de Bergisel](etheria-images/2023/10/que-ver-innsbruck-Trampolin.jpg "Mirador y trampolín de salto de Bergisel. © Alícia Bea")
 
 ### 4\. Shopping a la tirolesa
 
@@ -117,7 +117,7 @@ María Teresa I de Austria​ puso de moda en la corte tomar pasteles a media ta
 vosotras no vais a ser menos. Probad su _strudel_ de manzana en su coqueta terraza 
 viendo la vida pasar (Kiebachgasse, 16). 
 
-![Café Munding, un delicioso alto en el camino](etheria_images/2023/10/que-ver-innsbruck-Munding.jpg "Café Munding, un delicioso alto en el camino. © Alícia Bea")
+![Café Munding, un delicioso alto en el camino](etheria-images/2023/10/que-ver-innsbruck-Munding.jpg "Café Munding, un delicioso alto en el camino. © Alícia Bea")
 
 ### 5\. Visita el castillo de Ambras   
 
@@ -132,7 +132,7 @@ retratos creando, sin pretenderlo, el "primer museo del mundo" (Schlossstrasse, 
 Ambras](https://www.civitatis.com/es/innsbruck/entrada-palacio-ambras/?aid=10211): desde 
 12 €. 
 
-![El castillo de Ambras es uno de los monumentos más destacados de Innsbruck](etheria_images/2023/10/que-ver-innsbruck-Ambras.jpg "El castillo de Ambras es uno de los monumentos más destacados de Innsbruck. © Alícia Bea")
+![El castillo de Ambras es uno de los monumentos más destacados de Innsbruck](etheria-images/2023/10/que-ver-innsbruck-Ambras.jpg "El castillo de Ambras es uno de los monumentos más destacados de Innsbruck. © Alícia Bea")
 
 ### 6\. Sube en funicular al Nordkette
 
@@ -148,7 +148,7 @@ que parece emerger entre un mar de montañas.
 Nordkette](https://www.civitatis.com/es/innsbruck/entrada-teleferico-nordkette/). 44 €, 
 consulta descuentos. 
 
-![Subiendo a la cordillera Nordkette, la cima de Innsbruck](etheria_images/2023/10/que-ver-innsbruck-Nordkette.jpg "Subiendo a la cordillera Nordkette, la cima de Innsbruck. © Alícia Bea")
+![Subiendo a la cordillera Nordkette, la cima de Innsbruck](etheria-images/2023/10/que-ver-innsbruck-Nordkette.jpg "Subiendo a la cordillera Nordkette, la cima de Innsbruck. © Alícia Bea")
 
 ### 7\. Asómbrate en los Mundos de Cristal Swarovski
 
@@ -162,7 +162,7 @@ de esta conocida firma de diseño de joyas, es sorprenderte a cada paso.
 Swarovski](https://www.civitatis.com/es/innsbruck/entrada-museo-swarovski/?aid=10211), 
 desde 23 €. Consulta descuentos. 
 
-![Los Mundos de Cristal Swarovski](etheria_images/2023/10/que-ver-innsbruck-Swarovski.jpg "Los Mundos de Cristal Swarovski. © Alícia Bea")
+![Los Mundos de Cristal Swarovski](etheria-images/2023/10/que-ver-innsbruck-Swarovski.jpg "Los Mundos de Cristal Swarovski. © Alícia Bea")
 
 Como sorprendente es la enorme cabeza de gigante que da acceso a las **Cámaras de las 
 Maravillas**: 18 salas totalmente diferentes diseñadas por reputados artistas. ¿Las 
@@ -184,7 +184,7 @@ lleva su tiempo.
 WhatsApp y a bloquear fechas. La capital del Tirol es una apuesta segura en cualquier 
 época del año. 
 
-![The Art of Performance](etheria_images/2023/10/que-ver-innsbruck-Art-Performance.jpg "The Art of Performance. © Alícia Bea")
+![The Art of Performance](etheria-images/2023/10/que-ver-innsbruck-Art-Performance.jpg "The Art of Performance. © Alícia Bea")
 
 ## Guía de Innsbruck con amigas
 

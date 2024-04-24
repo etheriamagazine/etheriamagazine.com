@@ -1,12 +1,12 @@
 ---
 title: "Ruta del lobo ibérico en Burgos, la propuesta más original de Castilla y León"
 date: 2024-03-29
-coverImage: etheria_images/2024/03/burgos-ruta-lobo.jpg
+coverImage: etheria-images/2024/03/burgos-ruta-lobo.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -14,7 +14,7 @@ Que no te cuenten cuentos, si eres una viajera de las que buscan sorpresas en el
 esta Ruta del lobo ibérico en Burgos es una propuesta auténticamente rural. Un recorrido 
 en Castilla y León que a buen seguro te dejará una huella imborrable. 
 
-![Ruta del lobo ibérico en Burgos](etheria_images/2024/03/burgos-ruta-lobo-850x445.jpg "Ruta del lobo ibérico en Burgos.")
+![Ruta del lobo ibérico en Burgos](etheria-images/2024/03/burgos-ruta-lobo-850x445.jpg "Ruta del lobo ibérico en Burgos.")
 
 Si lo tuyo es viajar con amigas, busca a las más pacientes de tus amistades porque este 
 es un viaje en el que vamos dispuestas a que la naturaleza nos hable. Y va a ser 
@@ -31,7 +31,7 @@ liderazgo, pasó a convertirse desde tiempos prehistóricos en animal temido y p
 a pesar de jugar un papel esencial como predador que mantiene el estado saludable de los 
 ecosistemas. 
 
-![Salto del Nervión desde Burgos.](etheria_images/2024/03/burgos-paisaje-brumas-850x568.jpg "Bello paisaje del entorno del Salto del Nervión desde Burgos.")
+![Salto del Nervión desde Burgos.](etheria-images/2024/03/burgos-paisaje-brumas-850x568.jpg "Bello paisaje del entorno del Salto del Nervión desde Burgos.")
 
 ## Burgos es tierra de lobos
 
@@ -55,7 +55,7 @@ es un personaje de cuento. Así es que prepara buen calzado de campo, coge unos
 prismáticos y permanece atenta, porque puede pasar desapercibido a nuestra vista incluso 
 aunque se halle a un centenar de metros de distancia. 
 
-![Bosque de hayas en el Monumento Natural Monte de Santiago.](etheria_images/2024/03/burgos-bosque-hayas-monte-santiago-667x1000.jpg "Bosque de hayas en el Monumento Natural Monte de Santiago.")
+![Bosque de hayas en el Monumento Natural Monte de Santiago.](etheria-images/2024/03/burgos-bosque-hayas-monte-santiago-667x1000.jpg "Bosque de hayas en el Monumento Natural Monte de Santiago.")
 
 ## En la vieja Castilla
 
@@ -74,7 +74,7 @@ adrenalina a tope. Será a primera hora de la mañana o al caer la tarde, ya que
 momentos más adecuados del día para recorrer las pistas y senderos ciclables y, con más 
 posibilidad, divisar lobos. 
 
-![Pastores en el entorno de la ermita de Santa Isabel.](etheria_images/2024/03/burgos-pastores-ruta-lobo-850x567.jpg "Pastores en el Almiñe, en el valle de Valdivieso.")
+![Pastores en el entorno de la ermita de Santa Isabel.](etheria-images/2024/03/burgos-pastores-ruta-lobo-850x567.jpg "Pastores en el Almiñe, en el valle de Valdivieso.")
 
 ## Entre pastores
 
@@ -100,7 +100,7 @@ lobo. Así se distingue a la mesa de restaurantes de Logroño y San Sebastián q
 un tierno bocado a sus clientes al saborear carne criada en tierra de lobos y con 
 respeto a la biodiversidad. 
 
-![Rebaño junto a la ermita de Santa Isabel.](etheria_images/2024/03/burgos-ermita-santa-isabel-850x459.jpg "Rebaño junto a la ermita de Santa Isabel, en el Almiñe (valle de Valdivieso).")
+![Rebaño junto a la ermita de Santa Isabel.](etheria-images/2024/03/burgos-ermita-santa-isabel-850x459.jpg "Rebaño junto a la ermita de Santa Isabel, en el Almiñe (valle de Valdivieso).")
 
 ## Caminos de ovejas
 
@@ -116,7 +116,7 @@ ermita por la calzada medieval. La misma que era empleada por los rebaños lleva
 puertos cantábricos. Y, también, una vía que los comerciantes aprovechaban de regreso 
 para llevar el pescado cantábrico hacia tierras castellanas. 
 
-![Río Ebro a su paso por el valle de Valdivieso.](etheria_images/2024/03/burgos-rio-ebro-valdivieso-850x380.jpg "Río Ebro a su paso por el valle de Valdivieso.")
+![Río Ebro a su paso por el valle de Valdivieso.](etheria-images/2024/03/burgos-rio-ebro-valdivieso-850x380.jpg "Río Ebro a su paso por el valle de Valdivieso.")
 
 Recorrer el valle es desvelar la placidez de pueblos que vivieron tiempos esplendorosos 
 ligados al comercio y el paso de rebaños desde la meseta castellana hacia los puertos 
@@ -127,7 +127,7 @@ a las afueras del pueblo, refleja su situación en una tierra disputada entre ho
 su aspecto estratégico como demuestran sus almenas, y donde también era temido el lobo, 
 como atestiguan las gárgolas bajo sus matacanes talladas con figuras de lobos. 
 
-![Medina de Pomar, en Burgos.](etheria_images/2024/03/burgos-medina-de-pomar-850x478.jpg "Medina de Pomar, en Burgos.")
+![Medina de Pomar, en Burgos.](etheria-images/2024/03/burgos-medina-de-pomar-850x478.jpg "Medina de Pomar, en Burgos.")
 
 ## En la ciudad de las manzanas
 
@@ -146,7 +146,7 @@ itinerario frente al imponente castillo de los Velasco o alcázar de los Condest
 Castilla, en cuyo interior, de trazas defensivas y palaciegas, se acoge en la actualidad 
 el **Museo Histórico de Las Merindades**. 
 
-![Detalle del Salto del Nervión de Burgos.](etheria_images/2024/03/salto-nervion-burgos-850x568.jpg "Detalle del Salto del Nervión de Burgos.")
+![Detalle del Salto del Nervión de Burgos.](etheria-images/2024/03/salto-nervion-burgos-850x568.jpg "Detalle del Salto del Nervión de Burgos.")
 
 ## Entre trampas anda el lobo
 
@@ -165,7 +165,7 @@ ajusticiaba por los daños causados a los rebaños. Hoy su visión es un valioso
 etnográfico ante el que el lobo ha encontrado un final feliz porque ha conseguido 
 sobrevivir. 
 
-![Ruta del lobo en Burgos.](etheria_images/2024/03/burgos-ruta-lobo-1-850x567.jpg "Lobera de Monte de Santiago, en la Ruta del Lobo en Burgos.")
+![Ruta del lobo en Burgos.](etheria-images/2024/03/burgos-ruta-lobo-1-850x567.jpg "Lobera de Monte de Santiago, en la Ruta del Lobo en Burgos.")
 
 ### Reflexión final
 

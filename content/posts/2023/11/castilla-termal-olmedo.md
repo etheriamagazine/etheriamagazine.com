@@ -1,13 +1,13 @@
 ---
 title: "Castilla Termal Olmedo, el retiro que Santa Teresa habría querido conocer"
 date: 2023-11-25
-coverImage: etheria_images/2023/11/castilla-termal-olmedo-patio-mudejar.jpg
+coverImage: etheria-images/2023/11/castilla-termal-olmedo-patio-mudejar.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Mujeres tan ilustres como Santa Teresa de Jesús o la reina Juana I de Castilla 
@@ -17,7 +17,7 @@ seguras de que optarían por quedarse a vivir para siempre en el actual balneari
 Castilla Termal Olmedo, un lugar excepcional para recuperar el bienestar físico y 
 espiritual en Valladolid. 
 
-![Patio Mudéjar, en el Castilla Termal Olmedo](etheria_images/2023/11/castilla-termal-olmedo-patio-mudejar.jpg "Patio Mudéjar, en el Castilla Termal Olmedo (Valladolid).")
+![Patio Mudéjar, en el Castilla Termal Olmedo](etheria-images/2023/11/castilla-termal-olmedo-patio-mudejar.jpg "Patio Mudéjar, en el Castilla Termal Olmedo (Valladolid).")
 
 La vida diaria siempre pasa factura, lo hacía cuando el convento de Sancti Spiritus de 
 Olmedo fue construido, y sigue sucediendo ahora. Si antaño la tranquilidad se buscaba en 
@@ -26,7 +26,7 @@ terrenales. Nuestra propuesta para una escapada de relax o de enoturismo es el *
 balneario Castilla Termal Olmedo**, a una hora y media de Madrid y a sólo treinta 
 kilómetros de la capital vallisoletana. Y os contamos por qué. 
 
-![Vista exterior del antiguo convento de Sancti Spiritus.](etheria_images/2023/11/castilla-termal-balneario-de-olmedo-convento.jpg "Vista exterior del antiguo convento de Sancti Spiritus.")
+![Vista exterior del antiguo convento de Sancti Spiritus.](etheria-images/2023/11/castilla-termal-balneario-de-olmedo-convento.jpg "Vista exterior del antiguo convento de Sancti Spiritus.")
 
 ## Convento de Sancti Spiritus de Olmedo
 
@@ -49,7 +49,7 @@ en 2005 el primer establecimiento de la exitosa cadena balnearia Castilla Termal
 cuenta con otros cinco bajo las mismas premisas: rehabilitación de edificios históricos, 
 aguas termales y sostenibilidad. 
 
-![Piscina termal, situada en el antiguo claustro del convento.](etheria_images/2023/11/castilla-termal-olmedo-piscina-termal.jpg "Piscina termal, situada en el antiguo claustro del convento.")
+![Piscina termal, situada en el antiguo claustro del convento.](etheria-images/2023/11/castilla-termal-olmedo-piscina-termal.jpg "Piscina termal, situada en el antiguo claustro del convento.")
 
 ## De convento a hotel termal
 
@@ -64,7 +64,7 @@ antiestrés por su efecto sedante, y beneficiosa para las afecciones dermatológ
 hipertonía muscular. Además, aumenta el flujo sanguíneo y posee un efecto analgésico y 
 antiinflamatorio. 
 
-![Patio porticado de Castilla Termal Olmedo.](etheria_images/2023/11/castilla-termal-olmedo-terraza-patio-porticado.jpg "Patio porticado de Castilla Termal Olmedo.")
+![Patio porticado de Castilla Termal Olmedo.](etheria-images/2023/11/castilla-termal-olmedo-terraza-patio-porticado.jpg "Patio porticado de Castilla Termal Olmedo.")
 
 ## Cómo es el balneario de Olmedo
 
@@ -87,7 +87,7 @@ desde 80 €) con los que podréis probar la gama cosmética elaborada con las a
 manantial y cuyos productos se pueden adquirir en la tienda del hotel. El gel exfoliante 
 es una maravilla. 
 
-![Patio Mudéjar inspirado en el patio del Monasterio de Santa Clara de Tordesillas.](etheria_images/2023/11/castilla-termal-balneario-de-olmedo-circuito-de-contrastes.jpg "Patio Mudéjar inspirado en el patio del Monasterio de Santa Clara de Tordesillas.")
+![Patio Mudéjar inspirado en el patio del Monasterio de Santa Clara de Tordesillas.](etheria-images/2023/11/castilla-termal-balneario-de-olmedo-circuito-de-contrastes.jpg "Patio Mudéjar inspirado en el patio del Monasterio de Santa Clara de Tordesillas.")
 
 ## Las habitaciones
 
@@ -100,7 +100,7 @@ Todas ellas son amplias, decoradas con tonos cálidos y brindan vistas a los jar
 hotel. Además, sus _amenities_ están libres de plásticos, una medida acorde con el 
 perfil de sostenibilidad por el que aboga la cadena. 
 
-![Junior Suite del hotel balneario Castilla Termal Olmedo.](etheria_images/2023/11/junior-suite-castilla-termal-olmedo.jpg "Junior Suite del hotel balneario Castilla Termal Olmedo.")
+![Junior Suite del hotel balneario Castilla Termal Olmedo.](etheria-images/2023/11/junior-suite-castilla-termal-olmedo.jpg "Junior Suite del hotel balneario Castilla Termal Olmedo.")
 
 ## La gastronomía
 
@@ -112,7 +112,7 @@ creatividad. La experiencia gastronómica está sumamente cuidada y sería un pe
 perderse su bacalao a la olmedana (el plato estrella) o el lechazo, tan popular en 
 Castilla y León. 
 
-![Tarta de queso del restaurante Hontanar.](etheria_images/2023/11/tarta-queso-castilla-termal.jpg "Tarta de queso del restaurante Hontanar. © Etheria Magazine")
+![Tarta de queso del restaurante Hontanar.](etheria-images/2023/11/tarta-queso-castilla-termal.jpg "Tarta de queso del restaurante Hontanar. © Etheria Magazine")
 
 Y de postre, es obligado probar su deliciosa tarta de queso. No habréis saboreado nada 
 igual. Por supuesto, todo ello regado con los vinos de la D.O. Rueda o con un vino 
@@ -123,7 +123,7 @@ Valbuena](https://etheriamagazine.com/2021/10/29/castilla-termal-valbuena-escapa
 Además del restaurante Hontanar, también se puede tomar algo más ligero en el Gastrobar 
 del Convento (con carta propia), la terraza del Patio Porticado o La Bodeguita. 
 
-![Restaurante del Castilla Termal Olmedo.](etheria_images/2023/11/restaurante-castilla-termal-olmedo.jpg "Restaurante del Castilla Termal Olmedo.")
+![Restaurante del Castilla Termal Olmedo.](etheria-images/2023/11/restaurante-castilla-termal-olmedo.jpg "Restaurante del Castilla Termal Olmedo.")
 
 ## Excursiones desde Castilla Termal Olmedo
 
@@ -142,7 +142,7 @@ restaurantes gastronómicos para disfrutar de una experiencia única.
 de la Ruta del Vino de Rueda, tu guía más 
 hedonista](https://etheriamagazine.com/2023/11/14/guia-enoturismo-ruta-del-vino-rueda/). 
 
-![Recepción del hotel balneario Castilla Termal Olmedo.](etheria_images/2023/11/recepcion-castilla-termal-olmedo.jpg "Recepción del hotel balneario Castilla Termal Olmedo.")
+![Recepción del hotel balneario Castilla Termal Olmedo.](etheria-images/2023/11/recepcion-castilla-termal-olmedo.jpg "Recepción del hotel balneario Castilla Termal Olmedo.")
 
 Y si os gusta la historia, **Medina del Campo** (23 km) y **Tordesillas** (42 km) están 
 muy cerca. Ambas son perfectas para excursiones de un día. 

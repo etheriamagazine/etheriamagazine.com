@@ -1,11 +1,11 @@
 ---
 title: "5 tipos de saunas en Estonia: desde la de humo a la flotante"
 date: 2023-03-01
-coverImage: etheria_images/2023/02/saunas-iglu.jpg
+coverImage: etheria-images/2023/02/saunas-iglu.jpg
 categories: 
   - bienestar-belleza
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Las saunas en Estonia forman parte de la vida cotidiana de sus habitantes y resultan un 
@@ -13,7 +13,7 @@ aliciente más para los visitantes. Su importancia es tal que este año 2023 ha 
 declarado el Año de la Sauna en este país. Hacemos un breve repaso de los tipos de 
 saunas más habituales. 
 
-![Dos mujeres pasean entre iglus sauna en Estonia](etheria_images/2023/02/saunas-iglu-850x354.jpg "Saunas en iglús en Estonia.")
+![Dos mujeres pasean entre iglus sauna en Estonia](etheria-images/2023/02/saunas-iglu-850x354.jpg "Saunas en iglús en Estonia.")
 
 La distancia que nos separa de un destino no se mide en horas de vuelo sino en las 
 similitudes o diferencias respecto a nuestro lugar de procedencia. Por este motivo, 
@@ -27,7 +27,7 @@ no vaya más más allá de doscientos años. Su importancia es tal que 2023 ha s
 declarado el "Año de la Sauna" y se aprovechará para profundizar en su historia, legado, 
 líderes del sector, etc. El programa es muy amplio y se puede consultar en la web [www.sauna2023.ee](http://www.sauna2023.ee) 
 
-![Ramitas de abedul para las saunas en Estonia](etheria_images/2023/02/Sauna-estonia-hojas-abedul.jpg "Ramitas de abedul para las saunas en Estonia.")
+![Ramitas de abedul para las saunas en Estonia](etheria-images/2023/02/Sauna-estonia-hojas-abedul.jpg "Ramitas de abedul para las saunas en Estonia.")
 
 ## Tipos de saunas en Estonia
 
@@ -53,7 +53,7 @@ abedul para eliminar impurezas y activar la circulación. Es una práctica muy f
 la que los abuelos traspasan sus conocimientos a los nietos, que desde pequeños son 
 instruidos. 
 
-![Sauna de humo en Estonia](etheria_images/2023/02/sauna-humo-estonia.jpg "Sauna de humo en Estonia.")
+![Sauna de humo en Estonia](etheria-images/2023/02/sauna-humo-estonia.jpg "Sauna de humo en Estonia.")
 
 ### Sauna de iglú
 
@@ -63,7 +63,7 @@ se pueden encontrar en diversos puntos del país, desde las islas hasta la zona 
 Uno de los espacios más curiosos para disfrutarlas es el **Parque de los Iglús de 
 Tallin**. 
 
-![Iglupark conjunto de iglus sauna en Estonia](etheria_images/2023/02/Iglupark-saunas-estonia-850x567.jpg "Parque de los Iglús en Tallin. © Visit Estonia")
+![Iglupark conjunto de iglus sauna en Estonia](etheria-images/2023/02/Iglupark-saunas-estonia-850x567.jpg "Parque de los Iglús en Tallin. © Visit Estonia")
 
 ### Sauna flotante
 
@@ -72,7 +72,7 @@ agua para realizar contrastes (los más valientes también las usan en invierno)
 estar situadas en una embarcación o en una plataforma flotante. Algunas incluso tienen 
 terraza y zona de barbacoa por lo que brindan una experiencia completa. 
 
-![sauna flotante en Estonia](etheria_images/2023/02/sauna-flotante-estonia.jpg "Sauna flotante, en invierno se realizan los contrastes en el agua helada.")
+![sauna flotante en Estonia](etheria-images/2023/02/sauna-flotante-estonia.jpg "Sauna flotante, en invierno se realizan los contrastes en el agua helada.")
 
 ### Sauna clásica
 
@@ -87,7 +87,7 @@ También hay que mencionar las bañeras de hidromasaje que se suelen combinar co
 saunas de humo o finlandesas. Suelen estar al aire libre por lo que resultan un respiro 
 al salir de las anteriores. 
 
-![sauna finlandesa en Estonia](etheria_images/2023/02/sauna-finlandesa-estonia.jpg "La sauna finlandesa es la considerada la más clásica.")
+![sauna finlandesa en Estonia](etheria-images/2023/02/sauna-finlandesa-estonia.jpg "La sauna finlandesa es la considerada la más clásica.")
 
 ### Sauna de infrarrojos
 

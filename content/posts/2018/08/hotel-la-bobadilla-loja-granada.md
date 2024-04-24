@@ -1,12 +1,12 @@
 ---
 title: "La Bobadilla, uno de los hoteles más bonitos del mundo"
 date: 2018-08-23
-coverImage: etheria_images/2018/08/La-Bobadilla-panoramica.jpg
+coverImage: etheria-images/2018/08/La-Bobadilla-panoramica.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La Bobadilla, ubicado en Loja (Granada), es mucho más que un hotel, es un lugar apartado 
@@ -14,7 +14,7 @@ de todo donde la palabra descanso toma la forma que tú quieras. Y, además, es 
 ser ostentoso, con esa belleza reconocida de paredes encaladas, maderas labradas, aires 
 moriscos y un mar de olivos como vistas. 
 
-![hall hotel La Bobadilla](etheria_images/2018/08/La-Bobadilla-hall.jpg "Hall de entrada de La Bobadilla, a Royal Hideaway Hotel.")
+![hall hotel La Bobadilla](etheria-images/2018/08/La-Bobadilla-hall.jpg "Hall de entrada de La Bobadilla, a Royal Hideaway Hotel.")
 
 ```
 Actualizado agosto 2023
@@ -44,7 +44,7 @@ andaluza exquisita. Cuentan con todo tipo de comodidades e incluyen el Wi-Fi gra
 el servicio de habitaciones 24 horas. La tranquilidad de entorno asegura el descanso: 
 sólo escucharás el trino de los pájaros. 
 
-![junior suite hotel La Bobadilla](etheria_images/2018/08/La-Bobadilla-suite.jpg "Junior Suite Alhambra.")
+![junior suite hotel La Bobadilla](etheria-images/2018/08/La-Bobadilla-suite.jpg "Junior Suite Alhambra.")
 
 ## Aburrirte depende sólo de ti
 
@@ -58,7 +58,7 @@ puede contratar un masaje o tratamiento para dos en la Suite Spa. En este espaci
 también disfrutarás de las tumbonas térmicas, las duchas de contrastes, la piscina 
 dinámica, el baño turco o la sauna finlandesa. 
 
-![piscina hotel La Bobadilla](etheria_images/2018/08/La-Bobadilla-piscina.jpg "Piscina de La Bobadilla, a Royal Hideaway Hotel.")
+![piscina hotel La Bobadilla](etheria-images/2018/08/La-Bobadilla-piscina.jpg "Piscina de La Bobadilla, a Royal Hideaway Hotel.")
 
 Pero si quieres aprovechar las horas y realizar algo de deporte, el hotel cuenta con una 
 **pista de pádel, una de tenis y un gimnasio**, además de **juegos** como la petanca, el 
@@ -71,7 +71,7 @@ externa), **senderismo** (hay monitores para rutas guiadas) o una **ruta en bici
 no, una **cata de aceite o aceitunas** con expertos en la materia para conocer un poco 
 más de ese oro líquido que es el motor de esta zona productora. 
 
-![caballos cerca hotel La Bobadilla granada](etheria_images/2018/08/La-Bobadilla-caballos.jpg "Caballos en las inmediaciones del hotel.")
+![caballos cerca hotel La Bobadilla granada](etheria-images/2018/08/La-Bobadilla-caballos.jpg "Caballos en las inmediaciones del hotel.")
 
 ## Mima también el paladar
 
@@ -87,7 +87,7 @@ vistas espectaculares de la sierra de Loja y el olivar. Y si vas en verano, podr
 disfrutar del nuevo restaurante **El Mirador**, para comer en un ambiente más informal 
 cerca de la piscina. 
 
-![bar la plaza hotel La Bobadilla granada](etheria_images/2018/08/La-Bobadilla-bar-Patio.jpg "Bar La Plaza.")
+![bar la plaza hotel La Bobadilla granada](etheria-images/2018/08/La-Bobadilla-bar-Patio.jpg "Bar La Plaza.")
 
 En esos momentos en los que buscas un lugar relajado donde tomar algo, puedes ir a 
 alguno de los bares que se ubican en lugares muy especiales: la **Plaza**, en la entrada 

@@ -1,19 +1,19 @@
 ---
 title: "Así son las mujeres de Brujas (y no, no son brujas)"
 date: 2019-07-03
-coverImage: etheria_images/2019/06/viaje-flandes-mujeres-paseo-bicicleta.jpg
+coverImage: etheria-images/2019/06/viaje-flandes-mujeres-paseo-bicicleta.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Ejemplos de auténtica sororidad, la historia de las mujeres de Brujas fluye más allá de sus canales. Artesanas, cuidadoras, aristócratas... conocerlas revela otra cara de la ciudad. Si buscas una ciudad para un fin de semana con amigas, Brujas lo tiene todo para que sea un éxito.
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica](etheria_images/2019/06/viaje-flandes-mujeres-paseo-bicicleta.jpg "Las brujenses prefieren las bicicletas a las escobas. ©KR")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica](etheria-images/2019/06/viaje-flandes-mujeres-paseo-bicicleta.jpg "Las brujenses prefieren las bicicletas a las escobas. ©KR")
 
 Todavía hay quien llega a [Brujas](https://www.visitflanders.com/es/) buscando 
 hechiceras de verruga en cara y pócima en mano. La evolución fonética, la gran culpable 
@@ -27,7 +27,7 @@ por antonomasia— o el [Museo de las Patatas Fritas](http://www.frietmuseum.be/
 por algo las inventaron los belgas (ni caso a eso de _french fries)_. Pero antes de las 
 cuestiones hedonistas, así son las mujeres que han escrito su historia. 
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, encajeras](etheria_images/2019/06/viaje-flandes-mujeres-encaje.jpg "Regalar una pieza encaje, la opción más clásica. © Visit Flanders")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, encajeras](etheria-images/2019/06/viaje-flandes-mujeres-encaje.jpg "Regalar una pieza encaje, la opción más clásica. © Visit Flanders")
 
 ## Las encajeras
 
@@ -49,7 +49,7 @@ de Brujas y contiene un museo donde se realizan demostraciones al público. Te
 sorprenderá la gran afición que existe por el **encaje de bolillos** entre los belgas 
 más jóvenes. 
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, beaterio brujas](etheria_images/2019/06/viaje-flandes-mujeres-beaterio.jpg "El idílico entorno del beaterio de Brujas está protagonizado por canales, jardines y por el lago del Amor, siempre colmado de cisnes. ©KR")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, beaterio brujas](etheria-images/2019/06/viaje-flandes-mujeres-beaterio.jpg "El idílico entorno del beaterio de Brujas está protagonizado por canales, jardines y por el lago del Amor, siempre colmado de cisnes. ©KR")
 
 ## Las beguinas y sus conventos laicos
 
@@ -71,7 +71,7 @@ acusadas de herejía.
 
 > Los beaterios siguen activos y mantienen la misma filosofía que en el siglo XV. 
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, sepulcro maria borgona](etheria_images/2019/06/viaje-flandes-mujeres-maria-borgona.jpg "Sepulcro gótico de María de Borgoña, en la iglesia de Nuestra Señora. ©KR")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, sepulcro maria borgona](etheria-images/2019/06/viaje-flandes-mujeres-maria-borgona.jpg "Sepulcro gótico de María de Borgoña, en la iglesia de Nuestra Señora. ©KR")
 
 ## La leyenda de María de Borgoña
 
@@ -91,7 +91,7 @@ en 1979 una sorprendente cajita de plomo que guardaba el corazón de su hijo, **
 Hermoso**. El cofre original hoy se encuentra en el cercano [palacio de 
 Gruuthuse](https://www.museabrugge.be/es). 
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, virgen con nino miguel angel](etheria_images/2019/06/viaje-flandes-mujeres-iglesia.jpg "La iglesia de Nuestra Señora contiene la segunda torre de ladrillo más alta del mundo. (Izq.) La Vírgen con el Niño, de Miguel Ángel. (Dcha) ©KR")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, virgen con nino miguel angel](etheria-images/2019/06/viaje-flandes-mujeres-iglesia.jpg "La iglesia de Nuestra Señora contiene la segunda torre de ladrillo más alta del mundo. (Izq.) La Vírgen con el Niño, de Miguel Ángel. (Dcha) ©KR")
 
 ##### No te pierdas…
 
@@ -99,7 +99,7 @@ La escultura de mármol de la Virgen con el Niño, de **Miguel Ángel**, es la �
 que se mantuvo fuera de Italia durante la vida del artista y también se encuentra en la 
 iglesia de Nuestra Señora. 
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, casa caridad](etheria_images/2019/06/viaje-flandes-mujeres-casa-caridad.jpg "Casa de la Caridad de Meulenaere, en Brujas. ©KR")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, casa caridad](etheria-images/2019/06/viaje-flandes-mujeres-casa-caridad.jpg "Casa de la Caridad de Meulenaere, en Brujas. ©KR")
 
 ## Las cuidadoras de las Casas de la Caridad
 
@@ -123,7 +123,7 @@ La **casa de St. Jozef** es una de las más céntricas. Dirígete a los jardines
 **Godshuis De Meulenaere** para encontrar un ambiente más acorde y alejado de los 
 derroteros más turísticos. 
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, palacio gruuthuse](etheria_images/2019/06/viaje-flandes-mujeres-palacio-gruuthuse.jpg "Exterior gótico del Palacio de Gruuthuse. ©KR")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, palacio gruuthuse](etheria-images/2019/06/viaje-flandes-mujeres-palacio-gruuthuse.jpg "Exterior gótico del Palacio de Gruuthuse. ©KR")
 
 ## Tres razones para viajar a Brujas
 
@@ -137,7 +137,7 @@ madera con acceso exclusivo a la contigua iglesia de Nuestra Señora. Tras cinco
 remodelación, ya es posible acceder a este lujoso edificio gótico dedicado a las artes 
 decorativas. 
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, cerveza brujas](etheria_images/2019/06/viaje-flandes-mujeres-cerveza.jpg "¿Por qué no probar una cerveza brujense para terminar el día? ©KR")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, cerveza brujas](etheria-images/2019/06/viaje-flandes-mujeres-cerveza.jpg "¿Por qué no probar una cerveza brujense para terminar el día? ©KR")
 
 ### • Ir de compras y cervezas por Brujas.
 
@@ -154,7 +154,7 @@ debatirnos después entre las cientos de marcas y opciones cerveceras de [Brugs
 Beertje](https://www.brugsbeertje.be/en/home-2/) y del afamado [Café 
 Vlissinghe](https://www.cafevlissinghe.be/), un local del año 1515. 
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, duke palace](etheria_images/2019/06/viaje-flandes-mujeres-dukes-palace.jpg "Dukes Palace es el único hotel de Brujas con cinco estrellas. ©KR")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica, duke palace](etheria-images/2019/06/viaje-flandes-mujeres-dukes-palace.jpg "Dukes Palace es el único hotel de Brujas con cinco estrellas. ©KR")
 
 ### • Dormir como una duquesa
 
@@ -167,7 +167,7 @@ el mismo lugar en el que hoy se encuentra el [hotel Dukes
 Palace](https://www.hoteldukespalace.com/es/), de estilo neogótico, nos da más razones 
 para creer en su poder romántico y en ‘la vida borgoñona’. 
 
-![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica,](etheria_images/2019/06/viaje-flandes-mujeres-final.jpg "Mires donde mires, en Brujas todo son postales. ©KR")
+![Viaje de mujeres a brujas, que ver en brujas, mujeres de flandes belgica,](etheria-images/2019/06/viaje-flandes-mujeres-final.jpg "Mires donde mires, en Brujas todo son postales. ©KR")
 
 ### También te puede interesar
 

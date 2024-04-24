@@ -1,11 +1,11 @@
 ---
 title: "Celebra la Nochevieja en Madrid con una cena de gala"
 date: 2022-11-11
-coverImage: etheria_images/2022/11/nochevieja-brindis.jpg
+coverImage: etheria-images/2022/11/nochevieja-brindis.jpg
 categories: 
   - mejores-restaurantes-gastronomia
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Ya queda menos para la última noche del año y seguro que estás dándole vueltas a cómo 
@@ -14,7 +14,7 @@ gala? En este artículo te proponemos ocho lugares para celebrar la Nochevieja e
 que van desde los hoteles de lujo más clásicos hasta propuestas divertidas y descaradas. 
 Desempolva las lentejuelas que nos vamos de fiesta. 
 
-![copas de champán brindando](etheria_images/2022/11/nochevieja-brindis.jpg "Vayas donde vayas, no te olvides de brindar por todo lo bueno que traerá el año próximo.")
+![copas de champán brindando](etheria-images/2022/11/nochevieja-brindis.jpg "Vayas donde vayas, no te olvides de brindar por todo lo bueno que traerá el año próximo.")
 
 La Nochevieja es la más festiva de todas las celebraciones navideñas, la que más 
 asociamos a vestirnos con brilli brilli y salir a pasarlo bien. Una opción muy tentadora 
@@ -43,7 +43,7 @@ gastronómicas de finales de los 50 y principios de los 60 del siglo pasado, cua
 actriz residió en este hotel. Concretamente la cena de Nochevieja presenta un menú que 
 refleja su vida en Madrid y los lugares que frecuentaba, e incluye baile y cotillón. 
 
-![Ava Gadner y mesa de gala en el hotel Intercontinental](etheria_images/2022/11/navidad-intercontinental.jpg "Homenaje a Ava Gadner en la fiesta de Fin de Año del hotel Intercontinental.")
+![Ava Gadner y mesa de gala en el hotel Intercontinental](etheria-images/2022/11/navidad-intercontinental.jpg "Homenaje a Ava Gadner en la fiesta de Fin de Año del hotel Intercontinental.")
 
 Los platos aluden al vermouth en la Gran Vía, el tablao flamenco de la plaza de Santa 
 Ana, a Jockey y sus patatas San Clemencio y a un paseo por la calle Cuchilleros. A las 
@@ -62,7 +62,7 @@ una nominación a los “Best Restaurant Awards”. Han titulado el menú como �
 una cocina entre volcanes”, y los ocho pasos que lo componen son un claro guiño a su 
 tierra. 
 
-![pescado y aperitivos de The Westin Palace](etheria_images/2022/11/cena-nochevieja-palace.jpg "Platos del menú de Nochevieja de The Westin Palace.")
+![pescado y aperitivos de The Westin Palace](etheria-images/2022/11/cena-nochevieja-palace.jpg "Platos del menú de Nochevieja de The Westin Palace.")
 
 Algunos de los platos que podrás degustar son el Consomé con anguila ahumada, el 
 Bogavante en jugo de coral y su parmentier o el Solomillo de ternera con boletus y 
@@ -84,7 +84,7 @@ ingredientes que incluye el menú son el carabinero a la plancha, la merluza de 
 el solomillo de buey. Después de la cena, la fiesta se traslada al bar Tarde. O con 
 música en vivo y DJ Sessions. 
 
-![salón del restaurante del hotel Villa Magna y plato de pescado](etheria_images/2022/11/nochevieja-villa-magna.jpg "Nochevieja en el restaurante Las Brasas del hotel Rosewood Villa Magna.")
+![salón del restaurante del hotel Villa Magna y plato de pescado](etheria-images/2022/11/nochevieja-villa-magna.jpg "Nochevieja en el restaurante Las Brasas del hotel Rosewood Villa Magna.")
 
 Precio 510 Euros (niños hasta 12 años descuento de 50%). 
 
@@ -98,7 +98,7 @@ terciopelo rojo lleno de glamour y sofisticación. Como no podía ser de otra fo
 noche termina con un cotillón de lujo y unos snacks cuando entra la madrugada que van de 
 las croquetas de boletus al tradicional chocolate con churros. 
 
-![Mesa de gala en el museo del hotel Urban.](etheria_images/2022/11/hotel-urban-nochevieja.jpg "Mesa de gala en el museo del hotel Urban.")
+![Mesa de gala en el museo del hotel Urban.](etheria-images/2022/11/hotel-urban-nochevieja.jpg "Mesa de gala en el museo del hotel Urban.")
 
 Precio: 350 Euros (sólo cena), 499 Euros (con cotillón) y 95 Euros (niños). 
 
@@ -111,7 +111,7 @@ y se encuentra a sólo trescientos metros de la plaza de Oriente, en un lugar qu
 puede ser más especial. Para las fechas navideñas Meliá propone _A Christmas Tale, Plate 
 by Plate_ un menú inspirado por los principales chefs de sus hoteles. 
 
-![Salón del restaurante del Palacio de los Duques y Ángel León.](etheria_images/2022/11/gran-melia-nochevieja.jpg "Palacio de los Duques Gran Meliá y Ángel León, uno de los chefs que participan en el menú de Fin de Año.")
+![Salón del restaurante del Palacio de los Duques y Ángel León.](etheria-images/2022/11/gran-melia-nochevieja.jpg "Palacio de los Duques Gran Meliá y Ángel León, uno de los chefs que participan en el menú de Fin de Año.")
 
 Por ejemplo, los entrantes corren a cargo de Ángel León (Gran Meliá Sancti Petri) y 
 Marga Coll (Hotel de Mar) con Tocinillo de Mar y Crema de avellanas con cigala 
@@ -158,7 +158,7 @@ menú de Nochevieja está formado por tres primeros, dos segundos y un postre, y
 propuestas tan rompedoras como el Rulo de aguacate relleno de king crab o el cochinillo 
 con puré de raíz de apio y encurtidos. 
 
-![Sala y ostra del restaurante Quintoelemento.](etheria_images/2022/11/quintoelemento-nochevieja.jpg "Sala y ostra del restaurante Quintoelemento.")
+![Sala y ostra del restaurante Quintoelemento.](etheria-images/2022/11/quintoelemento-nochevieja.jpg "Sala y ostra del restaurante Quintoelemento.")
 
 Precio: 280 Euros. 
 

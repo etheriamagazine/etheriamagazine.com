@@ -1,18 +1,18 @@
 ---
 title: "'Te invito a un mojito', un libro que puede salvar vidas"
 date: 2021-10-19
-coverImage: etheria_images/2021/10/te-invito-mojito-paka-mabel.jpg
+coverImage: etheria-images/2021/10/te-invito-mojito-paka-mabel.jpg
 categories: 
   - libros-de-viajes
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Cada 19 de octubre, Día Internacional de la Lucha contra el Cáncer de Mama, el mundo se llena de grandes lazos rosas y afloran muchas emociones, sobre todo en aquellas personas que han perdido a un ser querido debido a esta enfermedad, que la padecen en ese momento o que la han superado. Este año llegamos a esa fecha con una nueva herramienta de prevención: ‘Te invito a un mojito’, un libro escrito por Paka Díaz y Mabel Lozano.
 
-![libro te invito a un mojito cancer de mama](etheria_images/2021/10/te-invito-a-un-mojito-668x1024.jpg "'Te invito a un mojito', un libro que aborda el cáncer de mama.")
+![libro te invito a un mojito cancer de mama](etheria-images/2021/10/te-invito-a-un-mojito-668x1024.jpg "'Te invito a un mojito', un libro que aborda el cáncer de mama.")
 
 Una de las grandes cuentas pendientes en nuestro país, y en muchos otros, es la 
 prevención en materia de salud; en pocas ocasiones se toman medidas para mantenernos 
@@ -30,7 +30,7 @@ han podido superar.
 > avanzado que se encuentre cuando se detecta. Estar alerta, por tanto, te puede salvar la 
 > vida. 
 
-![paka diaz y mabel lozano te invito a un mojito](etheria_images/2021/10/paka-diaz-mabel-lozano.jpg "Paka Díaz y Mabel Lozano, autoras de 'Te invito a un mojito'.")
+![paka diaz y mabel lozano te invito a un mojito](etheria-images/2021/10/paka-diaz-mabel-lozano.jpg "Paka Díaz y Mabel Lozano, autoras de 'Te invito a un mojito'.")
 
 ## Un libro como compañero de fatigas
 
@@ -62,7 +62,7 @@ Convertir esa red de sororidad que hay entre las pacientes oncológicas en un li
 pareció una muy buena idea. Aunque es verdad que, al final, cada una tiene que recorrer 
 su camino. Pero no es lo mismo hacerlo sola que acompañada”. 
 
-![autoexploracion mamaria cancer](etheria_images/2021/10/autoexploracion-mamaria.jpg "La autoexploración mamaria puede salvar tu vida.")
+![autoexploracion mamaria cancer](etheria-images/2021/10/autoexploracion-mamaria.jpg "La autoexploración mamaria puede salvar tu vida.")
 
 ### Una herramienta práctica
 
@@ -85,7 +85,7 @@ presión en frío. Y evitar procesados, refinados, carnes, lácteos y huevos”.
 que hablar de un ‘alimento-medicina’ clave en un proceso cancerígeno este sería el 
 miso”. El capítulo termina con las recetas de Paka, Gema (la hermana de Paka) y Mabel. 
 
-![lazo rosa cancer de mama](etheria_images/2021/10/lazo-rosa-cancer.jpg "Lazo rosa, símbolo de la lucha contra el cáncer de mama.")
+![lazo rosa cancer de mama](etheria-images/2021/10/lazo-rosa-cancer.jpg "Lazo rosa, símbolo de la lucha contra el cáncer de mama.")
 
 ### Para quién es este libro
 

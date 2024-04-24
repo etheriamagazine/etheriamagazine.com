@@ -1,20 +1,20 @@
 ---
 title: "Røros, historia de una peculiar ciudad minera de Noruega"
 date: 2019-06-06
-coverImage: etheria_images/2019/05/Roros-noruega-casas-trabajadores-calle-sleggveien.jpg
+coverImage: etheria-images/2019/05/Roros-noruega-casas-trabajadores-calle-sleggveien.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - colaboradores
+authors: 
+  - Firmas invitadas
 ---
 
 A través de la arquitectura, la ciudad noruega de Røros nos habla de su pasado y de su presente. Te proponemos que nos acompañes a pasear por sus calles, a detenerte frente a las viviendas, a entrar en algún museo y, también, a probar la cocina local y bajar a alguno de sus pozos mineros. ¿Estás preparada?
 
 **Texto y fotos: Menchu Redondo** 
 
-![Ganadero con una vaca por las calles de Roros, en Noruega.](etheria_images/2019/05/Roros-noruega.jpg "En Røros la vida transcurre tranquila.")
+![Ganadero con una vaca por las calles de Roros, en Noruega.](etheria-images/2019/05/Roros-noruega.jpg "En Røros la vida transcurre tranquila.")
 
 Røros es una pequeña ciudad noruega de casas de madera que surgió en el siglo XVII en 
 torno a una explotación minera de cobre cuyas minas cerraron definitivamente en 1977. 
@@ -39,7 +39,7 @@ los bosques y de los recursos hídricos en un radio de 40 kilómetros. Es entonc
 la compañía minera construyó una fundición en torno a la cual comenzó a crearse la 
 ciudad de Røros. 
 
-![Iglesia de Bergstandens Ziir.](etheria_images/2019/05/Roros-noruega-escombrera-minas-de-cobre-iglesia.jpg "Iglesia de Bergstandens Ziir.")
+![Iglesia de Bergstandens Ziir.](etheria-images/2019/05/Roros-noruega-escombrera-minas-de-cobre-iglesia.jpg "Iglesia de Bergstandens Ziir.")
 
 ## Dos orillas, dos mundos
 
@@ -58,14 +58,14 @@ plantas pintados de vivos colores donde actualmente puedes encontrar restaurante
 hoteles, tiendas y la **iglesia Bergstandens Ziir**. Este templo, que data de 1784, fue 
 construido con las donaciones de los mineros. 
 
-![Kjerkgata, una animada calle de Roros.](etheria_images/2019/05/Roros-noruega-calle-kjerkgata.jpg "Calle Kjerkgata.")
+![Kjerkgata, una animada calle de Roros.](etheria-images/2019/05/Roros-noruega-calle-kjerkgata.jpg "Calle Kjerkgata.")
 
 En la otra orilla la imagen es muy distinta: de una montaña de escombros de cobre parte 
 la **calle Sleggyeien** jalonada por casitas humildes coronadas por tejados invadidos 
 por la maleza. Antaño servían de alojamiento a los trabajadores eventuales de las minas 
 y gente de paso por la ciudad. 
 
-![Casas de los mineros de la calle Sleggveien.](etheria_images/2019/05/Roros-noruega-casas-trabajadores-calle-sleggveien.jpg "Casas de los mineros de la calle Sleggveien.")
+![Casas de los mineros de la calle Sleggveien.](etheria-images/2019/05/Roros-noruega-casas-trabajadores-calle-sleggveien.jpg "Casas de los mineros de la calle Sleggveien.")
 
 ## Conoce la historia de las minas
 
@@ -85,7 +85,7 @@ como objetivo la conservación del patrimonio histórico de la ciudad y de la mi
 como la preservación de la cultura del pueblo sami (los antiguos moradores de esta 
 región). 
 
-![Museo Smelthytta, en Roros.](etheria_images/2019/05/roros-noruega-museo-smelthytta.jpg "Museo Smelthytta.")
+![Museo Smelthytta, en Roros.](etheria-images/2019/05/roros-noruega-museo-smelthytta.jpg "Museo Smelthytta.")
 
 ## Títulos bien merecidos
 
@@ -97,7 +97,7 @@ sus títulos, ya que desde hace algunos años ostenta el galardón de “Destino
 que otorga la Organización Mundial del Turismo solo a los más respetuosos con el medio 
 ambiente y la protección de su cultura y tradiciones. 
 
-![Es muy aconsejable bajar a la mina Olavsgruda.](etheria_images/2019/05/roros-noruega-minas-de-olav.jpg "Es muy aconsejable bajar a la mina Olavsgruda.")
+![Es muy aconsejable bajar a la mina Olavsgruda.](etheria-images/2019/05/roros-noruega-minas-de-olav.jpg "Es muy aconsejable bajar a la mina Olavsgruda.")
 
 ## Bajada a la mina
 
@@ -121,7 +121,7 @@ pequeña producción, solo están destinados a un mercado minorista regional y a
 restaurantes de Noruega. Por este motivo, debes aprovechar tu estancia en Røros para 
 disfrutar de estos productos. 
 
-![Granja Scottgarden, en Roros, Noruega.](etheria_images/2019/05/roros-granja-scottgarden-vauldalen-fjellhotell-jorid-skott-svendsen.jpg "Granja Scottgarden.")
+![Granja Scottgarden, en Roros, Noruega.](etheria-images/2019/05/roros-granja-scottgarden-vauldalen-fjellhotell-jorid-skott-svendsen.jpg "Granja Scottgarden.")
 
 ## Como en casa de tu abuela
 
@@ -138,7 +138,7 @@ excursiones para ver las auroras boreales, ir a pescar truchas, hacer recorridos
 motos de nieve o en trineo tirados por percherones noruegos, una raza de caballos 
 autóctona del país tan duros y bellos como el clima y el paisaje que los rodea. 
 
-![Granja de renos Torsvoll, en Roros, Noruega.](etheria_images/2019/05/Roros-noruega-granja-renos-torsvoll.jpg "Granja de renos Torsvoll.")
+![Granja de renos Torsvoll, en Roros, Noruega.](etheria-images/2019/05/Roros-noruega-granja-renos-torsvoll.jpg "Granja de renos Torsvoll.")
 
 ## Da de comer a los renos
 
@@ -152,7 +152,7 @@ abierto el apetito acércate hasta la [granja Kalsa Gårdsbakeri](http://www.kal
 Glamos. Un lugar lleno de encanto donde puedes degustar el _pjalt_ una especie de crepé 
 dulce acompañado por una selección de quesos excelentes elaborados por ellos mismos. 
 
-![Granja Kalsa Gardsbakeri](etheria_images/2019/05/roros-noruega-granja-kalsa-gardsbakeri.jpg "Granja Kalsa Gardsbakeri.")
+![Granja Kalsa Gardsbakeri](etheria-images/2019/05/roros-noruega-granja-kalsa-gardsbakeri.jpg "Granja Kalsa Gardsbakeri.")
 
 ### Más de Noruega en Etheria Magazine
 

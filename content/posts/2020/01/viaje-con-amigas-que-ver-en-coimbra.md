@@ -1,20 +1,20 @@
 ---
 title: "Nuestros favoritos de Coimbra, una ciudad donde los sueños se hacen realidad"
 date: 2020-01-31
-coverImage: etheria_images/2020/01/universidad-coimbra.jpg
+coverImage: etheria-images/2020/01/universidad-coimbra.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Un fin de semana en Coimbra te asegura visitas históricas, ambiente universitario, 
 museos variopintos, fados, historias de amor y una rica gastronomía. Un viaje con amigas 
 o en familia a esta ciudad portuguesa lo tiene todo para ser un sueño cumplido. 
 
-![Patio de la Universidad de Coimbra](etheria_images/2020/01/universidad-coimbra-1-900x598.jpg "Patio de la Universidad de Coimbra. © RR/ TdP")
+![Patio de la Universidad de Coimbra](etheria-images/2020/01/universidad-coimbra-1-900x598.jpg "Patio de la Universidad de Coimbra. © RR/ TdP")
 
 Coimbra es una ciudad que invita al paseo y al descubrimiento de forma individual porque 
 en cada esquina se encuentra algo sorprendente. Lo primero que percibirás son los 
@@ -34,7 +34,7 @@ de las primeras de Europa. Incluso fue reconocida por la Unesco como Patrimonio 
 Humanidad. El conjunto de edificios que la alberga había sido la residencia de los 
 primeros reyes de Portugal. 
 
-![Las escaleras de la Universidad son el photocall favorito de los estudiantes.](etheria_images/2020/01/universidad-coimbra-900x587.jpg "Las escaleras de la Universidad son el photocall favorito de los estudiantes. © Pepa García")
+![Las escaleras de la Universidad son el photocall favorito de los estudiantes.](etheria-images/2020/01/universidad-coimbra-900x587.jpg "Las escaleras de la Universidad son el photocall favorito de los estudiantes. © Pepa García")
 
 Merece la pena reservar al menos dos horas para esta visita porque hay que hacerla de 
 forma guiada. Los lugares más interesantes son el enorme patio de las Escuelas, la sala 
@@ -47,7 +47,7 @@ El momento más importante del año para la comunidad estudiantil es la **Queima
 fitas** (Quema de las cintas). No os podéis hacer una idea de la dimensión de esta 
 fiesta. 
 
-![La Biblioteca Joanina es una de las joyas de la Universidad de Coimbra.](etheria_images/2020/01/coimbra-biblioteca-joanina-900x632.jpg "La Biblioteca Joanina es una de las joyas de la Universidad de Coimbra. © Pepa García")
+![La Biblioteca Joanina es una de las joyas de la Universidad de Coimbra.](etheria-images/2020/01/coimbra-biblioteca-joanina-900x632.jpg "La Biblioteca Joanina es una de las joyas de la Universidad de Coimbra. © Pepa García")
 
 ### 2\. Sé Velha o Catedral Vieja
 
@@ -59,7 +59,7 @@ la mejor de Portugal en este estilo), fue edificada en el siglo XII. Si te fijas
 portada principal descubrirás influencia islámicas, y en la lateral, renacentistas. No 
 pases de largo, y entra para admirar sus bonitos retablos. 
 
-![Catedral Vieja de Coimbra](etheria_images/2020/01/coimbra-Se-Velha-900x675.jpg "Catedral Vieja de Coimbra. © Rogério Figueira")
+![Catedral Vieja de Coimbra](etheria-images/2020/01/coimbra-Se-Velha-900x675.jpg "Catedral Vieja de Coimbra. © Rogério Figueira")
 
 ### 3\. Jardines de Quinta das Lágrimas
 
@@ -78,7 +78,7 @@ enamorados para enviarse mensajes; y la **Fonte das Lágrimas**, cuyo origen est
 las lágrimas que vertió Inés cuando la mataban. Dice la leyenda, también, que la mancha 
 roja de la roca (procedente de un alga) es la sangre de esta dama. 
 
-![La Quinta das Lagrimas acoge ahora un hotel de lujo en Coimbra.](etheria_images/2020/01/quinta-das-lagrimas-coimbra-900x593.jpg "La Quinta das Lagrimas acoge ahora un hotel de lujo en Coimbra.")
+![La Quinta das Lagrimas acoge ahora un hotel de lujo en Coimbra.](etheria-images/2020/01/quinta-das-lagrimas-coimbra-900x593.jpg "La Quinta das Lagrimas acoge ahora un hotel de lujo en Coimbra.")
 
 ### 4\. Museo Nacional Machado de Castro
 
@@ -91,7 +91,7 @@ escultura, metales preciosos, joyería, pinturas y mobiliario. El nombre del mus
 recuerda a Joaquim Machado de Castro, un conocido escultor portugués. Si viajas con 
 niños, pregunta por las visitas teatralizadas. 
 
-![Museo Nacional Machado de Castro.](etheria_images/2020/01/Museu-Nacional-Machado-Castro-Coimbra-900x666.jpg "Museo Nacional Machado de Castro. © DGCP")
+![Museo Nacional Machado de Castro.](etheria-images/2020/01/Museu-Nacional-Machado-Castro-Coimbra-900x666.jpg "Museo Nacional Machado de Castro. © DGCP")
 
 ### 5\. Monasterio de Santa Clara a Velha
 
@@ -104,7 +104,7 @@ abandonado a mediados del siglo XVII. Ahora se puede pasear por lo que queda del
 y también visitar el centro de interpretación donde se exponen los objetos encontrados 
 allí. 
 
-![Monasterio de Santa Clara a Velha](etheria_images/2020/01/monasterio-santa-Clara-Velha-Coimbra-900x473.jpg "Monasterio de Santa Clara a Velha. © Centro de Portugal")
+![Monasterio de Santa Clara a Velha](etheria-images/2020/01/monasterio-santa-Clara-Velha-Coimbra-900x473.jpg "Monasterio de Santa Clara a Velha. © Centro de Portugal")
 
 ### 6\. Espectáculo de fado de Coimbra
 
@@ -118,7 +118,7 @@ relaciona con las canciones medievales de los trovadores.
 Estas melodías de Coimbra, que rezuman melancolía, van acompañadas por los acordes de la 
 guitarra portuguesa y son interpretadas por voces masculinas. 
 
-![Fado de Coimbra.](etheria_images/2020/01/Fado-Coimbra-900x593.jpg "Fado de Coimbra. © Paulo Magalhaes")
+![Fado de Coimbra.](etheria-images/2020/01/Fado-Coimbra-900x593.jpg "Fado de Coimbra. © Paulo Magalhaes")
 
 Hay varios locales en la ciudad donde se puede acudir para ver una actuación en directo, 
 pero, probablemente, ninguno tan especial como [Á Capella](http://www.acapella.com.pt/) 
@@ -127,7 +127,7 @@ incluir una cena con los platos típicos (por supuesto, el bacalao está incluid
 opción, si no conseguís mesa allí es [Fado ao 
 Centro](http://www.fadoaocentro.com/es)[.](https://www.facebook.com/fadohilario/) 
 
-![Visita los cafés históricos de Coimbra.](etheria_images/2020/01/cafe-restaurante-coimbra-900x600.jpg "Visita los cafés históricos de Coimbra. © Pepa García")
+![Visita los cafés históricos de Coimbra.](etheria-images/2020/01/cafe-restaurante-coimbra-900x600.jpg "Visita los cafés históricos de Coimbra. © Pepa García")
 
 ### 7\. Pasteles y café, siempre en Portugal
 
@@ -144,7 +144,7 @@ es deliciosa y la puedes encontrar en cualquier supermercado).
 ?¿Sabías que existe un tour gastronómico en Coimbra? No es especialmente barato pero 
 merece la pena. [Infórmate](https://www.civitatis.com/es/coimbra/tour-gastronomico-coimbra/?aid=10211). 
 
-![En el Tivoli Coimbra también miman tu paladar.](etheria_images/2020/01/Tivoli-Coimbra-Simone-Restaurant-900x599.jpg "En el (©) Tivoli Coimbra también miman tu paladar.")
+![En el Tivoli Coimbra también miman tu paladar.](etheria-images/2020/01/Tivoli-Coimbra-Simone-Restaurant-900x599.jpg "En el (©) Tivoli Coimbra también miman tu paladar.")
 
 ### 8\. Un paseo por la orilla del Mondego
 
@@ -161,7 +161,7 @@ Comercio**, donde se encuentra la bonita iglesia de Santiago.
 ?Paseo en barco por el río desde 8 euros. [Reserva tu 
 entrada](https://www.civitatis.com/es/coimbra/paseo-barco-coimbra/?aid=10211). 
 
-![Parque verde del Mondego y puente de Pedro e Inés.](etheria_images/2020/01/Parque-Verde-do-Mondego-Coimbra-900x428.jpg "Parque verde del Mondego y puente de Pedro e Inés. © Centro de Portugal")
+![Parque verde del Mondego y puente de Pedro e Inés.](etheria-images/2020/01/Parque-Verde-do-Mondego-Coimbra-900x428.jpg "Parque verde del Mondego y puente de Pedro e Inés. © Centro de Portugal")
 
 ### 9\. Portugal dos Pequenitos
 
@@ -178,7 +178,7 @@ hay una escultura de Lego que representa a Cristiano Ronaldo.
 Los pequeños se lo pasan en grande, entrando y saliendo de templos, castillos y 
 viviendas de este país de Liliput. 
 
-![En Portugal dos Pequenitos se reproduce la arquitectura del país y de sus colonias.](etheria_images/2020/01/Coimbra-Portugal-dos-Pequenitos-1-900x600.jpg "En Portugal dos Pequenitos se reproduce la arquitectura del país y de sus colonias.")
+![En Portugal dos Pequenitos se reproduce la arquitectura del país y de sus colonias.](etheria-images/2020/01/Coimbra-Portugal-dos-Pequenitos-1-900x600.jpg "En Portugal dos Pequenitos se reproduce la arquitectura del país y de sus colonias.")
 
 ### 10\. Si viajas en familia...
 
@@ -194,7 +194,7 @@ con niños continua el viaje por la Región Centro de Portugal en este artículo
 planes en familia en el Centro de 
 Portugal](http://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/). 
 
-![Dionísio Ferreira, chef del restaurante Se7e, se muestra tan natural como su cocina basada en las tradiciones portuguesas.](etheria_images/2020/01/sete-restaurante-coimbra-900x600.jpg "Dionísio Ferreira, chef del restaurante Se7e, se muestra tan natural como su cocina basada en las tradiciones portuguesas. © Pepa García")
+![Dionísio Ferreira, chef del restaurante Se7e, se muestra tan natural como su cocina basada en las tradiciones portuguesas.](etheria-images/2020/01/sete-restaurante-coimbra-900x600.jpg "Dionísio Ferreira, chef del restaurante Se7e, se muestra tan natural como su cocina basada en las tradiciones portuguesas. © Pepa García")
 
 ### Guía de Coimbra
 
@@ -218,7 +218,7 @@ la oportunidad de tomar un rico café en su **Simone Coffee Shop**. Y si llegas 
 cansada tras un día intenso por Coimbra, puedes reservar un masaje que te ayude a 
 recuperar la vitalidad. Rua Joao Machado, 4/5, 3000-226), Coimbra. 
 
-![Habitación del Tivoli Coimbra.](etheria_images/2020/01/Tivoli-Coimbra-900x556.jpg "Recupera fuerzas en el © Tivoli Coimbra.")
+![Habitación del Tivoli Coimbra.](etheria-images/2020/01/Tivoli-Coimbra-900x556.jpg "Recupera fuerzas en el © Tivoli Coimbra.")
 
 **Dónde comer en Coimbra** 
 

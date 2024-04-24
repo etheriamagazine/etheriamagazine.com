@@ -1,12 +1,12 @@
 ---
 title: "Castillo de Gorraiz Golf & Spa, perfecto para una escapada en pareja a Navarra"
 date: 2019-03-20
-coverImage: etheria_images/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg
+coverImage: etheria-images/2019/03/hotel-castillo-gormaiz-Exterior-hotel-general.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Nada más entrar al hotel Castillo de Gorraiz & Spa te das cuenta de que no te has 
@@ -14,7 +14,7 @@ equivocado en tu elección para esta escapada en pareja. El entorno, los pequeñ
 detalles en la decoración y la calidez del recibimiento anticipan que no vas a querer 
 moverte de aquí en todo el fin de semana. 
 
-![Hotel Castillo de Gorraiz Golf & Spa.](etheria_images/2019/03/hotel-castillo-gormaiz-exterior.jpg "Hotel Castillo de Gorraiz Golf & Spa.")
+![Hotel Castillo de Gorraiz Golf & Spa.](etheria-images/2019/03/hotel-castillo-gormaiz-exterior.jpg "Hotel Castillo de Gorraiz Golf & Spa.")
 
 El lugar donde se ubica el hotel, el **valle de Egües**, a sólo cuatro kilómetros de 
 Pamplona, ya denota su vocación de rincón secreto. La amplitud de sus vistas, aumentadas 
@@ -40,7 +40,7 @@ ellas son sus camas, que parecen atraparte entre almohadas y fundas de plumón, 
 espejos venecianos hechos a mano de los baños. Todo pensado para sentirse mejor que en 
 casa. 
 
-![Habitación estándar del hotel Castillo de Gorraiz Golf & Spa.](etheria_images/2019/03/hotel-castillo-gormaiz-habitacion.jpg "Habitación estándar del hotel Castillo de Gorraiz Golf & Spa.")
+![Habitación estándar del hotel Castillo de Gorraiz Golf & Spa.](etheria-images/2019/03/hotel-castillo-gormaiz-habitacion.jpg "Habitación estándar del hotel Castillo de Gorraiz Golf & Spa.")
 
 Hay dos lugares del hotel que seguro que se convierten en tus favoritos nada más llegar: 
 **la Veranda**, una preciosa terraza con una parte cubierta y otra descubierta; ofrece 
@@ -49,7 +49,7 @@ harán un cliente fijo en una de sus mesas. El otro es la **sala Lounge**, uno d
 espacios donde la decoración cobra todo su sentido. Prueba a leer un rato en el sofá 
 situado frente a la chimenea, te costará moverte de allí. 
 
-![Rincón de la sala Lounge](etheria_images/2019/03/lounge-cuadro-caballos-mod.jpg "Rincón de la sala Lounge.")
+![Rincón de la sala Lounge](etheria-images/2019/03/lounge-cuadro-caballos-mod.jpg "Rincón de la sala Lounge.")
 
 ## El spa, visita imprescindible
 
@@ -63,7 +63,7 @@ VIP**. Tiene acceso privado a la sala de aguas y una bañera de hidromasaje para
 además de camillas para recibir tratamientos en pareja. Eso sí, recuerda reservar antes 
 de acudir el acceso al spa y los tratamientos. 
 
-![Zona de aguas del spa del hotel Castillo de Gorraiz](etheria_images/2019/03/hotel-castillo-gorraiz-spa.jpg "Zona de aguas del spa.")
+![Zona de aguas del spa del hotel Castillo de Gorraiz](etheria-images/2019/03/hotel-castillo-gorraiz-spa.jpg "Zona de aguas del spa.")
 
 ## Gastronomía en el Castillo de Gorraiz & Spa
 
@@ -72,7 +72,7 @@ Tiene una cuidada selección de platos tanto para picar algo como para tomar una
 hamburguesa con queso Idiazábal, un risotto de zanahoria o un plato de linguine, entre 
 otras especialidades. 
 
-![Terraza del hotel Castillo de Gorraiz](etheria_images/2019/03/terraza-interior-y-exterior.jpg "La Terraza es el mejor lugar para tomar algo en el hotel y disfrutar de las vistas al campo de golf.")
+![Terraza del hotel Castillo de Gorraiz](etheria-images/2019/03/terraza-interior-y-exterior.jpg "La Terraza es el mejor lugar para tomar algo en el hotel y disfrutar de las vistas al campo de golf.")
 
 Pero para darse un homenaje, hay que acercarse al **restaurante Castillo de Gorraiz** 
 ubicado en un edificio histórico del siglo XVI ligado a la historia de la conquista de 
@@ -97,4 +97,4 @@ Fotografías: © Rusticae.
 Spa.](https://www.rusticae.es/hotel/hotel-castillo-de-gorraiz-golf-spa-1097) Avenida de 
 Egües 78 Egües - Urb. Gorraiz (Navarra, España) Tel. +34 914 879 017 
 
-[![](etheria_images/2019/03/rusticae-the-club-1-e1553083884362.jpg)](http://www.rusticae.es)
+[![](etheria-images/2019/03/rusticae-the-club-1-e1553083884362.jpg)](http://www.rusticae.es)

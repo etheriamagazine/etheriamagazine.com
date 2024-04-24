@@ -1,19 +1,19 @@
 ---
 title: "15 ideas para disfrutar de Florencia por segunda vez"
 date: 2018-09-21
-coverImage: etheria_images/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg
+coverImage: etheria-images/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - nuriacortes
+authors: 
+  - Nuria Cortés
 ---
 
 Si no deseas volver a Florencia, no frotes el hocico de Il Porcellino. Es un aviso. Existe una tradición que cuenta que quien acaricia el morro de esta escultura de bronce situada en la logia del Mercado Nuevo tiene asegurado el regreso a la ciudad.
 
-![Ponte Vecchio](etheria_images/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg "Ponte Vecchio (Florencia). © Enit/ Turismo Italiano")
+![Ponte Vecchio](etheria-images/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg "Ponte Vecchio (Florencia). © Enit/ Turismo Italiano")
 
 Por tres veces la autora de este artículo acarició la escultura y por tres veces 
 recorrió de nuevo las calles de esta maravillosa ciudad italiana. Y aún queda pendiente 
@@ -31,7 +31,7 @@ fachada, en el [Museo degli
 Innocenti](https://www.istitutodeglinnocenti.it/content/museo-degli-innocenti-0) aguarda 
 una valiosa muestra de arte religioso y unas excelentes vistas sobre la ciudad. 
 
-![Sala con retablos del museo Degli innocenti](etheria_images/2018/09/Florencia-degli-innocenti-visittuscany-e1552121810122.jpg "Museo degli Innocenti. © Visit Tuscany")
+![Sala con retablos del museo Degli innocenti](etheria-images/2018/09/Florencia-degli-innocenti-visittuscany-e1552121810122.jpg "Museo degli Innocenti. © Visit Tuscany")
 
 ### 2\. Hacer la compra en el Mercado Central
 
@@ -42,7 +42,7 @@ sencilla y barata.
 
 > Su bocadillo de lampredotto es todo un clásico. 
 
-![puesto de trufas del mercado de Florencia](etheria_images/2018/09/Florencia-mercado-nuria-cortes-e1552121832663.jpg "Mercado de Florencia. © Nuria Cortés.")
+![puesto de trufas del mercado de Florencia](etheria-images/2018/09/Florencia-mercado-nuria-cortes-e1552121832663.jpg "Mercado de Florencia. © Nuria Cortés.")
 
 ### 3\. Pasear por el barrio de Oltrarno
 
@@ -55,7 +55,7 @@ Si te gusta el arte urbano, visita el **taller estudio de Clet Abraham**, un art
 francés conocido por los rediseños simbólicos que realiza en las señales de tráfico (Via 
 dell’Olmo, 8). 
 
-![movil de madera en una tienda de Florencia](etheria_images/2018/09/Florencia-oltrarno-nuria-cortes-e1552121861922.jpg "Tienda en el barrio de Oltrarno (Florencia). © Nuria Cortés")
+![movil de madera en una tienda de Florencia](etheria-images/2018/09/Florencia-oltrarno-nuria-cortes-e1552121861922.jpg "Tienda en el barrio de Oltrarno (Florencia). © Nuria Cortés")
 
 ### 4\. Pararse en la Piazza del Limbo
 
@@ -70,7 +70,7 @@ El Palazzo Strozzi uno de los palacios más bellos del Renacimiento italiano y, 
 hace unos años, alberga una intensa programación cultural gracias a sus destacadas 
 exposiciones temporales de arte. 
 
-![fachada de la iglesia santa croce](etheria_images/2018/09/Florencia-Santa-croce-pixabay-e1552121900506.jpg "Iglesia de la Santa Croce (Florencia).")
+![fachada de la iglesia santa croce](etheria-images/2018/09/Florencia-Santa-croce-pixabay-e1552121900506.jpg "Iglesia de la Santa Croce (Florencia).")
 
 ### 6\. Huir del mundanal ruido
 
@@ -80,7 +80,7 @@ Filippino Lippi y Ghirlandaio, entre otros. La ruta del fresco nos acerca a las 
 de Santa Croce, San Marco, Santa Maria Novella, Santa Trinitá y Santa Maria del Carmine 
 en un paseo de lo más espiritual. 
 
-![Tejados Oltrarno y Santo Spirito](etheria_images/2018/09/Oltrarno-e-Santo-Spirito-Florencia-Toscana-e1552121923335.jpg "Oltrarno y Santo Spirito (Florencia). © Enit/ Turismo Italiano")
+![Tejados Oltrarno y Santo Spirito](etheria-images/2018/09/Oltrarno-e-Santo-Spirito-Florencia-Toscana-e1552121923335.jpg "Oltrarno y Santo Spirito (Florencia). © Enit/ Turismo Italiano")
 
 ### 7\. Descubrir el universo con Galileo
 
@@ -91,7 +91,7 @@ incluso su dedo corazón. En total, ¡más de 5.000 utensilios para gusto de los
 de las ciencias matemáticas, físicas y químicas! Una buena visita se se viaja a 
 Florencia con niños. 
 
-![puesto de bocadillos y delicatessen All Antico Vinaio en Florencia](etheria_images/2018/09/Florencia-all-antico-vinaio-e1552121942711.jpg "No te pierdas los bocadillos de © All'antico Vinaio.")
+![puesto de bocadillos y delicatessen All Antico Vinaio en Florencia](etheria-images/2018/09/Florencia-all-antico-vinaio-e1552121942711.jpg "No te pierdas los bocadillos de © All'antico Vinaio.")
 
 ### 8\. Llevarse a casa gastronomía toscana
 
@@ -106,7 +106,7 @@ Ferragamo](http://ferragamo.com) sobre el trabajo del conocido zapatero Salvator
 Ferragamo. Las exhibiciones abiertas al público son temáticas, de periodicidad anual y 
 en cada ocasión exhiben una selección de piezas bajo una temática en particular. 
 
-![zapatos del museo ferragamo](etheria_images/2018/09/Florencia-museo-ferragamo-e1552121977863.jpg "En el © Museo Ferragamo se guardan más de 10.000 pares de zapatos.")
+![zapatos del museo ferragamo](etheria-images/2018/09/Florencia-museo-ferragamo-e1552121977863.jpg "En el © Museo Ferragamo se guardan más de 10.000 pares de zapatos.")
 
 ### 10\. Volver una y otra vez al Palazzo Pitti
 
@@ -125,7 +125,7 @@ puede entrar mediante cita previa y que permite conocer los secretos de los arom
 alquimia. Sus equilibradas composiciones se pueden oler y comprar en la tienda-boutique 
 situada en el mismo edificio del taller. 
 
-![muestras de fragancias en la perfumería Lorenzo Villoresi](etheria_images/2018/09/Florencia-perfumeria-lorenzo-villoresi-e1552122007321.jpg "© Perfumería Lorenzo Villoresi (Florencia).")
+![muestras de fragancias en la perfumería Lorenzo Villoresi](etheria-images/2018/09/Florencia-perfumeria-lorenzo-villoresi-e1552122007321.jpg "© Perfumería Lorenzo Villoresi (Florencia).")
 
 ### 12\. Circunvalar el casco antiguo en bici
 
@@ -140,7 +140,7 @@ y para acceder a él hay que pagar 4 euros. Pero la entrada permite visitar tamb
 **Museo de la Porcelana** y el **Museo de la Plata**. Un buen sitio donde relajarse 
 entre cipreses, estatuas y fuentes. 
 
-![Estatua en los jardines boboli](etheria_images/2018/09/florencia-jardines-boboli.jpg "Jardines Bóboli.")
+![Estatua en los jardines boboli](etheria-images/2018/09/florencia-jardines-boboli.jpg "Jardines Bóboli.")
 
 ### 14\. Consultar el Firenze Spettacolo
 

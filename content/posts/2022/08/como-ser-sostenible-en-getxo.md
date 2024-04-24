@@ -1,11 +1,11 @@
 ---
 title: "10 pasos sostenibles para visitar Getxo"
 date: 2022-08-22
-coverImage: etheria_images/2022/08/getxo-humedal-de-Bolue.jpg
+coverImage: etheria-images/2022/08/getxo-humedal-de-Bolue.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -15,7 +15,7 @@ a dar 10 pasos sostenibles para visitar el pueblo que marca el fin de la ría de
 Nervión. Desde movernos en bici o consumir productos de proximidad hasta elegir arenales 
 sin barreras, su compromiso con el futuro es una tentación. 
 
-![Acantilados de Arrigunaga y molino Aixerrota, en Getxo.](etheria_images/2022/08/Getxo-acantilados-de-Arrigunaga-673x1024.jpg "Acantilados de Arrigunaga y molino Aixerrota, en Getxo.")
+![Acantilados de Arrigunaga y molino Aixerrota, en Getxo.](etheria-images/2022/08/Getxo-acantilados-de-Arrigunaga-673x1024.jpg "Acantilados de Arrigunaga y molino Aixerrota, en Getxo.")
 
 No sabes qué tipo de viajera eres hasta que empiezas a probar otras maneras de conocer 
 un destino. Incluye en tu lista de experiencias viajeras moverte con medios afines al 
@@ -55,7 +55,7 @@ cómodamente con la bici en ascensor hasta Algorta (llega a la avenida Basagoiti
 cabina tiene aire acondicionado y el precio es únicamente de 0,20 euros (0,18 con 
 tarjeta Barik). En verano abre de 9 a 23 horas, viernes y sábado de 9 a 00.30 horas. 
 
-![Aparcamiento Getxobizi, en Getxo](etheria_images/2022/08/Aparcamiento-Getxobizi.jpg "Aparcamiento Getxobizi.")
+![Aparcamiento Getxobizi, en Getxo](etheria-images/2022/08/Aparcamiento-Getxobizi.jpg "Aparcamiento Getxobizi.")
 
 ### Andra Mari, el lugar donde todo comenzó
 
@@ -76,7 +76,7 @@ ubicación señala el cruce con el **Camino Real**, como parte de la red pionera
 carreteras de Vizcaya/Bizkaia. Es la vía más histórica de la localidad y comunicaba con 
 el vecino pueblo de Berango. 
 
-![Iglesia de Andra Mari, Getxo.](etheria_images/2022/08/iglesia-de-Santa-Maria-Andra-Mari.jpg "Iglesia de Andra Mari, Getxo.")
+![Iglesia de Andra Mari, Getxo.](etheria-images/2022/08/iglesia-de-Santa-Maria-Andra-Mari.jpg "Iglesia de Andra Mari, Getxo.")
 
 ### La Galea, el rincón secreto de las aves
 
@@ -91,7 +91,7 @@ el verdecillo e incluso el alcaudón dorsirrojo. En los acantilados anida el cer
 común, el halcón peregrino, revolotean ágiles los vencejos y descansan las aves 
 migratorias en sus pasos estacionales. 
 
-![Observación de aves en La Galea, en Getxo.](etheria_images/2022/08/getxo-aves-punta-la-galea.jpg "Observación de aves en La Galea.")
+![Observación de aves en La Galea, en Getxo.](etheria-images/2022/08/getxo-aves-punta-la-galea.jpg "Observación de aves en La Galea.")
 
 ### Aixerrota, energía renovable pionera
 
@@ -112,7 +112,7 @@ ruinas y de convertirse en propiedad municipal en 1955.
 > encienden el colorido de su piedra y la magia del momento hace que sus aspas parezcan a 
 > punto de volver a girar. 
 
-![Molino Aixerrota al atardecer.](etheria_images/2022/08/Molino-Aixerrota-getxo.jpg "Molino Aixerrota al atardecer.")
+![Molino Aixerrota al atardecer.](etheria-images/2022/08/Molino-Aixerrota-getxo.jpg "Molino Aixerrota al atardecer.")
 
 ### Kilómetro cero a la vasca
 
@@ -131,7 +131,7 @@ halla en la **calle Torrene**. A su larga historia para mejorar la vida de la ge
 que es uno de los pocos edificios de hormigón de la localidad suma el haber sido refugio 
 durante la guerra civil española. 
 
-![Una pareja pasea entre los restaurantes de Puerto Viejo](etheria_images/2022/08/restaurantes-Puerto-Viejo-getxo-667x1024.jpg "No te pierdas los restaurantes de Puerto Viejo.")
+![Una pareja pasea entre los restaurantes de Puerto Viejo](etheria-images/2022/08/restaurantes-Puerto-Viejo-getxo-667x1024.jpg "No te pierdas los restaurantes de Puerto Viejo.")
 
 ### Amar la tierra a pie, Amalurra
 
@@ -162,7 +162,7 @@ mar adentro y es señal de que entramos en la zona más natural de la costa de G
 ese lugar donde el **flysch vizcaíno** y las vistas a mar abierto estrechan su conexión 
 se desdibuja nuestro estrés. 
 
-![Faro La Galea de Getxo](etheria_images/2022/08/Faro-de-La-Galea-getxo.jpg "Faro La Galea.")
+![Faro La Galea de Getxo](etheria-images/2022/08/Faro-de-La-Galea-getxo.jpg "Faro La Galea.")
 
 ### El Gasolino, el transporte más chic
 
@@ -176,7 +176,7 @@ Bizkaia, sigue prestando una importante labor a diario como pasaje de viajeros y
 trabajadores, muchas mujeres trabajan en Getxo, para atravesar de una margen a otra de 
 la ría del Nervión en sólo un minuto (0.40 euros). 
 
-![El Bote o Gasolino pasan por el Puente Bizkaia.](etheria_images/2022/08/El-Bote-o-Gasolino-Puente-Bizkaia.jpg "El Bote o El Gasolino, una experiencia más en Getxo.")
+![El Bote o Gasolino pasan por el Puente Bizkaia.](etheria-images/2022/08/El-Bote-o-Gasolino-Puente-Bizkaia.jpg "El Bote o El Gasolino, una experiencia más en Getxo.")
 
 ### Un humedal para pasear con el perro, Bolue
 
@@ -193,7 +193,7 @@ donde los animales gozan de una mayor libertad. Además de avistar alguna de las
 especies de aves que frecuentan sus aguas y buscan refugio entre los fresnos, alisos y 
 sauces del bosque de ribera. 
 
-![Humedal de Bolue, en Getxo](etheria_images/2022/08/getxo-humedal-de-Bolue.jpg "Humedal de Bolue.")
+![Humedal de Bolue, en Getxo](etheria-images/2022/08/getxo-humedal-de-Bolue.jpg "Humedal de Bolue.")
 
 ### El Camino Real, la ruta con más estilo
 
@@ -213,7 +213,7 @@ teatralizada](https://www.getxo.eus/es/turismo/que-hacer/Visitaguiada-camino-rea
 desvela el porqué de una **casa encantada** en uno de los espacios urbanos más bonitos 
 de Getxo. 
 
-![Ventana de un palacete de la Avenida Basagoiti.](etheria_images/2022/08/palacete-Avenida-Basagoiti-683x1024.jpg "Ventana de un palacete de la Avenida Basagoiti.")
+![Ventana de un palacete de la Avenida Basagoiti.](etheria-images/2022/08/palacete-Avenida-Basagoiti-683x1024.jpg "Ventana de un palacete de la Avenida Basagoiti.")
 
 ### Playa para todas (y todos)
 
@@ -227,7 +227,7 @@ equilibrio, coordinación y agilidad de movimientos. Mientras te refrescas, comp
 desde esta o cualquiera de las otras **playas accesibles** del municipio (**Las Arenas** 
 y **Arrigunaga**) que el turismo en Getxo se mueve con otra onda. 
 
-![Ereaga, una playa sin barreras de Getxo.](etheria_images/2022/08/Playa-Ereaga-sin-barreras.jpg "Ereaga, una playa sin barreras de Getxo.")
+![Ereaga, una playa sin barreras de Getxo.](etheria-images/2022/08/Playa-Ereaga-sin-barreras.jpg "Ereaga, una playa sin barreras de Getxo.")
 
 ? Desde junio hasta septiembre, la playa de Ereaga cuenta con aparcamiento controlado de 
 10 a 20 horas pero se puede dejar el vehículo durante bastante tiempo mientras te das un 
@@ -235,7 +235,7 @@ chapuzón (0,75 €/ hora).
 
 Más información en [Turismo de Getxo](https://www.getxo.eus/es/turismo/descubre-getxo/). 
 
-![Logotipos de Gobierno Vasco.](etheria_images/2022/07/colaboradores-gobierno-vasco.jpg)
+![Logotipos de Gobierno Vasco.](etheria-images/2022/07/colaboradores-gobierno-vasco.jpg)
 
 **También en Getxo** 
 

@@ -1,19 +1,19 @@
 ---
 title: "Ruta por los licores de monasterio"
 date: 2020-04-29
-coverImage: etheria_images/2020/04/monasterio-leyre.jpg
+coverImage: etheria-images/2020/04/monasterio-leyre.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Vanesa
+authors: 
+  - Vanesa Viñolo
 ---
 
 Vanesa Viñolo, experta en turismo gastronómico, nos propone un recorrido alcohólico-sentimental por esos licores de monasterio que en ocasiones pueblan los muebles bar españoles de forma discreta, sin que conozcamos la historia que tienen detrás.
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/monasterio-licor-vaso-900x601.jpg "Licor artesano.")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/monasterio-licor-vaso-900x601.jpg "Licor artesano.")
 
 Recuerdo como si fuera ayer aquel verano en Benicasim. El pequeño apartamento alquilado, 
 las horas de mar y patatas fritas y aquella tarde en la que mi padre, aburrido del paseo 
@@ -36,7 +36,7 @@ mucho de sus personas. Os propongo pues, un viaje por algunos de los monasterios
 hoy en día siguen elaborando licores propios. Pero antes, un poco de la historia de cómo 
 llegaron los monjes a ser maestros alquimistas. 
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/hierbas-medicinales-900x596.jpg "Hierbas aromáticas.")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/hierbas-medicinales-900x596.jpg "Hierbas aromáticas.")
 
 ## La botica del monje
 
@@ -52,7 +52,7 @@ toronjil, ruda, hierbabuena, albahaca, santolina, manzanilla, laurel… que bajo
 batuta se transformaban en jabones, pomadas y cataplasmas, pero también en mermeladas, 
 jarabes, infusiones y, por fin, en vinos especiados y licores. 
 
-![licores monacales](etheria_images/2020/04/licores-monacales-900x534.jpg "Licor de Leyre, licor de Tizona del Cid y licor de Valvanera.")
+![licores monacales](etheria-images/2020/04/licores-monacales-900x534.jpg "Licor de Leyre, licor de Tizona del Cid y licor de Valvanera.")
 
 > Con fórmulas muy similares, que se transmitían de congregación en congregación, cada uno 
 > adaptaba a su entorno la receta magistral, según las hierbas que encontraba en los 
@@ -65,7 +65,7 @@ misma fórmula y artesanía.
 
 ## Licores de monasterio en España
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/monoasterio-cadena-900x675.jpg "Monasterio de Cardeña. © Monasterio de Cardeña")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/monoasterio-cadena-900x675.jpg "Monasterio de Cardeña. © Monasterio de Cardeña")
 
 ### Burgos: Licor de Tizona. Monasterio Benedictino de San Pedro de Cardeña
 
@@ -84,7 +84,7 @@ fórmula secreta, es el fruto de la maceración durante quince días, en barrica
 de unas treinta hierbas distintas, recogidas de los campos del monasterio y de su propio 
 herbolario. 
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/monasterio-leyre-900x675.jpg "Monasterio de Leyre.")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/monasterio-leyre-900x675.jpg "Monasterio de Leyre.")
 
 ### Navarra: Licor de Leyre. Monasterio Benedictino de Leyre
 
@@ -101,7 +101,7 @@ enamorado de la riqueza botánica del entorno, se animó a hacer el **Licor de L
 siguiendo las mismas pautas que el que elaboraba en Silos, pero con las plantas 
 aromáticas de esta zona. Es totalmente artesanal, sin colorantes ni conservantes. 
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/monasterio-valvanera-puesta-sol-900x675.jpg "Exterior del © monasterio de Valvanera.")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/monasterio-valvanera-puesta-sol-900x675.jpg "Exterior del © monasterio de Valvanera.")
 
 ### La Rioja: Licor de Valvanera. Abadía Benedictina de Santa María de Valvanera
 
@@ -121,7 +121,7 @@ proporciones exactas de cada hierba, sí sabemos que cada una se macera por sepa
 alcohol de 96 grados y que el licor resultante tras su paso por el alambique cuenta con 
 36 grados. 
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/monasterio-carmelitas-900x600.jpg "Fachada del © monasterio de los carmelitas descalzos del Desierto de Las Palmas.")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/monasterio-carmelitas-900x600.jpg "Fachada del © monasterio de los carmelitas descalzos del Desierto de Las Palmas.")
 
 ### Castellón: Licor Carmelitano. Monasterio de los Carmelitas Descalzos del Desierto de Las Palmas
 
@@ -139,7 +139,7 @@ sus famosos moscateles. Desde hace un par de años también elaboran una ginebra
 la 119 London Dry Gin. Fue mi primera visita a un monasterio licorero, esa que marcó mis 
 vacaciones en Benicasim y que, quién sabe, quizá despertó mi afán catador. 
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/licor-carmelitano-barricas-900x645.jpg "Barricas donde se guarda el licor Carmelitano. © Monasterio de los carmelitas descalzos.")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/licor-carmelitano-barricas-900x645.jpg "Barricas donde se guarda el licor Carmelitano. © Monasterio de los carmelitas descalzos.")
 
 ### Licores de monasterio gallegos y catalanes
 
@@ -161,7 +161,7 @@ para que todo siga siendo “divino”.
 
 ## Licores monacales fuera de nuestras fronteras
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/monasterio-fecamp-vidriera-Francia.jpg "Vidriera de la abadía benedictina de Fécamp.")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/monasterio-fecamp-vidriera-Francia.jpg "Vidriera de la abadía benedictina de Fécamp.")
 
 ### Francia: Licor Benedictine. Abadía Benedictina de Fécamp
 
@@ -181,7 +181,7 @@ retazos románicos de su iglesia hasta el neogótico-renacentista del palacio qu
 la fábrica del licor. Merece de verdad la pena la visita y culminarla, como no, con un 
 B&B (Benedictine con brandy), una de sus combinaciones más populares. 
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/Monasterio-chartreuse-900x500.jpg "Monasterio de Saint Piere de Chartreuse. © Sthephane Couchet")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/Monasterio-chartreuse-900x500.jpg "Monasterio de Saint Piere de Chartreuse. © Sthephane Couchet")
 
 ### Francia: Licor de la Grant Chartreuse. Monasterio de Saint Pierre de Chartreuse
 
@@ -205,7 +205,7 @@ Otra opción, si nos encontramos en la **Costa Azul francesa**, es acercarnos ha
 natural protegido frente a Cannes, al que se llega únicamente en ferry y donde también 
 saben de elaborar licores. 
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/monasterios-antica-farmacia-900x461.jpg "Imágenes de la © Antica Farmacia de Camaldoli.")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/monasterios-antica-farmacia-900x461.jpg "Imágenes de la © Antica Farmacia de Camaldoli.")
 
 ### Italia: Lácrima d'Ábeto. Antica Farmacia de Camaldoli
 
@@ -221,7 +221,7 @@ de cuyas viñas salen sus vinos, famosos ya en el siglo XVI, contando con blanco
 y vinos de postre. Desde 1460 los boticarios de Camaldoli elaboran su **Lácrima 
 d´Ábeto**, un licor medicinal que sigue vigente hoy en día. 
 
-![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria_images/2020/04/libro-medicina-monasterios-900x669.jpg "Los monasterios guardan en secreto las recetas de sus licores.")
+![licores de monasterio, ruta por los monasterios, viajes en pareja](etheria-images/2020/04/libro-medicina-monasterios-900x669.jpg "Los monasterios guardan en secreto las recetas de sus licores.")
 
 ## Licores de monasterio de Argentina
 

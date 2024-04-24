@@ -1,11 +1,11 @@
 ---
 title: "Aventureras en las Jornadas IATI de los Grandes Viajes, 10 años compartiendo historias"
 date: 2023-04-20
-coverImage: etheria_images/2023/04/viaje-furgo-Maria-Laura.jpg
+coverImage: etheria-images/2023/04/viaje-furgo-Maria-Laura.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Las Jornadas IATI de los Grandes Viajes soplan este año sus primeras diez velas y lo 
@@ -14,7 +14,7 @@ mundo por montera y se lanzaron a recorrer su propia senda. Entre ellos hay un g
 número de mujeres que sustituyeron la comodidad de lo conocido por la emoción de 
 enfrentarse a la incertidumbre del viaje. 
 
-![María y Laura emprendieron un largo viaje en furgoneta.](etheria_images/2023/04/viaje-furgo-Maria-Laura.jpg "María y Laura emprendieron un largo viaje en furgoneta.")
+![María y Laura emprendieron un largo viaje en furgoneta.](etheria-images/2023/04/viaje-furgo-Maria-Laura.jpg "María y Laura emprendieron un largo viaje en furgoneta.")
 
 Si aún no habéis asistido a ninguna de las ponencias de las **Jornadas IATI de los 
 Grandes Viajes**, este año cumplen su décimo aniversario, quizás os resulte difícil 
@@ -34,7 +34,7 @@ por un empleo poco gratificante… decenas de detonantes que impulsan a romper c
 rutina. Os contamos algunas historias de mujeres que estarán presentes en las jornadas y 
 que podréis conocer en persona. 
 
-![Yesenia Herrera se propuso recorrer el mundo en bicicleta.](etheria_images/2023/04/viaje-bicicleta-Yesenia-Herrera.jpg "Yesenia Herrera se propuso recorrer el mundo en bicicleta.")
+![Yesenia Herrera se propuso recorrer el mundo en bicicleta.](etheria-images/2023/04/viaje-bicicleta-Yesenia-Herrera.jpg "Yesenia Herrera se propuso recorrer el mundo en bicicleta.")
 
 ## Yesenia Herrera, en bicicleta al fin del mundo
 
@@ -50,7 +50,7 @@ su tierra. Desde allí, dio el salto en barco hasta Huelva, desde donde atraves�
 y España antes de seguir camino a Francia. Era la primera vez que “me sentía dueña del 
 tiempo, de mi tiempo", asegura Yesenia. 
 
-![Yesenia pedalea vistiendo un sari](etheria_images/2023/04/Yesenia-Herrera-asia.jpg "Yesenia pedalea con su sari.")
+![Yesenia pedalea vistiendo un sari](etheria-images/2023/04/Yesenia-Herrera-asia.jpg "Yesenia pedalea con su sari.")
 
 ### Pedaleando por el mundo
 
@@ -78,7 +78,7 @@ salió de casa. "Las prisas nunca fueron lo mío", bromea Yesenia.
 Cuando estaba a tan solo 100 km de la frontera de [Myanmar](https://etheriamagazine.com/2020/04/27/mujeres-aventureras-viaje-myanmar-que-ver-hacer/), 
 la policía la interceptó para llevarla a hacer cuarentena. Había estallado la pandemia. 
 
-![Yesenia Herrera da una charla en un colegio](etheria_images/2023/04/Yesenia-Herrera-apoyo-mujeres.jpg "Las charlas en los colegios forman parte del proyecto de Yesenia.")
+![Yesenia Herrera da una charla en un colegio](etheria-images/2023/04/Yesenia-Herrera-apoyo-mujeres.jpg "Las charlas en los colegios forman parte del proyecto de Yesenia.")
 
 ### Mujeres apoyando a mujeres
 
@@ -90,7 +90,7 @@ como una **mujer que viaja sola en bici**. Fueron muchas las jóvenes que se ace
 agradecerle su mensaje y su inspiración. Sin duda, ese fue el mejor de los regalos que 
 Yenesia pudo recibir. 
 
-![María y Laura posan con su furgoneta azul](etheria_images/2023/04/maria-laura-viaje-furgoneta.jpg "El sueño de María y Laura era recorrer el mundo en furgoneta.")
+![María y Laura posan con su furgoneta azul](etheria-images/2023/04/maria-laura-viaje-furgoneta.jpg "El sueño de María y Laura era recorrer el mundo en furgoneta.")
 
 ## María y Laura, un viaje en furgoneta
 
@@ -108,7 +108,7 @@ este país les encantó por su mezcla de tradición y modernidad. Durante un mes
 recorriendo sus playas y templos, comieron mucho kimchi y visitaron la zona 
 desmilitarizada entre las dos Coreas. 
 
-![María y Laura disfrutan cada etapa del camino elegido.](etheria_images/2023/04/viaje-furgoneta-Maria-Laura.jpg "María y Laura disfrutan cada etapa del camino elegido.")
+![María y Laura disfrutan cada etapa del camino elegido.](etheria-images/2023/04/viaje-furgoneta-Maria-Laura.jpg "María y Laura disfrutan cada etapa del camino elegido.")
 
 ### De Japón a Indonesia
 
@@ -134,7 +134,7 @@ un barco a España y ellas se quedaron otros 5 meses en Bali. El regreso a Madri
 produjo en avión, su plan de volver por tierra por un camino diferente al de la ida se 
 había frustrado. Ya habían pasado 14 meses desde que habían salido. 
 
-![Marta Insausti posa con su moto en Estados Unidos junto a una bandera americana](etheria_images/2023/04/Marta-Insausti-mundo-moto.jpg "Marta Insausti, una aventurera que recorre el mundo en moto.")
+![Marta Insausti posa con su moto en Estados Unidos junto a una bandera americana](etheria-images/2023/04/Marta-Insausti-mundo-moto.jpg "Marta Insausti, una aventurera que recorre el mundo en moto.")
 
 ## Marta Insausti, motera convencida
 
@@ -169,7 +169,7 @@ cruzar a Perú con la esperanza de que las fronteras abrieran mientras ella roda
 Atacama](https://etheriamagazine.com/2019/01/04/que-ver-en-desierto-atacama-san-pedro-atacama-chile/), 
 un lugar mágico que acababa de abrirse al turismo y donde se respiraba felicidad. 
 
-![Marta Insausti sentada en su moto con el casco puesto](etheria_images/2023/04/marta-insausti-viaje-moto.jpg "Tras el parón de la pandemia, Marta Insausti emprendió la 2ª parte de su viaje.")
+![Marta Insausti sentada en su moto con el casco puesto](etheria-images/2023/04/marta-insausti-viaje-moto.jpg "Tras el parón de la pandemia, Marta Insausti emprendió la 2ª parte de su viaje.")
 
 ### En ruta: Perú, Ecuador, Guatemala...
 
@@ -190,7 +190,7 @@ frontera de **El Salvador** fue lo contrario, tranquila y con personal que le fa
 todos los trámites. **Guatemala**, con sus colores y su herencia indígena, le robó el 
 corazón. 
 
-![Marta Insausti durante uno de sus viajes](etheria_images/2023/04/Marta-insausti-jornada-grandes-viajes.jpg "El contacto con las culturas es un gran incentivo para viajar por libre.")
+![Marta Insausti durante uno de sus viajes](etheria-images/2023/04/Marta-insausti-jornada-grandes-viajes.jpg "El contacto con las culturas es un gran incentivo para viajar por libre.")
 
 Contra todo pronóstico, Marta consiguió entrar en **Estados Unidos** (en México le 
 dieron cita inicialmente para dentro de dos años y medio). Ya habían pasado ocho meses 

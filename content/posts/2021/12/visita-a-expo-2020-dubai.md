@@ -1,18 +1,18 @@
 ---
 title: "Expo 2020 de Dubái: cómo aprovechar el tiempo durante tu visita"
 date: 2021-12-20
-coverImage: etheria_images/2021/12/Expo-Dubai-Al-Wasl-Plaza-dia.jpg
+coverImage: etheria-images/2021/12/Expo-Dubai-Al-Wasl-Plaza-dia.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Si tienes pensado pasar unos días de vacaciones en Dubái en los próximos meses es casi obligatorio dedicar al menos una jornada a visitar la Expo 2020. Te damos unas valiosas pistas para organizar bien la jornada, no perder el tiempo y centrarte en lo importante.
 
-![Plaza Al Wasi de la Expo 2020 Dubai al atardecer.](etheria_images/2021/12/Expo-Dubai-Al-Wasl-Plaza-dia.jpg "Plaza Al Wasi de la Expo 2020 Dubai al atardecer. © Turismo de Dubái")
+![Plaza Al Wasi de la Expo 2020 Dubai al atardecer.](etheria-images/2021/12/Expo-Dubai-Al-Wasl-Plaza-dia.jpg "Plaza Al Wasi de la Expo 2020 Dubai al atardecer. © Turismo de Dubái")
 
 La Expo 2020 Dubai se celebrará hasta el 31 de marzo de 2022, y es la primera vez que 
 este evento tiene lugar en Oriente Medio. Como no podía ser de otra forma, en este 
@@ -27,7 +27,7 @@ Probarás especialidades culinarias de los cinco continentes y verás espectácu
 distintos rincones del planeta. Prepárate para una jornada agotadora pero única. Aquí 
 van algunos consejos con información práctica para hacer más fácil tu visita. 
 
-![Sky Avenue, en la Expo 2020 Dubai.](etheria_images/2021/12/Expo-Dubai-Sky-Avenue.jpg "Sky Avenue, en la Expo 2020 Dubai. © Susana García")
+![Sky Avenue, en la Expo 2020 Dubai.](etheria-images/2021/12/Expo-Dubai-Sky-Avenue.jpg "Sky Avenue, en la Expo 2020 Dubai. © Susana García")
 
 ## Planifica la jornada
 
@@ -44,7 +44,7 @@ Expo Dubai 2020](https://www.expo2020dubai.com/es) y la **aplicación para móvi
 Aquí encontrarás toda la información necesaria para tu visita e incluso planificadores 
 de rutas según tu perfil. 
 
-![Pabellón de Tailandia.](etheria_images/2021/12/Expo-2020-Dubai-pabellon-Tailandia.jpg "Pabellón de Tailandia. © SG")
+![Pabellón de Tailandia.](etheria-images/2021/12/Expo-2020-Dubai-pabellon-Tailandia.jpg "Pabellón de Tailandia. © SG")
 
 También merece la pena **comprar las entradas **en la web**** **con antelación**. 
 Existen entradas de varios tipos para los adultos entre 18 y 59 años, ya que los menores 
@@ -64,7 +64,7 @@ tienen taxímetro y muchos se pueden pagar con tarjeta de crédito. Existen para
 cuatro puertas de acceso y a la salida no tendrás problemas para encontrar uno 
 disponible para volver a tu hotel. 
 
-![Tren para recorrer de forma cómoda la Expo.](etheria_images/2021/12/Expo-Dubai-tren.jpg "Tren para recorrer de forma cómoda la Expo. © SG")
+![Tren para recorrer de forma cómoda la Expo.](etheria-images/2021/12/Expo-Dubai-tren.jpg "Tren para recorrer de forma cómoda la Expo. © SG")
 
 ## Moverse por la Expo 2020 Dubai
 
@@ -79,7 +79,7 @@ calzado cómodo para aguantar los miles de pasos que vas a hacer. Es bastante ú
 descargada la aplicación: te indicará el camino más corto al pabellón que quieras 
 visitar y lo que tardas caminando. 
 
-![Escultura hinchable en la Expo 2020 Dubai.](etheria_images/2021/12/Expo-Dubai-escultura.jpg "Escultura hinchable en la Expo 2020 Dubai. © SG")
+![Escultura hinchable en la Expo 2020 Dubai.](etheria-images/2021/12/Expo-Dubai-escultura.jpg "Escultura hinchable en la Expo 2020 Dubai. © SG")
 
 Además, hay otras opciones y facilidades para aquellos que tengan problemas de movilidad 
 o decidan en algún momento dar un respiro a sus pies y hacer algún trayecto de forma más 
@@ -97,7 +97,7 @@ pabellones te dará tiempo a ver en tu visita y hacer tu lista de “imprescindi
 más entrar puedes coger uno de los mapas gratuitos y señalar en él aquellos pabellones 
 que no quieres perderte para trazar el mejor itinerario. 
 
-![Espectáculo en la plaza Al Wasi.](etheria_images/2021/12/Expo-Duba-2020-iAl-Wasl-Plaza-noche.jpg "Espectáculo en la plaza Al Wasi. © Turismo de Dubái")
+![Espectáculo en la plaza Al Wasi.](etheria-images/2021/12/Expo-Duba-2020-iAl-Wasl-Plaza-noche.jpg "Espectáculo en la plaza Al Wasi. © Turismo de Dubái")
 
 Sí o sí en todas las visitas tienes que pasar por la **plaza Al Wasi** y su enorme 
 cúpula que de día impresiona, pero de noche es espectacular. Es la superficie de 
@@ -108,7 +108,7 @@ parques que encontrarás en la Expo. Entre las tres áreas de pabellones se encu
 grandes zonas abiertas con parques para niños, césped y otras atracciones para 
 descansar, llamadas **Jubilee Park** y **Al Forsan Park**. 
 
-![Escultura que da la bienvenida en el pabellón de España.](etheria_images/2021/12/Expo-2020-pabellon-España.jpg "Escultura que da la bienvenida en el pabellón de España. © SG")
+![Escultura que da la bienvenida en el pabellón de España.](etheria-images/2021/12/Expo-2020-pabellon-España.jpg "Escultura que da la bienvenida en el pabellón de España. © SG")
 
 ## Pabellones imprescindibles
 
@@ -124,7 +124,7 @@ pabellón no defrauda. La estructura, ideada por el español Santiago Calatrava,
 representa un inmenso halcón, el ave más icónica de este país. Dentro también hay 
 sorpresas, pero en este pabellón sin duda lo más espectacular es su arquitectura. 
 
-![Cúpula de Calatrava y artesanía tradicional en el pabellón de EAU.](etheria_images/2021/12/Expo-Dubai-pabellon-Emiratos.jpg "Cúpula de Calatrava y artesanía tradicional en el pabellón de EAU. © SG")
+![Cúpula de Calatrava y artesanía tradicional en el pabellón de EAU.](etheria-images/2021/12/Expo-Dubai-pabellon-Emiratos.jpg "Cúpula de Calatrava y artesanía tradicional en el pabellón de EAU. © SG")
 
 El resto de pabellones puedes visitarlos según tus filias, a todos nos gusta ver cómo ha 
 quedado el pabellón de un destino al que viajamos y nos encantó. Como recomendaciones, 
@@ -153,7 +153,7 @@ mientras caminas entre pabellón y pabellón. En la **web de la Expo** puedes de
 una extensa guía gastronómica por si quieres vivir esta faceta de una forma aún más 
 especial. 
 
-![Puesto de helados frente al pabellón de Arabia Saudí.](etheria_images/2021/12/Expo-Dubai-pabellon-Arabia-Saudi.jpg "Puesto de helados frente al pabellón de Arabia Saudí. © SG")
+![Puesto de helados frente al pabellón de Arabia Saudí.](etheria-images/2021/12/Expo-Dubai-pabellon-Arabia-Saudi.jpg "Puesto de helados frente al pabellón de Arabia Saudí. © SG")
 
 ## Eventos
 
@@ -166,7 +166,7 @@ Además, todos los días puedes disfrutar a las 16.30 h de un **colorido desfile
 siempre es una buena idea (sobre todo por la noche) acercarse a ver las proyecciones en 
 la cúpula de la plaza Al Wasi. 
 
-![Proyección en la cúpula de la plaza Al Wasi.](etheria_images/2021/12/Expo-Dubai-cupula-Al-Wasi.jpg "Proyección en la cúpula de la plaza Al Wasi. © SG")
+![Proyección en la cúpula de la plaza Al Wasi.](etheria-images/2021/12/Expo-Dubai-cupula-Al-Wasi.jpg "Proyección en la cúpula de la plaza Al Wasi. © SG")
 
 Cada día está dedicado a un país (España tiene sus fiestas el 2 de febrero) y se 
 celebran los acontecimientos culturales que tienen lugar en el mundo, como el Diwali, la 

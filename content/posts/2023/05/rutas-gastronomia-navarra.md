@@ -1,12 +1,12 @@
 ---
 title: "Descubre a qué sabe Navarra a través de estas rutas gastronómicas"
 date: 2023-05-08
-coverImage: etheria_images/2023/05/navarra-ruta-northern-spain-travel.jpg
+coverImage: etheria-images/2023/05/navarra-ruta-northern-spain-travel.jpg
 categories: 
   - viajes-con-amigas
   - mejores-restaurantes-gastronomia
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La variedad orográfica Navarra propicia que su territorio cuente con una espectacular 
@@ -15,7 +15,7 @@ recetario con influencia de las regiones vecinas, incluidas las francesas… el 
 es una tierra tan rica que habría que visitarla al menos en cinco ocasiones para empezar 
 a hacernos una idea de la gastronomía navarra. 
 
-![Ruta con Northern Spain Travel.](etheria_images/2023/05/navarra-ruta-northern-spain-travel.jpg "Ruta con Northern Spain Travel.")
+![Ruta con Northern Spain Travel.](etheria-images/2023/05/navarra-ruta-northern-spain-travel.jpg "Ruta con Northern Spain Travel.")
 
 Si te consideras una trotamundos amante del buen comer seguro que este artículo te hará 
 salivar. No sólo descubrirás lo mejor de la gastronomía navarra sino también la variedad 
@@ -27,7 +27,7 @@ sólo tenemos que preocuparnos de elegir y disfrutar. Para ponértelo un poco m�
 hemos seleccionado **cinco sabrosas rutas en Navarra** con las que seguro acertarás, 
 ¿con cuál te quedas? 
 
-![Cascada de Ixkier, en el Camino Natural Vía Verde del Plazaola](etheria_images/2023/05/Via-Verde-Plazaola-Navarra.jpg "Cascada de Ixkier, en el Camino Natural Vía Verde del Plazaola. © Javier Campos/Turismo de Navarra")
+![Cascada de Ixkier, en el Camino Natural Vía Verde del Plazaola](etheria-images/2023/05/Via-Verde-Plazaola-Navarra.jpg "Cascada de Ixkier, en el Camino Natural Vía Verde del Plazaola. © Javier Campos/Turismo de Navarra")
 
 ## Pamplona y valles del noroeste, pintxos y ricas carnes
 
@@ -46,7 +46,7 @@ mejor carne de la raza Pío negro o Euskal txerri (el rival del cerdo ibérico).
 tienda del **restaurante Maskarada** (maskaradadenda.com) se puede adquirir este 
 producto. 
 
-![Raza de cerdos Pío negro o Euskal txerri](etheria_images/2023/05/cerdos-maskarada.jpg "Raza de cerdos Pío negro o Euskal txerri, en Maskarada")
+![Raza de cerdos Pío negro o Euskal txerri](etheria-images/2023/05/cerdos-maskarada.jpg "Raza de cerdos Pío negro o Euskal txerri, en Maskarada")
 
 ### Ederbidea, una ruta en bici
 
@@ -66,7 +66,7 @@ gastronómica en esta ruta la ofrece el **restaurante** **Altxunea**
 (altxuneaerretegia.com) de Ituren, un asador con parrilla de carbón vegetal cuyo plato 
 estrella es el **chuletón de vaca pirenaica** con curación propia. 
 
-![Parque Natural de las Bardenas Reales.](etheria_images/2023/05/bardenas-reales-navarra.jpg "Parque Natural de las Bardenas Reales. © Sergio Padura/ Turismo de Navarra")
+![Parque Natural de las Bardenas Reales.](etheria-images/2023/05/bardenas-reales-navarra.jpg "Parque Natural de las Bardenas Reales. © Sergio Padura/ Turismo de Navarra")
 
 ## La Ribera, tierra de verduras
 
@@ -87,7 +87,7 @@ verduras, en Tudela; **El Lechuguero** en Cascante; y el **restaurante de la Bod
 de Cirsus**, en Ablitas. Después del almuerzo se puede visitar **Artajo**, una almazara 
 de cultivo ecológico para conocer sus procesos y realizar una cata de AOVE navarro. 
 
-![Patata duquesa con borraja del Restaurante 33.](etheria_images/2023/05/patata-duquesa-con-borraja.jpg "Patata duquesa con borraja del © Restaurante 33.")
+![Patata duquesa con borraja del Restaurante 33.](etheria-images/2023/05/patata-duquesa-con-borraja.jpg "Patata duquesa con borraja del © Restaurante 33.")
 
 ## La Zona Media y sus vinos
 
@@ -119,7 +119,7 @@ pasar por **Casa Urrutia** (calle San Isidro, 41), un obrador que lleva elaboran
 tradicionales (casaurrutia.net) donde no faltan las migas de pastor hechas con su pan. 
 Echad un vistazo a su web. 
 
-![Ruta en bicicleta con Northern Spain Travel.](etheria_images/2023/05/navarra-northern-spain-travel.jpg "Ruta en bicicleta con © Northern Spain Travel.")
+![Ruta en bicicleta con Northern Spain Travel.](etheria-images/2023/05/navarra-northern-spain-travel.jpg "Ruta en bicicleta con © Northern Spain Travel.")
 
 ## Tierra Estella
 
@@ -130,7 +130,7 @@ en bicicleta eléctrica de montaña el **Camino de Santiago** saliendo de la igl
 octogonal de Santa María de Eunate, donde confluyen los caminos Francés y Aragonés, y 
 pasando por **Puente La Reina** y **Estella**, que tiene un encantador casco histórico. 
 
-![Iglesia de Santa María de Eunate en Navarra](etheria_images/2023/05/Iglesia-santa-Maria-Eunate.jpg "Iglesia de Santa María de Eunate. © Francis Vaquero/ Turismo de Navarra")
+![Iglesia de Santa María de Eunate en Navarra](etheria-images/2023/05/Iglesia-santa-Maria-Eunate.jpg "Iglesia de Santa María de Eunate. © Francis Vaquero/ Turismo de Navarra")
 
 ### Cata de vino
 
@@ -148,7 +148,7 @@ jardines del Palacio de la Condesa de la Vega, en Dicastillo. Allí te explicar�
 innovador sistema de cultivo de endrinos y te invitarán a participar en un taller de 
 coctelería con pacharán. 
 
-![Brindando en las bodegas Arinzano.](etheria_images/2023/05/Arinzano-navarra.jpg "Brindando en las © bodegas Arinzano.")
+![Brindando en las bodegas Arinzano.](etheria-images/2023/05/Arinzano-navarra.jpg "Brindando en las © bodegas Arinzano.")
 
 ## Pirineos, un menú orgánico
 

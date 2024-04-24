@@ -1,11 +1,11 @@
 ---
 title: "10 errores que debes evitar si vas a Ibiza con amigas"
 date: 2018-06-25
-coverImage: etheria_images/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg
+coverImage: etheria-images/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - nuriacortes
+authors: 
+  - Nuria Cortés
 ---
 
 No lo vamos a negar. En cuanto llega el buen tiempo y alguna del grupo propone una 
@@ -13,7 +13,7 @@ escapada a Ibiza con amigas, a todas nos falta tiempo para soltar una sonrisa y 
 a imaginarnos tumbadas en la playa dispuestas a disfrutar del precioso paisaje 
 mediterráneo de la isla y del no menos interesante y entretenido 'paisanaje'. 
 
-![Islote de Cap Bernat, perfecto para ver el atardecer en un viaje con amigas a Ibiza](etheria_images/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg "Islote de Cap Bernat, frente a cala Benirrás © Consell d'Eivissa")
+![Islote de Cap Bernat, perfecto para ver el atardecer en un viaje con amigas a Ibiza](etheria-images/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg "Islote de Cap Bernat, frente a cala Benirrás © Consell d'Eivissa")
 
 Si es la primera vez que visitas esta bonita isla balear, toma buena nota de los 
 siguientes consejos y saca el máximo provecho a tu viaje a Ibiza con amigas. Cada una de 
@@ -27,7 +27,7 @@ Ibiza no sólo hay clubes de música electrónica; también os esperan playas de
 cristalinas; excelentes restaurantes, spas, encantadores pueblecitos, mercadillos jipis 
 y un montón de tiendas _boutique_ donde hallar tu prenda talismán del verano. 
 
-![Iglesia de Es Cubells](etheria_images/2018/05/Ibiza-Es-Cubells_Alberto-Paredes-e1551949146477.jpg "Iglesia de Es Cubells. © Alberto Paredes/ Moto Luis")
+![Iglesia de Es Cubells](etheria-images/2018/05/Ibiza-Es-Cubells_Alberto-Paredes-e1551949146477.jpg "Iglesia de Es Cubells. © Alberto Paredes/ Moto Luis")
 
 ## Error #2: no alquilar un coche
 
@@ -45,7 +45,7 @@ que reservar un día para extender la toalla en esta espectacular playa virgen s
 sur de la isla. A partir de la tarde, la animación se concentra en el **chiringuito Sa 
 Trinxa**, localizado en el extremo izquierdo de la playa. 
 
-![En un viaje con amigas a Ibiza no puede faltar un baño en cala Conta](etheria_images/2018/05/Ibiza-cala-conta_NC-e1551949167957.jpg "Cala Conta. © Nuria Cortés")
+![En un viaje con amigas a Ibiza no puede faltar un baño en cala Conta](etheria-images/2018/05/Ibiza-cala-conta_NC-e1551949167957.jpg "Cala Conta. © Nuria Cortés")
 
 ## Error #4: no huir de las multitudes
 
@@ -57,7 +57,7 @@ playas más tranquilas e igual de bonitas, que también existen. Ejemplo de ello
 agosto no esperes mucha intimidad casi en ninguna playa de Ibiza que aparezca en los 
 mapas… 
 
-![Compras en la Marina de la ciudad de Ibiza](etheria_images/2018/05/Ibiza-COMPRAS_MARINA_consell-e1551949185907.jpg "Compras en la Marina de la ciudad de Ibiza © Consell d'Eivissa")
+![Compras en la Marina de la ciudad de Ibiza](etheria-images/2018/05/Ibiza-COMPRAS_MARINA_consell-e1551949185907.jpg "Compras en la Marina de la ciudad de Ibiza © Consell d'Eivissa")
 
 ## Error #5: ir de compras a Zara
 
@@ -78,7 +78,7 @@ Spa](https://www.laposidonia-ibiza.com/es/)), el lujoso [Open
 Spa](https://ibizagranhotel.com/wellness/) o la zona termal del **Revival Spa**, abierto 
 en el hotel Aguas de Ibiza. 
 
-![Dalt Vila, Ibiza](etheria_images/2018/05/Ibiza-Dalt-Vila-5_consell_VM-e1551949201227.jpg "Dalt Vila, Ibiza © Consell d'Eivissa")
+![Dalt Vila, Ibiza](etheria-images/2018/05/Ibiza-Dalt-Vila-5_consell_VM-e1551949201227.jpg "Dalt Vila, Ibiza © Consell d'Eivissa")
 
 ## Error #7: pasear por Dalt Vila con tacones
 
@@ -100,7 +100,7 @@ Rock Ibiza, la **fiesta Children of the 80’s**; sonidos disco de los 70 en la 
 Glitterbox** de Hï... Te recomendamos consultar la web de los organizadores para 
 reservar la que más se adecúe a vuestros gustos. 
 
-![Atardecer desde Benirrás](etheria_images/2018/05/Ibiza-atardecer_benirras_pixabay-e1551949219365.jpg "Atardecer desde Benirrás (Pixabay)")
+![Atardecer desde Benirrás](etheria-images/2018/05/Ibiza-atardecer_benirras_pixabay-e1551949219365.jpg "Atardecer desde Benirrás (Pixabay)")
 
 ## Error #9: conformaros con una sola puesta de sol
 
@@ -111,7 +111,7 @@ atardecer en el **bar Khumaras** (Cala de Bou), en el pequeño **chiringuito Cal
 Escondida**, en Cala Conta; en la **terraza del Hostal La Torre**, y en la **playa de 
 Benirrás**, al noroeste de Ibiza. 
 
-![Centro histórico de Ibiza](etheria_images/2018/05/ibiza_pixabay-e1551949241987.jpg "El centro histórico de Ibiza fue declarado Patrimonio de la Humanidad por la UNESCO")
+![Centro histórico de Ibiza](etheria-images/2018/05/ibiza_pixabay-e1551949241987.jpg "El centro histórico de Ibiza fue declarado Patrimonio de la Humanidad por la UNESCO")
 
 ## Error #10: quedaros sólo en la playa
 

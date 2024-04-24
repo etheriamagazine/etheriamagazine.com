@@ -1,19 +1,19 @@
 ---
 title: "Playas de Menorca, la guía más completa que encontrarás"
 date: 2020-08-14
-coverImage: etheria_images/2020/08/playa-menorca-Es-Calo-blanc.jpg
+coverImage: etheria-images/2020/08/playa-menorca-Es-Calo-blanc.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - nuriacortes
+authors: 
+  - Nuria Cortés
 ---
 
 Zambúllete en la guía de playas de Menorca más completa y marca tu propia ruta de baño 
 por la isla más íntima de Baleares. Elige entre las de arena blanca y aguas turquesas o 
 atrévete a descubrir el lado más salvaje del litoral menorquín. 
 
-![Calas Macarella y Macarelleta, playas, menorca, calas, viajes](etheria_images/2020/08/playa-menorca-macarella-y-macarelleta-900x600.jpg "Calas Macarella y Macarelleta (Menorca).")
+![Calas Macarella y Macarelleta, playas, menorca, calas, viajes](etheria-images/2020/08/playa-menorca-macarella-y-macarelleta-900x600.jpg "Calas Macarella y Macarelleta (Menorca).")
 
 La costa menorquina alberga rincones paradisíacos aún vírgenes de aguas cristalinas, 
 arenas finas y bosques de pinos asomando al mar. Nuestra primera **guía de playas de 
@@ -31,7 +31,7 @@ distan bastante de las concurridas imágenes veraniegas que abundan en la mayor�
 playas de nuestro país, lo que convierte a Menorca en un destino perfecto donde apagar 
 el móvil y olvidarse del mundo. 
 
-![Es Calo Blan, playas, menorca, calas, viajes](etheria_images/2020/08/playa-menorca-Es-Calo-blanc-900x599.jpg "Playa Es Calo Blanc (Menorca).")
+![Es Calo Blan, playas, menorca, calas, viajes](etheria-images/2020/08/playa-menorca-Es-Calo-blanc-900x599.jpg "Playa Es Calo Blanc (Menorca).")
 
 Las reducidas dimensiones de la isla, con apenas **50 kilómetros de este a oeste** y 
 menos de 20 de norte a sur, animan a subirse al coche y salir a descubrir sus playas y 
@@ -41,7 +41,7 @@ aparcar el coche junto a la playa. Pero en la mayoría de los casos, el camino a
 desde el aparcamiento será agradable y constituirá en sí mismo otro placer previo al 
 baño y el descubrimiento. 
 
-![Cala Mitjana, playas, menorca, calas, viajes](etheria_images/2020/08/playa-menorca-Cala-Mitjana-900x600.jpg "Cala Mitjana (Menorca).")
+![Cala Mitjana, playas, menorca, calas, viajes](etheria-images/2020/08/playa-menorca-Cala-Mitjana-900x600.jpg "Cala Mitjana (Menorca).")
 
 ### ¿Playas del norte o del sur de Menorca?
 
@@ -58,7 +58,7 @@ meridionales son las más famosas**, el litoral menorquín destaca por su gran b
 por lo que el principal problema que te encontrarás durante tu viaje a Menorca será 
 decidir en cuál de estas preciosas calas y playas estirarás la toalla. 
 
-![playas, menorca, calas, viajes](etheria_images/2020/08/playa-menorca-calan-turqueta-900x598.jpg "Cala en Turqueta (Menorca).")
+![playas, menorca, calas, viajes](etheria-images/2020/08/playa-menorca-calan-turqueta-900x598.jpg "Cala en Turqueta (Menorca).")
 
 ## Las 10 playas más bonitas de Menorca
 
@@ -79,7 +79,7 @@ llegar a mediodía, pues te resultará difícil aparcar. **Qué ver en las inmed
 a menos de dos kilómetros tienes la playa de Son Saura y las calas de Macarella, 
 Macarelleta y Es Talaier. 
 
-![son Saura, playas, menorca, calas, viajes](etheria_images/2020/08/playa-menorca-son-saura-900x600.jpg "Playa de Son Saura (Menorca).")
+![son Saura, playas, menorca, calas, viajes](etheria-images/2020/08/playa-menorca-son-saura-900x600.jpg "Playa de Son Saura (Menorca).")
 
 ### Son Saura
 
@@ -92,7 +92,7 @@ que gracias a ella las playas de Menorca son tan bonitas!
 **Perfecta para:** disfrutar de un largo día en la playa. **No cometas el error de:** no 
 ir. **Qué ver en las inmediaciones:** cala Turqueta. 
 
-![Cala Galdana, playas, menorca, calas, viajes](etheria_images/2020/08/playas-menorca-cala-galdana-2-900x607.jpg "Cala Galdana (Menorca).")
+![Cala Galdana, playas, menorca, calas, viajes](etheria-images/2020/08/playas-menorca-cala-galdana-2-900x607.jpg "Cala Galdana (Menorca).")
 
 ### Cala Galdana
 
@@ -107,7 +107,7 @@ Delit, con sabrosa cocina mediterránea, menú del día y ambiente familiar. ¡S
 repites! **Qué ver en las inmediaciones:** pasea por Ferreries y no te pierdas sus 
 tiendas de calzado. 
 
-![Cala Macarella, playas, menorca, calas, viajes](etheria_images/2020/08/playa-menorca-Macarella-900x598.jpg "Cala Macarella (Menorca).")
+![Cala Macarella, playas, menorca, calas, viajes](etheria-images/2020/08/playa-menorca-Macarella-900x598.jpg "Cala Macarella (Menorca).")
 
 ### Cala Macarella y cala Macarelleta
 
@@ -121,7 +121,7 @@ septiembre.
 paseíto de una cala a otra. **Qué ver en las inmediaciones:** si te gusta el senderismo, 
 sigue el **camí de Cavalls** y en 30 minutos estarás en cala Galdana. 
 
-![Binigaus, playas, menorca, calas, viajes](etheria_images/2020/08/playas-menorca-binigaus-900x833.jpg "Playa Binigaus (Menorca).")
+![Binigaus, playas, menorca, calas, viajes](etheria-images/2020/08/playas-menorca-binigaus-900x833.jpg "Playa Binigaus (Menorca).")
 
 ### Binigaus
 
@@ -136,7 +136,7 @@ no encontrarás ningún chiringuito. **Qué ver en las inmediaciones:** a unos 1
 kilómetros hay que hacer parada en **Es Mercadal**, uno de los pueblos más bonitos de 
 Menorca. 
 
-![Cala en Porter, playas, menorca, calas, viajes](etheria_images/2020/08/playa-menorca-calan-porter-900x600.jpg "Cala en Porter (Menorca).")
+![Cala en Porter, playas, menorca, calas, viajes](etheria-images/2020/08/playa-menorca-calan-porter-900x600.jpg "Cala en Porter (Menorca).")
 
 ### Cala en Porter
 
@@ -162,7 +162,7 @@ con niños. **No cometas el error de:** no visitar las ruinas de la basílica
 paleocristiana que se encuentra en su extremo oriental. **Qué ver en las 
 inmediaciones:** la torre d’en Galmés, el poblado talayótico más grande de Menorca. 
 
-![Cala Pregonda, playas, menorca, calas, viajes](etheria_images/2020/08/playa-menorca-pregonda-900x600.jpg "Cala Pregonda (Menorca).")
+![Cala Pregonda, playas, menorca, calas, viajes](etheria-images/2020/08/playa-menorca-pregonda-900x600.jpg "Cala Pregonda (Menorca).")
 
 ## Playas del norte de Menorca
 
@@ -176,7 +176,7 @@ pena, sobre todo si buscas **playas vírgenes con poca afluencia** y mucha tranq
 de:** no llevar comida ni abundante bebida. **Qué ver en las inmediaciones:** el cap de 
 Cavallería se encuentra a 12 kilómetros. 
 
-![Playa Algaiarens, playa, Menorca](etheria_images/2020/08/playas-menorca-algaiarens-900x600.jpg "Playas de Algaiarens (Menorca).")
+![Playa Algaiarens, playa, Menorca](etheria-images/2020/08/playas-menorca-algaiarens-900x600.jpg "Playas de Algaiarens (Menorca).")
 
 ### Las playas de Algaiarens
 
@@ -189,7 +189,7 @@ de la playa.
 error de:** ir en domingo. **Qué ver en las inmediaciones:** no te pierdas la necrópolis 
 de Cala Morell, una de las más espectaculares de Menorca. 
 
-![Cala Pilar, playas, menorca, calas, viajes](etheria_images/2020/08/playas-menorca-Cala-Pilar-900x599.jpg "Cala Pilar (Menorca).")
+![Cala Pilar, playas, menorca, calas, viajes](etheria-images/2020/08/playas-menorca-Cala-Pilar-900x599.jpg "Cala Pilar (Menorca).")
 
 ### Cala Pilar
 
@@ -203,7 +203,7 @@ de**: visitarla cuando sople viento de tramontana. **Qué ver en las inmediacion
 te quedan más ganas de caminata, continúa por el Camí de Cavalls hasta el Pla de Mar, 
 una playa solitaria cubierta de cantos rodados. 
 
-![Cala Cavalleria, playas, menorca, calas, viajes](etheria_images/2020/08/playa-menorca-Cavalleria-2-900x598.jpg "Cala Cavallería (Menorca).")
+![Cala Cavalleria, playas, menorca, calas, viajes](etheria-images/2020/08/playa-menorca-Cavalleria-2-900x598.jpg "Cala Cavallería (Menorca).")
 
 ### Cala Cavallería
 
@@ -218,7 +218,7 @@ de:** pensar que estarás en soledad, es una playa muy popular en julio y agosto
 ver en las inmediaciones:** se encuentra muy próxima a las ruinas de la antigua ciudad 
 romana de Sanicera y al ecomuseo y al faro del Cap de Cavallería. 
 
-![Cala Galdana, playas, menorca, calas, viajes](etheria_images/2020/08/playas-menorca-Cala-Galdana-900x598.jpg "Cala Galdana (Menorca).")
+![Cala Galdana, playas, menorca, calas, viajes](etheria-images/2020/08/playas-menorca-Cala-Galdana-900x598.jpg "Cala Galdana (Menorca).")
 
 ¿Aún sigues ahí? ¿No buscaste ya el mejor precio para tu vuelo a Menorca? Si tienes 
 claro que te quieres escapar a Baleares pero sigues indecisa entre qué isla escoger, te 

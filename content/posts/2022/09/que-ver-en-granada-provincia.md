@@ -1,11 +1,11 @@
 ---
 title: "15 lugares imprescindibles en Granada, una provincia de belleza descomunal"
 date: 2022-09-30
-coverImage: etheria_images/2022/09/granada-parque-Sierra-Nevada.jpg
+coverImage: etheria-images/2022/09/granada-parque-Sierra-Nevada.jpg
 categories: 
   - de-un-vistazo
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Con algo menos de un millón de habitantes y ubicada en la costa mediterránea, la 
@@ -15,7 +15,7 @@ cuenta con Sierra Nevada y un sinfín de pueblos bonitos como Salobreña, Motril
 Si quieres descubrir su inmensa belleza, en este listado encontrarás 15 lugares 
 imprescindibles en Granada. 
 
-![Panorámica general de Salobreña.](etheria_images/2022/09/granada-Salobrena.jpg "Panorámica de Salobreña.")
+![Panorámica general de Salobreña.](etheria-images/2022/09/granada-Salobrena.jpg "Panorámica de Salobreña.")
 
 La larga historia y la monumentalidad de Granada capital deslumbran nada más poner pie 
 en su casco histórico, que ha sido testigo del paso de diversas culturas y religiones. 
@@ -32,7 +32,7 @@ que el blanco de sus casas brille aún más.
 
 > Ya lo dijo Henri Matisse: “Granada emociona hasta deshacer y fundir todos los sentidos”. 
 
-![La Alhambra, una de las visitas imprescindibles en Granada.](etheria_images/2022/09/granada-Alhambra.jpg "La Alhambra, una de las visitas imprescindibles en Granada.")
+![La Alhambra, una de las visitas imprescindibles en Granada.](etheria-images/2022/09/granada-Alhambra.jpg "La Alhambra, una de las visitas imprescindibles en Granada.")
 
 ## Qué ver en Granada capital
 
@@ -48,7 +48,7 @@ Alhambra y el Generalife.
 **NO TE PIERDAS**:**** [Granada con amigas: cultura, diversión y mucho 
 arte](https://etheriamagazine.com/2022/06/16/granada-con-amigas/). 
 
-![Jardines del Generalife.](etheria_images/2022/09/granada-generalife.jpg "Jardines del Generalife.")
+![Jardines del Generalife.](etheria-images/2022/09/granada-generalife.jpg "Jardines del Generalife.")
 
 ### La Alhambra y el Generalife
 
@@ -63,7 +63,7 @@ la Alhambra con bastante antelación.
 **NO TE PIERDAS**: [10 consejos para triunfar en tu visita a la 
 Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/). 
 
-![El Albaicín, uno de los barrios más bonitos de Granada.](etheria_images/2022/09/granada-albaicin.jpg "El Albaicín, uno de los barrios más bonitos de Granada.")
+![El Albaicín, uno de los barrios más bonitos de Granada.](etheria-images/2022/09/granada-albaicin.jpg "El Albaicín, uno de los barrios más bonitos de Granada.")
 
 ### Albaicín y Sacromonte
 
@@ -78,7 +78,7 @@ territorio de la vida gitana y flamenca.
 ?**No te pierdas:** [El Albaicín y La Alhambra, dos visitas ineludibles en 
 Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/). 
 
-![Barrio de Sacromonte, de casas blancas y calles empinadas.](etheria_images/2022/09/granada-Sacromonte.jpg "Barrio de Sacromonte.")
+![Barrio de Sacromonte, de casas blancas y calles empinadas.](etheria-images/2022/09/granada-Sacromonte.jpg "Barrio de Sacromonte.")
 
 ### Catedral y casco histórico
 
@@ -90,7 +90,7 @@ Granada es una experiencia mestiza para los sentidos. No hay que dejar de sumerg
 el ambiente de la plaza de Bibarrambla, cuyo nombre árabe respetaron los Reyes Católicos 
 y los que llegaron después. 
 
-![Interior de la Catedral de Granada.](etheria_images/2022/09/granada-catedral.jpg "Interior de la Catedral de Granada.")
+![Interior de la Catedral de Granada.](etheria-images/2022/09/granada-catedral.jpg "Interior de la Catedral de Granada.")
 
 ### Huerta de San Vicente
 
@@ -104,7 +104,7 @@ del autor de _Yerma_ y _Doña Rosita la soltera_.
 ?**No te pierdas**: [Ruta de Lorca en Granada, un paseo por sus lugares más 
 íntimos](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/). 
 
-![Huerta de San Vicente, hogar de Federico García Lorca.](etheria_images/2022/09/granada-Huerta-de-San-Vicente.jpg "Huerta de San Vicente, hogar de Federico García Lorca.")
+![Huerta de San Vicente, hogar de Federico García Lorca.](etheria-images/2022/09/granada-Huerta-de-San-Vicente.jpg "Huerta de San Vicente, hogar de Federico García Lorca.")
 
 ### Mejores miradores de Granada
 
@@ -118,7 +118,7 @@ vega y las murallas árabes. Todo en un solo golpe de pestañas.
 ?**Si vas en familia:** [Tadeo Jones en Granada, un viaje de cine en 
 familia](https://etheriamagazine.com/2020/11/22/tadeo-jones-ruta-de-cine-en-granada/). 
 
-![Mirador de San Nicolás con vista a la Alhambra desde el Albaicín.](etheria_images/2022/09/granada-Mirador-San-Nicolas.jpg "Mirador de San Nicolás, en el Albaicín.")
+![Mirador de San Nicolás con vista a la Alhambra desde el Albaicín.](etheria-images/2022/09/granada-Mirador-San-Nicolas.jpg "Mirador de San Nicolás, en el Albaicín.")
 
 ## Rutas naturales en Granada provincia
 
@@ -133,7 +133,7 @@ En este parque nadie se aburre porque se programan continuamente actividades:
 barranquismo, buceo, cicloturismo, escalada, geoturismo, observación de la flora y la 
 fauna, senderismo, piragüismo, etc. 
 
-![Parque Natural de Sierra Nevada, en Granada.](etheria_images/2022/09/granada-parque-Sierra-Nevada.jpg "Parque Natural de Sierra Nevada.")
+![Parque Natural de Sierra Nevada, en Granada.](etheria-images/2022/09/granada-parque-Sierra-Nevada.jpg "Parque Natural de Sierra Nevada.")
 
 ### Monumento Natural Infiernos de Loja
 
@@ -144,7 +144,7 @@ cultural, como los yacimientos prehistóricos La Esperanza y El Manzanil. En est
 el río se bifurca en varios saltos de agua, cuyas alturas oscilan entre los 7 y los 10 
 metros. 
 
-![Los Infiernos de Loja.](etheria_images/2022/09/granada-infiernos-loja.jpg "Los Infiernos de Loja.")
+![Los Infiernos de Loja.](etheria-images/2022/09/granada-infiernos-loja.jpg "Los Infiernos de Loja.")
 
 ### Parque Natural Sierra de Baza
 
@@ -157,7 +157,7 @@ quieres saber más, te diremos que en este parque hay yacimientos arqueológicos
 antiguos poblados abandonados y un sendero de gran recorrido que atraviesa el parque 
 Sierra de Baza. 
 
-![Vista general de la playa de Calahonda con el mar al fondo](etheria_images/2022/09/granada-Calahonda.jpg "Playa de Calahonda.")
+![Vista general de la playa de Calahonda con el mar al fondo](etheria-images/2022/09/granada-Calahonda.jpg "Playa de Calahonda.")
 
 ## Playas bonitas de Granada
 
@@ -169,7 +169,7 @@ recibido la Bandera Azul de la Fundación para la Educación Ambiental. Cuenta c
 servicios (aseos, duchas, pasarelas, salvamento, etc.) y, por tanto, la afluencia de 
 bañistas es alta, especialmente durante la temporada alta. 
 
-![Playa de Cantarriján.](etheria_images/2022/09/granada-Playa-de-Cantarrijan.jpg "Playa de Cantarriján.")
+![Playa de Cantarriján.](etheria-images/2022/09/granada-Playa-de-Cantarrijan.jpg "Playa de Cantarriján.")
 
 ### Cantarriján, Almuñécar
 
@@ -180,7 +180,7 @@ es una mezcla de fina y gruesa y sus aguas, cristalinas y tranquilas. Es uno de 
 destinos más buscados por los amantes del buceo. Además, son muchos los servicios que 
 ofrece: duchas, aseos, limpieza, agua, bares y restaurantes. 
 
-![Playa virgen de La Rijana, en Castell de Ferro (Granada).](etheria_images/2022/09/granada-La-Rijana-Castell-de-Ferro.jpg "Playa de La Rijana, en Castell de Ferro (Granada).")
+![Playa virgen de La Rijana, en Castell de Ferro (Granada).](etheria-images/2022/09/granada-La-Rijana-Castell-de-Ferro.jpg "Playa de La Rijana, en Castell de Ferro (Granada).")
 
 ### La Rijana, Castell de Ferro
 
@@ -200,7 +200,7 @@ necrópolis Puente de Noy o el Columbario La Albina. Por si fuera poco, cuenta c
 clima privilegiado y un entorno natural que lo hacen excepcional para practicar deportes 
 acuáticos. 
 
-![Panorámica al atardecer de Almuñécar, en Granada](etheria_images/2022/09/granada-almunecar.jpg "Vista de Almuñécar.")
+![Panorámica al atardecer de Almuñécar, en Granada](etheria-images/2022/09/granada-almunecar.jpg "Vista de Almuñécar.")
 
 ### Salobreña
 
@@ -211,7 +211,7 @@ ocupación más antigua documentada en Salobreña se remonta al Neolítico, hace
 años, cuando el peñón de Salobreña era todavía una isla. Es imprescindible subir a su 
 impresionante castillo y disfrutar de las vistas panorámicas que se divisan desde él. 
 
-![Ayuntamiento, Iglesia Mayor de la Encarnación y Museo de la Caña de Azúcar.](etheria_images/2022/09/granada-Motril.jpg "Ayuntamiento, Iglesia Mayor de la Encarnación y Museo de la Caña de Azúcar.")
+![Ayuntamiento, Iglesia Mayor de la Encarnación y Museo de la Caña de Azúcar.](etheria-images/2022/09/granada-Motril.jpg "Ayuntamiento, Iglesia Mayor de la Encarnación y Museo de la Caña de Azúcar.")
 
 ### Motril
 
@@ -224,7 +224,7 @@ ronda los 60.000 habitantes. No te pierdas sus ingenios azucareros ni el Museo d
 Caña de Azúcar, pues su historia está muy ligada al cultivo de este dulce producto 
 tropical. 
 
-![Vista panorámica de Guadix.](etheria_images/2022/09/granada-Guadix.jpg "Vista panorámica de Guadix.")
+![Vista panorámica de Guadix.](etheria-images/2022/09/granada-Guadix.jpg "Vista panorámica de Guadix.")
 
 ### Guadix
 

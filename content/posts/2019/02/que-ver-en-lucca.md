@@ -1,18 +1,18 @@
 ---
 title: "¿Por qué Lucca es una parada obligada en la Toscana?"
 date: 2019-02-18
-coverImage: etheria_images/2019/02/Lucca-catedral-e1550913127169.jpg
+coverImage: etheria-images/2019/02/Lucca-catedral-e1550913127169.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Esta ciudad conocida por sus ciento treinta torres y por sus iglesias merece un día completo en un viaje por la Toscana por muchos motivos. Entre ellos, su increíble patrimonio artístico y por ser uno de los lugares que mejores paseos urbanos proporciona de toda la región. Lucca es una parada perfecta para un viaje con amigas o con tu pareja.
 
-![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria_images/2019/02/Lucca-jardines-san-frediano-e1550913107462.jpg "Jardines situados en la parte posterior de la iglesia de San Frediano.")
+![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria-images/2019/02/Lucca-jardines-san-frediano-e1550913107462.jpg "Jardines situados en la parte posterior de la iglesia de San Frediano.")
 
 Lucca es una ciudad de historia antigua, de esas que parecen que cada piedra que guardan 
 desde hace siglos tiene algo que contar. Situada a 80 kilómetros de Florencia y a 20 de 
@@ -37,7 +37,7 @@ creerse que fue esculpido por Nicodemo, presente en la _crucifixión_. Si dispon
 rato detente en la sacristía a contemplar el maravilloso trabajo en mármol de la tumba 
 de Ilaria del Carretto, del siglo XV. 
 
-![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria_images/2019/02/Lucca-catedral-e1550913127169.jpg "Vista de la catedral con su campanile y los tejados de Lucca.")
+![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria-images/2019/02/Lucca-catedral-e1550913127169.jpg "Vista de la catedral con su campanile y los tejados de Lucca.")
 
 ### 11 h Conoce las iglesias de Lucca
 
@@ -54,7 +54,7 @@ un rato contemplándola. Y después, ya cerca de las murallas, merece la pena ac
 contemplar la fachada de la **Chiesa de San Frediano** en la que contrasta la sobriedad 
 de la piedra pulimentada con un precioso mosaico del siglo XIII. 
 
-![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria_images/2019/02/Lucca-iglesia-san-michelle-in-foro-e1550913145880.jpg "Chiesa de San Michele in Foro. © S.G.")
+![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria-images/2019/02/Lucca-iglesia-san-michelle-in-foro-e1550913145880.jpg "Chiesa de San Michele in Foro. © S.G.")
 
 ### 12.30 h Sube a la torre Guinigi
 
@@ -63,7 +63,7 @@ ladrillo que cuenta nada más y nada menos que con un jardín con siete robles e
 superior. Lo original del lugar y las increíbles vistas hacen que merezca la pena el 
 esfuerzo. 
 
-![viajes por Italia, viajes con arte, música](etheria_images/2019/02/Lucca-Torre-Guinigi-e1550912985392.jpg "Torre Guinigi con su jardín en la parte superior. © Pilar Ortega")
+![viajes por Italia, viajes con arte, música](etheria-images/2019/02/Lucca-Torre-Guinigi-e1550912985392.jpg "Torre Guinigi con su jardín en la parte superior. © Pilar Ortega")
 
 ### 13.30 h Almuerza en una terraza
 
@@ -74,7 +74,7 @@ para comer en uno de sus lugares más emblemáticos, no te pierdas la **Piazza
 Anfiteatro**, cuya forma elíptica revela que realmente se ubica sobre el antiguo 
 anfiteatro romano del siglo II. Está repleta de restaurantes y terrazas. 
 
-![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria_images/2019/02/Lucca-piazza-anfiteatro-e1550913178744.jpg "Piazza Anfiteatro.")
+![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria-images/2019/02/Lucca-piazza-anfiteatro-e1550913178744.jpg "Piazza Anfiteatro.")
 
 ### 15 h Visita la Casa-Museo Puccini
 
@@ -84,7 +84,7 @@ en Lucca. Este curioso personaje al que no se sabe si le gustaba más la ópera 
 coches, nació en esta casa de Lucca donde se conservan objetos personales y es un lugar 
 perfecto para acercarse a la figura de este gran músico. 
 
-![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas](etheria_images/2019/02/Lucca-puccini-plaza-e1550913194365.jpg "Plaza frente a la Casa-Museo de Puccini, donde se encuentra su estatua. © S.G.")
+![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas](etheria-images/2019/02/Lucca-puccini-plaza-e1550913194365.jpg "Plaza frente a la Casa-Museo de Puccini, donde se encuentra su estatua. © S.G.")
 
 ### 16 h Pasea por las murallas
 
@@ -112,7 +112,7 @@ O una cerveza o lo que quieras. El motivo es descansar de una jornada intensa mi
 se ve a la gente pasar, de la misma forma que los luquenses contemplan a los cientos de 
 visitantes que reciben cada día. 
 
-![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria_images/2019/02/Lucca-piazza-anfiteatro-restaurante.jpg "Terrazas para tomar algo en la Piazza Anfiteatro. © SG.")
+![un día en Lucca, viajes a Italia, viajes a Toscana, viajes con amigas, Puccini](etheria-images/2019/02/Lucca-piazza-anfiteatro-restaurante.jpg "Terrazas para tomar algo en la Piazza Anfiteatro. © SG.")
 
 ### Guía de Lucca | Etheria Magazine
 

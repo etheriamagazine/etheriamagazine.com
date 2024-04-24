@@ -1,10 +1,10 @@
 ---
 title: "Guía para viajar y hacer un voluntariado al mismo tiempo"
 date: 2019-07-15
-coverImage: etheria_images/2019/06/viaje-voluntariado-kenia.jpg
+coverImage: etheria-images/2019/06/viaje-voluntariado-kenia.jpg
 categories: 
   - viajes-para-mujeres
-author: 
+authors: 
   - Marina Paul
 ---
 
@@ -13,7 +13,7 @@ Instagram, también existe otra tendencia que aboga por realizar viajes conscien
 motivados por la ayuda a los demás. Te contamos en profundidad cómo funciona la fórmula 
 del voluntariado. 
 
-\[caption id="attachment\_10961" align="aligncenter" width="900"\]![](etheria_images/2019/06/viajes-voluntariado-volunturismo.jpg) Voluntariado o volunturismo.\[/caption\]
+\[caption id="attachment\_10961" align="aligncenter" width="900"\]![](etheria-images/2019/06/viajes-voluntariado-volunturismo.jpg) Voluntariado o volunturismo.\[/caption\]
 
 Nunca antes había sido tan fácil viajar. Y es que con el uso de Internet y de aplicaciones móviles donde reservar alojamientos, transporte o incluso comida a domicilio en cuestión de minutos, todo parece haber evolucionado hacia la rapidez. Viajes agotadores en los que intentamos visitar la mayor cantidad de monumentos y museos, probar todos y cada uno de los platos tradicionales que aparecen en las guías de viaje y adquirir los _souvenirs_ típicos de la región que nos recuerden qué bien lo pasamos en ese viaje. Todo, en el menor tiempo posible.
 
@@ -21,7 +21,7 @@ Sin embargo, hay quienes prefieren mantenerse alejados de las rutas tradicionale
 
 Sea como sea, existen decenas de **plataformas y agencias de voluntariado** que te permitirán encontrar aquellos que más se adaptan a tus expectativas, experiencia previa o nuevos intereses.
 
-![](etheria_images/2019/06/viaje-voluntariado-jordania.jpg)
+![](etheria-images/2019/06/viaje-voluntariado-jordania.jpg)
 
 ## Pero, ¿qué es el voluntariado?
 
@@ -35,7 +35,7 @@ Durante los últimos años, tras el auge de las actividades de voluntariado como
 
 Así pues, al contrario de lo que se cree, inundar el mercado de países en vías de desarrollo con productos gratuitos, como juguetes, ropa o material escolar, o realizar acciones a corto plazo sin ninguna trasmisión del conocimiento hacia la comunidad originaria del lugar, podría arruinar el mercado local y las familias que ya las venden, así como crear una dependencia del conocimiento ofrecido pero no transmitido hacia dichas comunidades por parte de los voluntarios.
 
-![](etheria_images/2019/06/viaje-voluntariado-elefantes-kenia.jpg)
+![](etheria-images/2019/06/viaje-voluntariado-elefantes-kenia.jpg)
 
 El mismo problema se traslada también a los **productos tecnológicos**. Voluntarios que creen satisfacer las necesidades de aquellas organizaciones de acogida regalando material tecnológico antiguo que ya no cumple con las necesidades del primer mundo; debido a su falta de velocidad, incapacidad de realizar nuevas actualizaciones, etc.
 
@@ -51,7 +51,7 @@ Sea como sea, lo que sí que hay que tener en cuenta es que los proyectos que ll
 
 Si todavía no estás convencido, este tipo de organizaciones suelen ser bastante transparentes, así que no dudes en pedir referencias a voluntarios anteriores, cotillear en sus redes sociales sobre sus logros o incluso ponerte en contacto con ellos y pedir más información al respecto para comprobar que todo se realiza de forma legal y sostenible.
 
-![](etheria_images/2019/06/viaje-voluntariado-kenia.jpg)
+![](etheria-images/2019/06/viaje-voluntariado-kenia.jpg)
 
 ## Ventajas e inconvenientes de realizar un voluntariado
 
@@ -65,7 +65,7 @@ Aunque en la mayoría de los casos las ventajas siempre serán mayores a los inc
 
 • La jornada de trabajo se realiza, normalmente, a media jornada de mañana o tarde. De manera que medio día lo vas a tener ocupado y el resto seguramente querrás compartir tu tiempo con los anfitriones. Sea como sea, **NO esperes poder visitar muchísimos lugares** durante los días de trabajo o hacer escapadas por los alrededores. Resérvate esto para los días libres. • No planees nada con tiempo de antemano: aunque te prometan los fines de semana libres, a veces te van a pedir que cambies el turno o que les ayudes en tu día libre. Siempre deberás mostrarte flexible respecto a los horarios. • No siempre será fácil adaptarse a otras culturas; en ocasiones, las formas de trabajar, el ritmo de vida o la filosofía del proyecto no se adecuará totalmente a nuestra forma de hacerlo. Sin embargo, debemos aprender a entender las diferentes culturas y adaptarnos a ellas.
 
-![](etheria_images/2019/06/viaje-voluntariado-mexico.jpg)
+![](etheria-images/2019/06/viaje-voluntariado-mexico.jpg)
 
 ## ¿Cómo buscar oportunidades de voluntariado?
 

@@ -1,18 +1,18 @@
 ---
 title: "8 escapadas en España para descubrir su pasado romano"
 date: 2020-07-29
-coverImage: etheria_images/2020/06/Merida-teatro-romano.jpg
+coverImage: etheria-images/2020/06/Merida-teatro-romano.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Para realizar una escapada muchas veces necesitamos solo una pequeña excusa. ¿Qué te parece descubrir parte del pasado romano de la antigua Hispania? Aquí te damos 10 ideas de viajes en España para acercarte un poco a la historia y, de paso, descubrir lugares que merecen, al menos, un fin de semana.
 
-![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria_images/2020/06/Merida-teatro-romano-900x600.jpg "Teatro Romano de Mérida.")
+![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria-images/2020/06/Merida-teatro-romano-900x600.jpg "Teatro Romano de Mérida.")
 
 ## 1\. Mérida
 
@@ -26,7 +26,7 @@ Romano](http://www.culturaydeporte.gob.es/mnromano/home.html). Además, paseando
 ciudad te sorprenderán otros enclaves romanos como el Templo de Diana, el Arco de 
 Trajano, el Circo Romano o el impresionante acueducto de los Milagros. 
 
-![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria_images/2020/06/Tarragona-anfiteatro-900x581.jpg "Anfiteatro de Tarragona. © Malopez 21/CC BY-SA")
+![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria-images/2020/06/Tarragona-anfiteatro-900x581.jpg "Anfiteatro de Tarragona. © Malopez 21/CC BY-SA")
 
 ## 2\. Tarragona
 
@@ -39,7 +39,7 @@ Circo (muy bien conservado); y el Foro Romano, uno de los más grandes del mundo
 perderte nada lo mejor es realizar una [visita guiada por la Tarragona 
 romana](https://www.civitatis.com/es/tarragona/visita-guiada-tarragona-romana/?aid=10211). 
 
-![trajano en baelo claudia, ruinas romanas de bolonia](etheria_images/2019/08/ruinas-romanas-bolonia.jpg "La estatua de Trajano preside la basílica de Baelo Claudia.")
+![trajano en baelo claudia, ruinas romanas de bolonia](etheria-images/2019/08/ruinas-romanas-bolonia.jpg "La estatua de Trajano preside la basílica de Baelo Claudia.")
 
 ## 3\. Baelo Claudia (Cádiz)
 
@@ -52,7 +52,7 @@ de la ciudad romana y sus elementos son perfectamente reconocibles. Después de
 recorrerla no te pierdas su centro de interpretación y, después, un paseo por la playa 
 para subir hasta la famosa duna de la playa de Bolonia. 
 
-![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria_images/2020/06/La-coruna-torre-hercules-900x600.jpg "La Torre de Hércules en La Coruña. © SG")
+![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria-images/2020/06/La-coruna-torre-hercules-900x600.jpg "La Torre de Hércules en La Coruña. © SG")
 
 ## 4\. Torre de Hércules (La Coruña)
 
@@ -67,7 +67,7 @@ funcionamiento del mundo. Hay que decir que su aspecto exterior se debe a una re
 del siglo XVIII, pero esto no le resta porte y presencia. Además, está rodeado de una 
 bonita esplanada que ofrece unas vistas increíbles del Atlántico y del propio faro. 
 
-![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria_images/2020/06/Acueducto-segovia-900x600.jpg "Acueducto de Segovia. © Manuel López")
+![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria-images/2020/06/Acueducto-segovia-900x600.jpg "Acueducto de Segovia. © Manuel López")
 
 ## 5\. Segovia
 
@@ -84,7 +84,7 @@ la catedral, la calle Real o la antigua Judería. No te pierdas sus lugares fund
 con esta [excursión](https://www.civitatis.com/es/madrid/excursion-segovia/?aid=10211) 
 de Civitatis. 
 
-![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria_images/2020/06/Muralla-Lugo-900x678.jpg "Muralla romana de Lugo. © Xosema/CC BY-SA")
+![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria-images/2020/06/Muralla-Lugo-900x678.jpg "Muralla romana de Lugo. © Xosema/CC BY-SA")
 
 ## 6\. La Muralla Romana de Lugo
 
@@ -101,7 +101,7 @@ perderte son las Termas, la Piscina Romana (junto a la catedral), la Domus de Mi
 _domus_ de finales del siglo III con bonitos mosaicos o el famoso Mosaico de Dédalo y 
 Pesifae que se expone en el Museo Provincial. 
 
-![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria_images/2020/06/Santiponce-termas-900x488.jpg "Termas de la antigua Itálica. © Diego Delso/CC BY-SA")
+![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria-images/2020/06/Santiponce-termas-900x488.jpg "Termas de la antigua Itálica. © Diego Delso/CC BY-SA")
 
 ## 7\. Santiponce (Sevilla)
 
@@ -115,7 +115,7 @@ el Teatro, los acueductos, las termas o las casas romanas. Descubre todo los rin
 con una [visita guiada por 
 Itálica](https://www.civitatis.com/es/santiponce/visita-guiada-italica/?aid=10211). 
 
-![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria_images/2020/06/Cartagena-teatro-romano-900x675.jpg "Teatro Romano de Cartagena. © Nano Sánchez")
+![Viajes con historia, escapadas por España, escapadas de fin de semana](etheria-images/2020/06/Cartagena-teatro-romano-900x675.jpg "Teatro Romano de Cartagena. © Nano Sánchez")
 
 ## 8\. Cartagena (Murcia)
 

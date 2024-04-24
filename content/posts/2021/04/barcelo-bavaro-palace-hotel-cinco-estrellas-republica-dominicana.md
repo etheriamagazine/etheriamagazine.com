@@ -1,18 +1,18 @@
 ---
 title: "Hotel Barceló Bávaro Palace, date un capricho cinco estrellas en República Dominicana"
 date: 2021-04-26
-coverImage: etheria_images/2021/04/Barcelo-bavaro-palace-playa.jpg
+coverImage: etheria-images/2021/04/Barcelo-bavaro-palace-playa.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La República Dominicana se ha revelado como una de las mejores opciones de viaje para los próximos meses, y con hoteles como el Barceló Bávaro Palace sumas a las playas y el sol una estancia de cinco estrellas. Aprovecha y viaja con tu familia, y disfrutad de esas vacaciones que tanto os merecéis.
 
-![playa de hotel de cinco estrellas en Republica Dominicana](etheria_images/2021/04/Barcelo-bavaro-palace-playa.jpg "Playa del hotel Barceló Bávaro Palace.")
+![playa de hotel de cinco estrellas en Republica Dominicana](etheria-images/2021/04/Barcelo-bavaro-palace-playa.jpg "Playa del hotel Barceló Bávaro Palace.")
 
 Imagínate paseando descalza por una playa de arena inmaculada con palmeras y un mar tan 
 trasparente que parece de mentira. Este sueño recurrente para muchas de nosotras puede 
@@ -37,7 +37,7 @@ servicio de lavandería express sin recargo, acceso a la zona de hidromasaje del
 descuento del 10% en los servicios del spa… Además, contaréis con un servicio de 
 check-in y check-out inmediato y una sala privada con servicio de conserje exclusivo. 
 
-![Suite hoteles de lujo de republica dominicana](etheria_images/2021/04/Barcelo-bavaro-palace-presidential-room.jpg "Presidential Suite.")
+![Suite hoteles de lujo de republica dominicana](etheria-images/2021/04/Barcelo-bavaro-palace-presidential-room.jpg "Presidential Suite.")
 
 ## Las habitaciones
 
@@ -51,7 +51,7 @@ metros cuadrados es un auténtico lujo con dos baños y un comedor de 70 metros 
 Las suites cuentan con el servicio Premium Level que suma aún más ventajas y 
 comodidades. 
 
-![habitacion de lujo en republica dominicana](etheria_images/2021/04/barcelo-bavaro-palace-master-suite.jpg "Master Suite del Barceló Bávaro Palace.")
+![habitacion de lujo en republica dominicana](etheria-images/2021/04/barcelo-bavaro-palace-master-suite.jpg "Master Suite del Barceló Bávaro Palace.")
 
 Es un hotel perfecto para familias, por lo que no habrá problemas en encontrar una 
 habitación espaciosa en la que disfrutar todos juntos con toda comodidad. Entre las 
@@ -59,7 +59,7 @@ habitaciones familiares podrás elegir entre la **Family Duplex**, la **Habitaci
 Familiar** o la **Family Junior Suite Premium Level**, con capacidad para seis personas, 
 perfecta para familias numerosas. 
 
-![hoteles para familias en República Dominicana](etheria_images/2021/04/barcelo-bavaro-palace-family-room.jpg "Terraza de la Family Room.")
+![hoteles para familias en República Dominicana](etheria-images/2021/04/barcelo-bavaro-palace-family-room.jpg "Terraza de la Family Room.")
 
 Las habitaciones cuentan con un 'Green Fee' gratis para visitar el campo de golf y las 
 familiares con acceso gratuito al parque acuático Barcy Water Park. Y, como es un hotel 
@@ -75,7 +75,7 @@ con comida española; **La Comedie**, con especialidades francesas (y suplemento
 cuenta con el servicio Premium Level); el americano **Hoyo 19 Golf Bar** y **Santa Fe 
 Steak House** con los mejores cortes de carnes. 
 
-![hoteles de cinco estrellas en República Domimicana](etheria_images/2021/04/barcelo-bavaro-palace-mexico-lindo.jpg "Restaurante México Lindo.")
+![hoteles de cinco estrellas en República Domimicana](etheria-images/2021/04/barcelo-bavaro-palace-mexico-lindo.jpg "Restaurante México Lindo.")
 
 Además, podrás disfrutar de **tres restaurantes buffet** (uno con especialidades 
 dominicanas) y dos cavas privadas para reservar y cenar con total intimidad (con cargo). 
@@ -94,7 +94,7 @@ familia del **Pirates Island Water Park**, con una piscina con olas. Y, como no 
 ser de otra manera en este rincón del mundo, todas las piscinas y zonas de agua están 
 rodeadas de palmeras y vegetación tropical. 
 
-![hoteles de lujo en República Dominicana](etheria_images/2021/04/barcelo-bavaro-palace-piscinas.jpg "Piscina del hotel.")
+![hoteles de lujo en República Dominicana](etheria-images/2021/04/barcelo-bavaro-palace-piscinas.jpg "Piscina del hotel.")
 
 Los amantes del golf encontrarán en el hotel el **Campo de Golf The Lakes**, con 18 
 hoyos, que es perfecto para dedicar una mañana o una tarde a su deporte favorito. Si 
@@ -109,7 +109,7 @@ tiene preparados para no perder ni un minuto de las vacaciones: un **Casino** (a
 juegos recreativos, un **Escape Room** con dos salas, dos **discotecas** (una para 
 adultos y otra para adolescentes), un ajedrez gigante, un laser tag… 
 
-![Todo incluido en república dominicana](etheria_images/2021/04/barcelo-bavaro-palace-scape-room.jpg "Escape Room en el Barceló Bávaro Palace.")
+![Todo incluido en república dominicana](etheria-images/2021/04/barcelo-bavaro-palace-scape-room.jpg "Escape Room en el Barceló Bávaro Palace.")
 
 El complejo también dispone de un **Centro Comercial** con más de 40 tiendas y 5.000 
 metros cuadrados donde encontrarás casi de todo y podrás comprar algún recuerdo antes de 
@@ -127,7 +127,7 @@ República Dominicana. En este centro de bienestar podrás desde beneficiarte de
 puedas imaginar. Además, cuenta con un relajante **circuito de hidroterapia**, sauna, 
 baño turco, ducha Vichy y zona de descanso, entre otras muchas instalaciones. 
 
-![hoteles cinco estrellas en república dominicana](etheria_images/2021/04/spa-barcelo-bavaro-palace.jpg "Zona de relajación del U-Spa.")
+![hoteles cinco estrellas en república dominicana](etheria-images/2021/04/spa-barcelo-bavaro-palace.jpg "Zona de relajación del U-Spa.")
 
 Para completar su oferta, el U-Spa dispone de un impresionante **gimnasio**, con todo 
 tipo de aparatos para entrenar el aparato cardiovascular y la fuerza y dos salas para 

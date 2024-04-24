@@ -1,12 +1,12 @@
 ---
 title: "10 razones por las que deberías hacer un safari en Botsuana"
 date: 2018-11-22
-coverImage: etheria_images/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
+coverImage: etheria-images/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -14,7 +14,7 @@ Un safari en Botsuana puede cambiar tu concepción del viaje y de la naturaleza 
 incluso marcar un antes y un después en tu vida. Te animamos a explorar las orillas del 
 río Chobe mientras despierta tu naturaleza más aventurera. 
 
-![bufalo de agua safari en botsuana](etheria_images/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg "Bufalo de agua.")
+![bufalo de agua safari en botsuana](etheria-images/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg "Bufalo de agua.")
 
 Hacer un safari es una experiencia que hay que vivir al menos una vez en la vida. Si se 
 quiere hacer de la forma más auténtica, en parques naturales menos masificados y viendo 
@@ -35,7 +35,7 @@ regulación de acceso del parque nacional– así que podrás detenerte con calm
 admirar a los animales, dejar pasar las manadas o deleitarte una y otra vez haciéndote 
 un selfi para sentirte protagonista de una película en clave africana. 
 
-![crucero rio chobe, fauna de africa, safaris en bostuana, viajes naturaleza, viajes para mujeres](etheria_images/2018/11/Bostsuana-viaje-mujeres-crucero-e1552208272322.jpg "Mini crucero por el río Chobe.")
+![crucero rio chobe, fauna de africa, safaris en bostuana, viajes naturaleza, viajes para mujeres](etheria-images/2018/11/Bostsuana-viaje-mujeres-crucero-e1552208272322.jpg "Mini crucero por el río Chobe.")
 
 ## 2\. Navegar por el río
 
@@ -48,7 +48,7 @@ con otros tres países (Zimbabue, Namibia y Zambia). Navegarás por aguas intern
 viviendo con vistas al río y, como mínimo, en este safari en Botsuana dormirás dos 
 noches sintiéndote la reina de África. 
 
-![elefantes safari en botsuana](etheria_images/2018/11/Bostsuana-viaje-mujeres-elefantes-e1552208312120.jpg "Elefantes africanos bañándose en el río.")
+![elefantes safari en botsuana](etheria-images/2018/11/Bostsuana-viaje-mujeres-elefantes-e1552208312120.jpg "Elefantes africanos bañándose en el río.")
 
 ## 3\. Seguir la migración de los elefantes
 
@@ -66,7 +66,7 @@ verás disfrutando de su baño en su rincón preferido del río, tomando sales m
 los taludes del río o revolcándose en el barro para cuidar su piel y protegerla así de 
 los insectos. 
 
-![hipopotamos safari en botsuana](etheria_images/2018/11/Bostsuana-viaje-mujeres-hipopotamo-e1552208338456.jpg "Los hipopótamos se concentran en grandes grupos junto al río Chobe.")
+![hipopotamos safari en botsuana](etheria-images/2018/11/Bostsuana-viaje-mujeres-hipopotamo-e1552208338456.jpg "Los hipopótamos se concentran en grandes grupos junto al río Chobe.")
 
 ## 4\. Ver hipopótamos (de lejos)
 
@@ -80,7 +80,7 @@ solitario el agua para alimentarse de hierba. Aun así no te fíes de este parie
 ballenas porque estás ante el animal más feroz del continente africano. Aunque tiene 
 patas cortas, puede correr tan rápido como un ser humano, y su boca ¡es enorme! 
 
-![amanecer en el rio chobe](etheria_images/2018/11/Bostsuana-viaje-mujeres-amanecer-chobe-e1552208448693.jpg "Amanecer en Bostsuana.")
+![amanecer en el rio chobe](etheria-images/2018/11/Bostsuana-viaje-mujeres-amanecer-chobe-e1552208448693.jpg "Amanecer en Bostsuana.")
 
 ## 5\. Amaneceres que enamoran
 
@@ -92,7 +92,7 @@ Safaris](http://www.mopanesafaris.com). Después de haber contemplado esos prime
 últimos rayos de sol no querrás perderte ni un solo de esos momentos únicos del color 
 africano. 
 
-![aguila en Botsuana](etheria_images/2018/11/Bostsuana-viaje-aves-africa-e1552208476293.jpg "Podrás contemplar 450 especies de aves.")
+![aguila en Botsuana](etheria-images/2018/11/Bostsuana-viaje-aves-africa-e1552208476293.jpg "Podrás contemplar 450 especies de aves.")
 
 ## 6\. Convertirse en una birdwatcher
 
@@ -105,7 +105,7 @@ arena. Moviéndose ágil sobre el agua divisarás al martín pescador entre los 
 islas del río y, en las orillas, a las delicadas aves limícolas que han hecho largas 
 migraciones huyendo del frío boreal para disfrutar del Chobe. 
 
-![plantas de papiro en Botsuana](etheria_images/2018/11/Bostsuana-viaje-africa-flora-e1552208498872.jpg "El papiro es una de las plantas que se pueden observar en el viaje a Bostsuana.")
+![plantas de papiro en Botsuana](etheria-images/2018/11/Bostsuana-viaje-africa-flora-e1552208498872.jpg "El papiro es una de las plantas que se pueden observar en el viaje a Bostsuana.")
 
 ## 7\. Árboles y plantas para alucinar
 
@@ -120,7 +120,7 @@ jardín botánico sino en un safari en Botsuana, y que por aquí suelen acechar
 depredadores como el león, guepardo, hiena, chacal, zorro, caracal o leopardo pendientes 
 de sus presas en camino hacia el agua. 
 
-![babuinos en bostsuana](etheria_images/2018/11/Bostsuana-viaje-babuinos-africa-e1552208525364.jpg "Es curioso observar el comportamiento de los babuinos.")
+![babuinos en bostsuana](etheria-images/2018/11/Bostsuana-viaje-babuinos-africa-e1552208525364.jpg "Es curioso observar el comportamiento de los babuinos.")
 
 ## 8\. Seguir las señales de los babuinos
 
@@ -133,7 +133,7 @@ gritos de alarma avisan de la llegada de algún visitante salvaje a la orilla, c
 un leopardo o tal vez otro macho que se atreve a acercarse al grupo, la pelea está 
 servida y con ello un espectáculo animal ante nuestros ojos. 
 
-![coche de safari frente a un hipopotamo en el río Chobe](etheria_images/2018/11/Safari-Bostsuana-viaje-mujeres-africa-e1552208546636.jpg "Safari en el Parque Nacional de Chobe.")
+![coche de safari frente a un hipopotamo en el río Chobe](etheria-images/2018/11/Safari-Bostsuana-viaje-mujeres-africa-e1552208546636.jpg "Safari en el Parque Nacional de Chobe.")
 
 ## 9\. Naturaleza pura
 
@@ -151,7 +151,7 @@ recuerdos imborrables. Y, si quieres disfrutar de la riqueza humana de la regió
 atraviesa el río en la barca tradicional de madera o mokoro y camina hasta un pueblo 
 tribal de la orilla namibia del río. 
 
-![Lodge en Botsuana.](etheria_images/2018/11/lodges-Bostsuana-viaje-mujeres-africa-1024x683.jpg "Lodge en Botsuana.")
+![Lodge en Botsuana.](etheria-images/2018/11/lodges-Bostsuana-viaje-mujeres-africa-1024x683.jpg "Lodge en Botsuana.")
 
 ## 10\. Relax en un lodge
 

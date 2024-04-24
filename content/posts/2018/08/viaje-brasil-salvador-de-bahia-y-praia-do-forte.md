@@ -1,18 +1,18 @@
 ---
 title: "Brasil con amigas: Salvador de Bahía y Praia do Forte"
 date: 2018-08-22
-coverImage: etheria_images/2018/08/Playa-Praia-do-Forte-viaje-brasil-e1578734128487.jpg
+coverImage: etheria-images/2018/08/Playa-Praia-do-Forte-viaje-brasil-e1578734128487.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 ¿Está entre tus placer hacer un viaje a Brasil con amigas? Una excelente propuesta es combinar Salvador de Bahía, una de las ciudades más vibrantes del país, con la tranquila zona playera de Praia do Forte. El éxito está asegurado.
 
-![Iberostar Praia do Forte, un 5 estrellas en primera línea de playa.](etheria_images/2018/08/IBEROSTAR-Praia-do-Forte-e1578733585570.jpg "Piscina del Iberostar Praia do Forte.")
+![Iberostar Praia do Forte, un 5 estrellas en primera línea de playa.](etheria-images/2018/08/IBEROSTAR-Praia-do-Forte-e1578733585570.jpg "Piscina del Iberostar Praia do Forte.")
 
 Salvador de Bahía puede ser tu primera parada en este viaje a Brasil con amigas. El 
 centro histórico de esta ciudad lo puedes recorrer con un plano en la mano o dejándote 
@@ -22,7 +22,7 @@ en el que Jorge Amado describe el lugar a través de sus personajes. Una vez en 
 no dejes de visitar su [Casa Museo](http://www.jorgeamado.org.br/?lang=en), está en 
 pleno centro histórico y pasarás sí o sí por la puerta. 
 
-![pelourinho casco antiguo salvador bahia viaje](etheria_images/2018/08/Pelourinho-Salvador-Bahia-viaje-Brasil-e1578733629218.jpg "Pelourinho de Salvador de Bahía. ©PG")
+![pelourinho casco antiguo salvador bahia viaje](etheria-images/2018/08/Pelourinho-Salvador-Bahia-viaje-Brasil-e1578733629218.jpg "Pelourinho de Salvador de Bahía. ©PG")
 
 ## Qué ver en Salvador de Bahía
 
@@ -39,7 +39,7 @@ orixas, los dioses africanos. A la bahía de Salvador llegaban los esclavos tra�
 golfo de Guinea y de las costas angoleñas para trabajar en los campos de caña de azúcar. 
 Su presencia se percibe en la cultura, la gastronomía y en la fusión religiosa. 
 
-![Plaza da Sé, con la iglesia de San Francisco al fondo.](etheria_images/2018/08/iglesia-salvador-bahia-viaje-brasil-1024x696.jpg "Plaza da Sé, con la iglesia de San Francisco al fondo. ©PG")
+![Plaza da Sé, con la iglesia de San Francisco al fondo.](etheria-images/2018/08/iglesia-salvador-bahia-viaje-brasil-1024x696.jpg "Plaza da Sé, con la iglesia de San Francisco al fondo. ©PG")
 
 ### 2\. Iglesia y convento de San Francisco
 
@@ -58,7 +58,7 @@ que se caiga sola. Os las ofrecerán en muchos sitios, pero donde alcanzan su m�
 expresión es en el **templo do Senhor do Bonfim** (a pesar de estar un poco alejado del 
 centro es uno de los más visitados). 
 
-![Baiana en la puerta de un restaurante de Salvador de Bahía.](etheria_images/2018/08/Baiana-Pelourinho-Salvador-839x1024.jpg "Baiana en la puerta de un restaurante de Salvador de Bahía. P.G.")
+![Baiana en la puerta de un restaurante de Salvador de Bahía.](etheria-images/2018/08/Baiana-Pelourinho-Salvador-839x1024.jpg "Baiana en la puerta de un restaurante de Salvador de Bahía. P.G.")
 
 ### 3\. Baianas y acarajés
 
@@ -72,7 +72,7 @@ pudientes a través de sus ostentosos tocados.
 Si tienes interés en la gastronomía, puedes pasarte por el [Museo de la Gastronomía 
 Baiana.](http://www.ba.senac.br/museu) 
 
-![Elevador Lacerda, un ascensor histórico de Salvador de Bahía.](etheria_images/2018/08/Elevador-Lacerda-Salvador-viaje-brasil-e1578733757112.jpg "Elevador Lacerda, un ascensor histórico de Salvador de Bahía. ©PG")
+![Elevador Lacerda, un ascensor histórico de Salvador de Bahía.](etheria-images/2018/08/Elevador-Lacerda-Salvador-viaje-brasil-e1578733757112.jpg "Elevador Lacerda, un ascensor histórico de Salvador de Bahía. ©PG")
 
 ### 4\. Elevador Lacerda
 
@@ -82,7 +82,7 @@ obtiene una bella panorámica que permite observar la **Bahía de todos los Sant
 bautizada así por Américo Vespucio, su descubridor, según dicen porque al ser tan grande 
 no se podía dedicar a un solo santo. Un buen lugar para un primer _selfie_. 
 
-![Mercado Modelo (edificio amarillo).](etheria_images/2018/08/Mercado-modelo-salvador-bahia-brasil-e1578733790451.jpg "Mercado Modelo (edificio amarillo). ©PG")
+![Mercado Modelo (edificio amarillo).](etheria-images/2018/08/Mercado-modelo-salvador-bahia-brasil-e1578733790451.jpg "Mercado Modelo (edificio amarillo). ©PG")
 
 ### 5\. Mercado Modelo
 
@@ -92,7 +92,7 @@ dulce de coco, el ají o el camarón ahumado, y con artesanías como la **muñec
 baianinha** de Salvador, instrumentos musicales o abalorios. Se cuenta que en el sótano 
 del edificio se encerraba a los esclavos al llegar a puerto. 
 
-![Faro de Barra, en Salvador de Bahía.](etheria_images/2018/08/Faro-de-Barra-Salvador-viaje-brasil-e1578733813990.jpg "Faro de Barra, en Salvador de Bahía. ©PG")
+![Faro de Barra, en Salvador de Bahía.](etheria-images/2018/08/Faro-de-Barra-Salvador-viaje-brasil-e1578733813990.jpg "Faro de Barra, en Salvador de Bahía. ©PG")
 
 ### 6\. Faro de Barra
 
@@ -102,7 +102,7 @@ el más antiguo de América (fue inaugurado en 1698). Junto al mismo se halla el
 Náutico**, donde se conservan objetos personales de los más de 400 náufragos del galeón, 
 y una concurrida playa de arena donde **se despide el día con buen ritmo musical**. 
 
-![Playa de Praia do Forte con el agua azul y las palmeras al fondo.](etheria_images/2018/08/Playa-Praia-do-Forte-viaje-brasil-e1578734128487.jpg "Playa de Praia do Forte. ©PG")
+![Playa de Praia do Forte con el agua azul y las palmeras al fondo.](etheria-images/2018/08/Playa-Praia-do-Forte-viaje-brasil-e1578734128487.jpg "Playa de Praia do Forte. ©PG")
 
 ### 7\. La Polinesia brasileña
 
@@ -113,7 +113,7 @@ resumidas cuentas, un lugar idílico para desconectar durante los últimos días
 vacaciones. En la costa, además, se puede practicar **submarinismo**, **navegar para ver 
 cetáceos** o **esnórquel** en las pequeñas piscinas que se crean junto al arrecife. 
 
-![Playa de la villa de Praia do Forte al atardecer.](etheria_images/2018/08/Villa-de-Praia-do-forte-viaje-brasil-e1578733859285.jpg "Playa de la villa de Praia do Forte. ©PG")
+![Playa de la villa de Praia do Forte al atardecer.](etheria-images/2018/08/Villa-de-Praia-do-forte-viaje-brasil-e1578733859285.jpg "Playa de la villa de Praia do Forte. ©PG")
 
 ### 8\. Villa de Praia do Forte
 
@@ -123,7 +123,7 @@ los alrededores. **Una plaza, una iglesia, muchas terrazas, restaurantes,**
 **heladerías** y **tiendas** de artesanía conforman el ecosistema por el que turista se 
 mueve, a veces, hasta el amanecer. 
 
-![Instalaciones de Tamar, proyecto para proteger a las tortugas](etheria_images/2018/08/TAMAR-Praia-do-Forte-viaje-brasil-e1578733885277.jpg "Instalaciones de Tamar. ©PG")
+![Instalaciones de Tamar, proyecto para proteger a las tortugas](etheria-images/2018/08/TAMAR-Praia-do-Forte-viaje-brasil-e1578733885277.jpg "Instalaciones de Tamar. ©PG")
 
 ### 9\. Protección tortugas marinas. Proyecto Tamar
 
@@ -135,7 +135,7 @@ captura de estos animales. Algunos de los guías del centro son ya la tercera ge
 de aquellos pescadores que inicialmente consumían los huevos de estos animales. En las 
 playas se suelen señalizar los nidos (con huevos de tortuga) para que no se pisen. 
 
-![En la Reserva Sapiranga se pueden hacer caminatas, kayaking, tirolinas, etc.](etheria_images/2018/08/Reserva-Praia-do-Forte-viaje-brasil-e1578733907827.jpg "En la Reserva Sapiranga se pueden hacer caminatas, kayaking, tirolinas, etc. © PG")
+![En la Reserva Sapiranga se pueden hacer caminatas, kayaking, tirolinas, etc.](etheria-images/2018/08/Reserva-Praia-do-Forte-viaje-brasil-e1578733907827.jpg "En la Reserva Sapiranga se pueden hacer caminatas, kayaking, tirolinas, etc. © PG")
 
 ### 10\. Reserva Ecológica de Sapiranga
 

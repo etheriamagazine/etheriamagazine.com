@@ -1,12 +1,12 @@
 ---
 title: "The Madrid EDITION, un hotel de lujo lleno de estilo"
 date: 2023-03-27
-coverImage: etheria_images/2023/03/hotel-madrid-edition-sala.jpg
+coverImage: etheria-images/2023/03/hotel-madrid-edition-sala.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La oferta hotelera de lujo de Madrid recibió con los brazos abiertos el pasado año a The 
@@ -15,7 +15,7 @@ gusto por el diseño más rompedor, su apuesta por la buena gastronomía y su vo
 ofrecer un remanso de paz en medio del bullicio de la ciudad son sus apuestas para 
 convertirse en el referente del lujo más exquisito de la capital. 
 
-![Entrada al hotel The Madrid EDITION.](etheria_images/2023/03/hotel-madrid-edition-sala.jpg "Entrada al hotel The Madrid EDITION.")
+![Entrada al hotel The Madrid EDITION.](etheria-images/2023/03/hotel-madrid-edition-sala.jpg "Entrada al hotel The Madrid EDITION.")
 
 Un hotel que se autodenomina ‘el primer resort urbano de lujo lifestyle de Madrid’ 
 anticipa una voluntad férrea de distinguirse y no dejar indiferente. Y **The Madrid 
@@ -33,7 +33,7 @@ basado en la elegancia y simplicidad del **arquitecto John Pawson** combinadas c
 originalidad del **artista François Champsaur**. La combinación de estas dos visiones es 
 asombrosa y da lugar a unos espacios absolutamente únicos. 
 
-![hotel The Madrid EDITION en la Plaza de las Descalzas](etheria_images/2023/03/hotel-madrid-edition-fachada.jpg "Portada barroca en The Madrid EDITION.")
+![hotel The Madrid EDITION en la Plaza de las Descalzas](etheria-images/2023/03/hotel-madrid-edition-fachada.jpg "Portada barroca en The Madrid EDITION.")
 
 ### Dónde está The Madrid EDITION
 
@@ -49,7 +49,7 @@ Otros espacios que te dejarán con la boca abierta son la espectacular **escaler
 **piscina de la azotea**, una _infinity pool_ con vistas a los tejados del Madrid de los 
 Austrias que es una promesa de descanso y relax en sus tumbonas y camas balinesas. 
 
-![Escalera del hotel The Madrid EDITION.](etheria_images/2023/03/hotel-madrid-edition-escalera.jpg "Escalera del hotel The Madrid EDITION.")
+![Escalera del hotel The Madrid EDITION.](etheria-images/2023/03/hotel-madrid-edition-escalera.jpg "Escalera del hotel The Madrid EDITION.")
 
 ## Las habitaciones
 
@@ -59,7 +59,7 @@ naturales que ponen el marco perfecto para piezas originales en el mobiliario y 
 en casi cada rincón. Por no hablar del cabecero retroiluminado, que se lleva todas las 
 miradas y está inspirado en el pórtico barroco que da entrada al hotel. 
 
-![Habitación de The Madrid EDITION.](etheria_images/2023/03/hotel-madrid-edition-habitacion.jpg "Habitación de The Madrid EDITION.")
+![Habitación de The Madrid EDITION.](etheria-images/2023/03/hotel-madrid-edition-habitacion.jpg "Habitación de The Madrid EDITION.")
 
 Entre las habitaciones, se pueden elegir habitaciones comunicadas, perfectas si se viaja 
 en familia, y algunas habitaciones tienen terrazas privadas. 
@@ -80,7 +80,7 @@ productos locales y de temporada para elaborar su carta. Podrás elegir entre su
 barra y ejecutivo y no te puedes perder sus deliciosos _brunch_. Además, merece la pena 
 probar sus originales margaritas elaboradas con los mejores tequilas y mezcales. 
 
-![Restaurante Jerónimo.](etheria_images/2023/03/hotel-madrid-edition-restaurante.jpg "Restaurante Jerónimo.")
+![Restaurante Jerónimo.](etheria-images/2023/03/hotel-madrid-edition-restaurante.jpg "Restaurante Jerónimo.")
 
 La otra joya gastronómica del hotel es **Oroya Pisco Bar & Restaurante**, ubicado en la 
 azotea, del chef peruano Diego Muñoz, cuyos platos cuentan la historia de las 
@@ -89,7 +89,7 @@ el espacio acristalado o las mesas al aire libre, en medio de un frondoso jardí
 lugar perfecto para compartir platos como el _Ceviche de corvina y pulpo a la chalaca_ o 
 los _Calamares fritos estilo Pucusana_, emulsión de lima y pescado. 
 
-![Terraza del Oroya Pisco Bar & Restaurante.](etheria_images/2023/03/hotel-madrid-edition-terraza.jpg "Terraza del Oroya Pisco Bar & Restaurante.")
+![Terraza del Oroya Pisco Bar & Restaurante.](etheria-images/2023/03/hotel-madrid-edition-terraza.jpg "Terraza del Oroya Pisco Bar & Restaurante.")
 
 Para tomar una copa en el hotel, el mejor lugar es **Punch Room**, un _speakeasy_ con 
 una amplia carta de bebidas en la que se ha puesto especial atención a los ponches. Aquí 
@@ -115,7 +115,7 @@ No te pierdas el **EDITION Signature Massage**, que mezcla aceites con la fragan
 té negro característica de la marca EDITION. También tiene disponibles tratamientos 
 corporales y faciales. 
 
-![Piscina en la azotea del hotel The Madrid EDITION](etheria_images/2023/03/hotel-madrid-edition-piscina.jpg "Infinity pool de The Madrid EDITION.")
+![Piscina en la azotea del hotel The Madrid EDITION](etheria-images/2023/03/hotel-madrid-edition-piscina.jpg "Infinity pool de The Madrid EDITION.")
 
 [The Madrid 
 EDITION.](https://www.espanol.marriott.com/hotels/travel/madeb-the-madrid-edition/) 

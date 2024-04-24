@@ -1,13 +1,13 @@
 ---
 title: "7 paisajes que confirman que España es increíble"
 date: 2019-04-28
-coverImage: etheria_images/2019/04/navarra-bardenas-reales.jpg
+coverImage: etheria-images/2019/04/navarra-bardenas-reales.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 No es necesario recorrer miles de kilómetros para quedar extasiados con la magia de la 
@@ -16,7 +16,7 @@ original o quieres sorprender a tus seguidores de Instagram. Digamos que los 'li
 cualquiera de estos 7 mágicos parajes, que se encuentran entre los mejores paisajes de 
 España, están asegurados. 
 
-![mujer caminando en las Bardenas reales](etheria_images/2019/04/bardenas-reales-navarra-chica-683x1024.jpg "Paseo por el singular paisaje de las Bardenas Reales en Navarra.")
+![mujer caminando en las Bardenas reales](etheria-images/2019/04/bardenas-reales-navarra-chica-683x1024.jpg "Paseo por el singular paisaje de las Bardenas Reales en Navarra.")
 
 Si te gusta la fotografía –o te estás comenzando a aficionar gracias a las aplicaciones 
 móviles–, te sugerimos que visites estos paisajes a distintas horas del día e incluso en 
@@ -35,7 +35,7 @@ Unesco y ofrece un espectáculo de luces durante todo el año (buscad fotos de c
 nevado). Una de las poblaciones cercanas es Tudela, por si te planteas pernoctar allí 
 para fotografiarlo a primera hora de la mañana. 
 
-![bardenas reales navarra](etheria_images/2019/04/navarra-bardenas-reales.jpg "Las Bardenas Reales. © Noradoa/ Adobe Stock")
+![bardenas reales navarra](etheria-images/2019/04/navarra-bardenas-reales.jpg "Las Bardenas Reales. © Noradoa/ Adobe Stock")
 
 ## 2\. Parque Nacional de Garajonay (La Gomera)
 
@@ -46,7 +46,7 @@ leyenda en la que los protagonistas son Gara, una princesa gomera, y Jonay, un g
 Tenerife. El final de este amor imposible mejor no os lo contamos. En esta tupida selva 
 podrás pasear envuelta en niebla, pura magia. 
 
-![parque garajonay, la gomera](etheria_images/2019/04/la-gomera-Garajonay.jpg "Parque Nacional de Garajonay. © Rh2010/ Adobe Stock")
+![parque garajonay, la gomera](etheria-images/2019/04/la-gomera-Garajonay.jpg "Parque Nacional de Garajonay. © Rh2010/ Adobe Stock")
 
 ## 3\. Los Mallos de Riglos (Huesca)
 
@@ -59,7 +59,7 @@ un Centro de interpretación de aves carroñeras con un espacio importante dedic
 buitre leonado. Más información en [Turismo de 
 Aragón](https://www.turismodearagon.com/ficha/riglos/). 
 
-![mallos de riglos huesca](etheria_images/2019/04/huesca-mallos-riglos.jpg "Los Mallos de Riglos. © Bbsferrari / Adobe Stock")
+![mallos de riglos huesca](etheria-images/2019/04/huesca-mallos-riglos.jpg "Los Mallos de Riglos. © Bbsferrari / Adobe Stock")
 
 ## 4\. Cuevas del Drach (Mallorca)
 
@@ -73,7 +73,7 @@ clásica y darás un paseo en barca en el lago Martel. Y todo ello sin pasar fr�
 a unos 21 ºC. Si prefieres preparar una escapada a [Ibiza con 
 amigas](http://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/) estás a tiempo. 
 
-![cueva drach mallorca](etheria_images/2019/04/mallorca-cueva-drach.jpg "Cuevas del Drach. © Balate Dorin/ Adobe Stock")
+![cueva drach mallorca](etheria-images/2019/04/mallorca-cueva-drach.jpg "Cuevas del Drach. © Balate Dorin/ Adobe Stock")
 
 ## 5\. Las Médulas (León)
 
@@ -87,7 +87,7 @@ en el Centro de recepción de visitantes. Puedes continuar la visita por [Picos 
 Europa](http://etheriamagazine.com/2018/10/17/picos-de-europa-ruta-por-asturias-leon-y-cantabria/) 
 o en [León capital](http://etheriamagazine.com/2018/09/27/48-horas-en-leon/). 
 
-![las medulas leon](etheria_images/2019/04/leon-medulas-minas-oro.jpg "Las Médulas. © Olivier/ Adobe Stock")
+![las medulas leon](etheria-images/2019/04/leon-medulas-minas-oro.jpg "Las Médulas. © Olivier/ Adobe Stock")
 
 ## 6\. Playa de Gueirúa (Asturias)
 
@@ -97,7 +97,7 @@ islotes que emergen del mar con afiladas aristas. Se encuentra cerca de Cudiller
 que puede ser un buen lugar para alojarse y disfrutar de este coqueto pueblo cuya 
 fachada marítima también te enamorará. 
 
-![Playa de Gueirua en asturias](etheria_images/2019/04/asturias-playa-gueirua.jpg "Playa de Gueirúa. © Javier Castro/ Adobe Stock")
+![Playa de Gueirua en asturias](etheria-images/2019/04/asturias-playa-gueirua.jpg "Playa de Gueirúa. © Javier Castro/ Adobe Stock")
 
 ## 7\. Minas de Riotinto (Huelva)
 
@@ -110,7 +110,7 @@ Te llamará la atención el color rojo del río, es debido a los metales pesados
 contiene. Lo más curioso es que en sus aguas viven microorganismos que pueden vivir sin 
 oxígeno. Una circunstancia que incluso ha estudiado la NASA. 
 
-![minas riotinto](etheria_images/2019/04/huelva-riotinto.jpg "Minas de Riotinto. © Fotolia Premium/ Adobe Stock")
+![minas riotinto](etheria-images/2019/04/huelva-riotinto.jpg "Minas de Riotinto. © Fotolia Premium/ Adobe Stock")
 
 ? **También te puede interesar:** 
 

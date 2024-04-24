@@ -1,14 +1,14 @@
 ---
 title: "Sevilla, la escapada perfecta a la andaluza"
 date: 2019-02-04
-coverImage: etheria_images/2019/01/viaje-mujeres-Aire-Sevilla.jpg
+coverImage: etheria-images/2019/01/viaje-mujeres-Aire-Sevilla.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
-  - macarenaetheria
+authors: 
+  - Macarena Escrivá
 ---
 
 La Feria de Abril, la Semana Santa, el Rocío... Sevilla es una fiesta permanente y no 
@@ -16,7 +16,7 @@ importa si hay un gran acontecimiento o simplemente se plantea como una escapada
 de semana, nunca defrauda. Lo pasarás bien tanto si decides viajar con amigas a Sevilla 
 como si quieres hacer una escapada sola. 
 
-![la catedral de Sevilla al anochecer desde una piscina](etheria_images/2019/01/viaje-mujeres-Aire-Sevilla-1024x684.jpg "© Aire Ancient Baths de Sevilla.")
+![la catedral de Sevilla al anochecer desde una piscina](etheria-images/2019/01/viaje-mujeres-Aire-Sevilla-1024x684.jpg "© Aire Ancient Baths de Sevilla.")
 
 Y sí, Sevilla puede sonar a tradicional, a casticismo, a faralaes... Pero nada más lejos 
 de la realidad, porque la ciudad también se jacta de ser una de las más cosmopolitas del 
@@ -46,7 +46,7 @@ del arte contemporáneo sevillano con Caixaforum, el Pabellón de la Navegación
 92, el CAAC o el Cartuja Center Cite, un espacio de más de 33.000 m2 que acoge grandes 
 eventos, conciertos y obras de teatro. 
 
-![Patio del palacio de las Dueñas.](etheria_images/2019/01/viaje-sevilla-palacio-duenas-1024x757.jpg "Patio del palacio de las Dueñas.")
+![Patio del palacio de las Dueñas.](etheria-images/2019/01/viaje-sevilla-palacio-duenas-1024x757.jpg "Patio del palacio de las Dueñas.")
 
 ¿Te gustaría saber cómo vivían las grandes figuras sevillanas? El año pasado el 
 Ayuntamiento lanzaba la **Ruta de las Casa Palacio**, una iniciativa que te permite 
@@ -60,7 +60,7 @@ Sevilla es sede de hotelazos como el imponente **Alfonso XIII**, con su arquitec
 palacio neomudéjar, su exuberante patio andaluz y uno de los jardines de hoteles más 
 impresionantes que hemos visto. 
 
-![habitacion del Hotel One Shot Palacio Conde de Torrejón.](etheria_images/2019/01/Hotel-sevilla-Conde-Torrejon-1024x692.jpg "© Hotel One Shot Palacio Conde de Torrejón.")
+![habitacion del Hotel One Shot Palacio Conde de Torrejón.](etheria-images/2019/01/Hotel-sevilla-Conde-Torrejon-1024x692.jpg "© Hotel One Shot Palacio Conde de Torrejón.")
 
 ### Hoteles palacio
 
@@ -73,7 +73,7 @@ proyecto de renovación a cargo del estudio Alfaro-Manrique ha hecho que la huel
 pasado siga presente, adaptando el espacio al huésped más actual. Además, en temporada 
 de verano abre su piscina de la azotea, todo un sueño en las alturas de Sevilla. 
 
-![Patio del Palacio de Mármoles.](etheria_images/2019/01/viaje-sevilla-Palacio-Marmoles-1024x684.jpg "Patio del © Palacio de Mármoles.")
+![Patio del Palacio de Mármoles.](etheria-images/2019/01/viaje-sevilla-Palacio-Marmoles-1024x684.jpg "Patio del © Palacio de Mármoles.")
 
 Otro sueño hecho realidad ha sido el del **Palacio de Mármoles**, un antigua casa 
 familiar en el casco histórico de Sevilla, en lo que fuera la parte central de la 
@@ -97,7 +97,7 @@ kilómetro 0, proyecto del arquitecto y cocinero Manuel Llerena. En su carta enc
 clásicos andaluces con una vuelta de tuerca y delicias imperdibles como sus albóndigas 
 de choco de Huelva. 
 
-![sala del Restaurante De la O en Sevilla](etheria_images/2019/01/viaje-mujeres-De-la-o-1024x710.jpg "© Restaurante De la O, en el barrio de Triana.")
+![sala del Restaurante De la O en Sevilla](etheria-images/2019/01/viaje-mujeres-De-la-o-1024x710.jpg "© Restaurante De la O, en el barrio de Triana.")
 
 ### Casaplata
 
@@ -111,7 +111,7 @@ las tradicionales casas de comidas, pero con un giro en las presentaciones, como
 le dan a su ensaladilla rusa, que es de color rosa gracias a la remolacha que emplean en 
 su elaboración. 
 
-![salón del restaurante Casaplata](etheria_images/2019/01/viaje-mujeres-casa-plata-1024x682.jpg "© Casaplata.")
+![salón del restaurante Casaplata](etheria-images/2019/01/viaje-mujeres-casa-plata-1024x682.jpg "© Casaplata.")
 
 ### Filo
 
@@ -123,7 +123,7 @@ pilas, un brunch o almuerzo o una cena informal. En su carta de comida saludable
 encontrarás ensaladas –que se elaboran a la vista del cliente–, originales sándwiches o 
 hamburguesas y postres elaborados en su propio obrador. 
 
-![mesas y sandwiches del restaurante  Filo de Sevilla](etheria_images/2019/01/viaje-mujeres-filo-sevilla-1024x353.jpg "© Restaurante Filo, de Sevilla.")
+![mesas y sandwiches del restaurante  Filo de Sevilla](etheria-images/2019/01/viaje-mujeres-filo-sevilla-1024x353.jpg "© Restaurante Filo, de Sevilla.")
 
 ## El descanso de la guerrera
 
@@ -137,7 +137,7 @@ propiedades antioxidantes de la uva tinta de Ribera del Duero. El premio final t
 en la última planta: una piscina climatizada con las mejores visitas a la **Catedral de 
 Sevilla** como telón de fondo. 
 
-![piscina interior del Aire Ancient Baths de Sevilla.](etheria_images/2019/01/viaje-mujeres-Aire-Sevilla-spa-1024x684.jpg "© Aire Ancient Baths de Sevilla.")
+![piscina interior del Aire Ancient Baths de Sevilla.](etheria-images/2019/01/viaje-mujeres-Aire-Sevilla-spa-1024x684.jpg "© Aire Ancient Baths de Sevilla.")
 
 ## También te puede interesar:
 

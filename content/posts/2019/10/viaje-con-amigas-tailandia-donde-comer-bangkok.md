@@ -1,10 +1,10 @@
 ---
 title: "Bangkok con amigas, recomendaciones hedonistas"
 date: 2019-10-23
-coverImage: etheria_images/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar.jpg
+coverImage: etheria-images/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar.jpg
 categories: 
   - viajes-con-amigas
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -12,7 +12,7 @@ Bangkok se puede disfrutar de dos maneras: abandonándote al relax de un masaje 
 rienda suelta al paladar… En Etheria Magazine creemos que las dos opciones se pueden 
 combinar perfectamente en un viaje con amigas. 
 
-![Cóctel en Vértigo & Moon Bar para un viaje a Bangkok con amigas](etheria_images/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar-900x549.jpg "Cóctel en Vértigo & Moon Bar (Bangkok).")
+![Cóctel en Vértigo & Moon Bar para un viaje a Bangkok con amigas](etheria-images/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar-900x549.jpg "Cóctel en Vértigo & Moon Bar (Bangkok).")
 
 En los últimos años Tailandia se ha convertido en uno de los países más demandados como 
 destino vacacional del Sudeste Asiático. Bangkok, capital del país, es una **descarga de 
@@ -26,7 +26,7 @@ Guía Michelin. A tenerlo en cuenta.
 > Diez millones de ‘replicantes’ y miles de turistas se mueven diariamente por entre los 
 > cinco niveles de un Bangkok vigilado por ‘blade runners’. 
 
-![Yaowarat, el barrio chino de Bangkok.](etheria_images/2019/10/Yaowarat-el-barrio-chino-de-Bangkok-900x513.jpg "Yaowarat, el barrio chino de Bangkok.")
+![Yaowarat, el barrio chino de Bangkok.](etheria-images/2019/10/Yaowarat-el-barrio-chino-de-Bangkok-900x513.jpg "Yaowarat, el barrio chino de Bangkok.")
 
 ## Qué encontrarás en Bangkok
 
@@ -38,7 +38,7 @@ izquierda, derecha… y la ciudad te ira atrapando. Busca tu espacio y hazte hue
 la abigarrada multitud para visitar los lugares obligados que tiene como misión conocer 
 el ‘turista aplicado’. 
 
-![Bangkok, una ciudad alejada del minimalismo.](etheria_images/2019/10/viaje-amigas-Bangkok-900x598.jpg "Bangkok, una ciudad alejada del minimalismo.")
+![Bangkok, una ciudad alejada del minimalismo.](etheria-images/2019/10/viaje-amigas-Bangkok-900x598.jpg "Bangkok, una ciudad alejada del minimalismo.")
 
 ### Una visita imprescindible
 
@@ -52,7 +52,7 @@ metros de largo– el impactante **Buda Reclinado recubierto de oro**.
 Bangkok](https://etheriamagazine.com/2018/06/28/tres-dias-en-bangkok/) si es la primera 
 vez que viajas a la capital tailandesa. 
 
-![Buda reclinado de Wat Pho](etheria_images/2019/10/viaje-con-amigas-Bangkok-Buda-Reclinado-de-Wat-Pho-900x598.jpg "Buda Reclinado de Wat Pho.")
+![Buda reclinado de Wat Pho](etheria-images/2019/10/viaje-con-amigas-Bangkok-Buda-Reclinado-de-Wat-Pho-900x598.jpg "Buda Reclinado de Wat Pho.")
 
 ## Dónde comer en Bangkok
 
@@ -64,7 +64,7 @@ El año 2018 fue la primera vez que la prestigiosa guía reconocía los restaura
 Bangkok con chefs creativos y experimentales, locales y extranjeros, que desafiaban las 
 nociones tradicionales de la cocina tailandesa y la fusión. 
 
-![Thipsamai tiene fama de servir el mejor Pad Thai del mundo perfecto si vas a Bangkok con amigas](etheria_images/2019/10/Cocinando-el-famoso-pad-thai-de-Thipsamai-741x1024.jpg "Thipsamai tiene fama de servir el mejor Pad Thai del mundo.")
+![Thipsamai tiene fama de servir el mejor Pad Thai del mundo perfecto si vas a Bangkok con amigas](etheria-images/2019/10/Cocinando-el-famoso-pad-thai-de-Thipsamai-741x1024.jpg "Thipsamai tiene fama de servir el mejor Pad Thai del mundo.")
 
 Si hace años era impensable concebir un ágape sin arroz, la moderna cocina tailandesa ha 
 evolucionado a un universo gustativo que, del mismo modo que ha ocurrido en todas las 
@@ -91,7 +91,7 @@ los gemelos alemanes Thomas y Mathias Sühring han aprovechado el impulso gastro
 lanzar un menú con doce pasos: 6 ‘antiguos’ y 6 ‘evolutivos’. A destacar también que 
 cuenta con una de las mejores bodegas del país. 
 
-![Chef Chayawee Sutcharitchan del Sra Bua by Kiin Kiin. Apúntalo en tu agenda para una escapada a Bangkok con amigas](etheria_images/2019/10/Chef-Chayawee-Sutcharitchan-Sra-Bua-by-Kiin-Kiin-900x627.jpg "Chef Chayawee Sutcharitchan del Sra Bua by Kiin Kiin.")
+![Chef Chayawee Sutcharitchan del Sra Bua by Kiin Kiin. Apúntalo en tu agenda para una escapada a Bangkok con amigas](etheria-images/2019/10/Chef-Chayawee-Sutcharitchan-Sra-Bua-by-Kiin-Kiin-900x627.jpg "Chef Chayawee Sutcharitchan del Sra Bua by Kiin Kiin.")
 
 ### Con 1 estrella Michelin
 
@@ -105,7 +105,7 @@ a Tailandia cuatro veces al año para crear los menús de temporada que posterio
 recrea el experto chef principal, Chayawee Sutcharitchan, que es quien está al mando de 
 la cocina en Bangkok. 
 
-![Ceviche en fruta de la pasión del Restaurante Sra Bua by Kiin Kiin. Ideal para una escapada a Bangkok con amigas](etheria_images/2019/10/Restaurante-Sra-Bua-by-Kiin-Kiin-900x600.jpg "Ceviche en fruta de la pasión del Restaurante Sra Bua by Kiin Kiin.")
+![Ceviche en fruta de la pasión del Restaurante Sra Bua by Kiin Kiin. Ideal para una escapada a Bangkok con amigas](etheria-images/2019/10/Restaurante-Sra-Bua-by-Kiin-Kiin-900x600.jpg "Ceviche en fruta de la pasión del Restaurante Sra Bua by Kiin Kiin.")
 
 El **Sra Bua by Kiin Kiin** –_sra bua_ significa estanque de lotos en tailandés– está 
 decorado refinadamente con exquisito mobiliario a base de madera de teca tallada, que 
@@ -116,7 +116,7 @@ de caldo); su peculiar **Ceviche Thai**, macerado con fruta de la pasión; y **u
 azul** _–“Flowers of Thailand Vers Yves Klein”_–, que se hace con una flor tailandesa de 
 nombre _Clitoria Ternatea_ (en latín). Todo un surtido exótico. 
 
-![Puesto recomendado por Michelin.](etheria_images/2019/10/Menciones-Michelin-en-Yaowarat-900x573.jpg "Puesto recomendado por Michelin.")
+![Puesto recomendado por Michelin.](etheria-images/2019/10/Menciones-Michelin-en-Yaowarat-900x573.jpg "Puesto recomendado por Michelin.")
 
 ### Estrellas… con otro fulgor
 
@@ -132,7 +132,7 @@ llamas de las sartenes, es todo un espectáculo. Degustar su famosa –¡y excel
 perderse. Es el único establecimiento de _street food_ que cuenta con una estrella 
 Michelin. Merecida. 
 
-![Jay Fai y su famosa tortilla de cangrejo](etheria_images/2019/10/viaje-amigas-bangkok-Tortilla-de-Cangrejo-de-Jay-Fai-900x444.jpg "Jay Fai y su famosa tortilla de cangrejo.")
+![Jay Fai y su famosa tortilla de cangrejo](etheria-images/2019/10/viaje-amigas-bangkok-Tortilla-de-Cangrejo-de-Jay-Fai-900x444.jpg "Jay Fai y su famosa tortilla de cangrejo.")
 
 Junto a ella –y sin ánimo de competir– está el **Thipsamai**, un histórico y gigantesco 
 restaurante que nunca cierra, y donde siempre hay que esperar dos horas (como mínimo) 
@@ -147,7 +147,7 @@ panorámicas del _skyline_ de la ciudad desde su **restaurante Vertigo & Moon Ba
 ofrece una atrevida variedad de cócteles y la posibilidad de cenar con un toque 
 romántico. 
 
-![En el Rooftop Vertigo & Moon Bar puedes tomar un cóctel con unas fantásticas vistas.](etheria_images/2019/10/Rooftop-Vertigo-Moon-Bar-900x549.jpg "En el Rooftop Vertigo & Moon Bar puedes tomar un cóctel con unas fantásticas vistas.")
+![En el Rooftop Vertigo & Moon Bar puedes tomar un cóctel con unas fantásticas vistas.](etheria-images/2019/10/Rooftop-Vertigo-Moon-Bar-900x549.jpg "En el Rooftop Vertigo & Moon Bar puedes tomar un cóctel con unas fantásticas vistas.")
 
 > Un curso de cocina nos ayudará a comprender los secretos de la tradicional cocina 
 > tailandesa 
@@ -160,7 +160,7 @@ constituye otro de los destinos interesantes dentro la escena culinaria de la ci
 restaurante también tiene el reconocimiento de la Michelin en la categoría Plate, es 
 decir: buena cocina tradicional. 
 
-![Nooror Somay Steppe,chef del Blue Elephant.](etheria_images/2019/10/chef-del-Blue-Elephant-Nooror-Somay-Steppe-669x1024.jpg "Nooror Somay Steppe,chef del Blue Elephant.")
+![Nooror Somay Steppe,chef del Blue Elephant.](etheria-images/2019/10/chef-del-Blue-Elephant-Nooror-Somay-Steppe-669x1024.jpg "Nooror Somay Steppe,chef del Blue Elephant.")
 
 Al frente del _show cooking_ está la **chef Nooror Somany-Steppe**, que define sus 
 _master class_ como “**cocina tailandesa real**”. En una mañana podemos aprender algunos 
@@ -170,7 +170,7 @@ cocina, un pollo con setas en salsa de leche de coco (por ejemplo), que será la
 manera de recordar nuestro sustancioso viaje por la Tailandia gastronómica. Buen 
 provecho. 
 
-![¿Te atreves a cocinar este pollo con setas en salsa de coco?](etheria_images/2019/10/curso-cocina-bangkok-Blue-Elephant-900x719.jpg "¿Te atreves a cocinar este pollo con setas en salsa de coco?")
+![¿Te atreves a cocinar este pollo con setas en salsa de coco?](etheria-images/2019/10/curso-cocina-bangkok-Blue-Elephant-900x719.jpg "¿Te atreves a cocinar este pollo con setas en salsa de coco?")
 
 ## Consejos prácticos en Bangkok
 

@@ -1,12 +1,12 @@
 ---
 title: "Por qué deberías viajar a la Costa Brava con niños"
 date: 2023-11-06
-coverImage: etheria_images/2023/11/viaje-familia-ripoll.jpg
+coverImage: etheria-images/2023/11/viaje-familia-ripoll.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Los destinos nacionales son opciones ideales para viajar en familia gracias a la 
@@ -15,7 +15,7 @@ gastronomía local. En un viaje a la Costa Brava con niños, además de estas ve
 abre la puerta a emocionantes talleres didácticos y actividades divertidas, que te 
 invitamos a conocer a continuación. 
 
-![Portada monumental de Ripoll y talleres de escritura](etheria_images/2023/11/viaje-familia-ripoll.jpg "Portalada monumental de Santa María de Ripoll. © D. Espada/ Arxiu Imatges PTCBG")
+![Portada monumental de Ripoll y talleres de escritura](etheria-images/2023/11/viaje-familia-ripoll.jpg "Portalada monumental de Santa María de Ripoll. © D. Espada/ Arxiu Imatges PTCBG")
 
 Las escapadas familiares siempre requieren de más tiempo de organización que cuando las 
 hacemos en pareja o con amigas porque queremos que los más pequeños lo pasen genial y 
@@ -47,7 +47,7 @@ Dalí. La visita finaliza en la terraza del edificio donde, mediante distintos j
 interactivos, se ponen a prueba los conocimientos adquiridos. También existe un espacio 
 para familias. Más información en www.casanataldali.cat/es o en el Tel. 658 107 154 
 
-![Casa Natal Salvador Dalí, en Figueres](etheria_images/2023/11/casa-sali-figueres.jpg "Casa Natal de Salvador Dalí, en Figueres. © Jordi Puig")
+![Casa Natal Salvador Dalí, en Figueres](etheria-images/2023/11/casa-sali-figueres.jpg "Casa Natal de Salvador Dalí, en Figueres. © Jordi Puig")
 
 ### Un obrador artesano  
 
@@ -62,7 +62,7 @@ se sirve acompañado de mermelada o miel. Este exquisito y sencillo postre inclu
 mencionaba en los escritos de Josep Pla. Las visitas, que terminan con una degustación, 
 son en castellano y catalán. Puedes reservar en www.recuitsnuri.com 
 
-![Obrador de Recuits Nuri](etheria_images/2023/11/taller-queso-recuits-nuri.jpg "Obrador de Recuits Nuri. © Arxiu fotogràfic de visitempordanet")
+![Obrador de Recuits Nuri](etheria-images/2023/11/taller-queso-recuits-nuri.jpg "Obrador de Recuits Nuri. © Arxiu fotogràfic de visitempordanet")
 
 ### Taller para escribir como un monje
 
@@ -77,7 +77,7 @@ un monje copista. También les mostrarán cómo se hace un pergamino, de dónde 
 pluma de ganso que debía escribir y de qué manera se unían los códices medievales. Más 
 información en el Tel. 972 703 144 
 
-![Museo Etnográfico de Ripoll](etheria_images/2023/11/20160419_161832-800x450-1.jpg "© Museo Etnográfico de Ripoll")
+![Museo Etnográfico de Ripoll](etheria-images/2023/11/20160419_161832-800x450-1.jpg "© Museo Etnográfico de Ripoll")
 
 ### Los gigantes y cabezudos de Olot
 
@@ -89,7 +89,7 @@ exposición de gigantes y cabezudos. Allí mismo también organizan talleres par
 vestirlos para salir a bailar a la plaza. Más información y reserva en el propio museo 
 al comprar la entrada (gratuita para niños) o en el Tel. 972 266 791 
 
-![Gigantes y farándula, una de las actividades familiares que propone el Museu dels Sants de Olot.](etheria_images/2023/11/Museu-Sants-Olot-familias.jpg "Gigantes y farándula, una de las actividades familiares del Museu dels Sants de Olot.")
+![Gigantes y farándula, una de las actividades familiares que propone el Museu dels Sants de Olot.](etheria-images/2023/11/Museu-Sants-Olot-familias.jpg "Gigantes y farándula, una de las actividades familiares del Museu dels Sants de Olot.")
 
 ### Una antigua fábrica de harinas
 
@@ -102,7 +102,7 @@ para aprender sobre la importancia de los cereales para obtener los diferentes t
 pan que comemos hoy en día. Más información en www.ecomuseu-farinera.org, reserva la 
 actividad en el Tel. 972 250 512 
 
-![Ecomuseu Farinera.](etheria_images/2023/11/ecomuseo-farinera.jpg "Ecomuseu Farinera, una visita didáctica en la Costa Brava con niños. © Jordi Cassu")
+![Ecomuseu Farinera.](etheria-images/2023/11/ecomuseo-farinera.jpg "Ecomuseu Farinera, una visita didáctica en la Costa Brava con niños. © Jordi Cassu")
 
 ✅ **Si viajas con niños también te puede interesar:** 
 

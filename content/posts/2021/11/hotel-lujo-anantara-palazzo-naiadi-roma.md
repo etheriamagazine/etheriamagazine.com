@@ -1,18 +1,18 @@
 ---
 title: "Anantara Palazzo Naiadi Roma, un hotel histórico en el corazón de Roma"
 date: 2021-11-26
-coverImage: etheria_images/2021/11/Anantara-Palazzo-Naiadi-Roma-Hotel-habitacion-Premium-terraza.jpg
+coverImage: etheria-images/2021/11/Anantara-Palazzo-Naiadi-Roma-Hotel-habitacion-Premium-terraza.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Para darle un toque muy especial a una escapada a Roma te recomendamos un alojamiento que no olvidarás: el Anantara Palazzo Naidi Roma, un hotel de lujo lleno de historia con una excelente ubicación en la Plaza de la República y rincones exquisitos a la altura de la Ciudad Eterna.
 
-![Fachada del Anantara Palazzo Naiadi Roma.](etheria_images/2021/11/Fachada-Anantara-palazzo-naiadi-roma.jpg "Fachada del Anantara Palazzo Naiadi Roma.")
+![Fachada del Anantara Palazzo Naiadi Roma.](etheria-images/2021/11/Fachada-Anantara-palazzo-naiadi-roma.jpg "Fachada del Anantara Palazzo Naiadi Roma.")
 
 Ya sólo con ver la fachada del Anantara Palazzo Naiadi Roma percibes que vas a tener la 
 gran suerte de alojarte en un lugar único. Este hotel de lujo rebosa historia en su 
@@ -25,7 +25,7 @@ que lo dejará aún más exclusivo si cabe. Se renovará el lobby fusionando ele
 clásicos y modernos, se creará un nuevo bar estilo _Art Nouveau_ y tendrá una nueva 
 azotea con un espacio para cocina saludable. 
 
-![Habitación Premium.](etheria_images/2021/11/Anantara-Palazzo-Naiadi-Roma-Hotel-habitacion-Premium-terraza.jpg "Habitación Premium.")
+![Habitación Premium.](etheria-images/2021/11/Anantara-Palazzo-Naiadi-Roma-Hotel-habitacion-Premium-terraza.jpg "Habitación Premium.")
 
 ## Las habitaciones
 
@@ -37,7 +37,7 @@ de vistas a la plaza y terraza). Si buscas un espacio más especial, las **Suite
 Duplex** pueden ser una muy buena opción, al ser más espaciosas y contar con unas 
 preciosas vistas. 
 
-![Jacuzzi de la Executive Suites.](etheria_images/2021/11/Anantara-Palazzo-Naiadi-Roma-suite-ejecutiva.jpg "Jacuzzi de la Executive Suites.")
+![Jacuzzi de la Executive Suites.](etheria-images/2021/11/Anantara-Palazzo-Naiadi-Roma-suite-ejecutiva.jpg "Jacuzzi de la Executive Suites.")
 
 Las cinco **Executives Suites** son si cabe más especiales todavía: incluyen un jacuzzi 
 con vistas, cinta de correr, baño de vapor y una bonita terraza privada. Y, como todo 
@@ -56,7 +56,7 @@ con vistas a la Fuente de las Náyades es un auténtico lujo. Y el **Posh Roofto
 Restaurante & Lounge Bar**, en la última planta del hotel, se convertirá en uno de tus 
 rincones preferidos gracias a las vistas maravillosas que ofrece. 
 
-![Lobby Bar del Anantara Palazzo Naidi Roma.](etheria_images/2021/11/Render-Anantara-Palazzo-Naiadi-Roma-lobby-bar.jpg "Lobby Bar del Anantara Palazzo Naidi Roma.")
+![Lobby Bar del Anantara Palazzo Naidi Roma.](etheria-images/2021/11/Render-Anantara-Palazzo-Naiadi-Roma-lobby-bar.jpg "Lobby Bar del Anantara Palazzo Naidi Roma.")
 
 Si quieres tomar algo en un entorno único, te recomendamos que te acomodes en el 
 elegante **Lobby Bar**. Perfecto para tomar un aperitivo “a la italiana” con Campari o 
@@ -74,7 +74,7 @@ también tendrá disponible un **Fitness Center** donde aprovechar los consejos 
 entrenador personal, recibir una clase de yoga o ir a hacer deporte con clases 
 programadas a los jardines de Villa Borghese. 
 
-![Piscina en la azotea del hotel.](etheria_images/2021/11/hotel-Anantara-Palazzo-Naiadi-Roma-Pool_Rooftop.jpg "Piscina en la azotea del hotel.")
+![Piscina en la azotea del hotel.](etheria-images/2021/11/hotel-Anantara-Palazzo-Naiadi-Roma-Pool_Rooftop.jpg "Piscina en la azotea del hotel.")
 
 Uno de los lugares más singulares y especiales del hotel es sin duda su **piscina**, 
 ubicada en la azotea, por lo que brinda unas vistas de Roma inigualables. Además, está 

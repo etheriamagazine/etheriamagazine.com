@@ -1,11 +1,11 @@
 ---
 title: "'Concédete Deseos' adapta sus viajes para verano con más experiencias y talleres de proximidad"
 date: 2020-05-19
-coverImage: etheria_images/2020/05/agencia-viajes-mujeres-valle-del-loira.jpg
+coverImage: etheria-images/2020/05/agencia-viajes-mujeres-valle-del-loira.jpg
 categories: 
   - historias-en-femenino
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 ‘Concédete Deseos’ incorpora nuevas experiencias y talleres de proximidad en su 
@@ -13,7 +13,7 @@ programación mientras la pandemia no permita realizar escapadas de largo recorr
 Carina Tur, directora de esta agencia de viajes para mujeres, nos cuenta sus nuevas 
 propuestas para verano y la situación actual de la agencia. 
 
-![Carina Tur, directora de Concédete Deseos.](etheria_images/2020/05/Carina-Tur-concedete-deseos.jpg "Carina Tur, directora de Concédete Deseos.")
+![Carina Tur, directora de Concédete Deseos.](etheria-images/2020/05/Carina-Tur-concedete-deseos.jpg "Carina Tur, directora de Concédete Deseos.")
 
 La agencia de viajes para mujeres ‘Concédete Deseos’, cuyo centro de operaciones está en 
 Cataluña, ocupa un segmento muy concreto, el femenino, y sobre todo, las edades 
@@ -31,7 +31,7 @@ En Etheria Magazine hemos entrevistado a Carina Tur para conocer las nuevas prop
 que ha preparado para sus viajeras durante esta etapa de pandemia y para que nos cuente 
 de qué modo está afectando a su agencia. 
 
-![Charla informativa mensual de Concédete Deseos.](etheria_images/2020/05/agencia-viajes-mujeres-charla-informativa.jpg "Charla informativa mensual de Concédete Deseos.")
+![Charla informativa mensual de Concédete Deseos.](etheria-images/2020/05/agencia-viajes-mujeres-charla-informativa.jpg "Charla informativa mensual de Concédete Deseos.")
 
 ### 1\. ¿En qué medida ha perjudicado a ‘Concédete Deseos’ la pandemia?
 
@@ -61,7 +61,7 @@ que te concedan un préstamo has de demostrar que no lo necesitas".
 > será porque pueden tirar de ahorros, pero hay muchas pequeñas empresas que viven al día 
 > y no disponen de ellos. 
 
-![Grupo de viajeras en Cinque Terre (Italia).](etheria_images/2020/05/agencia-viajes-mujeres-concedete-deseos.jpg "Grupo de viajeras en Cinque Terre (Italia).")
+![Grupo de viajeras en Cinque Terre (Italia).](etheria-images/2020/05/agencia-viajes-mujeres-concedete-deseos.jpg "Grupo de viajeras en Cinque Terre (Italia).")
 
 ### 4\. ¿Has modificado la programación de viajes de 2020?
 
@@ -78,7 +78,7 @@ tal como estaba previsto. Estoy a la expectativa de ponerle fechas a todo, tal c
 la situación actual creo que no es prudente ni responsable fijar fechas y lanzarlos a la 
 venta. Dentro de dos semanas es posible... lo iré viendo. 
 
-![Bardenas Reales al atardecer.](etheria_images/2019/04/navarra-bardenas-reales.jpg "Bardenas Reales. © Adobe Stock")
+![Bardenas Reales al atardecer.](etheria-images/2019/04/navarra-bardenas-reales.jpg "Bardenas Reales. © Adobe Stock")
 
 ### 5\. ¿Qué destinos estás valorando para los próximos meses?
 
@@ -91,7 +91,7 @@ Y en Europa tenemos previsto [Castillos del Valle del
 Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/) y 
 **Mont Saint Michel,** y **Alsacia** en la época de los mercadillos navideños 
 
-![concedete deseos, valle del loira, viajes para mujeres](etheria_images/2020/05/agencia-viajes-mujeres-valle-del-loira.jpg "Grupo de Concédete Deseos en el Valle del Loira (Francia).")
+![concedete deseos, valle del loira, viajes para mujeres](etheria-images/2020/05/agencia-viajes-mujeres-valle-del-loira.jpg "Grupo de Concédete Deseos en el Valle del Loira (Francia).")
 
 ### 6\. También ofreces experiencias, ¿en qué consisten?
 
@@ -109,7 +109,7 @@ para hacer de la experiencia una actividad completa en cuanto a aprendizaje, oci
 relaciones personales enriquecedoras que, como ocurre en los viajes, muchas derivarán en 
 una bonita amistad. 
 
-![Grupo de viajeras en Praga.](etheria_images/2020/05/viajes-mujeres-praga.jpg "Grupo de viajeras en Praga.")
+![Grupo de viajeras en Praga.](etheria-images/2020/05/viajes-mujeres-praga.jpg "Grupo de viajeras en Praga.")
 
 ### 7\. ¿Tienes algún evento previsto de cara al verano?
 
@@ -125,7 +125,7 @@ plazas.
 > Y el cuarto evento será en septiembre, ‘La fiesta de la Vendimia’, que en principio lo 
 > estoy preparando para 100 plazas. 
 
-![Imagen de la Calçotada de febrero de 2020.](etheria_images/2020/05/calçotada-mujeres-concedete-deseos.jpg "Imagen de la Calçotada de febrero de 2020.")
+![Imagen de la Calçotada de febrero de 2020.](etheria-images/2020/05/calçotada-mujeres-concedete-deseos.jpg "Imagen de la Calçotada de febrero de 2020.")
 
 ### 8\. Y el número de participantes. ¿Lo has modificado?
 
@@ -146,7 +146,7 @@ corto y medio plazo, como sus preferencias por viajar por la península e islas 
 y hacer más escapadas y retiros que impliquen relax, alimentación sana, cuidado personal 
 o actividades creativas. Este tipo de experiencias también las estoy organizando. 
 
-![Ruta por el desierto.](etheria_images/2020/05/Ruta-del-desierto-viajes-para-mujeres.jpg "Ruta por el desierto. © Concédete Deseos")
+![Ruta por el desierto.](etheria-images/2020/05/Ruta-del-desierto-viajes-para-mujeres.jpg "Ruta por el desierto. © Concédete Deseos")
 
 ### 10\. ¿Se puede extraer algo positivo de este parón turístico?
 

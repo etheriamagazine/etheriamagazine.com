@@ -1,13 +1,13 @@
 ---
 title: "Qué hacer en Finlandia en invierno lejos de Papá Noel"
 date: 2023-10-24
-coverImage: etheria_images/2023/10/sauna-finlandia.jpg
+coverImage: etheria-images/2023/10/sauna-finlandia.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Aunque parece imposible pensar en Finlandia en invierno sin que Santa Claus haga acto de 
@@ -15,7 +15,7 @@ presencia, os invitamos a disfrutar del país de una manera más original. ¿Qu�
 dormir bajo auroras boreales, practicar esquí de fondo, entrenar vuestro sisu o nadar en 
 lagos helados? Os damos todas las pistas. 
 
-![sauna en Finlandia en invierno](etheria_images/2023/10/sauna-finlandia-850x567.jpg "Sauna en Finlandia. © Ruka Kuusamo")
+![sauna en Finlandia en invierno](etheria-images/2023/10/sauna-finlandia-850x567.jpg "Sauna en Finlandia. © Ruka Kuusamo")
 
 En Finlandia, el país considerado como el más feliz del mundo, encontraréis numerosas 
 alternativas en invierno para organizar unas vacaciones originales y alineadas con el 
@@ -46,7 +46,7 @@ Pond,](https://www.magicalpond.com/en/) que ofrece a los visitantes una experien
 lujo ubicada a tan solo ocho kilómetros de la conocida **estación de esquí de Ruka**, en 
 Kuusamo. 
 
-![Aurora boreal en Magical Pond, Finlandia](etheria_images/2023/10/aurora-boreal-finlandia-850x853.jpg "Aurora boreal en Magical Pond, Finlandia. © Julia Kivelä")
+![Aurora boreal en Magical Pond, Finlandia](etheria-images/2023/10/aurora-boreal-finlandia-850x853.jpg "Aurora boreal en Magical Pond, Finlandia. © Julia Kivelä")
 
 ### 2\. Un baño en agua helada
 
@@ -61,7 +61,7 @@ beneficios para el bienestar físico y espiritual. ¿Os animaríais a hacerlo?
 ✅ **No te pierdas:** [Por qué deberías bañarte en el hielo en 
 Finlandia](https://etheriamagazine.com/2023/02/22/banos-hielo-finlandia/) 
 
-![Nadar en hielo en Finlandia.](etheria_images/2023/10/nadar-hielo-finlandia-850x566.jpg "Nadar en hielo en Finlandia.")
+![Nadar en hielo en Finlandia.](etheria-images/2023/10/nadar-hielo-finlandia-850x566.jpg "Nadar en hielo en Finlandia.")
 
 ### 3\. Entrena tu sisu
 
@@ -71,7 +71,7 @@ la **práctica de la fuerza, la resistencia mental y la perseverancia** en la b�
 objetivos. En este lugar se ofrecen recorridos guiados que permiten desarrollar la 
 resistencia mental y física en las distintas saunas disponibles. 
 
-![Sauna herbal en Finlandia.](etheria_images/2023/10/mujeres-sauna-herbal-finlandia.jpg "Sauna herbal en Finlandia. © Aksytammat.fi")
+![Sauna herbal en Finlandia.](etheria-images/2023/10/mujeres-sauna-herbal-finlandia.jpg "Sauna herbal en Finlandia. © Aksytammat.fi")
 
 ### 4\. Apaga tu móvil
 
@@ -81,7 +81,7 @@ Finlandia y su nombre es **Ulko-Tammio**. El objetivo de esta medida es animar a
 visitantes a desconectar de llamadas y de redes sociales para poder disfrutar plenamente 
 de la naturaleza. 
 
-![Isla de Ulko-Tammio, en Finlandia.](etheria_images/2023/10/Ulko-Tammio-finlandia-850x638.jpg "Isla de Ulko-Tammio, en Finlandia. © Mika Rokka")
+![Isla de Ulko-Tammio, en Finlandia.](etheria-images/2023/10/Ulko-Tammio-finlandia-850x638.jpg "Isla de Ulko-Tammio, en Finlandia. © Mika Rokka")
 
 ### 5\. Esquiar por el bosque
 
@@ -92,7 +92,7 @@ kilómetros. Esquiar entre densos bosques cubiertos de nieve es una experiencia
 inolvidable. No es necesario que os llevéis equipo de esquí porque allí se puede 
 alquilar todo. 
 
-![Esquí de fondo en Finlandia](etheria_images/2023/10/esqui-fondo-finlandia-850x567.jpg "Esquí de fondo en Finlandia. © Paljakka")
+![Esquí de fondo en Finlandia](etheria-images/2023/10/esqui-fondo-finlandia-850x567.jpg "Esquí de fondo en Finlandia. © Paljakka")
 
 ### 6\. Bikepacking en Laponia
 
@@ -106,7 +106,7 @@ y _mountain bike_ (MTB). Además, todas las vías están diseñadas de forma que
 accesibles mediante transporte público, lo que simplifica la entrada y salida de las 
 mismas. 
 
-![Ruta en bici en Finlandia.](etheria_images/2023/10/ruta-bici-finlandia-850x532.jpg "Ruta en bici en Finlandia. © Visit Finland")
+![Ruta en bici en Finlandia.](etheria-images/2023/10/ruta-bici-finlandia-850x532.jpg "Ruta en bici en Finlandia. © Visit Finland")
 
 ### 7\. Flotar en el lago Saimaa
 

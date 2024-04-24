@@ -1,12 +1,12 @@
 ---
 title: "Recetas de Halloween para divertirse en casa"
 date: 2020-10-23
-coverImage: etheria_images/2020/10/galletas-halloween.jpg
+coverImage: etheria-images/2020/10/galletas-halloween.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Calabazas, murciélagos, esqueletos, telas de araña… La iconografía que rodea la Noche de 
@@ -14,7 +14,7 @@ los Muertos está llena de tópicos que nos encantan. Aquí os contamos unas cua
 recetas de Halloween para trasladar todos estos elementos a la mesa y preparar una 
 merienda y un menú de cena para morirse de miedo. 
 
-![galletas decoradas de Halloween](etheria_images/2020/10/galletas-halloween.jpg "Galletas de Halloween. © Freepick")
+![galletas decoradas de Halloween](etheria-images/2020/10/galletas-halloween.jpg "Galletas de Halloween. © Freepick")
 
 Aunque estamos recuperando poco a poco la actividad normal en bares y restaurantes, si 
 optar por celebrar la Noche los Muertos en casa, estas recetas de Halloween te van a 
@@ -25,7 +25,7 @@ aprovechemos la excusa para celebrar y disfrutar del momento. Aquí os damos una
 **recetas para que ambientéis las meriendas y cenas del 31 de octubre** y pongáis un 
 poco de color y diversión a la 'Noche de los muertos'. 
 
-![bebida y decoracion casa halloween](etheria_images/2020/10/mesa-decoracion-halloween.jpg "Decoración especial para un Halloween en casa.")
+![bebida y decoracion casa halloween](etheria-images/2020/10/mesa-decoracion-halloween.jpg "Decoración especial para un Halloween en casa.")
 
 ## Galletas de Halloween
 
@@ -38,7 +38,7 @@ huevo, la sal y la esencia de vainilla. Por último, la harina, que la podéis a
 mano e ir amasando hasta que se integre. Al horno a 180 grados de 6 a 10 minutos y ya 
 están listas. 
 
-![galletas con formad de esqueleto para Halloween.](etheria_images/2020/10/galletas-esqueleto-halloween.jpg "Con un molde de persona se pueden hacer divertidos esqueletos.")
+![galletas con formad de esqueleto para Halloween.](etheria-images/2020/10/galletas-esqueleto-halloween.jpg "Con un molde de persona se pueden hacer divertidos esqueletos.")
 
 #### Cómo organizarse
 
@@ -63,7 +63,7 @@ mejor es utilizar unas [botellas tipo biberón](https://amzn.to/3jbzAI8) y poner
 color en una de ellas, es mucho más fácil y limpio. Después, hay que dejarlas secar un 
 rato para que la glasa se endurezca. 
 
-![galletas halloween forma calabaza](etheria_images/2020/10/galletas-decoracion-halloween.jpg "Galletas decoradas con motivos de Halloween.")
+![galletas halloween forma calabaza](etheria-images/2020/10/galletas-decoracion-halloween.jpg "Galletas decoradas con motivos de Halloween.")
 
 #### Un truquito
 
@@ -72,7 +72,7 @@ minuto. Es mejor dejarlas poco tostadas, siempre se endurecen algo cuando se enf
 vas a decorar cada galleta con más de un color, ten en cuenta que tendrás que dejar que 
 se seque la cobertura del primer color antes de trabajar con el segundo. 
 
-![tartas de chocolate para Halloween.](etheria_images/2020/10/tarta-halloween.jpg "Tarta de chocolate para Halloween. © Freepick")
+![tartas de chocolate para Halloween.](etheria-images/2020/10/tarta-halloween.jpg "Tarta de chocolate para Halloween. © Freepick")
 
 ## Tartas que dan miedo
 
@@ -93,7 +93,7 @@ imaginación!
 planificarla en varios para no agobiarse: un día haces el bizcocho que puedes guardar en 
 la nevera, al siguiente el relleno y el último decoras la tarta. 
 
-![decoracion magdalenas halloween ninos](etheria_images/2020/10/magdalenas-decoracion-halloween.jpg "Cupcakes divertidos para Halloween.")
+![decoracion magdalenas halloween ninos](etheria-images/2020/10/magdalenas-decoracion-halloween.jpg "Cupcakes divertidos para Halloween.")
 
 ## 'Cupcakes' siniestros
 
@@ -110,7 +110,7 @@ esencia de vainilla y, por último, la harina mezclada y tamizada junto a la lev
 Horno a 190 grados y en unos 20-25 minutos están listas, ten en cuenta que hay que 
 dejarlas enfriar antes de decorarlas. 
 
-![magdalenas para Halloween](etheria_images/2020/10/cupcakes-halloween.jpg "Decoración de 'cupcakes' de Halloween. © Freepick")
+![magdalenas para Halloween](etheria-images/2020/10/cupcakes-halloween.jpg "Decoración de 'cupcakes' de Halloween. © Freepick")
 
 Para que queden bonitas, vuelve a utilizar los colorantes para teñir una suave crema de 
 mantequilla (se hace con la misma cantidad de mantequilla que de azúcar glas, una pizca 
@@ -123,7 +123,7 @@ Déjala bastante tiempo batiendo, unos diez minutos, el resultado quedará mas c
 Puedes prepararla con antelación, ya que dura hasta 7 días en la nevera o incluso puedes 
 congelarla. 
 
-![salchichas con hojaldre para Halloween](etheria_images/2020/10/momias-salchichas-halloween.jpg "Aperitivo de salchichas Halloween. © Freepick")
+![salchichas con hojaldre para Halloween](etheria-images/2020/10/momias-salchichas-halloween.jpg "Aperitivo de salchichas Halloween. © Freepick")
 
 ## Menú para la cena de Halloween
 
@@ -132,7 +132,7 @@ Ya que estamos tan ambientadas, os proponemos un menú para disfrutar en familia
 la mitad unas salchichas y las envolvemos con una tira de hojaldre o masa quebrada, 15 
 minutos al horno a 180 grados y listas, sólo te quedará buscar unos ojos. 
 
-![Calabaza y crema de calabaza](etheria_images/2020/10/crema-calabaza-halloween.jpg "Crema de calabaza. © Freepick")
+![Calabaza y crema de calabaza](etheria-images/2020/10/crema-calabaza-halloween.jpg "Crema de calabaza. © Freepick")
 
 Después una deliciosa **crema de calabaza** (hay muchas recetas, pero seguro que 
 aciertas si la mezclas con zanahoria, cebolla, patata, tomate natural y queso de cabra). 

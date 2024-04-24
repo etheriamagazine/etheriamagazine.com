@@ -1,16 +1,16 @@
 ---
 title: "Qué ver en Brno: una escapada muy 'chic' a Chequia"
 date: 2022-08-26
-coverImage: etheria_images/2022/08/brno-catedral-pedro-pablo.jpg
+coverImage: etheria-images/2022/08/brno-catedral-pedro-pablo.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Brno es una de esas ciudades europeas menos conocidas pero deliciosas, manejables y llenas de rincones con encanto. Es perfecta para pasar un par de días y disfrutar de ella con tranquilidad en sus plazas, sus coquetos restaurantes y su animada vida nocturna. Te damos diez lugares para recorrer en un paseo y descubrir sus secretos y curiosas leyendas.
 
-![Torre del Antiguo Ayuntamiento](etheria_images/2022/08/brno-torre-antiguo-ayuntamiento.jpg "Torre del Antiguo Ayuntamiento.")
+![Torre del Antiguo Ayuntamiento](etheria-images/2022/08/brno-torre-antiguo-ayuntamiento.jpg "Torre del Antiguo Ayuntamiento.")
 
 Brno gusta y se gusta en cada una de sus coquetas plazas decoradas con cómodas tumbonas 
 donde tomar algo mientras se ve pasar la ciudad, en sus originales esculturas y en sus 
@@ -44,7 +44,7 @@ conseguían conquistar Brno a las doce del mediodía se retiraban. Al enterarse,
 moravos decidieron adelantar las campanadas una hora y tocar las 12 a las 11 horas para 
 librarse así de las tropas suecas, una tradición que todavía se mantiene. 
 
-![catedral de Pedro y Pablo](etheria_images/2022/08/brno-catedral-pedro-pablo.jpg "Catedral de Pedro y Pablo vista desde la torre del Viejo Ayuntamiento. © Susana García")
+![catedral de Pedro y Pablo](etheria-images/2022/08/brno-catedral-pedro-pablo.jpg "Catedral de Pedro y Pablo vista desde la torre del Viejo Ayuntamiento. © Susana García")
 
 Dejando la historia aparte, este edificio del siglo XIV es uno de los que tiene más 
 personalidad de toda la ciudad y su imponente figura actual se debe a una reconstrucción 
@@ -60,7 +60,7 @@ curiosa forma de su pináculo central. Fue obra del escultor Anton Pilgram y se 
 que cuando estaba terminando el trabajo decidieron no pagarle lo acordado. Él se vengó 
 dando una curiosa y poco ortodoxa forma torcida a este elemento del portal. 
 
-![Entrada al Antiguo Ayuntamiento de Brno](etheria_images/2022/08/brno-antiguo-ayuntamiento-610x1024.jpg "Portal gótico del Antiguo Ayuntamiento. © S.G.")
+![Entrada al Antiguo Ayuntamiento de Brno](etheria-images/2022/08/brno-antiguo-ayuntamiento-610x1024.jpg "Portal gótico del Antiguo Ayuntamiento. © S.G.")
 
 ### 3\. Un dragón que no lo es
 
@@ -75,7 +75,7 @@ una rueda de un solo árbol y transportarla 50 kilómetros hasta Brno en un día
 consiguió y ganó la apuesta, pero cayó en desgracia cuando se difundió el rumor de que 
 había sido ayudado por el diablo. 
 
-![cocodrilo del Antiguo Ayuntamiento](etheria_images/2022/08/brno-cocodrilo.jpg "El dragón que es un cocodrilo en Brno. © S.G.")
+![cocodrilo del Antiguo Ayuntamiento](etheria-images/2022/08/brno-cocodrilo.jpg "El dragón que es un cocodrilo en Brno. © S.G.")
 
 ### 4\. Mercado de la Col
 
@@ -88,7 +88,7 @@ el lugar de una de tus cenas. Otros edificios significativos que se encuentran e
 plaza son el Monasterio Capuchino, el Museo de Moravia y Reduta, uno de los teatros más 
 antiguos de Europa, donde Mozart dio un concierto con once años. 
 
-![terrazas en Brno](etheria_images/2022/08/brno-terraza-mercado-repollo.jpg "Terrazas en la plaza del Mercado de la Col. © S.G.")
+![terrazas en Brno](etheria-images/2022/08/brno-terraza-mercado-repollo.jpg "Terrazas en la plaza del Mercado de la Col. © S.G.")
 
 ### 5\. Reloj Astronómico
 
@@ -105,7 +105,7 @@ inferiores.
 
 ? En una placa al lado del reloj viene explicada la curiosa forma de leer en él la hora. 
 
-![Reloj astronómico de Brno](etheria_images/2022/08/brno-plaza-libertad.jpg "Plaza de la Libertad con el Reloj Astronómico. © S.G.")
+![Reloj astronómico de Brno](etheria-images/2022/08/brno-plaza-libertad.jpg "Plaza de la Libertad con el Reloj Astronómico. © S.G.")
 
 ### 6\. La iglesia de Santiago
 
@@ -115,7 +115,7 @@ elementos importantes para la ciudad de Brno: la tumba del Mariscal Louis Raduit
 Souches, artífice de la defensa de Brno contra los suecos en la Guerra de los Treinta 
 Años, y el segundo osario más grande de Europa, que no fue descubierto hasta 2001. 
 
-![vista aérea de la ciudad de Brno con la iglesia de Santiago](etheria_images/2022/08/brno-iglesia-santiago.jpg "Iglesia de Santiago en Brno.")
+![vista aérea de la ciudad de Brno con la iglesia de Santiago](etheria-images/2022/08/brno-iglesia-santiago.jpg "Iglesia de Santiago en Brno.")
 
 ### 7\. La 'jirafa'
 
@@ -130,7 +130,7 @@ donde un personaje abstracto intenta levantar un bloque que libera una fuente. L
 esculturas son de lo más 'fotografiables', así que pasarás un rato haciendo _selfies_ y 
 fotos de grupo bajo el caballo si vas acompañada. 
 
-![fotos bajo la jirafa de Brno](etheria_images/2022/08/brno-caballo-jirafa.jpg "Estatua ecuestre de la Plaza Moravia. © S.G.")
+![fotos bajo la jirafa de Brno](etheria-images/2022/08/brno-caballo-jirafa.jpg "Estatua ecuestre de la Plaza Moravia. © S.G.")
 
 ### 8\. Bunker 10-Z
 
@@ -147,7 +147,7 @@ son un guiño retro a la tecnología del siglo XX) y otras se utilizan hoy en d�
 hostel (se puede vivir la experiencia de pasar una noche en el búnker en habitación 
 compartida). También hay salas para eventos y conciertos. 
 
-![estancias del bunker 10-Z de Brno](etheria_images/2022/08/brno-bunker.jpg "Interior del Búnker 10-Z. © SG")
+![estancias del bunker 10-Z de Brno](etheria-images/2022/08/brno-bunker.jpg "Interior del Búnker 10-Z. © SG")
 
 ? La visita guiada tiene una hora de duración, cuesta 240 Coronas y se realiza en grupos 
 reducidos de máximo diez personas. Se puede realizar una visita sin guía por 150 Coronas 
@@ -162,7 +162,7 @@ peligrosos del imperio. En él se encuentra el **Museo de la Ciudad de Brno** y 
 murallas ofrecen bonitas vistas de la ciudad. Dentro del castillo merece la pena visitar 
 las mazmorras y la torre mirador. 
 
-![Castillo de Špilberk sobre la ciudad de Brno](etheria_images/2022/08/brno-castillo-spilberk.jpg "Castillo de Špilberk sobre la ciudad de Brno.")
+![Castillo de Špilberk sobre la ciudad de Brno](etheria-images/2022/08/brno-castillo-spilberk.jpg "Castillo de Špilberk sobre la ciudad de Brno.")
 
 ### 10\. Villa Tugendhat
 
@@ -173,7 +173,7 @@ encuentra en medio de unos bonitos jardines y destaca en ella su pureza arquitec
 la forma en la que se entrelazan los espacios. Es un visita perfecta para las amantes de 
 la arquitectura y el diseño de interiores. 
 
-![Villa Tugendhat en Brno](etheria_images/2022/08/Brno-villa-tungedhat.jpg "Villa Tugendhat. © David Zidlicky")
+![Villa Tugendhat en Brno](etheria-images/2022/08/Brno-villa-tungedhat.jpg "Villa Tugendhat. © David Zidlicky")
 
 ? Existen dos tipos de visita, una de la casa desde el exterior y otra que incluye el 
 interior. Para las dos es imprescindible reservar con bastante tiempo en la [web de 

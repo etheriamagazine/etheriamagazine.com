@@ -1,13 +1,13 @@
 ---
 title: "8 experiencias que sólo puedes vivir en el Pallars Jussà (Lleida)"
 date: 2021-06-09
-coverImage: etheria_images/2021/06/ruta-embalse-centelles.jpg
+coverImage: etheria-images/2021/06/ruta-embalse-centelles.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Las siguientes excursiones en Lleida, en la comarca del Pallars Jussà, están repletas de 
@@ -16,7 +16,7 @@ lagos de montaña, observación de animales, desfiladeros de vértigo y vinos ex
 Cada viaje supone un descubrimiento pero este, además, te ofrece un fuerte vínculo con 
 la naturaleza y con el pasado. 
 
-![ruta refugio colomina lleida](etheria_images/2021/06/trekking-vall-fosca-lleida-pallars-jussa.jpg "Ruta hasta el refugio Colomina desde la presa de Sallente. © Pepa García")
+![ruta refugio colomina lleida](etheria-images/2021/06/trekking-vall-fosca-lleida-pallars-jussa.jpg "Ruta hasta el refugio Colomina desde la presa de Sallente. © Pepa García")
 
 Si buscas rutas y excursiones en Lleida porque vives o estás de vacaciones en Cataluña, 
 estás de suerte porque cada comarca leridana brinda un buen número de experiencias. Esta 
@@ -33,7 +33,7 @@ quieres ubicar la comarca en un mapa de Lleida, localiza el Prepirineo y traza u
 entre el Pallars Sobirá y La Noguera. Ya estás preparada para conocer estas 8 
 emocionantes experiencias en el Pallars Jussà. 
 
-![ruta icnitas de dinosaurio excursiones en lleida](etheria_images/2021/06/excursiones-lleida-pallars-jussa-dinosaurios.jpg "Localizar huellas de dinosaurio, divertido y "fácil" con los guías adecuados. © P. García")
+![ruta icnitas de dinosaurio excursiones en lleida](etheria-images/2021/06/excursiones-lleida-pallars-jussa-dinosaurios.jpg "Localizar huellas de dinosaurio, divertido y "fácil" con los guías adecuados. © P. García")
 
 ## 1\. Identificar huellas de dinosaurio
 
@@ -59,7 +59,7 @@ camino.
 > El Pallars Jussà es una de las zonas de mayor diversidad geológica y paleontológica de 
 > nuestro país. 
 
-![cata en bodega vila corona lleida](etheria_images/2021/06/excursiones-lleida-pallars-jussa-bodega-vila.jpg "En una visita a la Bodega Vila Corona podrás recorrer la finca y hacer una cata. © Pepa García")
+![cata en bodega vila corona lleida](etheria-images/2021/06/excursiones-lleida-pallars-jussa-bodega-vila.jpg "En una visita a la Bodega Vila Corona podrás recorrer la finca y hacer una cata. © Pepa García")
 
 ## 2\. Catar vinos entre viñedos
 
@@ -74,7 +74,7 @@ años, pero seguirán con sus **visitas a los viñedos y degustación** de vinos
 las medidas sanitarias oportunas (limitación del tamaño de los grupos en el interior). 
 Anímate a hacer esta actividad. 
 
-![tu rai vino bodega vila corona](etheria_images/2021/06/pallars-jussa-cata-bodega-vila-corona.jpg "Aparte de buenos, los nombres de los vinos de la Bodega Vila Corona son muy originales. © P. García")
+![tu rai vino bodega vila corona](etheria-images/2021/06/pallars-jussa-cata-bodega-vila-corona.jpg "Aparte de buenos, los nombres de los vinos de la Bodega Vila Corona son muy originales. © P. García")
 
 ## 3\. Ver animales en la Reserva Nacional de Caza de Boumort
 
@@ -88,7 +88,7 @@ aprovechamiento cinegético, ya que tienen poblaciones importantes. El resto de 
 está vedado. La ruta comienza casi de madrugada, ya que algunos animales como los 
 ciervos, los corzos o los rebecos pastan a primera hora del día. 
 
-![Reserva Nacional de Caza de Boumort lleida](etheria_images/2021/06/reserva-animales-boumort-lleida.jpg "En la Reserva Nacional de Caza de Boumort se pueden ver diversos animales. © P. García")
+![Reserva Nacional de Caza de Boumort lleida](etheria-images/2021/06/reserva-animales-boumort-lleida.jpg "En la Reserva Nacional de Caza de Boumort se pueden ver diversos animales. © P. García")
 
 Si os dormís no veréis muchos animales, pero lo que es seguro es que podréis "cotillear" 
 desde los observatorios cómo se alimentan las aves carroñeras. Las casetas o “hides” se 
@@ -101,7 +101,7 @@ restos pelados de carne. Tú sólo tendrás que guardar silencio y observar o ha
 Puedes reservar la ruta en la web de Rutes 4x4 Ignasi o en los teléfonos 626 466 816 / 
 608 130 923. 
 
-![buitres en la reserva Reserva Nacional de Caza de Boumort](etheria_images/2021/06/excursiones-lleida-pallars-jussa-reserva-boumort.jpg "Una escena impactante desde un "hide", buitres alimentándose a escasos metros. © P. García")
+![buitres en la reserva Reserva Nacional de Caza de Boumort](etheria-images/2021/06/excursiones-lleida-pallars-jussa-reserva-boumort.jpg "Una escena impactante desde un "hide", buitres alimentándose a escasos metros. © P. García")
 
 ## 4\. Caminar entre lagos en la Vall Fosca
 
@@ -111,7 +111,7 @@ coníferas van desapareciendo según te acercas a la alta montaña. Antes de que
 cuenta estarás en la **Vall Fosca** (el Valle Oscuro), un nombre muy ilustrativo porque 
 es tan cerrado que apenas deja pasar luz. 
 
-![lagos de vall de fosca ruta refugio colomina](etheria_images/2021/06/excursiones-lleida-pallars-jussa-vall-fosca-lagos.jpg "El agua de los lagos es aturquesada y muy cristalina. © Pepa G.")
+![lagos de vall de fosca ruta refugio colomina](etheria-images/2021/06/excursiones-lleida-pallars-jussa-vall-fosca-lagos.jpg "El agua de los lagos es aturquesada y muy cristalina. © Pepa G.")
 
 El paseo comienza junto al **embalse de Sallente,** una de las entradas al Parque 
 Nacional de Aigüestortes i Estany de Sant Maurici, desde donde sale el teleférico que te 
@@ -128,7 +128,7 @@ de Colomina, un buen lugar donde descansar y tomar un aperitivo. Incluso podría
 quedarte a dormir (tiene 49 plazas). Nosotras no lo hicimos pero nos quedamos con las 
 ganas... 
 
-![lagos montana parque aiguestortes lleida](etheria_images/2021/06/ruta-embalse-centelles.jpg "El paisaje está salpicado de lagos durante la ruta hasta el refugio de Colominas. © P. García")
+![lagos montana parque aiguestortes lleida](etheria-images/2021/06/ruta-embalse-centelles.jpg "El paisaje está salpicado de lagos durante la ruta hasta el refugio de Colominas. © P. García")
 
 En la Vall Fosca siempre encontrarás alguna actividad interesante que hacer, como el VI 
 Festival de Senderismo que tendrá lugar a mediados de julio de 2021. Consulta todas las 
@@ -154,7 +154,7 @@ sumamente ilustrativos y didácticos.
 
 Precio: 3,50 €, con visita guiada, 5 €. Consulta descuentos. 
 
-![Museo Hidroelectrico de Capdella vall fosca](etheria_images/2021/06/central-hidroelectrica.jpg "Interior del Museo Hidroeléctrico de Capdella. © P.G.")
+![Museo Hidroelectrico de Capdella vall fosca](etheria-images/2021/06/central-hidroelectrica.jpg "Interior del Museo Hidroeléctrico de Capdella. © P.G.")
 
 ## 6\. Conocer la iglesia de Sant Vicenç de Capdella 
 
@@ -171,7 +171,7 @@ Aunque falten estas piezas (ahora hay una réplica del Cristo), la panorámica d
 iglesia es muy bonita, y también merece la pena recorrer este pueblo que hará las 
 delicias de los Instagramers. 
 
-![iglesia de Sant Vicenc de Capdella](etheria_images/2021/06/iglesia-Sant-Vicenc-Capdella-lleida.jpg "Iglesia de Sant Vicenç en Capdella. © P. García")
+![iglesia de Sant Vicenc de Capdella](etheria-images/2021/06/iglesia-Sant-Vicenc-Capdella-lleida.jpg "Iglesia de Sant Vicenç en Capdella. © P. García")
 
 ## 7\. Pasear por el desfiladero de Mont-Rebei
 
@@ -191,7 +191,7 @@ nutria, el alimoche, el quebrantahuesos y más de cien especies de mariposas.
 desfiladero de 
 Mont-Rebei.](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/) 
 
-![desfiladero congost montrebei](etheria_images/2021/06/desfiladero-congost-montrebei.jpg "Ruta por el desfiladero de Mont-Rebei, en Lleida. © Pepa G.")
+![desfiladero congost montrebei](etheria-images/2021/06/desfiladero-congost-montrebei.jpg "Ruta por el desfiladero de Mont-Rebei, en Lleida. © Pepa G.")
 
 ## 8\. Viajar al pasado en las Tiendas-Museo de Salàs de Pallars
 
@@ -212,7 +212,7 @@ afeitar desechable para los soldados durante la Primera Guerra Mundial, etc.
 Precio de la visita guiada: Adultos (6 €), niños hasta 7 años (gratis), de 8 a 13 años 
 (2 €). Puedes realizar la reserva en su web o en el Tel. 973 676 266 
 
-![tiendas museo salas de pallars excursiones en lleida](etheria_images/2021/06/excursiones-lleida-pallars-jussa-tiendas-museo.jpg "Creador de la Tiendas-Museo de Salàs de Pallars. © Pepa García")
+![tiendas museo salas de pallars excursiones en lleida](etheria-images/2021/06/excursiones-lleida-pallars-jussa-tiendas-museo.jpg "Creador de la Tiendas-Museo de Salàs de Pallars. © Pepa García")
 
 ## Preguntas frecuentes
 

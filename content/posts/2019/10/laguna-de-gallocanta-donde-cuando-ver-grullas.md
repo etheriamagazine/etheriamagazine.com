@@ -1,19 +1,19 @@
 ---
 title: "Laguna de Gallocanta, tienes una nueva cita con las grullas"
 date: 2019-10-29
-coverImage: etheria_images/2019/10/grullas-en-vuelo.jpg
+coverImage: etheria-images/2019/10/grullas-en-vuelo.jpg
 categories: 
   - viajes-ecoturismo
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 La imagen de las primeras grullas ya anuncia el comienzo de un extraordinario despliegue que dura lo que se mantenga el invierno. Con la Fiesta de las Grullas en la laguna de Gallocanta, que se celebra el 6 de noviembre de 2021, se señala una cita anual que no puedes perderte. Este humedal, en una altiplanicie entre Zaragoza y Teruel, es uno de los mejores lugares de descanso y refugio peninsular de estas aves.
 
-![Grullas volando en la laguna de Gallocanta](etheria_images/2019/10/que-ver-laguna-gallocanta-900x600.jpg "Laguna de Gallocanta (Zaragoza).")
+![Grullas volando en la laguna de Gallocanta](etheria-images/2019/10/que-ver-laguna-gallocanta-900x600.jpg "Laguna de Gallocanta (Zaragoza).")
 
 Nos ponemos en plan japonés, imitando la pasión nipona que despierta la grulla, 
 **símbolo de lealtad y longevidad**, antes de distinguir a los bandos de grullas en el 
@@ -27,7 +27,7 @@ alimentándose en los campos, y ofrecen un espectáculo natural imponente cuando
 su figura contra los cielos púrpura de los atardeceres otoñales sobre el paisaje 
 estepario. 
 
-![Aves en la laguna de Gallocanta](etheria_images/2019/10/viaje-zaragoza-laguna-gallocanta-grupo-rosa-900x600.jpg "Amanecer en la laguna de Gallocanta.")
+![Aves en la laguna de Gallocanta](etheria-images/2019/10/viaje-zaragoza-laguna-gallocanta-grupo-rosa-900x600.jpg "Amanecer en la laguna de Gallocanta.")
 
 ## La llegada de las grullas a Gallocanta
 
@@ -47,7 +47,7 @@ Zona de Especial Protección para las Aves –ZEPA– y miembro de la Red Natura
 Algunas la emplean todo el año como lugar de paso y descanso en las migraciones y otras 
 deciden criar o residir habitualmente. 
 
-![Grullas en Gallocanta en Aragon](etheria_images/2019/10/viaje-zaragoza-gallocanta-grullas-900x600.jpg "Grullas en la laguna de Gallocanta.")
+![Grullas en Gallocanta en Aragon](etheria-images/2019/10/viaje-zaragoza-gallocanta-grullas-900x600.jpg "Grullas en la laguna de Gallocanta.")
 
 > De las aves que llegan a Gallocanta solo las grullas componen un espectáculo tan 
 > admirable en la naturaleza por sus ordenadas formaciones en vuelo y su algarabía cuando 
@@ -64,7 +64,7 @@ que llena la laguna hasta que van acomodándose para pasar la noche. El año pas
 contabilizaron más de 250.000 grullas en el paso otoñal que, desde comienzos de octubre, 
 se alarga hasta finales de diciembre. 
 
-![grullas de gallocanta, migracion grullas](etheria_images/2019/10/grullas-en-vuelo-900x542.jpg "Grullas en pleno vuelo.")
+![grullas de gallocanta, migracion grullas](etheria-images/2019/10/grullas-en-vuelo-900x542.jpg "Grullas en pleno vuelo.")
 
 ### Dónde ver las grullas en la laguna de Gallocanta
 
@@ -79,7 +79,7 @@ En sus instalaciones no solo conocerás de manera interactiva las singularidades
 laguna y sus diversos habitantes naturales sino que podrás abarcar desde su zona más 
 elevada toda la zona sur de la reserva. 
 
-![Laguna de Gallocanta, Aragon, Espana](etheria_images/2019/10/viaje-zaragoza-laguna-gallocanta-dos-900x600.jpg "Otros habitantes de la laguna de Gallocanta.")
+![Laguna de Gallocanta, Aragon, Espana](etheria-images/2019/10/viaje-zaragoza-laguna-gallocanta-dos-900x600.jpg "Otros habitantes de la laguna de Gallocanta.")
 
 No dejes de disfrutar de la variada agenda de actividades que se reparte por los pueblos 
 próximos a la laguna, y que se suelen realizar los fines de semana y días festivos de 
@@ -97,7 +97,7 @@ comunes, ánades azulón y silbón, patos cuchara, tarros blancos, cigüeñuelas
 porrones comunes, patos colorados y cercetas comunes. Además de ver la huella de 
 jabalíes y corzos que acuden a beber al lugar. 
 
-![Grullas, Laguna de Gallocanta, Aragon, Espana](etheria_images/2019/10/viaje-zaragoza-Gallocanta-Laguna-Nuestra-senora-Buen-Acuerdo-900x592.jpg "Ermita de Nuestra Señora del Buen Acuerdo.")
+![Grullas, Laguna de Gallocanta, Aragon, Espana](etheria-images/2019/10/viaje-zaragoza-Gallocanta-Laguna-Nuestra-senora-Buen-Acuerdo-900x592.jpg "Ermita de Nuestra Señora del Buen Acuerdo.")
 
 Otro interesante mirador es la **torre observatorio del Cañizar**. Junto a unos chopos 
 podemos dejar el vehículo para subirnos, después de caminar 300 metros, hasta la torre y 
@@ -109,7 +109,7 @@ carrascales. Sus ruinas son testigo de la frontera medieval entre Aragón y Cast
 mientras que las vistas en el lugar son panorámicas pues no solo abarcan la laguna sino 
 las alineaciones montañosas que la rodean. 
 
-![Grullas, Laguna de Gallocanta, Aragon, Espana](etheria_images/2019/10/viaje-zaragoza-laguna-gallocanta-verde-900x692.jpg "Laguna de Gallocanta.")
+![Grullas, Laguna de Gallocanta, Aragon, Espana](etheria-images/2019/10/viaje-zaragoza-laguna-gallocanta-verde-900x692.jpg "Laguna de Gallocanta.")
 
 ## Cuándo ver las grullas en Lagocanta
 
@@ -126,7 +126,7 @@ para seguir en vuelo camino de sus cuarteles de invernada más al sudoeste penin
 Algunas de ellas decidirán que la laguna aragonesa es un buen lugar para pasar el 
 invierno convirtiéndola en su hogar. 
 
-![atardecer en laguna de gallocanta](etheria_images/2019/10/viaje-zaragoza-laguna-gallocanta-grullas-atardecer-900x601.jpg "Grullas al atardecer.")
+![atardecer en laguna de gallocanta](etheria-images/2019/10/viaje-zaragoza-laguna-gallocanta-grullas-atardecer-900x601.jpg "Grullas al atardecer.")
 
 Se les da la bienvenida durante el primer fin de semana de noviembre, concretamente este 
 año será el sábado día 6 de noviembre, con la celebración del **Festival de las 

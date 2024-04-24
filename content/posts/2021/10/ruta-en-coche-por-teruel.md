@@ -1,10 +1,10 @@
 ---
 title: "Ruta en coche por Teruel, 10 paradas por carreteras secundarias"
 date: 2021-10-12
-coverImage: etheria_images/2021/10/Villarluengo-ruta-teruel.jpg
+coverImage: etheria-images/2021/10/Villarluengo-ruta-teruel.jpg
 categories: 
   - de-un-vistazo
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -15,7 +15,7 @@ secundarias. Prepárate porque te vas a colar en una sorprendente 'road movie', 
 filme de un territorio que combate la huella del despoblamiento con sus atractivos 
 rurales. 
 
-![Fraile Fernando Ruiz en el Monasterio El Olivar.](etheria_images/2021/10/Fraile-Fernando-Ruiz-Monasterio-El-Olivar.jpg "Fraile Fernando Ruiz en el Monasterio El Olivar.")
+![Fraile Fernando Ruiz en el Monasterio El Olivar.](etheria-images/2021/10/Fraile-Fernando-Ruiz-Monasterio-El-Olivar.jpg "Fraile Fernando Ruiz en el Monasterio El Olivar.")
 
 Si quieres ser la estrella de tu propia _road movie,_ acompáñanos en esta ruta en coche 
 por Teruel que te llevará a descubrir pueblos medievales inmersos en espacios naturales 
@@ -38,7 +38,7 @@ mercedarios han encontrado en el cielo más que sosiego espiritual– como desde
 El Cabrero**, un alojamiento en finca tradicional tachonado de estrellas. O, incluso, 
 desde un balneario por el que definitivamente entramos en **El Paraíso**. 
 
-![Bóveda del frío, en Belmonte de San José.](etheria_images/2021/10/Boveda-del-frio-Belmonte-de-San-Jose-683x1024.jpg "Bóveda del frío, en Belmonte de San José.")
+![Bóveda del frío, en Belmonte de San José.](etheria-images/2021/10/Boveda-del-frio-Belmonte-de-San-Jose-683x1024.jpg "Bóveda del frío, en Belmonte de San José.")
 
 ## Pueblos donde escuchar el tiempo
 
@@ -55,7 +55,7 @@ del Bajo Aragón con una impresionante bóveda de frío testigo de la extraordin
 arquitectura del hielo de Aragón que recientemente ha sido declarada Bien de Interés 
 Cultural. 
 
-![Ermita de Montserrate, en Fornoles.](etheria_images/2021/10/Ermita-de-Montserrate-Fornoles.jpg "Ermita de Montserrate, en Fornoles.")
+![Ermita de Montserrate, en Fornoles.](etheria-images/2021/10/Ermita-de-Montserrate-Fornoles.jpg "Ermita de Montserrate, en Fornoles.")
 
 Pueblos que poseen una pátina de autenticidad lograda gracias al tiempo y al empeño 
 vecinal por cuidarlos, haciendo que la humildad rural abandere uno de los mejores 
@@ -70,14 +70,14 @@ originales formaciones rocosas del Rincón del Gorgo. Cuidado, comienza una llam
 irresistible por las sendas. Algunas tan emocionantes como el **parrizal de Beceite**, 
 archiconocido por su angosto pasaje de pasarelas sobre el río. 
 
-![Rincón del Gorgo en el barranco de Valdoria.](etheria_images/2021/10/Rincon-del-Gorgo-en-barranco-de-Valdoria-683x1024.jpg "Rincón del Gorgo en el barranco de Valdoria.")
+![Rincón del Gorgo en el barranco de Valdoria.](etheria-images/2021/10/Rincon-del-Gorgo-en-barranco-de-Valdoria-683x1024.jpg "Rincón del Gorgo en el barranco de Valdoria.")
 
 Durante esta ruta en coche por Teruel surgirán muchos senderos de pequeño recorrido bien 
 señalizados. Invitan a sumergirse cada día en el paisaje y sus ritmos agrícolas. Como la 
 vieja senda que, desde el enrocado pueblo de **Fórnoles**, entre olivares, almendros y 
 viñedos, va a la ermita de Montserrate donde mora la Virgen capaz de atraer el agua. 
 
-![Museo Minero de Escucha.](etheria_images/2021/10/Museo-Minero-Escucha-683x1024.jpg "Museo Minero de Escucha.")
+![Museo Minero de Escucha.](etheria-images/2021/10/Museo-Minero-Escucha-683x1024.jpg "Museo Minero de Escucha.")
 
 ## Aventurarse bajo tierra
 
@@ -97,7 +97,7 @@ Ahora sí, bajo tierra en pleno tajo de carbón de la mina Se Verá, descendemos
 a las entrañas de la tierra. Lo haremos por las galerías del **Museo Minero de Escucha** 
 donde la aventura está asegurada. 
 
-![Parque Geológico de Aliaga y pueblo de Aliaga.](etheria_images/2021/10/Parque-Geologico-de-Aliaga-y-pueblo-de-Aliaga.jpg "Parque Geológico de Aliaga y pueblo de Aliaga.")
+![Parque Geológico de Aliaga y pueblo de Aliaga.](etheria-images/2021/10/Parque-Geologico-de-Aliaga-y-pueblo-de-Aliaga.jpg "Parque Geológico de Aliaga y pueblo de Aliaga.")
 
 ## Hacer un safari entre gigantes
 
@@ -108,7 +108,7 @@ dará comienzo un safari por el Turoliense, la época en que grandes dinosaurios
 dientes de sable, jiráfidos, rinocerontes…). Unos animales terrestres europeos que hace 
 8 millones de años deambularon por un somero lago deltaico. 
 
-![Dinoexperience entre maquetas a tamaño real, en El Pobo.](etheria_images/2021/10/Dinoexperience-El-Pobo.jpg "Dinoexperience entre maquetas a tamaño real, en El Pobo.")
+![Dinoexperience entre maquetas a tamaño real, en El Pobo.](etheria-images/2021/10/Dinoexperience-El-Pobo.jpg "Dinoexperience entre maquetas a tamaño real, en El Pobo.")
 
 Los dinosaurios en **El Pobo**, reproducidos a tamaño real, evocan aquella sabana, y el 
 yacimiento de icnitas de Ababuj emociona con su rastro de huellas. Incitan a llegar a 
@@ -121,7 +121,7 @@ fósiles aficionado. La misma escuela en que el maestro inculcó en Jose María 
 extraordinario interés paleontológico es hoy la encantadora **casa rural La Yedra**, 
 dirigida por uno de sus hijos. 
 
-![Restaurante La Ojinegra, en Alloza.](etheria_images/2021/10/La-Ojinegra-restaurante-Alloza.jpg "Restaurante La Ojinegra, en Alloza.")
+![Restaurante La Ojinegra, en Alloza.](etheria-images/2021/10/La-Ojinegra-restaurante-Alloza.jpg "Restaurante La Ojinegra, en Alloza.")
 
 ## Saborea el paisaje en esta ruta en coche por Teruel
 
@@ -136,14 +136,14 @@ Gúdar-Javalambre, en el **restaurante Los Leones**, en Rubielos de Mora. A oril
 río Tastavins beberás la armonía de los campos agrícolas a través de los vinos y 
 **aceites ecológicos Tel-lúric**. 
 
-![Vino ecológico Tel-luric, en Matarraña.](etheria_images/2021/10/Tel-luric-vino-ecologico-Matarrana.jpg "Vino ecológico Tel-luric, en Matarraña.")
+![Vino ecológico Tel-luric, en Matarraña.](etheria-images/2021/10/Tel-luric-vino-ecologico-Matarrana.jpg "Vino ecológico Tel-luric, en Matarraña.")
 
 Quedarás rendida ante el _slow food_ de **La Ojinegra**, en Alloza. Aquí Belén y Xavi 
 elaboran platos con proximidad y amor por la tierra a base de productos de kilómetro 0, 
 en una carta vegetariana preparada a fuego lento que impulsa la sostenibilidad de los 
 productos del norte de Teruel. 
 
-![Impresionantes Órganos de Montoro, en El Maestrazgo.](etheria_images/2021/10/Organos-de-Montoro-El-Maestrazgo.jpg "Impresionantes Órganos de Montoro, en El Maestrazgo.")
+![Impresionantes Órganos de Montoro, en El Maestrazgo.](etheria-images/2021/10/Organos-de-Montoro-El-Maestrazgo.jpg "Impresionantes Órganos de Montoro, en El Maestrazgo.")
 
 ## Contagiarse de otros ritmos
 
@@ -164,7 +164,7 @@ plantaron para obtener madera. Lucen longevos y nudosos por las podas trasmochas
 confieren una figura inconfundible; con sus hojas doradas, se convierten en el sendero 
 otoñal más hermoso de Teruel. 
 
-![Villarluengo, una parada en la ruta en coche por Teruel.](etheria_images/2021/10/Villarluengo-ruta-teruel.jpg "Villarluengo, una parada en la ruta en coche por Teruel.")
+![Villarluengo, una parada en la ruta en coche por Teruel.](etheria-images/2021/10/Villarluengo-ruta-teruel.jpg "Villarluengo, una parada en la ruta en coche por Teruel.")
 
 ## Hacerse una 'highlander'
 
@@ -180,7 +180,7 @@ paisaje son el enclave elegido para fortificarse y a la vez lucir una arquitectu
 hermanada con el agreste paisaje tales como **Villarluengo**, baluarte de los caballeros 
 de la Orden de Malta. 
 
-![Castillo, puente medieval y puerta de San Roque, en Valderrobres. Escala Santa, en Cabra de Mora.](etheria_images/2021/10/Castillo-Valderrobres.jpg "(Izq.) Castillo, puente medieval y puerta de San Roque, en Valderrobres. (Dcha.) Escala Santa, en Cabra de Mora.")
+![Castillo, puente medieval y puerta de San Roque, en Valderrobres. Escala Santa, en Cabra de Mora.](etheria-images/2021/10/Castillo-Valderrobres.jpg "(Izq.) Castillo, puente medieval y puerta de San Roque, en Valderrobres. (Dcha.) Escala Santa, en Cabra de Mora.")
 
 ## Convertirse en embajadora gracias a sus alojamientos
 
@@ -195,7 +195,7 @@ definitivamente querrás que el tiempo se detenga. Al igual que en **El Gaiter**
 casa con interés turístico industrial en Aguaviva que homenajea a un emprendedor 
 comerciante con un alojamiento cautivador. 
 
-![Puente medieval y puerta de San Roque, en Valderrobres.](etheria_images/2021/10/Puente-medieval-y-puerta-de-San-Roque-Valderrobres-683x1024.jpg "Puente medieval y puerta de San Roque, en Valderrobres.")
+![Puente medieval y puerta de San Roque, en Valderrobres.](etheria-images/2021/10/Puente-medieval-y-puerta-de-San-Roque-Valderrobres-683x1024.jpg "Puente medieval y puerta de San Roque, en Valderrobres.")
 
 En el entramado medieval de Valderrobres, el **hotel El Castell**, en uno de los 
 edificios más antiguos, no solo ofrece un bocado tradicional sino descanso con vistas al 
@@ -212,7 +212,7 @@ arte cristiano e islámico en la arquitectura turolense. Su magia está en la pl
 de sus materiales humildes como el yeso, el ladrillo y las brillantes cerámicas 
 vidriadas con esmaltes verdes y blancos que encienden su brillo bajo el sol. 
 
-![Detalle de la torre mudéjar de El Salvador, en Teruel.](etheria_images/2021/10/Detalles-Torre-mudejar-El-Salvador-Teruel-639x1024.jpg "Detalle de la torre mudéjar de El Salvador, en Teruel.")
+![Detalle de la torre mudéjar de El Salvador, en Teruel.](etheria-images/2021/10/Detalles-Torre-mudejar-El-Salvador-Teruel-639x1024.jpg "Detalle de la torre mudéjar de El Salvador, en Teruel.")
 
 Pero, para disfrutarlo plenamente, es inevitable que acabes en la ciudad de Teruel. El 
 mudéjar la convirtió en Patrimonio de la Humanidad, y no hay duda de los motivos si 
@@ -223,7 +223,7 @@ un animado ambiente urbano a cualquier hora, bajo sus edificios modernistas y al
 de la pequeña estatua del toro o _torico_ con una estrella que fundamenta el legendario 
 asentamiento de la ciudad. 
 
-![Monumento al Torico, en Teruel.](etheria_images/2021/10/Monumento-al-Torico-Teruel-683x1024.jpg "Monumento al Torico, en Teruel.")
+![Monumento al Torico, en Teruel.](etheria-images/2021/10/Monumento-al-Torico-Teruel-683x1024.jpg "Monumento al Torico, en Teruel.")
 
 Más información en [Turismo de Teruel](https://www.sienteteruel.es/). 
 

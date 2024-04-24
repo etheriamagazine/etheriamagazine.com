@@ -1,13 +1,13 @@
 ---
 title: "Fragancias para mujeres viajeras, cómo elegir el perfume perfecto"
 date: 2024-01-16
-coverImage: etheria_images/2024/01/portada-perfumes-viajes.jpg
+coverImage: etheria-images/2024/01/portada-perfumes-viajes.jpg
 categories: 
   - bienestar-belleza
   - organiza-tu-viaje
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Como elemento imprescindible del equipaje y también cómplice de nuestras aventuras, la 
@@ -15,7 +15,7 @@ elección del perfume merece un poco de atención. En este artículo, te hablare
 fragancias para mujeres viajeras que son adecuadas para diversos destinos y de cómo 
 llevarlas en la maleta. 
 
-![Mujer viajera sentada en un banco](etheria_images/2024/01/mujer-viajera.jpg "La elección del perfume también es clave en los viajes.")
+![Mujer viajera sentada en un banco](etheria-images/2024/01/mujer-viajera.jpg "La elección del perfume también es clave en los viajes.")
 
 Cuando se trata de viajar, las mujeres sabemos que la elección del perfume que 
 llevaremos puede marcar la diferencia en la experiencia durante las vacaciones. Nada 
@@ -46,7 +46,7 @@ notas de manzana americana, nardos, muguet, rosas y violetas permanece bastante 
 piel. Y, por precio y versatilidad, no puede faltar **CK One,** de Calvin Klein, que es 
 fresca, unisex y cuyo olor a limpio fideliza a cualquier edad. 
 
-![Chance, de Chanel, un perfume ideal para viajar](etheria_images/2024/01/chance-chanel.jpg "Chance, de Chanel. © Kailey Sniffin")
+![Chance, de Chanel, un perfume ideal para viajar](etheria-images/2024/01/chance-chanel.jpg "Chance, de Chanel. © Kailey Sniffin")
 
 ### Para destinos más fríos o urbanos
 
@@ -65,7 +65,7 @@ invierno. Y si no soportas los perfumes intensos, puedes probar con **Idôle**, 
 Lancome, que es una mezcla de rosa, jazmín, Chipre blanco y almizcle; y **Le Parfum in 
 White** de Elie Saab... ambos tan sutiles que no empalagan. 
 
-![Infusion d’Iris de Prada](etheria_images/2024/01/infusion-iris-prada.jpg "Infusion d’Iris de Prada.")
+![Infusion d’Iris de Prada](etheria-images/2024/01/infusion-iris-prada.jpg "Infusion d’Iris de Prada.")
 
 ## Tamaños y envases a la hora de viajar
 
@@ -75,7 +75,7 @@ Algunas marcas ofrecen envases compactos, perfectos para proteger la fragancia e
 ajetreo del viaje, pero no es así en la mayoría de los casos. Si viajas en avión, puedes 
 aprovechar para adquirir tamaños pequeños en la zona de _Duty free_. 
 
-![Atomizadores de perfumes.](etheria_images/2024/01/envase-perfume-viaje.jpg "Atomizadores de perfumes.")
+![Atomizadores de perfumes.](etheria-images/2024/01/envase-perfume-viaje.jpg "Atomizadores de perfumes.")
 
 ### Envases rellenables
 
@@ -96,7 +96,7 @@ Chance de Chanel; y Femme, que hace lo propio con Miracle. Y, por último, dos q
 gran resultado: **Verissime** de Mercadona, una muy buena imitación de Blanche de 
 Byredo; y **Belle Italie**, igual de energizante que Escale à Portofino, de Dior. 
 
-![Perfume Gardenia, de Zara, ideal para mujeres viajeras](etheria_images/2024/01/gardenia-zara.jpg "Perfume Gardenia, de Zara.")
+![Perfume Gardenia, de Zara, ideal para mujeres viajeras](etheria-images/2024/01/gardenia-zara.jpg "Perfume Gardenia, de Zara.")
 
 ## Dónde llevarlos en la maleta
 
@@ -109,7 +109,7 @@ de plástico y, posteriormente, envolverlo en algo que pueda servir de barrera p
 posible impacto (calcetín, bufanda...). Una vez en el destino, procura no dejarlo en un 
 lugar expuesto al sol o cerca de radiadores, ya que el aroma cambiará inevitablemente. 
 
-![Tienda de perfumes en India](etheria_images/2024/01/perfumes-india.jpg "Tienda de perfumes en India. © Omkar Jadhav")
+![Tienda de perfumes en India](etheria-images/2024/01/perfumes-india.jpg "Tienda de perfumes en India. © Omkar Jadhav")
 
 Y finalmente, te hacemos una sugerencia: ¿por qué no pruebas a asociar **tus grandes 
 viajes** a un aroma particular? La memoria olfativa hará que regreses allí una y otra 

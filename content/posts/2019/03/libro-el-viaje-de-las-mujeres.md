@@ -1,12 +1,12 @@
 ---
 title: "El viaje de las mujeres, el nuevo libro de Elena García Quevedo"
 date: 2019-03-16
-coverImage: etheria_images/2019/03/anciana-tibet.jpg
+coverImage: etheria-images/2019/03/anciana-tibet.jpg
 categories: 
   - organiza-tu-viaje
   - libros-de-viajes
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 'El viaje de las mujeres' es el nuevo libro de Elena García Quevedo, un recorrido por el 
@@ -14,7 +14,7 @@ mundo en busca de los secretos que guardan las comunidades dirigidas por mujeres
 las que tienen un gran poder de decisión. La autora entrevista a 'mujeres sabias' de 
 Egipto, Turquía, Colombia, India, Nepal y España. 
 
-![el viaje de las mujeres, elena garcia quevedo](etheria_images/2019/03/anciana-tibet.jpg)
+![el viaje de las mujeres, elena garcia quevedo](etheria-images/2019/03/anciana-tibet.jpg)
 
 **_El viaje de las mujeres_** no es un libro de viajes al uso, al menos lo que solemos entender por uno. Tampoco es una obra que hubiese podido escribir cualquiera, de esas que abundan en la librerías. Su autora, **Elena García Quevedo**, realiza a través de sus páginas un doble recorrido: hacia el interior de ella misma y, también, en sentido geográfico.
 
@@ -28,7 +28,7 @@ Las emociones de la escritora son el hilo conductor de un viaje donde la autoref
 
 _"Comencé el viaje en busca de los saberes ancestrales femeninos en pueblos de raíz matrilineal. Primero seguí el Nilo y al sur de Egipto, en Nubia, conocí a una matriarca que me enseñó el poder de los aromas para abrir el corazón y conocí a un hombre del desierto de ojos esmeralda. En Colombia subí a la Sierra Nevada de Santa Marta y, a ritmo del mejor vallenato, una mujer indígena me descubrió el vínculo de mi cuerpo de mujer con la Madre Tierra. En la India descubrí el poder de decir adiós con mi sexualidad y una prostituta de Bombay me mostró otra forma de amar. Cuando regresé a España, recuperé la memoria y el orgullo de mis antepasadas a través de las cocinas asturianas. En España entrevisté a mujeres y hombres de edad que hubieran cambiado de algún modo la historia para ver su arte de vivir; la forma en la que las pequeñas cosas guiaron su vida y, por tanto, la de la sociedad"._
 
-\[caption id="attachment\_7994" align="aligncenter" width="900"\]![el viaje de las mujeres, elena garcia quevedo](etheria_images/2019/03/abuela-viajes-india.jpg) El saber se transmite de abuelas a nietas.\[/caption\]
+\[caption id="attachment\_7994" align="aligncenter" width="900"\]![el viaje de las mujeres, elena garcia quevedo](etheria-images/2019/03/abuela-viajes-india.jpg) El saber se transmite de abuelas a nietas.\[/caption\]
 
 ## Una cuestión de aprendizaje
 
@@ -38,7 +38,7 @@ _"Según las abuelas sabias a las que he conocido que bailan y ríen –y tejen�
 
 García Quevedo también acompaña a grupos de viajeras como cicerone para la [agencia de viajes **Focus on Women**](https://etheriamagazine.com/2019/03/08/agencias-de-viajes-para-mujeres-viajan-solas-grupo/).
 
-![el viaje de las mujeres, viajeras](etheria_images/2019/03/el-viaje-de-las-mujeres.jpg)
+![el viaje de las mujeres, viajeras](etheria-images/2019/03/el-viaje-de-las-mujeres.jpg)
 
  
 

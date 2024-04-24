@@ -1,18 +1,18 @@
 ---
 title: "Meda Mládek, la centenaria coleccionista checa que nunca se rindió"
 date: 2019-08-13
-coverImage: etheria_images/2019/08/meda-mladek-apertura.jpg
+coverImage: etheria-images/2019/08/meda-mladek-apertura.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Meda Mládek, coleccionista de arte y fundadora del Museo Kampa, cumplió cien años el 8 de septiembre de 2019. Por la labor realizada durante toda su vida a favor de la cultura y el arte merece un espacio privilegiado entre las mujeres inspiradoras de Etheria Magazine.
 
-![meda mladek](etheria_images/2019/08/meda-mladek2.jpg "© Archivo Meda Mládek.")
+![meda mladek](etheria-images/2019/08/meda-mladek2.jpg "© Archivo Meda Mládek.")
 
 **Meda Marie Mládková** o Meda Mládek (su apellido de casada) nació el 8 de septiembre 
 de 1919 en Zákupy, una pequeña población checa de la región de Liberec. Una gran 
@@ -30,7 +30,7 @@ Como se puede leer en la entrada del museo de la isla de Kampa (del que hablarem
 adelante), una de sus máximas era: “Si la cultura sobrevive, también lo hace la nación”. 
 Sin duda, Meda Mládek no pudo encontrar mejor aliado. 
 
-![Fotos de archivo en París y en su casa de Washington.](etheria_images/2019/08/Meda-Mladek-Paris-whasington.jpg "Fotos de archivo en París y en su casa de Washington.")
+![Fotos de archivo en París y en su casa de Washington.](etheria-images/2019/08/Meda-Mladek-Paris-whasington.jpg "Fotos de archivo en París y en su casa de Washington.")
 
 ## Un objetivo común: alentar la creación de artistas checos
 
@@ -49,7 +49,7 @@ experimentales de la **escultora polaca Magdalena Abakanowicz**. Los países rec
 (Checoslovaquia, Polonia, Hungría, Yugoslavia, etc.) en los años 60 y 70 se pueden 
 comprobar al seguir el itinerario de las obras expuestas en el Museo Kampa. 
 
-![Fotografía de Meda Mládek con chaqueta de rayas rojas.](etheria_images/2019/08/meda-mladek.jpg "© Archivo Meda Mládek.")
+![Fotografía de Meda Mládek con chaqueta de rayas rojas.](etheria-images/2019/08/meda-mladek.jpg "© Archivo Meda Mládek.")
 
 En unas declaraciones realizadas a David Granda, el periodista español al que concedió 
 una entrevista en Praga, le comentó –en relación a su labor como coleccionista durante 
@@ -82,7 +82,7 @@ junto a las estatuas barrocas del Puente de Carlos. En una visita al museo, no h
 perderse la colección de obras de František Kupka, que aseguran que es la mejor del 
 mundo. 
 
-![Sala del Museo Kampa.](etheria_images/2019/08/meda-mladek-Museo-Kampa.jpg "Sala del Museo Kampa.")
+![Sala del Museo Kampa.](etheria-images/2019/08/meda-mladek-Museo-Kampa.jpg "Sala del Museo Kampa.")
 
 Este otoño de 2019 es un momento perfecto para visitar el ‘Museum Kampa’, ya que se 
 presenta **‘MEDA Embajadora de Arte'**, una muestra comisariada por Pavel Liška y Robin 
@@ -91,7 +91,7 @@ exposición se concede un gran protagonismo a **su casa en Georgetown**, Washing
 que se convirtió en un santuario pagano del arte de Europa Central y Checoslovaquia 
 durante sus años de exilio americano. 
 
-![Fotografías del archivo de Meda Mladek.](etheria_images/2019/08/Meda-Mladek-mujer-etheria.jpg "Fotografías del archivo de Meda Mladek.")
+![Fotografías del archivo de Meda Mladek.](etheria-images/2019/08/Meda-Mladek-mujer-etheria.jpg "Fotografías del archivo de Meda Mladek.")
 
 La vivienda americana de los Mládek era un lugar frecuente de encuentro de artistas, 
 intelectuales y celebridades, además de una conexión entre Occidente y la cultura de los 
@@ -100,7 +100,7 @@ ideas** entre políticos, diplomáticos, artistas y escritores, en un marco úni
 rodeados de obras abstractas de František Kupka y esculturas de gran tamaño de Karel 
 Nepraš. 
 
-![Escultura de Karel Nepraš, en el Museo Kampa.](etheria_images/2019/08/Karel-Nepras-museo-kampa.jpg "Escultura de Karel Nepraš. © Museo Kampa.")
+![Escultura de Karel Nepraš, en el Museo Kampa.](etheria-images/2019/08/Karel-Nepras-museo-kampa.jpg "Escultura de Karel Nepraš. © Museo Kampa.")
 
 La celebración del aniversario de Meda no se reducirá solo a la exposición del Museo 
 Kampa sino que tendrán lugar conferencias, performances y actividades en otras sedes 

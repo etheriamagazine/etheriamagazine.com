@@ -1,13 +1,13 @@
 ---
 title: "Australia no es un zoo, conoce sus animales más mortíferos"
 date: 2019-07-31
-coverImage: etheria_images/2019/07/Australia-animales-koala.jpg
+coverImage: etheria-images/2019/07/Australia-animales-koala.jpg
 categories: 
   - mi-peor-viaje
   - consejos-practicos
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Elisabeth G. Iborra
 ---
 
@@ -16,7 +16,7 @@ zoo es un gran error. Sus cocodrilos son reales, sus tiburones y medusas son let
 hasta los casuarios o los adorables koalas te pueden matar de un zarpazo. Te ayudamos a 
 sobrevivir a los animales de Australia sin dejar de disfrutarlo. 
 
-![piscina natural en Noosa National Park en Australia](etheria_images/2019/07/australia-animales-noosa-1.jpg "Noosa National Park. © Carles Rabada")
+![piscina natural en Noosa National Park en Australia](etheria-images/2019/07/australia-animales-noosa-1.jpg "Noosa National Park. © Carles Rabada")
 
 Suficientemente grande es el continente australiano como para poder toparte con todas 
 las especies animales más mortíferas del planeta. Que no tiene por qué pasarte nada, 
@@ -39,7 +39,7 @@ Después de ver el **amanecer sobre Ayers Rock**, te dejarán caminar alrededor 
 por el llamado Mala Walk, parando en el Mutijulu Waterhole y en una granja de 
 dromedarios que, si te dan un cabezazo con esa dentadura, te matan. 
 
-![Monte Uluru.](etheria_images/2019/07/australia-animales-uluru.jpg "Monte Uluru. © Ondrej Machart")
+![Monte Uluru.](etheria-images/2019/07/australia-animales-uluru.jpg "Monte Uluru. © Ondrej Machart")
 
 ## Gran Barrera de Coral
 
@@ -57,7 +57,7 @@ frondosa en medio de la cual vive la guía Nicole, encantada con los animales sa
 que rodean su casa, ya que para ella son como domésticos. Ni siquiera teme a las 
 serpientes, pero sí que les tiene respeto a las que no conoce. 
 
-![cabeza de casuario](etheria_images/2019/07/australia-animales-casuario.jpg "Casuario, un ave nada amigable.")
+![cabeza de casuario](etheria-images/2019/07/australia-animales-casuario.jpg "Casuario, un ave nada amigable.")
 
 No obstante, en el bosque de **Daintree**, merecido Patrimonio Mundial de la Unesco, 
 entre los bichos más peligrosos destacan los **casuarios**. Un ave que de una patada te 
@@ -84,7 +84,7 @@ Pero el cocodrilo es un depredador sin escrúpulos y ya le vas bien tú o un pul
 gigante, así que aléjate de esas orillas. Si te estás derritiendo, siempre te puedes dar 
 un baño en el **Mossman George**, donde puedes morir de frío pero no de una dentellada. 
 
-![Cocodrilos en Queensland.](etheria_images/2019/07/australia-animales-cocodrilos.jpg "Cocodrilos en Queensland.")
+![Cocodrilos en Queensland.](etheria-images/2019/07/australia-animales-cocodrilos.jpg "Cocodrilos en Queensland.")
 
 Si sobrevives hasta ahí, ya estás preparada para descender por la espectacular **costa 
 de Queensland**. Comienza por **Arlie Beach**, donde puedes ir reservando los tours para 
@@ -111,7 +111,7 @@ esfuerzo titánico y podrías volcar y perecer ahogada en el Pacífico. Conclusi
 circular por esas carreteras arenosas lo ideal es contratar tu plaza en un autobús 
 especial con conductor y guía. Ya se encargan ellos de controlar horarios, mareas, etc. 
 
-![Barco Mahenos.](etheria_images/2019/07/Australia-animales-barco.jpg "Barco Mahenos. © Matt Lamers")
+![Barco Mahenos.](etheria-images/2019/07/Australia-animales-barco.jpg "Barco Mahenos. © Matt Lamers")
 
 Dentro de ese tour te dan tiempo para pasear hasta el **Mahenos**, un barco varado del 
 que solo queda la estructura de hierro oxidado, ahí erigida como recuerdo de sus viajes 
@@ -126,7 +126,7 @@ tomando el sol en cubierta mientras navegas, cuando no se nubla o lloviznea. Lo 
 hacer esnórquel en **Hook Island**, en su arroyo Inner. Pese a su escasa profundidad, 
 atrae a cantidad de peces hacia sus corales. 
 
-![barcos anclados y turistas en Whitehaven Beach.](etheria_images/2019/07/Australia-animales-whiteheaven.jpg "Whitehaven Beach. © Elena Emmy")
+![barcos anclados y turistas en Whitehaven Beach.](etheria-images/2019/07/Australia-animales-whiteheaven.jpg "Whitehaven Beach. © Elena Emmy")
 
 Pero, por encima de todo, lo más impresionante es la **Whitehaven Beach**. Está en el 
 Top Ten de las mejores playas a nivel mundial por sus 7 kilómetros de arena compacta, 
@@ -145,7 +145,7 @@ menos largos, de 3,5 a 6 kilómetros. El **Sandy Bay Track** te aboca hasta la p
 homónima; y el **Whitsunday Circuit** te permite volver en solo una hora a tumbarte al 
 sol o sumergirte con las gafas y el tubo a buscar sus corales. 
 
-![Canguros](etheria_images/2019/07/Australia-animales-canguros.jpg "Canguros.")
+![Canguros](etheria-images/2019/07/Australia-animales-canguros.jpg "Canguros.")
 
 Por la costa este, entre visitas a las islas, vas bajando por las espectaculares playas 
 de Arlie Beach, Harvey Bay, Noosa (impresionante sobrevolarla en kitesurf), hasta llegar 
@@ -163,7 +163,7 @@ plantaciones de marihuana que les hicieron muy felices… y los dejaron un poco 
 ya lo comprobarás. En todo caso, disfruta de sus parajes naturales, como las cascadas y 
 las plantaciones de nueces de Macadamia, que están que te mueres. 
 
-![koala en un árbol](etheria_images/2019/07/Australia-animales-koala.jpg "Los koalas no son siempre adorables.")
+![koala en un árbol](etheria-images/2019/07/Australia-animales-koala.jpg "Los koalas no son siempre adorables.")
 
 ## Serpientes, koalas y escorpiones
 
@@ -175,7 +175,7 @@ sean las que más matan, son más bien venenosas. Pero no tanto como otro animal
 puramente australiano, el **escorpión de Australia**, el _Androctonus Australis_, que se 
 considera mortal porque con su cola te inyecta más veneno de lo habitual. 
 
-![Pitón verde de árbol.](etheria_images/2019/07/australia-animales-serpiente.jpg "Pitón verde de árbol. © Sebastian Spindler")
+![Pitón verde de árbol.](etheria-images/2019/07/australia-animales-serpiente.jpg "Pitón verde de árbol. © Sebastian Spindler")
 
 ## Más tiburones en Bondy Beach
 
@@ -187,7 +187,7 @@ cosmopolitismo donde todo el mundo es bienvenido. Ahora bien, si vas a hacer sur
 la señal de ¡Peligro, tiburones! Y lo mismo en las playas de la **Great Ocean Road** 
 hasta **Los 12 Apóstoles**, que parecen el fin del mundo. 
 
-![Playa de Bondi.](etheria_images/2019/07/australia-animales-bondi-beach.jpg "Playa de Bondi. © Azucena Stelzer")
+![Playa de Bondi.](etheria-images/2019/07/australia-animales-bondi-beach.jpg "Playa de Bondi. © Azucena Stelzer")
 
 ## CONSEJOS ETHERIA PARA VIAJAR A AUSTRALIA
 

@@ -1,12 +1,12 @@
 ---
 title: "Mujeres brillantes y emprendedoras que nos inspiran cada día"
 date: 2023-03-09
-coverImage: etheria_images/2023/03/mujeres-viaje-baile-africa-Belen-Bonapriso.jpg
+coverImage: etheria-images/2023/03/mujeres-viaje-baile-africa-Belen-Bonapriso.jpg
 categories: 
   - historias-en-femenino
   - mujeres-que-inspiran
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Aunque marzo es un mes para celebrar el feminismo y la lucha por la igualdad, en Etheria 
@@ -15,7 +15,7 @@ todo el año a través de nuestras “historias en femenino”. En este artícul
 diez artículos dedicados a mujeres inspiradoras de todo tipo, famosas y anónimas, 
 empresarias y artistas. Todas merecen nuestro reconocimiento. 
 
-![Cecilia Bartolomé, Lee Krasner, Sania Jelic y Belén Orive](etheria_images/2023/03/Mujeres-etheria.jpg "Cecilia Bartolomé, Lee Krasner, Sania Jelic y Belén Orive son algunas de nuestras mujeres Etheria.")
+![Cecilia Bartolomé, Lee Krasner, Sania Jelic y Belén Orive](etheria-images/2023/03/Mujeres-etheria.jpg "Cecilia Bartolomé, Lee Krasner, Sania Jelic y Belén Orive son algunas de nuestras mujeres Etheria.")
 
 El 8 de marzo todas celebramos el Día de la Mujer por muchos motivos. En Etheria 
 Magazine nos gusta hacerlo a través de la trayectoria y el ejemplo de mujeres 
@@ -39,7 +39,7 @@ emprendedoras polacas con una trayectoria más exitosa del panorama empresarial 
 gracias a su línea de cosméticos y a sus hoteles-balneario en lugares espectaculares de 
 Polonia. 
 
-![Maria Sklodowoska, Wislawa Szymborska e Irena Elis](etheria_images/2023/02/Curie-Szymborska-Elis.jpg "Maria Sklodowoska, Wislawa Szymborska e Irena Elis. © Wikimedia CC, Mariusz Kubik Wikimedia CC3, Irena Elis.")
+![Maria Sklodowoska, Wislawa Szymborska e Irena Elis](etheria-images/2023/02/Curie-Szymborska-Elis.jpg "Maria Sklodowoska, Wislawa Szymborska e Irena Elis. © Wikimedia CC, Mariusz Kubik Wikimedia CC3, Irena Elis.")
 
 Las tres siempre mantuvieron sus lazos con Polonia: Marie Curie con Varsovia, Wislawa 
 Szymborska con Cracovia e Irena Eris con Mazovia. Si se visitan estos lugares, siempre 
@@ -57,7 +57,7 @@ como Ruth Guevara, artesana de la península de Nicoya; Marielos Núñez y Marí
 Jiménez de Sarapiquí, con interesantes proyectos en el ámbito de la gastronomía; o Eida 
 Fletes, que ha fundado una empresa que apuesta por el turismo educativo. 
 
-![Marielos Núñez y María Luz Jiménez de Sarapiquí](etheria_images/2023/03/Mujeres-Marielos-maria-luz-sarapiqui-costa-rica.jpg "Marielos Núñez y María Luz Jiménez de Sarapiquí. © Turismo de Costa Rica")
+![Marielos Núñez y María Luz Jiménez de Sarapiquí](etheria-images/2023/03/Mujeres-Marielos-maria-luz-sarapiqui-costa-rica.jpg "Marielos Núñez y María Luz Jiménez de Sarapiquí. © Turismo de Costa Rica")
 
 Proyectos llenos de alma y dedicación personal que han aportado trabajo y desarrollo a 
 su entorno más cercano haciéndolo más atractivo a nivel turístico. Si ya había infinitas 
@@ -77,7 +77,7 @@ para favorecer la economía en cada destino. Además, este proyecto facilita que
 mujeres que viajan solas lo hagan en un entorno amable y seguro, con personas que 
 coincidan con sus gustos e intereses vitales. 
 
-![Belén Orive en Bonapriso (Camerún)](etheria_images/2023/03/mujeres-viaje-baile-africa-Belen-Bonapriso-850x568.jpg "Belén Orive en Bonapriso (Camerún).")
+![Belén Orive en Bonapriso (Camerún)](etheria-images/2023/03/mujeres-viaje-baile-africa-Belen-Bonapriso-850x568.jpg "Belén Orive en Bonapriso (Camerún).")
 
 Belén es una de las integrantes de nuestros ‘Proyectos con alma’, una serie de 
 iniciativas de mujeres emprendedoras que apoyamos en Etheria Magazine de forma gratuita 
@@ -94,7 +94,7 @@ haciendo las maletas y recorriendo el mundo. Estas pioneras, a quienes tanto les
 debemos, dejaron un guion marcado de esposa y madre para aventurarse por países lejanos 
 en un entorno que fue muchas veces hostil. 
 
-![Nellie Bly y el libro La vuelta al Mundo en 72 días](etheria_images/2023/03/mujeres-nellie-bly-libro-viajeras-850x621.jpg "Nellie Bly (1864-1922), seudónimo de Elizabeth Cochrane. Viajera y escritora.")
+![Nellie Bly y el libro La vuelta al Mundo en 72 días](etheria-images/2023/03/mujeres-nellie-bly-libro-viajeras-850x621.jpg "Nellie Bly (1864-1922), seudónimo de Elizabeth Cochrane. Viajera y escritora.")
 
 La primera, Egeria o Etheria, que da nombre a nuestra revista como la que se considera 
 la primera mujer que desde la Hispania romana inició un viaje hasta Tierra Santa y 
@@ -119,7 +119,7 @@ el siglo XX, desde la falta de libertades hasta las limitaciones a la hora de di
 de la sexualidad o el aborto. Su obra posterior se ha centrado en el cine documental y 
 publicitario, que ha dado forma a un estilo feminista, divertido y moderno. 
 
-![entrega de premios Feroz](etheria_images/2023/03/mujeres-Cecilia-Bartolome-premio-de-honor-en-Feroz-850x522.jpg "Cecilia Bartolomé recoge el Premio de Honor en los Feroz.")
+![entrega de premios Feroz](etheria-images/2023/03/mujeres-Cecilia-Bartolome-premio-de-honor-en-Feroz-850x522.jpg "Cecilia Bartolomé recoge el Premio de Honor en los Feroz.")
 
 En nuestro artículo, además de un perfil de la cineasta, puedes leer también la 
 entrevista realizada a raíz del Premio Feroz. 
@@ -136,7 +136,7 @@ de Turismo de Croacia en España y trabajó también en otras empresas turístic
 visibilizar la gran oportunidad que se presenta a las mujeres para viajar tras la 
 jubilación y que pueden hacerlo solas. 
 
-![Sania Jelic en moto](etheria_images/2023/03/mujeres-Sania-moto.jpg "Sania disfrutando de su viaje por Sudamérica. © SJ")
+![Sania Jelic en moto](etheria-images/2023/03/mujeres-Sania-moto.jpg "Sania disfrutando de su viaje por Sudamérica. © SJ")
 
 Sania está este año recorriendo América del Sur y nos está contando su viaje en primera 
 persona, etapa a etapa, con sus impresiones, consejos y sensaciones en una serie de 
@@ -157,7 +157,7 @@ de esta gran actriz y ligarla a una ciudad que tan buenos momentos le hizo pasar
 se sintió libre y liberada de las imposiciones de Hollywood de seguir el arquetipo de 
 mujer fatal. 
 
-![Ava Gardner y Perico Chicote](etheria_images/2023/03/mujeres-ava-gardner-chicote-850x567.jpg "Ava Gardner y Perico Chicote. © Museo Chicote")
+![Ava Gardner y Perico Chicote](etheria-images/2023/03/mujeres-ava-gardner-chicote-850x567.jpg "Ava Gardner y Perico Chicote. © Museo Chicote")
 
 La ruta de Ava Gardner en Madrid lleva a locales tan emblemáticos como Chicote, el 
 Corral de la Morería, el Lhardy o el Café Comercial; y a lugares de la ciudad como la 
@@ -175,7 +175,7 @@ La pintora Lee Krasner es otra de esas mujeres brillantes que quedó eclipsada p
 figura de su marido, el también pintor Jackson Pollock, aunque cuando se conocieron él 
 era un principiante y ella una artista consolidada en Nueva York. 
 
-![Lee Krasner y su cuadro Prophecy](etheria_images/2023/03/mujeres-emprendedoras-lee-krasner-prophecy-850x632.jpg "Lee Krasner (1938) y “Prophecy” (1956). © The Pollock-Krasner Foundation Kasmin Gallery")
+![Lee Krasner y su cuadro Prophecy](etheria-images/2023/03/mujeres-emprendedoras-lee-krasner-prophecy-850x632.jpg "Lee Krasner (1938) y “Prophecy” (1956). © The Pollock-Krasner Foundation Kasmin Gallery")
 
 En este artículo nos acercamos al perfil de Krasner a través del libro de Ana de Haro 
 _El color de tu nombre_ (La Esfera de los Libros) y de una entrevista con la autora. En 
@@ -196,7 +196,7 @@ trasladar a su obra un sufrimiento constante por sus problemas físicos (tuvo qu
 por quirófano en treinta y dos ocasiones tras un accidente) y por su tormentosa relación 
 con el también pintor mexicano Diego Rivera. 
 
-![Frida Kalho con ropa tradicional mexicana](etheria_images/2023/03/mujeres-Frida-en-un-banco-blanco-714x1024.jpg "Frida en un banco blanco. © Nickolas Muray Photo Archives")
+![Frida Kalho con ropa tradicional mexicana](etheria-images/2023/03/mujeres-Frida-en-un-banco-blanco-714x1024.jpg "Frida en un banco blanco. © Nickolas Muray Photo Archives")
 
 Un reportaje que, además de poner en valor su faceta artística, recorre aquellos lugares 
 que fueron importantes en su vida, desde su casa en Coyocán (México) a las ciudades de 
@@ -213,7 +213,7 @@ afrontaron la posguerra con toda la dignidad que pudieron. Han sido narrados por
 nietas, mujeres periodistas y comunicadoras de toda España, gracias a una iniciativa del 
 movimiento _#las periodistasparamos_ nacido el 8 de marzo de 2018. 
 
-![La periodista Sara Plaza Casares, su abuela María y su bisabuela Vicenta](etheria_images/2023/03/mujeres-Nietas-memoria-maria-vicenta-850x510.jpg "La periodista Sara Plaza Casares, su abuela María y su bisabuela Vicenta.")
+![La periodista Sara Plaza Casares, su abuela María y su bisabuela Vicenta](etheria-images/2023/03/mujeres-Nietas-memoria-maria-vicenta-850x510.jpg "La periodista Sara Plaza Casares, su abuela María y su bisabuela Vicenta.")
 
 Relatos escritos desde el corazón que narran historias de represión, hambre, sumisión y 
 todo tipo de dificultades económicas y sociales. Una iniciativa que reivindica el 

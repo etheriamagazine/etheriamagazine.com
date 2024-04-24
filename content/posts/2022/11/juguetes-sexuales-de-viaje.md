@@ -1,10 +1,10 @@
 ---
 title: "Juguetes femeninos en la maleta y restricciones en algunos países"
 date: 2022-11-14
-coverImage: etheria_images/2022/11/viaje-maldivas.jpg
+coverImage: etheria-images/2022/11/viaje-maldivas.jpg
 categories: 
   - regalos-compras-viajeras
-author: 
+authors: 
   - Maria Miret
 ---
 
@@ -13,7 +13,7 @@ sola o con pareja. Te contamos lo que debes tener en cuenta a la hora de incluir
 la maleta y las restricciones de entrada de algunos países que los clasifican al mismo 
 nivel que la pornografía. 
 
-![El tamaño de los juguetes sexuales en el equipaje de mano es importante.](etheria_images/2022/11/juguetes-sexuales-viaje.jpg "El tamaño de los juguetes sexuales en el equipaje de mano es importante.")
+![El tamaño de los juguetes sexuales en el equipaje de mano es importante.](etheria-images/2022/11/juguetes-sexuales-viaje.jpg "El tamaño de los juguetes sexuales en el equipaje de mano es importante.")
 
 Actualizado 1/2024 
 
@@ -46,7 +46,7 @@ interior, pasaporte… Una lista de “imprescindibles” en la que no te puedes
 más importante. Y si hay algo esencial para tu bienestar, además de los productos de 
 aseo e higiene personal, son tus **juguetes eróticos de viaje.** 
 
-![We-Vibe Chorus un juguete sexual ideal para viajar](etheria_images/2022/11/We-Vibe-Chorus-pink.jpg "© We-Vibe Chorus.")
+![We-Vibe Chorus un juguete sexual ideal para viajar](etheria-images/2022/11/We-Vibe-Chorus-pink.jpg "© We-Vibe Chorus.")
 
 ## Juguetes sexuales siempre en la maleta
 
@@ -70,7 +70,7 @@ formen parte de tus vacaciones, no podrás salir de viaje sin llevar alguno de t
 juguetes sexuales. A la hora de viajar con ellos, ya sea por placer o por trabajo, 
 deberás tener en cuenta algunas cuestiones prácticas. 
 
-![Mujer flotando en el mar en Maldivas](etheria_images/2022/11/viaje-maldivas.jpg "Vacaciones en Maldivas. © Ishan Seefromthesky")
+![Mujer flotando en el mar en Maldivas](etheria-images/2022/11/viaje-maldivas.jpg "Vacaciones en Maldivas. © Ishan Seefromthesky")
 
 ## Países que los penalizan
 
@@ -99,7 +99,7 @@ El delgado y ergonómico [We-Vibe Melt](https://amzn.to/3Em6pQx) (149 €) viene
 función de bloqueo de viaje que garantiza que no se encenderá por sí solo, mientras que 
 el ecológico [We-Vibe Chorus](https://amzn.to/3tigNSX) (199 €) es recargable. 
 
-![LIBERTY de Lily Allen](etheria_images/2022/11/Womanizer-Liberty.jpg "© LIBERTY de Lily Allen.")
+![LIBERTY de Lily Allen](etheria-images/2022/11/Womanizer-Liberty.jpg "© LIBERTY de Lily Allen.")
 
 ## Ojo, ¡el lubricante es un líquido!
 

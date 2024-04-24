@@ -1,18 +1,18 @@
 ---
 title: "Sarapiquí, ecoturismo y gastronomía en femenino en Costa Rica"
 date: 2022-08-18
-coverImage: etheria_images/2022/08/turismo-rural-sarapiquí.jpg
+coverImage: etheria-images/2022/08/turismo-rural-sarapiquí.jpg
 categories: 
   - viajes-con-amigas
   - mujeres-etheria
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El cantón de Sarapiquí es un lugar que tienes que tener muy en cuenta en tu próximo viaje a Costa Rica por su autenticidad, escasa masificación y para conocer a dos emprendedoras, Marielos Núñez y María Luz Jiménez, que han hecho de la gastronomía su forma de vida. Además de disfrutar de la magia que sale de sus sencillos fogones, podrás descubrir un destino donde la naturaleza es la protagonista absoluta.
 
-![Paseo en un carro tirado por un buey en Sarapiquí, en Costa Rica](etheria_images/2022/08/turismo-rural-sarapiquí.jpg "En Sarapiquí disfrutarás del contacto con la naturaleza.")
+![Paseo en un carro tirado por un buey en Sarapiquí, en Costa Rica](etheria-images/2022/08/turismo-rural-sarapiquí.jpg "En Sarapiquí disfrutarás del contacto con la naturaleza.")
 
 Sarapiquí es un destino de Costa Rica que responde a la perfección a lo que se espera 
 del país: un ecoturismo bien entendido que surge del respeto profundo que tienen los 
@@ -32,7 +32,7 @@ arrepentiréis.
 
 ## Mujeres emprendedoras de Sarapiquí
 
-![Marielos Núñez, fundadora de Soda Marielos](etheria_images/2022/08/Marielos-sarapiqui-costa-rica-1.jpg "Marielos Núñez, fundadora de Soda Marielos.")
+![Marielos Núñez, fundadora de Soda Marielos](etheria-images/2022/08/Marielos-sarapiqui-costa-rica-1.jpg "Marielos Núñez, fundadora de Soda Marielos.")
 
 ### Marielos Núñez y su comida a la leña
 
@@ -47,7 +47,7 @@ próximo viaje a Sarapiquí para apoyar de esta manera a esta emprendedora y a s
 
 ? Puedes escuchar su testimonio en este [vídeo](https://youtu.be/LCjLo3exIEQ). 
 
-![Gallo pinto, plato tradicional de Costa Rica.](etheria_images/2022/08/costa-rica-gallo-pinto.jpg "Gallo pinto, plato tradicional de Costa Rica.")
+![Gallo pinto, plato tradicional de Costa Rica.](etheria-images/2022/08/costa-rica-gallo-pinto.jpg "Gallo pinto, plato tradicional de Costa Rica.")
 
 ### María Luz Jiménez, tras el corazón de la palmera
 
@@ -67,7 +67,7 @@ excelente excusa para incluir esta parada en una ruta por Costa Rica.
 
 ? Puedes escuchar su testimonio en este [vídeo](https://youtu.be/uMvNHSe-Wqo). 
 
-![María Luz Jiménez, fundadora de Palmitour](etheria_images/2022/08/Maria-Luz-Jimenez-Palmitour.jpg "María Luz Jiménez, fundadora de Palmitour.")
+![María Luz Jiménez, fundadora de Palmitour](etheria-images/2022/08/Maria-Luz-Jimenez-Palmitour.jpg "María Luz Jiménez, fundadora de Palmitour.")
 
 ## Y ya que estás en Sarapiquí, no te pierdas estas 5 visitas:
 
@@ -80,7 +80,7 @@ convertido en uno de los **destinos de ecoturismo** preferidos por los viajeros 
 por su modo de vida como por ser punto de partida para visitar varias reservas 
 biológicas y parajes naturales llenos de interés. 
 
-![Puerto Viejo, en Sarapiquí.](etheria_images/2022/08/costa-rica-puerto-viejo.jpg "Puerto Viejo, en Sarapiquí.")
+![Puerto Viejo, en Sarapiquí.](etheria-images/2022/08/costa-rica-puerto-viejo.jpg "Puerto Viejo, en Sarapiquí.")
 
 ### 2\. Río Sarapiquí
 
@@ -92,7 +92,7 @@ sensación de cercanía con la naturaleza más auténtica que invade a los viaje
 visitan Costa Rica. Es una vía de transporte fluvial fundamental para las plantaciones 
 de banano y podrás tomar sus divertidos **taxis de agua** para desplazarte por el río. 
 
-![Río Sarapiquí, en Costa Rica.](etheria_images/2022/08/costa-rica-rio-Sarapiqui.jpg "Río Sarapiquí, en Costa Rica.")
+![Río Sarapiquí, en Costa Rica.](etheria-images/2022/08/costa-rica-rio-Sarapiqui.jpg "Río Sarapiquí, en Costa Rica.")
 
 ### 3\. Parque Nacional de Braulio Carrillo
 
@@ -106,7 +106,7 @@ que es el más grande en extensión de Costa Rica. En este parque podrás montar
 divertido teleférico y realizar actividades como el canopy. No te pierdas tampoco su 
 jardín de orquídeas, el jardín de mariposas y el terrarium. 
 
-![Río Sucio y La Hondura, en el Parque Nacional Braulio Carrillo.](etheria_images/2022/08/Rio-Sucio-y-La-Hondura-parque-Braulio-Carrillo.jpg "Río Sucio y La Hondura, en el Parque Nacional Braulio Carrillo.")
+![Río Sucio y La Hondura, en el Parque Nacional Braulio Carrillo.](etheria-images/2022/08/Rio-Sucio-y-La-Hondura-parque-Braulio-Carrillo.jpg "Río Sucio y La Hondura, en el Parque Nacional Braulio Carrillo.")
 
 ### 4\. Estación Biológica La Selva
 
@@ -120,7 +120,7 @@ en el dosel del bosque y buscan cómo tocar el suelo que les queda 40 metros má
 hasta las **hormigas bala**, de las que se dice que provocan la picadura más dolorosa 
 del mundo. 
 
-![Estación Biológica La Selva, en Sarapiquí](etheria_images/2022/08/costa-rica-La-Selva.jpg "Estación Biológica La Selva, en Sarapiquí (Costa Rica).")
+![Estación Biológica La Selva, en Sarapiquí](etheria-images/2022/08/costa-rica-La-Selva.jpg "Estación Biológica La Selva, en Sarapiquí (Costa Rica).")
 
 ### 5\. Catarata La Paz
 
@@ -135,7 +135,7 @@ comederos para **colibríes**, podrás verlos muy de cerca y comprobar la veloci
 que baten sus alas. Es un lugar perfecto para pasar una jornada, ya que dispone de 
 restaurante y todo tipo de servicios. 
 
-![Catarata La Paz, en Sarapiquí.](etheria_images/2022/08/sarapiqui-catarata-paz.jpg "Catarata La Paz, en Sarapiquí.")
+![Catarata La Paz, en Sarapiquí.](etheria-images/2022/08/sarapiqui-catarata-paz.jpg "Catarata La Paz, en Sarapiquí.")
 
 ## Qué más hacer en Sarapiquí para que sea una aventura inolvidable
 
@@ -149,7 +149,7 @@ afluentes (Pozo Azul, San Ramón, Tirimbina, Bijagual, Peje…) son un lugar per
 practicar deportes como el rafting, la navegación deportiva, el kayak o para dar un 
 paseo en balsa. 
 
-![Rafting en un bonito paisaje natural de Sarapiquí](etheria_images/2022/08/rafting-sarapiqui-costa-rica.jpg "Rafting en un bonito paisaje natural de Sarapiquí (Costa Rica).")
+![Rafting en un bonito paisaje natural de Sarapiquí](etheria-images/2022/08/rafting-sarapiqui-costa-rica.jpg "Rafting en un bonito paisaje natural de Sarapiquí (Costa Rica).")
 
 ### 2\. Practica el ecoturismo
 
@@ -159,7 +159,7 @@ recorridos con calma y los ojos bien abiertos para no perder detalle. Dos de las
 importantes son el **Parque Nacional de Braulio Carrillo** y la **Estación Biológica La 
 Selva**, de las que ya os hemos hablado. 
 
-![Plantación de café en Costa Rica.](etheria_images/2022/08/Costa-rica-Central-Valley-plantacion-cafe-683x1024.jpg "Plantación de café en Costa Rica.")
+![Plantación de café en Costa Rica.](etheria-images/2022/08/Costa-rica-Central-Valley-plantacion-cafe-683x1024.jpg "Plantación de café en Costa Rica.")
 
 ### 3\. Disfruta con el avistamiento de aves
 
@@ -171,7 +171,7 @@ los ruanos, entre otras. Además, es una zona muy importante tanto por la invest
 científica que se desarrolla como por ser un lugar de gran importancia para la 
 continuidad del Corredor Biológico Mesoamericano. 
 
-![La esmeralda capirotada​ es un ave endémica de Costa Rica.](etheria_images/2022/08/sarapiqui-aves-elvira-cupreiceps.jpg "La esmeralda capirotada​ es un ave endémica de Costa Rica.")
+![La esmeralda capirotada​ es un ave endémica de Costa Rica.](etheria-images/2022/08/sarapiqui-aves-elvira-cupreiceps.jpg "La esmeralda capirotada​ es un ave endémica de Costa Rica.")
 
 ### 4\. Degusta sus frutas y verduras
 
@@ -181,7 +181,7 @@ cultivos frutales y se pueden visitar fincas productoras de palmito, cacao, caf�
 banano… Como ya os hemos contado, **Soda Marielos y Palmitour** son dos restaurantes que 
 tienen que estar en vuestra ruta para probar la mejor cocina costarricense. 
 
-![Plato típico de Costa Rica](etheria_images/2022/08/plato-tipico-sarapiqui-costa-rica.jpg "Gastronomía tradicional de Costa Rica.")
+![Plato típico de Costa Rica](etheria-images/2022/08/plato-tipico-sarapiqui-costa-rica.jpg "Gastronomía tradicional de Costa Rica.")
 
 ### 5\. Conoce su historia y su ambiente multicultural
 

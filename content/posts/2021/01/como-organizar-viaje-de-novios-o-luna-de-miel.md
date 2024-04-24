@@ -1,13 +1,13 @@
 ---
 title: "Cómo organizar un viaje de novios inolvidable y no morir en el intento"
 date: 2021-01-13
-coverImage: etheria_images/2021/01/viaje-de-novios-maldivas.jpg
+coverImage: etheria-images/2021/01/viaje-de-novios-maldivas.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si te casas este año ya es momento de empezar a pensar en tu viaje de novios. Queremos 
@@ -15,7 +15,7 @@ ayudarte con la elección de un viaje que tiene que salir bien, así que te hace
 serie de preguntas para que te pares a pensar antes de elegir el destino de tu luna de 
 miel y el tipo de viaje. ¿Empezamos? 
 
-![pareja en sillas de colores frente al mar](etheria_images/2021/01/viaje-novios-playa.jpg "Viaje de novios junto al mar.")
+![pareja en sillas de colores frente al mar](etheria-images/2021/01/viaje-novios-playa.jpg "Viaje de novios junto al mar.")
 
 Se acerca el gran día y, entre preparativos de todo tipo está también la tarea de 
 decidir dónde pasar el viaje de novios. Aunque este cometido sea probablemente la parte 
@@ -37,7 +37,7 @@ otros el viaje lo harás con un clima más frío, como [Sudáfrica](https://ethe
 Aunque este último país es tan grande que alberga bastantes diferencias entre el norte y 
 el sur. 
 
-![pareja divirtiéndose en el mar](etheria_images/2021/01/viajes-novios-pareja.jpg "Unos días en la playa al final de una luna de miel son una opción perfecta.")
+![pareja divirtiéndose en el mar](etheria-images/2021/01/viajes-novios-pareja.jpg "Unos días en la playa al final de una luna de miel son una opción perfecta.")
 
 Otro factor importante son los **monzones en Asia** que dejan lluvias en verano. No es 
 una condición como para renunciar a un viaje a [Tailandia](https://etheriamagazine.com/2020/01/02/que-llevar-en-maleta-viaje-tailandia/) 
@@ -56,7 +56,7 @@ suele hacer viento; la mejor opción es alojarse en la costa oeste, que está m�
 resguardada. Las **islas Maldivas** reciben al monzón húmedo de mayo a octubre, pero hay 
 buena temperatura y suele manifestarse solo con tormentas vespertinas. 
 
-![dos tumbonas en una playa de Maldivas](etheria_images/2021/01/viaje-de-novios-maldivas.jpg "Rincón en Maldivas. © Upgraded Points")
+![dos tumbonas en una playa de Maldivas](etheria-images/2021/01/viaje-de-novios-maldivas.jpg "Rincón en Maldivas. © Upgraded Points")
 
 Por otro lado, en la **zona del Caribe**, la mejor época para viajar es entre diciembre 
 y mayo. De junio a octubre te encontrarás con lluvias y con la posibilidad de vivir en 
@@ -72,7 +72,7 @@ la tumbona de un buen hotel o por un viaje cultural. O combinar varias de estas 
 si no os ponéis de acuerdo. No hay nada como dedicar una semana o diez días a una ruta 
 activa o cultural y terminar con unos días de total descanso en la playa. 
 
-![pareja en lo alto de una montaña](etheria_images/2021/01/viajes-novios-san-francisco.jpg "Recién casados en la bahía de San Francisco. © Fernando Gago")
+![pareja en lo alto de una montaña](etheria-images/2021/01/viajes-novios-san-francisco.jpg "Recién casados en la bahía de San Francisco. © Fernando Gago")
 
 Entre los **viajes de naturaleza**, son perfectos destinos como Costa Rica, Argentina, 
 los Parques Nacionales de Estados Unidos o Nueva Zelanda. En ellos podrás incluir 
@@ -80,7 +80,7 @@ actividades de turismo activo como senderismo, rafting, descenso de cañones… 
 supuesto, los safaris en África, que además combinan fenomenal con unos días de descanso 
 al final en alguna de sus islas paradisíacas, como Seychelles, Zanzíbar o isla Mauricio. 
 
-![cebras y búfalos en la sabana africana](etheria_images/2021/01/viaje-novios-africa.jpg "Un safari en África es una buena opción para una luna de miel.")
+![cebras y búfalos en la sabana africana](etheria-images/2021/01/viaje-novios-africa.jpg "Un safari en África es una buena opción para una luna de miel.")
 
 Si siempre estáis buscando juntar días de vacaciones para hacer esa **ruta cultural** 
 que tenéis pendiente, aprovechad la luna de miel. Los países asiáticos siempre son un 
@@ -93,7 +93,7 @@ Vietnam, un combinado de Laos y Camboya o Japón son también opciones excelente
 puedes acabar el viaje con una estancia en las islas Maldivas, por ejemplo, aunque los 
 vuelos serán algo más largos. 
 
-![una pareja de novios en Sri Lanka](etheria_images/2021/01/pareja-novios-sri-lanka.jpg "Pareja de novios en Sri Lanka.")
+![una pareja de novios en Sri Lanka](etheria-images/2021/01/pareja-novios-sri-lanka.jpg "Pareja de novios en Sri Lanka.")
 
 Si lo que buscas es un destino exótico que te rompa los esquemas, [India](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/) 
 es perfecto (pero no vayas en mayo que hace un calor insoportable). **Sri Lanka** 
@@ -104,7 +104,7 @@ Como última recomendación para tu viaje de novios a un destino cultural te pro
 Sorprendente, seguro y absolutamente maravilloso. No te dejará indiferente y es un 
 destino perfecto para las bodas de primavera y otoño. 
 
-![pareja en la playa de Maldivas](etheria_images/2021/01/viajes-novios-isla-desierta.jpg "En islas exóticas como Maldivas puedes disfrutar de deportes acuáticos.")
+![pareja en la playa de Maldivas](etheria-images/2021/01/viajes-novios-isla-desierta.jpg "En islas exóticas como Maldivas puedes disfrutar de deportes acuáticos.")
 
 En cuanto a las **lunas de miel del ‘dolce far niente’**, en las que tirarse en una 
 tumbona y disfrutar del mar y la playa, el mundo está lleno de islas exóticas con una 
@@ -125,7 +125,7 @@ estrellas. Lo mejor es **definir un presupuesto algo por debajo de lo que te pue
 gastar**. Así iréis tranquilos y podréis hacer frente a gastos con los que a lo mejor no 
 has contado (visados, tasas locales, entradas, excursiones…). 
 
-![pareja en una barca en Tailandia](etheria_images/2021/01/viaje-novios-khao-sok-national-park.jpg "Pareja disfrutando del lago del Parque Nacional Khao Sok de Tailandia.")
+![pareja en una barca en Tailandia](etheria-images/2021/01/viaje-novios-khao-sok-national-park.jpg "Pareja disfrutando del lago del Parque Nacional Khao Sok de Tailandia.")
 
 A partir de aquí, infórmate sobre si hay alguna forma más económica de visitar ese 
 destino deseado. Siempre **puedes reducir costes** en el tipo de hotel en el que te 
@@ -160,7 +160,7 @@ los seguros necesarios para que no haya imprevistos y puedas solucionar cualquie
 incidencia en destino. Algunas a las que puedes acudir son [Catai](https://www.catai.es) 
 y [Viajes El Corte Inglés](https://www.viajeselcorteingles.es). 
 
-![pareja dándose un beso en un muelle en Tailandia](etheria_images/2021/01/viaje-novios-tailandia.jpg "Luna de miel en Tailandia.")
+![pareja dándose un beso en un muelle en Tailandia](etheria-images/2021/01/viaje-novios-tailandia.jpg "Luna de miel en Tailandia.")
 
 Si no te da pereza combinar los preparativos de la boda con la organización del viaje, 
 ponte manos a la obra con varios meses de antelación. Lo primero es **seleccionar los 
@@ -175,7 +175,7 @@ Después, **selecciona los hoteles**, puedes comparar precios y opiniones en var
 plataformas como Booking, Trivago o Trip Advisors. Y en un viaje de novios es mejor 
 llevar los alojamientos reservados con anterioridad para no tener sorpresas. 
 
-![pareja al atardecer](etheria_images/2021/01/viaje-de-novios-pareja.jpg "Pareja al atardecer. © Alex Iby")
+![pareja al atardecer](etheria-images/2021/01/viaje-de-novios-pareja.jpg "Pareja al atardecer. © Alex Iby")
 
 Por último, infórmate sobre **excursiones** en empresas turísticas locales o en 
 plataformas como [Civitatis](https://www.civitatis.com/es/?aid=10211). También te 

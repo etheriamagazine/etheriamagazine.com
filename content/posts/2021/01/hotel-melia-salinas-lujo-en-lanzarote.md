@@ -1,18 +1,18 @@
 ---
 title: "Escapada al renovado hotel Meliá Salinas de Lanzarote"
 date: 2021-01-07
-coverImage: etheria_images/2021/01/hotel-melia-salinas-piscina.jpg
+coverImage: etheria-images/2021/01/hotel-melia-salinas-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Hay hoteles que merecen una escapada en sí mismos, pero si además están en una isla con tantos alicientes como Lanzarote, el plan no puede ser más perfecto. El emblemático Meliá Salinas acaba de ser renovado y no se nos ocurren mejores vacaciones que pasar unos días disfrutando de sus instalaciones. ¿Te apuntas?
 
-![hoteles en lanzarote](etheria_images/2021/01/hotel-melia-salinas-playa.jpg "Hotel Meliá Salinas, en Lanzarote.")
+![hoteles en lanzarote](etheria-images/2021/01/hotel-melia-salinas-playa.jpg "Hotel Meliá Salinas, en Lanzarote.")
 
 El Meliá Salinas es probablemente el hotel más emblemático de Lanzarote. Inaugurado en 
 1977, obtuvo dos años después el Premio Nacional de Arquitectura y ha sido declarado 
@@ -24,7 +24,7 @@ Además, cuenta con una baza que lo hace todavía más atractivo: su **apuesta p
 sostenibilidad** desde su creación, en un momento de la historia en el que muy pocos 
 estaban pendientes de cuidar la salud del planeta. 
 
-![vacaciones en Lanzarote.](etheria_images/2021/01/hotel-melia-salinas-piscina.jpg "Piscina diseñada por Manrique en Lanzarote.")
+![vacaciones en Lanzarote.](etheria-images/2021/01/hotel-melia-salinas-piscina.jpg "Piscina diseñada por Manrique en Lanzarote.")
 
 El gran **César Manrique** y el arquitecto **Fernando Higueras** fueron los elegidos 
 para dar forma al Meliá Salinas. Higueras ideó un edificio donde el hormigón y la 
@@ -44,13 +44,13 @@ Vista Mar y las habitaciones The Level (The Level Vista Mar, The Level Junior Su
 Level Grand Suite y The Level Penthouse). Los alojamientos dentro de la categoría **The 
 Level** son exclusivamente para adultos. 
 
-![hoteles de lujo en Lanzarote.](etheria_images/2021/01/hotel-melia-salinas-junior-Suite.jpg "Junior Suite del Meliá Salinas.")
+![hoteles de lujo en Lanzarote.](etheria-images/2021/01/hotel-melia-salinas-junior-Suite.jpg "Junior Suite del Meliá Salinas.")
 
 Las **nuevas villas** también se engloban bajo la marca The Level, y alojarse en una de 
 ellas puede ser ese capricho que llevas tiempo queriendo regalarte. Son auténticos 
 espacios para el descanso y aportan un extra de privacidad que siempre es bienvenido. 
 
-![villas en Lanzarote](etheria_images/2021/01/hotel-melia-salinas-villa-presidencial.jpg "Villa Presidencial en el Meliá Salinas.")
+![villas en Lanzarote](etheria-images/2021/01/hotel-melia-salinas-villa-presidencial.jpg "Villa Presidencial en el Meliá Salinas.")
 
 Han sido diseñadas por el arquitecto Álvaro Sanz, que ha respetado la botánica del 
 espacio evitando talar ninguna palmera y que las ha colocado con la ubicación perfecta, 
@@ -69,7 +69,7 @@ diseño de excursiones y experiencias a medida… Además, en las habitaciones T
 tendrás al llegar un detalle de bienvenida, servicio diario de descubierta, carta de 
 almohadas y muchas otras ventajas. 
 
-![lujo en Lanzarote](etheria_images/2021/01/hotel-melia-salinas-hall.jpg "Relajantes sillas en el Meliá Salinas.")
+![lujo en Lanzarote](etheria-images/2021/01/hotel-melia-salinas-hall.jpg "Relajantes sillas en el Meliá Salinas.")
 
 Los clientes de The Level cuentan también con una serie de **espacios de acceso 
 exclusivo** que aportan un 'plus' de exclusividad a las vacaciones: en **The Level 
@@ -87,7 +87,7 @@ atrevan a darle una vuelta con nuevas texturas y presentaciones es realmente un 
 En el Meliá Salinas degustarás cocina canaria de autor combinada con platos de cocina 
 internacional y mediterránea para que cada día tus almuerzos y cenas sean diferentes. 
 
-![Restaurantes de lujo en Lanzarote](etheria_images/2021/01/hotel-Melia-Salinas-Mosaico-Bar.jpg "Restaurante Mosaico en el Meliá Salinas.")
+![Restaurantes de lujo en Lanzarote](etheria-images/2021/01/hotel-Melia-Salinas-Mosaico-Bar.jpg "Restaurante Mosaico en el Meliá Salinas.")
 
 **Mosaico** es el restaurante gastronómico y se ha convertido en un referente en la isla 
 tanto por su atractiva carta como por ser un espacio abierto a la espectacular piscina 
@@ -110,12 +110,12 @@ resistirte: el **Wellness Concierge**, con tratamientos personalizados que podr�
 tras una entrevista en la que analizarán tu estilo de vida, las características de tu 
 piel, etc. ¿Se puede pedir más? 
 
-![tratamientos wellness](etheria_images/2021/01/hotel-melia-salinas-spa.jpg "Masaje en el hotel Meliá Salinas.")
+![tratamientos wellness](etheria-images/2021/01/hotel-melia-salinas-spa.jpg "Masaje en el hotel Meliá Salinas.")
 
 Si hay un espacio que acapara todas las miradas es la **piscina-laguna** de 1.800 metros 
 cuadrados diseñada por César Manrique, que además está climatizada y tiene agua de mar. 
 
-![Jorge Manrique](etheria_images/2021/01/hotel-melia-salinas-vista-piscina.jpg "Piscina-laguna del hotel Meliá Salinas.")
+![Jorge Manrique](etheria-images/2021/01/hotel-melia-salinas-vista-piscina.jpg "Piscina-laguna del hotel Meliá Salinas.")
 
 Las vacaciones son un momento perfecto para sentirse activa y disfrutar aún más de las 
 rutinas deportivas. En el Meliá Salinas podrás elegir entre sus tres pistas de tenis, un 

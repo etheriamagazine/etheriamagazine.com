@@ -1,13 +1,13 @@
 ---
 title: "Hotel Barceló La Nucía Palms, lujo y relax a un paso de las playas de Alicante"
 date: 2023-09-25
-coverImage: etheria_images/2023/09/barcelo-la-nuncia-palms-piscina.jpg
+coverImage: etheria-images/2023/09/barcelo-la-nuncia-palms-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El Barceló La Nucía Palms es un oasis de lujo en Alicante, un hotel de cinco estrellas 
@@ -16,7 +16,7 @@ perfecto para una escapada a esta provincia, a medio camino entre sus playas y s
 pueblos y tesoros menos conocidos del interior. Anímate y no dudes en organizar aquí 
 unos días de desconexión con tu familia o amigas. 
 
-![B-Heaven es el bar de la terraza del Barceló La Nucía Palms.](etheria_images/2023/09/barcelo-la-nuncia-palms-terraza.jpg "B-Heaven es el bar de la terraza del Barceló La Nucía Palms.")
+![B-Heaven es el bar de la terraza del Barceló La Nucía Palms.](etheria-images/2023/09/barcelo-la-nuncia-palms-terraza.jpg "B-Heaven es el bar de la terraza del Barceló La Nucía Palms.")
 
 Al abrigo de la alicantina sierra de Aitana se ubica el Barceló La Nucía Palms, entre 
 Benidorm y Altea y a siete kilómetros de la costa. Un enclave perfecto para los que 
@@ -30,7 +30,7 @@ Si lo eliges para tus próximas vacaciones, en seguida te enamorarás de sus jar
 palmeras y de su piscina, con tumbonas en el agua y rodeada de rincones donde 
 desconectar con un libro en la mano. 
 
-![Piscina del hotel Barceló La Nucía Palms.](etheria_images/2023/09/barcelo-la-nuncia-palms-piscina.jpg "Piscina del hotel Barceló La Nucía Palms.")
+![Piscina del hotel Barceló La Nucía Palms.](etheria-images/2023/09/barcelo-la-nuncia-palms-piscina.jpg "Piscina del hotel Barceló La Nucía Palms.")
 
 ## Habitaciones
 
@@ -41,7 +41,7 @@ y presupuesto: Superior, Junior Suite, Junior Suite Premium, Junior Suite Deluxe
 Suite. En las Superior y Junior Suite puedes elegir también si las prefieres con vista 
 al mar o a la piscina y también las hay con balcón o terraza. 
 
-![Junior Suite Deluxe del Barceló La Nuncia Palms.](etheria_images/2023/09/barcelo-la-nuncia-palms-habitacion-junior.jpg "Junior Suite Deluxe.")
+![Junior Suite Deluxe del Barceló La Nuncia Palms.](etheria-images/2023/09/barcelo-la-nuncia-palms-habitacion-junior.jpg "Junior Suite Deluxe.")
 
 Las **Junior Suite** y las **Suites** son la mejor opción si te quieres dar un capricho. 
 Cuentan con zonas de estar separadas y son perfectas si viajas en familia, ya que 
@@ -60,7 +60,7 @@ llegada un circuito de spa por persona por cada cuatro noches de estancia y _lat
 out_ hasta las 15 h, por si quieres aprovechar el último día la habitación. Eso sí, ten 
 en cuenta que este Club Premium sólo está disponible durante el verano. 
 
-![Salón de una suite del hotel Barceló La Nucía Palms.](etheria_images/2023/09/barcelo-la-nuncia-palms-suite.jpg "Salón de una suite del hotel Barceló La Nucía Palms.")
+![Salón de una suite del hotel Barceló La Nucía Palms.](etheria-images/2023/09/barcelo-la-nuncia-palms-suite.jpg "Salón de una suite del hotel Barceló La Nucía Palms.")
 
 ## Gastronomía en el hotel
 
@@ -71,7 +71,7 @@ de platos mediterráneos, muchos cocinados en vivo. Otra es el centro de la vida
 hotel durante el verano, el **Snack Bar Piscina La Santa María**, decorado con un 
 ambiente alegre y playero y que ofrece una deliciosa selección de tapas gourmet. 
 
-![Snack Bar Piscina La Santa María del Barceló La Nucía Palms](etheria_images/2023/09/barcelo-la-nuncia-palms-bar-piscina.jpg "Snack Bar Piscina La Santa María.")
+![Snack Bar Piscina La Santa María del Barceló La Nucía Palms](etheria-images/2023/09/barcelo-la-nuncia-palms-bar-piscina.jpg "Snack Bar Piscina La Santa María.")
 
 Y, para terminar la jornada de la mejor manera, ¿qué te parece un cóctel en 
 **B-Heaven**? Este _rooftop bar_ ofrece unas vistas espectaculares de la sierra de 
@@ -87,7 +87,7 @@ de Wellness & Fitness** que combina un completo spa con piscina de hidromasaje, 
 baño turco, piscina de aguas y salas de instalaciones con un moderno gimnasio con las 
 todas las máquinas que puedas necesitar. 
 
-![Spa del Barceló La Nucía Palms.](etheria_images/2023/09/barcelo-la-nuncia-palms-spa.jpg "Spa del Barceló La Nucía Palms.")
+![Spa del Barceló La Nucía Palms.](etheria-images/2023/09/barcelo-la-nuncia-palms-spa.jpg "Spa del Barceló La Nucía Palms.")
 
 [Barceló La Nucía Palms.](https://www.barcelo.com/es-es/barcelo-la-nucia-palms/) Partida 
 Buena Vista, 2. Alicante. Precio desde 118 Euros por noche en habitación doble. © 

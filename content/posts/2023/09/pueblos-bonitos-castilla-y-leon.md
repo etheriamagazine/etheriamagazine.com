@@ -1,14 +1,14 @@
 ---
 title: "12 pueblos bonitos en Castilla y León que no puedes perderte"
 date: 2023-09-13
-coverImage: etheria_images/2021/12/segovia-Sepulveda.jpg
+coverImage: etheria-images/2021/12/segovia-Sepulveda.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Viajar a los entornos rurales en España es uno de los mejores planes de fin de semana 
@@ -17,7 +17,7 @@ castillos, murallas e iglesias románicas. Unas localidades que añaden al inter
 artístico el gastronómico y paisajístico formando así escapadas redondas con las que el 
 disfrute está asegurado. 
 
-![ciudad de sepulveda rutas en segovia](etheria_images/2021/03/segovia-Sepulveda.jpg "Panorámica de la bella localidad de Sepúveda. © Turismo Diputación de Segovia")
+![ciudad de sepulveda rutas en segovia](etheria-images/2021/03/segovia-Sepulveda.jpg "Panorámica de la bella localidad de Sepúveda. © Turismo Diputación de Segovia")
 
 Hay infinidad de pueblos bonitos en España y muchos de ellos se ubican en la comunidad 
 autónoma de Castilla y León. Lo de “bonito” no deja de ser un criterio subjetivo, con 
@@ -41,7 +41,7 @@ Plaza Mayor.
 ✅ [Sepúlveda y las hoces del Duratón para toda la 
 familia](https://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/) 
 
-![Plaza Mayor de la Villa de Sepúlveda.](etheria_images/2023/09/sepulveda-plaza.jpg "Plaza Mayor de la Villa de Sepúlveda.")
+![Plaza Mayor de la Villa de Sepúlveda.](etheria-images/2023/09/sepulveda-plaza.jpg "Plaza Mayor de la Villa de Sepúlveda.")
 
 ## Ayllón
 
@@ -54,7 +54,7 @@ muestras perfectas de la arquitectura tradicional castellana. También la gastro
 con el cordero asado y los judiones de la Granja son un suculento aliciente para tu 
 visita. 
 
-![Plaza Mayor de Ayllón.](etheria_images/2023/09/ayllon-plaza.jpg "Plaza Mayor de Ayllón.")
+![Plaza Mayor de Ayllón.](etheria-images/2023/09/ayllon-plaza.jpg "Plaza Mayor de Ayllón.")
 
 ## Covarrubias
 
@@ -68,7 +68,7 @@ pasarse por el Monasterio benedictino de San Pedro de Arlanza, del siglo X. Para
 terminar, el **Museo de los Dinosaurios** es una parada imprescindible si se viaja con 
 niños para ver su excepcional yacimiento de icnitas (huellas de dinosaurio). 
 
-![Iglesia de San Cosme y Damián de Covarrubias.](etheria_images/2023/09/iglesia-san-cosme-damian-covarrubias.jpg "Iglesia de San Cosme y Damián de Covarrubias.")
+![Iglesia de San Cosme y Damián de Covarrubias.](etheria-images/2023/09/iglesia-san-cosme-damian-covarrubias.jpg "Iglesia de San Cosme y Damián de Covarrubias.")
 
 ## Frías
 
@@ -83,7 +83,7 @@ que es un punto de partida perfecto para conocerla.
 ✅ [Ruta para desconectar en Las Merindades de 
 Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/) 
 
-![merindades, burgos, pueblo frias](etheria_images/2019/05/ruta-merindades-pueblo-frias.jpg "Frías, uno de los emblemas medievales de Las Merindades.")
+![merindades, burgos, pueblo frias](etheria-images/2019/05/ruta-merindades-pueblo-frias.jpg "Frías, uno de los emblemas medievales de Las Merindades.")
 
 ## Mogarraz
 
@@ -104,7 +104,7 @@ Salamanca](https://etheriamagazine.com/2019/10/07/que-ver-en-mogarraz-pueblo-de-
 ✅ [Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
 Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/). 
 
-![Mogarraz conserva su arquitectura tradicional de piedra y madera](etheria_images/2023/09/mogarraz-calle.jpg "Mogarraz conserva su arquitectura tradicional de piedra y madera. © Etheria Magazine")
+![Mogarraz conserva su arquitectura tradicional de piedra y madera](etheria-images/2023/09/mogarraz-calle.jpg "Mogarraz conserva su arquitectura tradicional de piedra y madera. © Etheria Magazine")
 
 ## Urueña
 
@@ -119,7 +119,7 @@ atractivo que distingue a Urueña de otros pueblos castellanos es que es una de 
 bibliófilos. No te pierdas tampoco el **Centro e-LEA Miguel Delibes** y sus curiosos 
 museos. 
 
-![castillo uruena, villa del libro, escapadas valladolid](etheria_images/2020/05/Uruena-villa-del-libro-castillo-valladolid-900x605.jpg "Panorámica con el castillo de Urueña al fondo. © Pedro Grifol")
+![castillo uruena, villa del libro, escapadas valladolid](etheria-images/2020/05/Uruena-villa-del-libro-castillo-valladolid-900x605.jpg "Panorámica con el castillo de Urueña al fondo. © Pedro Grifol")
 
 ✅ [Conoce Urueña, un pueblo ‘de libro’ en 
 Valladolid](https://etheriamagazine.com/2020/05/22/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid/) 
@@ -134,7 +134,7 @@ San Nicolás de Bari y el Museo de los Señores de Bembibre, que exhibe objetos 
 comarca y del Camino de Santiago. Y, por supuesto, el viaje se completa con excursiones 
 por **El Bierzo** y, si es verano, con un baño en la piscina natural del río Meruelo. 
 
-![Molinaseca](etheria_images/2023/09/molinaseca.jpg "Molinaseca. © Los Pueblos Más Bonitos de España.")
+![Molinaseca](etheria-images/2023/09/molinaseca.jpg "Molinaseca. © Los Pueblos Más Bonitos de España.")
 
 ## Madrigal de las Altas Torres
 
@@ -149,7 +149,7 @@ de Juan II (con un museo sobre la famosa reina), entre otros monumentos.
 ✅ [Madrigal de las Altas Torres, una excursión a la cuna de Isabel la 
 Católica](https://etheriamagazine.com/2022/02/14/que-ver-madrigal-altas-torres/) 
 
-![Madrigal de las Altas Torres.](etheria_images/2023/09/Panoramica-Madrigal.jpg "Madrigal de las Altas Torres. © Tatavasco Imágenes.")
+![Madrigal de las Altas Torres.](etheria-images/2023/09/Panoramica-Madrigal.jpg "Madrigal de las Altas Torres. © Tatavasco Imágenes.")
 
 ## Puebla de Sanabria
 
@@ -165,7 +165,7 @@ el bonito Puente de la Reina.
 ✅ [Descubre el lago de Sanabria y otros encantos de la Escocia 
 zamorana](https://etheriamagazine.com/2020/10/07/ruta-en-lago-sanabria-leyendas-hotel-camping/) 
 
-![Puebla de Sanabria.](etheria_images/2023/09/zamora-puebla-sanabria.jpg "Puebla de Sanabria.")
+![Puebla de Sanabria.](etheria-images/2023/09/zamora-puebla-sanabria.jpg "Puebla de Sanabria.")
 
 ## Frómista
 
@@ -177,7 +177,7 @@ Museo de Frómista. Para completar un fin de semana, el **Canal de Castilla** of
 bonitos recorridos para realizar a pie o en bicicleta y descubrir así este poco conocido 
 entorno natural. 
 
-![Iglesia de San Martín, en Frómista.](etheria_images/2023/09/an-martin-fromista-palencia.jpg "Iglesia de San Martín, en Frómista.")
+![Iglesia de San Martín, en Frómista.](etheria-images/2023/09/an-martin-fromista-palencia.jpg "Iglesia de San Martín, en Frómista.")
 
 ## Ampudia
 
@@ -190,7 +190,7 @@ paseo que lleva por lugares como la iglesia gótica de San Miguel (con un bonito
 barroco y una torre que define el perfil de la villa) y el Palacio renacentista de los 
 Barones de Ampudia. 
 
-![Castillo de Ampudia.](etheria_images/2023/09/castillo-ampudia-palencia.jpg "Castillo de Ampudia.")
+![Castillo de Ampudia.](etheria-images/2023/09/castillo-ampudia-palencia.jpg "Castillo de Ampudia.")
 
 ## Calatañazor
 
@@ -203,7 +203,7 @@ románico. Calatañazor también tiene castillo, en este caso en ruinas, que ofr
 vistas espectaculares de los alrededores. Y para dar un paseo, nada como acercarse a la 
 **ermita de San Juan** para conocerla y disfrutar de la naturaleza que rodea al pueblo. 
 
-![Calle de Calatañazor.](etheria_images/2023/09/calatanazor-soria.jpg "Calle de Calatañazor.")
+![Calle de Calatañazor.](etheria-images/2023/09/calatanazor-soria.jpg "Calle de Calatañazor.")
 
 ? **También te puede interesar:** 
 

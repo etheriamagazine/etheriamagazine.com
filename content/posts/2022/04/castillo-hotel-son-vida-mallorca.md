@@ -1,18 +1,18 @@
 ---
 title: "Castillo Hotel Son Vida, una experiencia de lujo inolvidable"
 date: 2022-04-20
-coverImage: etheria_images/2022/04/Son-vida-fachada.jpg
+coverImage: etheria-images/2022/04/Son-vida-fachada.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Mallorca es uno de los mejores lugares del mundo para hacer una escapada de capricho, de esas de tirar la casa por la ventana para disfrutar de la vida. Para hacerlo como se merece, te proponemos que te alojes en el Castillo Hotel Son Vida, a Luxury Collection hotel, de la cadena Marriot. Vivirás una experiencia de lujo inolvidable.
 
-![entrada del hotel Son Vida](etheria_images/2022/04/Son-vida-fachada.jpg "Fachada del Castillo Hotel Son Vida.")
+![entrada del hotel Son Vida](etheria-images/2022/04/Son-vida-fachada.jpg "Fachada del Castillo Hotel Son Vida.")
 
 El Castillo Hotel Son Vida es uno de los hoteles históricos de Palma, refugio de 
 aquellos que querían disfrutar de los placeres de la isla sin renunciar a un espacio 
@@ -28,7 +28,7 @@ lo alto, este hotel es una excelente alternativa para alojarte. Eso sí, ten en 
 que desde 2021 es un **hotel sólo para adultos,** en concreto para mayores de dieciséis 
 años. 
 
-![tumbonas en el Castillo Hotel Son Vida](etheria_images/2022/04/Son-vida-piscina.jpg "Piscina del Castillo Hotel Son Vida.")
+![tumbonas en el Castillo Hotel Son Vida](etheria-images/2022/04/Son-vida-piscina.jpg "Piscina del Castillo Hotel Son Vida.")
 
 La última renovación de las habitaciones se ha hecho de la mano del estudio de 
 interiorismo Goddard Littlefair que ha tenido muy en cuenta la personalidad del hotel a 
@@ -48,7 +48,7 @@ cama… Además, no se puede estar más cómodo en ellas gracias a todo lo que o
 gratis, televisiones de pantalla plana, servicio de habitaciones 24 horas y artículos de 
 tocador exclusivos, entre otros detalles. 
 
-![cama y zona de estar de una habitacion del castillo hotel son vida](etheria_images/2022/04/son-vida-habitacion-deluxe.jpg "Habitación Deluxe del Castillo Hotel Son Vida.")
+![cama y zona de estar de una habitacion del castillo hotel son vida](etheria-images/2022/04/son-vida-habitacion-deluxe.jpg "Habitación Deluxe del Castillo Hotel Son Vida.")
 
 Hay varias categorías para que puedas elegir la que mejor se adapte a tus necesidades y 
 presupuesto. Entre las habitaciones están las Classic, Deluxe y Grand Deluxe. Y entre 
@@ -65,7 +65,7 @@ los dos, uno de sus platos fuertes es la cuidada carta de vinos, donde será dif
 quedarse con sólo una de sus propuestas; y también sus terrazas, perfectas para 
 disfrutar del buen tiempo. 
 
-![mesa con vistas a la bahía de Palma](etheria_images/2022/04/son-vida-restaurante.jpg "Mesa para almorzar en el Castillo Hotel Son Vida.")
+![mesa con vistas a la bahía de Palma](etheria-images/2022/04/son-vida-restaurante.jpg "Mesa para almorzar en el Castillo Hotel Son Vida.")
 
 Además, seguro que haces del **bar y restaurante San Font**, situado junto a la piscina, 
 uno de tus lugares preferidos del hotel. Para tomar algo, no te pierdas el elegante 
@@ -82,7 +82,7 @@ que no pueden ser más bonitas. No hay nada mejor durante las vacaciones que ded
 rato a mimarse con uno de sus tratamientos, que realizan con los productos Maria 
 Galland. 
 
-![Piscina del Spa con vistas de la bahía de Palma](etheria_images/2022/04/son-vida-piscina-spa.jpg "Piscina del Spa con zona de relax.")
+![Piscina del Spa con vistas de la bahía de Palma](etheria-images/2022/04/son-vida-piscina-spa.jpg "Piscina del Spa con zona de relax.")
 
 La **piscina** seguro que se convierte en tu centro de operaciones si viajas en verano. 
 Es preciosa, con unas vistas estupendas de Palma, y está rodeada de cómodas tumbonas de 
@@ -99,7 +99,7 @@ este deporte en el Mediterráneo. Todos los campos son diferentes, así que la e
 no puede ser más variada y divertida, además de cómoda: existe un servicio de traslado 
 gratuito entre estos cuatro campos y el Castillo Hotel Son Vida. 
 
-![piscina del hotel Son Vida](etheria_images/2022/04/son-vida-bar-piscina.jpg "Bar de la piscina del Castillo Hotel Son Vida.")
+![piscina del hotel Son Vida](etheria-images/2022/04/son-vida-bar-piscina.jpg "Bar de la piscina del Castillo Hotel Son Vida.")
 
 [Castillo Hotel Son Vida, a Luxury Collection 
 hotel](https://www.marriott.com/en-us/hotels/pmilc-castillo-hotel-son-vida-a-luxury-collection-hotel-mallorca/overview/) 

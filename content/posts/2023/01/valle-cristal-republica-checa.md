@@ -1,11 +1,11 @@
 ---
 title: "El Valle del Cristal, descubre la magia del norte de Bohemia"
 date: 2023-01-09
-coverImage: etheria_images/2023/01/museo-valle-cristal-chequia.jpg
+coverImage: etheria-images/2023/01/museo-valle-cristal-chequia.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Aunque resulte difícil de creer en un mundo tan globalizado como el nuestro, aún existen 
@@ -14,7 +14,7 @@ sus tradiciones. De secretos y de tradición saben mucho en el Valle del Cristal
 de creatividad y artesanía. Hemos recorrido la región checa de Liberec para contarte por 
 qué deberías apuntarla en tu lista de viajes pendientes para este 2023. 
 
-![Jarrón y flores del Museo del cristal y la bisutería](etheria_images/2023/01/museo-cristal-bisuteria-chequia.jpg "Pieza del Museo del Cristal y la Bisutería.")
+![Jarrón y flores del Museo del cristal y la bisutería](etheria-images/2023/01/museo-cristal-bisuteria-chequia.jpg "Pieza del Museo del Cristal y la Bisutería.")
 
 Al norte de la República Checa, en la región de Liberec, se sitúa el [Valle del 
 Cristal](https://crystalvalley.cz/en), uno de esos lugares donde la vida transcurre 
@@ -37,7 +37,7 @@ República Checa. Entre las muchas, muchísimas, cosas que se pueden hacer en es
 hay algunas que consideramos imprescindibles para una primera vez. De ellas te hablamos 
 a continuación. 
 
-![Plaza del Ayuntamiento de Liberec.](etheria_images/2023/01/Liberec.jpg "Plaza del Ayuntamiento de Liberec.")
+![Plaza del Ayuntamiento de Liberec.](etheria-images/2023/01/Liberec.jpg "Plaza del Ayuntamiento de Liberec.")
 
 ### Liberec, parada y fonda
 
@@ -55,7 +55,7 @@ pico Ještěd, donde se sitúa la **antena de telecomunicaciones y hotel Ještě
 aspecto futurista. Lo idóneo es alojarse allí pero como tiene pocas habitaciones no es 
 fácil, así que, al menos, reserva para cenar en su restaurante. 
 
-![Ayuntamiento de Liberec.](etheria_images/2023/01/liberec-ayuntamiento.jpg "Ayuntamiento de Liberec.")
+![Ayuntamiento de Liberec.](etheria-images/2023/01/liberec-ayuntamiento.jpg "Ayuntamiento de Liberec.")
 
 ### El Jardín de Cristal
 
@@ -72,7 +72,7 @@ soplado recuerdan la divinidad del ser humano.
 \*Si véis en Netflix la serie "_Puñales por la espalda: El misterio de Glass Onion_", 
 podréis ver algunas piezas de cristal elaboradas en la factoría de Jiří Pačinek. 
 
-![Pulpo en el Jardín de Cristal.](etheria_images/2023/01/jardin-cristal-liberec.jpg "Pulpo en el Jardín de Cristal.")
+![Pulpo en el Jardín de Cristal.](etheria-images/2023/01/jardin-cristal-liberec.jpg "Pulpo en el Jardín de Cristal.")
 
 ### Lasvit-Ajeto, desafío creativo en Lindava
 
@@ -89,7 +89,7 @@ llevarás a casa y que será el mejor recuerdo de tu paso por este lugar. En Aje
 cerveza artesana en su fantástica taberna (temporalmente cerrada, confirma su apertura 
 antes de acudir). 
 
-![Factoría de cristal de Ajeto.](etheria_images/2023/01/fabrica-ajeto-lasvit.jpg "Factoría de cristal de Ajeto.")
+![Factoría de cristal de Ajeto.](etheria-images/2023/01/fabrica-ajeto-lasvit.jpg "Factoría de cristal de Ajeto.")
 
 ### Factoría de cristal Novosad a Syn, en Harrachov
 
@@ -102,7 +102,7 @@ elaboradas en las fábricas de Harrachov, y la factoría para conocer el proceso
 directo. Además, se pueden añadir una visita a la cervecería y un baño en cerveza, un 
 masaje en el spa y alojamiento en su hotel. 
 
-![Artesano en la fábrica de cristal Novosad a Syn.](etheria_images/2023/01/Novosad-Syn-valle-cristal.jpg "Artesano en la fábrica de cristal Novosad a Syn.")
+![Artesano en la fábrica de cristal Novosad a Syn.](etheria-images/2023/01/Novosad-Syn-valle-cristal.jpg "Artesano en la fábrica de cristal Novosad a Syn.")
 
 ### Taller de Rautis, en Poniklá
 
@@ -121,7 +121,7 @@ visita a Rautis es tanto conocer cómo se desarrolla el trabajo como realizar un
 para llevarte a casa alguna figura elaborada por ti. No podrás salir de su tienda sin 
 una buena muestra de sus creaciones. 
 
-![Proceso de elaboración de adornos de cristal en Rautis.](etheria_images/2023/01/rautis-valle-cristal-chequia.jpg "Proceso de elaboración de adornos de cristal en Rautis.")
+![Proceso de elaboración de adornos de cristal en Rautis.](etheria-images/2023/01/rautis-valle-cristal-chequia.jpg "Proceso de elaboración de adornos de cristal en Rautis.")
 
 ### Museo del Cristal y la Bisutería, en Jablonec nad Nisou
 
@@ -135,7 +135,7 @@ muestra de adornos navideños de cristal que realiza un apasionante recorrido hi
 por el mundo de la ornamentación navideña en el Valle del Cristal. Algunas piezas 
 realizadas para el mercado norteamericano te sorprenderán... 
 
-![Bolas navideñas del Museo del Cristal y la Bisutería.](etheria_images/2023/01/museo-cristal-jablonec.jpg "Bolas navideñas del Museo del Cristal y la Bisutería.")
+![Bolas navideñas del Museo del Cristal y la Bisutería.](etheria-images/2023/01/museo-cristal-jablonec.jpg "Bolas navideñas del Museo del Cristal y la Bisutería.")
 
 ### Belenes de cristal en miniatura en Železný Brod
 
@@ -148,7 +148,7 @@ de la zona ha dado lugar a este museo privado. Recorrer sus estanterías observa
 detalles minúsculos de sus pesebres, las figuras alegóricas o las que aluden al folclore 
 popular es una experiencia más que curiosa. 
 
-![Reyes magos con granates en su interior del Museo de Belenes en miniatura.](etheria_images/2023/01/museo-belenes-valle-cristal.jpg "Reyes magos con granates en su interior del Museo de Belenes en miniatura.")
+![Reyes magos con granates en su interior del Museo de Belenes en miniatura.](etheria-images/2023/01/museo-belenes-valle-cristal.jpg "Reyes magos con granates en su interior del Museo de Belenes en miniatura.")
 
 ### Galería del Granate, la gema de color sangre
 
@@ -160,7 +160,7 @@ procedimientos para su obtención en la naturaleza y las claves para identificar
 piedra verdadera de una falsa. También se exhiben bonitas piezas e, incluso, es posible 
 adquirir en la tienda algún recuerdo con granates bohemios, los mejores del mundo. 
 
-![Galería de Granát, en Turnov.](etheria_images/2023/01/galeria-granate-turnov.jpg "Galería de Granát, en Turnov.")
+![Galería de Granát, en Turnov.](etheria-images/2023/01/galeria-granate-turnov.jpg "Galería de Granát, en Turnov.")
 
 ### Geoparque Paraíso de Bohemia
 
@@ -172,7 +172,7 @@ amor por este espacio lleno de magia y misterio. No te pierdas los laberintos de
 y las ciudades de rocas de Prachovské skály, el palacio de Hrubá Skála o las ruinas del 
 castillo de Trosky. 
 
-![Paraíso de Bohemia.](etheria_images/2023/01/paraiso-bohemia-chequia.jpg "Paraíso de Bohemia.")
+![Paraíso de Bohemia.](etheria-images/2023/01/paraiso-bohemia-chequia.jpg "Paraíso de Bohemia.")
 
 ### Panská Skála, monumento natural
 
@@ -185,7 +185,7 @@ para hacer fotografías al atardecer jugando con los reflejos en el pequeño lag
 a sus pies. Anímate a subir hasta la cima de este gigantesco “órgano musical” para 
 despedirte desde allí de estas tierras de Bohemia del Norte. 
 
-![Panská Skála.](etheria_images/2023/01/panska-skala-chequia.jpg "Panská Skála.")
+![Panská Skála.](etheria-images/2023/01/panska-skala-chequia.jpg "Panská Skála.")
 
 ✅ **También te puede interesar...** 
 

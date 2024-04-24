@@ -1,20 +1,20 @@
 ---
 title: "Planes para no aburrirse en un finde casero, muy casero"
 date: 2020-03-27
-coverImage: etheria_images/2020/03/ritua-belleza-casa.jpg
+coverImage: etheria-images/2020/03/ritua-belleza-casa.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cuando se deja de saber en qué día se vive, comenzamos a tener un problema. Desde 
 Etheria Magazine te animamos a que introduzcas en tus rutinas algunas actividades 
 diferentes los fines de semana. Aquí te comentamos 10 propuestas sencillas. 
 
-![planes casa coronavirus](etheria_images/2020/03/planes-coronavirus-en-casa-900x599.jpg "Planes para el fin de semana. © Rebe Pascual/ Unsplash")
+![planes casa coronavirus](etheria-images/2020/03/planes-coronavirus-en-casa-900x599.jpg "Planes para el fin de semana. © Rebe Pascual/ Unsplash")
 
 A estas alturas seguramente hayas pasado por todos los estados de ánimo y hayas 
 intentado seguir las decenas de recomendaciones que surgen de organizaciones, medios, 
@@ -24,7 +24,7 @@ Etheria Magazine practicamos la terapia viajera y tratamos de centrarnos en dest
 actividades que nos gustaría conocer o realizar... pero ahora no te hablaremos de eso 
 sino de lo que haremos este fin de semana (y no ordenaremos armarios). 
 
-![gimnasia en casa](etheria_images/2020/03/deporte-casa-coronavirus-900x600.jpg "Gimnasio, pilates o yoga, cualquier actividad viene bien. © Rawan Yasser")
+![gimnasia en casa](etheria-images/2020/03/deporte-casa-coronavirus-900x600.jpg "Gimnasio, pilates o yoga, cualquier actividad viene bien. © Rawan Yasser")
 
 Índice 
 
@@ -47,7 +47,7 @@ Fitboxing](https://www.youtube.com/channel/UCJ3rQKWlrY41swbN5mSLiMA), [Gym
 Virtual](https://www.youtube.com/user/gymvirtual) o [Deportes 
 Uncomo](https://www.youtube.com/channel/UCKk_D7EWit8HUmM3l-49UqQ) (ejercicio y pilates). 
 
-![comidas en casa,](etheria_images/2020/03/comidas-coronavirus-900x600.jpg "Un desayuno de capricho. © Ellena McGuinness.")
+![comidas en casa,](etheria-images/2020/03/comidas-coronavirus-900x600.jpg "Un desayuno de capricho. © Ellena McGuinness.")
 
 ## 2\. Un desayuno o una comida de capricho
 
@@ -61,7 +61,7 @@ especial? Anímate y prepara esa paella o ese lechazo que te sale tan bien. En e
 artículo os dábamos algunas [ideas de recetas tradicionales 
 españolas](https://etheriamagazine.com/2020/03/25/platos-tipicos-espana-viaje-por-los-sabores/). 
 
-![ritual belleza en casa](etheria_images/2020/03/ritua-belleza-casa-900x600.jpg "Ritual de belleza en casa. © Noah Buscher")
+![ritual belleza en casa](etheria-images/2020/03/ritua-belleza-casa-900x600.jpg "Ritual de belleza en casa. © Noah Buscher")
 
 ## 3\. Ritual de belleza y baño relajante
 
@@ -71,7 +71,7 @@ que vestirnos bien (o al menos quitarnos el píjama o el chandal) ayuda a levant
 tiempo y no hay problema en ir con las rodajas de pepino por la casa. Una mascarilla 
 casera, una buena hidratación y un masaje relajante pueden hacer maravillas. 
 
-![libros viajes, mujeres viajeras](etheria_images/2019/01/libros-viajes.jpg "Retoma el hábito de la lectura.")
+![libros viajes, mujeres viajeras](etheria-images/2019/01/libros-viajes.jpg "Retoma el hábito de la lectura.")
 
 ## 4\. Ese libro olvidado
 
@@ -82,7 +82,7 @@ descargar. Si, aún así, eres incapaz de concentrarte, prueba con [guías de
 viajes](https://etheriamagazine.com/2019/12/24/10-libros-recomendados-para-regalar-mujeres-viajeras/) 
 y de curiosidades, hay muchas. También los audiolibros son una buena idea. 
 
-![museos espanoles, visitas virtuales, coronavirus](etheria_images/2020/03/Museo-visita-virtual-coronavirus-900x676.jpg "Visitas virtuales a museos, un buen entretenimiento. © Goran Ivos")
+![museos espanoles, visitas virtuales, coronavirus](etheria-images/2020/03/Museo-visita-virtual-coronavirus-900x676.jpg "Visitas virtuales a museos, un buen entretenimiento. © Goran Ivos")
 
 ## 5\. Ir de museos
 
@@ -94,7 +94,7 @@ Bornemisza](https://etheriamagazine.com/2020/03/16/visitas-virtuales-museos-espa
 El Prado, [El Louvre](https://www.louvre.fr/en/visites-en-ligne) o la [National 
 Gallery](https://www.nationalgallery.org.uk/visiting/virtual-tours). 
 
-![opera online, entretenimiento coronavirus](etheria_images/2020/03/siegried-opera-met-900x521.jpg "Siegfried, una de las óperas que se han transmitido en el © Metropolitan Opera de Nueva York.")
+![opera online, entretenimiento coronavirus](etheria-images/2020/03/siegried-opera-met-900x521.jpg "Siegfried, una de las óperas que se han transmitido en el © Metropolitan Opera de Nueva York.")
 
 ## 6\. Un concierto o una ópera
 
@@ -106,7 +106,7 @@ que tratan de reunir fondos. Y si te gusta la ópera, no te pierdas las espectac
 puestas en escena de [The Metropolitan 
 Opera](https://www.metopera.org/nightly-opera-stream/) de Nueva York. 
 
-![pelicula amanece que no es poco, humor en tiempos de coronavirus](etheria_images/2020/03/amanece-que-no-es-poco.jpg "Cartel de 'Amanece que no es poco'.")
+![pelicula amanece que no es poco, humor en tiempos de coronavirus](etheria-images/2020/03/amanece-que-no-es-poco.jpg "Cartel de 'Amanece que no es poco'.")
 
 ## 7\. Sentido del humor
 
@@ -115,7 +115,7 @@ está llena. Busca en tu plataforma televisiva favorita algún filme que te pued
 desconectar y reír un poco, una cinta que nunca defrauda es ‘Amanece que no es poco’, de 
 José Luis Cuerda. O incluso una noche de monólogos, ¿por qué no? 
 
-![cocteles en casa](etheria_images/2020/03/cocteles.jpg "Prepara tu cóctel favorito en casa.")
+![cocteles en casa](etheria-images/2020/03/cocteles.jpg "Prepara tu cóctel favorito en casa.")
 
 ## 8\. Un cóctel con lo que tengas
 
@@ -125,7 +125,7 @@ Grifol, [Grifol's Bar,](https://www.youtube.com/channel/UCe8MEF-1HQZsq_LzGsIs8nw
 encontrarás algunas indicaciones útiles para que salgan bien los Manhattan, Rob Roy y 
 Pisco sour, entre otros. 
 
-![bailar en casa, cursos baile casa](etheria_images/2020/03/baile-en-casa-900x600.jpg "Baila en casa. © Juan Camino Navia")
+![bailar en casa, cursos baile casa](etheria-images/2020/03/baile-en-casa-900x600.jpg "Baila en casa. © Juan Camino Navia")
 
 ## 9\. Baila en casa
 
@@ -137,7 +137,7 @@ o [swing](https://www.youtube.com/watch?v=BWYjAxdLAFY)). Si estás acompañado p
 aún más divertido, pero no renuncies a bailar si estás sola. Y si prefieres tocar un 
 instrumento en lugar de mover el esqueleto, no te cortes. 
 
-![socializar, aplicaciones hablar internet](etheria_images/2020/03/llamada-grupal-coronavirus-900x600.jpg "Socializar a través de las nuevas tecnologías. © Brooke Cagle")
+![socializar, aplicaciones hablar internet](etheria-images/2020/03/llamada-grupal-coronavirus-900x600.jpg "Socializar a través de las nuevas tecnologías. © Brooke Cagle")
 
 ## 10\. Organiza una llamada grupal
 

@@ -1,17 +1,17 @@
 ---
 title: "Las tradiciones navideñas más curiosas de la República Checa"
 date: 2020-11-25
-coverImage: etheria_images/2020/11/mercadillo-Pilsen-navidad.jpg
+coverImage: etheria-images/2020/11/mercadillo-Pilsen-navidad.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ##### Aparte de los encuentros familiares o el disfrute de una opípara comida, cada país tiene sus propias tradiciones, ritos y alimentos favoritos en Navidad. ¿Cómo crees que se celebran las fiestas navideñas en la República Checa? Algunas de estas costumbres te van a sorprender (y mucho).
 
-![mercadillo navidad de pilsen](etheria_images/2020/11/mercadillo-Pilsen-navidad.jpg "Mercadillo de Pilsen. © Shutterstock")
+![mercadillo navidad de pilsen](etheria-images/2020/11/mercadillo-Pilsen-navidad.jpg "Mercadillo de Pilsen. © Shutterstock")
 
 La imagen de la República Checa en Navidad es la de los mercadillos de Adviento, que 
 este año no se celebrarán, la de villancicos llenos de solemnidad o la de un grupo de 
@@ -26,7 +26,7 @@ tinto, canela, clavo y corteza de limón) o **ponche caliente** (agua caliente, 
 azúcar). También es el momento de encender la primera vela en la corona de Adviento, las 
 demás se irán prendiendo en los domingos siguientes. 
 
-![corona de adviento en navidad de republica checa](etheria_images/2020/11/corona-adviento.jpg "Corona de Adviento, muy tradicional en Chequia. © Shutterstock")
+![corona de adviento en navidad de republica checa](etheria-images/2020/11/corona-adviento.jpg "Corona de Adviento, muy tradicional en Chequia. © Shutterstock")
 
 Es el momento más mágico del año para los niños, ya que en Chequia celebran a **San 
 Nicolás**, ni a los Reyes Magos ni a Papá Noel (algunas familias sí, pero no es lo más 
@@ -40,7 +40,7 @@ de la virgen, la chicas casaderas cortaban ramitas de cerezo y las colocaban en 
 jarrón. Si florecían antes de Nochebuena, ese año se desposarían. Y si no ocurría... 
 había pocas probabilidades. 
 
-![san nicolas en cesky krumlov en chequia](etheria_images/2020/11/San-Nicolas-cesky-krumlov.jpg "San Nicolás paseando por las calles de © Cesky Krumlov.")
+![san nicolas en cesky krumlov en chequia](etheria-images/2020/11/San-Nicolas-cesky-krumlov.jpg "San Nicolás paseando por las calles de © Cesky Krumlov.")
 
 ## Árboles con erizos y ciempiés
 
@@ -55,7 +55,7 @@ Praga, el responsable. Este alemán organizó, en el siglo XIX, una gran fiesta 
 para sus amigos aristócratas y colocó un gran árbol con adornos y regalos. Debió de 
 gustar tanto a la alta sociedad que comenzó a replicarse. 
 
-![Navidad en Ceske Budejovice](etheria_images/2020/11/arbol-navidad-Ceske-Budejovice.jpg "Navidad en Ceske Budejovice. © Good Agency")
+![Navidad en Ceske Budejovice](etheria-images/2020/11/arbol-navidad-Ceske-Budejovice.jpg "Navidad en Ceske Budejovice. © Good Agency")
 
 Pero includo más curiosa nos parece otra tradición, aunque no se haya mantenido hasta 
 nuestros días. Consistía en **colgar en el techo –y boca abajo– un abeto**, justo sobre 
@@ -63,7 +63,7 @@ la mesa donde se iba a comer en las fiestas. Según la historiadora Valburga Vav
 era un gesto con lógica cristiana ya que ese árbol de hoja perenne simboliza la vida 
 eterna. 
 
-![adornos de navidad en la republica checa](etheria_images/2020/11/chequia-adornos-navidad.jpg "Adornos navideños en Chequia. © ZuzanaReifova/ JCCCR")
+![adornos de navidad en la republica checa](etheria-images/2020/11/chequia-adornos-navidad.jpg "Adornos navideños en Chequia. © ZuzanaReifova/ JCCCR")
 
 Los adornos del árbol se adaptan a los elementos que se encuentran en cada región checa, 
 así en la zona de Bohemia siempre han sido muy populares los realizados con vidrio. Si 
@@ -74,7 +74,7 @@ artesanalmente adornos de vidrio soplado y se pintan a mano para distribuirlos p
 el país. ¿Sabes que después de los ángeles, sus figuras más demandadas son las que 
 tienen forma de erizo, ciempiés o cisne? 
 
-![carpas vivas en republica checa](etheria_images/2020/11/carpas-republica-checa.jpg "Es habitual comprar las carpas vivas unos días antes de la cena navideña. © Shutterstock")
+![carpas vivas en republica checa](etheria-images/2020/11/carpas-republica-checa.jpg "Es habitual comprar las carpas vivas unos días antes de la cena navideña. © Shutterstock")
 
 ## Carpas en las bañeras
 
@@ -93,7 +93,7 @@ de los "posibles accidentes" en estas fechas... Eso sí, los supersticiosos debe
 acordarse de conservar las escamas, ya que si se coloca una debajo de cada plato **se 
 atrae la suerte durante todo el año**; y si se pone en la cartera, el dinero. 
 
-![carpa frita plato tipico navidad en chequia](etheria_images/2020/11/carpa-navidad-republica-checa.jpg "La carpa frita es un plato típico para Nochebuena. © Czech Specials")
+![carpa frita plato tipico navidad en chequia](etheria-images/2020/11/carpa-navidad-republica-checa.jpg "La carpa frita es un plato típico para Nochebuena. © Czech Specials")
 
 Este pez, que está unido a la tradición checa desde hace siglos, se cría 
 fundamentalmente en **Bohemia del Sur**. Se cree que algunos de sus estanques, que 
@@ -109,7 +109,7 @@ la misa de Nochebuena (sería como nuestra Misa del Gallo). La más popular es l
 checa de Navidad’**, una misa compuesta por Jan Jakub Ryba, maestro, organista y 
 director del coro de la iglesia de Rožmitál pod Třemšínem. 
 
-![barquitos de nuez con velas](etheria_images/2020/11/nueces-velas-chequia.jpg "Barquitos de nuez con velas para averiguar cuánto vivirás. © Shutterstock")
+![barquitos de nuez con velas](etheria-images/2020/11/nueces-velas-chequia.jpg "Barquitos de nuez con velas para averiguar cuánto vivirás. © Shutterstock")
 
 ## Trenzas y velas mágicas
 

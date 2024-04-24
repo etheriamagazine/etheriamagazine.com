@@ -1,12 +1,12 @@
 ---
 title: "Cómo visitar los Campos de lavanda de Brihuega este 2023 (Guadalajara)"
 date: 2020-06-08
-coverImage: etheria_images/2019/06/lavanda-brihuega.jpg
+coverImage: etheria-images/2019/06/lavanda-brihuega.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 ¿Sabías que la Provenza española se localiza en torno a Brihuega? Pasear por los campos 
@@ -15,7 +15,7 @@ perfumes está al alcance de tu mano. Este 2023 vuelve a haber Festival de la La
 visitas guiadas. Sigue leyendo para saber cuándo, dónde y cómo ver los campos de lavanda 
 de Guadalajara. 
 
-![Flores de la lavanda de Guadalajara](etheria_images/2019/06/festival-lavanda-flores.jpg "La lavanda inunda de color el campo alcarreño. ©FdL")
+![Flores de la lavanda de Guadalajara](etheria-images/2019/06/festival-lavanda-flores.jpg "La lavanda inunda de color el campo alcarreño. ©FdL")
 
 ```
 Actualizado en junio de 2023
@@ -31,7 +31,7 @@ fuese más resistente al clima extremo de La Alcarria y a su terreno calcáreo y
 pedregoso. A esta variedad mixta se le llama lavandín. Si no eres un experto, te costará 
 notar la diferencia. 
 
-![Campos de lavanda de Brihuega.](etheria_images/2019/06/festival-lavanda-campos-brihuega.jpg "© Festival de Lavanda.")
+![Campos de lavanda de Brihuega.](etheria-images/2019/06/festival-lavanda-campos-brihuega.jpg "© Festival de Lavanda.")
 
 ### Por qué hay lavanda en Guadalajara
 
@@ -46,7 +46,7 @@ agricultores de la zona. Alrededor de la lavanda, además, han surgido otras ví
 negocio como actividades turísticas, venta de productos elaborados con la esencia y un 
 festival de música. 
 
-![Detalle de la flor de lavanda de Guadalajara.](etheria_images/2019/06/flor-lavanda-provenza-espana.jpg "Detalle de flor de lavanda.")
+![Detalle de la flor de lavanda de Guadalajara.](etheria-images/2019/06/flor-lavanda-provenza-espana.jpg "Detalle de flor de lavanda.")
 
 ### Otras zonas con campos de lavanda en España
 
@@ -76,7 +76,7 @@ El mejor momento para admirar estos campos donde el violeta se pierde en el infi
 también disfrutan yendo de flor en flor. La molestia de estar alerta con los insectos se 
 compensa con la miel de espliego que puedes adquirir posteriormente en Brihuega. 
 
-![Atardecer en los campos de lavanda de Brihuega, en Guadalajara.](etheria_images/2019/06/festival-lavanda-campos.jpg "© Festival de Lavanda.")
+![Atardecer en los campos de lavanda de Brihuega, en Guadalajara.](etheria-images/2019/06/festival-lavanda-campos.jpg "© Festival de Lavanda.")
 
 ### Festival de la Lavanda
 
@@ -87,7 +87,7 @@ años también ha habido degustaciones gastronómicas. Si quieres acudir no deje
 informarte en su web oficial y trata de adquirir la entrada con antelación en [Festival 
 de la Lavanda](https://www.festivaldelalavanda.com/). 
 
-![Jóvenes vestidas de blanco en mitad de un campo de lavanda](etheria_images/2019/06/festival-lavanda-brihuega.jpg "Los campos son el escenario perfecto para una sesión fotográfica. © Festival de Lavanda de Brihuega")
+![Jóvenes vestidas de blanco en mitad de un campo de lavanda](etheria-images/2019/06/festival-lavanda-brihuega.jpg "Los campos son el escenario perfecto para una sesión fotográfica. © Festival de Lavanda de Brihuega")
 
 ### Dónde ver los campos de lavanda de Guadalajara
 
@@ -106,7 +106,7 @@ La floración de la lavanda no es algo exacto cada año, pero desde finales de j
 pueden ver campos en flor. El mejor momento suele ser la **segunda o tercera semana de 
 julio**, justo antes de que empiecen a segarla. 
 
-![Visitantes del Festival de la lavanda de Guadalajara.](etheria_images/2019/06/festival-lavanda-gente-campos.jpg "© Festival de Lavanda.")
+![Visitantes del Festival de la lavanda de Guadalajara.](etheria-images/2019/06/festival-lavanda-gente-campos.jpg "© Festival de Lavanda.")
 
 ## Fin de semana en torno a la lavanda
 
@@ -120,7 +120,7 @@ donde se puede recibir, entre otros masajes, uno con pindas aromáticas que cont
 espliego y lavandín de Brihuega. Pº Jesús Ruiz Pastor, 16. Tel. 949 281 299 / 606 410 
 788 
 
-![Jabones de lavanda](etheria_images/2019/06/jabones-lavanda-guadalajara.jpg "Jabones de lavanda.")
+![Jabones de lavanda](etheria-images/2019/06/jabones-lavanda-guadalajara.jpg "Jabones de lavanda.")
 
 ### Qué comprar en Brihuega
 

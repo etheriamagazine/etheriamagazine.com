@@ -1,11 +1,11 @@
 ---
 title: "Pilar Gil: \"Los viajes se disfrutan desde la preparación previa\""
 date: 2018-07-02
-coverImage: etheria_images/2018/07/entrevista-pilar-gil-oporto.jpg
+coverImage: etheria-images/2018/07/entrevista-pilar-gil-oporto.jpg
 categories: 
   - mujeres-que-inspiran
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Pilar Gil, directora comercial y de marketing de la mayorista de viajes Catai, es una de 
@@ -13,7 +13,7 @@ las Mujeres Etheria que nos inspiran por su personalidad, fuerza y por haber sid
 pionera en el mundo directivo de las agencias de viajes, un sector eminentemente 
 masculino. 
 
-![Entrevista a PIlar Gil Catai, mujeres que inspiran, mujeres viajeras](etheria_images/2018/06/entrevista-pilar-gil-e1552903445648.jpg "Pilar Gil.")
+![Entrevista a PIlar Gil Catai, mujeres que inspiran, mujeres viajeras](etheria-images/2018/06/entrevista-pilar-gil-e1552903445648.jpg "Pilar Gil.")
 
 Ha trabajado en los grupos turí­sticos más importantes de España, tanto en la parte 
 minorista como en la mayorista (Meliá, Globalia, Catai y Avoris), y fue la primera 
@@ -59,7 +59,7 @@ gratamente por su belleza, la calidad de sus servicios, y la hospitalidad de sus
 El último profesional a **Lisboa** y **Oporto**, ciudades que cada día lucen más 
 espléndidas, modernas y con mejores servicios. 
 
-![entrevista, mujeres que inspiran, mujeres que viajan](etheria_images/2018/06/entrevista-pilar-gil-2-e1552903496382.jpg "Pilar Gil con Passau al fondo.")
+![entrevista, mujeres que inspiran, mujeres que viajan](etheria-images/2018/06/entrevista-pilar-gil-2-e1552903496382.jpg "Pilar Gil con Passau al fondo.")
 
 ## 8\. ¿Qué tres viajes recomendarías a una mujer?
 
@@ -87,7 +87,7 @@ Internacional de Negombo** (Sri Lanka), un hotel tradicional de playa en el que 
 de ciertas comodidades fue para mí su mayor atractivo porque disfruté de la esencia del 
 país. 
 
-![entrevistas, mujeres que inspiran, mujeres que viajan](etheria_images/2018/06/entrevista-pilar-gil-lanzarote-e1552903555593.jpg "Pilar Gil en Lanzarote.")
+![entrevistas, mujeres que inspiran, mujeres que viajan](etheria-images/2018/06/entrevista-pilar-gil-lanzarote-e1552903555593.jpg "Pilar Gil en Lanzarote.")
 
 ## 13\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 

@@ -1,17 +1,17 @@
 ---
 title: "'Viaje a la Alcarria', seguimos los pasos de Cela 20 años después de que nos dejara"
 date: 2021-02-01
-coverImage: etheria_images/2021/01/viaje-alcarria-cela-Brihuega.jpg
+coverImage: etheria-images/2021/01/viaje-alcarria-cela-Brihuega.jpg
 categories: 
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 'Viaje a la Alcarria' es, seguramente, el viaje más célebre de Camilo José Cela, un itinerario que el Premio Nobel inmortalizó en un libro magistral. El trayecto comenzaba en Madrid y el primer destino era Guadalajara, pero acabó parando en Pastrana, Torija, Cívica, Masegoso, Cifuentes, Zorita, Gárgoles de Arriba, Budia, Sacedón, Tendilla, La Puerta, Casasana, Pareja, Durón, El Olivar, Valdenoches… Te contamos esta ruta de novela.
 
-![brihuega viaje a la alcarria de cela](etheria_images/2021/01/viaje-alcarria-cela-Brihuega.jpg "Brihuega, el "Jardín de la Alcarria".")
+![brihuega viaje a la alcarria de cela](etheria-images/2021/01/viaje-alcarria-cela-Brihuega.jpg "Brihuega, el "Jardín de la Alcarria".")
 
 ```
 Actualizado enero de 2022
@@ -41,7 +41,7 @@ Alcarria también se puede descubrir en un viaje de apenas **dos o tres días en
 o en moto**. Sólo en en este tiempo uno se puede empapar del alma de un pueblo que, 
 además, está bendecido por la naturaleza y el agua. 
 
-![museo viaje a la alcarria](etheria_images/2021/01/Museo-del-Viaje-a-la-Alcarria-en-Torija.jpg "Museo del Viaje a la Alcarria, en Torija (Guadalajara).")
+![museo viaje a la alcarria](etheria-images/2021/01/Museo-del-Viaje-a-la-Alcarria-en-Torija.jpg "Museo del Viaje a la Alcarria, en Torija (Guadalajara).")
 
 ## A la Alcarria en tren desde Atocha
 
@@ -59,7 +59,7 @@ cuenta con un atractivo y monumental casco histórico con varias iglesias román
 entre las que sobresalen las de San Felipe o la de Santa María de la Peña, patrona de la 
 villa. 
 
-![brihuega y bodega en cueva viaje a la alcarria](etheria_images/2021/01/viaje-alcarria-Brihuega.jpg "Vista de Brihuega y una de sus bodegas subterráneas.")
+![brihuega y bodega en cueva viaje a la alcarria](etheria-images/2021/01/viaje-alcarria-Brihuega.jpg "Vista de Brihuega y una de sus bodegas subterráneas.")
 
 ## Masegoso, un pueblo “de color plata”
 
@@ -77,7 +77,7 @@ torrentes. Hay un puente del siglo XVI que cruza sus orillas y que se encuentra 
 pasos de la iglesia de Santa María de la Estrella, del siglo XVI, y de la abadía de 
 Santa María de Óvila, del siglo XII, hoy en ruinas. 
 
-![museo del pastor de masegoso](etheria_images/2021/01/viaje-alcarria-Masegoso-Museo-del-Pastor.jpg "Museo del Pastor, en Masegoso (Guadalajara).")
+![museo del pastor de masegoso](etheria-images/2021/01/viaje-alcarria-Masegoso-Museo-del-Pastor.jpg "Museo del Pastor, en Masegoso (Guadalajara).")
 
 ## De Trillo a Viana de Mondéjar
 
@@ -88,7 +88,7 @@ albarda lleva cosido un papel que dice: Cógeme, que mi amo ha muerto”. Poco d
 descubre, “erizadas, violentas, las Tetas de Viana” y, aunque hay senderos que conducen 
 hasta la cima, el escritor declinó la invitación. 
 
-![cascadas de Trillo viaje a la alcarria](etheria_images/2021/01/viaje-alcarria-Cascada-Trillo-730x1024.jpg "Una de. las pequeñas cascadas del río Cifuentes, en Trillo.")
+![cascadas de Trillo viaje a la alcarria](etheria-images/2021/01/viaje-alcarria-Cascada-Trillo-730x1024.jpg "Una de. las pequeñas cascadas del río Cifuentes, en Trillo.")
 
 Después de pasar La Puerta y el río Solana por uno de los puentes medievales más 
 emblemáticos de la Alcarria, Cela llega a **Budia**, “un pueblo grande con casas 
@@ -99,7 +99,7 @@ obras públicas han reorganizado en los últimos años la geografía de la Alcar
 permanecen, yendo hacia Pareja, las colmenas, esas misteriosas cajas a las que hizo 
 mención nuestro Nobel. 
 
-![monasterio de Santa Maria de Monsalud](etheria_images/2021/01/viaje-a-la-alcarria-monasterio-de-Monsalud.jpg "Monasterio de Santa María de Monsalud.")
+![monasterio de Santa Maria de Monsalud](etheria-images/2021/01/viaje-a-la-alcarria-monasterio-de-Monsalud.jpg "Monasterio de Santa María de Monsalud.")
 
 ## Monasterio de Monsalud, terminando el viaje a la Alcarria
 
@@ -109,7 +109,7 @@ Monsalud, de la orden del Císter, fundado a finales del siglo XII y que hoy se 
 prácticamene en ruinas. Y, antes de llegar a Pastrana, uno de los destinos estrella de 
 la ruta, hay que pasar, es obligado, por el animado y rico pueblo de **Sacedón**. 
 
-![princesa de eboli en pastrana](etheria_images/2021/01/viaje-alcarria-Princesa-de-eboli-en-el-Palacio-Ducal-de-Pastrana-709x1024.jpg "Retrato de la Princesa de Éboli en el Palacio Ducal de Pastrana.")
+![princesa de eboli en pastrana](etheria-images/2021/01/viaje-alcarria-Princesa-de-eboli-en-el-Palacio-Ducal-de-Pastrana-709x1024.jpg "Retrato de la Princesa de Éboli en el Palacio Ducal de Pastrana.")
 
 Regada por el río Arles, la monumental **Pastrana** tiene un trazado medieval y una 
 historia que está ligada a la de nombres tan imprescindibles como la princesa de Éboli, 
@@ -121,7 +121,7 @@ otro”, escribió el Nobel, “pero sus voces caen al vacío”. Una vez más, 
 vinculaba, esta vez con Cela, a la historia de la literatura, ya que antes Moratín 
 escribió en esta villa 'El sí de las niñas'. 
 
-![tapices colegiata de pastrana](etheria_images/2021/01/viaje-alcarria-tapices-Colegiata-de-Pastrana.jpg "Detalle de uno de los tapices de la Colegiata de Pastrana.")
+![tapices colegiata de pastrana](etheria-images/2021/01/viaje-alcarria-tapices-Colegiata-de-Pastrana.jpg "Detalle de uno de los tapices de la Colegiata de Pastrana.")
 
 ## Una antigua ciudad visigoda
 
@@ -131,7 +131,7 @@ Recópolis**, las ruinas de una antigua ciudad visigoda situada en una curva del
 que cuenta con una alcazaba árabe del siglo IX que, al parecer, tuvo un papel esencial 
 en la Reconquista. 
 
-![recopolis en guadalajara](etheria_images/2021/01/viaje-alcarria-Recopolis.jpg "El Parque Arqueológico de Recópolis se encuentra en Zorita de los Canes.")
+![recopolis en guadalajara](etheria-images/2021/01/viaje-alcarria-Recopolis.jpg "El Parque Arqueológico de Recópolis se encuentra en Zorita de los Canes.")
 
 **15 de junio de 1946**. Ese día, Camilo José Cela da por finalizalizado su viaje a la 
 Alcarria. El escritor regresa a Madrid. Lo hizo con pena, con melancolía y con el 
@@ -142,7 +142,7 @@ Alcarria.
 \*Aquí puedes [descargarte un pdf para hacer el Viaje a la Alcarria en 
 coche](http://turismoenguadalajara.es/documentos/RutadelViajealaAlcarria.pdf). 
 
-![rotulos viaje a la alcarria](etheria_images/2021/01/carteles-ruta-viaje-alcarria-cela.jpg "Algunos rótulos curiosos de la ruta Viaje a la Alcarria de la mano de Cela.")
+![rotulos viaje a la alcarria](etheria-images/2021/01/carteles-ruta-viaje-alcarria-cela.jpg "Algunos rótulos curiosos de la ruta Viaje a la Alcarria de la mano de Cela.")
 
 ### También te puede interesar...
 

@@ -1,7 +1,7 @@
 ---
 title: "10 poderosas razones para visitar Valderredible, el sur de Cantabria"
 date: 2019-08-26
-coverImage: etheria_images/2019/08/Roble-valderredible-cantabria-e1565602301535.jpg
+coverImage: etheria-images/2019/08/Roble-valderredible-cantabria-e1565602301535.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -9,7 +9,7 @@ categories:
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -18,7 +18,7 @@ llegado al sur. En Valderredible encontrarás montañas como barcos varados, que
 el municipio de la meseta castellana, y, a la vez, guardan sus mejores secretos entre 
 nieblas, ¡que para eso estamos en Cantabria! 
 
-![Valderredible, esencia rural de Cantabria.](etheria_images/2019/08/viaje-cantabria-Valderredible-e1565601879336.jpg "Valderredible, esencia rural de Cantabria.")
+![Valderredible, esencia rural de Cantabria.](etheria-images/2019/08/viaje-cantabria-Valderredible-e1565601879336.jpg "Valderredible, esencia rural de Cantabria.")
 
 Actualizado en febrero de 2024 
 
@@ -38,7 +38,7 @@ extensa** y en la primera que poblaron los cántabros. A un paso de la meseta, p
 abrigada entre montañas, se convirtió en un refugio para permanecer a salvo del agitado 
 Medievo peninsular. 
 
-![Paisaje de Cadalso, en Valderredible.](etheria_images/2019/08/Cadalso-valderredible-cantabria-e1565600089181.jpg "Paisaje de Cadalso, en Valderredible.")
+![Paisaje de Cadalso, en Valderredible.](etheria-images/2019/08/Cadalso-valderredible-cantabria-e1565600089181.jpg "Paisaje de Cadalso, en Valderredible.")
 
 ## 2\. Cuando el río Ebro se hace poderoso
 
@@ -50,7 +50,7 @@ Vigilantes de su paso son los perfiles montañosos cántabros –frente a la alt
 mesetaria–, que desde el valle parecen una gigantesca ola piedra, con la que hace 
 **frontera al sur tocando con tierras palentinas y burgalesas**. 
 
-![El río Ebro a su paso por La Puente del Valle, Valderredible.](etheria_images/2019/08/rio-ebro-la-puente-valderredible-e1565600416890.jpg "El río Ebro a su paso por La Puente del Valle, Valderredible.")
+![El río Ebro a su paso por La Puente del Valle, Valderredible.](etheria-images/2019/08/rio-ebro-la-puente-valderredible-e1565600416890.jpg "El río Ebro a su paso por La Puente del Valle, Valderredible.")
 
 ## 3\. Embajadoras del mundo rural
 
@@ -65,7 +65,7 @@ fritas o cocinadas a fuego lento en la olla ferroviaria y en el guiso de jabalí
 Presumen de no lavarse como una marca única, una señal distintiva del valle donde se han 
 criado. 
 
-![Girasoles en Valderredible.](etheria_images/2019/08/girasoles-valderredible.jpg "Girasoles en Valderredible.")
+![Girasoles en Valderredible.](etheria-images/2019/08/girasoles-valderredible.jpg "Girasoles en Valderredible.")
 
 ## 4\. Al fresco de la piedra
 
@@ -84,7 +84,7 @@ espectaculares huellas de la cristianización del valle junto al [Centro de
 Interpretación de la Arquitectura 
 Rupestre](https://www.valderredible.es/enclaves/centro-de-interpretacion-del-arte-rupestre). 
 
-![Iglesia de Santa María de Valverde, en Valderredible.](etheria_images/2019/08/santa-maria-valverde-valderredible-e1565600806387.jpg "Iglesia de Santa María de Valverde, en Valderredible.")
+![Iglesia de Santa María de Valverde, en Valderredible.](etheria-images/2019/08/santa-maria-valverde-valderredible-e1565600806387.jpg "Iglesia de Santa María de Valverde, en Valderredible.")
 
 ## 5\. Es la hora del bosque
 
@@ -100,7 +100,7 @@ los bosques maduros y saludables. Busca el sendero que más te apetezca recorrer
 visitando el Centro de Visitantes del Monte Hijedo instalado en una bonita casa torre 
 medieval en el pueblo de Riopanero. 
 
-![Robles en Valderredible.](etheria_images/2019/08/Roble-valderredible-cantabria-e1565602301535.jpg "Robles en Valderredible.")
+![Robles en Valderredible.](etheria-images/2019/08/Roble-valderredible-cantabria-e1565602301535.jpg "Robles en Valderredible.")
 
 ## 6\. Abierto hasta el amanecer
 
@@ -113,7 +113,7 @@ cántabro más secreto tenga una **conexión directa con el cosmos**. Visítalo 
 durante la noche, identifica planetas y constelaciones o sigue a algún cometa. Basta con 
 ascender hasta su cúpula y mirar por el telescopio, tendrás el universo ante tus ojos. 
 
-![Observatorio Astronómico de Cantabria, en Valderredible.](etheria_images/2019/08/observatorio-astronomico-cantabria.jpg "Observatorio Astronómico de Cantabria, en Valderredible.")
+![Observatorio Astronómico de Cantabria, en Valderredible.](etheria-images/2019/08/observatorio-astronomico-cantabria.jpg "Observatorio Astronómico de Cantabria, en Valderredible.")
 
 ## 7\. Viaje al más allá
 
@@ -130,7 +130,7 @@ es que la arquitectura ligada al paisaje sigue siendo parte de la identidad vall
 si no contempla la magnífica muestra del **Centro de Visitantes de la Piedra en Seco** 
 (más información en cultura@valderredible.es). 
 
-![Santa Leocadia (Castrillo de Valdelomar) y Centro de Interpretación de la Arquitectura Rupestre (Santa María de Valverde).](etheria_images/2019/08/tumbas-valderredible.jpg "Santa Leocadia (Castrillo de Valdelomar) y Centro de Interpretación de la Arquitectura Rupestre (Santa María de Valverde).")
+![Santa Leocadia (Castrillo de Valdelomar) y Centro de Interpretación de la Arquitectura Rupestre (Santa María de Valverde).](etheria-images/2019/08/tumbas-valderredible.jpg "Santa Leocadia (Castrillo de Valdelomar) y Centro de Interpretación de la Arquitectura Rupestre (Santa María de Valverde).")
 
 ## 8\. En la Persépolis cántabra
 
@@ -145,7 +145,7 @@ compostelanos más ancestrales. Cuando en su ábside veas los restos de una pint
 con dos apóstoles –la única conservada en tierras cántabras-, sabrás que pisas uno de 
 los más valiosos enclaves de la Europa románica. 
 
-![Colegiata de San Martín de Elines, Valderredible.](etheria_images/2019/08/colegiata-san-martin-elines-valderredible.jpg "Colegiata de San Martín de Elines, Valderredible.")
+![Colegiata de San Martín de Elines, Valderredible.](etheria-images/2019/08/colegiata-san-martin-elines-valderredible.jpg "Colegiata de San Martín de Elines, Valderredible.")
 
 ## 9\. Cambia al rural contemporáneo
 
@@ -159,7 +159,7 @@ marca su presente pero la dinamización que la comarca está desarrollando –y 
 el impulso del cambio climático– logrará un nuevo esplendor rural para el más sureño 
 valle cántabro. 
 
-![Centro de Visitantes del Monte Hijedo, Riopanero, Valderredible.](etheria_images/2019/08/centro-visitantes-monte-hijedo.jpg "Centro de Visitantes del Monte Hijedo, Riopanero, Valderredible.")
+![Centro de Visitantes del Monte Hijedo, Riopanero, Valderredible.](etheria-images/2019/08/centro-visitantes-monte-hijedo.jpg "Centro de Visitantes del Monte Hijedo, Riopanero, Valderredible.")
 
 ## 10\. Una ducha en la cascada del Tobazo
 
@@ -170,4 +170,4 @@ reparte su agua en mil hebras plateadas sobre la anaranjada roca y el verde del 
 La magia de verla solo se produce en otoño cuando las lluvias favorecen los bonitos 
 hilos líquidos. 
 
-![Cascada El Tobazo, en Villaescusa de Ebro.](etheria_images/2019/08/cascada-el-tobazo-valderredible-e1565602331760.jpg "Cascada El Tobazo, en Villaescusa de Ebro.")
+![Cascada El Tobazo, en Villaescusa de Ebro.](etheria-images/2019/08/cascada-el-tobazo-valderredible-e1565602331760.jpg "Cascada El Tobazo, en Villaescusa de Ebro.")

@@ -1,13 +1,13 @@
 ---
 title: "La Sultana o el sueño de una noche en Marrakech"
 date: 2019-02-27
-coverImage: etheria_images/2019/02/La-Sultana-Marrakech-suite.jpg
+coverImage: etheria-images/2019/02/La-Sultana-Marrakech-suite.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La ciudad de Marrakech es experta en esconder pequeñas joyas entre sus intrincadas 
@@ -15,7 +15,7 @@ callejuelas. Una de las más valiosas es el hotel La Sultana que, a modo de riad
 tradicional, permite disfrutar de una estancia en la ciudad como si fueras la 
 protagonista de un delicado poema árabe. 
 
-![entrada al riad de La Sultana](etheria_images/2019/02/LaSultana-Marrakech-entrada.jpg "Entrada de La Sultana.")
+![entrada al riad de La Sultana](etheria-images/2019/02/LaSultana-Marrakech-entrada.jpg "Entrada de La Sultana.")
 
 Marrakech siempre merece una visita. Está bien conectada con vuelos desde España que en 
 unas tres horas te trasladan a otro mundo de colores, olores y paisajes diferentes. Y es 
@@ -43,7 +43,7 @@ belleza sutil y exótica del mundo árabe, esa que tenemos en la cabeza a travé
 como _Las Mil y Una Noches_ o de relatos históricos sobre cómo debieron ser los palacios 
 de la Córdoba califal. 
 
-![patio interior de La Sultana](etheria_images/2019/02/LaSultanaMarrakech-cena-piscina.jpg "Mesas para una cena junto a la piscina.")
+![patio interior de La Sultana](etheria-images/2019/02/LaSultanaMarrakech-cena-piscina.jpg "Mesas para una cena junto a la piscina.")
 
 Hay dos lugares que se llevan todas las miradas y con razón: uno la pequeña **piscina** 
 situada en el corazón del hotel, rodeada de bellas columnas. Y el otro (mi preferido) la 
@@ -53,7 +53,7 @@ almuecín llamar a la oración. Marrakech está llena de rincones bellos y lleno
 encanto pero dudo que haya muchos que puedan igualar esta terraza donde desayunar cada 
 mañana hace que el día se afronte con el mejor espíritu posible. 
 
-![desayuno en La Sultana](etheria_images/2019/02/La-Sultana-Marrakech-terraza.jpg "La terraza y parte del bufé de desayuno.")
+![desayuno en La Sultana](etheria-images/2019/02/La-Sultana-Marrakech-terraza.jpg "La terraza y parte del bufé de desayuno.")
 
 ## Cada habitación es distinta
 
@@ -66,7 +66,7 @@ ventilador, aire acondicionado, wifi gratuito, minibar sin alcohol sin cargo… 
 protege del bullicio y del calor, si se quieres tener más luz puedes pedir las suites de 
 lujo con balcón privado. 
 
-![suite de La Sultana](etheria_images/2019/02/La-Sultana-Marrakech-suite.jpg "Una de las suites de La Sultana.")
+![suite de La Sultana](etheria-images/2019/02/La-Sultana-Marrakech-suite.jpg "Una de las suites de La Sultana.")
 
 ## Gastronomía de altura
 
@@ -78,7 +78,7 @@ en carnes y pescados locales que provienen de una red de pequeños productores. 
 ‘Street Food’, que ofrece una cocina ligera con pescados a la parrilla, mariscos, cuscús 
 vegetariano… 
 
-![gastronomía en La Sultana](etheria_images/2019/02/La-Sultana-gastro-1024x765.jpg "La gastronomía del hotel es un aliciente más para alojarse en él.")
+![gastronomía en La Sultana](etheria-images/2019/02/La-Sultana-gastro-1024x765.jpg "La gastronomía del hotel es un aliciente más para alojarse en él.")
 
 **La Table de La Sultana** es el restaurante que abre para las cenas más delicadas y 
 románticas, que se celebran también en la terraza en verano (en invierno en el patio), y 
@@ -92,7 +92,7 @@ La cultura del agua del mundo árabe tiene su máxima expresión en lugares como
 de La Sultana**. Cuenta con dos hammans, jacuzzi, sauna… y lo mejor es terminar este 
 momento de relajación y de quererse un poquito con un masaje. 
 
-![Spa La Sultana](etheria_images/2019/02/La-Sultana-Marrakech-Spa.jpg "Spa La Sultana.")
+![Spa La Sultana](etheria-images/2019/02/La-Sultana-Marrakech-Spa.jpg "Spa La Sultana.")
 
 Si te has quedado prendada de la gastronomía del hotel, no dudes en probar sus **clases 
 de cocina**, te llevarás los secretos mejor guardados de la cocina marroquí y podrás 

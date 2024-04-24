@@ -1,13 +1,13 @@
 ---
 title: "Volar en globo en España, una experiencia inolvidable"
 date: 2020-07-07
-coverImage: etheria_images/2020/07/volar-globo-espana.jpeg
+coverImage: etheria-images/2020/07/volar-globo-espana.jpeg
 categories: 
   - regalos-compras-viajeras
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cuando queremos darnos un capricho durante nuestros viajes tratamos de buscar 
@@ -16,7 +16,7 @@ olvidaréis nunca es un vuelo en globo, una actividad disponible en muchos lugar
 nuestra geografía. Tomad nota para volar en Mallorca, el P.N. Montseny, Segovia, Toledo 
 y Valladolid. 
 
-![Un globo de colores en pleno vuelo.](etheria_images/2020/07/volar-globo-espana-900x660.jpeg "Volar en globo, una gran experiencia viajera. © Aaron Burden")
+![Un globo de colores en pleno vuelo.](etheria-images/2020/07/volar-globo-espana-900x660.jpeg "Volar en globo, una gran experiencia viajera. © Aaron Burden")
 
 La experiencia de **volar en globo** comienza mucho antes de subir al mismo. Esa emoción 
 de la primera vez se inicia, normalmente, al alba porque, según los entendidos, es el 
@@ -35,7 +35,7 @@ Como el vuelo depende de las corrientes de aire el punto de partida y de regreso
 diferir, este es el motivo por el que siempre hay un vehículo de asistencia que lo sigue 
 por tierra para volver después al lugar de inicio. 
 
-![Interior del globo cuando se está llenando.](etheria_images/2020/07/vuelo-globo-mallorca-900x600.jpeg "Interior del globo cuando se está llenando. © Erwan Hesry")
+![Interior del globo cuando se está llenando.](etheria-images/2020/07/vuelo-globo-mallorca-900x600.jpeg "Interior del globo cuando se está llenando. © Erwan Hesry")
 
 Las cestas donde van los pasajeros tienen distinta capacidad, para 4,6,8,10… y para 
 subir se requiere un pequeño esfuerzo. También las hemos visto adaptadas para sillas de 
@@ -56,7 +56,7 @@ incluso preparan Diplomas que certifican el primer vuelo, se brinda con champán
 hacen fotos para recordar ese momento. A los niños les encantará (y a los mayores, 
 aunque no lo admitamos, también). 
 
-![Imagen de un globo tomada desde el suelo.](etheria_images/2020/07/vuelo-globo-toledo-900x600.jpeg "Anímate a participar en los preparativos del globo. © Lesly Juarez")
+![Imagen de un globo tomada desde el suelo.](etheria-images/2020/07/vuelo-globo-toledo-900x600.jpeg "Anímate a participar en los preparativos del globo. © Lesly Juarez")
 
 ## Cuánto cuesta volar en globo
 
@@ -68,7 +68,7 @@ grupo familiar o de amigos. Si pensáis ir con niños, ellos tienen descuento pe
 en la gran mayoría la edad mínima es de 6 años; corroboradlo antes de comprar la 
 actividad. 
 
-![Vista aérea del puerto de Alcudia, en Mallorca.](etheria_images/2020/07/regalo-vuelo-globo-mallorca-900x675.jpg "Vista aérea del puerto de Alcudia, en Mallorca. © Farid Askerov")
+![Vista aérea del puerto de Alcudia, en Mallorca.](etheria-images/2020/07/regalo-vuelo-globo-mallorca-900x675.jpg "Vista aérea del puerto de Alcudia, en Mallorca. © Farid Askerov")
 
 ## Dónde volar en globo en España
 
@@ -89,7 +89,7 @@ En Mallorca se ofrecen [vuelos al amanecer y al atardecer desde
 /?aid=10211)[0 €](https://www.civitatis.com/es/mallorca/paseo-globo-mallorca 
 /?aid=10211), así que está en tu mano elegir madrugar o no hacerlo. 
 
-![Ruta por el Parque Natural del Montseny (Barcelona).](etheria_images/2020/07/parque-natural-montseny-900x547.jpg "Ruta por el Parque Natural del Montseny (Barcelona). © Feli Moya")
+![Ruta por el Parque Natural del Montseny (Barcelona).](etheria-images/2020/07/parque-natural-montseny-900x547.jpg "Ruta por el Parque Natural del Montseny (Barcelona). © Feli Moya")
 
 ### Montseny (Barcelona)
 
@@ -104,7 +104,7 @@ en globo sobre el
 Montseny](https://www.civitatis.com/es/barcelona/paseo-globo-montseny/?aid=10211) es de 
 190€/ adultos. 
 
-![Catedral de Segovia](etheria_images/2020/07/catedral-segovia-desde-aire-900x545.jpg "Catedral de Segovia. © Jonathan Romaine")
+![Catedral de Segovia](etheria-images/2020/07/catedral-segovia-desde-aire-900x545.jpg "Catedral de Segovia. © Jonathan Romaine")
 
 ### Segovia
 
@@ -119,7 +119,7 @@ actividad completa se prolonga durante unas 3 horas. [Vuelo en globo por
 Segovia](https://www.civitatis.com/es/segovia/paseo-globo-segovia/?aid=10211) desde 190 
 € 
 
-![Panorámica de Toledo.](etheria_images/2020/07/toledo-en-globo-900x600.jpeg "Panorámica de Toledo. © Steven Yu")
+![Panorámica de Toledo.](etheria-images/2020/07/toledo-en-globo-900x600.jpeg "Panorámica de Toledo. © Steven Yu")
 
 ### Toledo
 
@@ -132,7 +132,7 @@ en globo, adecuada casi para todo el mundo, y que genera grandes emociones. Incl
 grabación del vuelo en vídeo, diploma y cava al bajar. Precio de [volar en globo sobre 
 Toledo](https://www.civitatis.com/es/toledo/paseo-globo-toledo/?aid=10211): 200 €. 
 
-![Valladolid desde el aire.](etheria_images/2020/07/valladolid-globo-900x675.jpeg "Valladolid desde el aire. © Fernando Santander")
+![Valladolid desde el aire.](etheria-images/2020/07/valladolid-globo-900x675.jpeg "Valladolid desde el aire. © Fernando Santander")
 
 ### Valladolid
 

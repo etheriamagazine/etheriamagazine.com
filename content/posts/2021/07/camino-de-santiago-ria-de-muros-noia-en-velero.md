@@ -1,12 +1,12 @@
 ---
 title: "Camino de Santiago por la Ría de Muros-Noia, una aventura a toda vela"
 date: 2021-07-14
-coverImage: etheria_images/2021/07/camino-santiago-ria-muros-noia-velero.jpg
+coverImage: etheria-images/2021/07/camino-santiago-ria-muros-noia-velero.jpg
 categories: 
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Estrenar el nuevo Camino de Santiago por la Ría de Muros-Noia en Año Jacobeo es un 
@@ -14,7 +14,7 @@ privilegio que no hay que dejar pasar. Aprovecha este 2022 para realizar el Cami
 Santiago marítimo en velero. Te contamos todos los datos para que vivas una experiencia 
 inolvidable. 
 
-![camino santiago por la ria de muros noia](etheria_images/2021/07/camino-santiago-velero-rias-baixas.jpg "Camino de Santiago marítimo por la Ría de Muros-Noia. © Pepa García")
+![camino santiago por la ria de muros noia](etheria-images/2021/07/camino-santiago-velero-rias-baixas.jpg "Camino de Santiago marítimo por la Ría de Muros-Noia. © Pepa García")
 
 No por conocido el Camino de Santiago pierde vigencia, año tras año peregrinos de todo 
 el mundo se lanzan a las sendas para visitar la tumba del apóstol. Sin embargo, lo que 
@@ -34,7 +34,7 @@ sido reconocido por el Arzobispado con el mismo nivel de oficialidad que el Cami
 Francés, el Portugués, el Inglés o el Primitivo. El recorrido atraviesa los municipios 
 de Muros, Outes, Noia, Porto do Son, Lousame, Rois, Brión, Ames y Santiago. 
 
-![velero sailway camino de santiago](etheria_images/2021/07/camino-santiago-ria-muros-noia-velero.jpg "Navegando el Camino en velero con Sailway. © Pepa García")
+![velero sailway camino de santiago](etheria-images/2021/07/camino-santiago-ria-muros-noia-velero.jpg "Navegando el Camino en velero con Sailway. © Pepa García")
 
 ## ¿Por qué es válido hacer el Camino de Santiago en velero?
 
@@ -59,7 +59,7 @@ envía el **emperador Carlos V** en 1536 al gobernador de Galicia apercibiéndol
 pedir tributos a unos peregrinos franceses apresados en Muros cuando se dirigían a 
 Compostela. 
 
-![camino de santiago por mar en galicia](etheria_images/2021/07/camino-santiago-por-mar.jpg "Si te gusta el mar, este es el Camino de Santiago que más disfrutarás. © Pepa G.")
+![camino de santiago por mar en galicia](etheria-images/2021/07/camino-santiago-por-mar.jpg "Si te gusta el mar, este es el Camino de Santiago que más disfrutarás. © Pepa G.")
 
 Como puedes ver, no serás el primero en realizar esta modalidad jacobea pero sí estarás 
 entre los primeros en hacerte a la mar por este **Camino de Santiago por la Ría de 
@@ -77,7 +77,7 @@ otros peregrinos. Los precios no son muy elevados, 6 días te puede salir por un
 euros (corrobora precios en la salida que escojas y los extras de verano). ¿Cuándo se 
 puede hacer? Prácticamente todo el año, ya que se navega al abrigo de las rías. 
 
-![vigo partida camino de santiago en velero](etheria_images/2021/07/puerto-vigo-camino-santiago.jpg "Credencial y embarque en el puerto de Vigo, punto de partida. © Pepa G.")
+![vigo partida camino de santiago en velero](etheria-images/2021/07/puerto-vigo-camino-santiago.jpg "Credencial y embarque en el puerto de Vigo, punto de partida. © Pepa G.")
 
 Cuentan, asimismo, con todo tipo de excursiones en caso de que no te cuadren las fechas. 
 “Sumergimos a los clientes en un ambiente nuevo que les cautiva, y se produce una 
@@ -94,7 +94,7 @@ pagar para obtener el favor del apóstol. Eso es, al menos, lo que nos decimos c
 navegación deja de ser relajante y las olas desafían a un velero que se nos antoja 
 frágil a pesar de no serlo. 
 
-![camino de santiago en velero desde vigo](etheria_images/2021/07/camino-santiago-maritimo-sailway-714x1024.jpg "Miguel, patrón del velero, subiendo las defensas. © Pepa G.")
+![camino de santiago en velero desde vigo](etheria-images/2021/07/camino-santiago-maritimo-sailway-714x1024.jpg "Miguel, patrón del velero, subiendo las defensas. © Pepa G.")
 
 Como ya te hemos comentado, la aventura comienza en Vigo donde embarcas con tu mejor 
 sonrisa, y una mochila llena de biodraminas, chubasqueros y polares. Recuerda que el 
@@ -106,7 +106,7 @@ velero atracará en distintos puertos que te van acercando a Santiago. Una vez e
 puerto, existen dos opciones: dormir en el barco, utilizando los servicios de los 
 distintos clubes náuticos al llegar, o en un hotel cercano. 
 
-![camino del camping en las islas cies](etheria_images/2021/07/galicia-islas-cies-puente.jpg "Un paseo por las islas Cíes. © Pepa G.")
+![camino del camping en las islas cies](etheria-images/2021/07/galicia-islas-cies-puente.jpg "Un paseo por las islas Cíes. © Pepa G.")
 
 ### Primera parada: Islas Cíes
 
@@ -120,7 +120,7 @@ nosotros unos humildes visitantes. La belleza de la playa de Rodas es tan abruma
 aguas cristalinas. No dejes de degustar la rica cocina gallega (pulpo, mejillones, etc.) 
 en el restaurante del camping de las Cíes. 
 
-![playa de rodas islas cies](etheria_images/2021/07/galicia-playa-rodas-islas-cies.jpg "La playa de Rodas, en las islas Cíes, fue elegida entre las más bonitas del mundo. © Pepa G.")
+![playa de rodas islas cies](etheria-images/2021/07/galicia-playa-rodas-islas-cies.jpg "La playa de Rodas, en las islas Cíes, fue elegida entre las más bonitas del mundo. © Pepa G.")
 
 Navegarás en las Rías Baixas y el itinerario transcurrirá entre puertos encantadores, 
 islas dispersas (como la de Ons o la de Sálvora), barcos pesqueros y bateas que dan fe 
@@ -134,7 +134,7 @@ el itinerario a pie proporciona. Esos momentos de espiritualidad, mientras el ma
 zarandea el barco, confirman una vez más la insignificancia del ser humano ante la 
 naturaleza. 
 
-![camino de santiago por la ria de muros noia](etheria_images/2021/07/camino-santiago-muros-puerto.jpg "Llegada al puerto de Muros. © Pepa García")
+![camino de santiago por la ria de muros noia](etheria-images/2021/07/camino-santiago-muros-puerto.jpg "Llegada al puerto de Muros. © Pepa García")
 
 El pueblo de **Muros** es la segunda parada de este Camino de Santiago en velero por la 
 Ría de Muros-Noia. Aquí, además de sellar la credencial de peregrino conviene realizar 
@@ -148,7 +148,7 @@ callejuelas, hacerse una foto en el puerto junto a la ola identificadora del cam
 visitar el santuario de la Virgen del Camino y comer en el [restaurante 
 Amuradana.](https://hotelmuradana.es/restaurante) 
 
-![colegiata santa maria del campo muros galicia](etheria_images/2021/07/camino-santiago-iglesia-muros.jpg "Colegiata de Santa María del Campo, en Muros. © Pepa G.")
+![colegiata santa maria del campo muros galicia](etheria-images/2021/07/camino-santiago-iglesia-muros.jpg "Colegiata de Santa María del Campo, en Muros. © Pepa G.")
 
 ### Tercera Parada: Portosín-Noia
 
@@ -167,7 +167,7 @@ la tienes en Google
 maps](https://www.google.com/maps/d/u/0/viewer?mid=1tAAL7MmWhQdKzHbBYpuEg1uErZiaX9UV&ll=42.80323181647639%2C-8.806027500000013&z=11)). 
 En nuestro caso optamos por la versión corta con alguna parada intermedia. 
 
-![templo san martino noia museo lapidas](etheria_images/2021/07/camino-santiago-noia.jpg "Iglesia de San Martiño y Museo de Lápidas Gremiales. © P.G.")
+![templo san martino noia museo lapidas](etheria-images/2021/07/camino-santiago-noia.jpg "Iglesia de San Martiño y Museo de Lápidas Gremiales. © P.G.")
 
 ### Cuarta parada: San Xusto de Toxosoutos y Urdilde
 
@@ -179,7 +179,7 @@ mágico. Allí se puede ver un molino, la casa rectoral (se alquila como alojami
 rural) y la iglesia. Si empiezas a caminar desde aquí, tendrás por delante unos 28 
 kilómetros hasta Santiago. 
 
-![iglesia monasterio de San Xusto de Toxosoutos](etheria_images/2021/07/camino-santiago-monasterio-rio-xuso.jpg "Iglesia del monasterio de San Xusto de Toxosoutos. © Pepa G.")
+![iglesia monasterio de San Xusto de Toxosoutos](etheria-images/2021/07/camino-santiago-monasterio-rio-xuso.jpg "Iglesia del monasterio de San Xusto de Toxosoutos. © Pepa G.")
 
 Otra parada interesante es en la pequeña población de Urdilde, donde se sitúa la **Tenda 
 do Camiño** (O Estanco de Urdilde) en la que la simpática Vanessa Chico ofrece todo tipo 
@@ -188,7 +188,7 @@ Todo en este antiguo estanco convertido en tienda de ultramarinos gourmet es ape
 pero lo que no estaría de más sería pedirle que te manden el paquete a casa porque te 
 llevarías la tienda entera… 
 
-![estanco de urdilde camino santiago](etheria_images/2021/07/estanco-urdilde-camino-santiago-714x1024.jpg "Vanessa Chico en la puerta de A Tenda do Camiño, antiguo estanco de Urdilde. © Pepa G.")
+![estanco de urdilde camino santiago](etheria-images/2021/07/estanco-urdilde-camino-santiago-714x1024.jpg "Vanessa Chico en la puerta de A Tenda do Camiño, antiguo estanco de Urdilde. © Pepa G.")
 
 ### Bertamiráns, el Camino a pie
 
@@ -201,7 +201,7 @@ el chorizo con pan de maíz, las empanadas de sardina, sus pimientos del padrón
 esos lugares que deja un recuerdo imborrable en el paladar. En verano su jardín y su 
 terraza son un pequeño paraíso. 
 
-![casa abelleira camino santiago](etheria_images/2021/07/comida-bertamirans.jpg "Casa Abelleira, en Bartamirans. © Pepa G.")
+![casa abelleira camino santiago](etheria-images/2021/07/comida-bertamirans.jpg "Casa Abelleira, en Bartamirans. © Pepa G.")
 
 Recuerda que luego vas a caminar, unas dos horas y media, hasta avistar las torres de la 
 Catedral. Se pueden ver desde las primeras calles de Santiago y funcionan como el faro 
@@ -211,7 +211,7 @@ el formulario antes de pasar). Tras este sencillo trámite, sólo resta visitar 
 del apóstol en la Catedral, asistir a la misa si te apetece (se guardan distancias de 
 seguridad), y disfrutar de esta monumental ciudad. Web: oficinadelperegrino.com 
 
-![catedral santiago compostela](etheria_images/2021/07/catedral-santiago-compostela.jpg "Catedral de Santiago de Compostela, punto final de la Ruta Jacobea marítima. © Pepa G.")
+![catedral santiago compostela](etheria-images/2021/07/catedral-santiago-compostela.jpg "Catedral de Santiago de Compostela, punto final de la Ruta Jacobea marítima. © Pepa G.")
 
 Así termina el Camino de Santiago por la Ría de Muros-Noia, una experiencia que permite 
 revivir las aventuras de aquellos peregrinos ligados al mar que llegaban a Santiago para 
@@ -223,7 +223,7 @@ pedir el favor del santo. ¡Buen camino!
 
 **Sailway**. Distintas opciones de travesías jacobeas en sailway.es 
 
-![pulpo en las islas cies](etheria_images/2021/07/pulpo-galicia-camping-islas-cies-831x1024.jpg "Delicioso pulpo en el restaurante del camping de las Islas Cíes. © Pepa García")
+![pulpo en las islas cies](etheria-images/2021/07/pulpo-galicia-camping-islas-cies-831x1024.jpg "Delicioso pulpo en el restaurante del camping de las Islas Cíes. © Pepa García")
 
 ### También en Galicia...
 

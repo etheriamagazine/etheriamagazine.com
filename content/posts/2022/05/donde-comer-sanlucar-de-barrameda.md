@@ -1,14 +1,14 @@
 ---
 title: "¿Nos comemos y bebemos Sanlúcar de Barrameda?"
 date: 2022-05-11
-coverImage: etheria_images/2022/05/sanlucar-langostinos.jpg
+coverImage: etheria-images/2022/05/sanlucar-langostinos.jpg
 categories: 
   - organiza-tu-viaje
   - experiencias-viajeras
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Capital gastronómica de España 2022, Sanlúcar de Barrameda merece una visita por muchos 
@@ -16,7 +16,7 @@ motivos, y uno de ellos es la felicidad que te va a proporcionar a través del p
 Te proponemos un recorrido por sus productos estrella y sus bares y restaurantes para 
 que vayas abriendo boca antes de tu próxima visita. 
 
-![Langostinos de Sanlúcar.](etheria_images/2022/05/sanlucar-langostinos.jpg "Langostinos de Sanlúcar. © Ricardo Jiménez")
+![Langostinos de Sanlúcar.](etheria-images/2022/05/sanlucar-langostinos.jpg "Langostinos de Sanlúcar. © Ricardo Jiménez")
 
 Sanlúcar de Barrameda sabe a langostinos y a vino Manzanilla. A tardes de sol en el 
 paseo marítimo y a esa historia antigua que liga la ciudad con la llegada al Nuevo 
@@ -31,7 +31,7 @@ merecen una escapada, como la Feria de la Manzanilla, el embarque de las hermand
 Rocío o las carreras de caballos en la playa (que se celebran desde 1845), pero 
 cualquier momento del año es bueno para acercarse a Sanlúcar. 
 
-![Carreras de caballos en la playa de Sanlúcar de Barrameda.](etheria_images/2022/05/sanlucar-caballos-playa.jpg "Carreras de caballos en la playa de Sanlúcar de Barrameda.")
+![Carreras de caballos en la playa de Sanlúcar de Barrameda.](etheria-images/2022/05/sanlucar-caballos-playa.jpg "Carreras de caballos en la playa de Sanlúcar de Barrameda.")
 
 Además de un paseo para descubrir sus casonas nobles, palacios, jardines históricos y 
 bodegas, te proponemos un recorrido por esta ciudad a través de sus productos 
@@ -50,7 +50,7 @@ Guadalquivir, es inigualable y delicioso, y aunque aparece con diferentes elabor
 prueba a tomarlos sólo ligeramente cocidos, no necesitan más. Uno de los restaurantes de 
 Sanlúcar donde puedes probarlos es **Casa Bigote** (restaurantecasabigote.com). 
 
-![viñedos en Sanlúcar de Barrameda](etheria_images/2022/05/sanlucar-uvas.jpg "Uvas para el vino Manzanilla. © Ricardo Jiménez")
+![viñedos en Sanlúcar de Barrameda](etheria-images/2022/05/sanlucar-uvas.jpg "Uvas para el vino Manzanilla. © Ricardo Jiménez")
 
 #### Vino Manzanilla
 
@@ -68,7 +68,7 @@ marineros son espectaculares: papas con choco, garbanzos con langostinos, chocos
 veranillo… Si no puedes esperar para probarlos, la **familia Senra** los envasa listos 
 para calentar y los distribuye a toda España, puedes comprarlos en su [web](https://conservasenra.es/). 
 
-![Tortilla de camarones, una delicia gaditana.](etheria_images/2022/05/sanlucar-tortilla-camarones.jpg "Tortilla de camarones, una delicia gaditana. © Ricardo Jiménez")
+![Tortilla de camarones, una delicia gaditana.](etheria-images/2022/05/sanlucar-tortilla-camarones.jpg "Tortilla de camarones, una delicia gaditana. © Ricardo Jiménez")
 
 #### Dulces artesanos
 
@@ -93,7 +93,7 @@ mercado de la costa gaditana. No te pierdas un paseo entre sus puestos y pregunt
 dependientes aquellos pescados que no reconozcas, hay muchos peces que ofrece la bahía 
 de Cádiz que no son habituales en el resto de España. 
 
-![plaza en Sanlúcar con mesas en exterior](etheria_images/2022/05/sanlucar-casa-balbino.jpg "Casa Balbino en la plaza del Cabildo. © Ricardo Jiménez")
+![plaza en Sanlúcar con mesas en exterior](etheria-images/2022/05/sanlucar-casa-balbino.jpg "Casa Balbino en la plaza del Cabildo. © Ricardo Jiménez")
 
 #### La plaza del Cabildo
 
@@ -111,7 +111,7 @@ mariscos en restaurantes como **El Mirador de Doñana** (miradordonana.com), **L
 (restaurantelalonjasanlucar.com), **Casa Juan** (restaurantecasajuanorozco.com) o 
 **Avante Claro** (restauranteavanteclaro.com). 
 
-![patatas](etheria_images/2022/05/sanlucar-papas-sal.jpg "Papas cocidas con sal. © Ricardo Jiménez")
+![patatas](etheria-images/2022/05/sanlucar-papas-sal.jpg "Papas cocidas con sal. © Ricardo Jiménez")
 
 #### El Barrio Alto
 

@@ -1,17 +1,17 @@
 ---
 title: "Alemania vive, saborea y disfruta de la Navidad"
 date: 2020-11-30
-coverImage: etheria_images/2020/11/alemania-navidad-pastas.jpg
+coverImage: etheria-images/2020/11/alemania-navidad-pastas.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La Navidad en Alemania no es solo un periodo del año, es un sentimiento capaz de llenar todos los rincones y vestirlo de luces, ilusión, aromas y música. Aunque no haya mercadillos este 2020, los hogares alemanes seguirán fieles a unas tradiciones centenarias que se siguen perpetuando de padres a hijos.
 
-![galletas de navidad en alemania](etheria_images/2020/11/alemania-navidad-pastas.jpg "Preparando galletas navideñas. © GNTB/ Getty Images/ GMVozd")
+![galletas de navidad en alemania](etheria-images/2020/11/alemania-navidad-pastas.jpg "Preparando galletas navideñas. © GNTB/ Getty Images/ GMVozd")
 
 Cada país conserva en la memoria colectiva un puñado de tradiciones que es legado de 
 generación en generación, a veces de una forma íntegra y otras con pequeñas matizaciones 
@@ -22,7 +22,7 @@ los regalos de San Nicolás, los dulces especiados que animan el paladar, la luz
 velas de la corona de Adviento o el árbol navideño. Te contamos la historia que guardan 
 algunos de ellos y cómo en conjunto se compone la melodía de la Navidad en este país. 
 
-![calendario de adviento casero en alemania](etheria_images/2020/11/alemania-navidad-calendario-adviento.jpg "Calendario de Adviento. © GNTB/ Getty Images/ Nils Hendrik M.")
+![calendario de adviento casero en alemania](etheria-images/2020/11/alemania-navidad-calendario-adviento.jpg "Calendario de Adviento. © GNTB/ Getty Images/ Nils Hendrik M.")
 
 ## 1\. Calendario de Adviento, la cuenta atrás
 
@@ -38,7 +38,7 @@ Si vais a la población de Hanau (Hesse) durante el periodo navideño podréis v
 Ayuntamiento convertido en un gigantesco calendario de Adviento, donde cada día se abre 
 una ventanita que muestra motivos iluminados de los cuentos de los hermanos Grimm. 
 
-![bizcocho navidad en nuremberg alemania](etheria_images/2020/11/alemania-navidad-reposteria-Nuremberg.jpg "Bizcocho tradicional de Núremberg. © GNTB/ Knut Pflaumer")
+![bizcocho navidad en nuremberg alemania](etheria-images/2020/11/alemania-navidad-reposteria-Nuremberg.jpg "Bizcocho tradicional de Núremberg. © GNTB/ Knut Pflaumer")
 
 ## 2\. Aromas de canela, clavo, vainilla y anís
 
@@ -49,7 +49,7 @@ cuando empiezan ya no paran hasta Navidad. De sus cocinas comienzan a salir arom
 canela, clavo, vainilla y anís que luego se concretan en figuritas navideñas de masa 
 quebrada, medias lunas de vainilla, estrellas de canela, pastas y almendrados. 
 
-![Aachener Printen galletas de aquisgran](etheria_images/2020/11/alemania-pastas-navidad-Aachener-Printen.jpg "Las Aachener Printen son un tipo de galletas de Aquisgrán. ©GNTB/ Stockfood/ Kramp+Gölling")
+![Aachener Printen galletas de aquisgran](etheria-images/2020/11/alemania-pastas-navidad-Aachener-Printen.jpg "Las Aachener Printen son un tipo de galletas de Aquisgrán. ©GNTB/ Stockfood/ Kramp+Gölling")
 
 Cada región aporta su propia especialidad. Podemos encontrar el Stollen de Dresde, que 
 es un bizcocho de mazapán; las Lebkuchen de Núremberg, unas ricas galletas especiadas; 
@@ -58,7 +58,7 @@ cerezas. Igual de apetecibles son los Bethmännchen de mazapán de Fráncfort y 
 Springerle, unas galletas suabas con dibujos en relieve. Sin duda, un espléndido surtido 
 con el que peligra mantener la dieta en Navidad. 
 
-![corona de adviento tradicion de la navidad alemana](etheria_images/2020/11/alemania-navidad-coronas-adviento.jpg "Corona de Adviento. © GNTB/ Getty Images/ Gzorgz")
+![corona de adviento tradicion de la navidad alemana](etheria-images/2020/11/alemania-navidad-coronas-adviento.jpg "Corona de Adviento. © GNTB/ Getty Images/ Gzorgz")
 
 ## 3\. Las velas de la Corona de Adviento
 
@@ -73,7 +73,7 @@ abeto también se ha modernizado introduciendo otros elementos como metal, mader
 Sea como fuere, las coronas de Adviento son otro elemento navideño que entretiene en la 
 cuenta atrás para el gran día de Navidad. 
 
-![san nicolas trae regalos en alemania](etheria_images/2020/11/alemania-navidad-san-nicolas.jpg "San Nicolás acompañado de sus ángeles. © Getty Images/ Westend 61")
+![san nicolas trae regalos en alemania](etheria-images/2020/11/alemania-navidad-san-nicolas.jpg "San Nicolás acompañado de sus ángeles. © Getty Images/ Westend 61")
 
 ## 4\. San Nicolás y sus regalos en las botas
 
@@ -86,7 +86,7 @@ en las puertas de sus casas. En las zonas alpinas hay otra figura menos benévol
 terrorífico Krampus, que castiga a aquellos que no se hayan portado bien, así que habrá 
 que comportarse para que no sea este el que acuda... 
 
-![villancicos dedicados a los arboles navidad](etheria_images/2020/11/alemania-canta-arbol-navidad.jpg "Algunos villancicos se dedican a los árboles. © GNTB/ Istock/ Aleksandar Nakic")
+![villancicos dedicados a los arboles navidad](etheria-images/2020/11/alemania-canta-arbol-navidad.jpg "Algunos villancicos se dedican a los árboles. © GNTB/ Istock/ Aleksandar Nakic")
 
 ## 5\. Canciones a un árbol de Navidad
 
@@ -97,7 +97,7 @@ traslada a la esfera urbana y a la más íntima de los hogares. Grandes árboles
 y con todo tipo de detalles lucen en plazas, iglesias, edificios públicos, etc. Esta 
 costumbre, que se inició en el siglo XIX, no ha hecho más que afianzarse con el tiempo. 
 
-![decorar el arbol de navidad en alemania](etheria_images/2020/11/alemania-arbol-navidad-en-casa.jpg "El árbol se decora en familia. © GNTB/ Getty Images/ Westend 61")
+![decorar el arbol de navidad en alemania](etheria-images/2020/11/alemania-arbol-navidad-en-casa.jpg "El árbol se decora en familia. © GNTB/ Getty Images/ Westend 61")
 
 Las familias alemanas suelen comprar los árboles en los mercadillos o en parcelas donde 
 se plantan para esta ocasión, a veces los decoran a principios de diciembre o bien los 
@@ -105,7 +105,7 @@ colocan para la cena de Nochebuena. Decorar el árbol es un momento importante q
 suele hacer en familia, y muchas veces con adornos heredados que guardan un significado 
 especial. 
 
-![desfile de mineros en sajonia](etheria_images/2020/11/alemania-desfile-navidad-mineros.jpg "Desfile de mineros en Annaberg-Buchholz, en los Montes Metálicos (Sajonia). © GNTB")
+![desfile de mineros en sajonia](etheria-images/2020/11/alemania-desfile-navidad-mineros.jpg "Desfile de mineros en Annaberg-Buchholz, en los Montes Metálicos (Sajonia). © GNTB")
 
 ## 6\. Mineros y pesebres para acortar la espera
 
@@ -125,7 +125,7 @@ vecinos practican el “elogio del árbol de Navidad”, que consiste en ir de v
 vecino diciéndole piropos a los árboles. Los más agradecidos les regalan, a cambio de 
 las lisonjas, una botella de aguardiente u otro detalle. 
 
-![cena nochebuena en alemania](etheria_images/2020/11/alemania-cena-navidad.jpg "Cena de Nochebuena. © GNTB/ Getty Images/ Álvarez")
+![cena nochebuena en alemania](etheria-images/2020/11/alemania-cena-navidad.jpg "Cena de Nochebuena. © GNTB/ Getty Images/ Álvarez")
 
 ## 7\. Cena, misa y regalos del Niño Jesús o de Papá Noel
 

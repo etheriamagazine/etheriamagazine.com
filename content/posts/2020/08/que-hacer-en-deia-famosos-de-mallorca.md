@@ -1,19 +1,19 @@
 ---
 title: "Deià, el pueblo mallorquín que ha enamorado a ricos y famosos"
 date: 2020-08-28
-coverImage: etheria_images/2020/08/que-ver-deia-mallorca.jpg
+coverImage: etheria-images/2020/08/que-ver-deia-mallorca.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 Aprovecha el buen tiempo para conocer los paisajes y el ambiente que han seducido en Deià a nobles, actores, literatos y artistas desde hace siglos. Te contamos qué tienes que ver y hacer para sentirte un vecino glamuroso más de este bello pueblo mallorquín.
 
-![que ver en deia, vista de deia, viaje a Mallorca, famosos de mallorca](etheria_images/2020/08/que-ver-deia-mallorca.jpg "Panorámica de Deià. © Pedro Grifol")
+![que ver en deia, vista de deia, viaje a Mallorca, famosos de mallorca](etheria-images/2020/08/que-ver-deia-mallorca.jpg "Panorámica de Deià. © Pedro Grifol")
 
 Jordi, el propietario del **chiringuito de C’an Lluch**, quiere aprovechar lo que le 
 queda de verano para seguir ofreciendo su clásica parrillada de pescado a los 
@@ -24,7 +24,7 @@ Si no conoces **Deià**, irremediablemente tienes que ir a visitarlo. Tienes que
 comprobar **por qué ricos y famosos han elegido este pueblo** como refugio veraniego, 
 como fuente de inspiración o como lugar especial para pasar el resto de su vida. 
 
-![chiringuito can Lluch, que ver en mallorca, deia](etheria_images/2020/08/mallorca-Chiringuito-Can-Lluch.jpg "Chiringuito de C’an Lluch. © Pedro Grifol")
+![chiringuito can Lluch, que ver en mallorca, deia](etheria-images/2020/08/mallorca-Chiringuito-Can-Lluch.jpg "Chiringuito de C’an Lluch. © Pedro Grifol")
 
 ## Famosos en Mallorca
 
@@ -39,7 +39,7 @@ mar, árboles umbrosos… y poca política”. Deià era el sitio exacto. El lug
 carpetazo a su tierra natal. Posteriormente plasmó sus poéticas impresiones en ‘Adiós a 
 todo eso’, y en ‘Por qué vivo en Mallorca’. 
 
-![hotel des Puig, hoteles historicos de mallorca](etheria_images/2020/08/deia-Hotel-des-Puig.jpg "Histórico hotel D’es Puig. © Pedro Grifol")
+![hotel des Puig, hoteles historicos de mallorca](etheria-images/2020/08/deia-Hotel-des-Puig.jpg "Histórico hotel D’es Puig. © Pedro Grifol")
 
 Su casa, [Ca 
 n’Alluny](https://www.illesbalears.travel/recurso-turistico/es/mallorca/museo-ca-nalluny-casa-museo-de-robert-graves) 
@@ -51,7 +51,7 @@ sin cruces ni estatuas mortuorias, por el que todos los turistas transitan, aunq
 precisamente para buscar la tumba del poeta, sino para gozar de las impresionantes 
 vistas que ofrece sobre un altozano a 200 metros de altitud. 
 
-![can alluny, Robert Graves, mallorca, deia](etheria_images/2020/08/Ca-Alluny-Robert-Graves.jpg "Ca n’Alluny, la casa de Robert Graves.")
+![can alluny, Robert Graves, mallorca, deia](etheria-images/2020/08/Ca-Alluny-Robert-Graves.jpg "Ca n’Alluny, la casa de Robert Graves.")
 
 > Una variopinta lista de invitados: Jorge Luis Borges, Ava Gardner, Anäis Nin, Stephen 
 > Hawking… desfilaron por Ca n’Alluny. 
@@ -66,7 +66,7 @@ Al albor de la intelectualidad, también los hippies hicieron su aparición en l
 ochenta; y para rematar el desfile de visitantes curiosos, los últimos en llegar han 
 sido los ‘ricos y famosos’. 
 
-![vistas de deia, cementerio de deia, que ver en mallorca](etheria_images/2020/08/mallorca-cementerio-deia.jpg "Vistas desde el cementerio de Deià. © Pedro Grifol")
+![vistas de deia, cementerio de deia, que ver en mallorca](etheria-images/2020/08/mallorca-cementerio-deia.jpg "Vistas desde el cementerio de Deià. © Pedro Grifol")
 
 ## Las románticas villas del primo de Sissi
 
@@ -79,7 +79,7 @@ eligió Deià para instalarse. Abandonó la Corte de Austria y empezó a constru
 turista” fueron sus palabras (que suena a frase de folleto publicitario de no hace tanto 
 tiempo). 
 
-![san marroig, que ver en deia](etheria_images/2020/08/Templete-de-Son-Marroig.jpg "Luis Salvador de Habsburgo y templete de San Marroig. © Pedro Grifol")
+![san marroig, que ver en deia](etheria-images/2020/08/Templete-de-Son-Marroig.jpg "Luis Salvador de Habsburgo y templete de San Marroig. © Pedro Grifol")
 
 De entre sus residencias destaca [Son Marroig](http://www.sonmarroig.com), una 
 laberíntica mansión (a 3 km del pueblo) llena de muebles de época, que es visitable. Un 
@@ -87,7 +87,7 @@ empinado sendero a través de olivares, pinos y ovejas conduce cuesta abajo –�
 que subirla!– a **Sa Foradada**, una roca junto al acantilado con un agujero por el que 
 se cuela una fascinante puesta de sol. Imprescindible visita. 
 
-![Sa Foradada, que ver en mallorca, que ver en deia](etheria_images/2020/08/mallorca-Sa-Foradada.jpg "Sa Foradada. © Pedro Grifol")
+![Sa Foradada, que ver en mallorca, que ver en deia](etheria-images/2020/08/mallorca-Sa-Foradada.jpg "Sa Foradada. © Pedro Grifol")
 
 > Joaquín Mir, Santiago Rusiñol, Manuel de Falla, Julio Cortázar o Gabriel García Márquez 
 > también fueron turistas-artistas del icónico pueblo de Deià. 
@@ -100,7 +100,7 @@ sirve a sus invitados: ‘Cameron’, un tinto joven; ‘Kirk’, gran reserva; 
 blanco malvasía especial de la casa. Abstenerse _paparazzis_ porque este año, por 
 razones obvias, la famosa pareja no ha venido. 
 
-![casa de Michael Douglas mallorca, famosos en mallorca](etheria_images/2020/08/deia-Estaca-casa-Michael-Douglas.jpg "Casa de Michael Douglas y Catherine Zeta-Jones.")
+![casa de Michael Douglas mallorca, famosos en mallorca](etheria-images/2020/08/deia-Estaca-casa-Michael-Douglas.jpg "Casa de Michael Douglas y Catherine Zeta-Jones.")
 
 El archiduque fue a morir, en el año 1915, al Castillo de Brandeis (perteneciente ahora 
 a la República Checa) pero eso ya no pertenece a la historia del pueblo. 
@@ -109,7 +109,7 @@ De entre el selecto grupo de poderosos del mundo establecidos en Deià, destaca 
 fuerza arquitectónica, situación y extensión la residencia veraniega del compositor 
 **Andrew Lloyd Webber**… ¡nada que ver con ‘la austeridad’ de _Jesucristo Superstar_! 
 
-![cala deia, calas de mallorca, que ver en mallorca](etheria_images/2020/08/mallorca-Cala-de-Deia.jpg "Cala de Deià. © Pedro Grifol")
+![cala deia, calas de mallorca, que ver en mallorca](etheria-images/2020/08/mallorca-Cala-de-Deia.jpg "Cala de Deià. © Pedro Grifol")
 
 ## Cuando llega el atardecer
 
@@ -119,7 +119,7 @@ gastronomía del lugar. Puedes salir a la búsqueda de una pizza… o comprar so
 embutido rojo mallorquín por excelencia) en la tienda de ultramarinos local: **Forn 
 Deià** –también tienen buen pan–, y comértela en la terraza del hotel. 
 
-![calles de deia, que ver en deia, mallorca famosos](etheria_images/2020/08/mallorca-visita-deia.jpg "Calles de Deià (Mallorca). © Pedro Grifol")
+![calles de deia, que ver en deia, mallorca famosos](etheria-images/2020/08/mallorca-visita-deia.jpg "Calles de Deià (Mallorca). © Pedro Grifol")
 
 Para degustar el _tumbet_ (hortalizas de verano, fritas y melosas), la _coca de 
 escalivada_ (torta crujiente con berenjenas, cebollas y anchoa), o el _trempó_ (ensalada 
@@ -130,7 +130,7 @@ atenderá personalmente y te explicará los secretos de esta cocina desde que en
 empezó en la plataforma rocosa de la cala en **C’as Patró March**. Raciones grandes, tal 
 como les gusta a los _deianencs._ 
 
-![Antonia rullan, ca. na marca, restaurantes deia](etheria_images/2020/08/deia-Antonia-Ca-Na-Rullan.jpg "Antonia Rullán, propietaria de Ca Na Marca. © Pedro Grifol")
+![Antonia rullan, ca. na marca, restaurantes deia](etheria-images/2020/08/deia-Antonia-Ca-Na-Rullan.jpg "Antonia Rullán, propietaria de Ca Na Marca. © Pedro Grifol")
 
 Las raciones pequeñas, o de diseño, están en [Sebastian](http://www.restaurantesebastian.com). 
 Sebastian Pasch, chef y propietario del restaurante se especializa en el uso de 
@@ -143,7 +143,7 @@ en 1999, merecedor de la estrella Michelin en 2002 y propiedad del chef Josef
 Sauerschell. Su cocina no es tan extravagante como la de otros restaurantes de este 
 tipo, pero el resultado es espectacular. Precios _ad hoc_ con la estrella. 
 
-![cafe sa fonda, famosos de deia, que ver en mallorca](etheria_images/2020/08/cafe-sa-fonda-deia-mallorca.jpg "Cafè Sa Fonda, en Deià, Mallorca. © Pedro Grifol")
+![cafe sa fonda, famosos de deia, que ver en mallorca](etheria-images/2020/08/cafe-sa-fonda-deia-mallorca.jpg "Cafè Sa Fonda, en Deià, Mallorca. © Pedro Grifol")
 
 El _gin tonic_ puede tomarse en el [Cafè Sa 
 Fonda](https://www.facebook.com/BarSaFonda/), que es, desde los años ochenta, el sitio 
@@ -162,7 +162,7 @@ darnos un baño en la cala. Por la tarde: siesta y opcional paseo por algún cam
 costero, como el que conduce a hasta la **aldea de Llucalcari** ¡y a pensar en otro día 
 feliz!, que el verano se acaba. 
 
-![cafe social, que ver en deia, viaje Mallorca](etheria_images/2020/08/eduardo-cafe-social-deia.jpg "Eduardo, de Café Social. © Pedro Grifol")
+![cafe social, que ver en deia, viaje Mallorca](etheria-images/2020/08/eduardo-cafe-social-deia.jpg "Eduardo, de Café Social. © Pedro Grifol")
 
 ### GUÍA ETHERIA
 
@@ -187,7 +187,7 @@ untarla en pan. El manjar debe de acompañarse con olivas maceradas en agua sala
 pimienta y hojas de limón, hinojo marino (que lo venden en bote) y, si puede ser, 
 untarlas en galletas de Inca. Las cosas de comer ¡como tienen que ser! Buen provecho. 
 
-![sobrasada Mallorca, que comer en mallorca](etheria_images/2020/08/deia-Sobrasada-olivas-hinojo-marino-galletas-de-Inca.jpg "Pack completo: sobrasada, olivas, hinojo... © Pedro Grifol")
+![sobrasada Mallorca, que comer en mallorca](etheria-images/2020/08/deia-Sobrasada-olivas-hinojo-marino-galletas-de-Inca.jpg "Pack completo: sobrasada, olivas, hinojo... © Pedro Grifol")
 
 ##### Dónde dormir
 
@@ -200,7 +200,7 @@ imposibles de adivinar desde la calle, como la piscina y la terraza.
 antiguo, esta casa familiar repleta de antigüedades lleva más de un siglo alojando a 
 mochileros de todo el mundo. Habitaciones a 75 €. 
 
-![hostal villaverde, hoteles en deia, hoteles baratos mallorca](etheria_images/2020/08/hostal-villaverde-deia-barato-mallorca.jpg "Hostal Villaverde, en Deià, Mallorca. © Pedro Grifol")
+![hostal villaverde, hoteles en deia, hoteles baratos mallorca](etheria-images/2020/08/hostal-villaverde-deia-barato-mallorca.jpg "Hostal Villaverde, en Deià, Mallorca. © Pedro Grifol")
 
 Otro de los hoteles más emblemáticos es [La 
 Residencia](http://www.belmond.com/laresidencia). El empresario **Richard Branson** 

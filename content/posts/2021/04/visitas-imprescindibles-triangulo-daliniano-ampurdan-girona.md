@@ -1,16 +1,16 @@
 ---
 title: "Contágiate de la locura de Dalí en el Triángulo daliniano"
 date: 2021-04-21
-coverImage: etheria_images/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg
+coverImage: etheria-images/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg
 categories: 
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 Dalí es una gran excusa para viajar a Girona y disfrutar haciendo la ruta del Triángulo daliniano. En este artículo te contamos qué lugares visitar para descubrir en solo tres visitas las claves de este artista: Figueres, donde nació; Cadaqués, su refugio; y Púbol, el feudo de su musa.
 
-![sala mae west del teatro museo dali ruta de dali en girona](etheria_images/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg "Sala de Mae West, en el Teatro Museo Dalí. © Pedro Grifol")
+![sala mae west del teatro museo dali ruta de dali en girona](etheria-images/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg "Sala de Mae West, en el Teatro Museo Dalí. © Pedro Grifol")
 
 Hay creadores controvertidos y personajes raros, y después está Él: Dalí, un artista que 
 dejó al mundo atónito y que siguió haciéndolo tras su muerte. París y Nueva York dejaron 
@@ -19,7 +19,7 @@ su devenir existencial como su tierra natal, el **Ampurdán**. En Etheria Magazi
 seguido sus huellas, y visitado los lugares donde nació, vivió y fueron fuente de 
 inspiración. ¿Nos acompañas a conocer sus principales refugios en Girona? 
 
-![teatro museo dali de figueres triangulo daliniano](etheria_images/2021/03/Figueres-Teatro-Museo-Dali-vista-frontal.jpg "Teatro Museo Dalí en Figueres.© Pedro Grifol")
+![teatro museo dali de figueres triangulo daliniano](etheria-images/2021/03/Figueres-Teatro-Museo-Dali-vista-frontal.jpg "Teatro Museo Dalí en Figueres.© Pedro Grifol")
 
 ## Figueres, primer vértice del Triángulo daliniano
 
@@ -31,7 +31,7 @@ menos) del lugar, descubre el movimiento de moda: el **Impresionismo**. Aquella
 experiencia vivencial le llevó a iniciar su trayectoria artística, y se matriculó en la 
 escuela de dibujo del pueblo. 
 
-![cupula geodesica del teatro dali figueres](etheria_images/2021/03/cupula-geodesica-del-Teatro-Museo-Dali.jpg "Cúpula geodésica del Teatro Museo Dalí, en Figueres. © Pedro Grifol")
+![cupula geodesica del teatro dali figueres](etheria-images/2021/03/cupula-geodesica-del-Teatro-Museo-Dali.jpg "Cúpula geodésica del Teatro Museo Dalí, en Figueres. © Pedro Grifol")
 
 #### Teatro Museo Dalí, en Figueres
 
@@ -44,7 +44,7 @@ surrealista** concebida por el genio creador de Dalí. Todos los detalles fueron
 diseñados por él siguiendo un peculiar transcurso desde sus inicios hasta el final de su 
 vida, porque allí también se encuentra el **mausoleo** en el que descansan sus restos. 
 
-![torre galatea visita imprescindible triangulo daliniano](etheria_images/2021/03/Figueres-Torre-Galatea-del-Museo-Dali-666x1024.jpg "Torre Galatea del Museo Dalí en Figueres. © Pedro Grifol")
+![torre galatea visita imprescindible triangulo daliniano](etheria-images/2021/03/Figueres-Torre-Galatea-del-Museo-Dali-666x1024.jpg "Torre Galatea del Museo Dalí en Figueres. © Pedro Grifol")
 
 Así, el recorrido visual se transforma en una suerte de viaje escenográfico por un mundo 
 surreal de montajes ópticos, como el sofá-labios de la **sala Mae West**; o los 
@@ -57,7 +57,7 @@ todo.
 
 > “La única diferencia entre un loco y yo es que yo no estoy loco”. _Salvador Dalí_ 
 
-![El taxi lluvioso y la reina Ester museo dali figueres](etheria_images/2021/03/axi-lluvioso-y-reina-Ester-736x1024.jpg "'El taxi lluvioso y la reina Ester'. © Pedro Grifol")
+![El taxi lluvioso y la reina Ester museo dali figueres](etheria-images/2021/03/axi-lluvioso-y-reina-Ester-736x1024.jpg "'El taxi lluvioso y la reina Ester'. © Pedro Grifol")
 
 ## Cadaqués, segundo vértice del Triángulo daliniano
 
@@ -69,7 +69,7 @@ de sus padres, fue donde construyó su **mansión refugio** junto a una bahía l
 **Portlligat**. Allí vivió con su amante, esposa y musa (por ese orden) Helena Ivànovna 
 Diakonova, es decir: Gala. 
 
-![casa museo de portlligat triangulo daliniano](etheria_images/2021/03/casa-dali-portlligat.jpg "Casa-museo Dalí en Portlligat.")
+![casa museo de portlligat triangulo daliniano](etheria-images/2021/03/casa-dali-portlligat.jpg "Casa-museo Dalí en Portlligat.")
 
 ### Cómo es la Casa-museo de Dalí en Portlligat
 
@@ -84,7 +84,7 @@ abalorios ¿Qué criterio seguirían Gala y Dalí a la hora de decorar su casa? 
 sabremos, pero intuimos que tal barroquismo responde a una mitología privada y obsesiva, 
 y probablemente, al deseo de epatar a los invitados. Propósito conseguido. 
 
-![Oso disecado en la Casa museo Dalí en Portlligat](etheria_images/2021/03/Oso-disecado-en-la-Casa-museo-Dali-en-Portlligat.jpg "Oso disecado en la Casa-museo Dalí en Portlligat.")
+![Oso disecado en la Casa museo Dalí en Portlligat](etheria-images/2021/03/Oso-disecado-en-la-Casa-museo-Dali-en-Portlligat.jpg "Oso disecado en la Casa-museo Dalí en Portlligat.")
 
 ### Otras visitas en Cadaqués
 
@@ -114,7 +114,7 @@ Fue el **refugio para Gala**, donde ella podía descansar de la agitada vida med
 que llevaba con su marido; de hecho, incluso el mismísimo Dalí tenía que ser invitado 
 formalmente para visitarla en su castillo. 
 
-![jardin del castillo de gala triangulo daliniano](etheria_images/2021/03/jardin-castillo-Pubol-de-dali.jpg "Jardín del castillo de Púbol.")
+![jardin del castillo de gala triangulo daliniano](etheria-images/2021/03/jardin-castillo-Pubol-de-dali.jpg "Jardín del castillo de Púbol.")
 
 ### Tumba de Gala y último estudio de Dalí
 
@@ -131,7 +131,7 @@ de un cuento surreal.
 > “Solo hay una diferencia entre un loco y yo. El loco piensa que está cuerdo. Yo sé que 
 > estoy loco”. Salvador Dalí 
 
-![elefante en el jardin del castillo de pubol triangulo daliniano](etheria_images/2021/03/Elefante-en-el-jardin-del-castillo-de-Pubol.jpg "Elefante en el jardín del castillo de Púbol.")
+![elefante en el jardin del castillo de pubol triangulo daliniano](etheria-images/2021/03/Elefante-en-el-jardin-del-castillo-de-Pubol.jpg "Elefante en el jardín del castillo de Púbol.")
 
 En estos tiempos que vivimos, diríase que la popularidad de la que gozaba Dalí era la 
 consecuencia de ese comportamiento social que hoy llamamos ‘postureo’, pero, aunque el 
@@ -151,7 +151,7 @@ Así que es recomendable **alojarse en Figueres** un par de noches, que además 
 pueblo con algunas tentaciones turísticas más, aparte de las que giran en torno a la 
 ilustre figura de su ciudadano más emblemático. 
 
-![dormitorio de gala y dali en el teatro museo de figueres](etheria_images/2021/03/Dormitorio-de-Gala-y-Dali-Teatro-Museo-Dali.jpg "Dormitorio de Gala y Dalí, en el Teatro Museo Dalí. © Pedro Grifol")
+![dormitorio de gala y dali en el teatro museo de figueres](etheria-images/2021/03/Dormitorio-de-Gala-y-Dali-Teatro-Museo-Dali.jpg "Dormitorio de Gala y Dalí, en el Teatro Museo Dalí. © Pedro Grifol")
 
 ##### 2 rutas guiadas de Civitatis con Dalí como protagonista
 
@@ -171,7 +171,7 @@ Salvador Puig Antich, Terenci Moix, etc. Naturalmente, no podía faltar **una sa
 dedicada a Salvador Dalí**, donde se encuentra el osito Marquina, que García Lorca 
 menciona en sus cartas. Entrañable. 
 
-![Museo del Juguete de Figueres triangulo daliniano](etheria_images/2021/03/Figueres-Museo-del-Juguete.jpg "Museo del Juguete de Figueres.")
+![Museo del Juguete de Figueres triangulo daliniano](etheria-images/2021/03/Figueres-Museo-del-Juguete.jpg "Museo del Juguete de Figueres.")
 
 ##### Café Astoria
 
@@ -184,7 +184,7 @@ está muy reformado, mantiene intacta la zona de **barra.**
 En el Hotel Plaza Inn destaca la decoración de las habitaciones con pinturas realizadas 
 por la Escuela de Arte de Olot. Sus precios son bastante asequibles. 
 
-![Comedor Dalí en el Hotel Durán de Figueres.](etheria_images/2021/03/Figueres-comedor-Dali-en-el-Hotel-Duran.jpg "Comedor Dalí en el Hotel Durán de Figueres. © Pedro Grifol")
+![Comedor Dalí en el Hotel Durán de Figueres.](etheria-images/2021/03/Figueres-comedor-Dali-en-el-Hotel-Duran.jpg "Comedor Dalí en el Hotel Durán de Figueres. © Pedro Grifol")
 
 ##### Hotel Durán
 
@@ -203,7 +203,7 @@ habrá que consultar las páginas web de cada uno de ellos.
 
 [Fundación Gala- Salvador Dalí](http://www.salvador-dali.org). 
 
-![teatro museo dali de figueres](etheria_images/2021/03/Figueres-Teatro-Museo-Dali.jpg "Teatro Museo Dalí en Figueres. © Pedro Grifol")
+![teatro museo dali de figueres](etheria-images/2021/03/Figueres-Teatro-Museo-Dali.jpg "Teatro Museo Dalí en Figueres. © Pedro Grifol")
 
 ### También te puede interesar...
 

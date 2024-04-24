@@ -1,11 +1,11 @@
 ---
 title: "Senderismo en La Palma, descubre sus rutas más bonitas"
 date: 2023-05-24
-coverImage: etheria_images/2023/05/etheria-la-palma.jpg
+coverImage: etheria-images/2023/05/etheria-la-palma.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Con más de mil kilómetros señalizados, la isla de La Palma es uno de los paraísos con 
@@ -13,7 +13,7 @@ los que sueña cualquier senderista. A través de sus itinerarios se descubre el
 más virgen de este territorio canario. Si a ti te va lo verde y quieres conocer las 
 rutas más bonitas de La Palma sigue leyendo... No te arrepentirás. 
 
-![Ruta del Cubo de la Galga en La Palma](etheria_images/2023/05/ruta-cubo-galga-683x1024.jpg "Ruta del Cubo de la Galga. © Turismo Islas Canarias")
+![Ruta del Cubo de la Galga en La Palma](etheria-images/2023/05/ruta-cubo-galga-683x1024.jpg "Ruta del Cubo de la Galga. © Turismo Islas Canarias")
 
 Más de mil kilómetros de senderos vertebran este pequeño paraíso canario, caminos 
 sinuosos que regalan los paisajes más sorprendentes, algunos cubiertos de la exuberante 
@@ -34,7 +34,7 @@ algún tramo de 8 o 10 kilómetros que te permita observar algunos volcanes tan 
 como San Antonio y Teneguía. Usa un calzado que no resbale porque hay tramos 
 descendentes con muchas piedrecitas sueltas... 
 
-![Un paseo por caminos de tierra volcánica.](etheria_images/2023/05/senderismo-la-palma-volcanes.jpg "Un paseo por caminos de tierra volcánica. © Turismo de Islas Canarias")
+![Un paseo por caminos de tierra volcánica.](etheria-images/2023/05/senderismo-la-palma-volcanes.jpg "Un paseo por caminos de tierra volcánica. © Turismo de Islas Canarias")
 
 Igual de interesante es la **Ruta de Marcos y Corderos**, que parte de la Casa del 
 Monte, adonde puedes llegar en un taxi 4x4, y que se adentra en el **Bosque de los 
@@ -43,7 +43,7 @@ atraviesa con sus túneles excavados en la roca, canales de agua creados por los
 agricultores y los manantiales de Marcos y Corderos. Este itinerario cuenta con diversas 
 variantes por lo que también es adaptable al nivel físico. 
 
-![Bosque de los Tilos.](etheria_images/2023/05/bosque-tilos.jpg "Bosque de los Tilos. © Etheria Magazine")
+![Bosque de los Tilos.](etheria-images/2023/05/bosque-tilos.jpg "Bosque de los Tilos. © Etheria Magazine")
 
 ## Rutas menos conocidas
 
@@ -66,7 +66,7 @@ estado físico en el **Sendero al Bejenado** (PR LP 13.3), que lleva a un precio
 natural sobre el Parque Nacional de la Caldera de Taburiente y el Valle de Aridane, 
 aunque primero hay que llegar hasta la cima subiendo una cuesta muy empinada. 
 
-![Parque Nacional de La Caldera de Taburiente.](etheria_images/2023/05/caldera-taburiente.jpg "Parque Nacional de La Caldera de Taburiente. © Turismo de Islas Canarias")
+![Parque Nacional de La Caldera de Taburiente.](etheria-images/2023/05/caldera-taburiente.jpg "Parque Nacional de La Caldera de Taburiente. © Turismo de Islas Canarias")
 
 ## Festival de Senderismo de La Palma
 
@@ -80,7 +80,7 @@ senderistas experimentados. Es interesante aprovechar la ocasión para apuntarse
 que no son conocidas y que permiten descubrir, acompañados por especialistas, los 
 caminos menos habituales de La Palma. 
 
-![Transvulcania carrera en La Palma](etheria_images/2023/05/transvulcania-la-palma.jpg "© Transvulcania.")
+![Transvulcania carrera en La Palma](etheria-images/2023/05/transvulcania-la-palma.jpg "© Transvulcania.")
 
 ## La Transvulcania
 

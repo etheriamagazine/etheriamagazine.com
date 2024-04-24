@@ -1,13 +1,13 @@
 ---
 title: "Piscinas naturales de la Sierra de Francia, un chapuzón entre montañas"
 date: 2023-08-28
-coverImage: etheria_images/2023/08/piscina-natural-montemayor-rio-salamanca.jpg
+coverImage: etheria-images/2023/08/piscina-natural-montemayor-rio-salamanca.jpg
 categories: 
   - viaje-en-familia
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cuando la orilla del mar no está cerca y apetece refrescarse, una de las propuestas más 
@@ -15,7 +15,7 @@ apetecibles en Salamanca son las pozas, ríos y piscinas naturales de la Sierra 
 Francia. Esta tierra rica en cultura, naturaleza, gastronomía y vinos, es también un 
 planazo para una escapada de interior en verano. 
 
-![Piscina natural de Montemayor del Río.](etheria_images/2023/08/piscina-natural-montemayor-rio-salamanca-850x638.jpg "Piscina natural de Montemayor del Río. © Pepa García")
+![Piscina natural de Montemayor del Río.](etheria-images/2023/08/piscina-natural-montemayor-rio-salamanca-850x638.jpg "Piscina natural de Montemayor del Río. © Pepa García")
 
 Para enamorarse de la Sierra de Francia basta dejarse llevar por sus carreteras 
 secundarias y darse el capricho de parar en cada uno de sus quince pueblos o en sus 
@@ -55,7 +55,7 @@ carretera antes de atravesar el viaducto y allí, entre montañas, aparecerán d
 zonas de baño para refrescarse, entre las que destacan **la gran piscina y el Charco de 
 la Cruz,** denominado así por la forma del mismo 
 
-![Piscina natural de Villanueva del Conde.](etheria_images/2023/08/Piscinas-naturales-sierra-francia.jpg "Piscina natural de Villanueva del Conde. © Turismo de Sierra de Francia")
+![Piscina natural de Villanueva del Conde.](etheria-images/2023/08/Piscinas-naturales-sierra-francia.jpg "Piscina natural de Villanueva del Conde. © Turismo de Sierra de Francia")
 
 ### Playa natural del Alagón, en Sotoserrano
 
@@ -77,7 +77,7 @@ pocos conocen fuera de la región.
 las pozas naturales del río Batuecas (entre el monasterio del Santo Desierto de San José 
 y el canchal de las Cabras Pintadas), entre las cuales destaca el **Charco del Rey**. 
 
-![Piscina natural de la Sierra de Francia.](etheria_images/2023/08/poza-natural-sierra-francia.jpg "Piscina natural de Salamanca. © Turismo Sierra de Francia")
+![Piscina natural de la Sierra de Francia.](etheria-images/2023/08/poza-natural-sierra-francia.jpg "Piscina natural de Salamanca. © Turismo Sierra de Francia")
 
 ### El "río" de Montemayor del Río
 
@@ -91,7 +91,7 @@ afluente del Alagón. La explanada, junto a un bonito puente de piedra, está cu
 césped natural donde tomar el sol o comer después de bañarte en las gélidas aguas de 
 este cauce que llega directamente de la Sierra de Béjar. 
 
-![Agradable zona recreativa donde darse un baño en Montemayor del Río.](etheria_images/2023/08/piscina-natural-montemayor-rio.jpg "Agradable zona recreativa donde darse un baño en Montemayor del Río. © Pepa García")
+![Agradable zona recreativa donde darse un baño en Montemayor del Río.](etheria-images/2023/08/piscina-natural-montemayor-rio.jpg "Agradable zona recreativa donde darse un baño en Montemayor del Río. © Pepa García")
 
 ### El Charco del Pozo, en Valero
 
@@ -106,7 +106,7 @@ se ubica **El Piélago**, la poza natural que forma el río Alagón poco despué
 juntarse con el río Quilama. Perfecta para ir en familia y para quienes disfrutan 
 nadando. 
 
-![Muchas piscinas naturales cuenta con escalerilla para facilitar el acceso.](etheria_images/2023/08/piscina-natural-rio-salamanca.jpg "Muchas piscinas naturales cuenta con barandilla para facilitar el acceso. © Turismo Sª Francia")
+![Muchas piscinas naturales cuenta con escalerilla para facilitar el acceso.](etheria-images/2023/08/piscina-natural-rio-salamanca.jpg "Muchas piscinas naturales cuenta con barandilla para facilitar el acceso. © Turismo Sª Francia")
 
 ### Piscina natural de San Martín del Castañar
 
@@ -119,7 +119,7 @@ vestuarios y un merendero. Es un lugar idóneo para pasar el día de pícnic o b
 puede aprovechar la cercanía de San Martín a este enclave natural para ir a comer a 
 alguno de sus restaurantes. 
 
-![Martín del Castañar.](etheria_images/2023/08/piscina-martin-castanar.jpg "Martín del Castañar. © CC")
+![Martín del Castañar.](etheria-images/2023/08/piscina-martin-castanar.jpg "Martín del Castañar. © CC")
 
 ### Estanque La Palla, en Garcibuey
 
@@ -132,7 +132,7 @@ profundidad y se puede bajar por una escalera, por lo que entrar y salir no supo
 ningún problema. Además, tiene un chiringuito en el que degustar los ricos sabores 
 locales. 
 
-![Piscina situada junto a El Pipero.](etheria_images/2023/08/piscina-el-pipero.jpg "Piscina situada junto a El Pipero. © Pepa García")
+![Piscina situada junto a El Pipero.](etheria-images/2023/08/piscina-el-pipero.jpg "Piscina situada junto a El Pipero. © Pepa García")
 
 ### Santibáñez de la Sierra
 

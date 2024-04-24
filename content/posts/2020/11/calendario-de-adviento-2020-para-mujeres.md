@@ -1,17 +1,17 @@
 ---
 title: "Calendarios de Adviento irresistibles para darte un capricho"
 date: 2020-11-20
-coverImage: etheria_images/2020/11/calendario-adviento-cajas.jpg
+coverImage: etheria-images/2020/11/calendario-adviento-cajas.jpg
 categories: 
   - regalos-compras-viajeras
   - organiza-tu-viaje
-author: 
-  - Compras y comparativas
+authors: 
+  - Redacción Etheria
 ---
 
 Una de las tradiciones centroeuropeas que más nos gustan es la de los calendarios de Adviento. Y en un año como este hacerse un autorregalo que suponga tener una sorpresa diaria entre el 1 y el 24 de diciembre nos parece casi imprescindible. Los hay para todos los gustos: cosméticos, gastronómicos, golosos… ¡Elige el tuyo!
 
-![Calendario de Adviento de cosmética Clinique](etheria_images/2020/11/calenario-adviento-clinique.jpg "Calendario de Adviento de © Clinique.")
+![Calendario de Adviento de cosmética Clinique](etheria-images/2020/11/calenario-adviento-clinique.jpg "Calendario de Adviento de © Clinique.")
 
 ## Cremas y maquillaje con Clinique
 
@@ -21,7 +21,7 @@ es un precioso calendario con productos de tratamiento y maquillaje. Un capricho
 para cuidarte cada día con productos con los que completar la rutina diaria de limpieza, 
 hidratación y nutrición. Precio: 95 Euros. 
 
-![Cervezas artesanas](etheria_images/2020/11/calendario-adviento-cerveza.jpg "Calendario de Adviento de © Beery Chritsmas.")
+![Cervezas artesanas](etheria-images/2020/11/calendario-adviento-cerveza.jpg "Calendario de Adviento de © Beery Chritsmas.")
 
 ## Cervezas con Beery Christmas
 
@@ -34,7 +34,7 @@ robusto y solo queda esperar al 1 de diciembre para comenzar con la cata.
 Y si tu amiga es cocinillas, este [calendario de adviento de 
 especias](https://amzn.to/3FdZUQ0) le encantará. 
 
-![Calendario de cápsulas de café](etheria_images/2020/11/calendario-adviento-cafe-friends-1.jpg "Calendario de Adviento de © Nespresso y 'Friends'.")
+![Calendario de cápsulas de café](etheria-images/2020/11/calendario-adviento-cafe-friends-1.jpg "Calendario de Adviento de © Nespresso y 'Friends'.")
 
 ## Capsulas de café con 'Friends'
 
@@ -45,7 +45,7 @@ más sabrosas y originales de la marca: Choco Cherry, Speculoos, Creme Brûlée,
 Toffee, Canela, Expresso Francés, Expresso Italiano y Lungo Brasileño. Precio: 24,99 
 Euros. 
 
-![Productos británicos de cosmética](etheria_images/2020/11/calendario-adviento-cath-kidston.jpg "Calendario de Adviento de © Cath Kidston.")
+![Productos británicos de cosmética](etheria-images/2020/11/calendario-adviento-cath-kidston.jpg "Calendario de Adviento de © Cath Kidston.")
 
 ## Productos de belleza con Cath Kidston
 
@@ -55,7 +55,7 @@ podrás probar cada día un producto de baño o para el cuerpo con distintas fra
 la marca, con unos tamaños que son perfectos para guardar y llevar de viaje o al 
 gimnasio. Precio: 43,87 Euros. 
 
-![Lacas de uñas](etheria_images/2020/11/calendario-adviento-essie.jpg "Colorido calendario de esmaltes de © Essie.")
+![Lacas de uñas](etheria-images/2020/11/calendario-adviento-essie.jpg "Colorido calendario de esmaltes de © Essie.")
 
 ## Lacas de uñas con Essie
 
@@ -65,7 +65,7 @@ de colores clásicos y sorprendentes, artículos de cuidado de las uñas y compl
 ¡Seguro que te costará esperar a que llegue el día siguiente para ver tu próximo regalo! 
 Precio: 59 Euros. 
 
-![tés del mundo](etheria_images/2020/11/calendario-adviento-tetereta.jpg "Bonito calendario de Adviento de © Tetereta.")
+![tés del mundo](etheria-images/2020/11/calendario-adviento-tetereta.jpg "Bonito calendario de Adviento de © Tetereta.")
 
 ## Té con Tetereta
 
@@ -78,7 +78,7 @@ para cada día. Es de Tetereta y lo presentan en unas bonitas casas navideñas q
 que montar tú misma y que podrán formar parte de la decoración navideña de tu casa 
 durante las fiestas. Precio: 32,95 Euros. 
 
-![Calendario de Adviento de cosmética](etheria_images/2020/11/calendario-adviento-kielhs.jpg "Calendario de Adviento de © Kielh's.")
+![Calendario de Adviento de cosmética](etheria-images/2020/11/calendario-adviento-kielhs.jpg "Calendario de Adviento de © Kielh's.")
 
 ## Cremas y cosméticos con Kiehl’s
 
@@ -91,7 +91,7 @@ regalos que son auténticos caprichos: crema de cuerpo (30 ml), bálsamo labial,
 podrás esperar para probarlos todos, aunque te recomendamos que reserves algunas 
 muestras para los viajes y para la bolsa del gimnasio. Precio: 89 Euros. 
 
-![cremas de manos](etheria_images/2020/11/calendario-adviento-occitane.jpg "Calendario de © L'Occitane inspirado en la naturaleza.")
+![cremas de manos](etheria-images/2020/11/calendario-adviento-occitane.jpg "Calendario de © L'Occitane inspirado en la naturaleza.")
 
 ## Productos de belleza con L'Occitane
 
@@ -102,7 +102,7 @@ tratamiento, como un gel de ducha de verbena, una leche de cuerpo de almendra o 
 crema confort ligera de karité. Todos apetecen y son perfectos para llevar en el bolso. 
 Precio: 59 Euros. 
 
-![Calendarios de Adviento dulces](etheria_images/2020/11/calendario-adviento-lindt-883x1024.jpg "Delicioso calendario de Adviento de © Lindt.")
+![Calendarios de Adviento dulces](etheria-images/2020/11/calendario-adviento-lindt-883x1024.jpg "Delicioso calendario de Adviento de © Lindt.")
 
 ## Chocolate con Lindt Lindor
 

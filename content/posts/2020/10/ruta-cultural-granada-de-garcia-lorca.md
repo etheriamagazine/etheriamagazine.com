@@ -1,12 +1,12 @@
 ---
 title: "Ruta de Lorca en Granada, un paseo por sus lugares más íntimos"
 date: 2020-10-07
-coverImage: etheria_images/2020/09/Granada-Lorca-museo.jpg
+coverImage: etheria-images/2020/09/Granada-Lorca-museo.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 La casa familiar del poeta, el instituto donde no daba pie con bola, el Café Alameda, la 
@@ -14,7 +14,7 @@ vivienda de “la zapatera prodigiosa”, la casa de Manuel de Falla o el patio 
 Aljibes de la Alhambra… Seguimos los pasos de Federico por su ciudad natal para conocer 
 los lugares que marcaron su vida y su obra. 
 
-![Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.](etheria_images/2020/09/Granada-Lorca-museo.jpg "Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.")
+![Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.](etheria-images/2020/09/Granada-Lorca-museo.jpg "Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.")
 
 La Alhambra, el Albaicín, el Sacromonte… y García Lorca. Son los emblemas de Granada, 
 una ciudad que siempre estará vinculada a un nombre propio, seguramente el más brillante 
@@ -24,7 +24,7 @@ Vaqueros, una pequeña localidad de la provincia donde pasó su infancia, hasta 
 10 años, se trasladó con su familia a Granada capital, tras una breve estancia en la 
 vecina Valderrubio. 
 
-![Casa de Valderrubio de la familia García Lorca.](etheria_images/2020/09/Granada-Lorca-Valderrubio.jpg "Casa de Valderrubio de la familia García Lorca.")
+![Casa de Valderrubio de la familia García Lorca.](etheria-images/2020/09/Granada-Lorca-Valderrubio.jpg "Casa de Valderrubio de la familia García Lorca.")
 
 ## La Huerta de San Vicente
 
@@ -36,7 +36,7 @@ finca de veraneo de la familia y donde el joven Federico pasó los veranos desde
 escribió algunas de sus obras más importantes, como _Así que pasen cinco años_ (1931), 
 _Bodas de sangre_ (1932), _Yerma_ (1934) o _Diván del Tamarit_ (1931-36). 
 
-![Interior de la casa de Lorca en la Huerta de San Vicente.](etheria_images/2020/09/Granada-Lorca-huerta-san-vicente.jpg "Interior de la casa de Lorca en la Huerta de San Vicente.")
+![Interior de la casa de Lorca en la Huerta de San Vicente.](etheria-images/2020/09/Granada-Lorca-huerta-san-vicente.jpg "Interior de la casa de Lorca en la Huerta de San Vicente.")
 
 De aquí salió Federico antes de esconderse en la casa de su amigo Luis Rosales unos días 
 antes de ser detenido y posteriormente fusilado. Desde 1985 la finca pertenece al 
@@ -55,7 +55,7 @@ Castillejos, y después, al Instituto Padre Suárez, situado muy cerca de los ja
 Triunfo. Algunos días se acercaba también hasta el **Palacio de los Beneroso**, hoy sede 
 del colegio Mayor San Bartolomé y Santiago, donde recibía clases de Física y Química. 
 
-![Rincón de Lorca en el restaurante Chikito.](etheria_images/2020/09/Granda-Lorca-chikito.jpg "Rincón de Lorca en el restaurante Chikito.")
+![Rincón de Lorca en el restaurante Chikito.](etheria-images/2020/09/Granda-Lorca-chikito.jpg "Rincón de Lorca en el restaurante Chikito.")
 
 ## El Café Alameda, lugar de tertulia
 
@@ -81,7 +81,7 @@ andaluz”. La idea la fraguaron entre Manuel de Falla, Ignacio Zuloaga, García
 otros artistas y, en esa convocatoria, Lorca leyó su _Poema del cante jondo_ con 
 rasgueos de guitarra de Andrés Segovia y Manuel Jofré. 
 
-![Patio de los Aljibes de La Alhambra](etheria_images/2020/09/Granada-Lorca-patio-aljibes.jpg "Patio de los Aljibes de La Alhambra")
+![Patio de los Aljibes de La Alhambra](etheria-images/2020/09/Granada-Lorca-patio-aljibes.jpg "Patio de los Aljibes de La Alhambra")
 
 Aquel concurso se celebró finalmente en el **Patio de los Aljibes de la Alhambra** y los 
 triunfadores de la noche fueron Manolito Caracol, que entonces tenía 13 años, y Diego 
@@ -113,7 +113,7 @@ charlaba de música, cante y poesía. De aquel amor por los gitanos del Sacromon
 flamenco nació el _Romancero gitano_ que, en palabras del poeta, “es un retablo andaluz 
 de todo el andalucismo. Romances que tienen un solo personaje esencial: Granada”. 
 
-![Centro cultural Federico García Lorca e imagen del poeta.](etheria_images/2020/09/Granada-centro-garcia-lorca.jpg "Centro cultural Federico García Lorca e imagen del poeta.")
+![Centro cultural Federico García Lorca e imagen del poeta.](etheria-images/2020/09/Granada-centro-garcia-lorca.jpg "Centro cultural Federico García Lorca e imagen del poeta.")
 
 ## El legado de Lorca
 
@@ -140,7 +140,7 @@ detenido por la misma Guardia Civil a la que él había cantado en sus romances.
 actualidad, aquella casa está ocupada por el **Hotel Reina Cristina** y el **restaurante 
 El Rincón de Lorca**. 
 
-![Casa de los Rosales e imagen de juventud de Federico García Lorca.](etheria_images/2020/09/Granada-Lorca-casa-Rosales.jpg "Casa de los Rosales e imagen de juventud de Federico García Lorca.")
+![Casa de los Rosales e imagen de juventud de Federico García Lorca.](etheria-images/2020/09/Granada-Lorca-casa-Rosales.jpg "Casa de los Rosales e imagen de juventud de Federico García Lorca.")
 
 De aquí se llevaron al poeta hasta el Gobierno Civil (en la actualidad, Jardín Botánico 
 y Facultad de Derecho) antes de acabar sus días en el barranco de Víznar. El 18 de 

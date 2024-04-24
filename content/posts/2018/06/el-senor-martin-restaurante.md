@@ -1,12 +1,12 @@
 ---
 title: "El Señor Martín Restaurante: talibanes del pescado"
 date: 2018-06-19
-coverImage: etheria_images/2018/06/El-Senor-Martin-entrada.jpg
+coverImage: etheria-images/2018/06/El-Senor-Martin-entrada.jpg
 categories: 
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
-author: 
-  - Vanesa
+authors: 
+  - Vanesa Viñolo
 ---
 
 Un nuevo templo del pescado, con mucha historia detrás, abre en un lugar emblemático de 
@@ -14,7 +14,7 @@ Madrid, la plaza de la Villa de París, para seducirnos con las mejores especies
 piscícolas y las cocciones más adecuadas para ellas. El Señor Martín Restaurante es una 
 visita imprescindible para las amantes de la buena mesa. 
 
-![Restaurante Madrid escapada](etheria_images/2018/06/El-Senor-Martin-entrada-1024x682.jpg "Entrada de El Señor Martín Restaurante")
+![Restaurante Madrid escapada](etheria-images/2018/06/El-Senor-Martin-entrada-1024x682.jpg "Entrada de El Señor Martín Restaurante")
 
 Quisquillas de Motril con sus huevas azul pitufo, gambas rojas de La Garrucha con su 
 sabor dulce y textura finísima, zamburiñas de las rías gallegas con su potente sabor a 
@@ -51,7 +51,7 @@ local, sacando su piedra de granito a la vista y sus ladrillos decimonónicos,
 manteniendo un estilo sobrio, industrial, pero con toques cálidos de madera y mármol. 
 Han conseguido así el marco ideal para convertirse en el templo del pescado en Madrid. 
 
-![Restaurante Madrid gastronomia](etheria_images/2018/06/El-Senor-Martin-sala-1024x682.jpg "Sala de El Señor Martín Restaurante")
+![Restaurante Madrid gastronomia](etheria-images/2018/06/El-Senor-Martin-sala-1024x682.jpg "Sala de El Señor Martín Restaurante")
 
 ## El restaurante
 
@@ -67,7 +67,7 @@ origen. Porque aquí está otro de los puntos fuertes del restaurante: sus prove
 buscados y seleccionados en cada puerto, pescadores que se han convertido en amigos y 
 les guardan las piezas más raras, escasas y selectas de sus capturas diarias. 
 
-![Restaurante Madrid gastronomia mar](etheria_images/2018/06/El-Senor-Martin-pescados-1024x682.jpg "Expositor de pescados de El Señor Martín Restaurante")
+![Restaurante Madrid gastronomia mar](etheria-images/2018/06/El-Senor-Martin-pescados-1024x682.jpg "Expositor de pescados de El Señor Martín Restaurante")
 
 Queridos ictiófagos, devoradores de pescado, habéis encontrado el paraíso. Carnívoros, 
 aceptad mi consejo y atreveos con el mar. Porque aquí no hay carne, ni la vais a echar 

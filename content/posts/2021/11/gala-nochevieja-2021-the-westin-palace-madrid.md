@@ -1,18 +1,18 @@
 ---
 title: "The Westin Palace Madrid o cómo entrar en 2022 rodeado de luces y estrellas"
 date: 2021-11-16
-coverImage: etheria_images/2021/11/hotel-palace-noche-madrid.jpg
+coverImage: etheria-images/2021/11/hotel-palace-noche-madrid.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - planes-originales-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si celebrar la Nochevieja, con sus cenas y sus brindis siempre es motivo de alegría, este año la felicidad se multiplica en el hotel The Westin Palace al contar con un menú multiestrellado y formar parte del Paisaje de la Luz de la Unesco. Si te gustan los lugares con historia y clase, no te pierdas la velada de lujo que han organizado para despedir 2021.
 
-![la rotonda hotel palace](etheria_images/2021/11/La-Rotonda-hotel-palace.jpg "La Rotonda, uno de los espacios más icónicos de The Westin Palace.")
+![la rotonda hotel palace](etheria-images/2021/11/La-Rotonda-hotel-palace.jpg "La Rotonda, uno de los espacios más icónicos de The Westin Palace.")
 
 Despedir el año desde un hotel histórico como The Westin Palace es un capricho que 
 habría que darse al menos una vez en la vida. Por sus salones y suites han pasado desde 
@@ -24,7 +24,7 @@ Interés Cultural declarado por la Unesco. Esa luz también se podrá sentir dur
 velada organizada para celebrar Nochevieja y en otros eventos programados para la época 
 navideña. 
 
-![imagen nocturna del hotel palace](etheria_images/2021/11/hotel-palace-noche-madrid.jpg "Imagen nocturna de The Westin Palace.")
+![imagen nocturna del hotel palace](etheria-images/2021/11/hotel-palace-noche-madrid.jpg "Imagen nocturna de The Westin Palace.")
 
 ## Gala de Fin de Año con Paco Pérez, 5 estrellas Michelin
 
@@ -35,7 +35,7 @@ Miramar, su buque insignia situado de Llança, otras dos en el restaurante Enote
 Hotel Arts y una quinta en su restaurante Cinco ubicado en Berlín. Una carta de 
 presentación a la altura de este centenario establecimiento. 
 
-![paco perez crea menu nochevieja hotel palace](etheria_images/2021/11/chef-Paco-Perez.jpg "El chef Paco Pérez ha creado un menú especial de Nochevieja para The Westin Palace.")
+![paco perez crea menu nochevieja hotel palace](etheria-images/2021/11/chef-Paco-Perez.jpg "El chef Paco Pérez ha creado un menú especial de Nochevieja para The Westin Palace.")
 
 ### Cena especial de Nochevieja
 
@@ -44,7 +44,7 @@ quiere rendir homenaje a su tierra natal, el Alt Empordá. Lo hará a través de
 platos que integran un itinerario gastronómico por la Costa Brava. No faltarán productos 
 de la huerta, del mar o de la montaña. 
 
-![aperitivos cena nochevieja hotel palace](etheria_images/2021/11/aperitivos-cena-nochevieja-hotel-palace.jpg "Aperitivos de la cena de Nochevieja.")
+![aperitivos cena nochevieja hotel palace](etheria-images/2021/11/aperitivos-cena-nochevieja-hotel-palace.jpg "Aperitivos de la cena de Nochevieja.")
 
 El recorrido comienza con tres **aperitivos**: _Coliflor & Caviar_, _Alcachofa con 
 Limón_ y un _Crujiente de Almendras_. Como **entrantes** ha elegido _A Modo de salpicón, 
@@ -52,7 +52,7 @@ bogavante azul_, una delicia del mar que aromatiza con fresas y algas frescas de
 Cantábrico; y _Chawanmushi de setas de invierno_, una receta que recoge la inspiración 
 japonesa del chef. 
 
-![Chawanmushi de setas de invierno hotel palace](etheria_images/2021/11/Chawanmushi-de-setas-de-invierno.jpg "Chawanmushi de setas de invierno")
+![Chawanmushi de setas de invierno hotel palace](etheria-images/2021/11/Chawanmushi-de-setas-de-invierno.jpg "Chawanmushi de setas de invierno")
 
 Esta cena es también una buena oportunidad para probar las _**Espardenyas**_ que se 
 presentan en su Pil-Pil, y que vienen acompañadas de unos guisantes de recolección 
@@ -60,7 +60,7 @@ temprana. No faltan tampoco dos platos de pescado y carne: _Lubina salvaje en su
 aromatizada con una crema agria y caviar_; y _Wagyu con milhojas de trufa y nabo negro 
 de Capmany_, una variedad muy apreciada del Alt Ampurdá. 
 
-![Wagyu lubina salvaje hotel palace](etheria_images/2021/11/Wagyu-lubina-salvaje.jpg "Wagyu y lubina salvaje, dos platos exquisitos.")
+![Wagyu lubina salvaje hotel palace](etheria-images/2021/11/Wagyu-lubina-salvaje.jpg "Wagyu y lubina salvaje, dos platos exquisitos.")
 
 La sorpresa **dulce** estará compuesta de _Sándwich de brie trufado_ y _Flan de cacao 
 Pacari con frutos secos y helado de fiesta_, que alegran tanto la vista como el paladar. 
@@ -71,7 +71,7 @@ Perrier.
 \*La noche del 31 de diciembre, el menú será elaborado por el equipo de cocina de The 
 Westin Palace Madrid liderado por su chef ejecutivo, José Luque. 
 
-![postres westin palace](etheria_images/2021/11/postres-nochevieja-palace.jpg "Postres de la cena de Nochevieja en The Westin Palace.")
+![postres westin palace](etheria-images/2021/11/postres-nochevieja-palace.jpg "Postres de la cena de Nochevieja en The Westin Palace.")
 
 ## Y después de cenar... llega la fiesta bajo la cúpula
 
@@ -86,7 +86,7 @@ El precio completo de la gala (cena, maridaje y cotillón de 21 horas a 5 horas)
 650 € por persona. Si se añade alojamiento y desayuno para dos personas en habitación 
 doble deluxe sale por 1.569 € (+ IVA). 
 
-![hotel palacio en paisaje de la luz de la unesco](etheria_images/2021/11/hotel-palace-paisaje-luz.jpg "Fachada de The Westin Palace, en pleno "Paisaje de la Luz" de la Unesco.")
+![hotel palacio en paisaje de la luz de la unesco](etheria-images/2021/11/hotel-palace-paisaje-luz.jpg "Fachada de The Westin Palace, en pleno "Paisaje de la Luz" de la Unesco.")
 
 También existen otras opciones: sólo **cotillón** (250 €), **Cena de Nochebuena** 
 elaborada por José Luque (260 €, con alojamiento sale por 729 € + IVA). 

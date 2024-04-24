@@ -1,14 +1,14 @@
 ---
 title: "Eventos culturales de Flandes en 2024: año Ensor y mucho más"
 date: 2024-03-22
-coverImage: etheria_images/2024/03/exposiciones-flandes-James-Ensor-esqueleto-pintor-en-su-estudio.jpg
+coverImage: etheria-images/2024/03/exposiciones-flandes-James-Ensor-esqueleto-pintor-en-su-estudio.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Flandes rebosa arte siempre, pero en 2024 llega cargado de eventos culturales que hacen 
@@ -16,7 +16,7 @@ imprescindible una escapada a sus bonitas ciudades. No te pierdas las numerosas
 exposiciones para celebrar el Año Ensor ni las propuestas de arte contemporáneo de la 
 TRIENNALE BRUGGE y BEAUFORT24 porque te van a interesar seguro. 
 
-!['Esqueleto pintor en su estudio',1896, de James Ensor.](etheria_images/2024/03/exposiciones-flandes-James-Ensor-esqueleto-pintor-en-su-estudio.jpg "'Esqueleto pintor en su estudio', 1896, de James Ensor. © KMSKA/Rik Klein Gotink.")
+!['Esqueleto pintor en su estudio',1896, de James Ensor.](etheria-images/2024/03/exposiciones-flandes-James-Ensor-esqueleto-pintor-en-su-estudio.jpg "'Esqueleto pintor en su estudio', 1896, de James Ensor. © KMSKA/Rik Klein Gotink.")
 
 Un viaje a Flandes no está completo si no se dedica parte del mismo a conocer su inmenso 
 patrimonio artístico y cultural. Además de las visitas habituales a edificios históricos 
@@ -49,7 +49,7 @@ paraíso imaginario de Ensor’** en las Galerías Venecianas, del 29 de junio a
 octubre de 2024. • **Exposición interactiva** para niños sobre Ensor en el Fort 
 Napoleón. Hasta el 14 de abril de 2024. 
 
-!['Autorretrato con sombrero de flores', 1883, de James Ensor.](etheria_images/2024/03/exposiciones-flandes-Ensor-autorretrato.jpg "'Autorretrato con sombrero de flores', 1883, de James Ensor. © Colección Mu.ZEEv/foto Hugo Maertens.")
+!['Autorretrato con sombrero de flores', 1883, de James Ensor.](etheria-images/2024/03/exposiciones-flandes-Ensor-autorretrato.jpg "'Autorretrato con sombrero de flores', 1883, de James Ensor. © Colección Mu.ZEEv/foto Hugo Maertens.")
 
 ### Amberes
 
@@ -79,7 +79,7 @@ de forma gratuita y darán una visión sobre Brujas que suponga una nueva forma 
 utilizar el espacio. Esta Trienal de Arte se celebrará del 13 de abril al 1 de 
 septiembre de 2024. 
 
-![Recreación de una de las obras de la Trienal de Arte Contemporáneo de Brujas 2024.](etheria_images/2024/03/exposiciones-flandes-Triennal-brujas.jpg "Recreación de una de las obras de la Trienal de Arte Contemporáneo de Brujas 2024. © Bangkok Project Studio.")
+![Recreación de una de las obras de la Trienal de Arte Contemporáneo de Brujas 2024.](etheria-images/2024/03/exposiciones-flandes-Triennal-brujas.jpg "Recreación de una de las obras de la Trienal de Arte Contemporáneo de Brujas 2024. © Bangkok Project Studio.")
 
 ## Otros eventos culturales en Brujas
 
@@ -107,7 +107,7 @@ se encuentran propuestas para visitar las obras de BEAUFORT24 caminando, en bici
 con un guía turístico. Esta trienal de arte contemporáneo se celebra del 27 de marzo al 
 3 de noviembre. 
 
-!['The Dancer V' (2021), de  Marguerite Humeau, una de las obras de ediciones anteriores de BEAUFORT.](etheria_images/2024/03/exposiciones-flandes-The-Dancer-beaufort-2021.jpg "'The Dancer V' (2021), de Marguerite Humeau, una de las obras de ediciones anteriores de BEAUFORT. © Triennial Beaufort.")
+!['The Dancer V' (2021), de  Marguerite Humeau, una de las obras de ediciones anteriores de BEAUFORT.](etheria-images/2024/03/exposiciones-flandes-The-Dancer-beaufort-2021.jpg "'The Dancer V' (2021), de Marguerite Humeau, una de las obras de ediciones anteriores de BEAUFORT. © Triennial Beaufort.")
 
 ## Exposición ‘Los Caballeros del Toisón de Oro. Un gran mito desentrañado’ en Malinas
 
@@ -123,7 +123,7 @@ más la vida cultural de la ciudad: el maravilloso **Jardín de Invierno del Con
 las Ursulinas**, una joya del modernismo del año 1900 donde este arte se fusiona con el 
 gótico creando un espacio lleno de magia. 
 
-![Jardín de invierno del convento de las Ursulinas.](etheria_images/2024/03/exposiciones-flandes-jardin-invierno-convento-ursulinas-667x1000.jpg "Jardín de invierno del convento de las Ursulinas. © Visit Mechelen/Koen Broos.")
+![Jardín de invierno del convento de las Ursulinas.](etheria-images/2024/03/exposiciones-flandes-jardin-invierno-convento-ursulinas-667x1000.jpg "Jardín de invierno del convento de las Ursulinas. © Visit Mechelen/Koen Broos.")
 
 ## Exposición ‘Margarita, la hija del emperador. Entre el poder y la imagen’ en Oudenaarde
 
@@ -149,7 +149,7 @@ y rutas temáticas para disfrutar de ellas en persona. Algunos de los lugares qu
 son la catedral de San Bavón de Gante, la iglesia de Nuestra Señora en Nieuwpoort, o el 
 Museo Beghina en Tongeren. 
 
-![Retablo del Cordero Místico en la catedral de San Bavón de Gante.](etheria_images/2024/03/exposiciones-flandes-catedral-san-bavon-cordero-mistico.jpg "Retablo del Cordero Místico en la catedral de San Bavón de Gante. © Piet De Kersgieter.")
+![Retablo del Cordero Místico en la catedral de San Bavón de Gante.](etheria-images/2024/03/exposiciones-flandes-catedral-san-bavon-cordero-mistico.jpg "Retablo del Cordero Místico en la catedral de San Bavón de Gante. © Piet De Kersgieter.")
 
 **También te puede interesar:** 
 

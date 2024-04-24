@@ -1,11 +1,11 @@
 ---
 title: "Complutum Renacida, Alcalá de Henares se transforma en Roma en el puente de mayo"
 date: 2023-04-14
-coverImage: etheria_images/2023/04/desfile-complutum-renacida-alcala.jpg
+coverImage: etheria-images/2023/04/desfile-complutum-renacida-alcala.jpg
 categories: 
   - planes-originales-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 La antigua Roma se instala en la ciudad de Alcalá de Henares para invitarnos a realizar 
@@ -14,7 +14,7 @@ el aprendizaje están asegurados gracias a una meticulosa puesta en escena de po
 romanos, mercados, recreaciones históricas, degustaciones y espectáculos sorprendentes 
 como el Gran Circus Maximus. 
 
-![Desfile de las tropas romanas en Complutum Renacida](etheria_images/2023/04/desfile-complutum-renacida-alcala.jpg "Desfile de las tropas romanas en Complutum Renacida. © Ayto. Alcalá de Henares")
+![Desfile de las tropas romanas en Complutum Renacida](etheria-images/2023/04/desfile-complutum-renacida-alcala.jpg "Desfile de las tropas romanas en Complutum Renacida. © Ayto. Alcalá de Henares")
 
 Sin salir de la Comunidad de Madrid es posible trasladarse a la época del Imperio Romano 
 para recorrer escenarios realistas, participar en talleres, visitar mercados, asistir a 
@@ -42,7 +42,7 @@ preparadas para la ocasión por **Musical Sports eventos**, una empresa especial
 mercados y recreaciones históricas, responsable también del famoso Mercado Cervantino de 
 la ciudad. 
 
-![Artesano trabajando en uno de los puestos de la recreación histórica romana de Alcalá.](etheria_images/2023/04/mercado-romano-alcala-henares.jpg "Artesano trabajando en uno de los puestos de la recreación histórica romana de Alcalá.")
+![Artesano trabajando en uno de los puestos de la recreación histórica romana de Alcalá.](etheria-images/2023/04/mercado-romano-alcala-henares.jpg "Artesano trabajando en uno de los puestos de la recreación histórica romana de Alcalá.")
 
 ## Qué hacer en Complutum Renacida
 
@@ -57,7 +57,7 @@ ver trabajar a expertos orfebres, trabajadores del cuero o habilidosos herreros.
 ellos estarán encantados de contarte los pormenores de sus labores, ¡quién sabe si los 
 más pequeños descubren una nueva vocación! 
 
-![Puestos de Complutum Renacida.](etheria_images/2023/04/Complutum-Renacida-artesano.jpg "Puestos de Complutum Renacida. © Ayto. Alcalá de Henares")
+![Puestos de Complutum Renacida.](etheria-images/2023/04/Complutum-Renacida-artesano.jpg "Puestos de Complutum Renacida. © Ayto. Alcalá de Henares")
 
 ### Degustar los mejores sabores
 
@@ -68,7 +68,7 @@ mientras se disfruta del ambiente y de algún que otro pasacalle donde la músic
 está presente. Imposible no moverse al ritmo que marcan las gaitas y los tambores del 
 grupo Gálata. 
 
-![La emoción está asegurada en Alcalá de Henares.](etheria_images/2023/04/complutum-renacida-alcala-850x567.jpg "La emoción está asegurada en Alcalá de Henares.")
+![La emoción está asegurada en Alcalá de Henares.](etheria-images/2023/04/complutum-renacida-alcala-850x567.jpg "La emoción está asegurada en Alcalá de Henares.")
 
 ### Gran Circus Máximus
 
@@ -90,7 +90,7 @@ aros de fuego, lanzamiento de jabalinas y carreras de cuadrigas.
 eventos temáticos. Las **entradas** se pueden comprar en **Musical Sport** 
 (musicalsport.com) o en **entradas.com** 
 
-![El Gran Circus Maximus es el gran espectáculo de Complutum Renacida.](etheria_images/2023/04/gran-circus-maximus-alcala-850x567.jpg "El Gran Circus Maximus es el gran espectáculo de Complutum Renacida.")
+![El Gran Circus Maximus es el gran espectáculo de Complutum Renacida.](etheria-images/2023/04/gran-circus-maximus-alcala-850x567.jpg "El Gran Circus Maximus es el gran espectáculo de Complutum Renacida.")
 
 ### Talleres y animaciones en la calle  
 
@@ -103,7 +103,7 @@ familias que acudan con niños (también los adultos) van a disfrutar enormement
 talleres de moneda romana, de herrería, cuero y orfebrería, sin olvidar la diversión que 
 generan actividades como el tiro con arco. 
 
-![Un soldado romano se ajusta el casco en Complutum Renacida.](etheria_images/2023/04/Complutum-Renacida-alcala-soldado.jpg "Un soldado romano se ajusta el casco en Complutum Renacida. © Ayto. Alcalá de Henares")
+![Un soldado romano se ajusta el casco en Complutum Renacida.](etheria-images/2023/04/Complutum-Renacida-alcala-soldado.jpg "Un soldado romano se ajusta el casco en Complutum Renacida. © Ayto. Alcalá de Henares")
 
 Es interesante, asimismo, apuntarse a las visitas guiadas a la Ciudad Romana de 
 Complutum y a la Casa de los Grifos y no perderse los desfiles militares, uno será el 30 
@@ -115,7 +115,7 @@ sabores y de la interacción con los personajes que irás encontrando y que esta
 encantados de contarte sus ocupaciones en el Imperio Romano. Una gran oportunidad para 
 conocer este apasionante periodo a fondo. 
 
-![Carro romano en el circo.](etheria_images/2023/04/carro-romano-alcala-henares.jpg "Carro romano en el circo.")
+![Carro romano en el circo.](etheria-images/2023/04/carro-romano-alcala-henares.jpg "Carro romano en el circo.")
 
 ## Preguntas frecuentes sobre Complutum Renacida
 

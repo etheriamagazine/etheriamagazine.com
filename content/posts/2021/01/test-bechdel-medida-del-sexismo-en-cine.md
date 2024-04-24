@@ -1,16 +1,16 @@
 ---
 title: "El test de Bechdel o cómo medir el sexismo en el Cine: la polémica está servida"
 date: 2021-01-11
-coverImage: etheria_images/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg
+coverImage: etheria-images/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg
 categories: 
   - viajes-cine
-author: 
+authors: 
   - Carmen Pineda
 ---
 
 ¿Qué es el test de Bechdel? ¿Se deberían medir las películas por su nivel de sexismo? Y si se hiciera, ¿cuántas películas españolas o internacionales superarían los factores que mide? Te lo contamos en profundidad para que extraígas tus propias conclusiones.
 
-![la boda de rosa](etheria_images/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg "Fragmento del cartel de 'La boda de Rosa'.")
+![la boda de rosa](etheria-images/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg "Fragmento del cartel de 'La boda de Rosa'.")
 
 Estamos habituados a clasificar las películas por el grado de violencia, por el nivel de 
 erotismo…, pero y ¿si lo hiciéramos, también, por género o por el nivel de sexismo? ¿Y 
@@ -27,7 +27,7 @@ Bechdel muestra, en una de sus tiras cómicas llamada «The Rule», que aparecí
 cómic 'Unas lesbianas de cuidado' (en inglés _Dykes to Watch Out For_ o _DTWOF_), cómo 
 dos mujeres están a punto de entrar al cine. 
 
-![Test Bechdel en dibujos](etheria_images/2021/01/Test-Bechdel-en-3-dibujos.jpg "El test de Bechdel en una viñeta.")
+![Test Bechdel en dibujos](etheria-images/2021/01/Test-Bechdel-en-3-dibujos.jpg "El test de Bechdel en una viñeta.")
 
 Una de ellas dice que únicamente acepta ver una película si cumple con los siguientes 
 requisitos: si aparecen al menos dos mujeres, si éstas hablan una a la otra en algún 
@@ -53,7 +53,7 @@ de visibilidad de las mujeres en el cine. El logo fue pegado en cines de Suecia 
 prevenir a los espectadores del grado de sexismo en los films que iban a ver, 
 extendiéndose, posteriormente, a otros países así como a algunos Festivales de cine. 
 
-![pelicula invisibles test joseharo](etheria_images/2021/01/Fotograma-de-Invisibles.jpg "Fotograma de la película 'Invisibles'. © José Haro")
+![pelicula invisibles test joseharo](etheria-images/2021/01/Fotograma-de-Invisibles.jpg "Fotograma de la película 'Invisibles'. © José Haro")
 
 ## Test de Bechdel. Detractores y defensores
 
@@ -75,7 +75,7 @@ general.
 > polémica notable en todo el mundo. Polémica que, por otra parte –es innegable–, revela 
 > que la llaga del sexismo está siempre abierta a pesar de los avances sociales. 
 
-![la vida de adele test de bechdel](etheria_images/2021/01/la-vida-de-adele-839x1024.jpg "La vida de Adèle pasaría el test de Bechdel.")
+![la vida de adele test de bechdel](etheria-images/2021/01/la-vida-de-adele-839x1024.jpg "La vida de Adèle pasaría el test de Bechdel.")
 
 #### Consideraciones de los detractores
 
@@ -95,7 +95,7 @@ sus personajes). Además, pueden surgir posibles “complejos” por parte de lo
 cineastas para contar historias muy femeninas en detrimento de la calidad de la obra o 
 de la coherencia del guion, sobrevalorando el feminismo. 
 
-![pelicula las ninas cine espanol](etheria_images/2021/01/fotograma-Las-Ninas.jpg "Fotograma de la película 'Las niñas'. © Jorge Fuembuena")
+![pelicula las ninas cine espanol](etheria-images/2021/01/fotograma-Las-Ninas.jpg "Fotograma de la película 'Las niñas'. © Jorge Fuembuena")
 
 #### Defensores, a favor de personajes con personalidad
 
@@ -115,7 +115,7 @@ población, deberíamos estar igual de representadas en la pantalla. Algo que no
 demasiadas veces, y que se explica, en parte, porque la mayoría de los productores, 
 guionistas y directores son hombres. 
 
-![cartel pelicula las ninas](etheria_images/2021/01/Cartel-Las-Ninas-716x1024.jpg "Cartel de la película 'Las niñas'.")
+![cartel pelicula las ninas](etheria-images/2021/01/Cartel-Las-Ninas-716x1024.jpg "Cartel de la película 'Las niñas'.")
 
 ## ¿Quién aprueba y quién no?
 
@@ -141,7 +141,7 @@ gala Céline Sciamma o, y esto es sorprendente, la segunda parte de la trilogía
 Padrino_, donde hay un diálogo entre Connie Corleone y su madre, sin referencia alguna a 
 hombres. 
 
-![la boda de rosa text bechdel](etheria_images/2021/01/La-boda-de-Rosa_Natxo-Martínez-900x600.jpg "Fotograma de 'La boda de Rosa'. © Natxo Martínez")
+![la boda de rosa text bechdel](etheria-images/2021/01/La-boda-de-Rosa_Natxo-Martínez-900x600.jpg "Fotograma de 'La boda de Rosa'. © Natxo Martínez")
 
 ## El cine español: un asunto de hombres con reflejos de esperanza
 
@@ -162,7 +162,7 @@ de las palabras_ y en 2018 con _La librería_. Aunque, paradójicamente, no sign
 todas pasaran todos los requisitos para aprobar el test de Bechdel, lo que abundaría en 
 los argumentos de los detractores. 
 
-![cartel invisibles test bechdel](etheria_images/2021/01/Cartel-Invisibles-717x1024.jpg "Cartel de la película 'Invisibles'.")
+![cartel invisibles test bechdel](etheria-images/2021/01/Cartel-Invisibles-717x1024.jpg "Cartel de la película 'Invisibles'.")
 
 #### ¿Aprueban el test las películas de 2020?
 
@@ -184,7 +184,7 @@ _**Akelarre**_. Curiosamente, no lo pasaría el film de la premiadísima Isabel 
 una de las cineastas españolas más importantes de la actualidad, con _**Nieva en 
 Benidorm**_. 
 
-![documental cholista test de bechdel](etheria_images/2021/01/cholitas.jpg "Documental 'Cholitas'.")
+![documental cholista test de bechdel](etheria-images/2021/01/cholitas.jpg "Documental 'Cholitas'.")
 
 **¿Hay esperanza?** Sí. Porque hay films que pasan el test, porque hay más de un 20% de 
 mujeres que han firmado las películas de este año, porque tres de las más importantes, 
@@ -192,7 +192,7 @@ como Querejeta, Coixet y Bollaín están en activo…Pero queda mucho por hacer.
 tanto, el test Bechdel nos mantiene alertas. Y, tú, esa película que vas a ir a ver 
 ¿sabes si pasa el test? 
 
-![sello del test de bechdel](etheria_images/2021/01/Test-Bechdel-Logo.jpg)
+![sello del test de bechdel](etheria-images/2021/01/Test-Bechdel-Logo.jpg)
 
 #### También te puede interesar...
 

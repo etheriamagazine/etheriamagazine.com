@@ -1,20 +1,20 @@
 ---
 title: "Viajar sola al lago Atitlán, una aventura fascinante"
 date: 2021-02-20
-coverImage: etheria_images/2020/01/lago-atitlan-mujeres-viajar-sola.jpg
+coverImage: etheria-images/2020/01/lago-atitlan-mujeres-viajar-sola.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Cristina Fdez
+authors: 
+  - Cristina Fernández
 ---
 
 El lago Atitlán es un lugar ideal para viajar sola en Guatemala y desconectar, entrar en 
 comunión con el universo y descubrir unas raíces mayas que están aquí más presentes que 
 en ningún otro rincón del país. 
 
-![flores en el Lago Atitlán](etheria_images/2020/01/lago-atitlan-mujeres-viajar-sola.jpg "Lago Atitlán. © Mark Harpur")
+![flores en el Lago Atitlán](etheria-images/2020/01/lago-atitlan-mujeres-viajar-sola.jpg "Lago Atitlán. © Mark Harpur")
 
 Viajar sola al lago Atitlán permite descubrir a tu aire cómo transcurre la vida a otro 
 ritmo; las prisas, en este rincón del mundo, parecen no existir. Los sonidos propios de 
@@ -31,7 +31,7 @@ posee su propia identidad**. Su propio carácter. Y este siempre se halla marcad
 raíces mayas, esas que tanto llevan a gala y que están presentes en cada una de sus 
 tradiciones. 
 
-![embarcadero del lago atitlan](etheria_images/2020/01/guatemala-lago-atitlan-barcas-900x602.jpg "Lago Atitlán, en Guatemala, un destino fascinante.")
+![embarcadero del lago atitlan](etheria-images/2020/01/guatemala-lago-atitlan-barcas-900x602.jpg "Lago Atitlán, en Guatemala, un destino fascinante.")
 
 ## El mítico lago Atitlán
 
@@ -57,7 +57,7 @@ restaurantes y tiendas de recuerdos. En otras palabras, es el lugar elegido por 
 mayoría de los viajeros que llegan hasta este rincón del mundo para establecerse unos 
 días. Mucha culpa la tiene el animado ambiente que reina en sus calles a todas horas. 
 
-![calle de panajachel en lago atitlan](etheria_images/2020/01/guatemala-lago-atitlanPanajachel-900x600.jpg "Calle de Panajachel. © Cristina Fernández")
+![calle de panajachel en lago atitlan](etheria-images/2020/01/guatemala-lago-atitlanPanajachel-900x600.jpg "Calle de Panajachel. © Cristina Fernández")
 
 La esencia de ese Atitlán más tradicional, tan arraigado a sus antiguas tradiciones, 
 aquí, se ha perdido en parte. Tan enfocados están en hacer dinero aprovechando el 
@@ -72,7 +72,7 @@ a las zonas de los alrededores: son muchas las agencias locales que se han insta
 aquí. A veces al viajar sola al lago Atitlán se tienen algunos temores por lo que 
 contratar una excursión en grupo puede ser aconsejable. 
 
-![Muelle en Panajachel del lago atitlan](etheria_images/2020/01/Guatemala-lago-Atitlan-panajachel-muelle-900x675.jpg "Muelle en Panajachel. © Mathijs Beks")
+![Muelle en Panajachel del lago atitlan](etheria-images/2020/01/Guatemala-lago-Atitlan-panajachel-muelle-900x675.jpg "Muelle en Panajachel. © Mathijs Beks")
 
 Finalmente, si hay algo más a favor de 'Pana', es que cuando una se acerca hasta el 
 paseo que hay junto a la orilla del lago, y contempla las imponentes vistas de los 
@@ -96,7 +96,7 @@ cinta bordada de hasta 21 metros de largo que se enrolla en la cabeza simulando 
 sombrero y que se hizo popular en 1936 tras ganar un premio para protagonizar —a día de 
 hoy, lo sigue haciendo— la moneda nacional de 25 centavos. 
 
-![artesanas en el lago atitlan de guatemala](etheria_images/2020/01/Guatemala-lago-atitlan-mujeres-mayas-900x664.jpg "Mujeres de Guatemala.")
+![artesanas en el lago atitlan de guatemala](etheria-images/2020/01/Guatemala-lago-atitlan-mujeres-mayas-900x664.jpg "Mujeres de Guatemala.")
 
 Para completar una visita al pueblo, hay una parada indiscutible: la que se hace en 
 **casa de Maximón**, un dios venerado en la zona representado por una efigie con forma 
@@ -107,7 +107,7 @@ encendido en la boca y una copa con aguardiente. Cada año, los vecinos se turna
 autóctono: hacerle una visita y contemplar las ceremonias que se realizan en torno a él 
 y que te dejará sin palabras. 
 
-![Casa de Maximon en santiago de atitlan](etheria_images/2020/01/Guatemala-lago-atitlan-maximon-900x593.jpg "Casa de Maximón. © CF")
+![Casa de Maximon en santiago de atitlan](etheria-images/2020/01/Guatemala-lago-atitlan-maximon-900x593.jpg "Casa de Maximón. © CF")
 
 ### San Pedro La Laguna y su fiesta
 
@@ -119,7 +119,7 @@ jóvenes mochileros suelen hacer parada en él, a veces para instalarse incluso 
 temporadas. Si has decidido viajar sola al lago Atitlán y duermes aquí, no te faltará la 
 compañía de otros aventureros. 
 
-![San Pedro La Laguna en lago atitlan](etheria_images/2020/01/Guatemala-lago-Atitlan-San-Pedro-La-Laguna-900x600.jpg "San Pedro La Laguna. © CF")
+![San Pedro La Laguna en lago atitlan](etheria-images/2020/01/Guatemala-lago-Atitlan-San-Pedro-La-Laguna-900x600.jpg "San Pedro La Laguna. © CF")
 
 ¿Qué queremos decir con esto? Muy sencillo: si visitamos San Pedro con la intención de 
 encontrar la Guatemala más auténtica, habrá que indagar un poco más allá y perderse por 
@@ -140,7 +140,7 @@ más se desarrolla aquí, ya sea con estas pinturas de estilo naif que represent
 aspectos de la cosmovisión maya, como en los telares artesanales que hay instalados en 
 la localidad y que se pueden visitar. 
 
-![San Juan La Laguna en lago atitlan de guatemala](etheria_images/2020/01/san-juan-la-laguna-j-enrike-marrokin-Hm2Y85Rqs-M-unsplash-900x675.jpg "San Juan La Laguna.")
+![San Juan La Laguna en lago atitlan de guatemala](etheria-images/2020/01/san-juan-la-laguna-j-enrike-marrokin-Hm2Y85Rqs-M-unsplash-900x675.jpg "San Juan La Laguna.")
 
 A San Juan La Laguna, eso sí, hay que ir sin prisas, dispuestas a pasear, a interesarse 
 por la esencia que marca cada detalle de su cultura y a, por qué no, **comprar algo de 
@@ -158,7 +158,7 @@ una energía especial. Esto propicia que, en los últimos años, haya proliferad
 aparición de centros de meditación y de terapias holísticas a lo largo y ancho de sus 
 calles. 
 
-![volcanes de lago atitlan](etheria_images/2020/01/Guatemala-lago-atitlan-san-marcos-900x300.jpg "Vista del lago desde San Marcos La Laguna. © Wikimedia Commons/Erik Albers")
+![volcanes de lago atitlan](etheria-images/2020/01/Guatemala-lago-atitlan-san-marcos-900x300.jpg "Vista del lago desde San Marcos La Laguna. © Wikimedia Commons/Erik Albers")
 
 Por eso mismo, si una busca el lugar perfecto en el que relajarse y desconectar del 
 mundo —de verdad—, este es su sitio. Aunque tan solo sea por unos días, saldrá renovada. 
@@ -189,7 +189,7 @@ las **lanchas** que constantemente transporta a los locales por apenas unos quet
 Eso sí: es importante preguntar el horario de la última barca de vuelta al pueblo donde 
 se vaya a pasar la noche, ya que algunos de ellos solo son accesibles por esta vía. 
 
-![navegar en el lago atitlan de guatemala](etheria_images/2020/01/Guatemala-lago-atitlan-flores-900x600.jpg "Barca en el lago Atitlán.")
+![navegar en el lago atitlan de guatemala](etheria-images/2020/01/Guatemala-lago-atitlan-flores-900x600.jpg "Barca en el lago Atitlán.")
 
 ### Viajar sola al lago Atitlán
 

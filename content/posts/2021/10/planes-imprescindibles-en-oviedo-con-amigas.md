@@ -1,13 +1,13 @@
 ---
 title: "Oviedo con amigas, 8 planazos para descubrirla"
 date: 2021-10-05
-coverImage: etheria_images/2021/09/oviedo-estatua-parque-san-francisco.jpg
+coverImage: etheria-images/2021/09/oviedo-estatua-parque-san-francisco.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
+authors: 
   - Carmen Pineda
 ---
 
@@ -15,7 +15,7 @@ Asturias es un valor seguro para cualquier escapada y si tu próxima escapada es
 a Oviedo con amigas te aseguramos que no te vas a arrepentir. Aquí te proponemos 8 
 planes para que exprimas al máximo tu estancia en la elegante capital asturiana. 
 
-![Oviedo desde la iglesia de Santa María del Naranco.](etheria_images/2021/09/oviedo-desde-santa-maria-naranco.jpg "Oviedo desde la iglesia de Santa María del Naranco.")
+![Oviedo desde la iglesia de Santa María del Naranco.](etheria-images/2021/09/oviedo-desde-santa-maria-naranco.jpg "Oviedo desde la iglesia de Santa María del Naranco.")
 
 El Principado de Asturias, el bien llamado “Paraíso Natural” por su espectacular 
 entorno, es una comunidad bella, verde y acogedora. Cuenta con numerosos parques 
@@ -32,7 +32,7 @@ edificios de _art nouveau_ que reflejan un pasado de abolengo, señorial y elega
 Calles empedradas o miradores en las casas de piedras nobles oscuras definen una ciudad 
 bella y serena en la que apetece pasear. 
 
-![Catedral de Oviedo.](etheria_images/2021/09/oviedo-catedral.jpg "Catedral de Oviedo.")
+![Catedral de Oviedo.](etheria-images/2021/09/oviedo-catedral.jpg "Catedral de Oviedo.")
 
 ### 1\. Catedral de Oviedo
 
@@ -53,7 +53,7 @@ edificar la iglesia dedicada a El Salvador, al trasladar la Corte a Oviedo.
 Posteriormente, ya en el siglo XIII, se construyó la actual Catedral sobre estas 
 edificaciones. 
 
-![La estatua de La Regenta frente a la catedral.](etheria_images/2021/09/oviedo-catedral-regenta-683x1024.jpg "La estatua de La Regenta frente a la catedral.")
+![La estatua de La Regenta frente a la catedral.](etheria-images/2021/09/oviedo-catedral-regenta-683x1024.jpg "La estatua de La Regenta frente a la catedral.")
 
 ### 2\. Centro de la capital
 
@@ -72,7 +72,7 @@ bonito edificio del ayuntamiento y la iglesia de San Isidoro el Real, una de las
 antiguas de Oviedo (proviene de un templo del siglo XVI construido sobre una antigua 
 iglesia románica), declarada bien de interés Cultural. 
 
-![Ayuntamiento de Oviedo.](etheria_images/2021/09/oviedo-ayuntamiento.jpg "Ayuntamiento de Oviedo.")
+![Ayuntamiento de Oviedo.](etheria-images/2021/09/oviedo-ayuntamiento.jpg "Ayuntamiento de Oviedo.")
 
 Si nos ponemos enfrente de la iglesia, vislumbramos a la izquierda un **mercado 
 cubierto** (completísimo por si queréis comprar productos locales como las famosas fabes 
@@ -100,7 +100,7 @@ productos como la leche. También aquí llegaba el pescado recién cogido de la 
 asturiana. Nos lo recuerdan dos estatuas a la entrada de la plaza: la de la vendedora y 
 la del vendedor de pescados. 
 
-![Estatua de La Lechera en la plaza de Trescorrales.](etheria_images/2021/09/Oviedo-Plaza-Trascorrales-lechera.jpg "Estatua de La Lechera en la plaza de Trescorrales. © Carmen Pineda")
+![Estatua de La Lechera en la plaza de Trescorrales.](etheria-images/2021/09/Oviedo-Plaza-Trascorrales-lechera.jpg "Estatua de La Lechera en la plaza de Trescorrales. © Carmen Pineda")
 
 ### 3\. Museo de Bellas Artes de Asturias
 
@@ -117,7 +117,7 @@ los siglos XV y XVI y otros como Tiziano, Veronés o Rubens. Así como obra de a
 las artistas mujeres más destacadas de todos los tiempos, como Sofonisba Anguissola, 
 Angelica Kauffmann, Ana y Francisca Meléndez y María Blanchard, entre otras. 
 
-![Museo Bellas Artes de Asturias.](etheria_images/2021/09/Oviedo-Museo-Bellas-Artes.jpg "Museo Bellas Artes de Asturias. © CP")
+![Museo Bellas Artes de Asturias.](etheria-images/2021/09/Oviedo-Museo-Bellas-Artes.jpg "Museo Bellas Artes de Asturias. © CP")
 
 El museo es inmenso, con lo cual os recomendamos verlo con calma. Está instalado en un 
 conjunto de edificios que ocupan parte de una manzana al lado de la Catedral. Entre 
@@ -144,7 +144,7 @@ En estas estatuas, se homenajea a personajes eminentes internacionales, a person
 ligadas a la ciudad, a figuras populares de su pasado cultural o, simplemente, se 
 realizan obras artísticas sin referencias personales. 
 
-![Estatuas de 'El Viajero' y 'La Pescadera'.](etheria_images/2021/09/Oviedo-Estatuas-El-viajero-la-pescadera.jpg "Estatuas de 'El Viajero' y 'La Pescadera'. © CP")
+![Estatuas de 'El Viajero' y 'La Pescadera'.](etheria-images/2021/09/Oviedo-Estatuas-El-viajero-la-pescadera.jpg "Estatuas de 'El Viajero' y 'La Pescadera'. © CP")
 
 Como ya hemos visto, el centro histórico alberga algunas de las estatuas más 
 emblemáticas de Oviedo. 
@@ -163,7 +163,7 @@ completar este ambiente tan asturiano, están los “Asturcones”, unas estatua
 asturianos rústicos y pequeños. En la plaza, encontramos dos obras dedicadas a la 
 maternidad, una de ellas, obra del internacional escultor colombiano Fernando Botero. 
 
-![Estatua dedicada a la Maternidad.](etheria_images/2021/09/Oviedo-Estatua-Maternidad.jpg "Una de las estatuas dedicadas a la Maternidad. © CP")
+![Estatua dedicada a la Maternidad.](etheria-images/2021/09/Oviedo-Estatua-Maternidad.jpg "Una de las estatuas dedicadas a la Maternidad. © CP")
 
 En una esquina de la plaza, se encuentra el **Teatro Campoamor**, donde se celebran 
 anualmente los premios Princesa de Asturias. Enfrente de él, hay una bonita estatua 
@@ -186,7 +186,7 @@ Conviene seguir paseando por toda la ciudad para ir descubriendo más estatuas. 
 hay un lugar donde podemos ver algunas de las más bonitas y, además, pasar un rato 
 placentero es el Campo de San Francisco. 
 
-![Estatua en el Parque de San Francisco.](etheria_images/2021/09/oviedo-estatua-parque-san-francisco.jpg "Estatua en el Parque de San Francisco.")
+![Estatua en el Parque de San Francisco.](etheria-images/2021/09/oviedo-estatua-parque-san-francisco.jpg "Estatua en el Parque de San Francisco.")
 
 El famoso parque de Oviedo, corazón verde de la ciudad, está ubicado en pleno centro, al 
 lado de la **plaza del Caja Astur**. Es un lugar precioso, lleno de vegetación, paseos, 
@@ -200,7 +200,7 @@ la de "Mafalda" (en colores), entre muchas otras. Como anécdota, en un lateral 
 parque los jardineros actualizan la fecha del día en preciosos parterres de flores y 
 plantas. 
 
-![Campo de San Francisco.](etheria_images/2021/09/Oviedo-Campo-San-francisco.jpg "Campo de San Francisco. © CP")
+![Campo de San Francisco.](etheria-images/2021/09/Oviedo-Campo-San-francisco.jpg "Campo de San Francisco. © CP")
 
 ### 6\. Escenarios de los Premios Princesa de Asturias
 
@@ -214,7 +214,7 @@ descubrir un poco más esta faceta de Oviedo.
 Primero, visitando el **Teatro Campoamor** (fundado en 1892), donde se organizan visitas 
 teatralizadas o acudiendo, si es temporada, a alguno de sus espectáculos de ópera. 
 
-![Teatro Campoamor.](etheria_images/2021/09/Teatro-Campoamor-wikimedia-commons-900x640.jpg "Teatro Campoamor. © Wikimedia Commons")
+![Teatro Campoamor.](etheria-images/2021/09/Teatro-Campoamor-wikimedia-commons-900x640.jpg "Teatro Campoamor. © Wikimedia Commons")
 
 Después, es visita ineludible ir al **Hotel La Reconquista** (un 5 estrellas de la 
 cadena Eurostars). Está lleno de tradición, lujo y nobleza con 300 años de historia, 
@@ -231,7 +231,7 @@ Mariano Moré, Purón Sotres, Adolfo Bartolomé y Vaquero Palacio. O sea, un hot
 tiene mucho de cultura y arte también. Por ello vale la pena alojarse o simplemente 
 visitarlo y tomarse algo en sus salones. 
 
-![Hotel La Reconquista.](etheria_images/2021/09/Oviedo-Hotel-Reconquista.jpg "Hotel La Reconquista. © CP")
+![Hotel La Reconquista.](etheria-images/2021/09/Oviedo-Hotel-Reconquista.jpg "Hotel La Reconquista. © CP")
 
 Año tras año, en octubre, éstos son testigos mudos de las secretas deliberaciones de los 
 distintos jurados del Premio Príncipe de Asturias. El hotel se viste de largo para 
@@ -258,7 +258,7 @@ es como si no perteneciera a este mundo, como si no existiera… Oviedo es como 
 de hadas». La estatua está en la calle Milicias Nacionales, 1, cerca del Campo de San 
 Francisco y del Teatro Campoamor. 
 
-![Rape negro a la Ondarresa del restaurante El mono que lee.](etheria_images/2021/09/el-mono-que-lee-rape.jpg "Rape negro a la Ondarresa del restaurante © El mono que lee.")
+![Rape negro a la Ondarresa del restaurante El mono que lee.](etheria-images/2021/09/el-mono-que-lee-rape.jpg "Rape negro a la Ondarresa del restaurante © El mono que lee.")
 
 ### 7\. Saborea lo mejor de Oviedo
 
@@ -280,7 +280,7 @@ estrella; y **Salazogue Bistronomie** (calle San Antonio, 3; salazogue.es), _Bib
 Gourmand_ en la Guía Michelin, que destaca con su cocina de vanguardia revisitando 
 recetas tradicionales. 
 
-![Santa María del Naranco y San Miguel de Lillo.](etheria_images/2021/09/Oviedo-Santa-Maria-del-Naranco-san-miguel-lillo.jpg "Santa María del Naranco y San Miguel de Lillo. © Carmen Pineda")
+![Santa María del Naranco y San Miguel de Lillo.](etheria-images/2021/09/Oviedo-Santa-Maria-del-Naranco-san-miguel-lillo.jpg "Santa María del Naranco y San Miguel de Lillo. © Carmen Pineda")
 
 ### 8\. Excursión: Santa María del Naranco y San Miguel de Lillo
 
@@ -293,7 +293,7 @@ aprenderemos que en Asturias se conserva el más completo y homogéneo conjunto 
 arquitectura altomedieval de todo el Occidente Europeo de los siglos IX y X. Los dos 
 monumentos (hay visitas guiadas) están muy bien conservados y son bellísimos. 
 
-![Cristo Redentor de Oviedo.](etheria_images/2021/09/Oviedo-Cristo-vistas.jpg "Cristo Redentor de Oviedo. © Carmen Pineda")
+![Cristo Redentor de Oviedo.](etheria-images/2021/09/Oviedo-Cristo-vistas.jpg "Cristo Redentor de Oviedo. © Carmen Pineda")
 
 Como nota curiosa, si seguimos ascendiendo por la carretera del monte Naranco llegamos 
 al **Cristo Redentor de Oviedo** (recuerda un poco al del Corcovado). Ofrece una vista 

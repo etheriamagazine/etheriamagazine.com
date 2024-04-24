@@ -1,12 +1,12 @@
 ---
 title: "Por qué deberías ver cuanto antes el Libro de Kells en el Trinity College de Dublín"
 date: 2023-04-25
-coverImage: etheria_images/2023/04/biblioteca-antigua-trinity-college-dublin.jpg
+coverImage: etheria-images/2023/04/biblioteca-antigua-trinity-college-dublin.jpg
 categories: 
   - viajes-con-amigas
   - exposiciones
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El Libro de Kells, considerado el “mayor tesoro del mundo occidental” se encuentra bajo 
@@ -15,7 +15,7 @@ universidad más antigua de Irlanda. Pero, ¿por qué deberías acudir a la capi
 Irlanda para admirarlo cuanto antes? Porque la reforma de la biblioteca comenzará en 
 otoño y no podrás verlo allí hasta dentro de tres años. 
 
-![Sala principal de la antigua biblioteca del Trinity Collegge](etheria_images/2023/04/biblioteca-antigua-trinity-college-dublin.jpg "Long Room de la Old Library del Trinity College de Dublín. © Naomi Hutchinson")
+![Sala principal de la antigua biblioteca del Trinity Collegge](etheria-images/2023/04/biblioteca-antigua-trinity-college-dublin.jpg "Long Room de la Old Library del Trinity College de Dublín. © Naomi Hutchinson")
 
 Puede parecer exagerado decir que el **_Libro de Kells_** es “el mayor tesoro del mundo 
 occidental” pero así lo definían en una crónica del Medievo denominada ‘Los anales del 
@@ -31,7 +31,7 @@ Además de por su faceta cultural, también os contamos dos motivos más, muy co
 para acudir este próximo verano al Trinity College de Dublín. ¡Seguid leyendo porque os 
 van a sorprender! 
 
-![Entrada al recinto de la Universidad Trinity College de Dublín.](etheria_images/2023/04/Trinity-College-Dublin-entrada.jpg "Entrada al recinto de la Universidad Trinity College de Dublín.")
+![Entrada al recinto de la Universidad Trinity College de Dublín.](etheria-images/2023/04/Trinity-College-Dublin-entrada.jpg "Entrada al recinto de la Universidad Trinity College de Dublín.")
 
 ## Qué es el Libro de Kells
 
@@ -50,7 +50,7 @@ valiosos tomos del polvo y la contaminación. Durante aproximadamente **tres añ
 podrá admirar el _Libro de Kells_ en este prodigioso escenario. Ese es el motivo por el 
 que os animamos a no postergar mucho la escapada a Dublín. 
 
-![Folio 292 del Evangelio de San Juan, en el Libro de Kells.](etheria_images/2023/04/libro-kells.jpg "Folio 292 del Evangelio de San Juan, en el Libro de Kells.")
+![Folio 292 del Evangelio de San Juan, en el Libro de Kells.](etheria-images/2023/04/libro-kells.jpg "Folio 292 del Evangelio de San Juan, en el Libro de Kells.")
 
 ## Book of Kells Experience
 
@@ -65,7 +65,7 @@ de Meath, donde permaneció hasta 1650, fecha en la que se trasladó a Dublín. 
 noticia para quienes no hayáis visto la famosa _Long Room_ de la antigua biblioteca en 
 vivo es que en la exposición la podréis admirar de forma virtual. 
 
-!['First Folio' de Shakespeare, expuesto en la Old Library del Trinity College de Dublin.](etheria_images/2023/04/first-folio-shakespeare-trinity-college.jpg "'First Folio' de Shakespeare, expuesto en la Old Library del Trinity College de Dublin.")
+!['First Folio' de Shakespeare, expuesto en la Old Library del Trinity College de Dublin.](etheria-images/2023/04/first-folio-shakespeare-trinity-college.jpg "'First Folio' de Shakespeare, expuesto en la Old Library del Trinity College de Dublin.")
 
 ## El First Folio de Shakespeare, la otra joya de la Old Library
 
@@ -84,7 +84,7 @@ anotaciones y manchas. El responsable de la exposición, Andy Murphy, no sólo a
 _“es una de las joyas de la corona de la colección de la Old Library”_ sino que sus 
 inscripciones ocultan **enigmas** que aún no se han desvelado. 
 
-![Trinity College de Dublín](etheria_images/2023/04/trinity-college-dublin.jpg "Trinity College de Dublín. © Stephen Bergin")
+![Trinity College de Dublín](etheria-images/2023/04/trinity-college-dublin.jpg "Trinity College de Dublín. © Stephen Bergin")
 
 ## Dormir en el Trinity College
 

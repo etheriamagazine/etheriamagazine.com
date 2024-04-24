@@ -1,11 +1,11 @@
 ---
 title: "Getxo en familia: 22 planes y 4 visitas divertidas"
 date: 2023-05-29
-coverImage: etheria_images/2023/05/getxo-water-bikers.jpg
+coverImage: etheria-images/2023/05/getxo-water-bikers.jpg
 categories: 
   - viaje-en-familia
   - planes-originales-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -14,7 +14,7 @@ cuando se trata de planear un viaje con nuestros seres queridos. Estamos convenc
 que después de leer estas propuestas, vas a querer organizar tus vacaciones al estilo 
 vasco para disfrutar a lo grande. 
 
-![Visita guiada en Puerto Viejo.](etheria_images/2023/05/Visita-Puerto-Viejo.jpg "Visita guiada en Puerto Viejo.")
+![Visita guiada en Puerto Viejo.](etheria-images/2023/05/Visita-Puerto-Viejo.jpg "Visita guiada en Puerto Viejo.")
 
 Situado al final de la ría del Nervión, hasta donde Bilbao extiende su brazo 
 metropolitano, Getxo es un destino costero que siempre apetece disfrutar. Su excelencia 
@@ -30,7 +30,7 @@ divertidos **planes familiares en Getxo** donde el estrés y la rutina estén pr
 no os perdáis las siguientes recomendaciones porque las hay para todos los gustos y 
 edades. 
 
-![Paseo en bicicleta en Getxo.](etheria_images/2023/05/ruta-bicicleta-getxo-619x1024.jpg "Paseo en bicicleta en Getxo.")
+![Paseo en bicicleta en Getxo.](etheria-images/2023/05/ruta-bicicleta-getxo-619x1024.jpg "Paseo en bicicleta en Getxo.")
 
 ## ✅ Visitas esenciales en Getxo
 
@@ -53,7 +53,7 @@ más antiguo del mundo. Ya sea desplazándose entre orillas en su **barquilla co
 subiendo en ascensor hasta su pasarela peatonal que, situada a 50 metros, ofrece unas 
 impresionantes vistas. 
 
-![Barquilla colgante del Puente Bizkaia de Getxo](etheria_images/2023/05/getxo-Puente-Bizkaia.jpg "Barquilla colgante del Puente Bizkaia.")
+![Barquilla colgante del Puente Bizkaia de Getxo](etheria-images/2023/05/getxo-Puente-Bizkaia.jpg "Barquilla colgante del Puente Bizkaia.")
 
 ? Los más tranquilos pueden optar por cruzar la ría a bordo del **gasolino**, un 
 pintoresco barco que por 0,50 € –y en apenas unos minutos– conecta con la orilla de 
@@ -70,7 +70,7 @@ donde recargar pilas después de la experiencia marítima. Incluso es posible co
 jornada con un **plan de cine**, ya que el puerto posee un ambiente de película gracias 
 a las seis salas del Getxo Zinemak. 
 
-![Paseo en yate por la ría.](etheria_images/2023/05/getxo-Ruta-Yate.jpg "Paseo en yate.")
+![Paseo en yate por la ría.](etheria-images/2023/05/getxo-Ruta-Yate.jpg "Paseo en yate.")
 
 ### 3\. Aula ambiental
 
@@ -90,7 +90,7 @@ incluye: caminar a ciegas por la naturaleza, hacer juguetes de reciclaje, crear 
 propio florero y hasta que tu bebé dé sus primeros pasos en el campo. Reservad con 
 antelación. 
 
-![Humedal de Bolue, en Getxo](etheria_images/2022/08/getxo-humedal-de-Bolue.jpg "Humedal de Bolue.")
+![Humedal de Bolue, en Getxo](etheria-images/2022/08/getxo-humedal-de-Bolue.jpg "Humedal de Bolue.")
 
 ### 4\. Playear en familia
 
@@ -110,7 +110,7 @@ Puerto Deportivo y por el tradicional caserío marinero del Puerto Viejo de Algo
 Resultará irresistible un paseo por alguno de ellos después del baño o de un paseo 
 playero. 
 
-![Panorámica de las playas desde La Galea.](etheria_images/2023/05/getxo-punta-galea.jpg "Panorámica de las playas desde La Galea.")
+![Panorámica de las playas desde La Galea.](etheria-images/2023/05/getxo-punta-galea.jpg "Panorámica de las playas desde La Galea.")
 
 **Playa de Arrigunaga.** Situada al pie de los imponentes acantilados de La Galea, cuyo 
 blanquecino roquedo aparece coronado por el molino Aixerrota, es ideal para que los 
@@ -132,7 +132,7 @@ Entre noviembre y marzo tiene lugar el **Punta Galea Challenge**, el campeonato 
 de olas grandes más antiguo de Europa en el que los participantes se enfrentan a las 
 olas más bestiales. 
 
-![Puesta de sol en Getxo.](etheria_images/2023/05/getxo-puesta-sol.jpg "Puesta de sol en Getxo.")
+![Puesta de sol en Getxo.](etheria-images/2023/05/getxo-puesta-sol.jpg "Puesta de sol en Getxo.")
 
 ## ✅ Planes familiares en Getxo
 
@@ -149,7 +149,7 @@ saborear el tipismo marinero de la villa, incluso aprenderéis algunas palabras
 tradicionales en euskera. Hasta los 12 años la actividad es gratuita, el resto pagará 6 
 € por persona. 
 
-![Visita teatralizada uno de los planes familiares en Getxo.](etheria_images/2023/05/Visita-guiada-getxo.jpg "Visita teatralizada en Getxo.")
+![Visita teatralizada uno de los planes familiares en Getxo.](etheria-images/2023/05/Visita-guiada-getxo.jpg "Visita teatralizada en Getxo.")
 
 ### 2\. Descubrir secretos marineros
 
@@ -160,7 +160,7 @@ Viejo](https://www.getxo.eus/es/turismo/que-ver/puerto-viejo-de-casa-en-casa). D
 aquí o allá para disfrutar de las magníficas vistas del estuario o reponer fuerzas 
 comiendo pintxos. 
 
-![Animado ambiente de Puerto Viejo.](etheria_images/2023/05/getxo-Puerto-Viejo.jpg "Animado ambiente de Puerto Viejo.")
+![Animado ambiente de Puerto Viejo.](etheria-images/2023/05/getxo-Puerto-Viejo.jpg "Animado ambiente de Puerto Viejo.")
 
 ### 3\. Navegar por la ría
 
@@ -172,7 +172,7 @@ naturales que señalan las márgenes de la ría. Precio de Getxo-Portugalete, 2 
 1 € hasta los 3 años, pero consulta también otros recorridos. Nuestros amigos peludos 
 viajan por 2 €. 
 
-![Bote Tours, una actividad divertida en Getxo](etheria_images/2023/05/getxo-bote-tours.jpg "Bote Tour, una propuesta para navegar por la ría.")
+![Bote Tours, una actividad divertida en Getxo](etheria-images/2023/05/getxo-bote-tours.jpg "Bote Tour, una propuesta para navegar por la ría.")
 
 ### 4\. Surfear la mejor ola
 
@@ -183,7 +183,7 @@ las mejores localizaciones de Bizkaia para practicarlo. Incluso se pueden solici
 clases personalizadas para grupos mínimos de cinco personas. Basta con ponerle ganas y 
 una pizca de tenacidad. Precio 35 €/ día en clases de dos horas de duración. 
 
-![Jóvenes en un curso de surf uno de los planes familiares en Getxo.](etheria_images/2023/05/Surf-getxo.jpg "Getxo es un destino de surf muy recomendable.")
+![Jóvenes en un curso de surf uno de los planes familiares en Getxo.](etheria-images/2023/05/Surf-getxo.jpg "Getxo es un destino de surf muy recomendable.")
 
 ### 5\. Remar en una piragua 
 
@@ -196,7 +196,7 @@ persona) si se desea llegar hasta el **Puente Bizkaia**, pero también es posibl
 más suavemente (en una hora y por 15 € persona) si sólo se pretende iniciarse en su 
 práctica para llegar a la pequeña **playa de La Bola**. 
 
-![Paseo en kayak por  Getxo.](etheria_images/2023/05/getxo-kayak.jpg "Paseo en kayak por el litoral de Getxo.")
+![Paseo en kayak por  Getxo.](etheria-images/2023/05/getxo-kayak.jpg "Paseo en kayak por el litoral de Getxo.")
 
 ### 6\. Admirar el arte desde el agua  
 
@@ -215,7 +215,7 @@ estuario del Nervión desaparece en el **mar Cantábrico**. Durante dos horas y 
 viento y la pericia del patrón marcarán vuestro destino. No dejéis de usar crema solar, 
 incluso si el día está nublado. Precio 45 € por persona. 
 
-![Navegar en velero uno de los planes familiares en Getxo más divertido](etheria_images/2023/05/getxo-familias-velero.jpg "Navegar en velero es una de las actividades familiares más recomendables.")
+![Navegar en velero uno de los planes familiares en Getxo más divertido](etheria-images/2023/05/getxo-familias-velero.jpg "Navegar en velero es una de las actividades familiares más recomendables.")
 
 ### 8\. Paseo en bicicleta acuática
 
@@ -228,7 +228,7 @@ siguiendo las instrucciones del monitor, el resto es diversión pedaleando sobre
 La actividad dura una hora y media, y el precio es de 45 €/ adulto y 10 € hasta catorce 
 años. 
 
-![Bicicleta acuática con el Puente Bizkaia al fondo, ideal para hcer con niños en Getxo](etheria_images/2023/05/getxo-water-bikers.jpg "Bicicleta acuática con el Puente Bizkaia al fondo.")
+![Bicicleta acuática con el Puente Bizkaia al fondo, ideal para hcer con niños en Getxo](etheria-images/2023/05/getxo-water-bikers.jpg "Bicicleta acuática con el Puente Bizkaia al fondo.")
 
 ### 9\. Curso de vela
 
@@ -240,7 +240,7 @@ esenciales. Hemos de considerar que esta formación requiere de veinte horas, qu
 se puede organizar en varios fines de semana. Precios desde 100 € la iniciación hasta 15 
 años y 130 € para perfeccionamiento. 
 
-![Curso de vela ligera uno de los planes familiares en Getxo.](etheria_images/2023/05/getxo-vela-ligera.jpg "Curso de vela ligera en Getxo.")
+![Curso de vela ligera uno de los planes familiares en Getxo.](etheria-images/2023/05/getxo-vela-ligera.jpg "Curso de vela ligera en Getxo.")
 
 ### 10\. Aprender de Geología
 
@@ -253,7 +253,7 @@ rocas.** Además, desde los cuatro años se puede embarcar a las niñas y niños
 conviertan en auténticos Indiana Jones capaces de desvelar los secretos de este litoral. 
 Tarifas desde 10 € por persona. 
 
-![Flysch de Bizkaia, un lugar donde hacer actividades con niños en Getxo](etheria_images/2023/05/flysch-vizcaya.jpg "Flysch de Bizkaia.")
+![Flysch de Bizkaia, un lugar donde hacer actividades con niños en Getxo](etheria-images/2023/05/flysch-vizcaya.jpg "Flysch de Bizkaia.")
 
 ### 11\. Hacerse un selfie
 
@@ -276,7 +276,7 @@ lado más abierto al mar junto a la playa de Gorrondatxe/Aizkorri. Disponen de b
 eléctricas e infantiles, triciclos y bicis familiares. Toda una oferta para que el viaje 
 sea mucho más eco y sostenible. 
 
-![Bicicleta en la playa de Las Arenas de Getxo](etheria_images/2023/05/bici-getxo-660x1024.jpg "Entre los planes familiares en Getxo se encuentran las rutas en bicicleta.")
+![Bicicleta en la playa de Las Arenas de Getxo](etheria-images/2023/05/bici-getxo-660x1024.jpg "Entre los planes familiares en Getxo se encuentran las rutas en bicicleta.")
 
 ### 13\. Caminatas con misterios
 
@@ -292,7 +292,7 @@ QR y el resto es ponerse a caminar e investigar.
 **muelles de Las Arenas y Arriluze** y fijarse en los paneles que señalan las grandes 
 villas de aquellos primeros veraneantes que venían a tomar baños de mar. 
 
-![Paseo Muelle de las Arenas, un plan ideal para hacer con niños en Getxo](etheria_images/2023/05/getxo-Paseo-Muelle-Las-Arenas.jpg "Paseo Muelle de las Arenas.")
+![Paseo Muelle de las Arenas, un plan ideal para hacer con niños en Getxo](etheria-images/2023/05/getxo-Paseo-Muelle-Las-Arenas.jpg "Paseo Muelle de las Arenas.")
 
 ### 14\. Volar en parapente
 
@@ -313,7 +313,7 @@ platos getxotarras. El único reto es para los mayores porque han de convertirse
 pinches de las nuevas generaciones. Precio de los adultos 25 € por persona y los niños y 
 niñas, 29 €. 
 
-![Niños en un curso de cocina, uno de los planes familiares en Getxo.](etheria_images/2023/05/getxo-cocina-familia.jpg "Curso de cocina en Getxo.")
+![Niños en un curso de cocina, uno de los planes familiares en Getxo.](etheria-images/2023/05/getxo-cocina-familia.jpg "Curso de cocina en Getxo.")
 
 ### 16\. Montar a caballo
 
@@ -340,7 +340,7 @@ parte de vuestra vida de ahora en adelante. En el municipio y su puerto deportiv
 como en el Puente de Bizkaia y la Oficina de Turismo, vais a encontrar detalles 
 encantadores y casi siempre vinculados a esa fachada marítima de la localidad. 
 
-![La Granja Selección, tienda gourmet donde comprar en Getxo](etheria_images/2023/03/La-Granja-Seleccion-getxo.jpg "Establecimientos gourmet en Getxo, el mejor lugar para llevarte un recuerdo.")
+![La Granja Selección, tienda gourmet donde comprar en Getxo](etheria-images/2023/03/La-Granja-Seleccion-getxo.jpg "Establecimientos gourmet en Getxo, el mejor lugar para llevarte un recuerdo.")
 
 ### 19.  Comer bien
 
@@ -368,7 +368,7 @@ saciar el apetito de toda la familia. A pequeños bocados y con la esencia de la
 gastronomía vasca harán que todos los miembros del grupo se enamoren de los alimentos de 
 proximidad, frescos y con elaboraciones tradicionales o creativas. 
 
-![pintxo y caracolillos de Getxo](etheria_images/2023/03/pintxo-getxo-683x1024.jpg "Un pintxo para saborear la buena vida de Getxo.")
+![pintxo y caracolillos de Getxo](etheria-images/2023/03/pintxo-getxo-683x1024.jpg "Un pintxo para saborear la buena vida de Getxo.")
 
 ### 21\. Tomar un helado o un pastel
 

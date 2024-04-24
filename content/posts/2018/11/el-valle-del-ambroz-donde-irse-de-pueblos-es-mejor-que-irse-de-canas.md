@@ -1,19 +1,19 @@
 ---
 title: "Valle del Ambroz, donde irse de pueblos es mejor que irse de cañas"
 date: 2018-11-16
-coverImage: etheria_images/2018/11/viaje-con-amigas-valle-ambroz-senderismo.jpg
+coverImage: etheria-images/2018/11/viaje-con-amigas-valle-ambroz-senderismo.jpg
 categories: 
   - festivales
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Reserva algún fin de semana para disfrutar de los pueblos, rutas, paisajes y buena 
 gastronomía del Valle de Ambroz una zona perfecta para visitar con los colores del 
 otoño. 
 
-![senderismo en el valle de Ambroz](etheria_images/2018/11/viaje-con-amigas-valle-ambroz-1024x681.jpg "Disfruta del otoño en el Valle del Ambroz. © DIVA")
+![senderismo en el valle de Ambroz](etheria-images/2018/11/viaje-con-amigas-valle-ambroz-1024x681.jpg "Disfruta del otoño en el Valle del Ambroz. © DIVA")
 
 El otoño es el momento ideal para visitar el valle de Ambroz y recorrer los increíbles 
 paisajes que alberga Cáceres en este privilegiado rincón. Aunque si esta fecha no cuadra 
@@ -31,7 +31,7 @@ encontraremos suficientes tascas como para saciar nuestra sed y dar rienda suelt
 umami, el que dicen que es extraoficialmente el quinto sabor —y que caracteriza tanto al 
 jamón ibérico de bellota—. 
 
-![casas en Hervás](etheria_images/2018/11/viaje-con-amigas-valle-ambroz-hervas.jpg "Hervás cuenta con la judería mejor conservada de España. © Ayto. de Hervás")
+![casas en Hervás](etheria-images/2018/11/viaje-con-amigas-valle-ambroz-hervas.jpg "Hervás cuenta con la judería mejor conservada de España. © Ayto. de Hervás")
 
 ## Aguas termales en Baños de Montemayor
 
@@ -43,7 +43,7 @@ ciertas dolencias y paliar el estrés. Elegantes casonas y mansiones de estilo _
 > Tan importantes son sus aguas que en junio, cada año, los vecinos de Baños celebran el 
 > Termarium, la fiesta que da la bienvenida a la temporada termal. 
 
-![toro de piedra en Segura del Toro](etheria_images/2018/11/viaje-con-amigas-valle-ambroz-segura-del-toro-1024x684.jpg "Segura del Toro tiene a este icónico animal en el centro del pueblo. © Visit Ambroz")
+![toro de piedra en Segura del Toro](etheria-images/2018/11/viaje-con-amigas-valle-ambroz-segura-del-toro-1024x684.jpg "Segura del Toro tiene a este icónico animal en el centro del pueblo. © Visit Ambroz")
 
 ## Un toro y un castillo en Segura del Toro
 
@@ -52,7 +52,7 @@ celta —de origen romano en realidad— lo rodean edificios con grandes sillare
 una construcción muy popular en la zona. Además, este pueblo mira al resto del valle 
 desde su propio **castillo templario**. 
 
-![mujer haciendo una foto en otoño en el valle de Ambroz](etheria_images/2018/11/viaje-con-amigas-valle-ambroz-senderismo-1024x680.jpg "Practicar senderismo en otoño es uno de los grandes placeres en el Valle del Ambroz. © DIVA")
+![mujer haciendo una foto en otoño en el valle de Ambroz](etheria-images/2018/11/viaje-con-amigas-valle-ambroz-senderismo-1024x680.jpg "Practicar senderismo en otoño es uno de los grandes placeres en el Valle del Ambroz. © DIVA")
 
 ## Caminatas en el Valle del Ambroz
 
@@ -71,7 +71,7 @@ Gargantilla hacia el valle del Jerte y llega hasta el puerto de Honduras. Por el
 nos cruzaremos con grandes cultivos de cerezos, ciruelos y con bosques de castaños, 
 abedules y acebos. 
 
-![bolsa de pimentón de Extremadura](etheria_images/2018/11/pimenton-viaje-con-amigas-valle-ambroz-1024x681.jpg "Pimentón, uno de los mejores recuerdos gastronómicos del valle. © Visit Ambroz")
+![bolsa de pimentón de Extremadura](etheria-images/2018/11/pimenton-viaje-con-amigas-valle-ambroz-1024x681.jpg "Pimentón, uno de los mejores recuerdos gastronómicos del valle. © Visit Ambroz")
 
 ## Tapeo en Aldeanueva del Camino
 
@@ -83,7 +83,7 @@ sopas de freje, chanfaina y landrillas. Por las calles de Aldeanueva del Camino
 caminaremos precisamente sobre la calzada romana que le da nombre y que se conserva en 
 excelentes condiciones. 
 
-![palacio Sotofermoso](etheria_images/2018/11/viaje-con-amigas-valle-ambroz-palacio-sotofermoso.jpg "Vista aérea del palacio de Sotofermoso. © Visit Ambroz")
+![palacio Sotofermoso](etheria-images/2018/11/viaje-con-amigas-valle-ambroz-palacio-sotofermoso.jpg "Vista aérea del palacio de Sotofermoso. © Visit Ambroz")
 
 ## La Garganta y Abadía
 
@@ -96,7 +96,7 @@ de los Duques de Alba –esos que tanto miedo infundieron a los niños de Flande
 ofrecieron reposo e inspiración a Garcilaso de la Vega y a Lope de Vega. El palacio 
 cuenta además con un coqueto e interesante patio mudéjar. 
 
-![castano Corbiche](etheria_images/2018/11/viaje-con-amigas-valle-ambroz-castano-corbiche.jpg "El castaño del Corbiche fue declarado árbol singular. © Visit Ambroz")
+![castano Corbiche](etheria-images/2018/11/viaje-con-amigas-valle-ambroz-castano-corbiche.jpg "El castaño del Corbiche fue declarado árbol singular. © Visit Ambroz")
 
 ## Casas del Monte
 

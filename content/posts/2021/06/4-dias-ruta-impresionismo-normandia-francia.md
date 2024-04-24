@@ -1,18 +1,23 @@
 ---
-title: "Ruta del Impresionismo en Normandía, arte a raudales"
+title: "Qué visitar en la Ruta del Impresionismo de Normandía"
 date: 2021-06-24
-coverImage: etheria_images/2020/10/normandia-Jardin-Casa-Monet.jpg
+coverImage: etheria-images/2020/10/normandia-Jardin-Casa-Monet.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
-Normandía es la cuna del Impresionismo y el lugar que inspiró a Monet, Pissarro o Boudin algunas de las mayores obras de todos los tiempos. Te invitamos a recorrer durante 4 días ciudades como Giverny, Rouen, Honfleur, Caen, Étretat o Le Havre, y a dejarte acariciar por el espíritu del arte.
+La región francesa de Normandía es la cuna del Impresionismo y el lugar que inspiró a 
+Monet, Pissarro o Boudin algunas de las mayores obras de todos los tiempos. Te invitamos 
+a recorrer durante 4 días ciudades como Giverny, Rouen, Honfleur, Caen, Étretat o Le 
+Havre, y a dejarte acariciar por el espíritu del arte. 
 
-![jardin de la casa de monet en giverny](etheria_images/2020/10/normandia-Jardin-Casa-Monet.jpg "Jardín de la casa de Monet en Giverny (Normandía). © P.G./ Etheria M.")
+![Jardín de la casa de Monet en Giverny (Normandía).](etheria-images/2020/10/normandia-Jardin-Casa-Monet.jpg "Jardín de la casa de Monet en Giverny (Normandía). © P.G./ Etheria M.")
+
+Actualizado abril de 2024 
 
 En la segunda mitad del siglo XIX surge una corriente artística en Francia que decide 
 capturar en sus lienzos instantes de la vida, luces especiales y fugaces. No importaba 
@@ -37,14 +42,14 @@ jardín no existía, allí no había más que un pequeño huerto. Hoy día podem
 dos plantas de su casa, los salones, dormitorios y su bonita cocina. Además, en un 
 edificio cercano se encuentra su taller, donde ahora se encuentra la tienda. 
 
-![casa de monet en giverny](etheria_images/2020/10/Normandia-Casa-de-Monet.jpg "La casa de Monet transmite alegría con sus colores. © P.G./ Etheria M.")
+![La casa de Monet transmite alegría con sus colores.](etheria-images/2020/10/Normandia-Casa-de-Monet.jpg "La casa de Monet transmite alegría con sus colores. © P.G./ Etheria M.")
 
 Además de recorrer estos bellos espacios debes continuar hasta otro jardín, el del Agua, 
 donde se sitúan los estanques con nenúfares (que el artista usó como modelos para sus 
 pinturas), el puentecito japonés rojo, los sauces y otros rincones increíblemente 
 románticos. 
 
-![jardin del agua de monet en giverny](etheria_images/2020/10/jardin-del-agua-monet.jpg "Jardín del Agua de Monet. © P.G./ Etheria M.")
+![Jardín del Agua de Monet.](etheria-images/2020/10/jardin-del-agua-monet.jpg "Jardín del Agua de Monet. © P.G./ Etheria M.")
 
 Pero las visitas no terminan aquí, sino que en el pueblo de Giverny se puede visitar el 
 **Museo de los Impresionismos**, la tumba de Monet (en el cementerio) y el **antiguo 
@@ -53,7 +58,7 @@ Pissarro, Caillebotte, Heleu, Sisley, Rodin, Renoir o Berthe Morisot, que venía
 visitar al maestro. Como también tiene restaurante y sirven una comida exquisita, es un 
 buen lugar para hacer el primer descanso del día. 
 
-![hotel baudin alojamiento de artistas impresionistas](etheria_images/2020/10/normandia-Hotel-Baudin-Giverny.jpg "En el antiguo hotel Baudin pasaba Cezanne largas estancias. © P.G./ Etheria M.")
+![En el antiguo hotel Baudin pasaba Cezanne largas estancias.](etheria-images/2020/10/normandia-Hotel-Baudin-Giverny.jpg "En el antiguo hotel Baudin pasaba Cezanne largas estancias. © P.G./ Etheria M.")
 
 ## Rouen, encanto medieval
 
@@ -68,14 +73,14 @@ rincones tan emblemáticos como la calle Le Gros-Horloge y su torre con el reloj
 olvides visitar su **Museo de Bellas Artes**, tan impresionante externamente como en sus 
 colecciones. 
 
-![torre del reloj en ruta impresionista de rouen](etheria_images/2020/10/normandia-Rouen-Torre-del-Reloj.jpg "Torre del Reloj de Rouen, inspiradora de varios lienzos impresionistas. © P.G./ Etheria M.")
+![Torre del Reloj de Rouen, inspiradora de varios lienzos impresionistas.](etheria-images/2020/10/normandia-Rouen-Torre-del-Reloj.jpg "Torre del Reloj de Rouen, inspiradora de varios lienzos impresionistas. © P.G./ Etheria M.")
 
 Esta pequeña ciudad de bonitas casas con entramado y pasadizos de aires medievales 
 transmite historia por todos sus rincones, con algunos pasajes tan terribles como el de 
 Juana de Arco, una heroína que cuenta con varios espacios temáticos e, incluso, se 
 conserva el lugar donde perdió la vida consumida por las llamas. 
 
-![paseo impresionista en Rouen](etheria_images/2020/10/normandia-Rouen-ruta-impresionista.jpg "Calles y monumentos de Rouen inspiraron a muchos artistas. © P.G./ Etheria Magazine")
+![Calles y monumentos de Rouen inspiraron a muchos artistas.](etheria-images/2020/10/normandia-Rouen-ruta-impresionista.jpg "Calles y monumentos de Rouen inspiraron a muchos artistas. © P.G./ Etheria Magazine")
 
 En Rouen encontrarás numerosos hoteles, restaurantes y buen ambiente para salir por la 
 noche. 
@@ -89,7 +94,7 @@ que este rincón de la Ruta Impresionista de Normandía lleve siglos siendo el l
 favorito de veraneo de burgueses y nobles parisinos, como bien demuestran los palacetes 
 del siglo XIX y de la Belle Époque situados en todo el entorno. 
 
-![paseo impresionista en Etretat](etheria_images/2020/10/etretat-ruta-impresionismo-normandia.jpg "Paseo marítimo de Etretat. © P.G./ Etheria M.")
+![Paseo marítimo de Etretat.](etheria-images/2020/10/etretat-ruta-impresionismo-normandia.jpg "Paseo marítimo de Etretat. © P.G./ Etheria M.")
 
 La escenografía marina de Étretat, propiciada por la belleza de la costa de Alabastro, 
 ha sido motivo de inspiración para artistas como Boudin, con obras como ‘Los pescadores 
@@ -101,7 +106,7 @@ un arco que inmortalizó, entre otros muchos, Monet.
 No te vayas sin subir el sendero que te lleva arriba del acantilado de Aval, a cada paso 
 regala vistas más y más bonitas. 
 
-![ayuntamiento de le havre en ruta impresionista](etheria_images/2020/10/normandia-Le-Havre.jpg "Ayuntamiento de Le Havre. © P.G./ Etheria Magazine")
+![Ayuntamiento de Le Havre.](etheria-images/2020/10/normandia-Le-Havre.jpg "Ayuntamiento de Le Havre. © P.G./ Etheria Magazine")
 
 ## Le Havre, una historia de superación
 
@@ -119,7 +124,7 @@ como ‘Impresión: sol naciente’ de Monet.
 Si sigues el camino de la playa verás un recorrido con soportes que muestran distintas 
 obras impresionistas en el mismo lugar donde fueron pintadas (o casi). 
 
-![vidrieras de la iglesia de saint joseph en le havre](etheria_images/2020/10/normandia-Le-Havre-interior-iglesia.jpg "Iglesia de Saint-Joseph, en Le Havre (Normandía). © P.G./ Etheria Magazine")
+![Iglesia de Saint-Joseph, en Le Havre (Normandía).](etheria-images/2020/10/normandia-Le-Havre-interior-iglesia.jpg "Iglesia de Saint-Joseph, en Le Havre (Normandía). © P.G./ Etheria Magazine")
 
 En el moderno **Museo Malraux**, con grandes espacios diáfanos y ubicado frente al mar, 
 se puede pasear por la historia del impresionismo sin darte cuenta. Se dice que cuenta 
@@ -127,7 +132,7 @@ con la segunda mayor colección impresionista después del Museo de Orsay de Par
 pierdas obras como ‘El excursionista’, de Renoir; ‘Barcas al sol de poniente’, de Manet; 
 o las panorámicas del puerto de Pissarro. 
 
-![museo malraux de le havre en normandia](etheria_images/2020/10/normandia-Museo-Arte-Moderno-Le-Havre.jpg "Museo Malraux, en Le Havre. © P.G./ Etheria Magazine")
+![Museo Malraux, en Le Havre.](etheria-images/2020/10/normandia-Museo-Arte-Moderno-Le-Havre.jpg "Museo Malraux, en Le Havre. © P.G./ Etheria Magazine")
 
 ## Honfleur, cuna de Boudin
 
@@ -140,7 +145,7 @@ Honfleur animó a muchos "colegas" (como Monet o Jongkind) a visitar su hogar, y
 encuentros en la **Granja Saint-Siméon** (ahora es un hotel increíble de la cadena 
 Relais&Chateaux con un restaurante a su altura. Alucinarás con su mesa de quesos...). 
 
-![puerto viejo de honfleur en la ruta impresionista](etheria_images/2020/10/normandia-Puerto-de-Honfleur.jpg "Puerto viejo de Honfleur, la cuna de Boudin. © P.G./ Etheria Magazine")
+![Puerto viejo de Honfleur, la cuna de Boudin.](etheria-images/2020/10/normandia-Puerto-de-Honfleur.jpg "Puerto viejo de Honfleur, la cuna de Boudin. © P.G./ Etheria Magazine")
 
 Una gran ventaja de Honfleur es que no fue perjudicada durante la guerra y aquellos 
 lugares como el barrio Sainte-Catherine, el barrio Saint-Léonard y el puerto viejo que 
@@ -160,7 +165,7 @@ Normandía. Sin embargo, creemos que sería una pena no aprovechar el viaje para
 la abadía del **Mont-Saint-Michel**, que también fue retratada por numerosos pintores 
 impresionistas. 
 
-![mont saint michel en normandia](etheria_images/2020/10/normandia-Monte-Sant-Michel.jpg "Mont-Saint-Michel desde el camino de llegada. © P.G./ Etheria M.")
+![Mont-Saint-Michel desde el camino de llegada.](etheria-images/2020/10/normandia-Monte-Sant-Michel.jpg "Mont-Saint-Michel desde el camino de llegada. © P.G./ Etheria M.")
 
 Este monte rocoso coronado por la famosa abadía es una imagen que no te cansas de 
 admirar porque cambia varias veces al día. Envuelta en brumas, con tonos rosados al 
@@ -172,13 +177,10 @@ La entrada al **Mont-Saint-Michel** está regulada, así que debes entrar camina
 coche de caballos y un autobús gratuito que te deja a 400 metros de la muralla. Si 
 llevas tu propio coche lo tienes que dejar, como muy cerca, a 2,5 kilómetros. 
 
-([Compra 
-la](https://www.civitatis.com/es/mont-saint-michel/entrada-abadia-mont-saint-michel/?aid=10211) 
-[e](https://www.civitatis.com/es/mont-saint-michel/entrada-abadia-mont-saint-michel/?aid=10211)[ntrada 
-a la Abadía de Saint-Michel sin colas desde 11 
+(**CONSEJO:** [Visita la Abadía de Saint-Michel sin colas desde 13 
 €](https://www.civitatis.com/es/mont-saint-michel/entrada-abadia-mont-saint-michel/?aid=10211)) 
 
-![claustro de abadia de mont saint michel](etheria_images/2020/10/claustro-mont-saint-michel-2.jpg "Claustro de la abadía de Mont-Saint-Michel. © P.G./ Etheria M")
+![Claustro de la abadía de Mont-Saint-Michel.](etheria-images/2020/10/claustro-mont-saint-michel-2.jpg "Claustro de la abadía de Mont-Saint-Michel. © P.G./ Etheria M")
 
 Una vez traspasada la puerta esta fortaleza amurallada, te recibe un laberinto de calles 
 ensortijadas con cafés, bares y tiendas de recuerdos, de esas que te pararías a hacer 
@@ -189,7 +191,7 @@ entorno.
 En verano suele haber visitas nocturnas en Mont-Saint-Michel, así que no desaproveches 
 la oportunidad de recorrerla bajo la luz de las farolas. 
 
-![tortillas de mont-saint-michel](etheria_images/2020/10/Tortilla-tipica-de-mont-saint-michel.jpg "No puedes marcharte de Mont-Saint-Michel sin probar sus típicas y esponjosas tortillas.")
+![esponjosas tortillas de Mont-Saint-Michel s](etheria-images/2020/10/Tortilla-tipica-de-mont-saint-michel.jpg "No puedes marcharte de Mont-Saint-Michel sin probar sus típicas y esponjosas tortillas.")
 
 Entre poblaciones encantadoras, paisajes románticos y arte, mucho arte, los cuatro días 
 que os habíamos propuesto al inicio se os quedarán cortos. Si queréis ampliar más el 
@@ -197,28 +199,28 @@ viaje, puedes continuar leyendo ‘[10 viajes para disfrutar de la buena vida en
 Francia’](https://etheriamagazine.com/2020/09/02/mejores-destinos-para-viajar-en-francia/) 
 para coger más ideas. 
 
-### GUÍA ETHERIA DE VIAJES
+## Guía de viajes Etheria
 
-##### Cómo llegar y moverse
+### Cómo llegar y moverse por Normandía
 
 En nuestro viaje volamos a París y allí alquilamos un vehículo para movernos libremente 
 por Normandía. La ciudad de Giverny, la primera de este itinerario, está a solo 75 km 
 (una hora y media más o menos). La agencia de alquiler Avis suele ofrece buenos 
 descuentos. 
 
-##### Dónde dormir
+### Dónde dormir en Normandía
 
-• Hotel Mercure Rouen Centre Cathédrale**.** Un 4 estrellas funcional y céntrico. Angle 
-Rue Saint-Nicolas et Rue Croix de Fer. Rouen. 
+**Hotel Mercure Rouen Centre Cathédrale** (all.accor.com). Un 4 estrellas funcional y 
+céntrico. Angle Rue Saint-Nicolas et Rue Croix de Fer. Rouen. 
 
-• Hotel Le Vent d’Ouest. 3\*. Un hotel encantador y con muchos detalles. Rue de Caligny, 
-4. Le Havre. 
+**Hotel Le Vent d’Ouest** (ventdouest.fr). 3\*. Un hotel encantador y con muchos 
+detalles. Rue de Caligny, 4. Le Havre. 
 
-• Hôtel Best Western Montgomery. En un edificio histórico y muy funcional. Está situado 
-cerca del Mont-Saint-Michel por lo que no tendrás que madrugar tanto para visitar la 
-abadía con tranquilidad. Couesnon, 13. Pontorson. 
+**Hôtel Best Western Montgomery** (bestwestern.com). En un edificio histórico y muy 
+funcional. Está situado cerca del Mont-Saint-Michel por lo que no tendrás que madrugar 
+tanto para visitar la abadía con tranquilidad. Couesnon, 13. Pontorson. 
 
-##### Más información
+### Más información
 
 [Turismo de Normandía](https://es.normandie-tourisme.fr/) dispone de información 
 complementaria de casi todos los lugares mencionados. Te ayudará a organizar tu viaje.

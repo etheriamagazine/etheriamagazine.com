@@ -1,18 +1,18 @@
 ---
 title: "Crucero por las Islas Griegas"
 date: 2019-01-03
-coverImage: etheria_images/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-e1562660385975.jpg
+coverImage: etheria-images/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-e1562660385975.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Yvonne Sole
+authors: 
+  - Yvonne Solé
 ---
 
 El Peloponeso y las islas Cícladas son el destino ideal para las viajeras que busquen sol y playa pero quieran completar el viaje con historia, cultura y una gastronomía adictiva. Viaja sola o en compañía a bordo de un exclusivo crucero con capacidad para 30 pasajeros que parte de Atenas y te lleva a descubrir las maravillas de este país.
 
-![viaje mujeres, crucero islas griegas, viajes con amigas](etheria_images/2018/12/viaje-mujeres-crucero-islas-griegas-Hydra-1024x682.jpg "Hydra es una de las escalas de este crucero.")
+![viaje mujeres, crucero islas griegas, viajes con amigas](etheria-images/2018/12/viaje-mujeres-crucero-islas-griegas-Hydra-1024x682.jpg "Hydra es una de las escalas de este crucero.")
 
 Grecia tiene muchos viajes y uno de los más interesantes es realizar un crucero por las 
 islas griegas. Las propuestas son casi infinitas y en esta ocasión nos hemos decidido 
@@ -39,7 +39,7 @@ construcción desmedida, protegiendo así su condición de isla tranquila. Tambi
 logrado mantener a salvo las casas antiguas y señoriales que fueron diseñadas y 
 construidas por arquitectos genoveses y venecianos en su parte menos turística. 
 
-![crucero islas griegas, viajes mujeres](etheria_images/2018/12/Hydra-crucero-mujeres-islas-griegas-1024x681.jpg "Hydra es una de las visitas en el crucero por las Islas Griegas.")
+![crucero islas griegas, viajes mujeres](etheria-images/2018/12/Hydra-crucero-mujeres-islas-griegas-1024x681.jpg "Hydra es una de las visitas en el crucero por las Islas Griegas.")
 
 #### Piérdete por sus _tavernas_
 
@@ -60,7 +60,7 @@ Profitis Ilias**, habitado todavía por monjes y situado en lo alto de la isla. 
 de que el interior no está abierto al público, merece la pena la caminata por las 
 vistas. 
 
-![viaje mujeres, crucero islas griegas, viajes con amigas](etheria_images/2018/12/viaje-mujeres-crucero-islas-griegas-Nauplia-1024x771.jpg "Nauplia contagia alegría con su colorido.")
+![viaje mujeres, crucero islas griegas, viajes con amigas](etheria-images/2018/12/viaje-mujeres-crucero-islas-griegas-Nauplia-1024x771.jpg "Nauplia contagia alegría con su colorido.")
 
 ## Nauplia, iglesias, bunganvillas y buenas vistas
 
@@ -81,7 +81,7 @@ teatro y cine– y el museo arqueológico. Muy cerca se encuentran las iglesias 
 Spyridonas y de Agios Georgios. De esta última, su mayor atractivo reside en los 
 murales, especialmente la reproducción de '_La última cena_' de Leonardo da Vinci. 
 
-![viaje mujeres, crucero islas griegas, viajes con amigas](etheria_images/2018/12/viaje-mujeres-crucero-islas-griegas-danza-griega-1024x643.jpg "Danza griega.")
+![viaje mujeres, crucero islas griegas, viajes con amigas](etheria-images/2018/12/viaje-mujeres-crucero-islas-griegas-danza-griega-1024x643.jpg "Danza griega.")
 
 La **calle Mayor**, más pequeña de lo que su nombre pueda sugerir, es la más transitada 
 puesto que aquí se suceden las tiendas y las _tavernas_. Sin embargo, es preferible 
@@ -108,7 +108,7 @@ escenario de eventos culturales. Está abierto al público para visitas, pero so
 puede llegar en barca, ya que los turcos construyeron a su alrededor una barrera 
 submarina de rocas para evitar el ataque de las grandes embarcaciones. 
 
-![viaje mujeres, crucero islas griegas, viajes con amigas](etheria_images/2018/12/viaje-mujeres-crucero-islas-griegas-Monemvasia-1024x802.jpg "Rincones pintorescos de Monemvasía.")
+![viaje mujeres, crucero islas griegas, viajes con amigas](etheria-images/2018/12/viaje-mujeres-crucero-islas-griegas-Monemvasia-1024x802.jpg "Rincones pintorescos de Monemvasía.")
 
 ## Monemvasía, la fortaleza con más encanto
 
@@ -132,7 +132,7 @@ de la gastronomía griega**, como la ensalada griega con queso feta; las dolmada
 (saquitos de hojas de parra rellenos de arroz con salsa de limón); el tzatziki (crema de 
 yogur con ajo y pepino); y un buen plato de pulpo o pescado fresco a la parrilla. 
 
-![viaje mujeres, crucero islas griegas, viajes con amigas](etheria_images/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-1024x681.jpg "Típica estampa de Santorini, con las cúpulas de las iglesias y el mar al fondo.")
+![viaje mujeres, crucero islas griegas, viajes con amigas](etheria-images/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-1024x681.jpg "Típica estampa de Santorini, con las cúpulas de las iglesias y el mar al fondo.")
 
 ##  Santorini, la postal más buscada
 
@@ -149,7 +149,7 @@ y subirte a lomos de un asno para que este te lleve por un zigzagueante y empina
 camino de casi 600 escalones en un ascenso de unos 20 minutos de duración. Este medio de 
 transporte cuadrúpedo está muy solicitado, pero no es apto para remilgados. 
 
-![viaje mujeres, crucero islas griegas, viajes con amigas](etheria_images/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-burro-1024x705.jpg "Subida en burro en la isla de Santorini.")
+![viaje mujeres, crucero islas griegas, viajes con amigas](etheria-images/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-burro-1024x705.jpg "Subida en burro en la isla de Santorini.")
 
 #### En busca de postales pintorescas
 
@@ -190,7 +190,7 @@ años, sus calles fueron diseñadas con una estructura similar a un laberinto; p
 los lugareños pudieran esconderse fácilmente en caso de ataque. Por eso es el lugar 
 perfecto para perderse –literalmente–. 
 
-![viaje mujeres, crucero islas griegas, viajes con amigas](etheria_images/2018/12/viaje-mujeres-crucero-islas-griegas-Mikonos-1024x728.jpg "Los pulpos se secan al sol en Mikonos.")
+![viaje mujeres, crucero islas griegas, viajes con amigas](etheria-images/2018/12/viaje-mujeres-crucero-islas-griegas-Mikonos-1024x728.jpg "Los pulpos se secan al sol en Mikonos.")
 
 #### La isla que enamoró a Jackie Onassis
 

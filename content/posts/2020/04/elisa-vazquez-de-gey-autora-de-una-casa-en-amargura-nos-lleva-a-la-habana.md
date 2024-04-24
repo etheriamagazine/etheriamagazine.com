@@ -1,19 +1,19 @@
 ---
 title: "'Una casa en Amargura', la esclavitud doméstica en Cuba contada por Elisa Vázquez de Gey"
 date: 2020-04-30
-coverImage: etheria_images/2020/04/una-casa-en-amargura-cuba.jpg
+coverImage: etheria-images/2020/04/una-casa-en-amargura-cuba.jpg
 categories: 
   - historias-en-femenino
   - libros-de-viajes
   - mujeres-etheria
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Elisa Vázquez de Gey es la autora de varias obras donde las mujeres son las protagonistas. Siempre mujeres reales con historias muy bien documentadas. En 'Una casa en Amargura' ha recopilado una amplia información sobre la esclavitud doméstica en Cuba que ha expuesto en en clave literaria. En la siguiente entrevista ella misma nos cuenta los pormenores de la obra y sus rutinas al escribir.
 
-![Elisa Vázquez de Gey (© Santiago Sáiz) y portada de 'Una casa en Amargura'.](etheria_images/2020/04/elisa-vazquez-de-gey-la-habana-900x633.jpg "Elisa Vázquez de Gey (© Santiago Sáiz) y portada de 'Una casa en Amargura'.")
+![Elisa Vázquez de Gey (© Santiago Sáiz) y portada de 'Una casa en Amargura'.](etheria-images/2020/04/elisa-vazquez-de-gey-la-habana-900x633.jpg "Elisa Vázquez de Gey (© Santiago Sáiz) y portada de 'Una casa en Amargura'.")
 
 La vida de la escritora gallega Elisa Vázquez de Gey transcurre entre grandes mujeres, 
 investigando su pasado, reconstruyendo sus historias y emociones, y el entorno en el que 
@@ -33,7 +33,7 @@ que, por aquel entonces, era española.
 Hablamos con la autora para conocer mejor la obra, sus propias inquietudes y los 
 obstáculos a los que tuvo que enfrentarse para documentarla y escribirla. 
 
-![Catedral de La Habana desde el Museo Colonial.](etheria_images/2020/04/viaje-cuba-Catedral-desde-Museo.jpg "Catedral de La Habana desde el Museo Colonial. © Elisa Vázquez de Gey")
+![Catedral de La Habana desde el Museo Colonial.](etheria-images/2020/04/viaje-cuba-Catedral-desde-Museo.jpg "Catedral de La Habana desde el Museo Colonial. © Elisa Vázquez de Gey")
 
 ### ¿Cómo surgió la idea de escribir esta historia?
 
@@ -58,7 +58,7 @@ a la edad de veintitrés años, por testamento de su ama. Y que cuando se supo l
 primero que hizo fue lanzarse a la calle y suplicar a grito pelado a cuantos conocía que 
 le prestasen inmediatamente dinero porque... ¡quería comprar un esclavo! 
 
-![Anuncio en La Gaceta de La Habana 1858.](etheria_images/2020/04/Anuncio-en-La-Gaceta-de-La-Habana-1858-900x463.jpg "Anuncio en La Gaceta de La Habana 1858.")
+![Anuncio en La Gaceta de La Habana 1858.](etheria-images/2020/04/Anuncio-en-La-Gaceta-de-La-Habana-1858-900x463.jpg "Anuncio en La Gaceta de La Habana 1858.")
 
 Ante mi pasmo, el narrador puntualizó algo: **el esclavo que su antepasada quería 
 comprar era su propio esposo**. Lo habían capturado y acababan de fijarle precio. Estaba 
@@ -77,7 +77,7 @@ La chispa literaria estaba encendida. Supe que iba a escribir sobre la esclavitu
 el perfil de mi protagonista respondería al de aquella valiente y esforzada mujer. Solo 
 me preguntaba si en la España colonial del XIX habrían tenido lugar episodios similares… 
 
-![Archivadores de caoba y forja en la Biblioteca Nacional de Cuba José Martí.](etheria_images/2020/04/Biblioteca-Nacional-de-Cuba-Jose-Marti-Habana-900x570.jpg "Archivadores de caoba y forja en la Biblioteca Nacional de Cuba José Martí. © E. Vázquez de Gey")
+![Archivadores de caoba y forja en la Biblioteca Nacional de Cuba José Martí.](etheria-images/2020/04/Biblioteca-Nacional-de-Cuba-Jose-Marti-Habana-900x570.jpg "Archivadores de caoba y forja en la Biblioteca Nacional de Cuba José Martí. © E. Vázquez de Gey")
 
 ### No debe ser secillo documentar este tipo de narración. ¿Encontraste muchas dificultades?
 
@@ -98,7 +98,7 @@ esclavitud en la Isla de Cuba” (1880), un tiempo en el que Real Villa de San C
 de La Habana, pese a que la isla estaba involucrada en dos guerras contra España, 
 disfrutó la mayor de las opulencias. 
 
-![“Ley que ordena el cese del estado de esclavitud en la Isla de Cuba” (1880). Archivo del Congreso de los Diputados.](etheria_images/2020/04/Ley-fin-esclavitud-cuba-900x344.jpg "“Ley que ordena el cese del estado de esclavitud en la Isla de Cuba” (1880). Archivo del Congreso de los Diputados. © E. Vázquez de Gey")
+![“Ley que ordena el cese del estado de esclavitud en la Isla de Cuba” (1880). Archivo del Congreso de los Diputados.](etheria-images/2020/04/Ley-fin-esclavitud-cuba-900x344.jpg "“Ley que ordena el cese del estado de esclavitud en la Isla de Cuba” (1880). Archivo del Congreso de los Diputados. © E. Vázquez de Gey")
 
 Con el telón de fondo de una metrópoli bulliciosa, poblada de militares, gallegos 
 buscavidas, negociantes catalanes, nobles españoles, acaudaladas familias criollas y 
@@ -119,7 +119,7 @@ cuaresma, salía todas las tardes de la Tercera Orden de San Francisco, una Pasi
 iba por esa calle hasta la iglesia del Cristo, que era el Humilladero (…) a imitación de 
 la Vía Crucis, de Jerusalén, que se llamó de la Amargura.”_ 
 
-![Esquina de las calles Amargura y Mercaderes. La Habana Vieja.](etheria_images/2020/04/viaje-cuba-Amargura-y-Mercaderes-900x679.jpg "Esquina de las calles Amargura y Mercaderes. La Habana Vieja. © E. Vázquez de Gey")
+![Esquina de las calles Amargura y Mercaderes. La Habana Vieja.](etheria-images/2020/04/viaje-cuba-Amargura-y-Mercaderes-900x679.jpg "Esquina de las calles Amargura y Mercaderes. La Habana Vieja. © E. Vázquez de Gey")
 
 ### ¿Cómo son los principales personajes femeninos de tu novela?
 
@@ -135,7 +135,7 @@ era emancipada y el Gobierno colonial se ocupó de alquilarla como planchadora a
 diferentes amos los cuales, uno tras otro, le fueron cambiando el nombre. **Cinco amos, 
 cinco nombres**. Por eso Misterio tenía problema de documentación. 
 
-![Antiguas fotografías que inspiraron el personaje de Misterio. Foto Maceo, 1880.](etheria_images/2020/04/esclavas-habana-cuba-685x1024.jpg "Antiguas fotografías que inspiraron el personaje de Misterio. Foto Maceo, 1880. © E. Vázquez de Gey")
+![Antiguas fotografías que inspiraron el personaje de Misterio. Foto Maceo, 1880.](etheria-images/2020/04/esclavas-habana-cuba-685x1024.jpg "Antiguas fotografías que inspiraron el personaje de Misterio. Foto Maceo, 1880. © E. Vázquez de Gey")
 
 La conocemos intentando solucionar el asunto de sus documentos en el estudio de un 
 síndico que atiende reclamaciones de esclavos en su propia casa. Una curiosa peripecia 
@@ -149,7 +149,7 @@ cuarto donde pernocta y, llegada la madrugada, completa su economía trabajando 
 de **planchado del tren de lavado** del chino Xing. Una delicia de jornada, sí señor, 
 como para dar gracias a Dios. 
 
-![Mujeres planchadoras. 'Medianoche en el tren de lavado'. Fernando Alonso Andújar, 2014](etheria_images/2020/04/Medianoche-esclavas-en-el-cuarto-de-la-plancha-900x562.jpg "Mujeres planchadoras. 'Medianoche en el tren de lavado'. Fernando Alonso Andújar, 2014")
+![Mujeres planchadoras. 'Medianoche en el tren de lavado'. Fernando Alonso Andújar, 2014](etheria-images/2020/04/Medianoche-esclavas-en-el-cuarto-de-la-plancha-900x562.jpg "Mujeres planchadoras. 'Medianoche en el tren de lavado'. Fernando Alonso Andújar, 2014")
 
 > Los años pasan en Amargura. Misterio plancha a destajo y la niña de la casa se convierte 
 > en Dulce Elena Prieto, una damita ilustrada con ínfulas de escritora, que para colmo es 
@@ -159,7 +159,7 @@ Pero Misterio fallece y Dulce Elena descubre que le ha dejado una encomienda: de
 encontrar a cinco personas, dos de ellas totalmente desconocidas, para que la apertura 
 de su testamento pueda tener lugar. La búsqueda desvelará inesperados secretos. 
 
-![Fachada de la Oficina del Historiador en la calle Amargura durante la Feria del Libro de La Habana.](etheria_images/2020/04/Fachada-Calle-Amargura-feria-libro-2017-658x1024.jpg "Fachada de la Oficina del Historiador en la calle Amargura durante la Feria del Libro de La Habana. © E. Vázquez de Gey")
+![Fachada de la Oficina del Historiador en la calle Amargura durante la Feria del Libro de La Habana.](etheria-images/2020/04/Fachada-Calle-Amargura-feria-libro-2017-658x1024.jpg "Fachada de la Oficina del Historiador en la calle Amargura durante la Feria del Libro de La Habana. © E. Vázquez de Gey")
 
 ### Nos han contado que su presentación en La Habana generó mucha expectación...
 
@@ -171,7 +171,7 @@ Rojas](http://etheriamagazine.com/2020/01/13/marta-rojas-periodista-escritora-cu
 y Mario Cremata, director de las Ediciones Boloña de la Oficina del Historiador, fueron 
 los anfitriones. 
 
-![La escritora cubana Marta Rojas con Mario Cremata y Elisa Vázquez (a la dcha.) en librería Boloña de la Calle Amargura.](etheria_images/2020/04/Marta-Rojas-Mario-Cremata-y-EVG-en-Calle-Amargura-900x578.jpg "La escritora cubana Marta Rojas con Mario Cremata y Elisa Vázquez (a la dcha.) en librería Boloña de la Calle Amargura. Foto Gramma, 2017")
+![La escritora cubana Marta Rojas con Mario Cremata y Elisa Vázquez (a la dcha.) en librería Boloña de la Calle Amargura.](etheria-images/2020/04/Marta-Rojas-Mario-Cremata-y-EVG-en-Calle-Amargura-900x578.jpg "La escritora cubana Marta Rojas con Mario Cremata y Elisa Vázquez (a la dcha.) en librería Boloña de la Calle Amargura. Foto Gramma, 2017")
 
 ### Por último, ¿Podrías elegir un fragmento de la obra que te guste especialmente?
 
@@ -237,4 +237,4 @@ Barcelona (Colección “Grandes Novelas”), también está disponible en audio
 su propia [web](http://www.elisavazquezdegey.com/amargura/) donde se narran curiosidades 
 y se ofrecen datos de interés que complementan la temática de la obra. 
 
-![una casa en amargura, habana colonial, esclavos en cuba](etheria_images/2020/04/libro-una-casa-en-amargura-900x704.jpg)
+![una casa en amargura, habana colonial, esclavos en cuba](etheria-images/2020/04/libro-una-casa-en-amargura-900x704.jpg)

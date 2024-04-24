@@ -1,7 +1,7 @@
 ---
 title: "10 viajes de novios originales para huir de lo convencional"
 date: 2022-02-09
-coverImage: etheria_images/2022/02/viajes-novios-originales-pareja.jpg
+coverImage: etheria-images/2022/02/viajes-novios-originales-pareja.jpg
 categories: 
   - consejos-practicos
   - viajes-romanticos
@@ -9,13 +9,13 @@ categories:
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La luna de miel es una ocasión perfecta para hacer ese gran viaje que soñáis desde siempre. No os ciñáis a lo establecido y pensad en un destino tan particular como vosotros. Aquí os damos 10 ideas de viajes de novios originales para no caer en lo de siempre y disfrutar como se merece de ese momento tan especial.
 
-![No renunciéis a un viaje original para vuestra luna de miel.](etheria_images/2022/02/viajes-novios-originales-pareja.jpg "No renunciéis a un viaje original para vuestra luna de miel.")
+![No renunciéis a un viaje original para vuestra luna de miel.](etheria-images/2022/02/viajes-novios-originales-pareja.jpg "No renunciéis a un viaje original para vuestra luna de miel.")
 
 Hay parejas que buscan salirse de lo establecido y de lo que se espera que sea una boda 
 tradicional. Ese espíritu se puede llevar a la luna de miel ya que el mundo está lleno 
@@ -26,7 +26,7 @@ para que la luna de miel sea todo un éxito. Podéis reservar el viaje por vuest
 o acudir a una agencia de viajes, que son de mucha ayuda en un momento como la luna de 
 miel cuando se tienen en la cabeza mil asuntos que resolver de la boda. 
 
-![Formas caprichosas de la naturaleza en Bazaruto.](etheria_images/2022/02/viajes-novios-originales-Mozambique-bazaruto-colores.jpg "Formas caprichosas de la naturaleza en Bazaruto. © David Santiago")
+![Formas caprichosas de la naturaleza en Bazaruto.](etheria-images/2022/02/viajes-novios-originales-Mozambique-bazaruto-colores.jpg "Formas caprichosas de la naturaleza en Bazaruto. © David Santiago")
 
 ## Archipiélago de Bazaruto
 
@@ -40,7 +40,7 @@ ballenas. Os damos más información en nuestro reportaje [Bazaruto, el archipi�
 Mozambique que te 
 enamorará](https://etheriamagazine.com/2019/08/21/que-ver-hacer-en-archipielago-de-bazaruto-mozambique/). 
 
-![Swayambhunath o templo de los Monos, en Katmandú.](etheria_images/2022/02/viajes-novios-originales-Katmandu-nepal-900x591.jpg "Swayambhunath o templo de los Monos, en Katmandú. ©P.G.")
+![Swayambhunath o templo de los Monos, en Katmandú.](etheria-images/2022/02/viajes-novios-originales-Katmandu-nepal-900x591.jpg "Swayambhunath o templo de los Monos, en Katmandú. ©P.G.")
 
 ## Nepal, un viaje de novios original
 
@@ -55,7 +55,7 @@ estáis en buena forma física, un **trekking por el Himalaya** será seguro una
 experiencia que no olvidaréis jamás. Si sois inquietos por naturaleza, este es uno de 
 esos viajes de novios originales que recordaréis siempre. 
 
-![Trani es una de las ciudades más elegantes de Apulia](etheria_images/2022/02/viajes-novios-originales-puglia-trani.jpg "Trani es una de las ciudades más elegantes de Apulia. ©KR")
+![Trani es una de las ciudades más elegantes de Apulia](etheria-images/2022/02/viajes-novios-originales-puglia-trani.jpg "Trani es una de las ciudades más elegantes de Apulia. ©KR")
 
 ## Apulia, luna de miel a la italiana
 
@@ -70,7 +70,7 @@ secretos que desvelaremos. ¿Nuestro rincón preferido? **Alberobello**, al que 
 de Alberobello, un pícaro pueblo italiano de 
 Puglia](https://etheriamagazine.com/2019/04/15/que-ver-alberobello-italia-unesco/). 
 
-![Torres del Paine, en Chile.](etheria_images/2022/02/viajes-novios-originales-chile-glaciares.jpg "Torres del Paine, en Chile.")
+![Torres del Paine, en Chile.](etheria-images/2022/02/viajes-novios-originales-chile-glaciares.jpg "Torres del Paine, en Chile.")
 
 ## Chile en pareja
 
@@ -91,7 +91,7 @@ No os perdáis el artículo [Crucero por los fiordos y canales de la Patagonia
 chilena](https://etheriamagazine.com/2019/03/22/viajar-sola-crucero-fiordos-canales-patagonia-chile/) 
 para ver alguna de las paradas imprescindibles. 
 
-![Catarata de Gullfoss en islandia destino para viajes de novios originales](etheria_images/2022/02/viajes-novios-originales-gullfoss-catarata-islandia-731x1024.jpg "Catarata de Gullfoss, en Islandia. © Khamkéo Vilaysing")
+![Catarata de Gullfoss en islandia destino para viajes de novios originales](etheria-images/2022/02/viajes-novios-originales-gullfoss-catarata-islandia-731x1024.jpg "Catarata de Gullfoss, en Islandia. © Khamkéo Vilaysing")
 
 ## Islandia entre arrumacos
 
@@ -104,7 +104,7 @@ todas tan espectaculares que os costará elegir la ruta. Para inspiraros os deja
 nuestro artículo [Círculo Dorado de Islandia en coche, 7 paradas para una ruta 
 perfecta](https://etheriamagazine.com/2021/12/27/imprescindibles-circulo-dorado-islandia/). 
 
-![Templo en Luang Prabang en Laos un destino de viajes de novios originales](etheria_images/2022/02/viajes-novios-originales-Luang-Prabang-palacio-real-900x600.jpg "Templo en Luang Prabang, en Laos.")
+![Templo en Luang Prabang en Laos un destino de viajes de novios originales](etheria-images/2022/02/viajes-novios-originales-Luang-Prabang-palacio-real-900x600.jpg "Templo en Luang Prabang, en Laos.")
 
 ## Laos y Camboya
 
@@ -120,7 +120,7 @@ la selva. Una de las historias más curiosas de este lugar ya os la hemos contad
 bailarinas ‘desaparecidas’ de 
 Angkor](https://etheriamagazine.com/2019/01/17/que-ver-angkor-bailarinas-robadas/). 
 
-![Anses d’Arlet, en Martinica.](etheria_images/2022/02/viajes-novios-originales-Martinica-Anses-dArlet.jpg "Anses d’Arlet, en Martinica. © Félix Lorenzo")
+![Anses d’Arlet, en Martinica.](etheria-images/2022/02/viajes-novios-originales-Martinica-Anses-dArlet.jpg "Anses d’Arlet, en Martinica. © Félix Lorenzo")
 
 ## Martinica, viaje de novios en el Caribe
 
@@ -135,7 +135,7 @@ consultarlos en el artículo [10 razones para viajar a Martinica, la perla de la
 Antillas 
 menores](https://etheriamagazine.com/2019/10/04/10-razones-para-viajar-a-martinica-islas-exoticas-viajes-lujo/). 
 
-![Dunas de Khongoryn Els.](etheria_images/2022/02/viajes-novios-originales-mongolia-dunas-desierto.jpg "Dunas de Khongoryn Els. © David Santiago.")
+![Dunas de Khongoryn Els.](etheria-images/2022/02/viajes-novios-originales-mongolia-dunas-desierto.jpg "Dunas de Khongoryn Els. © David Santiago.")
 
 ## Mongolia, una luna de miel original
 
@@ -147,7 +147,7 @@ Khan y la convivencia con los nómadas. Para más detalles, os recomendamos que 
 vistazo a nuestro reportaje [Mongolia, el país de los últimos 
 nómadas](https://etheriamagazine.com/2019/06/13/viajeras-aventureras-que-ver-mongolia/). 
 
-![Elefantes en Botsuana.](etheria_images/2022/02/viajes-novios-originales-Bostsuana-elefantes.jpg "Elefantes en Botsuana.")
+![Elefantes en Botsuana.](etheria-images/2022/02/viajes-novios-originales-Bostsuana-elefantes.jpg "Elefantes en Botsuana.")
 
 ## Botsuana, romanticismo en África
 
@@ -159,7 +159,7 @@ las especies tradicionales africanas como aves o los simpáticos babuinos. No os
 nuestras [10 razones por las que deberías hacer un safari a 
 Botsuana](https://etheriamagazine.com/2018/11/22/botsuana-10-razones-para-sentirte-la-reina-de-africa/). 
 
-![Buda Sakyamuni, en la gruta Sokkuram de Kyeongju, en Corea del Sur.](etheria_images/2022/02/viajes-novios-originales-corea-sur-Kyeongju-Gruta-Sokkuram.jpg "Buda Sakyamuni, en la gruta Sokkuram de Kyeongju, en Corea del Sur. © KTO")
+![Buda Sakyamuni, en la gruta Sokkuram de Kyeongju, en Corea del Sur.](etheria-images/2022/02/viajes-novios-originales-corea-sur-Kyeongju-Gruta-Sokkuram.jpg "Buda Sakyamuni, en la gruta Sokkuram de Kyeongju, en Corea del Sur. © KTO")
 
 ## Corea del Sur
 

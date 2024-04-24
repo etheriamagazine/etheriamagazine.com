@@ -1,12 +1,12 @@
 ---
 title: "Paterna, escenario de ‘Dolor y gloria’ de Almodóvar"
 date: 2020-04-06
-coverImage: etheria_images/2020/03/turismo-cine-almodovar-paterna.jpg
+coverImage: etheria-images/2020/03/turismo-cine-almodovar-paterna.jpg
 categories: 
   - viajes-cine
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Eva Madruga
 ---
 
@@ -14,7 +14,7 @@ El director manchego Pedro Almodóvar ambientó parte de su aclamado filme, ‘D
 
   
 
-![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria_images/2020/03/turismo-cine-almodovar-torre-900x675.jpg "Localización junto a la torre de Paterna. © O.T. Paterna")
+![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria-images/2020/03/turismo-cine-almodovar-torre-900x675.jpg "Localización junto a la torre de Paterna. © O.T. Paterna")
 
 Este es nuestro pequeño homenaje a Pedro Almodóvar y a su excelente filme _**Dolor y 
 gloria**_, una producción ganadora de siete premios Goya y nominada al Oscar a la mejor 
@@ -26,7 +26,7 @@ pensé en que me gustaría mucho rodar una película en un escenario tan peculia
 cabía en ‘La Mala Educación’… Al final he tardado catorce años en volver y, cuando 
 escribí el guión de ‘_Dolor y gloria_’, tenía miedo de que las cuevas ya no existieran”. 
 
-![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria_images/2020/03/turismo-cine-almodovar-dolor-gloria-900x607.jpg "Localización de 'Dolor y gloria' en Paterna. © O.T. Paterna")
+![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria-images/2020/03/turismo-cine-almodovar-dolor-gloria-900x607.jpg "Localización de 'Dolor y gloria' en Paterna. © O.T. Paterna")
 
 ## Las cuevas, un refugio intimista
 
@@ -47,7 +47,7 @@ que allí vivían. "Quería contraponer los recuerdos sombríos y de humillació
 una madre pobre de la posguerra con la ilusión del niño que se conforma con ver el sol a 
 través del tragaluz", recuerda Almodóvar. 
 
-![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria_images/2020/03/turismo-cine-almodovar-paterna-900x544.jpg "Tragaluz de una casa cueva. © El Deseo")
+![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria-images/2020/03/turismo-cine-almodovar-paterna-900x544.jpg "Tragaluz de una casa cueva. © El Deseo")
 
 ## Espacio cultural Cuevas del Batán
 
@@ -64,7 +64,7 @@ a través del tragaluz de la cueva!
 > imágenes del rodaje, objetos de la película y una completa casa-cueva como la que se ve 
 > en la cinta. 
 
-![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria_images/2020/03/turismo-cine-cuevas-paterna-900x496.jpg "Localizaciones de la ruta 'Dolor y gloria'. © Turismo de Paterna")
+![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria-images/2020/03/turismo-cine-cuevas-paterna-900x496.jpg "Localizaciones de la ruta 'Dolor y gloria'. © Turismo de Paterna")
 
 ## Símbolo paternero
 
@@ -79,7 +79,7 @@ Paterna**, actualmente conocida como estación de Metro Campament. Este edificio
 inspiración modernista, llama la atención por la torre de uno de sus laterales y la 
 llamativa azulejería que decora su fachada. 
 
-![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria_images/2020/03/turismo-cine-almodovar-estacion-campamento.jpg "Estación Campamento de Paterna. © O.T. Paterna")
+![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria-images/2020/03/turismo-cine-almodovar-estacion-campamento.jpg "Estación Campamento de Paterna. © O.T. Paterna")
 
 Pero además del rodaje de la última película almodovariana, la relación de Paterna con 
 el séptimo arte viene de lejos. En esta localidad nació el actor valenciano **Antonio 
@@ -90,7 +90,7 @@ recordar al protagonista de ‘Volver a Empezar’, de José Luis Garci, el prim
 largometraje español que logró el Oscar de Hollywood a la mejor película de habla no 
 inglesa. 
 
-![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria_images/2020/03/cartel-dolor-gloria-900x875.jpg "Cartel de 'Dolor y Gloria' dedicado por Pedro Almodóvar. © O.T. Paterna")
+![turismo de cine, dolor y gloria, ruta paterna, ruta almodovar](etheria-images/2020/03/cartel-dolor-gloria-900x875.jpg "Cartel de 'Dolor y Gloria' dedicado por Pedro Almodóvar. © O.T. Paterna")
 
 ### Ruta de Dolor y gloria | Etheria Magazine
 

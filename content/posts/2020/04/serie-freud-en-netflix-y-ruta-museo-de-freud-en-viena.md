@@ -1,13 +1,13 @@
 ---
 title: "Freud en Viena, una ruta siguiendo los pasos del padre del psicoanálisis"
 date: 2020-04-17
-coverImage: etheria_images/2020/04/ruta-freud-Cafe-Central.jpg
+coverImage: etheria-images/2020/04/ruta-freud-Cafe-Central.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 En unos tiempos en los que el psicoanálisis es más necesario que nunca, os animamos a 
@@ -15,7 +15,7 @@ conocer los lugares donde discurrió la vida de Sigmund Freud en Viena. Comienza
 Museo Sigmund Freud, una visita esencial para conocer mejor a este revolucionario 
 neurólogo y psiquiatra. 
 
-![freud netflix, ruta freud en viena, museo de freud viena](etheria_images/2020/04/ruta-viena-Sigmund-Freud-900x688.jpg "Freud (1906): © Sigmund Freud Privatstiftung. Diván: © Gerald Zugmann. Entrada: © Florian Lierzer/ Sigmund Freud Foundation")
+![freud netflix, ruta freud en viena, museo de freud viena](etheria-images/2020/04/ruta-viena-Sigmund-Freud-900x688.jpg "Freud (1906): © Sigmund Freud Privatstiftung. Diván: © Gerald Zugmann. Entrada: © Florian Lierzer/ Sigmund Freud Foundation")
 
 **Actualizado 11/2023** 
 
@@ -58,7 +58,7 @@ de 82 años, se vio forzado a huir a Londres con su familia, haciendo una escala
 en París. Un año más tarde, con un cáncer incurable, puso fin a su vida con una 
 sobredosis de morfina. 
 
-![cafe Landtmann, freud netflix, ruta freud en viena,](etheria_images/2020/04/ruta-freud-Cafe-Landtmann-900x674.jpg "El Café Landtmann era uno de los favoritos de Freud.  © WienTourismus/Christian Stemper")
+![cafe Landtmann, freud netflix, ruta freud en viena,](etheria-images/2020/04/ruta-freud-Cafe-Landtmann-900x674.jpg "El Café Landtmann era uno de los favoritos de Freud.  © WienTourismus/Christian Stemper")
 
 ### Freud, un revolucionario
 
@@ -71,7 +71,7 @@ curiosidad y rechazo a partes iguales. Por otro lado, al menos, su lugar de resi
 la capital del Imperio de los Habsburgo, era en aquellos momentos el centro de la vida 
 intelectual europea, con ideas efervescentes sobre arte, literatura, música y filosofía. 
 
-![freud netflix, ruta freud en viena, museo de freud viena](etheria_images/2020/04/Sigmund-Freud-1920-900x652.jpg "Freud (1920) y 'La interpretación de los sueños'. © Sigmund Freud Privatstiftung")
+![freud netflix, ruta freud en viena, museo de freud viena](etheria-images/2020/04/Sigmund-Freud-1920-900x652.jpg "Freud (1920) y 'La interpretación de los sueños'. © Sigmund Freud Privatstiftung")
 
 ### Freud y las mujeres
 
@@ -82,7 +82,7 @@ impulsoras, pacientes y, en algunos casos, continuadoras de su legado. De hecho,
 hija Anna Freud**, quien siguió los pasos de su padre y prosiguió su labor, posiblemente 
 fue la mujer más importante en su vida. 
 
-![Portal de la vivienda Freud, freud netflix, ruta freud en viena, museo de freud viena](etheria_images/2020/04/ruta-freud-calle-berggasse-900x600.jpg "Portal de la vivienda y Museo de Freud. © Alexander Ch. Wulz/ Sigmund Freud Foundation")
+![Portal de la vivienda Freud, freud netflix, ruta freud en viena, museo de freud viena](etheria-images/2020/04/ruta-freud-calle-berggasse-900x600.jpg "Portal de la vivienda y Museo de Freud. © Alexander Ch. Wulz/ Sigmund Freud Foundation")
 
 ## Una visita al Museo Sigmund Freud
 
@@ -93,7 +93,7 @@ accesibilidad de personas con movilidad reducida. Ahora es posible visitar nueva
 estudio y sumergirse en la vida y las rutinas que Freud experimentó en este icónico 
 lugar. 
 
-![Museo de Freud, freud netflix, ruta freud en viena, museo de freud viena](etheria_images/2020/04/ruta-freud-museo-849x1024.jpg "Entrada del Museo de Freud. © Qucumber.at")
+![Museo de Freud, freud netflix, ruta freud en viena, museo de freud viena](etheria-images/2020/04/ruta-freud-museo-849x1024.jpg "Entrada del Museo de Freud. © Qucumber.at")
 
 La renovación, llevada a cabo por un equipo de destacados arquitectos, entre los que se 
 encuentran Hermann Czech, Walter Angonese y ARTEC (Bettina Götz y Richard Manahl), se ha 
@@ -106,7 +106,7 @@ psicoanálisis, sus raíces, el renombrado creador Sigmund Freud y su familia. U
 significativo es la ampliación de la superficie de exposición, que ahora abarca casi 550 
 metros cuadrados. 
 
-![freud netflix, ruta freud en viena, museo de freud viena](etheria_images/2020/04/ruta-freud-sala-espera-900x725.jpg "Sala de espera de la consulta de Freud. © Qucumber.at")
+![freud netflix, ruta freud en viena, museo de freud viena](etheria-images/2020/04/ruta-freud-sala-espera-900x725.jpg "Sala de espera de la consulta de Freud. © Qucumber.at")
 
 ### Cómo es el museo
 
@@ -128,7 +128,7 @@ y eventos multifuncionales.
 > Este museo representa no solo la cuna del psicoanálisis sino, también, la pérdida de 
 > cultura y humanidad bajo el terror nacionalsocialista. 
 
-![cafe central, freud netflix, ruta freud en viena, museo de freud viena](etheria_images/2020/04/ruta-freud-Cafe-Central-900x674.jpg "Café Central. © WienTourismus/Christian Stemper")
+![cafe central, freud netflix, ruta freud en viena, museo de freud viena](etheria-images/2020/04/ruta-freud-Cafe-Central-900x674.jpg "Café Central. © WienTourismus/Christian Stemper")
 
 ## Sigue los pasos de Freud en Viena
 

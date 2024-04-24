@@ -1,11 +1,11 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Punta Cana"
 date: 2023-04-07
-coverImage: etheria_images/2018/05/3-Republica-Dominicana-Sur-7.jpg
+coverImage: etheria-images/2018/05/3-Republica-Dominicana-Sur-7.jpg
 categories: 
   - que-llevar-en-la-maleta
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Un viaje a República Dominicana siempre es una alegría porque es un destino con tan 
@@ -13,7 +13,7 @@ buenas vibraciones que parece que lo único que hay que meter en el equipaje son
 ganas de pasarlo bien. Aún así, si eres de hacer listados, te vendrán bien estos básicos 
 que es conveniente llevar en la maleta a Punta Cana. ¡Comprueba si te falta algo! 
 
-![Una viajera entra en el mar con un bañador y un sombrero](etheria_images/2023/04/amigas-punta-cana-683x1024.jpg "En Punta Cana hay básicos como bañador, gafas de sol y sombrero que no debes olvidar. © Chelsea Gates")
+![Una viajera entra en el mar con un bañador y un sombrero](etheria-images/2023/04/amigas-punta-cana-683x1024.jpg "En Punta Cana hay básicos como bañador, gafas de sol y sombrero que no debes olvidar. © Chelsea Gates")
 
 Hay destinos con los que solemos emocionarnos más que con otros, a nosotras nos ocurre 
 con las islas, nos encantan y tratamos de cuidar todos los detalles para que esos días 
@@ -42,7 +42,7 @@ euros en Amazon](https://amzn.to/3ZvTaEc). A nosotras nos gustan las de colores
 llamativos para no volvernos locas al buscarla en la cinta de equipaje y ésta la hay en 
 turquesa, rojo, azulón, añil, etc. 
 
-![Maleta turquesa de American Tourister.](etheria_images/2023/04/maleta-american-tourister-grande.jpg "Maleta de American Tourister.")
+![Maleta turquesa de American Tourister.](etheria-images/2023/04/maleta-american-tourister-grande.jpg "Maleta de American Tourister.")
 
 ### Organizador interior
 
@@ -54,7 +54,7 @@ económicos y duraderos. Estos de [Eono](https://amzn.to/3ZKi6Io) no son los má
 cuando los uses con la maleta de cabina en otros viajes. En Amazon los puedes encontrar 
 por unos 30-35 euros. 
 
-![Organizar la maleta con estas bolsas es muy cómodo.](etheria_images/2023/04/organizador-maleta.jpg "Organizar la maleta con estas bolsas es muy cómodo.")
+![Organizar la maleta con estas bolsas es muy cómodo.](etheria-images/2023/04/organizador-maleta.jpg "Organizar la maleta con estas bolsas es muy cómodo.")
 
 ## Mochila pequeña
 
@@ -73,7 +73,7 @@ Dominicana](https://etheriamagazine.com/2018/05/18/10-razones-para-visitar-punta
 [Norte de República Dominicana: naturaleza, ron y 
 merengue](https://etheriamagazine.com/2018/04/13/propuestas-en-el-norte-de-republica-dominicana/). 
 
-![Mochila violeta pequeña y plegable.](etheria_images/2023/04/mochila-viaje-punta-cana.jpg "Mochila pequeña y plegable.")
+![Mochila violeta pequeña y plegable.](etheria-images/2023/04/mochila-viaje-punta-cana.jpg "Mochila pequeña y plegable.")
 
 ## Ropa cómoda y ligera
 
@@ -93,7 +93,7 @@ tus productos de higiene y belleza. En este artículo te recomendábamos algunos
 neceseres para mujeres 
 viajeras](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/). 
 
-![Mujer vestida con prendas de lino de Oysho.](etheria_images/2023/04/ropa-lino-oysho.jpg "Prendas de lino de Oysho.")
+![Mujer vestida con prendas de lino de Oysho.](etheria-images/2023/04/ropa-lino-oysho.jpg "Prendas de lino de Oysho.")
 
 ## Pareos y bañadores
 
@@ -105,7 +105,7 @@ luego le sacarás partido. Y si te quemas mucho con el sol, puedes recurrir a la
 protección solar para protegerte la espalda cuando practiques snorkel, surf o hagas una 
 excursión en barco. 
 
-![Ropa de baño de Decathlon.](etheria_images/2023/04/playa-decathlon.jpg "Ropa de baño de Decathlon.")
+![Ropa de baño de Decathlon.](etheria-images/2023/04/playa-decathlon.jpg "Ropa de baño de Decathlon.")
 
 ## Vestidos para las cenas
 
@@ -117,7 +117,7 @@ estampados, blancos o negros (como este de [Desigual](https://amzn.to/3m6RNy4)) 
 lucir de manera diferente según el foulard con el que lo combines. Y si eres más de 
 pantalones, uno de lino y un top estampado es más que suficiente. 
 
-![Mujer con vestido negro corto ideal para un viaje](etheria_images/2023/04/vestido-negro-viaje.jpg "Vestido básico de viaje de Desigual.")
+![Mujer con vestido negro corto ideal para un viaje](etheria-images/2023/04/vestido-negro-viaje.jpg "Vestido básico de viaje de Desigual.")
 
 ## Protección solar
 
@@ -137,7 +137,7 @@ Y para cuidar la piel después de tomar el sol, un producto que funciona muy bie
 de Lancaster](https://amzn.to/3ZAS9Lg) porque te prolonga el bronceado. Lo puedes pedir 
 online por unos 15 euros. 
 
-![Protector solar facial Heliocare, absorción inmediata.](etheria_images/2023/04/protector-solar-cara-751x1024.jpg "Protector solar facial, absorción inmediata.")
+![Protector solar facial Heliocare, absorción inmediata.](etheria-images/2023/04/protector-solar-cara-751x1024.jpg "Protector solar facial, absorción inmediata.")
 
 ## Repelente
 
@@ -148,7 +148,7 @@ fíjate en la fecha de caducidad. El más habitual es el [Relec](https://amzn.to
 que sólo cuesta unos 12 euros y lo puedes pedir en Amazon o comprarlo en una farmacia 
 (compara el precio). 
 
-![Repelente de mosquitos Relec.](etheria_images/2023/04/relec-repelente-mosquitos.jpg "Repelente de mosquitos Relec.")
+![Repelente de mosquitos Relec.](etheria-images/2023/04/relec-repelente-mosquitos.jpg "Repelente de mosquitos Relec.")
 
 ## Adaptador de enchufes
 
@@ -158,7 +158,7 @@ y, aconsejable, un [ladrón de enchufes](https://amzn.to/3nKZWJe) que permite co
 varios dispositivos al mismo tiempo. Este que te enlazamos tiene toma eléctrica y 
 también varios USB y USB-C. 
 
-![Adaptador de enchufes de clavija plana para República Dominicana](etheria_images/2023/04/adaptador-enchufe-dominicana.jpg "Adaptador de enchufes de clavija plana.")
+![Adaptador de enchufes de clavija plana para República Dominicana](etheria-images/2023/04/adaptador-enchufe-dominicana.jpg "Adaptador de enchufes de clavija plana.")
 
 ## Medicamentos
 
@@ -182,7 +182,7 @@ cancelación activa de ruido ([Airpods](https://amzn.to/40D7E6E) Pro 2ª generac
 menos, que los disminuya como este de [Xiaomi Redmi Buds 4 Pro](https://amzn.to/3M9oF3N) 
 que cuesta menos de 70 € en Amazon y también reduce algo el ruido. 
 
-![Airpor Pro 2ª gen. y Xiaomi Redmi Buds 4 Pro.](etheria_images/2023/04/auricular-cancelacion-ruido.jpg "Airpods Pro 2ª gen. y Xiaomi Redmi Buds 4 Pro.")
+![Airpor Pro 2ª gen. y Xiaomi Redmi Buds 4 Pro.](etheria-images/2023/04/auricular-cancelacion-ruido.jpg "Airpods Pro 2ª gen. y Xiaomi Redmi Buds 4 Pro.")
 
 ## Dinero en efectivo
 
@@ -193,7 +193,7 @@ efectivo para pagar las tasas de salida, a veces no las cubre la línea aérea, 
 pagas en dólares te saldrán más caras. 1 euro corresponde a unos 60 pesos dominicanos 
 (DOP). 
 
-![Pesos dominicanos, moneda oficial de República Dominicana](etheria_images/2023/04/pesos-dominicanos.jpg "Pesos dominicanos. © Global Exchange")
+![Pesos dominicanos, moneda oficial de República Dominicana](etheria-images/2023/04/pesos-dominicanos.jpg "Pesos dominicanos. © Global Exchange")
 
 ## Seguro de viaje
 

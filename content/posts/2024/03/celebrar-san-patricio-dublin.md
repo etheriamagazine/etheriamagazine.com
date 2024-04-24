@@ -1,20 +1,20 @@
 ---
 title: "Irlanda brinda con Guinness en San Patricio y también durante todo el año"
 date: 2024-03-15
-coverImage: etheria_images/2020/02/Temple-Bar-Dublin.jpg
+coverImage: etheria-images/2020/02/Temple-Bar-Dublin.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 La cantidad de pintas de Guinness que llenan a diario las barras de los pubs irlandeses 
 baten su récord en San Patricio pero si no puedes viajar en marzo... ¡Dublín está 
 abierto todo el año! 
 
-![Temple Bar dublin](etheria_images/2020/02/Temple-Bar-Dublin-900x600.jpg "Temple Bar de Dublín. © Rob Durston/ Turismo Irlanda")
+![Temple Bar dublin](etheria-images/2020/02/Temple-Bar-Dublin-900x600.jpg "Temple Bar de Dublín. © Rob Durston/ Turismo Irlanda")
 
 En un viaje con amigas a Dublín descubrirás cómo los escanciadores dublineses gozan de 
 un talento especial a la hora de conseguir que el líquido oscuro emane al ritmo 
@@ -33,7 +33,7 @@ dublinés.
 > las montañas de Wicklow, conocido como Guinness por su color idéntico al de la famosa 
 > cerveza. 
 
-![pinta guinness irlanda](etheria_images/2019/02/Dublin-Rostrevor-Inn.jpg "Pinta de Guinness en el pub The Rostrevor Inn.")
+![pinta guinness irlanda](etheria-images/2019/02/Dublin-Rostrevor-Inn.jpg "Pinta de Guinness en el pub The Rostrevor Inn.")
 
 ## Irlanda se viste de verde el 17 de marzo
 
@@ -62,7 +62,7 @@ que la **_stout_ Guinness.** Esta cerveza negra corre por las barras de Dublín 
 todos aquellos lugares en los que se brinda ese día por Irlanda. Dicen que se consumen 
 unos trece millones de pintas en tan sonada ocasión. 
 
-![Dublín, viajes con amigas, viajes por Europa, escapada a Irlanda, cerveza](etheria_images/2019/02/Irlanda-Guiness-bar.jpg "Bar Gravity de la destilería Guinness.")
+![Dublín, viajes con amigas, viajes por Europa, escapada a Irlanda, cerveza](etheria-images/2019/02/Irlanda-Guiness-bar.jpg "Bar Gravity de la destilería Guinness.")
 
 ## Destilería Guinness
 
@@ -95,7 +95,7 @@ los enormes y redondeados recipientes color plata, la arquitectura vidriosa de l
 últimos años y el humo blanco que, al rezumar de los contenedores de aluminio, envuelve 
 a la destilería y exhala un indudable aroma a malta. 
 
-![fabrica guinness dublin, cerveza en irlanda](etheria_images/2019/02/Dublin-Guinness-Storehouse.jpg "Destilería Guinness en Dublín.")
+![fabrica guinness dublin, cerveza en irlanda](etheria-images/2019/02/Dublin-Guinness-Storehouse.jpg "Destilería Guinness en Dublín.")
 
 La Guinness tiene también una tienda donde vende desde camisetas hasta jarras de 
 cerámica. Cuenta con el famoso **libro de Records Guinness** ideado por el coleccionista 
@@ -120,7 +120,7 @@ tiendas de moda alternativa y mercados de comida y de libros. Es el lugar idóne
 terminar celebrando San Patricio en Dublín. Un hervidero de vida por donde deambula la 
 juventud dublinesa, simpática y marchosa. 
 
-![temple bar, dublin, fiesta en dublin](etheria_images/2019/02/Temple-Bar-Dublin.jpg "En la zona de The Temple Bar se sitúan los pubs más animados de Dublín.")
+![temple bar, dublin, fiesta en dublin](etheria-images/2019/02/Temple-Bar-Dublin.jpg "En la zona de The Temple Bar se sitúan los pubs más animados de Dublín.")
 
 La noche va cayendo sobre la ciudad. Los faroles iluminan los puentes. Se abren los 
 teatros, la música de U2, The Dubliners, Enya, The Corrs, Sinéad O´Connor y de otros 

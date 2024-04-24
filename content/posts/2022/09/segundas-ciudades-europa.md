@@ -1,12 +1,12 @@
 ---
 title: "10 segundas ciudades de Europa, perfectas para una escapada"
 date: 2022-09-19
-coverImage: etheria_images/2022/09/segundas-ciudades-europa-viaje-mujeres-manchester-The-Triangle.jpg
+coverImage: etheria-images/2022/09/segundas-ciudades-europa-viaje-mujeres-manchester-The-Triangle.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Las segundas ciudades de Europa son aquellas que, sin ser la capital de sus países, 
@@ -14,7 +14,7 @@ tienen suficientes atractivos para ser el destino de un fin de semana perfecto. 
 dejamos nuestra lista con 10 ciudades pequeñas, manejables, llenas de atractivos 
 turísticos y en su mayoría bien conectadas con vuelos directos. 
 
-![dos mujeres charlando en The Triangle](etheria_images/2022/09/segundas-ciudades-europa-viaje-mujeres-manchester-The-Triangle.jpg "Zona de The Triangle en Mánchester. © E.O.")
+![dos mujeres charlando en The Triangle](etheria-images/2022/09/segundas-ciudades-europa-viaje-mujeres-manchester-The-Triangle.jpg "Zona de The Triangle en Mánchester. © E.O.")
 
 El termino de “segundas ciudades” puede parecer que tiene un tono peyorativo, pero nada 
 más lejos de la realidad. No ser una ciudad de primera línea, lo que entendemos por las 
@@ -49,7 +49,7 @@ que tienen de todo y que tanto nos gustan. ? [Viaje con amigas a Bolonia: 10 pla
 imbatibles en 
 Italia.](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/) 
 
-![plaza de Bolonia al atardecer](etheria_images/2022/09/segundas-ciudades-europa-Clock-Tower-bolonia.jpg "Vistas desde la terraza del Clock Tower en Bolonia. © Piergiorgio Sorgetti/ Bologna Welcome")
+![plaza de Bolonia al atardecer](etheria-images/2022/09/segundas-ciudades-europa-Clock-Tower-bolonia.jpg "Vistas desde la terraza del Clock Tower en Bolonia. © Piergiorgio Sorgetti/ Bologna Welcome")
 
 ### 2\. Brno
 
@@ -64,7 +64,7 @@ porque es una ciudad llena de leyendas muy curiosas que seguro que te sorprenden
 ? [Qué ver en Brno: una escapada muy ‘chic’ a 
 Chequia](https://etheriamagazine.com/2022/08/26/que-ver-brno-chequia/). 
 
-![catedral de Brno](etheria_images/2022/09/segundas-ciudades-europa-brno-catedral-pedro-pablo-780x450-1.jpg "Catedral de Pedro y Pablo de Brno vista desde la torre del Viejo Ayuntamiento. © SG")
+![catedral de Brno](etheria-images/2022/09/segundas-ciudades-europa-brno-catedral-pedro-pablo-780x450-1.jpg "Catedral de Pedro y Pablo de Brno vista desde la torre del Viejo Ayuntamiento. © SG")
 
 ### 3\. Kaunas
 
@@ -91,7 +91,7 @@ palacios. Apetece, ¿verdad?
 ? [San Marco: no te pierdas ningún detalle del corazón de 
 Venecia](https://etheriamagazine.com/2022/06/09/san-marco-venecia/). 
 
-![góndola en el barrio de San Marco](etheria_images/2022/09/segundas-ciudades-europa-venecia-gondola-gran-canal.jpg "Góndola en el Gran Canal de Venecia. © SG")
+![góndola en el barrio de San Marco](etheria-images/2022/09/segundas-ciudades-europa-venecia-gondola-gran-canal.jpg "Góndola en el Gran Canal de Venecia. © SG")
 
 ### 5\. Orleans
 
@@ -118,7 +118,7 @@ principios de la hidroterapia, un tratamiento declarado Patrimonio Inmaterial de
 Humanidad por la Unesco. ? [Múnich y Bad Wörishofen, la Alemania más verde y 
 saludable](https://etheriamagazine.com/2021/08/04/munich-y-bad-worishofen-la-alemania-mas-verde-y-saludable/). 
 
-![Puente en el río Isar de Múnich](etheria_images/2022/09/segundas-ciudades-europa-ruta-ciclista-rio-isar-munich.jpg "Recorrido ciclista a orillas del río Isar en Múnich. © M.M.")
+![Puente en el río Isar de Múnich](etheria-images/2022/09/segundas-ciudades-europa-ruta-ciclista-rio-isar-munich.jpg "Recorrido ciclista a orillas del río Isar en Múnich. © M.M.")
 
 ### 7\. Turín
 
@@ -145,7 +145,7 @@ cubierto más grande de Holanda) o la original Pasarela Lunchtsingel. Un viaje p
 para las amantes de la arquitectura. ? [10 planes en Róterdam para un fin de semana 
 movido](https://etheriamagazine.com/2021/05/15/que-ver-roterdam-eurovision-viaje-con-amigas/). 
 
-![Cubehouses de Roterdam](etheria_images/2022/09/segundas-ciudades-europa-viaje-roterdam-Cubehouses.jpg "Las emblemáticas Cubehouses de Róterdam. © Yolanda Cardo")
+![Cubehouses de Roterdam](etheria-images/2022/09/segundas-ciudades-europa-viaje-roterdam-Cubehouses.jpg "Las emblemáticas Cubehouses de Róterdam. © Yolanda Cardo")
 
 ### 9\. Mánchester
 

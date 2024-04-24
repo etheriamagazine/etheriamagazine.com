@@ -1,15 +1,15 @@
 ---
 title: "Planes en Santander, entre arte y gastronomía anda el juego"
 date: 2020-09-23
-coverImage: etheria_images/2020/09/santander-taberna-la-radio-pulpo-braseado.jpg
+coverImage: etheria-images/2020/09/santander-taberna-la-radio-pulpo-braseado.jpg
 categories: 
   - viajes-con-amigas
   - viajes-gastronomicos
   - viajes-urbanos
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Alfredo
+authors: 
+  - Alfredo G. Reyes
 ---
 
 Puede que Santander no tenga el predicamento de otras capitales vecinas, pero es de esas 
@@ -17,7 +17,7 @@ ciudades en las que cuando experimentas lo mucho que ofrecen resulta difícil en
 por qué no tienen una mayor promoción. Cuando conozcas estos planes en Santander para un 
 fin de semana, nos darás la razón. 
 
-![centro botin espacio cultural de Santander](etheria_images/2020/09/centro-botin-santander.jpg "El © Centro Botín cambió el perfil de Santander.")
+![centro botin espacio cultural de Santander](etheria-images/2020/09/centro-botin-santander.jpg "El © Centro Botín cambió el perfil de Santander.")
 
 Lo cierto es que los planes en Santander para un fin de semana son muchos y variados, 
 aunque si te organizas bien puedes incluso visitar alguna de las atractivas localidades 
@@ -32,7 +32,7 @@ gastronomía hasta el picoteo divertido e informal de sus calles y plazas más c
 desde sus parques urbanos al más puro estilo siglo XXI a parajes naturales de auténtico 
 impacto. 
 
-![exposicion arte y arquitectura centro botin](etheria_images/2020/09/centro-botin-creed.jpg "Exposición Arte y Arquitectura: Un diálogo. © Martin Creed, DACS 2020")
+![exposicion arte y arquitectura centro botin](etheria-images/2020/09/centro-botin-creed.jpg "Exposición Arte y Arquitectura: Un diálogo. © Martin Creed, DACS 2020")
 
 ## Museos de Santander
 
@@ -47,7 +47,7 @@ ciudad. De ello se encargó el italiano **Renzo Piano** (nada menos), que ideó 
 abierto a la bahía santanderina, al muelle de Albareda, junto al que se encuentra, y a 
 los Jardines de Pereda. 
 
-![Centro Botin planes en santander](etheria_images/2020/09/centro-botin-santander-escalera.jpg "Centro Botín (Santander). © Illán Riestra Nava")
+![Centro Botin planes en santander](etheria-images/2020/09/centro-botin-santander-escalera.jpg "Centro Botín (Santander). © Illán Riestra Nava")
 
 ### Centro Botín
 
@@ -69,7 +69,7 @@ Esta última obra, conocida como **Proyecto Pereda** y firmada por el arquitecto
 británico David Chipperfield, unirá aún más el centro de Santander con su puerto, 
 abriendo al paso de los peatones el arco que caracterizaba el antiguo edificio bancario. 
 
-![retratos esencia y expresion en centro botin](etheria_images/2020/09/retratos-esencia-expresion-botin.jpg "Exposición Retrasos: Esencia y Expresión en © Centro Botín.")
+![retratos esencia y expresion en centro botin](etheria-images/2020/09/retratos-esencia-expresion-botin.jpg "Exposición Retrasos: Esencia y Expresión en © Centro Botín.")
 
 ## Dónde comer en Santander
 
@@ -84,7 +84,7 @@ capital cántabra. Se toman como aperitivo o como parte del menú, mejor en comp
 remojadas con una caña de cerveza, con un vino blanco (de Rueda o, incluso, un txakoli) 
 o, los más “in”, con un vermú. 
 
-![pulpo a la brasa en la taberna la radio planes en santander](etheria_images/2020/09/santander-taberna-la-radio-pulpo-braseado.jpg "Pulpo braseado de la Taberna La Radio, en Santander.")
+![pulpo a la brasa en la taberna la radio planes en santander](etheria-images/2020/09/santander-taberna-la-radio-pulpo-braseado.jpg "Pulpo braseado de la Taberna La Radio, en Santander.")
 
 ## Dónde tapear en Santander
 
@@ -100,7 +100,7 @@ sobre las barras de las decenas de bares que salpican Santander. Porque, de hech
 imperdonable estar aquí y no degustar esas maravillosas anchoas o los mariscos del 
 Cantábrico, que destacan por sus indiscutibles calidad, aroma y sabor. 
 
-![© Casona del Judío, en Santander..](etheria_images/2020/09/casona-judio.jpg "© Casona del Judío, en Santander.")
+![© Casona del Judío, en Santander..](etheria-images/2020/09/casona-judio.jpg "© Casona del Judío, en Santander.")
 
 ## Restaurantes formales
 
@@ -116,7 +116,7 @@ del Cantábrico, pero también esa cocina norteña tradicional que tiene en los 
 legumbres y en las carnes de vacuno sus principales abanderados. Uno de esos 
 restaurantes a los que conviene venir con hambre y a los que siempre apetece regresar. 
 
-![sergio bastard chef casona del judio](etheria_images/2020/09/sergio-bastard-casona-judio.jpg "Sergio Bastard, chef ejecutivo de La Casona del Judío.")
+![sergio bastard chef casona del judio](etheria-images/2020/09/sergio-bastard-casona-judio.jpg "Sergio Bastard, chef ejecutivo de La Casona del Judío.")
 
 ### La Casona del Judío
 
@@ -134,7 +134,7 @@ Cantabria, que Bastard pone en relación con el resto de ingredientes típicamen
 cántabros y su recetario tradicional, para evolucionarlos en texturas, sabores y 
 presentaciones tan sorprendentes como apetitosas. 
 
-![cenador de amos restaurante en Villaverde Pontones](etheria_images/2020/09/cenador-de-amos-santander.jpg "© Cenador de Amós, en Villaverde Pontones.")
+![cenador de amos restaurante en Villaverde Pontones](etheria-images/2020/09/cenador-de-amos-santander.jpg "© Cenador de Amós, en Villaverde Pontones.")
 
 ### Cenador de Amós
 
@@ -151,7 +151,7 @@ tratados con una sensibilidad y creatividad realmente impactantes, se ofrece en 
 menús degustación, Evoca y Percibe, de 13 y 17 pasos cada uno, que presentan variaciones 
 a lo largo del año, en función del mercado. 
 
-![jesus sanchez chef cenador de amos](etheria_images/2020/09/chef-cenador-de-amos.jpg "Jesús Sánchez, chef del Cenador de Amós.")
+![jesus sanchez chef cenador de amos](etheria-images/2020/09/chef-cenador-de-amos.jpg "Jesús Sánchez, chef del Cenador de Amós.")
 
 ## Qué más hacer en Santander
 
@@ -169,7 +169,7 @@ quisiera, conserva buena parte de las casonas y palacios que la flanqueaban en a
 clásico que sigue allí, aunque muy reformado, y ahora con una filosofía y ambientes más 
 democráticos. 
 
-![gran hotel sardinero lujo santander](etheria_images/2020/09/gran-hotel-sardinero-santander.jpg "© Gran Hotel Sardinero, en Santander.")
+![gran hotel sardinero lujo santander](etheria-images/2020/09/gran-hotel-sardinero-santander.jpg "© Gran Hotel Sardinero, en Santander.")
 
 ### Palacio de la Magdalena
 
@@ -184,7 +184,7 @@ miembros de la familia real española durante sus vacaciones en la ciudad. De he
 un regalo de los propios santanderinos que, con la llegada de la II República y 
 vicisitudes históricas posteriores, acabó adoptando las más diversas funciones. 
 
-![palacio de la magdalena de santander](etheria_images/2020/09/palacio-magdalena-santander.jpg "Vista aérea del Palacio de la Magdalena, en Santander. © Willian Justen de Vasconcellos")
+![palacio de la magdalena de santander](etheria-images/2020/09/palacio-magdalena-santander.jpg "Vista aérea del Palacio de la Magdalena, en Santander. © Willian Justen de Vasconcellos")
 
 ## Planes naturales en Santander
 
@@ -200,7 +200,7 @@ estanques con escenográficas pasarelas, una gran laguna rodeada por más de 2.5
 árboles, tres zonas de juegos infantiles, un futurista anfiteatro y, sobre todo, el 
 Palacio de Deportes, conocido como La Ballena por la forma de su cubierta metálica. 
 
-![faro mayor planes en santander](etheria_images/2020/09/faro-cabo-mayor-santander.jpg "Faro de Cabo Mayor, en Santander. © Willian Justen de Vasconcellos")
+![faro mayor planes en santander](etheria-images/2020/09/faro-cabo-mayor-santander.jpg "Faro de Cabo Mayor, en Santander. © Willian Justen de Vasconcellos")
 
 ### Parque de Cabo Mayor
 

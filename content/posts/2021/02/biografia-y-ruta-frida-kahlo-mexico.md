@@ -1,19 +1,19 @@
 ---
 title: "Escenarios poéticos y atormentados de la vida de Frida Kahlo"
 date: 2021-02-15
-coverImage: etheria_images/2021/02/apertura-frida-kahlo.jpg
+coverImage: etheria-images/2021/02/apertura-frida-kahlo.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Convertida en icono feminista, la artista mexicana Frida Kahlo reflejó en su obra 
 pictórica tanto sus pasiones como su soledad e infortunios. Recorremos los escenarios de 
 su vida, aquellos que la marcaron como mujer y como artista. 
 
-![Frida en un banco blanc](etheria_images/2021/02/Frida-en-un-banco-blanco-714x1024.jpg "Frida en un banco blanco. © Nickolas Muray Photo Archives")
+![Frida en un banco blanc](etheria-images/2021/02/Frida-en-un-banco-blanco-714x1024.jpg "Frida en un banco blanco. © Nickolas Muray Photo Archives")
 
 Nacida en Coyoacán (México) en 1907, Frida Kahlo es seguramente la artista mexicana más 
 conocida en el mundo. Transgresora, revolucionaria y apasionada, vivió con intensidad 
@@ -33,7 +33,7 @@ Carney Museum of Art y el McAninch Arts Center** fue espectacular: con 26 obras
 originales, más de 100 fotografías de su vida, una recreación de su casa de México y 
 también de sus vestidos y joyas, entre otros elementos. 
 
-![La columna rota de Frida Kahlo](etheria_images/2021/02/Frida-Kahlo-cuadro-columna-rota.jpg "La columna rota, 1944. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2020 Banco de México Diego Rivera Frida Kahlo Museums Trust, México DF ARS, New York")
+![La columna rota de Frida Kahlo](etheria-images/2021/02/Frida-Kahlo-cuadro-columna-rota.jpg "La columna rota, 1944. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2020 Banco de México Diego Rivera Frida Kahlo Museums Trust, México DF ARS, New York")
 
 ## Frida Kahlo, retrato de la artista convaleciente
 
@@ -50,7 +50,7 @@ determinados ambientes, lo que le hizo vivir una infancia marcada por la soledad
 lo reflejó en sus cuadros, algunos con títulos tan reveladores como “Niña con máscara de 
 muerte” o “Ella juega sola”. 
 
-![retrato Frida pensativa](etheria_images/2021/02/frida-kahlo-pensativa.jpg "'Frida pensativa'. © Hulton Archive/ Getty Images")
+![retrato Frida pensativa](etheria-images/2021/02/frida-kahlo-pensativa.jpg "'Frida pensativa'. © Hulton Archive/ Getty Images")
 
 ## Su primera exposición en París
 
@@ -73,7 +73,7 @@ artística y adquirió varios de sus cuadros, además de inspirarse en sus pintu
 vídeo de 1994 **Bedtime Story** y mencionar a la artista en la canción **Graffiti 
 Heart**. 
 
-![Museo Casa Azul mexico](etheria_images/2021/02/casa-azul-frida-kahlo.jpg "Casa Azul donde nació y residió Frida Kahlo. © Museo Casa Azul")
+![Museo Casa Azul mexico](etheria-images/2021/02/casa-azul-frida-kahlo.jpg "Casa Azul donde nació y residió Frida Kahlo. © Museo Casa Azul")
 
 ## Viaje a la geografía de Frida Kahlo
 
@@ -93,7 +93,7 @@ un tanto ajetreado el suyo, ya que en él, además de amor y vínculos creativos
 aventuras extramaritales, odio, complicidad, un divorcio en 1939 y un segundo matrimonio 
 en 1940. 
 
-![el autobus obra de Frida Kahlo](etheria_images/2021/02/Frida-Kahlo-The-Bus.jpg "El autobús, 1929. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2020 Banco de México Diego Rivera Frida Kahlo Museums Trust, México DF ARS, New York")
+![el autobus obra de Frida Kahlo](etheria-images/2021/02/Frida-Kahlo-The-Bus.jpg "El autobús, 1929. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2020 Banco de México Diego Rivera Frida Kahlo Museums Trust, México DF ARS, New York")
 
 ## Frida Kahlo en Estados Unidos
 
@@ -107,7 +107,7 @@ precedentes en la historia del arte, que exaltaban la cualidad femenina de la ve
 realidad, la crueldad y la pena. Nunca antes una mujer había puesto semejante 
 atormentada poesía sobre la tela como Frida en esta época de Detroit”. 
 
-![autorretrato Frida Kahlo](etheria_images/2021/02/Frida-Kahlo-autorretrato.jpg "Autorretrato con mono, 1945. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2019 Banco de México Diego Rivera Frida Kahlo Museums Trust")
+![autorretrato Frida Kahlo](etheria-images/2021/02/Frida-Kahlo-autorretrato.jpg "Autorretrato con mono, 1945. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2019 Banco de México Diego Rivera Frida Kahlo Museums Trust")
 
 ## Infidelidades al volver a México
 
@@ -126,7 +126,7 @@ exposiciones colectivas en el Museo de Arte Moderno de Nueva York, en el Institu
 Arte Contemporáneo de Boston y en el Museo de Arte de Filadelfia, entre otras 
 instituciones. 
 
-![Retrato de Luther Burbank](etheria_images/2021/02/Frida-Kahlo-retrato-Luther-Burbank-722x1024.jpg "Retrato de Luther Burbank, 1931. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2020 Banco de México Diego Rivera Frida Kahlo Museums Trust, México DF ARS, New York")
+![Retrato de Luther Burbank](etheria-images/2021/02/Frida-Kahlo-retrato-Luther-Burbank-722x1024.jpg "Retrato de Luther Burbank, 1931. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2020 Banco de México Diego Rivera Frida Kahlo Museums Trust, México DF ARS, New York")
 
 ## Los días finales de un mito
 
@@ -143,7 +143,7 @@ Comunista Mexicano. Sus cenizas se conservan en la Casa Azul, al igual que su ú
 cuadro, un óleo en el que se muestra un fragmento de sandía en tonos vivos en el que se 
 puede leer: “Viva la vida. Coyoacán, 1954. México”. 
 
-![Museo Casa Estudio Diego Rivera y Frida Kahlo](etheria_images/2021/02/Museo-Casa-Estudio-Diego-Rivera-y-Frida-Kahlo.jpg "Museo Casa Estudio Diego Rivera y Frida Kahlo. © Bismutologa")
+![Museo Casa Estudio Diego Rivera y Frida Kahlo](etheria-images/2021/02/Museo-Casa-Estudio-Diego-Rivera-y-Frida-Kahlo.jpg "Museo Casa Estudio Diego Rivera y Frida Kahlo. © Bismutologa")
 
 ## 4 paradas en la ruta de Frida Kahlo en México DF
 

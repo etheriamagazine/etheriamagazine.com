@@ -1,12 +1,12 @@
 ---
 title: "De la memoria minera de Torre del Bierzo al ‘milagro’ de San Facundo"
 date: 2020-01-27
-coverImage: etheria_images/2020/01/Leon-pueblo-San-Facundo.jpg
+coverImage: etheria-images/2020/01/Leon-pueblo-San-Facundo.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -17,7 +17,7 @@ que bañan ríos de aguas frescas que discurren entre inmensas masas boscosas. U
 por El Bierzo te transporta a la médula de la naturaleza… Un entorno que parece diseñado 
 para escapar de la vida de las grandes ciudades. 
 
-![san facundo, pueblos bonitos de leon](etheria_images/2020/01/Leon-pueblo-San-Facundo-900x600.jpg "San Facundo, el pueblo más bonito de León. © Pedro Grifol")
+![san facundo, pueblos bonitos de leon](etheria-images/2020/01/Leon-pueblo-San-Facundo-900x600.jpg "San Facundo, el pueblo más bonito de León. © Pedro Grifol")
 
 Vamos… que, con menos florituras poéticas, [El Bierzo](https://www.turismodelbierzo.es/) 
 se traduce en una escapada rural ideal para senderistas de finde, parejas andariegas y 
@@ -33,7 +33,7 @@ de carbón fueron el pilar de la economía de este pueblo en la segunda mitad de
 pasado. El año pasado se cerró la última mina de antracita. En aquellos años la 
 población sobrepasaba los 5.000 habitantes, y ahora apenas llega a 2.000. 
 
-![puente romano, torre del bierzo, pueblos de leon](etheria_images/2020/01/Torre-del-Bierzo-Puente-romano-900x588.jpg "Puente romano de Torre del Bierzo. © P. Grifol")
+![puente romano, torre del bierzo, pueblos de leon](etheria-images/2020/01/Torre-del-Bierzo-Puente-romano-900x588.jpg "Puente romano de Torre del Bierzo. © P. Grifol")
 
 ## Cómo es Torre del Bierzo
 
@@ -48,7 +48,7 @@ fuera aquella manera de vivir.
 > Cualquier vecino tiene algo que aportar, ya que el transcurrir de la mayoría de las 
 > familias giraba en torno al comercio del carbón. 
 
-![mina oro, torre del bierzo](etheria_images/2020/01/Mina-de-Oro-Torre-del-Bierzo-900x600.jpg "Mina de oro de Torre del Bierzo. © P.G.")
+![mina oro, torre del bierzo](etheria-images/2020/01/Mina-de-Oro-Torre-del-Bierzo-900x600.jpg "Mina de oro de Torre del Bierzo. © P.G.")
 
 Así se ha ido conformando el recién inaugurado **Centro de Interpretación** y **Museo de 
 la Memoria Minera**. Un homenaje a la riqueza que dio al lugar la extracción del carbón, 
@@ -61,14 +61,14 @@ proyectarán imágenes del trabajo minero con la idea de que el pasado de **Torr
 Bierzo** se convierta en un **destino turístico** y, sobre todo, en una experiencia 
 cultural aleccionadora. 
 
-![centro interpretacion de san facundo](etheria_images/2020/01/Centro-de-interpretacion-memoria-minera-900x446.jpg "Centro de Interpretación y Museo de la Memoria Minera. © P. Grifol")
+![centro interpretacion de san facundo](etheria-images/2020/01/Centro-de-interpretacion-memoria-minera-900x446.jpg "Centro de Interpretación y Museo de la Memoria Minera. © P. Grifol")
 
 En estos tiempos en los que tantos museos están atiborrados de visitantes, tú serás uno 
 de los primeros en visitar este peculiar museo del territorio berciano. No tienen 
 todavía página web, así que ¡tienes que ir a verlo! La nostalgia te hará pensar… 
 Experimentarás algo nuevo. 
 
-![carretera san facundo, pueblos de leon](etheria_images/2020/01/carretera-san-facundo-900x600.jpg "Tramo de la carretera que lleva a San Facundo. © P.Grifol")
+![carretera san facundo, pueblos de leon](etheria-images/2020/01/carretera-san-facundo-900x600.jpg "Tramo de la carretera que lleva a San Facundo. © P.Grifol")
 
 ## 2ª parte: San Facundo, el pueblo más bello de León
 
@@ -82,7 +82,7 @@ año 946.
 > La pedanía ganó en 2017 el premio al pueblo más bonito de León (en la categoría de menos 
 > de 1.000 habitantes). ¡San Facundo tiene 18 habitantes! 
 
-![pueblo san facundo, pueblo mas bonito de leon](etheria_images/2020/01/Ricardo-Vila-alcalde-de-San-Facundo-900x504.jpg "Ricardo Vila, alcalde de San Facundo, posa junto al cartel que reconoce la belleza de la población. © P. Grifol")
+![pueblo san facundo, pueblo mas bonito de leon](etheria-images/2020/01/Ricardo-Vila-alcalde-de-San-Facundo-900x504.jpg "Ricardo Vila, alcalde de San Facundo, posa junto al cartel que reconoce la belleza de la población. © P. Grifol")
 
 Es un pueblo especial, que se ha resistido al abandono rural con una perseverancia 
 envidiable. Durante los últimos veinte años se han acometido importantes obras de 
@@ -93,7 +93,7 @@ de zona wifi; se han instalado, diseminadas en torno al parking, rústicas mesas
 piedra y madera para poder acomodarnos y practicar la lúdica faena de la **barbacoa 
 dominguera**. 
 
-![san facundo, pueblo mas bonito de leon](etheria_images/2020/01/imagenes-San-Facundo-900x644.jpg "Diversas estampas de San Facundo. © P. Grifol")
+![san facundo, pueblo mas bonito de leon](etheria-images/2020/01/imagenes-San-Facundo-900x644.jpg "Diversas estampas de San Facundo. © P. Grifol")
 
 El pequeño casco urbano de San Facundo es un espacio sin coches, con detalles 
 pintorescos en cada rincón, que hace que el enclave esté orientado hoy en día al 
@@ -109,7 +109,7 @@ mineros romanos en busca de oro, y en el que encontramos restos arqueológicos, 
 **ara votiva** dedicada a Júpiter, restos del trazado de la **Vía romana ‘Vía Nova’**, y 
 algunos indicios de importantes asentamientos de población romana. 
 
-![san facundo, pueblo bonito de leon](etheria_images/2020/01/San-Facundo-pueblo-bonito-leon-900x624.jpg "San Facundo tiene 18 habitantes. © P.Grifol")
+![san facundo, pueblo bonito de leon](etheria-images/2020/01/San-Facundo-pueblo-bonito-leon-900x624.jpg "San Facundo tiene 18 habitantes. © P.Grifol")
 
 Son itinerarios de senderismo de entre 10 y 15 kilómetros –técnicamente clasificados 
 como ‘con dificultad media’– en los que conviene saber de antemano el tiempo que 
@@ -124,7 +124,7 @@ El lugar perfecto para recuperar fuerzas tras la caminata es el restaurante de l
 alta cocina (así como suena). Solo es necesario anunciar nuestra visita contactando por [mail](http://mvilapaz@gmail.com) 
 o reservando por teléfono en el 629 851 151. 
 
-![restaurante hermanos vila, san facundo leon](etheria_images/2020/01/Marga-Vila-chef-del-Restaurente-Hermanos-Vila-900x525.jpg "Marga Vila y algunos platos del restaurante: bacalao con tomate, berzas con alubias y castañas, y garbanzos con langostinos. © P. Grifol")
+![restaurante hermanos vila, san facundo leon](etheria-images/2020/01/Marga-Vila-chef-del-Restaurente-Hermanos-Vila-900x525.jpg "Marga Vila y algunos platos del restaurante: bacalao con tomate, berzas con alubias y castañas, y garbanzos con langostinos. © P. Grifol")
 
 Y lo de **alta cocina** va en serio: croquetas de trucha (únicas en el mundo), caldo de 
 berzas con alubias y castañas, garbanzos con langostinos; anguila de río con patatas y 
@@ -135,7 +135,7 @@ Sin duda, San Facundo es un lugar que merece una visita, tanto en invierno como 
 verano porque cada estación tiene su encanto. De pueblo vaciado ¡ni pensarlo! Y, 
 naturalmente, [San Facundo](http://www.sanfacundo.es) sí tiene web. 
 
-![magosto, asar castanas en chimenea, san facundo leon](etheria_images/2020/01/leon-san-facundo-magosto-900x561.jpg "Gran invento para asar las castañas. ©P. Grifol")
+![magosto, asar castanas en chimenea, san facundo leon](etheria-images/2020/01/leon-san-facundo-magosto-900x561.jpg "Gran invento para asar las castañas. ©P. Grifol")
 
 ## Guía práctica de San Facundo
 

@@ -1,12 +1,12 @@
 ---
 title: "En Módena las mujeres prefieren Lamborghinis"
 date: 2019-04-04
-coverImage: etheria_images/2019/03/viaje-modena-lujo.jpg
+coverImage: etheria-images/2019/03/viaje-modena-lujo.jpg
 categories: 
   - mejores-restaurantes-gastronomia
   - historias-en-femenino
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -15,7 +15,7 @@ la cuna de un condimento que casi todos tenemos en la cocina: el 'aceto balsamic
 Modena', ese preciado elixir que se suele echar en las ensaladas, y que (casualmente) 
 ¡es donde no se debe echar!... Pero bueno, ese es un tema que otro día explicaré. 
 
-![Un ferrari en Módena](etheria_images/2019/03/viaje-modena-lujo.jpg "Viaje de lujo a Módena.")
+![Un ferrari en Módena](etheria-images/2019/03/viaje-modena-lujo.jpg "Viaje de lujo a Módena.")
 
 Pero si el vinagre balsámico lo podemos comprar en cualquier ‘súper’, lo que no podemos 
 traernos a casa es la **Osteria Francescana**, el restaurante que el chef Massimo 
@@ -26,7 +26,7 @@ Si el tema gastronómico no es suficiente para hacerte subir el pulso del buen v
 puede que por el tercer producto estrella modenés tengas un subidón de adrenalina que no 
 olvidarás nunca. 
 
-![Massimo Bottura, chef de la Osteria Francescana](etheria_images/2019/03/viaje-modena-osteria-francescana-massimo-bottura.jpg "Massimo Bottura, chef de la Osteria Francescana.")
+![Massimo Bottura, chef de la Osteria Francescana](etheria-images/2019/03/viaje-modena-osteria-francescana-massimo-bottura.jpg "Massimo Bottura, chef de la Osteria Francescana.")
 
 ## La Tierra de los Motores
 
@@ -58,7 +58,7 @@ de los órganos mecánicos del coche para curiosear el diseño de su motor, y de
 compruebas el alerón del vehículo como si fueras un entendido en aerodinámica. ¡Qué 
 nervios! 
 
-![Ferrari en el autódromo de Módena](etheria_images/2019/03/viaje-modena-ferrari.jpg "Ferrari en el autódromo de Módena.")
+![Ferrari en el autódromo de Módena](etheria-images/2019/03/viaje-modena-ferrari.jpg "Ferrari en el autódromo de Módena.")
 
 Acto seguido, tu copiloto regula la inclinación del asiento a tu medida, te coronan con 
 el casco reglamentario y te imparten algunos consejos puestos en práctica por los 
@@ -83,7 +83,7 @@ esto ha sido solo el empiece, una prueba de contacto. Concentrado estoy.
 
 Empezamos de nuevo: **Adrenalina…** dos, tres, cuatro… ¡diez! 
 
-![Ferrari y piloto](etheria_images/2019/03/viaje-ferrari-autodromo-modena.jpg "Momento previo a la conducción en el autódromo de Módena.")
+![Ferrari y piloto](etheria-images/2019/03/viaje-ferrari-autodromo-modena.jpg "Momento previo a la conducción en el autódromo de Módena.")
 
 Acelero, reduzco, freno… un par de curvas cerradas enlazadas y luego una larga recta. Me 
 dejo llevar y empiezo a percibir lo que el coche me quiere decir. Una y otra vuelta. 
@@ -98,7 +98,7 @@ alternan con las rectas. El coche vuela, el tiempo también. Se acabó. Respiro 
 Fuera del coche, ya de pie y sin casco, la experiencia concluye con un piscolabis y un 
 tiempo de relax para comentar la aventura con el staff del circuito. 
 
-![Lamborghinis en el autódromo de Módena](etheria_images/2019/03/viaje-modena-autodromo-Lamborghinis.jpg "Lamborghinis en el autódromo de Módena.")
+![Lamborghinis en el autódromo de Módena](etheria-images/2019/03/viaje-modena-autodromo-Lamborghinis.jpg "Lamborghinis en el autódromo de Módena.")
 
 ### Datos del autódromo
 
@@ -112,7 +112,7 @@ año?** Se inauguró en 2014, y recibe casi 60.000 visitantes al año.
 **¿Y cuántas mujeres quieren vivir esta experiencia?:** El 20%, y los coches que 
 prefieren son los Diablos de la Lamborghini. 
 
-![Casa Museo Enzo Ferrari](etheria_images/2019/03/viaje-modena-museo-Casa-Enzo-Ferrari.jpg "Casa Museo Enzo Ferrari.")
+![Casa Museo Enzo Ferrari](etheria-images/2019/03/viaje-modena-museo-Casa-Enzo-Ferrari.jpg "Casa Museo Enzo Ferrari.")
 
 ## Paseo por Módena... y cena de lujo
 
@@ -122,7 +122,7 @@ vida y obra del famoso diseñador de automóviles y modelos emblemáticos de la 
 **Factoría-Museo Lamborghini**, la **Fábrica Maserati**; o la peculiar **colección de 
 autos Stanguellini**. 
 
-![El Duomo de Módena](etheria_images/2019/03/viaje-modena-duomo.jpg "El Duomo de Módena.")
+![El Duomo de Módena](etheria-images/2019/03/viaje-modena-duomo.jpg "El Duomo de Módena.")
 
 Por supuesto que Módena, además del universo del motor, tiene muchos más sitios para 
 visitar, como **El Duomo**, la catedral románica que –¡aleluya!– se puede visitar 
@@ -135,7 +135,7 @@ de estar ante la verdadera esencia de un producto artesanal, que combina ética 
 estética ¡toda una experiencia! Y para no perderse la cuidada puesta en escena de los 
 productos de su _mercato coperto_, el **Mercado Albinelli** (www.mercatoalbinelli.it). 
 
-![heladeria bloom en modena](etheria_images/2019/03/viaje-modena-heladeria-bloom.jpg "No te pierdas los helados de Bloom.")
+![heladeria bloom en modena](etheria-images/2019/03/viaje-modena-heladeria-bloom.jpg "No te pierdas los helados de Bloom.")
 
 Pero resérvate para la cena, recuerda que estás en la ciudad donde se encuentra el mejor 
 restaurante del mundo, y es una oportunidad que está al alcance de la mano (si la mano 
@@ -144,7 +144,7 @@ puede decir más de lo que está en Internet… ¡Hay que probarlo! Después que
 califique según su capacidad sensorial, tarea que no es fácil. A mí se me antoja: 
 estilo, personalidad y arte. 
 
-![barrio la pomposa en Módena](etheria_images/2019/03/salir-modena-barrio-la-pomposa.jpg "Si buscas ambiente, dirígete al barrio La Pomposa.")
+![barrio la pomposa en Módena](etheria-images/2019/03/salir-modena-barrio-la-pomposa.jpg "Si buscas ambiente, dirígete al barrio La Pomposa.")
 
 ## Guía práctica de Módena
 
@@ -171,7 +171,7 @@ dicen sus dueños que es como “sentirsi a casa”; o **Maranello Village**
 que quieren sentirse ‘Ferrari’. Funcional y decorado con elementos pertenecientes al 
 mundo de la Fórmula 1. 
 
-![que ver en modena, viaje modena](etheria_images/2019/03/viaje-modena-Piazza-Grande-italia.jpg "Un paseo por Módena te llevará a la Piazza Grande.")
+![que ver en modena, viaje modena](etheria-images/2019/03/viaje-modena-Piazza-Grande-italia.jpg "Un paseo por Módena te llevará a la Piazza Grande.")
 
 ### El autódromo de Módena
 

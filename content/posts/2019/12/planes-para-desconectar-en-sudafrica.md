@@ -1,19 +1,19 @@
 ---
 title: "Sudáfrica, un destino con hoteles fuera de cobertura"
 date: 2019-12-11
-coverImage: etheria_images/2019/12/sudafrica-Elandsberg.jpg
+coverImage: etheria-images/2019/12/sudafrica-Elandsberg.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Sudáfrica es un destino adecuado para aquellos que quieren evitar tentaciones alejándose 
 de las zonas de cobertura. Conexión escasa y privacidad casi absoluta. 
 
-![Alojamiento Copia Eco Cabins (Sudáfrica).](etheria_images/2019/12/sudafrica-alojamiento-Copia-Eco-Cabins-900x600.jpg "Alojamiento Copia Eco Cabins (Sudáfrica).")
+![Alojamiento Copia Eco Cabins (Sudáfrica).](etheria-images/2019/12/sudafrica-alojamiento-Copia-Eco-Cabins-900x600.jpg "Alojamiento Copia Eco Cabins (Sudáfrica).")
 
 Si no logramos olvidarnos del móvil y de la tecnología mientras disfrutamos de la 
 naturaleza en Sudáfrica es que tenemos un problema. Te proponemos un reto: elige alguna 
@@ -30,7 +30,7 @@ incluso, una cocina. Desde este alojamiento, se pueden realizar excursiones por 
 **Reserva Natural de Kogelberg**, buceo con tiburones, golf y, también, catas de vinos. 
 Recuerda que Sudáfrica es una referencia mundial en enoturismo. 
 
-![Terraza y vistas desde el Copia Eco Cabins (Sudáfrica).](etheria_images/2019/12/sudafrica-hoteles-Copia-Eco-Cabins-900x600.jpg "Terraza y vistas desde el Copia Eco Cabins (Sudáfrica).")
+![Terraza y vistas desde el Copia Eco Cabins (Sudáfrica).](etheria-images/2019/12/sudafrica-hoteles-Copia-Eco-Cabins-900x600.jpg "Terraza y vistas desde el Copia Eco Cabins (Sudáfrica).")
 
 ## Parque Nacional de Tankwa Karoo: conexión 0/10
 
@@ -43,7 +43,7 @@ Además, el mismo parque ofrece zonas de acampada y lodges de lujo donde podrás
 del mundanal ruido sin perder ni un ápice de _glamour_. Toma nota de estas dos opciones: 
 **Elandsberg Wilderness Camp** y Tankwa River Lodge. 
 
-![Elandsberg Wilderness Camp (Sudáfrica).](etheria_images/2019/12/sudafrica-Elandsberg-900x600.jpg "Elandsberg Wilderness Camp (Sudáfrica).")
+![Elandsberg Wilderness Camp (Sudáfrica).](etheria-images/2019/12/sudafrica-Elandsberg-900x600.jpg "Elandsberg Wilderness Camp (Sudáfrica).")
 
 ## Reserva Natural de Bakkrans: conexión 3/10
 
@@ -54,7 +54,7 @@ tecnología son sus increíbles montañas, una abundante flora y fauna, y la pre
 interesantes pinturas rupestres. Esta reserva está prácticamente deshabitada, por lo que 
 es un buen lugar para descansar del ajetreo social. 
 
-![Reserva Natural de Bakkrans (Sudáfrica).](etheria_images/2019/12/hoteles-sudafrica-Bakkrans-Nature-reserve-900x599.jpg "Reserva Natural de Bakkrans (Sudáfrica).")
+![Reserva Natural de Bakkrans (Sudáfrica).](etheria-images/2019/12/hoteles-sudafrica-Bakkrans-Nature-reserve-900x599.jpg "Reserva Natural de Bakkrans (Sudáfrica).")
 
 El alojamiento, en este caso, es más modesto que el anterior pero con el mismo encanto. 
 Se trata de casas construidas con piedra y paja. Desde este hotel organizan actividades 
@@ -71,7 +71,7 @@ dos dormitorios o un campamento para quienes viajan con su propia tienda. El 'mu
 civilizado' más cercano está a una hora y media, y el alojamiento funciona con energía 
 solar y gas. 
 
-![Entorno del Mtentu Lodge (Sudáfrica).](etheria_images/2019/12/alojamiento-sudafrica-Mtentu-campsite-1-900x612.jpg "Entorno del Mtentu Lodge (Sudáfrica).")
+![Entorno del Mtentu Lodge (Sudáfrica).](etheria-images/2019/12/alojamiento-sudafrica-Mtentu-campsite-1-900x612.jpg "Entorno del Mtentu Lodge (Sudáfrica).")
 
 ## Highlands Mountain Retreat, Golden Gate National Park: conexión 0/10
 
@@ -87,6 +87,6 @@ desde la puerta de este alojamiento. Si eres aficionada al senderismo o al _trek
 te interesa saber también que éste es un buen lugar para comenzar el **Ribbok Trail**, 
 uno de los itinerarios mejor considerados del parque nacional. 
 
-![Cabaña en la Highlands Mountain Retreat (Sudáfrica).](etheria_images/2019/12/alojamiento-sudafrica-Highlands-Mountain-900x609.jpg "Cabaña en la Highlands Mountain Retreat (Sudáfrica).")
+![Cabaña en la Highlands Mountain Retreat (Sudáfrica).](etheria-images/2019/12/alojamiento-sudafrica-Highlands-Mountain-900x609.jpg "Cabaña en la Highlands Mountain Retreat (Sudáfrica).")
 
 Imágenes cedidas por Turismo de Sudáfrica.

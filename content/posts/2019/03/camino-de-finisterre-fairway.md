@@ -1,13 +1,13 @@
 ---
 title: "El Camino de Finisterre: plan de fuga a los misterios del fin del mundo"
 date: 2019-03-06
-coverImage: etheria_images/2019/02/Mujeres-camino-santiago.jpg
+coverImage: etheria-images/2019/02/Mujeres-camino-santiago.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Lleva siglos obsesionando a celtas, romanos y cristianos de Europa. Ahora peregrinos de 
@@ -15,7 +15,7 @@ todo el planeta descubren en el _Finis Terrae_ mucho más que un epílogo de la 
 jacobea. Si tú también te estás planteando esta aventura, ten mucha precaución, ¡dicen 
 que engancha! 
 
-![Kilómetro Cero del Camino de Finisterre en Galicia.](etheria_images/2019/02/Mujeres-camino-santiago.jpg "Kilómetro Cero del Camino de Finisterre en Galicia. © Kelu Robles")
+![Kilómetro Cero del Camino de Finisterre en Galicia.](etheria-images/2019/02/Mujeres-camino-santiago.jpg "Kilómetro Cero del Camino de Finisterre en Galicia. © Kelu Robles")
 
 Ser el hijo ilegítimo de la familia siempre ha sido una baza ganadora en cualquier trama 
 televisiva. Lo sabemos por _Juego de Tronos_ —y por tantos culebrones—, y lo comprobamos 
@@ -28,7 +28,7 @@ esotérica.
 > desconocidos que lo producen contribuyen al misterio en una tierra de celtas, conxuros y 
 > meigas. 
 
-![Rúa das Hortas, en Santiago de Compostela.](etheria_images/2019/02/Camino-de-Santiago-finisterre.jpg "Rúa das Hortas, en Santiago de Compostela. © Turismo de Santiago")
+![Rúa das Hortas, en Santiago de Compostela.](etheria-images/2019/02/Camino-de-Santiago-finisterre.jpg "Rúa das Hortas, en Santiago de Compostela. © Turismo de Santiago")
 
 ## Más allá del Obradoiro
 
@@ -48,7 +48,7 @@ escudos las fachadas para dejar bien claro quién era el arrendador de la propie
 la iglesia o el Hospital de los Reyes Católicos— o para indicar si un edificio era un 
 hostal. El lío, al parecer, era patente. 
 
-![Sendero del Camino de Finis Terrae.](etheria_images/2019/02/Camino-santiago-mujeres.jpg "Sendero del Camino de Finis Terrae. © Kelu Robles")
+![Sendero del Camino de Finis Terrae.](etheria-images/2019/02/Camino-santiago-mujeres.jpg "Sendero del Camino de Finis Terrae. © Kelu Robles")
 
 ## Orígenes difusos
 
@@ -63,7 +63,7 @@ La concha era un souvenir que los peregrinos se llevaban de las playas de Fister
 poder “presumir de viaje” —así era la vida antes de los selfis—. Además, les ayudaba a 
 beber agua de los arroyos. 
 
-![Dicen que el nombre ‘Costa de la Muerte’ proviene de ‘Costa de la Muerte del Sol’.](etheria_images/2019/02/camino-santiago-muxia.jpg "Dicen que el nombre ‘Costa de la Muerte’ proviene de ‘Costa de la Muerte del Sol’. © Kelu Robles")
+![Dicen que el nombre ‘Costa de la Muerte’ proviene de ‘Costa de la Muerte del Sol’.](etheria-images/2019/02/camino-santiago-muxia.jpg "Dicen que el nombre ‘Costa de la Muerte’ proviene de ‘Costa de la Muerte del Sol’. © Kelu Robles")
 
 ## Camino de Finisterre
 
@@ -71,7 +71,7 @@ A 17 kilómetros de Santiago, unos elegantes pazos custodian el puente más famo
 Camiño de Fisterra. **Pontemaceira** presume de robustos tajamares medievales, a prueba 
 de las trombas de agua primaverales que el río Tambre arrastra cada año. 
 
-![Pontemaceira](etheria_images/2019/02/camino-santiago-pontemaceira.jpg "Pontemaceira. © Germán Limeres")
+![Pontemaceira](etheria-images/2019/02/camino-santiago-pontemaceira.jpg "Pontemaceira. © Germán Limeres")
 
 Probar el **guiso aragonés de garbanzos y congrio seco** del Restaurante Pontemaceira 
 desvela una curiosa relación comercial entre Calatayud y Muxía, pues mientras los 
@@ -89,7 +89,7 @@ robledales, pinares y eucaliptos que recorren los nueve concellos del Camino has
 Fisterra. En esos casos, hay que afrontar la meteorología gallega con un “Se chove, ¡que 
 chova!”. Al fin y al cabo, sólo es agua. 
 
-![Las vacas también parece que quieren hacer el Camino.](etheria_images/2019/02/Camino-santiago-vacas.jpg "Las vacas también parece que quieren hacer el Camino. © Kelu Robles")
+![Las vacas también parece que quieren hacer el Camino.](etheria-images/2019/02/Camino-santiago-vacas.jpg "Las vacas también parece que quieren hacer el Camino. © Kelu Robles")
 
 ## ¿Te gusta la fotografía? Detente aquí
 
@@ -97,7 +97,7 @@ Las capillas de las Nieves y San Pedro Mártir anuncian la llegada a una de las 
 más evocadoras del **Camino de Finisterre**, la cima del pedregoso **Monte del Pindo**, 
 con la ría, Cee y Corcubión al fondo—localidad declarada Conjunto Histórico Artístico—. 
 
-![Santuario de la Virgen de la Barca y Camiño dos Faros](etheria_images/2019/02/santario-virgen-barca-monte-pindo.jpg "Santuario de la Virgen de la Barca. (Izq.) © Camiño dos Faros. Vistas desde el Monte Pindo. (Dcha.)")
+![Santuario de la Virgen de la Barca y Camiño dos Faros](etheria-images/2019/02/santario-virgen-barca-monte-pindo.jpg "Santuario de la Virgen de la Barca. (Izq.) © Camiño dos Faros. Vistas desde el Monte Pindo. (Dcha.)")
 
 Al misterioso paisaje megalítico de Muxía se le atribuyen propiedades curativas —como la 
 piedra de Cadrís— y fecundativas —como la de los Enamorados—. Sin embargo, ninguna de 
@@ -122,7 +122,7 @@ del apóstol Santiago pretendían enterrar sus restos mortales en los confines d
 Occidente, el gobernador de la ciudad les preparó una emboscada hasta **Negreira**, 
 donde pudieron librarse de sus perseguidores. 
 
-![Un vecino de Fisterra saluda en la playa Langosteira.](etheria_images/2019/02/Fisterra-camino-finisterre.jpg "Un vecino de Fisterra saluda en la playa Langosteira. © K.R.")
+![Un vecino de Fisterra saluda en la playa Langosteira.](etheria-images/2019/02/Fisterra-camino-finisterre.jpg "Un vecino de Fisterra saluda en la playa Langosteira. © K.R.")
 
 La última parada antes de llegar al soñado Kilómetro Cero nos lleva hasta la **iglesia 
 de Nosa Señora das Areas**, el lugar en el que durante muchos años los peregrinos 
@@ -135,7 +135,7 @@ recibía.
 > experiencias vividas, ahora podemos contemplar este balcón del Atlántico como aquello 
 > que en su día fue: el espejismo más hermoso del Fin del Mundo. 
 
-![camino santiago, finisterre](etheria_images/2019/02/Fin-del-camino-santiago.jpg "El Camino de Santiago 'realmente' finaliza en Finisterre. © Kelu Robles")
+![camino santiago, finisterre](etheria-images/2019/02/Fin-del-camino-santiago.jpg "El Camino de Santiago 'realmente' finaliza en Finisterre. © Kelu Robles")
 
 ## 10 cosas que debes hacer
 
@@ -152,7 +152,7 @@ Existen escritos que atestiguan el trueque entre Calatayud y Muxía de “cuerda
 congrios” desde 1446. En la **empresa familiar Lemar Elaboraciones Artesanas** lo 
 preparan en diferentes formatos. 
 
-![Cascadas del Ézaro  y Clara Castro, trabajadora de Lemar Elaboraciones Artesanas.](etheria_images/2019/02/Cascadas-ezaro-congrio.jpg "Cascadas del Ézaro (K.R.) y Clara Castro, trabajadora de Lemar Elaboraciones Artesanas. © Germán Limeres")
+![Cascadas del Ézaro  y Clara Castro, trabajadora de Lemar Elaboraciones Artesanas.](etheria-images/2019/02/Cascadas-ezaro-congrio.jpg "Cascadas del Ézaro (K.R.) y Clara Castro, trabajadora de Lemar Elaboraciones Artesanas. © Germán Limeres")
 
 ### 3\. Comerse Galicia (ya harás dieta)
 
@@ -177,7 +177,7 @@ Algunos se consideran verdaderas joyas históricas, como el **Pazo de San Lorenz
 Trasouto** (Santiago de Compostela), donde durmió Carlos V y afamado, sobre todo, por su 
 jardín geométrico integrado en el claustro. Más información en www.pazodesanlorenzo.com 
 
-![Cascadas del Ézaro y Clara Castro, trabajadora de Lemar Elaboraciones Artesanas.](etheria_images/2019/02/camino-santiago-faros.jpg "Museo de Man Camelle. (Izq.) © Germán Limeres. Faro de Muxía. (Dcha.) © Kelu Robles")
+![Cascadas del Ézaro y Clara Castro, trabajadora de Lemar Elaboraciones Artesanas.](etheria-images/2019/02/camino-santiago-faros.jpg "Museo de Man Camelle. (Izq.) © Germán Limeres. Faro de Muxía. (Dcha.) © Kelu Robles")
 
 ### 6\. Entender el mundo de Man Camelle
 
@@ -200,7 +200,7 @@ más exquisitos.
 Guarda un momento del viaje para contemplar el atardecer desde esta playa y descansar en 
 el hotel ‘literario’ **Bela Fisterra** (www.belafisterra.com). 
 
-![Los percebes son uno de los productos del mar más codiciados.](etheria_images/2019/02/Percebes-camino-santiago.jpg "Los percebes son uno de los productos del mar más codiciados.")
+![Los percebes son uno de los productos del mar más codiciados.](etheria-images/2019/02/Percebes-camino-santiago.jpg "Los percebes son uno de los productos del mar más codiciados.")
 
 ### 9\. Inscribirse en el Fairway
 

@@ -1,17 +1,17 @@
 ---
 title: "Jamming sessions, un espectáculo donde la clave está en la improvisación"
 date: 2021-09-30
-coverImage: etheria_images/2021/09/portada-jamming.jpg
+coverImage: etheria-images/2021/09/portada-jamming.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
-author: 
+authors: 
   - Maria Miret
 ---
 
 Si hay algo que ha puesto de manifiesto la pandemia es que necesitamos a los otros. A medida que superamos la Covid-19, surge la imperiosa necesidad de volver a pertenecer a algo. Las _Jamming sessions_ son uno de esos espectáculos que nos permiten volver a estar presentes. Jamming es una compañía de teatro, pero también es una escuela de improvisación y, sobre todo, es una gran familia en la que el público es cocreador de la función. Que suba el telón.
 
-![jamming teatro improvisacion](etheria_images/2021/09/teatro-improvisacion-jamming-753x1024.jpg "Jamming, teatro de improvisación y escuela.")
+![jamming teatro improvisacion](etheria-images/2021/09/teatro-improvisacion-jamming-753x1024.jpg "Jamming, teatro de improvisación y escuela.")
 
 _**\-Me han hablado de un teatro de improvisación, un espectáculo, se llama Jamming. ¿Tú 
 crees que podría ir?” \- “Oye, esto está lleno de grillos”. \- “No son grillos tío, son 
@@ -33,7 +33,7 @@ acartonado”, aunque también propone estilos clásicos. El actor reconoce que,
 principio, improvisar era cómodo para no estudiar pero, además, “la improvisación 
 permite también ser guionista y te da más libertad creativa”, asegura. 
 
-![lolo diego jamming](etheria_images/2021/09/lolo-diego-jamming.jpg "Lolo Diego, del grupo teatral Jamming.")
+![lolo diego jamming](etheria-images/2021/09/lolo-diego-jamming.jpg "Lolo Diego, del grupo teatral Jamming.")
 
 **Juanma Díez**, por su parte, descubrió la improvisación tras sufrir una rotura de 
 fibras haciendo acrobacias. “Me fascinó”, dice. Para él la improvisación “es un lugar 
@@ -50,7 +50,7 @@ veces, la gente también propone estilos diferentes. “Preguntamos más allá d
 espectáculo y la gente sugiere”, explica Juanma, que reconoce que “aceptamos todo y lo 
 elaboramos a nuestra manera, aunque hay cosas que no hacemos”. 
 
-![juanma diez jamming madrid](etheria_images/2021/09/jamming-juanma-diez.jpg "Juanma Díez, actor de las Jamming sessions.")
+![juanma diez jamming madrid](etheria-images/2021/09/jamming-juanma-diez.jpg "Juanma Díez, actor de las Jamming sessions.")
 
 ## “Hay gente que viene mucho”
 
@@ -75,7 +75,7 @@ actuando con nosotros, aunque la escuela no está pensada para eso”, explica L
 nos cuenta cómo nació la escuela, que lleva casi tanto tiempo como la compañía. “Lo 
 veíamos con mucho respeto y ya llevamos 15 años dando clases”. 
 
-![paula galimberti jamming madrid](etheria_images/2021/09/Jamming-Paula-Galimberti.jpg "Paula Galimberti, integrante de Jamming.")
+![paula galimberti jamming madrid](etheria-images/2021/09/Jamming-Paula-Galimberti.jpg "Paula Galimberti, integrante de Jamming.")
 
 “Yo lo veo como un aprendizaje para mí también”, dice Juanma. “Te permite especializarte 
 en propuestas que te retroalimentan mucho a ti. Yo me reciclo mucho en las clases. Me 
@@ -91,7 +91,7 @@ llevamos tanto tiempo”, dice Lolo, que reconoce que “te tiene que apasionar�
 con lo que haces. Ahora más que nunca, cuando la pandemia de COVID parece un mal sueño, 
 “vamos a celebrar ser los creadores, todos 'junting', cada uno desde su individualidad”. 
 
-![juanma diez lolo diego maria miret](etheria_images/2021/09/Jamming-maria-miret.jpg "María Miret entrevista a Juanma Díez y a Lolo Diego.")
+![juanma diez lolo diego maria miret](etheria-images/2021/09/Jamming-maria-miret.jpg "María Miret entrevista a Juanma Díez y a Lolo Diego.")
 
 ### Dónde y cuándo asistir a las Jamming sessions
 

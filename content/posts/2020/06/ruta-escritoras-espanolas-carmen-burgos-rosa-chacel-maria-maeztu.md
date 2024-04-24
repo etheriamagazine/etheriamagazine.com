@@ -1,12 +1,12 @@
 ---
 title: "Ruta por la España de las grandes escritoras del siglo XX (2ª parte)"
 date: 2020-06-26
-coverImage: etheria_images/2020/06/2-cubierta-la-mujer-moderna.jpg
+coverImage: etheria-images/2020/06/2-cubierta-la-mujer-moderna.jpg
 categories: 
   - historias-en-femenino
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Carmen de Burgos, Rosa Chacel y María de Maeztu son las literatas que hemos seleccionado 
@@ -14,7 +14,7 @@ para esta segunda entrega de nuestra 'Ruta por la España de las grandes escrito
 siglo XX'. Visitaremos Almería, Valladolid y Vitoria en busca de las huellas que dejaron 
 la rebeldía y la buena pluma de estas escritoras. 
 
-![Carmen de Burgos, la mujer moderna y sus derechos, almeria](etheria_images/2020/06/cubierta-la-mujer-moderna.jpg "Fragmento de la cubierta de 'La mujer moderna y sus derechos', de Carmen de Burgos (Edit. Huso Ensayos).")
+![Carmen de Burgos, la mujer moderna y sus derechos, almeria](etheria-images/2020/06/cubierta-la-mujer-moderna.jpg "Fragmento de la cubierta de 'La mujer moderna y sus derechos', de Carmen de Burgos (Edit. Huso Ensayos).")
 
 Fueron intelectuales y emprendedoras aún teniendo pocas facilidades para ello. **Carmen 
 de Burgos** obtuvo su título de maestra a escondidas y llegó a convertirse en la primera 
@@ -31,7 +31,7 @@ estribaciones de la cordillera de Sierra Nevada, a la orilla del mar”. Allí s
 un espacio agreste y libre, donde “nadie me habló de Dios ni de leyes, y yo me hice mis 
 leyes y me pasé sin Dios”. 
 
-![Atardecer en el Parque Natural Cabo de Gata-Níjar, donde se encuentra Rodalquilar.](etheria_images/2020/06/atardecer-almeria.jpg "Atardecer en el Parque Natural Cabo de Gata-Níjar, donde se encuentra Rodalquilar.")
+![Atardecer en el Parque Natural Cabo de Gata-Níjar, donde se encuentra Rodalquilar.](etheria-images/2020/06/atardecer-almeria.jpg "Atardecer en el Parque Natural Cabo de Gata-Níjar, donde se encuentra Rodalquilar.")
 
 Sin embargo, a muy temprana edad tuvo que salir de aquel paraíso, donde su padre, 
 vicecónsul de Portugal, poseía tierras y minas. La culpa la tuvo un matrimonio 
@@ -41,7 +41,7 @@ ejercer fugazmente la docencia en su pueblo, **huyó con su hija Maruja a Madrid
 escándalo de todos. Y mucho más cuando comenzó una relación sentimental con Ramón Gómez 
 de la Serna. 
 
-![Carmen de Burgos y una de sus obras.](etheria_images/2020/06/carmen-burgos-escritora.jpg "Carmen de Burgos y una de sus obras. © Fundación Carmen de Burgos Colombine")
+![Carmen de Burgos y una de sus obras.](etheria-images/2020/06/carmen-burgos-escritora.jpg "Carmen de Burgos y una de sus obras. © Fundación Carmen de Burgos Colombine")
 
 Sus dotes literarias le condujeron al periodismo y se convirtió, bajo el seudónimo de 
 **Colombine**, en la **primera mujer periodista profesional de España** –fue redactora 
@@ -55,7 +55,7 @@ literatura y el periodismo, a pesar de que escribió sin parar. Lo que nunca pud
 silenciar, sin embargo, fue la evocación que Carmen de Burgos había hecho de su feliz 
 infancia en ese lindo valle almeriense abrigado por “roquizas montañas”. 
 
-![Rodalquilar tiene una larga tradición minera.](etheria_images/2020/06/Rodalquila-Planta-Denver.jpg "Rodalquilar tiene una larga tradición minera.")
+![Rodalquilar tiene una larga tradición minera.](etheria-images/2020/06/Rodalquila-Planta-Denver.jpg "Rodalquilar tiene una larga tradición minera.")
 
 Si queremos transitar por los espacios de Carmen de Burgos en **Rodalquilar**, podemos 
 acercarnos hasta su **casa natal** (plaza de la Constitución, número 6), la vivienda 
@@ -70,7 +70,7 @@ pasear por sus apacibles y encaladas calles. Muy cerca de ese mar que tanto amó
 Colombine. Hoy la Fundación Carmen de Burgos Colombine, con sede en Madrid, honra su 
 memoria. 
 
-![Rosa Chacel y uno de sus libros más reconocidos.](etheria_images/2020/06/Rosa-Chacel-valladolid.jpg "La gran Rosa Chacel y uno de sus libros más reconocidos.")
+![Rosa Chacel y uno de sus libros más reconocidos.](etheria-images/2020/06/Rosa-Chacel-valladolid.jpg "La gran Rosa Chacel y uno de sus libros más reconocidos.")
 
 ## Rosa Chacel y Valladolid (1898-1994)
 
@@ -88,7 +88,7 @@ hasta que acabó **exiliada en Brasil** en 1939 con su marido, el pintor Timoteo
 Rubio. Aquella extrañeza del exilio duró hasta 1973, año en que se instala 
 definitivamente en Madrid. 
 
-![Rosa Chacel vuelve a Madrid tras su exilio.](etheria_images/2020/06/rosa-chacel-exilio.jpg "Rosa Chacel vuelve a Madrid tras su exilio. ©Archivos históricos")
+![Rosa Chacel vuelve a Madrid tras su exilio.](etheria-images/2020/06/rosa-chacel-exilio.jpg "Rosa Chacel vuelve a Madrid tras su exilio. ©Archivos históricos")
 
 Ya en democracia, en 1985, viuda y con serios apuros económicos, se planteó de nuevo 
 emigrar con su hijo Carlos a Brasil, pero su ciudad natal no lo permitió. La Diputación 
@@ -96,7 +96,7 @@ y el Ayuntamiento de Valladolid firmaron con la escritora **un convenio por el c
 recibiría una pensión vitalicia** a cambio de ceder su legado literario a la ciudad: su 
 biblioteca y 16 cajas de documentos. 
 
-![Escultura en la plaza del Poniente de Valladolid.](etheria_images/2020/06/rosa-chacel-valladolid.jpg "Escultura en la plaza del Poniente de Valladolid. ©Rondador")
+![Escultura en la plaza del Poniente de Valladolid.](etheria-images/2020/06/rosa-chacel-valladolid.jpg "Escultura en la plaza del Poniente de Valladolid. ©Rondador")
 
 Hoy, un **busto en bronce de Rosa Chacel**, realizado por Francisco Barón, preside el 
 célebre Campo Grande de Valladolid desde el día en que la escritora cumplió 90 años. 
@@ -110,7 +110,7 @@ del Cementerio El Carmen de Valladolid.
 > “Decir que yo no olvidé jamás esta tierra sería repetir algo que está bien demostrado”, 
 > dijo Rosa Chacel en Valladolid en 1994, poco antes de morir. 
 
-![vitoria, maria de maeztu, ruta escritoras](etheria_images/2020/06/vitoria-cuna-maria-maeztu.jpg "Vitoria, cuna de María de Maeztu.")
+![vitoria, maria de maeztu, ruta escritoras](etheria-images/2020/06/vitoria-cuna-maria-maeztu.jpg "Vitoria, cuna de María de Maeztu.")
 
 ## La Vitoria de María de Maeztu (1881-1948)
 
@@ -130,7 +130,7 @@ personales y su posterior muerte obligan al **traslado de la familia a Bilbao**,
 ciudad con más posibilidades laborales, donde María aprende idiomas en la Academia 
 Anglo-Francesa que funda su madre. 
 
-![maria maeztu, ruta intelectuales espana](etheria_images/2020/06/Maria-Maeztu-ruta-escritoras.jpg "María de Maeztu posa en su despacho. © Fundación José Ortega y Gasset-Gregorio Marañón.")
+![maria maeztu, ruta intelectuales espana](etheria-images/2020/06/Maria-Maeztu-ruta-escritoras.jpg "María de Maeztu posa en su despacho. © Fundación José Ortega y Gasset-Gregorio Marañón.")
 
 Parte de su trayectoria profesional como pedagoga se desarrolla en la **Escuela Normal 
 de Maestras de Vitoria**, donde había obtenido su título con la calificación de 
@@ -145,7 +145,7 @@ Universidad. Su cuerpo, envuelto en la bandera española como era su deseo, fue
 repatriado entre grandes honores y descansa en el **mausoleo familiar de Estella** 
 (Navarra). 
 
-![Parque de María de Maeztu, en Vitoria.](etheria_images/2020/06/parque-maria-maeztu.jpg "Parque de María de Maeztu, en Vitoria. © Zarateman")
+![Parque de María de Maeztu, en Vitoria.](etheria-images/2020/06/parque-maria-maeztu.jpg "Parque de María de Maeztu, en Vitoria. © Zarateman")
 
 Hoy la ciudad de Vitoria rinde homenaje a la ilustre intelectual con el **Parque María 
 de Maeztu**, situado entre Arechavaleta y Plaza de España, y con el **Auditorio del 

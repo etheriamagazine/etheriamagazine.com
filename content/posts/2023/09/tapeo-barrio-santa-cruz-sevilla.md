@@ -1,14 +1,14 @@
 ---
 title: "Bares, terrazas y restaurantes de alta cocina en el sevillano Barrio de Santa Cruz"
 date: 2023-09-04
-coverImage: etheria_images/2023/08/sevilla-cafe-santa-cruz-Local.jpg
+coverImage: etheria-images/2023/08/sevilla-cafe-santa-cruz-Local.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
-  - Alfredo
+authors: 
+  - Alfredo G. Reyes
 ---
 
 Te llevamos de la mano para que descubras la faceta gastronómica del sevillano Barrio de 
@@ -16,7 +16,7 @@ Santa Cruz a través de sus bares de toda la vida, las terrazas con las mejores 
 los restaurantes de cocina internacional que están modernizando el barrio. Acompáñanos 
 en la ruta más deliciosa por el corazón de Sevilla, te vas a chupar los dedos. 
 
-![Piscina y terraza del © hotel Los Seises.](etheria_images/2023/08/sevilla-santa-cruz-hotel-seises-piscina.jpg "Piscina y terraza del © hotel Los Seises.")
+![Piscina y terraza del © hotel Los Seises.](etheria-images/2023/08/sevilla-santa-cruz-hotel-seises-piscina.jpg "Piscina y terraza del © hotel Los Seises.")
 
 Año tras año, el sevillano barrio de Santa Cruz figura en los listados que publican las 
 principales publicaciones de viajes y estilo de vida como uno de los más bonitos y 
@@ -41,7 +41,7 @@ y tabernas como la **Bodega Santa Cruz Las Columnas** (Rodrigo Caro, 1), sin
 pretensiones, pero con muchas décadas de historia colgadas en sus paredes para acompañar 
 una cerveza bien tirada y uno de los molletes de pringá más buscados de la ciudad. 
 
-![mollete de pringá en Sevilla](etheria_images/2023/08/sevilla-santa-cruz-Mollete-Bodega-Santa-Cruz.jpg "Mollete de pringá, un clásico de © Santa Cruz Las Columnas.")
+![mollete de pringá en Sevilla](etheria-images/2023/08/sevilla-santa-cruz-Mollete-Bodega-Santa-Cruz.jpg "Mollete de pringá, un clásico de © Santa Cruz Las Columnas.")
 
 Aquí se puede abrir boca antes de comenzar la “procesión” por las barras de bar y 
 terrazas más populares del barrio, donde también tiene cabida **Las Teresas** 
@@ -60,7 +60,7 @@ en mano, durante esos atardeceres de intensos tonos dorados que regala la capita
 andaluza, el lugar es de esos que quedan para siempre en el recuerdo (y en la galería de 
 imágenes del teléfono móvil). 
 
-![terraza en el hotel los Seises con la Giralda al fondo](etheria_images/2023/08/bares-santa-cruz-sevilla-pura-vida.jpg "Pura Vida, la animada terraza en lo alto del © Hotel Los Seises.")
+![terraza en el hotel los Seises con la Giralda al fondo](etheria-images/2023/08/bares-santa-cruz-sevilla-pura-vida.jpg "Pura Vida, la animada terraza en lo alto del © Hotel Los Seises.")
 
 Se puede picotear en la terraza, pero una opción muy recomendable es bajar al 
 restaurante **El Patio de Pali** (elpatiodelpali.com), cuya carta firma el creativo 
@@ -72,7 +72,7 @@ temporada, aromatizado todo ello con trufa negra. Muy recomendable la degustaci�
 salazones y el llamado “jamón del mar” (ventresca de atún toro ahumada), con su puntito 
 del mejor aceite de oliva virgen extra, que para eso estamos en Andalucía. 
 
-![Arroz meloso con verduras y setas de El Patio de Pali en Sevilla](etheria_images/2023/08/santa-cruz-sevilla-EL-PATIO-DEL-PALI-arroz.jpg "Arroz meloso con verduras y setas de © El Patio de Pali.")
+![Arroz meloso con verduras y setas de El Patio de Pali en Sevilla](etheria-images/2023/08/santa-cruz-sevilla-EL-PATIO-DEL-PALI-arroz.jpg "Arroz meloso con verduras y setas de © El Patio de Pali.")
 
 ### Mucha historia en el Hotel Los Seises...
 
@@ -95,7 +95,7 @@ privilegiados clientes; por otro, una pequeña sala en la que disfrutar de los d
 platos de la carta, siempre con Japón como protagonista y alguna que otra preparación no 
 del todo conocida por estos lares. 
 
-![Cortes de pescado de la barra del restaurante © Kinu.](etheria_images/2023/08/sevilla-santa-cruz-restaurante-Kinu.jpg "Cortes de pescado de la barra del restaurante © Kinu.")
+![Cortes de pescado de la barra del restaurante © Kinu.](etheria-images/2023/08/sevilla-santa-cruz-restaurante-Kinu.jpg "Cortes de pescado de la barra del restaurante © Kinu.")
 
 También muy internacional es la propuesta culinaria de **Sed de México** 
 (sedemexico.es), restaurante cuyo lema es “Alta cocina mexicana en estado puro”. Hay 
@@ -108,7 +108,7 @@ vacuno), el shot baja (ostra sumergida en clamato con tajín y limón), las tort
 confit de pato, la sopa azteca, el mole o el caldo de piedra son algunas de las 
 propuestas imprescindibles de toda comanda. 
 
-![Mole del restaurante  Sed de México en Sevilla](etheria_images/2023/08/sevilla-santa-cruz-sed-de-mexico-Mole.jpg "Mole de © Sed de México.")
+![Mole del restaurante  Sed de México en Sevilla](etheria-images/2023/08/sevilla-santa-cruz-sed-de-mexico-Mole.jpg "Mole de © Sed de México.")
 
 ## Bares con nuevos aires tabernarios
 
@@ -118,7 +118,7 @@ con terraza que tiene concepto de neotaberna, en el que se puede tapear y disfru
 lo mejor y más variado de la cocina típica sevillana y andaluza, pero con la limpieza 
 visual (y objetiva) que se espera de un negocio del siglo actual. 
 
-![Interior del © Café Santa Cruz en Sevilla](etheria_images/2023/08/sevilla-cafe-santa-cruz-Local.jpg "Interior del © Café Santa Cruz.")
+![Interior del © Café Santa Cruz en Sevilla](etheria-images/2023/08/sevilla-cafe-santa-cruz-Local.jpg "Interior del © Café Santa Cruz.")
 
 Así, el interior es todo un espectáculo en cuanto a diseño, con una barra cuadrangular, 
 suelos de mosaico y madera y paredes de ladrillo de las que cuelgan grandes espejos para 
@@ -135,7 +135,7 @@ Un centro en el que conocer, a través de la completísima colección personal d
 de esta genial bailaora y coreógrafa, a los representantes fundamentales de este estilo 
 y cómo ha evolucionado su estética a lo largo del tiempo. 
 
-![Cuadro en el Museo del Baile Flamenco de Sevilla.](etheria_images/2023/08/sevilla-museo-flamenco-Sergio-Cruz.jpg "Cuadro en el © Museo del Baile Flamenco de Sevilla.")
+![Cuadro en el Museo del Baile Flamenco de Sevilla.](etheria-images/2023/08/sevilla-museo-flamenco-Sergio-Cruz.jpg "Cuadro en el © Museo del Baile Flamenco de Sevilla.")
 
 Para completar el recorrido y entender lo que el flamenco supone para esta tierra y su 
 gente, lo ideal es participar en alguno de los espectáculos de baile que tienen lugar en 

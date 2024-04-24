@@ -1,11 +1,11 @@
 ---
 title: "Islas Galápagos, consejos de Sania para visitar el paraíso perdido"
 date: 2023-04-09
-coverImage: etheria_images/2023/04/sania-galapagos-tortuga.jpg
+coverImage: etheria-images/2023/04/sania-galapagos-tortuga.jpg
 categories: 
   - historias-en-femenino
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -14,7 +14,7 @@ un paraíso natural de los que quedan pocos en el planeta. Nos cuenta su experie
 un crucero para buceadores con inmersiones únicas y sus impresiones de la maravillosa 
 isla de Isabela. Una emocionante etapa de su viaje que no olvidará jamás. 
 
-![Sania Jelic y una tortuga](etheria_images/2023/04/sania-galapagos-tortuga.jpg "Sania Jelic en las islas Galápagos. © SJ")
+![Sania Jelic y una tortuga](etheria-images/2023/04/sania-galapagos-tortuga.jpg "Sania Jelic en las islas Galápagos. © SJ")
 
 He tenido que esperar 20 años para, por fin, pisar las **islas Galápagos**. Mis 
 expectativas eran altas pero han sido superadas con creces… Vine porque quería ver 
@@ -33,7 +33,7 @@ muchas en versión “negra” por la adaptación al color del suelo volcánico.
 gallinas y gorriones son totalmente negros! **Visitar las islas Galápagos** ha sido como 
 vivir dentro de un documental de National Geographic. 
 
-![dos piqueros patiazules en Galápagos](etheria_images/2023/04/sania-galapagos-piquero-patiazul.jpg "Los piqueros patiazules es una de las especies que se pueden ver en Galápagos. © SJ")
+![dos piqueros patiazules en Galápagos](etheria-images/2023/04/sania-galapagos-piquero-patiazul.jpg "Los piqueros patiazules es una de las especies que se pueden ver en Galápagos. © SJ")
 
 ## Dónde están las islas Galápagos
 
@@ -56,7 +56,7 @@ marines controlan la seguridad en los muelles y en las embarcaciones revisando l
 listas de pasajeros, y la disponibilidad y el uso correcto de los chalecos salvavidas. 
 ¡Incluso toman fotos de los pasajeros con los chalecos puestos! 
 
-![Isla Bartolomé en las islas Galápagos.](etheria_images/2023/04/sania-galapagos-paisaje.jpg "Isla Bartolomé. © SJ.")
+![Isla Bartolomé en las islas Galápagos.](etheria-images/2023/04/sania-galapagos-paisaje.jpg "Isla Bartolomé. © SJ.")
 
 El turismo es la principal actividad económica del archipiélago, cada año puede entrar 
 un máximo de unos 250.000 visitantes. A primera vista, me pareció que un 60% de los 
@@ -94,7 +94,7 @@ si aplica (hay que llevar traje seco o neopreno de 7 mm), curso Nitrox (es prác
 obligatorio por el tipo de inmersiones que se hacen) y propinas (suelen ser desde 150 € 
 hasta un 10% del precio del viaje). 
 
-![Sania con neopreno para bucear](etheria_images/2023/04/sania-galapagos-buceo.jpg "Sania disfrutando de la semana de buceo. © SJ.")
+![Sania con neopreno para bucear](etheria-images/2023/04/sania-galapagos-buceo.jpg "Sania disfrutando de la semana de buceo. © SJ.")
 
 Antes de la pandemia había que hacer la reserva con casi un año de antelación. Ahora la 
 actividad se está retomando y es posible conseguir reserva unos meses antes. Hice la 
@@ -133,7 +133,7 @@ de esos en aguas turbias. Son inofensivos para los humanos ya que se alimentan s
 plancton. Por fin vi a las iguanas comiendo bajo el mar, y pude jugar con los curiosos y 
 juguetones leones marinos. 
 
-![Tiburón en las islas Galápagos.](etheria_images/2023/04/sania-galapagos-tiburon.jpg "Tiburón en las islas Galápagos. © SJ.")
+![Tiburón en las islas Galápagos.](etheria-images/2023/04/sania-galapagos-tiburon.jpg "Tiburón en las islas Galápagos. © SJ.")
 
 ## Desconexión digital
 
@@ -150,7 +150,7 @@ infraestructura por parte de los turistas, por lo que se convierte en un sitio n
 para nómadas digitales. Y no hay previsión de implantar fibra óptica, sólo ampliarán 
 algo la estructura actual de conexión por satélite. 
 
-![Leones marinos en las islas Galápagos.](etheria_images/2023/04/sania-galapagos-leones-marinos.jpg "Sania con leones marinos en las islas Galápagos. © SJ")
+![Leones marinos en las islas Galápagos.](etheria-images/2023/04/sania-galapagos-leones-marinos.jpg "Sania con leones marinos en las islas Galápagos. © SJ")
 
 ## Isla Santa Cruz
 
@@ -179,7 +179,7 @@ volcán activo Monas de Azufre, donde se pueden observar los característicos �
 parásito” o realizar caminatas al Muro de las Lágrimas, antaño una zona penitenciaria, 
 que cuenta con un bonito mirador. 
 
-![guía explicando la flora en las islas Galápagos](etheria_images/2023/04/sania-galapagos-excursion.jpg "Las excursiones guiadas son imprescindibles en Galápagos. © SJ.")
+![guía explicando la flora en las islas Galápagos](etheria-images/2023/04/sania-galapagos-excursion.jpg "Las excursiones guiadas son imprescindibles en Galápagos. © SJ.")
 
 ### Qué hacer en isla Isabela
 
@@ -207,7 +207,7 @@ elección de una reina. Sólo había tren candidatas y ganó la joven Domenica d
 El despliegue de trajes era impresionante, me recordó un poco a los carnavales en Gran 
 Canaria. 
 
-![iguana en la playa en las Galápagos](etheria_images/2023/04/sania-galapagos-iguana.jpg "Playa en las islas Galápagos. © SJ")
+![iguana en la playa en las Galápagos](etheria-images/2023/04/sania-galapagos-iguana.jpg "Playa en las islas Galápagos. © SJ")
 
 Isla Isabela es un lugar muy recomendable para desconectar completamente, comer bien, 
 descansar, pasear por las playas y empaparse del mundo Jurásico (aquí se rodó 'Jurasic 

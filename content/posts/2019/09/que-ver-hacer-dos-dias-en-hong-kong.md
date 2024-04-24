@@ -1,18 +1,18 @@
 ---
 title: "Hong Kong, qué hacer en una escapada a la jungla de asfalto"
 date: 2019-09-06
-coverImage: etheria_images/2019/08/shangay-tang-hong-kong-e1567194915790.jpg
+coverImage: etheria-images/2019/08/shangay-tang-hong-kong-e1567194915790.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Hong Kong es el paraíso del asfalto. Su ritmo trepidante y la inmensa oferta de _shopping_ la rotulan como una de las ciudades más energéticas del mundo. Esta puede ser la escapada urbana que estabas buscando para hacer con tus amigas.
 
-![hong kong, que ver en hongkong](etheria_images/2019/08/kong-kong-e1567182262185.jpg "Atmósfera enigmática en Hong Kong. ©PB")
+![hong kong, que ver en hongkong](etheria-images/2019/08/kong-kong-e1567182262185.jpg "Atmósfera enigmática en Hong Kong. ©PB")
 
 El urbanismo de Hong Kong está hecho para la prisa. Una **mezcla euroasiática** se mueve 
 entre las escaleras mecánicas, puentes y pasadizos que acortan la distancia por sus 
@@ -27,7 +27,7 @@ Pero Pekín, de boca de la 'jefa ejecutiva' de Hong Kong, Carrie Lam, se ha echa
 atrás en su _promesa_ intentando decretar la ley de extradición, lo que ha provocado 
 masivas manifestaciones que han llevado a China, de momento, a paralizar la orden. 
 
-![autobuses hong kong](etheria_images/2019/08/hong-kong-que-ver-e1567182537259.jpg "Autobús de dos pisos en Hong Kong. ©PB")
+![autobuses hong kong](etheria-images/2019/08/hong-kong-que-ver-e1567182537259.jpg "Autobús de dos pisos en Hong Kong. ©PB")
 
 #### Autobuses, taxis, ferris y sampanes, la cuestión es moverse
 
@@ -57,7 +57,7 @@ ciudad, sin restarle importancia a los tres esperados días que dura la competic
 estadio de Hong Kong se llena de hinchas que, jarra de cerveza en mano, animan a los 
 equipos, especialmente a Samoa, Fiji y Nueva Zelanda, vencedores habituales. 
 
-![puerto hong kong](etheria_images/2019/08/puerto-hong-kong-e1567191921260.jpg "Puerto de Hong Kong. ©PB")
+![puerto hong kong](etheria-images/2019/08/puerto-hong-kong-e1567191921260.jpg "Puerto de Hong Kong. ©PB")
 
 ## Qué ver y hacer en Hong Kong
 
@@ -72,7 +72,7 @@ bella –y también cruenta– historia del té. Durante la ceremonia en su _Cas
 desvelan los secretos para elaborar una exquisita infusión, cómo servirlo, en qué 
 recipientes y las propiedades de cada tipo de hierba. 
 
-![Shangay Tang Hong Kong](etheria_images/2019/08/shangay-tang-hong-kong-e1567194915790.jpg "Tienda © Shangay Tang en Hong Kong.")
+![Shangay Tang Hong Kong](etheria-images/2019/08/shangay-tang-hong-kong-e1567194915790.jpg "Tienda © Shangay Tang en Hong Kong.")
 
 ### Shanghai Tang, la tienda más bonita de Hong Kong
 
@@ -85,7 +85,7 @@ adapta el diseño oriental a los tiempos modernos con sedas de vivos colores y s
 cachemires, convirtiendo su ropa y su tienda en un clásico de Hong Kong que en 2006 fue 
 adquirida por la compañía suiza Richemont. 
 
-![shangrila hong kong](etheria_images/2019/08/shangrila-hongkong.jpg "Lounge del hotel de lujo © Shangri-La (Hong Kong).")
+![shangrila hong kong](etheria-images/2019/08/shangrila-hongkong.jpg "Lounge del hotel de lujo © Shangri-La (Hong Kong).")
 
 ### El Club de la China
 
@@ -112,7 +112,7 @@ Los sampanes regresan del mar directos al **mercado de Aberdeen** para subastar 
 fresco botín. A veces los peces se exponen a corazón abierto y latiente, _bocado_ 
 delicioso para los hongkoneses. 
 
-![jardin na lian hong kong](etheria_images/2019/08/jardin-nan-lian.jpg "Jardín Na Lian, en Kowloon. © Rajiv Bajaj")
+![jardin na lian hong kong](etheria-images/2019/08/jardin-nan-lian.jpg "Jardín Na Lian, en Kowloon. © Rajiv Bajaj")
 
 ### Los templos budistas
 
@@ -122,7 +122,7 @@ bordean el templo interpretará de forma poética. Otros templos que también me
 visita son los conjuntos budistas del **monasterio Chi Lin**, en Diamond Hill, Kowloon, 
 y **Tin Hau Temple**, cercano a la calle Temple, en Kowloon. 
 
-![noche hong kong, salir en hong kong](etheria_images/2019/08/hong-kong-viaje-mujeres.jpg "Noche en Hong Kong.")
+![noche hong kong, salir en hong kong](etheria-images/2019/08/hong-kong-viaje-mujeres.jpg "Noche en Hong Kong.")
 
 ## Vivir la noche de Hong Kong
 
@@ -141,7 +141,7 @@ del mundo. Es todo un espectáculo ver la sinfonía lumínica de una ciudad que 
 estar a oscuras y recibe la noche alumbrando de todos los colores sus cientos de 
 rascacielos en una refulgente competencia. 
 
-![Audrey Hepburn en el Museo de Cera hong kong](etheria_images/2019/08/audrey-hepburn-museo-cera-hong-kong.jpg "Audrey Hepburn en el Museo de Cera.")
+![Audrey Hepburn en el Museo de Cera hong kong](etheria-images/2019/08/audrey-hepburn-museo-cera-hong-kong.jpg "Audrey Hepburn en el Museo de Cera.")
 
 ### Lau Kwai Fong, cocinas del mundo
 
@@ -161,7 +161,7 @@ todo tipo de tiendas, **mercados como _Ladies Market_**, el Mercado de las Flore
 los Pájaros, bares de karaoke, salones de masaje y una apabullante efervescencia 
 lumínica. 
 
-![Mercado nocturno de Temple Street hong kong](etheria_images/2019/08/mercado-nocturno-hong-kong.jpg "Mercado nocturno de Temple Street. © Steven Wei / Unsplash")
+![Mercado nocturno de Temple Street hong kong](etheria-images/2019/08/mercado-nocturno-hong-kong.jpg "Mercado nocturno de Temple Street. © Steven Wei / Unsplash")
 
 ### Shenzhen, las mejores imitaciones de Hong Kong
 

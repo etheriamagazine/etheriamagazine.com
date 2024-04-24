@@ -1,13 +1,13 @@
 ---
 title: "Fakarava, el paraíso de la perla negra de Polinesia"
 date: 2019-01-08
-coverImage: etheria_images/2019/01/Polinesia-francesa-perlas-negras-4.jpg
+coverImage: etheria-images/2019/01/Polinesia-francesa-perlas-negras-4.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-romanticos
   - viajes-para-mujeres
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 El océano Pacífico rinde homenaje a Tahití y sus Islas concentrando en la esfera 
@@ -15,7 +15,7 @@ nacarada de la perla negra sus tonos oscuros de borrasca y tempestad. Un viaje a
 Polinesia francesa nos permite conocer todas las curiosidades en torno a estas 
 maravillas de la naturaleza. Descubre las maravillas de la perla negra de Polinesia. 
 
-![Mujer polinesia con flor en el pelo](etheria_images/2019/01/Polinesia-francesa-perlas-negras-mujer-1024x671.jpg "Mujer polinesia.")
+![Mujer polinesia con flor en el pelo](etheria-images/2019/01/Polinesia-francesa-perlas-negras-mujer-1024x671.jpg "Mujer polinesia.")
 
 La Polinesia Francesa, un destino perfecto para viajar sola o en compañía, invita a 
 observarla desde el aire y descubrirla bajo el mar. Por la ventanilla del avión se 
@@ -34,7 +34,7 @@ El agua mansa y turquesa de la laguna se oscurece allí con el azul de la mar br
 intenta romper la paz del atolón, pero lo único que consigue es un torbellino marino en 
 el que la naturaleza mezcla en su paleta los más hermosos azules. 
 
-![perlas negras de tahiti](etheria_images/2019/01/Polinesia-francesa-perlas-negras-4-1024x687.jpg "Las perlas de Tahití se generan en la ostra de labio negro Pinctata Margaritifera.")
+![perlas negras de tahiti](etheria-images/2019/01/Polinesia-francesa-perlas-negras-4-1024x687.jpg "Las perlas de Tahití se generan en la ostra de labio negro Pinctata Margaritifera.")
 
 ## Las joyas de Polinesia
 
@@ -52,9 +52,9 @@ tuvieran la suerte de encontrar una ostra a la que accidentalmente se le hubiera
 un grano de arena o de coral dentro de su concha para, al no poder expulsarlo, 
 protegerse aislándolo con secreciones de nácar, creando así la madreperla. 
 
-![Pescador de ostras en Polinesia](etheria_images/2019/01/Polinesia-francesa-perlas-negras-3-1024x683.jpg "El atolón de Fakarava, con sus aguas cristalinas, es el paraíso de las ostras.")
+![Pescador de ostras en Polinesia](etheria-images/2019/01/Polinesia-francesa-perlas-negras-3-1024x683.jpg "El atolón de Fakarava, con sus aguas cristalinas, es el paraíso de las ostras.")
 
-## En el atolón de Fakarava se suceden las granjas de perla negra
+## Las granjas de perla negra de atolón de Fakarava
 
 El atolón de Fakarava, en el archipiélago de los Tuamotu, con sus aguas cristalinas, sin 
 contaminar, es el paraíso de las perlas. Una granja tras otra se suceden a la orilla del 
@@ -69,7 +69,7 @@ sacarán a la superficie cada tres meses, para sanearlas de nuevo, hasta que cum
 catorce meses necesarios para que la ostra enferme y se forme la perla, cogiendo el 
 color de la capa de su madreperla. 
 
-![Pequeña isla en Polinesia](etheria_images/2019/01/Polinesia-francesa-perlas-negras8-1024x662.jpg "El azul del mar y el de cielo se confunden en las islas de Polinesia.")
+![Pequeña isla en Polinesia](etheria-images/2019/01/Polinesia-francesa-perlas-negras8-1024x662.jpg "El azul del mar y el de cielo se confunden en las islas de Polinesia.")
 
 En las granjas de Fakarava se ve a los “cirujanos” abrir con precisión la concha para 
 introducir en su interior una bolita de nácar y un trocito de epitelio de otro bivalvo y 
@@ -79,7 +79,7 @@ las estadísticas fluctúa entre el 5 y el 7 por ciento de la producción.
 > La perfección de la perla se valora por la lisura de su esfera, una redondez perfecta, 
 > por el diámetro que suele oscilar entre 8-16 mm y, finalmente, por el tono. 
 
-### Mitología Polinesia
+## Mitología Polinesia
 
 Para la mitología polinesia, las perlas tienen su luz propia interior y pertenecen a Rua 
 Hatu, dios del mar, que las utiliza para alumbrar su reinado. Sin embargo, fue Oro, dios 
@@ -94,7 +94,7 @@ por la Tierra.
 > ejemplo de belleza como resultado de la imperfección en Polinesia, la perla negra 
 > siempre ha sido objeto de bellas leyendas y símbolo de realeza y unicidad. 
 
-### Motor económico en las islas
+## Las perlas, el motor económico en las islas
 
 El cultivo de las perlas es uno de los principales negocios de las islas; complemento 
 ideal para el turismo que las visita por el placer de ver y comprar joyas únicas y 
@@ -104,7 +104,7 @@ y de chinos emigrantes, a los que se les permite tener, a la espalda de los barr
 su huerto particular. Mientras cultivan las perlas del mar, hacen lo mismo con sus 
 lechugas y otros vegetales que luego venden a domicilio cargados en sus bicicletas. 
 
-![Granjas donde se sumergen las ostras para que críen las perlas en Polinesia](etheria_images/2019/01/Polinesia-francesa-perlas-negras-5-1024x702.jpg "Granjas donde se sumergen las ostras para que críen las perlas.")
+![Granjas donde se sumergen las ostras para que críen las perlas en Polinesia](etheria-images/2019/01/Polinesia-francesa-perlas-negras-5-1024x702.jpg "Granjas donde se sumergen las ostras para que críen las perlas.")
 
 Estos detalles, y muchos más, los explica Valentina, encargada de la biosfera. Tras la 
 visita al mundo de las perlas, nos conduce a la playa donde espera una lancha con un 
@@ -128,9 +128,9 @@ Valentina, antaño en cada "motu" vivía una familia y de cuando en cuando habí
 tribales por el tema inmobiliario del archipiélago y la familia vencedora embargaba el 
 "motu" de la otra como botín. 
 
-![Niña con corona de flores en Polinesia](etheria_images/2019/01/Polinesia-francesa-perlas-negras-9-1024x683.jpg "Niña con corona de flores en Polinesia.")
+![Niña con corona de flores en Polinesia](etheria-images/2019/01/Polinesia-francesa-perlas-negras-9-1024x683.jpg "Niña con corona de flores en Polinesia.")
 
-### Riqueza natural en los “motus”
+## Riqueza natural en los “motus”
 
 Los "motus" no son todos iguales. La riqueza desbordante de la biosfera del atolón hace 
 que prácticamente cada islote tenga su particularidad. En unos crece el cocotero o el 
@@ -150,7 +150,9 @@ aminora la velocidad, se detiene en medio del atolón y nos invita a andar por l
 Valentina es la primera en saltar y, ante la perplejidad del resto, camina por la lengua 
 de arena tan blanca, tan impoluta, que se confunde con el agua y apenas se le adivina. 
 
-![Pueblo en Polinesia](etheria_images/2019/01/Polinesia-francesa-perlas-negras-6-1024x683.jpg "En los pueblos del archipiélago vive una población sencilla y agradable.")
+![Pueblo en Polinesia](etheria-images/2019/01/Polinesia-francesa-perlas-negras-6-1024x683.jpg "En los pueblos del archipiélago vive una población sencilla y agradable.")
+
+## Tetamanu
 
 La barca se dirige a **Tetamanu**, el pueblecito donde se encuentra la entrada sur del 
 atolón. Un 'village', unas cuantas casas, una de las iglesias católicas más antiguas de 
@@ -196,7 +198,7 @@ Hinano](https://tahititourisme.com/en-us/business/hinano-pearls/).
 
 • **Museo de Perlas de Papeete** (robertwan.com). 
 
-? **También te puede interesar:** 
+**También te puede interesar:** 
 
 [Islas Maldivas, mucho más que un destino para lunas de 
 miel](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-surf/) 

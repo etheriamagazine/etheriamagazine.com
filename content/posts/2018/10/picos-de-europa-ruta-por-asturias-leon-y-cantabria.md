@@ -1,18 +1,18 @@
 ---
 title: "Picos de Europa, una ruta por la columna vertebral de Asturias, León y Cantabria"
 date: 2018-10-17
-coverImage: etheria_images/2018/10/LAGOS-DE-COVADONGA.jpg
+coverImage: etheria-images/2018/10/LAGOS-DE-COVADONGA.jpg
 categories: 
   - viajes-48-horas
   - de-un-vistazo
   - planes-cultura-ocio
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Las relaciones entre vecinos, ya se sabe, encierran 'amorodios' ancestrales. Los piques entre pueblos, provincias y comarcas fronterizas sólo se dejan atrás en contadas ocasiones. Como ésta, porque cuando se trata de custodiar la joya montañosa que cántabros, asturianos y leoneses comparten, la cosa cambia. Ahí todos sacan pecho por el tesoro en común.
 
-![mirador de fuente picos de europa](etheria_images/2018/10/Mirador-de-fuente-de-cantabria-699x1024.jpg "Mirador de Fuente Dé. © Turismo de Cantabria. (Cantur S.A.)")
+![mirador de fuente picos de europa](etheria-images/2018/10/Mirador-de-fuente-de-cantabria-699x1024.jpg "Mirador de Fuente Dé. © Turismo de Cantabria. (Cantur S.A.)")
 
 Ya ha pasado más de un siglo desde que Picos de Europa fuese declarado Parque Nacional 
 por el rey Alfonso XIII, y en Etheria Magazine hemos comprobado que este espacio natural 
@@ -21,7 +21,7 @@ rincones que te recomendamos es el más atractivo te lo dejamos a ti.
 
 > ⚠️ Advertencia: este artículo sobre Picos de Europa puede producir quesoadicción 
 
-![ruta del cares en picos de europa](etheria_images/2018/10/RUTA-DEL-CARES-768x1024.jpg "Ruta del Cares. © Kelu Robles.")
+![ruta del cares en picos de europa](etheria-images/2018/10/RUTA-DEL-CARES-768x1024.jpg "Ruta del Cares. © Kelu Robles.")
 
 ## 1\. Ruta del Cares, la Garganta Divina
 
@@ -43,7 +43,7 @@ Picos de Europa](http://www.quesospicosdeeuropa.com/), los hermanos Tomás y Jav
 Alonso elaboran tarros de este tipo de queso desde hace más de 35 años, y sus productos 
 cuentan con diversos premios gastronómicos nacionales e internacionales. 
 
-![naranjo de bulnes picos de europa](etheria_images/2018/10/Naranjo-de-Bulnes-Pico-Urriellu-1024x683.jpg "Naranjo de Bulnes. Pico de Urriellu. © Manuel S.Calvo/ Turismo de Asturias")
+![naranjo de bulnes picos de europa](etheria-images/2018/10/Naranjo-de-Bulnes-Pico-Urriellu-1024x683.jpg "Naranjo de Bulnes. Pico de Urriellu. © Manuel S.Calvo/ Turismo de Asturias")
 
 ## 2\. Naranjo de Bulnes, el Picu Urriellu de Cabrales
 
@@ -59,7 +59,7 @@ Como en Etheria Magazine somos gente legal y no nos gusta delinquir, te animamos
 probarlo en las tabernas del concejo. Lo puedes acompañar por un buen pedazo de pan de 
 escanda, un cereal típico del centro de Asturias cuyo cultivo se ha recuperado. 
 
-![Fuente De cantabria](etheria_images/2018/10/Fuente-de-viajes-etheria-1024x665.jpg "Fuente Dé. © Turismo de Cantabria (Cantur S.A.)")
+![Fuente De cantabria](etheria-images/2018/10/Fuente-de-viajes-etheria-1024x665.jpg "Fuente Dé. © Turismo de Cantabria (Cantur S.A.)")
 
 ## 3\. Fuente Dé, el balcón de Cantabria
 
@@ -81,7 +81,7 @@ lebaniego, el queso de Tresviso y, de postre, la torrija de sobao. En la carta d
 de Fuente Dé](http://www.parador.es/es/paradores/parador-de-fuente-de) nunca faltan 
 estas opciones. 
 
-![lagos de covadonga asturias](etheria_images/2018/10/LAGOS-DE-COVADONGA-1024x683.jpg "Lagos de Covadonga (Asturias).")
+![lagos de covadonga asturias](etheria-images/2018/10/LAGOS-DE-COVADONGA-1024x683.jpg "Lagos de Covadonga (Asturias).")
 
 ## 4\. Lagos de Covadonga
 
@@ -99,7 +99,7 @@ salvajes —en peligro de extinción—, robles, hayas, fresnos, castaños, enci
 orquídeas. Recuerda que el parque es Reserva de la Biosfera, por lo que en temporada 
 alta el acceso a los lagos sólo es posible en transporte público. 
 
-![puente romano cangas de onis asturias](etheria_images/2018/10/Cangas-de-Onis-Puente-Romano-1024x750.jpg "Puente Romano (Cangas de Onís). © Ayuntamiento de Cangas de Onís")
+![puente romano cangas de onis asturias](etheria-images/2018/10/Cangas-de-Onis-Puente-Romano-1024x750.jpg "Puente Romano (Cangas de Onís). © Ayuntamiento de Cangas de Onís")
 
 ## 5\. Cangas de Onís, el peso de la historia
 

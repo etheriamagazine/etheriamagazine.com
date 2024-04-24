@@ -1,10 +1,10 @@
 ---
 title: "Barra libre de ansiolíticos y antidepresivos, ¿se medicalizan los problemas sociales?"
 date: 2021-04-14
-coverImage: etheria_images/2021/04/ansioliticos-mujeres.jpg
+coverImage: etheria-images/2021/04/ansioliticos-mujeres.jpg
 categories: 
   - salud-bienestar-nutricion
-author: 
+authors: 
   - Maria Miret
 ---
 
@@ -15,7 +15,7 @@ prudencia ante ansiolíticos, antidepresivos y calmantes, aunque reconocen que �
 está sufriendo y el uso de estos medicamentos puede estar paliando la situación de 
 angustia". 
 
-![mujer deprimida](etheria_images/2021/04/mujer-pastillas-antidepresion.jpg "Es más rápido extender una receta que ahondar en el problema. © Ben White")
+![mujer deprimida](etheria-images/2021/04/mujer-pastillas-antidepresion.jpg "Es más rápido extender una receta que ahondar en el problema. © Ben White")
 
 Si yo digo Diazepam, Valium, Lorazepam, Trankimazin o Lexatin, ¿por qué todos sabemos de 
 lo que estoy hablando? Si estuviera hablando de medicamentos para el riñón o para el 
@@ -36,7 +36,7 @@ comenzara la pandemia. Entre ellos destacan los **ansiolíticos** (un 58,7%) y l
 dormir**. Casi el 69% lo ha tomado por lo menos durante tres meses y un 77% sigue 
 tomándolos en la actualidad debido a algún trastorno mental. 
 
-![antidepresivos y ansioliticos durante la pandemia](etheria_images/2021/04/ansioliticos-mujeres.jpg "Un 5,8% de la población ha recibido un tratamiento psicofarmacológico desde que comenzara la pandemia. © Elsa Olofsson")
+![antidepresivos y ansioliticos durante la pandemia](etheria-images/2021/04/ansioliticos-mujeres.jpg "Un 5,8% de la población ha recibido un tratamiento psicofarmacológico desde que comenzara la pandemia. © Elsa Olofsson")
 
 ## “Muchos problemas sociales están siendo medicalizados”
 
@@ -70,7 +70,7 @@ personas que no se hacen cargo de su vida, o que intentan resolver problemas
 psicológicos, sociales o incluso económicos sin asumir responsabilidades ni dar 
 soluciones, sino solamente **anestesiando su malestar**”. 
 
-![ansioliticos y calmantes para el sufrimiento](etheria_images/2021/04/ansioliticos-sufrimiento.jpg "Este tipo de medicación anestesia o enmascara el sufrimiento. © Little plant")
+![ansioliticos y calmantes para el sufrimiento](etheria-images/2021/04/ansioliticos-sufrimiento.jpg "Este tipo de medicación anestesia o enmascara el sufrimiento. © Little plant")
 
 ## Adicción a los ansiolíticos, un problema real
 
@@ -106,7 +106,7 @@ de Roberto Sánchez, presidente de la **plataforma Nogracias** (nogracias.org). 
 ejemplo el imsomnio: “en vez de intentar técnicas que puedan ayudar a mejorarlo, le 
 sueltas la pastilla”. 
 
-![mujer pastillas ansioliticos](etheria_images/2021/04/pastillas-ser-feliz.jpg "En las consulta se recurre al alivio rápido de los síntomas. © Sydney Sims")
+![mujer pastillas ansioliticos](etheria-images/2021/04/pastillas-ser-feliz.jpg "En las consulta se recurre al alivio rápido de los síntomas. © Sydney Sims")
 
 ## Durante la pandemia “ha habido prescripción de gatillo fácil”
 
@@ -122,7 +122,7 @@ verdad que esto ha hecho que haya aumentado la prescripción cogida por los pelo
 reconoce. Sin embargo, en su opinión en Atención Primaria “hay una **conciencia de 
 intentar medicalizar lo menos posible**”. 
 
-![el peligro de los calmantes y ansioliticos](etheria_images/2021/04/peligro-ansioliticos-pastillas-dormir.jpg ""A veces, medicar es la única opción hasta que el paciente puede ser atendido por un profesional de la salud mental".")
+![el peligro de los calmantes y ansioliticos](etheria-images/2021/04/peligro-ansioliticos-pastillas-dormir.jpg ""A veces, medicar es la única opción hasta que el paciente puede ser atendido por un profesional de la salud mental".")
 
 ## Los médicos de familia pasan consulta cada 4 minutos
 
@@ -140,7 +140,7 @@ todas adecuadas. No hay ni un solo médico que pueda presumir de prescribir siem
 correcto, pero de ahí a que los médicos hagamos un mal uso de los medicamentos, habría 
 que mirarlo con detalle”, asegura. 
 
-![consumo de antidepresivos para ansiedad](etheria_images/2021/04/tratamiento-ansiedad.jpg ""Este tipo de fármacos deberían prescribirse, si fueran necesarios, de forma transitoria". © Abbie Bernet")
+![consumo de antidepresivos para ansiedad](etheria-images/2021/04/tratamiento-ansiedad.jpg ""Este tipo de fármacos deberían prescribirse, si fueran necesarios, de forma transitoria". © Abbie Bernet")
 
 ## “No hay recursos comunitarios para abordar este tipo de problemas”
 
@@ -168,7 +168,7 @@ si esa situación de sufrimiento se pasa de lo normal, le pones el medicamento�
 Roberto Sánchez, presidente de _Nogracias_, que recuerda que el consumo “aumenta porque 
 hay alguien que lo prescribe”. 
 
-![farmacia con medicinas](etheria_images/2021/04/prescripcion-medica-pastillas.jpg "Los antidepresivos no se deben recetar a la ligera.")
+![farmacia con medicinas](etheria-images/2021/04/prescripcion-medica-pastillas.jpg "Los antidepresivos no se deben recetar a la ligera.")
 
 ## “Hay un arte en el tipo de medicación, son palabras mayores y hay que ser muy prudente”
 

@@ -1,13 +1,13 @@
 ---
 title: "10 exposiciones en Madrid para vivir el arte (2020-2021)"
 date: 2020-10-13
-coverImage: etheria_images/2020/10/exposiciones-madrid-expresionismo-aleman-thyssen.jpg
+coverImage: etheria-images/2020/10/exposiciones-madrid-expresionismo-aleman-thyssen.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La cultura siempre es un buen plan, y Madrid no se para en cuanto a la oferta de 
@@ -15,7 +15,7 @@ exposiciones durante este otoño tan raro. Aquí te proponemos 10 de ellas que s
 apetecibles e imprescindibles a partes iguales y que se pueden visitar con total 
 tranquilidad siguiendo las medidas anticovid estipuladas. 
 
-![Falenas carlos Verger exposicion invitadas museo del prado](etheria_images/2020/10/exposicion-invitadas-museo-el-prado.jpg "Falenas Carlos Verger Fioretti (1872 - 1929). © Museo del Prado")
+![Falenas carlos Verger exposicion invitadas museo del prado](etheria-images/2020/10/exposicion-invitadas-museo-el-prado.jpg "Falenas Carlos Verger Fioretti (1872 - 1929). © Museo del Prado")
 
 ## 1\. ‘Invitadas. Fragmentos sobre mujeres, ideología y artes plásticas en España (1833-1931)’ en el Museo del Prado.
 
@@ -30,7 +30,7 @@ Lugar: Museo del Prado (salas A y B del Edificio Jerónimos). Fecha: hasta el 14
 de 2021. Precio: entrada genera 15 Euros, reducida 7,50 Euros (consulta horarios de 
 visitas gratuitas). 
 
-![Fernando Botero en Madrid.](etheria_images/2020/10/exposiciones-madrid-botero.jpg "'The Arnolfini según Van Eyck' de Fernando Botero.")
+![Fernando Botero en Madrid.](etheria-images/2020/10/exposiciones-madrid-botero.jpg "'The Arnolfini según Van Eyck' de Fernando Botero.")
 
 ## 2\. ‘Botero. 60 años de pintura’ en CentroCentro.
 
@@ -44,7 +44,7 @@ Religión, La Corrida, Circo y Acuarela sobre lienzo.
 Lugar: CentroCentro. Fecha: hasta el 7 de febrero de 2021. Precio: entrada general 12 
 Euros, reducida 9 Euros. 
 
-![Pop Art en Madrid.](etheria_images/2020/10/exposiciones-madrid-cosmocaixa-popart.jpg "'Girl/Spray Can from Walasse Ting. 1¢ Life, 1963' de Roy Lichtenstein. © The Trustees of the British Museum. © Estate of Roy Lichtenstein/All rights reserved/ VEGAP 2020.")
+![Pop Art en Madrid.](etheria-images/2020/10/exposiciones-madrid-cosmocaixa-popart.jpg "'Girl/Spray Can from Walasse Ting. 1¢ Life, 1963' de Roy Lichtenstein. © The Trustees of the British Museum. © Estate of Roy Lichtenstein/All rights reserved/ VEGAP 2020.")
 
 ## 3\. ‘El sueño americano: del pop a la actualidad’ en Caixaforum Madrid.
 
@@ -59,7 +59,7 @@ son del British Museum.
 
 Lugar: Caixaforum Madrid. Fecha: hasta el 31 de enero de 2021. Precio: 6 Euros. 
 
-![Arte contemporáneo en Madrid.](etheria_images/2020/10/exposiciones-madrid-disonata-reina-sofia.jpg "Sala de la exposición 'Disonata. Arte en Sonido hasta 1980'. © Joaquín Cortés/Román Lones. Archivo fotográfico del Museo Reina Sofía.")
+![Arte contemporáneo en Madrid.](etheria-images/2020/10/exposiciones-madrid-disonata-reina-sofia.jpg "Sala de la exposición 'Disonata. Arte en Sonido hasta 1980'. © Joaquín Cortés/Román Lones. Archivo fotográfico del Museo Reina Sofía.")
 
 ## 4\. ‘Disonata. Arte en sonido hasta 1980’ en el Museo Reina Sofía.
 
@@ -74,7 +74,7 @@ de las formas musicales clásicas de la época.
 Lugar: Museo Nacional Centro de Arte Reina Sofía. Fecha: hasta el 1 de marzo. Precio: 
 entrada general 4 Euros (consulta horarios de visitas gratuitas). 
 
-![Museos de Madrid](etheria_images/2020/10/exposiciones-madrid-expresionismo-aleman-thyssen.jpg "'Casa en Dangast (La casa blanca) de Erich Heckel. Colección Carmen Thyssen Bornemisza. © VEGAP, Madrid.")
+![Museos de Madrid](etheria-images/2020/10/exposiciones-madrid-expresionismo-aleman-thyssen.jpg "'Casa en Dangast (La casa blanca) de Erich Heckel. Colección Carmen Thyssen Bornemisza. © VEGAP, Madrid.")
 
 ## 5\. ‘Expresionismo alemán’ en el Museo Thyssen. 
 
@@ -89,7 +89,7 @@ Lugar: sala de exposiciones temporales del Museo Thyssen (planta baja). Fecha: d
 octubre al 14 de marzo de 2021. Precio: 9 Euros general, 6 Euros tarifa reducida 
 (consultar condiciones). Lunes cerrado. 
 
-![Exposición Sorolla en Madrid](etheria_images/2020/10/exposiciones-madrid-sorolla.jpg "'Pescadoras valencianas', 1903. © Diputación de Valencia")
+![Exposición Sorolla en Madrid](etheria-images/2020/10/exposiciones-madrid-sorolla.jpg "'Pescadoras valencianas', 1903. © Diputación de Valencia")
 
 ## 6\. ‘Sorolla. Femenino Plural’ en el Museo Sorolla.
 
@@ -104,7 +104,7 @@ encontramos elegantes burguesas, actrices, amas de casa, bordadoras o campesinas
 Lugar: Museo Sorolla de Madrid. Fecha: hasta el 10 de enero de 2021. Precio: 3 Euros. 
 Lunes cerrado. 
 
-![Exposición de Egipto en Madrid](etheria_images/2020/10/exposiciones-madrid-tutankhamon.jpg "Exposición 'Tutankhamón. La tumba y sus tesoros'.")
+![Exposición de Egipto en Madrid](etheria-images/2020/10/exposiciones-madrid-tutankhamon.jpg "Exposición 'Tutankhamón. La tumba y sus tesoros'.")
 
 ## 7\. ‘Tutankhamón: la tumba y sus tesoros’ en la Feria de Madrid.
 
@@ -119,7 +119,7 @@ arqueológica. Perfecta para visitarla en familia.
 Lugar: Espacio 5.1 de IFEMA. Fecha: hasta el 10 de enero de 2021. Precio: Entrada 
 general 19,50 Euros, incluye audioguía (consulta precios para niños y pack familiar). 
 
-![Exposiciones sobre Goya en Madrid](etheria_images/2020/10/exposiciones-madrid-goya-grabados.jpg "'Disparates, n.7, Disparate matrimonial' de la exposición 'Goya, tres lecturas'. © Real Academia de las Artes de San Fernando.")
+![Exposiciones sobre Goya en Madrid](etheria-images/2020/10/exposiciones-madrid-goya-grabados.jpg "'Disparates, n.7, Disparate matrimonial' de la exposición 'Goya, tres lecturas'. © Real Academia de las Artes de San Fernando.")
 
 ## 8\. ‘Goya, tres miradas. La mujer, la guerra y el rostro’ en el Museo de la Real Academia de Bellas Artes de San Fernando.
 
@@ -134,7 +134,7 @@ faciales.
 Lugar: Real Academia de Bellas Artes de San Fernando Fecha: hasta el 3 de enero de 2021. 
 Entrada gratuita. Lunes cerrado. 
 
-![Exposiciones de fotografía en Madrid.](etheria_images/2020/10/exposiciones-madrid-lee-friedlander.jpg "'Oregon 1997'. © Lee Friedlander/ Fraenkel Gallery, San Francisco.")
+![Exposiciones de fotografía en Madrid.](etheria-images/2020/10/exposiciones-madrid-lee-friedlander.jpg "'Oregon 1997'. © Lee Friedlander/ Fraenkel Gallery, San Francisco.")
 
 ## 9\. ‘Lee Friedlander’ en la Fundación MAPFRE.
 
@@ -152,7 +152,7 @@ Lugar: Fundación MAPFRE (salas de Recoletos). Fecha: hasta el 10 de enero de 20
 Precio: entrada general 3 Euros, consulta precio de entradas reducidas y entradas 
 gratuitas. 
 
-![Exposiciones en El Retiro.](etheria_images/2020/10/exposiciones-Madrid-Retiro-flores.jpg "Exposición de Petrit Halilaj en el Palacio de Cristal de El Retiro. © Imagen Subliminal (Miguel de Guzmán y Rocío Romero)/ Museo Nacional Centro de Arte Reina Sofía.")
+![Exposiciones en El Retiro.](etheria-images/2020/10/exposiciones-Madrid-Retiro-flores.jpg "Exposición de Petrit Halilaj en el Palacio de Cristal de El Retiro. © Imagen Subliminal (Miguel de Guzmán y Rocío Romero)/ Museo Nacional Centro de Arte Reina Sofía.")
 
 ## 10\. ‘A un cuervo y los huracanes que, desde lugares desconocidos, traen de vuelta olores de humanos enamorados’ en el Palacio de Cristal del Parque del Retiro.
 

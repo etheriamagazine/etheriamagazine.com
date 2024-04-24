@@ -1,18 +1,18 @@
 ---
 title: "El Hotel Palace de Madrid se viste de cine este verano"
 date: 2021-06-30
-coverImage: etheria_images/2021/06/Vestuario-de-Doctor-Zhivago.jpg
+coverImage: etheria-images/2021/06/Vestuario-de-Doctor-Zhivago.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 El Hotel Palace de Madrid rinde tributo al mundo del cine con una exposición de vestuario de películas, un menú ‘de óscar’ y unos más que apetecibles cócteles. Este es uno de los planes con amigas (o con quien quieras) en Madrid que alegran cualquier tarde de verano.
 
-![El Palace se viste de cine](etheria_images/2021/06/El-Palace-se-viste-de-cine.jpg "El Palace se viste de cine, un buen en Madrid para el verano 2021. © Pedro Grifol")
+![El Palace se viste de cine](etheria-images/2021/06/El-Palace-se-viste-de-cine.jpg "El Palace se viste de cine, un buen en Madrid para el verano 2021. © Pedro Grifol")
 
 Algunos hoteles madrileños han inaugurado la temporada veraniega ofreciendo la 
 perspectiva de los tejados de la capital desde sus terrazas, pero **la Rotonda del hotel 
@@ -31,7 +31,7 @@ que vestían sus protagonistas se exhiben por primera vez, y podemos ver (de cer
 ‘corte medieval’ adaptado al estilo hollywoodiense para exaltar la belleza de ambos: la 
 robusta figura de Don Rodrigo Díaz de Vivar y la ‘siempre joven’ Doña Jimena. 
 
-![vestuario El Cid hotel palace](etheria_images/2021/06/hotel-palace-Vestuario-de-El-Cid.jpg "Vestuario de 'El Cid'. © P. Grifol")
+![vestuario El Cid hotel palace](etheria-images/2021/06/hotel-palace-Vestuario-de-El-Cid.jpg "Vestuario de 'El Cid'. © P. Grifol")
 
 '**55 Días en Pekín**' (1963) fue la película en la que Samuel Bronston, su productor, 
 transformó el pueblo de **Las Rozas** en la China Imperial. Una cuidada selección del 
@@ -44,14 +44,14 @@ Los protagonistas del espectacular peplum '**La Caída del Imperio Romano**' (19
 Ferrer– todos ellos huéspedes del Palace, también disfrutaron felizmente de los cócteles 
 del Bar del Palace. 
 
-![vestuarios de cine hotel palace](etheria_images/2021/06/Vestuario-de-55-dias-en-Pekin.jpg "Vestuarios de '55 Días en Pekín' y 'La Caída del Imperio Romano'. © P. Grifol")
+![vestuarios de cine hotel palace](etheria-images/2021/06/Vestuario-de-55-dias-en-Pekin.jpg "Vestuarios de '55 Días en Pekín' y 'La Caída del Imperio Romano'. © P. Grifol")
 
 Bajo la cúpula de La Rotonda se encuentra uno de los impresionantes vestidos de fiesta 
 de Geraldine Chaplin y el abrigo gris de Omar Sharif, atuendos que consiguieron un 
 ‘Óscar de Hollywood’ al mejor vestuario en la superproducción '**Doctor Zhivago**' 
 (1965). 
 
-![vestuario doctor Zhivago hotel palace](etheria_images/2021/06/Vestuario-de-Doctor-Zhivago.jpg "Vestuario de 'Doctor Zhivago'. © P. Grifol")
+![vestuario doctor Zhivago hotel palace](etheria-images/2021/06/Vestuario-de-Doctor-Zhivago.jpg "Vestuario de 'Doctor Zhivago'. © P. Grifol")
 
 ## Comer de cine 
 
@@ -63,7 +63,7 @@ Zhivago') que traslada al plato aquella historia de amor imposible de principios
 siglo XX vivida a temperatura bajo cero. El plato está elaborado con sardina ahumada, 
 remolacha, col y caviar de trucha. Logradísima y exquisita combinación para empezar. 
 
-![la rotonda hotel palace madrid](etheria_images/2021/06/La-Rotonda-del-Hotel-Palace.jpg "La Rotonda, en el Hotel Palace. © P. Grifol")
+![la rotonda hotel palace madrid](etheria-images/2021/06/La-Rotonda-del-Hotel-Palace.jpg "La Rotonda, en el Hotel Palace. © P. Grifol")
 
 **Rollito Pekín 55** es el nombre del segundo plato, inspirado en '55 Días en Pekín', un 
 guiño a esta película en el que el chef nos propone una de las delicias que se 
@@ -72,7 +72,7 @@ son las **Ruedas de pulpo con gachas de polenta, salsa garum y lascas de pan ác
 trata de una innovadora fusión que nos evoca las técnicas gastronómicas del periodo 
 recreado en el acontecer de 'La Caída del Imperio Romano'. 
 
-![pulpo y caviar hotel palace madrid](etheria_images/2021/06/pulpo-caviar-ruso-hotel-palace.jpg "Ruedas de Pulpo con gachas de polenta y lascas de pan ácimo; y tartar ruso. © P.Grifol")
+![pulpo y caviar hotel palace madrid](etheria-images/2021/06/pulpo-caviar-ruso-hotel-palace.jpg "Ruedas de Pulpo con gachas de polenta y lascas de pan ácimo; y tartar ruso. © P.Grifol")
 
 A este proceso culinario tan especial le sigue una **Paletilla de cordero castellano 
 asado, hojas tiernas y cebolleta dulce**, una (quizá clásica) receta con sabor a las 
@@ -85,7 +85,7 @@ la película 'Nicolás y Alejandra', que cuenta la historia del último zar de R
 su esposa. Pero en este caso es mucho más dulce. Se trata de un **Pastel Ruso con crema 
 de frambuesas al vodka**. 
 
-![cordero pastel ruso y Rollito pekin hotel palace madrid](etheria_images/2021/06/cordero-hotel-palace.jpg "(Izq) Paletilla de cordero castellano asado, hojas tiernas y cebolleta dulce. (Dcha.) Pastel ruso y Rollito Pekín. © P. Grifol")
+![cordero pastel ruso y Rollito pekin hotel palace madrid](etheria-images/2021/06/cordero-hotel-palace.jpg "(Izq) Paletilla de cordero castellano asado, hojas tiernas y cebolleta dulce. (Dcha.) Pastel ruso y Rollito Pekín. © P. Grifol")
 
 ## Y también puedes beber de cine en el hotel Palace
 
@@ -100,7 +100,7 @@ Seco y zumo de lima). **Orson Welles**, que imponía con su presencia y carácte
 siempre un clásico: Negroni (Campari, ginebra, Cinzano Rosso y rodaja de naranja). 
 **David Niven** adoraba un buen whisky on the rocks. 
 
-![cocteles de cine hotel palace madrid](etheria_images/2021/06/coctel-Ava-Gardner-palace.jpg "(De Arr. a Ab. y de Izq. a Dcha.) Negroni (Orson Welles), Margarita (Rita Hayworth), Cóctel AVA (Ava Gardner), Dry Martini (Cary Grant) y Whisky on the rocks (David Niven). © P. Grifol")
+![cocteles de cine hotel palace madrid](etheria-images/2021/06/coctel-Ava-Gardner-palace.jpg "(De Arr. a Ab. y de Izq. a Dcha.) Negroni (Orson Welles), Margarita (Rita Hayworth), Cóctel AVA (Ava Gardner), Dry Martini (Cary Grant) y Whisky on the rocks (David Niven). © P. Grifol")
 
 Pero… ¿Qué hubiera sido de las noches madrileñas sin la presencia del “animal más bello 
 del mundo” (en este caso ‘la’): Ava Gardner? Así que los barmen del Palace han creado un 
@@ -111,7 +111,7 @@ estrella.
 Haz clic en la imagen inferior para aprender a preparar (paso a paso) el **cóctel AVA** 
 en el canal de **YouTube Grifol's Bar**. 
 
-[![preparacion coctel Ava Gardner en el Hotel Palace](etheria_images/2021/06/portada-coctel-ava.jpg "Prepara paso a paso el Cóctel AVA en el canal Grifol's Bar.")](https://youtu.be/OWRvuy3Xzvg)
+[![preparacion coctel Ava Gardner en el Hotel Palace](etheria-images/2021/06/portada-coctel-ava.jpg "Prepara paso a paso el Cóctel AVA en el canal Grifol's Bar.")](https://youtu.be/OWRvuy3Xzvg)
 
 ##### El Palace se viste de cine
 

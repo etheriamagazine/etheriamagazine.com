@@ -1,10 +1,10 @@
 ---
 title: "En el temazcal, una experiencia \"mágica\" en Riviera Maya"
 date: 2023-07-10
-coverImage: etheria_images/2023/07/cenote-mexico-acuarela.jpg
+coverImage: etheria-images/2023/07/cenote-mexico-acuarela.jpg
 categories: 
   - mi-peor-viaje
-author: 
+authors: 
   - Rafael de Rojas
 ---
 
@@ -15,7 +15,7 @@ Riviera Maya (México).
 
 Crónica humorística de **Rafael de Rojas** 
 
-![Acuarela con una playa de Riviera Maya](etheria_images/2023/07/riviera-maya-ilustracion.jpg "Riviera Maya. Ilustración de Inés Arango.")
+![Acuarela con una playa de Riviera Maya](etheria-images/2023/07/riviera-maya-ilustracion.jpg "Riviera Maya. Ilustración de Inés Arango.")
 
 Llego tarde al temazcal porque me he entretenido por el poblado maya mirando a una 
 iguana que no hacía nada y ya están todos casi en canicas. Con bikinis y bañadores de 
@@ -30,7 +30,7 @@ Poso un poco silbando y mirando al tendido, a un pájaro caribeño de panza amar
 vive por aquí; meto tripa como si el enorme bañador a media pierna, como de película 
 muda, pudiera indicar que debajo de los michelines hay una urbanización de abdominales. 
 
-![Una mujer aprieta unas chinas amarillas contra el pecho](etheria_images/2023/07/acuarela-temazcal.jpg "Joven concentrada durante una sesión en un temazcal. Ilustración de Inés Arango.")
+![Una mujer aprieta unas chinas amarillas contra el pecho](etheria-images/2023/07/acuarela-temazcal.jpg "Joven concentrada durante una sesión en un temazcal. Ilustración de Inés Arango.")
 
 ## Unas chinas amarillas
 
@@ -57,7 +57,7 @@ en enero. La cosa va de recitados: _“el aliento es aire”_ –hombre, depende
 es agua”_ –para un vampiro, será– y mucho _“¡En el temazcal!”_, _product placement_ a 
 capón. 
 
-![Acuarela con un grupo de turistas en corro en un temazcal](etheria_images/2023/07/turistas-temazcal-mexico.jpg "Experiencia en un temazcal. Ilustración de Inés Arango.")
+![Acuarela con un grupo de turistas en corro en un temazcal](etheria-images/2023/07/turistas-temazcal-mexico.jpg "Experiencia en un temazcal. Ilustración de Inés Arango.")
 
 ## MaloAAAAAAAA
 
@@ -75,7 +75,7 @@ hace 253 grados, tengo las narices taponadas y nada de aliento, o sea, de aire, 
 sólo busco la postura digna en la que los arqueólogos van a encontrar mi envoltura 
 corpórea en lo que mi alma se va yendo al inframundo, o sea, al carajo. 
 
-![Acuarela de un cenote en México](etheria_images/2023/07/cenote-mexico-acuarela.jpg "Bañarse en un cenote, otra experiencia en Riviera Maya. Ilustración de Inés Arango.")
+![Acuarela de un cenote en México](etheria-images/2023/07/cenote-mexico-acuarela.jpg "Bañarse en un cenote, otra experiencia en Riviera Maya. Ilustración de Inés Arango.")
 
 No ha sido el Sangri-Lá prometido con el que íbamos a experimentar la regresión al útero 
 materno: ha sido, más bien, volver al cole, justo a cuando el profe se iba un momento y 

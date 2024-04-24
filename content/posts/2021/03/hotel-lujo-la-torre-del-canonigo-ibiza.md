@@ -1,17 +1,17 @@
 ---
 title: "Hotel La Torre del Canónigo, un coqueto espacio de lujo en Ibiza"
 date: 2021-03-22
-coverImage: etheria_images/2021/03/hotel-canonigo-ibiza-terraza-habitacion.jpg
+coverImage: etheria-images/2021/03/hotel-canonigo-ibiza-terraza-habitacion.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La idea de viajar a Ibiza no puede ser más apetecible y aquí te proponemos preparar una escapada alojándote en el renovado hotel La Torre del Canónigo, miembro de Small Luxury Hotels of the World, que reabre esta primavera. Un plan perfecto para realizar en pareja o con amigas. ¿Te vienes?
 
-![hotel la torre del Canónigo](etheria_images/2021/03/hotel-canonigo-ibiza-vistas.jpg "Vistas de Ibiza desde La Torre del Canónigo.")
+![hotel la torre del Canónigo](etheria-images/2021/03/hotel-canonigo-ibiza-vistas.jpg "Vistas de Ibiza desde La Torre del Canónigo.")
 
 La isla de Ibiza se puede vivir de muchas formas y en la manera en la que planteemos una 
 escapada a la isla pitiusa dependerá mucho el hotel que elijamos. Si lo que buscas es 
@@ -30,7 +30,7 @@ sus paredes, en sus baldosas geométricas y coloridas, en los tejidos naturales 
 cojines y alfombras… Lo cierto es que es difícil encontrar en el hotel un rincón que no 
 parezca preparado para una foto. 
 
-![viajes a Ibiza](etheria_images/2021/03/hotel-canonigo-ibiza-corsario.jpg "Salón en el edificio El Corsario.")
+![viajes a Ibiza](etheria-images/2021/03/hotel-canonigo-ibiza-corsario.jpg "Salón en el edificio El Corsario.")
 
 ## Los edificios del hotel La Torre del Canónigo
 
@@ -43,7 +43,7 @@ Salvador Dalí, Grace Kelly, Ursula Andrew o los miembros de Pink Floyd. Y el te
 edificio es la **Casa Puget**, un convento del siglo XVI con una bonita capilla y un 
 jardín de olivos que acoge la piscina y el _chill-out_. 
 
-![hotel la torre del canónigo](etheria_images/2021/03/Hotel-canonigo-ibiza-habitacion.jpg "Suite con vistas al mar.")
+![hotel la torre del canónigo](etheria-images/2021/03/Hotel-canonigo-ibiza-habitacion.jpg "Suite con vistas al mar.")
 
 ## Las habitaciones
 
@@ -59,7 +59,7 @@ de tejidos naturales y preciosos suelos**, por sus típicas ventanas de madera o
 aire de haber sabido mantener el ambiente de estancias tradicionales pero con todas las 
 comodidades de un hotel de lujo en Ibiza. 
 
-![hotel la torre del canónigo](etheria_images/2021/03/hotel-canonigo-ibiza-terraza-habitacion.jpg "Terraza de la Suite con Terraza Privada.")
+![hotel la torre del canónigo](etheria-images/2021/03/hotel-canonigo-ibiza-terraza-habitacion.jpg "Terraza de la Suite con Terraza Privada.")
 
 Y si quieres que la estancia sea ya lo más, reserva la **Suite con Terraza Privada**, la 
 habitación más exclusiva de este hotel de Ibiza, que ofrece unas vistas increíbles del 
@@ -73,7 +73,7 @@ elaborado una carta con platos tradicionales de Ibiza a los que ha añadido un o
 toque moderno y nuevas técnicas de alta cocina. Reserva una mesa en su terraza y 
 disfruta de las vistas tanto como de la cena. 
 
-![gastronomía en Ibiza](etheria_images/2021/03/hotel-canonigo-corsario-restaurante.jpg "Terraza del El Corsario Restaurant & Terrace.")
+![gastronomía en Ibiza](etheria-images/2021/03/hotel-canonigo-corsario-restaurante.jpg "Terraza del El Corsario Restaurant & Terrace.")
 
 Además, **El Club**, en la planta baja del restaurante, ofrece un espacio con un punto 
 clandestino y canalla que va perfectamente con el espíritu de la isla. Es el lugar 
@@ -84,7 +84,7 @@ en un lugar de aire moderno que ha nacido con la intención de ser un pequeño h
 los altares callejeros con los que se trataba de proteger a los marineros que surcaban 
 el mar Mediterráneo. 
 
-![hotel La Torre del Canónigo.](etheria_images/2021/03/hotel-canonigo-hall.jpg "Hall del hotel La Torre del Canónigo.")
+![hotel La Torre del Canónigo.](etheria-images/2021/03/hotel-canonigo-hall.jpg "Hall del hotel La Torre del Canónigo.")
 
 ## Servicios exclusivos
 

@@ -1,12 +1,12 @@
 ---
 title: "Viajar sola a las islas Lofoten para seguir la ruta del Rey Olav"
 date: 2019-11-12
-coverImage: etheria_images/2019/11/viaje-mujeres-lofoten-Henninsvaer.jpg
+coverImage: etheria-images/2019/11/viaje-mujeres-lofoten-Henninsvaer.jpg
 categories: 
   - consejos-practicos
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Marina Paul
 ---
 
@@ -15,7 +15,7 @@ por libre de una forma sencilla con la información adecuada. Te damos todos los
 que necesitas sobre las visitas que más nos han gustado, medios de transporte para 
 moverte y consejos prácticos. Viajar sola con Etheria Magazine es cada vez más fácil. 
 
-![Henninsvaer](etheria_images/2019/11/viaje-mujeres-lofoten-Henninsvaer-900x591.jpg "Bucólica imagen de Henninsvaer. © Marina Paul")
+![Henninsvaer](etheria-images/2019/11/viaje-mujeres-lofoten-Henninsvaer-900x591.jpg "Bucólica imagen de Henninsvaer. © Marina Paul")
 
 Noruega es uno de esos países que enamora a primera vista, y un destino perfecto para 
 cualquier tipo de viajero, lo visites cuando lo visites, y recorras la zona que 
@@ -47,7 +47,7 @@ carretera panorámica de “**Ruta del Rey**” por **la E10 de este a oeste**, 
 capital, Svolvaer, centro de ocio y político de las islas, hasta Å, su población más 
 occidental. 
 
-![Bacalao bar en svolvaer, islas lofoten](etheria_images/2019/11/lofoten-Svolvaer-bar-bacalao-900x673.jpg "El Bacalao bar, uno de los lugares imprescindibles en Svolvaer. © M.P.")
+![Bacalao bar en svolvaer, islas lofoten](etheria-images/2019/11/lofoten-Svolvaer-bar-bacalao-900x673.jpg "El Bacalao bar, uno de los lugares imprescindibles en Svolvaer. © M.P.")
 
 ## De Svolvær a Henningsvaer
 
@@ -64,7 +64,7 @@ bar de hielo de las islas, el [Magic Ice
 Bar](https://www.magicice.no/listings/svolvaer-lofoten/), y algunas de las mejores rutas 
 de senderismo, como la de Fløya o Tjelbergtinden. 
 
-![mirador en henninsvaer, islas lofoten](etheria_images/2019/11/islas-lofoten-Henningsvaer-900x675.jpg "Henninsvaer, es la población más turística de Lofoten. ©M.P.")
+![mirador en henninsvaer, islas lofoten](etheria-images/2019/11/islas-lofoten-Henningsvaer-900x675.jpg "Henninsvaer, es la población más turística de Lofoten. ©M.P.")
 
 Otra de las paradas obligatorias es la localidad de **Kabelvåg**, a tan solo 6 km de la 
 capital. Pese a su pequeño tamaño, Kabelvåg alberga orgullosa el que dicen ser el mayor 
@@ -79,7 +79,7 @@ su conjunto, la localidad de no más de 500 personas. Sus “kanelbolle” (roll
 considerados los mejores del país, y el nada fácil ascenso a Festvågtind lo han 
 convertido en una parada obligatoria al recorrer las Lofoten. 
 
-![playas de ramberg, islas lofoten](etheria_images/2019/11/islas-lofoten-etheria-magazine-Ramberg-900x611.jpg "Idílicas playas de Ramberg (Islas Lofoten). ©M.P.")
+![playas de ramberg, islas lofoten](etheria-images/2019/11/islas-lofoten-etheria-magazine-Ramberg-900x611.jpg "Idílicas playas de Ramberg (Islas Lofoten). ©M.P.")
 
 ## Playas y senderismo bajo el Sol de medianoche
 
@@ -88,7 +88,7 @@ aguas turquesas y cristalinas. Entre las más bonitas están la de **Ramberg**, 
 **Haukland**, la de **Kalvika** y la de **Uttakleiv**, también considerada como una de 
 las playas más románticas de Europa por el diario inglés _The Times_. 
 
-![Panorámica desde Reinen](etheria_images/2019/11/noruega-lofoten-Reine-900x599.jpg "Panorámica desde Reinen. ©M.P.")
+![Panorámica desde Reinen](etheria-images/2019/11/noruega-lofoten-Reine-900x599.jpg "Panorámica desde Reinen. ©M.P.")
 
 A pesar de que todas estas playas cuentan con un sendero lateral con el que poder 
 alcanzar lo más alto de sus respectivas montañas adyacentes, existe una montaña a la que 
@@ -103,7 +103,7 @@ Sin embargo, el día no finaliza en Reine, sino que, a sorpresa de todo viajero,
 última parada de la E10 es en **Å** (pronunciada: O), simbólica por ser la población más 
 occidental de todo el país. 
 
-![casas en Reinen](etheria_images/2019/11/islas-lofoten-Reine-900x616.jpg "Imposible no enamorarse de Reinen. ©M.P.")
+![casas en Reinen](etheria-images/2019/11/islas-lofoten-Reine-900x616.jpg "Imposible no enamorarse de Reinen. ©M.P.")
 
 ## De vuelta a Svolvær
 
@@ -117,7 +117,7 @@ espectacular **Museo Vikingo**.
 También para los más aventureros existen mil y una actividades a realizar; desde navegar 
 en kayak en Henningsvær, submarinismo en Ballstad o escalada en la mítica Svolvaergeita. 
 
-![Pueblo museo de Nusfjord](etheria_images/2019/11/islas-lofoten-Nusfjord-900x675.jpg "Pueblo museo de Nusfjord (islas Lofoten). ©M.P.")
+![Pueblo museo de Nusfjord](etheria-images/2019/11/islas-lofoten-Nusfjord-900x675.jpg "Pueblo museo de Nusfjord (islas Lofoten). ©M.P.")
 
 > Las islas Lofoten presumen de ser uno de los mejores lugares desde donde disfrutar de 
 > auroras boreales entre octubre y febrero, gracias a la escasa contaminación lumínica y a 
@@ -150,7 +150,7 @@ de alquilarlas totalmente equipadas en las Islas Lofoten.
 Que, además de ayudar al medioambiente, te permitirá ahorrar en gasolina/diésel (que en 
 Noruega es carísima). 
 
-![mujer en camper en Noruega](etheria_images/2019/11/noruega-Camper-Van.jpg "En camper, otro modo de recorrer Noruega. ©M.P.")
+![mujer en camper en Noruega](etheria-images/2019/11/noruega-Camper-Van.jpg "En camper, otro modo de recorrer Noruega. ©M.P.")
 
 ### Cómo llegar a Lofoten desde España
 
@@ -178,7 +178,7 @@ Existe la posibilidad de reservar en cabina o solamente la entrada al barco sin
 alojamiento. Las paradas del Hurtigruten en las islas son en las poblaciones de Stamsund 
 y Svolvær. 
 
-![Museo Vikingo de Borg](etheria_images/2019/11/islas-lofoten-Museo-Vikingo-Borg-900x568.jpg "Museo Vikingo de Borg. ©M.P.")
+![Museo Vikingo de Borg](etheria-images/2019/11/islas-lofoten-Museo-Vikingo-Borg-900x568.jpg "Museo Vikingo de Borg. ©M.P.")
 
 **Por tierra**. Aunque las islas no cuentan con red ferroviaria, existe la posibilidad 
 de llegar en tren a Narvik desde Suecia, vía Kiruna. Una vez en Narvik, que también 

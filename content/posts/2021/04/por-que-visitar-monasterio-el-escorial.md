@@ -1,18 +1,18 @@
 ---
 title: "San Lorenzo de El Escorial, razones escabrosas y sorprendentes por las que visitar su monasterio"
 date: 2021-04-06
-coverImage: etheria_images/2021/03/que-ver-el-escorial.jpg
+coverImage: etheria-images/2021/03/que-ver-el-escorial.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 A San Lorenzo de El Escorial irás por su valor histórico, artístico y arquitectónico, pero lo recordarás por las estrafalarias historias que se esconden tras los muros de su monasterio. La mole granítica más famosa de la sierra madrileña alberga despojos de reyes, reinas, santos e infantes y, con ellos, aguardan un sinfín de leyendas y cotilleos. En este artículo te damos las claves para visitar El Escorial, coge papel y lápiz para no perderte nada.
 
-![San Lorenzo de El Escorial madrid](etheria_images/2021/03/que-ver-el-escorial.jpg "Neblina durante el amanecer de San Lorenzo de El Escorial. © Javier Santamarta")
+![San Lorenzo de El Escorial madrid](etheria-images/2021/03/que-ver-el-escorial.jpg "Neblina durante el amanecer de San Lorenzo de El Escorial. © Javier Santamarta")
 
 A los pies del monte Abantos, y a menos de una hora de Madrid, el rey **Felipe II** 
 quiso construir en el siglo XVI el monumento más grande de la Cristiandad: el 
@@ -29,7 +29,7 @@ un vasco–.
 > propias de España, en una visita a este monasterio, basílica, biblioteca, mausoleo y 
 > Real Sitio repasarás de forma sublime la historia regia del Siglo de Oro Español. 
 
-![monasterio el escorial nevado](etheria_images/2021/03/monasterio-el-escorial-nieve.jpg "El temporal de nieve Filomena también tiñó de blanco el monasterio. © Javier Santamarta")
+![monasterio el escorial nevado](etheria-images/2021/03/monasterio-el-escorial-nieve.jpg "El temporal de nieve Filomena también tiñó de blanco el monasterio. © Javier Santamarta")
 
 ## Felipe II, un personaje auténtico 
 
@@ -45,7 +45,7 @@ afrentas de la Edad Media, como la Batalla de la Higueruela, tan cruenta, que to
 > En tiempos pre Linkedin, cada monarca recurría a sus propias estrategias para destacar 
 > los éxitos de su carrera. 
 
-![felipe ii y galeria batallas el escorial](etheria_images/2021/03/el-escorial-felipe-ii-galeria.jpg "(Izq.) Retrato de Felipe II, de Sofonisba Anguissola (1573) Museo del Prado. (Dcha.) Galería de las Batallas del Monasterio de San Lorenzo de El Escorial. © Patrimonio Nacional")
+![felipe ii y galeria batallas el escorial](etheria-images/2021/03/el-escorial-felipe-ii-galeria.jpg "(Izq.) Retrato de Felipe II, de Sofonisba Anguissola (1573) Museo del Prado. (Dcha.) Galería de las Batallas del Monasterio de San Lorenzo de El Escorial. © Patrimonio Nacional")
 
 ## Misa desde la cama y colección de reliquias 
 
@@ -65,7 +65,7 @@ un ferviente devoto.
 > Los dolores le inmovilizaban tanto que su séquito tenía que trasladarle a hombros 
 > sentado en una silla que hoy se expone en el monasterio. 
 
-![patio de los reyes antelasa del monasterio](etheria_images/2021/03/patio-el-escorial.jpg "El patio de los Reyes se concibió como antesala de la basílica del monasterio de El Escorial y como lugar de unión entre la sabiduría divina y humana. © Kelu Robles")
+![patio de los reyes antelasa del monasterio](etheria-images/2021/03/patio-el-escorial.jpg "El patio de los Reyes se concibió como antesala de la basílica del monasterio de El Escorial y como lugar de unión entre la sabiduría divina y humana. © Kelu Robles")
 
 El monarca no podía perderse una misa, así que ubicó su **alcoba junto al altar Mayor** 
 de la basílica para asistir al culto desde la cama, al igual que hacía Carlos I en su 
@@ -83,7 +83,7 @@ cojines. Por eso no necesitaba una cama extremadamente grande.
 > que desde que el rey ordenó matarlo, el espíritu del animal se le aparecía por las 
 > noches. 
 
-![monasterio el escorial parrillas](etheria_images/2021/03/el-escorial-exterior.jpg "Fachada con la imagen de San Lorenzo sujetando una parrilla. © Patrimonio Nacional")
+![monasterio el escorial parrillas](etheria-images/2021/03/el-escorial-exterior.jpg "Fachada con la imagen de San Lorenzo sujetando una parrilla. © Patrimonio Nacional")
 
 ## El souvenir más macabro: llévate una parrilla
 
@@ -106,7 +106,7 @@ deudas, lo que produjo tres grandes quiebras del Estado a mediados de siglo. Fel
 tuvo que recurrir a créditos bancarios procedentes del extranjero, lo que le acarreó 
 considerables críticas. 
 
-![Real Biblioteca el escorial](etheria_images/2021/03/visitar-el-escorial-biblioteca.jpg "Interior de la Real Biblioteca. © Patrimonio Nacional")
+![Real Biblioteca el escorial](etheria-images/2021/03/visitar-el-escorial-biblioteca.jpg "Interior de la Real Biblioteca. © Patrimonio Nacional")
 
 ## La Biblioteca pública de El Escorial. La más bella… y también Real
 
@@ -122,7 +122,7 @@ liberales.
 > al revés, con los lomos hacia el interior de las librerías para favorecer su 
 > conservación, lo que deja a la vista el intenso filo dorado de sus hojas. 
 
-![panteon infantes el escorial](etheria_images/2021/03/el-escorial-panteon-infantes.jpg "Mausoleo poligonal en la sexta cámara del Panteón de Infantes. © Konstantinos Fragkos")
+![panteon infantes el escorial](etheria-images/2021/03/el-escorial-panteon-infantes.jpg "Mausoleo poligonal en la sexta cámara del Panteón de Infantes. © Konstantinos Fragkos")
 
 ## Reyes e infantes reunidos 
 
@@ -146,7 +146,7 @@ reservados, ya que algunos despojos todavía aguardan consumiéndose en la sala 
 actuales Reyes Eméritos ya no tienen espacio en esta cripta, y todavía se desconoce cuál 
 será su lugar elegido. 
 
-![Cripta Real el escorial](etheria_images/2021/03/cripta-real-el-escorial.jpg "Cripta Real construida en oro y jaspe. © Patrimonio Nacional")
+![Cripta Real el escorial](etheria-images/2021/03/cripta-real-el-escorial.jpg "Cripta Real construida en oro y jaspe. © Patrimonio Nacional")
 
 ## Pintores flamencos, maravillosos actores secundarios 
 
@@ -163,7 +163,7 @@ santos se han de pintar de manera que no quiten la gana de rezar en ellos”, es
 Felipe II a El Greco, aunque finalmente el monarca no renunció a la obra y hoy sigue 
 expuesta en el monasterio. 
 
-![arte en el escorial madrid](etheria_images/2021/03/el-escorial-arte.jpg "Izq. ‘El Calvario’ de Rogier Van Der Weyden. Dcha. ‘Martirio de San Mauricio’ de El Greco.")
+![arte en el escorial madrid](etheria-images/2021/03/el-escorial-arte.jpg "Izq. ‘El Calvario’ de Rogier Van Der Weyden. Dcha. ‘Martirio de San Mauricio’ de El Greco.")
 
 ## Palacio de los Borbones: relojes, tapices y braseros, muchos braseros
 
@@ -174,7 +174,7 @@ de oro, coloridos tapices de la **Real Fábrica de Santa Bárbara** y numerosos 
 que combatían el frío de sus pétreos muros. Los grandes salones de otros espacios fueron 
 sustituidos aquí por estancias más pequeñas, más fáciles de caldear. 
 
-![palacio de los borbones el escorial madrid](etheria_images/2021/03/el-escorial-borbones-madrid.jpg "Palacio de los Borbones. © Patrimonio Nacional")
+![palacio de los borbones el escorial madrid](etheria-images/2021/03/el-escorial-borbones-madrid.jpg "Palacio de los Borbones. © Patrimonio Nacional")
 
 > En la actualidad, un trabajador se dedica exclusivamente a poner en hora, revisar y 
 > arreglar todos los relojes del Palacio de los Borbones. 
@@ -236,4 +236,4 @@ Madrid](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-
 [Sierra del Rincón, una bonita escapada a los pueblos y hayedos de 
 Madrid](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/) 
 
-![jardines chinescos, excursion aranjuez](etheria_images/2020/05/excursion-aranjuez-900x675.jpg "Otras visitas en Madrid: Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
+![jardines chinescos, excursion aranjuez](etheria-images/2020/05/excursion-aranjuez-900x675.jpg "Otras visitas en Madrid: Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")

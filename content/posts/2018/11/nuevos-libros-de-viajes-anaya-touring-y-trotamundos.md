@@ -1,18 +1,18 @@
 ---
 title: "Anaya Touring y Trotamundos editan cinco nuevas ventanas al mundo"
 date: 2018-11-29
-coverImage: etheria_images/2018/11/guias-viaje-anaya.jpg
+coverImage: etheria-images/2018/11/guias-viaje-anaya.jpg
 categories: 
   - libros-de-viajes
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Los mejores viajes son aquellos que se han soñado previamente y que se han ido 
 disfrutando mientras se organizaban. Para inspirar nuevos destinos, Anaya Touring y 
 Trotamundos han editado cinco nuevos títulos que invitan a viajar en cada página. 
 
-![Novedades de otoño de Anaya Touring y Trotamundos.](etheria_images/2018/11/guias-viaje-anaya-1024x514.jpg "Novedades de otoño de Anaya Touring y Trotamundos.")
+![Novedades de otoño de Anaya Touring y Trotamundos.](etheria-images/2018/11/guias-viaje-anaya-1024x514.jpg "Novedades de otoño de Anaya Touring y Trotamundos.")
 
 Las cinco nuevas referencias de [Anaya Touring y 
 Trotamundos](https://www.guiasdeviajeanaya.es/) nos invitan a viajar dentro y fuera de 
@@ -37,7 +37,7 @@ libro, los monumentos más significativos del románico español. También se in
 prácticos para organizar las visitas con mapas de situación, horarios y manera de 
 acceder a los mismos. Aprenderás mucho, te lo aseguramos. 
 
-![Los mejores destinos del Románico en España.](etheria_images/2018/11/romanico-anaya-etheria-magazine-1024x640.jpg "Los mejores destinos del Románico en España. 192 págs. 22,90 €")
+![Los mejores destinos del Románico en España.](etheria-images/2018/11/romanico-anaya-etheria-magazine-1024x640.jpg "Los mejores destinos del Románico en España. 192 págs. 22,90 €")
 
 ## Para amantes de la naturaleza
 
@@ -48,7 +48,7 @@ fotos y a lanzarnos a descubrir paisajes tan fascinantes como la Playa de la Gue
 Cudillero, Asturias), el Parque Geológico de Aliaga (Aliaga, Teruel) o Los Barruecos (en 
 Malpartida de Cáceres). Tienes más de cien para elegir, ¿por cuál vas a empezar? 
 
-![101 Destinos de España sorprendentes, geoda de pulpí](etheria_images/2018/11/Geoda-Gigante-Pulpi-anaya-1024x644.jpg "101 Destinos de España sorprendentes. 224 págs. 22,90 €")
+![101 Destinos de España sorprendentes, geoda de pulpí](etheria-images/2018/11/Geoda-Gigante-Pulpi-anaya-1024x644.jpg "101 Destinos de España sorprendentes. 224 págs. 22,90 €")
 
 ## Para las más organizadas
 
@@ -61,7 +61,7 @@ práctica porque ofrece desde el tiempo que se necesita para llegar a cada ciuda
 el presupuesto o cuáles son sus puntos fuertes (cultura, cocina, compras o vida 
 nocturna). 
 
-![52 Escapadas para descubrir Europa.](etheria_images/2018/11/52-escapadas-anaya-touring-1024x652.jpg "52 Escapadas para descubrir Europa. 424 pág. 24,90 €")
+![52 Escapadas para descubrir Europa.](etheria-images/2018/11/52-escapadas-anaya-touring-1024x652.jpg "52 Escapadas para descubrir Europa. 424 pág. 24,90 €")
 
 ## Para las soñadoras
 
@@ -73,7 +73,7 @@ podemos hacer es disfrutar con sus ilustraciones, contextualizar cada lugar con 
 información que acompaña y soñar con visitarlos todos en lo que nos resta de vida. No es 
 mal plan, ¿verdad? 
 
-![Monasterio en las montanas de 101 Destinos del mundo sorprendentes](etheria_images/2018/11/101-destinos-del-mundo-anaya-1024x633.jpg "101 Destinos del mundo sorprendentes. 224 pág. 22,90 €")
+![Monasterio en las montanas de 101 Destinos del mundo sorprendentes](etheria-images/2018/11/101-destinos-del-mundo-anaya-1024x633.jpg "101 Destinos del mundo sorprendentes. 224 pág. 22,90 €")
 
 ## Para las trotamundos
 
@@ -85,4 +85,4 @@ Unidos, México, Sudáfrica, Tanzania, etc. Los destinos recomendados vienen div
 etapas y acompañados de un texto riguroso que facilita la organización del viaje. Sin 
 duda, es un buen regalo para esos amigos trotamundos que todos tenemos. 
 
-![50 Grandes viajes para hacer en la vida.](etheria_images/2018/11/50-grandes-viajes-anaya-touring-1024x653.jpg "50 Grandes viajes para hacer en la vida. 424 pág. 24,90 €")
+![50 Grandes viajes para hacer en la vida.](etheria-images/2018/11/50-grandes-viajes-anaya-touring-1024x653.jpg "50 Grandes viajes para hacer en la vida. 424 pág. 24,90 €")

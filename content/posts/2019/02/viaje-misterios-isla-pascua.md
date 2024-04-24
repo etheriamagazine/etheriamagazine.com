@@ -1,10 +1,10 @@
 ---
 title: "Isla de Pascua, el misterio de los moáis y su 'mana'"
 date: 2019-02-15
-coverImage: etheria_images/2019/02/viaje-pascua-Ahu-Nao-Nao.jpg
+coverImage: etheria-images/2019/02/viaje-pascua-Ahu-Nao-Nao.jpg
 categories: 
   - viajes-con-amigas
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -13,7 +13,7 @@ encerrando misterios para muchos arqueólogos. Ponerse delante de uno de esos se
 cara de enfado impresiona… y da para pensar. En este viaje a Isla de Pascua desvelaremos 
 algunos de sus misterios. 
 
-![viaje mujeres, isla de pascua, moais](etheria_images/2019/02/Viaje-mujeres-isla-pascua-Rano-Raraku-1024x643.jpg "El tamaño de los moáis impone al visitante.")
+![viaje mujeres, isla de pascua, moais](etheria-images/2019/02/Viaje-mujeres-isla-pascua-Rano-Raraku-1024x643.jpg "El tamaño de los moáis impone al visitante.")
 
 Viajar a la **Isla de Pascua** –Rapa Nui en idioma nativo– no supone ‘coleccionar’ un 
 nuevo destino, no son unas vacaciones convencionales; más bien debería ser un viaje para 
@@ -28,7 +28,7 @@ Ahora sabemos que son tumbas que se erigían para homenajear a los insignes ance
 pero no solamente cumplían esa función de venerar a los líderes fallecidos, sino que 
 servían también para **idolatrar a sus dioses y para comunicarse con el ‘más allá’**. 
 
-![isla de pascua, trajes tipicos isla pascua](etheria_images/2019/02/Viaje-mujeres-isla-pascua-rito-1024x706.jpg "Trajes y tocados típicos de Isla de Pascua.")
+![isla de pascua, trajes tipicos isla pascua](etheria-images/2019/02/Viaje-mujeres-isla-pascua-rito-1024x706.jpg "Trajes y tocados típicos de Isla de Pascua.")
 
 ## Cómo llegaron los moais
 
@@ -48,7 +48,7 @@ fue la primera respuesta que obtuve del venerable anciano. “Nosotros, los rapa
 somos una etnia que tiene un criterio, un pensamiento \[…\] totalmente diferente al 
 resto del mundo”… 
 
-![viaje mujeres, consejo de ancianos de rapa nui](etheria_images/2019/02/Viaje-isla-pascua-1024x766.jpg "Pedro Grifol entrevista a D. Alberto Hotus, Presidente del Consejo de Ancianos de Rapa Nui.")
+![viaje mujeres, consejo de ancianos de rapa nui](etheria-images/2019/02/Viaje-isla-pascua-1024x766.jpg "Pedro Grifol entrevista a D. Alberto Hotus, Presidente del Consejo de Ancianos de Rapa Nui.")
 
 ## Las estatuas andaban solas
 
@@ -68,7 +68,7 @@ estancia en ese peculiar paraíso… descubriendo moáis quietos en lugares rec�
 degustando ceviche con pisco sour y buscando atardeceres de película para hacer bonitas 
 fotos. 
 
-![viaje isla pascua, mujeres, moais ahu vai uri](etheria_images/2019/02/viaje-isla-pascua-mujeres-moais-Ahu-Vai-Uri-1024x671.jpg "Los caballos pacen tranquilamente junto a los moáis de Ahu Vai Uri.")
+![viaje isla pascua, mujeres, moais ahu vai uri](etheria-images/2019/02/viaje-isla-pascua-mujeres-moais-Ahu-Vai-Uri-1024x671.jpg "Los caballos pacen tranquilamente junto a los moáis de Ahu Vai Uri.")
 
 ## No es costoso moverse
 
@@ -83,7 +83,7 @@ incluso los baremos del regateo). Como variadas son las opciones para recorrer l
 en coche, en moto, en bicicleta, o incluso a caballo, que es una experiencia típica 
 pascuense. 
 
-![moais de isla pascua, viaje isla pascua](etheria_images/2019/02/viaje-mujeres-isla-pascua-ahu-tongariki-1024x613.jpg "El altar de los moáis de Ahu Tongariki es el que más esculturas erguidas tiene en la isla.")
+![moais de isla pascua, viaje isla pascua](etheria-images/2019/02/viaje-mujeres-isla-pascua-ahu-tongariki-1024x613.jpg "El altar de los moáis de Ahu Tongariki es el que más esculturas erguidas tiene en la isla.")
 
 ## Cómo recorrer la Isla de Pascua
 
@@ -102,7 +102,7 @@ la mirada del conjunto estatuario del Ahu Nau Nau, mientras pardos caballos camp
 antojo por el palmeral; o visitar la ladera del **volcán Rano Raraku**, el lugar donde 
 se encuentra la cantera que proveía los moáis. 
 
-![viaje isla pascua, moais isla pascua, playas isla pascua](etheria_images/2019/02/viaje-isla-pascua-playa-anakena-1024x627.jpg "Playa de Anakena, un buen lugar para dormir la siesta ante la atenta mirada de los moáis.")
+![viaje isla pascua, moais isla pascua, playas isla pascua](etheria-images/2019/02/viaje-isla-pascua-playa-anakena-1024x627.jpg "Playa de Anakena, un buen lugar para dormir la siesta ante la atenta mirada de los moáis.")
 
 ## La cantera de donde salió la piedra de los moais
 
@@ -116,7 +116,7 @@ se llegó a soltar. Evidentemente, es uno de los lugares más enigmáticos de la
 > donde nos explicarán las aventuras de los hombres-pájaro, otra fascinante historia de 
 > esta ancestral cultura. 
 
-![viaje mujeres, isla pascua](etheria_images/2019/02/viaje-isla-pascua-ahu-nao-nao-1024x651.jpg "Atardece sobre los moáis de Ahu Nao Nao.")
+![viaje mujeres, isla pascua](etheria-images/2019/02/viaje-isla-pascua-ahu-nao-nao-1024x651.jpg "Atardece sobre los moáis de Ahu Nao Nao.")
 
 Y en otro contexto, también es importante conocer que la situación geográfica de la isla 
 en nuestro Planeta Azul permite descubrir algunas estrellas difíciles de ver en la 
@@ -147,7 +147,7 @@ y conecta Santiago con Isla de Pascua. El trayecto desde Santiago de Chile hasta
 Pascua tiene una duración de cinco horas y media, pero (y como curiosidad) a la vuelta 
 casi siempre se gana una hora a causa del viento a favor. 
 
-![viaje isla de pascua, hoteles de hanga roa](etheria_images/2019/02/viaje-isla-pascua-Hanga-Roa-1-1024x672.jpg "Hanga Roa es el pueblo con más vida de Isla de Pascua.")
+![viaje isla de pascua, hoteles de hanga roa](etheria-images/2019/02/viaje-isla-pascua-Hanga-Roa-1-1024x672.jpg "Hanga Roa es el pueblo con más vida de Isla de Pascua.")
 
 ### Dónde dormir
 
@@ -185,7 +185,7 @@ procelosas aguas. Su carne es exquisita, pruébalo acompañado de vino del país
 Bout du Monde** (aquí con salsa de vainilla). No hay pérdida para encontrar los 
 restaurantes porque todos están en la misma calle del único pueblo de la isla. 
 
-![tatuajes isla de pascua, viaje isla pascua](etheria_images/2019/02/viaje-isla-pascua-tatuaje-1.jpg "Isla Pascua puede ser un buen lugar para hacerte un tatuaje, si lo estás valorando.")
+![tatuajes isla de pascua, viaje isla pascua](etheria-images/2019/02/viaje-isla-pascua-tatuaje-1.jpg "Isla Pascua puede ser un buen lugar para hacerte un tatuaje, si lo estás valorando.")
 
 ### Tatuajes
 

@@ -1,19 +1,19 @@
 ---
 title: "12 planes en Getxo con amigas para disfrutar al estilo vasco"
 date: 2021-06-14
-coverImage: etheria_images/2021/06/puerto-viejo-getxo-costa-vizcaya.jpg
+coverImage: etheria-images/2021/06/puerto-viejo-getxo-costa-vizcaya.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Si estás buscando propuestas de vacaciones en el norte, tenemos una que no podrás rechazar en el País Vasco: Getxo, a sólo 15 minutos en metro desde Bilbao. ¿Qué te parecería realizar los siguientes 12 planes en Getxo con amigas (o con la compañía que elijas) para disfrutar al más puro estilo vasco? Es decir, a lo GRANDE, con paseos en velero, buen comer, mejor beber, jornada en la playa, baños de bosque y mucha diversión.
 
-![paseo neguri getxo](etheria_images/2021/06/Getxo-paseos-neguri.jpg "Anímate a dar una vuelta por el paseo marítimo.")
+![paseo neguri getxo](etheria-images/2021/06/Getxo-paseos-neguri.jpg "Anímate a dar una vuelta por el paseo marítimo.")
 
 Paisajes únicos, preciosos acantilados, bosques autóctonos, playas de ensueño, 
 tradiciones marineras y bonitos palacetes que hablan de su origen burgués, una 
@@ -31,7 +31,7 @@ porque esta promoción de la [Oficina de Turismo de
 Getxo](https://www.getxo.eus/es/turismo/), bautizada con el nombre “Getxo te regala”, 
 tiene los días contados. 
 
-![getxo puente colgante](etheria_images/2021/06/puente-colgante-getxo.jpg "El Puente Bizkaia, conocido como Puente Colgante, une Portugalete y Getxo; y fue declarado Patrimonio de la Humanidad.")
+![getxo puente colgante](etheria-images/2021/06/puente-colgante-getxo.jpg "El Puente Bizkaia, conocido como Puente Colgante, une Portugalete y Getxo; y fue declarado Patrimonio de la Humanidad.")
 
 Aquí van nuestras sugerencias para que disfrutes a tope de este delicioso municipio, 
 situado entre montañas, con un atractivo litoral y un gran patrimonio monumental. Una 
@@ -39,7 +39,7 @@ localidad que bien merece una escapada y que se extiende a lo largo de 11 kilóm
 cuadrados por sus cinco bellísimos barrios: Algorta, Andra Mari, Las Arenas-Areeta, Romo 
 y Neguri. 
 
-![masterclass cocina getxo](etheria_images/2021/06/masterclass-getxo.jpg "Aprender a cocinar en Getxo, todo un privilegio.")
+![masterclass cocina getxo](etheria-images/2021/06/masterclass-getxo.jpg "Aprender a cocinar en Getxo, todo un privilegio.")
 
 ### 1\.  Masterclass de cocina en el restaurante Tamarises-Izarra
 
@@ -52,7 +52,7 @@ técnicas de vacío. Sin trampa ni cartón, este es uno de los mejores planes en
 las que no os perdéis ningún programa de Masterchef. ¿Dónde? En Muelle Ereaga, 4. 
 Algorta. 
 
-![cata cervezas planes en getxo](etheria_images/2021/06/cata-cervezas-txinuk-getxo.jpg "Cata de cervezas en © Txinuk, un divertido plan en Getxo.")
+![cata cervezas planes en getxo](etheria-images/2021/06/cata-cervezas-txinuk-getxo.jpg "Cata de cervezas en © Txinuk, un divertido plan en Getxo.")
 
 ### 2\. Cata de cervezas artesanas vascas
 
@@ -63,7 +63,7 @@ con diferente estilo, proceso de elaboración, procedencia y características. E
 actividad va acompañada, lógicamente, de un picoteo de productos del País Vasco 
 apropiados para maridar con cerveza. ¿Dónde? Euskal Herria, 2. Algorta. 
 
-![puerto viejo de algorta en getxo](etheria_images/2021/06/puerto-viejo-getxo-costa-vizcaya.jpg "Puerto Viejo de Algorta.")
+![puerto viejo de algorta en getxo](etheria-images/2021/06/puerto-viejo-getxo-costa-vizcaya.jpg "Puerto Viejo de Algorta.")
 
 ### 3\. Descubrir el Puerto Viejo de Algorta
 
@@ -77,7 +77,7 @@ espacios para disfrutar de un sabroso pintxo-poteo en torno a sus tradicionales
 restaurantes de pescado. Sin duda, es uno de los **planes de verano en el País Vasco** 
 más apetecible. 
 
-![playa ereaga getxo](etheria_images/2021/06/playa-ereaga-getxo.jpg "Playa de Ereaga, en Getxo.")
+![playa ereaga getxo](etheria-images/2021/06/playa-ereaga-getxo.jpg "Playa de Ereaga, en Getxo.")
 
 ### 4\. Una jornada de playa en Getxo
 
@@ -92,7 +92,7 @@ centros urbanos son las de Gorrondatxe-Azkorri y Barinatxe-La Salvaje, ambas pro
 por acantilados. Si buscas **planes** **que hacer en Bilbao y alrededores**, las playas 
 deben estar entre ellos. 
 
-![planes en getxo visita villas](etheria_images/2021/06/villas-getxo.jpg "Descubre las villas señoriales de Getxo.")
+![planes en getxo visita villas](etheria-images/2021/06/villas-getxo.jpg "Descubre las villas señoriales de Getxo.")
 
 ### 5\. Disfrutar de la arquitectura palaciega
 
@@ -105,7 +105,7 @@ entre finales del siglo XIX y principios del XX. Hay un recorrido autoguiado com
 por 29 paneles interpretativos que ilustran sobre los estilos de moda y los arquitectos 
 más célebres del momento. 
 
-![carolinas de getxo](etheria_images/2021/06/bollos-carolinas-getxo-835x1024.jpg "Carolinas y bollos de mantequilla de Getxo.")
+![carolinas de getxo](etheria-images/2021/06/bollos-carolinas-getxo-835x1024.jpg "Carolinas y bollos de mantequilla de Getxo.")
 
 ### 6\. Comprar los productos “gourmet” de la tierra
 
@@ -117,7 +117,7 @@ alubias, pimientos, anchoas, bonito, pasteles de arroz… y muchos productos má
 podéis comprobar, los matices gastronómicos están muy presentes entre los planes en 
 Getxo en cualquier momento del año. 
 
-![paseo en velero planes en Getxo](etheria_images/2021/06/getxo-planes-amigas-velero.jpg "Paseo en velero desde Getxo.")
+![paseo en velero planes en Getxo](etheria-images/2021/06/getxo-planes-amigas-velero.jpg "Paseo en velero desde Getxo.")
 
 ### 7\. En velero por la bahía del Abra
 
@@ -128,7 +128,7 @@ ensenada que comienza en Santurtzi y finaliza en La Galea, pasando por el Puente
 Colgante que enlaza Getxo con Portugalete. También podrás disfrutar de una bonita puesta 
 de sol desde cubierta mientras el barco bordea los acantilados. 
 
-![bautismo surf planes en Getxo](etheria_images/2021/06/bautismo-surf-getxo.jpg "Ejercicios preparatorios para practicar surf en Getxo.")
+![bautismo surf planes en Getxo](etheria-images/2021/06/bautismo-surf-getxo.jpg "Ejercicios preparatorios para practicar surf en Getxo.")
 
 ### 8\. Bautismo de surf en Getxo
 
@@ -141,7 +141,7 @@ facilitan todo lo necesario: tabla, traje, accesorios, seguros… Estas **playas
 Bilbao** te permitirán combinar una escapada activa con la oferta urbana de la capital 
 vizcaína. 
 
-![taichi y yoga planes en Getxo](etheria_images/2021/06/Artes-orientales-playa-getxo.jpg "Deporte y relax en la playa de Getxo.")
+![taichi y yoga planes en Getxo](etheria-images/2021/06/Artes-orientales-playa-getxo.jpg "Deporte y relax en la playa de Getxo.")
 
 ### 9\. Practicar yoga con vistas al mar
 
@@ -160,7 +160,7 @@ la creatividad y relaja el sistema nervioso. En cualquier caso, se trata de una
 actividad procedente de Japón que nació para curar espiritualmente a las personas que lo 
 practican. 
 
-![ruta bici electrica por getxo](etheria_images/2021/06/getxo-bici-electrica.jpg "Ruta circular en bici eléctrica por Getxo (al fondo) y otros municipios cercanos.")
+![ruta bici electrica por getxo](etheria-images/2021/06/getxo-bici-electrica.jpg "Ruta circular en bici eléctrica por Getxo (al fondo) y otros municipios cercanos.")
 
 ### 11\. En bici eléctrica por paisajes marineros
 
@@ -170,7 +170,7 @@ pero también tienes la opción de alquilar una bicicleta (convencional o eléct
 organizar una escapada por el entorno natural del municipio a tu aire, con paradas donde 
 más te guste y, si surge, tomar un tentempié por el camino. 
 
-![subida a la cuspide puente colgante getxo](etheria_images/2021/06/getxo-cuspide.jpg "Cúspide del Puente Colgante.")
+![subida a la cuspide puente colgante getxo](etheria-images/2021/06/getxo-cuspide.jpg "Cúspide del Puente Colgante.")
 
 ### 12\. Subir a la cúspide del Puente Colgante
 

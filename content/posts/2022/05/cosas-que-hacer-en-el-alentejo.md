@@ -1,18 +1,18 @@
 ---
 title: "10 cosas que sólo puedes hacer en el Alentejo (y que no te esperas)"
 date: 2022-05-05
-coverImage: etheria_images/2022/05/palafitos-carrasqueira.jpg
+coverImage: etheria-images/2022/05/palafitos-carrasqueira.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 No es tan conocido como el Algarve ni goza de la fama de Lisboa u Oporto, pero la región del Alentejo te puede dar tantas alegrías como el resto de Portugal, con la ventaja añadida de ser un destino poco masificado. El Festival Internacional de Teatro, pueblos de postal, castillos, preciosos arrozales... te contamos hasta 10 cosas que hacer en el Alentejo.
 
-![Pescador en el Alentejo al atardecer.](etheria_images/2022/05/palafitos-carrasqueira.jpg "Pescador en el Alentejo. © Eduardo Goody")
+![Pescador en el Alentejo al atardecer.](etheria-images/2022/05/palafitos-carrasqueira.jpg "Pescador en el Alentejo. © Eduardo Goody")
 
 Es nuestro vecino, compartimos la península ibérica con él y es un destino que siempre 
 está en nuestros pensamientos cuando queremos viajar a otro país pero el presupuesto no 
@@ -45,7 +45,7 @@ Trentini con _Criaturas Domésticas_ (España y Uruguay).
 El festival incluye obras para adultos y para público infantil o juvenil, además de una 
 amplia oferta de conciertos, talleres y conferencias. 
 
-![Carteles del Festival Internacional de Teatro del Alentejo 2022 pegados en una pared.](etheria_images/2022/05/Cartel-FITA-2022.jpg "Carteles del Festival Internacional de Teatro del Alentejo.")
+![Carteles del Festival Internacional de Teatro del Alentejo 2022 pegados en una pared.](etheria-images/2022/05/Cartel-FITA-2022.jpg "Carteles del Festival Internacional de Teatro del Alentejo.")
 
 ### 2\. Admirar los murales y monumentos de Beja
 
@@ -56,7 +56,7 @@ y los murales en 3D que se entremezclan con las obras arquitectónicas tradicion
 dejes tampoco de subir a la torre del castillo, al convento de Nossa Senhora da 
 Conceição, que alberga el Museo Regional de Beja, o al resto de templos. 
 
-![Foto nocturna del Castillo y torre de Beja.](etheria_images/2022/05/torre-Beja.jpg "Castillo y torre de Beja.")
+![Foto nocturna del Castillo y torre de Beja.](etheria-images/2022/05/torre-Beja.jpg "Castillo y torre de Beja.")
 
 ### 3\. Sorprenderte en el osario de Évora
 
@@ -68,7 +68,7 @@ termas romanos, las murallas medievales, la iglesia de la Gracia y, por supuesto
 debes marcharte sin saborear un helado en la Plaza do Giraldo, el mejor lugar para tomar 
 el pulso a Évora. 
 
-![Interior del Osario de Évora, en el Alentejo.](etheria_images/2022/05/osario-Evora.jpg "Osario de Évora.")
+![Interior del Osario de Évora, en el Alentejo.](etheria-images/2022/05/osario-Evora.jpg "Osario de Évora.")
 
 ### 4. Fotografiar el puerto palafítico da Carrasqueira
 
@@ -80,7 +80,7 @@ madera donde se guardan los enseres para la pesca. El mejor momento para admirar
 atardecer cuando el cielo desprende unas bellísimas tonalidades que se reflejan en el 
 agua y la marea está alta. 
 
-![Atardecer desde el Puerto de palafitos de Carrasqueira.](etheria_images/2022/05/muelle-palafitos-Carrasqueira.jpg "Puerto de palafitos de Carrasqueira.")
+![Atardecer desde el Puerto de palafitos de Carrasqueira.](etheria-images/2022/05/muelle-palafitos-Carrasqueira.jpg "Puerto de palafitos de Carrasqueira.")
 
 ### 5\. Asomarte a los acantilados del cabo Sardão
 
@@ -92,7 +92,7 @@ alentejana, exactamente al cabo Sardão. Además de acantilados, también se sit
 faro con una brillante linterna roja. Si te gusta la fotografía, no dejes de acudir al 
 ocaso mientras el astro rey se oculta en el mar. 
 
-![Acantilados del cabo Sardão al atardecer, en el Alentejo.](etheria_images/2022/05/que-ver-alentejo-Cabo-Sardao.jpg "Acantilados del cabo Sardão.")
+![Acantilados del cabo Sardão al atardecer, en el Alentejo.](etheria-images/2022/05/que-ver-alentejo-Cabo-Sardao.jpg "Acantilados del cabo Sardão.")
 
 ### 6\. Comprar un tapiz de Arraiolos
 
@@ -104,7 +104,7 @@ tipo de ornamentación de los mismos se clasifica en tres etapas según el dibuj
 muestren, con influencias persas, inspirados en figuras o animales, o con líneas más 
 simples. La tentación está servida. 
 
-![Castillo y ermita de Arraiolos, en el Alentejo.](etheria_images/2022/05/alentejo-Arraiolos.jpg "Pueblo de Arraiolos, en el Alentejo.")
+![Castillo y ermita de Arraiolos, en el Alentejo.](etheria-images/2022/05/alentejo-Arraiolos.jpg "Pueblo de Arraiolos, en el Alentejo.")
 
 ### 7\. Capitanear un barco
 
@@ -117,7 +117,7 @@ Telheiro, Monsaraz, Aldeia da Luz, Mourao, Juromenha, Villareal, Cheles y Estrel
 Amieira Marina dispone de barcos con capacidad de 2 a 12 personas, en los que también se 
 puede dormir, y cruceros de unas horas para visitar las localidades ribereñas. 
 
-![Una familia en un barco de Amieira Marina, en el Gran Lago de Alqueva](etheria_images/2022/05/alentejo-Amieira-Marina.jpg "© Barco de Amieira Marina, en el Gran Lago de Alqueva.")
+![Una familia en un barco de Amieira Marina, en el Gran Lago de Alqueva](etheria-images/2022/05/alentejo-Amieira-Marina.jpg "© Barco de Amieira Marina, en el Gran Lago de Alqueva.")
 
 ### 8\. Caminar por senderos poco transitados
 
@@ -130,7 +130,7 @@ Pescadores por la costa.
 Algarve](https://etheriamagazine.com/2018/07/25/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal/)” 
 te los ampliamos con detalle. 
 
-![Una pareja caminando junto al mar en la Ruta Vicentina.](etheria_images/2022/05/Alentejo-Ruta-Vicentina.jpg "Ruta Vicentina, en el Alentejo.")
+![Una pareja caminando junto al mar en la Ruta Vicentina.](etheria-images/2022/05/Alentejo-Ruta-Vicentina.jpg "Ruta Vicentina, en el Alentejo.")
 
 ### 9\. Disfrutar de una cata de vino en Campo Maior
 
@@ -140,7 +140,7 @@ que no te acerques no te darás cuenta de la pasión con la que elaboran sus vin
 Anímate a realizar una visita guiada con cata para conocer los ricos vinos alentejanos. 
 No te pierdas las vistas desde su azotea ni los ricos productos gourmet de su tienda. 
 
-![Vinos de la bodega Adega Mayor.](etheria_images/2018/11/adega-mayor-bodega-alentejo-1024x648.jpg "Vinos de la bodega Adega Mayor. © Etheria Magazine")
+![Vinos de la bodega Adega Mayor.](etheria-images/2018/11/adega-mayor-bodega-alentejo-1024x648.jpg "Vinos de la bodega Adega Mayor. © Etheria Magazine")
 
 ### 10\. Probar el arroz de Alcácer do Sal
 
@@ -150,7 +150,7 @@ marisco, ya que es el mayor productor de este cereal del país, y porque los ing
 marineros son también de kilómetro cero. Además de comer y admirar los campos de arroz 
 que rodean la localidad, no dejes de visitar su empinado trazado urbano y su castillo. 
 
-![Panorámica al atardecer de Alcácer do Sal](etheria_images/2022/05/alentejo-Alcacer-Do-Sal.jpg "Alcácer do Sal al atardecer.")
+![Panorámica al atardecer de Alcácer do Sal](etheria-images/2022/05/alentejo-Alcacer-Do-Sal.jpg "Alcácer do Sal al atardecer.")
 
 \*Fotografías cedidas por Turismo de Alentejo y Etheria Magazine. 
 

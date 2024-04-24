@@ -1,16 +1,16 @@
 ---
 title: "¿Es seguro viajar en crucero? Conoce los protocolos de Costa Cruceros"
 date: 2021-05-28
-coverImage: etheria_images/2021/05/costa-smeralda-costa-cruceros.jpg
+coverImage: etheria-images/2021/05/costa-smeralda-costa-cruceros.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 ¿Es seguro viajar en un crucero en tiempos de Covid? En Etheria Magazine hemos navegado en el crucero Costa Smeralda, de la naviera italiana Costa Cruceros, para detallarte cuáles son los protocolos de seguridad. Te contamos el antes, el durante y el después de viajar en este crucero.
 
-![barco costa smeralda  viajar en crucero](etheria_images/2021/05/costa-smeralda-costa-cruceros.jpg "Costa Smeralda, de Costa Cruceros. © Pepa García")
+![barco costa smeralda  viajar en crucero](etheria-images/2021/05/costa-smeralda-costa-cruceros.jpg "Costa Smeralda, de Costa Cruceros. © Pepa García")
 
 El verano se acerca, las ganas de viajar alcanzan niveles extraordinarios y la opción de 
 hacerlo en crucero empieza a martillear insistentemente... ¿Qué es lo que puede inhibir 
@@ -31,7 +31,7 @@ Certificado _Biosafety Trust_ de RINA. Dicho protocolo no sólo permite velar po
 **salud de los pasajeros y de los tripulantes**, sino también por el bienestar de la 
 población local de los destinos visitados durante el itinerario. 
 
-![deporte en el costa smeralda viajar en crucero](etheria_images/2021/05/running-costa-smeralda.jpg "Deporte al aire libre en el Costa Smeralda. © Pepa García")
+![deporte en el costa smeralda viajar en crucero](etheria-images/2021/05/running-costa-smeralda.jpg "Deporte al aire libre en el Costa Smeralda. © Pepa García")
 
 ## Antes de comenzar el crucero
 
@@ -57,7 +57,7 @@ que someterte a una **prueba de antígenos** (no tiene coste extra). Es muy ráp
 supuesto, se mantiene la distancia de seguridad tanto al hacer la cola para el antígeno 
 como para esperar los resultados. 
 
-![protocolos cruceros coronavirus](etheria_images/2021/05/controles-covid-costa-cruceros.jpg "Algunos protocolos Covid de Costa Cruceros. © P.G.")
+![protocolos cruceros coronavirus](etheria-images/2021/05/controles-covid-costa-cruceros.jpg "Algunos protocolos Covid de Costa Cruceros. © P.G.")
 
 ##  Protocolos Covid durante el crucero
 
@@ -76,7 +76,7 @@ momento de comer, beber, mientras te bañas en la piscina o en el spa, donde est
 únicamente con tu grupo de convivencia. También se recomienda **usar las escaleras** en 
 lugar de los ascensores siempre que sea posible. 
 
-![protocolos covid costa smeralda](etheria_images/2021/05/protocolo-covid-costa-cruceros.jpg "Mesas para dos y apertura de puertas sin contacto. © Pepa G.")
+![protocolos covid costa smeralda](etheria-images/2021/05/protocolo-covid-costa-cruceros.jpg "Mesas para dos y apertura de puertas sin contacto. © Pepa G.")
 
 ##### • Zonas comunes: higiene, limitación de contacto y distancia de seguridad.
 
@@ -96,7 +96,7 @@ obligatoria de 7 días tras el embarque. Se someten a pruebas de PCR cada 15 dí
 forma aleatoria diariamente. Los asistentes sólo entran en las cabinas para 
 acondicionarlas una vez al día, y siempre sin la presencia del pasajero. 
 
-![viajar en crucero terrazas en costa smeralda](etheria_images/2021/05/cubierta-costa-smeralda.jpg "Terraza con mesas para 4 personas al aire libre. © Pepa G.")
+![viajar en crucero terrazas en costa smeralda](etheria-images/2021/05/cubierta-costa-smeralda.jpg "Terraza con mesas para 4 personas al aire libre. © Pepa G.")
 
 ##### • Programas de entretenimiento y espectáculos.
 
@@ -117,7 +117,7 @@ existe servicio de bufé para evitar la manipulación de alimentos por varias pe
 tampoco se puede consumir en la barra de los bares o cafeterías. El azúcar, por ejemplo, 
 siempre te la servirán los camareros. 
 
-![spa costa smeralda viajar en crucero](etheria_images/2021/05/spa-costa-smeralda.jpg "Se puede usar el spa con reserva y en grupo reducido. © Pepa G.")
+![spa costa smeralda viajar en crucero](etheria-images/2021/05/spa-costa-smeralda.jpg "Se puede usar el spa con reserva y en grupo reducido. © Pepa G.")
 
 ##### • Gimnasio y Spa.
 
@@ -132,7 +132,7 @@ etc. que se bloquean por horario a petición del cliente. El acceso sólo se per
 personas de un mismo núcleo de convivencia. Las cabinas de tratamiento o de belleza 
 funcionan como siempre, previa reserva, pero aplicando protocolos estrictos de higiene. 
 
-![parque infantil en costa smeralda](etheria_images/2021/05/parque-infantil-costa-smeralda.jpg "Parque infantil al aire libre. © Pepa G.")
+![parque infantil en costa smeralda](etheria-images/2021/05/parque-infantil-costa-smeralda.jpg "Parque infantil al aire libre. © Pepa G.")
 
 ##### • Qué hacemos con los niños.
 
@@ -141,7 +141,7 @@ que en Costa Smeralda han sido muy cuidadosos al organizar sus actividades. Se a
 por edades en grupos pequeños y con el mínimo de cuidadores necesarios, pero siguen 
 siendo quienes mejor se lo pasan a bordo. 
 
-![piscinas y jacuzzis costa smeralda](etheria_images/2021/05/piscina-costa-smeralda.jpg "Existe control de aforo en piscinas y jacuzzis. © Pepa G.")
+![piscinas y jacuzzis costa smeralda](etheria-images/2021/05/piscina-costa-smeralda.jpg "Existe control de aforo en piscinas y jacuzzis. © Pepa G.")
 
 ##### • Piscinas y jacuzzis.
 
@@ -150,7 +150,7 @@ emplea cloro a diario). Existe **un equipo de 32 personas** que controla el afor
 seguridad sanitaria o la distancia entre hamacas (1,5 metros). Cada noche se higienizan 
 por completo todas las áreas comunes. 
 
-![excursion napoles costa cruceros](etheria_images/2021/05/excursion-napoles.jpg "Excursión a Nápoles en grupo burbuja muy controlado. © Pepa García")
+![excursion napoles costa cruceros](etheria-images/2021/05/excursion-napoles.jpg "Excursión a Nápoles en grupo burbuja muy controlado. © Pepa García")
 
 ### Excursiones en grupos burbuja
 
@@ -174,7 +174,7 @@ Para llevar a cabo todas las medidas de forma eficaz, se ha creado la figura de 
 profesional (**Sanitation officer**) encargado de formar a la tripulación en estos 
 nuevos protocolos sanitarios, y que también vela por su exhaustivo cumplimiento. 
 
-![atardecer costa smeralda costa cruceros](etheria_images/2021/05/atardecer-costa-smeralda-italia.jpg "Atardecer desde el Costa Smeralda, de Costa Cruceros. © Pepa García")
+![atardecer costa smeralda costa cruceros](etheria-images/2021/05/atardecer-costa-smeralda-italia.jpg "Atardecer desde el Costa Smeralda, de Costa Cruceros. © Pepa García")
 
 ### ¿Qué ocurre si enfermo en un crucero?
 

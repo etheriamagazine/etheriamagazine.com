@@ -1,12 +1,12 @@
 ---
 title: "Plaza Athénée, un hotel de ensueño en París"
 date: 2018-11-21
-coverImage: etheria_images/2018/11/Suite-Haute-Couture-salon-HR-by-Francis-Amiand.jpg
+coverImage: etheria-images/2018/11/Suite-Haute-Couture-salon-HR-by-Francis-Amiand.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Exclusivo y sofisticado, el Plaza Athénée se alza en la avenida de Montaigne como uno de 
@@ -14,7 +14,7 @@ los hoteles más selectos de París. Suites de ensueño que sobrepasan los 25.00
 restaurante firmado por un chef con estrellas Michelin y el glamour que enamoró a Grace 
 Kelly, Rodolfo Valentino y Gary Cooper. ¿Quién no querría alojarse aquí? 
 
-![Elegante y clásica, la Eiffel Suite Signature Classic, integra en el espacio a la torre Eiffel.](etheria_images/2018/11/Suite-Haute-Couture-salon-HR-by-Francis-Amiand-1024x696.jpg "Elegante y clásica, la Eiffel Suite Signature Classic, integra en el espacio a la torre Eiffel. © Francis Amiand.")
+![Elegante y clásica, la Eiffel Suite Signature Classic, integra en el espacio a la torre Eiffel.](etheria-images/2018/11/Suite-Haute-Couture-salon-HR-by-Francis-Amiand-1024x696.jpg "Elegante y clásica, la Eiffel Suite Signature Classic, integra en el espacio a la torre Eiffel. © Francis Amiand.")
 
 El histórico hotel Plaza Athénée mantiene sus puertas abiertas desde hace más de un 
 siglo en la avenida de Montaigne 25, a un paso de los Campos Elíseos y de la icónica 
@@ -31,7 +31,7 @@ disfrutase de las vistas de la torre Eiffel al atardecer mientras se daba un ba�
 jacuzzi de la Suite Eiffel Signature. O, quién sabe, si Stevie Wonder extrajo deliciosas 
 melodías de ese gran piano que vemos cada día al pasar por uno de los salones. 
 
-![Fachada y lobby del hotel Plaza Athénée de París](etheria_images/2018/11/entrada-lobby-hotel-plaza-athenee-1024x706.jpg "Fachada (©Masahiko Takeda) y lobby del hotel Plaza Athénée (©Angelina).")
+![Fachada y lobby del hotel Plaza Athénée de París](etheria-images/2018/11/entrada-lobby-hotel-plaza-athenee-1024x706.jpg "Fachada (©Masahiko Takeda) y lobby del hotel Plaza Athénée (©Angelina).")
 
 Sin duda, han sido muchas las historias que este hotel ha presenciado con discreción y 
 complicidad. Recuperar la belleza que caracterizaba a los espacios comunes a principios 
@@ -53,7 +53,7 @@ de la alta costura. Las flores, que se cambian semanalmente, el color bronce, el
 los paneles de madera y la alfombra inspirada en motivos cristalinos te hacen sentir que 
 estás en un lugar único. 
 
-![hotel lujo paris, hotel plaza athenee paris, mujeres viajan a paris](etheria_images/2018/11/HPA-Galerie-HR-by-Francis-Amiand-1024x576.jpg "La Galerie, un espacio elegante donde tomar el té. © Francis Amiand.")
+![hotel lujo paris, hotel plaza athenee paris, mujeres viajan a paris](etheria-images/2018/11/HPA-Galerie-HR-by-Francis-Amiand-1024x576.jpg "La Galerie, un espacio elegante donde tomar el té. © Francis Amiand.")
 
 ## Un té en La Galerie
 
@@ -65,7 +65,7 @@ diario el té, lo que nos brinda una buena oportunidad para disfrutar de las cre
 de Angelo Musa y del chef pastelero Alexandre Dufeu. El menú del té lo puedes tomar sin 
 estar alojado desde 60 euros. 
 
-![El jardín secreto de Plaza Athénee. Un precioso vergel en medio del hotel.](etheria_images/2018/11/HPA-Cour-Jardin-4-HR-by-StudiodesFleurs-1024x682.jpg "El jardín secreto de Plaza Athénee. Un precioso vergel en medio del hotel. © Studio des Fleurs")
+![El jardín secreto de Plaza Athénee. Un precioso vergel en medio del hotel.](etheria-images/2018/11/HPA-Cour-Jardin-4-HR-by-StudiodesFleurs-1024x682.jpg "El jardín secreto de Plaza Athénee. Un precioso vergel en medio del hotel. © Studio des Fleurs")
 
 ## Verde y rojo en La Cour Jardin
 
@@ -77,7 +77,7 @@ pie. Los padres, mientras tanto, pueden disfrutar de un café y un pastel o un m
 mediterráneo diseñado por el chef Mathieu Emeraud (precio medio: 110 euros, sin 
 bebidas). 
 
-![Terraza del hotel Plaza Athénee, junto a la Avenida Montaigne.](etheria_images/2018/11/HPA-Terrasse-Montaigne-StudiodesFleurs-1024x683.jpg "Terraza del hotel Plaza Athénee, junto a la Avenida Montaigne. © Studio des Fleurs")
+![Terraza del hotel Plaza Athénee, junto a la Avenida Montaigne.](etheria-images/2018/11/HPA-Terrasse-Montaigne-StudiodesFleurs-1024x683.jpg "Terraza del hotel Plaza Athénee, junto a la Avenida Montaigne. © Studio des Fleurs")
 
 ## La Terrasse Montaigne
 
@@ -86,7 +86,7 @@ disfrutar de la terraza del hotel Plaza Athénée. Durante la primavera y el ver
 terraza es el lugar perfecto para hacer una pausa de las compras o para tomar un cóctel 
 al atardecer, tras una intensa jornada de turismo. 
 
-![Restaurante Alain Ducasse au Plaza Athénée.](etheria_images/2018/11/Alain-Ducasse-au-Plaza-Athenee-Pierre-Monetta-1024x682.jpg "Restaurante Alain Ducasse au Plaza Athénée. © Pierre Monetta.")
+![Restaurante Alain Ducasse au Plaza Athénée.](etheria-images/2018/11/Alain-Ducasse-au-Plaza-Athenee-Pierre-Monetta-1024x682.jpg "Restaurante Alain Ducasse au Plaza Athénée. © Pierre Monetta.")
 
 ## Comer y beber con estilo
 
@@ -102,7 +102,7 @@ Philippe Marc ofrece platos clásicos franceses con un toque personal. Los últi
 miércoles de cada mes se organizan noches temáticas de swing o de jazz. Una buena 
 oportunidad para disfrutar de esta brasserie. 
 
-![Le Bar, un referente de la noche parisina.](etheria_images/2018/11/HPA-Bar-HD-by-Romain-Bourven-1024x683.jpg "Le Bar, un referente de la noche parisina. © Romain Bourven")
+![Le Bar, un referente de la noche parisina.](etheria-images/2018/11/HPA-Bar-HD-by-Romain-Bourven-1024x683.jpg "Le Bar, un referente de la noche parisina. © Romain Bourven")
 
 Y para terminar la noche, la recomendación es dirigirse a **Le Bar** y disfrutar de un 
 cóctel mientras se observa su sorprendente decoración. Patrick Jouin y Sanjit Manku son 
@@ -111,7 +111,7 @@ referencia de la noche parisina. El efecto de los colores, diseños y mobiliario
 envuelve en una atmósfera de ensoñación. Cuando sientas la llamada de Morfeo, no lo 
 dudes, dirígete a tu habitación, son todas increíbles. 
 
-![La Royal Suite, decorada en estilo parisino, dispone de 4 dormitorios, 4 baños, 2 despachos, cocina y office.](etheria_images/2018/11/HPA-512-Royal-suite-HR-by-Francis-Amiand-1024x683.jpg "La Royal Suite, decorada en estilo parisino, dispone de 4 dormitorios, 4 baños, 2 despachos, cocina y office. © Francis Amiand.")
+![La Royal Suite, decorada en estilo parisino, dispone de 4 dormitorios, 4 baños, 2 despachos, cocina y office.](etheria-images/2018/11/HPA-512-Royal-suite-HR-by-Francis-Amiand-1024x683.jpg "La Royal Suite, decorada en estilo parisino, dispone de 4 dormitorios, 4 baños, 2 despachos, cocina y office. © Francis Amiand.")
 
 ## Habitaciones y suites de lujo
 
@@ -121,7 +121,7 @@ materiales de las casas de alta costura francesas (seda, damasco, bordados...) p
 vestir ventanas, sillones y camas. El efecto es el que podéis observar en las imágenes 
 de este artículo, aunque en vivo transmiten aún más _glamour_. 
 
-![Las vistas a la icónica torre parisina son magníficas desde la Signature Eiffel Suite Signature Art Déco.](etheria_images/2018/11/HPA-878-Eiffel-Suite-Signature-Salon-HR-by-Francis-Amiand-1024x683.jpg "Las vistas a la icónica torre parisina son magníficas desde la Signature Eiffel Suite Signature Art Déco. ©Francis Amiand.")
+![Las vistas a la icónica torre parisina son magníficas desde la Signature Eiffel Suite Signature Art Déco.](etheria-images/2018/11/HPA-878-Eiffel-Suite-Signature-Salon-HR-by-Francis-Amiand-1024x683.jpg "Las vistas a la icónica torre parisina son magníficas desde la Signature Eiffel Suite Signature Art Déco. ©Francis Amiand.")
 
 El Plaza Athénée cuenta con 208 habitaciones y suites, algunas diseñadas como 
 apartamentos privados, donde se puede disfrutar de un exquisito y cálido interiorismo. 
@@ -129,7 +129,7 @@ Cualquiera de ellas, desde la habitación doble (a partir de 1.500 €/noche) ha
 lujosa (que roza los 30.000 €), son espectaculares. En las primeras seis plantas se han 
 empleado muebles de época y en las séptima y octava, el estilo es _Art Déco_. 
 
-![Entrada del elegante Instituto Dior.](etheria_images/2018/11/HPA-Dior-Institut-1024x683.jpg "Entrada del elegante Instituto Dior. © J. Galland")
+![Entrada del elegante Instituto Dior.](etheria-images/2018/11/HPA-Dior-Institut-1024x683.jpg "Entrada del elegante Instituto Dior. © J. Galland")
 
 ## Ritual de belleza y otros espacios
 

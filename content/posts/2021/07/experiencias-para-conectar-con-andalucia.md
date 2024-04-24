@@ -1,18 +1,18 @@
 ---
 title: "Siete emocionantes experiencias para conectar con Andalucía"
 date: 2021-07-16
-coverImage: etheria_images/2021/07/paseo-caballo-el-palmar.jpg
+coverImage: etheria-images/2021/07/paseo-caballo-el-palmar.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Andalucía es uno de los destinos más completos de Europa ya que su particular orografía permite brindar al viajero un amplio abanico de propuestas turísticas. Tanto si eres amante del mar como de la montaña, de la cultura o del relax, siempre encontrarás un plan a tu medida. ¿Con cuál de estas siete experiencias en Andalucía te quedas?
 
-![paseo caballo playa el palmar cadiz](etheria_images/2021/07/paseo-caballo-el-palmar.jpg "Pasear por la playa a caballo es una de las emocionantes experiencias en Andalucía. © Turismo Andalucía")
+![paseo caballo playa el palmar cadiz](etheria-images/2021/07/paseo-caballo-el-palmar.jpg "Pasear por la playa a caballo es una de las emocionantes experiencias en Andalucía. © Turismo Andalucía")
 
 ```
 Con la colaboración de la Consejería de Turismo de la Junta de Andalucía.
@@ -39,7 +39,7 @@ dando palmas en un tablao. Entre la variedad de experiencias que ofrece esta com
 hemos seleccionado algunas que ayudan a comprender que Andalucía sólo hay una pero que 
 sus propuestas pueden ser muchas y muy variadas. 
 
-![ruta caballo grazalema andalucia](etheria_images/2021/07/ruta-caballo-grazalema.jpg "Ruta a caballo por el P.N. de la Sierra de Grazalema. © Turismo Andalucía")
+![ruta caballo grazalema andalucia](etheria-images/2021/07/ruta-caballo-grazalema.jpg "Ruta a caballo por el P.N. de la Sierra de Grazalema. © Turismo Andalucía")
 
 ## Experiencias originales para conectar con Andalucía
 
@@ -58,7 +58,7 @@ alguno de tu nivel, disfruta de un [espectáculo ecuestre](https://www.realescue
 o asiste a las Carreras de caballos de Sanlúcar de Barrameda, que tienen lugar en la 
 playa durante el mes de agosto. 
 
-![sevilla en bicicleta](etheria_images/2021/07/ruta-bicicleta-andalucia.jpg "Un paseo en bicicleta por Sevilla. © Turismo Andalucía")
+![sevilla en bicicleta](etheria-images/2021/07/ruta-bicicleta-andalucia.jpg "Un paseo en bicicleta por Sevilla. © Turismo Andalucía")
 
 ### 2\. Pedalea por las mejores rutas cicloturistas  
 
@@ -74,7 +74,7 @@ que proporcionan kilómetros de adrenalina. Para las familias aficionadas a los 
 bicicleta la mejor opción son las Vías Verdes de Andalucía, donde incluso se organizan 
 actividades para los niños. 
 
-![flamenco andalucia](etheria_images/2021/07/flamenco-Palacio-Olvidados.jpg "Disfrutar de un espectáculo de flamenco es una experiencia obligada. © Turismo Andalucía")
+![flamenco andalucia](etheria-images/2021/07/flamenco-Palacio-Olvidados.jpg "Disfrutar de un espectáculo de flamenco es una experiencia obligada. © Turismo Andalucía")
 
 ### 3\. Vive el flamenco  
 
@@ -93,7 +93,7 @@ Como actividad original destacamos la experiencia **Flamenco Starlight** en Los
 Pedroches (Córdoba), donde la grandeza de la música se une a la de las estrellas, ya que 
 esta zona ha sido declarada Reserva Starlight. 
 
-![rio guadalquivir andalucia](etheria_images/2021/07/ruta-guadalquivir-andalucia.jpg "Río Guadalquivir a la altura de la Torre del Oro, en Sevilla. © Turismo Andalucía")
+![rio guadalquivir andalucia](etheria-images/2021/07/ruta-guadalquivir-andalucia.jpg "Río Guadalquivir a la altura de la Torre del Oro, en Sevilla. © Turismo Andalucía")
 
 ### 4\. Recorre los escenarios del V Centenario de la Primera Vuelta al Mundo
 
@@ -109,7 +109,7 @@ una gymkana nocturna o incluso hacer una ruta a vela por el Guadalquivir. [Consu
 agenda](https://origenydestino.andalucia.org/#Conoce-los-tescenariosde-un-viaje-historico) 
 porque seguro que encuentras algo que te apasione. 
 
-![bucear en andalucia](etheria_images/2021/07/buceo-andalucia.jpg "Los fondos marinos andaluces albergan una gran biodiversidad. © Turismo Andalucía")
+![bucear en andalucia](etheria-images/2021/07/buceo-andalucia.jpg "Los fondos marinos andaluces albergan una gran biodiversidad. © Turismo Andalucía")
 
 ### 5\. Practica deportes acuáticos
 
@@ -125,7 +125,7 @@ en Baños de la Encina (Jaén), donde practicar piragüismo. Una ruta en kayak m
 es la que te lleva hasta el poblado de Peñalosa, que pertenece a la época del Argar y 
 tiene más de 4.000 años de antigüedad. 
 
-![balneario carratraca andalucia](etheria_images/2021/07/Carratraca-Balneario-andalucia-671x1024.jpg "Balneario de Carratraca. © Turismo Andalucía")
+![balneario carratraca andalucia](etheria-images/2021/07/Carratraca-Balneario-andalucia-671x1024.jpg "Balneario de Carratraca. © Turismo Andalucía")
 
 ### 6\. Relájate en un balneario
 
@@ -141,7 +141,7 @@ balnearios](https://www.andalucia.org/es/busqueda?query=balnearios) de Andalucí
 el que más te interese en función de lo que necesites, tratamientos respiratorios, 
 relajantes, dermatológicos… o donde estés disfrutando de tus vacaciones. 
 
-![ruta jamones de huelva](etheria_images/2021/07/ruta-jamones-huelva.jpg "Las rutas gastronómicas permiten conocer mejor los sabores andaluces. © T. Andalucía")
+![ruta jamones de huelva](etheria-images/2021/07/ruta-jamones-huelva.jpg "Las rutas gastronómicas permiten conocer mejor los sabores andaluces. © T. Andalucía")
 
 ### 7\. Saborea Andalucía en una ruta
 
@@ -158,13 +158,13 @@ Sevilla** no suena nada mal, al igual que una ruta de vinos por Málaga. Por úl
 curiosa es también la **Ruta del Arroz** de la provincia sevillana, unos preciosos 
 campos que te hacen viajar al sudeste asiático. ¿Por cuál vas a empezar? 
 
-![comida vistas alhambra](etheria_images/2021/07/gastronomia-andalucia.jpg "Prueba el placer de comer con vistas a la Alhambra. © Turismo Andalucía")
+![comida vistas alhambra](etheria-images/2021/07/gastronomia-andalucia.jpg "Prueba el placer de comer con vistas a la Alhambra. © Turismo Andalucía")
 
 Estas son sólo siete experiencias en Andalucía, pero en esta región te esperan 
 muchísimas más durante todo el año. ¿La gran ventaja? La región andaluza cuenta con 
 excelentes comunicaciones, un clima envidiable y una infraestructura hotelera que se ha 
 adaptado a los nuevos tiempos para ofrecer un servicio con toda la seguridad posible. 
 
-![](etheria_images/2021/07/Andalucia-turismo.png)
+![](etheria-images/2021/07/Andalucia-turismo.png)
 
 Artículo elaborado con la colaboración de Turismo de Andalucía.

@@ -1,13 +1,13 @@
 ---
 title: "Celia Díaz: \"Viajar nos completa y nos hace mejores personas\""
 date: 2020-02-11
-coverImage: etheria_images/2020/02/celia-diaz-Malecon-de-La-Habana.jpg
+coverImage: etheria-images/2020/02/celia-diaz-Malecon-de-La-Habana.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Empática, sensible y una enamorada de los viajes y la gastronomía. Celia Díaz es la cara 
@@ -16,7 +16,7 @@ Gran Bretaña y en facilitar la labor editorial a medios y profesionales. La pas
 el sector turístico nos la confirma su trayectoria pero también queremos conocer a la 
 viajera que emerge cuando cierra la puerta de su despacho. 
 
-![celia diaz, visit britain, malecon de cuba](etheria_images/2020/02/celia-diaz-Malecon-de-La-Habana-900x600.jpg "Celia Díaz en el malecón de Cuba.")
+![celia diaz, visit britain, malecon de cuba](etheria-images/2020/02/celia-diaz-Malecon-de-La-Habana-900x600.jpg "Celia Díaz en el malecón de Cuba.")
 
 Celia Díaz, Responsable de Relaciones Públicas y contenidos en la promoción turística de 
 Gran Bretaña, es la cara visible de VisitBritain en España desde hace 4 años. Su 
@@ -53,7 +53,7 @@ nuestro país me gustaría ver más mujeres ocupando altas posiciones". Ahora, c
 puerta de su oficina y conozcamos a la viajera que hay detrás de la profesional, a la 
 mujer que se emociona incluso antes de partir de viaje... 
 
-![road trip, highlands, celia diaz, visit britain](etheria_images/2020/02/celia-diaz-The-Quiraing-Isla-de-Skye-900x702.jpg "Roadtrip por las Highlands y y la Isla de Skye en Escocia.")
+![road trip, highlands, celia diaz, visit britain](etheria-images/2020/02/celia-diaz-The-Quiraing-Isla-de-Skye-900x702.jpg "Roadtrip por las Highlands y y la Isla de Skye en Escocia.")
 
 ## "Me encanta esa sensación de aterrizar en una nueva ciudad"
 
@@ -92,7 +92,7 @@ Mi compañero favorito de aventuras ya lo tengo, y es mi marido, pero, así por 
 hubiese sido genial compartir uno de los primeros vuelos de [Amelia 
 Earhart](https://etheriamagazine.com/2019/03/19/mujeres-protagonistas-editorial-santillana/). 
 
-![celia diaz, visit britain, viaje japon](etheria_images/2020/02/celia-diaz-Cruce-de-Sibuya-Tokyo-900x634.jpg "Celia Díaz en el cruce de Shibuya en Tokio.")
+![celia diaz, visit britain, viaje japon](etheria-images/2020/02/celia-diaz-Cruce-de-Sibuya-Tokyo-900x634.jpg "Celia Díaz en el cruce de Shibuya en Tokio.")
 
 ### 5\. ¿Sueles planificar tus viajes o prefieres improvisar?
 
@@ -119,7 +119,7 @@ como enanos de su gastronomía, sus tradiciones, sus paisajes y su tranquilidad.
 después ir al verdadero paraíso en la Tierra, unos días en Tahaa y otros en **Bora 
 Bora**, fueron el broche final perfecto. 
 
-![bora bora, viajes lunas de miel, celia diaz](etheria_images/2020/02/celia-diaz-Four-Seasons-Bora-Bora-900x755.jpg "Four Seasons de Bora Bora.")
+![bora bora, viajes lunas de miel, celia diaz](etheria-images/2020/02/celia-diaz-Four-Seasons-Bora-Bora-900x755.jpg "Four Seasons de Bora Bora.")
 
 ### 8\. ¿Y tu último viaje? ¿Qué es lo que más y lo que menos te gustó?
 
@@ -144,7 +144,7 @@ el mundo debería hacer alguna vez en la vida) o **con amigas**.
 [Colombia](https://etheriamagazine.com/2019/01/28/viajar-sola-al-eje-cafetero-colombia/), 
 Myanmar y [Australia](https://etheriamagazine.com/2019/03/07/revista-viajes-que-ver-australia/). 
 
-![viaje nueva york, celia diaz, visit britain](etheria_images/2020/02/celia-diaz-Top-of-the-Rock-New-York-884x1024.jpg "Vistas desde Top of the Rock, en Nueva York.")
+![viaje nueva york, celia diaz, visit britain](etheria-images/2020/02/celia-diaz-Top-of-the-Rock-New-York-884x1024.jpg "Vistas desde Top of the Rock, en Nueva York.")
 
 ### 11\. ¿Qué país te ha ganado con su gastronomía?
 
@@ -175,7 +175,7 @@ en plena campiña inglesa.
 Hay otras firmas que creo que lo están haciendo verdaderamente bien como Artist 
 Residence o The Pig en Reino Unido o Saguaro, Mama Shelter y CitizenM. 
 
-![Soho Farmhouse](etheria_images/2020/02/soho-farmahouse-900x446.jpg "© Soho Farmhouse.")
+![Soho Farmhouse](etheria-images/2020/02/soho-farmahouse-900x446.jpg "© Soho Farmhouse.")
 
 > En mi bolsa de mano nunca faltan... revistas, neceser, libreta y, si es viaje largo, 
 > guía en papel, me encantan. 

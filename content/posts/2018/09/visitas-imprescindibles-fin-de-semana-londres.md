@@ -1,14 +1,14 @@
 ---
 title: "Fin de semana Londres, qué hacer para exprimirlo al máximo"
 date: 2018-09-13
-coverImage: etheria_images/2018/08/Londres-Westminster.jpg
+coverImage: etheria-images/2018/08/Londres-Westminster.jpg
 categories: 
   - viajes-48-horas
   - viajes-urbanos
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Aunque puede parecer que un fin de semana en Londres no es suficiente para conocer todas 
@@ -16,7 +16,7 @@ sus facetas, sí que da para visitar algunos de esos lugares que la hacen tan es
 diferente a otras. Si seguís las siguientes recomendaciones lo comprobaréis por vosotras 
 mismas. 
 
-![Las célebres cabinas londinenses y sus también conocidos taxis en los que casi se puede entrar de pie.](etheria_images/2018/08/Londres-taxi-y-cabina.jpg "Las célebres cabinas londinenses y sus también conocidos taxis en los que casi se puede entrar de pie.")
+![Las célebres cabinas londinenses y sus también conocidos taxis en los que casi se puede entrar de pie.](etheria-images/2018/08/Londres-taxi-y-cabina.jpg "Las célebres cabinas londinenses y sus también conocidos taxis en los que casi se puede entrar de pie.")
 
 Si tienes planeado pasar un fin de semana en Londres y estás dispuesta a salirte un poco 
 de los tópicos, has llegado al artículo adecuado. Por supuesto, visitaremos algunos de 
@@ -41,7 +41,7 @@ James Street, donde se solían situar los clubes de caballeros.
 > En el Londres del siglo XXI ya se contemplaban clubes como Grace Belgravia para el 
 > disfrute de las damas. 
 
-![Los sombreros de Philip Treacy desfilan por el hipódromo de Ascot.](etheria_images/2018/08/Londres-Philip-Tracy.jpg "Los sombreros de Philip Treacy desfilan por el hipódromo de Ascot.")
+![Los sombreros de Philip Treacy desfilan por el hipódromo de Ascot.](etheria-images/2018/08/Londres-Philip-Tracy.jpg "Los sombreros de Philip Treacy desfilan por el hipódromo de Ascot.")
 
 ### Tiendas muy british
 
@@ -65,7 +65,7 @@ Globe**, donde Shakespeare representó varias de sus obras.
 ?[Entradas para el London 
 Eye](https://www.civitatis.com/es/londres/entradas-london-eye/): 39 euros. 
 
-![El Palacio de Westminster alberga la torre del célebre reloj que tiene una campana llamada Big Ben.](etheria_images/2018/08/Londres-Big-Ben.jpg "El Palacio de Westminster alberga la torre del célebre reloj que tiene una campana llamada Big Ben.")
+![El Palacio de Westminster alberga la torre del célebre reloj que tiene una campana llamada Big Ben.](etheria-images/2018/08/Londres-Big-Ben.jpg "El Palacio de Westminster alberga la torre del célebre reloj que tiene una campana llamada Big Ben.")
 
 ### West End, teatros y pubs
 
@@ -86,7 +86,7 @@ vendían en Portobello, el **mercadillo de Notting Hill**. Tomad nota porque a e
 mercado hay que ir los sábados cuando se montan los puestos de ropa, antigüedades y 
 libros. 
 
-![Escena en Portobello, en el barrio chic de Notting Hill donde vive la mayor cantidad de famosos por metro cuadrado.](etheria_images/2018/08/Londres-Portobello.jpg "Escena en Portobello, en el barrio chic de Notting Hill donde vive la mayor cantidad de famosos por metro cuadrado.")
+![Escena en Portobello, en el barrio chic de Notting Hill donde vive la mayor cantidad de famosos por metro cuadrado.](etheria-images/2018/08/Londres-Portobello.jpg "Escena en Portobello, en el barrio chic de Notting Hill donde vive la mayor cantidad de famosos por metro cuadrado.")
 
 ### Barrio de Bloomsbury
 
@@ -98,7 +98,7 @@ la **Universidad de Londres**, la **Casa de Dickens** y el recién abierto Princ
 London, en el emblemático edificio del antiguo Hotel Russell. Aprovecha para conocer 
 esta novedad londinense y, de paso, comer en su restaurante Neptune. 
 
-![El Barrio de Bloomsbury congregaba el sector bohemio de la sociedad.](etheria_images/2018/08/Londres-Bloomsbury.jpg "El Barrio de Bloomsbury congregaba el sector bohemio de la sociedad.")
+![El Barrio de Bloomsbury congregaba el sector bohemio de la sociedad.](etheria-images/2018/08/Londres-Bloomsbury.jpg "El Barrio de Bloomsbury congregaba el sector bohemio de la sociedad.")
 
 ### SOHO-Chinatown
 
@@ -123,7 +123,7 @@ de Londres. Receptáculo de conciertos y manifestaciones, lo cruza el lago Serpe
 limita con el **palacio de Buckingham** y con el hotel Mandarin Oriental, en el barrio 
 exclusivo de **Knightsbridge**. 
 
-![Hyde Park, un escape campestre en el centro de Londres.](etheria_images/2018/08/LONDRES-HYDE-PARK.jpg "Hyde Park, un escape campestre en el centro de Londres.")
+![Hyde Park, un escape campestre en el centro de Londres.](etheria-images/2018/08/LONDRES-HYDE-PARK.jpg "Hyde Park, un escape campestre en el centro de Londres.")
 
 Otra opción dominguera es Bayswater donde se puede disfrutar del **Open Art Gallery**, 
 que muestra obras de artistas expuestas al aire libre. Esta zona está repleta de hoteles 

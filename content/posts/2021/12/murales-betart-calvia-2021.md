@@ -1,17 +1,17 @@
 ---
 title: "BetArt Calvià 2021, visita sus cinco nuevos murales"
 date: 2021-12-04
-coverImage: etheria_images/2021/12/Joan-Cabrer-1.jpg
+coverImage: etheria-images/2021/12/Joan-Cabrer-1.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si viajas a Mallorca, no dejes de visitar Calvià y Es Capdella para conocer los nuevos cinco murales que ha dejado el Festival BetArt 2021. Los artistas que han realizado estas obras de arte son Joan Cabrer, César Goce y Pedro Kouba, Sabek, Dafne Tree y Manolo Mesa.
 
-![sabek en BetArt 2021](etheria_images/2021/12/Sabek-BetArt-2021.jpg "Mural de Sabek en BetArt 2021.")
+![sabek en BetArt 2021](etheria-images/2021/12/Sabek-BetArt-2021.jpg "Mural de Sabek en BetArt 2021.")
 
 La sexta edición de la bienal del BetArt Calvià 2021 ha dejado cinco obras que se suman 
 a otras cuatro que ya se distribuyen por el municipio. Este proyecto comenzó en 2012 
@@ -34,7 +34,7 @@ son Dafne Tree, Joan Cabrer, Manolo Mesa, César Goce y Pedro Kouba, y Sabek. To
 han plasmado sus pinturas murales en diferentes ubicaciones de Calvià vila y Es Capdellà 
 (pueblo de Calvià). 
 
-![betart 2021 dafne tree](etheria_images/2021/12/Dafne-Tree.jpg "Mural de Dafne Tree.")
+![betart 2021 dafne tree](etheria-images/2021/12/Dafne-Tree.jpg "Mural de Dafne Tree.")
 
 ### Dafne Tree
 
@@ -44,7 +44,7 @@ arquitectónicos de la isla. Están representados los _talaiots_ que hacen refer
 los yacimientos que mezcla con nuevas ruinas de arquitectura contemporánea que se pueden 
 encontrar en la periferia de las ciudades, como elementos constructivos industriales. 
 
-![joan cabrer mural BetArt 2021](etheria_images/2021/12/Joan-Cabrer.jpg "Mural de Joan Cabrer en un campo de fútbol.")
+![joan cabrer mural BetArt 2021](etheria-images/2021/12/Joan-Cabrer.jpg "Mural de Joan Cabrer en un campo de fútbol.")
 
 ### Joan Cabrer
 
@@ -52,7 +52,7 @@ La obra de Joan Cabrer, **_Paisatge digital_**, también se encuentra en un camp
 fútbol. Su obra hace referencia a la cultura digital de pantalla y ofrece distintas 
 imágenes en función de donde se observe. 
 
-![mural manolo mesa BetArt 2021](etheria_images/2021/12/Manolo-Mesa.jpg "Mural de Manolo Mesa en BetArt 2021.")
+![mural manolo mesa BetArt 2021](etheria-images/2021/12/Manolo-Mesa.jpg "Mural de Manolo Mesa en BetArt 2021.")
 
 ### Manolo Mesa
 
@@ -60,7 +60,7 @@ Esta poética obra realizada por Manolo Mesa, y situada en la plaza Collidores d
 de Calvià vila, reproduce piezas de cerámica tradicional. El autor suele trabajar 
 ambientes de interiores y el color y el entorno del espacio le ha influido a elegirlos. 
 
-![sabek en BetArt 2021](etheria_images/2021/12/Sabek.jpg "Mural de Sabek en BetArt 2021.")
+![sabek en BetArt 2021](etheria-images/2021/12/Sabek.jpg "Mural de Sabek en BetArt 2021.")
 
 ### Sabek
 
@@ -69,7 +69,7 @@ el impacto positivo y la energía creadora. En este festival ha llevado a cabo l
 representación de **un mero** en la nave de Mantenimiento de Ses Quarterades, en Calvià 
 vila. 
 
-![Goce Kouba BetArt 2021](etheria_images/2021/12/Goce-Kouba.jpg "Mural de César Goce y Pedro Kouba en BetArt 2021.")
+![Goce Kouba BetArt 2021](etheria-images/2021/12/Goce-Kouba.jpg "Mural de César Goce y Pedro Kouba en BetArt 2021.")
 
 ### César Goce y Pedro Kouba
 

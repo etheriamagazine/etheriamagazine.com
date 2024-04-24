@@ -1,12 +1,12 @@
 ---
 title: "Los valles de la Jacetania, las 'joyicas' del Pirineo aragonés"
 date: 2019-09-25
-coverImage: etheria_images/2019/09/Jacetania-puerto-somport.jpg
+coverImage: etheria-images/2019/09/Jacetania-puerto-somport.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Elisabeth G. Iborra
 ---
 
@@ -15,7 +15,7 @@ boquiabierta a cada paso. Este puede ser un buen destino para viajar sola, ya qu
 las actividades que te proponemos y la rica gastronomía del lugar no echarás de menos a 
 nadie. Te contamos qué ver en los valles de la Jacetania para que no te pierdas nada. 
 
-![Monasterio de Siresa.](etheria_images/2019/09/Jacetania-Siresa-900x600.jpg "Monasterio de Siresa.")
+![Monasterio de Siresa.](etheria-images/2019/09/Jacetania-Siresa-900x600.jpg "Monasterio de Siresa.")
 
 El Pirineo aragonés tiene valles imponentes e infinitas localizaciones que ofrecen 
 visitas teatralizadas y actividades –como el parapente o las tirolinas– para disfrutar, 
@@ -70,7 +70,7 @@ la historia, la ubicación y las energías e insonorizaciones extrañas que han 
 todo tipo de expertos científicos en ese pequeño espacio plantado en medio de otras 
 cuatro ermitas a las que él, ajado y vivido, apunta en el horizonte. 
 
-![Ermita de San Adrián de Sasabe.](etheria_images/2019/09/Jacetania-adrian-sasabe-900x600.jpg "Ermita de San Adrián de Sasabe.")
+![Ermita de San Adrián de Sasabe.](etheria-images/2019/09/Jacetania-adrian-sasabe-900x600.jpg "Ermita de San Adrián de Sasabe.")
 
 ### Ermitas de San Adrián de Sasabe y de la Virgen de Iguacel
 
@@ -100,7 +100,7 @@ finales de agosto. Aunque tampoco estaría mal hacer las visitas en Halloween, q
 preparan una edición especial más terrorífica. Al salir, camina hasta el coqueto casco 
 viejo del pueblo. 
 
-[![Interior de la Cueva de las Güixas en la Jacetania](etheria_images/2019/09/Jacetania-guixas-900x473.jpg "Interior de la Cueva de las Güixas.")](http://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/jacetania-guixas/)
+[![Interior de la Cueva de las Güixas en la Jacetania](etheria-images/2019/09/Jacetania-guixas-900x473.jpg "Interior de la Cueva de las Güixas.")](http://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/jacetania-guixas/)
 
 ## Canfranc, la historia de una estación
 
@@ -112,7 +112,7 @@ por esta estación fluía todo el tráfico de mercancías y de personas hasta qu
 guerras estúpidas que han asolado nuestro continente la dejaron en el abandono. La buena 
 noticia es que su admirable edificio sigue en pie, y está siendo reconvertido en hotel. 
 
-![Estación de Canfranc.](etheria_images/2019/09/Jacetania-estacion-canfranc-900x600.jpg "Estación de Canfranc.")
+![Estación de Canfranc.](etheria-images/2019/09/Jacetania-estacion-canfranc-900x600.jpg "Estación de Canfranc.")
 
 ## Candanchú y Astún, tocando Francia
 
@@ -145,7 +145,7 @@ escribo este reportaje con las vistas del pueblo a la luz de la luna cenando un 
 de jabalí' con un **Edra** (bodega-edra.com) de Ayerbe, una sincera bodega de Huesca que 
 merece la pena acercarte a conocer. 
 
-![Monasterio de San Juan de la Peña en la Jacetania](etheria_images/2019/09/Jacetania-San-Juan-de-la-Peña-900x600.jpg "Monasterio de San Juan de la Peña.")
+![Monasterio de San Juan de la Peña en la Jacetania](etheria-images/2019/09/Jacetania-San-Juan-de-la-Peña-900x600.jpg "Monasterio de San Juan de la Peña.")
 
 ## Valles de Hecho, de Ansó y de Zuriza
 
@@ -159,7 +159,7 @@ precipicios hasta llegar a los imponentes valles occidentales de nuevo, desde Gu
 hasta Aguas Tuertas, y, si vas con energía, pasión, agua y víveres, patear para 
 contemplar la zona megalítica y el ibon de Estanés. 
 
-![Hecho, pueblo de la Jacetania](etheria_images/2019/09/Jacetania-hecho-900x600.jpg "Imagen del bonito pueblo de Hecho.")
+![Hecho, pueblo de la Jacetania](etheria-images/2019/09/Jacetania-hecho-900x600.jpg "Imagen del bonito pueblo de Hecho.")
 
 ### Valle de Ansó
 
@@ -172,7 +172,7 @@ torreta, con exposiciones de los vecinos, su iglesia y sus casas indianas. Disfr
 su gastronomía y de vinos diferentes en bares como el Maiberal y el Berari, una gozada 
 que denota la influencia vasca. 
 
-![Ansó, pueblo de la Jacetania](etheria_images/2019/09/Jacetania-Anso-900x600.jpg "Ansó, declarado uno de los 'Pueblos más bonitos de España'.")
+![Ansó, pueblo de la Jacetania](etheria-images/2019/09/Jacetania-Anso-900x600.jpg "Ansó, declarado uno de los 'Pueblos más bonitos de España'.")
 
 ### Valle de Zuriza
 
@@ -181,7 +181,7 @@ Biniés,** hacia el sur, son alucinantes. Este último, con el castillo que coro
 pueblo de **Biniés,** ya te aboca a Berdún, (en la carretera hacia Huesca o Pamplona), 
 el punto de salida de esta Jacetania a la que, sin duda alguna, querrás regresar. 
 
-![Foz de Binies.](etheria_images/2019/09/Jacetania-foz-binies-900x600.jpg "Foz de Binies.")
+![Foz de Binies.](etheria-images/2019/09/Jacetania-foz-binies-900x600.jpg "Foz de Binies.")
 
 Todas las fotografías publicadas en este artículo son © Archivo DGA y Comarca de la 
 Jacetania. 

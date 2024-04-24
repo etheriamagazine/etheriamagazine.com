@@ -1,10 +1,10 @@
 ---
 title: "Ronda con amigas, pistas para gozar al máximo"
 date: 2021-11-23
-coverImage: etheria_images/2021/11/ronda-Arco-de-Felipe-V.jpg
+coverImage: etheria-images/2021/11/ronda-Arco-de-Felipe-V.jpg
 categories: 
   - viajes-con-amigas
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
@@ -15,7 +15,7 @@ experiencia de vivir un fin de semana en Ronda con amigas? Os anticipo que os re
 prácticamente imposible escapar a su influjo. En Etheria Magazine os damos las claves 
 para planificar un viaje de ensueño. 
 
-![arco felipe v ronda](etheria_images/2021/11/ronda-Arco-de-Felipe-V.jpg "Arco de Felipe V con la serranía al fondo. © Yolanda Cardo")
+![arco felipe v ronda](etheria-images/2021/11/ronda-Arco-de-Felipe-V.jpg "Arco de Felipe V con la serranía al fondo. © Yolanda Cardo")
 
 Para ver Ronda hacen falta tres o cuatro días”, dice Jaime, el simpático guía que me 
 acompañó durante una visita _exprés_ a la bella localidad malagueña. ¡Y cuánta razón 
@@ -28,7 +28,7 @@ aguas del Guadalevín, es su más “instagrameable” postal, pero no la única
 vosotras comenzaría a sincronizar agendas para poner rumbo hacia una de las ciudades más 
 bellas de España. 
 
-![puente nuevo en tajo de ronda](etheria_images/2021/11/Puente-Nuevo-Tajo-de-Ronda.jpg "Imagen del monumental Puente Nuevo y el Tajo de Ronda. ©Yolanda Cardo")
+![puente nuevo en tajo de ronda](etheria-images/2021/11/Puente-Nuevo-Tajo-de-Ronda.jpg "Imagen del monumental Puente Nuevo y el Tajo de Ronda. ©Yolanda Cardo")
 
 ## El puente de Ronda, una historia con miga
 
@@ -56,7 +56,7 @@ se refieren como “la Ronda de verdad”. Aquella con una historia que se remon
 2.500 años de antigüedad. Romanos, visigodos, musulmanes o cristianos han dejado su 
 huella, siglos de generoso legado que se acumulan en cada rincón. 
 
-![calle tenorio planes ronda con amigas](etheria_images/2021/11/calle-Tenorio.jpg "La calle Tenorio, una de las más bonitas del municipio. © Yolanda Cardo")
+![calle tenorio planes ronda con amigas](etheria-images/2021/11/calle-Tenorio.jpg "La calle Tenorio, una de las más bonitas del municipio. © Yolanda Cardo")
 
 La **calle Tenorio**, una de las más bonitas que podáis imaginar, es un buen punto de 
 partida para comenzar a explorar el monumental casco histórico. Esta encantadora vía 
@@ -70,7 +70,7 @@ el **Museo Joaquín Peinado**; en la cercana plaza de la duquesa de Parcent la
 **Colegiata de Santa María la Mayor**, levantada sobre una antigua mezquita cuyo 
 interior bien merece una visita, y el ayuntamiento que ocupa un antiguo cuartel. 
 
-![calles de ronda malaga](etheria_images/2021/11/Calles-ronda.jpg "Calles empinadas y empedradas y comercios tradicionales en la Ronda monumental. © Yolanda Cardo")
+![calles de ronda malaga](etheria-images/2021/11/Calles-ronda.jpg "Calles empinadas y empedradas y comercios tradicionales en la Ronda monumental. © Yolanda Cardo")
 
 ### Casa del Rey Moro y Arco de Felipe V
 
@@ -85,7 +85,7 @@ las históricas puertas de entrada a la ciudad con unas increíbles vistas. No d
 tampoco de visitar los baños árabes, de los mejores conservados de toda la península, 
 cuyo origen se remonta a los siglos XIII-XIV d.C. 
 
-![plaza del socorro ronda](etheria_images/2021/11/plaza-del-Socorro-ronda.jpg "La plaza del Socorro, un lugar con mucho ambiente. © Yolanda Cardo")
+![plaza del socorro ronda](etheria-images/2021/11/plaza-del-Socorro-ronda.jpg "La plaza del Socorro, un lugar con mucho ambiente. © Yolanda Cardo")
 
 ## … Y también algo nuevo
 
@@ -104,7 +104,7 @@ comercial, la carrera Espinel, popularmente conocida como **calle de la Bola**, 
 encontraréis una sucesión de concurridos restaurantes, cafeterías, comercios y coloridas 
 tiendas de _souvenirs_. 
 
-![plaza de toros de ronda](etheria_images/2021/11/plaza-toros-ronda.jpg "Panorámica de la histórica plaza de toros de Ronda desde el hotel Catalonia Ronda. © Yolanda Cardo")
+![plaza de toros de ronda](etheria-images/2021/11/plaza-toros-ronda.jpg "Panorámica de la histórica plaza de toros de Ronda desde el hotel Catalonia Ronda. © Yolanda Cardo")
 
 ## Miradores de infarto y uno de nombre políticamente incorrecto…
 
@@ -115,7 +115,7 @@ desde el llamado, perdón por la expresión, “balcón del coño”. El motivo 
 sencillo, todo aquel que se asoma a este inmenso ventanal exclama ¡coño! No es para 
 menos, nuestros pies reposan sobre una plataforma a muchos metros de altura… 
 
-![balcon selfis en ronda con amigas](etheria_images/2021/11/balcon-ronda.jpg "Si tenéis miedo a las alturas, mejor no os asoméis a este balcón. © Yolanda Cardo")
+![balcon selfis en ronda con amigas](etheria-images/2021/11/balcon-ronda.jpg "Si tenéis miedo a las alturas, mejor no os asoméis a este balcón. © Yolanda Cardo")
 
 ## La ronda Rilke y la de Irving, Hemingway, Orson Wells…
 
@@ -132,7 +132,7 @@ Ambos siguen siendo eternos embajadores de esta ciudad que tanto amaron, incluso
 propio Welles quiso ser enterrado aquí. Sus restos reposan en la finca del que fuera su 
 gran amigo, el torero Antonio Ordóñez. 
 
-![mural viajeros romanticos ronda](etheria_images/2021/11/viajeros-romanticos-Ronda.jpg "Un mural de cerámicas homenajea a los viajeros románticos de Ronda. © Yolanda Cardo")
+![mural viajeros romanticos ronda](etheria-images/2021/11/viajeros-romanticos-Ronda.jpg "Un mural de cerámicas homenajea a los viajeros románticos de Ronda. © Yolanda Cardo")
 
 ## Dónde comer muy bien en Ronda
 
@@ -148,7 +148,7 @@ igualmente delicioso, reservad en el r**estaurante Azahar** en el Hotel Cataloni
 Victoria o en el **restaurante Panorámico**, con espectaculares vistas a la plaza de 
 toros, con el chef Álvaro Anguiano a la cabeza. 
 
-![restaurante panoramico ronda](etheria_images/2021/11/restaurante-Panoramico-ronda.jpg "Croquetas de jamón ibérico y unos ligeros bocados de calamares son algunas de las deliciosas propuestas del restaurante Panorámico. © Yolanda Cardo")
+![restaurante panoramico ronda](etheria-images/2021/11/restaurante-Panoramico-ronda.jpg "Croquetas de jamón ibérico y unos ligeros bocados de calamares son algunas de las deliciosas propuestas del restaurante Panorámico. © Yolanda Cardo")
 
 ## Bodegas con mucha historia
 
@@ -162,7 +162,7 @@ prácticamente derruido. Así permaneció hasta que Paco Retamero y Flavio Sales
 decidieron recuperarlo para convertirlo en bodega. Cualquiera de ellos os contarán 
 encantados el resto de la historia mientras saboreáis sus sorprendentes vinos. 
 
-![bodega descalzos viejos ronda](etheria_images/2021/11/bodega-Descalzos-Viejos-ronda.jpg "La bodega Descalzos Viejos, buenos vinos y mucha historia. ©Yolanda Cardo")
+![bodega descalzos viejos ronda](etheria-images/2021/11/bodega-Descalzos-Viejos-ronda.jpg "La bodega Descalzos Viejos, buenos vinos y mucha historia. ©Yolanda Cardo")
 
 ## Dormir en un hotel con vistas a…
 
@@ -172,7 +172,7 @@ inmejorables a la mítica plaza de toros. Piscina infinita en la azotea; spa, co
 más que interesantes, y una oferta culinaria deliciosa en el restaurante Panorámico del 
 que ya os hemos hablado. 
 
-![vista ronda desde garganta guadalevin](etheria_images/2021/11/Casas-blancas-garganta-rio-Guadalevin.jpg "Las casas blancas se asoman a la garganta natural del río Guadalevín. © Yolanda Cardo")
+![vista ronda desde garganta guadalevin](etheria-images/2021/11/Casas-blancas-garganta-rio-Guadalevin.jpg "Las casas blancas se asoman a la garganta natural del río Guadalevín. © Yolanda Cardo")
 
 **Te puede interesar...** 
 

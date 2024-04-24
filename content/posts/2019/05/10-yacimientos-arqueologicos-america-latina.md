@@ -1,20 +1,20 @@
 ---
 title: "10 yacimientos arqueológicos en América Latina que tienes que conocer"
 date: 2019-05-29
-coverImage: etheria_images/2019/05/yacimientos-america-machu-picchu.jpg
+coverImage: etheria-images/2019/05/yacimientos-america-machu-picchu.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Estos 10 yacimientos arqueológicos de América Latina son la excusa perfecta para viajar 
 a este continente y descubrir el resto de sus facetas. Aunque hay muchos más de los 
 mencionados, estos son los sitios imprescindibles. 
 
-![Casa de las Palomas del yacimiento maya de Uxmal (México).](etheria_images/2019/05/uxmal-casa-palomas.jpg "Casa de las Palomas del yacimiento maya de Uxmal (México).")
+![Casa de las Palomas del yacimiento maya de Uxmal (México).](etheria-images/2019/05/uxmal-casa-palomas.jpg "Casa de las Palomas del yacimiento maya de Uxmal (México).")
 
 La historia y la arqueología son dos alicientes muy importantes para decidirse a viajar 
 a América Latina. Aquí te mostramos sólo algunos ejemplos de la extensa y apasionante 
@@ -28,7 +28,7 @@ Sudamérica. El increíble yacimiento inca de Machu Picchu, subido a montañas d
 2.500, metros añade, a su singular historia y los misterios que la rodean, unas vistas 
 tan espectaculares que cuesta quedarse con sólo una. 
 
-![Sitio arqueológico de Machu Picchu](etheria_images/2019/05/yacimientos-america-machu-picchu.jpg "Vista de Machu Picchu desde lo alto.")
+![Sitio arqueológico de Machu Picchu](etheria-images/2019/05/yacimientos-america-machu-picchu.jpg "Vista de Machu Picchu desde lo alto.")
 
 ## Teotihuacán (Ciudad de México, México)
 
@@ -42,7 +42,7 @@ su 'Tierra de Muertos'.
 ✅ [‘Coco’, una película que nos acerca a México y sus 
 tradiciones](https://etheriamagazine.com/2018/05/28/en-el-mexico-de-coco/) 
 
-![Explanada de Teotihuacán](etheria_images/2019/05/yacimientos-america-mexico.jpg "Extensa explanada del yacimiento de Teotihuacán.")
+![Explanada de Teotihuacán](etheria-images/2019/05/yacimientos-america-mexico.jpg "Extensa explanada del yacimiento de Teotihuacán.")
 
 ## Tikal (Flores, Guatemala)
 
@@ -52,7 +52,7 @@ mayas. Situado en medio de la selva, Tikal es una de las mejores muestras del es
 arquitectónico típico de las tierras bajas centrales y destacan sus estilizadas 
 pirámides escalonadas, sus estelas y sus altares. 
 
-![Yacimiento de Tikal](etheria_images/2019/05/yacimientos-america-tikal.jpg "Yacimiento de Tikal. © diegograndi/Adobe Stock")
+![Yacimiento de Tikal](etheria-images/2019/05/yacimientos-america-tikal.jpg "Yacimiento de Tikal. © diegograndi/Adobe Stock")
 
 ## Los moáis (Isla de Pascua, Chile)
 
@@ -61,7 +61,7 @@ transportar estas enormes estatuas que se erigieron en la isla de Pascua como tu
 para venerar a los dioses. Hay más de 900 moáis que se reparten por toda la isla en 
 distintos yacimientos y se cree que se tallaron entre los siglos IX y XVI. 
 
-![Moais en la isla de Pascua](etheria_images/2019/05/yacimientos-america-latina-isla-pascua.jpg "Moáis de Isla de Pascua. © Daboost/Adobe Stock")
+![Moais en la isla de Pascua](etheria-images/2019/05/yacimientos-america-latina-isla-pascua.jpg "Moáis de Isla de Pascua. © Daboost/Adobe Stock")
 
 ## Chichén Itzá (Yucatán, México)
 
@@ -71,7 +71,7 @@ impresionante pirámide de Kukulkán es obligatorio. Como en la mayoría de los 
 mayas, en Chichén Itzá sólo está abierta al público una pequeña parte (aunque muy 
 extensa y llena de tesoros arqueológicos) de la zona protegida. 
 
-![Pirámide de Kukulkán en Chichén Itzá.](etheria_images/2019/05/yacimientos-america-chichen-itza.jpg "Pirámide de Kukulkán en Chichén Itzá. © Jimmy Baum")
+![Pirámide de Kukulkán en Chichén Itzá.](etheria-images/2019/05/yacimientos-america-chichen-itza.jpg "Pirámide de Kukulkán en Chichén Itzá. © Jimmy Baum")
 
 ## Copán (Honduras)
 
@@ -81,7 +81,7 @@ puedes perderte la Gran Plaza, la Acrópolis, el Juego de Pelota y la Escalinata
 Jeroglíficos. Sin duda, Copán merece estar en nuestro listado de los 10 yacimientos 
 arqueológicos en América Latina. 
 
-![Yacimiento de Copán](etheria_images/2019/05/yacimientos-america-copan.jpg "Yacimiento de Copán. © Jordan/Adobe Stock")
+![Yacimiento de Copán](etheria-images/2019/05/yacimientos-america-copan.jpg "Yacimiento de Copán. © Jordan/Adobe Stock")
 
 ## Monte Albán (Oaxaca, México)
 
@@ -91,7 +91,7 @@ Monte Albán fue una de las ciudades más importantes de Mesoamérica y su aspec
 estructura lo vincula con Teotihuacán. Es tan interesante su legado histórico como su 
 ubicación y sus vistas. 
 
-![Monte Albán en México](etheria_images/2019/05/yacimientos-america-monte-alban.jpg "Imagen de Monte Albán. © Matthew Essman")
+![Monte Albán en México](etheria-images/2019/05/yacimientos-america-monte-alban.jpg "Imagen de Monte Albán. © Matthew Essman")
 
 ## Cueva de las Manos (Santa Cruz, Argentina)
 
@@ -101,7 +101,7 @@ Cruz, en Patagonia, y demuestra la presencia de cazadores recolectores en la zon
 durante 9.000 años. Aunque hay algunas escenas de caza y figuras abstractas, lo más 
 impresionante son los negativos de numerosas manos sobre la piedra. 
 
-![Cueva de las Manos en Argentina](etheria_images/2019/05/arqueologia-america-argentina.jpg "Manos en negativo en La Cueva de las Manos. © Buteo/Adobe Stock")
+![Cueva de las Manos en Argentina](etheria-images/2019/05/arqueologia-america-argentina.jpg "Manos en negativo en La Cueva de las Manos. © Buteo/Adobe Stock")
 
 ## Chan Chan (Trujillo, Perú)
 
@@ -110,7 +110,7 @@ incas, muestra la ciudadela de Nik An, construida en adobe con curiosas formas
 geométricas. Chan Chan está considerada como la ciudad de barro más grande del mundo. No 
 puedes perdértela si visitas la ciudad de Trujillo, en la costa norte de Perú. 
 
-![Ciudadela de Chan Chan](etheria_images/2019/05/yacimientos-america-peru.jpg "Ciudadela de adobe de Chan Chan. © gaelj/Adobe Stock")
+![Ciudadela de Chan Chan](etheria-images/2019/05/yacimientos-america-peru.jpg "Ciudadela de adobe de Chan Chan. © gaelj/Adobe Stock")
 
 ## Uxmal (Yucatán, México)
 
@@ -120,7 +120,7 @@ Mérida. Su **Pirámide del Adivino**, en medio de la selva, es imponente, aunqu
 se pueden visitar también el Palacio del Gobernador, el Cuadrángulo de las Monjas o el 
 Juego de Pelota. 
 
-![Pirámide de Uxmal en México](etheria_images/2019/05/yacimientos-amercia-tulum.jpg "Pirámide del Adivino en Uxmal. © Aleksandar Todorovic/Adobe Stock")
+![Pirámide de Uxmal en México](etheria-images/2019/05/yacimientos-amercia-tulum.jpg "Pirámide del Adivino en Uxmal. © Aleksandar Todorovic/Adobe Stock")
 
 ? **También te puede interesar:** 
 

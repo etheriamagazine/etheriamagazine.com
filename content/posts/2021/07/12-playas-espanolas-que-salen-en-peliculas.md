@@ -1,12 +1,12 @@
 ---
 title: "12 playas de cine en España donde darse el primer chapuzón"
 date: 2021-07-19
-coverImage: etheria_images/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg
+coverImage: etheria-images/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg
 categories: 
   - viajes-cine
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
+authors: 
   - Eva Madruga
 ---
 
@@ -15,7 +15,7 @@ gran pantalla para hacernos disfrutar primero desde el sillón y después en su 
 orilla. Te invitamos a repasar estas 12 playas de cine para ver cuántas conoces y cuáles 
 van a formar parte de tu lista de deseos en las próximas vacaciones. 
 
-![Playa de As Furnas, de la película 'Mar Adentro'.](etheria_images/2021/07/playa-As-furnas-Mar-Adentro.jpg "Playa de As Furnas, en © 'Mar Adentro'.")
+![Playa de As Furnas, de la película 'Mar Adentro'.](etheria-images/2021/07/playa-As-furnas-Mar-Adentro.jpg "Playa de As Furnas, en © 'Mar Adentro'.")
 
 Ya está aquí el verano y todos tenemos muchas ganas de sol y playa. En nuestro país las 
 tenemos para todos los gustos: calas pequeñas, recónditas, con largos paseos marítimos, 
@@ -39,7 +39,7 @@ amigo_". As Furnas ha aparecido también recientemente en la serie de televisió
 familiar porque es el entorno donde tienen lugar las conversaciones entre Terito y Sito 
 Miñanco. 
 
-![Escena de Fariña en la playa de As Furnas.](etheria_images/2021/07/playa-As-furnas-Farina.jpg "Escena de Fariña en la playa de As Furnas. © Atresmedia")
+![Escena de Fariña en la playa de As Furnas.](etheria-images/2021/07/playa-As-furnas-Farina.jpg "Escena de Fariña en la playa de As Furnas. © Atresmedia")
 
 ## 2\. Playa de Torimbia (Llanes, Asturias)
 
@@ -52,7 +52,7 @@ de Niembru y la estación de Posada. Pero no es esta la única película rodada 
 bonita villa. Hay numerosos escenarios naturales que han sido platós cinematográficos y 
 aparecen recogidos en la ruta [Llanes de Cine](https://www.llanes.es/es/llanes-de-cine). 
 
-![playa torimbia pelicula el abuelo](etheria_images/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg "La playa de Torimbia (Llanes) aparece en el filme 'El Abuelo'. © Turismo Llanes")
+![playa torimbia pelicula el abuelo](etheria-images/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg "La playa de Torimbia (Llanes) aparece en el filme 'El Abuelo'. © Turismo Llanes")
 
 ## 3\. Playa de Comillas (Cantabria)
 
@@ -64,7 +64,7 @@ las localizaciones (más allá de la costa) donde los protagonistas viven sus av
 desventuras puedes seguir nuestra [Ruta de ‘Primos’ en 
 Comillas](https://etheriamagazine.com/2019/09/03/primos-un-viaje-de-pelicula-a-comillas/). 
 
-![playa comillas pelicula primos](etheria_images/2021/07/Playa-de-comillas-pelicula-Primos.jpg "Playa de Comillas, en la película © 'Primos'.")
+![playa comillas pelicula primos](etheria-images/2021/07/Playa-de-comillas-pelicula-Primos.jpg "Playa de Comillas, en la película © 'Primos'.")
 
 ## 4\. Playa del Algarrobico (Carboneras, Almería)
 
@@ -76,7 +76,7 @@ Alías, junto a la playa del Algarrobico, se construyó una reproducción exacta
 ciudad jordana de Áqaba. En la playa del Algarrobico, que en esos años todavía estaba 
 completamente virgen, podemos ver al aventurero cabalgar al anochecer. 
 
-![playa algarrobico en lawrence de arabia](etheria_images/2021/07/playa-algarrobico-Lawrence-de-Arabia.jpg "La playa del Algarrobico aparece en © 'Lawrence de Arabia'.")
+![playa algarrobico en lawrence de arabia](etheria-images/2021/07/playa-algarrobico-Lawrence-de-Arabia.jpg "La playa del Algarrobico aparece en © 'Lawrence de Arabia'.")
 
 ## 5\. Playas de Mónsul (Níjar, Almería)
 
@@ -95,7 +95,7 @@ costa de Jordania. En su extenso listado de rodajes hay que incluir también esc
 **_Las aventuras del Barón Münchausen_**, **_El hombre que perdió su sombra_** y **_La 
 historia interminable_**. 
 
-![playa del monsul indiana jones](etheria_images/2021/07/Playa-monsul-indiana-jones.jpg "Playa del Mónsul, una localización de 'Indiana Jones' y 'Hable con ella'.")
+![playa del monsul indiana jones](etheria-images/2021/07/Playa-monsul-indiana-jones.jpg "Playa del Mónsul, una localización de 'Indiana Jones' y 'Hable con ella'.")
 
 ## 6\. La Caleta (Cádiz)
 
@@ -110,7 +110,7 @@ adaptación de la obra del gaditano **Manuel de Falla**: **_El Amor Brujo_**; y 
 **_Manolete_**, la película protagonizada por Adrien Brody y Penélope Cruz, aunque en 
 esta última se inmortalizó simulando que era una plaza mexicana. 
 
-![007 y alatriste peliculas rodadas en la caleta](etheria_images/2021/07/playa-la-caleta-Muere-otro-dia-900x361.jpg "'Alatriste' y '007: Muere otro día' rodaron escenas en La Caleta (Cádiz). © Danjaq, Llc and United Artists corporation")
+![007 y alatriste peliculas rodadas en la caleta](etheria-images/2021/07/playa-la-caleta-Muere-otro-dia-900x361.jpg "'Alatriste' y '007: Muere otro día' rodaron escenas en La Caleta (Cádiz). © Danjaq, Llc and United Artists corporation")
 
 ## 7\. Playa de Ses Illetes (Formentera)
 
@@ -124,7 +124,7 @@ en parte a que los fondos están cubiertos de praderas de posidonia oceánica, d
 Patrimonio de la Humanidad por la Unesco. Para acceder a este paraíso lo mejor es 
 hacerlo a pie o en bicicleta (en coche o moto hay que abonar una tasa a la entrada). 
 
-![playa de ses illetes formentera lucia y el sexo](etheria_images/2021/07/playa-ses-illetes-ibiza-y-el-sexo.jpg "La playa de Ses Illetes aparece en 'Lucía y el sexo'. © D.R.")
+![playa de ses illetes formentera lucia y el sexo](etheria-images/2021/07/playa-ses-illetes-ibiza-y-el-sexo.jpg "La playa de Ses Illetes aparece en 'Lucía y el sexo'. © D.R.")
 
 ## 8\. Playa del Golfo (Lanzarote)
 
@@ -138,7 +138,7 @@ es de extrañar que ahí decidiesen alquilar un apartamento los protagonistas de
 película para aislarse del mundo. Si quieres imitarles reserva en la Urbanización 
 Bungalows Playa Famara. 
 
-![Escena de 'Los abrazos rotos' en la playa del Golfo (Lanzarote).](etheria_images/2021/07/Playa-del-Golfo-pelicula-abrazos-rotos.jpg "Escena de © 'Los abrazos rotos' en la playa del Golfo (Lanzarote).")
+![Escena de 'Los abrazos rotos' en la playa del Golfo (Lanzarote).](etheria-images/2021/07/Playa-del-Golfo-pelicula-abrazos-rotos.jpg "Escena de © 'Los abrazos rotos' en la playa del Golfo (Lanzarote).")
 
 ## 9\. Playa de Cofete (Fuerteventura)
 
@@ -151,7 +151,7 @@ playa de Sotavento. Esta extensa playa de arena dorada, de vientos constantes y 
 oleaje sirvió a Ridley Scott para recrear el Mar Rojo en la película **_Exodus: Dioses y 
 reyes_**. 
 
-!['Han Solo: Una historia de Star Wars' uso la playa de Cofete entre sus escenarios.](etheria_images/2021/07/Playa-Cofete-star-wars.jpg "© 'Han Solo: Una historia de Star Wars' uso la playa de Cofete entre sus escenarios.")
+!['Han Solo: Una historia de Star Wars' uso la playa de Cofete entre sus escenarios.](etheria-images/2021/07/Playa-Cofete-star-wars.jpg "© 'Han Solo: Una historia de Star Wars' uso la playa de Cofete entre sus escenarios.")
 
 ## 10\. Las Canteras (Gran Canaria)
 
@@ -170,7 +170,7 @@ ideadas por el escritor cinematográfico **Luis Roca** para Turismo de Las Palma
 Canaria. Se trata de dos rutas autoguiadas de localizaciones de películas que se han 
 rodado en la capital canaria. 
 
-![La playa de las Canteras se encuentra en la ruta de cine de Gran Canaria.](etheria_images/2021/07/playa-las-canteras-rutas-cine.jpg "La playa de las Canteras se encuentra en la ruta de cine de © Gran Canaria.")
+![La playa de las Canteras se encuentra en la ruta de cine de Gran Canaria.](etheria-images/2021/07/playa-las-canteras-rutas-cine.jpg "La playa de las Canteras se encuentra en la ruta de cine de © Gran Canaria.")
 
 ## 11\. Playa de Poniente (Benidorm, Alicante)
 
@@ -187,7 +187,7 @@ Puedes aprovechar la escapada para disfrutar de nuestros [planes secretos en Ben
 más allá de ir a la playa o tomar el 
 sol](https://etheriamagazine.com/2021/03/26/planes-originales-en-benidorm/). 
 
-![Playa de Poniente, escenario de 'Nieva en Benidorm'.](etheria_images/2021/07/playa-Benidorm-Nieva-en-Benidorm.jpg "Playa de Poniente, escenario de © 'Nieva en Benidorm'.")
+![Playa de Poniente, escenario de 'Nieva en Benidorm'.](etheria-images/2021/07/playa-Benidorm-Nieva-en-Benidorm.jpg "Playa de Poniente, escenario de © 'Nieva en Benidorm'.")
 
 ## 12\. Playa Norte (Peñíscola, Castellón)
 
@@ -201,7 +201,7 @@ Bollaín. En los últimos años las series han tomado el relevo de las película
 han rodado **_El Chiringuito de Pepe_**, y la sexta temporada de **_Juego de Tronos_** 
 de HBO. 
 
-![En 1961 se rodaba El Cid' en Peñíscola.](etheria_images/2021/07/playa-norte-pelicula-el-cid.jpg "En 1961 se rodaba © 'El Cid' en Peñíscola.")
+![En 1961 se rodaba El Cid' en Peñíscola.](etheria-images/2021/07/playa-norte-pelicula-el-cid.jpg "En 1961 se rodaba © 'El Cid' en Peñíscola.")
 
 **Sigue leyendo sobre otras playas...** 
 

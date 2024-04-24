@@ -1,18 +1,18 @@
 ---
 title: "WOW Oporto, el mayor barrio gastronómico y cultural de Portugal"
 date: 2022-03-14
-coverImage: etheria_images/2022/03/plaza-central-wow-oporto-1.jpg
+coverImage: etheria-images/2022/03/plaza-central-wow-oporto-1.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Oporto, con su atmósfera portuaria y decadente, sus fachadas de azulejos, calles empinadas y torres que parecen asomarse sobre los tejados es siempre un lugar idóneo para una escapada. Pero si a sus valores añejos se le suma un nuevo barrio gastronómico y cultural como WOW (acrónimo de World of Wine), el éxito está asegurado.
 
-![grupo de amigas tomando una bebida en el patio de wow oporto](etheria_images/2022/03/amigas-wow-oporto.jpg "WOW, un buen espacio para tomar un vino con vistas.")
+![grupo de amigas tomando una bebida en el patio de wow oporto](etheria-images/2022/03/amigas-wow-oporto.jpg "WOW, un buen espacio para tomar un vino con vistas.")
 
 Por si no había suficientes razones para hacer una escapada al país vecino, ahora 
 tenemos una más, con el aliciente añadido de que ronda alrededor del vino, de los 
@@ -23,7 +23,7 @@ de ocio. Por sus cifras podría considerarse uno de los barrios gastronómicos y
 culturales más grandes de Portugal: siete museos, doce espacios donde picar, tomar algo 
 o cenar elegantemente, exposiciones de arte, experiencias, conciertos... 
 
-![plaza central de wow con terrazas y vistas](etheria_images/2022/03/plaza-central-wow-oporto.jpg "Plaza central de WOW Oporto.")
+![plaza central de wow con terrazas y vistas](etheria-images/2022/03/plaza-central-wow-oporto.jpg "Plaza central de WOW Oporto.")
 
 ## WOW o cómo escribir el futuro
 
@@ -43,7 +43,7 @@ lugar de visita obligada tanto para los vecinos de Oporto como para los miles de
 viajeros que disfrutan cada día de esta bohemia ciudad. Si eres una enamorada de la 
 cultura gastronómica, has encontrado un lugar idóneo para ti. 
 
-![Vistas de Oporto desde WOW](etheria_images/2022/03/vistas-oporto-desde-wow.jpg "Vistas de Oporto desde WOW.")
+![Vistas de Oporto desde WOW](etheria-images/2022/03/vistas-oporto-desde-wow.jpg "Vistas de Oporto desde WOW.")
 
 ## Por qué incluir WOW en tu viaje a Oporto
 
@@ -67,7 +67,7 @@ proyecto fue reconocido como de Interés Nacional Potencial (PIN) y ha sido ido 
 por The Fladgate Partnership, un grupo multinacional que engloba empresas de vinos de 
 Oporto, hoteles, restaurantes y compañías de distribución y sostenibilidad. 
 
-![Vista general del distrito cultural WOW de Oporto](etheria_images/2022/03/wow-oporto-vistas.jpg "Vista general del distrito cultural WOW de Oporto.")
+![Vista general del distrito cultural WOW de Oporto](etheria-images/2022/03/wow-oporto-vistas.jpg "Vista general del distrito cultural WOW de Oporto.")
 
 ### 2\. Por sus museos en torno al vino
 
@@ -77,7 +77,7 @@ _Porto Region Across The Ages_ (**Las Edades de Oporto**), un museo donde se rea
 recorrido por el devenir histórico de Oporto, una ciudad conocida como la “Invicta”. El 
 paseo comienza en la Prehistoria y termina en la actualidad. 
 
-![museo las edades de oporto en wow](etheria_images/2022/03/museo-edades-de-oporto-wow.jpg "'Las Edades de Oporto', en WOW.")
+![museo las edades de oporto en wow](etheria-images/2022/03/museo-edades-de-oporto-wow.jpg "'Las Edades de Oporto', en WOW.")
 
 #### La Experiencia del Vino
 
@@ -89,7 +89,7 @@ la uva, del vino y de todo aquello que lo rodea. En algunas salas se ha tratado 
 sea una experiencia didáctica, visual e interactiva con experiencias divertidas como 
 averiguar qué variedad de uva serías en función de tus gustos. 
 
-![Una uva diseccionada en el museo de la experiencia del vino](etheria_images/2022/03/museo-vino-wow-880x1024.jpg "La Experiencia del Vino, el principal museo de WOW.")
+![Una uva diseccionada en el museo de la experiencia del vino](etheria-images/2022/03/museo-vino-wow-880x1024.jpg "La Experiencia del Vino, el principal museo de WOW.")
 
 #### La Colección Bridge
 
@@ -101,7 +101,7 @@ siglos para tomar vino u otras bebidas. A través de diversas salas se desgrana 
 relación del hombre con las copas y se exhiben más de 2.000 piezas, la más antigua 
 datada en el año 7000 a.C. 
 
-![tres piezas expuestas en el museo coleccion bridge de wow oporto](etheria_images/2022/03/coleccion-bridge-wow.jpg "Tres piezas expuestas en La Colección Bridge, de WOW Oporto. © Pepa García")
+![tres piezas expuestas en el museo coleccion bridge de wow oporto](etheria-images/2022/03/coleccion-bridge-wow.jpg "Tres piezas expuestas en La Colección Bridge, de WOW Oporto. © Pepa García")
 
 #### Planeta Corcho
 
@@ -111,7 +111,7 @@ aprendizaje. El corcho no sólo se emplea para los tapones de las botellas de vi
 que se usa en arquitectura, diseño de interiores, en el cine para simular explosiones, 
 en la moda, etc. ¿Sabías que Portugal es el mayor productor de corcho del mundo? 
 
-![Alcornoque a tamaño natural en Planeta Corcho](etheria_images/2022/03/planeta-corcho-wow-oporto.jpg "Alcornoque en Planeta Corcho.")
+![Alcornoque a tamaño natural en Planeta Corcho](etheria-images/2022/03/planeta-corcho-wow-oporto.jpg "Alcornoque en Planeta Corcho.")
 
 #### Pink Palace
 
@@ -124,7 +124,7 @@ de Provence Rosé, Mateus Rosé, Vértice Rosé Bruto y Croft Pink Rosé Port. E
 las salas existen escenarios donde dar rienda suelta a la creatividad fotográfica. Sin 
 duda, las amantes de Instagram serán los que mejor se lo pasen. 
 
-![dos espacios de pink palace donde hacerse fotos](etheria_images/2022/03/pink-palace-wow-oporto.jpg "Cinco vinos rosados y muchos rincones instagrameables te esperan en Pink Palace.")
+![dos espacios de pink palace donde hacerse fotos](etheria-images/2022/03/pink-palace-wow-oporto.jpg "Cinco vinos rosados y muchos rincones instagrameables te esperan en Pink Palace.")
 
 ### 3\. Porque eres golosa por naturaleza
 
@@ -146,7 +146,7 @@ preciosa cafetería donde merendar o tomar un chocolate caliente.
 ? La cata de chocolate sale por 14 euros, y el taller ‘Chocolatinhos’ (para niños desde 
 4 años) por 20 euros. 
 
-![burbuja para sentir el aroma del chocolate y espacio audiovisual](etheria_images/2022/03/museo-chocolate-wow.jpg "Museo del Chocolate. © Pepa García")
+![burbuja para sentir el aroma del chocolate y espacio audiovisual](etheria-images/2022/03/museo-chocolate-wow.jpg "Museo del Chocolate. © Pepa García")
 
 ### 4\. Para comer de lujo: restaurantes de WOW Oporto
 
@@ -161,7 +161,7 @@ vegetariano; **Mira Mira**, cocina creativa; **PIP**, informal e ideal para fami
 Por supuesto, existen espacios para tomar unos vinos o el rico café portugués por aquí y 
 por allá. Los irás viendo al pasear. 
 
-![raviolis de carne y francesinha en restaurantes de wow oporto](etheria_images/2022/03/francesinha-oporto-wow.jpg "En WOW encontrarás 5 restaurantes y muchos espacios gastronómicos. © Pepa García")
+![raviolis de carne y francesinha en restaurantes de wow oporto](etheria-images/2022/03/francesinha-oporto-wow.jpg "En WOW encontrarás 5 restaurantes y muchos espacios gastronómicos. © Pepa García")
 
 ### 5\. Para hacer una cata de vinos
 
@@ -176,7 +176,7 @@ ampliar la actividad con visitas a los viñedos, cenas maridadas, etc.
 ? **Taller de cata de vinos**: Desmitificando el vino de Oporto: 30 euros. Combinación 
 de vino y chocolate: 35 euros. Existen muchas más propuestas en torno al vino. 
 
-![mujer con cinco copas de vino en un taller de cata en WOW Oporto](etheria_images/2022/03/cata-escuela-vino-wow.jpg "Taller de cata en la Escuela del Vino.")
+![mujer con cinco copas de vino en un taller de cata en WOW Oporto](etheria-images/2022/03/cata-escuela-vino-wow.jpg "Taller de cata en la Escuela del Vino.")
 
 ### 6\. Porque te gusta la moda y el diseño
 
@@ -192,7 +192,7 @@ En este barrio cultural y gastronómico de Oporto también encontrarás tiendas 
 museo donde darte el capricho de comprar recuerdos, pero reserva tiempo para curiosear 
 en sus **boutiques con firma portuguesa**. 
 
-![vestido de lana amarillo del Museo de la Moda y el Textil](etheria_images/2022/03/20201203_WOW_LR-13-900x600.jpg "Museo de la Moda y el Textil.")
+![vestido de lana amarillo del Museo de la Moda y el Textil](etheria-images/2022/03/20201203_WOW_LR-13-900x600.jpg "Museo de la Moda y el Textil.")
 
 ### 7\. Por puro placer hedonista
 
@@ -208,13 +208,13 @@ estrellas Michelin con Ricardo Costa al frente de los fogones? Todo ello, sin me
 sus bonitas instalaciones... pero de este hotel ya te hablaremos de forma extendida en 
 otro artículo. 
 
-![piscina interior con vistas a oporto del hotel the yeatman](etheria_images/2022/03/piscina-hotel-the-yeatman.jpg "Piscina climatizada del hotel The Yeatman.")
+![piscina interior con vistas a oporto del hotel the yeatman](etheria-images/2022/03/piscina-hotel-the-yeatman.jpg "Piscina climatizada del hotel The Yeatman.")
 
 Si ya estás deseando conocer WOW (World of Wine), toma nota de las siguientes 
 recomendaciones y no te pierdas las actualizaciones de su agenda de eventos porque los 
 conciertos y espectáculos se renuevan durante todo el año. 
 
-![Plaza central de WOW Oporto al atardecer y con terrazas](etheria_images/2022/03/plaza-central-wow-oporto-1.jpg "Plaza central de WOW Oporto.")
+![Plaza central de WOW Oporto al atardecer y con terrazas](etheria-images/2022/03/plaza-central-wow-oporto-1.jpg "Plaza central de WOW Oporto.")
 
 ### Guía WOW Oporto | Etheria Magazine
 

@@ -1,11 +1,11 @@
 ---
 title: "Excursión a Tívoli: un plan perfecto desde Roma"
 date: 2022-05-06
-coverImage: etheria_images/2022/05/Tivoli-villa-dell-este.jpg
+coverImage: etheria-images/2022/05/Tivoli-villa-dell-este.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La ciudad de Tívoli es una de las mejores excursiones que puedes hacer si estás pasando 
@@ -14,7 +14,7 @@ patrimonio artístico a la altura de las grandes ciudades italianas, guarda dos 
 que representan los dos momentos más espléndidos de la historia de la península itálica: 
 Villa Adriana y Villa d’Este. 
 
-![Flores y vista desde Villa d'Este](etheria_images/2022/05/Tivoli-villa-dell-este.jpg "Vistas de Tívoli desde Villa d'Este. © Susana García")
+![Flores y vista desde Villa d'Este](etheria-images/2022/05/Tivoli-villa-dell-este.jpg "Vistas de Tívoli desde Villa d'Este. © Susana García")
 
 Tívoli es una de esas ciudades italianas que son todo un descubrimiento. La riqueza 
 cultural de Italia y de sus grandes ‘hits’ (Roma, Florencia, Venecia…) hace que lugares 
@@ -31,7 +31,7 @@ atraídos por sus frondosos bosques y su clima más fresco. Incluso el emperador
 trasladó aquí el gobierno y la corte por largas temporadas para alejarse tanto del calor 
 veraniego de Roma como de sus intrigas. 
 
-![lago romano en villa adriana](etheria_images/2022/05/tivoli-villa-adriana-canopo-estatuas.jpg "Las estatuas rodean el Canopo de Villa Adriana. © S.G./ Etheria Magazine")
+![lago romano en villa adriana](etheria-images/2022/05/tivoli-villa-adriana-canopo-estatuas.jpg "Las estatuas rodean el Canopo de Villa Adriana. © S.G./ Etheria Magazine")
 
 ## El pasado romano en Villa Adriana
 
@@ -43,7 +43,7 @@ toque de color a las fotos. Cuando paseas entre los restos arqueológicos, es f�
 pensar qué acertado estuvo el emperador Adriano al elegir un lugar como éste para 
 establecer su residencia. 
 
-![ruinas romanas en Villa Adriana](etheria_images/2022/05/Villa-adriana-termas-pequenas.jpg "Termas de Villa Adriana. © S.G./ Etheria Magazine")
+![ruinas romanas en Villa Adriana](etheria-images/2022/05/Villa-adriana-termas-pequenas.jpg "Termas de Villa Adriana. © S.G./ Etheria Magazine")
 
 Visitar Villa Adriana es muy fácil. En la entrada te darán un pequeño plano con las 
 principales zonas. Es bastante básico, así que si quieres saber un poco más de la villa, 
@@ -58,7 +58,7 @@ bonita recreación de cómo los arqueólogos han estimado que fue la villa en su
 esplendor, sobre el año 134 d.C., y permite hacerse una idea de los edificios y espacios 
 que después se recorrerán paseando. 
 
-![Lago de Villa Adriana](etheria_images/2022/05/tivoli-villa-adriana-vistas.jpg "Vistas de Tívoli desde el Pecile de Villa Adriana. © S.G./ Etheria Magazine")
+![Lago de Villa Adriana](etheria-images/2022/05/tivoli-villa-adriana-vistas.jpg "Vistas de Tívoli desde el Pecile de Villa Adriana. © S.G./ Etheria Magazine")
 
 ## Lugares para detenerse en Villa Adriana:
 
@@ -82,7 +82,7 @@ conserva una sala octogonal y bonitos efectos de claroscuro; y las Termas Mayore
 impresionantes en su altura, diseño y dimensiones, con una zona dedicada al gimnasio y 
 un complejo sistema para circular el aire caliente. 
 
-![lago con columnas romanas y estatuas en villa adriana](etheria_images/2022/05/Tivoli-villa-adriana.jpg "El Canopo de Villa Adriana es su lugar más fotografiado. © S.G./ Etheria Magazine")
+![lago con columnas romanas y estatuas en villa adriana](etheria-images/2022/05/Tivoli-villa-adriana.jpg "El Canopo de Villa Adriana es su lugar más fotografiado. © S.G./ Etheria Magazine")
 
 ### Cánopo
 
@@ -105,7 +105,7 @@ Junto al inicio de la zona del Cánopo suben unas escaleras que pasan junto al m
 desembocan en un camino que lleva hasta la Torre de Rocabruna. Su principal interés es 
 subir a lo alto para contemplar sus magníficas vistas. 
 
-![Ruinas romanas de Villa Adriana](etheria_images/2022/05/tivoli-villa-adriana-templo-venus.jpg "Restos del templo de Venus o templete circular. © S.G./ Etheria Magazine")
+![Ruinas romanas de Villa Adriana](etheria-images/2022/05/tivoli-villa-adriana-templo-venus.jpg "Restos del templo de Venus o templete circular. © S.G./ Etheria Magazine")
 
 ### El Templo de Venus
 
@@ -127,7 +127,7 @@ El palacio está repleto de elementos interesantes, pero lo que más llama la at
 los jardines escalonados, jalonados por decenas de fuentes y esculturas y con una 
 arquitectura y diseño que hacen de él un jardín renacentista único en el mundo. 
 
-![fuente en Villa d'Este](etheria_images/2022/05/Villa-dell-este-ovato.jpg "Fontana dell'Ovato, también conocida como Fontana Tivoli. © S.G./ Etheria Magazine")
+![fuente en Villa d'Este](etheria-images/2022/05/Villa-dell-este-ovato.jpg "Fontana dell'Ovato, también conocida como Fontana Tivoli. © S.G./ Etheria Magazine")
 
 En la visita, tras pasar la entrada tendrás que atravesar el patio y varias salas del 
 palacio, muchas reconstruidas tras los desperfectos sufridos durante la Segunda Guerra 
@@ -151,7 +151,7 @@ Esta monumental fuente está formada por una impresionante cascada y salidas de 
 diferentes alturas que forman un precioso juego de agua, con unos chorros donde el agua 
 alcanza gran altura. 
 
-![Fuente de Neptuno en Villa d'Este](etheria_images/2022/05/Tivoli-villa-este-fuente-principal.jpg "Fuente de Neptuno. © S.G./ Etheria Magazine")
+![Fuente de Neptuno en Villa d'Este](etheria-images/2022/05/Tivoli-villa-este-fuente-principal.jpg "Fuente de Neptuno. © S.G./ Etheria Magazine")
 
 ### Fontana dell’Organo
 
@@ -169,7 +169,7 @@ salida del agua a diferente presión.
 A esta peculiar fuente, que tiene a la ciudad de Roma como motivo iconográfico, se llega 
 a través de la Avenida de las Cien Fuentes. 
 
-![Esculturas y fuentes en Villa d'Este](etheria_images/2022/05/Villa-este-rincon.jpg "Gruta de Diana en Villa d'Este. © S.G./ Etheria Magazine")
+![Esculturas y fuentes en Villa d'Este](etheria-images/2022/05/Villa-este-rincon.jpg "Gruta de Diana en Villa d'Este. © S.G./ Etheria Magazine")
 
 ### Fontana di Pegaso
 
@@ -189,7 +189,7 @@ pasarelas y caminos hacen del entorno un lugar perfecto para el paseo que ya sed
 los artistas y nobles europeos del siglo XIX que lo incluían en el Gran Tour que 
 realizaban por Italia. 
 
-![Naturaleza en Tivoli](etheria_images/2022/05/tivoli-villa-gregoriana-576x1024.jpg "Cascada en Villa Gregoriana. © John Rodenn")
+![Naturaleza en Tivoli](etheria-images/2022/05/tivoli-villa-gregoriana-576x1024.jpg "Cascada en Villa Gregoriana. © John Rodenn")
 
 En este entorno se puede también contemplar algunos de los restos romanos que salieron a 
 la luz cuando se realizaron las obras, como la villa del cónsul romano Manlio Vopisco, y 
@@ -208,7 +208,7 @@ corazón de la ciudad, rodeada de restaurantes; la **Piazza Garibaldi**, con su 
 escultura Arco de los Padres Constituyentes, de Arnaldo Pomodoro; y la **Piazza 
 Campitelli**, recientemente restaurada. 
 
-![casco antiguo de Tívoli](etheria_images/2022/05/Tivoli-casco-historico.jpg "Calles del casco histórico de Tívoli. © S.G./ Etheria Magazine")
+![casco antiguo de Tívoli](etheria-images/2022/05/Tivoli-casco-historico.jpg "Calles del casco histórico de Tívoli. © S.G./ Etheria Magazine")
 
 ## Guía de viaje de Tívoli
 
@@ -225,7 +225,7 @@ Puedes viajar en tren y autobús, pero la lejanía de Villa Adriana del centro d
 hará que tengas que centrarte sólo en la ciudad y dejar la visita a este yacimiento 
 romano para otra ocasión. 
 
-![Gente comiendo en Piazza Palatina](etheria_images/2022/05/Tivoli-plaza.jpg "Restaurantes junto a la Piazza Palatina. © S.G./ Etheria Magazine")
+![Gente comiendo en Piazza Palatina](etheria-images/2022/05/Tivoli-plaza.jpg "Restaurantes junto a la Piazza Palatina. © S.G./ Etheria Magazine")
 
 ### Cómo organizar la visita a Tívoli
 
@@ -258,7 +258,7 @@ combinado](https://tidd.ly/3MQUvj8), la [entrada a Villa
 Adriana](https://tidd.ly/3FloWeQ) o la [entrada a Villa 
 Gregoriana](https://tidd.ly/3yldDSp). 
 
-![restaurante y templo en Tivoli desde el puente Gregoriano](etheria_images/2022/05/Tivoli-restaurnte-sibila.jpg "Restaurante Sibilla junto al templo de Venus. © S.G./ Etheria Magazine")
+![restaurante y templo en Tivoli desde el puente Gregoriano](etheria-images/2022/05/Tivoli-restaurnte-sibila.jpg "Restaurante Sibilla junto al templo de Venus. © S.G./ Etheria Magazine")
 
 ### Dónde comer en Tívoli
 

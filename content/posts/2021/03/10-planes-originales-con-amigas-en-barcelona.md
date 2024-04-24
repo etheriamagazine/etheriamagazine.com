@@ -1,12 +1,12 @@
 ---
 title: "10 planes originales para hacer con amigas en Barcelona"
 date: 2021-03-10
-coverImage: etheria_images/2021/03/Terrat-mandarin-oriental-barcelona.jpg
+coverImage: etheria-images/2021/03/Terrat-mandarin-oriental-barcelona.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Monumentos, gastronomía, cultura, playas, historia… la Ciudad Condal nos brinda mil y 
@@ -14,7 +14,7 @@ una posibilidades para pasarlo en grande. Os invitamos a disfrutar de todos sus
 atractivos a través de estos 10 planes originales para hacer con amigas en Barcelona. 
 ¿Cuántos vais a hacer el próximo fin de semana? 
 
-![Casa Vicens en la ruta gaudi](etheria_images/2020/08/planes-barcelona-casa-vicens.jpg "Casa Vicens, diseñada por Gaudí (Barcelona). © David Cardelus/ Casa Vicens")
+![Casa Vicens en la ruta gaudi](etheria-images/2020/08/planes-barcelona-casa-vicens.jpg "Casa Vicens, diseñada por Gaudí (Barcelona). © David Cardelus/ Casa Vicens")
 
 ## 1\. Descubrir la Casa Vicens de Gaudí
 
@@ -25,7 +25,7 @@ fama como La Pedrera o Casa Milá porque está abierta al público como casa-mus
 hace pocos años. La Casa Vicens está en el céntrico barrio de Gracia y tiene el título 
 de Patrimonio Mundial de la Unesco. 
 
-![Catalunya en Miniatura barcelona](etheria_images/2020/08/planes-mujeres-barcelona-Catalunya-en-Miniatura.jpg "Catalunya en Miniatura.")
+![Catalunya en Miniatura barcelona](etheria-images/2020/08/planes-mujeres-barcelona-Catalunya-en-Miniatura.jpg "Catalunya en Miniatura.")
 
 ## 2\. Sentirse gigante en Catalunya en Miniatura
 
@@ -42,7 +42,7 @@ entre los árboles, escalar un tronco de pino o colgaros de tirolinas. Este es u
 planes en Barcelona con amigas, en familia o con quien quieras que siempre saca una 
 sonrisa. 
 
-![banksy en barcelona](etheria_images/2020/08/planes-amigas-barna-mundo-de-Banksy.jpg "Exposición “The World of Banksy – The Inmersive Experience'.")
+![banksy en barcelona](etheria-images/2020/08/planes-amigas-barna-mundo-de-Banksy.jpg "Exposición “The World of Banksy – The Inmersive Experience'.")
 
 ## 3\. Free tour de las mujeres ilustres de Barcelona
 
@@ -60,7 +60,7 @@ horarios](https://www.civitatis.com/es/barcelona/free-tour-mujeres-barcelona/?ai
 No olvides reservar para no quedarse sin plaza (se hace sólo uno o dos días a la 
 semana). 
 
-![terrat terraza en barcelona](etheria_images/2021/03/Terrat-mandarin-oriental-barcelona.jpg "Terrat, una terraza con vistas en Barcelona. © Mandarin Oriental Barcelona")
+![terrat terraza en barcelona](etheria-images/2021/03/Terrat-mandarin-oriental-barcelona.jpg "Terrat, una terraza con vistas en Barcelona. © Mandarin Oriental Barcelona")
 
 ## 4\. Una terraza con vistas en Barcelona
 
@@ -75,7 +75,7 @@ Si quieres repetir ubicación otro día, debes saber que en este hotel también 
 restaurante **Moments** con el sello de Carme Ruscalleda (y su hijo Raül Balam), una de 
 las mejores chefs españolas (siete estrellas Michelin). 
 
-![Aire Ancient Baths spas en barcelona con amigas](etheria_images/2020/08/planes-amigas-barcelona-spa-ancient-bath.jpg "Aire Ancient Baths, un planazo con amigas en Barcelona.")
+![Aire Ancient Baths spas en barcelona con amigas](etheria-images/2020/08/planes-amigas-barcelona-spa-ancient-bath.jpg "Aire Ancient Baths, un planazo con amigas en Barcelona.")
 
 ## 5\. Mimos y sesión de spa en Aire Ancient Baths
 
@@ -99,7 +99,7 @@ se camina por otros lugares. Te aseguramos que no olvidarás las leyendas que te
 contando. Tiene una duración de 1 hora y media, y cuesta unos 14 euros. [Resérvalo con 
 antelación](https://www.civitatis.com/es/barcelona/tour-misterios-leyendas-barcelona/?aid=10211). 
 
-![cata con amigas en barcelona, planes de chicas en barcelona](etheria_images/2020/08/planes-barcelona-amigas-catas.jpg "Una excursión con cata de vinos garantiza una buena terapia de risas.")
+![cata con amigas en barcelona, planes de chicas en barcelona](etheria-images/2020/08/planes-barcelona-amigas-catas.jpg "Una excursión con cata de vinos garantiza una buena terapia de risas.")
 
 ## 7\. Un día de vinos en una bodega singular
 
@@ -112,7 +112,7 @@ la mañana, almorzar en el restaurante de la bodega Oller del Mas y pasar la tar
 catando vinos muy especiales. Este es uno de los **planes en Barcelona con amigas** que 
 lidera las actividades Day Trips de TripAdvisor. 
 
-![compras en barcelona, la Roca Village, planes con amigas, Barcelona con amigas](etheria_images/2020/08/planes-barcelona-compras-La-Roca-Village.jpg "Compras en © La Roca Village.")
+![compras en barcelona, la Roca Village, planes con amigas, Barcelona con amigas](etheria-images/2020/08/planes-barcelona-compras-La-Roca-Village.jpg "Compras en © La Roca Village.")
 
 ## 8\. Compras en La Roca Village
 
@@ -126,7 +126,7 @@ agradables terrazas del complejo y dar placer a los sentidos con su oferta gastr
 Os sugerimos **Flaxe & Kale**, una opción de lo más saludable, y **Atmósferas Mordisco** 
 y sus arroces al carbón. 
 
-![fiesta de la sal en l escala](etheria_images/2020/08/planes-la-escala-Fiesta-de-la-Sal.jpg "Fiesta de la Sal, en L’Escala. © Rafa Pérez/ Arxiu Imatges PTCBG")
+![fiesta de la sal en l escala](etheria-images/2020/08/planes-la-escala-Fiesta-de-la-Sal.jpg "Fiesta de la Sal, en L’Escala. © Rafa Pérez/ Arxiu Imatges PTCBG")
 
 ## 9\. Excursión a L’Escala
 
@@ -145,7 +145,7 @@ más de 100 años. Hay una muestra de oficios marineros, se representan escenas
 tradicionales de la época, se organizan bailes populares... Se celebra **el tercer 
 sábado de septiembre**. 
 
-![viaje al sur, juan marse](etheria_images/2020/08/viaje-al-sur-juan-marse.jpg "'Viaje al Sur', de Juan Marsé, editado por Lumen.")
+![viaje al sur, juan marse](etheria-images/2020/08/viaje-al-sur-juan-marse.jpg "'Viaje al Sur', de Juan Marsé, editado por Lumen.")
 
 ## 10. De Barcelona al Sur con Juan Marsé
 

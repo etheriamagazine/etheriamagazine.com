@@ -1,12 +1,12 @@
 ---
 title: "5 pueblos de Badajoz que no conoces y te sorprenderán"
 date: 2022-05-03
-coverImage: etheria_images/2022/05/Villanueva-de-la-Serena-iglesia-asuncion.jpg
+coverImage: etheria-images/2022/05/Villanueva-de-la-Serena-iglesia-asuncion.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
+authors: 
   - Carmen Pineda
 ---
 
@@ -16,7 +16,7 @@ maravillas esperando a ser descubiertas. Os invitamos a descubrir algunas en est
 por 5 pueblos de Badajoz que seguramente aún no conoces: Villanueva de la Serena, Don 
 Benito, Zafra, Almendralejo y Fregenal de la Sierra. 
 
-![Castillo templario de Fregenal de la Sierra.](etheria_images/2022/05/Castillo-Templario-Fregenal-de-la-Sierra.jpg "Castillo templario de Fregenal de la Sierra.")
+![Castillo templario de Fregenal de la Sierra.](etheria-images/2022/05/Castillo-Templario-Fregenal-de-la-Sierra.jpg "Castillo templario de Fregenal de la Sierra.")
 
 Si aún no habéis descubierto la belleza de esta provincia extremeña, os invitamos a 
 conocerla mediante una ruta por varios pueblos de Badajoz que resultan todo un hallazgo. 
@@ -39,7 +39,7 @@ al norte del mismo la ciudad de La Serena. También del escritor modernista Feli
 autor de ‘El Médico Rural’. Esta población conoció un notable auge industrial a finales 
 del siglo XIX y principios del XX, y hoy muestra un interesante pasado patrimonial. 
 
-![Iglesia de la Asunción, en Villanueva de la Serena.](etheria_images/2022/05/Villanueva-de-la-Serena-iglesia-asuncion.jpg "Iglesia de la Asunción, en Villanueva de la Serena.")
+![Iglesia de la Asunción, en Villanueva de la Serena.](etheria-images/2022/05/Villanueva-de-la-Serena-iglesia-asuncion.jpg "Iglesia de la Asunción, en Villanueva de la Serena.")
 
 #### ¿Qué visitar en Villanueva de la Serena?
 
@@ -58,7 +58,7 @@ Asunción, de estilo clasicista y herreriano, fue levantada entre los siglos XVI
 En ella fue bautizado el escritor Felipe Trigo. Otro templo, el de San Francisco, con un 
 estilo entre renacentista y barroco, es también digno de una visita. 
 
-![Palacio de la Jabonera, en Villanueva de la Serena.](etheria_images/2022/05/villanueva-serena-Palacio-de-la-Jabonera.jpg "Palacio de la Jabonera, en Villanueva de la Serena.")
+![Palacio de la Jabonera, en Villanueva de la Serena.](etheria-images/2022/05/villanueva-serena-Palacio-de-la-Jabonera.jpg "Palacio de la Jabonera, en Villanueva de la Serena.")
 
 ##### Casa palacio La Jabonera
 
@@ -81,7 +81,7 @@ neurálgico de la vida cultural y social de Villanueva de la Serena, el edificio
 inaugurado en 2014, ha recibido varios premios a nivel internacional. Se asemeja a un 
 cubo y es el contrapunto ideal a una visita turística donde prima lo antiguo. 
 
-![Palacio de Congresos, en Villanueva de la Serena.](etheria_images/2022/05/villanueva-serena-palacio-Congresos.jpg "Palacio de Congresos, en Villanueva de la Serena.")
+![Palacio de Congresos, en Villanueva de la Serena.](etheria-images/2022/05/villanueva-serena-palacio-Congresos.jpg "Palacio de Congresos, en Villanueva de la Serena.")
 
 ##### Castillo de Castelnovo
 
@@ -105,7 +105,7 @@ Emigrante](http://www.hotelelemigrante.es/), de 1 estrella (en el centro de la c
 acogedor y a un precio asequible) y **Hotel Veracruz** de 2 estrellas (entre las 
 poblaciones de Don Benito y Villanueva de la Serena). 
 
-![Ermita de la Virgen de las Cruces, en San Benito.](etheria_images/2022/05/don-san-benito-ermita-Virgen-de-las-Cruces.jpg "Ermita de la Virgen de las Cruces, en Don Benito.")
+![Ermita de la Virgen de las Cruces, en San Benito.](etheria-images/2022/05/don-san-benito-ermita-Virgen-de-las-Cruces.jpg "Ermita de la Virgen de las Cruces, en Don Benito.")
 
 ### 2\. Don Benito, siempre en el mapa
 
@@ -124,7 +124,7 @@ que ver su fuente. Este **monumento al agua y a la tierra**, que presenta dos de
 alegóricos del río Guadiana, al que homenajea, es único en España por estar simbolizado 
 por un hombre en piedra y una mujer en broncínea. 
 
-![Fuente en homenaje a la tierra y al agua, en Don Benito.](etheria_images/2022/05/don-benito-Fuente.jpg "Fuente en homenaje a la tierra y al agua, en Don Benito.")
+![Fuente en homenaje a la tierra y al agua, en Don Benito.](etheria-images/2022/05/don-benito-Fuente.jpg "Fuente en homenaje a la tierra y al agua, en Don Benito.")
 
 En la misma plaza, no pasa desapercibida la **iglesia parroquial de Santiago**, un 
 templo renacentista del siglo XVI. Es una construcción muy llamativa por su forma 
@@ -136,7 +136,7 @@ La ermita de Nuestra señora de las Cruces, a 7 kilómetros de Don Benito (EX 34
 dirección Higuera de la Serena) en la Sierra de Ortigas, data de los siglos XIV y XV. 
 Alberga la Virgen de las Cruces, a la que se homenajea durante las Fiestas de la Velá. 
 
-![Escuelas del Ave María, en Don Benito.](etheria_images/2022/05/don-benito-escuelas-del-Ave-Maria.jpg "Escuelas del Ave María, en Don Benito.")
+![Escuelas del Ave María, en Don Benito.](etheria-images/2022/05/don-benito-escuelas-del-Ave-Maria.jpg "Escuelas del Ave María, en Don Benito.")
 
 ##### Antiguas escuelas y un precioso museo
 
@@ -148,7 +148,7 @@ Pedro Granda (hoy municipal) es un lugar precioso para descubrir la sociedad ext
 de finales del XIX hasta mediados del XX, a través de más de 40 salas de piezas de 
 costumbres locales de antaño, cuadros, muebles, etc. Hay que solicitar cita previa. 
 
-![Museo de Don Benito.](etheria_images/2022/05/Museo-Don-benito.jpg "Museo de Don Benito.")
+![Museo de Don Benito.](etheria-images/2022/05/Museo-Don-benito.jpg "Museo de Don Benito.")
 
 #### ¿Dónde comer en Don Benito?
 
@@ -160,7 +160,7 @@ buen hacer. Tomad nota de **Komoloc**, **Taberna Sebastián** y **Polo Opuesto**
 Entre las opciones para dormir en Don Benito están el **Hotel Vegas Altas** (4 
 estrellas) y un buen número de hostales, apartamentos, etc. 
 
-![Palacio Monsalud, en Almendralejo.](etheria_images/2022/05/almendralejo-Palacio-Monsalud.jpg "Palacio Monsalud, en Almendralejo.")
+![Palacio Monsalud, en Almendralejo.](etheria-images/2022/05/almendralejo-Palacio-Monsalud.jpg "Palacio Monsalud, en Almendralejo.")
 
 ### 3\. Almendralejo
 
@@ -181,7 +181,7 @@ la casa es sede del Ayuntamiento. Se trata de un edificio muy elegante, con escu
 esquinados y balcones decorados con motivos barrocos, con un interior espectacular de 
 azulejería sevillana y talaverana y columnas romanas en mármol. 
 
-![Teatro Carolina Coronado, en Almendralejo.](etheria_images/2022/05/almendralejo-Teatro-Carolina-827x1024.jpg "Teatro Carolina Coronado, en Almendralejo.")
+![Teatro Carolina Coronado, en Almendralejo.](etheria-images/2022/05/almendralejo-Teatro-Carolina-827x1024.jpg "Teatro Carolina Coronado, en Almendralejo.")
 
 ##### Teatro Carolina Coronado
 
@@ -192,7 +192,7 @@ entráis (que conviene hacerlo) no os perdáis el salón Noble o de los Espejos.
 **teatro Carolina Coronado** debe su nombre a esta poetisa romántica, otra hija ilustre 
 de Almendralejo. 
 
-![Parroquia de la Purificación, en Almendralejo.](etheria_images/2022/05/Almendralejo-parroquia-purificacion.jpg "Parroquia de la Purificación, en Almendralejo.")
+![Parroquia de la Purificación, en Almendralejo.](etheria-images/2022/05/Almendralejo-parroquia-purificacion.jpg "Parroquia de la Purificación, en Almendralejo.")
 
 ##### Dos iglesias y una plaza de toros con bodega
 
@@ -207,7 +207,7 @@ Interés Cultural y es una de las más originales de España. Levantada a mediad
 siglo XIX, destaca por su gran belleza y por ser la única plaza de toros del mundo que 
 **alberga una bodega** bajo su graderío. 
 
-![Plaza de toros de Almendralejo.](etheria_images/2022/05/Almendralejo-plaza-toros.jpg "Plaza de toros de Almendralejo.")
+![Plaza de toros de Almendralejo.](etheria-images/2022/05/Almendralejo-plaza-toros.jpg "Plaza de toros de Almendralejo.")
 
 #### ¿Dónde comer en Almendralejo?
 
@@ -220,7 +220,7 @@ varios establecimientos de calidad como **El Paraíso** y **El Castúo**.
 peregrinos por su relación calidad-precio y por su excelente situación cerca de la Vía 
 de la Plata). 
 
-![Exterior del Alcázar de Zafra.](etheria_images/2022/05/Zafra-alcazar.jpg "Alcázar de los duques de Feria, en Zafra.")
+![Exterior del Alcázar de Zafra.](etheria-images/2022/05/Zafra-alcazar.jpg "Alcázar de los duques de Feria, en Zafra.")
 
 ### 4\. Zafra, parada obligada en Badajoz
 
@@ -239,7 +239,7 @@ residencia señorial, es un maravilloso edificio, de nueve torres almenadas, lle
 obras de arte. Su patio renacentista de mármol blanco y su precioso Salón dorado en 
 estilo mudéjar son dignos de verse. 
 
-![Plaza Grande de Zafra con una fuente en el centro y palmeras](etheria_images/2022/05/zafra-plaza-grande.jpg "Plaza Grande de Zafra.")
+![Plaza Grande de Zafra con una fuente en el centro y palmeras](etheria-images/2022/05/zafra-plaza-grande.jpg "Plaza Grande de Zafra.")
 
 ##### Centro histórico de Zafra
 
@@ -250,14 +250,14 @@ XVI, destaca por sus inclinadas fachadas de ladrillo que forman un bonito conjun
 está unido entre sí. En esta última, destaca la curiosa **Vara de Medir**, una columna 
 de 83 centímetros con medidas de la época. 
 
-![Detalle de una ventana de la Casa del Ajimez, en Zafra.](etheria_images/2022/05/Zafra-ajimez.jpg "Detalle de la Casa del Ajimez, en Zafra.")
+![Detalle de una ventana de la Casa del Ajimez, en Zafra.](etheria-images/2022/05/Zafra-ajimez.jpg "Detalle de la Casa del Ajimez, en Zafra.")
 
 Otra belleza de Zafra es la **Casa del Ajimez**, hoy centro de turismo, que albergó en 
 el siglo XV, la botica de la ciudad para convertirse, tiempo después, en despacho de 
 aguardiente. No te pierdas tampoco la **Puerta de Jerez**, un paso con arcos con 
 hermosos blasones heráldicos e imágenes de los santos patronos del gremio de zapateros. 
 
-![Convento de Santa Clara, en Zafra.](etheria_images/2022/05/zafra-Convento-de-Santa-Clara-799x1024.jpg "Convento de Santa Clara, en Zafra.")
+![Convento de Santa Clara, en Zafra.](etheria-images/2022/05/zafra-Convento-de-Santa-Clara-799x1024.jpg "Convento de Santa Clara, en Zafra.")
 
 ##### Convento de Santa Clara
 
@@ -271,7 +271,7 @@ organizadas y se hacen en silencio.
 También se debe mencionar la **Colegiata de la Candelaria**, el más rico monumento 
 religioso de Zafra. De estilo gótico tardío, su patrimonio artístico es impresionante 
 
-![Puerta de Jerez, en Zafra.](etheria_images/2022/05/zafra-Puerta-de-Jerez.jpg "Puerta de Jerez, en Zafra.")
+![Puerta de Jerez, en Zafra.](etheria-images/2022/05/zafra-Puerta-de-Jerez.jpg "Puerta de Jerez, en Zafra.")
 
 #### ¿Dónde comer en Zafra?
 
@@ -299,7 +299,7 @@ fortaleza está formada por un conjunto de siete torres, en la que destaca la to
 Homenaje. Adosada al castillo, está la iglesia de Santa María del Castillo, considerada 
 la iglesia Mayor de la población y que es un lugar espectacular. 
 
-![Fontanilla, en Fregenal de la Sierra.](etheria_images/2022/05/Fregenal-fontanilla.jpg "La Fontanilla, en Fregenal de la Sierra.")
+![Fontanilla, en Fregenal de la Sierra.](etheria-images/2022/05/Fregenal-fontanilla.jpg "La Fontanilla, en Fregenal de la Sierra.")
 
 ##### La Fontanilla
 
@@ -308,7 +308,7 @@ bellas fuentes de Extremadura. Construida en siglo XVI, tiene una réplica de la
 de la Guía con las armas de los Austrias y los 4 vientos. El candil encendido en la 
 parte de arriba orientaba a los que llegaban a la población desde el norte. 
 
-![Santuario de los Remedios, en Fregenal de la Sierra.](etheria_images/2022/05/fregenal-santuario-remedios.jpg "Santuario de los Remedios, en Fregenal de la Sierra.")
+![Santuario de los Remedios, en Fregenal de la Sierra.](etheria-images/2022/05/fregenal-santuario-remedios.jpg "Santuario de los Remedios, en Fregenal de la Sierra.")
 
 ##### Iglesias y ermitas
 
@@ -321,7 +321,7 @@ nacido en Fregenal de la Sierra en 1803. Hay visitas guiadas.
 Y a las afueras de la ciudad, a seis kilómetros, se encuentra la **ermita de Nuestra 
 Señora de los Remedios**, uno de los santuarios más destacados del sur de Extremadura. 
 
-![Iglesia de Santa Ana, en Fregenal de la Sierra.](etheria_images/2022/05/fregenal-Santa-Ana.jpg "Santuario de los Remedios, en Fregenal de la Sierra.")
+![Iglesia de Santa Ana, en Fregenal de la Sierra.](etheria-images/2022/05/fregenal-Santa-Ana.jpg "Santuario de los Remedios, en Fregenal de la Sierra.")
 
 ##### Yacimiento de Nertobriga Concordia Iulia
 

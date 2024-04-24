@@ -1,14 +1,14 @@
 ---
 title: "Bodega Finca Río Negro, vinos de autor a más de mil metros de altura"
 date: 2023-05-06
-coverImage: etheria_images/2023/05/bodega-rio-negro-olivo.jpg
+coverImage: etheria-images/2023/05/bodega-rio-negro-olivo.jpg
 categories: 
   - viajes-con-amigas
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
   - planes-originales-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Guadalajara guarda un secreto en forma de bodega en el corazón de su Sierra Norte. Finca 
@@ -17,7 +17,7 @@ sus vinos: entre los mejores vinos de autor a precios razonables que existen. Y,
 de disfrutarlos, te recomendamos recorrer esta bodega situada a mil metros de altura. 
 ¡Un planazo con amigas para todo el año! 
 
-![cinco botellas de vino de Finca Río Negro](etheria_images/2023/05/finca-bodega-rio-negro-vinos.jpg "Vinos de la bodega Finca Río Negro. © Susana García")
+![cinco botellas de vino de Finca Río Negro](etheria-images/2023/05/finca-bodega-rio-negro-vinos.jpg "Vinos de la bodega Finca Río Negro. © Susana García")
 
 La variedad de bodegas en España, con infinidad de Denominaciones de Origen, rutas 
 enológicas y bodegas independientes hace que sea muy difícil destacar en un panorama con 
@@ -31,7 +31,7 @@ Sierra Norte de Guadalajara** y a la cuenca del río Henares, en un hábitat ser
 no hay bodegas vecinas en 55 kilómetros a la redonda, lo que aporta más originalidad de 
 sus vinos. 
 
-![bodega Finca Río Negro, en Cogolludo](etheria_images/2023/05/bodegas-rio-negro-entrada.jpg "Entrada de la bodega de la Finca Río Negro. © Susana García")
+![bodega Finca Río Negro, en Cogolludo](etheria-images/2023/05/bodegas-rio-negro-entrada.jpg "Entrada de la bodega de la Finca Río Negro. © Susana García")
 
 Unos vinos que además están elaborados solamente con uvas del _terroir_ y con procesos 
 ecológicos tanto en la vendimia (cien por cien manual) como en el resto de actividades 
@@ -48,7 +48,7 @@ Fuentes como gerente. El fundador y presidente todavía sigue acompañando a los
 sus visitas por unas tierras que son su mayor orgullo. Además, ha sabido transmitir a 
 sus hijos esa pasión que se refleja en cada comentario que hacen sobre su bodega. 
 
-![olivo y viña en la finca Río Negro en Guadalajara](etheria_images/2023/05/bodega-rio-negro-olivo.jpg "Finca Río Negro. © SG")
+![olivo y viña en la finca Río Negro en Guadalajara](etheria-images/2023/05/bodega-rio-negro-olivo.jpg "Finca Río Negro. © SG")
 
 Y el segundo unas condiciones climáticas difíciles de encontrar en otro lugar que 
 confieren a los caldos una gran personalidad. Para empezar, ya hemos comentado que son 
@@ -67,7 +67,7 @@ Siberia española), unas noches que en verano llegan a los 15 grados, lluvia abu
 unos suelos antiguos de raña con estructuras complejas. Con todos estos elementos no es 
 de extrañar que estos vinos sorprendan para bien desde el primer sorbo. 
 
-![Barricas de la Finca Río Negro.](etheria_images/2023/05/bodegas-rio-negro-barricas.jpg "Barricas de la Finca Río Negro. © SG")
+![Barricas de la Finca Río Negro.](etheria-images/2023/05/bodegas-rio-negro-barricas.jpg "Barricas de la Finca Río Negro. © SG")
 
 ## La historia de unas viñas antiguas
 
@@ -81,7 +81,7 @@ bonita Plaza Mayor con el Palacio de los Duques de Medinaceli), la plaga de la f
 acabó con las viñas de la zona a principios del siglo XX y la tradición vitivinícola 
 quedó dormida hasta la recuperación de esta finca. 
 
-![viñas en Río Negro, Guadalajara](etheria_images/2023/05/bodega-rio-negro-primeros-brotes.jpg "Primeros brotes en la finca Río Negro. © SG")
+![viñas en Río Negro, Guadalajara](etheria-images/2023/05/bodega-rio-negro-primeros-brotes.jpg "Primeros brotes en la finca Río Negro. © SG")
 
 En 1999 se planta la primera hectárea y en 2004, en la etapa de “adolescencia” de la 
 viña llega el primer vino, ese **Quinto Año** que mantienen como marca y que es una de 
@@ -110,7 +110,7 @@ El segundo vino es el **992**, cuyo nombre alude a los metros exactos de altura 
 nivel del mar en el que se encuentran sus viñas. Es el vino joven de la bodega. Fresco, 
 pero con cuerpo e ideal para el tapeo. 
 
-![cata de vinos con aperitivo](etheria_images/2023/05/finca-rio-negro-cata-vinos.jpg "Cata de vinos de Finca Río Negro en la primera bodega. © SG")
+![cata de vinos con aperitivo](etheria-images/2023/05/finca-rio-negro-cata-vinos.jpg "Cata de vinos de Finca Río Negro en la primera bodega. © SG")
 
 **Finca Río Negro** es el tercer vino, basado en la uva tempranillo tan popular en esta 
 región (hasta 1960 Guadalajara era la segunda provincia por más uva de esta especialidad 
@@ -145,7 +145,7 @@ trabajos con estas viñas comenzaron en 2005 y están comenzando las catas de ex
 cosecha de 2023 (que saldrá al mercado en 2026) será la primera de este vino que aún no 
 tiene ni nombre, pero que promete ser toda una revelación. 
 
-![copas de vino](etheria_images/2023/05/bodega-rio-negro-cata-tinto-fragoso.jpg "Cata de tinto fragoso. © SG")
+![copas de vino](etheria-images/2023/05/bodega-rio-negro-cata-tinto-fragoso.jpg "Cata de tinto fragoso. © SG")
 
 ## Preguntas frecuentes | Etheria Magazine
 
@@ -164,7 +164,7 @@ quesos.
 
 El precio de la visita es de 24 Euros por persona. 
 
-![Botellas en la primera bodega de Finca Río Negro.](etheria_images/2023/05/bodegas-rio-negro-botellas.jpg "Botellas en la primera bodega de Finca Río Negro. © Finca Río Negro")
+![Botellas en la primera bodega de Finca Río Negro.](etheria-images/2023/05/bodegas-rio-negro-botellas.jpg "Botellas en la primera bodega de Finca Río Negro. © Finca Río Negro")
 
 ### ¿Dónde está la Finca Río Negro?
 

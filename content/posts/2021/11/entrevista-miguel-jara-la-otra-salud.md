@@ -1,17 +1,17 @@
 ---
 title: "Miguel Jara: “Lo económico influye en la salud de las personas y tiene un impacto ecológico”"
 date: 2021-11-17
-coverImage: etheria_images/2021/11/miguel-jara-escritor.jpg
+coverImage: etheria-images/2021/11/miguel-jara-escritor.jpg
 categories: 
   - salud-bienestar-nutricion
   - libros-de-viajes
-author: 
+authors: 
   - Maria Miret
 ---
 
 En plena pandemia, Miguel Jara ha publicado 'La otra salud'. Un libro en el que aborda temas como el decrecimiento o el “solucionismo”, esto es, solucionar los problemas poniendo “parches” tecnológicos. Con el periodista hemos hablado también de ciencia o de iatrogenia (efectos graves de tratamientos y medicamentos).
 
-![miguel jara la otra salud](etheria_images/2021/11/miguel-jara-escritor.jpg "Miguel Jara, autor de 'La otra salud'.")
+![miguel jara la otra salud](etheria-images/2021/11/miguel-jara-escritor.jpg "Miguel Jara, autor de 'La otra salud'.")
 
 En esta sección de Salud de Etheria magazine también tiene cabida la actualidad 
 editorial, y por este motivo entrevistamos a Miguel Jara, autor del libro 'La otra 
@@ -33,7 +33,7 @@ naturaleza de que el modelo no funciona y lo ideal sería encaminarnos hacia un 
 hacia una economía no enfocada en el productivismo, el producto interior bruto o el 
 crecimiento. 
 
-![La otra salud La epidemia silenciada de la mala medicina](etheria_images/2021/11/Portada-La-otra-salud-619x1024.jpg "La otra salud. La epidemia silenciada de la mala medicina.")
+![La otra salud La epidemia silenciada de la mala medicina](etheria-images/2021/11/Portada-La-otra-salud-619x1024.jpg "La otra salud. La epidemia silenciada de la mala medicina.")
 
 ##### En plena pandemia, ¿se hace más necesario que nunca parar?
 
@@ -67,7 +67,7 @@ parar el cambio climático a base de tecnología en lugar de ir a la raíz del p
 
 ##### “La tecnología está al servicio de las personas y no al revés”
 
-![miguel jara escritor y periodista de salud](etheria_images/2021/11/miguel-jara-la-otra-salud.jpg "Miguel Jara en su oficina.")
+![miguel jara escritor y periodista de salud](etheria-images/2021/11/miguel-jara-la-otra-salud.jpg "Miguel Jara en su oficina.")
 
 Si el sistema de vida en el que nos desenvolvemos nos puede llevar a un colapso 
 tendremos que tomar medidas para cambiar el sistema, no el clima. No tenemos un aparato 
@@ -112,7 +112,7 @@ actitud “marketiniana” la estamos observando en todos los sectores industria
 persiguen al que ose dejar entrever la corrupción que también impulsan los grandes 
 sectores industriales. 
 
-![iatrogenia efectos secundarios medicina](etheria_images/2021/11/medicina-salud.jpg "Algunos tratamientos ocasionan daños, efectos secundarios que hay que investigar.")
+![iatrogenia efectos secundarios medicina](etheria-images/2021/11/medicina-salud.jpg "Algunos tratamientos ocasionan daños, efectos secundarios que hay que investigar.")
 
 ##### En el libro haces un repaso de los casos más sonados de iatrogenia, aportando testimonios reales de personas que han sufrido graves efectos secundarios por fármacos. ¿Cuál es el caso que más te ha impactado?
 

@@ -1,11 +1,11 @@
 ---
 title: "La conexión rusa del movimiento Dadá, en el Museo Reina Sofía (Madrid)"
 date: 2018-06-11
-coverImage: etheria_images/2018/06/Dada-ruso-Museo-Reina-Sofia-VARVARA-STEPANOVA.jpg
+coverImage: etheria-images/2018/06/Dada-ruso-Museo-Reina-Sofia-VARVARA-STEPANOVA.jpg
 categories: 
   - exposiciones
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Adoptaron la negación, la ironía, el absurdo y el azar como mandamientos de sus 
@@ -13,7 +13,7 @@ manifestaciones artísticas, así que produjeron performances extravagantes, hic
 campañas antibélicas, negaron el arte clásico y crearon una innovadora forma de mezclar 
 lo visual y lo verbal. 
 
-![Exposición Dada Ruso en Museo Reina Sofía de Madrid](etheria_images/2018/06/Museo-Reina-Sofia-Dada-Ruso-Liubov-Popova-1024x642.jpg "Escenografía para Agitación en la Tierra, de Serguéi Tretiakov, Teatro Meyerhold. Moscú (1923-1924)")
+![Exposición Dada Ruso en Museo Reina Sofía de Madrid](etheria-images/2018/06/Museo-Reina-Sofia-Dada-Ruso-Liubov-Popova-1024x642.jpg "Escenografía para Agitación en la Tierra, de Serguéi Tretiakov, Teatro Meyerhold. Moscú (1923-1924)")
 
 Éstos son, a grandes rasgos, los principios básicos que compartieron los artistas de la 
 vanguardia rusa con el movimiento internacional Dadá. Y esta conexión es la que explora 
@@ -30,7 +30,7 @@ y de otros países europeos. Entre ellos, El Lisitzki, Kazimir Malévich, Vladim
 Mayakovski, Aleksandr Ródchenko, Olga Rózanova, Varvara Stepánova, Vladimir Tatlin, 
 Natalia Goncharova, Francis Picabia, Man Ray o Tristan Tzara. 
 
-![Exposición Dada Ruso, en Museo Reina Sofía Obra Charles Chaplin haciendo la voltereta](etheria_images/2018/06/Dada-ruso-Museo-Reina-Sofia-VARVARA-STEPANOVA-1024x839.jpg "'Charles Chaplin haciendo la voltereta', 1922. Una obra de Varvara Stepánova")
+![Exposición Dada Ruso, en Museo Reina Sofía Obra Charles Chaplin haciendo la voltereta](etheria-images/2018/06/Dada-ruso-Museo-Reina-Sofia-VARVARA-STEPANOVA-1024x839.jpg "'Charles Chaplin haciendo la voltereta', 1922. Una obra de Varvara Stepánova")
 
 ## Entre la guerra y la revolución
 
@@ -61,7 +61,7 @@ decisivas para el Dadá como _Cuatro cuadrados_ (1915), de Malévich, o _Dibujo 
 y compás_ (1915), de Ródchenko. Por supuesto, hay carteles y collages que denuncian el 
 militarismo y la brutalidad bélica de la Primera Guerra Mundial. 
 
-![Exposición Dada Ruso Iván Klium en Museo Reina Sofía](etheria_images/2018/06/Ivan-Klium-Dada-Ruso-Museo-Reina-Sofia-897x1024.jpg "'Autorretrato con una sierra (Composición no objetiva!, 1914, de Iván Klium")
+![Exposición Dada Ruso Iván Klium en Museo Reina Sofía](etheria-images/2018/06/Ivan-Klium-Dada-Ruso-Museo-Reina-Sofia-897x1024.jpg "'Autorretrato con una sierra (Composición no objetiva!, 1914, de Iván Klium")
 
 ## Héroes y víctimas
 

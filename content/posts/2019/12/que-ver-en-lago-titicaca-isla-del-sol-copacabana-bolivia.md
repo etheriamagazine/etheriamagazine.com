@@ -1,11 +1,11 @@
 ---
 title: "Toca el cielo con las manos en el lago Titicaca y la Isla del Sol"
 date: 2019-12-20
-coverImage: etheria_images/2019/12/isla-del-sol-lago-titicaca.jpg
+coverImage: etheria-images/2019/12/isla-del-sol-lago-titicaca.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Cris Aizpeolea
 ---
 
@@ -14,7 +14,7 @@ a casi cuatro mil metros de altura, el lago Titicaca y la Isla del Sol te propon
 viaje fundacional a la cultura Inca, sabrosas truchas al plato y vistas infinitas. 
 También visitaremos los imperdibles de Copacabana, una ciudad ribereña del Titicaca. 
 
-![Imagen de la Isla del Sol, en el lago Titicaca](etheria_images/2019/12/isla-del-sol-lago-titicaca-900x616.jpg "Imagen de la Isla del Sol, en el lago Titicaca. © Cris Aizpeolea")
+![Imagen de la Isla del Sol, en el lago Titicaca](etheria-images/2019/12/isla-del-sol-lago-titicaca-900x616.jpg "Imagen de la Isla del Sol, en el lago Titicaca. © Cris Aizpeolea")
 
 “No contamines nuestro lago sagrado. Llévate por favor tu basura de aquí”. Con 
 educación, pero sobre todo con carácter, el cartel al costado de la ruta por el lago 
@@ -31,7 +31,7 @@ de Tiquina para llegar a **Copacabana** con destino a la Isla del Sol, maravilla
 y cuna del imperio inca. Pero conviene detenerse un par de días en “Copa Kawana” 
 (mirador del lago, en aymara) porque la ciudad tiene varios imperdibles. 
 
-![basilica virgen de copacabana, lago titicaca](etheria_images/2019/12/santuario-lago-titicaca-900x604.jpg "Basílica de la Virgen de Copacabana. © C.A.")
+![basilica virgen de copacabana, lago titicaca](etheria-images/2019/12/santuario-lago-titicaca-900x604.jpg "Basílica de la Virgen de Copacabana. © C.A.")
 
 El principal es la **Basílica de la Virgen de Copacabana**, un majestuoso santuario de 
 estilo renacentista con detalles moriscos. Su construcción se inició en 1601 y alberga 
@@ -44,7 +44,7 @@ originarios asumiendo que la colonización ya era un hecho consumado.
 > Olmo en uno de los puestos callejeros donde vende velas, rosarios, imanes, cuadritos y 
 > altares multicolores. 
 
-![bendecir coches en copacabana](etheria_images/2019/12/copacabana-bendecir-coches-900x660.jpg "Vehículo adornado para ser bendecido. © C.A.")
+![bendecir coches en copacabana](etheria-images/2019/12/copacabana-bendecir-coches-900x660.jpg "Vehículo adornado para ser bendecido. © C.A.")
 
 Frente a la iglesia blanca, estacionados al rayo del sol, varios coches adornados con 
 guirnaldas de flores naturales esperan turno para la “challa de movilidades”, una 
@@ -57,7 +57,7 @@ todos los días. Vale la pena verlo de cerca.
 > En el mercado municipal no hay que irse sin probar los buñuelos con aipi, un preparado 
 > dulce de maíz morado que se bebe caliente como una chocolatada. Otro paseo obligado. 
 
-![amanda stratker, hotel la cupula, copacabana](etheria_images/2019/12/amanda-stratker-copacabana-titicaca-900x675.jpg "Amanda Strätker, de La Cúpula. ©C.A.")
+![amanda stratker, hotel la cupula, copacabana](etheria-images/2019/12/amanda-stratker-copacabana-titicaca-900x675.jpg "Amanda Strätker, de La Cúpula. ©C.A.")
 
 ## Dónde comer en Copacabana
 
@@ -70,20 +70,20 @@ restaurante-hotel sin perder el entusiasmo por el arte, el respeto por el ambien
 filosofía colaborativa. Lo fundó junto a su exmarido **Amanda Strätker**, artista y 
 terapeuta antroposófica alemana y egipcia de origen, ya latinoamericana por adopción. 
 
-![restaurante la cupula en copacabana, viaje titicaca](etheria_images/2019/12/comida-lago-titicaca-bolivia-900x569.jpg "Fondue y otras delicias en La Cúpula. © C.A.")
+![restaurante la cupula en copacabana, viaje titicaca](etheria-images/2019/12/comida-lago-titicaca-bolivia-900x569.jpg "Fondue y otras delicias en La Cúpula. © C.A.")
 
 “Me quedé en Copacabana cuando descubrí que aquí todavía hay algo original rescatado de 
 otros siglos”, dice, mientras compartimos una fondue de pescado fresco en el salón 
 comedor de ventanales de colores. 
 
-![llamas cortacesped, la cupula copacabana](etheria_images/2019/12/hotel-la-cupula-titicaca-bolivia-900x675.jpg "Un cortacésped ecológico. © C.A.")
+![llamas cortacesped, la cupula copacabana](etheria-images/2019/12/hotel-la-cupula-titicaca-bolivia-900x675.jpg "Un cortacésped ecológico. © C.A.")
 
 Por su consejo, muy cerca de allí, abordamos al atardecer **el sendero hasta la cima del 
 cerro El Calvario.** Lleva unos 50 minutos subir los 900 metros. Se entiende clarito la 
 metáfora pero el esfuerzo se paga con las vistas de la bahía. Abajo, las embarcaciones 
 parecen granitos de arroz. 
 
-![sendero cerro el calvario, excursion lago titicaca](etheria_images/2019/12/barcos-lago-titicaca-bolivia-900x619.jpg "Vista de los barcos desde el cerro del Calvario. © C.A.")
+![sendero cerro el calvario, excursion lago titicaca](etheria-images/2019/12/barcos-lago-titicaca-bolivia-900x619.jpg "Vista de los barcos desde el cerro del Calvario. © C.A.")
 
 ## Un crucero en las alturas a la Isla del Sol
 
@@ -100,7 +100,7 @@ tamaños que desfilan a ambos costados. Algunos son tan pequeñitos que apenas a
 árbol erguido en el centro. Otros tienen forma de tortuga y parecen peinados con un 
 rastrillo gigante. Es un muestrario caprichoso y desconcertante. 
 
-![lago titicaca](etheria_images/2019/12/panoramica-lago-titicaca-bolivia-900x629.jpg "Titicaca es el lago navegable más alto del mundo. © C.A.")
+![lago titicaca](etheria-images/2019/12/panoramica-lago-titicaca-bolivia-900x629.jpg "Titicaca es el lago navegable más alto del mundo. © C.A.")
 
 Navegamos en las alturas durante 90 minutos. A mitad de camino habrá una parada en la 
 **Isla de Luna** que administran las 25 familias de la comunidad coatí. Con un guía 
@@ -109,7 +109,7 @@ local recorremos el **Templo de las Vírgenes**, del siglo XIV. Historia viva.
 > Se estruja nuestro corazón cuando imaginamos bajo los pórticos de piedra a las “ñustas”, 
 > mujeres elegidas, cuya belleza les costaba el sacrificio al servicio del emperador 
 
-![excursion lago titicaca, isla del sol, palacio pilkokaina](etheria_images/2019/12/Palacio-de-PilKoKaina-900x423.jpg "Templo Iñakuyu o de las Vírgenes, en la Isla de la Luna. © C.A.")
+![excursion lago titicaca, isla del sol, palacio pilkokaina](etheria-images/2019/12/Palacio-de-PilKoKaina-900x423.jpg "Templo Iñakuyu o de las Vírgenes, en la Isla de la Luna. © C.A.")
 
 ## El lago Titicaca, una tierra mágica
 
@@ -120,7 +120,7 @@ en el ingreso del **Jardín del Inca**, en Yumani, al sur de la Isla del Sol. El
 fenomenal confirma las virtudes de esa civilización para aprovechar el agua de 
 vertiente. 
 
-![excursion lago titicaca, isla del sol, sendero fuente de la eterna juventud](etheria_images/2019/12/excursion-lago-titicaca-900x675.jpg "Tendrás que subir 150 peldaños para llegar a la Fuente de la Eterna Juventud. © C.A.")
+![excursion lago titicaca, isla del sol, sendero fuente de la eterna juventud](etheria-images/2019/12/excursion-lago-titicaca-900x675.jpg "Tendrás que subir 150 peldaños para llegar a la Fuente de la Eterna Juventud. © C.A.")
 
 El pulso se acelera para subir los 150 escalones de piedra que desembocan en la Fuente 
 de la Eterna Juventud. El agua es fresca, rica, reconfortante, y conviene llenar la 
@@ -135,7 +135,7 @@ de ellos y de la propia gente del lugar que camina doblada por el peso con algú
 atado en la espalda. Llevan y traen todo lo que vemos, usamos, comemos y bebemos en 
 estos días. 
 
-![isla del sol, viaje lago titicaca](etheria_images/2019/12/magdalena-isla-sol-titicaca-900x675.jpg "Magdalena y sus hijas en la Isla del Sol. © C.A.")
+![isla del sol, viaje lago titicaca](etheria-images/2019/12/magdalena-isla-sol-titicaca-900x675.jpg "Magdalena y sus hijas en la Isla del Sol. © C.A.")
 
 **Magdalena** tiene 34 años y nació en la isla, igual que su padre. En la casa familiar 
 sigue activo el mismo criadero de cuises (una especie de roedor) de cuando era chica y 
@@ -151,7 +151,7 @@ Las ruinas del **Palacio de Pilkokaina** y el conjunto ceremonial del mirador K�
 al que se llega por un bosque de eucaliptus, son las dos atracciones arqueológicas 
 fundamentales en esta zona. 
 
-![isla del sol, lago titicaca](etheria_images/2019/12/donde-comer-lago-titicaca-900x673.jpg "Una comida con vistas en la Isla del Sol. © C.A.")
+![isla del sol, lago titicaca](etheria-images/2019/12/donde-comer-lago-titicaca-900x673.jpg "Una comida con vistas en la Isla del Sol. © C.A.")
 
 Otro _trekking_ de satisfacción garantizada es el **Mirador Pallakasa**, con el lago en 
 360 grados y la silueta completa de la isla a nuestros pies. Son 12 kilómetros de largo 
@@ -166,7 +166,7 @@ visitas. Comprendido el objetivo, todos pagamos con cierto gusto. Además, tampo
 tanto. Apenas un aporte para que esta maravilla siga viva. Y podamos volver algún día, 
 ojalá. 
 
-![barcos lago titicaca](etheria_images/2019/12/lago-titicaca-bolivia-900x570.jpg "Embarcadero del lago Titicaca. © C.A.")
+![barcos lago titicaca](etheria-images/2019/12/lago-titicaca-bolivia-900x570.jpg "Embarcadero del lago Titicaca. © C.A.")
 
 ### CONSEJOS ETHERIA
 

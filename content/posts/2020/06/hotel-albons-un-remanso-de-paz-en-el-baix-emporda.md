@@ -1,13 +1,13 @@
 ---
 title: "Hotel Albons, un remanso de paz en el Baix Empordà"
 date: 2020-06-01
-coverImage: etheria_images/2020/05/Hotel-Albons-recepcion.jpg
+coverImage: etheria-images/2020/05/Hotel-Albons-recepcion.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si buscas un lugar tranquilo donde programar una escapada este verano, ten muy en cuenta 
@@ -15,7 +15,7 @@ al hotel Albons, que tras una profunda renovación en 2020 consiguió una estrel
 convirtiéndose así en uno de los hoteles de cinco estrellas de Girona. Además, es 
 perfecto para recorrer la siempre apetecible Costa Brava. 
 
-![Piscina del hotel Albons](etheria_images/2020/05/Hotel-Albons-vistas.jpg "Piscina y vistas desde el hotel Albons.")
+![Piscina del hotel Albons](etheria-images/2020/05/Hotel-Albons-vistas.jpg "Piscina y vistas desde el hotel Albons.")
 
 El hotel Albons, de cinco estrellas, reabrió sus puertas en 2020 con una nueva dirección 
 y una estrella más tras permanecer tres años cerrado. Uno de sus principales atractivos 
@@ -25,7 +25,7 @@ días de descanso y buscar playas y restaurantes cuando desees algo más de anim
 Además, cuenta con unas vistas del Baix Empordà que llegan hasta el Cap de Creus que te 
 dejarán sin palabras. 
 
-![Hall del hotel Albons](etheria_images/2020/05/Hotel-Albons-recepcion.jpg "Detalles de decoración del hall del hotel.")
+![Hall del hotel Albons](etheria-images/2020/05/Hotel-Albons-recepcion.jpg "Detalles de decoración del hall del hotel.")
 
 > Es un hotel de estilo contemporáneo que ha recibido el premio Fad de arquitectura e 
 > interiorismo por la forma en la que armoniza sus formas modernas con el paisaje. 
@@ -38,7 +38,7 @@ Si eres aficionada al golf, Empordà golf se encuentra a tan solo 20 minutos, pa
 amantes de los caballos el Club Hipic Equus Empordà está al lado del hotel y si lo tuyo 
 es el buceo, puedes practicarlo en las islas Medas a 25 minutos. 
 
-![Entrada del hotel Albons](etheria_images/2020/05/Hotel-Albons-entrada.jpg "Entrada.")
+![Entrada del hotel Albons](etheria-images/2020/05/Hotel-Albons-entrada.jpg "Entrada.")
 
 ## Las habitaciones
 
@@ -48,7 +48,7 @@ habitaciones y las suites tienen acceso directo al jardín y el resto de las hab
 están en otras dos plantas. Disponen también de bonitas terrazas con vistas a la bahía 
 de Roses. 
 
-![Junior Suite del hotel Albons](etheria_images/2020/05/Hotel-Albons-habitacion.jpg "Junior Suite.")
+![Junior Suite del hotel Albons](etheria-images/2020/05/Hotel-Albons-habitacion.jpg "Junior Suite.")
 
 Todas las habitaciones disponen de todas las comodidades que puedas desear: televisión, 
 wifi, caja de seguridad, minibar, café y té de cortesía, aire acondicionado, secador de 
@@ -63,7 +63,7 @@ basada en el producto de proximidad donde disfrutarás de platos tan exquisitos 
 anchoas de L’Escala, el 'Trinxat de la Cerdaña', el 'Pollo a l’Ampurdànesa' o el 'Suquet 
 de Rape y Gambas'. Especialidades regadas, por supuesto, con los vinos de la DO Empordà. 
 
-![Restaurante del hotel Albons](etheria_images/2020/05/hotel-albons-restaurante.jpg "Restaurante.")
+![Restaurante del hotel Albons](etheria-images/2020/05/hotel-albons-restaurante.jpg "Restaurante.")
 
 Todo en un lugar lleno de luz decorado con tonos neutros para que nada interfiera en la 
 belleza del paisaje. Además cuenta con una bodega donde se pueden catar los vinos 
@@ -75,7 +75,7 @@ Si hay un lugar que destaca es su bonita **piscina**, que ofrece unas vistas inc
 Es sin duda el espacio estrella del hotel, un lugar perfecto para descansar en sus 
 tumbonas acompañada de un libro o buena música. 
 
-![Piscina del hotel Albons](etheria_images/2020/05/hotel-Anbons-piscina.jpg "Piscina.")
+![Piscina del hotel Albons](etheria-images/2020/05/hotel-Anbons-piscina.jpg "Piscina.")
 
 [Hotel Albons (5 estrellas)](https://albonshotel.com) Carretera de La Bisbal a Figueres, 
 km 18. Albons (Girona). Tel. +34 972 765 727 Precio desde 81 Euros la noche en 

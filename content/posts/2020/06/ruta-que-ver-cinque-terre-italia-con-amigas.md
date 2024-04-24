@@ -1,18 +1,18 @@
 ---
 title: "Cinque Terre, los cinco pueblos más bonitos de Liguria"
 date: 2020-06-04
-coverImage: etheria_images/2019/07/cinque-terre.jpg
+coverImage: etheria-images/2019/07/cinque-terre.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Descubre Cinque Terre y sus maravillosos pueblos de Riomaggiore, Manarola, Corniglia, Vernazza y Monterosso. Esta franja del litoral de Liguria, cuya imagen desde el mar es la de una postal multicolor de casas arracimadas, nos invita a algo más que a la contemplación. Camina, navega o haz esta ruta en coche con tus mejores amigas. ¡Lo pasarás en grande!
 
-![cinque terre, Riomaggiore](etheria_images/2019/07/viaje-mujeres-Cinque-Terre-Riomaggiore.jpg "Riomaggiore vista desde el puerto. © Etheria Magazine")
+![cinque terre, Riomaggiore](etheria-images/2019/07/viaje-mujeres-Cinque-Terre-Riomaggiore.jpg "Riomaggiore vista desde el puerto. © Etheria Magazine")
 
 ```
 Actualizado 4/2021
@@ -30,7 +30,7 @@ Portovenere, es una excursión que te ofrecerán. Si estás recorriendo Italia p
 esta franja costera te pillará entre [Génova](http://www.airport.genova.it) (110 km) y [Pisa](http://www.pisa-airport.com) 
 (88 km). 
 
-![cinque terre Riomaggiore](etheria_images/2019/07/cinque-terre-mujer.jpg "Mujer asomada a una ventana en Riomaggiore. © Etheria Magazine")
+![cinque terre Riomaggiore](etheria-images/2019/07/cinque-terre-mujer.jpg "Mujer asomada a una ventana en Riomaggiore. © Etheria Magazine")
 
 ## Qué ver en Cinque Terre
 
@@ -41,7 +41,7 @@ el segundo por los santuarios y el tercero –conocido como el **Sendero azul**�
 comunica los pueblos. Este último es el más recomendable porque no entraña gran 
 dificultad y las vistas panorámicas son bellísimas. 
 
-![pintores en cinque terre](etheria_images/2019/07/viaje-mujeres-Cinque-Terre-pintor.jpg "Los paisajes y pueblos de Cinque Terre inspiran a los artistas. © Etheria Magazine")
+![pintores en cinque terre](etheria-images/2019/07/viaje-mujeres-Cinque-Terre-pintor.jpg "Los paisajes y pueblos de Cinque Terre inspiran a los artistas. © Etheria Magazine")
 
 ## Riomaggiore
 
@@ -58,7 +58,7 @@ pertenecía a la República de Génova. La dedicación genovesa al comercio prop
 consolidación de este núcleo junto al mar. En la visita no te pierdas la iglesia de San 
 Juan Bautista, el oratorio de Santa María Asunción y el castillo que domina el pueblo. 
 
-![iglesia san lorenzo en manarola viaje cinque terre](etheria_images/2019/07/viaje-mujeres-cinque-terre-iglesia-manarola.jpg "Iglesia de San Lorenzo, en Manarola. © Etheria Magazine")
+![iglesia san lorenzo en manarola viaje cinque terre](etheria-images/2019/07/viaje-mujeres-cinque-terre-iglesia-manarola.jpg "Iglesia de San Lorenzo, en Manarola. © Etheria Magazine")
 
 ## Manarola
 
@@ -69,7 +69,7 @@ fachadas de colores, casas-torre de estilo genovés, pequeñas tiendas y la boni
 de San Lorenzo (del siglo XIV). Fíjate en el precioso rosetón de la fachada, está 
 compuesto por doce pequeñas columnas. 
 
-![Manarola cinque terre](etheria_images/2019/07/viaje-mujeres-cinque-terre-Manarola.jpg "Manarola. © Etheria Magazine")
+![Manarola cinque terre](etheria-images/2019/07/viaje-mujeres-cinque-terre-Manarola.jpg "Manarola. © Etheria Magazine")
 
 Riomaggiore y Manarola están unidas por un sendero denominado la **Via dell’Amore**, que 
 se puede recorrer en poco más de media hora y que regala unas panorámicas increíbles en 
@@ -86,7 +86,7 @@ Aunque las mejores vistas se obtienen desde el oratorio de los Disciplinados (de
 XVIII), se debe reservar tiempo para caminar y formar parte del día a día. No hay mejor 
 lugar para ello que la plaza Taragio, la más frecuentada de Corniglia 
 
-![senderos de cinque terre](etheria_images/2019/07/viaje-mujeres-cinque-terre-senderismo.jpg "Los senderos atraviesan los viñedos y regalan vistas impresionantes. © Etheria Magazine")
+![senderos de cinque terre](etheria-images/2019/07/viaje-mujeres-cinque-terre-senderismo.jpg "Los senderos atraviesan los viñedos y regalan vistas impresionantes. © Etheria Magazine")
 
 ## Vernazza
 
@@ -95,7 +95,7 @@ hermosas de Cinque Terre. La llegada desde los senderos regala una imagen espect
 con un casco histórico multicolor, un pequeño puerto y una playita desde la que comenzar 
 a subir por las escalinatas (conocidas como ‘arpaie’) que recorren todo el pueblo. 
 
-![vernazza, cinque terre](etheria_images/2019/07/vernazza-cinque-terre.jpg "Vernazza con su fortificación medieval.")
+![vernazza, cinque terre](etheria-images/2019/07/vernazza-cinque-terre.jpg "Vernazza con su fortificación medieval.")
 
 En el centro histórico, al igual que en los anteriores, se pueden ver casas-torre, 
 iglesias y palacetes pero sobre el horizonte destaca una fortificación con un castillo y 
@@ -109,7 +109,7 @@ vehículo a la entrada del pueblo, ya que no está permitido el tráfico a no re
 Y, en cierto modo, es mejor porque resultaría difícil maniobrar por sus calles empinadas 
 y estrechas. 
 
-![gastronomia liguria](etheria_images/2019/07/viaje-mujeres-cinque-terre-gastronomia.jpg "Gastronomía tradicional de Liguria. © Etheria Magazine")
+![gastronomia liguria](etheria-images/2019/07/viaje-mujeres-cinque-terre-gastronomia.jpg "Gastronomía tradicional de Liguria. © Etheria Magazine")
 
 ## Monterosso al Mare
 
@@ -124,7 +124,7 @@ la estatua de un Gigante, que inicialmente sujetaba una terraza sobre sus hombro
 ✅ [Tour en kayak o paddle surf en Monterosso al 
 Mare](https://www.civitatis.com/es/cinque-terre/?aid=10211). 
 
-![](etheria_images/2019/07/cinque-terre-vinedos.jpg "Improvisado paseo en el montacargas usado para trasladar las uvas en la vendimia. © Etheria Magazine")
+![](etheria-images/2019/07/cinque-terre-vinedos.jpg "Improvisado paseo en el montacargas usado para trasladar las uvas en la vendimia. © Etheria Magazine")
 
 ### Consultas frecuentes de los lectores
 

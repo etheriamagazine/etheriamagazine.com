@@ -1,14 +1,14 @@
 ---
 title: "Siete tesoros de la provincia de Salamanca que os encantarán"
 date: 2024-01-12
-coverImage: etheria_images/2024/01/salamanca-mogarraz.jpg
+coverImage: etheria-images/2024/01/salamanca-mogarraz.jpg
 categories: 
   - viajes-con-amigas
   - viajes-romanticos
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si aún no conocéis bien la provincia de Salamanca os animamos a elegir un fin de semana 
@@ -16,7 +16,7 @@ al azar y dedicarlo a descubrir algunos de sus secretos. En el plan podéis incl
 pueblos bonitos como Mogarraz o Ciudad Rodrigo, el mural más grande de Europa, una isla, 
 un yacimiento rupestre y una catarata. 
 
-![Tritón Miguelón, mural de garcibuey en Salamanca](etheria_images/2024/01/salamanca-Triton-Miguelon.jpg "Tritón Miguelón, el mural más grande Europa.")
+![Tritón Miguelón, mural de garcibuey en Salamanca](etheria-images/2024/01/salamanca-Triton-Miguelon.jpg "Tritón Miguelón, el mural más grande Europa.")
 
 La provincia de Salamanca oculta grandes sorpresas que sólo se descubren saliendo de su 
 capital y recorriendo carreteras secundarias. Casi en cada rincón, la historia y la 
@@ -42,7 +42,7 @@ pasadas de una manera sensible y auténtica.
 donde os proporcionamos información de dónde comer o bodegas que se pueden visitar en 
 los alrededores. 
 
-![Mogarraz, uno de los pueblos más originales de la provincia de Salamanca.](etheria_images/2024/01/salamanca-mogarraz.jpg "Mogarraz, uno de los pueblos más originales de Salamanca.")
+![Mogarraz, uno de los pueblos más originales de la provincia de Salamanca.](etheria-images/2024/01/salamanca-mogarraz.jpg "Mogarraz, uno de los pueblos más originales de Salamanca.")
 
 ## Ciudad Rodrigo, historia entre murallas
 
@@ -59,7 +59,7 @@ antiguas vías de ferrocarril. Os lo contamos todo en este artículo: [El Camino
 Hierro, kilómetros de magia entre puentes y túneles en 
 Salamanca](https://etheriamagazine.com/2021/10/03/recorrido-del-camino-de-hierro-salamanca/). 
 
-![Ciudad Rodrigo, en Salamanca.](etheria_images/2024/01/salamanca-Ciudad-Rodrigo.jpg "Ciudad Rodrigo, en Salamanca.")
+![Ciudad Rodrigo, en Salamanca.](etheria-images/2024/01/salamanca-Ciudad-Rodrigo.jpg "Ciudad Rodrigo, en Salamanca.")
 
 ## Tritón Miguelón, el mural más grande de Europa
 
@@ -74,7 +74,7 @@ autóctona de la zona. Es una obra de arte viva, cuya ubicación le permite camb
 color, temblar con el viento, camuflarse y adoptar mil formas en la imaginación del 
 visitante. 
 
-![Tritón Miguelón, mural de garcibuey en Salamanca](etheria_images/2024/01/salamanca-Triton-Miguelon.jpg "Tritón Miguelón.")
+![Tritón Miguelón, mural de garcibuey en Salamanca](etheria-images/2024/01/salamanca-Triton-Miguelon.jpg "Tritón Miguelón.")
 
 ## Isla del Soto, un milagro en el Tormes
 
@@ -85,7 +85,7 @@ Interpretación y un área infantil, la isla también se convierte en un lugar i
 pasear con las mascotas. Si queréis conocer la única localidad con una isla pública 
 debéis dirigiros a **Santa Marta de Tormes**. 
 
-![Isla del Soto, en Salamanca](etheria_images/2024/01/salamanca-Isla-Soto-850x638.jpg "Isla del Soto.")
+![Isla del Soto, en Salamanca](etheria-images/2024/01/salamanca-Isla-Soto-850x638.jpg "Isla del Soto.")
 
 ## Pozo de los Humos, un sorprendente salto de agua
 
@@ -103,7 +103,7 @@ Francia](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-si
 así que no os perdáis el resto de recomendaciones del artículo si os gusta el mundo del 
 enoturismo. 
 
-![Pozo de los Humos, en Salamanca.](etheria_images/2024/01/salamanca-Pozo-Humos.jpg "Pozo de los Humos, en la provincia de Salamanca.")
+![Pozo de los Humos, en Salamanca.](etheria-images/2024/01/salamanca-Pozo-Humos.jpg "Pozo de los Humos, en la provincia de Salamanca.")
 
 ## Grabados de animales en Siega Verde
 
@@ -116,7 +116,7 @@ y ofrecen una conexión directa con la vida de nuestros antepasados. Este sitio
 arqueológico ostenta, hasta la fecha, el privilegio de ser el depósito artístico con el 
 mayor número de imágenes paleolíticas documentadas. 
 
-![Yacimiento de Siega Verde.](etheria_images/2024/01/salamanca-Siega-Verde.jpg "Yacimiento de Siega Verde.")
+![Yacimiento de Siega Verde.](etheria-images/2024/01/salamanca-Siega-Verde.jpg "Yacimiento de Siega Verde.")
 
 Las figuras de animales y escenas de caza talladas en la roca proporcionan una conexión 
 tangible con la Prehistoria en medio de un entorno natural impresionante. En la web de 
@@ -133,6 +133,6 @@ producción de vino. Podéis visitarlos por vuestra cuenta o bien apuntaros a un
 excursión organizada que ofrezca una experiencia completa con cata de vino y degustación 
 de ibéricos. Encontraréis más información sobre la ruta en sanestebanrutalagares.com 
 
-![Lagar rupestre de San Esteban de la Sierra, en la provincia de Salamanca](etheria_images/2024/01/salamanca-lagar-rupestre.jpg "Lagar rupestre. © Pepa García")
+![Lagar rupestre de San Esteban de la Sierra, en la provincia de Salamanca](etheria-images/2024/01/salamanca-lagar-rupestre.jpg "Lagar rupestre. © Pepa García")
 
 Fotos: Cedidas por Turismo de Salamanca/ Etheria Magazine

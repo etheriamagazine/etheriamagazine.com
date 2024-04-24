@@ -1,13 +1,13 @@
 ---
 title: "Viaja a través de la gastronomía: cursos y talleres de cocina regional en España"
 date: 2020-08-25
-coverImage: etheria_images/2020/08/gastronomia-espana-boqueria-barcelona.jpg
+coverImage: etheria-images/2020/08/gastronomia-espana-boqueria-barcelona.jpg
 categories: 
   - organiza-tu-viaje
   - experiencias-viajeras
   - planes-cultura-ocio
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cuando viajamos por España existen muchas formas de acercarse al destino que visitas y 
@@ -16,7 +16,7 @@ restaurantes: súbete las mangas y prueba a realizar alguno de los cursos de coc
 local. Aquí te damos las claves para que elijas el que mejor se adapte a tus gustos y 
 algunos lugares donde realizarlos. 
 
-![cocinero pelando un calabacín](etheria_images/2020/08/gastronomia-calabacin.jpg "Prueba a realizar un taller de cocina en tus viajes por España, no te arrepentirás. © Caroline Attwood")
+![cocinero pelando un calabacín](etheria-images/2020/08/gastronomia-calabacin.jpg "Prueba a realizar un taller de cocina en tus viajes por España, no te arrepentirás. © Caroline Attwood")
 
 Una de las mejores formas de conocer un destino es a través de su gastronomía. Los 
 sabores y aromas que la tradición de cada lugar ha ido dejando a partir de las materias 
@@ -42,7 +42,7 @@ tomar apuntes pero no participar en las elaboraciones, y en un **taller particip
 te pones el delantal y cocinas con el experto. En todos lo habitual es degustar los 
 platos cocinados. 
 
-![curso de cocina en Alambique](etheria_images/2020/08/gatronomia-espanola-curso-alambique.jpg "Curso de cocina en Alambique. © SG")
+![curso de cocina en Alambique](etheria-images/2020/08/gatronomia-espanola-curso-alambique.jpg "Curso de cocina en Alambique. © SG")
 
 ### Cursos de cata
 
@@ -60,7 +60,7 @@ menorquines](https://www.civitatis.com/es/menorca/degustacion-quesos-vinos/?aid=
 Para hacer una cata de miel puedes acudir, por ejemplo, a **El Abejar** (en Aracena y 
 Sevilla) o probar la experiencia en Montferri (Tarragona). 
 
-![aceite de oliva y aceitunas](etheria_images/2020/08/gastronomia-espana-aceite-oliva.jpg "Aceite de oliva.")
+![aceite de oliva y aceitunas](etheria-images/2020/08/gastronomia-espana-aceite-oliva.jpg "Aceite de oliva.")
 
 ### Dónde se realiza el curso
 
@@ -83,7 +83,7 @@ niños**, el curso se puede adaptar para que ellos también participen. Los más
 son cada vez más aficionados a cocinar y disfrutan mucho con este tipo de experiencias, 
 además de aprender sobre el lugar al que viajan de una forma participativa y divertida. 
 
-![niña haciendo galletas en Le Cordon Bleu](etheria_images/2020/08/gastronomia-curso-con-ninos.jpg "Curso para cocinar con niños en Le Cordon Bleu de Madrid. © SG")
+![niña haciendo galletas en Le Cordon Bleu](etheria-images/2020/08/gastronomia-curso-con-ninos.jpg "Curso para cocinar con niños en Le Cordon Bleu de Madrid. © SG")
 
 ### Cocinas de todo el mundo
 
@@ -104,7 +104,7 @@ día es una actividad que se encuentra casi en cada rincón. Haz una búsqueda o
 pregunta en tu hotel o en la oficina de turismo, seguro que pueden recomendarte algún 
 lugar donde realizar un taller de gastronomía local. ¡A cocinar! 
 
-![pulpos cocidos](etheria_images/2020/08/gastronomia-gallega-pulpos.jpg "Pulpos en A Coruña. © Ellen Hughes")
+![pulpos cocidos](etheria-images/2020/08/gastronomia-gallega-pulpos.jpg "Pulpos en A Coruña. © Ellen Hughes")
 
 ### Cocina gallega
 
@@ -127,7 +127,7 @@ asturianos, pregunta en la escuela de cocina **Kokomo**, en Gijón, por las fech
 curso en el que explican cómo hacer delicias como los mantecados de Avilés, la tarta 
 afuega el Pitu o las Moscovitas. Precio 38 Euros. 
 
-![olla y patatas](etheria_images/2020/08/gastronomia-espanola-patatas.jpg "Las patatas son un ingrediente básico en las gastronomías del norte de España.")
+![olla y patatas](etheria-images/2020/08/gastronomia-espanola-patatas.jpg "Las patatas son un ingrediente básico en las gastronomías del norte de España.")
 
 ### Cocina valenciana
 
@@ -136,7 +136,7 @@ diferencia de los que ellos llaman el ‘arroz con cosas’. Civitatis cuenta co
 y [Alicante](https://www.civitatis.com/es/alicante/taller-paella/?aid=10211) que 
 incluyen la visita previa al mercado. 
 
-![cata de aceites en La Bobadilla](etheria_images/2020/08/gastronomia-espanola-la-bobadilla.jpg "Recogida de ingredientes con el chef y cata de aceite en La Bobadilla. © Barceló Hotel Group")
+![cata de aceites en La Bobadilla](etheria-images/2020/08/gastronomia-espanola-la-bobadilla.jpg "Recogida de ingredientes con el chef y cata de aceite en La Bobadilla. © Barceló Hotel Group")
 
 ### Cocina andaluza
 
@@ -151,7 +151,7 @@ donde se imparten cursos de cocina española con visita al mercado. Consulta el
 calendario en su web, donde también encontrarás cursos de cocina de todas las partes del 
 mundo. 
 
-![puesto de frutas y verduras en La Boquería](etheria_images/2020/08/gastronomia-espana-boqueria-barcelona.jpg "Mercado de la Boquería en Barcelona.")
+![puesto de frutas y verduras en La Boquería](etheria-images/2020/08/gastronomia-espana-boqueria-barcelona.jpg "Mercado de la Boquería en Barcelona.")
 
 ### Cocina catalana
 

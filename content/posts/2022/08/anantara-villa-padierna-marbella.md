@@ -1,18 +1,18 @@
 ---
 title: "Anantara Villa Padierna, un hotel de lujo donde encontrar la paz en la costa malagueña"
 date: 2022-08-17
-coverImage: etheria_images/2022/08/Villa-padierna-piscina.jpg
+coverImage: etheria-images/2022/08/Villa-padierna-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Marbella en verano es un polo de atracción de viajeros de todas partes del mundo por su excelente clima y su casi infinita oferta de ocio. Si quieres disfrutar de esta zona de Málaga desde la tranquilidad de un hotel de cinco estrellas apartado del bullicio, pero a sólo un paso de la actividad de Marbella y Estepona, elige el Anantara Villa Padierna Palace Benahavís Marbella Resort. Será un acierto seguro.
 
-![Fachada del hotel de lujo Anantara Villa Padierna](etheria_images/2022/08/Villa-padierna-fachada.jpg "Anantara Villa Padierna Palace Benahavís Marbella Resort.")
+![Fachada del hotel de lujo Anantara Villa Padierna](etheria-images/2022/08/Villa-padierna-fachada.jpg "Anantara Villa Padierna Palace Benahavís Marbella Resort.")
 
 La costa de Málaga es uno de esos lugares con una oferta turística tan extensa que es 
 capaz de ofrecer alojamientos a la medida de casi cualquier viajero. Si lo tuyo son los 
@@ -40,7 +40,7 @@ el que es muy fácil sentirse cómoda. Además, su variedad de categorías hace 
 elegir desde una coqueta habitación para dos personas hasta una villa de dos 
 dormitorios. 
 
-![sala de estar y habitación de una suite del Anantara Villa Padierna](etheria_images/2022/08/villa-padierna-suite.jpg "Suite del Anantara Villa Padierna.")
+![sala de estar y habitación de una suite del Anantara Villa Padierna](etheria-images/2022/08/villa-padierna-suite.jpg "Suite del Anantara Villa Padierna.")
 
 Entre las habitaciones más sencillas, pero llenas de detalles y con el toque de calidad 
 en materiales que ofrece toda la decoración del hotel, podrás elegir entre las 
@@ -70,7 +70,7 @@ de Estados Unidos que estuvo aquí alojada.
 Las familias tienen opciones perfectas para el alojamiento: habitaciones comunicadas y 
 la Suite de dos habitaciones, que además cuenta con una práctica _kitchenette_. 
 
-![Villa Obama.](etheria_images/2022/08/villa-padierna-villa-obama.jpg "Villa Obama.")
+![Villa Obama.](etheria-images/2022/08/villa-padierna-villa-obama.jpg "Villa Obama.")
 
 ## Los restaurantes
 
@@ -85,7 +85,7 @@ en forma de buffet de _antipasto_ y segundos platos tradicionales, para degustar
 hora de la cena. Este mismo espacio se transforma durante los almuerzos con una carta de 
 platos ligeros muy apetecibles de la cocina mediterránea. 
 
-![Terraza con vistas del hotel Anantara Villa Padierna](etheria_images/2022/08/villa-padierna-terraza.jpg "Terraza de La Loggia.")
+![Terraza con vistas del hotel Anantara Villa Padierna](etheria-images/2022/08/villa-padierna-terraza.jpg "Terraza de La Loggia.")
 
 Si buscas una cena diferente, no puede faltar una reserva en el **99 Sushi Bar & 
 Restaurant**, que tienen en el Anantara Villa Padierna una de sus sedes. Excelente sushi 
@@ -101,7 +101,7 @@ con una carta de cocina ligera pero con un toque muy original; y **Hole 55**, co
 ensaladas, baguettes y propuestas de tapas andaluzas. Este espacio se transforma durante 
 las noches de verano para ofrecer deliciosos platos de cocina india. 
 
-![Beach Club del hotel Anantara Villa Padierna](etheria_images/2022/08/Villa-Padierna-beach-club.jpg "Beach Club.")
+![Beach Club del hotel Anantara Villa Padierna](etheria-images/2022/08/Villa-Padierna-beach-club.jpg "Beach Club.")
 
 Como seguro que querrás también disfrutar de la playa de Marbella, el hotel cuenta con 
 un exclusivo **Beach Club**. Está situado sobre la arena de la playa, con todas las 
@@ -121,7 +121,7 @@ hotel). Pero como seguro que el cuerpo pide también algo de acción, tienes una
 oferta de **instalaciones deportivas**: gimnasio, pistas de tenis, pistas de pádel, 
 croquet, clases de buceo… 
 
-![zona de piscina del hotel Anantara Villa Padierna en Marbella](etheria_images/2022/08/Villa-padierna-piscina.jpg "Piscina del hotel de lujo Anantara Villa Padierna.")
+![zona de piscina del hotel Anantara Villa Padierna en Marbella](etheria-images/2022/08/Villa-padierna-piscina.jpg "Piscina del hotel de lujo Anantara Villa Padierna.")
 
 Uno de los puntos fuertes del hotel es el **golf**. Así que si todavía no te has 
 sumergido en este deporte, puedes aprovechar para dar unas clases en su escuela. Y 
@@ -138,7 +138,7 @@ imprescindible hacer el recorrido por las saunas (hay varias con aromas y temper
 diferentes), los baños turcos y las pozas de agua fría para acabar en la zona de 
 relajación. 
 
-![Piscina interior del hotel Anantara Villa Padierna](etheria_images/2022/08/Villa-padierna-spa.jpg "Piscina de la zona de Spa con vistas a los jardines.")
+![Piscina interior del hotel Anantara Villa Padierna](etheria-images/2022/08/Villa-padierna-spa.jpg "Piscina de la zona de Spa con vistas a los jardines.")
 
 También merece la pena reservarse unas horas de la mañana o la tarde para relajarse con 
 un **masaje o tratamiento**: seguro que encuentras uno a tu medida en la extensa carta 

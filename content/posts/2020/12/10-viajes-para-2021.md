@@ -1,18 +1,18 @@
 ---
 title: "Diez destinos a los que viajaremos este año"
 date: 2020-12-31
-coverImage: etheria_images/2020/12/bogota-viajes-2021.jpg
+coverImage: etheria-images/2020/12/bogota-viajes-2021.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Estos son los 10 destinos con los que el equipo de Etheria Magazine sueña viajar este 
 año. Algunos son lugares deseados durante largo tiempo y otros se visitan con 
 frecuencia, pero todos resultan ideales para mujeres viajeras. 
 
-![Iglesia de la Trinidad de Guergueti, en Georgia.](etheria_images/2020/12/georgia-viajes-2021.jpg "Iglesia de la Trinidad de Guergueti, en Georgia. © Timur Kozmenko")
+![Iglesia de la Trinidad de Guergueti, en Georgia.](etheria-images/2020/12/georgia-viajes-2021.jpg "Iglesia de la Trinidad de Guergueti, en Georgia. © Timur Kozmenko")
 
 ## 1\. Georgia, la cuna del vino
 
@@ -38,7 +38,7 @@ pastel, “saltar” a la leyenda, **Armenia**. ¿Le ponemos fecha?
 
 Vanesa Viñolo, periodista de Gastronomía y Enoturismo. 
 
-![En la ceremonia diaria del Binthabat, en Laos, se ofrece alimento a los monjes.](etheria_images/2020/12/viajes-2021-luang-prabang-laos.jpg "En la ceremonia diaria del Binthabat, en Laos, se ofrece alimento a los monjes. © Manena Munar")
+![En la ceremonia diaria del Binthabat, en Laos, se ofrece alimento a los monjes.](etheria-images/2020/12/viajes-2021-luang-prabang-laos.jpg "En la ceremonia diaria del Binthabat, en Laos, se ofrece alimento a los monjes. © Manena Munar")
 
 ## 2\. Leyendas del Mekong, templos y  aires coloniales en Luang Prabang
 
@@ -61,7 +61,7 @@ en el ocaso, antes de ir a dormir al onírico Belmond La Résidence Phou Vao.
 
 Manena Munar, escritora y periodista de viajes. 
 
-![Cascada de Seljalandsfossm eb Islandia.](etheria_images/2020/12/islandia-viaje-2021.jpg "Seljalandsfoss, Islandia. © Andrey Andreyev")
+![Cascada de Seljalandsfossm eb Islandia.](etheria-images/2020/12/islandia-viaje-2021.jpg "Seljalandsfoss, Islandia. © Andrey Andreyev")
 
 ## 3\. Islandia en autocaravana
 
@@ -80,7 +80,7 @@ los fiordos del Oeste, una de las áreas más remotas del país.
 
 Nuria Cortés, periodista de viajes. 
 
-![Salar de Uyuni, en Bolivia.](etheria_images/2020/12/salinas-uyuni-bolivia.jpg "Salar de Uyuni, en Bolivia. © Sifan Liu")
+![Salar de Uyuni, en Bolivia.](etheria-images/2020/12/salinas-uyuni-bolivia.jpg "Salar de Uyuni, en Bolivia. © Sifan Liu")
 
 ## 4\. Bolivia, un país fascinante para 2021
 
@@ -99,7 +99,7 @@ cultura y belleza natural. Y todo a lo grande y a lo alto.
 
 Pilar Ortega, especializada en Periodismo Cultural. 
 
-![Parque del Dragón Negro, en Lijiang (China).](etheria_images/2020/12/viaje-2021-china-lijiang.jpg "Parque del Dragón Negro, en Lijiang (China).")
+![Parque del Dragón Negro, en Lijiang (China).](etheria-images/2020/12/viaje-2021-china-lijiang.jpg "Parque del Dragón Negro, en Lijiang (China).")
 
 ## 5\. Lijiang, al suroeste de China
 
@@ -125,7 +125,7 @@ Tigre. ¡Quiero ser huésped de esta quietud!
 
 Eva Madruga, especializada en Turismo de Cine. 
 
-![La Candelaria, Bogotá (Colombia).](etheria_images/2020/12/bogota-viajes-2021.jpg "La Candelaria, Bogotá (Colombia). © Michael Barón")
+![La Candelaria, Bogotá (Colombia).](etheria-images/2020/12/bogota-viajes-2021.jpg "La Candelaria, Bogotá (Colombia). © Michael Barón")
 
 ## 6\. Bogotá, la diversión necesaria
 
@@ -141,7 +141,7 @@ necesitamos para dejar atrás la monotonía del 2020.
 
 Kelu Robles, periodista radiofónica y de viajes. 
 
-![Castillo de Kilchurn, Escocia.](etheria_images/2020/12/castillo-kilchurn-escocia.jpg "Castillo de Kilchurn, Escocia. © Connor Mollison")
+![Castillo de Kilchurn, Escocia.](etheria-images/2020/12/castillo-kilchurn-escocia.jpg "Castillo de Kilchurn, Escocia. © Connor Mollison")
 
 ## 7\. Escocia, paisajes y cultura
 
@@ -158,7 +158,7 @@ será la mejor compañera en esos días.
 
 Pepa García, periodista de Viajes y directora editorial de Etheria M. 
 
-![Monte Saint-Michel, en Normandía (Francia).](etheria_images/2020/12/mont-saint-michel-viajes-2021.jpg "Monte Saint-Michel, en Normandía (Francia).")
+![Monte Saint-Michel, en Normandía (Francia).](etheria-images/2020/12/mont-saint-michel-viajes-2021.jpg "Monte Saint-Michel, en Normandía (Francia).")
 
 ## 8\. Bretaña y Mont Saint-Michel
 
@@ -176,7 +176,7 @@ cansas de recorrerlos.
 
 Susana García, periodista y directora corporativa de Etheria M. 
 
-![Imagen de postal con casitas en Suecia](etheria_images/2020/12/suecia-viaje-2021.jpg "Suecia. © Richard Taimalie")
+![Imagen de postal con casitas en Suecia](etheria-images/2020/12/suecia-viaje-2021.jpg "Suecia. © Richard Taimalie")
 
 ## 9\. Suecia, en contacto con la naturaleza
 
@@ -191,7 +191,7 @@ vida moderna pero en plena naturaleza y relajada, y sí, sin mascarillas.
 Rebeca Ávila, periodista de Estilo de Vida y Directora de RSC de Accor en Europa del 
 sur. 
 
-![Ballena en Baja California (México).](etheria_images/2020/12/ballena-baja-california.jpg "Ballena en Baja California (México). © Mike Doherty")
+![Ballena en Baja California (México).](etheria-images/2020/12/ballena-baja-california.jpg "Ballena en Baja California (México). © Mike Doherty")
 
 ## 10\. Baja California para ver cetáceos
 

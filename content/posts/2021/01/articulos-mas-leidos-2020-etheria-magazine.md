@@ -1,17 +1,17 @@
 ---
 title: "Los artículos más leídos de 2020 en Etheria Magazine"
 date: 2021-01-01
-coverImage: etheria_images/2020/12/reportajes-mas-leidos-cadiz.jpg
+coverImage: etheria-images/2020/12/reportajes-mas-leidos-cadiz.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cuando termina un año toca echar la vista atrás para coger impulso y afrontar el siguiente con energía. 2020 ha sido el año del despegue de Etheria Magazine, y sus cada vez más numerosos lectores y lectoras se han decantado por reportajes centrados en España y temas con información muy práctica. Estos son los 10 artículos de 2020 más leídos en Etheria Magazine.
 
-![excursiones en Cataluña](etheria_images/2020/12/reportajes-mas-leidos-mont-rebei.jpg "El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura. © Pepa García")
+![excursiones en Cataluña](etheria-images/2020/12/reportajes-mas-leidos-mont-rebei.jpg "El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura. © Pepa García")
 
 ## 1\. Consejos prácticos para visitar el desfiladero de Mont-rebei (Lleida)
 
@@ -26,7 +26,7 @@ ruta no apta para las que tengan vértigo, ya que pasearás junto al desfiladero
 atravesarás un puente colgante. En este caso puedes optar por hacer la ruta en kayak. 
 Está a la cabeza de los artículos más leídos en Etheria Magazine. 
 
-![excursiones en Cantabria](etheria_images/2020/12/reportajes-mas-leidos-cantabria.jpg "Iglesia de Santa Maria de Valverde, en Valderredible (Cantabria).")
+![excursiones en Cantabria](etheria-images/2020/12/reportajes-mas-leidos-cantabria.jpg "Iglesia de Santa Maria de Valverde, en Valderredible (Cantabria).")
 
 ## 2\. Lugares sorprendentes de Cantabria que aún no conoces
 
@@ -38,7 +38,7 @@ Cabezón, el Partenón cántabro, las ermitas de Valderredible o el Museo del So
 que, aunque hayas viajado varias veces a Cantabria, encuentras un nuevo motivo para 
 hacer otra escapada. 
 
-![exposiciones en Madrid](etheria_images/2020/12/reportajes-mas-leidos-exposiciones-madrid.jpg "‘Pescadoras valencianas’, 1903. de Joaquín Sorolla. © Diputación de Valencia")
+![exposiciones en Madrid](etheria-images/2020/12/reportajes-mas-leidos-exposiciones-madrid.jpg "‘Pescadoras valencianas’, 1903. de Joaquín Sorolla. © Diputación de Valencia")
 
 ## 3\. Diez exposiciones temporales en Madrid
 
@@ -52,7 +52,7 @@ otoño](https://etheriamagazine.com/2020/10/13/10-exposiciones-en-madrid-para-ot
 anticovid para garantizar la seguridad de los asistentes, así que no dejemos de darnos 
 el gustazo de ver una buena exposición. 
 
-![Lecturas recomendadas.](etheria_images/2020/12/reportajes-mas-leidos-libros-verano-2020.jpg "Lecturas de verano para divertirse o aprender en vacaciones. © Dan Dumitriu")
+![Lecturas recomendadas.](etheria-images/2020/12/reportajes-mas-leidos-libros-verano-2020.jpg "Lecturas de verano para divertirse o aprender en vacaciones. © Dan Dumitriu")
 
 ## 4\. Libros para leer en verano
 
@@ -64,7 +64,7 @@ Sierra, o _La madre de Frankenstein_, de Almudena Grandes. Obras para aficionado
 cocina como _La cocina del mar_ y joyitas como la novela gráfica basada en la obra 
 _Patria_ de Fernando Aramburu. 
 
-![turismo gastronomico](etheria_images/2020/12/reportajes-mas-leidos-restaurantes-estrella-michelin.jpg "Restaurantes con estrella Michelin en hoteles.")
+![turismo gastronomico](etheria-images/2020/12/reportajes-mas-leidos-restaurantes-estrella-michelin.jpg "Restaurantes con estrella Michelin en hoteles.")
 
 ## 5\. Diez restaurantes (en hoteles) con estrella Michelin donde comer desde 45 euros
 
@@ -77,7 +77,7 @@ Cualquiera de ellos es garantía de éxito para comer y dormir de lujo, un plan 
 para viajeras disfrutonas. Entre ellos, el hotel y restaurante Akelarre (San Sebastián) 
 o El Doncel (Sigüenza, Guadalajara). 
 
-![Excursiones desde Madrid](etheria_images/2020/12/reportajes-mas-leidos-sepulveda.jpg "Sepúlveda es perfecta para una excursión desde Madrid. © Kelu Robles")
+![Excursiones desde Madrid](etheria-images/2020/12/reportajes-mas-leidos-sepulveda.jpg "Sepúlveda es perfecta para una excursión desde Madrid. © Kelu Robles")
 
 ## 6\. Once escapadas de un día a 100 kilómetros o más de Madrid.
 
@@ -90,7 +90,7 @@ Sepúlveda (Segovia) o Campo de Criptana (Ciudad Real) a otros que merece la pen
 descubrir como la Ruta de las Caras en Cuenca o las barrancas de Castrejón y Calaña, en 
 Toledo. 
 
-![Excursiones en Zamora](etheria_images/2020/12/reportajes-mas-leidos-sanabria.jpg "Panorámica del lago de Sanabria desde el Mirador de los Peces, en San Martín de Castañeda. © Kelu Robles")
+![Excursiones en Zamora](etheria-images/2020/12/reportajes-mas-leidos-sanabria.jpg "Panorámica del lago de Sanabria desde el Mirador de los Peces, en San Martín de Castañeda. © Kelu Robles")
 
 ## 7\. Sanabria, los encantos de la Escocia zamorana
 
@@ -103,7 +103,7 @@ cualquier viajera. No os perdáis Puebla de Sanabria, la laguna de los Peces o e
 monasterio de San Martín de Castañeda ni, por supuesto, el placer de degustar la sabrosa 
 gastronomía sanabresa. 
 
-![vacaciones en autocaravana](etheria_images/2020/12/reportajes-mas-leidos-rutas-auto-caravana.jpg "Rutas en autocarvana por España.")
+![vacaciones en autocaravana](etheria-images/2020/12/reportajes-mas-leidos-rutas-auto-caravana.jpg "Rutas en autocarvana por España.")
 
 ## 8\. Cinco rutas en autocaravana por España para disfrutar del mar y la montaña
 
@@ -117,7 +117,7 @@ seguro: la frontera vascofrancesa, Asturias, La Garrotxa (Girona), Pirineos y la
 de La Mariña, en Lugo. No nos extraña nada que un reportaje con tantas ideas de viaje 
 esté entre los artículos más leídos en Etheria Magazine. 
 
-![albumes de fotos](etheria_images/2020/12/reportajes-mas-leidos-albumes.jpg "No renuncies a imprimir tus álbumes de fotos.")
+![albumes de fotos](etheria-images/2020/12/reportajes-mas-leidos-albumes.jpg "No renuncies a imprimir tus álbumes de fotos.")
 
 ## 9\. Consejos para hacer un álbum de fotos digital y no morir en el intento
 
@@ -129,7 +129,7 @@ digital](https://etheriamagazine.com/2020/04/02/5-consejos-para-hacer-un-album-d
 os damos unas cuantas pistas para agilizar el proceso y acabar con un álbum impreso 
 lleno de recuerdos con el que no podrá competir ningún archivo digital. 
 
-![playas de Cadiz](etheria_images/2020/12/reportajes-mas-leidos-cadiz.jpg "Playa Fuente del Gallo (Conil). © Etheria Magazine")
+![playas de Cadiz](etheria-images/2020/12/reportajes-mas-leidos-cadiz.jpg "Playa Fuente del Gallo (Conil). © Etheria Magazine")
 
 ## 10\. Actividades para hacer con niños en la provincia de Cádiz
 

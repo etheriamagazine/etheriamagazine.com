@@ -1,12 +1,12 @@
 ---
 title: "Princesa Yaiza, un hotel de lujo en Lanzarote perfecto para viajar en familia"
 date: 2023-08-04
-coverImage: etheria_images/2023/07/hotel-princesa-yaiza-playa-blanca.jpg
+coverImage: etheria-images/2023/07/hotel-princesa-yaiza-playa-blanca.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El Princesa Yaiza Suite Hotel Resort se levanta en Playa Blanca, al sur de Lanzarote, 
@@ -14,7 +14,7 @@ como uno de los mejores hoteles de la isla. Habitaciones espaciosas, amplia ofer
 restauración y un completo programa de animación para niños hacen de este hotel el 
 destino perfecto para unas vacaciones familiares. 
 
-![Princesa Yaiza Hotel Suite Resort en Playa Blanca.](etheria_images/2023/07/hotel-princesa-yaiza-playa-blanca.jpg "Princesa Yaiza Hotel Suite Resort en Playa Blanca.")
+![Princesa Yaiza Hotel Suite Resort en Playa Blanca.](etheria-images/2023/07/hotel-princesa-yaiza-playa-blanca.jpg "Princesa Yaiza Hotel Suite Resort en Playa Blanca.")
 
 Playa Blanca es uno de los mejores lugares para alojarse en Lanzarote, una localidad al 
 sur de la isla beneficiada por el sol y un buen punto de partida para las excursiones, 
@@ -26,7 +26,7 @@ Aquí se encuentra el Princesa Yaiza Suite Hotel Resort, un **hotel de cinco est
 lujo** ubicado frente al mar y que con su imagen de pueblo colonial de blanco reluciente 
 y sus jardines tropicales encaja perfectamente en este bonito rincón de Lanzarote. 
 
-![Piscinas del Princesa Yaiza de la zona principal.](etheria_images/2023/07/hotel-princesa-yaiza-piscinas-576x1024.jpg "Piscinas del hotel de la zona principal.")
+![Piscinas del Princesa Yaiza de la zona principal.](etheria-images/2023/07/hotel-princesa-yaiza-piscinas-576x1024.jpg "Piscinas del hotel de la zona principal.")
 
 ## Instalaciones de lujo
 
@@ -51,7 +51,7 @@ Algunas de ellas son la habitación Doble Superior, la Doble Superior Relax, la 
 Suite y diferentes tipos de suites, entre las que destacan la Suite Real y la Suite 
 Presidencial. 
 
-![Junior Suite del Princesa Yaiza](etheria_images/2023/07/Princesa-Yaiza-Suite-Junior-Suite.jpg "Junior Suite del Princesa Yaiza.")
+![Junior Suite del Princesa Yaiza](etheria-images/2023/07/Princesa-Yaiza-Suite-Junior-Suite.jpg "Junior Suite del Princesa Yaiza.")
 
 Merecen una mención aparte las **habitaciones para familias**, ubicadas en un edificio 
 anexo al hotel (al que se llega por un pasadizo decorado con preciosos acuarios). Tienen 
@@ -71,7 +71,7 @@ propuesta culinaria, que incluye técnicas de vanguardia y productos de cercaní
 atractivo es su terraza, que ofrece unas vistas maravillosas de las islas de Lobos y 
 Fuerteventura. 
 
-![plato de alta cocina en el restaurante Isla de Lobos](etheria_images/2023/07/hotel-princesa-yaiza-Isla-de-Lobos-plato.jpg "Cuidada gastronomía en Isla de Lobos.")
+![plato de alta cocina en el restaurante Isla de Lobos](etheria-images/2023/07/hotel-princesa-yaiza-Isla-de-Lobos-plato.jpg "Cuidada gastronomía en Isla de Lobos.")
 
 Otra opción muy atractiva para disfrutar de una cena diferente es **Kampai**, el 
 restaurante asiático del hotel, que permite disfrutar de cocina en directo en sus mesas 
@@ -85,7 +85,7 @@ Yaiza**, de cocina internacional con _show cooking_; **La Piazzetta**, donde pro
 pasta elaborada al momento según tus gustos; y **La Hacienda**, con un grill de carnes, 
 pescados y verduras y deliciosas especialidades mexicanas. 
 
-![Restaurante Kampai del hotel Princesa Yaiza](etheria_images/2023/07/hotel-princesa-yaiza-restaurante.jpg "Restaurante Kampai del hotel Princesa Yaiza.")
+![Restaurante Kampai del hotel Princesa Yaiza](etheria-images/2023/07/hotel-princesa-yaiza-restaurante.jpg "Restaurante Kampai del hotel Princesa Yaiza.")
 
 Además, **Kiko** es el snack bar en la zona de la piscina de las habitaciones familiares 
 y **Hooky** se ubica en la zona del parque infantil Kikoland para que las familias 
@@ -98,7 +98,7 @@ Para tomar algo informal o una copa de forma relajada, una excelente opción es
 Lunas** es el cóctel bar del hotel (sólo para adultos) y **La Papaya** hará la delicias 
 de los más pequeños y de los amantes de lo “healthy” con sus zumos de frutas naturales. 
 
-![Desayuno con vistas en el hotel Princesa Yaiza](etheria_images/2023/07/hotel-princesa-yaiza-desayuno.jpg "Desayuno con vistas en el hotel Princesa Yaiza.")
+![Desayuno con vistas en el hotel Princesa Yaiza](etheria-images/2023/07/hotel-princesa-yaiza-desayuno.jpg "Desayuno con vistas en el hotel Princesa Yaiza.")
 
 ## La Plaza
 
@@ -118,7 +118,7 @@ circuito de hidroterapia ni disfrutar de un masaje para revitalizar cuerpo y men
 Además, echa un vistazo a su amplia gama de tratamientos rejuvenecedores y terapéuticos, 
 seguro que te regalas alguno. 
 
-![Piscina del circuito de aguas del Thalasso Center del Princesa Yaiza](etheria_images/2023/07/Princesa-Yaiza-Hotel-piscina-Thalasso.jpg "Piscina del circuito de aguas del Thalasso Center.")
+![Piscina del circuito de aguas del Thalasso Center del Princesa Yaiza](etheria-images/2023/07/Princesa-Yaiza-Hotel-piscina-Thalasso.jpg "Piscina del circuito de aguas del Thalasso Center.")
 
 ## Kikoland
 
@@ -131,7 +131,7 @@ resto del espacio lo componen un teatro, columpios, una piscina… El equipo de 
 prepara una completa programación semanal para diferentes edades de manualidades, 
 deportes y juegos acuáticos. Te será muy difícil sacar de aquí a los niños. 
 
-![Animación en Kikoland del hotel Princesa Yaiza](etheria_images/2023/07/hotel-princesa-yaiza-club-infantil.jpg "Animación en Kikoland.")
+![Animación en Kikoland del hotel Princesa Yaiza](etheria-images/2023/07/hotel-princesa-yaiza-club-infantil.jpg "Animación en Kikoland.")
 
 [Princesa Yaiza Suite Hotel Resort](https://www.princesayaiza.com/es/) Av. de Papagayo, 
 22, Playa Blanca. Tel. 928 519 300 / 928 519 206. Fotografías cedidas por © Princesa 

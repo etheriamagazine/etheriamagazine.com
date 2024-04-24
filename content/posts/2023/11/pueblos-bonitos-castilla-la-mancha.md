@@ -1,7 +1,7 @@
 ---
 title: "10 pueblos bonitos de Castilla-La Mancha para organizar una escapada"
 date: 2023-11-10
-coverImage: etheria_images/2023/11/consuegra-molinos-castilla-mancha.jpg
+coverImage: etheria-images/2023/11/consuegra-molinos-castilla-mancha.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -10,8 +10,8 @@ categories:
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El centro de España es una fuente inacabable de planes de viaje, muchos desconocidos, 
@@ -20,7 +20,7 @@ de Castilla-La Mancha que son una maravilla. Esta comunidad autónoma merece, si
 la pena tanto por su historia como por sus parajes naturales. Echa un vistazo a nuestra 
 lista, seguro que te surge alguna idea para tu próxima escapada. 
 
-![Sigüenza.](etheria_images/2023/11/siguenza-castilla-la-mancha-850x567.jpg "Sigüenza.")
+![Sigüenza.](etheria-images/2023/11/siguenza-castilla-la-mancha-850x567.jpg "Sigüenza.")
 
 Las listas de "pueblos bonitos" sirven sobre todo para poner la miel en los labios con 
 la promesa de futuras escapadas, de esas que siempre apetecen para romper la rutina del 
@@ -45,7 +45,7 @@ puedes conocerla en el reportaje de Etheria Magazine que te indicamos a continua
 ✅ [Sigüenza: del pasado medieval a la Movida 
 madrileña](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/) 
 
-![Catedral de Sigüenza.](etheria_images/2023/11/siguenza-catedral-castilla-la-mancha.jpg "Catedral de Sigüenza.")
+![Catedral de Sigüenza.](etheria-images/2023/11/siguenza-catedral-castilla-la-mancha.jpg "Catedral de Sigüenza.")
 
 ## Pueblos Negros
 
@@ -62,7 +62,7 @@ uno de los más poblados.
 ✅ [Respirar ‘a pulmón abierto’ en los Pueblos Negros de 
 Guadalajara](https://etheriamagazine.com/2019/05/06/ruta-en-coche-pueblos-negros-guadalajara/) 
 
-![plaza de Valverde de los Arroyos](etheria_images/2023/11/pueblos-negros-Valverde-de-los-Arroyos-castilla-la-mancha.jpg "Valverde de los Arroyos, en la ruta de los Pueblos Negros.")
+![plaza de Valverde de los Arroyos](etheria-images/2023/11/pueblos-negros-Valverde-de-los-Arroyos-castilla-la-mancha.jpg "Valverde de los Arroyos, en la ruta de los Pueblos Negros.")
 
 ## Almagro
 
@@ -75,7 +75,7 @@ de esas actividades que hay que hacer al menos una vez en la vida. Su peculiar
 disposición y su aire flamenco se debe al patrocinio de la familia Függer, que explotaba 
 las minas de Almadén en la época de la construcción del teatro. 
 
-![Plaza Mayor de Almagro.](etheria_images/2023/11/plaza-mayor-almagro-ciudad-real-castilla-la-mancha.jpg "Plaza Mayor de Almagro.")
+![Plaza Mayor de Almagro.](etheria-images/2023/11/plaza-mayor-almagro-ciudad-real-castilla-la-mancha.jpg "Plaza Mayor de Almagro.")
 
 Pero, además, esta localidad de Ciudad Real permite dar un salto atrás de varios siglos, 
 una época pasada que se percibe al recorrer su Plaza Mayor y sus calles repletas de 
@@ -100,7 +100,7 @@ edificios renacentistas y barrocos, la **iglesia de San Andrés**, con un intere
 retablo y la tumba de Quevedo, y algunas casas y palacios históricos como el Palacio 
 Maestral (donde se encuentra el Ayuntamiento) y la Casa del Comendador. 
 
-![Villanueva de los Infantes.](etheria_images/2023/11/Villanueva-de-los-Infantes-castilla-la-mancha.jpg "Villanueva de los Infantes.")
+![Villanueva de los Infantes.](etheria-images/2023/11/Villanueva-de-los-Infantes-castilla-la-mancha.jpg "Villanueva de los Infantes.")
 
 ## Priego
 
@@ -109,7 +109,7 @@ por la naturaleza que la rodea, ya que está enclavada entre las comarcas de La 
 y La Serranía. Este entorno proporciona una de las panorámicas más bellas del invierno 
 cuando los campos de mimbre se tornan de color rojo intenso. 
 
-![Río Escabas a su paso por Priego.](etheria_images/2023/11/ruta-mimbre-cuenca-rio-escabas.jpg "Río Escabas a su paso por Priego.")
+![Río Escabas a su paso por Priego.](etheria-images/2023/11/ruta-mimbre-cuenca-rio-escabas.jpg "Río Escabas a su paso por Priego.")
 
 Algunas de las paradas obligatorias en una ruta por el pueblo son el **torreón de 
 Despeñaperros** (el único vestigio que queda del antiguo castillo), la Plaza Mayor, 
@@ -132,7 +132,7 @@ balcones con flores, la iglesia de San Juan Bautista y la iglesia gótica de San
 Domingo. La ruta puede continuar hasta el **Puente Romano**, un lugar perfecto para 
 tomar una foto del castillo y el pueblo, y acercarse al mirador de la Virgen de la Rosa. 
 
-![Castillo de Alarcón.](etheria_images/2023/11/alarcon-castillo-cuenca-castilla-la-mancha.jpg "Castillo de Alarcón.")
+![Castillo de Alarcón.](etheria-images/2023/11/alarcon-castillo-cuenca-castilla-la-mancha.jpg "Castillo de Alarcón.")
 
 ## Consuegra
 
@@ -146,7 +146,7 @@ iglesias de San Juan Bautista y del Santísimo Cristo de la Vera Cruz. Su pasado
 se puede sentir en la Presa Romana, que con más de seiscientos metros era la más larga 
 de Hispania. 
 
-![Molinos de Consuegra.](etheria_images/2023/11/consuegra-molinos-castilla-mancha.jpg "Molinos de Consuegra.")
+![Molinos de Consuegra.](etheria-images/2023/11/consuegra-molinos-castilla-mancha.jpg "Molinos de Consuegra.")
 
 ## Ocaña
 
@@ -159,7 +159,7 @@ entre los siglos XV y XVI, y también merecen la pena la iglesia de Nuestra Señ
 Asunción y la de San Juan Bautista, que custodian parte de las imágenes que salen en los 
 pasos de la famosa Semana Santa de Ocaña. 
 
-![Plaza Mayor de Ocaña.](etheria_images/2023/11/ocana-plaza-armas-castilla-mancha.jpg "Plaza Mayor de Ocaña.")
+![Plaza Mayor de Ocaña.](etheria-images/2023/11/ocana-plaza-armas-castilla-mancha.jpg "Plaza Mayor de Ocaña.")
 
 ## Almansa
 
@@ -173,7 +173,7 @@ arquitectura manierista. En cuanto a los edificios religiosos, destacan la igles
 Asunción, el convento de las Agustinas, el convento de San Francisco y la ermita de San 
 Blas. 
 
-![Castillo de Almansa.](etheria_images/2023/11/almansa-albacete-castilla-la-mancha.jpg "Castillo de Almansa.")
+![Castillo de Almansa.](etheria-images/2023/11/almansa-albacete-castilla-la-mancha.jpg "Castillo de Almansa.")
 
 ## Alcalá del Júcar
 
@@ -187,7 +187,7 @@ excavadas en la roca de lo más peculiares. Porque en esta localidad la roca ha 
 siempre parte del día a día, como lo demuestran las casas ubicadas en cuevas que son una 
 de las visitas que no puedes perderte. 
 
-![Alcalá del Júcar.](etheria_images/2023/11/alcala-del-jucar-castilla-la-mancha.jpg "Alcalá del Júcar.")
+![Alcalá del Júcar.](etheria-images/2023/11/alcala-del-jucar-castilla-la-mancha.jpg "Alcalá del Júcar.")
 
 ? **También te puede interesar:** 
 

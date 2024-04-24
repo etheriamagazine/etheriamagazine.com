@@ -1,18 +1,18 @@
 ---
 title: "Descubre la esencia de la Península de Nicoya, tierra de artesanas y naturaleza"
 date: 2022-07-15
-coverImage: etheria_images/2022/07/costa-rica-surf-Playa-Teresa.jpg
+coverImage: etheria-images/2022/07/costa-rica-surf-Playa-Teresa.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La Península de Nicoya es la tierra de Ruth Guevara, el marco donde sus creaciones cobran vida y se convierten en codiciados recuerdos para los viajeros. Este rincón de Costa Rica nos habla de tradición, de historia y de un marco natural idóneo para la práctica del surf y del yoga. Descubre por qué es “urgente” viajar a este idílico destino.
 
-![Atardecer en la playa de Santa Teresa, en la Península de Nicoya (Costa Rica).](etheria_images/2022/07/costa-rica-atardecer-santa-teresa.jpg "Atardecer en la playa de Santa Teresa, en la Península de Nicoya (Costa Rica).")
+![Atardecer en la playa de Santa Teresa, en la Península de Nicoya (Costa Rica).](etheria-images/2022/07/costa-rica-atardecer-santa-teresa.jpg "Atardecer en la playa de Santa Teresa, en la Península de Nicoya (Costa Rica).")
 
 La naturaleza en Costa Rica responde a la máxima de una madre proveedora que proporciona 
 la materia prima que precisan artesanas como Ruth Guevara para realizar sus creaciones 
@@ -25,7 +25,7 @@ relajantes como el yoga. En este artículo te proponemos un viaje a Costa Rica q
 sale de los circuitos habituales, donde descubrirás la belleza de la Península de 
 Nicoya, rincones repletos de magia y exclusivos hoteles boutiques. 
 
-![Ruth Guevara en su taller de la Península de Nicoya.](etheria_images/2022/07/ruth-guevara-artesana-699x1024.jpg "Ruth Guevara en su taller de la Península de Nicoya.")
+![Ruth Guevara en su taller de la Península de Nicoya.](etheria-images/2022/07/ruth-guevara-artesana-699x1024.jpg "Ruth Guevara en su taller de la Península de Nicoya.")
 
 ## Ruth Guevara, artesana de La Choreja
 
@@ -40,7 +40,7 @@ línea artesana bajo el nombre de Creaciones Imperio Colonial. Su objetivo cuand
 era lanzar un “producto autóctono, original, único y que transmitiese su cultura”. Y lo 
 encontró, ese producto que habla de la tierra y de sus raíces es el **jícaro**. 
 
-![Primer plano de una pieza artesana de la península de Nicoya](etheria_images/2022/07/artesania-costa-rica-ruth-guevara.jpg "Ruth puliendo una de sus piezas artesanas.")
+![Primer plano de una pieza artesana de la península de Nicoya](etheria-images/2022/07/artesania-costa-rica-ruth-guevara.jpg "Ruth puliendo una de sus piezas artesanas.")
 
 ### El humilde jícaro, base de creaciones artesanas
 
@@ -55,7 +55,7 @@ nivel general, porque no hago artesanía sólo de la zona sino que abarco todo e
 transmitirle al turista un poco de nuestras vivencias, cómo somos, cómo vivimos a través 
 de una artesanía”. 
 
-![Ruth Guevara, artesana de La Choreja, en la Península de Nicoya.](etheria_images/2022/07/ruth-guevara-nicoya.jpg "Ruth Guevara, artesana de La Choreja, en la Península de Nicoya.")
+![Ruth Guevara, artesana de La Choreja, en la Península de Nicoya.](etheria-images/2022/07/ruth-guevara-nicoya.jpg "Ruth Guevara, artesana de La Choreja, en la Península de Nicoya.")
 
 En la colección de bolsos “Mestizo”, que ha lanzado Ruth Guevara, combina el jícaro 
 tradicional con telas e hilos de algodón para crear complementos modernos, prácticos y 
@@ -65,7 +65,7 @@ nos hablan del destino que visitamos, de un modo de vida, de creaciones basadas 
 pasado y en el respeto por la naturaleza. Esa naturaleza que inspira estas creaciones es 
 la que encontrarás en Costa Rica y, también, en la Península de Nicoya. 
 
-[![En este vídeo puedes escuchar el testimonio de Ruth Guevara.](etheria_images/2022/07/video-ruth-guevara-costa-rica.jpg)](https://www.youtube.com/watch?v=l7K_VQlJcLs)
+[![En este vídeo puedes escuchar el testimonio de Ruth Guevara.](etheria-images/2022/07/video-ruth-guevara-costa-rica.jpg)](https://www.youtube.com/watch?v=l7K_VQlJcLs)
 
 ## Por qué visitar la Península de Nicoya, razones “urgentes”
 
@@ -77,7 +77,7 @@ Costa Rica, es el corazón de la nación chorotega y cuenta con un entorno natur
 prodigioso. A continuación compartimos lugares y razones para organizar un viaje a este 
 bello rincón que reparte su territorio entre las provincias de Guanacaste y Puntarenas. 
 
-![Yoga en Península de Nicoya, Costa Rica](etheria_images/2022/07/peninsula-nicoya-Yoga.jpg "La espiritualidad contribuye a tener una vida más prolongada y feliz.")
+![Yoga en Península de Nicoya, Costa Rica](etheria-images/2022/07/peninsula-nicoya-Yoga.jpg "La espiritualidad contribuye a tener una vida más prolongada y feliz.")
 
 ### 1\. Averiguar el secreto de la vida en la Península de Nicoya
 
@@ -90,7 +90,7 @@ esta longevidad se encuentran una tradición alimentaria saludable, actividad f�
 elevado nivel de espiritualidad y una fuerte unidad familiar. Este estilo de vida te 
 enamorará desde tu primera visita a Costa Rica. 
 
-![Grupo de mujeres practica yoga en Nosara, en la Península de Nicoya](etheria_images/2022/07/costa-rica-yoga-Nosara.jpg "Yoga en Nosara, Costa Rica.")
+![Grupo de mujeres practica yoga en Nosara, en la Península de Nicoya](etheria-images/2022/07/costa-rica-yoga-Nosara.jpg "Yoga en Nosara, Costa Rica.")
 
 ### 2\. Practicar yoga en la playa Nosara o relajarte en Punta Islita
 
@@ -109,7 +109,7 @@ con piscina. Las relajantes vistas al bosque tropical o al mar sólo son igualad
 los tratamientos de bienestar de su spa. Además, cuenta con paquetes especiales para 
 bodas. 
 
-![Dos surfistas en la playa de Santa Teresa, en la península de Nicoya, Costa Rica](etheria_images/2022/07/costa-rica-surf-Playa-Teresa.jpg "Surf en la playa Santa Teresa, situada en la Península de Nicoya.")
+![Dos surfistas en la playa de Santa Teresa, en la península de Nicoya, Costa Rica](etheria-images/2022/07/costa-rica-surf-Playa-Teresa.jpg "Surf en la playa Santa Teresa, situada en la Península de Nicoya.")
 
 ### 3\. Disfrutar del surf en Montezuma o en Santa Teresa
 
@@ -128,7 +128,7 @@ un establecimiento “boho chic” que comenzó siendo una residencia privada pe
 convertido en un hotel boutique donde huir del mundanal ruido o refugiarse en una 
 romántica luna de miel. 
 
-![Playa Tambor, en la Península de Nicoya](etheria_images/2022/07/costa-rica-playa-Tambor.jpg "Playa Tambor, en la Península de Nicoya (Costa Rica). © Joan Vendrell")
+![Playa Tambor, en la Península de Nicoya](etheria-images/2022/07/costa-rica-playa-Tambor.jpg "Playa Tambor, en la Península de Nicoya (Costa Rica). © Joan Vendrell")
 
 ?**2 pistas secretas:** Cerca de la playa de Montezuma está la playa Cabuya, desde donde 
 podrás llegar caminando hasta la isla Cabuya cuando baja la marea. En esa isla se sitúa 
@@ -146,7 +146,7 @@ Algunos rincones que conviene llevar apuntados en esta franja son la Punta Barri
 con un bonito paisaje marítimo, y Punta Cuevas, un lugar de gran belleza colindante con 
 la Reserva Natural de Cabo Blanco. 
 
-![Malpaís, una de las playas vírgenes de la Península de Nicoya.](etheria_images/2022/07/costa-rica-playa-MalPais.jpg "Malpaís, una de las playas vírgenes de la Península de Nicoya.")
+![Malpaís, una de las playas vírgenes de la Península de Nicoya.](etheria-images/2022/07/costa-rica-playa-MalPais.jpg "Malpaís, una de las playas vírgenes de la Península de Nicoya.")
 
 ### 5\. Observar la fauna en la Reserva Natural Absoluta de Cabo Blanco
 
@@ -160,7 +160,7 @@ Blanco, además, alberga algunas de las playas vírgenes más hermosas de la pen
 las que se llega por recoletos senderos. Apunta la **playa de Balsitas**, de una belleza 
 y una soledad abrumadoras. 
 
-![Playa virgen del Refugio Nacional de Vida Silvestre Curú](etheria_images/2022/07/costa-rica-Curu.jpg "Refugio Nacional de Vida Silvestre Curú. © Joan Vendrell")
+![Playa virgen del Refugio Nacional de Vida Silvestre Curú](etheria-images/2022/07/costa-rica-Curu.jpg "Refugio Nacional de Vida Silvestre Curú. © Joan Vendrell")
 
 ?Si eres una enamorada de la vida natural, toma nota también del: 
 
@@ -173,7 +173,7 @@ anidamiento masivo de **tortugas marinas**, un fenómenos que recibe el nombre d
 “arribada”. Entre enero y abril se concentran 15.000 tortugas, mientras que entre julio 
 y diciembre llegan a reunirse hasta 200.000 tortugas en la playa. 
 
-![Barcos de pesca en la Isla de San Lucas, en la Península de Nicoya](etheria_images/2022/07/pensinsula-nicoya-Isla-San-Lucas.jpg "Barcos de pesca en la Isla de San Lucas. © Julieth Méndez")
+![Barcos de pesca en la Isla de San Lucas, en la Península de Nicoya](etheria-images/2022/07/pensinsula-nicoya-Isla-San-Lucas.jpg "Barcos de pesca en la Isla de San Lucas. © Julieth Méndez")
 
 ### 6\. Navegar por las islas del Golfo de Nicoya
 
@@ -187,7 +187,7 @@ Azúcar**, uno de los favoritos de los pelícanos pardos; a la **Isla Chira**, l
 tamaño y que está habitada; a la **Isla San Lucas**, donde estaba la prisión; o bien a 
 Isla Caballo, a Isla Bejuco... 
 
-![Cerámica chorotega tradicional de la Península de Nicoya.](etheria_images/2022/07/ceramica-Chorotega-peninsula-nicoya.jpg "Cerámica chorotega tradicional de la Península de Nicoya.")
+![Cerámica chorotega tradicional de la Península de Nicoya.](etheria-images/2022/07/ceramica-Chorotega-peninsula-nicoya.jpg "Cerámica chorotega tradicional de la Península de Nicoya.")
 
 ### 7\. Pasear por la ciudad de Nicoya
 
@@ -201,7 +201,7 @@ con la Fiesta de la Yegüita, en honor a la Virgen de Guadalupe, disfrutarás de
 momento único. Pero no te preocupes, en cualquier momento del año se puede gozar de 
 buena gastronomía en una tradicional “soda”. 
 
-![Músicos de Nicoya, en Costa Rica.](etheria_images/2022/07/iglesia-Nicoya-costa-rica.jpg "Músicos de Nicoya, en Costa Rica.")
+![Músicos de Nicoya, en Costa Rica.](etheria-images/2022/07/iglesia-Nicoya-costa-rica.jpg "Músicos de Nicoya, en Costa Rica.")
 
 ### 8\. Practica kayak nocturno en el Golfo de Nicoya
 
@@ -213,7 +213,7 @@ alimentarse. Esa sensación incluso puede sublimarse en lugares como la **playa 
 Órganos** en la que se produce un increíble fenómeno de **bioluminiscencia**, donde el 
 remo parece desprender partículas de color azul eléctrico en cada impulso. Maravilloso. 
 
-![Paseo a caballo en la Península de Nicoya.](etheria_images/2022/07/ruta-caballo-costa-rica.jpg "Paseo a caballo en la Península de Nicoya.")
+![Paseo a caballo en la Península de Nicoya.](etheria-images/2022/07/ruta-caballo-costa-rica.jpg "Paseo a caballo en la Península de Nicoya.")
 
 ## Organiza tu viaje a la Península de Nicoya con Active Woman
 

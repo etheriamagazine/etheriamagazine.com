@@ -1,18 +1,18 @@
 ---
 title: "Christina Dodwell, la gran exploradora de los siglos XX y XXI"
 date: 2018-06-01
-coverImage: etheria_images/2018/06/Christina-Dodwell-2.jpg
+coverImage: etheria-images/2018/06/Christina-Dodwell-2.jpg
 categories: 
   - mujeres-que-inspiran
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Si los cielos de Madrid gozan de merecida fama, la luz de aquel atardecer primaveral era 
 un espectáculo. Quizás se preparaba para recibir como merece a la exploradora británica 
 Christina Dodwell. 
 
-![La británica Christina Dodwell es la gran exploradora de los siglos XX-XXI](etheria_images/2018/06/Christina-Dodwell-2-1024x897.jpg "Christina Dodwell, la gran exploradora de los siglos XX-XXI.")
+![La británica Christina Dodwell es la gran exploradora de los siglos XX-XXI](etheria-images/2018/06/Christina-Dodwell-2-1024x897.jpg "Christina Dodwell, la gran exploradora de los siglos XX-XXI.")
 
 Aquella fue una jornada curiosa, no cabe duda; la huelga general, la manifestación, e 
 incluso los hinchas del Hannover que vestidos de verde se preparaban para llenar el 
@@ -27,7 +27,7 @@ durante más de veinte años, a caballo, en camello, en canoa….
 > Viajes sobre los que ha escrito nueve libros, rodado series para la BBC y obtenido 
 > homenajes y reconocimiento, la Medalla Mungo Park en 1989, entre otros. 
 
-![Puerta del Sol de Madrid](etheria_images/2018/06/building-1875052_1920-1024x701.jpg "Las calles de Madrid invitan al paseo y a la charla.")
+![Puerta del Sol de Madrid](etheria-images/2018/06/building-1875052_1920-1024x701.jpg "Las calles de Madrid invitan al paseo y a la charla.")
 
 ## De paseo por Madrid
 
@@ -66,7 +66,7 @@ Smithsonian de Washington D.C. en la Real Sociedad Geográfica de Londres, en la
 Sociedad Geográfica Escocesa de Edimburgo, en el Club de Exploradores de Nueva York y en 
 los más de cuarenta documentales radiofónicos para la BBC. 
 
-![Christina Dodwell](etheria_images/2018/06/Madrid-Christina-Dodwell-1024x882.jpg "La fundación Dodwell Trust favorecer la sanidad, escolarización y familia en Madagascar.")
+![Christina Dodwell](etheria-images/2018/06/Madrid-Christina-Dodwell-1024x882.jpg "La fundación Dodwell Trust favorecer la sanidad, escolarización y familia en Madagascar.")
 
 ## Integrarse en la naturaleza
 

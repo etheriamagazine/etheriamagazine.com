@@ -1,20 +1,20 @@
 ---
 title: "Planes para exprimir un fin de semana en Marbella con amigas"
 date: 2019-06-11
-coverImage: etheria_images/2019/05/viaje-marbella-la-Plaza.jpg
+coverImage: etheria-images/2019/05/viaje-marbella-la-Plaza.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Rosa Marques
+authors: 
+  - Rosa Marqués
 ---
 
 Si estás buscando un destino para pasar con tus amigas ese fin de semana que tenéis pendiente hace tiempo, ¿has pensado en Marbella? Lo tiene todo: playa, restaurantes de moda y un casco histórico perfecto para pasear. Sigue leyendo porque te contamos muchos planes para que aciertes con este fin de semana en Marbella con amigas.
 
-![Fin de semana en Marbella con amigas](etheria_images/2019/06/marbella-casco-historico.jpg "Macetas en el casco histórico de Marbella.")
+![Fin de semana en Marbella con amigas](etheria-images/2019/06/marbella-casco-historico.jpg "Macetas en el casco histórico de Marbella.")
 
 ```
 Actualizado abril 2021
@@ -31,7 +31,7 @@ los bolsillos, le sumamos su agradable temperatura –gracias al microclima que 
 montaña La Concha le regala–, tenemos entonces una combinación ganadora. Sirva esta guía 
 para que os divirtáis a vuestra medida. 
 
-![fin de semana en marbella con amigas](etheria_images/2019/05/viaje-marbella-la-Plaza.jpg "lLa Plaza del hotel Puente Romano de noche.")
+![fin de semana en marbella con amigas](etheria-images/2019/05/viaje-marbella-la-Plaza.jpg "lLa Plaza del hotel Puente Romano de noche.")
 
 ## Operación ‘Soltar estrés’
 
@@ -48,7 +48,7 @@ otro chapuzón mirando a la montaña de La Concha. Luce en todo su esplendor enm
 la exuberante vegetación que rodea al mítico hotel Marbella Club. ¡Bienvenidas a 
 Marbella! 
 
-![playa ancon, viaje marbella](etheria_images/2019/05/viaje-marbella-playa-ancon.jpg "Playa Ancón.")
+![playa ancon, viaje marbella](etheria-images/2019/05/viaje-marbella-playa-ancon.jpg "Playa Ancón.")
 
 Si antes de volver a nuestro alojamiento y prepararnos para dar salir a picar algo, 
 queremos tomar un vino o un cóctel para ir relajando el cuerpo (tranquilas, no hay prisa 
@@ -76,7 +76,7 @@ cita la Marbella más genuina, la de los marbelleros. Su tabernero, Francis Guzm
 querido por todo el mundo y por su local pasa la vida cultural de la ciudad de forma 
 desenfada e informal. 
 
-![calle tipica de Andalucia](etheria_images/2019/06/marbella-calle-casco-historico-683x1024.jpg "Calle del Casco Histórico de Marbella.")
+![calle tipica de Andalucia](etheria-images/2019/06/marbella-calle-casco-historico-683x1024.jpg "Calle del Casco Histórico de Marbella.")
 
 ## Comer o cenar en los sitios de moda de Marbella
 
@@ -92,7 +92,7 @@ temporada, también de un cocinero con estrella Michelin, es **Maison Lú,** del
 Juanlu Fernández. Este cocinero interpreta las bases de un bistró francés con producto 
 andaluz. 
 
-![restaurantes la milla y kava](etheria_images/2019/05/viaje-marbella-la-milla-kava.jpg "Restaurantes La Milla y Kava.")
+![restaurantes la milla y kava](etheria-images/2019/05/viaje-marbella-la-milla-kava.jpg "Restaurantes La Milla y Kava.")
 
 Pero si se busca un sitio divertido donde poder, desde tomar unas ostras con una copita 
 de cava en la barra hasta probar el mejor pescado de la costa a buenos precios (fritura 
@@ -102,7 +102,7 @@ anterior, frente al hotel Puente Romano, donde es necesario que cojáis un coche
 o la línea de autobús L60 en dirección a Puerto Banús y bajaros en la parada frente al 
 hotel. 
 
-![restaurante lobito de mar, donde comer en marbella](etheria_images/2019/05/viaje-marbella-Lobito-de-Mar.jpg "Restaurante Lobito de Mar.")
+![restaurante lobito de mar, donde comer en marbella](etheria-images/2019/05/viaje-marbella-Lobito-de-Mar.jpg "Restaurante Lobito de Mar.")
 
 ## Chiringuitos que no podéis perderos
 
@@ -125,7 +125,7 @@ mejores de España. Allí disfrutaréis del trajín del corazón antiguo de la c
 variopinto del personal que la pasea. En esta plaza se palpa aún lo que fue la villa 
 árabe. 
 
-![cafeteria rachel](etheria_images/2019/05/viaje-marbella-rachel.jpg "Cafetería Rachel's.")
+![cafeteria rachel](etheria-images/2019/05/viaje-marbella-rachel.jpg "Cafetería Rachel's.")
 
 Pero si se busca una opción de desayuno más orgánica y menos pesada en un lugar 
 rabiosamente moderno, habrá que salir del centro y poner dirección de nuevo al meollo 
@@ -159,7 +159,7 @@ Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-bael
 Una de esas excursiones veraniegas que hay que hacer para ver su espectacular puesta de 
 sol. 
 
-![viaje marbella, atardecer](etheria_images/2019/05/viaje-marbella-atardecer.jpg "Atardecer en Marbella.")
+![viaje marbella, atardecer](etheria-images/2019/05/viaje-marbella-atardecer.jpg "Atardecer en Marbella.")
 
 ## Planes a la caída del sol
 
@@ -175,14 +175,14 @@ antiguo Hospital de Bazán que hoy alberga grabados de Picasso, Dalí, Miró, Mi
 la salida, cenar 'pescaíto' frito al más puro estilo malagueño; a la vuelta de la 
 esquina del museo es posible en la terraza de **El Cordobés,** a precios populares. 
 
-![museo del grabado, viaje marbella](etheria_images/2019/05/viaje-marbella-museo-grabado.jpg "Museo del Grabado (Marbella).")
+![museo del grabado, viaje marbella](etheria-images/2019/05/viaje-marbella-museo-grabado.jpg "Museo del Grabado (Marbella).")
 
 Para tomar las primeras cervezas o vinos por el casco antiguo, la calle del Peral invita 
 a sentarse en alguna de sus terracitas y dejarse llevar. Muy cerca, un romántico y 
 mítico local, donde probar la mejor carne argentina es **El Tanguito,** en el casco 
 antiguo con una terraza en la azotea con una atmósfera relajada. 
 
-![plaza de los naranjos, viaje marbella](etheria_images/2019/05/viaje-marbella-plaza-naranjos.jpg "Plaza de los Naranjos.")
+![plaza de los naranjos, viaje marbella](etheria-images/2019/05/viaje-marbella-plaza-naranjos.jpg "Plaza de los Naranjos.")
 
 ## El mejor _shopping_ de la Costa del Sol
 
@@ -199,7 +199,7 @@ sábados en Nueva Andalucía (urbanización justo al otro lado de Puerto Banús 
 de la plaza de toros de Marbella) es total: desde anticuarios a prendas con un toque 
 chic…. 
 
-![puerto banus](etheria_images/2019/05/viaje-marbella-puerto-banus.jpg "Puerto Banús.")
+![puerto banus](etheria-images/2019/05/viaje-marbella-puerto-banus.jpg "Puerto Banús.")
 
 ## Marbella de noche
 

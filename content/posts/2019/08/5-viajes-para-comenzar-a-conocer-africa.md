@@ -1,12 +1,12 @@
 ---
 title: "5 grandes viajes a África con los que soñar"
 date: 2019-08-09
-coverImage: etheria_images/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
+coverImage: etheria-images/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si hay un continente que despierte los deseos viajeros más profundos, los que evocan 
@@ -14,7 +14,7 @@ expediciones y la búsqueda de un auténtico espíritu nómada ese es África. A
 dejamos cinco propuestas de viajes a África para distintos tipos de viajera o para 
 distintos momentos de la vida. Tú eliges. 
 
-![Flamencos en lago Nakuru (Kenia)](etheria_images/2018/10/flamencos-lago-nakuru-viajes-mujeres-1024x643.jpg "Flamencos en lago Nakuru (Kenia).")
+![Flamencos en lago Nakuru (Kenia)](etheria-images/2018/10/flamencos-lago-nakuru-viajes-mujeres-1024x643.jpg "Flamencos en lago Nakuru (Kenia).")
 
 El continente africano sigue siendo el gran desconocido, un lugar donde es posible 
 añadir a los viajes ese aire de expedición que los hace más auténticos. Si eres amante 
@@ -31,7 +31,7 @@ infraestructura turística asentada y con solera. No te pierdas lugares como las
 de Aberdare, el Parque Nacional de Samburu o la reserva privada de Solio Ranch, con la 
 mayor población de rinocerontes del mundo. 
 
-![Migración de ñus en el Parque Masai Mara](etheria_images/2018/10/Etheria-viajes-mujeres-Kenia-e1565176651337.jpg "Migración de ñus en el Parque Masai Mara.")
+![Migración de ñus en el Parque Masai Mara](etheria-images/2018/10/Etheria-viajes-mujeres-Kenia-e1565176651337.jpg "Migración de ñus en el Parque Masai Mara.")
 
 ## 2\. Viajar a Uganda para ver a los gorilas
 
@@ -42,7 +42,7 @@ y los consejos del ranger hasta el camino, primero en 4x4 y luego caminando hast
 hasta el ansiado cara a cara con los gorilas. Uno de esos instantes de la vida que no 
 podrás olvidar jamás. 
 
-![Gorila en Bwindi](etheria_images/2019/04/Uganda-Gorila-Bwindi.jpg "Gorila en Bwindi. © Pedro Grifol")
+![Gorila en Bwindi](etheria-images/2019/04/Uganda-Gorila-Bwindi.jpg "Gorila en Bwindi. © Pedro Grifol")
 
 ## 3\. Descansar en Zanzíbar
 
@@ -53,7 +53,7 @@ historias y leyendas de mercaderes y sultanes que confieren a este rincón del o
 Stone Town, los campos de especias del norte y el bosque Jozani, hogar de los colobos 
 rojos. 
 
-![dhow en Zanzíbar](etheria_images/2018/11/Zanzibar-david-santiago-etheria-magazine-2-e1563899320383.jpg "A la pequeña isla de Changuu se puede llegar en dhow desde Zanzíbar. © David Santiago")
+![dhow en Zanzíbar](etheria-images/2018/11/Zanzibar-david-santiago-etheria-magazine-2-e1563899320383.jpg "A la pequeña isla de Changuu se puede llegar en dhow desde Zanzíbar. © David Santiago")
 
 ## 4\. Un safari en Botsuana
 
@@ -63,7 +63,7 @@ permite disfrutar del África más auténtica y de unos paisajes increíbles. Cu
 mayor concentración de vida salvaje del continente, que podrás descubrir en el Parque 
 Nacional del río Chobe con tres modalidades de safari: en vehículo, a pie y por el río. 
 
-![Safari por la orilla del río Chobe.](etheria_images/2018/11/Safari-Bostsuana-viaje-mujeres-africa-e1552208546636.jpg "Safari por la orilla del río Chobe.")
+![Safari por la orilla del río Chobe.](etheria-images/2018/11/Safari-Bostsuana-viaje-mujeres-africa-e1552208546636.jpg "Safari por la orilla del río Chobe.")
 
 ## 5\. Gambia para aventureras
 
@@ -75,7 +75,7 @@ ofrece lugares como la laguna de cocodrilos de Kachikally, las ruinas de Fort Ja
 Tanje Village Museum (para conocer la cultura tribal del país). ¡Déjate, también, 
 sorprender por su gastronomía! 
 
-![mujeres en Gambia](etheria_images/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-1024x732.jpg "La cocina de Ida Cham. © Pedro Grifol")
+![mujeres en Gambia](etheria-images/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-1024x732.jpg "La cocina de Ida Cham. © Pedro Grifol")
 
 ? **También te puede interesar:** 
 

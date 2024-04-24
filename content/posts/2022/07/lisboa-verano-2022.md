@@ -1,19 +1,19 @@
 ---
 title: "Lisboa en verano: 9 propuestas para disfrutar de la música, el teatro y el cine"
 date: 2022-07-01
-coverImage: etheria_images/2022/06/Lisboa-opera-baile-mascaras.jpg
+coverImage: etheria-images/2022/06/Lisboa-opera-baile-mascaras.jpg
 categories: 
   - organiza-tu-viaje
   - festivales
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El verano es tiempo de festivales y en Lisboa ocupan la vida cultural de la ciudad de tal forma que será difícil que pases por la ciudad durante esta estación y que no coincidas con alguno. Te contamos cuáles son los 9 festivales de música, teatro y cine que tendrán lugar en la capital lusa para que tomes nota y vayas comprando las entradas.
 
-![Baile de Máscaras de Verdi](etheria_images/2022/06/Lisboa-opera-baile-mascaras.jpg "Imágenes del Opera Fest de Lisboa. © Opera Fest")
+![Baile de Máscaras de Verdi](etheria-images/2022/06/Lisboa-opera-baile-mascaras.jpg "Imágenes del Opera Fest de Lisboa. © Opera Fest")
 
 Que Lisboa es un planazo para cualquier momento del año es algo que en Etheria Magazine 
 tenemos claro desde siempre. Pero además la programación cultural que despliega en 
@@ -45,7 +45,7 @@ mucho más.
 
 ? Más información en [Festival de Almada](https://festival.ctalmada.pt/). 
 
-![Escenario de festival Nos Alive en Lisboa](etheria_images/2022/06/Lisboa-NOS-Alive.jpg "Festival Nos Alive.")
+![Escenario de festival Nos Alive en Lisboa](etheria-images/2022/06/Lisboa-NOS-Alive.jpg "Festival Nos Alive.")
 
 ### 3\. NOS Alive. Del 6 al 9 de julio
 
@@ -67,7 +67,7 @@ te encanta.
 
 ? Información en [Super Bock Super Rock](https://www.superbocksuperrock.pt/). 
 
-![Cartel del Opera Fest de Lisboa.](etheria_images/2022/06/Lisboa-opera-fest.jpg "Cartel del Opera Fest de Lisboa.")
+![Cartel del Opera Fest de Lisboa.](etheria-images/2022/06/Lisboa-opera-fest.jpg "Cartel del Opera Fest de Lisboa.")
 
 ### 5\. Operafest. Del 19 de agosto al 10 de sepiembre
 
@@ -90,7 +90,7 @@ auténtico lujo si pasas unos días de verano en Lisboa.
 
 ? Información y entradas en [Jazz em Agosto](https://gulbenkian.pt/jazzemagosto/). 
 
-![Cartel de Jazz em Agosto en Lisboa.](etheria_images/2022/06/Lisboa-Jazz-em-Agosto.jpg "Cartel de Jazz em Agosto en Lisboa.")
+![Cartel de Jazz em Agosto en Lisboa.](etheria-images/2022/06/Lisboa-Jazz-em-Agosto.jpg "Cartel de Jazz em Agosto en Lisboa.")
 
 ### 7\. Festas do Mar. Del 16 al 25 de agosto
 
@@ -111,7 +111,7 @@ sentir la música como se merece.
 
 ? Más información en [Kalorama](https://meokalorama.pt/). 
 
-![Cine en Lisboa](etheria_images/2022/06/Lisboa-Motelx.jpg "Cine de terror en el Festival MOTELx.")
+![Cine en Lisboa](etheria-images/2022/06/Lisboa-Motelx.jpg "Cine de terror en el Festival MOTELx.")
 
 ### 9\. MOTELx. Del 6 al 12 de septiembre
 

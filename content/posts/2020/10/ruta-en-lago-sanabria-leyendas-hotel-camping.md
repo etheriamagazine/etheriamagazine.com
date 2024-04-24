@@ -1,12 +1,12 @@
 ---
 title: "Descubre el lago de Sanabria y otros encantos de la Escocia zamorana"
 date: 2020-10-07
-coverImage: etheria_images/2020/10/etheria-laguna-sanabria-peces.jpg
+coverImage: etheria-images/2020/10/etheria-laguna-sanabria-peces.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Lagos naturales, praderas exuberantes y pueblos con identidad y gastronomía propias. La 
@@ -14,7 +14,7 @@ comarca zamorana de Sanabria, al oeste de la provincia, fue creada para sanarnos
 males urbanitas. Y si no nos crees, te proponemos un fin de semana para descubrir el 
 lago de Sanabria y todos los atractivos que lo rodean. 
 
-![Panorámica del lago de Sanabria desde el Mirador de los Peces, en San Martín de Castañeda.](etheria_images/2020/10/etheria-lago-sanabria-zamora-etheria.jpg "Panorámica del lago de Sanabria desde el Mirador de los Peces, en San Martín de Castañeda. © Kelu Robles")
+![Panorámica del lago de Sanabria desde el Mirador de los Peces, en San Martín de Castañeda.](etheria-images/2020/10/etheria-lago-sanabria-zamora-etheria.jpg "Panorámica del lago de Sanabria desde el Mirador de los Peces, en San Martín de Castañeda. © Kelu Robles")
 
 En un cruce de caminos hacia Portugal y Galicia, pero acurrucada en tierras 
 castellanoleonesas, la **comarca zamorana de Sanabria** ha protagonizado durante décadas 
@@ -33,7 +33,7 @@ doscientos kilómetros cuadrados que abarca la comarca. Esta transformación, su
 altura, provoca que aquí llueva y nieve con más frecuencia que en el resto de la 
 provincia. De ahí sus verdes y frondosos pastos. 
 
-![Turistas en el lago de Sanabria en el año 1979.](etheria_images/2020/10/etheria-lago-sanabria-zamora-foto-antigua.jpg "Turistas en el lago de Sanabria en el año 1979. © Santiago Robles")
+![Turistas en el lago de Sanabria en el año 1979.](etheria-images/2020/10/etheria-lago-sanabria-zamora-foto-antigua.jpg "Turistas en el lago de Sanabria en el año 1979. © Santiago Robles")
 
 ## Unamuno y la intrahistoria de Sanabria
 
@@ -59,7 +59,7 @@ ganado, a guardar los aperos y a servir como cuarto de baño.
 
 > En el ámbito rural español los inodoros no llegaron hasta la segunda mitad del siglo XX. 
 
-![Los tejados de pizarra son un icono de Puebla de Sanabria.](etheria_images/2020/10/etheria-que-hacer-sanabria-zamora-tejados.jpg "Los tejados de pizarra son un icono de Puebla de Sanabria. © Ayto. Puebla de Sanabria")
+![Los tejados de pizarra son un icono de Puebla de Sanabria.](etheria-images/2020/10/etheria-que-hacer-sanabria-zamora-tejados.jpg "Los tejados de pizarra son un icono de Puebla de Sanabria. © Ayto. Puebla de Sanabria")
 
 ## El lago de Sanabria y sus leyendas
 
@@ -75,7 +75,7 @@ contemplaremos su mejor perfil.
 > La impresionante imagen recuerda a otros embalses de nuestra geografía, con la 
 > diferencia de que el lago de Sanabria es una formación totalmente natural. 
 
-![Hora azul sobre el lago de Sanabria.](etheria_images/2020/10/etheria-mirador-lago-sanabria-atardecer.jpg "Hora azul sobre el lago de Sanabria. © Fundación Patrimonio Natural de Castilla y León")
+![Hora azul sobre el lago de Sanabria.](etheria-images/2020/10/etheria-mirador-lago-sanabria-atardecer.jpg "Hora azul sobre el lago de Sanabria. © Fundación Patrimonio Natural de Castilla y León")
 
 Como no hay historia sin **leyenda**, y viceversa, los sanabreses cuentan que bajo las 
 aguas del lago de Sanabria no duerme un gran reptil –por mucho que nos recuerde al lago 
@@ -92,7 +92,7 @@ hospitalarias.
 > Como recuerdo de aquel suceso, cada noche de San Juan se escucha el tañido de una 
 > campana que quedó atrapada en el fondo del lago. O eso dicen. 
 
-![Panorámica del lago de Sanabria desde la playa de Viquiella.](etheria_images/2020/10/etheria-lago-sanabria-embarcadero.jpg "Panorámica del lago de Sanabria desde la playa de Viquiella. © Kelu Robles")
+![Panorámica del lago de Sanabria desde la playa de Viquiella.](etheria-images/2020/10/etheria-lago-sanabria-embarcadero.jpg "Panorámica del lago de Sanabria desde la playa de Viquiella. © Kelu Robles")
 
 El **Centro de interpretación de San Martín** acoge un interesante museo etnográfico que 
 resume las leyendas y la historia sanabresa, alguna tan trágica como la de 
@@ -107,7 +107,7 @@ robledales.
 > llega hasta la cascada de Sotillo, también de origen glaciar y donde nace el río 
 > Truchas. 
 
-![Monasterio de San Martín de Castañeda (izq.) y praderío que lo rodea (dcha.).](etheria_images/2020/10/etheria-que-hacer-lago-sanabria-san-martin.jpg "Monasterio de San Martín de Castañeda (izq.) y praderío que lo rodea (dcha.). © Miguel Galguera y Kelu Robles")
+![Monasterio de San Martín de Castañeda (izq.) y praderío que lo rodea (dcha.).](etheria-images/2020/10/etheria-que-hacer-lago-sanabria-san-martin.jpg "Monasterio de San Martín de Castañeda (izq.) y praderío que lo rodea (dcha.). © Miguel Galguera y Kelu Robles")
 
 Una parada en el **Centro del Lobo Ibérico de Castilla y León Félix Rodríguez de la 
 Fuente de Robledo de Sanabria** nos mostrará todo lo relacionado con el mundo del lobo y 
@@ -125,7 +125,7 @@ una ruta desde allí, debes tenerlo en cuenta en tu equipación. La excursión m
 se dirige hacia la cima de la **peña Trevinca**, a más de dos mil metros de altura. Es 
 el pico más alto de toda la provincia. 
 
-![La laguna de los Peces también es de origen glaciar.](etheria_images/2020/10/etheria-laguna-sanabria-peces.jpg "La laguna de los Peces también es de origen glaciar. © Miguel Galguera")
+![La laguna de los Peces también es de origen glaciar.](etheria-images/2020/10/etheria-laguna-sanabria-peces.jpg "La laguna de los Peces también es de origen glaciar. © Miguel Galguera")
 
 ## Pueblos de Sanabria que no te puedes perder
 
@@ -148,7 +148,7 @@ faceta como comerciantes, lo que trajo consigo el periodo de mayor esplendor a l
 comarca después de la dominación de los condes. De esa época, hoy quedan importantes 
 monumentos como la ermita barroca de San Cayetano o el convento de San Francisco. 
 
-![Las casas solariegas de Puebla de Sanabria se elevan sobre sillares y mampostería de granito.](etheria_images/2020/10/etheria-zamora-puebla-sanabria.jpg "Las casas solariegas de Puebla de Sanabria se elevan sobre sillares y mampostería de granito. © Ayto. Puebla de Sanabria")
+![Las casas solariegas de Puebla de Sanabria se elevan sobre sillares y mampostería de granito.](etheria-images/2020/10/etheria-zamora-puebla-sanabria.jpg "Las casas solariegas de Puebla de Sanabria se elevan sobre sillares y mampostería de granito. © Ayto. Puebla de Sanabria")
 
 Puebla es una postal continua de callejuelas de granito y pizarra que conducen a templos 
 románicos tan puros y austeros como la iglesia de Santa María del Azogue. 
@@ -171,7 +171,7 @@ comarca. Aunque las blanquecinas fachadas de Ribadelago Nuevo chocan profundamen
 el estilo arquitectónico de Sanabria debido al desconocimiento de la arquitectura 
 tradicional sanabresa del arquitecto encargado en su construcción. 
 
-![Escultura de Ricardo Flecha en recuerdo a las víctimas de la tragedia de Ribadelago.](etheria_images/2020/10/etheria-que-hacer-lago-sanabria-ribadelago.jpg "Escultura de Ricardo Flecha en recuerdo a las víctimas de la tragedia de Ribadelago. © Fund. Patrimonio Natural de Castilla y León")
+![Escultura de Ricardo Flecha en recuerdo a las víctimas de la tragedia de Ribadelago.](etheria-images/2020/10/etheria-que-hacer-lago-sanabria-ribadelago.jpg "Escultura de Ricardo Flecha en recuerdo a las víctimas de la tragedia de Ribadelago. © Fund. Patrimonio Natural de Castilla y León")
 
 ## Gastronomía sanabresa
 
@@ -191,7 +191,7 @@ calóricas compensan el trabajo tradicional en el campo de los ganaderos. La sop
 castellana, también conocida como sopas de ajo, templan el alma, sobre todo si se 
 escaldan con pimentón picante. 
 
-![Ración de pulpo sanabrés del Mesón Abelardo.](etheria_images/2020/10/etheria-lago-sanabria-comer-pulpo.jpg "Ración de pulpo sanabrés del Mesón Abelardo. © Kelu Robles")
+![Ración de pulpo sanabrés del Mesón Abelardo.](etheria-images/2020/10/etheria-lago-sanabria-comer-pulpo.jpg "Ración de pulpo sanabrés del Mesón Abelardo. © Kelu Robles")
 
 Quienes no conciban un viaje a Castilla y León sin detenerse en un asador, deben saber 
 que la ternera alistana-sanabresa es autóctona de la comarca y la reina de sus prados y 
@@ -221,7 +221,7 @@ relación calidad-precio. Cocina tradicional y especial atención a sus postres.
 **Asador Montelueñ**o, ubicado en la N-525, en Puebla de Sanabria. Típico gran local de 
 carretera que rinde homenaje a su carne autóctona. 
 
-![El castillo-fortaleza de Puebla de Sanabria (s.XV) fue construido por D. Rodrigo Alonso de Pimentel y Dª María Pacheco, condes de Benavente](etheria_images/2020/10/etheria-lago-sanabria-invierno-nevado.jpg "El castillo-fortaleza de Puebla de Sanabria (s.XV) fue construido por D. Rodrigo Alonso de Pimentel y Dª María Pacheco, condes de Benavente ©. Ayto. Puebla de Sanabria")
+![El castillo-fortaleza de Puebla de Sanabria (s.XV) fue construido por D. Rodrigo Alonso de Pimentel y Dª María Pacheco, condes de Benavente](etheria-images/2020/10/etheria-lago-sanabria-invierno-nevado.jpg "El castillo-fortaleza de Puebla de Sanabria (s.XV) fue construido por D. Rodrigo Alonso de Pimentel y Dª María Pacheco, condes de Benavente ©. Ayto. Puebla de Sanabria")
 
 **¿Dónde dormir en Sanabria? Hoteles y campings recomendables.** 
 
@@ -242,7 +242,7 @@ lo urbanita está garantizada.
 emplazamiento totalmente natural, ideal para los _campers_ y familias aficionadas al 
 turismo de acampada. 
 
-![Perspectiva del lago de Sanabria desde la playa de Los Enanos.](etheria_images/2020/10/etheria-que-hacer-lago-sanabria-bano.jpg "Perspectiva del lago de Sanabria desde la playa de Los Enanos.  © Kelu Robles")
+![Perspectiva del lago de Sanabria desde la playa de Los Enanos.](etheria-images/2020/10/etheria-que-hacer-lago-sanabria-bano.jpg "Perspectiva del lago de Sanabria desde la playa de Los Enanos.  © Kelu Robles")
 
 **¿Cu´áles son las playas de interior de Sanabria?** 
 
@@ -259,7 +259,7 @@ Rocanegra**, ubicada en la cara opuesta de Viquiella. En verano, es común ver a
 experimentados saltar al agua desde su gran roca. Para alquilar piraguas, kayaks o 
 patines –las barcas con pedales–, deberemos dirigirnos a la **playa Custa Llago**. 
 
-![Casa del Parque Lago de Sanabria](etheria_images/2020/10/etheria-lago-sanabria-zamora-casa-parque.jpg "Casa del Parque Lago de Sanabria brinda información para conocer la naturaleza, valores naturales, culturales, y sociales del entorno. © Fund. Patrimonio Natural de Castilla y León")
+![Casa del Parque Lago de Sanabria](etheria-images/2020/10/etheria-lago-sanabria-zamora-casa-parque.jpg "Casa del Parque Lago de Sanabria brinda información para conocer la naturaleza, valores naturales, culturales, y sociales del entorno. © Fund. Patrimonio Natural de Castilla y León")
 
 **Más información de la comarca de Sanabria** 
 

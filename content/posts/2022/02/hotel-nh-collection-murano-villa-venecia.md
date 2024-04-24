@@ -1,18 +1,18 @@
 ---
 title: "NH Collection Murano Villa, un hotel perfecto para explorar Venecia"
 date: 2022-02-16
-coverImage: etheria_images/2022/02/NH_collection-murano-villa-terraza.jpg
+coverImage: etheria-images/2022/02/NH_collection-murano-villa-terraza.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Siempre apetece una escapada a Venecia y, para vuestro próximo viaje a esta fascinante ciudad, os proponemos un hotel recientemente inaugurado, el NH Collection Murano Villa. Este cuatro estrellas superior ubicado en la isla de Murano combina a la perfección las visitas a la ciudad con un entorno tranquilo y relajado.
 
-![Terraza con vistas del NH Collection Murano Villa.](etheria_images/2022/02/NH_collection-murano-villa-terraza.jpg "Terraza con vistas del NH Collection Murano Villa.")
+![Terraza con vistas del NH Collection Murano Villa.](etheria-images/2022/02/NH_collection-murano-villa-terraza.jpg "Terraza con vistas del NH Collection Murano Villa.")
 
 La ciudad de Venecia está llena de hoteles, pero también de gente. Si lo que quieres es 
 una estancia tranquila para descubrir esta ciudad imprescindible, ¿has pensado en 
@@ -31,7 +31,7 @@ comprar sus piezas de artesanía famosas en todo el mundo. Ocupar un edificio co
 desde luego aporta personalidad al hotel, ya que se ha respetado su estructura y 
 elementos exteriores como el ladrillo visto. 
 
-![El NH Collection Murano Villa es una antigua fábrica de vidrio reconvertida en hotel.](etheria_images/2022/02/NH-collection-murano-villa-patio.jpg "El NH Collection Murano Villa es una antigua fábrica de vidrio reconvertida en hotel.")
+![El NH Collection Murano Villa es una antigua fábrica de vidrio reconvertida en hotel.](etheria-images/2022/02/NH-collection-murano-villa-patio.jpg "El NH Collection Murano Villa es una antigua fábrica de vidrio reconvertida en hotel.")
 
 El diseño para darle ese aire acogedor y moderno que define al hotel ha sido creado por 
 el estudio de arquitectura veneciano **H&A Associati**, cuyos arquitectos han decidido 
@@ -53,7 +53,7 @@ categorías: Superior, Premium, Premium Laguna View, Familiar XL, Junior Suite D
 Junior Suite Laguna View o las Suite Laguna View. Merece la pena reservar una habitación 
 con vistas a la Laguna y las islas de Le Vignole y Sant’Erasmo, no te arrepentirás. 
 
-![Habitación del NH Collection Murano Villa.](etheria_images/2022/02/NH-collection-murano-villa-habitacion.jpg "Habitación del NH Collection Murano Villa.")
+![Habitación del NH Collection Murano Villa.](etheria-images/2022/02/NH-collection-murano-villa-habitacion.jpg "Habitación del NH Collection Murano Villa.")
 
 Además de ventajas como la cafetera, la caja fuerte digital o el Wifi gratuito, en este 
 hotel de la línea Collection los huéspedes podrán disfrutar de los servicios de la marca 
@@ -69,7 +69,7 @@ tomar el aperitivo o una copa en un ambiente de diez, tienes que acercarte a alg
 sus bares, uno en la planta baja y otro en el primer piso, con una terraza de verano que 
 ofrece unas vistas únicas. 
 
-![Restaurante del hotel.](etheria_images/2022/02/NH-collection-murano-villa-restaurante.jpg "Restaurante del hotel.")
+![Restaurante del hotel.](etheria-images/2022/02/NH-collection-murano-villa-restaurante.jpg "Restaurante del hotel.")
 
 ## Instalaciones del hotel
 
@@ -82,7 +82,7 @@ Para que tu viaje a Venecia sea perfecto, no dudes en contactar con el **equipo 
 Relations**, que te ayudarán en todo lo que necesites organizando los traslados desde 
 aeropuerto, excursiones, reservas en restaurantes o entradas a museos. 
 
-![El hotel está asomado a la Laguna y dispone de cuatro amarres privados.](etheria_images/2022/02/NH-collection-murano-villa-ubicacion.jpg "El hotel está asomado a la Laguna y dispone de cuatro amarres privados.")
+![El hotel está asomado a la Laguna y dispone de cuatro amarres privados.](etheria-images/2022/02/NH-collection-murano-villa-ubicacion.jpg "El hotel está asomado a la Laguna y dispone de cuatro amarres privados.")
 
 A los que viajan con niños, les encantará el **parque Navagero**, conectado al hotel por 
 el patio central. Por las noches se reserva exclusivamente para los clientes de este NH 

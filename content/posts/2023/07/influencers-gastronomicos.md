@@ -1,10 +1,10 @@
 ---
 title: "Los influencers que amaban a las langostas"
 date: 2023-07-28
-coverImage: etheria_images/2023/07/portada-langosta-3.jpg
+coverImage: etheria-images/2023/07/portada-langosta-3.jpg
 categories: 
   - mi-peor-viaje
-author: 
+authors: 
   - Rafael de Rojas
 ---
 
@@ -16,7 +16,7 @@ todo lo saben y todo lo hacen bien. Menos una cosa.
 
 Crónica humorística de **Rafael de Rojas** 
 
-![Varios influencers gastronómicos sentados en una mesa en torno a una langosta](etheria_images/2023/07/influencers-gastro.jpg "Ilustración de Inés Arango.")
+![Varios influencers gastronómicos sentados en una mesa en torno a una langosta](etheria-images/2023/07/influencers-gastro.jpg "Ilustración de Inés Arango.")
 
 La semana del 22 de julio de 2022 concurrió una confluencia planetaria prodigiosa. El 
 Herencias, el Niño Rata, el Negocios y el Maletero, los, como es bien sabido, mejores 
@@ -47,7 +47,7 @@ inexplicablemente, no se le vio por allí, a pesar del derroche de adjetivos de 
 Fantásticos y los émulos y secuaces que les siguieron y llenaron las redes con una 
 competición a muerte de ditirambos. 
 
-![Ilustración con dos hombre y un pulpo](etheria_images/2023/07/pulpo-restaurante-1.jpg "Ilustración de Inés Arango.")
+![Ilustración con dos hombre y un pulpo](etheria-images/2023/07/pulpo-restaurante-1.jpg "Ilustración de Inés Arango.")
 
 ## Alma de Amigo Marino (con mayúsculas)
 
@@ -91,7 +91,7 @@ ha cambiado, es que el **cocinero**, al que antes nadie saludaba hasta que se du
 ahora es una estrella, y eres tú el que tiene que asentir fuerte mientras él habla y no 
 al revés. 
 
-![Ilustración con un Cocinero saludando a clientes en un restaurante](etheria_images/2023/07/cocinero-restaurante.jpg "Ilustración de Inés Arango.")
+![Ilustración con un Cocinero saludando a clientes en un restaurante](etheria-images/2023/07/cocinero-restaurante.jpg "Ilustración de Inés Arango.")
 
 ## El ciclo de la vida
 
@@ -114,7 +114,7 @@ con que tengas la pasta para comer una y otra vez donde casi nadie puede: ahora,
 intelectual de comer langosta a dos carrillos. Y admirarte por ello. Porque tienen un 
 don. El don de… comer comida cara. 
 
-![Acuarela con un hombre escribiendo en un ordenador](etheria_images/2023/07/influencer-gastronomia.jpg "Ilustración de Inés Arango.")
+![Acuarela con un hombre escribiendo en un ordenador](etheria-images/2023/07/influencer-gastronomia.jpg "Ilustración de Inés Arango.")
 
 ## Memorable, cocina canalla
 

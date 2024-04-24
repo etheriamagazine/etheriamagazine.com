@@ -1,12 +1,12 @@
 ---
 title: "Bogotá no es fea, es que no la sabes mirar"
 date: 2020-03-12
-coverImage: etheria_images/2020/03/viaje-bogota-ruta-gastro.jpg
+coverImage: etheria-images/2020/03/viaje-bogota-ruta-gastro.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Bogotá se está convirtiendo en mucho más que una ciudad de paso, por eso, desde Etheria 
@@ -15,7 +15,7 @@ hay que mirarla, hay que experimentarla con todos los sentidos: desde sus vertig
 cerros, hasta el micromundo de sus rumbeaderos y sus museos de renombre internacional. 
 Tenemos las pruebas para demostrar que merece, por sí sola, que crucemos 'el Charco'. 
 
-![El barrio fundacional de La Candelaria acoge el grafiti más famoso de la ciudad.](etheria_images/2020/03/viaje-mujeres-bogota.jpg "El barrio fundacional de La Candelaria acoge el grafiti más famoso de la ciudad. © Procolombia")
+![El barrio fundacional de La Candelaria acoge el grafiti más famoso de la ciudad.](etheria-images/2020/03/viaje-mujeres-bogota.jpg "El barrio fundacional de La Candelaria acoge el grafiti más famoso de la ciudad. © Procolombia")
 
 Desde que los indígenas muiscas se instalaron en su sabana, Bogotá ha pasado por casi 
 todo: la conquista del español Gonzalo Jiménez de Quesada (1538), la devastación de la 
@@ -27,7 +27,7 @@ nueve millones de habitantes.
 > La convivencia entre zonas verdes y trancones (como llaman a los atascos) dibuja esa 
 > realidad tan contradictoria en la que vive inmersa la ciudad. 
 
-![Los mercadillos son una constante en La Candelaria](etheria_images/2020/03/viaje-bogota-mercadillos.jpg "Los mercadillos son una constante en La Candelaria. © KR")
+![Los mercadillos son una constante en La Candelaria](etheria-images/2020/03/viaje-bogota-mercadillos.jpg "Los mercadillos son una constante en La Candelaria. © KR")
 
 ## Empezar por La Candelaria
 
@@ -43,7 +43,7 @@ peligrosos de la ciudad a convertirse en el más visitado por los turistas.
 > La fría arquitectura bogotana de hormigón se ha transformado en una galería de arte 
 > urbano colmada de coloridos murales. 
 
-![Bogotá City Tours organiza rutas gratuitas para dar a conocer la historia de los grafitis creados por colectivo APC en La Candelaria.](etheria_images/2020/03/viaje-bogota-grafiti.jpg "Bogotá City Tours organiza rutas gratuitas para dar a conocer la historia de los grafitis creados por colectivo APC en La Candelaria. © KR")
+![Bogotá City Tours organiza rutas gratuitas para dar a conocer la historia de los grafitis creados por colectivo APC en La Candelaria.](etheria-images/2020/03/viaje-bogota-grafiti.jpg "Bogotá City Tours organiza rutas gratuitas para dar a conocer la historia de los grafitis creados por colectivo APC en La Candelaria. © KR")
 
 > Bogotá ordena algunas de sus avenidas (o carreras) en números ordinales y sus calles en 
 > cardinales, al igual que Manhattan. 
@@ -59,7 +59,7 @@ tradicional bolso colombiano— con hilos de mil colores. Mientras una maraña d
 megafonías toman las calles del centro, los templos religiosos acogen a cientos de 
 feligreses cada día. 
 
-![No faltan picaresca e imaginación en los puestos ambulantes de la Carrera Séptima.](etheria_images/2020/03/viaje-bogota-puestos-ambulantes.jpg "No faltan picaresca e imaginación en los puestos ambulantes de la Carrera Séptima. © KR")
+![No faltan picaresca e imaginación en los puestos ambulantes de la Carrera Séptima.](etheria-images/2020/03/viaje-bogota-puestos-ambulantes.jpg "No faltan picaresca e imaginación en los puestos ambulantes de la Carrera Séptima. © KR")
 
 La diversión callejera no impide que Colombia sea un país de **fervorosas tradiciones 
 católicas**. En el meollo de la **Carrera Séptima** encontrarás tres bellas iglesias: la 
@@ -83,7 +83,7 @@ de acceso a la **Catedral Primada** recuerdan en la **Plaza Bolívar** la cruda
 estratificación social de la era colonial: por una accedían los españoles, por otra los 
 criollos nacionales y por la última los esclavos de África. 
 
-![Fachada de la Catedral Primada en la Plaza Simón Bolívar.](etheria_images/2020/03/viaje-mujeres-bogota-catedral.jpg "Fachada de la Catedral Primada en la Plaza Simón Bolívar. © KR")
+![Fachada de la Catedral Primada en la Plaza Simón Bolívar.](etheria-images/2020/03/viaje-mujeres-bogota-catedral.jpg "Fachada de la Catedral Primada en la Plaza Simón Bolívar. © KR")
 
 Al sur de esta enorme plaza en la que no faltan palomas, vendedores y turistas se yergue 
 el **Palacio Nariño**, alias ‘El Muerto de Piedra’. El apodo que recibe la residencia 
@@ -110,7 +110,7 @@ expande Bogotá, formada por veinte pequeñas localidades.
 > Para quien llegue arriba algo afectado por el sorochi (el mal de altura), un café o un 
 > chocolate bien caliente en uno de los puestos del cerro paliará todos sus males. 
 
-![Panorámica de la sabana bogotana.](etheria_images/2020/03/viaje-bogota-vistas-monserrate.jpg "Panorámica de la sabana bogotana. © KR")
+![Panorámica de la sabana bogotana.](etheria-images/2020/03/viaje-bogota-vistas-monserrate.jpg "Panorámica de la sabana bogotana. © KR")
 
 La estructura del **restaurante Casa Santa Clara** fue arrastrada por burros hasta el 
 Cerro de Monserrate desde el pueblo de **Usaquén** en el año 1924. Este histórico lugar 
@@ -119,7 +119,7 @@ privilegiadas de la ciudad. Desde allí arriba, observarás de cerca el aledaño
 Guadalupe**, que culmina con una impresionante figura de la Virgen de la Inmaculada 
 Concepción que se puede contemplar desde cualquier punto de la ciudad. 
 
-![La vegetación rodea al Cerro de Guadalupe y camufla el restaurante Santa Clara.](etheria_images/2020/03/viaje-mujeres-bogota-restaurante-santa-clara.jpg "La vegetación rodea al Cerro de Guadalupe y camufla el restaurante Santa Clara. © KR")
+![La vegetación rodea al Cerro de Guadalupe y camufla el restaurante Santa Clara.](etheria-images/2020/03/viaje-mujeres-bogota-restaurante-santa-clara.jpg "La vegetación rodea al Cerro de Guadalupe y camufla el restaurante Santa Clara. © KR")
 
 ## Museos que valen oro
 
@@ -130,7 +130,7 @@ mundo en esta materia y alberga más de 55 mil piezas precolombinas que envuelve
 visitante en el poder hipnótico de los rituales chamanes; los mismos que dieron origen 
 al mito de **El Dorado**. 
 
-![La Balsa de la Ofrenda se expone en el Museo del Oro de Bogotá.](etheria_images/2020/03/viaje-mujeres-bogota-ofrendas.jpg "La Balsa de la Ofrenda se expone en el Museo del Oro de Bogotá. © Creative Commons")
+![La Balsa de la Ofrenda se expone en el Museo del Oro de Bogotá.](etheria-images/2020/03/viaje-mujeres-bogota-ofrendas.jpg "La Balsa de la Ofrenda se expone en el Museo del Oro de Bogotá. © Creative Commons")
 
 La **Balsa de la Ofrenda**, la pieza más fascinante del museo, representa muy bien esta 
 leyenda en la que los **chamanes** ancianos se quitaban la vida sumergiéndose en la 
@@ -141,7 +141,7 @@ oro. Cuando el conquistador español **Gonzalo Jiménez de Quesada** descubrió 
 (al que llamó ‘La leyenda de El Dorado’), decidió desaguar la laguna para hacerse con 
 los tesoros de su fondo, sin embargo, nunca logró esta hazaña. 
 
-![2 imágenes: El Museo de Arte Miguel Urrutia protege La Lechuga y Colección de Arte. Banco de la República](etheria_images/2020/03/viaje-mujeres-bogota-lechuga.jpg "El Museo de Arte Miguel Urrutia protege La Lechuga © KR (izq) Colección de Arte. Banco de la República (dcha.).")
+![2 imágenes: El Museo de Arte Miguel Urrutia protege La Lechuga y Colección de Arte. Banco de la República](etheria-images/2020/03/viaje-mujeres-bogota-lechuga.jpg "El Museo de Arte Miguel Urrutia protege La Lechuga © KR (izq) Colección de Arte. Banco de la República (dcha.).")
 
 Realizada por el español Antonio Galaz en el año 1700, la custodia de arte barroco 
 conocida como _La Lechuga_ se considera la joya religiosa más importante de Sudamérica y 
@@ -165,7 +165,7 @@ _rumbeaderas_, cerveceras y gastronómicas de Bogotá. ¿Por qué elegir cuando 
 tener todo? Bailar sobre las mesas de **Andrés Carne de Res** mientras otros disfrutan 
 de un buen chuletón plasma bastante bien esta cuestión. 
 
-![2 Imágenes: El local Andrés Carne de Res de Bogotá ocupa cinco pisos. Y Buñuelos de yuca y queso del restaurante Ocio.](etheria_images/2020/03/viaje-bogota-andres-carne-res-bunuelo.jpg "(Izq.) El local Andrés Carne de Res de Bogotá ocupa cinco pisos. Buñuelos de yuca y queso del restaurante Ocio. (Dcha.) © KR")
+![2 Imágenes: El local Andrés Carne de Res de Bogotá ocupa cinco pisos. Y Buñuelos de yuca y queso del restaurante Ocio.](etheria-images/2020/03/viaje-bogota-andres-carne-res-bunuelo.jpg "(Izq.) El local Andrés Carne de Res de Bogotá ocupa cinco pisos. Buñuelos de yuca y queso del restaurante Ocio. (Dcha.) © KR")
 
 **Plan nocturno:** Pasear por los alrededores coloniales de la **Plaza de Usaquén,** 
 probar los pescados de **80 sillas** y finalizar la velada con un cóctel en la rústica 
@@ -184,7 +184,7 @@ Restaurant**.
 > Para considerarte una experta en la escena gastro bogotana, déjate caer por el barrio de 
 > Chapinero y por las cervecerías de la calle 93. 
 
-![En la cultura colombiana se regalan flores con asiduidad. Mercado de Paloquemao.](etheria_images/2020/03/viaje-mujeres-bogota-flores.jpg "En la cultura colombiana se regalan flores con asiduidad. Mercado de Paloquemao. © KR")
+![En la cultura colombiana se regalan flores con asiduidad. Mercado de Paloquemao.](etheria-images/2020/03/viaje-mujeres-bogota-flores.jpg "En la cultura colombiana se regalan flores con asiduidad. Mercado de Paloquemao. © KR")
 
 ## Mejor que mirar, experimentar
 
@@ -193,7 +193,7 @@ divertida al viajero en el mundo —casi infinito— de las frutas y verduras co
 En este gigantesco mercado también encontrarás la respuesta a por qué Colombia es uno de 
 los mayores **exportadores de flores** del mundo. 
 
-![Las passifloras como el lulo añaden acidez a los jugos bogotanos](etheria_images/2020/03/viaje-bogota-ruta-gastro.jpg "Las passifloras como el lulo añaden acidez a los jugos bogotanos. © Procolombia")
+![Las passifloras como el lulo añaden acidez a los jugos bogotanos](etheria-images/2020/03/viaje-bogota-ruta-gastro.jpg "Las passifloras como el lulo añaden acidez a los jugos bogotanos. © Procolombia")
 
 Una divertida **cata de café** en **Café San Alberto** desafiará la finura de tu paladar 
 y comprenderás por qué en Colombia no han conocido el café de calidad hasta hace muy 
@@ -204,7 +204,7 @@ hoy encontrarás café excelente en todo el país.
 ? Si eres amante del café y de la naturaleza, te encantará nuestra [ruta por el Eje 
 Cafetero](http://etheriamagazine.com/2019/01/28/viajar-sola-al-eje-cafetero-colombia/). 
 
-![Momento de la cata de café molecular del Café San Alberto.](etheria_images/2020/03/viaje-bogota-cafe.jpg "Momento de la cata de café molecular del Café San Alberto. © Procolombia")
+![Momento de la cata de café molecular del Café San Alberto.](etheria-images/2020/03/viaje-bogota-cafe.jpg "Momento de la cata de café molecular del Café San Alberto. © Procolombia")
 
 En el reto de exprimir al máximo Bogotá, **Marimbea** integra a los viajeros en una de 
 las cuestiones sociales más importantes de Colombia: **la música.** Este centro cultural 
@@ -226,7 +226,7 @@ través de sus platos. En muchos _rumbeaderos_ también se puede cenar.
 
 > La música en directo marca la diferencia en la noche colombiana. 
 
-![En grupo, en pareja o sola: a los rumbeaderos se va a bailar y a disfrutar.](etheria_images/2020/03/viaje-mujeres-bogota-discoteca-440.jpg "En grupo, en pareja o sola: a los rumbeaderos se va a bailar y a disfrutar. © 440 Music Hall")
+![En grupo, en pareja o sola: a los rumbeaderos se va a bailar y a disfrutar.](etheria-images/2020/03/viaje-mujeres-bogota-discoteca-440.jpg "En grupo, en pareja o sola: a los rumbeaderos se va a bailar y a disfrutar. © 440 Music Hall")
 
 La banda que ameniza las noches del _crossover_ **440 Music Hall** no escatima en 
 músicos, coristas ni imitadores de Juan Gabriel que irrumpen la velada para hacer cantar 

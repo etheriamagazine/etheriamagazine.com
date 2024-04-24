@@ -1,18 +1,18 @@
 ---
 title: "Cuevas de Mallorca, cinco fantasías subterráneas"
 date: 2021-08-26
-coverImage: etheria_images/2021/08/Cuevas-arta-mallorca.jpg
+coverImage: etheria-images/2021/08/Cuevas-arta-mallorca.jpg
 categories: 
   - viaje-en-familia
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 A pesar de su indudable atractivo, las cuevas de Mallorca no suelen aparecer entre las visitas más deseadas por los viajeros que acuden a esta bella isla balear. Sin embargo, merece la pena reservar una o varias jornadas para recorrer las mágicas cavidades que oculta la superficie mallorquina. En este breve listado encontrarás las cinco más impactantes y que se pueden visitar con niños.
 
-![Cuevas de Arta](etheria_images/2021/08/Cuevas-arta-mallorca.jpg "Cuevas de Artà.")
+![Cuevas de Arta](etheria-images/2021/08/Cuevas-arta-mallorca.jpg "Cuevas de Artà.")
 
 Las cuevas de Mallorca nos hablan de historia, de geografía, de arte y de una belleza 
 tan inusual que cuesta asimilarla cuando se observa por primera vez. Tanto si viajas en 
@@ -22,7 +22,7 @@ capricho de la naturaleza sino también de la creatividad del hombre que ha logr
 convertirlas en lugares llenos de fantasía gracias a la iluminación, en improvisados 
 escenarios o en un espacio navegable en barca. 
 
-![Cuevas del Drach.](etheria_images/2021/08/Cuevas-del-Drach-mallorca.jpg "Cuevas del Drach.")
+![Cuevas del Drach.](etheria-images/2021/08/Cuevas-del-Drach-mallorca.jpg "Cuevas del Drach.")
 
 1 [Cuevas del Drach.](http://www.cuevasdeldrach.com) Seguro que ya has visto imágenes de 
 estas grutas situadas en Porto Cristo (municipio de Manacor), famosas por disponer de 
@@ -38,7 +38,7 @@ llamada La Bandera.
 
 Precio: desde 8 euros (3-12 años) y desde 15 euros (adultos). 
 
-![Cuevas de Hams mallorca](etheria_images/2021/08/Cuevas-dels-Hams-barca-lago.jpg "Cuevas de Hams.")
+![Cuevas de Hams mallorca](etheria-images/2021/08/Cuevas-dels-Hams-barca-lago.jpg "Cuevas de Hams.")
 
 2 [Cuevas de Hams.](https://cuevasdelshams.com/) Descubiertas en 1905 por el espeleólogo 
 mallorquín Pedro Caldentey en Porto Cristo (Manacor), reciben esta denominación debido a 
@@ -56,7 +56,7 @@ Precio: Puedes comprar las entradas online, desde 9,50 euros (niños) y 19 euros
 Hams](https://www.civitatis.com/es/palma-mallorca/visita-guiada-cuevas-hams/?aid=10211) 
 que incluye también Porto Cristo y la fábrica de Majorica (8 horas). 
 
-![Cuevas de Arta](etheria_images/2021/08/Cuevas-arta-interior.jpg "Cuevas de Artà.")
+![Cuevas de Arta](etheria-images/2021/08/Cuevas-arta-interior.jpg "Cuevas de Artà.")
 
 3 [Cuevas de Artà](https://cuevasdearta.com/). Para visitar este sorprendente lugar hay 
 que dirigirse a un acantilado de Capdepera, en cuyo interior se puede descubrir una de 
@@ -68,7 +68,7 @@ sorprendente es el salón del Infierno, la Gloria, el teatro, etc.
 
 Precio: desde 7 euros (7 a 12 años) y 15 euros (adultos). 
 
-![cuevas de genova mallorca](etheria_images/2021/08/cuevas-genova-mallorca.jpg "© Cuevas de Génova, en Mallorca.")
+![cuevas de genova mallorca](etheria-images/2021/08/cuevas-genova-mallorca.jpg "© Cuevas de Génova, en Mallorca.")
 
 4 [Cuevas de Gènova.](http://cuevasdegenova.com/) Fueron descubiertas por azar en 1906 
 mientras se buscaba agua para realizar un aljibe. Sin embargo, el agua lo que había 
@@ -82,7 +82,7 @@ Precio: desde 6 euros (3-12 años) y adultos desde 10 euros. [Reserva tu entrada
 guiada 
 previamente](https://www.civitatis.com/es/palma-mallorca/visita-guiada-cuevas-genova/?aid=10211). 
 
-![cuevas de campanet mallorca](etheria_images/2021/08/cuevas-de-campanet.jpg "© Cuevas de Campanet.")
+![cuevas de campanet mallorca](etheria-images/2021/08/cuevas-de-campanet.jpg "© Cuevas de Campanet.")
 
 5 [Cuevas de Campanet.](http://www.covesdecampanet.com/) Distinguidas por la blancura y 
 delgadez de las estalactitas y estalagmitas, las cuevas de Campanet están compuestas por 

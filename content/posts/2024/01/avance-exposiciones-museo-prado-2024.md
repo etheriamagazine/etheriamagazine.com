@@ -1,13 +1,13 @@
 ---
 title: "Cuáles serán las exposiciones del Museo del Prado en 2024"
 date: 2024-01-07
-coverImage: etheria_images/2024/01/museo-prado-2024.jpg
+coverImage: etheria-images/2024/01/museo-prado-2024.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El Museo del Prado en 2024 reitera su compromiso con la excelencia artística y presenta 
@@ -15,7 +15,7 @@ un calendario de grandes muestras que exploran la historia del arte a través de
 social', analizan el taller de Rubens, reconocen la contribución de la mujer en el arte 
 y destacan la obra de Zurbarán, Polke y Goya. 
 
-![Itinerario “El Prado en femenino”. La reina Mariana de Austria. Velázquez. Madrid, Museo Nacional del Prado.](etheria_images/2024/01/menina-museo-prado.jpg "La reina Mariana de Austria, del itinerario “El Prado en femenino”. Velázquez. © Museo del Prado")
+![Itinerario “El Prado en femenino”. La reina Mariana de Austria. Velázquez. Madrid, Museo Nacional del Prado.](etheria-images/2024/01/menina-museo-prado.jpg "La reina Mariana de Austria, del itinerario “El Prado en femenino”. Velázquez. © Museo del Prado")
 
 La pinacoteca madrileña más prestigiosa ha avanzado su calendario expositivo para este 
 año, en el que mantiene algunas líneas previas pero también incorpora enfoques 
@@ -40,7 +40,7 @@ su originalidad y maestría.
 
 **Cuándo:** de marzo a junio de 2024. 
 
-![Reproducción del 'Bodegón con limones, naranjas y una rosa’ de Francisco de Zurbarán.](etheria_images/2024/01/Zurbaran-bodegon-850x471.jpg "Reproducción del 'Bodegón con limones, naranjas y una rosa’ de Francisco de Zurbarán. © CC")
+![Reproducción del 'Bodegón con limones, naranjas y una rosa’ de Francisco de Zurbarán.](etheria-images/2024/01/Zurbaran-bodegon-850x471.jpg "Reproducción del 'Bodegón con limones, naranjas y una rosa’ de Francisco de Zurbarán. © CC")
 
 ## Arte y transformaciones sociales en España (1885-1910)
 
@@ -66,7 +66,7 @@ primera vez este tema y ocupará con sus 300 obras todo el edificio Jerónimos.
 
 ![Exposición “Arte social”
 Una huelga de obreros en Vizcaya. Vicente Cutanda
-Madrid, Museo Nacional del Prado](etheria_images/2024/01/museo-prado-2024.jpg "Exposición “Arte social” Una huelga de obreros en Vizcaya. Vicente Cutanda. © Museo del Prado")
+Madrid, Museo Nacional del Prado](etheria-images/2024/01/museo-prado-2024.jpg "Exposición “Arte social” Una huelga de obreros en Vizcaya. Vicente Cutanda. © Museo del Prado")
 
 ## El taller de Rubens
 
@@ -80,7 +80,7 @@ ilustrará las distintas formas de colaboración entre el maestro y sus ayudante
 
 **Cuándo:** Del 15 de octubre de 2024 al 26 de febrero de 2025. 
 
-![Exposición “El taller de Rubens”. Mercurio y Argos. Pedro Pablo Rubens.](etheria_images/2024/01/museo-prado-rubens.jpg "Exposición “El taller de Rubens”. Mercurio y Argos. Pedro Pablo Rubens. © Museo del Prado")
+![Exposición “El taller de Rubens”. Mercurio y Argos. Pedro Pablo Rubens.](etheria-images/2024/01/museo-prado-rubens.jpg "Exposición “El taller de Rubens”. Mercurio y Argos. Pedro Pablo Rubens. © Museo del Prado")
 
 ## Darse la mano. Escultura y color en el Siglo de Oro
 
@@ -119,7 +119,7 @@ cuyas vidas se sitúan entre las reinas Isabel de Borbón y Mariana de Neoburgo
 ✅ **Seguir leyendo:** [1ª edición de 'El Prado en 
 femenino'](https://etheriamagazine.com/2022/12/29/el-prado-en-femenino-2023/). 
 
-![Sala con la exposición 'Reversos'.](etheria_images/2024/01/exposicion-reversos-museo-prado.jpg "Sala con la exposición 'Reversos'. © Museo Nacional del Prado")
+![Sala con la exposición 'Reversos'.](etheria-images/2024/01/exposicion-reversos-museo-prado.jpg "Sala con la exposición 'Reversos'. © Museo Nacional del Prado")
 
 ## Otras muestras aún vigentes
 

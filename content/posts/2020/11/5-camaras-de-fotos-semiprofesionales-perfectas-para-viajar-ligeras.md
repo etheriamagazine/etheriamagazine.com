@@ -1,12 +1,12 @@
 ---
 title: "5 cámaras de fotos semiprofesionales perfectas para viajar ligeras"
 date: 2020-11-25
-coverImage: etheria_images/2020/11/camara-foto-viajes.jpg
+coverImage: etheria-images/2020/11/camara-foto-viajes.jpg
 categories: 
   - regalos-compras-viajeras
   - organiza-tu-viaje
-author: 
-  - Compras y comparativas
+authors: 
+  - Redacción Etheria
 ---
 
 Si te gusta hacer fotos en tus escapadas y estás pensando en comprarte (o regalar) una 
@@ -14,7 +14,7 @@ cámara fotográfica para viajar, te recomendamos cinco modelos de distintas cas
 ligeras, fáciles de usar y con precios aceptables teniendo en cuenta que algunas tienen 
 características semiprofesionales. 
 
-![camara de fotos para viajar](etheria_images/2020/11/camara-foto-viajes.jpg "Descubre el placer de la fotografía en los viajes. © Andre Furtado")
+![camara de fotos para viajar](etheria-images/2020/11/camara-foto-viajes.jpg "Descubre el placer de la fotografía en los viajes. © Andre Furtado")
 
 Comprar una cámara fotográfica es una decisión importante. No se puede tomar a la 
 ligera, ya que puede convertirse en una inestimable compañera de viaje o en una 
@@ -32,7 +32,7 @@ Sólo una última recomendación, no aprietes el disparador como si no hubiese u
 Busca el mejor encuadre (casi siempre hay que moverse), juega con los elementos en 
 distintas perspectivas, y compón esa foto como si fueses a presentarla al Pulitzer. 
 
-![camara de fotos para viajar sony alpha 7 II](etheria_images/2020/11/sony-alpha-7-ii.jpg "© Modelo Sony Alpha 7 II.")
+![camara de fotos para viajar sony alpha 7 II](etheria-images/2020/11/sony-alpha-7-ii.jpg "© Modelo Sony Alpha 7 II.")
 
 ## 1\. Cámara Sony Alpha 7 II
 
@@ -48,7 +48,7 @@ por segundo), un sensor de 24,3 Mp, y permite un ISO entre 50 y 25.600.
 ¿Dónde? En [Amazon](https://amzn.to/3pRHDyn) (desde 1.046 € con objetivo 28-70) o en la 
 Fnac. Acaba de salir el modelo Alpha 7 III, por si te quieres dar el capricho... 
 
-![camara fotografica semiprofesional  nikon z6](etheria_images/2020/11/precio-ofertas-nikon-z6.jpg "Cámara fotográfica © Nikon Z6, ligera y de gran calidad.")
+![camara fotografica semiprofesional  nikon z6](etheria-images/2020/11/precio-ofertas-nikon-z6.jpg "Cámara fotográfica © Nikon Z6, ligera y de gran calidad.")
 
 ## 2\. Nikon Z6, un buen modelo sin espejo
 
@@ -61,7 +61,7 @@ vídeo con una extraordinaria calidad. Además, te va a gustar que tenga conexio
 bluetooth y wifi por si quieres compartir alguna imagen sin necesidad de descargar las 
 tarjetas de memoria. 
 
-![canon m50 camara de fotos para viajar](etheria_images/2020/11/ofertas-canon-m-50.jpg "© Canon M50, excelente relación calidad-precio.")
+![canon m50 camara de fotos para viajar](etheria-images/2020/11/ofertas-canon-m-50.jpg "© Canon M50, excelente relación calidad-precio.")
 
 ## 3\. Canon M50, ligera y sencilla
 
@@ -74,7 +74,7 @@ bajado mucho de precio y ahora se encuentra el kit con el cuerpo y un objetivo 1
 es _full frame)_ por unos 500 € (el precio normalmente es de 750 €), así que compara en 
 varios comercios antes de comprar. 
 
-![camara fuji xt30 fotografica semiprofesional](etheria_images/2020/11/precio-rebajado-fuji-xt-30.jpg "Cámara de fotos para viajar © Fuji-XT30.")
+![camara fuji xt30 fotografica semiprofesional](etheria-images/2020/11/precio-rebajado-fuji-xt-30.jpg "Cámara de fotos para viajar © Fuji-XT30.")
 
 ## 4\. Cámara Fuji X-T30, bonita y manejable
 
@@ -92,7 +92,7 @@ Otro modelo que también puedes valorar es la Fuji X-T3 con unas prestaciones ma
 una pequeña diferencia de precio. Es muy aconsejable llevar siempre más de un cargador 
 Fuji y baterías de repuesto porque se gastan muy rápido. 
 
-![camara lumix dc ft7 fotografica semiprofesional](etheria_images/2020/11/camara-acuatica-lumix-DC-FT7.jpg "Lumix DC-FT7, ideal para bucear o llevar a la montaña. © Panasonic")
+![camara lumix dc ft7 fotografica semiprofesional](etheria-images/2020/11/camara-acuatica-lumix-DC-FT7.jpg "Lumix DC-FT7, ideal para bucear o llevar a la montaña. © Panasonic")
 
 ## 5\. Lumix DC-FT7, robusta y acuática
 

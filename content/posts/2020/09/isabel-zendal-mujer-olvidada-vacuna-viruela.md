@@ -1,17 +1,17 @@
 ---
 title: "Isabel Zendal, la madre de todas las vacunas"
 date: 2020-09-21
-coverImage: etheria_images/2020/09/vacuna-viruela-isabel-zendal.jpg
+coverImage: etheria-images/2020/09/vacuna-viruela-isabel-zendal.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Isabel Zendal, que da nombre al Hospital de Emergencias de Valdebebas (Madrid), fue la primera enfermera internacional de la historia. Esta mujer gallega, cuyo 250 aniversario se celebró en 2021, llevó la vacuna de la viruela a Filipinas y a distintos lugares de América, salvando de esta manera millones de vidas.
 
-![cuadro 'Vacunación brazo a brazo', de Constant Desbordes](etheria_images/2020/09/vacuna-viruela-isabel-zendal.jpg "'Vacunación brazo a brazo', de Constant Desbordes. (Imagen de portada de 'Isabel Zendal Gómez en los Archivos de Galicia'. © Scala Archives-Firenze")
+![cuadro 'Vacunación brazo a brazo', de Constant Desbordes](etheria-images/2020/09/vacuna-viruela-isabel-zendal.jpg "'Vacunación brazo a brazo', de Constant Desbordes. (Imagen de portada de 'Isabel Zendal Gómez en los Archivos de Galicia'. © Scala Archives-Firenze")
 
 Isabel Zendal es una las mujeres con más relevancia de la Humanidad que, por cuestiones 
 del azar y del olvido, ha pasado prácticamente desapercibida para la sociedad española, 
@@ -40,7 +40,7 @@ familiarmente como **Expedición Balmis**, que era el apellido de Francisco Javi
 Balmis, el promotor de la operación. En su honor se nombró el hospital de campaña 
 levantado en Ifema (Madrid) este 2020 para acoger a enfermos de la COVID-19. 
 
-![Niños recibiendo una vacuna](etheria_images/2020/09/enfermeras-vacunacion-infantil.jpg "Vacunación infantil. © Real Academia de Medicina de España")
+![Niños recibiendo una vacuna](etheria-images/2020/09/enfermeras-vacunacion-infantil.jpg "Vacunación infantil. © Real Academia de Medicina de España")
 
 ## Una cadena de acontecimientos fortuitos 
 
@@ -57,7 +57,7 @@ citó cómo el éxito de la arriesgada misión se debía en gran medida al impre
 apoyo de quien la misma OMS (Organización Mundial de la Salud) en 1950 consideró como 
 **la primera enfermera internacional de la historia, Isabel Zendal**. 
 
-![Libros sobre la figura de Isabel Zendal.](etheria_images/2020/09/libros-isabel-zendal.jpg "Libros sobre la figura de Isabel Zendal.")
+![Libros sobre la figura de Isabel Zendal.](etheria-images/2020/09/libros-isabel-zendal.jpg "Libros sobre la figura de Isabel Zendal.")
 
 #### ‘A Flor de Piel’, Javier Moro
 
@@ -87,7 +87,7 @@ mortal viruela humana. Edward Jenner, llamado “el padre de la inmunología”,
 la primera “vacuna”, nombre derivado de su origen que ahora se utiliza para cualquier 
 medicamento que erradique una enfermedad. 
 
-![cuadro que representa a Jenner vacunando a James Phipps, un niño de 8 años en 1796.](etheria_images/2020/09/vacuna-viruela-jenner.jpg "Jenner vacuna a James Phipps, un niño de 8 años en 1796. © Wikimedia/ CC")
+![cuadro que representa a Jenner vacunando a James Phipps, un niño de 8 años en 1796.](etheria-images/2020/09/vacuna-viruela-jenner.jpg "Jenner vacuna a James Phipps, un niño de 8 años en 1796. © Wikimedia/ CC")
 
 ## Isabel Zendal, de una aldea gallega a enfermera internacional
 
@@ -101,7 +101,7 @@ soltera. Una vez crecidos sus hermanos, apeló como rectora y enfermera de la in
 La Coruña. Aquí entró a trabajar en condiciones miserables en 1800, llevándose a su hijo 
 Benito con ella. 
 
-![Litografía de la Corbeta María Pita, de la expedición de Balmis.](etheria_images/2020/09/barco-maria-pita-expedicion-balmis.jpg "Corbeta María Pita, de la expedición de Balmis. © BNE")
+![Litografía de la Corbeta María Pita, de la expedición de Balmis.](etheria-images/2020/09/barco-maria-pita-expedicion-balmis.jpg "Corbeta María Pita, de la expedición de Balmis. © BNE")
 
 ## En la corte de Carlos IV
 
@@ -126,7 +126,7 @@ haber más de 18.000 kilómetros por tierras americanas aplicando las vacunas y 
 millares de vidas. Por esto mereció el título de "uno de los más grandes mártires de la 
 medicina mundial". 
 
-![Homenaje a la expedición Balmis y a los niños que fueron en ella.](etheria_images/2020/09/homenaje-expedicion-Balmis.jpg "Homenaje a la expedición Balmis y a los niños que fueron en ella. © Wikimedia (CC)")
+![Homenaje a la expedición Balmis y a los niños que fueron en ella.](etheria-images/2020/09/homenaje-expedicion-Balmis.jpg "Homenaje a la expedición Balmis y a los niños que fueron en ella. © Wikimedia (CC)")
 
 ## ¿Cómo viajaría la vacuna de la viruela?
 
@@ -152,7 +152,7 @@ facilidad.
 > Le dio vueltas, lo pensó, contestándole a Balmis que la única forma en la que permitiría 
 > ir a los niños del orfanato sería si ella misma les acompañaba con su hijo Benito. 
 
-![Película y libro sobre Isabel Zendal](etheria_images/2020/09/22-angeles-custodios-isabel-zendal.jpg "Isabel Zendal en el cine y la literatura.")
+![Película y libro sobre Isabel Zendal](etheria-images/2020/09/22-angeles-custodios-isabel-zendal.jpg "Isabel Zendal en el cine y la literatura.")
 
 Balmis lo consultó con José Salvany y con la tripulación. El llevar una mujer en el 
 barco en aquel entonces equivalía a mala suerte, a problemas asegurados. Sin embargo, no 

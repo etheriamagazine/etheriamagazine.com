@@ -1,19 +1,19 @@
 ---
 title: "10 ciudades de España para saborear en sus restaurantes"
 date: 2021-02-19
-coverImage: etheria_images/2021/02/Restaurantes-Espana-Toledo.jpg
+coverImage: etheria-images/2021/02/Restaurantes-Espana-Toledo.jpg
 categories: 
   - consejos-practicos
   - viajes-gastronomicos
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 No hay nada mejor que descubrir una ciudad a través de su gastronomía. Saborear lo que le aporta su tierra (y a veces su mar) dice tanto de un lugar como sus monumentos o costumbres. En estos 10 reportajes te desvelamos los restaurantes más emblemáticos, y algunos secretos, para degustar estas ciudades como merecen.
 
-![restaurantes en España](etheria_images/2021/02/restaurantes-espana-ibiza.jpg "Restaurante Amante, en la Sol d’en Serra (Ibiza). ©Tasya Menaker/ Amante")
+![restaurantes en España](etheria-images/2021/02/restaurantes-espana-ibiza.jpg "Restaurante Amante, en la Sol d’en Serra (Ibiza). ©Tasya Menaker/ Amante")
 
 En este artículo recorreremos Ibiza, Tudela, Almería, Madrid, Granada, Toledo, Vigo, 
 Segovia, San Sebastián y Palencia desde un punto de vista gastronómico. ¿Por cuál te 
@@ -30,7 +30,7 @@ Con recomendaciones que van desde chiringuitos hasta restaurantes con estrella M
 para que puedas ir organizando tus comidas y cenas en esta maravillosa (y concurrida en 
 verano) isla. Con la garantía de cocina de altura y unas vistas increíbles. 
 
-![gastronomía de Navarra](etheria_images/2021/02/restaurantes-espana-Tudela.jpg "Verduras de Navarra. © Blanca Aldanondo Otamendi")
+![gastronomía de Navarra](etheria-images/2021/02/restaurantes-espana-Tudela.jpg "Verduras de Navarra. © Blanca Aldanondo Otamendi")
 
 ## 2\. Tudela
 
@@ -43,7 +43,7 @@ más, si los productos de su huerta o sus vinos. ¿La zona donde se concentran l
 de los bares? La del triángulo que forman la Catedral, la calle Herrerías y la plaza de 
 los Fueros. 
 
-![Restaurantes en España](etheria_images/2021/02/restaurantes-espana-almeria.jpg "Tapa de solomillo mozárabe en Entrefinos. © P.G.")
+![Restaurantes en España](etheria-images/2021/02/restaurantes-espana-almeria.jpg "Tapa de solomillo mozárabe en Entrefinos. © P.G.")
 
 ## 3\. Almería
 
@@ -56,7 +56,7 @@ recomendaciones de las especialidades de cada uno de sus bares. Te adelantamos a
 el solomillo mozárabe de Entrefinos, las patatas a lo pobre con pimentón y huevo de 
 corral de El Quinto Toro o las gambas con gabardina de Casa Puga. 
 
-![restaurantes en Madrid](etheria_images/2021/02/Restaurantes-madrid-bruch.jpg "Deliciosas propuestas de brunch en el © Brunch Club Café, en Madrid.")
+![restaurantes en Madrid](etheria-images/2021/02/Restaurantes-madrid-bruch.jpg "Deliciosas propuestas de brunch en el © Brunch Club Café, en Madrid.")
 
 ## 4\. Madrid sin gluten y los mejores Bruch
 
@@ -70,7 +70,7 @@ domingo](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madri
 Hoteles y restaurantes con atractivas propuestas para este nuevo plan de fin de semana 
 que se ha puesto tan de moda. 
 
-![Tapas en Granada](etheria_images/2021/02/restaurantes-espana-granada.jpg "Gastronomía granadina en el © Restaurante Tendido 1.")
+![Tapas en Granada](etheria-images/2021/02/restaurantes-espana-granada.jpg "Gastronomía granadina en el © Restaurante Tendido 1.")
 
 ## 5\. Granada
 
@@ -83,7 +83,7 @@ como la Plaza Nueva, la plaza de la Bib Rambla o la calle Elvira. Pero, además,
 que buscar un hueco para acercarte a alguno de sus restaurantes recomendados: 
 Damasqueros, La Fábula o Faralá tendrán que estar en tu agenda. 
 
-![restaurantes en España](etheria_images/2021/02/Restaurantes-Espana-Toledo.jpg "Mesa del restaurante © Alfileritos 24, en Toledo.")
+![restaurantes en España](etheria-images/2021/02/Restaurantes-Espana-Toledo.jpg "Mesa del restaurante © Alfileritos 24, en Toledo.")
 
 ## 6\. Toledo
 
@@ -98,7 +98,7 @@ Mancha, u otros semi-escondidos como _La Clandestina de las Tendillas_. Ya tiene
 aliciente más (si no eran pocos) para volver a redescubrir esta preciosa ciudad que 
 alberga alguno de los mejores restaurantes de España. 
 
-![marisco en Vigo](etheria_images/2021/02/restaurantes-espana-vigo.jpg "El ambiente familiar de Bao recuerda una ley gallega no escrita que asegura que en casa es donde mejor se come marisco. © J.L. Migueláñez y F. Abente")
+![marisco en Vigo](etheria-images/2021/02/restaurantes-espana-vigo.jpg "El ambiente familiar de Bao recuerda una ley gallega no escrita que asegura que en casa es donde mejor se come marisco. © J.L. Migueláñez y F. Abente")
 
 ## 7\. Vigo
 
@@ -110,7 +110,7 @@ tapeo por el ‘Casco Vello’, la segunda por el centro de la ciudad, la tercer
 tradicionales furanchos y la última por algunos de los pueblos de la ría de Vigo. ¿A que 
 apetece recorrerlas todas? 
 
-![Restaurantes en España](etheria_images/2021/02/restaurantes-espana-segovia.jpg "Cochinillo deshuesado a fuego lento con agridulce de manzana en rulo crujiente del © restaurante José María.")
+![Restaurantes en España](etheria-images/2021/02/restaurantes-espana-segovia.jpg "Cochinillo deshuesado a fuego lento con agridulce de manzana en rulo crujiente del © restaurante José María.")
 
 ## 8\. Segovia
 
@@ -125,7 +125,7 @@ María](https://www.restaurantejosemaria.com/) (siempre investigando para mejora
 la excelente materia prima que trabaja). Tres propuestas ganadoras que merecen, en sí 
 mismas, una visita a la capital segoviana. 
 
-![pintxos en San Sebastián](etheria_images/2021/02/restaurantes-espana-San-Sebastian-Gros.jpg "Pintxo de queso al carbón de Ramontxu Berri y tacos en Topa Sukaldería, en el barrio del Gros de San Sebastián. © DSST")
+![pintxos en San Sebastián](etheria-images/2021/02/restaurantes-espana-San-Sebastian-Gros.jpg "Pintxo de queso al carbón de Ramontxu Berri y tacos en Topa Sukaldería, en el barrio del Gros de San Sebastián. © DSST")
 
 ## 9\. San Sebastián
 
@@ -139,7 +139,7 @@ os damos algunas pistas para acotar algo la extensa oferta, con lugares impresci
 en la Parte Vieja, en el centro, detrás de La Concha y en el animado barrio de El Gros. 
 Pero seguro que descubrirás otros muchos con los que hacer tu propia ruta gastronómica. 
 
-![gastronomía de Palencia](etheria_images/2021/02/restaurantes-espana-palencia.jpg "Vermú en La Barra de Villoldo frente a la iglesia de San Miguel. © Cedida por Ayto. Palencia")
+![gastronomía de Palencia](etheria-images/2021/02/restaurantes-espana-palencia.jpg "Vermú en La Barra de Villoldo frente a la iglesia de San Miguel. © Cedida por Ayto. Palencia")
 
 ## 10\. Palencia
 

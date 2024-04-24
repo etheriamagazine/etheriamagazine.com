@@ -1,17 +1,17 @@
 ---
 title: "¿El peor viaje de mi vida? El día en que me metieron droga en la maleta"
 date: 2019-03-09
-coverImage: etheria_images/2019/03/peor-viaje-vida.jpg
+coverImage: etheria-images/2019/03/peor-viaje-vida.jpg
 categories: 
   - mi-peor-viaje
   - viajes-para-mujeres
-author: 
+authors: 
   - Rafael de Rojas
 ---
 
 Decía Pascal que a él todo lo malo que le había pasado en la vida le había ocurrido por salir de casa. Emprender un viaje es un riesgo cierto. Porque te van a pasar cosas que en casa no suceden. Sale uno de su zona de confort para caer de bruces en una cama en la que puede que se te claven los muelles, y cuya almohada no tiene programada la forma de tu cabeza. Por no hablar de que en casi ninguna parte sirven Mahou.
 
-![peor viaje, maletas con droga](etheria_images/2019/03/peor-viaje-vida.jpg "Las benditas esperas en los aeropuertos.")
+![peor viaje, maletas con droga](etheria-images/2019/03/peor-viaje-vida.jpg "Las benditas esperas en los aeropuertos.")
 
 Todos los viajes tienen un momento malo, ése en el que te toca arrastrar las maletas y 
 te acuerdas del secador de viaje, que ha resultado no ser tan portátil. O ese instante 
@@ -38,7 +38,7 @@ Pasó con Ulises y pasa con tu compañera de trabajo enganchada al Instagram. Y 
 dirás tú qué historia le sacas a una semana de cocoloco y tumbona en la que los días se 
 confunden unos con otros. 
 
-![peores viajes, droga en la maleta](etheria_images/2019/03/peores-viajes-vida.jpg ""Lo mejor del viaje es volver y contarlo".")
+![peores viajes, droga en la maleta](etheria-images/2019/03/peores-viajes-vida.jpg ""Lo mejor del viaje es volver y contarlo".")
 
 ## Un "regalo" en la maleta
 
@@ -68,7 +68,7 @@ mucho en la cárcel”. Con esa templanza es con la que empiezas a afrontarlo y 
 decisiones. A lo loco. La primera, no salir de la habitación. La segunda, no llamar a 
 nadie. La tercera, que necesitas un cigarrito. Y un vodka. 
 
-![el peor viaje de mi vida era cuestion de una maleta](etheria_images/2019/03/maleta-hotel-droga.jpg "Una maleta marron tuvo la culpa del desastre")
+![el peor viaje de mi vida era cuestion de una maleta](etheria-images/2019/03/maleta-hotel-droga.jpg "Una maleta marron tuvo la culpa del desastre")
 
 ## Tomar decisiones
 
@@ -93,7 +93,7 @@ cortesía de la oportunísima organización. Reptando por la pared te acercas ot
 teléfono y el comisario de la embajada te recomienda básicamente que llames a la poli 
 local y que reces para no resultar sospechoso. 
 
-![Fotograma de Keystone Cops.](etheria_images/2019/02/Keystone-Cops.jpg "© Fotograma de Keystone Cops.")
+![Fotograma de Keystone Cops.](etheria-images/2019/02/Keystone-Cops.jpg "© Fotograma de Keystone Cops.")
 
 ## 13 policías, rollo _Keystone cops_
 
@@ -118,7 +118,7 @@ viaje entre delirios, alucinaciones y la lisérgica programación de TVE interna
 Una oportuna diarrea se encarga, al menos, de que puedas ponerle aliviantes pausas a la 
 tele. 
 
-![perder maletas, peores viajes](etheria_images/2019/03/vuelos.jpg)
+![perder maletas, peores viajes](etheria-images/2019/03/vuelos.jpg)
 
 ## Qué hacer si te meten droga
 

@@ -1,14 +1,14 @@
 ---
 title: "Suiza, descubre sus hoteles y restaurantes más sostenibles"
 date: 2021-05-26
-coverImage: etheria_images/2021/05/Suiza-hotel-cervo.jpg
+coverImage: etheria-images/2021/05/Suiza-hotel-cervo.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Suiza no sólo nos propone un entorno desbordante de naturaleza, de aire puro, de ríos y 
@@ -17,7 +17,7 @@ tradicionales en restaurantes comprometidos con el medio que integran los valore
 locales. Si eliges sostenibilidad en tu viaje a Suiza, estarás escogiendo la mejor forma 
 de viajar. 
 
-![posada de montana ascher en suiza](etheria_images/2021/05/suiza-ascher-wasserauen.jpg "Posada de montaña Äscher. © Philipp Kemmler/ Manu Touristik")
+![posada de montana ascher en suiza](etheria-images/2021/05/suiza-ascher-wasserauen.jpg "Posada de montaña Äscher. © Philipp Kemmler/ Manu Touristik")
 
 Cuando parece que el turismo sostenible comienza a formar parte de la agenda de una gran 
 cantidad de destinos, Suiza nos demuestra que esta corriente verde fluye por sus venas 
@@ -33,7 +33,7 @@ más del 90% de las botellas de plástico.
 > “El respeto por el entorno natural y la calidad de vida son algunos de los grandes 
 > incentivos que los viajeros comprometidos con la sostenibilidad encuentran en Suiza”. 
 
-![vista del lago di saoseo](etheria_images/2021/05/Suiza-Lago-di-Saoseo.jpg "Vista aérea del lago di Saoseo. © Schweiz Tourismus / Nicola Fuerer")
+![vista del lago di saoseo](etheria-images/2021/05/Suiza-Lago-di-Saoseo.jpg "Vista aérea del lago di Saoseo. © Schweiz Tourismus / Nicola Fuerer")
 
 ### Suiza, mil y una propuestas
 
@@ -51,7 +51,7 @@ bocados’](https://issuu.com/stnet/docs/208_21a_01_brosch_gastro/1?ff) (consúl
 gratuitamente on line) encontrarás un amplio listado de establecimientos, aquí te 
 ofrecemos una pequeña selección de propuestas para tu próximo viaje. 
 
-![hotel cervo zermatt en suiza](etheria_images/2021/05/Suiza-hotel-cervo.jpg "CERVO Mountain Resort. © Christian Pfammatter, Visp/Schweiz")
+![hotel cervo zermatt en suiza](etheria-images/2021/05/Suiza-hotel-cervo.jpg "CERVO Mountain Resort. © Christian Pfammatter, Visp/Schweiz")
 
 ## Hoteles en Suiza para viajeros comprometidos
 
@@ -71,7 +71,7 @@ ubicación ideal, junto a un lago, está el **Seehotel Hermitage** de Lucerna, q
 más de cien años siendo un ejemplo a seguir en sus prácticas respetuosas con el 
 medioambiente. 
 
-![hotel the alpina gstaad suiza](etheria_images/2021/05/Suiza-hotel-the-alpina.jpg "Hotel The Alpina, en Gstaad. © Dominik Baur")
+![hotel the alpina gstaad suiza](etheria-images/2021/05/Suiza-hotel-the-alpina.jpg "Hotel The Alpina, en Gstaad. © Dominik Baur")
 
 #### "En palacios o de diseño, pero busca hoteles sostenibles"
 
@@ -87,7 +87,7 @@ familia de hosteleros, con una fuerte orientación hacia el uso de productos org
 La estética de este establecimiento inaugurado en 1929, sus cálidos espacios comunes, y 
 sus excelentes restaurantes y espacios de bienestar lo convierten en una apuesta segura. 
 
-![hotel suiza Schloss Wartegg](etheria_images/2021/05/Suiza-Schloss-Wartegg-Rorschacherberg.jpg "© Schloss Wartegg, Rorschacherberg.")
+![hotel suiza Schloss Wartegg](etheria-images/2021/05/Suiza-Schloss-Wartegg-Rorschacherberg.jpg "© Schloss Wartegg, Rorschacherberg.")
 
 ## Restaurantes creativos y sostenibles
 
@@ -109,7 +109,7 @@ Otros, como **Magdalena** (Rickenbach SZ), brillan con sus dos estrellas Micheli
 no renuncian a una cocina comprometida e, incluso, de aprovechamiento, ya que preparan 
 postres con productos habitualmente desechados, como el poso de café. 
 
-![Cartuja de Ittingen hoteles de suiza](etheria_images/2021/05/Suiza-hoteles-sostenibles.jpg "Cartuja de Ittingen. © Serge Hoeltschi")
+![Cartuja de Ittingen hoteles de suiza](etheria-images/2021/05/Suiza-hoteles-sostenibles.jpg "Cartuja de Ittingen. © Serge Hoeltschi")
 
 #### "La naturaleza suiza también en tu plato"
 

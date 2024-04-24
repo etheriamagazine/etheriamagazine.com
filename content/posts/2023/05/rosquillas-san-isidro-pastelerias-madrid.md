@@ -1,12 +1,12 @@
 ---
 title: "Las rosquillas de San Isidro se renuevan en cinco pastelerías históricas"
 date: 2023-05-10
-coverImage: etheria_images/2023/05/rosquillas-violeta-el-pozo-madrid.jpg
+coverImage: etheria-images/2023/05/rosquillas-violeta-el-pozo-madrid.jpg
 categories: 
   - mejores-restaurantes-gastronomia
   - planes-originales-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Llega San Isidro a Madrid y, además de volver los trajes de chulapas y chulapos y los 
@@ -15,7 +15,7 @@ rosquillas tradicionales, cinco pastelerías centenarias se han sumado a la inic
 Madridulce para aportar una versión diferente. Sigue leyendo para descubrir dónde y 
 cuándo puedes probar estas redondas delicias. 
 
-![Cinco rosquillas del Santo originales](etheria_images/2023/05/rosquillas-madriddulce.jpg "Especialidades de las cinco pastelerías que participan en Madriddulce.")
+![Cinco rosquillas del Santo originales](etheria-images/2023/05/rosquillas-madriddulce.jpg "Especialidades de las cinco pastelerías que participan en Madriddulce.")
 
 Si hay un dulce castizo ese son **las rosquillas de San Isidro**. Sus versiones 
 habituales de tontas, listas y de Santa Clara nos acompañan a los madrileños desde 
@@ -54,7 +54,7 @@ de dulces de la planta baja es de lo más surtido (¿quién no ha probado alguna
 **famosa napolitana de crema** recién hecha?); y su salón de té de la primera planta, 
 sede de tertulias y confidencias. 
 
-![Fachada de La Mallorquina en la Puerta del Sol.](etheria_images/2023/05/La-Mallorquina-puerta-sol.jpg "Fachada de La Mallorquina en la Puerta del Sol.")
+![Fachada de La Mallorquina en la Puerta del Sol.](etheria-images/2023/05/La-Mallorquina-puerta-sol.jpg "Fachada de La Mallorquina en la Puerta del Sol.")
 
 Para Madridulce, La Mallorquina aportará, además de las versiones habituales, una 
 deliciosa **rosquilla de frambuesa**. Este negocio, fundado en 1894, ha abierto en los 
@@ -68,7 +68,7 @@ obrador trabaja todos los días para que no falte de nada en los mostradores y s
 cargo de la familia Leal, la misma que fundó este negocio, que ya va por su tercera 
 generación. 
 
-![Rosquillas de violeta en El Pozo](etheria_images/2023/05/el-pozo-rosquillas-violeta-681x1024.jpg "Rosquillas de violeta en El Pozo.")
+![Rosquillas de violeta en El Pozo](etheria-images/2023/05/el-pozo-rosquillas-violeta-681x1024.jpg "Rosquillas de violeta en El Pozo.")
 
 Son míticos sus roscones de reyes, disponibles durante todo el año, y para Madridulce 
 aporta la **rosquilla de violeta**, un sabor que no puede ser más madrileño. Merece la 
@@ -81,7 +81,7 @@ Esta pastelería, abierta por Luis Mira en 1842 en la Plaza Mayor, inició su hi
 la venta de turrones. En 1855 se trasladó a la Carrera de San Jerónimo, donde sigue hoy 
 en día, y mantiene uno de los escaparates más bonitos de Madrid. 
 
-![Fachada de la pastelería Casa Mira en Madrid](etheria_images/2023/05/Casa-Mira_fachada-rosquillas.jpg "La apetecible fachada de Casa Mira.")
+![Fachada de la pastelería Casa Mira en Madrid](etheria-images/2023/05/Casa-Mira_fachada-rosquillas.jpg "La apetecible fachada de Casa Mira.")
 
 Van ya por la sexta generación de la familia Mira y siguen elaborando sus turrones 
 artesanales (no te pierdas el de Jijona) y su famoso marrón glacé. Para Madridulce, la 
@@ -97,7 +97,7 @@ sus aportaciones originales a los dulces de la ciudad es la pasta del Consejo, c
 para Alfonso XIII. Conserva un interior lleno de tradición y solera y su rosquilla de 
 santo para este Madridulce será una **rosquilla de madroño**. 
 
-![Interior de la pastelería El Riojano](etheria_images/2023/05/El-Riojano-interior-tienda-rosquillas.jpg "Interior de la pastelería centenaria El Riojano.")
+![Interior de la pastelería El Riojano](etheria-images/2023/05/El-Riojano-interior-tienda-rosquillas.jpg "Interior de la pastelería centenaria El Riojano.")
 
 ### La Duquesita
 
@@ -109,7 +109,7 @@ elementos originales de mobiliario como las recetas tradicionales, sumándole nu
 propuestas dulces en forma de hojaldres, trufas y bombones. Para Madridulce aportarán 
 unas **rosquillas de pistacho y sal** que no pueden ser más apetecibles. 
 
-![Rosquillas de pistacho y sal en La Duquesita](etheria_images/2023/05/MADRIDULCE-rosquillas-LA-DUQUESITA-683x1024.jpg "Rosquillas de pistacho y sal en La Duquesita.")
+![Rosquillas de pistacho y sal en La Duquesita](etheria-images/2023/05/MADRIDULCE-rosquillas-LA-DUQUESITA-683x1024.jpg "Rosquillas de pistacho y sal en La Duquesita.")
 
 ## Guía práctica de Madridulce 2023
 

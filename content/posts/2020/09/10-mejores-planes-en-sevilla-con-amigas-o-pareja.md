@@ -1,12 +1,12 @@
 ---
 title: "10 planes originales con amigas en Sevilla"
 date: 2020-09-28
-coverImage: etheria_images/2020/09/viaje-Sevilla-en-bici.jpg
+coverImage: etheria-images/2020/09/viaje-Sevilla-en-bici.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 La capital andaluza brinda decenas de experiencias relacionadas con la cultura, el arte, 
@@ -14,7 +14,7 @@ la gastronomía y la arquitectura. En Etheria Magazine hemos seleccionado sólo 
 con amigas en Sevilla que te van a encantar, aunque también los disfrutarás si viajas 
 sola o en pareja. 
 
-![las setas el mejor mirador de sevilla](etheria_images/2020/09/viaje-original-las-setas-sevilla.jpg "Las Setas, una de las construcciones más vanguardistas de Sevilla.")
+![las setas el mejor mirador de sevilla](etheria-images/2020/09/viaje-original-las-setas-sevilla.jpg "Las Setas, una de las construcciones más vanguardistas de Sevilla.")
 
 (Act. 17/02/23) 
 
@@ -25,7 +25,7 @@ las costumbres y diseñadas para que tu estancia en la ciudad del Guadalquivir s
 inolvidable. Te sugerimos **10 planes para disfrutar de lo lindo con tus amigas** o con 
 quien prefieras. 
 
-![pasear por los tejados de sevilla un plan con amigas](etheria_images/2020/09/plan-original-sevilla-paseo-Tejados.jpg "Un paseo por los tejados de Sevilla.")
+![pasear por los tejados de sevilla un plan con amigas](etheria-images/2020/09/plan-original-sevilla-paseo-Tejados.jpg "Un paseo por los tejados de Sevilla.")
 
 ## 1\. Pasea por los tejados de Sevilla
 
@@ -48,7 +48,7 @@ Alcázar](https://www.civitatis.com/es/sevilla/visita-guiada-alcazar/?aid=10211)
 de los misterios y 
 leyendas](https://www.civitatis.com/es/sevilla/visita-guiada-alcazar/?aid=10211). 
 
-![taller de cocina en sevilla para hacer con amigas](etheria_images/2020/09/sevilla-Taller-de-cocina.jpg "Taller de cocina en Sevilla, una actividad didáctica y divertida.")
+![taller de cocina en sevilla para hacer con amigas](etheria-images/2020/09/sevilla-Taller-de-cocina.jpg "Taller de cocina en Sevilla, una actividad didáctica y divertida.")
 
 ## 2\. Cocinar platos andaluces
 
@@ -59,7 +59,7 @@ de Abastos de Triana** y previamente realizarás una visita a sus instalaciones 
 seleccionar los productos frescos que después cocinarás. Evidentemente, al final 
 degustaréis el fruto de vuestro trabajo en un ambiente muy agradable y relajado. 
 
-![tapas en triana con amigas](etheria_images/2020/09/viaje-sevilla-tapas-por-Triana.jpg "De tapas por Triana.")
+![tapas en triana con amigas](etheria-images/2020/09/viaje-sevilla-tapas-por-Triana.jpg "De tapas por Triana.")
 
 ## 3\. Tapear por Sevilla
 
@@ -76,7 +76,7 @@ aquí han pasado Madonna y Tom Cruise). Otros locales interesantes son también 
 Giralda**, que tiene unas tapas estupendas, y **El Rinconcillo**, el bar más antiguo de 
 Sevilla. 
 
-![ruta por sevilla en bici con amigas](etheria_images/2020/09/viaje-Sevilla-en-bici.jpg "Ruta en bici por Sevilla.")
+![ruta por sevilla en bici con amigas](etheria-images/2020/09/viaje-Sevilla-en-bici.jpg "Ruta en bici por Sevilla.")
 
 ## 4\. En bici por Sevilla
 
@@ -87,7 +87,7 @@ alquilar una bici (te recomendamos el servicio Sevici) o contratar una excursió
 con bicicleta para no perderte ningún monumento esencial de esta hermosa ciudad con 
 compañías como See By Bike. 
 
-![glorieta de becquer en sevilla](etheria_images/2020/09/visitas-sevilla-Glorieta-de-Becquer.jpg "Glorieta de Bécquer, en Sevilla.")
+![glorieta de becquer en sevilla](etheria-images/2020/09/visitas-sevilla-Glorieta-de-Becquer.jpg "Glorieta de Bécquer, en Sevilla.")
 
 ## 5\. Recordar a Bécquer
 
@@ -100,7 +100,7 @@ Panteón de Sevillanos Ilustres, donde está su tumba, o la **Glorieta de Bécqu
 Parque de María Luisa**, cuya escultura se hizo en 1911 por suscripción popular. 
 Consulta esta y otras rutas en Civitatis. 
 
-![bar americano del hotel alfonso xiii](etheria_images/2020/09/Bar-Americano-Hotel-Alfonso-XIII.jpg "Bar Americano del hotel Alfonso XIII.")
+![bar americano del hotel alfonso xiii](etheria-images/2020/09/Bar-Americano-Hotel-Alfonso-XIII.jpg "Bar Americano del hotel Alfonso XIII.")
 
 ## 6\. Tomar un cóctel en el bar del Alfonso XIII
 
@@ -112,7 +112,7 @@ de cuero y terciopelo... y una impresionante barra de 10 metros. Las estrellas d
 carta son los cócteles inspirados en películas rodadas en el hotel ('_Lawrence de 
 Arabia_', '_Homero retrato intermitente_') y en personajes históricos. 
 
-![guia de Sevilla editorial almuzara](etheria_images/2020/09/libro-viaje-sevilla.jpg "'Sevilla, ciudad eterna', una obra editada por la editorial Almuzara.")
+![guia de Sevilla editorial almuzara](etheria-images/2020/09/libro-viaje-sevilla.jpg "'Sevilla, ciudad eterna', una obra editada por la editorial Almuzara.")
 
 ## 7\. Visitar Sevilla con un libro
 
@@ -124,7 +124,7 @@ lugares más célebres hasta los rincones más recónditos, para mostrar todos l
 de esta ciudad milenaria en una edición también monumental. “Es una Sevilla original que 
 se sale de los tópicos y los estereotipos”, dice su autor. 
 
-![las setas la construccion alternativa de sevilla](etheria_images/2020/09/viaje-original-sevilla-las-setas.jpg "Las Setas, el mejor mirador de Sevilla.")
+![las setas la construccion alternativa de sevilla](etheria-images/2020/09/viaje-original-sevilla-las-setas.jpg "Las Setas, el mejor mirador de Sevilla.")
 
 ## 8\. Pasear sobre las setas
 
@@ -137,7 +137,7 @@ Tiene cinco alturas y cada una tiene un interés diferente. La primera alberga e
 plaza elevada abierta a los ciudadanos, la cuarta tiene un pequeño bar y el acceso a las 
 pasarelas y en la última hay un mirador a 28,5 metros de altura. 
 
-![bienal de flamenco en sevilla](etheria_images/2020/09/viaje-sevilla-Bienal-de-Flamenco.jpg "Bienal de Flamenco en Sevilla.")
+![bienal de flamenco en sevilla](etheria-images/2020/09/viaje-sevilla-Bienal-de-Flamenco.jpg "Bienal de Flamenco en Sevilla.")
 
 ## 9\. Flamenco en Sevilla
 

@@ -1,17 +1,17 @@
 ---
 title: "eSIM para Europa, una alternativa al roaming en países como el Reino Unido"
 date: 2022-08-02
-coverImage: etheria_images/2022/07/Holafly-mujer-viaje.jpg
+coverImage: etheria-images/2022/07/Holafly-mujer-viaje.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Una de las máximas que debe guiarnos cuando organizamos un viaje es evitar problemas en destino y entre los principales asuntos que suelen dar quebraderos de cabeza está el modo de usar el teléfono. Por este motivo, te contamos cómo viajar por la Europa no comunitaria sin tener que preocuparte por tus datos gracias a las eSIMs.
 
-![mujer de viaje sonriendo con un móvil](etheria_images/2022/07/Holafly-mujer-viaje.jpg "No hay nada como viajar tranquilo sin preocuparte de los datos del móvil.")
+![mujer de viaje sonriendo con un móvil](etheria-images/2022/07/Holafly-mujer-viaje.jpg "No hay nada como viajar tranquilo sin preocuparte de los datos del móvil.")
 
 Cuando organizamos un viaje, una de las máximas que debe guiarnos es evitar problemas en 
 destino y entre los asuntos que nos suelen dar más quebraderos de cabeza está usar el 
@@ -27,7 +27,7 @@ países. Emplear las eSIMs en los viajes internacionales es tan sencillo que no 
 pena arriesgarse... ¿Quieres disfrutar de la tranquilidad de llamar desde donde quieras 
 y cuándo quieras? Te contamos todos los detalles. 
 
-![iconos de redes sociales en un móvil](etheria_images/2022/07/movil-redes-sociales.jpg "Ya no concebimos un viaje sin estar conectadas a nuestras redes sociales.")
+![iconos de redes sociales en un móvil](etheria-images/2022/07/movil-redes-sociales.jpg "Ya no concebimos un viaje sin estar conectadas a nuestras redes sociales.")
 
 ## ¿Qué sucede con el roaming fuera de la Zona 1?
 
@@ -43,7 +43,7 @@ tu móvil al bajar del avión si tienes activada la itinerancia de datos. Por es
 importante que, para evitar sustos en la factura, lo dejes desactivado antes de apagar 
 el teléfono cuando comiences el vuelo. 
 
-![pareja en el aeropuerto mirando el móvil](etheria_images/2022/07/holafly-pareja-desactivar-wifi.jpg "Es importante desactivar la itinerancia de datos del teléfono antes de volar a países fuera de la Zona 1.")
+![pareja en el aeropuerto mirando el móvil](etheria-images/2022/07/holafly-pareja-desactivar-wifi.jpg "Es importante desactivar la itinerancia de datos del teléfono antes de volar a países fuera de la Zona 1.")
 
 ### Países fuera de la UE donde el roaming no es gratis
 
@@ -60,7 +60,7 @@ presupuesto de viaje. Por ejemplo, el minuto de llamada internacional con Movist
 asciende a 4,83 Euros y con Vodafone a 3,02 Euros. Puedes consultar con detalle todas 
 las tarifas en sus páginas web. 
 
-![dos chicas con el móvil en el metro de Londres](etheria_images/2022/07/roaming-reino-unido.jpg "Algunas compañías ya no ofrecen roaming gratis en el Reino Unido.")
+![dos chicas con el móvil en el metro de Londres](etheria-images/2022/07/roaming-reino-unido.jpg "Algunas compañías ya no ofrecen roaming gratis en el Reino Unido.")
 
 ## Fin del roaming gratis en Reino Unido por Orange y Jazztel
 
@@ -93,7 +93,7 @@ países, con los mejores operadores locales y conexión ultrarrápida, por lo qu
 los viajes la posibilidad de estar permanentemente conectados sin sobresaltos por 
 posibles cargos extra en la factura. 
 
-![viajera con móvil en Roma](etheria_images/2022/07/Holafly-viajera-roma.jpg "Con las eSIMs de Holafly tendrás datos ilimitados para conectarte a internet en países como Italia.")
+![viajera con móvil en Roma](etheria-images/2022/07/Holafly-viajera-roma.jpg "Con las eSIMs de Holafly tendrás datos ilimitados para conectarte a internet en países como Italia.")
 
 Además, estas [eSIMs para internet en Europa](https://esim.holafly.com/es/esim-europa/) 
 tienen un montón de ventajas, como el poder acceder a sus planes de datos sin esperas y 
@@ -124,7 +124,7 @@ días por 99 Euros. Podrás pagar con plataformas como PayPal o ApplePay o con t
 crédito. Después, Holafly te enviará un correo electrónico con un código QR para activar 
 la eSIM. 
 
-![pareja comprando una eSIM de Holafly en la web](etheria_images/2022/07/Holafly-comprar-tarjeta.jpg "Es muy sencillo comprar las eSIM de Holafly a través de su página web.")
+![pareja comprando una eSIM de Holafly en la web](etheria-images/2022/07/Holafly-comprar-tarjeta.jpg "Es muy sencillo comprar las eSIM de Holafly a través de su página web.")
 
 ### Como instalar y activar
 
@@ -151,7 +151,7 @@ marcas de telefonía. Algunos de ellos son:
 Las eSIMs que ofrecen los operadores de móvil de España no son iguales ni en el proceso 
 de activación ni en las condiciones que nos propone Holafly. 
 
-![mujer escaneando código qr en el ordenador de una eSIM por Europa](etheria_images/2022/07/escanear-qr-codigo.jpg "Para activar la eSIM de Holafly sólo tienes que escanear el QR que te enviarán al e-mail.")
+![mujer escaneando código qr en el ordenador de una eSIM por Europa](etheria-images/2022/07/escanear-qr-codigo.jpg "Para activar la eSIM de Holafly sólo tienes que escanear el QR que te enviarán al e-mail.")
 
 La diferencia más importante es que las eSIMs locales están pensadas, de momento, para 
 sustituir las SIMs tradicionales (las tarjetas de plástico), algo que aporta una serie 

@@ -1,16 +1,16 @@
 ---
 title: "San Marco: no te pierdas ningún detalle del corazón de Venecia"
 date: 2022-06-09
-coverImage: etheria_images/2022/06/venecia-gondola-gran-canal.jpg
+coverImage: etheria-images/2022/06/venecia-gondola-gran-canal.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Venecia es una cita viajera esencial, una ciudad que por mucho que hayas leído sobre ella supera cualquier expectativa. Su corazón, el barrio de San Marco, alberga una historia fascinante y una arquitectura en su basílica y palacio que es el reflejo perfecto del poderío que tuvo este lugar. Te contamos cuáles son las visitas imprescindibles de San Marco para que aproveches el tiempo en una ciudad de la que volverás con una colección de estampas irrepetibles.
 
-![Góndola en el Gran Canal.](etheria_images/2022/06/venecia-gondola-gran-canal.jpg "Góndola en el Gran Canal. © Susana García/ Etheria Magazine")
+![Góndola en el Gran Canal.](etheria-images/2022/06/venecia-gondola-gran-canal.jpg "Góndola en el Gran Canal. © Susana García/ Etheria Magazine")
 
 La ciudad de Venecia se agolpa en un puñado de islas que, apretadas y formando lo que 
 parece un pez, parecen no ser suficientes para acoger a tantas casas y palacios. Entre 
@@ -29,7 +29,7 @@ sus estampas, sobre todo al amanecer y al atardecer, son de película. Uno de es
 lugares en el mundo que son casi imposibles de describir con palabras por la emoción que 
 transmiten. 
 
-![Laguna de Venecia con el palacio Ducal al fondo](etheria_images/2022/06/vencia-laguna-palacio-ducal.jpg "Vista del barrio de San Marco desde San Giorgio Maggiore. © S.G./ Etheria Magazine")
+![Laguna de Venecia con el palacio Ducal al fondo](etheria-images/2022/06/vencia-laguna-palacio-ducal.jpg "Vista del barrio de San Marco desde San Giorgio Maggiore. © S.G./ Etheria Magazine")
 
 ## Los barrios de Venecia
 
@@ -49,7 +49,7 @@ puente, de campo en campo. Los "campos" son las plazas abiertas de Venecia, luga
 encuentro, de niños jugando, de terrazas donde tomar un aperitivo, en sustitución de 
 unos parques imposibles en un ordenamiento urbano como el veneciano. 
 
-![canales de Venecia](etheria_images/2022/06/venecia-gondolas-643x1024.jpg "Góndolas en los canales del barrio de San Marco. © S.G./ Etheria Magazine")
+![canales de Venecia](etheria-images/2022/06/venecia-gondolas-643x1024.jpg "Góndolas en los canales del barrio de San Marco. © S.G./ Etheria Magazine")
 
 Y, entre calles y campos, los siempre presentes canales, con las puertas de las casas 
 asomando al agua y los amarres por todas partes. Puedes llegar a pensar que **un paseo 
@@ -68,7 +68,7 @@ maravillosa basílica y guarda su _campanile_, de casi cien metros de altura y a
 faro para navegantes, como una inmensa torre cuadrada que promete unas vistas de 
 infarto. 
 
-![gente paseando frente museo Correr](etheria_images/2022/06/venecia-piazza-san-marco.jpg "Piazza San Marco. © S.G./ Etheria Magazine")
+![gente paseando frente museo Correr](etheria-images/2022/06/venecia-piazza-san-marco.jpg "Piazza San Marco. © S.G./ Etheria Magazine")
 
 Entre los lugares en los que centrar la mirada, destacan la **Torre dell’Orologio** con 
 su famoso reloj, el **Museo Correr** (que guarda parte de la historia de Venecia) y, por 
@@ -93,7 +93,7 @@ y las remodelaciones que ha vivido, es un lugar cautivador. Su fachada, decorada
 característicos mosaicos que brillan como el oro, anticipa la riqueza de un interior 
 único. 
 
-![estatuas y pantocrator en San Marco](etheria_images/2022/06/venecia-san-marco-estatuas.jpg "Detalle del interior de la basílica de San Marco. © S.G./ Etheria Magazine")
+![estatuas y pantocrator en San Marco](etheria-images/2022/06/venecia-san-marco-estatuas.jpg "Detalle del interior de la basílica de San Marco. © S.G./ Etheria Magazine")
 
 Aquí, no dejes de contemplar los **mosaicos de las cúpulas**, en total 8.500 metros 
 cuadros donde predominan las teselas cubiertas con oro de 24 quilates. Acércate al 
@@ -112,7 +112,7 @@ y veían este elegante y brillante palacio de piedra blanca que parecía flotar 
 mar. Y es que este palacio fue el representante del poderío del poder ducal y sede del 
 gobierno durante más de setecientos años. 
 
-![interior del palacio ducal de Venecia](etheria_images/2022/06/palacio-ducal-sala-consejo-mayor.jpg "Sala del Consejo Mayor del Palazzo Ducale. © S.G./ Etheria Magazine")
+![interior del palacio ducal de Venecia](etheria-images/2022/06/palacio-ducal-sala-consejo-mayor.jpg "Sala del Consejo Mayor del Palazzo Ducale. © S.G./ Etheria Magazine")
 
 Su delicado exterior de aire gótico anticipa unas salas de recepción inmensas, donde los 
 embajadores hacían un recorrido preciso, desde la sala de las Cuatro Puertas pasando por 
@@ -131,7 +131,7 @@ por el famoso Puente de los Suspiros, construido en estilo barroco a principios 
 siglo XVII en el mismo momento en el que se construyeron las Nuevas Prisiones al otro 
 lado del canal. 
 
-![canal en Venecia](etheria_images/2022/06/venecia-puente-suspiros.jpg "El Puente de los Suspiros. © S.G./ Etheria Magazine")
+![canal en Venecia](etheria-images/2022/06/venecia-puente-suspiros.jpg "El Puente de los Suspiros. © S.G./ Etheria Magazine")
 
 Desde el exterior, una foto imprescindible es desde el **Ponte della Paglia**. Aunque 
 debes saber que su misión, trasladar a los presos ocultos por motivos de seguridad, 
@@ -146,7 +146,7 @@ opción. En cualquier caso, este famoso puente es una de las fotos más icónica
 Venecia, esa que todos los viajeros quieren hacer y que hace que sea uno de los lugares 
 más concurridos de la ciudad. 
 
-![gente haciéndose fotos en el Puente de Rialto](etheria_images/2022/06/venecia-puente-rialto.jpg "Puente de Rialto. © S.G./ Etheria Magazine")
+![gente haciéndose fotos en el Puente de Rialto](etheria-images/2022/06/venecia-puente-rialto.jpg "Puente de Rialto. © S.G./ Etheria Magazine")
 
 Construido a finales del siglo XVI por Alberto Ponte, atraviesa el Gran Canal para 
 llegar hasta el famoso **Mercado de Rialto**, en el barrio de San Polo, donde si te 
@@ -170,7 +170,7 @@ principal de la ciudad. Así, los _palazzos_ Grimani, Papadopoli, goldoni, Mocen
 Foscari, entre otros, muestran estilos arquitectónicos y colores diversos formando un 
 conjunto sorprendentemente armónico. 
 
-![vaporetto en el Gran Canal de Venecia](etheria_images/2022/06/venecia-gran-canal-atardecer.jpg "Atardecer en el Gran Canal. © S.G./ Etheria Magazine")
+![vaporetto en el Gran Canal de Venecia](etheria-images/2022/06/venecia-gran-canal-atardecer.jpg "Atardecer en el Gran Canal. © S.G./ Etheria Magazine")
 
 Dos de los más importantes son el el **Palazzo Grassi**, sede de la colección de arte de 
 François Pinault; y el **Palazzo Franchetti**, que muestra su herencia veneciana, 
@@ -193,7 +193,7 @@ mucha menos gente que para subir al de San Marco, por lo que es una elección pe
 para ver Venecia desde las alturas. Una vez arriba, los cuatro lados de la torre ofrecen 
 vistas maravillosas y diferentes de las islas que forman Venecia. 
 
-![Laguna de Venecia con una góndola](etheria_images/2022/06/venecia-gondola-san-giorgio-maggiore.jpg "Gondola con San Giorgio Maggiore al fondo. © S.G./ Etheria Magazine")
+![Laguna de Venecia con una góndola](etheria-images/2022/06/venecia-gondola-san-giorgio-maggiore.jpg "Gondola con San Giorgio Maggiore al fondo. © S.G./ Etheria Magazine")
 
 #### Guía de viaje barrio de San Marco | Venecia
 
@@ -217,7 +217,7 @@ en este producto, que en realidad es más típico del sur. Si no soportas la ide
 viajar a Italia y no probar una pizza, puedes acercarte a **Aquapazza**, que tiene una 
 bonita terraza en el campo de Sant’Angelo. 
 
-![terraza en Venecia](etheria_images/2022/06/venecia-campo.jpg "Campo veneciano. © SG")
+![terraza en Venecia](etheria-images/2022/06/venecia-campo.jpg "Campo veneciano. © SG")
 
 Para darte un capricho, una buena opción es **Quadrino**, donde se degustar una 
 excelente gastronomía veneciana en un bonito local y en la misma plaza de San Marco. Es 
@@ -233,7 +233,7 @@ y comerlo por la calle; y **Gelati Nico**, en el barrio Dorsoduro, al que llegar
 cruzar el puente de la Academia. Aquí, además de los helados, podrás disfrutar de su 
 bonita terraza. 
 
-![postres venecianos](etheria_images/2022/06/venecia-chocolate.jpg "Degustación de chocolates y dulces típicos en Vicio Virtù. © SG")
+![postres venecianos](etheria-images/2022/06/venecia-chocolate.jpg "Degustación de chocolates y dulces típicos en Vicio Virtù. © SG")
 
 Para probar el mejor chocolate (y te aseguramos que te lo llevarás a casa) puedes ir a 
 **Vicio Virtù**, cerca del puente de Rialto. Una chocolatería artesana con trufas y 

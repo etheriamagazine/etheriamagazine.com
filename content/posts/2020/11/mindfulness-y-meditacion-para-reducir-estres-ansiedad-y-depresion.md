@@ -1,16 +1,16 @@
 ---
 title: "Mindfulness y meditación, tus mejores aliados para reducir el estrés y la ansiedad"
 date: 2020-11-18
-coverImage: etheria_images/2020/11/pensamientos-positivos.jpg
+coverImage: etheria-images/2020/11/pensamientos-positivos.jpg
 categories: 
   - salud-bienestar-nutricion
-author: 
+authors: 
   - Maria Miret
 ---
 
 ##### El mindfulness, más allá de ser una técnica psicológica “de moda”, es una de las más efectivas para prevenir y tratar el estrés, la ansiedad o la depresión causadas por la pandemia. Es suficiente con practicar de 5 a 10 minutos diarios para conseguir resultados y mejorar la calidad de vida.
 
-![midfulness para superar el estres](etheria_images/2020/11/pensamientos-positivos.jpg "El mindfulness y la meditación nos ayudan a conocernos mejor. © Priscilla du Preez")
+![midfulness para superar el estres](etheria-images/2020/11/pensamientos-positivos.jpg "El mindfulness y la meditación nos ayudan a conocernos mejor. © Priscilla du Preez")
 
 Seguro que ya has escuchado hablar o conoces a alguien que practica mindfulness. Se 
 trata de una de las técnicas psicológicas más efectivas para la prevención y el 
@@ -28,7 +28,7 @@ Loyola y la Universidad de Málaga. Eso sí, hay que tener en cuenta que no todo
 está preparado para ofrecer una sesión, por lo que tenemos que huir de personas sin 
 formación (algo muy habitual en este tipo de técnicas). 
 
-![midfulness para combatir la ansiedad](etheria_images/2020/11/mindfulness-para-estres.jpg "Nuestros pensamientos pueden ser los peores enemigos. © Kitera Dent")
+![midfulness para combatir la ansiedad](etheria-images/2020/11/mindfulness-para-estres.jpg "Nuestros pensamientos pueden ser los peores enemigos. © Kitera Dent")
 
 ## ¿Por qué es necesario el mindfulness en tiempos de pandemia?
 
@@ -45,7 +45,7 @@ vulnerables a la hora de desarrollar miedos y fobias. Así lo aseguró el Psiqui
 Gutiérrez Rojas en el webinar “Salud Mental: abordaje desde Primaria y Mindfulness” de 
 Lundbeck Academy. Si tenéis hijos, hay que estar atentas a su comportamiento. 
 
-![profesionales de mindfulness](etheria_images/2020/11/midfulness-para-ansiedad.jpg "Confía solo en personas con formación en Mindfulness. © Alvin Mahmudov")
+![profesionales de mindfulness](etheria-images/2020/11/midfulness-para-ansiedad.jpg "Confía solo en personas con formación en Mindfulness. © Alvin Mahmudov")
 
 ## Cómo es una consulta de mindfulness
 
@@ -65,7 +65,7 @@ los objetivos marcados terapéuticamente. A partir de ahí surgen otros concepto
 compasión, la aceptación, se aprende a soltar pensamientos, a ceder… y, una vez 
 finalizada la sesión, se le dan ejercicios para que practique durante la semana. 
 
-![meditacion en entornos naturales](etheria_images/2020/11/meditacion-naturaleza.jpg "Meditar en la naturaleza ayuda a tu bienestar. © Simon Migaj")
+![meditacion en entornos naturales](etheria-images/2020/11/meditacion-naturaleza.jpg "Meditar en la naturaleza ayuda a tu bienestar. © Simon Migaj")
 
 ## Aprender a relacionarse con los pensamientos
 
@@ -86,7 +86,7 @@ fuerte. Cuesta trabajo, porque la preocupación hace que estemos rígidos. Estan
 sosegados somos más capaces de manejar las emociones”. Ese bienestar emocional es el que 
 debemos buscar porque aporta consecuencias positivas en el plano físico. 
 
-![midfulness para superar las crisis](etheria_images/2020/11/pensamientos-negativos-midfulness.jpg "Centrarse en lo importante, una de las claves en situaciones de crisis. © Nik Shuliahin")
+![midfulness para superar las crisis](etheria-images/2020/11/pensamientos-negativos-midfulness.jpg "Centrarse en lo importante, una de las claves en situaciones de crisis. © Nik Shuliahin")
 
 ## Centrarse en lo importante
 
@@ -112,7 +112,7 @@ negativos respecto a nosotros mismos e ideas pesimistas al pensar en el futuro o
 nuestro pasado. Con frecuencia la atención se focaliza sólo en el problema y nos 
 olvidamos de lo demás, aumentando nuestro malestar. 
 
-![meditacion para evitar sufrimiento](etheria_images/2020/11/meditacion-felicidad.jpg "La meditación puede servir para evitar un sufrimiento añadido. © Jacob Townsend")
+![meditacion para evitar sufrimiento](etheria-images/2020/11/meditacion-felicidad.jpg "La meditación puede servir para evitar un sufrimiento añadido. © Jacob Townsend")
 
 Cuando practicamos **meditación** con una cierta asiduidad podemos darnos cuenta de lo 
 que sucede y evitar ese sufrimiento añadido. Gracias a la conciencia que cultivamos al 

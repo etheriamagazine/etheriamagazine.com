@@ -1,19 +1,19 @@
 ---
 title: "Madeira con amigas, 10 experiencias para una escapada corta"
 date: 2019-04-19
-coverImage: etheria_images/2019/04/madeira-Pico-do-Areeiro.jpg
+coverImage: etheria-images/2019/04/madeira-Pico-do-Areeiro.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Un viaje a Madeira con amigas es lo que necesitas en cualquier momento del año para recuperar la energía entre sus montañas, relajarte en la playa y disfrutar de la buena mesa portuguesa. Además, en algunos momentos incluso hay vuelos directos desde España a Funchal, la capital del archipiélago. ¿Necesitas más motivos para hacer las maletas? ¡Aquí tienes 10 experiencias que se pueden hacer en unos 3 o 4 días!
 
-![Mirador de la levada de Ribeiro Frío.](etheria_images/2019/04/Madeira-mirador-ruta-levadas.jpg "Mirador de la levada de Ribeiro Frío.")
+![Mirador de la levada de Ribeiro Frío.](etheria-images/2019/04/Madeira-mirador-ruta-levadas.jpg "Mirador de la levada de Ribeiro Frío.")
 
 Si estás empezando a organizar un viaje a Madeira con amigas, te ponemos un poquito en 
 contexto. El archipiélago madeirense se encuentra a unos mil kilómetros de Lisboa y está 
@@ -26,7 +26,7 @@ natural en 1971, se requiere una autorización para visitarlas. Para lo que no
 necesitarás ningún permiso (sólo tener completa la pauta de vacunas) es para hacer una 
 escapada a Madeira y pasarlo en grande. 
 
-![Fachada marítima de Funchal.](etheria_images/2019/04/Madeira-desde-el-mar.jpg "Fachada marítima de Funchal.")
+![Fachada marítima de Funchal.](etheria-images/2019/04/Madeira-desde-el-mar.jpg "Fachada marítima de Funchal.")
 
 ## 10 experiencias en Madeira con amigas
 
@@ -41,7 +41,7 @@ toda velocidad en un 'carro de cesto' empujado por un carreiro, el Museo de Cris
 Ronaldo (si te gusta el fútbol), una visita al Centro de Arte de Nini Andrade o el 
 Mercado de los Labradores. 
 
-![levada de ribeiro frio](etheria_images/2019/04/Madeira-paisaje-de-levada.jpg "Ruta senderista de la levada de Ribeiro Frío.")
+![levada de ribeiro frio](etheria-images/2019/04/Madeira-paisaje-de-levada.jpg "Ruta senderista de la levada de Ribeiro Frío.")
 
 ### 2\. Senderismo por las levadas
 
@@ -53,7 +53,7 @@ levadas se incluyen dentro de las áreas protegidas de la isla. Te sugerimos hac
 tramo que parte de Ribeiro Frío, transcurre entre laurisilva y culmina en un maravilloso 
 mirador. 
 
-![Vista desde el teleférico de Faja dos Padres.](etheria_images/2019/04/Madeira-Faja-dos-Padres.jpg "Vista desde el teleférico de Faja dos Padres.")
+![Vista desde el teleférico de Faja dos Padres.](etheria-images/2019/04/Madeira-Faja-dos-Padres.jpg "Vista desde el teleférico de Faja dos Padres.")
 
 ### 3\. Relax en Faja dos Padres
 
@@ -66,7 +66,7 @@ seguir hasta una playa de guijarros y un restaurante (no dejes de pedir el pesca
 brasa y los helados de frutas). Este rincón invita a la tranquilidad, a pasear por su 
 pequeño malecón, a darse un baño y a disfrutar del silencio. Absolutamente maravilloso. 
 
-![Paisaje de la punta de San Lorenzo](etheria_images/2019/04/Punta-San-Lorenzo-Madeira.jpg "Ponta de São Lourenço.")
+![Paisaje de la punta de San Lorenzo](etheria-images/2019/04/Punta-San-Lorenzo-Madeira.jpg "Ponta de São Lourenço.")
 
 ### 4\. Vistas desde la ponta de São Lourenço
 
@@ -76,7 +76,7 @@ obtendrás unas estupendas panorámicas de los acantilados. El color cambia en f
 cómo incida el sol. Las agujas de piedra que emergen del agua completan la imagen. Toda 
 esta zona está protegida como reserva natural y se pueden ver focas monje. 
 
-![Vistas desde el Pico do Areeiro,una excursión básica en un viaje con amigas](etheria_images/2019/04/madeira-Pico-do-Areeiro.jpg "Pico do Areeiro. © O.T. Madeira")
+![Vistas desde el Pico do Areeiro,una excursión básica en un viaje con amigas](etheria-images/2019/04/madeira-Pico-do-Areeiro.jpg "Pico do Areeiro. © O.T. Madeira")
 
 ### 5\. Visita del Pico do Areeiro
 
@@ -86,7 +86,7 @@ tiempo no acompaña es mejor no subir ya que el viento a ese nivel sopla fuerte 
 apenas se ve nada. Arriba hay un bar y una tienda de regalos donde esperar por si 
 cambian las condiciones meteorológicas. 
 
-![Viviendas típicas de Santana con tejado de paja](etheria_images/2019/04/santana-madeira.jpg "Viviendas típicas de Madeira.")
+![Viviendas típicas de Santana con tejado de paja](etheria-images/2019/04/santana-madeira.jpg "Viviendas típicas de Madeira.")
 
 ### 6\. Conocer las casas de Santana
 
@@ -97,7 +97,7 @@ la iglesia de Santa Ana. Alrededor de la misma los campesinos fueron construyend
 casas con tejados de paja, jardines y ventanas de colores. Actualmente quedan muy pocas 
 habitadas por familias autóctonas. 
 
-![Mirador de Cabo Girão.](etheria_images/2019/04/madeira-Cabo-Girao.jpg "Mirador de Cabo Girão. © O.T. Madeira")
+![Mirador de Cabo Girão.](etheria-images/2019/04/madeira-Cabo-Girao.jpg "Mirador de Cabo Girão. © O.T. Madeira")
 
 ### 7\. Mirador de Cabo Girão
 
@@ -105,7 +105,7 @@ Si no sufres de vértigo, acércate al Cabo Girão para caminar por la plataform
 cristal situada a casi 600 metros de altitud. Las vistas de los acantilados y de la 
 ciudad al fondo, son inolvidables. 
 
-![Espetada en Chalet Vicente Restaurant](etheria_images/2019/04/espetada-madeira.jpg "Espetada en Chalet Vicente Restaurant.")
+![Espetada en Chalet Vicente Restaurant](etheria-images/2019/04/espetada-madeira.jpg "Espetada en Chalet Vicente Restaurant.")
 
 ### 8\. Probar la espetada y el bolo-do-caco
 
@@ -119,7 +119,7 @@ pastel de queso. Los vinos de Madeira son suaves y con un sabor muy singular, pr
 Tras una cena copiosa, nada mejor que tomar una poncha, una bebida local a base de 
 aguardiente y fruta. 
 
-![Vajilla para tomar el té en el hotel Belmond Reid’s Palace](etheria_images/2019/04/madeira-Tomar-te-en-Reids-Palace-Madeira.jpg "Tomar el té con glamour.")
+![Vajilla para tomar el té en el hotel Belmond Reid’s Palace](etheria-images/2019/04/madeira-Tomar-te-en-Reids-Palace-Madeira.jpg "Tomar el té con glamour.")
 
 ### 9\. Tomar el té como una marquesa
 
@@ -129,7 +129,7 @@ clásico para disfrutar de una merienda donde no falta una amplia variedad de t�
 bocados dulces y salados (desde 36 euros/persona). El servicio es tan exquisito como la 
 porcelana o el ambiente de este histórico establecimiento. 
 
-![Playa de Porto Santo](etheria_images/2019/02/Porto-santo-playas-e1555622698733.jpg "La playa de Porto Santo tiene 9 km de arena dorada.")
+![Playa de Porto Santo](etheria-images/2019/02/Porto-santo-playas-e1555622698733.jpg "La playa de Porto Santo tiene 9 km de arena dorada.")
 
 ### 10\. Ir a la playa de Porto Santo
 
@@ -157,7 +157,7 @@ pierdas las vistas desde la piscina de su terraza ni los masajes que ofrece en s
 Palace, el hotel más exclusivo de 
 Madeira](https://etheriamagazine.com/2018/12/29/belmond-reids-palace-el-mejor-hotel-de-madeira/). 
 
-![Vistas desde el hotel The Vine](etheria_images/2019/04/hotel-vine-madeira.jpg "Vistas desde el hotel The Vine (Funchal).")
+![Vistas desde el hotel The Vine](etheria-images/2019/04/hotel-vine-madeira.jpg "Vistas desde el hotel The Vine (Funchal).")
 
 ##### Dónde comer en Madeira
 

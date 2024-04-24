@@ -1,13 +1,13 @@
 ---
 title: "Etxeko by Martín Berasategui, tu próximo restaurante para cenar con amigas en Madrid"
 date: 2020-03-10
-coverImage: etheria_images/2020/03/menu-degustacion-etxeko-1.jpg
+coverImage: etheria-images/2020/03/menu-degustacion-etxeko-1.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Etxeko, el único restaurante que tiene el chef Martín Berasategui en la capital 
@@ -16,13 +16,13 @@ experiencia gourmet creada por el único cocinero español con 12 estrellas Mich
 tan prohibitivo como podría parecer. Este puede ser un excelente restaurante para cenar 
 con amigas (y glamour) en Madrid. Juzga por ti misma tras ver los siguientes datos. 
 
-\[caption id="attachment\_16744" align="aligncenter" width="750"\]![restaurante etxeko, hotel bless madrid, martin berasategui](etheria_images/2020/03/Etxeko-Madrid-3.jpg "Martín Berasategui en restaurante Etxeko del Bless Hotel Madrid.") Martín Berasategui en el restaurante Etxeko del Bless Hotel Madrid.\[/caption\]
+\[caption id="attachment\_16744" align="aligncenter" width="750"\]![restaurante etxeko, hotel bless madrid, martin berasategui](etheria-images/2020/03/Etxeko-Madrid-3.jpg "Martín Berasategui en restaurante Etxeko del Bless Hotel Madrid.") Martín Berasategui en el restaurante Etxeko del Bless Hotel Madrid.\[/caption\]
 
 El espacio que enmarca a **Etxeko**, el restaurante gourmet de Berasategui, no podría ser más idóneo, tanto por su ubicación, en plena calle Velázquez, como por su decoración y detalles. El [Bless Hotel Madrid](https://www.blesscollectionhotels.com/es/madrid/bless-hotel-madrid) acoge este templo gastronómico desde hace aproximadamente un año. En este tiempo la oferta se ha adaptado y pulido para ofrecer los mejores menús degustación y otras experiencias selectas a lo largo del año.
 
 Para quien no lo sepa, Martín Berasategui nació y tuvo sus primeros contactos con la cocina en San Sebastián, donde sus padres regentaban una casa de comidas. Allí mismo, en el Bodegón Alejandro, obtuvo su primera estrella Michelin. Después de esa cayeron otras 11 que reparte entre 6 de los [12 restaurantes](https://www.martinberasategui.com/es/otros-restaurantes) que firma. Como buen padre reparte su cariño entre todos ellos y los visita a menudo. En Madrid cuenta con un equipo de cocina liderado por Esteban González, como chef ejecutivo; Jaime Villanueva, que es el jefe de cocina; Javier Gil, un concienzudo maître; y Cristina de la Calle, una gran sumiller.
 
-\[caption id="attachment\_16745" align="aligncenter" width="900"\]![Restaurante Etxeko, Bless Hotel Madrid, cenar con amigas madrid](etheria_images/2020/03/Etxeko-Madrid.jpg "Restaurante Etxeko del Bless Hotel Madrid.") Restaurante Etxeko del Bless Hotel Madrid.\[/caption\]
+\[caption id="attachment\_16745" align="aligncenter" width="900"\]![Restaurante Etxeko, Bless Hotel Madrid, cenar con amigas madrid](etheria-images/2020/03/Etxeko-Madrid.jpg "Restaurante Etxeko del Bless Hotel Madrid.") Restaurante Etxeko del Bless Hotel Madrid.\[/caption\]
 
 ## Menús degustación del restaurante Etxeko
 
@@ -30,11 +30,11 @@ Los nuevos menús degustación, que se pueden tomar ya en Etxeko, muestran influ
 
 El **menú degustación de Etxeko**, que significa hogar, está compuesto por platos como la ensalada tibia de perdiz y setas escabechadas; la yema de huevo de corral bañada con carbonara de hierbas, velo untuoso, toques de remolacha y queso ahumado; el taco de lubina reposado en marinera de percebes, crujiente de yema trufada y extracto de trigueros; o el lomo de ciervo al carbón, reposado sobre una mermelada de cerezas y teja de remolacha. Los postres también merecen una mención aparte, ya que ofrecen una rica esencia fría de albahaca con sorbete de lima y un bizcocho húmedo de avellana, con whisky y oro. Además, este menú se adapta a las necesidades horarias de la clientela, ya que se puede degustar tanto en comidas (a partir de las 13.30 horas) como en cenas (desde las 20:30 horas). [Desde 105 €.](http://tidd.ly/16e485a5)
 
-\[caption id="attachment\_16746" align="aligncenter" width="750"\]![restaurante etxeko, hotel bless madrid, martin berasategui, cena amigas madrid](etheria_images/2020/03/menu-degustacion-etxeko-1.jpg "Milhojas caramelizado de anguila ahumada, foie gras, cebolleta y Manzana verde.") Milhojas caramelizadas de anguila ahumada, foie gras, cebolleta y manzana verde.\[/caption\]
+\[caption id="attachment\_16746" align="aligncenter" width="750"\]![restaurante etxeko, hotel bless madrid, martin berasategui, cena amigas madrid](etheria-images/2020/03/menu-degustacion-etxeko-1.jpg "Milhojas caramelizado de anguila ahumada, foie gras, cebolleta y Manzana verde.") Milhojas caramelizadas de anguila ahumada, foie gras, cebolleta y manzana verde.\[/caption\]
 
 Una comida así de exquisita precisa de un maridaje especial para la ocasión. Esta cuestión no debe preocuparte porque entre las 300 referencias que guarda el Bless Hotel Madrid hay para todos los gustos, tanto para paladares tradicionales como para aquellos que prefieren que les sorprendan. En esta selección, déjate aconsejar por el conocimiento de **Cristina de la Calle**, quien no solo te dará las mejores recomendaciones sino que te contará decenas de detalles interesantes de todos los vinos, sin perder en ningún momento la sonrisa ni la humildad que la caracteriza. De esta manera, cada bocado y cada sorbo crearán instantes inolvidables.
 
-\[caption id="attachment\_16776" align="aligncenter" width="700"\]![restaurante etxeko, madrid](etheria_images/2020/03/cristina-calle-sumiller-etxeko.jpg "Cristina de la Calle, sumiller de Etxeko Madrid by Martín Berasategui.") Cristina de la Calle, sumiller de Etxeko Madrid by Martín Berasategui.\[/caption\]
+\[caption id="attachment\_16776" align="aligncenter" width="700"\]![restaurante etxeko, madrid](etheria-images/2020/03/cristina-calle-sumiller-etxeko.jpg "Cristina de la Calle, sumiller de Etxeko Madrid by Martín Berasategui.") Cristina de la Calle, sumiller de Etxeko Madrid by Martín Berasategui.\[/caption\]
 
 Además de los nuevos sabores del menú degustación, Etxeko Madrid by Martín Berasategui ofrece otra propuesta más reducida y económica: el **Menú Business Experience** ([desde 60 €](http://tidd.ly/16e485a5) ), que incluye dos aperitivos, dos entrantes, un plato principal a elegir, postre, servicio de pan y bebidas. Eso sí, sólo se puede tomar en la hora del almuerzo y de martes a viernes.
 
@@ -44,7 +44,7 @@ Si, además, quieres darle una sorpresa a alguien o darte el gustazo a ti misma,
 
 **¿Las próximas fechas?** 29 de abril, 23 de septiembre y 11 de noviembre de 2020. A partir de las 20:30 horas.
 
-\[caption id="attachment\_16748" align="aligncenter" width="750"\]![restaurante etxeko, hotel bless madrid, martin berasategui](etheria_images/2020/03/menu-degustacion-etxeko-3.jpg "Taco de lubina reposado en marinera de percebes, crujiente de yema trufada y extracto de trigueros.") Taco de lubina reposado en marinera de percebes, crujiente de yema trufada y extracto de trigueros.\[/caption\]
+\[caption id="attachment\_16748" align="aligncenter" width="750"\]![restaurante etxeko, hotel bless madrid, martin berasategui](etheria-images/2020/03/menu-degustacion-etxeko-3.jpg "Taco de lubina reposado en marinera de percebes, crujiente de yema trufada y extracto de trigueros.") Taco de lubina reposado en marinera de percebes, crujiente de yema trufada y extracto de trigueros.\[/caption\]
 
 ## Cómo completar la degustación
 

@@ -1,18 +1,18 @@
 ---
 title: "Una maleta para... Costa Rica"
 date: 2018-05-28
-coverImage: etheria_images/2018/05/costa-rica-maleta-puente-colgante.jpg
+coverImage: etheria-images/2018/05/costa-rica-maleta-puente-colgante.jpg
 categories: 
   - que-llevar-en-la-maleta
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Cuando empiezas a planificar la maleta antes de viajar a Costa Rica seguro que te surgen 
 dudas. Aquí te damos algunas claves de aquello que no puede faltarte y de lo que no vas 
 a usar en ningún caso para que no cargues en exceso la maleta. 
 
-![Puente colgante en Costa Rica.](etheria_images/2018/05/costa-rica-maleta-puente-colgante.jpg "Puente colgante en Costa Rica.")
+![Puente colgante en Costa Rica.](etheria-images/2018/05/costa-rica-maleta-puente-colgante.jpg "Puente colgante en Costa Rica.")
 
 Costa Rica es uno de esos países para los que hay que pensarse muy bien qué meter en la 
 maleta, ya que cuenta con un clima completamente diferente al que estamos habituados. Al 
@@ -29,7 +29,7 @@ se mantiene entre los 20 y los 30ºC, aunque varía con la altura y en la costa 
 sube, algo que puede ser molesto si se combina con la alta humedad. **Muchos elegimos la 
 temporada lluviosa para viajar**, por lo que hay que ir preparados. 
 
-![maleta para Costa Rica](etheria_images/2018/05/costa-rica-maleta-chubasquero.jpg "Chubasquero de mujer disponible en Amazon.")
+![maleta para Costa Rica](etheria-images/2018/05/costa-rica-maleta-chubasquero.jpg "Chubasquero de mujer disponible en Amazon.")
 
 La mayoría de los días la lluvia aparece sólo por la tarde en forma de breve tormenta 
 tropical. Eso en Costa Rica no molesta, forma parte de ese paisaje verde intenso, sobre 
@@ -52,7 +52,7 @@ mosquitos) y calcetines de sobra por si se mojan. ¡Y no olvides algún bañador
 Siempre apetece un baño en la piscina del hotel al llegar de una excursión y si vas al 
 Volcán Arenal será imprescindible para disfrutar de sus aguas termales. 
 
-![maleta para Costa Rica](etheria_images/2018/05/costa-rica-maleta-sandalia.jpg "Sandalias de trekking disponibles en Amazon.")
+![maleta para Costa Rica](etheria-images/2018/05/costa-rica-maleta-sandalia.jpg "Sandalias de trekking disponibles en Amazon.")
 
 Para el calzado se pueden llevar unas botas de treking o unas deportivas que sean 
 sufridas, aunque el mejor calzado que he encontrado para este tipo de viajes en la 
@@ -68,7 +68,7 @@ protección solar todos los días. Y en un destino tan ecológico si se eligen u
 respetuosos con el medio ambiente como los de **Coola**, sin oxibenzona, nanopartículas 
 y parabenos, mucho mejor. 
 
-![maleta para Costa Rica](etheria_images/2018/05/mineral-sport-spf30-citrus-mimosa-3oz-box-tube.jpg "Mineral Sport SPF30 Citrus Mimosa (39 €)")
+![maleta para Costa Rica](etheria-images/2018/05/mineral-sport-spf30-citrus-mimosa-3oz-box-tube.jpg "Mineral Sport SPF30 Citrus Mimosa (39 €)")
 
 También conviene llevar en la maleta para Costa Rica gorra o sombrero y gafas de sol. En 
 Costa Rica hay mosquitos (aunque muchos menos de los que yo esperaba): basta con un 

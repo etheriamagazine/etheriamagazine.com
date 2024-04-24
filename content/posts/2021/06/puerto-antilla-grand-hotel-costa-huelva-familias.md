@@ -1,18 +1,18 @@
 ---
 title: "Puerto Antilla Grand Hotel, un oasis en la costa de Huelva"
 date: 2021-06-03
-coverImage: etheria_images/2021/06/puerto-antilla-grand-hotel-noche.jpg
+coverImage: etheria-images/2021/06/puerto-antilla-grand-hotel-noche.jpg
 categories: 
   - organiza-tu-viaje
   - viaje-en-familia
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Enmarcado por la línea de arena dorada de la playa de Islantilla y por el azul del Atlántico, el Puerto Antilla Grand Hotel aparece ante nuestra mirada como un oasis que invita a disfrutar del placer más hedonista. En familia, en pareja o con amigos, este hotel del litoral onubense es una excelente opción para tus próximas vacaciones.
 
-![noche Puerto Antilla Grand Hotel](etheria_images/2021/06/puerto-antilla-grand-hotel-noche.jpg "Imagen nocturna del complejo hotelero.")
+![noche Puerto Antilla Grand Hotel](etheria-images/2021/06/puerto-antilla-grand-hotel-noche.jpg "Imagen nocturna del complejo hotelero.")
 
 Piensa durante unos segundos qué necesitas para ser un poquito más feliz en tus próximas 
 vacaciones. Si la primera imagen que llega a tu mente es una playa infinita de arena 
@@ -25,7 +25,7 @@ todos los protocolos sanitarios requeridos, y tiene habitaciones amplias, restau
 piscinas, spa y entretenimiento para niños y mayores. ¿Necesitas añadir algo más a tu 
 sueño? Te contamos con detalle lo que podrás encontrar en el Puerto Antilla Grand Hotel. 
 
-![junior suite Puerto Antilla Grand Hotel](etheria_images/2021/06/puerto-antilla-grand-hotel-salon-familiar.jpg "Junior suite del Puerto Antilla Grand Hotel.")
+![junior suite Puerto Antilla Grand Hotel](etheria-images/2021/06/puerto-antilla-grand-hotel-salon-familiar.jpg "Junior suite del Puerto Antilla Grand Hotel.")
 
 ## Habitaciones del Puerto Antilla Grand Hotel
 
@@ -39,7 +39,7 @@ quieren gozar de una estancia inolvidable; o las espectaculares **junior suites 
 vistas al mar**, que tienen 40 metros cuadrados, ideales para compartir si viajas con 
 niños. 
 
-![piscina del Puerto Antilla Grand Hotel](etheria_images/2021/06/puerto-antilla-grand-hotel-general.jpg "Piscinas del Puerto Antilla Grand Hotel.")
+![piscina del Puerto Antilla Grand Hotel](etheria-images/2021/06/puerto-antilla-grand-hotel-general.jpg "Piscinas del Puerto Antilla Grand Hotel.")
 
 ## Piscinas, gimnasio y spa 
 
@@ -49,7 +49,7 @@ dejar que los niños jueguen sin el peligro del océano, en el Puerto Antilla Gr
 encontrarás cinco grandes piscinas: una de adultos, dos de actividades, una climatizada 
 cubierta y otra para los más pequeños. 
 
-![piscina interior Puerto Antilla Grand Hotel](etheria_images/2021/06/puerto-antilla-grand-hotel-piscina-interior.jpg "Piscina cubierta del Puerto Antilla Grand Hotel.")
+![piscina interior Puerto Antilla Grand Hotel](etheria-images/2021/06/puerto-antilla-grand-hotel-piscina-interior.jpg "Piscina cubierta del Puerto Antilla Grand Hotel.")
 
 Otros dos lugares que también dan alegrías en este hotel de la costa de Huelva son las 
 **pistas deportivas**, donde jugar algún partido de pádel, o de golf en un campo de 27 
@@ -60,7 +60,7 @@ jacuzzi, piscina climatizada, baño turco, ducha de cubo, ducha nebulizada, duch
 corporal, ducha de aromaterapia, y, entre otras opciones, una sauna finlandesa. Te 
 quedarás como nueva. Garantizado. 
 
-![Restaurante del Puerto Antilla](etheria_images/2021/06/restaurante-puerto-antilla-grand-hotel.jpg "Restaurante del Puerto Antilla.")
+![Restaurante del Puerto Antilla](etheria-images/2021/06/restaurante-puerto-antilla-grand-hotel.jpg "Restaurante del Puerto Antilla.")
 
 ## Sabores de la tierra
 
@@ -79,7 +79,7 @@ litoral. Y, para terminar una velada perfecta –o tras una relajada comida–, 
 posibilidad de tomar un **cóctel en el Bar Golf,** situado frente al jardín (abre de 10 
 de la mañana a 12 de la noche). 
 
-![piscinas Puerto Antilla Grand Hotel](etheria_images/2021/06/piscinas-mar-puerto-antilla-grand-hotel.jpg "Vista general del Puerto Antilla Grand Hotel con el mar al fondo.")
+![piscinas Puerto Antilla Grand Hotel](etheria-images/2021/06/piscinas-mar-puerto-antilla-grand-hotel.jpg "Vista general del Puerto Antilla Grand Hotel con el mar al fondo.")
 
 ## Un hotel para familias en Huelva
 
@@ -90,7 +90,7 @@ encontrarás zona de recreo infantil con toboganes y columpios, salas de juegos
 interiores, minidisco con animadores que les enseñarán coreografías, y un Mini Club (de 
 4 a 12 años) donde aprenderán en talleres divertidos y didácticos. 
 
-![fachada Puerto Antilla Grand Hotel](etheria_images/2021/06/puerto-antilla-grand-hotel-1.jpg "Entrada del Puerto Antilla Grand Hotel.")
+![fachada Puerto Antilla Grand Hotel](etheria-images/2021/06/puerto-antilla-grand-hotel-1.jpg "Entrada del Puerto Antilla Grand Hotel.")
 
 ## Qué visitar desde el Puerto Antilla Grand Hotel
 

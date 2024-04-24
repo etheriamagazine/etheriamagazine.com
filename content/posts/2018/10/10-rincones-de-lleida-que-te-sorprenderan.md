@@ -1,13 +1,13 @@
 ---
 title: "10 rincones de Lleida que te sorprenderán"
 date: 2018-10-10
-coverImage: etheria_images/2018/10/globo-sierra-del-montsec.jpg
+coverImage: etheria-images/2018/10/globo-sierra-del-montsec.jpg
 categories: 
   - viajes-48-horas
   - viajes-ecoturismo
   - de-un-vistazo
   - planes-cultura-ocio
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -17,7 +17,7 @@ cumbres y, una vez mansas, crean un auténtico vergel agrícola. Estás ante un 
 formado por estelas humanas, naturales, históricas y culturales. Sólo tienes que dejarte 
 llevar y hacer un viaje a Lleida para sentir cómo te enamora este territorio. 
 
-![Flores de los melocotoneros del Bajo Segre.](etheria_images/2019/03/Fruiturismo-lleida.jpg "Flores de los melocotoneros del Bajo Segre.")
+![Flores de los melocotoneros del Bajo Segre.](etheria-images/2019/03/Fruiturismo-lleida.jpg "Flores de los melocotoneros del Bajo Segre.")
 
 La riqueza natural y cultural de la provincia de Lleida es incuestionable. En esta 
 tierra, que parte de las cumbres pirenaicas y desciende por fértiles valles, son 
@@ -35,7 +35,7 @@ tener cuidado porque ambos son considerados puertas de entrada al infierno. En e
 ibones o lagos de montaña, que gozan de una espectacular belleza de alta montaña, es 
 habitual que el macho cabrío corteje a las hembras sin pudor. 
 
-![Pueblo de Tavascán, en Lleida.](etheria_images/2018/10/051-LLEIDA-772x1024.jpg "Pueblo de Tavascán, en Lleida.")
+![Pueblo de Tavascán, en Lleida.](etheria-images/2018/10/051-LLEIDA-772x1024.jpg "Pueblo de Tavascán, en Lleida.")
 
 ## 2\. Huele el oro de Les Garrigues
 
@@ -49,7 +49,7 @@ del mundo**. Los campos se tiñen del malva de las flores del azafrán a comienz
 invierno. Con el primer rayo de sol muestran sus pistilos de color rojizo, forjando una 
 imagen que nunca olvidarás. 
 
-![Azafrán](etheria_images/2018/10/azafran-lleida-1024x683.jpg "El azafrán es el oro de estas montañas.")
+![Azafrán](etheria-images/2018/10/azafran-lleida-1024x683.jpg "El azafrán es el oro de estas montañas.")
 
 ## 3\. Baila al ritmo del acordeón en la Sierra del Cadí
 
@@ -61,7 +61,7 @@ falta en las fiestas. Cuando el acordeón vuelve a resonar en las plazuelas de e
 pueblo, asentado en las faldas de la **sierra del Cadí**, sus melodías viajan por la 
 cordillera del Pirineo. 
 
-![Artur Blasco, Accordion Museum, Arseguel Village, Cadi-Moixero Natural Park, Alt Urgell, Lleida, Catalunya, Spain](etheria_images/2018/10/acordeon-sierra-del-cadi-1024x683.jpg "Museo del Acordeón.")
+![Artur Blasco, Accordion Museum, Arseguel Village, Cadi-Moixero Natural Park, Alt Urgell, Lleida, Catalunya, Spain](etheria-images/2018/10/acordeon-sierra-del-cadi-1024x683.jpg "Museo del Acordeón.")
 
 ## 4\. Hazte un selfie en rosa en el Bajo Segre
 
@@ -74,7 +74,7 @@ belleza de las flores de los frutales. No te despistes, apenas dura tres semanas
 que tienes las puertas abiertas al campo para practicar 'fruiturismo'. Una parada 
 imprescindible en tu viaje a Lleida. 
 
-![Florecen los melocotoneros en el Bajo Segre.](etheria_images/2018/10/primavera-bajo-segre-lleida-1024x683.jpg "Florecen los melocotoneros en el Bajo Segre.")
+![Florecen los melocotoneros en el Bajo Segre.](etheria-images/2018/10/primavera-bajo-segre-lleida-1024x683.jpg "Florecen los melocotoneros en el Bajo Segre.")
 
 ## 5\. Vuela en globo por la Sierra del Montsec
 
@@ -87,7 +87,7 @@ que no hay carreteras que atraviesen la sierra. Desde el cielo, sin embargo, ten
 sierra para ti solo, con perspectivas únicas del **valle de Ager** y de pueblos con 
 encanto como **La Baronia de Sant Oisme**. 
 
-![globo en la Sierra del Montsec.](etheria_images/2018/10/globo-sierra-del-montsec-1024x683.jpg "Sobrevolando el globo la Sierra del Montsec.")
+![globo en la Sierra del Montsec.](etheria-images/2018/10/globo-sierra-del-montsec-1024x683.jpg "Sobrevolando el globo la Sierra del Montsec.")
 
 ## 6\. Admira el románico más secreto en Estamariu
 
@@ -100,7 +100,7 @@ vegetación que la envolvió hasta 1993 protegieron unos maravillosos frescos qu
 a un Cristo y a mártires y apóstoles con la Virgen. Esta obra de arte pintada en su 
 ábside no permaneció ajena al paso del tiempo pero sí a los agresores. 
 
-![Frescos de la iglesia de Sant Vicenç, en Estamariu.](etheria_images/2018/10/romanico-lleida-1024x781.jpg "Frescos de la iglesia de Sant Vicenç, en Estamariu.")
+![Frescos de la iglesia de Sant Vicenç, en Estamariu.](etheria-images/2018/10/romanico-lleida-1024x781.jpg "Frescos de la iglesia de Sant Vicenç, en Estamariu.")
 
 ## 7\. Viaja al pasado rupestre en la cueva de El Cogul
 
@@ -112,7 +112,7 @@ registrados en sus pinturas rupestres de la Roca de los Moros. Animales, ritos d
 fertilidad y mujeres con aspecto africano son los principales motivos pictóricos, de los 
 42 visibles, ante los que quedarás embelesada. 
 
-![Tumbas del Saladar, Valle del Set, El Cogul, Les Garrigues, Lleida, Catalunya, Spain](etheria_images/2018/10/cueva-el-cogull-lleida-1024x683.jpg "Tumbas del Saladar, en el Valle del Set (El Cogul, Lleida).")
+![Tumbas del Saladar, Valle del Set, El Cogul, Les Garrigues, Lleida, Catalunya, Spain](etheria-images/2018/10/cueva-el-cogull-lleida-1024x683.jpg "Tumbas del Saladar, en el Valle del Set (El Cogul, Lleida).")
 
 ## 8\. Camina con los buenos hombres y mujeres por el valle de Gósol
 
@@ -125,7 +125,7 @@ donde aún se puede ver la **Torre del Castillo**, un magnífico mirador hacia e
 la legendaria montaña **Pedraforca**. Si tienes la posiblidad, no dejes de caminar un 
 tramo del _Camí dels Bons Homes_ a su paso por el valle. 
 
-![Villa de Gósol desde la Torre del Castillo.](etheria_images/2018/10/valle-gosol-lerida-1024x683.jpg "Villa de Gósol desde la Torre del Castillo.")
+![Villa de Gósol desde la Torre del Castillo.](etheria-images/2018/10/valle-gosol-lerida-1024x683.jpg "Villa de Gósol desde la Torre del Castillo.")
 
 ## 9\. Acércate al techo de Lleida desde el valle de Ferrera
 
@@ -137,7 +137,7 @@ por la Unesco. Sobre todo ello asoma imponente la Pica d’Estats que, con sus 3
 metros, es la cima catalana más elevada. Si te apasiona la montaña es una ascensión 
 clásica y accesible desde este valle. 
 
-![valle de ferrera](etheria_images/2018/10/valle-ferrera-lleida-1024x771.jpg "Valle de Ferrera (Lleida).")
+![valle de ferrera](etheria-images/2018/10/valle-ferrera-lleida-1024x771.jpg "Valle de Ferrera (Lleida).")
 
 ## 10\. Enrédate con emprendedoras de Ossera, el primer pueblo eco de los Pirineos
 
@@ -153,7 +153,7 @@ de Cal Casal](http://www.melmeladesossera.com) o nos entrarán ganas de converti
 pastoras por un día al catar los sabrosos quesos de cabra de la [quesería Serrat 
 Gros](http://www.formatgeriaserratgros.com/). 
 
-![Cal Casal en Lleida](etheria_images/2018/10/cal-casal-lleida-1024x668.jpg "Las mermeladas de Cal Casal son una irresistible tentación (Ossera).")
+![Cal Casal en Lleida](etheria-images/2018/10/cal-casal-lleida-1024x668.jpg "Las mermeladas de Cal Casal son una irresistible tentación (Ossera).")
 
 ? **También te puede interesar:** 
 

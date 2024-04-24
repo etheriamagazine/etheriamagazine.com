@@ -1,13 +1,13 @@
 ---
 title: "10 viajes con tu madre para celebrar su día"
 date: 2021-04-19
-coverImage: etheria_images/2021/04/viaje-madre-hija.jpg
+coverImage: etheria-images/2021/04/viaje-madre-hija.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Se acerca el Día de la Madre y ya estamos a vueltas con el enésimo regalo para hacer el 
@@ -16,7 +16,7 @@ ropa, bolsos… ¿Qué te parece regalar (y regalarte) tiempo con tu madre en fo
 escapada? Aquí te proponemos 10 viajes para regalar el Día de la Madre y disfrutar 
 cuando quieras o cuando nos deje la pandemia. 
 
-![Madre e hija haciéndose un selfie](etheria_images/2021/04/viaje-madre-hija.jpg "Regálate un viaje con tu madre.")
+![Madre e hija haciéndose un selfie](etheria-images/2021/04/viaje-madre-hija.jpg "Regálate un viaje con tu madre.")
 
 Las ideas de regalos se agotan en una celebración como el Día de la Madre que se repite 
 cada año. Como lo que más nos gusta en Etheria Magazine es viajar, ¿qué te parece 
@@ -39,7 +39,7 @@ los mejores selfis. Uno de los mejores viajes con tu madre que podéis regalaros
 ✅ [La Ruta de fados en Lisboa de la mano de Amália 
 Rodrigues](https://etheriamagazine.com/2020/12/30/ruta-de-fados-en-la-lisboa-de-amalia-rodrigues/) 
 
-![retrato de Amalia Rodrigues](etheria_images/2021/04/viaje-con-madries-lisboa.jpg "Amália Rodrigues fotografiada por Augusto Cabrita, 1965.")
+![retrato de Amalia Rodrigues](etheria-images/2021/04/viaje-con-madries-lisboa.jpg "Amália Rodrigues fotografiada por Augusto Cabrita, 1965.")
 
 ## Para madres marineras: Santoña
 
@@ -53,7 +53,7 @@ tan originales como hacer una ruta para descubrir el arte urbano de la localidad
 ✅ [Santoña, 10 motivos para una escapada cántabra con sabor 
 marinero](https://etheriamagazine.com/2021/01/20/santona-10-planes-con-sabor-marinero-en-cantabria/) 
 
-![acantilado en Santoña](etheria_images/2021/04/viajes-con-madres-santona.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
+![acantilado en Santoña](etheria-images/2021/04/viajes-con-madres-santona.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
 
 ## Para madres culturetas: Granada
 
@@ -72,7 +72,7 @@ os damos las mejores recomendaciones gastronómicas.
 ✅ [La ruta más intima de 
 Lorca](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/) 
 
-![sala de la casa-museo de Lorca en Granada](etheria_images/2021/04/viaje-con-madres-granada.jpg "Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.")
+![sala de la casa-museo de Lorca en Granada](etheria-images/2021/04/viaje-con-madres-granada.jpg "Museo Casa Natal de Federico García Lorca en Fuente Vaqueros.")
 
 ## Para madres modernas: Lyon
 
@@ -89,7 +89,7 @@ por Europa que puedes elegir.
 ✅ [Los murales XXL de Lyon, el atractivo más sorprendente de la ciudad 
 francesa](https://etheriamagazine.com/2021/02/03/ruta-murales-street-art-en-lyon-francia/) 
 
-![street art en Lyon](etheria_images/2021/04/viaje-con-madres-lyon.jpg "Mural con trampantojo de los Canuts, en Lyon. © CitéCréation")
+![street art en Lyon](etheria-images/2021/04/viaje-con-madres-lyon.jpg "Mural con trampantojo de los Canuts, en Lyon. © CitéCréation")
 
 ## Para madres marchosas: Benidorm
 
@@ -102,7 +102,7 @@ para disfrutar de esta ciudad desde un punto de vista distinto del habitual.
 ✅ [Planes secretos en Benidorm más allá de ir a la playa o tomar el 
 sol](https://etheriamagazine.com/2021/03/26/planes-originales-en-benidorm/) 
 
-![playa de Benidorm](etheria_images/2021/04/viajes-con-madres-benidorm.jpg "Benidorm, un icono turístico del Mediterráneo. © T.B.")
+![playa de Benidorm](etheria-images/2021/04/viajes-con-madres-benidorm.jpg "Benidorm, un icono turístico del Mediterráneo. © T.B.")
 
 ## Para madres espirituales: Fez
 
@@ -117,7 +117,7 @@ Volúbilis, e Ifrane, conocida como ‘la Suiza marroquí’.
 ✅ [Guía esencial de Fez, la capital espiritual de 
 Marruecos](https://etheriamagazine.com/2021/03/18/guia-esencial-que-ver-y-hacer-en-fez/) 
 
-![Medina de Fez](etheria_images/2021/04/viaje-con-madres-fez.jpg "Atardecer sobre Fez (Marruecos). © Chronis Yan")
+![Medina de Fez](etheria-images/2021/04/viaje-con-madres-fez.jpg "Atardecer sobre Fez (Marruecos). © Chronis Yan")
 
 ## Para madres ecoturistas: Delta del Ebro
 
@@ -131,7 +131,7 @@ que estar en tu lista de viajes con tu madre.
 ✅ [Delta del Ebro, un viaje natural sorprendente entre aves y 
 arrozales](https://etheriamagazine.com/2020/11/17/delta-del-ebro-turismo-natural-y-responsable/) 
 
-![barca en el delta del Ebro](etheria_images/2021/04/viaje-con-madres-delta-del-ebro.jpg "Navegando por el Delta del Ebro.")
+![barca en el delta del Ebro](etheria-images/2021/04/viaje-con-madres-delta-del-ebro.jpg "Navegando por el Delta del Ebro.")
 
 ## Para madres esotéricas: El Escorial
 
@@ -145,7 +145,7 @@ desde Madrid y lo podéis combinar con alguna ruta por la sierra.
 ✅ [San Lorenzo de El Escorial, razones escabrosas y sorprendentes para visitar su 
 monasterio](https://etheriamagazine.com/2021/04/06/por-que-visitar-monasterio-el-escorial/) 
 
-![monasterio de El Escorial con niebla](etheria_images/2021/04/viaje-con-madres-el-escorial.jpg "Neblina durante el amanecer de San Lorenzo de El Escorial. © Javier Santamarta")
+![monasterio de El Escorial con niebla](etheria-images/2021/04/viaje-con-madres-el-escorial.jpg "Neblina durante el amanecer de San Lorenzo de El Escorial. © Javier Santamarta")
 
 ## Para madres lectoras: La Alcarria
 
@@ -159,7 +159,7 @@ andando como hizo Cela, podréis recorrer la ruta en coche en dos o tres días.
 ✅ [‘Viaje a la Alcarria’, seguimos los pasos de Cela 20 años después de que nos 
 dejara](https://etheriamagazine.com/2021/02/01/viaje-a-la-alcarria-seguimos-los-pasos-de-cela-75-anos-despues-de-su-publicacion/) 
 
-![Brihuega](etheria_images/2021/04/viaje-con-madres-alcarria.jpg "Brihuega, el “Jardín de la Alcarria”.")
+![Brihuega](etheria-images/2021/04/viaje-con-madres-alcarria.jpg "Brihuega, el “Jardín de la Alcarria”.")
 
 ## Para madres disfrutonas: Vigo
 
@@ -173,7 +173,7 @@ en [Turismo de Galicia](https://www.turismo.gal/).
 ✅ [Vigo, ¿por qué estás tan rematadamente 
 bueno?](https://etheriamagazine.com/2020/11/24/comer-en-vigo-mejores-restaurantes-furanchos/) 
 
-![plato de nécoras en Vigo](etheria_images/2021/04/viaje-con-madres-vigo.jpg "Restaurante Bao, en Vigo. © J.L. Migueláñez y F. Abente")
+![plato de nécoras en Vigo](etheria-images/2021/04/viaje-con-madres-vigo.jpg "Restaurante Bao, en Vigo. © J.L. Migueláñez y F. Abente")
 
 ? **Más ideas de viajes con tu madre...** 
 

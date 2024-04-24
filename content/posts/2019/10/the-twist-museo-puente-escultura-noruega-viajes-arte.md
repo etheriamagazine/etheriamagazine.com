@@ -1,14 +1,14 @@
 ---
 title: "The Twist, el museo más original de Noruega"
 date: 2019-10-03
-coverImage: etheria_images/2019/10/noruega-the-twist-museo-kistefos-mujeres.jpg
+coverImage: etheria-images/2019/10/noruega-the-twist-museo-kistefos-mujeres.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 The Twist es quizás el espacio artístico más original de Noruega. En este 
@@ -16,7 +16,7 @@ puente-museo-escultura el arte envuelve la construcción y se integra en su ento
 maravilla debe formar parte de la agenda de cualquier viajera amante del arte o la 
 arquitectura. 
 
-![Esta maravilla de Noruega se llama The Twist.](etheria_images/2019/10/noruega-the-twist-museo-kistefos-mujeres-900x600.jpg "Esta maravilla de Noruega se llama The Twist.")
+![Esta maravilla de Noruega se llama The Twist.](etheria-images/2019/10/noruega-the-twist-museo-kistefos-mujeres-900x600.jpg "Esta maravilla de Noruega se llama The Twist.")
 
 El edificio The Twist, que complementa al [museo 
 Kistefos](https://www.kistefosmuseum.com/art/the-twist-gallery), está situado en la 
@@ -30,7 +30,7 @@ panorámicas al río. Además, se crea un tercer espacio que une los dos anterio
 llamado giro, que representa un nuevo reto para la integración de los artistas y el 
 arte. El edificio se integra como una escultura más en el parque". 
 
-![Interior de The Twist.](etheria_images/2019/10/noruega-the-twist-museo-kistefos-interior-900x600.jpg "Interior de The Twist.")
+![Interior de The Twist.](etheria-images/2019/10/noruega-the-twist-museo-kistefos-interior-900x600.jpg "Interior de The Twist.")
 
 ## Dimensiones del museo
 
@@ -45,7 +45,7 @@ situada en la zona sur, se percibe un espacio de doble altura que permite ver to
 edificio. Sin embargo, si se hace desde la del norte, la imagen es una panorámica con 
 vistas a un molino y a un atractivo paisaje. 
 
-![Vista de The Twist desde el aire.](etheria_images/2019/10/noruega-the-twist-museo-kistefos-900x600.jpg "Vista de The Twist desde el aire.")
+![Vista de The Twist desde el aire.](etheria-images/2019/10/noruega-the-twist-museo-kistefos-900x600.jpg "Vista de The Twist desde el aire.")
 
 ## Museo de Kistefos y Parque de Esculturas
 
@@ -56,7 +56,7 @@ parque de esculturas. El objetivo de este mecenas era proteger el patrimonio ind
 de la región al tiempo que impulsaba el Arte Contemporáneo, tanto noruego como 
 internacional. 
 
-![Grandes cristaleras del edificio The Twist.](etheria_images/2019/10/noruega-the-twist-museo-kistefos-cristalera-900x600.jpg "Grandes cristaleras del edificio The Twist.")
+![Grandes cristaleras del edificio The Twist.](etheria-images/2019/10/noruega-the-twist-museo-kistefos-cristalera-900x600.jpg "Grandes cristaleras del edificio The Twist.")
 
 Su Parque de Esculturas ha sido mimado con grandes figuras que parecen interactuar y 
 mantener un diálogo con el bosque. Cuenta con piezas de, entre otros artistas, Tony 
@@ -66,7 +66,7 @@ Elmgreen y Dragset, Giuseppe Penone y Tony Oursler.
 Una de las obras incorporadas al parque es **_Shine of Life_, de Kusama**, inspirada en 
 el agua, la naturaleza y la industria de Kistefos. Está entre nuestras favoritas. 
 
-![Escultura de Yayoi Kusama, Museo Kistefos](etheria_images/2019/10/noruega-Kistefos-Museet-Yayoi-Kusama-900x600.jpg "Shine of Life, de Yayoi Kusama. © Einar Aslaksen/ Museo Kistefos")
+![Escultura de Yayoi Kusama, Museo Kistefos](etheria-images/2019/10/noruega-Kistefos-Museet-Yayoi-Kusama-900x600.jpg "Shine of Life, de Yayoi Kusama. © Einar Aslaksen/ Museo Kistefos")
 
 ## Exposiciones temporales 2023
 

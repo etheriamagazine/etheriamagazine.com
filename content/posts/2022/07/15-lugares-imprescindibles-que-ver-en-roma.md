@@ -1,15 +1,15 @@
 ---
 title: "15 lugares imprescindibles que ver en Roma"
 date: 2022-07-11
-coverImage: etheria_images/2022/07/Roma-villa-borghese-mirador.jpg
+coverImage: etheria-images/2022/07/Roma-villa-borghese-mirador.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La ciudad de Roma puede abrumar cuando planificas un viaje ante la inabarcable cantidad 
@@ -18,7 +18,7 @@ imprescindibles que tienes que ver en Roma en un primer viaje. Y te aseguramos q
 algunos de ellos te gustarán tanto que repetirás cada vez que vuelvas a la Ciudad 
 Eterna. 
 
-![Vistas de Roma desde Villa Borghese](etheria_images/2022/07/Roma-villa-borghese-mirador.jpg "Mirador de Villa Borghese. © Susana García/ Etheria Magazine")
+![Vistas de Roma desde Villa Borghese](etheria-images/2022/07/Roma-villa-borghese-mirador.jpg "Mirador de Villa Borghese. © Susana García/ Etheria Magazine")
 
 Roma es tan sorprendente que en tu primer viaje, da igual a la edad que lo hagas, te 
 seducirá como pocas ciudades y querrás volver seguro. Su patrimonio artístico es tan 
@@ -54,7 +54,7 @@ albergaba: los templos (de Saturno, de la Concordia, de Antonio y Faustina, de C
 los Castores…), el Tabularium (sede del archivo del Estado), la Basílica Julia, el Arco 
 de Tito, la casa de las Vestales y la basílica de Majencio son sólo algunos de ellos. 
 
-![Ruinas romanas en Roma](etheria_images/2022/07/Roma-Foro.jpg "Foro de Roma.")
+![Ruinas romanas en Roma](etheria-images/2022/07/Roma-Foro.jpg "Foro de Roma.")
 
 El espacio merece un paseo, si es con un guía que pueda explicar dónde y cómo se ubicaba 
 cada elemento mucho mejor, ya que no hay mucha señalización y aunque las ruinas son 
@@ -95,7 +95,7 @@ Es un lugar increíble, donde seguro que pasas muchos minutos elevando la vista 
 cúpula y deteniéndote en las estatuas, las capillas cristianas y las tumbas, como la del 
 artista Rafael. 
 
-![Cúpula del Pateón de Roma un lugar imprescindible de Roma](etheria_images/2022/07/Roma-panteon.jpg "Interior del Panteón de Roma. © SG")
+![Cúpula del Pateón de Roma un lugar imprescindible de Roma](etheria-images/2022/07/Roma-panteon.jpg "Interior del Panteón de Roma. © SG")
 
 ? **Entradas**: existen entradas conjuntas al Coliseo, Foro Romano, Palatino y Museos 
 Capitolinos y hay que comprarlas en la web del **Parco Archeologico del Colosseo** 
@@ -128,7 +128,7 @@ cristianos. Desde este amplio espacio, cuyas dimensiones sorprenden al estar ya
 prácticamente bajo tierra, se accede a las catacumbas, siempre con guía especializado, 
 que conoce este intrincado laberinto en el que es muy fácil perderse. 
 
-![Frescos en las catacumbas de Roma](etheria_images/2022/07/Roma-catacumbas.jpg "Catacumbas de Domitila.")
+![Frescos en las catacumbas de Roma](etheria-images/2022/07/Roma-catacumbas.jpg "Catacumbas de Domitila.")
 
 Una vez dentro, rápidamente se van viendo los huecos donde estaban las tumbas y se van 
 sucediendo los espacios donde se conservan algunos de los delicados estucos, como la 
@@ -161,7 +161,7 @@ alrededor de un obelisco romano, se ubican esculturas de la personificación del
 el Nilo, el Danubio y el río de la Plata, un río por cada continente conocido en el 
 Renacimiento. 
 
-![Fuente de plaza Navona](etheria_images/2022/07/Roma-piazza-navona.jpg "Piazza Navona al amanecer.")
+![Fuente de plaza Navona](etheria-images/2022/07/Roma-piazza-navona.jpg "Piazza Navona al amanecer.")
 
 #### 7\. Fontana di Trevi
 
@@ -172,7 +172,7 @@ moneda o sin ella, no podrás dejar de mirarla. Este delirio barroco en mármol 
 obra de Nicola Salvi, muestra al dios Océano transportado por sus tritones entre 
 columnas y estatuas. 
 
-![Perfil de la Fontana di Trevi, uno de los lugares que hay que visitar en Roma](etheria_images/2022/07/Roma-fontana-trevi.jpg "Fontana di Trevi. © SG")
+![Perfil de la Fontana di Trevi, uno de los lugares que hay que visitar en Roma](etheria-images/2022/07/Roma-fontana-trevi.jpg "Fontana di Trevi. © SG")
 
 #### 8\. Piazza di Spagna
 
@@ -193,7 +193,7 @@ bonito lago con la reproducción de un fotografiable templete romano y los mirad
 sobre la Piazza del Popolo. Como la extensión del parque es grande, puedes optar por 
 alquilar allí mismo una bicicleta para recorrerlo. 
 
-![parque de villa Borghese en primavera](etheria_images/2022/07/Roma-villa-borghese.jpg "Paseo en Villa Borghese. © SG")
+![parque de villa Borghese en primavera](etheria-images/2022/07/Roma-villa-borghese.jpg "Paseo en Villa Borghese. © SG")
 
 ? **Nota gastro**: el centro de Roma está lleno de restaurantes, algunos demasiado 
 enfocados a los turistas. Si quieres comer bien de verdad y no equivocarte y no te 
@@ -209,7 +209,7 @@ al encanto de sus pequeñas iglesias y a su amplia y atractiva oferta gastronóm
 viajas a Roma tienes que dedicar una tarde-noche sí o sí a este precioso barrio y a la 
 cercana colina del Gianicolo. 
 
-![Trastevere](etheria_images/2022/07/Roma-Trastevere.jpg "Calle del Trastevere y basílica de Santa María. © SG")
+![Trastevere](etheria-images/2022/07/Roma-Trastevere.jpg "Calle del Trastevere y basílica de Santa María. © SG")
 
 #### 10\. Piazza de Santa Maria
 
@@ -237,7 +237,7 @@ atardecer, el perfil de la ciudad y sus cúpulas. En un paseo por el parque que 
 descubrirás la estatua ecuestre de Garibali, el Jardín Botánico y la Fontana dell’Aqua 
 Paola, del siglo XVIII. Además de la iglesia de San Pietro in Montorio. 
 
-![Perfil de Roma](etheria_images/2022/07/Roma-Giannicolo-vistas.jpg "Vistas desde el mirador del Gianicolo. © SG")
+![Perfil de Roma](etheria-images/2022/07/Roma-Giannicolo-vistas.jpg "Vistas desde el mirador del Gianicolo. © SG")
 
 ? **Idea en el Trastevere**: si tienes tiempo acércate a la **iglesia de San Francesco a 
 Ripa** que guarda una obra maravillosa de Bernini, el 'Éxtasis de la beata Ludovica 
@@ -258,7 +258,7 @@ mañana o incluso un día completo, la sensación será que no has sido capaz de
 todo lo que has visto. Por eso no importa las veces que vayas a Roma, un paseo por el 
 interior de la basílica de San Pedro y por los Museos Vaticanos es una cita obligatoria. 
 
-![plaza en el Vaticano](etheria_images/2022/07/Roma-piazza-san-pedro.jpg "Plaza de San Pedro. © SG")
+![plaza en el Vaticano](etheria-images/2022/07/Roma-piazza-san-pedro.jpg "Plaza de San Pedro. © SG")
 
 #### 13\. Piazza de San Pedro
 
@@ -283,7 +283,7 @@ una primera visita la Piedad de Miguel Ángel, que recibe nada más entrar como 
 anticipo genial de lo que espera. Después, el Baldaquino de Bernini, el altar papal, la 
 capilla barroca y la capilla gregoriana, son algunos de sus rincones de parada obligada. 
 
-![El Vaticano](etheria_images/2022/07/Roma-cupula-san-pedro.jpg "Cúpula de San Pedro desde los Museos Vaticanos. © SG")
+![El Vaticano](etheria-images/2022/07/Roma-cupula-san-pedro.jpg "Cúpula de San Pedro desde los Museos Vaticanos. © SG")
 
 ?**Consejo**: merece la pena apuntarse a alguna de las visitas guiadas que se realizan 
 en distintos idiomas a varias horas del día o al menos hacerse con una audioguía para 
@@ -302,7 +302,7 @@ se reúne la curia para elegir a uno nuevo. Y lo hacen en un lugar en el que par
 los principales artistas del Renacimiento: Botticelli, Perugino, Ghirlandaio, Piero di 
 Cosimo… y, por supuesto, Miguel Ángel que culminó el espacio con las pinturas del techo. 
 
-![Escultura clásica en Museos Vaticanos](etheria_images/2022/07/Roma-museos-vaticanos-laocoonte.jpg "Escultura 'Laocoonte y sus hijos' en los Museos Vaticanos. © SG")
+![Escultura clásica en Museos Vaticanos](etheria-images/2022/07/Roma-museos-vaticanos-laocoonte.jpg "Escultura 'Laocoonte y sus hijos' en los Museos Vaticanos. © SG")
 
 Aquí podrías quedarte horas, aunque la realidad es que siempre está tan concurrida que 
 acabas pasando más rápido de lo que te gustaría. Por eso es importante no dejarse llevar 

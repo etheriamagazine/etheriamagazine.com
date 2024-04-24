@@ -1,16 +1,16 @@
 ---
 title: "La Biodanza, un estallido de emociones placenteras"
 date: 2020-12-02
-coverImage: etheria_images/2020/11/baile-superar-la-introversion.jpg
+coverImage: etheria-images/2020/11/baile-superar-la-introversion.jpg
 categories: 
   - salud-bienestar-nutricion
-author: 
+authors: 
   - Maria Miret
 ---
 
 ##### La Biodanza es algo más que una danza, ya que trata de responder a la pregunta de cómo queremos vivir la vida. Realmente, se puede considerar un sistema de desarrollo personal que pretende transformar nuestro estilo de vida y hacerlo más saludable. Además, no hace falta saber bailar para asistir porque lo importante es expresar emociones.
 
-![biodanza ayuda regulacion hormonal](etheria_images/2020/11/biodanza-beneficios.jpg "La Biodanza ayuda incluso a la regulación hormonal.")
+![biodanza ayuda regulacion hormonal](etheria-images/2020/11/biodanza-beneficios.jpg "La Biodanza ayuda incluso a la regulación hormonal.")
 
 Cómo quiero vivir la vida? Si te planteas esta pregunta, estás en el sitio adecuado, ya 
 que uno de los objetivos principales de la Biodanza es transformar los estilos de vida. 
@@ -26,7 +26,7 @@ mismo está compuesto por el prefijo griego “bios” (que significa vida) y la
 “danza”, es decir, la danza de la vida, pero entendida como un “movimiento natural, 
 pleno de sentido”. 
 
-![rolando toro creador de la biodanza](etheria_images/2020/11/Rolando-Toro-creador-biodanza.jpg "© Rolando Toro es el creador de la Biodanza.")
+![rolando toro creador de la biodanza](etheria-images/2020/11/Rolando-Toro-creador-biodanza.jpg "© Rolando Toro es el creador de la Biodanza.")
 
 Nos lo explica muy bien Marcus Stueck, que considera que lo principal es que **cuando 
 acabes la sesión te sientas feliz** y que esa estabilidad sea placentera. La Biodanza, 
@@ -36,7 +36,7 @@ contacto con el otro. Stueck es un gran conocedor del tema e investigador de la 
 del Trabajo y la Salud DPFA de Leipzig, en Alemania, además de coordinar la Academia 
 Internacional de Investigación en Biodanza BIONET junto a la Dra. Alejandra Villegas. 
 
-![el contacto y la biodanza dan felicidad](etheria_images/2020/11/juegos-equipo-danza.jpg "La Biodanza debe aportar felicidad.")
+![el contacto y la biodanza dan felicidad](etheria-images/2020/11/juegos-equipo-danza.jpg "La Biodanza debe aportar felicidad.")
 
 ## Un movimiento natural y con sentido
 
@@ -52,7 +52,7 @@ fisiológica, que integra el movimiento de los glúteos. El objetivo de este eje
 aumentar la confianza en uno mismo, la rehabilitación de la marcha natural. El 
 repertorio de movimientos integra tanto aspectos psicomotrices como emocionales. 
 
-![la biodanza ayuda a relajarse](etheria_images/2020/11/grupo-baile.jpg "El contacto con los demás es una seña de identidad de la Biodanza.")
+![la biodanza ayuda a relajarse](etheria-images/2020/11/grupo-baile.jpg "El contacto con los demás es una seña de identidad de la Biodanza.")
 
 ## La importancia del grupo, fuente de felicidad
 
@@ -72,7 +72,7 @@ cantidad de emociones que se liberan durante la clase, de las cuales la mayoría
 placenteras. Esa energía que no usas para reprimir emociones, tu cuerpo la puede emplear 
 en tu sistema inmune. Incluso **las hormonas se regulan** cuando expresas tus emociones. 
 
-![la biodanza facilita la relación social](etheria_images/2020/11/baile-superar-la-introversion.jpg "La Biodanza fortaleza nuestro sistema inmune.")
+![la biodanza facilita la relación social](etheria-images/2020/11/baile-superar-la-introversion.jpg "La Biodanza fortaleza nuestro sistema inmune.")
 
 ## Complementa la Biodanza con yoga
 
@@ -84,7 +84,7 @@ estabilidad”, explica Marcus Stueck. Para los investigadores, en cualquier cas
 trata de técnicas complementarias. Como recomienda la Dra. Villegas: “Vete a yoga por la 
 mañana y a Biodanza por la tarde”. 
 
-![entrevista de maria Miret a rolando toro](etheria_images/2020/11/Maria-y-Rolando-Toro.jpg "María Miret entrevista a Rolando Toro.")
+![entrevista de maria Miret a rolando toro](etheria-images/2020/11/Maria-y-Rolando-Toro.jpg "María Miret entrevista a Rolando Toro.")
 
 ## Rolando Toro, creador de la Biodanza
 

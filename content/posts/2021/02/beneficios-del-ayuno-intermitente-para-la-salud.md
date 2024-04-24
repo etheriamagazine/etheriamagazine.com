@@ -1,10 +1,10 @@
 ---
 title: "El ayuno, una práctica milenaria de purificación que beneficia tu salud"
 date: 2021-02-17
-coverImage: etheria_images/2021/02/ayuno-mujer.jpg
+coverImage: etheria-images/2021/02/ayuno-mujer.jpg
 categories: 
   - salud-bienestar-nutricion
-author: 
+authors: 
   - Maria Miret
 ---
 
@@ -14,7 +14,7 @@ que ayuda a mejorar en ciertas enfermedades. Algunas clínicas ofrecen programas
 combinados con ejercicio físico y espiritualidad para recuperar la calidad de vida, 
 rendir más y mantener la armonía interior. 
 
-![bebidas para tomar en ayuno](etheria_images/2021/02/ayuno-mujer.jpg "Durante el ayuno se puede tomar agua, té o café. ©Dominik Martin")
+![bebidas para tomar en ayuno](etheria-images/2021/02/ayuno-mujer.jpg "Durante el ayuno se puede tomar agua, té o café. ©Dominik Martin")
 
 Seguro que más de una vez has oído hablar de los beneficios del ayuno. Y es posible que 
 te venga a la mente la imagen de un monje ayunando en una cueva de las montañas del 
@@ -40,7 +40,7 @@ cambia el metabolismo, la proliferación celular se ralentiza y se activa el pro
 autofagia, por el que el organismo elimina las células viejas o defectuosas y empieza a 
 alimentarse de sus propias reservas de energía. 
 
-![ayuno depura el organismo](etheria_images/2021/02/ayuno-en-cancer.jpg "El ayuno depura el organismo. © Xiang Gao")
+![ayuno depura el organismo](etheria-images/2021/02/ayuno-en-cancer.jpg "El ayuno depura el organismo. © Xiang Gao")
 
 ## ¿Es mejor ayunar o bajar calorías?
 
@@ -59,7 +59,7 @@ publicado en la revista _Nutrients_ ha colaborado el hospital universitario Char
 Berlin, uno de los centros donde más se ha investigado sobre el ayuno y sus aplicaciones 
 terapéuticas. 
 
-![plato saludable ayuno clinica Buchinger Wilhelmi](etheria_images/2021/02/ayuno-nutricion-buchinger.jpg "Uno de los platos saludables de la © clínica Buchinger Wilhelmi.")
+![plato saludable ayuno clinica Buchinger Wilhelmi](etheria-images/2021/02/ayuno-nutricion-buchinger.jpg "Uno de los platos saludables de la © clínica Buchinger Wilhelmi.")
 
 En 2019 se publicó en _PLOS ONE_ un estudio científico internacional sobre el efecto del 
 ayuno terapéutico Buchinger, según el cual este tipo de ayuno es seguro y 
@@ -83,7 +83,7 @@ England Journal of Medicine_.
 > En concreto, ayunar durante 16 horas y comer en las 8 restantes aporta resistencia al 
 > estrés, aumenta la longevidad y disminuye la incidencia de estas enfermedades. 
 
-![meditacion en ayuno](etheria_images/2021/02/ayuno-meditacion.jpg "Es conveniente combinar el ayuno con una alimentación saludable y actividad deportiva. © Benjamin Child")
+![meditacion en ayuno](etheria-images/2021/02/ayuno-meditacion.jpg "Es conveniente combinar el ayuno con una alimentación saludable y actividad deportiva. © Benjamin Child")
 
 ### Tipos de ayunos más habituales
 
@@ -101,7 +101,7 @@ Lo más importante es que las comidas sean saludables. En ese tiempo en el que n
 comer debes hidratarte bien. Puedes ingerir agua, infusiones, té, café... pero sin 
 azúcar ni leche (un truco es endulzarlo con un poco de aceite de coco). 
 
-![el agua en el ayuno intermitente](etheria_images/2021/02/ayuno-con-agua.jpg "El ayuno no es una dieta, es dejar de comer durante algunas horas. © Daniele Levis Pelusi")
+![el agua en el ayuno intermitente](etheria-images/2021/02/ayuno-con-agua.jpg "El ayuno no es una dieta, es dejar de comer durante algunas horas. © Daniele Levis Pelusi")
 
 ### Perder peso ayunando
 
@@ -114,7 +114,7 @@ antes **consultar a un nutricionista o endocrino** que valore tu caso. La alimen
 con restricción de tiempo, si no se hace bien, puede tener efectos secundarios, como 
 dolores de cabeza, fatiga o migrañas debido a la falta de energía. 
 
-![terapia ayuno en marbella](etheria_images/2021/02/clinica-marbella-ayuno-buchinger.jpg "En la clínica (©) Buchinger Wilhelmi se puede hacer ayuno terapéutico.")
+![terapia ayuno en marbella](etheria-images/2021/02/clinica-marbella-ayuno-buchinger.jpg "En la clínica (©) Buchinger Wilhelmi se puede hacer ayuno terapéutico.")
 
 ## Ayunar en Marbella para recuperar la armonía
 
@@ -134,7 +134,7 @@ mucho más saludable. La clínica de ayuno terapéutico **Buchinger Wilhelmi** *
 Marbella**, entre otras en España, es uno de los lugares donde puedes ayunar con 
 asistencia médica personalizada y un equipo de terapeutas a tu disposición. 
 
-![jardines clinica ayuno Buchinger Wilhelmi](etheria_images/2021/02/Ayuno-buchinger.jpg "Jardines de la (©) clínica Buchinger Wilhelmi.")
+![jardines clinica ayuno Buchinger Wilhelmi](etheria-images/2021/02/Ayuno-buchinger.jpg "Jardines de la (©) clínica Buchinger Wilhelmi.")
 
 El **ayuno terapéutico** Buchinger Wilhelmi consiste en ingerir agua mineral, 
 infusiones, caldos vegetales y zumos de frutas naturales recién exprimidos, todos 

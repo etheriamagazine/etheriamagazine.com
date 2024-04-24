@@ -1,18 +1,18 @@
 ---
 title: "10 templos de Asia para visitar al menos una vez en la vida"
 date: 2019-05-03
-coverImage: etheria_images/2019/04/templos-Asia-pura-ulun-danu-bratan-Bali.jpg
+coverImage: etheria-images/2019/04/templos-Asia-pura-ulun-danu-bratan-Bali.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Recorrer el continente asiático siempre es apetecible porque supone imbuirse en un mundo diferente donde nuestros referentes culturales no son siempre válidos y, a pesar de la globalización, casi todo es sorprendente. Hemos elegido diez templos de Asia que seguro que te va a apetecer conocer en tu próximo viaje.
 
-![Banteay Srei el templo de las mujeres de Angkor](etheria_images/2019/04/Templos-Asia-Banteay-Srei-Camboya.jpg "Banteay Srei, el templo de las mujeres de Angkor. © Rolf_52/Adobe Stock")
+![Banteay Srei el templo de las mujeres de Angkor](etheria-images/2019/04/Templos-Asia-Banteay-Srei-Camboya.jpg "Banteay Srei, el templo de las mujeres de Angkor. © Rolf_52/Adobe Stock")
 
 En Asia la vida es distinta. Los colores, los olores, la gastronomía… Un mundo diferente 
 se abre ante nuestros ojos en cada visita a este continente y los templos son una de las 
@@ -32,7 +32,7 @@ medio de la selva.
 
 ## 2\. Templo dorado de Amritsar (India)
 
-![Templo dorado de Amritsar](etheria_images/2019/04/Templos-Asia-Amritsar.jpg "Templo dorado de Amritsar. © Boris Stroujko/Adobe Stock")
+![Templo dorado de Amritsar](etheria-images/2019/04/Templos-Asia-Amritsar.jpg "Templo dorado de Amritsar. © Boris Stroujko/Adobe Stock")
 
 El templo sij [Harmadir Sahib](http://sgpc.net/sri-harmandir-sahib/) es una de las 
 imágenes más icónicas de India y fue construido en el interior de un lago artificial 
@@ -43,7 +43,7 @@ los sijs.
 
 ## 3\. Los templos de Bagan (Myanmar)
 
-![Templos de Bagan](etheria_images/2019/04/Templos-Asia-Bagan-Myanmar.jpg "Templos de Bagan. © Luciano Mortula-LGM/Adobe Stock")
+![Templos de Bagan](etheria-images/2019/04/Templos-Asia-Bagan-Myanmar.jpg "Templos de Bagan. © Luciano Mortula-LGM/Adobe Stock")
 
 Templos en plural porque es imposible quedarse con uno de los miles de templos de esta 
 ciudad de Myanmar y porque una de las imágenes que se recuerdan para siempre de este 
@@ -54,7 +54,7 @@ Thatbyinnyu y Gawdawpalin.
 
 ## 4\. Potala (Tíbet)
 
-![Palacio del Potala, en Lhasa.](etheria_images/2019/04/Templos-Asia-Potala.jpg "Palacio del Potala, en Lhasa. © Enote/Adobe Stock")
+![Palacio del Potala, en Lhasa.](etheria-images/2019/04/Templos-Asia-Potala.jpg "Palacio del Potala, en Lhasa. © Enote/Adobe Stock")
 
 Este templo-palacio-monasterio es uno de esos lugares únicos en el mundo. Primero por 
 situarse en el techo del mundo, el Tíbet, cuya orografía y cultura budista es imposible 
@@ -65,7 +65,7 @@ fue residencia de los Dalái Lama desde su fundación en el siglo XVII hasta el 
 
 ## 5\. Wat Rong Khun (Chiang Rai, Tailandia)
 
-![Wat Rong Khun, el templo blanco de Chiang Rai.](etheria_images/2019/04/Templos-Asia-Wat-Rong-Khun-Chiang-Rai.jpg "Wat Rong Khun, el templo blanco de Chiang Rai. © R.M. Nunes/Adobe Stock")
+![Wat Rong Khun, el templo blanco de Chiang Rai.](etheria-images/2019/04/Templos-Asia-Wat-Rong-Khun-Chiang-Rai.jpg "Wat Rong Khun, el templo blanco de Chiang Rai. © R.M. Nunes/Adobe Stock")
 
 Conocido como el ‘**templo blanco**’ es sin duda diferente a todos los que te encuentres 
 en Tailandia. Situado en [Chiang 
@@ -76,7 +76,7 @@ y una filigrana que deja mil rincones para fotografiar.
 
 ## 6\. Taktshang Goemba (Valle de Paro, Bután)
 
-![Taktshang Goemba, en el valle de Paro.](etheria_images/2019/04/templos-Asia-Taktshang-Goemba-Butan.jpg "Taktshang Goemba, en el valle de Paro. © Mc_noppadol/Adobe Stock")
+![Taktshang Goemba, en el valle de Paro.](etheria-images/2019/04/templos-Asia-Taktshang-Goemba-Butan.jpg "Taktshang Goemba, en el valle de Paro. © Mc_noppadol/Adobe Stock")
 
 Cuatro templos alberga el monasterio budista [Taktshang 
 Goemba](http://www.parotaktsang.org) del siglo XVII que parece haber subido a la roca 
@@ -88,7 +88,7 @@ para deleitarse con su fabuloso interior y con las maravillosas vistas.
 
 ## 7\. Fushimi Inari (Kioto, Japón)
 
-![Camino de toris en Fushimi Inari, en Kioto.](etheria_images/2019/04/Templos-Asia-Kyoto.jpg "Camino de toris en Fushimi Inari, en Kioto. © Davian Wijaya")
+![Camino de toris en Fushimi Inari, en Kioto.](etheria-images/2019/04/Templos-Asia-Kyoto.jpg "Camino de toris en Fushimi Inari, en Kioto. © Davian Wijaya")
 
 Este [santuario sintoísta](http://inari.jp/en/) dedicado al dios del arroz (Inari) es 
 uno de los más visitados de Japón y se encuentra en los alrededores de Kioto. Su imagen 
@@ -98,7 +98,7 @@ para recorrerlo en calma, y poder sacar alguna foto sin cabezas, madruga. Mucho.
 
 ## 8\. Pura Ulun Danu Bratan (Bali, Indonesia)
 
-![Pura Ulun Danu Bratan.](etheria_images/2019/04/templos-Asia-pura-ulun-danu-bratan-Bali.jpg "Pura Ulun Danu Bratan. © Tawatchai1990/Adobe Stock")
+![Pura Ulun Danu Bratan.](etheria-images/2019/04/templos-Asia-pura-ulun-danu-bratan-Bali.jpg "Pura Ulun Danu Bratan. © Tawatchai1990/Adobe Stock")
 
 En la orilla del lago Bratan y rodeado de flores aparece [Pura Ulun Danu 
 Bratan](http://ulundanuberatan.com). Este complejo religioso situado en el corazón de la 
@@ -109,7 +109,7 @@ Dewi Danu, diosa del agua.
 
 ## 9\. Sri Ranganathasawamy (Trichy, India)
 
-![Entrada del templo Sri Ranganathasawamy.](etheria_images/2019/04/Templos-Asia-Sri-Ranganathaswamy-Trichy.jpg "Entrada del templo Sri Ranganathasawamy. © Lizavetta/Adobe Stock")
+![Entrada del templo Sri Ranganathasawamy.](etheria-images/2019/04/Templos-Asia-Sri-Ranganathaswamy-Trichy.jpg "Entrada del templo Sri Ranganathasawamy. © Lizavetta/Adobe Stock")
 
 En la India hay tantos templos y lugares que visitar, que uno tan llamativo como [Sri 
 Ranganathaswamy](https://srirangam.org) casi pasa desapercibido. Y puede suceder, a 
@@ -119,7 +119,7 @@ siete muros concéntricos y hasta cincuenta santuarios.
 
 ## 10\. Wat Xieng Thong (Luang Prabang, Laos)
 
-![Wat Xieng Thong, en Luang Prabang.](etheria_images/2019/04/Templos-Asia-Wat-Xieng-Thong-Luang-Prabang.jpg "Wat Xieng Thong, en Luang Prabang. © Wuttichok/Adobe Stock")
+![Wat Xieng Thong, en Luang Prabang.](etheria-images/2019/04/Templos-Asia-Wat-Xieng-Thong-Luang-Prabang.jpg "Wat Xieng Thong, en Luang Prabang. © Wuttichok/Adobe Stock")
 
 La espiritualidad de la ciudad laosiana de [Luang 
 Prabang](https://etheriamagazine.com/2018/12/17/guia-viaje-para-mujeres-luang-prabang/) 

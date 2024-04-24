@@ -1,11 +1,11 @@
 ---
 title: "Estas 8 playas de Irlanda harán que te enamores (aún más) de la isla"
 date: 2023-07-21
-coverImage: etheria_images/2023/07/playa-Curracloe-irlanda.jpg
+coverImage: etheria-images/2023/07/playa-Curracloe-irlanda.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Irlanda no sólo cuenta con prados infinitos de color esmeralda sino que su costa 
@@ -14,7 +14,7 @@ su faceta marítima. En su litoral es posible descubrir una variada fauna atlán
 practicar deportes acuáticos, relajarse en sus arenales y conocer de cerca la sencilla 
 vida local. Sigue leyendo para conocer ocho de las playas más bonitas de Irlanda. 
 
-![Atardecer en Curracloe, unas de las playas de Irlanda más bonita.](etheria_images/2023/07/playa-Curracloe-irlanda.jpg "Atardecer en la playa de Curracloe. © Celtic Routes")
+![Atardecer en Curracloe, unas de las playas de Irlanda más bonita.](etheria-images/2023/07/playa-Curracloe-irlanda.jpg "Atardecer en la playa de Curracloe. © Celtic Routes")
 
 Aunque Irlanda no es un destino que se identifique con el turismo de playas, sus más de 
 **mil kilómetros de costa** son motivos más que suficientes para situarla en el radar de 
@@ -41,7 +41,7 @@ Aparca en una urbanización cercana y acércate caminando.
 ?No te pierdas: [Ruta de Juego de Tronos en Irlanda del 
 Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/). 
 
-![Playa de Cushendun en Irlanda](etheria_images/2023/07/playa-Cushendun-juego-tronos-irlanda.jpg "Playa de Cushendun, localización de Juego de Tronos. © Stefan Schnebelt/ Turismo de Irlanda")
+![Playa de Cushendun en Irlanda](etheria-images/2023/07/playa-Cushendun-juego-tronos-irlanda.jpg "Playa de Cushendun, localización de Juego de Tronos. © Stefan Schnebelt/ Turismo de Irlanda")
 
 ## Bahía de Whitepark, en Antrim
 
@@ -57,7 +57,7 @@ En el entorno de la bahía también debes cruzar, si no sufres de vértigo, el p
 cuerda de **Carrick-a-Rede** y embarcar a **isla de Sheep** para disfrutar de uno de los 
 mejores espectáculos para los observadores de aves. 
 
-![Playa de Whitepark Bay, una de las playas bonitas de Irlanda](etheria_images/2023/07/playa-Whitepark-Bay-irlanda.jpg "Playa de Whitepark Bay. © Chris Hill")
+![Playa de Whitepark Bay, una de las playas bonitas de Irlanda](etheria-images/2023/07/playa-Whitepark-Bay-irlanda.jpg "Playa de Whitepark Bay. © Chris Hill")
 
 ## Reserva Natural Nacional Murlough, en Down
 
@@ -73,7 +73,7 @@ marsopas, delfines y, si coincide, hasta una manada de orcas. No dejes de acerca
 Strangford Lough, la primera reserva natural marina de Irlanda del Norte y una de las 
 regiones marinas más ricas en biodiversidad de Europa. 
 
-![Playa de la Reserva Natural de Murlough.](etheria_images/2023/07/playa-Murlough-Irlanda.jpg "Playa de la Reserva Natural de Murlough. © Bernie Brown/ Turismo de Irlanda")
+![Playa de la Reserva Natural de Murlough.](etheria-images/2023/07/playa-Murlough-Irlanda.jpg "Playa de la Reserva Natural de Murlough. © Bernie Brown/ Turismo de Irlanda")
 
 ## Playas de Benone y Downhill, en Derry-Londonderry
 
@@ -88,7 +88,7 @@ amanecer sobre la cúpula del **Templo de Mussenden**, una biblioteca del siglo 
 vigila desde lo alto este arenal. Los seguidores de Juego de Tronos® reconocerán en 
 Downhill el telón de fondo de Rocadragón. Una razón más para acercarse hasta este lugar. 
 
-![Un paseo a caballo en Benone Beache, una de las playas de Irlanda más bonita](etheria_images/2023/07/playa-Benone-Beach-Irlanda.jpg "Playa de Benone. © Turismo de Irlanda")
+![Un paseo a caballo en Benone Beache, una de las playas de Irlanda más bonita](etheria-images/2023/07/playa-Benone-Beach-Irlanda.jpg "Playa de Benone. © Turismo de Irlanda")
 
 ## Playa de Keem, en Mayo
 
@@ -108,7 +108,7 @@ del país.
 ?No te pierdas: [‘Almas en pena de Inisherin’, paisajes de cine en 
 Irlanda](https://etheriamagazine.com/2023/01/30/almas-en-pena-de-inisherin/) 
 
-![Playa de Keem Bay, Achill Island, en el condado de Mayo.](etheria_images/2023/07/playa-Keem-Bay-Ireland.jpg "Playa de Keem Bay, en el condado de Mayo. © Failte Ireland")
+![Playa de Keem Bay, Achill Island, en el condado de Mayo.](etheria-images/2023/07/playa-Keem-Bay-Ireland.jpg "Playa de Keem Bay, en el condado de Mayo. © Failte Ireland")
 
 ## Dog’s Bay, en Galway
 
@@ -132,7 +132,7 @@ en un restaurante con vistas al mar, bañarte en aguas cristalinas, bucear o pra
 kayak. Es muy recomendable visitar las casas locales con tejados de paja o los animados 
 pubs del pueblo. 
 
-![Playa de Dunmore East, Waterford.](etheria_images/2023/07/playa-Dunmore-irlanda.jpg "Playa de Dunmore East, Waterford. © Chris Hill")
+![Playa de Dunmore East, Waterford.](etheria-images/2023/07/playa-Dunmore-irlanda.jpg "Playa de Dunmore East, Waterford. © Chris Hill")
 
 ## Playa de Curracloe, en Wexford
 
@@ -144,7 +144,7 @@ los deportes acuáticos como el surf o el _paddle surf_ (en Surf Shack podrás a
 material o recibir clases). Y si eres cinéfila, te gustará saber que aquí se rodaron 
 escenas de las películas _Salvar al soldado Ryan_ y _Brooklyn_, entre otras. 
 
-![Perspectiva aérea de la playa de Curracloe Beach, en Irlanda](etheria_images/2023/07/playa-Curracloe-Beach-irlanda.jpg "Atardecer en Curracloe, unas de las playas de Irlanda más bonitas. © Celtic Routes")
+![Perspectiva aérea de la playa de Curracloe Beach, en Irlanda](etheria-images/2023/07/playa-Curracloe-Beach-irlanda.jpg "Atardecer en Curracloe, unas de las playas de Irlanda más bonitas. © Celtic Routes")
 
 **También te puede interesar...** 
 

@@ -1,12 +1,12 @@
 ---
 title: "Descubre la mejor forma de recorrer y saborear Suiza"
 date: 2021-05-10
-coverImage: etheria_images/2021/04/Suiza-en-tren-Graubuenden-.jpg
+coverImage: etheria-images/2021/04/Suiza-en-tren-Graubuenden-.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Siempre hay un buen motivo para viajar a Suiza. Sus paisajes, su gastronomía, sus 
@@ -14,7 +14,7 @@ ciudades históricas... En este caso os hablamos de itinerarios en tren para rec
 degustar) el país, y os proponemos la guía gastronómica ‘Suiza a Bocados’. Elige tu ruta 
 y prepara tu escapada a Suiza para este verano. 
 
-![Suiza en tren](etheria_images/2021/04/Suiza-en-tren-Graubuenden-.jpg "Una de las mejores formas de recorrer Suiza es en tren. © Switzerland Tourism/André Meier")
+![Suiza en tren](etheria-images/2021/04/Suiza-en-tren-Graubuenden-.jpg "Una de las mejores formas de recorrer Suiza es en tren. © Switzerland Tourism/André Meier")
 
 Cuando viajas por primera vez a Suiza, lo primero que te sorprende es cómo un país de 
 estas dimensiones ofrece tantas posibilidades de viaje. Esto hará que, según avanzas en 
@@ -34,7 +34,7 @@ una de las mejores formas de moverse por el país. Y, además, le daremos al art
 cuando visites Suiza (descarga gratuitamente la guía gastronómica ‘Suiza a Bocados’ en 
 este link para ir preparado). 
 
-![ciudades historicas de Europa](etheria_images/2021/04/Suiza-tren-Murten.jpg "El Ayuntamiento de la preciosa ciudad de Murten. © Switzerland Tourism.")
+![ciudades historicas de Europa](etheria-images/2021/04/Suiza-tren-Murten.jpg "El Ayuntamiento de la preciosa ciudad de Murten. © Switzerland Tourism.")
 
 Para que disfrutes de tu viaje sin perder el tiempo, te contamos también algunas claves 
 para recorrer lugares imprescindibles como Basilea, Ginebra, la región del lago Lemán y 
@@ -56,7 +56,7 @@ las rutas un **tren panorámico**. No hay nada más relajante y que reconcilie m
 placer de viajar que ver los preciosos paisajes suizos a través de las ventanas de estos 
 trenes. 
 
-![suiza en tren](etheria_images/2021/04/Suiza-tren-del-vino.jpg "El Tren del Vino circula entre Vevey y Puidoux. © Switzerland Tourism/Marcus Gyger")
+![suiza en tren](etheria-images/2021/04/Suiza-tren-del-vino.jpg "El Tren del Vino circula entre Vevey y Puidoux. © Switzerland Tourism/Marcus Gyger")
 
 ### Experiencias gastronómicas en los trenes
 
@@ -82,7 +82,7 @@ Trip](https://www.myswitzerland.com/es-es/descubrir-suiza/recorrido-kambly/) es 
 recorrido circular en tren por Berna, Lucerna e Interlaken que incluye una parada en la 
 fábrica Kambly ubicada en Trubschachen, donde se realiza un taller y una degustación. 
 
-![suiza en tren](etheria_images/2021/04/suiza-tren-Glacier-express.jpg "Glacier Express, uno de los trenes más famosos de Suiza. © Switzerland Tourism/Christof Sonderegger")
+![suiza en tren](etheria-images/2021/04/suiza-tren-Glacier-express.jpg "Glacier Express, uno de los trenes más famosos de Suiza. © Switzerland Tourism/Christof Sonderegger")
 
 Y, para completar las experiencias gastronómicas en los trenes de Suiza, te proponemos 
 que te des un capricho: reserva en la clase Premium del [Glacier Express Excellence 
@@ -97,7 +97,7 @@ funiculares y teleféricos que suben a las montañas o con los barcos que recorr
 lagos. Aquí te contamos algunos lugares que no queremos que te pierdas en tus viajes a 
 Suiza: 
 
-![ciudades historicas](etheria_images/2021/04/Suiza-tren-basilea.jpg "Vista de la catedral y el Ayuntamiento de Basilea desde el puente Wettstein. © Switzerland Tourism/Nico Schaerer")
+![ciudades historicas](etheria-images/2021/04/Suiza-tren-basilea.jpg "Vista de la catedral y el Ayuntamiento de Basilea desde el puente Wettstein. © Switzerland Tourism/Nico Schaerer")
 
 ### Basilea
 
@@ -115,7 +115,7 @@ barras gastronómicas y buen ambiente, donde te recomendamos tomar una cerveza e
 guiadas** (basel.com/es/Visitas-guiadas) que ofrece la oficina de turismo de la ciudad, 
 es una forma excelente y entretenida de conocer su historia. 
 
-![paisajes de Suiza](etheria_images/2021/04/suiza-tren-broc-friburgo.jpg "Vista desde el Castillo de Gruyéres. © Switzerland Tourism/Jan Geerk")
+![paisajes de Suiza](etheria-images/2021/04/suiza-tren-broc-friburgo.jpg "Vista desde el Castillo de Gruyéres. © Switzerland Tourism/Jan Geerk")
 
 ### Región de Friburgo
 
@@ -135,7 +135,7 @@ fueron los primeros en producir chocolate con leche en 1875 y, aunque no es un c
 que se encuentre fácilmente en España, si viajas a Suiza y lo pruebas te aseguramos que 
 volverás con varias tabletas de sus diferentes sabores. 
 
-![ciudades para ver en tren](etheria_images/2021/04/suiza-tren-Friburgo.jpg "Friburgo. © Switzerland Tourism/Markus Buehler-Rasom")
+![ciudades para ver en tren](etheria-images/2021/04/suiza-tren-Friburgo.jpg "Friburgo. © Switzerland Tourism/Markus Buehler-Rasom")
 
 Dos pueblos de parada obligada en esta región son Murten y Friburgo. **Murten**, ubicado 
 junto a un lago, conserva un precioso casco histórico medieval que merece ser 
@@ -144,7 +144,7 @@ desde el saliente rocoso donde está ubicado. Sus fuentes, torres de iglesias, c
 medievales y plazas conforman un pueblo de esos que hay que pasear sin soltar la cámara 
 de fotos ni un momento. No te pierdas las maravillosas vidrieras de su catedral. 
 
-![castillos de Suiza](etheria_images/2021/04/suiza-tren-castillo-chillon.jpg "Castillo de Chillon en el lago Lemán. © Switzerland Tourism/JanGeerk ")
+![castillos de Suiza](etheria-images/2021/04/suiza-tren-castillo-chillon.jpg "Castillo de Chillon en el lago Lemán. © Switzerland Tourism/JanGeerk ")
 
 ### Lago Lemán
 
@@ -166,7 +166,7 @@ barco** uno de sus lagos. En el **lago Lemán** (cgn.ch/en) podrás hacerlo en u
 embarcación preciosa estilo _Belle Époque_ que regala unas vistas preciosas desde 
 cubierta. Ten en cuenta que puedes hacer la excursión desde Montreux o desde Lausana. 
 
-![ciudades de suiza para visitar en tren](etheria_images/2021/04/suiza-tren-ginebra.jpg "Vista de Ginebra y del Jet d'Eau en el lago. © Switzerland Tourism/Jan Geerk")
+![ciudades de suiza para visitar en tren](etheria-images/2021/04/suiza-tren-ginebra.jpg "Vista de Ginebra y del Jet d'Eau en el lago. © Switzerland Tourism/Jan Geerk")
 
 ### Ginebra
 
@@ -186,7 +186,7 @@ de la Reforma**, el **Museo Patek Philippe** (con una magnífica colección de r
 el **Museo y Biblioteca Bodmer Fondation**, que guarda una de las colecciones de 
 manuscritos e incunables más importantes del mundo. 
 
-![lugares turisticos en Ginebra](etheria_images/2021/04/suiza-en-tren-ginebra-reformadores.jpg "Estatuas de los reformadores suizos en el Promenade des Bastions. © Switzerland Tourism/Heinz Schwab")
+![lugares turisticos en Ginebra](etheria-images/2021/04/suiza-en-tren-ginebra-reformadores.jpg "Estatuas de los reformadores suizos en el Promenade des Bastions. © Switzerland Tourism/Heinz Schwab")
 
 En Ginebra no todo son museos, puntualidad suiza y calles ordenadas. Acércate también a 
 **Carouge**, una pequeña localidad pegada a la ciudad, para vivir la Suiza más bohemia, 
@@ -204,7 +204,7 @@ panorámicos están también incluidos, tan solo hay que abonar el suplemento de
 plaza. Puedes elegir la de 3, 4, 8 y 15 días, que podrás disfrutar en jornadas 
 consecutivas o alternas. Toda la información en este [enlace](http://MySwitzerland.com/suizaentren). 
 
-![Suiza en primavera](etheria_images/2021/04/suiza-tren-primavera.jpg "Primavera en el lago Lemán. © Switzerland Tourism/Beat Mueller")
+![Suiza en primavera](etheria-images/2021/04/suiza-tren-primavera.jpg "Primavera en el lago Lemán. © Switzerland Tourism/Beat Mueller")
 
 ### Ruta en tren
 

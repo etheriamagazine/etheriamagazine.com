@@ -1,18 +1,18 @@
 ---
 title: "‘Memorias de África’ más allá de Robert Redford y Meryl Streep"
 date: 2020-10-12
-coverImage: etheria_images/2020/09/memorias-africa-Paisaje-de-Kenia.jpg
+coverImage: etheria-images/2020/09/memorias-africa-Paisaje-de-Kenia.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 La película ‘Memorias de África’ acaba cuando Denys (Robert Redford) muere al estrellarse su avioneta, y Karen (Meryl Streep) abandona África. Pero aquella historia de amor también tiene otras "historias" menos conocidas que os contamos a continuación... Coge papel y lápiz para seguir la secuencia de amores, amantes y aventuras épicas.
 
-![atardecer en kenia memorias de africa](etheria_images/2020/09/memorias-africa-Paisaje-de-Kenia.jpg "Atardecer en Kenia. © Pedro Grifol")
+![atardecer en kenia memorias de africa](etheria-images/2020/09/memorias-africa-Paisaje-de-Kenia.jpg "Atardecer en Kenia. © Pedro Grifol")
 
 A los viajeros decimonónicos el continente africano les atraía por su exotismo. Un mundo 
 repleto de animales salvajes y de etnias desconocidas que también se revelaba a los ojos 
@@ -32,7 +32,7 @@ conseguía más dinero para seguir dilapidando en lo que le diera la gana y ella
 estatus y ‘la libertad’ que quería. El matrimonio, que empezó bajo mínimos, se alargó 
 diez penosos años, pero significó el comienzo de **la aventura africana de Karen**. 
 
-![escena de memorias de africa](etheria_images/2020/09/pelicula-memorias-de-africa.jpg "Escena de 'Memorias de África'. © Mirage Entertainment, Universal Pictures")
+![escena de memorias de africa](etheria-images/2020/09/pelicula-memorias-de-africa.jpg "Escena de 'Memorias de África'. © Mirage Entertainment, Universal Pictures")
 
 ## La granja de la baronesa Blixen
 
@@ -49,7 +49,7 @@ negocio. Karen y Bror se divorciaron en 1925.
 > aquella época la sífilis se trataba con remedios tan nocivos como el mercurio y el 
 > arsénico. 
 
-![baronesa blixen en memorias de africa](etheria_images/2020/09/Karen-Blixen-memorias-africa.jpg "La baronesa Blixen (Dcha.) fue interpretada por Meryl Streep.")
+![baronesa blixen en memorias de africa](etheria-images/2020/09/Karen-Blixen-memorias-africa.jpg "La baronesa Blixen (Dcha.) fue interpretada por Meryl Streep.")
 
 ## El barón Bror y Denys Finch Hatton, colegas de cacerías
 
@@ -64,7 +64,7 @@ amigo de su ya exmarido. El perfil de Denys y el de Bror no eran muy distintos, 
 **Denys era más culto, gozaba del arte de la conversación y era más guapo que el 
 barón**, cualidades que sin duda alguna enamoraron a la sufridora Karen. 
 
-![robert redford interpreto a denys finch en memorias africa](etheria_images/2020/09/denys-finch-memorias-africa.jpg "Denys Finch Hatton fue interpretado por Robert Redford en 'Memorias de África'.")
+![robert redford interpreto a denys finch en memorias africa](etheria-images/2020/09/denys-finch-memorias-africa.jpg "Denys Finch Hatton fue interpretado por Robert Redford en 'Memorias de África'.")
 
 Karen logró que el encantador cazador se instalara en su casa al poco tiempo de comenzar 
 la relación; y allí establecieron la base de su nuevo negocio. **Denys comenzó a dirigir 
@@ -87,7 +87,7 @@ Aquí acaba la historia de **la aventura africana de Karen Blixen**… “basada
 reales” tal y como reza en los títulos de crédito de la famosa película ‘Memorias de 
 África’. 
 
-![Beryl Markham volo de europa a america](etheria_images/2020/09/Beryl-Markham-mujer-piloto.jpg "Beryl Markham, una mujer con una historia apasionante.")
+![Beryl Markham volo de europa a america](etheria-images/2020/09/Beryl-Markham-mujer-piloto.jpg "Beryl Markham, una mujer con una historia apasionante.")
 
 ## Beryl Markham, una mujer todoterreno
 
@@ -114,7 +114,7 @@ Cuando Beryl voló por primera vez con Denys Finch Hatton (la pareja de Karen) s
 atracción irresistible por la aviación. Beryl amplió el objeto de sus atracciones al 
 piloto… que se convirtió en su amante. 
 
-![Beryl Markham amante de denys finch](etheria_images/2020/09/Beryl-Markham-memorias-africa.jpg "Beryl Markham mantuvo un idilio con Denys Finch (Robert Redford).")
+![Beryl Markham amante de denys finch](etheria-images/2020/09/Beryl-Markham-memorias-africa.jpg "Beryl Markham mantuvo un idilio con Denys Finch (Robert Redford).")
 
 Poco después de la muerte de Denys, **Beryl se enamoró de Tom Campbell**, otro piloto de 
 la pandilla, con quién verdaderamente aprendió a volar. Durante años se dedicó al 
@@ -132,7 +132,7 @@ en la **primera persona que voló de Inglaterra a Norteamérica sin escalas**. T
 Campbell, con el que Beryl había roto la relación hacía años, murió en un accidente de 
 aviación el 19 de septiembre de ese mismo año. 
 
-![Beryl Markham cruzo el atlantico sola](etheria_images/2020/09/Beryl-Markham-aventurera-1936.jpg "Beryl Markham cruzó sola el Atlántico de este a oeste en avión.")
+![Beryl Markham cruzo el atlantico sola](etheria-images/2020/09/Beryl-Markham-aventurera-1936.jpg "Beryl Markham cruzó sola el Atlántico de este a oeste en avión.")
 
 ##### Un _affaire_ real
 
@@ -147,7 +147,7 @@ no pudo imputar al príncipe Enrique, pero sí nombró al piloto Hubert Broad co
 co-demandado en su divorcio de Beryl; y como la relación con el aviador pudo probarse, 
 obtuvo el divorcio. 
 
-![libros memorias de africa karen blixen y bery markham](etheria_images/2020/09/libros-memorias-africa.jpg "'Out of África, de Karen Blixen, y 'Al oeste con la noche', de Beryl Markham.")
+![libros memorias de africa karen blixen y bery markham](etheria-images/2020/09/libros-memorias-africa.jpg "'Out of África, de Karen Blixen, y 'Al oeste con la noche', de Beryl Markham.")
 
 ##### Una gran escritora
 
@@ -163,7 +163,7 @@ Markham pudo disfrutar de una cómoda situación financiera durante los últimos
 vida. Volvió a África, donde esta piloto y ‘cazadora de pilotos’ acabó sus aventuras a 
 los 84 años. 
 
-![casa de karen blixen memorias africa](etheria_images/2020/09/Casa-Museo-de-Karen-Blixen-en-Nairobi.jpg "Casa Museo de Karen Blixen en Nairobi. © Pedro Grifol")
+![casa de karen blixen memorias africa](etheria-images/2020/09/Casa-Museo-de-Karen-Blixen-en-Nairobi.jpg "Casa Museo de Karen Blixen en Nairobi. © Pedro Grifol")
 
 ## Lejos de África
 
@@ -186,7 +186,7 @@ atardeceres encendidos y mesas instaladas a la luz de la luna en los hoteles de 
 como la película se rodó en los lugares africanos en los que había sucedido todo, 
 contribuyó al mito de viajar al escenario de los hechos. 
 
-![visita la casa museo de karen blixen memorias africa](etheria_images/2020/09/salon-casa-de-Karen-Blixen-en-Nairobi.jpg "Interior de la casa de Karen Blixen, en Nairobi. © Pedro Grifol")
+![visita la casa museo de karen blixen memorias africa](etheria-images/2020/09/salon-casa-de-Karen-Blixen-en-Nairobi.jpg "Interior de la casa de Karen Blixen, en Nairobi. © Pedro Grifol")
 
 La baronesa Blixen, o Isak Dinesen, o Karen Dinesen (los 3 nombres que usó en su vida 
 literaria) fue candidata al premio Nobel en dos ocasiones, que no ganó. Falleció en 

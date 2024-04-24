@@ -1,11 +1,11 @@
 ---
 title: "Cabo de Creus, 10 pisadas 'slow' frente al Mediterráneo"
 date: 2019-06-17
-coverImage: etheria_images/2019/06/Viaje-girona-medieval-e1559737808621.jpg
+coverImage: etheria-images/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -14,7 +14,7 @@ viajar, sigue estas pistas por el Empordà. Te contamos qué ver en Girona, conc
 en la zona del cabo de Creus, un lugar reluciente con pueblos tan bonitos como Cadaqués 
 o Peratallada. 
 
-![Cadaqués](etheria_images/2019/06/viaje-girona-cadaques.jpg "Cadaqués.")
+![Cadaqués](etheria-images/2019/06/viaje-girona-cadaques.jpg "Cadaqués.")
 
 Haciendo _slow travel_ olvidarás las prisas cotidianas y te delitarás en los detalles 
 del paisaje del cabo de Creus. Siente la luz mediterránea y descubre la relajada huella 
@@ -36,7 +36,7 @@ muestran como madura el arroz de Pals, orgullo de los agricultores de esta tierr
 **Es Portal**, una masía de 500 años, saborea el paisaje a través de sus deliciosos 
 platos protagonizados por el arroz cultivado con criterios amigos del medioambiente. 
 
-![Pals en Girona](etheria_images/2019/06/Viaje-girona-medieval-e1559737808621.jpg "Villa medieval de Pals, en el Bajo Empordá.")
+![Pals en Girona](etheria-images/2019/06/Viaje-girona-medieval-e1559737808621.jpg "Villa medieval de Pals, en el Bajo Empordá.")
 
 ## Marinera entre sepias
 
@@ -51,7 +51,7 @@ De paso te llevarás una de las visiones más hermosas del litoral del **macizo 
 Montgrí**. Con sus calas y ancestrales caminos de ronda, es uno de los miradores más 
 apetecibles de la Costa Brava. 
 
-![marineros del proyecto sepia](etheria_images/2019/06/Viaje-girona-proyecto-sepia.jpg "Proyecto Sepia.")
+![marineros del proyecto sepia](etheria-images/2019/06/Viaje-girona-proyecto-sepia.jpg "Proyecto Sepia.")
 
 ## Pirata entre anchoas
 
@@ -65,7 +65,7 @@ espíritu marinero para catar el mejor secreto de la Costa Brava: la elaboració
 artesanal de las [anchoas de L’Escala](https://www.anxoves-soles.com/es/). Entonces sí 
 podrás confirmar que están entre las más ricas del mundo. 
 
-![anchoas de L'Escala](etheria_images/2019/06/viaje-girona-anchoas.jpg "Factoría de conservas de anchoas Solés, en L'Escala.")
+![anchoas de L'Escala](etheria-images/2019/06/viaje-girona-anchoas.jpg "Factoría de conservas de anchoas Solés, en L'Escala.")
 
 ## Espiritual en la catedral que nunca lo fue
 
@@ -81,7 +81,7 @@ medieval más auténtico del pueblo. Es a comienzos de septiembre, durante el **
 Terra de Trobadors** cuando entrarás en una sinagoga de las que poseyera la judería o 
 bailarás al ritmo de la música del medievo. 
 
-![Portada de Basílica de Santa María, en Castelló d'Empúries](etheria_images/2019/06/viaje-girona-castello-empuries.jpg "Basílica de Santa María, en Castelló d'Empúries.")
+![Portada de Basílica de Santa María, en Castelló d'Empúries](etheria-images/2019/06/viaje-girona-castello-empuries.jpg "Basílica de Santa María, en Castelló d'Empúries.")
 
 ## Paciente como el ave que salvó un humedal
 
@@ -95,7 +95,7 @@ diversos ambientes naturales. Disfruta con los sobrevuelos del martín pescador,
 a la cerceta carretona, el emblema del parque natural, y, en tus recorridos, lleva a 
 mano esta guía para reconocer a sus 50 especies más habituales. 
 
-![Parque natural de Aiguamolls de l'Emporda.](etheria_images/2019/06/viaje-girona-naturaleza.jpg "Parque natural de Aiguamolls de l'Emporda.")
+![Parque natural de Aiguamolls de l'Emporda.](etheria-images/2019/06/viaje-girona-naturaleza.jpg "Parque natural de Aiguamolls de l'Emporda.")
 
 ## Enamorada del hombre que veía salir el sol
 
@@ -110,7 +110,7 @@ con formas modeladas por el viento de la tramuntana y el salitre marino. Llega h
 faro y respira hondo, habrás llegado 10 kilómetros mar adentro hasta el punto más 
 oriental de la península Ibérica. 
 
-![Casa museo de Salvador Dalí](etheria_images/2019/06/viaje-girona-casa-gaudi.jpg "Casa museo de Salvador Dalí.")
+![Casa museo de Salvador Dalí](etheria-images/2019/06/viaje-girona-casa-gaudi.jpg "Casa museo de Salvador Dalí.")
 
 ## Enóloga al sol
 
@@ -124,7 +124,7 @@ actividades como un paseo nocturno, probar sus huevos estrellados –producidos 
 gallinas que viven bajo las estrellas- o dormir en el viñedo, y acaba de una manera muy 
 chic tu visita con un picnic entre viñas. 
 
-![Vinos ecológicos de la Bodega La Vinyeta](etheria_images/2019/06/viaje-girona-bodegas.jpg "Vinos ecológicos de la Bodega La Vinyeta.")
+![Vinos ecológicos de la Bodega La Vinyeta](etheria-images/2019/06/viaje-girona-bodegas.jpg "Vinos ecológicos de la Bodega La Vinyeta.")
 
 ## Apasionada del mercado
 
@@ -140,7 +140,7 @@ lugar de donde viene lo que comes. Después date un paseo por las calles salpica
 **arquitectura modernista** de esta ciudad rodeada de volcanes como el **Montsacopa**, 
 situado en pleno casco urbano. 
 
-![Charcutería de Jordi Vilarrasa en Olot](etheria_images/2019/06/viaje-girona-mercados.jpg "Jordi Vilarrasa vende productos de cerdo.")
+![Charcutería de Jordi Vilarrasa en Olot](etheria-images/2019/06/viaje-girona-mercados.jpg "Jordi Vilarrasa vende productos de cerdo.")
 
 ## Embobada mirando las estrellas
 
@@ -153,7 +153,7 @@ recibió en 2015 su reconocimiento como **reserva Starlight** por su compromiso 
 conocer el cielo estrellado. Ciencia y turismo se dan la mano gracias a la astronomía 
 pues en este valle estrellado sentirás que casi puedes tocar el universo. 
 
-![Observatorio astronómico de Albanya](etheria_images/2019/06/viaje-girona-observar-estrellas.jpg "Observatorio astronómico de Albanya.")
+![Observatorio astronómico de Albanya](etheria-images/2019/06/viaje-girona-observar-estrellas.jpg "Observatorio astronómico de Albanya.")
 
 ## Amante del baño de bosque
 
@@ -166,7 +166,7 @@ vivo único que es el bosque. Puedes hacerlo a tu aire, pero deja que los amigos
 bosques de la **Asociación Selvans** (sevalns.ong) te inicien en un bosque maduro 
 gerundés a través de una experiencia natural que te reconecta con tu lado más salvaje. 
 
-![bosque de La Garrotxa](etheria_images/2019/06/viaje-girona-banos-bosque.jpg "Baños de bosque.")
+![bosque de La Garrotxa](etheria-images/2019/06/viaje-girona-banos-bosque.jpg "Baños de bosque.")
 
 ? **También te puede interesar:** 
 

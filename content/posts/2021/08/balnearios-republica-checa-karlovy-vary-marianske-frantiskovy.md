@@ -1,19 +1,19 @@
 ---
 title: "Karlovy Vary, Mariánské Lázně y Františkovy Lázně, descubre el secreto de la eterna juventud en Chequia"
 date: 2021-08-13
-coverImage: etheria_images/2021/08/republica-checa-Karlovy-Vary.jpg
+coverImage: etheria-images/2021/08/republica-checa-Karlovy-Vary.jpg
 categories: 
   - bienestar-belleza
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Karlovy Vary, Mariánské Lázně y Františkovy Lázně ya forman parte de la lista de la Unesco como las mejores ciudades balneario de la República Checa. Este conocido Triángulo Balneario de Chequia es una invitación a recuperar la salud, a relajarse y a dejarse empapar por la cultura de estos destinos. Te contamos qué ver y hacer en estas bellísimas ciudades.
 
-![Marianske Lazne Triangulo Balneario de la Republica Checa](etheria_images/2021/08/spa-Marianske-Lazne.jpg "Un relajante tratamiento en Mariánské Lázně. © Žentel Lukáš")
+![Marianske Lazne Triangulo Balneario de la Republica Checa](etheria-images/2021/08/spa-Marianske-Lazne.jpg "Un relajante tratamiento en Mariánské Lázně. © Žentel Lukáš")
 
 El Comité del Patrimonio Mundial de la Unesco reconoce cada año una serie de destinos, 
 monumentos o entornos que merecen una protección especial. En 2021 ha decidido destacar 
@@ -32,7 +32,7 @@ era casi obligado pasarse por allí. Ese es el motivo por el que hoy día se apr
 magníficos teatros, mansiones, jardines, paseos y columnatas que cobijan fuentes de las 
 que brota agua sin cesar. 
 
-![agua manantial Karlovy Vary](etheria_images/2021/08/Karlovy-Vary-manantial.jpg "Fuente de Karlovy Vary. © Marvan David")
+![agua manantial Karlovy Vary](etheria-images/2021/08/Karlovy-Vary-manantial.jpg "Fuente de Karlovy Vary. © Marvan David")
 
 ## Tres ciudades termales en Chequia para sanar cuerpo y mente
 
@@ -44,7 +44,7 @@ horas) hasta las ciudades termales. ¿Y dónde es mejor alojarse? Cualquiera de 
 adecuada ya que la distancia entre **Karlovy** **Vary** y **Mariánské Lázně** es de 54 
 kilómetros y de 46 hasta **Františkovy Lázně**. 
 
-![Karlovy Vary  Triangulo Balneario de la Republica Checa](etheria_images/2021/08/ciudad-termal-Karlovy-Vary.jpg "Karlovy Vary. © Renner Ladislav")
+![Karlovy Vary  Triangulo Balneario de la Republica Checa](etheria-images/2021/08/ciudad-termal-Karlovy-Vary.jpg "Karlovy Vary. © Renner Ladislav")
 
 ## Karlovy Vary
 
@@ -59,7 +59,7 @@ personajes de la talla de Paganini, Casanova o Mozart para aliviar sus dolencias
 mayores beneficios del agua termal se obtienen si padeces problemas en los aparatos 
 digestivo y locomotor, y en los trastornos metabólicos. 
 
-![agua termal de Karlovy Vary](etheria_images/2021/08/republica-checa-Karlovy-Vary.jpg "Dos viajeros con los jarritos para beber el agua mineral en Karlovy Vary. © Czech Tourism")
+![agua termal de Karlovy Vary](etheria-images/2021/08/republica-checa-Karlovy-Vary.jpg "Dos viajeros con los jarritos para beber el agua mineral en Karlovy Vary. © Czech Tourism")
 
 ### Qué hacer en Karlovy Vary
 
@@ -77,7 +77,7 @@ kilómetros, se encuentra [Loket](https://www.visitczechrepublic.com/es-ES/Thing
 un precioso pueblo con un no menos bonito castillo gótico. No dejes de entrar para ver 
 las exposiciones de porcelana y los instrumentos de tortura. 
 
-![columnata Marianske Lazne](etheria_images/2021/08/columnata-Marianske-Lazne.jpg "Majestuosa columnata de Mariánské Lázně. © Renner Ladislav")
+![columnata Marianske Lazne](etheria-images/2021/08/columnata-Marianske-Lazne.jpg "Majestuosa columnata de Mariánské Lázně. © Renner Ladislav")
 
 ## Mariánské Lázně
 
@@ -95,7 +95,7 @@ Otros de sangre azul, como George VII, también eran incondicionales y venían a
 a recibir sus tratamientos. Hoy día se conserva, tal cual estaba en 1905, la **Cabina 
 Real del complejo Nové Lázně** que este monarca utilizaba. 
 
-![Marianske Lazne triangulo termal checo](etheria_images/2021/08/chequia-Marianske-Lazne.jpg "El amarillo es uno de los colores dominantes en Mariánské Lázně. © Renner Ladislav")
+![Marianske Lazne triangulo termal checo](etheria-images/2021/08/chequia-Marianske-Lazne.jpg "El amarillo es uno de los colores dominantes en Mariánské Lázně. © Renner Ladislav")
 
 En Mariánské Lázně no fue un rey quien descubrió que el agua termal era curativa sino un 
 médico, **Johann Josef Nehr**, que vivía en el cercano monasterio de Teplá. Alrededor de 
@@ -114,7 +114,7 @@ que alberga el relicario de San Mauro, uno de los más bellos ejemplos de arte m
 europeo, y al [monasterio de 
 Teplá](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Religious-monuments/c-tepla-monastery). 
 
-![Frantiskovy Lazne Triangulo Balneario de la Republica Checa](etheria_images/2021/08/chequia-Frantiskovy-Lazne.jpg "Bonita arquitectura de Františkovy Lázně. © Renner Ladislav")
+![Frantiskovy Lazne Triangulo Balneario de la Republica Checa](etheria-images/2021/08/chequia-Frantiskovy-Lazne.jpg "Bonita arquitectura de Františkovy Lázně. © Renner Ladislav")
 
 ## Františkovy Lázně
 
@@ -129,7 +129,7 @@ elegantes paseos y arcadas clasicistas son la mejor prueba de que los tratamient
 funcionaban, además de que era habitual ver por allí a personajes históricos como 
 Strauss, Kafka, Beethoven o al príncipe Klemens von Metternich. 
 
-![Františkovy Lázně triangulo termal checo](etheria_images/2021/08/que-ver-Frantiskovy-Lazne-1.jpg "Bonita arquitectura de Františkovy Lázně. © Renner Ladislav")
+![Františkovy Lázně triangulo termal checo](etheria-images/2021/08/que-ver-Frantiskovy-Lazne-1.jpg "Bonita arquitectura de Františkovy Lázně. © Renner Ladislav")
 
 ¿Cuál es el súper poder del agua de los manantiales de [Františkovy 
 Lázně](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Spa-and-Wellness/Medical-Spas/t-frantiskovy-lazne-frazensbad)? 
@@ -146,7 +146,7 @@ caso, puedes ir directamente a conocer la casa donde se hospedó **Beethoven**. 
 verano al parque acuático **Aquaforum**, que dispone de saunas, piscina, hidromasajes, 
 cuevas acuáticas, y un campo de vóley-playa. 
 
-![Escultura de Frantisek de  Frantiskovy Lazne](etheria_images/2021/08/triangulo-balneario-Frantiskovy-Lazne-Frantisek.jpg "Escultura de František, en Františkovy Lázně. © Renner Ladislav")
+![Escultura de Frantisek de  Frantiskovy Lazne](etheria-images/2021/08/triangulo-balneario-Frantiskovy-Lazne-Frantisek.jpg "Escultura de František, en Františkovy Lázně. © Renner Ladislav")
 
 Dos excursiones aconsejables desde Františkovy Lázně son la ciudad de [Cheb](https://www.visitczechrepublic.com/es-ES/Things-to-Do/Places/Landmarks/Cities/t-cheb), 
 con sus bonitas casas con entramado, y la interesante [Reserva Natural de 

@@ -1,11 +1,11 @@
 ---
 title: "Tres mujeres polacas que han hecho del mundo un lugar mejor"
 date: 2023-03-08
-coverImage: etheria_images/2023/03/mujer-polaca-wislawa-szymborska.jpg
+coverImage: etheria-images/2023/03/mujer-polaca-wislawa-szymborska.jpg
 categories: 
   - mujeres-que-inspiran
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 La aportación de la mujer polaca al mundo es digna de admiración. Las siguientes líneas 
@@ -13,7 +13,7 @@ están dedicadas a tres de ellas, Marie Curie, Wislawa Szymborska e Irena Eris, 
 trabajo ha añadido peldaños al avance y bienestar de la humanidad. Mujeres polacas que 
 están, además, ligadas a algunas de las ciudades y lugares más bellos de Polonia. 
 
-![Cracovia fue la cuna literaria de la poeta Wislawa Szymborska.](etheria_images/2023/03/viaje-cracovia.jpg "Cracovia fue la cuna literaria de la poeta Wislawa Szymborska.")
+![Cracovia fue la cuna literaria de la poeta Wislawa Szymborska.](etheria-images/2023/03/viaje-cracovia.jpg "Cracovia fue la cuna literaria de la poeta Wislawa Szymborska.")
 
 Nacidas en diferentes épocas, en un país cuyo mapa ha aumentado y encogido hasta 
 desaparecer a lo largo de su controvertida historia, a estas **tres mujeres polacas** 
@@ -38,7 +38,7 @@ Mundial y reconstruida, como el resto de la antigua Varsovia, gracias a unos boc
 Canaletto. La minuciosa restauración ha devuelto la belleza barroca de estas casas 
 pintadas con vivos colores. 
 
-![Maria Sklodowoska, más conocida como Marie Curie.](etheria_images/2023/03/marie-curie-mujer-polonia.jpg "Maria Sklodowska, más conocida como Marie Curie.")
+![Maria Sklodowoska, más conocida como Marie Curie.](etheria-images/2023/03/marie-curie-mujer-polonia.jpg "Maria Sklodowska, más conocida como Marie Curie.")
 
 Un recorrido por **la Varsovia de María Sklodowska** empieza en la Plaza del Castillo, 
 custodiada por la columna de Segismundo, para confluir en la Plaza del Mercado, rodeada 
@@ -53,7 +53,7 @@ influyó en que a Mania, como la llamaban familiarmente, poco le importaran los 
 habituales de los adolescentes (vida social, ropa…) y que su meta fuese "aprender". De 
 hecho, finalizó la escuela secundaria en 1883 con medalla de oro. 
 
-![Fachadas de colores de la Ciudad Vieja de Varsovia.](etheria_images/2023/03/centro-varsovia.jpg "Ciudad Vieja de Varsovia.")
+![Fachadas de colores de la Ciudad Vieja de Varsovia.](etheria-images/2023/03/centro-varsovia.jpg "Ciudad Vieja de Varsovia.")
 
 En una Polonia dominada por la vecina Rusia, donde estaba prohibido hablar polaco y 
 **las mujeres no tenían acceso a la universidad**, Maria Sklodowska no tuvo más remedio 
@@ -63,7 +63,7 @@ por jóvenes con ansias de estudiar, especialmente mujeres. Grupos de diez perso
 se reunían clandestinamente siguiendo las directrices positivistas de August Comte, 
 luchando contra el romanticismo a favor de la ciencia. 
 
-![Escultura de Maria Sklodowska-Curie en el El Instituto Nacional de Investigación Oncológica Maria Sklodowska-Curie y Casa Museo de Maria Sklodowska](etheria_images/2023/02/marie-curie-varsovia-estatua-museo.jpg "Escultura de Maria Sklodowska-Curie en el Instituto Nacional de Investigación Oncológica Maria Sklodowska-Curie y Casa Museo de Maria Sklodowska. © MM")
+![Escultura de Maria Sklodowska-Curie en el El Instituto Nacional de Investigación Oncológica Maria Sklodowska-Curie y Casa Museo de Maria Sklodowska](etheria-images/2023/02/marie-curie-varsovia-estatua-museo.jpg "Escultura de Maria Sklodowska-Curie en el Instituto Nacional de Investigación Oncológica Maria Sklodowska-Curie y Casa Museo de Maria Sklodowska. © MM")
 
 ### Madame Curie
 
@@ -102,7 +102,7 @@ epístola.
 **No te pierdas:** [Tres rutas para recorrer Varsovia, una ciudad 
 sorprendente](https://etheriamagazine.com/2021/03/05/que-ver-en-varsovia-en-tres-rutas-originales/) 
 
-![Fotografía en blanco y negro de la poeta polaca Wislawa Szymborska](etheria_images/2023/03/mujer-polaca-wislawa-szymborska.jpg "© Fundación Wislawa Szymborska")
+![Fotografía en blanco y negro de la poeta polaca Wislawa Szymborska](etheria-images/2023/03/mujer-polaca-wislawa-szymborska.jpg "© Fundación Wislawa Szymborska")
 
 ## Wislawa Szymborska: poeta, enamorada de Cracovia
 
@@ -124,7 +124,7 @@ Suecia.
 **No te pierdas:** [Zakopane, su arquitectura de madera, sabores y estaciones de 
 esquí](https://etheriamagazine.com/2021/01/27/que-ver-en-zakopane-viaje-original-polonia/). 
 
-![arquitectura en Zakopane](etheria_images/2021/01/Zakopane-estilo-Witkiewicz.jpg "Casa estilo Witkiewicz. © Manena Munar")
+![arquitectura en Zakopane](etheria-images/2021/01/Zakopane-estilo-Witkiewicz.jpg "Casa estilo Witkiewicz. © Manena Munar")
 
 ### Sus primeros poemas
 
@@ -142,7 +142,7 @@ sobremesa. En cuanto a los poemas escritos desde su más tierna infancia, una ve
 terminados, los leía su padre y si le gustaban, le daba una moneda de premio. Decía 
 Szymborska “leer es el pasatiempo más bello creado por la humanidad”. 
 
-![La Lonja de Paños de Cracovia](etheria_images/2023/02/Cracovia-lonja-de-paños.jpg "La Lonja de Paños de Cracovia. © Oficina de Turismo de Polonia.")
+![La Lonja de Paños de Cracovia](etheria-images/2023/02/Cracovia-lonja-de-paños.jpg "La Lonja de Paños de Cracovia. © Oficina de Turismo de Polonia.")
 
 ### Cracovia, su lugar en el mundo
 
@@ -159,7 +159,7 @@ de los Escritores, en la calle Krupnicza 22. Esta etapa la desmenuzan Anna Bikon
 Joanna Szczesna en el libro _Trastos, recuerdos_, la magnífica biografía que escribieron 
 sobre Wislawa Szymborska. 
 
-![Casas en Cracovia](etheria_images/2023/02/polonia-cracovia.jpg "Rincón cracoviano por el que asoma la torre de la Basílica de Santa María en la Plaza del Mercado. © MM")
+![Casas en Cracovia](etheria-images/2023/02/polonia-cracovia.jpg "Rincón cracoviano por el que asoma la torre de la Basílica de Santa María en la Plaza del Mercado. © MM")
 
 ### La vida bohemia de su ciudad favorita
 
@@ -185,7 +185,7 @@ se gana una zurra en el colegio y otra en casa".
 
 ```
 
-![Café Nowa Prowincja en Cracovia](etheria_images/2023/03/Cafe-Nowa-Prowincja.jpg "© Café Nowa Prowincja, en Cracovia.")
+![Café Nowa Prowincja en Cracovia](etheria-images/2023/03/Cafe-Nowa-Prowincja.jpg "© Café Nowa Prowincja, en Cracovia.")
 
 Cuando había algo que celebrar, el séquito se trasladaba a uno de sus lugares 
 preferidos, el **Café Nowa Prowincja**, de cuyas paredes aún cuelgan sus fotos y en 
@@ -218,7 +218,7 @@ El 1 de febrero de 2012, a los 88 años, murió esta poeta y crítica literaria.
 de Wislawa Szymborska descansan en el panteón familiar del cementerio cracoviano de 
 Rakowicki. 
 
-![Irena Eris, farmacéutica y creadora de una importante firma de cosmética.](etheria_images/2023/03/dr-irena-eris-mujer-polaca.jpg "© Irena Eris, farmacéutica y creadora de una importante firma de cosmética.")
+![Irena Eris, farmacéutica y creadora de una importante firma de cosmética.](etheria-images/2023/03/dr-irena-eris-mujer-polaca.jpg "© Irena Eris, farmacéutica y creadora de una importante firma de cosmética.")
 
 ## Irena Eris: reina de la cosmética, fundó su empresa en Mazovia
 
@@ -237,7 +237,7 @@ ocupaba de la gestión administrativa y comercial, la doctora Irena Eris fundó 
 que lleva su nombre en 1987, en la ciudad de **Piaseczno**, región de **Mazovia**. 
 Contaban entonces con un solo trabajador y fabricaban una única crema. 
 
-![Paisaje de Mazovia](etheria_images/2023/02/polonia-mazovia.jpg "Paisaje de Mazovia. © MM")
+![Paisaje de Mazovia](etheria-images/2023/02/polonia-mazovia.jpg "Paisaje de Mazovia. © MM")
 
 Eran momentos de cambios políticos, en el que el sindicato de Solidaridad intentaba 
 negociar con el gobierno las primeras elecciones libres del bloque del Este que, 
@@ -260,7 +260,7 @@ quinientos trabajadores** que elaboran más de un millón de productos al mes, s
 la filosofía de su fundadora que se basa en la calidad, la **efectividad, la seguridad y 
 la innovación**. 
 
-![Spa en Polonia de Irena Eris](etheria_images/2023/02/Hotel-krynicazdroj-Irena-Eris.jpg "Spa del balneario Krynica-Zdroj de © Institutos Cosméticos Irena Eris.")
+![Spa en Polonia de Irena Eris](etheria-images/2023/02/Hotel-krynicazdroj-Irena-Eris.jpg "Spa del balneario Krynica-Zdroj de © Institutos Cosméticos Irena Eris.")
 
 ### Relajación y cosmética
 

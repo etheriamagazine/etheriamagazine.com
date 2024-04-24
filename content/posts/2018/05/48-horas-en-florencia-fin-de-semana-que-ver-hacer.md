@@ -1,11 +1,11 @@
 ---
 title: "Florencia en un fin de semana, claves par aprovecharlo"
 date: 2018-05-16
-coverImage: etheria_images/2018/05/TOSCANA-FLORENCIA-FACHADA-CATEDRAL.jpg
+coverImage: etheria-images/2018/05/TOSCANA-FLORENCIA-FACHADA-CATEDRAL.jpg
 categories: 
   - de-un-vistazo
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Hay tanto arte en Florencia que una vida entera no daría para contemplar con el tiempo 
@@ -13,7 +13,7 @@ que merecen todos sus tesoros artísticos. Un fin de semana al menos permite dis
 su ambiente y de sus lugares más emblemáticos, esos que forman parte de la historia del 
 arte y de la humanidad. 
 
-![Florencia y la catedral de Santa Maria dei Fiore.](etheria_images/2018/05/fin-semana-florencia-duomo.jpg "Florencia y la catedral de Santa Maria dei Fiore. © Marian Brandt")
+![Florencia y la catedral de Santa Maria dei Fiore.](etheria-images/2018/05/fin-semana-florencia-duomo.jpg "Florencia y la catedral de Santa Maria dei Fiore. © Marian Brandt")
 
 ```
 Actualizado: febrero 2023
@@ -44,7 +44,7 @@ es obligado, ya que además permite contemplar de cerca los frescos del Juicio F
 la cúpula, lo mejor del interior del templo. Si se dispone de tiempo (y fuerzas) merece 
 la pena subir al Campanile y acceder al interior del baptisterio de San Giovanni. 
 
-![El Campanile de Florencia visto desde la cúpula del Duomo.](etheria_images/2018/05/TOSCANA-FLORENCIA-CAMPANILLE-683x1024.jpg "El Campanile de Florencia visto desde la cúpula del Duomo.")
+![El Campanile de Florencia visto desde la cúpula del Duomo.](etheria-images/2018/05/TOSCANA-FLORENCIA-CAMPANILLE-683x1024.jpg "El Campanile de Florencia visto desde la cúpula del Duomo.")
 
 ## Sábado: caminar y empaparse de la belleza florentina
 
@@ -64,7 +64,7 @@ Y, si te decides a entrar, sus salas descubren un mundo de tesoros, muchos de la
 Médici. Detrás queda el **Giardino di Boboli**, un bonito jardín al que se puede entrar 
 después de un paseo por el palacio. 
 
-![Atravesar el Ponte Vecchio es uno de los must en Florencia.](etheria_images/2018/05/TOSCANA-FLORENCIA-PONTE-VECCHIO-6-1024x683.jpg "Atravesar el Ponte Vecchio es uno de los must en Florencia.")
+![Atravesar el Ponte Vecchio es uno de los must en Florencia.](etheria-images/2018/05/TOSCANA-FLORENCIA-PONTE-VECCHIO-6-1024x683.jpg "Atravesar el Ponte Vecchio es uno de los must en Florencia.")
 
 Para terminar, nada mejor que perderse en esta orilla del río Arno y buscar, entre las 
 estrechas calles, las **tiendas de artesanos** que todavía mantienen las tradiciones en 
@@ -83,7 +83,7 @@ salas es cronológico y puedes preparar la visita con antelación seleccionando 
 de obras que quieres ver o dejarte llevar. En cualquier caso, son imprescindibles las 
 salas dedicadas a Boticcelli y Leonardo da Vinci. 
 
-!["La adoración de los Magos". Obra inacabada de Leonardo da Vinci. Galleria degli Uffizi.](etheria_images/2018/05/TOSCANA-FLORENCIA-UFFICI-LEONARDO-1024x683.jpg ""La adoración de los Magos". Obra inacabada de Leonardo da Vinci. Galleria degli Uffizi.")
+!["La adoración de los Magos". Obra inacabada de Leonardo da Vinci. Galleria degli Uffizi.](etheria-images/2018/05/TOSCANA-FLORENCIA-UFFICI-LEONARDO-1024x683.jpg ""La adoración de los Magos". Obra inacabada de Leonardo da Vinci. Galleria degli Uffizi.")
 
 Después, volvemos a atravesar la Piazza San Giovanni y dirigimos los pasos a la 
 **Galleria dell’Accademia** para contemplar el David de Miguel Ángel. Da igual las veces 
@@ -96,7 +96,7 @@ asegurarse la vuelta a la ciudad. Pero antes párate a tomar algo en una de las
 cafeterías históricas de la **Piazza della Repubblica**, como el café Gilli. Nada mejor 
 que terminar un fin de semana como este con un buen dulce. 
 
-![David de Miguel Angel. Galleria dell'Accademia.](etheria_images/2018/05/TOSCANA-FLORENCIA-LA-ACADEMIA-684x1024.jpg "David de Miguel Angel. Galleria dell'Accademia.")
+![David de Miguel Angel. Galleria dell'Accademia.](etheria-images/2018/05/TOSCANA-FLORENCIA-LA-ACADEMIA-684x1024.jpg "David de Miguel Angel. Galleria dell'Accademia.")
 
 ## Consejos útiles en Florencia
 

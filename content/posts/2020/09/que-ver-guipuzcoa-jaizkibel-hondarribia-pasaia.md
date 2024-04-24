@@ -1,18 +1,18 @@
 ---
 title: "8 pasiones al pie del monte Jaizkibel en la costa de Guipúzcoa"
 date: 2020-09-08
-coverImage: etheria_images/2020/08/faro-cabo-higuer.jpg
+coverImage: etheria-images/2020/08/faro-cabo-higuer.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 La costa guipuzcoana, desde la desembocadura del Bidasoa en Hondarribia hasta el abrigado puerto de Pasaia, surge recortada por la silueta prominente del monte Jaizkibel. Entre las mayores cumbres litorales cantábricas, asoma abiertamente al oleaje como señal costera inconfundible de que llegamos a buen puerto. Explora esta costa con nosotras y la añadirás a tus lugares favoritos.
 
-![txingudi, rutas pais vasco](etheria_images/2020/08/bahia-txingudi.jpg "Bahía de Txingudi con Hendaya enfrente.")
+![txingudi, rutas pais vasco](etheria-images/2020/08/bahia-txingudi.jpg "Bahía de Txingudi con Hendaya enfrente.")
 
 Hay algo hermoso en llegar a lugares que siempre han temido aquello que pueda llegar por 
 mar como ocurría en Hondarribia y Pasaia, en la costa de Guipúzcoa, con las invasiones 
@@ -26,7 +26,7 @@ escondida bocana del estratégico puerto de **Pasaia**. También en las fortific
 que salpican la geografía del **monte Jaizkibel**, un tesoro geológico a cuyo abrigo una 
 se siente a salvo. 
 
-![Jaizkibel, rutas pais vasco](etheria_images/2020/08/jaizkibel.jpg "Monte Jaizkibel.")
+![Jaizkibel, rutas pais vasco](etheria-images/2020/08/jaizkibel.jpg "Monte Jaizkibel.")
 
 ## 1\. Hondarribia y Hendaya, una vieja historia de amor y desamor
 
@@ -40,7 +40,7 @@ atraviesan constantemente la fluida línea divisoria, ya sea para ir a la playa 
 glamur; o cruzar la bahía en el ferri, a modo de autobús acuático, para un día de 
 compras en un país o en otro. 
 
-![faro cabo higuer, rutas pais vasco](etheria_images/2020/08/faro-cabo-higuer.jpg "Faro del cabo de Higuer.")
+![faro cabo higuer, rutas pais vasco](etheria-images/2020/08/faro-cabo-higuer.jpg "Faro del cabo de Higuer.")
 
 ## 2\. Hondarribia y el primer faro ibérico
 
@@ -59,7 +59,7 @@ con su aspecto fortificado. A lo largo de la _**Kale Nagusia**_ –calle Mayor�
 escudos nobiliarios aderezan su sobriedad defensiva, aleros tallados y balconadas de 
 hierro forjado de notables casas palacio hasta la puerta de Santa María en la muralla. 
 
-![castillo emperador carlos V, rutas pais vasco](etheria_images/2020/08/castillo-emperador-carlos-V.jpg "Castillo del emperador Carlos V.")
+![castillo emperador carlos V, rutas pais vasco](etheria-images/2020/08/castillo-emperador-carlos-V.jpg "Castillo del emperador Carlos V.")
 
 ## 3\. Hondarribia y su encanto marinero
 
@@ -73,7 +73,7 @@ de _karrakelas_ –caracolillos de mar– y sentarnos a disfrutarlos como si fue
 con vistas a la **calle de San Pedro**, la principal vía urbana alrededor de la que 
 creció el **barrio Portua** de los pescadores o _arrantzales_. 
 
-![hondarribia, la marina, rutas pais vasco](etheria_images/2020/08/marina-hondarribia.jpg "Detalle de la fachada litoral de Hondarribia.")
+![hondarribia, la marina, rutas pais vasco](etheria-images/2020/08/marina-hondarribia.jpg "Detalle de la fachada litoral de Hondarribia.")
 
 ## 4\. Lugar de protección ante piratas
 
@@ -93,7 +93,7 @@ ningún otro lugar del mundo. Si algo es permanente e inmutable se dice que es s
 como una roca, pero las de Jaizkibel son probablemente las formas más hermosas que el 
 agua marina y de lluvia han labrado en sus areniscas como reto a la inmutabilidad. 
 
-![Jaizkibel, rutas pais vasco, guipuzcoa](etheria_images/2020/08/monte-jaizkibel.jpg "Geografía rocosa del monte Jaizkibel.")
+![Jaizkibel, rutas pais vasco, guipuzcoa](etheria-images/2020/08/monte-jaizkibel.jpg "Geografía rocosa del monte Jaizkibel.")
 
 ## 5\. Villa Magalean, descanso fiel a la montaña
 
@@ -114,7 +114,7 @@ esconde una historia ligada a la cultura vasca, desde la tradicional _makila_, b
 autoridad que simboliza la fuerza, hasta la obra gráfica de Erwin Dazelle, artista de 
 Baiona autor de las llamativas vidrieras con motivos pescadores. 
 
-![hotel villa magalean, hondarribia](etheria_images/2020/08/villa-magalean.jpg "Villa Magalean.")
+![hotel villa magalean, hondarribia](etheria-images/2020/08/villa-magalean.jpg "Villa Magalean.")
 
 ## 6\. Pasión por el mar en el velero Lucretia
 
@@ -132,7 +132,7 @@ Con [Ostarte Sailing](https://ostartesailing.com/) navegan a vela siguiendo la c
 la vez que nos adentran en un entusiasta viaje marinero, el de los barcos construidos a 
 mano con maderas nobles y una historia apasionante detrás. 
 
-![velero lucretia, navegar hondarribia](etheria_images/2020/08/barco-lucretia-pasaia.jpg "Detalle del velero Lucretia.")
+![velero lucretia, navegar hondarribia](etheria-images/2020/08/barco-lucretia-pasaia.jpg "Detalle del velero Lucretia.")
 
 ## 7\. San Pedro de Pasaia y el fiordo vasco
 
@@ -153,7 +153,7 @@ También de su puerto partió el marqués de Lafayette en el velero _La Victoire
 denominado en honor de Elcano- rumbo a los Estados Unidos para unirse a la lucha por la 
 independencia. 
 
-![fiordos vascos, navegar por hondarribia](etheria_images/2020/08/fiordos-vascos.jpg "Fiordos vascos.")
+![fiordos vascos, navegar por hondarribia](etheria-images/2020/08/fiordos-vascos.jpg "Fiordos vascos.")
 
 ## 8\. La nao San Juan en Albaola, un sueño en proceso
 
@@ -166,7 +166,7 @@ soñaba con ser carpintero de ribera. No quedaba de quién aprender en los puert
 guipuzcoanos y se marchó a Estados Unidos donde conoció el rescate, en aguas del 
 estrecho de Bering, del San Juan, el barco que le robó el corazón. 
 
-![pasaia san juan, viaje Euskadi](etheria_images/2020/08/pasaia-san-juan.jpg "Pasaia San Juan.")
+![pasaia san juan, viaje Euskadi](etheria-images/2020/08/pasaia-san-juan.jpg "Pasaia San Juan.")
 
 Fue el primer barco comercial armado en Pasaia, aunque su agilidad para maniobrar y 
 ligereza no evitó su hundimiento en 1565 cargado de aceite de ballena. No obstante su 

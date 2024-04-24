@@ -1,13 +1,13 @@
 ---
 title: "Descubre el secreto de la felicidad que guarda celosamente Copenhague"
 date: 2019-09-23
-coverImage: etheria_images/2019/09/copenhague-original-coffee.jpg
+coverImage: etheria-images/2019/09/copenhague-original-coffee.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Ana Maria Pareja
+authors: 
+  - Ana María Pareja
 ---
 
 Viajamos a Copenhague para descubrir la magia del Tivoli, los colores de Nyhavn o la 
@@ -15,7 +15,7 @@ rebeldía de Christiania. Pero, sobre todo, vamos a buscar el secreto para ser m
 felices. Te contamos todo lo que puedes hacer en la capital danesa en un fin de semana 
 largo. 
 
-![Fachada de Original Coffee en Copenhague](etheria_images/2019/09/copenhague-original-coffee-900x600.jpg "Original Coffee.")
+![Fachada de Original Coffee en Copenhague](etheria-images/2019/09/copenhague-original-coffee-900x600.jpg "Original Coffee.")
 
 Dicen que ese secreto –que no es tan secreto– se llama _hygge_ y que está basado en 
 encontrar **la felicidad en las pequeñas cosas**, en lo simple. Los daneses gozan, por 
@@ -32,7 +32,7 @@ dotada con una tablet táctil con mapas, datos de interés de la ciudad y un sis
 pago electrónico. Además, hay diversos tours en bici a los que apuntarse, con guías 
 locales para no perderse detalle de la ciudad de la Sirenita. 
 
-![bicicleta Copenhague](etheria_images/2019/09/3-dias-copenhague-en-bici.jpg "La bicicleta es imprescindible en Copenhague.")
+![bicicleta Copenhague](etheria-images/2019/09/3-dias-copenhague-en-bici.jpg "La bicicleta es imprescindible en Copenhague.")
 
 Copenhague es pequeña y compacta por lo que recorrer andando las calles, puentes y 
 barrios de esta urbe moderna y vanguardista es otra opción más que recomendable. Una 
@@ -44,7 +44,7 @@ se alza la estampa más reconocida de la ciudad: el **canal de Nyahvn**. Sus tí
 simétricas casitas de colores dan vida a lo que antaño fue un sórdido embarcadero 
 rodeado de tabernas y burdeles; hoy embellecen una zona ideal para pasear. 
 
-![barcos alquiler canal copenhague](etheria_images/2019/09/alquilar-barco-copenhague-GoBoat4-900x600.jpg "Barcos de alquiler para recorrer el canal.")
+![barcos alquiler canal copenhague](etheria-images/2019/09/alquilar-barco-copenhague-GoBoat4-900x600.jpg "Barcos de alquiler para recorrer el canal.")
 
 ## De parque en parque
 
@@ -56,7 +56,7 @@ cuentista Hans Christian Andersen. Sin olvidar al imponente **Friederiksberg Hav
 su inmenso lago, sus preciosos jardines barrocos y su _China Tea House_ o el Cementerio 
 de Assistens, un parque más para los daneses, con su aire romántico y encantador. 
 
-![castillo rosenborg, que ver en copenhague](etheria_images/2019/09/copenhague-castillo-Rosenborg.jpg "Castillo de Rosenborg. © Martin Heiberg")
+![castillo rosenborg, que ver en copenhague](etheria-images/2019/09/copenhague-castillo-Rosenborg.jpg "Castillo de Rosenborg. © Martin Heiberg")
 
 Eso sí, los jardines con más encanto son indiscutiblemente los del **Tivoli**. Será por 
 sus aires retro –fueron abiertos en 1843–, por sus atracciones desde las que se puede 
@@ -64,7 +64,7 @@ ver toda la ciudad, por sus conciertos gratuitos o por sus teatros y restaurante
 cual sea la razón, al [Tivoli](https://www.tivoligardens.com/en?_ga=2.40356514.1404149184.1568137116-1028718693.1568137116) 
 se va a divertirse; parte de su secreto es que hay algo para todos. 
 
-![El Tivoli se tematiza para Hallowee](etheria_images/2019/09/tivoli-copenhague-halloween-900x600.jpg "El Tivoli se tematiza para Halloween y en otras ocasiones especiales del año.")
+![El Tivoli se tematiza para Hallowee](etheria-images/2019/09/tivoli-copenhague-halloween-900x600.jpg "El Tivoli se tematiza para Halloween y en otras ocasiones especiales del año.")
 
 ## Vanguardia en todos los frentes
 
@@ -73,7 +73,7 @@ gastronomía. Con **Noma** –que recopila recetas nórdicas con ingredientes de
 bosques cercanos– a la cabeza de los restaurantes más sibaritas y un amor profundo por 
 el icónico **smørrebrød** (bocadillo tradicional). En Copenhague se come muy bien. 
 
-![Comida de la Restaurante Noma en Copenhague](etheria_images/2019/09/restaurante-noma-Copenhagen.jpg "Restaurante Noma.")
+![Comida de la Restaurante Noma en Copenhague](etheria-images/2019/09/restaurante-noma-Copenhagen.jpg "Restaurante Noma.")
 
 Repleta de restaurantes con estrella Michelin, mercadillos y _food trucks_, la ciudad es 
 un paraíso _foodie_ para todos los bolsillos. El **mercado de Torvehallerne** es de 
@@ -83,7 +83,7 @@ sirve auténticos tacos hechos ‘como los hacía su abuela’ (importa el maíz
 elabora su propio quesillo), hasta el **famoso Grød** (www.groed.com/en), donde comprar 
 desayunos tan locales como un _porridge_ de avena. 
 
-![Royal Danish Opera en Copenhague](etheria_images/2019/09/copenague-royal-opera-900x572.jpg "Royal Danish Opera. © Jens Markus Lindhe")
+![Royal Danish Opera en Copenhague](etheria-images/2019/09/copenague-royal-opera-900x572.jpg "Royal Danish Opera. © Jens Markus Lindhe")
 
 La modernidad de esta bella ciudad también se aprecia en sus joyas arquitectónicas, 
 muchas de las cuales se ven mejor desde un barco, hay que tener en cuenta que Copenhague 
@@ -93,7 +93,7 @@ oscuro de la Biblioteca Real y por el imponente edificio de la **Royal Danish Op
 diseñado en 2005 y financiado por un magnate naviero, llegando hasta la emblemática 
 Sirenita y de vuelta al colorido barrio portuario. 
 
-![Mirador de Rundetarn en Copenhague](etheria_images/2019/09/mirador-Rundetarn-900x549.jpg "Mirador de Rundetårn.")
+![Mirador de Rundetarn en Copenhague](etheria-images/2019/09/mirador-Rundetarn-900x549.jpg "Mirador de Rundetårn.")
 
 ## Utopía ‘antisistema’
 
@@ -106,7 +106,7 @@ que por sus maravillosas vistas a más de 90 metros sobre el suelo, es por la av
 subir hasta la cima: 400 escalones en forma de caracol, los últimos 150 al aire libre; 
 una subida no apta para quienes sufren de vértigo. 
 
-![palacio de Christiansborg en copenhague](etheria_images/2019/09/copenague-palacio-Christiansborg-900x601.jpg "Palacio de Christiansborg.")
+![palacio de Christiansborg en copenhague](etheria-images/2019/09/copenague-palacio-Christiansborg-900x601.jpg "Palacio de Christiansborg.")
 
 Muy cerca de allí se alza la **ciudad libre de Christiania**, quizás uno de los barrios 
 más interesantes y, sin duda, alternativos de la capital danesa. Hacia 1970 y ocupando 
@@ -118,7 +118,7 @@ Instagram y, por el contrario, está permitido el consumo de sustancias blandas 
 marihuana; una bella utopía. Es una sociedad tolerante y abierta, como el resto de los 
 habitantes de Copenhague; todos parecen haber encontrado el secreto para ser felices. 
 
-![Christiania en conpenhague](etheria_images/2019/09/comunidad-hippie-Christiania-900x644.jpg "Christiania. © Peter Holliday")
+![Christiania en conpenhague](etheria-images/2019/09/comunidad-hippie-Christiania-900x644.jpg "Christiania. © Peter Holliday")
 
 [Fotos: Visit Copenhagen](http://www.visitcopenhagen.com/) 
 

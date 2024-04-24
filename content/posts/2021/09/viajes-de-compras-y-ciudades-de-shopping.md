@@ -1,16 +1,16 @@
 ---
 title: "12 ciudades donde el shopping debe estar en la agenda"
 date: 2021-09-07
-coverImage: etheria_images/2021/09/compras-londres.jpg
+coverImage: etheria-images/2021/09/compras-londres.jpg
 categories: 
   - regalos-compras-viajeras
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Hacer viajes de compras es cada vez más habitual, pasear por históricas galerías comerciales, adquirir algún recuerdo en un puesto callejero, curiosear en mercados, regatear en un zoco... todo ello tiene ese punto de autocomplacencia que aporta a una escapada un indefinible placer. No te sientas culpable en estas ciudades por apuntarte al "shopping" porque está totalmente justificado.
 
-![viajes de compras barcelona las ramblas](etheria_images/2021/09/compras-ramblas-barcelona.jpg "Las Ramblas de Barcelona. © Jorge Fernández")
+![viajes de compras barcelona las ramblas](etheria-images/2021/09/compras-ramblas-barcelona.jpg "Las Ramblas de Barcelona. © Jorge Fernández")
 
 ## 1\. Barcelona
 
@@ -21,7 +21,7 @@ diseño y de la moda**, y dispone de exclusivas tiendas en el Paseo de Gracia, e
 Avenida del Portal de L’Angel, el Carrer de la Princessa y Carrer de l’Argenteria. No 
 olvides tampoco, calles como Dels Tallers, cerca de Las Ramblas. 
 
-![compras ibiza](etheria_images/2018/05/Ibiza-COMPRAS_MARINA_consell-1024x770.jpg "© Turismo de Ibiza.")
+![compras ibiza](etheria-images/2018/05/Ibiza-COMPRAS_MARINA_consell-1024x770.jpg "© Turismo de Ibiza.")
 
 ## 2\. Ibiza
 
@@ -34,7 +34,7 @@ visitar este paraíso balear. Otro destino de compras en las islas Baleares es
 Formentera, no te pierdas el artículo: [¿Te vienes de compras a 
 Formentera?](https://etheriamagazine.com/2018/07/06/de-compras-en-formentera/) 
 
-![las setas el mejor mirador de sevilla](etheria_images/2020/09/viaje-original-las-setas-sevilla-900x479.jpg "Las Setas, una de las construcciones más vanguardistas de Sevilla.")
+![las setas el mejor mirador de sevilla](etheria-images/2020/09/viaje-original-las-setas-sevilla-900x479.jpg "Las Setas, una de las construcciones más vanguardistas de Sevilla.")
 
 ## 3\. Sevilla
 
@@ -45,7 +45,7 @@ Manila) o hacen un alto en el camino en terrazas y tabernas. ¡Cómo no comprar 
 de lunares en las tiendas flamencas del **barrio de la Alfalfa**, si solo con verlas ya 
 sientes alegría! 
 
-![compras en gran via madrid](etheria_images/2021/09/compras-madrid.jpg "Eje de compras de Callao-Gran Vía, Madrid. © Alberto Restifo")
+![compras en gran via madrid](etheria-images/2021/09/compras-madrid.jpg "Eje de compras de Callao-Gran Vía, Madrid. © Alberto Restifo")
 
 ## 4\. Madrid
 
@@ -57,7 +57,7 @@ todo, en Gran Vía y Preciados. El domingo deberías visitar el mercado callejer
 castizo: **El Rastro;** y el finde que toque, el [Mercado de 
 Motores](https://mercadodemotores.es/). 
 
-![viajes de compras viena](etheria_images/2021/09/viajes-compras-viena-683x1024.jpg "Calle comercial de Viena. © Philipp Lublasser")
+![viajes de compras viena](etheria-images/2021/09/viajes-compras-viena-683x1024.jpg "Calle comercial de Viena. © Philipp Lublasser")
 
 ## 5\. Viena
 
@@ -69,7 +69,7 @@ Wellendorff. Para compras más asequibles no hay que olvidar Mariahilfer Strasse
 una ciudad que encuentres habitualmente en los listados de viajes de compras pero 
 creednos, merece la pena. 
 
-![galerias comerciales de paris](etheria_images/2021/09/compras-paris-galeria-grand-cerf.jpg "Las bonitas Galerías Grand Cerf de París. © SIM Graphic Design")
+![galerias comerciales de paris](etheria-images/2021/09/compras-paris-galeria-grand-cerf.jpg "Las bonitas Galerías Grand Cerf de París. © SIM Graphic Design")
 
 ## 6\. París
 
@@ -80,7 +80,7 @@ comerciales.** Algunos son tan bonitos como la Galerie Vivienne, construida en 1
 Pequeños comercios se asoman a esta galería de techo acristalado y bello suelo de 
 mosaico. 
 
-![mercadillo candem town londres](etheria_images/2021/09/mercadillo-candem-londres.jpg "Mercadillo de Candem Town en Londres. © Hert Niks")
+![mercadillo candem town londres](etheria-images/2021/09/mercadillo-candem-londres.jpg "Mercadillo de Candem Town en Londres. © Hert Niks")
 
 ## 7\. Londres
 
@@ -91,7 +91,7 @@ capital inglesa entre pasear por grandes avenidas como **Oxford o Regent Street*
 cazar algún tesoro inesperado en mercadillos tan icónicos como Portobello Road Market o 
 Camden Market. 
 
-![galeria Vittorio Emanuele II viajes de compras milan](etheria_images/2021/09/galeria-vitorio-enmanuele-milan.jpg "Históricas galerías de Vittorio Emanuele II, en Milán.")
+![galeria Vittorio Emanuele II viajes de compras milan](etheria-images/2021/09/galeria-vitorio-enmanuele-milan.jpg "Históricas galerías de Vittorio Emanuele II, en Milán.")
 
 ## 8\. Milán
 
@@ -104,7 +104,7 @@ escaparates ya puede ser considerado visita turística. Otras calles comerciales
 conviene apuntar: Vía Torino, Corso Buenos Aires, Porta Ticine… además del Serravalle 
 Outlet, donde se pueden ahorrar unos cuantos euros. 
 
-![Calle Tkalciceva, viaje zagreb](etheria_images/2020/04/viaje-croacia-zagreb-tkalciceva-street-900x590.jpg "Calle Tkalciceva, ideal para comprar recuerdos en Zagreb. © J.Duval/ Turismo Zagreb")
+![Calle Tkalciceva, viaje zagreb](etheria-images/2020/04/viaje-croacia-zagreb-tkalciceva-street-900x590.jpg "Calle Tkalciceva, ideal para comprar recuerdos en Zagreb. © J.Duval/ Turismo Zagreb")
 
 ## 9\. Zagreb
 
@@ -114,7 +114,7 @@ la capital croata brinda calles llenas de vida, gracias a su población universi
 todo tipo de comercios. En la avenida Ilica se encuentra casi de todo y en **la 
 encantadora calle Tkalciceva** artículos únicos. 
 
-![viajes de compras kuala lumpur](etheria_images/2021/09/compras-kuala-lumpur.jpg "Kuala Lumpur. © Kah Hay Chee")
+![viajes de compras kuala lumpur](etheria-images/2021/09/compras-kuala-lumpur.jpg "Kuala Lumpur. © Kah Hay Chee")
 
 ## 10\. Kuala Lumpur
 
@@ -124,7 +124,7 @@ emana de sus mercados nocturnos. Los malayos son grandes amantes de las compras 
 **centros comerciales de lujo**. Ir de shopping en Kuala Lumpur, y aprovechar las 
 tiendas libres de impuestos, es una experiencia muy recomendable. 
 
-![quinta avenida nueva york compras](etheria_images/2021/09/viajes-compras-nueva-york.jpg "Quinta Avenida de Nueva York. © Rémi Thorel")
+![quinta avenida nueva york compras](etheria-images/2021/09/viajes-compras-nueva-york.jpg "Quinta Avenida de Nueva York. © Rémi Thorel")
 
 ## 11\. Nueva York
 
@@ -135,7 +135,7 @@ _boutiques_. Siente el _glamour_ de la Quinta Avenida, deambula por el Soho hast
 conseguir la prenda más _vintage_ y no olvides sus _outlets_. Nueva York es uno de los 
 viajes de compras que hay que hacer más de una vez en la vida. 
 
-![mercado de bangkok compras](etheria_images/2021/09/compras-en-bangkok.jpg "Mercado de Bangkok. © Lisheng Chang")
+![mercado de bangkok compras](etheria-images/2021/09/compras-en-bangkok.jpg "Mercado de Bangkok. © Lisheng Chang")
 
 ## 12\. Bangkok
 

@@ -1,11 +1,11 @@
 ---
 title: "Aventura en Polonia: los últimos bisontes de Europa están en Bialowieza"
 date: 2019-01-30
-coverImage: etheria_images/2019/01/Bialowieza-atardecer.jpg
+coverImage: etheria-images/2019/01/Bialowieza-atardecer.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
+authors: 
   - Kris Ubach
 ---
 
@@ -15,7 +15,7 @@ este bosque polaco conserva algunos de los patrimonios históricos (vegetales y 
 más valiosos de nuestro continente. Nuestra propuesta es que viajes sola o con amigas 
 amantes de la naturaleza a este rincón tan poco conocido. 
 
-![Amanecer en Bialowieza.](etheria_images/2019/01/Bialowieza-atardecer.jpg "Amanecer en Bialowieza. © Kris Ubach")
+![Amanecer en Bialowieza.](etheria-images/2019/01/Bialowieza-atardecer.jpg "Amanecer en Bialowieza. © Kris Ubach")
 
 En el rincón de mapa que comparten Polonia y Bielorrusia se extiende **Bialowieza**, 
 **el último bosque primario de Europa**. Es el único reducto que nos queda de los 
@@ -29,7 +29,7 @@ de líquenes y 165 especies de musgo.
 > "En un centímetro cuadrado de suelo de Bialowieza se han llegado a catalogar esporas de 
 > 3.000 especies de setas diferentes. Con eso queda todo dicho" 
 
-![Barbara Banka en Bialowieza](etheria_images/2019/01/Bialowieza-arboles.jpg "Barbara Banka, artista polaca que ha encontrado la inspiración en Bialowieza. © Kris Ubach")
+![Barbara Banka en Bialowieza](etheria-images/2019/01/Bialowieza-arboles.jpg "Barbara Banka, artista polaca que ha encontrado la inspiración en Bialowieza. © Kris Ubach")
 
 Para conocer más a fondo esta naturaleza milenaria me instalaré en el corazón del 
 bosque, dentro de cuyos límites y pegada a la frontera bielorrusa se levanta la escueta 
@@ -61,7 +61,7 @@ Central. En 2016 se contabilizaron 578 individuos salvajes en la parte polaca de
 Bialowieza y unos 500 en el sector bielorruso del parque. Pero eso es, tristemente, todo 
 lo que queda de ellos. 
 
-![Huellas sobre la nieve en el Parque Natural de Bialowieza.](etheria_images/2019/01/Bialowieza-huella-1024x682.jpg "Huellas sobre la nieve en el Parque Natural de Bialowieza. © Kris Ubach")
+![Huellas sobre la nieve en el Parque Natural de Bialowieza.](etheria-images/2019/01/Bialowieza-huella-1024x682.jpg "Huellas sobre la nieve en el Parque Natural de Bialowieza. © Kris Ubach")
 
 Tras varias horas caminando y acechando entre hielo, niebla y árboles totémicos, 
 avistamos un nutrido grupo de hembras pastando bajo unas coníferas. Están demasiado 
@@ -80,7 +80,7 @@ ser humano no puede realizar ni la más mínima injerencia. Ni siquiera se permi
 entrada a los turistas, salvo por una pequeña franja de cuatro kilómetros a la que solo 
 se puede acceder acompañado de un guía con licencia. 
 
-![Árbol gigante en el Parque Natural de Bialowieza](etheria_images/2019/01/Bialowieza-arbol-milenario.jpg "El Parque Natural de Bialowieza deja constancia de lo que una vez debió ser Europa. © Kris Ubach")
+![Árbol gigante en el Parque Natural de Bialowieza](etheria-images/2019/01/Bialowieza-arbol-milenario.jpg "El Parque Natural de Bialowieza deja constancia de lo que una vez debió ser Europa. © Kris Ubach")
 
 Es un caos vegetal extraordinario. Cientos de árboles en todos sus estadios de vida 
 desde incipientes ejemplares hasta viejos decrépitos milenarios. Troncos vencidos a 
@@ -107,7 +107,7 @@ Uno de estos animales puede llegar a pesar unos 900 kilos por lo que preferimos 
 semejante mole no decida pasar por encima de nosotras. La jornada da mucho de sí y 
 también conseguimos inmortalizar a ciervos, a corzos y a muchos árboles centenarios. 
 
-![Bisontes en Bialowieza](etheria_images/2019/01/Bialowieza-bisontes.jpg "En Bialowieza están los últimos bisontes en libertad de Europa. © Kris Ubach")
+![Bisontes en Bialowieza](etheria-images/2019/01/Bialowieza-bisontes.jpg "En Bialowieza están los últimos bisontes en libertad de Europa. © Kris Ubach")
 
 Regresamos muy felices al calor de la casa rural, a la sauna que la acompaña y 
 prometemos hacer todo lo posible por ayudar a conservar este inmenso tesoro vegetal que 

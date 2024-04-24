@@ -1,20 +1,20 @@
 ---
 title: "8 excursiones con niños desde el sur de Tenerife"
 date: 2020-03-06
-coverImage: etheria_images/2020/02/Tenerife-canadas-Teide.jpg
+coverImage: etheria-images/2020/02/Tenerife-canadas-Teide.jpg
 categories: 
   - consejos-practicos
   - viaje-en-familia
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 El sur de Tenerife es idóneo para aquellas familias que quieren disfrutar de unas vacaciones en un lugar con un clima agradable en cualquier época del año. Si no quieres pasar todos los días en la playa o la piscina del hotel, aquí te proponemos ocho excursiones perfectas para realizar con niños.
 
-![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria_images/2020/02/Tenerife-canadas-Teide-900x600.jpg "Paseo por las Cañadas del Teide. © SG")
+![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria-images/2020/02/Tenerife-canadas-Teide-900x600.jpg "Paseo por las Cañadas del Teide. © SG")
 
 ```
 Actualizado 7/2021
@@ -33,7 +33,7 @@ atravesando el Parque Natural de la Corona Forestal, irás viendo como cambia el
 y la vegetación hasta llegar al Parque Nacional del Teide, con sus paisajes lunares que 
 parecen de otro mundo. 
 
-![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria_images/2020/02/Tenerife-Teide-teleferico-900x601.jpg "Teleférico que te lleva a lo alto del Teide.")
+![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria-images/2020/02/Tenerife-Teide-teleferico-900x601.jpg "Teleférico que te lleva a lo alto del Teide.")
 
 Si quieres subir caminando hasta la cima (en realidad 200 metros por debajo de los 3.718 
 metros que tiene el Teide) tendrás que pedir un permiso gratuito en [www.reservasparquesnacionales.es](https://www.reservasparquesnacionales.es/real/ParquesNac/usu/html/detalle-actividad-oapn.aspx?cen=2&act=1). 
@@ -45,7 +45,7 @@ la protección solar! La subida en [teleférico](https://www.civitatis.com/es/te
 sale desde 39,50 € los adultos y 18,50 € los niños. No pueden subir niños menores de 3 
 años y no está recomendado para embarazadas. 
 
-![orcas loro parque, viaje familia tenerife](etheria_images/2020/03/loro-parque-orcas-e1583314403373.jpg "El espectáculo con las orcas es el más emocionante de Loro Parque. © Etheria Magazine")
+![orcas loro parque, viaje familia tenerife](etheria-images/2020/03/loro-parque-orcas-e1583314403373.jpg "El espectáculo con las orcas es el más emocionante de Loro Parque. © Etheria Magazine")
 
 ## 2\. Visita exclusiva a Loroparque
 
@@ -60,7 +60,7 @@ perezosos, pandas rojos… Entrada de adulto a [Loro Parque desde 19
 €](https://www.civitatis.com/es/tenerife/entrada-loro-parque/?aid=10211), consulta 
 descuentos y gratuidades para menores. 
 
-![siam park, parques acuaticos tenerife](etheria_images/2020/03/siam-park-2.jpg "Siam Park, el mejor parque acuático de Tenerife. © Etheria Magazine")
+![siam park, parques acuaticos tenerife](etheria-images/2020/03/siam-park-2.jpg "Siam Park, el mejor parque acuático de Tenerife. © Etheria Magazine")
 
 ## 3\. Diversión en Siam Park
 
@@ -88,7 +88,7 @@ de un velero o un catamarán mientras disfrutas de la navegación, de los paisaj
 costa y de estos simpáticos animales. En algunas de estas excursiones podrás disfrutar 
 de un picnic a bordo y de hacer esnórquel. 
 
-![puerto de los gigantes, delfines tenerife](etheria_images/2020/03/Los-Gigantes-navegar-tenerife.jpg "Puerto de Los Gigantes. © Etheria Magazine")
+![puerto de los gigantes, delfines tenerife](etheria-images/2020/03/Los-Gigantes-navegar-tenerife.jpg "Puerto de Los Gigantes. © Etheria Magazine")
 
 ## 5\. Visita a los acantilados de los Gigantes y al barranco de Masca
 
@@ -104,7 +104,7 @@ Tanque](https://ecomuseodeltanque.es). Este curioso espacio permite conocer cóm
 modo de vida tradicional de Tenerife en medio de un paisaje excepcional. La entrada es 
 gratuita. 
 
-![la orotava, excursiones tenerife](etheria_images/2020/03/la-orotava-900x546.jpg "Casa de los Balcones, en La Orotava. © Etheria Magazine")
+![la orotava, excursiones tenerife](etheria-images/2020/03/la-orotava-900x546.jpg "Casa de los Balcones, en La Orotava. © Etheria Magazine")
 
 ## 6\. Excursión al valle de la Orotava, Icod de los Vinos y Garachico
 
@@ -118,7 +118,7 @@ La Orotava, ubicada en un precioso y fértil valle del mismo nombre, podrás dar
 entre casas señoriales tradicionales canarias y visitar la iglesia de la Concepción, el 
 Ayuntamiento y la Casa de los Balcones. 
 
-![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria_images/2020/02/Tenerife-Drago-Icod-de-los-Vinos-900x600.jpg "Drago milenario en Icod de los Vinos. © SG")
+![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria-images/2020/02/Tenerife-Drago-Icod-de-los-Vinos-900x600.jpg "Drago milenario en Icod de los Vinos. © SG")
 
 **Icod de los Vinos** se encuentra a tan solo media hora (por la TF-5) de La Orotava. 
 Allí tendrás una de las imágenes más conocidas de la isla: la del famoso [Drago 
@@ -130,7 +130,7 @@ aficionados a la Geología, podéis realizar una visita a la [Cueva del
 Viento](https://www.cuevadelviento.net) (no apta para menores de cinco años o personas 
 con claustrofobia). 
 
-![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria_images/2020/03/Tenerife-garachico-900x600.jpg "Garachico.")
+![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria-images/2020/03/Tenerife-garachico-900x600.jpg "Garachico.")
 
 Después, merece la pena parar en **Garachico**, en la costa norte, un pueblo que hasta 
 el siglo XVIII fue el puerto principal de Tenerife y que cuenta con unas bonitas 
@@ -148,7 +148,7 @@ tradicional de la isla en sus calles adoquinadas y edificios. No puedes perderte
 iglesia de la Concepción y la Catedral. Es una de las excursiones con niños en Tenerife 
 que también disfrutarán mucho los mayores. 
 
-![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria_images/2020/02/Tenerife-valle-Orotava-900x600.jpg "Vista de La Laguna.")
+![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria-images/2020/02/Tenerife-valle-Orotava-900x600.jpg "Vista de La Laguna.")
 
 Si quieres tener unas buenas vistas, acércate al **Parque Rural de Anaga** que cuenta 
 con bonitos miradores y donde se pueden realizar [rutas de 
@@ -159,7 +159,7 @@ los guanches, que dejarán a los más pequeños boquiabiertos.
 
 ## 8\. Visita del Observatorio del Teide
 
-![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria_images/2020/02/Tenerife-observatorio-900x600.jpg "Observatorio del Teide.")
+![viajes a Canarias, viajes familiares a Tenerife, rutas desde el sur de Tenerife](etheria-images/2020/02/Tenerife-observatorio-900x600.jpg "Observatorio del Teide.")
 
 Un plan perfecto para combinar diversión y aprendizaje es apuntarte a una visita guiada 
 del Observatorio del Teide, **el mayor observatorio solar del mundo**, que te ofrece una 

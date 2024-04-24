@@ -1,20 +1,20 @@
 ---
 title: "Las 10 mejores coctelerías de Madrid para tu próxima noche de amigas"
 date: 2019-10-22
-coverImage: etheria_images/2019/10/Coctelerias-Madrid-Coctel-Macera.jpg
+coverImage: etheria-images/2019/10/Coctelerias-Madrid-Coctel-Macera.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Vanesa
+authors: 
+  - Vanesa Viñolo
 ---
 
 ¿Puede haber mejor plan que salir con amigas a tomar un cóctel? Te recomendamos 10 coctelerías en Madrid que no puedes perderte y te contamos cuáles son sus cócteles estrella.
 
-![Salmón Gurú en Madrid](etheria_images/2019/10/Coctelerias-Madrid-salmon-guru-900x633.jpg "Sala de la coctelería © Salmón Gurú.")
+![Salmón Gurú en Madrid](etheria-images/2019/10/Coctelerias-Madrid-salmon-guru-900x633.jpg "Sala de la coctelería © Salmón Gurú.")
 
 Los cócteles son una manera sofisticada, divertida y mesurada de disfrutar de una copa. 
 Tanto si te sientes identificada con el perfil de mujer cosmopolita de 'Sexo en Nueva 
@@ -24,7 +24,7 @@ cada mezcla suele haber una historia y muchas pruebas de acierto-error. Y es que
 vez se alcanza la alquimia perfecta a la primera. Un mundo de precisión y disfrute que 
 engancha. 
 
-![Dos mujeres en Macera](etheria_images/2019/10/Coctelerias-Madrid-Coctel-Macera-900x597.jpg "Charla y cóctel en © Macera.")
+![Dos mujeres en Macera](etheria-images/2019/10/Coctelerias-Madrid-Coctel-Macera-900x597.jpg "Charla y cóctel en © Macera.")
 
 En este artículo te proponemos una selección que recoge desde esos locales clásicos que 
 siempre están de moda hasta las últimas incorporaciones que están dando que hablar en 
@@ -46,7 +46,7 @@ accede a un espacio atemporal, lleno de un encanto decadente que atrae de igual 
 farándula y aristocracia, a las más bellas modelos y a los ejecutivos más exitosos, a 
 escritores malditos y a prestigiosos actores. 
 
-![sala de la coctelería Cock](etheria_images/2019/10/Coctelerias-Madrid-coq-900x600.jpg "Ambiente en el bar © Cock.")
+![sala de la coctelería Cock](etheria-images/2019/10/Coctelerias-Madrid-coq-900x600.jpg "Ambiente en el bar © Cock.")
 
 Nacido de la mano de **Emilio Saracho** y **Perico Chicote**, este “gallo” surge del 
 sueño de idear un genuino club inglés pero es mucho más; es una cápsula del tiempo, es 
@@ -74,7 +74,7 @@ diseño de interiores del Ayuntamiento de Madrid. El mejor lugar para olvidarte 
 y sumergirte en uno de sus cócteles de la mano de la “vieja escuela” de **Fernando del 
 Diego** y su familia. Porque muchas veces menos es más. 
 
-![cócteles con amigas en Madrid](etheria_images/2019/10/Coctelerias-Madrid-amigas-900x585.jpg "¿Puede haber mejor plan que salir a brindar con amigas? © Kelly Sikkema")
+![cócteles con amigas en Madrid](etheria-images/2019/10/Coctelerias-Madrid-amigas-900x585.jpg "¿Puede haber mejor plan que salir a brindar con amigas? © Kelly Sikkema")
 
 **¿Dónde?** Calle de la Reina, 12. **¿Cuándo?** De lunes a sábado, a partir de las 19:00 
 horas. **¿Qué tomar?** Un 'Gin Fizz', un 'Daiquiri' o un 'Julepe de Menta' nunca 
@@ -91,7 +91,7 @@ Bar](https://www.facebook.com/1862DryBar) encontrarás muchas de esas recetas or
 pre-Ley Seca que Thomas puso en el mapa coctelero y que se muestran tan vigentes como el 
 primer día, pero adaptadas a nuestros gustos. 
 
-![cóctel en 1862 Dry Bar](etheria_images/2019/10/coctelerias-Madrid-1862-Dry-Bar-900x673.jpg "Sala de 1862 Dry Bar y cóctel 'Mary Pickford'. © 1862 Dry Bar")
+![cóctel en 1862 Dry Bar](etheria-images/2019/10/coctelerias-Madrid-1862-Dry-Bar-900x673.jpg "Sala de 1862 Dry Bar y cóctel 'Mary Pickford'. © 1862 Dry Bar")
 
 Si tuvieran que definirse como un cóctel, lo harían a través del '**Viejísimo Adonis**', 
 una recreación del clásico Adonis del siglo XIX (1884), que es una especie de Manhattan 
@@ -117,7 +117,7 @@ El responsable es **Rubén de Gracia**, que ha apostado por abrir su propia coct
 Chamberí, uno de los barrios más animados y castizos de Madrid, más concretamente en la 
 animada **plaza de Olavide**. 
 
-![cóctel en The Dash](etheria_images/2019/10/Coctelerias-Madrid-the-Dash-900x459.jpg "Coctelería The Dash y cóctel 'Apres le Alpes'. © The Dash")
+![cóctel en The Dash](etheria-images/2019/10/Coctelerias-Madrid-the-Dash-900x459.jpg "Coctelería The Dash y cóctel 'Apres le Alpes'. © The Dash")
 
 Allí realiza cócteles de hechuras clásicas, en los que los protagonistas son los 
 destilados de gran calidad. Así podrás disfrutar de un 'Rickshaw' (licor de jengibre, 
@@ -143,7 +143,7 @@ espacio para el I+D, en el que testar ediciones limitadas difíciles de encontra
 laboratorio donde imparten talleres y catas; y un lugar más abierto y espontáneo donde 
 armonizar los cócteles con una carta de comida. 
 
-![cócteles originales en Madrid](etheria_images/2019/10/Coctelerias-Madrid-Salmon-Guru-diego-Cabrera-900x268.jpg "Diego Cabrera en acción y dos de sus originales propuestas: 'Shipiba' y 'Sex apple'. © Salmón Gurú.")
+![cócteles originales en Madrid](etheria-images/2019/10/Coctelerias-Madrid-Salmon-Guru-diego-Cabrera-900x268.jpg "Diego Cabrera en acción y dos de sus originales propuestas: 'Shipiba' y 'Sex apple'. © Salmón Gurú.")
 
 Una experiencia intensa, completa y diferente que nos acerca al lado más salvaje y a 
 contracorriente del cóctel. Solo tienes que ver las divertidas presentaciones, a cual 
@@ -165,7 +165,7 @@ como anillo al dedo. Cócteles para el aperitivo, una tendencia muy actual, que 
 acompaña de opciones de picoteo muy “tabernarias” y con la que se transita de la taberna 
 a la coctelería pura, la reina cuando cae la noche. 
 
-![coctelería tradicional en Madrid](etheria_images/2019/10/Coctelerias-Madridviva-madrid-900x415.jpg "Cóctel 'Porn Star' y barra del Viva Madrid. © Viva Madrid")
+![coctelería tradicional en Madrid](etheria-images/2019/10/Coctelerias-Madridviva-madrid-900x415.jpg "Cóctel 'Porn Star' y barra del Viva Madrid. © Viva Madrid")
 
 **¿Dónde?** Manuel Fernández y González, 7. **¿Cuándo?** De martes a domingo, a partir 
 de las 12:00 horas. **¿Qué tomar?** A la hora del aperitivo su 'Media Combinación', a 
@@ -190,7 +190,7 @@ de entorno’ basada en los ingredientes caseros, con una gran vinculación con 
 del vino y que derrocha amor al producto de su huerta (microhuerto en la barra 
 incluido). Te va a encantar. 
 
-![cócteles en Madrid](etheria_images/2019/10/Coctelerias-Madrid-Angelita-900x537.jpg "Interior de la sala y cóctel en © Angelita.")
+![cócteles en Madrid](etheria-images/2019/10/Coctelerias-Madrid-Angelita-900x537.jpg "Interior de la sala y cóctel en © Angelita.")
 
 **¿Dónde?** Calle Reina, 4. **¿Cuándo?** De martes a domingo, a partir de las 13:30 
 horas. **¿Qué tomar?** Su 'Bloody Mary Sanluqueño', con un aliño 100% casero (manzanilla 
@@ -214,7 +214,7 @@ más escénicos, para dar respuesta a esa clamorosa demanda de creaciones más v
 Así han encontrado el equilibrio perfecto entre fondo y forma. Y no te vayas sin comer 
 una de sus hamburguesas… ¡Tremendas! 
 
-![barra típica de Madrid](etheria_images/2019/10/Coctelerias-Madrid-Baton-Rouge-900x400.jpg "Barra del © Baton Rouge Madrid y cóctel 'Mad Men in a Cage'.")
+![barra típica de Madrid](etheria-images/2019/10/Coctelerias-Madrid-Baton-Rouge-900x400.jpg "Barra del © Baton Rouge Madrid y cóctel 'Mad Men in a Cage'.")
 
 **¿Dónde?** Calle de la Victoria, 8. **¿Cuándo?** De lunes a domingo, a partir de las 
 19:00 horas. **¿Qué tomar?** ‘Voynich´s Mangoscript’, basado en el indescifrado 
@@ -233,7 +233,7 @@ espacios que fueran tan populares hace ya unos cuantos años y que ahora vuelven
 buenos momentos. Aquí encontrarás una coctelería Tiki y tropical clásica, buen ambiente 
 y un trocito del Pacífico en pleno centro de Madrid. 
 
-![Cóctel de Hawai en Madrid](etheria_images/2019/10/Coctelerias-Madrid-Tiki-900x600.jpg "Cóctel estilo hawaiano en © Tiki Chateau.")
+![Cóctel de Hawai en Madrid](etheria-images/2019/10/Coctelerias-Madrid-Tiki-900x600.jpg "Cóctel estilo hawaiano en © Tiki Chateau.")
 
 **¿Dónde?** San Vicente Ferrer 32 **¿Cuándo?** De lunes a domingo, a partir de las 19:00 
 horas. **¿Qué tomar?** Un 'Mai Tai' y su versión del 'Zombie' son una opción inmejorable 
@@ -250,7 +250,7 @@ cócteles, y acompañar esta novedosa propuesta con alguno de sus sándwiches o 
 caseras. Además, realizan talleres en los que te introducen en el mundo de las 
 maceraciones. 
 
-![barman en Madrid](etheria_images/2019/10/coctelerias-Madrid-Macera-Marc-Alvarez-900x415.jpg "Marc Álvarez preparando una de sus propuestas y el cóctel 'Paloma roja'. © Macera")
+![barman en Madrid](etheria-images/2019/10/coctelerias-Madrid-Macera-Marc-Alvarez-900x415.jpg "Marc Álvarez preparando una de sus propuestas y el cóctel 'Paloma roja'. © Macera")
 
 **¿Dónde?** San Mateo, 21 **¿Cuándo?** Martes, miércoles y domingos de 18 a 1 h. Jueves 
 de 18 a 2.30 h. Viernes y sábados de 16 a 3.30 h. **¿Qué tomar?** Su adictivo cóctel 

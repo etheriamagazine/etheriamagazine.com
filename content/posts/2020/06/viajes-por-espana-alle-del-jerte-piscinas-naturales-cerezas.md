@@ -1,11 +1,11 @@
 ---
 title: "Valle del Jerte, entre cerezas y piscinas naturales"
 date: 2020-06-17
-coverImage: etheria_images/2020/06/viajes-mujeres-etheria-Valle-del-jerte.jpg
+coverImage: etheria-images/2020/06/viajes-mujeres-etheria-Valle-del-jerte.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -14,7 +14,7 @@ geografía del Valle del Jerte es un hermoso escenario para disfrutar de las mar
 de España. Lo sublime está más cerca de lo que imaginamos, y si está señalado en rojo 
 por las cerezas madurando no tiene pérdida. 
 
-![Garganta de los Infiernos, en el Valle del Jerte.](etheria_images/2020/06/garganta-infierno-los-pilones-caceres.jpg "Garganta de los Infiernos, en el Valle del Jerte.")
+![Garganta de los Infiernos, en el Valle del Jerte.](etheria-images/2020/06/garganta-infierno-los-pilones-caceres.jpg "Garganta de los Infiernos, en el Valle del Jerte.")
 
 El **Valle del Jerte** conmueve simplemente con el colorido de las estaciones. Desde los 
 cerezos en flor tiñendo de blanco sus laderas, en pleno invierno, hasta que, al final de 
@@ -26,7 +26,7 @@ acompañados por el alegre discurrir del río Jerte, y salpicado de recoletos n�
 los que callejear durante dos días, los que te va a llevar quedarte prendida de tan 
 relajante valle serrano. 
 
-![Paisaje del Camino de Carlos V, en Cáceres.](etheria_images/2020/06/Camino-CarlosV-Valle-Jerte.jpg "Paisaje del Camino de Carlos V, en Cáceres.")
+![Paisaje del Camino de Carlos V, en Cáceres.](etheria-images/2020/06/Camino-CarlosV-Valle-Jerte.jpg "Paisaje del Camino de Carlos V, en Cáceres.")
 
 ## La mirada de un emperador
 
@@ -41,7 +41,7 @@ gargantas serranas. A su paso, riegan huertas y primorosos bancales de cerezos d
 vida, a su vez, a los extensos robledales que en esta época del año se encienden de 
 verde recién estrenado. 
 
-![Cerezos en flor en el Valle del Jerte.](etheria_images/2020/06/cerezos-flor-valle-jerte.jpg "Cerezos en flor en el Valle del Jerte.")
+![Cerezos en flor en el Valle del Jerte.](etheria-images/2020/06/cerezos-flor-valle-jerte.jpg "Cerezos en flor en el Valle del Jerte.")
 
 Estamos en una tierra de tránsito de paisanaje, no solo de nómadas y pueblos 
 colonizadores, como demuestra la **calzada romana** a nuestros pies. También de 
@@ -56,7 +56,7 @@ por la Mesta.
 > antes de dejar de ser el rey en cuyo imperio no se ponía el sol para convertirse en un 
 > anciano retirado… era el 12 de noviembre de 1556. 
 
-![Ruta del Cerezo en Flor y de la Garganta de los Infiernos, en el Valle del Jerte](etheria_images/2020/06/ruta-valle-jerte.jpg "Ruta del Cerezo en Flor y de la Garganta de los Infiernos.")
+![Ruta del Cerezo en Flor y de la Garganta de los Infiernos, en el Valle del Jerte](etheria-images/2020/06/ruta-valle-jerte.jpg "Ruta del Cerezo en Flor y de la Garganta de los Infiernos.")
 
 ### Un alto en Tornavaca
 
@@ -74,7 +74,7 @@ cerezos, avisaba a los extraños de que si incumplían las normas su cabeza colg
 pináculo. Hoy es un simbólico alto en el camino para contemplar el paisaje rural que 
 trepa ladera arriba señalando los ritmos lentos del campo. 
 
-![Garganta de los Infiernos, en el Valle del Jerte.](etheria_images/2020/06/viajes-mujeres-etheria-Valle-del-jerte.jpg "Garganta de los Infiernos, en el Valle del Jerte.")
+![Garganta de los Infiernos, en el Valle del Jerte.](etheria-images/2020/06/viajes-mujeres-etheria-Valle-del-jerte.jpg "Garganta de los Infiernos, en el Valle del Jerte.")
 
 ## Los Pilones y otras gargantas
 
@@ -87,7 +87,7 @@ denominación musulmana de Xerete– y adentrarse en la **Reserva Natural de la 
 los Infiernos**. Un espacio entre robles, los que acogen al ciervo volante (el 
 escarabajo más grande de Europa) y **narcisos que brotan entre rocas**. 
 
-![Narcisos de roca en el Valle del  Ambroz](etheria_images/2020/06/valle-ambroz-narciso-roca.jpg "Narcisos de roca.")
+![Narcisos de roca en el Valle del  Ambroz](etheria-images/2020/06/valle-ambroz-narciso-roca.jpg "Narcisos de roca.")
 
 La subida culmina con una gratificante recompensa, las piscinas naturales talladas por 
 el agua en el roquedo conocidas como **Los Pilones**. Si resistes la frialdad del agua 
@@ -98,7 +98,7 @@ El pueblo de **Jerte** es el centro neurálgico del valle y **uno de los mejores
 para hacer acopio de las cerezas**, aun cálidas, pues guardan el latido del sol en el 
 brillo de su reluciente piel. 
 
-![Cerezas del Valle del Jerte.](etheria_images/2020/06/cerezas-valle-jerte-caceres.jpg "Cerezas del Valle del Jerte.")
+![Cerezas del Valle del Jerte.](etheria-images/2020/06/cerezas-valle-jerte-caceres.jpg "Cerezas del Valle del Jerte.")
 
 ## Sin espacio para lo superfluo
 
@@ -116,7 +116,7 @@ se descubren sus huellas arquitectónicas más populares de adobe y madera. Y, c
 una nueva llamada para acercarnos al mundo de la fruta estrella del valle a través del 
 **Museo de la Cereza**, ubicado en una de la viviendas típicas. 
 
-![Fuente de Piornal.](etheria_images/2020/06/fuente-piornal-caceres.jpg "Fuente de Piornal.")
+![Fuente de Piornal.](etheria-images/2020/06/fuente-piornal-caceres.jpg "Fuente de Piornal.")
 
 ## Leoneses a lo alto de Extremadura
 
@@ -133,7 +133,7 @@ alegre ambiente festivo. Ahora nos quedamos prendadas de los lobos que sostienen
 fuente a la entrada del pueblo. Indican la atávica familiaridad de los pastores con la 
 presencia de este antiguo habitante de los parajes serranos que nos rodean. 
 
-![Carnaval de Jarramplás, la fiesta más emblemática de Piornal.](etheria_images/2020/06/jarramplas-fiesta-piornal-caceres.jpg "Carnaval de Jarramplás, la fiesta más emblemática de Piornal.")
+![Carnaval de Jarramplás, la fiesta más emblemática de Piornal.](etheria-images/2020/06/jarramplas-fiesta-piornal-caceres.jpg "Carnaval de Jarramplás, la fiesta más emblemática de Piornal.")
 
 ## Más pistas en el Valle del Jerte
 

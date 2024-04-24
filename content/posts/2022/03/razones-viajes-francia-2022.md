@@ -1,14 +1,14 @@
 ---
 title: "10 razones para viajar a Francia este verano"
 date: 2022-03-04
-coverImage: etheria_images/2022/03/seine-a-velo-Saint-Honorine.jpg
+coverImage: etheria-images/2022/03/seine-a-velo-Saint-Honorine.jpg
 categories: 
   - de-un-vistazo
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Nos sobran razones para viajar a Francia en cualquier época del año, pero como el verano 
@@ -17,7 +17,7 @@ y el buen tiempo, te damos 10 razones para viajar a Francia durante la época es
 Desde exposiciones y monumentos imprescindibles hasta rutas en bicicleta o eventos 
 únicos. ¿Te vienes? 
 
-![Bicicletas en la ribera del Sena en la zona de Conflans-Saint-Honorine.](etheria_images/2022/03/seine-a-velo-Saint-Honorine.jpg "Ribera del Sena en la zona de Conflans-Saint-Honorine. © David Darrault–La Seine a Vélo")
+![Bicicletas en la ribera del Sena en la zona de Conflans-Saint-Honorine.](etheria-images/2022/03/seine-a-velo-Saint-Honorine.jpg "Ribera del Sena en la zona de Conflans-Saint-Honorine. © David Darrault–La Seine a Vélo")
 
 ## 1\. Pedalear por La Seine à vélo
 
@@ -28,7 +28,7 @@ enseguida por qué estos paisajes dejaron una huella imborrable en los impresion
 la web de **La Seine à vélo** encontrarás rutas para todos los niveles, dónde alojarte 
 si quieres hacer más de una jornada y qué vas a ver mientras pedaleas. 
 
-![Filili Viridi, en el Jardin des plantes, parte de Le Voyage à Nantes.](etheria_images/2022/03/viaje-a-nantes.jpg "Filili Viridi, en el Jardin des plantes, parte de Le Voyage à Nantes. © Jean Jullien")
+![Filili Viridi, en el Jardin des plantes, parte de Le Voyage à Nantes.](etheria-images/2022/03/viaje-a-nantes.jpg "Filili Viridi, en el Jardin des plantes, parte de Le Voyage à Nantes. © Jean Jullien")
 
 ## 2\. Sumergirse en Le voyage à Nantes
 
@@ -39,7 +39,7 @@ artistas contemporáneos cuyas obras surgen en los lugares más inesperados con 
 del patrimonio histórico. Cada año ofrece novedades y un festival lleno de eventos que 
 convierten a Nantes en un referente de la diversión y la cultura. 
 
-![Velero en Fécamp.](etheria_images/2022/03/Francia-fecamp.jpg "Velero en Fécamp. © Eric Benard")
+![Velero en Fécamp.](etheria-images/2022/03/Francia-fecamp.jpg "Velero en Fécamp. © Eric Benard")
 
 ## 3\. Descubrir los veleros de Fécamp Grand’Escale
 
@@ -50,7 +50,7 @@ localidades de la costa de Bretaña y Normandía), el evento está lleno de acti
 náuticas, conciertos y exposiciones en torno al puerto. Una excusa perfecta para viajar 
 a Francia para los amantes del mar. 
 
-![Galerías da Vinci en el palacio Clos Lucé con proyecciones de sus obras.](etheria_images/2022/03/Clos-Luce-galerias-da-Vinci.jpg "Galerías da Vinci en el palacio Clos Lucé. © Clos Luce/ Arc en Scene/Drole de Trame")
+![Galerías da Vinci en el palacio Clos Lucé con proyecciones de sus obras.](etheria-images/2022/03/Clos-Luce-galerias-da-Vinci.jpg "Galerías da Vinci en el palacio Clos Lucé. © Clos Luce/ Arc en Scene/Drole de Trame")
 
 ## 4\. Recorrer las Galerías de Leonardo da Vinci en el castillo de Clos Lucé
 
@@ -61,7 +61,7 @@ investigaciones de este genio del Renacimiento en matemáticas, urbanismo y arqu
 a través de vídeos 3D, maquetas y videojuegos, por lo que es perfecta para disfrutar en 
 familia. 
 
-![Fiat 500 eléctrico recorriendo las carreteras de Gruissan.](etheria_images/2022/03/Gruisse-fiat-500.jpg "Fiat 500 eléctrico recorriendo las carreteras de Gruissan. © OMT Gruissan")
+![Fiat 500 eléctrico recorriendo las carreteras de Gruissan.](etheria-images/2022/03/Gruisse-fiat-500.jpg "Fiat 500 eléctrico recorriendo las carreteras de Gruissan. © OMT Gruissan")
 
 ## 5\. Conducir por L’Occitanie en un Fiat 500 eléctrico
 
@@ -73,7 +73,7 @@ secundarias de esta región francesa en una visita organizada por la oficina de 
 imprescindibles son **Chocolatiers Catheres** (con un Museo del Chocolate en el que no 
 podrás resistirte a probarlo) y el viñedo Ollieux Romains. 
 
-![Clase de surf al atardecer en la playa de Biarritz](etheria_images/2022/03/Biarritz-clase-surf.jpg "Clase de surf en Biarritz. © CDT64")
+![Clase de surf al atardecer en la playa de Biarritz](etheria-images/2022/03/Biarritz-clase-surf.jpg "Clase de surf en Biarritz. © CDT64")
 
 ## 6\. Surfear en Biarritz y Anglet
 
@@ -86,7 +86,7 @@ que han dejado aquí sus huellas. El ambiente es inmejorable, no os perdáis los
 del **International Surf Festival** (en julio en Anglet) y las **Anglet Surf de Nuit** 
 (en agosto). 
 
-![Atardecer en los viñedos que rodean Luberon con una copa de vino en la mano.](etheria_images/2022/03/Luberon-vinedos.jpg "Atardecer en los viñedos que rodean Luberon. ©OT LCDP")
+![Atardecer en los viñedos que rodean Luberon con una copa de vino en la mano.](etheria-images/2022/03/Luberon-vinedos.jpg "Atardecer en los viñedos que rodean Luberon. ©OT LCDP")
 
 ## 7\. Relajarse en las veladas con viticultores en Luberon
 
@@ -97,7 +97,7 @@ un grupo reducido de personas a un paseo por los viñedos, a una visita a la bod
 una cata de vinos acompañada de una degustación de pequeños platos. ¿Se te ocurre un 
 plan mejor? 
 
-![Castillo de Blois desde el otro lado del río.](etheria_images/2022/03/castillo-blois-loira.jpg "Castillo de Blois.")
+![Castillo de Blois desde el otro lado del río.](etheria-images/2022/03/castillo-blois-loira.jpg "Castillo de Blois.")
 
 ## 8\. Descubrir el poder de las mujeres del Renacimiento en el castillo de Blois
 
@@ -109,7 +109,7 @@ Renacimiento de las mujeres**_. La muestra está dedicada a tres de sus habitant
 refrenado, que ostentaron estas figuras emblemáticas del Renacimiento. Del 4 de 
 septiembre al 7 de octubre de 2022. 
 
-![Tranvía que recorre las obras de arte contemporáneo de Niza.](etheria_images/2022/03/Niza-tram-ligne-arte-contemporaneo.jpg "Tranvía que recorre las obras de arte contemporáneo de Niza. © Ville de Nice")
+![Tranvía que recorre las obras de arte contemporáneo de Niza.](etheria-images/2022/03/Niza-tram-ligne-arte-contemporaneo.jpg "Tranvía que recorre las obras de arte contemporáneo de Niza. © Ville de Nice")
 
 ## 9\. Recorrer en tranvía el arte contemporáneo urbano de Niza
 
@@ -122,7 +122,7 @@ Festival y la **Bienal de las Artes 2022**, un evento que reúne a los museos mu
 de Niza en torno a un tema para una exposición de verano en toda la ciudad y que este 
 año está dedicada a las flores (de junio a octubre). 
 
-![Palacio de los Papas de Avignon al atardecer.](etheria_images/2022/03/palacio-papas-avignon.jpg "Palacio de los Papas de Avignon.")
+![Palacio de los Papas de Avignon al atardecer.](etheria-images/2022/03/palacio-papas-avignon.jpg "Palacio de los Papas de Avignon.")
 
 ## 10\. Conocer el palacio de los Papas de Avignon a través de un Histopad
 

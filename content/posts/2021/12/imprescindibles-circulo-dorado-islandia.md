@@ -1,12 +1,12 @@
 ---
 title: "Cómo recorrer el Círculo Dorado de Islandia en coche durante 7 días"
 date: 2021-12-27
-coverImage: etheria_images/2021/12/gullfoss-catarata-islandia.jpg
+coverImage: etheria-images/2021/12/gullfoss-catarata-islandia.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
+authors: 
   - Marina Paul
 ---
 
@@ -15,7 +15,7 @@ estás planeando un viaje a la _Isla del fuego y del hielo_ (o una escapada a Re
 porque concentra la esencia islandesa en pocos kilómetros. Sigue leyendo para conocer 
 las siete paradas esenciales en una ruta en coche por Islandia. 
 
-![Parque Nacional Thingvellir islandia](etheria_images/2021/12/islandia-Thingvellir.jpg "Parque Nacional Thingvellir. © Marina Paul")
+![Parque Nacional Thingvellir islandia](etheria-images/2021/12/islandia-Thingvellir.jpg "Parque Nacional Thingvellir. © Marina Paul")
 
 Actualizado 12/2023 
 
@@ -27,7 +27,7 @@ ciudades históricas y hasta baños en aguas geotermales o entre placas tectóni
 El **Círculo Dorado de Islandia** concentra lo mejor del país y no precisarás más de 
 siete paradas para conocer sus principales atractivos. 
 
-![parlamento thingvellir circulo dorado de islandia](etheria_images/2021/12/islandia-Thingvellir-Edificio-Parlamento.jpg "Edificio del Parlamento, en el Parque Nacional de Thingvellir. © Marina Paul")
+![parlamento thingvellir circulo dorado de islandia](etheria-images/2021/12/islandia-Thingvellir-Edificio-Parlamento.jpg "Edificio del Parlamento, en el Parque Nacional de Thingvellir. © Marina Paul")
 
 ## Visitas imprescindibles en el Círculo Dorado de Islandia
 
@@ -46,7 +46,7 @@ entre las placas tectónicas de EuroAsia y América, que dividen el país. Debes
 Islandia es el único lugar del mundo donde observar la Dorsal Mesoatlántica sobre el 
 nivel del mar. 
 
-![esnorquel en silfra circulo dorado de islandia](etheria_images/2021/12/islandia-Snorkelling-Silfra-683x1024.jpg "Snorkel en Silfra, Islandia. © Marina Paul")
+![esnorquel en silfra circulo dorado de islandia](etheria-images/2021/12/islandia-Snorkelling-Silfra-683x1024.jpg "Snorkel en Silfra, Islandia. © Marina Paul")
 
 Entre las empresas que ofrecen el tour de _snorkelling_ y buceo en Silfra podemos 
 encontrar: Freedive, Troll, Dive, Artic Adventures, Iceland Dive Expeditions, etc. Los 
@@ -57,7 +57,7 @@ precios oscilan los 16,000 ISK (105€) para el tour de snorkelling, y los 28,00
 tasa de parking de 750 ISK, y que podrás usar todos los estacionamientos de la zona 
 durante 24 horas. 
 
-![Cascada de Öxarárfoss en el Círculo Dorado de Islandia](etheria_images/2021/12/islandia-Oxarafoss.jpg "Cascada de Öxarárfoss. © Marina Paul")
+![Cascada de Öxarárfoss en el Círculo Dorado de Islandia](etheria-images/2021/12/islandia-Oxarafoss.jpg "Cascada de Öxarárfoss. © Marina Paul")
 
 ### 2\. Cascada de Öxarárfoss
 
@@ -75,7 +75,7 @@ posesión. De ahí el nombre de “öxi”, que en islandés significa piolet o 
 **\* Si eres fan de _Juego de Tronos_** lo reconocerás como el camino hacia del _Nido de 
 las Águilas_ de la serie o el viaje a través de las _Tierras de los Ríos_. 
 
-![geyser de Strokkur](etheria_images/2021/12/Geyser-Islandia.jpg "Géiser de Strokkur. © Marina Paul")
+![geyser de Strokkur](etheria-images/2021/12/Geyser-Islandia.jpg "Géiser de Strokkur. © Marina Paul")
 
 ### 3\. Geysir, una foto obligada en el Círculo Dorado de Islandia
 
@@ -89,7 +89,7 @@ Debido a su espectacularidad, tanto por la altura como por la cantidad de agua q
 expulsa en cada una de sus erupciones, decenas de turistas se reúnen para fotografiarlo 
 durante su explosión cada 5 o 10 minutos. 
 
-![Catarata de Gullfoss circulo dorado de islandia](etheria_images/2021/12/gullfoss-catarata-islandia-731x1024.jpg "Catarata de Gullfoss. © Khamkéo Vilaysing")
+![Catarata de Gullfoss circulo dorado de islandia](etheria-images/2021/12/gullfoss-catarata-islandia-731x1024.jpg "Catarata de Gullfoss. © Khamkéo Vilaysing")
 
 ### 4\. Gullfoss, una espectacular catarata
 
@@ -103,7 +103,7 @@ alto, cerca de la zona de aparcamiento. Si, por el contrario, todavía te falta
 adrenalina después del tour en el río Silfra, lo mejor será que te acerques hasta el 
 mirador situado justo encima de la caída de agua. 
 
-![Restaurante Fridheimar](etheria_images/2021/12/restaurante-fridheimar.jpg "© Restaurante Fridheimar.")
+![Restaurante Fridheimar](etheria-images/2021/12/restaurante-fridheimar.jpg "© Restaurante Fridheimar.")
 
 ### 5\. Restaurante Fridheimar, comer en un vivero
 
@@ -120,7 +120,7 @@ maravillosos postres dulces de tarta de queso con mermelada de tomate, y hasta s
 **\* ¡Te recomendamos que** reserves con antelación, ya que es un restaurante muy 
 demandado y apenas hay huecos libres! 
 
-![circulo dorado de islandia agua termal](etheria_images/2021/12/aguas-termales-islandia.jpg "Darse un baño termal en el Círculo Dorado de Islandia es algo obligado. © Connor Wilkins")
+![circulo dorado de islandia agua termal](etheria-images/2021/12/aguas-termales-islandia.jpg "Darse un baño termal en el Círculo Dorado de Islandia es algo obligado. © Connor Wilkins")
 
 ### 6\. Baño termal gratuito en Hrunalaug Hot Spring
 
@@ -136,7 +136,7 @@ naturales forman el espacio de los baños naturales de Hrunalaug, que en ocasion
 llegar a alcanzar hasta los 40ºC. ¡Una de las mejores formas de finalizar el circuito 
 relajándose en sus aguas! 
 
-![Cráter de Kerid, en el Círculo Dorado de Islandia.](etheria_images/2021/12/kerid-crater-circulo-dorado-islandia.jpg "Cráter de Kerid, en el Círculo Dorado de Islandia. © Vivek Kumar")
+![Cráter de Kerid, en el Círculo Dorado de Islandia.](etheria-images/2021/12/kerid-crater-circulo-dorado-islandia.jpg "Cráter de Kerid, en el Círculo Dorado de Islandia. © Vivek Kumar")
 
 ### 7\. Cráter de Kerid
 
@@ -171,7 +171,7 @@ cada una de las paradas, desde Etheria Magazine te recomendamos que alquiles un 
 una furgoneta/van (donde además podrás alojarte en ella) para recorrer sus casi 200 km 
 libremente. 
 
-![carretera circulo dorado islandia](etheria_images/2021/12/carreteras-circulo-dorado-islandia.jpg "Carretera en el Círculo Dorado de Islandia. © Josh Reid")
+![carretera circulo dorado islandia](etheria-images/2021/12/carreteras-circulo-dorado-islandia.jpg "Carretera en el Círculo Dorado de Islandia. © Josh Reid")
 
 Algunas de las compañías de alquiler más conocidas que tienen presencia allí son: Avis, 
 Hertz, Europcar, Thrifty, etc. Para el alquiler de “campers”, entre las compañías más 
@@ -191,7 +191,7 @@ Sin embargo, si lo que prefieres es evitar el turismo de masas y disfrutar de lo
 mágicos paisajes nevados del país… ah, y de las **auroras boreales**, entonces **los 
 meses de octubre a marzo** son los mejores para organizar tu viaje. 
 
-![aurora boreal en islandia](etheria_images/2021/12/aurora-boreal-islandia.jpg "Aurora boreal en Islandia. © Jonatan Pie")
+![aurora boreal en islandia](etheria-images/2021/12/aurora-boreal-islandia.jpg "Aurora boreal en Islandia. © Jonatan Pie")
 
 ### ¿Dónde alojarse durante el recorrido por el Círculo Dorado?
 
@@ -203,7 +203,7 @@ Lo más común es alojarse en establecimientos “B&B” o “Guesthouses” (ca
 donde familias islandesas rentan por noches parte de su inmueble o pequeños 
 establecimientos turísticos que regentan, normalmente, con desayuno incluido. 
 
-![Reykjavik, capital de Islandia](etheria_images/2021/12/reykjavik-islandia.jpg "Reykjavik. © Evelyn Paris")
+![Reykjavik, capital de Islandia](etheria-images/2021/12/reykjavik-islandia.jpg "Reykjavik. © Evelyn Paris")
 
 Sin embargo, también existen grandes cadenas de hoteles y hoteles con encanto a lo largo 
 y ancho del recorrido. Entre los más destacados y variopintos podemos encontrar: 

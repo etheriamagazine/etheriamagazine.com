@@ -1,14 +1,14 @@
 ---
 title: "Planes en Vitoria con amigas dispuestas al picoteo"
 date: 2021-09-15
-coverImage: etheria_images/2021/09/plaza-virgen-blanca-vitoria.jpg
+coverImage: etheria-images/2021/09/plaza-virgen-blanca-vitoria.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 De un tamaño asequible para moverse, con visitas interesantes y buena gastronomía, la 
@@ -16,7 +16,7 @@ capital alavesa se presenta como una opción muy interesante para organizar una 
 a Vitoria con amigas en cualquier momento del año. Si buscáis un poco de todo, esta 
 ciudad está hecha para vosotras. 
 
-![casco antiguo vitoria con amigas](etheria_images/2021/09/casco-antiguo-vitoria.jpg "Casco histórico de Vitoria. © Diputación Foral de Álava")
+![casco antiguo vitoria con amigas](etheria-images/2021/09/casco-antiguo-vitoria.jpg "Casco histórico de Vitoria. © Diputación Foral de Álava")
 
 Cuando os decimos que este artículo se va a centrar en algunos “planes en Vitoria con 
 amigas dispuestas al picoteo”, no sólo nos referimos a su acepción gastronómica sino que 
@@ -32,7 +32,7 @@ dejar para un segundo viaje. Por supuesto, vuestros gustos y energía son los qu
 para situarse el primer día, o [visita 
 guiada](https://www.civitatis.com/es/vitoria/visita-guiada-vitoria/?aid=10211) (8 €). 
 
-![catedral de santa maria vitoria](etheria_images/2021/09/catedral-vitoria.jpg "Catedral de Santa María. © Diputación Foral de Álava")
+![catedral de santa maria vitoria](etheria-images/2021/09/catedral-vitoria.jpg "Catedral de Santa María. © Diputación Foral de Álava")
 
 ## 1\. Catedral de Santa María
 
@@ -53,7 +53,7 @@ en la [web oficial](https://www.catedralvitoria.eus/es/reservas/) desde 8,50 eur
 ? [Tour literario por 
 Vitoria](https://www.civitatis.com/es/vitoria/tour-literario-vitoria/?aid=10211) (10€) 
 
-![detalle mural vitoria con amigas](etheria_images/2021/09/mural-vitoria.jpg "Detalle de mural 'El triunfo de Vitoria'. © Etheria Mag.")
+![detalle mural vitoria con amigas](etheria-images/2021/09/mural-vitoria.jpg "Detalle de mural 'El triunfo de Vitoria'. © Etheria Mag.")
 
 ## 2\. Murales callejeros de Vitoria-Gasteiz
 
@@ -70,7 +70,7 @@ y leyendo la historia de cada obra.
 ? No te pierdas el artículo: [10 fachadas básicas en la Ruta de los Murales de 
 Vitoria](https://etheriamagazine.com/2019/11/21/ruta-murales-en-vitoria-10-grafitis-imprescindibles/). 
 
-![casa del cordon vitoria](etheria_images/2021/09/casa-cordon-vitoria.jpg "Cúpula estrellada en la Casa del Cordón (Vitoria). © Etheria Magazine")
+![casa del cordon vitoria](etheria-images/2021/09/casa-cordon-vitoria.jpg "Cúpula estrellada en la Casa del Cordón (Vitoria). © Etheria Magazine")
 
 ## 3\. Casa del Cordón
 
@@ -79,7 +79,7 @@ franciscano situado sobre su arco de entrada. Merece la pena entrar en este pala
 siglo XV aunque sólo sea para admirar la bóveda estrellada que oculta. Fijaos también en 
 su bonita torre medieval, es del siglo XIII. 
 
-![museo bellas artes alava palacio vitoria](etheria_images/2021/09/palacio-bellas-artes-vitoria.jpg "El palacio Augustin Zulueta alberga el Museo de Bellas Artes de Álava. © Etheria Mag.")
+![museo bellas artes alava palacio vitoria](etheria-images/2021/09/palacio-bellas-artes-vitoria.jpg "El palacio Augustin Zulueta alberga el Museo de Bellas Artes de Álava. © Etheria Mag.")
 
 ## 4\. Palacios por doquier
 
@@ -91,7 +91,7 @@ cultural pero que solía acoger a nobles de visita en la ciudad y fue sede episc
 el **palacio de los Álava-Esquivel**. Tomad nota también de la Casa Torre de los Iruña, 
 la Casa del Marqués de la Alameda y la torre de los Anda, del siglo XV. 
 
-![parque salburua vitoria](etheria_images/2021/09/parque-salburua-vitoria.jpg "Parque de Salburua con el Centro de Interpretación Ataria. © Etheria Magazine")
+![parque salburua vitoria](etheria-images/2021/09/parque-salburua-vitoria.jpg "Parque de Salburua con el Centro de Interpretación Ataria. © Etheria Magazine")
 
 ## 5\. Parque de Salburua
 
@@ -105,7 +105,7 @@ Salburua** recorriendo sus sendas y disfrutando de un interesante ecosistema hab
 por anfibios, aves acuáticas, etc. Previamente, diríamos que es obligatorio entrar en el 
 **Centro de Interpretación Ataria**, donde ofrecen toda la información en profundidad. 
 
-![museo fournier bibat vitoria](etheria_images/2021/09/museo-bibat-vitoria.jpg "Exterior del BIBAT de Vitoria. © Etheria Mag.")
+![museo fournier bibat vitoria](etheria-images/2021/09/museo-bibat-vitoria.jpg "Exterior del BIBAT de Vitoria. © Etheria Mag.")
 
 ## 6\. De Fournier al Arte Moderno
 
@@ -119,14 +119,14 @@ alberga el de Arqueología de Álava y el Fournier de Naipes. Este último muest
 colección de naipes del mundo, además de estar en un bonito edificio con algunos 
 elementos góticos y una preciosa bóveda estrellada. 
 
-![artium arte moderno vitoria](etheria_images/2021/09/Artium-museo-moderna.jpg "Interior del © ARTIUM.")
+![artium arte moderno vitoria](etheria-images/2021/09/Artium-museo-moderna.jpg "Interior del © ARTIUM.")
 
 No olvidéis fijaros en las matrices que empleó Heraclio Fournier, inventor de la baraja 
 española. Por último, también merece una visita el [Museo de Bellas Artes de 
 Álava](https://arteederrenmuseoa.eus/es/), tanto por el edificio que lo alberga como por 
 su excelente colección de arte español de los siglos XVIII-XIX. 
 
-![plaza virgen blanca vitoria](etheria_images/2021/09/plaza-virgen-blanca-vitoria.jpg "Plaza de la Virgen Blanca. © Diputación Foral de Álava")
+![plaza virgen blanca vitoria](etheria-images/2021/09/plaza-virgen-blanca-vitoria.jpg "Plaza de la Virgen Blanca. © Diputación Foral de Álava")
 
 ## 7\. Plaza de la Virgen Blanca
 
@@ -142,7 +142,7 @@ faltar en el álbum de recuerdos del viaje es junto a la escultura vegetal de �
 Gasteiz’. Perfecta para tener presente que esta es una ciudad verde, ¿sabíais que fue 
 declarada Green Capital en 2012 por la Comisión Europea? 
 
-![postre sagartoki de vitoria con amigas](etheria_images/2021/09/postre-sagartoki.jpg "Trampantojo de huevo Kinder relleno de mango, en Sagartoki. © Vivi Hinojosa")
+![postre sagartoki de vitoria con amigas](etheria-images/2021/09/postre-sagartoki.jpg "Trampantojo de huevo Kinder relleno de mango, en Sagartoki. © Vivi Hinojosa")
 
 ## 8\. De pintxos en Vitoria
 
@@ -170,7 +170,7 @@ tomar una copa antes de volver al hotel.
 ? [Tour de pintxos por Vitoria con visita 
 guiada](https://www.civitatis.com/es/vitoria/tour-pinchos-vitoria/?aid=10211). 
 
-![muralla vitoria con amigas](etheria_images/2021/09/vitoria-muralla-681x1024.jpg "Muralla de Vitoria. © Etheria Magazine")
+![muralla vitoria con amigas](etheria-images/2021/09/vitoria-muralla-681x1024.jpg "Muralla de Vitoria. © Etheria Magazine")
 
 ## 9\. Las murallas de Vitoria
 
@@ -193,7 +193,7 @@ que se levantó sobre un antiguo templo adosado al muro.
 No dejes tampoco de pasear por el **Jardín de la Muralla**, donde se sitúa el mural ‘La 
 noche más corta’, o de conocer la nevera Olave (que proporcionaba el hielo a Vitoria). 
 
-![jardin muralla vitoria](etheria_images/2021/09/jardin-muralla-vitoria-707x1024.jpg "Jardín de la Muralla con mural. © Etheria Magazine")
+![jardin muralla vitoria](etheria-images/2021/09/jardin-muralla-vitoria-707x1024.jpg "Jardín de la Muralla con mural. © Etheria Magazine")
 
 ## 10\. Parque de la Florida
 
@@ -207,7 +207,7 @@ un gusto ver la habilidad de algunas parejas octogenarias que no dejan de danzar
 alrededor del precioso kiosco de música. Y si vais en Navidad, el belén gigante es una 
 maravilla. 
 
-![parque florida vitoria con amigas](etheria_images/2021/09/parque-florida-kiosco-vitoria.jpg "Parque de la Florida, en Vitoria. © Etheria Mag.")
+![parque florida vitoria con amigas](etheria-images/2021/09/parque-florida-kiosco-vitoria.jpg "Parque de la Florida, en Vitoria. © Etheria Mag.")
 
 ## Excursión: Salinas de Añana o Rioja Alavesa
 
@@ -223,7 +223,7 @@ Laguardia, y **Marqués de Riscal** (50 km), cuya estructura de titanio y acero 
 por Frank O’Gehry no necesita presentación, en Elciego. Ambas cuentan con catas y 
 visitas guiadas. 
 
-![salinas anana vitoria](etheria_images/2021/09/salinas-anana-vitoria-683x1024.jpg "© Salinas de Añana/ Diputación Foral de Álava")
+![salinas anana vitoria](etheria-images/2021/09/salinas-anana-vitoria-683x1024.jpg "© Salinas de Añana/ Diputación Foral de Álava")
 
 ### Otras visitas guiadas en Vitoria
 

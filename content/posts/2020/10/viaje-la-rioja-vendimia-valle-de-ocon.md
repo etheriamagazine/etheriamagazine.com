@@ -1,18 +1,18 @@
 ---
 title: "Escapada al valle secreto de Ocón, un pellizco de La Toscana en La Rioja"
 date: 2020-10-26
-coverImage: etheria_images/2020/10/Etheria-magazine-La-Rioja-molino-valle-ocon.jpg
+coverImage: etheria-images/2020/10/Etheria-magazine-La-Rioja-molino-valle-ocon.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 El dulzor de las uvas maduradas en armonía con la naturaleza en el valle de Ocón despierta nuestros sentidos y nos abre una puerta a este desconocido territorio que nos hace sentir en La Toscana italiana sin salir de La Rioja. Es tiempo de viajar por esta región con nombre de vino.
 
-![vendimia en bodega casa la rad en la rioja](etheria_images/2020/10/Etheria-web-La-Rioja-bodega-casa-la-rad-ausejo.jpg "Viñedos de la bodega Casa La Rad.")
+![vendimia en bodega casa la rad en la rioja](etheria-images/2020/10/Etheria-web-La-Rioja-bodega-casa-la-rad-ausejo.jpg "Viñedos de la bodega Casa La Rad.")
 
 ```
 Actualizado junio 2021
@@ -34,7 +34,7 @@ almendros y cereales en cultivo ecológico que recrecen la finca hasta las 800 h
 divisamos un valle tranquilo de perfiles ondulados por colinas y pueblos prendidos de 
 las laderas al más puro estilo de la Toscana. 
 
-![vista aerea vendimia la rioja](etheria_images/2020/10/Etheria-magazine-La-Rioja-vendimia-682x1024.jpg "La vendimia vista desde el aire en La Rioja.")
+![vista aerea vendimia la rioja](etheria-images/2020/10/Etheria-magazine-La-Rioja-vendimia-682x1024.jpg "La vendimia vista desde el aire en La Rioja.")
 
 ## A vendimiar por un día
 
@@ -50,7 +50,7 @@ muy buen sabor de boca.
 No menos atrayente es montar en alguna de sus bicis y recorrer los **40 kilómetros de 
 senderos** de la finca o degustar un pícnic a la sombra del árbol que elijamos. 
 
-![vendimia en la rioja](etheria_images/2020/10/Etheria-magazine-La-Rioja-uvas-vendimia.jpg "Uva recién vendimiada en La Rioja.")
+![vendimia en la rioja](etheria-images/2020/10/Etheria-magazine-La-Rioja-uvas-vendimia.jpg "Uva recién vendimiada en La Rioja.")
 
 ## Bienvenida a las aves
 
@@ -66,7 +66,7 @@ estudian en sus aguas la posibilidad de reintroducir al pez fraile, que podrían
 convertirse en uno de sus enclaves más secretos para recuperar una maltrecha población 
 riojana en peligro de extinción. 
 
-![vista aerea de campos de villar de arnedo](etheria_images/2020/10/Etheria-magazine-La-Rioja-vista-aerea.jpg "Vista aérea de campos agrícolas en Villar de Arnedo (La Rioja).")
+![vista aerea de campos de villar de arnedo](etheria-images/2020/10/Etheria-magazine-La-Rioja-vista-aerea.jpg "Vista aérea de campos agrícolas en Villar de Arnedo (La Rioja).")
 
 ## Ausejo, la luz de un pueblo al atardecer
 
@@ -83,7 +83,7 @@ Las luces de **Ausejo**, el pueblo más cercano, se encienden iluminando su conj
 urbano apiñado sobre un monte, culminado por el castillo, en el que los romanos ya 
 hallaron lugar para vigilar el paso camino del Ebro. 
 
-![molino del valle de ocon la rioja](etheria_images/2020/10/Etheria-magazine-La-Rioja-molino-valle-ocon.jpg "Molino en el valle de Ocón.")
+![molino del valle de ocon la rioja](etheria-images/2020/10/Etheria-magazine-La-Rioja-molino-valle-ocon.jpg "Molino en el valle de Ocón.")
 
 ## Pueblos riojanos rurales y genuinos
 
@@ -95,7 +95,7 @@ Pipaona, Aldealobos, Las Ruedas**– se mantiene el encanto de lo rural sobre el
 sobresalen rotundos templos en el centro urbano. El tiempo pareciera haberse dormido si 
 no fuese por el olor a leña quemada que sale de sus chimeneas. 
 
-![rutas ecuestres en valle de ocon la rioja](etheria_images/2020/10/Etheria-La-Rioja-rotulos-senderismo-valle-ocon.jpg "Señal de itinerario ecuestre en el valle de Ocón.")
+![rutas ecuestres en valle de ocon la rioja](etheria-images/2020/10/Etheria-La-Rioja-rotulos-senderismo-valle-ocon.jpg "Señal de itinerario ecuestre en el valle de Ocón.")
 
 Es hora de buscar abrigo, y para ello nada mejor que recalar en alguno de sus 
 alojamientos rurales. En **El Redal** hallarás la **Casa de la Condesa**, una propiedad 
@@ -106,7 +106,7 @@ En **Las Ruedas de Ocón** podrás dormir en la plaza del pueblo frente a la igl
 quedas en **Casa Gassedat**, una vivienda tradicional del siglo XIX con un aire popular 
 al que contribuye su esmerada decoración con artesanía riojana. 
 
-![bodegas casa la rad en la rioja](etheria_images/2020/10/Etheria-magazine-La-Rioja-bodega-casa-la-rad-683x1024.jpg "Bodegas Casa La Rad.")
+![bodegas casa la rad en la rioja](etheria-images/2020/10/Etheria-magazine-La-Rioja-bodega-casa-la-rad-683x1024.jpg "Bodegas Casa La Rad.")
 
 ## Un camino entre cipreses 
 
@@ -120,7 +120,7 @@ manantiales por donde adentrarnos con la llegada de un nuevo día.
 Ahora es momento de buscar la **Casa de la abuela Bego** y descansar un rato antes de 
 que la noche sea plena. 
 
-![molino del valle de ocon](etheria_images/2020/10/Etheria-La-Rioja-molino-valle-ocon.jpg "Molino del valle de Ocón.")
+![molino del valle de ocon](etheria-images/2020/10/Etheria-La-Rioja-molino-valle-ocon.jpg "Molino del valle de Ocón.")
 
 Ojalá llegue despejada porque será el momento perfecto de buscar el **molino de viento 
 del valle de Ocón**, el paraje más famoso del valle. Afirman que hubo molinos en el 
@@ -133,7 +133,7 @@ que verás en el norte peninsular. Cuando levantes la vista quedarás prendada t
 vértigo del cielo estrellado, porque estás en pleno corazón de unas de las siete 
 **Reservas Starlight**. 
 
-![pueblo abandonado de oteruelo en la rioja](etheria_images/2020/10/Etheria-magazine-La-Rioja-oteruelo.jpg "Vista aérea del pueblo abandonado de Oteruelo.")
+![pueblo abandonado de oteruelo en la rioja](etheria-images/2020/10/Etheria-magazine-La-Rioja-oteruelo.jpg "Vista aérea del pueblo abandonado de Oteruelo.")
 
 ## Sabores reconstituyentes
 

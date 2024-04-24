@@ -1,19 +1,19 @@
 ---
 title: "Ruta para descubrir los secretos ocultos del acueducto de Segovia"
 date: 2021-06-25
-coverImage: etheria_images/2021/06/Segovia-azud-valle-acebeda.jpg
+coverImage: etheria-images/2021/06/Segovia-azud-valle-acebeda.jpg
 categories: 
   - viajes-ecoturismo
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
 El origen del acueducto de Segovia, una de las construcciones más impresionantes que Roma edificó en la Península Ibérica, se sitúa en el valle de la Acebeda, un entorno de una belleza excepcional. ¿Nos acompañas a hacer una caminata desde su origen hasta la capital segoviana?
 
-![](etheria_images/2021/06/Segovia-azud-valle-acebeda.jpg "El azud, el origen de la célebre canalización romana toma las aguas en el valle de la Acebeda. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-azud-valle-acebeda.jpg "El azud, el origen de la célebre canalización romana toma las aguas en el valle de la Acebeda. © Yolanda Cardo")
 
 Cuenta la leyenda que el **acueducto de Segovia** lo construyó el mismísimo Maligno en 
 una sola noche. Sospechamos que algo más les llevó a los romanos edificarlo. 
@@ -35,7 +35,7 @@ emperador Adriano, en pleno esplendor del Imperio. Sea como sea, hoy, dos mileni
 después, esta extraordinaria obra de ingeniería nos sigue maravillando y, por si no lo 
 sabías, se puede visitar casi en su totalidad. 
 
-![](etheria_images/2021/06/Segovia-embalse-de-Puente-Alta.jpg "Espectacular vista del embalse de Puente Alta. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-embalse-de-Puente-Alta.jpg "Espectacular vista del embalse de Puente Alta. © Yolanda Cardo")
 
 Desde Etheria Magazine os proponemos seguir el curso de sus aguas para conocer la cara 
 menos visible del acueducto de Segovia, un monumental conducto pétreo cuyo rostro más 
@@ -47,7 +47,7 @@ artículo)](https://etheriamagazine.com/2020/03/11/que-ver-interior-precio-entra
 su digno rival de _selfis_ y de las panorámicas más buscadas. Poneos ropa y calzado 
 cómodo porque nos vamos de excursión. 
 
-![](etheria_images/2021/06/Segovia-hito-acueducto.jpg "Hito del Acueducto indicando la dirección hacia la captación de aguas. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-hito-acueducto.jpg "Hito del Acueducto indicando la dirección hacia la captación de aguas. © Yolanda Cardo")
 
 ## Camino del azud, donde nace la leyenda
 
@@ -61,7 +61,7 @@ vistas maravillosas del pantano mientras lo bordeamos, además de ser realmente 
 
 ##### En primavera el paisaje luce espectacular y, si sois afortunadas, el croar de las ranas acompañará vuestros pasos.
 
-![](etheria_images/2021/06/Segovia-puentes-azud-acueducto.jpg "Atravesaremos puentes improvisados en nuestro camino hacia el azud. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-puentes-azud-acueducto.jpg "Atravesaremos puentes improvisados en nuestro camino hacia el azud. © Yolanda Cardo")
 
 Avanzamos por la pista dejando atrás el embalse hasta llegar a un panel que ilustra el 
 itinerario del acueducto de Segovia en su totalidad. A partir de ahí el camino se 
@@ -73,7 +73,7 @@ pozos de registro que también serán constantes a lo largo del trayecto. Un bre
 placentero paseo nos conduce hasta el azud, el lugar donde recoge las aguas del río 
 Frío, a unos 1.255 metros de altitud. 
 
-![](etheria_images/2021/06/Segovia-cacera-a-cielo-abierto.jpg "Tramo de la cacera a cielo abierto. A partir de este punto la conducción debe salvar un desnivel de unos 500 metros. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-cacera-a-cielo-abierto.jpg "Tramo de la cacera a cielo abierto. A partir de este punto la conducción debe salvar un desnivel de unos 500 metros. © Yolanda Cardo")
 
 Este es un enclave espectacular donde nace esta magnífica infraestructura. Aquí el agua 
 discurre mediante **una cacera hacia la presa** de derivación hasta alcanzar el que será 
@@ -84,7 +84,7 @@ impurezas, nada dejaban al azar estos romanos.
 > de las aguas, los paisajes prístinos… Pero aún queda mucho por caminar hasta llegar al 
 > origen del acueducto de Segovia, así que toca volver sobre nuestros pasos. 
 
-![](etheria_images/2021/06/Segovia-presa-derivacion-azud.jpg "Presa de derivación en el azud. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-presa-derivacion-azud.jpg "Presa de derivación en el azud. © Yolanda Cardo")
 
 ## Entre arroyos, cañadas y vacas
 
@@ -96,7 +96,7 @@ sedimentos. A medida que avanzamos el paisaje se torna más tranquilo y despejad
 regalándonos fantásticos miradores a la sierra de Guadarrama, alguno con nombre propio, 
 como el de la Arqueta Alta, espectacular… 
 
-![](etheria_images/2021/06/Segovia-arroyo-de-Valdeconejos.jpg "Paso del arroyo de Valdeconejos. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-arroyo-de-Valdeconejos.jpg "Paso del arroyo de Valdeconejos. © Yolanda Cardo")
 
 Veréis la correspondiente señal indicando la dirección del sendero y también la del 
 retorno a Revenga o al embalse de Puente Alta, vosotras decidís. Si os animáis a 
@@ -110,7 +110,7 @@ minutos para reflexionar si regresáis a Revenga a disfrutar de un merecido desc
 bien si como dice el refrán “os liáis la manta a la cabeza” y ¡hasta el final! ¿Qué 
 habéis decidido? ¿Seguimos? 
 
-![](etheria_images/2021/06/Segovia-sendero-acueducto.jpg "El sendero atraviesa parajes extraordinarios. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-sendero-acueducto.jpg "El sendero atraviesa parajes extraordinarios. © Yolanda Cardo")
 
 ## Peregrinando junto al Camino de Santiago
 
@@ -124,7 +124,7 @@ cual toca atravesar con mucha precaución, el ancho camino enfila ya hacia las a
 Segovia. Pero contened la alegría y las ganas de comer… que aún tenemos por delante un 
 buen trecho. 
 
-![](etheria_images/2021/06/Segovia-sendero-riofrio-la-granja.jpg "Tras atravesar la carretera de Riofrío a La Granja de San Ildefonso se vislumbra Segovia al fondo. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-sendero-riofrio-la-granja.jpg "Tras atravesar la carretera de Riofrío a La Granja de San Ildefonso se vislumbra Segovia al fondo. © Yolanda Cardo")
 
 Si antes era la Cañada Real Soriana Occidental nuestra compañera de viaje, ahora 
 peregrinamos junto al Camino de Santiago. Un mojón de piedra con el símbolo de la vieira 
@@ -139,7 +139,7 @@ de frente apenas 3 kilómetros os separan de la meta y de un suculento manjar. E
 la recta final entre campos y praderas, hasta el barrio Nuevo de Segovia, la última 
 etapa y la entrada a esta asombrosa localidad. 
 
-![](etheria_images/2021/06/Segovia-acueducto.jpg "El tramo más visible y famoso del Acueducto. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-acueducto.jpg "El tramo más visible y famoso del Acueducto. © Yolanda Cardo")
 
 ## Bienvenidas a Segovia
 
@@ -153,7 +153,7 @@ que en su altura máxima alcanza los 28,10 metros a su paso por la célebre plaz
 Azoguejo. Un total de **120 pilares sustentan los 167 arcos** del magnífico acueducto de 
 Segovia, catalogado, junto a la ciudad, como Patrimonio de la Humanidad en 1985. 
 
-![](etheria_images/2021/06/Segovia-pilares-acueducto.jpg "Un total de 120 pilares sustentan 167 arcos. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-pilares-acueducto.jpg "Un total de 120 pilares sustentan 167 arcos. © Yolanda Cardo")
 
 Quedaos con esta espectacular imagen porque al final de la escalinata que nos lleva 
 hasta la plaza del Seminario, esta sensacional infraestructura hidráulica vuelve a 
@@ -163,7 +163,7 @@ con el relieve de su silueta, sobre el pavimento nos indicarán los puntos de in
 este oculto recorrido, que atraviesa calles y plazas, hasta concluir en el monumental 
 Alcázar. 
 
-![](etheria_images/2021/06/Segovia-Acueducto-puertas-del-Alcazar.jpg "El Acueducto finaliza a puertas del famoso Alcázar. © Yolanda Cardo")
+![](etheria-images/2021/06/Segovia-Acueducto-puertas-del-Alcazar.jpg "El Acueducto finaliza a puertas del famoso Alcázar. © Yolanda Cardo")
 
 ### Consejos para hacer la excursión del acueducto de Segovia
 

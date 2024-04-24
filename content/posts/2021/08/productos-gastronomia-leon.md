@@ -1,7 +1,7 @@
 ---
 title: "Siete productos que saben a León y no pueden faltar en tu mesa"
 date: 2021-08-23
-coverImage: etheria_images/2021/07/Leon-cecina.jpg
+coverImage: etheria-images/2021/07/Leon-cecina.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-gastronomicos
@@ -9,13 +9,13 @@ categories:
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 De la ciudad de León os enamoraréis por muchas cosas y una de ellas será su cocina. Aquí os recomendamos siete productos de la gastronomía de León a los que no os debéis resistir tanto en las cartas de sus restaurantes como en sus tiendas y mercados para llevarlos a casa y atesorar así un pedacito de esta suculenta ciudad.
 
-![Productos de la gastronomía de León.](etheria_images/2021/07/Leon-productos.jpg "Productos de la gastronomía de León.")
+![Productos de la gastronomía de León.](etheria-images/2021/07/Leon-productos.jpg "Productos de la gastronomía de León.")
 
 Los destinos nos ganan por su historia, su arquitectura y su gente. Pero también por su 
 gastronomía, esa que se ha formado a lo largo de siglos basándose en los productos 
@@ -27,7 +27,7 @@ ocasiones cuentan mucho más de un lugar que sus edificios. En el caso de la ciu
 León, no puedes perderte el **Mercado de Frutas, Verduras y Embutidos** (miércoles y 
 sábados en la Plaza Mayor) ni el **Mercado del Conde Luna**. 
 
-![Mercado de la Plaza Mayor de León](etheria_images/2021/07/Leon-Mercado-Plaza-Mayor.jpg "Mercado de la Plaza Mayor.")
+![Mercado de la Plaza Mayor de León](etheria-images/2021/07/Leon-Mercado-Plaza-Mayor.jpg "Mercado de la Plaza Mayor.")
 
 Además, no olvides que León es una de esas ciudades maravillosas donde las tapas 
 acompañan gratis a la bebida (vino, caña, corto, chato o mosto), lo que origina 
@@ -45,7 +45,7 @@ verdura más fresca de su huerta y las truchas de sus ríos. Te contamos aquí s
 productos con los que deleitarte con la cocina leonesa para que quieras siempre volver a 
 esta preciosa ciudad. 
 
-![Cecina leonesa.](etheria_images/2021/07/Leon-cecina.jpg "Cecina leonesa.")
+![Cecina leonesa.](etheria-images/2021/07/Leon-cecina.jpg "Cecina leonesa.")
 
 ## Productos de la huerta
 
@@ -55,7 +55,7 @@ cultiva desde antiguo y el pimiento morrón es uno de los productos estrella que
 tomar tanto asado como frito. ¿Qué te parece una ensalada de estos dos productos aliñada 
 con una vinagreta y coronada con un crujiente de cecina? ¿A que apetece? 
 
-![Chorizos leoneses.](etheria_images/2021/07/Leon-Chorizo-683x1024.jpg "Chorizos leoneses.")
+![Chorizos leoneses.](etheria-images/2021/07/Leon-Chorizo-683x1024.jpg "Chorizos leoneses.")
 
 ## Embutidos
 
@@ -95,7 +95,7 @@ también lo sono las sabrosas carnes de la ternera del Bierzo. Y si te gusta el 
 fuerte de las carnes de caza, en León también podrás probar excelentes platos basados en 
 el jabalí, el corzo, las perdices o las codornices. 
 
-![Legumbres y vinos de León.](etheria_images/2021/07/leon-Legumbres-Vinos.jpg "Legumbres y vinos de León.")
+![Legumbres y vinos de León.](etheria-images/2021/07/leon-Legumbres-Vinos.jpg "Legumbres y vinos de León.")
 
 ## Legumbres
 

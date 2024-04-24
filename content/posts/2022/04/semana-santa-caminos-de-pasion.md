@@ -1,20 +1,20 @@
 ---
 title: "10 visitas que sorprenden en Caminos de Pasión"
 date: 2022-04-04
-coverImage: etheria_images/2022/04/lucena-caminos-pasion.jpg
+coverImage: etheria-images/2022/04/lucena-caminos-pasion.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Campaneros saltimbanquis, olivares a mares, orfebres centenarios, saetas cuarteleras y 
 desmayantes retablos barrocos se dan cita en Caminos de Pasión, en una desconocida 
 Andalucía unida por un místico hilo conductor: su peculiar devoción por la Semana Santa. 
 
-![campanero de utrera en caminos de pasion](etheria_images/2022/04/Utrera-caminos-de-pasion.jpg "Antonio realiza una ‘balanza’ sobre una campana de Utrera. © Kelu Robles")
+![campanero de utrera en caminos de pasion](etheria-images/2022/04/Utrera-caminos-de-pasion.jpg "Antonio realiza una ‘balanza’ sobre una campana de Utrera. © Kelu Robles")
 
 Actualizado 3/2024 
 
@@ -54,7 +54,7 @@ como **los Mochuelos**, y los de Santa María de la Mesa, los llamados **Quícal
 repique manual se produce de manera oficial en ambas parroquias los días de vísperas a 
 las seis de la tarde; y los festivos al mediodía. 
 
-![vista panorámica de la ciudad de carmino integrante de Caminos de Pasión](etheria_images/2022/04/carmona-caminos-pasion.jpg "Panorámica de Carmona desde la Torre del Oro del Alcázar. © Kelu Robles")
+![vista panorámica de la ciudad de carmino integrante de Caminos de Pasión](etheria-images/2022/04/carmona-caminos-pasion.jpg "Panorámica de Carmona desde la Torre del Oro del Alcázar. © Kelu Robles")
 
 ## 2\. Carmona, señorío romano y tortas arqueólogas
 
@@ -76,7 +76,7 @@ históricas de la ciudad como la Necrópolis o el Alcázar.
 > Dicen que al arqueólogo le gustaba tanto aquella elaboración de cabello de ángel, 
 > hojaldre, azúcar y canela, que las monjas la bautizaron como ‘la torta del inglés’. 
 
-![Órgano del siglo XVIII en la barroca iglesia de los Descalzos, en la ciudad de Écija](etheria_images/2022/04/ecija-caminos-pasion.jpg "Órgano del siglo XVIII en la barroca iglesia de los Descalzos, Écija. © Kelu Robles")
+![Órgano del siglo XVIII en la barroca iglesia de los Descalzos, en la ciudad de Écija](etheria-images/2022/04/ecija-caminos-pasion.jpg "Órgano del siglo XVIII en la barroca iglesia de los Descalzos, Écija. © Kelu Robles")
 
 ## 3\. Écija, la ciudad de las torres
 
@@ -100,7 +100,7 @@ su órgano del siglo XVIII han convertido la **iglesia de Los Descalzos** en una
 mayores joyas artísticas y místicas de Écija. Necesitarás unos minutos para recuperarte 
 del impacto visual que produce su interior. 
 
-![Panteón de los duques en la Colegiata de Osuna](etheria_images/2022/04/Osuna-Caminos-pasion.jpg "Panteón de los duques en la Colegiata de Osuna. © Kelu Robles")
+![Panteón de los duques en la Colegiata de Osuna](etheria-images/2022/04/Osuna-Caminos-pasion.jpg "Panteón de los duques en la Colegiata de Osuna. © Kelu Robles")
 
 ## 4\. Osuna, nobleza entre tapas
 
@@ -126,7 +126,7 @@ o José de Mora son especialmente valiosas.
 **Consejo:** La cultura del tapeo ursaonense tiene su máximo exponente en Casa Curro. 
 Déjate llevar por las recomendaciones autóctonas de sus experimentados camareros. 
 
-![Escena de la representación del pasaje bíblico de la liberación de Barrabás y condena de Jesús](etheria_images/2022/04/puente-genil-caminos-pasion.jpg "Representación del pasaje bíblico de la liberación de Barrabás y condena de Jesús. © Álex Márquez")
+![Escena de la representación del pasaje bíblico de la liberación de Barrabás y condena de Jesús](etheria-images/2022/04/puente-genil-caminos-pasion.jpg "Representación del pasaje bíblico de la liberación de Barrabás y condena de Jesús. © Álex Márquez")
 
 ## 5\. Puente Genil y sus procesiones ‘prohibidas’
 
@@ -150,7 +150,7 @@ Representan a personajes del Antiguo y Nuevo Testamento. Las de Puente Genil son
 únicas figuras de este tipo que han procesionado de forma ininterrumpida en España, 
 resistiendo todo tipo de **prohibiciones eclesiásticas**. 
 
-![Un joven cincela una pieza del taller de Paula Orfebres en Lucena (ruta de Caminos de Pasión)](etheria_images/2022/04/lucena-caminos-pasion.jpg "Javier cincela una pieza del taller Paula Orfebres, en Lucena. © Kelu Robles")
+![Un joven cincela una pieza del taller de Paula Orfebres en Lucena (ruta de Caminos de Pasión)](etheria-images/2022/04/lucena-caminos-pasion.jpg "Javier cincela una pieza del taller Paula Orfebres, en Lucena. © Kelu Robles")
 
 ## 6\. Lucena, orfebrería en una judería
 
@@ -171,7 +171,7 @@ su tradición de generación en generación a procesiones de toda España y Lati
 Las manos de sus orfebres cincelan, puntean y montan materiales preciosos y los 
 convierten en tronos, faroles, coronas y en un sinfín de minuciosas creaciones a medida. 
 
-![agricultores recogen la aceituna en el cortijo Suerte Alta de Baena](etheria_images/2022/04/baena-caminos-pasion.jpg "Recogida de aceitunas en el Cortijo Suerte Alta, Baena. © Kelu Robles")
+![agricultores recogen la aceituna en el cortijo Suerte Alta de Baena](etheria-images/2022/04/baena-caminos-pasion.jpg "Recogida de aceitunas en el Cortijo Suerte Alta, Baena. © Kelu Robles")
 
 ## 7\. Baena aceitera y tamborilera
 
@@ -191,7 +191,7 @@ En sus coloridas procesiones aparecen personajes tan originales como los **Judí
 Coliblancos y Colinegros.** Y el sonido de sus artesanales **tambores** es tan 
 particular, que ha sido declarado Patrimonio Inmaterial de la Humanidad por la Unesco. 
 
-![La estación del tren del Aceite en Cabra expone antiguas locomotoras](etheria_images/2022/04/cabra-caminos-pasion.jpg "La estación del tren del Aceite en Cabra expone antiguas locomotoras. © Kelu Robles")
+![La estación del tren del Aceite en Cabra expone antiguas locomotoras](etheria-images/2022/04/cabra-caminos-pasion.jpg "La estación del tren del Aceite en Cabra expone antiguas locomotoras. © Kelu Robles")
 
 ## 8\. Cabra, el corazón del sur
 
@@ -223,7 +223,7 @@ Los devotos de la Semana Santa encontrarán en el museo de la Pasión una muestr
 trabajo del escultor e imaginero sevillano Juan Manuel Miñarro sobre la Sabana Santa y 
 la primera Semana Santa de la Historia. 
 
-![calles de priego con flores en las paredes](etheria_images/2022/04/Priego-caminos-pasion.jpg "‘Parecen de mentira tantas flores de verdad’, dijo Gloria Fuertes cuando visitó Priego de Córdoba. © Kelu Robles")
+![calles de priego con flores en las paredes](etheria-images/2022/04/Priego-caminos-pasion.jpg "‘Parecen de mentira tantas flores de verdad’, dijo Gloria Fuertes cuando visitó Priego de Córdoba. © Kelu Robles")
 
 ## 9\. Priego de Córdoba
 
@@ -240,7 +240,7 @@ Cada **Viernes Santo**, los prieguenses alcanzan su mayor fervor durante la proc
 **Jesús** **Nazareno**, que bendice miles de hornazos, unos ‘huevos santos’ que llevan 
 sus devotos. 
 
-![Panorámica de Alcalá la Real uno de los 10 pueblos de Caminos de Pasión](etheria_images/2022/04/alcala-caminos-de-pasion.jpg "Panorámica de Alcalá la Real desde la sede de la cervecería artesanal Tierra de Frontera. © Kelu Robles")
+![Panorámica de Alcalá la Real uno de los 10 pueblos de Caminos de Pasión](etheria-images/2022/04/alcala-caminos-de-pasion.jpg "Panorámica de Alcalá la Real desde la sede de la cervecería artesanal Tierra de Frontera. © Kelu Robles")
 
 ## 10\. Alcalá la Real, moros y cristianos
 

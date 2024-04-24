@@ -1,13 +1,13 @@
 ---
 title: "Navidad en Dubái, mercadillos entre rascacielos y a 25 grados"
 date: 2023-12-08
-coverImage: etheria_images/2023/12/dubai-navidad-madinat-jumeirah.jpg
+coverImage: etheria-images/2023/12/dubai-navidad-madinat-jumeirah.jpg
 categories: 
   - planes-originales-para-mujeres
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Hay pocas actividades más agradables que viajar a lugares cálidos durante el invierno y, 
@@ -16,7 +16,7 @@ que mejor. Así que vamos a repasar la agenda navideña de Dubái para descubrir
 puedes hacer en esta época del año en una de las ciudades con mayor oferta de ocio del 
 mundo y, además, con temperaturas más que agradables. Esta ciudad te va a sorprender. 
 
-![Celebración del Año Nuevo frente al Burj Khalifa en Dubai](etheria_images/2023/12/dubai-burj-khalifa-ano-nuevo-667x1000.jpg "Celebración del Año Nuevo frente al Burj Khalifa. © Turismo de Dubái.")
+![Celebración del Año Nuevo frente al Burj Khalifa en Dubai](etheria-images/2023/12/dubai-burj-khalifa-ano-nuevo-667x1000.jpg "Celebración del Año Nuevo frente al Burj Khalifa. © Turismo de Dubái.")
 
 No todas las Navidades tienen que ser blancas. Los viajes a lugares cálidos en esta 
 época del año son un chute de energía y vitamina D que cargan las pilas para muchos 
@@ -38,7 +38,7 @@ podrás combinar las excursiones habituales en Dubái con otras relacionadas con
 ambiente navideño. Un cóctel de lo más sugerente en un destino que tiene para todos y lo 
 disfrutaras en familia, pero también en pareja o con amigos. 
 
-![niños patinando sobre hielo en Dubái](etheria_images/2023/12/dubai-navidad-patinaje-hielo.jpg "Aunque Dubái viva un eterno verano en Navidad es posible patinar sobre hielo. © Turismo de Dubái.")
+![niños patinando sobre hielo en Dubái](etheria-images/2023/12/dubai-navidad-patinaje-hielo.jpg "Aunque Dubái viva un eterno verano en Navidad es posible patinar sobre hielo. © Turismo de Dubái.")
 
 ## Mercados de Navidad en Dubái
 
@@ -64,7 +64,7 @@ no podía ser de otra forma, Dubái también cuenta con un jardín decorado con 
 iluminadas que incluye una zona dedicada a los dinosaurios. Este parque está situado en 
 Zabeel Park Gate y se puede visitar hasta el 27 de diciembre de 2023. 
 
-![decoracion navideña en Dubai](etheria_images/2023/12/dubai-navidad-madinat-jumeirah.jpg "En Madinat Jumeirah se celebra un bonito mercado de Navidad.")
+![decoracion navideña en Dubai](etheria-images/2023/12/dubai-navidad-madinat-jumeirah.jpg "En Madinat Jumeirah se celebra un bonito mercado de Navidad.")
 
 ## Winter Wonderland en Ski Dubai
 
@@ -75,7 +75,7 @@ pueblo navideño de lo más auténtico llamado Winter Wonderland. Aquí se puede
 de sus luces, hacer muñecos de nieve o tirarse en trineo. ¡Una forma de vivir la Navidad 
 con temperaturas más parecidas a las europeas durante estas fechas! 
 
-![nieve en Winter Wonderland en Dubái](etheria_images/2023/12/dubai-navidad-ski-dubai.jpg "Winter Wonderland lleva un pueblo navideño al corazón del Dubai Mall. © Turismo de Dubái.")
+![nieve en Winter Wonderland en Dubái](etheria-images/2023/12/dubai-navidad-ski-dubai.jpg "Winter Wonderland lleva un pueblo navideño al corazón del Dubai Mall. © Turismo de Dubái.")
 
 ## Espectáculos navideños
 
@@ -87,7 +87,7 @@ Cascanueces_, del 15 al 17 de diciembre, interpretada por el prestigioso Teatro 
 Ballet y Orquesta de la Ópera Estatal de Astana de Kazajstán, además de albergar un 
 elegante evento para celebrar la Nochevieja. 
 
-![entrada de la Opera de Dubái](etheria_images/2023/12/Dubai-navidad-Opera-House-.jpg "Los espectáculos de la Ópera de Dubái son una cita imprescindible en las Navidades. © Turismo de Dubái.")
+![entrada de la Opera de Dubái](etheria-images/2023/12/Dubai-navidad-Opera-House-.jpg "Los espectáculos de la Ópera de Dubái son una cita imprescindible en las Navidades. © Turismo de Dubái.")
 
 En el **QE2 Theatre**, el teatro del famoso buque Queen Elisabeth 2 que está 
 permanentemente atracado en Dubái, se podrá ver el musical _Peter Pan_ del 16 al 26 de 
@@ -113,7 +113,7 @@ También en el hotel **Fairmont The Palm**, en su Mashrabiya Lounge, se puede di
 en estas fiestas de una selección de tés de todo el mundo acompañados de dulces 
 navideños. 
 
-![mesa de gala en el Palazzo Versace de Dubái](etheria_images/2023/12/Dubai-navidad-Palazzo-Versace.jpg "Elegante mesa en el hotel Palazzo Versace. © Turismo de Dubái.")
+![mesa de gala en el Palazzo Versace de Dubái](etheria-images/2023/12/Dubai-navidad-Palazzo-Versace.jpg "Elegante mesa en el hotel Palazzo Versace. © Turismo de Dubái.")
 
 Y, por su parte, el restaurante **Santè Ria Dubai** añade un divertido toque latino a 
 todas las comidas y cenas de estas fechas (incluidos los días festivos). También merece 
@@ -132,7 +132,7 @@ Julien’s Holiday Stomp; en **Legoland** se ha ubicado un enorme calendario de 
 lleno de regalos; y **Riverland** permite vivir encuentros con Papá Noel y hay un montón 
 de escenarios navideños donde querrás hacerte una foto. 
 
-![familia en el parque IMG Worlds of Adventures](etheria_images/2023/12/dubai-navidad-IMG-WORLDS-OF-ADVENTURES-667x1000.jpg "Ambientación navideña en © IMG Worlds of Adventures.")
+![familia en el parque IMG Worlds of Adventures](etheria-images/2023/12/dubai-navidad-IMG-WORLDS-OF-ADVENTURES-667x1000.jpg "Ambientación navideña en © IMG Worlds of Adventures.")
 
 **También te puede interesar:** 
 

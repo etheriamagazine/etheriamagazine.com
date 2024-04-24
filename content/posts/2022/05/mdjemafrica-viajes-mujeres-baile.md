@@ -1,17 +1,17 @@
 ---
 title: "MdjemAfrica, mujeres que viajan en grupo para bailar"
 date: 2022-05-25
-coverImage: etheria_images/2022/05/mdjem-baile-africa-Bonaberi.jpg
+coverImage: etheria-images/2022/05/mdjem-baile-africa-Bonaberi.jpg
 categories: 
   - mujeres-etheria
   - proyectos-con-alma
-author: 
-  - colaboradores
+authors: 
+  - Firmas invitadas
 ---
 
 Belén Orive viaja y baila. También es fundadora de MdjemAfrica y diseñadora de viajes de baile para mujeres en países africanos. Ella misma nos cuenta su proyecto, los tres pilares de su agencia (mujeres, baile y África) y por qué “viajar sola pero en grupo" a este continente merece mucho la pena. Este es un nuevo 'Proyecto con Alma' de Etheria Magazine.
 
-![Belén Orive en un mercado de Bonapriso, en Camerún](etheria_images/2022/05/viaje-baile-africa-Belen-Bonapriso.jpg "Belén Orive en Bonapriso (Camerún).")
+![Belén Orive en un mercado de Bonapriso, en Camerún](etheria-images/2022/05/viaje-baile-africa-Belen-Bonapriso.jpg "Belén Orive en Bonapriso (Camerún).")
 
 MdjemAfrica es una iniciativa de Belén Orive que brinda a todas las mujeres la 
 oportunidad de experimentar el ritmo de la música afrobeats al tiempo que realizan una 
@@ -36,7 +36,7 @@ posible. Es imposible conocer en profundidad un lugar en una semana, en quince d
 un mes pero sí puedes sumergirte todo lo que esté en tu mano. El imbuirse o no y cuánto 
 depende de nosotras. 
 
-![Grupo de danza heels.](etheria_images/2022/05/mdjem-grupo-Heels.jpg "Grupo de danza heels.")
+![Grupo de danza heels.](etheria-images/2022/05/mdjem-grupo-Heels.jpg "Grupo de danza heels.")
 
 ## Viajar sola es una decisión personal
 
@@ -57,7 +57,7 @@ considerados apropiados y seguros para una mujer que ose viajar sola. Pero tambi
 otros países de Latinoamérica, de Oriente Medio o –y aquí es donde aparezco yo– del 
 continente africano. 
 
-[![Bailando en Camerún. Si haces click en la foto podrás ver el vídeo.](etheria_images/2022/05/mdjem-baile-africa-Bonaberi.jpg "Bailando en Camerún.")](https://www.youtube.com/watch?v=fRPHRhgDJ74)
+[![Bailando en Camerún. Si haces click en la foto podrás ver el vídeo.](etheria-images/2022/05/mdjem-baile-africa-Bonaberi.jpg "Bailando en Camerún.")](https://www.youtube.com/watch?v=fRPHRhgDJ74)
 
 ## Mujeres que viajan solas a África
 
@@ -80,7 +80,7 @@ y disfrutar con profundidad e intensidad durante el viaje. Un viaje que comienza
 de de coger el avión. Durante las semanas anteriores en la que lo preparamos y, más 
 tarde, el grupo se va conociendo y compartiendo. 
 
-![Grupo mixto de baile Shake Body.](etheria_images/2022/05/mdjem-Shake-Body.jpg "Grupo Shake Body.")
+![Grupo mixto de baile Shake Body.](etheria-images/2022/05/mdjem-Shake-Body.jpg "Grupo Shake Body.")
 
 ## ¿Por qué un viaje sólo para mujeres?
 
@@ -98,7 +98,7 @@ similares. Compartimos historias paralelas donde **otros nos han contado quiéne
 y qué somos capaces o no de hacer y ambas nos encontramos, en la actualidad, en un 
 momento de evolución y de ruptura de muchas imposiciones. 
 
-![Belén Orive durante una de sus clases de baile en Camerún.](etheria_images/2022/05/Belen-orive-mdjem-camerun.jpg "Belén Orive durante una de sus clases de baile en Camerún.")
+![Belén Orive durante una de sus clases de baile en Camerún.](etheria-images/2022/05/Belen-orive-mdjem-camerun.jpg "Belén Orive durante una de sus clases de baile en Camerún.")
 
 ### Viajar bailando con MdjemAfrica
 
@@ -117,7 +117,7 @@ cara de África que tengo tanto empeño en dar a conocer. **Una África moderna,
 rica**. Una África no solo con un pasado, sino con un presente muy decidido y un futuro 
 arrollador. 
 
-![Zanzíbar es uno de los destinos elegidos por Mdjem.](etheria_images/2022/05/zanzibar-viaje-baile-djem.jpg "Zanzíbar es uno de los destinos elegidos por Mdjem. © Zeynep Gokalp")
+![Zanzíbar es uno de los destinos elegidos por Mdjem.](etheria-images/2022/05/zanzibar-viaje-baile-djem.jpg "Zanzíbar es uno de los destinos elegidos por Mdjem. © Zeynep Gokalp")
 
 Mujeres solas en grupo viajando por África y bailando. Eso es **MdjemAfrica**. Mujeres 
 acompañándose las unas a las otras con las mismas ganas de bailar, de conocer, de 

@@ -1,19 +1,19 @@
 ---
 title: "10 escapadas para descubrir nuevos tesoros en Andalucía"
 date: 2020-11-06
-coverImage: etheria_images/2020/11/Andalucia-Ronda-puente-nuevo.jpg
+coverImage: etheria-images/2020/11/Andalucia-Ronda-puente-nuevo.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Nos espera un final de otoño y un invierno con pocos puentes pero eso no significa que no puedas salir a conocer mejor tu ciudad o tu provincia durante un fin de semana. Te proponemos 10 escapadas en Andalucía con las que descubrir las joyas que tienes al lado de casa.
 
-![Pasear por Vejer de la Frontera.](etheria_images/2020/11/Andalucia-vejer-iglesia-divino-salvador-1.jpg "Vista de Vejer de la Frontera. © SG")
+![Pasear por Vejer de la Frontera.](etheria-images/2020/11/Andalucia-vejer-iglesia-divino-salvador-1.jpg "Vista de Vejer de la Frontera. © SG")
 
 ## 1\. Baelo Claudia y Vejer de la Frontera en Cádiz
 
@@ -27,7 +27,7 @@ Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-fron
 lleno de rincones y secretos, donde pasear por sus calles inmaculadas es un auténtico 
 placer. 
 
-![Mirador de Sevilla](etheria_images/2020/11/Andalucia-viaje-sevilla-las-setas.jpg "Vistas desde las famosas Setas de Sevilla.")
+![Mirador de Sevilla](etheria-images/2020/11/Andalucia-viaje-sevilla-las-setas.jpg "Vistas desde las famosas Setas de Sevilla.")
 
 ## 2\. Diez planes inolvidables en Sevilla con amigas o en pareja
 
@@ -38,7 +38,7 @@ con amigas o en pareja. Desde contemplar sus tejados y recorrer la ciudad en bic
 conocer la nueva arquitectura o aprender a cocinar sus platos típicos. ¿A que todavía te 
 quedan cosas por hacer en Sevilla? 
 
-![Vista aérea de las marismas del río Odiel](etheria_images/2020/11/Andalucia-Huelva-marismas.jpg "Barcos en Punta Umbría.")
+![Vista aérea de las marismas del río Odiel](etheria-images/2020/11/Andalucia-Huelva-marismas.jpg "Barcos en Punta Umbría.")
 
 ## 3\. Descubre la magia de la costa de Huelva
 
@@ -51,7 +51,7 @@ Interminables arenales, marismas y leyendas que sitúan aquí mismo a la misteri
 Atlántida. Y si te gusta avistar aves, este es sin duda uno de los mejores lugares de 
 España para verlas en sus migraciones. 
 
-![Ruta por la arquitectura de Málaga.](etheria_images/2020/11/Andalucia-Malaga-catedral.jpg "La catedral de Málaga, conocida como 'la Manquita'.")
+![Ruta por la arquitectura de Málaga.](etheria-images/2020/11/Andalucia-Malaga-catedral.jpg "La catedral de Málaga, conocida como 'la Manquita'.")
 
 ## 4\. Un fin de semana en Málaga con amigas
 
@@ -63,7 +63,7 @@ museos (imprescindibles el Museo Picasso y el Museo Carmen Thyssen) y, después,
 su gastronomía y pasear por el centro o por La Malagueta. No nos digas que no es un 
 planazo… 
 
-![Bosque de Columnas de la mezquita-catedral de Córdoba](etheria_images/2020/11/andalucia-Mezquita-Cordoba.jpg "La mezquita-catedral de Córdoba.")
+![Bosque de Columnas de la mezquita-catedral de Córdoba](etheria-images/2020/11/andalucia-Mezquita-Cordoba.jpg "La mezquita-catedral de Córdoba.")
 
 ## 5\. Córdoba, el maridaje perfecto entre historia y gastronomía
 
@@ -73,7 +73,7 @@ uno de esos lugares que hay que visitar al menos una vez en la vida. Pero, adem�
 Córdoba se vive en sus maravillosos patios y, cómo no, en sus bares y restaurantes que 
 ofrecen una gastronomía de sabores propios y con mucho arte. 
 
-![Paisaje del desierto de Tabernas de Almería](etheria_images/2020/11/Andalucia-Almeria-desierto-tabernas.jpg "Desierto de Tabernas, un lugar para desconectar en Almería.")
+![Paisaje del desierto de Tabernas de Almería](etheria-images/2020/11/Andalucia-Almeria-desierto-tabernas.jpg "Desierto de Tabernas, un lugar para desconectar en Almería.")
 
 ## 6\. Slowtravel en Almería
 
@@ -86,7 +86,7 @@ artículo de [48 horas en
 Almería](https://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/) 
 encontrarás todas las claves). 
 
-![La naturaleza es la protagonista en el parque nacional de la Sierra de las Nieves en Almería.](etheria_images/2020/11/Andalucia-sierra-nieves-malaga.jpg "Olivos en el Parque Nacional de la Sierra de las Nieves (Málaga).")
+![La naturaleza es la protagonista en el parque nacional de la Sierra de las Nieves en Almería.](etheria-images/2020/11/Andalucia-sierra-nieves-malaga.jpg "Olivos en el Parque Nacional de la Sierra de las Nieves (Málaga).")
 
 ## 7\. Diez coordenadas del Parque Nacional Sierra de las Nieves
 
@@ -99,7 +99,7 @@ sus trece pueblos blancos, que se colorean con las macetas de sus balcones. Adem
 un lugar perfecto para ver algunos emblemas de la naturaleza ibérica, como el águila 
 real y el buitre leonado. 
 
-![Barricas en una bodega de Jerez.](etheria_images/2020/11/Andalucia-bodega-jerez-amigas.jpg "Bodegas en Jerez de la Frontera.")
+![Barricas en una bodega de Jerez.](etheria-images/2020/11/Andalucia-bodega-jerez-amigas.jpg "Bodegas en Jerez de la Frontera.")
 
 ## 8\. Jerez, el arte del buen vivir
 
@@ -113,7 +113,7 @@ Podréis recorrer su casco histórico, tomar vinos en los tabancos de la ciudad,
 alguna bodega y acercaros a ver el mar en El Puerto de Santa María, que está a menos de 
 media hora en coche. Se nos ocurren pocos planes más apetecibles ahora mismo… 
 
-![El Puente Nuevo de Ronda es su imagen más característica.](etheria_images/2020/11/Andalucia-Ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
+![El Puente Nuevo de Ronda es su imagen más característica.](etheria-images/2020/11/Andalucia-Ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
 
 ## 9\. Ronda, literaria, romántica y monumental
 
@@ -125,7 +125,7 @@ dar lugar a una localidad única. Incluso si no te gustan los toros disfrutarás
 bonita plaza de toros, llena de historia y anécdotas, una parada obligada en una ruta 
 para conocer su arquitectura histórica y sus bonitos palacios. 
 
-![El Albaicín es una visita obligada en Granada.](etheria_images/2020/11/andalucia-granada-viajes.jpg "Vista del Albaicín desde la Alhambra, al otro lado del río Darro.")
+![El Albaicín es una visita obligada en Granada.](etheria-images/2020/11/andalucia-granada-viajes.jpg "Vista del Albaicín desde la Alhambra, al otro lado del río Darro.")
 
 ## 10\. Siempre Granada
 

@@ -1,12 +1,12 @@
 ---
 title: "Mil razones para enamorarse de la Mérida mexicana"
 date: 2022-07-18
-coverImage: etheria_images/2022/07/que-ver-merida-mexico-portada.jpg
+coverImage: etheria-images/2022/07/que-ver-merida-mexico-portada.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Cris Aizpeolea
 ---
 
@@ -14,7 +14,7 @@ Clásica y moderna, Mérida, la capital del estado de Yucatán, ofrece la escala
 
 _**Por Cris Aizpeolea**_ 
 
-![Calles de Mérida, Yucatán (México).](etheria_images/2022/07/calles-merida-yucatan-678x1024.jpg "Calles de Mérida, Yucatán (México). © Matt Hanns Schroeter")
+![Calles de Mérida, Yucatán (México).](etheria-images/2022/07/calles-merida-yucatan-678x1024.jpg "Calles de Mérida, Yucatán (México). © Matt Hanns Schroeter")
 
 Calzado cómodo, agua envasada, sombrero y protector solar, son el equipo básico para 
 explorar Mérida. A 300 kilómetros por autopista de la frenética Cancún, la **capital del 
@@ -28,7 +28,7 @@ blanca” por la piedra caliza que distingue las casonas señoriales y edificios
 refinado patrimonio y, también, por las guayaberas y huipiles que viste la gente para 
 acompañar un verano casi perpetuo. En invierno, puede tener máximas de 30 grados. 
 
-![Palacio Cantón, Museo Regional de Antropología, en Mérida](etheria_images/2022/07/palacio-canton-merida-mexico.jpg "Palacio Cantón, Museo Regional de Antropología. © Álvaro Rosado")
+![Palacio Cantón, Museo Regional de Antropología, en Mérida](etheria-images/2022/07/palacio-canton-merida-mexico.jpg "Palacio Cantón, Museo Regional de Antropología. © Álvaro Rosado")
 
 ## Qué hacer en la Mérida mexicana
 
@@ -42,7 +42,7 @@ boutiques, y explica el tesoro de su arquitectura urbana. Apenas una muestra, so
 **palacios neoclásicos y las mansiones** que los hacendados y las familias acaudaladas 
 construyeron sobre el **Paseo de Montejo**. 
 
-![Museo del Cacao y Bancos de Mérida, yucatán](etheria_images/2022/07/museo-cacao-banco-merida-mexico.jpg "Museo del Cacao y bancos "Tú y yo" de Mérida (Yucatán). © Cris Aizpeolea")
+![Museo del Cacao y Bancos de Mérida, yucatán](etheria-images/2022/07/museo-cacao-banco-merida-mexico.jpg "Museo del Cacao y bancos "Tú y yo" de Mérida (Yucatán). © Cris Aizpeolea")
 
 Se ofrecen glamorosos **paseos en coches de caballo** pero nada se compara a recorrerlo 
 a pie, misión que puede durar una hora, toda la mañana o la tarde entera. Y es bello de 
@@ -57,7 +57,7 @@ la guayaba y el elote (choclo). En el 490, está el [Museo del
 Cacao](https://www.facebook.com/CacaoYucMx/), que invita con una ilustrativa visita, 
 degustación incluida. Todo eso, en apenas dos cuadras. 
 
-![Heladería Colón, en Mérida](etheria_images/2022/07/merida-heladeria-colon-mexico.jpg "Heladería Colón, en Mérida. © Cris Aizpeolea")
+![Heladería Colón, en Mérida](etheria-images/2022/07/merida-heladeria-colon-mexico.jpg "Heladería Colón, en Mérida. © Cris Aizpeolea")
 
 Desde el _Monumento a la Patria_ (de piedra, tallado a mano, que resume la historia del 
 país), son unos 1.600 metros hasta el remate. En el final, que en realidad es el 
@@ -66,7 +66,7 @@ escultura de Los Montejo. Ocurre que “El Mozo”, junto con su padre y su prim
 se llamaban igual) conquistaron varios pueblos mayas y los evocan en toda la península 
 con plazas, calles, escuelas y parques. 
 
-![Antojitos yucatecos, en Mérida (México).](etheria_images/2022/07/merida-antojitos-yucatecos.jpg "Antojitos yucatecos, en Mérida (México). © Cris Aizpeolea")
+![Antojitos yucatecos, en Mérida (México).](etheria-images/2022/07/merida-antojitos-yucatecos.jpg "Antojitos yucatecos, en Mérida (México). © Cris Aizpeolea")
 
 ## Comer y beber en Santa Ana
 
@@ -84,7 +84,7 @@ ronda los 100 MXN, casi 5 euros. En algún momento de la estancia hay que probar
 la sopa de lima, la cochinita pibil, los papadzules y la refrescante agua de jamaica, 
 morada como el vino, a base de té frío de flores de hibiscus. 
 
-![Vista general de la Iglesia de Santa Ana, en Mérida (México).](etheria_images/2022/07/iglesia-santa-ana-Merida-yucatan.jpg "Iglesia de Santa Ana, en Mérida (México). © Cris Aizpeolea")
+![Vista general de la Iglesia de Santa Ana, en Mérida (México).](etheria-images/2022/07/iglesia-santa-ana-Merida-yucatan.jpg "Iglesia de Santa Ana, en Mérida (México). © Cris Aizpeolea")
 
 ### Iglesia de Santa Ana
 
@@ -98,7 +98,7 @@ Es posible que al salir se acerque respetuoso algún artesano ofreciendo sus **f
 tejidas con hojas de palma.** Noble amuleto para el viaje, son preciosas y las hacen en 
 minutos con gran habilidad, a cambio de una colaboración. Y una sonrisa. 
 
-![Galerías interiores de la Casa Montejo, en Mérida (México).](etheria_images/2022/07/casa-montejo-Merida-yucatan-mexico.jpg "Galerías interiores de la Casa Montejo, en Mérida (México). © Cris Aizpeolea")
+![Galerías interiores de la Casa Montejo, en Mérida (México).](etheria-images/2022/07/casa-montejo-Merida-yucatan-mexico.jpg "Galerías interiores de la Casa Montejo, en Mérida (México). © Cris Aizpeolea")
 
 ## Las perlas de la ciudad
 
@@ -113,7 +113,7 @@ Zócalo que nunca descansa. La “perla” es el portal de la **Casa Montejo**, 
 1549, esculpido en piedra, pleno de referencias a la conquista. En su interior funciona 
 un museo de arte. 
 
-![Vista general de la Catedral de San Ildefonso, en Mérida (México).](etheria_images/2022/07/catedral-ildefonso-merida-yucatan-mexico.jpg "Catedral de San Ildefonso, en Mérida (México). © Cris Aizpeolea")
+![Vista general de la Catedral de San Ildefonso, en Mérida (México).](etheria-images/2022/07/catedral-ildefonso-merida-yucatan-mexico.jpg "Catedral de San Ildefonso, en Mérida (México). © Cris Aizpeolea")
 
 Encerrada en la trama urbana, conviene alejarse un poco para apreciar en su magnitud la 
 **Catedral de San Ildefonso**, de tres naves, dos torres de estilo morisco y una solidez 
@@ -123,7 +123,7 @@ el Pasaje de la Revolución, abierto 24 horas, techo de vidrio, con una impactan
 de figuras humanas que mutan a inoxidables. En Mérida, el arte al paso es parte del 
 plan. 
 
-![Galería de Mérida, Yucatán (México).](etheria_images/2022/07/que-ver-Merida-Yucatan.jpg "Pasaje de la Revolución de Mérida, Yucatán (México). © Cris Aizpeolea")
+![Galería de Mérida, Yucatán (México).](etheria-images/2022/07/que-ver-Merida-Yucatan.jpg "Pasaje de la Revolución de Mérida, Yucatán (México). © Cris Aizpeolea")
 
 ## Cantar y bailar en Santa Lucía
 
@@ -139,7 +139,7 @@ gastronómico, epicentro de tiendas de artesanías, hoteles y librerías. Los ju
 21, como hace 55 años cuando venía Armando Manzanero, suben los músicos al escenario 
 para darle rienda suelta a las serenatas hasta la madrugada. 
 
-![Dos imágenes de Plaza de Santa Lucía, en Mérida (México).](etheria_images/2022/07/plaza-santa-lucia-merida.jpg "Plaza de Santa Lucía, en Mérida (México). © Cris Aizpeolea")
+![Dos imágenes de Plaza de Santa Lucía, en Mérida (México).](etheria-images/2022/07/plaza-santa-lucia-merida.jpg "Plaza de Santa Lucía, en Mérida (México). © Cris Aizpeolea")
 
 ## Excursión a Uxmal, un mundo maya
 
@@ -149,7 +149,7 @@ decorativo, de columnas y muros lisos con frisos ornamentales, es propio de los 
 1000 a 500 a.C.. Integra también otros cinco sitios arqueológicos de Yucatán, algunos 
 con sus estructuras aún tapadas por la selva circundante. 
 
-![Pirámide de las ruinas de Uxmal, una excursión desde Mérida](etheria_images/2022/07/ruinas-uxmal-yucatan.jpg "Ruinas de Uxmal. © Cris Aizpeolea")
+![Pirámide de las ruinas de Uxmal, una excursión desde Mérida](etheria-images/2022/07/ruinas-uxmal-yucatan.jpg "Ruinas de Uxmal. © Cris Aizpeolea")
 
 Con suelos fértiles para la agricultura, Uxmal superó varias ocupaciones y llegó a tener 
 25.000 habitantes bajo el mando de un selecto grupo de sabios que planteaba las reglas e 
@@ -162,7 +162,7 @@ Tortugas, el palacio del Emperador y la plaza de los Pájaros.
 ?Abre de lunes a lunes, de 8 a 17 horas, entrada a 500 MXN (23 €). De noche, ofrece un 
 espectáculo de luz y sonido (640 MXN, unos 30 €). 
 
-![Playa de la ciudad de Progreso en Yucatán, México](etheria_images/2022/07/playas-progreso-yucatan.jpg "Las playas de Progreso están a sólo 30 km de Mérida. © Cris Aizpeolea")
+![Playa de la ciudad de Progreso en Yucatán, México](etheria-images/2022/07/playas-progreso-yucatan.jpg "Las playas de Progreso están a sólo 30 km de Mérida. © Cris Aizpeolea")
 
 ## Bonus track: ruta de los Conventos
 
@@ -173,7 +173,7 @@ Golfo de México, y es el refugio de una de las mayores poblaciones de flamencos
 del mundo. Los tours de cenotes, las haciendas de los alrededores y las escapadas a las 
 playas de Sisal o **Puerto Progreso**, la confirman como un destino inagotable. 
 
-![Flamencos en Yucatán](etheria_images/2022/07/yucatan-flamencos.jpg "Flamencos en Yucatán. © Dick Hoskins")
+![Flamencos en Yucatán](etheria-images/2022/07/yucatan-flamencos.jpg "Flamencos en Yucatán. © Dick Hoskins")
 
 Más información en la [web](https://www.visitmexico.com/) de Turismo de México. 
 

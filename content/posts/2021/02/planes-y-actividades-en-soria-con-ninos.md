@@ -1,18 +1,21 @@
 ---
 title: "Planes en Soria con niños para desconectar en plena naturaleza"
 date: 2021-02-24
-coverImage: etheria_images/2021/02/planes-ninos-en-soria.jpg
+coverImage: etheria-images/2021/02/planes-ninos-en-soria.jpg
 categories: 
   - viaje-en-familia
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
-##### Visitar Soria con niños es una experiencia muy recomendable, ya que dispone de propuestas divertidas para toda la familia. Castillos, cañones, lagunas y bosques mágicos, villas romanas, observatorios astronómicos, huellas de dinosaurios e, incluso, baños termales. ¿A qué estamos esperando? (A poder viajar sin limitaciones, ¡claro!)
+Visitar Soria con niños es una experiencia muy recomendable, ya que dispone de 
+propuestas divertidas para toda la familia. Castillos, cañones, lagunas y bosques 
+mágicos, villas romanas, observatorios astronómicos, huellas de dinosaurios e, incluso, 
+baños termales. ¿A qué estamos esperando? (A poder viajar sin limitaciones, ¡claro!) 
 
-![ruta laguna negra de soria](etheria_images/2021/02/soria-laguna-negra.jpg "Camino de la laguna Negra de Soria. © Pepa García")
+![ruta laguna negra de soria](etheria-images/2021/02/soria-laguna-negra.jpg "Camino de la laguna Negra de Soria. © Pepa García")
 
 Planear un viaje con niños a Soria es algo relativamente sencillo, ya que en esta 
 provincia de Castilla y León se concentran actividades muy diferentes y las distancias 
@@ -23,9 +26,7 @@ contentos. Hay un poco de todo: caminatas, castillos, piraguas, parques de avent
 relax en un balneario, huellas de dinosaurio e, incluso, un poco de historia romana (que 
 nunca está de más). 
 
-## 10 actividades con niños para pasarlo bien en Soria
-
-### 1\. Cañón del río Lobos
+## 1\. Cañón del río Lobos
 
 No es el cañón del Colorado pero este desfiladero recorre más de 25 kilómetros entre las 
 provincias de Soria y de Burgos. No te pediremos que lo recorras por completo, pero sí 
@@ -34,9 +35,9 @@ río Lobos. Sus paisajes han sido forjados por la erosión que ha ocasionado el 
 un sistema kárstico, por lo que se perciben numerosas grutas que se adentran en paredes 
 que alcanzan hasta 200 metros de altura, además de torcas, simas y sumideros. 
 
-![Canon del rio lobos en soria con ninos](etheria_images/2021/02/canon-rio-lobos-soria.jpg "Panorámica del cañón del río Lobos. © Etheria Magazine")
+![Panorámica del cañón del río Lobos.](etheria-images/2021/02/canon-rio-lobos-soria.jpg "Panorámica del cañón del río Lobos. © Etheria Magazine")
 
-#### ¿Cómo llegar al Cañón del río Lobos?
+### ¿Cómo llegar al Cañón del río Lobos?
 
 Al cañón se puede acceder desde tres puntos principales, todo depende de cuánto quieras 
 prolongar la caminata el que elijas entrar por uno o por otro. Lo idóneo si vas con 
@@ -46,7 +47,7 @@ hacer un pícnic, y hablarles, si son mayores, sobre la mística templaria que e
 este lugar. La ermita suele abrir dos horas por la mañana y otras dos por la tarde (si 
 tienes interés, puedes llamar al Tel. 975 340 000). 
 
-![ermita templaria en canon rio lobos soria](etheria_images/2021/02/ermita-san-bartolome-canon-rio-lobos.jpg "Ermita de San Bartolomé, en el cañón del río Lobos.")
+![Ermita de San Bartolomé, en el cañón del río Lobos.](etheria-images/2021/02/ermita-san-bartolome-canon-rio-lobos.jpg "Ermita de San Bartolomé, en el cañón del río Lobos.")
 
 El paseo al cañón del río Lobos lo puedes iniciar en el aparcamiento más cercano, el de 
 Valdecea ([Google 
@@ -57,9 +58,9 @@ Engomez (3,5 km). Además del paisaje, llama la atención ver a numerosos **buit
 leonados** sobrevolando el cañón o posados sobre sus farallones. Al atardecer es todo un 
 espectáculo (a veces sobrecogedor). 
 
-![bosque magico en soria](etheria_images/2021/02/bosque-magico-soria.jpg "© Bosque Mágico Fuente del Pino, en Soria.")
+![Bosque Mágico Fuente del Pino, en Soria.](etheria-images/2021/02/bosque-magico-soria.jpg "© Bosque Mágico Fuente del Pino, en Soria.")
 
-### 2\. Bosque Mágico Fuente del Pino
+## 2\. Bosque Mágico Fuente del Pino
 
 Si vas con niños pequeños, te interesa saber que existe un lugar muy especial en San 
 Leonardo de Yagüe, se llama el [Bosque Mágico de Fuente del 
@@ -74,13 +75,9 @@ La entrada es gratuita y, aunque se pueden tocar las cosas, abrir ventanitas y p
 hay que cuidarlos porque cada pieza ha sido realizada con mucho mimo. Comprueba en su 
 web si hay actividades programadas durante tu visita. 
 
-\*Aquí te puedes descargar un [plano de San Leonardo de 
-Yagüe](http://sanleonardodeyague.es/wp-content/uploads/2020/09/folleto-san-leonardo-yague-2020.pdf) 
-para conocer también otros hitos turísticos. 
+![Laguna Negra, uno de los imprescindibles de Soria.](etheria-images/2021/02/laguna-negra-en-soria.jpg "Laguna Negra, uno de los imprescindibles de Soria. © Etheria Magazine")
 
-![visitar laguna negra de soria](etheria_images/2021/02/laguna-negra-en-soria.jpg "Laguna Negra, uno de los imprescindibles de Soria. © Etheria Magazine")
-
-### 3\. Ruta en familia a la laguna Negra de Soria
+## 3\. Ruta en familia a la laguna Negra de Soria
 
 El Monumento Natural de la Laguna Negra ([Google 
 maps](https://www.google.es/maps/place/Laguna+Negra+de+Urbi%C3%B3n/@41.9988064,-2.8492676,17z/data=!4m12!1m6!3m5!1s0xd451976b4228027:0xb86d42eb28d868db!2sLaguna+Negra+de+Urbi%C3%B3n!8m2!3d41.9988024!4d-2.8470789!3m4!1s0xd451976b4228027:0xb86d42eb28d868db!8m2!3d41.9988024!4d-2.8470789)), 
@@ -93,7 +90,7 @@ aparcamiento es muy fácil acceder, incluso hay pasarelas. Una localidad próxim
 animada y con buenos restaurantes es **Vinuesa**. Merece la pena hacer una parada allí 
 para comer o para alojarse en alguna de sus bonitas casas rurales. 
 
-### 4\. Parque acrobático forestal en Vinuesa
+## 4\. Parque acrobático forestal en Vinuesa
 
 Si el paseo por la laguna Negra no ha sido suficiente, puedes acercarte a [VinuesAventura](https://www.vinuesaventura.com/), 
 un parque con cinco circuitos en los árboles de distinto nivel de dificultad. Pequeños y 
@@ -104,9 +101,9 @@ especializados que se encargan de que nadie corra ningún riesgo.
 Está abierto todo el año, siempre que la climatología lo permita, pero es conveniente 
 reservar previamente. 
 
-![planes con ninos en soria la fuentona](etheria_images/2021/02/la-fuentona-soria-1.jpg "Monumento Natural La Fuentona, en Soria. © Etheria M.")
+![Monumento Natural La Fuentona, en Soria.](etheria-images/2021/02/la-fuentona-soria-1.jpg "Monumento Natural La Fuentona, en Soria. © Etheria M.")
 
-### 5\. Paseo con niños a La Fuentona y Calatañazor
+## 5\. Paseo con niños a La Fuentona y Calatañazor
 
 Aunque La Fuentona, como se conoce el nacimiento del río Abión, fue declarada Monumento 
 Natural, no es uno de los lugares más conocidos o que se incluya en los planes con niños 
@@ -124,9 +121,9 @@ madera por doquier para los niños. Y si te quedas a comer, te recomendamos el [
 El Palomar](http://www.elpalomarrestaurante.com/), situado en un antiguo palomar, donde 
 sirven una riquísima comida casera. 
 
-![calatanazor pueblo bonito de soria](etheria_images/2021/02/soria-con-ninos-calatanazor-717x1024.jpg "Calatañazor, uno de los pueblos más bonitos de Soria. © Etheria Magazine")
+![Calatañazor, uno de los pueblos más bonitos de Soria.](etheria-images/2021/02/soria-con-ninos-calatanazor-717x1024.jpg "Calatañazor, uno de los pueblos más bonitos de Soria. © Etheria Magazine")
 
-### 6\. Observar las estrellas en Borobia
+## 6\. Observar las estrellas en Borobia
 
 ¿Sabías que Soria es _Destino Turístico Starlight_? Uno de los mejores lugares para 
 observar sus cielos libres de contaminación lumínica es el [Observatorio Astronómico de 
@@ -137,9 +134,9 @@ Consulta el horario de sesión guiada nocturna (en invierno es a las 20 horas) e
 En [Borobia](http://www.ccborobia.com/alojamiento.html) también hay alguna casa rural y 
 restaurantes, por si prefieres pasar la noche allí. 
 
-![fortaleza califal del gormaz en soria con ninos](etheria_images/2021/02/fortaleza-califal-gormaz.jpg "Fortaleza califal de Gormaz. © Etheria Magazine")
+![Fortaleza califal de Gormaz.](etheria-images/2021/02/fortaleza-califal-gormaz.jpg "Fortaleza califal de Gormaz. © Etheria Magazine")
 
-### 7\. Caballeros por un día: fortaleza de Gormaz y castillo de Berlanga de Duero
+## 7\. Caballeros por un día: fortaleza de Gormaz y castillo de Berlanga de Duero
 
 Otra actividad con niños en Soria que no debe faltar en la agenda es visitar algún 
 castillo. Hay muchos pero los que nosotros conocimos nos encantaron: la **fortaleza 
@@ -150,9 +147,9 @@ caballeros a quien perteneció tras la reconquista por parte de Fernando I de Le
 1060. El **castillo de Berlanga**, junto al pueblo, también se encuentra bien 
 conservado, y además puedes aprovechar para pasear por este bonito pueblo de Soria. 
 
-![castillo de berlanga de duero](etheria_images/2021/02/castillo-berlanga-duero-soria-1.jpg "Castillo de Berlanga de Duero desde las calles del pueblo. © Etheria Magazine")
+![Castillo de Berlanga de Duero desde las calles del pueblo.](etheria-images/2021/02/castillo-berlanga-duero-soria-1.jpg "Castillo de Berlanga de Duero desde las calles del pueblo. © Etheria Magazine")
 
-### 8\. Relax en familia en El Burgo de Osma
+## 8\. Relax en familia en El Burgo de Osma
 
 Probablemente te haya sorprendido que incluyamos un balneario en una escapada con niños 
 a Soria... pero en el [Castilla Termal Burgo de 
@@ -170,9 +167,9 @@ este artículo para mujeres urbanitas: ["8 razones para hacer una cura antiestr�
 amigas en 
 Soria"](https://etheriamagazine.com/2019/08/12/ocho-razones-para-viajar-a-soria-con-amigas/). 
 
-![castilla termal burgo de osma con ninos](etheria_images/2021/02/balneario-burgo-osma-en-familia.jpg "© Castilla Termal Burgo de Osma.")
+![Castilla Termal Burgo de Osma.](etheria-images/2021/02/balneario-burgo-osma-en-familia.jpg "© Castilla Termal Burgo de Osma.")
 
-### 9\. En kayak por el Duero
+## 9\. En kayak por el Duero
 
 Si haces esta escapada a la provincia de Soria en primavera o verano, no te cortes y 
 anímate a navegar en kayak o piragua por el río Duero desde la localidad de Garray hasta 
@@ -180,7 +177,7 @@ la capital de Soria, unos 8 kilómetros de ruta. Hay empresas como [Soria
 Aventura](https://soriaventura.com/actividad/rafting/) que se encargan de todo, tú sólo 
 tendrás que llevar bañador, deportivos, mochila, toalla, agua y protector solar. 
 
-### 10\. ¿Eres más de romanos o de dinosaurios?
+## 10\. ¿Eres más de romanos o de dinosaurios?
 
 Hemos dejado para el final una visita y una ruta que son estupendas para niños en edad 
 escolar. En función de los gustos de tus hijos (sobrinos, nietos...) puedes elegir entre 
@@ -189,15 +186,15 @@ Dehesa](https://www.villaromanaladehesa.es/informaci%C3%B3n-general/folletos/), 
 en Cuevas de Soria ([Google 
 maps](https://www.google.es/maps/place/Villa+Romana+La+Dehesa/@41.6666352,-2.6233716,15.47z/data=!4m12!1m6!3m5!1s0xd44c5f513a12841:0xe986b0863c6aca93!2sVilla+Romana+La+Dehesa!8m2!3d41.6692274!4d-2.6206792!3m4!1s0xd44c5f513a12841:0xe986b0863c6aca93!8m2!3d41.6692274!4d-2.6206792)), 
 que es una maravilla ([calendario 
-2021](https://www.villaromanaladehesa.es/informaci%C3%B3n-general/)). O bien realizar la [ruta 
+2024](https://www.villaromanaladehesa.es/informaci%C3%B3n-general/)). O bien realizar la [ruta 
 de las icnitas](http://www.rutadelasicnitas.com/), en las Tierras Altas de Soria, donde 
 se pueden ver huellas, grandes reproducciones que encantarán a los más pequeños y, 
 también, el Parque Cretácico de Aventuras de San Pedro Manrique. En los anteriores 
 enlaces encontrarás una información más detallada. 
 
-![ruta de las icnitas para hacer con ninos en soria](etheria_images/2021/02/ruta-dinosaurios-soria.jpg "Ruta de las Icnitas, en Soria. © Diputación Provincial de Soria")
+![Ruta de las Icnitas, en Soria.](etheria-images/2021/02/ruta-dinosaurios-soria.jpg "Ruta de las Icnitas, en Soria. © Diputación Provincial de Soria")
 
-### También te puede interesar...
+**También te puede interesar...** 
 
 [8 excursiones con niños en 
 Alicante](https://etheriamagazine.com/2020/05/28/8-excursiones-con-ninos-en-alicante/). 

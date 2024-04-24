@@ -1,14 +1,14 @@
 ---
 title: "10 consejos para un viaje en familia a Nueva York"
 date: 2018-07-27
-coverImage: etheria_images/2018/07/nueva-york-familia-central-park.jpg
+coverImage: etheria-images/2018/07/nueva-york-familia-central-park.jpg
 categories: 
   - consejos-practicos
   - viaje-en-familia
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Nueva York, como todas las metrópolis, con ese halo de ciudad llena de prisas y de gente 
@@ -16,7 +16,7 @@ suele parecer inabarcable para un viaje en familia. Pero no hay que tener miedo 
 lanzarse a disfrutar de la Gran Manzana con niños porque siguiendo algunas pistas todo 
 resulta más sencillo. 
 
-![Pradera de Central Park](etheria_images/2018/07/nueva-york-familia-central-park.jpg "Juegos en Central Park.")
+![Pradera de Central Park](etheria-images/2018/07/nueva-york-familia-central-park.jpg "Juegos en Central Park.")
 
 ```
 Actualizado octubre 2023
@@ -41,7 +41,7 @@ los adultos hagan lo mismo y aprovechar el día siguiente desde bien temprano co
 con un buen desayuno. Si está cerca de tu hotel, un lugar excelente es [Pershing 
 Square](http://www.pershingsquare.com), frente a la estación Grand Central (en la 42nd). 
 
-![Comida callejera en Nueva York](etheria_images/2018/07/Nueva-York-familias-perrito-caliente.jpg "Puesto típico de 'hot dogs' en Nueva York. © Chenyu Guan")
+![Comida callejera en Nueva York](etheria-images/2018/07/Nueva-York-familias-perrito-caliente.jpg "Puesto típico de 'hot dogs' en Nueva York. © Chenyu Guan")
 
 ## 2\. Comer en Nueva York
 
@@ -60,7 +60,7 @@ comiendo mientras caminan. Mejor sentarse, aunque sea en una cafetería tipo **D
 (hay por todas partes), que ofrece lo básico pero tiene mesas. Y no os perdáis la _**New 
 York Cheescake**_, la tarta de queso más conocida del mundo. 
 
-![Tarta de queso en Nueva York](etheria_images/2018/07/nueva-york-familia-tarta-queso.jpg "New York Cheesecake.")
+![Tarta de queso en Nueva York](etheria-images/2018/07/nueva-york-familia-tarta-queso.jpg "New York Cheesecake.")
 
 Si estás en el Downtown, una buena opción es acercarse al centro comercial de **South 
 Street Seaport**, ubicado en un muelle del East River, con vistas al puente de Brooklyn 
@@ -89,7 +89,7 @@ Por cierto, mejor evitar el sábado por la tarde, es el momento que eligen los
 neoyorkinos, además de los turistas, para comprar, y son muchos. Es imposible transitar 
 por Times Square en este momento. 
 
-![Calle de Nueva York](etheria_images/2018/05/3-Nueva-York-noche-1024x683.jpg "Luces de Nueva York.")
+![Calle de Nueva York](etheria-images/2018/05/3-Nueva-York-noche-1024x683.jpg "Luces de Nueva York.")
 
 ## 5\. Insiste con los taxis
 
@@ -101,7 +101,7 @@ algún punto cercano. Ellos eligen, resígnate. La parte positiva es que hay tan
 alguno acabas subiendo pero, a veces y según la hora, se puede tardar un rato. Hay que 
 tener paciencia. 
 
-![Taxis de Nueva York](etheria_images/2018/07/nueva-york-taxis.jpg "Taxis en Nueva York.")
+![Taxis de Nueva York](etheria-images/2018/07/nueva-york-taxis.jpg "Taxis en Nueva York.")
 
 ## **6\. Moverse en metro**
 
@@ -110,7 +110,7 @@ cualidades que no son muy cómodas para ir con los más pequeños. Cada uno debe
 si es fundamental en su visita. Tened en cuenta que el mejor momento es el domingo, que 
 hay menos gente. En hora punta y con carrito, olvídalo. 
 
-###### ![](etheria_images/2018/05/6-Nueva-York-Metro-1024x684.jpg)
+###### ![](etheria-images/2018/05/6-Nueva-York-Metro-1024x684.jpg)
 
 ## 7\. Carrito para niños sí o sí
 
@@ -128,7 +128,7 @@ etc). Hazte con un mapa y rápidamente te ubicarás en la cuadrícula que es Man
 Puedes ayudarte con webs como la de [Civitatis](https://www.civitatis.com/es/nueva-york/?aid=10211) 
 donde también puedes contratar alguna excursión guiada. 
 
-![Calle de Nueva York.](etheria_images/2018/05/Nueva-York-edificio-Chrysler.jpg "Calle de Nueva York.")
+![Calle de Nueva York.](etheria-images/2018/05/Nueva-York-edificio-Chrysler.jpg "Calle de Nueva York.")
 
 ## 9\. Libros y guías de Nueva York para niños
 
@@ -138,7 +138,7 @@ Fivel), una buena opción son las guías y libros para niños sobre Nueva York. 
 ejemplo, ['Nueva York. Rutas divertidas'](https://amzn.to/2QxJ9c6) de Lonely Planet o ['Nueva 
 York para niños'](https://amzn.to/3bGa3pv) de Ediciones Gaesa. 
 
-![Guías de Nueva York para niños](etheria_images/2018/07/nueva-york-familias-guias-1.jpg "Guías de Nueva York para niños.")
+![Guías de Nueva York para niños](etheria-images/2018/07/nueva-york-familias-guias-1.jpg "Guías de Nueva York para niños.")
 
 ## 10\. Olvida los agobios
 

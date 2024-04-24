@@ -3,11 +3,11 @@ title: "Gana 2 noches en el hotel Riad Belle Epoque"
 date: 2019-10-17
 categories: 
   - sorteos-y-concursos
-author: 
-  - Etheriamagazine
+authors: 
+  - Etheria Magazine
 ---
 
-![](etheria_images/2019/10/Sorteo-etheria-rusticae-Riad-Belle-Epoque-patio-900x599.jpg)
+![](etheria-images/2019/10/Sorteo-etheria-rusticae-Riad-Belle-Epoque-patio-900x599.jpg)
 
 Etheria Magazine y Rusticae quiere premiar a sus lectores y usuarios invitándolos a 
 conocer el magnífico hotel Riad Belle Epoque. Para ello ha organizado un sorteo donde se 

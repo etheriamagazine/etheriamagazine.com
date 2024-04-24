@@ -1,20 +1,20 @@
 ---
 title: "Los mejores miradores de Nueva York: nuevos, de pago y gratuitos"
 date: 2020-02-24
-coverImage: etheria_images/2020/02/viaje-mujeres-nueva-york-vistas-Edge.jpg
+coverImage: etheria-images/2020/02/viaje-mujeres-nueva-york-vistas-Edge.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
   - viajes-urbanos
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Edge es uno de los mejores miradores de Nueva York y de los más nuevos, pero hay muchos otros que se deben incluir en un viaje a la Gran Manzana. Algunos han nacido para ello, y otros se encuentran en centros comerciales, restaurantes e, incluso, en un cementerio. Toma nota de los más sorprendentes, de los de pago y de los gratuitos.
 
-![Plataforma de The Edge Dusk entre los mejores miradores de nueva york](etheria_images/2020/02/viaje-mujeres-nueva-york-vistas-Edge.jpg "Plataforma de The Edge Dusk. © Related Oxford")
+![Plataforma de The Edge Dusk entre los mejores miradores de nueva york](etheria-images/2020/02/viaje-mujeres-nueva-york-vistas-Edge.jpg "Plataforma de The Edge Dusk. © Related Oxford")
 
 La Gran Manzana es un viaje “de altura” y, como tal, merece que organicemos bien nuestra 
 agenda y reservemos tiempo para observar la ciudad desde todos los ángulos con los 
@@ -37,7 +37,7 @@ Estás en Nueva York, la ciudad más cinematográfica del mundo, no te estreses.
 continuación os ofrecemos un breve listado con la información esencial de cada uno de 
 ellos, aunque ten en cuenta que hay muchos más. 
 
-![the edge vistas nueva york](etheria_images/2020/02/viaje-mujeres-nueva-york-mirador-Edge-900x523.jpg "The Edge, el nuevo mirador neoyorquino. © Related Oxford")
+![the edge vistas nueva york](etheria-images/2020/02/viaje-mujeres-nueva-york-mirador-Edge-900x523.jpg "The Edge, el nuevo mirador neoyorquino. © Related Oxford")
 
 ## Miradores de Nueva York
 
@@ -63,7 +63,7 @@ es gratuita si se reserva con una hora y día específicos, se puede hacer onlin
 no se sabe cuando se podrá acudir se puede obtener un Flexi Pass que cuesta unos 10 
 dólares. 
 
-![the vessel en hudson yards](etheria_images/2020/02/viaje-mujeres-nueva-york-Vessel-900x600.jpg "Imagen interior de The Vessel. © Getty Images")
+![the vessel en hudson yards](etheria-images/2020/02/viaje-mujeres-nueva-york-Vessel-900x600.jpg "Imagen interior de The Vessel. © Getty Images")
 
 ### Empire State Building
 
@@ -76,7 +76,7 @@ abierto el mirador de la **planta 86**, que es donde ha habido muchos rodajes a 
 del tiempo. [Precio desde 42,30 
 euros](https://www.civitatis.com/es/nueva-york/entrada-empire-state/?aid=10211). 
 
-![mirador empire state de los mejores miradores de nueva york](etheria_images/2020/02/Empire-State-Building-mirador-planta-102-900x600.jpg "Nuevo mirador de la planta 102 del Empire State. © NYC & Company")
+![mirador empire state de los mejores miradores de nueva york](etheria-images/2020/02/Empire-State-Building-mirador-planta-102-900x600.jpg "Nuevo mirador de la planta 102 del Empire State. © NYC & Company")
 
 ### Top of the Rock Observation Deck
 
@@ -89,7 +89,7 @@ Precio desde 38 dólares.
 Si vas por la noche, puedes quedarte a cenar unos pisos más abajo, en el Bar SixtyFive, 
 que también tiene unas vistas increíbles 
 
-![top of the rock nueva york](etheria_images/2020/02/viajes-mujeres-mirador-Top-of-the-Rock-900x600.jpg "Top of the Rock. © Julienne Schaer/ NYC & Company")
+![top of the rock nueva york](etheria-images/2020/02/viajes-mujeres-mirador-Top-of-the-Rock-900x600.jpg "Top of the Rock. © Julienne Schaer/ NYC & Company")
 
 ### One World Observatory
 
@@ -100,7 +100,7 @@ ofrecen visitas guiadas y cuenta con un excelente restaurante. [Precio para subi
 mirador desde 36,50 
 euros](https://www.civitatis.com/es/nueva-york/entrada-one-world/?aid=10211). 
 
-![one world observatory nueva york](etheria_images/2020/02/viaje-mujeres-nueva-york-One-World-Observatory-900x600.jpg "Panorámica desde One World Observatory. © Tagger Yancey IV/ NYC & Company")
+![one world observatory nueva york](etheria-images/2020/02/viaje-mujeres-nueva-york-One-World-Observatory-900x600.jpg "Panorámica desde One World Observatory. © Tagger Yancey IV/ NYC & Company")
 
 ## Miradores rodeados de arte en Nueva York
 
@@ -113,7 +113,7 @@ se pueden ver algunas obras de arte y una interesante arquitectura. Si comienzas
 paseo en Hudson Yards, lo primero que verás es el busto gigantesco de una mujer africana 
 de la escultora Simone Leigh y, al final, el edificio de The Whitney Museum. 
 
-![The Whitney desde Gansevoort Street High Line](etheria_images/2020/02/viajes-nueva-york-The-Whitney-Gansevoort-Street-900x648.jpg "Museo The Whitney desde Gansevoort Street, junto al High Line. © Ed Lederman")
+![The Whitney desde Gansevoort Street High Line](etheria-images/2020/02/viajes-nueva-york-The-Whitney-Gansevoort-Street-900x648.jpg "Museo The Whitney desde Gansevoort Street, junto al High Line. © Ed Lederman")
 
 ### Metropolitan Museum of Art
 
@@ -121,7 +121,7 @@ Este museo, que celebra su 150 aniversario este año, brinda desde su azotea una
 panorámicas de Central Park. Además, también podrás visitar sus renovadas British 
 Galleries en la Quinta Avenida. 
 
-![vistas desde met](etheria_images/2020/02/vistas-museo-metropolitan-nueva-york-900x601.jpg "Vistas desde el Museo Metropolitano de Nueva York (MET). © Julienne Schaer")
+![vistas desde met](etheria-images/2020/02/vistas-museo-metropolitan-nueva-york-900x601.jpg "Vistas desde el Museo Metropolitano de Nueva York (MET). © Julienne Schaer")
 
 ### New Museum de Bowery
 
@@ -139,7 +139,7 @@ Sí, también hay templos en Nueva York. De hecho, la iglesia Riverside ha acond
 su campanario, **el más alto de Norteamérica,** para que los visitantes puedan subir a 
 gozar de las vistas de la ciudad y del histórico templo de Morningside Heights. 
 
-![bares con terrazas nueva york, tomar una copa en brooklyn](etheria_images/2020/02/copas-mirador-nueva-york-Lemon-883x1024.jpg "Terraza del Lemon's, en Brooklyn. © NYC&Company")
+![bares con terrazas nueva york, tomar una copa en brooklyn](etheria-images/2020/02/copas-mirador-nueva-york-Lemon-883x1024.jpg "Terraza del Lemon's, en Brooklyn. © NYC&Company")
 
 ## Una copa por todo lo alto en Brooklyn
 
@@ -157,7 +157,7 @@ inolvidable, de esos que se se puedan recordar toda la vida, te interesan las si
 propuestas: The Roof en el Hotel Williamsburg, Summerly en The Hoxton, Lemon's en el 
 Hotel Wythe y Westlight en el William Vale. 
 
-![vistas desde staten island](etheria_images/2020/02/vistas-desde-staten-Island-900x567.jpg "Vistas desde Staten Island. © NYC&Company")
+![vistas desde staten island](etheria-images/2020/02/vistas-desde-staten-Island-900x567.jpg "Vistas desde Staten Island. © NYC&Company")
 
 ## Comprar y comer con más vistas a Nueva York
 
@@ -182,7 +182,7 @@ Dentro de Saks Fifth Avenue se encuentra L’Avenue, donde sirven una cocina fra
 alta calidad en un establecimiento decorado por Philipe Starck. Desde sus dos plantas se 
 pueden ver la catedral de San Patricio y el Rockefeller Center. 
 
-![huertos urbanos nueva york](etheria_images/2020/02/nueva-york-huertos-urbanos-900x600.jpg "Huertos urbanos en Nueva York. © NYC&Company")
+![huertos urbanos nueva york](etheria-images/2020/02/nueva-york-huertos-urbanos-900x600.jpg "Huertos urbanos en Nueva York. © NYC&Company")
 
 ## Las vistas más alternativas de Nueva York
 
@@ -196,7 +196,7 @@ octubre, a sólo 7 minutos en ferry desde el Battery Maritime Building. Aquí es
 subir a las colinas de la isla para disfrutar de las vistas, con la estatua de la 
 Libertad y Lower Manhattan de fondo. 
 
-![sunset park, miradores de nueva york](etheria_images/2020/02/vistas-cementerio-greenwood-Sunset-Park-900x600.jpg "Vistas del Lower Manhattan desde Sunset Park. © Tagger Yancey IV/ NYC & Company")
+![sunset park, miradores de nueva york](etheria-images/2020/02/vistas-cementerio-greenwood-Sunset-Park-900x600.jpg "Vistas del Lower Manhattan desde Sunset Park. © Tagger Yancey IV/ NYC & Company")
 
 Por último, la propuesta más inquietante está en Brooklyn: el cementerio de Green-Wood, 
 donde además de tumbas, se puede ver el puerto de Nueva York. Los visitantes suelen 

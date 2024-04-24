@@ -1,11 +1,11 @@
 ---
 title: "Disfruta de Aste Nagusia, la Semana Grande de Bilbao"
 date: 2019-07-29
-coverImage: etheria_images/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg
+coverImage: etheria-images/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -14,7 +14,7 @@ misión: divertirse en la Semana Grande de Bilbao. Entre el sonido de los tambor
 txistularis todo tipo de espectáculos envuelven la ría, calles y recintos, mientras las 
 konparsas avivan el carácter más popular con sus bailes y música. 
 
-![La fiesta inunda las calles durante la Semana Grande de Bilbao.](etheria_images/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg "La fiesta inunda las calles durante la Semana Grande de Bilbao.")
+![La fiesta inunda las calles durante la Semana Grande de Bilbao.](etheria-images/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg "La fiesta inunda las calles durante la Semana Grande de Bilbao.")
 
 Toda la esencia del carácter festivo de los bilbaínos la podrás compartir durante la 
 tercera semana del mes de agosto. Es el mejor momento para visitar una ciudad que se ha 
@@ -28,7 +28,7 @@ fiesta popular más bilbaína.
 
 ✅ **Apunta esta fecha: Aste Nagusia 2023, del 19 al 27 de agosto.** 
 
-![Zubizuri bridge. Bilbao, Bizkaia, Basque Country, Spain, Europe](etheria_images/2019/07/Bilbao-zubizuri-e1563523913265.jpg "Puente de Zubizuri.")
+![Zubizuri bridge. Bilbao, Bizkaia, Basque Country, Spain, Europe](etheria-images/2019/07/Bilbao-zubizuri-e1563523913265.jpg "Puente de Zubizuri.")
 
 ## Por qué acudir a la Semana Grande
 
@@ -36,7 +36,7 @@ Porque es cuando **Bilbao se viste de fiesta**. Una oportunidad para compartir a
 en sus mayores jornadas festivas. Tradición, color, sonido y diversión le confieren un 
 sabor vasco a la algarabía que invade las calles y la ría de Bilbao. 
 
-![Marijaia y otros gigantes y cabezudos](etheria_images/2019/07/bilbao-cabezudos-marijaia.jpg "Marijaia (Izq.) y otros gigantes y cabezudos (Dcha.)")
+![Marijaia y otros gigantes y cabezudos](etheria-images/2019/07/bilbao-cabezudos-marijaia.jpg "Marijaia (Izq.) y otros gigantes y cabezudos (Dcha.)")
 
 Todo comienza cuando Marijaia hace su aparición. Es un personaje de 4 metros que agrada 
 a primera vista por su aspecto de tradicional mujer vasca del mundo rural –con sus 
@@ -54,7 +54,7 @@ homenaje que, durante 2 horas, desfilará abriendo el recinto festivo donde suce
 _txosnas_ o casetas al aire libre con comida y bebida a lo largo de El Arenal por las 
 dos orillas de la ría. Las fiestas de Bilbao han comenzado: Gora Aste Nagusia! 
 
-![Desfile de gigantes y cabezudos durante la Semana Grande de Bilbao](etheria_images/2019/07/Bilbao-semana-grande-desfile-e1563520510437.jpg "Desfile por las calles.")
+![Desfile de gigantes y cabezudos durante la Semana Grande de Bilbao](etheria-images/2019/07/Bilbao-semana-grande-desfile-e1563520510437.jpg "Desfile por las calles.")
 
 Desde la tarde del sábado, cientos de actividades gratuitas de música, teatro y artes 
 escénicas de calle, junto a muestras de folklore y deportivas, y muchos fuegos 
@@ -71,7 +71,7 @@ artificiales. Es el momento en el que la ciudad luce más bella que nunca con lo
 reflejos de las mil luces sobre la ría y los vanguardistas edificios de acero y vidrio 
 que han ido transformando sus márgenes. 
 
-!["Quema de Marijaia" durante la Aste Nagusia.](etheria_images/2019/07/Bilbao-semana-grande-rio-e1563520457655.jpg ""Quema de Marijaia" durante la Aste Nagusia.")
+!["Quema de Marijaia" durante la Aste Nagusia.](etheria-images/2019/07/Bilbao-semana-grande-rio-e1563520457655.jpg ""Quema de Marijaia" durante la Aste Nagusia.")
 
 ## ¿Dónde ir durante la Semana Grande de Bilbao?
 
@@ -87,7 +87,7 @@ actuaciones musicales donde todo el mundo tiene la oportunidad de disfrutar de l
 que más le guste o abrir sus sentidos al descubrimiento de nuevos estilos dejándose 
 impregnar por el ambiente festivo. 
 
-![Guggenheim Museum Bilbao. Museum of modern and contemporary art designed by Canadian-American architect Frank Gehry. Nervion river, Bilbao, Bizkaia, Basque Country, Spain, Europe](etheria_images/2019/07/Bilbao-semana-grande-guggenheim.jpg "Museo Guggenheim.")
+![Guggenheim Museum Bilbao. Museum of modern and contemporary art designed by Canadian-American architect Frank Gehry. Nervion river, Bilbao, Bizkaia, Basque Country, Spain, Europe](etheria-images/2019/07/Bilbao-semana-grande-guggenheim.jpg "Museo Guggenheim.")
 
 > El mayor escenario de la Semana Grande de Bilbao es la calle. Allí todos encuentran un 
 > espectáculo de su agrado, ya sea de magia, payasos, acrobacias, humor o música. 
@@ -102,7 +102,7 @@ estar bien atentos, ya que se reparten por la plaza del Gas, la pérgola de Doñ
 y el el Txikigune (en el mismo parque, para las actividades destinadas a los más 
 pequeños), entre otros espacios urbanos. 
 
-![Toro de fuego durante la Aste Nagusia.](etheria_images/2019/07/Bilbao-semana-grande-toro-fuego-e1563523643834.jpg "Toro de fuego durante la Aste Nagusia.")
+![Toro de fuego durante la Aste Nagusia.](etheria-images/2019/07/Bilbao-semana-grande-toro-fuego-e1563523643834.jpg "Toro de fuego durante la Aste Nagusia.")
 
 ## Cuándo se celebra la Semana Grande de Bilbao
 
@@ -125,14 +125,14 @@ Los acompañan los cabezudos: el león del Athletic, Don Celes, el aldeano, el d
 los monaguillos –la única representación religiosa de tan singular desfile-, las 
 toqueras y el hombre. Cada día realizan un itinerario diferente. 
 
-![Gargantúa es la atracción favorita de los niños.](etheria_images/2019/07/Bilbao-semana-grande-fiesta-ninos-e1563523572536.jpg "Gargantúa es la atracción favorita de los niños.")
+![Gargantúa es la atracción favorita de los niños.](etheria-images/2019/07/Bilbao-semana-grande-fiesta-ninos-e1563523572536.jpg "Gargantúa es la atracción favorita de los niños.")
 
 Los más pequeños no pueden pasar las fiestas de Bilbao sin buscar a **Gargantúa**, un 
 personaje vestido al estilo francés que suele tragarse a los niños por la boca antes de 
 descender por el tobogán. Por su altura, los niños deben superar el reto de descender 
 solos sin asistencia de un adulto. 
 
-![Traineras de Bilbao.](etheria_images/2019/07/Bilbao-semana-grande-remeros-e1563523853514.jpg "Traineras de Bilbao.")
+![Traineras de Bilbao.](etheria-images/2019/07/Bilbao-semana-grande-remeros-e1563523853514.jpg "Traineras de Bilbao.")
 
 ## Prepara tu viaje a Bilbao
 

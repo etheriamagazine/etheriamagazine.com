@@ -1,20 +1,20 @@
 ---
 title: "Dubái con niños: 8 actividades para disfrutar en familia y una novedad"
 date: 2022-02-25
-coverImage: etheria_images/2022/02/Dubai-museo-del-futuro.jpg
+coverImage: etheria-images/2022/02/Dubai-museo-del-futuro.jpg
 categories: 
   - viaje-en-familia
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 En Dubái todo es lo más. Lo más alto, lo más grande, lo más moderno… Un espectáculo constante, perfecto para disfrutar en familia gracias a las casi infinitas opciones de ocio que ofrece. Hemos seleccionado 8 que no os podéis perder en vuestro próximo viaje a Dubái con niños y os contamos la última novedad de la ciudad: el Museo del Futuro.
 
-![Vista de las islas de la Palmera desde el helicóptero.](etheria_images/2022/02/Dubai-palmera-helicoptero.jpg "Vista de las islas de la Palmera desde el helicóptero. © SG")
+![Vista de las islas de la Palmera desde el helicóptero.](etheria-images/2022/02/Dubai-palmera-helicoptero.jpg "Vista de las islas de la Palmera desde el helicóptero. © SG")
 
 Dubái es una ciudad disfrutona, de esas en las que nunca son suficientes los días para 
 abarcar todo lo que ofrece. Reina del ocio de los Emiratos Árabes, la capacidad que 
@@ -41,7 +41,7 @@ reservar una de las cabinas para vosotros solos. Los 38 minutos que se tarda en 
 vuelta os darán para contemplar las vistas y haceros muchas fotos con los rascacielos de 
 Dubái de fondo, y os podréis mover libremente por la cabina. 
 
-![](etheria_images/2022/02/dubai-noria-ain.jpg "Cabina de la noria Ain Dubai. © Susana García")
+![](etheria-images/2022/02/dubai-noria-ain.jpg "Cabina de la noria Ain Dubai. © Susana García")
 
 El precio por persona es de 130 AED y existen unos pases familiares por 370 AED (para 2 
 adultos y 2 niños entre 3 y 12 años). Si reserváis la cabina para un grupo de hasta 20 
@@ -58,7 +58,7 @@ es ver desde el cielo las islas artificiales que forman **The Palm** para compre
 grandiosidad de este proyecto, que parece un poco marciano y que hoy está ocupado por 
 residencias de lujo, espacios para el ocio y hoteles. 
 
-![Inicio del vuelo en helicóptero con Helidubai.](etheria_images/2022/02/Dubai-vuelo-helidubai.jpg "Inicio del vuelo en helicóptero con © Helidubai.")
+![Inicio del vuelo en helicóptero con Helidubai.](etheria-images/2022/02/Dubai-vuelo-helidubai.jpg "Inicio del vuelo en helicóptero con © Helidubai.")
 
 Podéis reservar esta experiencia en HeliDubai, que comienza desde la misma llegada al 
 helipuerto con las explicaciones de seguridad, el peso de los pasajeros para equilibrar 
@@ -78,7 +78,7 @@ flotadores y actividades en el agua. Además, cuenta con una agradable y tranqui
 perfecta para los más pequeños, que mira a los edificios de la Palmera y que os ofrecerá 
 ratos de descanso en sus tumbonas entre tobogán y tobogán. 
 
-![Aquaventura, con el hotel Atlantis al fondo.](etheria_images/2022/02/Dubai-Aquaventure.jpg "Aquaventura, con el hotel Atlantis al fondo. © Turismo de Dubái")
+![Aquaventura, con el hotel Atlantis al fondo.](etheria-images/2022/02/Dubai-Aquaventure.jpg "Aquaventura, con el hotel Atlantis al fondo. © Turismo de Dubái")
 
 En el parque encontraréis todo lo necesario para disfrutar del día sin complicaciones 
 (taquillas, zonas con restaurantes, etc), e incluso podréis reservar unas cabañas con 
@@ -100,7 +100,7 @@ desde tu hotel, donde un **vehículo 4x4** irá a recogerte y te llevará a disf
 adrenalina de recorrer las dunas con el coche. También podrás pasear por ellas, 
 deslizarte en tablas de _snowboard_ y hacerte unas fotos preciosas al atardecer. 
 
-![Snowboard sobre la arena del desierto.](etheria_images/2022/02/Dubai-dunas-board.jpg "Snowboard sobre la arena del desierto. © SG")
+![Snowboard sobre la arena del desierto.](etheria-images/2022/02/Dubai-dunas-board.jpg "Snowboard sobre la arena del desierto. © SG")
 
 Después, la experiencia se completa con una cena de gastronomía típica dubaití en un 
 campamento del desierto. Aquí, además de la cena, la música y el baile de los 
@@ -118,7 +118,7 @@ Cuando se viaja con niños viene muy bien romper la rutina de las excursiones co
 jornadas lúdicas donde sólo haya tiempo para jugar y descansar. Una buena opción en 
 Dubái es dedicar un día a la playa. 
 
-![Kite Beach.](etheria_images/2022/02/Dubai-Playa-Kite.jpg "Kite Beach. © Turismo de Dubái")
+![Kite Beach.](etheria-images/2022/02/Dubai-Playa-Kite.jpg "Kite Beach. © Turismo de Dubái")
 
 Muchas son privadas de los hoteles pero se puede acudir a playas como [Kite 
 Beach](https://www.kitebeach.ae/en/), en la zona de Jumeirah, donde además de la arena y 
@@ -134,7 +134,7 @@ Subir al [Burj Khalifa](https://www.burjkhalifa.ae/en/), la torre más alta del 
 recepción, en Dubai Mall, empieza la experiencia y, antes de subir al ascensor, veréis 
 carteles explicativos de la construcción y una maqueta de este impresionante edificio. 
 
-![Burj Khalifa, el edificio más alto del mundo.](etheria_images/2022/02/Dubai-the-burj-khalifa-683x1024.jpg "Burj Khalifa, el edificio más alto del mundo.")
+![Burj Khalifa, el edificio más alto del mundo.](etheria-images/2022/02/Dubai-the-burj-khalifa-683x1024.jpg "Burj Khalifa, el edificio más alto del mundo.")
 
 Existen tres tipos de entrada: la que sube hasta la planta 125, a 456 metros (desde 159 
 AED); la **Burj Khalifa Sky**, que te lleva hasta la plata 154, con una terraza exterior 
@@ -159,7 +159,7 @@ Alberga miles de especies marinas en un entorno espectacular, en el que toman
 protagonismo las rayas y los tiburones, sobre todo cuando cruzas por el túnel 
 transparente que atraviesa el acuario. Puedes reservar las entradas con [Tiqets](https://tidd.ly/3t3D5au). 
 
-![Acuario del Dubai Mall.](etheria_images/2022/02/Dubai-Acuario-Zoológico-Subacuático.jpg "Acuario del Dubai Mall. © Turismo de Dubái")
+![Acuario del Dubai Mall.](etheria-images/2022/02/Dubai-Acuario-Zoológico-Subacuático.jpg "Acuario del Dubai Mall. © Turismo de Dubái")
 
 También en Dubai Mall está [KidZania](https://uae.kidzania.com/en-ae/), una miniciudad 
 donde los niños pueden elegir el oficio que quieran, desde pilotos o médicos a bomberos 
@@ -178,7 +178,7 @@ puedes perderte en tu viaje con niños a Dubái. Se encuentran situadas en el ex
 Dubai Mall y del Burj Khalifa, por lo que a este espectáculo le acompaña la cambiante 
 iluminación del edificio más alto de la ciudad. 
 
-![Las fuentes de Dubái desde el restaurante del Armani Hotel.](etheria_images/2022/02/dubai-fuentes-armani.jpg "Las fuentes de Dubái desde el restaurante del Armani Hotel. © SG")
+![Las fuentes de Dubái desde el restaurante del Armani Hotel.](etheria-images/2022/02/dubai-fuentes-armani.jpg "Las fuentes de Dubái desde el restaurante del Armani Hotel. © SG")
 
 Podrás pasear a su alrededor, cruzar el puente de casi trescientos metros que atraviesa 
 estas fuentes y bailar al ritmo de canciones de todo tipo, con autores desde Michael 
@@ -201,7 +201,7 @@ arquitectónica pretende convertirse en el mayor laboratorio universal del conoc
 Con una apuesta clara por la ciencia y la tecnología, se va convertir en un laboratorio 
 vivo donde puedan convivir y colaborar los principales científicos del mundo. 
 
-![Museo del Futuro.](etheria_images/2022/02/Dubai-museo-del-futuro.jpg "Museo del Futuro. © Turismo de Dubái")
+![Museo del Futuro.](etheria-images/2022/02/Dubai-museo-del-futuro.jpg "Museo del Futuro. © Turismo de Dubái")
 
 A través de la realidad virtual y la inteligencia artificial, el museo llevará a sus 
 visitantes hasta 2071, fecha del primer centenario de la creación de Emiratos Árabes 

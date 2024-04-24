@@ -1,18 +1,18 @@
 ---
 title: "Ruta del 'Ulises' de James Joyce en Dublín para celebrar su centenario"
 date: 2021-06-16
-coverImage: etheria_images/2021/06/bloomsday-ulises-farmacia-Sweny.jpg
+coverImage: etheria-images/2021/06/bloomsday-ulises-farmacia-Sweny.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La Literatura y los personajes de ficción llegan a estar tan integrados en Dublín que incluso se les rinde tributo. Este año 2022 se cumple el centenario de la publicación de ‘Ulises’ de James Joyce y se organizarán numerosos eventos entre el 2 de febrero y el 16 de junio. Aunque, si no puedes ir entre esas fechas, cualquier momento es bueno para realizar la "Ruta de Ulises" en la capital irlandesa.
 
-![Bloomsday dublin](etheria_images/2021/06/dublin-ruta-ulises-disfraz-Bloomsday.jpg "El Bloomsday, uno de los días más divertidos del año en Dublín. © Turismo de Irlanda")
+![Bloomsday dublin](etheria-images/2021/06/dublin-ruta-ulises-disfraz-Bloomsday.jpg "El Bloomsday, uno de los días más divertidos del año en Dublín. © Turismo de Irlanda")
 
 ```
 Actualizado 2 febrero 2022
@@ -51,7 +51,7 @@ junio el 28º Simposio Internacional James Joyce).
 ? En la plataforma [Ulysses 100](https://ulysses100.ie/) se compartirá información sobre 
 todos los eventos internacionales del centenario (presencial y online) 
 
-![Museo de la Literatura de Irlanda o MoLI](etheria_images/2021/06/museo-literatura-dublin-ruta-ulises.jpg "Museo de la Literatura de Irlanda o MoLI. © T. Irlanda")
+![Museo de la Literatura de Irlanda o MoLI](etheria-images/2021/06/museo-literatura-dublin-ruta-ulises.jpg "Museo de la Literatura de Irlanda o MoLI. © T. Irlanda")
 
 ## Bloomsday, la cita anual de Dublín
 
@@ -69,7 +69,7 @@ Uno de los complementos obligatorios es un sombrero de canotier de paja. Y tiene
 amantes de Joyce declamando en cada esquina, entretenidas charlas sobre la obra, 
 exposiciones, conciertos y cabarets que rinden homenaje a la universal obra ‘Ulises’. 
 
-![Bloomsday dublin](etheria_images/2021/06/fiesta-Bloomsday-Dublin.jpg "La fiesta inunda Dublín durante el Bloomsday. © T. Irlanda")
+![Bloomsday dublin](etheria-images/2021/06/fiesta-Bloomsday-Dublin.jpg "La fiesta inunda Dublín durante el Bloomsday. © T. Irlanda")
 
 ## ¿Qué tiene ‘Ulises’ de especial?
 
@@ -94,7 +94,7 @@ esperar a 1934 para que saliese la primera edición de ‘Ulises’. Aún con ta
 contratiempos, esta obra es considerada la más importante del siglo XX en lengua 
 inglesa. 
 
-![desayuno James Joyce Cultural Centre de Dublín](etheria_images/2021/06/dublin-Bloomsday-breakfast.jpg "Desayuna riñones en el James Joyce Cultural Centre de Dublín. © T. Irlanda")
+![desayuno James Joyce Cultural Centre de Dublín](etheria-images/2021/06/dublin-Bloomsday-breakfast.jpg "Desayuna riñones en el James Joyce Cultural Centre de Dublín. © T. Irlanda")
 
 ### Ruta del Ulises de James Joyce en Dublín
 
@@ -114,7 +114,7 @@ Leopold Bloom en la novela desayunó unos “ricos” riñones de cerdo frito, y
 Bloomsday también se ofrecen allí. Este año, además, se retransmitirá el evento por 
 Youtube. 
 
-![James Joyce Cultural Centre](etheria_images/2021/06/dublin-James-joyce.jpg "James Joyce Cultural Centre. © Tourism Ireland")
+![James Joyce Cultural Centre](etheria-images/2021/06/dublin-James-joyce.jpg "James Joyce Cultural Centre. © Tourism Ireland")
 
 ### 2\. Iglesia de St. George
 
@@ -123,7 +123,7 @@ melodía que Leopold Bloom interpretaba en el libro como un “dingdón, dingdó
 ‘Ulises’ menciona: “El sonido del repiqueteo de las horas nocturnas por el carillón de 
 la iglesia de Saint George”. 
 
-![Cementerio de Glasnevin](etheria_images/2021/06/Glasnevin-Cemetery-Dublin-900x600.jpg "Cementerio de Glasnevin, en Dublín. © Turismo de Irlanda")
+![Cementerio de Glasnevin](etheria-images/2021/06/Glasnevin-Cemetery-Dublin-900x600.jpg "Cementerio de Glasnevin, en Dublín. © Turismo de Irlanda")
 
 ### 3\. Cementerio de Glasnevin
 
@@ -140,7 +140,7 @@ este fue el escenario del capítulo _Circe_ en ‘Ulises’. Nos lo cuenta así:
 al barrio nocturno por Mabbot Street, ante la cual se extiende un apartadero de tranvía 
 sin empedrar con vías esqueléticas, candelillas rojas y verdes, y señales de peligro”. 
 
-![Farmacia Sweny ruta de ulises en dublin](etheria_images/2021/06/bloomsday-ulises-farmacia-Sweny.jpg "Farmacia Sweny de la Ruta de Ulises en Dublín. © T. Irlanda")
+![Farmacia Sweny ruta de ulises en dublin](etheria-images/2021/06/bloomsday-ulises-farmacia-Sweny.jpg "Farmacia Sweny de la Ruta de Ulises en Dublín. © T. Irlanda")
 
 ### 5\. Farmacia Sweny
 
@@ -156,7 +156,7 @@ En este [pub](https://www.facebook.com/davybyrnes/) se detuvo Bloom para comer, 
 un **sandwich de queso gorgonzola y un vaso de vino de Borgoña**. Te animamos a que tú 
 también aproveches para recuperar fuerzas antes de seguir la Ruta de Ulises en Dublín. 
 
-![disfraz bloomsday dublin](etheria_images/2021/06/dublin-fiesta-Bloomsday.jpg "El 16 junio es "obligado" vestir al estilo eduardiano. © T. Irlanda")
+![disfraz bloomsday dublin](etheria-images/2021/06/dublin-fiesta-Bloomsday.jpg "El 16 junio es "obligado" vestir al estilo eduardiano. © T. Irlanda")
 
 ### 7\. Kiernan’s Pub
 
@@ -172,7 +172,7 @@ los personajes, camina por esta playa por la mañana. Por la tarde es el mismo L
 Bloom quien admira los fuegos artificiales desde Mirus Bazaar junto a Gertie McDowell. 
 Lo cuenta así: “¿Acaso voy andando hacia la eternidad por la playa de Sandymount?”. 
 
-![Sandycove Coast ruta de ulises en dublin](etheria_images/2021/06/Sandycove-Coast-Dublin.jpg "Sandycove Coast, en Dublín. © T. Irlanda")
+![Sandycove Coast ruta de ulises en dublin](etheria-images/2021/06/Sandycove-Coast-Dublin.jpg "Sandycove Coast, en Dublín. © T. Irlanda")
 
 ### 9\. Torre de Sandycove
 
@@ -188,7 +188,7 @@ Llegamos casi al final de la Ruta de Ulises en Dublín con Stephen Dedalus, que 
 libro es profesor de una escuela para niños, la de Mr. Deasy, situada en Dalkey 
 (Summerfield, Dalkey Avenue). 
 
-![Museo de Literatura ruta de ulises en Dublin](etheria_images/2021/06/dublin-museo-literatura.jpg "© Museo MoLI, Museo de Literatura de Dublín. © T. Irlanda")
+![Museo de Literatura ruta de ulises en Dublin](etheria-images/2021/06/dublin-museo-literatura.jpg "© Museo MoLI, Museo de Literatura de Dublín. © T. Irlanda")
 
 ### 11\. Museo MoLI y la primera copia de Ulises
 

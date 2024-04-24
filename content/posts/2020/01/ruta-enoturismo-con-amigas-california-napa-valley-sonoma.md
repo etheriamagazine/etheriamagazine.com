@@ -1,12 +1,12 @@
 ---
 title: "California Dreams, una ruta entre viñedos"
 date: 2020-01-06
-coverImage: etheria_images/2019/12/bodegas-california-Francis-Ford-Coppola-Winery.jpg
+coverImage: etheria-images/2019/12/bodegas-california-Francis-Ford-Coppola-Winery.jpg
 categories: 
   - viajes-con-amigas
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -15,7 +15,7 @@ Y sus vinos están entre los mejores del mundo. Hemos visitado algunas de las bo
 emblemáticas para descubrir los secretos del llamado ‘wine country’. Además, hemos 
 encontrado una auténtica Mujer Etheria: Marimar Torres, emprendedora y entusiasta. 
 
-![Marimar Torres, al frente de la Casa Torres en California.](etheria_images/2019/12/Marimar-Torres-bodega-california-900x641.jpg "Marimar Torres, al frente de la Casa Torres en California. © P. Grifol")
+![Marimar Torres, al frente de la Casa Torres en California.](etheria-images/2019/12/Marimar-Torres-bodega-california-900x641.jpg "Marimar Torres, al frente de la Casa Torres en California. © P. Grifol")
 
 Hasta la llamada **Cata de París**, la histórica degustación que revolucionó el mundo de 
 la enología en 1976, existían dos tipos de vinos en el mundo: los franceses y el resto. 
@@ -35,7 +35,7 @@ Los nuevos viticultores americanos volvieron la mirada a Francia y siguieron los
 consejos de los expertos: las uvas se cosecharon antes, se redujo el nivel alcohólico y 
 los _wine makers_ cuidaron más el envejecimiento en las barricas de roble. 
 
-![Viñedos de California.](etheria_images/2019/12/ruta-vinos-california-900x560.jpg "Viñedos de California. ©P.Grifol")
+![Viñedos de California.](etheria-images/2019/12/ruta-vinos-california-900x560.jpg "Viñedos de California. ©P.Grifol")
 
 Así, la cultura enológica norteamericana, tal y como la conocemos hoy en día, no tiene 
 más de cuarenta años. Pasado ya ese período ‘de prueba’, ahora va todo muy deprisa y a 
@@ -44,7 +44,7 @@ inoxidable. Es la imagen que, al menos, ha difundido la televisión y el cine (d
 serie televisiva _Falcon Crest_ hasta la película _Entre Copas_). Y es una imagen 
 bastante aproximada a la realidad. 
 
-![Enoturismo en California.](etheria_images/2019/12/bodegas-california-Francis-Ford-Coppola-Winery-900x631.jpg "Enoturismo en California. © Pedro Grifol")
+![Enoturismo en California.](etheria-images/2019/12/bodegas-california-Francis-Ford-Coppola-Winery-900x631.jpg "Enoturismo en California. © Pedro Grifol")
 
 ## La Costa Dorada de California
 
@@ -60,14 +60,14 @@ laderas de sus valles, las viñas crecen con esfuerzo pero proporcionan una madu
 más concentrada; al Pinot Noir (por ejemplo) le encantan estos suelos calcáreos 
 provenientes de fondos marinos. 
 
-![El Tren del vino es una forma segura de visitar las bodegas en Napa Valley.](etheria_images/2019/12/tren-vino-napa-valley-900x485.jpg "El Tren del vino es una forma segura de visitar las bodegas en Napa Valley. © P. Grifol")
+![El Tren del vino es una forma segura de visitar las bodegas en Napa Valley.](etheria-images/2019/12/tren-vino-napa-valley-900x485.jpg "El Tren del vino es una forma segura de visitar las bodegas en Napa Valley. © P. Grifol")
 
 Las variedades de uvas más populares en ambas áreas son Chardonnay, Sauvignon Blanc, 
 Cabernet Sauvignon, Merlot y Pinot Noir; pero la versátil Zinfandel, en teoría de origen 
 italo-croata, es la llamada “uva de California” por su fácil aclimatamiento a cualquier 
 tipo de suelo, y es la que ha dado lugar a más tipos de vino. 
 
-![Entrada a la bodega de Francis Ford Coppola.](etheria_images/2019/12/vinos-california-Francis-Ford-Coppola-Winery-2.jpg "Entrada a la bodega de Francis Ford Coppola. © P.Grifol")
+![Entrada a la bodega de Francis Ford Coppola.](etheria-images/2019/12/vinos-california-Francis-Ford-Coppola-Winery-2.jpg "Entrada a la bodega de Francis Ford Coppola. © P.Grifol")
 
 ## Francis Ford Coppola Winery, una bodega de cine
 
@@ -78,7 +78,7 @@ que atrae a cientos de viticultores y por ende, a miles de entusiastas del vino 
 quieren probar in situ los caldos del lugar. Así que el turismo enológico está muy 
 extendido en la región. 
 
-![Francis Ford Coppola Winery.](etheria_images/2019/12/Francis-Ford-Coppola-Winery-900x613.jpg "Francis Ford Coppola Winery. © P. Grifol")
+![Francis Ford Coppola Winery.](etheria-images/2019/12/Francis-Ford-Coppola-Winery-900x613.jpg "Francis Ford Coppola Winery. © P. Grifol")
 
 Allí se encuentra la bodega de un rey del cine, que también extiende su reinado al mundo 
 de los vinos: **Francis Ford Coppola Winery**. Francis Coppola está ligado al vino desde 
@@ -92,7 +92,7 @@ En el vecino Napa Valley, el rey del vino es **Robert Mondavi**, a quien se le a
 el honor de ser el pionero del vino de calidad californiano. Su cabernet ‘Opus One’ es 
 uno de los mejores -y más caros- del mundo. 
 
-![Richard Kasmier, propietario de KAZ Winery.](etheria_images/2019/12/california-enoturismo-richard-Kasmier-KAZ-Winery-900x598.jpg "Richard Kasmier, propietario de KAZ Winery. © P.Grifol")
+![Richard Kasmier, propietario de KAZ Winery.](etheria-images/2019/12/california-enoturismo-richard-Kasmier-KAZ-Winery-900x598.jpg "Richard Kasmier, propietario de KAZ Winery. © P.Grifol")
 
 ## Una master class de vinos en California
 
@@ -105,7 +105,7 @@ como Alicante Bouchet y la Lenoir, entre otras. Con su vino ‘Bullseye’ (100%
 Sirah) dio en la diana. Sus etiquetas inspiradas en fotografías _vintage_ son un 
 atractivo añadido. 
 
-![Bruce Patch, propietario de Wine Guerrilla.](etheria_images/2019/12/california-enoturismo-Bruce-Patch-Wine-Guerrilla-900x663.jpg "Bruce Patch, propietario de Wine Guerrilla. © P. Grifol")
+![Bruce Patch, propietario de Wine Guerrilla.](etheria-images/2019/12/california-enoturismo-Bruce-Patch-Wine-Guerrilla-900x663.jpg "Bruce Patch, propietario de Wine Guerrilla. © P. Grifol")
 
 El tema etiquetas creativas tiene su cénit en las del productor **Wine Guerrilla**, 
 todas dibujadas por el artista Sean Colgin; y en cuanto al vino, Bruce Patch, 
@@ -117,7 +117,7 @@ es el arte y el alma de esta variedad.
 **Hanna Winery & Vineyards** está situada junto a unas colinas salpicadas de robles, un 
 paisaje idílico para contemplar con una copa de Merlot en la mano. 
 
-![Hanna Winery.](etheria_images/2019/12/vinos-california-Hanna-Winery-900x434.jpg "Hanna Winery. © P.Grifol")
+![Hanna Winery.](etheria-images/2019/12/vinos-california-Hanna-Winery-900x434.jpg "Hanna Winery. © P.Grifol")
 
 Otra bodega interesante para visitar es **Benziger Family Winery**. Resulta ideal como 
 primera parada para novatos, ya que el recorrido en una vagoneta por entre sus viñedos 
@@ -128,7 +128,7 @@ bodegas**. Es ardua tarea para abarcar de un solo trago y visitar muchas bodegas
 pocos días… son muchos sorbos. Poco a poco -y con vino- en otra ocasión se andará otro 
 camino. 
 
-![Bezinger Family Winwery.](etheria_images/2019/12/vinos-california-Bezinger-Family-Winery-900x680.jpg "Bezinger Family Winwery. © P.Grifol")
+![Bezinger Family Winwery.](etheria-images/2019/12/vinos-california-Bezinger-Family-Winery-900x680.jpg "Bezinger Family Winwery. © P.Grifol")
 
 Viajando, obviamente, se aprende mucho; pero viajando por entre las bodegas 
 californianas se aprende además una praxis de comportamiento que es un ejemplo 
@@ -145,7 +145,7 @@ y entusiasta, convenció a Don Miguel para invertir en unos terreros que ella mi
 elegido. Plantó su propio viñedo, **Marimar Estate Vinegards**, en Russian River Valley, 
 allá por 1986. 
 
-![Marimar Torres.](etheria_images/2019/12/california-bodegas-Marimar-Torres.jpg "Marimar Torres. © P.Grifol")
+![Marimar Torres.](etheria-images/2019/12/california-bodegas-Marimar-Torres.jpg "Marimar Torres. © P.Grifol")
 
 Su primer Chardonnay salió al mercado en 1989. En 2010 consigue, con una de las uvas 
 emblemáticas de Galicia, la Albariño, un vino excepcional. “Es el mejor albariño del 
@@ -163,7 +163,7 @@ llevarán a las **bodegas de Russian Valley, Sonoma y Napa Valley**.
 ? No te pierdas este artículo sobre las [visitas esenciales en San 
 Francisco](http://etheriamagazine.com/2018/07/12/10-visitas-imprescindibles-en-san-francisco/). 
 
-![mapa napa valley](etheria_images/2019/12/mapa-california-Napa-Valley-900x461.jpg "Mapa de la zona enoturística. @P.Grifol")
+![mapa napa valley](etheria-images/2019/12/mapa-california-Napa-Valley-900x461.jpg "Mapa de la zona enoturística. @P.Grifol")
 
 **¿Cómo preparar el itinerario?** 
 

@@ -1,19 +1,19 @@
 ---
 title: "Sierra de Aracena y Jabugo, una escapada 100% bellota"
 date: 2019-06-27
-coverImage: etheria_images/2019/06/gruta-maravillas-aracena.jpg
+coverImage: etheria-images/2019/06/gruta-maravillas-aracena.jpg
 categories: 
   - viajes-48-horas
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Cristina
+authors: 
+  - Cristina R. Bareño
 ---
 
 Entre encinas y alcornoques, por las dehesas del suroeste peninsular, campan a sus anchas los cerdos ibéricos, una raza autóctona y única de la que se obtiene uno de los mejores jamones del mundo. Te proponemos una escapada a la sierra de Aracena y a Jabugo para conocer los secretos del jamón de Huelva.
 
-![jamon cinco jotas, ruta del jabugo en aracena](etheria_images/2019/06/viaje-huelva-aracena-Cinco-Jotas-Bodega.jpg "© Jamón Cinco Jotas.")
+![jamon cinco jotas, ruta del jabugo en aracena](etheria-images/2019/06/viaje-huelva-aracena-Cinco-Jotas-Bodega.jpg "© Jamón Cinco Jotas.")
 
 Hablar de **Jabugo** y no pensar en un irresistible plato de jamón ibérico 100% bellota 
 es muy difícil, pero hoy vamos a descubrir Jabugo como localidad, un municipio de Huelva 
@@ -21,7 +21,7 @@ famoso, por supuesto, por el producto tan exclusivo que aquí elaboran, pero enc
 también por su entorno, sus gentes y los planes de desconexión que nos ofrece en 
 contacto directo con la naturaleza. 
 
-![sierra aracena ruta del jamon](etheria_images/2019/06/sierra-aracena.jpg "Sierra de Aracena. © Turismo Andaluz")
+![sierra aracena ruta del jamon](etheria-images/2019/06/sierra-aracena.jpg "Sierra de Aracena. © Turismo Andaluz")
 
 ## La sierra de Aracena
 
@@ -34,7 +34,7 @@ ibéricos puedan campar a sus anchas y conseguir así el jamón ibérico 100% be
 visita que te resultará de interés es al Museo del Jamón o [Centro de Interpretación del 
 Cerdo Ibérico](http://www.aracena.es/es/municipio/museo/) situado en Aracena. 
 
-![museo del jamon aracena huelva](etheria_images/2019/06/museo-jamon-aracena.jpg "Museo del Jamón. © Turismo Andaluz")
+![museo del jamon aracena huelva](etheria-images/2019/06/museo-jamon-aracena.jpg "Museo del Jamón. © Turismo Andaluz")
 
 ## Qué ver en Aracena y alrededores
 
@@ -47,7 +47,7 @@ combinan con caprichosas formaciones que se suceden a lo largo de las diferentes
 y cavidades. La [gruta de las Maravillas](http://www.aracena.es/es/municipio/gruta/) 
 está abierta desde 1914. Visitas: 10 €/ adulto (descuentos para niños) 
 
-![gruta maravillas aracena](etheria_images/2019/06/gruta-maravillas-aracena.jpg "Gruta de las Maravillas, en Aracena. © Turismo Andaluz")
+![gruta maravillas aracena](etheria-images/2019/06/gruta-maravillas-aracena.jpg "Gruta de las Maravillas, en Aracena. © Turismo Andaluz")
 
 #### Castillo de Aracena
 
@@ -55,7 +55,7 @@ Esta fortaleza islámica del siglo XIII, que podemos recorrer para realizar una 
 plena en aquella época, se completa con la iglesia mudéjar de Nuestra Señora del Mayor 
 Dolor, una fiel representación del gótico tardío construida por la Orden del Temple. 
 
-![castillo de Aracena huelva](etheria_images/2019/06/castillo-aracena.jpg "Castillo de Aracena. © Turismo Andaluz")
+![castillo de Aracena huelva](etheria-images/2019/06/castillo-aracena.jpg "Castillo de Aracena. © Turismo Andaluz")
 
 ## Jabugo, una visita a las Bodegas Cinco Jotas
 
@@ -72,7 +72,7 @@ las diferentes estaciones y conociendo los aspectos más interesantes del cerdo 
 como por ejemplo que durante el periodo de montanera recorre hasta 14 kilómetros diarios 
 y necesita ingerir 12 kilos de bellota para ganar un kilo de peso. 
 
-![ruta jamon huelva, ruta aracena](etheria_images/2019/06/Cinco-Jotas-Bodega-e1560767350949.jpg "Cava de jamón. © Bodegas Cinco Jotas")
+![ruta jamon huelva, ruta aracena](etheria-images/2019/06/Cinco-Jotas-Bodega-e1560767350949.jpg "Cava de jamón. © Bodegas Cinco Jotas")
 
 Se continúa con los procesos de **curación y secado de los jamones**. Primero gracias a 
 la sal, y después al permanecer colgados en las bodegas durante meses, durante los 
@@ -84,7 +84,7 @@ que aprender un poco más sobre cada una de las piezas del jamón, así como la 
 (opcional) por la dehesa a pie o a caballo, la mejor manera de completar la inmersión en 
 este ecosistema natural inigualable. 
 
-![jamon de jabugo, ruta del jamon huelva](etheria_images/2019/06/Cinco-Jotas-Bodega-plato-jamon.jpg "Plato de jamón de Jabugo. © Bodegas Cinco Jotas")
+![jamon de jabugo, ruta del jamon huelva](etheria-images/2019/06/Cinco-Jotas-Bodega-plato-jamon.jpg "Plato de jamón de Jabugo. © Bodegas Cinco Jotas")
 
 ### Dónde alojarse en Aracena
 
@@ -102,7 +102,7 @@ gran chimenea y todo lo necesario para que la estancia sea lo más confortable y
 placentera posible. Una mezcla distintiva de encanto clásico y comodidades modernas que 
 os hará sentir como en casa. 
 
-![viaje huelva, que ver aracena, finca buenvino](etheria_images/2019/06/viaje-huelva-aracena-Finca-Buenvino.jpg "© Finca Buenvino.")
+![viaje huelva, que ver aracena, finca buenvino](etheria-images/2019/06/viaje-huelva-aracena-Finca-Buenvino.jpg "© Finca Buenvino.")
 
 #### Convento de Aracena
 
@@ -114,7 +114,7 @@ todo ello sin olvidarse del bienestar de los clientes. Cuenta con un claustro, b
 jardines en los que respirar tranquilidad, una pequeña iglesia y un espacio de _spa_ y 
 piscina en el que mimar cuerpo y mente. 
 
-![hotel convento aracena, viaje huelva, ruta del jabugo](etheria_images/2019/06/viaje-huelva-aracena-Hotel-Convento-de-Aracena.jpg "© Hotel Convento de Aracena.")
+![hotel convento aracena, viaje huelva, ruta del jabugo](etheria-images/2019/06/viaje-huelva-aracena-Hotel-Convento-de-Aracena.jpg "© Hotel Convento de Aracena.")
 
 ### Buenos restaurantes en Sierra de Aracena
 
@@ -126,7 +126,7 @@ primas autóctonas, la mayoría de ellas derivadas del cerdo ibérico de la zona
 de temporada, setas, huevos camperos, buen pan y buen vino acompañan una mesa en la que 
 disfrutar a un precio muy ajustado. 
 
-![ruta del jabugo, viaje a huelva, restaurante casas](etheria_images/2019/06/viaje-huelva-aracena-Restaurante-Casas.jpg "© Restaurante Casas.")
+![ruta del jabugo, viaje a huelva, restaurante casas](etheria-images/2019/06/viaje-huelva-aracena-Restaurante-Casas.jpg "© Restaurante Casas.")
 
 A unos 15 minutos de Aracena descubrimos el **restaurante Maricastaña**, en Castaño de 
 Robledo, con una carta de cocina sencilla y casera, elaborada con el mismo mimo que 

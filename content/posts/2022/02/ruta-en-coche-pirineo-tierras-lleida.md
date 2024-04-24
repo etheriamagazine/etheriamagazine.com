@@ -1,10 +1,10 @@
 ---
 title: "Ruta en coche por el Pirineo y las Tierras de Lleida"
 date: 2022-02-07
-coverImage: etheria_images/2022/02/Grand-Tour-de-Catalunya-lleida.jpg
+coverImage: etheria-images/2022/02/Grand-Tour-de-Catalunya-lleida.jpg
 categories: 
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -12,7 +12,7 @@ Una ruta en coche por el Pirineo y las Tierras de Lleida permite descubrir su am
 oferta cultural y de “acción”. ¿Te apetece conocer los lugares más emblemáticos del 
 noroeste catalán? Aquí encontrarás un recorrido muy completo con sus paradas detalladas. 
 
-![Coche del Grand Tour de Catalunya en Tierras de Lleida](etheria_images/2022/02/Grand-Tour-de-Catalunya-lleida.jpg "El Grand Tour de Catalunya transcurre por carreteras secundarias. © Pedro Grifol")
+![Coche del Grand Tour de Catalunya en Tierras de Lleida](etheria-images/2022/02/Grand-Tour-de-Catalunya-lleida.jpg "El Grand Tour de Catalunya transcurre por carreteras secundarias. © Pedro Grifol")
 
 La naturaleza en estado puro salpicada de pueblos con encanto y hoteles con ambiente 
 familiar donde reina la gastronomía tradicional son dos de los sellos de identidad de 
@@ -31,7 +31,7 @@ pirenaicos son, en estos tiempos de cambio climático, productos turísticos est
 Esta ruta en coche por el Pirineo y las Tierras de Lleida tiene todos los ingredientes 
 para convertirse en una escapada familiar, en pareja o con amigas. 
 
-![vista de Lleida desde el rio](etheria_images/2022/02/Lleida-panoramica.jpg "Panorámica de Lleida. ©Turismo Cataluña")
+![vista de Lleida desde el rio](etheria-images/2022/02/Lleida-panoramica.jpg "Panorámica de Lleida. ©Turismo Cataluña")
 
 ## Lleida capital
 
@@ -46,7 +46,7 @@ saqueo y ruina, ahora se encuentra ya ¡por fin! rehabilitada. Destaca el bellí
 **claustro gótico** de proporciones gigantescas, desde el que se accede al campanario 
 por una escalera de caracol. 
 
-![la seu vella catedral de lleida](etheria_images/2022/02/lleida-La-Seu-Vella-718x1024.jpg "La Seu Vella, de Lleida. © Pedro Grifol")
+![la seu vella catedral de lleida](etheria-images/2022/02/lleida-La-Seu-Vella-718x1024.jpg "La Seu Vella, de Lleida. © Pedro Grifol")
 
 Consagrada en 1287, en esta catedral se celebró la boda, de gran repercusión histórica 
 para Cataluña, entre el conde Ramón Berenguer IV de Barcelona y Petronila de Aragón, 
@@ -59,7 +59,7 @@ sí, el cura hay que llevárselo de casa.
 > Cuenta la leyenda que en un agujero de un muro de la Seu Vella se guardaba el Santo 
 > Pañal, es decir: el primer pañal del Niño Jesús... 
 
-![pasillo del claustro de la seu vella de Lleida](etheria_images/2022/02/claustro-la-seu-vella-lleida.jpg "Claustro de la Seu Vella de Lleida. © Pedro Grifol")
+![pasillo del claustro de la seu vella de Lleida](etheria-images/2022/02/claustro-la-seu-vella-lleida.jpg "Claustro de la Seu Vella de Lleida. © Pedro Grifol")
 
 ## Valle de Boí
 
@@ -71,7 +71,7 @@ XII, los señores feudales –los **Erill** (_erillcastell_)– utilizaron los r
 obtenidos de los botines de guerra para erigir el conjunto románico de este valle. Una 
 manera de mostrar su poderío y adquirir prestigio social. 
 
-![vista de la iglesia de sant climent en taull pueblo de lleida](etheria_images/2022/02/Taull-iglesia-de-Sant-Climent.jpg "Iglesia de Sant Climent, en Taüll. © Pedro Grifol")
+![vista de la iglesia de sant climent en taull pueblo de lleida](etheria-images/2022/02/Taull-iglesia-de-Sant-Climent.jpg "Iglesia de Sant Climent, en Taüll. © Pedro Grifol")
 
 ### Centro del románico de Erill la Vall
 
@@ -90,7 +90,7 @@ las siguientes: Santa Eulàlia d’Erill la Vall, Sant Joan de Boí, **St. Clime
 Taüll**, Sta. Maria de Taüll, St. Feliu de Barruera, Durro y Sta. Maria de Cardet. Todas 
 están cerca una de otra. 
 
-![pueblo de taull e iglesia de santa maria](etheria_images/2022/02/pueblo-taull-iglesia-santa-maria.jpg "Pueblo de Taüll e iglesia de Santa María, en esta misma población. © Pedro Grifol")
+![pueblo de taull e iglesia de santa maria](etheria-images/2022/02/pueblo-taull-iglesia-santa-maria.jpg "Pueblo de Taüll e iglesia de Santa María, en esta misma población. © Pedro Grifol")
 
 > La imagen del Cristo en Majestad de Taüll ha sido el icono emblemático para representar 
 > del románico catalán. 
@@ -101,7 +101,7 @@ presbiterio del ábside central a la iglesia de St. Climent de Taüll, con la fi
 mayestática del Pantocrátor presidiendo la coreografía celestial… Puede que os sintáis 
 transportados a otra dimensión. 
 
-![parque nacional aiguestortes de lleida](etheria_images/2022/02/vistas-Parque-Nacional-Aiguestortes-744x1024.jpg "Parque Nacional de Aigüestortes y Estany de St. Maurici. © Pedro Grifol")
+![parque nacional aiguestortes de lleida](etheria-images/2022/02/vistas-Parque-Nacional-Aiguestortes-744x1024.jpg "Parque Nacional de Aigüestortes y Estany de St. Maurici. © Pedro Grifol")
 
 ## Parque Nacional de Aigüestortes y Estany de St. Maurici
 
@@ -115,14 +115,14 @@ excursión está **adaptada para personas con movilidad reducida**. Si el día l
 también podéis emprender la pista que sube hasta el refugio de Estany Llong que se 
 encuentra a escasa distancia del lago para descansar de la caminata cuesta arriba. 
 
-![El parque nacional de aiguestortes de lleida forma parte de la Ruta en coche por el Pirineo y las Tierras de Lleida](etheria_images/2022/02/Parque-Nacional-Aiguestortes.jpg "Parque Nacional de Aigüestortes y Estany de St. Maurici. © Pedro Grifol")
+![El parque nacional de aiguestortes de lleida forma parte de la Ruta en coche por el Pirineo y las Tierras de Lleida](etheria-images/2022/02/Parque-Nacional-Aiguestortes.jpg "Parque Nacional de Aigüestortes y Estany de St. Maurici. © Pedro Grifol")
 
 A la vuelta aconsejamos seguir la **Ruta de la Llúdrida** (Ruta de la Nutria) que sigue 
 pegada al curso del torrente (con cascadas y pozas) que pasa por el Salt de l’Esperit. 
 En resumen: un ‘baño de bosque’ reconfortante en un entorno privilegiado en armonía con 
 los sentidos. 
 
-![viella pueblo del valle de aran en lleida](etheria_images/2022/02/Viella-Val-de-Aran-712x1024.jpg "Viella, un bonito pueblo del Val d'Aran. © Turismo Cataluña")
+![viella pueblo del valle de aran en lleida](etheria-images/2022/02/Viella-Val-de-Aran-712x1024.jpg "Viella, un bonito pueblo del Val d'Aran. © Turismo Cataluña")
 
 ## Viella y otros pueblecitos
 
@@ -138,7 +138,7 @@ una piscifactoría de esturiones, la única del mundo ubicada en un paraje natur
 aguas puras procedentes del deshielo, el ingrediente indispensable para obtener un 
 caviar de calidad excelente, como el caviar Nacari. 
 
-![NaturAran Adventure Park parque de aventuras](etheria_images/2022/02/NaturAran-Adventure-Park.jpg "NaturAran Adventure Park, un parque de aventura ideal para familias. © Pedro Grifol")
+![NaturAran Adventure Park parque de aventuras](etheria-images/2022/02/NaturAran-Adventure-Park.jpg "NaturAran Adventure Park, un parque de aventura ideal para familias. © Pedro Grifol")
 
 > Cerca de Les se encuentra el NaturAran Adventure Park que, si viajamos con niños, será 
 > parada obligada. 
@@ -149,7 +149,7 @@ podréis contemplar un bellísimo paisaje pintado con montañas rodeadas de vari
 verde y una ruidosa cascada, _Uelhs deth Joèu,_ que nace allí mismo con fuerza 
 incontenible. 
 
-![Era Artiga de Lin en el Valle de Aran](etheria_images/2022/02/Era-Artiga-de-Lin-valle-aran.jpg "Era Artiga de Lin, en Val d'Aran. © Pedro Grifol")
+![Era Artiga de Lin en el Valle de Aran](etheria-images/2022/02/Era-Artiga-de-Lin-valle-aran.jpg "Era Artiga de Lin, en Val d'Aran. © Pedro Grifol")
 
 ## De vuelta por el Pallars Sobirà
 
@@ -163,7 +163,7 @@ todos los ángulos la rica geología del Valle d’Àneu. A continuación, encon
 acceso al Parque Nacional de Aigüestortes. Conviene saber que la ruta circular al parque 
 es de unos 7 km en la que podemos emplear tres horas de caminata. 
 
-![pueblo sort de lleida](etheria_images/2022/02/pueblo-de-la-loteria-Sort.jpg "El pueblo de Sort, afamado por su administración de lotería La Bruixa d'Or. © Pedro Grifol")
+![pueblo sort de lleida](etheria-images/2022/02/pueblo-de-la-loteria-Sort.jpg "El pueblo de Sort, afamado por su administración de lotería La Bruixa d'Or. © Pedro Grifol")
 
 Siguiendo el curso del río Noguera Pallaresa llegamos a [Sort](http://sort.cat), un 
 pequeño pueblo muy visitado por españoles de cualquier comunidad porque van a comprar un 
@@ -177,7 +177,7 @@ excitantes, ya que cualquiera de las tres empresas especializadas en actividades
 acuáticas nos adiestrará en los secretos del kayak y del rafting por los rápidos del 
 río. 
 
-![en la Ruta en coche por el Pirineo y las Tierras de Lleida tambien tienen cabida el rafting en el rio noguera](etheria_images/2022/02/Rafting-en-Noguera-Pallaresa-lleida.jpg "Rafting en el río Noguera Pallaresa, en Lleida. © Turismo Cataluña")
+![en la Ruta en coche por el Pirineo y las Tierras de Lleida tambien tienen cabida el rafting en el rio noguera](etheria-images/2022/02/Rafting-en-Noguera-Pallaresa-lleida.jpg "Rafting en el río Noguera Pallaresa, en Lleida. © Turismo Cataluña")
 
 Naturalmente, después de la experiencia acuática, lo mejor es alojarse en Sort y 
 dejarnos tentar por el menú del **Hotel Pessets** que, sin lugar a duda, constituye toda 
@@ -186,7 +186,7 @@ una experiencia gastro insólita por estos parajes.
 Al día siguiente, ya solo nos queda comprar el décimo de lotería en _La Bruixa d'Or_… Y 
 pensar en cerrar el bucle viajero volviendo al punto de partida: Lleida. 
 
-![Grafiti en pueblo baro](etheria_images/2022/02/Baro-grand-tour-catalunya.jpg ""Que només els petons ens tapin la boca", grafiti en el pueblo de Baro. © Pedro Grifol")
+![Grafiti en pueblo baro](etheria-images/2022/02/Baro-grand-tour-catalunya.jpg ""Que només els petons ens tapin la boca", grafiti en el pueblo de Baro. © Pedro Grifol")
 
 ## Guía exprés de la Ruta en coche por el Pirineo y las Tierras de Lleida
 
@@ -201,7 +201,7 @@ _galtes_ (cachetes) _de porc_ al horno, coca de tomate con _formatge_ (queso) de
 o el _civet_ de jabalí. Los postres como la crema catalana o el _postre del_ _músic_ 
 (músico) cerrarán un menú tradicional. 
 
-![olla aranesa del restaurante talabart en pueblo les](etheria_images/2022/02/Olla-aranesa-restaurante-Talabart-Les.jpg "Olla aranesa, en el restaurante Talabart del pueblo de Les. © Pedro Grifol")
+![olla aranesa del restaurante talabart en pueblo les](etheria-images/2022/02/Olla-aranesa-restaurante-Talabart-Les.jpg "Olla aranesa, en el restaurante Talabart del pueblo de Les. © Pedro Grifol")
 
 También será una oportunidad para practicar la costumbre de beber vino en porrón. 
 Olvídese del plato único y no se sorprenda si en algún restaurante el menú consta de 
@@ -213,7 +213,7 @@ trampantojos como ‘_carpaccio_ de langostinos con _croutons_ y helado de tomat
 creativos postres como ‘caviar de chocolate servido sobre un helado de fruta de la 
 pasión y mango’. 
 
-![bebiendo a porron en can mariano y postre de mango y caviar en hotel pessets](etheria_images/2022/02/Can-Mariano-hotel-pessets.jpg "Bebiendo a porrón en Can Mariano y postre del hotel Pessets (Sort). © Pedro Grifol")
+![bebiendo a porron en can mariano y postre de mango y caviar en hotel pessets](etheria-images/2022/02/Can-Mariano-hotel-pessets.jpg "Bebiendo a porrón en Can Mariano y postre del hotel Pessets (Sort). © Pedro Grifol")
 
 ### Dónde comer
 

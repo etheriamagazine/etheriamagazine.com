@@ -1,14 +1,14 @@
 ---
 title: "7 neceseres para mujeres viajeras"
 date: 2019-10-10
-coverImage: etheria_images/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space.jpg
+coverImage: etheria-images/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
   - que-llevar-en-la-maleta
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Pequeños, medianos o grandes, para llevar en el bolso de mano o en la maleta, los 
@@ -16,7 +16,7 @@ neceseres de viaje son una de las piezas esenciales de nuestro equipaje y se deb
 elegir con cuidado. En Etheria magazine hemos seleccionado 7 marcas que te pueden 
 resultar muy útiles a la hora de viajar. 
 
-![neceser blanco con productos para viaje](etheria_images/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space-850x567.jpg "Es fundamental encontrar el neceser perfecto para cada tipo de viaje.")
+![neceser blanco con productos para viaje](etheria-images/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space-850x567.jpg "Es fundamental encontrar el neceser perfecto para cada tipo de viaje.")
 
 ## 1\. Pepe Jeans
 
@@ -26,7 +26,7 @@ neceser de Pepe Jeans, disponible en [Amazon](https://amzn.to/3RKahhR), que tien
 tamaño estupendo para llevar todos los productos de aseo y que se puede enganchar en el 
 tirador de la maleta. 
 
-![neceser rosa de viaje](etheria_images/2019/10/neceser-viaje-pepe-jeans-850x341.jpg "Neceser duro de Pepe Jeans disponible en Amazon.")
+![neceser rosa de viaje](etheria-images/2019/10/neceser-viaje-pepe-jeans-850x341.jpg "Neceser duro de Pepe Jeans disponible en Amazon.")
 
 ## 2\. Neceser Cosmolite de Samsonite
 
@@ -34,7 +34,7 @@ Esta reputada marca de equipaje, ofrece neceseres a juego con sus maletas de dif
 tamaños. Nos ha encantado por su capacidad el **modelo C-Lite Toilet Kit**. Está 
 disponible en los colores off-white, midnight blue y chili red. 
 
-![neceser rojo de viaje](etheria_images/2019/10/neceser-samsonite-850x562.jpg "Neceser de viaje de © Samsonite.")
+![neceser rojo de viaje](etheria-images/2019/10/neceser-samsonite-850x562.jpg "Neceser de viaje de © Samsonite.")
 
 ## 3\. Mr Wonderful
 
@@ -43,7 +43,7 @@ regalo en nuestra vida. Sus mensajes son tan optimistas que ¡cómo resistirse a
 un neceser que llevarás tan a menudo! Nos encanta este que incluye tres neceseres en uno 
 y está disponible en [Amazon](https://amzn.to/3RFoXyx). 
 
-![tres neceseres en uno](etheria_images/2019/10/51w2mi9QhtL._AC_UY695_-850x525.jpg "Neceser de viaje de Mr. Wonderful disponible en Amazon.")
+![tres neceseres en uno](etheria-images/2019/10/51w2mi9QhtL._AC_UY695_-850x525.jpg "Neceser de viaje de Mr. Wonderful disponible en Amazon.")
 
 ## 4\. Rituals, neceser y productos
 
@@ -52,7 +52,7 @@ neceser gracias a los tamaños S de sus productos que se pueden comprar en los c
 regalo. Son del tamaño perfecto para que los puedas subir a la cabina del avión contigo. 
 En la imagen, los productos Rituals of Sakura. 
 
-![tallas de viaje para neceser de Rituals](etheria_images/2019/10/neceser-productos-viaje-rituals-1.jpg "Linea Sakura de la marca © Rituals.")
+![tallas de viaje para neceser de Rituals](etheria-images/2019/10/neceser-productos-viaje-rituals-1.jpg "Linea Sakura de la marca © Rituals.")
 
 ## 5\. Para colgar de Lychii
 
@@ -61,7 +61,7 @@ colgar** y tenerlo todo a mano. Dependiendo del tamaño, incluso es práctico pa
 a las duchas de gimnasios y piscinas porque es impermeable y lo puedes colgar en una 
 percha. Este modelo es de la marca Lychii y lo puedes comprar en [Amazon](https://amzn.to/3T5rIu2). 
 
-![Neceser de viaje de gran capacidad](etheria_images/2019/10/neceser-viaje-gran-capacidad.jpg "Neceser de viaje de Lychii.")
+![Neceser de viaje de gran capacidad](etheria-images/2019/10/neceser-viaje-gran-capacidad.jpg "Neceser de viaje de Lychii.")
 
 ## 6\. Neceser con productos Caudalie
 
@@ -70,7 +70,7 @@ faciales, nos ofrece este pequeño neceser con productos esenciales de viaje y c
 garantía de calidad. Te encantarán el aroma de la línea Caudalie Summer Set Vinosource 
 Hydra, con tallas perfectas para llevar de viaje y que puedes comprar en [Amazon](https://amzn.to/3VbB35t). 
 
-![Neceser de viaje de Caudalie.](etheria_images/2019/10/neceser-caudalie.jpg "Neceser de viaje de Caudalie.")
+![Neceser de viaje de Caudalie.](etheria-images/2019/10/neceser-caudalie.jpg "Neceser de viaje de Caudalie.")
 
 ## 7\. Bolsas cilíndricas
 
@@ -80,7 +80,7 @@ los envases de los golpes que recibirán cuando los metas en la maleta. Es imper
 lavable y tiene una altura de unos 20 cm. En Amazon puedes encontrar un [pack de 2 
 bolsas GCOA](https://amzn.to/2op7XFh). Se puede elegir entre azul/rojo o rosa/verde. 
 
-![bolsas de aseo de viajes roja y azul](etheria_images/2019/10/bolsa-aseo-circular-900x568.jpg "Bolsa organizadora o neceser de viaje cilíndrico.")
+![bolsas de aseo de viajes roja y azul](etheria-images/2019/10/bolsa-aseo-circular-900x568.jpg "Bolsa organizadora o neceser de viaje cilíndrico.")
 
 ## También te puede interesar:
 

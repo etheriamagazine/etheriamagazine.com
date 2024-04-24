@@ -1,17 +1,17 @@
 ---
 title: "'Música, gastronomía y paisaje de otoño' en el Festival Música Antigua de Aranjuez"
 date: 2020-11-16
-coverImage: etheria_images/2020/11/festival-musica-antigua-aranjuez-Apotheose.jpg
+coverImage: etheria-images/2020/11/festival-musica-antigua-aranjuez-Apotheose.jpg
 categories: 
   - festivales
   - planes-cultura-ocio
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 ##### El XXVII Festival Música Antigua de Aranjuez suena este otoño en una edición adaptada a las circunstancias. Al Teatro Real Carlos III acudirán cuatro prestigiosos conjuntos nacionales en los fines de semana comprendidos entre el 22 de noviembre y el 13 de diciembre de 2020.
 
-![Concerto 1700 actua en festival de musica aranjuez](etheria_images/2020/11/festival-musica-antigua-Concerto-1700.jpg "Concerto 1700 actuará en el Festival de Aranjuez.")
+![Concerto 1700 actua en festival de musica aranjuez](etheria-images/2020/11/festival-musica-antigua-Concerto-1700.jpg "Concerto 1700 actuará en el Festival de Aranjuez.")
 
 No pudo ser en primavera como estaba programado, pero la música antigua finalmente 
 regresa a Aranjuez y sonará intensamente en otoño. La edición [XXVII del Festival Música 
@@ -30,7 +30,7 @@ los conciertos van precedidos por un “**Encuentro con los músicos**” para q
 asistentes conozcan en vivo y en directo, de boca de sus protagonistas, las 
 características del repertorio que van a escuchar y la trayectoria de los músicos. 
 
-![L Apotheose en el festival de musica de aranjuez 2020](etheria_images/2020/11/festival-musica-antigua-aranjuez-Apotheose.jpg "L'Apothèose, grupo español que participa en el Festival de Música Antigua de Aranjuez.")
+![L Apotheose en el festival de musica de aranjuez 2020](etheria-images/2020/11/festival-musica-antigua-aranjuez-Apotheose.jpg "L'Apothèose, grupo español que participa en el Festival de Música Antigua de Aranjuez.")
 
 ## Paseo en barco antes del Festival de Música Antigua de Aranjuez
 
@@ -53,7 +53,7 @@ experiencia que estará guiada, para quien lo desee, por el arquitecto Atienza, 
 explicará la historia de los célebres jardines que inspiraron precisamente la obra de 
 Herrando. 
 
-![cantoria en festival de musica antigua](etheria_images/2020/11/festival-musica-aranjuez-Cantoria.jpg "Cantoría subirá al escenario el 29 de noviembre.")
+![cantoria en festival de musica antigua](etheria-images/2020/11/festival-musica-aranjuez-Cantoria.jpg "Cantoría subirá al escenario el 29 de noviembre.")
 
 ## 'Menú Festival' en los restaurantes
 
@@ -72,7 +72,7 @@ título de “**Lenguas malas**”, ofrecerá un programa con música de Juan de
 Francisco Guerrero o Bartomeu Cáceres en el que se explorará el carácter teatral de la 
 música y su vinculación a textos literarios. 
 
-![andres alberto gomez en festival de aranjuez](etheria_images/2020/11/festival-musica-antigua-Andres-Alberto-Gomez.jpg "Andrés Alberto Gómez, fundador del grupo La Reverencia. © Palo Fernández Juárez")
+![andres alberto gomez en festival de aranjuez](etheria-images/2020/11/festival-musica-antigua-Andres-Alberto-Gomez.jpg "Andrés Alberto Gómez, fundador del grupo La Reverencia. © Palo Fernández Juárez")
 
 ## Scarlatti y Bárbara de Braganza
 
@@ -93,7 +93,7 @@ apreciados del siglo XVIII, que rivalizó en fama con Haydn. Todo un banquete mu
 para cerrar una edición que pronto alcanzará los 30 años de visa y que da fe de la buena 
 salud de la música antigua en España. 
 
-![palacio real de aranjuez](etheria_images/2020/11/palacio-real-aranjuez.jpg "El Palacio Real de Aranjuez es el principal foco turístico de la ciudad.")
+![palacio real de aranjuez](etheria-images/2020/11/palacio-real-aranjuez.jpg "El Palacio Real de Aranjuez es el principal foco turístico de la ciudad.")
 
 Conseguir una entrada para el Festival de Música Antigua de Aranjuez es todo un 
 privilegio y si, además, aprovechas la estancia en la localidad para ver todos sus 

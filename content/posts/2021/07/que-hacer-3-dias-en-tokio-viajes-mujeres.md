@@ -1,19 +1,19 @@
 ---
 title: "Descubre la magia de Tokio en sólo tres días"
 date: 2021-07-28
-coverImage: etheria_images/2021/07/tokio-japon.jpg
+coverImage: etheria-images/2021/07/tokio-japon.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Tres días en Tokio es el tiempo mínimo que necesitarás en una viaje por Japón para llevarte en la retina lo fundamental de esta gran metrópoli, aunque seguro que querrás quedarte mucho más. Viaja con tus amigas, con tu pareja o en familia y descubre la magia de la capital japonesa.
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-barriles-santuario-meiji-900x600.jpg "Barriles en el jardín del santuario sintoísta de Meiji. © Susana García")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-barriles-santuario-meiji-900x600.jpg "Barriles en el jardín del santuario sintoísta de Meiji. © Susana García")
 
 Tokio es una ciudad tan fascinante que podrías quedarte en ella semanas sin aburrirte lo 
 más mínimo. Aquí, a la sucesión de barrios diferentes, cada uno con su personalidad, se 
@@ -38,7 +38,7 @@ Para comenzar, nada mejor que uno de los oasis de paz y silencio de la ciudad, e
 foto frente a los grandes y coloridos barriles de vino que regaló la región de Borgoña 
 al emperador para que fueran consagrados en este lugar. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-parque-santuario-meiji-900x544.jpg "Uno de los toris del santuario de Meiji. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-parque-santuario-meiji-900x544.jpg "Uno de los toris del santuario de Meiji. © SG")
 
 Cuando llegues al santuario será difícil abstraerse a la **costumbre de abrazarse debajo 
 de los árboles sagrados**, ya que dicen que esto es garantía de un matrimonio feliz y 
@@ -48,7 +48,7 @@ encontrarás en **un viaje a Japón**, distinguirás claramente la zona para pur
 las tiendas de amuletos y petición de deseos, que puedes dejar escritos en unas bonitas 
 tablas de madera para ver si los dioses sintoístas se acuerdan de ti. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-santuario-meiji-900x527.jpg "Monjes sintoístas en Meiji. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-santuario-meiji-900x527.jpg "Monjes sintoístas en Meiji. © SG")
 
 ### Barrio de Harajuku
 
@@ -62,14 +62,14 @@ estilo, tiendas de ropa y objetos en colores pastel con dulces ojitos… y hasta
 heladerías con helados con esta estética y restaurantes donde lo ‘kawai’ está presente 
 en la comida, la decoración, las camareras y la música, como el **Kawaii Monster Cafe**. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa, kawai](etheria_images/2019/10/Tokio-kawai-monster-cafe-900x782.jpg "Camarera del Kawai Monster Cafe. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa, kawai](etheria-images/2019/10/Tokio-kawai-monster-cafe-900x782.jpg "Camarera del Kawai Monster Cafe. © SG")
 
 Podrás pasar horas deambulando por este barrio habitado por japoneses de imagen 
 extravagante, que suponen un contraste absoluto con esos otros que te encontrarás en el 
 resto de la ciudad, uniformados en colores neutros con ropa amplia y queriendo pasar 
 desapercibidos. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-kawai-900x552.jpg "Foto a un 'helado kawai' y algodón de azúcar en Harajuku. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-kawai-900x552.jpg "Foto a un 'helado kawai' y algodón de azúcar en Harajuku. © SG")
 
 ### Cruce de Shibuya
 
@@ -96,7 +96,7 @@ explican la historia y tradiciones de estos guerreros en una visita guiada (en i
 donde podrás ver (y probarte) sus historiados trajes. Una visita obligada si viajas con 
 niños. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-museo-samurai-900x554.jpg "Espectáculo en el Museo Samurai. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-museo-samurai-900x554.jpg "Espectáculo en el Museo Samurai. © SG")
 
 ## Día 2. Centro de Tokio
 
@@ -112,7 +112,7 @@ bombardeo de 1945. Actualmente, continua siendo la residencia oficial del venera
 emperador y su familia. Está en una isla rodeada de canales en medio de un enorme parque 
 bordeado por un bonito paseo en el que verás a muchos japoneses practicando jogging. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-Palacio-Imperial-900x600.jpg "Puente Nijubashi y Palacio Imperial. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-Palacio-Imperial-900x600.jpg "Puente Nijubashi y Palacio Imperial. © SG")
 
 ### Mercado Tsukiji
 
@@ -122,7 +122,7 @@ de cocina. Si eres amante de la gastronomía japonesa, no dudes en apuntarte a u
 para hacer sushi en la **Tokyo Sushi Academy** donde después podrás degustar tus 
 elaboraciones. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-mercado-Tsukiji-900x636.jpg "Puesto en el mercado de pescado de Tsukiji. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-mercado-Tsukiji-900x636.jpg "Puesto en el mercado de pescado de Tsukiji. © SG")
 
 ### Barrio de Ginza
 
@@ -142,7 +142,7 @@ pensado para que no necesiten ni siquiera subir a la ciudad en sus transbordos o
 hacer sus compras y cenen antes de llegar a su casa. Encontrarás incluso ‘barrios’ de 
 tiendas temáticas dentro de esta maraña de calles del subsuelo. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/yu-kato-bBhkqp_qCck-unsplash-900x675.jpg "Torre de Tokio. © Yu Kato")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/yu-kato-bBhkqp_qCck-unsplash-900x675.jpg "Torre de Tokio. © Yu Kato")
 
 ### Miradores de Tokio
 
@@ -168,7 +168,7 @@ No te pierdas el pabellón principal, la pagoda y, por supuesto, la **calle Naka
 llena de pequeñas tiendas donde encontrar productos tradicionales japoneses, que lleva 
 hasta la puerta Kaminarimon, donde pasarás bajo su enorme linterna roja. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-Nakasime-900x630.jpg "Calle Nakamise. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-Nakasime-900x630.jpg "Calle Nakamise. © SG")
 
 Como curiosidad, si caminas en la calle paralela a la concurrida Nakamise, encontrarás 
 algunas tiendas interesantes, como una que resulta muy curiosa a los ojos de un 
@@ -178,7 +178,7 @@ tremendamente populares en los restaurantes, la mayoría hacen estas réplicas p
 escaparates. Seguro que te llevás alguna como recuerdo. Además encontrarás pastelerías y 
 una tienda con bonitos kimonos para comprar o alquilar. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-Akihabara-calle-carteles-900x710.jpg "Barrio Akihabara. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-Akihabara-calle-carteles-900x710.jpg "Barrio Akihabara. © SG")
 
 ### Barrio Akihabara
 
@@ -207,7 +207,7 @@ aunque ten en cuenta que la comunicación con los taxistas no siempre es fluida,
 no saben nada de inglés, necesitarás también Google Maps para enseñarle donde quieres 
 ir. 
 
-![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria_images/2019/10/Tokio-puesto-crepes-900x600.jpg "Helados en Harajuku. © SG")
+![viajes a Japón, viajes en familia, viajes a grandes ciudades, cultura japonesa](etheria-images/2019/10/Tokio-puesto-crepes-900x600.jpg "Helados en Harajuku. © SG")
 
 ##### Dónde comer en Tokio
 

@@ -1,18 +1,18 @@
 ---
 title: "'Hijas del Nilo', una cita con las mujeres del antiguo Egipto en Madrid"
 date: 2022-07-04
-coverImage: etheria_images/2022/06/Hijas_del_Nilo-sala-iluminada.jpg
+coverImage: etheria-images/2022/06/Hijas_del_Nilo-sala-iluminada.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El importante papel de la mujer en el Egipto de la antigüedad ha sido por fin recogido en una muestra única: 'Hijas del Nilo. Mujer y sociedad en el antiguo Egipto'. Esta fascinante exposición en Madrid la puedes visitar ya en el Palacio de Alhajas.
 
-![exposición de Egipto en el Palacio de Alhajas](etheria_images/2022/06/Hijas_del_Nilo-sala-iluminada.jpg "Sala de la exposición "Hijas del Nilo".")
+![exposición de Egipto en el Palacio de Alhajas](etheria-images/2022/06/Hijas_del_Nilo-sala-iluminada.jpg "Sala de la exposición "Hijas del Nilo".")
 
 La exposición ‘Hijas del Nilo. Mujer y sociedad en el antiguo Egipto’ es la primera 
 muestra que se realiza en España dedicada exclusivamente a las **mujeres del Egipto de 
@@ -33,7 +33,7 @@ basada en unos principios de igualdad mucho más avanzados que los de otras cult
 la griega o la romana. Existieron poderosas mujeres gobernantes y era la mujer la que 
 transmitía la legitimidad de la estirpe. 
 
-![interior de la exposición Hijas del Nilo](etheria_images/2022/06/Hijas-del-Nilo-exposicion.jpg "Palacio de Alhajas de Madrid.")
+![interior de la exposición Hijas del Nilo](etheria-images/2022/06/Hijas-del-Nilo-exposicion.jpg "Palacio de Alhajas de Madrid.")
 
 ## Itinerario de la exposición
 
@@ -50,7 +50,7 @@ egipcio en el arte posterior, en especial en el siglo XX.
 Aunque seguro que tu mirada te lleva sin descanso de pieza en pieza, te señalamos 
 algunas que tienen un interés especial y en las que merece la pena detenerse. 
 
-![Sarcófago en el palacio de Alhajas](etheria_images/2022/06/Hijas_del_Nilo-sarcofago.jpg "La exposición 'Hijas del Nilo' reúne obras únicas.")
+![Sarcófago en el palacio de Alhajas](etheria-images/2022/06/Hijas_del_Nilo-sarcofago.jpg "La exposición 'Hijas del Nilo' reúne obras únicas.")
 
 ## Piezas imprescindibles en la exposición 'Hijas de Egipto':
 
@@ -68,7 +68,7 @@ reino de Osiris. La momia no está expuesta ya que se encuentra dentro del carto
 telas, yeso y elementos vegetales que rodean la momia), cerrado y sellado desde la 
 antigüedad. Es una momia procedente también del Museo de Zagreb. 
 
-![exposición Hijas de Egipto en Madrid](etheria_images/2022/06/hijas-del-nilo-sarcofago-zagreb.jpg "Sarcófago y cartonaje de Kaipamau. © Museo Arqueológico de Zagreb.")
+![exposición Hijas de Egipto en Madrid](etheria-images/2022/06/hijas-del-nilo-sarcofago-zagreb.jpg "Sarcófago y cartonaje de Kaipamau. © Museo Arqueológico de Zagreb.")
 
 ### Relieve de las plañideras
 
@@ -88,7 +88,7 @@ camino al mundo de los muertos. Es una pieza del Museo Arqueológico Nacional de
 Una delicada obra en piedra caliza que muestra el perfil de una reina con el tocado de 
 la diosa buitre Nekhbet. Procede de la Ny Carlsberg Glyptotek de Ámsterdam. 
 
-![Esculturas en la exposición sobre la mujer en Egipto](etheria_images/2022/06/Hijas-del-Nilo-ESTATUA-DE-NEPEH-KA.jpg "Grupo escultórico de Nepeh-Ka y su mujer, Wahit. © Roemer- und Pelizaeus-Museum de Hildesheim.")
+![Esculturas en la exposición sobre la mujer en Egipto](etheria-images/2022/06/Hijas-del-Nilo-ESTATUA-DE-NEPEH-KA.jpg "Grupo escultórico de Nepeh-Ka y su mujer, Wahit. © Roemer- und Pelizaeus-Museum de Hildesheim.")
 
 ### Estatua de Nepeh-ka y su esposa Wahit
 

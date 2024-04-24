@@ -1,15 +1,15 @@
 ---
 title: "Ruta gastronómica de 'Foodie Love' (HBO España)"
 date: 2019-12-16
-coverImage: etheria_images/2019/12/pelicula-foodie-love.jpg
+coverImage: etheria-images/2019/12/pelicula-foodie-love.jpg
 categories: 
   - viajes-cine
   - viajes-con-amigas
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 'Foodie Love', la propuesta de Isabel Coixet en HBO, ya se ha convertido en la serie del 
@@ -17,7 +17,7 @@ año para muchos y ha sido nominada a los Premios Feroz. En Etheria Magazine nos
 su trama, su fotografía y su escenografía pero de lo que os hablaremos, para no hacer 
 _spoiler_, es de la ruta gastronómica de sus protagonistas. 
 
-![Cartel de Foodie Love](etheria_images/2019/12/pelicula-foodie-love-900x889.jpg "'Foodie Love'. ©HBO")
+![Cartel de Foodie Love](etheria-images/2019/12/pelicula-foodie-love-900x889.jpg "'Foodie Love'. ©HBO")
 
 Una serie dirigida por Isabel Coixet, ambientada en un mundo que reconocemos –con apps 
 de citas y postureo gastronómico– y donde las relaciones amorosas son el centro de 
@@ -34,7 +34,7 @@ pero no se referencia ningún lugar determinado. Y si quieres escuchar la banda 
 mientras lees estas recomendaciones, sólo tienes que hacer click en Foodie Love en 
 Instagram. 
 
-![foodie love, escenas gastronomicas foodie love](etheria_images/2019/12/foodie-love-4-900x587.jpg "Un café entre plantas. ©HBO")
+![foodie love, escenas gastronomicas foodie love](etheria-images/2019/12/foodie-love-4-900x587.jpg "Un café entre plantas. ©HBO")
 
 ## Capítulo 1: Sólo un café
 
@@ -54,7 +54,7 @@ protagonistas, y cócteles sofisticados. Si visitáis la capital española, enco
 este listado las [mejores coctelerías de 
 Madrid](https://etheriamagazine.com/2019/10/22/10-mejores-coctelerias-de-madrid-salir-con-amigas/). 
 
-![cocteleria moderna, bares de cocteles barcelona](etheria_images/2019/12/bar-cocteles-barcelona-900x616.jpg "Coctelería en Bar Paradiso.")
+![cocteleria moderna, bares de cocteles barcelona](etheria-images/2019/12/bar-cocteles-barcelona-900x616.jpg "Coctelería en Bar Paradiso.")
 
 ## Capítulo 3: La gyoza de Proust
 
@@ -64,7 +64,7 @@ emula a uno de los restaurantes favoritos de Coixet, donde ella dice que sirven 
 mejor ramen del mundo". Toma nota del **restaurante Yokaloka** (Santa Isabel, 5. Planta 
 Baja) en el mercado de Antón Martín. Y que se preparen para la avalancha de reservas... 
 
-![Comer ramen está de moda y los protagonistas también lo hacen.](etheria_images/2019/12/foodie-love-1-900x566.jpg "Comer ramen está de moda y los protagonistas también lo hacen. ©HBO")
+![Comer ramen está de moda y los protagonistas también lo hacen.](etheria-images/2019/12/foodie-love-1-900x566.jpg "Comer ramen está de moda y los protagonistas también lo hacen. ©HBO")
 
 ## Capítulo 4. Gelato di neve
 
@@ -74,7 +74,7 @@ Roma: la **Tratoria Da Silvano** (Largo Eduardo Talamo, 6); la **Gelateria ICE-c
 (Via del Governo Vecchio, 85), donde dicen los entendidos que venden los mejores helados 
 del mundo; y la Osteria Zi'Umberto (Piazza di S. Giovanni della Malva, 14). 
 
-![El helado italiano es uno de los mejores del mundo.](etheria_images/2019/12/helado-foodie-love-900x598.jpg "El helado italiano es uno de los mejores del mundo.")
+![El helado italiano es uno de los mejores del mundo.](etheria-images/2019/12/helado-foodie-love-900x598.jpg "El helado italiano es uno de los mejores del mundo.")
 
 ## Capítulo 5. La última cena
 
@@ -84,7 +84,7 @@ Barcelona los hermanos Torres, los gemelos Sergio y Javier, es donde los persona
 protagonistas se dan un gran festín gastronómico. Encontrarás Cocina Hermanos Torres, un 
 espacio de 800 m2, en la calle del Taquígraf Serra, 20. 
 
-![La cocina creativa es siempre la más sorprendente.](etheria_images/2019/12/foodie-love-5-900x600.jpg "La cocina creativa es siempre la más sorprendente. ©HBO")
+![La cocina creativa es siempre la más sorprendente.](etheria-images/2019/12/foodie-love-5-900x600.jpg "La cocina creativa es siempre la más sorprendente. ©HBO")
 
 ## Capítulo 6. El croissant perfecto no existe
 
@@ -95,7 +95,7 @@ España_** en 2018. Este local de repostería japonesa abrió sus puertas en 198
 dando alegrías desde entonces. Sin duda, en tu próxima visita a Barcelona, debería 
 pasarte por Comte d'Urgell 110 para pedir **mochis**, bombones o tartas japonesas. 
 
-![Takashi Ochiai](etheria_images/2019/12/takashi-ochiai-900x555.jpg "© Takashi Ochiai/ Instagram")
+![Takashi Ochiai](etheria-images/2019/12/takashi-ochiai-900x555.jpg "© Takashi Ochiai/ Instagram")
 
 ## Capítulo 7. Esto es Francia
 
@@ -105,7 +105,7 @@ Château Villeneuve (en Montolieu), es una de esas casonas con sabor a historia 
 nos gustan. Si te decides a conocerlo, muy cerca hay dos restaurantes muy recomendables: 
 Casquette et Chapeau y **Apostrophe**. 
 
-![Château Villeneuve (en Montolieu).](etheria_images/2019/12/hotel-francia-foodie-love-900x565.jpg "© Château Villeneuve (en Montolieu).")
+![Château Villeneuve (en Montolieu).](etheria-images/2019/12/hotel-francia-foodie-love-900x565.jpg "© Château Villeneuve (en Montolieu).")
 
 ## Capítulo 8. Una ofrenda de tabaco, cerveza y chocolate
 

@@ -1,17 +1,17 @@
 ---
 title: "Descubre la sorprendente y variada arquitectura de Menorca"
 date: 2020-12-08
-coverImage: etheria_images/2020/11/viaje-menorca-Fornells-Torre-de-Fornells.jpg
+coverImage: etheria-images/2020/11/viaje-menorca-Fornells-Torre-de-Fornells.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Kris Ubach
 ---
 
 Muchos viajan a Menorca por la belleza de sus calas recónditas, por su _slow life_ isleño, por su clima siempre agradable, por su cocina de raíces... Y a todo eso nosotras añadiremos la arquitectura, una arquitectura que aquí es única y diferente, que tiene forma de torres vigías y de faros pero también de construcciones insólitas que no existen en ningún otro lugar. ¿Te vienes a descubrir estos siete monumentos o lugares sorprendentes de Menorca?
 
-![naveta des tudons lugares sorprendentes de Menorca](etheria_images/2020/11/viaje-menorca-Naveta-des-Tudons.jpg "Naveta des Tudons, en Menorca. © Kris Ubach")
+![naveta des tudons lugares sorprendentes de Menorca](etheria-images/2020/11/viaje-menorca-Naveta-des-Tudons.jpg "Naveta des Tudons, en Menorca. © Kris Ubach")
 
 ## 1\. Visita los restos talayóticos
 
@@ -28,7 +28,7 @@ la **Naveta des Tudons** (un monumento funerario colectivo, único en su especie
 de los mayores y más longevos de Menorca) y **Talatí de Dalt** (que también conserva 
 restos de épocas posteriores). 
 
-![puerto Ciutadella es una de las visitas originales en Menorca](etheria_images/2020/11/viaje-menorca-Ciutadella.jpg "Puerto de Ciutadella, una de las ciudades más bellas de Menorca. © Kris Ubach")
+![puerto Ciutadella es una de las visitas originales en Menorca](etheria-images/2020/11/viaje-menorca-Ciutadella.jpg "Puerto de Ciutadella, una de las ciudades más bellas de Menorca. © Kris Ubach")
 
 ## 2\. Ciutadella y su impronta árabe
 
@@ -44,7 +44,7 @@ vieja que desemboca en la **Catedral**, un sobrio edificio de estilo gótico cat
 fue construido sobre la antigua mezquita. De hecho, el **campanario** no es otra cosa 
 que el antiguo alminar musulmán. 
 
-![lugares sorprendentes de Menorca Fuerte Marlborough](etheria_images/2020/11/viaje-menorca-Fuerte-Marlborough.jpg "Fuerte Marlborough. © Kris Ubach")
+![lugares sorprendentes de Menorca Fuerte Marlborough](etheria-images/2020/11/viaje-menorca-Fuerte-Marlborough.jpg "Fuerte Marlborough. © Kris Ubach")
 
 ## 3\. Fuerte Marlborough, herencia británica
 
@@ -62,7 +62,7 @@ volvieron a recuperar la isla para sí. No sería hasta 1802, en la firma de la 
 Amiens, cuando España con la ayuda de Napoleón Bonaparte recuperaría Menorca 
 definitivamente. 
 
-![torre vigia de fornells una de las visitas originales en menorca](etheria_images/2020/11/viaje-menorca-Fornells-Torre-de-Fornells.jpg "Torre de vigía de Fornells. © Kris Ubach")
+![torre vigia de fornells una de las visitas originales en menorca](etheria-images/2020/11/viaje-menorca-Fornells-Torre-de-Fornells.jpg "Torre de vigía de Fornells. © Kris Ubach")
 
 ## 4\. Torres vigías antipiratas
 
@@ -81,7 +81,7 @@ espectaculares son la de **Fornells**, la de **Son Ganxo**, la de **Addaia** o l
 Las torres vigías no son sólo lugares sorprendentes de Menorca por su arquitectura sino 
 por las impresionantes panorámicas que regalan desde su base. 
 
-![lithica lugares sorprendentes de Menorca](etheria_images/2020/11/viaje-menorca-Lithica.jpg "Lithica, la visita más insólita de Menorca. © Kris Ubach")
+![lithica lugares sorprendentes de Menorca](etheria-images/2020/11/viaje-menorca-Lithica.jpg "Lithica, la visita más insólita de Menorca. © Kris Ubach")
 
 ## 5\. Lithica Pedreres de s'Hostal, una cantera insólita
 
@@ -94,7 +94,7 @@ estas canteras en desuso se recuperaron convirtiéndose en un espacio a medio ca
 entre el yacimiento arqueológico, el jardín monumental y la instalación artística. Es un 
 lugar único, muy muy fotogénico, y una de las visitas más originales de Menorca. 
 
-![faro de favaritx excursion original en menorca](etheria_images/2020/11/viaje-menorca-Faro-de-Favaritx.jpg "Faro de Favaritx. © Kris Ubach")
+![faro de favaritx excursion original en menorca](etheria-images/2020/11/viaje-menorca-Faro-de-Favaritx.jpg "Faro de Favaritx. © Kris Ubach")
 
 ## 6\. Faros, los guías del mar
 
@@ -108,7 +108,7 @@ hacia el Norte encontramos el **faro de punta Nati**, el **faro de Cavalleria**,
 Todos ellos proporcionan bellas y románticas postales desde lugares sorprendentes de 
 Menorca. 
 
-![vista de mahon capital de menorca](etheria_images/2020/11/viaje-menorca-Mahon.jpg "Vista de Mahón. © Kris Ubach")
+![vista de mahon capital de menorca](etheria-images/2020/11/viaje-menorca-Mahon.jpg "Vista de Mahón. © Kris Ubach")
 
 ## 7\. Plazas fuertes en Mahón y cuevas restaurantes en Es Castell
 

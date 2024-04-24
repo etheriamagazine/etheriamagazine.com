@@ -1,11 +1,11 @@
 ---
 title: "La provincia de Burgos con niños, planes rurales y activos en familia"
 date: 2022-10-05
-coverImage: etheria_images/2022/10/Museo-del-petroleo-burgos.jpg
+coverImage: etheria-images/2022/10/Museo-del-petroleo-burgos.jpg
 categories: 
   - viaje-en-familia
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cualquier fin de semana puede ser bueno para hacer una escapada a Burgos con niños 
@@ -15,7 +15,7 @@ petróleo, visitar parques de aventura o medievales, entrar en una mina o pescar
 río son sólo algunas opciones. Hemos elegido diez planes familiares en la provincia de 
 Burgos que os van a encantar. 
 
-![Casas pintorescas de Territorio Artlanza, un plan muy recomendable en Burgos.](etheria_images/2022/10/Territorio-Artlanza-burgos-familiar.jpg "Territorio Artlanza, un plan muy recomendable en Burgos.")
+![Casas pintorescas de Territorio Artlanza, un plan muy recomendable en Burgos.](etheria-images/2022/10/Territorio-Artlanza-burgos-familiar.jpg "Territorio Artlanza, un plan muy recomendable en Burgos.")
 
 Nos gustan las escapadas familiares porque permiten desconectar de la rutina y 
 centrarnos en lo importante, en esos pequeños que no paran a diario y que durante los 
@@ -47,7 +47,7 @@ al centro de interpretación situado en la antigua Casa de Administración de la
 Salinas, un edificio del siglo XVIII, que además constituye una buena muestra de la 
 arquitectura de la Ilustración. 
 
-![Pueblo de Poza de la Sal, en Burgos.](etheria_images/2022/10/poza-sal-burgos.jpg "Poza de la Sal, en Burgos.")
+![Pueblo de Poza de la Sal, en Burgos.](etheria-images/2022/10/poza-sal-burgos.jpg "Poza de la Sal, en Burgos.")
 
 ### 2\. Ruta entre dinosaurios
 
@@ -67,7 +67,7 @@ La ruta finaliza en el yacimiento El Frontal de **Regumiel de la Sierra**, donde
 registradas 86 icnitas. Podéis ampliar la información en la [web](http://www.fundaciondinosaurioscyl.com/es/c/?idsec=365) 
 de la fundación Dinosaurios de Castilla y León. 
 
-![Dinosaurio en Salas de los Infantes.](etheria_images/2022/10/salas-de-los-infantes-dinosaurio.jpg "Dinosaurio en Salas de los Infantes.")
+![Dinosaurio en Salas de los Infantes.](etheria-images/2022/10/salas-de-los-infantes-dinosaurio.jpg "Dinosaurio en Salas de los Infantes.")
 
 ### 3\. Petróleo en Burgos
 
@@ -84,7 +84,7 @@ hablamos extensamente en el artículo: [Geoparque Las Loras, una cita sorprenden
 Burgos y 
 Palencia](https://etheriamagazine.com/2020/12/23/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia/) 
 
-![Museo del Petróleo de Burgos.](etheria_images/2022/10/Museo-del-petroleo-burgos.jpg "Museo del Petróleo de Burgos.")
+![Museo del Petróleo de Burgos.](etheria-images/2022/10/Museo-del-petroleo-burgos.jpg "Museo del Petróleo de Burgos.")
 
 ### 4\. Mineros por un día
 
@@ -102,7 +102,7 @@ visita en minasdepuras.com
 subterráneo, planes alucinantes en cuevas, minas y canteras para este 
 verano](https://etheriamagazine.com/2022/06/24/burgos-subterraneo/). 
 
-![Mina de Puras, ideal para una visita a Burgos con niños](etheria_images/2022/10/Burgos-familias-mina-de-puras.jpg "Mina de Puras.")
+![Mina de Puras, ideal para una visita a Burgos con niños](etheria-images/2022/10/Burgos-familias-mina-de-puras.jpg "Mina de Puras.")
 
 ### 5\. Parque de multiaventura en Valterria
 
@@ -121,7 +121,7 @@ con bonitas vistas.
 ?**No te pierdas:** [Ruta para desconectar en Las Merindades de 
 Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/). 
 
-![Parque de aventuras Valterria.](etheria_images/2022/10/Valterria-parque-aventuras-850x346.jpg "Parque de aventuras Valterria.")
+![Parque de aventuras Valterria.](etheria-images/2022/10/Valterria-parque-aventuras-850x346.jpg "Parque de aventuras Valterria.")
 
 ### 6\. Un paseo en barco por el Canal de Castilla
 
@@ -137,7 +137,7 @@ Castrillo de Riopisuerga. Sólo sale los sábados y el centro de reservas está 
 embarcadero del hotel restaurante Carrecalzada. También podéis informaros previamente en 
 el teléfono 609 450 405 
 
-![Acueducto de Abánades, en el Canal de Castilla a su paso por Burgos.](etheria_images/2022/10/Acueducto-de-Abanades.jpg "Acueducto de Abánades, en el Canal de Castilla a su paso por Burgos.")
+![Acueducto de Abánades, en el Canal de Castilla a su paso por Burgos.](etheria-images/2022/10/Acueducto-de-Abanades.jpg "Acueducto de Abánades, en el Canal de Castilla a su paso por Burgos.")
 
 ### 7\. El Nueva York de los bosques
 
@@ -168,7 +168,7 @@ reservar un hueco en vuestra visita por la provincia burgalesa. El precio para a
 es de 6 € y para los niños de 5 a 14 años, 2 €. Podéis consultar los horarios de las 
 actividades y talleres en laesculturamasgrandedelmundo.com 
 
-![Plaza con viviendas en Territorio Artlanza.](etheria_images/2022/10/burgos-Territorio-Artlanza.jpg "Territorio Artlanza.")
+![Plaza con viviendas en Territorio Artlanza.](etheria-images/2022/10/burgos-Territorio-Artlanza.jpg "Territorio Artlanza.")
 
 ### 9\. Viajar a la Prehistoria
 
@@ -182,7 +182,7 @@ fascinante safari, las especies que compartieron territorio con nuestros ancestr
 el primer Parque Pleistoceno con animales vivos de Europa. Puedes realizar tu reserva en 
 el teléfono 947 421 714 o en paleoliticovivo.org 
 
-![Montes tapizados de vegetación en el Parque Natural Montes Obarenes.](etheria_images/2022/10/Montes-Obarenes-burgos.jpg "Parque Natural Montes Obarenes.")
+![Montes tapizados de vegetación en el Parque Natural Montes Obarenes.](etheria-images/2022/10/Montes-Obarenes-burgos.jpg "Parque Natural Montes Obarenes.")
 
 ### 10\. Cuatro Villas de Amaya
 
@@ -204,7 +204,7 @@ aprendices tratarán de crear su cómic o al menos de disfrazarse y pasarlo bien
 Sin duda, entre estos diez planes en Burgos con niños encontraréis algunos que se 
 adapten a vuestros gustos y tiempo disponible. 
 
-![Cascada de Tobalina, en las Merindades.](etheria_images/2022/10/Cascada-de-Tobalina-Merindades.jpg "Cascada de Tobalina, en las Merindades.")
+![Cascada de Tobalina, en las Merindades.](etheria-images/2022/10/Cascada-de-Tobalina-Merindades.jpg "Cascada de Tobalina, en las Merindades.")
 
 ## Posibles dudas en un viaje a Burgos con niños
 

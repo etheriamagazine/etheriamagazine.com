@@ -1,21 +1,21 @@
 ---
 title: "Ruta del vino Cigales, 10 razones para brindar como los Reyes Católicos"
 date: 2020-01-07
-coverImage: etheria_images/2020/01/etheria-ruta-vino-cigales-castillo-encantado.jpg
+coverImage: etheria-images/2020/01/etheria-ruta-vino-cigales-castillo-encantado.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 La cuna de los mejores rosados del mundo ofrece la excusa perfecta para disfrutar de una 
 relajante escapada rural con amigas. Y si necesitas un pretexto para irte de vinos por 
 el valle del Pisuerga, en Etheria Magazine te damos diez. 
 
-![copa de rosado en la ruta de cigales](etheria_images/2020/01/etheria-ruta-vino-cigales-portada-900x646.jpg "Ruta del Vino Cigales. © Kelu Robles")
+![copa de rosado en la ruta de cigales](etheria-images/2020/01/etheria-ruta-vino-cigales-portada-900x646.jpg "Ruta del Vino Cigales. © Kelu Robles")
 
 La **Ruta del vino Cigales** rescata la faceta más hedonista de la Castilla imperial: la 
 de sus imponentes castillos, su contundente gastronomía y el mejor vino (además, el que 
@@ -38,7 +38,7 @@ siglo XIX.
 > personalidad recia de las frías tierras castellanas, cualidad que contribuye 
 > precisamente a la calidad de sus vinos. 
 
-![castillo fuensaldana](etheria_images/2020/01/etheria-ruta-vino-cigales-castillo-fuensaldana-900x531.jpg "El castillo de Fuensaldaña se encuentra a diez kilómetros de Valladolid. © Ruta del Vino Cigales")
+![castillo fuensaldana](etheria-images/2020/01/etheria-ruta-vino-cigales-castillo-fuensaldana-900x531.jpg "El castillo de Fuensaldaña se encuentra a diez kilómetros de Valladolid. © Ruta del Vino Cigales")
 
 ## 2\. Este castillo vale por mil
 
@@ -50,7 +50,7 @@ interior se ha convertido en un gran centro de interpretación donde todo tipo d
 artificios audiovisuales repasan las peculiaridades de los distintos castillos 
 medievales que hay en España. De ahí que lo llamen **'el castillo de castillos'**. 
 
-![Exterior del castillo de Trigueros del Valle](etheria_images/2020/01/etheria-ruta-vino-cigales-castillo-encantado-900x656.jpg "Exterior del Castillo Encantado, en Trigueros del Valle. ©KR")
+![Exterior del castillo de Trigueros del Valle](etheria-images/2020/01/etheria-ruta-vino-cigales-castillo-encantado-900x656.jpg "Exterior del Castillo Encantado, en Trigueros del Valle. ©KR")
 
 ## 3\. Aquí vive un fantasma (o más de uno)
 
@@ -62,7 +62,7 @@ dragones, pasadizos ocultos, seres mitológicos y **Goblins**, los ayudantes má
 de la fortaleza. La experiencia en el interior es de lo más divertida y resulta 
 especialmente atractiva para los más pequeños de la casa. 
 
-![Interior del castillo de Trigueros del Valle](etheria_images/2020/01/etheria-ruta-vino-cigales-castillo-interior-900x675.jpg "Una de las estancias del Castillo Encantado. ©KR")
+![Interior del castillo de Trigueros del Valle](etheria-images/2020/01/etheria-ruta-vino-cigales-castillo-interior-900x675.jpg "Una de las estancias del Castillo Encantado. ©KR")
 
 > Sólo quien descubra su chirriante pasadizo secreto, podrá ascender hasta el torreón del 
 > Castillo Encantado. 
@@ -85,7 +85,7 @@ Cigales hace trescientos años.
 > interior de una bodega, te hará demostrar de una vez por todas que eres experta en la 
 > producción de vino. 
 
-![bodegas cubillas santa marta](etheria_images/2020/01/etheria-ruta-vino-cigales-cubillas-santa-marta-900x655.jpg "Bodegas de Cubillas de Santa Marta. ©KR")
+![bodegas cubillas santa marta](etheria-images/2020/01/etheria-ruta-vino-cigales-cubillas-santa-marta-900x655.jpg "Bodegas de Cubillas de Santa Marta. ©KR")
 
 La **era industrial** también está presente en la ruta en la **Bodega Cooperativa 
 Cigales**, creada en el año 1957. Su enóloga María José García explica con fervor a los 
@@ -100,7 +100,7 @@ peligrosos, un papel protector que antiguamente ejercían los gatos.
 > Los felinos supervisaban el interior de las bodegas y, si huían rápidamente hacia el 
 > exterior, todo indicaba que existía una peligrosa acumulación de tufo. 
 
-![paisaje de los cortados del pisuerga](etheria_images/2020/01/etheria-ruta-vino-cigales-cortados-pisuerga-900x644.jpg "Sobre los Cortados del Pisuerga, en San Martín de Valvení, se puede observar el Canal de Castilla. ©KR")
+![paisaje de los cortados del pisuerga](etheria-images/2020/01/etheria-ruta-vino-cigales-cortados-pisuerga-900x644.jpg "Sobre los Cortados del Pisuerga, en San Martín de Valvení, se puede observar el Canal de Castilla. ©KR")
 
 ## 5\. Vino y senderismo, ¿por qué no?
 
@@ -116,7 +116,7 @@ poblaciones como **Valoria la Buena**.
 > Imagínate sobre el Pico del Águila y al filo de los Cortados del Pisuerga mientras 
 > disfrutas de un vino Cigales. 
 
-![paisaje de la ruta de Cigales desde el pico del aguila](etheria_images/2020/01/etheria-ruta-vino-cigales-pico-aguila-900x623.jpg "Panorámica desde el Pico del Águila, en Valladolid. ©KR")
+![paisaje de la ruta de Cigales desde el pico del aguila](etheria-images/2020/01/etheria-ruta-vino-cigales-pico-aguila-900x623.jpg "Panorámica desde el Pico del Águila, en Valladolid. ©KR")
 
 Las **vías GR** (de Gran Recorrido) despiertan gran interés entre los amantes del vino y 
 el cicloturismo. Tanto es así, que los noventa y tres kilómetros que recorren el GR-296 
@@ -137,7 +137,7 @@ los diferentes tipos.
 > La sombra del vino es alargada y bondadosa: la Ruta del Vino Cigales marida con miel, 
 > con naturaleza ¡y también con chocolate! 
 
-![dulce de la chocolatería Trapa](etheria_images/2020/01/etheria-ruta-vino-cigales-trapa-900x616.jpg "Saint Honoré bañado con chocolate Trapa. ©KR")
+![dulce de la chocolatería Trapa](etheria-images/2020/01/etheria-ruta-vino-cigales-trapa-900x616.jpg "Saint Honoré bañado con chocolate Trapa. ©KR")
 
 ## 7\. Chocolates que atrapan
 
@@ -148,7 +148,7 @@ funciona como hospedería. Los viajeros más golosos verán cumplidos sus sueño
 lado de la autovía en la fábrica de chocolates **Trapa**, su nombre rinde homenaje a 
 aquellos monjes. Elaboran deliciosos bombones, tabletas y turrones de chocolate. 
 
-![Sardina macerada en cítricos del restaurante El Sueño del General.](etheria_images/2020/01/etheria-ruta-vino-cigales-sardina-900x602.jpg "Sardina macerada en cítricos del restaurante El Sueño del General. ©KR")
+![Sardina macerada en cítricos del restaurante El Sueño del General.](etheria-images/2020/01/etheria-ruta-vino-cigales-sardina-900x602.jpg "Sardina macerada en cítricos del restaurante El Sueño del General. ©KR")
 
 ## 8\. Hay vida más allá del lechazo
 
@@ -176,7 +176,7 @@ la cocina tradicional, mientras los hornos de La Casa de la Pradera, en Dueñas,
 satisfacen los deseos de quien se niegue a abandonar Castilla y León sin probar un buen 
 lechazo. 
 
-![hombres realizando la vendimia en la ruta vino cigales](etheria_images/2020/01/etheria-ruta-vino-cigales-vendimia-900x630.jpg "La vendimia se realiza manualmente. ©KR")
+![hombres realizando la vendimia en la ruta vino cigales](etheria-images/2020/01/etheria-ruta-vino-cigales-vendimia-900x630.jpg "La vendimia se realiza manualmente. ©KR")
 
 ## 9\. La fiesta de la vendimia
 
@@ -187,7 +187,7 @@ Pisar la uva en compañía de todo el pueblo, degustar los primeros mostos y bai
 castellanas al ritmo que los dulzaineros propongan, forma parte de un divertido ritual 
 donde todo gira en torno al mundo del vino. 
 
-![pisada de uva en la fiesta de la vendimia de cigales](etheria_images/2020/01/etheria-ruta-vino-cigales-fiesta-681x1024.jpg "Momento de celebración en la Fiesta de la Vendimia. ©Ayto. de Cigales")
+![pisada de uva en la fiesta de la vendimia de cigales](etheria-images/2020/01/etheria-ruta-vino-cigales-fiesta-681x1024.jpg "Momento de celebración en la Fiesta de la Vendimia. ©Ayto. de Cigales")
 
 > Que los cigaleños apoden ‘La Catedral del Vino’ a su iglesia Santiago Apóstol demuestra 
 > el fervor que este pueblo siente hacia sus caldos. 
@@ -199,7 +199,7 @@ más allá de sus viñas. Alojarse en **Concejo Hospedería**, un antiguo palaci
 XIII situado en **Valoria la Buena**, forma parte de una de las experiencias sublimes 
 que proporciona esta ruta. 
 
-![bodeguero enrique concejo con una copa de vino cigales](etheria_images/2020/01/etheria-ruta-vino-cigales-enrique-900x625.jpg "Enrique Concejo es uno de los bodegueros de la ruta que producen vino D.O. Cigales. ©KR")
+![bodeguero enrique concejo con una copa de vino cigales](etheria-images/2020/01/etheria-ruta-vino-cigales-enrique-900x625.jpg "Enrique Concejo es uno de los bodegueros de la ruta que producen vino D.O. Cigales. ©KR")
 
 Las viajeras más románticas cumplirán en **Cubillas de Santa Marta** un sueño de cuento: 
 abrir la ventana de la habitación y escuchar el trino de los gorriones —o de las 
@@ -214,7 +214,7 @@ al turismo de tienda de campaña.
 El siguiente mapa de la ruta puede serviros para ubicar las poblaciones mencionadas en 
 el artículo. 
 
-![mapa de la ruta del vino de Cigales](etheria_images/2020/01/etheria-ruta-vino-cigales-plano-900x675.jpg "<!-- wp:image {"align":"center","id":15293,"className":"is-style-default"} --> <div class="wp-block-image is-style-default"><figure class="aligncenter"><img src="etheria_images/2020/01/etheria-ruta-vino-cigales-plano-900x675.jpg" alt="mapa de la ruta del vino de Cigales" class="wp-image-15293"/></figure></div> <!-- /wp:image -->")
+![mapa de la ruta del vino de Cigales](etheria-images/2020/01/etheria-ruta-vino-cigales-plano-900x675.jpg "<!-- wp:image {"align":"center","id":15293,"className":"is-style-default"} --> <div class="wp-block-image is-style-default"><figure class="aligncenter"><img src="etheria-images/2020/01/etheria-ruta-vino-cigales-plano-900x675.jpg" alt="mapa de la ruta del vino de Cigales" class="wp-image-15293"/></figure></div> <!-- /wp:image -->")
 
 ✅ **También te puede interesar:** 
 

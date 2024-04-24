@@ -1,12 +1,12 @@
 ---
 title: "Ruta en coche por Irlanda: condados de Cork y Kerry"
 date: 2023-12-30
-coverImage: etheria_images/2023/12/irlanda-isla-Garinish.jpg
+coverImage: etheria-images/2023/12/irlanda-isla-Garinish.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Entre brumas, bosques, lagos, acantilados y pueblos pintorescos transcurre esta 
@@ -14,7 +14,7 @@ romántica escapada por los condados de Cork y Kerry. Historias celtas y leyenda
 se entrelazan, difuminando la frontera entre realidad y mito en un itinerario 
 inolvidable en coche por Irlanda. 
 
-![Isla Garinish en el condado de Cork](etheria_images/2023/12/irlanda-isla-Garinish.jpg "Isla Garinish, en el condado de Cork. © Pepa García")
+![Isla Garinish en el condado de Cork](etheria-images/2023/12/irlanda-isla-Garinish.jpg "Isla Garinish, en el condado de Cork. © Pepa García")
 
 El encanto de los condados de Cork y Kerry fluye con naturalidad en esta ruta en coche 
 por Irlanda donde la identidad de la isla se revela en cada parada. La música, la danza 
@@ -44,7 +44,7 @@ Y ahora sí, nos ponemos en marcha porque hay que alquilar el vehículo si habé
 hasta Cork o volver al mismo si habéis llegado hasta Dublín. ¿Preparadas para esta ruta 
 en coche por Irlanda? 
 
-![Mercado Inglés de Cork.](etheria_images/2023/12/Cork-Mercado-Ingles.jpg "Mercado Inglés de Cork. © Pepa García")
+![Mercado Inglés de Cork.](etheria-images/2023/12/Cork-Mercado-Ingles.jpg "Mercado Inglés de Cork. © Pepa García")
 
 ### De Henry Ford a Michael Collins
 
@@ -59,7 +59,7 @@ de donde procedía el padre de Henry Ford (sí, el de los coches), y **Clonakilt
 se sitúa la casa-museo de Michael Collins, un independentista irlandés que fue asesinado 
 con poco más de treinta años. 
 
-![Fachada de una casa de Clonakilty.](etheria_images/2023/12/irlanda-Clonakilty.jpg "Fachada de una casa de Clonakilty. © Pepa García")
+![Fachada de una casa de Clonakilty.](etheria-images/2023/12/irlanda-Clonakilty.jpg "Fachada de una casa de Clonakilty. © Pepa García")
 
 ### El Altar del Druida
 
@@ -73,7 +73,7 @@ de diciembre el sol penetra entre dos verticales e incide en una horizontal que 
 ser un altar. Sea o no un centro espiritual, el conjunto impone bastante cuando lo ves 
 al atardecer. 
 
-![Yacimiento de Dromberg, en Irlanda.](etheria_images/2023/12/irlanda-Dromberg.jpg "Yacimiento de Dromberg, en Irlanda. © Pepa García")
+![Yacimiento de Dromberg, en Irlanda.](etheria-images/2023/12/irlanda-Dromberg.jpg "Yacimiento de Dromberg, en Irlanda. © Pepa García")
 
 ### Skibbereen y Baltimore
 
@@ -94,7 +94,7 @@ en unos tiernos _scones_ en **Casey’s of Baltimore**. Algunos de sus vecinos m
 ilustres son **David Puttnam**, productor de filmes tan conocidos como _La Misión_ o 
 _Carros de Fuego_, y **Jeremy Irons**, que tiene un castillo en las inmediaciones. 
 
-![Vista desde el puerto de Baltimore, parada de esta ruta en coche por Irlanda](etheria_images/2023/12/Baltimore-irlanda.jpg "Vista desde el puerto de Baltimore. © Pepa García")
+![Vista desde el puerto de Baltimore, parada de esta ruta en coche por Irlanda](etheria-images/2023/12/Baltimore-irlanda.jpg "Vista desde el puerto de Baltimore. © Pepa García")
 
 ### Lagos misteriosos
 
@@ -106,7 +106,7 @@ especial. Esa misma fuerza transmite el bosque contiguo, donde los troncos está
 cubiertos por el musgo y el olvido. El sonido del río acompaña por los senderos hasta un 
 pozo sagrado donde se dejan ofrendas. 
 
-![Entorno de Gougane Barra.](etheria_images/2023/12/Gougane-Barra-irlanda.jpg "Entorno de Gougane Barra. © Pepa García")
+![Entorno de Gougane Barra.](etheria-images/2023/12/Gougane-Barra-irlanda.jpg "Entorno de Gougane Barra. © Pepa García")
 
 ### Desde Bantry al monolito Kilnaruane
 
@@ -121,7 +121,7 @@ siglo XVIII con un rico mobiliario, vistas a la bahía y unos cuidados jardines
 distribuidos en siete terrazas. No dejéis de subir lo alto de las escalinatas porque la 
 panorámica es una maravilla. 
 
-![Vistas desde el jardín de Bantry House.](etheria_images/2023/12/bantry-house-irlanda.jpg "Vistas desde el jardín de Bantry House. © Pepa García")
+![Vistas desde el jardín de Bantry House.](etheria-images/2023/12/bantry-house-irlanda.jpg "Vistas desde el jardín de Bantry House. © Pepa García")
 
 ### Glengarrif y la isla Garinish
 
@@ -133,7 +133,7 @@ embarcadero, disponeos a pasear por quince hectáreas ajardinadas donde no falta
 rododendros, azaleas y miles de especies subtropicales. La historia de esta isla os la 
 contaremos en otra ocasión porque también es muy curiosa... 
 
-![Jardín tapiado de la isla de Garinish.](etheria_images/2023/12/Garinish-isla-irlanda.jpg "Jardín tapiado de la isla de Garinish. © Pepa García")
+![Jardín tapiado de la isla de Garinish.](etheria-images/2023/12/Garinish-isla-irlanda.jpg "Jardín tapiado de la isla de Garinish. © Pepa García")
 
 ## Condado de Kerry
 
@@ -146,7 +146,7 @@ viaje nos alojamos en el hotel Butler Arms donde también han dormido Charles Ch
 Walt Disney, Michael Douglas y el reparto de ‘_Star Wars: Episodio VIII- Los últimos 
 Jedi’_, que filmó hace unos años en las islas Skellig. 
 
-![Pueblo de Waterville, en Irlanda.](etheria_images/2023/12/Waterville-irlanda.jpg "Pueblo de Waterville, en Irlanda. © Pepa García")
+![Pueblo de Waterville, en Irlanda.](etheria-images/2023/12/Waterville-irlanda.jpg "Pueblo de Waterville, en Irlanda. © Pepa García")
 
 ### Las islas Skellig
 
@@ -170,7 +170,7 @@ esta emocionante experiencia
 Star Wars en 
 Irlanda](https://etheriamagazine.com/2019/09/05/como-organizar-excursion-precio-islas-skellig-michael-irlanda/). 
 
-![Escaleras de subida al monasterio de Skellig Michael.](etheria_images/2023/12/Skellig-Michael.jpg "Escaleras de subida al monasterio de Skellig Michael. © Pepa García")
+![Escaleras de subida al monasterio de Skellig Michael.](etheria-images/2023/12/Skellig-Michael.jpg "Escaleras de subida al monasterio de Skellig Michael. © Pepa García")
 
 ### Despedida desde Killarney
 
@@ -181,7 +181,7 @@ Irlanda con música, no dejéis de salir por la noche en Killarney ya que en muc
 encontraréis grupos tocando en directo. Con una pinta en la mano y el ritmo de las 
 animadas canciones tradicionales es imposible querer marcharse de este lugar. 
 
-![Castillo de Ross, en Killarney.](etheria_images/2023/12/Killarney-Castillo-Ross.jpg "Castillo de Ross, en Killarney. © Pepa García")
+![Castillo de Ross, en Killarney.](etheria-images/2023/12/Killarney-Castillo-Ross.jpg "Castillo de Ross, en Killarney. © Pepa García")
 
 ## Guía Práctica
 

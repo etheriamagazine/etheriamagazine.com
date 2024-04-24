@@ -1,13 +1,13 @@
 ---
 title: "Sligo, el condado irlandés que enamoró a William Butler Yeats"
 date: 2020-04-22
-coverImage: etheria_images/2020/04/bosque-sligo.jpg
+coverImage: etheria-images/2020/04/bosque-sligo.jpg
 categories: 
   - viajes-48-horas
   - historias-en-femenino
   - viajes-para-mujeres
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Viajamos al condado irlandés de Sligo, donde duendes, hadas y faunos fueron testigos del 
@@ -15,7 +15,7 @@ turbulento amor entre el Premio Nobel de Literatura William Butler Yeats, y la a
 feminista y revolucionaria Maud Gonne. En Etheria Magazine seguimos los pasos de Yeats y 
 los lugares donde se inspiró para escribir parte de su obra. 
 
-![bosques de sligo](etheria_images/2020/04/bosque-sligo-900x600.jpg "Los bosques del condado de Sligo inspiraron a Yeats. © O.T. Irlanda")
+![bosques de sligo](etheria-images/2020/04/bosque-sligo-900x600.jpg "Los bosques del condado de Sligo inspiraron a Yeats. © O.T. Irlanda")
 
 Para empezar a escribir esta historia hay que remontarse a finales del siglo XIX y a 
 cuatro personajes que la hicieron posible. El escenario será el **Condado de Sligo**, 
@@ -25,7 +25,7 @@ Atlántico en su máxima expresión, con playas como la de **Streedagh** donde n
 en 1588 tres navíos de la famosa **Armada Invencible**: La Lavia, La Juliana y la Santa 
 María de la Visión. 
 
-![Playa de Streedagh con la montaña Benbulbin al fondo](etheria_images/2020/04/sligo-playa-Streedagh-900x581.jpg "Playa de Streedagh con la montaña Benbulbin al fondo. © Manena Munar")
+![Playa de Streedagh con la montaña Benbulbin al fondo](etheria-images/2020/04/sligo-playa-Streedagh-900x581.jpg "Playa de Streedagh con la montaña Benbulbin al fondo. © Manena Munar")
 
 ## Yeats y las leyendas de Sligo
 
@@ -42,7 +42,7 @@ acompañados de faunos y hadas. La montaña mágica de Benbulbin la notaba como 
 presencia inquietante y dominante sobre el condado de Sligo, según el poema _Bajo 
 Benbulbin_ que escribió Yeats. 
 
-![bosques de sligo](etheria_images/2020/04/sligo-bosques-900x600.jpg "Bosques de Sligo. © M. Munar")
+![bosques de sligo](etheria-images/2020/04/sligo-bosques-900x600.jpg "Bosques de Sligo. © M. Munar")
 
 **Lough Gill**, por su parte, es un lago enorme cuyas aguas esconden también seres 
 mitológicos, y donde Yeats creó el **poema a la Isla de Innisfree**, que inspiró la 
@@ -52,7 +52,7 @@ Tranquilo**._ No es de extrañar que, con esta coreografía, nuestros protagonis
 obsesionados por los seres mitológicos que se esconden en bosques y lagos y que llenaron 
 muchas de las páginas de sus leyendas y poemas. 
 
-![Cementerio megalítico de Carrowmore](etheria_images/2020/04/Sligo-cementerio-Carrowmore-900x576.jpg "Cementerio megalítico de Carrowmore. © M. Munar")
+![Cementerio megalítico de Carrowmore](etheria-images/2020/04/Sligo-cementerio-Carrowmore-900x576.jpg "Cementerio megalítico de Carrowmore. © M. Munar")
 
 Así, Yeats escribe sobre **el pescador Red Man** en un pasaje donde no faltan ni el 
 humor ni la valentía, luchando con su enemigo del Eire que no es otro que Cúchulainn, el 
@@ -74,7 +74,7 @@ En ellas se hablaba de su enemigo natural, Inglaterra, y esto le facilitó dar r
 prensa y conferencias. Era, además, una activa sufragista por la causa irlandesa que la 
 llevó a ser considerada la _Juana de Arco de Irlanda._ 
 
-![Mural de Maud Gonne con un poema de Yeats](etheria_images/2020/04/sligo-mural-maud-gonne.jpg "Mural de Maud Gonne con un poema de Yeats. © M. Munar")
+![Mural de Maud Gonne con un poema de Yeats](etheria-images/2020/04/sligo-mural-maud-gonne.jpg "Mural de Maud Gonne con un poema de Yeats. © M. Munar")
 
 Maud Gonne nació un 21 de diciembre de 1866 en **Tongham**, en la región de Surrey del 
 Reino Unido. Su padre, capitán de las fuerzas armadas británicas se mudó a Irlanda. Así 
@@ -104,7 +104,7 @@ los colonizadores ingleses.
 
 > Maud era para William Butler, todas las mujeres en una. 
 
-![Tumba de Maud Gonne en el cementerio de Glasnevin en Dublín.](etheria_images/2020/04/sligo-tumba-maud-gonne-900x604.jpg "Tumba de Maud Gonne en el cementerio de Glasnevin en Dublín. © M. Munar")
+![Tumba de Maud Gonne en el cementerio de Glasnevin en Dublín.](etheria-images/2020/04/sligo-tumba-maud-gonne-900x604.jpg "Tumba de Maud Gonne en el cementerio de Glasnevin en Dublín. © M. Munar")
 
 Gonne fue una **activa feminista, sufragista y pacifista**, a pesar de su lucha sin 
 tregua, pues como bien matiza en su biografía “_siempre he odiado la guerra y soy por 
@@ -120,7 +120,7 @@ a presidir, y recibió el Premio Nobel de la Paz en 1974.
 > Maud Gonne murió a las 86 años en Clonskeagh, un pequeño suburbio en los alrededores de 
 > Dublín. Está enterrada en el cementerio de Glasnevin en Dublín. 
 
-![Escenas de la animada ciudad de Sligo.](etheria_images/2020/04/Sligo-escenas-callejeras-900x830.jpg "Escenas de la animada ciudad de Sligo. © M. Munar")
+![Escenas de la animada ciudad de Sligo.](etheria-images/2020/04/Sligo-escenas-callejeras-900x830.jpg "Escenas de la animada ciudad de Sligo. © M. Munar")
 
 ## Sligo, una ciudad tranquila
 
@@ -131,7 +131,7 @@ sus calles. También les recuerda _Yeats Memorial Building_, escuela de verano, 
 magníficos retratos y paisajes del hermano de William Bultler Yeats, el pintor Jack 
 Yeats. 
 
-![Mural que representa a Yeats, en Sligo.](etheria_images/2020/04/sligo-yeats-900x600.jpg "Mural que representa a Yeats, en Sligo. © M. Munar")
+![Mural que representa a Yeats, en Sligo.](etheria-images/2020/04/sligo-yeats-900x600.jpg "Mural que representa a Yeats, en Sligo. © M. Munar")
 
 La historia de ambos se recrea en **County Museum** y **Art Gallery,** sitos en una 
 antigua iglesia protestante. No lejos, en el Centro de Arte _The Model_ se disfruta de 
@@ -148,7 +148,7 @@ fundada en el siglo XIII, que pasó por incendios, guerras y cumplió papeles de
 monasterio, cantera… El paseo de una hora por sus ruinas es un recorrido por la historia 
 de Sligo. 
 
-![Las acogedoras tiendas de “todo un poco” de Sligo](etheria_images/2020/04/Sligo-tiendas-900x600.jpg "Las acogedoras tiendas de “todo un poco” de Sligo. © M. Munar")
+![Las acogedoras tiendas de “todo un poco” de Sligo](etheria-images/2020/04/Sligo-tiendas-900x600.jpg "Las acogedoras tiendas de “todo un poco” de Sligo. © M. Munar")
 
 ## Por siempre Lissadell
 
@@ -160,7 +160,7 @@ y su hermana Eva, que inspiraron el poema inmortal de Yeats.
 _Luz de tarde en Lissadell, grandes ventanas se abren al sur, dos jóvenes visten kimonos 
 de seda, ambas hermosas, una es gacela._ 
 
-![mansión de Lissadell](etheria_images/2020/04/sligo-Lissadell-900x406.jpg "En la mansión de Lissadell se recrean los tiempos y vestidos de sus antiguas dueñas, las hermanas Gore-Booth. © M. Munar.")
+![mansión de Lissadell](etheria-images/2020/04/sligo-Lissadell-900x406.jpg "En la mansión de Lissadell se recrean los tiempos y vestidos de sus antiguas dueñas, las hermanas Gore-Booth. © M. Munar.")
 
 Lissadell con vistas a la bahía de Drumcliffe y bajo el amparo de Benbulbin, a cuyas 
 laderas, en el **cementerio de Drumcliffe** descansa Yeats, jugó un papel primordial en 

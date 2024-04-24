@@ -1,11 +1,11 @@
 ---
 title: "15 lugares imprescindibles que ver en Alicante capital"
 date: 2022-08-31
-coverImage: etheria_images/2022/08/alicante-castillo-santa-barbara.jpg
+coverImage: etheria-images/2022/08/alicante-castillo-santa-barbara.jpg
 categories: 
   - de-un-vistazo
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Con unos 350.000 habitantes y ubicada a los pies del monte Benacantil, Alicante es, ante 
@@ -14,7 +14,7 @@ también se integran perfectamente el mar, la playa y el puerto. Por eso, te inv
 este artículo a que descubras esta ciudad milenaria, que nació nada menos que con los 
 íberos, a través de una ruta con 15 visitas imprescindibles para hacer en Alicante. 
 
-![Vista panorámica de Alicante desde el castillo de Santa Bárbara.](etheria_images/2022/08/Alicante-panoramica.jpg "Panorámica de Alicante desde el castillo de Santa Bárbara.")
+![Vista panorámica de Alicante desde el castillo de Santa Bárbara.](etheria-images/2022/08/Alicante-panoramica.jpg "Panorámica de Alicante desde el castillo de Santa Bárbara.")
 
 Alicante capital brinda al visitante un sinfín de posibilidades que nunca dejan 
 indiferentes. Aquí conviven lo antiguo y lo innovador, lo clásico y contemporáneo, lo 
@@ -30,7 +30,7 @@ en el Museo de la Ciudad o el Museo de Arte Contemporáneo de Alicante y desembo
 concatedral de San Nicolás de Bari. Una mezcla de plazas, rincones, palacios, templos y 
 monumentos que, debes saberlo, abarcan más de cinco milenios de historia. 
 
-![Vista aérea de la Torreón del castillo de Santa Bárbara.](etheria_images/2022/08/alicante-casa-carbonell.jpg "Casa Carbonell, en la Explanada de España.")
+![Vista aérea de la Torreón del castillo de Santa Bárbara.](etheria-images/2022/08/alicante-casa-carbonell.jpg "Casa Carbonell, en la Explanada de España.")
 
 ## Qué ver en Alicante capital
 
@@ -40,7 +40,7 @@ Hay numerosos atractivos turísticos que no querrás perderte en una escapada de
 disfrute en Alicante, una ciudad tranquila, hospitalaria y hermosa que se muestra 
 deseosa de exhibirse tal cual es al visitante. 
 
-![Torreón del castillo de Santa Bárbara, con el mar y la ciudad al fondo.](etheria_images/2022/08/alicante-castillo-santa-barbara.jpg "Torreón del castillo de Santa Bárbara.")
+![Torreón del castillo de Santa Bárbara, con el mar y la ciudad al fondo.](etheria-images/2022/08/alicante-castillo-santa-barbara.jpg "Torreón del castillo de Santa Bárbara.")
 
 ### Visitas urbanas en Alicante
 
@@ -67,7 +67,7 @@ avenida, seguramente la principal de Alicante, y detenerse en la **Casa Carbonel
 Auditorio al aire libre conocido como “**La Concha**”, donde se celebran muchos 
 conciertos y eventos culturales durante todo el año. 
 
-![Paseo de la Explanada de España, en Alicante.](etheria_images/2022/08/Explanada-paseo-alicante.jpg "Paseo de la Explanada de España, en Alicante.")
+![Paseo de la Explanada de España, en Alicante.](etheria-images/2022/08/Explanada-paseo-alicante.jpg "Paseo de la Explanada de España, en Alicante.")
 
 #### Mercado Central
 
@@ -79,7 +79,7 @@ fachada tiene numerosos elementos decorativos y una de sus puertas da a la plaza
 Mayo, cuyo nombre rinde homenaje a la fecha en que el Mercado Central sufrió un duro 
 bombardeo durante la Guerra Civil, en 1938. 
 
-![Fachada con un joven sentado en una mesa del Mercado Central de Alicante.](etheria_images/2022/08/alicante-mercado-central-634x1024.jpg "Mercado Central de Alicante.")
+![Fachada con un joven sentado en una mesa del Mercado Central de Alicante.](etheria-images/2022/08/alicante-mercado-central-634x1024.jpg "Mercado Central de Alicante.")
 
 #### Plaza del Ayuntamiento
 
@@ -94,7 +94,7 @@ de España.
 ? La plaza del Ayuntamiento constituye el epicentro de la vida social y cultural de 
 Alicante. 
 
-![Vista nocturna del Ayuntamiento de Alicante.](etheria_images/2022/08/ayuntamiento-alicante-704x1024.jpg "Vista nocturna del Ayuntamiento.")
+![Vista nocturna del Ayuntamiento de Alicante.](etheria-images/2022/08/ayuntamiento-alicante-704x1024.jpg "Vista nocturna del Ayuntamiento.")
 
 #### Parque La Ereta
 
@@ -106,7 +106,7 @@ serpenteantes, fantásticos miradores, cafeterías y hasta un restaurante panor�
 muy agradable sentarse en uno de sus bancos, rodeados de pinos, olivos y matorrales, y 
 escuchar el sonido del agua de las fuentes. 
 
-![Parque Ereta, en Alicante.](etheria_images/2022/08/alicante-parque-ereta.jpg "Parque Ereta, en Alicante.")
+![Parque Ereta, en Alicante.](etheria-images/2022/08/alicante-parque-ereta.jpg "Parque Ereta, en Alicante.")
 
 #### Barrio de Santa Cruz
 
@@ -118,7 +118,7 @@ con infinidad de macetas coloridas y flores colgando de los balcones. Hay numero
 bares, tabernas y coctelerías, por lo que el ambiente no puede ser más alegre y animado. 
 Toda una tentación para hacer una paradita. 
 
-![Casas blancas y flores del Barrio de Santa Cruz de Alicante](etheria_images/2022/08/barrio-santa-cruz-alicante.jpg "El alegre barrio de Santa Cruz se sitúa en la falda del monte Benacantil.")
+![Casas blancas y flores del Barrio de Santa Cruz de Alicante](etheria-images/2022/08/barrio-santa-cruz-alicante.jpg "El alegre barrio de Santa Cruz se sitúa en la falda del monte Benacantil.")
 
 ### Monumentos religiosos de Alicante
 
@@ -133,7 +133,7 @@ considerada una de las grandes joyas del barroco español. Anímate a visitar el
 ruido de las calles vecinas. Fue el Papa Juan XXIII quien, en 1959, dispuso que este 
 templo se convirtiera en la concatedral de la diócesis de Orihuela-Alicante. 
 
-![Interior de la Concatedral de San Nicolás de Bari](etheria_images/2022/08/alicante-concatedral-san-nicolas.jpg "Concatedral de San Nicolás de Bari.")
+![Interior de la Concatedral de San Nicolás de Bari](etheria-images/2022/08/alicante-concatedral-san-nicolas.jpg "Concatedral de San Nicolás de Bari.")
 
 #### Basílica de Santa María
 
@@ -146,7 +146,7 @@ respectivamente. Su **espectacular portada** contiene una imagen de la Virgen, o
 escultor Juan Bautista Borja, y en su interior destacan el altar mayor rococó del siglo 
 XVIII y las capillas del Bautismo, la Inmaculada y la Comunión. 
 
-![Portada de la Basílica de Santa María, en Alicante.](etheria_images/2022/08/alicante-basilica-santa-maria.jpg "Basílica de Santa María, en Alicante.")
+![Portada de la Basílica de Santa María, en Alicante.](etheria-images/2022/08/alicante-basilica-santa-maria.jpg "Basílica de Santa María, en Alicante.")
 
 ### Museos recomendados en Alicante
 
@@ -160,7 +160,7 @@ una **excelente colección permanente de arte de autores alicantinos**, siempre 
 exposiciones temporales y conciertos de música. Hoy es todo un referente cultural para 
 la ciudad. 
 
-![Interior del Museo Gravina o MUBAG de Alicante](etheria_images/2022/08/museo-mubag-alicante.jpg "Museo MUBAG. © Diputación de Alicante")
+![Interior del Museo Gravina o MUBAG de Alicante](etheria-images/2022/08/museo-mubag-alicante.jpg "Museo MUBAG. © Diputación de Alicante")
 
 #### Museo de Arte Contemporáneo de Alicante (MACA)
 
@@ -171,7 +171,7 @@ MACA, la antigua Casa de La Asegurada, convertida desde 1977 en museo gracias a 
 generosidad del artista alicantino Eusebio Sempere, que donó a la ciudad toda su 
 colección de arte. La entrada al museo es gratuita. 
 
-![Interior del museo MACA de Alicante](etheria_images/2022/08/Museo-MACA-alicante.jpg "Museo MACA.")
+![Interior del museo MACA de Alicante](etheria-images/2022/08/Museo-MACA-alicante.jpg "Museo MACA.")
 
 #### Museo Arqueológico Provincial (MARQ)
 
@@ -182,7 +182,7 @@ técnicas audiovisuales e innovadoras. El museo exhibe una exposición que abarc
 Paleolítico hasta la cultura moderna, haciendo un recorrido también por la historia 
 antigua de Alicante. 
 
-![Exterior e interior del Museo Arqueológico Provincial de Alicante](etheria_images/2022/08/museo-marq-alicante.jpg "Museo Arqueológico Provincial (MARQ). © Diputación de Alicante")
+![Exterior e interior del Museo Arqueológico Provincial de Alicante](etheria-images/2022/08/museo-marq-alicante.jpg "Museo Arqueológico Provincial (MARQ). © Diputación de Alicante")
 
 #### Museo de Belenes
 
@@ -192,7 +192,7 @@ realizada por artistas de Alicante. También exhibe una importante colección de
 realizados en distintas partes del mundo. Este singular Museo de Belenes se halla en una 
 vieja casa rehabilitada del centro histórico de Alicante que ha conservado el aljibe. 
 
-![Fachada e interior del Museo de los Belenes, uno de los espacios que hay que ver en Alicante](etheria_images/2022/08/museo-belenes.jpg "Museo de Belenes, en Alicante.")
+![Fachada e interior del Museo de los Belenes, uno de los espacios que hay que ver en Alicante](etheria-images/2022/08/museo-belenes.jpg "Museo de Belenes, en Alicante.")
 
 ### Visitas con vistas al mar
 
@@ -205,7 +205,7 @@ excelentes condiciones meteorológicas. Merece la pena darse un paseo por la Mar
 descubrir los bonitos barcos y yates que atracan aquí y disfrutar también de alguno de 
 los restaurantes o locales de ocio que están diseminados por el complejo. 
 
-![Atardecer en el puerto de Alicante.](etheria_images/2022/08/alicante-puerto-atardecer.jpg "Atardecer en el puerto de Alicante.")
+![Atardecer en el puerto de Alicante.](etheria-images/2022/08/alicante-puerto-atardecer.jpg "Atardecer en el puerto de Alicante.")
 
 #### Playa del Postiguet
 
@@ -217,7 +217,7 @@ agradable baño. Aquí puedes practicar vóley playa y, además, hay aseos públ
 adaptados para minusválidos y otros muchos servicios. Otras playas cercanas son las de 
 San Juan, Urbanova y las de la isla de Tabarca. 
 
-![Vista panorámica de la playa del Postiguet, uno de los lugares que ver en Alicante](etheria_images/2022/08/alicante-playa-postiguet.jpg "Playa del Postiguet, en Alicante.")
+![Vista panorámica de la playa del Postiguet, uno de los lugares que ver en Alicante](etheria-images/2022/08/alicante-playa-postiguet.jpg "Playa del Postiguet, en Alicante.")
 
 #### Excursión a la isla de Tabarca
 
@@ -238,7 +238,7 @@ un [free tour en
 Tabarca](https://www.civitatis.com/es/isla-de-tabarca/free-tour-tabarca/?aid=10211). Tú 
 eliges. 
 
-![Imagen aérea de la Isla de Tabarca, una excursión ideal desde Alicante](etheria_images/2022/08/alicante-isla-tabarca.jpg "Isla de Tabarca.")
+![Imagen aérea de la Isla de Tabarca, una excursión ideal desde Alicante](etheria-images/2022/08/alicante-isla-tabarca.jpg "Isla de Tabarca.")
 
 Más información en [Turismo de Alicante](https://www.alicanteturismo.com/). 
 

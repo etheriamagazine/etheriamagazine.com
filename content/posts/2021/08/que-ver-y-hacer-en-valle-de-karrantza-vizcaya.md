@@ -1,12 +1,12 @@
 ---
 title: "Valle de Karrantza, 10 experiencias rurales y genuinas en Vizcaya"
 date: 2021-08-18
-coverImage: etheria_images/2021/08/cueva-pozalagua-valle-karrantza.jpg
+coverImage: etheria-images/2021/08/cueva-pozalagua-valle-karrantza.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -16,7 +16,7 @@ destino con el verde subido. Prados y bosques crean un pintoresco paisaje de cam
 sus barrios. Sigue las 10 pistas que te damos para una desconexión rural y descubre la 
 sorpresa final que te espera en el pueblo de Trucios-Turziotz. 
 
-![trucios valle de karrantza](etheria_images/2021/08/concha-centro-valle-karrantza.jpg "Trucios, en el valle de Karrantza.")
+![trucios valle de karrantza](etheria-images/2021/08/concha-centro-valle-karrantza.jpg "Trucios, en el valle de Karrantza.")
 
 En tren de vía estrecha, bus o vehículo propio, vamos en busca de un lugar secreto: el 
 vizcaíno valle de **Karrantza**. Al llegar nos espera el municipio más extenso de la 
@@ -25,7 +25,7 @@ trepando laderas arriba encontrarás un oasis verde conocido como “el valle”
 simplemente “Karrantza”. No busques esta población en el mapa, porque no existe. Sus 
 2.500 habitantes se reparten en 49 barrios de auténtica arquitectura rural. 
 
-![caserios valle de karrantza](etheria_images/2021/08/concha-centro-karrantza.jpg "Caseríos en el valle de Karrantza.")
+![caserios valle de karrantza](etheria-images/2021/08/concha-centro-karrantza.jpg "Caseríos en el valle de Karrantza.")
 
 ## Concha, el centro del valle de Karrantza
 
@@ -37,7 +37,7 @@ tres aguas para favorecer la existencia de amplias balconadas en la fachada. Goz
 las mejores vistas del anfiteatro de montañas y verdor que cierra el valle donde 
 comprobamos que esto es el auténtico turismo rural. 
 
-![cueva pozalagua en valle de karrantza](etheria_images/2021/08/cueva-pozalagua-vizcaya-683x1024.jpg "Espectaculares formaciones en la cueva de Pozalagua.")
+![cueva pozalagua en valle de karrantza](etheria-images/2021/08/cueva-pozalagua-vizcaya-683x1024.jpg "Espectaculares formaciones en la cueva de Pozalagua.")
 
 ## Cueva de Pozalagua, una puerta a Versalles
 
@@ -51,7 +51,7 @@ longitud y una bóveda que alcanza 17 metros de altura. Esta sala, por su vistos
 geológica de estalactitas y estalagmitas, se denominó Sala Versalles. Buen comienzo para 
 una aventura familiar por el valle de Karrantza. 
 
-![dolomias fuera de la cueva pozalagua](etheria_images/2021/08/dolomita-valle-karrantza-683x1024.jpg "Bonito entorno en el exterior de la cueva de Pozalagua.")
+![dolomias fuera de la cueva pozalagua](etheria-images/2021/08/dolomita-valle-karrantza-683x1024.jpg "Bonito entorno en el exterior de la cueva de Pozalagua.")
 
 ## Experiencias en la cueva y su entorno
 
@@ -71,7 +71,7 @@ causante de las singulares formaciones de la cueva, y su extracción es el prota
 del museo de la **antigua fábrica de dolomitas** que organiza también actividades para 
 los más jóvenes. 
 
-![Ermita de la Virgen del Buen Suceso valle de karrantza](etheria_images/2021/08/ermita-virgen-buen-suceso.jpg "Ermita de la Virgen del Buen Suceso en un mirador increíble.")
+![Ermita de la Virgen del Buen Suceso valle de karrantza](etheria-images/2021/08/ermita-virgen-buen-suceso.jpg "Ermita de la Virgen del Buen Suceso en un mirador increíble.")
 
 ## Ermita de la virgen del Buen Suceso, el mirador más bucólico
 
@@ -83,7 +83,7 @@ tan bonitos como el de Sopeña. Cada **18 septiembre**, cuando se celebra a la p
 del valle, la ermita y la plaza de toros aledaña al templo se alegran con el jolgorio 
 romero aderezado por experiencias gastronómicas y danzas. 
 
-![ovejas y queso amalur de vizcaya](etheria_images/2021/08/quesos-valle-karratnza.jpg "Las ovejas y el queso, elementos imprescindibles en este valle de Vizcaya.")
+![ovejas y queso amalur de vizcaya](etheria-images/2021/08/quesos-valle-karratnza.jpg "Las ovejas y el queso, elementos imprescindibles en este valle de Vizcaya.")
 
 ## Ovejas que hacen paisaje rural
 
@@ -96,7 +96,7 @@ cruda, elaborada con la tradición pastoril de hace 4.000 años, nos lleva hasta
 queso que nadie se quiere perder. Este es un motivo más que justificado para acudir al 
 valle de Karrantza. 
 
-![montes parque de armanon](etheria_images/2021/08/valle-karrantza-montanas.jpg "Montañas del Parque Natural de Armañón.")
+![montes parque de armanon](etheria-images/2021/08/valle-karrantza-montanas.jpg "Montañas del Parque Natural de Armañón.")
 
 ## Elige la montaña que más te guste
 
@@ -109,7 +109,7 @@ valle de Karrantza como desde Trucios-Turtzioz, también dentro del parque y sep
 por un cordal montañoso donde destaca en el macizo de **Los Jorrios** con sus quebrados 
 relieves, y el pico más sobresaliente, el **monte Armañón**. 
 
-![karpin fauna zoo en palacio indianos](etheria_images/2021/08/karpin-fauna-691x1024.jpg "Karpin Fauna, centro de recuperación de animales en un palacio de indianos.")
+![karpin fauna zoo en palacio indianos](etheria-images/2021/08/karpin-fauna-691x1024.jpg "Karpin Fauna, centro de recuperación de animales en un palacio de indianos.")
 
 ## Linces y panteras en el valle de Karrantza
 
@@ -123,7 +123,7 @@ o requisados por posesión ilegal despiertan la concienciación ecológica. Mien
 área de **Karpin Abentura** conduce a un viaje vertiginoso de millones de años por la 
 evolución. 
 
-![Romualdo Chavarri de la Herrera y palacios indianos](etheria_images/2021/08/casas-indianos-chavarri-karrantza.jpg "Romualdo Chavarri de la Herrera, y dos casonas de indianos.")
+![Romualdo Chavarri de la Herrera y palacios indianos](etheria-images/2021/08/casas-indianos-chavarri-karrantza.jpg "Romualdo Chavarri de la Herrera, y dos casonas de indianos.")
 
 ## Palacios y casonas de los indianos
 
@@ -138,7 +138,7 @@ Chavarri de la Herrera**. Con la fortuna que hizo en Puerto Rico favoreció que 
 de ferrocarril Bilbao-Santander pasara por el valle e incluso levantó una segunda 
 iglesia de San Andrés en el barrio de Biáñez. 
 
-![frescos en la iglesia de san andres](etheria_images/2021/08/retablo-iglesia-san-andres-683x1024.jpg "Pinturas de finales del siglo XV en la iglesia de San Andrés.")
+![frescos en la iglesia de san andres](etheria-images/2021/08/retablo-iglesia-san-andres-683x1024.jpg "Pinturas de finales del siglo XV en la iglesia de San Andrés.")
 
 ## Frescos en un panteón
 
@@ -158,7 +158,7 @@ el esfuerzo económico que los vecinos hicieron por su iglesia. Es recomendable 
 visita guiada a la vieja iglesia que te asomará, a su vez, a un museo sobre la historia 
 y valores naturales del valle. 
 
-![rutas por el valle de karrantza](etheria_images/2021/08/sendas-valle-karrantza-683x1024.jpg "Las rutas naturales son otro de los atractivos de la zona.")
+![rutas por el valle de karrantza](etheria-images/2021/08/sendas-valle-karrantza-683x1024.jpg "Las rutas naturales son otro de los atractivos de la zona.")
 
 ## Sendas por el mar
 
@@ -174,7 +174,7 @@ municipio con sus caseríos, molino, ermitas con plaza de toros aledaña, como l
 Roque, pone un magnífico broche viajero entre el encanto rural más al norte de la 
 comarca. 
 
-![pueblo vizcaya Trucios Turtzioz](etheria_images/2021/08/pueblo-trucios-turtzioz.jpg "Pueblo de Trucios-Turtzioz.")
+![pueblo vizcaya Trucios Turtzioz](etheria-images/2021/08/pueblo-trucios-turtzioz.jpg "Pueblo de Trucios-Turtzioz.")
 
 **Más rutas en el País Vasco...** 
 

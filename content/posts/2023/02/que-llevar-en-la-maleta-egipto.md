@@ -1,11 +1,11 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Egipto"
 date: 2023-02-01
-coverImage: etheria_images/2023/01/mujer-abu-simbel.jpg
+coverImage: etheria-images/2023/01/mujer-abu-simbel.jpg
 categories: 
   - que-llevar-en-la-maleta
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Los viajes tienen tres momentos: prepararlos, disfrutarlos y recordarlos. En la primera 
@@ -13,7 +13,7 @@ fase es fundamental la organización de una buena maleta con todo lo necesario p
 disfrutar después a tope del país. En este artículo contamos qué llevar en la maleta en 
 un viaje a Egipto para que no te falte de nada. 
 
-![Mujer en las Pirámides de Giza](etheria_images/2023/01/mujer-piramides-egipto.jpg "¿A que siempre has querido viajar a Egipto?")
+![Mujer en las Pirámides de Giza](etheria-images/2023/01/mujer-piramides-egipto.jpg "¿A que siempre has querido viajar a Egipto?")
 
 Egipto suele ser uno de esos destinos a los que se tienen “ganas” desde siempre, ya que 
 se muestra desde los primeros estudios de Historia como un lugar mítico donde perderse 
@@ -39,7 +39,7 @@ Aqua](https://amzn.to/3kIwSQU), que está disponible en Amazon, nos ha encantado
 modelo [Spinner](https://amzn.to/3XVfE1D) de Samsonite, que tiene una parte extensible, 
 es semirrígido y también es perfecto para una semana de viaje. 
 
-![Maletas de Eastpeak y Samsonite ideales para un viaje a Egipto](etheria_images/2023/01/egipto-maletas.jpg "Maletas de Eastpeak y Samsonite disponibles en Amazon.")
+![Maletas de Eastpeak y Samsonite ideales para un viaje a Egipto](etheria-images/2023/01/egipto-maletas.jpg "Maletas de Eastpeak y Samsonite disponibles en Amazon.")
 
 ## Qué ropa llevar a Egipto
 
@@ -53,7 +53,7 @@ suele ser mejor llevar prendas largas y finas para evitar el impacto solar. Recu
 además, que Egipto es un país musulmán, es recomendable evitar los escotes pronunciados 
 y los pantalones o faldas demasiado cortos. 
 
-![Mujer en Abu Simbel durante su viaje a Egipto](etheria_images/2023/01/mujer-abu-simbel.jpg "Las prendas de tejidos ligeros y transpirables son las mejores para las excursiones en Egipto.")
+![Mujer en Abu Simbel durante su viaje a Egipto](etheria-images/2023/01/mujer-abu-simbel.jpg "Las prendas de tejidos ligeros y transpirables son las mejores para las excursiones en Egipto.")
 
 Por las noches, para las cenas en El Cairo y en el barco puedes llevar **vestidos 
 ligeros** de verano. Eso sí, no olvides una chaqueta fina ya que en los espacios 
@@ -71,7 +71,7 @@ son una muy buena opción. También puedes optar para algunas excursiones por un
 de trekking](https://amzn.to/3kEWgHb). Para las noches, no olvides unas sandalias negras 
 con poco tacón, que te irán bien con cualquier pantalón o vestido. 
 
-![Deportivas y sandalias de trekking ideales para un viaje a Egipto](etheria_images/2023/01/egipto-calzado.jpg "Deportivas y sandalias de trekking.")
+![Deportivas y sandalias de trekking ideales para un viaje a Egipto](etheria-images/2023/01/egipto-calzado.jpg "Deportivas y sandalias de trekking.")
 
 ## Accesorios
 
@@ -81,7 +81,7 @@ muy bien una mochila pequeña y cómoda para llevar lo que necesitas en el día 
 crema solar, gorra…). En Amazon hay algunos modelos plegables como estas de [Zomake](https://amzn.to/3H33FHK) 
 disponibles en varios colores. 
 
-![Entre las cosas que llevar en la maleta en un viaje a Egipto no pueden faltar una mochila y varios foulards](etheria_images/2023/01/egipto-accesorios.jpg "Lleva siempre un pañuelo grande en tu mochila. Éstos están disponibles en Amazon.")
+![Entre las cosas que llevar en la maleta en un viaje a Egipto no pueden faltar una mochila y varios foulards](etheria-images/2023/01/egipto-accesorios.jpg "Lleva siempre un pañuelo grande en tu mochila. Éstos están disponibles en Amazon.")
 
 En Egipto te será muy útil tener siempre a mano un **pañuelo grande o foulard**. Si 
 estás en El Cairo y vas a entrar a una mezquita, te vendrá muy bien para cubrirte, y 
@@ -107,7 +107,7 @@ con la que puedes seguir usando el móvil aunque lo lleve incorporado. También 
 práctico un trípode, el de [Atumtek](https://amzn.to/3wBVD46) es además palo selfie, 
 ocupa muy poco espacio y tiene mando a distancia. 
 
-![Batería portátil para móvil y trípode-palo de selfie, esenciales para un viaje a Egipto](etheria_images/2023/01/egipto-gadgets.jpg "Batería portátil para móvil y trípode-palo de selfie.")
+![Batería portátil para móvil y trípode-palo de selfie, esenciales para un viaje a Egipto](etheria-images/2023/01/egipto-gadgets.jpg "Batería portátil para móvil y trípode-palo de selfie.")
 
 Pero si eres de los que disfrutan haciendo buenas fotos, Egipto es uno de los mejores 
 destinos donde llevar tu cámara, siempre en una buena funda para protegerla del polvo. 
@@ -135,7 +135,7 @@ Para un itinerario de una semana puedes olvidar los botes grandes, utiliza unos 
 de viaje de silicona](https://amzn.to/408A6xu) para ahorrar espacio (y que se pueden 
 llevar en cabina si eres capaz de apañarte con un trolley). 
 
-![Productos de © The Body Shop de pequeño tamaño.](etheria_images/2023/01/egipto-body-shop.jpg "Productos de © The Body Shop de pequeño tamaño.")
+![Productos de © The Body Shop de pequeño tamaño.](etheria-images/2023/01/egipto-body-shop.jpg "Productos de © The Body Shop de pequeño tamaño.")
 
 También puedes utilizar alguno de los productos de The Body Shop, perfectos para viajar 
 por su tamaño y por sus aromas. Nos encantan sus _body butter_, como la de [Amabilidad & 
@@ -158,7 +158,7 @@ gastrointestinal. Medicinas como Almax, Fortasec o suero en polvo para diluir pu
 ayudarte a superar el mal trago. En cualquier caso, sé muy cuidadosa con las comidas y 
 sobre todo con el agua (en especial con el hielo). 
 
-![botiquín de viaje y compeed](etheria_images/2023/01/egipto-botiquin.jpg "En un viaje a Egipto no puede faltar el botiquín.")
+![botiquín de viaje y compeed](etheria-images/2023/01/egipto-botiquin.jpg "En un viaje a Egipto no puede faltar el botiquín.")
 
 Tampoco pueden faltar unas gasas, suero en monodosis y tiritas. Es muy recomendable 
 llevar unas [Compeed](https://amzn.to/3www7NB) para las ampollas, que pueden arruinarte 
@@ -174,7 +174,7 @@ online en una web del [Ministerio de Asuntos
 Exteriores](https://www.visa2egypt.gov.eg/eVisa/Home) de Egipto (si eliges esta vía hay 
 que solicitarlo al menos una semana antes de viajar). 
 
-![Guías de viaje de Egipto.](etheria_images/2023/01/Egipto-guias-viaje-850x469.jpg "Guías de viaje de Egipto.")
+![Guías de viaje de Egipto.](etheria-images/2023/01/Egipto-guias-viaje-850x469.jpg "Guías de viaje de Egipto.")
 
 Egipto es uno de esos destinos donde merece la pena documentarse y leer sobre el destino 
 antes de viajar, ya que es tanta la información histórica que vas a recibir durante el 
@@ -202,7 +202,7 @@ si usas el enlace anterior, por ser **lector/a de ETHERIA MAGAZINE**. Puedes ele
 entre un seguro para este viaje en concreto o **uno ANUAL**, que te saldrá a cuenta si 
 realizas más de un viaje al año. 
 
-![Libras egipcias.](etheria_images/2023/01/egipto-libras.jpg "Libras egipcias.")
+![Libras egipcias.](etheria-images/2023/01/egipto-libras.jpg "Libras egipcias.")
 
 La moneda es la **libra egipcia**. No hace falta que cambies dinero en España, podrás 
 hacerlo al llegar en las casas de cambio, hoteles y sacar de cajeros automáticos. Aunque 

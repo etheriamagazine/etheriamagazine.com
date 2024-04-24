@@ -1,19 +1,19 @@
 ---
 title: "Qué comer en Bruselas, productos y experiencias originales"
 date: 2022-03-29
-coverImage: etheria_images/2022/03/cerveza-bruselas.jpg
+coverImage: etheria-images/2022/03/cerveza-bruselas.jpg
 categories: 
   - viajes-con-amigas
   - organiza-tu-viaje
   - viaje-en-familia
   - mejores-restaurantes-gastronomia
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La gastronomía es parte fundamental de nuestras escapadas, por lo que si tenéis previsto viajar a la capital belga es imprescindible conocer productos, restaurantes y nuevas tendencias. Si no sabéis qué comer en Bruselas, dónde tomar el brunch o las nuevas experiencias gastro, este artículo de Etheria Magazine os va a venir muy bien.
 
-![tres jovenes beben cerveza en bruselas](etheria_images/2022/03/cerveza-bruselas.jpg "La cerveza, la reina de las bebidas en Bruselas.")
+![tres jovenes beben cerveza en bruselas](etheria-images/2022/03/cerveza-bruselas.jpg "La cerveza, la reina de las bebidas en Bruselas.")
 
 Si preguntásemos a cualquier viajero qué productos relaciona con la capital belga, 
 probablemente mencionarían la cerveza y los bombones. Y es cierto, son dos elementos 
@@ -33,7 +33,7 @@ internacionales como la Unesco y la guía Michelin. Sin embargo, más allá de l
 galardones, sois vosotras mismas quienes debéis puntuar cuánto os gusta cada uno de sus 
 productos y recetas. 
 
-![una mujer sonrie con una tableta de chocolate tapando la cara](etheria_images/2022/03/chocolate-bruselas.jpg "El chocolate belga es irresistible.")
+![una mujer sonrie con una tableta de chocolate tapando la cara](etheria-images/2022/03/chocolate-bruselas.jpg "El chocolate belga es irresistible.")
 
 ### 1\. El chocolate, degustaciones y talleres
 
@@ -50,7 +50,7 @@ Gerbaud](https://www.chocolatsgerbaud.be/workshop/) en su establecimiento (adult
 €; niños, 15 €). Lo hemos hecho y es muy recomendable (probad a ponerle sal a los 
 bombones). 
 
-![maestra chocolatera rellenando bombonera](etheria_images/2022/03/bombones-bruselas-683x1024.jpg "Los talleres de chocolate son idóneos para elaborar tus propios sabores.")
+![maestra chocolatera rellenando bombonera](etheria-images/2022/03/bombones-bruselas-683x1024.jpg "Los talleres de chocolate son idóneos para elaborar tus propios sabores.")
 
 En Laurent Gerbaud podrás comprar ricos bombones y chocolates pero también puedes 
 hacerlo en las preciosas **Galerías Reales de Saint Hubert** donde hay tiendas de 
@@ -71,7 +71,7 @@ cerveza](https://es.conceptchocolate.eu/en-IRS.gov/visitas-talleres-presentaci%C
 que se ofrece en la tienda-boutique de **Concept Chocolate** (también organizan otro 
 tipo de talleres). Os sorprenderá. 
 
-![tres jóvenes se toman un gofre en bruselas](etheria_images/2022/03/gofre-Grand-Place-bruselas.jpg "Un gofre para llevar y ¡a disfrutar de la ciudad!")
+![tres jóvenes se toman un gofre en bruselas](etheria-images/2022/03/gofre-Grand-Place-bruselas.jpg "Un gofre para llevar y ¡a disfrutar de la ciudad!")
 
 ### 2\. Gofres, el fast food más dulce
 
@@ -84,7 +84,7 @@ Dandoy](https://maisondandoy.com/), que se encuentra en la cubierta acristalada 
 Galerías Reales. Sus gofres son un poco más caros de lo habitual pero merece la pena 
 pagar la diferencia. 
 
-![cervezas belgas en botella y una copa](etheria_images/2022/03/cerveza-belga.jpg "Una cata de cervezas es una actividad imprescindible en Bruselas.")
+![cervezas belgas en botella y una copa](etheria-images/2022/03/cerveza-belga.jpg "Una cata de cervezas es una actividad imprescindible en Bruselas.")
 
 ### 3\. La cerveza es cosa de mujeres
 
@@ -106,7 +106,7 @@ relajante en el [Good Beer Spa](https://goodbeerspa.com/)? Consiste en un baño 
 en cerveza con barra libre (el grifo está junto a la cuba) para hidratarse a gusto. Si 
 vais cuatro personas, la experiencia saldría por un total de 199 €. 
 
-![dos cucuruchos de patatas fritas con mayones](etheria_images/2022/03/patatas-fritas-bruselas.jpg "Un cucurucho de patatas fritas con mayonesa, un placer de dioses.")
+![dos cucuruchos de patatas fritas con mayones](etheria-images/2022/03/patatas-fritas-bruselas.jpg "Un cucurucho de patatas fritas con mayonesa, un placer de dioses.")
 
 ### 4\. Patatas fritas, para disfrutar como niñas
 
@@ -119,7 +119,7 @@ y en algunos puestos tendréis hasta treinta opciones entre las que elegir.
 ? La importancia que se da a las patatas fritas es de tal nivel que incluso cuentan con 
 su propio museo, [Home Frit' Home](http://www.homefrithome.com/). 
 
-![mejillones y patatas fritas algo que hay que comer en Bruselas](etheria_images/2022/03/mejillones-patatas-fritas-belgica.jpg "Mejillones y patatas fritas, una combinación perfecta.")
+![mejillones y patatas fritas algo que hay que comer en Bruselas](etheria-images/2022/03/mejillones-patatas-fritas-belgica.jpg "Mejillones y patatas fritas, una combinación perfecta.")
 
 ### 5\. Mejillones, el plato más típico de Bruselas
 
@@ -133,7 +133,7 @@ estofado de ternera.
 Café](http://www.grimbergencafe.be/en/cafe) donde degustar este manjar en un ambiente de 
 otra época. 
 
-![plato de carne con salsa del restaurante barge](etheria_images/2022/03/barge-que-comer-bruselas.jpg "Restaurante Barge. © Equinox Light Photo")
+![plato de carne con salsa del restaurante barge](etheria-images/2022/03/barge-que-comer-bruselas.jpg "Restaurante Barge. © Equinox Light Photo")
 
 ## Tomar el brunch en Bruselas
 
@@ -148,7 +148,7 @@ elegantes en cafés y hoteles como The Avenue by Barsey (domingo), Café Wiltche
 recreo (domingos), La Fabricca, que incluso tiene animación (domingos); y La Tricoterie, 
 con espectáculo infantil (domingos de septiembre a abril). 
 
-![distintas imágenes del tranvía gastronómico de Bruselas](etheria_images/2022/03/tranvia-gastro-bruselas.jpg "Comer en un tranvía, una experiencia muy original en Bruselas.")
+![distintas imágenes del tranvía gastronómico de Bruselas](etheria-images/2022/03/tranvia-gastro-bruselas.jpg "Comer en un tranvía, una experiencia muy original en Bruselas.")
 
 ## Comer en un tranvía, una experiencia muy top
 

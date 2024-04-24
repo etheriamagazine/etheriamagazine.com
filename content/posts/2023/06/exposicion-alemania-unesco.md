@@ -1,12 +1,12 @@
 ---
 title: "Sumérgete en el Patrimonio Unesco de Alemania sin salir de Madrid"
 date: 2023-06-07
-coverImage: etheria_images/2023/06/patrimonio-unesco-Wartburg.jpg
+coverImage: etheria-images/2023/06/patrimonio-unesco-Wartburg.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Alemania da para mucho y tiene tantos atractivos que la Unesco ha reconocido 51 de ellos 
@@ -15,7 +15,7 @@ en colaboración con el Instituto Goethe, ha organizado una exposición interact
 inmersiva que te lleva a algunos de los más llamativos a través de cuatro rutas. Después 
 ya sólo queda visitar este maravilloso país al que querrás volver una y otra vez. 
 
-![Exposición interactiva sobre el Patrimonio de la Humanidad por la Unesco de Alemania.](etheria_images/2023/06/exposicion-instituto-goethe-alemania.jpg "Exposición interactiva sobre el Patrimonio de la Humanidad por la Unesco de Alemania. © ONAT")
+![Exposición interactiva sobre el Patrimonio de la Humanidad por la Unesco de Alemania.](etheria-images/2023/06/exposicion-instituto-goethe-alemania.jpg "Exposición interactiva sobre el Patrimonio de la Humanidad por la Unesco de Alemania. © ONAT")
 
 Los más de dos mil años de historia de Alemania se reflejan en sus 51 lugares declarados 
 Patrimonio de la Humanidad por la Unesco, que la convierten en el tercer lugar del mundo 
@@ -45,7 +45,7 @@ más grande de Europa. Desde aquí pasamos a descubrir parte del importante patr
 religioso de Alemania en lugares como la catedral de Santa María de Hildesheim, la 
 abadía de Corvey o las antiguas **ciudades catedralicias**: Espira, Worms y Maguncia. 
 
-![Cuevas de Fohlenhaus.](etheria_images/2023/06/Patrimonio-unesco-Fohlenhaus.jpg "Cuevas de Fohlenhaus. © DZT/Ben Wiesenfarth")
+![Cuevas de Fohlenhaus.](etheria-images/2023/06/Patrimonio-unesco-Fohlenhaus.jpg "Cuevas de Fohlenhaus. © DZT/Ben Wiesenfarth")
 
 ## Ruta costera
 
@@ -58,7 +58,7 @@ animado puerto y su increíble arquitectura. Y, entre los parajes naturales, no 
 perderse el Parque Nacional Jasmund, en la isla de Rügen, ni el mar de Wadden, con su 
 singular ecosistema. 
 
-![Lübeck](etheria_images/2023/06/patrimonio-humanidad-Lübeck.jpg "Lübeck. © Olaf Malzahn")
+![Lübeck](etheria-images/2023/06/patrimonio-humanidad-Lübeck.jpg "Lübeck. © Olaf Malzahn")
 
 ## Patrimonio industrial
 
@@ -69,7 +69,7 @@ Dot Design Museum** diseñado por Norman Foster que se encuentra en **Zollverein
 también se pueden encontrar lugares tan curiosos como una piscina pública dentro de una 
 mina de carbón. 
 
-![Espectáculo de luces en Zollverein.](etheria_images/2023/06/patrimonio-unesco-Zollverein.jpg "Espectáculo de luces en Zollverein. © Stiftung Zollverein/Jochen Tack")
+![Espectáculo de luces en Zollverein.](etheria-images/2023/06/patrimonio-unesco-Zollverein.jpg "Espectáculo de luces en Zollverein. © Stiftung Zollverein/Jochen Tack")
 
 ## Itinerario cultural
 
@@ -80,7 +80,7 @@ con mayor densidad de bares del país. Tampoco podían faltar el **castillo de W
 donde Lutero tradujo en Nuevo Testamento del griego al alemán, o la **Ópera de los 
 Margraves** en Bayreuth. 
 
-![Vistas desde el castillo de Wartburg sobre los bosques de Turingia](etheria_images/2023/06/patrimonio-unesco-Wartburg.jpg "Vistas desde el castillo de Wartburg sobre los bosques de Turingia. © Francesco Carovillano")
+![Vistas desde el castillo de Wartburg sobre los bosques de Turingia](etheria-images/2023/06/patrimonio-unesco-Wartburg.jpg "Vistas desde el castillo de Wartburg sobre los bosques de Turingia. © Francesco Carovillano")
 
 ✅ **Exposición “Viaje inmersivo: Una exposición experiencial por el Patrimonio Unesco en 
 Alemania”** Dónde: Instituto Goethe. Calle Zurbarán, 21. Madrid. Horario: lunes a 

@@ -1,19 +1,19 @@
 ---
 title: "Qué ver en Meteora: 6 monasterios que tocan el cielo griego"
 date: 2019-09-30
-coverImage: etheria_images/2019/09/visitas-templos-meteora.jpg
+coverImage: etheria-images/2019/09/visitas-templos-meteora.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Elena Ortega
 ---
 
 En el corazón de Grecia, la planicie de Tesalia es irrumpida por cientos de rocas de arenisca. En sus cimas, a más de 500 metros de altura, varios monasterios del siglo XIV acarician el cielo armonizando el poder de la naturaleza con el del hombre. Nos encontramos en Meteora, un pedacito de la Grecia más abrumadora e irreal.
 
-![Monasterio en Meteora](etheria_images/2019/09/visitas-templos-meteora-900x595.jpg "Monasterio de Roussanou.")
+![Monasterio en Meteora](etheria-images/2019/09/visitas-templos-meteora-900x595.jpg "Monasterio de Roussanou.")
 
 En el siglo XI, varios monjes ermitaños que buscaban sentirse más cerca de Dios, se 
 instalaron en cuevas. El lugar elegido no podía ser más peculiar: las cimas de unas 
@@ -34,7 +34,7 @@ Patrimonio de la Humanidad por la Unesco en el año 1988. Otro factor que ha inf
 mucho en su reciente crecimiento turístico es su aparición en la aclamada serie _**Juego 
 de Tronos**_ como escenario para recrear el **Nido de Águilas**. 
 
-![Paisaje de Juego de Tronos](etheria_images/2019/09/nido-aguilas-juego-tronos-900x683.jpg "Recreación del Nido del Águilas en Juego de Tronos. ©GOT")
+![Paisaje de Juego de Tronos](etheria-images/2019/09/nido-aguilas-juego-tronos-900x683.jpg "Recreación del Nido del Águilas en Juego de Tronos. ©GOT")
 
 ## Dónde está Meteora
 
@@ -52,7 +52,7 @@ erosión de agentes geológicos pudo tallar estos pináculos grises.
 > En este paisaje nos sentimos invadidos por el misticismo y la inspiración, pero sobre 
 > todo por la suerte de poder presenciar un lugar tan hipnótico. 
 
-![Naturaleza en Meteora](etheria_images/2019/09/atardecer-meteora-grecia-900x600.jpg "Entorno natural de Meteora.")
+![Naturaleza en Meteora](etheria-images/2019/09/atardecer-meteora-grecia-900x600.jpg "Entorno natural de Meteora.")
 
 ## Qué ver en Meteora en dos días: monasterios imprescindibles
 
@@ -73,7 +73,7 @@ Para acceder al monasterio más próximo al pueblo de Kastraki es necesario subi
 empinadas y agotadoras escaleras de piedra. Cuenta con tres plantas y varias iglesias en 
 su interior. 
 
-![Subida a un templo de Meteora](etheria_images/2019/09/subir-escaleras-templos-meteora-el-carito-900x600.jpg "Escaleras interminables para acceder a los monasterios. © ElCarito")
+![Subida a un templo de Meteora](etheria-images/2019/09/subir-escaleras-templos-meteora-el-carito-900x600.jpg "Escaleras interminables para acceder a los monasterios. © ElCarito")
 
 ### Monasterio Megalo Meteoro, el imprescindible de Meteora
 
@@ -92,7 +92,7 @@ Meteora. En Megalo Meteoro también podemos ver una reproducción de las distint
 dependencias de los monasterios, una biblioteca y la zona de polea por la que subían los 
 suministros. 
 
-![Monasterio sobre las rocas](etheria_images/2019/09/que-ver-templos-meteora-varlaam-900x593.jpg "Monasterio de Varlaám.")
+![Monasterio sobre las rocas](etheria-images/2019/09/que-ver-templos-meteora-varlaam-900x593.jpg "Monasterio de Varlaám.")
 
 ### Monasterio Varlaam
 
@@ -101,7 +101,7 @@ metros de altura**. Fue construido sobre las ruinas de una pequeña iglesia y de
 nombre al primer monje ermitaño que hizo del emplazamiento su hogar. Unos 195 escalones 
 nos llevan a su entrada, a 373 metros de altura. 
 
-![Pajaros hacia un monasterio](etheria_images/2019/09/que-ver-meteora-etheria-magazine-templo-900x551.jpg "Monasterio de Roussanou.")
+![Pajaros hacia un monasterio](etheria-images/2019/09/que-ver-meteora-etheria-magazine-templo-900x551.jpg "Monasterio de Roussanou.")
 
 ### Monasterio de Roussanou
 
@@ -111,7 +111,7 @@ edificado sobre las ruinas de otro monasterio y en su interior se puede visitar 
 museo, una iglesia y una terraza. Roussanou parece esculpido en la propia roca que 
 limita su tamaño como si fuera una prolongación del pináculo. 
 
-![Monasterio de la Santísima Trinidad](etheria_images/2019/09/meteora-etheria-magazine-900x600.jpg "Monasterio de la Santísima Trinidad.")
+![Monasterio de la Santísima Trinidad](etheria-images/2019/09/meteora-etheria-magazine-900x600.jpg "Monasterio de la Santísima Trinidad.")
 
 ### Monasterio de la Santísima Trinidad
 
@@ -121,7 +121,7 @@ bastante complicado llegar. Desafiando a la gravedad, disfruta de unas maravillo
 vistas a las montañas, a la llanura de Tesalia y a los monasterios de Raussanou, Varlaám 
 y Meteoro. 
 
-![Monasterio sobre la roca](etheria_images/2019/09/monasterio-Agios-Stefanos-900x600.jpg "Monasterio de San Esteban. © OT Kalambaka")
+![Monasterio sobre la roca](etheria-images/2019/09/monasterio-Agios-Stefanos-900x600.jpg "Monasterio de San Esteban. © OT Kalambaka")
 
 ### Monasterio de San Esteban
 
@@ -129,7 +129,7 @@ Al mismo nivel de la carretera y tras cruzar un puente de ocho metros, llegamos 
 monasterio de San Esteban, el más fácil de visitar. Cuenta con una bonita iglesia que 
 tuvo que ser reconstruida en el siglo XVIII. 
 
-![paisaje natural al atardecer](etheria_images/2019/09/templos-meteora-atardecer-lorenzo-spoleti--900x487.jpg "Atardecer en Meteora.")
+![paisaje natural al atardecer](etheria-images/2019/09/templos-meteora-atardecer-lorenzo-spoleti--900x487.jpg "Atardecer en Meteora.")
 
 ## La magia de Meteora
 
@@ -159,7 +159,7 @@ Una vez en Kalambaka, si no se dispone de coche, es posible llegar hasta el mona
 de la Santísima Trinidad andando, durante 50 minutos, por empinados caminos. La manera 
 más cómoda y común de hacerlo es contratando un tour organizado. 
 
-![](etheria_images/2019/09/meteora-monasterios.jpg "Paisaje de Meteora.")
+![](etheria-images/2019/09/meteora-monasterios.jpg "Paisaje de Meteora.")
 
 ##### Dónde dormir
 

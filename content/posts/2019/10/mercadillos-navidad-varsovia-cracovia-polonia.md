@@ -1,19 +1,19 @@
 ---
 title: "Mercadillos navideños de Varsovia y Cracovia, un viaje a la magia de la Navidad"
 date: 2019-10-30
-coverImage: etheria_images/2019/10/polonia-luces-fuente-navidad-varsovia.jpg
+coverImage: etheria-images/2019/10/polonia-luces-fuente-navidad-varsovia.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - de-un-vistazo
   - viajes-para-mujeres
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Vivir la Navidad y los mercadillos navideños en Polonia es extraordinario porque el pueblo polaco ha mantenido sus tradiciones, y se vuelca en cada detalle. Sigue leyendo para conocer las claves para visitar los mercadillos navideños de Varsovia y Cracovia (del 26 de noviembre al 2 de enero), y para averiguar decenas de curiosidades que enriquecerán tu viaje.
 
-![adornos mercadillo navideno de varsovia](etheria_images/2019/10/navidad-varsovia-adornos-900x631.jpg "Adornos en Varsovia. ©Manena Munar")
+![adornos mercadillo navideno de varsovia](etheria-images/2019/10/navidad-varsovia-adornos-900x631.jpg "Adornos en Varsovia. ©Manena Munar")
 
 ## Mercadillos navideños de Varsovia
 
@@ -26,7 +26,7 @@ adornos, compite en altura la columna de Segismundo III alzándose imponente al 
 Castillo Real. Las luces del abeto se encienden, como el resto de la iluminación 
 navideña, a finales de noviembre. 
 
-![Plaza del Castillo de Varsovia con el abeto de Navidad](etheria_images/2019/10/plaza-castillo-Varsovia-navidad-900x633.jpg "Plaza del Castillo de Varsovia con el abeto de Navidad. © M.M.")
+![Plaza del Castillo de Varsovia con el abeto de Navidad](etheria-images/2019/10/plaza-castillo-Varsovia-navidad-900x633.jpg "Plaza del Castillo de Varsovia con el abeto de Navidad. © M.M.")
 
 ### Árbol, San Nicolás y cena, en este orden
 
@@ -54,7 +54,7 @@ velada del 24 en Polonia es noche de vigilia, que culmina con la **Misa del gall
 cuando se entonan los entrañables _kolendy_ (villancicos) mientras, puertas afuera, no 
 cesa de nevar. 
 
-![mercadillo navidad varsovia](etheria_images/2019/10/navidad-varsovia-mercado-Plaza-del-Mercado-900x638.jpg "Bonita entrada de una vivienda de la Plaza del Mercado de Varsovia. ©M.M.")
+![mercadillo navidad varsovia](etheria-images/2019/10/navidad-varsovia-mercado-Plaza-del-Mercado-900x638.jpg "Bonita entrada de una vivienda de la Plaza del Mercado de Varsovia. ©M.M.")
 
 ## Varsovia se vuelca en la Navidad
 
@@ -70,7 +70,7 @@ _(Glühwein_) y la salchicha polaca (_Kielbasa_ ) –que se asa en la parilla de
 casetas– entrar en el más auténtico **cuento navideño que es la Ciudad Vieja en 
 diciembre**. 
 
-![decoracion navidena, navidad varsovia, mercadilos de varsovia](etheria_images/2019/10/decoracion-navidad-Varsovia-900x612.jpg "Creativas decoraciones navideñas en las calles Nowy Swiat y Krakowskie Przedmiescie de Varsovia. © M.M.")
+![decoracion navidena, navidad varsovia, mercadilos de varsovia](etheria-images/2019/10/decoracion-navidad-Varsovia-900x612.jpg "Creativas decoraciones navideñas en las calles Nowy Swiat y Krakowskie Przedmiescie de Varsovia. © M.M.")
 
 Pasear por sus calles barrocas, observar a la gente patinando sobre hielo en la pista 
 que se improvisa en la **Plaza del Mercado**, para luego **recorrer los muchos 
@@ -88,7 +88,7 @@ navideños se escuchan en cada rincón de la Ciudad Vieja, en las iglesias y col
 Sentidos y muy hermosos, su punto álgido lo tienen en los conciertos de villancicos que 
 celebra la Filarmónica de Varsovia. 
 
-![mercadillo navidad varsovia, que ver mercadillos polonia](etheria_images/2019/10/mercadillo-navidad-cracovia-1-900x649.jpg "Puesto del mercadillo de la Plaza del Mercado de Varsovia. ©M.M.")
+![mercadillo navidad varsovia, que ver mercadillos polonia](etheria-images/2019/10/mercadillo-navidad-cracovia-1-900x649.jpg "Puesto del mercadillo de la Plaza del Mercado de Varsovia. ©M.M.")
 
 ### El mercado de Jarmark Swiateczny Warszawa
 
@@ -100,7 +100,7 @@ puestecillos donde degustar deliciosos bocados de carne asada, salchichas o _pie
 las legendarias, empanadillas, o disfrutar de la artesanía polaca en muchos de los 
 detalles que allí se venden. 
 
-![mercadillo navidad varsovia](etheria_images/2019/10/mercadillo-navidad-Ciudad-Vieja-Varsovia-900x599.jpg "Puesto del mercadillo navideño de la Ciudad Vieja de Varsovia. ©M.M.")
+![mercadillo navidad varsovia](etheria-images/2019/10/mercadillo-navidad-Ciudad-Vieja-Varsovia-900x599.jpg "Puesto del mercadillo navideño de la Ciudad Vieja de Varsovia. ©M.M.")
 
 ### Parque de Lazienki
 
@@ -114,7 +114,7 @@ visita real será el **Palacio de Wilanów**, residencia veraniega del rey Juan 
 Sobieski, situada al sudeste de Varsovia, que engalana sus jardines con proyecciones 
 animadas en 3D. 
 
-![navidad varsovia, navidad parque lazienki](etheria_images/2019/10/Figurines-de-hierro-Parque-Lazienki-900x642.jpg "Figurines de hierro estilo siglo XIX en el Parque Lazienki. ©M.M.")
+![navidad varsovia, navidad parque lazienki](etheria-images/2019/10/Figurines-de-hierro-Parque-Lazienki-900x642.jpg "Figurines de hierro estilo siglo XIX en el Parque Lazienki. ©M.M.")
 
 ## Mercadillo navideño de Cracovia
 
@@ -126,7 +126,7 @@ letras polacas, son algunos de los monumentos que rodean a la plaza bordeada por
 mansiones barrocas, entre las que galopan las calesas vestidas para la ocasión. Hasta 
 sus caballos llevan pompones rojos en las orejas. 
 
-![navidad cracovia, villancicos cracovia polonia](etheria_images/2019/10/mercadillos-navidad-concierto-cracovia-900x610.jpg "Concierto de Villancicos en la basílica de Santa María de Cracovia. ©M.M.")
+![navidad cracovia, villancicos cracovia polonia](etheria-images/2019/10/mercadillos-navidad-concierto-cracovia-900x610.jpg "Concierto de Villancicos en la basílica de Santa María de Cracovia. ©M.M.")
 
 En Navidad, la plaza se llena de **casetas de madera y barriles gigantescos** de los que 
 brota el imprescindible vino caliente para lidiar con los copos de nieve que empiezan a 
@@ -137,13 +137,13 @@ aquellos otros de ámbar, o la cerámica en la que destacan los tonos azules y r
 cristal tallado y las bolas de Navidad de ese vidrio soplado que aún cuenta con 
 artesanos en Polonia. 
 
-![Mercado navideño de Cracovia.](etheria_images/2019/10/Casetas-del-Mercadillo-de-Navidad-de-plaza-mercado-Cracovia-900x625.jpg "Mercado navideño de Cracovia. ©M.M.")
+![Mercado navideño de Cracovia.](etheria-images/2019/10/Casetas-del-Mercadillo-de-Navidad-de-plaza-mercado-Cracovia-900x625.jpg "Mercado navideño de Cracovia. ©M.M.")
 
 Entrar en la Lonja de los Paños, repleta de casetas góticas que albergan bellos 
 productos artesanales, es una vuelta al pasado, de cuando Cracovia era la capital de 
 Polonia y su Castillo de Wawel, mirando el río Vístula, la residencia de los reyes. 
 
-![mercadillo cracovia, vino caliente, barril gigante](etheria_images/2019/10/mercadillo-cracovia-Barril-vino-caliente-900x654.jpg "Barril de vino caliente en Cracovia. ©M.M.")
+![mercadillo cracovia, vino caliente, barril gigante](etheria-images/2019/10/mercadillo-cracovia-Barril-vino-caliente-900x654.jpg "Barril de vino caliente en Cracovia. ©M.M.")
 
 ### Vendedores de los Tatra
 
@@ -156,7 +156,7 @@ en los que al árbol de Navidad lo alumbraban velas auténticas y a la misa del 
 llegaba en trineos, única forma de transporte entre las nevadas carreteras de montaña de 
 Zakopane, capital de los Tatra. 
 
-![musico tatra, mercadillo navidad, mercadillo cracovia](etheria_images/2019/10/musicos-tatra-mercado-cracovia-900x624.jpg "Músicos de los Tatra en el Mercadillo de Navidad de Cracovia en la Plaza del Mercado. ©M.M.")
+![musico tatra, mercadillo navidad, mercadillo cracovia](etheria-images/2019/10/musicos-tatra-mercado-cracovia-900x624.jpg "Músicos de los Tatra en el Mercadillo de Navidad de Cracovia en la Plaza del Mercado. ©M.M.")
 
 ## Concurso de belenes cracovianos
 
@@ -166,7 +166,7 @@ el Concurso de Belenes que se viene celebrando desde hace ochenta años. Los por
 montañeros, parando sus quehaceres durante el invierno, comenzaron a construir belenes, 
 _Szkopka,_ que bajaban a vender a Cracovia en Navidad. 
 
-![concurso belenes cracovia, patrimonio inmaterial unesco](etheria_images/2019/10/concurso-belenes-unesco-cracovia-900x619.jpg "Concurso de belenes de Cracovia. © M.M.")
+![concurso belenes cracovia, patrimonio inmaterial unesco](etheria-images/2019/10/concurso-belenes-unesco-cracovia-900x619.jpg "Concurso de belenes de Cracovia. © M.M.")
 
 En 1937 se decidió hacer de esa hermosa tradición un concurso que valorara aquellas 
 piezas de arte, trabajadas al detalle y que cada diciembre se exponían en la **Lonja de 
@@ -187,7 +187,7 @@ venerable anciano que remata la cúpula redonda de su maravilloso belén o el ni
 echándole unas gotas de pegamento al dragón Smok que se quiere escapar de su teatrillo. 
 La obra ganadora pasará a formar parte del Museo Histórico de la Ciudad. 
 
-![Concurso de belenes mercadillos navidenos de Varsovia y Cracovia](etheria_images/2019/10/concurso-belenes-plaza-mercado-cracovia-900x312.jpg "Concurso de belenes de Cracovia. © M.M.")
+![Concurso de belenes mercadillos navidenos de Varsovia y Cracovia](etheria-images/2019/10/concurso-belenes-plaza-mercado-cracovia-900x312.jpg "Concurso de belenes de Cracovia. © M.M.")
 
 Los belenes de Cracovia fueron declarados **Patrimonio Inmaterial de la Unesco** el 28 
 de noviembre de 2018. El remate de una Navidad sin igual sería asistir al **Concierto de 

@@ -1,18 +1,18 @@
 ---
 title: "Las Arenas Balneario Resort, un hotel de lujo en Valencia hecho para disfrutar"
 date: 2021-04-08
-coverImage: etheria_images/2021/04/hotel-las-arenas-piscina.jpg
+coverImage: etheria-images/2021/04/hotel-las-arenas-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Nos encantan los hoteles que justifican en sí mismos una escapada y un buen representante es Las Arenas Balneario Resort. Este hotel de lujo en Valencia hace todavía más apetecible una visita a esta ciudad llena de alicientes y perfecta para recorrer en pareja o con amigas. ¿Te vienes?
 
-![hoteles de lujo en Valencia](etheria_images/2021/04/hotel-las-arenas-noche.jpg "Las Arenas Balneario Resort.")
+![hoteles de lujo en Valencia](etheria-images/2021/04/hotel-las-arenas-noche.jpg "Las Arenas Balneario Resort.")
 
 Se puede visitar una ciudad de muchas formas, y Valencia tiene tantas facetas que 
 disfrutar de ella en un fin de semana o un puente se hace muy fácil: museos singulares, 
@@ -28,7 +28,7 @@ perfecta, y lo descubrirás en su decoración y en sus agradables terrazas y jar
 por si fuera poco, también es un **balneario**, con el plus que eso significa de 
 descanso y mimos para el cuerpo. 
 
-![hoteles de lujo en Valencia](etheria_images/2021/04/hotel-las-arenas-piscina.jpg "Piscina de Las Arenas Balneario Resort.")
+![hoteles de lujo en Valencia](etheria-images/2021/04/hotel-las-arenas-piscina.jpg "Piscina de Las Arenas Balneario Resort.")
 
 ## Las habitaciones
 
@@ -40,7 +40,7 @@ Lujo**: carta de almohadas, desayuno en la habitación, albornoz, prensa diaria,
 despertador, wifi gratis, cafetera de cápsulas, bañera y ducha independientes, y espejo 
 de maquillaje, entre otras muchas. 
 
-![Hoteles de lujo en Valencia](etheria_images/2021/04/hotel-las-arenas-habitacion.jpg "Habitación Deluxe con terraza con vistas al mar.")
+![Hoteles de lujo en Valencia](etheria-images/2021/04/hotel-las-arenas-habitacion.jpg "Habitación Deluxe con terraza con vistas al mar.")
 
 Este hotel de lujo en Valencia cuenta con 236 habitaciones de nueve categorías 
 distintas: **Classic** y **Triple Classic**, con vistas a la ciudad; **Deluxe**, con una 
@@ -53,7 +53,7 @@ Arenas** y **Suite Malvarrosa**. El lujo en estas dos últimas estancias cobra s
 más amplio en sus 110 metros cuadrados, 'amenities' de Bulgary, terraza privada con 
 vistas y bañeras de hidromasaje. 
 
-![hoteles de lujo en Valencia](etheria_images/2021/04/hotel-las-arenas-suite.jpg "Salón de la Suite Mare Nostrum.")
+![hoteles de lujo en Valencia](etheria-images/2021/04/hotel-las-arenas-suite.jpg "Salón de la Suite Mare Nostrum.")
 
 Las habitaciones Executive disponen además de un recorrido de bienestar en el spa (por 
 persona) y un 5% de descuento en tratamientos de spa y restauración. Y en todas las 
@@ -73,7 +73,7 @@ coca de verduras escalibadas hasta tapas, pastas y platos ligeros. No te pierdas
 _Pochas con cardos, alcachofas y ajos tiernos_ o las _Patatas bravas con espuma de 
 alioli_. Y si hace buen tiempo, aprovecha y reserva la mesa en la terraza. 
 
-![hoteles de lujo en Valencia](etheria_images/2021/04/hotel-las-arenas-restaurante-sorolla.jpg "La Brasserie Sorolla.")
+![hoteles de lujo en Valencia](etheria-images/2021/04/hotel-las-arenas-restaurante-sorolla.jpg "La Brasserie Sorolla.")
 
 La otra opción para los almuerzos, a la que seguro que no puedes resistirte si acudes en 
 verano al hotel, es el **Blue Pool Bar & Restaurant**. Aquí podrás degustar tanto algo 
@@ -91,7 +91,7 @@ activa, la fuente de hielo, la ducha de aromaterapia… Además, cuenta con zona
 exterior, alternando zonas de luz con otras más tenues. En los días con buen tiempo no 
 podrás resistirte a su solárium al aire libre. 
 
-![balnearios en Valencia](etheria_images/2021/04/hotel-las-arenas-spa-exterior.jpg "Zona exterior del spa.")
+![balnearios en Valencia](etheria-images/2021/04/hotel-las-arenas-spa-exterior.jpg "Zona exterior del spa.")
 
 En el spa también se puede disfrutar de **tratamientos de belleza** en sus cabinas. 
 Aromaterapia, masajes, terapias orientales, talasoterapia… te costará elegir una sola 
@@ -112,7 +112,7 @@ encontrarás excusa para dedicar un rato de tu escapada a hacer deporte! Para po
 punto tienes a tu disposición un entrenador personal con el que seguir el entrenamiento 
 que tú elijas, incluidas disciplinas como yoga o pilates. 
 
-![deporte en Valencia](etheria_images/2021/04/hotel-las-arenas-gimnasio.jpg "Gimnasio de Las Arenas Balneario Resort.")
+![deporte en Valencia](etheria-images/2021/04/hotel-las-arenas-gimnasio.jpg "Gimnasio de Las Arenas Balneario Resort.")
 
 [Las Arenas Balneario Resort.](https://www.hotelvalencialasarenas.com) Calle Eugenia 
 Viñes, 22-24. Valencia Tel. 963 120 600 Precio habitación doble para dos personas desde 

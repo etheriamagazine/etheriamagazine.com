@@ -1,13 +1,13 @@
 ---
 title: "Gastronomía noruega, cocineros premiados y el mejor producto"
 date: 2019-03-28
-coverImage: etheria_images/2019/03/Restaurante-Maaemo-e1552995165298.jpg
+coverImage: etheria-images/2019/03/Restaurante-Maaemo-e1552995165298.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Alfredo
+authors: 
+  - Alfredo G. Reyes
 ---
 
 Ingrid Espelid está considerada la madre de la cocina noruega y Heidi Bjerkan ha sido la 
@@ -16,7 +16,7 @@ gastronomía noruega las féminas tienen mucho que decir. Te hablaremos de cocin
 restaurantes y productos que no debes perderte. Entre ellos, el queso marrón (sí, 
 marrón). 
 
-![Mujeres en el restaurante Hall Toll de Noruega](etheria_images/2019/03/gastronomia-noruega.jpg "Restaurante Hall Toll, Stavanger. © CH/ visitnorway.com")
+![Mujeres en el restaurante Hall Toll de Noruega](etheria-images/2019/03/gastronomia-noruega.jpg "Restaurante Hall Toll, Stavanger. © CH/ visitnorway.com")
 
 En agosto de 2018 falleció **Ingrid Espelid Hovig**. Lo más seguro es que este nombre no 
 te suene de nada, pero conviene que sepas que a esta cocinera se la considera la madre 
@@ -42,7 +42,7 @@ importantísimo concurso internacional a la mismísima Francia. Y, además, vari
 restaurantes del país nórdico figuran de forma habitual en la lista de The World’s 50 
 Best Restaurants (los 50 mejores restaurantes del mundo). 
 
-![Heidi Bjerkan es la primera mujer noruega con una estrella Michelin](etheria_images/2019/03/Noruega-Heidi-Credo.jpg "Heidi Bjerkan es la primera mujer noruega con una estrella Michelin.")
+![Heidi Bjerkan es la primera mujer noruega con una estrella Michelin](etheria-images/2019/03/Noruega-Heidi-Credo.jpg "Heidi Bjerkan es la primera mujer noruega con una estrella Michelin.")
 
 Otra figura imprescindible en el firmamento gastronómico noruego es **Heidi Bjerkan**, 
 chef y propietaria del restaurante **Credo** (restaurantcredo.no), situado en la ciudad 
@@ -58,7 +58,7 @@ desde la edición de 2016, fundamentalmente por el buen hacer de su jefe de coci
 naturales (la traducción del nombre de este local es Madre Tierra) realiza composiciones 
 en el plato que parecen (de hecho lo son) auténticas obras de arte. 
 
-![Platos del restaurante Maaemo](etheria_images/2019/03/maaemo-Tuuka-Koski.jpg "Platos del restaurante Maaemo. © Tuuka Koski.")
+![Platos del restaurante Maaemo](etheria-images/2019/03/maaemo-Tuuka-Koski.jpg "Platos del restaurante Maaemo. © Tuuka Koski.")
 
 En Stavanger se encuentra **Sabi Omakase** (omakase.no), el templo culinario de Roger 
 Asakil Joya, un filipino establecido desde hace décadas en esa ciudad del suroeste del 
@@ -66,7 +66,7 @@ país y que elabora, a partir de los productos del mar noruego, uno de los mejor
 de toda Europa. Sentarse en la barra de este restaurante y dejarse seducir por sus 18 
 pases es una experiencia inolvidable, desde luego. 
 
-![Chef del restaurante Sabi Omakase](etheria_images/2019/03/Sami-Omakase-restaurante.jpg "Chef del (©) restaurante Sabi Omakase.")
+![Chef del restaurante Sabi Omakase](etheria-images/2019/03/Sami-Omakase-restaurante.jpg "Chef del (©) restaurante Sabi Omakase.")
 
 ## Los productos estrella de las mesas noruegas
 
@@ -81,14 +81,14 @@ suavidad de su carne, junto con la intensidad de su sabor natural lo merecen. Na
 acompañar los platos de este pescado con las salsas a base de mostaza y de hierbas, tan 
 características de la gastronomía noruega. 
 
-![Plato de salmón](etheria_images/2019/03/salmon-noruega.jpg "Plato de salmón. © Nancy Bundt/ Visit Norway.com")
+![Plato de salmón](etheria-images/2019/03/salmon-noruega.jpg "Plato de salmón. © Nancy Bundt/ Visit Norway.com")
 
 En cuanto al **bacalao**, hay que decir que aquí se consume fundamentalmente fresco. 
 Aunque también, como es obvio, se puede encontrar salado y seco, al estilo _stockfish_ 
 (_tørrfisk_) en un proceso que requiere de varios meses de curación al aire libre 
 durante la temporada más fría del año. 
 
-![Bacalao seco](etheria_images/2019/03/bacalao-noruego.jpg "Bacalao seco. © Tina Stafrèn/Visitnorway.com")
+![Bacalao seco](etheria-images/2019/03/bacalao-noruego.jpg "Bacalao seco. © Tina Stafrèn/Visitnorway.com")
 
 La estrella de los bacalaos es el **skrei**, que no es una especie diferente al conocido 
 _Gadus morhua_, sino el mismo pescado durante los meses de su reproducción: de febrero a 
@@ -103,7 +103,7 @@ marinas noruegas: el **cangrejo real**. Una especie con unas dimensiones conside
 (la envergadura de sus patas puede alcanzar 1,80 metros) y que en la mesa es una 
 auténtica _delicatesen_. Como el resto de mariscos criados o capturados en Noruega. 
 
-![Brunost, queso marrón de Noruega](etheria_images/2019/03/Brunost-queso-marron-noruega.jpg "Brunost, queso marrón de Noruega. © Cabday/Foap/Visitnorway.com")
+![Brunost, queso marrón de Noruega](etheria-images/2019/03/Brunost-queso-marron-noruega.jpg "Brunost, queso marrón de Noruega. © Cabday/Foap/Visitnorway.com")
 
 ## Otras delicias, también de tierra adentro
 
@@ -128,7 +128,7 @@ restricciones respecto a su captura y por obvios escrúpulos conservacionistas. 
 conviene aclarar que este animal supuso, durante siglos, la única fuente de proteínas 
 animales para la población noruega. 
 
-![mujeres comprando en el Mercado de Mathallen, en Oslo.](etheria_images/2019/03/Vulkanfisk-mercado-noruega.jpg "Mercado de Mathallen, en Oslo. CH/ Visitnorway.com")
+![mujeres comprando en el Mercado de Mathallen, en Oslo.](etheria-images/2019/03/Vulkanfisk-mercado-noruega.jpg "Mercado de Mathallen, en Oslo. CH/ Visitnorway.com")
 
 ## Una gastronomía muy natural
 

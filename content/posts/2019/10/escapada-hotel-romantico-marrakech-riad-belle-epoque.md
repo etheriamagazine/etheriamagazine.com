@@ -1,14 +1,14 @@
 ---
 title: "Disfruta de una escapada en pareja al 'Riad Belle Epoque' de Marrakech"
 date: 2019-10-15
-coverImage: etheria_images/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel.jpg
+coverImage: etheria-images/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-romanticos
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Una de las mejores opciones de alojamiento para una escapada romántica es un riad en 
@@ -16,7 +16,7 @@ Marrakech, y si lo haces en el Riad Belle Epoque le sumas un espacio exclusivo d
 cada rincón ha sido cuidado con mimo. Te sentirás como en un capítulo de _Las mil y una 
 noches_. 
 
-![Patio del Riad Belle Epoque](etheria_images/2019/10/Riad-De-La-Belle-Epoque-patio-900x599.jpg "Patio interior del Riad Belle Epoque.")
+![Patio del Riad Belle Epoque](etheria-images/2019/10/Riad-De-La-Belle-Epoque-patio-900x599.jpg "Patio interior del Riad Belle Epoque.")
 
 La medina de Marrakech está llena de secretos bien guardados entre sus estrechas e 
 intrincadas callejuelas. Uno de ellos es el **Riad Belle Epoque,** que parece un lugar 
@@ -28,7 +28,7 @@ el gusto por la vida y el placer de la _Belle Époque_. Esto se refleja en su de
 (que mezcla piezas de este estilo con otras tradicionales de la cultura marroquí) y en 
 conseguir un edén perfecto para el descanso y el disfrute de los sentidos. 
 
-![Ventana y escalera del Riad Belle Epoque](etheria_images/2019/10/Riad-De-La-Belle-Epoque-decoracion-900x659.jpg "Detalles de decoración del Riad Belle Epoque.")
+![Ventana y escalera del Riad Belle Epoque](etheria-images/2019/10/Riad-De-La-Belle-Epoque-decoracion-900x659.jpg "Detalles de decoración del Riad Belle Epoque.")
 
 Los dueños del hotel, una pareja española, han puesto todo su empeño en combinar la 
 dirección profesional bajo estándares españoles con la colaboración de un equipo 
@@ -43,7 +43,7 @@ diferentes y **reciben el nombre de una mujer que refleja el estilo de la Belle
 Époque**: Coco Chanel, Isadora Duncan, Mata Hari, La Bella Otero, Karen Blixen, Anita 
 Delgado y Josephine Baker. 
 
-![Habitación Cocó Chanel.](etheria_images/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel-900x599.jpg "Habitación Cocó Chanel.")
+![Habitación Cocó Chanel.](etheria-images/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel-900x599.jpg "Habitación Cocó Chanel.")
 
 En su decoración se combina el estilo _Art Decó_ con los objetos tradicionales 
 marroquíes. Como es habitual en los riads, las habitaciones están orientadas hacia el 
@@ -52,7 +52,7 @@ cierta penumbra para mantener una temperatura agradable en los cálidos días es
 Marrakech (aunque todas tienen aire acondicionado). Además, disponen de conexión wifi y 
 todo tipo de _amenities_ en el baño. 
 
-![baño del Riad Belle Epoque](etheria_images/2019/10/Riad-De-La-Belle-Epoque-bano-900x599.jpg "Decoración marroquí en uno de los baños.")
+![baño del Riad Belle Epoque](etheria-images/2019/10/Riad-De-La-Belle-Epoque-bano-900x599.jpg "Decoración marroquí en uno de los baños.")
 
 ## Servicios del hotel
 
@@ -61,7 +61,7 @@ Podrás pasar un rato de paz absoluta en su patio-jardín frente a la **piscina*
 su salón con chimenea bien en la zona _chill out_. Y para contemplar las bonitas vistas 
 de los tejados de Marrakech, nada mejor que su **terraza**. 
 
-![Tumbonas en la terraza del Riad Belle Epoque](etheria_images/2019/10/Riad-De-La-Belle-Epoque-terraza-900x599.jpg "Terraza del Riad.")
+![Tumbonas en la terraza del Riad Belle Epoque](etheria-images/2019/10/Riad-De-La-Belle-Epoque-terraza-900x599.jpg "Terraza del Riad.")
 
 Además, disfrutaras de unos exquisitos desayunos realizados con productos locales y de 
 la mejor **gastronomía marroquí** en forma de cuscús, tajin o brochetas. Ten en cuenta 
@@ -80,7 +80,7 @@ llevarán a la **plaza de Jemaa el Fna**, centro de la vida de la ciudad. No dej
 tomar un café o un té en alguna de sus terrazas y deleitarte con el trasiego de 
 comerciantes, encantadores de serpientes y curiosos. 
 
-![Minarete de la mezquita de la Koutoubia.](etheria_images/2019/10/Riad-de-la-belle-epoque-koutoubia-900x600.jpg "Minarete de la mezquita de la Koutoubia.")
+![Minarete de la mezquita de la Koutoubia.](etheria-images/2019/10/Riad-de-la-belle-epoque-koutoubia-900x600.jpg "Minarete de la mezquita de la Koutoubia.")
 
 Otras visitas imprescindibles en la ciudad son el **Jardín Majorelle** (que fue 
 propiedad de Ives Saint Laurent) donde se sitúa también el Museo de Arte Islámico, las 

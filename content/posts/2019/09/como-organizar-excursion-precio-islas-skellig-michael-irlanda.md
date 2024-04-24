@@ -1,19 +1,19 @@
 ---
 title: "Islas Skellig, el enigmático escenario de Star Wars en Irlanda"
 date: 2019-09-05
-coverImage: etheria_images/2019/09/sendero-Skellig-Michael.jpg
+coverImage: etheria-images/2019/09/sendero-Skellig-Michael.jpg
 categories: 
   - viajes-cine
   - viajes-con-amigas
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Skellig Michael, una de las islas Skellig, saltó a la fama por ser escenario de Star 
 Wars pero ya había sido protegida por la Unesco. En este artículo te contamos todos los 
 datos prácticos que necesitas para visitar esta isla irlandesa tan poco conocida. 
 
-![Escalera de piedra en la isla de Skellig Michael](etheria_images/2019/09/viaje-irlanda-Skellig-Michael-ultimo-tramo.jpg "600 peldaños separan la base del islote del monasterio. ©PG")
+![Escalera de piedra en la isla de Skellig Michael](etheria-images/2019/09/viaje-irlanda-Skellig-Michael-ultimo-tramo.jpg "600 peldaños separan la base del islote del monasterio. ©PG")
 
 Kerry es uno de los condados irlandeses donde parece haberse instalado la magia, con sus 
 bonitos pueblos de casas de colores, bosques donde el musgo se extiende a sus anchas y 
@@ -25,7 +25,7 @@ declaró en 1996 Patrimonio de la Humanidad, y **LucasFilms**, la productora de 
 Eso no quiere decir que antes no se hubiese alabado su singular paisaje en libros y 
 pergaminos. ¿Nos acompañas a conocer las islas Skellig? 
 
-![Barcos en el puerto de Potmagee, de donde parten para la isla de Skellig Michael.](etheria_images/2019/09/viaje-irlanda-Pormagee-puerto.jpg "De Potmagee salen los barcos a Skellig Michael. ©PG")
+![Barcos en el puerto de Potmagee, de donde parten para la isla de Skellig Michael.](etheria-images/2019/09/viaje-irlanda-Pormagee-puerto.jpg "De Potmagee salen los barcos a Skellig Michael. ©PG")
 
 ## Las islas Skellig
 
@@ -36,7 +36,7 @@ Esas pequeñas motas blancas que divisarás a lo lejos –y que se asemejan a co
 nieve– cuando navegues, no son otra cosa que casi 60.000 alcatraces posados en la oscura 
 roca. Aseguran que esta es la segunda colonia de estas aves en el mundo. 
 
-![Desde Skellig Michael se divisa Little Skellig.](etheria_images/2019/09/viaje-irlanda-dos-islas-Skellig.jpg "Desde Skellig Michael se divisa Little Skellig. ©PG")
+![Desde Skellig Michael se divisa Little Skellig.](etheria-images/2019/09/viaje-irlanda-dos-islas-Skellig.jpg "Desde Skellig Michael se divisa Little Skellig. ©PG")
 
 A sólo un kilómetro y medio de este picacho empinado y con aristas, se alza otro mucho 
 mayor. Es Great Skellig, más conocido como **Skellig Michael**. Es más elevado, ya que 
@@ -53,7 +53,7 @@ la gran pantalla que haya puesto en el mapa a **Skellig Michael.** La masificaci
 este caso, no es un problema en sí mismo porque está limitado el número de visitantes 
 que pueden pisar la isla, pero es cierto que obliga a reservar con antelación. 
 
-![Sendero entre nieblas que lleva a la cima de la montaña.](etheria_images/2019/09/sendero-Skellig-Michael.jpg "Hay que tener precaución porque el sendero transcurre junto al acantilado. ©PG")
+![Sendero entre nieblas que lleva a la cima de la montaña.](etheria-images/2019/09/sendero-Skellig-Michael.jpg "Hay que tener precaución porque el sendero transcurre junto al acantilado. ©PG")
 
 ### Un monasterio Patrimonio de la Humanidad
 
@@ -66,7 +66,7 @@ excavaron en la roca. Estos monjes decidieron llevar una vida contemplativa y de
 de vida sencilla y de ejercicio diario, ya que se veían obligados a bajar diariamente a 
 pescar y a buscar agua. 
 
-![Celdas de los monjes del monasterio y refugio de Luke Skywalker.](etheria_images/2019/09/chozos-piedra-monasterio-Skellig-Michael.jpg "Celdas de los monjes del monasterio y refugio de Luke Skywalker. ©PG")
+![Celdas de los monjes del monasterio y refugio de Luke Skywalker.](etheria-images/2019/09/chozos-piedra-monasterio-Skellig-Michael.jpg "Celdas de los monjes del monasterio y refugio de Luke Skywalker. ©PG")
 
 Este conjunto monástico, formado por celdas, oratorio e iglesia, es el más espectacular 
 de origen medieval de Irlanda, y por ello fue reconocido –y con razón– **Patrimonio de 
@@ -75,7 +75,7 @@ se puede ver Little Skellig. Puedes pasear libremente entre los chozos de piedra
 y salir de los mismos. En temporada alta suele haber un guía turístico que explica todo 
 lo relacionado con el monasterio. 
 
-![Restos del monasterio del siglo VI.](etheria_images/2019/09/irlanda-Skellig-Michael-Ruinas-Monasterio.jpg "Restos del monasterio del siglo VI. ©PG")
+![Restos del monasterio del siglo VI.](etheria-images/2019/09/irlanda-Skellig-Michael-Ruinas-Monasterio.jpg "Restos del monasterio del siglo VI. ©PG")
 
 ### El paraíso de los frailecillos
 
@@ -86,7 +86,7 @@ que hay más de 4.000) que anidan por todos los lados, y las pardelas pichonetas
 característico graznido... Ojo con hacer ostentación del bocadillo si no quieres que 
 venga alguna gaviota y te lo robe (a nosotras nos sucedió). 
 
-![En Skellig Michael viven más de 4.000 frailecillos.](etheria_images/2019/09/viaje-irlanda-Skellig-Michael-frailecillo.jpg "En Skellig Michael viven más de 4.000 frailecillos. ©PG")
+![En Skellig Michael viven más de 4.000 frailecillos.](etheria-images/2019/09/viaje-irlanda-Skellig-Michael-frailecillo.jpg "En Skellig Michael viven más de 4.000 frailecillos. ©PG")
 
 ### Skellig Michael, escenario de StarWars
 
@@ -99,14 +99,14 @@ esta última, se pueden reconocer perfectamente los chozos circulares de piedra 
 de paisajes de acantilados. Un _photocall_ habitual es la figura de piedra donde Rey 
 entrenaba, que se puede ver a la derecha de la escalinata de subida al monasterio. 
 
-![Escena de la película Rogue One.](etheria_images/2019/09/rey-skellig-michael-900x543.jpg "©LucasFilm.")
+![Escena de la película Rogue One.](etheria-images/2019/09/rey-skellig-michael-900x543.jpg "©LucasFilm.")
 
 Otras zonas de los condados de Cork y de Kerry también aparecen en el último filme, ya 
 que el equipo se quedó totalmente prendado por la belleza del condado. La acogida 
 irlandesa del equipo de LucasFilm fue tan espectacular en la zona que, una vez terminado 
 el rodaje, publicaron ocho anuncios de agradecimiento en los periódicos locales. 
 
-![Paisaje envuelto en niebla de Skellig Michael.](etheria_images/2019/09/irlanda-paisaje-Skellig-Michael.jpg "Paisaje envuelto en niebla de Skellig Michael. ©PG")
+![Paisaje envuelto en niebla de Skellig Michael.](etheria-images/2019/09/irlanda-paisaje-Skellig-Michael.jpg "Paisaje envuelto en niebla de Skellig Michael. ©PG")
 
 Merece la pena visitar Skellig Michael, pero insistimos en que reserves con antelación y 
 que cuentes con la posibilidad de no poder salir de puerto o si sales de la 
@@ -136,7 +136,7 @@ Island**, que está frente a Portmagee, donde se encuentra el centro de visitant
 islas Skellig, y además está unida por un puente a Irlanda (por lo tanto, la 
 meteorología no impide la visita). 
 
-![Plato de salmón y mejillones del Restaurante The Butler Arms.](etheria_images/2019/09/restaurante-the-butler-arms.jpg "Restaurante The Butler Arms.")
+![Plato de salmón y mejillones del Restaurante The Butler Arms.](etheria-images/2019/09/restaurante-the-butler-arms.jpg "Restaurante The Butler Arms.")
 
 ### Dónde comer
 

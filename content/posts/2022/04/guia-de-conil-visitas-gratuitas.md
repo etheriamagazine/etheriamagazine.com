@@ -1,19 +1,19 @@
 ---
 title: "15 visitas que hacer en Conil y ninguna es una playa"
 date: 2022-04-13
-coverImage: etheria_images/2022/04/puerto-pesquero-conil.jpg
+coverImage: etheria-images/2022/04/puerto-pesquero-conil.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Algo más de veinte mil habitantes, un núcleo que irradia luz con su blancura, una gastronomía que atrapa y muchos rincones donde perderse, además de unas playas de infarto, son la carta de presentación de este municipio gaditano. Si aún no lo conoces, este listado de visitas imprescindibles que hacer en Conil te vendrá de maravilla.
 
-![Monumento a los Jabigueros en Conil de la Frontera](etheria_images/2022/04/escultura-jabigueros-conil.jpg "Monumento a los Jabigueros, junto al mirador de la Fontanilla. © Pepa G.")
+![Monumento a los Jabigueros en Conil de la Frontera](etheria-images/2022/04/escultura-jabigueros-conil.jpg "Monumento a los Jabigueros, junto al mirador de la Fontanilla. © Pepa G.")
 
 A Conil de la Frontera se acude por sus playas pero se regresa por muchos más motivos: 
 su exquisita gastronomía, los paseos por su centro histórico, las tradiciones festivas y 
@@ -24,7 +24,7 @@ encaminas a los lugares que llevan a conocer su verdadera esencia. En este artí
 hemos elegido algunas visitas imprescindibles en Conil que te ayudarán a profundizar en 
 su historia y en su día a día. 
 
-![Paseo marítimo de Conil con un escultura de un atún en primer plano.](etheria_images/2022/04/paseo-maritimo-conil.jpg "Paseo marítimo de Conil. © Pepa G.")
+![Paseo marítimo de Conil con un escultura de un atún en primer plano.](etheria-images/2022/04/paseo-maritimo-conil.jpg "Paseo marítimo de Conil. © Pepa G.")
 
 ## Visitas imprescindibles en Conil (y gratis)
 
@@ -49,7 +49,7 @@ turística, salas de exposiciones y un mirador al que se puede subir gratuitamen
 sus casi 18 metros de altura es posible admirar una preciosa panorámica del pueblo y del 
 litoral. 
 
-![Torre de Guzmán el Bueno en Conil de la Frontera](etheria_images/2022/04/torre-guzman-bueno-conil.jpg "Torre de Guzmán el Bueno, en Conil. © Pepa G.")
+![Torre de Guzmán el Bueno en Conil de la Frontera](etheria-images/2022/04/torre-guzman-bueno-conil.jpg "Torre de Guzmán el Bueno, en Conil. © Pepa G.")
 
 ### 2\. Antigua iglesia de Santa Catalina
 
@@ -63,7 +63,7 @@ acoge conciertos. A sus pies se extiende la plaza de Santa Catalina, un espacio 
 donde descansar y en el que se sitúan mercadillos de artesanía y distintas atracciones 
 durante las fiestas o en verano. 
 
-![Iglesia-Centro Cultural de Santa Catalina entre palmeras](etheria_images/2022/04/iglesia-centro-cultural-santa-catalina.jpg "Iglesia-Centro Cultural de Santa Catalina. © Pepa García")
+![Iglesia-Centro Cultural de Santa Catalina entre palmeras](etheria-images/2022/04/iglesia-centro-cultural-santa-catalina.jpg "Iglesia-Centro Cultural de Santa Catalina. © Pepa García")
 
 ### 3\. Barrio de los Pescadores de Conil
 
@@ -76,7 +76,7 @@ ha creado un universo turístico en el que no falta de nada: tiendas de recuerdo
 pensiones, hoteles, boutiques de ropa y artesanía, cafeterías, bares, restaurantes con 
 azoteas convertidas en terrazas, marisquerías... 
 
-![Terrazas en el Barrio de los Pescadores de Conil.](etheria_images/2022/04/barrio-pescadores-conil.jpg "Calle Cádiz, en el barrio de los Pescadores de Conil. © Pepa G.")
+![Terrazas en el Barrio de los Pescadores de Conil.](etheria-images/2022/04/barrio-pescadores-conil.jpg "Calle Cádiz, en el barrio de los Pescadores de Conil. © Pepa G.")
 
 **¿Por qué es una de las visitas imprescindibles de Conil?** Porque permite conocer el 
 origen de la población, apegada a la pesca y a las famosas almadrabas. Consulta en la 
@@ -96,7 +96,7 @@ subía a los adarves para realizar la vigilancia del perímetro amurallado. Es u
 lugar para hacer fotografías o para tomar algo en las aledañas Plaza de la Villa o Plaza 
 de España, una a cada lado del arco. 
 
-![Plaza de España con la escultura dedicada a José Saramago](etheria_images/2022/04/plaza-espana-conil.jpg "Plaza de España, con el Arco de la Villa al fondo. © Pepa García")
+![Plaza de España con la escultura dedicada a José Saramago](etheria-images/2022/04/plaza-espana-conil.jpg "Plaza de España, con el Arco de la Villa al fondo. © Pepa García")
 
 ### 5\. Plazas de la Villa y de España
 
@@ -109,7 +109,7 @@ sitúa intramuros, es peatonal y cuenta con un conjunto escultórico dedicado a 
 Saramago (es una de las fotos clásicas en la plaza). Al concentrar bares, restaurantes, 
 heladerías, tiendas de souvenirs... durante la temporada alta está a rebosar. 
 
-![Distintos espacios de la plaza de la Villa de Conil](etheria_images/2022/04/plaza-villa-conil.jpg "Plaza de la Villa, en Conil de la Frontera. © P.G.M.")
+![Distintos espacios de la plaza de la Villa de Conil](etheria-images/2022/04/plaza-villa-conil.jpg "Plaza de la Villa, en Conil de la Frontera. © P.G.M.")
 
 ### 6\. Mercado de Conil
 
@@ -123,7 +123,7 @@ llegues dando un paseo, realices tus compras en el interior, y luego te quedes a
 allí mismo, en la zona de la Bodega, hay bares y restaurantes muy recomendables como 
 _Venta Pericón_. 
 
-![mercado de abastos de conil con puestos de atún, marisco y verduras](etheria_images/2022/04/mercado-conil.jpg "Mercado de abastos de Conil. © Pepa G.")
+![mercado de abastos de conil con puestos de atún, marisco y verduras](etheria-images/2022/04/mercado-conil.jpg "Mercado de abastos de Conil. © Pepa G.")
 
 ### 7\. Puerto pesquero (y mirador)
 
@@ -139,7 +139,7 @@ mismo para obtener una panorámica total del entorno y emprender la ruta de las 
 tomar algo en el **club náutico**; y comer en **_El Tergal_**, uno de los restaurantes 
 con mejor relación calidad-precio de la localidad. 
 
-![Puerto pesquero y club náutico de Conil de la Frontera](etheria_images/2022/04/puerto-pesquero-conil.jpg "Puerto pesquero y club náutico de Conil de la Frontera. © Pepa García")
+![Puerto pesquero y club náutico de Conil de la Frontera](etheria-images/2022/04/puerto-pesquero-conil.jpg "Puerto pesquero y club náutico de Conil de la Frontera. © Pepa García")
 
 ### 8\. Torre de Castilnovo y sendero botánico
 
@@ -157,7 +157,7 @@ recomendable hacer el paseo pero por la orilla del Atlántico.
 \*En el límite con Chiclana también se puede ver la Torre del Puerco, otra torre vigía 
 que permanece en pie. 
 
-![Torre de Castilnovo con vacas en primer plano.](etheria_images/2022/04/torre-castilnovo.jpg "Torre de Castilnovo, en la franja más natural de Conil. © Pepa G.")
+![Torre de Castilnovo con vacas en primer plano.](etheria-images/2022/04/torre-castilnovo.jpg "Torre de Castilnovo, en la franja más natural de Conil. © Pepa G.")
 
 ### 9\. La Chanca, entre atunes
 
@@ -172,7 +172,7 @@ grabados... en La Chanca también encontrarás salas de exposiciones, biblioteca
 patio central donde se realizan conciertos y actividades culturales. La entrada es 
 gratuita. 
 
-![La Chanca era el lugar donde se procesaba el atún de almadraba](etheria_images/2022/04/chanca-conil.jpg "La Chanca, histórica factoría donde se procesaba el atún rojo. © Pepa G.")
+![La Chanca era el lugar donde se procesaba el atún de almadraba](etheria-images/2022/04/chanca-conil.jpg "La Chanca, histórica factoría donde se procesaba el atún rojo. © Pepa G.")
 
 ### 10\. La iglesia de la patrona
 
@@ -191,7 +191,7 @@ Misericordia y la parroquia de Nuestra Señora de Fátima (en la pedanía de El 
 Si visitas Conil en septiembre, no te pierdas las Fiestas en honor de la Virgen de las 
 Virtudes. 
 
-![Iglesia de Santa Catalina con fachada de piedra ostionera](etheria_images/2022/04/iglesia-conil.jpg "Parroquia de Santa Catalina de Conil de la Frontera. © Pepa G.")
+![Iglesia de Santa Catalina con fachada de piedra ostionera](etheria-images/2022/04/iglesia-conil.jpg "Parroquia de Santa Catalina de Conil de la Frontera. © Pepa G.")
 
 ### Más visitas recomendables en Conil
 

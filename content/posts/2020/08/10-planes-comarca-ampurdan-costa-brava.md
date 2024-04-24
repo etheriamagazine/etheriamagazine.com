@@ -1,18 +1,18 @@
 ---
 title: "Empordà, busca la esencia mediterránea en la Costa Brava"
 date: 2020-08-21
-coverImage: etheria_images/2019/06/Viaje-girona-medieval-e1559737808621.jpg
+coverImage: etheria-images/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
   - experiencias-viajeras
   - de-un-vistazo
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 Hay escapadas que inspiran, y la comarca gerundense del Ampurdán (o Empordà) es perfecta para atrapar un placer ancestral, el de VIVIR. Desde la Prehistoria –pasando por el esplendor que los griegos lograron en Ampurias– hasta a la actualidad, su forma de vida es una tentadora invitación a disfrutar con todos los sentidos.
 
-![villa de Pals en girona](etheria_images/2019/06/Viaje-girona-medieval-e1559737808621.jpg "Villa medieval de Pals, en el Bajo Empordá.")
+![villa de Pals en girona](etheria-images/2019/06/Viaje-girona-medieval-e1559737808621.jpg "Villa medieval de Pals, en el Bajo Empordá.")
 
 En verano no sopla la tramontana, ese frío viento del norte que desciende de las 
 montañas, por eso el primer flechazo es inevitable que llegue de un mar calmo donde las 
@@ -31,7 +31,7 @@ kilómetro 0**, el arroz que es orgullo de los agricultores locales. Desde una m
 inicio un viaje gastronómico a través de sus elaboraciones con arroz amigo del 
 medioambiente. 
 
-![Santa Maria Basilica Castello de Empuries](etheria_images/2019/06/viaje-girona-castello-empuries.jpg "Basílica de Santa María, en Castelló d'Empuries.")
+![Santa Maria Basilica Castello de Empuries](etheria-images/2019/06/viaje-girona-castello-empuries.jpg "Basílica de Santa María, en Castelló d'Empuries.")
 
 ## Asomarse al Medievo
 
@@ -52,7 +52,7 @@ Cúria-Presó](https://www.castello.cat/museu-dhistoria-medieval-de-la-curia-pre
 continúa el paseo entre numerosos objetos históricos como las estelas funerarias 
 rescatadas del antiguo cementerio judío. 
 
-![proyecto sepia girona](etheria_images/2019/06/Viaje-girona-proyecto-sepia.jpg "Proyecto Sepia.")
+![proyecto sepia girona](etheria-images/2019/06/Viaje-girona-proyecto-sepia.jpg "Proyecto Sepia.")
 
 ## En casa de pescadores protectores
 
@@ -67,7 +67,7 @@ ejemplares de sepias y calamares, gracias a **una inolvidable experiencia ecotur
 haciéndote a la mar, como los mismos pescadores que cada día rescatan esos pequeños 
 huevos de sus redes. 
 
-![conservas anchoas soles](etheria_images/2019/06/viaje-girona-anchoas.jpg "Factoría de conservas de anchoas Solés, en L’Escala.")
+![conservas anchoas soles](etheria-images/2019/06/viaje-girona-anchoas.jpg "Factoría de conservas de anchoas Solés, en L’Escala.")
 
 ## Riqueza natural
 
@@ -86,7 +86,7 @@ espíritu marinero ante el mejor secreto de la Costa Brava: la **elaboración ar
 las anchoas** de [L’Escala](https://www.anxoves-soles.com/es/). Entonces sí podrás 
 confirmar que son de las más ricas del mundo. 
 
-![parque natural Aiguamolls](etheria_images/2019/06/viaje-girona-naturaleza.jpg "Parque Natural de Aiguamolls de l'Emporda.")
+![parque natural Aiguamolls](etheria-images/2019/06/viaje-girona-naturaleza.jpg "Parque Natural de Aiguamolls de l'Emporda.")
 
 ## Amanecer entre aves
 
@@ -100,7 +100,7 @@ que frecuentan sus diversos ambientes naturales. Disfruta con los sobrevuelos de
 pescador, descubre a la cerceta carretona, el emblema del parque natural, y, en tus 
 recorridos, lleva a mano una guía para reconocer a sus 50 especies más habituales. 
 
-![casa museo Salvador](etheria_images/2019/06/viaje-girona-casa-gaudi.jpg "Casa museo de Salvador Dalí.")
+![casa museo Salvador](etheria-images/2019/06/viaje-girona-casa-gaudi.jpg "Casa museo de Salvador Dalí.")
 
 ## Cabo de Creus, el primer rayo de sol pirenaico
 
@@ -115,7 +115,7 @@ turbulenta tramontana y el salitre. En su faro respira hondo, estás a 10 kilóm
 adentro en **el punto más oriental de la península Ibérica** y, a la vez, pisas el 
 magnífico final de la cordillera pirenaica. 
 
-![La Vinyeta ecologic vinos](etheria_images/2019/06/viaje-girona-bodegas.jpg "Vinos ecológicos de la Bodega La Vinyeta.")
+![La Vinyeta ecologic vinos](etheria-images/2019/06/viaje-girona-bodegas.jpg "Vinos ecológicos de la Bodega La Vinyeta.")
 
 ## Pícnic entre viñas con historia
 
@@ -129,7 +129,7 @@ nocturno, probar sus huevos estrellados –producidos por gallinas que viven baj
 estrellas–, dormir en el viñedo... y acaba de una manera muy chic la visita con un 
 **pícnic entre viñas**. 
 
-![Jordi Vilarrasa La Garrotxa](etheria_images/2019/06/viaje-girona-mercados.jpg "Jordi Vilarrasa vende productos de cerdo.")
+![Jordi Vilarrasa La Garrotxa](etheria-images/2019/06/viaje-girona-mercados.jpg "Jordi Vilarrasa vende productos de cerdo.")
 
 ## Un día de mercado
 
@@ -144,7 +144,7 @@ deliciosos embutidos payeses, la pasta fresca hecha en el día o un plato del me
 alguno de sus dos restaurantes. De recuerdo lleva legumbres de la tierra o algún postre 
 artesano para evocar en casa el lugar de donde viene lo que comes. 
 
-![Observatorio astronomico de Albanya](etheria_images/2019/06/viaje-girona-observar-estrellas.jpg "Observatorio astronómico de Albanya.")
+![Observatorio astronomico de Albanya](etheria-images/2019/06/viaje-girona-observar-estrellas.jpg "Observatorio astronómico de Albanya.")
 
 ## Leer el firmamento
 
@@ -159,7 +159,7 @@ primer lugar que recibió, en 2015, su reconocimiento como reserva Starlight por
 compromiso en dar a conocer el cielo estrellado aunando ciencia y turismo, gracias a la 
 astronomía, y desde el que casi puedes tocar el universo. 
 
-![Sant Cristofol de les Fonts village](etheria_images/2019/06/viaje-girona-banos-bosque.jpg "Baños de bosque.")
+![Sant Cristofol de les Fonts village](etheria-images/2019/06/viaje-girona-banos-bosque.jpg "Baños de bosque.")
 
 ## Arriésgate a darte un baño de bosque
 

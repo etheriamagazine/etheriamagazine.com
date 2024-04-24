@@ -1,20 +1,20 @@
 ---
 title: "'Hábitats', la nueva exposición de Kris Ubach"
 date: 2019-10-08
-coverImage: etheria_images/2019/10/exposicion-habitats-kris-ubach.jpg
+coverImage: etheria-images/2019/10/exposicion-habitats-kris-ubach.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La exposición _Hábitats_, de la fotoperiodista Kris Ubach, recoge flashes de vidas 
 anónimas, sin artificios, inmersas en su propio ‘hábitat’. Estos retratos componen una 
 sutil radiografía del planeta. Disfruta de estas historias cotidianas en Madrid. 
 
-![habitats, kris ubach, madrid, b the travel brand](etheria_images/2019/10/exposicion-habitats-kris-ubach-900x400.jpg "Exposición Hábitats, de Kris Ubach.")
+![habitats, kris ubach, madrid, b the travel brand](etheria-images/2019/10/exposicion-habitats-kris-ubach-900x400.jpg "Exposición Hábitats, de Kris Ubach.")
 
 Nadie mejor que Kris Ubach para recopilar esos retazos de vida anónima que componen la 
 **exposición _Hábitats_**. Esta fotoperiodista, con varios galardones internacionales, 

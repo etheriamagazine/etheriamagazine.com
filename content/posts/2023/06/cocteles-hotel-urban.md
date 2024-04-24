@@ -1,14 +1,14 @@
 ---
 title: "Cócteles de autor en el hotel Urban con Glass by Sips"
 date: 2023-06-14
-coverImage: etheria_images/2023/06/urban-glass-by-sips-bar.jpg
+coverImage: etheria-images/2023/06/urban-glass-by-sips-bar.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Etheriamagazine
+authors: 
+  - Etheria Magazine
 ---
 
 El hotel Urban presenta como parte de su oferta de ocio Glass by Sips, un espacio 
@@ -16,7 +16,7 @@ dedicado a los cócteles de autor con propuestas de lo más originales. Este es 
 más para acercarse a este singular hotel de lujo de la capital, que ya tiene en su 
 terraza de verano un importante foco de atracción de vida nocturna madrileña. 
 
-![Glass by Sips, el espacio para cócteles de autor del hotel Urban.](etheria_images/2023/06/urban-glass-by-sips-bar.jpg "Glass by Sips, el espacio para cócteles de autor del hotel Urban.")
+![Glass by Sips, el espacio para cócteles de autor del hotel Urban.](etheria-images/2023/06/urban-glass-by-sips-bar.jpg "Glass by Sips, el espacio para cócteles de autor del hotel Urban.")
 
 El hotel Urban es uno de los hoteles de lujo más emblemáticos de Madrid. Uno de sus 
 puntos fuertes siempre ha sido su apuesta por ofrecer experiencias únicas en un entorno 
@@ -46,7 +46,7 @@ suavidad contrasta con la rotundidad de sus ingredientes; el **Bloody Berry**, q
 un toque de frambuesa a la mezcla habitual; y el **Negroni**, con un destello de 
 bergamota, que se presenta acompañado de un hielo que no se derrite. 
 
-![Cócteles Bubble y Primordial en el hotel Urban](etheria_images/2023/06/urban-bubble-primordial.jpg "Cócteles Bubble y Primordial.")
+![Cócteles Bubble y Primordial en el hotel Urban](etheria-images/2023/06/urban-bubble-primordial.jpg "Cócteles Bubble y Primordial.")
 
 Entre los cócteles más novedosos, merece la pena destacar el **Bubble**, probablemente 
 el cóctel más “instagrameable” que puedas encontrar. Se sirve en dos copas, una con 
@@ -63,7 +63,7 @@ suavidad.
 Además de estas catorce composiciones, se pueden degustar grandes vinos, cavas, 
 champagnes y espirituosos. 
 
-![Cócteles Krypta y Blanc de Glass by Sips.](etheria_images/2023/06/urban-glass-by-sips-kryta-blanc.jpg "Cócteles Krypta y Blanc de Glass by Sips.")
+![Cócteles Krypta y Blanc de Glass by Sips.](etheria-images/2023/06/urban-glass-by-sips-kryta-blanc.jpg "Cócteles Krypta y Blanc de Glass by Sips.")
 
 ## Una “Drinkery House”
 
@@ -77,7 +77,7 @@ detalles de cuero y wengé. La gran barra de madera maciza es otro de los focos 
 atracción del local y permite ver de cerca cómo trabajan los mixólogos, que es todo un 
 espectáculo sobre todo cuando tienen que preparar cócteles como éstos. 
 
-![Marc Álvarez tras la barra de Glass by Sips en el hotel Urban](etheria_images/2023/06/urban-marc-alvarez.jpg "Marc Álvarez tras la barra de Glass by Sips en el hotel Urban.")
+![Marc Álvarez tras la barra de Glass by Sips en el hotel Urban](etheria-images/2023/06/urban-marc-alvarez.jpg "Marc Álvarez tras la barra de Glass by Sips en el hotel Urban.")
 
 ## La Terraza del Urban
 
@@ -90,7 +90,7 @@ Oba. Han creado para este precioso espacio la **carta De Bocado**, con opciones
 divertidas y fáciles de compartir, como "La mejor croqueta del mundo 2021" o el "Mini 
 hotdog de pulpo a feira con kimche". 
 
-![Cócteles y tapas de "Mordiscos by CEBO" en La Terraza del Urban](etheria_images/2023/06/Terraza-Urban-gastronomia.jpg "Cócteles y tapas de "Mordiscos by CEBO" en La Terraza del Urban.")
+![Cócteles y tapas de "Mordiscos by CEBO" en La Terraza del Urban](etheria-images/2023/06/Terraza-Urban-gastronomia.jpg "Cócteles y tapas de "Mordiscos by CEBO" en La Terraza del Urban.")
 
 Una propuesta gastronómica acompañada de música en directo los viernes y sábados desde 
 las 21 h hasta la medianoche, y de una coctelería de altura que también incluye 

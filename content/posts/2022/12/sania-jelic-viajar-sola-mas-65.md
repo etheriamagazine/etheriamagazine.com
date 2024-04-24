@@ -1,10 +1,10 @@
 ---
 title: "Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania Jelic"
 date: 2022-12-13
-coverImage: etheria_images/2022/12/Sania-moto.jpg
+coverImage: etheria-images/2022/12/Sania-moto.jpg
 categories: 
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -15,7 +15,7 @@ la jubilación. Pero eso no es todo, con su proyecto “Silver Sania” está de
 demostrar que los sesenta son perfectos para recorrer el planeta y disfrutar con calma 
 del placer de sumergirse en las culturas de otros países. 
 
-![Sania viajando por el mundo](etheria_images/2022/12/sania-de-viaje.jpg "Sania Jelic viajando por el mundo.")
+![Sania viajando por el mundo](etheria-images/2022/12/sania-de-viaje.jpg "Sania Jelic viajando por el mundo.")
 
 Sania Jelic es ante todo una viajera. Antes compaginaba esta pasión con sus trabajos en 
 el sector turístico en empresas e instituciones como Amadeus o la Oficina de Turismo de 
@@ -42,7 +42,7 @@ superar los miedos a viajar solas se tenga la edad que se tenga. Le damos la pal
 Sania para que nos relate en primera persona su plan de viaje que, como casi todos, 
 comienza con una idea que toma forma en el salón de casa y charlando con amigos. 
 
-![Sania en moto](etheria_images/2022/12/Sania-moto.jpg "Sania disfruta de cada viaje que hace.")
+![Sania en moto](etheria-images/2022/12/Sania-moto.jpg "Sania disfruta de cada viaje que hace.")
 
 ## El gran viaje de Sania Jelic
 
@@ -62,7 +62,7 @@ las palmaditas en la espalda con frases del tipo “bueno, ahora tienes tiempo, 
 viajar”. Eran esas palmaditas y risitas lo que me hizo tan consciente de la actitud 
 hacia los mayores. 
 
-![Sania frente a palacio de cristal](etheria_images/2022/12/Sania-lluvia.jpg "Sania está dispuesta a recorrer el mundo durante los próximos años viajando sola. Aquí en el Jardín Botánico de Curitiba.")
+![Sania frente a palacio de cristal](etheria-images/2022/12/Sania-lluvia.jpg "Sania está dispuesta a recorrer el mundo durante los próximos años viajando sola. Aquí en el Jardín Botánico de Curitiba.")
 
 Parece que las palabras “jubilación”, “mayor” o “senior” son más bien peyorativas. 
 Denominan el actual estereotipo establecido en la sociedad según el cual a las personas 
@@ -83,7 +83,7 @@ tiempo. Y, por supuesto, **¡que pueden viajar! Solas o acompañadas**; y que qu
 mundo por descubrir y mucho por aprender y aportar. Esta reflexión, junto con las 
 palmaditas, me reforzó para tomarme mi proyecto en serio. 
 
-![cataratas de Iguazú](etheria_images/2022/12/Sania-iguazu.jpg "Las cataratas de Iguazú son una de sus primeras paradas de viaje.")
+![cataratas de Iguazú](etheria-images/2022/12/Sania-iguazu.jpg "Las cataratas de Iguazú son una de sus primeras paradas de viaje.")
 
 ### El comienzo: el salón de casa
 
@@ -124,7 +124,7 @@ hacer reservas y, a la vez, me molestaba muchísimo tener que atar de una manera
 contundente mi viaje, sin saber qué lugar me gustaría más y dónde quería o no extender 
 la estancia. 
 
-![Sania Jelic en el aeropuerto](etheria_images/2022/12/Sania-aeropuerto-655x1024.jpg "¿Me acompañáis en esta aventura?")
+![Sania Jelic en el aeropuerto](etheria-images/2022/12/Sania-aeropuerto-655x1024.jpg "¿Me acompañáis en esta aventura?")
 
 ### La importancia de la logística
 

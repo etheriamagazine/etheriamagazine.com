@@ -1,13 +1,13 @@
 ---
 title: "Paraíso de los Pinos, el refugio que necesitas en Formentera"
 date: 2023-08-21
-coverImage: etheria_images/2023/08/paraiso-pinos-formentera-exterior.jpg
+coverImage: etheria-images/2023/08/paraiso-pinos-formentera-exterior.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Formentera es uno de los destinos estrella del verano y, aunque su popularidad llena la 
@@ -15,7 +15,7 @@ costa en los meses estivales, siempre se pueden buscar rincones de calma. Uno de
 es Paraíso de los Pinos, un complejo de apartamentos y villas con servicios de lujo y el 
 encanto de lo sencillo. Te sentirás como en casa. 
 
-![Paraíso de los Pinos en Formentera](etheria_images/2023/08/paraiso-pinos-formentera-exterior.jpg "Paraíso de los Pinos.")
+![Paraíso de los Pinos en Formentera](etheria-images/2023/08/paraiso-pinos-formentera-exterior.jpg "Paraíso de los Pinos.")
 
 Formentera es capaz de hacerte reconectar con lo auténtico y, a pesar de su popularidad 
 turística y de las decenas de barcos anclados frente a sus costas, guarda todavía 
@@ -28,7 +28,7 @@ buganvillas y el azul de las ventanas. El aroma a campo y la absoluta tranquilid
 esto se suma la decoración mediterránea del complejo, con toques contemporáneos y 
 colores neutros que contribuyen a la sensación de que aquí, todo está en calma. 
 
-![Recepción de Paraíso de los Pinos.](etheria_images/2023/08/paraiso-pinos-recepcion-formentera.jpg "Recepción de Paraíso de los Pinos.")
+![Recepción de Paraíso de los Pinos.](etheria-images/2023/08/paraiso-pinos-recepcion-formentera.jpg "Recepción de Paraíso de los Pinos.")
 
 ## Apartamentos y villas
 
@@ -48,7 +48,7 @@ sofá cama y cocina. Todos con las comodidades habituales de un alojamiento de e
 categoría, con aire acondicionado, ventiladores, conexión Wi-Fi y cocina totalmente 
 equipada. 
 
-![Interior de una de las Villas de Paraíso de los Pinos.](etheria_images/2023/08/formentera-paraiso-pinos-habitacion.jpg "Interior de una de las Villas de Paraíso de los Pinos.")
+![Interior de una de las Villas de Paraíso de los Pinos.](etheria-images/2023/08/formentera-paraiso-pinos-habitacion.jpg "Interior de una de las Villas de Paraíso de los Pinos.")
 
 Las **Villas** ofrecen un plus de lujo y comodidad y, sobre todo, merece la pena 
 elegirlas por su porche-jardín, que en algunas alcanza los 120 metros cuadrados y 
@@ -57,7 +57,7 @@ incluye un dormitorio, un salón comedor y un baño con vestidor. Cuentan con co
 Wi-Fi, aire acondicionado, ventilador y cocina con frigorífico, cafetera Nespresso, 
 microondas y todo lo necesario para una estancia perfecta. 
 
-![jacuzzi y solarium en una villa de Paraíso de los Pinos](etheria_images/2023/08/formentera-paraiso-pinos-terraza-villa.jpg "Terraza de una de las Villas.")
+![jacuzzi y solarium en una villa de Paraíso de los Pinos](etheria-images/2023/08/formentera-paraiso-pinos-terraza-villa.jpg "Terraza de una de las Villas.")
 
 ## Restaurante Es Mal Pas
 
@@ -69,7 +69,7 @@ noche llega el turno de las carnes y pescados a la brasa, de deliciosas ensalada
 delicados postres en un entorno íntimo y acogedor, además de bellamente decorado. Y para 
 terminar el día, ¿por qué no disfrutar de un cóctel bajo las estrellas? 
 
-![Restaurante Es Mal Pas en Formentera](etheria_images/2023/08/formentera-paraiso-pinos-restaurante.jpg "Restaurante Es Mal Pas.")
+![Restaurante Es Mal Pas en Formentera](etheria-images/2023/08/formentera-paraiso-pinos-restaurante.jpg "Restaurante Es Mal Pas.")
 
 ## Un entorno privilegiado
 
@@ -81,7 +81,7 @@ para practicar algo de deporte durante las vacaciones. También existe a disposi
 los huéspedes un **servicio de masajes** para relajarse y disfrutar aún más si cabe de 
 la maravillosa isla de Formentera. 
 
-![Piscina de Paraíso de los Pinos](etheria_images/2023/08/formentera-paraiso-pinos-piscina-restaurante.jpg "Piscina de Paraíso de los Pinos.")
+![Piscina de Paraíso de los Pinos](etheria-images/2023/08/formentera-paraiso-pinos-piscina-restaurante.jpg "Piscina de Paraíso de los Pinos.")
 
 [Paraíso de los Pinos](https://www.paraisodelospinos.com/). Urbanización Es Mal Pas. San 
 Francisco Javier, Formentera. Tel. +34 971 322 613. 

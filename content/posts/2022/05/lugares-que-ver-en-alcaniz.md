@@ -1,17 +1,17 @@
 ---
 title: "Alcañiz, rocanrol por la ciudad con las mejores curvas de Aragón"
 date: 2022-05-23
-coverImage: etheria_images/2022/05/Pueblo-Belmonte-de-San-Jose-Alcaniz.jpg
+coverImage: etheria-images/2022/05/Pueblo-Belmonte-de-San-Jose-Alcaniz.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 La fascinación que despierta Alcañiz, la capital de la comarca del Bajo Aragón, no es inventada. Por algo será que, junto a Teruel, es la única localidad de una provincia amenazada por la despoblación que atrae a más gente cada año. Sigue leyendo para saber todo lo que tienes que ver en Alcañiz, los rincones favoritos de sus vecinos, esos mismos que atraparon la mirada de Alfred Hitchcock.
 
-![Panorámica aérea del Pueblo de Belmonte de San José.](etheria_images/2022/05/Pueblo-Belmonte-de-San-Jose-Teruel.jpg "Panorámica aérea del Pueblo de Belmonte de San José.")
+![Panorámica aérea del Pueblo de Belmonte de San José.](etheria-images/2022/05/Pueblo-Belmonte-de-San-Jose-Teruel.jpg "Panorámica aérea del Pueblo de Belmonte de San José.")
 
 Es el turno de **Alcañiz**, es lo que vas a pensar cuando descubras el ambiente 
 comercial y animado que alegra las calles de esta ciudad situada en las tierras bajas 
@@ -29,7 +29,7 @@ iniciarte al _karting_, motocross y autocross.
 De todo esto y de mucho más te hablamos en este artículo donde, a través de diversas 
 paradas, conocerás todo lo que hay que ver en Alcañiz en una escapada de fin de semana. 
 
-![Patio de armas del castillo de Calatravos, en Alcañiz.](etheria_images/2022/05/Patio-de-armas-castillo-de-Calatravos-Alcaniz-683x1024.jpg "Patio de armas del castillo de Calatravos, en Alcañiz.")
+![Patio de armas del castillo de Calatravos, en Alcañiz.](etheria-images/2022/05/Patio-de-armas-castillo-de-Calatravos-Alcaniz-683x1024.jpg "Patio de armas del castillo de Calatravos, en Alcañiz.")
 
 ## Qué ver en Alcañiz, 8 secretos para descubrir
 
@@ -52,7 +52,7 @@ interior alberga una fascinante sorpresa. Basta con traspasar la bella portada r
 de la **iglesia de Santa María Magdalena** o capilla del castillo para vernos rodeadas 
 de extraordinarias pinturas murales realizadas hace 800 años. 
 
-![Patio de armas y ermita de Santa Magdalena en el castillo de Calatravos, en Alcañiz.](etheria_images/2022/05/Patio-de-armas-y-ermita-castillo-de-Calatravos-Alcaniz-683x1024.jpg "Patio de armas y ermita de Santa Magdalena en el castillo de Calatravos, en Alcañiz.")
+![Patio de armas y ermita de Santa Magdalena en el castillo de Calatravos, en Alcañiz.](etheria-images/2022/05/Patio-de-armas-y-ermita-castillo-de-Calatravos-Alcaniz-683x1024.jpg "Patio de armas y ermita de Santa Magdalena en el castillo de Calatravos, en Alcañiz.")
 
 ### 2\. La historia ante tus ojos
 
@@ -71,7 +71,7 @@ otro lugar imprescindible que hay que ver en Alcañiz. Representa una experienci
 caballo entre la creatividad y la magia, con un plus de diversión asegurada para 
 pequeños y mayores. 
 
-![Pinturas góticas del castillo de Calatravos, en Alcañiz.](etheria_images/2022/05/Pinturas-goticas-castillo-Alcaniz-683x1024.jpg "Pinturas góticas del castillo de Calatravos, en Alcañiz.")
+![Pinturas góticas del castillo de Calatravos, en Alcañiz.](etheria-images/2022/05/Pinturas-goticas-castillo-Alcaniz-683x1024.jpg "Pinturas góticas del castillo de Calatravos, en Alcañiz.")
 
 ### 3\. Alcañiz, un escenario de película
 
@@ -83,7 +83,7 @@ adquieren un dulzor, aroma y textura inolvidables. A través de una suave piel d
 pálido amarillo es posible probar una tradición agrícola que viene desde tiempos 
 medievales. 
 
-![Lonja e iglesia de Santa María, en Alcañiz.](etheria_images/2022/05/Lonja-e-iglesia-de-Santa-Maria-Alcaniz.jpg "Lonja e iglesia de Santa María, en Alcañiz.")
+![Lonja e iglesia de Santa María, en Alcañiz.](etheria-images/2022/05/Lonja-e-iglesia-de-Santa-Maria-Alcaniz.jpg "Lonja e iglesia de Santa María, en Alcañiz.")
 
 Con tan delicioso sabor desembocamos en el corazón urbano de Alcañiz: la **plaza de 
 España**. La **Casa Consistorial** y la **Lonja** crean un bellísimo rincón renacentista 
@@ -97,7 +97,7 @@ Lola](https://bar-lalola-bar.negocio.site/?utm_source=gmb&utm_medium=referral), 
 tiempo que disfrutas de su colorista y creativa gastronomía, estarás ante la misma vista 
 urbana que captó la atención del famoso cineasta. 
 
-![Casa Consitorial en la plaza de España de Alcañiz.](etheria_images/2022/05/Casa-Consitorial-Alcaniz.jpg "Casa Consitorial en la plaza de España de Alcañiz.")
+![Casa Consitorial en la plaza de España de Alcañiz.](etheria-images/2022/05/Casa-Consitorial-Alcaniz.jpg "Casa Consitorial en la plaza de España de Alcañiz.")
 
 ### 4\. Rumores de mercado en la lonja de Alcañiz
 
@@ -111,7 +111,7 @@ arcos trataban con aceite, lana, azafrán, seda en rama y trigo que dieron el es
 la ciudad. Ese trajín mercantil aún tiene huella en su ambiente urbano, ya que a la 
 ciudad es donde acuden de compras los vecinos de la comarca periódicamente. 
 
-![Pasadizos situados bajo la Lonja de Alcañiz.](etheria_images/2022/05/Pasadizos-Lonja-Alcaniz-683x1024.jpg "Pasadizos situados bajo la Lonja de Alcañiz.")
+![Pasadizos situados bajo la Lonja de Alcañiz.](etheria-images/2022/05/Pasadizos-Lonja-Alcaniz-683x1024.jpg "Pasadizos situados bajo la Lonja de Alcañiz.")
 
 #### Una bodega bajo la Lonja
 
@@ -138,7 +138,7 @@ los estucos que decoran su interior –considerados entre los mejores de Aragón
 su capilla de la Soledad, que es una réplica de la del Pilar de Zaragoza, te dejarán 
 boquiabierta ante lo que parece una catedral. 
 
-![Iglesia de Santa María, en Alcañiz.](etheria_images/2022/05/Iglesia-de-Santa-Maria-Alcaniz.jpg "Iglesia de Santa María, en Alcañiz.")
+![Iglesia de Santa María, en Alcañiz.](etheria-images/2022/05/Iglesia-de-Santa-Maria-Alcaniz.jpg "Iglesia de Santa María, en Alcañiz.")
 
 ### 6\. Ruta motera del frío
 
@@ -152,7 +152,7 @@ bóvedas de frío** rehabilitadas y accesibles, magníficamente documentadas e i
 trazan **una ruta única** a nivel europeo que ha merecido su reciente declaración como 
 Bien de Interés Cultural. 
 
-![Interior de la Bóveda de frío del pueblo de Belmonte de San José.](etheria_images/2022/05/Boveda-de-frio-Belmonte-683x1024.jpg "Bóveda de frío del pueblo de Belmonte de San José.")
+![Interior de la Bóveda de frío del pueblo de Belmonte de San José.](etheria-images/2022/05/Boveda-de-frio-Belmonte-683x1024.jpg "Bóveda de frío del pueblo de Belmonte de San José.")
 
 ### 7\. Pueblos de cuento y antidespoblación: Belmonte de San José y Aguaviva
 
@@ -175,7 +175,7 @@ procedentes de otros países interesadas en vivir en un pueblo.
 > En Aguaviva ofrecen casa y trabajo durante cinco años a aquellas familias con niños que 
 > decidan probar la vuelta al mundo rural. 
 
-![Bonita calle de Belmonte de San José.](etheria_images/2022/05/Calle-Belmonte-de-San-Jose-Teruel.jpg "Bonita calle de Belmonte de San José.")
+![Bonita calle de Belmonte de San José.](etheria-images/2022/05/Calle-Belmonte-de-San-Jose-Teruel.jpg "Bonita calle de Belmonte de San José.")
 
 ### 8\. Viajeras a la vía verde
 
@@ -185,7 +185,7 @@ comercialización de sus productos al tener acceso al mar. Hoy entre La Puebla d
 Alcañiz se ofrece un relajante paseo a pedales, de escasa dificultad, que asoma a los 
 paisajes agrícolas que tanta riqueza dieron a la ciudad. 
 
-![Indicaciones para hacer la Ruta de la Vía Verde del Zafán.](etheria_images/2022/05/Via-Verde-del-Zafan.jpg "Indicaciones para hacer la ruta de la Vía Verde del Zafán.")
+![Indicaciones para hacer la Ruta de la Vía Verde del Zafán.](etheria-images/2022/05/Via-Verde-del-Zafan.jpg "Indicaciones para hacer la ruta de la Vía Verde del Zafán.")
 
 #### Otras propuestas en Teruel...
 

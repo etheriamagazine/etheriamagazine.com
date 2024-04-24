@@ -1,19 +1,19 @@
 ---
 title: "32 excursiones de un día donde la cultura y el vino se dan la mano"
 date: 2021-04-13
-coverImage: etheria_images/2021/04/Cuevas-de-la-Villa-Requena.jpg
+coverImage: etheria-images/2021/04/Cuevas-de-la-Villa-Requena.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - planes-originales-para-mujeres
   - planes-cultura-ocio
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Descubre 32 excursiones de un día que unen monumentos y territorios vinícolas, en las que comprobarás que la cultura y el enoturismo realizan un maridaje perfecto. Sin duda, las escapadas cortas en torno a las Rutas del Vino de España son tan oxigenantes como unas vacaciones, con la ventaja de que puedes disfrutarlas cada fin de semana.
 
-![barrio bodegas baltanas excursion un dia palencia](etheria_images/2021/04/Barrio-de-bodegas-de-Baltanas-y-Torquemada.jpg "Barrio de bodegas de Baltanás (Palencia).")
+![barrio bodegas baltanas excursion un dia palencia](etheria-images/2021/04/Barrio-de-bodegas-de-Baltanas-y-Torquemada.jpg "Barrio de bodegas de Baltanás (Palencia).")
 
 Las vacaciones prolongadas forman parte del pasado, hoy día lo más habitual es 
 fragmentar nuestro ocio en escapadas cortas o excursiones de un día que aúnen cultura, 
@@ -43,7 +43,7 @@ todo merece una foto. Imposible pasar de largo frente a sus torres, castillo, mu
 puentes o molinos. Además, esta excursión de un día debe terminar en una bodega de la [Ruta 
 del Vino Arribes](https://rutadelvinoarribes.com/). 
 
-![lagares rupestres sierra francia](etheria_images/2021/04/Lagares-rupestres-sierra-francia.jpg "Lagares rupestres en la Sierra de Francia. © Óscar Checa")
+![lagares rupestres sierra francia](etheria-images/2021/04/Lagares-rupestres-sierra-francia.jpg "Lagares rupestres en la Sierra de Francia. © Óscar Checa")
 
 En la provincia de Salamanca también te proponemos una ruta campestre para descubrir los 
 **120 lagares rupestres** que se encuentran dispersos en la Sierra de Francia. Para 
@@ -53,7 +53,7 @@ piletas labradas en la roca donde se colocaba la uva antes de elaborar el vino. 
 paseo puedes continuar con alguna actividad de la [Ruta del Vino de Sierra de 
 Francia](https://rutadelvinosierradefrancia.com/). 
 
-![castillo de penafiel ruta ribera del duero](etheria_images/2021/04/Castillo-de-Penafiel-valladolid.jpg "Castillo de Peñafiel desde plaza del Coso, en la provincia de Valladolid.")
+![castillo de penafiel ruta ribera del duero](etheria-images/2021/04/Castillo-de-Penafiel-valladolid.jpg "Castillo de Peñafiel desde plaza del Coso, en la provincia de Valladolid.")
 
 ### Castillo de Peñafiel y casas-cueva de Trigueros del Valle (Valladolid)
 
@@ -81,7 +81,7 @@ entregó a los Templarios en 1178 para que protegiesen a los peregrinos del Cami
 Santiago, sirviesen a los reyes y mediaran en los enfrentamientos entre los nobles 
 gallegos y leoneses que querían dominar la comarca. 
 
-![colegiata excursion de un dia a toro](etheria_images/2021/04/Colegiata-Santa-Maria-la-Mayor-toro.jpg "Portada de la Majestad. Colegiata de Santa María la Mayor, en Toro. ©Juanjo Isidro")
+![colegiata excursion de un dia a toro](etheria-images/2021/04/Colegiata-Santa-Maria-la-Mayor-toro.jpg "Portada de la Majestad. Colegiata de Santa María la Mayor, en Toro. ©Juanjo Isidro")
 
 ### Colegiata de Toro (Zamora)
 
@@ -100,7 +100,7 @@ Castilla, Isabel La Católica, permite conocer palacios, templos, murallas y con
 Esta escapada se puede combinar con una propuesta gastronómica y una visita a alguna de 
 las bodegas de la [Ruta del Vino de Rueda](https://www.rutadelvinoderueda.com/es/). 
 
-![cuevas de la villa requena](etheria_images/2021/04/Cuevas-de-la-Villa-Requena.jpg "Cuevas de la Villa, en Requena.")
+![cuevas de la villa requena](etheria-images/2021/04/Cuevas-de-la-Villa-Requena.jpg "Cuevas de la Villa, en Requena.")
 
 ## Visitas cortas en la Comunidad Valenciana
 
@@ -115,7 +115,7 @@ elementos patrimoniales más asombrosos de la [Ruta del Vino de
 Utiel-Requena](http://www.rutavino.com/). Como el subsuelo es de toba y arcilla, fue 
 relativamente sencillo excavar cuevas en la época árabe para guardar cereales o vino. 
 
-![ermita de la Virgen de la Fuente en Muel](etheria_images/2021/04/Ermita-de-Muel-pinturas-goya.jpg "Ermita de la Virgen de la Fuente, en Muel.")
+![ermita de la Virgen de la Fuente en Muel](etheria-images/2021/04/Ermita-de-Muel-pinturas-goya.jpg "Ermita de la Virgen de la Fuente, en Muel.")
 
 ## Excursiones en Zaragoza y Huesca
 
@@ -140,7 +140,7 @@ Saliendo de la provincia de Zaragoza llegarás a Huesca, donde se sitúa la [Rut
 de Somontano](https://rutadelvinosomontano.com/) y una almazara muy curiosa: el **torno 
 de Buera**, del siglo XVIII, que ha llegado a nuestros días en un excelente estado. 
 
-![Yacimiento Arqueoloogico Cerro de las Cabezas](etheria_images/2021/04/Yacimiento-Arqueologico-Cerro-de-las-Cabezas.jpg "Centro de Interpretación del Yacimiento Arqueológico Cerro de las Cabezas. © Óscar Checa")
+![Yacimiento Arqueoloogico Cerro de las Cabezas](etheria-images/2021/04/Yacimiento-Arqueologico-Cerro-de-las-Cabezas.jpg "Centro de Interpretación del Yacimiento Arqueológico Cerro de las Cabezas. © Óscar Checa")
 
 ## Excursiones de un día en Castilla-La Mancha
 
@@ -165,7 +165,7 @@ castellana, una galería porticada con pilares de madera y una gran casa palacie
 siglo XIX. Y, por supuesto, también es un buen lugar para gozar de la buena mesa y los 
 vinos de la [Ruta del Vino de La Manchuela](https://www.rutadelvinolamanchuela.com/). 
 
-![alcazar de jerez ruta del vino](etheria_images/2021/04/excursion-Alcazar-de-Jerez.jpg "Alcázar de Jerez.")
+![alcazar de jerez ruta del vino](etheria-images/2021/04/excursion-Alcazar-de-Jerez.jpg "Alcázar de Jerez.")
 
 ## Un paseo por Andalucía y Extremadura
 
@@ -191,7 +191,7 @@ actividades de la [Ruta del Vino Ribera del
 Guadiana](https://www.rutadelvinoriberadelguadiana.com/) porque seguro que querrás 
 ampliar la estancia. 
 
-![excursion de un dia a nuevo baztan](etheria_images/2021/04/Nuevo-Baztan-Palacio-Goyeneche-madrid.jpg "Palacio Goyeneche de Nuevo Baztán (Madrid).")
+![excursion de un dia a nuevo baztan](etheria-images/2021/04/Nuevo-Baztan-Palacio-Goyeneche-madrid.jpg "Palacio Goyeneche de Nuevo Baztán (Madrid).")
 
 ## Palacio Goyeneche de Nuevo Baztán, una visita de un día en Madrid
 
@@ -205,7 +205,7 @@ desarrollan hoy las interesantísimas visitas guiadas. Este 2021 ha sido nombrad
 los [Pueblos más bonitos de 
 España](https://etheriamagazine.com/2021/01/19/ruta-por-los-11-pueblos-elegidos-como-los-mas-bonitos-de-espana-en-2021/). 
 
-![palacio real de olite navarra](etheria_images/2021/04/Palacio-de-Olite-navarra.jpg "Palacio Real de Olite (Navarra).")
+![palacio real de olite navarra](etheria-images/2021/04/Palacio-de-Olite-navarra.jpg "Palacio Real de Olite (Navarra).")
 
 ## Visitas de un día en Galicia y Navarra
 
@@ -223,7 +223,7 @@ incorporación a la Corona de Castilla en 1512. Torres, pasadizos, salas, balcon
 galerías... recorrerlo es todo un placer. Junto al mismo se sitúa el Palacio Viejo (hoy 
 un Parador de Turismo) y la iglesia gótica de Santa María. 
 
-![cueva cien pilares excursion de un dia  la rioja](etheria_images/2021/04/Cueva-de-los-Cien-Pilares-la-rioja.jpg "Cueva de los Cien Pilares (Arnedo, La Rioja).")
+![cueva cien pilares excursion de un dia  la rioja](etheria-images/2021/04/Cueva-de-los-Cien-Pilares-la-rioja.jpg "Cueva de los Cien Pilares (Arnedo, La Rioja).")
 
 ## Excursiones en La Rioja y País Vasco
 
@@ -239,7 +239,7 @@ Tirón**, en la [Ruta del Vino de Rioja Alta](https://www.rutasdelvinorioja.com/
 se remonta la Edad Media, cuando la inseguridad en los valles obligó a sus habitantes a 
 buscar refugio en lugares más protegidos. 
 
-![excursion de un dia a jumilla](etheria_images/2021/04/Castillo-jumilla.jpg "Jumilla y su castillo iluminados.")
+![excursion de un dia a jumilla](etheria-images/2021/04/Castillo-jumilla.jpg "Jumilla y su castillo iluminados.")
 
 ## Excursiones enoturísticas de un día en Murcia
 
@@ -251,7 +251,7 @@ detalles históricos relacionados con el vino. No te quedes sólo con el museo y
 catando los mejores vinos de la [Ruta del Vino de 
 Bullas](https://rvbullas.es/rutadelvino/) en otras bodegas. 
 
-![yacimiento Hisn-Yakka de Yecla](etheria_images/2021/04/Yacimiento-de-Hisn-Yakka-yecla.jpg "Yacimiento Hisn-Yakka de Yecla (Murcia).")
+![yacimiento Hisn-Yakka de Yecla](etheria-images/2021/04/Yacimiento-de-Hisn-Yakka-yecla.jpg "Yacimiento Hisn-Yakka de Yecla (Murcia).")
 
 Los amantes de la historia también disfrutarán en el **yacimiento Hisn-Yakka de Yecla**, 
 un antiguo poblado musulmán ubicado en la ladera de una montaña, que estuvo habitado 
@@ -264,7 +264,7 @@ Jumilla](http://rutadelvinojumilla.com/)). Aunque es de origen árabe, tras la
 reconstrucción de los siglos XV y XVI destacan los elementos góticos. Si subes a su 
 terraza, te sorprenderá la inmensa panorámica que obtienes. 
 
-![bodega codorniu modernismo](etheria_images/2021/04/Bodegas-modernistas-Codorniu.jpg "Bodega modernista Codorníu.")
+![bodega codorniu modernismo](etheria-images/2021/04/Bodegas-modernistas-Codorniu.jpg "Bodega modernista Codorníu.")
 
 ## Excursiones enoturísticas de un día en Cataluña
 

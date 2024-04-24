@@ -1,14 +1,14 @@
 ---
 title: "‘Nietas de la memoria’: 13 relatos de abuelas anónimas y luchadoras para inspirarnos"
 date: 2021-03-08
-coverImage: etheria_images/2021/03/Nietas-de-la-memoria-Bala-Perdida.jpg
+coverImage: etheria-images/2021/03/Nietas-de-la-memoria-Bala-Perdida.jpg
 categories: 
   - historias-en-femenino
   - libros-de-viajes
   - mujeres-etheria
   - mujeres-que-inspiran
   - planes-cultura-ocio
-author: 
+authors: 
   - Carmen Pineda
 ---
 
@@ -17,7 +17,7 @@ generación de mujeres luchadoras y silenciosas que afrontaron la posguerra con 
 dignidad que les dejaron. No se nos ocurre mejor forma de celebrar el Día de la Mujer 
 que acercar a nuestras lectoras este homenaje. 
 
-![portada libro](etheria_images/2021/03/libro-Nietas-de-la-Memoria-673x1024.jpg "Libro 'Nietas de la memoria' de la editorial Bala Perdida.")
+![portada libro](etheria-images/2021/03/libro-Nietas-de-la-Memoria-673x1024.jpg "Libro 'Nietas de la memoria' de la editorial Bala Perdida.")
 
 El libro de ensayo _Nietas de la memoria_ no habla de mujeres oficialmente relevantes de 
 la sociedad, de grandes descubridoras o de eminentes intelectuales, sino de heroínas 
@@ -43,7 +43,7 @@ al Estado, a la religión, a los guardianes de la moral y a los medios de comuni
 Pero, sin tener conciencia de ello, lucharon por esa igualdad de género que hoy 
 celebramos. 
 
-![nietas de la memoria](etheria_images/2021/03/Nietas-memoria-maria-vicenta.jpg "La periodista Sara Plaza Casares, su abuela María y su bisabuela Vicenta.")
+![nietas de la memoria](etheria-images/2021/03/Nietas-memoria-maria-vicenta.jpg "La periodista Sara Plaza Casares, su abuela María y su bisabuela Vicenta.")
 
 ## El proyecto #lasperiodistasparamos
 
@@ -65,7 +65,7 @@ quedaron en el anonimato, a pesar de haber contribuido, a su manera, a la lucha
 feminista. De esta reflexión, de las lágrimas de sus nietas recordando las historias de 
 sus abuelas nace _Nietas de la Memoria_. 
 
-![historia de las mujeres](etheria_images/2021/03/nietas-memoria-abuelas-luz-benita.jpg "Fotografías de las abuelas Luz y Benita el día de su boda.")
+![historia de las mujeres](etheria-images/2021/03/nietas-memoria-abuelas-luz-benita.jpg "Fotografías de las abuelas Luz y Benita el día de su boda.")
 
 ## 13 abuelas en la memoria, 13 vidas
 
@@ -80,7 +80,7 @@ Angelines, Luz, Lola, Benita, Vicenta, María y Coronada. La mayoría de ellas n
 y un problemas con su lucha, entereza y bravura, trabajando de sol a sombra en los 
 campos o en las ciudades. 
 
-![abuelas de la posguerra](etheria_images/2021/03/nietas-memoria-abuelas-juana-juliana.jpg "Abuelas Juana y Juliana.")
+![abuelas de la posguerra](etheria-images/2021/03/nietas-memoria-abuelas-juana-juliana.jpg "Abuelas Juana y Juliana.")
 
 ### La abuela Juliana
 
@@ -102,7 +102,7 @@ También muy conmovedora es la historia “epistolar” de la abuela **Benita** 
 a Francia siendo una niña, su madre verá asesinar a su marido y a su hermano, éste 
 simplemente por ser un joven maestro durante la República. 
 
-![nietas de la memoria](etheria_images/2021/03/nietas-memoria-lola.jpg "La periodista Noemí San Juan, nieta de Lola y Benita, y su abuela Lola.")
+![nietas de la memoria](etheria-images/2021/03/nietas-memoria-lola.jpg "La periodista Noemí San Juan, nieta de Lola y Benita, y su abuela Lola.")
 
 ### La abuela María
 
@@ -139,7 +139,7 @@ Primo de Rivera, delegada nacional de la Sección Femenina, “no eran más que 
 deseo de encontrar a quien someterse”. Debían ser esposas fieles, buenas madres y 
 proveer al Estado de patriotas. Eso o ser monja. 
 
-![historia de las mujeres](etheria_images/2021/03/nietas-memoria-cristina.jpg "La abuela Cristina de joven y sus amigas.")
+![historia de las mujeres](etheria-images/2021/03/nietas-memoria-cristina.jpg "La abuela Cristina de joven y sus amigas.")
 
 En este libro, Cristina declara haber sentido que le robaron su niñez y juventud. 
 Intentó volver a trabajar después de casarse, pero su marido se opuso. Entonces, la Ley 
@@ -168,7 +168,7 @@ en casa, muriendo en muchos casos como le pasó a la madre de la abuela Luz. **S
 desangró, dando a luz a su hijo número 16**, suceso que, indirectamente, llevó a la 
 ruina a la familia. 
 
-![nietas de la memoria](etheria_images/2021/03/nietas-memoria-coronada.jpg "La periodista Isa Gaspar y su abuela Coronada.")
+![nietas de la memoria](etheria-images/2021/03/nietas-memoria-coronada.jpg "La periodista Isa Gaspar y su abuela Coronada.")
 
 ### Un hambre feroz que llevaba a comer de todo
 
@@ -184,7 +184,7 @@ A pesar de tantas penurias, todavía, muchas de estas abuelas luchadoras encarab
 buen humor su suerte. Como la enternecedora abuela **Isabel**, que durante toda su vida 
 tuvo una sonrisa a punto. 
 
-![nietas de la memoria](etheria_images/2021/03/nietas-memoria-isabel.jpg "La periodista Isabel Donet y su abuela Isabel Vivas.")
+![nietas de la memoria](etheria-images/2021/03/nietas-memoria-isabel.jpg "La periodista Isabel Donet y su abuela Isabel Vivas.")
 
 ## ¿Quieres contar la historia de tus abuelas?
 

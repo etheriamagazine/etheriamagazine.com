@@ -1,12 +1,12 @@
 ---
 title: "8 planes de verano en Lisboa para todos los gustos"
 date: 2023-08-18
-coverImage: etheria_images/2023/08/tranvia-lisboa.jpg
+coverImage: etheria-images/2023/08/tranvia-lisboa.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Este verano, Lisboa también te espera con los brazos abiertos. Si estás buscando una 
@@ -14,7 +14,7 @@ ciudad con una mezcla de historia, cultura y buena gastronomía, la capital port
 te defraudará. Te contamos ocho planes que te llevarán a descubrir otras tantas facetas 
 de la capital del fado. 
 
-![En una escapada a Lisboa no puede faltar un paseo en tranvía.](etheria_images/2023/08/tranvia-lisboa.jpg "En una escapada a Lisboa no puede faltar un paseo en tranvía. © Aayush Gupta")
+![En una escapada a Lisboa no puede faltar un paseo en tranvía.](etheria-images/2023/08/tranvia-lisboa.jpg "En una escapada a Lisboa no puede faltar un paseo en tranvía. © Aayush Gupta")
 
 Lisboa es una de esas ciudades a las que agrada volver una y mil veces. Su arquitectura 
 permite caminar por el pasado sin darte cuenta, cada calle depara una sorpresa o un 
@@ -42,7 +42,7 @@ con las fechas de tu viaje. Más inf. en [www.lisboastorycentre.pt](https://www.
 Card](https://www.civitatis.com/es/lisboa/lisboa-card/?aid=10211). La tarjeta de 24 
 horas para adultos sale por 22 euros. 
 
-![Sala del Lisboa Story Centre.](etheria_images/2023/08/lisboa-story-center.jpg "© Lisboa Story Centre.")
+![Sala del Lisboa Story Centre.](etheria-images/2023/08/lisboa-story-center.jpg "© Lisboa Story Centre.")
 
 ## Visita el monasterio de São Vicente de Fora
 
@@ -54,7 +54,7 @@ Te aseguramos que no podrás dejar de hacer fotos en su interior.
 
 Más inf. en [mosteirodesaovicentedefora.com](https://mosteirodesaovicentedefora.com/) 
 
-![Iglesia y monasterio de São Vicente de Fora spbresalen en el perfil de Alfama.](etheria_images/2023/08/alfama-lisboa.jpg "La iglesia y el monasterio de São Vicente de Fora spbresalen en el perfil de Alfama. © Liam McKay")
+![Iglesia y monasterio de São Vicente de Fora spbresalen en el perfil de Alfama.](etheria-images/2023/08/alfama-lisboa.jpg "La iglesia y el monasterio de São Vicente de Fora spbresalen en el perfil de Alfama. © Liam McKay")
 
 ## Navega por el río Tajo
 
@@ -70,7 +70,7 @@ turísticos](https://www.civitatis.com/es/lisboa/barco-turistico-lisboa/?aid=102
 Pueden parecer experiencias muy turísticas pero realmente merecen la pena y se quedan 
 para siempre en el recuerdo. 
 
-![Crucero fluvial en Lisboa.](etheria_images/2023/08/Crucero-Fluvial-lisboa.jpg "Crucero fluvial en Lisboa.")
+![Crucero fluvial en Lisboa.](etheria-images/2023/08/Crucero-Fluvial-lisboa.jpg "Crucero fluvial en Lisboa.")
 
 ## Practica surf, vela o submarinismo
 
@@ -86,7 +86,7 @@ comer](https://etheriamagazine.com/2020/03/24/escapada-con-amigas-a-lisboa-y-eri
 horas](https://www.civitatis.com/es/lisboa/curso-surf-carcavelos/) te saldrá por unos 35 
 €. Incluye también el neopreno y la tabla. Resérvala con antelación. 
 
-![Playa de Ericeira](etheria_images/2023/08/surf-ericeira.jpg "Playa de Ericeira. © Nate Holland")
+![Playa de Ericeira](etheria-images/2023/08/surf-ericeira.jpg "Playa de Ericeira. © Nate Holland")
 
 ## Playas de ensueño a un paso
 
@@ -99,7 +99,7 @@ terrazas animadas y un gran ambiente en verano.
 ?No te pierdas: [Un fin de semana en Cascais, Sintra y 
 Estoril](https://etheriamagazine.com/2018/07/31/48-horas-en-cascais-sintra-y-estoril/). 
 
-![Atardecer en Costa da Caparica cerca de Lisboa](etheria_images/2023/08/costa-da-caparica.jpg "Costa da Caparica. © Linda Robert")
+![Atardecer en Costa da Caparica cerca de Lisboa](etheria-images/2023/08/costa-da-caparica.jpg "Costa da Caparica. © Linda Robert")
 
 ## Sumérgete en el mundo marino del Oceanário de Lisboa
 
@@ -110,7 +110,7 @@ complementan esta experiencia adecuada para todas las edades.
 
 ?Más inf. y horarios en [Oceanário de Lisboa.](https://www.oceanario.pt/) 
 
-![Oceanário de Lisboa](etheria_images/2023/08/Oceanario-Lisboa.jpg "Oceanário de Lisboa.")
+![Oceanário de Lisboa](etheria-images/2023/08/Oceanario-Lisboa.jpg "Oceanário de Lisboa.")
 
 ## Aventura extrema en Adventure Park
 
@@ -125,7 +125,7 @@ Más inf. en [Adventure Park](https://adventurepark.pt/).
 ?No te pierdas: [9 planes divertidos en el Centro de Portugal con 
 niños](https://etheriamagazine.com/2019/06/28/planes-divertidos-viajes-familia-portugal/). 
 
-![](etheria_images/2019/06/parque-aventura-figueira-da-foz-portugal.jpg)
+![](etheria-images/2019/06/parque-aventura-figueira-da-foz-portugal.jpg)
 
 ## De compras por tiendas y mercadillos
 
@@ -136,7 +136,7 @@ Y si eres más de centros comerciales, acércate al **Centro Vasco da Gama**, **
 do Chiado** o al colosal **Colombo Shopping Centre**. Ninguno de ellos te dejará 
 indiferente. 
 
-![Tienda de libros de segunda mano en Lisboa](etheria_images/2023/08/tienda-lisboa-683x1024.jpg "En las tiendas de segunda mano de Lisboa se encuentran auténticas joyas. © Jean Carlo Eme")
+![Tienda de libros de segunda mano en Lisboa](etheria-images/2023/08/tienda-lisboa-683x1024.jpg "En las tiendas de segunda mano de Lisboa se encuentran auténticas joyas. © Jean Carlo Eme")
 
 **También te puede interesar:** 
 

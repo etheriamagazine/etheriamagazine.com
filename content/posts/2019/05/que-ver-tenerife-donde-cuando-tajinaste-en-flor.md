@@ -1,11 +1,11 @@
 ---
 title: "Los tajinastes en flor, el gran espectáculo natural de Tenerife"
 date: 2019-05-14
-coverImage: etheria_images/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg
+coverImage: etheria-images/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -15,7 +15,7 @@ planta canaria que desarrolla espectaculares varas cubiertas de cientos de menud
 florecillas. A partir de mediados de mayo, como farolas rojas, marcan el paisaje 
 volcánico apuntando al cielo con sus flores. 
 
-![El bello color rosado del tajinaste en primavera.](etheria_images/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg "El bello color del tajinaste en primavera.")
+![El bello color rosado del tajinaste en primavera.](etheria-images/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg "El bello color del tajinaste en primavera.")
 
 ```
 Actualizado abril 2023
@@ -31,7 +31,7 @@ foto busca el Teide pero solo como referencia del encuadre porque ahora son esas
 silvestres florecillas las auténticas protagonistas del parque nacional más visitado de 
 Europa. 
 
-![Amanecer en el Parque Nacional del Teide.](etheria_images/2019/05/Tenerife-parque-nacional-teide-e1557138309825.jpg "Amanecer en el Parque Nacional del Teide.")
+![Amanecer en el Parque Nacional del Teide.](etheria-images/2019/05/Tenerife-parque-nacional-teide-e1557138309825.jpg "Amanecer en el Parque Nacional del Teide.")
 
 ## 1\. Los tajinastes en flor, un gran espectáculo
 
@@ -55,7 +55,7 @@ recuerdo y **una miel tan aromática y blanquecina** –casi transparente– que
 pena catar. Estás en el único sitio del mundo donde se logra este dulce néctar que goza 
 de denominación de origen. 
 
-![La belleza de los tajinastes invita a la fotografía artística.](etheria_images/2019/05/Tenerife-parque-teide-tajinaste-arte.jpg "La belleza de los tajinastes invita a la fotografía artística.")
+![La belleza de los tajinastes invita a la fotografía artística.](etheria-images/2019/05/Tenerife-parque-teide-tajinaste-arte.jpg "La belleza de los tajinastes invita a la fotografía artística.")
 
 ### El tajinaste vive dos años
 
@@ -71,7 +71,7 @@ sabrás que estás ante un **tajinastal**, un peculiar bosque donde los árboles
 enormes pirámides cubiertas de flores y el origen de una catarsis paisajística 
 irrepetible. 
 
-![Tajinastes florecidos.](etheria_images/2019/05/Tenerife-parque-teide-tajinaste-rosa-e1557138669326.jpg "Tajinastes florecidos.")
+![Tajinastes florecidos.](etheria-images/2019/05/Tenerife-parque-teide-tajinaste-rosa-e1557138669326.jpg "Tajinastes florecidos.")
 
 Esta planta conocida como “**el orgullo de Tenerife**” debe su nombre científico al 
 botánico Hermann Wildpret. Este suizo era un apasionado de la flora canaria y diseñador 
@@ -80,7 +80,7 @@ más destacada obra es el **Jardín Botánico del Puerto de La Cruz.** Un pedazo
 trópico en territorio español y, en conjunto, un ser vivo que es el artífice de uno de 
 los rincones más bellos del Atlántico. 
 
-![Misteriosas perspectivas del parque y de los tajinastes de Tenerife.](etheria_images/2019/05/Tenerife-parque-teide-1.jpg "Misteriosas perspectivas del parque y de los tajinastes de Tenerife.")
+![Misteriosas perspectivas del parque y de los tajinastes de Tenerife.](etheria-images/2019/05/Tenerife-parque-teide-1.jpg "Misteriosas perspectivas del parque y de los tajinastes de Tenerife.")
 
 ## 2\. Dónde ver los tajinastes
 
@@ -94,7 +94,7 @@ rojiza de lava solidificada en el mismo cráter del que surgió. Desde su inicio
 desnivel, la belleza de la floración y las perspectivas desde el Mirador de la Fortaleza 
 hacia el norte de la isla resultan impresionantes. 
 
-![Amanece en el P.N. del Teide.](etheria_images/2019/05/Tenerife-parque-teide-amanecer-e1557138973307.jpg "Amanece en el P.N. del Teide.")
+![Amanece en el P.N. del Teide.](etheria-images/2019/05/Tenerife-parque-teide-amanecer-e1557138973307.jpg "Amanece en el P.N. del Teide.")
 
 En los **Llanos de Ucanca**, una gran llanura de lavas claras rodeada de rocas de formas 
 singulares y tonalidades oscuras, cargada de energía espiritual, es otro de los parajes 
@@ -108,7 +108,7 @@ calles. Olvídate de llevarte una planta de tajinaste a casa, no lograrás que c
 tu jardín. Necesita un entorno natural con unas condiciones tan extraordinarias como las 
 que disfruta en las inmediaciones del Teide. 
 
-![Pinos canarios en el Parque Nacional del Teide.](etheria_images/2019/05/Tenerife-parque-teide-pinos-e1557138452730.jpg "Pinos canarios en el Parque Nacional del Teide.")
+![Pinos canarios en el Parque Nacional del Teide.](etheria-images/2019/05/Tenerife-parque-teide-pinos-e1557138452730.jpg "Pinos canarios en el Parque Nacional del Teide.")
 
 ## 3\. Cuándo ver la floración de los tajinastes de Tenerife
 
@@ -126,7 +126,7 @@ divisarás al **Pino de las dos Pernadas**, cabeza de lista de este ranking de e
 autóctonas. Admira su gruesa corteza y busca la perspectiva de sus 56 metros de altura, 
 casi el doble de lo que suele alcanzar un pino canario. 
 
-![Corona forestal del Parque Nacional del Teide](etheria_images/2019/05/Tenerife-parque-teide-paisaje-e1557138582386.jpg "Corona forestal del P.N. del Teide.")
+![Corona forestal del Parque Nacional del Teide](etheria-images/2019/05/Tenerife-parque-teide-paisaje-e1557138582386.jpg "Corona forestal del P.N. del Teide.")
 
 Otros árboles singulares de Vilaflor son los viejos cipreses de la plaza de San Pedro, 
 junto al santuario. Aunque el rincón más llamativo del municipio es su Paisaje Lunar, 
@@ -145,7 +145,7 @@ formaciones que mantienen rocas más duras al extremo de largos pináculos en un
 equilibrio. El resultado es un panorama tan singular de olas de piedra y pináculos de 
 roca que bien parece de otro planeta. 
 
-![El tajinaste torna su color de rosa a rojo a medida que madura.](etheria_images/2019/05/Tenerife-parque-teide-tajinaste-rosado-e1557140176736.jpg "El tajinaste torna su color de rosa a rojo a medida que madura.")
+![El tajinaste torna su color de rosa a rojo a medida que madura.](etheria-images/2019/05/Tenerife-parque-teide-tajinaste-rosado-e1557140176736.jpg "El tajinaste torna su color de rosa a rojo a medida que madura.")
 
 ## 4\. Prepara tu viaje a Tenerife
 

@@ -1,16 +1,16 @@
 ---
 title: "Viaje por el sur de Islandia, la isla del desafío"
 date: 2021-03-25
-coverImage: etheria_images/2018/09/PLAYA-VIK-e1562343946595.jpg
+coverImage: etheria-images/2018/09/PLAYA-VIK-e1562343946595.jpg
 categories: 
   - viajes-para-mujeres
-author: 
+authors: 
   - Kris Ubach
 ---
 
 El sur de Islandia es el más amable de los extremos de esta isla pero, aún así, supone un desafío en forma de climatología caprichosa, paisajes aislados (aislados de verdad), carreteras sin asfaltar y una naturaleza extrema que no se anda con chiquitas. ¿Preparadas para vivir un viaje de aventura?
 
-![naturaleza geología viajes](etheria_images/2018/09/Islandia-geyser-Strokkur-e1562343836861.jpg "El geyser Strokkur en la región termal de Haukadalur.")
+![naturaleza geología viajes](etheria-images/2018/09/Islandia-geyser-Strokkur-e1562343836861.jpg "El geyser Strokkur en la región termal de Haukadalur.")
 
 El título que da nombre a este reportaje no es nada casual. Y es que todo aquello que en 
 otros lugares puede parecer trivial, en Islandia se convierte en una Aventura en 
@@ -37,7 +37,7 @@ normativa que prohíbe la acampada libre en todo el país**. Era uno de los mayo
 atractivos para los aventureros más independientes que ahora deberán conformarse con 
 plantar la tienda en las zonas habilitadas para ello. 
 
-![viaje Reykjavik Islandia](etheria_images/2018/09/Reykjavik-casas-colores-e1562343861149.jpg "Casas de colores en Reykjavík.")
+![viaje Reykjavik Islandia](etheria-images/2018/09/Reykjavik-casas-colores-e1562343861149.jpg "Casas de colores en Reykjavík.")
 
 ## Herencia vikinga
 
@@ -53,7 +53,7 @@ hecha para impresionar, parece sacada de una película de Fritz Lang. Desde su t
 veremos el mar, los límites de la ciudad y ese paisaje quemado que se extiende más allá. 
 Vayamos a por él. 
 
-![Islandia  iglesia Hallgrimskirkja](etheria_images/2018/09/reykjavik-iglesia-hallgrímskirkja-e1562343883888.jpg "La iglesia Hallgrimskirkja es uno de los edificios más emblemáticos de la ciudad.")
+![Islandia  iglesia Hallgrimskirkja](etheria-images/2018/09/reykjavik-iglesia-hallgrímskirkja-e1562343883888.jpg "La iglesia Hallgrimskirkja es uno de los edificios más emblemáticos de la ciudad.")
 
 ## Parque Nacional de Thingvellir
 
@@ -72,7 +72,7 @@ cascadas idílicas que una vez sirvieron para ajusticiar a quienes cometían cr�
 serias ofensas. Hoy, en sus aguas de pasado sórdido, podemos bucear entre placas 
 continentales. 
 
-![Islandia paisaje naturaleza viajes](etheria_images/2018/09/Parque-Nacional-de-Thingvellir-e1562343899145.jpg "Parque Nacional de Thingvellir.")
+![Islandia paisaje naturaleza viajes](etheria-images/2018/09/Parque-Nacional-de-Thingvellir-e1562343899145.jpg "Parque Nacional de Thingvellir.")
 
 ## Geysir, el padre de los géiseres
 
@@ -84,7 +84,7 @@ nombre al resto de géiseres del planeta, ha llegado a expulsar agua hasta una a
 80 metros. Pasa por un período de inactividad y es su hermano menor **Strokkur** —que 
 estornuda cada 10-15 minutos— quien da más opciones fotográficas a los turistas. 
 
-![Islandia naturaleza geología viajes](etheria_images/2018/09/geyser-strokkur-e1562343915158.jpg "El geyser Strokkur en plena actividad.")
+![Islandia naturaleza geología viajes](etheria-images/2018/09/geyser-strokkur-e1562343915158.jpg "El geyser Strokkur en plena actividad.")
 
 Desde Geysir tomamos la **Ruta 1**, la carretera de circunvalación. Esta línea de 
 asfalto, aquí en el sur, **ejerce de cordón umbilical entre Reykjavík y los pueblos del 
@@ -106,7 +106,7 @@ tierra adentro para buscar aquellas cataratas que no aparecen en el Top 10. Son 
 son hermosas, son salvajes y en ellas la foto épica resulta más verosímil. (En voz baja 
 y en letra pequeña: **conviene explorar Thjofafoss, Gluggafoss o Haifoss**). 
 
-![Islandia naturaleza viaje](etheria_images/2018/09/Cascada-Seljalandsfoss-e1562343929491.jpg "La cascada Seljalandsfoss.")
+![Islandia naturaleza viaje](etheria-images/2018/09/Cascada-Seljalandsfoss-e1562343929491.jpg "La cascada Seljalandsfoss.")
 
 ## Vik y su playa de 'Juego de tronos'
 
@@ -120,7 +120,7 @@ por y para el turismo y está preparada para recibir a todos aquellos que quiera
 por los increíbles **paisajes oscuros de Reynisfjara** o hacerse fotos junto a un 
 corderito. 
 
-![Islandia naturaleza volcán](etheria_images/2018/09/PLAYA-VIK-e1562343946595.jpg "Playa de arena negra de Vík.")
+![Islandia naturaleza volcán](etheria-images/2018/09/PLAYA-VIK-e1562343946595.jpg "Playa de arena negra de Vík.")
 
 Hay hoteles-boutique, tiendas de souvenirs y varios restaurantes que en realidad no le 
 quitan ni una pizca de encanto a una localidad donde la naturaleza lo domina todo. En 
@@ -131,7 +131,7 @@ temido por los expertos**. Su eventual erupción podría causar una masiva inund
 la que, cosas de la vida, solo la iglesia de Vík —situada en lo alto de una colina— se 
 salvaría de la catástrofe. 
 
-![Naturaleza paisaje Islandia viajes](etheria_images/2018/09/Iglesia-Vik-e1562343961223.jpg "Iglesia de Vík.")
+![Naturaleza paisaje Islandia viajes](etheria-images/2018/09/Iglesia-Vik-e1562343961223.jpg "Iglesia de Vík.")
 
 ### Dudas habituales si viajas a Islandia
 

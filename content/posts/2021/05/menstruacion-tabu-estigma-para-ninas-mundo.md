@@ -1,16 +1,16 @@
 ---
 title: "Menstruar, una cuestión de derechos humanos"
 date: 2021-05-13
-coverImage: etheria_images/2021/05/higiene-menstrual-plan-internacional.jpg
+coverImage: etheria-images/2021/05/higiene-menstrual-plan-internacional.jpg
 categories: 
   - salud-bienestar-nutricion
-author: 
+authors: 
   - Maria Miret
 ---
 
 La menstruación en muchas culturas sigue siendo un tabú y/o se considera impura. Cuando una mujer tiene la regla es discriminada o se la excluye de las actividades cotidianas. Y esto ocurre a pesar de que, como WASH United recuerda, “menstruar es una cuestión de derechos humanos”. El 28 de mayo se celebra el 'Día Internacional de la Higiene Menstrual' con el que se reivindica el derecho a gestionar la menstruación de una forma privada y digna.
 
-![menstruacion tabu cultural](etheria_images/2021/05/menstruacion-mujeres-africa.jpg "La menstruación sigue siendo un tabú en muchas culturas. © Amevi Wisdom")
+![menstruacion tabu cultural](etheria-images/2021/05/menstruacion-mujeres-africa.jpg "La menstruación sigue siendo un tabú en muchas culturas. © Amevi Wisdom")
 
 Casi 12 millones de mujeres, jóvenes y niñas (el 25% de la población) menstrúan en 
 España. Es parte de su proceso fisiológico natural. Sin embargo, hay mujeres que no 
@@ -27,7 +27,7 @@ con el periodo. Las normas sociales y culturales a menudo marcan la menstruació
 tabú, lo que significa que **las niñas no pueden hablar libremente ni buscar apoyo** 
 para comprender el proceso por el que están pasando. 
 
-![educacion menstrual ninas india](etheria_images/2021/05/Sunita-ONG-worldvision.jpg "Sunita ofrece información a las niñas. © ONG Worldvision")
+![educacion menstrual ninas india](etheria-images/2021/05/Sunita-ONG-worldvision.jpg "Sunita ofrece información a las niñas. © ONG Worldvision")
 
 ### De la higiene menstrual al empoderamiento femenino
 
@@ -45,7 +45,7 @@ apropiados, aunque eso también es muy importante. También se trata de garantiz
 mujeres y las niñas vivan en un entorno que valore y respalde su capacidad para manejar 
 su menstruación con dignidad”. 
 
-![higiene menstrual en africa](etheria_images/2021/05/higiene-menstrual-plan-internacional.jpg "© Plan Internacional ha repartido kits en Malawi.")
+![higiene menstrual en africa](etheria-images/2021/05/higiene-menstrual-plan-internacional.jpg "© Plan Internacional ha repartido kits en Malawi.")
 
 ## Educación para evitar la discriminación por tener regla
 
@@ -71,7 +71,7 @@ dignidad, la integridad corporal y las oportunidades vitales de las niñas, y qu
 las adolescentes a mantenerse sanas, protegerse de infecciones y poder completar su 
 educación. 
 
-![ninas india menstruacion](etheria_images/2021/05/ninas-regla-en-india.jpg "Las niñas pierden hasta una semana de clase al mes. © Yogendra Singh")
+![ninas india menstruacion](etheria-images/2021/05/ninas-regla-en-india.jpg "Las niñas pierden hasta una semana de clase al mes. © Yogendra Singh")
 
 ## “Es un pequeño acto de liberación, ven que pueden seguir adelante”
 
@@ -99,7 +99,7 @@ de niñas que no empiezan la secundaria por este motivo.
 > “En Ghana, por ejemplo, te sorprendes de que en secundaria hay dos niñas como mucho y la 
 > menstruación marca ese punto en que se supone que la niña pasa a la vida adulta”. 
 
-![ninas faltan a clase con regla](etheria_images/2021/05/menstruacion-ninas-colegios.jpg "Durante los días de menstruación las niñas no van a clase. © Nikhita S.")
+![ninas faltan a clase con regla](etheria-images/2021/05/menstruacion-ninas-colegios.jpg "Durante los días de menstruación las niñas no van a clase. © Nikhita S.")
 
 ## La menstruación, una amenaza oculta para la educación de las niñas
 
@@ -123,7 +123,7 @@ tienen que enfrentar a restricciones, vergüenza ni burlas. Los 12 maestros de l
 de primaria St Peter's Mataale, en el distrito de Buikwe, han sido capacitados por la 
 ONG en el manejo de la higiene menstrual. 
 
-![copa menstrual](etheria_images/2021/05/copa-menstrual-ninas-educacion.jpg "Copa menstrual. © Oana Cristina")
+![copa menstrual](etheria-images/2021/05/copa-menstrual-ninas-educacion.jpg "Copa menstrual. © Oana Cristina")
 
 #### "Sólo un 36% de las niñas de Bangladesh sabe qué es la regla antes de tenerla"
 

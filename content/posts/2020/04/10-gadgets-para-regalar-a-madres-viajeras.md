@@ -1,11 +1,11 @@
 ---
 title: "10 gadgets para regalar a amigas viajeras"
 date: 2020-04-23
-coverImage: etheria_images/2020/04/regalos-madre-viajera.jpg
+coverImage: etheria-images/2020/04/regalos-madre-viajera.jpg
 categories: 
   - organiza-tu-viaje
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si tienes una amiga o una madre viajera te damos ideas que puedes comprar online y 
@@ -13,7 +13,7 @@ quedar fenomenal. Y si la viajera eres tú, quizá te sirva para dar pistas e il
 tu familia en tu próximo cumpleaños. Elige entre estos 10 gadgets perfectos para 
 regalar. 
 
-![gadgets para viajeras](etheria_images/2020/04/regalos-madre-viajera.jpg "Regalos para viajeras.")
+![gadgets para viajeras](etheria-images/2020/04/regalos-madre-viajera.jpg "Regalos para viajeras.")
 
 Cuando se busca en un regalo para una persona lo normal es pensar sus gustos y aficiones 
 para tratar de acertar. ¿Conoces a alguien al que no le guste viajar? Deben ser muy 
@@ -30,7 +30,7 @@ por la impresión instantánea. Esta [Polaroid Pop 2.0](https://amzn.to/3P22eNv)
 compañera perfecta de viaje, y un complemento estupendo para compaginar con las cámaras 
 tradicionales y los móviles, ya que traslada los recuerdos al papel en un instante. 
 
-![impresora polariod portatil](etheria_images/2020/04/regalos-madre-polaroid-900x904.jpg "Polaroid Pop 2.0.")
+![impresora polariod portatil](etheria-images/2020/04/regalos-madre-polaroid-900x904.jpg "Polaroid Pop 2.0.")
 
 ### 2\. Libro electrónico
 
@@ -40,7 +40,7 @@ peso que supone viajar con libros. Es práctico para las esperas en los aeropuer
 para los vuelos largos. Y en las vacaciones de sol y playa, es el mejor compañero de 
 tumbona. 
 
-![libro electrónico](etheria_images/2020/04/libro-electronico.jpg "Libro electrónico Woxter.")
+![libro electrónico](etheria-images/2020/04/libro-electronico.jpg "Libro electrónico Woxter.")
 
 ### 3\. Calentador de manos eléctrico
 
@@ -49,7 +49,7 @@ frioleras. Este pequeño y cómodo gadget, además de calentarte las manos, perm
 el móvil ya que funciona como una batería externa. No abulta nada y podrás llevarlo a 
 los viajes de esquí o a los que te lleven a visitar los mercadillos navideños europeos. 
 
-![calentador de manos eléctrico](etheria_images/2020/04/regalos-madre-calentador-manos-848x1024.jpg "Calentador de manos Awroutdoor.")
+![calentador de manos eléctrico](etheria-images/2020/04/regalos-madre-calentador-manos-848x1024.jpg "Calentador de manos Awroutdoor.")
 
 ### 4\. Reloj de actividad
 
@@ -60,7 +60,7 @@ contador de la calorías es un buen aliado para justificar esos pequeños capric
 gastronómicos que dan la felicidad en un viaje. Este reloj, además, monitoriza el sueño 
 y puedes mojarlo sin problema ya que es resistente al agua. 
 
-![reloj inteligente](etheria_images/2020/04/regalos-madre-reloj-actividad-893x1024.jpg "Reloj actividad Yonmig.")
+![reloj inteligente](etheria-images/2020/04/regalos-madre-reloj-actividad-893x1024.jpg "Reloj actividad Yonmig.")
 
 ### 5\. Plancha de pelo de viaje
 
@@ -70,7 +70,7 @@ o vas a países con un clima tropical. Este modelo plegable es también rizador 
 manejable que se puede llevar incluso en el bolso por si necesitas un retoque en el 
 último momento. 
 
-![plancha de pelo portatil con funda](etheria_images/2020/04/plancha-pelo-viaje.jpg "Plancha de pelo de viaje disponible en Amazon.")
+![plancha de pelo portatil con funda](etheria-images/2020/04/plancha-pelo-viaje.jpg "Plancha de pelo de viaje disponible en Amazon.")
 
 ### 6\. Tablet
 
@@ -81,7 +81,7 @@ los capítulos) y cuando hay conexión wifi permite buscar en Internet cualquier
 se pueda necesitar en un viaje. Y viene con funda incluida, perfecta para cuando la 
 utilizas fuera de casa. 
 
-![Tablet Android 10 con funda azul](etheria_images/2020/04/tablet-android.jpg "Tablet Android 10 con funda")
+![Tablet Android 10 con funda azul](etheria-images/2020/04/tablet-android.jpg "Tablet Android 10 con funda")
 
 ### 7\. Auriculares inalámbricos
 
@@ -91,7 +91,7 @@ inalámbricos](https://amzn.to/3Sl5gxc) como estos podrás hacerlo cómodamente,
 tendrás que preocuparte de que estén siempre cargados. Dispondrás de 5 horas seguidas de 
 audio más 25 horas de carga que proporciona la caja. 
 
-![auriculares blancos](etheria_images/2020/04/auriculares-inalambricos-633x1024.jpg "Auriculares inalámbricos disponibles en Amazon.")
+![auriculares blancos](etheria-images/2020/04/auriculares-inalambricos-633x1024.jpg "Auriculares inalámbricos disponibles en Amazon.")
 
 ### 8\. Almohada de masaje
 
@@ -101,7 +101,7 @@ doloridas, una buena compañera de viaje es una [almohada de
 masaje](https://amzn.to/2Y2oazL), no abulta apenas y se agradece unos minutos de relax 
 con un masaje en la zona dolorida. Ésta además incluye función calor. 
 
-![almohada portatil para viaje](etheria_images/2020/04/regalos-madre-almohada-masaje-900x650.jpg "Almohada de masaje.")
+![almohada portatil para viaje](etheria-images/2020/04/regalos-madre-almohada-masaje-900x650.jpg "Almohada de masaje.")
 
 ### 9\. Altavoz de viaje
 
@@ -111,7 +111,7 @@ un pequeño altavoz que además es muy cuco y está disponible en varios colores
 con una correa para llevarlo sujeto al bolso o a la mochila y tiene un tamaño muy 
 manejable. 
 
-![Altavoz de viaje verde.](etheria_images/2020/04/altavoz-portatil.jpg "Altavoz de viaje de Sony.")
+![Altavoz de viaje verde.](etheria-images/2020/04/altavoz-portatil.jpg "Altavoz de viaje de Sony.")
 
 ### 10\. Cuaderno reutilizable
 
@@ -121,7 +121,7 @@ reutilizable](https://amzn.to/3dW0ZkG) es perfecto ya que no se acaba nunca. Se 
 escanear sus hojas a través de una aplicación y borrar con el mismo boli que escribes 
 para volver a utilizarlas. Existen varios tamaños y colores. 
 
-![cuaderno reutilizable.](etheria_images/2020/04/bloc-notas-digital.jpg "Bloc de notas digital.")
+![cuaderno reutilizable.](etheria-images/2020/04/bloc-notas-digital.jpg "Bloc de notas digital.")
 
 ## También te puede interesar:
 

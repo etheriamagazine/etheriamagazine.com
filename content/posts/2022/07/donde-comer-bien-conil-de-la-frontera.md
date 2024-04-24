@@ -1,12 +1,12 @@
 ---
 title: "Dónde comer bien en Conil de la Frontera, bares y restaurantes recomendados"
 date: 2022-07-22
-coverImage: etheria_images/2022/07/venta-pericon-conil.jpg
+coverImage: etheria-images/2022/07/venta-pericon-conil.jpg
 categories: 
   - viajes-con-amigas
   - mejores-restaurantes-gastronomia
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Encontrar restaurantes y bares donde comer bien y barato en Conil es uno de los 
@@ -14,7 +14,7 @@ objetivos de cuantos se acercan a este pueblo gaditano para disfrutar de sus pla
 su entramado de casas blancas y de sus noches infinitas. ¿Es esto posible? Por supuesto, 
 pero también es recomendable darse un capricho en algún restaurante de mesa y mantel. 
 
-![Pescado frito en Venta Pericón, en Conil de la Frontera](etheria_images/2022/07/venta-pericon-conil.jpg "Fritura de Venta Pericón, en Conil. © Etheria Magazine")
+![Pescado frito en Venta Pericón, en Conil de la Frontera](etheria-images/2022/07/venta-pericon-conil.jpg "Fritura de Venta Pericón, en Conil. © Etheria Magazine")
 
 Buenas huertas, campiñas ganaderas, un océano generoso y recetas nacidas de la tradición 
 son el secreto mejor guardado de los restaurantes donde comer bien en Conil de la 
@@ -40,7 +40,7 @@ Esta primera selección de restaurantes donde comer bien en Conil incluye aquell
 llevan confirmando su buen hacer durante décadas y que, año tras año, siguen demostrando 
 su calidad en la materia prima y en el servicio. Son ideales para darse el capricho. 
 
-![Comedor y plato de atún del restaurante El Roqueo de Conil](etheria_images/2022/07/restaurante-el-roqueo-conil.jpg "© Restaurante El Roqueo. Foto: Trip Advisor")
+![Comedor y plato de atún del restaurante El Roqueo de Conil](etheria-images/2022/07/restaurante-el-roqueo-conil.jpg "© Restaurante El Roqueo. Foto: Trip Advisor")
 
 ### 1\. Restaurante El Roqueo
 
@@ -59,7 +59,7 @@ septiembre y cierra los lunes.
 Dónde: c/ El Roqueo (dirección Fuente del Gallo). Tel. 956 440 205, más info en 
 elroqueo.com 
 
-![Plato de ensalada de tomate con atún de Casa Francisco en Conil](etheria_images/2022/07/restaurante-francisco-conil.jpg "© Restaurante Francisco/ Foto: Trip Ad.")
+![Plato de ensalada de tomate con atún de Casa Francisco en Conil](etheria-images/2022/07/restaurante-francisco-conil.jpg "© Restaurante Francisco/ Foto: Trip Ad.")
 
 ### 2\. Restaurante Francisco Fontanilla
 
@@ -73,7 +73,7 @@ privilegio. Hay dos turnos en comidas y cenas, reserva con tiempo.
 
 Dónde: playa de La Fontanilla. Tel. 956 440 802, más info en franciscofontanilla.com 
 
-![Comedor del restaurante La Fontanilla, en Conil de la Frontera](etheria_images/2022/07/restaurante-la-fontanilla-conil.jpg "© Restaurante La Fontanilla. Foto: Trip Advisor")
+![Comedor del restaurante La Fontanilla, en Conil de la Frontera](etheria-images/2022/07/restaurante-la-fontanilla-conil.jpg "© Restaurante La Fontanilla. Foto: Trip Advisor")
 
 ### 3\. La Fontanilla
 
@@ -87,7 +87,7 @@ con carabineros o bogavante), urta o corvina.
 
 Dónde: playa de La Fontanilla. Tel. 956 441 130, más info en lafontanilla.com 
 
-![Coquinas y ortiguillas del Bar Juan María, un restaurante donde comer bien en Conil.](etheria_images/2022/07/bar-juan-maria-conil.jpg "Coquinas y ortiguillas del Bar Juan María, en Conil. © Etheria Magazine")
+![Coquinas y ortiguillas del Bar Juan María, un restaurante donde comer bien en Conil.](etheria-images/2022/07/bar-juan-maria-conil.jpg "Coquinas y ortiguillas del Bar Juan María, en Conil. © Etheria Magazine")
 
 ### 4\. Bar Juan María
 
@@ -105,7 +105,7 @@ han gustado menos.
 
 Dónde: c/ Cádiz, 32. Tel. 956 440 178, más info. CERRADO DESDE 2023 
 
-![Tartar de atún rojo de la Venta Melchor.](etheria_images/2018/06/tartar-ruta-del-atun.jpg "Tartar de atún rojo de la Venta Melchor. © Etheria Magazine")
+![Tartar de atún rojo de la Venta Melchor.](etheria-images/2018/06/tartar-ruta-del-atun.jpg "Tartar de atún rojo de la Venta Melchor. © Etheria Magazine")
 
 ### 5\. Venta Melchor
 
@@ -123,7 +123,7 @@ Pedro Ximénez o su flan de piñones de la dehesa de Roche. No olvides reservar.
 Dónde: N. 340, Km 18. El Colorado. Tel. 956 445 007, más info en 
 restauranteventamelchor.com 
 
-![Restaurante Timón de Roche visto desde la playa y puerta del mismo](etheria_images/2022/07/timon-roche-conil.jpg "Restaurante Timón de Roche, en Conil. © Etheria Magazine")
+![Restaurante Timón de Roche visto desde la playa y puerta del mismo](etheria-images/2022/07/timon-roche-conil.jpg "Restaurante Timón de Roche, en Conil. © Etheria Magazine")
 
 ### 6\. Restaurante Timón
 
@@ -139,7 +139,7 @@ sorpresas.
 Dónde: Avda. Inglaterra, s/n. Roche (a 10 minutos de Conil). Tel. 956 446 232, más info 
 en timonderoche.es 
 
-![Arroz del chiringuito Feduchy, entre los mejores restaurantes de Conil](etheria_images/2022/07/restaurante-feduchy-conil.jpg "Chiringuito Feduchy, en Conil. Foto: © Trip. A.")
+![Arroz del chiringuito Feduchy, entre los mejores restaurantes de Conil](etheria-images/2022/07/restaurante-feduchy-conil.jpg "Chiringuito Feduchy, en Conil. Foto: © Trip. A.")
 
 ### 7\. Restaurante y chiringuito Feduchy
 
@@ -167,7 +167,7 @@ plaza de Blas Infante, zona de la Bodega).
 
 ## Bares buenos y baratos en Conil para tapear o comer
 
-![Distintos platos del Bar Los Hermanos, un sitio donde comer bien en Conil](etheria_images/2022/07/bar-los-hermanos-conil.jpg "Bar Los Hermanos, en Conil. © Foto: T.A.")
+![Distintos platos del Bar Los Hermanos, un sitio donde comer bien en Conil](etheria-images/2022/07/bar-los-hermanos-conil.jpg "Bar Los Hermanos, en Conil. © Foto: T.A.")
 
 ### 14\. Bar Los Hermanos
 
@@ -180,7 +180,7 @@ esperar para lograr mesa. Aun así, por precios y calidad del producto, merece l
 
 Dónde: c/ La Virgen, 2. Tel. 956 440 403 
 
-![Almejas en Casa Manolo, un bar donde comer bien y barato en Conil](etheria_images/2022/07/casa-manolo-conil.jpg "Casa Manolo. Foto: © Trip A.")
+![Almejas en Casa Manolo, un bar donde comer bien y barato en Conil](etheria-images/2022/07/casa-manolo-conil.jpg "Casa Manolo. Foto: © Trip A.")
 
 ### 15\. Casa Manolo
 
@@ -196,7 +196,7 @@ las almejas en salsa.
 
 Dónde: c/ San José, 10. Tel. 956 444 410. 
 
-![Tapa de ensaladilla de choco en El Pasaje, Conil.](etheria_images/2022/07/bar-el-pasaje-conil.jpg "Restaurante El Pasaje. © Etheria magazine")
+![Tapa de ensaladilla de choco en El Pasaje, Conil.](etheria-images/2022/07/bar-el-pasaje-conil.jpg "Restaurante El Pasaje. © Etheria magazine")
 
 ### 16\. Bar El Pasaje
 
@@ -210,7 +210,7 @@ al toro y la cazuelita de atún encebollado rojo de almadraba.
 
 Dónde: Avda. de la Playa, 6. Tel. 956 440 098, más info en elpasajeconil.com 
 
-![Cazón y atún encebollado de Venta Pericón.](etheria_images/2022/07/tapas-venta-pericon-conil.jpg "Cazón y atún encebollado de Venta Pericón. © Etheria Magazine")
+![Cazón y atún encebollado de Venta Pericón.](etheria-images/2022/07/tapas-venta-pericon-conil.jpg "Cazón y atún encebollado de Venta Pericón. © Etheria Magazine")
 
 ### 17\. Venta Pericón
 
@@ -224,7 +224,7 @@ y la “tosta de atún trufada”. Más info en pericon.es
 
 Dónde: Rosa de los Vientos, 18. Tel. 956 440 746. 
 
-![Bar Tergal y tapa de atún encebollado, un restaurante donde comer bien en Conil](etheria_images/2022/07/bar-tergal-atun.jpg "Bar El Tergal y tapa de atún encebollado. © Trip A.")
+![Bar Tergal y tapa de atún encebollado, un restaurante donde comer bien en Conil](etheria-images/2022/07/bar-tergal-atun.jpg "Bar El Tergal y tapa de atún encebollado. © Trip A.")
 
 ### 18\. Bar El Tergal
 
@@ -249,7 +249,7 @@ prisa.
 
 Dónde: Extramuros, 4. Tel. 956 444 064 
 
-!["Fritá" de tomate con atún, una delicia de Conil de la Frontera.](etheria_images/2022/07/atun-tomate-conil.jpg ""Fritá" de tomate con atún, una delicia de Conil de la Frontera. © Etheria Mag.")
+!["Fritá" de tomate con atún, una delicia de Conil de la Frontera.](etheria-images/2022/07/atun-tomate-conil.jpg ""Fritá" de tomate con atún, una delicia de Conil de la Frontera. © Etheria Mag.")
 
 ### 20\. Bodegón de Joselito
 
@@ -262,7 +262,7 @@ mechado... o sus ricos arroces. Abre en horario de comidas y cenas.
 
 Dónde: c/ Gonzalo Sánchez Fuentes, 11. Tel. 617 814 171. 
 
-![Montadito de atún mechado en Bodegón Joselito.](etheria_images/2022/07/bodegon-joselito-conil.jpg "Montadito de atún mechado en Bodegón Joselito. © Etheria Mag.")
+![Montadito de atún mechado en Bodegón Joselito.](etheria-images/2022/07/bodegon-joselito-conil.jpg "Montadito de atún mechado en Bodegón Joselito. © Etheria Mag.")
 
 #### Más tapeo en Conil a buen precio
 
@@ -288,7 +288,7 @@ El listado de restaurantes de Conil se podría alargar casi infinitamente (y no
 descartamos añadir algunos más en el futuro) pero como no te queremos abrumar, sólo 
 haremos un breve listado de otros referentes que también merece la pena que apuntes: 
 
-![Desayuno de chocolate con churros en El Paso, Conil](etheria_images/2022/07/desayuno-conil.jpg "Desayuno con churros en El Paso. © Etheria Magazine")
+![Desayuno de chocolate con churros en El Paso, Conil](etheria-images/2022/07/desayuno-conil.jpg "Desayuno con churros en El Paso. © Etheria Magazine")
 
 ### Bares para desayunar en Conil
 
@@ -305,7 +305,7 @@ quiosco situado cerca del Arco de la Villa.
 ?Si visitas Conil en verano, un clásico para desayunar es el **chiringuito El Roqueo**. 
 Suele tener hasta cola para sentarse con las maravillosas vistas de la playa El Roqueo. 
 
-![Ricos pasteles de Canela & Miel, en Conil.](etheria_images/2022/07/pasteleria-canela-miel-conil.jpg "Pastelería Canela&Miel, en Conil. © Etheria Magazine")
+![Ricos pasteles de Canela & Miel, en Conil.](etheria-images/2022/07/pasteleria-canela-miel-conil.jpg "Pastelería Canela&Miel, en Conil. © Etheria Magazine")
 
 ### Pastelerías para darse el capricho
 
@@ -319,7 +319,7 @@ artesanal en el polígono industrial); **Pastelería Café PePas**, muy recomend
 obrador propio y cafetería con pocas mesas en el interior y terraza (Laguna, 8); y 
 **Panadería Alemana** (Arcos de la Frontera, 5)... 
 
-![Heladería Marsalao, sabores tradicionales de Conil de la Frontera](etheria_images/2022/07/heladeria-marsalao-conil.jpg "Si ves este mural, entra y descubre alguno de sus originales sabores locales. © Etheria Mag.")
+![Heladería Marsalao, sabores tradicionales de Conil de la Frontera](etheria-images/2022/07/heladeria-marsalao-conil.jpg "Si ves este mural, entra y descubre alguno de sus originales sabores locales. © Etheria Mag.")
 
 Y esto es todo por ahora, porque no están todos los que son pero sí son todos los que 
 están. Esperamos vuestras recomendaciones en info@etheriamagazine.com 

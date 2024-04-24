@@ -1,18 +1,18 @@
 ---
 title: "Ruta en coche para recorrer la Toscana en 7 días"
 date: 2021-06-01
-coverImage: etheria_images/2018/05/Toscana-coche-montalcino.jpg
+coverImage: etheria-images/2018/05/Toscana-coche-montalcino.jpg
 categories: 
   - viajes-con-amigas
   - viajes-romanticos
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Recorrer en coche la Toscana permite perderse por sus sinuosas carreteras y descubrir en cada recodo un precioso pueblo o una villa que ni siquiera aparece en las guías. Porque Toscana son sus pueblos y ciudades históricas, pero también sus paisajes únicos y no hay mejor forma de verlos que desde la ventanilla de un coche.
 
-![viñedos en Toscana](etheria_images/2018/05/Toscana-coche-paisaje.jpg "Paisaje toscano. © Reuben Teo")
+![viñedos en Toscana](etheria-images/2018/05/Toscana-coche-paisaje.jpg "Paisaje toscano. © Reuben Teo")
 
 ```
 Actualizada junio 2021
@@ -34,7 +34,7 @@ combinarse una estancia en la ciudad con unas noches en alguno de los borgos y h
 rurales que salpican toda la Toscana, perfectos para realizar excursiones a los pueblos 
 cercanos. 
 
-![Plaza de Duomo en Pisa](etheria_images/2018/05/TOSCANA-PISA-e1552555010206.jpg "Plaza del Duomo en Pisa. © SG")
+![Plaza de Duomo en Pisa](etheria-images/2018/05/TOSCANA-PISA-e1552555010206.jpg "Plaza del Duomo en Pisa. © SG")
 
 ## Excursión desde Florencia: Pisa y Lucca
 
@@ -53,7 +53,7 @@ descansan paisanos ilustres en una tierra traída desde Tierra Santa y con un Sa
 Frescos que merece verse con detenimiento. Sobre todo el fresco dedicado al Infierno, de 
 Buonamico Buffalmacco. 
 
-![torres de Lucca](etheria_images/2018/05/Toscana-coche-lucca.jpg "Lucca. © Marian Brandt")
+![torres de Lucca](etheria-images/2018/05/Toscana-coche-lucca.jpg "Lucca. © Marian Brandt")
 
 **Lucca** se encuentra a tan sólo 20 kilómetros de Pisa y es fácil recorrerla a pie. La 
 primera mirada a la ciudad tiene que ser desde lo alto de sus anchas murallas 
@@ -72,7 +72,7 @@ competición entre los barrios de la ciudad. Además, guarda el **Palazzo Comuna
 siglo XIV con su torre Mangia que desde la altura permite una vista increíble de esta 
 ciudad gótica. 
 
-![Iglesias en Siena](etheria_images/2018/05/Toscana-coche-Siena.jpg "Basílica de Santo Domingo en Siena. © Pedro Lastra")
+![Iglesias en Siena](etheria-images/2018/05/Toscana-coche-Siena.jpg "Basílica de Santo Domingo en Siena. © Pedro Lastra")
 
 El otro lugar imprescindible es el **Duomo**, con la fachada y el interior en mármol 
 blanco y verde que difícilmente podría ser más bello. Está llena de tesoros y hay que 
@@ -85,7 +85,7 @@ su **cripta**, recientemente descubiertos y que se pueden visitar. Imprescindibl
 > detenerse en lugares como la Loggia della Mercanzia, del siglo XIII, o el Palazzo 
 > Tolomei es obligatorio.. 
 
-![Toscana en coche plaza Siena Palio](etheria_images/2018/05/TOSCANA-SIENA-PIAZZA-DEI-CAMPO-1024x683.jpg "Piazza dei Campo, Siena. © SG")
+![Toscana en coche plaza Siena Palio](etheria-images/2018/05/TOSCANA-SIENA-PIAZZA-DEI-CAMPO-1024x683.jpg "Piazza dei Campo, Siena. © SG")
 
 ## Volterra, San Gimignano y Monteriggioni
 
@@ -105,7 +105,7 @@ desde lo alto. No te resistas y prueba un helado en la [Gelatteria
 Dondoli](http://www.gelateriadondoli.com) (también en la Piazza della Cisterna), que 
 presume de tener los mejores helados del mundo. 
 
-![Toscana en coche arquitectura viaje plaza Italia](etheria_images/2018/05/TOSCANA-SAN-GIMIGNANO-PIAZZA-DELLA-CISTERNA-e1552555096244.jpg "Piazza della Cisterna, San Gimignano. © SG")
+![Toscana en coche arquitectura viaje plaza Italia](etheria-images/2018/05/TOSCANA-SAN-GIMIGNANO-PIAZZA-DELLA-CISTERNA-e1552555096244.jpg "Piazza della Cisterna, San Gimignano. © SG")
 
 Si da tiempo, merece la pena acercarse en este día a **Monteriggioni**, a 25 kilómetros 
 de San Gimignano. La mejor ruta es por la carretera que pasa por Colle di Val d’Elsa 
@@ -124,7 +124,7 @@ y el Palazzo Comunale. Entre tanto, bellos palacios de los siglos XIV y XV decor
 calles y se alternan con pintorescas tiendecitas de artesanía y _delicatessen_ de la 
 zona. 
 
-![Toscana en coche paisaje arquitectura arte ruta](etheria_images/2018/05/TOSCANA-MONTEPULCIANO-e1552555138539.jpg "Montepulciano, encaramado a una colina.")
+![Toscana en coche paisaje arquitectura arte ruta](etheria-images/2018/05/TOSCANA-MONTEPULCIANO-e1552555138539.jpg "Montepulciano, encaramado a una colina.")
 
 La carretera lleva hasta **Pienza** (situada a 13 kilómetros), ciudad que debe su nombre 
 y aspecto al ego del Papa Pío II, que quiso convertir su ciudad natal en un modelo 
@@ -140,7 +140,7 @@ conocida por el famoso **vino Brunello** (que aparece en decenas de vinotecas y
 restaurantes), merece un paseo para descubrir lugares como el Palazzo dei Priori, la 
 iglesia de San Agostino o la Logia gótica de Il Capellone. 
 
-![Montalcino](etheria_images/2018/05/Toscana-coche-montalcino.jpg "Montalcino.")
+![Montalcino](etheria-images/2018/05/Toscana-coche-montalcino.jpg "Montalcino.")
 
 ### CONSEJOS ETHERIA
 
@@ -164,7 +164,7 @@ subida. Lo mejor es reservar en la web del conjunto catedralicio las [entradas](
 Salen a la venta 20 días antes. Los niños menores de 8 años no pueden subir a la torre 
 pero sí visitar el resto de monumentos. 
 
-![viaje a Toscana](etheria_images/2021/01/hotele-lujo-Borgo-Santo-Prieto.jpg "Panorámica del © Borgo Santo Pietro")
+![viaje a Toscana](etheria-images/2021/01/hotele-lujo-Borgo-Santo-Prieto.jpg "Panorámica del © Borgo Santo Pietro")
 
 • En Toscana hay alojamientos de todo tipo desde turismo rural hasta borgos de lujo. Uno 
 de ellos es [Borgo Santo Pietro](http://www.borgosantopietro.com) (5\* L), ubicado en un 

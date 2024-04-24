@@ -1,19 +1,19 @@
 ---
 title: "Pasear entre tumbas en Madrid: claves del necroturismo en el cementerio de la Almudena"
 date: 2019-10-30
-coverImage: etheria_images/2019/10/cementerio-almudena-tetas-desnudo.jpg
+coverImage: etheria-images/2019/10/cementerio-almudena-tetas-desnudo.jpg
 categories: 
   - viajes-con-amigas
   - viajes-urbanos
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 El cementerio de la Almudena es el camposanto más grande de Europa occidental y acoge los restos de folclóricas, toreros, masones y políticos. Si no eres aprensiva, un recorrido por este camposanto puede ser tan instructivo como un libro de Historia. Y recuerda, son más peligrosos los vivos que los muertos.
 
-![famosos en cementerio almudena, ruta dia de muertos](etheria_images/2019/10/cementerio-almudena-dia-todos-los-santos-900x617.jpg "Cementerio de la Almudena, Madrid. © Kelu Robles")
+![famosos en cementerio almudena, ruta dia de muertos](etheria-images/2019/10/cementerio-almudena-dia-todos-los-santos-900x617.jpg "Cementerio de la Almudena, Madrid. © Kelu Robles")
 
 Act. 18/10/22 
 
@@ -29,7 +29,7 @@ alza en todo el mundo.
 > Mientras el necroturismo es una realidad en otros países de Europa desde hace décadas, 
 > en España estamos comenzando a explotar esta faceta de los cementerios. 
 
-![Panteones antiguos del cementerio de la Almuden](etheria_images/2019/10/panteones-antiguos-cementerio-almudena-madrid-900x754.jpg "Panteones antiguos del cementerio de la Almudena. © K.R.")
+![Panteones antiguos del cementerio de la Almuden](etheria-images/2019/10/panteones-antiguos-cementerio-almudena-madrid-900x754.jpg "Panteones antiguos del cementerio de la Almudena. © K.R.")
 
 ## Demasiados muertos en poco espacio
 
@@ -47,7 +47,7 @@ pequeño camposanto se llamó **Nuestra Señora de la Almudena** y, aunque todo 
 conocía como el **cementerio de las Epidemias**, uno acabó formando parte del otro. Hoy, 
 ambos forman parte del gran cementerio actual. 
 
-![cementerio de epidemias, cementerio almudena, ruta dia de muertos madrid](etheria_images/2019/10/cementerio-epidemias-almudena-madrid-1-900x634.jpg "La puerta más cercana a este ‘Cementerio de Epidemias’ se encuentra en la Avenida Daroca 103, frente al cementerio civil.")
+![cementerio de epidemias, cementerio almudena, ruta dia de muertos madrid](etheria-images/2019/10/cementerio-epidemias-almudena-madrid-1-900x634.jpg "La puerta más cercana a este ‘Cementerio de Epidemias’ se encuentra en la Avenida Daroca 103, frente al cementerio civil.")
 
 Para ubicar la parte más antigua del cementerio dentro de este enorme enjambre de 
 mesetas, nichos y bellos mausoleos, en el **Departamento de Información** (Avenida de 
@@ -66,7 +66,7 @@ Más de trescientas tumbas están protegidas de forma oficial por su interés hi
 artístico, pero más allá del valor escultórico de esos sepulcros, existen otros puntos 
 del cementerio que despiertan la curiosidad de muchísimos visitantes. 
 
-![tumba lola flores, tumba antonio flores, ruta cementerio almudena](etheria_images/2019/10/tumba-lola-antonio-cementerio-almudena-900x333.jpg "Tumba de Lola y Antonio en el cementerio de la Almudena. © K.R.")
+![tumba lola flores, tumba antonio flores, ruta cementerio almudena](etheria-images/2019/10/tumba-lola-antonio-cementerio-almudena-900x333.jpg "Tumba de Lola y Antonio en el cementerio de la Almudena. © K.R.")
 
 ### Mausoleo de Lola Flores (1923-1995)
 
@@ -76,7 +76,7 @@ visitas y recuerdos en forma de pulseras, claveles y pañuelos. Su sepultura se 
 muy cerca de la del alcalde de ‘la movida’ madrileña **Enrique Tierno Galván** 
 (1918-1986), cuya losa suele estar cubierta por claveles rojos. 
 
-![tumba yiyo, cementerio almudena](etheria_images/2019/10/tumba-yiyo-cementerio-almudena.jpg "Tumba Yiyo, en el cementerio de la Almudena. © K.R.")
+![tumba yiyo, cementerio almudena](etheria-images/2019/10/tumba-yiyo-cementerio-almudena.jpg "Tumba Yiyo, en el cementerio de la Almudena. © K.R.")
 
 ### Sepulcro de El Yiyo (1964-1985)
 
@@ -86,7 +86,7 @@ estatua le recuerda mientras sujeta una paloma en su mano derecha. Debajo, puede
 en grandes letras mayúsculas: YIYO. Su sepulcro se encuentra muy cerca del mausoleo de 
 los Flores. 
 
-![cementerio almudena, tumba torera](etheria_images/2019/10/tumba-torera-cementerio-almudena.jpg "Tumba de la torera, en el cementerio de la Almudena. ©K.R.")
+![cementerio almudena, tumba torera](etheria-images/2019/10/tumba-torera-cementerio-almudena.jpg "Tumba de la torera, en el cementerio de la Almudena. ©K.R.")
 
 ### Sepulcro de Juanita Cruz, la primera torera
 
@@ -99,7 +99,7 @@ falda cosechó amigos y enemigos allá por donde pasaba. “A pesar del daño qu
 en mi patria los responsables de la mediocridad del toreo de 1940-50... ¡Brindo por 
 España!", exclama el epitafio en su sepulcro. 
 
-![Tumba del circo, cementerio de la almudena](etheria_images/2019/10/tumba-circo-cementerio-almudena.jpg "Tumba del circo, en el cementerio de la Almudena. © K.R.")
+![Tumba del circo, cementerio de la almudena](etheria-images/2019/10/tumba-circo-cementerio-almudena.jpg "Tumba del circo, en el cementerio de la Almudena. © K.R.")
 
 ### Mausoleo de Junior, director del Circo Mundial
 
@@ -109,7 +109,7 @@ Sus compañeros del circo reunieron los recursos económicos necesarios para enc
 que hoy es uno de los mausoleos más impactantes del cementerio de la Almudena y el único 
 que cuenta con iluminación propia gracias a un pequeño sistema de placas solares. 
 
-![panteon jesus gil, cementerio almudena](etheria_images/2019/10/tumba-panteon-jesus-gil-cementerio-almudena-900x674.jpg "Panteón de Jesús Gil, en el cementerio de la Almudena. ©K.R.")
+![panteon jesus gil, cementerio almudena](etheria-images/2019/10/tumba-panteon-jesus-gil-cementerio-almudena-900x674.jpg "Panteón de Jesús Gil, en el cementerio de la Almudena. ©K.R.")
 
 ### Panteones del mundo del deporte: de Jesús Gil a Fernando Martín
 
@@ -125,7 +125,7 @@ bronce de un niño que sostenía en sus manos un balón de baloncesto, sin embar
 después de su entierro, la estatua fue profanada. El vandalismo y los robos se producen 
 de forma periódica en los cementerios. 
 
-![muro trece rosas, cementerio almudena](etheria_images/2019/10/trece-rosas-cementerio-almudena-900x633.jpg "Muro de las Trece Rosas. © K.R.")
+![muro trece rosas, cementerio almudena](etheria-images/2019/10/trece-rosas-cementerio-almudena-900x633.jpg "Muro de las Trece Rosas. © K.R.")
 
 ### El muro de las Trece Rosas
 
@@ -134,7 +134,7 @@ en el que fueron fusiladas por el régimen franquista estas trece jóvenes en el
 —cuatro meses después del fin de la guerra—, hoy forma parte de un memorial repleto de 
 flores, banderas y placas conmemorativas que recuerdan a las víctimas. 
 
-![monumento heroes filipinas, cementerio almudena, ruta cementerio](etheria_images/2019/10/tumbas-heroes-filipinas-cuba.jpg "Monumento a los héroes de Filipinas. ©K.R.")
+![monumento heroes filipinas, cementerio almudena, ruta cementerio](etheria-images/2019/10/tumbas-heroes-filipinas-cuba.jpg "Monumento a los héroes de Filipinas. ©K.R.")
 
 ### Monumento a los Caídos
 
@@ -144,7 +144,7 @@ ante el ataque de los filipinos durante 337 días—, encontrarán interesante e
 monumento funerario que recuerda a éstos y a otros caídos en las guerras de Cuba y 
 Filipinas en 1898. 
 
-![tumbas cementerio almudena](etheria_images/2019/10/cementerio-almudena-pekinesas-perros-900x675.jpg "Dos perras pekinesas en una tumba del cementerio de la Almudena. © K.R.")
+![tumbas cementerio almudena](etheria-images/2019/10/cementerio-almudena-pekinesas-perros-900x675.jpg "Dos perras pekinesas en una tumba del cementerio de la Almudena. © K.R.")
 
 ### 'Las Pekinesas' y 'La Tetas'
 
@@ -155,7 +155,7 @@ Cuentan los trabajadores del camposanto que la hermana del fallecido, al tener
 constancia de este suceso, encargó construir esta escultura como homenaje y como 
 recuerdo a la fidelidad animal de sus pekinesas. ¿Leyenda o historia real? 
 
-![las tetas, cementerio almudena,](etheria_images/2019/10/cementerio-almudena-tetas-desnudo-900x519.jpg "La estatua de "Las Tetas" es una de las más tristes del cementerio. ©K.R.")
+![las tetas, cementerio almudena,](etheria-images/2019/10/cementerio-almudena-tetas-desnudo-900x519.jpg "La estatua de "Las Tetas" es una de las más tristes del cementerio. ©K.R.")
 
 Maestros talladores, enterradores y personal de limpieza también reconocen la belleza 
 anónima de **‘La Tetas’**, así es como llaman a una de las esculturas más bellas del 
@@ -175,7 +175,7 @@ larga y la magnitud y grandiosidad de sus mausoleos también lo son.
 > celebrar duelos y entierros laicos. 'Fraternidad Cívica' fue fundada por Catalina 
 > García, la viuda de Nicolás Salmerón en 1916. 
 
-![panteon nicolas salmeron, cementerio civil](etheria_images/2019/10/cementerio-civil-almudena-nicolas-salmeron.jpg "Panteón de Nicolás Salmerón en el cementerio civil de la Almudena. ©K.R.")
+![panteon nicolas salmeron, cementerio civil](etheria-images/2019/10/cementerio-civil-almudena-nicolas-salmeron.jpg "Panteón de Nicolás Salmerón en el cementerio civil de la Almudena. ©K.R.")
 
 ### También te puede interesar....
 

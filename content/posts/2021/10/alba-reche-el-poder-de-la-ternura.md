@@ -1,19 +1,19 @@
 ---
 title: "Alba Reche o el empoderamiento de la ternura"
 date: 2021-10-10
-coverImage: etheria_images/2021/10/alba-reche-ex-operacion-triunfo-2018.jpg
+coverImage: etheria-images/2021/10/alba-reche-ex-operacion-triunfo-2018.jpg
 categories: 
   - mujeres-que-inspiran
   - viajes-para-mujeres
-author: 
-  - colaboradores
+authors: 
+  - Firmas invitadas
 ---
 
 Con un directo apabullante y dos discos muy maduros en la mochila, la cantante ilicitana Alba Reche ha cerrado su gira 'La Pequeña Tour' con un público rendido a golpe de emociones. Esta artista confirma que la ternura puede convertirse en una fortaleza y en una filosofía de vida.
 
 ****Por Mariano Velasco**** ****Fotografías: Silvia Peydró @photopey\_**** 
 
-![alba reche sala riviera madrid](etheria_images/2021/10/Alba-Reche-portada-etheria-magazine.jpg "Alba Reche en la Sala La Riviera de Madrid.")
+![alba reche sala riviera madrid](etheria-images/2021/10/Alba-Reche-portada-etheria-magazine.jpg "Alba Reche en la Sala La Riviera de Madrid.")
 
 __En el arte, como en el amor, la ternura es lo que da la fuerza”.__ Es una frase 
 demasiado buena para ser obra de un simple cronista como quien suscribe. Pertenece nada 
@@ -29,7 +29,7 @@ vida desarmada, sufre que te sufre, la pobre. Nada más lejos de la realidad.
 
 > ¡Ojito con Alba Reche! Porque guarda bajo el brazo el arma poderosísima de la ternura. 
 
-![alba reche concierto madrid](etheria_images/2021/10/Alba-Reche-en-Madrid.jpg "Alba Reche abrió su gira 2021 en Madrid.")
+![alba reche concierto madrid](etheria-images/2021/10/Alba-Reche-en-Madrid.jpg "Alba Reche abrió su gira 2021 en Madrid.")
 
 Lleva la ternura por bandera, y así lo ha demostrado en esta corta pero intensa gira que 
 ha sido _La Pequeña Tour_, con la que ha recorrido Madrid, Barcelona, Benicassim, 
@@ -50,7 +50,7 @@ tono tan tierno y apesadumbrado que te dan ganitas de abrazarla. Pero a continua
 suelta la _jodía_ un _“te recuerdo que dormías en mi cama”_ con toda la rabia de la que 
 es capaz, y uno va y piensa en quitarse de en medio por si acaso, no vaya a ser que. 
 
-![alba reche concierto benidorm](etheria_images/2021/10/Alba-Reche-Benidorm.jpg "Alba Reche en el concierto de Benidorm.")
+![alba reche concierto benidorm](etheria-images/2021/10/Alba-Reche-Benidorm.jpg "Alba Reche en el concierto de Benidorm.")
 
 Alba Reche echa mano sin tapujos de esa ternura que la caracteriza cada vez que se 
 dirige en sus conciertos a quienes ella gusta llamar “mis mujeres”. Su discurso de 
@@ -67,7 +67,7 @@ escenario y canción con figuras ya consagradas, como Danny Ocean en Madrid _('M
 rehúso'_) y Natalia Lacunza en el _Share Festival_ de Barcelona (_'Aura')_. _“Espero 
 verte feliz aunque sea sin mí”,_ se cantaron la una a la otra. 
 
-![alba reche madrid etheria magazine](etheria_images/2021/10/Cronica-Alba-Reche.jpg "Concierto de Alba Reche en Madrid.")
+![alba reche madrid etheria magazine](etheria-images/2021/10/Cronica-Alba-Reche.jpg "Concierto de Alba Reche en Madrid.")
 
 ### Sensualidad, amor, diversidad
 
@@ -90,7 +90,7 @@ las piernas”). Juntas conforman una verdadera explosión de placeres y canto a
 la diversidad, de las más aclamadas por el público que la ha seguido en esta gira y que 
 se ve que agradece tanta y tan necesaria ternura. 
 
-![alba reche concierto benicassim 2021](etheria_images/2021/10/alba-reche-concierto-de-benicassim.jpg "Alba Reche en el concierto de Benicassim.")
+![alba reche concierto benicassim 2021](etheria-images/2021/10/alba-reche-concierto-de-benicassim.jpg "Alba Reche en el concierto de Benicassim.")
 
 ### También te puede interesar...
 

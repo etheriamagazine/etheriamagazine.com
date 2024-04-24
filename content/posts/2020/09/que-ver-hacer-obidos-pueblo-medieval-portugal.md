@@ -1,18 +1,18 @@
 ---
 title: "Óbidos, la villa portuguesa de los libros y las reinas"
 date: 2020-09-24
-coverImage: etheria_images/2020/09/obidos-villa-medieval.jpg
+coverImage: etheria-images/2020/09/obidos-villa-medieval.jpg
 categories: 
   - viajes-48-horas
   - viajes-romanticos
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Esta villa encaramada en una colina, rodeada de murallas y atravesada por calles sinuosas puede convertirse en el destino de tu próxima escapada. Óbidos no sólo es uno de los pueblos medievales más bonitos de Portugal sino que oculta curiosas historias y las librerías más originales del mundo. ¿No nos crees? Te contamos todo lo que puedes ver y hacer en Óbidos.
 
-![Panorámica de Óbidos desde la muralla](etheria_images/2020/09/obidos-villa-medieval-900x600.jpg "Panorámica de Óbidos desde la muralla. © Etheria Magazine")
+![Panorámica de Óbidos desde la muralla](etheria-images/2020/09/obidos-villa-medieval-900x600.jpg "Panorámica de Óbidos desde la muralla. © Etheria Magazine")
 
 Del pueblo de Óbidos, en la región Centro de Portugal, nos gusta todo. La panorámica 
 general desde su muralla es suficiente para enamorarte en solo unos segundos. Inicia la 
@@ -23,7 +23,7 @@ zigzagueante, al bajar se convierte en un laberinto que guarda rincones llenos d
 preciosas tiendas de regalos, librerías maravillosas, hoteles boutique y románticas 
 terrazas. 
 
-![Mirador de Óbidos con dos personas en primer plano.](etheria_images/2020/09/mirador-obidos.jpg "Mirador de Óbidos. © Pepa García/ Etheria Mag.")
+![Mirador de Óbidos con dos personas en primer plano.](etheria-images/2020/09/mirador-obidos.jpg "Mirador de Óbidos. © Pepa García/ Etheria Mag.")
 
 ## Óbidos, un gran regalo de bodas
 
@@ -42,7 +42,7 @@ como la “Villa de las Reinas” (Vila das Rainhas). Cada una de estas reinas f
 la población según sus propios gustos y la moda de la época. Y esto fue así hasta el 
 siglo XIX, cuando deja de ser patrimonio real. 
 
-![Castillo y parte de muralla de Óbidos.](etheria_images/2020/09/castillo-obidos.jpg "Castillo y parte de muralla de Óbidos. © Pepa García/ Etheria Mag.")
+![Castillo y parte de muralla de Óbidos.](etheria-images/2020/09/castillo-obidos.jpg "Castillo y parte de muralla de Óbidos. © Pepa García/ Etheria Mag.")
 
 ## Qué ver y hacer en Óbidos
 
@@ -64,7 +64,7 @@ salpicado de torres cuadradas y circulares. Tiene dos postigos y cuatro puertas,
 las que destaca la **Porta da Vila**, que cuenta en la entrada con una bonita capilla 
 decorada con azulejos azules. 
 
-![Un coqueto rincón de Óbidos con casas blancas y ropa tendida.](etheria_images/2020/09/obidos-rincones-fotos.jpg "Un coqueto rincón de Óbidos. © Pepa García/ Etheria Mag.")
+![Un coqueto rincón de Óbidos con casas blancas y ropa tendida.](etheria-images/2020/09/obidos-rincones-fotos.jpg "Un coqueto rincón de Óbidos. © Pepa García/ Etheria Mag.")
 
 ### Iglesias y más iglesias
 
@@ -73,7 +73,7 @@ cuenta con numerosas y bonitas iglesias. La razón es el interés de las reinas 
 templos en este lugar. Las más llamativas son la Principal de Santa María, la de la 
 Misericordia, la de San Pedro y el santuario del Señor Jesús da Pedra. 
 
-![Calles con encanto de Óbidos. con casas blancas y rosales.](etheria_images/2020/09/obido-calle-encanto.jpg "Calles con encanto de Óbidos. © Pepa García/ Etheria Mag.")
+![Calles con encanto de Óbidos. con casas blancas y rosales.](etheria-images/2020/09/obido-calle-encanto.jpg "Calles con encanto de Óbidos. © Pepa García/ Etheria Mag.")
 
 ### Callejeando por Óbidos
 
@@ -87,7 +87,7 @@ plano.
 > El color blanco de las fachadas, el azul y el amarillo de los adornos exteriores de las 
 > viviendas, las flores... la estampa es inolvidable. 
 
-![Rincones fotogénicos de Óbidos, una calle en pendiente y una casa con fachada de flores.](etheria_images/2020/09/obidos-ruta-medieval.jpg "Rincones fotogénicos de Óbidos. © Pepa García/ Etheria Mag.")
+![Rincones fotogénicos de Óbidos, una calle en pendiente y una casa con fachada de flores.](etheria-images/2020/09/obidos-ruta-medieval.jpg "Rincones fotogénicos de Óbidos. © Pepa García/ Etheria Mag.")
 
 ### El acueducto
 
@@ -103,7 +103,7 @@ Valladolid](https://etheriamagazine.com/2020/05/22/viajes-por-espana-uruena-un-p
 así que no os sorprenderá que en Portugal también tengan una población que potencie la 
 lectura y la escritura, y organice eventos culturales. 
 
-![Mercado Biológico y librería de Óbidos, un dos en uno.](etheria_images/2020/09/libreria-mercado-obidos.jpg "Mercado Biológico y librería de Óbidos. © Pepa García/ Etheria Mag.")
+![Mercado Biológico y librería de Óbidos, un dos en uno.](etheria-images/2020/09/libreria-mercado-obidos.jpg "Mercado Biológico y librería de Óbidos. © Pepa García/ Etheria Mag.")
 
 ### Las librerías más original de Portugal
 
@@ -115,18 +115,18 @@ todas, pero te damos algunas referencias:
 - **Mercado Biológico**. Parece un mercado y vende productos frescos, pero principalmente es una librería con material de segunda mano y obras de gastronomía, viajes, etc. Es de los pocos sitios del mundo donde es normal comprar un libro y 2 manzanas, ¿no crees?
 - **Iglesia de Santiago**. Es una de nuestras favoritas, y se halla en un auténtico templo del siglo XII, que mantiene sus capillas y hornacinas. Aquí no se va a rezar sino a adquirir cultura o participar en debates.
 
-![Librería en la iglesia de Santiago.](etheria_images/2020/09/libreria-iglesia-santiago.jpg "Librería en la iglesia de Santiago. © Pepa García/ Etheria Mag.")
+![Librería en la iglesia de Santiago.](etheria-images/2020/09/libreria-iglesia-santiago.jpg "Librería en la iglesia de Santiago. © Pepa García/ Etheria Mag.")
 
 - **Literary Man Hotel**. Fácil de adivinar, es un hotel pero también exhibe decenas de estanterías donde se sitúan más de 40.000 libros.
 - **Oficina de Correos**. La segunda vida de este edificio, en la Plaza de Santa María de Óbidos, es como librería y galería. Sus escaleras repletas de volúmenes son una invitación a sentarse y a dejar pasar el tiempo.
 - **Casa del Arco o Museo Abilio de Mattos y Silva**. Aquí encontrarás obras antiguas y libros de patrimonio y de ilustración. Esta vivienda fue donada por Maria José Salavisa, mujer del pintor, escenógrafo y diseñador Abílio de Matos e Silva.
 - **Residencia de Josefa de Óbidos**. En la vivienda de esta gran **pintora sevillana del siglo XVII**, muy controvertida en su tiempo, se pueden adquirir libros de fotografía.
 
-![Librería 'O Bichinho de Conto', de Óbidos.](etheria_images/2020/09/libreria-escuela-rural-obidos1.jpg "Librería 'O Bichinho de Conto', de Óbidos. © Pepa García/ Etheria Mag.")
+![Librería 'O Bichinho de Conto', de Óbidos.](etheria-images/2020/09/libreria-escuela-rural-obidos1.jpg "Librería 'O Bichinho de Conto', de Óbidos. © Pepa García/ Etheria Mag.")
 
 - **O Bichinho de Conto**. Hemos dejado para el final nuestra gran favorita. Está situada en una **antigua escuela rural** situada a las afueras de Óbidos. Merece la pena dar un paseo para conocer a su encantadora dueña y curiosear en sus estanterías. Mafalda Milhões afirma que tiene lecturas para niños de 0 a 200 años de edad, y no nos cabe ninguna duda. Al entrar o salir, cierra la puerta de la valla porque las cabras campan a sus anchas por el jardín.
 
-![Mafalda Milhões, de la librería 'O Bichinho de Conto', de Óbidos.](etheria_images/2020/09/libreria-mafalda-o-bichinho-obidos.jpg "Mafalda Milhões, de la librería 'O Bichinho de Conto', de Óbidos. © Pepa García/ Etheria Mag.")
+![Mafalda Milhões, de la librería 'O Bichinho de Conto', de Óbidos.](etheria-images/2020/09/libreria-mafalda-o-bichinho-obidos.jpg "Mafalda Milhões, de la librería 'O Bichinho de Conto', de Óbidos. © Pepa García/ Etheria Mag.")
 
 ### Navidad en Óbidos y Festival del Chocolate
 
@@ -136,7 +136,7 @@ chocolatería con actividades, puestos y degustaciones; y en Navidad, cuando se 
 la Vila Natal de Óbidos, el sueño de cualquier niño, con juegos, música, trenecitos y 
 mucha fantasía. 
 
-![Restaurante A Nova Casa de Ramiro.](etheria_images/2020/09/restaurante-ramiro-obidos.jpg "Restaurante A Nova Casa de Ramiro. © Pepa García/ Etheria Mag.")
+![Restaurante A Nova Casa de Ramiro.](etheria-images/2020/09/restaurante-ramiro-obidos.jpg "Restaurante A Nova Casa de Ramiro. © Pepa García/ Etheria Mag.")
 
 ### Guía de Óbidos | Etheria Magazine
 

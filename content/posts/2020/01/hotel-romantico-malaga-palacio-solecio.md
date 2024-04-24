@@ -1,12 +1,12 @@
 ---
 title: "Escapada para dos al hotel boutique Palacio Solecio"
 date: 2020-01-20
-coverImage: etheria_images/2020/01/hotel-palacio-solecio-restaurante.jpg
+coverImage: etheria-images/2020/01/hotel-palacio-solecio-restaurante.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si estás buscando un plan para una escapada romántica te damos una pista con la que no 
@@ -14,7 +14,7 @@ vas a fallar: un fin de semana en el Palacio . Un nuevo hotel boutique de lujo e
 perfecto para desconectar y disfrutar de una de las ciudades más vibrantes y divertidas 
 de España. 
 
-![Escalera de acceso y patio donde está el restaurante Balausta.](etheria_images/2020/01/hotel-palacio-solecio-escalera-patio-900x794.jpg "Escalera de acceso y patio donde está el restaurante Balausta.")
+![Escalera de acceso y patio donde está el restaurante Balausta.](etheria-images/2020/01/hotel-palacio-solecio-escalera-patio-900x794.jpg "Escalera de acceso y patio donde está el restaurante Balausta.")
 
 Un excelente aliciente para realizar una escapada en pareja es alojarse en un hotel de 
 esos que en sí mismos van a proporcionar un recuerdo imborrable. Eso ocurre con el hotel 
@@ -32,7 +32,7 @@ de la arquitectura tradicional andaluza. El resultado: ladrillo visto, papel est
 imitando los zócalos malagueños, recias puertas de estilo castellano. Y unos suelos en 
 blanco y negro formando dameros que harán que te cueste levantar la vista. 
 
-![Fachada del hotel boutique Palacio Solecio.](etheria_images/2020/01/hotel-palacio-solecio-fachada-683x1024.jpg "Fachada del hotel boutique Palacio Solecio.")
+![Fachada del hotel boutique Palacio Solecio.](etheria-images/2020/01/hotel-palacio-solecio-fachada-683x1024.jpg "Fachada del hotel boutique Palacio Solecio.")
 
 ## Una cuidada decoración
 
@@ -52,7 +52,7 @@ cubierto con un gran lucernario y una decoración arquitectónica única basada 
 arquerías y columnas. También la **escalera** que domina el hall y da todo el empaque 
 que se espera en un hotel-palacio de estas características. 
 
-![Patio interior del hotel Palacio Solecio.](etheria_images/2020/01/hotel-palacio-solecio-patio-abierto-900x600.jpg "Patio interior del hotel Palacio Solecio.")
+![Patio interior del hotel Palacio Solecio.](etheria-images/2020/01/hotel-palacio-solecio-patio-abierto-900x600.jpg "Patio interior del hotel Palacio Solecio.")
 
 Además el hotel cuenta con gimnasio, salas de reuniones y un bonito lobby bar. 
 
@@ -64,14 +64,14 @@ Deluxe, Deluxe Palacio, Habitación Torre, Junior Suite Palacio y Suite). Cada u
 con una decoración elegante, mantienen guiños a la decoración de un palacio del siglo 
 XVIII pero con elementos modernos que las hacen muy confortables. 
 
-![Habitación del hotel palacio de Solecio en Málaga](etheria_images/2020/01/hotel-palacio-solecio-habitacion-900x600.jpg "Habitación del hotel.")
+![Habitación del hotel palacio de Solecio en Málaga](etheria-images/2020/01/hotel-palacio-solecio-habitacion-900x600.jpg "Habitación del hotel.")
 
 Te encantarán sus **baños de mármol blanco** con una amplia ducha. Todas las 
 habitaciones cuenta con aire acondicionado y calefacción, minibar, pantalla plana con 
 canales internacionales, caja fuerte, acceso a internet, albornoz y zapatillas de 
 descanso y servicio de cobertura. 
 
-![Bonito baño de mármol con bañera exenta en el hotel Palacio de Solecio](etheria_images/2020/01/hotel-palacio-solecio-bano-900x600.jpg "Bonito baño de mármol con bañera exenta.")
+![Bonito baño de mármol con bañera exenta en el hotel Palacio de Solecio](etheria-images/2020/01/hotel-palacio-solecio-bano-900x600.jpg "Bonito baño de mármol con bañera exenta.")
 
 Si buscas una experiencia aún más especial, alójate en la **habitación Torre**, la única 
 de la última planta, con terraza privada y unas vistas increíbles al casco antiguo de 
@@ -86,7 +86,7 @@ cubierto con una bóveda acristalada. En su carta encontrarás una mezcla perfec
 tradición e innovación con platos típicos malagueños elaboradas con técnicas de 
 vanguardia. 
 
-![Restaurante Balausta en Málaga](etheria_images/2020/01/hotel-palacio-solecio-restaurante-900x600.jpg "Restaurante Balausta.")
+![Restaurante Balausta en Málaga](etheria-images/2020/01/hotel-palacio-solecio-restaurante-900x600.jpg "Restaurante Balausta.")
 
 Otro de los rincones que no querrás perderte es el **Balausta Bar**, perfecto para 
 disfrutar de un cóctel a cualquier hora del día en un entorno con un marcado toque 

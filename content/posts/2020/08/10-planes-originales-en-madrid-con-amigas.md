@@ -1,12 +1,12 @@
 ---
 title: "10 planes originales en Madrid para hacer con amigas"
 date: 2020-08-27
-coverImage: etheria_images/2020/08/salvaje-canalejas-madrid.jpg
+coverImage: etheria-images/2020/08/salvaje-canalejas-madrid.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Planes para hacer en Madrid con tus mejores amigas puede haber muchos, pero que sean 
@@ -15,7 +15,7 @@ cenar en un restaurante "Salvaje", o tomar una copa en una terraza de Gran Vía;
 poco diferentes, como bañarte con osos marinos o visitar una exposición; y muchas 
 propuestas más que te contamos a continuación porque... ¡sólo se vive una vez! 
 
-![terraza jardin de diana madrid](etheria_images/2020/08/terraza-jardin-diana-hyatt-madrid.jpg "Terraza Jardín de Diana, uno de los planes en Madrid con amigas.")
+![terraza jardin de diana madrid](etheria-images/2020/08/terraza-jardin-diana-hyatt-madrid.jpg "Terraza Jardín de Diana, uno de los planes en Madrid con amigas.")
 
 Se escapan los días y nos da la sensación de que el tiempo se escurre entre los dedos 
 sin saber en qué. Y es cierto que las circunstancias no han ayudado mucho pero, con 
@@ -29,7 +29,7 @@ hacer con amigas en Madrid este otoño e
 invierno](https://etheriamagazine.com/2023/09/07/que-hacer-con-amigas-madrid-otono/) 
 2023/2024. 
 
-![planes con amigas madrid, planes locos madrid, experiencias en Faunia](etheria_images/2020/08/planes-amigas-madrid-faunia.jpg "Baño con osos marinos en Faunia.")
+![planes con amigas madrid, planes locos madrid, experiencias en Faunia](etheria-images/2020/08/planes-amigas-madrid-faunia.jpg "Baño con osos marinos en Faunia.")
 
 ## 1\. Un baño con osos marinos
 
@@ -40,7 +40,7 @@ objetivos de este plan es concienciar sobre la importancia de nuestros mares y
 **financiar el proyecto de conservación de la foca monje**, uno de los animales 
 acuáticos más amenazados del mundo, en la península de Mauritania. 
 
-![sweet space plan con amigas madrid](etheria_images/2020/08/sweet-space-planes-amigas-madrid.jpg "Una foto imprescindible en © Sweet Space.")
+![sweet space plan con amigas madrid](etheria-images/2020/08/sweet-space-planes-amigas-madrid.jpg "Una foto imprescindible en © Sweet Space.")
 
 ## 2\. Un plan con amigas muy loco
 
@@ -55,7 +55,7 @@ qué te ha parecido. Tiene 10 salas temáticas en cuyo diseño han participado d
 de la talla de Okuda San Miguel o Agatha Ruiz de la Prada. Para visitarlo tienes que 
 dirigirte al ABC Serrano (c/ Serrano, 61). 
 
-![restaurante salvaje madrid](etheria_images/2020/08/salvaje-madrid.jpg "© Restaurante Salvaje Madrid.")
+![restaurante salvaje madrid](etheria-images/2020/08/salvaje-madrid.jpg "© Restaurante Salvaje Madrid.")
 
 ## 3\. Una cena muy "salvaje" en Madrid
 
@@ -69,7 +69,7 @@ divertidas _performances_ durante la cena, y coctelería. Digamos que entre plat
 habrá música, y bailes insinuantes. Aunque se come de maravilla, ya te avisamos de que 
 serán otros los recuerdos que se queden en vuestra memoria. 
 
-![brunch cafe comercial madrid](etheria_images/2020/08/brunch-cafe-comercial.jpg "Brunch del Café Comercial, un excelente plan con amigas en Madrid.")
+![brunch cafe comercial madrid](etheria-images/2020/08/brunch-cafe-comercial.jpg "Brunch del Café Comercial, un excelente plan con amigas en Madrid.")
 
 ## 4\. Brunch con amigas en Madrid
 
@@ -88,7 +88,7 @@ espacio único con más de 130 años de historia. Sábados y domingos de 10 a 13
 Madrid](https://etheriamagazine.com/2020/11/13/brunch-buenos-y-baratos-en-madrid/) en 
 cuanto a relación calidad-precio. 
 
-![esquiar en madrid, snowzone, planes con amigas](etheria_images/2020/08/esquiar-madrid-SnowZone.jpg "Snowzone, para esquiar todo el año en Madrid.")
+![esquiar en madrid, snowzone, planes con amigas](etheria-images/2020/08/esquiar-madrid-SnowZone.jpg "Snowzone, para esquiar todo el año en Madrid.")
 
 ## 5\. Esquiar a cubierto todo el año
 
@@ -104,7 +104,7 @@ tarifas.
 
 ? Más inf. en www.snozonemadrid.com 
 
-![jamming teatro improvisacion](etheria_images/2021/09/teatro-improvisacion-jamming-753x1024.jpg "Jamming, teatro de improvisación y escuela.")
+![jamming teatro improvisacion](etheria-images/2021/09/teatro-improvisacion-jamming-753x1024.jpg "Jamming, teatro de improvisación y escuela.")
 
 ## 6\. La vida es puro teatro
 
@@ -117,7 +117,7 @@ asistido hasta cuarenta veces.
 
 ?Más inf. en www.teatromaravillas.com 
 
-![la boda de rosa](etheria_images/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg "Imagen del cartel de 'La boda de Rosa'.")
+![la boda de rosa](etheria-images/2021/01/Test-Cartel-La-Boda-de-Rosa.jpg "Imagen del cartel de 'La boda de Rosa'.")
 
 ## 7\. Una película con grandes mujeres
 
@@ -133,7 +133,7 @@ Palomero. Como estas no siguen en cartelera, y puede que **_Madres paralelas_** 
 Almodóvar tampoco.. ¿qué te parece una sesión de cine en casa con tus mejores amigas? 
 Para nosotras es un PLANAZO. 
 
-![terrazas hotel, madrid con amigas](etheria_images/2020/08/planes-madrid-Terraza-Hyatt.jpg "Terraza El Jardín de Diana, del Hotel Hyatt Centric Gran Vía.")
+![terrazas hotel, madrid con amigas](etheria-images/2020/08/planes-madrid-Terraza-Hyatt.jpg "Terraza El Jardín de Diana, del Hotel Hyatt Centric Gran Vía.")
 
 ## 8\. Terraceo en El Jardín de Diana
 
@@ -149,7 +149,7 @@ Madrid también nos gusta tomar una copita, aquí la carta está formada por 17 
 Entre ellas, clásicos como el _Clovers Club_ o el _New York Sour_, y otros tan 
 originales como la _Colada Merengada_ y el _Dirty Beer_. 
 
-![masaje bailines, masaje tailandes,](etheria_images/2020/05/tipos-masajes-balines-900x600.jpg "En algunos masajes el aceite es fundamental. © Alan Caishan")
+![masaje bailines, masaje tailandes,](etheria-images/2020/05/tipos-masajes-balines-900x600.jpg "En algunos masajes el aceite es fundamental. © Alan Caishan")
 
 ## 9\. Una tarde de spa y masajes
 
@@ -160,7 +160,7 @@ es [Hamman Al Ándalus Madrid](https://madrid.hammamalandalus.com/) (Atocha, 14,
 cerca de Sol) que traslada sensorialmente al mundo árabe. Os encantarán sus bonitas 
 instalaciones y los tratamientos que ofrece. 
 
-![retrato de Raquel meller en museo sorolla](etheria_images/2020/09/Retrato-de-Raquel-Meller-Sorolla.jpg "Retrato de Raquel Meller, 1918. © Museo Sorolla")
+![retrato de Raquel meller en museo sorolla](etheria-images/2020/09/Retrato-de-Raquel-Meller-Sorolla.jpg "Retrato de Raquel Meller, 1918. © Museo Sorolla")
 
 ## 10\. Museo Sorolla con amigas
 

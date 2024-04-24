@@ -1,12 +1,12 @@
 ---
 title: "Ada Coleman y María Dolors Boadas, referentes de la igualdad en la mixología"
 date: 2020-05-12
-coverImage: etheria_images/2020/05/coctel-hanky-panky.jpeg
+coverImage: etheria-images/2020/05/coctel-hanky-panky.jpeg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -16,7 +16,7 @@ así de lúdico. Es una creación mixológica de Ada Coleman, la mujer que dejó
 el mundo de la mixología con su famoso cóctel. En esta vida el reposo enriquecido con 
 nuestros deseos también es necesario… en sus medidas dosis (cada uno/una con la suya). 
 
-![Ada Coleman y coctel hanky panky](etheria_images/2020/05/coctel-hanky-panky.jpeg "Ada Coleman y su cóctel Hanky Panky. © Pedro Grifol")
+![Ada Coleman y coctel hanky panky](etheria-images/2020/05/coctel-hanky-panky.jpeg "Ada Coleman y su cóctel Hanky Panky. © Pedro Grifol")
 
 Ada Coleman fue la primera mujer _bartender_ en un mundo dominado exclusivamente por los 
 ‘machos alfa’ de la Inglaterra decimonónica. Una figura representativa del ‘poderío 
@@ -30,7 +30,7 @@ personalidad fuerte y la determinación de Ada Coleman hicieron que se convirtie
 **la primera _barmaid_ de la historia** y una de las grandes referentes del mundo 
 coctelero. 
 
-![imagenes del hotel Savoy](etheria_images/2020/04/Hotel-Savoy-Londres-900x506.jpg "© Imágenes del archivo del hotel Savoy.")
+![imagenes del hotel Savoy](etheria-images/2020/04/Hotel-Savoy-Londres-900x506.jpg "© Imágenes del archivo del hotel Savoy.")
 
 ## El Hanky Panky de Ada Coleman
 
@@ -52,7 +52,7 @@ bartender_ del American Bar gracias a su peculiar profesionalidad ¡y talento!
 
 > Su carisma la llevó a convertirse en la primera mujer barman de aquellos tiempos. 
 
-![Charles Henry Hawtrey, Marlene Dietrich, Marilyn Monroe y Charles Chaplin](etheria_images/2020/04/clientes-hotel-savoy-ada-coleman-900x591.jpg "Charles Henry Hawtrey, Marlene Dietrich, Marilyn Monroe y Charles Chaplin. © CC")
+![Charles Henry Hawtrey, Marlene Dietrich, Marilyn Monroe y Charles Chaplin](etheria-images/2020/04/clientes-hotel-savoy-ada-coleman-900x591.jpg "Charles Henry Hawtrey, Marlene Dietrich, Marilyn Monroe y Charles Chaplin. © CC")
 
 ### La creación del 'Hanky Panky'
 
@@ -72,7 +72,7 @@ Aclaración: "Hanky ​​Panky" no es lo mismo en Londres que en los Estados Un
 significa un acto promiscuo; para los ingleses es algo que tiene que ver con la magia o 
 lo ‘brujeril’. 
 
-![coctel hanky panky](etheria_images/2020/05/coctel-ada-coleman.jpeg "Cóctel Hanky Panky. © Pedro Grifol")
+![coctel hanky panky](etheria-images/2020/05/coctel-ada-coleman.jpeg "Cóctel Hanky Panky. © Pedro Grifol")
 
 Esto pasó en 1903, su primer año en Savoy. Desde entonces, Ada Coleman –‘Coley’ para los 
 amigos– pasó a convertirse en todo un referente para el resto sus colegas. Dejó todo un 
@@ -97,7 +97,7 @@ elaborado a partir de varios tipos de hierbas (mirra, ruibarbo, manzanilla, card
 orégano y azafrán… entre otras, que son maceradas en alcohol de vino). En el siguiente 
 vídeo del Grifol's Bar encontraréis todos los pasos (clic en la imagen). 
 
-[![Coctel Hanky Panky dedicado a ada coleman](etheria_images/2020/05/coctel-ada-coleman.jpg "Cóctel Hanky Panky.")](https://www.youtube.com/watch?v=o5Pzid9tT4Q&t=4s)
+[![Coctel Hanky Panky dedicado a ada coleman](etheria-images/2020/05/coctel-ada-coleman.jpg "Cóctel Hanky Panky.")](https://www.youtube.com/watch?v=o5Pzid9tT4Q&t=4s)
 
 El resultado es, a la vista, de color cobre transparente; en nariz, aromas de naranja y 
 vino dulce; y en boca, una entrada seca con un regusto a hierbas que dejan un poso largo 
@@ -119,7 +119,7 @@ servidor (es decir: para el cronista que firma este artículo). Su fallecimiento
 Jerónimo Vaquero, que la quería como si fuera su madre, porque ella lo quería como si 
 fuera su hijo. La leyenda de La Dolors está escrita… y bebida. 
 
-![Portada de La Vanguardia (1984) y Mª Dolor Boadas con Kevin Costner.](etheria_images/2020/04/dolors-boadas-cocteleria-mujer.jpg "Portada de La Vanguardia (1984) y Mª Dolor Boadas con Kevin Costner. © Boadas")
+![Portada de La Vanguardia (1984) y Mª Dolor Boadas con Kevin Costner.](etheria-images/2020/04/dolors-boadas-cocteleria-mujer.jpg "Portada de La Vanguardia (1984) y Mª Dolor Boadas con Kevin Costner. © Boadas")
 
 Resumiendo: En un contexto de, podríamos calificar como de sensibilización feminista, se 
 constata en la actualidad que las mujeres van asumiendo responsabilidad y poderes en la 

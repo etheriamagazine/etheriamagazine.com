@@ -1,22 +1,22 @@
 ---
 title: "10 playas bonitas de España para ir pensando en las vacaciones"
 date: 2019-05-16
-coverImage: etheria_images/2019/03/cala-xarraca-ibiza.jpg
+coverImage: etheria-images/2019/03/cala-xarraca-ibiza.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cada vez queda menos para las vacaciones y ¿a quién no le apetece la imagen de una playa 
 perfecta donde desconectar de todo? Para ir abriendo boca hemos seleccionado 10 playas 
 españolas donde seguro que te gustaría estar ahora mismo. 
 
-![playas de España, viajes en verano, escapadas a la playa](etheria_images/2020/05/playas-espana-zahora-cadiz-900x688.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
+![playas de España, viajes en verano, escapadas a la playa](etheria-images/2020/05/playas-espana-zahora-cadiz-900x688.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
 
 En España si tenemos algo de lo que presumir es de nuestras playas. En el último informe 
 de la Asociación de Educación Ambiental y del Consumidor (Adeac) España ocupaba el 
@@ -27,7 +27,7 @@ acordarás de la tuya, esa a la que siempre quieres volver.
 
 ## 1\. Playa de Bolonia (Cádiz)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/03/playa-de-bolonia.jpg "Playa de Bolonia. © Quino Al")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/03/playa-de-bolonia.jpg "Playa de Bolonia. © Quino Al")
 
 La vista desde lo alto de la enorme duna de la playa de Bolonia, situada entre Zahara de 
 los Atunes y [Tarifa](https://www.cadizturismo.com/municipios/tarifa), es uno de sus 
@@ -39,7 +39,7 @@ interpretación y a las ruinas de Baelo Claudia que están justo al lado.
 
 ## 2\. Playa de Rodas (Islas Cíes, Pontevedra)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/04/playa-espana-Rodas-islas-Cies.jpg "Playa de Rodas en las islas Cíes. © jmubalde/Adobe Stock")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/04/playa-espana-Rodas-islas-Cies.jpg "Playa de Rodas en las islas Cíes. © jmubalde/Adobe Stock")
 
 Las islas Cíes son un auténtico paraíso natural y para preservarlo es necesario pedir un 
 permiso especial en la Xunta de Galicia que permita el acceso al Parque Natural de las 
@@ -49,7 +49,7 @@ ruta de senderismo por la zona.
 
 ## 3\. Playa de las Catedrales (Ribadeo, Lugo)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/03/playa-catedrales-lugo.jpg "Playa de las Catedrales.")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/03/playa-catedrales-lugo.jpg "Playa de las Catedrales.")
 
 Es la máxima expresión de la playa escénica, esa que parece haber sido creada para hacer 
 fotos y rodar películas. Las imponentes rocas de la playa de las Catedrales y el mar 
@@ -58,7 +58,7 @@ marea esté alta o baja, te costará elegir cual te gusta más.
 
 ## 4\. Playa de Maspalomas (Gran Canaria)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/03/playa-maspalomas-gran-canaria.jpg "Dunas de Maspalomas.")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/03/playa-maspalomas-gran-canaria.jpg "Dunas de Maspalomas.")
 
 La imagen de un mar de dunas al que le sigue el océano Atlántico es única. La playa de 
 Maspalomas es tan grande que caben todos: familias, surfistas, nudistas… y ofrece un 
@@ -68,7 +68,7 @@ completo para disfrutarla como merece.
 
 ## 5\. Cala Xarraca (Sant Joan de Labritja, Ibiza)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/03/cala-xarraca-ibiza.jpg "Cala Xarraca. © Josie Kouwenhoven")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/03/cala-xarraca-ibiza.jpg "Cala Xarraca. © Josie Kouwenhoven")
 
 Uno de esos rincones que parece que el Mediterráneo se resiste a enseñar ocultándolo 
 entre bosques de pinos, rocas y acantilados y que ofrecen ese mar transparente tan 
@@ -78,7 +78,7 @@ se encuentran pequeños rincones perfectos para disfrutar si se llega en barco.
 
 ## 6\. Playa de Itzurun (Zumaia, Gipuzkoa)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/03/playa-zumaia.jpg "Playa de Zumaia. © Ryan Magsino")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/03/playa-zumaia.jpg "Playa de Zumaia. © Ryan Magsino")
 
 O de Rocadragón, si eres fan de la popular serie _Juego de Tronos._ Esta playa de arena 
 fina e imponentes acantilados es perfecta tanto para recordar la llegada de la Reina de 
@@ -88,7 +88,7 @@ formado en las rocas por la erosión del mar durante miles de años.
 
 ## 7\. Caló d’Es Mort (Formentera)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/03/calo-des-mort.jpg "Caló d'Es Morts.")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/03/calo-des-mort.jpg "Caló d'Es Morts.")
 
 En Formentera se podría ir de playa en playa y de cala en cala sin querer hacer otra 
 cosa. Hemos elegido Es Caló d’Es Mort, en la zona de Migjorn, por el paisaje que la 
@@ -101,7 +101,7 @@ Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-pla
 
 ## 8\. Playa de San Antonio (Llanes, Asturias)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/04/Playas-Espana-Cabo-de-Mar.jpg "Playa de San Antonio (Llanes). © e55evu/Adobe Stock")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/04/Playas-Espana-Cabo-de-Mar.jpg "Playa de San Antonio (Llanes). © e55evu/Adobe Stock")
 
 La playa de San Antonio es uno de los secretos mejor guardados de la costa asturiana. 
 Protegida por acantilados, hay días en los que se puede disfrutar de un mar transparente 
@@ -114,7 +114,7 @@ coche](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindi
 
 ## 9\. Playa de Langre (Cantabria)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/04/playas-Espana-Langre.jpg "Playa del Langre (Cantabria). © Imagenatural/Adobe Stock")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/04/playas-Espana-Langre.jpg "Playa del Langre (Cantabria). © Imagenatural/Adobe Stock")
 
 La playa de Langre es una preciosa playa en forma de media luna enmarcada por 
 acantilados que se encuentra a tan sólo un kilómetro del pueblo de Langre y se puede 
@@ -123,7 +123,7 @@ practicar surf.
 
 ## 10\. Playa de Monsul (Almería)
 
-![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria_images/2019/04/Playa-Espana-Monsul.jpg "Playa de Monsul (Almería). © txakel/Adobe Stock")
+![playas de España, las mejores playas, escapada con amigas, escapada en familia](etheria-images/2019/04/Playa-Espana-Monsul.jpg "Playa de Monsul (Almería). © txakel/Adobe Stock")
 
 En Almería todavía se pueden encontrar playas vírgenes en parajes naturales increíbles 
 como el Parque Nacional de Cabo de Gata. Una de ellas es la playa del Monsul, que surge 

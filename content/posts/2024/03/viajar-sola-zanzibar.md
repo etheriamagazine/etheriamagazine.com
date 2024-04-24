@@ -1,13 +1,13 @@
 ---
 title: "Consejos básicos de Sania Jelic si viajas sola a Zanzíbar"
 date: 2024-03-15
-coverImage: etheria_images/2024/03/sania-zanzibar-mujeres-playa-paje.jpg
+coverImage: etheria-images/2024/03/sania-zanzibar-mujeres-playa-paje.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -16,7 +16,7 @@ agridulce en su viaje por África. Esta isla, que cuenta con innumerables atract
 naturales y culturales y unas playas increíbles, es muy compleja para una mujer que 
 viaja sola. No te pierdas su análisis del turismo en Zanzíbar y sus consejos de viaje. 
 
-![Playa de Nungwi, en Zanzíbar.](etheria_images/2024/03/sania-zanzibar-nungwi-playa.jpg "Playa de Nungwi, en Zanzíbar. © Sania Jelic.")
+![Playa de Nungwi, en Zanzíbar.](etheria-images/2024/03/sania-zanzibar-nungwi-playa.jpg "Playa de Nungwi, en Zanzíbar. © Sania Jelic.")
 
 No era la primera vez que viajaba a la isla, ya había estado en Zanzíbar en 2001, 
 exactamente en Stonetown y buceando en la zona norte de la isla. Hoy día es un destino 
@@ -44,7 +44,7 @@ madera para que no se caigan. En el gran Palacio de las Maravillas, un edificio
 magnífico, se derrumbó una torre y desde el año 2000 está tapado a la espera de una 
 reconstrucción completa. 
 
-![Sania en una casa antigua de Stone Town.](etheria_images/2024/03/sania-zanzibar-Stone-Town-casa-antigua.jpg "Sania en una casa antigua de Stone Town. © Sania Jelic.")
+![Sania en una casa antigua de Stone Town.](etheria-images/2024/03/sania-zanzibar-Stone-Town-casa-antigua.jpg "Sania en una casa antigua de Stone Town. © Sania Jelic.")
 
 En la ciudad merece la pena visitar el **Mercado Darajani**, el **Mercado del parque 
 Forodhani Gardens**, con puestos de comida al aire libre con buenos _crepes_ (ojo con 
@@ -72,7 +72,7 @@ calientan músculos para las actuaciones posteriores delante de los restaurantes
 **Kendwa Rock** se celebra cada mes “La Fiesta de la Luna Llena”, a la que acude gente 
 de toda la isla y actuán grupos musicales. 
 
-![Reunión de masáis en la playa de Nungwi en Zanzíbar](etheria_images/2024/03/sania-zanzibar-masai-playa.jpg "Reunión de masáis en la playa de Nungwi. © Sania Jelic.")
+![Reunión de masáis en la playa de Nungwi en Zanzíbar](etheria-images/2024/03/sania-zanzibar-masai-playa.jpg "Reunión de masáis en la playa de Nungwi. © Sania Jelic.")
 
 ### Buceo en Nungwi
 
@@ -118,7 +118,7 @@ venta de productos básicos y casas muy humildes. Y la carretera principal por l
 pasa el tráfico en este lado de isla y donde hay algunas tiendas y bares locales. No hay 
 grandes actividades, más allá de la oferta de salidas en barco para hacer esnórquel. 
 
-![Kitesurf en la playa de Paje.](etheria_images/2024/03/sania-zanzibar-kitesurf-Paje.jpg "Kitesurf en la playa de Paje. © Sania Jelic.")
+![Kitesurf en la playa de Paje.](etheria-images/2024/03/sania-zanzibar-kitesurf-Paje.jpg "Kitesurf en la playa de Paje. © Sania Jelic.")
 
 **Paje** es una de las capitales mundiales de **kitesurf**, ya que se dan posiblemente 
 las mejores condiciones para el aprendizaje este deporte. Las clases cuestan unos 90$. 
@@ -142,7 +142,7 @@ gigantes y, a veces, incluso delfines. Los pescadores regresan sobre las siete d
 mañana, la captura se despliega en la arena y se subasta. Las piezas grandes se suelen 
 llevar al mercado de pescado de Stonetown o a algún hotel. 
 
-![Playa de Kizimkazi en Zanzíbar.](etheria_images/2024/03/sania-zanzibar-kizimkazi.jpg "Barcos de pesca en la playa de Kizimkazi en Zanzíbar. © Sania Jelic.")
+![Playa de Kizimkazi en Zanzíbar.](etheria-images/2024/03/sania-zanzibar-kizimkazi.jpg "Barcos de pesca en la playa de Kizimkazi en Zanzíbar. © Sania Jelic.")
 
 El centro de buceo **Divetime Zanzibar** (divetimezanzibar.com) está regentado por una 
 amable pareja húngara y ofrecen inmersiones en las que se pueden ver muchos tipos de 
@@ -175,7 +175,7 @@ programa de voluntariado por un precio módico. Es enormemente gratificante cola
 sobre terreno con este grupo ya que la interacción es directa y el impacto de la 
 colaboración inmediato. 
 
-![Mujeres en la playa de Paje.](etheria_images/2024/03/sania-zanzibar-mujeres-playa-paje.jpg "Mujeres en la playa de Paje. © Marjkl Velner.")
+![Mujeres en la playa de Paje.](etheria-images/2024/03/sania-zanzibar-mujeres-playa-paje.jpg "Mujeres en la playa de Paje. © Marjkl Velner.")
 
 Otra iniciativa en Kizimkazi es la **Assalam Foundation**, creada hace 6 años, un 
 proyecto muy ambicioso con varias líneas de actuación. Facilitan la escolarización 
@@ -203,7 +203,7 @@ trabajen, sobre todo en la hostelería, para estos trabajos se utiliza mano de o
 continente. Tampoco deben tener contacto alguno con turistas, sobre todo con las mujeres 
 extranjeras. 
 
-![Niñas con uniforme en Stone Town.](etheria_images/2024/03/sania-zanzibar-ninas-uniforme.jpg "Niñas con uniforme en Stone Town. © Kaspars Eglitis.")
+![Niñas con uniforme en Stone Town.](etheria-images/2024/03/sania-zanzibar-ninas-uniforme.jpg "Niñas con uniforme en Stone Town. © Kaspars Eglitis.")
 
 En mis viajes he estado prestando atención a la posición de las mujeres en la sociedad, 
 a su calidad de vida y a su nivel de libertad. Hasta donde podía como viajera, hablaba 
@@ -254,7 +254,7 @@ cualquier duración. Esto afecta a aires acondicionados, neveras, etc., y sólo 
 establecimientos con generadores pueden dar estos servicios. Hay que tenerlo en cuenta a 
 la hora de hacer las reservas en los alojamientos. 
 
-![Mujer de Zanzíbar.](etheria_images/2024/03/sania-zanzibar-mujer-turbante.jpg "Mujer de Zanzíbar. © Majkl Velner.")
+![Mujer de Zanzíbar.](etheria-images/2024/03/sania-zanzibar-mujer-turbante.jpg "Mujer de Zanzíbar. © Majkl Velner.")
 
 ### Las mareas
 

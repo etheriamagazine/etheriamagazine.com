@@ -1,12 +1,12 @@
 ---
 title: "Razones, si es que las necesitas, por las que deberías planear ya una escapada por la provincia de Segovia"
 date: 2021-03-09
-coverImage: etheria_images/2021/03/segovia-Jardines-y-palacio-de-La-Granja.jpg
+coverImage: etheria-images/2021/03/segovia-Jardines-y-palacio-de-La-Granja.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
@@ -15,7 +15,7 @@ manga que te desvelamos en este artículo que contiene 15 visitas imprescindible
 hacer en Segovia y provincia. Y recuerda, cualquier momento del año es bueno para 
 disfrutar de los numerosos encantos que brinda. 
 
-![madriguera pueblo rojo de segovia](etheria_images/2021/03/ruta-por-segovia-Madriguera.jpg "Madriguera es uno de los pueblos rojos de Segovia. © Diputación Provincia de Segovia")
+![madriguera pueblo rojo de segovia](etheria-images/2021/03/ruta-por-segovia-Madriguera.jpg "Madriguera es uno de los pueblos rojos de Segovia. © Diputación Provincia de Segovia")
 
 Sois de las que os gusta documentaros antes de emprender un viaje y trazar con esa 
 información una sugerente guía? Pues seguid leyendo porque aquí encontraréis los **15 
@@ -49,7 +49,7 @@ Guadarrama](#rutas-parques-segovia). [Los castillos más bonitos de
 Segovia](#castillos-segovia). [De pueblo en pueblo: Sepúlveda, Pedraza, 
 Ayllón...](#pueblos-segovia) 
 
-![alcazar de segovia uno de los lugares imprescindibles que ver en Segovia](etheria_images/2021/03/segovia-alcazar-de-Segovia.jpg "Alcázar de Segovia. © Yolanda Cardo")
+![alcazar de segovia uno de los lugares imprescindibles que ver en Segovia](etheria-images/2021/03/segovia-alcazar-de-Segovia.jpg "Alcázar de Segovia. © Yolanda Cardo")
 
 ## 1\. Qué ver en Segovia capital
 
@@ -79,7 +79,7 @@ XVIII, su estilo está catalogado como gótico tardío.
 ?**Dónde comer en Segovia:** [Los tres tenores del cochinillo, una historia de amor 
 correspondido.](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/) 
 
-![panoramica del acueducto romano de segovia](etheria_images/2021/03/segovia-acueducto-romano.jpg "Acueducto romano de Segovia. © Dip. Prov. de Segovia")
+![panoramica del acueducto romano de segovia](etheria-images/2021/03/segovia-acueducto-romano.jpg "Acueducto romano de Segovia. © Dip. Prov. de Segovia")
 
 Muy interesantes también: la **iglesia de San Esteban** con su impresionante 
 torre-campanario de 50 metros de altura y la de San Martín con su espléndida galería 
@@ -94,7 +94,7 @@ Fuencisla, patrona de la ciudad, y muy cerca de allí un edificio muy especial d
 dodecagonal, posiblemente de origen templario, la **iglesia de la Veracruz**. No os la 
 perdáis. 
 
-![palacio y jardines de la granja en segovia lugares imprescindibles que ver en Segovia](etheria_images/2021/03/segovia-Jardines-y-palacio-de-La-Granja.jpg "Bonito palacio y jardines de la Granja. © Dip.Prov. de Segovia")
+![palacio y jardines de la granja en segovia lugares imprescindibles que ver en Segovia](etheria-images/2021/03/segovia-Jardines-y-palacio-de-La-Granja.jpg "Bonito palacio y jardines de la Granja. © Dip.Prov. de Segovia")
 
 ## Reinas por un día o más… en los Reales Sitios
 
@@ -122,7 +122,7 @@ o [Visita guiada por el palacio y sus
 jardines](https://www.civitatis.com/es/real-sitio-de-san-ildefonso/?aid=10211) (unos 20 
 € pero merece la pena) 
 
-![encendido fuentes palacio de la granja](etheria_images/2021/03/segovia-fuentes-palacio-granja.jpg "Fuente del palacio de la Granja, en Segovia.")
+![encendido fuentes palacio de la granja](etheria-images/2021/03/segovia-fuentes-palacio-granja.jpg "Fuente del palacio de la Granja, en Segovia.")
 
 #### Los jardines de la Granja
 
@@ -148,7 +148,7 @@ Austrias destruido por el fuego en 1697. Si tienen curiosidad por saber qué asp
 tenía, en las instalaciones de [CENEAM](https://www.miteco.gob.es/es/ceneam/quienes-somos/) 
 se exhibe una maqueta. 
 
-![palacio real de riofrio en segovia](etheria_images/2021/03/segovia-Palacio-de-Riofrio.jpg "Palacio Real de Riofrío. © Dip. Prov. de Segovia")
+![palacio real de riofrio en segovia](etheria-images/2021/03/segovia-Palacio-de-Riofrio.jpg "Palacio Real de Riofrío. © Dip. Prov. de Segovia")
 
 #### 4\. Palacio Real de Riofrío
 
@@ -165,7 +165,7 @@ naturaleza. Entre los 15 lugares imprescindibles que ver en Segovia también ten
 parque nacional, el de la sierra de Guadarrama, y dos parques naturales, el de las hoces 
 del Duratón y el del río Riaza. Te damos más detalles. 
 
-![Sierra de Guadarrama desde segovia](etheria_images/2021/03/segovia-Sierra-de-Guadarrama.jpg "Sierra de Guadarrama. © Turismo Diputación de Segovia")
+![Sierra de Guadarrama desde segovia](etheria-images/2021/03/segovia-Sierra-de-Guadarrama.jpg "Sierra de Guadarrama. © Turismo Diputación de Segovia")
 
 ### 5\. Parque Nacional de la Sierra de Guadarrama
 
@@ -176,7 +176,7 @@ Sierra de Guadarrama**. Un paraíso para los senderistas que podrán ascender ha
 2.428 metros de Peñalara o atravesar el puerto de Navafría y subir los 2.100 m. del 
 Reajo Alto. Si necesitáis desconectar este es un buen lugar. 
 
-![hoces del rio duraton lugares imprescindibles que ver en Segovia](etheria_images/2021/03/segovia-hoces-del-rio-Duraton.jpg "Panorámica de las hoces del río Duratón, en Segovia. © Turismo Diputación de Segovia")
+![hoces del rio duraton lugares imprescindibles que ver en Segovia](etheria-images/2021/03/segovia-hoces-del-rio-Duraton.jpg "Panorámica de las hoces del río Duratón, en Segovia. © Turismo Diputación de Segovia")
 
 ### 6\. Parque Natural de las Hoces del río Duratón
 
@@ -190,7 +190,7 @@ de sol desde el espolón que se abre hacia la garganta.
 Duratón](https://www.civitatis.com/es/fuenterrebollo/tour-kayak-hoces-duraton/?aid=10211) 
 (27 €) 
 
-![parque natural hoces del riaza lugares bonitos que ver en Segovia](etheria_images/2021/03/segovia-hoces-del-Riaza.jpg "Parque Natural Hoces del Río Riaza. © Dip. Prov. de Segovia")
+![parque natural hoces del riaza lugares bonitos que ver en Segovia](etheria-images/2021/03/segovia-hoces-del-Riaza.jpg "Parque Natural Hoces del Río Riaza. © Dip. Prov. de Segovia")
 
 ### 7\. Parque Natural Hoces del Río Riaza
 
@@ -201,7 +201,7 @@ profundidad. Con un poco de suerte seréis testigos de las coreografías aéreas
 regalan a veces bandadas de buitres. Un espectáculo inolvidable que lo hace merecedor de 
 un espacio en nuestro listado de lugares imprescindibles que ver en Segovia. 
 
-![cueva de los enebralejos en segovia](etheria_images/2021/03/segovia-cueva-de-los-Enebralejos.jpg "© Cueva de los Enebralejos, en Segovia.")
+![cueva de los enebralejos en segovia](etheria-images/2021/03/segovia-cueva-de-los-Enebralejos.jpg "© Cueva de los Enebralejos, en Segovia.")
 
 ### 8\. Cueva de los Enebralejos
 
@@ -213,7 +213,7 @@ estalactitas, coladas, columnas y banderas. Además los grabados y pinturas hall
 su interior, datados hacia el 2.500 a.C, son veraces testigos de la presencia humana 
 hace siglos en esta zona. 
 
-![castillo de coca lugares imprescindibles que ver en Segovia](etheria_images/2021/03/segovia-castillo-de-coca.jpg "Castillo de Coca, en Segovia. © DPS")
+![castillo de coca lugares imprescindibles que ver en Segovia](etheria-images/2021/03/segovia-castillo-de-coca.jpg "Castillo de Coca, en Segovia. © DPS")
 
 ## Segovia de castillo en castillo
 
@@ -226,7 +226,7 @@ de principios del siglo XV. A punto estuvo de desaparecer a mano de los comunero
 clamaban venganza por la quema de Medina del Campo por orden del obispo de Fonseca, el 
 personaje que lo mando construir. 
 
-![castillo de turegano en segovia](etheria_images/2021/03/segovia-Castillo-de-Turegano.jpg "Castillo de Turégano. © Dip. Provincia de Segovia")
+![castillo de turegano en segovia](etheria-images/2021/03/segovia-Castillo-de-Turegano.jpg "Castillo de Turégano. © Dip. Provincia de Segovia")
 
 ### 10\. Castillo de Turégano
 
@@ -236,7 +236,7 @@ sobresale de sus muros. El Viernes Santo la procesión de El Silencio avanza ilu
 por miles de velas hasta la iglesia de la fortaleza donde devuelven al Cristo del 
 Amparo. 
 
-![castillo de cuellar segovia](etheria_images/2021/03/segovia-castillo-de-Cuellar.jpg "Castillo de Cuéllar, en Segovia. © Dip.Provincial de Segovia")
+![castillo de cuellar segovia](etheria-images/2021/03/segovia-castillo-de-Cuellar.jpg "Castillo de Cuéllar, en Segovia. © Dip.Provincial de Segovia")
 
 ### 11\. Castillo de Cuéllar
 
@@ -250,7 +250,7 @@ religiosa.
 Veamos otras hermosas construcciones defensivas que conforman el patrimonio de los 
 lugares que os contamos a continuación. 
 
-![ruta turistica por pedraza](etheria_images/2021/03/segovia-villa-de-Pedraza.jpg "La bonita villa de Pedraza, en Segovia. © Dip.Prov. de Segovia")
+![ruta turistica por pedraza](etheria-images/2021/03/segovia-villa-de-Pedraza.jpg "La bonita villa de Pedraza, en Segovia. © Dip.Prov. de Segovia")
 
 ## Pueblos con encanto en Segovia
 
@@ -274,7 +274,7 @@ restaurantes estén repletos. No olvidéis reservar.
 grupos](https://www.civitatis.com/es/pedraza/tour-privado-pedraza/?aid=10211), hasta 4 
 personas 90 €, luego sube un poco. 
 
-![ciudad de sepulveda rutas en segovia](etheria_images/2021/03/segovia-Sepulveda.jpg "Panorámica de la bella localidad de Sepúveda. © Turismo Diputación de Segovia")
+![ciudad de sepulveda rutas en segovia](etheria-images/2021/03/segovia-Sepulveda.jpg "Panorámica de la bella localidad de Sepúveda. © Turismo Diputación de Segovia")
 
 ### 13\. Sepúlveda, visita obligada en Segovia
 
@@ -306,7 +306,7 @@ usaba para reposar de sus viajes entre Madrid y París.
 ? [Tour privado por 
 Ayllón](https://www.civitatis.com/es/ayllon/tour-privado-ayllon/?aid=10211). 
 
-![el muyo pueblo negro de segovia](etheria_images/2021/03/segovia-pueblo-El-Muyo.jpg "El Muyo debe su tonalidad al tono oscuro de las pizarras. © Turismo Diputación de Segovia")
+![el muyo pueblo negro de segovia](etheria-images/2021/03/segovia-pueblo-El-Muyo.jpg "El Muyo debe su tonalidad al tono oscuro de las pizarras. © Turismo Diputación de Segovia")
 
 ### 15\. Los pueblos de colores: negro, rojo o amarillo
 
@@ -322,7 +322,7 @@ y Martín Muñoz de Ayllón, amarillos. Para gustos ya sabéis lo que dicen.
 
 **También te puede interesar...** 
 
-![cochinillo restaurante jose maria](etheria_images/2020/11/restaurante-jose-maria-segovia.jpg "Cochinillo deshuesado y vino Pago de Carraovejas del © restaurante José María (Segovia).")
+![cochinillo restaurante jose maria](etheria-images/2020/11/restaurante-jose-maria-segovia.jpg "Cochinillo deshuesado y vino Pago de Carraovejas del © restaurante José María (Segovia).")
 
 ? [11 escapadas de un día a 100 km o más de 
 Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/). 

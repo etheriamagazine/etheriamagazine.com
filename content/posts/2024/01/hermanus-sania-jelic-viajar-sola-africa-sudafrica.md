@@ -1,13 +1,13 @@
 ---
 title: "Hermanus, primera parada del viaje de Sania Jelic sola por África"
 date: 2024-01-17
-coverImage: etheria_images/2024/01/sania-sudafrica-hermanus-costa.jpg
+coverImage: etheria-images/2024/01/sania-sudafrica-hermanus-costa.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -17,7 +17,7 @@ viaje en Sudáfrica, en la deliciosa ciudad de Hermanus, uno de los mejores luga
 planeta para avistar ballenas desde la costa. No te pierdas las experiencias de Sania en 
 Hermanus porque África siempre sorprende. 
 
-![Sania en Hermanus, en la costa preparada para avistar ballenas.](etheria_images/2024/01/sania-sudafrica-hermanus-costa.jpg "Sania en Hermanus, en la costa preparada para avistar ballenas. © Sania Jelic.")
+![Sania en Hermanus, en la costa preparada para avistar ballenas.](etheria-images/2024/01/sania-sudafrica-hermanus-costa.jpg "Sania en Hermanus, en la costa preparada para avistar ballenas. © Sania Jelic.")
 
 Después de un [viaje de casi seis meses por América 
 Latina](https://etheriamagazine.com/author/sania-jelic/), esta vez quiero dedicarle 
@@ -51,7 +51,7 @@ Ya comenté en alguna ocasión que para una mujer que viaja sola las ciudades pe
 medianas son mucho más cómodas y seguras para viajar que las grandes urbes, por eso 
 Hermanus era una parada perfecta para este viaje. 
 
-![Camino señalizado por la costa para avistar ballenas.](etheria_images/2024/01/sania-hermanus-camino-avistamiento.jpg "Camino señalizado por la costa para practicar senderismo. © Sania Jelic.")
+![Camino señalizado por la costa para avistar ballenas.](etheria-images/2024/01/sania-hermanus-camino-avistamiento.jpg "Camino señalizado por la costa para practicar senderismo. © Sania Jelic.")
 
 Durante el día, es un lugar relativamente seguro donde todos pueden disfrutar de la 
 vista en **Walker Bay** y sus alrededores en paz. El sendero de los acantilados debe 
@@ -70,7 +70,7 @@ espectáculo impresionante. Estos cetáceos eligen la bahía para dar a luz dura
 meses de junio y julio, permaneciendo en la zona hasta diciembre. Durante este tiempo, 
 los ballenatos crecen y se fortalecen para emprender su largo viaje hacia el sur. 
 
-![Zona de la costa en Hermanus desde la que se avistan las ballenas.](etheria_images/2024/01/sania-sudafrica-hermanus-avistamiento.jpg "Zona de la costa en Hermanus desde la que se avistan las ballenas. © Sania Jelic.")
+![Zona de la costa en Hermanus desde la que se avistan las ballenas.](etheria-images/2024/01/sania-sudafrica-hermanus-avistamiento.jpg "Zona de la costa en Hermanus desde la que se avistan las ballenas. © Sania Jelic.")
 
 Se pueden avistar ballenas saltando en el agua, muy cerca de la orilla. Nadan en 
 parejas, con cada madre acompañada de su ballenato. A partir de octubre, son 
@@ -130,7 +130,7 @@ divertidas catas de vinos.
 Tsitsikama**, con un bosque primario espectacular; o al **Parque Nacional Addo**, que 
 tiene una gran población de elefantes. 
 
-![Damán de roca en Hermanus.](etheria_images/2024/01/sania-hermanus-sudafrica-daman-de-roca.jpg "Damán de roca en Hermanus. © Sania Jelic.")
+![Damán de roca en Hermanus.](etheria-images/2024/01/sania-hermanus-sudafrica-daman-de-roca.jpg "Damán de roca en Hermanus. © Sania Jelic.")
 
 ✅ Una curiosidad: en el mirador **Gearing’s Point**, verás en las rocas unos animalitos 
 que parecen una mezcla de capibaras pequeñas y algún otro roedor. Son de la especie 
@@ -170,7 +170,7 @@ privadas disponen de generadores o placas solares, pero el alumbrado urbano se a
 Es recomendable bajarse la aplicación de móvil **ESP–Loadshedding** (https://esp.info) 
 para estar al corriente de los apagones en la región donde se vaya a ir. 
 
-![Bar-restaurante Bientangs.](etheria_images/2024/01/sania-sudafrica-hermanus-bientangs-restaurante.jpg "Bar-restaurante Bientangs. © Sania Jelic.")
+![Bar-restaurante Bientangs.](etheria-images/2024/01/sania-sudafrica-hermanus-bientangs-restaurante.jpg "Bar-restaurante Bientangs. © Sania Jelic.")
 
 ### Dónde dormir, comer o comprar en Hermanus
 

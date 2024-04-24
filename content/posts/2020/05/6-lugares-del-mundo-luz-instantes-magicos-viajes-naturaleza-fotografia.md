@@ -1,12 +1,12 @@
 ---
 title: "6 maravillas del mundo para apasionadas de la luz"
 date: 2020-05-04
-coverImage: etheria_images/2020/04/viajar-sola-islas-lofoten.jpg
+coverImage: etheria-images/2020/04/viajar-sola-islas-lofoten.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -15,7 +15,7 @@ amanecer y al ocaso. Estos momentos se convierten en recuerdos imborrables que q
 grabados en nuestra memoria y nos impulsan a esperar pacientemente el momento de partir 
 de nuevo. 
 
-![Búfalo en el Delta del Okavango.](etheria_images/2020/04/delta-okavango-bufalo-900x600.jpg "Búfalo en el Delta del Okavango.")
+![Búfalo en el Delta del Okavango.](etheria-images/2020/04/delta-okavango-bufalo-900x600.jpg "Búfalo en el Delta del Okavango.")
 
 ## 1\. Amanece en el Delta del Okavango
 
@@ -30,7 +30,7 @@ aridez circundante del desierto del Kalahari, atrae a la fauna africana.
 > Uno de sus cinco grandes mamíferos, el búfalo, no podría faltar a esta cita con la vida 
 > y con el comienzo de un nuevo día. 
 
-![Aurora boreal sobre el lago Jokulsarlon (Islandia).](etheria_images/2020/04/viajes-aurora-islandia-Jokulsarlon-694x1024.jpg "Aurora boreal sobre el lago Jokulsarlon (Islandia).")
+![Aurora boreal sobre el lago Jokulsarlon (Islandia).](etheria-images/2020/04/viajes-aurora-islandia-Jokulsarlon-694x1024.jpg "Aurora boreal sobre el lago Jokulsarlon (Islandia).")
 
 ##  2. Auroras boreales en Islandia
 
@@ -49,7 +49,7 @@ esperar cómodamente a ver una aurora boreal, no tienes más que sentarte y disf
 > La primavera es uno de los mejores momentos para sentir la magia que nos aportan las 
 > auroras boreales en Islandia 
 
-![Islas Lofoten (Noruega).](etheria_images/2020/04/viajar-sola-islas-lofoten-900x595.jpg "Islas Lofoten (Noruega).")
+![Islas Lofoten (Noruega).](etheria-images/2020/04/viajar-sola-islas-lofoten-900x595.jpg "Islas Lofoten (Noruega).")
 
 ## 3\. Refugio al caer la tarde, Lofoten
 
@@ -66,7 +66,7 @@ cálidas, las de sentirse en armonía con lo que nos rodea.
 > Los pequeños pueblos de pescadores de las Lofoten son un refugio cálido en este paisaje 
 > helado de Noruega 
 
-![Extraordinarias luces de las islas Lofoten, en Noruega.](etheria_images/2020/04/viajes-mujeres-islas-lofoten-900x600.jpg "Extraordinarias luces de las islas Lofoten, en Noruega.")
+![Extraordinarias luces de las islas Lofoten, en Noruega.](etheria-images/2020/04/viajes-mujeres-islas-lofoten-900x600.jpg "Extraordinarias luces de las islas Lofoten, en Noruega.")
 
 ## 4\. Expedición fantasía, Utah
 
@@ -84,7 +84,7 @@ del tiempo al ver como la luz cambia sus perfiles.
 > Entretanto, la naturaleza seguirá labrando siluetas curiosas en sus superficies y, a la 
 > vez, aportando serenidad a quien se acerca a ellas. 
 
-![Paisajes oníricos en el cañón Fantasy de Utah.](etheria_images/2020/04/viajes-utah-estados-unidos-900x900.jpg "Paisajes oníricos en el cañón Fantasy de Utah.")
+![Paisajes oníricos en el cañón Fantasy de Utah.](etheria-images/2020/04/viajes-utah-estados-unidos-900x900.jpg "Paisajes oníricos en el cañón Fantasy de Utah.")
 
 ## 5\. El fin del mundo, Skellig
 
@@ -103,7 +103,7 @@ alineados con la naturaleza.
 > y frailecillos saben hacer buen uso de la tenacidad en un lugar donde merece la pena el 
 > reto de vivir. 
 
-![Islas de Skellig, en el condado de Kerry (Irlanda).](etheria_images/2020/04/viajes-irlanda-skellig-michael-683x1024.jpg "Islas de Skellig, en el condado de Kerry (Irlanda).")
+![Islas de Skellig, en el condado de Kerry (Irlanda).](etheria-images/2020/04/viajes-irlanda-skellig-michael-683x1024.jpg "Islas de Skellig, en el condado de Kerry (Irlanda).")
 
 ## 6\. Cielo estrellado, Eifel
 
@@ -118,7 +118,7 @@ que ha sido declarado **Paraíso Starlight.**
 > Con el guiño de su brillo sobre Europa, uno de los continentes más poblados, regalan un 
 > cielo que parece una joya que chispea entre tanta oscuridad. 
 
-![El Parque Natural Eifel es un Destino Starlight.](etheria_images/2020/04/viajes-parque-eifel-683x1024.jpg "El Parque Natural Eifel es un Destino Starlight.")
+![El Parque Natural Eifel es un Destino Starlight.](etheria-images/2020/04/viajes-parque-eifel-683x1024.jpg "El Parque Natural Eifel es un Destino Starlight.")
 
 **También te puede interesar...** 
 

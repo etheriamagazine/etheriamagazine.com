@@ -1,13 +1,13 @@
 ---
 title: "Qué comer en el Valle de Aosta, descubre los mejores sabores de los Alpes italianos"
 date: 2023-11-08
-coverImage: etheria_images/2023/10/valle-de-aosta-queso-Fontina.jpg
+coverImage: etheria-images/2023/10/valle-de-aosta-queso-Fontina.jpg
 categories: 
   - viajes-con-amigas
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Nos vamos al Valle de Aosta, un pequeño y delicioso rincón de Italia situado en el 
@@ -16,7 +16,7 @@ natural, tienen en la gastronomía una razón de peso para convertirse en protag
 tu próximo viaje. No te pierdas ninguna de las delicatesen que te explicamos a 
 continuación y que tendrás que probar sí o sí. Te van a gustar todas. 
 
-![Queso Fontina del valle de Aosta](etheria_images/2023/10/valle-de-aosta-queso-Fontina.jpg "Queso Fontina, con Denominación de Origen Protegida. © Gaetano Madonia.")
+![Queso Fontina del valle de Aosta](etheria-images/2023/10/valle-de-aosta-queso-Fontina.jpg "Queso Fontina, con Denominación de Origen Protegida. © Gaetano Madonia.")
 
 Fronterizo con Francia y Suiza y rodeado por algunos de los picos más altos de los 
 Alpes, el Valle de Aosta es el corazón de los Alpes italianos. Es la región más pequeña 
@@ -38,7 +38,7 @@ Por tanto, ya en la Edad Media surgieron los primeros asentamientos fortificados
 castillos y torres se han convertido hoy día en un rasgo distintivo del paisaje de este 
 valle. Es, sin duda, un lugar perfecto para vivir unas Navidades blancas. 
 
-![árbol de Navidad en Aosta](etheria_images/2023/10/valle-de-aosta-Piazza-Chanoux-Aosta.jpg "Piazza Chanoux en Aosta en la época navideña. © Enrico Romanzi.")
+![árbol de Navidad en Aosta](etheria-images/2023/10/valle-de-aosta-Piazza-Chanoux-Aosta.jpg "Piazza Chanoux en Aosta en la época navideña. © Enrico Romanzi.")
 
 ## Un valle con Denominación de Origen
 
@@ -57,7 +57,7 @@ el **Fontina**, principal queso de vaca de la región, el sabroso **tocino de Ar
 un delicado jamón crudo, el **Jambon de Bosses**. A continuación te contamos sus 
 particularidades con todo detalle. 
 
-![](etheria_images/2023/10/valle-de-aosta-Borgo-Saint-Rhemy.jpg "En Saint-Rhémy-En-Bosses se produce un delicioso jamón con DOP.")
+![](etheria-images/2023/10/valle-de-aosta-Borgo-Saint-Rhemy.jpg "En Saint-Rhémy-En-Bosses se produce un delicioso jamón con DOP.")
 
 ### Queso Fontina DOP
 
@@ -69,7 +69,7 @@ proteínas y enzimas lácteas vivas y, precisamente por la ausencia de tratamien
 térmico, la materia prima debe proceder de explotaciones en las que se garanticen 
 elevados niveles de higiene y bienestar animal. 
 
-![Productor del queso Fontina DOP en el Valle de Aosta.](etheria_images/2023/10/valle-de-aosta-Magazzino-Fontine-di-Valpelline.jpg "Producción del queso Fontina DOP en el Valle de Aosta. © Enrico Romanzi.")
+![Productor del queso Fontina DOP en el Valle de Aosta.](etheria-images/2023/10/valle-de-aosta-Magazzino-Fontine-di-Valpelline.jpg "Producción del queso Fontina DOP en el Valle de Aosta. © Enrico Romanzi.")
 
 Para conseguir este delicioso queso las vacas de la raza Valle d'Aosta pastan en 
 libertad en las montañas, hasta a 2.700 metros sobre el nivel del mar, de junio a 
@@ -91,7 +91,7 @@ un proceso especial de curación. Su **sabor dulce** hace que se pueda disfrutar
 aperitivo, combinado con pan negro y miel. Es un producto tan versátil que se emplea 
 también como condimento en la preparación de platos a base de polenta y caza. 
 
-![Canapé con tocino Lardo di Arnad DOP.](etheria_images/2023/11/valle-aosta-tocino-Lard-d-Arnad.jpg "Canapé con tocino Lardo di Arnad DOP.")
+![Canapé con tocino Lardo di Arnad DOP.](etheria-images/2023/11/valle-aosta-tocino-Lard-d-Arnad.jpg "Canapé con tocino Lardo di Arnad DOP.")
 
 ### Jambon de Bosses DOP
 
@@ -103,7 +103,7 @@ incluye la salazón, la adición de hierbas aromáticas de montaña y una curaci
 doce meses, en un lecho de heno. Es posible visitar los locales de producción y curación 
 durante todo el año previa reserva telefónica. 
 
-![Elaboración del Jambon de Bosses DOP.](etheria_images/2023/11/valle-aosta-jamon-de-bosses.jpg "Elaboración del Jambon de Bosses DOP. © Stefano Venturini.")
+![Elaboración del Jambon de Bosses DOP.](etheria-images/2023/11/valle-aosta-jamon-de-bosses.jpg "Elaboración del Jambon de Bosses DOP. © Stefano Venturini.")
 
 ## Otras especialidades locales
 
@@ -117,7 +117,7 @@ La polenta concia, preparada con harina de maíz, mantequilla y queso Fontina DO
 gratinada al horno, combina muy bien con guisos de carne de vacuno o de caza. Es un 
 plato contundente y sabroso que reconforta desde la primera cucharada. 
 
-![plato de polenta concia en el valle de aosta](etheria_images/2023/11/valle-de-aosta-Polenta-concia.jpg "La polenta concia es una de las especialidades del Valle de Aosta. © Enrico Romanzi.")
+![plato de polenta concia en el valle de aosta](etheria-images/2023/11/valle-de-aosta-Polenta-concia.jpg "La polenta concia es una de las especialidades del Valle de Aosta. © Enrico Romanzi.")
 
 ### Café a la valdostana
 
@@ -129,7 +129,7 @@ especias y ¡se sirve en llamas! Hay que tomarlo por unas boquillas de la copa y
 de comensal a comensal. Como curiosidad, según la tradición, una vez levantada no debe 
 ser apoyada sobre la mesa hasta que esté vacía. 
 
-![café flambeado del valle de Aosta](etheria_images/2023/10/valle-de-aosta-cafe-alla-valdostana.jpg "Café a la valdostana en la "copa de la amistad". © Enrico Romanzi.")
+![café flambeado del valle de Aosta](etheria-images/2023/10/valle-de-aosta-cafe-alla-valdostana.jpg "Café a la valdostana en la "copa de la amistad". © Enrico Romanzi.")
 
 ### Vino del valle de Aosta
 
@@ -156,7 +156,7 @@ planeta, y podrás probar el _**mécoulin**_, una especie de _panettone_ local e
 con pasas, y la **crema de Cogne**, un delicioso postre de cuchara a base de nata, 
 azúcar y chocolate. 
 
-![camarera sirviendo crema di Cogne en el Valle de Aosta.](etheria_images/2023/10/valle-de-aosta-crema-di-Cogne.jpg "La crema de Cogne es una deliciosa crema con cacao que se degusta en el Valle de Aosta. © Enrico Romanzi.")
+![camarera sirviendo crema di Cogne en el Valle de Aosta.](etheria-images/2023/10/valle-de-aosta-crema-di-Cogne.jpg "La crema de Cogne es una deliciosa crema con cacao que se degusta en el Valle de Aosta. © Enrico Romanzi.")
 
 **Más información** 
 

@@ -1,20 +1,20 @@
 ---
 title: "Marisa de León, de Viajes Mundo Amigo: \"Los viajes lo han aportado todo a mi vida\""
 date: 2019-03-18
-coverImage: etheria_images/2019/03/marisa-viajes-mundo-amigo.jpg
+coverImage: etheria-images/2019/03/marisa-viajes-mundo-amigo.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Tenaz, trabajadora y exigente con ella misma, Marisa de León Portolés lleva más de 
 treinta años centrada en el mundo de las agencias de viajes. Fundó Viajes Mundo Amigo 
 junto con un socio hace dos décadas y sigue levantándose cada día con la misma ilusión. 
 
-\[caption id="attachment\_8127" align="aligncenter" width="900"\]![marisa de leon portoles, viajes mundo amigo, viajeras etheria, mujeres del turismo](etheria_images/2019/03/viajes-mundo-amigo-medellin-botero.jpg "Marisa en su viaje a Medellín (Colombia).") Marisa en su viaje a Medellín (Colombia).\[/caption\]
+\[caption id="attachment\_8127" align="aligncenter" width="900"\]![marisa de leon portoles, viajes mundo amigo, viajeras etheria, mujeres del turismo](etheria-images/2019/03/viajes-mundo-amigo-medellin-botero.jpg "Marisa en su viaje a Medellín (Colombia).") Marisa en su viaje a Medellín (Colombia).\[/caption\]
 
 Marisa transmite calidez y cercanía. Su sonrisa franca refleja la seguridad que un viajero necesita para dejarse aconsejar en algo tan serio como son las vacaciones. Desde joven tuvo muy claro que su vida era el turismo, y se licenció en Empresas y Actividades Turísticas. Su trayectoria comenzó a forjarse con 18 años mientras acompañaba grupos por España con Viajes Olympia, cuatro años después ya estaba haciendo de guía internacional por todo el mundo. Al cumplir 30, dejó el trabajo a pie de campo para incorporarse a Viajes Mundo Joven, donde fue directora y jefa de guías hasta que cerró la empresa en 1998. Ese fue el punto inflexión, ya que un año después fundó la agencia [Viajes Mundo Amigo](https://www.mundoamigo.es/), especializada en viajes culturales, que este año celebra su 20º aniversario.
 
@@ -33,7 +33,7 @@ Conocer, aprender para poder programar nuevas rutas con enfoques distintos a los
 
 Los viajes me lo han aportado TODO en mi vida. Son mi medio de trabajo y de vida, vivo por y para ellos, fueron mi “celestina” y, gracias a ellos, encontré a mi marido y padre de mis hijos. Son una universidad en vivo de historia, arte, sociología, psicología, arquitectura, música, idiomas, etc.
 
-\[caption id="attachment\_8126" align="aligncenter" width="710"\]![marisa de leon portoles, viajes mundo amigo, viajeras etheria, mujeres del turismo](etheria_images/2019/03/viajes-mundo-amigo-cartagena-indias.jpg "Viaje a Cartagena de Indias (Colombia).") Viaje a Cartagena de Indias (Colombia).\[/caption\]
+\[caption id="attachment\_8126" align="aligncenter" width="710"\]![marisa de leon portoles, viajes mundo amigo, viajeras etheria, mujeres del turismo](etheria-images/2019/03/viajes-mundo-amigo-cartagena-indias.jpg "Viaje a Cartagena de Indias (Colombia).") Viaje a Cartagena de Indias (Colombia).\[/caption\]
 
 4\. Si pudieses elegir un compañero de viaje. ¿Quién sería y por qué? 
 
@@ -50,7 +50,7 @@ Me gusta improvisar, aunque mi carácter y mi experiencia me aconsejan planifica
 
 Dependiendo con quien viaje y los motivos. Si es por placer y en familia, cafetería y _duty free_; si es por trabajo, me engancho al ordenador y aprovecho para repasar correos, preparar las reuniones a las que vaya asistir y leer un poco sobre el lugar al que voy a viajar.
 
-\[caption id="attachment\_8128" align="aligncenter" width="900"\]![marisa de leon portoles, viajes mundo amigo, viajeras etheria, mujeres del turismo](etheria_images/2019/03/marisa-viajes-mundo-amigo-Carcasone.jpg "Viaje a Carcasona (Francia).") Viaje a Carcasona (Francia).\[/caption\]
+\[caption id="attachment\_8128" align="aligncenter" width="900"\]![marisa de leon portoles, viajes mundo amigo, viajeras etheria, mujeres del turismo](etheria-images/2019/03/marisa-viajes-mundo-amigo-Carcasone.jpg "Viaje a Carcasona (Francia).") Viaje a Carcasona (Francia).\[/caption\]
 
 7\. ¿Cuál ha sido hasta ahora el mejor viaje de tu vida? ¿Por qué? 
 
@@ -60,7 +60,7 @@ No sabría decirte, pero me inclinaría por un viaje a **Colombia** que hice aco
 
 Mi último viaje ha sido a **Viena**, una ciudad de la que no puedes volver desilusionado. Si hay que destacar lo que más me gusta es que respiras historia, música y arte por todos sus rincones. Por decir que algo no me ha gustado es su poca variedad gastronómica, aunque sus vinos blancos son buenísimos.
 
-\[caption id="attachment\_8129" align="aligncenter" width="900"\]![viena, marisa de leon portoles, viajes mundo amigo, viajeras etheria, mujeres del turismo](etheria_images/2019/03/mujeres-etheria-viena.jpg "En Viena se respira historia, arte y música.") En Viena se respira historia, arte y música.\[/caption\]
+\[caption id="attachment\_8129" align="aligncenter" width="900"\]![viena, marisa de leon portoles, viajes mundo amigo, viajeras etheria, mujeres del turismo](etheria-images/2019/03/mujeres-etheria-viena.jpg "En Viena se respira historia, arte y música.") En Viena se respira historia, arte y música.\[/caption\]
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías en un viaje de mujeres? 
 
@@ -78,7 +78,7 @@ Bretaña, con una “escapada” a París; La Toscana, con “extensión” a [F
 
 Avión y coche.
 
-\[caption id="attachment\_846" align="aligncenter" width="900"\]![Sidi Bou Said, viaje mujeres tunez](etheria_images/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg "Sidi Bou Said, en Túnez, es una ciudad obligada en el país.") Sidi Bou Said, en Túnez, es una ciudad obligada en el país.\[/caption\]
+\[caption id="attachment\_846" align="aligncenter" width="900"\]![Sidi Bou Said, viaje mujeres tunez](etheria-images/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg "Sidi Bou Said, en Túnez, es una ciudad obligada en el país.") Sidi Bou Said, en Túnez, es una ciudad obligada en el país.\[/caption\]
 
 13\. ¿Qué hotel te ha impresionado más y por qué? 
 

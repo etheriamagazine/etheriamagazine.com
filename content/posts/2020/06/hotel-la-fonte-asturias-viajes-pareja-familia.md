@@ -1,18 +1,18 @@
 ---
 title: "Hotel La Fonte, un rincón secreto en Asturias"
 date: 2020-06-30
-coverImage: etheria_images/2020/06/Hotel-la-Fonte-Asturias-entrada.jpg
+coverImage: etheria-images/2020/06/Hotel-la-Fonte-Asturias-entrada.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si cuando llega el verano lo que te gusta es descansar en el norte de España disfrutando de su agradable clima y en medio de la naturaleza, una opción imbatible es el pequeño hotel La Fonte, ubicado en la localidad de Naves, en Asturias. Un alojamiento perfecto para una escapada en pareja o en familia.
 
-![hoteles con encanto, hoteles pequeños, viajes a Asturias](etheria_images/2020/06/La-Fonte-Asturias-horreo.jpg "Hórreo del hotel La Fonte.")
+![hoteles con encanto, hoteles pequeños, viajes a Asturias](etheria-images/2020/06/La-Fonte-Asturias-horreo.jpg "Hórreo del hotel La Fonte.")
 
 El norte de España está lleno de pequeños hoteles llenos de encanto que se pierden entre 
 pueblecitos, bosques y verdes praderas. Uno de ellos es el hotel La Fonte, situado en 
@@ -22,7 +22,7 @@ retiro en un lugar donde, si lo deseas, casi no te encontrarás con nadie. Es un
 hoteles donde redescubrir el encanto de lo sencillo: el paisaje, la buena comida, el 
 clima agradable… 
 
-![hoteles con encanto, hoteles pequeños, viajes a Asturias](etheria_images/2020/06/Hotel-la-Fonte-Asturias-entrada.jpg "Entrada al hotel.")
+![hoteles con encanto, hoteles pequeños, viajes a Asturias](etheria-images/2020/06/Hotel-la-Fonte-Asturias-entrada.jpg "Entrada al hotel.")
 
 Además, es un lugar estupendo para hacer excursiones por Asturias, ya que está a un paso 
 del mar, donde disfrutar de playas tan bonitas como la de **Gulpiyuri**, **San Antolín** 
@@ -40,7 +40,7 @@ con vivos colores y muebles tradicionales, todas tienen baño individual, televi
 calefacción, y algunas son perfectas para familias ya que cuentan con sofá cama. El 
 hotel cuenta con conexión wifi gratuita. 
 
-![hoteles con encanto, hoteles pequeños, viajes a Asturias](etheria_images/2020/06/Hotel-la-fonte-asturias-habitacion.jpg "Habitación del hotel La Fonte.")
+![hoteles con encanto, hoteles pequeños, viajes a Asturias](etheria-images/2020/06/Hotel-la-fonte-asturias-habitacion.jpg "Habitación del hotel La Fonte.")
 
 ## Espacios comunes
 
@@ -48,7 +48,7 @@ El salón común con chimenea y el jardín serán los espacios de los que no que
 moveros en vuestra estancia. Además, podréis degustar un excelente desayuno elaborado 
 con productos caseros. 
 
-![hoteles con encanto, hoteles pequeños, viajes a Asturias](etheria_images/2020/06/Hotel-la-Fonte-detalle.jpg "Detalle del jardín.")
+![hoteles con encanto, hoteles pequeños, viajes a Asturias](etheria-images/2020/06/Hotel-la-Fonte-detalle.jpg "Detalle del jardín.")
 
 [Hotel La Fonte.](http://www.hotel-lafonte.es) Plaza Santa Ana, S/N, Naves de Llanes, 
 Asturias. Teléfono: 985 408 696 Precio: desde 72 Euros la noche en habitación doble. 

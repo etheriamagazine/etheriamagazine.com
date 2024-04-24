@@ -1,11 +1,11 @@
 ---
 title: "Bourges será una de las Capitales Europeas de la Cultura 2028"
 date: 2023-08-11
-coverImage: etheria_images/2023/08/Bourges-pareja-francia.jpg
+coverImage: etheria-images/2023/08/Bourges-pareja-francia.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -15,7 +15,7 @@ París, a menos de dos horas en tren, pero permanece al margen del turismo de ma
 este artículo te daremos buenas razones para visitarla como destino único o como una 
 escapada desde la capital francesa. Te va a sorprender. 
 
-![Casas medievales de Bourges.](etheria_images/2023/08/Bourges-Casas-medievales.jpg "Casas medievales de Bourges. © Pedro Grifol")
+![Casas medievales de Bourges.](etheria-images/2023/08/Bourges-Casas-medievales.jpg "Casas medievales de Bourges. © Pedro Grifol")
 
 Fue **capital de Francia** por un período de 20 años. Claro que, precisando, hay que 
 decir que fue durante la Guerra de los Cien Años, en la Edad Media. Fue la capital de un 
@@ -27,7 +27,7 @@ monarca tuvo que salir huyendo ante la llegada del ejército inglés. Su hijo, L
 al padre! Todo un clásico, ya se sabe, las desavenencias entre rey-padre y rey-hijo son 
 las lacras que persiguen a las monarquías. 
 
-![Hotel Anglaterre de Bourges](etheria_images/2023/08/Bourges-Hotel-Anglaterre.jpg "Hôtel d’Anglaterre en Bourges. © Pedro Grifol")
+![Hotel Anglaterre de Bourges](etheria-images/2023/08/Bourges-Hotel-Anglaterre.jpg "Hôtel d’Anglaterre en Bourges. © Pedro Grifol")
 
 Y por si faltaba algún otro motivo para considerar a Bourges como capital, significativo 
 es mencionar que también durante la Edad Media fue una de las **capitales europeas de la 
@@ -37,7 +37,7 @@ pertenece al proceloso mundo del misterio, que no del turismo. Todo esto para
 contextualizar una ciudad que, aunque en nuestros días cuenta con menos de **65.000 
 habitantes**, tuvo notable poderío como punto urbano del país vecino. 
 
-![El encanto nocturno de Les Nuits Lumiere, en Bourges.](etheria_images/2023/08/bourges-les-nuits-lumiere-2-669x1024.jpg "El encanto nocturno de Les Nuits Lumière, en Bourges. © Pedro Grifol")
+![El encanto nocturno de Les Nuits Lumiere, en Bourges.](etheria-images/2023/08/bourges-les-nuits-lumiere-2-669x1024.jpg "El encanto nocturno de Les Nuits Lumière, en Bourges. © Pedro Grifol")
 
 ## Un casco antiguo impecable
 
@@ -52,7 +52,7 @@ relativamente pocos años, las vigas de los entramados se pueden pintar de color
 que –fiándose del buen gusto de sus vecinos– los responsables de la comunidad han 
 permitido pintar la fachada de verde, azul o amarillo… ¡y no quedan mal! 
 
-![Casas medievales de la Rue Bourbonnoux, en Bourges](etheria_images/2023/08/Bourges-Rue-Bourbonnoux.jpg "Rue Bourbonnoux. © Pedro Grifol")
+![Casas medievales de la Rue Bourbonnoux, en Bourges](etheria-images/2023/08/Bourges-Rue-Bourbonnoux.jpg "Rue Bourbonnoux. © Pedro Grifol")
 
 Las **peatonales rue Mirabeau** o **rue Bourbonnoux** son calles especialmente 
 atractivas para visitar y comprar algún encantador, a la vez que inútil, objeto 
@@ -61,7 +61,7 @@ sombreros de diseño, de los tocados de plumas, de los pendientes de esmalte, de
 broches de _papier maché_, de los artículos de papelería más chulos, de los bolsos, de 
 los zapatos raros… 
 
-![Rue Bourbonnoux, en Bourges.](etheria_images/2023/08/Bourges-Rue-Bourbonnoux-casas-medievales.jpg "Rue Bourbonnoux, en Bourges. © Pedro Grifol")
+![Rue Bourbonnoux, en Bourges.](etheria-images/2023/08/Bourges-Rue-Bourbonnoux-casas-medievales.jpg "Rue Bourbonnoux, en Bourges. © Pedro Grifol")
 
 ## Catedral de Saint-Etienne
 
@@ -79,7 +79,7 @@ Archevêché**, porque está bellamente decorado con parterres de rosas, flores 
 y jarrones de piedra tallada, y ofrece las vistas más emblemáticas de la catedral. Es el 
 mejor sitio para la foto. 
 
-![Catedral de Saint-Etienne, en Bourges.](etheria_images/2023/08/Bourges-Catedral-Saint-Etienne.jpg "Catedral de Saint-Etienne desde el jardín, en Bourges. © Pedro Grifol")
+![Catedral de Saint-Etienne, en Bourges.](etheria-images/2023/08/Bourges-Catedral-Saint-Etienne.jpg "Catedral de Saint-Etienne desde el jardín, en Bourges. © Pedro Grifol")
 
 ## Las noches azules
 
@@ -92,7 +92,7 @@ iban instruyendo con su verbo poético sobre anécdotas e historias de la ciudad
 viaje lleno de luz y sonido. Eso sí, el sonido también es bajito para no molestar a los 
 vecinos. 
 
-![Les Nuits Lumière, en Bourges.](etheria_images/2023/08/bourges-noches-azules.jpg "Les Nuits Lumière, en Bourges. © Pedro Grifol")
+![Les Nuits Lumière, en Bourges.](etheria-images/2023/08/bourges-noches-azules.jpg "Les Nuits Lumière, en Bourges. © Pedro Grifol")
 
 ## Villa Monin
 
@@ -102,7 +102,7 @@ embotellándolos y vendiéndolos a medio mundo. Actualmente produce más de 100 
 Hoy en día, habiendo ya transcurrido tres generaciones del apellido Monin, el mundo es 
 un lugar con más sabor gracias a su abundante catálogo de sabores ¡obligada redundancia! 
 
-![Entrada de la Villa Monin, en Bourges](etheria_images/2023/08/Bourges-villa-monin.jpg "Entrada de la Villa Monin. © Pedro Grifol")
+![Entrada de la Villa Monin, en Bourges](etheria-images/2023/08/Bourges-villa-monin.jpg "Entrada de la Villa Monin. © Pedro Grifol")
 
 La Villa Monin se inauguró en 2022 en el barrio de la catedral. Se trata de un bar con 
 terraza, un espacio escenográfico, una tienda, y una chocolatería que te harán viajar 
@@ -112,7 +112,7 @@ como el Thé Glacé Framboise, el Fraîcheur des Bois, o el **Earl Grey Cóctel*
 elaboró _in situ_ el autor de este reportaje, y que puedes aprender a hacer en su canal 
 de coctelería creativa en YouTube: **Grifol's Bar.** 
 
-![Earl Grey Cóctel en Grifol's Bar.](etheria_images/2023/08/coctel-earl-grey-grifols-bar-1.jpg)
+![Earl Grey Cóctel en Grifol's Bar.](etheria-images/2023/08/coctel-earl-grey-grifols-bar-1.jpg)
 
 ## Guía práctica de Bourges
 
@@ -141,7 +141,7 @@ frescos y caseros. Tiene un pequeño jardín y está al pie de la catedral.
 una bodega llena de sorpresas. Vinos raros. Edouard y Nicolás te sorprenderán con sus 
 especialidades ahumadas _faites à la maison_, y la charcutería genuina de Córcega. 
 
-![Restaurante Complètement Fumé, en Bourges.](etheria_images/2023/08/Bourges-Restaurante-Completement-Fume.jpg "Restaurante Complètement Fumé, en Bourges. © Pedro Grifol")
+![Restaurante Complètement Fumé, en Bourges.](etheria-images/2023/08/Bourges-Restaurante-Completement-Fume.jpg "Restaurante Complètement Fumé, en Bourges. © Pedro Grifol")
 
 **Consejos Etheria** 
 

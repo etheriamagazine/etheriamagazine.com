@@ -1,11 +1,11 @@
 ---
 title: "Rutas por 10 bosques españoles a los que el otoño saca su mejor cara"
 date: 2021-09-15
-coverImage: etheria_images/2021/09/bosque-el-cedro-la-gomera.jpg
+coverImage: etheria-images/2021/09/bosque-el-cedro-la-gomera.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -15,7 +15,7 @@ además, seguro que tienes alguno cerca de casa entre estos diez que te recomend
 Etheria Magazine. Prepara tus botas de trekking y tu cámara de fotos porque nos vamos de 
 paseo. 
 
-![monasterio hermo ruta asturias](etheria_images/2021/09/bosque-monasterio-hermo-asturias-682x1024.jpg "Las rutas en otoño, como la del Monasterio de Hermo, son pura fantasía.")
+![monasterio hermo ruta asturias](etheria-images/2021/09/bosque-monasterio-hermo-asturias-682x1024.jpg "Las rutas en otoño, como la del Monasterio de Hermo, son pura fantasía.")
 
 El otoño invita al paseo sereno por la naturaleza para deleitarse con los colores que 
 nos regalan los bosques. España está llena de paisajes naturales únicos en los que 
@@ -33,7 +33,7 @@ pueblos de Parauta y Cartajima discurre entre estos árboles, que destacan contr
 verdor de encinas y madroños. Siguiendo hasta el pueblo de Igualeja es posible llegar 
 caminando hasta el nacimiento del Genal, unos **17,4 kilómetros** en 6 horas. 
 
-![bosques castanos valle genal malaga](etheria_images/2021/09/castanares-valle-genal-malaga.jpg "Bosques de castaños valle del Genal, Málaga")
+![bosques castanos valle genal malaga](etheria-images/2021/09/castanares-valle-genal-malaga.jpg "Bosques de castaños valle del Genal, Málaga")
 
 ## Bosque de Valvanera, La Rioja
 
@@ -48,7 +48,7 @@ hidroeléctrica que abastece al conjunto monástico. Las grandes hayas, con sus
 amarillentas ramas acompañarán el tramo de regreso para completar el itinerario en una 
 hora y media. 
 
-![bosque de valvanera la rioja](etheria_images/2021/09/bosque-valvanera-la-rioja.jpg "Contrastes en el bosque de Valvanera, en La Rioja.")
+![bosque de valvanera la rioja](etheria-images/2021/09/bosque-valvanera-la-rioja.jpg "Contrastes en el bosque de Valvanera, en La Rioja.")
 
 ## Abedular de Canencia, Madrid
 
@@ -61,7 +61,7 @@ entre el verde oscuro de pinos silvestres. Se necesitan 2 horas y media para rec
 los **7,6 kilómetro**s de sus dos ramales. Ambos merecen la pena, pues uno está orlado 
 de pinos centenarios y el otro de imponentes tejos y acebos. 
 
-![Abedular de Canencia ruta otono madrid](etheria_images/2021/09/abedular-de-canencia-madrid.jpg "Abedular de Canencia, en la Sierra Norte de Madrid.")
+![Abedular de Canencia ruta otono madrid](etheria-images/2021/09/abedular-de-canencia-madrid.jpg "Abedular de Canencia, en la Sierra Norte de Madrid.")
 
 ## Monasterio de Hermo, Asturias
 
@@ -76,7 +76,7 @@ abedules. En la zona más elevada de la ruta sólo los brezos entre roquedos aco
 panorámica de impresión del valle del Narcea y la sierra de Degaña. El regreso es por la 
 misma ruta y requiere **5 horas y media** para completar el itinerario. 
 
-![ruta bosque monasterio de hermo](etheria_images/2021/09/monasterio-hermo-asturias-683x1024.jpg "Bosque de Monasterio de Hermo, en Asturias.")
+![ruta bosque monasterio de hermo](etheria-images/2021/09/monasterio-hermo-asturias-683x1024.jpg "Bosque de Monasterio de Hermo, en Asturias.")
 
 ## Castañares de Hervás, Cáceres
 
@@ -91,7 +91,7 @@ Andrés del **castañar del Duque**. Por aquí se continúa en un itinerario cir
 extraordinario paisaje por la ladera de Traslasierra que necesita 4 horas para 
 completarlo. 
 
-![ruta bosques hervas caceres](etheria_images/2021/09/castanares-hervas-caceres.jpg "Castañares de Hervás, en Cáceres.")
+![ruta bosques hervas caceres](etheria-images/2021/09/castanares-hervas-caceres.jpg "Castañares de Hervás, en Cáceres.")
 
 ## Valle de Otal, Huesca
 
@@ -107,7 +107,7 @@ que regala una magnífica panorámica hasta el circo glaciar de Otal con un refu
 montaña al fondo del mismo. Requiere 3 horas y media en una distancia de **13,5 
 kilómetros** por el mismo camino de ida y vuelta. 
 
-![bosques en otono huesca valle otal](etheria_images/2021/09/valle-ara-otal-huesca.jpg "Bosques en el valle de Otal, Huesca.")
+![bosques en otono huesca valle otal](etheria-images/2021/09/valle-ara-otal-huesca.jpg "Bosques en el valle de Otal, Huesca.")
 
 ## Bosque de Saja, Cantabria
 
@@ -120,7 +120,7 @@ Tojos, de atractiva arquitectura popular. Prosigue hasta el pueblo de Colsa dond
 camino se orienta de nuevo hacia Saja pasando por el extraordinario mirador del valle al 
 piedemonte de Peña Colsa, caminando **10,9 kilómetros** en 3 horas. 
 
-![bosque de saja otono cantabria](etheria_images/2021/09/bosque-de-saja-cantabria-682x1024.jpg "Bosque de Saja, en Cantabria.")
+![bosque de saja otono cantabria](etheria-images/2021/09/bosque-de-saja-cantabria-682x1024.jpg "Bosque de Saja, en Cantabria.")
 
 ## Hoz del Júcar, Cuenca
 
@@ -136,7 +136,7 @@ puente de madera. Durante los últimos 2 kilómetros asciende hasta la ermita de
 de las Angustias. Retorna al punto de partida en 2 horas y media recorriendo los **7 
 kilómetros** del sendero. 
 
-![otono en hoz jucar cuenca](etheria_images/2021/09/bosque-otono-hoz-jucar.jpg "Reflejos en la hoz del Júcar, Cuenca.")
+![otono en hoz jucar cuenca](etheria-images/2021/09/bosque-otono-hoz-jucar.jpg "Reflejos en la hoz del Júcar, Cuenca.")
 
 ## Foz del Ugarrón, Navarra
 
@@ -152,7 +152,7 @@ el puente sobre el arroyo Zabalza, junto a la carretera a Imirizaldu. Es la señ
 iniciar la vuelta por el mismo camino, recorriendo los **12 kilómetros** de ruta en 3 
 horas. 
 
-![foz del ugarron navarra](etheria_images/2021/09/navarra-rio-areta-foz-ugarron-sierra-leyre.jpg "El otoño también saca su mejor cara al Foz del Ugarrón, Navarra.")
+![foz del ugarron navarra](etheria-images/2021/09/navarra-rio-areta-foz-ugarron-sierra-leyre.jpg "El otoño también saca su mejor cara al Foz del Ugarrón, Navarra.")
 
 ## Bosque de El Cedro, La Gomera
 
@@ -165,7 +165,7 @@ suman las fayas con su aspecto fantástico por estar cubiertas de musgos y líqu
 neblina y los helechos completan la magia de un bosque único. Tiene una dificultad media 
 y una longitud de **11,6 kilómetros**. Requiere 6 horas para hacerla en ida y vuelta. 
 
-![Parque Nacional de Garajonay la gomera](etheria_images/2021/09/parque-garajonay-laurisilva.jpg "Parque Nacional de Garajonay, en La Gomera.")
+![Parque Nacional de Garajonay la gomera](etheria-images/2021/09/parque-garajonay-laurisilva.jpg "Parque Nacional de Garajonay, en La Gomera.")
 
 ? **Más rutas y bosques para el otoño...** 
 

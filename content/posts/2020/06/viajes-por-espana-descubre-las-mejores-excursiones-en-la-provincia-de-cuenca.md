@@ -1,12 +1,12 @@
 ---
 title: "13 excursiones en la provincia de Cuenca para descubrir sus tesoros"
 date: 2020-06-04
-coverImage: etheria_images/2020/05/cuenca-excursion-caras-buendia.jpg
+coverImage: etheria-images/2020/05/cuenca-excursion-caras-buendia.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
@@ -15,7 +15,7 @@ territorio. Es la quinta provincia más extensa de nuestro país y su territorio
 áreas montañosas del Sistema Ibérico y otros paisajes más llanos. Su capital es 
 Patrimonio de la Humanidad y rebosa encanto en su naturaleza y sus pueblos. 
 
-![Ruta de las Caras de Buendiaia](etheria_images/2020/05/cuenca-excursion-caras-buendia.jpg "Ruta de la Caras de Buendía. Arte y naturaleza en Cuenca. © Yolanda Cardo")
+![Ruta de las Caras de Buendiaia](etheria-images/2020/05/cuenca-excursion-caras-buendia.jpg "Ruta de la Caras de Buendía. Arte y naturaleza en Cuenca. © Yolanda Cardo")
 
 Sucede habitualmente que cuando planificamos nuestras vacaciones solemos inclinarnos por 
 destinos exóticos y lejanos pero, afortunadamente, no hay que irse muy lejos para 
@@ -30,7 +30,7 @@ rumbo. De norte a sur y de este a oeste. Para una escapada de fin de semana o un
 estancia más larga. El itinerario depende del tiempo disponible y, por supuesto, de 
 nuestras preferencias. 
 
-![catedral de cuenca, excursion a cuenca, que ver en cuenca](etheria_images/2020/05/cuenca-excursion-capital.jpg "Fachada de la Catedral de Cuenca acompañada de coloridas casas. © Yolanda Cardo")
+![catedral de cuenca, excursion a cuenca, que ver en cuenca](etheria-images/2020/05/cuenca-excursion-capital.jpg "Fachada de la Catedral de Cuenca acompañada de coloridas casas. © Yolanda Cardo")
 
 ## Cuenca, Patrimonio de la Humanidad
 
@@ -46,7 +46,7 @@ Abstracto**, el **Arqueológico**, la **Fundación Antonio Pérez** o el tesoro
 catedralicio y una recomendación, no dejéis de conocer los **refugios antiaéreos** de 
 las calles Calderón de la Barca y Alfonso VIII. 
 
-![imagenes de cuenca, excursion cuenca](etheria_images/2020/05/cuenca-excursion-casas-colgadas.jpg "Imágenes de la ciudad de Cuenca. © Yolanda Cardo")
+![imagenes de cuenca, excursion cuenca](etheria-images/2020/05/cuenca-excursion-casas-colgadas.jpg "Imágenes de la ciudad de Cuenca. © Yolanda Cardo")
 
 Pero, además, hay otra forma diferente de contemplarla: desde la perspectiva que nos dan 
 las orillas de sus ríos. Una suerte de paseo fluvial que transita por el cauce del Júcar 
@@ -73,7 +73,7 @@ queremos visitar el **convento de Nuestra Señora del Rosal**. Aunque está en e
 ruinoso no defraudará, y el convento de San Miguel de la Victoria con unas privilegiadas 
 vistas del paisaje labrado por las aguas del río Escabas. 
 
-![convento nuestra señora rosa, excursion cuenca](etheria_images/2020/05/cuenca-excursion-convento-senora-rosal.jpg "Ruinas del convento de Nuestra Señora del Rosal, en Priego (Cuenca). © Yolanda Cardo")
+![convento nuestra señora rosa, excursion cuenca](etheria-images/2020/05/cuenca-excursion-convento-senora-rosal.jpg "Ruinas del convento de Nuestra Señora del Rosal, en Priego (Cuenca). © Yolanda Cardo")
 
 #### Solán de Cabras
 
@@ -85,7 +85,7 @@ ubicadas a ambos lados del río Cuervo, tiene su origen en una antigua hospeder�
 edificó el monarca Carlos III. No dejéis de pasear por su bellísimo y extenso jardín, no 
 les dejará indiferentes. 
 
-![solan de cabras, excursion cuenca](etheria_images/2020/05/cuenca-excursion-solan-cabras.jpg "Solán de Cabras, un remanso de paz. © Yolanda Cardo")
+![solan de cabras, excursion cuenca](etheria-images/2020/05/cuenca-excursion-solan-cabras.jpg "Solán de Cabras, un remanso de paz. © Yolanda Cardo")
 
 #### Beteta
 
@@ -98,7 +98,7 @@ bellas y espectaculares como la laguna del Tobar o la cueva de la Ramera, fruto 
 erosión de las aguas durante siglos en sus rocas calcáreas, que además nos regala unas 
 maravillosas vistas de la **Hoz de Beteta**. 
 
-![lagunas de canada del hoyo, excursion cuenca](etheria_images/2020/05/cuenca-excursion-lagunas-canada-hoyo.jpg "Lagunas de Cañada del Hoyo. © Yolanda Cardo")
+![lagunas de canada del hoyo, excursion cuenca](etheria-images/2020/05/cuenca-excursion-lagunas-canada-hoyo.jpg "Lagunas de Cañada del Hoyo. © Yolanda Cardo")
 
 ### Ruta por el este de Cuenca
 
@@ -122,7 +122,7 @@ o la de la Virgen (románico). Posee además un **museo Etnográfico de Cultura 
 que se puede visitar durante los meses de julio y agosto y el resto del año con cita 
 previa. 
 
-![calles canete, excursion cuenca](etheria_images/2020/05/cuenca-excursion-calles-canete.jpg "Las animadas calles de Cañete son un espectáculo. © Yolanda Cardo")
+![calles canete, excursion cuenca](etheria-images/2020/05/cuenca-excursion-calles-canete.jpg "Las animadas calles de Cañete son un espectáculo. © Yolanda Cardo")
 
 #### Castillo de Moya
 
@@ -133,7 +133,7 @@ descubrimos los vestigios de lo que fue la ciudad medieval. Destacan la iglesia 
 María y la torre del Homenaje. Además, las vistas desde lo alto de la loma son 
 espectaculares al atardecer. 
 
-![castillo Moya, excursion cuenca](etheria_images/2020/05/cuenca-excursion-castillo-moya.jpg "Castillo de Moya. © Yolanda Cargo")
+![castillo Moya, excursion cuenca](etheria-images/2020/05/cuenca-excursion-castillo-moya.jpg "Castillo de Moya. © Yolanda Cargo")
 
 ### Ruta por el sur de Cuenca
 
@@ -165,7 +165,7 @@ Situado en el municipio del mismo nombre, aunque no es muy conocido, resulta muy
 interesante por su curiosa fisonomía urbana. Destacan por su singularidad el ninfeo y 
 las casas colgadas en las pronunciadas laderas. 
 
-![ruinas ercavica, excursion cuenca](etheria_images/2020/05/cuenca-excursion-ruinas-ercavica.jpg "Ruinas de la ciudad romana de Ercávica, frente al pantano de Buendía. © Yolanda Cardo")
+![ruinas ercavica, excursion cuenca](etheria-images/2020/05/cuenca-excursion-ruinas-ercavica.jpg "Ruinas de la ciudad romana de Ercávica, frente al pantano de Buendía. © Yolanda Cardo")
 
 ### Ruta por el oeste de Cuenca
 
@@ -182,7 +182,7 @@ Desde allí, en épocas de sequía severa, se pueden vislumbrar los restos de **
 Isabela**, un antiguo balneario desparecido bajo las aguas del embalse, que fue 
 edificado por Fernando VII. 
 
-![restos Isabela, ciudad sumergida cuenca, excursion cuenca](etheria_images/2020/05/cuenca-excursion-isabela.jpg "Restos de La Isabela, sumergidos bajo el agua del pantano de Buendía, solo son visibles durante los años de extrema sequía. © Yolanda Cardo")
+![restos Isabela, ciudad sumergida cuenca, excursion cuenca](etheria-images/2020/05/cuenca-excursion-isabela.jpg "Restos de La Isabela, sumergidos bajo el agua del pantano de Buendía, solo son visibles durante los años de extrema sequía. © Yolanda Cardo")
 
 #### Huete y Segóbriga
 
@@ -200,7 +200,7 @@ Buendía. Orillando sus aguas nos encontramos con este recorrido que aúna natur
 arte. Las esculturas de Jorge Maldonado y Eulogio Reguillo nos vigilan a lo largo de 
 algo más de 1 kilómetro de recorrido. Ideal hacerla al atardecer. 
 
-![ruta caras Buendia, excursion cuenca](etheria_images/2020/05/cuenca-excursion-ruta-caras-buendia.jpg "Excursión Ruta Caras de Buendía, en Cuenca. © Yolanda Cardo")
+![ruta caras Buendia, excursion cuenca](etheria-images/2020/05/cuenca-excursion-ruta-caras-buendia.jpg "Excursión Ruta Caras de Buendía, en Cuenca. © Yolanda Cardo")
 
 #### Monasterio de Uclés
 

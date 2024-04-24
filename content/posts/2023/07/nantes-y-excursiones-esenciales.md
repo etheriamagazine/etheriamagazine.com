@@ -1,11 +1,11 @@
 ---
 title: "Apuntes para un “bon voyage” a la sorprendente Nantes y sus viñedos"
 date: 2023-07-31
-coverImage: etheria_images/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg
+coverImage: etheria-images/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
@@ -14,7 +14,7 @@ italiano, una efervescente ciudad que vive por y para el arte y una deliciosa
 gastronomía son sólo algunos de los motivos por los que deberíais visitar (¡ya!) Nantes 
 y su viñedo. 
 
-![Los viñedos de Le Domaine des Génaudières se asoman al Loira.](etheria_images/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg "Los viñedos de Le Domaine des Génaudières se asoman al Loira. © Yolanda Cardo")
+![Los viñedos de Le Domaine des Génaudières se asoman al Loira.](etheria-images/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg "Los viñedos de Le Domaine des Génaudières se asoman al Loira. © Yolanda Cardo")
 
 Vertebrada por el río más largo de Francia y bañada por las aguas del Atlántico, la 
 región Pays de la Loire (**Loira Atlántico**) integra armoniosamente una gran diversidad 
@@ -56,7 +56,7 @@ dedicado al vino desde 1635, que extiende su viñedo junto a un enclave único, 
 laderas del Loira. Organiza visitas y degustaciones de sus afrutados y alegres caldos 
 elaborados con muscadet, cabernet franc, gros plant o malvasía. 
 
-![El Domaine Poiron-Dabin los vinos envejecen en barricas subterráneas de cristal.](etheria_images/2023/07/Domaine-Poiron-Dabin.jpg "El Domaine Poiron-Dabin los vinos envejecen en barricas subterráneas de cristal. © Yolanda Cardo")
+![El Domaine Poiron-Dabin los vinos envejecen en barricas subterráneas de cristal.](etheria-images/2023/07/Domaine-Poiron-Dabin.jpg "El Domaine Poiron-Dabin los vinos envejecen en barricas subterráneas de cristal. © Yolanda Cardo")
 
 En estas tierras atlánticas, la variada gama de vinos del Loira es el aderezo perfecto 
 que nunca debe faltar en la mesa. Aquí tenéis una **pequeña guía de restaurantes** para 
@@ -81,7 +81,7 @@ Maine y sus acantilados cubiertos de viñedos. Esta impresionante estructura met
 diseñada por el arquitecto Emmanuel Ritz, se alza sobre un promontorio granítico a una 
 altura de 45 metros sobre el río y el espacio natural de ocio Pont Caffino. 
 
-![La Porte-Vue es un magnífico mirador al río Maine en el viñedo de Nantes.](etheria_images/2023/07/Porte-Vue-mirador-Nantes.jpg "La Porte-Vue es un magnífico mirador al río Maine en el viñedo de Nantes. © Yolanda Cardo")
+![La Porte-Vue es un magnífico mirador al río Maine en el viñedo de Nantes.](etheria-images/2023/07/Porte-Vue-mirador-Nantes.jpg "La Porte-Vue es un magnífico mirador al río Maine en el viñedo de Nantes. © Yolanda Cardo")
 
 ### Un paseo por el Loira
 
@@ -95,7 +95,7 @@ saliente rocoso, creado a principios del XIX por Maximilien Siffait; el château
 Clermont que perteneció al actor Louis de Funès o la torre de Oudon de la que entraremos 
 en detalle a continuación. 
 
-![Les folies Siffait es una de las maravillas que veréis navegando en toue por el Loira](etheria_images/2023/07/folies-Siffait-nantes.jpg "Les folies Siffait es una de las maravillas que veréis navegando en toue por el Loira. © Yolanda Cardo")
+![Les folies Siffait es una de las maravillas que veréis navegando en toue por el Loira](etheria-images/2023/07/folies-Siffait-nantes.jpg "Les folies Siffait es una de las maravillas que veréis navegando en toue por el Loira. © Yolanda Cardo")
 
 ### El castillo de Oudon, una fortaleza “acogedora”
 
@@ -109,7 +109,7 @@ Jean IV, duque de Bretaña, para levantar la magnífica torre, defensiva y resid
 que en su época contaba con todo tipo de comodidades como calefacción y retrete en todas 
 las plantas. Subid a alto para contemplar las impresionantes vistas del entorno. 
 
-![Desde lo alto del castillo de Oudon se contemplan unas espléndidas vistas del Loira.](etheria_images/2023/07/castillo-Oudon.jpg "Vistas del Loira desde lo alto del castillo de Oudon. © J. Jehanin")
+![Desde lo alto del castillo de Oudon se contemplan unas espléndidas vistas del Loira.](etheria-images/2023/07/castillo-Oudon.jpg "Vistas del Loira desde lo alto del castillo de Oudon. © J. Jehanin")
 
 ### Clisson, el ‘capricho’ italiano que suena a heavy metal 
 
@@ -135,7 +135,7 @@ Diana, el templo de Vesta, varias estatuas o el templo de la amistad erigido en 
 sus grandes amigos los hermanos Cacault, cuya colección descansa actualmente en el Museo 
 de Arte de Nantes, nuestra próxima parada. 
 
-![Cllisson, una visita esencial de Nantes](etheria_images/2023/07/Cllisson.jpg "Cllisson, uno de los enclaves más bonitos de Francia. © Yolanda Cardo")
+![Cllisson, una visita esencial de Nantes](etheria-images/2023/07/Cllisson.jpg "Cllisson, uno de los enclaves más bonitos de Francia. © Yolanda Cardo")
 
 ## Nantes, por amor al arte
 
@@ -157,7 +157,7 @@ seguir la línea verde para disfrutar de un viaje extraordinario.
 ?No te pierdas: [Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio 
 Verne](https://etheriamagazine.com/2019/08/29/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa/). 
 
-![La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas.](etheria_images/2023/07/escultura-Xu-Zhen.jpg "La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas de Nantes. © Yolanda Cardo")
+![La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas.](etheria-images/2023/07/escultura-Xu-Zhen.jpg "La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas de Nantes. © Yolanda Cardo")
 
 ### Los barrios de un viaje permanente
 
@@ -180,7 +180,7 @@ divertidas enseñas de los comercios o las esculturas de Philippe Ramette: **Él
 de côte** (2018) y **Èloge du déplacement,** añadida este año, ambas en la plaza 
 Bouffay. 
 
-![Èloge du dèplacement de Philippe Ramette en la plaza Bouffay de Nantes.](etheria_images/2023/07/escultura-Philippe-Ramette-nantes.jpg "Èloge du dèplacement de Philippe Ramette en la plaza Bouffay de Nantes. © Yolanda Cardo")
+![Èloge du dèplacement de Philippe Ramette en la plaza Bouffay de Nantes.](etheria-images/2023/07/escultura-Philippe-Ramette-nantes.jpg "Èloge du dèplacement de Philippe Ramette en la plaza Bouffay de Nantes. © Yolanda Cardo")
 
 ### Barrio de la Estación, un clásico actualizado
 
@@ -205,7 +205,7 @@ conocido como “el Père-Lachaise nantés”, además del patrimonio funerario 
 con unas obras de Pascal Convert realizadas expresamente para este campo santo del 
 XVIII: **Miroir des Temps**. 
 
-![En el cementerio de la Miséricorde el arte de Pascal Convert se exhibe entre sepulturas.](etheria_images/2023/07/cementerio-Pascal-Convert.jpg "En el cementerio de la Miséricorde el arte de Pascal Convert se exhibe entre sepulturas. © Yolanda Cardo")
+![En el cementerio de la Miséricorde el arte de Pascal Convert se exhibe entre sepulturas.](etheria-images/2023/07/cementerio-Pascal-Convert.jpg "En el cementerio de la Miséricorde el arte de Pascal Convert se exhibe entre sepulturas. © Yolanda Cardo")
 
 ### Barrio Graslin, el elegante
 
@@ -219,7 +219,7 @@ comercial cubierta del XIX, de nueve metros de desnivel, que comunica este barri
 del antiguo puerto. El techo de cristal, la espléndida escalera y las preciosas tiendas 
 os encantarán. 
 
-![El pasaje Pommeraye es una bellísima galería de techo e cristal](etheria_images/2023/07/Pommeraye-nantes-683x1024.jpg "El pasaje Pommeraye es una bellísima galería de techo e cristal del siglo XIX. © Yolanda Cardo")
+![El pasaje Pommeraye es una bellísima galería de techo e cristal](etheria-images/2023/07/Pommeraye-nantes-683x1024.jpg "El pasaje Pommeraye es una bellísima galería de techo e cristal del siglo XIX. © Yolanda Cardo")
 
 ### Las Máquinas de la Isla, los extraños habitantes del barrio de la creación
 
@@ -235,7 +235,7 @@ podréis subir, y experimentad la misma sensación en La Galería plagada de esp
 vegetales y animales mecánicos como la araña y la hormiga gigante, el camaleón o el 
 colibrí. 
 
-![El gigantesto elefante de 12 metros de altura es la estrella de las máquinas de la isla.](etheria_images/2023/07/elefante-nantes.jpg "El gigantesto elefante de 12 metros de altura es la estrella de las máquinas de la isla. © Yolanda Cardo")
+![El gigantesto elefante de 12 metros de altura es la estrella de las máquinas de la isla.](etheria-images/2023/07/elefante-nantes.jpg "El gigantesto elefante de 12 metros de altura es la estrella de las máquinas de la isla. © Yolanda Cardo")
 
 ### Dieciocho anillos gigantes
 
@@ -248,7 +248,7 @@ Barthélémy Toguo. Y allí donde termina el parque se extiende el Campus del ar
 con escuelas de cultural digital y edificios de grandes arquitectos como el Palacio de 
 Justicia de Jean Nouvel. 
 
-![Los anillos de Daniel Buren y Patrick Bouchan se han convertido en un emblema de la ciudad.](etheria_images/2023/07/anillos-Daniel-Buren-Patrick-Bouchan.jpg "Los anillos de Daniel Buren y Patrick Bouchan se han convertido en un emblema de la ciudad. © Yolanda Cardo")
+![Los anillos de Daniel Buren y Patrick Bouchan se han convertido en un emblema de la ciudad.](etheria-images/2023/07/anillos-Daniel-Buren-Patrick-Bouchan.jpg "Los anillos de Daniel Buren y Patrick Bouchan se han convertido en un emblema de la ciudad. © Yolanda Cardo")
 
 ### Barrio de Chantenay, el favorito de Julio Verne
 
@@ -259,7 +259,7 @@ inspirado en el fabuloso universo verniano y varios miradores como el Belvédè 
 l’Hermitage de Tadashi Kawamata con unas impagables vistas de Nantes y de la Maison 
 Radieuse, la emblemática vivienda construida entre 1953 y 1955 por Le Corbusier. 
 
-![Trentemoult es un pintoresco y colorido barrio de pescadores.](etheria_images/2023/07/Trentemoult-nantes.jpg "Trentemoult es un pintoresco y colorido barrio de pescadores. © Yolanda Cardo")
+![Trentemoult es un pintoresco y colorido barrio de pescadores.](etheria-images/2023/07/Trentemoult-nantes.jpg "Trentemoult es un pintoresco y colorido barrio de pescadores. © Yolanda Cardo")
 
 ### Estuario Nantes Saint-Nazaire
 
@@ -276,7 +276,7 @@ Así que ya sabéis, aunque el festival de verano de Le Voyage à Nantes puede s
 excusa perfecta para escaparnos a esta ciudad, en realidad cualquier momento resulta 
 perfecto. 
 
-![Casa sumergida en las aguas del Loira, obra del artista Jean-Luc Courcoult.](etheria_images/2023/07/casa-Loira-Jean-Luc-Courcoult.jpg "Casa sumergida en las aguas del Loira, obra del artista Jean-Luc Courcoult. © Yolanda Cardo")
+![Casa sumergida en las aguas del Loira, obra del artista Jean-Luc Courcoult.](etheria-images/2023/07/casa-Loira-Jean-Luc-Courcoult.jpg "Casa sumergida en las aguas del Loira, obra del artista Jean-Luc Courcoult. © Yolanda Cardo")
 
 ## Guía para viajar a Nantes
 

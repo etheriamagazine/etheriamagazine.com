@@ -1,17 +1,17 @@
 ---
 title: "Date un capricho cinco estrellas en el hotel Mandarin Oriental Milan"
 date: 2021-03-10
-coverImage: etheria_images/2021/03/hotel-oriental-mandarin-milan-fachada.jpg
+coverImage: etheria-images/2021/03/hotel-oriental-mandarin-milan-fachada.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Hay ciudades como Milán que merecen ser disfrutadas en un buen hotel. El Mandarin Oriental Milan suma a una escapada de fin de semana redonda un lugar donde descansar como una reina. Descubre este hotel de cinco estrellas lleno de pequeños detalles de lujo y diseño.
 
-![hoteles de lujo en MIlán](etheria_images/2021/03/hotel-oriental-mandarin-milan-fachada.jpg "Entrada del Mandarin Oriental Milan.")
+![hoteles de lujo en MIlán](etheria-images/2021/03/hotel-oriental-mandarin-milan-fachada.jpg "Entrada del Mandarin Oriental Milan.")
 
 Si Milán no está en esa lista interminable de ciudades y rincones de Italia que te 
 quedan por visitar, te recomendamos que la pongas en las primeras líneas. ¿Las razones? 
@@ -31,7 +31,7 @@ Quadrilatero della Moda y el barrio de Brera.
 > El hotel ocupa cuatro edificios del siglo XVIII y es la mejor forma de disfrutar de esta 
 > ciudad con todo el estilo que se merece. 
 
-![hoteles de lujo en Milán](etheria_images/2021/03/hotel-mandarin-oriental-milan-room-deluxe.jpg "Habitación Deluxe.")
+![hoteles de lujo en Milán](etheria-images/2021/03/hotel-mandarin-oriental-milan-room-deluxe.jpg "Habitación Deluxe.")
 
 ## Las habitaciones
 
@@ -49,7 +49,7 @@ baño de mármol y la Suite Junior Terrace suma una preciosa terraza, perfecta p
 relajarte en ella si viajas en primavera. Si quieres algo más de espacio, la **Suite 
 Junior Deluxe** es una muy buena opción. 
 
-![hoteles de lujo en Milán](etheria_images/2021/03/milan-madarin-oriental-suite-junior.jpg "Terraza de la Suite Junior Terrace.")
+![hoteles de lujo en Milán](etheria-images/2021/03/milan-madarin-oriental-suite-junior.jpg "Terraza de la Suite Junior Terrace.")
 
 Y si lo que quieres es darte un capricho a lo grande, las suites superiores del hotel 
 son espectaculares: la **Suite Milano** (con uno o dos dormitorio); la **Suite Junior de 
@@ -61,7 +61,7 @@ colección, la **Suite Prestige** (que puedes elegir de uno o dos dormitorios) y
 **Suite Fornasetti**, inspirada en este pintor y decorada con piezas originales suyas. 
 Además de la **Suite Presidencial** y la **Suite Gran Presidencial**. 
 
-![hotel Mandarin Oriental Milan](etheria_images/2021/03/milan-mandarin-oriental-restaurante-seta.jpg "Restaurante Seta, con dos Estrellas Michelin.")
+![hotel Mandarin Oriental Milan](etheria-images/2021/03/milan-mandarin-oriental-restaurante-seta.jpg "Restaurante Seta, con dos Estrellas Michelin.")
 
 ## Gastronomía innovadora
 
@@ -72,14 +72,14 @@ con una impresionante patio. ¿Cómo te suenan unas _Ostras con patatas, pimient
 friggitelli y salsa de Champagne_? ¿O un _Risotto con verduras, queso maccagno y 
 frambuesa en polvo_? 
 
-![lugares de copas en Milán](etheria_images/2021/03/hotel-milan-mandarin-oriental-bar-bistro.jpg "Barra del Mandarin Bar & Bistro.")
+![lugares de copas en Milán](etheria-images/2021/03/hotel-milan-mandarin-oriental-bar-bistro.jpg "Barra del Mandarin Bar & Bistro.")
 
 El **Mandarin Bar & Bistro** aporta también ese lugar tan necesario en los hoteles 
 urbanos: un punto de encuentro donde tomar un café, una copa o una comida ligera. 
 Además, por la noche se convierte en uno de los locales nocturnos más exclusivos de 
 Milán. 
 
-![spa en Milán.](etheria_images/2021/03/hotel-mandarin-oriental-milan-spa.jpg "Piscina del Spa.")
+![spa en Milán.](etheria-images/2021/03/hotel-mandarin-oriental-milan-spa.jpg "Piscina del Spa.")
 
 ## Un Spa donde olvidarse de todo
 

@@ -1,12 +1,12 @@
 ---
 title: "Costa Azul en coche y con amigas, ¿se te ocurre una propuesta mejor?"
 date: 2021-09-03
-coverImage: etheria_images/2021/08/Cannes-Le-Suquet.jpg
+coverImage: etheria-images/2021/08/Cannes-Le-Suquet.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
@@ -16,7 +16,7 @@ tal cantidad de celebridades que se podría cartografiar su mapa de leyenda en l
 Desde Etheria Magazine te proponemos un viaje a la Costa Azul en coche y con amigas, una 
 experiencia inolvidable en el destino vacacional más glamuroso del mundo. 
 
-![saint paul de vence costa azul con amigas](etheria_images/2021/08/Saint-Paul-de-Vence-Marc-Chagall.jpg "En Saint-Paul de Vence está enterrado Marc Chagall. © Yolanda Cardo")
+![saint paul de vence costa azul con amigas](etheria-images/2021/08/Saint-Paul-de-Vence-Marc-Chagall.jpg "En Saint-Paul de Vence está enterrado Marc Chagall. © Yolanda Cardo")
 
 Lujosos hoteles, villas de infarto, playas increíbles, pueblos encantadores… la 
 sencillez provenzal del interior y el lujo despreocupado de la costa se unen en un 
@@ -41,7 +41,7 @@ sacude, sin complejos, este cautivador espejismo de diamantes y fortunas fastuos
 desplegar, sin perder un ápice de encanto, un abanico de posibilidades realmente 
 atractivas para todos los bolsillos. 
 
-![hotel negresco niza costa azul](etheria_images/2021/08/Niza-hotel-Negresco.jpg "La cúpula rosada del hotel Negresco frente al Mediterráneo. © Yolanda Cardo")
+![hotel negresco niza costa azul](etheria-images/2021/08/Niza-hotel-Negresco.jpg "La cúpula rosada del hotel Negresco frente al Mediterráneo. © Yolanda Cardo")
 
 ## Niza, arquitectura por doquier
 
@@ -61,7 +61,7 @@ defensiva y privilegiado mirador, se apiñan populosas calles y plazas, comercio
 restaurantes, la bella catedral de Sainte- Réparate y palacios barrocos como el Palais 
 Lascaris. 
 
-![niza promenade des anglais costa azul con amigas](etheria_images/2021/08/Niza-Promenade-des-Anglais.jpg "Promenade des Anglais, en Niza. © Yolanda Cardo")
+![niza promenade des anglais costa azul con amigas](etheria-images/2021/08/Niza-Promenade-des-Anglais.jpg "Promenade des Anglais, en Niza. © Yolanda Cardo")
 
 ### Del caos a la sublime elegancia
 
@@ -94,7 +94,7 @@ comodidad de un moderno hotel, el **Crowne Plaza Nice-Grand Arenas** es ideal.
 **Acchiardo,** en la Vieja Niza o de una cena inolvidable a orillas del mar en el 
 **restaurante La Vela**. 
 
-![barrio le suquet cannes](etheria_images/2021/08/Cannes-Le-Suquet.jpg "Le Suquet, un barrio con mucho encanto en Cannes. © Yolanda Cardo")
+![barrio le suquet cannes](etheria-images/2021/08/Cannes-Le-Suquet.jpg "Le Suquet, un barrio con mucho encanto en Cannes. © Yolanda Cardo")
 
 ## Cannes y el hombre de la máscara de hierro
 
@@ -115,7 +115,7 @@ grande de las ínsulas, es el paisaje. Un idílico entorno natural preservado, d
 frondosas avenidas arboladas de pinos y eucaliptos nos llevan hasta el eco-museo 
 submarino. 
 
-![cannes costa azul con glamour](etheria_images/2021/08/Cannes-que-ver-costa-azul.jpg "Glamur y mucho encanto en la ciudad de Cannes. © Yolanda Cardo")
+![cannes costa azul con glamour](etheria-images/2021/08/Cannes-que-ver-costa-azul.jpg "Glamur y mucho encanto en la ciudad de Cannes. © Yolanda Cardo")
 
 ### Arte subacuático en Cannes
 
@@ -126,7 +126,7 @@ gafas de buceo y ganas de nadar porque este arte subacuático, que homenajea al
 misterioso **_Hombre de la Máscara de Hierro_** (ahora sabremos por qué), se encuentra a 
 una profundidad de entre 3 y 5 metros y a una considerable distancia de la orilla. 
 
-![ecomuseo submarino obra de Jason deCaires](etheria_images/2021/08/Cannes-ecomuseo-submarino.jpg "Bajo estas cristalinas aguas están anclados los seis rostros del ecomuseo submarino obra de Jason deCaires. © Yolanda Cardo")
+![ecomuseo submarino obra de Jason deCaires](etheria-images/2021/08/Cannes-ecomuseo-submarino.jpg "Bajo estas cristalinas aguas están anclados los seis rostros del ecomuseo submarino obra de Jason deCaires. © Yolanda Cardo")
 
 La ubicación de estas piezas no es casual ya que fue precisamente en esta isla donde 
 estuvo prisionero el enigmático personaje cuya identidad ocultaban tras una máscara. 
@@ -135,7 +135,7 @@ posible visitar la celda que ocupó el enmascarado, que aunque real, no existe c
 de que fuera el hermano gemelo del monarca Luis XIV, como sugería Alejandro Dumas en sus 
 novelas tantas veces llevadas a la gran pantalla. 
 
-![fuerte real cannes costa azul](etheria_images/2021/08/Cannes-Fuerte-Real-que-ver-costa-azul.jpg "El Fuerte Real, en la isla de Santa Margarita, frente a la bahía de Cannes donde estuvo preso el hombre de la máscara de hierro. © Yolanda Cardo")
+![fuerte real cannes costa azul](etheria-images/2021/08/Cannes-Fuerte-Real-que-ver-costa-azul.jpg "El Fuerte Real, en la isla de Santa Margarita, frente a la bahía de Cannes donde estuvo preso el hombre de la máscara de hierro. © Yolanda Cardo")
 
 ### Guía Cannes | Etheria Magazine
 
@@ -145,7 +145,7 @@ novelas tantas veces llevadas a la gran pantalla.
 restaurante Chez Vincent et Nicolas comida francesa tradicional en pleno barrio de Le 
 Suquet. 
 
-![picasso en mougins costa azul](etheria_images/2021/08/Mougins-Picasso-que-ver-costa-azul.jpg "Pablo Picasso vivió su últimos años y murió en Mougins. © Yolanda Cardo")
+![picasso en mougins costa azul](etheria-images/2021/08/Mougins-Picasso-que-ver-costa-azul.jpg "Pablo Picasso vivió su últimos años y murió en Mougins. © Yolanda Cardo")
 
 ## Mougins, la última morada de Picasso
 
@@ -159,7 +159,7 @@ le ordenó borrarlas de inmediato. No fue el único que paseó su genio y figura
 El arte y la cultura impregnan cada rincón de unas calles que transitaron Jean Cocteau, 
 Fernand Léger, Picabia, Man Ray, Lee Miller o Edith Piaf. 
 
-![ateliers mougins costa azul con amigas](etheria_images/2021/08/Mougins-Atelliers-y-flores.jpg "Ateliers y muchas flores en las calles de Mougins. © Yolanda Cardo")
+![ateliers mougins costa azul con amigas](etheria-images/2021/08/Mougins-Atelliers-y-flores.jpg "Ateliers y muchas flores en las calles de Mougins. © Yolanda Cardo")
 
 ### Museos imprescindibles en Mougins
 
@@ -176,7 +176,7 @@ Mougins**. La fotógrafa española Isabel Muñoz estrenó este espacio, un antig
 presbiterio restaurado, con la exposición titulada “1001”, que se podrá ver hasta el 
 próximo 3 de octubre de 2021. 
 
-![aperitivo en mougins costa azul](etheria_images/2021/08/Mougins-Saint-Jacques-le-Majeur.jpg "Un aperitivo con vistas desde el campanario de Saint-Jacques le Majeur en Mougins. © Yolanda Cardo")
+![aperitivo en mougins costa azul](etheria-images/2021/08/Mougins-Saint-Jacques-le-Majeur.jpg "Un aperitivo con vistas desde el campanario de Saint-Jacques le Majeur en Mougins. © Yolanda Cardo")
 
 Mougins es, además, un destino gastronómico. Cada año, desde 2006, durante tres días se 
 reúne un ejército de chefs con estrella Michelin de todo el mundo en el Festival 
@@ -197,7 +197,7 @@ jardines, os encantará.
 **Dónde comer.** Cocina moderna y platos tradicionales en la terraza de la céntrica 
 brasería La Mediterranée. 
 
-![visita a grasse costa azul con amigas](etheria_images/2021/08/Grasse-que-ver-costa-azul.jpg "Panorámica de la villa de Grasse. © Ville de Grasse")
+![visita a grasse costa azul con amigas](etheria-images/2021/08/Grasse-que-ver-costa-azul.jpg "Panorámica de la villa de Grasse. © Ville de Grasse")
 
 ## Grasse, un destino de narices
 
@@ -222,7 +222,7 @@ acabó a tiempo ni si la acompañaba cuando la familia real fue apresada en Vare
 preciada caja estuvo desaparecida durante siglos hasta que el museo lo adquirió a un 
 coleccionista en 1985. El primer neceser se encuentra en el Louvre desde 1945. 
 
-![museo perfumeria de grasse](etheria_images/2021/08/Grasse-Museo-Perfumeria.jpg "En el Museo Internacional de la Perfumería se encuentra el neceser de María Antonieta. © C. Barbiero Musées de Grasse/ Yolanda Cardo")
+![museo perfumeria de grasse](etheria-images/2021/08/Grasse-Museo-Perfumeria.jpg "En el Museo Internacional de la Perfumería se encuentra el neceser de María Antonieta. © C. Barbiero Musées de Grasse/ Yolanda Cardo")
 
 ### Guía Grasse | Etheria Magazine
 
@@ -233,7 +233,7 @@ el lugar donde falleció Edith Piaf.
 
 **Dónde dormir.** En el Best Western Elixir. Desayuna en el jardín junto a la piscina. 
 
-![saint paul de vence francia con amigas](etheria_images/2021/08/Saint-Paul-de-Vence-costa-azul.jpg "Saint-Paul de Vence es uno de los pueblos más bellos de toda Francia. © Yolanda Cardo")
+![saint paul de vence francia con amigas](etheria-images/2021/08/Saint-Paul-de-Vence-costa-azul.jpg "Saint-Paul de Vence es uno de los pueblos más bellos de toda Francia. © Yolanda Cardo")
 
 ## Saint-Paul de Vence, arte a raudales
 
@@ -257,7 +257,7 @@ Giacometti. Una familia de creadores”, sencillamente maravillosa.
 
 **Dónde comer.** Restaurante Obatik, producto fresco para una cocina tradicional. 
 
-![vista de biot costa francia](etheria_images/2021/08/Biot-que-ver-costa-azul.jpg "Biot, una parada en la ruta en coche por la Costa Azul. © Yolanda Cardo")
+![vista de biot costa francia](etheria-images/2021/08/Biot-que-ver-costa-azul.jpg "Biot, una parada en la ruta en coche por la Costa Azul. © Yolanda Cardo")
 
 ## Biot, la vajilla de las estrellas
 
@@ -273,7 +273,7 @@ pompas de aire otorgándoles a las piezas un aspecto único que se ha convertido
 de identidad de la _maison_. Aún hoy es posible ver _in situ_ trabajar, en esta 
 factoría, a los maestros vidrieros elaborando sus creaciones con total libertad. 
 
-![Verrerie de Biot ruta en coche costa azul](etheria_images/2021/08/Biot-Verrerie-que-ver-costa-azul.jpg "Piezas fabricadas en la Verrerie de Biot. © Yolanda Cardo")
+![Verrerie de Biot ruta en coche costa azul](etheria-images/2021/08/Biot-Verrerie-que-ver-costa-azul.jpg "Piezas fabricadas en la Verrerie de Biot. © Yolanda Cardo")
 
 Y como el arte llama al arte, no dejéis de visitar el Museo Nacional Fernand Léger 
 dedicado a la peculiar mirada del artista francés. El jardín que lo rodea es además un 

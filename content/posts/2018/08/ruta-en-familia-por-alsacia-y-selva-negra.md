@@ -1,11 +1,11 @@
 ---
 title: "Ruta en familia por Alsacia y Selva Negra"
 date: 2018-08-02
-coverImage: etheria_images/2018/07/Riquewihr-viñedos-e1557596568371.jpg
+coverImage: etheria-images/2018/07/Riquewihr-viñedos-e1557596568371.jpg
 categories: 
   - viaje-en-familia
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La frontera franco-alemana oculta grandes sorpresas para disfrutar en familia: ciudades 
@@ -13,7 +13,7 @@ de cuento, paisajes variados que van de la frondosa Selva Negra a los viñedos d
 y uno de los mejores parques de atracciones que puedas visitar: Europa Park. Un viaje 
 para hacer con niños en el que se pasa de un país a otro sin apenas darte cuenta. 
 
-![Selva Negra, Alemania, viajes con niños, viajes en familia, viajes a Europa](etheria_images/2018/07/Cataratas-Triberg-bosque-e1557596453457.jpg "Bosque junto a las cascadas de Triberg. © Susana García")
+![Selva Negra, Alemania, viajes con niños, viajes en familia, viajes a Europa](etheria-images/2018/07/Cataratas-Triberg-bosque-e1557596453457.jpg "Bosque junto a las cascadas de Triberg. © Susana García")
 
 Europa está llena de rincones deliciosos donde realizar una escapada familiar. Una de 
 estas rutas, que se puede realizar en cuatro o cinco noches, es la que combina Alsacia 
@@ -42,7 +42,7 @@ o una [visita privada con un guía en
 español](https://www.civitatis.com/es/estrasburgo/tour-privado-estrasburgo/?aid=10211) 
 para vosotros. 
 
-![Alsacia, viajes con niños, viajes en familia, viajes a Europa](etheria_images/2018/07/Estrasburgo-e1557596480300.jpg "En Estrasburgo es habitual moverse en bicicleta. © SG")
+![Alsacia, viajes con niños, viajes en familia, viajes a Europa](etheria-images/2018/07/Estrasburgo-e1557596480300.jpg "En Estrasburgo es habitual moverse en bicicleta. © SG")
 
 Una opción para hacer más cómoda la visita es realizar un **crucero por el río Ill** 
 (I-L-L). La empresa **Batorama** (www.batorama.com) ofrece dos recorridos, uno de 45 
@@ -59,7 +59,7 @@ desde atracciones llenas de adrenalina hasta una zona infantil ambientada en los
 populares de los hermanos Grimm. Existe una amplia oferta de restaurantes y kioscos de 
 comida rápida. Merece la pena alojarse en alguno de los hoteles del parque. 
 
-![Parque atracciones, Alemania, viajes con niños, viajes en familia, viajes a Europa](etheria_images/2018/07/Pegasus-Europa-Park-e1557596520685.jpg "Atracción Pegasus de Europa Park. © Europa Park.")
+![Parque atracciones, Alemania, viajes con niños, viajes en familia, viajes a Europa](etheria-images/2018/07/Pegasus-Europa-Park-e1557596520685.jpg "Atracción Pegasus de Europa Park. © Europa Park.")
 
 ## Colmar y Riquewihr
 
@@ -73,7 +73,7 @@ taberna típica alsaciana donde puedes darte el gusto de probar alguno de los vi
 región. Para no perderos nada, podéis apuntaros a una [visita guiada gratuita con 
 Civitatis](https://www.civitatis.com/es/colmar/free-tour-colmar/?aid=10211). 
 
-![Alsacia, vinos, viajes con niños, viajes en familia, viajes a Europa](etheria_images/2018/07/Colmar-e1557596546391.jpg "En Colmar son típicas las casas con entramados de madera y las tiendas de productos gastronómicos. © SG")
+![Alsacia, vinos, viajes con niños, viajes en familia, viajes a Europa](etheria-images/2018/07/Colmar-e1557596546391.jpg "En Colmar son típicas las casas con entramados de madera y las tiendas de productos gastronómicos. © SG")
 
 Desde aquí se puede realizar una excursión a **Riquewihr** (a 14 kilómetros), 
 considerado uno de los pueblos más bonitos de Francia. Es una ciudad fortificada de 
@@ -82,7 +82,7 @@ con niños, una buena opción es subir al tren turístico, que sale de esta mism
 principal y lleva a recorrer los viñedos de los alrededores. Obtendrás decenas de 
 panorámicas que querrás inmortalizar con tu cámara de fotos. 
 
-![Alsacia, vinos, viajes con niños, viajes en familia, viajes a Europa](etheria_images/2018/07/Riquewihr-viñedos-e1557596568371.jpg "Vista de Riquewihr desde los viñedos. © SG")
+![Alsacia, vinos, viajes con niños, viajes en familia, viajes a Europa](etheria-images/2018/07/Riquewihr-viñedos-e1557596568371.jpg "Vista de Riquewihr desde los viñedos. © SG")
 
 ## Friburgo y la Selva Negra
 
@@ -101,7 +101,7 @@ el **Almacén Histórico** pintado de rojo intenso. Otro lugar imprescindible es
 **Plaza del Ayuntamiento**, donde se encuentran el Antiguo y el Nuevo Ayuntamiento. Este 
 último posee un carillón que emite una melodía diferente cada día a las 12 horas. 
 
-![Selva Negra, viajes con niños, viajes en familia, viajes a Europa](etheria_images/2018/07/Friburgo-e1557596592507.jpg "Plaza en Friburgo (Alemania). © SG")
+![Selva Negra, viajes con niños, viajes en familia, viajes a Europa](etheria-images/2018/07/Friburgo-e1557596592507.jpg "Plaza en Friburgo (Alemania). © SG")
 
 > Una buena actividad en Friburgo es subir a Schauninsland en el teleférico más largo de 
 > Alemania desde donde, si las nubes lo permiten, se obtienen unas excelentes vistas 
@@ -114,7 +114,7 @@ cascadas de **Triberg**, las más altas de Alemania, que se encuentran a 55 kil�
 Friburgo (se tarda aproximadamente una hora). La visita es muy cómoda, hay unos senderos 
 señalizados para ascender y poder ver las diferentes cascadas de sus siete niveles. 
 
-![Selva Negra, naturaleza, viajes con niños, viajes en familia, viajes a Europa](etheria_images/2018/07/Cascadas-Triberg-e1557596619446.jpg "Cascadas de Triberg. © SG")
+![Selva Negra, naturaleza, viajes con niños, viajes en familia, viajes a Europa](etheria-images/2018/07/Cascadas-Triberg-e1557596619446.jpg "Cascadas de Triberg. © SG")
 
 La otra visita es imprescindible es el **gran reloj de cuco de Schonach** (pequeña 
 localidad al lado de Triberg), un reloj que es una casa y que permite ver su 
@@ -123,7 +123,7 @@ de césped y hay algunos columpios, es perfecto para una parada. Otra opción es
 **cuco de Eble Uhren-Park** (en las afueras de Triberg), con menos encanto ya que está 
 adosado a una enorme tienda-museo de relojes. 
 
-![Schonach, Selva Negra, viajes con niños, viajes en familia, viajes a Europa](etheria_images/2018/07/Reloj-de-cuco-Triberg-e1557596647729.jpg "Reloj de cuco de Schonach, cerca de Triberg. © SG")
+![Schonach, Selva Negra, viajes con niños, viajes en familia, viajes a Europa](etheria-images/2018/07/Reloj-de-cuco-Triberg-e1557596647729.jpg "Reloj de cuco de Schonach, cerca de Triberg. © SG")
 
 En el camino al lago Titisee se puede realizar una parada en **Furtwangen** para visitar 
 el **Museo alemán del Reloj**. Ya en el lago, se descubre la localidad de **Titisee** y 
@@ -139,7 +139,7 @@ Friburgo. Aquí se han reproducido granjas, molinos y serrerías para mostrar c�
 vida hace cuatrocientos años en esta zona. Organizan actividades y talleres para niños 
 todos los días. 
 
-![Paseo en barco por el lago Titisee.](etheria_images/2018/08/Alsacia-Selva-Negra-Titisse.jpg "Paseo en barco por el lago Titisee. © SG")
+![Paseo en barco por el lago Titisee.](etheria-images/2018/08/Alsacia-Selva-Negra-Titisse.jpg "Paseo en barco por el lago Titisee. © SG")
 
 ## Consejos prácticos de viaje
 
@@ -167,7 +167,7 @@ hoteles 4\*S** (Bell Rock, Colosseo, Santa Isabel, Castillo Alcázar y El Andalu
 Además, cuenta con un **Camp Resort** para familias aventureras donde **te puedes alojar 
 en un tipi** o una cabaña de madera. También hay una zona de camping. 
 
-![Europa Park con niños](etheria_images/2018/08/europa-park-con-ninos.jpg "Europa Park es un parque de atracciones perfecto para ir con niños. © SG")
+![Europa Park con niños](etheria-images/2018/08/europa-park-con-ninos.jpg "Europa Park es un parque de atracciones perfecto para ir con niños. © SG")
 
 ### Dónde alojarse
 

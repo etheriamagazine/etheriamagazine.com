@@ -1,7 +1,7 @@
 ---
 title: "Dónde y cuándo ver los cerezos en flor en Tokio"
 date: 2024-02-13
-coverImage: etheria_images/2024/02/tokio-cerezos-Chidorigafuchi.jpg
+coverImage: etheria-images/2024/02/tokio-cerezos-Chidorigafuchi.jpg
 categories: 
   - organiza-tu-viaje
   - experiencias-viajeras
@@ -10,8 +10,8 @@ categories:
   - viajes-urbanos
   - viajes-para-mujeres
   - visitas-guiadas
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 A la infinidad de actividades que se pueden hacer en Tokio, entre febrero y abril se 
@@ -19,7 +19,7 @@ suma la visita a los parques con los cerezos en flor. En este artículo te conta
 cuáles son los mejores lugares para verlos según la semana, teniendo en cuenta los 
 diferentes momentos de floración de cada especie de cerezo. 
 
-![Cerezos en el Parque Ueno.](etheria_images/2024/02/Tokio-cerezos-ueno.jpg "Cerezos en el Parque Ueno. © Turismo de Tokyo.")
+![Cerezos en el Parque Ueno.](etheria-images/2024/02/Tokio-cerezos-ueno.jpg "Cerezos en el Parque Ueno. © Turismo de Tokyo.")
 
 Cualquier época del año es buena para viajar a Tokio, tanto en un viaje a la capital 
 nipona, de forma exclusiva, como dentro de una ruta de varios días por Japón. En esta 
@@ -57,7 +57,7 @@ imagen más icónica es la de las barcas surcando el canal bajo las ramas cargad
 flores. El **Festival Chiyoda Sakura** tiene lugar durante estas fechas y no te lo 
 puedes perder al caer la noche, cuando la iluminación crea un ambiente mágico. 
 
-![Canal del parque Chidorigafuchi.](etheria_images/2024/02/tokio-cerezos-Chidorigafuchi.jpg "Canal del parque Chidorigafuchi. © Yu Kato.")
+![Canal del parque Chidorigafuchi.](etheria-images/2024/02/tokio-cerezos-Chidorigafuchi.jpg "Canal del parque Chidorigafuchi. © Yu Kato.")
 
 ## Komatsugawa Senbonzakura
 
@@ -81,7 +81,7 @@ que son de la especie Kanzan Yaezakura, cuyas grandes flores rosa oscuro tienen 
 doble floración. Además, el parque se puede visitar también por la noche, ya que se 
 ilumina desde finales de marzo a principios de abril. 
 
-![Barcas en el estanque Shinobazu.](etheria_images/2024/02/tokio-cerezos-parque-ueno-barca.jpg "Barcas en el estanque Shinobazu.")
+![Barcas en el estanque Shinobazu.](etheria-images/2024/02/tokio-cerezos-parque-ueno-barca.jpg "Barcas en el estanque Shinobazu.")
 
 ## Tranvía Sakura
 
@@ -105,7 +105,7 @@ Cerezos**, que guarda varios ejemplares antiguos, con más de cincuenta años, d
 variedad Someiyoshino. Aquí, además, se puede ver el contraste con las flores amarillas 
 de colza que florecen justo al lado en la misma época del año. 
 
-![Lago Okutama.](etheria_images/2024/02/Tokio-cerezos-okutama.jpg "Lago Okutama. © Turismo de Tokyo.")
+![Lago Okutama.](etheria-images/2024/02/Tokio-cerezos-okutama.jpg "Lago Okutama. © Turismo de Tokyo.")
 
 ## Lago Okutama
 

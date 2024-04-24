@@ -1,11 +1,11 @@
 ---
 title: "Izadi Larrosa, porque me gusta un rosado"
 date: 2018-05-11
-coverImage: etheria_images/2018/05/3-IZADI_LARROSA_2017.jpg
+coverImage: etheria-images/2018/05/3-IZADI_LARROSA_2017.jpg
 categories: 
   - mejores-restaurantes-gastronomia
-author: 
-  - Vanesa
+authors: 
+  - Vanesa Viñolo
 ---
 
 Odio el rosa y me encanta el rosado. Y no porque sea cosas de chicas. Los que me 
@@ -13,7 +13,7 @@ conocéis un poco, sabéis que odio esas distinciones sexistas, que nos etiqueta
 hecho de ser mujer, en ese perfil “bajo” de consumo de vinos facilitos, cuquis, para 
 chicas. Hoy te hablo de Izadi Larrosa. 
 
-![Vino Rosado para mujeres Izadi Larrosa 2017](etheria_images/2018/05/VINO-IZADI-LARROSA-mujeres-1024x945.jpg "Vino Rosado para mujeres Izadi Larrosa 2017")
+![Vino Rosado para mujeres Izadi Larrosa 2017](etheria-images/2018/05/VINO-IZADI-LARROSA-mujeres-1024x945.jpg "Vino Rosado para mujeres Izadi Larrosa 2017")
 
 Creo firmemente que los gustos en el mundo del vino no están determinados por colores o 
 sexo, sino por cultura y memoria en el paladar. Y que los rosados son unos vinos 

@@ -1,20 +1,20 @@
 ---
 title: "Descubre la isla de Ons y disfruta del Caribe en España"
 date: 2020-08-06
-coverImage: etheria_images/2020/08/viaje-galicia-isla-ons-1.jpg
+coverImage: etheria-images/2020/08/viaje-galicia-isla-ons-1.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
-  - colaboradores
+authors: 
+  - Firmas invitadas
 ---
 
 Ons es una isla gallega, declarada Patrimonio Natural, cuyo entorno salvaje es idóneo para los amantes de la naturaleza. Debido a sus playas de arena blanca y mar azul la comparan con una isla caribeña pero puedes disfrutar de la misma sin salir de España. ¿Nos acompañas a descubrirla?
 
 **Por Ana Veiga.** 
 
-![Ons, un paraíso poco masificado.](etheria_images/2020/08/viaje-galicia-isla-ons-1-900x675.jpg "Ons, un paraíso poco masificado. © Piratas de Nabia")
+![Ons, un paraíso poco masificado.](etheria-images/2020/08/viaje-galicia-isla-ons-1-900x675.jpg "Ons, un paraíso poco masificado. © Piratas de Nabia")
 
 Seguro que no es la primera vez que escuchas que Galicia es un **paraíso natural** donde 
 verde y azul se mezclan como un cóctel fresco que tomas en un caluroso día de verano. 
@@ -30,7 +30,7 @@ natural, hacen que debas pedir una autorización en la página de la Xunta de Ga
 poder pasar la noche en ella. Con ese permiso en la mano, solo te faltará hacer una 
 reserva del billete de barco y una habitación para disfrutar de Galicia en estado puro. 
 
-![Campamento en isla de Ons (Galicia).](etheria_images/2020/08/viaje-galicia-isla-ons.jpg "Campamento en isla de Ons (Galicia). © Piratas de Nabia")
+![Campamento en isla de Ons (Galicia).](etheria-images/2020/08/viaje-galicia-isla-ons.jpg "Campamento en isla de Ons (Galicia). © Piratas de Nabia")
 
 ## Cómo llegar a Ons
 
@@ -61,7 +61,7 @@ esta gran ‘roca’ en medio de la ría. A esas dos se suma la propia Susi que 
 pero sigue yendo diariamente, allí no sólo tiene sus raíces sino su presente y futuro 
 profesional. 
 
-![Acantilados de la isla de Ons.](etheria_images/2020/08/isla-ons-atlanticas-galicia-900x675.jpg "Isla de Ons. © Xunta de Galicia")
+![Acantilados de la isla de Ons.](etheria-images/2020/08/isla-ons-atlanticas-galicia-900x675.jpg "Isla de Ons. © Xunta de Galicia")
 
 Podemos decir que **Susi es una de las mujeres de Ons**. Y no es de extrañar en una 
 cultura matriarcal como la gallega donde madres y abuelas vertebran las familias y las 
@@ -97,7 +97,7 @@ isla”, menos transitada y con preciosos paisajes naturales.
 > de información donde te explicarán qué puedes ver en la isla. Pero te adelantamos cinco 
 > cosas que no te puedes perder. 
 
-![Buraco do Inferno, un lugar envuelto en leyendas.](etheria_images/2020/08/isla-ons-OBurato-900x598.jpg "Buraco do Inferno, un lugar envuelto en leyendas. © Xunta de Galicia")
+![Buraco do Inferno, un lugar envuelto en leyendas.](etheria-images/2020/08/isla-ons-OBurato-900x598.jpg "Buraco do Inferno, un lugar envuelto en leyendas. © Xunta de Galicia")
 
 ### 1\. Buraco do inferno
 
@@ -129,7 +129,7 @@ de 1865 cuando se encendió por primera vez. En 1932 se revistió con azulejos y
 los últimos faros de petróleo a presión que existieron, ya que partir de 1990 empezó a 
 funcionar con energía fotovoltaica. 
 
-![Sobre el acantilado, el faro de Ons.](etheria_images/2020/08/isla-ons-galicia-2.jpg "Sobre el acantilado, el faro de Ons. © Xunta de Galicia")
+![Sobre el acantilado, el faro de Ons.](etheria-images/2020/08/isla-ons-galicia-2.jpg "Sobre el acantilado, el faro de Ons. © Xunta de Galicia")
 
 ### 3\. O Laxe do Crego
 
@@ -148,7 +148,7 @@ sarcófago apareció sellado con una losa de gran tamaño y peso, pero las histo
 isleñas apuntan que a mediados del siglo XX esa gran tapa no pudo resistir los embates 
 de un temporal y desapareció en el mar. 
 
-![Playa de Area dos Cans, en la isla de Ons.](etheria_images/2020/08/viaje-galicia-isla-ons-2.jpg "Playa de Area dos Cans, en la isla de Ons. © Piratas de Nabia")
+![Playa de Area dos Cans, en la isla de Ons.](etheria-images/2020/08/viaje-galicia-isla-ons-2.jpg "Playa de Area dos Cans, en la isla de Ons. © Piratas de Nabia")
 
 ### 4\. Mirador de Fedorentos y ensenada de Caniveliñas
 
@@ -167,7 +167,7 @@ Tras el mirador, bordearemos la costa occidental hasta alcanzar nuestro destino 
 podrás ver los acantilados y bocas de entrada a la furnas o cuevas marinas en la cara 
 oeste de la isla. 
 
-![Contorno rocoso de Ons.](etheria_images/2020/08/isla-ons-excursion-galicia-900x675.jpg "Contorno rocoso de Ons. © Xunta de Galicia")
+![Contorno rocoso de Ons.](etheria-images/2020/08/isla-ons-excursion-galicia-900x675.jpg "Contorno rocoso de Ons. © Xunta de Galicia")
 
 ### 5\. Playa de Melide
 
@@ -186,7 +186,7 @@ rocas por lo que tiene menos oleaje) o la de **Canexol** (al lado del pueblo que
 su mismo nombre, y se accede a ella por una cuesta que desciende del camino principal 
 con salida desde el pueblo de O Curro). 
 
-[![Fenómeno del mar de Ardara.](etheria_images/2020/08/mar-ardara-galicia-900x500.jpg)](https://www.lavozdegalicia.es/video/sociedad/2017/06/30/espectaculo-mar-ardora/0031_2017065489455053001.htm)
+[![Fenómeno del mar de Ardara.](etheria-images/2020/08/mar-ardara-galicia-900x500.jpg)](https://www.lavozdegalicia.es/video/sociedad/2017/06/30/espectaculo-mar-ardora/0031_2017065489455053001.htm)
 
 ## El mar de Ardora y otros atractivos naturales
 
@@ -218,7 +218,7 @@ das Illas Atlánticas ha sido galardonado con el Sello ‘Starlight’, que lo c
 destino de interés para la observación de astronómica. La **naviera Piratas de Nabia** 
 organiza actividades Starlight con opción de alojamiento en la propia Isla. 
 
-![No te marches de Galicia sin probar el pulpo.](etheria_images/2020/08/pulpo-galicia-900x600.jpg "No te marches de Galicia sin probar el pulpo.")
+![No te marches de Galicia sin probar el pulpo.](etheria-images/2020/08/pulpo-galicia-900x600.jpg "No te marches de Galicia sin probar el pulpo.")
 
 ### Guía de Ons | Etheria Magazine
 

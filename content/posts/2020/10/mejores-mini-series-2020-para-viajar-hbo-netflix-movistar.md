@@ -1,17 +1,17 @@
 ---
 title: "Las 11 mejores series para llevarte de viaje"
 date: 2020-10-27
-coverImage: etheria_images/2020/10/series-viajar-el-mundo-en-llamas.jpg
+coverImage: etheria-images/2020/10/series-viajar-el-mundo-en-llamas.jpg
 categories: 
   - viajes-cine
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Llegan las escapadas de invierno que, en muchos casos, y más este año, se traducen en viajes cortos para disfrutar de los entornos rurales y los paseos por el campo. Como anochece rápido, nada mejor que viajar acompañado de una buena miniserie. Descárgatelas en tu móvil o tablet y disfruta de ellas con 'mantita' y frente al fuego.
 
-![Imagen de la serie 'Patria'.](etheria_images/2020/10/Series-viajar-patria.jpg "Imagen de la serie 'Patria'. © David Herranz/HBO")
+![Imagen de la serie 'Patria'.](etheria-images/2020/10/Series-viajar-patria.jpg "Imagen de la serie 'Patria'. © David Herranz/HBO")
 
 ## 1\. Patria (HBO)
 
@@ -24,7 +24,7 @@ dos actrices protagonistas (Elena Irureta y Ane Gabaraín) no pudo ser más acer
 recreación del ambiente es tan realista que te trasladas sin darte cuenta a los 
 distintos tiempos históricos que intercala la trama. Duración: 8 episodios de 1 hora. 
 
-![Cartel de la serie 'Antidusturbios'.](etheria_images/2020/10/series-viajar-antidisturbios.jpg "Cartel de la serie 'Antidusturbios'. © Movistar+")
+![Cartel de la serie 'Antidusturbios'.](etheria-images/2020/10/series-viajar-antidisturbios.jpg "Cartel de la serie 'Antidusturbios'. © Movistar+")
 
 ## 2\. Antidisturbios (Movistar+)
 
@@ -36,7 +36,7 @@ catálogo de esta plataforma, aunque parece que no ha gustado mucho a las asocia
 sindicatos de policías. La adrenalina, su buen ritmo narrativo y los grandes personajes 
 harán que devores la serie. Duración: 6 capítulos de 50 minutos. 
 
-![Boda de la protagonista de 'Unorthodox'.](etheria_images/2020/10/unorthodox-netflix.jpg "Boda de la protagonista de 'Unorthodox'. © Netflix.")
+![Boda de la protagonista de 'Unorthodox'.](etheria-images/2020/10/unorthodox-netflix.jpg "Boda de la protagonista de 'Unorthodox'. © Netflix.")
 
 ## 3\. Unorthodox (Netflix)
 
@@ -48,7 +48,7 @@ de esta sociedad, lo es también por la historia, la factura y una protagonista 
 Haas) que con gestos contenidos es capaz de transmitir grandes emociones. No te la 
 pierdes bajo ningún concepto. Duración: 4 episodios de 55 minutos. 
 
-![Las dos hermanas protagonistas de 'Vida Perfecta'.](etheria_images/2020/10/series-viajar-vida-perfecta-900x506.jpg "Las dos hermanas protagonistas de 'Vida Perfecta'. © Movistar+")
+![Las dos hermanas protagonistas de 'Vida Perfecta'.](etheria-images/2020/10/series-viajar-vida-perfecta-900x506.jpg "Las dos hermanas protagonistas de 'Vida Perfecta'. © Movistar+")
 
 ## 4\. Vida perfecta (Movistar+)
 
@@ -58,7 +58,7 @@ protagonistas. En 'Vida Perfecta' las actrices están geniales, los guiones son 
 llenos de chispa y la trama tiene capacidad de sorpresa. Ya se está preparando la 
 segunda temporada. Duración: 8 capítulos de 30 minutos. 
 
-![Protagonistas de 'We are who we are'.](etheria_images/2020/10/Series-viajar-we-are-who-we-are.jpg "Protagonistas de 'We are who we are'. © HBO")
+![Protagonistas de 'We are who we are'.](etheria-images/2020/10/Series-viajar-we-are-who-we-are.jpg "Protagonistas de 'We are who we are'. © HBO")
 
 ## 5\. We are who we are (HBO)
 
@@ -69,7 +69,7 @@ ejército de Estados Unidos en Italia. A través del día a día tan peculiar de
 entablan una bonita amistad a pesar de sus aparentes diferencias. Duración: 6 capítulos 
 de 55 minutos. 
 
-!['Emily in Paris'.](etheria_images/2020/10/series-viajar-emily-in-paris.jpg "'Emily in Paris'. © Netflix.")
+!['Emily in Paris'.](etheria-images/2020/10/series-viajar-emily-in-paris.jpg "'Emily in Paris'. © Netflix.")
 
 ## 6\. Emily in Paris (Netflix)
 
@@ -81,7 +81,7 @@ que intuimos que puedan llegar a soportar los franceses, su gran éxito viene da
 muestra del choque de culturas y la frescura del 'naif' personaje principal. Duración: 
 10 capítulos de 30 minutos. 
 
-![Berto Romero con su familia de ficción en 'Mira lo que has hecho'.](etheria_images/2020/10/series-viajar-mira-lo-que-has-hecho.jpg "Berto Romero con su familia de ficción en 'Mira lo que has hecho'. © Movistar+")
+![Berto Romero con su familia de ficción en 'Mira lo que has hecho'.](etheria-images/2020/10/series-viajar-mira-lo-que-has-hecho.jpg "Berto Romero con su familia de ficción en 'Mira lo que has hecho'. © Movistar+")
 
 ## 7\. Mira lo que has hecho (Movistar+)
 
@@ -92,7 +92,7 @@ pareja y lo complicadas que son a veces las relaciones con la familia. Son tres
 temporadas, pero los episodios son muy cortos, la verás en un momento. Duración: 3 
 temporadas de 6 capítulos de 20-25 minutos. 
 
-![Cartel de 'Modern Love'.](etheria_images/2020/10/modern-love-amazon.jpg "Cartel de 'Modern Love'. © Amazon Prime Video.")
+![Cartel de 'Modern Love'.](etheria-images/2020/10/modern-love-amazon.jpg "Cartel de 'Modern Love'. © Amazon Prime Video.")
 
 ## 8\. Modern Love (Amazon Prime Vídeo)
 
@@ -104,7 +104,7 @@ está rodada al mas puro estilo americano. Y además puedes verlos en el orden q
 (siempre manteniendo el capítulo ocho como el último). Duración: 8 capítulos de 30-35 
 minutos. 
 
-![Imagen de 'El mundo en llamas'.](etheria_images/2020/10/series-viajar-el-mundo-en-llamas.jpg "Imagen de 'El mundo en llamas'. © Movistar+")
+![Imagen de 'El mundo en llamas'.](etheria-images/2020/10/series-viajar-el-mundo-en-llamas.jpg "Imagen de 'El mundo en llamas'. © Movistar+")
 
 ## 9\. El mundo en llamas (Movistar+)
 
@@ -116,7 +116,7 @@ hasta comenzada la guerra. 'El mundo en llamas' cuenta con grandes personajes y 
 de la talla de Helen Hunt o Sean Bean. Una gran serie con un toque británico 
 inconfundible. Duración: 7 capítulos de 1 hora. 
 
-![Protagonistas de 'Chernobyl'. Series recomendadas de HBO](etheria_images/2020/10/series-viajar-chernobyl.jpg "Protagonistas de 'Chernobyl'. © HBO")
+![Protagonistas de 'Chernobyl'. Series recomendadas de HBO](etheria-images/2020/10/series-viajar-chernobyl.jpg "Protagonistas de 'Chernobyl'. © HBO")
 
 ## 10\. Chernobyl (HBO)
 
@@ -127,7 +127,7 @@ y por contar una parte de la historia de la que sabemos mucho menos de lo que pe
 esconde, y que retrata uno de los momentos más complicados de la historia de la Europa 
 del siglo XX. Duración: 5 episodios de 55 minutos. 
 
-![Imagen de la serie '30 monedas' de HBO.](etheria_images/2020/10/series-viajar-treinta-monedas.jpg "Imagen de la serie '30 monedas' de HBO. © HBO")
+![Imagen de la serie '30 monedas' de HBO.](etheria-images/2020/10/series-viajar-treinta-monedas.jpg "Imagen de la serie '30 monedas' de HBO. © HBO")
 
 ## 11\. Treinta monedas (HBO)
 

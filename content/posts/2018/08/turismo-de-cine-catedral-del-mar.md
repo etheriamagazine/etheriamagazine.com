@@ -1,10 +1,10 @@
 ---
 title: "Viajes de cine: 8 localizaciones de 'La catedral del mar'"
 date: 2018-08-01
-coverImage: etheria_images/2018/07/Sos-del-rey-catedral-del-mar-e1578147637875.jpg
+coverImage: etheria-images/2018/07/Sos-del-rey-catedral-del-mar-e1578147637875.jpg
 categories: 
   - viajes-cine
-author: 
+authors: 
   - Eva Madruga
 ---
 
@@ -13,7 +13,7 @@ _La catedral del mar_, la adaptación televisiva de la novela de Ildefonso Falco
 si eres de las que te enganchaste al _best seller_ homónimo, tienes que prestar atención 
 a esta ruta por los escenarios de la serie. 
 
-![Sos del Rey Católico.](etheria_images/2018/07/Sos-del-rey-catedral-del-mar-1024x683.jpg "Sos del Rey Católico. © LCM/A3")
+![Sos del Rey Católico.](etheria-images/2018/07/Sos-del-rey-catedral-del-mar-1024x683.jpg "Sos del Rey Católico. © LCM/A3")
 
 No te aseguramos que te vayas a encontrar a Arnau Estanyol, el personaje principal de la 
 historia interpretado magistralmente por Aitor Luna, pero sí te garantizamos que podrás 
@@ -27,7 +27,7 @@ Arnau, que transcurre paralela a la construcción del nuevo templo católico en 
 Virgen María de la Mar. Ahora sí, ya podemos recorrer los lugares que han servido para 
 recrear la época y el ambiente de _La catedral del mar_. 
 
-![Cáceres, localización de La catedral del mar.](etheria_images/2018/07/Catedral-del-mar-Caceres-1024x683.jpg "Cáceres, localización de La catedral del mar. © LCM/A3")
+![Cáceres, localización de La catedral del mar.](etheria-images/2018/07/Catedral-del-mar-Caceres-1024x683.jpg "Cáceres, localización de La catedral del mar. © LCM/A3")
 
 ## 1\. Casco histórico de Cáceres
 
@@ -38,7 +38,7 @@ la **Basílica de Santa María del Mar**. Si te suena haber visto este entramado
 medieval en otra ficción de la pequeña pantalla, estás en lo cierto. En la séptima 
 temporada de _Juego de Tronos_ aparecía representando a Desembarco del Rey. 
 
-![Castillo de Guadamur (Toledo), localización de La catedral del mar](etheria_images/2018/07/Castillo-Guadamur-Toledo-viajes-cine-1024x683.jpg "Castillo de Guadamur (Toledo). © LCM/A3")
+![Castillo de Guadamur (Toledo), localización de La catedral del mar](etheria-images/2018/07/Castillo-Guadamur-Toledo-viajes-cine-1024x683.jpg "Castillo de Guadamur (Toledo). © LCM/A3")
 
 ## 2\. Toledo y su provincia
 
@@ -50,7 +50,7 @@ la **Puebla de Montalbán** fue escenario para la batalla de Almogávares. Mient
 el **castillo de Guadamur** se rodaron las escenas de las mazmorras y cuadras que 
 aparecen en el último capítulo de la serie. 
 
-![Rodaje de Aitor Luna, en Segovia.](etheria_images/2018/07/rodaje-Aitor-luna-Segovia-1024x746.jpg "Rodaje de Aitor Luna, en Segovia. © Segovia Film Office")
+![Rodaje de Aitor Luna, en Segovia.](etheria-images/2018/07/rodaje-Aitor-luna-Segovia-1024x746.jpg "Rodaje de Aitor Luna, en Segovia. © Segovia Film Office")
 
 ## 3\. Escenas en Segovia
 
@@ -65,7 +65,7 @@ segoviana, concretamente estuvieron filmando en los **bosques de El Espinar**, a
 pies de la Sierra de Guadarrama, en el claustro del **monasterio de Santa María la Real 
 de Nieva** y en **Torreiglesias**. 
 
-![Campos de Ávila, localización de la Catedral del Mar](etheria_images/2018/07/La-Catedral-del-Mar-avila-1024x684.jpg "Campos de Ávila. © Javier de Agustín")
+![Campos de Ávila, localización de la Catedral del Mar](etheria-images/2018/07/La-Catedral-del-Mar-avila-1024x684.jpg "Campos de Ávila. © Javier de Agustín")
 
 ## 4\. Exteriores en Ávila
 
@@ -73,7 +73,7 @@ Para el rodaje de exteriores en los que aparecen bosques, caminos o ríos el rod
 trasladó al campo abulense del **Valle del Tiétar**. Allí estuvieron grabando en los 
 municipios de **Fresnedilla** y **Piedralaves**. 
 
-![Santa María de la Alameda, localización de la Catedral del mar](etheria_images/2018/07/La-catedral-del-mar-santa-maria-alameda-1-1024x683.jpg "Santa María de la Alameda. © Javier de Agustín")
+![Santa María de la Alameda, localización de la Catedral del mar](etheria-images/2018/07/La-catedral-del-mar-santa-maria-alameda-1-1024x683.jpg "Santa María de la Alameda. © Javier de Agustín")
 
 ## 5\. Santa María de la Alameda (Madrid)
 
@@ -85,7 +85,7 @@ Verde, y a unos 65 kilómetros de la capital de España, en el límite con la pr
 El equipo de rodaje también estuvo en el tinado que existe cerca del camino de 
 Navalayegua. 
 
-![Sos del Rey Católico, localización de La Catedral del Mar](etheria_images/2018/07/catedral-mar-sos-del-rey-catolico-1024x683.jpg "Sos del Rey Católico. © LCM/A3")
+![Sos del Rey Católico, localización de La Catedral del Mar](etheria-images/2018/07/catedral-mar-sos-del-rey-catolico-1024x683.jpg "Sos del Rey Católico. © LCM/A3")
 
 ## 6\. Sos del Rey Católico (Zaragoza)
 
@@ -98,7 +98,7 @@ góticas y renacentistas. Un armonioso conjunto lleno de joyas arquitectónicas 
 la pena visitar. Además, esta villa fue plató de la película _La vaquilla_ (1985), de 
 Luis García Berlanga. 
 
-![Plaza del Rey (Barcelona), localización de la catedral del mar](etheria_images/2018/07/catedral-mar-Plaza-del-Rey-Barcelona-1024x683.jpg "Plaza del Rey (Barcelona). © LCM/A3")
+![Plaza del Rey (Barcelona), localización de la catedral del mar](etheria-images/2018/07/catedral-mar-Plaza-del-Rey-Barcelona-1024x683.jpg "Plaza del Rey (Barcelona). © LCM/A3")
 
 ## 7\. La Barcelona de 'La catedral del mar'
 
@@ -113,7 +113,7 @@ Pero, sin duda, la gran protagonista de la ciudad –e incluso de la serie–, h
 la vida de Arnau. En el interior de la iglesia se rodó la escena final de esta 
 espectacular historia. 
 
-![Interior de La catedral del mar](etheria_images/2018/07/Catedral-del-mar-ruta-de-cine-684x1024.jpg "La catedral del mar. © LCDM/A3")
+![Interior de La catedral del mar](etheria-images/2018/07/Catedral-del-mar-ruta-de-cine-684x1024.jpg "La catedral del mar. © LCDM/A3")
 
 También se rodó en los municipios barceloneses de **Cardona** y **Vilanova i la 
 Geltrú**. Concretamente, la **Colegiata de San Vicente de Cardona** se convirtió en la 
@@ -122,7 +122,7 @@ mismo lugar Orson Welles rodó _Campanadas a medianoche_ (1965). Aprovecha tu es
 la localidad para visitar (o alojarte) en el Castillo, hoy rehabilitado como Parador de 
 Turismo. 
 
-![Zona costera de Tarragona](etheria_images/2018/07/Tarragona-catedral-del-mar-1024x683.jpg "Tarragona. © LCDM/A3")
+![Zona costera de Tarragona](etheria-images/2018/07/Tarragona-catedral-del-mar-1024x683.jpg "Tarragona. © LCDM/A3")
 
 ## 8\. Tarragona y sus playas
 
@@ -131,7 +131,7 @@ fue otro de los lugares de rodaje. En el primer capítulo ya se puede ver esta
 localización simulando una zona pesquera medieval. Sirvió, además, para recrear el 
 ataque naval a Barcelona por parte de las tropas castellanas. 
 
-![Playa de Tamarit, en Tarragona.](etheria_images/2018/07/Playas-Tamarit-Tarragona-catedral-mar-1024x684.jpg "Playa de Tamarit, en Tarragona. © LCDM/A3")
+![Playa de Tamarit, en Tarragona.](etheria-images/2018/07/Playas-Tamarit-Tarragona-catedral-mar-1024x684.jpg "Playa de Tamarit, en Tarragona. © LCDM/A3")
 
 ¿Y ya se acabó? De momento, sí. Aunque no descartamos que haya en el futuro una 
 adaptación televisiva de L_os herederos de la tierra,_ la continuación del éxito 

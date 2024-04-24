@@ -1,12 +1,12 @@
 ---
 title: "Una escapada romántica al hotel Casas do Côro"
 date: 2019-08-15
-coverImage: etheria_images/2019/07/Casas-do-coro-piscina.jpg
+coverImage: etheria-images/2019/07/Casas-do-coro-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Portugal está llena de rincones mágicos a tan sólo unas horas por carretera. En esta 
@@ -14,7 +14,7 @@ ocasión, de la mano de Rusticae, nos hemos fijado en el pequeño y delicado hot
 do Côro, un lugar perfecto para descansar en pareja en la localidad de Marialva, en la 
 región de Guarda. Si buscas ideas para un fin de semana romántico, aquí tienes una. 
 
-![Hotel Casas do Coro con el castillo al fondo](etheria_images/2019/07/Casas-do-coro-panoramica.jpg "Hotel con el castillo al fondo.")
+![Hotel Casas do Coro con el castillo al fondo](etheria-images/2019/07/Casas-do-coro-panoramica.jpg "Hotel con el castillo al fondo.")
 
 Para desconectar se necesitan, normalmente, pocas cosas: silencio, naturaleza y un 
 entorno que te haga la vida cómoda y agradable. Si bien, en el hotel Casas do Côro no se 
@@ -31,7 +31,7 @@ alrededor del castillo, y para ello fueron adquiriendo edificios a su alrededor 
 llegar a los diez que conforman el hotel, incluidos dentro de la muralla. Y todo con la 
 clara vocación de realizar un **proyecto sostenible** con la naturaleza y el entorno. 
 
-![Exterior de una habitación en el hotel casas do coro](etheria_images/2019/07/Casas-do-Coro-edificio.jpg "Arquitectura ecléctica en Casas do Côro.")
+![Exterior de una habitación en el hotel casas do coro](etheria-images/2019/07/Casas-do-Coro-edificio.jpg "Arquitectura ecléctica en Casas do Côro.")
 
 Esta original configuración forma parte del encanto de **Casas do Côro,** ya que cada 
 una de las casas tiene su estilo propio en cuanto a decoración. Su estilo combina una 
@@ -50,7 +50,7 @@ Hay habitaciones standard, superiores y superiores _curvaceira_, decoradas con g
 de forma única. Además, cuentan con todos los servicios que necesitas para una estancia 
 perfecta: aire acondicionado, _amenities_, televisión, acceso gratis a internet… 
 
-![Suite do Bogalhais](etheria_images/2019/07/Casas-do-Coro-suite.jpg "Suite do Bogalhais.")
+![Suite do Bogalhais](etheria-images/2019/07/Casas-do-Coro-suite.jpg "Suite do Bogalhais.")
 
 Las suites merecen una mención aparte. Cada una con su nombre y su estilo: la **suite 
 Pedro** tiene un pequeño patio con mesa y sillas; la **suite Ermida** cuenta con bañera 
@@ -69,7 +69,7 @@ cenar en el hotel, prepararán para ti una exquisita cena de cuatro platos que e
 auténtico menú degustación de especialidades locales. Eso sí, para la cena es 
 imprescindible reservar con antelación. 
 
-![Gastronomía en Casas do Côro](etheria_images/2019/07/Casas-do-Coro-gastronomia.jpg "Gastronomía en Casas do Côro.")
+![Gastronomía en Casas do Côro](etheria-images/2019/07/Casas-do-Coro-gastronomia.jpg "Gastronomía en Casas do Côro.")
 
 La **cocina de Carmen** tiene tanto éxito que incluso se ha creado una actividad muy 
 especial: realizar una **clase de dos horas** en la que te enseñará algunos de sus 
@@ -82,7 +82,7 @@ olivos, donde detenerse a una conversación pausada, a un rato de lectura o, sim
 a contemplar el paisaje. Destaca su piscina, que no puede ser más agradable en los meses 
 de verano. 
 
-![Piscina del hotel Casas do Coro](etheria_images/2019/07/Casas-do-coro-piscina.jpg "La piscina al atardecer.")
+![Piscina del hotel Casas do Coro](etheria-images/2019/07/Casas-do-coro-piscina.jpg "La piscina al atardecer.")
 
 Uno de los puntos fuertes de Casas do Côro es sin duda el **Eco Friendly Concept SPA**. 
 Se basa en cinco principios: belleza, armonía, naturaleza, confort y nutrición. Cuenta 
@@ -90,7 +90,7 @@ con jacuzzi doble, sauna panorámica, baño turco panorámico, piscina cubierta 
 zonas de tratamiento, salas para masajes, aqua gym, sala de relajación y la zona Spa 
 Lifestyle con zona de música, bar y chimenea. 
 
-![Jardín del hotel Casas do Coro](etheria_images/2019/07/Casas-do-coro-zona-descanso.jpg "En esta zona del hotel es imposible no relajarse.")
+![Jardín del hotel Casas do Coro](etheria-images/2019/07/Casas-do-coro-zona-descanso.jpg "En esta zona del hotel es imposible no relajarse.")
 
 ## Qué ver en los alrededores
 
@@ -106,7 +106,7 @@ Fotografías: © Rusticae
 
 Tel. Central de reservas Rusticae: 914 879 017. 
 
-[![](etheria_images/2019/03/rusticae-the-club-1-e1553083884362.jpg)](https://www.rusticae.es/)
+[![](etheria-images/2019/03/rusticae-the-club-1-e1553083884362.jpg)](https://www.rusticae.es/)
 
 **Consulta otros hoteles con encanto en Rusticae.** 
 

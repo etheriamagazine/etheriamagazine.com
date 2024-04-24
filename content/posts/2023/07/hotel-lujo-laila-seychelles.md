@@ -1,13 +1,13 @@
 ---
 title: "Laïla Seychelles, un hotel con personalidad en una isla de ensueño"
 date: 2023-07-19
-coverImage: etheria_images/2023/06/laila-Seychelles-Senior-Suite-terraza.jpg
+coverImage: etheria-images/2023/06/laila-Seychelles-Senior-Suite-terraza.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Las islas Seychelles son sinónimo de paraíso y lujo, además de garantía de unas 
@@ -15,7 +15,7 @@ vacaciones de descanso perfectas. Por eso nos encanta enseñarte Laïla Seychell
 Tribute Portfolio Resort, un hotel de la marca Marriot Bonvoy lleno de personalidad en 
 la isla de Mahé. Te va a apetecer ir seguro. 
 
-![playa del hotel laïla Seychelles.](etheria_images/2023/06/laila-Seychelles-vista-playa.jpg "Vista panorámica del hotel Laïla Seychelles.")
+![playa del hotel laïla Seychelles.](etheria-images/2023/06/laila-Seychelles-vista-playa.jpg "Vista panorámica del hotel Laïla Seychelles.")
 
 Tribute Portfolio es la colección de hoteles que, dentro de la marca Marriot Bonvoy, 
 acompaña a aquellos de carácter independiente y con estilo propio. Son hoteles 
@@ -33,7 +33,7 @@ arquitectura incluye detalles que reflejan el entorno local, como el techo del v
 tallado en madera que representa las islas. Y los tonos y el mobiliario del hotel 
 mantienen una propuesta fresca y veraniega. 
 
-![Habitación Deluxe del hotel laïla Seychelles](etheria_images/2023/06/laila-Seychelles-Deluxe-Room.jpg "Habitación Deluxe.")
+![Habitación Deluxe del hotel laïla Seychelles](etheria-images/2023/06/laila-Seychelles-Deluxe-Room.jpg "Habitación Deluxe.")
 
 ## Las habitaciones
 
@@ -53,7 +53,7 @@ añade una terraza magnífica de la que te va a costar salir; y la **Senior Suit
 la casa por la ventana con una piscina privada en la terraza con vistas al Índico que es 
 una delicia y que te permite disfrutar de una estancia con más privacidad. 
 
-![Piscina privada de la Senior Suite del hotel Laïla Seychelles](etheria_images/2023/06/laila-Seychelles-Senior-Suite-terraza.jpg "Piscina privada de la Senior Suite.")
+![Piscina privada de la Senior Suite del hotel Laïla Seychelles](etheria-images/2023/06/laila-Seychelles-Senior-Suite-terraza.jpg "Piscina privada de la Senior Suite.")
 
 Todas las habitaciones y suites cuentan con los servicios habituales de un hotel de lujo 
 y disponen de habitaciones comunicadas por si viajas en familia. 
@@ -65,7 +65,7 @@ experiencia culinaria relajada y sin prisas. El resort cuenta con varios restaur
 bares pensados tanto para los clientes como para los locales, fomentando así la 
 interacción y creando momentos únicos en tus vacaciones. 
 
-![Pool Bar del hotel laïla Seychelles.](etheria_images/2023/06/laila-Seychelles-Pool-Bar.jpg "Pool Bar del hotel Laïla Seychelles.")
+![Pool Bar del hotel laïla Seychelles.](etheria-images/2023/06/laila-Seychelles-Pool-Bar.jpg "Pool Bar del hotel Laïla Seychelles.")
 
 El **restaurante Laroul** se centra en la mezcla de culturas, aportando especialidades 
 de todo el mundo para el desayuno y la cena, entre las que destacan los platos de 
@@ -88,7 +88,7 @@ dejes de reservar un tratamiento facial o corporal, ya que utilizan siempre prod
 orgánicos y artesanales hechos con elementos de la propia isla como el coco, la vainilla 
 o la canela. 
 
-![Playa del resort laïla Seychelles](etheria_images/2023/06/laila-Seychelles-Kafe-Kreol-Beach.jpg "Playa del resort Laïla Seychelles.")
+![Playa del resort laïla Seychelles](etheria-images/2023/06/laila-Seychelles-Kafe-Kreol-Beach.jpg "Playa del resort Laïla Seychelles.")
 
 El **centro de deportes acuáticos** proporcionará también esos momentos únicos que se 
 recuerdan para siempre, esta vez subidas a un kayak o a una tabla de pádel surf. Las 

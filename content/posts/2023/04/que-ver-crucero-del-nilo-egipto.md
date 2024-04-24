@@ -1,12 +1,12 @@
 ---
 title: "Crucero por el Nilo, qué ver en un viaje por la historia del Antiguo Egipto"
 date: 2023-04-26
-coverImage: etheria_images/2023/04/crucero-nilo-asuan-faluca.jpg
+coverImage: etheria-images/2023/04/crucero-nilo-asuan-faluca.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Si hay un país al que viajar al menos una vez en la vida éste es Egipto. En un crucero 
@@ -14,7 +14,7 @@ por el Nilo la historia antigua del Egipto faraónico asoma en cada puerto y, mi
 tanto, sólo queda acodarse en la baranda y mirar cómo pasa la vida en la orilla de este 
 río, que sigue siendo una fuente inagotable de vida. 
 
-![barcos en el Nilo en Asuán](etheria_images/2023/04/crucero-nilo-asuan-excursion-poblado-nubio-barca.jpg "Barcos regresando al atardecer del poblado nubio en Asuán. © Susana García/ Etheria Magazine")
+![barcos en el Nilo en Asuán](etheria-images/2023/04/crucero-nilo-asuan-excursion-poblado-nubio-barca.jpg "Barcos regresando al atardecer del poblado nubio en Asuán. © Susana García/ Etheria Magazine")
 
 La historia del Antiguo Egipto es como un libro al que le han arrancado varias hojas, 
 incluso capítulos enteros, que los arqueólogos e historiadores se empeñan en ir buscando 
@@ -50,7 +50,7 @@ en ocasiones, en Egipto es necesario abstraerse de las explicaciones y de las le
 de las guías de viaje y simplemente abrir los ojos para asimilar, sólo con una mirada, 
 una grandiosidad que es imposible que quepa en los libros. 
 
-![Esfinges en el Templo de Karnak, en Luxor.](etheria_images/2023/04/crucero-nilo-luxor-karnak-esfinges.jpg "Esfinges en el Templo de Karnak, en Luxor. © Susana García/ Etheria Magazine")
+![Esfinges en el Templo de Karnak, en Luxor.](etheria-images/2023/04/crucero-nilo-luxor-karnak-esfinges.jpg "Esfinges en el Templo de Karnak, en Luxor. © Susana García/ Etheria Magazine")
 
 ## Luxor
 
@@ -77,7 +77,7 @@ de la sala hipóstila que completó Ramsés II, el gran faraón del Imperio Nuev
 en tu mente una pregunta que se repetirá a lo largo de todo el viaje, ¿cómo pudieron 
 hacerlo? 
 
-![pilonos entrada templo Luxor](etheria_images/2023/04/crucero-nilo-templo-luxor.jpg "Entrada al templo de Luxor con el obelisco gemelo del que se encuentra en París. © Susana García/ Etheria Magazine")
+![pilonos entrada templo Luxor](etheria-images/2023/04/crucero-nilo-templo-luxor.jpg "Entrada al templo de Luxor con el obelisco gemelo del que se encuentra en París. © Susana García/ Etheria Magazine")
 
 Desde el eje central de este templo partía una gran avenida de dos kilómetros, 
 flanqueada por esfinges, que lo unía con el inmenso templo de Karnak. De los dos 
@@ -94,7 +94,7 @@ honor de Ptah y Jonsu). También ha pasado por varias ampliaciones desde el Impe
 Medio. El tiempo quedará detenido cuando pasees entre su mar de columnas, en la que es 
 probablemente la sala hipóstila más grandiosa que contemplarás jamás. 
 
-![Columnas de la sala hipóstila del templo de Karnak.](etheria_images/2023/04/crucero-nilo-templo-karnak-luxor-columnas-683x1024.jpg "Columnas de la sala hipóstila del templo de Karnak. © Susana García/ Etheria Magazine")
+![Columnas de la sala hipóstila del templo de Karnak.](etheria-images/2023/04/crucero-nilo-templo-karnak-luxor-columnas-683x1024.jpg "Columnas de la sala hipóstila del templo de Karnak. © Susana García/ Etheria Magazine")
 
 ### Las necrópolis: las tumbas escondidas de la orilla oeste
 
@@ -107,7 +107,7 @@ riqueza de estas tumbas va más allá de las joyas que albergaban (que han desap
 su mayoría) y abarca también la estructura y, sobre todo, las inscripciones y pinturas 
 de estas tumbas. 
 
-![pinturas en la tumba de Nefertari en Luxor](etheria_images/2023/04/crucero-nilo-luxor-valle-reinas-tumba-nefertari.jpg "Decoración interior de la tumba de Nefertari, en el Valle de las Reinas. © Susana García/ Etheria Magazine")
+![pinturas en la tumba de Nefertari en Luxor](etheria-images/2023/04/crucero-nilo-luxor-valle-reinas-tumba-nefertari.jpg "Decoración interior de la tumba de Nefertari, en el Valle de las Reinas. © Susana García/ Etheria Magazine")
 
 Se pueden visitar varias de las tumbas del **Valle de los Reyes** y del **Valle de las 
 Reinas**, dependiendo de las que estén abiertas en el momento de la visita. Si está 
@@ -122,7 +122,7 @@ profusa decoración. Además, se puede visitar la tumba de **Tutankamón**, aunq
 tesoros realmente interesantes de este faraón se encuentran en el Museo Egipcio de El 
 Cairo. 
 
-![Pinturas de la tumba de Ramsés IV en el Valle de los Reyes.](etheria_images/2023/04/crucero-egipto-luxor-valle-reyes-ramses-iv.jpg "Pinturas de la tumba de Ramsés IV en el Valle de los Reyes.© Susana García/ Etheria Magazine")
+![Pinturas de la tumba de Ramsés IV en el Valle de los Reyes.](etheria-images/2023/04/crucero-egipto-luxor-valle-reyes-ramses-iv.jpg "Pinturas de la tumba de Ramsés IV en el Valle de los Reyes.© Susana García/ Etheria Magazine")
 
 ### Los Colosos de Memnón y el templo de Hatshepsut
 
@@ -132,7 +132,7 @@ leyenda: el viento ha desgastado la porosa piedra caliza de las figuras y pasa p
 provocando un sonido que se dice que es el lamento de Memnón (personaje mitológico, rey 
 etíope hijo de Eos y la diosa de la Aurora, y muerto por Aquiles) llamando a su madre. 
 
-![Colosos de Memnón en Luxor](etheria_images/2023/04/crucero-nilo-colosos-memnon.jpg "Colosos de Memnón. © Susana García/ Etheria Magazine")
+![Colosos de Memnón en Luxor](etheria-images/2023/04/crucero-nilo-colosos-memnon.jpg "Colosos de Memnón. © Susana García/ Etheria Magazine")
 
 En esta misma orilla está también el **Templo de Hatshepsut**, en Deir el-Bahari. Otra 
 de esas maravillas arquitectónicas que te regalará Egipto. Su grandiosidad se basa en 
@@ -152,7 +152,7 @@ Disfrutando de esta plácida manera de viajar se llega a la **esclusa de Esna**,
 permite salvar el desnivel de unos diez metros del río y contemplar desde dentro cómo 
 funciona una esclusa de grandes dimensiones. 
 
-![templo de Esna](etheria_images/2023/04/crucero-nilo-esna-pinturas.jpg "El techo y las columnas del templo de Esna conservan la policromía original. © Susana García/ Etheria Magazine")
+![templo de Esna](etheria-images/2023/04/crucero-nilo-esna-pinturas.jpg "El techo y las columnas del templo de Esna conservan la policromía original. © Susana García/ Etheria Magazine")
 
 En la escala que se hace en Esna se puede ver uno de los templos más delicados, con las 
 pinturas mejor conservadas que verás en todo el crucero por el Nilo. El **Templo de 
@@ -180,7 +180,7 @@ de un Egipto que para ellos ya era historia antigua. Desde aquí salía una proc
 el Nilo hasta el templo de Dendera, dedicado a Hathor-Isis, para que Horus se encontrara 
 con su madre y esposa. 
 
-![Pilonos de entrada al templo de Edfu.](etheria_images/2023/04/crucero-nilo-templo-edfu.jpg "Pilonos de entrada al templo de Edfu. © Susana García/ Etheria Magazine")
+![Pilonos de entrada al templo de Edfu.](etheria-images/2023/04/crucero-nilo-templo-edfu.jpg "Pilonos de entrada al templo de Edfu. © Susana García/ Etheria Magazine")
 
 Es un templo enorme que ha llegado en muy buen estado de conservación gracias al lodo 
 del Nilo que lo dejó sepultado durante siglos. En sus pilonos de entrada se reproduce 
@@ -200,7 +200,7 @@ no le resta encanto a este templo ptolemaico que se terminó durante la dominaci
 romana. Dedicado a **Sobek**, el dios cocodrilo, y a **Haroeris** (Horus el Viejo), esta 
 dualidad se refleja en su arquitectura, ya que es un templo doble y simétrico. 
 
-![Templo de Kom Ombo al atardecer.](etheria_images/2023/04/crucero-Nilo-kom-ombo.jpg "Templo de Kom Ombo al atardecer. © Susana García/ Etheria Magazine")
+![Templo de Kom Ombo al atardecer.](etheria-images/2023/04/crucero-Nilo-kom-ombo.jpg "Templo de Kom Ombo al atardecer. © Susana García/ Etheria Magazine")
 
 Estamos ya cerca de Asuán, en las tierras donde los nubios y sus tradiciones toman cada 
 vez más protagonismo. Este templo recuerda la época en la que el Nilo estaba plagado de 
@@ -226,7 +226,7 @@ la presa de Asuán, que lo hubiera dejado en el fondo de las aguas del Nilo. Aho
 encuentra en la **isla de Aguilkia** y es casi tan impresionante su porte como la 
 historia de tan minucioso traslado. 
 
-![El quiosco de Trajano de Filae en Asuán](etheria_images/2023/04/crucero-nilo-templo-filae.jpg "El quiosco de Trajano de Filae visto desde el Nilo. © Susana García/ Etheria Magazine")
+![El quiosco de Trajano de Filae en Asuán](etheria-images/2023/04/crucero-nilo-templo-filae.jpg "El quiosco de Trajano de Filae visto desde el Nilo. © Susana García/ Etheria Magazine")
 
 La visita combina un agradable paseo en barca con las habituales pasarelas de tiendas y 
 el recinto arqueológico. El templo principal de la isla es el dedicado a **Isis** y data 
@@ -254,7 +254,7 @@ visita a la escuela es obligada, y ahí te atenderá el profesor que por las ma�
 clase a los más pequeños con la difícil tarea de ayudarte a contar del uno al diez en 
 nubio, una lengua que se habla, pero que no tiene expresión escrita. 
 
-![Faluca en el Nilo en Asuán](etheria_images/2023/04/crucero-nilo-asuan-faluca.jpg "Faluca surcando el Nilo en Asuán. © Susana García/ Etheria Magazine")
+![Faluca en el Nilo en Asuán](etheria-images/2023/04/crucero-nilo-asuan-faluca.jpg "Faluca surcando el Nilo en Asuán. © Susana García/ Etheria Magazine")
 
 Después, en una casa nubia se pueden probar algunos productos típicos y ver a los 
 cocodrilos que tienen como mascotas. Todo está enfocado al turismo, una vía que han 
@@ -282,7 +282,7 @@ rudimentarias que suponemos que tenían? Es un placer viajar a un país donde ha
 preguntas que certezas y la imaginación tiene espacio para ayudar a reconstruir una 
 historia tan apasionante como la del Antiguo Egipto. 
 
-![Nubio en el Templo de Isis en Filae.](etheria_images/2023/04/crucero-nilo-asuan-templo-filae-nubio-664x1024.jpg "Nubio en el Templo de Isis en Filae. © Susana García/ Etheria Magazine")
+![Nubio en el Templo de Isis en Filae.](etheria-images/2023/04/crucero-nilo-asuan-templo-filae-nubio-664x1024.jpg "Nubio en el Templo de Isis en Filae. © Susana García/ Etheria Magazine")
 
 ## Guía práctica para hacer un buen crucero por el Nilo
 
@@ -338,7 +338,7 @@ mejor ir de norte a sur, de Luxor a Asuán. Así dejas este maravilloso templo p
 final y su recuerdo no eclipsará los demás templos que verás en el recorrido con el 
 barco. 
 
-![Barco de cruceros en el Nilo.](etheria_images/2023/04/crucero-nilo-barco.jpg "Barco de cruceros en el Nilo. © Susana García /Etheria Magazine")
+![Barco de cruceros en el Nilo.](etheria-images/2023/04/crucero-nilo-barco.jpg "Barco de cruceros en el Nilo. © Susana García /Etheria Magazine")
 
 La elección del barco es importante, ten en cuenta que en Egipto todo se publica como 
 “cinco estrellas”. Pregunta bien en la agencia cómo son las instalaciones, si es nuevo o 
@@ -382,7 +382,7 @@ contamos todo lo que tienes que incluir en tu equipaje. Como resumen de los
 imprescindibles, no puedes olvidar un botiquín de viaje, crema solar, gorro, gafas de 
 sol y un abanico para ayudar con el calor del interior de las tumbas. 
 
-![Poblado nubio en Asuán.](etheria_images/2023/04/crucero-nilo-asuan-poblado-nubio.jpg "Poblado nubio en Asuán. © Susana García/ Etheria Magazine")
+![Poblado nubio en Asuán.](etheria-images/2023/04/crucero-nilo-asuan-poblado-nubio.jpg "Poblado nubio en Asuán. © Susana García/ Etheria Magazine")
 
 ### Seguridad
 

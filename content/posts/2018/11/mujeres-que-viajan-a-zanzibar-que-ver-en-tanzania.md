@@ -1,13 +1,13 @@
 ---
 title: "Buenas razones para viajar a Zanzíbar, la isla de las especias"
 date: 2018-11-30
-coverImage: etheria_images/2018/11/Zanzibar-david-santiago-etheria-magazine-4-e1655220104190.jpg
+coverImage: etheria-images/2018/11/Zanzibar-david-santiago-etheria-magazine-4-e1655220104190.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Ana Vara y David Santiago
 ---
 
@@ -16,7 +16,7 @@ Zanzíbar reúne una historia fascinante de mercaderes, exploradores, sultanes y
 las mejores playas de África, un universo perfumado de especias y una personalidad única 
 en el mundo. Esta isla de Tanzania tiene mucho que ofrecernos. 
 
-![Las playas (esta se encuentra en el pueblo de Paje) son uno de los principales atractivos de Zanzíbar.](etheria_images/2018/11/Zanzibar-david-santiago-etheria-magazine-1-1024x683.jpg "Las playas (esta se encuentra en el pueblo de Paje) son uno de los principales atractivos de Zanzíbar.")
+![Las playas (esta se encuentra en el pueblo de Paje) son uno de los principales atractivos de Zanzíbar.](etheria-images/2018/11/Zanzibar-david-santiago-etheria-magazine-1-1024x683.jpg "Las playas (esta se encuentra en el pueblo de Paje) son uno de los principales atractivos de Zanzíbar.")
 
 Esta isla oriental africana es uno de esos lugares de leyenda a los que les ha tocado 
 ejercer de paraíso. Marcada por los vientos alisios, exportó especias, esclavos y marfil 
@@ -36,7 +36,7 @@ diagramas urbanos más enrevesados que puede existir en África, con barrio ára
 africana por igual. Este **Patrimonio de la Humanidad** se degrada día a día, pero aún 
 posee esa mezcla perfecta de belleza y decadencia. 
 
-![Recorre el laberíntico trazado de Stone Town.](etheria_images/2018/11/Zanzibar-david-santiago-etheria-magazine-6-1024x682.jpg "Recorre el laberíntico trazado de Stone Town.")
+![Recorre el laberíntico trazado de Stone Town.](etheria-images/2018/11/Zanzibar-david-santiago-etheria-magazine-6-1024x682.jpg "Recorre el laberíntico trazado de Stone Town.")
 
 Pasear por la **Ciudad de Piedra** es como hacer un fascinante viaje en el túnel del 
 tiempo. Los palacios de origen indio y árabe, las lujosas casas de los traficantes, las 
@@ -70,7 +70,7 @@ las fuentes del Nilo, las míticas Montañas de la Luna, para evangelizar a las 
 interior o, simplemente, para conseguir fama y fortuna–, acudieron a la isla para 
 preparar sus expediciones. 
 
-![Pescadores en Nungwi, una localidad conocida por la construcción de las embarcaciones dhow.](etheria_images/2018/11/Zanzibar-david-santiago-etheria-magazine-4-1024x683.jpg "Pescadores en Nungwi, una localidad conocida por la construcción de las embarcaciones dhow.")
+![Pescadores en Nungwi, una localidad conocida por la construcción de las embarcaciones dhow.](etheria-images/2018/11/Zanzibar-david-santiago-etheria-magazine-4-1024x683.jpg "Pescadores en Nungwi, una localidad conocida por la construcción de las embarcaciones dhow.")
 
 ## Naturaleza con olor a especias
 
@@ -85,7 +85,7 @@ Especias’.
 > y en peligro de extinción, con un pelaje rojo oscuro y una cara de color negra coronada 
 > por pelaje blanco. 
 
-![Mono azul (Cercopithecus mitis mitis) en el Jozani National Park de Zanzíbar.](etheria_images/2018/11/Zanzibar-david-santiago-etheria-magazine-8-1024x683.jpg "Mono azul (Cercopithecus mitis mitis) en el Jozani National Park de Zanzíbar.")
+![Mono azul (Cercopithecus mitis mitis) en el Jozani National Park de Zanzíbar.](etheria-images/2018/11/Zanzibar-david-santiago-etheria-magazine-8-1024x683.jpg "Mono azul (Cercopithecus mitis mitis) en el Jozani National Park de Zanzíbar.")
 
 ## Las playas idílicas de Zanzíbar
 
@@ -96,7 +96,7 @@ de playas de ensueño, la impoluta arena blanca, el agua cristalina y los bosque
 palmeras de tronco estilizado, hacen que esta sea la imagen más aproximada a la idea que 
 tengo yo de paraíso. 
 
-![A la pequeña isla de Changuu se puede llegar en dhow.](etheria_images/2018/11/Zanzibar-david-santiago-etheria-magazine-2-1024x683.jpg "A la pequeña isla de Changuu se puede llegar en dhow.")
+![A la pequeña isla de Changuu se puede llegar en dhow.](etheria-images/2018/11/Zanzibar-david-santiago-etheria-magazine-2-1024x683.jpg "A la pequeña isla de Changuu se puede llegar en dhow.")
 
 En pueblos como **Paje**, donde la práctica del _kitesurf_ es muy popular, la furia del 
 océano deja algunos lengüetazos de espuma detrás de las barreras coralinas allá a lo 
@@ -119,7 +119,7 @@ atardecer cayendo sobre el mar, repaso el testimonio de la princesa Salme, que e
 se fugó con un comerciante alemán y, tras vivir unos años en Europa, escribió _Memorias 
 de una princesa de Zanzíbar_. 
 
-![Un joven salta al atardecer en una playa de Stone Town.](etheria_images/2018/11/Zanzibar-david-santiago-etheria-magazine-7-1024x683.jpg "Un joven salta al atardecer en una playa de Stone Town.")
+![Un joven salta al atardecer en una playa de Stone Town.](etheria-images/2018/11/Zanzibar-david-santiago-etheria-magazine-7-1024x683.jpg "Un joven salta al atardecer en una playa de Stone Town.")
 
 El sol intenta colar sus últimos rayos entre las velas de los _dhows_, esos 
 espectaculares barcos de vela latina que han bordeado las costas del océano Índico desde 

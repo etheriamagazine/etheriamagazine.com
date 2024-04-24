@@ -1,12 +1,12 @@
 ---
 title: "Jamaica, plató de cine: del Agente 007 al Lago Azul"
 date: 2019-03-15
-coverImage: etheria_images/2019/03/jamaica-mujeres-viajeras.jpg
+coverImage: etheria-images/2019/03/jamaica-mujeres-viajeras.jpg
 categories: 
   - viajes-cine
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Eva Madruga
 ---
 
@@ -14,7 +14,7 @@ Más allá de sus playas de ensueño, de la música reggae y los rastafaris, est
 caribeña es un escenario de película. Repasamos alguno de los lugares que han servido de 
 plató cinematográfico. 
 
-![Ursula Andress en Agente 007 contra el Dr. No](etheria_images/2019/03/fotograma-dr-no-jamaica.jpg "Ursula Andress en Agente 007 contra el Dr. No")
+![Ursula Andress en Agente 007 contra el Dr. No](etheria-images/2019/03/fotograma-dr-no-jamaica.jpg "Ursula Andress en Agente 007 contra el Dr. No")
 
 Esta isla caribeña está permanentemente salpicada de clichés. Desde la alegría 
 contagiosa a ritmo de _reggae_, hasta las paradisíacas playas, pasando por la exaltación 
@@ -36,7 +36,7 @@ por este famoso agente. Por cierto, si eres muy fan del 'agente secreto al servi
 su Majestad', puedes alojarte en el hogar del escritor, convertido ahora en un hotel de 
 lujo. 
 
-![Playa Laughing Water, en Jamaica](etheria_images/2019/03/laughing-waters-Jamaica.jpg "Playa Laughing Waters.")
+![Playa Laughing Water, en Jamaica](etheria-images/2019/03/laughing-waters-Jamaica.jpg "Playa Laughing Waters.")
 
 Uno de esas novelas (la sexta para ser exactos) fue _**Agente 007 contra el Dr. No**_, 
 la primera en ser llevada al cine. El libro narraba la investigación de James Bond sobre 
@@ -44,7 +44,7 @@ la desaparición en Jamaica de otro agente del M16. Estaba claro que el lugar de
 ideal tenía que ser Jamaica. Y así fue. Todas las localizaciones exteriores se rodaron 
 en la isla caribeña. 
 
-![Playa de Laughing Waters y fotograma del Agente 007 contra el Dr. No.](etheria_images/2019/03/Turismo-cine-doctor-no-jamaica.jpg "Playa de Laughing Waters y fotograma del Agente 007 contra el Dr. No.")
+![Playa de Laughing Waters y fotograma del Agente 007 contra el Dr. No.](etheria-images/2019/03/Turismo-cine-doctor-no-jamaica.jpg "Playa de Laughing Waters y fotograma del Agente 007 contra el Dr. No.")
 
 La mítica escena de la película en la que la actriz Ursula Andress sale del mar luciendo 
 su icónico bikini blanco se rodó en la **playa de Laughing Waters**, ubicada en Ocho 
@@ -59,7 +59,7 @@ También en Ocho Ríos se encuentra otra de las localizaciones de la película: 
 reconocibles si se ve la película, lo cierto es que el escenario hoy no tiene nada que 
 ver con lo que se veía en la ficción. 
 
-![Sean Connery y Ursula Andress en Agente 007 contra el Dr. No](etheria_images/2019/03/fotograma-dunns-Dr-no.jpg "Sean Connery y Ursula Andress en Agente 007 contra el Dr. No")
+![Sean Connery y Ursula Andress en Agente 007 contra el Dr. No](etheria-images/2019/03/fotograma-dunns-Dr-no.jpg "Sean Connery y Ursula Andress en Agente 007 contra el Dr. No")
 
 Poco o nada queda del lugar solitario y paradisiaco donde Sean Connery y Ursula Andress 
 se bañaban. Actualmente se ha convertido en una de las atracciones turísticas más 
@@ -67,7 +67,7 @@ famosas de Jamaica, lo que hace que esté masificada y que ofrezca una fotograf�
 idílica: turistas de la mano subiendo y bajando por la cascada, saltando de piedra en 
 piedra, y dándose chapuzones. 
 
-![Las cascadas río Dunns.](etheria_images/2019/03/cascadas-rio-dunns-jamaica.jpg "Las cascadas río Dunns.")
+![Las cascadas río Dunns.](etheria-images/2019/03/cascadas-rio-dunns-jamaica.jpg "Las cascadas río Dunns.")
 
 ## Cueva Green Grotto
 
@@ -79,7 +79,7 @@ visita agradable a tener en cuenta cuando se viaja a Jamaica. Su recorrido permi
 adentrarse en un mundo subterráneo de grandes formaciones rocosas, con estalactitas, 
 estalagmitas y canales escondidos. 
 
-![Cueva Green Grotto en Jamaica](etheria_images/2019/03/cuevas-green-grotto-jamaica.jpg "Cueva Green Grotto.")
+![Cueva Green Grotto en Jamaica](etheria-images/2019/03/cuevas-green-grotto-jamaica.jpg "Cueva Green Grotto.")
 
 ## La Laguna azul
 
@@ -91,7 +91,7 @@ escenas se rodaron en Comino (Malta) y Champagne Bay (Vanuatu). Sin embargo, sí
 algunas secuencias de la película se rodaron en Jamaica, concretamente las que recrean 
 la jungla y la playa. 
 
-![La laguna azul de Jamaica. Fotograma de El lago azul.](etheria_images/2019/03/El-lago-azul-jamaica.jpg "La laguna azul de Jamaica. Fotograma de El lago azul. © Columbia TriStar")
+![La laguna azul de Jamaica. Fotograma de El lago azul.](etheria-images/2019/03/El-lago-azul-jamaica.jpg "La laguna azul de Jamaica. Fotograma de El lago azul. © Columbia TriStar")
 
 Pero, aunque no haya sido cinematográfica, merece la pena acercarse a descubrirla. Se 
 trata de la laguna más grande de la isla, alimentada por manantiales naturales. Los 
@@ -101,7 +101,7 @@ tibia de la marea, lo que hace que bañarse aquí sea una experiencia más que
 recomendable. Si te gustan los deportes acuáticos también es tu lugar. Podrás bucear, 
 practicar kayak o _rafting_. 
 
-![Cataratas Reach y fotograma película Cocktail. Anímate a realizar turismo de cine Jamaica](etheria_images/2019/03/cataratas-reach-pelicula-coctail.jpg "Cataratas Reach y fotograma película Cocktail.")
+![Cataratas Reach y fotograma película Cocktail. Anímate a realizar turismo de cine Jamaica](etheria-images/2019/03/cataratas-reach-pelicula-coctail.jpg "Cataratas Reach y fotograma película Cocktail.")
 
 ## Cataratas Reach
 
@@ -123,7 +123,7 @@ como “Cruise Bar”. Actualmente se encuentra dentro de un complejo hotelero c
 propiedad ha comprado Sandals Resorts y está previsto que reabra este año. Síguele la 
 pista si lo tuyo son los 'todo incluido' de lujo. 
 
-![Playa de Frenchman's Cove (Jamaica).](etheria_images/2019/03/playa-frenchman-cove-jamaica.jpg "Playa de Frenchman's Cove (Jamaica).")
+![Playa de Frenchman's Cove (Jamaica).](etheria-images/2019/03/playa-frenchman-cove-jamaica.jpg "Playa de Frenchman's Cove (Jamaica).")
 
 ## Frenchman’s Cove
 
@@ -134,7 +134,7 @@ actriz luce estupenda con su bikini rojo, el enclave le roba protagonismo. Y no 
 extraña. Resulta difícil no enamorarse de esta playa nada más verla. Aunque para 
 disfrutarla tendrás que pagar una entrada de acceso de unos 10 dólares. 
 
-![Película Noche y día, interpretada por Tom Cruise. Turismo de cine Jamaica](etheria_images/2019/03/pelicula-Noche-dia-jamaica.jpg "Película Noche y día, interpretada por Tom Cruise.")
+![Película Noche y día, interpretada por Tom Cruise. Turismo de cine Jamaica](etheria-images/2019/03/pelicula-Noche-dia-jamaica.jpg "Película Noche y día, interpretada por Tom Cruise.")
 
 Está claro que Jamaica se lleva bien con el cine. Además de convertirse en lugar de 
 rodaje ha tenido como huéspedes a estrellas de Hollywood como Errol Flynn, Katharine 

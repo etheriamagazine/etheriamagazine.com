@@ -1,11 +1,11 @@
 ---
 title: "De Cartagena de Indias a la Ciudad Perdida, broche de oro de Sania"
 date: 2023-05-12
-coverImage: etheria_images/2023/05/sania-llegada-ciudad-perdida.jpg
+coverImage: etheria-images/2023/05/sania-llegada-ciudad-perdida.jpg
 categories: 
   - viajes-con-amigas
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -15,7 +15,7 @@ turismo de masas, y el segundo, Santa Marta, que guarda uno de los secretos mejo
 guardados del país: la Ciudad Perdida. De este modo, ha puesto un broche de oro a su 
 viaje en solitario por Sudamérica. 
 
-![Sania con un mural de Gabriel García Márquez.](etheria_images/2023/05/sania-cartagena-mural-garcia-marquez.jpg "Sania con un mural de Gabriel García Márquez en Cartagena de Indias. © SJ")
+![Sania con un mural de Gabriel García Márquez.](etheria-images/2023/05/sania-cartagena-mural-garcia-marquez.jpg "Sania con un mural de Gabriel García Márquez en Cartagena de Indias. © SJ")
 
 Colombia es un país que siempre sorprende, tanto en el interior como en la costa. En 
 esta crónica me detendré en dos polos turísticos muy importantes pero también diferentes 
@@ -40,7 +40,7 @@ pleno 'boom' inmobiliario, muchos turistas americanos, cruceros, taxistas pícar
 ganas de cobrar el doble, vendedores ambulantes que vendían todo por “sólo 10 dólares, 
 mami”._ 
 
-![Torre del Reloj de Cartagena de Indias](etheria_images/2023/05/sania-cartagena-torre-reloj.jpg "Torre del Reloj de Cartagena de Indias. © SJ.")
+![Torre del Reloj de Cartagena de Indias](etheria-images/2023/05/sania-cartagena-torre-reloj.jpg "Torre del Reloj de Cartagena de Indias. © SJ.")
 
 ### Cartagena y el turismo, una relación complicada
 
@@ -58,7 +58,7 @@ sensación de peligro porque hay muchísima gente en la calle. Dicho todo lo ant
 **ciudad es bella** y espero que encuentren la manera de tener un turismo próspero 
 combinado con servicios de calidad. 
 
-![Calles de Cartagena de Indias.](etheria_images/2023/05/sania-cartagena-calles.jpg "Calles de Cartagena de Indias. © SJ")
+![Calles de Cartagena de Indias.](etheria-images/2023/05/sania-cartagena-calles.jpg "Calles de Cartagena de Indias. © SJ")
 
 ## Santa Marta
 
@@ -76,7 +76,7 @@ los grupos de personas sentados en sillas de plástico en círculos en la arena,
 bebiendo. Todo un espectáculo. El nivel de ruido es curioso, y lo bueno es que no hay ni 
 amago de peligro. Eso seguramente contribuye a la popularidad del lugar. 
 
-![Playa de Santa Marta.](etheria_images/2023/05/sania-santa-marta.jpg "Playa de Santa Marta. © SJ")
+![Playa de Santa Marta.](etheria-images/2023/05/sania-santa-marta.jpg "Playa de Santa Marta. © SJ")
 
 Cerca de Santa Marta está el **Parque Nacional Tayrona**, que destaca por su gran 
 biodiversidad. Allí se pueden realizar rutas de trekking, observar la fauna, disfrutar 
@@ -95,7 +95,7 @@ indígena Tayrona** y abandonada en el año 1650. Considerada uno de los princip
 yacimientos arqueológicos de Colombia, fue descubierta en 1976 y se abrió al turismo en 
 2005. 
 
-![Sania ante unas escaleras en la ruta hacia la Ciudad Perdida.](etheria_images/2023/05/sania-ciudad-perdida-escaleras.jpg "Sania ante unas escaleras en la ruta hacia la Ciudad Perdida. © Sania Jelic.")
+![Sania ante unas escaleras en la ruta hacia la Ciudad Perdida.](etheria-images/2023/05/sania-ciudad-perdida-escaleras.jpg "Sania ante unas escaleras en la ruta hacia la Ciudad Perdida. © Sania Jelic.")
 
 El **Parque Arqueológico Ciudad Perdida-Teyuna** es un complejo sistema de 
 construcciones, caminos empedrados, escaleras y muros intercomunicados por terrazas y 
@@ -114,7 +114,7 @@ y más sudor. Hay que ir caminando cuesta arriba y cuesta abajo por un terreno
 resbaladizo, llevando todo el equipo en la espalda, ya que no hay otro medio de 
 transporte hasta allí. Menos mal que el equipo de Expotur pudo facilitar un porteador. 
 
-![Sania en la ruta de la Ciudad Perdida](etheria_images/2023/05/sania-ciudad-perdida-pueblo.jpg "Sania camino de la Ciudad Perdida. © Sania Jelic.")
+![Sania en la ruta de la Ciudad Perdida](etheria-images/2023/05/sania-ciudad-perdida-pueblo.jpg "Sania camino de la Ciudad Perdida. © Sania Jelic.")
 
 ### Una llegada de ensueño
 
@@ -133,7 +133,7 @@ son de las comunidades indígenas y ellas son las que autorizan el paso y gestio
 infraestructuras en el camino. Son un tanto rudimentarias... de momento, lo único 
 disponible son dormitorios con literas. 
 
-![Niebla en la Ciudad Perdida.](etheria_images/2023/05/sania-ciudad-perdida-niebla.jpg "Niebla en la Ciudad Perdida. © SJ.")
+![Niebla en la Ciudad Perdida.](etheria-images/2023/05/sania-ciudad-perdida-niebla.jpg "Niebla en la Ciudad Perdida. © SJ.")
 
 Al no haber ningún tipo de transporte hasta la Ciudad Perdida la comida se lleva en 
 sacos y cajas que transportan las mulas. Esos víveres los preparan _in situ_ en las 
@@ -152,7 +152,7 @@ más gratificante…
 De esta manera descubrí la Ciudad Perdida y concluí mi etapa de viaje en Sudamérica. El 
 camino me lleva ahora al norte, a **Centroamérica**. 
 
-![Sania frente a la Ciudad Perdida en Colombia](etheria_images/2023/05/sania-ciudad-perdida-camiseta.jpg "Después de un duro camino Sania por fin encontró la Ciudad Perdida. © SJ.")
+![Sania frente a la Ciudad Perdida en Colombia](etheria-images/2023/05/sania-ciudad-perdida-camiseta.jpg "Después de un duro camino Sania por fin encontró la Ciudad Perdida. © SJ.")
 
 ✅ **Lo que aprendí en esta etapa:** • La riqueza lingüística del español puede generar 
 confusiones y hay que prestar atención, ya que las mismas palabras se usan con diferente 

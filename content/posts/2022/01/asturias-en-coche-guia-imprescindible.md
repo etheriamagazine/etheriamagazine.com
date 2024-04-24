@@ -1,16 +1,16 @@
 ---
 title: "Asturias con amigas, visitas imprescindibles en una ruta en coche"
 date: 2022-01-17
-coverImage: etheria_images/2022/01/playa-Torimbia.jpg
+coverImage: etheria-images/2022/01/playa-Torimbia.jpg
 categories: 
   - viajes-con-amigas
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
 Algunos de los pueblos más bonitos de España y de las mejores playas del mundo se encuentran en Asturias. Súmale un patrimonio cultural extraordinario y apabullantes parques naturales y tendrás la escapada perfecta. Si no sabes cómo organizar tu ruta por Asturias en coche, has encontrado al artículo adecuado.
 
-![asturias en coche cudillero](etheria_images/2022/01/Cudillero-asturias.jpg "Cudillero, uno de los pueblos más bonitos de España. ©Yolanda Cardo")
+![asturias en coche cudillero](etheria-images/2022/01/Cudillero-asturias.jpg "Cudillero, uno de los pueblos más bonitos de España. ©Yolanda Cardo")
 
 Las aguas del Cantábrico y las cumbres de su cordillera configuran la fisonomía de estas 
 hermosas tierras. El azul que decora sus costas se transforma en una generosa gama de 
@@ -21,7 +21,7 @@ espléndidos paisajes y dejarnos seducir por el encanto de sus pueblos y sus ciu
 lugar donde perderse y no querer regresar a casa. Donde, al fin, la palabra tranquilidad 
 revela todo su significado. Ya lo dicen ellos, Asturias es un paraíso natural. 
 
-![asturias en coche niembro](etheria_images/2022/01/Iglesia-Dolores-de-Barro-Niembro.jpg "Iglesia de Nuestra Señora de los Dolores de Barro en la localidad de Niembro. © Yolanda Cardo")
+![asturias en coche niembro](etheria-images/2022/01/Iglesia-Dolores-de-Barro-Niembro.jpg "Iglesia de Nuestra Señora de los Dolores de Barro en la localidad de Niembro. © Yolanda Cardo")
 
 ## Imprescindibles en una ruta por Asturias en coche
 
@@ -51,7 +51,7 @@ del Narcea](#cangas-narcea)
 de Europa](#picos-europa) **•** [P. N. y Reserva de la Biosfera de 
 Ponga](#biosfera-ponga) **•**[Reserva Natural Integral de Muniellos](#parque-muniellos) 
 
-![playas andrin y ballota asturias](etheria_images/2022/01/playas-Andrin-Ballota.jpg "Las playas gemelas de Andrín y Ballota. © Yolanda Cardo")
+![playas andrin y ballota asturias](etheria-images/2022/01/playas-Andrin-Ballota.jpg "Las playas gemelas de Andrín y Ballota. © Yolanda Cardo")
 
 ### 1\. ¡Vaya, vaya, aquí sí hay playas… y muchas!
 
@@ -68,7 +68,7 @@ rotundo acantilado. No podréis bañaros en ambas a la vez pero sí contemplarla
 mirador de La Boriza. Una privilegiada atalaya con unas espectaculares vistas sobre la 
 costa llanisca. 
 
-![playa torimbia asturias](etheria_images/2022/01/playa-Torimbia.jpg "Panorámica de la playa de Torimbia. © Yolanda Cardo")
+![playa torimbia asturias](etheria-images/2022/01/playa-Torimbia.jpg "Panorámica de la playa de Torimbia. © Yolanda Cardo")
 
 #### Playa Torimbia, un paraíso nudista
 
@@ -83,7 +83,7 @@ Cantábrico por un pequeño acantilado que filtra sus aguas. Muy pequeña pero c
 encanto, eso sí, tardaréis más en llegar a ella que en recorrer de punta a punta sus 
 escasos 50 m catalogados como Monumento Nacional. 
 
-![asturias en coche playa gulpiyuri](etheria_images/2022/01/playa-Gulpiyuri.jpg "La diminuta playa de Gulpiyuri. © Yolanda Cardo")
+![asturias en coche playa gulpiyuri](etheria-images/2022/01/playa-Gulpiyuri.jpg "La diminuta playa de Gulpiyuri. © Yolanda Cardo")
 
 #### Los Quebrantos, la mayor playa de Asturias
 
@@ -98,7 +98,7 @@ acuden las aguas del río Esqueiro para encontrarse con el mar formando un bello
 de cantos rodados y arena dorada. Merece la pena visitar el cercano pueblo de **Soto de 
 Luiña** y probar las deliciosas empanadas de la panadería La Estrella. 
 
-![playa del silencio asturias](etheria_images/2022/01/playa-del-Silencio.jpg "Farallones y cantos rodados en la playa del Silencio. © Yolanda Cardo")
+![playa del silencio asturias](etheria-images/2022/01/playa-del-Silencio.jpg "Farallones y cantos rodados en la playa del Silencio. © Yolanda Cardo")
 
 #### Playa del Silencio
 
@@ -108,7 +108,7 @@ aguas. Escarpados acantilados protegen esta hermosa costa, considerada como una 
 más bonitas del Principado. Un camino de tierra y una escalera conducen hasta sus aguas, 
 quizás por ello no suele estar muy concurrida y la tranquilidad está asegurada. 
 
-![llanes asturias en coche](etheria_images/2022/01/Llanes-asturias.jpg "Llanes, un pueblo con mucho patrimonio y encanto © Yolanda Cardo")
+![llanes asturias en coche](etheria-images/2022/01/Llanes-asturias.jpg "Llanes, un pueblo con mucho patrimonio y encanto © Yolanda Cardo")
 
 ### 2\. Pueblos más bonitos de Asturias
 
@@ -145,7 +145,7 @@ de una marisma, que alfombra la iglesia de Nuestra Señora de los Dolores de Bar
 cementerio, en el que merece la pena parar para contemplar el reflejo del bucólico 
 conjunto en las aguas. 
 
-![asturias en coche ribadesella](etheria_images/2022/01/palacetes-playa-Ribadesella.jpg "Casonas y palacetes en la playa de Santa María de Ribadesella. © Yolanda Cardo")
+![asturias en coche ribadesella](etheria-images/2022/01/palacetes-playa-Ribadesella.jpg "Casonas y palacetes en la playa de Santa María de Ribadesella. © Yolanda Cardo")
 
 #### Ribadesella
 
@@ -170,7 +170,7 @@ empinada, pero con una gratísima recompensa al llegar hasta el final. No dejéi
 de visitar el faro de Luces, en la aldea del mismo nombre situado en el impresionante 
 cabo de Lastres. 
 
-![lastres asturias en coche](etheria_images/2022/01/lastres-asturias.jpg "Vista de Lastres desde el mirador de San Roque © Yolanda Cardo")
+![lastres asturias en coche](etheria-images/2022/01/lastres-asturias.jpg "Vista de Lastres desde el mirador de San Roque © Yolanda Cardo")
 
 #### Cudillero
 
@@ -191,7 +191,7 @@ del Camino y Santiago** y alberga un museo en honor a su ciudadano más ilustre,
 Premio Nobel **Severo Ochoa**, cuyos restos descansan en el cementerio de la localidad 
 situado en un promontorio con vistas espectaculares. 
 
-![luarca asturias en coche](etheria_images/2022/01/luarca-asturias.jpg "Vista de Luarca desde el puerto. © Yolanda Cardo")
+![luarca asturias en coche](etheria-images/2022/01/luarca-asturias.jpg "Vista de Luarca desde el puerto. © Yolanda Cardo")
 
 ### 3\. Pueblos de interior
 
@@ -209,7 +209,7 @@ de iniciar la ruta, encontraréis una pasarela adaptada con dos fantásticos mir
 uno al valle de Ponga y el otro a los Picos de Europa y al magnífico desfiladero de los 
 Beyos. 
 
-![san juan de belono asturias](etheria_images/2022/01/San-Juan-de-Belono.jpg "San Juan de Beloño, capital del concejo de Ponga. © Yolanda Cardo")
+![san juan de belono asturias](etheria-images/2022/01/San-Juan-de-Belono.jpg "San Juan de Beloño, capital del concejo de Ponga. © Yolanda Cardo")
 
 #### Cazo y Pen
 
@@ -225,7 +225,7 @@ Santillano y transita por un maravilloso bosque encantado en el que las rocas, d
 con musgo, tienen rostro y en los árboles centenarios se esconden personajes fantásticos 
 como _bruxas_ o _xanas_. 
 
-![ruta beyu pen asturias](etheria_images/2022/01/Ruta-Beyu-Pen.jpg "Ruta mitológica de Beyu Pen. © Yolanda Cardo")
+![ruta beyu pen asturias](etheria-images/2022/01/Ruta-Beyu-Pen.jpg "Ruta mitológica de Beyu Pen. © Yolanda Cardo")
 
 #### Cangas de Onís
 
@@ -239,7 +239,7 @@ jardines que conducen a la iglesia de Nuestra Señora de la Asunción, con su si
 campanario de tres pisos. Muy aconsejable también visitar la **ermita de la Santa 
 Cruz**, que conserva en su interior un dolmen del 4000 a.C. 
 
-![asturias en coche cangas de onis](etheria_images/2022/01/puente-Cangas-de-Onis.jpg "El famoso puente de piedra de Cangas de Onís. © Yolanda Cardo")
+![asturias en coche cangas de onis](etheria-images/2022/01/puente-Cangas-de-Onis.jpg "El famoso puente de piedra de Cangas de Onís. © Yolanda Cardo")
 
 #### Cangas del Narcea
 
@@ -254,14 +254,14 @@ fondo la blanca capilla del Carmen. El municipio es además un **paraíso para l
 celíacos** ya que cuenta con una red de establecimientos certificados para evitar sustos 
 provocados por las intolerancias alimentarias. 
 
-![cangas de narcea asturias en coche](etheria_images/2022/01/cangas-narcea.jpg "Puente medieval en Cangas del Narcea. © Yolanda Cardo")
+![cangas de narcea asturias en coche](etheria-images/2022/01/cangas-narcea.jpg "Puente medieval en Cangas del Narcea. © Yolanda Cardo")
 
 ### 4\. Triángulo para urbanitas: Oviedo, Gijón y Avilés
 
 Este “paraíso natural” tiene además grandes ciudades, en las que por cierto la 
 naturaleza también está muy presente. 
 
-![centro niemeyer aviles asturias](etheria_images/2022/01/Centro-Niemeyer-Aviles.jpg "Centro Niemeyer de Avilés. © Yolanda Cardo")
+![centro niemeyer aviles asturias](etheria-images/2022/01/Centro-Niemeyer-Aviles.jpg "Centro Niemeyer de Avilés. © Yolanda Cardo")
 
 #### Avilés
 
@@ -275,7 +275,7 @@ encontramos con un lugar realmente sorprendente de bellas edificaciones señoria
 calles porticadas, diáfanas plazas y hermosos jardines que revelan su elegante pasado 
 señorial. 
 
-![playa san lorenzo gijon asturias](etheria_images/2022/01/playa-de-San-Lorenzo-Gijon.jpg "Espectacular playa de San Lorenzo, en Gijón. ©Yolanda Cardo")
+![playa san lorenzo gijon asturias](etheria-images/2022/01/playa-de-San-Lorenzo-Gijon.jpg "Espectacular playa de San Lorenzo, en Gijón. ©Yolanda Cardo")
 
 #### Gijón
 
@@ -293,7 +293,7 @@ altura.
 ? No te pierdas el artículo: [Gijón: una gastroescapada que te dejará muy buen sabor de 
 boca](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/). 
 
-![san miguel lillo santa maria naranco](etheria_images/2022/01/San-Miguel-de-Lillo-y-Naranco.jpg "San Miguel de Lillo y Santa María del Naranco, dos joyas del prerrománico en Oviedo. © Y. Cardo")
+![san miguel lillo santa maria naranco](etheria-images/2022/01/San-Miguel-de-Lillo-y-Naranco.jpg "San Miguel de Lillo y Santa María del Naranco, dos joyas del prerrománico en Oviedo. © Y. Cardo")
 
 #### Oviedo
 
@@ -313,7 +313,7 @@ Sidra en la calle Gascona.
 ? No te pierdas el artículo: [8 planazos para descubrir Oviedo con 
 amigas](https://etheriamagazine.com/2021/10/05/planes-imprescindibles-en-oviedo-con-amigas/). 
 
-![ruta arcenorio asturias](etheria_images/2022/01/ruta-Arcenorio.jpg "Mirador en la ruta del Arcenorio. © Yolanda Cardo")
+![ruta arcenorio asturias](etheria-images/2022/01/ruta-Arcenorio.jpg "Mirador en la ruta del Arcenorio. © Yolanda Cardo")
 
 ### 5\. Naturaleza en estado puro
 
@@ -342,7 +342,7 @@ pastizales alpinos, valles glaciares y majestuosos cordales rocosos. El río Pon
 aquí unas magníficas foces y las aguas del Sella esculpen el espectacular desfiladero de 
 los Beyos. Un auténtico edén por descubrir. 
 
-![valle ponga asturias](etheria_images/2022/01/valle-ponga-asturias.jpg "El verde impregna el desconocido Valle de Ponga. © Yolanda Cardo")
+![valle ponga asturias](etheria-images/2022/01/valle-ponga-asturias.jpg "El verde impregna el desconocido Valle de Ponga. © Yolanda Cardo")
 
 #### Reserva Natural Integral de Muniellos
 
@@ -365,7 +365,7 @@ anfibios, reptiles, el amenazado urogallo y, por supuesto, el oso pardo. Las agu
 río Muniellos atraviesan el frondoso bosque generando unos paisajes únicos e 
 inolvidables. 
 
-![asturias en coche parque muniellos](etheria_images/2022/01/Reserva-Muniellos.jpg "Reserva Natural Integral de Muniellos. © Yolanda Cardo")
+![asturias en coche parque muniellos](etheria-images/2022/01/Reserva-Muniellos.jpg "Reserva Natural Integral de Muniellos. © Yolanda Cardo")
 
 ### Guía exprés de Asturias | Etheria Magazine
 

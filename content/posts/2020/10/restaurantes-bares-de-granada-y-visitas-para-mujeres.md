@@ -1,18 +1,18 @@
 ---
 title: "Granada, el privilegio de la buena mesa"
 date: 2020-10-30
-coverImage: etheria_images/2020/10/plato-restaurante-farala-granada-2.jpg
+coverImage: etheria-images/2020/10/plato-restaurante-farala-granada-2.jpg
 categories: 
   - viajes-con-amigas
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
-  - Alfredo
+authors: 
+  - Alfredo G. Reyes
 ---
 
 Existe una Granada más allá de La Alhambra y de Lorca, donde la poesía y los arabescos surgen en la barra de los bares o sobre un blanco mantel. Esa otra ciudad, con sus mujeres emblemáticas y sus mejores restaurantes, es la que queremos destacar en Etheria Magazine. Nos vamos de bares por Granada y esta ronda la pagamos nosotras.
 
-![restaurante farala en granada](etheria_images/2020/10/plato-restaurante-farala-granada-2.jpg "© Restaurante Faralá, en Granada.")
+![restaurante farala en granada](etheria-images/2020/10/plato-restaurante-farala-granada-2.jpg "© Restaurante Faralá, en Granada.")
 
 Granada es la ciudad de Federico García Lorca, sin duda. El lugar que inspiró una parte 
 importantísima de su creación literaria (como _Romancero Gitano_, _Bodas de Sangre_ o 
@@ -35,7 +35,7 @@ Mariana Pineda fue ajusticiada por bordar una bandera liberal durante el reinado
 Fernando VII; realmente lo fue por ayudar a escapar a su primo Fernández Álvarez de 
 Sotomayor y por su reiterada negativa a delatar a sus compañeros ideológicos. 
 
-![cuadro de mariana pineda](etheria_images/2020/10/mariana-pineda-heroina-granada.jpg "Cuadro de Juan Antonio Vera Calvo, de 1862, que muestra a Mariana Pineda en capilla, antes de ser llevada al cadalso.")
+![cuadro de mariana pineda](etheria-images/2020/10/mariana-pineda-heroina-granada.jpg "Cuadro de Juan Antonio Vera Calvo, de 1862, que muestra a Mariana Pineda en capilla, antes de ser llevada al cadalso.")
 
 Como decimos, todo esto la convirtió en un auténtico mito, habitual reclamo de 
 teatrillos y coplas de ciego (el reivindicativo Twitter de la época); y en la 
@@ -50,7 +50,7 @@ tiene que ver el represivo ambiente al que tuvo que enfrentarse Mariana Pineda c
 clima desenfadado que contempla su imagen de bronce en ese monumento, situado en el 
 epicentro de una de las zonas de tapas más populares de la ciudad. 
 
-![bares de tapas en granada](etheria_images/2020/10/bares-tapas-granada.jpg "Tapeo en Granada.")
+![bares de tapas en granada](etheria-images/2020/10/bares-tapas-granada.jpg "Tapeo en Granada.")
 
 ## Granada es decir tapas
 
@@ -71,7 +71,7 @@ veces ni siquiera te preguntan, te la ponen directamente. Por lo general no se p
 de ellas y sus respectivas bebidas se acaba realmente satisfecho. Y, encima, el monedero 
 apenas se entera… 
 
-![bar tendido 1 de granada](etheria_images/2020/10/plato-bar-tendido-1.jpg "© Restaurante Tendido 1.")
+![bar tendido 1 de granada](etheria-images/2020/10/plato-bar-tendido-1.jpg "© Restaurante Tendido 1.")
 
 ## Bares y zonas de tapeo de Granada
 
@@ -94,7 +94,7 @@ No menos emblemático es el **bar El Arenal** (Virgen del Monte, 2), en el popul
 de La Chana. Sobre todo por lo generosas que son sus tapas, entre las que tienen 
 auténticos adoradores el lomo a la plancha con patatas y, sobre todo, sus calamares. 
 
-![restaurante damasqueros granada](etheria_images/2020/10/Restaurante-damasqueros.jpg "© Restaurante Damasqueros de Granada.")
+![restaurante damasqueros granada](etheria-images/2020/10/Restaurante-damasqueros.jpg "© Restaurante Damasqueros de Granada.")
 
 ## Los mejores restaurantes de Granada
 
@@ -104,7 +104,7 @@ veces durante horas, por lo mejor de la gastronomía local. También por la coci
 y de vanguardia, que de todo hay en esta ciudad, acostumbrada a recibir cada año a 
 millones de turistas llegados de los más recónditos lugares del planeta. 
 
-![plato restaurante damasqueros granada](etheria_images/2020/10/plato-damasqueros-granada.jpg "Foie Micuit, bombón de palomitas, boniato y quicos del © restaurante Damasqueros.")
+![plato restaurante damasqueros granada](etheria-images/2020/10/plato-damasqueros-granada.jpg "Foie Micuit, bombón de palomitas, boniato y quicos del © restaurante Damasqueros.")
 
 A caballo entre uno y otro tipo de cocina está el [restaurante 
 Damasqueros](http://damasqueros.com). Aquí la **chef Lola Marín** lleva ya unos años 
@@ -114,7 +114,7 @@ artificios pero en los que se pueden reconocer influencias árabes, judías y cr
 Una cocina muy en la línea actual de fusionar sabores y de lograr texturas y 
 presentaciones originales. 
 
-![chef y sumiller de restaurante farala](etheria_images/2020/10/restaurante-farala-granada-cocinero-683x1024.jpg "Javier Feixas, en los fogones, y Lidia Outeda como sumiller. © Restaurante Faralá.")
+![chef y sumiller de restaurante farala](etheria-images/2020/10/restaurante-farala-granada-cocinero-683x1024.jpg "Javier Feixas, en los fogones, y Lidia Outeda como sumiller. © Restaurante Faralá.")
 
 Una propuesta sorprendente es la del [restaurante 
 Faralá](https://restaurantefarala.com), cuya cocina parte, como otras muchas en la 
@@ -128,7 +128,7 @@ Para poner en contexto esta vivencia gastronómica se puede complementar la cena
 las circunstancias de la pandemia lo permitan) con el espectáculo de [Casa del Arte 
 Flamenco](http://www.casadelarteflamenco.com/es), en otra parte del local. 
 
-![restaurante farala granada](etheria_images/2020/10/restaurante-farala-granada.jpg "Acogedor interior del restaurante Faralá, en Granada.")
+![restaurante farala granada](etheria-images/2020/10/restaurante-farala-granada.jpg "Acogedor interior del restaurante Faralá, en Granada.")
 
 Pero no podemos cerrar este capítulo de restaurantes granadinos sin hacer referencia a 
 uno de sus grandes clásicos: **Marisquería Cunini**. En pleno centro de Granada, este 
@@ -137,7 +137,7 @@ mediterráneos, junto a magníficos moluscos llegados de Galicia y el Cantábric
 servido en un comedor minimalista, para no despistar de lo que es realmente importante 
 aquí: la frescura y el intenso sabor de sus productos. 
 
-![te a la menta en granada](etheria_images/2020/10/te-menta-granada.jpg "En Granada es casi obligado visitar una tetería. © Jonathan Pielmayer")
+![te a la menta en granada](etheria-images/2020/10/te-menta-granada.jpg "En Granada es casi obligado visitar una tetería. © Jonathan Pielmayer")
 
 ## Teterías y compras
 
@@ -158,7 +158,7 @@ Alcaicería](http://www.alcaiceria.com), bazar histórico superviviente de la é
 musulmana. Aquí se encuentran artesanías tan evocadoras como los taraceados, las lozas 
 de Fajaluza, lámparas con cristales de colores, joyas y todo tipo de bisutería. 
 
-![compras en la alcaiceria de granada](etheria_images/2020/10/alcaiceria-compras-granada.jpg "La Alcaicería, de compras en Granada. © Willian Justen de Vasconcellos.")
+![compras en la alcaiceria de granada](etheria-images/2020/10/alcaiceria-compras-granada.jpg "La Alcaicería, de compras en Granada. © Willian Justen de Vasconcellos.")
 
 ## Paseos y visitas con historia
 
@@ -170,7 +170,7 @@ de la primera regente del reino nazarí, **Fatima Bint al-Hamar**. O el palacio 
 al-Horra, construido por orden de **Aixa**, la madre del último rey nazarí, Boabdil, 
 tras ser repudiada por su marido, Muley Hacén. 
 
-![la alhambra de granada](etheria_images/2020/10/la-alhambra-granada-683x1024.jpg "Fátima Bint al-Hamar influyó en la decoración de La Alhambra. © Klaur Kreuer")
+![la alhambra de granada](etheria-images/2020/10/la-alhambra-granada-683x1024.jpg "Fátima Bint al-Hamar influyó en la decoración de La Alhambra. © Klaur Kreuer")
 
 También en forma literaria como la obra de **Ana Caro Mallén de Soto**, que presumió, 
 allá por el Siglo de Oro de nuestras letras (siglo XVI), de ser la primera mujer que 
@@ -183,7 +183,7 @@ Herstóricas](https://herstoricas.com), en el que participan expertas en las má
 disciplinas, organiza paseos y visitas por la ciudad, que tienen lugar tanto en sus 
 barrios más conocidos como en museos y otras instituciones culturales. 
 
-![visitas guiadas para mujeres en granada por herstoricas](etheria_images/2020/10/rutas-guiadas-herstoricas.jpg "Visitas guiadas que destacan a la mujer en Granada, organizadas por © Herstóricas.")
+![visitas guiadas para mujeres en granada por herstoricas](etheria-images/2020/10/rutas-guiadas-herstoricas.jpg "Visitas guiadas que destacan a la mujer en Granada, organizadas por © Herstóricas.")
 
 Una de esas mujeres fundamentales fue, sin duda, **Agustina González**. Escritora y 
 política feminista, fue una auténtica inspiración para Federico García Lorca. La 

@@ -1,18 +1,18 @@
 ---
 title: "'Ninguna mujer sin sus mil palabras de gloria', el altavoz que necesitas"
 date: 2022-03-08
-coverImage: etheria_images/2022/03/empresaria-turismo.jpg
+coverImage: etheria-images/2022/03/empresaria-turismo.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - proyectos-con-alma
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 “Ninguna mujer sin sus mil palabras de gloria”, una nueva iniciativa de Etheria Magazine para profesionales, pequeños negocios y proyectos sociales que tengan mucho que contar y pocos altavoces en los grandes medios. Si eres una mujer emprendedora o una empresaria con proyectos en algún segmento relacionado con el turismo, tienes un espacio gratuito reservado para darlo a conocer.
 
-![empresaria turistica en su restaurante](etheria_images/2022/03/empresaria-turismo.jpg "Cuéntanos tu idea. © Brooke Cagle")
+![empresaria turistica en su restaurante](etheria-images/2022/03/empresaria-turismo.jpg "Cuéntanos tu idea. © Brooke Cagle")
 
 La nueva sección “Proyectos con Alma” de Etheria Magazine es un espacio pensado para 
 aquellas mujeres que, de forma individual o a través de pequeñas empresas, hayan puesto 
@@ -21,7 +21,7 @@ componente femenino, tu proyecto tiene una buena dosis de creatividad, compromis
 social, respeto por el entorno o creación de empleo, sin duda será un proyecto con alma 
 e intentaremos que no se quede sin sus mil palabras de gloria. 
 
-![mujer en un restaurante sonríe con una tablet en la mano](etheria_images/2022/03/emprendedora-turismo.jpg "Cada día son más las mujeres que emprenden en el mundo del turismo. © Brooke Cagle")
+![mujer en un restaurante sonríe con una tablet en la mano](etheria-images/2022/03/emprendedora-turismo.jpg "Cada día son más las mujeres que emprenden en el mundo del turismo. © Brooke Cagle")
 
 ### Cómo participar
 

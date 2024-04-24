@@ -1,11 +1,11 @@
 ---
 title: "Etheria (o Egeria), la primera viajera española"
 date: 2018-06-12
-coverImage: etheria_images/2018/06/Egeria-etheria-primera-viajera-espanola.jpg
+coverImage: etheria-images/2018/06/Egeria-etheria-primera-viajera-espanola.jpg
 categories: 
   - mujeres-que-inspiran
-author: 
-  - colaboradores
+authors: 
+  - Firmas invitadas
 ---
 
 En este artículo, Carlos Pascual nos cuenta la historia de Egeria, la primera viajera 
@@ -15,7 +15,7 @@ cuando el Imperio Romano estaba a punto de derrumbarse.
 
 **Autor: Carlos Pascual** 
 
-![Egeria primera viajera espanola](etheria_images/2018/06/Egeria-etheria-primera-viajera-espanola.jpg "Imagen ficticia de Etheria o Egeria, la primera viajera española.")
+![Egeria primera viajera espanola](etheria-images/2018/06/Egeria-etheria-primera-viajera-espanola.jpg "Imagen ficticia de Etheria o Egeria, la primera viajera española.")
 
 ```
 Act. 1/2023 
@@ -37,7 +37,7 @@ pergaminos medievales en una biblioteca de Arezzo (Italia). Eran unas hojas inse
 dentro de un tratado de patrística que nada tenía que ver con aquel viaje, _itinerarium_ 
 o _peregrinatio_. 
 
-![mapa de egeria primera viajera espanola](etheria_images/2018/06/mapa-tierra-santa-1024x793.jpg "Este mapa de 1585 en xilografía apareció en un libro de viaje de Heinrich Bünting (1545-1606).")
+![mapa de egeria primera viajera espanola](etheria-images/2018/06/mapa-tierra-santa-1024x793.jpg "Este mapa de 1585 en xilografía apareció en un libro de viaje de Heinrich Bünting (1545-1606).")
 
 ## Quién fue Egeria
 
@@ -67,7 +67,7 @@ es que se trataba de una **dama de la alta sociedad romana**; era una moda entre
 aquellas matronas hacer esa peregrinación y seguirle la corriente a la madre del 
 emperador. 
 
-![Frescos romanos la Villa de los Misterios](etheria_images/2018/06/Villa-misterios-pompeya-1024x514.jpg "Frescos decorativos de la Villa de los Misterios de Pompeya.")
+![Frescos romanos la Villa de los Misterios](etheria-images/2018/06/Villa-misterios-pompeya-1024x514.jpg "Frescos decorativos de la Villa de los Misterios de Pompeya.")
 
 Ese estatus explica que pudiera viajar sola, pero acompañada por un séquito de personas 
 al que, circunstancialmente, se unían incluso obispos de los lugares que visitaba. O 
@@ -104,7 +104,7 @@ Editorial: La Línea del Horizonte
 
 [En Amazon](https://amzn.to/3u6zUxI) desde 11,40 euros en edición impresa. 
 
-![viaje de egeria carlos pascual](etheria_images/2018/06/viaje-de-egeria.jpg "El viaje de Egeria, el primer relato de una viajera hispana.")
+![viaje de egeria carlos pascual](etheria-images/2018/06/viaje-de-egeria.jpg "El viaje de Egeria, el primer relato de una viajera hispana.")
 
 ### Más mujeres inspiradoras
 

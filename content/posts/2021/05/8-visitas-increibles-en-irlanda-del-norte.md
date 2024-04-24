@@ -1,19 +1,19 @@
 ---
 title: "Irlanda del Norte: 6 visitas imprescindibles y 2 lugares secretos"
 date: 2021-05-31
-coverImage: etheria_images/2020/08/glenariff-forest-park.jpg
+coverImage: etheria-images/2020/08/glenariff-forest-park.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 ¿Merece la pena una escapada a Irlanda del Norte de 3 o 4 días? Por supuesto. Te vamos a contar qué ver y hacer en el norte de la Isla Esmeralda, y algunas visitas imprescindibles como Belfast, la Calzada del Gigante, Dark Hedges, Portrush y otros lugares con encanto menos conocidos. Esperamos que te guste conducir porque esta ruta la haremos en coche.
 
-![puente colgante, ruta costa irlanda norte](etheria_images/2020/08/ruta-costa-norte-irlanda.jpg "Ruta desde el puente Carrick-a-Rede. © Pepa G./ Etheria Magazine")
+![puente colgante, ruta costa irlanda norte](etheria-images/2020/08/ruta-costa-norte-irlanda.jpg "Ruta desde el puente Carrick-a-Rede. © Pepa G./ Etheria Magazine")
 
 ```
 Actualizado mayo 2021
@@ -30,7 +30,7 @@ tardarás algo menos de 2 horas es en transporte público, autobús o tren, que 
 unos 15 o 20 € en función de la empresa. Ten en cuenta que si vas a Dublín podrás usar 
 euros en el aeropuerto pero en Irlanda del Norte necesitarás libras esterlinas. 
 
-![Escultura del Titanic Belfast](etheria_images/2020/08/Titanic-belfast.jpg "Escultura del Titanic Belfast. © Pepa G./ Etheria Magazine")
+![Escultura del Titanic Belfast](etheria-images/2020/08/Titanic-belfast.jpg "Escultura del Titanic Belfast. © Pepa G./ Etheria Magazine")
 
 ## 1\. Belfast
 
@@ -44,7 +44,7 @@ hundimiento del conocido crucero. Necesitarás más de una hora para verlo porqu
 plantas, en las que se pueden ver documentales, las reconstrucciones de los camarotes, 
 etc. 
 
-![grafitis belfast](etheria_images/2020/08/ruta-grafitis-belfast.jpg "Ruta de los Grafitis en Belfast. © Pepa G./ Etheria Magazine")
+![grafitis belfast](etheria-images/2020/08/ruta-grafitis-belfast.jpg "Ruta de los Grafitis en Belfast. © Pepa G./ Etheria Magazine")
 
 Además de recordar esta historia, también es muy recomendable pasear por la ciudad para 
 ver su monumental Ayuntamiento, el mercado de San Jorge, el Jardín Botánico, seguir la [ruta 
@@ -59,7 +59,7 @@ político](https://www.civitatis.com/es/belfast/tour-belfast-politico/?aid=10211
 también otro gratuito de [Misterios y 
 leyendas](https://www.civitatis.com/es/belfast/free-tour-misterios-leyendas/?aid=10211). 
 
-![Parque Forestal de Tollymore irlanda del norte](etheria_images/2020/08/irlanda-tollymore-forest.jpg "Parque Forestal de Tollymore. © Pepa G/ Etheria Magazine")
+![Parque Forestal de Tollymore irlanda del norte](etheria-images/2020/08/irlanda-tollymore-forest.jpg "Parque Forestal de Tollymore. © Pepa G/ Etheria Magazine")
 
 ## 2\. Parque Forestal de Tollymore
 
@@ -77,7 +77,7 @@ irlandeses de pícnic, pero el resto del tiempo es muy tranquilo.
 \*Sigue leyendo otras [localizaciones de Juego de Tronos en Irlanda del 
 Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/). 
 
-![glenariff, ruta irlanda](etheria_images/2020/08/ruta-glenariff-irlanda.jpg "Parque Forestal de Glenariff. © Pepa G./ Etheria Magazine")
+![glenariff, ruta irlanda](etheria-images/2020/08/ruta-glenariff-irlanda.jpg "Parque Forestal de Glenariff. © Pepa G./ Etheria Magazine")
 
 ## 3\. Ruta y cascada del Parque Glenariff
 
@@ -92,7 +92,7 @@ para ver las ardillas rojas. Por último, un buen lugar para descansar y tomar a
 ligero es una agradable [casa de té](https://glenariff-teahouse.com) que se encuentra 
 junto al aparcamiento. Es perfecta para tomar un té con tarta. 
 
-![puente colgante irlanda, visitas irlanda norte](etheria_images/2020/08/puente-colgante-irlanda.jpg "Puente de Carrick-a-Rede. © Pepa. G./ Etheria Magazine")
+![puente colgante irlanda, visitas irlanda norte](etheria-images/2020/08/puente-colgante-irlanda.jpg "Puente de Carrick-a-Rede. © Pepa. G./ Etheria Magazine")
 
 ## 4\. Puente de Carrick-a-Rede
 
@@ -108,7 +108,7 @@ y sólo quieres verlo, deja el coche en el aparcamiento y pasea por el sendero
 señalizado, es un camino muy agradable y con unas bellísimas vistas de los acantilados, 
 el puente y el mar. 
 
-![calzada gigante, viaje irlanda](etheria_images/2020/08/viaje-irlanda-calzada-gigante.jpg "Calzada del Gigante. © P.García/ Etheria Magazine")
+![calzada gigante, viaje irlanda](etheria-images/2020/08/viaje-irlanda-calzada-gigante.jpg "Calzada del Gigante. © P.García/ Etheria Magazine")
 
 ## 4\. Calzada del Gigante
 
@@ -128,7 +128,7 @@ lleva directamente a la calzada. No vayas sólo a hacer la foto, siéntate un ra
 disfruta de la fuerza del mar, cómo golpean las olas las formaciones de basalto, del 
 olor a salitre... 
 
-![castillo Dunluce, viaje irlanda](etheria_images/2020/08/viaje-irlanda-castillo-dunluce.jpg "Castillo de Dunluce. © P.García/ Etheria Magazine")
+![castillo Dunluce, viaje irlanda](etheria-images/2020/08/viaje-irlanda-castillo-dunluce.jpg "Castillo de Dunluce. © P.García/ Etheria Magazine")
 
 ## 5\. Dunluce Castle
 
@@ -140,7 +140,7 @@ propietarios– pero actualmente está tutelado por el estado. Hay un apartadero
 carretera donde dejar el coche, pero tienes que bajar andando si quieres acercarte a 
 verlo. 
 
-![Portrush, irlanda](etheria_images/2020/08/viaje-irlanda-portrush.jpg "Portrush. © P. García/ Etheria Magazine")
+![Portrush, irlanda](etheria-images/2020/08/viaje-irlanda-portrush.jpg "Portrush. © P. García/ Etheria Magazine")
 
 ## 6\. Portrush
 
@@ -155,7 +155,7 @@ Calzada de los Gigantes, de Dark Hedges y de otros lugares cercanos como **Musse
 Temple**. Además, es un placer pasear por su animado puerto, comer y cenar en alguno de 
 sus pubs con la población local y salir a hacer alguna excursión senderista o en barco. 
 
-![Dark Hedges irlanda del norte](etheria_images/2020/08/ruta-irlanda-dark-hedge.jpg "Dark Hedges. © Pepa G/ Etheria Magazine")
+![Dark Hedges irlanda del norte](etheria-images/2020/08/ruta-irlanda-dark-hedge.jpg "Dark Hedges. © Pepa G/ Etheria Magazine")
 
 ## 7\. Dark Hedges
 
@@ -170,7 +170,7 @@ nadie y sin coches tendrás que tener paciencia. Localiza en tu mapa, antes de a
 carretera Bregagh, entre Armoy y Stranocum, porque no hay mucha señalización. Es una 
 visita breve que te puedes plantear cuando emprendas el regreso a Belfast. 
 
-![Glenarm Castle irlanda](etheria_images/2020/08/jardin-glenarm-castle.jpg "Flores del Jardín de Glenarm Castle. © Pepa G./ Etheria Magazine")
+![Glenarm Castle irlanda](etheria-images/2020/08/jardin-glenarm-castle.jpg "Flores del Jardín de Glenarm Castle. © Pepa G./ Etheria Magazine")
 
 ## 8\. Jardín de Glenarm Castle
 
@@ -185,7 +185,7 @@ variedad de flores, frutales y un bonito invernadero. Y antes de marcharte visit
 tienda porque cuenta con ricos productos orgánicos locales, que serán un buen recuerdo 
 de este viaje. 
 
-![parque glenariff irlanda norte](etheria_images/2020/08/glenariff-forest-park.jpg "Cascada de Ess-na-Larach, en el Parque de Glenariff. © Pepa G./ Etheria Magazine")
+![parque glenariff irlanda norte](etheria-images/2020/08/glenariff-forest-park.jpg "Cascada de Ess-na-Larach, en el Parque de Glenariff. © Pepa G./ Etheria Magazine")
 
 ## Excursiones desde Belfast
 

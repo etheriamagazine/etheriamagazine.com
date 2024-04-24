@@ -1,19 +1,19 @@
 ---
 title: "Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio Verne"
 date: 2019-08-29
-coverImage: etheria_images/2019/08/viaje-nantes-elefante.jpg
+coverImage: etheria-images/2019/08/viaje-nantes-elefante.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Nantes ha sabido reinventarse y lo ha hecho a lo grande, ya que el arte y la creatividad son actualmente sus abanderados. Pasear por esta ciudad con amigas supone un viaje extraordinario lleno de sorpresas.
 
-![plaza real nantes, arte en nantes](etheria_images/2019/08/viaje-nantes-con-amigas.jpg "Plaza Real con instalación artística de Stéphane Vigny. © Martin Argyroglo/ LVAN")
+![plaza real nantes, arte en nantes](etheria-images/2019/08/viaje-nantes-con-amigas.jpg "Plaza Real con instalación artística de Stéphane Vigny. © Martin Argyroglo/ LVAN")
 
 Julio Verne nació hace mucho tiempo en Nantes. Concretamente en 1828. Casi 200 años han 
 transcurrido desde entonces, pero resulta inevitable pensar en la figura del autor de 
@@ -29,7 +29,7 @@ que éstos sean, de una singularidad especial. Porque Nantes ha hecho del arte s
 apuesta y uno de sus grandes motores turísticos. ¿Quieres saber una de las razones? 
 Tiene un presupuesto cultural de nada menos que 60 millones de euros al año. 
 
-![Tadashi Kawamata, arte en nantes](etheria_images/2019/08/viaje-nantes-tadashi-kawamata.jpg "Mirador realizado por Tadashi Kawamata. © Martin Argyroglo/ LVAN")
+![Tadashi Kawamata, arte en nantes](etheria-images/2019/08/viaje-nantes-tadashi-kawamata.jpg "Mirador realizado por Tadashi Kawamata. © Martin Argyroglo/ LVAN")
 
 Resulta difícil decidir por dónde comenzar nuestro itinerario por esta hermosa ciudad de 
 310.000 habitantes bañada por el Loira. Lo más cómodo es buscar una línea verde trazada 
@@ -45,7 +45,7 @@ miradores que cortan el hipo, las orillas del estuario… Es un recorrido pensad
 pasear, para dejarse sorprender, para admirar los monumentos, para embelesarse y gozar. 
 Así que apuntaos. 
 
-![viaje a la luna en nantes](etheria_images/2019/08/viaje-nantes-parque-luna.jpg "Instalación en un parque de juegos de Detroit architectes. © Franck Tomps/ LVAN")
+![viaje a la luna en nantes](etheria-images/2019/08/viaje-nantes-parque-luna.jpg "Instalación en un parque de juegos de Detroit architectes. © Franck Tomps/ LVAN")
 
 ## Una ciudad reinventada
 
@@ -62,7 +62,7 @@ secos, viejos almacenes e instalaciones portuarias, hoy encontraréis todo un la
 urbano con un nuevo concepto de ciudad, reinventado por arquitectos de la talla de Jean 
 Nouvel o Christian de Portzamparc. 
 
-![elefante nantes, viaje de Nantes](etheria_images/2019/08/viaje-nantes-elefante.jpg "Elefante articulado de Nantes. © Franck Tomps/ LVAN")
+![elefante nantes, viaje de Nantes](etheria-images/2019/08/viaje-nantes-elefante.jpg "Elefante articulado de Nantes. © Franck Tomps/ LVAN")
 
 ## Paseo en un elefante de 48 toneladas
 
@@ -76,7 +76,7 @@ recorrido por la ciudad. Así que disfrutad de esta delicia de barrio que tiene 
 perímetro también un campus universitario, con más de 4.000 estudiantes y 100 
 investigadores, y un conglomerado de empresas culturales. 
 
-![Le Jardin Kadupo](etheria_images/2019/08/viaje-nantes-Le-Jardin-Kadupo.jpg "Le Jardin Kadupo. © Ville de Nantes")
+![Le Jardin Kadupo](etheria-images/2019/08/viaje-nantes-Le-Jardin-Kadupo.jpg "Le Jardin Kadupo. © Ville de Nantes")
 
 Advertiréis que otra singularidad de Nantes es su **apuesta por el medio ambiente**. De 
 hecho, se ganó a pulso en 2013 el título de Capital Verde Europea, y es que se nota que 
@@ -113,7 +113,7 @@ momento un tobogán de 50 metros que va de la Torre de los Españoles hasta el f
 fortaleza. Es el “Paisaje deslizante” que han propuesto Tac Architectes & Tangui Robert, 
 en este espacio sagrado e histórico. 
 
-![castillo nantes, que ver en nantes](etheria_images/2019/08/viaje-nates-castillo-duques-bretana.jpg "Castillo de los duques de Bretaña. © Philippe Piron")
+![castillo nantes, que ver en nantes](etheria-images/2019/08/viaje-nates-castillo-duques-bretana.jpg "Castillo de los duques de Bretaña. © Philippe Piron")
 
 ### 2\. La catedral de San Pedro y San Pablo.
 
@@ -130,7 +130,7 @@ Jacques Tardi, pasando por los surrealistas. Es un espacio comercial con una mon
 escalinata recargada de esculturas e iluminada por una cristalera cenital que no debéis 
 perderos en vuestra escapada a Nantes con amigas. 
 
-![pasaje Pommeraye, que ver en nantes](etheria_images/2019/08/viaje-nantes-passage-pommeraye.jpg "Pasaje Pommeraye, Nantes. © Philippe Piron/ LVAN")
+![pasaje Pommeraye, que ver en nantes](etheria-images/2019/08/viaje-nantes-passage-pommeraye.jpg "Pasaje Pommeraye, Nantes. © Philippe Piron/ LVAN")
 
 ### 4\. “Le Nid”, mirando a la ciudad desde lo alto.
 
@@ -140,7 +140,7 @@ una monumental escultura a caballo entre una cigüeña y una garza. La decoraci�
 del artista Jean Jullien, que la completó con enormes cáscaras de huevo que hacen la 
 función de sillas y mesas. 
 
-![le nid, que ver en nantes](etheria_images/2019/08/viaje-nantes-le-nid.jpg "Bar Le Nid. © Marc Domage/ LVAN")
+![le nid, que ver en nantes](etheria-images/2019/08/viaje-nantes-le-nid.jpg "Bar Le Nid. © Marc Domage/ LVAN")
 
 ### 5\. Memorial de la Abolición de la Esclavitud.
 
@@ -156,7 +156,7 @@ Es el mercado más antiguo de la ciudad. Fue inaugurado en 1937 y es toda una
 institución. Aquí podréis encontrar productos de proximidad, vino Muscadet, pescado y 
 crustáceos de Loira-Atlántico… y mucho más. Una delicia. 
 
-![vino nantes, que ver nantes](etheria_images/2019/08/viaje-nantes-vinos.jpg "Vino de Nantes. © Ciudad de Nantes.")
+![vino nantes, que ver nantes](etheria-images/2019/08/viaje-nantes-vinos.jpg "Vino de Nantes. © Ciudad de Nantes.")
 
 ### 7\. Itinerario Estuaire.
 
@@ -166,7 +166,7 @@ esqueleto metálico de una serpiente de 120 metros de largo, una mini casa en el
 de salida de una chimenea industrial… y muchas más sorpresas. Todo un derroche de 
 talento. La ruta la podéis hacer en coche o en barco. 
 
-![huang yong ping, serpiente oceano, viaje nantes](etheria_images/2019/08/viaje-nantes-serpiente-oceano.jpg "Una serpiente en el océano. © Franck Tomps/ LVAN")
+![huang yong ping, serpiente oceano, viaje nantes](etheria-images/2019/08/viaje-nantes-serpiente-oceano.jpg "Una serpiente en el océano. © Franck Tomps/ LVAN")
 
 ### 8\. Museo d’Arts.
 
@@ -174,7 +174,7 @@ Su colección de 12.000 obras alberga joyas que van del siglo XII hasta la actua
 Así que podréis contemplar obras que van de George de La Tour a Pablo Picasso, pasando 
 por Sonia Delaunay, Max Ernst, Maurizio Cattelan y Anish Kapoor. 
 
-![museo arte nantes](etheria_images/2019/08/viaje-nantes-museo-arte.jpg "© Museo de Arte de Nantes.")
+![museo arte nantes](etheria-images/2019/08/viaje-nantes-museo-arte.jpg "© Museo de Arte de Nantes.")
 
 ### 9\. Los Anillos de Daniel Buren.
 
@@ -183,7 +183,7 @@ Loira desde una de sus orillas y que ofrecen recortes paisajísticos muy particu
 Esta percepción se modifica al caer la noche, porque los anillos se tiñen de aureolas de 
 color rojo, verde y azul, los tres colores básicos de los que surgen todos los demás. 
 
-![los anillos de buren, que ver en nantes](etheria_images/2019/08/viaje-nantes-anillos-buren.jpg "Uno de los anillos de Daniel Buren. © Martin Argyroglo/ LVAN, ADAGP 2019")
+![los anillos de buren, que ver en nantes](etheria-images/2019/08/viaje-nantes-anillos-buren.jpg "Uno de los anillos de Daniel Buren. © Martin Argyroglo/ LVAN, ADAGP 2019")
 
 ### 10\. Museo de Julio Verne.
 
@@ -194,7 +194,7 @@ documentos originales, ilustraciones, fotografías, juegos, objetos, películas 
 manuscritos. Y os adentraréis en el universo de un hombre que hizo posible que soñáramos 
 con un mundo mejor. 
 
-![restaurante la cigale, viaje nantes](etheria_images/2019/08/viaje-nantes-restaurante-la-cigale.jpg "Restaurante La Cigale. © Le goût et les couleurs/ LVAN")
+![restaurante la cigale, viaje nantes](etheria-images/2019/08/viaje-nantes-restaurante-la-cigale.jpg "Restaurante La Cigale. © Le goût et les couleurs/ LVAN")
 
 ### CONSEJOS ETHERIA
 
@@ -207,7 +207,7 @@ Francia. Data de 1895 y fue el cuartel general de los surrealistas. Su recargada
 decoración de cerámica, espejos y esculturas le ha valido la declaración de monumento 
 protegido. 
 
-![crucero nantes, que hacer en nantes](etheria_images/2019/08/viaje-nantes-crucero.jpg "Crucero entre Nantes y Saint Nazaire. © Franck Tomps/ LVAN")
+![crucero nantes, que hacer en nantes](etheria-images/2019/08/viaje-nantes-crucero.jpg "Crucero entre Nantes y Saint Nazaire. © Franck Tomps/ LVAN")
 
 ##### Hacer un crucero.
 

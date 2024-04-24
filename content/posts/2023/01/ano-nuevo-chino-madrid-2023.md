@@ -1,11 +1,11 @@
 ---
 title: "Año Nuevo chino en Madrid 2023"
 date: 2023-01-16
-coverImage: etheria_images/2023/01/ano-nuevo-cine-baile-Hanfu.jpg
+coverImage: etheria-images/2023/01/ano-nuevo-cine-baile-Hanfu.jpg
 categories: 
   - planes-originales-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Con casi cuarenta actividades, el Año Nuevo chino vuelve a celebrarse en Madrid con un 
@@ -14,7 +14,7 @@ la luz habituales de Usera, se suman este 2023 más exposiciones, talleres, mesa
 redondas, un juego de escape y un mercado de primavera. ¿Estás preparada para festejar 
 la llegada del Año del Conejo? 
 
-![Festival de la Luz, uno de los eventos para la celebración del Año Nuevo Chino en Madrid.](etheria_images/2023/01/usera-festival-luz-850x479.jpg "Festival de la Luz, uno de los eventos más animados del Año Nuevo Chino en Madrid.")
+![Festival de la Luz, uno de los eventos para la celebración del Año Nuevo Chino en Madrid.](etheria-images/2023/01/usera-festival-luz-850x479.jpg "Festival de la Luz, uno de los eventos más animados del Año Nuevo Chino en Madrid.")
 
 El barrio de Usera vuelve a centralizar los festejos del Año Nuevo en Madrid. Aunque la 
 llegada del Año del Conejo tiene lugar el 22 de enero, antes y después de esa fecha se 
@@ -29,7 +29,7 @@ aplicar a las personas que han nacido en el Año del Conejo (1939, 1951, 1963, 1
 1987, 1999, 2011 y 2023): “personas prudentes, inteligentes, afables, discretas, 
 previsoras, atentas, benevolentes, ingeniosas y de mente rápida”. 
 
-![Cartel del Año del Conejo (2023).](etheria_images/2023/01/Cartel-Ano-nuevo-chino-2023.jpg "Cartel del Año del Conejo (2023).")
+![Cartel del Año del Conejo (2023).](etheria-images/2023/01/Cartel-Ano-nuevo-chino-2023.jpg "Cartel del Año del Conejo (2023).")
 
 ## Actividades del Año Nuevo Chino en Madrid
 
@@ -45,7 +45,7 @@ esta tradición china se despierta y se atrae la suerte en el nuevo año. El eve
 complementa con algunas muestras en el escenario de cultura popular china, ceremonia del 
 té, etc. 
 
-![Inauguración del Año Nuevo Chino en Usera.](etheria_images/2023/01/ano-nuevo-conejo-usera.jpg "Inauguración del Año Nuevo Chino en Usera.")
+![Inauguración del Año Nuevo Chino en Usera.](etheria-images/2023/01/ano-nuevo-conejo-usera.jpg "Inauguración del Año Nuevo Chino en Usera.")
 
 ### Danza y música
 
@@ -58,7 +58,7 @@ Los jóvenes disfrutarán especialmente con la actuación de **Vilapain**, uno d
 primeros grupos de rap, trap y R&B en chino afincados en España, y **Mejores Amigas,** 
 un dúo de pop nacido en Madrid que se encuentra preparando su primer álbum. 
 
-![Representación de la leyenda china de Chang’E, a cargo de la bailarina Ruan Xiaoxiao](etheria_images/2023/01/ano-nuevo-chino-Danza-Chang-e.jpg "Representación de la leyenda china de Chang’E, a cargo de la bailarina Ruan Xiaoxiao")
+![Representación de la leyenda china de Chang’E, a cargo de la bailarina Ruan Xiaoxiao](etheria-images/2023/01/ano-nuevo-chino-Danza-Chang-e.jpg "Representación de la leyenda china de Chang’E, a cargo de la bailarina Ruan Xiaoxiao")
 
 ### Juego de escape por Usera
 
@@ -84,7 +84,7 @@ realizaban las labores de preparación del festival. Esta artista, que ha expues
 museos y galerías, siempre sorprende con su sensibilidad para captar el alma de sus 
 fotografiados. 
 
-![Muestra colectiva de arte en torno al Año del Conejo.](etheria_images/2023/01/exposicion-usera-Ano-del-Conejo.jpg "Muestra colectiva de arte en torno al Año del Conejo.")
+![Muestra colectiva de arte en torno al Año del Conejo.](etheria-images/2023/01/exposicion-usera-Ano-del-Conejo.jpg "Muestra colectiva de arte en torno al Año del Conejo.")
 
 ### Cine chino
 
@@ -110,7 +110,7 @@ Y si estás inspirado, del 20 al 22 de enero, la calle Dolores Barranco acogerá
 ‘**Muro de los deseos**’. Es decir, una instalación con hilos y cuerdas rojas 
 entrelazadas donde podrás dejar escritos tus deseos para el Año Nuevo. 
 
-![Muro de los Deseos para celebrar el Año Nuevo Chino en Usera.](etheria_images/2023/01/ano-nuevo-chino-muro-deseos.jpg "Muro de los Deseos para celebrar el Año Nuevo Chino en Usera.")
+![Muro de los Deseos para celebrar el Año Nuevo Chino en Usera.](etheria-images/2023/01/ano-nuevo-chino-muro-deseos.jpg "Muro de los Deseos para celebrar el Año Nuevo Chino en Usera.")
 
 ## Mercado de la primavera
 
@@ -129,7 +129,7 @@ al lago del parque de Pradolongo y se repartirán farolillos luminosos a los asi
 A las 8 de la tarde, el público podrá ver los fuegos artificiales diseñados 
 especialmente para el Año Nuevo chino. 
 
-![Fuegos artificiales del Festival de la Luz.](etheria_images/2023/01/ano-nuevo-chino-baile.jpg "Fuegos artificiales del Festival de la Luz.")
+![Fuegos artificiales del Festival de la Luz.](etheria-images/2023/01/ano-nuevo-chino-baile.jpg "Fuegos artificiales del Festival de la Luz.")
 
 ## Qué más hacer el sábado 21 de enero en Usera
 
@@ -152,7 +152,7 @@ de Bambú’.
 ?En este mismo lugar, además, habrá exhibiciones de **_kung-fu_** en las que incluso 
 podrás participar. 
 
-![Vestimenta tradicional Hanfu.](etheria_images/2023/01/ano-nuevo-cine-baile-Hanfu.jpg "Vestimenta tradicional Hanfu.")
+![Vestimenta tradicional Hanfu.](etheria-images/2023/01/ano-nuevo-cine-baile-Hanfu.jpg "Vestimenta tradicional Hanfu.")
 
 ### Con niños: biblioteca y parque
 
@@ -168,7 +168,7 @@ También habrá una **demostración de taichi** y un grupo de mujeres del distri
 deleitará a los asistentes con danzas folclóricas y sus grandes y coloridos abanicos de 
 plumas. 
 
-![Ilustración de totems, una actividad para hacer con niños.](etheria_images/2023/01/totems-ilustradores-ano-nuevo-chino.jpg "Ilustración de totems, una actividad para hacer con niños.")
+![Ilustración de totems, una actividad para hacer con niños.](etheria-images/2023/01/totems-ilustradores-ano-nuevo-chino.jpg "Ilustración de totems, una actividad para hacer con niños.")
 
 ## Qué hacer el domingo 22 de enero: Pasacalles del Año Nuevo chino
 
@@ -178,7 +178,7 @@ artistas, comienza a las 12 de la mañana. Pequeños y mayores disfrutarán de e
 fantasía de desfile donde no faltan bonitas indumentarias traídas de China, dragones y 
 leones gigantes, farolillos y música en directo. 
 
-![desfile de celebracion ano nuevo chino en usera madrid](etheria_images/2022/02/desfile-ano-nuevo-chino-usera.jpg "Desfile de Año Nuevo Chino en Usera. © Pepa García")
+![desfile de celebracion ano nuevo chino en usera madrid](etheria-images/2022/02/desfile-ano-nuevo-chino-usera.jpg "Desfile de Año Nuevo Chino en Usera. © Pepa García")
 
 ## Dónde comer comida china en Usera
 

@@ -1,13 +1,13 @@
 ---
 title: "Portugal en Navidad: mercadillos y tradiciones que enamoran"
 date: 2023-12-06
-coverImage: etheria_images/2023/12/madeira-luces-navidad.jpg
+coverImage: etheria-images/2023/12/madeira-luces-navidad.jpg
 categories: 
   - viajes-con-amigas
   - festivales
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El periodo de Adviento, con sus mercadillos, luces e ilusión por la inminente llegada de 
@@ -17,7 +17,7 @@ magia y que bastan unas pocas horas (o minutos) para sentir la felicidad de reco
 ciudades. Os damos unas pinceladas de lo que el país vecino nos ofrece, buenas razones 
 para que este año brindéis con un ¡Saúde! 
 
-![Funchal en Navidad luce aún más luminosa que de costumbre.](etheria_images/2023/12/madeira-luces-navidad.jpg "Funchal en Navidad luce aún más luminosa que de costumbre. © Henrique Seruca")
+![Funchal en Navidad luce aún más luminosa que de costumbre.](etheria-images/2023/12/madeira-luces-navidad.jpg "Funchal en Navidad luce aún más luminosa que de costumbre. © Henrique Seruca")
 
 Cuando las luces navideñas comienzan a adornar las calles y plazas de nuestras ciudades, 
 los villancicos se convierten en el hilo musical de los centros comerciales y _Love 
@@ -39,7 +39,7 @@ tiene una forma particular de celebrar el periodo de Adviento, aunque los mercad
 las actividades culturales sean comunes a todas ellas, así que vamos a compartir sus 
 propuestas para que decidáis vuestro próximo destino. 
 
-![Decoración navideña de Lisboa.](etheria_images/2023/12/portugal-lisboa-bola-navidad.jpg "Decoración navideña de Lisboa. © Armindo Ribeiro/CML")
+![Decoración navideña de Lisboa.](etheria-images/2023/12/portugal-lisboa-bola-navidad.jpg "Decoración navideña de Lisboa. © Armindo Ribeiro/CML")
 
 ## Dónde celebrar la Navidad en Portugal
 
@@ -70,7 +70,7 @@ do Natal](https://reinodonatal.sintra.pt/) de Sintra, la [Vila
 Natal](https://www.cascaischristmasvillage.pt/) de Cascais y en Oieiras su [Palacio 
 Encantado](https://www.oeiras.pt/-/natal-no-palacio-encantado-2023). 
 
-![Mercadillo navideño de Oporto.](etheria_images/2023/12/mercado-natal-oporto.jpg "Mercado Natal Serralves. © Fundação de Serralves")
+![Mercadillo navideño de Oporto.](etheria-images/2023/12/mercado-natal-oporto.jpg "Mercado Natal Serralves. © Fundação de Serralves")
 
 ### Oporto y Norte de Portugal
 
@@ -101,7 +101,7 @@ de luz y sonido, conciertos navideños y dos lugares especiales: FAMA –Feria d
 Matosinhos– en el Jardim Basílio Teles, y la encantadora Aldea de Navidad en la plaza 
 Guilherme Pinto. 
 
-![Árbol navideño de WOW, en Gaia.](etheria_images/2023/12/portugal-oporto-wow.jpg "Árbol navideño de WOW, en Gaia. © Associação de Turismo do Porto e Norte, AR")
+![Árbol navideño de WOW, en Gaia.](etheria-images/2023/12/portugal-oporto-wow.jpg "Árbol navideño de WOW, en Gaia. © Associação de Turismo do Porto e Norte, AR")
 
 Un poquito más lejos, a 35 kilómetros, os animamos a visitar **Santa Maria da Feira**, 
 una pequeña ciudad medieval en la que la fantasía de la Navidad alcanza a sus calles y 
@@ -126,7 +126,7 @@ ofrece una completa programación donde no falta la música tradicional. Además
 aprovechar para conocer su Geoparque y las Pasarelas da Paiva, un puente colgante que os 
 dejará boquiabiertas. 
 
-![Papa Noel en la Vila Natal de Óbidos.](etheria_images/2023/12/Portugal-centro-obidos-Vila-Natal-850x565.jpg "Papá Noel en la Vila Natal de Óbidos. © Región Centro de Portugal")
+![Papa Noel en la Vila Natal de Óbidos.](etheria-images/2023/12/Portugal-centro-obidos-Vila-Natal-850x565.jpg "Papá Noel en la Vila Natal de Óbidos. © Región Centro de Portugal")
 
 ### Óbidos y la región Centro de Portugal
 
@@ -140,7 +140,7 @@ murallas y bares con encanto. Además, hasta finales de mes se puede visitar su 
 Natal](https://obidosvilanatal.pt/) con la granja de Papá Noel, el bar de hielo, el 
 mercado y decenas de actividades para hacer con niños. 
 
-![Vila Natal de Óbidos.](etheria_images/2023/12/Portugal-centro-obidos-Vila-Natal-1-850x565.jpg "Vila Natal de Óbidos. © Región Centro de Portugal")
+![Vila Natal de Óbidos.](etheria-images/2023/12/Portugal-centro-obidos-Vila-Natal-1-850x565.jpg "Vila Natal de Óbidos. © Región Centro de Portugal")
 
 También hay otras ciudades perfectas para ampliar la escapada por la Región Centro como 
 **Águeda**, reconocida por contar con el Papá Noel más grande del mundo y también con el 
@@ -161,7 +161,7 @@ seduce, sobre todo, por su oferta de ricos productos de cercanía como requesón
 quesos, chocolate, frutos secos... Es la forma más dulce de despedirse de la Región 
 Centro. 
 
-![Esta calle de Águeda fue considerada la calle navideña más bonita del mundo.](etheria_images/2023/12/Portugal-centro-agueda-paraguas.jpg "Esta calle de Águeda fue considerada la calle navideña más bonita del mundo. © Región Centro de Portugal")
+![Esta calle de Águeda fue considerada la calle navideña más bonita del mundo.](etheria-images/2023/12/Portugal-centro-agueda-paraguas.jpg "Esta calle de Águeda fue considerada la calle navideña más bonita del mundo. © Región Centro de Portugal")
 
 ### Tradiciones del Alentejo
 
@@ -175,7 +175,7 @@ hogueras después de la misa del gallo, un ritual que simboliza la purificación
 calor que necesita el recién nacido. Grandes hogueras iluminan las plazas centrales de 
 pueblos como **Castelo de Vide**. No os las perdáis. 
 
-![Mercadillo de Albufeira, en el Algarve.](etheria_images/2023/12/portugal-algarve-Albufeira.jpg "Mercadillo de Albufeira, en el Algarve. © CM Albufeira")
+![Mercadillo de Albufeira, en el Algarve.](etheria-images/2023/12/portugal-algarve-Albufeira.jpg "Mercadillo de Albufeira, en el Algarve. © CM Albufeira")
 
 ### Mercadillos y belenes del Algarve
 
@@ -196,7 +196,7 @@ Antonio** está considerado el más grande de Portugal, con 5.700 piezas que dec
 metros cuadrados, y allí se recrean no solo escenas navideñas sino también monumentos y 
 espacios locales. 
 
-![Belén gigante de Vila Real de Santo Antonio.](etheria_images/2023/12/algarve-belen-gigante.jpg "Belén gigante de Vila Real de Santo Antonio. © CM VRSA")
+![Belén gigante de Vila Real de Santo Antonio.](etheria-images/2023/12/algarve-belen-gigante.jpg "Belén gigante de Vila Real de Santo Antonio. © CM VRSA")
 
 En **Portimão** os espera 'Un sueño de Navidad', que aglutina todo aquello que hace 
 soñar en estas fechas (casa de Papá Noel, pista de hielo, puestos...). Los recuerdos 
@@ -208,7 +208,7 @@ Park,** que organizan mercados a principios de diciembre donde los visitantes pu
 adquirir regalos originales y disfrutar de comida y vinos gourmet en un animado ambiente 
 festivo. 
 
-![Fruta tropical en el mercado navideño de Madeira.](etheria_images/2023/12/Madeira-navidad-mercadillo.jpg "Fruta tropical en el mercado navideño. © Francisco Correia")
+![Fruta tropical en el mercado navideño de Madeira.](etheria-images/2023/12/Madeira-navidad-mercadillo.jpg "Fruta tropical en el mercado navideño. © Francisco Correia")
 
 ### Navidad en las islas: Madeira y Azores
 
@@ -229,7 +229,7 @@ con salsa de vino y ajo, una receta sencilla pero deliciosa. Despedir el año en
 con su gran espectáculo de fuegos artificiales, es el mejor modo de entrar con buen pie 
 en 2024. 
 
-![Fuegos artificiales en Madeira para despedir el año.](etheria_images/2023/12/madeira-fuegos-artificiales-nochevieja.jpg "Fuegos artificiales en Madeira para despedir el año. © Henrique Seruca")
+![Fuegos artificiales en Madeira para despedir el año.](etheria-images/2023/12/madeira-fuegos-artificiales-nochevieja.jpg "Fuegos artificiales en Madeira para despedir el año. © Henrique Seruca")
 
 Tampoco podemos dejar de mencionar el archipiélago de las **Azores**, cuya imagen 
 indómita y natural puede ser la alternativa para vivir unas Navidades con un toque 

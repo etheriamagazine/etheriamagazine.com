@@ -1,7 +1,7 @@
 ---
 title: "Cómo pedir atún en Cádiz como si fueses una experta"
 date: 2023-10-24
-coverImage: etheria_images/2023/10/sashimi-atun-palillos.jpg
+coverImage: etheria-images/2023/10/sashimi-atun-palillos.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -9,8 +9,8 @@ categories:
   - mejores-restaurantes-gastronomia
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La costa gaditana rebosa atractivos. Uno de los que más se ha puesto en valor en los 
@@ -20,7 +20,7 @@ intimidar si no eres un habitual de la provincia, así que en este artículo te 
 cómo pedir atún en Cádiz y todo lo que tienes que saber sobre este suculento túnido para 
 que elijas con propiedad el plato que mejor se adapte a tus gustos. 
 
-![Tartar de atún picante con mango del restaurante Nacarum de El Palmar.](etheria_images/2023/10/Nacarum-atun-picante-con-mango.jpg "Tartar de atún picante con mango del restaurante @ Nacarum de El Palmar.")
+![Tartar de atún picante con mango del restaurante Nacarum de El Palmar.](etheria-images/2023/10/Nacarum-atun-picante-con-mango.jpg "Tartar de atún picante con mango del restaurante @ Nacarum de El Palmar.")
 
 Cádiz tiene muchos tesoros. Los más conocidos toman forma de playas con atardeceres de 
 película o pueblos blancos que se asoman al mar y que brillan relucientes bajo el sol. 
@@ -44,7 +44,7 @@ falta que hacen) ofrecen delicados platos creados a partir de este producto en l
 hasta hace unos años eran locales sencillos al borde de la playa. Pero comenzamos por el 
 principio, explicándote qué es el atún rojo y cómo se pesca. 
 
-![Banco de atunes atlánticos.](etheria_images/2023/10/atunes-banco-atlantico.jpg "Banco de atunes atlánticos. © Petaca Chico.")
+![Banco de atunes atlánticos.](etheria-images/2023/10/atunes-banco-atlantico.jpg "Banco de atunes atlánticos. © Petaca Chico.")
 
 ## Qué es el atún rojo
 
@@ -55,7 +55,7 @@ viajan hacia el estrecho de Gibraltar para pasar al mar Mediterráneo y desovar 
 mayo y junio. Es una especie longeva, que puede vivir unos veinte años, y de gran 
 tamaño, ya que puede medir hasta tres metros y pesar unos 250 kilos en su edad adulta. 
 
-![sashimi de atún](etheria_images/2023/10/sashimi-atun-cadiz-667x1000.jpg "El sashimi de atún saca todo el sabor de cortes como la ventresca.")
+![sashimi de atún](etheria-images/2023/10/sashimi-atun-cadiz-667x1000.jpg "El sashimi de atún saca todo el sabor de cortes como la ventresca.")
 
 ## Cómo se pesca el atún rojo
 
@@ -68,7 +68,7 @@ buena noticia. De esta cantidad, el sesenta por ciento aproximadamente se queda 
 mercado nacional y europeo, y el resto va a Japón, que era ya fan de este producto antes 
 de que se produjera en España el _boom_ del atún rojo. 
 
-![Barcas en la ría de Barbate.](etheria_images/2023/10/atun-barbate-barcos.jpg "Barcas en la ría de Barbate.")
+![Barcas en la ría de Barbate.](etheria-images/2023/10/atun-barbate-barcos.jpg "Barcas en la ría de Barbate.")
 
 En Cádiz el atún se pesca en las **almadrabas**, un antiguo sistema que se ha utilizado 
 desde hace tres mil años, transmitido de generación a generación. Consiste en la 
@@ -80,7 +80,7 @@ cuenta las restricciones marcadas por las instituciones científicas para manten
 población saludable de atún rojo. Además, debido al tamaño de las mallas y a la época en 
 la que tiene lugar, no se recogen ejemplares de menos de setenta kilos. 
 
-![Pesca en almadraba](etheria_images/2023/10/atun-pesca-almadraba.jpg "Pesca en almadraba. © Petaca Chico.")
+![Pesca en almadraba](etheria-images/2023/10/atun-pesca-almadraba.jpg "Pesca en almadraba. © Petaca Chico.")
 
 ## Partes del atún rojo
 
@@ -96,7 +96,7 @@ Durante la temporada se realizan en varios restaurantes de la costa como Casa Ju
 El Palmar, y suelen ir acompañados de una degustación de las diferentes partes. Son 
 perfectos para ir haciéndote toda una experta en este suculento producto. 
 
-![Morrillo, galete y facera, tres partes de la cabeza del atún.](etheria_images/2023/10/atun-partes-cabeza-cadiz.jpg "Morrillo, galete y facera, tres partes de la cabeza del atún. © Petaca Chico")
+![Morrillo, galete y facera, tres partes de la cabeza del atún.](etheria-images/2023/10/atun-partes-cabeza-cadiz.jpg "Morrillo, galete y facera, tres partes de la cabeza del atún. © Petaca Chico")
 
 En general, el atún se puede dividir en tres partes: la cabeza, el lomo negro (el 
 superior) y el lomo blanco (el inferior). En **la cabeza** se encuentran las partes 
@@ -112,7 +112,7 @@ inferior** se obtienen piezas muy utilizadas como el tarantelo (semigraso), la v
 (graso, el corte que más gusta a los japoneses), el descargado y la cola blanca (carne 
 magra). 
 
-![Tarantelo, ventresca, descargado y cola blanca, partes del lomo blanco del atún.](etheria_images/2023/10/atun-partes-lomo-blanco.jpg "Tarantelo, ventresca, descargado y cola blanca, partes del lomo blanco del atún. © Petaca Chico.")
+![Tarantelo, ventresca, descargado y cola blanca, partes del lomo blanco del atún.](etheria-images/2023/10/atun-partes-lomo-blanco.jpg "Tarantelo, ventresca, descargado y cola blanca, partes del lomo blanco del atún. © Petaca Chico.")
 
 ## Recetas con atún rojo de almadraba
 
@@ -131,7 +131,7 @@ en función de si te gusta más o menos graso, siendo lo más graso la ventresca
 graso el descargado. El tataki de descargamento es toda una delicia, con un equilibrio 
 perfecto entre carne magra y grasa. 
 
-![Filete de lomo de atún a la plancha.](etheria_images/2023/10/atun-cadiz-lomo-plancha.jpg "Filete de lomo de atún a la plancha. © Turismo de Andalucía.")
+![Filete de lomo de atún a la plancha.](etheria-images/2023/10/atun-cadiz-lomo-plancha.jpg "Filete de lomo de atún a la plancha. © Turismo de Andalucía.")
 
 Si no puedes soportar el pescado poco hecho o crudo, entonces lo mejor es tomar un 
 **filete de lomo o ventresca a la plancha**. Así, el punto de cocción se hace al gusto, 
@@ -171,7 +171,7 @@ atún_, tomate semi-seco, pesto de pistacho y parmesano gratinado; en **Casa Jua
 delicioso el _Tataki de atún rojo sobre ajoblanco de mango_; y en **Nacarum** su 
 _Ronqueo de atún crudo_ permite probar cuatro especialidades en un solo plato. 
 
-![Volcano Roll de tartar de atún en el restaurante El Alferez.](etheria_images/2023/10/atun-Restaurante-El-Alferez-volcano-roll-667x1000.jpg "Volcano Roll de tartar de atún en el restaurante © El Alférez.")
+![Volcano Roll de tartar de atún en el restaurante El Alferez.](etheria-images/2023/10/atun-Restaurante-El-Alferez-volcano-roll-667x1000.jpg "Volcano Roll de tartar de atún en el restaurante © El Alférez.")
 
 ### Barbate
 
@@ -196,7 +196,7 @@ perderte una visita a **Antonio**. Este restaurante de los de toda la vida, ofre
 _Tosta de tartar de atún con virutas de foie_ y un clásico _Atún en escabeche_ que te 
 reconcilian con la vida. 
 
-![Tataki de atún.](etheria_images/2023/10/atun-tataki.jpg "Tataki de atún.")
+![Tataki de atún.](etheria-images/2023/10/atun-tataki.jpg "Tataki de atún.")
 
 ### Tarifa
 

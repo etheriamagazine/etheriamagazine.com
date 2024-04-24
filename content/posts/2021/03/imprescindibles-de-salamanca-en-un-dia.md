@@ -1,21 +1,21 @@
 ---
 title: "Salamanca en un día, pistas básicas para una visita cultural"
 date: 2021-03-14
-coverImage: etheria_images/2018/05/2-Viajar-sola-a-Salamanca.jpg
+coverImage: etheria-images/2018/05/2-Viajar-sola-a-Salamanca.jpg
 categories: 
   - viajes-con-amigas
   - planes-cultura-ocio
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Fuera estrés, te contamos los imprescindibles de Salamanca que tienes que visitar si vas 
 un solo día o te quedas un fin de semana corto. Entre estas recomendaciones encontrarás 
 visitas monumentales, experiencias y buen tapeo. ¡Qué más se puede pedir! 
 
-![Plaza Mayor de Salamanca](etheria_images/2018/05/2-Viajar-sola-a-Salamanca-1024x627.jpg "La Plaza Mayor es el mejor lugar para tomar el pulso a Salamanca. © Etheria Magazine")
+![Plaza Mayor de Salamanca](etheria-images/2018/05/2-Viajar-sola-a-Salamanca-1024x627.jpg "La Plaza Mayor es el mejor lugar para tomar el pulso a Salamanca. © Etheria Magazine")
 
 Las escapadas cortas te dan vida pero también pueden generar estrés si quieres abarcarlo 
 todo, por ello hemos seleccionado los 7 imprescindibles de Salamanca para ver en un día. 
@@ -41,7 +41,7 @@ exquisiteces. Si os sabe a poco, os recomendamos cenar en la planta de arriba do
 además de disfrutar de una carta más completa, también se goza de una espléndida vista 
 de la plaza (reservad una mesa junto a la ventana). 
 
-![Escuelas Menores Salamanca](etheria_images/2018/05/6-Viajar-sola-a-Salamanca-1024x642.jpg "Patio de las Escuelas Menores de Salamanca. © Etheria Magazine")
+![Escuelas Menores Salamanca](etheria-images/2018/05/6-Viajar-sola-a-Salamanca-1024x642.jpg "Patio de las Escuelas Menores de Salamanca. © Etheria Magazine")
 
 ## 2\. Universidad de Salamanca
 
@@ -67,7 +67,7 @@ años del ascenso logrado por los estudios salmantinos a rango universitario. Es
 carros, balanzas o el Sol sobre una cuádriga tirada por caballos seducen a cuantos en 
 silencio se dejan embelesar con el espectáculo. 
 
-![Catedral de Salamanca](etheria_images/2018/05/3-Viaja-sola-a-Salamanca-1024x683.jpg "La Catedral se aprecia de una forma diferente desde el tejado. © Etheria Mag.")
+![Catedral de Salamanca](etheria-images/2018/05/3-Viaja-sola-a-Salamanca-1024x683.jpg "La Catedral se aprecia de una forma diferente desde el tejado. © Etheria Mag.")
 
 ## 3\. Catedral de Salamanca
 
@@ -88,7 +88,7 @@ pasarela metálica permite pasear por las cubiertas hasta llegar al interior de 
 Catedral Nueva. Si no se padece de vértigo es interesante recorrer la balaustrada 
 superior y observar el amplio espacio y las esbeltas columnas. 
 
-![Casa de las Conchas](etheria_images/2018/05/4-Viajar-sola-Salamanca-Casa-de-las-Conchas-1024x672.jpg "La Casa de las Conchas, muestra de arquitectura gótica civil de Salamanca. © Etheria M.")
+![Casa de las Conchas](etheria-images/2018/05/4-Viajar-sola-Salamanca-Casa-de-las-Conchas-1024x672.jpg "La Casa de las Conchas, muestra de arquitectura gótica civil de Salamanca. © Etheria M.")
 
 ## 4\. Casa de las Conchas
 
@@ -108,7 +108,7 @@ se puede caminar entre las dos torres, por lo que las vistas de 360 grados de Sa
 están aseguradas. Es una de las visitas más sorprendentes de la ciudad que tenía que 
 estar entre nuestros imprescindibles de Salamanca. 
 
-![Casa Lis Museo modernista](etheria_images/2018/05/8-Viajar-sola-a-Salamanca-Casa-Lis-1024x688.jpg "El Museo de Art Nouveau Art Déco se encuentra en la Casa Lis. © Etheria M.")
+![Casa Lis Museo modernista](etheria-images/2018/05/8-Viajar-sola-a-Salamanca-Casa-Lis-1024x688.jpg "El Museo de Art Nouveau Art Déco se encuentra en la Casa Lis. © Etheria M.")
 
 ## 6\. Casa Lis, imprescindible en Salamanca
 
@@ -120,7 +120,7 @@ vivienda el cromatismo de las vidrieras regala escenas mágicas. Las antiguas es
 familiares acogen hoy día bonitas piezas de porcelana, bronce, vidrio, joyas y muñecas 
 (dicen que es la mayor colección del mundo expuesta al público). 
 
-![Museo Casa Lis de salamanca](etheria_images/2018/05/7-Viajar-sola-a-Salamanca-1024x800.jpg "Las esculturas criselefantinas sorprenden por su delicadeza (Casa Lis, Salamanca). © Etheria M.")
+![Museo Casa Lis de salamanca](etheria-images/2018/05/7-Viajar-sola-a-Salamanca-1024x800.jpg "Las esculturas criselefantinas sorprenden por su delicadeza (Casa Lis, Salamanca). © Etheria M.")
 
 Especialmente bonitas son las figuras denominadas Criselefantinas, creadas con marfil y 
 bronce, y las Bellezas de baño, realizadas en biscuit pálido que representan a damas en 

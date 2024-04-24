@@ -1,11 +1,11 @@
 ---
 title: "Madrigal de las Altas Torres, una excursión a la cuna de Isabel la Católica"
 date: 2022-02-14
-coverImage: etheria_images/2022/02/Panoramica-Madrigal.jpg
+coverImage: etheria-images/2022/02/Panoramica-Madrigal.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
-author: 
+authors: 
   - Carmen Pineda
 ---
 
@@ -16,7 +16,7 @@ impresión, que ya las querrían para sí otros destinos más famosos, es un lug
 para un fin de semana o como parada obligatoria en la 'Ruta de Isabel la Católica' en 
 Castilla y León. 
 
-![panoramica de madrigal de las altas torres](etheria_images/2022/02/Panoramica-Madrigal.jpg "Panorámica de Madrigal. © Tatavasco Imágenes.")
+![panoramica de madrigal de las altas torres](etheria-images/2022/02/Panoramica-Madrigal.jpg "Panorámica de Madrigal. © Tatavasco Imágenes.")
 
 Los principales atractivos de la villa medieval de **Madrigal de las Altas Torres** 
 están integrados en su empedrado casco urbano. El patrimonio monumental de este 
@@ -39,7 +39,7 @@ también, de su vinculación con personajes tan ilustres como Isabel la Católic
 aquí en 1451), el teólogo y poeta Fray Luis de León (fallecido en la localidad) y el 
 obispo don Vasco de Quiroga, gran humanista del siglo XVI, oriundo de Madrigal. 
 
-![isabel la catolica en el real hospital de madrigal](etheria_images/2022/02/Isabel-la-Catolica-Real-Hospital-de-Madrigal.jpg "Retrato de Isabel la Católica en el Real Hospital de Madrigal. © Carmen Pineda")
+![isabel la catolica en el real hospital de madrigal](etheria-images/2022/02/Isabel-la-Catolica-Real-Hospital-de-Madrigal.jpg "Retrato de Isabel la Católica en el Real Hospital de Madrigal. © Carmen Pineda")
 
 ## Madrigal, rutas con nombre y apellidos
 
@@ -64,7 +64,7 @@ conservada muralla del siglo XII, impactante desde el primer momento que se la d
 ¿Pensabas que no había mucho que ver en Madrigal de las Altas Torres? Sigue leyendo, 
 porque aún hay más. 
 
-![busto de don vasco de quiroga](etheria_images/2022/02/Busto-de-Don-Vasco-de-Quiroga.jpg "Busto de Don Vasco de Quiroga. © Tatavasco Imágenes.")
+![busto de don vasco de quiroga](etheria-images/2022/02/Busto-de-Don-Vasco-de-Quiroga.jpg "Busto de Don Vasco de Quiroga. © Tatavasco Imágenes.")
 
 ## Qué ver en Madrigal de las Altas Torres
 
@@ -83,7 +83,7 @@ Puerta de Peñaranda o de San Hilario; y Puerta de Medina. Esta impresionante mu
 casi iguala el perímetro de la de Ávila. Es muy recomendable pasear por ella al 
 atardecer. El colorido del sol acostándose en la piedra os impresionará. 
 
-![Madrigal de las Altas Torres](etheria_images/2022/02/Muralla-de-Madrigal.jpg "Murallas de Madrigal de las Altas Torres. © Tatavasco Imágenes.")
+![Madrigal de las Altas Torres](etheria-images/2022/02/Muralla-de-Madrigal.jpg "Murallas de Madrigal de las Altas Torres. © Tatavasco Imágenes.")
 
 ### 2\. Monasterio de Nuestra Señora de Gracia, Palacio Real de Juan II o Casa Natal de Isabel la Católica
 
@@ -108,7 +108,7 @@ Extramuros. Esta visita es imprescindible en Madrigal de las Altas Torres.
 sábado Mañanas: 11.30 horas. Tardes: 16 y 17 horas. Domingos y festivos Mañanas: 11.45 
 horas. Tardes: 16 y 17 horas. (Lunes cerrado). 
 
-![claustro palacio de juan ii](etheria_images/2022/02/claustro-palacio-de-Juan-II.jpg "Claustro del Palacio Real de Juan II. © Tatavasco Imágenes.")
+![claustro palacio de juan ii](etheria-images/2022/02/claustro-palacio-de-Juan-II.jpg "Claustro del Palacio Real de Juan II. © Tatavasco Imágenes.")
 
 ### 3\. Iglesia de San Nicolás de Bari
 
@@ -127,7 +127,7 @@ cristos de pasta de caña de maíz traídos expresamente de México.
 horas. Tardes: 18.30 horas. Domingos y festivos. Mañanas: 12.45 a 13.45 horas. Tardes: 
 18.00 horas (lunes cerrado). 
 
-![iglesia san nicolas de bari](etheria_images/2022/02/Iglesia-San-Nicolas-de-Bari.jpg "Iglesia de San Nicolás Bari. © Carmen Pineda")
+![iglesia san nicolas de bari](etheria-images/2022/02/Iglesia-San-Nicolas-de-Bari.jpg "Iglesia de San Nicolás Bari. © Carmen Pineda")
 
 ###  4. Iglesia de Santa María del Castillo
 
@@ -139,7 +139,7 @@ estilo mudéjar característico del territorio, combina también los estilos rom
 neoclásico –incorporado en reformas posteriores–. En su interior, destaca un retablo de 
 estilo barroco. 
 
-![iglesia de santa maria del castillo en madrigal de las altas torres](etheria_images/2022/02/iglesia-Santa-Maria-Castillo.jpg "Iglesia de Santa María del Castillo, en Madrigal de las Altas Torres. © Jacilluch")
+![iglesia de santa maria del castillo en madrigal de las altas torres](etheria-images/2022/02/iglesia-Santa-Maria-Castillo.jpg "Iglesia de Santa María del Castillo, en Madrigal de las Altas Torres. © Jacilluch")
 
 ### 5\. Real Hospital de la Purísima Concepción
 
@@ -156,7 +156,7 @@ Isabel La Católica y de Don Vasco de Quiroga_**.
 16 a 19 horas. Domingos Mañanas: de 10 a 14 horas. Domingos tarde y lunes cerrado. 
 Martes sólo grupos concertados previamente. 
 
-![escultura isabel la catolica en madrigal de las altas torres](etheria_images/2022/02/Isabel-catolica-madrigal.jpg "Isabel la Católica, en Madrigal de las Altas Torres.")
+![escultura isabel la catolica en madrigal de las altas torres](etheria-images/2022/02/Isabel-catolica-madrigal.jpg "Isabel la Católica, en Madrigal de las Altas Torres.")
 
 ### 6\. Ruinas del convento de Agustinos o convento de Extramuros
 
@@ -171,7 +171,7 @@ está integrada en la _**Ruta de Isabel La Católica**_.
 
 ? Visitas guiadas previa cita con la Oficina de Turismo. 
 
-![convento extramuros de madrigal](etheria_images/2022/02/Convento-de-extramuros-de-Madrigal.jpg "Convento situado a extramuros de Madrigal de las Altas Torres. © Tatavasco Imágenes.")
+![convento extramuros de madrigal](etheria-images/2022/02/Convento-de-extramuros-de-Madrigal.jpg "Convento situado a extramuros de Madrigal de las Altas Torres. © Tatavasco Imágenes.")
 
 ### 7\. Bodega de los Frailes
 
@@ -186,7 +186,7 @@ visitar esta bodega en tu excursión a Madrigal de las Altas Torres.
 
 ? Visitas concertadas a través de la Oficina de Turismo. 
 
-![interior bodega de los frailes](etheria_images/2022/02/Interior-de-la-Bodega-de-los-Frailes.jpg "Interior de la Bodega de los Frailes. © Carmen Pineda")
+![interior bodega de los frailes](etheria-images/2022/02/Interior-de-la-Bodega-de-los-Frailes.jpg "Interior de la Bodega de los Frailes. © Carmen Pineda")
 
 ### 8\. Museo Mexicano de Vasco de Quiroga
 
@@ -215,7 +215,7 @@ legado en este museo que resulta muy entretenido.
 
 ? Las visitas se conciertan en la Oficina de Turismo. 
 
-![bodega de los frailes Madrigal de las Altas Torres](etheria_images/2022/02/madrigal-Bodega-de-los-Frailes-897x1024.jpg "Bodega de los Frailes. © Carmen Pineda")
+![bodega de los frailes Madrigal de las Altas Torres](etheria-images/2022/02/madrigal-Bodega-de-los-Frailes-897x1024.jpg "Bodega de los Frailes. © Carmen Pineda")
 
 ### 9\. Centro de Interpretación de la Naturaleza de la comarca de La Moraña
 

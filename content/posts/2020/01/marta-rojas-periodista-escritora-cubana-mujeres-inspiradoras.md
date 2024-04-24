@@ -1,13 +1,13 @@
 ---
 title: "Marta Rojas, de joven cronista a fecunda escritora"
 date: 2020-01-13
-coverImage: etheria_images/2020/01/cuba-marta-rojas-libro.jpg
+coverImage: etheria-images/2020/01/cuba-marta-rojas-libro.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
   - viajes-para-mujeres
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 La reconocida cronista y escritora cubana Marta Rojas recibe a nuestra compañera Manena 
@@ -15,7 +15,7 @@ Munar en su casa para contarnos su trayectoria profesional y compartir recuerdos
 sólo ha cubierto guerras y conflictos políticos sino que sus libros son base de estudio 
 para muchos historiadores. 
 
-![Marta Rojas en su casa.](etheria_images/2020/01/cuba-marta-rojas-libro-900x679.jpg "Marta Rojas en su casa. © Manena Munar")
+![Marta Rojas en su casa.](etheria-images/2020/01/cuba-marta-rojas-libro-900x679.jpg "Marta Rojas en su casa. © Manena Munar")
 
 Esta es la historia de Marta Rojas, una mujer excepcional, y de como el azar juega todo 
 tipo de pasadas, a veces maravillosas, como aquella que aconteció hace unos años en ese 
@@ -35,7 +35,7 @@ extranjera despistada, se acercó a preguntar si podía ayudar en algo.
 > Todo hay que decirlo, y es verdad que si la ciudad a veces adolece de lo necesario 
 > –víveres no hay muchos–, de libros no carece. 
 
-![Libros de Marta Rojas](etheria_images/2020/01/Cuba-el-juicio-moncada-900x633.jpg "Libro 'El Juicio del Moncada', de Marta Rojas. ©M.M.")
+![Libros de Marta Rojas](etheria-images/2020/01/Cuba-el-juicio-moncada-900x633.jpg "Libro 'El Juicio del Moncada', de Marta Rojas. ©M.M.")
 
 ### Escritora y periodista
 
@@ -49,7 +49,7 @@ el placer de pasar más que unos breves momentos con una persona que irradiaba s
 y paz. Una vez más, el destino se puso a favor del encuentro aplazado y de vuelta a La 
 Habana tuve el privilegio de visitar a Marta Rojas en su propia casa. 
 
-![Barrio de El Vedado, en La Habana](etheria_images/2020/01/cuba-calles-la-habana-900x651.jpg "Barrio de El Vedado, en La Habana. ©M.M.")
+![Barrio de El Vedado, en La Habana](etheria-images/2020/01/cuba-calles-la-habana-900x651.jpg "Barrio de El Vedado, en La Habana. ©M.M.")
 
 ## Puertas adentro de la casa y la vida de Marta
 
@@ -73,7 +73,7 @@ forjar las campanas de la Habana. Frente a esta obra, un cuadro de Francisco Pra
 el Museo del Prado, así como un ejemplar sobre la industria azucarera, que le animó a 
 escribir ‘**El Harén de Oviedo**’. 
 
-![Libro y pintura de Marta Rojas](etheria_images/2020/01/cuba-santa-lujuria-900x590.jpg "'Santa Lujuria', una obra de Marta Rojas. ©M.M.")
+![Libro y pintura de Marta Rojas](etheria-images/2020/01/cuba-santa-lujuria-900x590.jpg "'Santa Lujuria', una obra de Marta Rojas. ©M.M.")
 
 Su estudio refleja la historia de Cuba. **Fotos de Fidel y del Ché** descansan sobre su 
 escritorio donde, tras volver del periódico Granma –a cuya redacción acude todos los 
@@ -93,7 +93,7 @@ Lo mejor de la noche llegó cuando Marta, sentada en su mecedora, comenzó sin n
 apenas de preguntas –¡pues que mejor periodista que ella para saber lo que contar!– a 
 explicar en breves trazos la historia de su colosal vida. 
 
-![Marta rojas de joven](etheria_images/2020/01/marta-rojas-cuba-900x743.jpg "Fotografías de Marta Rojas. ©M.M.")
+![Marta rojas de joven](etheria-images/2020/01/marta-rojas-cuba-900x743.jpg "Fotografías de Marta Rojas. ©M.M.")
 
 Nació en Santiago de Cuba. Su padre era sastre y su madre modista de alta costura. Su 
 abuela, explica Marta, era de origen africano pero ya nació _libre en el vientre_, 
@@ -122,7 +122,7 @@ Periodismo en La Habana, haciendo prácticas en la revista Bohemia, cuando viaj�
 natal Santiago de Cuba para acudir a los carnavales y aprovechar la invitación del 
 fotógrafo Panchito Cano para cubrir el carnaval santiagueño. 
 
-![marta rojas, escritora cubana, viajes a cuba, mujeres de cuba](etheria_images/2020/01/Cuba-marta-rojas-biblioteca-900x950.jpg "Marta Rojas mostrando sus libros. M.M.")
+![marta rojas, escritora cubana, viajes a cuba, mujeres de cuba](etheria-images/2020/01/Cuba-marta-rojas-biblioteca-900x950.jpg "Marta Rojas mostrando sus libros. M.M.")
 
 ## Una crónica crucial
 
@@ -134,7 +134,7 @@ estudiante de periodismo de 23 años, Marta Rojas que, escondiéndose donde pod�
 respaldo alguno ni protección, cubrió con valentía el ataque y sus pormenores, crónica 
 que en un principio fue censurada por la prensa. 
 
-![marta rojas, escritora cubana, viajes a cuba, mujeres de cuba, fidel castro](etheria_images/2020/01/Cuba-marta-rojas-fidel-castro-900x694.jpg "Marta Rojas con Fidel Castro. ©M.M.")
+![marta rojas, escritora cubana, viajes a cuba, mujeres de cuba, fidel castro](etheria-images/2020/01/Cuba-marta-rojas-fidel-castro-900x694.jpg "Marta Rojas con Fidel Castro. ©M.M.")
 
 Ahí no acabó la cosa, pues la joven aspirante a periodista rechazó la jugosa oferta de 
 trabajo en el Canal 2 de Tv para no perderse ni una sola audiencia del Juicio de la 
@@ -150,7 +150,7 @@ Más tarde, cuando ya Fulgencio Batista había huido a la República Dominicana 
 establecido el nuevo régimen al mando de Fidel, pudo ser publicado su **libro 'El Juicio 
 del Moncada'**, con un prólogo escrito por Alejo Carpentier. 
 
-![](etheria_images/2020/01/cuba-escritorio-marta-rojas-900x668.jpg "Así es el lugar donde escribe Marta Rojas. ©M.M.")
+![](etheria-images/2020/01/cuba-escritorio-marta-rojas-900x668.jpg "Así es el lugar donde escribe Marta Rojas. ©M.M.")
 
 El escritor apuntaba en el mismo como “ningún testimonio podría avalar con mayor 
 autoridad la exactitud de los hechos descritos por Marta Rojas, incluidas las acciones 
@@ -179,7 +179,7 @@ Comité de Solidaridad presidido por Melba Hernández, activa participante en lo
 del Moncada, más tarde embajadora en Vietnam y Camboya. Las dos corresponsales mandaban 
 sus crónicas a Hanói y de allí a Cuba. 
 
-![marta rojas, escritora cubana, viajes a cuba, mujeres de cuba](etheria_images/2020/01/cuba-fotos-marta-rojas-870x1024.jpg "La casa de Marta Rojas es un recorrido por su prolongada vida. ©M.M.")
+![marta rojas, escritora cubana, viajes a cuba, mujeres de cuba](etheria-images/2020/01/cuba-fotos-marta-rojas-870x1024.jpg "La casa de Marta Rojas es un recorrido por su prolongada vida. ©M.M.")
 
 ### Recuerdos de la guerra de Vietnam
 
@@ -200,7 +200,7 @@ la guerra vietnamita.
 
 > Fue corresponsal en Argentina, México, Chile, Perú y Bolivia para la revista Bohemia. 
 
-![periodico granma, marta rojas, escritora de cuba](etheria_images/2020/01/cuba-revista-granma-900x519.jpg "Periódico Granma. © M.M.")
+![periodico granma, marta rojas, escritora de cuba](etheria-images/2020/01/cuba-revista-granma-900x519.jpg "Periódico Granma. © M.M.")
 
 Desde el 75, Marta es Jefe de Información, Redacción y Cultura del periódico Granma al 
 que acude día tras día en su pequeño coche a velocidad de _Fity Paldi_. También es 

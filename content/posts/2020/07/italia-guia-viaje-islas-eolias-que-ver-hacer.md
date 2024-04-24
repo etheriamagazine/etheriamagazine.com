@@ -1,18 +1,18 @@
 ---
 title: "Islas Eolias, 6 placeres entre el cielo y el infierno"
 date: 2020-07-31
-coverImage: etheria_images/2020/07/islas-eolias-Strombolicchio.jpg
+coverImage: etheria-images/2020/07/islas-eolias-Strombolicchio.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 El archipiélago de las Eolias es un destino _al largo della terraferma_ –como los italianos llaman al territorio separado de tierra firme– cercano al norte de Sicilia donde te vas a sentir como una diosa de película. ¿Quieres saber qué ver y hacer en las islas Eolias? Sigue leyendo porque allí se esconden esencias mediterráneas sin artificios.
 
-![vulcano, islas eolias, islas italianas](etheria_images/2020/07/islas-eolias-vulcano-900x600.jpg "Vulcano, en las islas Eolias.")
+![vulcano, islas eolias, islas italianas](etheria-images/2020/07/islas-eolias-vulcano-900x600.jpg "Vulcano, en las islas Eolias.")
 
 Eolo, el mítico dios griego capaz de controlar los vientos, dio nombre a este puñado de 
 islas envueltas de un intenso azul mediterráneo. En esta geografía inhóspita y 
@@ -26,7 +26,7 @@ refugio de dioses griegos y romanos, son un paraíso al filo del volcán. Es imp
 saber de primera mano qué ver y hacer en las islas Eolias porque tu percepción del viaje 
 puede ser muy diferente. Te lo contamos. 
 
-![fossa di vulcano islas eolias](etheria_images/2020/07/islas-eolias-viaje-vulcano-900x600.jpg "Una caminata por el infierno en la Fossa di Vulcano.")
+![fossa di vulcano islas eolias](etheria-images/2020/07/islas-eolias-viaje-vulcano-900x600.jpg "Una caminata por el infierno en la Fossa di Vulcano.")
 
 ## Vulcano, la boca del infierno
 
@@ -47,7 +47,7 @@ forzada a regresar a su isla natal, representada por la magistral Anna Magnani.
 > Un tonificante baño en el lodo volcánico o en la tentadora transparencia del oleaje 
 > mediterráneo deja en la piel la huella más hermosa de la isla. 
 
-![panarea en islas eolias](etheria_images/2020/07/islas-eolias-viaje-panarea-900x595.jpg "Panarea, apenas 3 km2 de superficie.")
+![panarea en islas eolias](etheria-images/2020/07/islas-eolias-viaje-panarea-900x595.jpg "Panarea, apenas 3 km2 de superficie.")
 
 ## Panarea, la isla sin coches
 
@@ -64,7 +64,7 @@ han decidido hacer de ella un destino selecto a orillas del Mediterráneo.
 > hacemos noche en la isla. Es la sobresaliente visión de los estallidos de magma 
 > surgiendo del cráter del Stromboli que destaca en la vecina isla. 
 
-![lipari en las islas eolias](etheria_images/2020/07/islas-eolias-lipari-900x593.jpg "Lípari, en las islas Eolias.")
+![lipari en las islas eolias](etheria-images/2020/07/islas-eolias-lipari-900x593.jpg "Lípari, en las islas Eolias.")
 
 ## Todo queda en casa, Lípari
 
@@ -77,7 +77,7 @@ los barcos desde Sicilia y el continente, sino por pisar uno de los puerto más
 inalterados del Mediterráneo, la marina Corta, y una de las dos ensenadas que envuelven 
 la ciudad. 
 
-![Museo arqueologia lipari](etheria_images/2020/07/islas-eolias-viaje-lipari-900x600.jpg "Museo de Arqueología de Lípari.")
+![Museo arqueologia lipari](etheria-images/2020/07/islas-eolias-viaje-lipari-900x600.jpg "Museo de Arqueología de Lípari.")
 
 Desde sus casas marineras se divisa la fortaleza amurallada por los griegos, procedentes 
 de la isla de Rodas, aunque su baluarte actual es obra de los españoles que la 
@@ -89,7 +89,7 @@ trepidante a través de la tremenda historia que ha marcado la dura vida del ais
 archipiélago, así como un paseo que nos adentra en los secretos de su geología 
 volcánica. 
 
-![volcan Strombolicchio islas eolias](etheria_images/2020/07/islas-eolias-volcan-Strombolicchio-670x1024.jpg "Volcán Strombolicchio.")
+![volcan Strombolicchio islas eolias](etheria-images/2020/07/islas-eolias-volcan-Strombolicchio-670x1024.jpg "Volcán Strombolicchio.")
 
 ## El volcán más viejo, Strombolicchio
 
@@ -108,7 +108,7 @@ una gran depresión en la cara norte del volcán, donde se divisan las explosion
 magma y las rocas de lava volando ladera abajo. Este es otro de los lugares que tienes 
 que ver en las islas Eolias, aunque sea desde lejos. 
 
-![Strombolicchio islas eolias](etheria_images/2020/07/islas-eolias-Strombolicchio-900x598.jpg "Strombolicchio, una isla-volcán.")
+![Strombolicchio islas eolias](etheria-images/2020/07/islas-eolias-Strombolicchio-900x598.jpg "Strombolicchio, una isla-volcán.")
 
 ## Stromboli, el amor está en el aire
 
@@ -120,7 +120,7 @@ Ginostra a la que solo se accede por camino de herradura o en escúter en busca 
 casa donde residiera la actriz durante el rodaje, esta pequeña isla tiene un único 
 protagonista, el volcán que continuamente expulsa llamaradas de fuego. 
 
-![Stromboli islas eolias](etheria_images/2020/07/islas-eolias-stromboli-900x600.jpg "Impactante imagen del Stromboli.")
+![Stromboli islas eolias](etheria-images/2020/07/islas-eolias-stromboli-900x600.jpg "Impactante imagen del Stromboli.")
 
 ## Volcanes viejos imprescindibles
 
@@ -131,7 +131,7 @@ Prepara calzado senderista para transitarlas a pie, envuélvete de la brisa medi
 al contornearlas en barco y culmina la experiencia con una sombreada indulgencia entre 
 los sabores puros del Mediterráneo. 
 
-![excursion ferry islas eolias](etheria_images/2020/07/excursion-ferry-eolias-900x596.jpg "Excursión en ferry por las Eolias.")
+![excursion ferry islas eolias](etheria-images/2020/07/excursion-ferry-eolias-900x596.jpg "Excursión en ferry por las Eolias.")
 
 Busca tiempo en tu programa también para una excursión cinematográfica, la que en la 
 **isla Salina**, la segunda más grande del archipiélago, te llevará hasta la casa donde 
@@ -139,7 +139,7 @@ se rodó la película _El Cartero y Pablo Neruda_. Al mismo tiempo disfrutarás 
 geografía agreste de esta vieja isla nacida de los volcanes que concentra las mayores 
 altitudes isleñas. 
 
-![eolias y sicilia](etheria_images/2020/07/islas-eolias-volcanes-viejos-900x610.jpg "Excursión por las Eolias.")
+![eolias y sicilia](etheria-images/2020/07/islas-eolias-volcanes-viejos-900x610.jpg "Excursión por las Eolias.")
 
 Por los bosques que cubren sus laderas destaca el **volcán de la Fossa delle Felci**, el 
 más alto, con 962 metros, rodeado de bellísimas playas como la de Pollara. Tan apagado 

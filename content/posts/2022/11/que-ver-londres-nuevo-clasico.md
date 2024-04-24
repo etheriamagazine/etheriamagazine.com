@@ -1,10 +1,10 @@
 ---
 title: "15 visitas que no debes perderte en tu próximo viaje a Londres"
 date: 2022-11-10
-coverImage: etheria_images/2022/11/puente-milenio-londres.jpg
+coverImage: etheria-images/2022/11/puente-milenio-londres.jpg
 categories: 
   - de-un-vistazo
-author: 
+authors: 
   - Paloma Herce
 ---
 
@@ -14,7 +14,7 @@ hervidero de cultura, gastronomía internacional y moda. Cualquier momento es bu
 visitar Londres así que, ya sea tu primera vez, o tu quinta, estos rincones bien merecen 
 una visita. 
 
-![Puente del Milenio, en Londres.](etheria_images/2022/11/puente-milenio-londres.jpg "Puente del Milenio, en Londres. © James Padolsey")
+![Puente del Milenio, en Londres.](etheria-images/2022/11/puente-milenio-londres.jpg "Puente del Milenio, en Londres. © James Padolsey")
 
 En este artículo encontrarás un recorrido por los clásicos de siempre y por alguna 
 novedad para que disfrutes al máximo de lo que ofrece Londres en tu próximo viaje. 
@@ -29,7 +29,7 @@ por su parque más icónico lo es todavía más. El paseo nos gusta terminarlo e
 Gardens, para encontrarnos con Buckingham Palace, otro de esos rincones de la ciudad que 
 se merece una visita aunque hayamos estado mil veces. 
 
-![Hyde Park es uno de los parque que hay que ver en Londres](etheria_images/2022/11/londres-hydepark.jpg "Hyde Park, un gran pulmón londinense. © Simon Hurry")
+![Hyde Park es uno de los parque que hay que ver en Londres](etheria-images/2022/11/londres-hydepark.jpg "Hyde Park, un gran pulmón londinense. © Simon Hurry")
 
 ## Ver Londres desde Radio Rooftop
 
@@ -48,7 +48,7 @@ zona y disfrutar de las barcas hace que te olvides, por un momento, de que está
 Londres. Si continuas andando hacia Paddington encontrarás **una zona nueva** repleta de 
 restaurantes y terrazas, perfecta para una mañana de sábado diferente. 
 
-![Canales y puente de Little Venice, en Londres.](etheria_images/2022/11/little-venice-londres.jpg "Little Venice, en Londres. © Matthew Waring")
+![Canales y puente de Little Venice, en Londres.](etheria-images/2022/11/little-venice-londres.jpg "Little Venice, en Londres. © Matthew Waring")
 
 ## Una mañana en Portobello Market
 
@@ -59,7 +59,7 @@ para encontrar el souvenir más original. Quizás un broche, una gorra, un mapa,
 Probarse mil cosas y fotografiar otras tantas es lo que te proponemos en Portobello, uno 
 de los rincones más famosos de Londres. 
 
-![Portobello Market, en Londres.](etheria_images/2022/11/portobello-mercado-londres.jpg "Portobello Market, en Londres. © Bruno Martins")
+![Portobello Market, en Londres.](etheria-images/2022/11/portobello-mercado-londres.jpg "Portobello Market, en Londres. © Bruno Martins")
 
 ## Cenar en el SoHo
 
@@ -71,7 +71,7 @@ italianos… Es casi imposible quedarse con un solo restaurante, y más si está
 italiano **Circolo Popolare**. Aunque hay que estar atentos, siempre hay nuevas 
 aperturas. 
 
-![Ambiente en el SoHo de Londres.](etheria_images/2022/11/soho-londres.jpg "SoHo de Londres. © Tomek Baginski")
+![Ambiente en el SoHo de Londres.](etheria-images/2022/11/soho-londres.jpg "SoHo de Londres. © Tomek Baginski")
 
 ## Alejarse hasta un barrio típicamente londinense
 
@@ -93,7 +93,7 @@ puestos de todo tipo, siempre está lleno de gente joven que se reúnen los vier
 sábados. Atención a sus puestos de helados y _waffles_, cuya cola llega siempre al 
 exterior. 
 
-![Seven Deals Market, en Londres.](etheria_images/2022/11/seven-dials-market.jpg "Seven Deals Market. © Paloma Herce")
+![Seven Deals Market, en Londres.](etheria-images/2022/11/seven-dials-market.jpg "Seven Deals Market. © Paloma Herce")
 
 ## Un paseo por Savile Row
 
@@ -104,7 +104,7 @@ cafés de moda o tiendas más modernas, que salvaguardan la esencia elegante de 
 Hay que fijarse en los escaparates de las tiendas y en sus bajos, donde solemos 
 encontrar los talleres. 
 
-![Savile Road, una calle donde ir de compras en Londres.](etheria_images/2022/11/savile-road-londres.jpg "Savile Road, en Londres. © Amit Daruka")
+![Savile Road, una calle donde ir de compras en Londres.](etheria-images/2022/11/savile-road-londres.jpg "Savile Road, en Londres. © Amit Daruka")
 
 ## Ir de compras a Connaught Village
 
@@ -121,7 +121,7 @@ ciudad: en Spitalfields, en Berwick Street, en el Soho, en London Bridge, en Bat
 Huevos revueltos, tostada de aguacate con mojo picón y pico de gallo, huevos rancheros, 
 tostada de salmón ahumado, pancakes, burritos… El paraíso para los amantes del desayuno. 
 
-![The Breakfast Club, en Londres](etheria_images/2022/11/desayunos-londres.jpg "The Breakfast Club. © Paloma Herce")
+![The Breakfast Club, en Londres](etheria-images/2022/11/desayunos-londres.jpg "The Breakfast Club. © Paloma Herce")
 
 ## Comprar ropa vintage en Brick Lane
 
@@ -132,7 +132,7 @@ el paraíso para quienes adoran llenar su armario de prendas con historia. El co
 Descubrir los mejores puestos en **The Vintage Market** y disfrutar de una comida en 
 alguna de las casas de curry que se encuentran por la zona. 
 
-![Brick Lane, un lugar imprescindible que ver en Londres](etheria_images/2022/11/brick-lane-londres-683x1024.jpg "Brick Lane. © Samuel Regan-Asante ")
+![Brick Lane, un lugar imprescindible que ver en Londres](etheria-images/2022/11/brick-lane-londres-683x1024.jpg "Brick Lane. © Samuel Regan-Asante ")
 
 ## Visitar The British Museum
 
@@ -143,7 +143,7 @@ estatua de Ramsés II, es una de las más increíbles del mundo. Piezas del Impe
 esculturas asirias, Grecia, México, China… Para el Museo Británico se necesita más de 
 una mañana. Y más de una visita. 
 
-![Interior del British Museum de Londres, una visita imprescindible](etheria_images/2022/11/british-museum-londres.jpg "The British Museum de Londres. © Micael Navarro")
+![Interior del British Museum de Londres, una visita imprescindible](etheria-images/2022/11/british-museum-londres.jpg "The British Museum de Londres. © Micael Navarro")
 
 ## Impregnarse del espíritu de Camden Town
 
@@ -162,7 +162,7 @@ también se merece una visita–. Un concepto de resort urbano con multitud de r
 que incluso tiene una galería de arte privada. Para descubrirlo, podemos reservar en 
 alguno de sus proyectos gastronómicos o podemos acercarnos a disfrutar de un café. 
 
-![Columbia Road, en Londres.](etheria_images/2022/11/columbia-road-londres.jpg "Columbia Road, en Londres. © Gleren Meneghin")
+![Columbia Road, en Londres.](etheria-images/2022/11/columbia-road-londres.jpg "Columbia Road, en Londres. © Gleren Meneghin")
 
 ## Ir a Columbia Road
 

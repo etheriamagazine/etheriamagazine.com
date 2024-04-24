@@ -1,18 +1,18 @@
 ---
 title: "Escapada a la Ronda más literaria, romántica y monumental"
 date: 2019-04-16
-coverImage: etheria_images/2019/04/Ronda-mirador.jpg
+coverImage: etheria-images/2019/04/Ronda-mirador.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Ronda es de esos destinos imprescindibles y mágicos. Es una ciudad literaria, romántica, torera, monumental, antigua, flamenca… con una orografía tan complicada como hermosa. Aprovecha un fin de semana con tus amigas y disfruta de su arquitectura y sus paisajes.
 
-![Tajo de Ronda](etheria_images/2019/04/Ronda-puente-nuevo.jpg "Puente Nuevo en Ronda. © William Fernandes")
+![Tajo de Ronda](etheria-images/2019/04/Ronda-puente-nuevo.jpg "Puente Nuevo en Ronda. © William Fernandes")
 
 Ronda está encajada entre dos parques nacionales: el de la Sierra de las Nieves y el de 
 Grazalema. Y a un paso del Parque Natural de los Alcornocales y del Paraje Natural 
@@ -34,7 +34,7 @@ toros**, donde cada septiembre se celebra la mítica Corrida Goyesca, en homenaj
 y a Pedro Romero, el hombre que puso reglas, en el siglo XVIII, al toreo. No en vano se 
 dice que en Ronda nació la tauromaquia. 
 
-![arcada de la plaza de toros de Ronda](etheria_images/2019/04/Ronda-plaza-toros.jpg "Plaza de toros de Ronda. ©PB")
+![arcada de la plaza de toros de Ronda](etheria-images/2019/04/Ronda-plaza-toros.jpg "Plaza de toros de Ronda. ©PB")
 
 Bajo el albero de este coso taurino están enterradas, por propia voluntad del torero 
 rondeño, parte de las cenizas de Antonio Ordóñez. Un albero que es el más grande del 
@@ -59,7 +59,7 @@ construcción se empleó piedra del tajo de Ronda. Durante la Guerra Civil, aqu�
 metieron los tanques republicanos y tiene un museo histórico en el que se da fe de la 
 relación entre el hombre y el toro desde tiempos prehistóricos. 
 
-![Caballo y estatua de toro en Ronda](etheria_images/2019/04/toro-ronda.jpg "La cultura taurina está presente en Ronda. ©PB")
+![Caballo y estatua de toro en Ronda](etheria-images/2019/04/toro-ronda.jpg "La cultura taurina está presente en Ronda. ©PB")
 
 ## De Hemingway a Orson Welles
 
@@ -69,7 +69,7 @@ interesante durante todo el año. Sigamos nuestro recorrido por la calle princip
 Ronda, la Carrera Espinel o Calle de la Bola, hasta llegar al **Paseo de la Fama**, un 
 espacio ideal para tomar la medida a la ciudad y a sus horizontes cercanos. 
 
-![Ronda desde la campiña](etheria_images/2019/04/Ronda-panoramica.jpg "Panorámica de Ronda al atardecer. ©Alejandro López")
+![Ronda desde la campiña](etheria-images/2019/04/Ronda-panoramica.jpg "Panorámica de Ronda al atardecer. ©Alejandro López")
 
 En este paseo se hallan inmortalizados en el suelo personas vinculadas a la tauromaquia, 
 como Pedro Romero, El Niño de la Palma, Antonio Ordóñez y los hermanos Rivera Ordóñez 
@@ -92,7 +92,7 @@ Nuevo, que en el siglo XVIII logró conectar, salvando un tajo de 100 metros sob
 Guadalevín, la parte nueva con la antigua de Ronda. Si queremos tomar una bonita 
 instantánea del mismo, hay que ir hasta los vecinos Jardines de Cuenca. 
 
-![Mirador en Ronda](etheria_images/2019/04/Ronda-mirador.jpg "Mirador del Puente Nuevo. ©PB")
+![Mirador en Ronda](etheria-images/2019/04/Ronda-mirador.jpg "Mirador del Puente Nuevo. ©PB")
 
 Estamos ante un puente que tardó 32 años en construirse, entre otras cosas por falta de 
 financiación. Y eso que se levantó con la misma piedra del tajo. Hay que fijarse, como 
@@ -101,7 +101,7 @@ pensada para tomar las decisiones importantes de la ciudad, al ser su epicentro,
 luego llegó a ser cárcel, restaurante de una sola mesa o sede de conciertos de cámara. 
 Hoy es el **Centro de Interpretación del Puente**. 
 
-![Edificios históricos en Ronda](etheria_images/2019/04/ronda-casa-rey-moro.jpg "Casa del Rey Moro. © O.T. Ronda")
+![Edificios históricos en Ronda](etheria-images/2019/04/ronda-casa-rey-moro.jpg "Casa del Rey Moro. © O.T. Ronda")
 
 ## De la Casa del Rey Moro a los Baños Árabes
 
@@ -117,7 +117,7 @@ Ronda es la cuarta ciudad con más metros cuadrados de muralla medieval en Espa�
 que conviene asomarse al tramo musulmán de La Albacara. Y seleccionar entre los muchos y 
 variados atractivos que encierra la ciudad. 
 
-![Puerta morisca en el palacio de Mondragón](etheria_images/2019/04/ronda-palacio-mondragon.jpg "Palacio de Mondragón. © O.T. Ronda")
+![Puerta morisca en el palacio de Mondragón](etheria-images/2019/04/ronda-palacio-mondragon.jpg "Palacio de Mondragón. © O.T. Ronda")
 
 ## Otros atractivos turísticos de Ronda
 
@@ -134,7 +134,7 @@ destino excelente para empaparse del **flamenco**, ya que aquí se han conservad
 emocionantes ritos, cantes y bailes de un arte que todavía se puede disfrutar en los 
 cafés y tablaos de Ronda. 
 
-![fachada del palacio de Salvatierra](etheria_images/2019/04/ronda-palacio-salvatierra.jpg "Palacio de Salvatierra. Ronda. © O.T. Ronda")
+![fachada del palacio de Salvatierra](etheria-images/2019/04/ronda-palacio-salvatierra.jpg "Palacio de Salvatierra. Ronda. © O.T. Ronda")
 
 ### CONSEJOS ETHERIA
 

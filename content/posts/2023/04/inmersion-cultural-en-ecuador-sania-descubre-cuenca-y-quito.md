@@ -1,11 +1,11 @@
 ---
 title: "Inmersión cultural en Ecuador, Sania descubre Cuenca y Quito"
 date: 2023-04-17
-coverImage: etheria_images/2023/04/sania-ecuador-cuenca-catedral.jpg
+coverImage: etheria-images/2023/04/sania-ecuador-cuenca-catedral.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -14,7 +14,7 @@ Galápagos. En Cuenca y Quito ha podido disfrutar de la riqueza cultural de las 
 ciudades ecuatorianas. Sigue leyendo para descubrir sus recomendaciones en ambos 
 lugares. 
 
-![Sania en Cuenca (Ecuador)](etheria_images/2023/04/sania-ecuador-cuenca-catedral.jpg "Sania en Cuenca (Ecuador). © Sania Jelic.")
+![Sania en Cuenca (Ecuador)](etheria-images/2023/04/sania-ecuador-cuenca-catedral.jpg "Sania en Cuenca (Ecuador). © Sania Jelic.")
 
 Después de la experiencia de bucear en Galápagos, quise ver más tesoros de Ecuador pero 
 el tiempo se me hizo corto y quedaron cosas en el tintero para el próximo viaje. El 
@@ -54,7 +54,7 @@ local. Sus 52 iglesias, la variada oferta de alojamiento y la buena gastronomía
 prestan a ello. Proyectos gastronómicos como el **restaurante La María** son 
 interesantes para la actualización de la gastronomía local. 
 
-![Chancho en el Mercado 10 de Agosto de Cuenca.](etheria_images/2023/04/sania-cuenca-chancho.jpg "Chancho en el Mercado 10 de Agosto de Cuenca. © SJ")
+![Chancho en el Mercado 10 de Agosto de Cuenca.](etheria-images/2023/04/sania-cuenca-chancho.jpg "Chancho en el Mercado 10 de Agosto de Cuenca. © SJ")
 
 Dicho esto, merece la pena visitar el **mercado local**, llamado _10 de Agosto_. En los 
 comedores populares de la primera planta sirven todo tipo de comida local, incluyendo 
@@ -73,7 +73,7 @@ guiada de la iglesia a un grupo de escolares de unos 10 años. Contaba episodios
 Biblia como si fuese un cuento de misterio y suspense. Los niños estaban boquiabiertos 
 y, seguramente, a partir de ahí vivirán la religión de una forma más cercana. 
 
-![Interior de la Catedral Vieja de Cuenca.](etheria_images/2023/04/sania-cuenca-catedral-vieja.jpg "Interior de la Catedral Vieja de Cuenca. © SJ.")
+![Interior de la Catedral Vieja de Cuenca.](etheria-images/2023/04/sania-cuenca-catedral-vieja.jpg "Interior de la Catedral Vieja de Cuenca. © SJ.")
 
 Aunque confieso que tengo debilidad por las casas coloniales, realmente la **Vieja 
 Mansión** es un muy buen ejemplo de “cosas bien hechas”. La gerente, Adriana Orellana, 
@@ -102,7 +102,7 @@ observar a tantas personas mayores, claramente extranjeros, haciendo sus recados
 ciudad entre la población local, las mujeres rurales con las típicas faldas polleras, 
 los adolescentes con sus uniformes colegiales o los trabajadores... 
 
-![La catedral de la Inmaculada de Cuenca desde el Seminario de San Luis.](etheria_images/2023/04/sania-cuenca-claustro.jpg "La catedral de la Inmaculada de Cuenca desde el Seminario de San Luis. © SJ.")
+![La catedral de la Inmaculada de Cuenca desde el Seminario de San Luis.](etheria-images/2023/04/sania-cuenca-claustro.jpg "La catedral de la Inmaculada de Cuenca desde el Seminario de San Luis. © SJ.")
 
 Un consejo que hay que tener en cuenta al llegar la noche en Cuenca es no permanecer por 
 las calles cuando se haga de noche porque están poco transitadas. Hay algunas en el 
@@ -126,7 +126,7 @@ se encargó a la tejedora **Carmen Orellana**, que ya había sido reconocida por
 por su gran labor en la preservación de la técnica ikat y su talento para crear nuevos 
 diseños. 
 
-![Carmen Orellana, tejedora de macanas](etheria_images/2023/04/sania-cuenca-carmen-orellana.jpg "Carmen Orellana, tejedora de macanas. © SJ")
+![Carmen Orellana, tejedora de macanas](etheria-images/2023/04/sania-cuenca-carmen-orellana.jpg "Carmen Orellana, tejedora de macanas. © SJ")
 
 Tuve la oportunidad de visitar a Carmen en su taller de Gualaceo y me explicó cómo fue 
 la experiencia de elaborar tan importante pieza en un tiempo récord, perseguida por los 
@@ -156,7 +156,7 @@ Humanidad en el año 1978. Su núcleo histórico está muy bien preservado y lle
 La ciudad, a casi 3.000 metros de altura, está rodeada por cuatro volcanes. Allí viven 
 unos 2 millones de habitantes. 
 
-![Cúpulas de la catedral de Quito](etheria_images/2023/04/sania-quito-catedral.jpg "Cúpulas de la catedral de Quito. © SJ")
+![Cúpulas de la catedral de Quito](etheria-images/2023/04/sania-quito-catedral.jpg "Cúpulas de la catedral de Quito. © SJ")
 
 La basílica del Voto Nacional, la catedral metropolitana de Quito, la iglesia de San 
 Francisco y la iglesia de la Compañía son los edificios más destacados del casco 
@@ -171,7 +171,7 @@ inmigración.
 El tiempo en Quito no me dio para más… Luego, mientras volaba de Cuenca a Quito, me 
 enteré de que se había producido un terremoto de 6,4 grados cerca de Cuenca. Por poco… 
 
-![Centro histórico de Quito](etheria_images/2023/04/sania-quito-centro.jpg "Centro histórico de Quito.")
+![Centro histórico de Quito](etheria-images/2023/04/sania-quito-centro.jpg "Centro histórico de Quito.")
 
 ## Ecuador da para mucho
 

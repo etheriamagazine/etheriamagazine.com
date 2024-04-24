@@ -1,14 +1,14 @@
 ---
 title: "Prepara tu viaje a Egipto con libros y películas"
 date: 2021-03-01
-coverImage: etheria_images/2021/02/Egipto-viajar-pinturas.jpg
+coverImage: etheria-images/2021/02/Egipto-viajar-pinturas.jpg
 categories: 
   - consejos-practicos
   - de-un-vistazo
   - libros-de-viajes
   - planes-cultura-ocio
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Es casi imposible encontrar a alguien que no quiera viajar a Egipto. Aquí te 
@@ -16,7 +16,7 @@ recomendamos algunas películas, documentales y libros para que te vayas ambient
 antes de tu viaje o para, por qué no, viajar a este maravilloso destino a través de los 
 fotogramas y las palabras. 
 
-![organizar un viaje a egipto](etheria_images/2021/02/Egipto-viajar-pinturas.jpg "La fascinación por el mundo egipcio ha inspirado infinidad de películas y libros.")
+![organizar un viaje a egipto](etheria-images/2021/02/Egipto-viajar-pinturas.jpg "La fascinación por el mundo egipcio ha inspirado infinidad de películas y libros.")
 
 Egipto aparece en nuestra mente ligado a la imagen de un viaje de expedición lleno de 
 aventuras, y buena parte de culpa la tienen el cine y la literatura. Además, es un país 
@@ -52,7 +52,7 @@ presidente Nasser y asesor de Anwar Sadat, su sucesor, mientras trabaja para la
 inteligencia israelí. Se centra en los meses previos a la guerra del Yom Kippur y es una 
 película trepidante de espías, tensión e intriga política. 
 
-![películas históricas](etheria_images/2021/02/egipto-peliculas-agora.jpg "Cartel de la película 'Agora' de Alejandro Amenábar.")
+![películas históricas](etheria-images/2021/02/egipto-peliculas-agora.jpg "Cartel de la película 'Agora' de Alejandro Amenábar.")
 
 ### Ágora (2009)
 
@@ -69,7 +69,7 @@ de personajes y situaciones peculiares que transcurren en torno a este edificio 
 existe en realidad). De casi tres horas de duración, tuvo un gran éxito en este país y 
 refleja los cambios producidos en El Cairo a lo lago del siglo XX 
 
-![películas actuales sobre Egipto](etheria_images/2021/02/Egipto-peliculas-El-Cairo-678-691x1024.jpg "Cartel de la película 'El Cairo 678'.")
+![películas actuales sobre Egipto](etheria-images/2021/02/Egipto-peliculas-El-Cairo-678-691x1024.jpg "Cartel de la película 'El Cairo 678'.")
 
 ### El Cairo 678 (2010)
 
@@ -103,7 +103,7 @@ aventuras, romance, misterio… Son películas perfectas para ver en familia si 
 viajar con los más pequeños a Egipto, aunque quizá con alguna escena se lleven un 
 pequeño susto. 
 
-![películas clásicas sobre Egipto](etheria_images/2021/02/egipto-peliculas-10-mandamientos.jpg "Imagen de Charlton Heston como Moisés en la película 'Los Diez Mandamientos' (1956).")
+![películas clásicas sobre Egipto](etheria-images/2021/02/egipto-peliculas-10-mandamientos.jpg "Imagen de Charlton Heston como Moisés en la película 'Los Diez Mandamientos' (1956).")
 
 ### Exodus: Dioses y Reyes (2014)
 
@@ -133,7 +133,7 @@ inversión que requirió, y que tardó dos años y medio en realizarse en medio 
 plagado de escándalos. Por cierto, la película recrea una parte de la historia de Egipto 
 pero fue rodada en Londres y en los míticos estudios de Cinecittà en Roma. 
 
-![películas históricas](etheria_images/2021/02/Egipto-peliculas-cleopatra-poster.jpg "Cartel de la película 'Cleopatra' de 1963.")
+![películas históricas](etheria-images/2021/02/Egipto-peliculas-cleopatra-poster.jpg "Cartel de la película 'Cleopatra' de 1963.")
 
 ## Documentales sobre Egipto
 
@@ -150,7 +150,7 @@ descubierta tumba de Saqqara que llevaba oculta más de cuatro milenios. Impresc
 verlo antes de organizar tu viaje a Egipto si estás interesada en la arqueología. 
 Disponible en Netflix. 
 
-![documentales sobre Egipto](etheria_images/2021/02/Egipto-series-planeta-egipto.jpg "Imagen del documental 'Planeta Egipto'. © ZD/Guy Mertin/lMovistar")
+![documentales sobre Egipto](etheria-images/2021/02/Egipto-series-planeta-egipto.jpg "Imagen del documental 'Planeta Egipto'. © ZD/Guy Mertin/lMovistar")
 
 ### Planeta Egipto (2020)
 
@@ -170,7 +170,7 @@ largo de los siglos y hoy existen varias ediciones. Puedes encontrar esta [versi
 Federico Lara Peinado](https://amzn.to/3pLrdGz), sencilla, manejable y bien traducida en 
 Amazon. 
 
-![preparar un viaje a Egipto](etheria_images/2021/02/Egipto-libro-muertos-mitologia-egipcia.jpg "'El libro de los muertos' y 'Mitología egipcia'.")
+![preparar un viaje a Egipto](etheria-images/2021/02/Egipto-libro-muertos-mitologia-egipcia.jpg "'El libro de los muertos' y 'Mitología egipcia'.")
 
 ### 'Mitología Egipcia' de Matt Clyton
 
@@ -190,7 +190,7 @@ el callejón Midaq, en el corazón de la ciudad. Hasta que no publiquen una nuev
 solo lo podrás encontrar en el mercado de segunda mano. Imprescindible si vas a 
 organizar un viaje a Egipto o por el simple placer de disfrutar con buena lectura. 
 
-![literatura egipcia](etheria_images/2021/02/Egipto-callejon-milagros-edificio-yacobian.jpg "'El callejón de los milagros' y 'El edificio Yacobián'.")
+![literatura egipcia](etheria-images/2021/02/Egipto-callejon-milagros-edificio-yacobian.jpg "'El callejón de los milagros' y 'El edificio Yacobián'.")
 
 ### ‘El edificio Yacobián’ de Alaa Al-Aswany
 
@@ -213,7 +213,7 @@ y madres de reyes. Es el último libro de Antonio Cabanas, que cuenta con otros 
 dedicados al Antiguo Egipto como ‘El ladrón de tumbas’, ‘La conjura del faraón’, ‘El 
 camino de los dioses’, ‘El secreto del Nilo’ o ‘El hijo del desierto’. 
 
-![organizar un viaje a Egipto](etheria_images/2021/02/egipto-novela-historica.jpg "Novelas históricas sobre el Antiguo Egipto.")
+![organizar un viaje a Egipto](etheria-images/2021/02/egipto-novela-historica.jpg "Novelas históricas sobre el Antiguo Egipto.")
 
 ### ‘La pirámide inmortal’ de Javier Serra
 
@@ -231,7 +231,7 @@ hasta su papel como embajador en la corte. Una historia de intrigas, rumores, me
 ambiciones, pero también de arte y conocimiento. Disponible en [Amazon](https://amzn.to/3qPVTb4) 
 en versión Kindle. 
 
-![organizar un viaje a Egipto](etheria_images/2021/02/Egipto-guias-viaje.jpg "Guías de viaje sobre Egipto.")
+![organizar un viaje a Egipto](etheria-images/2021/02/Egipto-guias-viaje.jpg "Guías de viaje sobre Egipto.")
 
 ## Guías de viaje
 

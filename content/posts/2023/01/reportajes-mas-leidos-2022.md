@@ -1,11 +1,11 @@
 ---
 title: "Destinos nacionales, cultura y gastronomía, entre los artículos más leídos"
 date: 2023-01-02
-coverImage: etheria_images/2023/01/pareja-viaje.jpg
+coverImage: etheria-images/2023/01/pareja-viaje.jpg
 categories: 
   - de-un-vistazo
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cuando concluye un año toca hacer balance de cómo nos ha ido y en Etheria Magazine 
@@ -14,7 +14,7 @@ que hemos elaborado esta lista con los 10 reportajes más leídos de 2022, mucho
 cuales siguen totalmente vigentes en el año que entra y permanecen como fantásticas 
 ideas de viaje. 
 
-![pareja de viaje en la montaña](etheria_images/2023/01/pareja-viaje.jpg "Echamos un vistazo a los artículos más leídos en 2022.")
+![pareja de viaje en la montaña](etheria-images/2023/01/pareja-viaje.jpg "Echamos un vistazo a los artículos más leídos en 2022.")
 
 Hemos echado la vista atrás para comprobar cuáles han sido los temas y destinos que más 
 han interesado a nuestras lectoras el año pasado. Nos queda bastante claro que, en 
@@ -32,7 +32,7 @@ Sierra) en una ruta de norte a sur que hacemos de la mano de la periodista Carme
 Pineda. Con datos prácticos de qué ver, dónde comer y dónde dormir en cada uno de los 
 pueblos para que no te pierdas nada. 
 
-![Iglesia de la Asunción de Villanueva de la Serena.](etheria_images/2023/01/mas-leidos-2022-Villanueva-de-la-Serena-iglesia-asuncion.jpg "Iglesia de la Asunción de Villanueva de la Serena. © Ayuntamiento Villanueva de la Serena")
+![Iglesia de la Asunción de Villanueva de la Serena.](etheria-images/2023/01/mas-leidos-2022-Villanueva-de-la-Serena-iglesia-asuncion.jpg "Iglesia de la Asunción de Villanueva de la Serena. © Ayuntamiento Villanueva de la Serena")
 
 ✅ [5 pueblos de Badajoz que no conoces y te 
 sorprenderán](https://etheriamagazine.com/2022/05/03/ruta-pueblos-bonitos-badajoz/) 
@@ -46,7 +46,7 @@ hoteles de lujo y lugares singulares para despedir el 2022 como una auténtica r
 Incluye clásicos como The Westin Palace o el Wellington y propuestas diferentes como la 
 de Quintoelemento. 
 
-![copas brindando](etheria_images/2023/01/mas-leidos-2022-nochevieja-brindis-780x450-1.jpg "En Nochevieja hay que celebrar y celebrar.")
+![copas brindando](etheria-images/2023/01/mas-leidos-2022-nochevieja-brindis-780x450-1.jpg "En Nochevieja hay que celebrar y celebrar.")
 
 ✅ [Celebra la Nochevieja de 2022 en Madrid con una cena de 
 gala](https://etheriamagazine.com/2022/11/11/nochevieja-2022-en-madrid/) 
@@ -63,7 +63,7 @@ mujeres en el Antiguo Egipto, un aspecto social, económico y político al que
 generalmente no se presta mucha atención. Esperamos que más propuestas como ésta animen 
 la vida cultural de nuestras ciudades en 2023. 
 
-![exposición hijas del Nilo](etheria_images/2023/01/mas-leidos-2022-Hijas-del-Nilo-sala-iluminada.jpg "Sala de la exposición © Hijas del Nilo.")
+![exposición hijas del Nilo](etheria-images/2023/01/mas-leidos-2022-Hijas-del-Nilo-sala-iluminada.jpg "Sala de la exposición © Hijas del Nilo.")
 
 ✅ [‘Hijas del Nilo’, una cita con las mujeres del Antiguo Egipto en 
 Madrid](https://etheriamagazine.com/2022/07/04/exposicion-hijas-del-nilo-madrid/) 
@@ -79,7 +79,7 @@ llenos de vanguardia. Este artículo es una auténtica guía que va desde los re
 de toda la vida hasta los más nuevos, pasando por bares de tapas, locales donde 
 desayunar de diez y pastelerías. Y os aseguramos que lo conocemos muy bien. 
 
-![pescado frito en la Venta Pericón](etheria_images/2023/01/mas-leidos-2022-venta-pericon-conil-850x562.jpg "Fritura de la Venta Pericón, en Conil. © Pepa García")
+![pescado frito en la Venta Pericón](etheria-images/2023/01/mas-leidos-2022-venta-pericon-conil-850x562.jpg "Fritura de la Venta Pericón, en Conil. © Pepa García")
 
 ✅ [Dónde comer bien en Conil de la Frontera, bares y restaurantes 
 recomendados](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
@@ -94,7 +94,7 @@ la Torre de Guzmán el Bueno, el Barrio de los Pescadores, las plazas de España
 Villa y La Chanca. Y otros lugares perfectos para un paseo son el puerto pesquero, los 
 alrededores de la torre de Castilnovo y la ruta por los miradores. 
 
-![estatua en la plaza de españa de Conil con la puerta de la villa al fondo](etheria_images/2023/01/mas-leidos-2022-plaza-espana-conil-850x638.jpg "Plaza de España de Conil. © Pepa García")
+![estatua en la plaza de españa de Conil con la puerta de la villa al fondo](etheria-images/2023/01/mas-leidos-2022-plaza-espana-conil-850x638.jpg "Plaza de España de Conil. © Pepa García")
 
 ✅ [15 visitas que hacer en Conil y ninguna es una 
 playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/) 
@@ -108,7 +108,7 @@ con los itinerarios guiados y libres y una ruta por el pueblo de Aitona. Todo ap
 con las bonitas fotos de Juan Carlos Muñoz. Además, nos cuenta otros imprescindibles de 
 la zona por si queremos completar el viaje o visitamos la zona en otra época del año. 
 
-![Flores de los melocotoneros de Aitona.](etheria_images/2023/01/mas-leidos-2022-Fruiturismo-lleida-850x567.jpg "Flores de los melocotoneros de Aitona.")
+![Flores de los melocotoneros de Aitona.](etheria-images/2023/01/mas-leidos-2022-Fruiturismo-lleida-850x567.jpg "Flores de los melocotoneros de Aitona.")
 
 ✅ [Aitona en flor, un anuncio ‘rosa’ a las afueras de 
 Lleida](https://etheriamagazine.com/2022/02/24/viaje-floracion-melocotoneros-aitona-lleida/) 
@@ -124,7 +124,7 @@ Martinica, Mongolia… Hay viajes culturales y otros que incluyen playas poco co
 para descansar después del ajetreo de la boda. El mundo es muy diverso para tener que 
 ceñirse siempre a lo convencional. 
 
-![pareja descansando en la montaña](etheria_images/2023/01/mas-leidos-2022-viajes-novios-originales-pareja-850x567.jpg "No renuncies a tu luna de miel soñada.")
+![pareja descansando en la montaña](etheria-images/2023/01/mas-leidos-2022-viajes-novios-originales-pareja-850x567.jpg "No renuncies a tu luna de miel soñada.")
 
 ✅ [10 viajes de novios originales para huir de lo 
 convencional](https://etheriamagazine.com/2022/02/09/viajes-de-novios-originales-2022/) 
@@ -139,7 +139,7 @@ colaboradora que además de viajar sola por el mundo es experta en gastronomía 
 enología. Su selección incluye referencias concretas de restaurantes fuera del 
 ‘postureo’ de la isla, muchos de ellos liderados por mujeres. 
 
-![Sara Valls, del restaurante Janis, en Formentera.](etheria_images/2023/01/mas-leidos-2022-formentera-sara-valls-850x567.jpg "Sara Valls, del restaurante Janis, en Formentera.")
+![Sara Valls, del restaurante Janis, en Formentera.](etheria-images/2023/01/mas-leidos-2022-formentera-sara-valls-850x567.jpg "Sara Valls, del restaurante Janis, en Formentera.")
 
 ✅ [Dónde comer en Formentera sin perder de vista la mano 
 femenina](https://etheriamagazine.com/2022/07/27/mejores-restaurantes-formentera/) 
@@ -154,7 +154,7 @@ comunidad china que allí vive. Por este motivo está considerado el Chinatown d
 así que no dudes en acercarte a los restaurantes chinos recomendados en el artículo 
 porque son realmente auténticos. 
 
-![platos del hot pot de Mr. Doulao](etheria_images/2023/01/mas-leidos-2022-mrdoulao-hotpot-usera-850x629.jpg "© Mr. Doulao, un restaurante hot pot de Usera.")
+![platos del hot pot de Mr. Doulao](etheria-images/2023/01/mas-leidos-2022-mrdoulao-hotpot-usera-850x629.jpg "© Mr. Doulao, un restaurante hot pot de Usera.")
 
 ✅ [Ruta turístico-gastronómica por el Chinatown 
 madrileño](https://etheriamagazine.com/2022/02/11/ruta-turistica-usera-chinatown-madrileno/) 
@@ -169,7 +169,7 @@ comunidad autónoma. Comenzando por su capital, Santander, y siguiendo por sus p
 más bonitos en la costa y la montaña, sus mejores playas y sus enclaves naturales más 
 destacados. 
 
-![Hombre Pez junto al Puente Mayor de Liérganes.](etheria_images/2023/01/mas-leidos-2022-puente-hombre-pez-Lierganes.jpg "Hombre Pez junto al Puente Mayor de Liérganes.")
+![Hombre Pez junto al Puente Mayor de Liérganes.](etheria-images/2023/01/mas-leidos-2022-puente-hombre-pez-Lierganes.jpg "Hombre Pez junto al Puente Mayor de Liérganes.")
 
 ✅ [Guía esencial de Cantabria, visitas que no puedes 
 perderte](https://etheriamagazine.com/2022/09/05/que-ver-en-cantabria/)

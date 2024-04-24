@@ -1,17 +1,17 @@
 ---
 title: "Baqueira Beret, novedades de la temporada 2021-2022 que te interesa conocer"
 date: 2021-11-24
-coverImage: etheria_images/2021/11/Baqueira-Beret-esquiadores.jpg
+coverImage: etheria-images/2021/11/Baqueira-Beret-esquiadores.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Comienzan a caer las primeras nieves y la estación de esquí de Baqueira Beret ya está preparada para recibir a los amantes del deporte blanco. Este año, además, cuenta con muchas novedades: más kilómetros innivados, nuevos remontes y bonos, espacios para niños... Prepárate para disfrutar de sus 111 pistas, 167 kilómetros de descensos, los mejores restaurantes y música los fines de semana.
 
-![esquiadores baqueira](etheria_images/2021/11/Baqueira-Beret-esquiadores.jpg "Esquiadores en las pistas de Baqueira Beret.")
+![esquiadores baqueira](etheria-images/2021/11/Baqueira-Beret-esquiadores.jpg "Esquiadores en las pistas de Baqueira Beret.")
 
 Todo el entorno de la Val d'Aran y Valls d'Àneu, donde se encuentra **Baqueira Beret**, 
 son una propuesta invernal imposible de rechazar. Esta estación situada en el Pirineo de 
@@ -25,7 +25,7 @@ favoritas de los amantes del deporte blanco. Esta temporada 2021-2022, Baqueira 
 tiene previsto abrir el 27 de noviembre con un buen número de sorpresas que harán las 
 delicias de esquiadores y _snowboarders_. 
 
-![paisaje nevado valle aran pirineo](etheria_images/2021/11/paisaje-nevado-Val-Aran.jpg "Paisaje nevado de Val d'Aran.")
+![paisaje nevado valle aran pirineo](etheria-images/2021/11/paisaje-nevado-Val-Aran.jpg "Paisaje nevado de Val d'Aran.")
 
 ## Novedades en Baqueira Beret
 
@@ -38,7 +38,7 @@ telesilla de Dossau. Tiene capacidad para 2.400 esquiadores por hora con una cot
 salida situada en 1.850, al lado del Núcleo Audeth en Beret, y una cota de llegada de 
 2.207 metros. Cubre un desnivel de 357 metros y tiene una longitud de 1.992 metros. 
 
-![pla de baqueira](etheria_images/2021/11/Pla-Baqueira.jpg "Pla de Baqueira.")
+![pla de baqueira](etheria-images/2021/11/Pla-Baqueira.jpg "Pla de Baqueira.")
 
 ### 2\. TQ Pla de Beret, nueva zona de debutantes
 
@@ -50,7 +50,7 @@ longitud de 337 metros superando una pendiente media del 12,8%. No te desanimes 
 debutante porque podrás dar ‘el salto’ del telesquí al nuevo telesilla en sólo unas 
 jornadas en Baqueira Beret. 
 
-![snowpark baqueira beret](etheria_images/2021/11/snow-park-baqueira.jpg "Los niños también se divierten en Baqueira Beret.")
+![snowpark baqueira beret](etheria-images/2021/11/snow-park-baqueira.jpg "Los niños también se divierten en Baqueira Beret.")
 
 ### 3\. Snowcamps para los más pequeños
 
@@ -68,7 +68,7 @@ desde 6 meses a 3 años, el **SnowCAMP Baqueira 1800** y **SnowCAMP Beret** a pe
 **SnowCAMP Bonaigua** se centra en niños de 3 a 6 años sin pañal que podrán divertirse 
 con juegos de interior y cursillos de esquí. 
 
-![Bonaigua esqui](etheria_images/2021/11/Bonaigua-pistas-esqui.jpg "Pistas de Bonaigua.")
+![Bonaigua esqui](etheria-images/2021/11/Bonaigua-pistas-esqui.jpg "Pistas de Bonaigua.")
 
 ### 4\. Renovaciones e innivación
 
@@ -80,7 +80,7 @@ antigua pasa a llamarse Stadium 2. Debes saber también que esta temporada se ac
 con tornos al nuevo telesquí Pla de Beret, al TQ Fernández Ochoa del Stadium y al 
 telesilla Mirador. 
 
-![baqueira beret](etheria_images/2021/11/Baqueira-Beret-pie-pistas.jpg "Un descanso antes de continuar por las vertiginosas pistas de Baqueira Beret.")
+![baqueira beret](etheria-images/2021/11/Baqueira-Beret-pie-pistas.jpg "Un descanso antes de continuar por las vertiginosas pistas de Baqueira Beret.")
 
 ### 5\. Disfrutar de las terrazas incluso con frío
 
@@ -103,7 +103,7 @@ A lo largo de las pistas, y especialmente en la terraza de Beret 1.850 y en el B
 Bar 1500, hay DJs o **música en directo** cada fin de semana por lo que la diversión 
 continúa más allá de lo deportivo. 
 
-![restaurantes baqueira](etheria_images/2021/11/restaurantes-baqueira.jpg "Baqueira Beret dispone de 24 establecimientos de restauración.")
+![restaurantes baqueira](etheria-images/2021/11/restaurantes-baqueira.jpg "Baqueira Beret dispone de 24 establecimientos de restauración.")
 
 ### 6\. Forfaits online: BaqueiraPASS y BaqueiraTICKET
 
@@ -119,7 +119,7 @@ especiales (senior, baby, paseo, tarde y debutante).
 ¿Tienes ya la app de Baqueira Beret? También ha mejorado su usabilidad e incluso sirve 
 para reservar en los restaurantes de la estación. 
 
-![esquiador aymar navarro](etheria_images/2021/11/Esquiador-Freeride-Aymar-Navarro.jpg "Esquiador freeride Aymar Navarro.")
+![esquiador aymar navarro](etheria-images/2021/11/Esquiador-Freeride-Aymar-Navarro.jpg "Esquiador freeride Aymar Navarro.")
 
 ### 7\. Freeride World Tour en Baqueira y otras competiciones
 
@@ -132,7 +132,7 @@ como Campeonato de España FIS, Amics de Montgarri Audi Quattro Cup, el Campeona
 España de mushing sprint, o la tradicional Marxa Beret, que esta temporada será su 42 
 edición. 
 
-![mapa pistas baqueira beret](etheria_images/2021/11/mapa-pistas-baqueira-1.jpg "Mapa de pistas de Baqueira/Beret.")
+![mapa pistas baqueira beret](etheria-images/2021/11/mapa-pistas-baqueira-1.jpg "Mapa de pistas de Baqueira/Beret.")
 
 Si te gusta esquiar, este año tienes muchas y buenas razones para acercarte a Baqueira 
 Beret. Y si vas desde Madrid o tienes que circular por la autopista que conecta Zaragoza 

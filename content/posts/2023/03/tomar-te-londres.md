@@ -1,11 +1,11 @@
 ---
 title: "Dónde tomar el té en Londres en lugares muy originales"
 date: 2023-03-15
-coverImage: etheria_images/2023/03/peter-pan-tomar-te-londres.jpg
+coverImage: etheria-images/2023/03/peter-pan-tomar-te-londres.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Tomar el té en Londres es una de las experiencias más auténticas y recomendables en una 
@@ -13,7 +13,7 @@ visita a la capital inglesa. Esta actividad se puede realizar en numerosos resta
 y hoteles pero también en lugares originales como un autobús o en un glamuroso teatro. 
 Toma nota de los más curiosos. 
 
-![Mesa con te y bollos para tomar el te en Londres](etheria_images/2023/03/hotel-te-londres.jpg "Hoteles y restaurantes ofrecen el "afternoon tea" en Londres.")
+![Mesa con te y bollos para tomar el te en Londres](etheria-images/2023/03/hotel-te-londres.jpg "Hoteles y restaurantes ofrecen el "afternoon tea" en Londres.")
 
 De la gastronomía inglesa no se suele saber mucho lejos de estas islas, aparte del 
 famoso _fish&chips_ y del pastel de carne, pero todo el mundo recuerda la afición al té 
@@ -27,7 +27,7 @@ hora habitual del destino para llegar con apetito al "afternoon tea".
 ✅ **No te pierdas el artículo:** [¿Es tan aburrida la comida de Gran Bretaña como 
 dicen?](https://etheriamagazine.com/2021/03/11/platos-britanicos-en-un-viaje-inglaterra-escocia-gales-irlanda/) 
 
-![Típica bandeja para servir los bocados dulces y salados cuando se toma el te en Londres](etheria_images/2023/03/tomar-te-londres.jpg "Típica bandeja para servir los bocados dulces y salados.")
+![Típica bandeja para servir los bocados dulces y salados cuando se toma el te en Londres](etheria-images/2023/03/tomar-te-londres.jpg "Típica bandeja para servir los bocados dulces y salados.")
 
 ## Sketch Gallery
 
@@ -37,7 +37,7 @@ en esta **mansión del siglo XVIII** te gustará, desde sus paredes de color ros
 asientos tapizados con terciopelo. Además, el servicio es tan exquisito que no querrás 
 marcharte de este lugar. Más información en [Sketch](http://www.sketch.london/the-gallery). 
 
-![Uno de los lugares más elegantes para tomar el té en Londres.](etheria_images/2023/03/tomar-te-teatro-real-londres.jpg "Uno de los lugares más elegantes para tomar el té en Londres. © Theatre Royal Drury Lane")
+![Uno de los lugares más elegantes para tomar el té en Londres.](etheria-images/2023/03/tomar-te-teatro-real-londres.jpg "Uno de los lugares más elegantes para tomar el té en Londres. © Theatre Royal Drury Lane")
 
 ## Theatre Royal Drury Lane
 
@@ -50,7 +50,7 @@ Royal](http://www.thelane.co.uk/eat-and-drink-venues/grand-saloon-afternoon-tea)
 
 Precio: 59 libras/ adultos y 35 libras/ niños (menú adaptado). 
 
-![Autobús turístico donde se puede tomar el té en Londres](etheria_images/2023/03/tomar-te-bus-londres.jpg "Autobús turístico donde se puede tomar el té en Londres. © Brigits Bakery")
+![Autobús turístico donde se puede tomar el té en Londres](etheria-images/2023/03/tomar-te-bus-londres.jpg "Autobús turístico donde se puede tomar el té en Londres. © Brigits Bakery")
 
 ## En un autobús
 
@@ -68,7 +68,7 @@ exclusivas).
 ✅ No te pierdas: [Un viaje a Londres en diez películas 
 inolvidables](https://etheriamagazine.com/2020/12/11/diez-peliculas-rodadas-en-londres/) 
 
-![Menú Romeo y Julieta en el hotel The Swan](etheria_images/2023/03/te-londres-hotel-elegante.jpg "Menú Romeo y Julieta en el © hotel The Swan.")
+![Menú Romeo y Julieta en el hotel The Swan](etheria-images/2023/03/te-londres-hotel-elegante.jpg "Menú Romeo y Julieta en el © hotel The Swan.")
 
 ## The Swan
 
@@ -79,7 +79,7 @@ Mientras se goza del momento, se puede degustar el [menú de Mr
 Falstaff](http://www.swanlondon.co.uk/afternoon-tea/) donde no faltan los _scones con 
 rarebit_ galés (bollitos de pan con queso fundido). Deliciosos. 
 
-![Menú Peter Pan para tomar el té en el restaurante Aqua Shard.](etheria_images/2023/03/peter-pan-tomar-te-londres.jpg "Menú Peter Pan para tomar el té en el © restaurante Aqua Shard.")
+![Menú Peter Pan para tomar el té en el restaurante Aqua Shard.](etheria-images/2023/03/peter-pan-tomar-te-londres.jpg "Menú Peter Pan para tomar el té en el © restaurante Aqua Shard.")
 
 ## Aqua Shard
 
@@ -93,7 +93,7 @@ cuantos selfis.
 
 Precio: desde 61 libras (sin champán). 
 
-![Mesa preparada en el hotel boutique Franklin.](etheria_images/2023/03/tomar-te-hotel-franklin-londres-850x531.jpg "Mesa preparada en el © hotel boutique Franklin.")
+![Mesa preparada en el hotel boutique Franklin.](etheria-images/2023/03/tomar-te-hotel-franklin-londres-850x531.jpg "Mesa preparada en el © hotel boutique Franklin.")
 
 ## The Franklin
 
@@ -107,7 +107,7 @@ en esta ocasión será más sencillo que nunca.
 
 Precio: 55 libras. 
 
-![Afternoon tea en el hotel Ampersand.](etheria_images/2023/03/Ampersand-Hotel-afternoon-tea.jpg "Afternoon tea en el hotel Ampersand. © VisitBritain/Luxmy Gopal")
+![Afternoon tea en el hotel Ampersand.](etheria-images/2023/03/Ampersand-Hotel-afternoon-tea.jpg "Afternoon tea en el hotel Ampersand. © VisitBritain/Luxmy Gopal")
 
 ## Hotel Ampersand  
 
@@ -120,7 +120,7 @@ Tea](http://www.ampersandhotel.com/eat-drink/the-drawing-rooms/science-afternoon
 no debe sorprender encontrar probetas, astronautas de chocolate o galletas con forma de 
 dinosaurio. 
 
-![Rica merienda para tomar el té en el hotel Kensington.](etheria_images/2023/03/hotel-Kensington-tomar-te.jpg "Rica merienda para tomar el té en el © hotel Kensington.")
+![Rica merienda para tomar el té en el hotel Kensington.](etheria-images/2023/03/hotel-Kensington-tomar-te.jpg "Rica merienda para tomar el té en el © hotel Kensington.")
 
 ## Hotel Kensington
 
@@ -135,7 +135,7 @@ Cairo.
 
 Precio: 58 libras. 
 
-![Mesa preparada para tomar el té en Biscuiteers](etheria_images/2023/03/tomar-te-londres-biscuiteers.jpg "© Biscuiteers.")
+![Mesa preparada para tomar el té en Biscuiteers](etheria-images/2023/03/tomar-te-londres-biscuiteers.jpg "© Biscuiteers.")
 
 ## Biscuiteers
 

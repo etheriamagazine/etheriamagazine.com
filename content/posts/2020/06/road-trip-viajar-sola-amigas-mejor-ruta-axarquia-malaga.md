@@ -1,18 +1,18 @@
 ---
 title: "Viajes por España. Road trip por la Axarquía malagueña"
 date: 2020-06-19
-coverImage: etheria_images/2020/06/viajar-sola-axarquia-competa.jpg
+coverImage: etheria-images/2020/06/viajar-sola-axarquia-competa.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Cristina Fdez
+authors: 
+  - Cristina Fernández
 ---
 
 Al amparo del espectacular paisaje del Parque Natural Sierras de Tejeda, Almijara y Alhama, y del inmenso —e intenso— Mediterráneo, la comarca de la Axarquía se despliega mostrando que existe otra Málaga más allá de los estereotipos: la que se recrea en sus arraigadas tradiciones, en sus pueblos blancos de postal y en un sinfín de razones por las que tomar carretera y manta. En Etheria Magazine te proponemos hacer esta ruta en coche por la Axarquía sin prisas y disfrutando de cada rincón.
 
-![Nerja, Axarquia, malaga, viajar sola malaga](etheria_images/2020/06/viajar-sola-Axarquia-Nerja-2.jpg "Paseo de Nerja (Axarquía, Málaga).")
+![Nerja, Axarquia, malaga, viajar sola malaga](etheria-images/2020/06/viajar-sola-Axarquia-Nerja-2.jpg "Paseo de Nerja (Axarquía, Málaga).")
 
 En ocasiones, para encontrar la magia solo hay que saber buscarla. Ahondar un poco más 
 allá de lo que se nos presenta a simple vista: hurgar en las profundidades, aquellas en 
@@ -33,7 +33,7 @@ escultura de **Alfonso XII, quien inauguró el mirador allá por el 1884**, para
 llevar después por la tentación de **bajar hasta la hermosa Calahonda y darse un remojón 
 bien fresquito.** 
 
-![playa Nerja, Axarquia, malaga, viajar sola malaga](etheria_images/2020/06/viajar-sola-Axarquia-Nerja-1.jpg "Playa de Nerja (Axarquía, Málaga).")
+![playa Nerja, Axarquia, malaga, viajar sola malaga](etheria-images/2020/06/viajar-sola-Axarquia-Nerja-1.jpg "Playa de Nerja (Axarquía, Málaga).")
 
 Pero Nerja es mucho más que playa, y solo hay que dar un paseo por su casco histórico 
 para darse cuenta de ello: sus casas de fachadas encaladas contrastan con el fucsia de 
@@ -48,7 +48,7 @@ las amantes de la gastronomía quizás prefieran poner la guinda al pastel en ot
 algo más sabroso como el [Chiringuito Ayo](http://www.ayonerja.com/), otro clásico de la 
 mítica serie en el que sirven una paella que está para quitarse el sombrero. 
 
-![chiringuito ayo, Axarquia, malaga, viajar sola malaga, Nerja](etheria_images/2020/06/viajar-sola-Axarquia-Nerja-Chiringuito-Ayo.jpg "Paella en el chiringuito Ayo de Nerja.")
+![chiringuito ayo, Axarquia, malaga, viajar sola malaga, Nerja](etheria-images/2020/06/viajar-sola-Axarquia-Nerja-Chiringuito-Ayo.jpg "Paella en el chiringuito Ayo de Nerja.")
 
 ## Frigiliana, la niña bonita de la Axarquía
 
@@ -62,7 +62,7 @@ visitar Barribarto, nombre con el que se conoce a su parte antigua y declarado
 nos hacen pensar en esa Andalucía de raíces instaladas desde hace siglos en sus 
 costumbres. 
 
-![Frigiliana, Axarquia, malaga](etheria_images/2020/06/frigiliana-axarquia.jpg "Frigiliana (Axarquía, Málaga). © P. Trabattoni")
+![Frigiliana, Axarquia, malaga](etheria-images/2020/06/frigiliana-axarquia.jpg "Frigiliana (Axarquía, Málaga). © P. Trabattoni")
 
 El paseo debe llevarnos hasta el **Jardín Botánico de Santa Fiora**, una hermosa zona 
 verde en la que crecen todas esas especies de plantas que han sido utilizadas durante la 
@@ -74,7 +74,7 @@ siglos —sería pecado no llevarnos de recuerdo uno de sus tarros— y el **mir
 cerro El Fuerte**, donde desde sus 963 metros de altura se obtienen una vistas 
 fascinantes de Frigiliana. 
 
-![mirador de competa, Axarquia, malaga, viajar sola malaga](etheria_images/2020/06/viajar-sola-axarquia-mirador-competa.jpg "Mirador de Cómpeta, en la Axarquía malagueña.")
+![mirador de competa, Axarquia, malaga, viajar sola malaga](etheria-images/2020/06/viajar-sola-axarquia-mirador-competa.jpg "Mirador de Cómpeta, en la Axarquía malagueña.")
 
 ## A las faldas de las Sierras de Almijara, Tejeda y Alhama
 
@@ -85,7 +85,7 @@ encontramos a las faldas del **Parque Natural Sierras de Tejeda, Almijara y Alha
 repente, aparece ante nosotras **Cómpeta**, otra de esas localidades que mantiene 
 latente su pasado árabe. 
 
-![competa, Axarquia, malaga, viajar sola malaga](etheria_images/2020/06/viajar-sola-axarquia-competa.jpg "Estampa tradicional de Cómpeta (Axarquía, Málaga).")
+![competa, Axarquia, malaga, viajar sola malaga](etheria-images/2020/06/viajar-sola-axarquia-competa.jpg "Estampa tradicional de Cómpeta (Axarquía, Málaga).")
 
 #### La tradición vinícola de Cómpeta
 
@@ -97,7 +97,7 @@ mar, se da forma y sabor a uno de los vinos más exquisitos de la provincia. ¿U
 de comprobarlo? Visitando [Bodegas Almijara](http://www.bodegasalmijara.com/), donde 
 aprenderlo todo sobre su cultivo y disfrutar de una cata final que sabrá a gloria. 
 
-![bodega almijara, competa, Axarquia, malaga, viajar sola malaga](etheria_images/2020/06/viajar-amigas-axarquia-competa-Bodega-Almijara.jpg "Bodega Almijara, de Cómpeta, en la Axarquía de Málaga.")
+![bodega almijara, competa, Axarquia, malaga, viajar sola malaga](etheria-images/2020/06/viajar-amigas-axarquia-competa-Bodega-Almijara.jpg "Bodega Almijara, de Cómpeta, en la Axarquía de Málaga.")
 
 Después de hacer una breve parada en el **mirador de Cómpeta**, con un diseño que 
 recuerda inevitablemente al estilo de Gaudí, y disfrutar de las vistas al pueblo y a 
@@ -112,7 +112,7 @@ Algo más al norte llega el turno de **Salares**, donde cada año, en el mes de
 septiembre, rememoran su pasado musulmán en su hermoso Festival Árabe Andalusí. Así es 
 como alcanzamos **Canillas de Albaida**. 
 
-![canillas de Albaida, Axarquia, malaga, viajar sola malaga](etheria_images/2020/06/viaje-mujeres-Axarquia-Canillas-de-Albaida.jpg "Alegre rincón de Canillas de Albaida.")
+![canillas de Albaida, Axarquia, malaga, viajar sola malaga](etheria-images/2020/06/viaje-mujeres-Axarquia-Canillas-de-Albaida.jpg "Alegre rincón de Canillas de Albaida.")
 
 Los suelos empedrados de este atractivo municipio nos invitan una vez más a andarlos y a 
 desandarlos para impregnarnos de la Axarquía más pura: **la de sus macetas repletas de 
@@ -128,7 +128,7 @@ feliz y el ánimo por las nubes, nos acercaremos a conocer el llamado **Paraje d
 Cuestas, el lugar en el que dos antiguas calzadas romanas se cruzan** y pasan al otro 
 lado del río Turvilla a través del Puente Romano. 
 
-![Sedella, Axarquia, malaga, viajar sola malaga](etheria_images/2020/06/viaje-mujeres-Axarquia-Sedella.jpg "Sedella (Axarquía, Málaga).")
+![Sedella, Axarquia, malaga, viajar sola malaga](etheria-images/2020/06/viaje-mujeres-Axarquia-Sedella.jpg "Sedella (Axarquía, Málaga).")
 
 ## Sedella: seguimos descubriendo la Axarquía
 
@@ -142,7 +142,7 @@ para cargarnos de su energía y nos recrearemos con esas estampas tan típicas d
 tanto nos gusta retratar. En el antiguo lavadero del pueblo, situado a la entrada, nos 
 despediremos mientras escribimos en el GPS un nuevo destino: **La Viñuela** nos espera. 
 
-![embalse Vinuela, Axarquia, malaga, viajar sola malaga](etheria_images/2020/06/viaje-mujeres-Axarquia-Vinuela-Embalse.jpg "Embalse de La Viñuela (Axarquía, Málaga).")
+![embalse Vinuela, Axarquia, malaga, viajar sola malaga](etheria-images/2020/06/viaje-mujeres-Axarquia-Vinuela-Embalse.jpg "Embalse de La Viñuela (Axarquía, Málaga).")
 
 ## La Viñuela o el placer de conectar con uno mismo
 
@@ -168,7 +168,7 @@ halla capitaneado por **María Herrero**, cabeza visible de la empresa familiar 
 arrancó con este proyecto hace ya un par de décadas y que gestiona con pasión y energía 
 siempre apostando por la calidad. 
 
-![hotel b bou, Axarquia, malaga, viajar sola malaga](etheria_images/2020/06/viajar-sola-hotel-axarquia-Hotel-B-bou-Vinuela-y-embalse.jpg "Hotel B bou La Viñuela & Spa, en Viñuela, con el embalse detrás.")
+![hotel b bou, Axarquia, malaga, viajar sola malaga](etheria-images/2020/06/viajar-sola-hotel-axarquia-Hotel-B-bou-Vinuela-y-embalse.jpg "Hotel B bou La Viñuela & Spa, en Viñuela, con el embalse detrás.")
 
 Jardines placenteros con vistas al embalse, un elegante spa en el que dejarse mimar, una 
 gastronomía que promueve el producto local y la excelencia, y un sinfín actividades para 

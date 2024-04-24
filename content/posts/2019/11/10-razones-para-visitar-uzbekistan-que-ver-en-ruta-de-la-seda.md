@@ -1,12 +1,12 @@
 ---
 title: "Uzbekistán, el país de las mil y una noches"
 date: 2019-11-28
-coverImage: etheria_images/2019/11/viaje-mujeres-uzbekistan-bukhara.jpg
+coverImage: etheria-images/2019/11/viaje-mujeres-uzbekistan-bukhara.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Ana Vara y David Santiago
 ---
 
@@ -15,7 +15,7 @@ Bukhara y Samarcanda. Por ellas pasaron las principales caravanas de mercaderes,
 incluidas las de Marco Polo. Si esto no te parece suficiente, te damos muchas más 
 razones para visitarlo en este artículo. 
 
-![Mezquita de Kalon.](etheria_images/2019/11/viaje-mujeres-uzbekistan-bukhara-900x598.jpg "Mezquita de Kalon. © David Santiago.")
+![Mezquita de Kalon.](etheria-images/2019/11/viaje-mujeres-uzbekistan-bukhara-900x598.jpg "Mezquita de Kalon. © David Santiago.")
 
 En Etheria Magazine hemos visitado estas tierras legendarias para contarte aquello que 
 deberías visitar y darte buenas razones para ello. De momento, aquí tienes 10 motivos 
@@ -33,7 +33,7 @@ comercialización de la seda levantó majestuosos edificios, muchos de ellos dec
 fortalezas mayestáticas… todo un mundo por descubrir. Pasea por sus calles e introdúcete 
 en una novela histórica donde tú eres la protagonista. 
 
-![Joven uzbeka en Khiva.](etheria_images/2019/11/viaje-mujeres-khiva-683x1024.jpg "Joven uzbeka en Khiva. ©D.S.")
+![Joven uzbeka en Khiva.](etheria-images/2019/11/viaje-mujeres-khiva-683x1024.jpg "Joven uzbeka en Khiva. ©D.S.")
 
 ### 2\. Uzbekistán, el país de 'Las mil y una noches'
 
@@ -44,7 +44,7 @@ seda** ha sido un itinerario de sabiduría popular, donde la influencia de tanta
 culturas y tradiciones han aportado conocimiento y, sobre todo, **tolerancia y 
 respeto**. 
 
-![Mujeres en el mercado de Tashkent.](etheria_images/2019/11/viaje-mujeres-uzbekistan-tashkent-risas-900x600.jpg "Mujeres en el mercado de Tashkent. ©D.S.")
+![Mujeres en el mercado de Tashkent.](etheria-images/2019/11/viaje-mujeres-uzbekistan-tashkent-risas-900x600.jpg "Mujeres en el mercado de Tashkent. ©D.S.")
 
 ### 3\. Su carácter multiétnico
 
@@ -54,7 +54,7 @@ curiosos y acogedores. No será extraño que alguna familia te invite a comer o 
 compartir con ellos otras experiencias puesto que les encanta relacionarse con personas 
 de otras procedencias. 
 
-![Puerta de Ata Darwaza, en Itchan-Kala, la ciudad vieja de Khiva.](etheria_images/2019/11/uzbekistan-viaje-khiva-900x600.jpg "Puerta de Ata Darwaza, en Itchan-Kala, la ciudad vieja de Khiva. © D.S.")
+![Puerta de Ata Darwaza, en Itchan-Kala, la ciudad vieja de Khiva.](etheria-images/2019/11/uzbekistan-viaje-khiva-900x600.jpg "Puerta de Ata Darwaza, en Itchan-Kala, la ciudad vieja de Khiva. © D.S.")
 
 ### 4\. Khiva, un museo de adobe al aire libre
 
@@ -67,7 +67,7 @@ arquitectónico de Pakhlavan-Makhmud, la congregación Juma Mosque con columnas 
 de asombrosa belleza, o el exquisito **palacio Tash-Hauli** construido en el siglo XIX 
 como residencia del emir, su séquito y su harén. 
 
-![Mir-i-Arab Madrasa de Bukhara.](etheria_images/2019/11/viaje-mujeres-uzbekistan-bukhara-1-900x600.jpg "Mir-i-Arab Madrasa de Bukhara. ©D.S.")
+![Mir-i-Arab Madrasa de Bukhara.](etheria-images/2019/11/viaje-mujeres-uzbekistan-bukhara-1-900x600.jpg "Mir-i-Arab Madrasa de Bukhara. ©D.S.")
 
 ### 5\. Bukhara, la ciudad santa de Uzbekistán
 
@@ -79,7 +79,7 @@ que escoltan al **minarete Kalon**; o en la madrasa Abdulaziz Khan o en la forta
 Arca. También en sus bazares, con esas cúpulas de adobe, son el deleite de los 
 visitantes de esta maravillosa ciudad. 
 
-![Taqi-Sarrafon Bazaar de Bukhara.](etheria_images/2019/11/viaje-bukhara-900x600.jpg "Taqi-Sarrafon Bazaar de Bukhara. ©D.S.")
+![Taqi-Sarrafon Bazaar de Bukhara.](etheria-images/2019/11/viaje-bukhara-900x600.jpg "Taqi-Sarrafon Bazaar de Bukhara. ©D.S.")
 
 ### 6\. Samarcanda, la perla del este
 
@@ -92,7 +92,7 @@ Sus tres imponentes madrasas –cada una de las cuales tiene su propio diseño�
 parte de este conjunto arquitectónico, uno de los más imponentes de Uzbekistán y del 
 mundo islámico. 
 
-![Samarcanda](etheria_images/2019/11/uzbekistan-viaje-samarkanda-900x600.jpg "Samarcanda. ©D.S.")
+![Samarcanda](etheria-images/2019/11/uzbekistan-viaje-samarkanda-900x600.jpg "Samarcanda. ©D.S.")
 
 ### 7\. Shakhrisabz la cuna del gran Tamerlán
 
@@ -103,7 +103,7 @@ aquellos tiempos: el Ak-Saraj. De él solo quedan dos pilares de la puerta monum
 entrada (que tení­a más de 70 metros de alto), la mezquita Kok-Gumbaz y los mausoleos de 
 Dor-us Saodat, Shamsuddin Kulal y Gumbazi-seyidan. 
 
-![Anciana de Shakhrisabz.](etheria_images/2019/11/mujer-viaje-Shakhrisabz-683x1024.jpg "Anciana de Shakhrisabz. ©D.S.")
+![Anciana de Shakhrisabz.](etheria-images/2019/11/mujer-viaje-Shakhrisabz-683x1024.jpg "Anciana de Shakhrisabz. ©D.S.")
 
 ### 8\. La moderna Tashkent
 
@@ -111,7 +111,7 @@ Dor-us Saodat, Shamsuddin Kulal y Gumbazi-seyidan.
 **Tashkent**. El desarrollo económico y la modernización se aprecian en esta ciudad de 
 una manera diferente a otras ciudades más turísticas del oeste. 
 
-![La madrasa de Barak-Khan, del siglo XVI, se encuentra en Tashkent.](etheria_images/2019/11/viaje-mujeres-uzbekistan-tashkent-900x600.jpg "La madrasa de Barak-Khan, del siglo XVI, se encuentra en Tashkent. © D.S.")
+![La madrasa de Barak-Khan, del siglo XVI, se encuentra en Tashkent.](etheria-images/2019/11/viaje-mujeres-uzbekistan-tashkent-900x600.jpg "La madrasa de Barak-Khan, del siglo XVI, se encuentra en Tashkent. © D.S.")
 
 Con sus amplias avenidas en el centro y sus parques, tendrás la impresión de estar en 
 una moderna ciudad de Norteamérica. Aunque solo por un instante, ya que los militares 
@@ -121,7 +121,7 @@ visita las **madrasas Kukaldosh y Barak Khan**, el mausoleo Kaffal Shasi y la bi
 donde se conserva el Corán Usman, un manuscrito de altí­simo valor, fechado en el siglo 
 VII. 
 
-![Interior de la mezquita de Jami, en Hazrat.](etheria_images/2019/11/mujeres-bailando-tashkent-900x600.jpg "Interior de la mezquita de Jami, en Hazrat. ©D.S.")
+![Interior de la mezquita de Jami, en Hazrat.](etheria-images/2019/11/mujeres-bailando-tashkent-900x600.jpg "Interior de la mezquita de Jami, en Hazrat. ©D.S.")
 
 ### 9\. Un pequeño homenaje al pan en Uzbekistán
 
@@ -132,7 +132,7 @@ de aceite– y tiene un sabor delicioso ¿El secreto? las estufas de barro donde
 hornean, llamadas Tandyr, un curioso óvalo con una apertura en la parte frontal, en cuyo 
 interior sitúan las piezas de pan ¡Dicen que no engorda! 
 
-![Yodgorlik Silk Factory, en Margiland.](etheria_images/2019/11/uzbekistan-artesania-margiland-900x600.jpg "Yodgorlik Silk Factory, en Margiland. ©D.S.")
+![Yodgorlik Silk Factory, en Margiland.](etheria-images/2019/11/uzbekistan-artesania-margiland-900x600.jpg "Yodgorlik Silk Factory, en Margiland. ©D.S.")
 
 ### 10\. El valle de Fergana
 
@@ -145,7 +145,7 @@ posibilidad de descubrir la **vida tradicional uzbeka**. Los mercados son un pla
 los sentidos y la gente es realmente amable. Es una delicia observar los diferentes 
 rostros y rasgos de las personas, en los que la mezcla de pueblos es evidente y bella. 
 
-![Blue Ceramics, en Rishtan.](etheria_images/2019/11/uzbekistan-kokando-683x1024.jpg "Blue Ceramics, en Rishtan. © D.S.")
+![Blue Ceramics, en Rishtan.](etheria-images/2019/11/uzbekistan-kokando-683x1024.jpg "Blue Ceramics, en Rishtan. © D.S.")
 
 ### Dudas frecuentes para viajar a Uzbekistán
 

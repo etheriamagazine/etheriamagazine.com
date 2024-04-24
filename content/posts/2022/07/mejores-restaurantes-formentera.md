@@ -1,7 +1,7 @@
 ---
 title: "Dónde comer bien en Formentera sin perder de vista la mano femenina"
 date: 2022-07-27
-coverImage: etheria_images/2022/07/Formentera-Fandango.jpg
+coverImage: etheria-images/2022/07/Formentera-Fandango.jpg
 categories: 
   - viajes-con-amigas
   - organiza-tu-viaje
@@ -9,13 +9,13 @@ categories:
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Elisabeth G. Iborra
 ---
 
 Elisabeth G. Iborra nos invita a conocer la vertiente gastronómica de Formentera y, de paso, también sus playas y bellos paisajes. Incluye referencias concretas a los restaurantes que merecen la pena fuera del ‘postureo’ de la isla y con una atención especial a las mujeres que lideran interesantes proyectos gastronómicos.
 
-![Sara Valls, del restaurante Janis, en Formerntera.](etheria_images/2022/07/formentera-sara-valls.jpg "Sara Valls, del restaurante Janis, en Formerntera.")
+![Sara Valls, del restaurante Janis, en Formerntera.](etheria-images/2022/07/formentera-sara-valls.jpg "Sara Valls, del restaurante Janis, en Formerntera.")
 
 Formentera es una isla esencialmente cara. Eso quiere decir que en la mayor parte de sus 
 restaurantes, bares y chiringuitos no es barato comer bien. Y como lo vas a pagar igual, 
@@ -34,7 +34,7 @@ huéspedes sencilla y muy limpia que está en San Francisco Javier, la ‘capita
 increíblemente económica y, desde ahí, puedes moverte en bici, en coche o en moto hacia 
 todos los puntos cardinales. 
 
-![Fandango, restaurante con vistas al mar en Formentera](etheria_images/2022/07/Formentera-Fandango.jpg "Fandango Formentera.")
+![Fandango, restaurante con vistas al mar en Formentera](etheria-images/2022/07/Formentera-Fandango.jpg "Fandango Formentera.")
 
 ### Agenda para tu ruta gastro:
 
@@ -54,7 +54,7 @@ Allí reina la **chef Ana Jiménez**, que encontró la paz que no hallaba en Bar
 la que se conoce como “la Isla de las Mujeres”, aparte de por un tema histórico porque 
 saca de nosotras toda la feminidad a la par que la fortaleza para poder con todo. 
 
-![Chef Ana Jiménez en el restaurante Quimera.](etheria_images/2022/07/formentera-quimera.jpg "Ana Jiménez en el restaurante Quimera.")
+![Chef Ana Jiménez en el restaurante Quimera.](etheria-images/2022/07/formentera-quimera.jpg "Ana Jiménez en el restaurante Quimera.")
 
 Y ella ha podido ir escalando desde la sala del extinto Can Dani hasta conseguir varios 
 soles Repsol y una estrella Michelin con su cocina sabrosa y de raíces mediterráneas con 
@@ -72,7 +72,7 @@ nos desvela que “a Formentera se le llamaba la isla de las mujeres porque los 
 tuvieron que emigrar a Latinoamérica y se quedaron aquí las mujeres luchando solas con 
 sus hijos por salir adelante”. Como hacen las chefs ahora. 
 
-![Piscina de hotel Hotel Five Flowers, en Formentera](etheria_images/2022/07/formentera-five-flowers.jpg "Hotel Five Flowers.")
+![Piscina de hotel Hotel Five Flowers, en Formentera](etheria-images/2022/07/formentera-five-flowers.jpg "Hotel Five Flowers.")
 
 En su menú '19 kilómetros' te vas a comer la isla en 12 pases con un servicio de lujo 
 que orquesta el maitre y sumiller Pedro Sousa. Para empezar, nada más que el pan brioche 
@@ -96,7 +96,7 @@ turquesas bajándote la presión. Escoger en su carta es difícil entre el maris
 con unas gambas de la isla que quitan el _sentío_; la parrilla o los arroces tipo 
 caldoso con bogavante, de chuletón o rojo de carabineros, entre otros. 
 
-![Arroces en Fandango Formentera.](etheria_images/2022/07/Formentera-Fandango-Arroces.jpg "Arroces en Fandango Formentera.")
+![Arroces en Fandango Formentera.](etheria-images/2022/07/Formentera-Fandango-Arroces.jpg "Arroces en Fandango Formentera.")
 
 Yo opté por la especialidad de langosta con patatas, pimientos del padrón, huevos fritos 
 y sobrasada y es una gran idea, pero eché de menos a todos mis ex, porque habríamos 
@@ -116,7 +116,7 @@ su sello que se los puede permitir cualquiera. Tienen hasta vinos de propiedad q
 diseña el chef directamente con algunas bodegas selectas y sólo los puedes probar en sus 
 restaurantes. 
 
-![Casa Natalia, un buen restaurante en Formentera](etheria_images/2022/07/formentera-casa-natalia.jpg "Casa Natalia.")
+![Casa Natalia, un buen restaurante en Formentera](etheria-images/2022/07/formentera-casa-natalia.jpg "Casa Natalia.")
 
 Has de catar su champagne "Aubry primer cru" con la anchoa con mantequilla ahumada, su 
 mítico bikini, así como la ostra Tsukiyi con ponzu, kizame, hueva de tobiko, y ostra 
@@ -138,7 +138,7 @@ Kabuki Wellington. La otra barra está en [Ca na
 Joana](https://restaurant-ca-na-joana.business.site/), en San Francesc, una antigua casa 
 payesa con un patio con buganvillas y piano en directo. 
 
-![Sashimi de BICHI Ínsula Beach.](etheria_images/2022/07/bichi-beach-Sashimi-de-pescado.jpg "Sashimi de BICHI Ínsula Beach.")
+![Sashimi de BICHI Ínsula Beach.](etheria-images/2022/07/bichi-beach-Sashimi-de-pescado.jpg "Sashimi de BICHI Ínsula Beach.")
 
 Yo, para almorzar, me pedí el combo de sushi y sashimi que suele ser para dos pero me lo 
 hicieron para una y flipé con el pez mantequilla con trufa y los dos de vieira con 
@@ -171,7 +171,7 @@ coge uno de los [buses
 públicos](https://busformentera.com/lineas-regulares-autobus-formentera/) y contempla 
 las vistas de los 69 km de costas de Levante y de Poniente a vista de pájaro. 
 
-![La torre Gavina es uno de los edificios más reconocibles desde el mar.](etheria_images/2022/07/torre-gavina-formentera.jpg "La torre Gavina es uno de los edificios más reconocibles desde el mar.")
+![La torre Gavina es uno de los edificios más reconocibles desde el mar.](etheria-images/2022/07/torre-gavina-formentera.jpg "La torre Gavina es uno de los edificios más reconocibles desde el mar.")
 
 ### 7\. Restaurante Cafuné, dirigido por María Ortiz
 
@@ -198,7 +198,7 @@ Una buena muestra del nivelazo que tiene esta cocinera que define su cocina como
 autóctono. En sala, Rubén Sánchez Sánchez ha apostado por dar protagonismo a los vinos 
 gallegos, que son más ligeros y distinguen su cava de las demás cartas de la isla. 
 
-![playa con bicicletas en Formentera](etheria_images/2022/07/Formentera-bicicletas.jpg "Recorrer Formentera en bicicleta es una excelente opción. © Bogdan Dada")
+![playa con bicicletas en Formentera](etheria-images/2022/07/Formentera-bicicletas.jpg "Recorrer Formentera en bicicleta es una excelente opción. © Bogdan Dada")
 
 ### 9\. Dos por uno: Real Playa y Sa Platgleta
 
@@ -216,7 +216,7 @@ Mi sueño eterno es el arroz negro con marisco, hasta patas de araña lleva, a v
 has visto tú eso por 24 euros. Y después, siempre te puedes tirar rodando hasta la arena 
 de la playa a tomar el sol desnuda tras el chupito de licor de hierbas. 
 
-![Camino de madera en Formentera](etheria_images/2022/07/illetas-formentera.jpg "Acceso a la playa en Ses Illetes.")
+![Camino de madera en Formentera](etheria-images/2022/07/illetas-formentera.jpg "Acceso a la playa en Ses Illetes.")
 
 Y el servicio ya lo quisieran en Juan y Andrea, un lugar famoso en el Parque Natural de 
 Ses Illetes por sus elevados precios. En general, en esa playa donde fondean los yates 
@@ -238,7 +238,7 @@ perdición para cualquier _winelover_, pues no hay ni una normal, ni uno comerci
 verdaderas joyitas que te ponen por copas con amabilidad casi paternal. Gran lugar para 
 conocer a gente interesante. 
 
-![Dos platos de Sol Post, un restaurante en Formentera muy recomendable.](etheria_images/2022/07/formentera-restaurante-sol.jpg "Platos del restaurante Sol Post.")
+![Dos platos de Sol Post, un restaurante en Formentera muy recomendable.](etheria-images/2022/07/formentera-restaurante-sol.jpg "Platos del restaurante Sol Post.")
 
 ### 10\. Restaurante Sol Post, con la pastelera Clara Campoamor
 
@@ -260,7 +260,7 @@ Con esas maravillosas vistas, tienes también el [chiringuito
 Sol](https://restaurantsol.com), que está a cargo del mismo chef ejecutivo, así que el 
 éxito está igualmente asegurado. 
 
-![Faro de Cap de Babaria, en Formentera](etheria_images/2022/07/Formentera-cap-barbaria.jpg "Cap de Babaria.")
+![Faro de Cap de Babaria, en Formentera](etheria-images/2022/07/Formentera-cap-barbaria.jpg "Cap de Babaria.")
 
 ## Las mejores bodegas de Formentera
 
@@ -270,7 +270,7 @@ unos vinos bendecidos por la crítica, como el blanco Hippy, que de hippy tiene 
 nombre; el tinto semicrianza Ophiusa y el crianza Cap de Barbaria, que deberías llevarte 
 a casita para bebértelo con un chuletón. 
 
-![4 botellas de vino de la bodega Terramoll.](etheria_images/2022/07/Formentera-vinos-Terramoll.jpg "Vinos de la bodega Terramoll.")
+![4 botellas de vino de la bodega Terramoll.](etheria-images/2022/07/Formentera-vinos-Terramoll.jpg "Vinos de la bodega Terramoll.")
 
 La otra bodega es **Terramol**, que está en la carretera de la Mola (km 15,2). Te 
 gustarán su vermú suave y su blanco Savina, ligero, perfecto para "chiringuitear". 
@@ -284,7 +284,7 @@ cocina, es otro de los jóvenes que están poniendo la isla en todo lo alto de l
 gastronomía intentando no abusar de los precios por el hecho de que muchos lo hagan y 
 haya clientes que lo puedan pagar. 
 
-![Parrilla del restaurante Asar, uno de los restaurantes en Formentera más recomendables.](etheria_images/2022/07/Formentera-Asar.jpg "Carnes de primera en el restaurante Asar.")
+![Parrilla del restaurante Asar, uno de los restaurantes en Formentera más recomendables.](etheria-images/2022/07/Formentera-Asar.jpg "Carnes de primera en el restaurante Asar.")
 
 Tanto es así que, haciendo este reportaje, la conclusión es clara: en los restaurantes 
 en Formentera sale más económico probar las artes culinarias de chefs que ofrecen mayor 

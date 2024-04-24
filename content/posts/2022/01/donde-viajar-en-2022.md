@@ -1,14 +1,14 @@
 ---
 title: "12 buenas excusas para viajar en 2022"
 date: 2022-01-07
-coverImage: etheria_images/2022/01/museo-Munch.jpg
+coverImage: etheria-images/2022/01/museo-Munch.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Comenzar un nuevo año es como disponer de un lienzo en blanco en el que ir esbozando el 
@@ -18,7 +18,7 @@ porque merece la pena que los descubras cuanto antes. 12 destinos y 12 motivos p
 viajar en 2022 (aunque tú y yo sabemos que para hacer una escapada no hacen falta 
 justificaciones). 
 
-![gran museo egipto viajar en 2022](etheria_images/2022/01/Grand-Egyptian-Museum.jpg "© Gran Museo Egipcio")
+![gran museo egipto viajar en 2022](etheria-images/2022/01/Grand-Egyptian-Museum.jpg "© Gran Museo Egipcio")
 
 ## 1\. Conocer los nuevos museos de Egipto
 
@@ -31,7 +31,7 @@ que será el mayor museo de arqueología del mundo. Este nuevo espacio acogerá 
 cinco mil proceden de la tumba de Tutankamón –también se cumplen cien años de su 
 descubrimiento, una excusa más–. 
 
-![langostinos sanlucar barrameda viajar en 2022](etheria_images/2022/01/langostino-sanlucar-cadiz.jpg "Langostinos de Sanlúcar de Barrameda. © Turismo Andaluz")
+![langostinos sanlucar barrameda viajar en 2022](etheria-images/2022/01/langostino-sanlucar-cadiz.jpg "Langostinos de Sanlúcar de Barrameda. © Turismo Andaluz")
 
 ## 2\. Comer langostinos en Sanlúcar de Barrameda
 
@@ -43,7 +43,7 @@ los tesoros culturales de [Sanlúcar de Barrameda](https://www.sanlucarturismo.c
 Entre sus más de 150 bares y restaurantes y sus 21 bodegas, sólo te faltarán días para 
 probarlos todos. 
 
-![catedral santiago compostela viajar en 2022](etheria_images/2021/07/catedral-santiago-compostela.jpg "Catedral de Santiago de Compostela, punto final de la Ruta Jacobea marítima. © Pepa G.")
+![catedral santiago compostela viajar en 2022](etheria-images/2021/07/catedral-santiago-compostela.jpg "Catedral de Santiago de Compostela, punto final de la Ruta Jacobea marítima. © Pepa G.")
 
 ## 3\. Conseguir la compostela en otro año xacobeo
 
@@ -57,7 +57,7 @@ oficialmente ha sido el Camino de Santiago marítimo, del que ya te hablamos en 
 artículo: [Camino de Santiago por la Ría de Muros-Noia, una aventura a toda 
 vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/). 
 
-![viaje ninos paris, que hacer en disneyland, diversion en disneyland](etheria_images/2018/10/Disneyland-viaje-familia-7-1024x683.jpg "Disneyland Paris.")
+![viaje ninos paris, que hacer en disneyland, diversion en disneyland](etheria-images/2018/10/Disneyland-viaje-familia-7-1024x683.jpg "Disneyland Paris.")
 
 ## 4\. Bailar con un Mickey Mouse treintañero
 
@@ -69,7 +69,7 @@ atracciones como los personajes brillarán más que nunca. Sin duda, es una exce
 excusa para visitar **Disneyland París**, así como el **Parque Walt Disney Studios**, 
 más pequeño que el anterior y pensado para adultos, y la capital francesa. 
 
-![hotel de lujo Mandarin Oriental Madrid](etheria_images/2021/07/Mandarin-Oriental-RitzPalm-Court.jpg "Zona del restaurante Palm Court en el © Ritz Mandarin Oriental.")
+![hotel de lujo Mandarin Oriental Madrid](etheria-images/2021/07/Mandarin-Oriental-RitzPalm-Court.jpg "Zona del restaurante Palm Court en el © Ritz Mandarin Oriental.")
 
 ## 5\. Alojarte en un hotel de lujo en Madrid
 
@@ -79,7 +79,7 @@ principales firmas internacionales, restaurantes con estrella Michelin y una ofe
 ocio variada se ha convertido en un destino muy a tener en cuenta para disfrutar de 
 experiencias relacionadas con la cultura y la gastronomía. 
 
-![Cúpula de Calatrava expo dubai viajar en 2022](etheria_images/2021/12/Expo-Dubai-pabellon-Emiratos.jpg "Cúpula de Calatrava y artesanía tradicional en el pabellón de EAU. © SG")
+![Cúpula de Calatrava expo dubai viajar en 2022](etheria-images/2021/12/Expo-Dubai-pabellon-Emiratos.jpg "Cúpula de Calatrava y artesanía tradicional en el pabellón de EAU. © SG")
 
 ## 6\. Visitar la ciudad de la Expo 2020 Dubai
 
@@ -91,7 +91,7 @@ como el Burj Al Arab e islas artificiales repletas de resorts. Dubái es uno de 
 sitios que hay que conocer, aunque sea para 
 criticarlo...[](https://etheriamagazine.com/wp-admin/edit.php?post_type=post) 
 
-![museo munch oslo](etheria_images/2022/01/museo-Munch.jpg "Museo Munch de Oslo. © Einar Aslaksen")
+![museo munch oslo](etheria-images/2022/01/museo-Munch.jpg "Museo Munch de Oslo. © Einar Aslaksen")
 
 ## 7\. Admirar El Grito en su nuevo museo de Oslo
 
@@ -111,7 +111,7 @@ permanente.
 ? Si es tu primera visita, sigue leyendo: [Oslo: Qué ver en una primera 
 visita.](https://etheriamagazine.com/2020/01/24/viajes-con-amigas-que-ver-y-hacer-en-oslo/) 
 
-![gran telescopio canaras, estrellas la palma, astroturismo](etheria_images/2019/03/viajar-sola-la-palma-mirador-telescopio-canarias.jpg "Gran Telescopio Canarias. © Toño González")
+![gran telescopio canaras, estrellas la palma, astroturismo](etheria-images/2019/03/viajar-sola-la-palma-mirador-telescopio-canarias.jpg "Gran Telescopio Canarias. © Toño González")
 
 ## 8\. Apoyar al turismo de La Palma
 
@@ -125,7 +125,7 @@ de nubes, y esto fue lo que te contamos: [10 poderosas razones para viajar a La 
 ninguna es el 
 volcán).](https://etheriamagazine.com/2021/11/15/10-razones-para-visitar-la-palma/) 
 
-![agra india](etheria_images/2020/01/viaje-mujeres-india-Agra-2-900x601.jpg "Taj Mahal, en India. © Juan Carlos Muñpz")
+![agra india](etheria-images/2020/01/viaje-mujeres-india-Agra-2-900x601.jpg "Taj Mahal, en India. © Juan Carlos Muñpz")
 
 ## 9\. Brindar por la independencia de la India
 
@@ -138,7 +138,7 @@ India cuando se es
 mujer](https://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/). ¿Estás 
 dispuesta a brindar el próximo verano en este país? 
 
-![museo corpus, viaje leiden](etheria_images/2019/11/viaje-leiden-museo-corpus-900x634.jpg "Museo Corpus, en Leiden. © P.Grifol")
+![museo corpus, viaje leiden](etheria-images/2019/11/viaje-leiden-museo-corpus-900x634.jpg "Museo Corpus, en Leiden. © P.Grifol")
 
 ## 10\. Descubrir la faceta científica de Leiden
 
@@ -150,7 +150,7 @@ esta ciudad de Países Bajos ha sido reconocida como **Capital Europea de la Cie
 Durante todo el año se realizarán actividades, exposiciones, congresos y decenas de 
 eventos de gran interés. 
 
-![olvera. pueblos blancos cadiz, pueblos mas bonitos españa](etheria_images/2018/10/Olvera-pueblos-blancos-683x1024.jpg "Bajada del castillo de Olvera, Cádiz. © Etheria Magazine")
+![olvera. pueblos blancos cadiz, pueblos mas bonitos españa](etheria-images/2018/10/Olvera-pueblos-blancos-683x1024.jpg "Bajada del castillo de Olvera, Cádiz. © Etheria Magazine")
 
 ## 11\. Comprobar la belleza de Olvera
 
@@ -163,7 +163,7 @@ Olvera como el resto de poblaciones que forman el itinerario. De esta ruta ya te
 hablamos en [Ruta en coche por 12 preciosos pueblos blancos de 
 Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/). 
 
-![Humboldt Forum berlin viajar en 2022](etheria_images/2021/09/Berlin-Humboldt-Forum.jpg "Humboldt Forum.© Visit Berlin/Chris Martin Scholl")
+![Humboldt Forum berlin viajar en 2022](etheria-images/2021/09/Berlin-Humboldt-Forum.jpg "Humboldt Forum.© Visit Berlin/Chris Martin Scholl")
 
 ## 12\. Visitar el Humboldt Forum de Berlín
 

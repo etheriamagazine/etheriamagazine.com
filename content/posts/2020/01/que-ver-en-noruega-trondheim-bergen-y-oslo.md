@@ -1,10 +1,10 @@
 ---
 title: "Trondheim, Bergen y Oslo, las 3 capitales de Noruega"
 date: 2020-01-24
-coverImage: etheria_images/2020/01/Noruega-Trondheim-Nidelva-portada.jpg
+coverImage: etheria-images/2020/01/Noruega-Trondheim-Nidelva-portada.jpg
 categories: 
   - viajes-con-amigas
-author: 
+authors: 
   - Marina Paul
 ---
 
@@ -12,7 +12,7 @@ Noruega se identifica con naturaleza pura pero también tiene un triángulo dora
 formado por Trondheim, Bergen y Oslo. En Etheria Magazine hemos recorrido estas tres 
 ciudades para que tú misma puedas organizar por libre una escapada a este país. 
 
-![Casas de colores junto al río Nidelva, a su paso por Trondheim.](etheria_images/2020/01/Noruega-Trondheim-Nidelva-portada-900x657.jpg "Casas de colores junto al río Nidelva, a su paso por Trondheim. @ Marina Paul")
+![Casas de colores junto al río Nidelva, a su paso por Trondheim.](etheria-images/2020/01/Noruega-Trondheim-Nidelva-portada-900x657.jpg "Casas de colores junto al río Nidelva, a su paso por Trondheim. @ Marina Paul")
 
 La capital de Noruega no ha estado siempre en la misma ciudad, sino que a lo largo de la 
 historia ha pasado por varias poblaciones: primero, **Trondheim**; allá por el siglo 
@@ -37,7 +37,7 @@ país. Hoy en día, todavía esconde magníficos callejones donde perderse, fuer
 jugar a ser caballero o lugares tan 'instagramables' como los antiguos **almacenes de 
 colores junto al río Nidelva**, que se han convertido en la imagen de la ciudad. 
 
-![Puente Viejo de Trondheim (Noruega).](etheria_images/2020/01/Noruega-Trondheim-puente-900x600.jpg "Puente Viejo de Trondheim (Noruega). © M.P.")
+![Puente Viejo de Trondheim (Noruega).](etheria-images/2020/01/Noruega-Trondheim-puente-900x600.jpg "Puente Viejo de Trondheim (Noruega). © M.P.")
 
 ### ¿Qué ver y hacer en Trondheim?
 
@@ -53,7 +53,7 @@ la felicidad, pero sí que es precioso y que tiene las mejores vistas de las fam
 como descargar mercancía (en muchos casos, pescado) y prepararla para su 
 comercialización. 
 
-![Catedral de Nidaros, en Trondheim.](etheria_images/2020/01/noruega-Nidaros-Cathedral-Trondheim-900x620.jpg "Catedral de Nidaros, en Trondheim. © Visit Norway")
+![Catedral de Nidaros, en Trondheim.](etheria-images/2020/01/noruega-Nidaros-Cathedral-Trondheim-900x620.jpg "Catedral de Nidaros, en Trondheim. © Visit Norway")
 
 El Puente Viejo también sirve de entrada al **barrio de Bakklandet**, la parte antigua y 
 más pintoresca de Trondheim. Un barrio de coloridas casas convertidas en acogedoras 
@@ -67,7 +67,7 @@ tu lista de cosas a hacer en Trondheim deberás incluir el subir hasta la **fort
 Kristiansten**, una estructura defensiva construida en 1684 para ver a los enemigos que 
 llegaban por la zona oriental. 
 
-![Agradable ambiente del barrio Bakklandet.](etheria_images/2020/01/noruega-Baklandet-Skydsstation-900x600.jpg "Agradable ambiente del barrio Bakklandet. © Martin Håndlykken/ Visit Norway")
+![Agradable ambiente del barrio Bakklandet.](etheria-images/2020/01/noruega-Baklandet-Skydsstation-900x600.jpg "Agradable ambiente del barrio Bakklandet. © Martin Håndlykken/ Visit Norway")
 
 ### ¿Cómo llegar y moverse por Trondheim?
 
@@ -85,7 +85,7 @@ Existen varias formas de llegar a Trondheim. Te las enumeramos:
 - **En tren**. La **Dovre Railway** es la línea ferroviaria que comunica Trondheim con Oslo en 7 horas. El trayecto está considerado uno de los más bonitos del país. Es recomendable reservar los billetes (www.vy.no/en) con antelación, debido a su elevada demanda. Si por el contrario, te diriges al norte, tranquila, Trondheim también está conectada con Bodø en tren.
 - **Por aire**. Trondheim cuenta con uno de los principales aeropuertos de Noruega, que dispone de vuelos nacionales de las compañías Wideroe, Norwegian y SAS Airlines. Para volar a ciudades como Helsinki, Estocolmo o Amsterdam, consulta las frecuencias de Finnair, KLM o Norwegian Internacional. Actualmente, **Norwegian Airlines** ofrece vuelos directos a varias ciudades españolas como Málaga, Barcelona o Alicante, un destino veraniego muy popular entre los noruegos.
 
-![Bryggen, con sus casas de colores alineadas, es la imagen más conocida de Bergen.](etheria_images/2020/01/Noruega-Bergen-Bryggen-900x600.jpg "Bryggen, con sus casas de colores alineadas, es la imagen más conocida de Bergen. © M.P.")
+![Bryggen, con sus casas de colores alineadas, es la imagen más conocida de Bergen.](etheria-images/2020/01/Noruega-Bergen-Bryggen-900x600.jpg "Bryggen, con sus casas de colores alineadas, es la imagen más conocida de Bergen. © M.P.")
 
 ## Bergen, capital de los fiordos del sur
 
@@ -99,7 +99,7 @@ ocasiones debido a los incendios que ha sufrido la ciudad. Por esa misma razón,
 autoridades prohibieron, hace un siglo, el uso de madera para la construcción de 
 edificios. 
 
-![Mercado del Pescado de Bergen.](etheria_images/2020/01/Fishmarket-in-Bergen-900x598.jpg "Mercado del Pescado de Bergen. © CH/ Visit Norway")
+![Mercado del Pescado de Bergen.](etheria-images/2020/01/Fishmarket-in-Bergen-900x598.jpg "Mercado del Pescado de Bergen. © CH/ Visit Norway")
 
 ### ¿Qué ver y hacer en Bergen?
 
@@ -121,7 +121,7 @@ museos. Entre ellos, se encuentran el **Museo Occidental de las Artes Decorativa
 **Museo Edvard Grieg**, el compositor más famoso de Noruega, y el **Museo del Viejo 
 Bergen**, donde hay reproducciones de viviendas de todo el país. 
 
-![Gamle Museum.](etheria_images/2020/01/Gamle-Bergen-Museum-900x600.jpg "Gamle Museum. © Martin Håndlykken/ Visit Norway")
+![Gamle Museum.](etheria-images/2020/01/Gamle-Bergen-Museum-900x600.jpg "Gamle Museum. © Martin Håndlykken/ Visit Norway")
 
 Si lo que buscas es conseguir las mejores vistas de la ciudad, el **Monte Fløyen** 
 alcanza una altitud de 320 metros sobre el mar. Desde su cima se puede disfrutar de la 
@@ -132,7 +132,7 @@ cumbre de forma rápida y cómoda en menos de 5 minutos. Para los más deportist
 posible ascender caminando a través de un bonito y selvático sendero en 1 hora 
 aproximadamente. 
 
-![Este funicular sube al monte Fløien, desde donde se obtienen bonitas vistas de Bergen.](etheria_images/2020/01/Floibanen-Pal-900x612.jpg "Este funicular sube al monte Fløien, desde donde se obtienen bonitas vistas de Bergen. © Pål Hoff/ Visit Norway")
+![Este funicular sube al monte Fløien, desde donde se obtienen bonitas vistas de Bergen.](etheria-images/2020/01/Floibanen-Pal-900x612.jpg "Este funicular sube al monte Fløien, desde donde se obtienen bonitas vistas de Bergen. © Pål Hoff/ Visit Norway")
 
 ### ¿Cómo llegar y moverse por Bergen?
 
@@ -149,7 +149,7 @@ rápido trasladarse a cualquier extremo de la ciudad caminando.
 - **Por aire**. Bergen cuenta, junto con Oslo, con uno de los principales aeropuertos del país. Compañías como KLM, Norwegian, Scandinavian Airlines (SAS), Wizz Air y Wideroe son las aerolíneas que cubren trayectos tanto a nivel nacional como internacional, incluidos los **vuelos directos desde España**.
 - **Por carretera**. La mejor forma de moverse por Noruega en general, y por el sur del país en particular, es en coche. Esto te permitirá descubrir las mil y una carreteras que dirigen a lagos de agua transparente, dormir en pequeñas y pintorescas aldeas a las afueras de cualquier ciudad, o incluso acceder fácilmente a la localidad cercana de **Odda**, desde donde parte uno de los senderos más famosos del país: un camino de 14 km que finaliza en **Trolltunga** o Lengua del Troll, no apto para miedosas.
 
-![No olvides disfrutar del rico salmón noruego en Bergen.](etheria_images/2020/01/bergen-Bastant-Stolegaten-900x600.jpg "No olvides disfrutar del rico salmón noruego en Bergen. © Martin Håndlykken/ Visit Norway")
+![No olvides disfrutar del rico salmón noruego en Bergen.](etheria-images/2020/01/bergen-Bastant-Stolegaten-900x600.jpg "No olvides disfrutar del rico salmón noruego en Bergen. © Martin Håndlykken/ Visit Norway")
 
 Para los más aventureros, una magnífica manera de recorrer el país es alquilando una 
 _campervan_, algo que nos permitirá ahorrar en alojamiento. Además, la acampada en 
@@ -161,7 +161,7 @@ de alquilarlas equipadas en Oslo.
 También existe la posibilidad de hacerse con un coche eléctrico, para perjudicar lo 
 mínimo el medio ambiente mientras ahorras en combustible (que en Noruega es caro). 
 
-![Ópera de Oslo.](etheria_images/2020/01/Noruega-Oslo-Opera-900x600.jpg "Ópera de Oslo. © M.P.")
+![Ópera de Oslo.](etheria-images/2020/01/Noruega-Oslo-Opera-900x600.jpg "Ópera de Oslo. © M.P.")
 
 ## Oslo, una capital chispeante
 

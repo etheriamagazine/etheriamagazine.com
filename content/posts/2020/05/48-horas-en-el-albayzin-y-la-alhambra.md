@@ -1,12 +1,12 @@
 ---
 title: "Cómo aprovechar bien dos días en Granada capital"
 date: 2020-05-29
-coverImage: etheria_images/2020/05/viajes-mujeres-granada-alhambra.jpg
+coverImage: etheria-images/2020/05/viajes-mujeres-granada-alhambra.jpg
 categories: 
   - viajes-48-horas
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Si sólo vas a estar dos días en Granada hay visitas como el Albaicín, aquel lugar que 
@@ -14,7 +14,7 @@ Abd Allah mencionaba en sus 'Memorias' rodeado de arroyos y arboledas, o La Alha
 sueño de Muhammad I, que no puedes perderte. A estas dos hay que añadirles palacios, 
 miradores y cármenes que desvelan el apasionante pasado de esta ciudad. 
 
-![Alhambra de Granada.](etheria_images/2020/05/viajes-mujeres-granada-alhambra.jpg "Alhambra de Granada. © Hari Nandakumar")
+![Alhambra de Granada.](etheria-images/2020/05/viajes-mujeres-granada-alhambra.jpg "Alhambra de Granada. © Hari Nandakumar")
 
 Nuestra última visita a la capital granadina fue un tanto exprés. Llegamos el viernes 
 por la tarde, cuando las farolas se empezaban a encender, y sólo nos dió tiempo a tomar 
@@ -32,7 +32,7 @@ descomunal](https://etheriamagazine.com/2022/09/30/que-ver-en-granada-provincia/
 con amigas: cultura, diversión y mucho 
 arte](https://etheriamagazine.com/2022/06/16/granada-con-amigas/). 
 
-![viaje granada, albacin](etheria_images/2020/05/granada-albaicin-viajes-mujeres.jpg "Vista del Albaicín desde la Alhambra, al otro lado del río Darro.")
+![viaje granada, albacin](etheria-images/2020/05/granada-albaicin-viajes-mujeres.jpg "Vista del Albaicín desde la Alhambra, al otro lado del río Darro.")
 
 ## Día 1. El Albaicín: casas y palacios
 
@@ -68,7 +68,7 @@ de la muralla de la Alcazaba Qadima (construida en el siglo XI). En el interior 
 vivienda se conservan restos de la etapa nazarí, algunos alfarjes y ventanas con 
 celosías. 
 
-![Patio de la Casa Zafra (Granada).](etheria_images/2018/10/Granada-patio-casa-zafra-e1590919239493.jpg "Patio de la Casa Zafra (Granada).")
+![Patio de la Casa Zafra (Granada).](etheria-images/2018/10/Granada-patio-casa-zafra-e1590919239493.jpg "Patio de la Casa Zafra (Granada).")
 
 ### Casa Zafra
 
@@ -94,7 +94,7 @@ estanque, además de sorprendentes columnas, pilares y pórticos con arcadas de 
 > frutales y el de las flores se confunden y crean la atmósfera propicia para disfrutar de 
 > unas estupendas vistas sobre el Albayzín y La Alhambra. 
 
-![Estanque del palacio Dar Al-Horra (Granada).](etheria_images/2018/10/granada-Dar-Al-Horra-1024x768.jpg "Estanque del palacio Dar Al-Horra (Granada).")
+![Estanque del palacio Dar Al-Horra (Granada).](etheria-images/2018/10/granada-Dar-Al-Horra-1024x768.jpg "Estanque del palacio Dar Al-Horra (Granada).")
 
 ### Palacio de Dar al-Horra
 
@@ -113,7 +113,7 @@ trasladado y reconstruido. Al final del sendero de entrada se levanta el edifici
 una bonita portada manierista y distribución en torno a un patio. Estancias como el 
 Salón de Embajadores y la Sala del Balcón rezuman lujo y elegancia. 
 
-![Cúpula del Bañuelo (Granada).](etheria_images/2018/10/el-banuelo-granada-1024x768.jpg "Cúpula del Bañuelo (Granada).")
+![Cúpula del Bañuelo (Granada).](etheria-images/2018/10/el-banuelo-granada-1024x768.jpg "Cúpula del Bañuelo (Granada).")
 
 ### Aljibe El Bañuelo
 
@@ -127,7 +127,7 @@ _tepydarium_ y _caldarium_), con bóvedas de cañón agujereadas con tragaluces 
 estrella, permiten fantasear durante un momento y retrotraerse diez siglos atrás en sólo 
 unos segundos. 
 
-![Fuente de la Amapola (Granada).](etheria_images/2018/10/fuente-amapola-albaicin-granada-1024x768.jpg "Fuente de la Amapola (Granada).")
+![Fuente de la Amapola (Granada).](etheria-images/2018/10/fuente-amapola-albaicin-granada-1024x768.jpg "Fuente de la Amapola (Granada).")
 
 Si los baños públicos eran un importante centro social, **los aljibes** realizaban una 
 función pública imprescindible ya que abastecían a la población de agua potable. Estos 
@@ -156,7 +156,7 @@ del silencio y del aire que penetra por los ventanales.
 aljibe del siglo XIII– y **la de San Salvador** –con una vinculación muy directa con los 
 moriscos–. 
 
-![Iglesia de San Nicolás (Granada).](etheria_images/2018/10/iglesia-san-nicolas-granada-1024x768.jpg "Iglesia de San Nicolás (Granada).")
+![Iglesia de San Nicolás (Granada).](etheria-images/2018/10/iglesia-san-nicolas-granada-1024x768.jpg "Iglesia de San Nicolás (Granada).")
 
 ### Monasterio de Santa Isabel la Real
 
@@ -167,7 +167,7 @@ conduce al altar mayor de la iglesia son impresionantes muestras artísticas que
 la pena conocer. Es más, si se quiere prolongar ese dulce momento contemplativo, las 
 monjas venden pasteles artesanos que lo lograrán. 
 
-![Alhambra (Granada).](etheria_images/2020/05/granada-mujeres-alhambra-1.jpg "Alhambra (Granada). © Austin Gardner")
+![Alhambra (Granada).](etheria-images/2020/05/granada-mujeres-alhambra-1.jpg "Alhambra (Granada). © Austin Gardner")
 
 ### La Alhambra y el Generalife
 
@@ -185,7 +185,7 @@ debe contemplar, al menos, los Palacios Nazaríes: el palacio de Mexuar, el de C
 el de los Leones, considerado la cumbre del arte nazarí, donde se encuentra la fuente de 
 los leones. 
 
-![Jardines del Generalife, contiguos a la Alhambra.](etheria_images/2018/09/Granada-Generalife-1024x688.jpg "Jardines del Generalife, contiguos a la Alhambra.")
+![Jardines del Generalife, contiguos a la Alhambra.](etheria-images/2018/09/Granada-Generalife-1024x688.jpg "Jardines del Generalife, contiguos a la Alhambra.")
 
 Visitar La Alhambra va más allá de una simple aproximación cultural, representa una 
 auténtica experiencia para los sentidos donde confluye el murmullo de las fuentes en los 
@@ -196,7 +196,7 @@ misteriosas en el Albayzín, decimos adiós a Granada.
 ?**Imprescindible:** [10 consejos para triunfar en tu visita a la 
 Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/) 
 
-![mirador sacromonte, vistas de la alhambra, atardecer alhambra, atardecer granada](etheria_images/2020/05/atardecer-sacromonte-granada.jpg "Mirador del Sacromonte, menos masificado que el de San Nicolás. © Victoriano Izquierdo")
+![mirador sacromonte, vistas de la alhambra, atardecer alhambra, atardecer granada](etheria-images/2020/05/atardecer-sacromonte-granada.jpg "Mirador del Sacromonte, menos masificado que el de San Nicolás. © Victoriano Izquierdo")
 
 ## Con vistas a La Alhambra
 

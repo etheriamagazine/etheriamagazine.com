@@ -1,12 +1,12 @@
 ---
 title: "10 apps de museos que deberías descargarte"
 date: 2019-01-05
-coverImage: etheria_images/2019/01/museos.jpg
+coverImage: etheria-images/2019/01/museos.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El mundo del arte no permanece ajeno a las nuevas tecnologías y cada vez más museos 
@@ -14,7 +14,7 @@ apuestan por la tecnología para facilitar el acceso a la información sobre las
 Aquí te proponemos 10 apps de museos que puedes descargarte en tu móvil y que te 
 facilitarán las visitas e, incluso, te permitirán disfrutar de grandes obras desde casa. 
 
-![mujer consultado el móvil en un banco](etheria_images/2019/01/mujer-movil-museos-1024x691.jpg "Las aplicaciones móviles pueden completar tu visita a un museo.")
+![mujer consultado el móvil en un banco](etheria-images/2019/01/mujer-movil-museos-1024x691.jpg "Las aplicaciones móviles pueden completar tu visita a un museo.")
 
 Las aplicaciones móviles pueden convertirse en nuestras mejores aliadas culturales, 
 tanto si nos acompañan durante el recorrido en los museos y nos proporcionan 
@@ -30,7 +30,7 @@ permite profundizar en las 14 obras más representativas del museo con calidad u
 (4,49 €). Con la segunda, que está dedicada a el **Bosco** (2,29 €), se pueden explorar 
 las grandes obras maestras del pintor en alta resolución. 
 
-![app oficial museo del prado](etheria_images/2019/01/app-museo-el-prado-oficial-1024x829.jpg "Aplicaciones del Museo del Prado.")
+![app oficial museo del prado](etheria-images/2019/01/app-museo-el-prado-oficial-1024x829.jpg "Aplicaciones del Museo del Prado.")
 
 ## 2\. Museo Lázaro Galdiano (Madrid)
 
@@ -41,7 +41,7 @@ perfecta.** Aunque ha sido diseñada para consultarla en el museo, también se p
 en cualquier otro lugar. Además, ofrece gratuitamente recursos accesibles para personas 
 con discapacidad. 
 
-![app museo lazaro galdiano](etheria_images/2019/01/app-museo-lazaro-galdiano-1-1024x809.jpg "Aplicación de Museo Lázaro Galdiano.")
+![app museo lazaro galdiano](etheria-images/2019/01/app-museo-lazaro-galdiano-1-1024x809.jpg "Aplicación de Museo Lázaro Galdiano.")
 
 ## 3\. Museo Nacional y Centro de Investigación de Altamira (Cantabria)
 
@@ -57,7 +57,7 @@ propone **un paseo por el museo** a través de varios recorridos que abarcan des
 Prehistoria hasta el siglo XIX. La segunda invita a recorrer las estaciones táctiles con 
 audiodescripciones de las obras, de su procedencia y contexto histórico y social. 
 
-![app museo arqueologico madrid](etheria_images/2019/01/app-museo-arqueologico-madrid-1024x576.jpg "Aplicación del Museo Arqueológico Nacional.")
+![app museo arqueologico madrid](etheria-images/2019/01/app-museo-arqueologico-madrid-1024x576.jpg "Aplicación del Museo Arqueológico Nacional.")
 
 ## 5\. Museo Sorolla (Madrid)
 
@@ -66,7 +66,7 @@ está mostrando distintas facetas de su arte con exposiciones temporales. En est
 te proponemos una app, sino un enlace de rtve.es donde puedes ver una demostración de 
 cómo el mismo Sorolla te cuenta sus cuadros. 
 
-![museo sorolla en RTVE](etheria_images/2019/01/app-museo-sorolla-nueva-1024x576.jpg "Sorolla en RTVE")
+![museo sorolla en RTVE](etheria-images/2019/01/app-museo-sorolla-nueva-1024x576.jpg "Sorolla en RTVE")
 
 ## 6\. Museo Nacional de Escultura (Valladolid)
 
@@ -78,7 +78,7 @@ Los audios y las imágenes están adaptados a las necesidades de las personas co
 discapacidad visual o auditiva. Ofrece asimismo novedades, información institucional, 
 horarios y accesos. Es gratuita y está disponible para iOS y Android. 
 
-![app museo escultura valladolid](etheria_images/2019/01/app-museo-escultura.png "Museo Nacional de Escultura de Valladolid.")
+![app museo escultura valladolid](etheria-images/2019/01/app-museo-escultura.png "Museo Nacional de Escultura de Valladolid.")
 
 ## 7\. Museo Nacional de Arte Romano (Mérida, Badajoz)
 
@@ -94,7 +94,7 @@ Ha-Leví**. Emplea audios e imágenes adaptados a las necesidades de las persona
 discapacidad visual o auditiva. Está destinada a todos los públicos, es gratuita y está 
 disponible para iOS y Android. 
 
-![museo sefardi toledo](etheria_images/2019/01/app-museo-sefardi-toledo-1024x576.png "Museo Sefardí.")
+![museo sefardi toledo](etheria-images/2019/01/app-museo-sefardi-toledo-1024x576.png "Museo Sefardí.")
 
 ## 9\. Museo de la Evolución Humana (Burgos)
 
@@ -112,7 +112,7 @@ compartimentados en exposiciones, actividades, noticias, multimedia y más infor
 desde esas pestañas se abre un universo de información que será **el paraíso de los 
 aficionados a la ciencia**. Es gratuita y se puede descargar en sistemas Android e iOS. 
 
-![app museo nacional de ciencias naturales de madrid](etheria_images/2019/01/app-mncn-1024x974.jpg "Museo de Ciencias Naturales.")
+![app museo nacional de ciencias naturales de madrid](etheria-images/2019/01/app-mncn-1024x974.jpg "Museo de Ciencias Naturales.")
 
 **Tambi´én te puede interesar:** 
 

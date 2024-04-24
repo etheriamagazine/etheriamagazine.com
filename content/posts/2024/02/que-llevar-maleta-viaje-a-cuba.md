@@ -1,13 +1,13 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Cuba"
 date: 2024-02-28
-coverImage: etheria_images/2024/02/maleta-cuba-habana-casas.jpg
+coverImage: etheria-images/2024/02/maleta-cuba-habana-casas.jpg
 categories: 
   - organiza-tu-viaje
   - planes-cultura-ocio
   - que-llevar-en-la-maleta
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ¿A quién no le apetece un viaje al Caribe? Si, además, la isla elegida es Cuba podrás 
@@ -16,7 +16,7 @@ interesante historia y un rico patrimonio artístico y natural. En este artícul
 ayudamos a preparar tu viaje diciéndote qué tienes que llevar en tu maleta para Cuba 
 para que sólo tengas que preocuparte de disfrutar de la experiencia. 
 
-![Casas de colores en La Habana.](etheria_images/2024/02/maleta-cuba-habana-casas.jpg "Casas de colores en La Habana.")
+![Casas de colores en La Habana.](etheria-images/2024/02/maleta-cuba-habana-casas.jpg "Casas de colores en La Habana.")
 
 La ilusión de preparar una maleta para viajar a Cuba es la primera forma de empezar a 
 disfrutar del viaje. Vestidos veraniegos, pareos, bikinis, esas gafas de sol enormes que 
@@ -36,7 +36,7 @@ en autobús es mejor llevar una maleta blanda, que se amolde bien a los maletero
 son muy cómodas, resistentes y se abren a la mitad, lo que facilita repartir y colocar 
 bien la ropa y los accesorios. 
 
-![Maleta de American Tourister y de Eastpak](etheria_images/2024/02/cuba-maletas.jpg "Maleta de American Tourister y de Eastpak, disponibles en Amazon.")
+![Maleta de American Tourister y de Eastpak](etheria-images/2024/02/cuba-maletas.jpg "Maleta de American Tourister y de Eastpak, disponibles en Amazon.")
 
 ## Ropa
 
@@ -59,7 +59,7 @@ viajar a Cuba y no disfrutar de alguna de ellas: bikinis, bañadores, pareos y v
 ligeros. Puedes optar por un modelo de [toalla-pareo](https://amzn.to/3wyXOss), muy 
 prácticos para viaje. 
 
-![Vestido estampado toalla-pareo](etheria_images/2024/02/cuba-maleta-ropa.jpg "Vestido estampado toalla-pareo, puedes comprarlos en Amazon.")
+![Vestido estampado toalla-pareo](etheria-images/2024/02/cuba-maleta-ropa.jpg "Vestido estampado toalla-pareo, puedes comprarlos en Amazon.")
 
 ## Calzado
 
@@ -71,7 +71,7 @@ las excursiones, sobre todo si vas a hacer excursiones por el interior de la isl
 son siempre unas buenas compañeras de viaje. También ten vendrán muy bien unas 
 **sandalias de trekking**: son cómodas, resistentes y dejan transpirar al pie. 
 
-![Chanchas rosas y deportivas azules](etheria_images/2024/02/maleta-cuba-calzado.jpg "Las chanclas y unas deportivas tipo Skechers son imprescindibles en Cuba.")
+![Chanchas rosas y deportivas azules](etheria-images/2024/02/maleta-cuba-calzado.jpg "Las chanclas y unas deportivas tipo Skechers son imprescindibles en Cuba.")
 
 ## Complementos
 
@@ -85,7 +85,7 @@ También es recomendable llevar una mochila plegable que puedas llevar en las ex
 y a la playa, la de [Zomake](https://amzn.to/3UPVszo) que propone Amazon está disponible 
 en varios colores y es impermeable. 
 
-![toalla morada y mochila amarilla](etheria_images/2024/02/maleta-cuba-mochila-toalla.jpg "Toalla y mochila plegable perfectas para tu viaje a Cuba.")
+![toalla morada y mochila amarilla](etheria-images/2024/02/maleta-cuba-mochila-toalla.jpg "Toalla y mochila plegable perfectas para tu viaje a Cuba.")
 
 ## Neceser
 
@@ -100,7 +100,7 @@ combustión de la gasolina deja algunos residuos que te pueden manchar la piel. 
 importante: no puedes olvidar tampones, compresas o copa menstrual si crees que los vas 
 a necesitar durante el viaje. 
 
-![champú y jabón para viaje marca Foamie](etheria_images/2024/02/maleta-cuba-jabon-champu-viaje.jpg "Jabón y champú sólido muy prácticos para viaje.")
+![champú y jabón para viaje marca Foamie](etheria-images/2024/02/maleta-cuba-jabon-champu-viaje.jpg "Jabón y champú sólido muy prácticos para viaje.")
 
 ✅ Para elegir el modelo de neceser puedes consultar nuestro artículo [7 neceseres para 
 mujeres 
@@ -118,7 +118,7 @@ para aliviar las posibles picaduras. También puedes recurrir a un **bolígrafo 
 para reducir la hinchazón y el dolor de las picaduras, éste de [Acwoo](https://amzn.to/3UUpFgy), 
 disponible en Amazon, se carga mediante USB. 
 
-![relec extrafuerte y bolígrafo térmico para mosquitos](etheria_images/2024/02/maleta-cuba-mosquitos.jpg "El repelente de mosquitos y un bolígrafo térmico para calmar las picaduras no pueden faltar en tu maleta.")
+![relec extrafuerte y bolígrafo térmico para mosquitos](etheria-images/2024/02/maleta-cuba-mosquitos.jpg "El repelente de mosquitos y un bolígrafo térmico para calmar las picaduras no pueden faltar en tu maleta.")
 
 ## Protección para el sol
 
@@ -138,7 +138,7 @@ cargar varios dispositivos a la vez, los que son tipo cubo son muy prácticos po
 incluyen puerto USB y abultan poco; y una **power bank** para que no te quedes sin 
 batería en el móvil durante las excursión. 
 
-![Adaptador universal de viaje y ladrón](etheria_images/2024/02/maleta-cuba-accesorios-adaptador-enchufe.jpg "Adaptador universal de viaje y ladrón disponibles en Amazon.")
+![Adaptador universal de viaje y ladrón](etheria-images/2024/02/maleta-cuba-accesorios-adaptador-enchufe.jpg "Adaptador universal de viaje y ladrón disponibles en Amazon.")
 
 ## Seguro de viaje
 
@@ -168,7 +168,7 @@ directamente con euros o dólares.
 Las **tarjetas de crédito** se utilizan poco, generalmente en los hoteles, y aunque hay 
 cajeros automáticos, no siempre funcionan y el cambio no es muy favorable. 
 
-![Pesos cubanos.](etheria_images/2024/02/cuba-maleta-peso.jpg "Pesos cubanos.")
+![Pesos cubanos.](etheria-images/2024/02/cuba-maleta-peso.jpg "Pesos cubanos.")
 
 ## Guías de viaje
 
@@ -181,7 +181,7 @@ Total de Anaya Touring](https://amzn.to/4bPLiEO), todas disponibles en Amazon. S
 sólo a La Habana, puedes adquirir la [Guía de cerca de La 
 Habana](https://amzn.to/42PN9pb) de Lonely Planet. 
 
-![Guías de viaje sobre Cuba.](etheria_images/2024/02/cuba-guias-viaje.jpg "Guías de viaje sobre Cuba.")
+![Guías de viaje sobre Cuba.](etheria-images/2024/02/cuba-guias-viaje.jpg "Guías de viaje sobre Cuba.")
 
 **También te puede interesar:** 
 

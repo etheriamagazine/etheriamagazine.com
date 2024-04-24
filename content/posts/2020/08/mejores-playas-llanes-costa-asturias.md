@@ -1,12 +1,12 @@
 ---
 title: "Ruta en coche por Llanes, descubre las visitas más espectaculares"
 date: 2020-08-17
-coverImage: etheria_images/2020/08/asturias-acantilados-llanes.jpg
+coverImage: etheria-images/2020/08/asturias-acantilados-llanes.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -14,7 +14,7 @@ Recorrer la costa de Llanes en coche, a pie o con ferrocarril de vía estrecha e
 experiencia inolvidable. Te proponemos hacer una ruta asturiana al borde del mar 
 siguiendo 30 kilómetros llenos de sorpresas: acantilados, cuevas, monasterios, playas... 
 
-![Cueva Pindal y faro de San Emeterio](etheria_images/2020/08/asturias-playas-llanes-900x480.jpg "Entorno de la Cueva Pindal, un gran atractivo de la costa de Llanes.")
+![Cueva Pindal y faro de San Emeterio](etheria-images/2020/08/asturias-playas-llanes-900x480.jpg "Entorno de la Cueva Pindal, un gran atractivo de la costa de Llanes.")
 
 ```
 (Actualizado 8/2023)
@@ -47,7 +47,7 @@ Entre caballos, ciervos y bisontes prehistóricos destaca la peculiaridad de alb
 pez y un mamut, fauna poco común en las representaciones magdalenienses del norte 
 peninsular. 
 
-![cueva pindal, asturias, playas Llanes](etheria_images/2020/08/asturias-acantilados-llanes-900x599.jpg "Alrededores de la cueva de Pindal (Asturias).")
+![cueva pindal, asturias, playas Llanes](etheria-images/2020/08/asturias-acantilados-llanes-900x599.jpg "Alrededores de la cueva de Pindal (Asturias).")
 
 ### Monasterio de Santa María de Tina y faro de San Emeterio
 
@@ -59,7 +59,7 @@ santo, el 3 de marzo, en busca de la sanación de males de huesos, como el reúm
 artrosis, gracias a la bendición del santo y al agua de la fuente que mana junto al 
 santuario. 
 
-![Iglesia de Santa Maria de Tina, Llanes, asturias](etheria_images/2020/08/asturias-llanes-iglesia-900x599.jpg "Iglesia de Santa Maria de Tina.")
+![Iglesia de Santa Maria de Tina, Llanes, asturias](etheria-images/2020/08/asturias-llanes-iglesia-900x599.jpg "Iglesia de Santa Maria de Tina.")
 
 Detrás del santuario, atravesando el tupido bosque entre encinas y madroños, se hallan 
 los misteriosos restos del **monasterio de Santa María de Tina**. De su fundación 
@@ -74,7 +74,7 @@ accesible. Por ello lo mejor es asomarnos al **mirador del Picu**, a mitad de ca
 acceso a la cueva, donde tenemos una perspectiva excepcional de la costa que nos 
 disponemos a descubrir. 
 
-![faro de San Emeterio, pindal, asturias](etheria_images/2020/08/asturias-llanes-mar-azul-900x599.jpg "Faro de San Emeterio (Asturias).")
+![faro de San Emeterio, pindal, asturias](etheria-images/2020/08/asturias-llanes-mar-azul-900x599.jpg "Faro de San Emeterio (Asturias).")
 
 ### Playa de la Franca, una belleza caribeña
 
@@ -87,7 +87,7 @@ decimonónicos, se ha prolongado hasta nuestros días. Camina hasta situarte sob
 cantil que se asoma a **playa de La Acacia** donde las vistas al cercano islote ofrecen 
 un placer azul cobalto. 
 
-![playa La Franca, Ribadedeva, playas asturias](etheria_images/2020/08/asturias-costa-llanes-playa-900x599.jpg "Vista aérea de la playa La Franca (concejo de Ribadedeva).")
+![playa La Franca, Ribadedeva, playas asturias](etheria-images/2020/08/asturias-costa-llanes-playa-900x599.jpg "Vista aérea de la playa La Franca (concejo de Ribadedeva).")
 
 ### Playa de interior Cobijeru y arco natural del Salto del Caballo
 
@@ -105,7 +105,7 @@ Situada a 100 metros de la orilla es alimentada por el mar que penetra bajo los
 acantilados. Estos adquieren su perfil más tentador con el **arco natural del Salto del 
 Caballo** y la **cueva Cobijeru**, ambos incluidos en el monumento natural. 
 
-![Playa de Cobijero, arco natural del Salto, playas asturias](etheria_images/2020/08/asturias-playa-interior-llanes-683x1024.jpg "Playa de Cobijero y arco natural del Salto del Caballo (Asturias).")
+![Playa de Cobijero, arco natural del Salto, playas asturias](etheria-images/2020/08/asturias-playa-interior-llanes-683x1024.jpg "Playa de Cobijero y arco natural del Salto del Caballo (Asturias).")
 
 ### Senderismo entre verde y géiseres
 
@@ -115,7 +115,7 @@ concurrida **playa de Vidiago** y desviaciones hasta misteriosos patrimonios
 prehistóricos como el **ídolo de Peña Tú**, y siempre con la compañía inquebrantable de 
 los magníficos acantilados del litoral asturiano. 
 
-![Pendueles, asturias, playas](etheria_images/2020/08/asturias-vistas-costa-llanes-693x1024.jpg "Playa y acantilados de Pendueles (Asturias).")
+![Pendueles, asturias, playas](etheria-images/2020/08/asturias-vistas-costa-llanes-693x1024.jpg "Playa y acantilados de Pendueles (Asturias).")
 
 Entre laureles y encinas, la senda hasta el ídolo de Peña Tú asciende hasta alcanzar una 
 enorme roca en cuyos huecos hay pinturas rupestres y grabados de la Edad del Bronce. 
@@ -141,7 +141,7 @@ detrás de ella se encuentra la villa de **Llanes.**
 
 ## Qué ver en Llanes en un día
 
-![cubo memoria, Llanes, asturias](etheria_images/2020/08/asturias-llanes-puerto-color-667x1024.jpg "'Cubos de la memoria' de Llanes (Asturias).")
+![cubo memoria, Llanes, asturias](etheria-images/2020/08/asturias-llanes-puerto-color-667x1024.jpg "'Cubos de la memoria' de Llanes (Asturias).")
 
 ### Cubos de la Memoria
 
@@ -157,14 +157,14 @@ indianas. No podemos resistir a acabar la jornada sin buscar de nuevo la cercan�
 mar. Recorre su **puerto pesquero** buscando como el oleaje se traga sus coloristas 
 cubos de hormigón. 
 
-![puerto Llanes, playas, asturias](etheria_images/2020/08/asturias-llanes-puerto-900x601.jpg "Puerto pesquero de Llanes (Asturias).")
+![puerto Llanes, playas, asturias](etheria-images/2020/08/asturias-llanes-puerto-900x601.jpg "Puerto pesquero de Llanes (Asturias).")
 
 ### El romántico faro
 
 Y antes de despedirte para disfrutar de la exquisita gastronomía asturiana, observa el 
 halo rosado que envuelve al faro de Llanes. 
 
-![faro de llanes](etheria_images/2020/08/asturias-costa-llanes-faro-900x600.jpg "Faro de Llanes.")
+![faro de llanes](etheria-images/2020/08/asturias-costa-llanes-faro-900x600.jpg "Faro de Llanes.")
 
 **También te puede interesar...** 
 

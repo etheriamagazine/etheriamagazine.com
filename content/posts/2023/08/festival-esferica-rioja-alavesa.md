@@ -1,12 +1,12 @@
 ---
 title: "Esférica Rioja Alavesa, un festival que celebra la cultura y la gastronomía"
 date: 2023-08-07
-coverImage: etheria_images/2023/08/festival-esferica-rioja-alavesa.jpg
+coverImage: etheria-images/2023/08/festival-esferica-rioja-alavesa.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La Rioja Alavesa se viste de fiesta para recibir a miles de visitantes en uno de los 
@@ -15,7 +15,7 @@ verano en el epicentro de la música, el arte y la gastronomía local. Este even
 inclusivo y sostenible, tendrá lugar del 18 al 20 de agosto en Laguardia, 
 Labastida/Bastida y Elciego. 
 
-![El Festival Esférica Rioja Alavesa es una de las grandes citas del verano.](etheria_images/2023/08/festival-esferica-rioja-alavesa.jpg "El Festival Esférica Rioja Alavesa es una de las grandes citas del verano.")
+![El Festival Esférica Rioja Alavesa es una de las grandes citas del verano.](etheria-images/2023/08/festival-esferica-rioja-alavesa.jpg "El Festival Esférica Rioja Alavesa es una de las grandes citas del verano.")
 
 La música en vivo será la gran protagonista del **Festival Esférica Rioja Alavesa**, que 
 promete deleitar los oídos de los asistentes. Bandas nacionales e internacionales de 
@@ -24,7 +24,7 @@ Ramírez, entre otros, se presentarán en los escenarios alaveses. Desde los vi�
 atardecer hasta las históricas plazas amuralladas, cada lugar es cuidadosamente 
 seleccionado para ofrecer una experiencia inolvidable a los amantes de la música. 
 
-![Cartel Festival Esférica Rioja Alavesa 2023.](etheria_images/2023/08/cartel-esferica-rioja-alavesa-2023.jpg "Cartel Festival Esférica Rioja Alavesa 2023.")
+![Cartel Festival Esférica Rioja Alavesa 2023.](etheria-images/2023/08/cartel-esferica-rioja-alavesa-2023.jpg "Cartel Festival Esférica Rioja Alavesa 2023.")
 
 ## Delicias gastronómicas y arte
 
@@ -43,7 +43,7 @@ experiencia sensorial diferente que hará disfrutar a cuantos se acerquen hasta 
 lugar. Las **bodegas Ysios**, con su moderna impronta arquitectónica, serán el escenario 
 ideal para esta muestra de arte alternativo. 
 
-![Morcheeba participa en el Festival Esférica Rioja Alavesa.](etheria_images/2023/08/festival-esferica-Morcheeba.jpg "Morcheeba participa en el Festival Esférica Rioja Alavesa.")
+![Morcheeba participa en el Festival Esférica Rioja Alavesa.](etheria-images/2023/08/festival-esferica-Morcheeba.jpg "Morcheeba participa en el Festival Esférica Rioja Alavesa.")
 
 ## Compromiso con la accesibilidad
 
@@ -59,7 +59,7 @@ en un atractivo más del festival. Los visitantes podrán sumergirse en la belle
 tierra a través de actividades como catas, rutas de senderismo y visitas a viñedos, todo 
 ello con un enfoque sostenible y respetuoso con el medio ambiente. 
 
-![Morgan vuelve a los escenarios después de casi 2 años con su gira “The River Tour”.](etheria_images/2023/08/festival-rioja-alavesa-Morgan.jpg "Morgan vuelve a los escenarios después de casi 2 años con su gira “The River Tour”.")
+![Morgan vuelve a los escenarios después de casi 2 años con su gira “The River Tour”.](etheria-images/2023/08/festival-rioja-alavesa-Morgan.jpg "Morgan vuelve a los escenarios después de casi 2 años con su gira “The River Tour”.")
 
 Esférica Rioja Alavesa es mucho más que un simple festival; es una oportunidad para 
 descubrir una tierra llena de historia, cultura y sabores únicos. Si buscas un plan 

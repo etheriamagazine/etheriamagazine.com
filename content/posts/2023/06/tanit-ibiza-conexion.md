@@ -1,12 +1,12 @@
 ---
 title: "Tanit Ibiza Conexion, una apuesta por el liderazgo femenino en Ibiza"
 date: 2023-06-02
-coverImage: etheria_images/2023/05/Tanit-fundadoras.jpg
+coverImage: etheria-images/2023/05/Tanit-fundadoras.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 En una isla tan volcada al turismo como Ibiza era necesario poner en valor el trabajo de 
@@ -14,7 +14,7 @@ las mujeres que se dedican a este sector. Para ello, Alicia Reina y Eva Ballarí
 creado Tanit Ibiza Conexion, un proyecto que ya ha entregado sus primeros premios y que 
 pone el foco en el liderazgo femenino en esta isla. 
 
-![Eva Ballarín y Alicia Reina, fundadora de Tanit Ibiza Conexion](etheria_images/2023/05/Tanit-fundadoras.jpg "Eva Ballarín y Alicia Reina, fundadoras de © Tanit Ibiza Conexion.")
+![Eva Ballarín y Alicia Reina, fundadora de Tanit Ibiza Conexion](etheria-images/2023/05/Tanit-fundadoras.jpg "Eva Ballarín y Alicia Reina, fundadoras de © Tanit Ibiza Conexion.")
 
 Hay proyectos que gusta explicar, sobre todo desde una revista como Etheria Magazine en 
 la que nos encanta poner en valor el talento y el liderazgo femenino. Así que nos 
@@ -45,7 +45,7 @@ familiar) con ser la presidenta en Baleares de la Asociación Española de Direc
 Hotel (AEDH). Y Eva Ballerín es experta en estrategia y liderazgo y tiene más de treinta 
 años de experiencia en el sector del turismo y la gastronomía. 
 
-![Las fundadoras de Tanit Ibiza Conexion con uno de los premios.](etheria_images/2023/05/Tanit-Alicia-Reina-Eva-Ballarin.jpg "Las fundadoras de © Tanit Ibiza Conexion con uno de los premios.")
+![Las fundadoras de Tanit Ibiza Conexion con uno de los premios.](etheria-images/2023/05/Tanit-Alicia-Reina-Eva-Ballarin.jpg "Las fundadoras de © Tanit Ibiza Conexion con uno de los premios.")
 
 Con estos perfiles profesionales, ¿por qué embarcarse en uno nuevo que requiere gran 
 implicación laboral y personal? Por un amor profundo a Ibiza y por la certeza de que 
@@ -80,7 +80,7 @@ Torres, directora del aeropuerto de Ibiza; Elisa Pomar, diseñadora de joyas; o 
 Anna Tur. El evento fue apoyado por el Consell Insular y el Ayuntamiento de Santa 
 Eulària. 
 
-![Participantes de Tanit Talks & Empowers](etheria_images/2023/05/Tanit-talks-power.jpg "Participantes de Tanit Talks & Empowers.")
+![Participantes de Tanit Talks & Empowers](etheria-images/2023/05/Tanit-talks-power.jpg "Participantes de Tanit Talks & Empowers.")
 
 Con este evento concreto Tanit no ha hecho nada más que empezar. Durante este año se han 
 ido realizando distintos hitos que han profundizado tanto en los valores de la isla como 
@@ -97,7 +97,7 @@ nacionales para analizar las diferentes visiones de la gastronomía local.
 Y **Tanit Travels**, con las que la marca pretende estar presente en distintos foros 
 como ya lo hizo en la pasada edición de FITUR. 
 
-![cala en Ibiza](etheria_images/2023/05/Tanit-ibiza.jpg "Poner en valor la singularidad del turismo de Ibiza es uno de los objetivos de Tanit Ibiza Conexion.")
+![cala en Ibiza](etheria-images/2023/05/Tanit-ibiza.jpg "Poner en valor la singularidad del turismo de Ibiza es uno de los objetivos de Tanit Ibiza Conexion.")
 
 ## Primer congreso de Tanit Ibiza Conexion
 

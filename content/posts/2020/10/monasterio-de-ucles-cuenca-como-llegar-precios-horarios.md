@@ -1,18 +1,18 @@
 ---
 title: "Viaja al futuro desde el Monasterio de Uclés"
 date: 2020-10-22
-coverImage: etheria_images/2020/10/re-nacimiento-monasterio-ucles.jpg
+coverImage: etheria-images/2020/10/re-nacimiento-monasterio-ucles.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 ##### Situado a una hora en coche desde Madrid, el Monasterio de Uclés, también conocido como el “Escorial de La Mancha”, se adapta a los nuevos tiempos y renace con ojos contemporáneos. Descubre su nueva faceta como un nuevo espacio de cultura en Cuenca, cómo llegar, precios y horarios.
 
-![re nacimiento monasterio ucles](etheria_images/2020/10/renacimiento-monasterio-ucles.jpg "Montaje audiovisual de MDU Re-Nacimiento. © Jesús Varillas/ FFN")
+![re nacimiento monasterio ucles](etheria-images/2020/10/renacimiento-monasterio-ucles.jpg "Montaje audiovisual de MDU Re-Nacimiento. © Jesús Varillas/ FFN")
 
 * * *
 
@@ -30,7 +30,7 @@ de nuevas técnicas y posibilidades, se instale en sus centenarias dependencias 
 un proyecto liderado por la Fundación Fernando Núñez y que pretende dotar de vida 
 cultural y social a este monasterio. 
 
-![marco y luz re nacimiento monasterio ucles](etheria_images/2020/10/re-nacimiento-monasterio-ucles.jpg "MDU Re-Nacimiento. © Jesús Varillas/ FFN")
+![marco y luz re nacimiento monasterio ucles](etheria-images/2020/10/re-nacimiento-monasterio-ucles.jpg "MDU Re-Nacimiento. © Jesús Varillas/ FFN")
 
 Ahora es la exposición '**Marco y luz en constante cambio**' la que ha convertido el 
 monumento en un laboratorio artístico donde caben impactantes procesos de diseño que 
@@ -49,7 +49,7 @@ investigación artística y que transformará los espacios interiores del edific
 como su claustro, la sala grande, la iglesia, la sacristía, el acceso a la cripta, el 
 archivo o las estancias priorales. 
 
-![claustro monasterio ucles](etheria_images/2020/10/claustro-monasterio-ucles.jpg "Claustro del Monasterio de Uclés. © David Pérez/ FFN")
+![claustro monasterio ucles](etheria-images/2020/10/claustro-monasterio-ucles.jpg "Claustro del Monasterio de Uclés. © David Pérez/ FFN")
 
 No se han escatimado esfuerzos para “vestir” de arte contemporáneo el Monasterio de 
 Uclés, antigua sede de la Orden de Santiago, ya que detrás de esta exposición hay un 
@@ -58,7 +58,7 @@ iluminación específica que permiten sumergir al público en un universo de
 interpretaciones artísticas, sensaciones, experiencias y conceptos históricos y 
 culturales. 
 
-![sacristia del monasterio de ucles](etheria_images/2020/10/sacristia-monasterio-ucles.jpg "Sacristía del Monasterio de Uclés. © David Pérez")
+![sacristia del monasterio de ucles](etheria-images/2020/10/sacristia-monasterio-ucles.jpg "Sacristía del Monasterio de Uclés. © David Pérez")
 
 ## Luces proyectadas en lugar de velas
 
@@ -69,7 +69,7 @@ los instrumentos que inundaron de música el coro de la iglesia, y la imagen vir
 su similitud con las inscripciones que los constructores renacentistas tallaban en las 
 piedras”. 
 
-![exposiciones del monasterio de ucles](etheria_images/2020/10/espectaculo-re-nacimiento-ucles.jpg "Te sorprenderán los modernos sistemas de iluminación. © Jesús Varillas/ FFN")
+![exposiciones del monasterio de ucles](etheria-images/2020/10/espectaculo-re-nacimiento-ucles.jpg "Te sorprenderán los modernos sistemas de iluminación. © Jesús Varillas/ FFN")
 
 Y es que, en la exposición “Marco y luz en constante cambio”, los huecos y vanos del 
 edificio se convierten en el marco de un espacio concebido para observar y ser 
@@ -88,7 +88,7 @@ evocación de las aventuras y gestas de los caballeros de Santiago, pero tambié
 sensaciones y sentimientos de soledad, nostalgia, miedo y fascinación que tuvieron al 
 surcar los mares. 
 
-![conciertos en monasterio de ucles cuenca](etheria_images/2020/10/musica-re-nacimiento-ucles-683x1024.jpg "Concierto de música clásica en el monasterio de Uclés. © Jesús Varillas/ FFN")
+![conciertos en monasterio de ucles cuenca](etheria-images/2020/10/musica-re-nacimiento-ucles-683x1024.jpg "Concierto de música clásica en el monasterio de Uclés. © Jesús Varillas/ FFN")
 
 Otra de las iniciativas culturales que coincidirán con la exposición “Marco y luz en 
 constante cambio” es la programación de “conciertos expandidos”, que permitirán al 
@@ -105,7 +105,7 @@ proyecto para estudiar e interpretar la Colección de Partituras de Uclés, un c
 obras del siglo XVI que en su día formó parte del patrimonio de la Orden de Santiago y 
 que incluye piezas de grandes compositores del Renacimiento. 
 
-![monasterio de ucles en cuenca](etheria_images/2020/10/monasterio-ucles-expo-renacimiento.jpg "La iluminación transforma los espacios en el Monasterio de Uclés. © Jesús Varillas/ FFN")
+![monasterio de ucles en cuenca](etheria-images/2020/10/monasterio-ucles-expo-renacimiento.jpg "La iluminación transforma los espacios en el Monasterio de Uclés. © Jesús Varillas/ FFN")
 
 ## Cómo llegar al Monasterio de Uclés
 
@@ -128,7 +128,7 @@ Además, el Monasterio de Uclés se encuentra a un paso de varios enclaves de la
 romana, como el **Parque Arqueológico de Segóbriga** y el antiguo **yacimiento minero 
 del Cerro de la Muela**, situado en la vecina localidad de Carrascosa del Campo. 
 
-![iluminacion artistica en monasterio ucles](etheria_images/2020/10/monasterio-ucles-arte-renacimiento.jpg "El monasterio se ha convertido en auténtico laboratorio artístico.")
+![iluminacion artistica en monasterio ucles](etheria-images/2020/10/monasterio-ucles-arte-renacimiento.jpg "El monasterio se ha convertido en auténtico laboratorio artístico.")
 
 Ya no hay excusa. Y para demostrarlo y poner en valor este territorio tan inexplorado 
 está la Fundación Fernando Núñez, que persigue, con el apoyo del empresario que da 
@@ -147,7 +147,7 @@ lunes permanece cerrado.
 La entrada ordinaria cuesta 8 euros, la reducida 6 y los menores de 12 años entran 
 gratis. 
 
-![casa palacio de ucles](etheria_images/2020/10/casa-palacio-ucles.jpg "Casa Palacio Uclés by Domingo Sánchez.")
+![casa palacio de ucles](etheria-images/2020/10/casa-palacio-ucles.jpg "Casa Palacio Uclés by Domingo Sánchez.")
 
 ## Casa Palacio Uclés by Domingo Sánchez
 
@@ -159,7 +159,7 @@ Además, su arquitectura es muy singular, ya que tiene una fachada de piedra del
 XVI, en cuya puerta principal luce un escudo de una antigua familia vinculada a la Orden 
 de Santiago, y un bonito patio renacentista. 
 
-![restaurante casa palacio monasterio ucles](etheria_images/2020/10/restaurante-casa-palacio-ucles.jpg "Desayuno en Casa Palacio Uclés by Domingo Sánchez.")
+![restaurante casa palacio monasterio ucles](etheria-images/2020/10/restaurante-casa-palacio-ucles.jpg "Desayuno en Casa Palacio Uclés by Domingo Sánchez.")
 
 Dicen los historiadores que aquí vivió Alonso de Ercilla y Zúñiga, autor de 'La 
 Araucana', un poema épico que relata la guerra de Arauco en los primeros compases de la 

@@ -1,12 +1,12 @@
 ---
 title: "10 playas de Europa donde querrás perderte este verano"
 date: 2019-04-15
-coverImage: etheria_images/2019/03/Playas-Europa-Capo-Testa-Cerdena.jpg
+coverImage: etheria-images/2019/03/Playas-Europa-Capo-Testa-Cerdena.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Llega el calorcito y no podemos dejar de visualizarnos en una playa. Si es en una de 
@@ -14,7 +14,7 @@ esas con paisajes que quitan el hipo y mar transparente, mucho mejor. Por esa ra
 hemos elegido diez playas secretas de Europa donde te vas a imaginar sí o sí este 
 verano. 
 
-![Playa del Cuerno de Oro de la isla de Brac.](etheria_images/2019/04/croacia-isla-brac.jpg "Playa del Cuerno de Oro de la isla de Brac.")
+![Playa del Cuerno de Oro de la isla de Brac.](etheria-images/2019/04/croacia-isla-brac.jpg "Playa del Cuerno de Oro de la isla de Brac.")
 
 El verano se acerca y las ganas de playita aumentan. Para ir preparándonos mentalmente 
 para tan ansiado momento y, al menos, poder viajar con la imaginación, os proponemos 
@@ -29,7 +29,7 @@ barco de un naufragio! Su imagen idílica e inaccesible (solo se puede llegar en
 con los restos del pecio ‘Panagiotis’ hacen de ella el lugar soñado para olvidarse de 
 todo. 
 
-![Playa del Navaglio (Grecia).](etheria_images/2019/03/Playas-Europa-Navagio-Grecia.jpg "Playa del Navaglio (Grecia).")
+![Playa del Navaglio (Grecia).](etheria-images/2019/03/Playas-Europa-Navagio-Grecia.jpg "Playa del Navaglio (Grecia).")
 
 ## 2\. Scala dei Turchi (Sicilia)
 
@@ -38,7 +38,7 @@ su piedra caliza blanca que forma los acantilados que rodean la playa. En esta f
 puedes ver las vistas desde lo alto del mirador natural que forman las rocas, pero 
 aseguramos que justo debajo hay una ensenada increíble. 
 
-![Mirador de Scala dei Turchi (Sicilia)](etheria_images/2019/03/Playas-Europa-Scala-dei-Turchi-Sicilia.jpg "Mirador de Scala dei Turchi (Sicilia). © Davide Ragusa")
+![Mirador de Scala dei Turchi (Sicilia)](etheria-images/2019/03/Playas-Europa-Scala-dei-Turchi-Sicilia.jpg "Mirador de Scala dei Turchi (Sicilia). © Davide Ragusa")
 
 ## 3\. Porto Timoni (Corfú)
 
@@ -47,7 +47,7 @@ mágicos y casi indescriptibles donde la naturaleza ha decido formar un lugar ú
 roca, mar transparente y vegetación. Merece la pena dar un paseo, de poco más de 20 
 minutos, desde el pueblo de Afionas para disfrutar de los paisajes de esta playa. 
 
-![Porto Timoni (Corfú).](etheria_images/2019/03/Playas-Europa-Corfu.jpg "Porto Timoni (Corfú). © Tom Grimbert")
+![Porto Timoni (Corfú).](etheria-images/2019/03/Playas-Europa-Corfu.jpg "Porto Timoni (Corfú). © Tom Grimbert")
 
 ## 4\. Rhossili  Bay (Gales, Reino Unido)
 
@@ -58,7 +58,7 @@ tonos de verde que rodea esta amplia bahía de larga marea. Se puede llegar cami
 desde el pueblo de Rhossili y es perfecta para combinar con una ruta de senderismo por 
 la zona. 
 
-![Playa de Rhossili Bay (Gales).](etheria_images/2019/03/Playas-Europa-Gales.jpg "Playa de Rhossili Bay (Gales).")
+![Playa de Rhossili Bay (Gales).](etheria-images/2019/03/Playas-Europa-Gales.jpg "Playa de Rhossili Bay (Gales).")
 
 ## 5\. Zlatni Rat (isla de Brac, Croacia)
 
@@ -67,7 +67,7 @@ famosas de Croacia (y de las pocas de arena fina). Un lugar único que contrasta
 habitual costa rocosa repleta de calas de Croacia. Aquí el encanto tiene la forma de un 
 cuerno que se desplaza según el viento y las mareas. 
 
-![Playa del Cuerno de Oro en la isla de Brac (Croacia).](etheria_images/2019/04/playa-Croacia-cuerno-dorado-bol.jpg "Playa del Cuerno de Oro en la isla de Brac (Croacia). © Ivo Biocina/Croatia Tourism Board")
+![Playa del Cuerno de Oro en la isla de Brac (Croacia).](etheria-images/2019/04/playa-Croacia-cuerno-dorado-bol.jpg "Playa del Cuerno de Oro en la isla de Brac (Croacia). © Ivo Biocina/Croatia Tourism Board")
 
 ## 6\. Capo Testa (Santa Teresa de Gallura, Cerdeña)
 
@@ -77,7 +77,7 @@ curiosas formaciones graníticas erosionadas de más de 300 millones de años y 
 transparente. Esta pequeña isla, unida mediante un istmo artificial a Cerdeña, está 
 llena de playas de arena y calas con encanto. 
 
-![Cala de Capo Testa (Cerdeña).](etheria_images/2019/03/Playas-Europa-Capo-Testa-Cerdena.jpg "Cala de Capo Testa (Cerdeña). © Massimo Virgilio")
+![Cala de Capo Testa (Cerdeña).](etheria-images/2019/03/Playas-Europa-Capo-Testa-Cerdena.jpg "Cala de Capo Testa (Cerdeña). © Massimo Virgilio")
 
 ## 7\. Praia do Norte (Nazaré, Portugal)
 
@@ -86,7 +86,7 @@ tan increíbles que se ha convertido en destino obligado para los surfistas dura
 invierno. Nos gusta por la fiereza de un Atlántico salvaje y por el coqueto pueblo 
 marinero de Nazaré que se ubica junto a ella. 
 
-![Praia do Norte en Nazaré (Portugal).](etheria_images/2019/03/Playas-Europa-Nazare.jpg "Praia do Norte en Nazaré (Portugal). © Magda B.")
+![Praia do Norte en Nazaré (Portugal).](etheria-images/2019/03/Playas-Europa-Nazare.jpg "Praia do Norte en Nazaré (Portugal). © Magda B.")
 
 ## 8\. Playa Marine (Porto Ota, Córcega)
 
@@ -96,7 +96,7 @@ margen de todo y con unas increíbles puestas de sol. Ota es un pueblo en la sie
 cercana y Porto Ota, el pueblo que se ha formado alrededor de su puerto, está a sólo 5 
 kilómetros. No te pierdas ninguno de los dos. 
 
-![Playa de Porto Ota (Corcega).](etheria_images/2019/03/Playas-Europa-Porto-Ota-Corcega.jpg "Playa de Porto Ota (Corcega). © Kai Pilger")
+![Playa de Porto Ota (Corcega).](etheria-images/2019/03/Playas-Europa-Porto-Ota-Corcega.jpg "Playa de Porto Ota (Corcega). © Kai Pilger")
 
 ## 9\. Playa de Cofete (Fuerteventura)
 
@@ -105,7 +105,7 @@ canaria de Fuerteventura. Inmensa y con un paisaje sobrecogedor de suaves colina
 merece un largo paseo por sus más de doce kilómetros de longitud. Eso sí, si te das un 
 baño cuidado porque es zona de corrientes. 
 
-![Playa de Cofete en Fuerteventura.](etheria_images/2019/03/Playas-Europa-Cofete-Fuerteventura.jpg "Playa de Cofete en Fuerteventura. © Michael Baccin")
+![Playa de Cofete en Fuerteventura.](etheria-images/2019/03/Playas-Europa-Cofete-Fuerteventura.jpg "Playa de Cofete en Fuerteventura. © Michael Baccin")
 
 ## 10\. Myrtos (Kefalonia, Grecia)
 
@@ -115,7 +115,7 @@ piedra caliza, el mar de un azul increíble y esa carretera serpenteante que, de
 aldea de Divarata, conduce hasta ella la convierten en un rincón imprescindible del mar 
 Jónico. 
 
-![Playa de Myrtos en la isla de Kefalonia.](etheria_images/2019/03/Playas-Europa-Myrtos-Beach-kefalonia-Grecia.jpg "Playa de Myrtos en la isla de Kefalonia. © George Prentzas")
+![Playa de Myrtos en la isla de Kefalonia.](etheria-images/2019/03/Playas-Europa-Myrtos-Beach-kefalonia-Grecia.jpg "Playa de Myrtos en la isla de Kefalonia. © George Prentzas")
 
 ? **También te puede interesar:** 
 

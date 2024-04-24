@@ -1,17 +1,17 @@
 ---
 title: "El Lodge Ski & Spa, un hotel boutique de lujo en Sierra Nevada"
 date: 2020-11-12
-coverImage: etheria_images/2020/11/hotel-sierra-nevada-el-lodge-piscina.jpg
+coverImage: etheria-images/2020/11/hotel-sierra-nevada-el-lodge-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ##### El Lodge Ski & Spa de Sierra Nevada es uno de los mejores hoteles para redondear una experiencia de lujo en la nieve. Un año más, este refugio está dispuesto a convertirse en el lugar de descanso de los amantes del deporte blanco. Su apertura está prevista para el 1 de diciembre de 2021.
 
-![suite de lujo en el lodge hotel de sierra nevada](etheria_images/2020/11/hotel-sierra-nevada-Deluxe-Suite.jpg "Vistas desde una suite de lujo de El Lodge Ski & Spa.")
+![suite de lujo en el lodge hotel de sierra nevada](etheria-images/2020/11/hotel-sierra-nevada-Deluxe-Suite.jpg "Vistas desde una suite de lujo de El Lodge Ski & Spa.")
 
 . 
 
@@ -28,7 +28,7 @@ que brinda todas las comodidades e, incluso, acceso directo a las pistas. Fue co
 en 2015 con madera finlandesa por lo que, unido a su acogedora decoración, se presenta 
 como el alojamiento ideal para sentir la calidez de un refugio de montaña europeo. 
 
-![suite con piscina hotel de sierra nevada](etheria_images/2020/11/hotel-sierra-nevada-Lodge-Suite-Pool.jpg "Suite con piscina del hotel El Lodge, en Sierra Nevada.")
+![suite con piscina hotel de sierra nevada](etheria-images/2020/11/hotel-sierra-nevada-Lodge-Suite-Pool.jpg "Suite con piscina del hotel El Lodge, en Sierra Nevada.")
 
 ## Habitaciones de lujo en Sierra Nevada
 
@@ -40,7 +40,7 @@ madera, y posters retro. Si bien, los mejores cuadros serán las panorámicas de
 montañas nevadas que se pueden apreciar desde las terrazas y ventanas de las 
 habitaciones. 
 
-![suite con vistas a sierra nevada](etheria_images/2020/11/hotel-sierra-nevada-Lodge-Suite-Mountain.jpg "Suite con vistas a la montaña, en El Lodge.")
+![suite con vistas a sierra nevada](etheria-images/2020/11/hotel-sierra-nevada-Lodge-Suite-Mountain.jpg "Suite con vistas a la montaña, en El Lodge.")
 
 Las dos habitaciones más espaciosas, para quien quiera darse el capricho en este refugio 
 de lujo, son la **Suite Ático** y la **Suite Penthouse**, ambas con 75 m2, sauna y 
@@ -56,7 +56,7 @@ calientes a la carta. Mientras que para los almuerzos y cenas te recomendamos lo
 de caza, las _fondues_, el pescado fresco a la parrilla,y el caviar de Riofrío, el 
 primer caviar ecológico del mundo y que es elaborado muy cerca de Sierra Nevada. 
 
-![the grill restaurante del lodge hotel](etheria_images/2020/11/hotel-sierra-nevada-The-Grill.jpg "The Grill, comidas con vistas a Sierra Nevada.")
+![the grill restaurante del lodge hotel](etheria-images/2020/11/hotel-sierra-nevada-The-Grill.jpg "The Grill, comidas con vistas a Sierra Nevada.")
 
 Otro espacio imprescindible es **The** **Sun Deck**, el único restaurante de Pradollano 
 con una terraza que ofrece acceso directo a la pista Maribel. Es el lugar ideal para 
@@ -65,7 +65,7 @@ ofrecen numerosos productos de la tierra, carnes a la brasa y pastas. Tomarse un
 al terminar la jornada de esquí, abrigados con una manta de piel ecológica, una estufa 
 calentando el ambiente y un cóctel en la mano, es además otra idea tentadora. 
 
-![sun deck en hotel de lujo sierra nevada](etheria_images/2020/11/hotel-sierra-nevada-The-Sun-Deck.jpg "The Sun Deck, en El Lodge de Sierra Nevada.")
+![sun deck en hotel de lujo sierra nevada](etheria-images/2020/11/hotel-sierra-nevada-The-Sun-Deck.jpg "The Sun Deck, en El Lodge de Sierra Nevada.")
 
 Mucho más elegante es **The Lounge**, uno de los rincones más acogedores en el interior 
 del hotel. Allí, sentados en un sofá Chesterfield junto a la chimenea o viendo una 
@@ -74,7 +74,7 @@ completa carta de cócteles, capaces de alegrar hasta la noche más fría. Y, si
 alargar un poco más la jornada, puedes acercarte a **The Bar,** donde siempre es buena 
 idea tomar un aperitivo o un picoteo tardío con una copa. 
 
-![lounge sale de relax en El Lodge](etheria_images/2020/11/hotel-sierra-nevada-The-Lounge.jpg "El Lounge, una sala donde relajarse tras la jornada de esquí.")
+![lounge sale de relax en El Lodge](etheria-images/2020/11/hotel-sierra-nevada-The-Lounge.jpg "El Lounge, una sala donde relajarse tras la jornada de esquí.")
 
 ## Piscina exterior y spa en Sierra Nevada
 
@@ -87,7 +87,7 @@ para relajar el cuerpo y para cuidar la piel. Actualmente trabajan con la marca 
 **Comfort Zone**, muy reconocida por sus fórmulas libres de siliconas, parabenos, 
 aceites minerales, colorantes artificiales o derivados animales. 
 
-![piscina de el lodge sky and spa](etheria_images/2020/11/hotel-El-Lodge-Ski-Spa.jpg "Piscina con vistas de El Lodge Ski & Spa.")
+![piscina de el lodge sky and spa](etheria-images/2020/11/hotel-El-Lodge-Ski-Spa.jpg "Piscina con vistas de El Lodge Ski & Spa.")
 
 Si viajas con niños te interesa saber que disponen de un **Kids Club** donde los más 
 pequeños pueden disfrutar de actividades pensadas especialmente para ellos. Los más 
@@ -95,7 +95,7 @@ mayores, hasta 14 años, lo pasarán en grande en la Sala de Juegos, donde cuent
 Playstation, Xbox, Wii, otros juegos y películas. Los servicios de niñera para los más 
 pequeños son a demanda. 
 
-![hotel de lujo en sierra nevada](etheria_images/2020/11/hotel-sierra-nevada-El-Lodge-Ski-Spa.jpg "El Lodge Ski & Spa, un acogedor refugio de lujo en Sierra Nevada.")
+![hotel de lujo en sierra nevada](etheria-images/2020/11/hotel-sierra-nevada-El-Lodge-Ski-Spa.jpg "El Lodge Ski & Spa, un acogedor refugio de lujo en Sierra Nevada.")
 
 ## Qué visitar desde Sierra Nevada
 

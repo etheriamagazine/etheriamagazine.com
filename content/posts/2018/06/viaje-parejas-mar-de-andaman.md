@@ -1,11 +1,11 @@
 ---
 title: "10 imágenes para enamorarse del mar de Andamán"
 date: 2018-06-16
-coverImage: etheria_images/2018/05/9-Playa-mar-de-Andaman-e1560153714626.jpg
+coverImage: etheria-images/2018/05/9-Playa-mar-de-Andaman-e1560153714626.jpg
 categories: 
   - de-un-vistazo
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 El mar de Andamán baña algunos de los lugares de playa más populares de Tailandia como 
@@ -13,7 +13,7 @@ Krabi, las islas Phi Phi y Phuket. Ofrece un mar azul intenso, curiosas formacio
 rocosas, un rico fondo marino y playas de ensueño. Un lugar perfecto para visitar en 
 pareja. 
 
-![Hotel Rayavadee, en Phranang.](etheria_images/2018/05/1-Krabi-Peninsula-de-Phranang-e1560153497740.jpg "Hotel Rayavadee, en Phranang.")
+![Hotel Rayavadee, en Phranang.](etheria-images/2018/05/1-Krabi-Peninsula-de-Phranang-e1560153497740.jpg "Hotel Rayavadee, en Phranang.")
 
 ## 1\. Península de Phranang (Krabi)
 
@@ -23,7 +23,7 @@ Rayavadee](https://etheriamagazine.com/2018/05/25/hotel-rayavadee-vivir-la-natur
 uno de los mejores hoteles de lujo de todo Tailandia. En el enlace os contamos nuestra 
 experiencia. 
 
-![Barcos frente a las islas Phi Phi.](etheria_images/2018/05/2-Islas-Phi-Phi-1024x768.jpg "Barcos frente a las islas Phi Phi.")
+![Barcos frente a las islas Phi Phi.](etheria-images/2018/05/2-Islas-Phi-Phi-1024x768.jpg "Barcos frente a las islas Phi Phi.")
 
 ## 2\. Islas Phi Phi
 
@@ -34,7 +34,7 @@ ellas, la mejor forma de acercarse a sus paisajes.
 **EXCURSIÓN A PHI PHI ISLANDS EN INGLÉS:** Puedes contratar una excursión para 
 recorrerlas en cualquiera de los hoteles de la zona o través de [Civitatis](https://www.civitatis.com/es/khao-lak/excursion-islas-phi-phi/?aid=10211). 
 
-![Típicos barcos 'longtail' de Tailandia.](etheria_images/2018/05/3-Phi-Phi-Island-1024x687.jpg "Típicos barcos 'longtail' de Tailandia.")
+![Típicos barcos 'longtail' de Tailandia.](etheria-images/2018/05/3-Phi-Phi-Island-1024x687.jpg "Típicos barcos 'longtail' de Tailandia.")
 
 ## 3\. Botes Longtail
 
@@ -42,7 +42,7 @@ Estos elegantes barcos de alta proa y poco calado (gracias a que llevan el motor
 del casco) son la imagen típica de las playas de la zona. Llenos de color, alegran 
 cualquier instantánea que se tome de estas playas. 
 
-![Snorkel en el mar de Andamán.](etheria_images/2018/05/4-Snorkel-en-Phi-Phi-e1560153598410.jpg "Snorkel en el mar de Andamán.")
+![Snorkel en el mar de Andamán.](etheria-images/2018/05/4-Snorkel-en-Phi-Phi-e1560153598410.jpg "Snorkel en el mar de Andamán.")
 
 ## 4\. Snorkel y buceo
 
@@ -56,7 +56,7 @@ eres un buceador experimentado estás en un lugar perfecto.
 Phi 
 Phi](https://www.civitatis.com/es/ko-phi-phi-don/buceo-parque-marino-phi-phi/?aid=10211). 
 
-![Isla de James Bond.](etheria_images/2018/05/5-Islote-Koh-Tapu-1024x683.jpg "Isla de James Bond. © SG")
+![Isla de James Bond.](etheria-images/2018/05/5-Islote-Koh-Tapu-1024x683.jpg "Isla de James Bond. © SG")
 
 ## 5\. Koh Tapu
 
@@ -70,7 +70,7 @@ en [lancha
 tradicional](https://www.civitatis.com/es/phuket/excursion-isla-james-bond/?aid=10211) y 
 al [amanecer](https://www.civitatis.com/es/krabi/excursion-isla-james-bond/?aid=10211). 
 
-![Bahía de Phang Nga.](etheria_images/2018/05/6-Phang-Nga-Bay-1024x768.jpg "Bahía de Phang Nga.")
+![Bahía de Phang Nga.](etheria-images/2018/05/6-Phang-Nga-Bay-1024x768.jpg "Bahía de Phang Nga.")
 
 ## 6\. Bahía de Phang Nga
 
@@ -83,7 +83,7 @@ islas, como la de Hong.
 con [Civitatis](https://www.civitatis.com/es/khao-lak/excursion-bahia-phang-nga/?aid=10211) 
 por esta bahía. 
 
-![Playa desierta en el mar de Andamán.](etheria_images/2018/05/7-Playa-desierta-mar-Andaman-1024x683.jpg "Playa desierta en el mar de Andamán. © SG")
+![Playa desierta en el mar de Andamán.](etheria-images/2018/05/7-Playa-desierta-mar-Andaman-1024x683.jpg "Playa desierta en el mar de Andamán. © SG")
 
 ## 7\. Playa desierta en bahía de Phang Nga.
 
@@ -91,7 +91,7 @@ Si se contrata una excursión privada para recorrer esta bahía una de las venta
 poder amarrar el barco en alguna de sus innumerables playas y disfrutar de un pequeño 
 rincón de este paraíso en soledad. Es el broche perfecto a una excursión por la zona. 
 
-![Koh Panyee es un pueblo que ha crecido sobre el agua.](etheria_images/2018/05/8-Koh-Panyee-1024x668.jpg "Koh Panyee es un pueblo que ha crecido sobre el agua. © SG")
+![Koh Panyee es un pueblo que ha crecido sobre el agua.](etheria-images/2018/05/8-Koh-Panyee-1024x668.jpg "Koh Panyee es un pueblo que ha crecido sobre el agua. © SG")
 
 ## 8\. Koh Panyee (bahía de Phang Nga)
 
@@ -99,7 +99,7 @@ Este pueblo construido sobre el mar fue creado por pescadores musulmanes que lle
 aquí desde Malasia y ofrece una curiosa imagen de casas sobre el agua con una brillante 
 mezquita al fondo. 
 
-![Playa desierta en el mar de Andamán.](etheria_images/2018/05/9-Playa-mar-de-Andaman-1024x683.jpg "Playa desierta en el mar de Andamán.")
+![Playa desierta en el mar de Andamán.](etheria-images/2018/05/9-Playa-mar-de-Andaman-1024x683.jpg "Playa desierta en el mar de Andamán.")
 
 ## 9\. Playa desierta
 
@@ -108,7 +108,7 @@ encuentran en este mar y que ofrecen un momento de relax mientras se flota sobre
 transparente o se descansa en la arena. Si alquilas una embarcación privada podrás 
 elegir la que más te guste para disfrutar en soledad. ¡No olvides llevar un picnic! 
 
-![Koh Poda.](etheria_images/2018/05/10-Isla-Poda-1024x748.jpg "Koh Poda.")
+![Koh Poda.](etheria-images/2018/05/10-Isla-Poda-1024x748.jpg "Koh Poda.")
 
 ## 10\. Isla Poda
 

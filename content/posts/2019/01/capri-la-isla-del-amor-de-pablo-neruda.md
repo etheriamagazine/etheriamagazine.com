@@ -1,12 +1,12 @@
 ---
-title: "Capri, la isla del amor de Pablo Neruda y Matilde Urrutia"
+title: "Matilde Urrutia y Capri, dos pasiones clandestinas de Pablo Neruda"
 date: 2019-01-15
-coverImage: etheria_images/2019/01/viaje-capri.jpg
+coverImage: etheria-images/2019/01/viaje-capri.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Capri dio refugio a Pablo Neruda en su exilio y éste la recompensó con uno de sus 
@@ -14,7 +14,9 @@ poemarios más famosos: 'Los versos del capitán'. Os invitamos a viajar solas o
 amigas a esta isla mediterránea recordando su apasionada (y clandestina) historia de 
 amor con Matilde Urrutia. 
 
-![Marina Pequeña de Capri.](etheria_images/2019/01/viaje-capri-900x675.jpg "Marina Pequeña de Capri. © Martyna Bober")
+![Marina Pequeña de Capri.](etheria-images/2019/01/viaje-capri-900x675.jpg "Marina Pequeña de Capri. © Martyna Bober")
+
+**Actualizado en 2024** 
 
 Pablo Neruda fue un gran poeta. Eso nadie lo duda y ahí está su Nobel de Literatura. 
 Pero también fue un hombre que sufrió y padeció a causa del exilio y por un amor 
@@ -29,7 +31,7 @@ detenido y deportado, pues ésa era la intención del Gobierno de Roma, presiona
 grupos conservadores que no querían en su territorio a un hombre de ideas comunistas, 
 por muy sabio que éste fuera. 
 
-![Matilde Urrutia y Pablo Neruda en Capri](etheria_images/2019/01/matilde-urrutia-amor-neruda-capri-1024x619.jpg "Matilde Urrutia y Pablo Neruda en Capri. © Archivo Fundación Pablo Neruda")
+![Matilde Urrutia y Pablo Neruda en Capri.](etheria-images/2019/01/matilde-urrutia-amor-neruda-capri-1024x619.jpg "Matilde Urrutia y Pablo Neruda en Capri. © Archivo Fundación Pablo Neruda")
 
 ## Neruda en Capri con Matilde Urrutia
 
@@ -52,7 +54,7 @@ Así que, cuando el poeta-capitán terminó sus versos tórridos y encendidos de
 dispuso a publicarlos, pero lo hizo como “Anónimo” porque no quería ofender a su esposa 
 legítima, la pintora argentina Delia del Carril. 
 
-![Capri, isla de neruda, historia amor neruda y matilde urrutia](etheria_images/2019/01/neruda-capri-1024x576.jpg "Farallones de Capri.")
+![Farallones de Capri.](etheria-images/2019/01/neruda-capri-1024x576.jpg "Farallones de Capri.")
 
 El poemario, dividido en siete partes, se publicó pronto, el 8 de julio de 1952, y se 
 editaron sólo 44 ejemplares que salieron de la imprenta Arte Tipográfico de Nápoles, con 
@@ -63,7 +65,7 @@ que había escrito para ella un ex combatiente republicano de la Guerra Civil es
 Evidentemente, aquella carta preliminar fue un invento más de Neruda para no molestar a 
 su todavía esposa. 
 
-![Neruda y matilde urrutia](etheria_images/2019/01/Neruda-matilde-urrutia-capri-1024x759.jpg "La pareja en Capri. © Archivo Fundación Neruda.")
+![La pareja en Capri.](etheria-images/2019/01/Neruda-matilde-urrutia-capri-1024x759.jpg "La pareja en Capri. © Archivo Fundación Neruda.")
 
 ## Un poemario sin firma
 
@@ -81,7 +83,7 @@ pasar 10 años hasta que Neruda reconoció finalmente la autoría de aquellos ve
 > que ató mis manos en los años sonoros, fue para mí durante 18 años una ejemplar 
 > compañera”, dejó escrito Pablo Neruda. 
 
-![Jardines de Augusto](etheria_images/2019/01/neruda-capri-5-1024x682.jpg "Jardines de Augusto, en Capri. © Gary Along")
+![Jardines de Augusto, en Capri.](etheria-images/2019/01/neruda-capri-5-1024x682.jpg "Jardines de Augusto, en Capri. © Gary Along")
 
 ## Capri era tan bella como hoy
 
@@ -113,7 +115,7 @@ paralizar la orden de expulsión que pesaba sobre el poeta. Y fue tan clamorosa 
 acogida dispensada a Neruda que el ministro del Interior se vio obligado a suspender 
 aquel mandato. 
 
-![viaje a capri, neruda en capri](etheria_images/2019/01/capri-farallones.jpg "Paisaje de Capri.")
+![Paisaje de Capri.](etheria-images/2019/01/capri-farallones.jpg "Paisaje de Capri.")
 
 ## En una casa blanca
 
@@ -135,9 +137,9 @@ entregó el manuscrito de “Los versos del capitán” que, dicen, Matilde cons
 caja de madera con trozos de nácar. Un poemario que es fruto de **una historia de 
 infidelidad, de pasión, de amistad y de complicidad. Con Capri como telón de fondo.** 
 
-![Marina Grande, en Capri.](etheria_images/2019/01/capri-marina-grande.jpg "Marina Grande, en Capri.")
+![Marina Grande, en Capri.](etheria-images/2019/01/capri-marina-grande.jpg "Marina Grande, en Capri.")
 
-## Sigue los pasos de Neruda:
+## Sigue los pasos de Neruda en Capri
 
 1\. Camino a los singulares “**farallones**” de Capri se advierte una placa que 
 reproduce un texto de Neruda dedicado a la isla: “Capri, reina de roca, en tu vestido de 
@@ -156,7 +158,7 @@ color blanco** que mira al Mediterráneo y a un tupido bosque.
 de cafés abiertos hasta los rincones más recónditos de la isla. Así que toda la isla de 
 Capri tiene algo de aroma “nerudiano". 
 
-### Otras historias que pueden interesarte:
+**Otras historias que pueden interesarte:** 
 
 [Sofía Casanova, una poetisa gallega en 
 Polonia](https://etheriamagazine.com/2018/09/10/la-poetisa-sofia-casanova-una-gallega-en-polonia/). 

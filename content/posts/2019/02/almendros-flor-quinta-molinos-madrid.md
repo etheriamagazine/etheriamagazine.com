@@ -1,11 +1,11 @@
 ---
 title: "Los almendros en flor de la Quinta de los Molinos, la  cita instagramer madrileña"
 date: 2019-02-22
-coverImage: etheria_images/2019/02/almendros-flor-quinta-molinos.jpg
+coverImage: etheria-images/2019/02/almendros-flor-quinta-molinos.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Los almendros en flor en Madrid indican la inminente llegada de la primavera. Y en la 
@@ -13,7 +13,7 @@ capital lo saben bien, por eso no quitan ojo del avance de la floración en la Q
 los Molinos. Sí, en un entorno urbano también se pueden ver las bonitas flores de estos 
 árboles desde finales de febrero hasta mediados de marzo (depende de la climatología). 
 
-![Almendros en flor en la Quinta de los Molinos de Madrid. © Etheria Magazine](etheria_images/2019/02/almendros-quinta-los-molinos-1.jpg "Almendros en flor en la Quinta de los Molinos de Madrid.")
+![Almendros en flor en la Quinta de los Molinos de Madrid. © Etheria Magazine](etheria-images/2019/02/almendros-quinta-los-molinos-1.jpg "Almendros en flor en la Quinta de los Molinos de Madrid.")
 
 **Actualizado 1 marzo 2024** 
 
@@ -40,7 +40,7 @@ de la Academia de Bellas Artes de San Fernando y concejal del Ayuntamiento de Ma
 Muy entusiasta de su profesión, incluso llegó a escribir algunas obras sobre el tránsito 
 urbanístico de la ciudad al campo. 
 
-![Lago de Quinta de los Molinos.](etheria_images/2019/02/lago-quinta-los-molinos.jpg "Lago de Quinta de los Molinos.")
+![Lago de Quinta de los Molinos.](etheria-images/2019/02/lago-quinta-los-molinos.jpg "Lago de Quinta de los Molinos.")
 
 ### De finca de recreo a parque público
 
@@ -52,7 +52,7 @@ tiempo. Todo este espacio, tras su muerte en 1978, pasa en parte a manos del
 Ayuntamiento cuatro años después. Fue declarado Jardín Histórico en 1997, y en 2016 se 
 abrió al público. 
 
-![Flores de almendro y parcela de estos árboles tras la caída de las mismas](etheria_images/2019/02/quinta-los-molinos-madrid.jpg "Flores de almendro (dcha.) y parcela de estos árboles tras la caída de las mismas (izq.)")
+![Flores de almendro y parcela de estos árboles tras la caída de las mismas](etheria-images/2019/02/quinta-los-molinos-madrid.jpg "Flores de almendro (dcha.) y parcela de estos árboles tras la caída de las mismas (izq.)")
 
 ## ¿Dónde ver los almendros en flor en Madrid?
 
@@ -72,7 +72,7 @@ gruta y disfruta del aroma de las flores. Si en febrero y marzo destaca la flora
 los almendros, cuando avanza la primavera todo el parque se cubre de flores, una imagen 
 igual de excepcional. 
 
-![En abril y mayo, el parque Quinta de los Molinos se llena de flores.](etheria_images/2019/02/flores-quinta-molinos.jpg "En abril y mayo, el parque Quinta de los Molinos se llena de flores.")
+![En abril y mayo, el parque Quinta de los Molinos se llena de flores.](etheria-images/2019/02/flores-quinta-molinos.jpg "En abril y mayo, el parque Quinta de los Molinos se llena de flores.")
 
 ## ¿Dónde está la Quinta de los Molinos?
 
@@ -85,7 +85,7 @@ Si no quieres llevar tu coche, el acceso en transporte público es muy sencillo,
 la puerta principal está justo en la salida del **Metro (Línea 5: estación Suanzes**) y 
 por allí pasan los autobuses 77, 104 y 105. 
 
-![Las flores cubren los almendros de una capa rosa y blanca.](etheria_images/2019/02/almendros-flor-quinta-molinos.jpg "Las flores cubren los almendros de una capa rosa y blanca.")
+![Las flores cubren los almendros de una capa rosa y blanca.](etheria-images/2019/02/almendros-flor-quinta-molinos.jpg "Las flores cubren los almendros de una capa rosa y blanca.")
 
 ## ¿Cuándo ver los almendros en flor en Madrid?
 
@@ -111,7 +111,7 @@ pasar un bosque de pinos, llegarás a las **parcelas de almendros**.
 
 Puedes descargarte un plano en este [enlace](https://www.madrid.es/UnidadesDescentralizadas/ZonasVerdes/Parques/Quinta_de_los_Molinos/Imagenes/QuintaLosMolinosN.pdf). 
 
-![Detalle del conjunto de la Fuente neobarroca.](etheria_images/2019/02/fuente-quinta-los-molinos.jpg "Detalle del conjunto de la Fuente neobarroca.")
+![Detalle del conjunto de la Fuente neobarroca.](etheria-images/2019/02/fuente-quinta-los-molinos.jpg "Detalle del conjunto de la Fuente neobarroca.")
 
 También te puedes acercar al nuevo **Espacio Abierto Quinta de los Molinos** 
 (espacioabiertoqm.com) que organiza numerosas actividades para niños y adolescentes 

@@ -1,10 +1,10 @@
 ---
 title: "Sania en Mendoza, la mayor región vinícola argentina"
 date: 2023-02-17
-coverImage: etheria_images/2023/02/sania-mendoza-excursion.jpg
+coverImage: etheria-images/2023/02/sania-mendoza-excursion.jpg
 categories: 
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -14,7 +14,7 @@ en el centro del país y fronteriza con Chile. Un lugar donde el vino es protago
 donde esta viajera silver ha vivido una de esas experiencias inolvidables: volar en 
 parapente. 
 
-![Sania en el Parque Nacional del Aconcagua.](etheria_images/2023/02/sania-mendoza-excursion.jpg "Sania en el Parque Nacional del Aconcagua. © Sania Jelic")
+![Sania en el Parque Nacional del Aconcagua.](etheria-images/2023/02/sania-mendoza-excursion.jpg "Sania en el Parque Nacional del Aconcagua. © Sania Jelic")
 
 Tras un mes y medio viajando por Patagonia decidí que era momento de dejar reposar las 
 impresiones vividas de la región. Así que tome un vuelo a **Mendoza**. La Gran Mendoza 
@@ -38,7 +38,7 @@ están señalizados ni vallados. Lo que significa que en época de fuertes lluvi
 ciudad no se inunda, pero que hay un determinado número de personas al año que se caen 
 en las canaletas y se pueden romper algún hueso. 
 
-![Monumento al Ejército de los Andes y monumento a la Hermandad Hispano Argentina.](etheria_images/2023/02/Mendoza-monumentos.jpg "Monumento al Ejército de los Andes y monumento a la Hermandad Hispano Argentina. © SJ")
+![Monumento al Ejército de los Andes y monumento a la Hermandad Hispano Argentina.](etheria-images/2023/02/Mendoza-monumentos.jpg "Monumento al Ejército de los Andes y monumento a la Hermandad Hispano Argentina. © SJ")
 
 Otro detalle curioso es que, al ser zona sísmica, los dos grandes terremotos del año 
 1861 y 1985 han dejado huella. Por ejemplo, las construcciones están limitadas en altura 
@@ -58,7 +58,7 @@ inmigrantes españoles e italianos. Muchas bodegas están en el valle del Uci y 
 Maipú, a la que se puede llegar en tranvía desde la ciudad. El vino tinto de Malbec es 
 casi la marca de la ciudad. 
 
-![Sania Jelic junto a botellas de vino en Mendoza](etheria_images/2023/02/sania-bodegas-vinos.jpg "En Mendoza hay muchas bodegas que se pueden visitar para catar sus vinos. © SJ")
+![Sania Jelic junto a botellas de vino en Mendoza](etheria-images/2023/02/sania-bodegas-vinos.jpg "En Mendoza hay muchas bodegas que se pueden visitar para catar sus vinos. © SJ")
 
 En la ciudad se pueden encontrar todo tipo de tours a distintas bodegas: con bici, con 
 guía, a caballo, con alojamiento, para ver estrellas, etc. Para todos los gustos. 
@@ -74,7 +74,7 @@ Durante la visita a la ciudad hice la excursión al Parque Provincial del Aconca
 tercera montaña más alta del mundo con sus 6.961 metros. La realicé con la empresa local 
 **Viajes Conocer** y fue una experiencia que se me quedó grabada en la memoria. 
 
-![Carretera de ascenso al Cristo Redentor de los Andes, en el Parque provincial del Aconcagua. Mendoza](etheria_images/2023/02/sania-mendoza-carretera-cristo-redentor.jpg "Carretera de ascenso al Cristo Redentor de los Andes. © SJ")
+![Carretera de ascenso al Cristo Redentor de los Andes, en el Parque provincial del Aconcagua. Mendoza](etheria-images/2023/02/sania-mendoza-carretera-cristo-redentor.jpg "Carretera de ascenso al Cristo Redentor de los Andes. © SJ")
 
 El recorrido en minibus incluye paradas en el lago de la presa dique Potrerillos, en el 
 Puente del Inca, con extrañas formaciones (Patrimonio de la Humanidad de la Unesco), y 
@@ -100,7 +100,7 @@ trato humano que nos dieron. En ningún momento nos sentimos desacreditadas o di
 a pasajeros de otras edades. Se nos trató con respeto, amabilidad y profesionalidad, 
 cuidando de nuestra seguridad y velando por que tuviésemos una experiencia positiva. 
 
-![Vuelo en parapente en el pico Aconcagua, en Mendoza](etheria_images/2023/02/sania-vuelo-mendoza.jpg "Sania con su compañera preparadas para el vuelo. Carretera de ascenso al Cristo Redentor de los Andes. © Sania Jelic")
+![Vuelo en parapente en el pico Aconcagua, en Mendoza](etheria-images/2023/02/sania-vuelo-mendoza.jpg "Sania con su compañera preparadas para el vuelo. Carretera de ascenso al Cristo Redentor de los Andes. © Sania Jelic")
 
 Ese trato cercano es lo que nos dio tranquilidad para disfrutar del vuelo y hacer la 
 carrerilla al vacío inicial ¡que siempre impresiona! Diego y su equipo son fantásticos. 

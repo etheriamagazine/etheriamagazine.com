@@ -1,13 +1,13 @@
 ---
 title: "Consejos de Sania Jelic para organizar un viaje sola de seis meses"
 date: 2023-06-29
-coverImage: etheria_images/2023/05/sania-subida-ciudad-perdida.jpg
+coverImage: etheria-images/2023/05/sania-subida-ciudad-perdida.jpg
 categories: 
   - consejos-practicos
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -16,7 +16,7 @@ de varios meses por América Latina. Presta atención a sus consejos de preparac
 que, quién sabe, quizá tengas en algún momento la oportunidad de vivir una experiencia 
 tan inolvidable como la suya. Viajar sola y disfrutarlo no es cuestión de edad. 
 
-![Sania haciendo trekking en El Chalten](etheria_images/2023/01/Sania-el-chalten-senderismo.jpg "Sania haciendo senderismo en El Chalten con el Fitz Roy al fondo. © SJ")
+![Sania haciendo trekking en El Chalten](etheria-images/2023/01/Sania-el-chalten-senderismo.jpg "Sania haciendo senderismo en El Chalten con el Fitz Roy al fondo. © SJ")
 
 Cuando una se va de vacaciones unas semanas la preparación es relativamente sencilla, 
 sobre todo si es dentro del ámbito nacional. Ropa adecuada y accesorios, poco más. Un 
@@ -48,7 +48,7 @@ los museos, con los guías o con los demás viajeros… y cada encuentro aporta 
 vida social es parte de la experiencia del viaje. Lo habitual es **volver con más 
 amigos** de los que se tenía antes de salir de viaje. 
 
-![Sania y sus compañeras de viaje con la cooperativa de mujeres productoras de cosméticos del pueblo yara en el Amazonas.](etheria_images/2022/12/Sania-amazonas-yara.jpg "Sania y sus compañeras de viaje con la cooperativa de mujeres productoras de cosméticos del pueblo yara en el Amazonas. © Sania Jelic")
+![Sania y sus compañeras de viaje con la cooperativa de mujeres productoras de cosméticos del pueblo yara en el Amazonas.](etheria-images/2022/12/Sania-amazonas-yara.jpg "Sania y sus compañeras de viaje con la cooperativa de mujeres productoras de cosméticos del pueblo yara en el Amazonas. © Sania Jelic")
 
 ## Preparación logística 
 
@@ -72,7 +72,7 @@ entrar en la dinámica del viaje.
 ? Como consejo, es importante mirar los **festivos del destino** porque afectará la 
 disponibilidad de alojamiento y las aglomeraciones en atracciones turísticas. 
 
-![mujer con mapas, gorro y mochila escribiendo en un cuaderno](etheria_images/2023/06/sania-viajar-sola-planificar-viaje.jpg "Planificar un viaje es la primera forma de comenzar a vivirlo.")
+![mujer con mapas, gorro y mochila escribiendo en un cuaderno](etheria-images/2023/06/sania-viajar-sola-planificar-viaje.jpg "Planificar un viaje es la primera forma de comenzar a vivirlo.")
 
 ### La documentación 
 
@@ -106,7 +106,7 @@ el uso diario e ir añadiendo dinero según las necesidades. De esta manera una 
 que llevar encima la principal tarjeta bancaria y, en caso de robo o pérdida, el daño es 
 limitado. 
 
-![mejer con móvil y tarjeta de crédito](etheria_images/2023/06/sania-viajar-sola-tarjeta-credito.jpg "Es importante llevar listas las aplicaciones móviles del banco.")
+![mejer con móvil y tarjeta de crédito](etheria-images/2023/06/sania-viajar-sola-tarjeta-credito.jpg "Es importante llevar listas las aplicaciones móviles del banco.")
 
 Tendrás que abrir además tanto una cuenta de **PayPal**, en algunos sitios es la única 
 manera de pagar, como en **Western Unión**. Podrás hacerte una transferencia desde la 
@@ -132,7 +132,7 @@ recurrir a una **tarjeta digital, e-SIM**, que se instala en el móvil habitual.
 instalada, se elige uno de los planes de datos disponibles para el país que se vaya a 
 visitar. Actualmente las más populares son Airalo y [Holafly](https://etheriamagazine.com/2022/06/17/holafly-viaje-espana/). 
 
-![mujer con móvil](etheria_images/2023/06/sania-viajar-sola-mapas.jpg "Hay que llevar descargados los mapas de los lugares que se van a recorrer.")
+![mujer con móvil](etheria-images/2023/06/sania-viajar-sola-mapas.jpg "Hay que llevar descargados los mapas de los lugares que se van a recorrer.")
 
 Hay que asegurarse de tener **suficiente espacio de almacenamiento en el móvil y la 
 nube** para poder subir las fotos y los vídeos. También elegir las aplicaciones que se 
@@ -156,7 +156,7 @@ mejor guardar precaución sobre todo con el agua. **Siempre hay que beber agua
 embotellada**, asegurándose de que la botella es intacta, y nada de hielo. En caso de 
 duda, hay que evitar las ensaladas. 
 
-![mujer sirviendo un vaso de agua](etheria_images/2023/06/sania-viajar-sola-agua.jpg "El agua siempre hay que tomarla embotellada.")
+![mujer sirviendo un vaso de agua](etheria-images/2023/06/sania-viajar-sola-agua.jpg "El agua siempre hay que tomarla embotellada.")
 
 Si se para en un mercado y apetece algo de fruta, mejor elegir plátano y aguacate, que 
 se pueden pelar. Como consejo, viene muy bien llevar siempre una bolsita de frutos secos 
@@ -169,7 +169,7 @@ viajar con una **maleta de cabina y una mochila de treinta litros máximo**. Al 
 la ropa, hay que pensar en vestirse por capas y llevar el calzado justo, ya que pesa y 
 abulta. Ya comprarás por el camino lo puedas necesitar si no lo has llevado de casa. 
 
-![maleta amarilla con sombrero](etheria_images/2023/06/sania-viajar-sola-maleta.jpg "Intenta organizarte con una maleta de cabina y una mochila.")
+![maleta amarilla con sombrero](etheria-images/2023/06/sania-viajar-sola-maleta.jpg "Intenta organizarte con una maleta de cabina y una mochila.")
 
 Conviene elegir bien los **accesorios para los dispositivos electrónicos** para no 
 cargar con demasiado por el peso. Un cargador de pared múltiple es muy útil por la 
@@ -188,7 +188,7 @@ viajeros españoles son populares las de IATI y Chapka. Luego hay coberturas esp
 para determinados deportes y actividades. Una vez contratada, hay que imprimir póliza 
 del seguro y los números de emergencia, además de tener todo localizable en el móvil. 
 
-![Sania con Socorro Mosquera en la Comuna 13 en Medellín](etheria_images/2023/04/sania-medellin-socorro-mosquera.jpg "Sania con Socorro Mosquera en la Comuna 13 de Medellín. © SJ")
+![Sania con Socorro Mosquera en la Comuna 13 en Medellín](etheria-images/2023/04/sania-medellin-socorro-mosquera.jpg "Sania con Socorro Mosquera en la Comuna 13 de Medellín. © SJ")
 
 Tendrás que acordar a quién dejas la **llave de tu domicilio** y pedir que te recojan el 
 correo del buzón. También es importante compartir con una persona de confianza la póliza 
@@ -211,7 +211,7 @@ documentos para enviártelos a ti misma por correo electrónico.
 Por último, conviene **estar en forma antes del viaje**. Si no eres muy de gimnasio, 
 basta con caminar todos los días para ir cogiendo fondo. 
 
-![Sania en la ruta de la Ciudad Perdida](etheria_images/2023/05/sania-ciudad-perdida-pueblo.jpg "Sania camino de la Ciudad Perdida en Colombia, en una ruta muy exigente a nivel físico. © Sania Jelic.")
+![Sania en la ruta de la Ciudad Perdida](etheria-images/2023/05/sania-ciudad-perdida-pueblo.jpg "Sania camino de la Ciudad Perdida en Colombia, en una ruta muy exigente a nivel físico. © Sania Jelic.")
 
 ## Preparación social
 
@@ -278,7 +278,7 @@ Estos son sólo algunos consejos, se me ocurren muchos más pero un viaje comien
 preparación y eso también es un proceso de descubrimiento. Gracias por acompañarme en 
 este viaje a América Latina y ¡hasta la próxima aventura! En unos meses, África. 
 
-![mujer escuchando música al atardecer](etheria_images/2023/06/sania-viajar-sola-musica.jpg "La música siempre es una buena compañía en un viaje.")
+![mujer escuchando música al atardecer](etheria-images/2023/06/sania-viajar-sola-musica.jpg "La música siempre es una buena compañía en un viaje.")
 
 ? **Puedes ver en Etheria Magazine las diferentes etapas del viaje de Sania Jelic. 
 Algunas son:** 

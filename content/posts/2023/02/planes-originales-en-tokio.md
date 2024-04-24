@@ -1,11 +1,11 @@
 ---
 title: "10 planes originales en Tokio: saca tu lado más friki"
 date: 2023-02-13
-coverImage: etheria_images/2023/02/tokio-friki.jpg
+coverImage: etheria-images/2023/02/tokio-friki.jpg
 categories: 
   - planes-cultura-ocio
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Una ciudad como Tokio se puede visitar de mil maneras y, si puedes, más de una vez. 
@@ -14,7 +14,7 @@ tradicionales de la cultura japonesa con una vanguardia futurista que la hace ú
 Aquí te sugerimos 10 planes originales en Tokio con los que exprimir el lado más friki 
 de una ciudad donde está prohibido el aburrimiento. 
 
-![Vestimentas originales en Tokio.](etheria_images/2023/02/tokio-friki.jpg "'Looks' muy originales en Tokio. © TCVB")
+![Vestimentas originales en Tokio.](etheria-images/2023/02/tokio-friki.jpg "'Looks' muy originales en Tokio. © TCVB")
 
 Tokio da para mucho. Esta inmensa ciudad es capaz de adaptarse a cada viajero para 
 proporcionarle aquello que demanda en su visita y siempre desde un punto de vista muy 
@@ -36,7 +36,7 @@ aseguramos que volverás a la infancia. La estación de metro más cercana es Ak
 pero si prefieres ir con una visita organizada, reserva el [tour privado por el Tokio 
 más friki](https://www.civitatis.com/es/tokio/tour-tokio-friki/?aid=10211) de Civitatis. 
 
-![Carteles en Akihabara](etheria_images/2023/02/Tokio-Akihabara-carteles.jpg "Carteles en Akihabara. © SG")
+![Carteles en Akihabara](etheria-images/2023/02/Tokio-Akihabara-carteles.jpg "Carteles en Akihabara. © SG")
 
 ## Fotos purikura en Takeshita
 
@@ -50,7 +50,7 @@ podrás hacerte fotos en grupo (son fotomatones grandes) al estilo purikura, es 
 pudiendo retocar las fotos para que tú también adquieras ese estilo kawai. Pasaréis un 
 rato de lo más divertido. 
 
-![Calle Takeshita y fotomatón para hacerse fotos en grupo.](etheria_images/2023/02/tokio-takeshita.jpg "Calle Takeshita y fotomatón para hacerse fotos en grupo. © SG")
+![Calle Takeshita y fotomatón para hacerse fotos en grupo.](etheria-images/2023/02/tokio-takeshita.jpg "Calle Takeshita y fotomatón para hacerse fotos en grupo. © SG")
 
 ## Visitar Asakusa con un kimono tradicional
 
@@ -66,7 +66,7 @@ Civitatis la [visita guiada por
 Asakusa](https://www.civitatis.com/es/tokio/visita-guiada-asakusa/?aid=10211) con el 
 alquiler del kimono tradicional incluido. 
 
-![Calle Nakasime y detalle de un kimono tradicional.](etheria_images/2023/02/Tokio-Nakasime-kimono.jpg "Calle Nakasime y detalle de un kimono tradicional. © SG")
+![Calle Nakasime y detalle de un kimono tradicional.](etheria-images/2023/02/Tokio-Nakasime-kimono.jpg "Calle Nakasime y detalle de un kimono tradicional. © SG")
 
 ## Seguir la ruta de 'Lost in Translation'
 
@@ -81,7 +81,7 @@ privado Lost in
 Translation](https://www.civitatis.com/es/tokio/tour-lost-in-translation/?aid=10211) y 
 con guía en español. 
 
-![cruce de Shibuya en Tokio](etheria_images/2023/02/tokio-shibuya.jpg "El cruce de Shibuya es uno de los escenarios de 'Lost in Translation'. © Jezael Melgoza")
+![cruce de Shibuya en Tokio](etheria-images/2023/02/tokio-shibuya.jpg "El cruce de Shibuya es uno de los escenarios de 'Lost in Translation'. © Jezael Melgoza")
 
 ## Descubrir una ciudad subterránea
 
@@ -97,7 +97,7 @@ los japoneses sin pararte mucho para no tropezar. Te sorprenderá el orden que m
 hasta en una estación como ésta que cualquier otro lugar del mundo sería un auténtico 
 caos. 
 
-![Calle bajo la Estación Central de Tokio.](etheria_images/2023/02/tokio-estacion-central.jpg "Calle bajo la Estación Central de Tokio. © TCVB")
+![Calle bajo la Estación Central de Tokio.](etheria-images/2023/02/tokio-estacion-central.jpg "Calle bajo la Estación Central de Tokio. © TCVB")
 
 ## La ruta de los gatos en Tokio
 
@@ -109,7 +109,7 @@ que, si se tienen buenos sentimientos de gratitud, la fortuna llegará de forma 
 Es un templo con unos bonitos jardines y se pueden buscar dentro todas las 
 representaciones de gatos de la suerte que contiene. 
 
-![Gatos de la suerte en el Templo Gotokuji y Cat Cafe Mocha.](etheria_images/2023/02/tokio-gatos.jpg "Gatos de la suerte en el Templo Gotokuji y Cat Cafe Mocha.")
+![Gatos de la suerte en el Templo Gotokuji y Cat Cafe Mocha.](etheria-images/2023/02/tokio-gatos.jpg "Gatos de la suerte en el Templo Gotokuji y Cat Cafe Mocha.")
 
 En Tokio también encontrarás cafeterías donde los gatos te acompañarán mientras tomas 
 algo, como el **Cat Café Mocha**, ubicado en Shibuya. Para enlazar todos los lugares 
@@ -128,7 +128,7 @@ que reconstruye el lugar donde algunos de los primeros autores legendarios de an
 (mangakas) como Osamu Tezuka vivieron en su juventud. Si quieres visitarlo tienes que 
 reservar la entrada por internet en su web tokiwasomm.jp. 
 
-![Imágenes de manga y anime](etheria_images/2023/02/Tokio-manga.jpg "Imágenes de manga y anime. © Dex Ezequiel")
+![Imágenes de manga y anime](etheria-images/2023/02/Tokio-manga.jpg "Imágenes de manga y anime. © Dex Ezequiel")
 
 ## Entrenar sumo como un profesional
 
@@ -142,7 +142,7 @@ alberga el Museo del Sumo. Otro lugar de referencia es **Sumo Experience**, dond
 realizan exhibiciones y se puede incluso realizar un entrenamiento de esta disciplina. 
 Puedes reservarla a través de [Civitatis](https://www.civitatis.com/es/tokio/visita-entrenamiento-sumo/?aid=10211). 
 
-![Combate de sumo.](etheria_images/2023/02/tokio-sumo.jpg "Combate de sumo. © Bob Fisher")
+![Combate de sumo.](etheria-images/2023/02/tokio-sumo.jpg "Combate de sumo. © Bob Fisher")
 
 ## Relax en un onsen japonés
 
@@ -154,7 +154,7 @@ Aunque hay otras zonas del país como Hakone más populares para alojarse en los
 tradicionales ryokan y disfrutar de las aguas termales, si sólo se visita Tokio también 
 te puedes dar un respiro en forma de baño calentito. 
 
-![Piscina de un onsen.](etheria_images/2023/02/tokio-onsen.jpg "Piscina de un onsen. © TCVB")
+![Piscina de un onsen.](etheria-images/2023/02/tokio-onsen.jpg "Piscina de un onsen. © TCVB")
 
 En la zona oeste de Tama, un barrio de las afueras de Tokio, hay numerosos onsen donde 
 se puede ir a pasar el día. Y en el barrio de Ota, donde se encuentra el aeropuerto, se 
@@ -189,7 +189,7 @@ si usas el enlace anterior, por ser lector/a de ETHERIA MAGAZINE. Puedes elegir 
 seguro para este viaje en concreto o **uno ANUAL**, que te saldrá a cuenta si realizas 
 más de un viaje al año. 
 
-![Kart por las calles de Tokio y las populares figuras de Mario Kart.](etheria_images/2023/02/tokio-mario-kart.jpg "Kart por las calles de Tokio y las populares figuras de Mario Kart. © Ajay Murthy/Ravi Palwe")
+![Kart por las calles de Tokio y las populares figuras de Mario Kart.](etheria-images/2023/02/tokio-mario-kart.jpg "Kart por las calles de Tokio y las populares figuras de Mario Kart. © Ajay Murthy/Ravi Palwe")
 
 **También te puede interesar:** 
 

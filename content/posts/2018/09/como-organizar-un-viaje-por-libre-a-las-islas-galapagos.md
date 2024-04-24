@@ -1,13 +1,13 @@
 ---
 title: "Qué debes tener en cuenta para viajar a Galápagos"
 date: 2018-09-29
-coverImage: etheria_images/2018/09/tortuga-islas-galapagos.jpg
+coverImage: etheria-images/2018/09/tortuga-islas-galapagos.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 El planeta cuenta con lugares sorprendentes a los que merece la pena viajar porque 
@@ -16,7 +16,7 @@ parece a nada que conoces, es el archipiélago de las Islas Galápagos. No es r�
 económico llegar hasta allí pero merece totalmente la pena. Te damos algunas claves para 
 organizar un viaje por libre a Galápagos. 
 
-![Las excursiones a los lugares protegidos de las islas Galápagos se deben hacer en grupo.](etheria_images/2018/09/viaje-galapagos-Tintoreras-1024x681.jpg "Las excursiones a los lugares protegidos se deben hacer en grupo.")
+![Las excursiones a los lugares protegidos de las islas Galápagos se deben hacer en grupo.](etheria-images/2018/09/viaje-galapagos-Tintoreras-1024x681.jpg "Las excursiones a los lugares protegidos se deben hacer en grupo.")
 
 El descubrimiento de las Islas Galápagos a nivel territorial y como destino vacacional 
 se puede decir que es reciente. Las primeras referencias se remontan al año 1535 –de 
@@ -50,7 +50,7 @@ gobierno ecuatoriano constituyeron su población principal hasta hace pocas déc
 Ahora es un archipiélago protegido medioambientalmente que cuenta con los habitantes 
 necesarios para atender la demanda turística. 
 
-![Tortuga marina en las Islas Galápagos](etheria_images/2018/09/tortuga-islas-galapagos.jpg "Tortuga marina en las Islas Galápagos. © Dustin Haney")
+![Tortuga marina en las Islas Galápagos](etheria-images/2018/09/tortuga-islas-galapagos.jpg "Tortuga marina en las Islas Galápagos. © Dustin Haney")
 
 ## Qué debes preparar para viajar a Galápagos
 
@@ -89,7 +89,7 @@ de este barco (1 dólar) se cruza el **canal de Itabaca** para llegar a **Puerto
 y, desde allí, se debe tomar un autobús (unos 2 dólares) o un taxi (unos 25 dólares y 
 pueden viajar 4 personas) que lleva al centro de Puerto Ayora en 45 minutos. 
 
-![Canal Itabaca entre la isla de Baltra y la de Santa Cruz.](etheria_images/2018/08/galapagos-Canal-Itabaca-1024x580.jpg "Canal Itabaca entre la isla de Baltra y la de Santa Cruz.")
+![Canal Itabaca entre la isla de Baltra y la de Santa Cruz.](etheria-images/2018/08/galapagos-Canal-Itabaca-1024x580.jpg "Canal Itabaca entre la isla de Baltra y la de Santa Cruz.")
 
 **Si viajas hasta la Isla de San Cristóbal**, desde el aeropuerto toma un bus o taxi 
 (unos 3 USD) hasta la población Puerto Vaquerizo, a donde se llega en 10 minutos. 
@@ -120,7 +120,7 @@ clientes las 24 horas del día. Por su ubicación, apartada y mirando al mar, es
 para desconectar y disfrutar de la calma del lugar. Ofrecen habitaciones dobles o 
 suites, desayunos, comidas y cenas (a la luz de las velas, casi sobre el mar). 
 
-![Casa Marita, hotel-boutique de Puerto Villamil (Isla Isabela).](etheria_images/2018/09/casa-marita-isabela-galapagos-1024x502.jpg "Casa Marita, hotel-boutique de Puerto Villamil (Isla Isabela).")
+![Casa Marita, hotel-boutique de Puerto Villamil (Isla Isabela).](etheria-images/2018/09/casa-marita-isabela-galapagos-1024x502.jpg "Casa Marita, hotel-boutique de Puerto Villamil (Isla Isabela).")
 
 **Casa Marita**. Este hotel-boutique se encuentra en Puerto Villamil, en Isla Isabela, 
 rodeado de vegetación y a pie de playa. Habitaciones amplias y limpias con las 
@@ -146,7 +146,7 @@ precios aceptables. En los hoteles te pueden preparar una bolsa de picnic para l
 excursiones marítimas, aunque algunas de ellas también lo incluyen e incluso llevan a un 
 cocinero a bordo. 
 
-![Ceviche de pescado.](etheria_images/2018/09/ceviche-ecuador-1024x683.jpg "Ceviche de pescado.")
+![Ceviche de pescado.](etheria-images/2018/09/ceviche-ecuador-1024x683.jpg "Ceviche de pescado.")
 
 ### 6\. Lugares imprescindibles
 
@@ -160,7 +160,7 @@ de Santa Cruz.
 **Buceo o snorkel**. Conocer la variada vida submarina del archipiélago es 
 imprescindible. 
 
-![Snorkel en Galápagos.](etheria_images/2018/09/snorkel-galapagos-1024x768.jpg "Snorkel en Galápagos.")
+![Snorkel en Galápagos.](etheria-images/2018/09/snorkel-galapagos-1024x768.jpg "Snorkel en Galápagos.")
 
 **Islote Tintoreras**. Paisaje de lava crujiente donde se concentran iguanas. Se pueden 
 divisar también tiburones y lobos marinos. 
@@ -177,7 +177,7 @@ En el equipaje no debe faltar: calzado todoterreno, ropa de algodón que transpi
 antimosquitos, protector solar y cámara acuática para grabar en las actividades de 
 _snorkelling_. 
 
-![Iguanas marinas secándose al sol.](etheria_images/2018/09/Iguanas-marinas-galapagos-1024x682.jpg "Iguanas marinas secándose al sol.")
+![Iguanas marinas secándose al sol.](etheria-images/2018/09/Iguanas-marinas-galapagos-1024x682.jpg "Iguanas marinas secándose al sol.")
 
 ### Más consejos
 

@@ -1,7 +1,7 @@
 ---
-title: "11 escapadas de un día a 100 km o más de Madrid"
+title: "11 excursiones desde Madrid a 100 km o poco más"
 date: 2020-06-02
-coverImage: etheria_images/2020/05/viaje-barrancas.jpg
+coverImage: etheria-images/2020/05/viaje-barrancas.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -9,8 +9,8 @@ categories:
   - planes-cultura-ocio
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 A veces no son necesarias escapadas muy lejanas para desconectar y disfrutar de los 
@@ -18,24 +18,28 @@ descubrimientos viajeros. Te proponemos 11 excursiones desde Madrid, que están 
 máximo de dos horas de camino y que puedes hacer en tren o en coche. ¿Con cuál vas a 
 empezar? 
 
-![Las Barrancas de Castrejón, el 'Cañón del Colorado' español.](etheria_images/2020/05/viaje-barrancas.jpg "Las Barrancas de Castrejón, el 'Cañón del Colorado' español. © Javier Álamo")
+![Las Barrancas de Castrejón, el 'Cañón del Colorado' español.](etheria-images/2020/05/viaje-barrancas.jpg "Las Barrancas de Castrejón, el 'Cañón del Colorado' español. © Javier Álamo")
+
+Actualizado en abril de 2024. 
 
 Estas excursiones desde Madrid están pensadas para ir y volver en el mismo día o para 
 pasar un fin de semana alejadas del asfalto de la capital: aquí van once buenas razones 
-para estimular el 'wanderlust', tu pasión por viajar. 
+para estimular el 'wanderlust', tu pasión por viajar. En el siguiente listado 
+encontrarás opciones para todos los gustos, algunas enfocadas a descubrir la naturaleza 
+del entorno madrileño y otras que son perfectas para enamorarse del patrimonio 
+arquitectónico o cultural. ¡Tú eliges! 
 
-## 11 excursiones desde Madrid a menos de dos horas
-
-### 1\. Barrancas de Castrejón y Calaña (Toledo), a 100 km
+## 1\. Barrancas de Castrejón y Calaña (Toledo), a 100 km
 
 **Las Barrancas de Castrejón y Calaña (o de Burujón)**, en la provincia de Toledo están 
 a 100 km de Madrid. Esta formación sedimentaria del **Tajo** es nuestro particular Cañón 
-del Colorado. La vereda de las Barrancas te llevará hasta varios [miradores](https://goo.gl/maps/UyyJtkG6ZrCKXMUm6) 
-desde donde podrás contemplar la impresionante panorámica del **embalse de Castrejón**. 
+del Colorado. La vereda de las Barrancas te llevará hasta varios miradores desde donde 
+podrás contemplar la impresionante panorámica del **embalse de Castrejón**. 
 
-![Fuente del palacio de la Granja de San Ildefonso, unas de las excursiones desde Madrid imprescindibles](etheria_images/2020/05/granja-san-ildefonso-segovia-900x600.jpg "Fuente del palacio de la Granja de San Ildefonso. © BarbeeAnne")
+\*Sigue leyendo: [Cómo organizar la excursión a las Barrancas de 
+Burujón.](https://etheriamagazine.com/2023/10/20/excursion-barrancas-de-burujon-toledo/) 
 
-### 2\. Real Sitio de San Ildefonso (Segovia), a 102 km
+## 2\. Real Sitio de San Ildefonso (Segovia), a 102 km
 
 El Real Sitio de San Ildefonso está en la provincia de Segovia y a 102 km de Madrid. 
 Tres palacios completan esta escapada tan regia: el de **La Granja de San Ildefonso**, 
@@ -43,32 +47,32 @@ el de **Riofrío** y el de **Valsaín**. Remata la visita probando unos delicios
 **judiones** de La Granja, localidad en la que cada verano elaboran en honor a San Luis 
 una judiada para más de once mil personas. 
 
-![Vista de Ávila, una de las excursiones desde Madrid que no defrauda](etheria_images/2020/05/viaje-avila.jpg "Ávila. © Alex Olzheim")
+![Fuente del palacio de la Granja de San Ildefonso, unas de las excursiones desde Madrid imprescindibles](etheria-images/2020/05/granja-san-ildefonso-segovia-900x600.jpg "Fuente del palacio de la Granja de San Ildefonso. © BarbeeAnne")
 
-### 3\. Ávila capital, a 114 km
+## 3\. Ávila capital, a 114 km
 
 Ávila está flanqueada por una de las murallas medievales mejor conservadas de España. 
 Desde el **mirador de los Cuatro Postes** se contemplan los muros que rodean el casco 
 histórico de la ciudad. La iglesia-convento de Santa Teresa repasa su sorprendente 
 biografía, con levitaciones y persecuciones inquisitoriales incluidas. 
 
-### 4\. Talavera de la Reina (Toledo), a 121 km
+![Vista de Ávila, una de las excursiones desde Madrid que no defrauda](etheria-images/2020/05/viaje-avila.jpg "Ávila. © Alex Olzheim")
+
+## 4\. Talavera de la Reina (Toledo), a 121 km
 
 **Talavera de la Reina**, en la provincia de Toledo es una ciudad con una tradición 
 cerámica de cinco siglos. Visita su Basílica, los preciosos **jardines del Prado** y no 
 te pierdas su muralla y sus **torres albarranas**. 
 
-![Pedraza](etheria_images/2020/05/viaje-segovia-pedraza-900x675.jpg "Pedraza. © Kelu Robles")
-
-### 5\. Pedraza (Segovia), a 126 km
+## 5\. Pedraza (Segovia), a 126 km
 
 Las impecables calles empedradas de esta villa situada en la provincia de Segovia no 
 auguran las macabras historias que alberga su cárcel medieval. El **cochinillo** y el 
 **lechazo** al horno del Corral de la Joaquina te harán olvidarlas pronto. 
 
-![Sepúlveda, una excursión perfecta desde Madrid](etheria_images/2020/05/viaje-segovia-sepulveda.jpg "Sepúlveda. © Kelu Robles")
+![Pedraza](etheria-images/2020/05/viaje-segovia-pedraza-900x675.jpg "Pedraza. © Kelu Robles")
 
-### 6\. Sepúlveda (Segovia), a 127 km
+## 6\. Sepúlveda (Segovia), a 127 km
 
 La ciudad de Sepúlveda se encuentra en la provincia de Segovia, a 127 km de Madrid. Esta 
 villa medieval gira en torno a su Plaza Mayor, que paradójicamente se encuentra 
@@ -80,20 +84,21 @@ declarado Conjunto Histórico Artístico. Si viajas con niños te interesa esta 
 familiar a las hoces del 
 Duratón](https://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/). 
 
-![Catedral de Sigüenza, una excursión ideal desde Madrid](etheria_images/2020/05/viajes-catedral-siguenza.jpg "Catedral de Sigüenza. © Cesarez")
+![Sepúlveda, una excursión perfecta desde Madrid](etheria-images/2020/05/viaje-segovia-sepulveda.jpg "Sepúlveda. © Kelu Robles")
 
-### 7\. Sigüenza (Guadalajara), a 128 km
+## 7\. Sigüenza (Guadalajara), a 128 km
 
 **Sigüenza** se encuentra en la provincia de Guadalajara y a 128 km de Madrid. Su 
 catedral fue erigida durante el reinado de **Doña Urraca** en el siglo XII. No te 
 pierdas la **Casa del Doncel** y prepara las botas para recorrer estas dos rutas de 
 senderismo: la de la **Hoz de Pelegrina** y la del **Barranco del Río Dulce**. 
 
-[▶️ Qué ver en Sigüenza: del pasado medieval a la movida madrileña.](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/)
+\*Sigue leyendo. [Qué ver en Sigüenza: del pasado medieval a la movida 
+madrileña](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/). 
 
-![Ruta de las Caras en Cuenca](etheria_images/2020/05/viaje-ruta-caras-900x541.jpg "Ruta de las Caras en Cuenca. © Diego Delso")
+![Panorámica de Sigüenza.](etheria-images/2023/11/siguenza-castilla-la-mancha-850x567.jpg "Panorámica de Sigüenza.")
 
-### 8\. Ruta de las Caras (Cuenca), a 130 km
+## 8\. Ruta de las Caras (Cuenca), a 130 km
 
 La imagen de la Ruta de las Caras evoca **‘Juego de Tronos’**, ¿recuerdas el secreto de 
 los "hombres sin rostro"? En el recorrido encontrarás dieciocho esculturas con imágenes 
@@ -101,9 +106,9 @@ y bajorrelieves de todo tipo. El nivel de dificultad es fácil y la duración ap
 de una hora. Los pinares y las rocas areniscas protagonizan el entorno del **embalse de 
 Buendía**. 
 
-![Molinos de Campo de Criptana.](etheria_images/2020/05/viaje-campo-criptana.jpg "Molinos de Campo de Criptana. © Kelu Robles")
+![Ruta de las Caras en Cuenca](etheria-images/2020/05/viaje-ruta-caras-900x541.jpg "Ruta de las Caras en Cuenca. © Diego Delso")
 
-### 9\. Campo de Criptana (Ciudad Real), a 164 km
+## 9\. Campo de Criptana (Ciudad Real), a 164 km
 
 Esta población se encuentra en Ciudad Real (Castilla-La Mancha), a 164 km de Madrid. En 
 **Etheria Magazine** confeccionamos esta [Ruta 
@@ -112,9 +117,9 @@ que resume muy bien los atractivos manchegos de la **localidad quijotesca**. Si 
 preguntas por qué la ruta se llama así, quizá no sepas que en Campo de Criptana nació la 
 actriz **Sara Montiel** (1928-2013). 
 
-![Vista panorámica de Cuenca.](etheria_images/2020/05/escapada-cuenca.jpg "Vista panorámica de Cuenca. © Eduardo Casajús Gorostiaga/ Unsplash")
+![Molinos de Campo de Criptana.](etheria-images/2020/05/viaje-campo-criptana.jpg "Molinos de Campo de Criptana. © Kelu Robles")
 
-### 10\. Cuenca capital, a 168 km
+## 10\. Cuenca capital, a 168 km
 
 La ciudad de Cuenca se encuentra en Castilla-La Mancha, a 168 km de Madrid. Sus 
 vertiginosas **casas colgadas** —¡que no colgantes!— son consideradas Bien de Interés 
@@ -123,9 +128,9 @@ Las escenas fueron rodadas en La Ciudad Encantada, en la provincia de Cuenca. Ya
 vas, descubre qué son el **morteruelo** y las migas, dos de las recetas más famosas y 
 contundentes de la zona. 
 
-![Plaza Mayor de Valladolid.](etheria_images/2020/05/viaje-valladolid.jpg "Plaza Mayor de Valladolid. © Kelu Robles")
+![Vista panorámica de Cuenca.](etheria-images/2020/05/escapada-cuenca.jpg "Vista panorámica de Cuenca. © Eduardo Casajús Gorostiaga/ Unsplash")
 
-### 11\. Valladolid capital, a 214 km
+## 11\. Valladolid capital, a 214 km
 
 Aunque la ciudad de **Valladolid**, en Castilla y León, se encuentra a 214 km de Madrid, 
 si viajas en tren sólo tardarás en llegar 55 minutos. La ciudad ofrece la excusa ideal 
@@ -137,7 +142,9 @@ No olvides visitar su Plaza Mayor, la Catedral, la iglesia de la Antigua, la Aca
 Caballería, el Pasaje Gutiérrez, las exposiciones del Museo Patio Herreriano y las joyas 
 del Museo Nacional de Escultura. 
 
-### Otras excursiones desde Madrid...
+![Plaza Mayor de Valladolid.](etheria-images/2020/05/viaje-valladolid.jpg "Plaza Mayor de Valladolid. © Kelu Robles")
+
+**Otras excursiones desde Madrid...** 
 
 ✅ [15 escapadas a menos de 99 km de 
 Madrid](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-madrid/). 

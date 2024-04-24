@@ -1,14 +1,14 @@
 ---
 title: "Descubre los 12 imprescindibles de Almería provincia"
 date: 2023-07-17
-coverImage: etheria_images/2023/06/Almeria-sierra-maria-velez-mirador.jpg
+coverImage: etheria-images/2023/06/Almeria-sierra-maria-velez-mirador.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La provincia de Almería brinda paisajes únicos, algunos que parecen sacados de otro 
@@ -16,7 +16,7 @@ planeta, y pueblos encalados con flores en los balcones que son la viva estampa 
 Andalucía. En este artículo te mostramos qué ver en Almería a través de doce lugares 
 imprescindibles. Todos te van a enamorar. 
 
-![Playa de los Muertos, en el Parque Natural de Cabo de Gata-Níjar](etheria_images/2023/06/almeria-playa-muertos.jpg "Playa de los Muertos, en el Parque Natural de Cabo de Gata-Níjar. © Turismo de Andalucía.")
+![Playa de los Muertos, en el Parque Natural de Cabo de Gata-Níjar](etheria-images/2023/06/almeria-playa-muertos.jpg "Playa de los Muertos, en el Parque Natural de Cabo de Gata-Níjar. © Turismo de Andalucía.")
 
 Almería parece pensada para disfrutar del turismo con calma, quizá debido a la paz que 
 emana de sus paisajes infinitos y sus tranquilos habitantes. Son muchos los lugares que 
@@ -36,7 +36,7 @@ de sus bares, donde las sabrosas y abundantes tapas gratis están garantizadas. 
 no te pierdas locales como **Casa Puga**, famosa por sus gambas con gabardina, 
 Entrefinos, El Quinto Toro, Nuestra Tierra o la Bodega Las Botas. 
 
-![Alcazaba de Almería](etheria_images/2023/06/almeria-alcazaba.jpg "Alcazaba de Almería.")
+![Alcazaba de Almería](etheria-images/2023/06/almeria-alcazaba.jpg "Alcazaba de Almería.")
 
 ### El casco histórico
 
@@ -84,7 +84,7 @@ iglesia de Nuestra Señora de la Encarnación, con una bonita fachada. En Vera s
 encuentra también el **Museo Casa del Cine**, un lugar para conocer la intensa relación 
 de esta provincia con el séptimo arte y donde se guardan algunas piezas curiosas. 
 
-![Iglesia de la Encarnación de Vera en Almería](etheria_images/2023/06/vera-iglesia-encarnacion.jpg "Iglesia de la Encarnación de Vera. © Turismo de Andalucía.")
+![Iglesia de la Encarnación de Vera en Almería](etheria-images/2023/06/vera-iglesia-encarnacion.jpg "Iglesia de la Encarnación de Vera. © Turismo de Andalucía.")
 
 Las aficionadas al senderismo disfrutarán con la **Ruta del Agua**. Este recorrido 
 circular de trece kilómetros lleva por antiguos lavaderos, fuentes, acequias, aljibes y 
@@ -100,7 +100,7 @@ sol y los deportes acuáticos y uno de los mejores lugares para probar la famosa
 roja. Pero si hay algo que marca la personalidad del pueblo es precisamente su 
 **tradición pesquera** reflejada en su puerto. 
 
-![Barcos en el puerto de Garrucha en Almería](etheria_images/2023/06/almeria-garrucha-puerto.jpg "Barcos en el puerto de Garrucha. © Turismo de Andalucía.")
+![Barcos en el puerto de Garrucha en Almería](etheria-images/2023/06/almeria-garrucha-puerto.jpg "Barcos en el puerto de Garrucha. © Turismo de Andalucía.")
 
 Aquí es posible ver cómo los pescadores trabajan y descargan el pescado recién cogido y 
 ver el curioso funcionamiento de la **subasta de la lonja**, que se celebra cada día a 
@@ -119,7 +119,7 @@ de estilo renacentista, ni la Fuente Mora, de origen árabe. Un buen lugar para 
 algo y disfrutar de su gastronomía es la **Plaza Nueva**, siempre animada, llena de 
 bares y tiendas. 
 
-![Mocájar en Almería](etheria_images/2023/06/almeria-mojacar.jpg "Mocájar. © Turismo de Andalucía.")
+![Mocájar en Almería](etheria-images/2023/06/almeria-mojacar.jpg "Mocájar. © Turismo de Andalucía.")
 
 A tres kilómetros se encuentra su zona de **playas** (con un total de 17 kilómetros de 
 litoral), un importante centro turístico en verano perfecto para caminar por su Paseo 
@@ -135,7 +135,7 @@ siglo XVI) y la Fuente de la Villa, pero si por algo es famoso Níjar es por su 
 Puedes visitar alguno de los talleres y tiendas para apreciar sus piezas únicas y 
 aprender sobre el proceso de elaboración. 
 
-![Calle de Níjar.](etheria_images/2023/06/almeria-nijar-calle.jpg "Calle de Níjar. © Turismo de Andalucía.")
+![Calle de Níjar.](etheria-images/2023/06/almeria-nijar-calle.jpg "Calle de Níjar. © Turismo de Andalucía.")
 
 Si vas en domingo, no te pierdas en la siempre animada plaza de la Glorieta con su 
 **Mercado de Artesanía**, con bonitas piezas y productos gastronómicos. Otros lugares 
@@ -152,7 +152,7 @@ y con bonitas vistas al mar, un lugar perfecto para sentarse a tomar algo en uno
 bares. Un lugar fundamental en una visita a San José es el **Mirador de la Amatista**, 
 que regala unas vistas preciosas. 
 
-![San José en Almería](etheria_images/2023/06/almeria-San-Jose.jpg "San José. © Turismo de Andalucía.")
+![San José en Almería](etheria-images/2023/06/almeria-San-Jose.jpg "San José. © Turismo de Andalucía.")
 
 ### Roquetas de Mar
 
@@ -162,7 +162,7 @@ visitantes son sus **playas**, con kilómetros de costa bañados por un tranquil
 Mediterráneo. Son perfectas para las familias, y destacan la playa de la Urbanización de 
 Roquetas y la playa de la Bajadilla. 
 
-![](etheria_images/2023/06/Almeria-Roquetas-de-Ma-puerto.jpg "Puerto de Roquetas de Mar. © Turismo de Andalucía.")
+![](etheria-images/2023/06/Almeria-Roquetas-de-Ma-puerto.jpg "Puerto de Roquetas de Mar. © Turismo de Andalucía.")
 
 Además, su patrimonio histórico deja lugares como el **Castillo de Santa Ana**, del 
 siglo XVII, que se ha convertido en un centro cultural y que ofrece unas vistas 
@@ -177,7 +177,7 @@ En el interior de la provincia, en la Alpujarra granadina, hay también bonitos 
 que contrastan con los de la costa. Uno de ellos el Laujar de Andarax, que aparece 
 rodeado de montañas y viñedos, conocido por su producción de vino y su herencia morisca. 
 
-![macetas en una calle de Laujar de Andarax](etheria_images/2023/06/almeria-Laujar-de-Andarax.jpg "Laujar de Andarax. © Turismo de Andalucía.")
+![macetas en una calle de Laujar de Andarax](etheria-images/2023/06/almeria-Laujar-de-Andarax.jpg "Laujar de Andarax. © Turismo de Andalucía.")
 
 Además de su animada **Plaza Mayor**, en este pueblo merece la pena acercarse a la 
 iglesia de la Encarnación, de estilo mudéjar y con un imponente campanario; y a la 
@@ -210,7 +210,7 @@ de los mejores lugares del parque para contemplar la puesta de sol.
 ? [Excursión al Parque Natural Cabo de 
 Gata-Níjar](https://www.civitatis.com/es/almeria/excursion-cabo-gata/?aid=10211). 
 
-![Playa de Mónsul, en el Parque Natural Cabo de Gata-Níjar](etheria_images/2023/06/Almeria-playa-monsul.jpg "Playa de Mónsul, en el Parque Natural Cabo de Gata-Níjar. © Turismo de Andalucía.")
+![Playa de Mónsul, en el Parque Natural Cabo de Gata-Níjar](etheria-images/2023/06/Almeria-playa-monsul.jpg "Playa de Mónsul, en el Parque Natural Cabo de Gata-Níjar. © Turismo de Andalucía.")
 
 #### Playas de Cabo de Gata
 
@@ -225,7 +225,7 @@ es en realidad la salida al mar de la caldera volcánica del valle de Rodalquila
 **playa de los Escullos**, un lugar pausado con curiosas formaciones rocosas; o la 
 **cala de Enmedio**, más pequeña, pero tranquila y perfecta para el baño. 
 
-![Playa de los Genoveses en el Parque Natural Cabo de Gata](etheria_images/2023/06/almeria-playa-genoveses.jpg "Playa de los Genoveses. © Turismo de Almería.")
+![Playa de los Genoveses en el Parque Natural Cabo de Gata](etheria-images/2023/06/almeria-playa-genoveses.jpg "Playa de los Genoveses. © Turismo de Almería.")
 
 #### Pueblos de Cabo de Gata
 
@@ -248,7 +248,7 @@ contratar una **excursión en 4x4** con una de las empresas autorizadas, que te
 realizarán una ruta para conocer tanto los secretos de su ecosistema como las 
 localizaciones de películas y anuncios famosos. 
 
-![Desierto de Tabernas](etheria_images/2023/06/almeria-Tabernas-desierto.jpg "Desierto de Tabernas. © Turismo de Andalucía.")
+![Desierto de Tabernas](etheria-images/2023/06/almeria-Tabernas-desierto.jpg "Desierto de Tabernas. © Turismo de Andalucía.")
 
 En el Desierto de Tabernas se encuentran dos parques temáticos que recrean las películas 
 de antiguo Oeste americano: **Oasys MiniHollywood**, que ocupa el antiguo plató de cine 
@@ -270,7 +270,7 @@ estalactitas y estalagmitas te sorprenderá a cada paso (no te pierdas la Sala d
 Desnudos) y, además, la visita de la **Cueva del Agua** se hace a bordo de una barca que 
 atraviesa un paisaje mágico. 
 
-![Ruta por el interior de las Cuevas de Sorbas en Almería](etheria_images/2023/06/almeria-Espeleovisita-Cuevas-Sorbas.jpg "Ruta por el interior de las Cuevas de Sorbas. © Turismo de Andalucía.")
+![Ruta por el interior de las Cuevas de Sorbas en Almería](etheria-images/2023/06/almeria-Espeleovisita-Cuevas-Sorbas.jpg "Ruta por el interior de las Cuevas de Sorbas. © Turismo de Andalucía.")
 
 Para las más aventureras, en estas cuevas se pueden organizar también **espeleobuceo** y 
 **espeleología**, que permiten adentrarse aún más en las profundidades de la cueva y 
@@ -292,7 +292,7 @@ peregrino, el azor o el águila real. Otro de los atractivos del parque es la **
 los Letreros**, que alberga unas interesantes pinturas rupestres datadas en el 
 Neolítico. 
 
-![Mirador en el Parque Natural Sierra-María Los Vélez en Almería](etheria_images/2023/06/Almeria-sierra-maria-velez-mirador.jpg "Mirador en el Parque Natural Sierra-María Los Vélez. © Turismo de Andalucía.")
+![Mirador en el Parque Natural Sierra-María Los Vélez en Almería](etheria-images/2023/06/Almeria-sierra-maria-velez-mirador.jpg "Mirador en el Parque Natural Sierra-María Los Vélez. © Turismo de Andalucía.")
 
 En este parque merece la pena detenerse en alguno de sus pueblos, como **Vélez-Blanco**, 
 que alberga un castillo renacentista, la iglesia de Santiago y la Casa de los Arcos; o 

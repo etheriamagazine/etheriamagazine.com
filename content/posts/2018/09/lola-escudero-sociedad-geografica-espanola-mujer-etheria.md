@@ -1,15 +1,15 @@
 ---
 title: "Lola Escudero: \"Si no miro un mapa es como si no supiera donde estoy\""
 date: 2018-09-03
-coverImage: etheria_images/2018/08/lola-escudero-mujer-etheria-aleppo-libano.jpg
+coverImage: etheria-images/2018/08/lola-escudero-mujer-etheria-aleppo-libano.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
-author: 
+authors: 
   - Eva Madruga
 ---
 
-![lola escudero mujer etheria sociedad geografica españa](etheria_images/2018/08/lola-escudero-mujer-etheria-aleppo-libano.jpg "Lola Escudero fundadora y secretaria general de la Sociedad Geográfica Española")
+![lola escudero mujer etheria sociedad geografica españa](etheria-images/2018/08/lola-escudero-mujer-etheria-aleppo-libano.jpg "Lola Escudero fundadora y secretaria general de la Sociedad Geográfica Española")
 
 ###### Geógrafa, periodista, fundadora y secretaria general de la [Sociedad Geográfica Española](https://sge.org/), Lola Escudero reúne todas las condiciones para ser una de nuestras [Mujeres Etheria](https://etheriamagazine.com/category/mujeres-etheria/) por su vinculación con el mundo turístico y su pasión por la Geografía.
 
@@ -19,7 +19,7 @@ Lola ha dedicado las tres últimas décadas de su vida a la comunicación especi
 
 Creo que un viaje a **Marsella**, para un intercambio cultural, cuando era adolescente. Fue mi primer viaje sola. Y profesionalmente, creo que a **Isla Mauricio**, el primero para escribir un reportaje. Lo hice con un pequeño grupo de periodistas, de los que todavía guardo un buen recuerdo.
 
-\[caption id="attachment\_3251" align="aligncenter" width="1024"\]![marsella mujeres etheria lola escudero](etheria_images/2018/08/Marsella-pixabay-sin-atribucion-1024x731.jpg) Vista de Marsella desde el puerto (Francia).\[/caption\]
+\[caption id="attachment\_3251" align="aligncenter" width="1024"\]![marsella mujeres etheria lola escudero](etheria-images/2018/08/Marsella-pixabay-sin-atribucion-1024x731.jpg) Vista de Marsella desde el puerto (Francia).\[/caption\]
 
 ##### 2\. ¿Cuál es tu principal motivación al viajar?
 
@@ -45,7 +45,7 @@ Leyendo. Si puede ser, una novela. Cuanto más entretenida e intrascendente mejo
 
 Fuera de España, a **Costa Rica**. Me ha parecido que tiene una naturaleza apabullante y magnífica, pero he echado de menos los aspectos culturales. En España, acabo de descubrir la **zona minera de la Unión**, a unos kilómetros de mi Cartagena natal. Impresionante y olvidada. Es la prueba de que a veces tenemos algo muy interesante y desconocido a un paso de nosotros.
 
-\[caption id="attachment\_3106" align="aligncenter" width="1024"\]![cathedral cove viaje autocaravana nueva zelanda](etheria_images/2018/08/autocaravana-playa-catedral-cove-viaje-1024x682.jpg) Cathedral Cove, Nueva Zelanda.\[/caption\]
+\[caption id="attachment\_3106" align="aligncenter" width="1024"\]![cathedral cove viaje autocaravana nueva zelanda](etheria-images/2018/08/autocaravana-playa-catedral-cove-viaje-1024x682.jpg) Cathedral Cove, Nueva Zelanda.\[/caption\]
 
 ##### 8\. ¿Qué tres viajes que hayas realizado recomendarías a nuestras lectoras?
 
@@ -67,7 +67,7 @@ Sinceramente: **España** e **Italia** son mis países favoritos gastronómicame
 
 Me impresionó, por ejemplo, el **hotel Taj Rambagh Palace**, de Jaipur, porque está hecho realmente para impresionar. Además, la mayor parte de los hoteles de **Polinesia** o de las **islas del Índico**, ya que el entorno es insuperable.
 
-\[caption id="attachment\_3249" align="aligncenter" width="1024"\]![Hotel Taj Rambagh Palace](etheria_images/2018/08/hotel-Taj-Rambagh-Palace-Jaipur-1024x683.jpg) © Hotel Taj Rambagh Palace (Jaipur, India).\[/caption\]
+\[caption id="attachment\_3249" align="aligncenter" width="1024"\]![Hotel Taj Rambagh Palace](etheria-images/2018/08/hotel-Taj-Rambagh-Palace-Jaipur-1024x683.jpg) © Hotel Taj Rambagh Palace (Jaipur, India).\[/caption\]
 
 ##### 13\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 

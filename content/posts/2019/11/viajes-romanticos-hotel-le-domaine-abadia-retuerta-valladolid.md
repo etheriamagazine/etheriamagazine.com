@@ -1,18 +1,18 @@
 ---
 title: "Fin de semana romántico en Le Domaine, el hotel de la bodega Abadía Retuerta"
 date: 2019-11-13
-coverImage: etheria_images/2019/11/Le-domaine-Desayuno-Jardín-del-Claustro.jpg
+coverImage: etheria-images/2019/11/Le-domaine-Desayuno-Jardín-del-Claustro.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Si estás buscando una escapada romántica, una excelente opción es gozar de un fin de semana en Le Domaine, el hotel de la bodega Abadía Retuerta, en Valladolid. Aquí beberás excelentes vinos, comerás bien y dormirás mejor. ¿Se puede pedir más?
 
-![bodega Abadía Retuerta con el hotel Le Domaine](etheria_images/2019/11/Le-Domaine-vinedos-900x600.jpg "Hotel Le Domaine y sus viñedos. © SG")
+![bodega Abadía Retuerta con el hotel Le Domaine](etheria-images/2019/11/Le-Domaine-vinedos-900x600.jpg "Hotel Le Domaine y sus viñedos. © SG")
 
 ```
 Actualizado en junio 2021
@@ -32,7 +32,7 @@ hotel está lleno de rincones deliciosos. Como el **Jardín del Claustro**, perf
 tomar un café, la **Sala Capitular** que alberga el bar o la iglesia, que proporciona un 
 marco único para la organización de eventos. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria_images/2019/11/Le-domaine-Desayuno-Jardín-del-Claustro-900x675.jpg "Desayuno en el Jardín del Claustro. © Le Domaine Abadía Retuerta")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Le-domaine-Desayuno-Jardín-del-Claustro-900x675.jpg "Desayuno en el Jardín del Claustro. © Le Domaine Abadía Retuerta")
 
 La abadía fue construida por el conde Sancho Ansúrez en 1146 y los primeros monjes que 
 se establecieron en ella fueron los **premostratenses**. Fue uno de los monasterios que 
@@ -44,7 +44,7 @@ singular dueño: el grupo farmacéutico suizo Novartis. Ellos pusieron en valor 
 historia y tradición del lugar. Y lo más importante: **renovaron la abadía** como un 
 hotel del lujo y dieron vida a la bodega. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria_images/2019/11/Le-Domaine-sala-900x600.jpg "En la sala Capitular de la abadía se encuentra el bar del hotel. © SG")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Le-Domaine-sala-900x600.jpg "En la sala Capitular de la abadía se encuentra el bar del hotel. © SG")
 
 ## Un hotel para el descanso absoluto
 
@@ -57,7 +57,7 @@ no puede haber mejor lugar para el descanso: sus habitaciones cuentan con unas c
 prometen un sueño reparador; y las vistas sobre los viñedos que ofrecen sus ventanales 
 transmiten toda la paz del campo. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria_images/2019/11/Le-Domaine-habitacion-900x675.jpg "Junior Suite de © Le Domaine Abadía Retuerta.")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Le-Domaine-habitacion-900x675.jpg "Junior Suite de © Le Domaine Abadía Retuerta.")
 
 Cuenta con 27 habitaciones dobles y 3 suites con un estilo único y todas las 
 comodidades: suelo de roble, iluminación regulable, minibar gratuito, wifi y unos baños 
@@ -78,7 +78,7 @@ como la ‘Cigala al natural, la sopa de pan candeal y almedra’ o la ‘Alcach
 crema de topinambo, levadura tostada y tomillo’. En todos se ofrece la opción de añadir 
 el maridaje de vinos. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria_images/2019/11/Le-domaine-Refectorio-900x599.jpg "Sala del restaurante El Refectorio. © Le Domaine Abadía Retuerta.")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Le-domaine-Refectorio-900x599.jpg "Sala del restaurante El Refectorio. © Le Domaine Abadía Retuerta.")
 
 También puedes elegir para una de las comidas o cenas la **Vinoteca**. Situada sobre la 
 Cueva que guarda tesoros en forma de botellas de vino de la Abadía Retuerta. Su carta 
@@ -87,7 +87,7 @@ cuando te apetece probar varias propuestas de la carta. Todo está bueno y es
 equilibrado, pero se saltan las lágrimas con el _steak tartar_ y el ‘Salteado de 
 verduras, escabeche y papada ibérica’. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria_images/2019/11/Le-Domaine-Vinoteca-Steak-tartar-900x600.jpg "Steak tartar de la Vinoteca. © Le Domaine Abadía Retuerta.")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Le-Domaine-Vinoteca-Steak-tartar-900x600.jpg "Steak tartar de la Vinoteca. © Le Domaine Abadía Retuerta.")
 
 No puedes perderte el nuevo **Calicata Terroir Bar**, que ofrece una experiencia 
 gastronómica basada en los productos locales y se ubica en una preciosa terraza rodeada 
@@ -107,7 +107,7 @@ imaginar, desde iPods con una cuidada selección musical hasta cremas solares, s
 agua termal o snacks de fruta fresca. Y, por qué no, un delicioso cóctel para disfrutar 
 en la tumbona. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria_images/2019/11/Le-Domaine-piscina-900x600.jpg "Piscina del hotel Le Domaine. © SG")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Le-Domaine-piscina-900x600.jpg "Piscina del hotel Le Domaine. © SG")
 
 Es muy recomendable dedicar unas horas a mimarte en el spa, que además está abierto todo 
 el año. El **Spa Sommelier del Santuario** ofrece una combinación de medicina 
@@ -115,7 +115,7 @@ tradicional tibetana con aromaterapia, todo relacionado con el mundo del vino. S
 este tratamiento, podrás hacer una cata con vinos de la Abadía Retuerta. En función de 
 tus gustos te recomendarán los aromas que formarán parte de tu masaje. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria_images/2019/11/Santuario-LeDomaine-900x399.jpg "Cata en el Spa Sommelier y la sala Spa Suite. © Le Domaine Abadía Retuerta")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Santuario-LeDomaine-900x399.jpg "Cata en el Spa Sommelier y la sala Spa Suite. © Le Domaine Abadía Retuerta")
 
 > Si quieres un plus en tu escapada, tienes que reservar el Spa Suite, un lugar para un 
 > masaje en pareja con toda la privacidad y en un entorno único. Cuenta con baño de vapor, 
@@ -139,7 +139,7 @@ alegría y un rosado que engrandece este tipo de vino muchas veces denostado sin
 Si buscas nuevas experiencias, no te pierdas la **Winemaker’s Collection** con la que 
 Ángel Anocibar experimenta con todo tipo de uvas. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria_images/2019/11/Le-domaine-bodega-Abadia-Retuerta-900x650.jpg "Bodega Abadía Retuerta y botella de gran formato de su vino Selección Especial. © SG")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Le-domaine-bodega-Abadia-Retuerta-900x650.jpg "Bodega Abadía Retuerta y botella de gran formato de su vino Selección Especial. © SG")
 
 Además, Abadía Retuerta muestra una gran preocupación por el medioambiente y por la 
 sostenibilidad, así como por las prácticas tradicionales. Y eso se refleja en unas salas 
@@ -159,7 +159,7 @@ barricas; una cata de la gama completa de la bodega; un aperitivo campero (entre
 bajo una encina centenaria); o una cata de la Winemaker’s Collection, entre otras 
 propuestas. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria_images/2019/11/Le-Domaine-actividades-900x448.jpg "Experiencias en Abadía Retuerta: aperitivo campero y ruta en bicicleta eléctrica. © Le Domaine Abadía Retuerta")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Le-Domaine-actividades-900x448.jpg "Experiencias en Abadía Retuerta: aperitivo campero y ruta en bicicleta eléctrica. © Le Domaine Abadía Retuerta")
 
 También puedes participar en la vendimia o pasar una mañana apícola descubriendo los 
 secretos de las abejas (para grupos de mínimo ocho personas). Lo amantes de la cocina 

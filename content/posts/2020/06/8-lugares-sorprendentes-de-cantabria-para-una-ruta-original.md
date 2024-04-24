@@ -1,13 +1,13 @@
 ---
 title: "Lugares sorprendentes de Cantabria que aún no conoces"
 date: 2020-06-05
-coverImage: etheria_images/2020/06/viaje-bosque-secuoyas-cantabria.jpg
+coverImage: etheria-images/2020/06/viaje-bosque-secuoyas-cantabria.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Cantabria y sus valles guardan muchos secretos, lugares poco conocidos en los que aún no 
@@ -15,7 +15,7 @@ hay que hacer cola para tomarse un selfi. Compartimos contigo ocho de ellos... p
 le digas a nadie que allí puede encontrar un Partenón, una calzada romana, un bosque de 
 secuoyas, ermitas rupestres, un inmenso laberinto o un palacio de ensueño. 
 
-![el bosque secuoyas es una de las rutas originales cantabria](etheria_images/2020/06/bosque-secuoyas-cantabria.jpg "Bosque de secuoyas. © Manuel Charlón")
+![el bosque secuoyas es una de las rutas originales cantabria](etheria-images/2020/06/bosque-secuoyas-cantabria.jpg "Bosque de secuoyas. © Manuel Charlón")
 
 Es cierto que Cantabria se identifica con montes y playa, con pueblos encantadores y 
 buen comer, pero también tiene otra etiqueta de la que no se habla tanto, y esa es su 
@@ -37,7 +37,7 @@ media de 50 metros. Además de la curiosidad que despiertan los esbeltos troncos
 árboles, que pueden llegar a vivir más de dos mil años, también es interesante saber 
 cómo llegaron aquí. 
 
-![Paseando en el bosque de secuoyas de Cantabria.](etheria_images/2020/06/viaje-bosque-secuoyas-cantabria.jpg "Paseando en el bosque de secuoyas de Cantabria. © Alfredo G. Reyes")
+![Paseando en el bosque de secuoyas de Cantabria.](etheria-images/2020/06/viaje-bosque-secuoyas-cantabria.jpg "Paseando en el bosque de secuoyas de Cantabria. © Alfredo G. Reyes")
 
 La historia se remonta a 1940, cuando la industria maderera estaba en pleno auge. En ese 
 momento se decide que estos árboles tan grandes serían un negocio redondo por su rápido 
@@ -50,7 +50,7 @@ de bosque’, de forma gratuita.
 Para acceder hay que seguir la A-8 hasta la salida 249 (Comillas). El coche se deja al 
 lado de la carretera y luego sólo hay que cruzar una pasarela de madera. 
 
-![la iglesia de san Jorge es llamada el Partenón de Cantabria](etheria_images/2020/06/partenon-cantabria-arenas-iguna.jpg "Partenón cántabro o iglesia parroquial de San Jorge (Las Fraguas, Arenas de Iguña).")
+![la iglesia de san Jorge es llamada el Partenón de Cantabria](etheria-images/2020/06/partenon-cantabria-arenas-iguna.jpg "Partenón cántabro o iglesia parroquial de San Jorge (Las Fraguas, Arenas de Iguña).")
 
 ## El Partenón cántabro
 
@@ -74,7 +74,7 @@ desapercibida entre el paisaje. Y ya que te detienes para ver el templo, aprovec
 observar –aunque sea desde la verja– el **palacio de Hornillos**, donde se rodó la 
 **película 'Los Otros'**, del director español Alejandro Amenábar. 
 
-![laberinto villapresente una de las rutas originales cantabria](etheria_images/2020/06/laberinto-villapresente-cantabria.jpg "Laberinto de Villapresente. © Javier Rosend")
+![laberinto villapresente una de las rutas originales cantabria](etheria-images/2020/06/laberinto-villapresente-cantabria.jpg "Laberinto de Villapresente. © Javier Rosend")
 
 ## El laberinto de Villapresente
 
@@ -95,7 +95,7 @@ metros, así que olvida la posibilidad de hacer trampa y mirar por encima.
 Se encuentra en Villapresente, una pequeña población de Reocín (a 5,5 km de Santillana 
 del Mar). El precio es de 3 € (niños de 7 a 12 años) y 4 € (adultos). 
 
-![Ruta senderista por la calzada romana.](etheria_images/2020/06/calzada-romana-cantabria-3.jpg "Ruta senderista por la calzada romana. © Etheria Magazine")
+![Ruta senderista por la calzada romana.](etheria-images/2020/06/calzada-romana-cantabria-3.jpg "Ruta senderista por la calzada romana. © Etheria Magazine")
 
 ## Calzada romana del Besaya
 
@@ -115,7 +115,7 @@ caminata, aprovecha para visitar esta población, con una bonita iglesia del sig
 un rollo del siglo XVII, y las otras localidades que configuran el municipio de Bárcena 
 de Pie de Concha. 
 
-![iglesia santa maria valverde en valderredible](etheria_images/2019/08/santa-maria-valverde-valderredible-e1565600806387.jpg "Iglesia de Santa Maria de Valverde, en Valderredible.")
+![iglesia santa maria valverde en valderredible](etheria-images/2019/08/santa-maria-valverde-valderredible-e1565600806387.jpg "Iglesia de Santa Maria de Valverde, en Valderredible.")
 
 ## Ermitas rupestres de Valderredible
 
@@ -131,7 +131,7 @@ hablamos en el artículo [10 poderosas razones para visitar
 Valderredible](http://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/), 
 cuya lectura es muy recomendable si visitas la comarca. 
 
-![Fachada del Palacio de Soñanes, un  hotel de lujo en cantabria](etheria_images/2020/06/Palacio-Sonanes-cantabria.jpg "Fachada del Palacio de Soñanes. © Etheria Magazine")
+![Fachada del Palacio de Soñanes, un  hotel de lujo en cantabria](etheria-images/2020/06/Palacio-Sonanes-cantabria.jpg "Fachada del Palacio de Soñanes. © Etheria Magazine")
 
 ## Palacio de Soñanes
 
@@ -145,7 +145,7 @@ Aragón (1718 y 1722). Su estilo arquitectónico, vinculado con la escuela barro
 salmantina, se atribuye al arquitecto italiano Cossimo Fontanelli, aunque hay quien opta 
 por la influencia del arquitecto montañés D. Francisco La Riva Ladrón de Guevara. 
 
-![Hall del hotel Palacio de Soñanes, un 4 estrellas superior.](etheria_images/2020/06/hotel-Palacio-Sonane.jpg "Hall del hotel Palacio de Soñanes, un 4 estrellas superior. © Etheria Magazine")
+![Hall del hotel Palacio de Soñanes, un 4 estrellas superior.](etheria-images/2020/06/hotel-Palacio-Sonane.jpg "Hall del hotel Palacio de Soñanes, un 4 estrellas superior. © Etheria Magazine")
 
 Pero, ¿sabes qué es lo mejor del Palacio de Soñanes? Que podemos disfrutarlo alojándonos 
 en el mismo. Desde hace muchos años forma parte de los **hoteles Abba** y tiene una 
@@ -157,7 +157,7 @@ de los Padres Escolapios**, donde estudiaron personalidades como León Felipe, E
 Botín o el deportista Carlos Alonso "Santillana", y que cuenta con preciosas viviendas 
 cuyos balcones están a rebosar de flores. 
 
-![Ermita mozárabe de San Román Moroso en Cantabria](etheria_images/2020/06/san-roman-moroso-cantabria-lugar-magico.jpg "Ermita mozárabe de San Román Moroso. © Etheria Magazine")
+![Ermita mozárabe de San Román Moroso en Cantabria](etheria-images/2020/06/san-roman-moroso-cantabria-lugar-magico.jpg "Ermita mozárabe de San Román Moroso. © Etheria Magazine")
 
 ## Ermita mozárabe de San Román Moroso
 
@@ -175,7 +175,7 @@ robledal, con el susurro de un pequeño arroyo justo al lado, debió influir a J
 Herrera, el arquitecto del Escorial, porque lo calificó como **"uno de los lugares 
 mágicos de España"**. Y cuando lo visites, quizás tú también tengas esa percepción. 
 
-![Bonito arco de herradura de la ermita de San Román Moroso.](etheria_images/2020/06/san-roman-moroso-cantabria.jpg "Bonito arco de herradura de la ermita de San Román Moroso. © Etheria Magazine")
+![Bonito arco de herradura de la ermita de San Román Moroso.](etheria-images/2020/06/san-roman-moroso-cantabria.jpg "Bonito arco de herradura de la ermita de San Román Moroso. © Etheria Magazine")
 
 También te animamos a que hagas el camino desde Bostronizo hasta la ermita a pie, ya que 
 son solo 2 km (con desnivel, eso sí) y las panorámicas de estos valles son abrumadoras. 
@@ -196,7 +196,7 @@ Rosalia Sáinz, nodriza de Don Alfonso de Borbón (Príncipe de Asturias), o Con
 Cañizo, ama de cría de Don Juan, Conde de Barcelona. Sólo abre de julio a septiembre, 
 pero si se quiere visitar en otro momento se puede llamar al ayuntamiento de Selaya. 
 
-![Museo del Sobao y taller de sobaos en Joselín.](etheria_images/2020/06/museo-sobao-cantabria.jpg "Museo del Sobao y taller de sobaos en Joselín. © Etheria Magazine")
+![Museo del Sobao y taller de sobaos en Joselín.](etheria-images/2020/06/museo-sobao-cantabria.jpg "Museo del Sobao y taller de sobaos en Joselín. © Etheria Magazine")
 
 Otro espacio que también resulta interesante (y que está cerca de este) es el **Museo 
 del Sobao** (sobaosjoselin.com/museo), una actividad repostera realizada también 

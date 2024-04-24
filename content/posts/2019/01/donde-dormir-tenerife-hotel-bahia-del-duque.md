@@ -1,12 +1,12 @@
 ---
 title: "Hotel Bahía del Duque, desconexión en Tenerife"
 date: 2019-01-11
-coverImage: etheria_images/2019/01/hotel-bahia-del-duque-habitacion.jpg
+coverImage: etheria-images/2019/01/hotel-bahia-del-duque-habitacion.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 El sur de Tenerife es siempre un lugar apetecible para pasar unos días. Y si es en 
@@ -14,7 +14,7 @@ invierno y en el hotel Bahía del Duque, todavía mejor. Aquí la exclusividad y
 están reñidos con un ambiente afable y distendido perfecto para una escapada en familia 
 o en pareja. 
 
-![Vista general del pueblo canario del hotel Bahía del Duque.](etheria_images/2019/01/Hotel-Bahia-del-Duque-general-1024x564.jpg "Vista general del pueblo canario del hotel Bahía del Duque.")
+![Vista general del pueblo canario del hotel Bahía del Duque.](etheria-images/2019/01/Hotel-Bahia-del-Duque-general-1024x564.jpg "Vista general del pueblo canario del hotel Bahía del Duque.")
 
 Me declaro fan incondicional de este hotel por muchos motivos. Primero, porque es un 
 hotel con personalidad, con un estilo propio que ha desarrollado a lo largo de sus 
@@ -34,7 +34,7 @@ las cuales están totalmente integradas en las instalaciones del hotel, y cuenta
 distintivos que identifican las palmeras, los ficus, los dragos o las jacarandas para 
 que un paseo sea a la vez una lección de botánica. 
 
-![Salón de lectura del hotel Bahía del Duque](etheria_images/2019/01/hotel-bahia-del-duque-sala-lectura-1024x683.jpg "Salón de lectura.")
+![Salón de lectura del hotel Bahía del Duque](etheria-images/2019/01/hotel-bahia-del-duque-sala-lectura-1024x683.jpg "Salón de lectura.")
 
 ## Primero, elige donde quieres dormir
 
@@ -57,7 +57,7 @@ o a los jardines. Al ser un establecimiento con una planta irregular, que surge 
 suma de varios edificios, las habitaciones no son todas iguales y cada una aporta un 
 detalle original que la llena de encanto. 
 
-![Junior Suite de las Casas Ducales.](etheria_images/2019/01/hotel-bahia-del-duque-casas-ducales-1024x684.jpg "Junior Suite de las Casas Ducales.")
+![Junior Suite de las Casas Ducales.](etheria-images/2019/01/hotel-bahia-del-duque-casas-ducales-1024x684.jpg "Junior Suite de las Casas Ducales.")
 
 ## Gastronomía del Bahía del Duque
 
@@ -77,7 +77,7 @@ las especialidades vascas del **Sua**, los delicados platos del chef belga Pierr
 Résimont (con dos estrellas Michelin en su restaurante L’Eau-Vive) en **La Brasserie** y 
 la vanguardista propuesta del chef Lucas Ordoñez en **Alisios Market Food**. 
 
-![Propuesta gastronómica de Alisios Market Food.](etheria_images/2019/01/hotel-bahia-del-duque-alisios-1024x684.jpg "Propuesta gastronómica de Alisios Market Food.")
+![Propuesta gastronómica de Alisios Market Food.](etheria-images/2019/01/hotel-bahia-del-duque-alisios-1024x684.jpg "Propuesta gastronómica de Alisios Market Food.")
 
 Y, por supuesto, es casi obligatorio disfrutar de un pescado o un arroz en el **Beach 
 Club**, con maravillosas vistas del mar, y de los desayunos y cenas de **El Bernegal**, 
@@ -93,7 +93,7 @@ frutas fresca y cócteles deliciosos.
 En el paseo marítimo y al lado del hotel, no te pierdas la Heladería, el Café La Bahía o 
 El Chiringuito, situado sobre la arena de la playa de El Duque. 
 
-![Terraza del Beach Club del hotel Conde Duque](etheria_images/2019/01/hotel-bahia-del-duque-beach-club-1024x687.jpg "Terraza del Beach Club.")
+![Terraza del Beach Club del hotel Conde Duque](etheria-images/2019/01/hotel-bahia-del-duque-beach-club-1024x687.jpg "Terraza del Beach Club.")
 
 ## Disfruta del 'dolce far niente'
 
@@ -117,7 +117,7 @@ tailandeses. El Bahía Wellness Retreat también dispone de un centro de fitness
 fisioterapia y gabinete de nutrición y dietética. 
 
 ![Piscina inferior del hotel, situada junto al Beach 
-Club.](etheria_images/2019/01/hotel-bahia-del-duque-piscina-1024x683.jpg)Piscina 
+Club.](etheria-images/2019/01/hotel-bahia-del-duque-piscina-1024x683.jpg)Piscina 
 inferior del hotel, situada junto al Beach Club. 
 
 ## Un poco de deporte

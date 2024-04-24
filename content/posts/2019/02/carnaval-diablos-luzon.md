@@ -1,11 +1,11 @@
 ---
 title: "Los Diablos de Luzón, la mascarada más tétrica y original de España"
 date: 2019-02-19
-coverImage: etheria_images/2019/02/carnaval-diablos-luzon-3.jpg
+coverImage: etheria-images/2019/02/carnaval-diablos-luzon-3.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -14,7 +14,7 @@ estruendo de cencerros. Traen un mensaje ancestral sobre el despertar de la natu
 Anótalo bien en tu agenda porque esto solo sucede una vez al año, en 2024 será el 10 de 
 febrero, en el pueblo alcarreño de Luzón. 
 
-![Carnaval 'Los Diablos de Luzón', Luzón (Guadalajara).](etheria_images/2019/02/carnaval-diablos-luzon-4-1024x683.jpg "Carnaval 'Los Diablos de Luzón', Luzón (Guadalajara).")
+![Carnaval 'Los Diablos de Luzón', Luzón (Guadalajara).](etheria-images/2019/02/carnaval-diablos-luzon-4-1024x683.jpg "Carnaval 'Los Diablos de Luzón', Luzón (Guadalajara).")
 
 Cuando la primavera está a punto de llegar, los diablos salen de su misterioso refugio 
 en las entrañas de la tierra para recorrer el pueblo alborotando. El sábado de carnaval 
@@ -24,7 +24,7 @@ de patata y una gran cornamenta que sujetan sobre sus cabezas y hombros–, **lo
 de Luzón** son la viva imagen del demonio, protagonista de una de las mejores mascaradas 
 ibéricas. 
 
-![Carnaval Los Diablos de Luzón, Guadalajara, Castilla-La Mancha.](etheria_images/2019/02/carnaval-diablos-luzon-7-1024x683.jpg "Carnaval Los Diablos de Luzón, Guadalajara, Castilla-La Mancha.")
+![Carnaval Los Diablos de Luzón, Guadalajara, Castilla-La Mancha.](etheria-images/2019/02/carnaval-diablos-luzon-7-1024x683.jpg "Carnaval Los Diablos de Luzón, Guadalajara, Castilla-La Mancha.")
 
 ## Por qué no deberías perderte este carnaval
 
@@ -68,7 +68,7 @@ bastón con el que los golpearán si ignoran su protección.
 > a ocultarse hasta que, el próximo año, la naturaleza presagie la llegada de la primavera 
 > y con ella el renacer de la vida. 
 
-![Desfile Carnaval Los Diablos de Luzón, de Luzón (Guadalajara).](etheria_images/2019/02/carnaval-diablos-luzon-3-1024x683.jpg "Carnaval Los Diablos de Luzón, de Luzón (Guadalajara).")
+![Desfile Carnaval Los Diablos de Luzón, de Luzón (Guadalajara).](etheria-images/2019/02/carnaval-diablos-luzon-3-1024x683.jpg "Carnaval Los Diablos de Luzón, de Luzón (Guadalajara).")
 
 ## Dónde se celebra este intrigante carnaval alcarreño
 
@@ -90,7 +90,7 @@ ibéricos por su representación humana, considerada una de las primeras. Lo má
 son las imágenes de la mujer en estados naturales de la vida como el embarazo o el 
 parto. Para visitar la cueva debes reservar previamente (Tel. 620 396 326). 
 
-![carnaval Luzon, carnaval Guadalajara](etheria_images/2019/02/carnaval-diablos-luzon-6-1024x682.jpg "Las mascaritas son los únicos seres vivientes a los que respetan los diablos de Luzón.")
+![carnaval Luzon, carnaval Guadalajara](etheria-images/2019/02/carnaval-diablos-luzon-6-1024x682.jpg "Las mascaritas son los únicos seres vivientes a los que respetan los diablos de Luzón.")
 
 ## Cuándo es el Carnaval de los Diablos de Luzón
 
@@ -113,7 +113,7 @@ ser habitado desde la Edad del Bronce y haber sido utilizado sucesivamente en di
 momentos históricos. Un agradable paseo de baja dificultad, de 3.400 metros, desde el 
 pueblo conduce hasta tan misterioso lugar. 
 
-![carnaval Luzon, carnaval Guadalajara](etheria_images/2019/02/carnaval-diablos-luzon-683x1024.jpg "Los Diablos de Luzón es uno de los carnavales más singulares de España.")
+![carnaval Luzon, carnaval Guadalajara](etheria-images/2019/02/carnaval-diablos-luzon-683x1024.jpg "Los Diablos de Luzón es uno de los carnavales más singulares de España.")
 
 ## Guía para preparar la escapada a Luzón
 

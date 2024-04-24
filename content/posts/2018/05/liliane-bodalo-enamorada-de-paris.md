@@ -1,18 +1,18 @@
 ---
 title: "Liliane Bodalo, responsable de prensa de Atout France"
 date: 2018-05-03
-coverImage: etheria_images/2018/05/Liliane-Bodalo-Mujer-Etheria-2.jpg
+coverImage: etheria-images/2018/05/Liliane-Bodalo-Mujer-Etheria-2.jpg
 categories: 
   - mujeres-que-inspiran
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Liliane Bodalo lleva más de dos décadas dedicada al mundo del turismo de un modo 
 profesional. Como responsable de prensa de Atout France, la Agencia de Desarrollo 
 Turístico de Francia, es una de las Mujeres Etheria que nos inspiran. 
 
-![Liliane Bodalo de turismo de francia](etheria_images/2018/05/Liliane-Bodalo-Mujeres-Etheria.jpg "Liliane Bodalo. Responsable de prensa de Atout France")
+![Liliane Bodalo de turismo de francia](etheria-images/2018/05/Liliane-Bodalo-Mujeres-Etheria.jpg "Liliane Bodalo. Responsable de prensa de Atout France")
 
 Liliane es leal, prudente y discreta. Disfruta y valora, sobre todo, la compañía de su 
 familia (hijo y marido) y, también, los pequeños detalles cotidianos: una buena cena, un 
@@ -64,7 +64,7 @@ playas salvajes e idílicas.
 
 **Estados Unidos** (solo conozco Nueva York), **Escocia** y **Japón**. 
 
-![Liliane Bodalo, responsable de prensa de Atout France en España.](etheria_images/2018/05/Liliane-Bodalo-Mujer-Etheria-2.jpg "Liliane Bodalo, responsable de prensa de Atout France en España.")
+![Liliane Bodalo, responsable de prensa de Atout France en España.](etheria-images/2018/05/Liliane-Bodalo-Mujer-Etheria-2.jpg "Liliane Bodalo, responsable de prensa de Atout France en España.")
 
 10\. ¿Qué país te ha ganado con su gastronomía? ¿Qué productos destacarías? Uno no, dos: 
 España y Francia, el buen hacer y tradiciones de uno y otro son imbatibles. El queso y 

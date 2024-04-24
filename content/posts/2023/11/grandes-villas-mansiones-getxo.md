@@ -1,13 +1,13 @@
 ---
 title: "Un paseo por las grandes mansiones de la Belle Époque de Getxo"
 date: 2023-11-02
-coverImage: etheria_images/2023/11/getxo-palacio-lezama-leguizamon.jpg
+coverImage: etheria-images/2023/11/getxo-palacio-lezama-leguizamon.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Si al placer de descubrir las mansiones de Getxo se le añaden algunas pinceladas de 
@@ -15,7 +15,7 @@ historia y arquitectura mientras la brisa del mar acaricia la cara, poco más se
 pedir. En vuestro próximo viaje a Bizkaia, os animamos a vivir la bonita experiencia de 
 recorrer el Paseo de las Grandes Villas de Getxo sin perder de vista el mar Cantábrico. 
 
-![Paseo de las Grandes Villas de Getxo.](etheria_images/2023/11/getxo-paseo-grandes-villas.jpg "Paseo de las Grandes Villas de Getxo con panel interpretativo en primer plano.")
+![Paseo de las Grandes Villas de Getxo.](etheria-images/2023/11/getxo-paseo-grandes-villas.jpg "Paseo de las Grandes Villas de Getxo con panel interpretativo en primer plano.")
 
 Hemos recorrido esta ciudad vizcaína en numerosas ocasiones, pero aún conserva la 
 capacidad de sorprendernos y de seguir desvelando nuevos secretos. Hasta ahora nos 
@@ -38,7 +38,7 @@ importantes del país, sino que también poseían una alta influencia en la esfe
 y social. El historiador Raymond Carr acertaba de pleno cuando señalaba que “los hombres 
 realmente ricos de España a partir de 1900, con pocas excepciones, eran vascos”. 
 
-![Imagen histórica de Getxo](etheria_images/2023/11/getxo-belle-epoque-850x476.jpg "Los días dorados de Getxo. © Archivo Biblioteca municipal de Getxo")
+![Imagen histórica de Getxo](etheria-images/2023/11/getxo-belle-epoque-850x476.jpg "Los días dorados de Getxo. © Archivo Biblioteca municipal de Getxo")
 
 ### El sueño de Máximo Aguirre
 
@@ -64,7 +64,7 @@ ferrocarril que unía Bilbao con Las Arenas, los veraneantes hasta entonces lleg
 vehículos de tracción animal. Esto supuso su consagración definitiva como “destino de 
 salud y de vacaciones”. 
 
-![Foto histórica de la estación balnearia de Las Arenas.](etheria_images/2023/11/historia-balnearia-getxo.jpg "Estación balnearia de Las Arenas. © Archivo Biblioteca municipal de Getxo")
+![Foto histórica de la estación balnearia de Las Arenas.](etheria-images/2023/11/historia-balnearia-getxo.jpg "Estación balnearia de Las Arenas. © Archivo Biblioteca municipal de Getxo")
 
 ## Cómo son las villas de Getxo
 
@@ -88,7 +88,7 @@ la opulencia de sus propietarios por lo que no se escatimaba en detalles. Actual
 algunas de las familias propietarias han desaparecido de la vida empresarial, pero otras 
 han sobrevivido a los cambios. 
 
-![Palacio de Lezama Leguizamón.](etheria_images/2023/11/getxo-palacio-lezama-leguizamon.jpg "Palacio de Lezama Leguizamón.")
+![Palacio de Lezama Leguizamón.](etheria-images/2023/11/getxo-palacio-lezama-leguizamon.jpg "Palacio de Lezama Leguizamón.")
 
 ✅ **No te pierdas:** La [ruta autoguiada “deapie de Juana 
 Bizcarra”](https://www.getxo.eus/DocsPublic/turismo/deapie/JUANA-BIZKARRA-CASTELLANO-01.pdf) 
@@ -117,7 +117,7 @@ podemos describir todos los palacetes del itinerario, pero en la web de la ofici
 turismo os podéis [descargar una publicación en pdf dedicada a las 
 villas](https://www.getxo.eus/DocsPublic/turismo/Grandes_Villas_Getxo.pdf). 
 
-![Monumento a Churruca, en Getxo.](etheria_images/2023/11/getxo-monumento-Churruca-667x1000.jpg "Monumento a Evaristo Churruca, en Getxo.")
+![Monumento a Churruca, en Getxo.](etheria-images/2023/11/getxo-monumento-Churruca-667x1000.jpg "Monumento a Evaristo Churruca, en Getxo.")
 
 ### Monumento a Evaristo Churruca
 
@@ -135,7 +135,7 @@ estación balnearia (el _Establecimiento de Baños de Mar Bilbaínos_) ha cedido
 **Real Club Marítimo de El Abra**, que organizó la **primera Copa del Rey de Vela** en 
 1905, la misma que actualmente acoge Palma de Mallorca. 
 
-![Muelle de Las Arenas, en Getxo.](etheria_images/2023/11/getxo-muelle-arenas.jpg "Muelle de Las Arenas.")
+![Muelle de Las Arenas, en Getxo.](etheria-images/2023/11/getxo-muelle-arenas.jpg "Muelle de Las Arenas.")
 
 Por el camino aparecerán viviendas como **Cristina Etxea**, un conjunto construido en 
 1894 por **Alberto de Palacio y Elissague**, artífice del Puente Bizkaia (Patrimonio de 
@@ -150,7 +150,7 @@ balneario, apenas quedan unos restos originales de decoración modernista donde 
 leer “Villa C”. En torno a la estación balneario también se situaba **Amandrerena**, una 
 villa cuyos volúmenes no pasan desapercibidos. 
 
-![Hotel Embarcadero, en el Muelle de las Arenas (Getxo).](etheria_images/2023/11/getxo-ruta-villas-850x567.jpg "Hotel Embarcadero, en el Muelle de las Arenas (Getxo).")
+![Hotel Embarcadero, en el Muelle de las Arenas (Getxo).](etheria-images/2023/11/getxo-ruta-villas-850x567.jpg "Hotel Embarcadero, en el Muelle de las Arenas (Getxo).")
 
 Antes de llegar a la playa de la Bola observaréis otras villas como **Itsas Begi** 
 (1927), de estilo regionalista neovasco, y **Bidearte** (1927), del mismo estilo, pero 
@@ -160,7 +160,7 @@ boutique
 Embarcadero](https://www.getxo.eus/es/turismo/descubre-getxo/hotel-embarcadero), porque 
 luego no encontraréis más opciones hasta llegar la playa Ereaga o al puerto deportivo. 
 
-![Villa Cisco, en Getxo.](etheria_images/2023/11/getxo-grandes-villas-cisco.jpg "Casa Cisco, en Getxo.")
+![Villa Cisco, en Getxo.](etheria-images/2023/11/getxo-grandes-villas-cisco.jpg "Casa Cisco, en Getxo.")
 
 Otras bonitas mansiones que salen al paso son **Kaialde**, un buen ejemplo de 
 arquitectura palaciega vizcaína, y **Kaiertza** (1929), a medio camino entre las casas 
@@ -170,7 +170,7 @@ arquitecto Manuel María Smith se inspiró en la sencillez de las _cottages_ ing
 aunque con las reformas se ha ido “barroquizando”. Tras esta primera vivienda, llegaron 
 otros dos “Ciscos” (1948 y 1955) proyectados por Eugenio Aguinaga. 
 
-![Muelle de Arriluze, en el barrio de Neguri](etheria_images/2023/11/getxo-paseo-villas-850x567.jpg "Muelle de Arriluze, en el barrio de Neguri (Getxo).")
+![Muelle de Arriluze, en el barrio de Neguri](etheria-images/2023/11/getxo-paseo-villas-850x567.jpg "Muelle de Arriluze, en el barrio de Neguri (Getxo).")
 
 ### Muelle de Arriluze
 
@@ -184,7 +184,7 @@ un encargo del industrial Pedro María Barbier, y su primer inquilino, lo adquir
 Ella fue **la primera ingeniera industrial de España** y la alcaldesa de Bilbao entre 
 1969 y 1977. 
 
-![Palacio Eguzkialde, en el Paseo de las Grandes Villas de Getxo.](etheria_images/2023/11/getxo-palacio-eguzkialde.jpg "Palacio Eguzkialde, en el Paseo de las Grandes Villas de Getxo.")
+![Palacio Eguzkialde, en el Paseo de las Grandes Villas de Getxo.](etheria-images/2023/11/getxo-palacio-eguzkialde.jpg "Palacio Eguzkialde, en el Paseo de las Grandes Villas de Getxo.")
 
 Pero si hay una villa de Getxo en la que hay que detenerse sí o sí esa es el **Palacio 
 Lezama-Leguizamón** (1903). Edificado para el político Luis Lezama, es uno de los 
@@ -195,7 +195,7 @@ firmaría el **palacio de Ampuero** (1928), de estilo regionalista, y el de
 llamativos tonos azules en entramados y aleros. Su jardín, con capilla, pérgola y 
 glorietas, completan una preciosa postal. 
 
-![Palacio de Ampuero, en el Paseo de las Grandes Villas de Getxo.](etheria_images/2023/11/getxo-palacio-Ampuero.jpg "Palacio de Ampuero, en el Paseo de las Grandes Villas de Getxo.")
+![Palacio de Ampuero, en el Paseo de las Grandes Villas de Getxo.](etheria-images/2023/11/getxo-palacio-Ampuero.jpg "Palacio de Ampuero, en el Paseo de las Grandes Villas de Getxo.")
 
 #### Galerías de Punta Begoña, abierto por obras
 
@@ -208,7 +208,7 @@ empresario y político, que os sonará porque fundó Iberia, los Altos del Duero
 construcción del submarino E-1 y de un transbordador aéreo en las cataratas del Niágara. 
 Una persona inquieta donde las haya. 
 
-![Base de Salvamento Marítimo de Getxo.](etheria_images/2023/11/Getxo-Arriluze-850x553.jpg "Base de Salvamento Marítimo de Getxo.")
+![Base de Salvamento Marítimo de Getxo.](etheria-images/2023/11/Getxo-Arriluze-850x553.jpg "Base de Salvamento Marítimo de Getxo.")
 
 Las Galerías de Punta Begoña son las únicas abiertas al público del **Paseo de las 
 Grandes Villas de Getxo**. Se pueden visitar de forma autoguiada, a través de paneles, o [guiada 
@@ -217,7 +217,7 @@ mayores de 10 años). Eso sí, siempre con casco que es como mejor se ven los lu
 “abierto por obras”. Y si no os da tiempo... siempre se puede hacer [de forma 
 virtual](https://tour.puntabegonagetxo.eus/). 
 
-![Galerías Punta Begoña, en Getxo.](etheria_images/2023/11/getxo-Galerias-Punta-Begona.jpg "Galerías Punta Begoña, en Getxo.")
+![Galerías Punta Begoña, en Getxo.](etheria-images/2023/11/getxo-Galerias-Punta-Begona.jpg "Galerías Punta Begoña, en Getxo.")
 
 ## Palacio de Arriluce, el 5 estrellas de Getxo
 
@@ -231,7 +231,7 @@ mantiene su esencia original. Con sólo 49 habitaciones, este hotel brinda una
 experiencia cinco estrellas al viajero tanto en descanso como en su completa **zona 
 wellness** y en su restaurante Delaunay, de la mano del chef Beñat Ormaetxea. 
 
-![Palacio Arriluce, nuevo hotel 5 estrellas de Getxo.](etheria_images/2023/11/palacio-arriluce-hotel-getxo.jpg "© Palacio Arriluce, nuevo hotel 5 estrellas de Getxo.")
+![Palacio Arriluce, nuevo hotel 5 estrellas de Getxo.](etheria-images/2023/11/palacio-arriluce-hotel-getxo.jpg "© Palacio Arriluce, nuevo hotel 5 estrellas de Getxo.")
 
 Después de explorar estas impresionantes villas y mansiones de Getxo, os sugerimos 
 continuar disfrutando de la cocina vasca en el restaurante [Tamarises 

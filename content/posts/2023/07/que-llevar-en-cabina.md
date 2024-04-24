@@ -1,11 +1,11 @@
 ---
 title: "Qué llevar en cabina en un vuelo largo, 12 elementos básicos"
 date: 2023-07-14
-coverImage: etheria_images/2023/07/que-llevar-maleta-cabina.jpg
+coverImage: etheria-images/2023/07/que-llevar-maleta-cabina.jpg
 categories: 
   - que-llevar-en-la-maleta
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 A ciertas viajeras les gusta improvisar o ir ligeras de equipaje pero hay otras que 
@@ -13,7 +13,7 @@ prefieren llevarlo todo bajo control y preparan concienzudamente las listas de b
 para su destino. Ya seas de las primeras o de las segundas, estas recomendaciones de qué 
 llevar en cabina durante un vuelo largo te van a resultar muy útiles. 
 
-![Es recomendable planificar lo que llevas en cabina durante los viajes largos.](etheria_images/2023/07/que-llevar-maleta-cabina.jpg "Es recomendable planificar lo que llevas en cabina. © Gabrielle Henderson")
+![Es recomendable planificar lo que llevas en cabina durante los viajes largos.](etheria-images/2023/07/que-llevar-maleta-cabina.jpg "Es recomendable planificar lo que llevas en cabina. © Gabrielle Henderson")
 
 Cuando viajas a un país lejano y es necesario realizar muchas horas de vuelo, es 
 importante que lleves contigo ciertos elementos esenciales para que la experiencia sea 
@@ -41,7 +41,7 @@ Amazon.](https://amzn.to/44A5vKs)
 caso de pérdida, dispongas de algo que te identifique. En cualquier lugar oficial te lo 
 van a pedir. 
 
-![Bolsa porta todo, sirve tanto para documentos como para botes de líquidos.](etheria_images/2023/07/bolsa-portadocumentos-liquidos.jpg "Bolsitas porta todo, sirven tanto para documentos como para botes de líquidos.")
+![Bolsa porta todo, sirve tanto para documentos como para botes de líquidos.](etheria-images/2023/07/bolsa-portadocumentos-liquidos.jpg "Bolsitas porta todo, sirven tanto para documentos como para botes de líquidos.")
 
 ## Almohada de viaje y manta
 
@@ -54,7 +54,7 @@ unos cubos hinchables que se pueden poner en el suelo para elevar las piernas (e
 los tienes desde unos 20 euros](https://amzn.to/44IDVdY)). En caso de que viajes con 
 niños, estos últimos también sirven para que se puedan estirar y dormir más cómodos. 
 
-![Cojín hinchable ideal para llevar en vuelos largos con niños](etheria_images/2023/07/cojin-hinchable-avion.jpg "Cojín hinchable ideal para viajes largos.")
+![Cojín hinchable ideal para llevar en vuelos largos con niños](etheria-images/2023/07/cojin-hinchable-avion.jpg "Cojín hinchable ideal para viajes largos.")
 
 ## Ropa cómoda
 
@@ -67,7 +67,7 @@ baja la temperatura de la cabina.
 \*El [chándal de la imagen lo encuentras en Amazon](https://amzn.to/3XPWHxL) por unos 30 
 euros. 
 
-![Ropa cómoda para viajar en avión](etheria_images/2023/07/ropa-viajar-avion.jpg "Ropa cómoda para viajar en avión. © Amazon")
+![Ropa cómoda para viajar en avión](etheria-images/2023/07/ropa-viajar-avion.jpg "Ropa cómoda para viajar en avión. © Amazon")
 
 ## Sujetador deportivo
 
@@ -83,7 +83,7 @@ muchas marcas y también en farmacias. En Amazon venden unas que llegan bajo la 
 de [Calzitaly por unos 16 euros](https://amzn.to/3pEvHVE). Son una buena opción 
 (económica) para probar si te resultan cómodas. 
 
-![Medias de compresión para viajar.](etheria_images/2023/07/medias-compresion-viajes.jpg "Medias de compresión para viajar.")
+![Medias de compresión para viajar.](etheria-images/2023/07/medias-compresion-viajes.jpg "Medias de compresión para viajar.")
 
 ## Antifaz y tapones
 
@@ -110,7 +110,7 @@ desde 15 euros en Amazon](https://amzn.to/44kKG6c).
 ?Si crees que lo puedes necesitar, incluye tampones, compresas, copa menstrual o lo que 
 suelas usar. A veces es complicado encontrarlos en algunos países. 
 
-![Pack de 3 bolsas transparentes con cremallera.](etheria_images/2023/07/neceser-viaje-transparente.jpg "Pack de 3 bolsas transparentes con cremallera.")
+![Pack de 3 bolsas transparentes con cremallera.](etheria-images/2023/07/neceser-viaje-transparente.jpg "Pack de 3 bolsas transparentes con cremallera.")
 
 ## Bolsa de maquillaje
 
@@ -146,7 +146,7 @@ adaptador también puede ir en esa bolsa.
 \***Importante:** Las baterías de todos los dispositivos SIEMPRE deben ir en cabina, no 
 las guardes en el equipaje facturado. 
 
-![Kindle, un libro electrónico ideal para madres viajeras](etheria_images/2022/04/kindle-dia-madre.jpg "Kindle, un libro electrónico práctico y ligero.")
+![Kindle, un libro electrónico ideal para madres viajeras](etheria-images/2022/04/kindle-dia-madre.jpg "Kindle, un libro electrónico práctico y ligero.")
 
 ## Auriculares
 
@@ -157,7 +157,7 @@ tengas que conectarlos con los canales de entretenimiento a bordo. En algunos av
 proporcionan auriculares pero en otro no... Sé precavida si tienes muchas horas de vuelo 
 por delante. 
 
-![Airpor Pro 2ª gen. y Xiaomi Redmi Buds 4 Pro.](etheria_images/2023/04/auricular-cancelacion-ruido.jpg "Airpods Pro 2ª gen. y Xiaomi Redmi Buds 4 Pro.")
+![Airpor Pro 2ª gen. y Xiaomi Redmi Buds 4 Pro.](etheria-images/2023/04/auricular-cancelacion-ruido.jpg "Airpods Pro 2ª gen. y Xiaomi Redmi Buds 4 Pro.")
 
 ## Medicamentos y recetas
 
@@ -179,7 +179,7 @@ Por último, verifica las regulaciones específicas de la aerolínea con la que 
 viajar, ya que algunas pueden tener restricciones sobre ciertos artículos o límites de 
 peso para el equipaje de mano. 
 
-![Botellas plegables para rellenar de agua](etheria_images/2023/07/botella-plegable-agua.jpg "Botellas plegables de silicona para rellenar con agua.")
+![Botellas plegables para rellenar de agua](etheria-images/2023/07/botella-plegable-agua.jpg "Botellas plegables de silicona para rellenar con agua.")
 
 ## Reglas de algunas líneas aéreas
 

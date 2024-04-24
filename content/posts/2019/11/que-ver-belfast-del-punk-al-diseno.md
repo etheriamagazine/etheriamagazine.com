@@ -1,12 +1,12 @@
 ---
 title: "Belfast, punk y diseño en Irlanda del Norte"
 date: 2019-11-04
-coverImage: etheria_images/2019/10/belfast-ruta-grafitis.jpg
+coverImage: etheria-images/2019/10/belfast-ruta-grafitis.jpg
 categories: 
   - viajes-48-horas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
+authors: 
   - Rafael de Rojas
 ---
 
@@ -17,7 +17,7 @@ de la Catedral, mientras que los astilleros de los que salió el Titanic son aho
 creciente pasarela de edificios de vanguardia. En ese caldo de cultivo, la anual Design 
 Week de Belfasf procura el flechazo del diseño internacional y los creativos locales. 
 
-![panorámica de belfast](etheria_images/2019/10/belfast-panoramica-900x601.jpg "Panorámica de Belfast con el Ayuntamiento enfrente. © Christopher Heaney.")
+![panorámica de belfast](etheria-images/2019/10/belfast-panoramica-900x601.jpg "Panorámica de Belfast con el Ayuntamiento enfrente. © Christopher Heaney.")
 
 Terminaban los 70 y el centro de Belfast era un lugar demasiado peligroso para los 
 paseos nocturnos. “Sólo la policía y el ejército solían entrar en el centro de la ciudad 
@@ -27,7 +27,7 @@ Bedford tras la suspensión de un **concierto de The Clash**. El que lo cuenta e
 Hooley, primero propietario de una tienda de música en el centro y, luego, fundador del 
 sello _Good Vibrations,_ que editó a los grupos punks norirlandeses. 
 
-![hooley productor de musica punk](etheria_images/2019/10/Belfast-hooley-concierto-900x641.jpg "Hooley, conocido como 'el padrino del punk' y concierto del 16 noviembre. ©Hooley")
+![hooley productor de musica punk](etheria-images/2019/10/Belfast-hooley-concierto-900x641.jpg "Hooley, conocido como 'el padrino del punk' y concierto del 16 noviembre. ©Hooley")
 
 ## La influencia del punk
 
@@ -40,7 +40,7 @@ en Irlanda del Norte era como una tercera religión, un escape de lo que estába
 día tras día en nuestras salas de estar a través de las noticias”, explica el **escritor 
 Sean O´Neil.** 
 
-![Mural de Frederick Douglass](etheria_images/2019/10/belfast-ruta-grafitis-900x443.jpg "Mural de Frederick Douglass. © Fáilte Feirste Thiar.")
+![Mural de Frederick Douglass](etheria-images/2019/10/belfast-ruta-grafitis-900x443.jpg "Mural de Frederick Douglass. © Fáilte Feirste Thiar.")
 
 ## El barrio de la Catedral
 
@@ -57,7 +57,7 @@ del nombre no es un bar, sino un centro de apoyo a la música local. Su función
 estilo. Les ofrecen locales de ensayo, espacios de grabación y eventos en los que 
 actuar. 
 
-![Belfast Community Circus School](etheria_images/2019/10/belfast-circus-school.jpg "© Belfast Community Circus School.")
+![Belfast Community Circus School](etheria-images/2019/10/belfast-circus-school.jpg "© Belfast Community Circus School.")
 
 Una finalidad revulsiva similar a la de la **Circusful**, situada en la misma calle, 
 Gordon Street. Concretamente, su filosofía es la de “transformar vidas y comunidades a 
@@ -79,7 +79,7 @@ de conseguir un premio nacional como mejor estudio independiente. Desde allí, t
 la empresa textil artesana **Mourne Textiles** extiende por Belfast sus cortinas de 
 _tweed_ y sus bufandas de lana, seda y cachemira. 
 
-![maven en belfast](etheria_images/2019/10/belfast-maven-diseno-interior-900x662.jpg "Diseño de interiores © Maven.")
+![maven en belfast](etheria-images/2019/10/belfast-maven-diseno-interior-900x662.jpg "Diseño de interiores © Maven.")
 
 El barrio se está poblando de lugares similares que están atrayendo talento del país y 
 más allá. En el **edificio Riverhouse** de High Street trabaja el colectivo de 
@@ -102,7 +102,7 @@ el tour guiado de Seedhed Art. Con él se puede descubrir la poliédrica obra de
 Harrington, que oculta dobles lecturas políticas y sociales bajo sus historias 
 aparentemente simples. 
 
-![Centro Titanic, una visita obligada en Belfast.](etheria_images/2019/10/que-ver-belfast-titanic-900x601.jpg "Centro Titanic, una visita obligada en Belfast. ©NI Tourism")
+![Centro Titanic, una visita obligada en Belfast.](etheria-images/2019/10/que-ver-belfast-titanic-900x601.jpg "Centro Titanic, una visita obligada en Belfast. ©NI Tourism")
 
 ## Museo del Titanic
 
@@ -116,7 +116,7 @@ originales (las taquillas se han convertido en recepción, la sala de delineaci�
 restaurante…) y a la vez ha convertido el edificio en otra cosa, en una cosa del siglo 
 XXI. 
 
-![niña con una entrada del museo titanic](etheria_images/2019/10/belfast-Titanic-entrada.jpg "El Museo del Titanic es una visita obligada en Belfast. © NI Tourism")
+![niña con una entrada del museo titanic](etheria-images/2019/10/belfast-Titanic-entrada.jpg "El Museo del Titanic es una visita obligada en Belfast. © NI Tourism")
 
 ## Dónde dormir en Belfast
 
@@ -135,7 +135,7 @@ particularmente al Museo del Titanic, que se ilumina de violeta por las noches. 
 participa activamente en la semana del diseño de Belfast y organiza charlas sobre el 
 diseño y otros temas afines durante todo el año. 
 
-![mujeres tomando café en Belfast](etheria_images/2019/10/belfast-mujeres-cafeterias-900x600.jpg "En Belfast encontrarás originales cafeterías donde hacer un alto en el camino. © NI Tourism")
+![mujeres tomando café en Belfast](etheria-images/2019/10/belfast-mujeres-cafeterias-900x600.jpg "En Belfast encontrarás originales cafeterías donde hacer un alto en el camino. © NI Tourism")
 
 ## The Design Week
 
@@ -147,7 +147,7 @@ diseño, va “de la gente que nos inspira” y a su vez toma su carácter de �
 que vivimos”, o sea de “las diversas comunidades, culturas e individuos que hacen de 
 Belfast la ciudad auténtica y creativa que conocemos tan bien”. 
 
-![Belfast Design Week](etheria_images/2019/10/design-week-belfast-1-900x601.jpg "© Belfast Design Week.")
+![Belfast Design Week](etheria-images/2019/10/design-week-belfast-1-900x601.jpg "© Belfast Design Week.")
 
 En sus programas abundan las charlas y talleres alrededor de todo tipo de temas: los 
 juegos, el diseño centrado en las personas, la ilustración, la moda, el diseño de 

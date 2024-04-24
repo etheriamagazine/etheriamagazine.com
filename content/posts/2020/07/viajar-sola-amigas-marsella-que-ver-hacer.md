@@ -1,12 +1,12 @@
 ---
 title: "Marsella en un fin de semana: experiencias imperdibles con amigas"
 date: 2020-07-10
-coverImage: etheria_images/2020/07/Marsella-puerto-atardecer.jpg
+coverImage: etheria-images/2020/07/Marsella-puerto-atardecer.jpg
 categories: 
   - viajes-con-amigas
   - viajar-sola
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 El nombre de Marsella ya evoca luz, Mediterráneo, sabores africanos y vida marinera. 
@@ -14,7 +14,7 @@ Esta ciudad francesa es una opción perfecta y cercana para realizar ese viaje c
 en el que lleváis tanto tiempo pensando. Os contamos cómo organizar un fin de semana en 
 Marsella para no perder ni un minuto. 
 
-![La Catedral de Santa María de la Guardia protege su bello y milenario puerto.](etheria_images/2020/06/Marsella-viaje-mujeres-etheria.jpg "La Catedral de Santa María de la Guardia protege su bello y milenario puerto. © Manena Munar")
+![La Catedral de Santa María de la Guardia protege su bello y milenario puerto.](etheria-images/2020/06/Marsella-viaje-mujeres-etheria.jpg "La Catedral de Santa María de la Guardia protege su bello y milenario puerto. © Manena Munar")
 
 La literatura presenta a esta ciudad francesa como un lugar donde puede pasar de todo, y 
 es que un viaje con amigas a Marsella seguro será memorable. Y el crisol de culturas que 
@@ -34,7 +34,7 @@ Montale que se mueve en una Marsella llena de más desventuras que venturas, fas
 de todos modos. Dumas, Simone de Beauvoir y Lamartine, entre otras polifacéticas 
 personalidades, cayeron rendidos antes los encantos de la controvertida urbe. 
 
-![L'Ombrière de Norman Foster, el mundo al revés en pleno Puerto Viejo.](etheria_images/2020/06/marsella-espejo-ombiere-foster.jpg "L'Ombrière de Norman Foster, el mundo al revés en pleno Puerto Viejo. © M. Munar")
+![L'Ombrière de Norman Foster, el mundo al revés en pleno Puerto Viejo.](etheria-images/2020/06/marsella-espejo-ombiere-foster.jpg "L'Ombrière de Norman Foster, el mundo al revés en pleno Puerto Viejo. © M. Munar")
 
 ## Primer día en Marsella
 
@@ -55,7 +55,7 @@ Señora de la Guardia**, a la que se accede por callejuelas sinuosas, pintadas e
 cálidos y llenas de comercios. Sin salir del área del puerto merece la pena visitar la 
 abadía de San Víctor y el palacio del Faro. 
 
-![Mimos asombrosos pueblan el Bulevar del Litoral.](etheria_images/2020/06/viaje-marsella-mimos.jpg "Mimos asombrosos pueblan el Bulevar del Litoral. © M. Munar")
+![Mimos asombrosos pueblan el Bulevar del Litoral.](etheria-images/2020/06/viaje-marsella-mimos.jpg "Mimos asombrosos pueblan el Bulevar del Litoral. © M. Munar")
 
 ### A la rica bullabesa
 
@@ -69,7 +69,7 @@ famosos arquitectos han dado el do de pecho con edificios de la categoría de la
 **Torre CMA-CGM**, de Zaha Hadid, los **Muelles Arenc** de Jean Nouvel, y picar algo en 
 el mercado gastronómico del imperio comercial **Las Terrases du Port**, mirando el mar. 
 
-![Cours Honoré d´Estienne d'Orves está repleto de restaurantes donde tomar una estupenda bullabesa.](etheria_images/2020/06/bares-marsella.jpg "Cours Honoré d´Estienne d'Orves está repleto de restaurantes donde tomar una estupenda bullabesa. © M. Munar")
+![Cours Honoré d´Estienne d'Orves está repleto de restaurantes donde tomar una estupenda bullabesa.](etheria-images/2020/06/bares-marsella.jpg "Cours Honoré d´Estienne d'Orves está repleto de restaurantes donde tomar una estupenda bullabesa. © M. Munar")
 
 ### De marcha por Le Panier
 
@@ -80,7 +80,7 @@ que aún siguen allí regalando ese aroma a pan recién horneado que no tiene pa
 También afama al barrio un **chocolate de primera** que se degusta con mayúsculas en la 
 Chocolatière du Panier. 
 
-![Chocolat du Panier y Bar 13 Coins](etheria_images/2020/06/viaje-marsella-panier.jpg "Chocolat du Panier y Bar 13 Coins. © M. Munar")
+![Chocolat du Panier y Bar 13 Coins](etheria-images/2020/06/viaje-marsella-panier.jpg "Chocolat du Panier y Bar 13 Coins. © M. Munar")
 
 Lleno de reivindicativos grafitis que aportan un cierto aire canallesco y atractivo, 
 **Le Panier** se jacta de ser el barrio más antiguo de Francia, a pesar de que para la 
@@ -95,7 +95,7 @@ provenzal **De Moulins**, así llamada por los tres molinos que aún alberga; **
 con bellas panorámicas al puerto viejo, o **Place de Lorette**, elegida para sus 
 exposiciones por la minimalista galería de arte Videochroniques. 
 
-![Colores mediterráneos en las fachadas, y vida a borbotones llenan las calles marsellesas.](etheria_images/2020/06/viaje-calles-marsella.jpg "Colores mediterráneos en las fachadas, y vida a borbotones llenan las calles marsellesas. © M. Munar")
+![Colores mediterráneos en las fachadas, y vida a borbotones llenan las calles marsellesas.](etheria-images/2020/06/viaje-calles-marsella.jpg "Colores mediterráneos en las fachadas, y vida a borbotones llenan las calles marsellesas. © M. Munar")
 
 También son numerosos los **cafés y restaurantes de Le Panier** donde tomarse un cassis, 
 o un buen _vin_ _rosé,_ tan típico de la región, para luego elegir el menú en un bistro 
@@ -112,7 +112,7 @@ preferente son las 51 habitaciones del **hotel La Résidence**, cada una con su 
 balcón mirando al puerto y a la basílica de Santa María, con una decoración años 50 de 
 lo más sugerente. 
 
-![Una de las agradables plazas de Marsella.](etheria_images/2020/06/marsella-verano.jpg "Una de las agradables plazas de Marsella. © M. Munar")
+![Una de las agradables plazas de Marsella.](etheria-images/2020/06/marsella-verano.jpg "Una de las agradables plazas de Marsella. © M. Munar")
 
 ## Segundo día en Marsella
 
@@ -136,7 +136,7 @@ al pintoresco **mercado de los Capuchinos** en el barrio de Noailles, lleno tien
 artesanía africana, teterías, restaurantes pequeños donde se sirve cuscús y con bares 
 muy modernos que rodean **Cours Julien.** 
 
-![La Catedral bizantina de Santa María la Mayor se refleja en el MuCEM.](etheria_images/2020/06/catedral-marsella-mucem.jpg "La Catedral bizantina de Santa María la Mayor se refleja en el MuCEM. ©M. Munar")
+![La Catedral bizantina de Santa María la Mayor se refleja en el MuCEM.](etheria-images/2020/06/catedral-marsella-mucem.jpg "La Catedral bizantina de Santa María la Mayor se refleja en el MuCEM. ©M. Munar")
 
 ### La nueva Marsella de MuCEM
 
@@ -149,7 +149,7 @@ unida por un largo puente con el fuerte de San Juan (del siglo XVII). Complement
 intachable del complejo a orillas del mar es el El Centro de Arte Contemporáneo 
 (**FRAC**) proyectado por Kengo Kuma. 
 
-![Ver el atardecer desde el MuCEM es una experiencia inolvidable.](etheria_images/2020/06/marsella-mucem.jpg "Ver el atardecer desde el MuCEM es una experiencia inolvidable. © M. Munar")
+![Ver el atardecer desde el MuCEM es una experiencia inolvidable.](etheria-images/2020/06/marsella-mucem.jpg "Ver el atardecer desde el MuCEM es una experiencia inolvidable. © M. Munar")
 
 ## Visitas guiadas en Marsella
 

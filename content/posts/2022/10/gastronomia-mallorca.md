@@ -1,10 +1,10 @@
 ---
 title: "10 secretos ‘gastro’ que deberías conocer de Mallorca"
 date: 2022-10-25
-coverImage: etheria_images/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg
+coverImage: etheria-images/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg
 categories: 
   - de-un-vistazo
-author: 
+authors: 
   - Elisabeth G. Iborra
 ---
 
@@ -14,7 +14,7 @@ que muchas veces no quieren que se difundan para que no se inunden de turistas. 
 toma nota de estos 10 secretos para vivir la gastronomía de Mallorca como si fueras de 
 allí. 
 
-![Pato de tuetano del restaurante The Merchants en Mallorca](etheria_images/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg "Tartar de ternera en hueso de tuétano de © The Merchants Steak&Grill.")
+![Pato de tuetano del restaurante The Merchants en Mallorca](etheria-images/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg "Tartar de ternera en hueso de tuétano de © The Merchants Steak&Grill.")
 
 Una de las cosas buenas que tiene **viajar sola a Mallorca** es que te juntas con los 
 oriundos con mayor facilidad que si vas en grupo o en pareja. Y como es algo que hago 
@@ -52,7 +52,7 @@ superan en creatividad los de **Café Canamunt**, en el centro citadino, donde
 compartimos otros muy creativos como el de entraña con cebolla caramelizada, el de 
 embutido camaiot con queso o el de jugoso pastrami. ¡Y el pan tampoco desmerece! 
 
-![bocadillos mallorquines en Café Canamunt](etheria_images/2022/10/mallorca-llonguets-canamunt.jpg "Llonguets de © Café Canamunt: de panceta crujiente con encurtidos, mango, hoisin y hierbabuena y de pastrami con pepinillos y salsa de mostaza.")
+![bocadillos mallorquines en Café Canamunt](etheria-images/2022/10/mallorca-llonguets-canamunt.jpg "Llonguets de © Café Canamunt: de panceta crujiente con encurtidos, mango, hoisin y hierbabuena y de pastrami con pepinillos y salsa de mostaza.")
 
 ### La sobrasada
 
@@ -64,7 +64,7 @@ cerdo negro mallorquín. Son de otro planeta. Como su cerebro que recrea maravil
 la sobrasada con queso azul, queso de mahón, chocolate, curry o la reserva de la 
 familia, con seis meses de curación (otra historia). 
 
-![tostas de sobrasada de Mallorca](etheria_images/2022/10/mallorca-sobrasada.jpg "Sobrasada de Mallorca.")
+![tostas de sobrasada de Mallorca](etheria-images/2022/10/mallorca-sobrasada.jpg "Sobrasada de Mallorca.")
 
 ### La ensaimada
 
@@ -76,7 +76,7 @@ originalidad. La cual les lleva a hacer colaboraciones para la charcutería de *
 Pajarita**, uno de los negocios más antiguos de Palma, con creaciones como la de la 
 ensaimada con sobrasada e higos o el turrón con forma de sobrasada. 
 
-![ensaimada mallorquina](etheria_images/2022/10/mallorca-ensaimada.jpg "La ensaimada es un producto típico de la gastronomía de Mallorca.")
+![ensaimada mallorquina](etheria-images/2022/10/mallorca-ensaimada.jpg "La ensaimada es un producto típico de la gastronomía de Mallorca.")
 
 ## Dónde comer y beber (mejor)
 
@@ -90,7 +90,7 @@ sus pintxos, que parecen algo dulce pero en realidad son una tapa salada y exqui
 puede seguir dando sorpresas. Prueba el bao de vieira, los donetes de pica pica de 
 calamar o el xuxo de porcella… ¡y su tarta de queso! 
 
-![gastronomía de Mallorca en El Bandarra](etheria_images/2022/10/mallorca-el-bandarra.jpg "Platos de © El Bandarra.")
+![gastronomía de Mallorca en El Bandarra](etheria-images/2022/10/mallorca-el-bandarra.jpg "Platos de © El Bandarra.")
 
 **Bodega Morey** es un magnífico lugar para empezar un vermú torero, con una buena 
 ensaladilla rusa, salazones de calidad, sus deliciosas albóndigas o las alcachofas con 
@@ -136,7 +136,7 @@ sardinas ahumadas, hasta la melosa ventresca y el apabullante codillo que se des
 con cuchara sin esfuerzo. La selección de vinos de las denominaciones de origen isleñas 
 y de vermús como el Mallorquín en su barrilito se agradece sobremanera. 
 
-![jardin de restaurante The Merchants en Palma de Mallorca](etheria_images/2022/10/the-merchants-jardin.jpg "Jardín de © The Merchants Steak&Grill.")
+![jardin de restaurante The Merchants en Palma de Mallorca](etheria-images/2022/10/the-merchants-jardin.jpg "Jardín de © The Merchants Steak&Grill.")
 
 **The Merchants Steak&Grill** (merchantspalma.com) es otro restaurante sito dentro del 
 hotel Palacio Can Marqués, pero dirigido por el grupo de Five Senses. Su _rooftop_ es un 
@@ -158,7 +158,7 @@ la copa. Una gran fórmula para poder probar diferentes blancos, rosados y tinto
 precio asequible. Y con el nuevo chef Aquiles, la carta de comidas está a la altura. Yo 
 me pedí la ensaladilla y la parrillada de carne y tuve que entrar a felicitarle. 
 
-![vinos refrigerados en la vinoteca Wineing](etheria_images/2022/10/Mallorca-Wineing.jpg "Vinoteca © Wineing.")
+![vinos refrigerados en la vinoteca Wineing](etheria-images/2022/10/Mallorca-Wineing.jpg "Vinoteca © Wineing.")
 
 **Bodega Can Rigo** es una coqueta bodega con buena música que, perfectamente, podría 
 estar en París, pero se ubica en el centro de Palma y tiene una selección de vinos de 
@@ -182,7 +182,7 @@ experiencias gastronómicas con chefs privados y catas de Johnny Be Food. Busca 
 destilados, las de vinos o incluso de los vermús que elaboran con La Vermutera, como los 
 arriba mencionados, o El Mallorquín, que tiene barrica y es más premium. 
 
-![patio de las bodegas Suau en Mallorca](etheria_images/2022/10/mallorca-suau.jpg "Entrada a las © Bodegas Suau.")
+![patio de las bodegas Suau en Mallorca](etheria-images/2022/10/mallorca-suau.jpg "Entrada a las © Bodegas Suau.")
 
 En el puerto de Alcùdia, te encantará el gastrobar **The Wine Side**, no sólo por todos 
 los vinos que tienen por copas o en botellas, sino también por su excelente gastronomía. 
@@ -199,7 +199,7 @@ esa panorámica. Y luego te conviene reposar en sus tumbonas antes de coger el c
 recorrer las curvas hasta Cabo Formentor con el cronómetro a tiempo para ver el 
 atardecer. 
 
-![Cabo Formentor.](etheria_images/2022/10/mallorca-formentor.jpg "Cabo Formentor.")
+![Cabo Formentor.](etheria-images/2022/10/mallorca-formentor.jpg "Cabo Formentor.")
 
 Al sur de la isla, en Colonia Sant Jordi, puedes tumbarte al sol en la fina arena de la 
 Platja del Marqués, bañarte en sus aguas cristalinas, coger un ferry al Parque Natural 
@@ -223,7 +223,7 @@ tomarte uno de sus vermús y vinos muy bien escogidos con un frito mallorquín c
 a los barquitos. Y, tras una tarde de playeo para contemplar la puesta de sol, sube al 
 simpático **Mini Bar**. 
 
-![camarero sujetando pescados en Villa Luisa en Mallorca](etheria_images/2022/10/mallorca-villa-luisa.jpg "Pescados de primera en © Villa Luisa.")
+![camarero sujetando pescados en Villa Luisa en Mallorca](etheria-images/2022/10/mallorca-villa-luisa.jpg "Pescados de primera en © Villa Luisa.")
 
 ? Para darte un homenaje de sibaritismo máximo, escoge, sin ninguna duda, el antiguo 
 palacete de **Villa Luisa**, conservado desde 1923 y restaurado con un gusto 

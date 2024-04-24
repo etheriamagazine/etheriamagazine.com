@@ -1,18 +1,18 @@
 ---
 title: "Postres de chocolate con efecto terapéutico en Madrid"
 date: 2020-09-11
-coverImage: etheria_images/2020/09/restaurante-santita-helado-chocolate-metate-baja.jpg
+coverImage: etheria-images/2020/09/restaurante-santita-helado-chocolate-metate-baja.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Si hubiese que elegir un postre que no pasara de moda seguro que llevaría chocolate. Quizás sea por su efecto terapéutico, ya que relaja y aporta felicidad, o porque el chocolate va con todo. Si para ti todos los días son el Día Internacional del Chocolate, toma nota de estas referencias donde el chocolate es el rey de los postres.
 
-![helado de chocolate del restaurante santita de madrid](etheria_images/2020/09/restaurante-santita-helado-chocolate-metate-baja.jpg "El helado ‘Xocolatl’ es una sugerencia del restaurante © Santita.")
+![helado de chocolate del restaurante santita de madrid](etheria-images/2020/09/restaurante-santita-helado-chocolate-metate-baja.jpg "El helado ‘Xocolatl’ es una sugerencia del restaurante © Santita.")
 
 ## Lugares donde pedir un postre de chocolate:
 
@@ -33,7 +33,7 @@ galletas, naranja y chantilly'**. Nuestra recomendación es que lo acompañes de
 y sientas en el paladar el _glamour_ de la capital. Una de las mejores opciones para 
 tomar postres de chocolate en Madrid. 
 
-![vasito de chocolate con crema de oreos y galletas en el hotel hyatt](etheria_images/2020/09/chocolate-Hyatt-Centric-Gran-Via-Madrid.jpg "El Jardín de Diana es un lugar magnífico para degustar un postre de chocolate. © Hyatt Centric Gran Via Madrid.")
+![vasito de chocolate con crema de oreos y galletas en el hotel hyatt](etheria-images/2020/09/chocolate-Hyatt-Centric-Gran-Via-Madrid.jpg "El Jardín de Diana es un lugar magnífico para degustar un postre de chocolate. © Hyatt Centric Gran Via Madrid.")
 
 ### 2\. La mejor tarta de chocolate del mundo
 
@@ -47,7 +47,7 @@ La ubicación del local, en la calle Alcalá, cerca del parque del Retiro, la am
 de su dueña y que te la llevan a casa si quieres, lo convierten en uno de los lugares 
 más interesantes para pedir una tarta en cualquier celebración familiar en Madrid. 
 
-![la mejor tarta de chocolate madrid](etheria_images/2020/09/la-mejor-tarta-de-chocolate-madrid.jpg "La apetitosa tarta de '© La mejor tarta de chocolate del mundo' (Madrid).")
+![la mejor tarta de chocolate madrid](etheria-images/2020/09/la-mejor-tarta-de-chocolate-madrid.jpg "La apetitosa tarta de '© La mejor tarta de chocolate del mundo' (Madrid).")
 
 ### 3\. Chocolate a la mexicana en Santita
 
@@ -59,7 +59,7 @@ un bizcocho de chocolate con tres leches de chocolate artesanal mexicano y meren
 el **helado ‘Xocolatl**’, con anís y canela, entre otras especias. Y, si necesitas una 
 dosis extra de mimos, date el gusto y pide los dos. 
 
-![pastel chocolate postre de Santita](etheria_images/2020/09/restaurante-mexicano-santita-Pastel-chocolate.jpg "Pastel de chocolate del restaurante mexicano © Santita.")
+![pastel chocolate postre de Santita](etheria-images/2020/09/restaurante-mexicano-santita-Pastel-chocolate.jpg "Pastel de chocolate del restaurante mexicano © Santita.")
 
 ### 4\. Un baño de chocolate caliente
 
@@ -74,7 +74,7 @@ acompaña de helado de chantilly.
 También disponen de servicio a domicilio si quieres darte el capricho de pedir un menú 
 completo, incluso con vinos y postre, sin moverte de casa. 
 
-![Baumkuchen postre de chocolate de horcher](etheria_images/2020/09/chocolate-madrid-Baumkuchen-horcher.jpg "Un baño de chocolate y el Baumkuchen ya estaría. Lo sirven en © Horcher (Madrid).")
+![Baumkuchen postre de chocolate de horcher](etheria-images/2020/09/chocolate-madrid-Baumkuchen-horcher.jpg "Un baño de chocolate y el Baumkuchen ya estaría. Lo sirven en © Horcher (Madrid).")
 
 ### 5\. Pan de chocolate y naranja
 
@@ -84,7 +84,7 @@ sino sus hogazas de pan con chocolate y naranja. Los locales de esta panadería 
 se encuentran repartidos tanto por la capital como por el resto de la Comunidad de 
 Madrid, así que seguro que encuentras alguno cerca. ¡Ya nos contarás qué te parece! 
 
-![pan de chocolate con trozos de naranja de levadura madre](etheria_images/2020/09/Hogaza-de-chocolate-y-naranja-de-Levaduramadre.jpg "Pan con chocolate y naranja, una idea de © Levadura Madre.")
+![pan de chocolate con trozos de naranja de levadura madre](etheria-images/2020/09/Hogaza-de-chocolate-y-naranja-de-Levaduramadre.jpg "Pan con chocolate y naranja, una idea de © Levadura Madre.")
 
 ### 6\. Oda italiana al chocolate
 
@@ -97,7 +97,7 @@ chocolate horneada y helado de stracciatella bañado en chocolate fundido’** o
 deliciosa **‘Mousse de crema de chocolate y avellana con trocitos de bizcocho de 
 chocolate**’. Encontrarás seis restaurantes en Madrid y uno en Murcia. 
 
-![postre de oven mozarella restaurante italiano en madrid](etheria_images/2020/09/restaurante-oven-madrid-postres-chocolate.jpg "En © Ôven Mozzarella comprobarás que los italianos son tan golosos como nosotros.")
+![postre de oven mozarella restaurante italiano en madrid](etheria-images/2020/09/restaurante-oven-madrid-postres-chocolate.jpg "En © Ôven Mozzarella comprobarás que los italianos son tan golosos como nosotros.")
 
 ### 7\. Carne a la parrilla de primero, y luego... ¿brownie o bombón?
 
@@ -109,4 +109,4 @@ no es para ensalzar las carnes sino los postres, sólo podemos decirte que no er
 pides su **‘Brownie de chocolate con helado de vainilla’**, o la **‘Cremosa Mousse de 
 chocolate y avellana**’. 
 
-![postre de chocolate de restaurante carnes steakburger madrid](etheria_images/2020/09/brownie-helado-vainilla-steakburger.jpg "Brownie con helado de vainilla de © Steakburger.")
+![postre de chocolate de restaurante carnes steakburger madrid](etheria-images/2020/09/brownie-helado-vainilla-steakburger.jpg "Brownie con helado de vainilla de © Steakburger.")

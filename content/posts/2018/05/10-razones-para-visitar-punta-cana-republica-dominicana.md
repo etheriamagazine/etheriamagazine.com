@@ -1,19 +1,19 @@
 ---
 title: "10 razones para viajar a República Dominicana"
 date: 2018-05-18
-coverImage: etheria_images/2018/05/3-Republica-Dominicana-Sur-7.jpg
+coverImage: etheria-images/2018/05/3-Republica-Dominicana-Sur-7.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Un viaje a República Dominicana nunca defrauda. Cada viajero encuentra lugares y 
 actividades adecuadas a sus gustos en este rincón del Caribe. Te ofrecemos 10 razones 
 para visitar la isla, pero hay muchísimas más. 
 
-![Las playas de Punta Cana se prestan a pasear y a la práctica deportiva](etheria_images/2018/05/1-Republica-Dominicana-Sur-1-1024x678.jpg "Las playas de Punta Cana se prestan a pasear y a la práctica deportiva")
+![Las playas de Punta Cana se prestan a pasear y a la práctica deportiva](etheria-images/2018/05/1-Republica-Dominicana-Sur-1-1024x678.jpg "Las playas de Punta Cana se prestan a pasear y a la práctica deportiva")
 
 ## 1\. Playas de arena fina y mar turquesa
 
@@ -21,7 +21,7 @@ Uno de los atractivos de **República Dominicana** son sus playas de arena fina,
 custodiadas por cocoteros, y el mar cristalino. Las mejores ensenadas se encuentran en 
 el sudeste de la isla, en lugares tan conocidos como Punta Cana y Bávaro. 
 
-![Basílica Catedral de Nuestra Señora de Altagracia](etheria_images/2018/05/2-Republica-Dominicana-Sur-2-1024x683.jpg "Basílica Catedral de Nuestra Señora de Altagracia (Higüey, República Dominicana)")
+![Basílica Catedral de Nuestra Señora de Altagracia](etheria-images/2018/05/2-Republica-Dominicana-Sur-2-1024x683.jpg "Basílica Catedral de Nuestra Señora de Altagracia (Higüey, República Dominicana)")
 
 ## 2\. Punta Cana, Higüey y San Pedro de Macorís
 
@@ -33,7 +33,7 @@ América” ya que, según la leyenda, allí se apareció Nuestra Señora de Alt
 imagen junto al río Higuano. En la lejanía, con su campanario arañando el cielo se 
 asemeja a ciertas urbes europeas. 
 
-![Los vuelos en helicóptero permiten perspectivas atractivas e inusuales de la costa dominicana](etheria_images/2018/05/3-Republica-Dominicana-Sur-7-1024x612.jpg "Los vuelos en helicóptero permiten perspectivas atractivas e inusuales de la costa dominicana.")
+![Los vuelos en helicóptero permiten perspectivas atractivas e inusuales de la costa dominicana](etheria-images/2018/05/3-Republica-Dominicana-Sur-7-1024x612.jpg "Los vuelos en helicóptero permiten perspectivas atractivas e inusuales de la costa dominicana.")
 
 ## 3\. Volar en helicóptero
 
@@ -42,7 +42,7 @@ del paisaje de la costa de Punta Cana combina largas ensenadas de arena blanca, 
 turquesa, cuidados campos de golf , pequeñas poblaciones y dispersas masas forestales. 
 Volar en helicóptero es una gran experiencia. 
 
-![La cocina también se renueva en República Dominicana.](etheria_images/2018/05/4-Republica-Dominicana-Sur-11-1024x645.jpg "La cocina también se renueva en República Dominicana.")
+![La cocina también se renueva en República Dominicana.](etheria-images/2018/05/4-Republica-Dominicana-Sur-11-1024x645.jpg "La cocina también se renueva en República Dominicana.")
 
 ## 4\. Probar sabores nuevos
 
@@ -51,7 +51,7 @@ incluye carne guisada o frita con arroz, frijoles y tostones. Y para acompañarl
 mejor que una **cerveza Presidente** bien fría. Si estás en la playa, el pescado fresco 
 a la parrilla con una piña colada servida en un coco es otra opción apetecible. 
 
-![Dolphin Explorer ofrece actividades con delfines, leones marinos y otros animales.](etheria_images/2018/05/Delfin-Explorer.jpg "Dolphin Explorer ofrece actividades con delfines, leones marinos y otros animales. (© Dophin Explorer)")
+![Dolphin Explorer ofrece actividades con delfines, leones marinos y otros animales.](etheria-images/2018/05/Delfin-Explorer.jpg "Dolphin Explorer ofrece actividades con delfines, leones marinos y otros animales. (© Dophin Explorer)")
 
 ## 5\. Nadar con delfines
 
@@ -59,7 +59,7 @@ Una experiencia que agrada a grandes y pequeños es nadar con delfines. Esta act
 puede contratar en los hoteles o acudir directamente al Parque Dolphin Explorer donde, 
 además, se pueden ver otros animales y espectáculos con fauna. 
 
-![Conocer e interactuar con la población local es básico para conocer un destino](etheria_images/2018/05/6-Republica-Dominicana-Sur-3-1024x683.jpg "Conocer e interactuar con la población local es básico para conocer un destino.")
+![Conocer e interactuar con la población local es básico para conocer un destino](etheria-images/2018/05/6-Republica-Dominicana-Sur-3-1024x683.jpg "Conocer e interactuar con la población local es básico para conocer un destino.")
 
 ## 6\. Conocer a la población local
 
@@ -68,7 +68,7 @@ agrícolas. Que no te sorprenda ver junto a la carretera a jornaleros realizando
 tan duras como la recogida de la caña de azúcar, con la que luego realizarán su 
 delicioso ron. 
 
-![Pasear por los mercados, curioseando entre los productos, es una actividad que no debes perderte](etheria_images/2018/05/7-Republica-Dominicana-Sur-5-1024x726.jpg "Pasear por los mercados, curioseando entre los productos, es una actividad que no debes perderte")
+![Pasear por los mercados, curioseando entre los productos, es una actividad que no debes perderte](etheria-images/2018/05/7-Republica-Dominicana-Sur-5-1024x726.jpg "Pasear por los mercados, curioseando entre los productos, es una actividad que no debes perderte")
 
 ## 7\. Curiosear en los mercados
 
@@ -76,7 +76,7 @@ Visitar los mercados en República Dominica es una experiencia muy gratificante 
 permite conocer los productos locales de la isla. Frutas, verduras, tejidos e, incluso, 
 objetos para invocar a los espíritus. 
 
-![Campo de golf en República Dominicana.](etheria_images/2018/05/8-Republica-Dominicana-Sur-10-1024x687.jpg "Campo de golf en República Dominicana.")
+![Campo de golf en República Dominicana.](etheria-images/2018/05/8-Republica-Dominicana-Sur-10-1024x687.jpg "Campo de golf en República Dominicana.")
 
 ## 8\. Aprender a jugar al golf
 
@@ -85,7 +85,7 @@ por el reconocido P. B. Dye. Es un placer recorrer la hierba y hallar, tras algu
 sus onduladas colinas, pequeños lagos o un buggy-bar para tomar una cerveza bien 
 fresquita. 
 
-![Iberostar Grand Bávaro.](etheria_images/2018/05/9-Republica-Dominicana-Sur-6-1024x646.jpg "Iberostar Grand Bávaro.")
+![Iberostar Grand Bávaro.](etheria-images/2018/05/9-Republica-Dominicana-Sur-6-1024x646.jpg "Iberostar Grand Bávaro.")
 
 ## 9\. Buenos hoteles a precios aceptables
 
@@ -93,7 +93,7 @@ El litoral está salpicado de complejos hoteleros de todas las categorías. En l
 el Iberostar Grand Bávaro All inclusive, un establecimiento solo para adultos donde 
 disfrutar de la tranquilidad y el silencio junto a una hermosa playa. 
 
-![Las largas playas de República son idóneas para disfrutar con la familia](etheria_images/2018/05/10-Republica-Dominicana-Sur-14-1024x742.jpg "Las largas playas de República son idóneas para disfrutar con la familia")
+![Las largas playas de República son idóneas para disfrutar con la familia](etheria-images/2018/05/10-Republica-Dominicana-Sur-14-1024x742.jpg "Las largas playas de República son idóneas para disfrutar con la familia")
 
 ## 10\. República Dominicana también en familia
 

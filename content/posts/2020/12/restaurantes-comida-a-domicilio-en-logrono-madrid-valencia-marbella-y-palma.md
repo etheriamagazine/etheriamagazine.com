@@ -1,17 +1,17 @@
 ---
 title: "Cena por todo lo alto sin salir de casa en Logroño, Madrid, Valencia, Marbella o Palma"
 date: 2020-12-29
-coverImage: etheria_images/2020/12/restaurante-botanic-palma-mallorca.jpg
+coverImage: etheria-images/2020/12/restaurante-botanic-palma-mallorca.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ##### Por comodidad, por capricho, porque no tienes tiempo de cocinar o por temor a salir a un restaurante… cada vez es más habitual pedir comida a domicilio. Te recomendamos cinco restaurantes que te resolverán cenas y celebraciones familiares sin moverte de casa.
 
-![comida para llevar de juan carlos ferrando logrono](etheria_images/2020/12/juan-carlos-Ferrando-comida-domicilio.jpg "Delivery o take away del restaurante Juan Carlos Ferrando (Logroño).")
+![comida para llevar de juan carlos ferrando logrono](etheria-images/2020/12/juan-carlos-Ferrando-comida-domicilio.jpg "Delivery o take away del restaurante Juan Carlos Ferrando (Logroño).")
 
 Aunque casi en todas las ciudades hay propuestas gastronómicas muy atractivas, hemos 
 elegido cinco que nos parecen muy destacables en **Logroño**, **Madrid**, **Palma de 
@@ -42,7 +42,7 @@ de Gárate). Además, dispone de menús especiales navideños.
 Disfrutar de la sabrosa cocina de este chef argentino es tan fácil como [entrar en su 
 web](https://www.juancarlosferrando.com/) o enviar un whatsapp al Tel. 649 977 575. 
 
-![comida japonesa a domicilio madrid](etheria_images/2020/12/Sergio-Monterde-Sr-Ito-Lab-en-Casa-714x1024.jpg "Sergio Monterde © Sr. Ito Lab en Casa.")
+![comida japonesa a domicilio madrid](etheria-images/2020/12/Sergio-Monterde-Sr-Ito-Lab-en-Casa-714x1024.jpg "Sergio Monterde © Sr. Ito Lab en Casa.")
 
 ## 2\. Madrid. Showcooking de cocina japonesa con Sr. Ito Lab
 
@@ -68,7 +68,7 @@ o llamando al 638 628 586.
 Si prefieres visitar sus restaurantes puedes dirigirte a la calle Pelayo, 60 o a 
 Trafalgar, 7 (Madrid). 
 
-![comida para llevar en restaurante mallorca](etheria_images/2020/12/restaurante-botanico-mallorca-745x1024.jpg "© Restaurante Botànic, del hotel Can Bordoy (Palma de Mallorca9.")
+![comida para llevar en restaurante mallorca](etheria-images/2020/12/restaurante-botanico-mallorca-745x1024.jpg "© Restaurante Botànic, del hotel Can Bordoy (Palma de Mallorca9.")
 
 ## 3\. Mallorca con glamour. Del restaurante Botànic a casa 
 
@@ -87,7 +87,7 @@ emplatarlos de forma adecuada, ya que la parte estética también forma parte de
 experiencia. La opción navideña se puede pedir hasta el 7 de enero de 2021 en el Tel. 
 871 871 202, o enviando un email a info@canbordoy.com. 
 
-![Jarana by Lienzo comida para llevar en valencia](etheria_images/2020/12/jarana-by-lienzo-valencia.jpg "Jarana by Lienzo, en Valencia.")
+![Jarana by Lienzo comida para llevar en valencia](etheria-images/2020/12/jarana-by-lienzo-valencia.jpg "Jarana by Lienzo, en Valencia.")
 
 ## 4\. Valencia. Jarana by Lienzo, la propuesta de la chef María José Martínez
 
@@ -119,7 +119,7 @@ persona).
 Los pedidos pueden realizarse a través de la [web de 
 Lienzo](http://www.restaurantelienzo.com/), de su propia App y del Tel. 621 060 836 
 
-![maison lu de marbella](etheria_images/2020/12/maison-lu-Maison-Chez-Vous-marbella.jpg "© Maison Lú, en Marbella.")
+![maison lu de marbella](etheria-images/2020/12/maison-lu-Maison-Chez-Vous-marbella.jpg "© Maison Lú, en Marbella.")
 
 ## 5\. Marbella. El toque francés de Maison Lú
 

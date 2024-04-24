@@ -1,11 +1,11 @@
 ---
 title: "5 Mercadillos de Adviento muy originales para el puente de diciembre"
 date: 2019-11-20
-coverImage: etheria_images/2019/11/mercadillo-acueducto-Adviento-Selva-Negra.jpg
+coverImage: etheria-images/2019/11/mercadillo-acueducto-Adviento-Selva-Negra.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Puede que pienses que en mercadillos navideños... 'visto uno vistos todos'. Queremos que 
@@ -13,7 +13,7 @@ te lo replantees al conocer las propuestas mercadillos originales de Navidad que
 sugerimos en Alemania, Chequia, Austria, Polonia y Suiza. Los hay debajo de un puente, 
 con música electrónica, con árboles que cantan, alrededor de un lago... 
 
-![Mercadillo Selva Negra bajo un puente](etheria_images/2019/11/mercadillo-acueducto-Adviento-Selva-Negra-900x600.jpg "Mercadillo del Ravennaschlucht (Alta Selva Negra, Alemania).")
+![Mercadillo Selva Negra bajo un puente](etheria-images/2019/11/mercadillo-acueducto-Adviento-Selva-Negra-900x600.jpg "Mercadillo del Ravennaschlucht (Alta Selva Negra, Alemania).")
 
 Puede parecer _a priori_ que todos los mercadillos navideños son iguales y pensados para 
 ir en familia. Sin embargo, no es así. Ni todos ofrecen lo mismo, ni están dirigidos 
@@ -34,7 +34,7 @@ los cuatro fines de semana de Adviento (de viernes a domingo).
 Te estarás preguntado cómo llegar... es muy fácil: existe un autobús gratuito desde las 
 estaciones de Himmelreich y de Hinterzarten. 
 
-![Mercadillo Selva Negra bajo un puente](etheria_images/2019/11/mercadillo-Adviento-Selva-Negra-900x596.jpg "Mercadillo del Ravennaschlucht (Alta Selva Negra, Alemania).")
+![Mercadillo Selva Negra bajo un puente](etheria-images/2019/11/mercadillo-Adviento-Selva-Negra-900x596.jpg "Mercadillo del Ravennaschlucht (Alta Selva Negra, Alemania).")
 
 ## 2\. Música electrónica y cócteles en Brno (Chequia)
 
@@ -51,7 +51,7 @@ acercarse a la **plaza Dominikánské**, que ofrece un aspecto más tradicional 
 romántico. Sin duda, es la favorita de las familias, que acuden para disfrutar de la 
 gastronomía, de los belenes y de un pequeño zoo. 
 
-![Mercadillo de Brno](etheria_images/2019/11/mercadillo-navidad-Brno-900x600.jpg "Mercadillo de Brno. © O.T. Chequia")
+![Mercadillo de Brno](etheria-images/2019/11/mercadillo-navidad-Brno-900x600.jpg "Mercadillo de Brno. © O.T. Chequia")
 
 Pero lo planes no acaban en los mercadillos, sino que también se puede subir a la 
 **noria gigante** (33 metros) en la plaza Moravské, para admirar desde las alturas el 
@@ -74,7 +74,7 @@ al tren del Adviento que lleva entre impresionantes paisajes formados por monta�
 bosques nevados. Infórmate en [Ferrocarril 
 SchafbergBahn](https://www.salzburg.info/es/lugares-de-interes/excursiones/schafbergbahn-wolfgangseeschifffahrt). 
 
-![Tren del Adviento en Salzburgo](etheria_images/2019/11/Salzburgo-adviento-900x599.jpg "Tren del Adviento en Salzburgo.")
+![Tren del Adviento en Salzburgo](etheria-images/2019/11/Salzburgo-adviento-900x599.jpg "Tren del Adviento en Salzburgo.")
 
 ## 4\. Cracovia y sus belenes Patrimonio de la Humanidad
 
@@ -91,7 +91,7 @@ empleaban reproduciendo los edificios más bonitos de Cracovia.
 Se suelen exponer en la plaza del Mercado el primer jueves de diciembre y se celebran 
 concursos en los que puede participar cualquier persona particular. 
 
-![concurso belenes cracovia](etheria_images/2019/10/concurso-belenes-unesco-cracovia-900x619.jpg "Concurso de belenes de Cracovia. © M.M.")
+![concurso belenes cracovia](etheria-images/2019/10/concurso-belenes-unesco-cracovia-900x619.jpg "Concurso de belenes de Cracovia. © M.M.")
 
 ## 5\. Árboles que cantan en Zúrich
 
@@ -105,14 +105,14 @@ El aspecto curioso de Zurich viene con **forma de árbol**, porque hay dos que s
 cuanto menos, curiosos. Uno de ellos mide 16 metros de alto y está decorado con unos 
 **7.000 cristales de Swarovski**. 
 
-![Árbol con cristales Swarovski en Zúrich](etheria_images/2019/11/arbol-cristales-900x601.jpg "Este árbol tiene 7.000 cristales de Swarovski.")
+![Árbol con cristales Swarovski en Zúrich](etheria-images/2019/11/arbol-cristales-900x601.jpg "Este árbol tiene 7.000 cristales de Swarovski.")
 
 El segundo árbol no tiene joyas pero es capaz de cantar: es el **Singing Christmas 
 Tree** de la calle Bahnhofstrasse. No es un abeto real, sino que es una plataforma 
 construida para funcionar como escenario. Está colocado a varias alturas y es el lugar 
 donde se sitúan los coros regionales para ofrecer al visitante su mejor repertorio. 
 
-![Árbol que canta en Zúrich (Suiza).](etheria_images/2019/11/arbol-canta-suiza-900x601.jpg "Árbol que canta en Zúrich (Suiza).")
+![Árbol que canta en Zúrich (Suiza).](etheria-images/2019/11/arbol-canta-suiza-900x601.jpg "Árbol que canta en Zúrich (Suiza).")
 
 Si vais con niños, llevadlos también al tranvía de cuentos de hadas 'Märlitram' que 
 recorre las calles, al mágico circo Conelli y al **mercado de Wienachtsdorf** de la 

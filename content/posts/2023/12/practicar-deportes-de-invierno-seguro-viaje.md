@@ -1,13 +1,13 @@
 ---
 title: "Cómo disfrutar de los deportes de invierno con total seguridad"
 date: 2023-12-11
-coverImage: etheria_images/2023/12/esqui-intermundial-mujer.jpg
+coverImage: etheria-images/2023/12/esqui-intermundial-mujer.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Llega la temporada de los deportes de invierno, que nos permiten combinar la actividad 
@@ -18,7 +18,7 @@ este artículo de damos algunas pistas tanto de los mejores lugares del mundo pa
 practicar estos deportes como de la mejor opción de seguros para disfrutarlos con toda 
 tranquilidad. 
 
-![chica haciendo snowboard](etheria_images/2023/12/snowboarder-esqui-intermundial.jpg "El snowboard es uno de los deportes de invierno más populares.")
+![chica haciendo snowboard](etheria-images/2023/12/snowboarder-esqui-intermundial.jpg "El snowboard es uno de los deportes de invierno más populares.")
 
 El invierno se acerca y con él un montón de deportes que los aficionados a la nieve 
 esperan poder practicar cuanto antes. Según ATUDEM (Asociación Turística de Estaciones 
@@ -50,7 +50,7 @@ que se puede combinar el deporte con los habituales spas situados en los hoteles
 cercanos a las pistas y con una amplia oferta gastronómica para degustar los platos 
 locales en las cada vez más diversas ofertas de aprés-ski. 
 
-![familia esquiando](etheria_images/2023/12/esqui-familia-intermundial.jpg "Esquiar en familia es una de las mejores actividades que se pueden realizar en invierno.")
+![familia esquiando](etheria-images/2023/12/esqui-familia-intermundial.jpg "Esquiar en familia es una de las mejores actividades que se pueden realizar en invierno.")
 
 ## Deportes de invierno en la Península Ibérica
 
@@ -62,7 +62,7 @@ Andorra. Las más populares y visitadas son Grandvalira (Andorra), Baqueira Bere
 (Pirineo catalán), Sierra Nevada (Granada) y Aramon (Formigal junto a Panticosa, en el 
 Pirineo aragonés). 
 
-![Estación de esquí de Cerler.](etheria_images/2023/12/esqui-intermundial-cerler.jpg "Estación de esquí de Cerler.")
+![Estación de esquí de Cerler.](etheria-images/2023/12/esqui-intermundial-cerler.jpg "Estación de esquí de Cerler.")
 
 Para los que buscan estaciones más tranquilas en España, una buena idea es decantarse 
 por alguna del Sistema Cantábrico, como **San Isidro** o **Alto Campoo**, o del Sistema 
@@ -86,7 +86,7 @@ esquí única por la calidad de los servicios. Otros lugares perfectos para esqu
 Europa son la pista de **Garmisch-Partenkirchen**, en Alemania (no te pierdas el 
 precioso pueblo que le da nombre) y los **Dolomitas** italianos. 
 
-![Estación de Vebier en Suiza.](etheria_images/2023/12/esqui-intermundial-verbier-suiza.jpg "Estación de Vebier en Suiza.")
+![Estación de Vebier en Suiza.](etheria-images/2023/12/esqui-intermundial-verbier-suiza.jpg "Estación de Vebier en Suiza.")
 
 ## Grandes viajes para practicar deportes de invierno
 
@@ -106,7 +106,7 @@ siempre deslumbran por sus paisajes grandiosos. En Canadá, algunas de las estac
 populares son **Whistler Blackcomb** y **Sun Peaks** (Columbia Británica) o **Lake 
 Louise** (Alberta). 
 
-![Esquiadores en Aspen.](etheria_images/2023/12/esqui-intermundial-aspen.jpg "Esquiadores en Aspen.")
+![Esquiadores en Aspen.](etheria-images/2023/12/esqui-intermundial-aspen.jpg "Esquiadores en Aspen.")
 
 Aquellos que quieren esquiar hasta el verano, tienen en el hemisferio sur una opción 
 perfecta, ya que los Andes proporcionan unas estaciones maravillosas como Valle Nevado o 
@@ -145,7 +145,7 @@ DESCUENTO](https://clk.tradedoubler.com/click?p=281568&a=3132464&url=https%3A%2F
 en INTERMUNDIAL por ser lector/a de ETHERIA MAGAZINE**) y disfruta de tus **deportes 
 favoritos sin riesgos**. 
 
-![mujer con esquies y mono naranja](etheria_images/2023/12/esqui-intermundial-mujer.jpg "Es fundamental esquiar protegido con un seguro de viajes.")
+![mujer con esquies y mono naranja](etheria-images/2023/12/esqui-intermundial-mujer.jpg "Es fundamental esquiar protegido con un seguro de viajes.")
 
 **También te puede interesar:** 
 

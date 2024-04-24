@@ -1,18 +1,18 @@
 ---
 title: "Dormir en un castillo en el valle del Loira: 4 propuestas imbatibles"
 date: 2022-04-15
-coverImage: etheria_images/2022/04/castillo-grand-luce-suite.jpg
+coverImage: etheria-images/2022/04/castillo-grand-luce-suite.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La imagen de los idílicos paisajes del valle del Loira salpicados por decenas de castillos a cual más imponente es uno de los mayores reclamos turísticos para viajar a Francia. Pero, ¿has pensado mejorar esta escapada alojándote en un auténtico castillo? Te proponemos cuatro perfectos tanto para una escapada romántica como para disfrutar en familia.
 
-![muebles de época en una habitación del castillo de la Flocellière](etheria_images/2022/04/castillo-flocelliere-habitacion-Bonnamy.jpg "Habitación del castillo de la Flocellière. © Laurent Rose")
+![muebles de época en una habitación del castillo de la Flocellière](etheria-images/2022/04/castillo-flocelliere-habitacion-Bonnamy.jpg "Habitación del castillo de la Flocellière. © Laurent Rose")
 
 Recorrer el valle del Loira es uno de los viajes que siempre tienen que estar en la 
 agenda de una viajera interesada en la historia y la arquitectura. Y, si ya lo has 
@@ -26,7 +26,7 @@ aristocráticas construyeron aquí sus residencias siguiendo a la Corte y alguna
 son hoy en día magníficos hoteles llenos de historia y encanto, donde te vas a sentir 
 como una reina. 
 
-![Vista aérea de castillo Grand-Lucé y sus jardines.](etheria_images/2022/04/castillo-grand-luce.jpg "Castillo Grand-Lucé. © Château Grand-Lucé/Adam Lynk")
+![Vista aérea de castillo Grand-Lucé y sus jardines.](etheria-images/2022/04/castillo-grand-luce.jpg "Castillo Grand-Lucé. © Château Grand-Lucé/Adam Lynk")
 
 ## 1\. El castillo de Grand-Lucé
 
@@ -40,7 +40,7 @@ espíritu de su época de esplendor como punto de encuentro de nobleza y filóso
 lugar perfecto para desconectar del día a día y alejarse de ruidos y problemas, a lo que 
 sin duda ayudará el no tener ni televisión en la habitación. 
 
-![Suite del castillo Grand-Lucé](etheria_images/2022/04/castillo-grand-luce-suite.jpg "Suite del castillo Grand-Lucé. © Château Grand-Lucé/Michael Spengler.")
+![Suite del castillo Grand-Lucé](etheria-images/2022/04/castillo-grand-luce-suite.jpg "Suite del castillo Grand-Lucé. © Château Grand-Lucé/Michael Spengler.")
 
 Aprovecha para caminar por sus jardines inglés y francés adornados con esculturas (que 
 fueron un regalo de Luis XV al propietario) o para bañarte en su curiosa piscina, que 
@@ -66,7 +66,7 @@ como el torreón, las vistas desde el antiguo invernadero, el jardín romántico
 estilo italiano. Conserva elementos de su pasado como las aspilleras del siglo XIII, las 
 construcciones defensivas del siglo XV y las ventanas del XVIII. 
 
-![Fachada del castillo de Flocellière en el Loira.](etheria_images/2022/04/fachda-castillo-flocelliere.jpg "Fachada del castillo de Flocellière. © Pierre Holley.")
+![Fachada del castillo de Flocellière en el Loira.](etheria-images/2022/04/fachda-castillo-flocelliere.jpg "Fachada del castillo de Flocellière. © Pierre Holley.")
 
 Es un alojamiento tremendamente acogedor a pesar de estar ubicado en un castillo, quizá 
 por el trato cercano del personal y los dueños. Es perfecto para descansar tomando el té 
@@ -92,7 +92,7 @@ Una inmensa zona al aire libre para disfrutar si estás aquí alojado que ademá
 unos invernaderos del siglo XIX, una capilla, un lavadero y un huerto de 12.000 metros 
 cuadrados junto a las antiguas murallas de la ciudad medieval de Craon. 
 
-![Castillo de Craon y fuente](etheria_images/2022/04/castillo-craon-fachada.jpg "Castillo de Craon. © Château de Craon.")
+![Castillo de Craon y fuente](etheria-images/2022/04/castillo-craon-fachada.jpg "Castillo de Craon. © Château de Craon.")
 
 El interior del castillo está a la altura de su aspecto exterior: conserva mobiliario 
 del siglo XVIII estilo Luis XVI, que evoca al del magnífico Versalles. Algunas de sus 
@@ -121,7 +121,7 @@ espacio, como el salón pequeño, el salón grande o la sala de estar (diseñada
 arquitecto parisino Robert Lesage). Y, sin duda, te sorprenderá la imponente escalera 
 _art déco_ que te llevará al dormitorio. 
 
-![Salón de la chimenea del castillo de Noirieux con muebles antiguos.](etheria_images/2022/04/castillo-noiriere-salon-chimenea.jpg "Salón de la chimenea del castillo de Noirieux. © Château Noirieux")
+![Salón de la chimenea del castillo de Noirieux con muebles antiguos.](etheria-images/2022/04/castillo-noiriere-salon-chimenea.jpg "Salón de la chimenea del castillo de Noirieux. © Château Noirieux")
 
 Ninguna de las habitaciones es igual a otra, y están decoradas con un estilo clásico y 
 elegante que no renuncia a la comodidad y la hospitalidad. Destaca la habitación número 

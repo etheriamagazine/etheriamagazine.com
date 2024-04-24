@@ -1,18 +1,18 @@
 ---
 title: "5 paisajes españoles vistos desde otra perspectiva"
 date: 2020-04-10
-coverImage: etheria_images/2020/04/marismas-cadiz-horizontal.jpg
+coverImage: etheria-images/2020/04/marismas-cadiz-horizontal.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 Hay ocasiones en que necesitamos pararnos y observar con otra perspectiva. Por eso te invitamos a que viajes a través de la fotografía a lugares que pueden resultarte familiares pero que vas a contemplar de una manera única. Una mirada sugerente a espacios del territorio nacional que te están esperando.
 
-![marismas de donana consulta](etheria_images/2020/04/marismas-cadiz.jpg "Universo de marismas en el entorno de Doñana.")
+![marismas de donana consulta](etheria-images/2020/04/marismas-cadiz.jpg "Universo de marismas en el entorno de Doñana.")
 
 ## 1\. Bahía de Cádiz, universo de mar
 
@@ -28,7 +28,7 @@ Guadalquivir. Tan fascinantes resultaron las localizaciones cinematográficas de
 estuario fluvial, brazos de mar y la isla Mayor que se diseñó la [ruta turística Isla 
 Mínima.](http://www.islamayor.es/es/turismo/rutas-turisticas/) 
 
-![cerezos ezcaray](etheria_images/2020/04/cerezos-ezcaray-2.jpg "Cerezos de Ezcaray.")
+![cerezos ezcaray](etheria-images/2020/04/cerezos-ezcaray-2.jpg "Cerezos de Ezcaray.")
 
 ## 2\. Cerezos riojanos, a los pies de Ezcaray
 
@@ -43,7 +43,7 @@ pueblos opta por [San Millán de la Cogolla](http://monasteriodesanmillan.com/),
 monasterios de Suso y Yuso todo comenzó para una lengua común, pues es donde se guarda 
 el primer documento escrito en castellano. 
 
-![monegros desde el aire](etheria_images/2020/04/monegros-desde-aire-683x1024.jpg "Monegros desde el aire.")
+![monegros desde el aire](etheria-images/2020/04/monegros-desde-aire-683x1024.jpg "Monegros desde el aire.")
 
 ## 3\. Los Monegros, una estepa para perderse
 
@@ -58,7 +58,7 @@ Desde el aire, atrapadas en la singularidad de su aridez, nos hemos prendado de 
 curvilíneos diseños que los agricultores** hacen en su paisaje para abarcar cualquier 
 porción del terreno en la que extender cultivos de trigo y cebada. 
 
-![valles pasiegos cantabria](etheria_images/2020/04/valles-pasiegos-desde-aire-682x1024.jpg "Valles Pasiegos desde el aire.")
+![valles pasiegos cantabria](etheria-images/2020/04/valles-pasiegos-desde-aire-682x1024.jpg "Valles Pasiegos desde el aire.")
 
 ## 4\. Rural sin filtros, territorio pasiego
 
@@ -74,7 +74,7 @@ cuevas paleolíticas de [Puente
 Viesgo](https://cuevas.culturadecantabria.com/el-castillo/). El Castillo y Las Monedas 
 te sorprenderán con su arte rupestre, entre los más fascinantes del Cantábrico. 
 
-![vinedos la geria lanzarote](etheria_images/2020/04/la-geria-lanzarote-682x1024.jpg "Viñedos de La Geria, en Lanzarote, desde el aire.")
+![vinedos la geria lanzarote](etheria-images/2020/04/la-geria-lanzarote-682x1024.jpg "Viñedos de La Geria, en Lanzarote, desde el aire.")
 
 ## 5\. Las uvas del volcán, La Geria
 

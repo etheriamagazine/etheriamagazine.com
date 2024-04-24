@@ -1,17 +1,17 @@
 ---
 title: "República Checa, visitas para mujeres que viajan solas"
 date: 2020-05-29
-coverImage: etheria_images/2020/05/salir-brno-chequia.jpg
+coverImage: etheria-images/2020/05/salir-brno-chequia.jpg
 categories: 
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 ¿Te estás planteando viajar sola a la República Checa? Si te gusta conducir, visitar ciudades de cuento, una cerveza bien fría, algo de cultura y no dices que no a una sesión en un balneario, te va a gustar este itinerario que te recomendamos.
 
-![salir en brno](etheria_images/2020/05/salir-brno-chequia.jpg "Vida nocturna en Brno. © Studio Petrohrad")
+![salir en brno](etheria-images/2020/05/salir-brno-chequia.jpg "Vida nocturna en Brno. © Studio Petrohrad")
 
 Cada día somos más las mujeres que nos animamos a viajar solas. Y no porque no tengamos 
 con quien hacerlo sino porque a veces también necesitamos darnos un respiro, nos gusta 
@@ -38,7 +38,7 @@ bosques y zonas poco pobladas. Si no te gusta ir al volante o no puedes hacerlo,
 tardes un poco más pero los medios de transporte checos también te llevarán a estos 
 destinos. 
 
-![Litomysl viajar sola chequia](etheria_images/2020/05/viajar-sola-republica-checa-Litomysl.jpg "Ciudad de Litomysl. © UPVision")
+![Litomysl viajar sola chequia](etheria-images/2020/05/viajar-sola-republica-checa-Litomysl.jpg "Ciudad de Litomysl. © UPVision")
 
 ## Litomyšl, arte y trufas
 
@@ -48,7 +48,7 @@ goza de una vida cultural envidiable a lo largo de toda la temporada. Entre las 
 que no debes perderte están el **museo dedicado al escultor Olbram Zoubek,** que vivió y 
 trabajó en la ciudad, y el coqueto **teatro clásico** del palacio de Litomyšl. 
 
-![Festival de Musica Litomysl de Smetana](etheria_images/2020/05/festival-litomysl.jpg "© Palacio donde se celebrea el Festival de Música Litomyšl de Smetana.")
+![Festival de Musica Litomysl de Smetana](etheria-images/2020/05/festival-litomysl.jpg "© Palacio donde se celebrea el Festival de Música Litomyšl de Smetana.")
 
 También comprobarás que en toda la ciudad se come fenomenal, pero no olvides pasar por 
 la plaza principal, donde venden **riquísimas trufas artesanas**, y probar la cerveza 
@@ -56,7 +56,7 @@ la plaza principal, donde venden **riquísimas trufas artesanas**, y probar la c
 de Música Litomyšl de Smetana](https://www.czechtourism.com/sp/e/smetana-litomysl/) que 
 se celebra en el patio del palacio. ¡Te va a encantar! 
 
-![trebon viajar sola chequia](etheria_images/2020/05/viajar-sola-trebon-republica-checa.jpg "Encanto nocturno de Třeboň. © Ladislav Renner.")
+![trebon viajar sola chequia](etheria-images/2020/05/viajar-sola-trebon-republica-checa.jpg "Encanto nocturno de Třeboň. © Ladislav Renner.")
 
 ## Třeboň: baños, pescado y cerveza
 
@@ -67,7 +67,7 @@ de **Svet**, cuyo nombre significa "mundo". La capacidad de muchos de estos esta
 fue crucial para prevenir las riadas en los siglos pasados, además de ser unos lugares 
 estupendos para criar carpas. 
 
-![estanque de trebon republica checa](etheria_images/2020/05/trebon-viajar-sola-chequia.jpg "Estanque de Třeboň. © OT. Chequia")
+![estanque de trebon republica checa](etheria-images/2020/05/trebon-viajar-sola-chequia.jpg "Estanque de Třeboň. © OT. Chequia")
 
 Třeboň es un **destino de bienestar** muy reconocido a nivel nacional, así que hay que 
 aprovechar para hacerse algún tratamiento en un balneario. Son muy típicas las 
@@ -83,7 +83,7 @@ nocturna). Y, por supuesto, combina estas dos experiencias: probar la carpa de T
 la cerveza Regent en el restaurante [Supina a Supinka](http://www.supina.cz/). No te 
 arrepentirás. 
 
-![lago negro  sumava](etheria_images/2020/05/lago-negro-sumava-chequia.jpg "Lago Negro, en Šumava. © Petra Pisarovicova")
+![lago negro  sumava](etheria-images/2020/05/lago-negro-sumava-chequia.jpg "Lago Negro, en Šumava. © Petra Pisarovicova")
 
 ## Los lagos glaciares de Šumava
 
@@ -101,7 +101,7 @@ preocupéis, no hay ningún diablo (que se sepa), el nombre es producto de una l
 narra que una joven amarró una gran piedra a la cola de un demonio. El demonio al 
 arrastrarse creó grandes surcos, que se llenan de agua y de los que salen monstruos. 
 
-![mujeres viajeras noche en brno](etheria_images/2020/05/viajar-sola-brno-noche.jpg "Panorámica nocturna de Brno. © Jiri Kruzik")
+![mujeres viajeras noche en brno](etheria-images/2020/05/viajar-sola-brno-noche.jpg "Panorámica nocturna de Brno. © Jiri Kruzik")
 
 ## Brno, la más cultural y elegante
 
@@ -112,7 +112,7 @@ que te cunda el tiempo organiza bien la jornada. No dejes de tomar el mejor desa
 la ciudad en [Café Momenta](https://www.cafe-momenta.cz/) y continúa visitando la 
 **galería Morava** y el **búnquer nuclear 10-Z**. 
 
-![cafe momenta brno](etheria_images/2020/05/cafe-momenta-brno.jpg "© Café Momenta, de Brno.")
+![cafe momenta brno](etheria-images/2020/05/cafe-momenta-brno.jpg "© Café Momenta, de Brno.")
 
 Por la tarde, la merienda puede ser en **Café De Fleurs** porque ¿hay algo más agradable 
 que un café con tarta en el patio de una floristería? El mejor plan nocturno que te 
@@ -127,7 +127,7 @@ Para terminar el viaje con un toque tranquilo y romántico, te recomendamos visi
 y Slavonice, dos ciudades de arquitectura renacentista, cuya belleza es tan abrumadora 
 que te costará asimilarla. 
 
-![telc viajar sola chequia](etheria_images/2020/05/viajar-sola-telc-chequia.jpg "Telč es igual de encantadora de día o de noche. © Ladislav Renner")
+![telc viajar sola chequia](etheria-images/2020/05/viajar-sola-telc-chequia.jpg "Telč es igual de encantadora de día o de noche. © Ladislav Renner")
 
 ##### El romanticismo de Telč
 
@@ -138,7 +138,7 @@ italiano; y en los estanques que rodean la ciudad, donde se crean bucólicas est
 hecho de estar incluida en la lista de Patrimonio de la Humanidad de la Unesco no es, 
 desde luego, fortuito. 
 
-![slavonice viajar sola a la republica checa](etheria_images/2020/05/viajar-sola-slavonice-sirka.jpg "Fachadas de Slavonice. © Ladislav Renner")
+![slavonice viajar sola a la republica checa](etheria-images/2020/05/viajar-sola-slavonice-sirka.jpg "Fachadas de Slavonice. © Ladislav Renner")
 
 ##### Los grabados de Slavonice
 

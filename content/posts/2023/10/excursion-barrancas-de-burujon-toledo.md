@@ -1,15 +1,15 @@
 ---
 title: "Excursión a las Barrancas de Burujón"
 date: 2023-10-20
-coverImage: etheria_images/2023/10/barrancas-burujon-vistas.jpg
+coverImage: etheria-images/2023/10/barrancas-burujon-vistas.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viaje-en-familia
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Nos acercamos a un paraje natural excepcional por original y único en Toledo: las 
@@ -18,7 +18,7 @@ puede completar con pueblos de los alrededores como Burujón o La Puebla de Mont
 incluso con la cercana localidad de Toledo. ¡No te pierdas este fantástico plan en la 
 naturaleza! 
 
-![dos jóvenes en las barrancas de burujón](etheria_images/2023/10/barrancas-burujon-vistas.jpg "Vistas de las Barrancas de Burujón. © Susana García")
+![dos jóvenes en las barrancas de burujón](etheria-images/2023/10/barrancas-burujon-vistas.jpg "Vistas de las Barrancas de Burujón. © Susana García")
 
 En España estamos rodeados de parajes naturales increíbles, que ofrecen paisajes de 
 película y excursiones perfectas para pasar un día en el campo con la familia o con 
@@ -47,7 +47,7 @@ protegidos que deberían y hay zonas donde la caída del acantilado está muy ac
 no hacer la ruta en los meses de más calor ya que no tiene ninguna sombra. Por lo demás, 
 basta con un calzado cómodo y con llevar algo de agua. 
 
-![senderistas en las Barrancas de Burujón.](etheria_images/2023/10/barrancas-burujon-toledo-camino-regreso.jpg "Inicio de la ruta corta por las Barrancas de Burujón. © Susana García.")
+![senderistas en las Barrancas de Burujón.](etheria-images/2023/10/barrancas-burujon-toledo-camino-regreso.jpg "Inicio de la ruta corta por las Barrancas de Burujón. © Susana García.")
 
 También hay un **merendero** junto a los miradores donde puedes hacer una parada y 
 alargar el tiempo dedicado a disfrutar de las vistas mientras tomas algo, pero tendrás 
@@ -63,7 +63,7 @@ los de los **Miradores de los Enebros**, que ofrecen ya unas vistas estupendas. 
 opción elegida es la ruta larga, incluirás también el **Mirador del Cambrón**, con unas 
 vistas parecidas, solo que con más altura. 
 
-![miradores de los Enebros en las Barrancas de Burujón](etheria_images/2023/10/barrancas-burujon-toledo-miradores.jpg "Zona de los Miradores de los Enebros. © SG")
+![miradores de los Enebros en las Barrancas de Burujón](etheria-images/2023/10/barrancas-burujon-toledo-miradores.jpg "Zona de los Miradores de los Enebros. © SG")
 
 ## Flora y fauna
 
@@ -94,7 +94,7 @@ Miradores de los Enebros, el mejor lugar para tomar fotografías de este singula
 paisaje. Con tiempo para asomarte a todos ellos y hacer las pertinentes fotos, esta ruta 
 no te llevará más de dos horas o dos horas y media. 
 
-![Barrancas de Burujón con el pico Cambrón](etheria_images/2023/10/barrancas-burujon-pico-cambron.jpg "Vista de las Barrancas de Burujón con el Pico Cambrón. © Susana García")
+![Barrancas de Burujón con el pico Cambrón](etheria-images/2023/10/barrancas-burujon-pico-cambron.jpg "Vista de las Barrancas de Burujón con el Pico Cambrón. © Susana García")
 
 ### Ruta larga de 10 km
 
@@ -128,7 +128,7 @@ se puede visitar el **Castillo de Barcience**, conocido por el león rampante qu
 como emblema heráldico de los condes de Cifuentes en la torre del Homenaje. Construido 
 en el siglo XV, el acceso es libre y ofrece unas bonitas vistas de la campiña toledana. 
 
-![Toledo desde el Puente Alcántara con el Alcázar al fondo.](etheria_images/2023/10/toledo-puente-alcantara-alcazar.jpg "Toledo desde el Puente Alcántara con el Alcázar al fondo.")
+![Toledo desde el Puente Alcántara con el Alcázar al fondo.](etheria-images/2023/10/toledo-puente-alcantara-alcazar.jpg "Toledo desde el Puente Alcántara con el Alcázar al fondo.")
 
 Si deseas completar la visita a lo grande, puedes acercarte a la ciudad de **Toledo**. 
 Su oferta gastronómica es amplia y variada y por la tarde puedes hacer una visita de la 

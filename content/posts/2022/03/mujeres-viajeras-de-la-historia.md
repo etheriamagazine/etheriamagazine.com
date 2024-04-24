@@ -1,13 +1,13 @@
 ---
 title: "Mujeres viajeras que, rompiendo moldes, hicieron las maletas"
 date: 2022-03-08
-coverImage: etheria_images/2023/03/mujeres-nellie-bly-libro-viajeras.jpg
+coverImage: etheria-images/2023/03/mujeres-nellie-bly-libro-viajeras.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
   - mujeres-que-inspiran
-author: 
-  - colaboradores
+authors: 
+  - Firmas invitadas
 ---
 
 Descubrir lugares nuevos es en la actualidad una actividad al alcance de prácticamente 
@@ -17,7 +17,7 @@ grandes mujeres viajeras de la historia.
 
 **Por Sandra Ferrer, periodista y escritora.** 
 
-![imagen genérica de mujeres viajeras en la historia](etheria_images/2022/03/mujeres-viajeras-historia-683x1024.jpg "Los viajes eran un auténtico desafío para la mujer de los siglos pasados.")
+![imagen genérica de mujeres viajeras en la historia](etheria-images/2022/03/mujeres-viajeras-historia-683x1024.jpg "Los viajes eran un auténtico desafío para la mujer de los siglos pasados.")
 
 Las sociedades patriarcales han relegado a lo largo de los siglos a las mujeres a vivir 
 en un espacio privado. En el entorno doméstico, su vida se circunscribía al hogar y 
@@ -30,7 +30,7 @@ sociales, las mujeres salieron de sus casas y atravesaron mares, montañas, desi
 selvas. A continuación encontrarás un repaso de algunas mujeres viajeras que merecen un 
 espacio en Etheria Magazine. 
 
-![Ida Pfeiffer una mujer viajera austriaca](etheria_images/2022/03/mujeres-viajeras-ida-pfeiffer.jpg "Ida Pfeiffer (1797-1858).")
+![Ida Pfeiffer una mujer viajera austriaca](etheria-images/2022/03/mujeres-viajeras-ida-pfeiffer.jpg "Ida Pfeiffer (1797-1858).")
 
 ## La primera viajera, Egeria (o Etheria)
 
@@ -58,7 +58,7 @@ Como ella, muchas otras mujeres de la Europa decimonónica se embarcaron en apas
 viajes que tenían como objetivo el simple y llano placer de descubrir el mundo o se 
 planteaban como expediciones científicas. 
 
-![retrato de Lady Mary Wortley Montagu](etheria_images/2022/03/mujeres-viajeras-Mary-Wortley-Montagu.jpg "Lady Mary Wortley Montagu (1689–1762).")
+![retrato de Lady Mary Wortley Montagu](etheria-images/2022/03/mujeres-viajeras-Mary-Wortley-Montagu.jpg "Lady Mary Wortley Montagu (1689–1762).")
 
 ## El placer de viajar
 
@@ -81,7 +81,7 @@ estar en una fiesta de placer y no en el camino”. Unas cartas en las que relat
 periplo hasta Estambul y su vida en la ciudad en la que conoció el desconocido mundo de 
 los harenes. 
 
-![fotografía en blanco y negro de Roger Casement y French Sheldon, en el Congo, fotografiados por  W.L. Royburgh en 1904](etheria_images/2022/03/Roger-Casement-French-Sheldon.jpg "Roger Casement y May French Sheldon, en el Congo, fotografiados por W.L. Royburgh (1904).")
+![fotografía en blanco y negro de Roger Casement y French Sheldon, en el Congo, fotografiados por  W.L. Royburgh en 1904](etheria-images/2022/03/Roger-Casement-French-Sheldon.jpg "Roger Casement y May French Sheldon, en el Congo, fotografiados por W.L. Royburgh (1904).")
 
 ### May French Sheldon
 
@@ -97,7 +97,7 @@ periplo de ese tipo de la misma manera que lo hacían los hombres.
 > y entró en contacto con varias tribus. Su fama se extendió entre los pueblos africanos 
 > que la bautizaron cariñosamente como “La Reina Blanca del Kilimanjaro” 
 
-![fotografía en blanco y negro de Lady Anne Blunt, una de las mujeres viajeras de la historia](etheria_images/2022/03/mujeres-viajeras-Lady-Anne.jpg "Lady Anne Blunt (1837-1917), nieta de Lord Byron.")
+![fotografía en blanco y negro de Lady Anne Blunt, una de las mujeres viajeras de la historia](etheria-images/2022/03/mujeres-viajeras-Lady-Anne.jpg "Lady Anne Blunt (1837-1917), nieta de Lord Byron.")
 
 ## Viajar como terapia
 
@@ -114,7 +114,7 @@ su existencia. La ciudad prohibida de Lasha abría por primera vez las puertas a
 mujer, y esa mujer sería Alexandra, quien encontraría en la vida nómada la mejor manera 
 de vivir. 
 
-![Maria Sybilla Merian una de las mujeres viajeras destacadas en el artículo](etheria_images/2022/03/mujeres-viajeras-Maria-Sibylla.jpg "Maria Sybilla Merian (1647-1717).")
+![Maria Sybilla Merian una de las mujeres viajeras destacadas en el artículo](etheria-images/2022/03/mujeres-viajeras-Maria-Sibylla.jpg "Maria Sybilla Merian (1647-1717).")
 
 ## Investigando el mundo
 
@@ -130,7 +130,7 @@ tiempo. Sus detallados dibujos sobre gusanos, mariposas y todo tipo de animalill
 descubrió lejos, muy lejos de su hogar en el corazón de Europa, fueron clave en el 
 desarrollo del estudio de los insectos. 
 
-[![fotografia de Nellie Bly que dio la vuelta al mundo en 72 ideas](etheria_images/2022/03/nellie-bly-libro-viajeras.jpg "Nellie Bly (1864-1922), seudónimo de Elizabeth Cochrane. Viajera y escritora.")](https://historia.nationalgeographic.com.es/a/nellie-bly-pionera-periodismo-denuncia_15137)
+[![fotografia de Nellie Bly que dio la vuelta al mundo en 72 ideas](etheria-images/2022/03/nellie-bly-libro-viajeras.jpg "Nellie Bly (1864-1922), seudónimo de Elizabeth Cochrane. Viajera y escritora.")](https://historia.nationalgeographic.com.es/a/nellie-bly-pionera-periodismo-denuncia_15137)
 
 ## Sobre ruedas hacia la emancipación
 

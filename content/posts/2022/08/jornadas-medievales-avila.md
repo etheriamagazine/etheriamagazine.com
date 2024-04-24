@@ -1,16 +1,16 @@
 ---
 title: "Jornadas Medievales de Ávila, una cita con el pasado"
 date: 2022-08-24
-coverImage: etheria_images/2022/08/mercado-medieval-avila.jpg
+coverImage: etheria-images/2022/08/mercado-medieval-avila.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Aunque viajar mentalmente al pasado en ciudades como Ávila es fácil por su atmósfera histórica, del 2 al 4 de septiembre será aún más sencillo ya que se celebra ‘El Mercado de las Tres Culturas’, es decir, la XXV edición de las Jornadas Medievales de Ávila. Te contamos en qué consiste esta fiesta llena de diversión y color.
 
-![Artista de una performance del Mercado medieval de Ávila.](etheria_images/2022/08/mercado-medieval-avila.jpg "Artista de una performance del Mercado Medieval de Ávila.")
+![Artista de una performance del Mercado medieval de Ávila.](etheria-images/2022/08/mercado-medieval-avila.jpg "Artista de una performance del Mercado Medieval de Ávila.")
 
 El mes de septiembre comienza movidito en la capital abulense ya que acoge las ‘XXV 
 Jornadas Medievales Ciudad de Ávila’, también conocidas como ‘El Mercado de las Tres 
@@ -30,7 +30,7 @@ su escenario, ambientación e implicación de actores y población local. Parte 
 de esa escena es la muralla del siglo XII que abraza un recinto que ya enamoró a la 
 Unesco en 1985, quien declaró a la ciudad de Ávila Patrimonio de la Humanidad. 
 
-![Ambientación de las Jornadas Medievales de Ávila.](etheria_images/2022/08/jornadas-medievales-avila-puerta.jpg "Ambientación de las Jornadas Medievales de Ávila.")
+![Ambientación de las Jornadas Medievales de Ávila.](etheria-images/2022/08/jornadas-medievales-avila-puerta.jpg "Ambientación de las Jornadas Medievales de Ávila.")
 
 ### Cómo se desarrollan las Jornadas Medievales de Ávila
 
@@ -48,7 +48,7 @@ con el viento desde lo alto de los 87 torreones de la muralla o junto a las 9 pu
 entrada sacando de la ensoñación a cuantos viajeros se acercan a disfrutar de una fiesta 
 donde la estética está cuidada hasta el más mínimo detalle. 
 
-![Las luchas con espadas son de un gran realismo.](etheria_images/2022/08/Jornadas-medievales-Ciudad-avila.jpg "Las luchas con espadas son de un gran realismo.")
+![Las luchas con espadas son de un gran realismo.](etheria-images/2022/08/Jornadas-medievales-Ciudad-avila.jpg "Las luchas con espadas son de un gran realismo.")
 
 ### Arqueros, caballeros y encantadores de halcones
 
@@ -65,7 +65,7 @@ Igual de sorprendentes son las exhibiciones de **esgrima medieval**, los **torne
 o a caballo** con espada y los **espectáculos de cetrería**. Todos ellos tendrán lugar 
 el viernes y sábado de la feria en el **Atrio de San Isidro**. 
 
-![Caballero realizando una exhibición.](etheria_images/2022/08/caballero-medieval-avila.jpg "Caballero realizando una exhibición.")
+![Caballero realizando una exhibición.](etheria-images/2022/08/caballero-medieval-avila.jpg "Caballero realizando una exhibición.")
 
 ### El desfile del Mercado de las Tres Culturas
 
@@ -83,7 +83,7 @@ la mejor indumentaria. Y si te gusta la fotografía no dejes de llevarte la cám
 inmortalizar las escenas que más te gusten, las mejores se suelen exhibir en el Palacio 
 de los Verdugo. 
 
-![Los deportes medievales son una parte importante de estas jornadas festivas.](etheria_images/2022/08/jornadas-medievales-caballeros-avila.jpg "Los deportes medievales son una parte importante de estas jornadas festivas.")
+![Los deportes medievales son una parte importante de estas jornadas festivas.](etheria-images/2022/08/jornadas-medievales-caballeros-avila.jpg "Los deportes medievales son una parte importante de estas jornadas festivas.")
 
 ## Gastronomía y otros eventos de las Jornadas Medievales de Ávila
 

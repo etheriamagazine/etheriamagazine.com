@@ -1,18 +1,18 @@
 ---
 title: "Cecilia Bartolomé: “Cuando entré en la Escuela de Cine, me preguntaban qué hacía allí si era una chica”"
 date: 2022-01-31
-coverImage: etheria_images/2022/01/Cecilia-Bartolome-premio-de-honor-en-Feroz.jpg
+coverImage: etheria-images/2022/01/Cecilia-Bartolome-premio-de-honor-en-Feroz.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
   - mujeres-que-inspiran
-author: 
+authors: 
   - Carmen Pineda
 ---
 
 Cecilia Bartolomé es una mujer que inspira. Hemos hablado con una de las figuras más transgresoras, modernas, feministas e inteligentes de la historia del cine español. Esta pionera del séptimo arte, que recibió el Premio Feroz de Honor 2022 el pasado 29 de enero, es, sin lugar a dudas, uno de los referentes claves para muchas mujeres en este país.
 
-![cecilia bartolome premio honor en los feroz](etheria_images/2022/01/Cecilia-Bartolome-premio-de-honor-en-Feroz.jpg "Cecilia Bartolomé recoge el Premio de Honor en los Feroz.")
+![cecilia bartolome premio honor en los feroz](etheria-images/2022/01/Cecilia-Bartolome-premio-de-honor-en-Feroz.jpg "Cecilia Bartolomé recoge el Premio de Honor en los Feroz.")
 
 Desde el 14 de mayo de 1896, fecha de la primera proyección pública en España, hasta 
 bien entrada la Transición, cuando Pilar Távora presentó en 1984 su primera película 
@@ -33,7 +33,7 @@ rodadas, únicamente), que habla abiertamente sobre los obstáculos de la mujer 
 siglo XX, desde la falta de libertades propias de la época, hasta las limitaciones a la 
 hora de disfrutar de la sexualidad o recurrir el aborto. 
 
-![Cecilia Bartolome](etheria_images/2022/01/Cecilia-Bartolome-directora-cine-730x1024.jpg "Cecilia Bartolomé.")
+![Cecilia Bartolome](etheria-images/2022/01/Cecilia-Bartolome-directora-cine-730x1024.jpg "Cecilia Bartolomé.")
 
 Cecilia Bartolomé, ha desarrollado su carrera en el **cine documental y publicitario**, 
 creando una obra fílmica feminista, moderna y divertida. Fue pionera al abordar en sus 
@@ -54,7 +54,7 @@ condicionado de por vida. Es allí, en la antigua colonia española de Fernando 
 comienza a actuar y a dirigir representaciones teatrales en su colegio y posteriormente, 
 en la Escuela Superior Indígena. 
 
-![vamonos barbara pelicula de cecilia bartolome](etheria_images/2022/01/pelicula-Vamonos-Barbara-693x1024.jpg "'¡Vámonos, Bárbara!' (1978) fue el primer largometraje de Cecilia Bartolomé.")
+![vamonos barbara pelicula de cecilia bartolome](etheria-images/2022/01/pelicula-Vamonos-Barbara-693x1024.jpg "'¡Vámonos, Bárbara!' (1978) fue el primer largometraje de Cecilia Bartolomé.")
 
 Ya en España, Cecilia Bartolomé abandona sus estudios de Ciencias Económicas para 
 formarse en la Escuela Oficial de Cine en Madrid, donde se diplomó en 1969, con el 
@@ -75,7 +75,7 @@ largometraje **_Lejos de África_** donde narra sus vivencias de infancia en la 
 colonia española. En 2005 rueda para la serie de televisión Cuéntame el capítulo 
 documental «**_Especial Carrero Blanco: el comienzo del fin_**». 
 
-![cecilia bartolome en los premios feroz](etheria_images/2022/01/Cecilia-Bartolome-premios-Feroz-683x1024.jpg "Cecilia Bartolomé, Premio Feroz de Honor en 2022. © Daniel Marcos")
+![cecilia bartolome en los premios feroz](etheria-images/2022/01/Cecilia-Bartolome-premios-Feroz-683x1024.jpg "Cecilia Bartolomé, Premio Feroz de Honor en 2022. © Daniel Marcos")
 
 ## Galardonada en los Premios Feroz
 
@@ -94,7 +94,7 @@ de toda la vida pero con jóvenes y modernizado. Tengo la sensación de que **lo
 modernizan un poco la tradición de los festivales** tradicionales que tienen rituales 
 más antiguos. Los Premios Feroz me parecen una idea rompedora y muy interesante. 
 
-![cecilia bartolome cineasta desde joven](etheria_images/2022/01/Cecilia-Bartolome-juventud.jpg "Cecilia Bartolomé, una vida dedicada al cine.")
+![cecilia bartolome cineasta desde joven](etheria-images/2022/01/Cecilia-Bartolome-juventud.jpg "Cecilia Bartolomé, una vida dedicada al cine.")
 
 ##### Usted ha declarado haber pasado una infancia maravillosa en ese mundo colonial con unos padres muy “igualitarios” entre los sexos y respetuosos con los africanos. ¿Qué le aportó Africa y cómo influyó en usted esa educación liberal de sus padres?
 
@@ -132,7 +132,7 @@ fantasía que yo veía a 6.000 kilómetros de Europa sino como un sueño que yo 
 Fue el mayor descubrimiento de mi vida a los 14 años y todo mi empeño fue conseguir 
 estudiar esto y convertirme en profesional. 
 
-![cecilia bartolome foto actual](etheria_images/2022/01/Cecilia-Bartolome-cineasta.jpg "Cecilia Bartolomé, pasión por el cine desde la infancia.")
+![cecilia bartolome foto actual](etheria-images/2022/01/Cecilia-Bartolome-cineasta.jpg "Cecilia Bartolomé, pasión por el cine desde la infancia.")
 
 ##### ¿Cómo fue su experiencia en la Escuela de Cine (donde se forja el Nuevo cine español)? ¿Le costó que la respetaran?
 
@@ -167,7 +167,7 @@ está venciendo poco a poco, afortunadamente. Yo siempre he vivido desde el cole
 Guinea, y luego en la Escuela de Cine de Madrid, en franca minoría como mujer. Pero, 
 eso, ya no es así. 
 
-![cartel pelicula lejos de africa](etheria_images/2022/01/pelicula-Lejos-de-Africa-693x1024.jpg "Cartel de la película 'Lejos de África'.")
+![cartel pelicula lejos de africa](etheria-images/2022/01/pelicula-Lejos-de-Africa-693x1024.jpg "Cartel de la película 'Lejos de África'.")
 
 ##### ¿Qué representa África para usted?
 

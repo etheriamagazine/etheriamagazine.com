@@ -1,13 +1,13 @@
 ---
 title: "La Ruta Puccini, la Toscana sin masificación turística es posible"
 date: 2019-09-11
-coverImage: etheria_images/2019/09/viaje-lucca-ruta-puccini-revista-etheria.jpg
+coverImage: etheria-images/2019/09/viaje-lucca-ruta-puccini-revista-etheria.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Lejos de las poses frenéticas frente a la torre de Pisa, existe una Toscana discreta en 
@@ -15,7 +15,7 @@ torno a la ruta Puccini, libre de souvenirs y del mancillamiento de los 'palos s
 Para descubrirla, sigue los pasos que hemos dado en Etheria Magazine por la provincia 
 italiana de Lucca. 
 
-![Fragmento de la Muralla medieval de Lucca](etheria_images/2019/09/viaje-lucca-ruta-puccini-revista-etheria-900x716.jpg "Fragmento de la Muralla medieval de Lucca. ©KR")
+![Fragmento de la Muralla medieval de Lucca](etheria-images/2019/09/viaje-lucca-ruta-puccini-revista-etheria-900x716.jpg "Fragmento de la Muralla medieval de Lucca. ©KR")
 
 Las mujeres se pasean en bicicleta por las calles de Lucca con una maestría inusitada, 
 luciendo vestidos vaporosos y canotiers de paja. Eliminan de un plumazo de nuestro 
@@ -25,7 +25,7 @@ delantal en la cintura. Ningún detalle es baladí en esta ciudad. Formar parte 
 independencia de Lucca durante 500 años del **Gran Condado de la Toscana** (desde 1160) 
 también marcó para siempre su peculiar personalidad. 
 
-![muralla medieval de lucca](etheria_images/2019/09/viaje-lucca-murallas-etheria-magazine-900x576.jpg "Muralla medieval de Lucca. ©KR")
+![muralla medieval de lucca](etheria-images/2019/09/viaje-lucca-murallas-etheria-magazine-900x576.jpg "Muralla medieval de Lucca. ©KR")
 
 ## Lucca, la ciudad de los 100 palacios
 
@@ -42,7 +42,7 @@ ciudad se ha transformado en uno de los lugares más comerciales de Lucca. Sus c
 boutiques de artesanía y talleres de calzado se alejan de la imagen típica de tiendas 
 con souvenirs. 
 
-![Plaza del Anfiteatro en Lucca](etheria_images/2019/09/viaje-lucca-terrazas-viaje-amigas-900x679.jpg "Plaza del Anfiteatro, Lucca. ©KR")
+![Plaza del Anfiteatro en Lucca](etheria-images/2019/09/viaje-lucca-terrazas-viaje-amigas-900x679.jpg "Plaza del Anfiteatro, Lucca. ©KR")
 
 Lucca no sólo reunió a Julio César, Pompeyo y Craso para fortalecer sus relaciones tras 
 el triunvirato, también concentró a **mercaderes** propietarios de las villas más 
@@ -59,7 +59,7 @@ como resultado una urbe repleta de majestuosos templos.
 ✅ No te pierdas ningún detalle en nuestro artículo [¿Por qué Lucca es una parada 
 obligada en la Toscana?](https://etheriamagazine.com/2019/02/18/que-ver-en-lucca/) 
 
-![torre guinigui en Lucca](etheria_images/2019/09/viaje-lucca-mujeres-torre-guinigui.jpg "¿Subirías a pie los más de 200 escalones de la Torre Guinigi? ©KR")
+![torre guinigui en Lucca](etheria-images/2019/09/viaje-lucca-mujeres-torre-guinigui.jpg "¿Subirías a pie los más de 200 escalones de la Torre Guinigi? ©KR")
 
 ## Puccini, ¿por qué?
 
@@ -72,7 +72,7 @@ nombrar la razón de su éxito: haber creado las óperas más representadas del 
 huellas e inquietudes, así que una parada en la **casa natal** de Puccini nos ayudará a 
 entender lo apasionante que fue su vida y lo evocador que resulta este **recorrido**. 
 
-![Detalle del interior de la casa natal de Puccini, en Lucca.](etheria_images/2019/09/viaje-italia-lucca-casa-natal-puccini-900x620.jpg "Detalle del interior de la casa natal de Puccini, en Lucca. ©KR")
+![Detalle del interior de la casa natal de Puccini, en Lucca.](etheria-images/2019/09/viaje-italia-lucca-casa-natal-puccini-900x620.jpg "Detalle del interior de la casa natal de Puccini, en Lucca. ©KR")
 
 Huérfano de padre desde los cinco años, Puccini se crió en un ambiente **eminentemente 
 femenino**, con sus cinco hermanas, su madre y sus tías, aunque también tuvo un hermano 
@@ -82,7 +82,7 @@ tocaba el piano en iglesias para pagarse sus cigarrillos. Fumaba empedernidament
 fue hasta los veinticinco años, tras aprobar el acceso al conservatorio de **Milán**, 
 cuando comenzó a desarrollar la faceta más brillante de su carrera. 
 
-![Estatua de Giacomo Puccini en la Via di Poggio](etheria_images/2019/09/viaje-lucca-ruta-puccini-900x654.jpg "Estatua de Giacomo Puccini en la Via di Poggio. ©KR")
+![Estatua de Giacomo Puccini en la Via di Poggio](etheria-images/2019/09/viaje-lucca-ruta-puccini-900x654.jpg "Estatua de Giacomo Puccini en la Via di Poggio. ©KR")
 
 Entrar en la casa-museo natal de Giacomo **Puccini** significa descubrir a niveles 
 _voyeur_ —en el sentido más cándido de la palabra— el alma del genio. Encontraremos 
@@ -90,7 +90,7 @@ objetos, retratos que muestran el atractivo físico del compositor, muebles y la
 la corona del edificio: el **piano Steinway** con el que compuso **_Turandot_**, su 
 última ópera, inacabada al sobrevenirle la enfermedad que terminó con su vida. 
 
-![puente magdalena en lucca](etheria_images/2019/09/viaje-lucca-ponte-madalena-900x607.jpg "El puente de la Magdalena, conocido como puente del Diablo, es uno de los grandes iconos medievales de la provincia de Lucca. ©KR")
+![puente magdalena en lucca](etheria-images/2019/09/viaje-lucca-ponte-madalena-900x607.jpg "El puente de la Magdalena, conocido como puente del Diablo, es uno de los grandes iconos medievales de la provincia de Lucca. ©KR")
 
 > Pensar en la Toscana implica recorrer sus sinuosas carreteras, ¿te atreverías a hacerlo 
 > en Vespa? 
@@ -101,7 +101,7 @@ Es tal la veneración por Giacomo Puccini en su provincia natal, que la aldea en
 se criaron sus ancestros, **Celle dei Pescaglia**, decidió cambiar su nombre por el de 
 **Celle dei Puccini**. 
 
-![Detalle de la cocina de Puccini en Celle, Pescaglia](etheria_images/2019/09/viaje-lucca-celle-dei-puccini-900x675.jpg "Detalle de la cocina de Puccini en Celle, Pescaglia. ©KR")
+![Detalle de la cocina de Puccini en Celle, Pescaglia](etheria-images/2019/09/viaje-lucca-celle-dei-puccini-900x675.jpg "Detalle de la cocina de Puccini en Celle, Pescaglia. ©KR")
 
 En la casa de sus abuelos se muestran los bocetos de sus primeras óperas, _Le_ _Villi_ y 
 _Edgar._ Ambas propiciaron ciertos dolores de cabeza a Puccini porque tardaron varios 
@@ -110,7 +110,7 @@ años en triunfar.
 > En este entorno de huertas, viñas y árboles frutales, el hotel boutique B&B Puccini 
 > elabora menús temáticos y celebra pequeños conciertos en honor a Giacomo. 
 
-![Lago Massaciuccoli](etheria_images/2019/09/viaje-lucca-torre-del-lago-900x594.jpg "Recorrido en barco por el lago Massaciuccoli. ©KR")
+![Lago Massaciuccoli](etheria-images/2019/09/viaje-lucca-torre-del-lago-900x594.jpg "Recorrido en barco por el lago Massaciuccoli. ©KR")
 
 ## Ópera junto al lago
 
@@ -127,7 +127,7 @@ alma ante el público del **Gran Teatro All'aperto,** un gran anfiteatro al aire
 junto al lago Massaciuccoli con capacidad para más de 3.000 personas. La peculiaridad de 
 este festival reside en que **todas las óperas pertenecen a Giacomo Puccini**. 
 
-![festival puccini](etheria_images/2019/09/viaje-lucca-opera-900x649.jpg "Emocionante final de La Bohème en el Festival de Puccini en 2019. ©KR")
+![festival puccini](etheria-images/2019/09/viaje-lucca-opera-900x649.jpg "Emocionante final de La Bohème en el Festival de Puccini en 2019. ©KR")
 
 Completa la experiencia pucciniana dándote un homenaje en el **Ristorante Chalet del 
 Lago**. Disfrutarás de las mismas vistas que el artista contemplaba desde su villa junto 
@@ -140,7 +140,7 @@ reductos bohemios de la Toscana que no debes ignorar. Hace 500 años que **Migue
 escogió el preciado **mármol blanco** de las canteras de esta localidad para realizar 
 sus grandes obras florentinas. Desde entonces, el material ha forjado su historia. 
 
-![Pietrasanta](etheria_images/2019/09/viaje-lucca-pietrasanta-900x676.jpg "Los aires bohemios de Pietrasanta. ©KR")
+![Pietrasanta](etheria-images/2019/09/viaje-lucca-pietrasanta-900x676.jpg "Los aires bohemios de Pietrasanta. ©KR")
 
 Las apacibles calles de **Pietrasanta** son frecuentadas por artistas que acuden a 
 inauguraciones, exposiciones, conciertos y recitales que se celebran en las galerías de 
@@ -157,7 +157,7 @@ del proceso artístico del mármol, desde el momento en el que que se extrae, ha
 convierte en una obra de arte. El **Museo dei Bozzetti** (Via del Marzocco, 1) nos 
 ayudará a comprender la última fase de este proceso. 
 
-![carnaval de Viareggio](etheria_images/2019/09/viaje-lucca-viareggio-carnaval-900x675.jpg "Donald Trump fue una de las figuras del carnaval de Viareggio en 2019. ©KR")
+![carnaval de Viareggio](etheria-images/2019/09/viaje-lucca-viareggio-carnaval-900x675.jpg "Donald Trump fue una de las figuras del carnaval de Viareggio en 2019. ©KR")
 
 ## Sol, playa y ¿carnaval?
 
@@ -170,7 +170,7 @@ construcción y la venta de lujosos yates. Pero hay algo más.
 > En Viareggio se celebra el segundo carnaval más importante de Italia —sólo por detrás 
 > del de Venecia—. 
 
-![Playa de Viareggio](etheria_images/2019/09/viaje-italia-mujeres-lucca-viareggio-900x675.jpg "Playa de Viareggio. ©KR")
+![Playa de Viareggio](etheria-images/2019/09/viaje-italia-mujeres-lucca-viareggio-900x675.jpg "Playa de Viareggio. ©KR")
 
 Una visita al museo de la **Ciudadela del Carnaval** te hará cómplice de la grandiosidad 
 y del impacto visual de algunas de sus figuras. Al contrario que nuestros _ninots_ 
@@ -179,7 +179,7 @@ vez finalizado su cometido. Las figuras miden **hasta cuarenta metros de altura*
 mueven meticulosamente por la calles de Viareggio, como si fueran enormes Godzillas 
 pisando las calles de Tokio. 
 
-![Jardines de villa Reale di Marlia](etheria_images/2019/09/viaje-italia-lucca-villa-reale-di-marlia.jpg "En los jardines renacentistas de la Villa Reale di Marlia puedes perderte como Alicia en el País de las Maravillas. ©KR")
+![Jardines de villa Reale di Marlia](etheria-images/2019/09/viaje-italia-lucca-villa-reale-di-marlia.jpg "En los jardines renacentistas de la Villa Reale di Marlia puedes perderte como Alicia en el País de las Maravillas. ©KR")
 
 ## Guía práctica de Lucca
 
@@ -191,7 +191,7 @@ pisando las calles de Tokio.
 - A finales de noviembre, Lucca celebra **Il Desco**, un encuentro gastronómico que reúne gran variedad de productos y recetas características de la provincia.
 - No te vayas de Lucca sin probar el _**bucellato**_, su dulce típico.
 
-![embutidos toscanos](etheria_images/2019/09/viaje-lucca-etheria-magazine-gastronomia-900x608.jpg "Sentimos pasión por los embutidos toscanos. ©KR")
+![embutidos toscanos](etheria-images/2019/09/viaje-lucca-etheria-magazine-gastronomia-900x608.jpg "Sentimos pasión por los embutidos toscanos. ©KR")
 
 ### Cuándo ir
 
@@ -201,7 +201,7 @@ siguientes eventos para tu próximo viaje a Lucca:
 - [Lucca Summer Festival](https://www.summer-festival.com/), en junio. Reúne a estrellas pop de talla internacional.
 - [Virtuoso & Belcanto](http://www.virtuosobelcanto.com/), en julio. Festival instrumental de música clásica con sede en diferentes palacios de Lucca.
 
-![Concierto en Villa Reale di Marlia](etheria_images/2019/09/viaje-lucca-etheria-magazine-concierto-900x574.jpg "Concierto en Villa Reale di Marlia. ©KR")
+![Concierto en Villa Reale di Marlia](etheria-images/2019/09/viaje-lucca-etheria-magazine-concierto-900x574.jpg "Concierto en Villa Reale di Marlia. ©KR")
 
 ### Dónde dormir
 

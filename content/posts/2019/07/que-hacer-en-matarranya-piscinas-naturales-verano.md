@@ -1,19 +1,19 @@
 ---
 title: "La comarca del Matarranya, una joya entre tres provincias"
 date: 2019-07-16
-coverImage: etheria_images/2019/06/viaje-matarranya-rio-uldemo-beceite.jpg
+coverImage: etheria-images/2019/06/viaje-matarranya-rio-uldemo-beceite.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
-  - Carmen Giro
+authors: 
+  - Carmen Giró
 ---
 
 Piscinas naturales, campos de almendros y olivos, pueblos medievales, castillos, comida tradicional… Todo eso, además de paz, aire puro y una sensación de reloj parado, es lo que nos ofrece la comarca del Matarranya (o Matarraña). Una zona poco conocida a caballo de tres comunidades autónomas.
 
-![viaje matarranya el salt](etheria_images/2019/06/viaje-matarranya-el-salt.jpg "El Salt es un salto de agua del río Tastavins.")
+![viaje matarranya el salt](etheria-images/2019/06/viaje-matarranya-el-salt.jpg "El Salt es un salto de agua del río Tastavins.")
 
 ```
 Actualizado abril 2020
@@ -50,7 +50,7 @@ sin restricciones ni pagos. Pero hay que considerarlo como la aportación a la
 conservación de un enclave natural precioso, donde puedes ir parando y refrescándote en 
 una poza (_toll_ en el catalán de la zona, que llaman “chapurreao”), totalmente natural. 
 
-![viaje matarranya, beceite](etheria_images/2019/06/viaje-matarranya-rio-uldemo-beceite.jpg "Piscina natural del río Uldemo, en Beceite.")
+![viaje matarranya, beceite](etheria-images/2019/06/viaje-matarranya-rio-uldemo-beceite.jpg "Piscina natural del río Uldemo, en Beceite.")
 
 ## La ruta del Parrizal
 
@@ -77,7 +77,7 @@ campos de olivos y almendros se extienden por doquier, y suaves colinas conviven
 peñascos espectaculares donde los buitres anidan tranquilos. Las carreteras comarcales 
 serpentean entre los sembrados y son una auténtica delicia. 
 
-![puente valderrobres](etheria_images/2019/06/viaje-matarranya-puente-de-valderrobres.jpg "Puente de Valderrobres.")
+![puente valderrobres](etheria-images/2019/06/viaje-matarranya-puente-de-valderrobres.jpg "Puente de Valderrobres.")
 
 ## Qué ver en Valderrobres, un pueblo de otros tiempos
 
@@ -93,7 +93,7 @@ que acoge el castillo y la majestuosa **iglesia gótica de Santa María la Mayor
 por cierto, se reúnen cientos de tambores en las tradicionales tamborradas de Pascua, 
 que también están presentes en muchas fiestas de verano. 
 
-![penarroya tastavins, viaje matarranya](etheria_images/2019/06/viaje-matarranya-penarroya-de-tastavins.jpg "Peñarroya de Tastavins.")
+![penarroya tastavins, viaje matarranya](etheria-images/2019/06/viaje-matarranya-penarroya-de-tastavins.jpg "Peñarroya de Tastavins.")
 
 ## Cárceles medievales y ermitas
 
@@ -107,7 +107,7 @@ de arte dentro, como techumbres de estilo mudéjar o retablos únicos. La **ermi
 Virgen de la Fuente** es uno de los muchos ejemplos. También hay lugar para pinturas 
 rupestres y restos ibéricos. 
 
-![ermita virgen de la fuente](etheria_images/2019/07/viaje-matarranya-ermita-Virgen-de-la-Fuente.jpg "Techumbre de la ermita Virgen de la Fuente.")
+![ermita virgen de la fuente](etheria-images/2019/07/viaje-matarranya-ermita-Virgen-de-la-Fuente.jpg "Techumbre de la ermita Virgen de la Fuente.")
 
 ### Calaceite, La Fresneda y Cretas
 

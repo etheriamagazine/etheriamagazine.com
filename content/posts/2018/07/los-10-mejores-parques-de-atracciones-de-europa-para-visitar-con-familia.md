@@ -1,12 +1,12 @@
 ---
 title: "Los 10 mejores parques de atracciones de Europa para visitar con niños"
 date: 2018-07-09
-coverImage: etheria_images/2018/07/Legoland-Alemania-e1559207498634.jpg
+coverImage: etheria-images/2018/07/Legoland-Alemania-e1559207498634.jpg
 categories: 
   - viaje-en-familia
   - parques-ocio
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Presentamos un ranking muy particular y subjetivo cien por cien, como no puede ser de 
@@ -16,7 +16,7 @@ los miembros de la familia, pero, sobre todo, a los niños. Seguro que hay mucho
 pero aquí mostramos diez parques de atracciones de Europa que conocemos y nos han 
 gustado especialmente. 
 
-![Interior del parque de atracciones Europa Park, situado cerca de Friburgo (Alemania).](etheria_images/2018/07/parque-atraciones-europa-park.jpg "Interior del parque de atracciones © Europa Park, situado cerca de Friburgo (Alemania).")
+![Interior del parque de atracciones Europa Park, situado cerca de Friburgo (Alemania).](etheria-images/2018/07/parque-atraciones-europa-park.jpg "Interior del parque de atracciones © Europa Park, situado cerca de Friburgo (Alemania).")
 
 Cuando se organizan viajes con niños es fundamental incluir planes en los que disfruten 
 todas las franjas de edad. En Europa, los parques de atracciones son un complemento 
@@ -37,7 +37,7 @@ pena pasar alguna noche. Por otro lado, puede ser el complemento perfecto para u
 en familia por Selva Negra y 
 Alsacia](https://etheriamagazine.com/2018/08/02/ruta-en-familia-por-alsacia-y-selva-negra/). 
 
-![viajes con niños, parques de atracciones, viajes en familia, viajes a Europa](etheria_images/2018/07/Europa-Park-Arthur-e1559206932625.jpg "Atracción familiar de Arthur en Europa Park. © Europa Park")
+![viajes con niños, parques de atracciones, viajes en familia, viajes a Europa](etheria-images/2018/07/Europa-Park-Arthur-e1559206932625.jpg "Atracción familiar de Arthur en Europa Park. © Europa Park")
 
 ## 2\. Efteling (Kaatsheuvel, Holanda)
 
@@ -51,7 +51,7 @@ posibilidad de alojarse en otros hoteles y complejos con cabañas. Perfecto para
 incluirlo en un [viaje en familia por 
 Holanda](https://etheriamagazine.com/2018/08/10/holanda-en-familia/). 
 
-![viajes en familia, viajes con niños, viajes a Europa, parques de atracciones](etheria_images/2018/07/Parque-Efteling-Holanda-e1559207067905.jpg "Vista de una zona de Efteling desde una de sus atracciones. © SG")
+![viajes en familia, viajes con niños, viajes a Europa, parques de atracciones](etheria-images/2018/07/Parque-Efteling-Holanda-e1559207067905.jpg "Vista de una zona de Efteling desde una de sus atracciones. © SG")
 
 ## 3\. Port Aventura (Vila-Seca, Tarragona)
 
@@ -62,7 +62,7 @@ de calidad (algo no muy habitual en los parques de atracciones). Tiene una gran 
 de hoteles de distintas categorías y la experiencia se puede completar con la visita a 
 los parques Ferrari Land y, en verano, con el PortAventura Caribe Aquatic Park. 
 
-![viajes en familia, viajes con niños, parques de atracciones, viajes a Europa](etheria_images/2018/07/Port-Aventura-e1559207121267.jpg "Port Aventura con el perfil de sus montañas rusas más emocionantes. © Port Aventura")
+![viajes en familia, viajes con niños, parques de atracciones, viajes a Europa](etheria-images/2018/07/Port-Aventura-e1559207121267.jpg "Port Aventura con el perfil de sus montañas rusas más emocionantes. © Port Aventura")
 
 ## 4\. Disneyland Paris (Marne-La-Vallée, Francia)
 
@@ -77,7 +77,7 @@ tematizados, restaurantes y espectáculos fuera del parque. Como novedad este ve
 aprovechar tu visita a Disneyland 
 Paris](https://etheriamagazine.com/2018/11/06/12-consejos-para-aprovechar-al-maximo-un-viaje-a-disneyland-paris/). 
 
-![Viajes en familia, viajes con niños, viajes a Europa, parques de atracciones](etheria_images/2018/07/Disneyland-Paris-e1559207235183.jpg "Castillo de Disney.")
+![Viajes en familia, viajes con niños, viajes a Europa, parques de atracciones](etheria-images/2018/07/Disneyland-Paris-e1559207235183.jpg "Castillo de Disney.")
 
 ## 5\. Walt Disney Studios (Marne-La-Vallée, Francia)
 
@@ -87,7 +87,7 @@ sorprenden sus magníficos espectáculos de efectos especiales. Llaman especialm
 atención algunas atracciones míticas como la montaña rusa de Aerosmith, a ritmo de rock 
 & roll, y la Torre del Terror con una espectacular caída. 
 
-![viajes con niños, viajes en familia, viajes a Europa, parques de atracciones](etheria_images/2018/07/Walt-Disney-Studios-Paris-e1559207382758.jpg "Walt Disney Studios.")
+![viajes con niños, viajes en familia, viajes a Europa, parques de atracciones](etheria-images/2018/07/Walt-Disney-Studios-Paris-e1559207382758.jpg "Walt Disney Studios.")
 
 ## 6\. Legoland Alemania (Gïnzburg, Alemania)
 
@@ -98,7 +98,7 @@ hasta una playa en un lago. Cuenta con divertidas atracciones y un mundo creado 
 piezas Lego que encantará a los fans de estos bloques de colores. En Europa se pueden 
 visitar otros parques Lego en Billund (Dinamarca) y Windsord (Inglaterra). 
 
-![viajes en familia, viajes con niños, parques de atracciones, viajes a Europa](etheria_images/2018/07/Legoland-Alemania-e1559207498634.jpg "Diversión en Legoland Alemania. © SG")
+![viajes en familia, viajes con niños, parques de atracciones, viajes a Europa](etheria-images/2018/07/Legoland-Alemania-e1559207498634.jpg "Diversión en Legoland Alemania. © SG")
 
 ## 7\. Parque Playmobil (Núremberg, Alemania)
 
@@ -109,7 +109,7 @@ oro. Su zona cubierta permite disfrutar del mismo también los días de lluvia. 
 situado a las afueras de Núremberg por lo que en un viaje se puede combinar con el 
 parque Legoland de Gïnzburg. 
 
-![viajes en familia, viajes con niños, parques de atracciones, viajes a Europa](etheria_images/2018/07/Playmobil-Funpark-Nuremberg-e1559207577393.jpg "Entrada del Playmobil Fun Park. © SG")
+![viajes en familia, viajes con niños, parques de atracciones, viajes a Europa](etheria-images/2018/07/Playmobil-Funpark-Nuremberg-e1559207577393.jpg "Entrada del Playmobil Fun Park. © SG")
 
 ## 8\. Futuroscope (Poitiers, Francia)
 
@@ -125,7 +125,7 @@ Futuroscope](https://etheriamagazine.com/2018/08/24/10-consejos-futuroscope/). P
 incluirlo como broche a un [viaje por los Castillos del 
 Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/). 
 
-![Viaje con niños, viaje en familia, parques de atracciones, viajes a Europa](etheria_images/2018/08/Futuroscope-viaje-extraordinario-e1559207700242.jpg "El Viaje Extraordinario es una de las atracciones más populares de © Futuroscope")
+![Viaje con niños, viaje en familia, parques de atracciones, viajes a Europa](etheria-images/2018/08/Futuroscope-viaje-extraordinario-e1559207700242.jpg "El Viaje Extraordinario es una de las atracciones más populares de © Futuroscope")
 
 ## 9\. Tivoli (Copenhague, Dinamarca)
 
@@ -136,7 +136,7 @@ una gran descarga de adrenalina, pero está lleno de encanto y es muy cómodo de
 en una escapada a Copenhague. Abre tanto en verano, de abril a septiembre, como en 
 invierno, ya que alberga una bonito mercado de Navidad. 
 
-![parques atracciones niños familia](etheria_images/2018/07/Parque-Tivoli-Copenhague-e1559207758205.jpg "Parque Tívoli, en el corazón de Copenhague.Parque Tívoli, en el corazón de Copenhague.")
+![parques atracciones niños familia](etheria-images/2018/07/Parque-Tivoli-Copenhague-e1559207758205.jpg "Parque Tívoli, en el corazón de Copenhague.Parque Tívoli, en el corazón de Copenhague.")
 
 ## 10\. Prater (Viena, Austria)
 
@@ -146,7 +146,7 @@ funciona desde 1897. Cuenta con muchas más atracciones, algunas muy adrenalíni
 otras pensadas para los más pequeños, que se combinan con un bonito parque donde 
 descansar. 
 
-![viajes con niños, viajes en familia, parques de atracciones, viajes a Europa](etheria_images/2018/07/Prater-Viena-e1559207844440.jpg "Prater de Viena © WienTourismus/Christian Stemper")
+![viajes con niños, viajes en familia, parques de atracciones, viajes a Europa](etheria-images/2018/07/Prater-Viena-e1559207844440.jpg "Prater de Viena © WienTourismus/Christian Stemper")
 
 **Además de los parques de atracciones de Europa, te puede interesar:** 
 

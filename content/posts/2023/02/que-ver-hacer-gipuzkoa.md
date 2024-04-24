@@ -1,10 +1,10 @@
 ---
 title: "Guía esencial de Gipuzkoa, maravillas desde la costa al interior"
 date: 2023-02-14
-coverImage: etheria_images/2023/02/guipuzcoa-monte-arno-mutriku.jpg
+coverImage: etheria-images/2023/02/guipuzcoa-monte-arno-mutriku.jpg
 categories: 
   - de-un-vistazo
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -13,7 +13,7 @@ recortada por el oleaje, mientras que en tierra adentro han sido sus paisajes pa
 los que nos han embelesado. En esta guía esencial hemos elegido algunas de esas 
 maravillas que tienes que ver en Gipuzkoa, sí o sí, sin perder nunca el norte. 
 
-![Vistas de Mutriku desde el monte Arno, uno de los lugares que hay que ver en Gipuzkoa](etheria_images/2023/02/guipuzcoa-monte-arno-mutriku.jpg "Vistas de Mutriku desde el monte Arno. © Basquetour.")
+![Vistas de Mutriku desde el monte Arno, uno de los lugares que hay que ver en Gipuzkoa](etheria-images/2023/02/guipuzcoa-monte-arno-mutriku.jpg "Vistas de Mutriku desde el monte Arno. © Basquetour.")
 
 Como en Gipuzkoa todo está cerca, puedes estar dándote un baño en la costa por la mañana 
 y por la tarde caminando por la comarca del Goierri, un altiplano entre montañas que 
@@ -44,7 +44,7 @@ la frontera para explorar el País Vasco francés. Pero nosotras nos quedamos en
 provincia española donde no hemos dejado rincón por explorar. Ni siquiera bajo tierra, 
 donde hemos hallado minas y cuevas que te van a sorprender. 
 
-![Paseo martímo de San Sebastián sobre la playa de la Concha y con el Ayuntamiento al fondo.](etheria_images/2023/02/guipuzcoa-paseo-maritimo-playa-Concha.jpg "Paseo martímo de San Sebastián sobre la playa de la Concha y con el Ayuntamiento al fondo. © Basquetour")
+![Paseo martímo de San Sebastián sobre la playa de la Concha y con el Ayuntamiento al fondo.](etheria-images/2023/02/guipuzcoa-paseo-maritimo-playa-Concha.jpg "Paseo martímo de San Sebastián sobre la playa de la Concha y con el Ayuntamiento al fondo. © Basquetour")
 
 La costa vasca bien merece un viaje por sí solo, así que no queremos que dejes de pasear 
 cada una de sus villas marineras, aunque no podrás resistirte a la llamada de las 
@@ -81,7 +81,7 @@ La Concha llama la atención la arquitectura inglesa del **palacio de Miramar**.
 residencia real con las mejores vistas urbanas y marítimas que fue residencia estival de 
 las reinas españolas. 
 
-![El Peine de lo Vientos en San Sebastián.](etheria_images/2023/02/guipuzcoa-peine-viento-san-sebastian.jpg "El Peine de lo Vientos en San Sebastián.")
+![El Peine de lo Vientos en San Sebastián.](etheria-images/2023/02/guipuzcoa-peine-viento-san-sebastian.jpg "El Peine de lo Vientos en San Sebastián.")
 
 ### Con vistas a la playa
 
@@ -101,7 +101,7 @@ en su túnel es sumergirse bajo las aguas del Cantábrico sin mojarse un pelo. A
 su rica muestra de fauna y flora submarina exhibe el esqueleto de 11 metros de una de 
 las últimas ballenas capturadas en estas aguas. 
 
-![Aquarium de San Sebastián, si vas con niños lo tienes que ver en Gipuzkoa](etheria_images/2023/02/guipuzcoa-san-sebastian-Aquarium.jpg "Aquarium de San Sebastián. © Basquetour.")
+![Aquarium de San Sebastián, si vas con niños lo tienes que ver en Gipuzkoa](etheria-images/2023/02/guipuzcoa-san-sebastian-Aquarium.jpg "Aquarium de San Sebastián. © Basquetour.")
 
 ? Ascender al monte Igueldo puede hacerse a pie o en coche pero lo más encantador es 
 hacerlo por el funicular que lleva en funcionamiento desde el año 1912. En su cumbre hay 
@@ -127,7 +127,7 @@ metros de longitud de su galería Arditurri 20 o Mina Grande, nos llegan los son
 una explotación minera. También descubrimos lagos y grandes cavidades que despliegan 
 sorpresa a nuestro paso. 
 
-![Minas de Arditurri.](etheria_images/2023/02/guipuzcoa-Arditurri.jpg "Minas de Arditurri. © Basquetour")
+![Minas de Arditurri.](etheria-images/2023/02/guipuzcoa-Arditurri.jpg "Minas de Arditurri. © Basquetour")
 
 ? Si necesitas un poco de aire libre recorre la **Vía Verde de Arditurri** a pie o en 
 bici. Sigue el trazado del ferrocarril que llevaba los minerales en explotación hasta la 
@@ -147,7 +147,7 @@ Estás a tiempo de convertirte en una arqueóloga y experimentar con pigmentos o
 para dibujar como aquellos artistas prehistóricos, cazar con lanza e incluso aprender a 
 hacer fuego. 
 
-![Ekainberri, uno de los lugares originales que hay que ver en Gipuzkoa](etheria_images/2023/02/guipuzcoa-centro-interpretacion-ekain.jpg "Centro de Interpretación de Ekain. © Basquetour.")
+![Ekainberri, uno de los lugares originales que hay que ver en Gipuzkoa](etheria-images/2023/02/guipuzcoa-centro-interpretacion-ekain.jpg "Centro de Interpretación de Ekain. © Basquetour.")
 
 ? La [visita se realiza guiada en la neocueva 
 Ekainberri.](https://www.ekainberri.eus/visitas-y-venta-de-entradas/) Se trata de una 
@@ -165,7 +165,7 @@ desarrollaban en el complejo minero. También ver los trenes que llevaban el min
 las ferrerías de las cabeceras de los valles cercanos, desde donde se llevaba al puerto 
 de Pasaia rumbo a Europa. 
 
-![Minas de Azpeia.](etheria_images/2023/02/guipuzcoa-Zerain-minas-Aizpea.jpg "Minas de Azpeia. © Edaki/CC 4.0")
+![Minas de Azpeia.](etheria-images/2023/02/guipuzcoa-Zerain-minas-Aizpea.jpg "Minas de Azpeia. © Edaki/CC 4.0")
 
 ? Las visitas guiadas de la mina e instalaciones anejas a la extracción del mineral en 
 la Montaña del Hierro las organiza la [oficina de Turismo de 
@@ -210,7 +210,7 @@ habrás pisado dos países.
 ? No te pierdas: Artículo de la [costa del monte Jaizkibel con nuestras ocho 
 pasiones.](https://etheriamagazine.com/2020/09/08/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia/) 
 
-![Fachadas de Hondarribia, una preciosa ciudad que hay que ver en Gipuzkoa](etheria_images/2018/07/san-sebastian-hondarribia.jpg "Fachadas de Hondarribia. © Eric Prouzet")
+![Fachadas de Hondarribia, una preciosa ciudad que hay que ver en Gipuzkoa](etheria-images/2018/07/san-sebastian-hondarribia.jpg "Fachadas de Hondarribia. © Eric Prouzet")
 
 ### Getaria
 
@@ -230,7 +230,7 @@ uno de los más admirados hijos de la localidad, **Cristóbal Balenciaga Museoa*
 través del universo del gran genio de la alta costura. Este espacio cultura es una cita 
 imprescindible, de esas que tienes que ver en Gipuzkoa. 
 
-![Panorámica de Getaria, uno de los pueblos que ver en Gipuzkoa](etheria_images/2018/04/Getaria-Etheriamagazine.jpg "Getaria.")
+![Panorámica de Getaria, uno de los pueblos que ver en Gipuzkoa](etheria-images/2018/04/Getaria-Etheriamagazine.jpg "Getaria.")
 
 ### Pasaia
 
@@ -247,7 +247,7 @@ en el **astillero Albaola** (www.albaola.com/es), donde se está reproduciendo l
 Juan. Una nave de madera del siglo XVI y primera embarcación comercial de la localidad 
 que, cargada de aceite de ballena, se hundió en aguas del estrecho de Bering. 
 
-![vista de pasaia san juan](etheria_images/2020/08/pasaia-san-juan-900x626.jpg "Pasaia San Juan.")
+![vista de pasaia san juan](etheria-images/2020/08/pasaia-san-juan-900x626.jpg "Pasaia San Juan.")
 
 ### Zarautz
 
@@ -259,7 +259,7 @@ disfrutan del mejor oleaje durante el otoño, la mejor época del año para prac
 Puedas recorrer la playa siguiendo el paseo marítimo e incluso prolongar la caminata 
 hasta la vecina localidad de Getaria, pues solo la separan 4 kilómetros. 
 
-![Casetas en la Playa de Zarautz, las tienes que ver en Gipuzkoa](etheria_images/2023/02/guipuzcoa-Zarautz.jpg "Playa de Zarautz. © Basquetour")
+![Casetas en la Playa de Zarautz, las tienes que ver en Gipuzkoa](etheria-images/2023/02/guipuzcoa-Zarautz.jpg "Playa de Zarautz. © Basquetour")
 
 ? Antes de partir de la localidad donde se armó la nao Victoria, que daría la primera 
 vuelta al mundo comandada por Fernando Magallanes y en la que regresó Juan Sebastián 
@@ -276,7 +276,7 @@ placer descubrir su esencia medieval entre lo abigarrado de sus calles, estrecha
 adoquines, que acogen palacios y casonas monumentales. No dejes de llevarte el sabor del 
 mar Cantábrico enlatado gracias a sus deliciosas conservas de bonito y anchoas. 
 
-![puerto de Mutriku](etheria_images/2023/02/guipuzcoa-Mutriku.jpg "Mutriku. © Basquetour")
+![puerto de Mutriku](etheria-images/2023/02/guipuzcoa-Mutriku.jpg "Mutriku. © Basquetour")
 
 ## Qué ver en el interior de Gipuzkoa
 
@@ -293,7 +293,7 @@ montañas señeras, el **Txindoki** y el **monte Aizkorri**, a las que da un sab
 el del queso Idiazabal. Detente en los hitos de su paisaje como los abundantes dólmenes 
 que son la huella de sus primeros pastores prehistóricos. 
 
-![Mujer con cabras en el Monte Aizkorri en Guipúzcoa](etheria_images/2023/02/guipuzcoa-ascenso-monte-aizkorri.jpg "Ascenso al monte Aizkorri.")
+![Mujer con cabras en el Monte Aizkorri en Guipúzcoa](etheria-images/2023/02/guipuzcoa-ascenso-monte-aizkorri.jpg "Ascenso al monte Aizkorri.")
 
 ? Apenas a media hora de San Sebastián se llega a **Beasain**. Es la capital del Goierri 
 y donde, además de probar la sidra, alubias o mermeladas de la tierra es posible viajar 
@@ -325,7 +325,7 @@ de años. A través de los extraordinarios paisajes de la roca que, como un hoja
 caracteriza sus agrestes acantilados o _flysch_, a lo largo de 13 kilómetros, pisamos el 
 **Geoparque de la Costa Vasca**. 
 
-![Flysch de la costa vasca, naturaleza en estado puro que hay que ver en Gipuzkoa](etheria_images/2023/02/guipuzcoa-acantilados-flysch.jpg "Flysch de la costa vasca. © Basquetour.")
+![Flysch de la costa vasca, naturaleza en estado puro que hay que ver en Gipuzkoa](etheria-images/2023/02/guipuzcoa-acantilados-flysch.jpg "Flysch de la costa vasca. © Basquetour.")
 
 ? Desde la ermita dedicada al patrón de los navegantes, **San Telmo**, en Zumaia se 
 obtiene una espectacular panorámica de costa tan agreste y extraordinaria. En el **Museo 
@@ -340,7 +340,7 @@ no solo las aves, sino peces y anfibios, hacen de este humedal un reino animal. 
 todo durante la migración pues las aves lo utilizan para descansar y como refugio en sus 
 vuelos transcontinentales entre Europa y África. 
 
-![Desembocadura del Bidasoa.](etheria_images/2023/02/guizpuzcoa-vista-bahia-txingudi-desembocadura-bidasoa.jpg "Desembocadura del Bidasoa.")
+![Desembocadura del Bidasoa.](etheria-images/2023/02/guizpuzcoa-vista-bahia-txingudi-desembocadura-bidasoa.jpg "Desembocadura del Bidasoa.")
 
 ? El **parque ecológico Plaiaundi,** con su mezcla de agua dulce y salada y sus 
 observatorios sobre la marisma, es garantía de observar el ajetreo de aves que lo 

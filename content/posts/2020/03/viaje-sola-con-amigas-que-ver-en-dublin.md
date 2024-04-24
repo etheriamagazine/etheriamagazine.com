@@ -1,14 +1,14 @@
 ---
 title: "Viaja sola o con amigas a Dublín, un plan perfecto"
 date: 2020-03-09
-coverImage: etheria_images/2020/02/Temple-Bar-Dublin-1.jpg
+coverImage: etheria-images/2020/02/Temple-Bar-Dublin-1.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Dublín es una ciudad acogedora, con energía, perfecta para recorrerla a pie. Ni muy 
@@ -16,7 +16,7 @@ grande, ni demasiado pequeña, ideal para pasar 48 horas y volver a casa con la 
 sensación de haberla conocido. Si aún no tienes destino para tu próximo viaje sola o con 
 amigas, te contamos qué ver en Dublín para un fin de semana de diez. 
 
-![Calle de bares en Dublín](etheria_images/2020/02/Temple-Bar-Dublin-1-900x698.jpg "Las calles adyacentes a Temple Bar, como Dame Lane, se prestan a un agradable paseo. © Rob Durston/ Turismo Irlanda")
+![Calle de bares en Dublín](etheria-images/2020/02/Temple-Bar-Dublin-1-900x698.jpg "Las calles adyacentes a Temple Bar, como Dame Lane, se prestan a un agradable paseo. © Rob Durston/ Turismo Irlanda")
 
 El nombre de sus calles cuelga esquinado en las paredes y está escrito en gaélico, 
 lengua oficial de Irlanda desde 2007, y en inglés que es el idioma más hablado. A su 
@@ -38,7 +38,7 @@ iluminadas y motivos ornamentales bellamente diseñados por monjes celtas "_conv
 luz en oscuridad_" y donó al mundo una de las versiones más bellas de los cuatro 
 evangelios. 
 
-![biblioteca trinity college dublin](etheria_images/2020/02/biblioteca-Trinity-College-Dublin-900x675.jpg "Biblioteca del Trinity College. © Rob Durston/ Turismo Irlanda")
+![biblioteca trinity college dublin](etheria-images/2020/02/biblioteca-Trinity-College-Dublin-900x675.jpg "Biblioteca del Trinity College. © Rob Durston/ Turismo Irlanda")
 
 > Un bibliotecario se encarga de pasar una hoja del libro al día; haría falta más o menos 
 > un año de visitas diarias para poder verlo entero. 
@@ -51,7 +51,7 @@ acogía la antigua Universidad Católica de Dublín y que Scott Tallon Walker Ar
 Ralph Appelbaum Associates, han transformado en un espacio vanguardista e interactivo, 
 donde recorrer el vasto universo de la Literatura irlandesa. 
 
-![MoLI, Museo de la Literatura de Irlanda](etheria_images/2020/02/museo-literatura-dublin.jpg "© MoLI, Museo de la Literatura de Irlanda.")
+![MoLI, Museo de la Literatura de Irlanda](etheria-images/2020/02/museo-literatura-dublin.jpg "© MoLI, Museo de la Literatura de Irlanda.")
 
 ## Comer en una iglesia
 
@@ -61,7 +61,7 @@ fábrica. Hoy en día, sin perder ni un ápice de su solemne apariencia eclesiá
 –incluido el órgano–, ofrece comida ligera en su bar, parrillada en su terraza y una 
 cocina contundente irlandesa en el restaurante principal. 
 
-![The Church restaurant dublin](etheria_images/2020/02/Church-restaurante-dublin-900x600.jpg "The Church restaurant se sitúa en la iglesia donde se casó el fundador de la fábrica Guinness, Arthur Guinness. © M. Munar")
+![The Church restaurant dublin](etheria-images/2020/02/Church-restaurante-dublin-900x600.jpg "The Church restaurant se sitúa en la iglesia donde se casó el fundador de la fábrica Guinness, Arthur Guinness. © M. Munar")
 
 Tras haber degustado un excelente salmón o el típico estofado de _cordero a la Guinness_ 
 el mejor plan es honrar a la oscura _Stout_, que tiene el color del río Liffey que 
@@ -79,7 +79,7 @@ tiene instaladas barras de cerveza en donde se comparte el secreto del escanciad
 alcanzar el último nivel donde las paredes acristaladas de los 360 o del bar Gravity 
 ofrecen una inmejorable panorámica de Dublín mientras se degusta la penúltima pinta. 
 
-![fabrica guinness en dublin](etheria_images/2020/02/fabrica-guinness-900x589.jpg "La fábrica Guinness tiene gran importancia en la historia de Dublín. © M.Munar")
+![fabrica guinness en dublin](etheria-images/2020/02/fabrica-guinness-900x589.jpg "La fábrica Guinness tiene gran importancia en la historia de Dublín. © M.Munar")
 
 ## Destilería de whiskey Roe & Co
 
@@ -91,7 +91,7 @@ aire _vintage_ en el antiguo peral de la genuina fábrica, resucitando una magn�
 versión del whiskey irlandés, elegante y suave, gracias a la Caroline Martin, la Master 
 Blender y su equipo. 
 
-![destileria ro and co en dublin](etheria_images/2020/02/roeandco-dublin-900x640.jpg "Destilería de whiskey Roe & Co. © M. Munar")
+![destileria ro and co en dublin](etheria-images/2020/02/roeandco-dublin-900x640.jpg "Destilería de whiskey Roe & Co. © M. Munar")
 
 ## Temple Bar, un clásico de la noche dublinesa
 
@@ -103,7 +103,7 @@ calles adoquinadas de **Temple Bar** muestran la cara tradicional de la ciudad, 
 capital de Irlanda no se ha quedado atrás y el siglo XXI se refleja en los edificios 
 cristalinos que se funden con el cielo, con las colinas y con las aguas del Liffey. 
 
-![Temple Bar dublin](etheria_images/2020/02/Temple-Bar-Dublin-900x600.jpg "Temple Bar de Dublín. © Rob Durston/ Turismo Irlanda")
+![Temple Bar dublin](etheria-images/2020/02/Temple-Bar-Dublin-900x600.jpg "Temple Bar de Dublín. © Rob Durston/ Turismo Irlanda")
 
 ## Restaurantes donde comer o cenar en Dublín
 
@@ -117,7 +117,7 @@ salir del restaurante, caminando a orillas del Liffey se llega hasta el Centro d
 Convenciones, que si no fuera por los anillos de luces que envuelven el edificio se 
 perdería en la oscuridad con su etérea apariencia cristalina. 
 
-![everleigh pub de dublin](etheria_images/2020/02/Everleigh-900x600.jpg "© Everleigh, un pub donde escuchar todo tipo de música.")
+![everleigh pub de dublin](etheria-images/2020/02/Everleigh-900x600.jpg "© Everleigh, un pub donde escuchar todo tipo de música.")
 
 Otra estupenda opción nocturna la ofrece la georgiana **calle Harcourt,** llena de 
 seductores restaurantes a los que completan una serie de bares de moda. Se puede empezar 
@@ -137,7 +137,7 @@ figura relevante en la política irlandesa. Su torre de enterramiento protagoniz
 cementerio, cumpliendo con el último deseo de O'Conell “_Mi cuerpo en Irlanda, mi 
 corazón en Roma, mi alma en el Cielo”_**.** 
 
-![Cementerio de Glasnevin](etheria_images/2020/02/mujeres-dublin-cementerio-glasnevin-900x600.jpg "Cementerio de Glasnevin. © M. Munar")
+![Cementerio de Glasnevin](etheria-images/2020/02/mujeres-dublin-cementerio-glasnevin-900x600.jpg "Cementerio de Glasnevin. © M. Munar")
 
 Allí descansan Michael O’Collins, director de inteligencia del IRA; Brendan Behan, 
 dramaturgo y activista del IRA; Maud Gonne, sufragista y actriz, musa y amor del Nobel 
@@ -148,7 +148,7 @@ Tomarse una pinta de Guinness en **John Kavanagh Gravedigger’s Pub** al salir 
 cementerio es casi una obligación, aunque solo sea para entrar en, probablemente, el 
 único pub irlandés donde está prohibida la música. 
 
-![ohn Kavanagh Gravediggers Pub dublin](etheria_images/2020/02/John-Kavanagh-Gravediggers-Pub-900x600.jpg "John Kavanagh Gravediggers´s Pub es de los pocos pubs, si no el único de Irlanda, en que no se permite la música. © M. Munar")
+![ohn Kavanagh Gravediggers Pub dublin](etheria-images/2020/02/John-Kavanagh-Gravediggers-Pub-900x600.jpg "John Kavanagh Gravediggers´s Pub es de los pocos pubs, si no el único de Irlanda, en que no se permite la música. © M. Munar")
 
 Otro ineludible histórico es la Oficina Central de Correos, en la céntrica calle 
 O’Connell. Sede de los líderes de la sublevación durante la Pascua de 1916, aquí fue 
@@ -159,7 +159,7 @@ cumple sus deberes postales, hace las veces de _museo_ de un periodo clave de la
 irlandesa y acoge en su patio las rocas alineadas que conmemoran a los infantes muertos 
 durante la revuelta. 
 
-![oficina de correos dublin, museo homenaje caidos](etheria_images/2020/02/oficina-correos-museo-dublin-900x578.jpg "La oficina de Correos de la calle O'Connell rinde homenaje a los infantes caídos durante la revuelta del año 1916. © M. Munar")
+![oficina de correos dublin, museo homenaje caidos](etheria-images/2020/02/oficina-correos-museo-dublin-900x578.jpg "La oficina de Correos de la calle O'Connell rinde homenaje a los infantes caídos durante la revuelta del año 1916. © M. Munar")
 
 ## Librerías y cafés encantadores de Dublín
 
@@ -171,7 +171,7 @@ pasar por alto **George Arcade**, donde encontrar los libros más buscados, las 
 más coquetas y los cafés más deliciosos. También cuenta con un mercado donde comprar 
 salmón fresco y demás productos genuinos irlandeses. 
 
-![George Street Arcade Market](etheria_images/2020/02/Georges-Street-Arcade-Dublin-900x600.jpg "George Street Arcade Market. © Andrew Bradley/ Turismo Irlanda")
+![George Street Arcade Market](etheria-images/2020/02/Georges-Street-Arcade-Dublin-900x600.jpg "George Street Arcade Market. © Andrew Bradley/ Turismo Irlanda")
 
 ## De puentes y escritores
 
@@ -189,7 +189,7 @@ advierte la mano de Santiago Calatrava; al igual que en el **puente James Joyce*
 alejado del centro de Dublín. De hecho, el punto donde cruza era el escenario de una de 
 las historias de ‘Dubliners’_._ 
 
-![Puente de Samuel Beckett](etheria_images/2020/02/puente-samuel-beckett-dublin-900x593.jpg "Puente de Samuel Beckett, en Dublín. © Rudy and Peter Skitterians")
+![Puente de Samuel Beckett](etheria-images/2020/02/puente-samuel-beckett-dublin-900x593.jpg "Puente de Samuel Beckett, en Dublín. © Rudy and Peter Skitterians")
 
 Y si eras una enamorada de **Oscar Wilde,** no dejes de acercarte a la esquina de la 
 Plaza Merrion, donde se encuentra una escultura de Danny Osborne que muestra al escritor 

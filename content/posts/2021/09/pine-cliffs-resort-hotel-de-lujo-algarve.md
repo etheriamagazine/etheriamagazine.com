@@ -1,19 +1,19 @@
 ---
 title: "Pine Cliffs Resort, un hotel de lujo para un viaje con niños al Algarve"
 date: 2021-09-08
-coverImage: etheria_images/2021/09/pine-cliffs-resort-champagne-bar.jpg
+coverImage: etheria-images/2021/09/pine-cliffs-resort-champagne-bar.jpg
 categories: 
   - organiza-tu-viaje
   - viaje-en-familia
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 El Algarve es uno de esos destinos al que es muy fácil querer volver. El Pine Cliffs Resort le aporta además la comodidad de un hotel de cinco estrellas perfecto para familias. Te contamos algunos de los secretos de este gran hotel donde no dedicaréis ni un minuto al aburrimiento.
 
-![Vista general de parte del hotel Pine Cliffs Resort.](etheria_images/2021/09/Pine-cliffs-general.jpg "Vista general de parte del hotel Pine Cliffs Resort.")
+![Vista general de parte del hotel Pine Cliffs Resort.](etheria-images/2021/09/Pine-cliffs-general.jpg "Vista general de parte del hotel Pine Cliffs Resort.")
 
 En los últimos tiempos hemos aprendido a valorar aquellos hoteles que aportan espacios 
 abiertos y son en sí mismos un lugar donde acudir a descansar y refugiarse. Si a esto le 
@@ -28,7 +28,7 @@ protagonistas, y tienen cabida todas sus instalaciones y distintos tipos de aloj
 Es uno de esos hoteles por los que se puede pasear y explorar, incluso en bicicleta o 
 segway, por lo que es perfecto para viajar con niños. 
 
-![Camino desde el Pine Cliffs Resort hacia la playa de Falésia.](etheria_images/2021/09/pine-cliffs-resort-bajada-playa.jpg "Camino desde el Pine Cliffs Resort hacia la playa de Falésia.")
+![Camino desde el Pine Cliffs Resort hacia la playa de Falésia.](etheria-images/2021/09/pine-cliffs-resort-bajada-playa.jpg "Camino desde el Pine Cliffs Resort hacia la playa de Falésia.")
 
 El Pine Cliffs se encuentra sobre la **playa de Falésia**, a la que se llega tras bajar 
 el acantilado por escaleras o ascensor y dando después un corto paseo por las pasarelas 
@@ -39,7 +39,7 @@ hamacas, un club donde podrás organizar la práctica de deportes acuáticos com
 surf, motos de agua o kayak; y uno de los restaurantes del hotel, del que hablaremos más 
 adelante. 
 
-![En restaurante Mare está situado en la playa.](etheria_images/2021/09/pine-cliffs-resort-restaurante-mare.jpg "El restaurante Mare está situado en la playa de Falésia.")
+![En restaurante Mare está situado en la playa.](etheria-images/2021/09/pine-cliffs-resort-restaurante-mare.jpg "El restaurante Mare está situado en la playa de Falésia.")
 
 ## Un resort para no aburrirse
 
@@ -51,7 +51,7 @@ actividades deportivas o las excursiones. Como es un resort bastante grande, exi
 servicio de transporte interno que tiene un recorrido fijo por las principales 
 instalaciones del hotel. 
 
-![Senderos del Pine Cliffs Resort](etheria_images/2021/09/pine-cliffs-resort-paseo-pinos.jpg "El hotel está lleno de senderos entre pinos para dar agradables paseos a pie o en bicicleta.")
+![Senderos del Pine Cliffs Resort](etheria-images/2021/09/pine-cliffs-resort-paseo-pinos.jpg "El hotel está lleno de senderos entre pinos para dar agradables paseos a pie o en bicicleta.")
 
 #### Un hotel para deportistas
 
@@ -73,7 +73,7 @@ minigolf, un circuito de aventura entre las copas de los pinos, columpios y much
 Una excelente opción es alquilar una bicicleta con la que os podréis mover de una forma 
 divertida por todo el complejo hotelero. 
 
-![Piscina situada junto al Corda Café en Pine Cliffs Resort](etheria_images/2021/09/pine-cliffs-corda-cafe.jpg "Piscina situada junto al Corda Café.")
+![Piscina situada junto al Corda Café en Pine Cliffs Resort](etheria-images/2021/09/pine-cliffs-corda-cafe.jpg "Piscina situada junto al Corda Café.")
 
 Sin duda los niños se divertirán en las **siete piscinas** ubicadas en distintas zonas 
 para que siempre tengas una cerca de tu alojamiento, así que otra buena actividad para 
@@ -93,7 +93,7 @@ Debido a la pandemia, el hotel tiene distintas instalaciones cerradas, como la s
 juegos, la Escuela de Cocina Mimo Algarve o el Mini Mercado Deli que esperan tener 
 pronto disponibles. 
 
-![Entrada a la zona de las Ocean Suites.](etheria_images/2021/09/pine-cliffs-resort-ocean-suites.jpg "Entrada a la zona de las Ocean Suites.")
+![Entrada a la zona de las Ocean Suites.](etheria-images/2021/09/pine-cliffs-resort-ocean-suites.jpg "Entrada a la zona de las Ocean Suites.")
 
 ## El alojamiento
 
@@ -108,7 +108,7 @@ jardín con barbacoa). Cuentan con todos los servicios que podáis imaginar para
 estancia sea perfecta, incluida una cocina por si algún día os apetece comer o cenar en 
 vuestro alojamiento. 
 
-![Villa del Pine Cliffs Resort.](etheria_images/2021/09/pine-cliffs-resort-villa.jpg "Villa del Pine Cliffs Resort.")
+![Villa del Pine Cliffs Resort.](etheria-images/2021/09/pine-cliffs-resort-villa.jpg "Villa del Pine Cliffs Resort.")
 
 Sus **villas con piscina privada y jacuzzi** **exterior** merecen una mención aparte. 
 Tienen cuatro habitaciones dobles (cada una con su cuarto de baño), salón, comedor, 
@@ -125,7 +125,7 @@ opción de cenar cada día en un lugar diferente. En Pine Cliffs Resort encontra
 platos de pescado y marisco; y también **O Pescador**, un lugar perfecto para disfrutar 
 de los productos del mar, en especial de la típica y deliciosa _cataplana_ portuguesa. 
 
-![Restaurante O Pescador en el Pine Cliffs Resort](etheria_images/2021/09/Pine-cliffs-Pescador.jpg "Restaurante O Pescador.")
+![Restaurante O Pescador en el Pine Cliffs Resort](etheria-images/2021/09/Pine-cliffs-Pescador.jpg "Restaurante O Pescador.")
 
 Uno de los platos típicos de esta zona es el pollo piri-piri, que podréis probar en el 
 restaurante **Piri-Piri Steak House**, además de unos excelentes cortes de carne a la 
@@ -135,7 +135,7 @@ fajitas, pasta o poke, perfectos para el almuerzo o una cena ligera. Y el restau
 que no os podéis perder es el **Yakuza Algarve by Olivier**, un animado japonés con un 
 sushi de primera entre otras delicatesen. 
 
-![Mirador Champagne Bar de Pine Cliffs Resort](etheria_images/2021/09/pine-cliffs-resort-champagne-bar.jpg "El Mirador Champagne Bar tiene una ubicación privilegiada.")
+![Mirador Champagne Bar de Pine Cliffs Resort](etheria-images/2021/09/pine-cliffs-resort-champagne-bar.jpg "El Mirador Champagne Bar tiene una ubicación privilegiada.")
 
 Y, para tomar algo, son parada obligada el **Mirador Champagne Bar** (sobre todo al 
 atardecer) para un cóctel o una copa; y el **Club House** para un refresco con un 
@@ -150,7 +150,7 @@ todo si viajas en familia y te escapas un rato tú sola al spa). Puedes elegir a
 sus tratamientos sueltos o un programa de Wellness para toda la estancia como el Detox o 
 el Discovery Serenity. 
 
-![Piscina de hidroterapia del spa Serenity.](etheria_images/2021/09/pine-cliffs-resort-spa.jpg "Piscina de hidroterapia del Serenity Spa.")
+![Piscina de hidroterapia del spa Serenity.](etheria-images/2021/09/pine-cliffs-resort-spa.jpg "Piscina de hidroterapia del Serenity Spa.")
 
 Aprovecha para disfrutar de sus instalaciones como la piscina de hidroterapia, la fuente 
 de hielo, la sauna con sal del Himalaya, las duchas, el hammam o el jacuzzi exterior. Y 

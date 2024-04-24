@@ -1,19 +1,19 @@
 ---
 title: "Un viaje con amigas a Tulum, el último paraíso mexicano"
 date: 2019-06-19
-coverImage: etheria_images/2019/06/Tulum-con-amigas-barca.jpg
+coverImage: etheria-images/2019/06/Tulum-con-amigas-barca.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - macarenaetheria
+authors: 
+  - Macarena Escrivá
 ---
 
 ¿De verdad existe el paraíso? Nosotras hemos encontrado uno. Uno bañado por las aguas 
 del Caribe, donde la vida es lenta y tranquila, las palmeras campan a sus anchas y la 
 playa se funde con la selva. Te contamos qué ver en Tulum, el nuevo edén mexicano . 
 
-![foto aérea de la playa de Tulum](etheria_images/2019/06/Tulum-con-amigas-playa-mar.jpg "Costa de Tulum.")
+![foto aérea de la playa de Tulum](etheria-images/2019/06/Tulum-con-amigas-playa-mar.jpg "Costa de Tulum.")
 
 Nos fascina México. No podemos remediarlo. Amamos a su gente, su colorido, su 
 gastronomía, su diversidad... No podemos dejar de recorrer de cabo a rabo la gran 
@@ -37,7 +37,7 @@ las grandes áreas turísticas mexicanas: Playa del Carmen, Isla Mujeres... y, a
 media de trayecto, se encuentra esta zona, conocida como **el pueblo mágico del mar 
 Caribe**. 
 
-![barca y palmera en la playa de Tulum](etheria_images/2019/06/Tulum-con-amigas-barca.jpg "Playa de Tulum. © Joanna Szumska")
+![barca y palmera en la playa de Tulum](etheria-images/2019/06/Tulum-con-amigas-barca.jpg "Playa de Tulum. © Joanna Szumska")
 
 Tulum cuenta con dos partes diferenciadas, el pueblo en sí y la zona de playa. En la 
 playa, una carretera de un carril de ida y otro de vuelta, separa hotel tras hotel, 
@@ -67,7 +67,7 @@ una piscina _infinity_ con el mar Caribe como telón de fondo, un restaurante a 
 reconocido **chef australiano Paul Bentley** y todo lo que necesitáis para descansar en 
 un refugio de calma y serenidad. 
 
-![tumbonas en la playa y piscina del hotel Mi Amor en Tulum](etheria_images/2019/06/Tulum-con-amigas-mi-amor.jpg "Hotel Mi Amor Tulum: tumbonas en la playa y piscina. © Macarena Escrivá")
+![tumbonas en la playa y piscina del hotel Mi Amor en Tulum](etheria-images/2019/06/Tulum-con-amigas-mi-amor.jpg "Hotel Mi Amor Tulum: tumbonas en la playa y piscina. © Macarena Escrivá")
 
 Otra buena opción, para las amantes del arte, es el hotel **Casa Malca** 
 (www.casamalca.com). Ubicado en la misma Carretera de Boca Paila, pero en dirección 
@@ -85,7 +85,7 @@ cada habitación y un restaurante grill donde degustar pescados y mariscos a la 
 no se qué pensaréis, pero pedir una Corona fresquita y unos camarones o langosta al 
 grill y tomarlo frente al mar, nos parece uno de los mejores planes posibles. 
 
-![Tumbona y cerveza Corona en el hotel Casa Malca](etheria_images/2019/06/Tulum-con-amigas-casa-malca.jpg "Hotel Casa Malca: tumbonas en la playa y Corona fresquita. © Macarena Escrivá")
+![Tumbona y cerveza Corona en el hotel Casa Malca](etheria-images/2019/06/Tulum-con-amigas-casa-malca.jpg "Hotel Casa Malca: tumbonas en la playa y Corona fresquita. © Macarena Escrivá")
 
 Para comer en la playa, podéis dejaros caer por lugares de precios módicos como la 
 **Taquería la Eufemia** o por otros como el restaurante del hotel El Pez, [Beso 
@@ -110,7 +110,7 @@ acantilado frente al Caribe. No en vano, los lugareños bromean con que aquella 
 casa de veraneo de los mayas. En efecto, la elección del lugar no puede ser más idónea. 
 Por 70 pesos mexicanos puedes acceder a todo el recinto de la zona arqueológica. 
 
-![yacimiento maya de Tulum](etheria_images/2019/06/Tulum-con-amigas-ruinas.jpg "Antigua ciudad maya de Tulum.")
+![yacimiento maya de Tulum](etheria-images/2019/06/Tulum-con-amigas-ruinas.jpg "Antigua ciudad maya de Tulum.")
 
 Podéis hacerlo a vuestro ritmo o contratar un guía que os explique todo sobre las 
 edificaciones que todavía están en pie. Estas ruinas son unas de las mejores conservadas 
@@ -134,7 +134,7 @@ cristalinas, salías de allí rejuvenecido, aunque también eran puertas de entr
 inframundo. Los más reconocidos de la zona son el Cenote Dos Ojos, el Cenote Encantado o 
 el de Zacil Ha, entre otros. 
 
-![Souvenirs en Tulum y tacos en la Taquería Eufemia](etheria_images/2019/06/Tulum-con-amigas-pueblo.jpg "Souvenirs en Tulum y tacos en la Taquería Eufemia. © Macarena Escrivá")
+![Souvenirs en Tulum y tacos en la Taquería Eufemia](etheria-images/2019/06/Tulum-con-amigas-pueblo.jpg "Souvenirs en Tulum y tacos en la Taquería Eufemia. © Macarena Escrivá")
 
 Cuando cae la tarde, podéis daros un paseo por la zona del pueblo mágico de Tulum. Aquí 
 es donde se ve la vida real de los mexicanos que habitan en esta zona. Podréis traeros 

@@ -1,19 +1,19 @@
 ---
 title: "¿Por qué se come tan bien en Valladolid?"
 date: 2019-01-31
-coverImage: etheria_images/2019/01/comer-valladolid-Jero.jpg
+coverImage: etheria-images/2019/01/comer-valladolid-Jero.jpg
 categories: 
   - viajes-48-horas
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 La combinación de mesones castellanos, tascas de toda la vida y locales cosmopolitas hacen de Valladolid un destino ideal para un fin de semana gastro con amigas. Desde Etheria Magazine lo comprobamos empezando la ruta por 'parroquias’ que no tienen ni un santo, pero sí mucho vino. ¡Hay tantas opciones!
 
-![Edificios de la plaza mayor de Valladolid al atardecer](etheria_images/2019/01/viaje-mujeres-valladolid-1024x647.jpg "Plaza Mayor de Valladolid. © Kelu Robles")
+![Edificios de la plaza mayor de Valladolid al atardecer](etheria-images/2019/01/viaje-mujeres-valladolid-1024x647.jpg "Plaza Mayor de Valladolid. © Kelu Robles")
 
 Es la hora del vermú de un sábado y toca hacer hueco para alcanzar la barra de **La 
 Cárcava**. “¡Un Mortadelo, dos Guanches, un Torrente!”. Las manos del camarero no dejan 
@@ -24,7 +24,7 @@ Tapas](https://www.concursonacionaldepinchosytapas.com/)**, que ya cuenta con XI
 ediciones, pero su éxito va más allá de **tapas** y buenas comunicaciones. No te pierdas 
 nuestra guía de bares en Valladolid para triunfar en tu próxima escapada con amigas. 
 
-![Bar de pinchos en Valladolid](etheria_images/2019/01/comer-valladolid-Jero-1024x651.jpg "Restaurante Jero. © G. Villamil-El Norte de Castilla")
+![Bar de pinchos en Valladolid](etheria-images/2019/01/comer-valladolid-Jero-1024x651.jpg "Restaurante Jero. © G. Villamil-El Norte de Castilla")
 
 ## Picoteo en el centro histórico de Valladolid
 
@@ -34,7 +34,7 @@ toda clase de mini elaboraciones donde entran en juego huevos de codorniz, pimie
 asados, salmón ahumado, solomillo con foie —y mucho más— en innumerables combinaciones, 
 pero casi siempre sobre los cimientos de una rebanada de pan. 
 
-![Tapa salada con forma de Tigretón](etheria_images/2019/01/comer-valladolid-los-zagales-1024x669.jpg "Tapa del © Restaurante Los Zagales.")
+![Tapa salada con forma de Tigretón](etheria-images/2019/01/comer-valladolid-los-zagales-1024x669.jpg "Tapa del © Restaurante Los Zagales.")
 
 Desde que en el año 2010 el **pincho Tigretostón** ganara el VI Concurso Nacional de 
 Tapas, [la cocina de Los Zagales](http://www.loszagales.com/) sigue gozando de una 
@@ -43,7 +43,7 @@ por morcilla, queso, cebolla roja y pan de centeno con un resultado muy original
 Además, el local cuenta con una privilegiada ubicación junto a la Plaza Mayor (Calle 
 Pasión, 13). 
 
-![Bocadito de bonito con anchoas](etheria_images/2019/01/comer-valladolid-la-tasquita.jpg "Bocadito de bonito con anchoas de La Tasquita.")
+![Bocadito de bonito con anchoas](etheria-images/2019/01/comer-valladolid-la-tasquita.jpg "Bocadito de bonito con anchoas de La Tasquita.")
 
 Es preciso hacer un alto en el camino para rendirse ante **las croquetas de** [El 
 Corcho](https://www.facebook.com/pages/category/Tapas-Bar---Restaurant/Bar-El-Corcho-169168739789850/), 
@@ -64,7 +64,7 @@ N-122](https://etheriamagazine.com/2018/05/21/rutas-del-vino-ribera-del-duero-va
 te ofrecemos una divertida escapada enoturística por la provincia con paradas en 
 Peñafiel, Protos y Villacreces. 
 
-![cocineras de un bar de Valladolid con una tortilla de patatas](etheria_images/2019/01/comer-valladolid-restrobar-tigo-migo-1024x619.jpg "Marina Cruz y Sara Cabello, del Restrobar Tigo y Migo.")
+![cocineras de un bar de Valladolid con una tortilla de patatas](etheria-images/2019/01/comer-valladolid-restrobar-tigo-migo-1024x619.jpg "Marina Cruz y Sara Cabello, del Restrobar Tigo y Migo.")
 
 ## Bocados para todos
 
@@ -74,7 +74,7 @@ refleja en la atención con la que tratan a sus clientes y en el mimo con el que
 sus menús diarios. La tortilla de patata y la **lasaña de boletus** con aceite de trufa 
 merecen una mención especial. 
 
-![Fachada de Casa Tino](etheria_images/2019/01/comer-valladolid-casa-tino-1024x685.jpg "(©) Casa Tino, un clásico de Valladolid.")
+![Fachada de Casa Tino](etheria-images/2019/01/comer-valladolid-casa-tino-1024x685.jpg "(©) Casa Tino, un clásico de Valladolid.")
 
 Tomando como referente el antiguo Suazo —una casa de comidas del año 1939—, Tino 
 Martínez y Gloria López fundaron **Casa Tino** en el mismo local, pero cincuenta y 
@@ -89,7 +89,7 @@ sus 26 años de historia respaldan con éxito la sencillez de su menú. ¿Para q
 > de [El Majao de Sebi](https://www.facebook.com/ElMajaoDeSebi/) porque nunca defraudan. 
 > La privilegiada situación de su terraza, en plena Plaza Mayor, es un punto a su favor. 
 
-![concierto en un bar](etheria_images/2019/01/comer-valladolid-gastrolava-1024x650.jpg "© Interior de GastroLAVA durante uno de sus eventos.")
+![concierto en un bar](etheria-images/2019/01/comer-valladolid-gastrolava-1024x650.jpg "© Interior de GastroLAVA durante uno de sus eventos.")
 
 ## Comer con estilo
 
@@ -101,7 +101,7 @@ el último detalle: el ambiente, las elaboraciones, su refinada vajilla londinen
 su carta nos quedamos con el **tartar de atún aliñado**, con los raviolis de rabo de 
 toro y con la torrija de pan brioche. 
 
-![tapas de bares de Valladolid](etheria_images/2019/01/comer-valladolid-damaso-gabi-garcia-1024x387.jpg "(Izq.) La afamada crema de ajoarriero, foie fresco a la plancha y lengua de vaca ahumada del Restaurante Dámaso. (Dcha.) Sardina ahumada con escalibada de lechugas y vinagreta de huevas de mújol y cebollino, del Restaurante Gabi García.")
+![tapas de bares de Valladolid](etheria-images/2019/01/comer-valladolid-damaso-gabi-garcia-1024x387.jpg "(Izq.) La afamada crema de ajoarriero, foie fresco a la plancha y lengua de vaca ahumada del Restaurante Dámaso. (Dcha.) Sardina ahumada con escalibada de lechugas y vinagreta de huevas de mújol y cebollino, del Restaurante Gabi García.")
 
 Dejarse llevar por los guisos de temporada es una de las filosofías del **Restaurante 
 Dámaso**. No existe una carta como tal, y es el propio chef el encargado de recitar ante 
@@ -111,7 +111,7 @@ Gabi García](http://restaurantegabigarcia.es/). En sus mandamientos destaca el 
 por los productos de cercanía, como las alcachofas y los **espárragos de Tudela de 
 Duero**. 
 
-![bar moderno con barra de madera](etheria_images/2019/01/comer-valladolid-corinto-gastro-lounge.jpg "© Corinto Gastro Lounge.")
+![bar moderno con barra de madera](etheria-images/2019/01/comer-valladolid-corinto-gastro-lounge.jpg "© Corinto Gastro Lounge.")
 
 El ambiente distendido del [Corinto Gastro Lounge](https://corintovalladolid.es/) lo 
 convierte en un lugar ideal para una **cena con amigas en el centro de Valladolid**. Su 
@@ -120,7 +120,7 @@ toques industriales, y sus dos barras, una más expuesta a la calle y otra más 
 dentro del restaurante. La carta combina lo urbano de las hamburguesas y los sándwiches 
 con opciones como el **tataki de atún rojo** y las albóndigas de carrillera. 
 
-![taberna wabi sabi](etheria_images/2019/01/comer-valladolid-wabi-sabi-1024x736.jpg "© Taberna Wabi Sabi.")
+![taberna wabi sabi](etheria-images/2019/01/comer-valladolid-wabi-sabi-1024x736.jpg "© Taberna Wabi Sabi.")
 
 ## Otros aires vallisoletanos
 
@@ -132,7 +132,7 @@ que indica su nombre: Wabi-Sabi compagina el minimalismo con la calidez de la
 naturaleza. No dudes en llevar a tu pareja para disfrutar de una **velada romántica** y 
 exótica. 
 
-![mujer con tabla de quesos](etheria_images/2019/01/comer-valladolid-le-dolmen-1024x799.jpg "Pilar Magdaleno, de Le Dolmen.")
+![mujer con tabla de quesos](etheria-images/2019/01/comer-valladolid-le-dolmen-1024x799.jpg "Pilar Magdaleno, de Le Dolmen.")
 
 **Le Dolmen** trae un pedacito de la gastronomía francesa a la orilla del río Esgueva 
 (Paseo del Cauce, 52). Sólo por el mimo con el que su directora, Pilar Magdaleno, narra 
@@ -153,7 +153,7 @@ sido rehabilitado rindiendo homenaje a su propia memoria.
 > Vasos de Duralex, mesas con ribetes dorados y una gran barra de mármol nos invitan a 
 > retroceder a los años ochenta, la década en la que fue fundado. 
 
-![restaurante el farolito](etheria_images/2019/01/comer-valladolid-farolito.jpg "© El Farolito (Valladolid).")
+![restaurante el farolito](etheria-images/2019/01/comer-valladolid-farolito.jpg "© El Farolito (Valladolid).")
 
 Si el frío o la lluvia arrecian, a pocos metros podemos cobijarnos en el elegante 
 **Pasaje Gutiérrez**. Es una de las tres galerías comerciales del siglo XIX que quedan 

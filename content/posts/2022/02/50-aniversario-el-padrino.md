@@ -1,18 +1,18 @@
 ---
 title: "El Padrino vuelve a los cines en 4K para celebrar su 50 aniversario"
 date: 2022-02-23
-coverImage: etheria_images/2022/02/portada-El-Padrino-50-Anos.jpg
+coverImage: etheria-images/2022/02/portada-El-Padrino-50-Anos.jpg
 categories: 
   - viajes-cine
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 Este año se cumple el 50 aniversario del estreno de la película _El Padrino_, la primera de la mítica trilogía, y vuelve a los cines el 25 de febrero en una versión completamente restaurada. Si aún no la has visto, "es una oferta que no podrás rechazar". Y, si ya eres fan, seguro que la disfrutarás con el cóctel homónimo entre las manos.
 
-![50 aniversario de pelicula el padrino](etheria_images/2022/02/El-Padrino-50-Aniversario.jpg "50 aniversario de El Padrino.")
+![50 aniversario de pelicula el padrino](etheria-images/2022/02/El-Padrino-50-Aniversario.jpg "50 aniversario de El Padrino.")
 
 Ya han pasado cincuenta años desde que se estrenase _El Padrino_, la gran obra maestra 
 del escritor Mario Puzo y del director de cine Francis Ford Coppola. Desde este mes de 
@@ -32,7 +32,7 @@ organizado, se puso a unir recuerdos de infancia con ficciones protagonizadas po
 mafiosos. De ese cóctel literario nació un éxito universal: **_The Godfather_ (_El 
 Padrino_)**. 
 
-![libro el padrino de mario puzo](etheria_images/2022/02/libro-el-padrino-675x1024.jpg)
+![libro el padrino de mario puzo](etheria-images/2022/02/libro-el-padrino-675x1024.jpg)
 
 ##### El libro _El Padrino_ fue uno de los bestsellers más vendidos en su día.
 
@@ -51,7 +51,7 @@ Con los personajes protagonistas (Vito Corleone y sus tres hijos), Puzo forjó p
 tridimensionales, capaces de las mayores crueldades y también de tener gestos tiernos. 
 Don Corleone era amado, admirado y temido… escapando de manidos estereotipos. 
 
-![Marlon Brando y Francis Ford Coppola durante el rodaje de El Padrino](etheria_images/2022/02/Marlon-Brando-y-Francis-Ford-Coppola.jpg "Marlon Brando y Francis Ford Coppola durante el rodaje de El Padrino, en 1971.")
+![Marlon Brando y Francis Ford Coppola durante el rodaje de El Padrino](etheria-images/2022/02/Marlon-Brando-y-Francis-Ford-Coppola.jpg "Marlon Brando y Francis Ford Coppola durante el rodaje de El Padrino, en 1971.")
 
 ## Inspiración familiar
 
@@ -85,7 +85,7 @@ productores para que le aceptasen para protagonizar la película.
 > Película, Mejor Actor (Marlon Brando) y Mejor Guion Adaptado (Francis Ford Coppola y 
 > Mario Puzo). 
 
-![coctel the godfather especial 50 aniversario](etheria_images/2022/02/coctel-the-godfather.jpg "Cóctel The Godfather. © Pedro Grifol")
+![coctel the godfather especial 50 aniversario](etheria-images/2022/02/coctel-the-godfather.jpg "Cóctel The Godfather. © Pedro Grifol")
 
 ## The Godfather: historia de un cóctel
 
@@ -118,7 +118,7 @@ abandonarle. En su desasosiego, el pintor preparó un licor para su amada con hi
 su jardín al que le añadió almendras amargas en señal de dolor por su partida. Así fue 
 como nació el licor Amaretto di Saronno. 
 
-[![coctel especial de El padrino en grifols bar](etheria_images/2022/02/coctel-grifols-bar.jpg "Haz click en la imagen para aprender a hacer el cóctel The Godfather.")](https://www.youtube.com/watch?v=GHFAwl36A4o)
+[![coctel especial de El padrino en grifols bar](etheria-images/2022/02/coctel-grifols-bar.jpg "Haz click en la imagen para aprender a hacer el cóctel The Godfather.")](https://www.youtube.com/watch?v=GHFAwl36A4o)
 
 #### Cómo preparar el cóctel The Godfather o El Padrino
 
@@ -133,7 +133,7 @@ Vito Corleone:_ “_The Godfather, un cóctel que no podrás rechazar_”. En el
 Youtube **Grifol's Bar** puedes aprender a preparar este histórico cóctel (link en la 
 imagen superior). 
 
-![Libro sobre el 50 aniversario de El Padrin](etheria_images/2022/02/el-padrino-libro.jpg)
+![Libro sobre el 50 aniversario de El Padrin](etheria-images/2022/02/el-padrino-libro.jpg)
 
 Puedes encontrar el libro sobre el [50 Aniversario de El 
 Padrino](https://amzn.to/3saxRKN) en Amazon por unos 30 €. La edición especial de la 

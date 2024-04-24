@@ -1,11 +1,11 @@
 ---
 title: "Cruceros originales para vivir unas vacaciones diferentes"
 date: 2023-02-24
-coverImage: etheria_images/2023/02/crucero-alaska-glacier-bay.jpg
+coverImage: etheria-images/2023/02/crucero-alaska-glacier-bay.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Viajar en crucero siempre es una buena opción cuando se quiere descansar y no pensar 
@@ -13,7 +13,7 @@ mucho en la ruta y los alojamientos. La oferta es casi infinita en itinerarios y
 de barcos, así que hemos seleccionado 10 cruceros originales con los que hacer un viaje 
 diferente. Seguro que te van a apetecer muchísimo. 
 
-![Un crucero original de Variety Cruises por las islas Seychelles](etheria_images/2023/02/cruceros-originales-variety-cruises-seychelles.jpg "Crucero de © Variety Cruises por las islas Seychelles.")
+![Un crucero original de Variety Cruises por las islas Seychelles](etheria-images/2023/02/cruceros-originales-variety-cruises-seychelles.jpg "Crucero de © Variety Cruises por las islas Seychelles.")
 
 Las opciones para pasar tus vacaciones a bordo de un barco son muy variadas, aunque la 
 decisión se suele centrar en elegir cuál es el más adecuado según tus intereses y 
@@ -29,7 +29,7 @@ históricas sin hacer y deshacer maletas. Cómodos, tranquilos y con embarques y
 desembarques sencillos, permiten llegar a los cascos históricos de las ciudades en un 
 momento. 
 
-![Crucero por Países Bajos y Holanda de Icarion](etheria_images/2023/02/Cruceros-originales-holanda-paises-bajos.jpg "Crucero por Países Bajos y Holanda de © Icarion.")
+![Crucero por Países Bajos y Holanda de Icarion](etheria-images/2023/02/Cruceros-originales-holanda-paises-bajos.jpg "Crucero por Países Bajos y Holanda de © Icarion.")
 
 Los más habituales son por la parte alemana del Rin, por eso nos ha gustado tanto la 
 propuesta de [Icarion](https://www.icarion.es/viaje/crucero-por-el-rin-paises-bajos-y-belgica) 
@@ -52,7 +52,7 @@ es una naviera que se caracteriza por la libertad y flexibilidad que ofrece a lo
 cruceristas, sin turnos de comida y con **código de vestimenta informal**. Este crucero 
 se puede reservar para enero y marzo de 2024. 
 
-![Barco de NCL frente a Ciudad del Cabo.](etheria_images/2023/02/cruceros-originales-norwegian-jade.jpg "Barco de © NCL frente a Ciudad del Cabo.")
+![Barco de NCL frente a Ciudad del Cabo.](etheria-images/2023/02/cruceros-originales-norwegian-jade.jpg "Barco de © NCL frente a Ciudad del Cabo.")
 
 ## Fiordos de la Patagonia chilena
 
@@ -66,7 +66,7 @@ charlas de especialistas en naturaleza a bordo, lo que hace que sea una experien
 crucero única. Y si a esto le sumas los maravillosos paisajes que contemplarás desde la 
 cubierta, el viaje quedará como un recuerdo imborrable. 
 
-![Barco de Navimag por los fiordos chilenos.](etheria_images/2023/02/Cruceros-originales-Navimag.jpg "Barco de © Navimag por los fiordos chilenos.")
+![Barco de Navimag por los fiordos chilenos.](etheria-images/2023/02/Cruceros-originales-Navimag.jpg "Barco de © Navimag por los fiordos chilenos.")
 
 ?Infórmate en [Crucero por los fiordos y canales de la Patagonia 
 chilena](https://etheriamagazine.com/2019/03/22/viajar-sola-crucero-fiordos-canales-patagonia-chile/) 
@@ -78,7 +78,7 @@ es una forma muy cómoda de recorrer esta remota región en la que, además, las
 poblaciones principales suelen estar en la cosa. Y su paisaje de fiordos y glaciares te 
 acompañará durante todo el trayecto. 
 
-![Barco de cruceros por Glacier Bay, en Alaska.](etheria_images/2023/02/crucero-alaska-glacier-bay.jpg "Barco de cruceros por Glacier Bay, en Alaska.")
+![Barco de cruceros por Glacier Bay, en Alaska.](etheria-images/2023/02/crucero-alaska-glacier-bay.jpg "Barco de cruceros por Glacier Bay, en Alaska.")
 
 La naviera **Holland America Line** (hollandamerica.com) tiene una gran experiencia en 
 organizar cruceros originales en este destino y los combina con estancias en el Parque 
@@ -99,7 +99,7 @@ equipado con un Centro de Ciencias de aprendizaje interactivo. Y, por supuesto, 
 hay espacios para el relax en la sauna y el jacuzzi o contemplando los bonitos paisajes 
 de la isla desde su salón panorámico. 
 
-![Barco MS Maud de Hurtigruten](etheria_images/2023/02/cruceros-originales-maud-hurtigruten.jpg "Barco de © Hurtigruten por Islandia.")
+![Barco MS Maud de Hurtigruten](etheria-images/2023/02/cruceros-originales-maud-hurtigruten.jpg "Barco de © Hurtigruten por Islandia.")
 
 ?Te lo contamos en este artículo: [‘Círculo de hielo y fuego’, conoce la nueva ruta del 
 Hurtigruten en Islandia](https://etheriamagazine.com/2023/01/12/hurtigruten-islandia/) 
@@ -113,7 +113,7 @@ original como el que propone **Variety Cruises** a bordo de su barco **Pegasus**
 embarcación tipo yate, con solo 21 cabinas, ofrece una navegación sosegada y exclusiva, 
 en la que todo está pensado para unas vacaciones perfectas. 
 
-![Barco Pegasus por las Islas Seychelles.](etheria_images/2023/02/cruceros-originales-seychelles-variety-cruises.jpg "Barco Pegasus por las Islas Seychelles. © Variety Cruises")
+![Barco Pegasus por las Islas Seychelles.](etheria-images/2023/02/cruceros-originales-seychelles-variety-cruises.jpg "Barco Pegasus por las Islas Seychelles. © Variety Cruises")
 
 Su crucero de siete noches, con salida y llegada a Mahe, incluye islas conocidas como 
 Praslin o La Digue e islas deshabitadas como Curieuse o resevas de protección de aves 
@@ -131,7 +131,7 @@ igualar. Por eso es tan interesante conocer esta región del mundo desde el punt
 vista de este río y hacerlo a bordo de un crucero (original y de lujo) aporta la 
 innegable ventaja de la comodidad. 
 
-![Crucero original por el río Mekong](etheria_images/2023/02/cruceros-originales-Aqua-Mekong.jpg "Crucero por el río Mekong.")
+![Crucero original por el río Mekong](etheria-images/2023/02/cruceros-originales-Aqua-Mekong.jpg "Crucero por el río Mekong.")
 
 Uno de los barcos que lo recorren es el **Aqua Mekong**, concretamente desde Mỹ Tho, en 
 Vietnam, hasta Phnom Penh, la capital de Camboya. Entre medias, paradas en lugares 
@@ -152,7 +152,7 @@ merece mucho la pena ya que tiene la ventaja de ver las principales ciudades de 
 Árabes Unidos (Dubái y Abu Dhabi), Qatar y Omán en un único viaje sin el elevado coste 
 de los hoteles de esta zona del mundo. 
 
-![MSC Grand Europa un crucero original que navega por Oriente Medio](etheria_images/2023/02/cruceros-originales-msc-grand-europa.jpg "MSC Grand Europa es uno de los barcos de © MSC que navega por Oriente Medio.")
+![MSC Grand Europa un crucero original que navega por Oriente Medio](etheria-images/2023/02/cruceros-originales-msc-grand-europa.jpg "MSC Grand Europa es uno de los barcos de © MSC que navega por Oriente Medio.")
 
 **MSC Cruceros** (msccruceros.es) ofrece varias alternativas de itinerario para un 
 crucero de siete noches, con opciones de salida de Dubái o Abu Dhabi, visitando Doha en 
@@ -169,7 +169,7 @@ días suficientes, una buena opción es hacer este viaje a bordo de un barco de 
 Te ahorras la tarea de hacer y deshacer maletas constantemente y las tediosas escalas en 
 los aeropuertos. 
 
-![Costa Deliziosa, barco de Costa Cruceros.](etheria_images/2023/02/cruceros-originales-costa-deliziosa.jpg "Costa Deliziosa, barco de © Costa Cruceros.")
+![Costa Deliziosa, barco de Costa Cruceros.](etheria-images/2023/02/cruceros-originales-costa-deliziosa.jpg "Costa Deliziosa, barco de © Costa Cruceros.")
 
 Una de las navieras que ofrecen este tipo de crucero es **Costa Cruceros** 
 (costacruceros.es) que, con su barco Costa Deliziosa, propone una salida desde Barcelona 
@@ -191,7 +191,7 @@ enólogos y que incluyen catas y maridajes. Y, por supuesto, excursiones a las r
 del vino para visitar viñedos y bodegas únicas. Puedes reservar los cruceros de SeaDream 
 en la agencia **Mundomar** (mundomarcruceros.com). 
 
-![Barco SeaDream un crucero original con parada en Bonifacio](etheria_images/2023/02/cruceros-originales-seabourn-bonifacio.jpg "Barco SeaDream de la naviera de lujo MSC Grand Europa © Seabourn en Bonifacio (Francia).")
+![Barco SeaDream un crucero original con parada en Bonifacio](etheria-images/2023/02/cruceros-originales-seabourn-bonifacio.jpg "Barco SeaDream de la naviera de lujo MSC Grand Europa © Seabourn en Bonifacio (Francia).")
 
 ? **Además de cruceros originales también te puede interesar...** 
 

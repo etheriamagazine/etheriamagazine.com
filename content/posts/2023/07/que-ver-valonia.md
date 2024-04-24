@@ -1,11 +1,11 @@
 ---
 title: "12 motivos por los que viajar a Valonia, la región más desconocida de Bélgica"
 date: 2023-07-03
-coverImage: etheria_images/2023/06/Valonia-Grand-Place-Mons.jpg
+coverImage: etheria-images/2023/06/Valonia-Grand-Place-Mons.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
@@ -14,7 +14,7 @@ Luxemburgo y Países Bajos, esconde muchos tesoros. Os desvelamos qué ver en Va
 cómo sacar el máximo partido a un destino tan sorprendente como cautivador, que es 
 perfecto para organizar una escapada con amigas. 
 
-![Panorámica de Dinant desde la ciudadela](etheria_images/2023/06/Valonia-Dinant-desde-la-ciudadela.jpg "Panorámica de Dinant desde la ciudadela. © Yolanda Cardo.")
+![Panorámica de Dinant desde la ciudadela](etheria-images/2023/06/Valonia-Dinant-desde-la-ciudadela.jpg "Panorámica de Dinant desde la ciudadela. © Yolanda Cardo.")
 
 Bélgica es mucho más que Flandes y Bruselas. Y es que, más allá de la flamante capital 
 europea, y las populares Brujas, Amberes y Flandes, se extiende esta bella región 
@@ -39,7 +39,7 @@ las tradicionales **fiestas de la Ducasse de Mons o Doudou**, unos festejos que 
 sus raíces en el siglo XIV, reconocidos como Patrimonio Cultural Inmaterial de la Unesco 
 desde 2005. 
 
-![Grand Place de Mons.](etheria_images/2023/06/Valonia-Grand-Place-Mons.jpg "Grand Place de Mons. © Gregory Mathelot")
+![Grand Place de Mons.](etheria-images/2023/06/Valonia-Grand-Place-Mons.jpg "Grand Place de Mons. © Gregory Mathelot")
 
 Apenas unos pocos pasos nos separan del único _**beffroi**_ (campanario civil) barroco 
 de Bélgica. Una atalaya de 87 metros de altura, reconocida también por la Unesco, 
@@ -60,7 +60,7 @@ dans la ville**_. Además, si viajáis a Mons entre el 1 de julio y el 8 de octu
 podréis ver en el centro histórico la **exposición de Jaume Plensa _Algo Sagrado_**, 
 conformada por una quincena de sus maravillosas esculturas monumentales. 
 
-![pintura mural en Mons](etheria_images/2023/06/Valonia-Street-Art-Mons.jpg "Street Art en las calles de Mons. © Yolanda Cardo.")
+![pintura mural en Mons](etheria-images/2023/06/Valonia-Street-Art-Mons.jpg "Street Art en las calles de Mons. © Yolanda Cardo.")
 
 ### El Mundaneum, el “Google de papel”
 
@@ -72,7 +72,7 @@ solo pretendían reunir todo el saber humano, también buscaban difundirlo con e
 propósito de mejorar las relaciones internacionales y lograr así un mundo mejor. Un 
 proyecto conocido como el “Google de papel”. 
 
-![globo terráqueo en el Mundaneum](etheria_images/2023/06/Valonia-Mundaneum-mons.jpg "El Mundaneum, uno de los museos más interesantes de Mons. © Mundaneum")
+![globo terráqueo en el Mundaneum](etheria-images/2023/06/Valonia-Mundaneum-mons.jpg "El Mundaneum, uno de los museos más interesantes de Mons. © Mundaneum")
 
 ### Museo Memorial de Mons
 
@@ -101,7 +101,7 @@ abandonado. El arquitecto Henri Guchez lo salvó del derribo tras adquirir el co
 convertido en uno de los referentes culturales de Bélgica consagrado a la creación 
 contemporánea, y desde 2012 engrosa la lista patrimonial de la Unesco. 
 
-![Le Grand Hornú en Mons](etheria_images/2023/06/Valonia-Le-Grand-Hornu.jpg "Le Grand Hornú. Un antiguo complejo industrial minero reconvertido en espacio cultural. © Yolanda Cardo.")
+![Le Grand Hornú en Mons](etheria-images/2023/06/Valonia-Le-Grand-Hornu.jpg "Le Grand Hornú. Un antiguo complejo industrial minero reconvertido en espacio cultural. © Yolanda Cardo.")
 
 #### Casa de Van Gogh, el origen de un artista
 
@@ -113,7 +113,7 @@ condiciones de sus gentes, que determinaron su destino artístico. La **casa-mus
 Gogh de Colfontaine** es una visita imprescindible para conocer el origen del nacimiento 
 de Van Gogh como artista. 
 
-![jardín de la Casa-museo Van Gogh](etheria_images/2023/06/Valonia-Casa-museo-Van-Gogh.jpg "Casa-museo Van Gogh. © VisitMons")
+![jardín de la Casa-museo Van Gogh](etheria-images/2023/06/Valonia-Casa-museo-Van-Gogh.jpg "Casa-museo Van Gogh. © VisitMons")
 
 ## Dinant, “la perla del Mosa”
 
@@ -136,7 +136,7 @@ ciudad en 1466 por las tropas de Carlos el Temerario; la ocupación del rey de F
 Luis XIV a finales del XVII; o los cruentos combates entre franceses y alemanes durante 
 la Gran Guerra. 
 
-![Dinant frente al río](etheria_images/2023/06/Valonia-Dinant.jpg "Dinant es conocida como la "perla del Mosa". © Yolanda Cardo")
+![Dinant frente al río](etheria-images/2023/06/Valonia-Dinant.jpg "Dinant es conocida como la "perla del Mosa". © Yolanda Cardo")
 
 ### La Colegiata
 
@@ -168,7 +168,7 @@ estos decidieron sustituir el pescado frito por **patatas cortadas en forma de
 pescado**. Así nació esta guarnición tradicional, todo un 'must' de la gastronomía 
 belga. 
 
-![Namur con barcos en el río](etheria_images/2023/06/Valonia-Namur.jpg "La ciudad universitaria de Namur es la capital de la región valona. © Yolanda Cardo")
+![Namur con barcos en el río](etheria-images/2023/06/Valonia-Namur.jpg "La ciudad universitaria de Namur es la capital de la región valona. © Yolanda Cardo")
 
 Su **Ciudadela**, erigida sobre un vasto entramado de galerías subterráneas al que 
 Napoleón definió como “el termitero de Europa”, es el buque insignia de Namur y una 
@@ -190,7 +190,7 @@ La **Grand Place** es la otra gran protagonista de Tournai, con sus hermosos edi
 como el Halle aux Draps, un antiguo mercado de telas; el edificio de la Conciergerie des 
 Halles; o la iglesia románica de San Quintín. 
 
-![catedral de Tournai](etheria_images/2023/06/Valonia-Catedral-Tournai.jpg "Catedral de Tournai, la ciudad de los cinco campanarios. © Yolanda Cardo")
+![catedral de Tournai](etheria-images/2023/06/Valonia-Catedral-Tournai.jpg "Catedral de Tournai, la ciudad de los cinco campanarios. © Yolanda Cardo")
 
 Merece la pena alejarse un poco del centro neurálgico para visitar el **Museo de Bellas 
 Artes**, obra de Victor Horta, el famoso arquitecto belga, precursor del Art Nouveau; y 
@@ -212,7 +212,7 @@ largo periodo, la abadía gozó de fama e influencia y sus dominios abarcaban un
 superficie aproximada de 10.000 hectáreas. Hasta un centenar de monjes y trescientos 
 laicos llegaron a vivir en el recinto en su época de máximo apogeo. 
 
-![abadía cisterciense de Vilers](etheria_images/2023/06/Valonia-abadia-Villers.jpg "La abadía de Villers. Un extraordinario conjunto arquitectónico cisterciense. © Yolanda Cardo")
+![abadía cisterciense de Vilers](etheria-images/2023/06/Valonia-abadia-Villers.jpg "La abadía de Villers. Un extraordinario conjunto arquitectónico cisterciense. © Yolanda Cardo")
 
 La guerra de Flandes y la Revolución francesa contribuyeron a su decadencia, quedando 
 abandonada definitivamente en 1796. El Siglo XIX le concedió un nuevo periodo de 

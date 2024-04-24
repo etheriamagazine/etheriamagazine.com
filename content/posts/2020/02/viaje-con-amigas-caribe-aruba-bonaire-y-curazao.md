@@ -1,13 +1,13 @@
 ---
 title: "Aruba, Bonaire y Curazao, tres joyas caribeñas que son un sueño"
 date: 2020-02-12
-coverImage: etheria_images/2020/02/Curaçao-laguna-Willemstad.jpg
+coverImage: etheria-images/2020/02/Curaçao-laguna-Willemstad.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
-  - Ana Maria Pareja
+authors: 
+  - Ana María Pareja
 ---
 
 Estas joyas caribeñas son pequeñas en tamaño pero grandes en diversión. La energía de 
@@ -15,7 +15,7 @@ sus capitales –de marcada influencia neerlandesa–, sus playas de ensueño, s
 de colores y sabores, y una gran oferta de planes al aire libre confirman por qué cada 
 vez están más presentes en los radares turísticos. 
 
-![playa en Aruba](etheria_images/2020/02/Aruba-playa-rodgers-900x639.jpg "Rodger's Beach en Aruba. © Julie Lascaris")
+![playa en Aruba](etheria-images/2020/02/Aruba-playa-rodgers-900x639.jpg "Rodger's Beach en Aruba. © Julie Lascaris")
 
 A las islas ABC (Aruba, Bonaire y Curazao), hoy territorios independientes bajo el seno 
 de los Países Bajos, hay que buscarlas en el Caribe sur, a 50 kilómetros de la costa de 
@@ -45,7 +45,7 @@ dan cita las danzas folclóricas, los trajes típicos, el arte y la gastronomía
 escenario es el patio del Fuerte Zoutman, el edificio más antiguo de Aruba (1798), 
 construido para proteger a la ciudad de posibles ataques piratas. 
 
-![ola en Aruba](etheria_images/2020/02/Aruba-ola-900x600.jpg "Mar en Aruba. © David Troeger")
+![ola en Aruba](etheria-images/2020/02/Aruba-ola-900x600.jpg "Mar en Aruba. © David Troeger")
 
 Hay que acercarse hasta el histórico **Faro California**, al norte de la isla, desde 
 cuyo mirador pueden divisarse los impresionantes riscos de piedra caliza de la costa. 
@@ -65,7 +65,7 @@ Cosecha, mitad taller de arte, mitad galería, o en el Charlie’s bar, famoso d
 los buzos comenzaron a colgar en las paredes y en el techo todo lo que descubrían bajo 
 el agua, convirtiéndolo en una especie de museo. 
 
-![yate en embarcadero en Aruba](etheria_images/2020/02/Aruba-embarcadero-900x598.jpg "Playa en Aruba. © Paulo Evangelista")
+![yate en embarcadero en Aruba](etheria-images/2020/02/Aruba-embarcadero-900x598.jpg "Playa en Aruba. © Paulo Evangelista")
 
 ## Bonaire, naturaleza en estado puro
 
@@ -98,7 +98,7 @@ iguanas en el **Parque Nacional Washington-Slagbaai**, hasta explorar las antigu
 formaciones de estalactitas y estalagmitas de su amplio sistema de cuevas. En Bonaire la 
 diversión en la naturaleza lo es todo. 
 
-![Flamenco y tortuga en el Caribe](etheria_images/2020/02/Aruba-fauna-900x674.jpg "La fauna autóctona es uno de los alicientes para visitar las islas ABC. © Raoul Croes/David Troeger")
+![Flamenco y tortuga en el Caribe](etheria-images/2020/02/Aruba-fauna-900x674.jpg "La fauna autóctona es uno de los alicientes para visitar las islas ABC. © Raoul Croes/David Troeger")
 
 ## Curazao, explosión de colores y culturas
 
@@ -113,7 +113,7 @@ Uno de los mayores tesoros naturales de la isla recaen en las **Cuevas Hato**, c
 impresionantes estalactitas y estalagmitas con dibujos de hace 1.500 años, o en el 
 **Parque Nacional Christoffel** y su exótica vida salvaje. 
 
-![playa en Curazao.](etheria_images/2020/02/Curazao-playa-900x600.jpg "Una de las playas de Curazao. © Jorgen Hendriksen")
+![playa en Curazao.](etheria-images/2020/02/Curazao-playa-900x600.jpg "Una de las playas de Curazao. © Jorgen Hendriksen")
 
 Aparte de tomar el sol en sus más de 35 idílicas playas, de aguas cristalinas y arena 
 fina, como Mambo Beach, Kenepa o Kalki, la isla más grande de las ABC hay que 
@@ -129,7 +129,7 @@ orgullosos al mar. De un lado está **Punda**, en el que sorprende la sinagoga M
 Israel-Emanuel, la más antigua de América aún en funcionamiento, o el museo Kura Hulanda 
 que evidencia el comercio de esclavos provenientes de África. 
 
-![Fachadas de colores de Willemstad.](etheria_images/2020/02/Curazao-Willemstad-900x599.jpg "Fachadas de Willemstad. © Matthew T. Rader")
+![Fachadas de colores de Willemstad.](etheria-images/2020/02/Curazao-Willemstad-900x599.jpg "Fachadas de Willemstad. © Matthew T. Rader")
 
 Cruzando el icónico puente de la Reina Emma, está el barrio **Otrobanda**, en el que hay 
 que visitar el RIF Fort, un baluarte construido en 1828 y reconvertido en centro de 

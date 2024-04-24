@@ -1,17 +1,20 @@
 ---
 title: "Center Parcs Eemhof, tu alojamiento familiar en Holanda"
 date: 2018-08-11
-coverImage: etheria_images/2018/07/Center-Parcs-Eemhof-cabana.jpg
+coverImage: etheria-images/2018/07/Center-Parcs-Eemhof-cabana.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
-Este complejo vacacional, situado en una de las zonas menos pobladas de Holanda, se encuentra entre los mejores alojamientos del país para familias. Te costará convencer a los niños para salir de allí y realizar excursiones, ya que ofrece un amplio abanico de ocio en medio de la naturaleza.
+El complejo vacacional Center Parcs Eemhof, situado en una de las zonas menos pobladas 
+de Holanda, se encuentra entre los mejores alojamientos del país para familias. Te 
+costará convencer a los niños para salir de allí y realizar excursiones, ya que ofrece 
+un amplio abanico de ocio en medio de la naturaleza. 
 
-![Zona interior de juegos en Center Parcs Eemhof](etheria_images/2018/07/Center-Parcs-Eemhof-interior.jpg "Action Factory, la zona cubierta de ocio en De Eemhof. © Milan Vermeulen")
+![Zona interior de juegos en Center Parcs Eemhof](etheria-images/2018/07/Center-Parcs-Eemhof-interior.jpg "Action Factory, la zona cubierta de ocio en De Eemhof. © Milan Vermeulen")
 
 La cadena de alojamientos **Center Parcs** cuenta con varios complejos en Holanda, 
 Bélgica, Alemania Francia y Reino Unido. Sus puntos en común es que están ubicados en 
@@ -24,12 +27,13 @@ tiempo también lo gestionas a tu aire, con un gran programa de actividades para
 y mayores. Aquí te contamos nuestra experiencia en el Center Parcs Eemhof, un 
 alojamiento perfecto para familias. 
 
-![Turismo activo en Eemhof](etheria_images/2018/07/Center-Parcs-Eemhof-actividades-ninos-1024x684.jpg "Actividades para niños. ©JackyShoots.nl")
+![Turismo activo en Eemhof](etheria-images/2018/07/Center-Parcs-Eemhof-actividades-ninos-1024x684.jpg "Actividades para niños. ©JackyShoots.nl")
 
 ## Cabañas y apartamentos
 
-De Eemhof es un alojamiento muy recomendable en un [viaje por Holanda en 
-familia](https://etheriamagazine.com/2018/08/10/holanda-en-familia/) cuenta con 
+Center Parcs Eemhof es un alojamiento muy recomendable en un viaje por Holanda en 
+familia (echa un vistazo a nuestro artículo [Qué ver y hacer en un viaje en familia por 
+Holanda](https://etheriamagazine.com/2018/08/10/holanda-en-familia/)) cuenta con 
 alojamientos para todos los gustos y tipos de huéspedes. Para los que viajan en pareja, 
 una buena opción es elegir los **Hotel Apartament** o las **cabañas VIP**. Los que van 
 en familia encontrarán multitud de opciones: **cabañas Confort** o **Premium**, las 
@@ -38,7 +42,7 @@ privado, o los apartamentos de lujo **Waterfront Suites** (con capacidad de hast
 personas). Es fácil encontrar el que mejor se adapta a tus gustos, tamaño de familia y 
 presupuesto porque cuentan con opciones para grupos de entre 4 y 12 personas. 
 
-![Alojamiento para familias en Center parcs Eemhof](etheria_images/2018/07/Cabana-familiar-Center-Parcs-Eemhof-1024x684.jpg "Children's Cottage. © Robert Land")
+![Alojamiento para familias en Center parcs Eemhof](etheria-images/2018/07/Cabana-familiar-Center-Parcs-Eemhof-1024x684.jpg "Children's Cottage. © Robert Land")
 
 Todas la cabañas y apartamentos están **equipados con lo necesario** para una estancia 
 confortable y las categorías superiores suman algunos detalles como jacuzzi o una 
@@ -71,13 +75,13 @@ parque acuático cubierto como **Aqua Mundo** ¿qué niño se resiste a tobogane
 flotadores gigantes? Además, ofrece actividades como surfear olas artificiales o hacer 
 un curso de introducción al submarinismo (ambas de pago). 
 
-![Parque acuático en Holanda](etheria_images/2018/07/Center-Parcs-Eemhof-Aquamundo-1024x683.jpg "Aqua Mundo, el parque acuático cubierto de Center Parcs De Eemhof. © Milan Vermeulen")
+![Parque acuático en Holanda](etheria-images/2018/07/Center-Parcs-Eemhof-Aquamundo-1024x683.jpg "Aqua Mundo, el parque acuático cubierto de Center Parcs De Eemhof. © Milan Vermeulen")
 
 En la zona de la **marina** se pueden realizar también numerosas actividades perfectas 
 si se va en verano como el padel surf, alquiler de barcas a pedales, barcas a motor o 
 canoas, _banana boat_, _flyboarding_, esquí acuático, _windsurf_… 
 
-![Deportes en el agua en Holanda](etheria_images/2018/07/Center-Parcs-Eemhof-deportes-acuaticos-1024x682.jpg "Padel Surf en De Eemhof. ©Ton Hurks Fotografie")
+![Deportes en el agua en Holanda](etheria-images/2018/07/Center-Parcs-Eemhof-deportes-acuaticos-1024x682.jpg "Padel Surf en De Eemhof. ©Ton Hurks Fotografie")
 
 Y para cuando el tiempo no acompaña, el Center Parcs de Eemhof se puede optar por una 
 zona cubierta llamada **Action Factory** con restaurante, bolos, kids club y juegos 
@@ -100,29 +104,23 @@ Eemhof; **Grabber Joe's Laguna Café**, en la laguna de Aqua Mundo, con aperitiv
 paninis y sándwiches; y **Snacks**, un lugar que encanta a los niños, con hamburguesas, 
 patatas fritas rizadas como especialidad y batidos. 
 
-### CONSEJOS ETHERIA
+## Información práctica
 
-[De Eemhof Center 
-Parcs](https://www.centerparcs.com/gb-en/netherlands/fp_EH_holiday-park-de-eemhof?hc=EH75&duree=3&dated=2018-07-20&nba=2&nbc=0&nbb=0&nbh=1&flex=1) 
-se encuentra a 55 kilómetros del aeropuerto de Ámsterdam. Es una buena opción tanto para 
-establecerse allí una semana y dedicar algún día a excursiones, como combinar una 
-estancia en algún otro punto de Holanda con tres o cuatro noches en De Eemhof. Una buena 
-opción es el parque de [Efteling](https://www.efteling.com/es), uno de los mejores 
-parques de atracciones de Europa, a 95 kilómetros. 
+De Eemhof Center Parcs se encuentra a 55 kilómetros del aeropuerto de Ámsterdam. Es una 
+buena opción tanto para establecerse allí una semana y dedicar algún día a excursiones, 
+como combinar una estancia en algún otro punto de Holanda con tres o cuatro noches en De 
+Eemhof. Una buena opción es el parque de [Efteling](https://www.efteling.com/es), uno de 
+los mejores parques de atracciones de Europa, a 95 kilómetros. 
 
 Los precios van desde aproximadamente los 155 Euros el apartamento para dos personas 
 durante dos noches en temporada baja (precios orientativos, se pueden encontrar ofertas) 
-y se reservan a través de la web de [Center 
-Parcs](https://www.centerparcs.com/gb-en/netherlands/fp_EH_holiday-park-de-eemhof?hc=EH75&duree=3&dated=2018-07-20&nba=2&nbc=0&nbb=0&nbh=1&flex=1). 
+y se reservan a través de la web de [Center Parcs](https://www.centerparcs.eu/). 
 
 No te dejes influir por el aspecto externo de las cabañas, aunque no son muy atractivas 
 por fuera por dentro están decoradas con gusto y son muy acogedoras. Y muy bien 
 equipadas, que es lo importante. 
 
-En España, [Catai](https://www.catai.es/viajes/efteling-villas-vacaciones.html) incluye 
-estos alojamientos en su programación de Escapadas Familiares. 
-
-## También te puede interesar:
+**También te puede interesar:** 
 
 [Qué ver y hacer en un viaje en familia por 
 Holanda](https://etheriamagazine.com/2018/08/10/holanda-en-familia/) 

@@ -1,11 +1,11 @@
 ---
 title: "Intrépidas, un libro sobre 25 exploradoras"
 date: 2018-05-03
-coverImage: etheria_images/2018/05/Libro-Intrepidas-1.jpg
+coverImage: etheria-images/2018/05/Libro-Intrepidas-1.jpg
 categories: 
   - libros-de-viajes
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Fueron mujeres decididas y valientes que trazaron rutas donde no las había, que 
@@ -13,7 +13,7 @@ jalonaron retos que parecían imposibles y que dejaron un legado impagable. Esta
 hechas de una madera muy especial, de una materia por la que resbalaban los prejuicios 
 sociales. 
 
-![Alexandra David-Neel, la sembradora de estrellas (Libro Intrépidas).](etheria_images/2018/05/Intrepidas-Alexandra_dn-1024x724.jpg "Alexandra David-Neel, la sembradora de estrellas (Libro Intrépidas).")
+![Alexandra David-Neel, la sembradora de estrellas (Libro Intrépidas).](etheria-images/2018/05/Intrepidas-Alexandra_dn-1024x724.jpg "Alexandra David-Neel, la sembradora de estrellas (Libro Intrépidas).")
 
 Ajenas a cumplir el papel que la sociedad demandaba de ellas, estas mujeres persiguieron 
 su sueño y lo alcanzaron. Llegaron hasta donde nadie pudo imaginar en su época. Estamos 
@@ -81,7 +81,7 @@ desde pequeña. No medía más de metro y medio, pero eso no le impidió recorre
 escarpada geografía a lomos de su caballo. Se cruzó con osos grizzlies, trabajó como 
 vaquera y se enamoró de un hombre de las montañas. 
 
-![Jeanne Baret, la primera mujer en dar la vuelta al mundo.](etheria_images/2018/05/Intrépidas-Jeanne_Baret-1024x724.jpg "Jeanne Baret, la primera mujer en dar la vuelta al mundo. Libro Intrépidas (Edit. Pastel de Luna)")
+![Jeanne Baret, la primera mujer en dar la vuelta al mundo.](etheria-images/2018/05/Intrépidas-Jeanne_Baret-1024x724.jpg "Jeanne Baret, la primera mujer en dar la vuelta al mundo. Libro Intrépidas (Edit. Pastel de Luna)")
 
 ## 3\. Plantas y mariposas
 
@@ -151,7 +151,7 @@ Inglaterra en la primavera de 1958, se turnaban a los manos de un Land Rover y c
 y se mostraban felices mientras iban dejando atrás Europa, Turquía, Irán, Afganistán y 
 Pakistán. 
 
-![Lynne Cox abrió la foranter entre EEUU y Rusia durante la Guerra Fría.](etheria_images/2018/05/Intrepidas-Lynne-Cox-1024x727.jpg "Lynne Cox abrió la foranter entre EEUU y Rusia durante la Guerra Fría.")
+![Lynne Cox abrió la foranter entre EEUU y Rusia durante la Guerra Fría.](etheria-images/2018/05/Intrepidas-Lynne-Cox-1024x727.jpg "Lynne Cox abrió la foranter entre EEUU y Rusia durante la Guerra Fría.")
 
 ## 5\. En el fondo del mar
 
@@ -222,7 +222,7 @@ Son sólo pequeñas pinceladas de grandes biografías de mujeres que, curiosas y
 por naturaleza, lograron grandes gestas y que hubieron de enfrentarse a una sociedad que 
 les había asignado otro papel, seguramente menos emocionante. 
 
-![libro intrepidas mujeres viajeras etheria magazine](etheria_images/2018/05/Libro-Intrepidas-1-212x300.jpg)
+![libro intrepidas mujeres viajeras etheria magazine](etheria-images/2018/05/Libro-Intrepidas-1-212x300.jpg)
 
 Libro: Intrépidas. Autora: Cristina Pujol Ilustradora: Rena Ortega Editorial: [Pastel de 
 Luna](https://www.pasteldeluna.com/) Precio: 17,50 euros.

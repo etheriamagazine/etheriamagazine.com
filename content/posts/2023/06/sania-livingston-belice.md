@@ -1,11 +1,11 @@
 ---
 title: "Livingston y Belice, la despedida caribeña de Sania Jelic"
 date: 2023-06-09
-coverImage: etheria_images/2023/06/sania-belice-buceo.jpg
+coverImage: etheria-images/2023/06/sania-belice-buceo.jpg
 categories: 
   - mujeres-que-inspiran
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -16,7 +16,7 @@ afición al buceo. Un broche perfecto para un itinerario lleno de lugares incre�
 personas que recordará para siempre y que nos ha contado en primera persona en Etheria 
 Magazine. Ya estamos deseando conocer su próxima aventura. 
 
-![](etheria_images/2023/06/sania-belice-buceo.jpg "Sania en South West Caye Marine Reserve, en Belice. © Sania Jelic")
+![](etheria-images/2023/06/sania-belice-buceo.jpg "Sania en South West Caye Marine Reserve, en Belice. © Sania Jelic")
 
 Cuando estaba en Guatemala decidí no ir al yacimiento arqueológico Tikal porque me 
 parecía demasiado alejado, pero me suscitaba curiosidad la ciudad de Livingston, situada 
@@ -32,7 +32,7 @@ colonias de aves, embarcaderos, villas, cabañas, hostales escondidos en la male
 hubiera gustado explorar el delta unos días para desconectar completamente del siglo 
 XXI. Pero iba camino de Livingston. 
 
-![Río Dulce](etheria_images/2023/06/sania-rio-dulce.jpg "Navegación por Río Dulce. © SJ")
+![Río Dulce](etheria-images/2023/06/sania-rio-dulce.jpg "Navegación por Río Dulce. © SJ")
 
 ## Livingston, ¿quieres hablar garífuna?
 
@@ -53,7 +53,7 @@ Garífunas** y fui a buscarla. Tuve que esperar porque estaba reunida con repres
 de Naciones Unidas debatiendo las posibilidades de reconocimiento y preservación de la 
 cultura garífuna. 
 
-![Sania con Diana Martínez Leiva de Franzua en Livingston](etheria_images/2023/06/sania-mujer.jpg "Sania con Diana Martínez Leiva de Franzua, creadora de “Livingston Emprende” y propietaria del restaurante “Las tres Garífunas”. © SJ")
+![Sania con Diana Martínez Leiva de Franzua en Livingston](etheria-images/2023/06/sania-mujer.jpg "Sania con Diana Martínez Leiva de Franzua, creadora de “Livingston Emprende” y propietaria del restaurante “Las tres Garífunas”. © SJ")
 
 **Diana Martínez Leiva de Franzua** es todo carácter y, junto con su madre, ha dedicado 
 su vida al reconociendo de esta cultura. Ella está en la Escuela de Formación Política 
@@ -69,7 +69,7 @@ hasta 150 alumnos a practicar el idioma, cocinar, diseñar vestimentas y aprende
 sus tradiciones. Es importante ya que hay peligro real de su desaparición debido al 
 estilo de vida moderno. 
 
-![Casa de la Cultura Garífuna](etheria_images/2023/06/sania-garifunas.jpg "Casa de la Cultura Garífuna. © SJ")
+![Casa de la Cultura Garífuna](etheria-images/2023/06/sania-garifunas.jpg "Casa de la Cultura Garífuna. © SJ")
 
 En los años 60 y 70 hubo mucha inmigración al extranjero y los garífunas que viven fuera 
 envían dinero y ayuda a sus familias. Eso, combinado con las limitadas opciones 
@@ -90,7 +90,7 @@ vestimenta tradicional de tejido bordado y pesado. ¡Me sorprendió la alegría 
 trabajan! A pesar de estar realizando un esfuerzo físico considerable, bromeaban y 
 reían. Creo que es parte de su manera de afrontar la vida. 
 
-![Pesca tradicional en la playa de Quehueche en Livingston](etheria_images/2023/06/sania-livingstone-pesca.jpg "Pesca tradicional en la playa de Quehueche en Livingston. © SJ")
+![Pesca tradicional en la playa de Quehueche en Livingston](etheria-images/2023/06/sania-livingstone-pesca.jpg "Pesca tradicional en la playa de Quehueche en Livingston. © SJ")
 
 ## Belice y su barrera de coral
 
@@ -125,7 +125,7 @@ a las 16.30 h y fui al primer centro de buceo que vi en la calle llamado **Splas
 Diving**. Allí me dijeron que no tenían disponibilidad para los próximos días, aunque al 
 final consiguieron hacerme un hueco, algo de lo que estoy muy agradecida. 
 
-![sillas en South West Caye Marine Reserve](etheria_images/2023/06/sania-belice.jpg "South West Caye Marine Reserve es una isla donde se para en la excursión de buceo en Belice. © SJ")
+![sillas en South West Caye Marine Reserve](etheria-images/2023/06/sania-belice.jpg "South West Caye Marine Reserve es una isla donde se para en la excursión de buceo en Belice. © SJ")
 
 El buceo estuvo bien, aunque no eran precisamente pececitos de colores sino más bien 
 tiburones nodriza acostumbrados a ser alimentados por buceadores. Nos seguían como una 

@@ -1,18 +1,18 @@
 ---
 title: "Lisboa y Ericeira, un plan cercano para amantes del mar, el surf y el buen comer"
 date: 2020-03-24
-coverImage: etheria_images/2020/03/Ericeira-calle.jpg
+coverImage: etheria-images/2020/03/Ericeira-calle.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
-  - Ana Maria Pareja
+authors: 
+  - Ana María Pareja
 ---
 
 Portugal siempre merece un viaje y aquí te proponemos combinar una breve parada en Lisboa con el cercano pueblo de Ericeira, donde la vida se sucede entre olas, tablas y neopreno. La única Reserva Mundial de Surf de Europa es también un edén gastronómico. Un lugar perfecto para una escapada con amigas.
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Ericeira-surf-900x584.jpg "Surf en Ericeira. © Turismo de Lisboa")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Ericeira-surf-900x584.jpg "Surf en Ericeira. © Turismo de Lisboa")
 
 Encalado en un risco al borde del océano Atlántico, Ericeira es un pueblo en el que la 
 vida pasa a cámara lenta. Sus típicas callejuelas empedradas, sus apacibles parques en 
@@ -21,7 +21,7 @@ abismo y con vistas a un mar embravecido, dejan entrever lo que es un verano all
 comida marinera, desconexión y algún que otro chapuzón. No te pierdas nuestro plan para 
 disfrutar del surf en Ericeira. 
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Ericeira-calle-900x671.jpg "Plaza en Ericeira.")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Ericeira-calle-900x671.jpg "Plaza en Ericeira.")
 
 Sin embargo, entre septiembre y mayo, antes de que las oleadas de lisboetas ávidos de 
 playa, brisa y mar pululen por su paseo marítimo, esta pequeña villa abre sus puertas a 
@@ -35,7 +35,7 @@ Tras descargar las maletas ponemos rumbo a la majestuosa Plaça do Comércio. Ta
 conocida como Terreiro do Paço, la mayor plaza de la ciudad fue testigo del devastador 
 terremoto del día de Todos los Santos de 1755. 
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Lisboa-Praca-Comercio-900x600.jpg "Plaça do Comercio. © Turismo Lisboa")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Lisboa-Praca-Comercio-900x600.jpg "Plaça do Comercio. © Turismo Lisboa")
 
 Este trágico hecho tiene un lugar especial en el [Lisboa Story 
 Centre](https://www.lisboastorycentre.pt/es), un centro de interpretación que cuenta, de 
@@ -50,7 +50,7 @@ hippie-chic contemporáneo con negocios tan creativos como [Ler
 Devagar](https://lerdevagar.com/en/) –una librería/galería/tienda de música– y espacios 
 tan bonitos y sabrosos como Río Marvhila. 
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Lisboa-LX-Factory-900x596.jpg "Ambiente en LX Factory. © Turismo de Lisboa")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Lisboa-LX-Factory-900x596.jpg "Ambiente en LX Factory. © Turismo de Lisboa")
 
 #### Un paseo por el barrio de Belém
 
@@ -69,7 +69,7 @@ icónicas olas y de sus coquetas casas encaladas. Incluido en el Concelho de Maf
 (Distrito de Lisboa), este pueblo de pescadores ha sabido conjugar su esencia y sus 
 tradiciones marineras con el rollo moderno del mundo surfero. 
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Ericeira-costa-900x600.jpg "Acantilados de Ericeira. © Christian Holzinger")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Ericeira-costa-900x600.jpg "Acantilados de Ericeira. © Christian Holzinger")
 
 Pero, antes de que llegaran las tablas, los neoprenos y los campings de surf, Ericeira 
 ya era famosa por la belleza de sus **acantilados** de arenisca y por sus espléndidas 
@@ -86,7 +86,7 @@ tiendecillas de artesanías y la discoteca Ouriço, considerada la más antigua 
 Península Ibérica; mientras que una caminata por su paseo marítimo será maravillosa para 
 ver caer el sol. 
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Ericeira-calles-900x573.jpg "Detalles de las calles de Ericeira. © Joana Pinheiro / Alev Takil")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Ericeira-calles-900x573.jpg "Detalles de las calles de Ericeira. © Joana Pinheiro / Alev Takil")
 
 ## Olas nivel pro
 
@@ -95,7 +95,7 @@ Waves Coalition_ al ser una zona privilegiada de extraordinaria riqueza ambienta
 biodiversidad marítima. En sus 4 kilómetros de costa hay siete emblemáticas olas, de 
 diferentes grados de dificultad, todas ellas con una potencia y un oleaje constantes. 
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Ericeira-surf-olas-900x675.jpg "Surfistas en Ericeira. © Bruna Pinheiro")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Ericeira-surf-olas-900x675.jpg "Surfistas en Ericeira. © Bruna Pinheiro")
 
 **Praia dos Coxos** es una de las más emblemáticas de la reserva, siempre fuerte y con 
 espectaculares tubos de varios segundos de duración; además, es la que mejor simboliza 
@@ -112,7 +112,7 @@ D’ilhas**, posee olas largas y consistentes, un cóctel perfecto para competic
 nacionales e internacionales. Los que prefieran quedarse al margen, podrán disfrutar de 
 un mirador excepcional en lo alto de su acantilado. 
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Ericeira-surf-atardecer-900x600.jpg "Surf al atardecer en Ericeira. © Turismo de Lisboa")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Ericeira-surf-atardecer-900x600.jpg "Surf al atardecer en Ericeira. © Turismo de Lisboa")
 
 ## Gastronomía marinera
 
@@ -122,7 +122,7 @@ en un destino especial para los amantes del pescado y el marisco fresco. Entre l
 especialidades se encuentran el erizo de mar, las langostas, los mejillones, los 
 percebes o las sardinas. 
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Lisboa-Prato-de-peixe-900x900.jpg "'Prato de peixe' típico de la gastronomía portuguesa. © Nuno Correia")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Lisboa-Prato-de-peixe-900x900.jpg "'Prato de peixe' típico de la gastronomía portuguesa. © Nuno Correia")
 
 Además de los coquetos restaurantes del centro, que miran con orgullo a ese mar bravío, 
 hay que dejarse caer por el estiloso [chiringuito de Ribeira 
@@ -141,7 +141,7 @@ _bowls_ de yogur con fruta, tartas y _cookies_. Situado en el corazón del puebl
 Plaza de la República– el café forma parte del **Centro de Interpretación**; un espacio 
 innovador que da a conocer todo lo relacionado con la Reserva Mundial del Surf. 
 
-![viajes a Portugal, escapada con amigas, viajes de surf](etheria_images/2020/03/Ericeira-estatua-768x1024.jpg "Estatua dedicada al surf en Ericeira. © Leonor Oom")
+![viajes a Portugal, escapada con amigas, viajes de surf](etheria-images/2020/03/Ericeira-estatua-768x1024.jpg "Estatua dedicada al surf en Ericeira. © Leonor Oom")
 
 Este centro –apostado encima de la Oficina de Turismo– ostenta una **mesa interactiva** 
 (a escala 1:1000) formada por una maqueta topográfica que, gracias al _video-mapping_, 

@@ -1,10 +1,10 @@
 ---
 title: "El Expreso de la Robla o la nostalgia del hullero"
 date: 2018-06-01
-coverImage: etheria_images/2018/06/Expreso-de-la-Robla-3.jpg
+coverImage: etheria-images/2018/06/Expreso-de-la-Robla-3.jpg
 categories: 
   - viajar-sola
-author: 
+authors: 
   - Eva Madruga
 ---
 
@@ -12,7 +12,7 @@ El Expreso de la Robla es un crucero sobre raíles que recorre el norte peninsul
 comodidad de un tren moderno y el encanto de uno antiguo. Es un itinerario idóneo para 
 viajar sola o en compañía. Tú eliges. 
 
-![El Expreso de la Robla es uno de los trenes turísticos de Renfe.](etheria_images/2018/06/Expreso-de-la-Robla-6-1024x580.jpg "El Expreso de la Robla es uno de los trenes turísticos de Renfe.")
+![El Expreso de la Robla es uno de los trenes turísticos de Renfe.](etheria-images/2018/06/Expreso-de-la-Robla-6-1024x580.jpg "El Expreso de la Robla es uno de los trenes turísticos de Renfe.")
 
 Pocas cosas son más evocadoras para los amantes de los viajes que los trenes clásicos. 
 No resulta fácil precisar cuando desapareció ese halo de romanticismo que acariciaba a 
@@ -25,7 +25,7 @@ este tren inició su traqueteo en el año 2009, por algunas de las vías por las
 hacía **el mítico Hullero de La Robla**, el ferrocarril que **transportaba carbón desde 
 tierras leonesas hasta los hornos de la siderurgia vizcaína**. 
 
-![Expreso de la Robla viajes en tren](etheria_images/2018/06/Expreso-de-la-Robla-3-1024x647.jpg "El Expreso de la Robla inició su traqueteo en 2009.")
+![Expreso de la Robla viajes en tren](etheria-images/2018/06/Expreso-de-la-Robla-3-1024x647.jpg "El Expreso de la Robla inició su traqueteo en 2009.")
 
 El escritor Juan Pedro Aparicio ya reseñaba en su libro _El Transcantábrico_ las 
 posibilidades turísticas de la ruta: “sería el hullero uno de los primeros trenes 
@@ -50,7 +50,7 @@ provincias de **León, Palencia y Burgos** como la Cueva de Valporquero, Cistier
 Carrión de los Condes, Fromista, Mataporquera, Aguilar de Campoo, Medina de Pomar, el 
 complejo kárstico de Ojo Guareña y Espinosa de los Monteros. 
 
-![El Expreso de la Robla cuenta con 28 compartimentos.](etheria_images/2018/06/Expreso-de-la-Robla-2-1024x516.jpg "El Expreso de la Robla cuenta con 28 compartimentos.")
+![El Expreso de la Robla cuenta con 28 compartimentos.](etheria-images/2018/06/Expreso-de-la-Robla-2-1024x516.jpg "El Expreso de la Robla cuenta con 28 compartimentos.")
 
 Este lento fluir, sin prisas, en el que el trayecto se disfruta tanto como el destino, 
 ofrece al viajero todo el _glamour_ de los viajes en ferrocarril clásico, pero sin 
@@ -67,7 +67,7 @@ Robla. En total hay **tres coches salones con servicio de bar permanente**. Ahí
 el desayuno por la mañana y durante todo el día los pasajeros pueden conversar con otros 
 viajeros y disfrutar de prensa diaria, revistas, biblioteca, videoteca y televisión. 
 
-![Servicios en los coches bar de los trenes turísticos](etheria_images/2018/06/Expreso-de-la-Robla-5-1024x683.jpg "Los tres coches bar disponen de un servicio de bar permanente.")
+![Servicios en los coches bar de los trenes turísticos](etheria-images/2018/06/Expreso-de-la-Robla-5-1024x683.jpg "Los tres coches bar disponen de un servicio de bar permanente.")
 
 ## Sabores y manjares acordes con el recorrido
 

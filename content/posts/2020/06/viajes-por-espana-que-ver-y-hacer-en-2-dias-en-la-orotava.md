@@ -1,19 +1,19 @@
 ---
 title: "Descubre la dulzura de La Orotava (Tenerife)"
 date: 2020-06-20
-coverImage: etheria_images/2020/06/orotava-iglesia-concepcion.jpg
+coverImage: etheria-images/2020/06/orotava-iglesia-concepcion.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 “Te voy a contar un secreto, mi niña. La verdadera capital de Tenerife está en La Orotava”, decía un orotavense con acento dulzón y el aire condescendiente de una vida serena. ¿Y eso por qué? Le pregunté. Y, tras darme sus razones, entendí que sí, que merecería ser la capital isleña.
 
-![la orotava, viajar sola Tenerife](etheria_images/2020/06/la-orotava.jpg "A las señoriales calles de La Orotava se las compara con una pequeña Habana. © M. Munar")
+![la orotava, viajar sola Tenerife](etheria-images/2020/06/la-orotava.jpg "A las señoriales calles de La Orotava se las compara con una pequeña Habana. © M. Munar")
 
 Dos días en la **Villa de La Orotava** –sin quitarle mérito a la capital de Tenerife, 
 Santa Cruz de Tenerife–, dan para descifrar el secreto del sabio orotavense. Al antiguo 
@@ -28,7 +28,7 @@ salpicados por molinos hidráulicos para moler la harina del inevitable gofio, y
 variedad de recursos minerales, conformaban y conforman una de las regiones más 
 provechosas de la isla. 
 
-![plaza ayuntamiento, la orotava, viaje mujeres](etheria_images/2020/06/viaje-orotava-plaza-constitucion.jpg "Plaza del Ayuntamiento con su suelo masónico ajedrezado. © M. Munar")
+![plaza ayuntamiento, la orotava, viaje mujeres](etheria-images/2020/06/viaje-orotava-plaza-constitucion.jpg "Plaza del Ayuntamiento con su suelo masónico ajedrezado. © M. Munar")
 
 ## Primer día en La Orotava
 
@@ -44,7 +44,7 @@ será **_La de Anita,_** querida y legendaria vendedora de tabaco y golosinas. L
 la **iglesia de San Agustín**, que goza de esa mezcla peculiar de la villa, donde 
 mudéjar, barroco y neoclásico conviven en armónica arquitectura. 
 
-![kiosco anita, plaza Constitución, la orotava, viajar sola Tenerife](etheria_images/2020/06/orotava-plaza-quiosco.jpg "Plaza de la Anita. © M. Munar")
+![kiosco anita, plaza Constitución, la orotava, viajar sola Tenerife](etheria-images/2020/06/orotava-plaza-quiosco.jpg "Plaza de la Anita. © M. Munar")
 
 ### Casa de los Balcones
 
@@ -63,7 +63,7 @@ mediterránea.
 > La Casa de los Balcones, revestida en madera, se ha convertido en el conjunto histórico 
 > más representativo de las islas. 
 
-![casa de los balcones, viaje Tenerife, la orotava, viajar sola](etheria_images/2020/06/viaje-tenerife-orotava-casa-balcones.jpg "La Casa de los Balcones, una obra maestra de ebanistería canaria. © M. Munar")
+![casa de los balcones, viaje Tenerife, la orotava, viajar sola](etheria-images/2020/06/viaje-tenerife-orotava-casa-balcones.jpg "La Casa de los Balcones, una obra maestra de ebanistería canaria. © M. Munar")
 
 ### Una de papas arrugas
 
@@ -83,7 +83,7 @@ donde, supuestamente, iba a ser enterrado el masón confeso Diego Ponte del Cast
 marqués de Quinta Roja, perteneciente a una de las familias más acaudaladas de la isla. 
 Sus restos, por determinación materna, fueron finalmente depositados en el cementerio. 
 
-![hijuela botanico, la orotava](etheria_images/2020/06/hijuela-botanico-orotava.jpg "Entrada del Jardín Hijuela del Botánico. © M. Munar")
+![hijuela botanico, la orotava](etheria-images/2020/06/hijuela-botanico-orotava.jpg "Entrada del Jardín Hijuela del Botánico. © M. Munar")
 
 ### Jardín Hijuela del Botánico
 
@@ -97,7 +97,7 @@ ver de frente la plaza del Ayuntamiento, de suelo ajedrezado, referencia masóni
 principio de la dualidad, y bordeada de imponentes casonas de las grandes familias del 
 norte de la isla. 
 
-![la orotava, detalle ciudad](etheria_images/2020/06/viaje-la-orotaba-detalles.jpg "Detalles orotavenses. © M. Munar")
+![la orotava, detalle ciudad](etheria-images/2020/06/viaje-la-orotaba-detalles.jpg "Detalles orotavenses. © M. Munar")
 
 ### Un paseo por La Orotava
 
@@ -113,7 +113,7 @@ bella Orotava se transforma en Cuba para el rodaje de alguno de los cincuenta ca
 de la serie de _Atresmedia_, **La Templanza**, basada en la novela homónima de María 
 Dueñas, y protagonizada por Leonor Watling y Rafael Novoa. 
 
-![patio la orotava, viajar sola tenerife](etheria_images/2020/06/viaje-orotava-patio.jpg "Un bonito patio de La Orotava. © M. Munar")
+![patio la orotava, viajar sola tenerife](etheria-images/2020/06/viaje-orotava-patio.jpg "Un bonito patio de La Orotava. © M. Munar")
 
 Caminando sin rumbo se pasa por la calle Puerta Canseco, donde una placa conmemorativa, 
 con el rostro de una mujer bella y serena, rinde homenaje a **Leonor Pérez Cabrera**, 
@@ -126,7 +126,7 @@ la escultura neoclásica. Su obra más renombrada es la imagen de la Virgen de l
 Candelaria, patrona de Canarias. La calle está vestida por magníficas casas cuyos bajos 
 albergan comercios y restaurantes. 
 
-![placa Leonor cabrera, la orotava](etheria_images/2020/06/plaza-leonor-cabrera-orotava.jpg "Placa conmemorativa a Leonor Pérez Cabrera, madre de José Martí. © M. Munar")
+![placa Leonor cabrera, la orotava](etheria-images/2020/06/plaza-leonor-cabrera-orotava.jpg "Placa conmemorativa a Leonor Pérez Cabrera, madre de José Martí. © M. Munar")
 
 ### Buenos restaurantes en La Orotava
 
@@ -150,7 +150,7 @@ Otra posibilidad céntrica y muy recomendable es el **Hotel Rural Victoria**, a 
 metros de La Casa de los Balcones y de los misteriosos Jardines Victoria, con un 
 restaurante digno de mención. 
 
-![villa de arriba, la orotava, viajar sola tenerife](etheria_images/2020/06/orotava-villa-arriba.jpg "Villa de Arriba, en La Orotava. © M. Munar")
+![villa de arriba, la orotava, viajar sola tenerife](etheria-images/2020/06/orotava-villa-arriba.jpg "Villa de Arriba, en La Orotava. © M. Munar")
 
 ## Segundo día en La Orotava
 
@@ -166,7 +166,7 @@ No dudes en saludar al omnipresente **Teide**, cuya majestuosa estampa aparece e
 cualquier rincón de La Orotava, y entra en alguno de aquellos molinos, aún activos, 
 donde el orotavense compra el gofio recién molido que el comerciante pesa con esmero. 
 
-![molinos la orotava, viajar sola tenerife](etheria_images/2020/06/molinos-orotava-tenerife.jpg "Aún quedan tres de los doce molinos hidráulicos de antaño. © M. Munar")
+![molinos la orotava, viajar sola tenerife](etheria-images/2020/06/molinos-orotava-tenerife.jpg "Aún quedan tres de los doce molinos hidráulicos de antaño. © M. Munar")
 
 ## Iglesia de la Concepción
 
@@ -178,7 +178,7 @@ aportaciones de emigrantes de Cuba, los indianos. Entre sus tesoros, tanto
 arquitectónicos como eclesiásticos, se encuentra un gran archivo musical y un órgano que 
 vino de Londres en 1862. 
 
-![iglesia concepcion, villa la orotava, viajar sola tenerife](etheria_images/2020/06/orotava-iglesia-concepcion.jpg "Bello conjunto de La Orotava con las cúpulas de la iglesia de la Concepción. © M. Munar")
+![iglesia concepcion, villa la orotava, viajar sola tenerife](etheria-images/2020/06/orotava-iglesia-concepcion.jpg "Bello conjunto de La Orotava con las cúpulas de la iglesia de la Concepción. © M. Munar")
 
 ## Casa Salazar
 
@@ -194,7 +194,7 @@ cultura popular, las costumbres y tradiciones del norte de Tenerife, sus casas t
 los huertos, y la artesanía. Y, como broche final, hay que alzar la mirada y encaminar 
 los pasos hacia el Teide. 
 
-![parque nacional del teide, la orotava, viajar sola tenerife](etheria_images/2020/02/Tenerife-Teide-dedo-Dios.jpg "Parque Nacional del Teide con el Dedo de Dios.")
+![parque nacional del teide, la orotava, viajar sola tenerife](etheria-images/2020/02/Tenerife-Teide-dedo-Dios.jpg "Parque Nacional del Teide con el Dedo de Dios.")
 
 ## Parque Nacional del Teide
 

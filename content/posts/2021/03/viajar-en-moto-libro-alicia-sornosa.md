@@ -1,18 +1,18 @@
 ---
 title: "Viajar en moto, trucos y consejos de Alicia Sornosa"
 date: 2021-03-19
-coverImage: etheria_images/2021/03/alicia-sornosa-viajera-moto.jpg
+coverImage: etheria-images/2021/03/alicia-sornosa-viajera-moto.jpg
 categories: 
   - libros-de-viajes
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Viajar en moto siguiendo las recomendaciones de Alicia Sornosa en 'Toda aventura comienza con un sí', una obra publicada por Anaya Touring, es ahora más sencillo y seguro. Esta guía es uno de los imprescindibles para quienes se inician en los viajes en moto y también para los que buscan inspiración.
 
-![alicia sornosa libro de vajes en moto](etheria_images/2021/03/libro-toda-aventura-comienza-con-un-si-768x1024.jpg "Alicia Sornosa posa con su libro. © Refresco.TV")
+![alicia sornosa libro de vajes en moto](etheria-images/2021/03/libro-toda-aventura-comienza-con-un-si-768x1024.jpg "Alicia Sornosa posa con su libro. © Refresco.TV")
 
 Los amantes de las dos ruedas y de emplear la moto como medio para viajar están de 
 enhorabuena, ya que encontrarán en "Toda aventura comienza con un sí" las 
@@ -32,7 +32,7 @@ fundamentales como: ¿Qué me llevo? ¿cómo financiar el viaje? ¿qué papeles 
 documentación debo tramitar si voy a viajar en moto? ¿cómo transportar las motos (barco, 
 avión o camión)? ¿sola o acompañada? ¿qué presupuesto necesito? 
 
-![alicia sornosa viajera en moto](etheria_images/2021/03/toda-aventura-comienza-con-un-si.jpg "© Alicia Sornosa, una viajera empedernida.")
+![alicia sornosa viajera en moto](etheria-images/2021/03/toda-aventura-comienza-con-un-si.jpg "© Alicia Sornosa, una viajera empedernida.")
 
 Además de estas aclaraciones básicas también comparte útiles consejos para después de 
 haber emprendido el viaje en moto. Algo fundamental como que donde vas a repostar 
@@ -52,7 +52,7 @@ idiomática no sea una cortapisa para echarse a los caminos. Existen multitud de
 y no los puedes conocer todos, así que hay que tratar de hacerse entender y aprender 
 algunas palabras locales para que, al menos, se note el esfuerzo. 
 
-![viajes en moto de alicia sornosa](etheria_images/2021/03/libro-viajes-en-moto.jpg "© Alicia Sornosa destaca la libertad que ofrece viajar en moto.")
+![viajes en moto de alicia sornosa](etheria-images/2021/03/libro-viajes-en-moto.jpg "© Alicia Sornosa destaca la libertad que ofrece viajar en moto.")
 
 ## Relatos inspiradores de viajes en moto por el mundo
 
@@ -64,7 +64,7 @@ sitúa el destino del que habla la autora. De este modo, Alicia Sornosa también
 todo tipo de detalle sus experiencias personales en distintos lugares del mundo, su paso 
 por Rusia, Alaska, Chile, Malaui, Egipto, Etiopía o Australia. 
 
-![viaje de alicia sornosa](etheria_images/2021/03/viaje-moto-alicia-sornosa.jpg "Conocer y respetar el modo de vida de las comunidades locales es fundamental. © A. Sornosa")
+![viaje de alicia sornosa](etheria-images/2021/03/viaje-moto-alicia-sornosa.jpg "Conocer y respetar el modo de vida de las comunidades locales es fundamental. © A. Sornosa")
 
 ## Mujeres que viajan en moto
 
@@ -87,7 +87,7 @@ Cuando tengas que dormir en lugares sucios y seas aprensiva no dudes en llevar u
 saco-sábana. Incluso los hay de "seda" que ocupan muy poco espacio en el equipaje. Y si 
 la almohada está sucia, utiliza una camiseta a modo de funda. 
 
-![alicia sornosa en alaska](etheria_images/2021/03/alicia-sornosa-alaska.jpg "© Alicia Sornosa en Alaska.")
+![alicia sornosa en alaska](etheria-images/2021/03/alicia-sornosa-alaska.jpg "© Alicia Sornosa en Alaska.")
 
 #### 3\. Recoge el cabello
 
@@ -119,7 +119,7 @@ personal y viajera.
 
 ### ¿Estás pensando en comenzar tu aventura?
 
-![libro viajar en moto alicia sornosa](etheria_images/2021/03/libro-viajar-moto-alicia-sornosa-746x1024.jpg "Toda aventura comienza con un sí, de Alicia Sornosa.")
+![libro viajar en moto alicia sornosa](etheria-images/2021/03/libro-viajar-moto-alicia-sornosa-746x1024.jpg "Toda aventura comienza con un sí, de Alicia Sornosa.")
 
 Editorial: Anaya Touring Colección: Guías Singulares Tamaño: 19x23,50 cm Edición: 
 Rústica Precio: 22,90 € 

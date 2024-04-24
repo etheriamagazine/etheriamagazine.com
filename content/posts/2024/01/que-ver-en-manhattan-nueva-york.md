@@ -1,12 +1,12 @@
 ---
 title: "Una guía para que no te dejes (casi) nada por ver en Manhattan"
 date: 2024-01-11
-coverImage: etheria_images/2024/01/manhattan-ferry.jpg
+coverImage: etheria-images/2024/01/manhattan-ferry.jpg
 categories: 
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Manhattan es el corazón de Nueva York, el barrio que se lleva todas las miradas y que 
@@ -15,7 +15,7 @@ sólo ha podido crecer hacia arriba dejando así las imágenes de rascacielos m�
 del planeta. En este artículo te damos las pistas sobre todo aquello que tienes que ver 
 en Manhattan sí o sí en un primer viaje. 
 
-![El sur de Manhattan desde un ferry a la Estatua de la Libertad.](etheria_images/2024/01/manhattan-ferry.jpg "El sur de Manhattan desde un ferry. © Susana García.")
+![El sur de Manhattan desde un ferry a la Estatua de la Libertad.](etheria-images/2024/01/manhattan-ferry.jpg "El sur de Manhattan desde un ferry. © Susana García.")
 
 La ciudad de **Nueva York es tan desmesurada**, tan excesiva, que necesita varios viajes 
 para aproximarse a ese espíritu diverso e incluso contradictorio, que muestra en cada 
@@ -49,7 +49,7 @@ curiosidades que la rodearon. También existe la opción de subir a la Corona, a
 entradas son muy limitadas y la **subida de 162 escalones** en una estrecha escalera de 
 caracol no es apta para todos. 
 
-![La Estatua de la Libertad.](etheria_images/2024/01/nueva-york-estatua-libertad.jpg "La Estatua de la Libertad. © Susana García.")
+![La Estatua de la Libertad.](etheria-images/2024/01/nueva-york-estatua-libertad.jpg "La Estatua de la Libertad. © Susana García.")
 
 La excursión a la Estatua de la Libertad se suele completar con una parada en **Ellis 
 Island**, símbolo de la inmigración americana, donde hay que visitar el Ellis Island 
@@ -78,7 +78,7 @@ victoriano que es uno de los centros de visitantes del parque con información s
 actividades que se realizan en él); la **fuente Bethseda** y el **castillo Belvedere**. 
 Y, si viajas con niños, no os perdáis su famoso y singular Zoo. 
 
-![Central Park en invierno.](etheria_images/2024/01/nueva-york-central-park-invierno.jpg "Central Park en invierno. © Susana García.")
+![Central Park en invierno.](etheria-images/2024/01/nueva-york-central-park-invierno.jpg "Central Park en invierno. © Susana García.")
 
 ✅ Reserva con tiempo una mesa para almorzar en **Tavern on the Green** 
 (www.tavernonthegreen.com), un precioso restaurante en medio del parque con una buena 
@@ -117,7 +117,7 @@ poca altura con las características escaleras de incendios en las fachadas que 
 veces hemos visto en la pantalla. Alguno de los que tienes que buscar son el **edificio 
 Singer**, de principios del siglo XX, y los ubicados en Green Street. 
 
-![Edificios del SoHo en Manhattan](etheria_images/2024/01/nueva-york-manhattan-soho-edificios.jpg "Edificios del SoHo. © Susana García")
+![Edificios del SoHo en Manhattan](etheria-images/2024/01/nueva-york-manhattan-soho-edificios.jpg "Edificios del SoHo. © Susana García")
 
 ✅ Es uno de los lugares de moda de la ciudad, con tiendas de todo tipo incluidas 
 numerosas galerías de arte, y es una zona imprescindible para buscar marcas diferentes 
@@ -138,7 +138,7 @@ entre sus abigarradas calles y ofrece un remanso de paz, donde los miembros de e
 comunidad descansan y juegan al ajedrez o al mah-jong. Si viajas a Nueva York durante el 
 Año Nuevo Chino no puedes perderte el ambiente de sus calles. 
 
-![Columbus Park, en Chinatown.](etheria_images/2024/01/nueva-york-manhattan-chinatown.jpg "Columbus Park, en Chinatown. © Susana García")
+![Columbus Park, en Chinatown.](etheria-images/2024/01/nueva-york-manhattan-chinatown.jpg "Columbus Park, en Chinatown. © Susana García")
 
 ## Hudson Yards
 
@@ -152,7 +152,7 @@ curioso edificio **The Vessel**, con sus 154 escaleras interconectadas diseñada
 arquitecto Thomas Heatherwick; y **High Line**, un parque que ocupa unas antiguas vías 
 tren elevadas y que regala un bonito paseo salpicado de curiosos edificios y grafitis. 
 
-![The Vessel en Hudson Yards](etheria_images/2024/01/nueva-york-manhattan-the-vessel.jpg "The Vessel. © Susana García")
+![The Vessel en Hudson Yards](etheria-images/2024/01/nueva-york-manhattan-the-vessel.jpg "The Vessel. © Susana García")
 
 ## Memorial 11-S
 
@@ -180,7 +180,7 @@ el **Federal Hall National Monument**, donde George Washington fue investido pre
 y la **Trinity Church**, de mediados del XIX, una iglesia neogótica que contrasta con 
 los altos edificios que la rodean. 
 
-![La Bolsa de Nueva York.](etheria_images/2024/01/nueva-york-manhattan-edificio-bolsa.jpg "La Bolsa de Nueva York. © Susana García.")
+![La Bolsa de Nueva York.](etheria-images/2024/01/nueva-york-manhattan-edificio-bolsa.jpg "La Bolsa de Nueva York. © Susana García.")
 
 Un poco más hacia el sur, en Bowling Green, se encuentra la que es probablemente la 
 estatua más famosa de Manhattan y símbolo del distrito: el **Charging Bull**, el famoso 
@@ -211,7 +211,7 @@ no se tienen vistas del Empire State. Terminada en 1931 en estilo Art Decó tien
 miradores, en los pisos 86 (al aire libre) y 102 (cubierto). En la planta 2 hay un museo 
 con la historia del edificio. 
 
-![Vista de Manhattan y el Empire State desde Summit One Vanderbilt.](etheria_images/2024/01/nueva-york-manhattan-vistas-summint-one-vanderbilt.jpg "Vista de Manhattan y el Empire State desde Summit One Vanderbilt. © Susana García.")
+![Vista de Manhattan y el Empire State desde Summit One Vanderbilt.](etheria-images/2024/01/nueva-york-manhattan-vistas-summint-one-vanderbilt.jpg "Vista de Manhattan y el Empire State desde Summit One Vanderbilt. © Susana García.")
 
 ### Top of the Rock
 

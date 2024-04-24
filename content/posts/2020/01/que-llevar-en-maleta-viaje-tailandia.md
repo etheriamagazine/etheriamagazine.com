@@ -1,22 +1,22 @@
 ---
 title: "Qué llevar en la maleta para un viaje a Tailandia"
 date: 2020-01-02
-coverImage: etheria_images/2019/12/maleta-tailandia-chicas.jpg
+coverImage: etheria-images/2019/12/maleta-tailandia-chicas.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
   - planes-cultura-ocio
   - que-llevar-en-la-maleta
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ¿Estás preparando un viaje a Tailandia o planeas hacerlo en los próximos meses? Aquí te 
 damos unas claves para no equivocarte con lo que metes en la maleta y optimizar el 
 espacio para no ir muy cargada. 
 
-![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria_images/2019/12/maleta-tailandia-playa-900x623.jpg "Playa de Phra Nang (Krabi). © Sumit Chinchane")
+![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria-images/2019/12/maleta-tailandia-playa-900x623.jpg "Playa de Phra Nang (Krabi). © Sumit Chinchane")
 
 Tailandia es un país con un clima y una cultura totalmente distintos a los que 
 encontramos en Europa, y eso va a condicionar tu equipaje. También influirá la época del 
@@ -32,7 +32,7 @@ mejor es **ropa cómoda y ligera de algodón de colores claros** y llevar sufici
 camisetas para poder cambiarte a menudo. Si las enrollas de tres en tres ocuparán menos 
 espacio en la maleta. 
 
-![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria_images/2019/12/maleta-tailandia-chicas-900x600.jpg "Chicas en las islas Phi Phi. © Eva Krause")
+![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria-images/2019/12/maleta-tailandia-chicas-900x600.jpg "Chicas en las islas Phi Phi. © Eva Krause")
 
 Ten en cuenta que **seguro que visitarás templos** en el viaje, y hay que seguir ciertas 
 normas de decoro: nada de pantalones cortos o faldas por encima de la rodilla y 
@@ -42,7 +42,7 @@ de falda cuando entres a un templo (también te servirá para cubrirte los hombr
 llevas tirantes). No olvides los calcetines aunque lleves sandalias: los necesitarás si 
 no quieres entrar descalzo en los templos. 
 
-![](etheria_images/2019/12/maleta-tailandia-ropa-900x463.jpg "Un vestido negro te será útil para las noches y los pantalones de algodón son perfectos para visitar los templos. © Goh Rhyyan /© José Llamas.")
+![](etheria-images/2019/12/maleta-tailandia-ropa-900x463.jpg "Un vestido negro te será útil para las noches y los pantalones de algodón son perfectos para visitar los templos. © Goh Rhyyan /© José Llamas.")
 
 Verás que todo el mundo viste de forma informal, no hace falta que lleves mucha ropa 
 para arreglarte. Guarda algún **vestido negro y zapatos cómodos de vestir** si piensas 
@@ -55,11 +55,11 @@ al menos tres ya que con la humedad tardan en secarse, y una [toalla de
 microfibra](https://www.decathlon.es/es/p/toalla-bano-piscina-natacion-nabaiji-microfibra-compacta-talla-l-azul/_/R-p-158325?mc=8361623&c=AZUL), 
 que se secan con más rapidez. 
 
-![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria_images/2019/12/maleta-tailandia-toalla-900x900.jpg "Toalla de microfibra de © Decathlon")
+![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria-images/2019/12/maleta-tailandia-toalla-900x900.jpg "Toalla de microfibra de © Decathlon")
 
 ## 2\. Calzado
 
-![](etheria_images/2019/12/maleta-tailandia-sandalias-900x600.jpg "Las sandalias cerradas son perfectas para los días de lluvia.")
+![](etheria-images/2019/12/maleta-tailandia-sandalias-900x600.jpg "Las sandalias cerradas son perfectas para los días de lluvia.")
 
 Necesitarás un **calzado cómodo y cerrado** sobre todo si vas a hacer excursiones por el 
 norte del país. Si vas en época de lluvia, son muy prácticas las **sandalias deportivas 
@@ -68,7 +68,7 @@ si visitas las zonas de playa, son imprescindibles unas sandalias planas y unas
 chanclas. Si vas a realizar actividades acuáticas, una buena opción es llevar 
 **escarpines** para no dañarte los pies con las rocas. 
 
-![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria_images/2019/12/Maleta-tailandia-escarpines-900x900.jpg "Escarpines de © Decathlon")
+![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria-images/2019/12/Maleta-tailandia-escarpines-900x900.jpg "Escarpines de © Decathlon")
 
 ## 3\. Repelente para mosquitos
 
@@ -85,7 +85,7 @@ Necesitarás una **crema de al menos un 50 de protección**, gorra o sombrero y 
 sol. En los lugares de playa no te confíes y lleva siempre un **pareo** a mano para 
 poder taparte los hombros si vas a estar expuesta al sol mucho rato. 
 
-![Protegerse del sol es imprescindible en las playas tailandesas.](etheria_images/2019/12/maleta-tailandia-proteccion-sol-900x600.jpg "Protegerse del sol es imprescindible en las playas tailandesas. © Farsai Chaikulngamdee")
+![Protegerse del sol es imprescindible en las playas tailandesas.](etheria-images/2019/12/maleta-tailandia-proteccion-sol-900x600.jpg "Protegerse del sol es imprescindible en las playas tailandesas. © Farsai Chaikulngamdee")
 
 Una de las actividades que casi seguro realizaras en la zona de playa es el snorkel: no 
 te olvides una [camiseta para el 
@@ -93,7 +93,7 @@ sol](https://www.decathlon.es/es/p/top-camiseta-protecion-solar-playa-surf-olaia
 en tu maleta para Tailandia. Las mejores son las que se pueden mojar y se secan rápido, 
 podrás disfrutar del fondo marino sin preocuparte de si te quemas la espalda. 
 
-![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria_images/2019/12/maleta-tailandia-camiseta-sol-900x900.jpg "Camista para protegerse del sol perfecta para bañarse con ella. © Decathlon")
+![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria-images/2019/12/maleta-tailandia-camiseta-sol-900x900.jpg "Camista para protegerse del sol perfecta para bañarse con ella. © Decathlon")
 
 ## 5\. Resguardarse de la lluvia
 
@@ -105,7 +105,7 @@ ligero](https://www.elcorteingles.es/deportes/A14517912-chubasquero-de-mujer-mou
 (hace mucho calor) y calzado que pueda mojarse y que se seque rápido. También puedes 
 llevar un **paraguas** pequeño que abulte poco en la maleta. 
 
-![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria_images/2019/12/maleta-tailandia-paraguas-chubasquero-900x439.jpg "Chubasquero de ©El Corte Inglés y paraguas de © Misako.")
+![viajes a Tailandia, luna de miel en Tailandia, viajes en pareja](etheria-images/2019/12/maleta-tailandia-paraguas-chubasquero-900x439.jpg "Chubasquero de ©El Corte Inglés y paraguas de © Misako.")
 
 ## 6\. Botiquín
 
@@ -120,7 +120,7 @@ el aire acondicionado), tiritas, gasas y suero en monodosis. Una buena opción e
 con un botiquín compacto como el de [Promofarma](https://www.promofarma.com/es/aposan-botiquin-1ud/p-258865) 
 y completarlo con las medicinas que necesites. 
 
-![Puedes llevar un botiquín y completarlo con las medicinas que necesites.](etheria_images/2019/12/maleta-tailandia-medicinas-900x299.jpg "Puedes llevar un botiquín y completarlo con las medicinas que necesites. © Promofarma")
+![Puedes llevar un botiquín y completarlo con las medicinas que necesites.](etheria-images/2019/12/maleta-tailandia-medicinas-900x299.jpg "Puedes llevar un botiquín y completarlo con las medicinas que necesites. © Promofarma")
 
 ## 7\. Tecnología
 
@@ -128,7 +128,7 @@ No olvides el [adaptador](https://amzn.to/353faed) para la corriente en tu malet
 Tailandia, en algunos hoteles puedes encontrar enchufes como los españoles y si no te 
 pueden facilitar uno, pero no ocupa mucho en la maleta y puede ahorrarte problemas. 
 
-![Adaptador de corriente y tarjeta SIM de holafly](etheria_images/2019/12/maleta-tailandia-tecnologia-900x321.jpg "Adaptador de corriente y tarjeta SIM de ©holafly")
+![Adaptador de corriente y tarjeta SIM de holafly](etheria-images/2019/12/maleta-tailandia-tecnologia-900x321.jpg "Adaptador de corriente y tarjeta SIM de ©holafly")
 
 Para comunicarte y tener internet (muy útil si dependes de Google Maps para tus rutas) 
 puedes comprar una [tarjeta 

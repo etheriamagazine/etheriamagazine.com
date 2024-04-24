@@ -1,10 +1,10 @@
 ---
 title: "Sania en Patagonia (parte 1):  Ushuaia y Punta Arenas"
 date: 2023-01-10
-coverImage: etheria_images/2023/01/portada-sania-jelic-patagonia.jpg
+coverImage: etheria-images/2023/01/portada-sania-jelic-patagonia.jpg
 categories: 
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -13,7 +13,7 @@ en los últimos días. En este artículo nos relata en primera persona sus impre
 Ushuaia, conocida como 'la tierra del fin del mundo', y de Punta Arenas, ciudad chilena 
 situada en el estrecho de Magallanes. 
 
-![Sania Jelic en la Patagonia argentina.](etheria_images/2023/01/Sania-calafate.jpg "Sania en la Patagonia argentina. © Sania Jelic")
+![Sania Jelic en la Patagonia argentina.](etheria-images/2023/01/Sania-calafate.jpg "Sania en la Patagonia argentina. © Sania Jelic")
 
 Al intentar organizar el viaje a esta parte del mundo estuve investigando cómo trazar la 
 ruta y me resultó enormemente complicado. La región de Patagonia es muy grande, 
@@ -33,7 +33,7 @@ la colonización de Australia, aquí también fueron enviados delincuentes y la 
 que funcionó de 1896 a 1947, tuvo un gran papel en el desarrollo e historia de la 
 ciudad. La base naval participó en la guerra de las Malvinas en 1982. 
 
-![faro de les Eclaireurs](etheria_images/2023/01/Ushuaia-faro-eclaireurs.jpg "El faro de Les Eclaireurs se puede ver en la navegación por el Canal de Beagle.")
+![faro de les Eclaireurs](etheria-images/2023/01/Ushuaia-faro-eclaireurs.jpg "El faro de Les Eclaireurs se puede ver en la navegación por el Canal de Beagle.")
 
 Ushuaia me gustó mucho por la sensación de **seguridad y tranquilidad,** y por la 
 amabilidad de las personas con las que pude interactuar como visitante. Es evidente que 
@@ -64,7 +64,7 @@ pena. Se entiende el origen de Ushuaia desde la comodidad del vagón observando 
 bonitos. El paseo por el parque es una secuencia de paradas en miradores para sacar 
 fotos. Los guías explican la flora y fauna y hay cortos paseos. 
 
-![Parque Nacional de Tierra de Fuego.](etheria_images/2023/01/Sania-tierra-fuego-ushuaia.jpg "Parque Nacional de Tierra de Fuego. © SJ")
+![Parque Nacional de Tierra de Fuego.](etheria-images/2023/01/Sania-tierra-fuego-ushuaia.jpg "Parque Nacional de Tierra de Fuego. © SJ")
 
 ✅ **La playa Larga** (se puede ir en taxi, unos 5-6 €). Paseo muy agradable en la playa, 
 observando flora y fauna y una fantástica vista a la ciudad. 
@@ -89,7 +89,7 @@ tiene ahora unos 100.000 habitantes y ambición de crecer. Y trabajo hay. Pero t
 problema: los alojamientos turísticos han invadido la ciudad y los trabajadores que 
 llegan de otras regiones no encuentran pisos para alquilar y se tienen que ir. 
 
-![arte urbano en Ushuaia](etheria_images/2023/01/Sania-ushuaia-murales.jpg "Murales de Ushuaia. © SJ")
+![arte urbano en Ushuaia](etheria-images/2023/01/Sania-ushuaia-murales.jpg "Murales de Ushuaia. © SJ")
 
 Se ha empezado a construir, pero no va a la par con el crecimiento de la demanda. Ahí es 
 donde empecé a fijarme en las casas en la ciudad, las cuales desaparecerán pronto 
@@ -126,7 +126,7 @@ para concienciar sobre la situación y necesidad de mujeres, plataformas de prom
 eventos como la “Feria de artesanía navideña”. La ciudad está llena de inscripciones que 
 apoyan a la mujer. 
 
-![banderas en Ushuaia](etheria_images/2023/01/sania-ushuaia-banderas.jpg "Sania Jelic señalando la bandera de Croacia, su país de origen, en Ushuaia. © SJ")
+![banderas en Ushuaia](etheria-images/2023/01/sania-ushuaia-banderas.jpg "Sania Jelic señalando la bandera de Croacia, su país de origen, en Ushuaia. © SJ")
 
 ✅ **Lo que aprendí:** ¡Western Union! La solución para pagos en Argentina. Al haber 
 tanta inflación y dos tipos de cambio, el oficial y el “blue”, la manera más sencilla de 
@@ -158,7 +158,7 @@ el principal puerto de navegación entre los océanos Pacífico y Atlántico por
 ubicación en el estrecho de Magallanes. Esto hizo de ella un gran centro cosmopolita y 
 comercial en el extremo austral de Sudamérica. 
 
-![Sania en la Casa Croata de Punta Arenas.](etheria_images/2023/01/Sania-Punta-arenas-casa-croata.jpg "Sania en la Casa Croata de Punta Arenas. © SJ")
+![Sania en la Casa Croata de Punta Arenas.](etheria-images/2023/01/Sania-Punta-arenas-casa-croata.jpg "Sania en la Casa Croata de Punta Arenas. © SJ")
 
 Había mucha inmigración europea, principalmente croatas, españoles e ingleses. Los 
 croatas venían de las islas dálmatas de Brac y Hvar, que a finales del siglo XIX 
@@ -179,7 +179,7 @@ muchas tumbas están cubiertas con tierra y sembradas con flores. Ahí la vida s
 transforma en otra vida. Las tumbas están completamente mezcladas: viejas y nuevas y 
 todas las nacionalidades. Pero predominan croatas, británicos y españoles. 
 
-![tumbas de mascotas en Punta Arenas](etheria_images/2023/01/Sania-Punta-arenas-cementerio-mascotas.jpg "Cementerio de mascotas en Punta Arenas. © SJ")
+![tumbas de mascotas en Punta Arenas](etheria-images/2023/01/Sania-Punta-arenas-cementerio-mascotas.jpg "Cementerio de mascotas en Punta Arenas. © SJ")
 
 El otro cementerio, también muy peculiar, está a unos 10 kilómetros al sur de la ciudad. 
 Es el **cementerio de las mascotas**. Está a la orilla del mar y muy bien cuidado. 

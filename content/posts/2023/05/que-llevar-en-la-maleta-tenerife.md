@@ -1,11 +1,11 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Tenerife"
 date: 2023-05-26
-coverImage: etheria_images/2023/05/tenerife-playa-medano.jpg
+coverImage: etheria-images/2023/05/tenerife-playa-medano.jpg
 categories: 
   - viajes-con-amigas
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Tenerife es un destino que apetece siempre, por su clima, sus playas y su increíble 
@@ -13,7 +13,7 @@ naturaleza. Como sabemos que es uno de tus lugares preferidos de Canarias, te da
 claves para preparar la maleta para un viaje a Tenerife y disfrutar al máximo de esta 
 isla tan especial. 
 
-![chica de espaldas en una playa de Tenerife](etheria_images/2023/05/tenerife-playa-medano.jpg "En Tenerife no faltarán las jornadas interminables de playa.")
+![chica de espaldas en una playa de Tenerife](etheria-images/2023/05/tenerife-playa-medano.jpg "En Tenerife no faltarán las jornadas interminables de playa.")
 
 Unos días en Tenerife son siempre un regalo. Posee un clima privilegiado, sobre todo en 
 el sur, con una eterna primavera que permite disfrutar de la playa sin calor extremo 
@@ -35,7 +35,7 @@ menos la ropa. Las de [Ítaca](https://amzn.to/3OtnwoT) tiene muy buenos precios
 resistentes. Si te quieres dar un capricho, confía en la calidad de las maletas [Samsonite](https://amzn.to/43eXtWM), 
 te acompañará a lo largo de muchos viajes. 
 
-![maletas azul y verde](etheria_images/2023/05/tenerife-maletas.jpg "Maletas de Ítaca y Samsonite disponibles en Amazon.")
+![maletas azul y verde](etheria-images/2023/05/tenerife-maletas.jpg "Maletas de Ítaca y Samsonite disponibles en Amazon.")
 
 ## Para la playa
 
@@ -47,7 +47,7 @@ pues fenomenal. Nos encantan las coloridas de [Wawsam](https://amzn.to/3MpZdFJ),
 además tienen bolsillos muy prácticos, y la de [White Ze](https://amzn.to/421GVjR), que 
 no abulta nada y permite sacudir la tierra muy fácilmente. 
 
-![Bolsa estampada y bolsa rosa para la playa](etheria_images/2023/05/tenerife-bolsas-playa.jpg "Bolsas ligeras para la playa que se pueden comprar en Amazon.")
+![Bolsa estampada y bolsa rosa para la playa](etheria-images/2023/05/tenerife-bolsas-playa.jpg "Bolsas ligeras para la playa que se pueden comprar en Amazon.")
 
 ## Para la montaña
 
@@ -60,7 +60,7 @@ bajan las temperaturas y puede llover. Es imprescindible que lleves un [cortavie
 senderismo](https://amzn.to/45fb8Pk) (también de Columbia) con las que caminar, incluso 
 si haces la excursión habitual para ver el Teide te vendrán muy bien. 
 
-![cortavientos y zapatilla de trekking](etheria_images/2023/05/tenerife-senderismo.jpg "Cortavientos y zapatillas de senderismo de Columbia disponibles en Amazon.")
+![cortavientos y zapatilla de trekking](etheria-images/2023/05/tenerife-senderismo.jpg "Cortavientos y zapatillas de senderismo de Columbia disponibles en Amazon.")
 
 ## Para hacer deporte
 
@@ -75,7 +75,7 @@ ellos. La raqueta, la pala o los palos de golf normalmente se pueden alquilar en
 hoteles (infórmate antes de viajar). Y para cualquier deporte, no olvides llevar un buen 
 top o sujetador deportivo, como éste de [Puma](https://amzn.to/45o52w7). 
 
-![Zapatillas de correr de Asics y top deportivo de Puma.](etheria_images/2023/05/tenerife-ropa-deporte.jpg "Zapatillas de correr de Asics y top deportivo de Puma.")
+![Zapatillas de correr de Asics y top deportivo de Puma.](etheria-images/2023/05/tenerife-ropa-deporte.jpg "Zapatillas de correr de Asics y top deportivo de Puma.")
 
 ## Ropa
 
@@ -88,7 +88,7 @@ blusas y una **chaqueta ligera**. Mira estos dos modelos que te proponemos, disp
 en Amazon: una tipo [b](https://amzn.to/41Tz9J3)[é](https://amzn.to/41Tz9J3)[isbol](https://amzn.to/41Tz9J3) 
 y otra [vaquera](https://amzn.to/439PdHA). 
 
-![Chaqueta azul estampada y chaqueta vaquera](etheria_images/2023/05/tenerife-chaqueta-ligera.jpg "Chaquetas ligeras perfectas para llevar a Tenerife.")
+![Chaqueta azul estampada y chaqueta vaquera](etheria-images/2023/05/tenerife-chaqueta-ligera.jpg "Chaquetas ligeras perfectas para llevar a Tenerife.")
 
 ## Calzado
 
@@ -100,7 +100,7 @@ las blancas clásicas aciertas seguro. Un tipo de calzado que sirve para casi cu
 viaje son las [sandalias deportivas](https://amzn.to/3WooqVR), con las que se camina 
 fenomenal por cualquier tipo de terreno. Las de Skechers son comodísimas. 
 
-![Sandalias de Gioseppo, zapatillas Converse y sandalias de senderismo](etheria_images/2023/05/tenerife-calzado.jpg "Sandalias de Gioseppo, zapatillas Converse y sandalias de senderismo de Skechers.")
+![Sandalias de Gioseppo, zapatillas Converse y sandalias de senderismo](etheria-images/2023/05/tenerife-calzado.jpg "Sandalias de Gioseppo, zapatillas Converse y sandalias de senderismo de Skechers.")
 
 ## Neceser
 
@@ -120,7 +120,7 @@ sirve para ojos, mejillas y labios, la [barra sólida facial y corporal de
 Karité](https://tidd.ly/3B8AjVJ) o el [bálsamo labial Swipe 
 It](https://tidd.ly/3IAtVLq), que da un toque de color. 
 
-![lapiz de ojo, pastilla de jabón y brillo de labios de The Body Shop](etheria_images/2023/05/tenerife-neceser.jpg "Productos de © The Body Shop perfectos para viaje.")
+![lapiz de ojo, pastilla de jabón y brillo de labios de The Body Shop](etheria-images/2023/05/tenerife-neceser.jpg "Productos de © The Body Shop perfectos para viaje.")
 
 ## Complementos
 
@@ -136,7 +136,7 @@ aprovecha el sombrero para meter dentro la ropa interior y así lo podrás lleva
 doblar para que no se arrugue o elige un modelo plegable, como [éste](https://amzn.to/3WuUIOL) 
 de Amazon). 
 
-![Foulard azul y sombrero plegable](etheria_images/2023/05/tenerife-complementos.jpg "Foulard y sombrero plegable que se pueden comprar en Amazon.")
+![Foulard azul y sombrero plegable](etheria-images/2023/05/tenerife-complementos.jpg "Foulard y sombrero plegable que se pueden comprar en Amazon.")
 
 ## Gadgets
 
@@ -151,7 +151,7 @@ y dedicarle ese tiempo que cuesta tanto sacar en el día a día. Te vendrá bien
 entre ellos las coloridas de la fotografía, para poder cargar el teléfono en las 
 excursiones o jornadas de playa más largas. 
 
-![Airpods de tercera generación baterías de colores de la FNAC.](etheria_images/2023/05/tenerife-gadgets.jpg "Airpods de tercera generación (en Amazon) y baterías de colores de la © FNAC.")
+![Airpods de tercera generación baterías de colores de la FNAC.](etheria-images/2023/05/tenerife-gadgets.jpg "Airpods de tercera generación (en Amazon) y baterías de colores de la © FNAC.")
 
 ## Guías de viaje
 
@@ -160,7 +160,7 @@ indicamos más abajo, siempre está bien tener a mano una guía de viaje. _[Tene
 cerca](https://amzn.to/3MOqq6y)_, de Lonely Planet, y la guía Guiarama _[Un corto viaje 
 a la isla de Tenerife](https://amzn.to/423iOl9)_, de Anaya, son una buena elección. 
 
-![Guías de viaje de Tenerife.](etheria_images/2023/05/tenerife-guias-viaje.jpg "Guías de viaje de Tenerife.")
+![Guías de viaje de Tenerife.](etheria-images/2023/05/tenerife-guias-viaje.jpg "Guías de viaje de Tenerife.")
 
 ? **También te puede interesar:** 
 

@@ -1,12 +1,12 @@
 ---
 title: "Viaje en familia por Baviera: de Playmobil a Legoland"
 date: 2019-06-12
-coverImage: etheria_images/2019/05/Baviera-Rothenburg.jpg
+coverImage: etheria-images/2019/05/Baviera-Rothenburg.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Una de las zonas europeas con la que aciertas sí o sí en un viaje familiar es el sur de 
@@ -14,7 +14,7 @@ Alemania, ya que combina ciudades históricas con dos de los mejores parques par
 el Fun Park Playmobil y Legoland. Aquí te proponemos una ruta de seis días para que 
 aproveches el tiempo sin perderte nada. 
 
-![prado y montañas en Baviera](etheria_images/2019/05/Baviera-paisaje.jpg "Paisaje del sur de Baviera.")
+![prado y montañas en Baviera](etheria-images/2019/05/Baviera-paisaje.jpg "Paisaje del sur de Baviera.")
 
 Viajar con niños por Europa es cómodo y fácil, y Baviera representa una apuesta segura 
 para este tipo de viajes. Además, esta ruta que planteamos se puede hacer con niños de 
@@ -33,7 +33,7 @@ que forman una auténtica ciudad en la parte alta de la urbe y ofrece unas espec
 vistas desde la Torre del Pecado. El pulso de Núremberg se toma en la Haupmarkt, la 
 plaza del Mercado, con sus puestos de toldos a rayas y la bonita fuente Schöner Brunnen. 
 
-![castillo de Nuremberg](etheria_images/2019/05/Baviera-Nuremberg-castillo.jpg "Castillo de Núremberg.")
+![castillo de Nuremberg](etheria-images/2019/05/Baviera-Nuremberg-castillo.jpg "Castillo de Núremberg.")
 
 Es obligatorio acercarse a contemplar el puente del Verdugo desde el puente de Maxbrücke 
 para hacer una de las fotos más populares de la ciudad: el puente, la torre del Verdugo 
@@ -52,7 +52,7 @@ nueve años, que son los que más disfrutarán con las actividades: buscar el te
 pirata, pasear en barcas, remover las aguas en busca de oro e, incluso, ¡ordeñar vacas 
 Playmobil! Este año ofrece una nueva zona pirata. 
 
-![niña con personajes de Playmobil](etheria_images/2019/05/Baviera-playmobil.jpg "Granja de Playmobil Fun Park. © SG")
+![niña con personajes de Playmobil](etheria-images/2019/05/Baviera-playmobil.jpg "Granja de Playmobil Fun Park. © SG")
 
 El **Fun Park Playmobil** cuenta con una enorme **zona cubierta** de juegos, que permite 
 disfrutar de la jornada si llueve, y con un **autoservicio de comida** de una calidad 
@@ -70,7 +70,7 @@ flores y escaparates de bonitas tiendas. Si vas con tiempo, merece la pena recor
 murallas (o al menos una parte de ellas) que tienen ¡43 torres! Desde luego han cumplido 
 su función de guardar en perfecto estado su precioso casco histórico. 
 
-![calle de Rottemburg](etheria_images/2019/05/Baviera-Rothenburg.jpg "Coqueto casco histórico de Rotemburgo.")
+![calle de Rottemburg](etheria-images/2019/05/Baviera-Rothenburg.jpg "Coqueto casco histórico de Rotemburgo.")
 
 Después, la ruta continúa hasta [Legoland](https://www.legoland.de/en/), donde es muy 
 recomendable alojarse en uno de los hoteles de la **Legoland Holiday Village**. Además 
@@ -79,7 +79,7 @@ apetezca ya que están justo al lado y ofrecen una entrada privada más tranquil
 principal. Además, los hoteles tienen sus propias actividades de ocio, como tirolinas, 
 un lago-playa e infinidad de zonas de juego. 
 
-![barco pirata en Legoland Pirate Island Hotel](etheria_images/2019/05/Baviera-legoland-hoteles-1.jpg "Zona de juegos del Legoland Pirate Island Hotel. © Legoland")
+![barco pirata en Legoland Pirate Island Hotel](etheria-images/2019/05/Baviera-legoland-hoteles-1.jpg "Zona de juegos del Legoland Pirate Island Hotel. © Legoland")
 
 ## Día 4. Día completo en Legoland
 
@@ -89,7 +89,7 @@ edades. Este año las novedades son la renovada zona de **Pharaohs’ Land** (co
 atracciones), el mundo alrededor de la última película de la marca **‘The Lego Movie 
 2’** y una nueva película en 4D, **‘Cops in Action!’**. 
 
-![atracción de bomberos en Legoland](etheria_images/2019/05/Baviera-legoland-novedad.jpg "Nueva atracción en la zona de Pharaon's Land. © Legoland")
+![atracción de bomberos en Legoland](etheria-images/2019/05/Baviera-legoland-novedad.jpg "Nueva atracción en la zona de Pharaon's Land. © Legoland")
 
 El parque está dividido en zonas como LEGO Ninjago World, Knights Kindom, Adventure 
 Land, Pirate Land o Miniland, cada una con sus propias atracciones, zonas de juego y 
@@ -109,7 +109,7 @@ alemán), en alusión al rey Luis II de Baviera, amante de las grandes obras. Di
 marca Disney pero, en cualquier caso, su perfil neogótico ofrece una imagen imponente en 
 medio del bosque. Si llegas con tiempo, merece la pena conocer su interior. 
 
-![castillo del Rey Loco](etheria_images/2019/05/Baviera-castillo-Neuschwanstein.jpg "Castillo de Neuschwanstein. © SG")
+![castillo del Rey Loco](etheria-images/2019/05/Baviera-castillo-Neuschwanstein.jpg "Castillo de Neuschwanstein. © SG")
 
 Y para alojarte ese día, elige la ciudad de **Füssen**, muy cerca del castillo, perfecta 
 para dar un paseo y terminar el día con una cena típica a base de asado de cerdo y 
@@ -121,7 +121,7 @@ Este día recorrerás una de las zonas más tradicionales de Alemania, la del di
 **Garmisch-Partenkirchen**, repleto de pequeños pueblos bávaros llenos de encanto 
 cobijados bajo el Zugspitze, la montaña más alta de Alemania. 
 
-![decoración de casa en Oberammergau en Baviera](etheria_images/2019/05/Baviera-Oberammergau-frescos.jpg "Decoración al fresco en Oberammergau.")
+![decoración de casa en Oberammergau en Baviera](etheria-images/2019/05/Baviera-Oberammergau-frescos.jpg "Decoración al fresco en Oberammergau.")
 
 Merece la pena parar en **Oberammergau** para descubrir los frescos de sus fachadas del 
 siglo XVIII (no te pierdas la Casa de Pilatos) conocidos como _Lüftlmalerei_ y la 
@@ -135,7 +135,7 @@ kilómetros. Aquí el barroco y la exuberancia del siglo XIX, que tanto gustaban
 II, toman forma, y los más pequeños disfrutarán con un paseo por sus jardines llenos de 
 fuentes y cascadas. 
 
-![fuente en el palacio de Linderhof](etheria_images/2019/05/Baviera-palacio-linderhof.jpg "Jardines del palacio de Linderhof.")
+![fuente en el palacio de Linderhof](etheria-images/2019/05/Baviera-palacio-linderhof.jpg "Jardines del palacio de Linderhof.")
 
 Desde aquí ya sólo queda conducir hasta el aeropuerto de Múnich para tomar el vuelo de 
 vuelta. Si dispones de más días, no dudes en quedarte en esta animada ciudad con una 
@@ -158,7 +158,7 @@ a Füssen sólo hay 4 km.
 3\. De Füssen a Obeamergau hay 46 km (unos 45 minutos) y de Oberamergau a Múnich 90 km 
 (1 hora y 15 minutos). 
 
-![Nueva atracción en la zona de Pharaon's Land.](etheria_images/2019/05/Baviera-legoland-ninajgo.jpg "Diversión en Ninjago World. © Legoland")
+![Nueva atracción en la zona de Pharaon's Land.](etheria-images/2019/05/Baviera-legoland-ninajgo.jpg "Diversión en Ninjago World. © Legoland")
 
 ### Dónde dormir
 

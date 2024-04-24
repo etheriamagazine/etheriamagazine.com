@@ -1,18 +1,18 @@
 ---
 title: "Valle del Loira, cinco castillos y un increíble festival de jardines"
 date: 2021-08-09
-coverImage: etheria_images/2021/08/valle-loira-Castillo-de-Chaumont-sur-Loire.jpg
+coverImage: etheria-images/2021/08/valle-loira-Castillo-de-Chaumont-sur-Loire.jpg
 categories: 
   - viajes-con-amigas
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 Un viaje por el Valle del Loira te brinda algunas de las experiencias más sorprendentes que se pueden vivir en territorio francés. Entre ellas, una vivencia multisensorial en el Festival de Jardines de Chaumont-sur-Loire. En este itinerario paseamos entre flores y castillos antes de brindar con un cóctel Kir Royal. ¡Qué más se puede pedir!
 
-![castillo de chaumont sur loire valle loira](etheria_images/2021/08/valle-loira-Castillo-de-Chaumont-sur-Loire.jpg "Castillo de Chaumont-sur-Loire. © Pedro Grifol")
+![castillo de chaumont sur loire valle loira](etheria-images/2021/08/valle-loira-Castillo-de-Chaumont-sur-Loire.jpg "Castillo de Chaumont-sur-Loire. © Pedro Grifol")
 
 La región Centro-Valle del Loira es conocida por tener los castillos más espectaculares 
 de Francia; pero el territorio que atraviesa el río más largo del país –el Loira– no 
@@ -29,7 +29,7 @@ culturales del Valle del Loira, el Festival Internacional de Jardines, un evento
 triple identidad –patrimonial, artística y jardinística– que convierte al lugar en uno 
 de los sitios más atractivos para visitar en vacaciones. 
 
-![22 Festival de los Jardines de Chaumont sur Loire](etheria_images/2021/08/Francia-Festival-de-los-Jardines-de-Chaumont-sur-Loire.jpg "Algunas piezas del Festival de los Jardines de Chaumont-sur-Loire. © Pedro Grifol")
+![22 Festival de los Jardines de Chaumont sur Loire](etheria-images/2021/08/Francia-Festival-de-los-Jardines-de-Chaumont-sur-Loire.jpg "Algunas piezas del Festival de los Jardines de Chaumont-sur-Loire. © Pedro Grifol")
 
 Te proponemos un viaje en coche de 5 o 6 días para que puedas pasar (por lo menos un par 
 de días) visitando las numerosas instalaciones artísticas ubicadas en plena naturaleza 
@@ -41,7 +41,7 @@ Barceló. No es una feria de arte… pero es una representación de lo más flor
 contemporáneo. Si no conoces a los artistas más mediáticos del momento… ¡razón de más 
 para ir! La cultura no ocupa lugar. 
 
-![z25 Festival de los Jardines de Chaumont sur Loire](etheria_images/2021/08/Festival-de-los-Jardines-de-Chaumont-sur-Loire.jpg "Festival de los Jardines de Chaumont-sur-Loire. © Pedro Grifol")
+![z25 Festival de los Jardines de Chaumont sur Loire](etheria-images/2021/08/Festival-de-los-Jardines-de-Chaumont-sur-Loire.jpg "Festival de los Jardines de Chaumont-sur-Loire. © Pedro Grifol")
 
 Pero, sobre todo, este viaje en coche por el Valle del Loira permite sumergirse en la 
 magia creativa de los diseñadores de jardines. Esto constituye el plato fuerte del 
@@ -57,7 +57,7 @@ enunciar algunos de los poéticos nombres con los que los magos paisajistas han
 denominado sus propuestas: ‘El valle de las brumas’, ’El jardín camaleónico’, ‘Mosaico 
 mimético’ o ‘El río de los tulipanes claros’. Si vas, lo recordarás siempre. 
 
-![ciudad de blois valle del loira](etheria_images/2021/08/valle-loira-ciudad-Blois.jpg "Calles de la ciudad de Blois. © Pedro Grifol")
+![ciudad de blois valle del loira](etheria-images/2021/08/valle-loira-ciudad-Blois.jpg "Calles de la ciudad de Blois. © Pedro Grifol")
 
 ## Castillos del Loira, megalomanía real
 
@@ -72,7 +72,7 @@ el Renacimiento, construyeron tantos castillos que no tenemos otra opción que
 seleccionar algunos de los más sobresalientes para la visita… y para nombrar algunas de 
 sus curiosidades. 
 
-![Castillo del Blois valle del loira](etheria_images/2021/08/Valle-del-Loira-Castillo-de-Blois.jpg "Castillo del Blois, interior, exterior y vistas, y retrato de la reina Claudia ataviada con ropaje color 'ciruela claudia'. © Pedro Grifol")
+![Castillo del Blois valle del loira](etheria-images/2021/08/Valle-del-Loira-Castillo-de-Blois.jpg "Castillo del Blois, interior, exterior y vistas, y retrato de la reina Claudia ataviada con ropaje color 'ciruela claudia'. © Pedro Grifol")
 
 #### Castillo de Blois
 
@@ -87,7 +87,7 @@ su esposa la Reina Claudia) desfilan en un espectáculo 360º de luz y sonido
 > ¿Sabías que la Reina Claudia de Francia, dio nombre a las ‘claudias’, esas dulces 
 > ciruelas verde-amarillentas? 
 
-![castillo de chambord en el valle del loira](etheria_images/2021/08/Valle-loira-Castillo-de-Chambord-Foto©Pedro-Grifol.jpg "Castillo de Chambord, en el Valle del Loira. © Pedro Grifol")
+![castillo de chambord en el valle del loira](etheria-images/2021/08/Valle-loira-Castillo-de-Chambord-Foto©Pedro-Grifol.jpg "Castillo de Chambord, en el Valle del Loira. © Pedro Grifol")
 
 #### Castillo de Chambord
 
@@ -107,7 +107,7 @@ infierno”. Final imprevisible.
 
 ?Ad: Entradas al castillo de Chambord. [Reservas](https://www.civitatis.com/es/chambord/entrada-castillo-chambord/?aid=10211). 
 
-![sala de casa del castillo de chambord](etheria_images/2021/08/valle-loira-Castillo-de-Chambord-Sala-de-caza.jpg "Sala de Caza del castillo de Chambord. © Pedro Grifol")
+![sala de casa del castillo de chambord](etheria-images/2021/08/valle-loira-Castillo-de-Chambord-Sala-de-caza.jpg "Sala de Caza del castillo de Chambord. © Pedro Grifol")
 
 > ¿Os habéis fijado en la etiqueta del licor de hierbas Jägermeister? Pues ahí veréis un 
 > ciervo que os mira… y la cruz resplandeciente. 
@@ -126,7 +126,7 @@ sirvieran de ejemplo.
 ?Ad: Paseo en globo por el Valle del Loira desde Amboise, una experiencia inolvidable. [Info 
 y precios](https://www.civitatis.com/es/amboise/paseo-globo-valle-loira/?aid=10211). 
 
-![Castillo de Amboise](etheria_images/2021/08/Castillo-de-Amboise-Foto©Pedro-Grifol.jpg "Castillo de Amboise. © Pedro Grifol")
+![Castillo de Amboise](etheria-images/2021/08/Castillo-de-Amboise-Foto©Pedro-Grifol.jpg "Castillo de Amboise. © Pedro Grifol")
 
 #### Castillo de Chenonceau
 
@@ -138,7 +138,7 @@ ganchos para colgar la caza y los tajos para descuartizarla. El hilo conductor d
 visita a la fortaleza es la ornamentación floral de todos los recintos (incluida la 
 cocina). Asombroso. 
 
-![Castillo de Chenonceau valle del loira](etheria_images/2021/08/valle-loira-Castillo-de-Chenonceau.jpg "Castillo de Chenonceau. © Pedro Grifol")
+![Castillo de Chenonceau valle del loira](etheria-images/2021/08/valle-loira-Castillo-de-Chenonceau.jpg "Castillo de Chenonceau. © Pedro Grifol")
 
 El castillo también posee una bodega histórica del siglo XVI, donde sus sucesivos dueños 
 han elaborado, cada uno en su momento, prestigiosos caldos. En la actualidad podemos 
@@ -146,7 +146,7 @@ degustar –y comprar– un Sauvignon Blanc; un tinto (70% côt + 30% Cabernet F
 rareza denominada _tranquille-demi sec_, elaborada con uva Chenin 100%, al que han 
 llamado Millésime EDITION MEDICIS 2018. 
 
-[![coctel kir royal valle del loira](etheria_images/2021/08/kir-royal-francia.jpg "Vídeo para aprender a hacer el cóctel Kir Royal (clic en la imagen)")](https://www.youtube.com/watch?v=HnOoA0-k2C8)
+[![coctel kir royal valle del loira](etheria-images/2021/08/kir-royal-francia.jpg "Vídeo para aprender a hacer el cóctel Kir Royal (clic en la imagen)")](https://www.youtube.com/watch?v=HnOoA0-k2C8)
 
 ## El aperitivo francés
 
@@ -164,7 +164,7 @@ una copa flauta 10 ml. de Crème de Cassis Girardot y completar con 90 ml. de Sa
 Blanc-Extra Brut, un excelente _pétillant_ de la bodega de los cultivadores de burbujas 
 finas [Escher & Thomas](http://escher-thomas.com). ¡Salud! 
 
-![Restaurante Les Banquetes Rouges y chez bruno](etheria_images/2021/08/Restaurante-Les-Banquetes-Rouges-chez-bruno.jpg "Restaurante Les Banquetes Rouges, y magret de pato de Chez Bruno. © Pedro Grifol")
+![Restaurante Les Banquetes Rouges y chez bruno](etheria-images/2021/08/Restaurante-Les-Banquetes-Rouges-chez-bruno.jpg "Restaurante Les Banquetes Rouges, y magret de pato de Chez Bruno. © Pedro Grifol")
 
 ### Valle del Loira | Guía Etheria
 
@@ -188,7 +188,7 @@ por Amboise, te espera el restaurante **Chez Bruno**, frente al castillo, que te
 sorprenderá por su carta de vinos ya que tienen su propia bodega. Bueno y barato, y 
 bueno también para experimentar nuevos caldos franceses. 
 
-![Hotel La Maison du Carroir en Blois](etheria_images/2021/08/Hotel-La-Maison-du-Carroir-blois.jpg "Hotel La Maison du Carroir, en Blois. © Pedro Grifol")
+![Hotel La Maison du Carroir en Blois](etheria-images/2021/08/Hotel-La-Maison-du-Carroir-blois.jpg "Hotel La Maison du Carroir, en Blois. © Pedro Grifol")
 
 ##### Dónde dormir
 

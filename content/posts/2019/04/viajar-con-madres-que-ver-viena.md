@@ -1,17 +1,17 @@
 ---
 title: "Viena, un viaje para compartir con tu madre"
 date: 2019-04-24
-coverImage: etheria_images/2019/04/opera-viena-exterior.jpg
+coverImage: etheria-images/2019/04/opera-viena-exterior.jpg
 categories: 
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Cristina
+authors: 
+  - Cristina R. Bareño
 ---
 
 Magia, sofisticación y elegancia. Viena es la ciudad ideal para disfrutar con nuestras madres –o con nuestras mejores amigas– porque nos invita a soñar con historias de aquella época dorada en la que por sus avenidas paseaban las emperatrices camino de sus lujosos palacios.
 
-![violinista dorado en Viena](etheria_images/2019/04/viena-violinista.jpg "Si hubiese que elegir dos elementos en Viena serían la música y el arte. ©Pixabay")
+![violinista dorado en Viena](etheria-images/2019/04/viena-violinista.jpg "Si hubiese que elegir dos elementos en Viena serían la música y el arte. ©Pixabay")
 
 Viena es una de las ciudades más elegantes y sofisticadas de Europa. Su imperial 
 historia, la música clásica que la envuelve en todo momento, la arquitectura y el arte 
@@ -28,7 +28,7 @@ lo más delicioso.
 Te lo pondremos muy fácil porque hemos preparado un itinerario para disfrutar con tu 
 madre durante **cuatro días en Viena**. 
 
-![Palacio de Hofburg, viaje viena](etheria_images/2019/04/viena-palacio-Hofburg.jpg "Palacio de Hofburg. ©Pixabay")
+![Palacio de Hofburg, viaje viena](etheria-images/2019/04/viena-palacio-Hofburg.jpg "Palacio de Hofburg. ©Pixabay")
 
 ## Qué ver en Viena en 4 días
 
@@ -50,7 +50,7 @@ histórico de Viena es el mítico **Figlmüller** (en la Vollzeite), abierto des
 donde sirven además delicioso _cordon bleu_ de pollo y un queso emmental empanado que es 
 una auténtica perdición. 
 
-![palacio belvedere, viaje viena](etheria_images/2019/04/viena-palacio-belvedere.jpg "Palacio Belvedere. ©Pixabay")
+![palacio belvedere, viaje viena](etheria-images/2019/04/viena-palacio-belvedere.jpg "Palacio Belvedere. ©Pixabay")
 
 ### Segundo día: palacios Belvedere y Schönbrunn
 
@@ -64,7 +64,7 @@ construido entre 1714 y 1723 para el príncipe Eugenio de Saboya, y en su interi
 custodia “El beso” de Klimt, uno de los cuadros más reconocidos a nivel mundial, entre 
 otras obras de arte medieval, barroco, romántico e impresionista. 
 
-![palacio de Schonbrunn, viaje viena](etheria_images/2019/04/viena-palacio-schonbrunn.jpg "Palacio de Schönbrunn. ©Pixabay")
+![palacio de Schonbrunn, viaje viena](etheria-images/2019/04/viena-palacio-schonbrunn.jpg "Palacio de Schönbrunn. ©Pixabay")
 
 Continuamos el día visitando el Palacio de Schönbrunn, también conocido como residencia 
 de verano de los Habsburgo o “el Versalles austriaco” por sus impresionantes jardines y 
@@ -91,7 +91,7 @@ monumentos como el homenaje dorado a Johann-Strauss. Un plan perfecto es escoger
 apetitoso de comer en alguno de los mercadillos que podemos encontrar por los 
 alrededores y hacer un pequeño pícnic mientras respiramos aire fresco y nos relajamos. 
 
-![Opera viena, viaje amigas viena](etheria_images/2019/04/opera-viena-exterior.jpg "Vistas del edificio de la Ópera desde el Museo Albertina. ©Pixabay")
+![Opera viena, viaje amigas viena](etheria-images/2019/04/opera-viena-exterior.jpg "Vistas del edificio de la Ópera desde el Museo Albertina. ©Pixabay")
 
 ### La Ópera de Viena
 
@@ -105,7 +105,7 @@ emocionante. Un paseo en carruaje de caballos y deleitarse con una porción de l
 _**sacher-torte**_ del Hotel Sacher conseguirán que rematemos la jornada de la manera 
 más idílica posible. 
 
-![Fachada de la Casa Hundertwasser](etheria_images/2019/04/hundertwasser-viena.jpg "Fachada de HunderwasserHaus o Casa Hundertwasser. ©Pixabay")
+![Fachada de la Casa Hundertwasser](etheria-images/2019/04/hundertwasser-viena.jpg "Fachada de HunderwasserHaus o Casa Hundertwasser. ©Pixabay")
 
 ### Cuarto día: el anillo de Viena
 
@@ -160,7 +160,7 @@ Si buscáis una estancia más exclusiva y especial, en los clásicos, histórico
 grandiosos **Grand Hotel Wien** y **Hotel Sacher Wien** os sentiréis como auténticas 
 emperatrices de Austria. 
 
-![sacher cafe, tarta sacher viena](etheria_images/2019/04/viaje-viena-Sacher-Cafe.jpg "©Sacher Café.")
+![sacher cafe, tarta sacher viena](etheria-images/2019/04/viaje-viena-Sacher-Cafe.jpg "©Sacher Café.")
 
 ##### ¿Dónde merendar una tarta Sacher en Viena?
 

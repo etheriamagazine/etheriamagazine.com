@@ -1,18 +1,18 @@
 ---
 title: "Por qué visitar Tarifa aunque lo tuyo no sea el surf"
 date: 2020-07-06
-coverImage: etheria_images/2020/06/tarifa-Kitesurf.jpg
+coverImage: etheria-images/2020/06/tarifa-Kitesurf.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Rosa Marques
+authors: 
+  - Rosa Marqués
 ---
 
 Despejemos la incógnita: ¿por qué una ciudad conocida como una de las grandes mecas del viento del mundo nos atrae tanto aunque no practiquemos kitesurf ni windsurf? ¿No es curioso que la mayoría de los que no han ido la tengan pendiente de alguna manera? Te contamos qué hacer en Tarifa aunque no seas deportista.
 
-![viaje amigas, tarifa, playa chica](etheria_images/2020/06/tarifa-Playa-Chica-900x542.jpg "Playa Chica, en Tarifa. © José María Caballero")
+![viaje amigas, tarifa, playa chica](etheria-images/2020/06/tarifa-Playa-Chica-900x542.jpg "Playa Chica, en Tarifa. © José María Caballero")
 
 Intrigadas por ese deseo de conocer Tarifa, pero a sabiendas de las múltiples respuestas 
 que tras esta escapada íbamos a poder dar, partíamos de este punto: ¿qué debía tener la 
@@ -29,7 +29,7 @@ grandes hoteles ni las enormes y despersonalizadas cadenas hoteleras) estaban en
 mejorcito de la costa andaluza. Así que pusimos rumbo a Tarifa. Dijimos: “De este año no 
 pasa”. 
 
-![kitesurf tarifa, viaje amigas, surf tarifa,](etheria_images/2020/06/Tarifa-playa-kitesurf-900x611.jpg "Kitesurf en Tarifa. © José Mª Caballero")
+![kitesurf tarifa, viaje amigas, surf tarifa,](etheria-images/2020/06/Tarifa-playa-kitesurf-900x611.jpg "Kitesurf en Tarifa. © José Mª Caballero")
 
 ## Razones de peso para no posponer Tarifa
 
@@ -41,7 +41,7 @@ decidirnos a ir a la ciudad ibérica del viento. Después descubriríamos muchas
 más que trato de recoger en este artículo, donde te cuento qué hacer en Tarifa si no 
 haces surf. 
 
-![playa bolonia, viaje con amigas, playas tarifa](etheria_images/2020/06/tarifa-playa-de-Bolonia-900x600.jpg "Duna de la playa de Bolonia, en Tarifa. © José María Caballero")
+![playa bolonia, viaje con amigas, playas tarifa](etheria-images/2020/06/tarifa-playa-de-Bolonia-900x600.jpg "Duna de la playa de Bolonia, en Tarifa. © José María Caballero")
 
 ## ¿Qué hacer en Tarifa? Playa, playa, playa por favor…
 
@@ -54,7 +54,7 @@ merece la pena madrugar para disfrutar de la **Gran Duna de más de 30 metros** 
 que se mueve con los vientos de Levante, además de las increíbles ruinas de Baelo 
 Claudia. 
 
-![ruinas baelo claudia, playa bolonia, tarifa](etheria_images/2020/06/tarifa-Baelo-Claudia-900x600.jpg "Ruinas de Baelo Claudia, en Tarifa.")
+![ruinas baelo claudia, playa bolonia, tarifa](etheria-images/2020/06/tarifa-Baelo-Claudia-900x600.jpg "Ruinas de Baelo Claudia, en Tarifa.")
 
 #### Ruinas de Baelo Claudia o de Bolonia
 
@@ -69,7 +69,7 @@ imbatible.
 ? No te pierdas esta [guía para visitar Baelo Claudia con 10 paradas 
 imprescindibles](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
 
-![playa lances, playas tarifa, viajes amigas](etheria_images/2020/06/tarifa-playa-lances-900x600.jpg "Playa de los Lances, en Tarifa. © José Mª Caballero")
+![playa lances, playas tarifa, viajes amigas](etheria-images/2020/06/tarifa-playa-lances-900x600.jpg "Playa de los Lances, en Tarifa. © José Mª Caballero")
 
 #### Playa Chica y playa de los Lances
 
@@ -82,7 +82,7 @@ visitamos algunos de los **chiringuitos** de este paseo: **El Balneario**, El Wa
 ellos, metido en el mar, con la puesta de sol de fondo. Aquí tomamos unos cuantos 
 mojitos y alguna piña colada y nos fuimos a nuestro apartamento y después a cenar. 
 
-![playa valdevaqueros, playa tarifa, viaje amigas](etheria_images/2020/06/tarifa-Valdevaqueros-900x600.jpg "Playa de Valdevaqueros, en Tarifa.")
+![playa valdevaqueros, playa tarifa, viaje amigas](etheria-images/2020/06/tarifa-Valdevaqueros-900x600.jpg "Playa de Valdevaqueros, en Tarifa.")
 
 #### Playa de Valdevaqueros
 
@@ -97,7 +97,7 @@ local es una maravilla. Agradable, luminoso, fresco. Acabamos a las tantas, toma
 Maker's Mark (lima, blue curaçao, shrub de naranja y clara de huevo). Una bomba pero que 
 le sentó realmente bien. 
 
-![bibo beach house, chiringuitos tarifa](etheria_images/2020/06/Tarifa-BIBO-Beach-House-900x590.jpg "© BIBO Beach House, en Tarifa.")
+![bibo beach house, chiringuitos tarifa](etheria-images/2020/06/Tarifa-BIBO-Beach-House-900x590.jpg "© BIBO Beach House, en Tarifa.")
 
 #### Playa de Punta Paloma
 
@@ -115,7 +115,7 @@ parece a ella. Y parte de esta singularidad se la debe a su historia de amor con
 viento que nació a comienzos de los años 70 y que la salvó de la salvaje construcción 
 inmobiliaria de otros lugares de la cercana Costa del Sol. 
 
-![sancho iv, tarifa, viaje amigas](etheria_images/2020/06/tarifa-Estatua-de-Sancho-IV-El-Bravo-900x589.jpg "Monumento a Sancho IV el Bravo, junto al castillo de Guzmán el Bueno (Tarifa). © Diputación de Cádiz")
+![sancho iv, tarifa, viaje amigas](etheria-images/2020/06/tarifa-Estatua-de-Sancho-IV-El-Bravo-900x589.jpg "Monumento a Sancho IV el Bravo, junto al castillo de Guzmán el Bueno (Tarifa). © Diputación de Cádiz")
 
 Este pueblecito de **calles y placitas pintorescas**, rodeadas por una muralla de 1.000 
 años de antigüedad, el punto más meridional de Europa, comenzó a recibir windsurfistas 
@@ -138,7 +138,7 @@ quedarse con la boca abierta.
 ✅ Curso de kitesurf de dos días. [Consulta de precio y 
 reservas](https://www.civitatis.com/es/tarifa/curso-kitesurf/?aid=10211). 
 
-![kitesurf en tarifa, viaje amigas](etheria_images/2020/06/tarifa-Kitesurf-900x600.jpg "Kitesurf en Tarifa. © José Mª Caballero")
+![kitesurf en tarifa, viaje amigas](etheria-images/2020/06/tarifa-Kitesurf-900x600.jpg "Kitesurf en Tarifa. © José Mª Caballero")
 
 ## Ruta de tapas por Tarifa
 
@@ -148,7 +148,7 @@ Tarifa, convertida en una ciudad muy cosmopolita donde tienes opciones gastronó
 variadas, de calidad. Y numerosas tiendecitas para perderte comprando complementos: 
 **Tarifa Soul**, **Summer Stories** en la coqueta plaza del Ángel… Hay decenas de ellas. 
 
-![tarifa, pueblo blanco](etheria_images/2020/06/tarifa-pueblo-900x611.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
+![tarifa, pueblo blanco](etheria-images/2020/06/tarifa-pueblo-900x611.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
 
 Antes de hacer un poco de _shopping_, siempre nos marcábamos una **ruta de tapas** para 
 terminar cenando en alguno de sus restaurantes. Uno de nuestros favoritos para comenzar 
@@ -161,7 +161,7 @@ Muy cerquita del Lola, otro bar que es un acierto es **El Francés**. Tiene una 
 terraza, aunque siempre está llena, y cualquier plato que preparen con atún también está 
 espectacular. Además, sus albóndigas se han hecho internacionalmente famosas. 
 
-![Tartar de atun](etheria_images/2018/06/tartar-ruta-del-atun.jpg "Tartar de atún rojo. © Etheria Magazine")
+![Tartar de atun](etheria-images/2018/06/tartar-ruta-del-atun.jpg "Tartar de atún rojo. © Etheria Magazine")
 
 Y puestos a elegir un lugar donde cenar, a veces nos decantábamos por **La Antigua de 
 Tarifa**, para sentarnos en su agradable terraza y comernos las últimas tapas a base de 
@@ -179,7 +179,7 @@ de África, Tarifa ha sido tierra de migraciones, paso de diferentes pueblos y c
 y eso aún se percibe. Uno de las citas ya convertidas en un clásico de Tarifa y un buen 
 momento para visitarla, es el **Festival de Cine Africano**. 
 
-![deporte tarifa, viaje amigas,tarifa](etheria_images/2020/06/Tarifa-Betijuelo-Sierra-de-San-Bartolome-900x600.jpg "En la Sierra de San Bartolomé se puede practicar senderismo y escalada. © Julio Ramírez Gijón.")
+![deporte tarifa, viaje amigas,tarifa](etheria-images/2020/06/Tarifa-Betijuelo-Sierra-de-San-Bartolome-900x600.jpg "En la Sierra de San Bartolomé se puede practicar senderismo y escalada. © Julio Ramírez Gijón.")
 
 Pero volviendo al entorno de Tarifa, el 60% del término municipal se encuentra 
 protegido. Por tierra, por el **Parque Natural de los Alcornocales**, uno de los más 
@@ -191,7 +191,7 @@ ruta de la Sierra de Enmedio o el más accesible Sendero del Buda. Ambas parten 
 de información del Parque Natural del Estrecho, a 6 km de Tarifa, donde os darán toda la 
 información de la ruta. 
 
-![orca, cetaceos tarifa, viaje amigas](etheria_images/2020/06/tarifa-Orcas-900x572.jpg "Orca en un avistamiento de cetáceos con Turmares. © José Mª Caballero")
+![orca, cetaceos tarifa, viaje amigas](etheria-images/2020/06/tarifa-Orcas-900x572.jpg "Orca en un avistamiento de cetáceos con Turmares. © José Mª Caballero")
 
 Pero sin duda, una de las actividades que ofrece una idea del valor estratégico de 
 Tarifa, entre dos mares, y su biodiversidad son las excursiones de avistamiento de 
@@ -203,7 +203,7 @@ Gibraltar es un lugar idóneo para asistir a la mayor migración de aves de Euro
 ✅ Excursión: Avistamiento de cetáceos por el estrecho de Gibraltar. [Consultas de precio 
 y reservas](https://www.civitatis.com/es/tarifa/avistamiento-cetaceos/?aid=10211). 
 
-![ibis eremita, vaca retinta, tarifa, ver aves, viajes con amigas](etheria_images/2020/06/Ibis-Eremita-y-Retinta-en-Tahivilla-900x657.jpg "Ibis eremita y ternera retinta de fondo. © Manuel Morales/ Bird Watching")
+![ibis eremita, vaca retinta, tarifa, ver aves, viajes con amigas](etheria-images/2020/06/Ibis-Eremita-y-Retinta-en-Tahivilla-900x657.jpg "Ibis eremita y ternera retinta de fondo. © Manuel Morales/ Bird Watching")
 
 ## Desayuno y excursión a Tánger
 

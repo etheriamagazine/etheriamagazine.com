@@ -1,18 +1,18 @@
 ---
 title: "Planes originales para disfrutar de Valencia con amigas"
 date: 2020-09-18
-coverImage: etheria_images/2020/09/valencia-jacuzzi-con-vistas-de-noche.jpg
+coverImage: etheria-images/2020/09/valencia-jacuzzi-con-vistas-de-noche.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Si viajas a Valencia, estos planes para hacer con amigas además de originales son hedonismo puro: arte, ópera, sesiones de belleza y spa, los mejores restaurantes, compras y, para rematar, un paseo por la Albufera. Un plan con amigas en Valencia es lo que necesitas ahora mismo.
 
-![spa y belleza en valencia palace](etheria_images/2020/09/valencia-jacuzzi-con-vistas-de-noche.jpg "Plan perfecto con amigas en el Centro de Salud y Belleza SH Valencia Palace.")
+![spa y belleza en valencia palace](etheria-images/2020/09/valencia-jacuzzi-con-vistas-de-noche.jpg "Plan perfecto con amigas en el Centro de Salud y Belleza SH Valencia Palace.")
 
 Playas, monumentos, gastronomía, cultura, historia, diversión… Valencia es uno de los 
 grandes referentes turísticos españoles con un sinfín de espacios imprescindibles para 
@@ -22,7 +22,7 @@ originales para hacer con tus amigas** y, de paso, disfrutar (esto está casi as
 de **una de las mejores paellas del mundo**. No en vano es la capital del plato español 
 más internacional. 
 
-![restaurante lienzo y cerveza de miel en valencia](etheria_images/2020/09/planes-valencia-restaurante-Lienzo.jpg "Cerveza de miel en Restaurante Lienzo de Valencia.")
+![restaurante lienzo y cerveza de miel en valencia](etheria-images/2020/09/planes-valencia-restaurante-Lienzo.jpg "Cerveza de miel en Restaurante Lienzo de Valencia.")
 
 ## 1\. Tomar una cerveza de miel en Lienzo
 
@@ -36,7 +36,7 @@ primera cerveza artesana de miel urbana de España, una mezcla entre una “pale
 uno de los pases del menú degustación. El restaurante se llama así porque su espacio 
 estuvo ocupado antes por una galería de arte. 
 
-![restaurantes con la mejor paella de valencia](etheria_images/2020/09/donde-tomar-paella-valencia.jpg "Disfruta de la Paella en los mejores restaurantes de Valencia. © Mike Water")
+![restaurantes con la mejor paella de valencia](etheria-images/2020/09/donde-tomar-paella-valencia.jpg "Disfruta de la Paella en los mejores restaurantes de Valencia. © Mike Water")
 
 ## 2\. Compartir una paella
 
@@ -50,7 +50,7 @@ Day**, con “masterclasses online” y degustaciones de paellas elaboradas por 
 renombre mundial. Y si no hay evento, siempre puedes **degustar una paella** en la zona 
 de la Albufera. 
 
-![el mejor plan pasear en barca por la albufera valencia](etheria_images/2020/09/planes-originales-Paseo-barca-albufera.jpg "Paseo en barca por la Albufera de Valencia. © Ernesto Soler")
+![el mejor plan pasear en barca por la albufera valencia](etheria-images/2020/09/planes-originales-Paseo-barca-albufera.jpg "Paseo en barca por la Albufera de Valencia. © Ernesto Soler")
 
 ## 3\. Dar un paseo en barca por la Albufera
 
@@ -62,7 +62,7 @@ de El Palmar, que ponen a disposición del visitante tres barcas “albuferencas
 distinta capacidad. Incluso puedes acordar con ellos un catering para el paseo, 
 especialmente agradable si hace buen tiempo. Los atardeceres son para quitar el sentido. 
 
-![opera de valencia Palau de les arts](etheria_images/2020/09/que-hacer-valencia-opera-Palau-de-les-Arts.jpg "Temporada de ópera en el Palau de les Arts.")
+![opera de valencia Palau de les arts](etheria-images/2020/09/que-hacer-valencia-opera-Palau-de-les-Arts.jpg "Temporada de ópera en el Palau de les Arts.")
 
 ## 4\. Asistir a una ópera en el Palau de les Arts
 
@@ -71,7 +71,7 @@ seguro que encuentras algún espectáculo emocionante. Y de paso, podrás adentr
 curioso y curvilíneo complejo arquitectónico que diseñó Santiago Calatrava y que forma 
 parte de la Ciudad de las Artes y las Ciencias. 
 
-![novela tranvia a la malvarrosa basada en valencia](etheria_images/2020/09/viaje-valencia-Libro-Tranvia-a-la-Malvarrosa.jpg "Tranvía a la Malvarrosa, de Manuel Vicent.")
+![novela tranvia a la malvarrosa basada en valencia](etheria-images/2020/09/viaje-valencia-Libro-Tranvia-a-la-Malvarrosa.jpg "Tranvía a la Malvarrosa, de Manuel Vicent.")
 
 ## 5\. Sentir Valencia con una novela de Manuel Vicent
 
@@ -84,7 +84,7 @@ desaparecido. Y con el Mediterráneo y el sol siempre presentes. Esta novela fue
 al cine por José Luis García Sánchez. Puedes recibir en casa [Tranvía a la 
 Malvarrosa](https://amzn.to/2FF2fr3) desde 9,45 en versión papel y 4,54 en digital. 
 
-![fierro un restaurante para cenar con amigas en valencia](etheria_images/2020/09/donde-comer-valencia-restaurante-fierro.jpg "Restaurante Fierro, ideal para cenar con amigas en Valencia.")
+![fierro un restaurante para cenar con amigas en valencia](etheria-images/2020/09/donde-comer-valencia-restaurante-fierro.jpg "Restaurante Fierro, ideal para cenar con amigas en Valencia.")
 
 ## 6\. Cenar en el restaurante Fierro
 
@@ -98,7 +98,7 @@ formato restaurante y take-away, o **La Central de Postres**. (Pues leer otras
 sugerencias para [comer en Valencia en 'Dónde comer y dormir en Valencia con 
 amigas](https://etheriamagazine.com/2018/12/04/un-viaje-a-valencia-con-amigas/)). 
 
-![calles para ir de compras en valencia](etheria_images/2020/09/viaje-valencia-compras.jpg "Compras en el centro de Valencia. © Eva Mañez")
+![calles para ir de compras en valencia](etheria-images/2020/09/viaje-valencia-compras.jpg "Compras en el centro de Valencia. © Eva Mañez")
 
 ## 7\. Ir de compras por el centro de Valencia
 
@@ -112,7 +112,7 @@ Mar hasta casi la plaza de toros. (Sigue leyendo: ['De compras en Valencia, la f
 capital del 
 Diseño'](https://etheriamagazine.com/2020/03/26/valencia-propuestas-para-todos-en-la-ciudad-del-diseno/)) 
 
-![spa y belleza en valencia palace](etheria_images/2020/09/valencia-con-amigas-spa.jpg "Spa con vistas en el SH Valencia Palace.")
+![spa y belleza en valencia palace](etheria-images/2020/09/valencia-con-amigas-spa.jpg "Spa con vistas en el SH Valencia Palace.")
 
 ## 8\. Disfrutar de un spa con vistas
 
@@ -124,7 +124,7 @@ Palace](https://www.hotel-valencia-palace.com/es/spa/) dispone de una piscina �
 desbordante. Además, hay paquetes promocionales, de martes a sábados, que incluyen el 
 Circuito Spa (60 minutos) un masaje (30 minutos) y una cena por un precio de 100 euros. 
 
-![horchata en el mercado de colon](etheria_images/2020/09/viajes-valencia-donde-tomar-horchata.jpg "Planazo en Valencia: tomar una horchata en el mercado de Colón. © Pablo Casino")
+![horchata en el mercado de colon](etheria-images/2020/09/viajes-valencia-donde-tomar-horchata.jpg "Planazo en Valencia: tomar una horchata en el mercado de Colón. © Pablo Casino")
 
 ## 9\. Beber una horchata en el Mercado de Colón
 

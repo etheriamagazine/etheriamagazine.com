@@ -1,17 +1,17 @@
 ---
 title: "Restaurantes en El Palmar (Cádiz) para comer muy bien"
 date: 2021-07-26
-coverImage: etheria_images/2021/07/el-palmar-nacarum-atardecer-1.jpg
+coverImage: etheria-images/2021/07/el-palmar-nacarum-atardecer-1.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 La costa de Vejer de la Frontera se ha convertido en un sitio de moda en el litoral de Cádiz. Un lugar donde, además de disfrutar de su playa y de sus puestas de sol, se puede comer muy bien. Aquí te recomendamos ocho restaurantes en El Palmar donde seguro que aciertas.
 
-![Terraza del restaurante Nacarum.](etheria_images/2021/07/el-palmar-nacarum-atardecer-1.jpg "Terraza del restaurante © Nacarum.")
+![Terraza del restaurante Nacarum.](etheria-images/2021/07/el-palmar-nacarum-atardecer-1.jpg "Terraza del restaurante © Nacarum.")
 
 La playa del Palmar, situada en el término municipal del precioso pueblo **Vejer de la 
 Frontera**, se ha convertido en uno de los lugares de moda en verano. De ello tienen la 
@@ -30,7 +30,7 @@ Manuelas** o a la **Venta Piñero** para tomar un abundante y económico menú d
 visitas de interés (con mapa 
 incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
 
-![El Palmar de Vejer](etheria_images/2020/08/vejer-el-palmar-900x663.jpg "Luces tras la caída del sol en El Palmar. © SG")
+![El Palmar de Vejer](etheria-images/2020/08/vejer-el-palmar-900x663.jpg "Luces tras la caída del sol en El Palmar. © SG")
 
 Pero también puedes darte un homenaje de buena cocina. Solo tienes que acercarte a uno 
 de los restaurantes de la playa del Palmar. Algunos de ellos se han convertido en 
@@ -55,7 +55,7 @@ que te trasladan al paraíso. Está decorado con sencillez y gusto, con algunas 
 mesas sobre una zona de césped. Y, si buscas una celebración de boda especial, tenlo muy 
 en cuenta ya que son expertos en organizarlas. 
 
-![Restaurante Nacarum.](etheria_images/2021/07/El-Palmar-Nacarum-atun-picante-1.jpg "Terraza del restaurante © Nacarum y su Tartar de atún picante con mango.")
+![Restaurante Nacarum.](etheria-images/2021/07/El-Palmar-Nacarum-atun-picante-1.jpg "Terraza del restaurante © Nacarum y su Tartar de atún picante con mango.")
 
 Su carta se centra en unos cuantos platos de calidad que saben hacer muy bien, por lo 
 que aciertas con casi cualquier cosa que pidas. Tratan el atún de una forma exquisita. 
@@ -82,7 +82,7 @@ preferidas: las 'Croquetas cremosas de jamón y alioli de hierbabuena'; y el 'Pu
 brasa con mojo, cremoso de patata y huevo frito'. Y si te gusta el atún, es probable que 
 su tataki te haga llorar de emoción. 
 
-![Casa Juan en El Palmar](etheria_images/2021/07/el-palmar-casa-juan-corvina-1.jpg "© Casa Juan y su Crujiente de Corvina y Camarones con Mahonesa de Ostras.")
+![Casa Juan en El Palmar](etheria-images/2021/07/el-palmar-casa-juan-corvina-1.jpg "© Casa Juan y su Crujiente de Corvina y Camarones con Mahonesa de Ostras.")
 
 Además de los platos en carta del restaurante, cuenta con una carta de barra con tapas 
 llenas de originalidad y sabor. Como los 'Langostinos en tempura con alioli de albahaca' 
@@ -100,7 +100,7 @@ carta a la que añade cada verano nuevas propuestas, lo que demuestra que no par
 intento de conseguir lo mejor para sus clientes. Es uno de los restaurantes en El Palmar 
 que no puedes perderte. 
 
-![Restaurante Casa Francisco el de siempre](etheria_images/2021/07/el-palmar-casa-francisco-arroz-1.jpg "Sala de © Casa Francisco y su famoso Arroz con bogavante.")
+![Restaurante Casa Francisco el de siempre](etheria-images/2021/07/el-palmar-casa-francisco-arroz-1.jpg "Sala de © Casa Francisco y su famoso Arroz con bogavante.")
 
 Es un lugar excelente para **tomar atún**, al que dedican un apartado de su carta con 
 platos en crudo y cocinado. Son deliciosos su 'Tartar de atún con guacamole casero' y el 
@@ -125,7 +125,7 @@ dedican una carta entera llena de propuestas en salazón, en crudo o los clásic
 casa. Con propuestas de todo tipo como el 'Atún en escabeche de boletus sobre crema de 
 patatas'; o los 'Daditos de atún frito sobre alioli de ajo negro'. 
 
-![Restaurante El Alférez.](etheria_images/2021/07/el-palmar-el-alferez-atun-1.jpg "© Restaurante El Alférez y su 'Vulcano Roll'.")
+![Restaurante El Alférez.](etheria-images/2021/07/el-palmar-el-alferez-atun-1.jpg "© Restaurante El Alférez y su 'Vulcano Roll'.")
 
 También tienen una carta muy amplia con productos como el marisco, los carpaccios, los 
 arroces o el mejor pescado de la costa gaditana. Se agradece que presenten platos que se 
@@ -150,7 +150,7 @@ chicharrones de Cádiz; la miniburguer de retinto; o el montadito de filete de l
 todo en un ambiente de lo más festivo, con mesas altas con taburetes y gente con ganas 
 de pasarlo bien. 
 
-![playa del palmar vejer](etheria_images/2021/07/playa-el-palmar.jpg "Pasarela de la playa del Palmar. © Etheria Mag.")
+![playa del palmar vejer](etheria-images/2021/07/playa-el-palmar.jpg "Pasarela de la playa del Palmar. © Etheria Mag.")
 
 ### El Morito
 
@@ -162,7 +162,7 @@ colores marineros y espacios abiertos. Presenta una carta sencilla y bien estruc
 donde rápidamente vas a encontrar algo que te apetezca. Presta especial atención a sus 
 mariscos, que presentan en una preciosa barra que los hace más apetecibles si cabe. 
 
-![El Morito en El Palmar](etheria_images/2021/07/el-palmar-el-morito-verduras-marisco-1.jpg "Barra de mariscos de © El Morito y sus Verduras frescas salteadas sobre hummus y tapenade.")
+![El Morito en El Palmar](etheria-images/2021/07/el-palmar-el-morito-verduras-marisco-1.jpg "Barra de mariscos de © El Morito y sus Verduras frescas salteadas sobre hummus y tapenade.")
 
 Si buscas algo más tradicional de la zona, no te pierdas su apartado de **frituras y de 
 arroces.** Pero si algo me gusta de su carta es su _Rincón del Chef_, con platos fríos y 
@@ -180,7 +180,7 @@ tanta como en otras zonas de El Palmar, la **Venta Molina** siempre está presen
 mar y esta playa tienen algo especial. Y esta venta, que no ha perdido su aire de 
 chiringuito clásico, ni falta que hace, también. 
 
-![Venta Molina.](etheria_images/2021/07/el-palmar-venta-molina-1.jpg "Venta Molina.")
+![Venta Molina.](etheria-images/2021/07/el-palmar-venta-molina-1.jpg "Venta Molina.")
 
 El señor Molina se ha retirado y ha dejado el negocio en manos de sus hijas y, por 
 suerte, también sus recetas. La Venta Molina es un lugar para comer **comida casera 
@@ -211,7 +211,7 @@ fenomenal), los platos de atún y los arroces, pero también algunas propuestas 
 elaboradas. Entre ellas, son deliciosas las 'Albóndigas de corvina con chips de patatas 
 violetas'. 
 
-![Casa Reyes de El Palmar](etheria_images/2021/07/el-palmar-casa-reyes-1.jpg "© Casa Reyes y su delicioso Tataki de atún.")
+![Casa Reyes de El Palmar](etheria-images/2021/07/el-palmar-casa-reyes-1.jpg "© Casa Reyes y su delicioso Tataki de atún.")
 
 Presta atención también a la carta de sugerencias, con platos de mercado muy apetecibles 
 (como las coquinas de fango al ajillo) y pregunta por los pescados que tengan del día. 

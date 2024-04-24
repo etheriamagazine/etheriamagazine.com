@@ -1,14 +1,14 @@
 ---
 title: "Ruta turística por el Chinatown madrileño, del arte al plato en Usera"
 date: 2022-02-11
-coverImage: etheria_images/2022/02/puente-madrid-rio-arte-mosaico.jpg
+coverImage: etheria-images/2022/02/puente-madrid-rio-arte-mosaico.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Los distritos más allá del río Manzanares suelen quedarse fuera de los listados de 
@@ -18,7 +18,7 @@ de Ricardo Bofill, Manolo Valdés, del estudio Herreros, de Okuda San Miguel, ar
 emergentes en la Habitación 34... Y, por supuesto, genuinas delicias orientales, ¡que 
 por algo le llaman el 'Chinatown madrileño'! 
 
-![la dama del manzanares una obra de manolo valdes](etheria_images/2022/02/dama-manzanares-usera.jpg "La Dama del Manzanares, una escultura del escultor y pintor Manolo Valdés. © Pepa García")
+![la dama del manzanares una obra de manolo valdes](etheria-images/2022/02/dama-manzanares-usera.jpg "La Dama del Manzanares, una escultura del escultor y pintor Manolo Valdés. © Pepa García")
 
 Más allá del Manzanares hay vida, de hecho hay tanta vida que cada vez somos más quienes 
 optamos por establecernos fuera de ese mínimo caudal del río y decidimos hacer vida en 
@@ -43,7 +43,7 @@ este barrio para constatar que no es únicamente el Chinatown madrileño o el si
 los mejores restaurantes chinos de Madrid sino un vecindario con preciosos parques, 
 miradores inusitados, bibliotecas de diseño y fusión cultural por doquier. 
 
-![zonas del parque lineal del manzanares un proyecto de ricardo bofill en madrid](etheria_images/2022/02/parque-lineal-manzanares-bofill.jpg "Explanada de la Atalaya, campo de olivos, pérgola y anfiteatro del parque diseñado por Ricardo Bofill. © Pepa García")
+![zonas del parque lineal del manzanares un proyecto de ricardo bofill en madrid](etheria-images/2022/02/parque-lineal-manzanares-bofill.jpg "Explanada de la Atalaya, campo de olivos, pérgola y anfiteatro del parque diseñado por Ricardo Bofill. © Pepa García")
 
 ## 10 razones que justifican una visita al Chinatown madrileño
 
@@ -69,7 +69,7 @@ pirámide, o Atalaya, de 21 metros de altura en cuya cúspide se sitúa la **_Da
 Manzanares_**. Desde la base de esta escultura del artista valenciano Manolo Valdés se 
 admira uno de los atardeceres más bonitos de Madrid. 
 
-![subida a la atalaya del parque lineal del manzanares](etheria_images/2022/02/atalaya-parque-lineal-manzanares.jpg "Subida a la Atalaya del Parque Lineal del Manzanares. © Pepa García")
+![subida a la atalaya del parque lineal del manzanares](etheria-images/2022/02/atalaya-parque-lineal-manzanares.jpg "Subida a la Atalaya del Parque Lineal del Manzanares. © Pepa García")
 
 La pradera situada a los pies de la pirámide es idónea para hacer picnics y en cuanto 
 empieza el buen tiempo se llena de familias y jóvenes jugando o charlando, al más puro 
@@ -77,7 +77,7 @@ estilo americano. ¿Se nota que nos encanta el Parque Lineal del Manzanares? Pue
 acceder desde Madrid Río a través de una pasarela de madera situada en la Presa 9 (a la 
 altura de Legazpi) o siguiendo la senda desde el Salón de Pinos. 
 
-![biblioteca jose hierro estudio herrero](etheria_images/2022/02/biblioteca-jose-hierro-madrid.jpg "Biblioteca José Hierro, de los prestigiosos arquitectos Ignacio Ábalos y Juan Herrero. © P.G.")
+![biblioteca jose hierro estudio herrero](etheria-images/2022/02/biblioteca-jose-hierro-madrid.jpg "Biblioteca José Hierro, de los prestigiosos arquitectos Ignacio Ábalos y Juan Herrero. © P.G.")
 
 ### 2\. Biblioteca del Estudio Herreros
 
@@ -97,7 +97,7 @@ a través de dos ascensores de cristal. Esta biblioteca, que cuenta con programa
 cultural, es también perfecta para la lectura o para estudiar, ya que permanece abierta 
 hasta la madrugada en época de exámenes. 
 
-![grafiti de okuda san miguel en usera](etheria_images/2022/02/grafiti-okuda-madrid.jpg "Grafiti de Okuda San Miguel en Usera. © P.G.")
+![grafiti de okuda san miguel en usera](etheria-images/2022/02/grafiti-okuda-madrid.jpg "Grafiti de Okuda San Miguel en Usera. © P.G.")
 
 ### 3\. Del grafiti de Blu al de Okuda San Miguel
 
@@ -117,7 +117,7 @@ de otro artista urbano, Okuda San Miguel (okudasanmiguel.com). Este cántabro ha
 Magritte. Representa a dos mujeres besándose y trata de dar visibilidad al movimiento 
 LGBTI. 
 
-![obra de arte en puentes cascara de madrid rio](etheria_images/2022/02/puente-cascaras-madrid-rio.jpg "Obra ‘Constelaciones’ del artista Daniel Canogar en un día de niebla. © Pepa García")
+![obra de arte en puentes cascara de madrid rio](etheria-images/2022/02/puente-cascaras-madrid-rio.jpg "Obra ‘Constelaciones’ del artista Daniel Canogar en un día de niebla. © Pepa García")
 
 ### 4\. Arte en los Puentes Cáscaras
 
@@ -137,7 +137,7 @@ Arganzuela, que es obra del prestigioso arquitecto francés **Dominique Perrault
 encantará, es una doble espiral con forma de tirabuzón y dos brazos. Si lo visitas por 
 la noche, fíjate en las farolas que simulan aves y mariposas. 
 
-![vistas nevadas de matadero durante filomena](etheria_images/2022/02/vista-desde-cc-plaza-rio-2.jpg "Vistas de Matadero desde el CC Plaza Río 2 en enero de 2021. © P.G.")
+![vistas nevadas de matadero durante filomena](etheria-images/2022/02/vista-desde-cc-plaza-rio-2.jpg "Vistas de Matadero desde el CC Plaza Río 2 en enero de 2021. © P.G.")
 
 ### 5\. Vistas desde el centro comercial Plaza Río 2
 
@@ -151,7 +151,7 @@ torres del casco histórico madrileño. Se puede subir en ascensor desde la plan
 calle, y el último tramo hacerlo en otro ascensor o por las escaleras. Los niños cuentan 
 allí con un espacio donde escalar, saltar... 
 
-![centro comercial plaza rio dos madrid](etheria_images/2022/02/centro-comercial-plaza-rio.jpg "Centro Comercial Plaza Río 2. © P.G.")
+![centro comercial plaza rio dos madrid](etheria-images/2022/02/centro-comercial-plaza-rio.jpg "Centro Comercial Plaza Río 2. © P.G.")
 
 ### 6\. Espacios de arte de Usera
 
@@ -167,7 +167,7 @@ través de un gran escaparate. La sorpresa está asegurada. Y la segunda propues
 _coworking_, centro de actividades culturales y punto de encuentro de mentes inquietas. 
 Consulta su programación, no decepciona. 
 
-![espacio oculto de usera](etheria_images/2022/02/espacio-oculto-usera.jpg "© Espacio Oculto de Usera.")
+![espacio oculto de usera](etheria-images/2022/02/espacio-oculto-usera.jpg "© Espacio Oculto de Usera.")
 
 ### 7\. Ruta castiza por los bares de Usera
 
@@ -184,7 +184,7 @@ extraordinarios, morcilla de Soria, caracoles... Y si es temporada de cangrejos 
 no dejes de pedirlos también. Un sitio sencillo de esos donde se resuelven temas de 
 política internacional en cada ronda. (Fornillos, 58) 
 
-![tosta de mojama en taberna sacromonte](etheria_images/2022/02/tapa-taberna-sacromonte.jpg "Tosta de mojama con pimientos, tomates y almendras de la Taberna Sacromonte. © Pepa G.")
+![tosta de mojama en taberna sacromonte](etheria-images/2022/02/tapa-taberna-sacromonte.jpg "Tosta de mojama con pimientos, tomates y almendras de la Taberna Sacromonte. © Pepa G.")
 
 ### Taberna Sacromonte
 
@@ -202,7 +202,7 @@ e, incluso, bocatas de patatas bravas. Aunque eso no quiere decir que no puedas 
 cocido el día que toque. Uno de esos sitios de barrio-barrio, donde nada parece haber 
 cambiado desde el principio de los tiempos. (Marcelo Usera, 108) 
 
-![pulpo en camino santiago, gastronomia galicia](etheria_images/2019/02/camino-santiago-pulpo.jpg "El pulpo es uno de los platos que no hay que perderse en un bar gallego.")
+![pulpo en camino santiago, gastronomia galicia](etheria-images/2019/02/camino-santiago-pulpo.jpg "El pulpo es uno de los platos que no hay que perderse en un bar gallego.")
 
 ### Bar Muxía-A’Barca
 
@@ -226,7 +226,7 @@ espectáculos (Pilarica, 29 y Antonio López, 160), **El Carbón de Granada** (A
 López, 246), **La Braña** (Antonio López, 217), **Feito** (Antonio de Padua, 28) y 
 **Feito Río La Tapería** (Eugenio Caxes con Antonio López). 
 
-![mister doulan restaurante chino de usera](etheria_images/2022/02/mrdoulao-hotpot-usera.jpg "© Mr. Doulao, un restaurante hot pot de Usera.")
+![mister doulan restaurante chino de usera](etheria-images/2022/02/mrdoulao-hotpot-usera.jpg "© Mr. Doulao, un restaurante hot pot de Usera.")
 
 ### 8\. ¿Los mejores restaurantes chinos de Madrid?
 
@@ -272,7 +272,7 @@ y se pide a través de una tableta donde no siempre sabes qué es cada cosa... P
 bueno, esto forma parte de la experiencia del Chinatown madrileño, ¿no crees? (Olvido, 
 46) 
 
-![lago de pradolongo con iglesia maris stella](etheria_images/2022/02/lago-pradolongo.jpg "Lago de Pradolongo con la iglesia de Maris Stella al fondo. © Pepa García")
+![lago de pradolongo con iglesia maris stella](etheria-images/2022/02/lago-pradolongo.jpg "Lago de Pradolongo con la iglesia de Maris Stella al fondo. © Pepa García")
 
 ### 9\. Pradolongo, un parque con lago e iglesia
 
@@ -291,7 +291,7 @@ ecológica (3 km) o aprender sobre plantas en su jardín botánico, donde están
 representadas 43 familias botánicas. Y, cómo no, también para pedir un deseo durante el 
 Año Nuevo Chino, ya que en su lago se lanzan bonitos farolillos con velas. 
 
-![desfile de celebracion ano nuevo chino en usera madrid](etheria_images/2022/02/desfile-ano-nuevo-chino-usera.jpg "Desfile de Año Nuevo Chino en Usera. © Pepa García")
+![desfile de celebracion ano nuevo chino en usera madrid](etheria-images/2022/02/desfile-ano-nuevo-chino-usera.jpg "Desfile de Año Nuevo Chino en Usera. © Pepa García")
 
 ### 10\. ¿Mejor momento para visitar Usera? Año Nuevo Chino
 
@@ -308,7 +308,7 @@ culturales, conciertos, y una oferta gastronómica especial en los restaurantes.
 existe una alta demanda y en esta fecha muchos locales ofrecen menús especiales, te 
 aconsejamos reservar con bastante antelación. 
 
-![atardecer sobre rio manzanares](etheria_images/2022/02/rio-manzanares-atardecer.jpg "Atardecer sobre el río Manzanares, el sol se sitúa sobre el puente de Perrault. © P.G.")
+![atardecer sobre rio manzanares](etheria-images/2022/02/rio-manzanares-atardecer.jpg "Atardecer sobre el río Manzanares, el sol se sitúa sobre el puente de Perrault. © P.G.")
 
 **También te puede interesar...** 
 

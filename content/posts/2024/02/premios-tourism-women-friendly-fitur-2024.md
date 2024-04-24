@@ -1,13 +1,13 @@
 ---
 title: "Etheria Magazine recibe uno de los Premios Tourism Women Friendly en Fitur 2024"
 date: 2024-02-06
-coverImage: etheria_images/2024/02/premio-women-tourism-friendly-2024-etheria.jpg
+coverImage: etheria-images/2024/02/premio-women-tourism-friendly-2024-etheria.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La entidad Mujeres para el Diálogo y la Educación entregó un año más sus Premios 
@@ -15,7 +15,7 @@ La entidad Mujeres para el Diálogo y la Educación entregó un año más sus Pr
 de los lavaderos’, creada por la Asociación de Mujeres El Castañar, de Mecina Bombarón, 
 en la categoría de Destino, y Etheria Magazine en la de Experiencia. 
 
-![Foto de familia de MDE, jurado y premiados.](etheria_images/2024/02/premio-women-tourism-friendly-2024-etheria-850x567.jpg "Foto de familia de MDE, jurado y premiados. © MDE")
+![Foto de familia de MDE, jurado y premiados.](etheria-images/2024/02/premio-women-tourism-friendly-2024-etheria-850x567.jpg "Foto de familia de MDE, jurado y premiados. © MDE")
 
 No podría haber un marco más adecuado para hacer entrega de los V Premios Tourism Women 
 Friendly, creados por la organización de [Mujeres para el Diálogo y la 
@@ -35,7 +35,7 @@ importancia de crear productos relacionados con las mujeres y el turismo, y dest
 “el 65% de las viajeras realiza sus escapadas en solitario”, lo que señala claramente un 
 empoderamiento de la mujer también en el sector de los viajes. 
 
-![Susana García y Pepa García, de Etheria Magazine.](etheria_images/2024/02/premio-etheria-magazine.jpg "Susana García y Pepa García, de Etheria Magazine.")
+![Susana García y Pepa García, de Etheria Magazine.](etheria-images/2024/02/premio-etheria-magazine.jpg "Susana García y Pepa García, de Etheria Magazine.")
 
 ## Etheria Magazine, Premio Tourism Women Friendly a la 'Mejor Experiencia'
 
@@ -59,7 +59,7 @@ llevado a seleccionar la Etheria Magazine como la candidata perfecta en la categ
 miembro del Jurado, entregó dicho galardón a Pepa García y Susana García, fundadoras de 
 Etheria Magazine. 
 
-![Asociación de Mujeres El Castañar, de Mecina Bombarón.](etheria_images/2024/02/ruta-lavaderos-850x567.jpg "Asociación de Mujeres El Castañar, de Mecina Bombarón. © Alpujarradelasierra.es")
+![Asociación de Mujeres El Castañar, de Mecina Bombarón.](etheria-images/2024/02/ruta-lavaderos-850x567.jpg "Asociación de Mujeres El Castañar, de Mecina Bombarón. © Alpujarradelasierra.es")
 
 ## Ruta de los Lavaderos, Premio Tourism Women Friendly al Mejor Destino
 

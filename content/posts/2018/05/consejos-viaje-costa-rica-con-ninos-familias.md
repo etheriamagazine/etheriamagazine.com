@@ -1,13 +1,13 @@
 ---
 title: "Consejos para un viaje a Costa Rica con niños"
 date: 2018-05-04
-coverImage: etheria_images/2018/05/Costa-Rica-recogiendo-cafe-e1551613563281.jpg
+coverImage: etheria-images/2018/05/Costa-Rica-recogiendo-cafe-e1551613563281.jpg
 categories: 
   - consejos-practicos
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Antes de realizar un viaje a Costa Rica con niños hay que tener en cuenta una serie de 
@@ -15,7 +15,7 @@ factores que, si los conocemos de antemano, nos ayudarán en la planificación d
 itinerario. En cualquier caso, este país es un destino fácil y lo único que no puedes 
 olvidarte son las ganas de disfrutar. 
 
-![Niño cogiendo café en Costa Rica](etheria_images/2018/05/Costa-Rica-paisaje-1024x683.jpg "Mirador en el camino de San José a Guanacaste. © SG")
+![Niño cogiendo café en Costa Rica](etheria-images/2018/05/Costa-Rica-paisaje-1024x683.jpg "Mirador en el camino de San José a Guanacaste. © SG")
 
 Costa Rica es uno de los mejores destinos del mundo para viajar en familia. Ofrece una 
 naturaleza exuberante, que todo lo llena, y que permite mil aventuras, desde buscar 
@@ -38,7 +38,7 @@ eternizar en el coche. Hay que prever de forma realista los trayectos. Y que no 
 Biodramina. Puedes ayudarte de alguna aplicación como [Google 
 Maps](https://www.google.es/maps/) para planificar las rutas. 
 
-![costa Rica con niños](etheria_images/2018/05/Costa-Rica-recogiendo-cafe-1024x683.jpg "Actividad para niños en Costa Rica. © SG")
+![costa Rica con niños](etheria-images/2018/05/Costa-Rica-recogiendo-cafe-1024x683.jpg "Actividad para niños en Costa Rica. © SG")
 
 ## 2\. Hora y traslados
 
@@ -49,7 +49,7 @@ las excursiones se hacen por la mañana o mediodía. Como a la ida el cambio hor
 hace despertarnos temprano y tener sueño pronto, podemos aprovecharlo para 
 acostumbrarnos a empezar el día antes. 
 
-![Tres niños frente a una avioneta en Costa Rica](etheria_images/2018/05/Costa-Rica-avioneta-1024x768.jpg "Los traslados en avioneta son divertidos para los niños. © SG")
+![Tres niños frente a una avioneta en Costa Rica](etheria-images/2018/05/Costa-Rica-avioneta-1024x768.jpg "Los traslados en avioneta son divertidos para los niños. © SG")
 
 ## 3\. Avionetas
 
@@ -60,7 +60,7 @@ toma una conciencia real de sus volcanes, sus parques naturales, de los canales 
 Tortuguero… Además, es divertido y a los niños les encanta, la sensación de vuelo es 
 increíble. 
 
-![Mariposa en Costa Rica](etheria_images/2018/05/Costa-Rica-mariposa-1024x683.jpg "No te olvides de las pulseras antimosquitos. © SG")
+![Mariposa en Costa Rica](etheria-images/2018/05/Costa-Rica-mariposa-1024x683.jpg "No te olvides de las pulseras antimosquitos. © SG")
 
 ## 4\. Mosquitos
 
@@ -68,7 +68,7 @@ En Costa Rica hay mosquitos, pero no hay que alarmarse por ello. Conviene llevar
 típicas pulseras y repelente, y con un poco de cuidado de aplicarse varias veces al día 
 o después de los baños si se utiliza la piscina o nos bañamos en el mar, es suficiente. 
 
-![Mujer en una tirolina en Costa Rica](etheria_images/2018/05/Costa-Rica-Monteverde-tirolina-683x1024.jpg "No pueden faltar los chubasqueros en la maleta.")
+![Mujer en una tirolina en Costa Rica](etheria-images/2018/05/Costa-Rica-Monteverde-tirolina-683x1024.jpg "No pueden faltar los chubasqueros en la maleta.")
 
 ## 5\. Qué ropa llevar a Costa Rica
 
@@ -80,7 +80,7 @@ tiempo cambia constantemente y son frecuentes los chaparrones. Te lo contamos ta
 de forma más amplia, en el artículo ✅ [Qué llevar en la maleta si viajas a Costa 
 Rica](http://etheriamagazine.com/2018/05/28/una-maleta-para-costa-rica/). 
 
-![Fruto del cacao.](etheria_images/2018/05/Costa-Rica-cacao-1024x683.jpg "Fruto del cacao. © SG")
+![Fruto del cacao.](etheria-images/2018/05/Costa-Rica-cacao-1024x683.jpg "Fruto del cacao. © SG")
 
 ## 6\. Comida costarricense
 
@@ -91,7 +91,7 @@ encontrar platos que gusten a los niños en cualquier restaurante. Todo es recon
 sobre todo algo tan sencillo como un plátano o una piña tienen un sabor que se nos ha 
 olvidado. 
 
-![Niño con cartel de Costa Rica](etheria_images/2018/05/Costa-Rica-Pura-Vida-1024x683.jpg "¡Costa Rica es pura vida! © SG")
+![Niño con cartel de Costa Rica](etheria-images/2018/05/Costa-Rica-Pura-Vida-1024x683.jpg "¡Costa Rica es pura vida! © SG")
 
 ## 7\. Seguridad en el país
 

@@ -1,18 +1,18 @@
 ---
 title: "Linz, un viaje con amigas a orillas del Danubio"
 date: 2019-07-26
-coverImage: etheria_images/2019/07/que-ver-linz-austria-mujer.jpg
+coverImage: etheria-images/2019/07/que-ver-linz-austria-mujer.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 En el corazón de Austria, a orillas del Danubio, vive tranquila una pequeña ciudad que parece estar a trasmano de los paquetes turísticos al uso. Ese es un buen motivo para lanzarse a viajar con amigas (o sola) a Linz.
 
-![linz, que ver en linz, calles de link, visitas de Linz, viaje a austria](etheria_images/2019/07/que-ver-linz-austria-mujer.jpg "Linz, una ciudad donde disfrutar de calma. ©P.Grifol")
+![linz, que ver en linz, calles de link, visitas de Linz, viaje a austria](etheria-images/2019/07/que-ver-linz-austria-mujer.jpg "Linz, una ciudad donde disfrutar de calma. ©P.Grifol")
 
 Cómoda para visitar a pie, alejada de las hordas de turistas fagocitadores de monumentos 
 famosos, con un ambiente tranquilo (como el de sus patios interiores transformados en 
@@ -27,7 +27,7 @@ El AEC es una mirada dirigida a las **nuevas tecnologías multimedia.** Se inaug
 2009 como ‘museo del futuro’, y la verdad es que, aunque la ciencia avanza que es una 
 barbaridad no todos hemos tenido tiempo de seguir sus avances técnicos. 
 
-![Ars Electronica Center, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria](etheria_images/2019/07/que-ver-linz-austria-Ars-Electronica-Center.jpg "Ars Electronica Center. © Pedro Grifol")
+![Ars Electronica Center, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria](etheria-images/2019/07/que-ver-linz-austria-Ars-Electronica-Center.jpg "Ars Electronica Center. © Pedro Grifol")
 
 Las fascinantes imágenes de las **proyecciones 3D de su espacio Deep Space 8K** son 
 sorprendentes. Podemos ‘jugar’ con robots y hacernos una radiografía virtual. Resulta 
@@ -47,7 +47,7 @@ la calle principal (no tiene pérdida). Se trata de un restaurante que frecuenta
 clientes de toda la vida que se mezclan con los visitantes. Es bastante grande y habrá 
 mesas libres. Platos abundantes y no caros. 
 
-![Deep Space 8K, AEC linz](etheria_images/2019/07/que-ver-linz-Deep-Space-8K-proyección-3D.jpg "Deep Space 8K proyección 3D, del AEC. © Pedro Grifol")
+![Deep Space 8K, AEC linz](etheria-images/2019/07/que-ver-linz-Deep-Space-8K-proyección-3D.jpg "Deep Space 8K proyección 3D, del AEC. © Pedro Grifol")
 
 Otra cervecería entrañable es [Alte Welt](http://altewelt.at), situada en un patio 
 porticado de la **Hauptplatz** (Plaza Mayor), donde el pilar de la Santísima Trinidad –o 
@@ -59,7 +59,7 @@ Vom Fass](http://vomfass.com), una sucursal de la franquicia alemana que comerci
 amablemente y te ofrecerán probar todo. Un buen ejemplo de tienda con personal amable… 
 Seguro que ’picarás’ con alguna compra. 
 
-![Hauptplatz, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria](etheria_images/2019/07/que-ver-linz-austria-hauptplatz.jpg "Pilar de la Santísima Trinidad en la Hauptplatz. © Pedro Grifol")
+![Hauptplatz, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria](etheria-images/2019/07/que-ver-linz-austria-hauptplatz.jpg "Pilar de la Santísima Trinidad en la Hauptplatz. © Pedro Grifol")
 
 ## Como un gato por los tejados
 
@@ -70,7 +70,7 @@ recorrido por las alturas, en el que vamos viendo intervenciones artísticas cre
 profeso que forman parte del [programa Höehenrausch](http://www.hoehenrausch.at/), una 
 manifestación multimedia que se celebra anualmente. 
 
-![linz, que ver en linz, calles de link, visitas de Linz, viaje a austria, ooKulturquartier](etheria_images/2019/07/que-ver-linz-austria-OoKulturquartier.jpg "Tejados de Linz desde el OÖKulturquartier. © Pedro Grifol")
+![linz, que ver en linz, calles de link, visitas de Linz, viaje a austria, ooKulturquartier](etheria-images/2019/07/que-ver-linz-austria-OoKulturquartier.jpg "Tejados de Linz desde el OÖKulturquartier. © Pedro Grifol")
 
 Los artistas invitados a participar en la muestra varían cada año, pero algunas obras, 
 por su importancia –¡y por lo que han costado!– se ‘indultan’ y se quedan 
@@ -85,7 +85,7 @@ OÖKulturquartier](http://ooekulturquartier.at); y existe un tour guiado de
 aproximadamente 70 minutos de duración al que es muy recomendable apuntarse, porque ya 
 se sabe que esto del arte moderno es mejor que te lo explique un experto. 
 
-![linz, que ver en linz, calles de link, visitas de Linz, viaje a austria, The Flying Ship](etheria_images/2019/07/que-ver-linz-austria-Flying-Ship-Ponomarev.jpg "'The Flying Ship', obra de Alexander Ponomarev. © Pedro Grifol")
+![linz, que ver en linz, calles de link, visitas de Linz, viaje a austria, The Flying Ship](etheria-images/2019/07/que-ver-linz-austria-Flying-Ship-Ponomarev.jpg "'The Flying Ship', obra de Alexander Ponomarev. © Pedro Grifol")
 
 Como la ciudad es pequeña podemos ir andando a cualquier parte, excepto si quieres subir 
 a **Pöstlingberg**, la colina de la ciudad, a la que se llega en un antiguo tranvía 
@@ -111,14 +111,14 @@ darse una vuelta por los dioramas de las **salas de Historia Natural**, por lo
 instructivo que resulta y porque da gusto ver la obra bien hecha de los taxidermistas, 
 puro realismo para nada kitsch. 
 
-![Schlossmuseum, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria,](etheria_images/2019/07/que-ver-Linz-Schlossmuseum.jpg "Vista de Linz desde el Schlossmuseum. © Pedro Grifol")
+![Schlossmuseum, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria,](etheria-images/2019/07/que-ver-Linz-Schlossmuseum.jpg "Vista de Linz desde el Schlossmuseum. © Pedro Grifol")
 
 Desde la terraza del museo, donde también hay un agradable restaurante ajardinado, 
 puedes planificar el plan para el día siguiente. Por ejemplo: desde allí se ve la playa 
 de Linz. Sí, Linz tiene playa. Los lugareños acostumbran bajar a la arena del Danubio a 
 las 4 o 5 de la tarde (en verano) ¿Te atreves? 
 
-![Schlossmuseum, museos linz, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria,](etheria_images/2019/07/que-ver-linz-sala-historia-Schlossmuseum.jpg "Sala de Historia Natural del Schlossmuseum. © Pedro Grifol")
+![Schlossmuseum, museos linz, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria,](etheria-images/2019/07/que-ver-linz-sala-historia-Schlossmuseum.jpg "Sala de Historia Natural del Schlossmuseum. © Pedro Grifol")
 
 También puedes poner el broche cultural visitando el [Lentos 
 Kunstmuseum](http://lentos.at), un edificio icónico en cuanto a arquitectura moderna se 
@@ -130,7 +130,7 @@ playa; la clásica **coctelería Chaplin’s**, cerca del castillo; el ‘poline
 **Tiki-Tiki Bar**, también cerca del castillo; o en [RememBar](http://remembar.at) que 
 tiene actuaciones en directo por la noche y un ambiente más sofisticado. 
 
-![linz, que ver en linz, calles de link, visitas de Linz, viaje a austria, Lentos KunstMuseum](etheria_images/2019/07/que-ver-linz-austria-Lentos-KunstMuseum.jpg "Lentos KunstMuseum. © Pedro Grifol")
+![linz, que ver en linz, calles de link, visitas de Linz, viaje a austria, Lentos KunstMuseum](etheria-images/2019/07/que-ver-linz-austria-Lentos-KunstMuseum.jpg "Lentos KunstMuseum. © Pedro Grifol")
 
 Ah... Y ¡por tener! Linz también tiene su propia tarta, que compite con la famosa 
 _Sacher Torte_ vienesa. Se llama **_Linzer Torte_,** y dice Wikipedia que la receta de 
@@ -140,7 +140,7 @@ por excelencia.
 
 Linz, la de la Alta Austria, una ciudad llena de sorpresas, en teoría, fuera de ruta. 
 
-![cervecerias linz, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria,](etheria_images/2019/07/que-ver-linz-austria-cervecerias.jpg "Cervecería Stieglbrau Beer Garden, TIKI-TIKI Bar, RememBar y Alte Welt Cervecería. ©PGrifol")
+![cervecerias linz, linz, que ver en linz, calles de link, visitas de Linz, viaje a austria,](etheria-images/2019/07/que-ver-linz-austria-cervecerias.jpg "Cervecería Stieglbrau Beer Garden, TIKI-TIKI Bar, RememBar y Alte Welt Cervecería. ©PGrifol")
 
 ### Guía de Linz | Etheria Magazine
 
@@ -161,7 +161,7 @@ boato.
 En el [hotel Schwarzer Bär](http://linz-hotel.com) algunas habitaciones tienen cama de 
 agua, y puede -quizá- constituir una nueva experiencia. 
 
-![Linzer Torte, gastronomia linz, tarta austria](etheria_images/2019/07/que-ver-linz-austria-Linzer-Torte.jpg "Linzer Torte. © Pedro Grifol")
+![Linzer Torte, gastronomia linz, tarta austria](etheria-images/2019/07/que-ver-linz-austria-Linzer-Torte.jpg "Linzer Torte. © Pedro Grifol")
 
 ##### Más información
 

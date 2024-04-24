@@ -1,13 +1,13 @@
 ---
 title: "Guía de Sania Jelic para visitar las cataratas Victoria"
 date: 2024-03-01
-coverImage: etheria_images/2024/03/sania-cataratas-victoria.jpg
+coverImage: etheria-images/2024/03/sania-cataratas-victoria.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -17,7 +17,7 @@ nos cuenta cómo visitar las cataratas Victoria tanto desde el lado de Zimbabue 
 desde Zambia y nos relata su trepidante aventura haciendo rafting por el río Zambezi. 
 ¿Te atreverías? 
 
-![Sania frente al cartel de las cataratas Victoria](etheria_images/2024/03/sania-cataratas-victoria-cartel.jpg "Sania en su paso por las cataratas Victoria. © Sania Jelic.")
+![Sania frente al cartel de las cataratas Victoria](etheria-images/2024/03/sania-cataratas-victoria-cartel.jpg "Sania en su paso por las cataratas Victoria. © Sania Jelic.")
 
 Había escuchado de la ciudad de Victoria Falls que era un lugar bastante peligroso, con 
 una calle principal y poco más que ver aparte de las cataratas. Sin embargo, me encontré 
@@ -36,7 +36,7 @@ precipita con una enorme fuerza, creando una cortina de gotas de agua. La época
 caudal es entre febrero y abril. En el lado de Zambia se denominan **Mosi-oa-Tunya**, 
 “El humo que truena” y, en el lado de Zimbabue, las cataratas de Victoria. 
 
-![Las cataratas Victoria.](etheria_images/2024/03/sania-cataratas-victoria.jpg "Las cataratas Victoria. © Sania Jelic.")
+![Las cataratas Victoria.](etheria-images/2024/03/sania-cataratas-victoria.jpg "Las cataratas Victoria. © Sania Jelic.")
 
 ## Cómo visitar las cataratas Victoria
 
@@ -68,7 +68,7 @@ desde la Ciudad de Cabo hasta El Cairo, que finalmente no se materializó. El pu
 tiene una altura de 125 metros y se ubica en la segunda caída del Río Zambezi. Desde 
 aquí se hace el _bungie jumping_. 
 
-![Puente de Victoria Falls.](etheria_images/2024/03/sania-cataratas-victoria-puente.jpg "Puente de Victoria Falls. © Sania Jelic.")
+![Puente de Victoria Falls.](etheria-images/2024/03/sania-cataratas-victoria-puente.jpg "Puente de Victoria Falls. © Sania Jelic.")
 
 ## Rafting en el río Zambezi
 
@@ -103,7 +103,7 @@ lanchas siguieron solas su camino por el río, saltando y volando sobre los ráp
 revueltos. Al terminar este tramo, las pudimos recoger y retomar el _rafing_, siempre 
 impresionados por la fuerza del río. 
 
-![Rafting en el río Zambezi.](etheria_images/2024/03/sania-rafting-zambezi.jpg "Rafting en el río Zambezi. © Sania Jelic.")
+![Rafting en el río Zambezi.](etheria-images/2024/03/sania-rafting-zambezi.jpg "Rafting en el río Zambezi. © Sania Jelic.")
 
 ### Fin del rafting
 
@@ -148,7 +148,7 @@ quedarse a dormir en Kasane o en el mismo parque. Hay varios operadores que ofre
 Tours](https://kalaharichobe.com) y me gustó mucho porque tienen buenos guías, son 
 correctos y se esmeran en ofrecer el mejor servicio. 
 
-![Sania en el Parque Nacional de Chobe](etheria_images/2024/03/sania-parque-chobe.jpg "Sania en el Parque Nacional de Chobe. © Sania Jelic.")
+![Sania en el Parque Nacional de Chobe](etheria-images/2024/03/sania-parque-chobe.jpg "Sania en el Parque Nacional de Chobe. © Sania Jelic.")
 
 ## Algunas direcciones recomendadas
 

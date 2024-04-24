@@ -1,13 +1,13 @@
 ---
 title: "10 pueblos bonitos de Galicia que no puedes perderte"
 date: 2023-09-22
-coverImage: etheria_images/2023/09/pueblos-galicia-puente-romano-allariz.jpg
+coverImage: etheria-images/2023/09/pueblos-galicia-puente-romano-allariz.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 En Galicia se podría hacer una lista infinita de lugares que visitar, desde sus ciudades 
@@ -16,7 +16,7 @@ diez bonitos pueblos de Galicia de esos que te llenan un viaje, tanto por sus pr
 cascos antiguos como por los parajes que los rodean. Diez lugares de paz donde 
 desconectar del mundo y centrarse en lo importante. 
 
-![horreo de Combarro en Galicia](etheria_images/2023/09/pueblos-galicia-combarro.jpg "Combarro está situado en la ría de Pontevedra.")
+![horreo de Combarro en Galicia](etheria-images/2023/09/pueblos-galicia-combarro.jpg "Combarro está situado en la ría de Pontevedra.")
 
 Galicia está llena de rincones "casi secretos", de esos que te asaltan en los viajes 
 aportando una autenticidad difícil de encontrar en otros lugares de España. En este caso 
@@ -34,7 +34,7 @@ dejarás de fotografiar los hórreos que se encuentran casi en la orilla. No te 
 tampoco la iglesia de San Roque, del siglo XVIII, el paseo marítimo y el puerto, donde 
 se amarran bonitos botes de pesca tradicionales. 
 
-![Horreo típico de Combarro.](etheria_images/2023/09/pueblos-galicia-pontevedra-ria-combarro.jpg "Horreo típico de Combarro. © Susana García")
+![Horreo típico de Combarro.](etheria-images/2023/09/pueblos-galicia-pontevedra-ria-combarro.jpg "Horreo típico de Combarro. © Susana García")
 
 ## O Grove
 
@@ -48,7 +48,7 @@ la naturaleza pontevedresa. Es especialmente recomendable la **ruta de las Pedra
 Negras**, a través de pasarelas que bordean el mar dejando unas vistas espectaculares, y 
 una visita a la famosa **playa de La Lanzada**. 
 
-![Mirador en la Ruta de las Pedras Negras en O Grove.](etheria_images/2023/09/pueblos-galicia-ogrove-ruta-pedras-negras.jpg "Mirador en la Ruta de las Pedras Negras en O Grove. © Susana García")
+![Mirador en la Ruta de las Pedras Negras en O Grove.](etheria-images/2023/09/pueblos-galicia-ogrove-ruta-pedras-negras.jpg "Mirador en la Ruta de las Pedras Negras en O Grove. © Susana García")
 
 ## Cambados
 
@@ -62,7 +62,7 @@ alta, con unas vistas impresionantes de la ría de Arousa. Merece la pena acerca
 antiguo Pazo de Bazán, hoy **Parador de Cambados**, una casa solariega del siglo XVII 
 donde se come de lujo. 
 
-![Parador de Cambados](etheria_images/2023/02/Parador-cambados-hotel-romantico-850x567.jpg "Parador de Cambados. © Paradores.")
+![Parador de Cambados](etheria-images/2023/02/Parador-cambados-hotel-romantico-850x567.jpg "Parador de Cambados. © Paradores.")
 
 ## Allariz
 
@@ -74,7 +74,7 @@ concentra la vida local y es el inicio de un recorrido por la villa, que tiene c
 paradas clave la iglesia de San Esteban, la iglesia de Santiago, el Museo Galego do 
 Xoguete (imprescindible si se viaja con niños) y el Parque do Arnado. 
 
-![Puente Romano de Allariz en Galicia](etheria_images/2023/09/pueblos-galicia-puente-romano-allariz.jpg "Puente Romano de Allariz.")
+![Puente Romano de Allariz en Galicia](etheria-images/2023/09/pueblos-galicia-puente-romano-allariz.jpg "Puente Romano de Allariz.")
 
 ## Verín
 
@@ -88,7 +88,7 @@ María y, por supuesto, a sus conocidas aguas termales y a los viñedos de la DO
 Monterrei. Y, si tienes la suerte de poder viajar a Verin durante el Carnaval, vivirás 
 en primera persona uno de los más antiguos, auténticos y originales de España. 
 
-![Castillo de Monterrei en Verín.](etheria_images/2023/09/pueblos-galicia-castillo-monterrei-verin.jpg "Castillo de Monterrei en Verín.")
+![Castillo de Monterrei en Verín.](etheria-images/2023/09/pueblos-galicia-castillo-monterrei-verin.jpg "Castillo de Monterrei en Verín.")
 
 ## Betanzos
 
@@ -101,7 +101,7 @@ no puede desligarse de la naturaleza que lo rodea, que esta vez está dominada p
 Mandeo que atraviesa el pueblo, cruzado por el **Puente Viejo** y cuyas vistas son 
 increíbles, y por el **Parque de O Pasatempo**. 
 
-![Iglesia de Santa María del Azogue en Betanzos.](etheria_images/2023/09/pueblos-galicia-iglesia-santa-maria-azogue-betanzos.jpg "Iglesia de Santa María del Azogue en Betanzos.")
+![Iglesia de Santa María del Azogue en Betanzos.](etheria-images/2023/09/pueblos-galicia-iglesia-santa-maria-azogue-betanzos.jpg "Iglesia de Santa María del Azogue en Betanzos.")
 
 ## Pontedeume
 
@@ -115,7 +115,7 @@ Santiago. Muy cerca encontrarás un marco perfecto para los paseos por la natura
 el **Parque Natural de las Fragas del Eume**, un lugar mágico de robles y castaños que 
 parece sacado de un cuento donde se encuentra el monasterio de Caaveiro. 
 
-![Pontedeume.](etheria_images/2023/09/pueblos-galicia-coruna-pontedeume.jpg "Pontedeume.")
+![Pontedeume.](etheria-images/2023/09/pueblos-galicia-coruna-pontedeume.jpg "Pontedeume.")
 
 ## Viveiro
 
@@ -129,7 +129,7 @@ los alrededores no te pierdas la cascada del río Landro y O Vicedo, donde está
 Fuciño do Porco**, una pasarela de madera sobre el acantilado que demuestran el porqué 
 de la fama de bravío del mar Cantábrico. 
 
-![Viveiro en Galicia](etheria_images/2023/09/pueblos-viveiro-galicia.jpg "Viveiro.")
+![Viveiro en Galicia](etheria-images/2023/09/pueblos-viveiro-galicia.jpg "Viveiro.")
 
 ## Mondoñedo
 
@@ -142,7 +142,7 @@ tiempo de una pequeña excursión para dar un paseo, merece la pena acercarse al
 **monasterio de San Salvador de Lourenzá**, a diez kilómetros, un destacado ejemplo de 
 arquitectura románica. 
 
-![Catedral de la Asunción de Mondoñedo.](etheria_images/2023/09/pueblos-galicia-Catedral-Mondonedo.jpg "Catedral de la Asunción de Mondoñedo.")
+![Catedral de la Asunción de Mondoñedo.](etheria-images/2023/09/pueblos-galicia-Catedral-Mondonedo.jpg "Catedral de la Asunción de Mondoñedo.")
 
 ## Ribadeo
 
@@ -157,7 +157,7 @@ de San Roque, el puente de los Santos o por la cercana ruta del río Ouro. Y, po
 supuesto, no puedes marcharte si visitar la famosa y espectacular **playa de las 
 Catedrales**. 
 
-![Edificios de la Plaza de España de Ribadeo.](etheria_images/2023/09/pueblos-ribadeo-galicia.jpg "Edificios de la Plaza de España de Ribadeo.")
+![Edificios de la Plaza de España de Ribadeo.](etheria-images/2023/09/pueblos-ribadeo-galicia.jpg "Edificios de la Plaza de España de Ribadeo.")
 
 **Más información:** 
 

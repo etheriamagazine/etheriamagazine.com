@@ -1,10 +1,10 @@
 ---
 title: "Suiza en coche eléctrico, una aventura ecológica (y más económica)"
 date: 2021-02-10
-coverImage: etheria_images/2021/02/Coche-suiza-montanas.jpg
+coverImage: etheria-images/2021/02/Coche-suiza-montanas.jpg
 categories: 
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
@@ -13,7 +13,7 @@ será realizar una ruta en coche. Suiza es un país perfecto para este tipo de v
 este reportaje os contamos cómo organizarlo en coche de alquiler eléctrico para conocer 
 los atractivos de este bello país alpino y respetar a la vez el medioambiente. 
 
-![pareja haciéndose una foto en Suiza](etheria_images/2021/02/coche-Grand-Tour-Suiza.jpg "Ruta en coche por Suiza. © Mattias Nutt")
+![pareja haciéndose una foto en Suiza](etheria-images/2021/02/coche-Grand-Tour-Suiza.jpg "Ruta en coche por Suiza. © Mattias Nutt")
 
 Lo primero que debes hacer para organizar un viaje en coche por Suiza será elegir un 
 recorrido viendo en casa el mapa de [La Gran Ruta de 
@@ -34,7 +34,7 @@ poco tiempo, pero así lo decidimos al comprar los billetes de avión) para vola
 de **más de 300 puntos de recarga**; y un coche de alquiler que tuviera 250 kilómetros 
 de autonomía sería suficiente para los desplazamientos cortos. 
 
-![chica frente al Río Limago, en Zúrich](etheria_images/2021/02/Suiza-coche-Zurich-Limago.jpg "Río Limago, en Zúrich. © Pedro Grifol")
+![chica frente al Río Limago, en Zúrich](etheria-images/2021/02/Suiza-coche-Zurich-Limago.jpg "Río Limago, en Zúrich. © Pedro Grifol")
 
 ## Dos días en Zúrich, una ciudad sin bancos extranjeros a pie de calle
 
@@ -49,7 +49,7 @@ lo sabéis– que en toda la ciudad no existe ninguna presencia visible de entid
 alguna… que no sea suiza. En Zúrich, las oficinas de las entidades bancarias extranjeras 
 están en los pisos, como si fueran galerías de arte. Todo un detalle de privacidad. 
 
-![Bahnhofstrasse en Zúrich](etheria_images/2021/02/Suiza-coche-Zurich.-Bahnhofstrasse.jpg "Bahnhofstrasse en Zúrich. © P. Grifol")
+![Bahnhofstrasse en Zúrich](etheria-images/2021/02/Suiza-coche-Zurich.-Bahnhofstrasse.jpg "Bahnhofstrasse en Zúrich. © P. Grifol")
 
 Como el dinero era un asunto que flotaba en el ambiente, decidimos dedicar una mañana a 
 visitar algunos museos relacionados con el tema, como el **Money Museum** 
@@ -64,7 +64,7 @@ o no al deporte rey, el templo del fútbol mundial no te dejará indiferente. La
 cuesta 25 euros, curiosamente es tan cara como la entrada al Museo del Real Madrid… o al 
 del Barça. 
 
-![El Rin a su paso por Basilea](etheria_images/2021/02/Suiza-coche-Basilea-rin.jpg "El Rin a su paso por Basilea. © P. Grifol")
+![El Rin a su paso por Basilea](etheria-images/2021/02/Suiza-coche-Basilea-rin.jpg "El Rin a su paso por Basilea. © P. Grifol")
 
 ## Basilea, la ciudad del arte internacional
 
@@ -75,7 +75,7 @@ los llamados 10 'picassos' fundamentales, y el **Museo de Jean Tinguely**
 (www.tinguely.ch) maestro de la escultura en hierro y famoso por sus piezas mecánicas 
 construidas a partir del reciclaje de todo tipo de materiales. 
 
-![Museo Tinguely en Basilea](etheria_images/2021/02/Suiza-coche-Basilea-Museo-Tinguely.jpg "Museo Tinguely en Basilea. © P. Grifol")
+![Museo Tinguely en Basilea](etheria-images/2021/02/Suiza-coche-Basilea-Museo-Tinguely.jpg "Museo Tinguely en Basilea. © P. Grifol")
 
 ### La Chaux-de-Fonds
 
@@ -90,7 +90,7 @@ que era nada más y nada menos que el multimillonario Vanderbilt, el dedo del de
 fijó en él: “En América tenemos trabajo para ti”. La historia de monsieur Chevrolet en 
 Estados Unidos continuó, como ya sabemos, colmada de éxito. 
 
-![vaso y botella de absenta en Suiza](etheria_images/2021/02/Suiza-coche-absenta.jpg "La Maison de L’Absinthe de Môtiers. © P. Grifol")
+![vaso y botella de absenta en Suiza](etheria-images/2021/02/Suiza-coche-absenta.jpg "La Maison de L’Absinthe de Môtiers. © P. Grifol")
 
 ### La cuna de la absenta
 
@@ -101,7 +101,7 @@ Además, tiene fama de misteriosa, no en vano es la cuna del ‘hada verde’, e
 que vivió en la clandestinidad desde 1910 hasta 2005, tiene su feudo en **La Maison de 
 L’Absinthe** (maison-absinthe.ch) de Môtiers. Interesante visita espirituosa. 
 
-![Estatuas belle époque frente al lago Neuchâtel](etheria_images/2021/02/Suiza-coche-neuchatel.jpg "La 'Belle Époque' en Neuchâtel. © P. Grifol")
+![Estatuas belle époque frente al lago Neuchâtel](etheria-images/2021/02/Suiza-coche-neuchatel.jpg "La 'Belle Époque' en Neuchâtel. © P. Grifol")
 
 Proseguimos dirección sur hasta Neuchâtel, capital del cantón, situada en un agradable 
 enclave y rodeada por laderas tapizadas de viñedos. Recomendable apuntarse al tour 
@@ -115,7 +115,7 @@ occidental. Noche y cena en **Lausana**, si puede ser, con vistas al lago. Al d�
 siguiente ineludible visita al **Museo Olímpico** (olympics.com), ya que Lausana es la 
 sede del Comité Olímpico Internacional. 
 
-![Lausana](etheria_images/2021/02/Suiza-coche-Lausana.jpg "Lausana. © P. Grifol")
+![Lausana](etheria-images/2021/02/Suiza-coche-Lausana.jpg "Lausana. © P. Grifol")
 
 ### Ginebra, museos y galerías de arte
 
@@ -132,7 +132,7 @@ medioambiente, en el que habíamos disfrutado de la ausencia de malos olores (pr
 la combustión de la gasolina)… y sin humos. Y también, si cabe, un viaje más ecológico y 
 ético. 
 
-![Ruta en coche por Suiza](etheria_images/2021/02/Coche-suiza-montanas.jpg "Grand Tour of Switzerland. © Mattias Nutt")
+![Ruta en coche por Suiza](etheria-images/2021/02/Coche-suiza-montanas.jpg "Grand Tour of Switzerland. © Mattias Nutt")
 
 ## Información práctica y técnica
 
@@ -156,7 +156,7 @@ puede llegar hasta los 250 kilómetros.
 - En el resto de puntos de carga urbanos se paga con tarjeta de crédito. Con 5 euros el coche está cargado en dos horas.
 - En los hoteles tienen varias fórmulas de pago. Algunos cobran por hora (1€/hora), más el aparcamiento si no se está alojado en el mismo; y en otros te pueden cobrar solo la cerveza que te tomas mientras estás esperando completar la carga.
 
-![viajar en coche electrico](etheria_images/2021/02/Suiza-coche-electrico.jpg "Pago con tarjeta de crédito, borne de carga y pago con tarjeta Vmotion. © P.Grifol")
+![viajar en coche electrico](etheria-images/2021/02/Suiza-coche-electrico.jpg "Pago con tarjeta de crédito, borne de carga y pago con tarjeta Vmotion. © P.Grifol")
 
 ### ¿Cuánto te ahorras circulando con coche eléctrico?
 

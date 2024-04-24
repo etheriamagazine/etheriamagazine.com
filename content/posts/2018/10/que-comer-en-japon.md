@@ -1,20 +1,20 @@
 ---
 title: "Qué comer en Japón, platos que debes conocer"
 date: 2018-10-09
-coverImage: etheria_images/2018/10/viaje-japon-Soba-y-tempura.jpg
+coverImage: etheria-images/2018/10/viaje-japon-Soba-y-tempura.jpg
 categories: 
   - viajes-con-amigas
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - macarenaetheria
+authors: 
+  - Macarena Escrivá
 ---
 
 Pongámonos en situación. Tienes próximamente un viaje a Japón y estás desbordada y abrumada ante tanta información. ¿Qué visito primero? ¿Cuántos días en Tokio y cuántos en Kioto? ¿Hago una excursión a Hiroshima, Nara u Osaka? Hasta que decidas qué y cómo hacerlo, te asaltarán multitud de dudas. Ya tienes los hoteles, pero ahora ¿qué y dónde voy a comer allí?
 
-![Restaurante Sushi Iwa.](etheria_images/2018/10/viaje-japon-Sushi-Iwa-1024x768.jpg "Restaurante Sushi Iwa.")
+![Restaurante Sushi Iwa.](etheria-images/2018/10/viaje-japon-Sushi-Iwa-1024x768.jpg "Restaurante Sushi Iwa.")
 
 Teniendo en cuenta que es uno de los países más poblados del mundo –la capital ya tiene 
 9,2 millones de habitantes– imagina el número de restaurantes que puede haber. Sólo te 
@@ -23,7 +23,7 @@ decimos que **en Tokio, hay más de 20.000**. Ante tales números, la tarea de e
 estado en el país y lo hemos recorrido de norte a sur y de este a oeste y esto es lo que 
 te podemos contar en Etheria Magazine... ¿Nos comemos Japón? 
 
-![Escena callejera y un aperitivo de takoyaki.](etheria_images/2018/10/Comida-callejera-japon-1024x667.jpg "Escena callejera y un aperitivo de takoyaki.")
+![Escena callejera y un aperitivo de takoyaki.](etheria-images/2018/10/Comida-callejera-japon-1024x667.jpg "Escena callejera y un aperitivo de takoyaki.")
 
 > Partamos de la base de que la cocina japonesa es harto conocida alrededor del mundo. De 
 > una u otra forma, han llegado hasta nosotros sus ingredientes y formas de prepararlos. 
@@ -39,7 +39,7 @@ más altas esferas sociales. Pero hoy en día vivimos en tiempos de globalizaci�
 podemos acceder a aquello que está al alcance de nuestra mano y no hay más restricciones 
 que las que dictan tus propios gustos. 
 
-![El restaurante Sushi Iwa es uno de los mejores de Tokio.](etheria_images/2018/10/viaje-japon-Sushi-Iwa-1-931x1024.jpg "El restaurante Sushi Iwa es uno de los mejores de Tokio.")
+![El restaurante Sushi Iwa es uno de los mejores de Tokio.](etheria-images/2018/10/viaje-japon-Sushi-Iwa-1-931x1024.jpg "El restaurante Sushi Iwa es uno de los mejores de Tokio.")
 
 ## Qué comer en Japón, platos esenciales
 
@@ -68,7 +68,7 @@ para nosotros.
 Tokio**, tres de los mejores restaurantes en los que cambiar para siempre tu percepción 
 sobre el sushi. 
 
-![La sopa ramen lleva distintas carnes, huevo cocido, bambú y fideos, entre otros ingredientes.](etheria_images/2018/10/viaje-japon-Ramen-1024x768.jpg "La sopa ramen lleva distintas carnes, huevo cocido, bambú y fideos, entre otros ingredientes.")
+![La sopa ramen lleva distintas carnes, huevo cocido, bambú y fideos, entre otros ingredientes.](etheria-images/2018/10/viaje-japon-Ramen-1024x768.jpg "La sopa ramen lleva distintas carnes, huevo cocido, bambú y fideos, entre otros ingredientes.")
 
 ### El ramen, la sopa más popular
 
@@ -82,7 +82,7 @@ Ello ha hecho que sea uno de sus platos más populares.
 expendedora –algunos de ellos hasta con estrella Michelin– hasta sitios especializados 
 como **Nagi**, en Tokio, en la curiosa zona del Goden Gai o **Inoichi** en Kioto. 
 
-![Tempura, en Endo Yasaka; carne de kobe; y Sushi, en So Masa.](etheria_images/2018/10/Tempura-Endo-Yasaka-sushi-so-masa-kobe-1024x690.jpg "Tempura, en Endo Yasaka; carne de kobe; y Sushi, en So Masa.")
+![Tempura, en Endo Yasaka; carne de kobe; y Sushi, en So Masa.](etheria-images/2018/10/Tempura-Endo-Yasaka-sushi-so-masa-kobe-1024x690.jpg "Tempura, en Endo Yasaka; carne de kobe; y Sushi, en So Masa.")
 
 ### Carne de wagyu para las más carnívoras
 
@@ -95,7 +95,7 @@ uno de los mejores sitios en los que hacerlo.
 Hyogo, podrás paladear diferentes cortes de kobe A4 o A5 que se diferencian en su 
 infiltración de grasa y marmoleado. ¡Una verdadera delicia! 
 
-![En la cocina japonesa no faltan los fideos soba ni la tempura.](etheria_images/2018/10/viaje-japon-Soba-y-tempura-819x1024.jpg "En la cocina japonesa no faltan los fideos soba ni la tempura.")
+![En la cocina japonesa no faltan los fideos soba ni la tempura.](etheria-images/2018/10/viaje-japon-Soba-y-tempura-819x1024.jpg "En la cocina japonesa no faltan los fideos soba ni la tempura.")
 
 ### Las tempuras tienen raíces portuguesas
 

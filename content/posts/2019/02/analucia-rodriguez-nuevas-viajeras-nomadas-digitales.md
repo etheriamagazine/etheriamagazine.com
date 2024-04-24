@@ -1,11 +1,11 @@
 ---
 title: "Analucía Rodríguez, las nuevas viajeras son nómadas digitales"
 date: 2019-02-25
-coverImage: etheria_images/2019/02/analucia-mujeres-etheria.jpg
+coverImage: etheria-images/2019/02/analucia-mujeres-etheria.jpg
 categories: 
   - mujeres-etheria
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Analucía Rodríguez, medio peruana y medio española, ha visitado 67 países y ha vivido en 
@@ -13,7 +13,7 @@ ocho de ellos. Su pasado, con una vida ordenada sujeta a estrictos horarios de o
 apenas queda como un recuerdo lejano. Tras cinco años viajando a tiempo completo, no 
 concibe vivir de otra manera. 
 
-![nomadas digital, vivir viajando](etheria_images/2019/02/analucia-mujeres-etheria.jpg "Analucía Rodríguez, nómada digital en Viajar para vivir.")
+![nomadas digital, vivir viajando](etheria-images/2019/02/analucia-mujeres-etheria.jpg "Analucía Rodríguez, nómada digital en Viajar para vivir.")
 
 Analucía representa el espíritu de las mujeres viajeras de nuestro tiempo, las nómadas digitales, eso no quiere decir que lo haya tenido fácil, pero sí que ha podido tomar la decisión de vivir viajando. Estudió Comunicación especializada en Publicidad y Marketing digital en Lima, además de un Máster en Media Management en la Universidad de Navarra. Sus inicios laborales la llevaron a moverse durante una década entre grandes empresas, medios y agencias, hasta que un día optó por “salir de su zona de confort” y dar la vuelta al mundo. Y no se ha arrepentido, tras cinco años de no parar, sigue prefiriendo vivir y disfrutar el día a día al máximo.
 
@@ -30,7 +30,7 @@ He viajado desde muy pequeñita con mi familia y cuando tenía 4 años nos fuimo
 > "Tengo mucho apetito por descubrir, por ir a cada esquina de este planeta y nunca dejar 
 > de sorprenderme y aprender con lo que veo" 
 
-![viajar para vivir, analucia en londres](etheria_images/2019/02/analucia-etheria-magazine.jpg "Analucía Rodríguez en Londres")
+![viajar para vivir, analucia en londres](etheria-images/2019/02/analucia-etheria-magazine.jpg "Analucía Rodríguez en Londres")
 
 3\. ¿Qué consideras que te han aportado los viajes? ¿Por qué los aconsejarías? 
 
@@ -50,7 +50,7 @@ He viajado de ambas maneras. Antes era muy de planificar, tenía todo estudiadí
 > "Soy muy apasionada. Todo lo que hago me tiene que encantar, y creo que eso se nota en 
 > la forma en que hablo, sonrío o muestro interés por las cosas" 
 
-![analucía, viajar para vivir](etheria_images/2019/02/analu-etheria-magazine.jpg "Analucía Rodríguez en Filipinas.")
+![analucía, viajar para vivir](etheria-images/2019/02/analu-etheria-magazine.jpg "Analucía Rodríguez en Filipinas.")
 
 6\. ¿Cómo te entretienes en las esperas de los aeropuertos? 
 
@@ -66,7 +66,7 @@ El último lugar que visité fue **Luxemburgo** y, realmente, me fascinó. Llegu
 
 La gente se deja llevar mucho por lo que no sabe o solo escucha, y  por gente que nunca estuvo. Creo que tenemos que opinar en base a nuestras experiencias no en base a lo que escuchamos y también entender que cada experiencia es diferente. De alguna forma u otra, cada destino nos puede sorprender a su manera. Sí, es verdad que Luxemburgo no es barato pero, sinceramente, yo encontré alojamiento y locales para comer donde no había que gastar tanto, así que no veo excusas para no visitarlo.
 
-![analucia en jordania](etheria_images/2019/02/Analucia-Jordania-WadiRum.jpg "Analucía Rodríguez en el desierto de Wadi Rum, Jordania.")
+![analucia en jordania](etheria-images/2019/02/Analucia-Jordania-WadiRum.jpg "Analucía Rodríguez en el desierto de Wadi Rum, Jordania.")
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías a cualquier mujer? 
 
@@ -83,7 +83,7 @@ Muero por ir a ver auroras boreales a [Noruega](https://etheriamagazine.com/2018
 
 No se si voy a ser muy objetiva diciendo que para mí, **Perú tiene la mejor gastronomía del mundo.** Tiene una variedad de insumos alucinante y, por ende, la gastronomía es muy variada y deliciosa. Lo mejor es que no solo se basa, por ejemplo en carnes o pasta, como pasa con otros destinos. Tienes un sinfín de platos basados en pescados y mariscos, luego con la influencia china también muchísimos arroces o carnes, pollo, pato... El sushi en Perú (llamado también comida _nikkei_, que es la fusión de la japonesa con la peruana) es, simplemente, maravilloso y luego hay muchísimos platos basados en las patatas (Perú tiene más de 4.000 tipos). ¡Así que hay para todos los gustos!
 
-![analucia, viajar para vivir](etheria_images/2019/02/analucia-viajes.jpg "Analucía en uno de sus viajes.")
+![analucia, viajar para vivir](etheria-images/2019/02/analucia-viajes.jpg "Analucía en uno de sus viajes.")
 
 12\. ¿En qué medio de transporte prefieres viajar? 
 
@@ -93,7 +93,7 @@ No se si voy a ser muy objetiva diciendo que para mí, **Perú tiene la mejor ga
 
 He estado en muchos estupendos, en India, Medio Oriente, Latinoamérica o Asia; así que se me hace difícil elegir. Pero recuerdo haber estado hace no mucho en el [Colca Lodge](https://colca-lodge.com/es/hotel/) en Arequipa, Perú, en plena naturaleza, disfrutando de las aguas termales a la luz de la luna con una botella de _champagne_ y solo silencio alrededor, y realmente fue una experiencia bellísima.
 
-\[caption id="attachment\_7722" align="aligncenter" width="800"\]![Colca Lodge, hoteles en arequipa, el mejor hotel del mundo](etheria_images/2019/02/colca-lodge-arequipa.jpg "Colca Lodge, en Arequipa (Perú)") © Colca Lodge (Arequipa, Perú).\[/caption\]
+\[caption id="attachment\_7722" align="aligncenter" width="800"\]![Colca Lodge, hoteles en arequipa, el mejor hotel del mundo](etheria-images/2019/02/colca-lodge-arequipa.jpg "Colca Lodge, en Arequipa (Perú)") © Colca Lodge (Arequipa, Perú).\[/caption\]
 
 14\. ¿Qué es lo que nunca falta en tu bolsa de mano? 
 

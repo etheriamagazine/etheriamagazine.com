@@ -1,13 +1,13 @@
 ---
 title: "Islas Shetland, un paraíso en el Atlántico Norte"
 date: 2019-03-21
-coverImage: etheria_images/2019/03/que-ver-islas-shetland-e1552903777244.jpg
+coverImage: etheria-images/2019/03/que-ver-islas-shetland-e1552903777244.jpg
 categories: 
   - viajes-ecoturismo
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -18,7 +18,7 @@ no te pierdas ninguno de sus paisajes porque esconden un exclusivo encanto escoc
 Sigue leyendo porque te damos 10 pistas para no perderte lo imprescindible en estas 
 islas. 
 
-![mujer en las islas shetland de escocia](etheria_images/2019/03/que-ver-islas-shetland-1024x682.jpg "Los paisajes de las islas Shetland son únicos.")
+![mujer en las islas shetland de escocia](etheria-images/2019/03/que-ver-islas-shetland-1024x682.jpg "Los paisajes de las islas Shetland son únicos.")
 
 Las islas Shetland son uno de los rincones más desconocidos de Europa. Un archipiélago 
 de paisajes impresionantes, vida rural de lo más auténtica y un paraíso para los amantes 
@@ -27,7 +27,7 @@ quince islas habitadas encontrarás la esencia un lugar que parece al margen del
 
 ## Atención a la carretera
 
-![cartel en las islas shetland](etheria_images/2019/03/viaje-coche-mujeres-islas-shetland-e1552900631852.jpg "Te acostumbrarás a sus carreteras estrechas.")
+![cartel en las islas shetland](etheria-images/2019/03/viaje-coche-mujeres-islas-shetland-e1552900631852.jpg "Te acostumbrarás a sus carreteras estrechas.")
 
 Después de [viajar en 
 barco](https://www.northlinkferries.co.uk/your-holiday/our-routes/) desde Aberdeen hasta 
@@ -58,7 +58,7 @@ hizo falta disparar ni una bala de cañón, para acabar en el **museo y archivos
 Shetland** en cuya moderna exposición empezarás a enamorarte del centenar de islas y 
 pequeños islotes que componen el archipiélago. 
 
-![Puerto de Lerwick, en la isla Mainland](etheria_images/2019/03/islas-shetland-lerwick.jpg "Puerto de Lerwick, en la isla Mainland.")
+![Puerto de Lerwick, en la isla Mainland](etheria-images/2019/03/islas-shetland-lerwick.jpg "Puerto de Lerwick, en la isla Mainland.")
 
 ## El norte de las Islas Británicas
 
@@ -73,7 +73,7 @@ del itinerario senderista que, en tres horas, te muestra lo mejor de su naturale
 siguiendo la costa desde los impresionantes acantilados hasta los tramos, sobre 
 pasarela, que te invitan a descubrir la diminuta y frágil vida que alberga una turbera. 
 
-![ovejas en los Acantilados de Hermaness Nature Reserve en las islas Shetland](etheria_images/2019/03/acantilados-Hermaness-Nature-Reserve.jpg "Acantilados de Hermaness Nature Reserve.")
+![ovejas en los Acantilados de Hermaness Nature Reserve en las islas Shetland](etheria-images/2019/03/acantilados-Hermaness-Nature-Reserve.jpg "Acantilados de Hermaness Nature Reserve.")
 
 ## Una parada y un trago de cerveza
 
@@ -83,7 +83,7 @@ ambiente popular de un pub o bien tonificar el ánimo visitando la **destilería
 Shetland** (www.shetlandreel.com)donde conocerás el único lugar de las islas en el que 
 se elabora ginebra y whisky. 
 
-![chico con cuatro botellas de cerveza de las islas Shetland](etheria_images/2019/03/islas-shetland-Valhalla-brewery-e1552901223948.jpg "Cerveza artesana de Valhalla brewery.")
+![chico con cuatro botellas de cerveza de las islas Shetland](etheria-images/2019/03/islas-shetland-Valhalla-brewery-e1552901223948.jpg "Cerveza artesana de Valhalla brewery.")
 
 En la misma destilería Saxa Vord, situada en la isla de Unst, puedes degustar ambas 
 bebidas desde abril a septiembre. Si eres más de cerveza tienes que probar la artesanal 
@@ -101,7 +101,7 @@ reconocibles como el alcatraz por su esbelta silueta y el blanco brillante de su
 plumaje-, tranquilas bahías de playas con blanquísimas arenas y sendas para recorrer a 
 pie. 
 
-![Avistamiento de ballenas en Islas Shetland.](etheria_images/2019/03/ballena-islas-shetland-e1552901362254.jpg "Avistamiento de ballenas en Islas Shetland.")
+![Avistamiento de ballenas en Islas Shetland.](etheria-images/2019/03/ballena-islas-shetland-e1552901362254.jpg "Avistamiento de ballenas en Islas Shetland.")
 
 Además de pintorescos enclaves como el **faro de Bressay**, mandado construir por el 
 padre del famoso escritor de viajes **Robert Louis Stevenson**. Hoy, aunque 
@@ -127,7 +127,7 @@ hospitalidad de sus propietarios será la mejor manera de conocer los rincones m
 fascinantes de sus pequeños núcleos y las historias que esconden los pliegues del 
 paisaje. 
 
-![buzón en las islas Shetland](etheria_images/2019/03/bed-breakfast-islas-shetland-e1552901661875.jpg "Las islas transmiten la paz del mundo rural.")
+![buzón en las islas Shetland](etheria-images/2019/03/bed-breakfast-islas-shetland-e1552901661875.jpg "Las islas transmiten la paz del mundo rural.")
 
 ## Vida en el mar
 
@@ -139,7 +139,7 @@ una comunicación mediante barcos de pesca que apoyaba la resistencia noruega fr
 ocupación nazi, pero es sobre todas ellas la pesca la que perdura como uno de sus 
 principales modos de vida. 
 
-![pescadores islas shetland,](etheria_images/2019/03/pescadores-islas-shetland.jpg "Pescadores de las Islas Shetland.")
+![pescadores islas shetland,](etheria-images/2019/03/pescadores-islas-shetland.jpg "Pescadores de las Islas Shetland.")
 
 En cualquier puerto verás la llegada de las pequeñas embarcaciones locales con sus 
 capturas de la jornada. Si quieres conocer al pez viajero más fascinante en estas frías 
@@ -159,7 +159,7 @@ isleños con la luz perpetua de la que gozan las islas durante el verano. En con
 a los temporales y el oleaje bravío que bate sus costas durante el invierno, los veranos 
 se presentan idílicos bajo esta luz que podrás apreciar en toda su belleza a medianoche. 
 
-![poni, islas shetland](etheria_images/2019/03/poni-islas-shetland-e1552902455705.jpg "Poni de las Islas Shetland.")
+![poni, islas shetland](etheria-images/2019/03/poni-islas-shetland-e1552902455705.jpg "Poni de las Islas Shetland.")
 
 ## Asomada a la Edad del Hierro
 
@@ -173,7 +173,7 @@ espectáculo natural que te dejará boquiabierta. El Broch de Mousa, gracias a e
 situado en un paraje remoto, es la mejor conservada de estas torres y uno de los 
 monumentos prehistóricos más interesantes de Europa. 
 
-![Broch de la isla de Mousa Islas Shetland](etheria_images/2019/03/broch-mousa-islas-shetland-e1552902621638.jpg "Broch de la isla de Mousa (Islas Shetland).")
+![Broch de la isla de Mousa Islas Shetland](etheria-images/2019/03/broch-mousa-islas-shetland-e1552902621638.jpg "Broch de la isla de Mousa (Islas Shetland).")
 
 ## Paseo por el jardín de las Shetland
 
@@ -185,7 +185,7 @@ noruegos, donde se ha recogido la botella con un mensaje más antiguo del mundo 
 1914– y que podrás ver entre los objetos expuestos de los barcos hundidos en su costa 
 del **Centro de Interpretación de Fetlar**. 
 
-![Menhir Stone of the Ripples.](etheria_images/2019/03/menhir-isla-fetlar.jpg "Menhir Stone of the Ripples.")
+![Menhir Stone of the Ripples.](etheria-images/2019/03/menhir-isla-fetlar.jpg "Menhir Stone of the Ripples.")
 
 Si viajas en julio no te pierdas el ambientazo de su **concurso de perros pastores de 
 ovejas** pues además hay actuaciones de música tradicional en vivo. Por la isla 

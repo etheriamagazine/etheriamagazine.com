@@ -1,16 +1,16 @@
 ---
 title: "Hotel SO/ Sotogrande, nuevo referente del turismo de lujo en Cádiz"
 date: 2021-09-27
-coverImage: etheria_images/2021/09/so-sotogrande-piscina.jpg
+coverImage: etheria-images/2021/09/so-sotogrande-piscina.jpg
 categories: 
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Ya tenemos una opción más si buscamos una escapada de lujo a Cádiz: el nuevo SO/ Sotogrande, un hotel que ha llegado para ofrecer una propuesta divertida y desenfadada, pero con todos los servicios y características de un hotel de cinco estrellas. No te lo pierdas y ve buscando un hueco para conocerlo, te aseguramos que te va a sorprender.
 
-![Una de las piscinas del hotel SO Sotogrande.](etheria_images/2021/09/so-sotogrande-piscina.jpg "Una de las piscinas del hotel SO Sotogrande.")
+![Una de las piscinas del hotel SO Sotogrande.](etheria-images/2021/09/so-sotogrande-piscina.jpg "Una de las piscinas del hotel SO Sotogrande.")
 
 Ya era hora de que Sotogrande tuviera su primer hotel cinco estrellas, y no ha podido 
 recibir a un embajador mejor del turismo del lujo: el resort SO/ Sotogrande, del grupo 
@@ -27,7 +27,7 @@ y que ha sido posible implantar desde el principio en un hotel nuevo como este. 
 acciones que van desde el material sostenible de las llaves de sus habitaciones hasta 
 las botellas ecológicas o el cambio de las toallas según las necesidades del cliente. 
 
-![Aperitivo en So Sotogrande.](etheria_images/2021/09/SO-sotogrande-aperitivo.jpg "Aperitivo en So Sotogrande.")
+![Aperitivo en So Sotogrande.](etheria-images/2021/09/SO-sotogrande-aperitivo.jpg "Aperitivo en So Sotogrande.")
 
 El hotel nace además con voluntad de desestacionalizar el turismo de la zona y va a 
 permanecer abierto todo el año. Una apuesta segura gracias al agradable clima gaditano 
@@ -45,7 +45,7 @@ libertad creativa para dar forma al estilo del hotel que se muestra tanto en los
 estampados de sus telas y tapizados (ha creado cuarenta estampados originales para SO/ 
 Sotogrande) como en el diseño del uniforme de sus empleados. 
 
-![Suite Cortijo.](etheria_images/2021/09/so-sotogrande-suite-cortijo.jpg "Detalle de la Suite Cortijo.")
+![Suite Cortijo.](etheria-images/2021/09/so-sotogrande-suite-cortijo.jpg "Detalle de la Suite Cortijo.")
 
 ## Mimo en la decoración
 
@@ -64,7 +64,7 @@ andalusí y da continuidad visual a las distintas estancias.
 Pero no todo es cerámica, presta atención también a los usos de las telas como escultura 
 del restaurante Society o a las singulares lámparas del hotel. 
 
-![Habitación SO Comfy SO Sotogrande](etheria_images/2021/09/so-sotogrande-habitacion-so-comfy.jpg "Habitación SO Comfy.")
+![Habitación SO Comfy SO Sotogrande](etheria-images/2021/09/so-sotogrande-habitacion-so-comfy.jpg "Habitación SO Comfy.")
 
 ## Habitaciones y Suites
 
@@ -80,7 +80,7 @@ duchas con efecto lluvia en cada habitación, albornoces, zapatillas… Te van a
 sentir mejor que en tu propia casa. Además, todas las suites disponen de terraza o 
 balcón para disfrutar de las vistas. 
 
-![Suite Almenara de SO Sotogrande](etheria_images/2021/09/so-sotogrande-suite.jpg "Suite Almenara.")
+![Suite Almenara de SO Sotogrande](etheria-images/2021/09/so-sotogrande-suite.jpg "Suite Almenara.")
 
 Su decoración no puede ser más bonita, con una atención a los pequeños detalles que te 
 encantará y una acogedora paleta de colores suaves que evocan al Mediterráneo. Presta 
@@ -94,7 +94,7 @@ Leandro Caballero, tenían claro que había que conectar con la gastronomía loc
 en los restaurantes del hotel se utilizan productos frescos locales con un toque 
 creativo y vanguardista. 
 
-![Barra de Mixo.](etheria_images/2021/09/so-sotogrande-MiXo.jpg "Barra de Mixo.")
+![Barra de Mixo.](etheria-images/2021/09/so-sotogrande-MiXo.jpg "Barra de Mixo.")
 
 **Mixo** se encuentra en corazón del hotel, en el patio central de este singular 
 ‘cortijo revolucionado’ y es el mejor lugar para encontrarse, tomar un cóctel y 
@@ -108,7 +108,7 @@ terraza con vistas al mar (no te pierdas su rincón Pata Negra).
 piscina con un bar-parrilla que sirve las mejores carnes y pescados, además de platos de 
 temporada y cócteles para disfrutar al aire libre. 
 
-![Terraza del Social Club.](etheria_images/2021/09/social-club-terraza.jpg "Terraza del Social Club.")
+![Terraza del Social Club.](etheria-images/2021/09/social-club-terraza.jpg "Terraza del Social Club.")
 
 **Social Club** está pensado para dar a los jugadores de golf un espacio elegante y 
 relajado para antes o después de practicar este deporte. Un lugar donde tomar desde un 
@@ -122,7 +122,7 @@ paisaje y la tradición pero que a la vez ofrece un espacio moderno e innovador.
 esto se traduce en un espacio precioso, donde dominan los colores suaves y relajantes 
 desde la recepción hasta los vestuarios. 
 
-![SO Spa.](etheria_images/2021/09/So-sotogrande-spa.jpg "SO Spa.")
+![SO Spa.](etheria-images/2021/09/So-sotogrande-spa.jpg "SO Spa.")
 
 Cuenta con **ocho cabinas privadas** donde beneficiarse de las terapias naturales. 
 Además, tres cabinas de tratamientos, Crioterapia, Flotarium, Fisioterapia, piscinas 
@@ -138,7 +138,7 @@ tradicional y la contemporánea que conviven en SO/ Sotogrande. Limoneros, naran
 aroma de azahar, palmeras, olivos, higueras… todo evoca a la Andalucía más tradicional. 
 Pero también hay un guiño para lo innovador en sus plantas exóticas y flores coloridas. 
 
-![Tombonas en una de las piscinas del hotel SO Sotogrande.](etheria_images/2021/09/so-sotogrande-piscina-hamacas.jpg "Tombonas en una de las piscinas del hotel SO Sotogrande.")
+![Tombonas en una de las piscinas del hotel SO Sotogrande.](etheria-images/2021/09/so-sotogrande-piscina-hamacas.jpg "Tombonas en una de las piscinas del hotel SO Sotogrande.")
 
 Y, como no puede ser de otra forma, no podía faltar una fuente que recuerda a esa 
 tradición árabe de la presencia del agua en los jardines. Pero no es un agua sólo 

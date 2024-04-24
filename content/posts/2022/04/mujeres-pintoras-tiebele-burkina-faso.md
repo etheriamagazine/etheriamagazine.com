@@ -1,16 +1,16 @@
 ---
 title: "Tiébélé, el pueblo burkinés pintado sólo por mujeres"
 date: 2022-04-11
-coverImage: etheria_images/2022/04/tiebele-calles-Burkina-Faso.jpg
+coverImage: etheria-images/2022/04/tiebele-calles-Burkina-Faso.jpg
 categories: 
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 Cada año, durante el mes de mayo, las mujeres del poblado de Tiébélé decoran los muros de sus casas en un ritual ancestral. Acompáñanos a conocer una de las tradiciones más curiosas de Burkina Faso, la simbología de sus creaciones y cómo se desarrolla la celebración.
 
-![mujer pintando una vivienda de Tiébélé](etheria_images/2022/04/tiebele-retratos-mujer.jpg "Cada mes de mayo, las mujeres de Tiébélé pintan las paredes del pueblo. © Pedro Grifol")
+![mujer pintando una vivienda de Tiébélé](etheria-images/2022/04/tiebele-retratos-mujer.jpg "Cada mes de mayo, las mujeres de Tiébélé pintan las paredes del pueblo. © Pedro Grifol")
 
 Burkina Faso es uno de esos países centroafricanos de los que nada, o casi nada, 
 sabemos. Su potencial turístico pasa casi desapercibido; sin embargo, el país tiene 
@@ -26,7 +26,7 @@ valor y dar protagonismo a las **mujeres de Tiébélé** que, anualmente y sigui
 tradición, pintan los muros de sus casas en un ritual que se repite litúrgicamente desde 
 hace siglos. 
 
-![Retrato de un niño de la etnia kasséna](etheria_images/2022/04/retrato-joven-tiebele.jpg "Los habitantes de Tiébélé son de la etnia kasséna. © Pedro Grifol")
+![Retrato de un niño de la etnia kasséna](etheria-images/2022/04/retrato-joven-tiebele.jpg "Los habitantes de Tiébélé son de la etnia kasséna. © Pedro Grifol")
 
 Los habitantes de Tiébélé pertenecen a los **kasséna**, una de las etnias con más 
 raigambre en el país que, provenientes de Ghana, se desplazaron a su actual 
@@ -41,7 +41,7 @@ reportaje se active tu memoria y quizá empiecen a pasar imágenes por tu disco 
 porque las casas pintadas de Tiébélé aparecen, cíclicamente, en muchos documentales; y 
 seguro que has visto algún reportaje en las antiguas revistas de _National Geographic._ 
 
-![Vista general del poblado de Tiebele](etheria_images/2022/04/tiebele-poblado-mujeres.jpg "Las casas del poblado se sitúan alrededor de un "palacio real". © Pedro Grifol")
+![Vista general del poblado de Tiebele](etheria-images/2022/04/tiebele-poblado-mujeres.jpg "Las casas del poblado se sitúan alrededor de un "palacio real". © Pedro Grifol")
 
 ### La tradición respetada
 
@@ -61,7 +61,7 @@ por turnos**, y siempre ocurre en el mes de mayo. Después vendrá la ceremonia 
 a la conclusión de la labor y la fiesta. Y luego vendrán las lluvias que fertilizarán la 
 tierra. Después la cosecha. Y después, la vida seguirá igual que era hace miles de años. 
 
-![Mujeres pintando una casa en Tiebele](etheria_images/2022/04/Tiebele-Burkina-Faso.jpg "Los hombres construyen las casas y las mujeres las pintan. © Pedro Grifol")
+![Mujeres pintando una casa en Tiebele](etheria-images/2022/04/Tiebele-Burkina-Faso.jpg "Los hombres construyen las casas y las mujeres las pintan. © Pedro Grifol")
 
 ## Motivos geométricos
 
@@ -78,7 +78,7 @@ rellenas de guijarros; dos **triángulos** unidos por uno de sus vértices repre
 _tam-tam_, símbolo de la comunicación que algunas veces incluso toma el lugar de la 
 palabra. 
 
-![viviendas de Tiebele con motivos geométricos](etheria_images/2022/04/tiebele-calles-Burkina-Faso.jpg "Motivos geométricos de las viviendas. © Pedro Grifol")
+![viviendas de Tiebele con motivos geométricos](etheria-images/2022/04/tiebele-calles-Burkina-Faso.jpg "Motivos geométricos de las viviendas. © Pedro Grifol")
 
 ### Una copia de la vanguardia artística
 
@@ -95,7 +95,7 @@ de la caza, mallas representando redes de pesca… y sinuosos surcos que sugiere
 rastro de las serpientes. También el cocodrilo, icónico animal, aparece en relieve en 
 varias fachadas. 
 
-![Relieves con forma de animal en una vivienda de la aldea](etheria_images/2022/04/relieve-vivienda-tiebele.jpg "Relieves en una vivienda de la aldea. © Pedro Grifol")
+![Relieves con forma de animal en una vivienda de la aldea](etheria-images/2022/04/relieve-vivienda-tiebele.jpg "Relieves en una vivienda de la aldea. © Pedro Grifol")
 
 La **gama de color** empleada se limita a un pigmento rojo, obtenido de la laterita 
 molida; el blanco proveniente de la piedra de caolín; y el negro, que se obtiene de dos 
@@ -106,7 +106,7 @@ Según el canon tradicional, los colores también tienen su trascendencia: el ro
 color del poder, el blanco representa la ineludible muerte y el negro es el mundo que 
 habitamos. 
 
-![Vivienda de Tiébélé, la aldea pintada por mujeres](etheria_images/2022/04/tiebele-vivienda-pintada.jpg "Vivienda de Tiébélé. © Pedro Grifol")
+![Vivienda de Tiébélé, la aldea pintada por mujeres](etheria-images/2022/04/tiebele-vivienda-pintada.jpg "Vivienda de Tiébélé. © Pedro Grifol")
 
 ## Formas arquitectónicas
 
@@ -121,7 +121,7 @@ sagrado** llamado _pourrou_, el terreno donde se entierran a los niños nacidos 
 y que no se decora con nada ni se pinta… solo la pátina de la naturaleza lo tiñe y 
 preserva. 
 
-![Una vivienda cónica y otras en forma de cubo](etheria_images/2022/04/casas-tiebele-burkina-faso.jpg "Las construcciones pueden ser rectangulares, cónicas o comunales. © Pedro Grifol")
+![Una vivienda cónica y otras en forma de cubo](etheria-images/2022/04/casas-tiebele-burkina-faso.jpg "Las construcciones pueden ser rectangulares, cónicas o comunales. © Pedro Grifol")
 
 En el transcurso de los siglos, toda esta organización se vio alterada con la incursión 
 del cristianismo y del islam –dos religiones avasalladoras–, haciendo que se 
@@ -135,7 +135,7 @@ forma de horquilla** y al que se le han tallado unos peldaños. Es la clásica
 ‘escalera-escultura’ que también se exhibe en ferias de antigüedades a modo de objeto 
 decorativo a precios de ‘coleccionista occidental’. 
 
-![Una niña sube a una vivienda de Tiebele](etheria_images/2022/04/casas-juegos-tiebele.jpg "Los pigmentos que se emplean son el rojo, blanco y negro. © Pedro Grifol")
+![Una niña sube a una vivienda de Tiebele](etheria-images/2022/04/casas-juegos-tiebele.jpg "Los pigmentos que se emplean son el rojo, blanco y negro. © Pedro Grifol")
 
 ## La fiesta anual de Tiébélé
 
@@ -157,7 +157,7 @@ ardua tarea.
 Ahora sólo tenemos que esperar a que lleguen más vacunas contra la Covid-19 y sus 
 variantes a África… ¡y a que paren las guerras! 
 
-![Un joven con jersey de rombos posa frente a una cosa decorada con ese tipo de motivo](etheria_images/2022/04/pintura-rombos-tiebele.jpg "La geometría se apodera del poblado. © Pedro Grifol")
+![Un joven con jersey de rombos posa frente a una cosa decorada con ese tipo de motivo](etheria-images/2022/04/pintura-rombos-tiebele.jpg "La geometría se apodera del poblado. © Pedro Grifol")
 
 ### Guía de viaje de Tiébélé | Burkina Faso
 
@@ -174,7 +174,7 @@ _trekking_.
 Pasaporte con validez mínima de 6 meses. La tramitación del visado es mejor hacerla a 
 través del Consulado en París. Contacta por [email](mailto:service.consulaire@ambaburkina-fr.org). 
 
-![Una niña junto a su casa pintada de Tiebele](etheria_images/2022/04/tiebele-nina.jpg "La tradición de pintar las casas tras la época de lluvias se remonta siglos atrás. © Pedro Grifol")
+![Una niña junto a su casa pintada de Tiebele](etheria-images/2022/04/tiebele-nina.jpg "La tradición de pintar las casas tras la época de lluvias se remonta siglos atrás. © Pedro Grifol")
 
 ##### Dónde alojarse cerca de Tiébélé
 

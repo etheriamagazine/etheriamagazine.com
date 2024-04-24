@@ -1,19 +1,19 @@
 ---
 title: "Enamórate del sudeste francés en Perpiñán y Collioure"
 date: 2020-03-19
-coverImage: etheria_images/2020/03/viaje-etheria-Collioure.jpg
+coverImage: etheria-images/2020/03/viaje-etheria-Collioure.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 Bien comunicadas y muy cerca de España, Perpiñán y Collioure son las ciudades francesas 
 que hemos elegido en Etheria Magazine para pasar un fin de semana inolvidable. 
 
-![venus maillol, palacio loge, perpinan, francia](etheria_images/2020/03/viaje-etheria-magazine-perpinan-900x589.jpg "La 'Venus' de Maillol y el palacio Loge de Mer, en Perpiñán. © Pedro Grifol")
+![venus maillol, palacio loge, perpinan, francia](etheria-images/2020/03/viaje-etheria-magazine-perpinan-900x589.jpg "La 'Venus' de Maillol y el palacio Loge de Mer, en Perpiñán. © Pedro Grifol")
 
 Cómodamente conectado con Madrid y Barcelona, el departamento francés de los **Pirineos 
 Orientales** lleva tiempo enamorando a viajeros españoles con ciudades como Perpiñán y 
@@ -33,7 +33,7 @@ tierra de refugio político… Pero, nosotros/as, distanciados de la lucha parti
 que proponemos desde **Etheria Magazine** es pasar un finde sin meternos en camisas de 
 once varas. A disfrutar… y a saber. 
 
-![viaje perpinan, palacio reyes mallorca, etheria magazine](etheria_images/2020/03/viaje-etheria-magazine-perpinan-castillo-reyes-900x598.jpg "Interior del Palacio de los Reyes de Mallorca (Perpiñán). © P.Grifol")
+![viaje perpinan, palacio reyes mallorca, etheria magazine](etheria-images/2020/03/viaje-etheria-magazine-perpinan-castillo-reyes-900x598.jpg "Interior del Palacio de los Reyes de Mallorca (Perpiñán). © P.Grifol")
 
 De su historia multisecular, la ciudad de Perpiñán (Perpignan) ha conservado muchas 
 riquezas, especialmente de su época gloriosa con el Reino de Mallorca. Así que la 
@@ -48,7 +48,7 @@ el emblemático macizo montañoso del Canigó.
 
 > El Canigó es el símbolo de la personalidad catalana de las comarcas pirenaicas. 
 
-![palacio reyes mallorca, vistas canigo, viaje perpinan](etheria_images/2020/03/viaje-etheria-perpinan-canigo-900x598.jpg "El Canigó desde el Palacio de los Reyes de Mallorca (Perpiñán). © P. Grifol")
+![palacio reyes mallorca, vistas canigo, viaje perpinan](etheria-images/2020/03/viaje-etheria-perpinan-canigo-900x598.jpg "El Canigó desde el Palacio de los Reyes de Mallorca (Perpiñán). © P. Grifol")
 
 Desde el torreón también se divisa el pico Bugarach, que fue donde se instalaron los 
 mortales convencidos de que el fin del mundo acontecería en diciembre de 2012 y que los 
@@ -62,7 +62,7 @@ Al regreso, merece la pena tocar tierra firme y cenar en el restaurante **Le
 Sous-Préfète**. Platos típicos a buen precio, servicio atento y ambiente _amical_ (como 
 dicen los franceses). 
 
-![la pensee, aristide maillol, perpinan, viaje france mujeres](etheria_images/2020/03/viaje-etheria-perpinan-la-pensee-Maillol-900x659.jpg "'La Pensée', de Aristide Maillol (Perpiñán). © P.Grifol")
+![la pensee, aristide maillol, perpinan, viaje france mujeres](etheria-images/2020/03/viaje-etheria-perpinan-la-pensee-Maillol-900x659.jpg "'La Pensée', de Aristide Maillol (Perpiñán). © P.Grifol")
 
 ## Qué ver en Perpiñán, un paseo por la ciudad
 
@@ -73,7 +73,7 @@ recinto que se utiliza durante el festival de ‘_Visa pour l’Image’_ para r
 proyecciones. En el siglo XV dejó de tener finalidad funeraria, así que tranquilidad ¡ya 
 no hay fantasmas! 
 
-![place republique de perpinan, que ver en perpinan](etheria_images/2020/03/viaje-etheria-place-republique-perpinan-900x578.jpg "Place de la République, en Perpiñán. © P. Grifol")
+![place republique de perpinan, que ver en perpinan](etheria-images/2020/03/viaje-etheria-place-republique-perpinan-900x578.jpg "Place de la République, en Perpiñán. © P. Grifol")
 
 Después, deambula por la ciudad, te traerá recuerdos del _Art Déco_. Ve haciendo fotos a 
 las bonitas esculturas que te irás encontrando por sus calles y en sus plazas. Algunas 
@@ -81,7 +81,7 @@ son espléndidas obras del famoso escultor Aristide Maillol. Desemboca en la **P
 la République** para tomar el aperitivo, métete en el mercado cubierto de **Les Halles 
 de Vauban** y disfruta a pleno deseo de la **gastronomía tradicional.** 
 
-![castillet, mercado vauban, perpinan, viajes mujeres](etheria_images/2020/03/viaje-etheria-perpinan-castillet-mercado-900x285.jpg "Castillet y Mercado de Vauban (Perpiñán). © P. Grifol")
+![castillet, mercado vauban, perpinan, viajes mujeres](etheria-images/2020/03/viaje-etheria-perpinan-castillet-mercado-900x285.jpg "Castillet y Mercado de Vauban (Perpiñán). © P. Grifol")
 
 Despídete de la ciudad admirando El Castillet _(place Verdun)__,_ uno de los pocos 
 vestigios que quedan de la antigua muralla. Para la foto-recuerdo entra en los grandes 
@@ -91,7 +91,7 @@ almacenes de enfrente y sube a la terraza, la vista es espectacular.
 > (estación) porque tiene su anécdota: en 1965 Dalí dijo “La gare de Perpiñán es el centro 
 > del mundo”. Pues eso. 
 
-![viaje collioure, viaje francia](etheria_images/2020/03/viaje-etheria-Collioure-900x598.jpg "Panorámica de Collioure. © P. Grifol")
+![viaje collioure, viaje francia](etheria-images/2020/03/viaje-etheria-Collioure-900x598.jpg "Panorámica de Collioure. © P. Grifol")
 
 ## Descubre los encantos de Collioure
 
@@ -99,7 +99,7 @@ A 30 minutos de Perpiñán se encuentra **un pueblo cuya luz cautivó a los pint
 fauvistas.** Recomendable pasar la noche en este pintoresco ¡por excelencia! enclave 
 costero; o por lo menos, esperar el atardecer. 
 
-![collioure, viaje francia, mujeres que viajan](etheria_images/2020/03/viaje-etheria-Collioure-playa-683x1024.jpg "El Castillo de Collioure preside la problación. © P. Grifol")
+![collioure, viaje francia, mujeres que viajan](etheria-images/2020/03/viaje-etheria-Collioure-playa-683x1024.jpg "El Castillo de Collioure preside la problación. © P. Grifol")
 
 Cuando España cedió el Rosellón a Francia, Collioure pasó a formar parte de lo que 
 muchos llamarían más tarde la ‘Cataluña Norte’ (volvemos a las andadas reivindicativas). 
@@ -110,7 +110,7 @@ Guerra Civil Española prisión de un millar de republicanos españoles. En 1939
 lugar elegido para vivir su auto destierro el poeta Antonio Machado, cuya tumba podéis 
 encontrar allí. 
 
-![Collioure cuna del fauvismo](etheria_images/2020/03/viaje-etheria-Collioure-fauvismo-900x582.jpg "Collioure se convirtió en la cuna de la corriente pictórica llamada fauvismo. © P. Grifol")
+![Collioure cuna del fauvismo](etheria-images/2020/03/viaje-etheria-Collioure-fauvismo-900x582.jpg "Collioure se convirtió en la cuna de la corriente pictórica llamada fauvismo. © P. Grifol")
 
 Un hecho significativo, relacionado con el mundo del arte, ocurrió hacia 1904, cuando 
 impulsado por el pintor Matisse, Collioure se convirtió en la cuna de la corriente 
@@ -129,7 +129,7 @@ degustar los productos de la zona. Recomendable sentarse frente al mar en **La P
 Mouettes** y probar los boquerones en vinagre a la francesa. Con vino de la zona, 
 siempre. 
 
-![Collioure, viaje francia mujeres](etheria_images/2020/03/viaje-etheria-francia-Collioure-667x1024.jpg "Pasea por el casco antiguo de Collioure. © P. Grifol")
+![Collioure, viaje francia mujeres](etheria-images/2020/03/viaje-etheria-francia-Collioure-667x1024.jpg "Pasea por el casco antiguo de Collioure. © P. Grifol")
 
 Un establecimiento con esencia local es **Les Templiers** (bar, restaurante y hotel). 
 Abrió sus puertas a **principios del siglo XX** y ya va por la tercera generación. En 
@@ -141,7 +141,7 @@ Cuando murió el poeta Antonio Machado, su hermano José metió la mano en el bo
 su chaqueta y encontró un papel arrugado donde dejó escrito un verso enigmático: 
 **_“Estos días azules y este sol de la infancia”._** 
 
-![collioure, viaje francia, tumba antonio machado](etheria_images/2020/03/viaje-Collioure-tumba-Antonio-Machado-900x411.jpg "Tumba de Antonio Machado en Collioure, y detalle de un escrito dejado en la misma. © P. Grifol")
+![collioure, viaje francia, tumba antonio machado](etheria-images/2020/03/viaje-Collioure-tumba-Antonio-Machado-900x411.jpg "Tumba de Antonio Machado en Collioure, y detalle de un escrito dejado en la misma. © P. Grifol")
 
 ## Guía práctica
 
@@ -151,7 +151,7 @@ Si te gusta la música electrónica y quieres planificar el viaje durante el ver
 julio se celebra en la localidad de Port-Barcarés el festival más importante de música 
 de Francia: el Electrobeach. 
 
-![collioure, perpinan, restaurantes](etheria_images/2020/03/viaje-perpinan-colliure-restaurante-Sous-Prefete-900x448.jpg "Restaurante Sous-Préfète (Perpiñán) y boquerones del restaurante La Plage aux Mouettes (Collioure). © P. Grifol")
+![collioure, perpinan, restaurantes](etheria-images/2020/03/viaje-perpinan-colliure-restaurante-Sous-Prefete-900x448.jpg "Restaurante Sous-Préfète (Perpiñán) y boquerones del restaurante La Plage aux Mouettes (Collioure). © P. Grifol")
 
 ### Cómo llegar
 

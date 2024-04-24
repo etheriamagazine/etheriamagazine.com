@@ -1,17 +1,17 @@
 ---
 title: "Mary Ellen Mark desnuda la realidad en “Vida de Mujeres”"
 date: 2021-04-02
-coverImage: etheria_images/2021/04/Mary-Ellen-Mark-Amanda-y-su-prima-Amy-1990.jpg
+coverImage: etheria-images/2021/04/Mary-Ellen-Mark-Amanda-y-su-prima-Amy-1990.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ##### La fotógrafa documental Mary Ellen Mark muestra en la exposición “Vida de mujeres” la dura existencia de niñas y mujeres de todo el mundo. Se puede visitar en la Fundación Foto Colectania (Barcelona) hasta el 31 de julio de 2021.
 
-![Amanda y su prima Amy Mary Ellen Mark](etheria_images/2021/04/Mary-Ellen-Mark-Amanda-y-su-prima-Amy-1990.jpg "Amanda y su prima Amy. Valdese, Carolina del Norte, Estados Unidos, 1990. © Mary Ellen Mark")
+![Amanda y su prima Amy Mary Ellen Mark](etheria-images/2021/04/Mary-Ellen-Mark-Amanda-y-su-prima-Amy-1990.jpg "Amanda y su prima Amy. Valdese, Carolina del Norte, Estados Unidos, 1990. © Mary Ellen Mark")
 
 La exposición “Vida de Mujeres” muestra fotografías, películas y otros documentos que 
 dan a conocer la labor de la fotógrafa Mary Ellen Mark durante la segunda mitad del 
@@ -25,7 +25,7 @@ libros** y de varias películas que exploraban la dura vida cotidiana de muchas 
 La fotografía y el cine fueron sus herramientas principales para dar a conocer y ofrecer 
 voz a quienes no la tenían. 
 
-![Laurie en la baneraPabellon 81](etheria_images/2021/04/Mary-Ellen-Mark-Laurie-Pabellon-81.jpg "Laurie en la bañera, Pabellón 81, Hospital del Estado de Oregón. Salem, Oregón, Estados Unidos, 1976. © Mary Ellen Mark")
+![Laurie en la baneraPabellon 81](etheria-images/2021/04/Mary-Ellen-Mark-Laurie-Pabellon-81.jpg "Laurie en la bañera, Pabellón 81, Hospital del Estado de Oregón. Salem, Oregón, Estados Unidos, 1976. © Mary Ellen Mark")
 
 ## Mujeres en un psiquiátrico o en el Barrio rojo de Bombay 
 
@@ -39,7 +39,7 @@ barrio rojo de Bombay**. No menos interesante fue su siguiente proyecto document
 libro incluido, que daba a conocer la labor de las **misioneras de la Caridad de la 
 Madre Teresa de Calcuta**. 
 
-![Tiny vestida para Halloween](etheria_images/2021/04/Mary-Ellen-Mark-tiny-Halloween-1983-692x1024.jpg "Tiny vestida para Halloween. Seattle, Washington, Estados Unidos, 1983. © Mary Ellen Mark")
+![Tiny vestida para Halloween](etheria-images/2021/04/Mary-Ellen-Mark-tiny-Halloween-1983-692x1024.jpg "Tiny vestida para Halloween. Seattle, Washington, Estados Unidos, 1983. © Mary Ellen Mark")
 
 Dos películas y dos libros fueron necesarios para narrar la **vida de Erin Blackwell** 
 ("Tiny"), una joven adicta a las drogas con una complicada situación familiar (madre de 
@@ -54,7 +54,7 @@ libro y filme, **_Twins_**). Por último, ya que no podemos nombrar todos sus tr
 destacamos una serie de fotografías (y una película: _**The amazing plastic lady**_) 
 sobre los integrantes de un circo en India. 
 
-![proyecto circo de Mary Ellen Mark](etheria_images/2021/04/Mary-Ellen-Mark-Hipopotamo-e-interprete.jpg "Hipopótamo e intérprete, Great Rayman Circus. Madrás, India, 1989. © Mary Ellen Mark")
+![proyecto circo de Mary Ellen Mark](etheria-images/2021/04/Mary-Ellen-Mark-Hipopotamo-e-interprete.jpg "Hipopótamo e intérprete, Great Rayman Circus. Madrás, India, 1989. © Mary Ellen Mark")
 
 Pero no sólo editó 18 libros y participó en exposiciones, sino que algunos medios de 
 comunicación, como la revista _**Life**_, también incluyeron sus fotografías en sus 
@@ -64,7 +64,7 @@ retratos de mujeres como Maya Angelou, Candice Bergen, Lillian Gish, Etta James 
 Twinka. Otros medios como _New York Times_, _Vanity Fair_, _New Yorker_ o _Rolling 
 Stone_ también contaron con su maestría. 
 
-![familia damm en su coche Mary Ellen Mark](etheria_images/2021/04/Mary-Ellen-familia-Damm-en-su-coche.jpg "La familia Damm en su coche. Los Ángeles, California, Estados Unidos, 1987. © Mary Ellen Mark")
+![familia damm en su coche Mary Ellen Mark](etheria-images/2021/04/Mary-Ellen-familia-Damm-en-su-coche.jpg "La familia Damm en su coche. Los Ángeles, California, Estados Unidos, 1987. © Mary Ellen Mark")
 
 ### ¿Dónde visitar la exposición “Vidas de Mujeres”?
 
@@ -79,7 +79,7 @@ Catalunya](https://www.filmoteca.cat/web/es/node/43630) donde se proyectan dos
 documentales dirigidos por Martin Bell, el marido de la fotógrafa, y protagonizados por 
 Erin Blackwell. 
 
-![Mary Ellen  mark](etheria_images/2021/04/Mary-Ellen-fotografa-americana-705x1024.jpg "Mary Ellen Mark con su Leica en Central Park. 1970. Fotógrafo desconocido.")
+![Mary Ellen  mark](etheria-images/2021/04/Mary-Ellen-fotografa-americana-705x1024.jpg "Mary Ellen Mark con su Leica en Central Park. 1970. Fotógrafo desconocido.")
 
 ### Te puede interesar en Cataluña...
 

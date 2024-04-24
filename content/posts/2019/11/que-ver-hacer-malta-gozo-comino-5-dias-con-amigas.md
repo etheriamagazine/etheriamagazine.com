@@ -1,20 +1,20 @@
 ---
 title: "Planes en Malta, un destino mediterráneo que nunca defrauda"
 date: 2019-11-19
-coverImage: etheria_images/2019/11/Malta-barca-tipica.jpg
+coverImage: etheria-images/2019/11/Malta-barca-tipica.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
-  - Miriam
+authors: 
+  - Miriam González
 ---
 
 Historia para patear y paisajes inolvidables bajo un sol que casi nunca falla a su cita. 
 Malta es un viaje que resulta barato y que brinda muchas alegrías si lo haces con 
 amigas. Te van a sobrar motivos para volver una y otra vez a este pequeño gran país. 
 
-![Puesta de sol en el Café del Mar](etheria_images/2019/11/Malta-Cafe-del-mar-900x601.jpg "Puesta de sol en el © Café del Mar")
+![Puesta de sol en el Café del Mar](etheria-images/2019/11/Malta-Cafe-del-mar-900x601.jpg "Puesta de sol en el © Café del Mar")
 
 Malta tiene todos los ingredientes para colarse en tu 'wish list' de escapadas a la 
 vista en cualquier momento del año. Ya sería mala suerte que no pillaras alguno de los 
@@ -36,7 +36,7 @@ ventanas de colores. Una postal icónica, en la que no falta la luz jugando con 
 caliza de los edificios y de las calles empedradas. La mejor forma de salir del hechizo 
 es en barca con dirección a La Valeta, la ciudad más grande del país y su capital. 
 
-![Barca típica para llegar de Birgu a La Valeta.](etheria_images/2019/11/Malta-barca-tipica-900x584.jpg "Barca típica para llegar de Birgu a La Valeta. © Miriam González")
+![Barca típica para llegar de Birgu a La Valeta.](etheria-images/2019/11/Malta-barca-tipica-900x584.jpg "Barca típica para llegar de Birgu a La Valeta. © Miriam González")
 
 ## Qué ver en La Valeta
 
@@ -46,7 +46,7 @@ de la Unesco y además es una de las áreas históricas más densas del mundo, c
 monumentos en 55 hectáreas. Todo tan antiguo que hasta hay cabinas de teléfono. Eso sí, 
 rojas, al más puro estilo _british_. 
 
-![La Valeta.](etheria_images/2019/11/Malta-La-Valeta-900x598.jpg "La Valeta. © Alexander Serzhantov.")
+![La Valeta.](etheria-images/2019/11/Malta-La-Valeta-900x598.jpg "La Valeta. © Alexander Serzhantov.")
 
 La Valeta da para mucho y, como nos lo ponen fácil ya que el centro es peatonal, lo 
 mejor es andar por sus calles. Una de las principales es Republic Street –en maltés Triq 
@@ -57,7 +57,7 @@ y el estilo barroco se deja notar desde el suelo hasta el techo en cada centíme
 templo. Por si fuera poco, en su interior se encuentra el Caravaggio más grande del 
 mundo. La entrada, que incluye audioguía, cuesta 10 €. 
 
-![Detalle de la concatedral de San Juan.](etheria_images/2019/11/Malta-iglesia-de-San-Juan-Valeta-768x1024.jpg "Detalle de la concatedral de San Juan. © Miriam González")
+![Detalle de la concatedral de San Juan.](etheria-images/2019/11/Malta-iglesia-de-San-Juan-Valeta-768x1024.jpg "Detalle de la concatedral de San Juan. © Miriam González")
 
 Otros sitios que no deberías perderte son el **palacio del Gran Maestre** o la **plaza 
 de San Jorge**. Y si te van las historias épicas, el fuerte de San Telmo, que como ya te 
@@ -72,7 +72,7 @@ O la ciudad del silencio. Así llaman a Mdina porque por su puerta –que habrá
 Juego de Tronos más de una vez– no entra ni un solo coche. Fue también capital de Malta 
 y hoy en día se considera una de las ciudades fortificadas mejor conservadas de Europa. 
 
-![Vista de Mdina.](etheria_images/2019/11/Malta-Mdina-900x514.jpg "Vista de Mdina. © VisitMalta")
+![Vista de Mdina.](etheria-images/2019/11/Malta-Mdina-900x514.jpg "Vista de Mdina. © VisitMalta")
 
 Pasearla y ver sus caserones nobles, murallas y palacios es un auténtico gustazo. _Bonus 
 track_: el encanto de esta peculiar ciudad a la luz de la luna es comparable con pocas 
@@ -86,7 +86,7 @@ galerías y las tres salas a 10 metros de la superficie. Si tienes planeado visi
 hipogeo, hay que tener en cuenta que las entradas –que cuestan unos 35 €– hay que 
 reservarlas con tiempo porque las visitas se restringen a grupos reducidos. 
 
-![Hipogeo de Hal Saflieni.](etheria_images/2019/11/Malta-Hypogeum-900x912.jpg "Hipogeo de Hal Saflieni. © VisitMalta")
+![Hipogeo de Hal Saflieni.](etheria-images/2019/11/Malta-Hypogeum-900x912.jpg "Hipogeo de Hal Saflieni. © VisitMalta")
 
 ## Gozo, una excursión ideal desde Malta
 
@@ -95,7 +95,7 @@ ya te descubrimos sus secretos. Tan bonita, que dicen que Homero se inspiró en 
 el roneo de Calipso y Ulises. Tan rural y auténtica que a los malteses les encanta para 
 desconectar. 
 
-![Rincón de Gozo.](etheria_images/2019/11/Malta-rincon-Gozo-900x726.jpg "Rincón de Gozo. © François Kaiser")
+![Rincón de Gozo.](etheria-images/2019/11/Malta-rincon-Gozo-900x726.jpg "Rincón de Gozo. © François Kaiser")
 
 La mejor forma de descubrirla –y la más divertida– es en tuk-tuk. Por el camino te 
 esperan campos de cultivo y paisajes moldeados por el mar y el viento, como la **gran 
@@ -104,7 +104,7 @@ ciudadela de Victoria y los templos de Ggantija, más antiguos que las pirámide
 Egipto. También un montón de iglesias. Lo que no vas a ver es el famoso arco de piedra 
 de la Ventana Azul, pues se derrumbó en 2017. 
 
-![Salinas de Gozo.](etheria_images/2019/11/Malta-Salinas-Gozo-900x600.jpg "Salinas de Gozo. © Miriam González")
+![Salinas de Gozo.](etheria-images/2019/11/Malta-Salinas-Gozo-900x600.jpg "Salinas de Gozo. © Miriam González")
 
 ## Comino y la laguna Azul
 
@@ -114,7 +114,7 @@ ferry desde La Valeta y desde Gozo. El mayor atractivo de Comino es la **laguna 
 ideal para el buceo. Si entre chapuzón y chapuzón quieres algo de historia, puedes 
 acercarte hasta la torre de Santa María, del siglo XVII. 
 
-![La Laguna Azul de la isla de Comino.](etheria_images/2019/11/Malta-comino-laguna-azul-900x508.jpg "La Laguna Azul de la isla de Comino.")
+![La Laguna Azul de la isla de Comino.](etheria-images/2019/11/Malta-comino-laguna-azul-900x508.jpg "La Laguna Azul de la isla de Comino.")
 
 ## Dudas frecuentes al viajar a Malta
 

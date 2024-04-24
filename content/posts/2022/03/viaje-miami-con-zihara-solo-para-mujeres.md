@@ -1,18 +1,18 @@
 ---
 title: "Miami con Zihara Arrasate, un viaje sólo para mujeres en Semana Santa"
 date: 2022-03-02
-coverImage: etheria_images/2022/03/miami-The-Nature-Conservancy-Blowing-Rocks-Preserve.jpg
+coverImage: etheria-images/2022/03/miami-The-Nature-Conservancy-Blowing-Rocks-Preserve.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Un viaje a Miami sólo para mujeres y con una cicerone como Zihara Arrasate sólo puede calificarse como la gran escapada del año. Pasear en yate, recorrer los barrios de moda, conocer reservas naturales, practicar _snorkel_ en el golfo de México o hacer yoga a la luz de la luna... planes tan apetecibles como éstos te esperan allí. Si buscas un viaje para Semana Santa en el que “viajar sola pero en grupo”, lo has encontrado.
 
-![Blowing Rocks Preserve, una de las paradas en este viaje a Miami exclusivo para mujeres](etheria_images/2022/03/miami-The-Nature-Conservancy-Blowing-Rocks-Preserve.jpg "Blowing Rocks Preserve, una de las paradas en este viaje a Miami exclusivo para mujeres.")
+![Blowing Rocks Preserve, una de las paradas en este viaje a Miami exclusivo para mujeres](etheria-images/2022/03/miami-The-Nature-Conservancy-Blowing-Rocks-Preserve.jpg "Blowing Rocks Preserve, una de las paradas en este viaje a Miami exclusivo para mujeres.")
 
 Dicen que en los viajes es tan importante el destino como la compañía, pero nosotras 
 también añadiríamos que cuando _viajas sola pero en grupo_ también lo es la persona que 
@@ -25,7 +25,7 @@ Arrasate,** ha preparado **un viaje a Miami para Semana Santa** lleno de experie
 emociones que te encantará. Te contamos cómo se va a desarrollar y algunos de los planes 
 más atractivos que incluye esta escapada a la americana. 
 
-![Zihara Arrasate, acompañante del viaje a Miami sólo para mujeres.](etheria_images/2022/03/zihara-arrasate-miami.jpg "Zihara Arrasate, acompañante del viaje a Miami sólo para mujeres.")
+![Zihara Arrasate, acompañante del viaje a Miami sólo para mujeres.](etheria-images/2022/03/zihara-arrasate-miami.jpg "Zihara Arrasate, acompañante del viaje a Miami sólo para mujeres.")
 
 ## Planes para un viaje a Miami sólo para mujeres
 
@@ -38,7 +38,7 @@ sobre todo, diversión. Porque de eso se trata, de viajar, descubrir, socializar
 una semana increíble en compañía de otras mujeres que pasarán, en sólo unos días, de ser 
 unas desconocidas a cómplices de risas y de algún que otro secreto. 
 
-![Paseando por Blowing Rocks Preserve, una reserva natural de Florida](etheria_images/2022/03/The-Nature-Conservancy-Blowing-Rocks-Preserve-683x1024.jpg "Paseando por Blowing Rocks Preserve, una reserva natural de Florida.")
+![Paseando por Blowing Rocks Preserve, una reserva natural de Florida](etheria-images/2022/03/The-Nature-Conservancy-Blowing-Rocks-Preserve-683x1024.jpg "Paseando por Blowing Rocks Preserve, una reserva natural de Florida.")
 
 ### 1\. Pasear en yate o catamarán
 
@@ -49,7 +49,7 @@ yate o un catamarán? Ver como el sol tiñe de color rojizo el _skyline_ de Miam
 mejor manera de inaugurar este viaje donde las mujeres somos las protagonistas, ¿no 
 crees? 
 
-![Durante el viaje a Miami de Semana Santa también hay tiempo para el relax](etheria_images/2022/03/viaje-amigas-miami-730x1024.jpg "Durante el viaje a Miami de Semana Santa también hay tiempo para el relax.")
+![Durante el viaje a Miami de Semana Santa también hay tiempo para el relax](etheria-images/2022/03/viaje-amigas-miami-730x1024.jpg "Durante el viaje a Miami de Semana Santa también hay tiempo para el relax.")
 
 ### 2\. Visitar Miami con Zihara
 
@@ -64,7 +64,7 @@ No te preocupes si no haces compras ese día porque también hay organizada, en 
 momento, una visita a **Sawgrass Mills**, uno de los _outlets_ más grandes del mundo 
 (con descuentos de hasta el 75%). 
 
-![Zihara Arrasate, una cicerone llena de vitalidad y alegría](etheria_images/2022/03/viaje-grupo-mujeres-zihara.jpg "Zihara Arrasate, una cicerone llena de vitalidad y alegría.")
+![Zihara Arrasate, una cicerone llena de vitalidad y alegría](etheria-images/2022/03/viaje-grupo-mujeres-zihara.jpg "Zihara Arrasate, una cicerone llena de vitalidad y alegría.")
 
 ### 3\. Recorrer Everglades en aerodeslizador
 
@@ -74,7 +74,7 @@ como los humedales de Everglades en un aerodeslizador. En esta reserva natural, 
 de 20.000 km2, viven animales como la pantera de Florida, la tortuga laúd, manatíes y 
 caimanes. Como ves, la emoción en este viaje de Semana Santa está servida. 
 
-![Una ruta en pádel surf entre manglares, toda una aventura en Florida](etheria_images/2022/03/viaje-miami-yoga-padel-surf.jpg "Una ruta entre manglares, toda una aventura en Florida.")
+![Una ruta en pádel surf entre manglares, toda una aventura en Florida](etheria-images/2022/03/viaje-miami-yoga-padel-surf.jpg "Una ruta entre manglares, toda una aventura en Florida.")
 
 ### 4\. Practicar deportes activos en un divertido viaje a Miami
 
@@ -90,7 +90,7 @@ a Central Park– donde navegar en kayak y recorrer en _paddle surf_ sus canales
 manglares y fauna y flora exóticas. Sin duda, este viaje a Miami tiene todos los 
 ingredientes para triunfar. 
 
-![Disfrutando del padel surf en Jensen Beach](etheria_images/2022/03/Paddleboarding-in-Jensen-Beach.jpg "Disfrutando del paddle surf en Jensen Beach.")
+![Disfrutando del padel surf en Jensen Beach](etheria-images/2022/03/Paddleboarding-in-Jensen-Beach.jpg "Disfrutando del paddle surf en Jensen Beach.")
 
 ### 5\. Cargarse de energía positiva
 
@@ -100,7 +100,7 @@ universo. ¿Qué te parecería una sesión de yoga al atardecer para dar la bien
 luna llena? Este tipo de eventos se realizan en el complejo Deering Estate, frente a la 
 Bahía Vizcaína, sólo una vez al mes, y coincide con el viaje a Miami. 
 
-![practicaras yoga en este viaje a miami](etheria_images/2022/03/yoga-naturaleza-miami-683x1024.jpg "El yoga y la meditación son actividades que benefician a tu salud.")
+![practicaras yoga en este viaje a miami](etheria-images/2022/03/yoga-naturaleza-miami-683x1024.jpg "El yoga y la meditación son actividades que benefician a tu salud.")
 
 Como en todos los viajes organizados contarás con algún tiempo libre por lo que, si eres 
 aficionada al cine, te animamos a buscar las localizaciones de alguna de tus películas 
@@ -113,7 +113,7 @@ todas las garantías para que salga bien. Si no estás acostumbrada a viajar sol
 en un grupo con otras mujeres es una oportunidad perfecta para disfrutar de un viaje de 
 Semana Santa inolvidable. 
 
-![Generator Miami, hotel del viaje a Miami sólo para mujeres.](etheria_images/2022/03/viaje-miami-hotel.jpg "Generator Miami, hotel del viaje a Miami sólo para mujeres.")
+![Generator Miami, hotel del viaje a Miami sólo para mujeres.](etheria-images/2022/03/viaje-miami-hotel.jpg "Generator Miami, hotel del viaje a Miami sólo para mujeres.")
 
 ### Viaje a Miami para Semana Santa | Datos prácticos
 

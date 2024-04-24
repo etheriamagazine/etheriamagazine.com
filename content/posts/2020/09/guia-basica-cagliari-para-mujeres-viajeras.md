@@ -1,18 +1,18 @@
 ---
 title: "Cagliari, un viaje con amigas de buen comer"
 date: 2020-09-17
-coverImage: etheria_images/2020/09/viajar-sola-Cagliari-Mirador-Croce.jpg
+coverImage: etheria-images/2020/09/viajar-sola-Cagliari-Mirador-Croce.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Kris Ubach
 ---
 
 Dicen de ella que es la más italiana de las ciudades de Cerdeña. Y es cierto. Cagliari tiene todas las cosas que una mujer viajera espera encontrar cuando visita Italia: vestigios de muchas culturas –ruinas romanas incluidas–, arquitectura renacentista en forma de elegantes palazzos, iglesias (muchas iglesias) y algo totalmente imprescindible: cocina con raíces. En ella estar a dieta no es una opción.
 
-![panoramica desde mirador de santa croce de Cagliari](etheria_images/2020/09/viajar-sola-Cagliari-Mirador-Croce.jpg "Vistas desde el mirador de la Santa Croce. © Kris Ubach")
+![panoramica desde mirador de santa croce de Cagliari](etheria-images/2020/09/viajar-sola-Cagliari-Mirador-Croce.jpg "Vistas desde el mirador de la Santa Croce. © Kris Ubach")
 
 Primero y para entender a qué nos enfrentamos en este viaje a Cagliari con amigas 
 subamos en primer lugar al majestuoso **Monte Urpinu**, la colina situada a medio camino 
@@ -22,7 +22,7 @@ apiñadas y callejones siempre en curva entenderemos que nuestra visita a Caglia
 implicará mucho de ese (fantástico) perderse y encontrarse que ofrecen las ciudades que 
 cargan con miles de años a sus espaldas. Bajemos pues a la tierra y arranquemos. 
 
-![salinas de cagliari en cerdena](etheria_images/2020/09/Parque-Salinas-Cagliari.jpg "Salinas del Parco Naturale Regionale Molentargius-Saline. © Kris Ubach")
+![salinas de cagliari en cerdena](etheria-images/2020/09/Parque-Salinas-Cagliari.jpg "Salinas del Parco Naturale Regionale Molentargius-Saline. © Kris Ubach")
 
 ## Il Castelo, imprescindible en Cagliari
 
@@ -42,7 +42,7 @@ la parte alta del barrio los bastiones de Santa Croce y Sant Remy regalan **vist
 _instagrameables_ de los tejados de Cagliari** y de aquel mar por el que antaño llegaban 
 los piratas. 
 
-![calles solitarias de Cagliari](etheria_images/2020/09/viajes-para-mujeres-Cagliari.jpg "Calle de Cagliari. © Kris Ubach")
+![calles solitarias de Cagliari](etheria-images/2020/09/viajes-para-mujeres-Cagliari.jpg "Calle de Cagliari. © Kris Ubach")
 
 Perdámonos... perdámonos en nuestro viaje a Cagliari con amigas por esas calles del 
 **centro medieval** que se estrechan, se retuercen y se mudan en escalinatas o en 
@@ -54,7 +54,7 @@ Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-sema
 también aquí, a cielo abierto, los vecinos exhiben balcones llenos de ristras de tomates 
 o de calzoncillos del abuelo. Autenticidad, desde luego, no falta. 
 
-![museo arqueologico de cagliari en cerdena](etheria_images/2020/09/viajar-con-amigas-Cagliari-Museo-Arqueologico.jpg "Museo Archeologico Nazionale de Cagliari. © Kris Ubach")
+![museo arqueologico de cagliari en cerdena](etheria-images/2020/09/viajar-con-amigas-Cagliari-Museo-Arqueologico.jpg "Museo Archeologico Nazionale de Cagliari. © Kris Ubach")
 
 ## Cagliari de puertas adentro
 
@@ -76,7 +76,7 @@ romanos se nutren los fundamentos de esta ciudad. Para verlos de cerca hay que a
 hasta el **Anfiteatro de Cagliari**, que se ubica en Stampace, otro de los barrios 
 históricos. 
 
-![visita imprescindible catedral de Cagliari](etheria_images/2020/09/viajar-sola-Cagliari-Catedral.jpg "Catedral de Santa Maria di Castello, en Cagliari. © Kris Ubach")
+![visita imprescindible catedral de Cagliari](etheria-images/2020/09/viajar-sola-Cagliari-Catedral.jpg "Catedral de Santa Maria di Castello, en Cagliari. © Kris Ubach")
 
 ### Catedral de Santa Maria di Castello
 
@@ -92,7 +92,7 @@ reliquias de innumerables santos. El espacio subterráneo es una verdadera filig
 Y si queremos ver más iglesias, ahí están la de Sant'Antonio Abate, la de Sant'Efisio, 
 la de Sant Michele... para gustos, los santos. 
 
-![pasta con mejillones y almejas de cagliari](etheria_images/2020/09/viajar-sola-comer-cagliari.jpg "Pasta con mejillones, una delicia en Cagliari. © Kris Ubach")
+![pasta con mejillones y almejas de cagliari](etheria-images/2020/09/viajar-sola-comer-cagliari.jpg "Pasta con mejillones, una delicia en Cagliari. © Kris Ubach")
 
 ## Aquí se viene a comer bien: mercado de San Benedetto
 
@@ -119,7 +119,7 @@ licores —el desafiante _mirto_— o los típicos y muy elegantes **_dolci di o
 unos elaboradísimos pastelillos que parecen piezas de porcelana fina. Igual nos tocará 
 pagar algo de exceso de equipaje. 
 
-![calles bonita de cagliari](etheria_images/2020/09/viajar-sola-Cagliari-Barrio-Castello.jpg "Una bonita calle de Cagliari. © Kris Ubach")
+![calles bonita de cagliari](etheria-images/2020/09/viajar-sola-Cagliari-Barrio-Castello.jpg "Una bonita calle de Cagliari. © Kris Ubach")
 
 ### CONSEJOS ETHERIA
 
@@ -139,7 +139,7 @@ la pasta, la pizza y el pan, hechos, por supuesto, en hornos de leña a la vista
 comensales. El plato estrella de la casa —con perdón de las pizzas— es la pasta 
 _tonnarelli_ con mejillones, queso _pecorino_ y menta. 
 
-![Paseo marítimo de Cagliari.](etheria_images/2020/09/cerdena-cagliari.jpg "Paseo marítimo de Cagliari. © Laura Lugaresi")
+![Paseo marítimo de Cagliari.](etheria-images/2020/09/cerdena-cagliari.jpg "Paseo marítimo de Cagliari. © Laura Lugaresi")
 
 ##### No te pierdas en Cagliari...
 

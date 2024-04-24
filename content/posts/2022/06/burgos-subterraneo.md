@@ -1,18 +1,18 @@
 ---
 title: "Burgos subterráneo, planes alucinantes en cuevas, minas y canteras para este verano"
 date: 2022-06-24
-coverImage: etheria_images/2022/06/burgos-cueva-fuentemolinos.jpg
+coverImage: etheria-images/2022/06/burgos-cueva-fuentemolinos.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Si planeas realizar un viaje diferente, con actividades, naturaleza, emoción... y que sea inolvidable, te proponemos un Burgos subterráneo. La belleza de esta provincia bajo tierra (en cuevas, minas, canteras y ermitas horadadas en la roca) está a la altura de la que conoces en la superficie. Hemos seleccionados los planes más interesantes en la provincia de Burgos para este verano.
 
-![Interior de la Cueva de Fuentemolinos](etheria_images/2022/06/Cueva-fuente-molinos-burgos.jpg "Cueva de Fuentemolinos, en Belorado (Burgos).")
+![Interior de la Cueva de Fuentemolinos](etheria-images/2022/06/Cueva-fuente-molinos-burgos.jpg "Cueva de Fuentemolinos, en Belorado (Burgos).")
 
 A veces sólo es necesario salir de los circuitos habituales o de los principales focos 
 turísticos para descubrir auténticas maravillas. Si entre tus planes está viajar a 
@@ -23,7 +23,7 @@ culturales brillan tanto que son capaces de opacar cualquier otro atractivo. Per
 como a nosotras, te gusta recorrer caminos poco transitados y eres curiosa por 
 naturaleza, este itinerario por un Burgos subterráneo te va a encantar. 
 
-![Ermita de San Bernabé, visita obligada en el Burgos subterráneo](etheria_images/2022/06/burgos-ermita-san-bernabe.jpg "La ermita de San Bernabé está horadada en la roca. © Pepa García")
+![Ermita de San Bernabé, visita obligada en el Burgos subterráneo](etheria-images/2022/06/burgos-ermita-san-bernabe.jpg "La ermita de San Bernabé está horadada en la roca. © Pepa García")
 
 ## Ruta de Burgos subterráneo, planes para descubrir sus secretos
 
@@ -38,7 +38,7 @@ Guareña: la de San Bernabé y la de Palomeras. Ambas son ideales para comenzar 
 escapada de aventura y para recorrerlas no se precisa de una forma física 
 extraordinaria. 
 
-![Interior de la cueva de San Bernabé, en Ojo Guareña.](etheria_images/2022/06/cueva-san-bernabe.jpg "Interior de la cueva de San Bernabé, en Ojo Guareña. © Pepa García")
+![Interior de la cueva de San Bernabé, en Ojo Guareña.](etheria-images/2022/06/cueva-san-bernabe.jpg "Interior de la cueva de San Bernabé, en Ojo Guareña. © Pepa García")
 
 ####  Ermita y cueva de San Bernabé
 
@@ -56,7 +56,7 @@ murales que ornamentan su techo pétreo. Son anónimas y fueron realizadas entre
 1877. En ellas se narran escenas religiosas, milagros y martirios del santo. No podrás 
 dejar de mirar hacia arriba. 
 
-![Murales del interior de la ermita de San Bernabé de Ojo Guareña](etheria_images/2022/06/murales-ermita-san-bernabe.jpg "Murales del interior de la ermita de San Bernabé. © Pepa García")
+![Murales del interior de la ermita de San Bernabé de Ojo Guareña](etheria-images/2022/06/murales-ermita-san-bernabe.jpg "Murales del interior de la ermita de San Bernabé. © Pepa García")
 
 Algunos detalles en los que puedes fijarte: la talla de San Bernabé, en el altar, sujeta 
 una sierra, que simboliza el martirio de este santo al que trataron de matar cortándolo 
@@ -66,7 +66,7 @@ archivo documental de la Merindad.
 
 ? ¿Dónde? Ojo Guareña (Merindad de Sotoscueva), reserva en su web. 
 
-![Sima Dolencias, en la cueva Palomera. Visita obligada en la ruta del Burgos subterráneo.](etheria_images/2022/06/cueva-palomera-sima-dolencia.jpg "Sima Dolencias, en la cueva Palomera. © Pepa García")
+![Sima Dolencias, en la cueva Palomera. Visita obligada en la ruta del Burgos subterráneo.](etheria-images/2022/06/cueva-palomera-sima-dolencia.jpg "Sima Dolencias, en la cueva Palomera. © Pepa García")
 
 #### Cueva Palomera
 
@@ -78,7 +78,7 @@ adecuado y casco con linterna. En esta visita guiada se puede elegir el recorrid
 “corto”, **Palomera-Sima Dolencias**, de 1,5 km (unas 2,5 horas), o el “largo”, que 
 incluye también el Museo de Cera y la sala Cacique, de 2,5 km (unas 4 horas). 
 
-![Interior de la cueva Palomera, en Ojo Guareña (Burgos).](etheria_images/2022/06/cueva-palomera-burgos.jpg "Interior de la cueva Palomera, en Ojo Guareña (Burgos). © Pepa García")
+![Interior de la cueva Palomera, en Ojo Guareña (Burgos).](etheria-images/2022/06/cueva-palomera-burgos.jpg "Interior de la cueva Palomera, en Ojo Guareña (Burgos). © Pepa García")
 
 La experiencia que brinda la cueva Palomera es sumamente sensorial. Sentirás los aromas 
 y admirarás los colores del bosque hasta llegar a la entrada, la oscuridad del interior, 
@@ -94,7 +94,7 @@ aconsejable para embarazadas, claustrofóbicos o personas con problemas de movil
 
 ? ¿Dónde? Ojo Guareña (Merindad de Sotoscueva). Reserva en la web de Cueva Palomera. 
 
-![Visitantes en el interior de la cueva de Fuentemolinos](etheria_images/2022/06/cueva-fuentemolinos.jpg "Recorrido por el interior de la cueva de Fuentemolinos.")
+![Visitantes en el interior de la cueva de Fuentemolinos](etheria-images/2022/06/cueva-fuentemolinos.jpg "Recorrido por el interior de la cueva de Fuentemolinos.")
 
 #### 2\. Cueva de Fuentemolinos (Belorado)
 
@@ -114,7 +114,7 @@ estar tranquila, con su buen humor el temor pasará a un segundo plano. Los guí
 ayudarán en todo e irán ofreciendo información sobre las sorprendentes formaciones 
 rocosas que salen en el camino. 
 
-![Visitantes en el interior de la cueva de Fuentemolinos](etheria_images/2022/06/cueva-fuentemolinos-belorado.jpg "El interior de la cueva de Fuentemolinos es sorprendente, merece la pena el esfuerzo. © Pepa G.")
+![Visitantes en el interior de la cueva de Fuentemolinos](etheria-images/2022/06/cueva-fuentemolinos-belorado.jpg "El interior de la cueva de Fuentemolinos es sorprendente, merece la pena el esfuerzo. © Pepa G.")
 
 De los tres niveles que tiene la cueva de Fuentemolinos, el más sencillo es el inferior 
 que va por el curso del río. Si estás en buena forma física (y tienes tiempo) podrás 
@@ -138,7 +138,7 @@ permite familiarizarse con la labor minera de aquellos tiempos, el tipo de herra
 empleadas, los procesos, etc. La actividad también la gestiona Beloaventura que, antes 
 de entrar, realiza una buena introducción sobre este mineral. 
 
-![Exterior e interior de las Minas de Puras de Villafranca.](etheria_images/2022/06/minas-manganeso-burgos.jpg "Exterior e interior de las Minas de Puras de Villafranca (Belorado). © P.G.")
+![Exterior e interior de las Minas de Puras de Villafranca.](etheria-images/2022/06/minas-manganeso-burgos.jpg "Exterior e interior de las Minas de Puras de Villafranca (Belorado). © P.G.")
 
 La anécdota de este lugar es que de aquí salió parte del material con el que 
 construyeron barcos como el Titanic, ya que España era uno de los principales 
@@ -149,7 +149,7 @@ para hacer un pícnic.
 
 ?¿Dónde? Puras de Villafranca (Belorado). Reserva en la web de Beloaventura. 
 
-![Interior de la Mina Esperanza, ruta de Burgos subterráneo.](etheria_images/2022/06/mina-esperanza-atapuerca.jpg "Mina Esperanza, en Olmos de Atapuerca. © Pepa García")
+![Interior de la Mina Esperanza, ruta de Burgos subterráneo.](etheria-images/2022/06/mina-esperanza-atapuerca.jpg "Mina Esperanza, en Olmos de Atapuerca. © Pepa García")
 
 ### 4\. Minas de Atapuerca
 
@@ -167,7 +167,7 @@ en tren a los altos hornos de Vizcaya para depurar el mineral. Debido a este obl
 traslado y a la necesidad de atravesar los montes para hacer las líneas de ferrocarril 
 se descubrieron los importantes yacimientos de homínidos de Atapuerca. 
 
-![Galería de la mina Esperanza, en Olmos de Atapuerca, parte de la ruta del Burgos subterráneo..](etheria_images/2022/06/galeria-mina-esperanza.jpg "Galería de la mina Esperanza. © Pepa García")
+![Galería de la mina Esperanza, en Olmos de Atapuerca, parte de la ruta del Burgos subterráneo..](etheria-images/2022/06/galeria-mina-esperanza.jpg "Galería de la mina Esperanza. © Pepa García")
 
 La sensación al entrar en “**Mina Esperanza**” es que en cualquier momento aparecerá un 
 minero empujando una vagoneta... Es curioso caminar por las galerías alumbrados sólo por 
@@ -182,7 +182,7 @@ tipología en Europa ubicado “dentro de un mineral”, una montaña de hierro.
 
 ? ¿Dónde? Olmos de Atapuerca. Reservas en la web de Mina Esperanza. 
 
-![Interior de la cantera de Burgos](etheria_images/2022/06/canteras-burgos-subterraneo.jpg "De esta galería salió la piedra para construir la Catedral de Burgos. © P.G.")
+![Interior de la cantera de Burgos](etheria-images/2022/06/canteras-burgos-subterraneo.jpg "De esta galería salió la piedra para construir la Catedral de Burgos. © P.G.")
 
 ### 5\. Canteras de piedra inmaculada
 
@@ -201,7 +201,7 @@ primera, usada durante algún tiempo como polvorín del Ejército, ha sido escen
 numerosos videoclips musicales y anuncios publicitarios, y actualmente es un espacio 
 demandado para eventos y conciertos. 
 
-![Una joven en el interior de la Galería El Pozo, en las canteras de Burgos](etheria_images/2022/06/galeria-el-pozo-canteras-burgos.jpg "Galería El Pozo. © Pepa García")
+![Una joven en el interior de la Galería El Pozo, en las canteras de Burgos](etheria-images/2022/06/galeria-el-pozo-canteras-burgos.jpg "Galería El Pozo. © Pepa García")
 
 A pocos minutos en coche de esta cantera se sitúa la de El Pozo, que se ha mantenido tal 
 cual estaba cuando era explotada y donde incluso podrás emular a los canteros y tratar 

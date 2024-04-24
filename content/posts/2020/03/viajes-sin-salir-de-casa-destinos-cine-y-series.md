@@ -1,19 +1,19 @@
 ---
 title: "Despierta tu lado más friki: 9 destinos de cine y series"
 date: 2020-03-20
-coverImage: etheria_images/2019/06/viajes-cine-malta-juego-tronos.jpg
+coverImage: etheria-images/2019/06/viajes-cine-malta-juego-tronos.jpg
 categories: 
   - viajes-cine
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ¿Eres cinéfila o seriéfila? ¿O quizá las dos cosas? Si, además, eres viajera no te pierdas este artículo donde te proponemos nueve destinos que podrás recorrer a través de los ojos de tus personajes favoritos. ¿Te vienes?
 
-![protagonistas de Foodie Love](etheria_images/2019/12/pelicula-foodie-love-900x889.jpg "Cartel de 'Foodie Love'. ©HBO")
+![protagonistas de Foodie Love](etheria-images/2019/12/pelicula-foodie-love-900x889.jpg "Cartel de 'Foodie Love'. ©HBO")
 
 ## 1\. ‘Foodie Love’ en Barcelona
 
@@ -26,7 +26,7 @@ apetece tanto probar alguno de los platos y cócteles que salen reflejados, y qu
 también protagonistas, como visitar Barcelona, uno de los principales destinos de cine y 
 series de España. 
 
-![cartel de La Casa de Papel](etheria_images/2019/09/viajes-la-casa-de-papel-900x439.jpg "Personajes de la 3ª Temporada de 'La Casa de Papel'. © Netflix")
+![cartel de La Casa de Papel](etheria-images/2019/09/viajes-la-casa-de-papel-900x439.jpg "Personajes de la 3ª Temporada de 'La Casa de Papel'. © Netflix")
 
 ## 2\. ‘La Casa de Papel’
 
@@ -37,7 +37,7 @@ proponíamos [viajar a las 13 ciudades de _La Casa de
 Papel_](https://etheriamagazine.com/2019/09/12/viaja-a-las-ciudades-de-la-casa-de-papel-netflix/) 
 porque todas merecen una escapada. 
 
-![pelicula primos](etheria_images/2019/08/fotograma-pelicula-primos.jpg "Fotograma de la película 'Primos'. © Ayuntamiento de Comillas")
+![pelicula primos](etheria-images/2019/08/fotograma-pelicula-primos.jpg "Fotograma de la película 'Primos'. © Ayuntamiento de Comillas")
 
 ## 3\. ‘Primos’ en Cantabria
 
@@ -50,7 +50,7 @@ de [Comillas](https://www.turismodecantabria.com/descubrela/municipios/15-destin
 siempre es un buen plan para una escapada. Es uno de los destinos de cine y series que 
 tendrás más a mano para disfrutar en cualquier momento. 
 
-![escenarios de películas en Jordania](etheria_images/2019/07/9-Indiana-Jones-rodaje-jordania.jpg "(Izq.) Indiana Jones y la última cruzada. © Lucasfilm. (Dcha.) El cañón del Siq, en Petra. © JTB")
+![escenarios de películas en Jordania](etheria-images/2019/07/9-Indiana-Jones-rodaje-jordania.jpg "(Izq.) Indiana Jones y la última cruzada. © Lucasfilm. (Dcha.) El cañón del Siq, en Petra. © JTB")
 
 ## 4\. Jordania
 
@@ -61,7 +61,7 @@ recorremos los escenarios de diez filmes que tienen este precioso país como tel
 fondo, como _Aladdin_, _Rogue One_, _India Jones y la última cruzada_ o _En tierra 
 hostil_. Ya tienes otro motivo más para viajar Jordania. 
 
-![protagonistas de Juego de Tronos en Malta](etheria_images/2019/06/viajes-cine-malta-juego-tronos.jpg "Rodaje de ‘Juego de Tronos’ en la desaparecida Ventana Azul de Gozo. © HBO")
+![protagonistas de Juego de Tronos en Malta](etheria-images/2019/06/viajes-cine-malta-juego-tronos.jpg "Rodaje de ‘Juego de Tronos’ en la desaparecida Ventana Azul de Gozo. © HBO")
 
 ## 5\. Malta
 
@@ -72,7 +72,7 @@ es enorme y seguro que te gustará recorrer lugares como Gozo para imaginar a lo
 Dothraki de _Juego de Tronos_ cabalgando por sus playas o visitar el Fuerte Ricasoli 
 para rememorar _Troya_ o _Gladiator_. 
 
-![Cataratas y playa en Jamaica](etheria_images/2019/03/cataratas-reach-pelicula-coctail.jpg "Cataratas Reach y fotograma película 'Cocktail'. ©Jamaica Film Comission")
+![Cataratas y playa en Jamaica](etheria-images/2019/03/cataratas-reach-pelicula-coctail.jpg "Cataratas Reach y fotograma película 'Cocktail'. ©Jamaica Film Comission")
 
 ## 6\. Jamaica
 
@@ -84,7 +84,7 @@ después de que se rodara la famosa película _El Lago Azul?_ Y las fans de Tom 
 podrán recordar escenas de su película _Cocktail_ en las cataratas Reach o en Dragon 
 Bay. 
 
-![actores de Mary Poppins en Londres](etheria_images/2019/01/viajes-cine-mary-poppins-londres-1024x683.jpg "Escena de 'El regreso de Mary Poppins'. © Disney Enterprises")
+![actores de Mary Poppins en Londres](etheria-images/2019/01/viajes-cine-mary-poppins-londres-1024x683.jpg "Escena de 'El regreso de Mary Poppins'. © Disney Enterprises")
 
 ## 7\. El Londres de Mary Poppins
 
@@ -95,7 +95,7 @@ el Royal Exchange o el barrio de Westminster son sólo algunas de las localizaci
 la película _El regreso de Mary Poppins_ que te proponíamos anteriormente en este 
 artículo de [Londres](https://etheriamagazine.com/2019/01/22/viajes-cine-londres-de-mary-poppins/). 
 
-![bosque de Tollymore con guía](etheria_images/2018/05/2-Tollymore-Forest-Park-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "En Tollymore Forest Park se rodó la escena de los caminantes blancos de la serie 'Juego de Tronos'. © PG")
+![bosque de Tollymore con guía](etheria-images/2018/05/2-Tollymore-Forest-Park-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "En Tollymore Forest Park se rodó la escena de los caminantes blancos de la serie 'Juego de Tronos'. © PG")
 
 ## 8\. 'Juego de Tronos' en Irlanda del Norte
 
@@ -107,7 +107,7 @@ podía ser menos y cuenta con escenarios tan representativos de la serie como To
 Forest Park (el Bosque Encantado en la serie), Castle Ward como la casa de los Stark o 
 Cushendun Caves donde se rodó una impactante escena con Melisandre. 
 
-![escena de serie en la catedral del Mar](etheria_images/2018/07/Catedral-del-mar-ruta-de-cine-684x1024.jpg "'La Catedral del Mar'. ©")
+![escena de serie en la catedral del Mar](etheria-images/2018/07/Catedral-del-mar-ruta-de-cine-684x1024.jpg "'La Catedral del Mar'. ©")
 
 ## 9\. 'La Catedral del Mar' y 'Los herederos de la Tierra'
 

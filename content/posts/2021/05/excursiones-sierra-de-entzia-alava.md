@@ -1,17 +1,17 @@
 ---
 title: "La Sierra de Entzia, des(conexión) en siete pasos en Álava"
 date: 2021-05-12
-coverImage: etheria_images/2021/05/cascadas-de-toberia.jpg
+coverImage: etheria-images/2021/05/cascadas-de-toberia.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 Descubre interesantes excursiones por la Sierra de Entzia a través de siete planes que te desvelarán los sugerentes paisajes de una frontera casi desconocida. Esta sierra alavesa se levanta sobre la llanada como una ola de roca que pone límites a la de Urbasa (Navarra) con grandes hayedos, oníricos laberintos de roca, historias de caminantes y huellas megalíticas que te van a prendar.
 
-![excursiones en la sierra de entzia](etheria_images/2021/05/caminos-sierra-entzia.jpg "Misterioso paisaje de la Sierra de Entzia.")
+![excursiones en la sierra de entzia](etheria-images/2021/05/caminos-sierra-entzia.jpg "Misterioso paisaje de la Sierra de Entzia.")
 
 Cuando lo cotidiano se hace menos llevadero y las ganas de desconectar del ruido mental 
 y físico se imponen para salir de la rutina, es hora de despertar los sentidos dibujando 
@@ -21,7 +21,7 @@ caminos entre antiguas tierras de vascones y visigodos. En pleno camino composte
 desde su casco medieval de fachadas blasonadas, es una base ideal de la Llanada Alavesa 
 para realizar algunas **excursiones por la Sierra de Entzia**. 
 
-![iglesia de santa maria camino de santiago salvatierra](etheria_images/2021/05/iglesia-santa-maria-camino-santiago-683x1024.jpg "La iglesia de Santa María, en Salvatierra, en pleno Camino de Santiago.")
+![iglesia de santa maria camino de santiago salvatierra](etheria-images/2021/05/iglesia-santa-maria-camino-santiago-683x1024.jpg "La iglesia de Santa María, en Salvatierra, en pleno Camino de Santiago.")
 
 ## 1\. Desde el Mediterráneo a Compostela
 
@@ -34,7 +34,7 @@ de Baiona, llega a través de Guipúzcoa. Desde Salvatierra continúan juntos, t
 hace mil años, en un único sendero que atraviesa tierras palentinas y leonesas. ¡Anímate 
 a realizar un tramo de este camino, la longitud la decides tú! 
 
-![Laberinto entre las calizas de Katarri y Arno excursiones en la sierra de entzia](etheria_images/2021/05/laberinto-calizas-Katarri-Arno-683x1024.jpg "Laberinto entre las calizas de Katarri y Arno, en la sierra de Entzia.")
+![Laberinto entre las calizas de Katarri y Arno excursiones en la sierra de entzia](etheria-images/2021/05/laberinto-calizas-Katarri-Arno-683x1024.jpg "Laberinto entre las calizas de Katarri y Arno, en la sierra de Entzia.")
 
 ## 2\. Descubre laberintos pétreos en el bosque
 
@@ -53,7 +53,7 @@ una catedral de árboles, la diversión está asegurada. Olvídate del GPS y dé
 por su fantasioso aspecto cubierto de musgo. Esta es otra de las excursiones por la 
 Sierra de Entzia desde Salvatierra que no te debes perder. 
 
-![Salvatierra partida de excursiones de la sierra de entzia](etheria_images/2021/05/salvatierra-alava-683x1024.jpg "Colorida imagen de Salvatierra.")
+![Salvatierra partida de excursiones de la sierra de entzia](etheria-images/2021/05/salvatierra-alava-683x1024.jpg "Colorida imagen de Salvatierra.")
 
 ## 3\. Salvatierra, parada y fonda
 
@@ -74,7 +74,7 @@ Jatetxea](http://www.restauranteelgordo.com/). Más conocido como El Gordo, es u
 lugar donde saborear pintxos, llevarnos el bocata para hacer alguna de las excursiones 
 por la Sierra de Entzia o reponer fuerzas dejándonos agasajar en su mesa. 
 
-![Barranco de los Molineros sierra entzia](etheria_images/2021/05/barranco-molineros-sierra-entzia.jpg "Barranco de los Molineros en la sierra de Entzia (Álava).")
+![Barranco de los Molineros sierra entzia](etheria-images/2021/05/barranco-molineros-sierra-entzia.jpg "Barranco de los Molineros en la sierra de Entzia (Álava).")
 
 ## 4\. El cañón de los molineros
 
@@ -89,7 +89,7 @@ familia molinera, pero el río ha seguido tallando espectaculares cascadas barra
 arriba. Estos saltos de agua los podemos disfrutar apenas a 200 metros del molino en la 
 senda que nos lleva hasta el pueblo de Roitegui. 
 
-![Ruta de los menhires de la Sierra de Entzia](etheria_images/2021/05/menhires-sierra-entzia.jpg "Ruta de los menhires y dólmenes de la Sierra de Entzia.")
+![Ruta de los menhires de la Sierra de Entzia](etheria-images/2021/05/menhires-sierra-entzia.jpg "Ruta de los menhires y dólmenes de la Sierra de Entzia.")
 
 ## 5\. Entre dólmenes y menhires
 
@@ -105,7 +105,7 @@ porque algunos, como el de **Lekuona**, sobrepasan los cuatro metros. Sin embarg
 más vistosos son los cuatro menhires en pie que rodean el **crómlech de Mendiluze** y 
 que señalan los puntos cardinales. 
 
-![Cromlech de Mendiluze Sierra de Entzia](etheria_images/2021/05/excursion-dolmenes-sierra-etnzia.jpg "Crómlech de Mendiluze, en la Sierra de Entzia.")
+![Cromlech de Mendiluze Sierra de Entzia](etheria-images/2021/05/excursion-dolmenes-sierra-etnzia.jpg "Crómlech de Mendiluze, en la Sierra de Entzia.")
 
 Hay quien afirma que el **dolmen de Sorginetxe** es una “casa de brujas”, aunque con 
 4.500 años de historia es más bien un homenaje funerario, considerado entre los 
@@ -115,7 +115,7 @@ Aitzkomendi**. En este lugar de enterramiento, de bella silueta con sus enormes 
 piedra, incluso se han hallado restos funerarios, y botones de la casaca de un soldado 
 napoleónico. 
 
-![Cascada de Toberia excursiones en la sierra de entzia](etheria_images/2021/05/cascada-toberia-mas-bonita-alava-683x1024.jpg "Cascada de Toberia, en un impactante entorno natural.")
+![Cascada de Toberia excursiones en la sierra de entzia](etheria-images/2021/05/cascada-toberia-mas-bonita-alava-683x1024.jpg "Cascada de Toberia, en un impactante entorno natural.")
 
 ## 6\. Cascada de Toberia, el rincón más hermoso de Álava
 
@@ -126,7 +126,7 @@ que, junto al río, entre hayas y robles centenarios, lleva al nacimiento del mi
 Allí, la roca de toba calcárea origina unas llamativas cascadas que se desprenden en 
 infinitos hilos de agua en época de lluvias. 
 
-![excursiones en la sierra de entzia robles centenarios](etheria_images/2021/05/robles-sierra-entzia-708x1024.jpg "Robledal centenario entre los pueblos de Muniain y Okariz.")
+![excursiones en la sierra de entzia robles centenarios](etheria-images/2021/05/robles-sierra-entzia-708x1024.jpg "Robledal centenario entre los pueblos de Muniain y Okariz.")
 
 ## 7\. Bosque medieval a la vista
 

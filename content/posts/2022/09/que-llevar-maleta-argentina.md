@@ -1,11 +1,11 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Argentina"
 date: 2022-09-14
-coverImage: etheria_images/2022/09/viaje-argentina.jpg
+coverImage: etheria-images/2022/09/viaje-argentina.jpg
 categories: 
   - que-llevar-en-la-maleta
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La mejor temporada para viajar al país del tango es durante nuestro otoño e invierno, 
@@ -14,7 +14,7 @@ consejos fundamentales sobre cómo preparar una maleta para viajar Argentina en 
 tendrás que llevar ropa y accesorios para distintos tipo de clima y algunos complementos 
 imprescindibles. 
 
-![mujer preparando una maleta](etheria_images/2022/09/maleta-argentina-maleta.jpg "Al preparar una maleta para viajar a Argentina hay que optimizar muy bien el espacio.")
+![mujer preparando una maleta](etheria-images/2022/09/maleta-argentina-maleta.jpg "Al preparar una maleta para viajar a Argentina hay que optimizar muy bien el espacio.")
 
 Actualizado 1/2024 
 
@@ -42,7 +42,7 @@ las cataratas de Iguazú, pero como hace calor húmedo lo mejor es llevar una [c
 el agua](https://amzn.to/3DpVOno) que no abulte mucho como las que encuentras en Amazon 
 o en tiendas deportivas. 
 
-![lancha bajo las cataratas de Iguazú](etheria_images/2022/09/maleta-argentina-cataratas-iguazu.jpg "En la excursión en las cataratas de Iguazú te mojas seguro. ¡No olvides el chubasquero!")
+![lancha bajo las cataratas de Iguazú](etheria-images/2022/09/maleta-argentina-cataratas-iguazu.jpg "En la excursión en las cataratas de Iguazú te mojas seguro. ¡No olvides el chubasquero!")
 
 Y en la Patagonia te hará falta una buena prenda de abrigo de tipo deportiva que sirva 
 también como cortaviento, que no te ocupará mucho espacio en la maleta porque la puedes 
@@ -65,7 +65,7 @@ son perfectas para caminar por la selva y se pueden mojar en las excursiones en 
 las cataratas. Para las noches, unas sandalias cómodas (mejor sin tacón) o unas 
 bailarinas. 
 
-![grupo de excursión con crampones en el Perito Moreno](etheria_images/2022/09/maleta-argentina-excursion-perito-moreno.jpg "Para caminar por el Perito Moreno es imprescindible llevar un atuendo adecuado y buen calzado.")
+![grupo de excursión con crampones en el Perito Moreno](etheria-images/2022/09/maleta-argentina-excursion-perito-moreno.jpg "Para caminar por el Perito Moreno es imprescindible llevar un atuendo adecuado y buen calzado.")
 
 En Patagonia es casi imprescindible un buen **calzado tipo trekking** para las 
 excursiones (una de las más bonitas que puedes hacer es caminar con crampones sobre el 
@@ -83,7 +83,7 @@ bolsillos para las excursiones (esta [mochila de senderismo](https://amzn.to/3QE
 Amazon es muy práctica). Puedes añadir a la maleta algún bolso pequeño tipo bandolera 
 para las noches. 
 
-![Mochila y conjunto de gorro, braga polar y guantes](etheria_images/2022/09/maleta-argentina-mochila-bufanda.jpg "Mochila y conjunto de gorro, braga polar y guantes de Amazon.")
+![Mochila y conjunto de gorro, braga polar y guantes](etheria-images/2022/09/maleta-argentina-mochila-bufanda.jpg "Mochila y conjunto de gorro, braga polar y guantes de Amazon.")
 
 Las **gafas de sol** son imprescindibles en todas las etapas del viaje, tanto para la 
 parte más veraniega del viaje como para protegerse del brillo de los hielos patagónicos. 
@@ -100,7 +100,7 @@ algunas marcas o productos que sirven para varias cosas. Por ejemplo, una [barra
 de limpieza facial y corporal de The Body Shop](https://tidd.ly/3B8AjVJ) que además 
 puedes llevar en el equipaje de mano. 
 
-![productos de The Body Shop](etheria_images/2022/09/maleta-argentina-neceser.jpg "Productos perfectos para viaje de The Body Shop: jabón sólido e hidratante con protección solar.")
+![productos de The Body Shop](etheria-images/2022/09/maleta-argentina-neceser.jpg "Productos perfectos para viaje de The Body Shop: jabón sólido e hidratante con protección solar.")
 
 Lo que no puedes olvidar es la crema solar (echa un vistazo a la [loción 
 multiprotección](https://tidd.ly/3RXoTL2) contra el sol y la contaminación de The Body 
@@ -113,7 +113,7 @@ básicas como analgésicos, antiinflamatorios o antidiarreicos. No olvides lleva
 termómetro y tiritas de todos los tamaños, vas a caminar mucho y es probable que las 
 necesites. 
 
-![Botiquín de Amazon en dos colores](etheria_images/2022/09/maleta-argentina-botiquin.jpg "Botiquín de Amazon para prepararlo según tus necesidades.")
+![Botiquín de Amazon en dos colores](etheria-images/2022/09/maleta-argentina-botiquin.jpg "Botiquín de Amazon para prepararlo según tus necesidades.")
 
 ## Gadgets
 
@@ -141,7 +141,7 @@ de tipo I, de tres clavijas planas, no compatibles con los aparatos eléctricos 
 Lo mejor es comprar una adaptador universal como [éste de venta en 
 Amazon](https://amzn.to/3d46TzV) que te servirá para más viajes. 
 
-![Prismáticos de FNAC y adaptador de viaje de Amazon.](etheria_images/2022/09/argentina-prismaticos-adaptador.jpg "Prismáticos de FNAC y adaptador de viaje de Amazon.")
+![Prismáticos de FNAC y adaptador de viaje de Amazon.](etheria-images/2022/09/argentina-prismaticos-adaptador.jpg "Prismáticos de FNAC y adaptador de viaje de Amazon.")
 
 Como recomendación, puedes llevar unos prismáticos pequeños para observar las aves y los 
 detalles de los glaciares. Estos de [National 
@@ -164,7 +164,7 @@ si usas el enlace anterior, por ser lector/a de ETHERIA MAGAZINE. Puedes elegir 
 seguro para este viaje en concreto o **uno ANUAL**, que te saldrá a cuenta si realizas 
 más de un viaje al año. 
 
-![Guías de Argentina](etheria_images/2022/09/guias-argentina.jpg "Guías de Argentina de distintas editoriales.")
+![Guías de Argentina](etheria-images/2022/09/guias-argentina.jpg "Guías de Argentina de distintas editoriales.")
 
 En cuanto a las guías de viaje, hay una amplia oferta: echa un ojo a las de [Lonely 
 Planet](https://clk.tradedoubler.com/click?p=70431&a=3132464&g=17376810&url=https://www.fnac.es/a6400185/Alex-Egerton-Argentina-y-Uruguay-7%23omnsearchpos=1), 

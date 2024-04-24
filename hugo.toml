@@ -1,7 +1,7 @@
 # Hugo site configuration
-baseURL = 'https://etheriamagazine.com'
+baseURL = 'https://etheriamagazine.com/'
 title = 'Etheria Magazine'
-languageCode = 'es-ES'
+# languageCode = 'es-ES'
 defaultContentLanguage = 'es'
 
 removePathAccents = true
@@ -11,6 +11,7 @@ summaryLength = 20
 
 [taxonomies]
   category = 'categories'
+  author = 'authors'
 
 [permalinks]
   [permalinks.page]
@@ -21,9 +22,11 @@ summaryLength = 20
 
   [permalinks.taxonomy]
     categories = "/categorias"
+    authors = "/autores"
 
   [permalinks.term]
-    categories = "/categorias/:slug/"      
+    categories = "/categorias/:slug/"
+    authors = "/autores/:slug"
 
 
 [markup]
@@ -41,6 +44,18 @@ summaryLength = 20
 
 
 [params]
+  subtitle = "1ª revista de viajes española para mujeres que les apasiona viajar"
+
+  [params.publisher]
+    name = 'Etheria Magazine'
+    urls = [
+      "https://www.facebook.com/etheriamagazine/",
+      "https://twitter.com/etheriamagazine",
+      "https://www.instagram.com/etheriamagazine/",
+      "https://www.pinterest.es/etheriamagazine/",
+      "https://github.com/etheriamagazine"      
+    ]
+
   [params.publi]
     items = [
       "publi/2023-polonia",

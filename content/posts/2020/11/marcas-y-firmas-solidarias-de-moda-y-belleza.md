@@ -1,12 +1,12 @@
 ---
 title: "Firmas solidarias de moda y belleza en las que tus compras también suman"
 date: 2020-11-21
-coverImage: etheria_images/2020/11/moda-solidaria-makai.jpg
+coverImage: etheria-images/2020/11/moda-solidaria-makai.jpg
 categories: 
   - regalos-compras-viajeras
   - organiza-tu-viaje
-author: 
-  - Rebeca Avila
+authors: 
+  - Rebeca Ávila
 ---
 
 Varias firmas de moda y belleza muestran su cara más solidaria y comprometida durante 
@@ -14,7 +14,7 @@ estos tiempos difíciles. Algunas ayudan a niños y ancianos, otras al medioambi
 la investigación del cáncer de mama. Te contamos ocho iniciativas con las que tus 
 compras contribuyen a crear un mundo mejor. 
 
-![makai empresa solidaria](etheria_images/2020/11/moda-solidaria-makai.jpg "© Makai, compras de moda solidarias.")
+![makai empresa solidaria](etheria-images/2020/11/moda-solidaria-makai.jpg "© Makai, compras de moda solidarias.")
 
 La profunda huella que nos está dejando la crisis sanitaria y social de la COVID-19 está 
 provocando cambios de comportamiento en un tiempo récord y a todos los niveles. En el 
@@ -37,7 +37,7 @@ hemos animado a compartir un listado de marcas que ya actúan involucrando a sus
 para que tomen conciencia de que las acciones, por pequeñas que parezcan, tienen 
 impacto. 
 
-![makai firma moda solidaria](etheria_images/2020/11/makai-compras-solidarias.jpg "En © Makai, con cada prenda que compras alimentas un niño durante un mes.")
+![makai firma moda solidaria](etheria-images/2020/11/makai-compras-solidarias.jpg "En © Makai, con cada prenda que compras alimentas un niño durante un mes.")
 
 ## Firmas de moda solidarias y responsables
 
@@ -59,7 +59,7 @@ que compran y desean apoyar a las empresas que desean mejorar el mundo.
 
 Más información en Makai. 
 
-![vestido abrazo de bimani](etheria_images/2020/11/vestido-abrazo-bimani.jpg "Vestido 'Abrazo' de © Bimani.")
+![vestido abrazo de bimani](etheria-images/2020/11/vestido-abrazo-bimani.jpg "Vestido 'Abrazo' de © Bimani.")
 
 ### 2\. El ‘Abrazo’ de Bimani, un vestido solidario que arrasa en ventas
 
@@ -74,7 +74,7 @@ organización social mencionada.
 
 Más información en Bimani. 
 
-![purificacion garcia solidaridad con ancianos](etheria_images/2020/11/purificacion-garcia-solidaridad-ancianos.jpg "© Purificación García apoya a los mayores.")
+![purificacion garcia solidaridad con ancianos](etheria-images/2020/11/purificacion-garcia-solidaridad-ancianos.jpg "© Purificación García apoya a los mayores.")
 
 ### 3\. Purificación García apoya a personas mayores
 
@@ -86,7 +86,7 @@ descuento adicional de otro 10 por ciento.
 
 Más información en Purificación García. 
 
-![proyecto adn adolfo dominguez](etheria_images/2020/11/adolfo-dominguez-adn.jpg "Proyecto ADN de © Adolfo Domínguez.")
+![proyecto adn adolfo dominguez](etheria-images/2020/11/adolfo-dominguez-adn.jpg "Proyecto ADN de © Adolfo Domínguez.")
 
 ### 4\. Adolfo Domínguez reflexiona sobre la moda
 
@@ -104,7 +104,7 @@ uno mismo.
 
 Más información en Adolfo Domínguez. 
 
-![compra responsable de h y m](etheria_images/2020/11/h-y-m-conscious.jpg "Iniciativa Conscious de © H&M.")
+![compra responsable de h y m](etheria-images/2020/11/h-y-m-conscious.jpg "Iniciativa Conscious de © H&M.")
 
 ### 5\. Conscius de H&M, reciclaje de ropa y donación a ONGs
 
@@ -129,7 +129,7 @@ acciones sociales e impacto medioambiental.
 
 Más información en H&M. 
 
-![mango ayuda cancer de mama](etheria_images/2020/11/mango-cancer-mama.jpg "Colección solidaria de © Mango.")
+![mango ayuda cancer de mama](etheria-images/2020/11/mango-cancer-mama.jpg "Colección solidaria de © Mango.")
 
 ### 6\. Mango apoya la investigación del cáncer de mama
 
@@ -152,7 +152,7 @@ Más información en Mango.
 
 ## La cosmética también responde
 
-![Laconicum multimarca cosmetica](etheria_images/2020/11/Tonico-Perricone-skin-shine-Laconicum.jpg "Laconicum también apoya causas solidarias. © Rébeca Ávila")
+![Laconicum multimarca cosmetica](etheria-images/2020/11/Tonico-Perricone-skin-shine-Laconicum.jpg "Laconicum también apoya causas solidarias. © Rébeca Ávila")
 
 ### 7\. Laconicum colabora con bancos de alimentos
 
@@ -163,7 +163,7 @@ España. Como dicen en Laconicum: "Todo suma".
 
 Más información en Laconicum. 
 
-![goah apoya a la asociacion arboles para siempre](etheria_images/2020/11/goah-arboles-para-siempre.jpg "© 'Árboles para siempre' es la organización que GOAH Clinic apoya.")
+![goah apoya a la asociacion arboles para siempre](etheria-images/2020/11/goah-arboles-para-siempre.jpg "© 'Árboles para siempre' es la organización que GOAH Clinic apoya.")
 
 ### 8\. GOAH Clinic, un árbol por cada producto
 

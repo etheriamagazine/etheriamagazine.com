@@ -1,17 +1,17 @@
 ---
 title: "Piet Mondrian y su “belleza universal” de la geometría conquistan el Museo Reina Sofía"
 date: 2020-11-27
-coverImage: etheria_images/2020/11/exposicion-mondrian-reina-sofia-1.jpg
+coverImage: etheria-images/2020/11/exposicion-mondrian-reina-sofia-1.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 La obra de Piet Mondrian será la protagonista del Museo Reina Sofía de Madrid hasta marzo de 2021. Este artista holandés realizó un gran viaje desde el realismo de sus comienzos hasta la pura abstracción de la línea.
 
-![New York City de Mondrian expo reina sofia](etheria_images/2020/11/exposicion-mondrian-reina-sofia-1.jpg "'New York City' de Mondrian. © J.Cortés/ R. Lores. Archivo Museo Reina Sofia")
+![New York City de Mondrian expo reina sofia](etheria-images/2020/11/exposicion-mondrian-reina-sofia-1.jpg "'New York City' de Mondrian. © J.Cortés/ R. Lores. Archivo Museo Reina Sofia")
 
 Junto con Pablo Picasso, Piet Mondrian (Amersfoort, Países Bajos, 1872 – Nueva York, 
 1944) es la gran figura de referencia de la Modernidad. Al menos, así lo considera el 
@@ -31,7 +31,7 @@ Doesburg** propuso fundar una revista, “De Stijl” (El Estilo), que sirviera 
 de estas innovadoras ideas. El primer número salió en 1917 y hasta 1931 la publicación 
 fue dando cuenta de los caminos por donde iba transitando el arte abstracto. 
 
-![dormitorio infantil de bruynzeel](etheria_images/2020/11/mondrian-y-de-stijl-dormitorio.jpg "Reconstrucción de un dormitorio infantil del hogar de la familia Bruynzeel. De Vilmos Huszár y Pieter Jan C.K. ©Archivo Reina Sofía")
+![dormitorio infantil de bruynzeel](etheria-images/2020/11/mondrian-y-de-stijl-dormitorio.jpg "Reconstrucción de un dormitorio infantil del hogar de la familia Bruynzeel. De Vilmos Huszár y Pieter Jan C.K. ©Archivo Reina Sofía")
 
 ## “Un héroe en las artes visuales”
 
@@ -49,7 +49,7 @@ con naranjas' (1900) o 'Tarde en el Weesperzijde' (1901-1902), unos óleos a par
 los cuales comenzó un viaje experimental en el que fue incorporando, poco a poco, 
 influencias de movimientos como el puntillismo, el fauvismo o el cubismo. 
 
-![naturaleza muerta con naranjas y composicion be de Mondrian](etheria_images/2020/11/Naturaleza-muerta-naranjas-composicion-b.jpg "'Naturaleza muerta con naranjas' y 'Composición B', de Mondrian. © Mondrian/Holtzman Trust")
+![naturaleza muerta con naranjas y composicion be de Mondrian](etheria-images/2020/11/Naturaleza-muerta-naranjas-composicion-b.jpg "'Naturaleza muerta con naranjas' y 'Composición B', de Mondrian. © Mondrian/Holtzman Trust")
 
 ## En busca de “la belleza universal”
 
@@ -69,7 +69,7 @@ directamente a las emociones. Y estos principios de la abstracción que aplicaba
 pintura y la escultura también los extendían a la arquitectura y al diseño gráfico e 
 industrial. 
 
-![Mondrian y De Stijl en el reina sofia de madrid](etheria_images/2020/11/Reina-sofria-mondrian-y-de-stijl.jpg "Exposición 'Mondrian y De Stijl'. © Archivo del Museo Reina Sofía.")
+![Mondrian y De Stijl en el reina sofia de madrid](etheria-images/2020/11/Reina-sofria-mondrian-y-de-stijl.jpg "Exposición 'Mondrian y De Stijl'. © Archivo del Museo Reina Sofía.")
 
 ## Objetivo: la modernidad
 
@@ -84,7 +84,7 @@ Doesburg y esa circunstancia le permitió acercarse al movimiento Círculo y Cua
 artistas como Joaquín Torres García o Férnad Léger, y a la asociación de artistas 
 Abstraction-Création. 
 
-![la tormenta de bart van der leck](etheria_images/2020/11/expo-reina-sofia-van-der-leck.jpg "'La Tormenta', de Bart Van Der Leck. © Kröller-Müller Museum.")
+![la tormenta de bart van der leck](etheria-images/2020/11/expo-reina-sofia-van-der-leck.jpg "'La Tormenta', de Bart Van Der Leck. © Kröller-Müller Museum.")
 
 Finalmente, a mediados de los años 30, De Stijl entró en declive y los artistas que 
 seguían en sus filas apenas tuvieron reconocimiento. Sólo Mondrian seguía destacando en 
@@ -101,7 +101,7 @@ aún más la estructura rítmica de su arte. Y es que Mondrian quedó muy impact
 dinamismo de la vida urbana de Nueva York y los ritmos de la música estadounidense. 
 Aquí, en la ciudad de los rascacielos, murió el 1 de febrero de 1944. 
 
-![composicion c exposicion reina sofia](etheria_images/2020/11/composicion-c-mondrian.jpg "'Composición C con rojo, amarillo y azul' (1935). © Mondrian/ Jotzmann")
+![composicion c exposicion reina sofia](etheria-images/2020/11/composicion-c-mondrian.jpg "'Composición C con rojo, amarillo y azul' (1935). © Mondrian/ Jotzmann")
 
 Las últimas creaciones de Mondrian cierran la [exposición del Museo Reina 
 Sofía](http://www.museoreinasofia.es). Se trata de obras que explotan los pocos recursos 

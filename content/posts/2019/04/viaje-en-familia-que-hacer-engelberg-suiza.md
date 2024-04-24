@@ -1,19 +1,19 @@
 ---
 title: "Viaje con niños a Engelberg, el corazón de Suiza"
 date: 2019-04-30
-coverImage: etheria_images/2019/04/Engelberg-ninas-Furenalp.jpg
+coverImage: etheria-images/2019/04/Engelberg-ninas-Furenalp.jpg
 categories: 
   - viajes-ecoturismo
   - viaje-en-familia
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Suiza es un país perfecto para viajar con niños porque ofrece decenas de opciones para disfrutar de la naturaleza y, además, con todas las comodidades. Si vas en verano, Engelberg es una apuesta segura tanto por las excursiones que se pueden hacer en su entorno como por su ubicación junto al imponente monte Titlis.
 
-![glacier park, titlis, viajes familia suiza](etheria_images/2019/04/Engelberg-titlis-ice-flyer.jpg "Vistas desde el telesilla Ice Flyer que te lleva en el Titlis hasta el Glacier Park. © Laura Fernández")
+![glacier park, titlis, viajes familia suiza](etheria-images/2019/04/Engelberg-titlis-ice-flyer.jpg "Vistas desde el telesilla Ice Flyer que te lleva en el Titlis hasta el Glacier Park. © Laura Fernández")
 
 ```
 Actualizado 3/2021
@@ -34,7 +34,7 @@ por la zona en autobús, funicular y hasta en patinete.
 > ferrata, escalada, rutas en bicicleta, tobogán en la montaña o paseos en kayak por el 
 > lago. 
 
-![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria_images/2019/04/Engelberg-actividades.jpg "Senderismo en Fürenalp y actividad de la O.T. de Engelberg para niños en el parque Robinson en Grotzenwäldli. © Laura Fernández")
+![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria-images/2019/04/Engelberg-actividades.jpg "Senderismo en Fürenalp y actividad de la O.T. de Engelberg para niños en el parque Robinson en Grotzenwäldli. © Laura Fernández")
 
 La ciudad de Engelberg es una de esas localidades suizas que vive de cara a las montañas 
 que la rodean. Todo en ella está pensado para disfrutar de la naturaleza. Cuenta con un [monasterio 
@@ -45,7 +45,7 @@ está en las montañas: granjas que se pueden visitar, lagos, queserías, parque
 árboles... Tendrás que organizar muy bien el tiempo para disfrutar del mayor número 
 posible de actividades. 
 
-![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria_images/2019/04/Engelberg-panoramica.jpg "Panorámica de Engelberg y sus montañas. © Peter Wormstetter")
+![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria-images/2019/04/Engelberg-panoramica.jpg "Panorámica de Engelberg y sus montañas. © Peter Wormstetter")
 
 ## Subida y bajada al monte Titlis
 
@@ -60,14 +60,14 @@ Walk**. Es el puente colgante más alto de Europa (no apto para aquellos que ten
 vértigo). También de su cueva glaciar, donde en pleno verano necesitarás un buen abrigo, 
 gorro y guantes para internarte en este mundo de hielo. 
 
-![montanas suizas, viajes familiares suiza](etheria_images/2018/09/Suiza-puente-Titlis-e1554368044890.jpg "El puente Titlis Cliff Walk, en el Klein Titlis. © Oscar Nenander/swiss-image.ch")
+![montanas suizas, viajes familiares suiza](etheria-images/2018/09/Suiza-puente-Titlis-e1554368044890.jpg "El puente Titlis Cliff Walk, en el Klein Titlis. © Oscar Nenander/swiss-image.ch")
 
 Desde aquí puedes coger el **telesilla Ice Flyer** que te lleva literalmente colgando 
 por encima de las grietas del glaciar hasta el **Glacier Park**. Es una zona donde pasar 
 un día muy divertido disfrutando de la nieve (que encontrarás también en pleno verano) y 
 tirándote en trineos o 'donuts' gigantes. 
 
-![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria_images/2019/04/Engelberg-snow-park-titlis.jpg "Trineos en julio en el Glacier Park, en el monte Titlis. © Laura Fernández")
+![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria-images/2019/04/Engelberg-snow-park-titlis.jpg "Trineos en julio en el Glacier Park, en el monte Titlis. © Laura Fernández")
 
 La forma de descender del Klein Titlis la eliges tú. Aunque puedes volver a utilizar los 
 telecabinas, es muy recomendable bajar en la parada intermedia del **lago Trübsee**. 
@@ -86,7 +86,7 @@ propuesta mucho mejor si los niños no son muy pequeños: bajar en patinete cues
 Curva tras curva llegarás a la estación del telecabina de donde partiste (los niños 
 menores de 10 años van con un adulto en el patinete). 
 
-![senderismo lago trubsee, viajes familiares suiza](etheria_images/2019/04/Engelberg-titlis-senderismo.jpg "Ruta de senderismo desde el lago Trübsee. © Laura Fernández")
+![senderismo lago trubsee, viajes familiares suiza](etheria-images/2019/04/Engelberg-titlis-senderismo.jpg "Ruta de senderismo desde el lago Trübsee. © Laura Fernández")
 
 En esta completa jornada llena de emociones y vistas increíbles es muy recomendable 
 llevar algo de comer y disfrutar del día en la montaña. Como hay tantas cosas que hacer 
@@ -105,7 +105,7 @@ también se lo pasarán en grande; un parque de juegos; un camino para hacer una
 descalzo sintiendo diferentes texturas alrededor de lago Härzlisee; vías ferrata de 
 todos los niveles para los amantes de la escalada, etc. 
 
-![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria_images/2019/04/Engelberg-tobogan.jpg "Tobogán en el monte Brunni. © Cristina Monllor")
+![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria-images/2019/04/Engelberg-tobogan.jpg "Tobogán en el monte Brunni. © Cristina Monllor")
 
 Hay varias zonas de merendero, por lo que es un sitio perfecto para llevar la comida e 
 intentar hacer todas las actividades posibles. Cuando llegas a Ristis con el telecabina 
@@ -114,7 +114,7 @@ para hacer una ruta por la montaña. Si subes un poco más en el telesilla, hast
 Brunnihutte, encontrarás el bonito **lago Härzlisee**. También un restaurante, vías 
 ferrata, zonas de escalada y más caminos para realizar una ruta de senderismo. 
 
-![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria_images/2019/04/Engelberg-paseo-descalza.jpg "Paseo para realizar descalzo alrededor del lago Härzlisee. © Laura Fernández")
+![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria-images/2019/04/Engelberg-paseo-descalza.jpg "Paseo para realizar descalzo alrededor del lago Härzlisee. © Laura Fernández")
 
 ## Fürenalp, Alpes en estado puro
 
@@ -132,7 +132,7 @@ o [Alpenrösli](http://www.alpenroesli-engelberg.ch)).
 Aquí te hemos ofrecido nuestra experiencia en este **viaje con niños a Engelberg** pero 
 si tienes alguna duda, estaremos encantadas de ayudarte. 
 
-![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria_images/2019/04/Engelberg-Furenalp-parque-juegos.jpg "Parque de juegos en Fürenalp. © Laura Fernández")
+![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria-images/2019/04/Engelberg-Furenalp-parque-juegos.jpg "Parque de juegos en Fürenalp. © Laura Fernández")
 
 ### CONSEJOS ETHERIA
 
@@ -149,7 +149,7 @@ italiana). Y piensa que siempre puedes parar a descansar en alguno de los restau
 de montaña para tomar una cerveza con un poco de queso o un bizcocho mientras los niños 
 juegan en los alrededores. 
 
-![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria_images/2019/04/Engelberg-cerveza.jpg "Cerveza en la montaña. © Cristina Monllor")
+![viaje con ninos a Suiza, viajes a Suiza, viajes en familias, actividades en la naturaleza](etheria-images/2019/04/Engelberg-cerveza.jpg "Cerveza en la montaña. © Cristina Monllor")
 
 • La [Oficina de Turismo de Engelberg](https://www.engelberg.ch/en/) ofrece un programa 
 de verano para familias en el que cada día de la semana ofrece dos actividades gratis: 

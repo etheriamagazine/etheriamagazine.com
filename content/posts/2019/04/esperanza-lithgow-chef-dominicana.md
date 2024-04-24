@@ -1,18 +1,18 @@
 ---
 title: "Doña Esperancita, la dama de los fogones dominicanos"
 date: 2019-04-06
-coverImage: etheria_images/2019/04/Chef-Esperanza-Lithgow.jpg
+coverImage: etheria-images/2019/04/Chef-Esperanza-Lithgow.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Los sabores tradicionales dominicanos, por los que vela con tanto celo la reconocida chef Esperanza Lithgow, volverán a ser los protagonistas en 2019 tras la reelección de Santo Domingo como Capital de la Cultura Gastronómica del Caribe.
 
-![Esperanza Lithgow](etheria_images/2019/04/Chef-Esperanza-Lithgow.jpg "La chef dominicana Esperanza Lithgow, asesora gastronómica del Ministerio de Turismo de Rep. Dominicana.")
+![Esperanza Lithgow](etheria-images/2019/04/Chef-Esperanza-Lithgow.jpg "La chef dominicana Esperanza Lithgow, asesora gastronómica del Ministerio de Turismo de Rep. Dominicana.")
 
 República Dominicana apuesta desde hace algunos años por convertir el país en un destino 
 gastronómico a nivel internacional, un empeño que se ha vuelto a ver reforzado por la 
@@ -37,7 +37,7 @@ la ejecución de sus recetas, ya que tanto "elabora un moro criollo con chivo gu
 como un faisán, carnes y arroces de todo tipo, con destreza y exquisitez". ([Esperanza 
 Lithgow](http://www.esperanzalithgow.com/novedades/noticia.php?id=260)) 
 
-![Moldeado de coco receta de la cocina dominicana](etheria_images/2019/04/Moldeado-de-coco-dominicana.jpg "Moldeado de coco y pescado con coco.")
+![Moldeado de coco receta de la cocina dominicana](etheria-images/2019/04/Moldeado-de-coco-dominicana.jpg "Moldeado de coco y pescado con coco.")
 
 ## Cocina dominicana
 
@@ -50,7 +50,7 @@ llevado a obtener el reconocimiento en su país (y fuera), a ganarse la confianz
 producir y dirigir programas de cocina en televisión y, cómo olvidarlo, la de ser la 
 asesora gastronómica del Ministerio de Turismo de República Dominicana. 
 
-![Esperanza Lithgow , Karyna Font](etheria_images/2019/04/Esperanza-Lithgow-Karyna-Font-Bernarnd.jpg "Entrega a Esperanza Lithgow de un diploma por parte de Karyna Font Bernarnd (Dtra. O.T. Rep. Dominicana).")
+![Esperanza Lithgow , Karyna Font](etheria-images/2019/04/Esperanza-Lithgow-Karyna-Font-Bernarnd.jpg "Entrega a Esperanza Lithgow de un diploma por parte de Karyna Font Bernarnd (Dtra. O.T. Rep. Dominicana).")
 
 En su último viaje a Madrid (marzo 2019), como embajadora de la cocina dominicana, 
 preparó un menú con los platos que consideraba que identificaban la tradición culinaria 
@@ -63,7 +63,7 @@ Dos de sus caballos de batalla, en los que le deseamos mucha suerte, son que los
 chefs dominicanos no olviden sus raíces y que se estudie a nivel universitario la cocina 
 del país. 
 
-![Ensalada Constanza, sancocho de habichuelas negras y solomillo de res](etheria_images/2019/04/platos-tipicos-dominicanos.jpg "Ensalada Constanza, sancocho de habichuelas negras y solomillo de res.")
+![Ensalada Constanza, sancocho de habichuelas negras y solomillo de res](etheria-images/2019/04/platos-tipicos-dominicanos.jpg "Ensalada Constanza, sancocho de habichuelas negras y solomillo de res.")
 
 También te puede interesar... 
 

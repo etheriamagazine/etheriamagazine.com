@@ -1,20 +1,20 @@
 ---
 title: "Tips imprescindibles para organizar tu primer viaje en crucero"
 date: 2021-02-25
-coverImage: etheria_images/2021/02/cruceros-Disney-castaway-cay.jpg
+coverImage: etheria-images/2021/02/cruceros-Disney-castaway-cay.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 ¿Estás pensando en realizar por primera vez un crucero? Es un viaje mucho más fácil de 
 organizar de lo que piensas y perfecto para viajar en familia, en pareja o con amigas. 
 Aquí te damos unas cuantas pistas para facilitarte esta tarea ¡y a navegar! 
 
-![Mujer en la barandilla de un crucero](etheria_images/2021/02/Cruceros-cubierta.jpg "Las vistas desde cubierta son uno de los alicientes de viajar en un crucero.")
+![Mujer en la barandilla de un crucero](etheria-images/2021/02/Cruceros-cubierta.jpg "Las vistas desde cubierta son uno de los alicientes de viajar en un crucero.")
 
 Viajar en un barco de cruceros es algo que se debe realizar al menos una vez en la vida. 
 Existen muchos prejuicios en torno a este tipo de vacaciones: que si hay mucha gente a 
@@ -29,7 +29,7 @@ imaginas siendo de las primeras en probar la primera montaña rusa a bordo en el
 barco de **Carnival**? ¿O corriendo en la pista de carreras de coches más grande en alta 
 mar del Norwegian Encore de **NCL**? 
 
-![Cubierta de un barco de NCL](etheria_images/2021/02/Cruceros-karts-NCL-Norwegian-Encore.jpg "Pista de karts del Norwegian Encore de © NCL")
+![Cubierta de un barco de NCL](etheria-images/2021/02/Cruceros-karts-NCL-Norwegian-Encore.jpg "Pista de karts del Norwegian Encore de © NCL")
 
 Como es un viaje que se suele **planificar con bastante antelación**, vamos a olvidarnos 
 de pandemias y restricciones y pensemos en un crucero como un viaje a largo plazo. 
@@ -53,7 +53,7 @@ hacerte una idea de precios, fechas de salida, itinerarios y barcos. Estas agenc
 encargan también, si quieres, de organizar la llegada y salida en avión o tren de los 
 puertos de embarque y desembarque. 
 
-![puerto de crucero nassau bahamas](etheria_images/2021/02/Cruceros-bahamas.jpg "Barcos de crucero en Nassau (Bahamas). © Fernando Jorge")
+![puerto de crucero nassau bahamas](etheria-images/2021/02/Cruceros-bahamas.jpg "Barcos de crucero en Nassau (Bahamas). © Fernando Jorge")
 
 ## ¿Qué elijo primero, el barco o la ruta?
 
@@ -70,7 +70,7 @@ decantarte tanto por organizar un crucero que salga desde **Barcelona** como por
 recorra el Adriático desde **Venecia** o las Islas Griegas desde **El Pireo** (el puerto 
 de Atenas). Hay infinidad de opciones. 
 
-![crucero puerto de kotor montenegro](etheria_images/2021/02/Cruceros-barco-bahia-kotor.jpg "Barco de cruceros en la bahía de Kotor, en Montenegro.")
+![crucero puerto de kotor montenegro](etheria-images/2021/02/Cruceros-barco-bahia-kotor.jpg "Barco de cruceros en la bahía de Kotor, en Montenegro.")
 
 Pero ten en cuenta que hay muchísimos lugares maravillosos que pueden visitarse en 
 crucero: los Fiordos Noruegos, el Caribe, Alaska, Hawai, Nueva Zelanda, Polinesia… Los 
@@ -85,7 +85,7 @@ como una reina. Eso sí, ten en cuenta que en estos barcos la media de edad es b
 más elevada que en los de gama media). También hay barcos con un perfil muy familiar, 
 como los de Disney Cruises o NCL. 
 
-![Barco de Costa Cruceros](etheria_images/2021/02/cruceros-costa-magica.jpg "Barco de cruceros Costa Mágica, de Costa Cruceros. © Dusan Veverkolog")
+![Barco de Costa Cruceros](etheria-images/2021/02/cruceros-costa-magica.jpg "Barco de cruceros Costa Mágica, de Costa Cruceros. © Dusan Veverkolog")
 
 ¿Algunas apuesta seguras? **NCL** (Norwegian Cruise Line), **Costa Cruceros**, **MSC**, 
 **Royal Caribbean** o **Carnival**. Si buscas una experiencia de lujo, no te equivocas 
@@ -94,7 +94,7 @@ o **Star Clippers**. Y si puedes darte el capricho de un crucero aún más exclu
 alguna de las mejores opciones son **Regent Seven Seas**, **Silversea**, **Seabourn** o 
 **Crystal Cruises**. 
 
-![Cubierta superior de royal caribbean](etheria_images/2021/02/Cruceros-cubiertas-barcos..jpg "A la derecha cubierta del Liberty of the Seas, de Royal Caribbean; y a la izquierda la cubierta del MSC Seaside. © Brandon Nelson")
+![Cubierta superior de royal caribbean](etheria-images/2021/02/Cruceros-cubiertas-barcos..jpg "A la derecha cubierta del Liberty of the Seas, de Royal Caribbean; y a la izquierda la cubierta del MSC Seaside. © Brandon Nelson")
 
 ## Seleccionar el camarote
 
@@ -106,7 +106,7 @@ eliges un crucero en el que tienes pensado bajar en todas las excursiones y disf
 tope de las zonas comunes, puedes valorar seriamente elegir un camarote interior o en 
 una cubierta inferior, sobre todo si solo lo vas a utilizar para ir a dormir. 
 
-![Camarote de NCL](etheria_images/2021/02/Cruceros-camarote-NCL.jpg "Camarote con balcón del Norwegian Spirit © NCL")
+![Camarote de NCL](etheria-images/2021/02/Cruceros-camarote-NCL.jpg "Camarote con balcón del Norwegian Spirit © NCL")
 
 Ten en cuenta que si quieres elegir un buen camarote tendrás que hacerlo con bastante 
 antelación. Cuando reservas entras en competencia con el resto del mundo que quiere 
@@ -128,7 +128,7 @@ se hace es en el momento en el que la mayoría se baja a una excursión. Tambié
 muchos cruceros que tienen algún día completo de navegación, perfectos para descansar, 
 hacer deporte a bordo o coger una cita en el spa. 
 
-![spa crucero  norwegian jade](etheria_images/2021/02/Cruceros-NCL-Norwigian-Jade-spa.jpg "Zona de spa del Norwegian Jade. © NCL")
+![spa crucero  norwegian jade](etheria-images/2021/02/Cruceros-NCL-Norwigian-Jade-spa.jpg "Zona de spa del Norwegian Jade. © NCL")
 
 ## Excursiones
 
@@ -145,7 +145,7 @@ excursiones organizadas en los puertos de crucero adaptadas a los horarios de em
 desembarque. Si es un puerto interesante y no tienes mucho tiempo no hay nada como que 
 un guía local te lleve a los lugares imprescindibles para aprovechar bien el tiempo. 
 
-![puerto de cruceros la valleta](etheria_images/2021/02/Cruceros-valletta-malta.jpg "Barco de cruceros en La Valleta (Malta).")
+![puerto de cruceros la valleta](etheria-images/2021/02/Cruceros-valletta-malta.jpg "Barco de cruceros en La Valleta (Malta).")
 
 ## Información importante antes de viajar:
 
@@ -165,7 +165,7 @@ añaden a la cuenta de abordo al finalizar el crucero. De hecho, si hay un cruce
 admita propinas (que los hay), lo especifican claramente por ser la excepción. Hay que 
 tomarlas como una parte del presupuesto del viaje. 
 
-![Crucero Disney en Bahamas](etheria_images/2021/02/cruceros-Disney-castaway-cay.jpg "Crucero de Disney Cruises en Castaway Cay, en Bahamas.")
+![Crucero Disney en Bahamas](etheria-images/2021/02/cruceros-Disney-castaway-cay.jpg "Crucero de Disney Cruises en Castaway Cay, en Bahamas.")
 
 ### Tasas embarque
 
@@ -183,7 +183,7 @@ sobre todo en los barcos grandes, es que haya dos turnos y el segundo no suele s
 tarde. Ten en cuenta que se suelen planificar además para que después de cenar se llegue 
 a tiempo a los espectáculos a bordo. 
 
-![cruceros por el norte de Europa royal caribbean](etheria_images/2021/02/crucreros-royal-caribbean-fiordos-noruega.jpg "Crucero de Royal Caribbean por los fiordos noruegos. © Steinar Engeland")
+![cruceros por el norte de Europa royal caribbean](etheria-images/2021/02/crucreros-royal-caribbean-fiordos-noruega.jpg "Crucero de Royal Caribbean por los fiordos noruegos. © Steinar Engeland")
 
 ### Día de salida
 
@@ -199,7 +199,7 @@ terrestre) y suele ser de pago. Siempre ofrecen varias opciones, elige la que se
 a tus necesidades, aunque quizá puedas plantearte que este viaje sea un buen momento 
 para desconectar de todo, incluidas las redes sociales. 
 
-![Hall de Costa Firence de Costa Cruceros](etheria_images/2021/02/cruceros-Costa-Firenze.jpg "Interior del nuevo Costa Firence. © Costa Cruceros")
+![Hall de Costa Firence de Costa Cruceros](etheria-images/2021/02/cruceros-Costa-Firenze.jpg "Interior del nuevo Costa Firence. © Costa Cruceros")
 
 ### 'Dress code'
 

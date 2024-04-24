@@ -1,18 +1,18 @@
 ---
 title: "9 viajes en coche para recorrer Europa"
 date: 2020-03-23
-coverImage: etheria_images/2019/05/Baviera-paisaje.jpg
+coverImage: etheria-images/2019/05/Baviera-paisaje.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 La idea de coger el coche y recorrer alguna región europea siempre es apetecible. Aquí te proponemos 8 rutas con las que aciertas seguro, perfectas para realizar con amigos, en pareja o con tu familia.
 
-![ruta en coche, castillos del Loira, viaje con amigas, viajes en familia, viajes con arte](etheria_images/2019/02/Amboise-castillo.jpg "Castillo de Amboise. © SG")
+![ruta en coche, castillos del Loira, viaje con amigas, viajes en familia, viajes con arte](etheria-images/2019/02/Amboise-castillo.jpg "Castillo de Amboise. © SG")
 
 ## 1\. Ruta en coche por el Valle del Loira
 
@@ -27,7 +27,7 @@ quieres completar el viaje, puedes acercarte al parque de [Futuroscope](https://
 Ré](https://etheriamagazine.com/2018/09/18/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re/), 
 en la Costa Atlántica. 
 
-![viajes en coche, viajes con amigas, viajes a Gran Bretaña](etheria_images/2019/08/Gales-playa-Baranfundle.jpg "Playa de Baranfundle, en Gales, una de las más bellas del Reino Unido. © MM")
+![viajes en coche, viajes con amigas, viajes a Gran Bretaña](etheria-images/2019/08/Gales-playa-Baranfundle.jpg "Playa de Baranfundle, en Gales, una de las más bellas del Reino Unido. © MM")
 
 ## 2\. 'Road trip' con amigas en Gales
 
@@ -40,7 +40,7 @@ Carmarthenshire, Laugharne y St. David’s, las playas del Parque Nacional de
 Pembrokeshire y lugares de cuento como el faro de Stumble Head. Uno de los viajes en 
 coche por Europa más bonitos que puedes hacer. 
 
-![piata mare sibiu, que ver en rumania, ruta en coche rumania](etheria_images/2019/07/7-Rumania-Sibiu-Piata-Mare.jpg "Piata Mare (Plaza Grande) de Sibiu. © Willyphots")
+![piata mare sibiu, que ver en rumania, ruta en coche rumania](etheria-images/2019/07/7-Rumania-Sibiu-Piata-Mare.jpg "Piata Mare (Plaza Grande) de Sibiu. © Willyphots")
 
 ## 3\. 'Road trip' en Rumanía con amigos
 
@@ -54,7 +54,7 @@ fortaleza. Desde aquí, puedes continuar por Sighişoara, Cluj-Napoca, Sibiu, Cu
 Argeș y Pitești hasta llegar de nuevo a Bucarest. Habrás visitado preciosas ciudades y 
 recorrido algunas de las carreteras más bonitas de Europa. 
 
-![Selva Negra Alemania niños viajes familia](etheria_images/2018/07/Cataratas-Triberg-bosque-1024x683.jpg "Bosque junto a las cataratas de Triberg, en Selva Negra. © SG")
+![Selva Negra Alemania niños viajes familia](etheria-images/2018/07/Cataratas-Triberg-bosque-1024x683.jpg "Bosque junto a las cataratas de Triberg, en Selva Negra. © SG")
 
 ## 4\. Ruta en coche en familia por Alsacia y Selva Negra
 
@@ -68,7 +68,7 @@ cuco](https://www.uhren-park.de/index.php/language/en) que ocupa una casa entera
 disfrutarán con la visita estrella del viaje, **Europa Park**, uno de los mejores 
 parques de atracciones de Europa. 
 
-![viaje mujeres cerdena playas costa esmeralda](etheria_images/2018/09/viaje-cerdena-Cala-Corsara-en-La-Magdalena-Costa-Esmeralda-1024x768.jpg "Cala Corsara, en el archipiélago de La Magdalena (Cedeña). © ENIT")
+![viaje mujeres cerdena playas costa esmeralda](etheria-images/2018/09/viaje-cerdena-Cala-Corsara-en-La-Magdalena-Costa-Esmeralda-1024x768.jpg "Cala Corsara, en el archipiélago de La Magdalena (Cedeña). © ENIT")
 
 ## 5\. Ruta en coche con amigas en Cerdeña
 
@@ -81,7 +81,7 @@ ferry. También tienes la opción de recorrer ciudades como Cagliari, Alghero u 
 restos arqueológicos, fortalezas, calas… En este artículo te damos pistas para 
 planificar uno de los viajes en coche por Europa más interesantes que puedes realizar. 
 
-![](etheria_images/2018/05/TOSCANA-VOLTERRA-3-1024x683.jpg "Volterra, uno de los pueblos que hay que visitar en la Toscana. © SG")
+![](etheria-images/2018/05/TOSCANA-VOLTERRA-3-1024x683.jpg "Volterra, uno de los pueblos que hay que visitar en la Toscana. © SG")
 
 ## 6\. Ruta en coche por la Toscana
 
@@ -94,7 +94,7 @@ Pisa, [Lucca](https://etheriamagazine.com/2019/02/18/que-ver-en-lucca/) o Siena,
 pueblos con encanto como Volterra, San Gimignano, Montepulciano o Pienza. Uno de los 
 viajes en coche por Europa perfecto para los amantes del arte. 
 
-![cotswolds](etheria_images/2019/06/viaje-mujeres-cotswolds.jpg "Cualquier época del año es perfecta para conocer el corazón de Inglaterra. © E.Ortega")
+![cotswolds](etheria-images/2019/06/viaje-mujeres-cotswolds.jpg "Cualquier época del año es perfecta para conocer el corazón de Inglaterra. © E.Ortega")
 
 ## 7\. De 'road trip' por los Cotswolds, un viaje al corazón de Inglaterra
 
@@ -106,7 +106,7 @@ te llevará por suaves prados, bosques de hayas, palacios señoriales y pueblos 
 en los condados de Gloucestershire, Wiltshire, Worcestershire, Warwickshire y 
 Oxfordshire. 
 
-![viajes con niños, viajes a Alemania, viajes en familia](etheria_images/2019/05/Baviera-Rothenburg.jpg "Casco historico de Rotemburgo, en Baviera.")
+![viajes con niños, viajes a Alemania, viajes en familia](etheria-images/2019/05/Baviera-Rothenburg.jpg "Casco historico de Rotemburgo, en Baviera.")
 
 ## 8\. Viaje en coche en familia por Baviera: de Playmobil a Legoland
 
@@ -120,7 +120,7 @@ al **Castillo de Neuschwanstein**, conocido como el castillo del Rey Loco, y de 
 el distrito de Garmisch-Partenkirchen, repleto de pequeños pueblos bávaros, antes de 
 llegar a Múnich. 
 
-![Ruta en coche por Suiza](etheria_images/2021/02/Coche-suiza-montanas.jpg "Ruta en coche por Suiza. © Mattias Nutt")
+![Ruta en coche por Suiza](etheria-images/2021/02/Coche-suiza-montanas.jpg "Ruta en coche por Suiza. © Mattias Nutt")
 
 ## 9\. Suiza en coche eléctrico
 

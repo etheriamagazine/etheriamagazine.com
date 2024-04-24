@@ -1,22 +1,22 @@
 ---
 title: "15 planes en Ibiza que puedes hacer en invierno"
 date: 2021-11-05
-coverImage: etheria_images/2021/10/cala-ibiza-con-amigas.jpg
+coverImage: etheria-images/2021/10/cala-ibiza-con-amigas.jpg
 categories: 
   - viajes-con-amigas
   - viajes-romanticos
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - nuriacortes
+authors: 
+  - Nuria Cortés
 ---
 
 Descubre todo lo que puedes ver y hacer en Ibiza en invierno y organiza una escapada con 
 tu pareja o con esa amiga con la que siempre lo pasas tan bien. Aquí encontramos 15 
 planes que puedes hacer en temporada baja y con los que lo pasarás en grande. 
 
-![puerta dalt vila ibiza](etheria_images/2021/11/casa-dalt-vila.jpg "Puerta de Dalt Villa, Ibiza. © P. García")
+![puerta dalt vila ibiza](etheria-images/2021/11/casa-dalt-vila.jpg "Puerta de Dalt Villa, Ibiza. © P. García")
 
 Fuera de temporada, cuando sólo quedan los lugareños y los enamorados de la isla, podrás 
 conocer la otra Ibiza, más tranquila y auténtica, aquella que se disfruta a través de 
@@ -28,7 +28,7 @@ especial](https://etheriamagazine.com/2020/02/14/20-restaurantes-romanticos-de-i
 o disfrutar de unos días en la isla con esa amiga con la que siempre te lo pasas tan 
 bien. Seguro que hay mucho sobre lo que ponerse al día… 
 
-![calas ibiza invierno](etheria_images/2021/10/cala-ibiza-con-amigas.jpg "Aprovecha las calas de Ibiza en invierno, con apenas turistas. © Alex Kulikov")
+![calas ibiza invierno](etheria-images/2021/10/cala-ibiza-con-amigas.jpg "Aprovecha las calas de Ibiza en invierno, con apenas turistas. © Alex Kulikov")
 
 ## Llegar a Ibiza después del verano
 
@@ -42,7 +42,7 @@ salto a la isla tanto si la escapada es para una semana como si es para un fin d
 o un puente. Las compañías aéreas que mantienen vuelos directos durante el invierno son 
 Ryanair, Vueling, Iberia y Air Europa. 
 
-![mercadillo las dalias ibiza](etheria_images/2021/11/mercado-las-dalias-ibiza.jpg "Mercadillo de las Dalias, en Ibiza. © Pepa García")
+![mercadillo las dalias ibiza](etheria-images/2021/11/mercado-las-dalias-ibiza.jpg "Mercadillo de las Dalias, en Ibiza. © Pepa García")
 
 ## Planes invernales en Ibiza
 
@@ -58,7 +58,7 @@ son pocos los restaurantes costeros que permanecen **abiertos durante la tempora
 baja**. Toma nota de algunos ejemplos: **La Escollera**, **Port Balansat**, **Sa 
 Caleta**, **Can Pujol**, **The Boat House**, **Yemanjá** y **Cala Martina**. 
 
-![Restaurante La Escollera, restaurantes romanticos ibiza](etheria_images/2020/02/restaurante-romantico-ibiza-la-escollera-900x574.jpg "Restaurante La Escollera (Ibiza). © Luana Failla/ La Escollera")
+![Restaurante La Escollera, restaurantes romanticos ibiza](etheria-images/2020/02/restaurante-romantico-ibiza-la-escollera-900x574.jpg "Restaurante La Escollera (Ibiza). © Luana Failla/ La Escollera")
 
 ### 2\. Descubrir valles escondidos
 
@@ -67,7 +67,7 @@ intacto su carácter payés. El llamado Camí de Benimussa atraviesa el valle co
 tráfico, lo que lo convierte en una vía muy agradable para recorrer en bicicleta. El 
 valle de Es Broll, cerca de Sant Rafel, resulta perfecto para senderistas. 
 
-![dalt vila casco historico ibiza](etheria_images/2021/10/dalt-vila-ibiza.jpg "Dalt Vila. © Belinda Fewings/ Kadir Celep")
+![dalt vila casco historico ibiza](etheria-images/2021/10/dalt-vila-ibiza.jpg "Dalt Vila. © Belinda Fewings/ Kadir Celep")
 
 ### 3\. Recorrer las murallas de Dalt Vila
 
@@ -84,7 +84,7 @@ es así, toma nota de estos restaurantes donde también comerás muy bien: **Can
 **Donde Marian y Miguel**, Can Caus, **Nagai Ibiza**, **Es Caliu**, **Bar Costa** y **El 
 Naranjo**. 
 
-![bar costa con chimenea en santa gertrudis](etheria_images/2021/11/bar-costa-santa-gertrudis-chimenea.jpg "Bar Costa en Santa Gertrudis (Ibiza). © Pepa García")
+![bar costa con chimenea en santa gertrudis](etheria-images/2021/11/bar-costa-santa-gertrudis-chimenea.jpg "Bar Costa en Santa Gertrudis (Ibiza). © Pepa García")
 
 ### 5\. Ver la floración de los almendros
 
@@ -93,7 +93,7 @@ fríos los meses previos), los valles de Ibiza comienzan a teñirse de blanco. A
 pueden encontrar almendros por toda la isla, lo suyo es acercarse a **Santa Agnès**, 
 cuyos campos lucen preciosos en estas fechas del año. 
 
-![almendros en flor ibiza](etheria_images/2021/11/almendros-flor-ibiza.jpg "Almendros en flor en Ibiza. © Pepa García")
+![almendros en flor ibiza](etheria-images/2021/11/almendros-flor-ibiza.jpg "Almendros en flor en Ibiza. © Pepa García")
 
 ### 6\. Alojarse en el campo y… desconectar
 
@@ -103,7 +103,7 @@ hedonistas. Y no faltan opciones para recluirse: Casa Maca, Can Pujolet, Can Cur
 Gasi, Atzaró Ibiza, Can Lluc… Si prefieres vistas al mar, podrás disfrutar de ellas, por 
 ejemplo, desde Hostal La Torre y Hotel Portmany, en Sant Antoni de Portmany. 
 
-![can lluc hotel rural en ibiza](etheria_images/2021/11/Can-Lluc-hotel-rural.jpg "© Can Lluc Hotel Rural.")
+![can lluc hotel rural en ibiza](etheria-images/2021/11/Can-Lluc-hotel-rural.jpg "© Can Lluc Hotel Rural.")
 
 ### 7\. Apuntarse a las citas gastronómicas
 
@@ -113,7 +113,7 @@ y eventos gastronómicos que se celebran a lo largo del invierno: Jornadas Gastr
 de Ibiza Sabors, Restaura’t, Pintxa Sant Antoni, Feria des Gerret, Patrimoni 
 Gastronomic… 
 
-![bullit de peix ibiza](etheria_images/2021/11/pescado-ibiza.jpg "Bullit de peix, una de las recetas tradicionales de Ibiza. © P.García")
+![bullit de peix ibiza](etheria-images/2021/11/pescado-ibiza.jpg "Bullit de peix, una de las recetas tradicionales de Ibiza. © P.García")
 
 ### 8\. Ir de museos y otras visitas culturales
 
@@ -131,7 +131,7 @@ trazados con poco tránsito. Las rutas se pueden consultar y descargar en la [we
 de Turismo de Ibiza](https://ibiza.travel/), así como en las de Sant Joan de Labritja, 
 Sant Josep de sa Talaia, Sant Antoni de Portman y Santa Eulària des Riu. 
 
-![cala ibiza invierno](etheria_images/2021/11/cala-ibiza.jpg "En invierno también hay días idóneos para disfrutar de la playa en Ibiza. © P. García")
+![cala ibiza invierno](etheria-images/2021/11/cala-ibiza.jpg "En invierno también hay días idóneos para disfrutar de la playa en Ibiza. © P. García")
 
 ### 10\. Disfrutar de un pícnic en una cala
 
@@ -142,7 +142,7 @@ Portitxol**, **Cala Llentrisca** y **Punta Galera** son algunos ejemplos, aunque
 costa está llena de rincones marineros con encanto que se descubren en cuanto una se 
 aventura a pasear por la costa. 
 
-![atardecer es vedra ibiza](etheria_images/2021/11/atardecer-es-vedra.jpg "El sol se oculta tras Es Vedrá. © Pepa García")
+![atardecer es vedra ibiza](etheria-images/2021/11/atardecer-es-vedra.jpg "El sol se oculta tras Es Vedrá. © Pepa García")
 
 ## 5 planes más en Ibiza en invierno
 
@@ -161,7 +161,7 @@ invierno ibicenco en Cas’s Pagès, Es Rebost de Can Prats o **Ca n’Alfredo**
 **15\. Disfrutar cada día de una puesta de sol** diferente: platges de Comte, Sant 
 Antoni, cala d´Hort, Cala Molí, Cala Tarida, Punta Galera, desde lo alto de Sa Talaia… 
 
-![dalt vila patrimonio humanidad ibiza](etheria_images/2021/11/dalt-vila-ibiza.jpg "Dalt Vila, el casco antiguo de Ibiza, fue declarado Patrimonio de la Humanidad. © Pepa G.")
+![dalt vila patrimonio humanidad ibiza](etheria-images/2021/11/dalt-vila-ibiza.jpg "Dalt Vila, el casco antiguo de Ibiza, fue declarado Patrimonio de la Humanidad. © Pepa G.")
 
 ### También te puede interesar...
 

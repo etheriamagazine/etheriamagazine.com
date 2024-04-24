@@ -1,18 +1,18 @@
 ---
 title: "Kenia, 10 experiencias que nunca olvidarás"
 date: 2018-10-25
-coverImage: etheria_images/2018/10/elefante-amboseli-viaje-mujeres-kenia-e1566113172608.jpg
+coverImage: etheria-images/2018/10/elefante-amboseli-viaje-mujeres-kenia-e1566113172608.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
 Kenia es uno de los lugares míticos de África que todo viajero debe tener en cuenta en su plan de viaje. Así que prepara un equipaje ligero para dejar hueco a todas las vivencias que acumularás. Te convertirás en amante de los grandes espacios y de los horizontes salpicados de acacias, también en una hábil observadora de fauna y en una coleccionista de colores africanos. Si quieres saber qué ver en Kenia, sigue leyendo...
 
-![que ver en kenia reserva masai mara](etheria_images/2018/10/Etheria-viajes-mujeres-Kenia-e1565176651337.jpg "Migración de ñus en la Reserva Nacional Masai Mara.")
+![que ver en kenia reserva masai mara](etheria-images/2018/10/Etheria-viajes-mujeres-Kenia-e1565176651337.jpg "Migración de ñus en la Reserva Nacional Masai Mara.")
 
 ## 1\. Busca al rey león en Masai Mara
 
@@ -27,7 +27,7 @@ parque se vive **la migración más fascinante del planeta**. Los miles de ñus,
 cebras, que viajan en busca de pastos verdes, ofrecen el mayor espectáculo de vida 
 salvaje del mundo. 
 
-![flamencos lago bogoria que ver en kenia](etheria_images/2018/10/Etheria-viaje-kenia-flamencos-e1566113011116.jpg "Flamencos enanos en el lago Bogoria.")
+![flamencos lago bogoria que ver en kenia](etheria-images/2018/10/Etheria-viaje-kenia-flamencos-e1566113011116.jpg "Flamencos enanos en el lago Bogoria.")
 
 ## 2\. Súmate a una reunión flamenca en el lago Bogoria
 
@@ -37,7 +37,7 @@ ecuador terrestre. Después de extasiarte con su belleza hídrica, distinguirás
 un tono rosáceo matizando la superficie del agua, estás ante el hogar de una de las 
 mayores poblaciones de **flamencos enanos del mundo**, un ave que te va a fascinar. 
 
-![chimpances que ver en kenia](etheria_images/2018/10/chimpance-kenia-viaje-mujeres-e1566113033583.jpg "Adopta un chimpancé en Kenia.")
+![chimpances que ver en kenia](etheria-images/2018/10/chimpance-kenia-viaje-mujeres-e1566113033583.jpg "Adopta un chimpancé en Kenia.")
 
 ## 3\. Adopta un chimpancé en Ol Pejeta
 
@@ -53,7 +53,7 @@ recuperan de situaciones traumáticas, causadas normalmente por el ser humano. A
 este primate tan cercano a nuestra especie –compartimos el 99% del ADN– y, si puedes, 
 échales una mano mediante una adopción. 
 
-![felinos parque samburu que ver en kenia](etheria_images/2018/10/viaje-kenia-mujeres-parque-samburu-e1566113071933.jpg "En el Parque Nacional Samburu podrás ver felinos y al gerenuc o 'gacela jirafa'.")
+![felinos parque samburu que ver en kenia](etheria-images/2018/10/viaje-kenia-mujeres-parque-samburu-e1566113071933.jpg "En el Parque Nacional Samburu podrás ver felinos y al gerenuc o 'gacela jirafa'.")
 
 ## 4\. Muévete entre leopardos en el Parque Nacional Samburu
 
@@ -65,7 +65,7 @@ leopardo serán encuentros muy probables. Aquí, donde se rodó la película _Na
 sobre la leona Elsa, te encontrarás ante el gerenuc, uno de los animales africanos más 
 curiosos, también llamado gacela jirafa pues recuerda a ambos animales. 
 
-![rinocerontes solio ranch kenia](etheria_images/2018/10/rinocerontes-viajes-mujeres-kenia-e1566113098621.jpg "El paraíso de los rinocerontes se encuentra en Solio Ranch (Kenia).")
+![rinocerontes solio ranch kenia](etheria-images/2018/10/rinocerontes-viajes-mujeres-kenia-e1566113098621.jpg "El paraíso de los rinocerontes se encuentra en Solio Ranch (Kenia).")
 
 ## 5\. Descubre el paraíso de rinocerontes en Solio Ranch
 
@@ -77,7 +77,7 @@ las numerosas aves que se reúnen en su humedal, visitar una plantación de caf�
 noche, serás capaz de abandonar el placer de alojarte en su hotel de ensueño sólo para 
 vivir un excitante safari en busca del leopardo. 
 
-![que ver en kenia aberdare](etheria_images/2018/10/aberdares-kenia-viajes-mujeres-e1566113122260.jpg "Monos colobos en Aberdare, un bosque de montaña (Kenia).")
+![que ver en kenia aberdare](etheria-images/2018/10/aberdares-kenia-viajes-mujeres-e1566113122260.jpg "Monos colobos en Aberdare, un bosque de montaña (Kenia).")
 
 ## 6\. Pasea por la selva de las montañas Aberdare
 
@@ -91,7 +91,7 @@ los **monos colobos**, toda una aventura entre altísimos árboles y las llamati
 lobelias gigantes, plantas con grandes rosetas de las que surgen unas enormes varas 
 cubiertas de flores. 
 
-![que ver en kenia lago baringo](etheria_images/2018/10/lago-baringo-viaje-mujeres-kenia-e1566113146665.jpg "Pesca en el lago Baringo.")
+![que ver en kenia lago baringo](etheria-images/2018/10/lago-baringo-viaje-mujeres-kenia-e1566113146665.jpg "Pesca en el lago Baringo.")
 
 ## 7\. Viaja en bote de pesca tradicional en el lago Baringo
 
@@ -106,7 +106,7 @@ región que pesca en el lago en balsas o gadich, hechas de árboles que crecen e
 orilla e incluso te animarás a atrapar como ellos alguna de las 7 especies de peces de 
 los que se alimentan. 
 
-![que ver en kenia Parque Nacional de Amboseli](etheria_images/2018/10/elefante-amboseli-viaje-mujeres-kenia-e1566113172608.jpg "Elefante en el Parque Nacional Amboseli (Kenia).")
+![que ver en kenia Parque Nacional de Amboseli](etheria-images/2018/10/elefante-amboseli-viaje-mujeres-kenia-e1566113172608.jpg "Elefante en el Parque Nacional Amboseli (Kenia).")
 
 ## 8\. Vistas al Kilimanjaro desde el Parque Nacional Amboseli
 
@@ -119,7 +119,7 @@ de rala vegetación también descubrirás fácilmente impalas, jirafas, cebras, 
 ñus, además de alguna familia de leones y a los ágiles guepardos. Para hacerlo de una 
 forma segura no olvides la regla esencial de Amboseli, no abandones nunca tu vehículo. 
 
-![flamencos en lago nakuru](etheria_images/2018/10/flamencos-lago-nakuru-viajes-mujeres-e1566113198779.jpg "Flamencos en lago Nakuru (Kenia).")
+![flamencos en lago nakuru](etheria-images/2018/10/flamencos-lago-nakuru-viajes-mujeres-e1566113198779.jpg "Flamencos en lago Nakuru (Kenia).")
 
 ## 9\. Lago Nakuru, el paraíso de las aves
 
@@ -133,7 +133,7 @@ del planeta. El lago Nakuru, alcalino y con aguas ricas en algas, es **un paraí
 aves** como los flamencos, así como un santuario de jirafas y rinoceronte blanco y negro 
 a los que protege de la caza ilegal. 
 
-![que ver en kenia etnias samburu y masai](etheria_images/2018/10/samburus-masais-viaje-kenia-e1566113231970.jpg "Etnias samburu y masai (Kenia).")
+![que ver en kenia etnias samburu y masai](etheria-images/2018/10/samburus-masais-viaje-kenia-e1566113231970.jpg "Etnias samburu y masai (Kenia).")
 
 ## 10\. Conoce a los samburus y los masais
 

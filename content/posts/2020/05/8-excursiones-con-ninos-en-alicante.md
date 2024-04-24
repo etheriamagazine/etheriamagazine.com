@@ -1,17 +1,17 @@
 ---
 title: "8 excursiones con niños en Alicante"
 date: 2020-05-28
-coverImage: etheria_images/2020/05/Alicante-Tabarca.jpg
+coverImage: etheria-images/2020/05/Alicante-Tabarca.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Las playas de Alicante son garantía de sol y diversión para toda la familia. Pero no hay que olvidar que esta provincia guarda pueblos llenos de historia, palmerales, castillos y una naturaleza en su interior que merece la pena conocer. Aquí te proponemos 8 excursiones con niños en Alicante para descubrir algo más que sus playas en tus vacaciones en familia.
 
-![excursiones con niños, viajes a Alicante, viajes en familia](etheria_images/2020/05/Alicante-Tabarca.jpg "Isla de Tabarca.")
+![excursiones con niños, viajes a Alicante, viajes en familia](etheria-images/2020/05/Alicante-Tabarca.jpg "Isla de Tabarca.")
 
 La provincia alicantina está muy asociada al turismo de sol y playa por sus excelentes 
 arenales y su gran capacidad turística. Pero si se viaja a Alicante con niños, se puede 
@@ -36,7 +36,7 @@ Tabarca](https://www.civitatis.com/es/alicante/ferry-isla-tabarca/?aid=10211) y 
 en barco a Tabarca con una actividad de 
 snorkel](https://www.civitatis.com/es/santa-pola/excursion-tabarca-snorkel/?aid=10211). 
 
-![cabo fontana, marina alta](etheria_images/2019/08/viaje-denia-javea-Cabo-de-la-fontana.jpg "Cabo de la Fontana (Jávea). ©M.E.")
+![cabo fontana, marina alta](etheria-images/2019/08/viaje-denia-javea-Cabo-de-la-fontana.jpg "Cabo de la Fontana (Jávea). ©M.E.")
 
 ## 2\. La Marina Alta: Dénia y Jávea
 
@@ -57,7 +57,7 @@ Montgó](http://www.denia.net/parque-natural-montgo) que cuenta con rutas de sen
 señalizadas con distinto nivel de dificultad. Esta es una opción activa estupenda para 
 disfrutar Alicante con niños y en contacto con la naturaleza. 
 
-![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria_images/2020/05/Alicante-Guadalest.jpg "Guadalest.")
+![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria-images/2020/05/Alicante-Guadalest.jpg "Guadalest.")
 
 ## 3\. Guadalest y las fuentes del Algar
 
@@ -70,7 +70,7 @@ casas de muñecas. Después, podéis visitar las cascadas de [las Fuentes del
 Algar](https://lasfuentesdelalgar.com/info_general/), a media hora en coche, un bello 
 paraje natural donde, además de disfrutar del paisaje, os podréis dar un baño. 
 
-![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria_images/2020/05/Alicante-castillo.jpg "Castillo de Santa Bárbara desde el Puerto Deportivo de Alicante.")
+![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria-images/2020/05/Alicante-castillo.jpg "Castillo de Santa Bárbara desde el Puerto Deportivo de Alicante.")
 
 ## 4\. Visitar el castillo de Santa Bárbara en Alicante
 
@@ -83,7 +83,7 @@ tenéis dos opciones: en coche por la cara norte del monte Benacantil o en un as
 excavado en la roca desde la playa del Postiguet. Una buena opción es subir en ascensor 
 y descender a pie atravesando el parque de la Ereta. 
 
-![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria_images/2020/05/Alicante-elche.jpg "Palmeral de Elche.")
+![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria-images/2020/05/Alicante-elche.jpg "Palmeral de Elche.")
 
 ## 5\. Elche y su palmeral
 
@@ -99,7 +99,7 @@ Madrid. Si queréis completar la visita con algo de naturaleza, podéis acercaro
 zona de humedales del **Parque Natural El Hondo** y al **Parque Natural de Las 
 Salinas**, dos buenos lugares para avistar aves. 
 
-![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria_images/2020/05/Alicante-kayak-paddel-surf-san-juan-capello.jpg "Kayak y paddle en Campello y Playa de San Juan.")
+![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria-images/2020/05/Alicante-kayak-paddel-surf-san-juan-capello.jpg "Kayak y paddle en Campello y Playa de San Juan.")
 
 ## 6\. Kayak y paddle surf en Campello y Playa de San Juan
 
@@ -110,7 +110,7 @@ es perfecto para practicar deportes acuáticos como el kayak y el paddle surf, q
 son estupendos para realizar un actividad en familia. Son el complemento ideal para un 
 jornada de playa en la que no todo sea tumbona y castillos en la arena. 
 
-![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria_images/2020/05/Elche-Altea.jpg "Iglesia del Consuelo en Altea.")
+![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria-images/2020/05/Elche-Altea.jpg "Iglesia del Consuelo en Altea.")
 
 ## 7\. Altea en familia
 
@@ -122,7 +122,7 @@ un paseo por el pueblo. Y si eres una auténtica 'instagramer', puedes apuntarte
 visitas de Civitatis para aficionados a [Instagram](https://www.civitatis.com/es/denia/tour-fotografico-altea/?aid=10211) 
 y retratar a tu familia en los rincones más bonitos de Altea. 
 
-![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria_images/2020/05/Alicante-Calpe-mirador.jpg "Vista de Calpe desde el monte Toix.")
+![excursiones con niños, viajes a Alicante, viajes en familia, vacaciones en Alicante](etheria-images/2020/05/Alicante-Calpe-mirador.jpg "Vista de Calpe desde el monte Toix.")
 
 ## 8\. Calpe y el peñón de Ifach
 

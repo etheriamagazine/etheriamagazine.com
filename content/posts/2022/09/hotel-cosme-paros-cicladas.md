@@ -1,11 +1,11 @@
 ---
 title: "Cosme, a Luxury Collection Resort, Paros, un refugio de lujo en las islas Cícladas"
 date: 2022-09-02
-coverImage: etheria_images/2022/08/cosme-paros-piscina.jpg
+coverImage: etheria-images/2022/08/cosme-paros-piscina.jpg
 categories: 
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Las islas Cícladas son promesa de cielos azules y casas inmaculadas. Para vivirlas algo 
@@ -13,7 +13,7 @@ más alejada de los principales focos turísticos de Mikonos y Santorini, elige 
 Paros. Y en ella el pequeño y recién inaugurado hotel Cosme, a Luxury Collection Resort, 
 Paros. Se convertirá en uno de tus sitios favoritos en el mundo. 
 
-![infinity pool en la isla de Paros](etheria_images/2022/08/cosme-paros-piscina.jpg "Piscina del hotel Cosme Paros.")
+![infinity pool en la isla de Paros](etheria-images/2022/08/cosme-paros-piscina.jpg "Piscina del hotel Cosme Paros.")
 
 Las islas griegas siempre nos evocan un verano de los de verdad, de luz intensa y 
 colores brillantes, entre el mar, los pueblos con encanto y gastronomía mediterránea. 
@@ -35,7 +35,7 @@ alojamientos que asemejan las intrincadas calles de un pueblo mediterráneo. Y t
 **acceso directo a la playa**, donde las tumbonas y sombrillas del hotel te recibirán 
 con la promesa de un descanso perfecto. 
 
-![Tumbonas en la terraza del Cosme Paros](etheria_images/2022/08/cosme-paros-terraza.jpg "Terraza de una de las habitaciones del hotel Cosme Paros.")
+![Tumbonas en la terraza del Cosme Paros](etheria-images/2022/08/cosme-paros-terraza.jpg "Terraza de una de las habitaciones del hotel Cosme Paros.")
 
 ## Las habitaciones
 
@@ -60,7 +60,7 @@ preciosas de la bahía. Y el restaurante **Parostià**, en primera línea de pla
 chef griego Yiannis Kioroglou, es perfecto para disfrutar de la cocina local, griega y 
 mediterránea, tanto a la hora del almuerzo como durante la cena. 
 
-![piscina del spa Cosme Paros](etheria_images/2022/08/Cosme-paros-detalle.jpg "Rincón del Spa Elios.")
+![piscina del spa Cosme Paros](etheria-images/2022/08/Cosme-paros-detalle.jpg "Rincón del Spa Elios.")
 
 ## El Spa Elios
 

@@ -1,12 +1,12 @@
 ---
 title: "Enoturismo en Niágara, un viaje diferente a Canadá"
 date: 2018-11-20
-coverImage: etheria_images/2018/11/icewinebar-Wineries-of-Niagara-on-the-Lake.jpg
+coverImage: etheria-images/2018/11/icewinebar-Wineries-of-Niagara-on-the-Lake.jpg
 categories: 
   - viajes-con-amigas
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
+authors: 
   - Eva Madruga
 ---
 
@@ -15,7 +15,7 @@ contemplar sus famosas cataratas. Una vez visto este espectáculo natural merece
 aprovechar el viaje para descubrir también su sobresaliente turismo enológico. Te 
 revelamos algunas de las sorpresas vinícolas que podrás encontrar en Canadá. 
 
-![enoturismo en canada, viajes a canada, vinos en niagara](etheria_images/2018/11/viaje-mujeres-vinos-canada-niagara-2.jpg "Canadá es un destino de moda para amantes de la gastronomía y el vino. ©Wineries of Niagara-on-the-Lake.")
+![enoturismo en canada, viajes a canada, vinos en niagara](etheria-images/2018/11/viaje-mujeres-vinos-canada-niagara-2.jpg "Canadá es un destino de moda para amantes de la gastronomía y el vino. ©Wineries of Niagara-on-the-Lake.")
 
 Hasta la provincia canadiense de Ontario se suele ir en busca de su postal más conocida: 
 las **cataratas del Niágara**. Este impresionante arco de agua, que se abalanza sobre un 
@@ -35,7 +35,7 @@ escarpa del Niágara; el condado del Príncipe Eduardo; Niagara-on-the-Lake y lo
 llaman zonas emergentes que incluyen viñedos cerca de Long Point; los huertos de Oak 
 Ridges Moraine (al norte de Toronto), Georgian Bay y las colinas de Northumberland. 
 
-![cataratas niagara, enoturismo en niagara, viajes de vinos canada](etheria_images/2018/11/cataratas-niagara-canada-etheria-1024x666.jpg "¿Qué te parece combinar una visita a las cataratas del Niágara con catas de icewine en algunas bodegas?")
+![cataratas niagara, enoturismo en niagara, viajes de vinos canada](etheria-images/2018/11/cataratas-niagara-canada-etheria-1024x666.jpg "¿Qué te parece combinar una visita a las cataratas del Niágara con catas de icewine en algunas bodegas?")
 
 ## Enoturismo en Niagara-on-the-Lake
 
@@ -47,7 +47,7 @@ vienen recogidas todas las bodegas próximas. Esta zona goza de un peculiar micr
 una privilegiada situación entre los lagos Erie y Ontario, lo que favorece una mayor 
 insolación y una protección natural de los fríos inviernos. 
 
-![enoturismo en canada, vinos en niagara, viaje romantico en canada](etheria_images/2018/11/bodegas-canada-niagara.jpg "Jardín del Vino en © Peller Estates Winery of Niagara-on-the-Lake.")
+![enoturismo en canada, vinos en niagara, viaje romantico en canada](etheria-images/2018/11/bodegas-canada-niagara.jpg "Jardín del Vino en © Peller Estates Winery of Niagara-on-the-Lake.")
 
 La tradición vitivinícola de Canadá es relativamente reciente, se remonta a unos 200 
 años atrás. Al principio los viticultores empleaban uvas de variedades nativas de la 
@@ -62,7 +62,7 @@ tintos con merlot, cabernet franc y sirah.
 > En casi todos los viñedos se destina una buena parte a cultivar riesling o vidal, 
 > variedades con las que se elabora el prestigioso vino de hielo dulce o _icewine_. 
 
-![enoturismo en canada, viajes a canada, vinos en niagara](etheria_images/2018/11/uvas-heladas-viaje-canada-vinos.jpg "Las uvas deben estar congeladas antes de la vendimia. © Wineries of Niagara-on-the-Lake")
+![enoturismo en canada, viajes a canada, vinos en niagara](etheria-images/2018/11/uvas-heladas-viaje-canada-vinos.jpg "Las uvas deben estar congeladas antes de la vendimia. © Wineries of Niagara-on-the-Lake")
 
 ## Uvas heladas
 
@@ -86,7 +86,7 @@ de bien con los dulces, en especial con el chocolate negro. Y tal es su fama que
 celebración propia: el **Festival del Vino de Hielo** que tiene lugar en el mes de 
 enero. 
 
-![enoturismo en canada, viajes a canada, vinos en niagara](etheria_images/2018/11/viaje-mujeres-vinos-canada-niagara.jpg "En Niágara existen varios festivales en torno al vino. © Wineries of Niagara-on-the-Lake.")
+![enoturismo en canada, viajes a canada, vinos en niagara](etheria-images/2018/11/viaje-mujeres-vinos-canada-niagara.jpg "En Niágara existen varios festivales en torno al vino. © Wineries of Niagara-on-the-Lake.")
 
 ## Festivales entre copas
 
@@ -112,7 +112,7 @@ certificación LEED (Leadership in Energy and Environmental Design), por evitar 
 que impactan en el medio ambiente. El precio de las catas varía de un establecimiento a 
 otro, pero probar cuatro vinos cuesta aproximadamente entre 15-20$. 
 
-![enoturismo en canada, vinos en niagara](etheria_images/2018/11/icewinebar-Wineries-of-Niagara-on-the-Lake.jpg "Icewinebar. © Wineries of Niagara-on-the-Lake.")
+![enoturismo en canada, vinos en niagara](etheria-images/2018/11/icewinebar-Wineries-of-Niagara-on-the-Lake.jpg "Icewinebar. © Wineries of Niagara-on-the-Lake.")
 
 ## Un paseo por Niagara-on-the-Lake
 
@@ -125,7 +125,7 @@ Histórica. Destino ideal, además, para los amantes del teatro, porque aquí se
 abril a diciembre el **Festival Shaw**, dedicado al dramaturgo irlandés, George Bernard 
 Shaw. 
 
-![Niagra Apothecary en NOTL.](etheria_images/2018/11/NOTL-Niagara-viaje-mujeres.jpg "Niagra Apothecary en NOTL. © Turismo Niagara-on-the-Lake.")
+![Niagra Apothecary en NOTL.](etheria-images/2018/11/NOTL-Niagara-viaje-mujeres.jpg "Niagra Apothecary en NOTL. © Turismo Niagara-on-the-Lake.")
 
 Otro aspecto que cautiva de la ciudad son las estilosas tiendas que hay en su calle 
 principal, Queen Street, que invitan a curiosear (¡y a comprar!). Dos de las que te 

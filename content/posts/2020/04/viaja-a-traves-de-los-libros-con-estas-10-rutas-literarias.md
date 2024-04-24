@@ -1,13 +1,13 @@
 ---
 title: "10 libros que invitan a realizar rutas literarias"
 date: 2020-04-09
-coverImage: etheria_images/2020/04/venecia.jpg
+coverImage: etheria-images/2020/04/venecia.jpg
 categories: 
   - libros-de-viajes
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Una de las mejores formas de viajar con la imaginación es la que acompaña a la lectura 
@@ -16,7 +16,7 @@ lectoras que trasladan o evocan lugares de una forma tan nítida que en muchas o
 se pueden recrear con visitas turísticas guiadas para recorrer los escenarios de la 
 novela. 
 
-![Trilogía de Dolores Navarro y paisaje de Valle de Baztán, en Navarra.](etheria_images/2020/04/rutas-literarias-baztan-dolores-redondo-900x574.jpg "Valle del Baztán.")
+![Trilogía de Dolores Navarro y paisaje de Valle de Baztán, en Navarra.](etheria-images/2020/04/rutas-literarias-baztan-dolores-redondo-900x574.jpg "Valle del Baztán.")
 
 ## 1\. Valle del Baztán en la Trilogía del Baztán
 
@@ -28,7 +28,7 @@ tradiciones y leyendas locales. Existen [rutas guiadas por el valle del
 Baztán](https://www.civitatis.com/es/pamplona/excursion-valle-baztan/?aid=10211) para 
 recorrer las localizaciones de esta trilogía (precio: desde 89 €). 
 
-![Libro de Donna León y canales de Venecia.](etheria_images/2020/04/rutas-literarias-venecia-brunetti-900x478.jpg "Canal de Venecia. © Ricardo Gómez Ángel")
+![Libro de Donna León y canales de Venecia.](etheria-images/2020/04/rutas-literarias-venecia-brunetti-900x478.jpg "Canal de Venecia. © Ricardo Gómez Ángel")
 
 ## 2\. Venecia con el comisario Brunetti
 
@@ -42,7 +42,7 @@ turística (eso sí, sin los cadáveres habituales en toda novela policiaca) y *
 guiadas para realizarlos (luciascarpa.com)**. La última obra de la saga policiaca de 
 Brunetti, _Con el agua al cuello_, ha sido editada hace pocas semanas. 
 
-![Estatua de Ana Ozores en Oviedo.](etheria_images/2020/04/rutas-literarias-regenta-oviedo-900x600.jpg "Estatua de Ana Ozores en Oviedo.")
+![Estatua de Ana Ozores en Oviedo.](etheria-images/2020/04/rutas-literarias-regenta-oviedo-900x600.jpg "Estatua de Ana Ozores en Oviedo.")
 
 ## 3\. Vetusta (Oviedo) en 'La Regenta'
 
@@ -55,7 +55,7 @@ Oviedo para recorrer los escenarios de la obra (no están siempre en activo, pue
 tengas que hacer por libre). Si no conoces la ciudad, apúntate al menos a un [freetour 
 de Civitatis](https://www.civitatis.com/es/oviedo/free-tour-oviedo/?aid=10211). 
 
-![Libro Poeta en Nueva York y fotografía de Nueva York desde el puente de Brooklyn.](etheria_images/2020/04/rutas-literarias-nueva-york-garcia-lorca-900x377.jpg "Nueva York desde el puente de Brooklyn. © Colton Duke")
+![Libro Poeta en Nueva York y fotografía de Nueva York desde el puente de Brooklyn.](etheria-images/2020/04/rutas-literarias-nueva-york-garcia-lorca-900x377.jpg "Nueva York desde el puente de Brooklyn. © Colton Duke")
 
 ## 4\. Nueva York con 'Poeta en Nueva York'
 
@@ -68,7 +68,7 @@ edificios como la esencia y el ambiente de la Gran Manzana a finales de la déca
 editorial Reino de Cordelia, que incluye las cartas que Federico escribió a su familia 
 durante esta estancia, mucho mejor. 
 
-![Parque Nacional Samburu en Kenia.](etheria_images/2020/04/rutas-literarias-kenia-karen-blixen-900x600.jpg "Parque Nacional Samburu en Kenia. © Photos by Becks")
+![Parque Nacional Samburu en Kenia.](etheria-images/2020/04/rutas-literarias-kenia-karen-blixen-900x600.jpg "Parque Nacional Samburu en Kenia. © Photos by Becks")
 
 ## 5\. Kenia con 'Memorias de África'
 
@@ -81,7 +81,7 @@ dejarse llevar por sus palabras para trasladarse a estos paisajes, que tan bien 
 plasmados en la película del mismo nombre protagonizada por Meryl Streep y Robert 
 Reford. 
 
-![Libro Fortunata y Jacinta y fotografía de la Puerta de la calle Toledo en la Plaza Mayor de Madrid.](etheria_images/2020/04/rutas-literarias-madrid-perez-galdos-900x672.jpg "Puerta de la calle Toledo en la Plaza Mayor de Madrid. © Lucas Ricci")
+![Libro Fortunata y Jacinta y fotografía de la Puerta de la calle Toledo en la Plaza Mayor de Madrid.](etheria-images/2020/04/rutas-literarias-madrid-perez-galdos-900x672.jpg "Puerta de la calle Toledo en la Plaza Mayor de Madrid. © Lucas Ricci")
 
 ## 6\. Madrid con Benito Pérez Galdós
 
@@ -92,7 +92,7 @@ podrás [recorrer y reconocer calles](https://www.esmadrid.com/madrid-galdos), i
 monumentos, también cafés, tabernas, teatros y un modo de vida que ha quedado en la 
 memoria colectiva como lo auténticamente castizo. 
 
-![4 libros de Sherlock Holmes y la torre de Londres.](etheria_images/2020/04/rutas-literarias-sherlock-holmes-londres-900x406.jpg "Torre de Londres. © Eva Dang")
+![4 libros de Sherlock Holmes y la torre de Londres.](etheria-images/2020/04/rutas-literarias-sherlock-holmes-londres-900x406.jpg "Torre de Londres. © Eva Dang")
 
 ## 7\. Londres con Sherlock Holmes
 
@@ -111,7 +111,7 @@ una [visita
 guiada](https://www.getyourguide.es/london-l57/sherlock-holmes-tour-of-london-t25865/) 
 por la ciudad o una visita dedicada a este personaje en el Museo Madame Tussauds. 
 
-![Libro La Catedral del Mar e interior de la Basílica de Santa María del Mar.](etheria_images/2020/04/rutas-literarias-catedral-del-mar-900x418.jpg "Basílica de Santa María del Mar. © Carmen Peñaranda")
+![Libro La Catedral del Mar e interior de la Basílica de Santa María del Mar.](etheria-images/2020/04/rutas-literarias-catedral-del-mar-900x418.jpg "Basílica de Santa María del Mar. © Carmen Peñaranda")
 
 ## 8\. Barcelona con 'La catedral del mar'
 
@@ -126,7 +126,7 @@ adaptado en forma de serie, de la que ya hablamos en el artículo [8 localizacio
 Catedral del 
 Mar](https://etheriamagazine.com/2018/08/01/turismo-de-cine-catedral-del-mar/). 
 
-![Libro de la Trilogía de la ciudad blanca y Plaza de la Virgen Blanca en Vitoria.](etheria_images/2020/04/rutas-literarias-vitoria-900x382.jpg "Plaza de la Virgen Blanca en Vitoria.")
+![Libro de la Trilogía de la ciudad blanca y Plaza de la Virgen Blanca en Vitoria.](etheria-images/2020/04/rutas-literarias-vitoria-900x382.jpg "Plaza de la Virgen Blanca en Vitoria.")
 
 ## 9\. Vitoria con la Trilogía la Ciudad Blanca
 
@@ -140,7 +140,7 @@ los libros acompañadas de un mapa de los escenarios y sus escenarios forman par
 literarias por 
 Vitoria](https://www.civitatis.com/es/vitoria/tour-literario-vitoria/?aid=10211). 
 
-![Libro Paseos por Roma y fotografía del Foro Romano.](etheria_images/2020/04/paseos-literarios-roma.stehdhal-900x415.jpg "Foro Romano.")
+![Libro Paseos por Roma y fotografía del Foro Romano.](etheria-images/2020/04/paseos-literarios-roma.stehdhal-900x415.jpg "Foro Romano.")
 
 ## 10\. La Ciudad eterna con 'Paseos por Roma'
 

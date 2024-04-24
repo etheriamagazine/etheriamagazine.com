@@ -1,13 +1,13 @@
 ---
 title: "Consejos de Sania Jelic para viajar sola por África del sur y del este"
 date: 2024-01-31
-coverImage: etheria_images/2024/01/sania-desierto-namibia-duna.jpg
+coverImage: etheria-images/2024/01/sania-desierto-namibia-duna.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -17,7 +17,7 @@ de lo más útil. Tomad nota de sus recomendaciones a la hora de organizar el it
 al elegir el tipo de viaje. Todo, como siempre, contado en primera persona y en base a 
 las experiencias que ella está viviendo mientras continúa su periplo por estas tierras. 
 
-![sania Jelic en el desierto de Namibia](etheria_images/2024/01/africa-sania-namibia-desierto.jpg "Sania en su viaje sola por África, en Namibia. © Sania Jelic.")
+![sania Jelic en el desierto de Namibia](etheria-images/2024/01/africa-sania-namibia-desierto.jpg "Sania en su viaje sola por África, en Namibia. © Sania Jelic.")
 
 Hay diferentes formas de recorrer esta parte del mundo. Viajar sola a África siempre 
 conlleva una serie de retos, ya sea un viaje individual, alquilando un jeep 4x4 (con o 
@@ -34,7 +34,7 @@ cuatro chicas de Europa del este que alquilaron un pequeño Ford para recorrer s
 Namibia durante quince días y, la verdad, me gustaría saber cómo ha terminado su 
 aventura. 
 
-![Land Rover con tienda de campaña en el techo.](etheria_images/2024/01/africa-land-rover-tienda-techo.jpg "Land Rover con tienda de campaña en el techo. © Sania Jelic.")
+![Land Rover con tienda de campaña en el techo.](etheria-images/2024/01/africa-land-rover-tienda-techo.jpg "Land Rover con tienda de campaña en el techo. © Sania Jelic.")
 
 Hay muchos **factores que influyen en qué tipo de viaje** hacer y qué país elegir, como 
 los intereses personales, el coste del billete aéreo o el tipo de experiencia que se 
@@ -55,7 +55,7 @@ las agencias eligen alojamientos en campings y, una vez ahí, se puede hacer aca
 los días) o alojarse en alguno de los bungalós en los campings que los tengan 
 disponibles. 
 
-![acampada en África](etheria_images/2024/01/africa-nomadtours-acampada.jpg "Acampada en tiendas con la agencia Nomad Tours. © Sania Jelic.")
+![acampada en África](etheria-images/2024/01/africa-nomadtours-acampada.jpg "Acampada en tiendas con la agencia Nomad Tours. © Sania Jelic.")
 
 Antes del viaje, los viajeros deben elegir la opción de alojamiento que quieren. Dormir 
 en las tiendas de campaña suele ser más barato que hacerlo en bungalós o lodges. Estos 
@@ -68,7 +68,7 @@ va en cada salida y los grupos a veces salen con el guía en un idioma especific
 rutas diarias pueden incluir hasta 8 horas de trayecto; sin embargo, se visitan los 
 principales atractivos a lo largo del camino de manera segura. 
 
-![mujer junto a autobús en África](etheria_images/2024/01/africa-coche-safari-mujer.jpg "Existen muchos tipos de vehículos para hacer los safaris por África. © Sania Jelic.")
+![mujer junto a autobús en África](etheria-images/2024/01/africa-coche-safari-mujer.jpg "Existen muchos tipos de vehículos para hacer los safaris por África. © Sania Jelic.")
 
 Los asientos pueden parecer pequeños para un largo día de viaje y el perfil de los 
 pasajeros en los tours es bastante variado, por lo que es muy importante elegir bien la 
@@ -85,7 +85,7 @@ Para encontrar el tour y operador adecuado, recomiendo ponerse en contacto con [
 Overland Tours](https://www.africanoverlandtours.com), que puede ayudarte a encontrar el 
 viaje que mejor te vaya para que puedas aprovechar al máximo tu experiencia africana. 
 
-![camión para safaris en África](etheria_images/2024/01/africa-nomadtours-comida.jpg "Momento del almuerzo en un viaje con Nomad Tours. © Sania Jelic.")
+![camión para safaris en África](etheria-images/2024/01/africa-nomadtours-comida.jpg "Momento del almuerzo en un viaje con Nomad Tours. © Sania Jelic.")
 
 **Mi experiencia personal:** yo fui con [Nomad Tours](https://nomadtours.co.za) desde 
 Ciudad del Cabo hasta las Cataratas Victoria y la experiencia fue muy buena, tanto por 
@@ -119,7 +119,7 @@ al viajero combinar estancias en diferentes lugares. Además, colaboran con host
 organización del viaje es sencilla. Es un tipo de viaje muy utilizado por la gente 
 joven. 
 
-![camión de Sunway Safaris](etheria_images/2024/01/africa-autobus-safaris.jpg "Sunway Safari organiza viajes en este tipo de camión por varios países del sur y este de África. © Sania Jelic.")
+![camión de Sunway Safaris](etheria-images/2024/01/africa-autobus-safaris.jpg "Sunway Safari organiza viajes en este tipo de camión por varios países del sur y este de África. © Sania Jelic.")
 
 Otra opción son los **viajes organizados**, que combinan estancias en varios puntos del 
 país como por ejemplo una estancia de tres o cuatro días en Johannesburgo con una visita 
@@ -135,7 +135,7 @@ preparación previa. Las carreteras son a menudo de gravilla, sin ningún tipo d
 señalización, y hay contadas gasolineras y tiendas. Hay que llevar consigo todas las 
 provisiones, incluyendo la gasolina. 
 
-![Dunas en el desierto de Namib.](etheria_images/2024/01/sania-desierto-namibia-duna.jpg "Dunas en el desierto de Namib. © Sania Jelic.")
+![Dunas en el desierto de Namib.](etheria-images/2024/01/sania-desierto-namibia-duna.jpg "Dunas en el desierto de Namib. © Sania Jelic.")
 
 ### Otros países de África
 

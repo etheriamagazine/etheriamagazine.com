@@ -1,18 +1,18 @@
 ---
 title: "Hospes Palacio del Bailío, un hotel lleno de historia en Córdoba"
 date: 2022-04-29
-coverImage: etheria_images/2022/04/palacio-bailio-Suite-Al-Andalus.jpg
+coverImage: etheria-images/2022/04/palacio-bailio-Suite-Al-Andalus.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 Hay hoteles que añaden calidad a la experiencia de un viaje, y ese es el caso del Hospes Palacio del Bailío, un coqueto cinco estrellas ubicado en el corazón de Córdoba que no nos puede gustar más por su historia, su preciosa decoración llena de detalles y su gastronomía. Date el capricho de sentir esta ciudad como se merece.
 
-![Entrada al hotel Palacio del Bailío](etheria_images/2022/04/palacio-bailio-Entrada-patio.jpg "Patio de entrada al Hospes Palacio del Bailío.")
+![Entrada al hotel Palacio del Bailío](etheria-images/2022/04/palacio-bailio-Entrada-patio.jpg "Patio de entrada al Hospes Palacio del Bailío.")
 
 Córdoba es una ciudad que, a pesar de sus grandiosos monumentos como la 
 Mezquita-Catedral o el Alcázar, se siente a través de los pequeños detalles. Por este 
@@ -22,7 +22,7 @@ puede ir dando un paseo para perderse entre las estrechas calles de la Judería 
 en tan solo quince minutos a la Mezquita. O callejear en busca de bares y restaurantes 
 para degustar la sabrosa gastronomía cordobesa. 
 
-![escalera del hotel](etheria_images/2022/04/Palacio-bailio-escaleras.jpg "Escalera del Hospes Palacio del Bailío.")
+![escalera del hotel](etheria-images/2022/04/Palacio-bailio-escaleras.jpg "Escalera del Hospes Palacio del Bailío.")
 
 Este palacio forma parte de la historia de Córdoba, y ese es uno de los alicientes para 
 alojarse en él, ya que guarda elementos de casi todas las etapas por las que ha pasado 
@@ -44,7 +44,7 @@ espacio te recibirá a tu llegada, y aquí fíjate porque podrás ver unos pilar
 empotrados, las finas columnas de los arcos del patio y una pequeña estatua de San 
 Rafael, encargada por el último propietario de la casa. 
 
-![decoración del palacio del Bailío](etheria_images/2022/04/palacio-bailio-decoracion.jpg "Entrada al salón Castejón y detalles de decoración en los pasillos.")
+![decoración del palacio del Bailío](etheria-images/2022/04/palacio-bailio-decoracion.jpg "Entrada al salón Castejón y detalles de decoración en los pasillos.")
 
 En esta planta baja encontrarás también otros espacios llenos de interés: el **patio 
 principal**, con unas bonitas pinturas murales del siglo XVIII y un suelo acristalado 
@@ -69,7 +69,7 @@ estrellas como éste. Además, ningún elemento decorativo se ha dejado al azar 
 combina la comodidad de los muebles actuales con otros que trasladan a la historia de 
 este palacio. 
 
-![habitación del hotel Palacio del Bailío](etheria_images/2022/04/palacio-bailio-Suite-Al-Andalus.jpg "Suite Al-Andalus.")
+![habitación del hotel Palacio del Bailío](etheria-images/2022/04/palacio-bailio-Suite-Al-Andalus.jpg "Suite Al-Andalus.")
 
 Existen categorías para todos los gustos y necesidades: las **Dreamer’s**, las 
 habitaciones **Deluxe** (con opción de vista al jardín) y las **Junior Suite**. Las 
@@ -93,7 +93,7 @@ Andalucía, como el lomo de bacalao en costra con jugo de tinta de calamar. Y, p
 supuesto, elaboraciones con el cerdo como protagonista y otras que incluyen ingredientes 
 de la sabrosa huerta cordobesa. 
 
-![ruinas romanas bajo el patio del palacio del Bailío](etheria_images/2022/04/palacio-bailio-Ruinas.jpg "Ruinas romanas situadas debajo del restaurante Arbequina.")
+![ruinas romanas bajo el patio del palacio del Bailío](etheria-images/2022/04/palacio-bailio-Ruinas.jpg "Ruinas romanas situadas debajo del restaurante Arbequina.")
 
 Al lado, el **Arbequina Tapas Bar** presenta una propuesta gastronómica más desenfadada 
 en un bonito salón que fue el comedor de la última familia que habitó la casa. Aquí no 
@@ -109,7 +109,7 @@ los Naranjos, y guarda, como el resto del hotel, parte de la historia del recint
 vez en forma de columnas romanas en el patio donde se encuentran las cabinas de masaje y 
 en las termas romanas del subsuelo. 
 
-![spa del hotel Palacio del Bailío](etheria_images/2022/04/Palacio-bailio-Bodyna-Spa.jpg "Zona de las termas del Bodyna Spa.")
+![spa del hotel Palacio del Bailío](etheria-images/2022/04/Palacio-bailio-Bodyna-Spa.jpg "Zona de las termas del Bodyna Spa.")
 
 Además de descansar en la zona de aguas, no dejes de probar alguno de sus masajes o 
 tratamientos: shiatsu, masaje tailandés, masajes ayurvédicos, drenajes linfáticos… Te 

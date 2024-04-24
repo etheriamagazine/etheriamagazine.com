@@ -1,14 +1,14 @@
 ---
 title: "10 tabernas históricas de Madrid donde tomar el vermú"
 date: 2022-05-20
-coverImage: etheria_images/2022/05/Casa-alberto.jpg
+coverImage: etheria-images/2022/05/Casa-alberto.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
-author: 
-  - Susana Garcia
+authors: 
+  - Susana García
 ---
 
 No hay nada más madrileño que tomar el aperitivo de taberna en taberna y dejar que las 
@@ -16,7 +16,7 @@ cañas y vermús se sucedan hasta pasada la hora del almuerzo. Aquí te llevamos
 tabernas históricas de Madrid que nos encantan porque conservan intacta su esencia a 
 través de su decoración, su propuesta gastronómica y sus camareros de toda la vida. 
 
-![taberna centenaria de Madrid](etheria_images/2022/05/Casa-alberto.jpg "Fachada de Casa Alberto. © Susana García/ Etheria Magazine")
+![taberna centenaria de Madrid](etheria-images/2022/05/Casa-alberto.jpg "Fachada de Casa Alberto. © Susana García/ Etheria Magazine")
 
 La vida en los bares es una de las señas de identidad de la capital. Tanto, que los 
 madrileños seguimos peregrinando a los mismos locales que nos enseñaron nuestros padres 
@@ -35,7 +35,7 @@ duda, lo más madrileño que puedes hacer.
 siempre visitado por reyes, políticos y artistas. En sus mesas se llegaron a acuerdos y 
 se produjeron desencuentros amparados por sus elegantes paredes y lámparas. 
 
-![barra típica de Madrid](etheria_images/2022/05/lhardy-consome.jpg "Barra y servicio de consomé en Lhardy. © SG")
+![barra típica de Madrid](etheria-images/2022/05/lhardy-consome.jpg "Barra y servicio de consomé en Lhardy. © SG")
 
 Sigue manteniendo sus salones Blanco, Japonés e Isabelino, que llevan automáticamente a 
 otro tiempo y, aunque su clientela es ahora algo más que "señoras bien" tomado café y 
@@ -55,7 +55,7 @@ Madrid, Casa Labra mantiene su ambiente y decoración tradicional y tiene una ca
 tapas y una de restaurante, donde podrás degustar su producto estrella, el bacalao, de 
 innumerables formas. 
 
-![Tapas y cañas en Casa Labra](etheria_images/2022/05/casa-labra-bacalao.jpg "Croqueta y tajada de bacalao de Casa Labra. © SG")
+![Tapas y cañas en Casa Labra](etheria-images/2022/05/casa-labra-bacalao.jpg "Croqueta y tajada de bacalao de Casa Labra. © SG")
 
 Y, si no eres muy fan de este pescado no te preocupes, podrás probar entre otras 
 especialidades la banderilla de atún en escabeche, la tortilla de patatas o una 
@@ -71,7 +71,7 @@ honor de estar ubicada en el edificio donde Cervantes escribió la segunda parte
 Quijote_ y _Los trabajos de Persiles y Segismunda_, no puedes perderte su famoso vermú 
 de grifo (que también se puede comprar en su web). 
 
-![tapas con vermú en Madrid](etheria_images/2022/05/casa-alberto-vermu.jpg "Vermú y torreznos de Casa Alberto. © SG")
+![tapas con vermú en Madrid](etheria-images/2022/05/casa-alberto-vermu.jpg "Vermú y torreznos de Casa Alberto. © SG")
 
 En la barra mantienen las tapas de siempre, como los callos a la madrileña o los 
 caracoles, pero han incorporado también propuestas nuevas como el _brownie_ de morcilla 
@@ -89,7 +89,7 @@ centenario (fue inaugurado en 1933), se pide a grito de “¡una de chicharrón!
 queso azul!”, que son algunas de sus tapas más emblemáticas, y se acompañan de una 
 cerveza o un chato de vino. 
 
-![Casa Paco en puerta Cerrada](etheria_images/2022/05/casa-paco-pinchos.jpg "Casa Paco y sus famosos pinchos de chicharrón y queso azul. © SG")
+![Casa Paco en puerta Cerrada](etheria-images/2022/05/casa-paco-pinchos.jpg "Casa Paco y sus famosos pinchos de chicharrón y queso azul. © SG")
 
 Siempre lleno de gente por su ubicación cercana a la Plaza Mayor, merece la pena hacerse 
 hueco en la barra o en las mesas altas para tomar el **aperitivo en Madrid** como se ha 
@@ -110,7 +110,7 @@ gambas. Rosquillas porque fue lo primero que sirvieron, chorizo porque fueron lo
 primeros en ponerlos en pan en forma de bocadillos y gambas porque fue la solución que 
 encontró su dueño para servir un aperitivo con la escasez de harina de la posguerra. 
 
-![camarero en taberna típica de Madrid](etheria_images/2022/05/la-casa-del-abuelo.jpg "La Casa del Abuelo. © SG")
+![camarero en taberna típica de Madrid](etheria-images/2022/05/la-casa-del-abuelo.jpg "La Casa del Abuelo. © SG")
 
 Hoy en día, el negocio sigue en manos de la misma familia y se nota el cariño y la buena 
 mano en todo lo que hacen. Sus gambas siguen siendo imprescindibles (sobre todo al 
@@ -129,7 +129,7 @@ sidra que instalaron algunos asturianos que vinieron a la capital a trabajar en 
 (está cerca de la antigua Estación del Norte, ahora Príncipe Pío) y hoy en día sigue 
 produciendo en el local su propia sidra a partir de manzanas de Villaviciosa. 
 
-![productos típicos de Asturias en Madrid](etheria_images/2022/05/casa-mingo-sidra.jpg "Sidrería Casa Mingo y su delicioso queso cabrales acompañado de sidra natural. © SG")
+![productos típicos de Asturias en Madrid](etheria-images/2022/05/casa-mingo-sidra.jpg "Sidrería Casa Mingo y su delicioso queso cabrales acompañado de sidra natural. © SG")
 
 Los que hemos conocido a esta sidrería a lo largo de varias décadas apreciamos su local 
 y carta inalterable: aquí se sabe lo que se viene a comer, está rico, es barato y está 
@@ -147,7 +147,7 @@ por su ubicación privilegiada en la calle Mayor, cerca del Palacio Real. En 201
 una potente renovación que ha mantenido su carta, de la que ya eran asiduos personajes 
 como Valle-Inclán o Mingote. 
 
-![pinchos en la calle Mayor](etheria_images/2022/05/casa-ciriaco.jpg "Casa Ciriaco y su famoso pincho de bonito. © SG")
+![pinchos en la calle Mayor](etheria-images/2022/05/casa-ciriaco.jpg "Casa Ciriaco y su famoso pincho de bonito. © SG")
 
 En su barra no te pierdas sus croquetas, empanadillas y la ensaladilla rusa. Y como 
 “parada en boxes” en una ruta por Madrid, una caña y un pincho de bonito te darán 
@@ -162,7 +162,7 @@ El pasado taurino de esta taberna que presume de ser la más antigua de Madrid (
 fundada por el picador Colita en 1787) se deja sentir en su decoración, que no ha 
 sufrido apenas cambios en más de dos siglos de existencia. 
 
-![Taberna Antonio Sánchez](etheria_images/2022/05/antonio-sanchez.jpg "Taberna Antonio Sánchez, en Lavapiés. © SG")
+![Taberna Antonio Sánchez](etheria-images/2022/05/antonio-sanchez.jpg "Taberna Antonio Sánchez, en Lavapiés. © SG")
 
 Ubicada en el castizo barrio de Lavapiés, la taberna Antonio Sánchez es uno de esos 
 locales para sentarse en una de las mesas bajas frente a la barra y, con vermú o caña en 
@@ -179,7 +179,7 @@ sus cañas bien tiradas y por sus canapés sencillos pero efectivos, a base de s
 embutidos. Y tienen unas gildas estupendas, el pincho perfecto para acompañar una 
 cerveza. 
 
-![camarero en bar centenario de Madrid](etheria_images/2022/05/Madrid-la-dolores-900x600.jpg "La cerveza bien tirada es una seña de identidad de La Dolores. © SG")
+![camarero en bar centenario de Madrid](etheria-images/2022/05/Madrid-la-dolores-900x600.jpg "La cerveza bien tirada es una seña de identidad de La Dolores. © SG")
 
 Además, es una de las tabernas históricas de Madrid más bonitas, tanto en su exterior, 
 con una fachada decorada con pequeñas teselas, como el interior con una barra de mármol 
@@ -196,7 +196,7 @@ los primeros en importar la cerveza checa), y cuenta con el honor de ofrecer una
 mejores tortillas de patatas de Madrid. Aquí se pide vermú y, si prefieres cerveza, la 
 medida mínima es media pinta. 
 
-![fachada de La Ardosa y pincho de tortilla](etheria_images/2022/05/la-ardosa-aperitivo.jpg "Aperitivo en la bodega La Ardosa. © SG")
+![fachada de La Ardosa y pincho de tortilla](etheria-images/2022/05/la-ardosa-aperitivo.jpg "Aperitivo en la bodega La Ardosa. © SG")
 
 Lleva en manos de la familia Monje desde los años setenta del siglo pasado, y siguen 
 poniendo el cariño que necesitan estos locales para mantenerse con su esencia pero 

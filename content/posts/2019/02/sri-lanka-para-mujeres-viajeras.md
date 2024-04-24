@@ -1,18 +1,18 @@
 ---
 title: "Viaje a Sri Lanka, el país de los elefantes"
 date: 2019-02-01
-coverImage: etheria_images/2019/01/Viajes-mujeres-Sri-lanka-7.jpg
+coverImage: etheria-images/2019/01/Viajes-mujeres-Sri-lanka-7.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Ana Vara y David Santiago
 ---
 
 Considerada por muchos como uno de los grandes paraísos naturales del mundo, Sri Lanka despliega un manto verde bajo el que se ocultan, entre otros animales, tigres, cocodrilos, pavos reales y los habitantes más ilustres de la antigua Ceilán: los elefantes.
 
-![Viaje de mujeres, elefantes en Sri Lanza](etheria_images/2019/01/Viajes-mujeres-Sri-lanka-2-1024x682.jpg "Safari para ver elefantes en Sri Lanka.")
+![Viaje de mujeres, elefantes en Sri Lanza](etheria-images/2019/01/Viajes-mujeres-Sri-lanka-2-1024x682.jpg "Safari para ver elefantes en Sri Lanka.")
 
 Un viaje a Sri Lanka, la gran isla con forma de lágrima situada frente a India, nos 
 depara momentos muy emocionantes y algunos sueños cumplidos. Y en Etheria Magazine no 
@@ -32,7 +32,7 @@ alzado de trompa y aleteo de orejas, se puede palpar. Me sitúo detrás de una
 rudimentaria valla junto con un montón de escolares vestidos de uniforme, esperando 
 ansiosa el comienzo del desfile. 
 
-![Viaje de mujeres, elefantes en Sri Lanza](etheria_images/2019/01/Viajes-mujeres-Sri-lanka-3.jpg "Orfanato de elefantes en Sri Lanka.")
+![Viaje de mujeres, elefantes en Sri Lanza](etheria-images/2019/01/Viajes-mujeres-Sri-lanka-3.jpg "Orfanato de elefantes en Sri Lanka.")
 
 Dos en punto, se abren las puertas. La imponente manada de más de medio centenar de 
 ejemplares camina, como si fuera un ejército, a paso ligero por las calles del pueblo de 
@@ -48,7 +48,7 @@ mastodonte de varias toneladas de peso, sintiendo bajo mis manos su áspera piel
 contemplando desde las alturas la belleza de los exuberantes bosques que caracterizan 
 Sri Lanka. 
 
-![Viaje de mujeres, elefantes en Sri Lanza](etheria_images/2019/01/Viajes-mujeres-Sri-lanka-4.jpg "Los elefantes se dirigen al río para beber agua y darse un baño.")
+![Viaje de mujeres, elefantes en Sri Lanza](etheria-images/2019/01/Viajes-mujeres-Sri-lanka-4.jpg "Los elefantes se dirigen al río para beber agua y darse un baño.")
 
 ## De safari por los Parques Nacionales de Uda Walawe y Minneriya
 
@@ -68,7 +68,7 @@ en un 4x4, un vehículo que me permite entrar en la jungla. Ver las manadas de e
 es el objetivo del safari que he contratado. Después de atravesar las llanuras, llegamos 
 a los lagos; ahí están. 
 
-![Viaje de mujeres, elefantes en Sri Lanza](etheria_images/2019/01/Viajes-mujeres-Sri-lanka-1.jpg "Un paseo en elefante es una experiencia inolvidable.")
+![Viaje de mujeres, elefantes en Sri Lanza](etheria-images/2019/01/Viajes-mujeres-Sri-lanka-1.jpg "Un paseo en elefante es una experiencia inolvidable.")
 
 Los mamíferos acuden un par de veces al día a hidratarse y a darse el habitual baño, con 
 lo que no es difícil encontrarlos. Aunque los elefantes no son la única atracción del 
@@ -85,7 +85,7 @@ paisajes, agrandaron su fama de paraíso perdido. Tampoco ha pasado desapercibid
 cuaderno de viajes, en el que he podido tachar de mi lista de deseos el pasear a lomos 
 de un elefante. 
 
-![Viaje de mujeres, elefantes en Sri Lanza](etheria_images/2019/01/Viajes-mujeres-Sri-lanka-elefantes.jpg "Elefantes en Sri Lanka.")
+![Viaje de mujeres, elefantes en Sri Lanza](etheria-images/2019/01/Viajes-mujeres-Sri-lanka-elefantes.jpg "Elefantes en Sri Lanka.")
 
 Ceilán, edén de Buda o vergel del Índico son algunos nombres que recibe y que le hacen 
 honor. Es, también, la isla que Noé hubiera convertido en arca sin cargar en ella nada 
@@ -124,7 +124,7 @@ inmediaciones de un embalse. Si no vas en estos meses, también podrás ver nume
 elefantes, aunque en grupos más pequeños. Los paisajes son asombrosos y verás muchos 
 otros animales. 
 
-![Viaje de mujeres, elefantes en Sri Lanza](etheria_images/2019/01/Viajes-mujeres-Sri-lanka-7.jpg "Entre los elefantes y los cuidadores se establece un vínculo especial.")
+![Viaje de mujeres, elefantes en Sri Lanza](etheria-images/2019/01/Viajes-mujeres-Sri-lanka-7.jpg "Entre los elefantes y los cuidadores se establece un vínculo especial.")
 
 Para **contratar un safari** puedes hacerlo a través del hotel en el que te alojes, en 
 las empresas que están en las inmediaciones del parque, o simplemente puedes ir a la 

@@ -1,14 +1,14 @@
 ---
 title: "Aveiro no es la Venecia portuguesa, ni falta que hace"
 date: 2018-09-11
-coverImage: etheria_images/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg
+coverImage: etheria-images/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
-  - kelurobles
+authors: 
+  - Kelu Robles
 ---
 
 Niégate a escuchar o a decir eso de que Aveiro es la Venecia de Portugal porque mira, 
@@ -16,7 +16,7 @@ no, ni falta que hace. Que tenga canales y barcas que navegan por ellos no la ha
 similar. Te proponemos un viaje a Aveiro con amigas donde navegarás, irás a la playa, 
 comerás estupendamente y descubrirás sus curiosidades. 
 
-![viaje aveiro fin de semana moliceiros canales](etheria_images/2018/09/Atardecer-Aveiro-Etheria-e1556956528835.jpg "Atardecer sobre los canales de Aveiro. © Kelu Robles")
+![viaje aveiro fin de semana moliceiros canales](etheria-images/2018/09/Atardecer-Aveiro-Etheria-e1556956528835.jpg "Atardecer sobre los canales de Aveiro. © Kelu Robles")
 
 Tiene tal belleza propia y tan portuguesa que, cuando la visites, nos darás la razón. 
 Más allá de clichés, nos referimos a una ciudad coqueta, rodeada por **canales**, 
@@ -46,7 +46,7 @@ homenaje a la historia del protagonista de forma permanente en el **Museo Marít
 arquitectura –obra de Nuno Mateus y José Mateus– fue galardonada en 2003 con el Premio 
 Mies Van der Rohe de Arquitectura Moderna. 
 
-![ecomuseo aveiro salinas](etheria_images/2018/09/Ecomuseo-aveiro-portugal.jpg "Ecomuseo de la Marinha de Troncalhada. © CMAveiro/Museo da Cidade/Imagoteca")
+![ecomuseo aveiro salinas](etheria-images/2018/09/Ecomuseo-aveiro-portugal.jpg "Ecomuseo de la Marinha de Troncalhada. © CMAveiro/Museo da Cidade/Imagoteca")
 
 ## 2\. Sus barcas con chistes verdes
 
@@ -62,7 +62,7 @@ erótico, con la mujer como centro de atracción. Una manera de luchar contra la
 de la dictadura portuguesa (1926-1974) y olvidar un pasado en el que las embarcaciones 
 fueron totalmente negras. 
 
-![chistes barcos moliceiros aveiro canales](etheria_images/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg "Chiste verde en un moliceiro de Aveiro. © Kelu Robles")
+![chistes barcos moliceiros aveiro canales](etheria-images/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg "Chiste verde en un moliceiro de Aveiro. © Kelu Robles")
 
 ## 3\. Las bicis gratis
 
@@ -74,7 +74,7 @@ hasta las 19h p.m, todos los días de la semana. Basta con inscribirse en el pun
 recogida de la Praça do Mercado para comenzar su disfrute, sin olvidar las precauciones 
 obvias. 
 
-![bicicleta gratis aveiro](etheria_images/2018/09/bicicletas-buga-aveiro-e1556956600706.jpg "El préstamo de bicicletas en Aveiro es gratuito. Busca las famosas BUGAs.")
+![bicicleta gratis aveiro](etheria-images/2018/09/bicicletas-buga-aveiro-e1556956600706.jpg "El préstamo de bicicletas en Aveiro es gratuito. Busca las famosas BUGAs.")
 
 ## 4\. Mandan huevos
 
@@ -87,7 +87,7 @@ caracolas, no existe pastelería que no exclame en su exterior tener a la venta 
 un par de sus preciados ovos moles. Tienes que probarlos en tu viaje a Aveiro con 
 amigas. 
 
-![ovos moles aveiro taller](etheria_images/2018/09/ovos-moles-aveiro-taller-e1556956620398.jpg "Taller y venta de ovos moles en Oficina do Doce (Aveiro). © Pepa García")
+![ovos moles aveiro taller](etheria-images/2018/09/ovos-moles-aveiro-taller-e1556956620398.jpg "Taller y venta de ovos moles en Oficina do Doce (Aveiro). © Pepa García")
 
 ## 5\. La fiebre selfie de Costa Nova
 
@@ -106,7 +106,7 @@ norte, en la **playa de Barra**, nos espera **el faro más grande de Portugal**.
 imponentes 62 metros de altura se llega ascendiendo 283 peldaños, y la luz que emite 
 llega a una distancia de 43 kilómetros. 
 
-![casas pescadores costa nova viaje](etheria_images/2018/09/Costa-Nova-casas-rayas-e1556956642957.jpg "Antiguas casas de pescadores en Costa Nova. © Pepa García")
+![casas pescadores costa nova viaje](etheria-images/2018/09/Costa-Nova-casas-rayas-e1556956642957.jpg "Antiguas casas de pescadores en Costa Nova. © Pepa García")
 
 ## 6\. Todo, con mucho arte
 
@@ -125,7 +125,7 @@ la **historia de Aveiro**, dibujada en impresionantes paneles de azulejos –ori
 la Fábrica da Fonte Nova (1916)–, con motivos costumbristas y escenas regionales de 
 pesca y campo. 
 
-![estacion murales aveiro](etheria_images/2018/09/Estacion-murales-aveiro-e1556956663242.jpg "Estación de Tren Antigua y murales situados en el camino a la misma. © Kelu Robles")
+![estacion murales aveiro](etheria-images/2018/09/Estacion-murales-aveiro-e1556956663242.jpg "Estación de Tren Antigua y murales situados en el camino a la misma. © Kelu Robles")
 
 ### Guía de Aveiro | Etheria Magazine
 
@@ -147,7 +147,7 @@ pescado y aceitunas, pero si hay productos como jamón, croquetas de bacalao o q
 sospecha, porque quizá ese lugar esté demasiado orientado al turismo y no centre su 
 objetivo en la calidad del servicio. 
 
-![Estación de tren de Aveiro.](etheria_images/2018/09/aveiro-estacion-tren.jpg "Estación de tren de Aveiro.")
+![Estación de tren de Aveiro.](etheria-images/2018/09/aveiro-estacion-tren.jpg "Estación de tren de Aveiro.")
 
 Agradecemos enormemente que **la mayoría de portugueses que se dedican a la hostelería 
 tengan buen nivel de castellano**, pero nunca está de más recordar las distintas formas 

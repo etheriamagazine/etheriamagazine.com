@@ -1,11 +1,11 @@
 ---
 title: "Malta en familia, 10 planazos para hacer con niños activos"
 date: 2022-05-19
-coverImage: etheria_images/2022/05/Malta-con-ninos.jpg
+coverImage: etheria-images/2022/05/Malta-con-ninos.jpg
 categories: 
   - viaje-en-familia
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Por su apasionante historia, su gastronomía mediterránea, su agradable clima e, incluso, 
@@ -13,7 +13,7 @@ para practicar inglés, un viaje a Malta en familia es siempre un planazo en cua
 momento del año. Si aún tienes dudas de lo que te ofrece, te damos algunas pistas sobre 
 qué hacer con niños en el archipiélago. 
 
-![Una familia en un puerto de Malta junto a unas barcas](etheria_images/2022/05/Malta-con-ninos.jpg "Familia en Malta. © Pepa García")
+![Una familia en un puerto de Malta junto a unas barcas](etheria-images/2022/05/Malta-con-ninos.jpg "Familia en Malta. © Pepa García")
 
 A pesar de ser un conjunto insular mediterráneo, no es el primer destino que nos solemos 
 plantear para un viaje con niños. Sin embargo, recorrer el archipiélago de **Malta en 
@@ -34,7 +34,7 @@ aprendizaje de idiomas. Te darás cuenta cuando veas el gran número de academia
 existen y los grupos internacionales de jóvenes que te irás encontrando por todos 
 sitios. 
 
-![Familia sentada a la mesa dispuesta a comer en Malta](etheria_images/2022/05/Malta-en-familia.jpg "La gastronomía maltesa, con influencias mediterráneas y árabes, suele encantar a los niños.")
+![Familia sentada a la mesa dispuesta a comer en Malta](etheria-images/2022/05/Malta-en-familia.jpg "La gastronomía maltesa, con influencias mediterráneas y árabes, suele encantar a los niños.")
 
 ## 10 planes en Malta en familia
 
@@ -53,7 +53,7 @@ propio de un cómic se adaptó tras las grabaciones a una mezcla de museo al air
 temático. Allí encontrarás 42 casitas (panadería, oficina de correos, cine, museo del 
 cómic, etc.) en las que se han creado diversas actividades y experiencias. 
 
-![Vista del Pueblo de Popeye, en Malta](etheria_images/2022/05/malta-pueblo-popeye.jpg "Pueblo de Popeye, en Malta. © Anastasiya Dalenka")
+![Vista del Pueblo de Popeye, en Malta](etheria-images/2022/05/malta-pueblo-popeye.jpg "Pueblo de Popeye, en Malta. © Anastasiya Dalenka")
 
 En Popeye Village no sólo se puede interactuar con los personajes sino asistir a 
 espectáculos, jugar y dar un paseo en barco por la bahía. Se puede llegar en coche o en 
@@ -69,7 +69,7 @@ interiores y una cafetería donde cargar pilas. Reserva tiempo para visitar su i
 tienda, allí encontrarás las figuras que ya conoces y alguna edición especial de Malta 
 (ideal para coleccionistas). 
 
-![Playmobil Fun park, ideal para disfrutar de Malta en familia.](etheria_images/2022/05/malta-Playmobil-Fun-Park.jpg "© Playmobil Fun park, en Malta.")
+![Playmobil Fun park, ideal para disfrutar de Malta en familia.](etheria-images/2022/05/malta-Playmobil-Fun-Park.jpg "© Playmobil Fun park, en Malta.")
 
 ### 3\. Proyección Malta Experience
 
@@ -83,7 +83,7 @@ como que los enfermos comían con cubiertos de plata. Puedes reservar la [entrad
 combinada](https://www.civitatis.com/es/la-valeta/entrada-malta-experience-santa-enfermeria/?aid=10211) 
 que sale mejor de precio. 
 
-![Paseo en lancha por las cuevas de Blue Grotto.](etheria_images/2022/05/blue-grotto-familia.jpg "Paseo en lancha por las cuevas de Blue Grotto. © Pepa García")
+![Paseo en lancha por las cuevas de Blue Grotto.](etheria-images/2022/05/blue-grotto-familia.jpg "Paseo en lancha por las cuevas de Blue Grotto. © Pepa García")
 
 ### 4\. Blue Grotto, de cueva en cueva
 
@@ -97,7 +97,7 @@ la costa y se visitan **seis grutas marinas** en cuyo interior el agua es de col
 eléctrico, de ahí el nombre de Blue Grotto. A los niños les parecerá algo mágico (y a 
 los mayores, también). Más información en su [web](https://www.bluegrottomalta.com.mt/). 
 
-![Ruinas de Ggantija](etheria_images/2018/05/7-Viaje-a-Gozo-y-Malta-Ruinas-Ggantija-1024x682.jpg "Ruinas de Ggantija. © Pepa García")
+![Ruinas de Ggantija](etheria-images/2018/05/7-Viaje-a-Gozo-y-Malta-Ruinas-Ggantija-1024x682.jpg "Ruinas de Ggantija. © Pepa García")
 
 ### 5\. Templos megalíticos
 
@@ -108,7 +108,7 @@ mayores tesoros de la isla. No te pierdas los templos de **Hagar Qim** (esta [ex
 te puede interesar) y el **Hipogeo de Hal Saflieni**. Es aconsejable realizar esta 
 actividad guiada y adaptada para niños. 
 
-![Llegada en ferry a Gozo desde Malta.](etheria_images/2022/05/ferry-malta-gozo.jpg "Llegada en ferry a Gozo. © Pepa García")
+![Llegada en ferry a Gozo desde Malta.](etheria-images/2022/05/ferry-malta-gozo.jpg "Llegada en ferry a Gozo. © Pepa García")
 
 ### 6\. Excursión a Gozo con gruta y kayak
 
@@ -127,7 +127,7 @@ de color rojizo. Para comer te recomendamos optar por alguna de las eco-granjas
 repartidas por la isla, que te mostrarán sus cultivos, y, además, ofrecen almuerzos y 
 productos ecológicos. 
 
-![Mirador sobre la Gruta de Calipso, en la isla de Gozo.](etheria_images/2018/05/1-Viaje-a-Gozo-y-Malta-Gruta-Calipso-1024x682.jpg "Mirador sobre la Gruta de Calipso, en la isla de Gozo. © Pepa García")
+![Mirador sobre la Gruta de Calipso, en la isla de Gozo.](etheria-images/2018/05/1-Viaje-a-Gozo-y-Malta-Gruta-Calipso-1024x682.jpg "Mirador sobre la Gruta de Calipso, en la isla de Gozo. © Pepa García")
 
 ### 7\. Un baño en la Laguna Azul de Comino
 
@@ -144,7 +144,7 @@ algo más activo puedes hacer alguna ruta senderista o visitar la torre de Santa
 la batería de Santa Marta. Por último, si te gusta el buceo, hay varias cuevas en la 
 costa ideales para explorar. 
 
-![Transparentes aguas de la playa de Blue Lagoon, en Comino. © Pepa García](etheria_images/2022/05/blue-lagoon-comino.jpg "Transparentes aguas de la playa de Blue Lagoon, en Comino. © Pepa García")
+![Transparentes aguas de la playa de Blue Lagoon, en Comino. © Pepa García](etheria-images/2022/05/blue-lagoon-comino.jpg "Transparentes aguas de la playa de Blue Lagoon, en Comino. © Pepa García")
 
 ### 8\. Paseo en velero por Gozo y Comino
 
@@ -156,7 +156,7 @@ es un plus. La salidas son a las 10 de la mañana y el regreso en torno a las 6 
 tarde. El precio para adultos es de 60 €, los niños de 4 a 11 años pagan 40 € y los más 
 pequeños viajan gratis. Puedes ampliar información en este [enlace](https://www.civitatis.com/es/la-valeta/paseo-goleta-gozo-comino/?aid=10211). 
 
-![troya malta, escenarios de troya, viajes de cine](etheria_images/2019/06/viaje-cine-malta-blue-lagoon-troya.jpg "Algunas escenas de 'Troya' se rodaron en el Blue Lagoon. ©Visit Malta")
+![troya malta, escenarios de troya, viajes de cine](etheria-images/2019/06/viaje-cine-malta-blue-lagoon-troya.jpg "Algunas escenas de 'Troya' se rodaron en el Blue Lagoon. ©Visit Malta")
 
 ### 9\. Ruta urbana por varias ciudades
 
@@ -173,7 +173,7 @@ nocturna](https://www.civitatis.com/es/la-valeta/tour-nocturno-malta/?aid=10211)
 y a Rabat (infórmate porque merece la pena), y otro [Freetour por La 
 Valetta](https://www.civitatis.com/es/la-valeta/free-tour-valeta/?aid=10211). 
 
-![Un coche de caballo sale de la ciudad de Mdina en la isla de Malta](etheria_images/2022/05/Malta-entrada-mdina.jpg "Una de las entradas a la preciosa ciudad de Mdina. © Pepa García")
+![Un coche de caballo sale de la ciudad de Mdina en la isla de Malta](etheria-images/2022/05/Malta-entrada-mdina.jpg "Una de las entradas a la preciosa ciudad de Mdina. © Pepa García")
 
 ### 10\. Más planes en Malta en familia
 
@@ -187,7 +187,7 @@ caso de que los niños sean muy pequeños, apunta como alternativa un recorrido 
 niños) y, también, el completo [Acuario Nacional de Malta](https://www.aquarium.com.mt/) 
 donde observar la fauna marina mediterránea y algún que otro espectáculo. 
 
-![Muralla de la Ciudadela de Victoria, en Gozo.](etheria_images/2022/05/murallas-ciudadela-gozo.jpg "Muralla de la Ciudadela de Victoria, en Gozo. © Pepa García")
+![Muralla de la Ciudadela de Victoria, en Gozo.](etheria-images/2022/05/murallas-ciudadela-gozo.jpg "Muralla de la Ciudadela de Victoria, en Gozo. © Pepa García")
 
 ### Otras propuestas en Malta:
 

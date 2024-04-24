@@ -1,11 +1,11 @@
 ---
 title: "Hallstatt, el pueblo más bonito del mundo a orillas de un lago"
 date: 2020-05-15
-coverImage: etheria_images/2020/05/Hallstatt-iglesia-embarcadero.jpg
+coverImage: etheria-images/2020/05/Hallstatt-iglesia-embarcadero.jpg
 categories: 
   - viajes-con-amigas
   - viajes-romanticos
-author: 
+authors: 
   - Elena Ortega
 ---
 
@@ -14,7 +14,7 @@ solemne ante el lago del mismo nombre. Nos encontramos en la impresionante regi�
 austríaca de los lagos, circundados por las montañas de Dachstein, un lugar perfecto 
 para realizar un viaje con amigas o en pareja. 
 
-![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria_images/2020/05/Hallstatt-lago-900x435.jpg "Barco llegando al embarcadero de Hallstatt. © Österreich Werbung/Wolfgang Weinhäupl")
+![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria-images/2020/05/Hallstatt-lago-900x435.jpg "Barco llegando al embarcadero de Hallstatt. © Österreich Werbung/Wolfgang Weinhäupl")
 
 Con 780 habitantes y nada menos que un millón de visitas al año, Hallstatt es 
 considerado **uno de los pueblos más bellos de Europa y el más bonito del mundo a 
@@ -24,7 +24,7 @@ Humanidad en el año 1997. Como dato curioso, la mayoría de los turistas llegan
 Asia. Tal es la pasión de los asiáticos por esta villa alpina, que la ciudad china de 
 Luoyang cuenta con una réplica. 
 
-![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria_images/2020/05/Hallstatt-paseo-lago-900x675.jpg "Paseo por el lago Hallstatt. © Österreich Werbung/Sebastian Stiphout")
+![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria-images/2020/05/Hallstatt-paseo-lago-900x675.jpg "Paseo por el lago Hallstatt. © Österreich Werbung/Sebastian Stiphout")
 
 Hallstatt se encuentra resguardado por las agrestes montañas del distrito 
 **Salzkammergut**, en el que, además de lagos, abundan las **minas de sal**. Un salvaje 
@@ -39,7 +39,7 @@ camino va desvelando un emocionante paisaje. Castillos medievales, palacios, par
 naturales y mansiones de aristócratas dejan constancia de que estamos en una de las 
 regiones más caras de Austria. 
 
-![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria_images/2020/05/Hallstatt-vista-Krippenstein-900x600.jpg "Vista de Hallstatt desde Krippenstein. © Österreich Werbung/Julia Knop")
+![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria-images/2020/05/Hallstatt-vista-Krippenstein-900x600.jpg "Vista de Hallstatt desde Krippenstein. © Österreich Werbung/Julia Knop")
 
 Cada estación del año deja estampas muy diferentes de Hallstatt: en invierno cubierto de 
 nieve, en primavera y verano con los verdes apoderándose de la naturaleza y en otoño con 
@@ -54,7 +54,7 @@ calle que conecta con el centro. Un paseo, con el lago a un lado y casitas de co
 otro, nos guía entre arquitectura pintoresca, cafés y acogedoras tiendecitas. En la 
 ladera de la montaña, el agua se abre paso hasta desembocar en el lago. 
 
-![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria_images/2020/05/Hallstatt-plaza-900x600.jpg "Plaza de Hallstatt. © Dimitri Anikin")
+![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria-images/2020/05/Hallstatt-plaza-900x600.jpg "Plaza de Hallstatt. © Dimitri Anikin")
 
 La plaza principal, presidida por una fuente, se caracteriza por elegantes fachadas con 
 balcones de madera adornados con plantas. En la esquina destaca una iglesia luterana de 
@@ -68,7 +68,7 @@ De nuevo regresamos al centro para ascender hasta la **iglesia católica Pfarrki
 su torre del siglo XII. Junto a la iglesia de estilo románico-gótico, descansa un 
 pequeño cementerio, que nos obsequia con otra de las sorprendentes vistas. 
 
-![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria_images/2020/05/Hallstatt-osario-900x675.jpg "Osario del cementerio de Hallstatt. © Elena Ortega")
+![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria-images/2020/05/Hallstatt-osario-900x675.jpg "Osario del cementerio de Hallstatt. © Elena Ortega")
 
 Debido a la falta de espacio en el cementerio, en el siglo XII se creó junto a él un 
 osario. Éste cuenta con 1.200 calaveras ordenadas por descendencia familiar y con la 
@@ -79,14 +79,14 @@ dudas es uno de los puntos más curiosos de nuestra ruta.
 Al final de la **calle Gosaumühlstraße**, llegamos al mirador más popular, que nos deja 
 un bello perfil de Hallstatt arropado por las montañas. 
 
-![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria_images/2020/05/Hallstatt-iglesia-embarcadero-900x600.jpg "Panorámica con el embarcadero y la iglesia. © Arthur Hutterer")
+![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria-images/2020/05/Hallstatt-iglesia-embarcadero-900x600.jpg "Panorámica con el embarcadero y la iglesia. © Arthur Hutterer")
 
 ## Más allá del centro de Hallstatt
 
 En los alrededores de Hallstatt podemos envolvernos de naturaleza en lugares como la 
 **cascada Waldbachstrub**, con tres saltos de agua que alcanzar un total de 90 metros. 
 
-![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria_images/2020/05/Hallstatt-minas-sal-900x600.jpg "Mina de sal en Hallstat. © Österreich Werbung/Julia Knop")
+![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria-images/2020/05/Hallstatt-minas-sal-900x600.jpg "Mina de sal en Hallstat. © Österreich Werbung/Julia Knop")
 
 Otra de las visitas en la zona es [Salzwelten](https://www.salzwelten.at/en/hallstatt/), 
 la mina de sal que, explotada durante 7.000 años, es considerada la más antigua del 
@@ -95,7 +95,7 @@ cuenta que solo abre desde mayo hasta octubre. En su interior exhibe un “hombr
 el cadáver de un trabajador de la mina que fue encontrado en 1734, aunque se cree que 
 vivió en el año 1000 antes de Cristo. 
 
-![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria_images/2020/05/Hallstatt-iglesia-900x601.jpg "Panorámica desde la parte alta de Hallstatt. © Chris Ried")
+![viajes a Austria, escapada a Salzburgo, viajes con amigas, viajes en pareja](etheria-images/2020/05/Hallstatt-iglesia-900x601.jpg "Panorámica desde la parte alta de Hallstatt. © Chris Ried")
 
 Por último, la torre de Rudolf que, desde 1960, cuenta con un restaurante que es para 
 muchos el sitio con las mejores vistas. Su construcción se remonta al siglo XIII y fue 

@@ -1,19 +1,19 @@
 ---
 title: "Disfruta de la mejor cocina georgiana en este hotel durante Madrid Fusión"
 date: 2024-01-25
-coverImage: etheria_images/2024/01/cocina-georgiana-madrid.jpg
+coverImage: etheria-images/2024/01/cocina-georgiana-madrid.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El exclusivo hotel madrileño Rosewood Villa Magna colabora con el chef georgiano Davit 
 Narimanishvili para ofrecer una deliciosa experiencia gastronómica en el restaurante Las 
 Brasas de Castellana. Sólo hasta el 4 de febrero. Daos prisa. 
 
-![Khachapuri,plato tradicional georgiano.](etheria_images/2024/01/Khachapuri-cocina-georgiana-667x1000.jpg "Khachapuri, plato tradicional georgiano.")
+![Khachapuri,plato tradicional georgiano.](etheria-images/2024/01/Khachapuri-cocina-georgiana-667x1000.jpg "Khachapuri, plato tradicional georgiano.")
 
 El hotel de lujo madrileño Rosewood Villa Magna ha anunciado una colaboración exclusiva 
 con el prestigioso chef georgiano Davit Narimanishvili, cuya valía al frente de los 
@@ -40,7 +40,7 @@ En los últimos tiempos, Georgia ha captado la atención internacional en el ám
 gastronómico. Su cocina se ha gestado en los fogones familiares y forma parte de su 
 cultura compartir alimentos en una mesa y disfrutar de sobremesas interminables. 
 
-![Davit Narimanishvili, chef georgiano](etheria_images/2024/01/DAVIT-NARIMANISHVILI-667x1000.jpg "Chef georgiano Davit Narimanishvili.")
+![Davit Narimanishvili, chef georgiano](etheria-images/2024/01/DAVIT-NARIMANISHVILI-667x1000.jpg "Chef georgiano Davit Narimanishvili.")
 
 ## Quién es Davit Narimanishvili
 

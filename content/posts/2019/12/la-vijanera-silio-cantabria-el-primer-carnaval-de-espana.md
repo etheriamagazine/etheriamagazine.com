@@ -1,12 +1,12 @@
 ---
 title: "La Vijanera de Silió,  la primera mascarada de Europa"
 date: 2019-12-25
-coverImage: etheria_images/2019/12/carnaval-vijanera-silio-cantabria-2.jpg
+coverImage: etheria-images/2019/12/carnaval-vijanera-silio-cantabria-2.jpg
 categories: 
   - viajes-con-amigas
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -15,7 +15,7 @@ Silió. Es una fiesta tradicional que recuerda al carnaval y que tiene lugar el 
 domingo de enero. Los personajes más extravagantes que puedas imaginar se apoderan de 
 las calles en esta curiosa mascarada. 
 
-![La Vijanera es el primer carnaval de España.](etheria_images/2019/12/carnaval-vijanera-silio-cantabria-2-900x512.jpg "La Vijanera es el primer carnaval de España.")
+![La Vijanera es el primer carnaval de España.](etheria-images/2019/12/carnaval-vijanera-silio-cantabria-2-900x512.jpg "La Vijanera es el primer carnaval de España.")
 
 Los brotes de los árboles comienzan a hincharse, los días se alargan paulatinamente… la 
 naturaleza ya muestra señales de vida latente que indican un nuevo ciclo de vida. Aunque 
@@ -32,7 +32,7 @@ forma de señalar el comienzo del año, que ya empleaban los pueblos prerromanos
 mantuvo con los romanos pero asociada a sus calendas e, incluso, acabaron dándole el 
 nombre por el que hoy la conocemos. 
 
-![Personajes vestidos con hojas y musgo del carnaval de La Vijanera de Cantabria.](etheria_images/2019/12/carnaval-vijanera-silio-cantabria-900x601.jpg "Personajes vestidos con hojas y musgo del carnaval de La Vijanera de Cantabria.")
+![Personajes vestidos con hojas y musgo del carnaval de La Vijanera de Cantabria.](etheria-images/2019/12/carnaval-vijanera-silio-cantabria-900x601.jpg "Personajes vestidos con hojas y musgo del carnaval de La Vijanera de Cantabria.")
 
 ## Por qué ir a la Vijanera
 
@@ -55,7 +55,7 @@ haciendo burla y provocando al vecindario para reírse de lo acontecido, se burl
 todo lo negativo que pretenden olvidar, junto al año que acaba de morir, para poner toda 
 la energía hacia los buenos presagios del año recién comenzado. 
 
-![Máscaras del carnaval de La Vijanera (Silió, Cantabria).](etheria_images/2019/12/carnava-vijanera-cantabria-900x672.jpg "Máscaras del carnaval de La Vijanera (Silió, Cantabria).")
+![Máscaras del carnaval de La Vijanera (Silió, Cantabria).](etheria-images/2019/12/carnava-vijanera-cantabria-900x672.jpg "Máscaras del carnaval de La Vijanera (Silió, Cantabria).")
 
 ### Personajes de la Vijanera
 
@@ -77,7 +77,7 @@ vacas colgados a su espalda y sobre el pecho. El estruendo que provocan, al sona
 unísono, sirve para espantar a los malos espíritus del año y que permanezcan fuera del 
 pueblo. 
 
-![El oso es un personaje imprescindible en el carnaval de La Vijanera de Cantabria.](etheria_images/2019/12/carnaval-vijanera-silio-cantabria-4-900x574.jpg "El oso es un personaje imprescindible en el carnaval de La Vijanera de Cantabria.")
+![El oso es un personaje imprescindible en el carnaval de La Vijanera de Cantabria.](etheria-images/2019/12/carnaval-vijanera-silio-cantabria-4-900x574.jpg "El oso es un personaje imprescindible en el carnaval de La Vijanera de Cantabria.")
 
 ## ¿Dónde se celebra la Vijanera?
 
@@ -92,7 +92,7 @@ acudes a La Vijanera, hazlo el domingo 5 de enero muy temprano, o bien deja el v
 a las afueras de Molledo o Santian y camina hasta Silió. La notable afluencia de 
 visitantes hace imposible acercarse de otra manera y llegar a tiempo. 
 
-![Los trapajeros simbolizan la desinhibición.](etheria_images/2019/12/carnaval-vijanera-silio-cantabria-6-900x662.jpg "Los trapajeros simbolizan la desinhibición.")
+![Los trapajeros simbolizan la desinhibición.](etheria-images/2019/12/carnaval-vijanera-silio-cantabria-6-900x662.jpg "Los trapajeros simbolizan la desinhibición.")
 
 ### Qué hacer en Silió durante la Vijanera
 
@@ -115,7 +115,7 @@ es el **sendero de gran recorrido GR 73** el que la recorre y conecta las comarc
 castellanas y cántabras de Campoo y Besaya, atravesando la cordillera Cantábrica y sus 
 paisajes junto a la extraordinaria riqueza de su patrimonio románico. 
 
-![Los jóvenes vijaneros hacen sonar estos cencerros por las calles.](etheria_images/2019/12/carnaval-primero-espana-vijanera-900x773.jpg "Los jóvenes vijaneros hacen sonar estos cencerros por las calles.")
+![Los jóvenes vijaneros hacen sonar estos cencerros por las calles.](etheria-images/2019/12/carnaval-primero-espana-vijanera-900x773.jpg "Los jóvenes vijaneros hacen sonar estos cencerros por las calles.")
 
 ## ¿Cuándo es la Vijanera en 2024?
 
@@ -137,7 +137,7 @@ del pueblo, junto a la iglesia. Pero antes desfilarán, provocarán a los observ
 se **recitarán las coplas satíricas en la campa**, al pie de las escuelas para repasar 
 con ironía lo acontecido en el pueblo e incluso a nivel nacional. 
 
-!["La matanza del oso" en La Vijanera.](etheria_images/2019/12/carnaval-vijanera-cantabria-900x600.jpg ""La matanza del oso" en La Vijanera.")
+!["La matanza del oso" en La Vijanera.](etheria-images/2019/12/carnaval-vijanera-cantabria-900x600.jpg ""La matanza del oso" en La Vijanera.")
 
 En recuerdo a todos los pueblos que celebraban La Vijanera se sigue representando la 
 defensa de la raya, en la que se enfrentan los zamarracos y el danzarín negro en el 
@@ -151,7 +151,7 @@ el mal que representa el asediado animal.
 Después, los vijaneros siguen con la fiesta pero a un ritmo más relajado cantando las 
 coplas hasta que la caída de la tarde anuncia el final de la mascarada. 
 
-![En La Vijanera también hay luz y color para recibir el nuevo año.](etheria_images/2019/12/carnaval-original-cantabria-900x900.jpg "En La Vijanera también hay luz y color para recibir el nuevo año.")
+![En La Vijanera también hay luz y color para recibir el nuevo año.](etheria-images/2019/12/carnaval-original-cantabria-900x900.jpg "En La Vijanera también hay luz y color para recibir el nuevo año.")
 
 ## Prepara tu viaje a la Vijanera
 
@@ -176,7 +176,7 @@ Silió. Tel. 616 664 666
 
 Asociación Cultural Amigos de La Vijanera (www.vijanera.com). 
 
-![Escultura de La Vijanera en Silió (Cantabria).](etheria_images/2019/12/carnaval-vijanera-silio-cantabria-3-900x601.jpg "Escultura de La Vijanera en Silió (Cantabria).")
+![Escultura de La Vijanera en Silió (Cantabria).](etheria-images/2019/12/carnaval-vijanera-silio-cantabria-3-900x601.jpg "Escultura de La Vijanera en Silió (Cantabria).")
 
 **También en Cantabria**: 
 

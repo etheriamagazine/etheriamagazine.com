@@ -1,14 +1,14 @@
 ---
 title: "10 paradas imprescindibles en las ruinas romanas de Baelo Claudia (Bolonia, Cádiz)"
 date: 2019-08-22
-coverImage: etheria_images/2019/08/ruinas-romanas-bolonia.jpg
+coverImage: etheria-images/2019/08/ruinas-romanas-bolonia.jpg
 categories: 
   - viaje-en-familia
   - planes-originales-para-mujeres
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cádiz se identifica con playas, pescaíto frito y fiestas, pero tiene otras facetas que 
@@ -17,7 +17,7 @@ romanas de Baelo Claudia. Está situada en plena playa de Bolonia, en Tarifa, po
 tendrás un dos por uno nada desdeñable. Te hemos preparado una pequeña guía para que 
 aproveches bien la visita. 
 
-![trajano en baelo claudia, ruinas romanas de bolonia](etheria_images/2019/08/ruinas-romanas-bolonia.jpg "La estatua de Trajano preside la basílica. ©PG/2019")
+![trajano en baelo claudia, ruinas romanas de bolonia](etheria-images/2019/08/ruinas-romanas-bolonia.jpg "La estatua de Trajano preside la basílica. ©PG/2019")
 
 Las ruinas romanas de **Baelo Claudia**, a pesar de que este enclave no alcanzó la 
 importancia política o económica de ciudades como Itálica, Emérita, Corduba o Tarraco es 
@@ -26,7 +26,7 @@ identificar perfectamente los elementos propios de una ciudad romana; su entorno
 magnífico, ya que está situada junto a la bahía de Bolonia y la sierra de la Plata; y 
 porque cumplía una valiosa función como centro industrial y comercial. 
 
-![baelo claudia, ruinas bolonia](etheria_images/2019/08/escultura-baelo-claudia.jpg "Escultura hallada en Baelo Claudia. ©PG/2019")
+![baelo claudia, ruinas bolonia](etheria-images/2019/08/escultura-baelo-claudia.jpg "Escultura hallada en Baelo Claudia. ©PG/2019")
 
 ## Qué se sabe de Baelo Claudia
 
@@ -47,7 +47,7 @@ romanas de África, del Mediterráneo y de las zonas del interior de la Penínsu
 visitas de interés (con mapa 
 incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
 
-![ruinas de bolonia, baelo claudia tarifa](etheria_images/2019/08/pie-baelo-claudia-bolonia.jpg "Pieza expuesta en el centro de interpretación. ©PG/2019")
+![ruinas de bolonia, baelo claudia tarifa](etheria-images/2019/08/pie-baelo-claudia-bolonia.jpg "Pieza expuesta en el centro de interpretación. ©PG/2019")
 
 Su máximo apogeo lo alcanzó entre los años 41 y 68 d.C., cuando gobernaban Claudio y 
 Nerón. Se cree que su segundo nombre, Claudia, fue añadido como agradecimiento por 
@@ -70,7 +70,7 @@ de Cádiz) y útiles mapas que muestran cómo eran las rutas comerciales en épo
 También suele haber exposiciones temporales, relacionadas con la época romana, que van 
 alternándose. 
 
-![maqueta baelo claudia, playa bolonia, ruinas romanas cadiz](etheria_images/2019/08/maqueta-baelo-claudia.jpg "Maqueta de Baelo Claudia en el centro de interpretación. ©PG/2019")
+![maqueta baelo claudia, playa bolonia, ruinas romanas cadiz](etheria-images/2019/08/maqueta-baelo-claudia.jpg "Maqueta de Baelo Claudia en el centro de interpretación. ©PG/2019")
 
 Una vez que salgas al exterior –si vas en verano no olvides el sombrero y el protector 
 solar–, algunos lugares en los que te recomendamos detenerte son: 
@@ -86,7 +86,7 @@ industria de la salazón. Originalmente recorría unos 550 metros, desde la fuen
 Punta Paloma hasta el centro de la población antigua –con un desnivel de 54 metros–. Se 
 cree que el depósito principal estaba situado cerca de las termas. 
 
-![Acueducto de Baelo Claudia, ruinas romanas de bolonia, que ver en tarifa](etheria_images/2019/08/acueducto-baelo-claudia.jpg "Acueducto de Baelo Claudia. ©PG/2019")
+![Acueducto de Baelo Claudia, ruinas romanas de bolonia, que ver en tarifa](etheria-images/2019/08/acueducto-baelo-claudia.jpg "Acueducto de Baelo Claudia. ©PG/2019")
 
 ### 2\. Necrópolis
 
@@ -102,7 +102,7 @@ El decumano máximo, cuyo enlosado irregular se puede distinguir perfectamente, 
 extiende entre la puerta Este y la Oeste. A lo largo del mismo salen al encuentro: la 
 basílica, el mercado y las termas urbanas. 
 
-![calzada romana, baelo claudia, ruinas bolonia](etheria_images/2019/08/calzada-romana-baelo-claudia.jpg "Calzada romana. ©PG/2019")
+![calzada romana, baelo claudia, ruinas bolonia](etheria-images/2019/08/calzada-romana-baelo-claudia.jpg "Calzada romana. ©PG/2019")
 
 ### 4\. Factoría de salazón y viviendas
 
@@ -124,7 +124,7 @@ Junto a la factoría, se pueden visitar algunas **viviendas con estancias distri
 alrededor de su patio**. Originalmente, las habitaciones estaban estucadas y decoradas 
 con motivos geométricos o florales. 
 
-![factoria salazon pescado baelo claudia](etheria_images/2019/08/factoria-salazon-baelo-claudia.jpg "Factoría de salazón. ©PG/2019")
+![factoria salazon pescado baelo claudia](etheria-images/2019/08/factoria-salazon-baelo-claudia.jpg "Factoría de salazón. ©PG/2019")
 
 ### 5\. Foro y basílica
 
@@ -138,7 +138,7 @@ Es, quizás, el lugar más identificativo del yacimiento por sus altas columnas 
 fotografiados, ya que a su espectacularidad hay que añadir el telón de fondo de la duna 
 de Bolonia, declarada Monumento Natural. 
 
-![basilica baelo claudia](etheria_images/2019/08/basilica-baelo-claudia-tarifa.jpg "Basílica de la ciudad romana de Baelo Claudia. ©PG/2019")
+![basilica baelo claudia](etheria-images/2019/08/basilica-baelo-claudia-tarifa.jpg "Basílica de la ciudad romana de Baelo Claudia. ©PG/2019")
 
 ### 6\. Mercado
 
@@ -149,7 +149,7 @@ una zona localizada donde se concentra la actividad comercial, al sureste del fo
 la fachada al decumanus máximo. Los **diez comercios** se distribuyen alrededor de un 
 patio, aunque no se sabe exactamente qué era lo que se vendía en cada uno. 
 
-![mercado de baelo claudia](etheria_images/2019/08/mercado-baelo-claudia.jpg "En primer plano se pueden ver los restos del mercado de la ciudad, cerca de la basílica y el foro. ©PG/2019")
+![mercado de baelo claudia](etheria-images/2019/08/mercado-baelo-claudia.jpg "En primer plano se pueden ver los restos del mercado de la ciudad, cerca de la basílica y el foro. ©PG/2019")
 
 ### 7\. Las Termas
 
@@ -157,7 +157,7 @@ En las termas se distiguen las estancias habituales donde se alternaba el frío 
 calor. Los arcos que se pueden observar sostenían el suelo y por sus oquedades 
 **circulaba el calor**, ya que estaban conectados con el horno. 
 
-![termas baelo claudia, ruinas romanas bolonia](etheria_images/2019/08/termas-baelo-claudia.jpg "Termas de Baelo Claudia. ©PG")
+![termas baelo claudia, ruinas romanas bolonia](etheria-images/2019/08/termas-baelo-claudia.jpg "Termas de Baelo Claudia. ©PG")
 
 ### 8\. Teatro
 
@@ -172,7 +172,7 @@ _orchestra_, se sentaban las clases dirigentes; la zona intermedia era ocupada p
 funcionarios públicos y propietarios; y la superior, el gallinero, para el resto de la 
 población. 
 
-![teatro baelo claudia, ruinas romanas bolonia](etheria_images/2019/08/teatro-baelo-claudia.jpg "Teatro de Baelo Claudia. ©PG")
+![teatro baelo claudia, ruinas romanas bolonia](etheria-images/2019/08/teatro-baelo-claudia.jpg "Teatro de Baelo Claudia. ©PG")
 
 ### 9\. Templos del capitolio y de Isis
 
@@ -188,7 +188,7 @@ este templo de la diosa egipcia, al lado del capitolio y al noreste del foro, re
 importancia de su culto. Era de planta rectangular y también tenía una escalinata de 
 acceso. 
 
-![templos baelo claudia](etheria_images/2019/08/templos-baelo-claudia.jpg "Desde los templos del capitolio (primer plano) se divisaba toda la ciudad. ©PG/2019")
+![templos baelo claudia](etheria-images/2019/08/templos-baelo-claudia.jpg "Desde los templos del capitolio (primer plano) se divisaba toda la ciudad. ©PG/2019")
 
 ### 10\. Playa de Bolonia
 
@@ -200,7 +200,7 @@ comer allí mismo en algún chiringuito o pedirlo para llevar y comer con los pi
 arena. Si te animas, trata de subir a la parte más alta de la duna porque las vistas 
 desde arriba son magníficas. 
 
-![playa bolonia, mejores playas de cadiz, playas tarifa](etheria_images/2019/08/playa-bolonia-tarifa.jpg "Playa de Bolonia (Tarifa). ©PG")
+![playa bolonia, mejores playas de cadiz, playas tarifa](etheria-images/2019/08/playa-bolonia-tarifa.jpg "Playa de Bolonia (Tarifa). ©PG")
 
 ## Guía de las ruinas romanas de Baelo Claudia | Etheria Magazine
 

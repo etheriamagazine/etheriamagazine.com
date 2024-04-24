@@ -1,15 +1,15 @@
 ---
 title: "Qué hacer en Oslo en una visita exprés"
 date: 2018-07-13
-coverImage: etheria_images/2018/04/1-Mujeres-Viajeras-en-Oslo-e1566888890200.jpg
+coverImage: etheria-images/2018/04/1-Mujeres-Viajeras-en-Oslo-e1566888890200.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - planes-cultura-ocio
   - viajes-urbanos
   - viajar-sola
-author: 
-  - Pepa G. Marin
+authors: 
+  - Pepa G. Marín
 ---
 
 Viajar a Oslo con la mejor compañía, es decir contigo misma, te depara no pocas 
@@ -19,7 +19,7 @@ artísticos. Para esta escapada en solitario os recomendamos un mínimo de tres 
 son suficientes para visitar la capital noruega sin prisas y, al mismo tiempo, sin 
 aburrirte ni un momento. 
 
-![Recorre Oslo en bicicleta.](etheria_images/2018/04/6-Etheria-Mujeres-Viajeras-en-Oslo-1024x690.jpg "Recorre Oslo en bicicleta.")
+![Recorre Oslo en bicicleta.](etheria-images/2018/04/6-Etheria-Mujeres-Viajeras-en-Oslo-1024x690.jpg "Recorre Oslo en bicicleta.")
 
 Oslo, por su tamaño, es una ciudad perfecta para conocerla caminando. Si te alojas en un 
 hotel céntrico (consulta guía práctica), los lugares de mayor interés se encuentran a 
@@ -29,7 +29,7 @@ banco), las terrazas siempre están dispuestas cuando las necesitas para sentart
 algo o a ver pasar a la gente. Nunca he visto a tantos padres (en masculino) solos 
 empujando el carrito del niño. 
 
-![La Ópera de Oslo refleja el entorno.](etheria_images/2018/04/1-Mujeres-Viajeras-en-Oslo-1024x659.jpg "La Ópera de Oslo refleja el entorno.")
+![La Ópera de Oslo refleja el entorno.](etheria-images/2018/04/1-Mujeres-Viajeras-en-Oslo-1024x659.jpg "La Ópera de Oslo refleja el entorno.")
 
 ## Ópera de Oslo
 
@@ -54,7 +54,7 @@ la muerte. Es igualmente interesante un monolito, situado sobre una pequeña col
 donde otras 121 figuras entrelazan sus cuerpos. Este parque es un buen lugar donde 
 descansar o improvisar un picnic a mediodía. 
 
-![El Museo de Astrup Fearnley cuenta con una valiosa colección de Arte Contemporáneo.](etheria_images/2018/04/3-Mujeres-Viajeras-en-Oslo-Museo-Astreed.jpg "El Museo de Astrup Fearnley cuenta con una valiosa colección de Arte Contemporáneo.")
+![El Museo de Astrup Fearnley cuenta con una valiosa colección de Arte Contemporáneo.](etheria-images/2018/04/3-Mujeres-Viajeras-en-Oslo-Museo-Astreed.jpg "El Museo de Astrup Fearnley cuenta con una valiosa colección de Arte Contemporáneo.")
 
 ## Galería Nacional
 
@@ -76,7 +76,7 @@ la oportunidad de ir de compras a tiendas originales y con productos muy alterna
 Es imposible salir con las manos vacías de sus boutiques de diseño, de antigüedades y de 
 segunda mano. 
 
-![Grünerlokka es el barrio alternativo y hipster de Oslo.](etheria_images/2018/04/7-Etheria-Mujeres-Viajeras-en-Oslo-1024x741.jpg "Grünerlokka es el barrio alternativo y hipster de Oslo.")
+![Grünerlokka es el barrio alternativo y hipster de Oslo.](etheria-images/2018/04/7-Etheria-Mujeres-Viajeras-en-Oslo-1024x741.jpg "Grünerlokka es el barrio alternativo y hipster de Oslo.")
 
 ## Mercado Mathallen
 
@@ -95,7 +95,7 @@ cuatro mil años de esquí, además de contar los avatares de varias expedicione
 (de Nansen y Amundsen) y la historia olímpica. Podéis por probar el simulador de saltos 
 o, incluso, saltar en tirolina desde lo alto. 
 
-![Navegar alrededor del fiordo de Oslo te depara interesantes perspectivas.](etheria_images/2018/04/9-Etheria-Mujeres-Viajeras-Crucero-en-Oslo-1024x683.jpg "Navegar alrededor del fiordo de Oslo te depara interesantes perspectivas.")
+![Navegar alrededor del fiordo de Oslo te depara interesantes perspectivas.](etheria-images/2018/04/9-Etheria-Mujeres-Viajeras-Crucero-en-Oslo-1024x683.jpg "Navegar alrededor del fiordo de Oslo te depara interesantes perspectivas.")
 
 ## Crucero
 
@@ -114,7 +114,7 @@ Edvard Munch, Bjørnstjerne Bjørnson, Richard Nordraak, Christian Krogh y Alf P
 es un lugar tétrico, ni mucho menos, sino que es un espacio habitual de paseo y de calma 
 para leer o desconectar un rato. 
 
-![Una extensión recomendable desde Oslo es un crucero por los fiordos noruegos.](etheria_images/2018/04/14-Etheria-Mujeres-Viajeras-en-Fiordos-Noruega-1024x644.jpg "Una extensión recomendable desde Oslo es un crucero por los fiordos noruegos.")
+![Una extensión recomendable desde Oslo es un crucero por los fiordos noruegos.](etheria-images/2018/04/14-Etheria-Mujeres-Viajeras-en-Fiordos-Noruega-1024x644.jpg "Una extensión recomendable desde Oslo es un crucero por los fiordos noruegos.")
 
 ## Excursión desde Oslo
 

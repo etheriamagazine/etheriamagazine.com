@@ -1,13 +1,13 @@
 ---
 title: "Dónde celebrar el Fin de Año en Madrid: hoteles y restaurantes con mucho estilo"
 date: 2023-11-28
-coverImage: etheria_images/2023/11/nochevieja-madrid-hotel-urso-mesa.jpg
+coverImage: etheria-images/2023/11/nochevieja-madrid-hotel-urso-mesa.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Cada vez son más las que deciden despedir el año por todo lo alto, olvidándose de 
@@ -16,7 +16,7 @@ ventana esa noche, como si decides visitar la capital para cerrar el año 2023, 
 vistazo a nuestra lista de hoteles y restaurantes donde celebrar el Fin de Año en 
 Madrid. Ya verás cómo te van a apetecer todas las cenas y fiestas que te proponemos. 
 
-![Mesa de gala para la cena de Fin de Año en el hotel URSO.](etheria_images/2023/11/nochevieja-madrid-hotel-urso-mesa.jpg "Mesa de gala para la cena de Fin de Año en el © hotel URSO.")
+![Mesa de gala para la cena de Fin de Año en el hotel URSO.](etheria-images/2023/11/nochevieja-madrid-hotel-urso-mesa.jpg "Mesa de gala para la cena de Fin de Año en el © hotel URSO.")
 
 Si hay algo que en Madrid se nos da bien es celebrar. El madrileño lleva en su ADN el 
 gusto por la fiesta y el brindis por cualquier cosa, así que imagina cómo se transforma 
@@ -36,7 +36,7 @@ almendras o el Lomo alto de Wagyu, croqueta líquida de trufa y shitake. Para te
 dos postres: uno con tocinillo de cielo y otro que combina el chocolate con la pera. 
 ¡Deliciosos! 
 
-![Lomo alto de Wagyu, croqueta líquida de trufa y shitake del Hotel Villa Magna.](etheria_images/2023/11/nochevieja-madrid-villa-magna-wayu.jpg "Lomo alto de Wagyu, croqueta líquida de trufa y shitake del © Hotel Villa Magna.")
+![Lomo alto de Wagyu, croqueta líquida de trufa y shitake del Hotel Villa Magna.](etheria-images/2023/11/nochevieja-madrid-villa-magna-wayu.jpg "Lomo alto de Wagyu, croqueta líquida de trufa y shitake del © Hotel Villa Magna.")
 
 En el Rosewood Villa Magna también se puede celebrar la Nochevieja de una forma más 
 íntima en el **restaurante Amós**, con un delicado menú del chef Jesús Sánchez basado en 
@@ -61,7 +61,7 @@ principales se basan en el rodaballo y en el lechazo y, para terminar, su famoso
 Ginkgo Rocher con salsa de chocolate. Por supuesto, todo el menú maridado con una 
 excelente selección de vinos y champanes. 
 
-![Cena de Fin de Año en el Ginkgo Restaurante & Sky Bar.](etheria_images/2023/11/nochevieja-madrid-ginko-sky-bar.jpg "Cena de Fin de Año en el © Ginkgo Restaurante & Sky Bar.")
+![Cena de Fin de Año en el Ginkgo Restaurante & Sky Bar.](etheria-images/2023/11/nochevieja-madrid-ginko-sky-bar.jpg "Cena de Fin de Año en el © Ginkgo Restaurante & Sky Bar.")
 
 **Precio:** 450 euros. Incluye además amenización de la noche antes y después de la 
 cena, uvas de la suerte, cotillón, barra libre y recena. **Dónde:** Hotel VP Plaza 
@@ -79,7 +79,7 @@ Presa Joselito maridada con trufa negra, todo acompañado de un interesante mari
 Para esta fecha, se puede disfrutar también de un menú vegetariano y de un menú para los 
 más pequeños. 
 
-![Mesa de gala en el hotel Urban.](etheria_images/2023/11/nochevieja-madridhotel-Urban.jpg "Mesa de gala en el © hotel Urban.")
+![Mesa de gala en el hotel Urban.](etheria-images/2023/11/nochevieja-madridhotel-Urban.jpg "Mesa de gala en el © hotel Urban.")
 
 **Precio**: 350 euros. Incluye cotillón y recena. **Dónde:** hotel Urban. Carrera de San 
 Jerónimo 34. **Reservas:** Tel. +34 917 877 770. 
@@ -95,7 +95,7 @@ brasa y esencia de su cabeza o la Costilla de vaca rubia gallega glaseada con pa
 cilantro. Y, como postre, la Mousse de chocolate negro con crujiente de turrón y cremoso 
 de vainilla. Sin duda, perfectos para despedir el año con el mejor sabor de boca. 
 
-![Costilla de vaca rubia gallega glaseada con patata y cilantro de Mario Sandoval](etheria_images/2023/11/nochevieja-madrid-qu-Costilla.jpg "Costilla de vaca rubia gallega glaseada con patata y cilantro del restaurante Qú del © JW Marriott Hotel Madrid.")
+![Costilla de vaca rubia gallega glaseada con patata y cilantro de Mario Sandoval](etheria-images/2023/11/nochevieja-madrid-qu-Costilla.jpg "Costilla de vaca rubia gallega glaseada con patata y cilantro del restaurante Qú del © JW Marriott Hotel Madrid.")
 
 **Precio:** 450 euros (maridaje estándar 100 euros y maridaje premium 250 euros). 
 Incluye copa de champán y uvas de la suerte. **Dónde:** restaurante Qú. JW Marriot Hotel 
@@ -110,7 +110,7 @@ emulsión de albahaca) y un menú degustación en el que no falta el rape ni el 
 Para terminar, la excelente ubicación de este hotel permite tomar las uvas y una copa de 
 champán en su terraza “Nota Alta”, frente al mismísimo reloj de la Puerta del Sol. 
 
-![Restaurante Albéniz del UMusic Hotel.](etheria_images/2023/11/nochevieja-madrid-Hotel-U-Music.jpg "Restaurante Albéniz del © UMusic Hotel.")
+![Restaurante Albéniz del UMusic Hotel.](etheria-images/2023/11/nochevieja-madrid-Hotel-U-Music.jpg "Restaurante Albéniz del © UMusic Hotel.")
 
 **Precio:** 300 Euros. **Dónde:** Hotel UMusic Madrid. Calle La Paz, 11. **Reservas:** 
 Tel. +34 911 231 099 
@@ -127,7 +127,7 @@ negro en costra de jengibre y especias chinas sobre arroz glutinoso y perlas de
 vinagreta y como segundo el tradicional Pato Pekín Deluxe esta vez acompañado con caviar 
 beluga. 
 
-![pato Pekín y sala del restaurante China Crown](etheria_images/2023/11/nochevieja-madrid-CHINA-CROWN.jpg "Cena de Fin de Año en el restaurante © China Crown.")
+![pato Pekín y sala del restaurante China Crown](etheria-images/2023/11/nochevieja-madrid-CHINA-CROWN.jpg "Cena de Fin de Año en el restaurante © China Crown.")
 
 **Precio:** 280 euros. Incluye las uvas de la suerte, copa de champán, cotillón y copa 
 de destilado. Se puede contratar aparte la barra libre en Leolog Asian Club, del mismo, 
@@ -144,7 +144,7 @@ asado en compota. Para terminar, Tartita de fruta cocida en vino y mazapán, Lin
 chocolate y dulces navideños. Y, por supuesto, las tradicionales uvas de la suerte y un 
 DJ para amenizar la fiesta posterior. 
 
-![Mesa de Fin de Año del hotel URSO.](etheria_images/2023/11/nochevieja-madrid-hotel-urso-arbol.jpg "Mesa de Fin de Año del © hotel URSO.")
+![Mesa de Fin de Año del hotel URSO.](etheria-images/2023/11/nochevieja-madrid-hotel-urso-arbol.jpg "Mesa de Fin de Año del © hotel URSO.")
 
 **Precio:** 299 euros. **Dónde:** hotel URSO. Calle de Mejía Lequerica, 8. **Reservas:** 
 Tel. + 34 914 444 458. 
@@ -175,7 +175,7 @@ Fin de Año, pero no quieres perderte la fiesta, el 30 de diciembre el hotel cel
 se puede disfrutar también de un **mercado navideño** en el Roxy Garden de la mano de 
 _Otro Puto Mercadillo_ con presencia de artistas independientes. 
 
-![Merluza de pincho de la cena de Fin de Año del Hard Rock Hotel Madrid.](etheria_images/2023/11/nochevieja-madrid-hard-rock-hotel-Merluza-de-pincho-a-la-brasa.jpg "Merluza de pincho de la cena de Fin de Año del © Hard Rock Hotel Madrid.")
+![Merluza de pincho de la cena de Fin de Año del Hard Rock Hotel Madrid.](etheria-images/2023/11/nochevieja-madrid-hard-rock-hotel-Merluza-de-pincho-a-la-brasa.jpg "Merluza de pincho de la cena de Fin de Año del © Hard Rock Hotel Madrid.")
 
 **Precio:** 240 euros. **Dónde:** hotel Hard Rock Madrid. Ronda de Atocha, 17. 
 **Reservas:** Tel. +34 915 308 000. 

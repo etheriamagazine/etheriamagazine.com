@@ -1,16 +1,16 @@
 ---
 title: "MeToo Yogui, cuando el yoga se utiliza para cometer abusos"
 date: 2021-06-18
-coverImage: etheria_images/2021/06/posturas-yoga.jpg
+coverImage: etheria-images/2021/06/posturas-yoga.jpg
 categories: 
   - salud-bienestar-nutricion
-author: 
+authors: 
   - Maria Miret
 ---
 
 El MeToo ha llegado también al mundo del yoga, donde los casos de abusos han salpicado a diferentes escuelas y estilos. Conocidos maestros y gurús están entre los acusados. ¿Es abuso de poder, hay que reformar a los profesores, se debe pedir permiso a los alumnos para ser tocados, es realmente algo generalizado? Sigue leyendo para conocer todos los puntos de vista que ha generado el MeToo Yogui.
 
-![metoo yogui abusos en yoga](etheria_images/2021/06/denuncias-yoga.jpg "Los abusos también han llegado al mundo del yoga. © Conscious Design.")
+![metoo yogui abusos en yoga](etheria-images/2021/06/denuncias-yoga.jpg "Los abusos también han llegado al mundo del yoga. © Conscious Design.")
 
 El MeToo ha llegado también al mundo del yoga. Rachel Brathen, “Yoga Girl” en redes 
 sociales, ha publicado las historias de **más de 100 personas víctimas de abusos**. 
@@ -36,7 +36,7 @@ Tampoco se libran otras conocidas escuelas como Iyengar, cuyo maestro habría go
 sus alumnos. Otro de sus profesores, Manouso Manos, fue sancionado en 2019 tras décadas 
 de abusos. 
 
-![contacto en yoga metoo yogui](etheria_images/2021/06/metooyogui-cuando-denunciar.jpg "El contacto para corregir posturas ha propiciado ciertos abusos. © Annie Spraat")
+![contacto en yoga metoo yogui](etheria-images/2021/06/metooyogui-cuando-denunciar.jpg "El contacto para corregir posturas ha propiciado ciertos abusos. © Annie Spraat")
 
 ## “En España, si hablas más de la cuenta te metes en un lío tremendo”
 
@@ -60,7 +60,7 @@ Conocido por popularizar los ajustes corporales mediante los cuales los profesor
 corrigen la postura de sus alumnos, el creador del Ashtanga yoga había fallecido en 
 2009, a los 93 años de edad. En 2018 se hicieron públicos otros 9 casos en Canadá. 
 
-![yoga abuso secual o de poder](etheria_images/2021/06/posturas-yoga.jpg "¿Abuso sexual o de poder en el yoga? © Conscious Design")
+![yoga abuso secual o de poder](etheria-images/2021/06/posturas-yoga.jpg "¿Abuso sexual o de poder en el yoga? © Conscious Design")
 
 ### MeToo Yogui, abuso sexual o abuso de poder
 
@@ -82,7 +82,7 @@ situaciones que vienen siempre del mismo abuso de poder, que se ramifica, como e
 sexual”. También Ramiro Calle, uno de los introductores del yoga en España, lo ha 
 denunciado en muchas ocasiones. 
 
-![grupo de yoga](etheria_images/2021/06/grupo-yoga.jpg "Grupo practicando yoga. © Dylan Gillis")
+![grupo de yoga](etheria-images/2021/06/grupo-yoga.jpg "Grupo practicando yoga. © Dylan Gillis")
 
 ## “Hay pocas denuncias y son muy poco demostrables”
 
@@ -113,7 +113,7 @@ reconoce que “los casos de abusos son terribles. **Un solo caso hace un daño 
 a la persona** que lo sufre”. Por eso hay que “denunciar inmediatamente cualquier tipo 
 de abuso sea de la índole que sea y ser implacable”. 
 
-![comites para abusos de yoga](etheria_images/2021/06/escuelas-yoga-abusos.jpg "Yoga Alliance tiene previsto crear comités para reformar a los profesores titulados. © Katie Bush")
+![comites para abusos de yoga](etheria-images/2021/06/escuelas-yoga-abusos.jpg "Yoga Alliance tiene previsto crear comités para reformar a los profesores titulados. © Katie Bush")
 
 ## “La intención que debe predominar es la de ayudar a los demás”
 
@@ -141,7 +141,7 @@ a los demás, eso es esencial”, en opinión del músico. “Si lo que te mueve
 tienes que ser autoexigente y encarnar aquello de lo que hablas. Si no, hacemos un flaco 
 favor al yoga y a las personas que lo necesitan”. 
 
-![yoga disciplina saludable](etheria_images/2021/06/abusos-poder-yoga.jpg "El yoga, una disciplina saludable a nivel físico y mental. © Ginny Rose Stewart")
+![yoga disciplina saludable](etheria-images/2021/06/abusos-poder-yoga.jpg "El yoga, una disciplina saludable a nivel físico y mental. © Ginny Rose Stewart")
 
 ## “El yoga no es ni mejor ni peor”
 
@@ -162,7 +162,7 @@ ahora. “Con frecuencia el ambiente no era todo lo espiritual que uno esperaba�
 confiesa. Gopala, profesor de yoga Sivananda, va más allá: “no hay escuela de yoga en 
 que no haya habido ningún caso de denuncias en los orígenes”. 
 
-![metoo yogui y buenas practicas yoga](etheria_images/2021/06/abusos-yoga-683x1024.jpg "En el mundo del yoga predominan las buenas prácticas. © Rima Kruciene")
+![metoo yogui y buenas practicas yoga](etheria-images/2021/06/abusos-yoga-683x1024.jpg "En el mundo del yoga predominan las buenas prácticas. © Rima Kruciene")
 
 ## “En el mundo del yoga predomina lo bueno”
 
@@ -188,7 +188,7 @@ prácticas que quieren devolver a la persona su libertad o autonomía y encontra
 manera de crecer y mejorar” aunque matiza: “donde haya seres humanos habrá conflictos y 
 el mundo del yoga no es ni mejor ni peor”. 
 
-![mujeres en yoga](etheria_images/2021/06/me-too-yogui-1.jpg "El segmento femenino, uno de los que más practican yoga. © Alexandra Tran")
+![mujeres en yoga](etheria-images/2021/06/me-too-yogui-1.jpg "El segmento femenino, uno de los que más practican yoga. © Alexandra Tran")
 
 ### También te puede interesar...
 

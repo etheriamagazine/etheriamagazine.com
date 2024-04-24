@@ -1,20 +1,20 @@
 ---
 title: "Gastronomía de altura en los 5 restaurantes del renovado Mandarin Oriental Ritz"
 date: 2021-04-12
-coverImage: etheria_images/2021/04/Ritz-Madrid-Deessa-gastronomia.jpg
+coverImage: etheria-images/2021/04/Ritz-Madrid-Deessa-gastronomia.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
   - hoteles
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El Mandarin Oriental Ritz de Madrid abre las puertas tras su renovación y lo hace con una propuesta gastronómica dirigida por el prestigioso chef con tres estrellas Michelin Quique Dacosta. Ve pensando ya por cuál de sus cinco restaurantes quieres empezar y no tardes en hacer la reserva. Merece la pena y es un plan de lujo perfecto para disfrutar en pareja o con tus amigas.
 
-![hoteles de lujo en Madrid](etheria_images/2021/04/Ritz-cupula-cristal.jpg "Cúpula de cristal del Mandarin Oriental Ritz.")
+![hoteles de lujo en Madrid](etheria-images/2021/04/Ritz-cupula-cristal.jpg "Cúpula de cristal del Mandarin Oriental Ritz.")
 
 Teníamos ya ganas en Madrid de que el renovado Mandarin Oriental Ritz abriera sus 
 puertas tras su exhaustiva reforma. La renovación ha supuesto un cambio total en uno de 
@@ -29,7 +29,7 @@ pensada para cada espacio por el chef y la _sommelier_ Silvia García.
 No pierdas tiempo y reserva ya mismo mesa en alguno de estos cinco restaurantes del 
 Mandarin Oriental Ritz a través de la web del hotel [mandarinoriental.es](https://www.mandarinoriental.es/madrid/hotel-ritz/fine-dining) 
 
-![restaurantes del Mandarin Oriental Ritz](etheria_images/2021/04/Ritz-Madrid-Garden-Food.jpg "Delicatessen en el Jardín del Ritz.")
+![restaurantes del Mandarin Oriental Ritz](etheria-images/2021/04/Ritz-Madrid-Garden-Food.jpg "Delicatessen en el Jardín del Ritz.")
 
 ## Deessa
 
@@ -41,7 +41,7 @@ menús: el **Menú Clásicos Quique Dacosta**, que como su propio nombre indica 
 algunos de los platos más emblemáticos de este cocinero; y el **Menú Contemporáneo 
 QDRitz**, con propuestas creadas en exclusiva para el Mandarin Oriental Ritz Madrid. 
 
-![restaurantes del Mandarin Oriental Ritz](etheria_images/2021/04/Ritz-Madrid-Deessa.jpg "Restauranta Deessa.")
+![restaurantes del Mandarin Oriental Ritz](etheria-images/2021/04/Ritz-Madrid-Deessa.jpg "Restauranta Deessa.")
 
 ¿Quieres aún más exclusividad? Entonces tendrás que reservar el **salón privado Condesa 
 Masslov** (llamado así en honor a Mata-Hari, ya que fue éste el nombre con el que se 
@@ -58,7 +58,7 @@ una carta con sabores clásicos renovados bajo la perspectiva de Quique Dacosta.
 puedes dejar de probar su delicada _Pâtisserie_, que llega con aires franceses de la 
 mano de Claudia Capuzzo y ofrece dulces artesanos llenos de detalles. 
 
-![nuevos restaurantes del Ritz Oriental Madrid](etheria_images/2021/04/ritz-madrid-palm-court.jpg "Platos del Palm Court.")
+![nuevos restaurantes del Ritz Oriental Madrid](etheria-images/2021/04/ritz-madrid-palm-court.jpg "Platos del Palm Court.")
 
 Un espacio tradicional y lleno de empaque que se ha modernizado sin perder su encanto. 
 Como curiosidad, ¿sabías que el hotel Mandarin Oriental Ritz es el único hotel que posee 
@@ -72,7 +72,7 @@ de poder degustar referencias de los mejores _champagne_s, cavas y Corpinnats, t
 el placer de saborear _delicatesen_ especialmente creadas para que mariden con el dorado 
 elemento. Un plan 'chic' y único para disfrutar con amigas. 
 
-![nuevos restaurantes del Ritz Oriental Madrid](etheria_images/2021/04/Ritz-Madrid-Champagne-bar-propuesta-gastronomica.jpg "Propuesta gastronómica del Champagne Bar.")
+![nuevos restaurantes del Ritz Oriental Madrid](etheria-images/2021/04/Ritz-Madrid-Champagne-bar-propuesta-gastronomica.jpg "Propuesta gastronómica del Champagne Bar.")
 
 ## Pictura
 
@@ -84,7 +84,7 @@ tienen un vínculo con los platos creados para cada uno de ellos. Una auténtica
 revolución mixológica y gastronómica que promete experiencias únicas que seguro que no 
 te quieres perder. 
 
-![coctelerías en Madrid](etheria_images/2021/04/Ritz-Madrid-Liquid-Cuisine.jpg "'Liquid cuisine' en Pictura.")
+![coctelerías en Madrid](etheria-images/2021/04/Ritz-Madrid-Liquid-Cuisine.jpg "'Liquid cuisine' en Pictura.")
 
 Y si no bebes alcohol, en este espacio encontrarás una carta de _Free-Spirits_ con 
 sorprendentes combinaciones basadas en productos saludables y naturales tan atractiva 
@@ -92,7 +92,7 @@ como la carta de cócteles tradicional. Por cierto, no dejes de asomarte a su ba
 decorada con una colección de retratos realizados por conocidos artistas españoles que 
 hacen que parezca una auténtica pared de museo. 
 
-![restaurantes del Mandarin Oriental Ritz](etheria_images/2021/04/Ritz-Madrid-jardin.jpg "El Jardín del Mandarin Oriental Ritz.")
+![restaurantes del Mandarin Oriental Ritz](etheria-images/2021/04/Ritz-Madrid-jardin.jpg "El Jardín del Mandarin Oriental Ritz.")
 
 ## El Jardín del Ritz
 

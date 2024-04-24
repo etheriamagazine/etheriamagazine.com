@@ -1,11 +1,11 @@
 ---
 title: "Crucero por el Mekong. Vietnam y Camboya a través del río de la vida"
 date: 2019-09-13
-coverImage: etheria_images/2019/09/crucero-Aqua-Mekong.jpg
+coverImage: etheria-images/2019/09/crucero-Aqua-Mekong.jpg
 categories: 
   - viajes-para-mujeres
-author: 
-  - Cristina
+authors: 
+  - Cristina R. Bareño
 ---
 
 Más que un río, el Mekong significa vida. Cultura, tradiciones y origen. A su paso va 
@@ -13,7 +13,7 @@ haciendo mella, no solo en la tierra que erosiona, sino también en los habitant
 han establecido a pie de sus orillas. En Etheria Magazine hemos realizado un crucero por 
 el Mekong para contarte todo lo que no debes perderte. 
 
-![Productos de un mercado en Vietnam](etheria_images/2019/09/mercados-crucero-mekong-900x597.jpg "Visita al mercado de Sa Dec, en Vietnam, durante el crucero por el Mekong. ©Cristina R. Bareño")
+![Productos de un mercado en Vietnam](etheria-images/2019/09/mercados-crucero-mekong-900x597.jpg "Visita al mercado de Sa Dec, en Vietnam, durante el crucero por el Mekong. ©Cristina R. Bareño")
 
 Desde la cordillera del Himalaya hasta el mar de China Meridional, el Mekong serpentea a 
 lo largo de los **4.350 kilómetros** que cruzan el Tibet, atraviesan China, Myanmar, 
@@ -33,7 +33,7 @@ Y es precisamente esa riqueza, tanto cultural como de recursos, lo que convierte
 descubrimientos, de aprendizaje y cercanía, de sabores y aromas, de paisajes de ensueño 
 y de la magia de los amaneceres y atardeceres sobre su cauce. 
 
-![Crucero Aqua Mekong.](etheria_images/2019/09/crucero-Aqua-Mekong-900x596.jpg "Crucero Aqua Mekong.© Crucero Aqua Mekong.")
+![Crucero Aqua Mekong.](etheria-images/2019/09/crucero-Aqua-Mekong-900x596.jpg "Crucero Aqua Mekong.© Crucero Aqua Mekong.")
 
 ## Un crucero de lujo por el Mekong
 
@@ -52,7 +52,7 @@ inmensa puerta a algunas de las ruinas más importantes del imperio jemer, auté
 coloridas danzas del unicornio, y un sinfín más de sorpresas y descubrimientos ante los 
 que no querréis ni pestañear. 
 
-![barca para excursiones por el Mekong](etheria_images/2019/09/crucero-Aqua-Mekong-Tender-900x600.jpg "Con esta embarcación se baja a tierra desde el © Aqua Mekong.")
+![barca para excursiones por el Mekong](etheria-images/2019/09/crucero-Aqua-Mekong-Tender-900x600.jpg "Con esta embarcación se baja a tierra desde el © Aqua Mekong.")
 
 ## Experiencias a bordo
 
@@ -67,7 +67,7 @@ salidas en bicicleta y _kayak_; las charlas sobre la historia de Vietnam y Cambo
 por qué no, los momentos de paz viendo el mágico cauce del Mekong pasar a través de 
 nuestra ventana. 
 
-![sala de cine del barco Aqua Mekong](etheria_images/2019/09/Aqua-Mekong-cine.jpg "Cine a bordo del © Aqua Mekong.")
+![sala de cine del barco Aqua Mekong](etheria-images/2019/09/Aqua-Mekong-cine.jpg "Cine a bordo del © Aqua Mekong.")
 
 ## Excursiones propuestas en el crucero
 
@@ -78,7 +78,7 @@ la inmensa variedad de productos que se cultivan gracias al propio río.
 > Ajetreo, aromas, sonidos y bullicio llenan de encanto cada paso entre los pequeños y 
 > repletos puestos de los mercados. 
 
-![cPuesto de pescado seco en Chau Doc Market, Vietnam.](etheria_images/2019/09/mercado-crucero-mekong-900x657.jpg "Puesto de pescado seco en Chau Doc Market, Vietnam. ©CRB")
+![cPuesto de pescado seco en Chau Doc Market, Vietnam.](etheria-images/2019/09/mercado-crucero-mekong-900x657.jpg "Puesto de pescado seco en Chau Doc Market, Vietnam. ©CRB")
 
 **The Lover's House** es otra de las visitas más llamativas a orillas del Mekong, sobre 
 todo para los más románticos. Esta histórica edificación nos descubre la historia 
@@ -88,14 +88,14 @@ No faltan visitas religiosas como el **templo de Binh Thanh Island** o el budist
 **Preah Prosop**. Allí es posible empaparse de sus creencias y conocer un poco más sobre 
 la misteriosa y discreta vida de los monjes budistas. 
 
-![Palacio Real de Phnom Penh.](etheria_images/2019/09/templo-crucero-mekong-700x1024.jpg "Palacio Real de Phnom Penh. ©CRB")
+![Palacio Real de Phnom Penh.](etheria-images/2019/09/templo-crucero-mekong-700x1024.jpg "Palacio Real de Phnom Penh. ©CRB")
 
 Para rematar, nada como interactuar con sus gentes. Los niños, siempre curiosos y 
 dispuestos a regalarnos sus mejores sonrisas, son el mejor ejemplo de la amabilidad y el 
 cariño con el que reciben a las visitas en rincones como **My An Hung Village** o la 
 **escuela de Koh Oknha Tey**. 
 
-![Niños en Koh Oknha Tey, en Camboya.](etheria_images/2019/09/excursiones-crucero-lujo-mekong-900x619.jpg "Escala en Koh Oknha Tey, en Camboya. ©CRB")
+![Niños en Koh Oknha Tey, en Camboya.](etheria-images/2019/09/excursiones-crucero-lujo-mekong-900x619.jpg "Escala en Koh Oknha Tey, en Camboya. ©CRB")
 
 ## Un barco de diseño
 
@@ -107,7 +107,7 @@ barco. Además de estos pequeños “retiros privados”, la nave cuenta con esp
 como salón con su barra de cócteles, sala de juegos y de cine, _spa_, gimnasio, comedor 
 y piscina exterior con zona de relajación. 
 
-![Suite del barco Aqua Mekong.](etheria_images/2019/09/crucero-suite-Aqua-Mekong.jpg "Suite del © Aqua Mekong.")
+![Suite del barco Aqua Mekong.](etheria-images/2019/09/crucero-suite-Aqua-Mekong.jpg "Suite del © Aqua Mekong.")
 
 En cuanto al diseño del barco, ha estado a cargo del **arquitecto Noor Design,** con el 
 objetivo de convertirse en un elemento integrado en el río, sostenible y autosuficiente. 
@@ -124,7 +124,7 @@ Angkor](https://etheriamagazine.com/2019/01/17/que-ver-angkor-bailarinas-robadas
 donde quedarse maravillados con uno de los complejos arqueológicos más majestuosos del 
 mundo. 
 
-![Cocina de Camboya: ensalada y pho soup de verduras y carne.](etheria_images/2019/09/cocina-comida-crucero-mekong-900x585.jpg "Cocina local a bordo: ensalada y pho soup de verduras y carne. ©CRB")
+![Cocina de Camboya: ensalada y pho soup de verduras y carne.](etheria-images/2019/09/cocina-comida-crucero-mekong-900x585.jpg "Cocina local a bordo: ensalada y pho soup de verduras y carne. ©CRB")
 
 ## Guía práctica de Angkor
 

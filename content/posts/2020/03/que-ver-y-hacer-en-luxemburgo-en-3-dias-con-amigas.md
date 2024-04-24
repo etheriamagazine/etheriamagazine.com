@@ -1,17 +1,17 @@
 ---
 title: "6 planes en Luxemburgo que desvelan sus grandes secretos"
 date: 2020-03-04
-coverImage: etheria_images/2020/02/luxemburgo-viajes.jpg
+coverImage: etheria-images/2020/02/luxemburgo-viajes.jpg
 categories: 
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
-  - Miriam
+authors: 
+  - Miriam González
 ---
 
 A pesar de estar tan en el medio de todo, suele ser el pequeño gran olvidado en las rutas por el centro de Europa. Luxemburgo es uno de esos grandes secretos que merece la pena descubrir para darse el gustazo de disfrutar con tanto en tan poco espacio. Castillos, palacios, paisajes de anuncio… ¿Empezamos?
 
-![barrio grund planes en luxemburgo](etheria_images/2020/02/luxemburgo-viajes-900x602.jpg "Pintorescas viviendas de Grund. © Paul Hilbert / LFT")
+![barrio grund planes en luxemburgo](etheria-images/2020/02/luxemburgo-viajes-900x602.jpg "Pintorescas viviendas de Grund. © Paul Hilbert / LFT")
 
 Luxemburgo es el claro ejemplo de que el tamaño no es tan importante –o no debería 
 serlo– para seducir. Cuando faltan otros atributos, como el de las dimensiones, habría 
@@ -34,7 +34,7 @@ Este es uno de los países más ricos del mundo pero ofrece la posibilidad de pa
 calma, sin estrés, entre bosques y castillos de cuento. No te pierdas estos 6 planes en 
 Luxemburgo con amigas porque formarán parte de vuestro recuerdo toda la vida. 
 
-![planes en luxemburgo](etheria_images/2020/02/viaje-luxemburgo-etheria-900x589.jpg "Romántica imagen de Luxemburgo. © Exclusief.be / LFT")
+![planes en luxemburgo](etheria-images/2020/02/viaje-luxemburgo-etheria-900x589.jpg "Romántica imagen de Luxemburgo. © Exclusief.be / LFT")
 
 ## 1\. El balcón más bello de Europa
 
@@ -51,7 +51,7 @@ haciendo ilusiones con endurecer piernas a base de escaleras, sentimos decirte q
 unos cómodos ascensores gratuitos para evitarte el cansancio. Y se agradecen mucho, por 
 cierto. 
 
-![planes en luxemburgo barrio grund](etheria_images/2020/02/luxemburgo-viaje-mujeres-900x600.jpg "El barrio de Grund al atardecer es aún más misterioso. © Alfonso Salgueiro / LFT")
+![planes en luxemburgo barrio grund](etheria-images/2020/02/luxemburgo-viaje-mujeres-900x600.jpg "El barrio de Grund al atardecer es aún más misterioso. © Alfonso Salgueiro / LFT")
 
 ## 2\. Grund, un barrio para perderse
 
@@ -62,7 +62,7 @@ crecido entre las rocas a la orilla del Alzette. Además, si hay que hacer un al
 lugar ideal para reponer fuerzas en alguno de los tantos restaurantes con terrazas que 
 encontrarás por el camino. 
 
-![abadia luxemburgo](etheria_images/2020/02/abadia-luxemburgo-900x601.jpg "Abadía de Neumünster. © Exclusief.be / LFT")
+![abadia luxemburgo](etheria-images/2020/02/abadia-luxemburgo-900x601.jpg "Abadía de Neumünster. © Exclusief.be / LFT")
 
 Uno de los imprescindibles en el barrio de Grund es la [abadía de 
 Neumünster](https://www.neimenster.lu/en/Culture/neimenster?gclid=CjwKCAiAhJTyBRAvEiwAln2qBxd1KK9aFkXOFjGwcQq4zkG47OiYKfS7Cp8YifVqXw-FzI_JJX_6vhoCUBEQAvD_BwE). 
@@ -82,7 +82,7 @@ piedra adentro, que, con el tiempo, resultaron ser toda una fortaleza bajo tierr
 parte del Patrimonio de la Humanidad de la Unesco y es la gran atracción de Luxemburgo, 
 ya que se puede visitar desde febrero a noviembre. 
 
-![vistas desde grund planes en luxemburgo](etheria_images/2020/02/luxemburgo-900x602.jpg "Desde Grund se pueden ver las construcciones de Casemates. © Paul Hilbert / LFT")
+![vistas desde grund planes en luxemburgo](etheria-images/2020/02/luxemburgo-900x602.jpg "Desde Grund se pueden ver las construcciones de Casemates. © Paul Hilbert / LFT")
 
 ## 4\. Un palacio de cuento
 
@@ -93,7 +93,7 @@ medio de la capital luxemburguesa luce espléndido. Para quienes quieran ser pri
 por un día, pueden pasear por sus salones en los meses de verano, cuando la familia real 
 se va de vacaciones. 
 
-![palacio ducal luxemburgo, viaje con mujeres](etheria_images/2020/02/palacio-ducal-luxemburgo-900x600.jpg "Palacio ducal de Luxemburgo, en la Ciudad Vieja. © Exclusief.be / LFT")
+![palacio ducal luxemburgo, viaje con mujeres](etheria-images/2020/02/palacio-ducal-luxemburgo-900x600.jpg "Palacio ducal de Luxemburgo, en la Ciudad Vieja. © Exclusief.be / LFT")
 
 El palacio es el aperitivo para recorrer el centre de Ville, tan apetecible como 
 paseable. Todo como sacado de un cuento del siglo XVII, como la plaza 
@@ -103,7 +103,7 @@ el neoclásico Hôtel de Ville. Sin dejarnos por el camino la catedral de Notre 
 no tiene nada que ver en estilo con la de París, pero con el mismo encanto de cuento de 
 toda esta zona de la ciudad. 
 
-![luxemburgo, viaje con mujeres, excursiones luxemburgo](etheria_images/2020/02/luxemburo-viajes-etheria-683x1024.jpg "Luxemburgo,una ciudad más verde de lo que se cree. © Frédéric Collin / LFT")
+![luxemburgo, viaje con mujeres, excursiones luxemburgo](etheria-images/2020/02/luxemburo-viajes-etheria-683x1024.jpg "Luxemburgo,una ciudad más verde de lo que se cree. © Frédéric Collin / LFT")
 
 ## 5\. Conocer Europa desde dentro
 
@@ -113,7 +113,7 @@ la imagen del país que más te suene tenga que ver con algún ministro yendo o 
 Europa, es que aquí laten algunas de las instituciones europeas más importantes, como el 
 Tribunal de Cuentas, el de Justicia y la Secretaría del Parlamento Europeo. 
 
-![Barrio de Kirchberg, viaje con mujeres luxemburgo](etheria_images/2020/02/luxemburgo-kirchberg-900x617.jpg "Barrio de Kirchberg. © Pulsa Pictures / LFT")
+![Barrio de Kirchberg, viaje con mujeres luxemburgo](etheria-images/2020/02/luxemburgo-kirchberg-900x617.jpg "Barrio de Kirchberg. © Pulsa Pictures / LFT")
 
 Si tienes la suerte de estar en Luxemburgo el Día de Europa -el 9 de mayo- puedes 
 acceder a algunas de estas instalaciones de forma gratuita. El resto del año, hay 
@@ -124,7 +124,7 @@ Europeo.
 > modernodiseño es otro de los símbolos de la ciudad y encaja a la perfección con la Place 
 > d'Europe, obra de Ricardo Bofill. 
 
-![viaje luxemburgo, viaje con mujeres](etheria_images/2020/02/filarmonica-luxemburgo-900x450.jpg "Filarmónica de Luxemburgo. © Ministère l'Économie / LFT")
+![viaje luxemburgo, viaje con mujeres](etheria-images/2020/02/filarmonica-luxemburgo-900x450.jpg "Filarmónica de Luxemburgo. © Ministère l'Économie / LFT")
 
 ## 6\. Y aún hay más: castillos, bosques y bodegas
 
@@ -140,7 +140,7 @@ Mosela y dar un paseo por el río desde la localidad de **Grevenmarcher**. En
 **Schengen** podrás visitar, además de viñedos, el museo del famoso Tratado gracias al 
 cual no hace falta llevar pasaporte por Europa. 
 
-![Kniddelen, Luxemburgo, viaje con mujeres](etheria_images/2020/02/gastronomia-luxemburgo.jpg "Los Kniddelen, un plato tradicional de Luxemburgo. © Passion meets Creativity")
+![Kniddelen, Luxemburgo, viaje con mujeres](etheria-images/2020/02/gastronomia-luxemburgo.jpg "Los Kniddelen, un plato tradicional de Luxemburgo. © Passion meets Creativity")
 
 [Fotos cedidas por Visit Luxembourg](https://www.visitluxembourg.com/en) 
 

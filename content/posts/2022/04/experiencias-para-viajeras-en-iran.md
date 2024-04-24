@@ -1,12 +1,12 @@
 ---
 title: "10 experiencias que deberías vivir en Irán si eres una mujer viajera"
 date: 2022-04-18
-coverImage: etheria_images/2022/04/Iran-Mausoleo-Hilal-ibn-Ali.jpg
+coverImage: etheria-images/2022/04/Iran-Mausoleo-Hilal-ibn-Ali.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
   - viajar-sola
-author: 
+authors: 
   - Ana Vara y David Santiago
 ---
 
@@ -14,7 +14,7 @@ Estas experiencias para hacer en Irán son tan atractivas que colocarán el paí
 
 **Texto: Ana Vara Vargas. Fotos: David Santiago** 
 
-![Interior del santuario de Hazrat-e Masumeh, donde se encuentra el mausoleo de Fátima.](etheria_images/2022/04/Iran-mezquita-al-Masumeh.jpg "Santuario de Hazrat-e Masumeh, donde se encuentra el mausoleo de Fátima. © David Santiago")
+![Interior del santuario de Hazrat-e Masumeh, donde se encuentra el mausoleo de Fátima.](etheria-images/2022/04/Iran-mezquita-al-Masumeh.jpg "Santuario de Hazrat-e Masumeh, donde se encuentra el mausoleo de Fátima. © David Santiago")
 
 Irán es la joya de la corona de la arquitectura islámica. Su elegancia y belleza se la 
 confieren las bellas cúpulas y los alminares de azulejos turquesas, las mezquitas, los 
@@ -24,7 +24,7 @@ del viaje. La antigua Persia es la demostración de que el mundo no siempre es c
 lo cuentan las noticias. Sigue leyendo para conocer **diez experiencias y visitas que 
 hacer en Irán en tu próximo viaje** y que cambiarán tu percepción del destino. 
 
-![Mujeres bandaris con la máscara tradicional](etheria_images/2022/04/mujeres-bandaris-mascara-iran.jpg "Mujeres bandaris con la máscara tradicional. © David Santiago")
+![Mujeres bandaris con la máscara tradicional](etheria-images/2022/04/mujeres-bandaris-mascara-iran.jpg "Mujeres bandaris con la máscara tradicional. © David Santiago")
 
 ## Qué hacer en Irán para conocerlo a fondo
 
@@ -44,7 +44,7 @@ y distorsionar la visión que se tiene sobre un país en el resto del mundo.
 > Experimentar de primera mano la antigua, sofisticada, cálida y hospitalaria cultura 
 > iraní, será una de las experiencias que más perdurarán en tu memoria. 
 
-![Mujeres comprando en el bazar de Kashan, el más antiguo de la ciudad](etheria_images/2022/04/mercados-ruta-seda-iran.jpg "Bazar de Kashan. © David Santiago")
+![Mujeres comprando en el bazar de Kashan, el más antiguo de la ciudad](etheria-images/2022/04/mercados-ruta-seda-iran.jpg "Bazar de Kashan. © David Santiago")
 
 ### 2\. Comprar en los bazares
 
@@ -55,7 +55,7 @@ que esquivar motocicletas y parar de vez en cuando para tomar un té, son perfec
 comprar alfombras, bordados, especias, dátiles y cualquier tipo de artesanía. Muchos de 
 ellos están catalogados como Patrimonio Mundial, ¡te encantarán! 
 
-![Distintos objetos de los bazares de la Ruta de la Seda, en Irán.](etheria_images/2022/04/Iran-recuerdos-bazares.jpg "Encontrarás innumerables tesoros en los bazares de la Ruta de la Seda. © David Santiago")
+![Distintos objetos de los bazares de la Ruta de la Seda, en Irán.](etheria-images/2022/04/Iran-recuerdos-bazares.jpg "Encontrarás innumerables tesoros en los bazares de la Ruta de la Seda. © David Santiago")
 
 ### 3\. Vivir el fervor religioso de Qom
 
@@ -68,7 +68,7 @@ país desde 1979. Los lugareños son manifiestamente devotos, pero **los visitan
 musulmanes son bienvenidos**. Necesitarás un chador para cubrirte pero te lo 
 proporcionarán gratuitamente a la entrada y listo. 
 
-![Imagen nocturna del Santuario de Hazrat-e Masumeh, en Qom. Esta es una visita que hacer en Irán.](etheria_images/2022/04/Santuario-hazrat-e-masumeh.jpg "Santuario de Hazrat-e Masumeh, en Qom. © David Santiago")
+![Imagen nocturna del Santuario de Hazrat-e Masumeh, en Qom. Esta es una visita que hacer en Irán.](etheria-images/2022/04/Santuario-hazrat-e-masumeh.jpg "Santuario de Hazrat-e Masumeh, en Qom. © David Santiago")
 
 ### 4\. Relajarse en la ciudad oasis de Kashan
 
@@ -79,7 +79,7 @@ Ruta de la Seda, con casas de adobe, una sobria y elegante mezquita, un pintores
 cubierto, casas palaciegas y un jardín a pocos kilómetros declarado Patrimonio de la 
 Humanidad. 
 
-![Mausoleo de Hilal ibn Ali, en la ciudad deKashan](etheria_images/2022/04/Iran-Mausoleo-Hilal-ibn-Ali.jpg "Mausoleo de Hilal ibn Ali, en Kashan. © David Santiago")
+![Mausoleo de Hilal ibn Ali, en la ciudad deKashan](etheria-images/2022/04/Iran-Mausoleo-Hilal-ibn-Ali.jpg "Mausoleo de Hilal ibn Ali, en Kashan. © David Santiago")
 
 ### 5\. Perderse entre las ruinas aún gloriosas de Persépolis
 
@@ -92,7 +92,7 @@ sorprenderá ver la puerta de Jerjes, el palacio de las 100 columnas, o los fris
 escaleras de la Apadana. Para hacerle justicia tendrás que dedicarle al menos medio día, 
 eso sí, es recomendable llevar agua y un buen protector solar. 
 
-![Ruinas de Persépolis, en Irán.](etheria_images/2022/04/Persepolis-Iran.jpg "Persépolis, una de las visitas obligadas en Irán. © David Santiago")
+![Ruinas de Persépolis, en Irán.](etheria-images/2022/04/Persepolis-Iran.jpg "Persépolis, una de las visitas obligadas en Irán. © David Santiago")
 
 ### 6\. Desembocar una y otra vez en la plaza del Imán de Isfahan
 
@@ -107,7 +107,7 @@ para montar en calesas, niños corriendo, parejas de novios inmortalizándose co
 selfie. Por ella pasarás mil veces y no te cansarás, pues es un gran espectáculo en sí 
 misma. 
 
-![Interior de unos baños termales en Shiraz, Irán.](etheria_images/2022/04/Iran-shiraz-hamman.jpg "Hammam-e Vakil en Shiraz. © David Santiago")
+![Interior de unos baños termales en Shiraz, Irán.](etheria-images/2022/04/Iran-shiraz-hamman.jpg "Hammam-e Vakil en Shiraz. © David Santiago")
 
 ### 7\. Deleitarse en la refinada Shiraz
 
@@ -120,7 +120,7 @@ mezquitas, la Masjed-e Vakil (con un impresionante portal de azulejos y un disti
 bosque de columnas acanaladas) y la **mezquita rosa de Nasir-al Molk**, uno de los 
 edificios más elegantes y fotografiados de Irán. 
 
-![Reflejos de la luz que entra por las vidrieras de la Mezquita Nasir-ol-Molk](etheria_images/2022/04/mezquita-Nasir-al-Molk-Shiraz.jpg "La Mezquita Nasir-al-Molk o Mezquita Rosa, una de las más hermosas de Shiraz. © David Santiago")
+![Reflejos de la luz que entra por las vidrieras de la Mezquita Nasir-ol-Molk](etheria-images/2022/04/mezquita-Nasir-al-Molk-Shiraz.jpg "La Mezquita Nasir-al-Molk o Mezquita Rosa, una de las más hermosas de Shiraz. © David Santiago")
 
 ### 8\. Yazd, la ciudad de las torres de viento
 
@@ -131,7 +131,7 @@ adaptarse perfectamente a su medio circundante. Es un placer recorrer sus callej
 serpenteantes, ver las cúpulas de azulejos, los minaretes, y las casas coronadas por las 
 torres de viento. 
 
-![Reflejo en un charco del complejo Amir Chakhmaq, en Yazd](etheria_images/2022/04/Amir-Chakhmaq-complex-Yazd.jpg "Reflejos de Yazd. © David Santiago")
+![Reflejo en un charco del complejo Amir Chakhmaq, en Yazd](etheria-images/2022/04/Amir-Chakhmaq-complex-Yazd.jpg "Reflejos de Yazd. © David Santiago")
 
 ### 9\. Recorrer los viejos bazares de Kerman
 
@@ -142,7 +142,7 @@ y con los patios de caravasares, museos, baños y edificios religiosos que se es
 ellos. Además, te darás cuenta de que aún perviven oficios y estilos de vida 
 desaparecidos en otras urbes más grandes. 
 
-![Interior del bazar Vakil de Shiraz](etheria_images/2022/04/iran-bazar-vakil-shiraz.jpg "Bazar de Vakil, Shiraz. © David Santiago")
+![Interior del bazar Vakil de Shiraz](etheria-images/2022/04/iran-bazar-vakil-shiraz.jpg "Bazar de Vakil, Shiraz. © David Santiago")
 
 ### 10\. Bam, la ciudad de barro
 
@@ -155,7 +155,7 @@ torres y cuatro puertas de entrada conforman un paisaje único. No te pierdas el
 del Gobernador, la plaza de las cuatro estaciones y el hamman, los edificios más 
 carismáticos e imponentes de Bam. 
 
-![ciudad de Arg-é Bam, en la provincia de Kerman](etheria_images/2022/04/Iran-arg-e-bam-kerman.jpg "Arg-é Bam es la mayor edificación del mundo realizada con barro (provincia de Kerman). © David Santiago")
+![ciudad de Arg-é Bam, en la provincia de Kerman](etheria-images/2022/04/Iran-arg-e-bam-kerman.jpg "Arg-é Bam es la mayor edificación del mundo realizada con barro (provincia de Kerman). © David Santiago")
 
 ### Guía de viajes de Irán | Etheria Magazine
 
@@ -176,7 +176,7 @@ el cambio es 3 veces mayor, de manera que por cada euro recibiremos casi 150.000
 Para complicar más la conversión de los cientos de miles de riales, los iranís dan los 
 precios en tomanes (1 tomán = 10 riales). 
 
-![Interior del Bazar de Kashan, en Irán.](etheria_images/2022/04/Bazar-Kashan-Iran.jpg "Bazar de Kashan, en Irán. © David Santiago")
+![Interior del Bazar de Kashan, en Irán.](etheria-images/2022/04/Bazar-Kashan-Iran.jpg "Bazar de Kashan, en Irán. © David Santiago")
 
 ##### ¿Qué documentos necesito para viajar a Irán?
 
@@ -195,7 +195,7 @@ La primavera y el otoño son las mejores épocas para viajar a Irán. El inviern
 muy frío en las zonas de montaña, aunque no en el resto del país. El verano es muy 
 caluroso. 
 
-![Dasht-e-Lut es un desierto salado situado en la meseta iraní.](etheria_images/2022/04/Iran-desierto-Dasht-e-Loot.jpg "Dasht-e-Lut es un desierto salado situado en la meseta iraní. © David Santiago")
+![Dasht-e-Lut es un desierto salado situado en la meseta iraní.](etheria-images/2022/04/Iran-desierto-Dasht-e-Loot.jpg "Dasht-e-Lut es un desierto salado situado en la meseta iraní. © David Santiago")
 
 ##### ¿Cómo llegar a Irán y cómo moverse por el país?
 

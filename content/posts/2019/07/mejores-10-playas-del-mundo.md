@@ -1,13 +1,13 @@
 ---
 title: "10 playas del mundo donde te quedarías a vivir"
 date: 2019-07-24
-coverImage: etheria_images/2019/07/playas-mundo-kauai-hawaii.jpg
+coverImage: etheria-images/2019/07/playas-mundo-kauai-hawaii.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 El mundo está lleno de rincones paradisíacos en los que, cuando aprieta el calor, nos 
@@ -16,7 +16,7 @@ las mejores playas del mundo, diferentes, con un halo de irrealidad que las hace
 terriblemente especiales y seductoras. ¿Te imaginas poder estar en alguna de ellas ahora 
 mismo? 
 
-![isla desierta en Maldivas](etheria_images/2019/07/Playas-Mundo-isla-Maldivas.jpg "Isla desierta en Maldivas. © Shan Seefromthesky")
+![isla desierta en Maldivas](etheria-images/2019/07/Playas-Mundo-isla-Maldivas.jpg "Isla desierta en Maldivas. © Shan Seefromthesky")
 
 Pasar los días en bañador, pareo y chanclas es adictivo y, por suerte, no es tan difícil 
 hacerlo en algunas playas cercanas. Pero hay otras en lugares remotos –y difícilmente 
@@ -31,16 +31,16 @@ paradisíacos. Sus palmeras, su arena finísima y, sobre todo, sus originales fo
 rocosas junto al mar hacen de ella un lugar del que no querrías marcharte. Para llegar a 
 La Digue lo más habitual es realizar una excursión desde Mahe o Praslin. 
 
-![playa Anse Source D’Argent.](etheria_images/2019/07/Playas-mundo-La-Digue-Seychelles.jpg "Anse Source D’Argent. © Sebastien")
+![playa Anse Source D’Argent.](etheria-images/2019/07/Playas-mundo-La-Digue-Seychelles.jpg "Anse Source D’Argent. © Sebastien")
 
 ## Kudahuvadhoo (Maldivas)
 
 La isla Kudahuvadhoo del atolón Dhaalu es sólo un ejemplo de los paisajes que ofrecen 
-las [islas Maldivas](https://visitmaldives.com): arena blanca, mar transparente y 
-palmeras. ¿Qué mas se puede pedir? Si te decides a ir, ten en cuenta que cada hotel 
-suele ocupar una isla, elige el tuyo y disfruta. 
+las **islas Maldivas** que guardan algunas de las mejores playas del mundo: arena 
+blanca, mar transparente y palmeras. ¿Qué mas se puede pedir? Si te decides a ir, ten en 
+cuenta que cada hotel suele ocupar una isla, elige el tuyo y disfruta. 
 
-![Isla Kudahuvadhoo en Maldivas](etheria_images/2019/07/Playas-mundo-Maldivas.jpg "Isla Kudahuvadhoo. © Shan Seefromthesky")
+![Isla Kudahuvadhoo en Maldivas](etheria-images/2019/07/Playas-mundo-Maldivas.jpg "Isla Kudahuvadhoo. © Shan Seefromthesky")
 
 ## Isla de los Pinos (Nueva Caledonia)
 
@@ -49,7 +49,7 @@ por mar y paisaje de palmeras. No sabemos qué pensarían los deportados de la C
 París que llegaron a esta isla que se convirtió en un penal francés, pero hoy en día es 
 todo menos una cárcel. Se llega en barco desde Nueva Caledonia. 
 
-![Isla de los Pinos en Nueva Caledonia](etheria_images/2019/07/Playas-mundo-isla-pinos.jpg "Isla de los Pinos. © Sebastien Jermer")
+![Isla de los Pinos en Nueva Caledonia](etheria-images/2019/07/Playas-mundo-isla-pinos.jpg "Isla de los Pinos. © Sebastien Jermer")
 
 ## Te Werahi Beach en Cabo Reinga (Nueva Zelanda)
 
@@ -58,7 +58,7 @@ Zelanda, en la península de Aupouri. Un lugar que podría ser del fin del mundo
 amable y con paisajes que quitan el aliento. Con sus arenales y un océano bravo es 
 probablemente el lugar donde más alejada de todo puedas sentirte. 
 
-![playa Te Werahi Beach en Nueva Zelanda](etheria_images/2019/07/Playas-mundo-Nueva-Zelanda.jpg "Te Werahi Beach. © David Maciejewski")
+![playa Te Werahi Beach en Nueva Zelanda](etheria-images/2019/07/Playas-mundo-Nueva-Zelanda.jpg "Te Werahi Beach. © David Maciejewski")
 
 ## Paliton en Siquijor (Filipinas)
 
@@ -66,7 +66,7 @@ La isla filipina de Siquijor cuenta con muchos alicientes turísticos a pesar de
 las menos visitadas del archipiélago. Uno de sus principales atractivos son playas como 
 Paliton que, además de arena blanca y palmeras, ofrece unas increíbles puestas de sol. 
 
-![playa Palinton en Filipinas](etheria_images/2019/07/Playas-mundo-siquijor-Filipinas.jpg "Playa Palinton. © James Connolly")
+![playa Palinton en Filipinas](etheria-images/2019/07/Playas-mundo-siquijor-Filipinas.jpg "Playa Palinton. © James Connolly")
 
 ## Kelingking Beach en Nusa Penida (Indonesia)
 
@@ -75,7 +75,7 @@ Nusa Penida que ofrece unos paisajes de vértigo en sus acantilados y playas. Ke
 es una playa para perderte y que no te encuentren, no es fácil llegar (hay que caminar 
 un buen tramo sobre el acantilado) y hay que tener cuidado con sus corrientes. 
 
-![Kelingking Beach en Nusa Perdida, Indonesia](etheria_images/2019/07/Playas-mundo-nusa-penida.jpg "Kelingking Beach. © Paolo Nicolello")
+![Kelingking Beach en Nusa Perdida, Indonesia](etheria-images/2019/07/Playas-mundo-nusa-penida.jpg "Kelingking Beach. © Paolo Nicolello")
 
 ## Playa los Tubos en Manatí (Puerto Rico)
 
@@ -84,7 +84,7 @@ playas espectaculares, como la de Los Tubos (entre otras), en un ambiente festiv
 y palmeras a las que se suma un mar con zonas perfectas para bañarse, para el surf e, 
 incluso, con piscinas naturales. 
 
-![Playa de los Tubos en Puerto Rico](etheria_images/2019/07/Playas-Mundo-Manati-Puerto-Rico.jpg "Playa de los Tubos.© Alexis Antonio")
+![Playa de los Tubos en Puerto Rico](etheria-images/2019/07/Playas-Mundo-Manati-Puerto-Rico.jpg "Playa de los Tubos.© Alexis Antonio")
 
 ## Seventy Five Mile Beach, en la isla Fraser (Australia)
 
@@ -93,7 +93,7 @@ las playas que alberga. Recorrerla en 4x4 es toda una aventura y detenerse junto
 un auténtico privilegio. Acércate a su extremo en Indian Head y podrás contemplar la 
 belleza casi indescriptible de este mágico lugar. 
 
-![Seventy Five Mile Beach desde Indian Head.](etheria_images/2019/07/Playas-mundo-Fraser-Australia.jpg "Seventy Five Mile Beach desde Indian Head.© Antoine Beauvillain")
+![Seventy Five Mile Beach desde Indian Head.](etheria-images/2019/07/Playas-mundo-Fraser-Australia.jpg "Seventy Five Mile Beach desde Indian Head.© Antoine Beauvillain")
 
 ## Playa Blanca en isla Saboga (Panamá)
 
@@ -102,7 +102,7 @@ archipiélago de Las Perlas, frente a la ciudad de Panamá. Y en ella, uno de su
 más preciados es Playa Blanca, que forma una bonita bahía y tiene un entorno muy 
 parecido al paraíso. 
 
-![Playa Blanca en Panamá](etheria_images/2019/07/Playas-Mundo-Saboga-Panama.jpg "Playa Blanca. © Rowan Heuvel")
+![Playa Blanca en Panamá](etheria-images/2019/07/Playas-Mundo-Saboga-Panama.jpg "Playa Blanca. © Rowan Heuvel")
 
 ## Kalalau Beach, en la isla Kauai (Hawái)
 
@@ -113,9 +113,9 @@ de Kauai, rodeada de impresionantes formaciones rocosas. Llegar no es fácil, si
 quieres hacer el largo y algo peligroso [Kalalau Trail](https://www.kalalautrail.com) 
 (la playa se encuentra al final) lo mejor es acercarse en barco. 
 
-![Kalalau Beach en Hawai.](etheria_images/2019/07/playas-mundo-kauai-hawaii.jpg "Playa Kalalau. © Jelle de Gier")
+![Kalalau Beach en Hawai.](etheria-images/2019/07/playas-mundo-kauai-hawaii.jpg "Playa Kalalau. © Jelle de Gier")
 
-? **También te puede interesar:** 
+**También te puede interesar:** 
 
 [10 playas en España para disfrutar del 
 verano](https://etheriamagazine.com/2020/06/03/10-playas-en-espana-para-este-verano/) 

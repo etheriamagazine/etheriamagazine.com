@@ -1,12 +1,12 @@
 ---
 title: "Cinco consejos útiles para viajar embarazada sin riesgos"
 date: 2021-03-30
-coverImage: etheria_images/2019/02/embarazada-viaje.jpg
+coverImage: etheria-images/2019/02/embarazada-viaje.jpg
 categories: 
   - salud-bienestar-nutricion
   - consejos-practicos
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ¿Quieres viajar embarazada? Estupendo, si te hace feliz y no tienes complicaciones, que 
@@ -14,7 +14,7 @@ es lo más habitual, ¡adelante! Lo mejor para tu hijo en este momento es que es
 contenta, y los viajes ayudan a alcanzar ese estado de bienestar. Te damos 5 sencillas 
 pautas que te servirán para organizar tus escapadas si eres novata en estas lides. 
 
-![consejos viajar embarazada](etheria_images/2019/02/mujer-embarazo-viaje-1024x680.jpg "Consejos para viajar embarazada.")
+![consejos viajar embarazada](etheria-images/2019/02/mujer-embarazo-viaje-1024x680.jpg "Consejos para viajar embarazada.")
 
 Si quieres viajar embarazada y no tienes ninguna complicación que te lo impida, hazlo. 
 Nada de prestar oídos a esa vecina, prima o compañera de trabajo que considera el 
@@ -80,7 +80,7 @@ superior. • **Royal Caribbean**. Exige un certificado médico que asegure el b
 de salud de la embarazada y que no llega a la semana 24 (o más) de gestación a la 
 finalización del viaje. 
 
-![viajar en el segundo trimestre embarazo](etheria_images/2019/02/viajar-embarazada-1024x512.jpg "El mejor momento para viajar durante el embarazo es en el segundo trimestre.")
+![viajar en el segundo trimestre embarazo](etheria-images/2019/02/viajar-embarazada-1024x512.jpg "El mejor momento para viajar durante el embarazo es en el segundo trimestre.")
 
 ## 2\. El mejor momento para viajar
 
@@ -108,7 +108,7 @@ es necesario. En caso de alto riesgo, según [AEPap](https://www.aepap.org/sites
 podrías ponerte las vacunas de la fiebre amarilla, rabia, fiebre tifoidea, encefalitis 
 japonesa y encefalitis centroeuropea. 
 
-![vacaciones en la playa, viajes embarazada](etheria_images/2019/02/embarazada-viaje-1024x682.jpg "La natación es uno de los ejercicios más convenientes durante el embarazo.")
+![vacaciones en la playa, viajes embarazada](etheria-images/2019/02/embarazada-viaje-1024x682.jpg "La natación es uno de los ejercicios más convenientes durante el embarazo.")
 
 ## 4\. Alojamientos y spas para embarazadas
 

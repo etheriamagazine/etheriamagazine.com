@@ -1,17 +1,17 @@
 ---
 title: "The St. Regis Cairo, un nuevo hotel de lujo a orillas del Nilo"
 date: 2021-02-09
-coverImage: etheria_images/2021/02/hotel-st-regis-cairo-escalera.jpg
+coverImage: etheria-images/2021/02/hotel-st-regis-cairo-escalera.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 En Etheria Magazine nos encanta descubriros nuevas aperturas de hoteles. En este caso nos vamos a un lugar tan mágico como la orilla del Nilo a su paso por El Cairo para conocer el nuevo The St. Regis Cairo, que se ha convertido en uno de los referentes del turismo del lujo en la ciudad.
 
-![viajes a Egipto](etheria_images/2021/02/hotel-st-regis-cairo-Lobby.jpg "Lobby de The St. Regis Cairo.")
+![viajes a Egipto](etheria-images/2021/02/hotel-st-regis-cairo-Lobby.jpg "Lobby de The St. Regis Cairo.")
 
 Egipto es un destino que hay que visitar al menos una vez en la vida. Y, cuando lo 
 hagas, planéalo con cuidado y por todo lo alto porque merece la pena. En la inmensa 
@@ -26,7 +26,7 @@ lugar del mundo.
 Disfruta de sus preciosas habitaciones, de su cuidada gastronomía y de un rato de relax 
 en sus piscinas o en su spa. No te arrepentirás. 
 
-![Hoteles en Egipto](etheria_images/2021/02/hote-st-regis-cairo-exterior.jpg "Hotel The St. Regis Cairo.")
+![Hoteles en Egipto](etheria-images/2021/02/hote-st-regis-cairo-exterior.jpg "Hotel The St. Regis Cairo.")
 
 ## Un diseño de altura
 
@@ -35,7 +35,7 @@ imponente por su altura y su dinámico diseño con rectas y curvas que, junto a 
 iluminación, dan movimiento a la fachada. Ha sido diseñado por el famoso arquitecto 
 Michael Graves y si hay algo que define al edificio es su grandiosidad. 
 
-![hoteles de lujo en El Cairo](etheria_images/2021/02/hotel-st-regis-cairo-escalera.jpg "Escalera y lampara de cristal del hotel.")
+![hoteles de lujo en El Cairo](etheria-images/2021/02/hotel-st-regis-cairo-escalera.jpg "Escalera y lampara de cristal del hotel.")
 
 En su interior se puede percibir esa mezcla de pasado y futuro que tan bien funciona en 
 los alojamientos que no renuncian a la tecnología pero quieren mantener una personalidad 
@@ -44,7 +44,7 @@ ricas texturas mezcladas con bronces, bordados y paneles adornados con joyas. Si
 que quedarse con dos detalles del hotel, estos podrían ser el mural que recrea el 
 Antiguo Egipto en el St. Regis Bar y los inmensas lámparas de cristal. 
 
-![Escapada a El Cairo](etheria_images/2021/02/hotel-st-regis-cairo-detalle.jpg "Rincón del hotel.")
+![Escapada a El Cairo](etheria-images/2021/02/hotel-st-regis-cairo-detalle.jpg "Rincón del hotel.")
 
 ## Las habitaciones
 
@@ -53,14 +53,14 @@ apartamentos. En las habitaciones encontrarás distintas categorías: Habitació
 Habitación Astor, Habitación Deluxe y Habitación Grand Deluxe. Y, entre las suites, las 
 opciones son la Suite Metropolitan, la Suite Astor, la Suite St. Regis y la Suite Royal. 
 
-![hotel de lujo en El Cairo](etheria_images/2021/02/hotel-cairo-st-regis-habitacion-astor.jpg "Habitación Astor.")
+![hotel de lujo en El Cairo](etheria-images/2021/02/hotel-cairo-st-regis-habitacion-astor.jpg "Habitación Astor.")
 
 Las tres **Suites Royal** son uno de los emblemas del hotel y un referente para el 
 turismo de lujo en la ciudad: además de una decoración llena de detalles, permite 
 disfrutar de una sala de fitness privada, sauna y ventanas de suelo a techo con unas 
 vistas del Nilo que dejan sin aliento. 
 
-![turismo de lujo en Egipto](etheria_images/2021/02/hotel-st-regis-cairo-The-royal-suite.jpg "Habitación de la Suite Royal.")
+![turismo de lujo en Egipto](etheria-images/2021/02/hotel-st-regis-cairo-The-royal-suite.jpg "Habitación de la Suite Royal.")
 
 Como aliciente, en todas las habitaciones y suites podrás disfrutar de un servicio muy 
 especial, el de **St. Regis Butler**, que proporciona un mayordomo que estará pendiente 
@@ -79,14 +79,14 @@ transporta a las calles de Singapur con sabores que se mezclan, además, con los
 el sudeste asiático, China e India. Cuando te apetezca un buen trozo de carne, tendrás 
 que acudir al **J&G Steakhouse**, donde también podrás tomar pescado a la brasa. 
 
-![Gastronomía egipcia](etheria_images/2021/02/hote-st-regis-cairo-La-Zisa.jpg "Restaurante La Zisa.")
+![Gastronomía egipcia](etheria-images/2021/02/hote-st-regis-cairo-La-Zisa.jpg "Restaurante La Zisa.")
 
 Y, si lo que buscas es tomar una copa relajada, los mejores lugares para degustar un 
 buen cóctel son **Sirocco**, el bar-restaurante de la piscina (donde además podrás tomar 
 una excelente selección de platos mediterráneos y egipcios), y **Envy** un _lounge_ 
 lleno de glamour, perfecto para una velada nocturna. 
 
-![hoteles de lujo](etheria_images/2021/02/the-st-regis-cairo-the-library.jpg "The Library es uno de los rincones más especiales del hotel.")
+![hoteles de lujo](etheria-images/2021/02/the-st-regis-cairo-the-library.jpg "The Library es uno de los rincones más especiales del hotel.")
 
 Nos encantan los hoteles con rincones especiales y originales donde detenerte a tomar un 
 café o un cóctel, o dedicar un rato a la lectura. Y este nuevo hotel de lujo en El Cairo 
@@ -108,7 +108,7 @@ Además de relajarte en este espacio, seguro que en su amplia carta de tratamien
 encuentras uno para ti. Un spa a la altura de este hotel de lujo de El Cairo. Date el 
 capricho. 
 
-![spa en Egipto](etheria_images/2021/02/the-st-regis-cairo-piscina-interior.jpg "Piscina interior del hotel, en la zona del Spa.")
+![spa en Egipto](etheria-images/2021/02/the-st-regis-cairo-piscina-interior.jpg "Piscina interior del hotel, en la zona del Spa.")
 
 [The St. Regis 
 Cairo](https://www.espanol.marriott.com/hotels/travel/caixr-the-st-regis-cairo/) 1189 

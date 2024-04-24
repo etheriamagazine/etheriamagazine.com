@@ -1,20 +1,20 @@
 ---
 title: "Ruta en coche por Cerdeña, un plan irrechazable"
 date: 2018-09-14
-coverImage: etheria_images/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg
+coverImage: etheria-images/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
-  - PIlar Ortega
+authors: 
+  - Pilar Ortega
 ---
 
 Hay muchas maneras de enfocar una ruta en coche por Cerdeña pero las reduciremos a dos, 
 según quieras compartir espacio con ricos y famosos o prefieras descansar en remansos de 
 paz. Claro que también existe la posibilidad de combinar ambas... Tú eliges. 
 
-![playa pelosa ruta coche cerdena](etheria_images/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg "La playa de La Pelosa es una de las imágenes idílicas de Cerdeña. © ENIT")
+![playa pelosa ruta coche cerdena](etheria-images/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg "La playa de La Pelosa es una de las imágenes idílicas de Cerdeña. © ENIT")
 
 Lo que debemos tener claro en esta ruta en coche por Cerdeña es que lo primero que 
 debemos hacer al llegar es alquilar un vehículo –si no hemos ido en ferry, donde podemos 
@@ -56,7 +56,7 @@ detenernos en la famosa “**piazzeta**” **de Porto Cervo** y también visitar
 de Stella Maris**, donde al parecer cuelga una “Mater Dolorosa” dudosamente atribuida a 
 El Greco, y escuchar el sonido de su órgano, del siglo XVII. 
 
-![cala corsara costa esmeralda](etheria_images/2018/09/viaje-cerdena-Cala-Corsara-en-La-Magdalena-Costa-Esmeralda-e1550992185507.jpg "Cala Corsara, en el archipiélago de La Magdalena. © ENIT")
+![cala corsara costa esmeralda](etheria-images/2018/09/viaje-cerdena-Cala-Corsara-en-La-Magdalena-Costa-Esmeralda-e1550992185507.jpg "Cala Corsara, en el archipiélago de La Magdalena. © ENIT")
 
 ## Archipiélago de la Magdalena
 
@@ -75,7 +75,7 @@ ese territorio y a las que sólo se puede acceder por barco. El precio oscila en
 belleza de Cala Corsara o la espectacular Playa Rosa, alfombrada por pequeños fragmentos 
 de coral y conchas de color rojizo que le otorgan su característico nombre. 
 
-![portoscuso  ruta coche cerdena](etheria_images/2018/09/viaje-cerdena-Puesta-de-sol-e1550992250152.jpg "No te pierdas la puesta de sol en Portoscuso.")
+![portoscuso  ruta coche cerdena](etheria-images/2018/09/viaje-cerdena-Puesta-de-sol-e1550992250152.jpg "No te pierdas la puesta de sol en Portoscuso.")
 
 ## Isla de Caprera
 
@@ -95,7 +95,7 @@ territorio. Por eso, en tu Ruta en coche por Cerdeña te invitamos a descubrir l
 rincones de esta singular tierra que tiene una larga historia a sus espaldas y muchos 
 secretos escondidos. De norte a sur y de este a oeste. 
 
-![ruta coche cerdena cagliari](etheria_images/2018/09/viaje-cerdena-Cagliari-2-e1550992276643.jpg "Vista de Cagliari, la capital de Cerdeña, desde el puerto.")
+![ruta coche cerdena cagliari](etheria-images/2018/09/viaje-cerdena-Cagliari-2-e1550992276643.jpg "Vista de Cagliari, la capital de Cerdeña, desde el puerto.")
 
 ## De Cagliari a Alghero
 
@@ -110,7 +110,7 @@ antigua flanqueada por el puerto y el centro histórico, donde se encuentra el b
 barrio del Castello y el bastión de San Remy. A un paso del casco central, se encuentra 
 la playa de Poetto, a la que se puede llegar en un autobús urbano en apenas 15 minutos. 
 
-![ruta coche cerdena barumini](etheria_images/2018/09/viaje-cerdena-Nurage-Barumini-e1550992322193.jpg "Área arqueológica de Barumini.")
+![ruta coche cerdena barumini](etheria-images/2018/09/viaje-cerdena-Nurage-Barumini-e1550992322193.jpg "Área arqueológica de Barumini.")
 
 ### Yacimientos nurágicos
 
@@ -119,7 +119,7 @@ arqueológicas, especialmente sus famosos yacimientos nurágicos. Recomendamos, 
 importancia, el **área arqueológica de Barumini**, catalogado como Patrimonio de la 
 Humanidad por la Unesco en 1997. La entrada, con visita guiada, cuesta 12 euros. 
 
-![alguero  ruta coche cerdena](etheria_images/2018/09/viaje-cerdena-Alghero-arquitectura-e1550992356727.jpg "Arquitectura de Alguero.")
+![alguero  ruta coche cerdena](etheria-images/2018/09/viaje-cerdena-Alghero-arquitectura-e1550992356727.jpg "Arquitectura de Alguero.")
 
 En el noroeste de Cerdeña, nos encontramos con **Alghero**, la segunda ciudad en 
 importancia de la isla, con antecedentes catalanes. Hay quien la llama Barceloneta 
@@ -127,7 +127,7 @@ porque, según cuentan, fue repoblada en el Medievo por gente que llegaba de la 
 catalana. Destaca su puerto deportivo y su centro histórico, con sus murallas y su 
 trenzado laberíntico de calles que nunca sabes donde desembocan. 
 
-![alguero visitas cerdena italia](etheria_images/2018/09/viaje-cerdena-Alghero-e1550992398190.jpg "Alguero es la segunda ciudad en importancia de la isla.")
+![alguero visitas cerdena italia](etheria-images/2018/09/viaje-cerdena-Alghero-e1550992398190.jpg "Alguero es la segunda ciudad en importancia de la isla.")
 
 ## Bosa, una ciudad de postal
 
@@ -137,7 +137,7 @@ custodiadas por la silueta del recién restaurado castillo Malaspina, muestran c
 orgullo sus colores rojos, amarillos, azules, naranjas… Una imagen que suele verse 
 duplicada en el **Terno**, el único río navegable de Cerdeña. 
 
-![cerdena visita bosa](etheria_images/2018/09/viaje-cerdena-Bosa-ciudad-e1550992453122.jpg "Bosa, un pueblo de postal.")
+![cerdena visita bosa](etheria-images/2018/09/viaje-cerdena-Bosa-ciudad-e1550992453122.jpg "Bosa, un pueblo de postal.")
 
 Por último, hay que hacer un recorrido, aunque sea rápido, por la isla, en realidad 
 península, de **Sant’Antioco**. Un puente enlaza su territorio, en el suroeste de 
@@ -153,7 +153,7 @@ todo el Mediterráneo a sus pies. Para ti solo. En espacios tan exclusivos, o m�
 Porto Cervo, ese territorio del lujo y la fama que tanta popularidad, para bien o para 
 mal, ha dado a Cerdeña. 
 
-![castillo malaspina cerdena](etheria_images/2018/09/viaje-cerdena-Bosa-e1550992505332.jpg "El castillo de Malaspina preside esta panorámica de Bosa.")
+![castillo malaspina cerdena](etheria-images/2018/09/viaje-cerdena-Bosa-e1550992505332.jpg "El castillo de Malaspina preside esta panorámica de Bosa.")
 
 ## Guía de viaje de Cerdeña
 

@@ -1,10 +1,10 @@
 ---
 title: "Geoparque Las Loras, una cita sorprendente entre Burgos y Palencia"
 date: 2020-12-23
-coverImage: etheria_images/2020/12/burgos-orbaneja-cascadas.jpg
+coverImage: etheria-images/2020/12/burgos-orbaneja-cascadas.jpg
 categories: 
   - viaje-en-familia
-author: 
+authors: 
   - Juan Carlos y Mar
 ---
 
@@ -13,7 +13,7 @@ Palencia. En sus pliegues se ocultan las huellas culturales dejadas por los habi
 del páramo. Te damos siete razones para descubrir este territorio fuera de ruta que 
 guarda en sus rocas la historia del planeta. 
 
-![canon rio ebro en burgos en geoparque las loras](etheria_images/2020/12/Burgos-pesquera-canon-rio-ebro.jpg "Espectacular cañón del río Ebro.")
+![canon rio ebro en burgos en geoparque las loras](etheria-images/2020/12/Burgos-pesquera-canon-rio-ebro.jpg "Espectacular cañón del río Ebro.")
 
 Explora con nosotras uno de los paisajes castellanos más exclusivos, el que abarca el 
 **geoparque Las Loras**. A caballo entre Burgos y Palencia, te esperan carreteras 
@@ -24,7 +24,7 @@ perfiles de fantasía como **Las Tuerces**. En las encrucijadas de la ruta convi
 demorarse haciendo un alto en el camino en pueblos pausados que prometen descanso, y 
 atractivos culturales que se remontan hasta la Prehistoria. 
 
-![senderismo canon rio ebro geoparque las loras](etheria_images/2020/12/burgos-senderismo-canon-ebro.jpg "Senderismo por el cañón del río Ebro.")
+![senderismo canon rio ebro geoparque las loras](etheria-images/2020/12/burgos-senderismo-canon-ebro.jpg "Senderismo por el cañón del río Ebro.")
 
 ## 1\. El gran cañón del Ebro
 
@@ -39,7 +39,7 @@ del Castillo por el bosque de ribera para sentir la tierra viva bajo tus pies.
 Descubrirás que **Pesquera de Ebro** está cargada de historia al callejear entre sus 
 palacios y casas blasonadas. 
 
-![cascadas orbaneja del castillo](etheria_images/2020/12/burgos-orbaneja-cascadas.jpg "Cascadas de Orbaneja del Castillo (Burgos).")
+![cascadas orbaneja del castillo](etheria-images/2020/12/burgos-orbaneja-cascadas.jpg "Cascadas de Orbaneja del Castillo (Burgos).")
 
 ## 2\. Cascadas de Orbaneja del Castillo
 
@@ -52,7 +52,7 @@ el itinerario circular que te llevará hasta los **30** **chozos de pastor** sit
 sobre el páramo rocoso. Las piedras apiladas en seco de los sencillos refugios 
 pastoriles conservan el aire de la Prehistoria. 
 
-![colmenas en gredilla de sedano burgos](etheria_images/2020/12/burgo-gredilla-sedano-colmenas.jpg "Colmenas en Gredilla de Sedano.")
+![colmenas en gredilla de sedano burgos](etheria-images/2020/12/burgo-gredilla-sedano-colmenas.jpg "Colmenas en Gredilla de Sedano.")
 
 ## 3\. Historias de rocas
 
@@ -69,7 +69,7 @@ subterráneo del que apenas se conocen 13 kilómetros de cavidades subacuáticas
 regreso, fíjate en los farallones sobre tu cabeza y verás las **tradicionales colmenas** 
 de Las Loras protegidas bajo los salientes naturales de la roca. 
 
-![centro interpretacion valle sedano miguel delibes](etheria_images/2020/12/burgos-valle-sedano-centro-interpretacion-delibes.jpg "Centro de Interpretación del Valle de Sedano 'Miguel Delibes'.")
+![centro interpretacion valle sedano miguel delibes](etheria-images/2020/12/burgos-valle-sedano-centro-interpretacion-delibes.jpg "Centro de Interpretación del Valle de Sedano 'Miguel Delibes'.")
 
 ## 4\. El valle de Sedano
 
@@ -87,7 +87,7 @@ No dejes de colarte en las películas basadas en la obra de Delibes visitando el
 de Interpretación del valle de Sedano Miguel Delibes. Además, así conocerás todo el 
 patrimonio, principalmente románico, que guardan los 17 pueblos del valle. 
 
-![las tuerces, geoparque las loras](etheria_images/2020/12/palencia-piedras-las-tuerces-683x1024.jpg "Las Tuerces, visita imprescindible en Palencia.")
+![las tuerces, geoparque las loras](etheria-images/2020/12/palencia-piedras-las-tuerces-683x1024.jpg "Las Tuerces, visita imprescindible en Palencia.")
 
 ## 5\. Las Tuerces, fantasía en Palencia
 
@@ -98,7 +98,7 @@ bajo sus curiosos equilibrios pétreos. El agua y el viento se han encargado de
 modelarlas con formas pintorescas que incluso perfilan los callejones en un paisaje que 
 parece imaginario. 
 
-![seta piedra de las tuerces de palencia](etheria_images/2020/12/palencia-las-tuerces.jpg "Seta de piedra en Las Tuerces (Palencia).")
+![seta piedra de las tuerces de palencia](etheria-images/2020/12/palencia-las-tuerces.jpg "Seta de piedra en Las Tuerces (Palencia).")
 
 ## 6\. Campo petrolífero
 
@@ -109,7 +109,7 @@ geología del terreno. No te pierdas su museo del Petróleo para seguir la histo
 **campo de petróleo de Ayoluengo** donde empezó y terminó una curiosa prospección que 
 quiso crear un nuevo Texas en tierras burgalesas. 
 
-![iglesia de Moradilla de Sedano](etheria_images/2020/12/burgos-moradillo-sedano-iglesia-san-esteban.jpg "Detalle del capitel de la iglesia de Moradilla de Sedano.")
+![iglesia de Moradilla de Sedano](etheria-images/2020/12/burgos-moradillo-sedano-iglesia-san-esteban.jpg "Detalle del capitel de la iglesia de Moradilla de Sedano.")
 
 De lo que sí está salpicado el páramo de Las Loras es de huellas megalíticas, testigos 
 de los pobladores originarios de estas tierras. No pierdas la oportunidad de asomarte a 
@@ -122,7 +122,7 @@ del Agua**. Acabarás enamorada del patrimonio megalítico cuando te asomes al d
 La Cotorrita en Porque de Butrón, un enterramiento colectivo situado sobre un 
 promontorio del terreno desde hace 8.000 años. 
 
-![dolmen morueco del valle sedano](etheria_images/2020/12/burgos-valle-sedano-dolmen-el-moreco.jpg "Dolmen El Moreco, en el Valle de Sedano.")
+![dolmen morueco del valle sedano](etheria-images/2020/12/burgos-valle-sedano-dolmen-el-moreco.jpg "Dolmen El Moreco, en el Valle de Sedano.")
 
 ## 7\. Observatorio Astronómico de Valderredible
 
@@ -133,7 +133,7 @@ otras estrellas. De día o de noche, durante los fines de semana las tareas divu
 se imponen a su finalidad científica de observación del universo a mil metros de 
 altitud. 
 
-![Observatorio Astronomico de Valderredible](etheria_images/2020/12/observatorio-valderredible.jpg "Observatorio Astronómico de Valderredible (Cantabria).")
+![Observatorio Astronomico de Valderredible](etheria-images/2020/12/observatorio-valderredible.jpg "Observatorio Astronómico de Valderredible (Cantabria).")
 
 Más información en la [web oficial del Geoparque Las 
 Loras](http://geoparquelasloras.es/). 

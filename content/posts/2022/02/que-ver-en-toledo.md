@@ -1,11 +1,11 @@
 ---
 title: "Toledo en un fin de semana, claves para aprovecharlo al máximo"
 date: 2022-02-28
-coverImage: etheria_images/2022/01/toledo-catedral-fachada.jpg
+coverImage: etheria-images/2022/01/toledo-catedral-fachada.jpg
 categories: 
   - viajes-con-amigas
   - viajar-sola
-author: 
+authors: 
   - Yolanda Cardo
 ---
 
@@ -14,7 +14,7 @@ de las numerosas culturas que han dejado su impronta: carpetanos, romanos, visig
 plaza fuerte del emirato de Córdoba y capital del Imperio con Carlos V. Hay tanto que 
 ver en Toledo que 48 horas os sabrán a poco. 
 
-![vistas desde el mirador de la piedra del rey moro en toledo](etheria_images/2022/02/mirador-toledo.jpg "Toledo desde el mirador de la Piedra del Rey Moro. © Yolanda Cardo")
+![vistas desde el mirador de la piedra del rey moro en toledo](etheria-images/2022/02/mirador-toledo.jpg "Toledo desde el mirador de la Piedra del Rey Moro. © Yolanda Cardo")
 
 Apenas media hora dura el trayecto en AVE desde Madrid hasta Toledo, una ciudad 
 declarada **Patrimonio de la Humanidad por la Unesco** en 1986. Este monumental conjunto 
@@ -34,7 +34,7 @@ contamos todo lo necesario para descubrir a fondo la histórica capital.
 ? Para situaros en la ciudad podéis realizar un **freetour por Toledo**. [Resérvalo](https://www.civitatis.com/es/toledo/free-tour-toledo/?aid=10211), 
 no se cobra cancelación si cambiáis de idea a última hora. 
 
-![entrada monumental de toledo](etheria_images/2022/02/Toledo-entrada-monumental.jpg "Una de las entradas de Toledo más espectaculares. © Yolanda Cardo")
+![entrada monumental de toledo](etheria-images/2022/02/Toledo-entrada-monumental.jpg "Una de las entradas de Toledo más espectaculares. © Yolanda Cardo")
 
 ## Toledo, 10 visitas que no puedes perderte
 
@@ -62,7 +62,7 @@ hospicio, hoy reconvertido en museo en el que próximamente se exhibirá una mue
 dedicada a la figura de Alfonso X “El Sabio”; o el **Hospital de Tavera**, situado 
 extramuros frente a la Puerta de Bisagra, otra visita que no debe faltar. 
 
-![alcazar un lugar que ver en toledo](etheria_images/2022/02/alcazar-toledo.jpg "Alcázar de Toledo.")
+![alcazar un lugar que ver en toledo](etheria-images/2022/02/alcazar-toledo.jpg "Alcázar de Toledo.")
 
 ### Los puentes de Toledo
 
@@ -78,7 +78,7 @@ asentamiento de la Edad del Bronce) y los restos del antiguo acueducto romano. A
 quedan los pilares anclados en ambas orillas, pero os permitirá haceros una idea de las 
 dimensiones que alcanzaba esta maravilla de la ingeniería hidráulica. 
 
-![senda ecologica por el tajo alrededor de toledo](etheria_images/2022/02/Senda-Ecologica-toledo.jpg "Senda Ecológica, un paseo fluvial por el Tajo. © Yolanda Cardo")
+![senda ecologica por el tajo alrededor de toledo](etheria-images/2022/02/Senda-Ecologica-toledo.jpg "Senda Ecológica, un paseo fluvial por el Tajo. © Yolanda Cardo")
 
 ### La mejor panorámica de Toledo
 
@@ -93,7 +93,7 @@ espléndidos miradores de las afueras, como por ejemplo desde Los Cigarrales, el
 **mirador del Valle** o desde la **Piedra del Rey Moro**. Lo cierto es que de noche o de 
 día la capital manchega es “una ciudad con vistas” la mires por donde la mires. 
 
-![vistas de toledo desde puente alcantara](etheria_images/2022/02/vistas-toledo-puente-alcantara.jpg "Vista de Toledo desde el Puente de Alcántara. © Yolanda Cardo")
+![vistas de toledo desde puente alcantara](etheria-images/2022/02/vistas-toledo-puente-alcantara.jpg "Vista de Toledo desde el Puente de Alcántara. © Yolanda Cardo")
 
 ### El entierro del señor de Orgaz
 
@@ -109,7 +109,7 @@ ubicadas a la entrada. Unas galerías de ladrillo que formaban parte del antiguo
 de Samuel Leví, el que fuera tesorero de Pedro I el Cruel. Los sábados a partir de las 
 14 h y los domingos es gratuito. 
 
-![museo de el greco](etheria_images/2022/02/toledo-Museo-del-Greco.jpg "Sala del Apostolado en el Museo del Greco. © Yolanda Cardo")
+![museo de el greco](etheria-images/2022/02/toledo-Museo-del-Greco.jpg "Sala del Apostolado en el Museo del Greco. © Yolanda Cardo")
 
 ### El Toledo oculto
 
@@ -122,7 +122,7 @@ otro imprescindible de esta ruta. Como también lo son las **termas romanas** de
 céntrica _plaza de Amador de los Ríos, 4_ construidas a finales del siglo I o principios 
 del II d.C. y cuyo acceso es gratuito. 
 
-![termas romanas de toledo](etheria_images/2022/02/termas-romanas-toledo.jpg "Las termas romanas, uno de los tesoros subterráneos de la ciudad. © Yolanda Cardo")
+![termas romanas de toledo](etheria-images/2022/02/termas-romanas-toledo.jpg "Las termas romanas, uno de los tesoros subterráneos de la ciudad. © Yolanda Cardo")
 
 En ocasiones estos vetustos tesoros te sorprenden en los lugares más inesperados. Otro 
 de los lugares que tienes que ver en Toledo es el **Pozo de los Deseos**, un bello 
@@ -149,7 +149,7 @@ Santa Lucía, el Arca del Santísimo Sacramento o el relicario de la Santa Espin
 ?Consejo para ahorrar: la **Toledo Card** incluye la visita a la Catedral y a otros 
 monumentos, y un tour a pie. Además, no hay que hacer cola para realizar las visitas. 
 
-![catedral primada imprescindible que ver en toledo](etheria_images/2022/02/toledo-Catedral-900x433.jpg "La Catedral Primada de Toledo, una de las visitas imprescindibles. © Yolanda Cardo")
+![catedral primada imprescindible que ver en toledo](etheria-images/2022/02/toledo-Catedral-900x433.jpg "La Catedral Primada de Toledo, una de las visitas imprescindibles. © Yolanda Cardo")
 
 ### Tres culturas de Toledo
 
@@ -169,7 +169,7 @@ para conocer en profundidad la valiosa herencia sefardí en estas tierras castel
 ? Visita guiada por el Toledo de las tres culturas. Precio: unos 12 €. [Reservas en este 
 enlace](https://www.civitatis.com/es/toledo/visita-toledo-tres-culturas/?aid=10211). 
 
-![juderia un basico que ver en toledo](etheria_images/2022/02/toledo-juderia-744x1024.jpg "La Judería desde el puente de San Martín. © Yolanda Cardo")
+![juderia un basico que ver en toledo](etheria-images/2022/02/toledo-juderia-744x1024.jpg "La Judería desde el puente de San Martín. © Yolanda Cardo")
 
 #### Legado musulmán
 
@@ -181,7 +181,7 @@ VI, los **baños árabes**, la antigua **Mezquita del Salvador** o el Palacio de
 (palaciodegaliana.es), una preciosa joya arquitectónica construida en el siglo XI bajo 
 el mandato del rey Al-Mamún, también fueron levantadas bajo su influencia. 
 
-![sinagoga del transito otro basico que ver en toledo](etheria_images/2022/02/sinagoga-transito-900x674.jpg "La sinagoga del Tránsito, sede del Museo Sefardí de Toledo. © Yolanda Cardo")
+![sinagoga del transito otro basico que ver en toledo](etheria-images/2022/02/sinagoga-transito-900x674.jpg "La sinagoga del Tránsito, sede del Museo Sefardí de Toledo. © Yolanda Cardo")
 
 #### Monumentos cristianos
 
@@ -196,7 +196,7 @@ Arte”; la iglesia de **Santo Tomé**; la de San Ildefonso o la célebre **Escu
 traductores de Toledo** son una excelente opción para adentrarnos en este periodo 
 histórico. 
 
-![interior de san juan de los reyes en toledo](etheria_images/2022/02/San-Juan-de-los-Reyes.jpg "El magnífico interior de San Juan de los Reyes. © Yolanda Cardo")
+![interior de san juan de los reyes en toledo](etheria-images/2022/02/San-Juan-de-los-Reyes.jpg "El magnífico interior de San Juan de los Reyes. © Yolanda Cardo")
 
 ### Ruta por la muralla y sus puertas
 
@@ -207,7 +207,7 @@ remontan a época islámica, pero se han encontrado vestigios romanos y visigodo
 su estado es ruinoso, sí podemos rodear la ciudad admirando sus restos y de paso 
 contemplar las monumentales puertas que dan acceso a la ciudad. 
 
-![puerta del cambron en toledo](etheria_images/2022/02/Puerta-del-Cambron-toledo.jpg "Puerta del Cambrón. © Yolanda Cardo")
+![puerta del cambron en toledo](etheria-images/2022/02/Puerta-del-Cambron-toledo.jpg "Puerta del Cambrón. © Yolanda Cardo")
 
 La **Puerta de Bisagra**, formada por dos cuerpos separados por una plaza de armas 
 presidida por una estatua de Carlos V; la de **Alcántara**, una de las más conocidas al 
@@ -242,7 +242,7 @@ Toledo](https://etheriamagazine.com/2022/04/06/15-razones-para-visitar-puy-du-fo
 ?Entrada de Puy du Fou Toledo de adulto desde 29 €. [Consulta 
 disponibilidad](https://www.civitatis.com/es/toledo/entrada-puy-du-fou/?aid=10211). 
 
-![espectaculo el sueno de toledo en puy du fou](etheria_images/2022/02/Puy-du-Fou-España.jpg "Espectáculo 'El sueño de Toledo', en Puy du Fou.")
+![espectaculo el sueno de toledo en puy du fou](etheria-images/2022/02/Puy-du-Fou-España.jpg "Espectáculo 'El sueño de Toledo', en Puy du Fou.")
 
 ## Guía de Toledo | Etheria Magazine
 

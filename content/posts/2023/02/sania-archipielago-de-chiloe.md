@@ -1,10 +1,10 @@
 ---
 title: "Isla de Chiloé, consejos de Sania para visitarla"
 date: 2023-02-03
-coverImage: etheria_images/2023/01/sania-chiloe-palafitos.jpg
+coverImage: etheria-images/2023/01/sania-chiloe-palafitos.jpg
 categories: 
   - viajar-sola
-author: 
+authors: 
   - Sania Jelic
 ---
 
@@ -13,7 +13,7 @@ Chiloé, uno de los parajes naturales más interesantes de Chile. Nos lo cuenta,
 siempre, en primera persona aportando datos prácticos para quienes se estén planteando 
 viajar solas por esta parte del mundo. 
 
-![Paisaje en la isla principal del archipiélago de la isla de Chiloé.](etheria_images/2023/01/sania-chiloe-cucao.jpg "Paisaje en la isla principal del archipiélago de Chiloé.")
+![Paisaje en la isla principal del archipiélago de la isla de Chiloé.](etheria-images/2023/01/sania-chiloe-cucao.jpg "Paisaje en la isla principal del archipiélago de Chiloé.")
 
 En el ferry de **Navimag**, desde Puerto Natales a Puerto Montt, conocí, entre otras 
 personas, a una joven pareja alemana de profesores, que estaban de camino por estos 
@@ -33,7 +33,7 @@ perfecto, un Nissan grande cuyo precio era de unos 45 €/día) y emprendimos ca
 Castro, la actual capital de Chiloé. Elegimos esta ciudad como base por su ubicación en 
 el centro de la isla. 
 
-![Sania con sus compañeros de viaje en Chiloé.](etheria_images/2023/01/sania-chiloe-companeros-viaje.jpg "Sania (dcha.) con sus compañeros de viaje. © SJ")
+![Sania con sus compañeros de viaje en Chiloé.](etheria-images/2023/01/sania-chiloe-companeros-viaje.jpg "Sania (dcha.) con sus compañeros de viaje. © SJ")
 
 ? El trayecto es de unas tres horas y media desde Puerto Montt (incluidos el los quince 
 minutos de ferry). El barco sale cada cinco minutos y el pasaje con coche sale por unos 
@@ -49,7 +49,7 @@ pandemia no paró ni un día. Allí se cultivan más de 400 variedades de patata
 mucho salmón. La orilla occidental está más expuesta a los vientos del océano Pacífico y 
 menos poblada. 
 
-![Casas sobre palafitos en la isla de Chiloé.](etheria_images/2023/01/sania-chiloe-palafitos.jpg "Casas sobre palafitos en Chiloé. © SJ")
+![Casas sobre palafitos en la isla de Chiloé.](etheria-images/2023/01/sania-chiloe-palafitos.jpg "Casas sobre palafitos en Chiloé. © SJ")
 
 Dicen que llueve 300 días al año y los desniveles del mar en la marea alta y baja son 
 grandes. Es parte de la razón por la que se han construido casas en pilares, llamadas 
@@ -73,7 +73,7 @@ en envases a partir de 3€.
 ? Aunque cuenta con una buena conexión de autobuses locales por la isla de Chiloé, el 
 desplazamiento en coche es más práctico. 
 
-![mercado de artesanía en Chiloé](etheria_images/2023/01/sania-chiloe-artesanas.jpg "Artesanas en Chiloé. © SJ")
+![mercado de artesanía en Chiloé](etheria-images/2023/01/sania-chiloe-artesanas.jpg "Artesanas en Chiloé. © SJ")
 
 ## Flora y fauna de Chiloé
 
@@ -91,7 +91,7 @@ donde anidan. Se suele ir en una lancha, a la que se sube por una pasarela que e
 los marineros para que los pasajeros no se mojen. No había visto este peculiar sistema 
 hasta ahora. 
 
-![Pingüinos en el archipiélago de Chiloé.](etheria_images/2023/01/sania-chiloe-pinguinos.jpg "Pingüinos en el archipiélago de Chiloé. © SJ")
+![Pingüinos en el archipiélago de Chiloé.](etheria-images/2023/01/sania-chiloe-pinguinos.jpg "Pingüinos en el archipiélago de Chiloé. © SJ")
 
 Las colonias de pingüinos no son muy densas. Nos comentaron que los barcos con redes de 
 arrastre, que son muy numerosos en las aguas internacionales a lo largo de la costa 
@@ -109,7 +109,7 @@ pobladores de la isla (los chonos y los huilliches), y las leyendas y superstici
 traídas por los conquistadores españoles. En la isla hay muchas estatuas, libros, 
 murales y referencias a mitología. Y rutas que las explican. 
 
-![Coloridas casas en Chiloé.](etheria_images/2023/01/sania-chiloe-casas-colores.jpg "Coloridas casas en Chiloé. © SJ")
+![Coloridas casas en Chiloé.](etheria-images/2023/01/sania-chiloe-casas-colores.jpg "Coloridas casas en Chiloé. © SJ")
 
 Las criaturas mitológicas se dividen en dos: marinas y terrestres. Luego vienen los 
 seres humanos con poderes mágicos. Hay fascinantes historias como la del **duende 
@@ -155,7 +155,7 @@ en el barco. La temperatura del mar en esta época no supera los 16ºC y suelen 
 horas en el mar. El precio al por mayor de un kilo de moluscos era de 0,30 euros. La 
 vida de los pescadores es dura en todo el mundo. 
 
-![delfines en Chiloé.](etheria_images/2023/01/sania-chiloe-delfines.jpg "Avistamiento de delfines en Chiloé. © David Vives")
+![delfines en Chiloé.](etheria-images/2023/01/sania-chiloe-delfines.jpg "Avistamiento de delfines en Chiloé. © David Vives")
 
 ✅ **Lo que aprendí:** Ha sido muy agradable compartir este tramo con compañeros de 
 viaje. Es mucho más barato viajar en compañía. De hecho, he visto personas viajando 

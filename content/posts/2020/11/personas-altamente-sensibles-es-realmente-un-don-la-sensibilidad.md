@@ -1,16 +1,16 @@
 ---
 title: "Personas Altamente Sensibles. ¿Es realmente un don la sensibilidad?"
 date: 2020-11-25
-coverImage: etheria_images/2020/11/mujeres-alta-sensibilidad.jpg
+coverImage: etheria-images/2020/11/mujeres-alta-sensibilidad.jpg
 categories: 
   - salud-bienestar-nutricion
-author: 
+authors: 
   - Maria Miret
 ---
 
 Un 20 por ciento de la población tiene un sistema nervioso más desarrollado de lo habitual, es decir, son Personas Altamente Sensibles (PAS). Esto NO es una enfermedad, sino un rasgo psicológico de la personalidad con una base neurológica. Incluso hay quien lo considera un don, pues bien gestionado se puede convertir en un regalo para construir un mundo mejor. 
 
-![personas altamente sensibles en el mundo](etheria_images/2020/11/claves-detectar-alta-sensibilidad.jpg "2 de cada 10 habitantes del mundo son Personas Altamente Sensibles. © Javardh ML")
+![personas altamente sensibles en el mundo](etheria-images/2020/11/claves-detectar-alta-sensibilidad.jpg "2 de cada 10 habitantes del mundo son Personas Altamente Sensibles. © Javardh ML")
 
 Si te molestan los ruidos más de la cuenta, si en el trabajo te estresas más que tus 
 compañeros, si de vez en cuando sientes necesidad de aislarte del mundo o, incluso, de 
@@ -35,7 +35,7 @@ habilidad especial para **percibir emociones**, tanto en sí mismas como en los 
 darse cuenta de los pequeños detalles cotidianos que otras personas con un nivel de 
 sensibilidad normal no suelen captar. 
 
-![personas altamente sensible](etheria_images/2020/11/mujeres-alta-sensibilidad.jpg "La alta sensibilidad bien gestionada se puede considerar un don. © Leon Ell.")
+![personas altamente sensible](etheria-images/2020/11/mujeres-alta-sensibilidad.jpg "La alta sensibilidad bien gestionada se puede considerar un don. © Leon Ell.")
 
 ## ¿Crees que eres una Persona Altamente Sensible? Claves para identificarlo
 
@@ -50,7 +50,7 @@ Sensibilidad:
 Para que una persona se considere Altamente Sensible debe reunir estas cuatro 
 características, **todas**, y no sólo una o un par de ellas. 
 
-![alta sensibilidad](etheria_images/2020/11/persona-altamente-sensible.jpg "Las Personas Altamente Sensibles perciben más matices. © David Becker")
+![alta sensibilidad](etheria-images/2020/11/persona-altamente-sensible.jpg "Las Personas Altamente Sensibles perciben más matices. © David Becker")
 
 Si te sientes identificada, puedes averiguar si eres PAS respondiendo las [22 preguntas 
 del test que desarrolló Elaine 
@@ -69,7 +69,7 @@ Sensibilidad](https://www.personasaltamentesensibles.com/). Para esta coach
 especializada en el rasgo desde 2007, percibir la sensibilidad como un regalo te permite 
 vivir desde la intuición y la creatividad, eso que conocemos como “el sexto sentido”. 
 
-![aprender a gestionar las emociones](etheria_images/2020/11/gestionar-la-sensibilidad.jpg "Es necesario aprender a gestionar los pensamientos, sentimientos y emociones. © Courtney Cook")
+![aprender a gestionar las emociones](etheria-images/2020/11/gestionar-la-sensibilidad.jpg "Es necesario aprender a gestionar los pensamientos, sentimientos y emociones. © Courtney Cook")
 
 ## La Alta Sensibilidad no es un trastorno, sino un rasgo natural
 
@@ -91,7 +91,7 @@ vez que entiendes qué es lo que te pasa y cuál es el motivo por el que sucede,
 empezar a reconducir la excesiva sensibilidad y emocionalidad”, asegura la Presidenta de 
 la Asociación de Personas con Alta Sensibilidad en España (APASE). 
 
-![aislamiento social por alta sensibilidad](etheria_images/2020/11/demasiado-sensible.jpg "El aislamiento social es uno de sus inconvenientes. © Bagir Bahana")
+![aislamiento social por alta sensibilidad](etheria-images/2020/11/demasiado-sensible.jpg "El aislamiento social es uno de sus inconvenientes. © Bagir Bahana")
 
 Al reconocerse a sí mismas como PAS, las personas con alta sensibilidad se dan cuenta de 
 que algunas características de su personalidad, que pensaban que eran defectos, no 
@@ -116,7 +116,7 @@ decisiones, estas personas pueden desarrollar una vida interior más rica.
 > No tienen miedo a la valoración de los demás, sino que necesitan más tiempo para 
 > recuperarse de los acontecimientos. 
 
-![empatia y solidaridad rasgos de personas sensibles](etheria_images/2020/11/personas-sensibles.jpg "Empáticas y con deseos de ayudar a los demás, así son las Personas Altamente Sensibles. © Ricardo Gómez")
+![empatia y solidaridad rasgos de personas sensibles](etheria-images/2020/11/personas-sensibles.jpg "Empáticas y con deseos de ayudar a los demás, así son las Personas Altamente Sensibles. © Ricardo Gómez")
 
 Se podría decir que son personas con una piel más fina. Por ello suelen tener más ganas 
 de cambiar el mundo, buscan contribuir a causas nobles y desempeñar **trabajos con 
@@ -141,7 +141,7 @@ y no son tan emocionalmente reactivas”. Las PAS, sin embargo, tienden a mostra
 mayor conciencia de los estímulos sutiles, procesar la información más a fondo y ser 
 **más reactivos a los estímulos positivos y negativos**”. 
 
-![vida con alta sensibilidad](etheria_images/2020/11/grupo-amigos-viajes.jpg "Las PAS son más reactivas a las emociones. © Helena Lopes")
+![vida con alta sensibilidad](etheria-images/2020/11/grupo-amigos-viajes.jpg "Las PAS son más reactivas a las emociones. © Helena Lopes")
 
 Es la conclusión a la que ha llegado el equipo de investigación formado por la Dra. 
 Elaine Aron, el Dr. Arthur Aron, profesor de Psicología en la Stony Brook University de 
@@ -157,7 +157,7 @@ y la emoción, en concreto las conectadas con sentimientos de empatía, mostraro
 de sangre sustancialmente mayor en comparación con las áreas cerebrales observadas en 
 individuos con baja sensibilidad. 
 
-![libro el don de la sensibilidad para pas](etheria_images/2020/11/don-sensibilidad-elaine-aron-683x1024.jpg "'El don de la sensibilidad', de Elaine Aron.")
+![libro el don de la sensibilidad para pas](etheria-images/2020/11/don-sensibilidad-elaine-aron-683x1024.jpg "'El don de la sensibilidad', de Elaine Aron.")
 
 Si quieres saber más sobre las Personas Altamente Sensibles, puedes seguir los trabajos 
 de Elaine Aron, que ya describió la alta sensibilidad en 1995. Esta psicóloga, que 

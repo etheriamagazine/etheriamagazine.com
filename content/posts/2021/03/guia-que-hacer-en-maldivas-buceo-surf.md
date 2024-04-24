@@ -1,11 +1,11 @@
 ---
 title: "Islas Maldivas, mucho más que un destino para lunas de miel"
 date: 2021-03-23
-coverImage: etheria_images/2018/10/Maldivas-playa.jpg
+coverImage: etheria-images/2018/10/Maldivas-playa.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
-author: 
+authors: 
   - Kris Ubach
 ---
 
@@ -14,7 +14,7 @@ perfectas y hoteles para lunas de miel. Pero ¿hay que casarse para gozar de est
 paraíso? No, y te lo demostramos enumerando todas las actividades que puedes hacer en 
 Maldivas, desde buceo hasta surf. 
 
-![Isla desierta en Maldivas.](etheria_images/2018/10/Maldivas-isla-desierta-1024x683.jpg "Isla desierta en Maldivas. © Kris Ubach")
+![Isla desierta en Maldivas.](etheria-images/2018/10/Maldivas-isla-desierta-1024x683.jpg "Isla desierta en Maldivas. © Kris Ubach")
 
 Actualizado marzo de 2024 
 
@@ -27,7 +27,7 @@ restantes te decantas. Y sí, estas Maldivas (turísticas) son exactamente lo qu
 un reino de aguas turquesas donde un pareo, un bañador y poco más, es todo lo que se 
 necesita para evadirse del mundanal ruido. 
 
-![Preciosa playa de Maldivas con un columpio en una palmera.](etheria_images/2018/10/Maldivas-hamaca-1024x683.jpg "En las Maldivas es casi imposible no dedicar algún momento al descanso.")
+![Preciosa playa de Maldivas con un columpio en una palmera.](etheria-images/2018/10/Maldivas-hamaca-1024x683.jpg "En las Maldivas es casi imposible no dedicar algún momento al descanso.")
 
 ## Qué hacer en las islas Maldivas
 
@@ -41,7 +41,7 @@ está, la mayor parte de actividades que pueden realizarse en Maldivas tienen ta
 líquido elemento como protagonista. Lancémonos al agua pues y conozcamos todos los 
 deportes y excursiones que puedes hacer en Maldivas. 
 
-![Playa de aguas transparentes de Maldivas](etheria_images/2018/10/Maldivas-atolon-1024x575.jpg "El agua transparente rodea las islas Maldivas.")
+![Playa de aguas transparentes de Maldivas](etheria-images/2018/10/Maldivas-atolon-1024x575.jpg "El agua transparente rodea las islas Maldivas.")
 
 ## Surf en las Maldivas
 
@@ -67,7 +67,7 @@ es posible apuntarse a un _surf-camp_ o a un _surf-boat_. Estos programas ofrece
 días dedicados específicamente a cabalgar olas en varios enclaves del archipiélago, con 
 alojamiento y alquiler de material incluidos. 
 
-![Padel surf en Maldivas](etheria_images/2018/10/Maldivas-padel-surf.jpg "Padel Surf en Maldivas. © Ishan Seefromthesky")
+![Padel surf en Maldivas](etheria-images/2018/10/Maldivas-padel-surf.jpg "Padel Surf en Maldivas. © Ishan Seefromthesky")
 
 ## Anímate con el stand up paddle
 
@@ -78,7 +78,7 @@ _windsurf_, el _kite-surf_ o el esquí acuático, suele estar disponible en todo
 resorts de Maldivas. En algunos se incluye en el precio de la habitación y en otros se 
 paga como actividad extra. 
 
-![Un paseo en kayak es una actividad para disfrutar del mar en Maldivas.](etheria_images/2018/10/Maldivas-kayak-1024x683.jpg "Un paseo en kayak es una actividad para disfrutar del mar en Maldivas. © Kris Ubach")
+![Un paseo en kayak es una actividad para disfrutar del mar en Maldivas.](etheria-images/2018/10/Maldivas-kayak-1024x683.jpg "Un paseo en kayak es una actividad para disfrutar del mar en Maldivas. © Kris Ubach")
 
 ## Buceo y snorkel en Maldivas
 
@@ -88,7 +88,7 @@ cabeza en el agua, no llegará a comprender la verdadera belleza de este lugar. 
 es uno de los mejores destinos del planeta para la observación de especies submarinas y 
 hay numerosas opciones para ello ya sea **haciendo _snorkel_ o buceando** con botella. 
 
-![Snorkel en Maldivas.](etheria_images/2018/10/Maldivas-snorkel-1024x683.jpg "Snorkel en Maldivas. © Kris Ubach")
+![Snorkel en Maldivas.](etheria-images/2018/10/Maldivas-snorkel-1024x683.jpg "Snorkel en Maldivas. © Kris Ubach")
 
 El snorkel por sí solo ya da para muchas sorpresas, pero para las buceadoras 
 certificadas las posibilidades se multiplican. Hay salidas muy sencillas para 
@@ -106,7 +106,7 @@ o tiburones de arrecife entre otros muchos. Otras excursiones submarinas muy
 interesantes son las que están específicamente pensadas para el avistamiento de 
 tiburones martillo o tiburones ballena, según la temporada. 
 
-![Barco tradicional de Maldivas.](etheria_images/2018/10/Maldivas-barco-1024x683.jpg "Barco tradicional de Maldivas.")
+![Barco tradicional de Maldivas.](etheria-images/2018/10/Maldivas-barco-1024x683.jpg "Barco tradicional de Maldivas.")
 
 ## Avistamiento de cetáceos
 
@@ -116,7 +116,7 @@ Maldivas. Todos los resorts organizan salidas vespertinas para la contemplación
 puesta del sol con una copa de champagne en la mano o excursiones para la **observación 
 de ballenas y delfines**. 
 
-![cetaceos en Maldivas](etheria_images/2018/10/Maldivas-avistamiento-cetaceos-576x1024.jpg "Avistamiento de cetáceos en Maldivas. © Ishan Seefromthesky")
+![cetaceos en Maldivas](etheria-images/2018/10/Maldivas-avistamiento-cetaceos-576x1024.jpg "Avistamiento de cetáceos en Maldivas. © Ishan Seefromthesky")
 
 De hecho Maldivas es un lugar excepcional para esto último, ya que sus aguas son hogar 
 para 23 especies de cetáceos. Los más abundantes y fáciles de ver son los delfines 
@@ -133,7 +133,7 @@ países con mayor riesgo de desaparición a causa del cambio climático. El moti
 uno de sus efectos más devastadores: la elevación del nivel del mar (la máxima altitud 
 en sus territorios es de tres metros sobre el nivel del mar). 
 
-![Playa en las islas Maldivas.](etheria_images/2018/10/Maldivas-playa-1.jpg "Playa en las islas Maldivas. © Dorsa Masghati")
+![Playa en las islas Maldivas.](etheria-images/2018/10/Maldivas-playa-1.jpg "Playa en las islas Maldivas. © Dorsa Masghati")
 
 El gobierno de Maldivas es una de las voces más activas del mundo en los programas sobre 
 calentamiento global y se ha comprometido a eliminar por completo el uso de combustibles 
@@ -145,7 +145,7 @@ políticas, muchos resorts generan su propia electricidad y cada año el gobiern
 el **Green Resort Award** a aquellos complejos que cumplan con creces los preceptos de 
 sostenibilidad y respeto al medio ambiente. 
 
-![hotel de lujo en maldivas](etheria_images/2018/10/Maldivas-The-Residence-Maldives-1024x683.jpg "Hotel The Residence Maldivas by Cenizaro. © Kris Ubach")
+![hotel de lujo en maldivas](etheria-images/2018/10/Maldivas-The-Residence-Maldives-1024x683.jpg "Hotel The Residence Maldivas by Cenizaro. © Kris Ubach")
 
 ## Guía práctica para viajar a Maldivas
 

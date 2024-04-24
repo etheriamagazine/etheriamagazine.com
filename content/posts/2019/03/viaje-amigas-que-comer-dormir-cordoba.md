@@ -1,14 +1,14 @@
 ---
 title: "Córdoba, maridaje ideal entre historia y gastronomía"
 date: 2019-03-25
-coverImage: etheria_images/2019/03/Cordoba-restaurante-Recomiendo.jpg
+coverImage: etheria-images/2019/03/Cordoba-restaurante-Recomiendo.jpg
 categories: 
   - viajes-48-horas
   - viajes-romanticos
   - viajes-gastronomicos
   - viajes-para-mujeres
-author: 
-  - macarenaetheria
+authors: 
+  - Macarena Escrivá
 ---
 
 Córdoba rezuma alegría y arte por los cuatro costados. Es un testigo presente de la 
@@ -16,7 +16,7 @@ historia de España bañado por las aguas del río Guadalquivir y uno de los des
 que escaparse ahora que la primavera empieza a asomar las orejas, perfecto para viajar 
 en pareja y disfrutar de su gastronomía. 
 
-![alcazar de cordoba](etheria_images/2019/03/Alcazar-de-Cordoba.jpg "Alcázar de Córdoba.")
+![alcazar de cordoba](etheria-images/2019/03/Alcazar-de-Cordoba.jpg "Alcázar de Córdoba.")
 
 La importancia de Córdoba es tangible. A día de hoy, la que fuera la capital de la 
 España musulmana, sigue enamorando a turistas de todas partes del mundo. Y razones no le 
@@ -49,7 +49,7 @@ antelación](https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-cordoba
 ?NO te pierdas: [Qué ver en la Mezquita de 
 Córdoba](https://etheriamagazine.com/2022/08/12/que-ver-mezquita-cordoba/). 
 
-![mezquita de cordoba](etheria_images/2019/03/Mezquita-de-Cordoba.jpg "Interior de la mezquita-catedral de Córdoba.")
+![mezquita de cordoba](etheria-images/2019/03/Mezquita-de-Cordoba.jpg "Interior de la mezquita-catedral de Córdoba.")
 
 De nuevo con los pies en la tierra, es aquí es donde se sitúa la judería de Córdoba, 
 otro de sus mayores reclamos turísticos de estrechas callejuelas, vida y monumentos como 
@@ -65,7 +65,7 @@ disfrutar de su belleza genuina cuando queráis y evitando la masificación de m
 recorren 7 recintos de Patios y se reserva a través de Turismo de Córdoba y, desde 
 luego, es una actividad que nadie puede perderse. 
 
-![patio cordobes](etheria_images/2019/03/Patios-de-Cordoba.jpg "Interior de uno de los famosos patios cordobeses.")
+![patio cordobes](etheria-images/2019/03/Patios-de-Cordoba.jpg "Interior de uno de los famosos patios cordobeses.")
 
 La visita a la ciudad no será completa si no recorres la **Calleja de las Flores** o si 
 no visitas otros hitos como el **Puente Romano**, el **Alcázar de los Reyes Cristianos** 
@@ -96,7 +96,7 @@ La mejor forma de no perderse nada es realizando un **tour gastronónimo por Có
 este de Civitatis no está nada mal porque tiene la [Visita y la comida 
 incluidos](https://www.civitatis.com/es/cordoba/tour-gastronomico-cordoba/?aid=10211). 
 
-![berenjenas con miel cordoba](etheria_images/2019/03/Cordoba-gastronomia-Berenjenas-con-miel-.jpg "Berenjenas con miel.")
+![berenjenas con miel cordoba](etheria-images/2019/03/Cordoba-gastronomia-Berenjenas-con-miel-.jpg "Berenjenas con miel.")
 
 ### Casa Pepe de la Judería
 
@@ -117,7 +117,7 @@ panceta ibérica colgadas de un pequeño tendedero, unas migas marinas o la maza
 plato que precedió al salmorejo que se elaboraba con almendras, pan, aceite de oliva y 
 vinagre, antes de la llegada del tomate a la Península. 
 
-![chef perico ortega](etheria_images/2019/03/Cordoba-restaurante-Recomiendo.jpg "Chef Perico Ortega del restaurante Recomiendo.")
+![chef perico ortega](etheria-images/2019/03/Cordoba-restaurante-Recomiendo.jpg "Chef Perico Ortega del restaurante Recomiendo.")
 
 ### Noor
 
@@ -132,7 +132,7 @@ Al-Ándalus, tanto a través de la puesta en escena como en la cocina, y hasta e
 herramientas que utilizan –platos, cubiertos o manteles– desarrollados por el mismo Paco 
 Morales y su equipo junto con artesanos. 
 
-![platos de restaurante noor de cordoba](etheria_images/2019/03/Cordoba-restaurante-Noor.jpg "Delicada presentación en el restaurante Noor.")
+![platos de restaurante noor de cordoba](etheria-images/2019/03/Cordoba-restaurante-Noor.jpg "Delicada presentación en el restaurante Noor.")
 
 ## Y para dormir...
 
@@ -144,7 +144,7 @@ suelo hidráulico original del XIX. La suite Hamama, en el antiguo palomar de la
 una de esas maravillas de las que no apetece salir nunca, con cama _king size_, bañera 
 estilo alberca y un espacio para soñar bonito. Pura magia. 
 
-![hotel boutique madinat cordoba](etheria_images/2019/03/Cordoba-Madinat-hotel.jpg "Suite Hamama del hotel boutique Madinat.")
+![hotel boutique madinat cordoba](etheria-images/2019/03/Cordoba-Madinat-hotel.jpg "Suite Hamama del hotel boutique Madinat.")
 
 ### También te puede interesar...
 

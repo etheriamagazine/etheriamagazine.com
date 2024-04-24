@@ -1,11 +1,11 @@
 ---
 title: "¿Cómo es ser mujer en tierra de los Amish?"
 date: 2019-02-07
-coverImage: etheria_images/2019/02/mujeres-amish-etheria-magazine-e1582367792775.jpg
+coverImage: etheria-images/2019/02/mujeres-amish-etheria-magazine-e1582367792775.jpg
 categories: 
   - historias-en-femenino
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 El Rumspringa llega en la tierra de los Amish a los 16 años. Es el momento de decidir si 
@@ -13,7 +13,7 @@ se quiere permanecer en la comunidad o alejarse de sus normas (patriarcales). Co
 hay verdades absolutas, viajamos a Pensilvania para conocer de primera mano su historia 
 y cómo viven las mujeres amish. 
 
-![Jóvenes amish con sus tocados de color blanco.](etheria_images/2019/02/mujeres-amish-etheria-magazine-1024x713.jpg "Jóvenes amish con sus tocados de color blanco.")
+![Jóvenes amish con sus tocados de color blanco.](etheria-images/2019/02/mujeres-amish-etheria-magazine-1024x713.jpg "Jóvenes amish con sus tocados de color blanco.")
 
 Actualizado 3/2024 
 
@@ -54,7 +54,7 @@ en su comunidad. Una comunidad en la que lo normal es ayudarse, a levantar una c
 hacer los muebles (los Amish son excelentes carpinteros) e incluso a sufragar los 
 gastos, médicos o de otra índole, que un miembro de la comunidad necesite. 
 
-![La comunidad Amish no permite la introducción de técnicas avanzadas en el campo.](etheria_images/2019/02/viaje-pais-amish-1024x505.jpg "La comunidad Amish no permite la introducción de técnicas avanzadas en el campo.")
+![La comunidad Amish no permite la introducción de técnicas avanzadas en el campo.](etheria-images/2019/02/viaje-pais-amish-1024x505.jpg "La comunidad Amish no permite la introducción de técnicas avanzadas en el campo.")
 
 ### Prohibido cortarse el cabello
 
@@ -98,7 +98,7 @@ foráneos en hacerles fotos, prohibido por la Biblia**: “no te harás escultur
 ni del que hay arriba en el cielo ni del que hay abajo en la tierra, ni del que hay en 
 las aguas de la tierra” . 
 
-![Los quilt de patchwork son auténticas obras de arte que hacen las mujeres amish](etheria_images/2019/02/mujeres-amish-viajes-e1582367833359.jpg "Los quilt de patchwork son auténticas obras de arte.")
+![Los quilt de patchwork son auténticas obras de arte que hacen las mujeres amish](etheria-images/2019/02/mujeres-amish-viajes-e1582367833359.jpg "Los quilt de patchwork son auténticas obras de arte.")
 
 ## Memorias de una niña amish
 
@@ -116,7 +116,7 @@ a sus hermanos a recorrer los vastos campos de Lancaster, hasta llegar a Lititz.
 coqueto pueblo está **Wilbur Chocolate Store** y la panadería **Julius Sturgis Pretzel 
 Bakery**, que hornea los mejores _pretzels_ del mundo. 
 
-![Granjas de Pensilvania donde viven las mujeres amish](etheria_images/2019/02/Viaje-amish-e1582367847273.jpg "Granjas de Pensilvania.")
+![Granjas de Pensilvania donde viven las mujeres amish](etheria-images/2019/02/Viaje-amish-e1582367847273.jpg "Granjas de Pensilvania.")
 
 ### Casas sin ornamentos
 
@@ -157,7 +157,7 @@ está llena de alicientes. Y evoca a la modelo Kate Stoltzfus, Stoltz (apellido
 artístico) que abandonó sus raíces amish y vive en Nueva York donde tiene una marca de 
 ropa propia, gracias a lo mucho que cosió en su hogar. 
 
-![Coche de caballos típico de los Amish.](etheria_images/2019/02/mujeres-amish-pensilvania-1024x679.jpg "Coche de caballos típico de los Amish.")
+![Coche de caballos típico de los Amish.](etheria-images/2019/02/mujeres-amish-pensilvania-1024x679.jpg "Coche de caballos típico de los Amish.")
 
 ### El 90% de los jóvenes vuelven a la comunidad amish
 

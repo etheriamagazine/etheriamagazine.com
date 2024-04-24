@@ -1,14 +1,14 @@
 ---
 title: "10 parques naturales de América Latina con paisajes increíbles"
 date: 2021-10-21
-coverImage: etheria_images/2021/10/paisajes-america-latina-Salar-Uyuni.jpg
+coverImage: etheria-images/2021/10/paisajes-america-latina-Salar-Uyuni.jpg
 categories: 
   - viajes-ecoturismo
   - de-un-vistazo
   - planes-cultura-ocio
   - viajes-para-mujeres
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 Los atractivos turísticos de América Latina son infinitos, y entre ellos se encuentran 
@@ -16,7 +16,7 @@ los paisajes sobrecogedores que la naturaleza ha formado en su territorio. Aquí
 seleccionado 10 parques naturales de América Latina, unos lugares donde el tiempo queda 
 suspendido y necesitamos tomar aliento para asimilar tanta belleza. 
 
-![Perito Moreno, en el Parque Nacional de los Glaciares (Argentina)](etheria_images/2021/10/paisajes-america-latina-perito-moreno-pasarelas.jpg "Perito Moreno, en el Parque Nacional de los Glaciares (Argentina).")
+![Perito Moreno, en el Parque Nacional de los Glaciares (Argentina)](etheria-images/2021/10/paisajes-america-latina-perito-moreno-pasarelas.jpg "Perito Moreno, en el Parque Nacional de los Glaciares (Argentina).")
 
 Son muchos los viajeros para los que la naturaleza es el motivo de realizar un viaje y 
 otros tantos para los que una excursión a un parque natural suma enteros a una 
@@ -36,7 +36,7 @@ sobre la superficie, una experiencia que parece del fin del mundo. Nos os perdá
 visita a la **isla de Incahuasi** que con su jardín de cactus gigantes aparece como un 
 singular y único oasis en medio de este desierto de sal. 
 
-![Salar de Uyuni.](etheria_images/2021/10/paisajes-america-latina-Salar-Uyuni.jpg "Salar de Uyuni, en Bolivia.")
+![Salar de Uyuni.](etheria-images/2021/10/paisajes-america-latina-Salar-Uyuni.jpg "Salar de Uyuni, en Bolivia.")
 
 ? Civitatis te propone una [excursión al Salar de 
 Uyuni](https://www.civitatis.com/es/uyuni/excursion-salar-uyuni/?aid=10211). 
@@ -48,7 +48,7 @@ de los Glaciares en Argentina, es uno de los paisajes naturales más impresionan
 América Latina. Para verlo tendrás que volar a Calafate y desde aquí realizar un 
 trayecto en coche de hora y media. 
 
-![Glaciar Perito Moreno.](etheria_images/2021/10/paisajes-america-latina-perito-moreno.jpg "Glaciar Perito Moreno. © Nelson Pigossi")
+![Glaciar Perito Moreno.](etheria-images/2021/10/paisajes-america-latina-perito-moreno.jpg "Glaciar Perito Moreno. © Nelson Pigossi")
 
 El trayecto merece la pena. Una de las ventajas de este glaciar es que puede disfrutarse 
 de varias formas. La primera, desde sus miradores, construidos en unas pasarelas de 
@@ -76,7 +76,7 @@ naturales más impresionantes del mundo, con una flora apabullante y una fauna �
 no os perdáis las singulares localidades que encontraréis en el recorrido, como Óbidos, 
 Santarém o Monte Alegro. ¿Te atreves a pescar pirañas? 
 
-![Río Amazonas.](etheria_images/2021/10/paisajes-america-latina-Amazonas.jpg "Río Amazonas. © Isaac Quesada")
+![Río Amazonas.](etheria-images/2021/10/paisajes-america-latina-Amazonas.jpg "Río Amazonas. © Isaac Quesada")
 
 ? Con Civitatis puedes realizar una [ruta de 5 días por el Amazonas desde Manaos hasta 
 Belém](https://www.civitatis.com/es/manaos/crucero-5-dias-rio-amazonas/?aid=10211) o un [tour 
@@ -94,7 +94,7 @@ Monteverde por cómodos puentes colgantes, subir a un teleférico y deslizarte d
 sobre el terreno, puedes hacer una ruta de senderismo en sus más de 13 kilómetros de 
 senderos en el bosque. 
 
-![Bosque Nuboso de Monteverde.](etheria_images/2021/10/paisajes-america-latina-monteverde.jpg "Bosque Nuboso de Monteverde. © James Ting")
+![Bosque Nuboso de Monteverde.](etheria-images/2021/10/paisajes-america-latina-monteverde.jpg "Bosque Nuboso de Monteverde. © James Ting")
 
 ## Torres del Paine (Chile)
 
@@ -110,7 +110,7 @@ imprescindible un **crucero por el lago Grey**, que dejará imágenes impagables
 vuestra cámara de fotos. Para acceder al parque ten en cuenta que necesitas registrarte 
 al menos 24 horas antes de la llegada. 
 
-![Torres del Paine.](etheria_images/2021/10/paisajes-america-latina-torres-del-paine.jpg "Torres del Paine. © Snowscat")
+![Torres del Paine.](etheria-images/2021/10/paisajes-america-latina-torres-del-paine.jpg "Torres del Paine. © Snowscat")
 
 ? Civitatis te propone un [trekking por Torres del 
 Paine](https://www.civitatis.com/es/puerto-natales/trekking-torres-paine/?aid=10211) o 
@@ -128,7 +128,7 @@ natural: rutas de senderismo, rafting, baño en las aguas termales de la Caldera
 ojo con el mal de altura, estarás a casi 4.000 metros y es habitual sufrir algunos 
 síntomas, aunque la altura no afecta a todas las personas. 
 
-![Valle del Colca.](etheria_images/2021/10/paisajes-america-latina-valle-colca.jpg "Valle del Colca. © Jean Vella")
+![Valle del Colca.](etheria-images/2021/10/paisajes-america-latina-valle-colca.jpg "Valle del Colca. © Jean Vella")
 
 ? Civitatis cuenta con distintas excursiones como un [tour de dos días al valle del 
 Colca y a la Cruz del 
@@ -150,7 +150,7 @@ Concha. Si quieres estar solo, tus playas serán Arenilla y La Piscina. Y si te 
 por un turismo más exclusivo, no te pierdas Ecoabs Santa Marta, en la playa de 
 Cañaveral, uno de los mejores alojamientos del parque. 
 
-![Parque de Tayrona.](etheria_images/2021/10/paisajes-america-latina-tayrona.jpg "Parque de Tayrona.")
+![Parque de Tayrona.](etheria-images/2021/10/paisajes-america-latina-tayrona.jpg "Parque de Tayrona.")
 
 ? Con Civitatis puedes realizar una [excursión al Parque 
 Tayrona](https://www.civitatis.com/es/santa-marta/excursion-parque-tayrona/?aid=10211) 
@@ -168,7 +168,7 @@ que descubrirás cuevas y cascadas. Se te gustan las emociones intensas, no te p
 tirolina de más de 800 metros que te lleva por encima de las copas de los árboles 
 ofreciendo paisajes de infarto. 
 
-![Cañón del Sumidero](etheria_images/2021/10/paisajes-america-latina-canon-sumidero.jpg "Cañón del Sumidero. © Gabriel Tovar")
+![Cañón del Sumidero](etheria-images/2021/10/paisajes-america-latina-canon-sumidero.jpg "Cañón del Sumidero. © Gabriel Tovar")
 
 ? Civitatis te propone una [excursión al Cañón del 
 Sumidero](https://www.civitatis.com/es/san-cristobal-casas/excursion-canon-sumidero/?aid=10211) 
@@ -181,7 +181,7 @@ Las cataratas de Iguazú están ubicadas en la frontera entre Argentina y Brasil
 países son perfectos para visitarlas. De hecho, aunque estemos en uno de ellos, es 
 imprescindible pasar la frontera para visitar este parque natural desde los dos lugares. 
 
-![Cataratas de Iguazú.](etheria_images/2021/10/paisajes-america-latina-iguazu.jpg "Cataratas de Iguazú. © Ondrej Bozek")
+![Cataratas de Iguazú.](etheria-images/2021/10/paisajes-america-latina-iguazu.jpg "Cataratas de Iguazú. © Ondrej Bozek")
 
 Para empezar, alojarse en uno de los hoteles que las rodean ya es una experiencia por 
 ese ambiente tropical que mantiene este lugar durante todo el año. Para llevarse una 
@@ -211,7 +211,7 @@ Santiago Atitlán, San Pedro La Laguna, San Juan La Laguna y San Marcos La Lagun
 supuesto, realizar alguna travesía entre pueblos en las lanchas que lo recorren. Un 
 precioso lugar que permite además acercarse a la cultura guatemalteca más tradicional. 
 
-![Lago Atitlán.](etheria_images/2021/10/paisajes-america-latina-lago-atitlan.jpg "Lago Atitlán. © Alexander Schimmeck")
+![Lago Atitlán.](etheria-images/2021/10/paisajes-america-latina-lago-atitlan.jpg "Lago Atitlán. © Alexander Schimmeck")
 
 ? Civitatis propone un [tour de 2 días por Chichicastenango y el lago 
 Atitlán](https://www.civitatis.com/es/ciudad-de-guatemala/tour-2-dias-lago-atitlan-chichicastenango/?aid=10211). 

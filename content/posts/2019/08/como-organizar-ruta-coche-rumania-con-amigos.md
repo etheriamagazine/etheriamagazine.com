@@ -1,18 +1,18 @@
 ---
 title: "Cómo convertir una ruta en coche por Rumanía de 7 días en un viaje inolvidable"
 date: 2019-08-02
-coverImage: etheria_images/2019/07/2-rumania-aerea-transfagarasan.jpg
+coverImage: etheria-images/2019/07/2-rumania-aerea-transfagarasan.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
-  - Cristina
+authors: 
+  - Cristina R. Bareño
 ---
 
 Una ruta en coche por Rumanía es una de las propuestas más originales para un viaje con amigos a nivel europeo. Transitar por sus carreteras y pueblecitos es el mejor modo de descubrir los matices de un país poco conocido por el turismo. En un itinerario de 7 días tendréis tiempo de conocer lo más importante.
 
-![Vista aérea de la carretera Transfăgărășan.](etheria_images/2019/07/2-rumania-aerea-transfagarasan.jpg "Vista aérea de la carretera Transfăgărășan.")
+![Vista aérea de la carretera Transfăgărășan.](etheria-images/2019/07/2-rumania-aerea-transfagarasan.jpg "Vista aérea de la carretera Transfăgărășan.")
 
 Melancólica, decadente, humilde y sencilla, pero también divertida, colorida, relajada y 
 sorprendente. Repleta de monasterios pintados, iglesias de madera, carreteras regulares, 
@@ -26,7 +26,7 @@ que proponer una ruta en coche por Rumanía **a vuestros amigos**, alquilar un c
 > Diez días, ocho alojamientos y un montón de historias para recordar en los más de 900 km 
 > que vamos a recorrer sobre ruedas por las regiones de Valaquia y Transilvania. 
 
-![Bucarest, capital de Rumanía](etheria_images/2019/07/14-Rumania-Bucarest.jpg "La ruta en coche parte de Bucarest, capital de Rumanía.")
+![Bucarest, capital de Rumanía](etheria-images/2019/07/14-Rumania-Bucarest.jpg "La ruta en coche parte de Bucarest, capital de Rumanía.")
 
 ## Qué ver y hacer en Rumanía en 7 días
 
@@ -59,7 +59,7 @@ montaña de la cordillera de los Cárpatos, un enclave de dominio del valle, con
 **Parque Natural Bucegi** de fondo. Data del siglo XIII y, a pesar de que fue abandonada 
 en el siglo XVIII, la fortaleza ha sido restaurada y declarada Monumento Nacional. 
 
-![Vecinos de Brasov y Targu Mures.](etheria_images/2019/07/18-Rumania-retratos-Brasov-Targu-Mure.jpg "Vecinos de Brasov y Targu Mures.")
+![Vecinos de Brasov y Targu Mures.](etheria-images/2019/07/18-Rumania-retratos-Brasov-Targu-Mure.jpg "Vecinos de Brasov y Targu Mures.")
 
 ### Noche en Brasov
 
@@ -81,7 +81,7 @@ precio](https://www.civitatis.com/es/brasov/visita-guiada-brasov/?aid=10211).
 > Si aún tenéis fuerzas para salir de fiesta, Brasov es uno de los núcleos urbanos más 
 > animados de Transilvania así que su noche no os defraudará. 
 
-![Escena rural camino a Viscri.](etheria_images/2019/07/3-rumania-Camino-Viscri.jpg "Escena rural camino a Viscri.")
+![Escena rural camino a Viscri.](etheria-images/2019/07/3-rumania-Camino-Viscri.jpg "Escena rural camino a Viscri.")
 
 ### Viscri y noche en Sighișoara
 
@@ -102,7 +102,7 @@ embellecen sus coloridas fachadas. En su centro urbano, rodeado de una ciudadela
 siglo XIV, la **torre del Reloj** compite en protagonismo con las historias del conde 
 Drácula, ya que aquí fue donde nació el temido Vlad Țepeș. 
 
-![Jardín botánico de Cluj Napoca.](etheria_images/2019/07/6-Rumania-jardin-botanico-Cluj-Napoca.jpg "Jardín botánico de Cluj Napoca.")
+![Jardín botánico de Cluj Napoca.](etheria-images/2019/07/6-Rumania-jardin-botanico-Cluj-Napoca.jpg "Jardín botánico de Cluj Napoca.")
 
 ### Targu Mures y noche en Cluj-Napoca
 
@@ -123,7 +123,7 @@ Señora de la Asunción y la **Ópera Nacional Rumana** son tres visitas más qu
 podéis perder en esta ciudad. Para los amantes de la naturaleza, hay que añadir un 
 relajante paseo por su frondoso Jardín Botánico, fundado en 1920. 
 
-![Piata Mare o plaza Grande de Sibiu.](etheria_images/2019/07/7-Rumania-Sibiu-Piata-Mare.jpg "Piata Mare o plaza Grande de Sibiu.")
+![Piata Mare o plaza Grande de Sibiu.](etheria-images/2019/07/7-Rumania-Sibiu-Piata-Mare.jpg "Piata Mare o plaza Grande de Sibiu.")
 
 ### Noche en Sibiu
 
@@ -134,7 +134,7 @@ Sofisticada, tranquila y con un atardecer inolvidable. Conviven en ella diferent
 estilos arquitectónicos, con una predominancia del barroco, y en las buhardillas de sus 
 tejados descubrimos los llamados “ojos de Sibiu”, pequeñas ventanas “que todo lo ven”. 
 
-![Piata Mare, en Sibiu.](etheria_images/2019/07/9-Rumania-Sibiu-Piata-Mare.jpg "Piata Mare, en Sibiu.")
+![Piata Mare, en Sibiu.](etheria-images/2019/07/9-Rumania-Sibiu-Piata-Mare.jpg "Piata Mare, en Sibiu.")
 
 La estampa de la **Piata Mare** (plaza Grande) –flanqueada por el palacio Brukhental, la 
 iglesia Jesuita, el Ayuntamiento y la torre del Concejo–, es una maravilla. Y desde 
@@ -156,7 +156,7 @@ merece la pena y, por supuesto, hay que conducirla hasta donde nos dejen llegar 
 será aquí donde nuestro _road trip_ cobre el máximo sentido. Bien desde el acceso de 
 Sibiu, bien desde el de Curtea de Argeș. 
 
-![Vista aérea de la carretera Transfăgărășan.](etheria_images/2019/07/1-rumania-aerea-transfagarasan.jpg "Vista aérea de la carretera Transfăgărășan.")
+![Vista aérea de la carretera Transfăgărășan.](etheria-images/2019/07/1-rumania-aerea-transfagarasan.jpg "Vista aérea de la carretera Transfăgărășan.")
 
 **Transfăgărășan** atraviesa las agrestes montañas de Transilvania por un túnel de roca 
 de casi 900 metros llamado Paltinu, y nos regala a lo largo de todo el trayecto 
@@ -167,7 +167,7 @@ preciosos paisajes de naturaleza salvaje entre frondosos bosques.
 paradas para hacer durante el recorrido según se acceda por Sibiu o Curtea de Argeș, 
 respectivamente. 
 
-![Lago Balea o Bâlea lake.](etheria_images/2019/07/15-Rumania-Lago-Balea.jpg "Lago Balea o Bâlea lake.")
+![Lago Balea o Bâlea lake.](etheria-images/2019/07/15-Rumania-Lago-Balea.jpg "Lago Balea o Bâlea lake.")
 
 Ya en la ciudad, de visita obligada es la pequeña **catedral de Curtea de Argeș** con 
 sus torres superiores que parecen sacadas de un auténtico cuento de fantasía, y su 
@@ -182,7 +182,7 @@ cafés, sus centros peatonales invitan a recorrerla sin prisas y a utilizarla co
 para diferentes excursiones por sus alrededores, además de convertirla en enclave de 
 paso para llegar de vuelta a la capital. 
 
-![Ruta en coche por Rumanía](etheria_images/2019/07/17-rumania-aerea-transfagarasan.jpg "Ruta en coche por una de las carreteras más bonitas del mundo.")
+![Ruta en coche por Rumanía](etheria-images/2019/07/17-rumania-aerea-transfagarasan.jpg "Ruta en coche por una de las carreteras más bonitas del mundo.")
 
 ## Qué ver en Bucarest
 
@@ -208,7 +208,7 @@ paseando por la **avenida de la Victoria**, arteria principal, donde se sitúan
 importantes construcciones como la plaza de la Revolución, el **Ateneo Rumano**, el 
 palacio de Cantacuzino o el Museo de Historia Nacional de Rumanía. 
 
-![Bucarest](etheria_images/2019/07/12-Rumania-Bucarest.jpg "Bucarest.")
+![Bucarest](etheria-images/2019/07/12-Rumania-Bucarest.jpg "Bucarest.")
 
 Otra de las calles más conocidas es la de Kiseleff, un paseo entre árboles donde residen 
 edificios que datan de antes de la Segunda Guerra Mundial y donde llegaremos hasta el 
@@ -221,7 +221,7 @@ caer el sol.
 > No hay día de la semana sin propuestas nocturnas y, en cuanto a gastronomía se refiere, 
 > la oferta es tan rica como tentadora. 
 
-![Salina Turda.](etheria_images/2019/07/4-Rumania-Salina-Turda.jpg "Salina Turda.")
+![Salina Turda.](etheria-images/2019/07/4-Rumania-Salina-Turda.jpg "Salina Turda.")
 
 ### Dos excursiones complementarias
 

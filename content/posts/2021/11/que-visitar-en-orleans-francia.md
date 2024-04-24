@@ -1,19 +1,19 @@
 ---
 title: "Descubre los secretos de Orleans, la ciudad que pudo reinar"
 date: 2021-11-09
-coverImage: etheria_images/2021/11/Fin-de-semana-Orleans-RueJeanne-dArc.jpg
+coverImage: etheria-images/2021/11/Fin-de-semana-Orleans-RueJeanne-dArc.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
   - viajes-urbanos
   - viajes-para-mujeres
-author: 
+authors: 
   - Pedro Grifol
 ---
 
 Las ciudades francesas son perfectas para un viaje de fin de semana o un puente y, si todavía no conoces Orleans, tienes que tenerla en cuenta para tu próxima escapada. En este artículo te contamos su fascinante historia, la importancia de la figura de Juana de Arco y qué ver y hacer en esta ciudad donde es imposible aburrirse.
 
-![Plaza Martroi.](etheria_images/2021/11/Fin-de-semana-Orleans-Plaza-Martroi.jpg "Plaza Martroi. © Pedro Grifol.")
+![Plaza Martroi.](etheria-images/2021/11/Fin-de-semana-Orleans-Plaza-Martroi.jpg "Plaza Martroi. © Pedro Grifol.")
 
 Podría haber sido la capital de Francia… ¡no le faltaron méritos! Sus amplios bulevares 
 (_cardo_ y _decumanus_) remiten al trazado de cuando fue un importante asentamiento 
@@ -40,7 +40,7 @@ Durante el Renacimiento tuvo su época dorada y fue elegida lugar de residencia 
 nobleza, etapa de la que da cuenta gran parte de la arquitectura renacentista que aún 
 persiste en sus barrios. 
 
-![Almuerzo bajo las casas entramadas del casco histórico.](etheria_images/2021/11/Fin-de-semana-Orleans-Casas-entramadas.jpg "Almuerzo bajo las casas entramadas del casco histórico. © P. Grifol.")
+![Almuerzo bajo las casas entramadas del casco histórico.](etheria-images/2021/11/Fin-de-semana-Orleans-Casas-entramadas.jpg "Almuerzo bajo las casas entramadas del casco histórico. © P. Grifol.")
 
 Seis siglos después, Orleans, corazón geográfico de Francia, es la capital de la 
 **Región Centro-Valle del Loira**, y punto de partida de la ruta de los famosos 
@@ -65,7 +65,7 @@ emprendió una concienzuda rehabilitación urbanística rescatando su herencia c
 clasificando y restaurando las casas medievales de los siglos XV y XVI, las cuales 
 fueron sacadas a la luz… y que hoy lucen ‘de foto’. 
 
-![Tren turístico en la Plaza Martroi.](etheria_images/2021/11/Fin-de-semana-Orleans-Plaza-Martroi-tren-turistico.jpg "Tren turístico en la Plaza Martroi. © P. Grifol")
+![Tren turístico en la Plaza Martroi.](etheria-images/2021/11/Fin-de-semana-Orleans-Plaza-Martroi-tren-turistico.jpg "Tren turístico en la Plaza Martroi. © P. Grifol")
 
 ## Qué ver el primer día
 
@@ -84,7 +84,7 @@ que muestran escenas de la historia de la ciudad. En cada una hay un código QR 
 acceder a la información pertinente del sitio (en francés e inglés). Un rincón que 
 destaca es la **Torre Belfroi**, del siglo XV, símbolo del poder de la ciudad. 
 
-![Vistas desde la catedral.](etheria_images/2021/11/fin-de-semana-Orleans-Catedral-vistas.jpg "Vistas desde la catedral. © P. Grifol.")
+![Vistas desde la catedral.](etheria-images/2021/11/fin-de-semana-Orleans-Catedral-vistas.jpg "Vistas desde la catedral. © P. Grifol.")
 
 ### Catedral de la Santa Cruz
 
@@ -98,7 +98,7 @@ vidrieras que ilustran la vida de Juana de Arco, realizadas en 1893, justo en la
 en la que se intentaba que el Vaticano la declarara santa, hecho que se oficializó en 
 1920, convirtiéndose así en la patrona de Francia. 
 
-![](etheria_images/2021/11/Fin-de-semana-Orleans-RueJeanne-dArc.jpg "La catedral desde la avenida Jeanne d'Arc. © P. Grifol")
+![](etheria-images/2021/11/Fin-de-semana-Orleans-RueJeanne-dArc.jpg "La catedral desde la avenida Jeanne d'Arc. © P. Grifol")
 
 La fachada de la catedral es la vista frontal que se tiene desde el fondo de la larga 
 avenida que recibe el nombre de Jeanne d’Arc, que se diseñó en tiempos borbónicos. Luce 
@@ -118,7 +118,7 @@ con forma de chimeneas unidas que merece la pena ver. Se trata de un espacio
 rabiosamente moderno utilizado como sala de exposiciones. Ha sido diseñado por el 
 estudio Jakob+MacFarlane. 
 
-![Centro FRAC-Turbulencias.](etheria_images/2021/11/Fin-de-semana-Orleans-FRAC.jpg "Centro FRAC-Turbulencias. © P. Grifol.")
+![Centro FRAC-Turbulencias.](etheria-images/2021/11/Fin-de-semana-Orleans-FRAC.jpg "Centro FRAC-Turbulencias. © P. Grifol.")
 
 ### Mercado Halles Châtelet
 
@@ -134,7 +134,7 @@ Pouret](http://www.martin-pouret.com) es la única vinagrería de la ciudad que 
 la tradición. Es un condimento que se vende con una variedad de sabores increíble. 
 Existen versiones aromatizadas con chalota, ajo, albahaca o limón. 
 
-![Mostazas Martin Pouret.](etheria_images/2021/11/Fin-de-semana-Orleans-Martin-Pouret.jpg "Mostazas Martin-Pouret. © P. Grifol.")
+![Mostazas Martin Pouret.](etheria-images/2021/11/Fin-de-semana-Orleans-Martin-Pouret.jpg "Mostazas Martin-Pouret. © P. Grifol.")
 
 Halles Châtelet es un sinfín de descubrimientos 'gastro': la mostaza (_moutarde 
 d’Orléans_), la miel local, el famoso _Pithiviers_ (un pastel hecho con pasta de 
@@ -147,7 +147,7 @@ Después de la nutritiva visita al mercado y, probablemente, con una bolsa llena
 productos culinarios especiales, solo nos queda deambular por las calles Santa Catherine 
 y Rue Borgogne, esta última conocida también como la calle de los restaurantes. 
 
-![Río Loira a su paso por Orléans.](etheria_images/2021/11/fin-de-semana-orleans-rio-Loira.jpg "El río Loira a su paso por Orléans. © P. Grifol.")
+![Río Loira a su paso por Orléans.](etheria-images/2021/11/fin-de-semana-orleans-rio-Loira.jpg "El río Loira a su paso por Orléans. © P. Grifol.")
 
 ### Los muelles del Loira
 
@@ -162,7 +162,7 @@ Bateau-Lavoir](http://www.bateaulavoir-orleans.fr) o tomar una copa en otros bar
 antiguos que están varados en los muelles. Será un merecido final de viaje después de un 
 par de días de caminata por la ciudad que pudo reinar. 
 
-![Casa y estatua de Juana de Arco.](etheria_images/2021/11/Fin-de-semana-Orleans-casa-Estatua-de-Juana-de-Arco.jpg "Casa y estatua de Juana de Arco. © P. Grifol.")
+![Casa y estatua de Juana de Arco.](etheria-images/2021/11/Fin-de-semana-Orleans-casa-Estatua-de-Juana-de-Arco.jpg "Casa y estatua de Juana de Arco. © P. Grifol.")
 
 ## Vida y milagros de Juana de Arco
 
@@ -190,7 +190,7 @@ descubrir la historia del Loira, su comercio fluvial y sus embarcaciones típica
 también su cultura y sus tradiciones culinarias a través de conciertos, paseos en barco 
 y fiestas al aire libre en los _guinguettes_. Apúntalo: en 2022 seguro que se celebra. 
 
-![Desayuno y salón del Hotel l'Abeille.](etheria_images/2021/11/Fin-semana-Orleans-Hotel-lAbeille.jpg "Desayuno y salón del Hotel l'Abeille. © P. Grifol.")
+![Desayuno y salón del Hotel l'Abeille.](etheria-images/2021/11/Fin-semana-Orleans-Hotel-lAbeille.jpg "Desayuno y salón del Hotel l'Abeille. © P. Grifol.")
 
 ### Guía Orleans | Etheria Magazine
 
@@ -218,7 +218,7 @@ años!
 que ahora llamamos gastronómico. Es el restaurante caro de la ciudad, pero también es la 
 experiencia culinaria. Sorprendentemente creativo. 
 
-![Salmón ahumado en Le Cabinet Vert.](etheria_images/2021/11/Fin-de-semana-Orleans-Le-Cabinet-Vert.jpg "Salmón ahumado en Le Cabinet Vert. © P. Grifol.")
+![Salmón ahumado en Le Cabinet Vert.](etheria-images/2021/11/Fin-de-semana-Orleans-Le-Cabinet-Vert.jpg "Salmón ahumado en Le Cabinet Vert. © P. Grifol.")
 
 Al borde del río, alejado del centro de la ciudad, está [Le Cabinet 
 Vert](http://www.le-cabinet-vert.com). Tranquilo, con terraza y con un menú de temporada 

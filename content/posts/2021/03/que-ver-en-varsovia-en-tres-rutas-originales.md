@@ -1,18 +1,18 @@
 ---
 title: "Tres rutas para recorrer Varsovia, una ciudad sorprendente"
 date: 2021-03-05
-coverImage: etheria_images/2021/03/varsovia-musica-clasica.jpg
+coverImage: etheria-images/2021/03/varsovia-musica-clasica.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
   - viajes-para-mujeres
-author: 
-  - manenamunar
+authors: 
+  - Manena Munar
 ---
 
 Si estás pensando en viajar a la capital polaca, toma nota de estas tres rutas con los principales lugares que tienes que ver en Varsovia. Esta ciudad no cesa de crecer ni de sorprender con atractivos añejos y vanguardistas que la presentan como un destino que hay que investigar a fondo. 
 
-![musica en Varsovia](etheria_images/2021/03/varsovia-musica-clasica.jpg "Varsovia y la música siempre van de la mano. © Manena Munar")
+![musica en Varsovia](etheria-images/2021/03/varsovia-musica-clasica.jpg "Varsovia y la música siempre van de la mano. © Manena Munar")
 
 Viajar a Varsovia, la capital polaca, se ha convertido en una cuenta pendiente para 
 aquellos viajeros que no se dejan influir por la imagen gris que subyace en el ideario 
@@ -34,7 +34,7 @@ quitándosela a Cracovia. Fue una de las más hermosas de Europa, el París del 
 nombrada así por la belleza de su arquitectura, sus parques y también por la cultura y 
 creatividad que siempre la han caracterizado. 
 
-![sirena fundadora de Varsovia](etheria_images/2021/03/sirena-varsovia.jpg "La Sirena de Varsovia defiende, a escudo y espada, la ciudad que fundó. © M. Munar")
+![sirena fundadora de Varsovia](etheria-images/2021/03/sirena-varsovia.jpg "La Sirena de Varsovia defiende, a escudo y espada, la ciudad que fundó. © M. Munar")
 
 ### El renacer de Varsovia
 
@@ -59,7 +59,7 @@ Varsovia. Sin obviar [Warsaw Hub](https://warsawhub.com/), un área multifuncion
 arquitectura futurista que engloba viviendas, espacios de ocio y arte en el centro de la 
 ciudad. 
 
-![Palacio de la Cultura y de la Ciencia de Varsovia](etheria_images/2021/03/palacio-cultura-varsovia.jpg "La omnipresencia del Palacio de la Cultura y de la Ciencia. © M.Munar")
+![Palacio de la Cultura y de la Ciencia de Varsovia](etheria-images/2021/03/palacio-cultura-varsovia.jpg "La omnipresencia del Palacio de la Cultura y de la Ciencia. © M.Munar")
 
 ## Ruta 1: Qué ver en Varsovia nada más llegar
 
@@ -92,7 +92,7 @@ En [Winosfera](https://winosfera.pl/en) se puede disfrutar de los mejores vinos 
 gastronomía avalada por Michelin a cargo del chef Bartek Brzuska, que defiende el 
 producto estacional cocinado con estilo y pasión. 
 
-![Cementerio Judio de Zydowski](etheria_images/2021/03/cementerio-judio-varsovia.jpg "El cementerio Judío de Zydowski data de 1806. © M. Munar")
+![Cementerio Judio de Zydowski](etheria-images/2021/03/cementerio-judio-varsovia.jpg "El cementerio Judío de Zydowski data de 1806. © M. Munar")
 
 ### Museo Judío
 
@@ -109,7 +109,7 @@ Vinculado con el gueto judío es imprescindible dar una vuelta por **Hala Mirows
 mercado lleno de color y vida que ofrece todo tipo de productos frescos y esas flores 
 con las que el polaco adorna igual la cotidianidad que los momentos especiales. 
 
-![arte urbano en Varsovia](etheria_images/2021/03/varsovia-arte-urbano.jpg "El arte urbano llena las calles de Varsovia pintando su historia pasada y presente. © M.Munar")
+![arte urbano en Varsovia](etheria-images/2021/03/varsovia-arte-urbano.jpg "El arte urbano llena las calles de Varsovia pintando su historia pasada y presente. © M.Munar")
 
 ### Street art en Varsovia
 
@@ -127,7 +127,7 @@ ejemplo de las tendencias actuales es el mural de Dawid Ryski y Maciek Polak, al
 la estación de metro Politechnika, cuyo pigmento fotocatalítico se activa con la luz y 
 descompone los contaminantes del aire reduciendo la polución. 
 
-![centro comercial terrazas doradas en Varsovia](etheria_images/2021/03/que-ver-en-varsovia-moderna.jpg "Centro Comercial de las Terrazas Doradas al lado del mítico Palacio de la Cultura y de la Ciencia. © M.Munar")
+![centro comercial terrazas doradas en Varsovia](etheria-images/2021/03/que-ver-en-varsovia-moderna.jpg "Centro Comercial de las Terrazas Doradas al lado del mítico Palacio de la Cultura y de la Ciencia. © M.Munar")
 
 ### Cultura y compras
 
@@ -149,7 +149,7 @@ y su estructura verdosa se camufla entre la vegetación mientras que su azotea o
 de las vistas más amables de la Ciudad Vieja y el río Vístula, y su interior acoge un 
 moderno templo del saber. 
 
-![palacio lazenki en Varsovia](etheria_images/2021/03/palacio-lazenki-varsovia.jpg "Palacio de Lazenki en el Parque Real homónimo, residencia de verano de los reyes de antaño. © M.Munar")
+![palacio lazenki en Varsovia](etheria-images/2021/03/palacio-lazenki-varsovia.jpg "Palacio de Lazenki en el Parque Real homónimo, residencia de verano de los reyes de antaño. © M.Munar")
 
 ## Ruta 2: un Paseo Real en Varsovia
 
@@ -166,7 +166,7 @@ de frontera con la Ciudad Vieja, pintoresca y animada con tiendas de artesanía 
 restaurantes por doquier, como el aristocrático [Bazyliszek](https://bazyliszek.waw.pl/), 
 de ambiente palaciego y cuidada gastronomía. 
 
-![castillo real y columna Segismundo en Varsovia](etheria_images/2021/03/castillo-real-columna-segismundo.jpg "Entrada a la Ciudad Vieja con el Castillo Real y la Columna de Segismundo III. © M. Munar")
+![castillo real y columna Segismundo en Varsovia](etheria-images/2021/03/castillo-real-columna-segismundo.jpg "Entrada a la Ciudad Vieja con el Castillo Real y la Columna de Segismundo III. © M. Munar")
 
 ### Calle de Nowy Swiat, compras entre historia
 
@@ -177,7 +177,7 @@ Karol Szymanowski. El paso de los años y de la historia la ha convertido en red
 compras, clubes de moda y restaurantes. Curiosamente, durante los fines de semana se 
 cierra al tráfico y las mesas con sus toldos alegran la calzada. 
 
-![calle de Nowy Swiat un lugar que ver en Varsovia](etheria_images/2021/03/calle-nowy-swiat-varsovia.jpg "La calle de Nowy Swiat está llena de animadas terrazas. © M. Munar")
+![calle de Nowy Swiat un lugar que ver en Varsovia](etheria-images/2021/03/calle-nowy-swiat-varsovia.jpg "La calle de Nowy Swiat está llena de animadas terrazas. © M. Munar")
 
 ### Restaurante Elixir Delikatesy y hotel Europejski
 
@@ -199,7 +199,7 @@ tradicionales empanadillas polacas _pierogis_, sin salir de la **calle Nowy Swia
 donuts)_, sigue hasta [Blikle](https://www.blikle.pl/), uno de los locales más antiguos 
 de la ciudad. 
 
-![hotel bristol en Varsovia](etheria_images/2021/03/hotel-bristol-varsovia.jpg "El hotel Bristol en la calle de Nowy Swiat (Nuevo Mundo) es un sello de distinción en Varsovia desde su apertura en 1901. © M.Munar")
+![hotel bristol en Varsovia](etheria-images/2021/03/hotel-bristol-varsovia.jpg "El hotel Bristol en la calle de Nowy Swiat (Nuevo Mundo) es un sello de distinción en Varsovia desde su apertura en 1901. © M.Munar")
 
 ### El corazón de Chopin
 
@@ -217,7 +217,7 @@ esta escultura, obra del escultor Waclaw Szymanoswski, llama la atención su man
 convertida en un árbol que difunde las notas del padre de la música polaca por el 
 estanque, el palacio y por el alma de todos aquellos que acuden a escucharle. 
 
-![escultura de chopin en Varsovia](etheria_images/2021/03/escultura-chopin-varsovia.jpg "En la estatua de Chopin su mano se convierte en árbol. © M. Munar")
+![escultura de chopin en Varsovia](etheria-images/2021/03/escultura-chopin-varsovia.jpg "En la estatua de Chopin su mano se convierte en árbol. © M. Munar")
 
 #### Certámenes y festivales
 
@@ -236,7 +236,7 @@ pasos agigantados en una zona de moda y hípster, donde los precios de la vivien
 más baratos que al otro lado del río, y los jóvenes se mudan a un barrio que lo tiene 
 todo. 
 
-![juventud en barrio de Praga en Varsovia](etheria_images/2021/03/varsovia-jovenes-barrio-praga.jpg "La juventud varsoviana se va a a vivir al barrio de Praga por sus precios asequibles y ambiente vanguardista. © M. Munar")
+![juventud en barrio de Praga en Varsovia](etheria-images/2021/03/varsovia-jovenes-barrio-praga.jpg "La juventud varsoviana se va a a vivir al barrio de Praga por sus precios asequibles y ambiente vanguardista. © M. Munar")
 
 ### Qué ver en el barrio de Praga de Varsovia
 
@@ -248,7 +248,7 @@ directores del zoológico, en tiempos de guerra, ayudaron a escapar de los nazis
 cientos de judíos que ocultaban en sus subterráneos. Pero también hay lugares 
 divertidos, y están entre los imprescindibles que hay que ver en Varsovia. 
 
-![detalles del museo del comunismo en Varsovia](etheria_images/2021/03/varsovia-museo-comunismo.jpg "Detalles entrañables del Museo del Comunismo en el barrio de Praga. © M.Munar")
+![detalles del museo del comunismo en Varsovia](etheria-images/2021/03/varsovia-museo-comunismo.jpg "Detalles entrañables del Museo del Comunismo en el barrio de Praga. © M.Munar")
 
 #### Museos, bares y cabarets en el barrio de Praga
 
@@ -262,7 +262,7 @@ Czarny Kot** (Gato Negro), los del restaurante Szanchaj o de la Sirenita de Vars
 iluminan el [Museo de Neones](http://sohodevelopment.pl/) sito en Soho Factory, centro 
 de galerías y boutiques _chic._ 
 
-![museo de los neones en Varsovia](etheria_images/2021/03/varsovia-museo-neones.jpg "El Museo de los Neones recoge los luminosos más característicos de la época comunista. © M. Munar")
+![museo de los neones en Varsovia](etheria-images/2021/03/varsovia-museo-neones.jpg "El Museo de los Neones recoge los luminosos más característicos de la época comunista. © M. Munar")
 
 #### Arte callejero y cultura en este barrio canalla
 
@@ -281,7 +281,7 @@ Y para terminar, nos vamos a la zona VIP del barrio de Praga, a **Saska Kempa**,
 se suceden los palacetes –muchos de ellos residencias de embajadores–, tascas seductoras 
 y restaurantes internacionales. 
 
-![cabaret gato negro de Varsovia](etheria_images/2021/03/varsovia-cabaret-gato-negro.jpg "El Gato Negro fue uno de los famosos cabaret de los tiempos comunistas donde entre stripteases y juegos de magia se comía caviar y salmón ahumado regados con vodka. © M.Munar")
+![cabaret gato negro de Varsovia](etheria-images/2021/03/varsovia-cabaret-gato-negro.jpg "El Gato Negro fue uno de los famosos cabaret de los tiempos comunistas donde entre stripteases y juegos de magia se comía caviar y salmón ahumado regados con vodka. © M.Munar")
 
 ### CONSEJOS ETHERIA
 
@@ -315,7 +315,7 @@ complemento de su [museo](https://nifc.pl/en/) anexo.
 
 [Oficina de Turismo de Polonia](https://www.polonia.travel/es) 
 
-![excursiones en zakopane](etheria_images/2021/01/zakopane-ruta.jpg "Ruta por las montañas de Zakopane. © Alex Blokstra")
+![excursiones en zakopane](etheria-images/2021/01/zakopane-ruta.jpg "Ruta por las montañas de Zakopane. © Alex Blokstra")
 
 ### También en Polonia...
 

@@ -1,11 +1,11 @@
 ---
 title: "10 Planes navideños en Madrid para mujeres (con o sin hijos)"
 date: 2019-12-19
-coverImage: etheria_images/2019/12/bola-navidad-gran-via-alcala.jpg
+coverImage: etheria-images/2019/12/bola-navidad-gran-via-alcala.jpg
 categories: 
   - viaje-en-familia
-author: 
-  - Redaccion Etheria
+authors: 
+  - Redacción Etheria
 ---
 
 ¿Estás un poco cansada de luces y zambombas? Pues aún te queda, y más vale tratar de 
@@ -13,7 +13,7 @@ pasarlo bien... Hemos elegido 10 planes navideños en Madrid para todas, para la
 vais por libre, para quienes buscáis planes en familia y, también, para las que nunca 
 tienen suficiente Navidad. 
 
-![madrid en navidad, planes para mujeres en madrid](etheria_images/2019/12/bola-navidad-gran-via-alcala-900x600.jpg "Madrid se ilumina en Navidad.")
+![madrid en navidad, planes para mujeres en madrid](etheria-images/2019/12/bola-navidad-gran-via-alcala-900x600.jpg "Madrid se ilumina en Navidad.")
 
 ## 1\. Las luces del Jardín Botánico.
 
@@ -23,7 +23,7 @@ Navidad, y con música en algunas zonas. No dejes el espíritu navideño en casa
 fotos como si no hubiese un mañana entre corazones y unicornios. El precio de la entrada 
 es de 9,90 € (4-14 años) y 12 € (desde 15 años) hay 5 pases diarios hasta el 6 de enero. 
 
-![jardin botanico, navidad en madrid](etheria_images/2019/12/luces-del-real-jardin-botanico-900x600.jpg "Luces del Real Jardín Botánico. © Christmas Garden")
+![jardin botanico, navidad en madrid](etheria-images/2019/12/luces-del-real-jardin-botanico-900x600.jpg "Luces del Real Jardín Botánico. © Christmas Garden")
 
 ## 2\. Naviluz.
 
@@ -34,7 +34,7 @@ divertidas. El recorrido dura 50 minutos, se hace a diversas horas y estará en 
 hasta el 6 de enero. Consulta los horarios y **compra las entradas** (4 €/ adultos, 
 niños 0-6 años (gratis) y entre 7 y 11 (2 €) **con antelación** en Naviluz. 
 
-![iluminacion navidad madrid, navibus](etheria_images/2019/12/iluminacion-navidad-gran-via-madrid-900x600.jpg "Iluminación de Gran Vía (Madrid).")
+![iluminacion navidad madrid, navibus](etheria-images/2019/12/iluminacion-navidad-gran-via-madrid-900x600.jpg "Iluminación de Gran Vía (Madrid).")
 
 ## 3\. Patinaje sobre hielo.
 
@@ -42,7 +42,7 @@ Estas navidades tendrás donde elegir si eres de las que les gusta deslizarse so
 hielo o si vas con niños –que siempre estarán encantados– porque hay varias **pistas de 
 hielo artificial** repartidas por Madrid. 
 
-![pista hielo del palacio de cibeles](etheria_images/2019/12/pista-hielo-centrocentro-palacio-cibeles-900x600.jpg "Pista de hielo del Palacio a Cibeles.")
+![pista hielo del palacio de cibeles](etheria-images/2019/12/pista-hielo-centrocentro-palacio-cibeles-900x600.jpg "Pista de hielo del Palacio a Cibeles.")
 
 Puedes elegir, entre otros, el bonito escenario del **Palacio de Cibeles** (6 €/ media 
 hora con alquiler de patines incluido) hasta el 5 de enero, la situada en la **plaza del 
@@ -53,7 +53,7 @@ patines incluidos. También dispone de bonos, como el de 10 pases que te sale po
 Consulta toda la programación de Matadero porque cuenta con decenas de actividades, 
 conciertos y espectáculos. 
 
-![pista de hielo matadero madrid](etheria_images/2019/12/pista-hielo-matadero-900x600.jpg "Pista de hielo de Matadero Madrid.")
+![pista de hielo matadero madrid](etheria-images/2019/12/pista-hielo-matadero-900x600.jpg "Pista de hielo de Matadero Madrid.")
 
 ## 4\. Mercadillos navideños en Madrid.
 
@@ -68,7 +68,7 @@ Otro que también merece la pena es el **Mercadillo de Artesanía del Paseo de R
 regalos muy especiales hechos a mano y de forma tradicional (joyería, juguetes, 
 marroquinería, etc.). Nos pueden salvar algún compromiso de Reyes. 
 
-![mercadillo navidad plaza mayor madrid](etheria_images/2019/12/Mercadillo-Plaza-Mayor-navidad-900x600.jpg "Mercadillo navideño de la Plaza Mayor de Madrid.")
+![mercadillo navidad plaza mayor madrid](etheria-images/2019/12/Mercadillo-Plaza-Mayor-navidad-900x600.jpg "Mercadillo navideño de la Plaza Mayor de Madrid.")
 
 ## 5\. Belén de la Casa de Cisneros.
 
@@ -84,7 +84,7 @@ tenéis que perder el **Belén del Palacio de Cibeles** o el del **Museo de Hist
 todos modos, hay decenas de belenes repartidos por todos los distritos. Faltaría Navidad 
 para verlos todos. 
 
-![belen del palacio de cibeles de madrid](etheria_images/2019/12/belen-cibeles-madrid-900x600.jpg "Belén del Palacio de Cibeles.")
+![belen del palacio de cibeles de madrid](etheria-images/2019/12/belen-cibeles-madrid-900x600.jpg "Belén del Palacio de Cibeles.")
 
 ## 6\. Música por doquier, que no falte la alegría.
 
@@ -98,7 +98,7 @@ Las iglesias volverán a cobrar vida en estas fechas para acoger a grandes artis
 Habichuela e Israel Fernández** (4 de enero en la Parroquia Nuestra Señora de 
 Guadalupe). 
 
-![gospel factory, navidad madrid](etheria_images/2019/12/madrid-navidad-Gospel-Factory-900x601.jpg "Gospel Factory actuará en la Plaza de Oriente.")
+![gospel factory, navidad madrid](etheria-images/2019/12/madrid-navidad-Gospel-Factory-900x601.jpg "Gospel Factory actuará en la Plaza de Oriente.")
 
 ## 7\. Musicales gratis en la Puerta del Sol.
 
@@ -109,7 +109,7 @@ Médico**_. Y el 4 de enero: _**33 El Musical**_, _**La jaula de las locas**_ y
 **_Ghost_**. Todos aquellos que te llamen la atención los podrás disfrutar en cualquier 
 otro momento en su teatro correspondiente. 
 
-![musical el rey leon gratis, ver musicales gratis madrid](etheria_images/2019/12/musical-gratis-El-Rey-Leon-900x600.jpg "Disfruta del musical El Rey León en la Puerta del Sol.")
+![musical el rey leon gratis, ver musicales gratis madrid](etheria-images/2019/12/musical-gratis-El-Rey-Leon-900x600.jpg "Disfruta del musical El Rey León en la Puerta del Sol.")
 
 ## 8\. Teatro Flamenco de Madrid.
 
@@ -124,7 +124,7 @@ En el Teatro Flamenco también han pensado en los niños, para quienes han organ
 serie de personajes que viven en **Quillolandia** (27 y 28 de diciembre a las 12:30 
 horas). 
 
-![teatro flamenco madrid, zambomba de jerez en madrid](etheria_images/2019/12/Zambomba-de-Jerez-en-teatro-flamenco-900x601.jpg "Zambomba de Jerez en el © Teatro Flamenco de Madrid.")
+![teatro flamenco madrid, zambomba de jerez en madrid](etheria-images/2019/12/Zambomba-de-Jerez-en-teatro-flamenco-900x601.jpg "Zambomba de Jerez en el © Teatro Flamenco de Madrid.")
 
 ## 9\. El Mago de Oz en Conde Duque.
 
