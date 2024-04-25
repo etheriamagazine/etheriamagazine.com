@@ -16,3 +16,10 @@ hugo.linux
 
 # npm 
 node_modules
+
+# cloudflare secrets
+.dev.vars
+.wrangler
+
+# frontmatter extension?
+.frontmatter

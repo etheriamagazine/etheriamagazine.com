@@ -62,3 +62,7 @@ summaryLength = 20
       "publi/2024-biofest",
       "publi/2022-getxo"
     ]
+
+  [params.hugoEtheria]
+    [params.hugoEtheria.subscribeForm]
+      action = "/backend_app/subscribe"
