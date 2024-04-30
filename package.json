@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "@mailchimp/mailchimp_marketing": "^3.0.80",
-    "wrangler": "^3.52.0"
+    "valibot": "^0.30.0",
+    "wrangler": "^3.52.0",
+    "zod": "^3.23.4"
   },
   "scripts": {
     "dev": "HUGO_MODULE_WORKSPACE=hugo.work hugo server --cleanDestinationDir --ignoreCache",
