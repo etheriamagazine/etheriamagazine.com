@@ -18,13 +18,15 @@ export async function onRequestPost({ request, env }) {
 
     const list_id = envVar("ETHERIA_MAILCHIMP_DEFAULT_LIST_ID");
 
-    const { email_address, status, unique_email_id } =
+    const result =
       await api.lists.setListMember(list_id, {
         email_address: input.email_address,
+        status: "subscribed",
         status_if_new: "subscribed",
       });
 
-    const { subscribe_url_long } = await api.lists.getList(list_id);
+    const { email_address, status, unique_email_id } = result;
+    const { name: list_name, subscribe_url_long } = await api.lists.getList(list_id);
 
     function getUnsubscribeUrl() {
       return (
@@ -36,6 +38,8 @@ export async function onRequestPost({ request, env }) {
     return success({
       email_address,
       status,
+      list_id,
+      list_name,
       unsubscribe_url: getUnsubscribeUrl(),
     });
   } catch (err) {

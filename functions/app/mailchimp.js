@@ -29,18 +29,18 @@ const create = ({ dc, api_key }) => {
         body: hasBody() ? JSON.stringify(data) : null,
       });
       if (!response.ok) {
-        throw new ResponseError("Received an error response from Mailchimp", response);
+        throw new ResponseError(
+          "Received an error response from Mailchimp",
+          response
+        );
       }
       return await response.json();
     } catch (err) {
-      if (err instanceof TypeError) {
+        console.log(err);
         throw new NetworkError(
-          `Could not establish a network connection to Mailchimp on endpoint '${baseUrl}'. Please check configuration or network`,
+          `Could not establish a network connection to Mailchimp on endpoint '${baseUrl}'. Please check configuration or network.`,
           { cause: err }
         );
-      } else {
-        throw err;
-      }
     }
   }
 
@@ -95,6 +95,4 @@ async function md5(string) {
   return hashHex;
 }
 
-export {
-  create as createMailchimpClient,
-};
+export { create as createMailchimpClient };

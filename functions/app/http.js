@@ -1,16 +1,16 @@
 import { ValidationError } from "./errors";
-
+ 
 export async function errorResponse(err, { status = 500 } = {}) {
   const { name, message, cause, issues, response } = err;
-  console.log(err);
-
+   
+ 
   const body = {
     type: "https://github.com/etheriamagazine/etheriamagazine.com/blob/main/README.md",
     title: name,
     status: status,
-    detail: message + (cause ? `: ${cause.message}` : ""),
-    issues: issues || (cause ? [cause.message] : undefined),
-    response: response ? await response.json() : null,
+    detail: message + (cause ? ` ⮡${cause.toString()}` : ""),
+    issues: issues || undefined,
+    response: response ? await response.json() : undefined,
   };
   const blob = new Blob([JSON.stringify(body, null, 2)], {
     type: "application/json",
@@ -18,7 +18,7 @@ export async function errorResponse(err, { status = 500 } = {}) {
   return new Response(blob, { status: status });
 }
 
-export async function success(data, {status = 201} = {}) {
+export async function success(data, {status = 200} = {}) {
     const blob = new Blob([JSON.stringify(data, null, 2)], {
       type: "application/json",
     });

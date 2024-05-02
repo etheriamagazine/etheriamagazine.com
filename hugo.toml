@@ -65,4 +65,16 @@ summaryLength = 20
 
   [params.hugoEtheria]
     [params.hugoEtheria.subscribeForm]
-      action = "/backend_app/subscribe"
+      action = "/app/newsletter/subscribe"
+  
+
+  [params.subscribe]
+    action = "/app/newsletter/subscribe"
+    [[params.subscribe.lists]]
+      id = "3yExM8x4"
+      label = "Newsletter"
+
+
+    [[params.subscribe.lists]]
+      id = "3yExM8x4"
+      label = "Marketing"      

@@ -2,12 +2,12 @@
   "dependencies": {
     "@mailchimp/mailchimp_marketing": "^3.0.80",
     "valibot": "^0.30.0",
-    "wrangler": "^3.52.0",
+    "wrangler": "^3.53.0",
     "zod": "^3.23.4"
   },
   "scripts": {
     "dev": "HUGO_MODULE_WORKSPACE=hugo.work hugo server --cleanDestinationDir --ignoreCache",
-    "preview": "concurrently \"npm run dev\" \"wrangler pages dev --live-reload\""
+    "preview": "concurrently \"npm run dev\" \"wrangler pages dev --live-reload true\""
   },
   "devDependencies": {
     "concurrently": "^8.2.2"
