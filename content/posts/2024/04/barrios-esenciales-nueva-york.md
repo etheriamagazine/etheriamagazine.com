@@ -1,5 +1,5 @@
 ---
-title: "Barrios de Nueva York: del góspel de Harlem al arte urbano del Bronx y a los lugares de moda de Brooklyn"
+title: "Barrios de Nueva York 22222: del góspel de Harlem al arte urbano del Bronx y a los lugares de moda de Brooklyn"
 date: 2024-04-08
 coverImage: etheria-images/2024/04/nueva-york-harlem-casas.jpg
 categories: 
