@@ -1,7 +1,7 @@
 ---
 title: "10 ventajas de viajar sola que te interesa conocer"
 date: 2019-01-29
-coverImage: etheria-images/2019/01/viajar-sola-europa.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/01/viajar-sola-europa.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -14,7 +14,7 @@ porque no se dan las circunstancias para hacerlo acompañadas. Sea como fuere, v
 sola tiene muchas ventajas y os lo vamos a demostrar para que os lancéis sin darle 
 tantas vueltas. 
 
-![mujer hace fotografia junto al mar](etheria-images/2019/01/viajar-sola-playa-1024x651.jpg "Si eres amante de la fotografía, llevas la mejor compañera entre las manos.")
+![mujer hace fotografia junto al mar](https://fotos.etheriamagazine.com/2019/01/viajar-sola-playa-1024x651.jpg "Si eres amante de la fotografía, llevas la mejor compañera entre las manos.")
 
 ## 1\. Tú eliges el lugar de vacaciones
 
@@ -36,7 +36,7 @@ el mundo tras su jubilación.?[Viajar sola por el mundo tras la jubilación, el 
 de vida de Sania 
 Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/). 
 
-![parapente en el Aconcagua](etheria-images/2023/02/sania-vuelo-mendoza.jpg "Sania con su compañera preparadas para el vuelo. Carretera de ascenso al Cristo Redentor de los Andes. © SJ")
+![parapente en el Aconcagua](https://fotos.etheriamagazine.com/2023/02/sania-vuelo-mendoza.jpg "Sania con su compañera preparadas para el vuelo. Carretera de ascenso al Cristo Redentor de los Andes. © SJ")
 
 ## 3\. Haces amigos
 
@@ -58,7 +58,7 @@ pero no nos permite resolver problemas, inventar soluciones sobre la marcha y ac
 ese lado creativo del cerebro para salir triunfante. ¡Qué sería de un viaje sin 
 anécdotas! 
 
-![organiza el viaje a tu ritmo si viajas sola](etheria-images/2019/01/etheria-magazine-1024x682.jpg "Organiza el viaje a tu ritmo.")
+![organiza el viaje a tu ritmo si viajas sola](https://fotos.etheriamagazine.com/2019/01/etheria-magazine-1024x682.jpg "Organiza el viaje a tu ritmo.")
 
 ## 5\. Desconectas de los problemas y te cuidas más
 
@@ -78,7 +78,7 @@ dificultades mayores, una buena opción. Y, también, puedes aprovechar para hac
 curso, otra forma de **hacer amigos en ese destino cuando viajas sola**. ¿Por qué no 
 pruebas con el italiano o el portugués? 
 
-![ventajas de viajar sola admirar los paisajes en silencio](etheria-images/2019/01/viajar-sola-etheria-1024x682.jpg "Descubre el placer del silencio.")
+![ventajas de viajar sola admirar los paisajes en silencio](https://fotos.etheriamagazine.com/2019/01/viajar-sola-etheria-1024x682.jpg "Descubre el placer del silencio.")
 
 ## 7\. Superas el miedo
 
@@ -90,7 +90,7 @@ Leheckova](http://etheriamagazine.com/2018/12/03/marketa-leheckova-de-czechtouri
 "hay que viajar sola al menos una vez en la vida". Una vez que se supera ese temor la 
 primera vez, todo es más sencillo. 
 
-![alicia sornosa viajera etheria viajes moto](etheria-images/2018/09/alicia-sornosa-etiopia-Hawasa-1024x768.jpg "Alicia Sornosa en su viaje en solitario a Etiopía en moto.")
+![alicia sornosa viajera etheria viajes moto](https://fotos.etheriamagazine.com/2018/09/alicia-sornosa-etiopia-Hawasa-1024x768.jpg "Alicia Sornosa en su viaje en solitario a Etiopía en moto.")
 
 ## 8\. Es más barato
 
@@ -102,7 +102,7 @@ Hostel
 Porto](http://etheriamagazine.com/2018/10/18/bluesock-hostel-porto-un-albergue-para-todos-los-publicos/)? 
 Está en Oporto y es magnífico. 
 
-![albergue en oporto ventajas de viajar sola](etheria-images/2018/10/Blue-sock-hostel-oporto-literas.jpg "En Bluesock puedes decir compartir habitación o no hacerlo.")
+![albergue en oporto ventajas de viajar sola](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-literas.jpg "En Bluesock puedes decir compartir habitación o no hacerlo.")
 
 ## 9\. Viajar sola pero en grupo
 
@@ -124,7 +124,7 @@ películas rodadas allí y, también, en nuestra **sección Viajo Sola,** donde 
 diversos viajes que nuestro equipo ha realizado y te recomienda con conocimiento de 
 causa. 
 
-![Aprovecha los descansos para anotar en tu cuaderno viajero cada detalle del destino](etheria-images/2019/01/viajar-sola-organizar-1024x682.jpg "Aprovecha los descansos para anotar en tu cuaderno viajero cada detalle del destino.")
+![Aprovecha los descansos para anotar en tu cuaderno viajero cada detalle del destino](https://fotos.etheriamagazine.com/2019/01/viajar-sola-organizar-1024x682.jpg "Aprovecha los descansos para anotar en tu cuaderno viajero cada detalle del destino.")
 
 ✅ **Algunas ideas para viajar sola...** 
 

@@ -1,7 +1,7 @@
 ---
 title: "Un viaje a Londres en diez películas inolvidables"
 date: 2020-12-11
-coverImage: etheria-images/2020/12/Una-pasteleria-en-Notting-Hill-londres.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/Una-pasteleria-en-Notting-Hill-londres.jpg
 categories: 
   - viajes-cine
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Aprovechando el estreno de 'Una pastelería en Notting Hill', te proponemos una escapada a Londres a través de 10 filmes ambientados en la capital inglesa. Prepara el té y las pastas porque las películas en esta ocasión las ponemos nosotras.
 
-![fotograma de una pasteleria en notting hill](etheria-images/2020/12/Una-pasteleria-en-Notting-Hill-londres.jpg "'Una pastelería en Notting Hill'.")
+![fotograma de una pasteleria en notting hill](https://fotos.etheriamagazine.com/2020/12/Una-pasteleria-en-Notting-Hill-londres.jpg "'Una pastelería en Notting Hill'.")
 
 Nos encanta [Londres](https://etheriamagazine.com/2020/01/09/planes-romanticos-hotel-para-parejas-londres/), 
 y aunque en estos tiempos no podamos ir tanto como quisiéramos, gracias al cine podemos 
@@ -32,7 +32,7 @@ multicultural). La pastelería se ubica en el número **82 de Golborne Road**. E
 primeros minutos de la cinta podemos disfrutar de unas maravillosas vistas del 
 **Victoria Embankment** y del **Golden Jubilee Bridge**. 
 
-![pasteleria en notting hill filme rodado en londres](etheria-images/2020/12/Una-pasteleria-en-Notting-Hill-cartel-717x1024.jpg "Cartel de 'Una pastelería en Notting Hill'.")
+![pasteleria en notting hill filme rodado en londres](https://fotos.etheriamagazine.com/2020/12/Una-pasteleria-en-Notting-Hill-cartel-717x1024.jpg "Cartel de 'Una pastelería en Notting Hill'.")
 
 ## 2\. Love Actually
 
@@ -55,7 +55,7 @@ Peter y es donde Mark (Andrew Lincoln, ahora famoso por ser uno de los protagoni
 la serie _The Walking Dead_) le declara su amor a Juliet, con los villancicos sonando de 
 fondo y las tarjetas rotuladas con aquel “_para mí, tú eres perfecta_”. 
 
-![love actually rodado en londres](etheria-images/2020/12/Love-Actually-londres.jpg "'Love Actually', un clásico rodado en Londres.")
+![love actually rodado en londres](https://fotos.etheriamagazine.com/2020/12/Love-Actually-londres.jpg "'Love Actually', un clásico rodado en Londres.")
 
 ## 3\. El regreso de Mary Poppins
 
@@ -75,7 +75,7 @@ saga sobre la mágica _nanny_. Se encuentra en el número 50 de Smith Street, en
 de **Chelsea**, ahí la recuerda una placa azul del [English 
 Heritage](https://www.english-heritage.org.uk/). 
 
-![el regreso de Mary Poppins](etheria-images/2020/12/Mary-Poppins-londres.jpg "'El regreso de Mary Poppins', una película llena de fantasía.")
+![el regreso de Mary Poppins](https://fotos.etheriamagazine.com/2020/12/Mary-Poppins-londres.jpg "'El regreso de Mary Poppins', una película llena de fantasía.")
 
 ## 4\. Notting Hill
 
@@ -98,7 +98,7 @@ ciencia-ficción protagonizada por Anna se encuentra en el número 103 de Nottin
 Gate. La casa de Bella y Max está en el 91 de Lansdowne Road. Otro escenario que aparece 
 en la historia es el **hotel Ritz** (105 de Piccadilly). 
 
-![notting hill película londres](etheria-images/2020/12/Notthing-hill-londres.jpg "Película 'Notting Hill' rodada en Londres.")
+![notting hill película londres](https://fotos.etheriamagazine.com/2020/12/Notthing-hill-londres.jpg "Película 'Notting Hill' rodada en Londres.")
 
 ## 5\. El diario de Bridget Jones
 
@@ -119,7 +119,7 @@ de Bridget le daban consejos. La saga se completó con dos entrega más: 'Bridge
 Sobreviviré', que trasladaba al personaje a Tailandia, y 'Bridget Jone’s Baby' que de 
 nuevo volvía a recorrer los escenarios de la primera película. 
 
-![el diario de bridget jones en londres](etheria-images/2020/12/El-diario-de-Bridget-Jones-londres.jpg "Cartel y fotogramas de 'El diario de Bridget Jones'.")
+![el diario de bridget jones en londres](https://fotos.etheriamagazine.com/2020/12/El-diario-de-Bridget-Jones-londres.jpg "Cartel y fotogramas de 'El diario de Bridget Jones'.")
 
 ## 6\. El discurso del rey
 
@@ -131,7 +131,7 @@ más famosos de la ciudad como la **Abadía de Westminster** y el **Palacio de
 Buckingham**. También aparece la calle Harley, en el distrito de Westminster, donde se 
 encuentra el consultorio de Logue, el logopeda que ayudó al rey a mejorar su dicción. 
 
-![películas rodadas en londres el discurso del rey](etheria-images/2020/12/el-discurso-del-rey-londres.jpg "'El discurso del rey'.")
+![películas rodadas en londres el discurso del rey](https://fotos.etheriamagazine.com/2020/12/el-discurso-del-rey-londres.jpg "'El discurso del rey'.")
 
 ## 7\. The Queen
 
@@ -141,7 +141,7 @@ recorrido por los lugares londinenses que la mayoría asociamos a la familia rea
 británica y a otros mandatarios políticos como son el palacio de Buckingham, el número 
 10 de Downing Street y la City. 
 
-![the queen rodado en londres](etheria-images/2020/12/The-queen-fotogramas.jpg "Fotogramas del filme 'The Queen'.")
+![the queen rodado en londres](https://fotos.etheriamagazine.com/2020/12/The-queen-fotogramas.jpg "Fotogramas del filme 'The Queen'.")
 
 ## 8\. Harry Potter y la piedra filosofal
 
@@ -165,7 +165,7 @@ Potter](https://www.wbstudiotour.co.uk/es/). Ahí se pueden visitar lugares de r
 como el Gran Comedor creado para el rodaje de _Harry Potter y la Piedra Filosofal_ o el 
 despacho de Dumbledore. 
 
-![Harry Potter en londres](etheria-images/2020/12/harry-potter-londres-studio.jpg "En Londres se pueden hacer rutas temáticas de Harry Potter. © Warnes Bros Studios")
+![Harry Potter en londres](https://fotos.etheriamagazine.com/2020/12/harry-potter-londres-studio.jpg "En Londres se pueden hacer rutas temáticas de Harry Potter. © Warnes Bros Studios")
 
 ## 9\. Match Point
 
@@ -178,7 +178,7 @@ Como la película narra un dramático triángulo amoroso en una familia adinerad
 aparecen lugares selectos de South Kensington y Chelsea como el club social **The 
 Queen’s Club** y el edificio Gherkin de Norman Foster. 
 
-![películas match Point rodada en londres](etheria-images/2020/12/Match-Point-fotograma.jpg "Fotograma de 'Match Point'.")
+![películas match Point rodada en londres](https://fotos.etheriamagazine.com/2020/12/Match-Point-fotograma.jpg "Fotograma de 'Match Point'.")
 
 ## 10\. Sherlock Holmes  
 
@@ -190,7 +190,7 @@ podemos ver desde la Catedral de St. Paul hasta el Palacio de Westminster, pasan
 los alrededores del **Royal Naval Collegue**, el Middle Temple Lane, el Reform Club y el 
 cementerio de **Brompton**. 
 
-![Sherlock Holmes](etheria-images/2020/12/Sherlock-Holmes-Warner-Bros-londres.jpg "'Sherlock Holmes'. © Warner Bros")
+![Sherlock Holmes](https://fotos.etheriamagazine.com/2020/12/Sherlock-Holmes-Warner-Bros-londres.jpg "'Sherlock Holmes'. © Warner Bros")
 
 Hay tours organizados para visitar Londres siguiendo los pasos del detective que parten 
 de la estación de **metro de Baker Street**, donde se encuentra la famosa estatua de 

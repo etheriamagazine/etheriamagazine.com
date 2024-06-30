@@ -1,7 +1,7 @@
 ---
 title: "Wave-Gotik-Treffen, el Festival Gótico de Leipzig es el más importante del mundo"
 date: 2019-05-30
-coverImage: etheria-images/2019/04/leipzig-festival-concierto.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/leipzig-festival-concierto.jpg
 categories: 
   - festivales
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ al 29 de mayo de 2023. Durante cuatro días, más de 25.000 personas vestidas de
 carruajes mortuorios, calaveras, cadenas y mucha absenta llenarán las calles de esta 
 ciudad alemana en la 30ª edición del Wave-Gotik-Treffen. 
 
-![Indumentaria gótica en el Festival de Leipzig.](etheria-images/2019/04/leipzig-viaje-festival.jpg "Indumentaria gótica en el Festival de Leipzig.")
+![Indumentaria gótica en el Festival de Leipzig.](https://fotos.etheriamagazine.com/2019/04/leipzig-viaje-festival.jpg "Indumentaria gótica en el Festival de Leipzig.")
 
 Antes de comenzar a desvelaros todos los pormenores del **Festival Gótico de Leipzig,** 
 quiero compartir con vosotras la impresión que tuve cuando, al llegar en tren a Leipzig 
@@ -44,7 +44,7 @@ capacidad para 10.000 personas. Allí se han dado cita, en diversas ediciones, g
 como Suicide Commando, S.P.O.C.K., Elegant Machinery, Leæther Strip, Gene Loves Jezebel 
 o Faith & the Muse. 
 
-![La ciudad de Leipzig se transforma durante unos días](etheria-images/2019/04/festival-gotico-leipzig.jpg "La ciudad se transforma durante unos días.")
+![La ciudad de Leipzig se transforma durante unos días](https://fotos.etheriamagazine.com/2019/04/festival-gotico-leipzig.jpg "La ciudad se transforma durante unos días.")
 
 ## Las apariencias engañan en el Festival Gótico de Leipzig
 
@@ -59,7 +59,7 @@ La literatura de terror de finales del siglo XVIII fue la que dio origen al tér
 subcultura. Un ejemplo más actual serían las novelas de Anne Rice o algunos filmes de 
 Tim Burton. 
 
-![La indumentaria forma parte del festival.](etheria-images/2019/04/festival-leipzig-gotico.jpg "La indumentaria forma parte del festival.")
+![La indumentaria forma parte del festival.](https://fotos.etheriamagazine.com/2019/04/festival-leipzig-gotico.jpg "La indumentaria forma parte del festival.")
 
 Cuando el movimiento ‘Punk’, de hace ya cuarenta años, expiró en Europa, el gótico 
 surgió para gritar al mundo su queja por la guerra, el hambre y demás horrores que 
@@ -79,7 +79,7 @@ y simpatía. Por la mañana en el hotel, la escena se repitió, volví a desayun
 góticos de todo tipo, más que nada extranjeros, ya que los alemanes suelen organizar 
 campamentos con tiendas, o se alojan en los camping o en casas de amigos. 
 
-![Toda banda gótica que se precie ha tocado alguna vez en la Treffen, el Festival gótico de Leipzig](etheria-images/2019/04/leipzig-festival-concierto.jpg "Toda banda gótica que se precie ha tocado alguna vez en la Treffen.")
+![Toda banda gótica que se precie ha tocado alguna vez en la Treffen, el Festival gótico de Leipzig](https://fotos.etheriamagazine.com/2019/04/leipzig-festival-concierto.jpg "Toda banda gótica que se precie ha tocado alguna vez en la Treffen.")
 
 ## Cómo disfrutar del festival
 
@@ -99,7 +99,7 @@ anís con una alta graduación alcohólica.
 > Escondidos tras el curioso despliegue de fantasía, emerge gente simpática y divertida 
 > que no deja de acudir a la reunión anual Wave Gotik desde hace veinte años. 
 
-![El Wave-Gotik-Treffen es el Festival Gótico de Leipzig.](etheria-images/2019/04/Leipzig-Festival-gotico.jpg "El Wave-Gotik-Treffen se celebra en Leipzig.")
+![El Wave-Gotik-Treffen es el Festival Gótico de Leipzig.](https://fotos.etheriamagazine.com/2019/04/Leipzig-Festival-gotico.jpg "El Wave-Gotik-Treffen se celebra en Leipzig.")
 
 ## Ruta de las Partituras
 
@@ -116,7 +116,7 @@ bordean la iglesia de San Nicolás. De este modo se rememora la Revolución Pac�
 empezó con las oraciones de cada lunes en la iglesia y terminó el 9 de octubre de 1989 
 con una manifestación masiva que supuso el comienzo del cambio en la RDA. 
 
-![Placas con nombres hebreos  y señalización Ruta de las Partituras .](etheria-images/2019/04/leipzig-guia-viaje.jpg "Placas con nombres hebreos (Izq.) y señalización Ruta de las Partituras .")
+![Placas con nombres hebreos  y señalización Ruta de las Partituras .](https://fotos.etheriamagazine.com/2019/04/leipzig-guia-viaje.jpg "Placas con nombres hebreos (Izq.) y señalización Ruta de las Partituras .")
 
 No levantes aún la vista porque en la calzada hay más motivos de interés, como unas 
 botas negras con aderezos metálicos calzadas por una bella mujer. Esta dama, vestida de 
@@ -132,7 +132,7 @@ su _Sinfonía de la Primavera_, y en 1843 fundó con **Mendelsohn** el primer
 conservatorio alemán. Franz Liszt, Gustav Mahler y Edvard Grieg, entre otros, también 
 compusieron, tocaron y dirigieron en esta privilegiada urbe. 
 
-![Nueva Gewandhaus.](etheria-images/2019/04/leipzig-festival-Gewandhaus.jpg "Nueva Gewandhaus.")
+![Nueva Gewandhaus.](https://fotos.etheriamagazine.com/2019/04/leipzig-festival-Gewandhaus.jpg "Nueva Gewandhaus.")
 
 Pero no solo flotan por sus calles notas musicales, las letras también merecen un 
 capítulo aparte. En Leipzig, **Goethe** estudió Derecho; **Schiller**, su gran amigo, 

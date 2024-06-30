@@ -1,7 +1,7 @@
 ---
 title: "La Mancha toledana: excursión a Madridejos para conocer el mundo del azafrán"
 date: 2021-09-29
-coverImage: etheria-images/2021/09/seleccion-pistilos.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/09/seleccion-pistilos.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -17,7 +17,7 @@ el fascinante mundo del azafrán y participar en ‘la monda’ (recogida) del m
 un silo (vivienda excavada) y hacer de molinero por un día. ¿Nos acompañas a la 
 provincia de Toledo? 
 
-![pistilos flor azafran](etheria-images/2021/09/seleccion-pistilos.jpg "Selección de pistilos en la flor del azafrán. © Pedro Grifol")
+![pistilos flor azafran](https://fotos.etheriamagazine.com/2021/09/seleccion-pistilos.jpg "Selección de pistilos en la flor del azafrán. © Pedro Grifol")
 
 Para comenzar, ubiquémonos: Madridejos se encuentra a 120 kilómetros de Madrid, al 
 sureste de la provincia de Toledo, y en el centro de la comunidad autónoma de 
@@ -40,7 +40,7 @@ excavaciones arqueológicas de Akrotiri, en Santorini, muestra otra escena simil
 la particularidad de que en esta segunda escena puede verse el momento de la extracción 
 de los estigmas de la flor. 
 
-![flor pistilos de azafran en madridejos](etheria-images/2021/09/flor-azafran-hilos.jpg "Flor y pistilos del azafrán. © P. Grifol")
+![flor pistilos de azafran en madridejos](https://fotos.etheriamagazine.com/2021/09/flor-azafran-hilos.jpg "Flor y pistilos del azafrán. © P. Grifol")
 
 En su origen el azafrán procedía de las mesetas de Anatolia, allá por entre el centro y 
 el oeste del continente asiático, desde donde se extendió por el resto del mundo 
@@ -62,7 +62,7 @@ el siglo X su producción se extendió por los territorios de Al-Ándalus, donde
 monopolizado por la burguesía andalusí, bajo el dominio de la cual se encontraba la 
 región manchega de la época. 
 
-![monda azafran en madridejos](etheria-images/2021/09/mujeres-monda-azafran.jpg "La monda del azafrán, una tarea tradicionalmente femenina. © P. Grifol")
+![monda azafran en madridejos](https://fotos.etheriamagazine.com/2021/09/mujeres-monda-azafran.jpg "La monda del azafrán, una tarea tradicionalmente femenina. © P. Grifol")
 
 ## ‘La monda’ del azafrán
 
@@ -82,14 +82,14 @@ Azafrán, una actividad gastro-lúdica a la que podremos asistir para observar c
 mima a esta preciada especia. En el **Museo del Azafrán** nos instruirán sobre el 
 proceso de cultivo, recogida, tueste, partición y venta del llamado ‘oro rojo’. 
 
-![](etheria-images/2021/09/coctel-dulcinea-licor-azafran.jpg "Licor de azafrán y cóctel Dulcinea. © P. Grifol")
+![](https://fotos.etheriamagazine.com/2021/09/coctel-dulcinea-licor-azafran.jpg "Licor de azafrán y cóctel Dulcinea. © P. Grifol")
 
 De entre los productos derivados del azafrán cabe destacar el Licor de Azafrán, con el 
 que el autor de este reportaje ha creado un cóctel que ha titulado Dulcinea, y que 
 podemos ver en su canal de YouTube: **Grifol’s Bar.** Haz clic sobre la siguiente 
 imagen. 
 
-[![coctel dulcinea de licor de azafran](etheria-images/2021/09/portada-video-dulcinea.jpg)](https://youtu.be/xn1XD-NP1v4)
+[![coctel dulcinea de licor de azafran](https://fotos.etheriamagazine.com/2021/09/portada-video-dulcinea.jpg)](https://youtu.be/xn1XD-NP1v4)
 
 ## De visita por Madridejos
 
@@ -104,7 +104,7 @@ el burro, logrando una casa sin vigas, sin columnas y sin tabiques. El techo de 
 habitaciones se abrían al cielo (lumbreras), que proporcionaban iluminación y 
 ventilación. 
 
-![silo colorao madridejos toledo](etheria-images/2021/09/Silo-del-Colorao-2-674x1024.jpg "Silo del Colorao, en Madridejos (Toledo). © P. Grifol")
+![silo colorao madridejos toledo](https://fotos.etheriamagazine.com/2021/09/Silo-del-Colorao-2-674x1024.jpg "Silo del Colorao, en Madridejos (Toledo). © P. Grifol")
 
 ### Silos excavados en la tierra
 
@@ -117,14 +117,14 @@ la entrada de agua a las habitaciones.
 
 > El interior del silo estaba totalmente enjalbegado, es decir: encalado 
 
-![silo colorao madridejos](etheria-images/2021/09/Interior-Silo-del-Coloraol.jpg "Interior del Silo del Colorao. © P. Grifol")
+![silo colorao madridejos](https://fotos.etheriamagazine.com/2021/09/Interior-Silo-del-Coloraol.jpg "Interior del Silo del Colorao. © P. Grifol")
 
 Cuentan los jóvenes del lugar que la nevada Filomena no hizo mella en ninguno de los dos 
 silos que se conservan en el pueblo y que se visitan en el viaje: **Silo del Colorao** y 
 **Silo del Tío Zoquete** (contacta para visitarlos: _acta@madridejos.es_), que 
 estuvieron en uso desde principios del siglo XIX hasta la segunda mitad del siglo XX. 
 
-![molino tio genaro madridejos](etheria-images/2021/09/cartel-Chow-del-Tio-Genaro.jpg "Molino y 'ElChow' del Tío Genaro, en Madridejos. © P. Grifol")
+![molino tio genaro madridejos](https://fotos.etheriamagazine.com/2021/09/cartel-Chow-del-Tio-Genaro.jpg "Molino y 'ElChow' del Tío Genaro, en Madridejos. © P. Grifol")
 
 ### El Molino del Tío Genaro
 
@@ -141,7 +141,7 @@ De la mano del Tío Genaro, persona sencilla dada a chascarrillos pueblerinos,
 descubriremos momentos mágicos en su _‘Chow’_ (reserva la actividad en 
 _molinotiogenaro@hotmail.com_),una atrevida teatralización con parada en la nostalgia. 
 
-![museo madridejos en molino](etheria-images/2021/09/Museo-Molino-del-Tio-Genaro.jpg "Museo costumbrista y de juguetes, en el interior del Molino del Tío Genaro. © P. Grifol")
+![museo madridejos en molino](https://fotos.etheriamagazine.com/2021/09/Museo-Molino-del-Tio-Genaro.jpg "Museo costumbrista y de juguetes, en el interior del Molino del Tío Genaro. © P. Grifol")
 
 ## Guía Madridejos | Etheria Magazine 
 
@@ -156,7 +156,7 @@ página de El Quijote, y que consiste en un revuelto de huevos con chorizo, jam�
 tocino… ¡que no produce ni dolor, ni quebranto! y que, además, nos ilustra sobre ese 
 plato tan soberanamente español. 
 
-![migas gachas manchegas madridejos](etheria-images/2021/09/migas-Gachas-manchegas.jpg "¿Migas o gachas? En Madridejos, tú eliges. © P. Grifol")
+![migas gachas manchegas madridejos](https://fotos.etheriamagazine.com/2021/09/migas-Gachas-manchegas.jpg "¿Migas o gachas? En Madridejos, tú eliges. © P. Grifol")
 
 **• Las típicas ‘Gachas Manchegas’** son un contundente guiso que liga la harina de 
 almorta (autóctona de la zona) con panceta, ajos, pimentón y aceite. También las 
@@ -174,7 +174,7 @@ buena forma, dispuestas para ser ordeñadas y así poder elaborar el exquisito m
 conocemos como Queso Manchego. Este es uno de los recuerdos ideales para comprar durante 
 la excursión a Madridejos. 
 
-![](etheria-images/2021/09/corderos-Queso-manchego.jpg "Corderos y queso manchego. © P. Grifol")
+![](https://fotos.etheriamagazine.com/2021/09/corderos-Queso-manchego.jpg "Corderos y queso manchego. © P. Grifol")
 
 ### Dónde comer en Madridejos
 
@@ -185,7 +185,7 @@ Dos restaurantes recomendados: La Antigua Perla (Tel. 659 395 170) y El Encuentr
 Si quieres quedarte a pasar la noche en tu excursión a Madridejos, hay bonitas casas 
 rurales: La Posada del Herrero, Casa Rural La Alameda y Los Porches. 
 
-![iglesia de san francisco madridejos](etheria-images/2021/09/iglesia-de-San-Francisco.jpg "Iglesia de San Francisco, en Madridejos. © P. Grifol")
+![iglesia de san francisco madridejos](https://fotos.etheriamagazine.com/2021/09/iglesia-de-San-Francisco.jpg "Iglesia de San Francisco, en Madridejos. © P. Grifol")
 
 ##### Más información
 

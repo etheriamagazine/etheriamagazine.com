@@ -1,7 +1,7 @@
 ---
 title: "‘Travel with Rose’ adapta sus viajes para hacerlos más seguros"
 date: 2020-05-27
-coverImage: etheria-images/2020/05/travel-with-rose-mujeres.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/travel-with-rose-mujeres.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -14,7 +14,7 @@ Rose Serrano, directora de 'Travel with Rose', analiza el turismo en tiempos de 
 y argumenta los cambios que considera deseables en esta “nueva etapa turística” marcada 
 por las limitaciones fronterizas y los protocolos sanitarios. 
 
-![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](etheria-images/2020/05/travel-with-rose-agencia-viajes.jpg "Rose Serrano (Dcha.) con un grupo de viajeras.")
+![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](https://fotos.etheriamagazine.com/2020/05/travel-with-rose-agencia-viajes.jpg "Rose Serrano (Dcha.) con un grupo de viajeras.")
 
 Cuando las circunstancias sanitarias impiden el desarrollo habitual de las actividades 
 turísticas existen dos salidas: esperar a que cambien o adaptarse a las mismas 
@@ -31,7 +31,7 @@ provincia que no guarda ningún secreto para ella, ya que es donde reside. Es op
 en cuanto al último trimestre del año y proyecta viajes por Europa, mercadillos 
 navideños y un fin de año en [Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/). 
 
-![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](etheria-images/2020/05/travel-with-rose-mujeres.jpg "Mujeres que viajan con 'Travel with Rose'.")
+![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](https://fotos.etheriamagazine.com/2020/05/travel-with-rose-mujeres.jpg "Mujeres que viajan con 'Travel with Rose'.")
 
 Rose Serrano nos cuenta en profundidad cómo se han adaptado a la situación de pandemia y 
 cómo están organizando los nuevos itinerarios, entre otras muchas cuestiones. 
@@ -60,7 +60,7 @@ tenido que prescindir de gente, sí, pero esperamos que todo se arregle cuanto a
 las cosas vuelvan de nuevo a la normalidad, si no a la normalidad que conocíamos, sí a 
 una “nueva normalidad”. 
 
-![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](etheria-images/2020/05/agencia-viaje-mujeres-travel-rose.jpg "Grupo de viajeras de 'Travel with Rose' en la Toscana.")
+![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](https://fotos.etheriamagazine.com/2020/05/agencia-viaje-mujeres-travel-rose.jpg "Grupo de viajeras de 'Travel with Rose' en la Toscana.")
 
 ### 3\. ¿Cómo afrontáis la nueva situación? ¿Eres optimista?
 
@@ -86,7 +86,7 @@ está viendo que ya muchas aerolíneas van a empezar a operar e incluso se está
 llegar a un acuerdo dentro de la Unión Europea para crear un corredor aéreo dentro de la 
 Eurozona, esto es bueno. 
 
-![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](etheria-images/2020/05/travel-with-rose-mujeres-edimburgo.jpg "Viajeras de 'Travel with Rose' en Edimburgo.")
+![travel with rose, rose serrano, agencia de viajes para mujeres, viajar sola en grupo](https://fotos.etheriamagazine.com/2020/05/travel-with-rose-mujeres-edimburgo.jpg "Viajeras de 'Travel with Rose' en Edimburgo.")
 
 ### 5\. ¿Se puede extraer algo que sea positivo de este parón turístico?
 
@@ -102,7 +102,7 @@ llenos de turistas y tomaban cualquier ciudad o pueblo pequeño.
 > También servirá para que las viajeras aprecien más el valor de ir en grupos pequeños 
 > donde la posibilidad de contagio es menor. 
 
-![praga, viaje chequia](etheria-images/2020/03/viaje-literario-praga.jpg "Praga. © Michal Vitásek")
+![praga, viaje chequia](https://fotos.etheriamagazine.com/2020/03/viaje-literario-praga.jpg "Praga. © Michal Vitásek")
 
 ### 6\. ¿Habéis modificado la programación de los viajes? ¿y el número de participantes?
 
@@ -128,7 +128,7 @@ En cuanto a destinos, estamos trabajando en algunos nuevos a nivel nacional dond
 muchas actividades, y **todos los grupos serán de 7 viajeras**. Para los próximos meses, 
 Europa también será otro objetivo a tener en cuenta. 
 
-![Ponte Vecchio, viaje florencia](etheria-images/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg "Ponte Vecchio (Florencia) © Getty Images/ Enit")
+![Ponte Vecchio, viaje florencia](https://fotos.etheriamagazine.com/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg "Ponte Vecchio (Florencia) © Getty Images/ Enit")
 
 ### 7\. ¿Qué destinos ofrece 'Travel with Rose' para este verano 2020?
 
@@ -151,7 +151,7 @@ y **Lübeck**, considerada la ciudad más bonita de Alemania, asistir a un conci
 música clásica en Viena, y celebrar el fin de año en Dubái. ¡Ya se puede ir largando el 
 virus que tenemos mucho trabajo! 
 
-![rose serrano, travel with rose, agencias de viajes para mujeres](etheria-images/2019/02/Rose-serrano-mujeres-viajeras.jpg "Rose Serrano en India.")
+![rose serrano, travel with rose, agencias de viajes para mujeres](https://fotos.etheriamagazine.com/2019/02/Rose-serrano-mujeres-viajeras.jpg "Rose Serrano en India.")
 
 ### 9\. ¿Alterará esta pandemia nuestro modo de viajar?
 

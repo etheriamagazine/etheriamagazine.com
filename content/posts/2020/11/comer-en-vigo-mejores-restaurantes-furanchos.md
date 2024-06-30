@@ -1,7 +1,7 @@
 ---
 title: "Vigo, ¿por qué estás tan rematadamente bueno?"
 date: 2020-11-24
-coverImage: etheria-images/2020/11/Viaje-gastronomico-vigo.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/Viaje-gastronomico-vigo.jpg
 categories: 
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
@@ -12,7 +12,7 @@ authors:
 
 Más allá de sus luces durante las fiestas, las calles de Vigo brillan por su deslumbrante gastronomía: variada, de producto y en permanente renovación. Sigue nuestros pasos por esta _rutiña_ de tabernas, restaurantes, mesones y furanchos vigueses, y reúne el hambre suficiente, porque la vas a necesitar.
 
-![mejor banco del mundo ria de vigo](etheria-images/2020/11/Viaje-gastronomico-vigo.jpg "Panorámica desde el 'Mejor banco del mundo’, en la ría de Vigo. © Kelu Robles")
+![mejor banco del mundo ria de vigo](https://fotos.etheriamagazine.com/2020/11/Viaje-gastronomico-vigo.jpg "Panorámica desde el 'Mejor banco del mundo’, en la ría de Vigo. © Kelu Robles")
 
 ```
 Actualizado abril de 2022.
@@ -48,7 +48,7 @@ reverso cárnico.
 ?¿Te apetece hacer un free tour en Vigo? [Apúntate](https://www.civitatis.com/es/vigo/free-tour-vigo/?aid=10211) 
 aquí. 
 
-![taberna a mina en vigo](etheria-images/2020/11/Vigo-taberna-a-mina.jpg "Exterior de © Taberna A Mina, en la rúa San Vicente.")
+![taberna a mina en vigo](https://fotos.etheriamagazine.com/2020/11/Vigo-taberna-a-mina.jpg "Exterior de © Taberna A Mina, en la rúa San Vicente.")
 
 El regreso de chefs que se han curtido en el extranjero como Juan Manuel de la Cruz, de [Casa 
 Obdulia](https://goo.gl/maps/x3EwJAfigpXv8GCo6), y la frescura de jóvenes como Adrián 
@@ -76,7 +76,7 @@ embargo, en la localidad de **Arcade**, a 20 kilómetros de Vigo, este marisco s
 representa un importante capítulo de su tradición comercial. De hecho, Arcade exporta 
 ostras conservadas en escabeche desde la época del Imperio romano. 
 
-![mural ostreira de a pedra](etheria-images/2020/11/vigo-grafiti-ostreira-671x1024.jpg "Isabel, la última ostreira de A Pedra, un mural de © Mon Devane en la calle Bueu (barrio de Coia).")
+![mural ostreira de a pedra](https://fotos.etheriamagazine.com/2020/11/vigo-grafiti-ostreira-671x1024.jpg "Isabel, la última ostreira de A Pedra, un mural de © Mon Devane en la calle Bueu (barrio de Coia).")
 
 (Aquí encontrarás un [Mapa del Casco 
 Vello](https://www.google.es/maps/@42.2391338,-8.7268135,17z?shorturl=1) para que te 
@@ -104,7 +104,7 @@ un pecado pasar por alto templos gastronómicos marineros como el minimalista [M
 Limón](https://www.marujalimon.es/) junto al **Paseo del Náutico**, que cuenta con una 
 estrella Michelin y dos Soles Repsol. 
 
-![platos del restaurante maruja limon](etheria-images/2020/11/vigo-restaurante-maruja-limon.jpg "Pieza de cerdo a la brasa con glaseado agridulce, yogur de cabra y pepino (Izq). Jurel a la brasa con soja fermentada, cacahuete y chile (Dcha). © Maruja Limón")
+![platos del restaurante maruja limon](https://fotos.etheriamagazine.com/2020/11/vigo-restaurante-maruja-limon.jpg "Pieza de cerdo a la brasa con glaseado agridulce, yogur de cabra y pepino (Izq). Jurel a la brasa con soja fermentada, cacahuete y chile (Dcha). © Maruja Limón")
 
 En las inmediaciones del náutico, en la rúa de Luis Taboada, [Othilio](http://theothiliobar.blogspot.com/) 
 ofrece coquetas elaboraciones en su local a juego. No te pierdas su **bocadillo de 
@@ -120,7 +120,7 @@ Bao](https://goo.gl/maps/k56Fj1JMQjiAjMmH8) sirve raciones de **marisco sin tont
 como en casa, ideal para las viajeras de interior que sueñan con darse un homenaje de 
 centollas y percebes servidos en grandes bandejas. 
 
-![marisco en restaurante bao de vigo](etheria-images/2020/11/vigo-restaurante-bao-marisco.jpg "El ambiente familiar de Bao recuerda una ley gallega no escrita que asegura que en casa es donde mejor se come marisco. © J.L. Migueláñez y F. Abente")
+![marisco en restaurante bao de vigo](https://fotos.etheriamagazine.com/2020/11/vigo-restaurante-bao-marisco.jpg "El ambiente familiar de Bao recuerda una ley gallega no escrita que asegura que en casa es donde mejor se come marisco. © J.L. Migueláñez y F. Abente")
 
 #### La mejor carne del sur de Galicia
 
@@ -153,7 +153,7 @@ En su origen, cada familia colocaba una **hoja de laurel** en la entrada de su v
 para anunciar la apertura de su furancho, también llamado ‘loureiro’, término derivado 
 del laurel. 
 
-![furancho en las fiestas de san blas de vigo](etheria-images/2020/11/vigo-restaurante-furancho-san-blas.jpg "Interior de un furancho durante las fiestas de San Blas. © Turismo de Vigo")
+![furancho en las fiestas de san blas de vigo](https://fotos.etheriamagazine.com/2020/11/vigo-restaurante-furancho-san-blas.jpg "Interior de un furancho durante las fiestas de San Blas. © Turismo de Vigo")
 
 Cada 3 de febrero, los furanchos del **barrio vigués de Bembrive** viven su momento 
 álgido durante las [fiestas de San Blas](https://www.turismodevigo.org/es/san-blas), 
@@ -172,7 +172,7 @@ dedica por completo a la hostelería.
 la Costa de 
 Pontevedra](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/). 
 
-![cocido en un furancho de vigo](etheria-images/2020/11/viaje-vigo-cocido-en-san-blas.jpg "Así son las raciones de cocido de los furanchos. © Turismo de Vigo")
+![cocido en un furancho de vigo](https://fotos.etheriamagazine.com/2020/11/viaje-vigo-cocido-en-san-blas.jpg "Así son las raciones de cocido de los furanchos. © Turismo de Vigo")
 
 ## 4\. La ría, de todo y para todos 
 
@@ -187,7 +187,7 @@ en churrasco.
 ideales para maridar con un buen vino ribeiro y no perder la perspectiva _enxebre_ de 
 esta ruta. 
 
-![restaurante suchi beach vigo](etheria-images/2020/11/Vigo-donde-comer-sushi-beach.jpg "La carta del © Sushi Beach, en la calle Rans junto a la playa América, aborda todo tipo de elaboraciones más allá del sushi (Nigrán).")
+![restaurante suchi beach vigo](https://fotos.etheriamagazine.com/2020/11/Vigo-donde-comer-sushi-beach.jpg "La carta del © Sushi Beach, en la calle Rans junto a la playa América, aborda todo tipo de elaboraciones más allá del sushi (Nigrán).")
 
 Especialmente interesante en verano por sus treinta y ocho playas, **Cangas do Morrazo** 
 y su casco histórico de palacetes blasonados y **casas de patín** —viviendas populares 
@@ -223,7 +223,7 @@ raciones de pescado y marisco, servidas al calor de la familia que la regenta.
 
 > Un trago de licor café y un buen neopreno eliminarán toda duda respecto al frío. 
 
-![El Parador de Baiona se encuentra en un extremo de la península de Monterreal.](etheria-images/2020/11/viaje-vigo-parador-baiona.jpg "El © Parador de Baiona se encuentra en un extremo de la península de Monterreal.")
+![El Parador de Baiona se encuentra en un extremo de la península de Monterreal.](https://fotos.etheriamagazine.com/2020/11/viaje-vigo-parador-baiona.jpg "El © Parador de Baiona se encuentra en un extremo de la península de Monterreal.")
 
 **_Un final perfecto…_** El [Parador de 
 Baiona](https://www.parador.es/en/paradores/parador-de-baiona) pone la guinda a este 

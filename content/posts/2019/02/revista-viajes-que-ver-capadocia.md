@@ -1,7 +1,7 @@
 ---
 title: "Capadocia, la fantasía convertida en paisaje"
 date: 2019-02-26
-coverImage: etheria-images/2019/02/viaje-turquia-mujeres-capadocia.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/viaje-turquia-mujeres-capadocia.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 En pleno corazón de la Anatolia yace un paisaje esculpido por el viento, el agua y el fuego. La Capadocia es un mundo de superficies lunares y paisajes surrealistas donde las iglesias rupestres y las misteriosas ciudades subterráneas se combinan con la magia de la cultura. Una región que justifica un viaje a Turquía, un exótico y afable país.
 
-![paisaje de montes de piedra de Capadocia al atardecer](etheria-images/2019/02/Viaje-Capadocia-mujeres-1.jpg "Las chimeneas parecen monjes corriendo por las colinas cuando vas de Goreme a Avanos.")
+![paisaje de montes de piedra de Capadocia al atardecer](https://fotos.etheriamagazine.com/2019/02/Viaje-Capadocia-mujeres-1.jpg "Las chimeneas parecen monjes corriendo por las colinas cuando vas de Goreme a Avanos.")
 
 **Goreme** despierta temprano. El aire fresco matinal se desliza por mi cara mientras 
 recorro con una motocicleta sus fantasmagóricos paisajes volcánicos. La luz de las 
@@ -28,7 +28,7 @@ No soy la primera en levantarme. Sobre esta pequeña localidad, la más importan
 tierra de alucinaciones pétreas. También los paisanos van y vienen con sus burros a las 
 fértiles tierras que les proporcionan alimento y los pastores han sacado a sus rebaños. 
 
-![Frescos del techo de la iglesia de las Sandalias en Capadocia](etheria-images/2019/02/viaje-turquia-iglesia-Capadocia.jpg "Frescos de la iglesia de las Sandalias, en el Museo al aire libre de Goreme.")
+![Frescos del techo de la iglesia de las Sandalias en Capadocia](https://fotos.etheriamagazine.com/2019/02/viaje-turquia-iglesia-Capadocia.jpg "Frescos de la iglesia de las Sandalias, en el Museo al aire libre de Goreme.")
 
 Junto a la población se halla el conjunto de iglesias rupestres más famosas de 
 Capadocia: el **Museo al aire libre de Goreme**, un amasijo de iglesias, capillas y 
@@ -40,7 +40,7 @@ martillo, pequeños refugios a modo de lugares defensivos en rocas, valles y gar
 > Excavaron sus monasterios e iglesias y completaron su trabajo con frescos poblados de 
 > historias del Antiguo y Nuevo Testamento. 
 
-![mujer escalando en las chimeneas de piedra de Capadocia](etheria-images/2019/02/viaje-turquia-mujeres-capadocia.jpg "Las chimeneas son las antiguas casas y templos de monjes y ermitaños.")
+![mujer escalando en las chimeneas de piedra de Capadocia](https://fotos.etheriamagazine.com/2019/02/viaje-turquia-mujeres-capadocia.jpg "Las chimeneas son las antiguas casas y templos de monjes y ermitaños.")
 
 ## Alucinaciones pétreas cerca de Goreme
 
@@ -67,7 +67,7 @@ abandonadas. Con linterna en mano, entro por una ventana, salgo por una puerta, 
 nuevo a gatas con oscuridad total y así podría recorrer todo el valle a través de 
 innumerables túneles. 
 
-![Mustafapasa y museo aire libre zelve](etheria-images/2019/02/viaje-turquia-goreme.jpg "Mustafapasa, conocido como Sinasos. (Izq.) Museo al aire libre de Zelve. (Dcha.)")
+![Mustafapasa y museo aire libre zelve](https://fotos.etheriamagazine.com/2019/02/viaje-turquia-goreme.jpg "Mustafapasa, conocido como Sinasos. (Izq.) Museo al aire libre de Zelve. (Dcha.)")
 
 Un grupo de escolares recibe una lección de geología frente a un conjunto de conos 
 volcánicos coronados por una piedra lisa y más oscura. Son las **Chimeneas de las 
@@ -78,7 +78,7 @@ metros. A mis alumnos les encantan las clases al aire libre" –continúa dicien
 colegiales, más pendientes de llamar mi atención con sus gracias que de las 
 explicaciones del maestro–. 
 
-![Puente y la mezquita de Avanos.](etheria-images/2019/02/viaje-turquia-capadocia-puente-goreme.jpg "Puente frente a la mezquita de Avanos.")
+![Puente y la mezquita de Avanos.](https://fotos.etheriamagazine.com/2019/02/viaje-turquia-capadocia-puente-goreme.jpg "Puente frente a la mezquita de Avanos.")
 
 Urgup conserva infinidad de casas trogloditas de color miel, al igual que **Avanos**, 
 **Ortahisar Mustafapasa** y **Uchisar**. El castillo de Uchisar es una roca alta 
@@ -89,7 +89,7 @@ espectaculares de la Capadocia.
 > "Desde lo alto disfruto de un maravilloso atardecer mientras me deleito con la llamada a 
 > la oración del muecín desde el minarete de la mezquita". 
 
-![vistas desde el castillo de Uchisar](etheria-images/2019/02/viaje-turquia-atardecer-capadocia.jpg "Atardecer desde el castillo de Uchisar, la mayor población de Capadocia.")
+![vistas desde el castillo de Uchisar](https://fotos.etheriamagazine.com/2019/02/viaje-turquia-atardecer-capadocia.jpg "Atardecer desde el castillo de Uchisar, la mayor población de Capadocia.")
 
 ## Por los laberintos de las ciudades subterráneas
 
@@ -103,7 +103,7 @@ escalofriante son las trampas, los canales para aceite hirviendo y las pesadas p
 correderas de piedra –que pueden abrirse desde el interior, pero no desde fuera–, para 
 así cerrar el paso al enemigo. 
 
-![valles rosa y rojo de capadocia](etheria-images/2019/02/viaje-turquia-capadocia-chimenea-hadas.jpg "Paisaje irreal de los valles Rojo y Rosa.")
+![valles rosa y rojo de capadocia](https://fotos.etheriamagazine.com/2019/02/viaje-turquia-capadocia-chimenea-hadas.jpg "Paisaje irreal de los valles Rojo y Rosa.")
 
 No puedo describir las sensaciones que me produce este paisaje lunar, este mundo 
 fantástico e irreal que quizá sea uno de los más estrambóticos y cautivadores de todo el 

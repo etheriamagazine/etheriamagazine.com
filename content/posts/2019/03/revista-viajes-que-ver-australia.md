@@ -1,7 +1,7 @@
 ---
 title: "Ruta definitiva para tu viaje a Australia"
 date: 2019-03-07
-coverImage: etheria-images/2019/02/australia-ayers-rock-uluru.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/australia-ayers-rock-uluru.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Australia es uno de los países más salvajes y extremos que podemos visitar. Su extensión, sus paisajes y las posibilidades infinitas de naturaleza, fauna, playas, ciudades y aventura hacen de este destino una propuesta única e inolvidable.
 
-![Whitsunday Islands, islas australia, viaje australia](etheria-images/2019/02/viaje-australia-Whitsunday-Islands.jpg "Playas de ensueño en Whitsunday Islands.")
+![Whitsunday Islands, islas australia, viaje australia](https://fotos.etheriamagazine.com/2019/02/viaje-australia-Whitsunday-Islands.jpg "Playas de ensueño en Whitsunday Islands.")
 
 Bien, ya está decidido. Australia es vuestro próximo destino. ¿Y ahora qué? ¿Por dónde 
 empezamos? Más de 7,5 millones de kilómetros cuadrados de extensión, siete estados, 
@@ -31,7 +31,7 @@ gasolineras y demás suministros son muy escasos. Por ello, nuestra ruta será d
 a Sur por la costa Este**, a la que añadiremos la zona centro para visitar el **Monte 
 Uluru**. 
 
-![darwin, viaje australia](etheria-images/2019/02/Viaje-australia-darwin.jpg "Darwin (Australia).")
+![darwin, viaje australia](https://fotos.etheriamagazine.com/2019/02/Viaje-australia-darwin.jpg "Darwin (Australia).")
 
 ### Darwin (2-3 días)
 
@@ -58,7 +58,7 @@ Adelaida con la que podréis ver los famosos **jumping crocs**, cocodrilos que s
 agua para coger los pedazos de carne que les ofrecen. Podéis planear la actividad con [Adelaide 
 River Cruises.](https://www.adelaiderivercruises.com.au/) 
 
-![Parque Nacional de Kakadu, viaje australia](etheria-images/2019/02/australia-cocodrilo-parque-kakadu.jpg "Cocodrilo en el Parque Nacional de Kakadu.")
+![Parque Nacional de Kakadu, viaje australia](https://fotos.etheriamagazine.com/2019/02/australia-cocodrilo-parque-kakadu.jpg "Cocodrilo en el Parque Nacional de Kakadu.")
 
 ### Cairns - Port Douglas - Gran Barrera de Coral (3-4 días)
 
@@ -78,7 +78,7 @@ En [Quicksilver Dive](https://quicksilverdive.com.au/) hay opciones de día y cr
 que permiten alejarnos de la costa y poder sumergirnos en zonas prácticamente salvajes 
 donde el coral y la fauna están intactos y protegidos. 
 
-![gran barrera coral, viaje australia](etheria-images/2019/02/gran-barrera-coral-australia.jpg "Imagen aérea de la Gran Barrera de Coral.")
+![gran barrera coral, viaje australia](https://fotos.etheriamagazine.com/2019/02/gran-barrera-coral-australia.jpg "Imagen aérea de la Gran Barrera de Coral.")
 
 ### Hamilton Island (2 días)
 
@@ -90,7 +90,7 @@ harina y con unas aguas azul turquesa intenso que las colocan entre las mejores 
 mundo. Entre ellas destacan Betty’s Beach & Lookout Beach que, como su nombre bien 
 indica, son un auténtico cielo en la tierra. 
 
-![Lone Pine Koala Sanctuary](etheria-images/2019/02/Lone-Pine-Koala-Sanctuary.jpg "Cristina en el Lone Pine Koala Sanctuary.")
+![Lone Pine Koala Sanctuary](https://fotos.etheriamagazine.com/2019/02/Lone-Pine-Koala-Sanctuary.jpg "Cristina en el Lone Pine Koala Sanctuary.")
 
 ### Brisbane (2 días)
 
@@ -109,7 +109,7 @@ diferentes especies como canguros y ualabíes, wombats, dingos, casuarios, ornit
 y todo tipo de reptiles y aves autóctonos. Si queréis abrazar un koala o alimentar de 
 vuestra propia mano a todos estos animales, éste es el lugar perfecto para hacerlo. 
 
-![Philip Island Nature Park](etheria-images/2019/02/The-Nobbies-Phillip-Island-Nature-Parks.jpg "The Nobbies, Philip Island Nature Park.")
+![Philip Island Nature Park](https://fotos.etheriamagazine.com/2019/02/The-Nobbies-Phillip-Island-Nature-Parks.jpg "The Nobbies, Philip Island Nature Park.")
 
 ### Sunshine Coast y Gold Coast (2 días)
 
@@ -128,7 +128,7 @@ de junio a noviembre. El surf y el submarinismo son las actividades principales 
 locales, quienes tienen una filosofía de vida distendida y amigable que enamora a todo 
 el que la conoce. 
 
-![noosa beach, australia](etheria-images/2019/02/australia-Noosa-Beach.jpg "Atardecer en Noosa Beach.")
+![noosa beach, australia](https://fotos.etheriamagazine.com/2019/02/australia-Noosa-Beach.jpg "Atardecer en Noosa Beach.")
 
 ### Sídney (3 días)
 
@@ -143,7 +143,7 @@ atractivos eventos como el Mardi Gras o los fuegos artificiales en el puente del
 puerto, así como una gran variedad de restaurantes de alta cocina en los que pasar una 
 velada de ensueño. 
 
-![viaje australia, sidney, viaje mujeres](etheria-images/2019/02/sydney-opera-house-australia.jpg "Sídney, una visita básica en Australia.")
+![viaje australia, sidney, viaje mujeres](https://fotos.etheriamagazine.com/2019/02/sydney-opera-house-australia.jpg "Sídney, una visita básica en Australia.")
 
 ### Ayers Rock - Monte Uluru (2 días)
 
@@ -156,7 +156,7 @@ hasta allí, hacer noche a los pies de la gran roca roja y admirar la fuerza de 
 naturaleza en un enclave tan mágico como impresionante en el que por las noches las 
 estrellas se ven tan claras que llegan casi hasta la línea del horizonte. 
 
-![Monte Uluru, viaje australia](etheria-images/2019/02/australia-ayers-rock-uluru.jpg "El Monte Uluru, un lugar místico.")
+![Monte Uluru, viaje australia](https://fotos.etheriamagazine.com/2019/02/australia-ayers-rock-uluru.jpg "El Monte Uluru, un lugar místico.")
 
 ### Melbourne - Great Ocean Road (3 días)
 
@@ -176,7 +176,7 @@ si el clima invita, no dejéis de realizar alguna parada en Bells Beach, los Gib
 o en el Parque Nacional de Parque Nacional Gran Otway, donde podréis ver koalas salvajes 
 en sus bosques de eucaliptos. 
 
-![doce apostoles, australia](etheria-images/2019/02/doce-apostoles-australia.jpg "Panorámica de los 12 apóstoles.")
+![doce apostoles, australia](https://fotos.etheriamagazine.com/2019/02/doce-apostoles-australia.jpg "Panorámica de los 12 apóstoles.")
 
 ### También te puede interesar:
 

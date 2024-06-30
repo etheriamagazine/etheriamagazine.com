@@ -1,7 +1,7 @@
 ---
 title: "Una maleta para viajar a la India"
 date: 2018-10-19
-coverImage: etheria-images/2018/10/maleta-viaje-india.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg
 categories: 
   - consejos-practicos
   - que-llevar-en-la-maleta
@@ -14,7 +14,7 @@ largamente acariciado. Como viajeras que queremos llevar bien planificado todos 
 detalles, también debemos tener en cuenta qué vamos a necesitar en una maleta para 
 viajar a la India, sobre todo en lo que a vestimenta se refiere. 
 
-![maleta con fular y camara de fotos](etheria-images/2018/10/maleta-viaje-india-1024x682.jpg "Planifica tu maleta a la India con tiempo suficiente para que no te falte de nada.")
+![maleta con fular y camara de fotos](https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india-1024x682.jpg "Planifica tu maleta a la India con tiempo suficiente para que no te falte de nada.")
 
 Una vez leído el anterior artículo ✅ '[Viajar sola o con amigas a 
 India](http://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/)', el 
@@ -32,7 +32,7 @@ pantalones sueltos son las mejores opciones–.
 Un **Chubasquero** es una prenda indispensable para la época de Monzón (de finales de 
 julio a principios de octubre). 
 
-![mujer con chubasquero amarillo](etheria-images/2018/10/chubasquero-hm-683x1024.jpg "Chubasquero H&M.")
+![mujer con chubasquero amarillo](https://fotos.etheriamagazine.com/2018/10/chubasquero-hm-683x1024.jpg "Chubasquero H&M.")
 
 ## Complementos
 
@@ -42,7 +42,7 @@ cabeza y otras partes del cuerpo como brazos y piernas siempre que sea necesario
 Además, un **sombrero** o gorrito para evitar el calor directo en la cabeza (también 
 vale una gorra), así como **gafas de sol.** 
 
-![Modelos Panama en Sombrería Medrano.](etheria-images/2018/10/sombreria-medrano-panama.jpg "Modelos Panama en Sombrería Medrano.")
+![Modelos Panama en Sombrería Medrano.](https://fotos.etheriamagazine.com/2018/10/sombreria-medrano-panama.jpg "Modelos Panama en Sombrería Medrano.")
 
 ## Calzado
 
@@ -51,7 +51,7 @@ Debido a la suciedad de las calles y a la cantidad de desperdicios que hay en el
 es buena idea caminar con calzado abierto. Además, no olvides llevar **chanclas** para 
 las duchas y la playa, en caso de que vayáis a un destino de costa. 
 
-![Chanclas Reef.](etheria-images/2018/10/chanclas-reef-1024x351.jpg "Chanclas Reef.")
+![Chanclas Reef.](https://fotos.etheriamagazine.com/2018/10/chanclas-reef-1024x351.jpg "Chanclas Reef.")
 
 ## Botiquín
 
@@ -59,7 +59,7 @@ las duchas y la playa, en caso de que vayáis a un destino de costa.
 paracetamol...), suero para aliviar posibles problemas estomacales, protector solar, 
 _aftersun_, tiritas y apósitos, y anti mosquitos. 
 
-![Botiquin de Decatlon](etheria-images/2018/10/botiquin-viaje-decatlon.jpg "Botiquín de Decatlon.")
+![Botiquin de Decatlon](https://fotos.etheriamagazine.com/2018/10/botiquin-viaje-decatlon.jpg "Botiquín de Decatlon.")
 
 ## Neceser
 
@@ -67,7 +67,7 @@ Es fundamental llevar un neceser con **productos básicos de higiene personal**.
 se te olviden las toallitas húmedas para llevar en el bolso, son perfectas para las 
 excursiones. 
 
-![caudalie basicos de viaje](etheria-images/2018/10/neceser-viaje-caudalie.jpg "Básicos de viaje de Caudalie.")
+![caudalie basicos de viaje](https://fotos.etheriamagazine.com/2018/10/neceser-viaje-caudalie.jpg "Básicos de viaje de Caudalie.")
 
 ## Accesorios
 

@@ -1,7 +1,7 @@
 ---
 title: "Planes en Soria con niños para desconectar en plena naturaleza"
 date: 2021-02-24
-coverImage: etheria-images/2021/02/planes-ninos-en-soria.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/02/planes-ninos-en-soria.jpg
 categories: 
   - viaje-en-familia
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ propuestas divertidas para toda la familia. Castillos, cañones, lagunas y bosqu
 mágicos, villas romanas, observatorios astronómicos, huellas de dinosaurios e, incluso, 
 baños termales. ¿A qué estamos esperando? (A poder viajar sin limitaciones, ¡claro!) 
 
-![ruta laguna negra de soria](etheria-images/2021/02/soria-laguna-negra.jpg "Camino de la laguna Negra de Soria. © Pepa García")
+![ruta laguna negra de soria](https://fotos.etheriamagazine.com/2021/02/soria-laguna-negra.jpg "Camino de la laguna Negra de Soria. © Pepa García")
 
 Planear un viaje con niños a Soria es algo relativamente sencillo, ya que en esta 
 provincia de Castilla y León se concentran actividades muy diferentes y las distancias 
@@ -35,7 +35,7 @@ río Lobos. Sus paisajes han sido forjados por la erosión que ha ocasionado el 
 un sistema kárstico, por lo que se perciben numerosas grutas que se adentran en paredes 
 que alcanzan hasta 200 metros de altura, además de torcas, simas y sumideros. 
 
-![Panorámica del cañón del río Lobos.](etheria-images/2021/02/canon-rio-lobos-soria.jpg "Panorámica del cañón del río Lobos. © Etheria Magazine")
+![Panorámica del cañón del río Lobos.](https://fotos.etheriamagazine.com/2021/02/canon-rio-lobos-soria.jpg "Panorámica del cañón del río Lobos. © Etheria Magazine")
 
 ### ¿Cómo llegar al Cañón del río Lobos?
 
@@ -47,7 +47,7 @@ hacer un pícnic, y hablarles, si son mayores, sobre la mística templaria que e
 este lugar. La ermita suele abrir dos horas por la mañana y otras dos por la tarde (si 
 tienes interés, puedes llamar al Tel. 975 340 000). 
 
-![Ermita de San Bartolomé, en el cañón del río Lobos.](etheria-images/2021/02/ermita-san-bartolome-canon-rio-lobos.jpg "Ermita de San Bartolomé, en el cañón del río Lobos.")
+![Ermita de San Bartolomé, en el cañón del río Lobos.](https://fotos.etheriamagazine.com/2021/02/ermita-san-bartolome-canon-rio-lobos.jpg "Ermita de San Bartolomé, en el cañón del río Lobos.")
 
 El paseo al cañón del río Lobos lo puedes iniciar en el aparcamiento más cercano, el de 
 Valdecea ([Google 
@@ -58,7 +58,7 @@ Engomez (3,5 km). Además del paisaje, llama la atención ver a numerosos **buit
 leonados** sobrevolando el cañón o posados sobre sus farallones. Al atardecer es todo un 
 espectáculo (a veces sobrecogedor). 
 
-![Bosque Mágico Fuente del Pino, en Soria.](etheria-images/2021/02/bosque-magico-soria.jpg "© Bosque Mágico Fuente del Pino, en Soria.")
+![Bosque Mágico Fuente del Pino, en Soria.](https://fotos.etheriamagazine.com/2021/02/bosque-magico-soria.jpg "© Bosque Mágico Fuente del Pino, en Soria.")
 
 ## 2\. Bosque Mágico Fuente del Pino
 
@@ -75,7 +75,7 @@ La entrada es gratuita y, aunque se pueden tocar las cosas, abrir ventanitas y p
 hay que cuidarlos porque cada pieza ha sido realizada con mucho mimo. Comprueba en su 
 web si hay actividades programadas durante tu visita. 
 
-![Laguna Negra, uno de los imprescindibles de Soria.](etheria-images/2021/02/laguna-negra-en-soria.jpg "Laguna Negra, uno de los imprescindibles de Soria. © Etheria Magazine")
+![Laguna Negra, uno de los imprescindibles de Soria.](https://fotos.etheriamagazine.com/2021/02/laguna-negra-en-soria.jpg "Laguna Negra, uno de los imprescindibles de Soria. © Etheria Magazine")
 
 ## 3\. Ruta en familia a la laguna Negra de Soria
 
@@ -101,7 +101,7 @@ especializados que se encargan de que nadie corra ningún riesgo.
 Está abierto todo el año, siempre que la climatología lo permita, pero es conveniente 
 reservar previamente. 
 
-![Monumento Natural La Fuentona, en Soria.](etheria-images/2021/02/la-fuentona-soria-1.jpg "Monumento Natural La Fuentona, en Soria. © Etheria M.")
+![Monumento Natural La Fuentona, en Soria.](https://fotos.etheriamagazine.com/2021/02/la-fuentona-soria-1.jpg "Monumento Natural La Fuentona, en Soria. © Etheria M.")
 
 ## 5\. Paseo con niños a La Fuentona y Calatañazor
 
@@ -121,7 +121,7 @@ madera por doquier para los niños. Y si te quedas a comer, te recomendamos el [
 El Palomar](http://www.elpalomarrestaurante.com/), situado en un antiguo palomar, donde 
 sirven una riquísima comida casera. 
 
-![Calatañazor, uno de los pueblos más bonitos de Soria.](etheria-images/2021/02/soria-con-ninos-calatanazor-717x1024.jpg "Calatañazor, uno de los pueblos más bonitos de Soria. © Etheria Magazine")
+![Calatañazor, uno de los pueblos más bonitos de Soria.](https://fotos.etheriamagazine.com/2021/02/soria-con-ninos-calatanazor-717x1024.jpg "Calatañazor, uno de los pueblos más bonitos de Soria. © Etheria Magazine")
 
 ## 6\. Observar las estrellas en Borobia
 
@@ -134,7 +134,7 @@ Consulta el horario de sesión guiada nocturna (en invierno es a las 20 horas) e
 En [Borobia](http://www.ccborobia.com/alojamiento.html) también hay alguna casa rural y 
 restaurantes, por si prefieres pasar la noche allí. 
 
-![Fortaleza califal de Gormaz.](etheria-images/2021/02/fortaleza-califal-gormaz.jpg "Fortaleza califal de Gormaz. © Etheria Magazine")
+![Fortaleza califal de Gormaz.](https://fotos.etheriamagazine.com/2021/02/fortaleza-califal-gormaz.jpg "Fortaleza califal de Gormaz. © Etheria Magazine")
 
 ## 7\. Caballeros por un día: fortaleza de Gormaz y castillo de Berlanga de Duero
 
@@ -147,7 +147,7 @@ caballeros a quien perteneció tras la reconquista por parte de Fernando I de Le
 1060. El **castillo de Berlanga**, junto al pueblo, también se encuentra bien 
 conservado, y además puedes aprovechar para pasear por este bonito pueblo de Soria. 
 
-![Castillo de Berlanga de Duero desde las calles del pueblo.](etheria-images/2021/02/castillo-berlanga-duero-soria-1.jpg "Castillo de Berlanga de Duero desde las calles del pueblo. © Etheria Magazine")
+![Castillo de Berlanga de Duero desde las calles del pueblo.](https://fotos.etheriamagazine.com/2021/02/castillo-berlanga-duero-soria-1.jpg "Castillo de Berlanga de Duero desde las calles del pueblo. © Etheria Magazine")
 
 ## 8\. Relax en familia en El Burgo de Osma
 
@@ -167,7 +167,7 @@ este artículo para mujeres urbanitas: ["8 razones para hacer una cura antiestr�
 amigas en 
 Soria"](https://etheriamagazine.com/2019/08/12/ocho-razones-para-viajar-a-soria-con-amigas/). 
 
-![Castilla Termal Burgo de Osma.](etheria-images/2021/02/balneario-burgo-osma-en-familia.jpg "© Castilla Termal Burgo de Osma.")
+![Castilla Termal Burgo de Osma.](https://fotos.etheriamagazine.com/2021/02/balneario-burgo-osma-en-familia.jpg "© Castilla Termal Burgo de Osma.")
 
 ## 9\. En kayak por el Duero
 
@@ -192,7 +192,7 @@ se pueden ver huellas, grandes reproducciones que encantarán a los más pequeñ
 también, el Parque Cretácico de Aventuras de San Pedro Manrique. En los anteriores 
 enlaces encontrarás una información más detallada. 
 
-![Ruta de las Icnitas, en Soria.](etheria-images/2021/02/ruta-dinosaurios-soria.jpg "Ruta de las Icnitas, en Soria. © Diputación Provincial de Soria")
+![Ruta de las Icnitas, en Soria.](https://fotos.etheriamagazine.com/2021/02/ruta-dinosaurios-soria.jpg "Ruta de las Icnitas, en Soria. © Diputación Provincial de Soria")
 
 **También te puede interesar...** 
 

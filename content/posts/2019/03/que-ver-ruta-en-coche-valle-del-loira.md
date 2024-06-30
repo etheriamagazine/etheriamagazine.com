@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por el Valle del Loira"
 date: 2019-03-14
-coverImage: etheria-images/2019/03/chateau-amboise-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/chateau-amboise-1.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -13,7 +13,7 @@ authors:
 
 El Valle del Loira tiene tanto que ofrecer que es imposible abarcar este gran espacio natural repleto de castillos en un solo viaje. En este artículo te proponemos una ruta de cuatro días en coche teniendo a la encantadora ciudad de Amboise como sede, un viaje perfecto para disfrutar en familia o con amigas.
 
-![Castillo de Amboise.](etheria-images/2019/02/Amboise-castillo.jpg "Castillo de Amboise. © S.G.")
+![Castillo de Amboise.](https://fotos.etheriamagazine.com/2019/02/Amboise-castillo.jpg "Castillo de Amboise. © S.G.")
 
 La mejor manera de explorar el Valle del Loira es realizar una **ruta en coche** ya que 
 permite la libertad que se necesita para moverse de un lugar a otro en esta zona en la 
@@ -40,7 +40,7 @@ jardines, en la Chapelle Saint-Hubert, se encuentra la tumba de Leonardo Da Vinc
 ? [Aquí puedes reservar tu entrada del castillo de 
 Amboise.](https://www.civitatis.com/es/amboise/entrada-castillo-amboise/?aid=10211) 
 
-![Vista de Amboise desde el castillo.](etheria-images/2019/02/Amboise-desde-castillo.jpg "Vista de Amboise desde el castillo. © S.G.")
+![Vista de Amboise desde el castillo.](https://fotos.etheriamagazine.com/2019/02/Amboise-desde-castillo.jpg "Vista de Amboise desde el castillo. © S.G.")
 
 El otro castillo que es imprescindible en Amboise es el de [**Clos Lucé** (?reserva tu 
 entrada en este 
@@ -57,7 +57,7 @@ una parte de museo interior con las salas en las que vivió Leonardo. Y, sobre t
 más interesante, un precioso jardín donde se han ubicado muchos de los inventos del 
 genio del Renacimiento, con maquetas a escala que pueden probarse por los visitantes. 
 
-![Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé.](etheria-images/2019/02/Amboise-castillo-clos-luce.jpg "Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé. © S.G.")
+![Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé.](https://fotos.etheriamagazine.com/2019/02/Amboise-castillo-clos-luce.jpg "Invento de Leonardo da Vinci en el jardín del castillo de Clos Lucé. © S.G.")
 
 Muy cerca se encuentra el tercer castillo de Amboise, el **Château Gaillard** y sus 
 Jardins du Roy, que ofrecen la imagen del primer Renacimiento italiano. Sus jardines 
@@ -80,7 +80,7 @@ perfecto si se viaja con niños. Se puede hacer un picnic, subir a la pagoda, ju
 los juegos de madera del parque, pasear por el jardín chino o montar en barca en el 
 lago. 
 
-![Picnic con productos locales que preparan en el café de la pagoda de Chanteloup.](etheria-images/2019/02/Pagoda-chanteloup-picnic.jpg "Picnic con productos locales que preparan en el café de la pagoda de Chanteloup. © S.G.")
+![Picnic con productos locales que preparan en el café de la pagoda de Chanteloup.](https://fotos.etheriamagazine.com/2019/02/Pagoda-chanteloup-picnic.jpg "Picnic con productos locales que preparan en el café de la pagoda de Chanteloup. © S.G.")
 
 Si **viajas en familia**, puedes terminar el día con un paseo cruzando al otro lado del 
 río para contemplar las vistas del castillo desde este punto. Y si alguno de los días de 
@@ -98,7 +98,7 @@ intelectuales y artistas en el siglo XVIII. Su exquisita decoración interior (q
 incluye numerosas obras de arte de artistas como Rubens o Murillo) y sus jardines 
 merecen una visita con tiempo. 
 
-![El 'Loire a Velo' pasa junto al castillo de Chenanceau.](etheria-images/2019/03/viaje-bicicleta-Loire-A-Velo-Chenonceau.jpg "El 'Loire a Velo' pasa junto al castillo de Chenanceau. © D. Darrault/ CRT Centre Val de Loire")
+![El 'Loire a Velo' pasa junto al castillo de Chenanceau.](https://fotos.etheriamagazine.com/2019/03/viaje-bicicleta-Loire-A-Velo-Chenonceau.jpg "El 'Loire a Velo' pasa junto al castillo de Chenanceau. © D. Darrault/ CRT Centre Val de Loire")
 
 Además, para completar el día, se puede realizar un [crucero por el 
 Cher](http://www.labelandre.com) para contemplar el castillo desde el río, una actividad 
@@ -114,7 +114,7 @@ Desde Amboise sólo tardarás 35 minutos por una bonita carretera que circula ju
 río. Al llegar te darás cuenta de por qué no podías perderte esta ciudad, que es mucho 
 más que su castillo. 
 
-![Maison de la Magie en el momento en el que los dragones se asoman a sus ventanas.](etheria-images/2019/02/Blois-Maison-Magie.jpg "Maison de la Magie en el momento en el que los dragones se asoman a sus ventanas. © S.G.")
+![Maison de la Magie en el momento en el que los dragones se asoman a sus ventanas.](https://fotos.etheriamagazine.com/2019/02/Blois-Maison-Magie.jpg "Maison de la Magie en el momento en el que los dragones se asoman a sus ventanas. © S.G.")
 
 El punto de partida debería ser la **place du Château**, ya que desde aquí se accede a 
 los dos imprescindibles de la ciudad: el **castillo de Blois**, con su imponente aspecto 
@@ -133,7 +133,7 @@ salen [coches de caballos](http://www.attelagesdeblois.com), con capacidad para 
 personas, con los que se puede realizar un recorrido por la ciudad (y evitar las 
 cuestas). 
 
-![Representación de época en el patio del castillo de Blois.](etheria-images/2019/02/Blois-castillo-patio.jpg "Representación de época en el patio del castillo de Blois. © S.G.")
+![Representación de época en el patio del castillo de Blois.](https://fotos.etheriamagazine.com/2019/02/Blois-castillo-patio.jpg "Representación de época en el patio del castillo de Blois. © S.G.")
 
 Si se dispone de tiempo, merece la pena dedicar un rato a pasear la ciudad. Así se 
 descubren lugares como la Cathèdrale Saint-Louis (del siglo XVII y con un bonito 
@@ -163,7 +163,7 @@ salamandra, búscalas por todo el castillo); y la última, la azotea, ofrece una
 increíbles vistas de los jardines y el bosque que los rodea, que constituyen el mayor 
 parque amurallado de Europa. 
 
-![Castillo de Chambord.](etheria-images/2019/02/Castillo-chambord-panoramica.jpg "Castillo de Chambord.")
+![Castillo de Chambord.](https://fotos.etheriamagazine.com/2019/02/Castillo-chambord-panoramica.jpg "Castillo de Chambord.")
 
 Pasarás mucho tiempo haciendo fotos, parece que todos los ángulos son buenos para 
 retratar al castillo. Después puedes dedicar un rato a tomar algo en una terraza y 
@@ -185,7 +185,7 @@ señoriales. Uno muy recomendable es le [Manoir
 Saint-Thomas](http://www.manoir-saint-thomas.com) donde, si viajas en verano, podrás 
 disfrutar de su pequeña y coqueta piscina. 
 
-![Vistas desde el Castillo de Amboise.](etheria-images/2019/02/Amboise-castillo-vistas.jpg "Vistas desde el Castillo de Amboise. © SG")
+![Vistas desde el Castillo de Amboise.](https://fotos.etheriamagazine.com/2019/02/Amboise-castillo-vistas.jpg "Vistas desde el Castillo de Amboise. © SG")
 
 En Amboise hay una amplia oferta gastronómica. Para degustar excelente gastronomía 
 francesa puedes acudir a [L’Ecluse](https://www.ecluse-amboise.fr), con un menú siempre 
@@ -206,7 +206,7 @@ se ofrecen visitas virtuales que permiten a través de unas tablets ver cómo er
 castillo en la época de su máximo esplendor. También proponen visitas con juegos por si 
 el viaje se realiza con niños. 
 
-![Castillo de Chambord.](etheria-images/2019/03/Valle-loira-castillo-chambord.jpg "Castillo de Chambord. © SG")
+![Castillo de Chambord.](https://fotos.etheriamagazine.com/2019/03/Valle-loira-castillo-chambord.jpg "Castillo de Chambord. © SG")
 
 En primavera y verano en la mayoría de los castillos hay **espectáculos nocturnos de luz 
 y sonido** y, en ocasiones, obras de teatro. Consulta y reserva las entradas con tiempo. 

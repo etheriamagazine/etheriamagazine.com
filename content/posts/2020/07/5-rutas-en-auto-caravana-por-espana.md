@@ -1,7 +1,7 @@
 ---
 title: "5 rutas en autocaravana por España para disfrutar de mar y de montaña"
 date: 2020-07-23
-coverImage: etheria-images/2020/07/rutas-auto-caravana-espana.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/07/rutas-auto-caravana-espana.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -13,7 +13,7 @@ authors:
 
 Está claro que la opción de viajar en autocaravana este verano se perfila como una de las más seguras. Hacerlo a través de refrescantes paisajes de la costa o de montaña es un sueño. Imagínate amanecer en un lugar único, en silencio, o ver una puesta de sol con una botella de vino.
 
-![caravana, ruta espana, organizar viaje caravana](etheria-images/2020/07/ruta-viaje-caravanas-900x600.jpg "Una caravana es una casa con las vistas que tú elijas. © Alice Hartrick")
+![caravana, ruta espana, organizar viaje caravana](https://fotos.etheriamagazine.com/2020/07/ruta-viaje-caravanas-900x600.jpg "Una caravana es una casa con las vistas que tú elijas. © Alice Hartrick")
 
 En estas cinco **rutas en autocaravana por España** disfrutarás de pueblos bellísimos de 
 mar y de montaña, y de un clima fresco, de esos de esos que te devuelven la vida cuando 
@@ -33,7 +33,7 @@ Para planificar rutas **Google Maps** y **ruta.ate**. ? Para elegir alojamiento 
 apps de la predicción del tiempo y otras para compartir comentarios y recomendaciones de 
 lugares para acampar o aparcar: **Park4night**. 
 
-![biarritz, caravanas, ruta espana, viajes en coche](etheria-images/2020/07/ruta-caravana-biarritz-900x600.jpg "Biarritz. © Toa Heftiba")
+![biarritz, caravanas, ruta espana, viajes en coche](https://fotos.etheriamagazine.com/2020/07/ruta-caravana-biarritz-900x600.jpg "Biarritz. © Toa Heftiba")
 
 ## Rutas para viajar en autocaravana en España
 
@@ -47,7 +47,7 @@ relajarse si vas con niños. Arquitectura pintoresca y leyendas de corsarios vas
 hacen muy atractiva. La siguiente parada es **Hendaya**, donde podemos descansar un poco 
 (encontraremos varias opciones donde aparcar nuestra autocaravana). 
 
-![surf, biarritz, ruta autocaravana](etheria-images/2020/07/ruta-caravana-surfista-biarritz-900x600.jpg "Surfista en Biarritz. © Chris Kendall")
+![surf, biarritz, ruta autocaravana](https://fotos.etheriamagazine.com/2020/07/ruta-caravana-surfista-biarritz-900x600.jpg "Surfista en Biarritz. © Chris Kendall")
 
 #### Pueblos bonitos del País Vasco
 
@@ -62,7 +62,7 @@ queda a menos de una hora y [San
 Sebastián,](http://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas/) 
 a una hora y 20 minutos. 
 
-![cudillero, Asturias, viaje espana, autocaravana, caravana](etheria-images/2020/07/viaje-caravana-cudillero-900x675.jpg "Cudillero (Asturias). © Miguel Ángel Sanz")
+![cudillero, Asturias, viaje espana, autocaravana, caravana](https://fotos.etheriamagazine.com/2020/07/viaje-caravana-cudillero-900x675.jpg "Cudillero (Asturias). © Miguel Ángel Sanz")
 
 ### Ruta 2: Postales asturianas en verde y azul
 
@@ -82,7 +82,7 @@ probada. A continuación, hay que poner rumbo a **Villaviciosa**, hacia la **pla
 Puntal**, un arenal en el margen derecho de la ría, que es una Reserva Natural, con un 
 puerto deportivo a tiro de piedra, por si hay ganas de ver un poco de ambiente. 
 
-![lastres, asturias, caravana, viaje espana](etheria-images/2020/07/ruta-caravana-espana-lastres-900x600.jpg "Lastres (Asturias). © Sara Riano")
+![lastres, asturias, caravana, viaje espana](https://fotos.etheriamagazine.com/2020/07/ruta-caravana-espana-lastres-900x600.jpg "Lastres (Asturias). © Sara Riano")
 
 #### Tazones y Lastres, dos joyitas
 
@@ -93,7 +93,7 @@ cocina espectacular de la que no te querrás marchar. Para reponer fuerzas y res
 poco de aire puro, hay que visitar el **mirador de San Roque**, y despedirnos de estos 
 paisajes espectaculares. 
 
-![Besalu, ruta caravana, viaje espana](etheria-images/2020/07/ruta-caravana-besalu-900x520.jpg "Besalú es una de las poblaciones más bonitas de La Garrotxa.")
+![Besalu, ruta caravana, viaje espana](https://fotos.etheriamagazine.com/2020/07/ruta-caravana-besalu-900x520.jpg "Besalú es una de las poblaciones más bonitas de La Garrotxa.")
 
 ### Ruta 3: Por los pueblos medievales de La Garrotxa
 
@@ -112,7 +112,7 @@ hace lo propio con sus elementos de pizarra y madera; y **Artiés** (Lérida), q
 con una gran oferta turística al estar muy cerca de la estación de esquí **Baqueira 
 Beret**. 
 
-![ruta caravana, benasque](etheria-images/2020/07/ruta-caravana-benasque-900x600.jpg "Desbordante naturaleza de Benasque. © Pablo Molina")
+![ruta caravana, benasque](https://fotos.etheriamagazine.com/2020/07/ruta-caravana-benasque-900x600.jpg "Desbordante naturaleza de Benasque. © Pablo Molina")
 
 ### Ruta 4: Pirineos full para amantes de la montaña
 
@@ -130,7 +130,7 @@ visita. La siguiente parada será el medieval **Ansó**, de callejuelas pequeña
 idioma propio, el ansotano. Otro de los puntos clave del Valle del Tena es **Panticosa** 
 (Huesca), famoso por su balneario, su mercado medieval y su oferta turística invernal. 
 
-![parque Ordesa, ruta caravana, viajes espana](etheria-images/2020/07/ruta-caravana-parque-ordesa-900x839.jpg "Parque Natural de Ordesa y Monte Perdido.")
+![parque Ordesa, ruta caravana, viajes espana](https://fotos.etheriamagazine.com/2020/07/ruta-caravana-parque-ordesa-900x839.jpg "Parque Natural de Ordesa y Monte Perdido.")
 
 En el Pirineo Aragonés también hallamos el **Cañón de Añisclo**, el cual nos brinda una 
 gran oferta de flora y fauna, así como grandes joyas geológicas. Otros parajes perfectos 
@@ -146,7 +146,7 @@ confunden con el mar, 100 km de costa sembrada de míticos paisajes como la **r�
 Barqueiro**, la **playa de las Catedrales**, el **estuario del Eo** y pueblos 
 encantadores como **Viveiro**, **Ribadeo** y **Foz**. 
 
-![playa catedrales, viaje espana, ruta caravanas, autocaravana](etheria-images/2020/07/ruta-caravana-playa-catedrales-900x602.jpg "Playa de las Catedrales.")
+![playa catedrales, viaje espana, ruta caravanas, autocaravana](https://fotos.etheriamagazine.com/2020/07/ruta-caravana-playa-catedrales-900x602.jpg "Playa de las Catedrales.")
 
 Además, la gastronomía de toda esta zona es otro de sus puntos a favor, con todo un 
 festival de mariscos y pescados del Cantábrico. En cualquiera de las localidades: 

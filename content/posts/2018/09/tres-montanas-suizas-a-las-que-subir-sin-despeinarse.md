@@ -1,7 +1,7 @@
 ---
 title: "Tres montañas de Suiza a las que subir con niños sin despeinarse"
 date: 2018-09-28
-coverImage: etheria-images/2018/09/Suiza-subida-jungfrau-e1569136382763.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/Suiza-subida-jungfrau-e1569136382763.jpg
 categories: 
   - consejos-practicos
   - viaje-en-familia
@@ -17,7 +17,7 @@ desde lo alto sin apenas esfuerzo. No te pierdas estas tres montañas de Suiza p
 para viajar con niños o, simplemente, para los que prefieren disfrutar de la naturaleza 
 con total comodidad y sin esfuerzo. 
 
-![Montañas naturaleza viajes](etheria-images/2018/09/Suiza-puente-Titlis.jpg "El puente conocido como el Titlis Cliff Walk, en el Klein Titlis, ofrece unas vistas espectaculares. ©Oscar Nenander/swiss-image.ch.")
+![Montañas naturaleza viajes](https://fotos.etheriamagazine.com/2018/09/Suiza-puente-Titlis.jpg "El puente conocido como el Titlis Cliff Walk, en el Klein Titlis, ofrece unas vistas espectaculares. ©Oscar Nenander/swiss-image.ch.")
 
 Actualizado en febrero de 2024. 
 
@@ -43,7 +43,7 @@ del Europa. Para subir, si se viaja desde Interlaken, hay que llegar a la estaci
 **Kleine Scheidegg**, desde donde sale el famoso tren de cremallera rojo que asciende al 
 **Jungfraujoch** durante otra hora. 
 
-![Montañas naturaleza viajes niños](etheria-images/2018/09/Suiza-subida-jungfrau-e1569136382763.jpg "Subida en tren al Jungfraujoch. ©swiss-image.ch/Jeroen Seyffe.")
+![Montañas naturaleza viajes niños](https://fotos.etheriamagazine.com/2018/09/Suiza-subida-jungfrau-e1569136382763.jpg "Subida en tren al Jungfraujoch. ©swiss-image.ch/Jeroen Seyffe.")
 
 Hace varias paradas para contemplar el bello paisaje alpino y lugares impresionantes 
 como la **cara norte del monte Eiger** o el **mar de hielo de Eismeer**. Tras atravesar 
@@ -60,7 +60,7 @@ galería de hielo, un mirador y tiendas donde comprar desde un reloj hasta choco
 tiene otro mirador que ofrece unas vistas increíbles del glaciar Alestch, si las nubes 
 lo permiten. 
 
-![Montañas mirador Alpes viajes](etheria-images/2018/09/Suiza-observatorio-Jungfrau-e1569136403219.jpg "Desde el Jungfraujoch se puede acceder al observatorio Sphinx y al glaciar Aletsch. ©swiss-image.ch/Rob Lewis")
+![Montañas mirador Alpes viajes](https://fotos.etheriamagazine.com/2018/09/Suiza-observatorio-Jungfrau-e1569136403219.jpg "Desde el Jungfraujoch se puede acceder al observatorio Sphinx y al glaciar Aletsch. ©swiss-image.ch/Rob Lewis")
 
 Se puede hacer una **ruta al refugio de Mönch** (en total unas dos horas aproximadamente 
 ida y vuelta). Hay que tener en cuenta que hay que ir bien equipado para el frío y es 
@@ -85,7 +85,7 @@ Cuatro Cantones** y de los Alpes en miradores como el de **Oberhaupt** o el de *
 (a 10 minutos de la plataforma por escaleras). Puedes tomar algo en su bar o en su 
 restaurante y comprar algún recuerdo en su tienda. 
 
-![Montañas naturaleza viajes](etheria-images/2018/09/Suiza-Pilatus-tren-cremallera-e1569136428264.jpg "Tren de cremallera que sube al monte Pilatus. ©swiss-image.ch/Stefan Schlumpf.")
+![Montañas naturaleza viajes](https://fotos.etheriamagazine.com/2018/09/Suiza-Pilatus-tren-cremallera-e1569136428264.jpg "Tren de cremallera que sube al monte Pilatus. ©swiss-image.ch/Stefan Schlumpf.")
 
 Para bajar, lo mejor es hacerlo en el **telecabina "Dragon Ride"** que desciende la 
 montaña desde el hotel Bellevue en varios tramos. En las paradas merece la pena 
@@ -98,7 +98,7 @@ Land**. Es un precioso complejo de columpios inspirado en el dragón que es masc
 Pilatus. Cuando llegas a **Kriens** el autobús número 1 lleva de vuelta a Lucerna en tan 
 sólo 15 minutos. 
 
-![Montañas teleferico naturaleza viajes](etheria-images/2018/09/Suiza-pilatus-e1569136453235.jpg "Telecabina llamado 'Dragon Ride' que desciende el monte Pilatus. ©swiss-image.ch/Stefan Schlumpf.")
+![Montañas teleferico naturaleza viajes](https://fotos.etheriamagazine.com/2018/09/Suiza-pilatus-e1569136453235.jpg "Telecabina llamado 'Dragon Ride' que desciende el monte Pilatus. ©swiss-image.ch/Stefan Schlumpf.")
 
 Esta excursión, que se puede realizar entre mayo y octubre, tiene un ticket combinado 
 llamado **Golden round trip**: incluye el barco, el tren de cremallera, el descenso en 
@@ -117,7 +117,7 @@ metros. Una pequeña aventura para la que hay que ir bien preparados, tanto para
 de la cumbre (aunque se vaya en verano) como para realizar la bonita bajada por la 
 montaña hasta Engelberg. 
 
-![Montañas naturaleza viajes niños](etheria-images/2018/09/Titlis-suiza-e1569136481940.jpg "El espectacular teleférico TITLIS Rotair. ©swiss-image.ch/Roger Gruetter.")
+![Montañas naturaleza viajes niños](https://fotos.etheriamagazine.com/2018/09/Titlis-suiza-e1569136481940.jpg "El espectacular teleférico TITLIS Rotair. ©swiss-image.ch/Roger Gruetter.")
 
 Puedes descender directamente en el teleférico en el que has subido, pero una excursión 
 muy interesante parte de la parada intermedia del **lago Trübsee** (a 1.800 metros). 
@@ -133,7 +133,7 @@ subirte al telecabina o coger unos divertidos patinetes para descender los tres
 kilómetros y medio que llevan hasta la misma estación de Engelberg (recomendados para 
 mayores de 10 años, los más pequeños pueden ir con un adulto). 
 
-![](etheria-images/2018/09/Suiza-bajada-Titlis-camino-e1569136498873.jpg "Sendero que desciende desde el lago Trübsee hasta el teleférico Älplerseil. ©Susana García.")
+![](https://fotos.etheriamagazine.com/2018/09/Suiza-bajada-Titlis-camino-e1569136498873.jpg "Sendero que desciende desde el lago Trübsee hasta el teleférico Älplerseil. ©Susana García.")
 
 La subida al Titlis cuesta 72 Francos Suizos, consulta los precios para cada una de las 
 actividades. Más información en la página oficial del [Titlis](https://www.titlis.ch/en). 

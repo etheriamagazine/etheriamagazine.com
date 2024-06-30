@@ -1,7 +1,7 @@
 ---
 title: "Lo que unió al Che Guevara y Manuel de Falla en Alta Gracia (Argentina)"
 date: 2019-02-20
-coverImage: etheria-images/2019/02/Viaje-cordoba-che-guevara.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/Viaje-cordoba-che-guevara.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ Guevara en un lugar que ha hechizado a indígenas, religiosos, revolucionarios y
 artistas. El misticismo manda en esta parte de Argentina que aún está por descubrir para 
 el gran público. Os contamos los encantos de los que presume. 
 
-![Estancia de Alta Gracia.](etheria-images/2019/02/Viaje-cordoba-che-guevara-1024x768.jpg "Estancia de Alta Gracia. © Kelu Robles")
+![Estancia de Alta Gracia.](https://fotos.etheriamagazine.com/2019/02/Viaje-cordoba-che-guevara-1024x768.jpg "Estancia de Alta Gracia. © Kelu Robles")
 
 Territorio de aborígenes comechingones y jesuitas españoles, las calles de **Alta 
 Gracia** unieron al Che Guevara y a Manuel de Falla cuando buscaban curarse de sus 
@@ -28,7 +28,7 @@ significa bosques frondosos—, parece escucharse la música de los **comechingo
 primeros pobladores de esta provincia. Cuesta creerlo, pero se les llama así porque se 
 dice de ellos que comían piedras —¿qué os pensábais?—. 
 
-![Monumento al Indio Comechingón en Alta Gracia.](etheria-images/2019/02/Viaje-cordoba-comechingon-1024x727.jpg "Monumento al Indio Comechingón en Alta Gracia. © Kelu Robles")
+![Monumento al Indio Comechingón en Alta Gracia.](https://fotos.etheriamagazine.com/2019/02/Viaje-cordoba-comechingon-1024x727.jpg "Monumento al Indio Comechingón en Alta Gracia. © Kelu Robles")
 
 Los comechingones se establecieron aquí hace 2.500 años, hasta que los jesuitas 
 españoles les sometieron a su religión y a sus modos de vida en el siglo XVI. Y con el 
@@ -39,7 +39,7 @@ más impresionante de la ciudad: la **Estancia Jesuítica**, hoy rehabilitada co
 > Catalina, La Candelaria y Córdoba, del Camino de las Estancias. Sus 250 km de recorrido 
 > ofrece el pretexto ideal para conocer la cara más salvaje de la provincia. 
 
-![Estancia Jesuítica de Alta Gracia](etheria-images/2019/02/Estancia-jesuitica-cordoba-argentina-1024x732.jpg "La Estancia Jesuítica de Alta Gracia es Bien de Interés Cultural por la UNESCO. © Kelu Robles")
+![Estancia Jesuítica de Alta Gracia](https://fotos.etheriamagazine.com/2019/02/Estancia-jesuitica-cordoba-argentina-1024x732.jpg "La Estancia Jesuítica de Alta Gracia es Bien de Interés Cultural por la UNESCO. © Kelu Robles")
 
 ## El encuentro entre Che Guevara y Manuel de Falla
 
@@ -52,7 +52,7 @@ aires tan puros de los que presumían sus habitantes. Así, **Villa Nydia** ser�
 en el que viviría más tiempo, antes de saber que se convertiría, entre otras cosas, en 
 un auténtico nómada. 
 
-![Casa Museo del Che Guevara en Córdoba](etheria-images/2019/02/viaje-cordoba-casa-che-guevara-1024x463.jpg "Villa Nydia, la Casa Museo del Che Guevara © Turismo de Córdoba y su habitación cuando era niño. © K.R.")
+![Casa Museo del Che Guevara en Córdoba](https://fotos.etheriamagazine.com/2019/02/viaje-cordoba-casa-che-guevara-1024x463.jpg "Villa Nydia, la Casa Museo del Che Guevara © Turismo de Córdoba y su habitación cuando era niño. © K.R.")
 
 En las habitaciones podremos encontrar objetos como una moto idéntica a la que llevó por 
 Sudamérica, una Norton 500 apodada ‘La Poderosa’. También llama la atención la urna 
@@ -71,7 +71,7 @@ su enfermedad pulmonar.
 Allí podremos ver y hasta acariciar —que no tocar, tampoco nos pasemos— el piano que 
 arrastraba al balcón para dar conciertos a sus vecinos. 
 
-![Claudia Villarreal, guía en la Casa Museo de Manuel de Falla en Los Espinillos.](etheria-images/2019/02/viaje-cordoba-argentina-los-espinillos-1024x768.jpg "Claudia Villarreal, guía en la Casa Museo Los Espinillos. © K.R.")
+![Claudia Villarreal, guía en la Casa Museo de Manuel de Falla en Los Espinillos.](https://fotos.etheriamagazine.com/2019/02/viaje-cordoba-argentina-los-espinillos-1024x768.jpg "Claudia Villarreal, guía en la Casa Museo Los Espinillos. © K.R.")
 
 Nuestra guía en esta casa, **Claudia Villarreal**, se detiene un momento para 
 confesarnos cómo fue aquel encuentro —o encontronazo— entre el ideólogo de la Revolución 
@@ -104,7 +104,7 @@ célebre por haber salvado a este animal de la extinción en el valle de Traslas
 lo demuestra según aparece en escena: los cóndores reconocen su voz, los alimenta sin 
 domesticarlos, cura sus heridas y estudia su vuelo y sus comportamientos. 
 
-![Mario Frisina en el Parque Nacional Quebrada del Condorito](etheria-images/2019/02/viaje-cordoba-mario-frisina-1-1024x754.jpg "Mario Frisina, el ‘Condorman’ del Valle de Traslasierra. © Kelu Robles")
+![Mario Frisina en el Parque Nacional Quebrada del Condorito](https://fotos.etheriamagazine.com/2019/02/viaje-cordoba-mario-frisina-1-1024x754.jpg "Mario Frisina, el ‘Condorman’ del Valle de Traslasierra. © Kelu Robles")
 
 Cada año decenas de cóndores acuden al **Parque Nacional Quebrada del Condorito** para 
 enseñar a volar a sus crías. Llegan a vivir 85 años, miden hasta tres metros de ala a 
@@ -115,7 +115,7 @@ El avistaje se puede realizar desde innumerables puntos de las sierras de Córdo
 **Los Gigantes**, pero plantearse una ruta de senderismo en el Parque Nacional Quebrada 
 del Condorito es una experiencia inolvidable por su especial orografía rocosa. 
 
-![Dos personas viendo cóndores en Los Gigantes, Argentina.](etheria-images/2019/02/viaje-altagracia-vista-condores-1024x495.jpg "Avistaje de aves en Los Gigantes. © Turismo de Córdoba")
+![Dos personas viendo cóndores en Los Gigantes, Argentina.](https://fotos.etheriamagazine.com/2019/02/viaje-altagracia-vista-condores-1024x495.jpg "Avistaje de aves en Los Gigantes. © Turismo de Córdoba")
 
 ## Córdoba y sus estudiantes
 
@@ -129,7 +129,7 @@ Manzana Jesuítica a las casonas del barrio Nueva Córdoba o **‘la noche’ de
 > Situada en el centro geográfico de Argentina, Córdoba es perfecta para volar en menos de 
 > dos horas a capitales sudamericanas como Asunción, Santiago de Chile o Buenos Aires. 
 
-![Iglesia de Córdoba, Argentina](etheria-images/2019/02/viaje-cordoba-manzana-jesuitica-1024x685.jpg "Córdoba se encuentra a 35 km de Alta Gracia y es la capital de la provincia homónima. © Turismo de Córdoba")
+![Iglesia de Córdoba, Argentina](https://fotos.etheriamagazine.com/2019/02/viaje-cordoba-manzana-jesuitica-1024x685.jpg "Córdoba se encuentra a 35 km de Alta Gracia y es la capital de la provincia homónima. © Turismo de Córdoba")
 
 Lejos del turismo de masas, descubrimos las particularidades de la **personalidad 
 cordobesa**: ese acento, esa tonada —no pensarás que hablan igual que los bonaerenses—, 
@@ -139,7 +139,7 @@ su sentido del humor —cuánto sarcasmo hay en sus chistes— o el ritmo de sus
 Por todas estas razones y por muchísimas más, los encantos de **Alta Gracia** y de toda 
 la provincia de Córdoba nos han conquistado. 
 
-![Calles en Córdoba, Argentina](etheria-images/2019/02/viaje-cordoba-yrigoyen-guemes-1024x506.jpg "Avenida Hipólito Yrigoyen, en el barrio Nueva Córdoba, y barrio de Güemes, donde se concentra la vida nocturna cordobesa. © K.R.")
+![Calles en Córdoba, Argentina](https://fotos.etheriamagazine.com/2019/02/viaje-cordoba-yrigoyen-guemes-1024x506.jpg "Avenida Hipólito Yrigoyen, en el barrio Nueva Córdoba, y barrio de Güemes, donde se concentra la vida nocturna cordobesa. © K.R.")
 
 ## CONSEJOS ETHERIA
 

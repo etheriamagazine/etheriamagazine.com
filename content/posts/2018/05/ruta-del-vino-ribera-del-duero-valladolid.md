@@ -1,7 +1,7 @@
 ---
 title: "Ruta por Ribera del Duero: de bodega en bodega por la N-122"
 date: 2018-05-21
-coverImage: etheria-images/2018/05/Finca-Villacreces.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Finca-Villacreces.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -14,7 +14,7 @@ largo y 35 de ancho vertebrados por el Duero, este río del vino que convierte e
 todo lo que toca. Dentro de esta amplia extensión, hoy quiero que recorramos juntos unos 
 15 kilómetros, los que unen Soria, Peñafiel y Tudela de Duero a través de la carretera. 
 
-![Picnic sobre dos ruedas, una de las experiencias de Finca Villacreces.](etheria-images/2018/05/picnic-Finca-Villacreces.jpg "Picnic sobre dos ruedas, una de las experiencias de © Finca Villacreces.")
+![Picnic sobre dos ruedas, una de las experiencias de Finca Villacreces.](https://fotos.etheriamagazine.com/2018/05/picnic-Finca-Villacreces.jpg "Picnic sobre dos ruedas, una de las experiencias de © Finca Villacreces.")
 
 Actualizado 2023 
 
@@ -29,7 +29,7 @@ recorrido que recoge la esencia de esta “Milla de Oro”, un tramo de la ruta 
 Ribera del Duero que forma parte de mi corazón y de mis mejores recuerdos. Espero que os 
 guste. 
 
-![El castillo de Peñafiel vigila atento la bodega Protos.](etheria-images/2018/05/Protos-vista-aerea-e1561365532457.jpg "El castillo de Peñafiel vigila atento la bodega Protos.")
+![El castillo de Peñafiel vigila atento la bodega Protos.](https://fotos.etheriamagazine.com/2018/05/Protos-vista-aerea-e1561365532457.jpg "El castillo de Peñafiel vigila atento la bodega Protos.")
 
 ## Ruta de Peñafiel a Valladolid
 
@@ -55,7 +55,7 @@ encontrar, desde su gama más básica hasta los vinos más top de la casa. Mi fa
 box_ el vino que queda sin contraetiquetar por la DO, un tinto "a granel" para todos los 
 días, bastante correcto y a un precio insuperable. 
 
-![La finca Villacreces se encuentra en un frondoso pinar.](etheria-images/2018/05/Villacreces-e1561365617301.jpg "La finca Villacreces se encuentra en un frondoso pinar.")
+![La finca Villacreces se encuentra en un frondoso pinar.](https://fotos.etheriamagazine.com/2018/05/Villacreces-e1561365617301.jpg "La finca Villacreces se encuentra en un frondoso pinar.")
 
 ### Villacreces
 
@@ -68,7 +68,7 @@ encantadora de conocer, no solo Pruno, sino la Ribera. También ofrecen visitas 
 convencionales, armonías con quesos y organizan lo que ellos llaman **Días Pruno**: 
 festivales de música, foodtrucks y vino. ¿Se puede pedir más? 
 
-![Patio de una bodega con un olivo.](etheria-images/2018/05/Villacreces-032-e1561365648592.jpg "Bodegas de Ribera del Duero")
+![Patio de una bodega con un olivo.](https://fotos.etheriamagazine.com/2018/05/Villacreces-032-e1561365648592.jpg "Bodegas de Ribera del Duero")
 
 ### Vega Sicilia
 
@@ -95,7 +95,7 @@ son los Gran Reserva en la Ribera, tienen uno maravilloso y que en la añada que
 ahora en el mercado, la 2009, no para de cosechar premios (el mejor Ribera del Duero en 
 los premios de la prestigiosa revista Decanter, por ejemplo). 
 
-![Bodega Abadía Retuerta y botella de gran formato de su vino Selección Especial.](etheria-images/2018/05/Le-domaine-bodega-Abadia-Retuerta.jpg "Bodega Abadía Retuerta y botella de gran formato de su vino Selección Especial. © SG")
+![Bodega Abadía Retuerta y botella de gran formato de su vino Selección Especial.](https://fotos.etheriamagazine.com/2018/05/Le-domaine-bodega-Abadia-Retuerta.jpg "Bodega Abadía Retuerta y botella de gran formato de su vino Selección Especial. © SG")
 
 ### Abadía Retuerta
 
@@ -113,7 +113,7 @@ pueden crear, sin corsés, los vinos que desean, con la combinación de uvas y e
 en barrica que consideren oportunas. Encontraréis entre sus muros experiencias 
 enogastronómicas para todos los gustos y bolsillos: picnics, paseos a caballo, armonías… 
 
-![Ruta Vino Ribera del Duero, viaje con amigas](etheria-images/2018/05/Protos-vinedo_protos-e1561365688108.jpg "En otoño los viñedos conforman un paisaje donde los verdes, ocres y amarillos se confunden.")
+![Ruta Vino Ribera del Duero, viaje con amigas](https://fotos.etheriamagazine.com/2018/05/Protos-vinedo_protos-e1561365688108.jpg "En otoño los viñedos conforman un paisaje donde los verdes, ocres y amarillos se confunden.")
 
 Aquí termina el recorrido. Muchas bodegas y lugares históricos se quedan en el tintero, 
 pero en esta ocasión, simplemente quería que recorrierais conmigo estos pocos 
@@ -150,7 +150,7 @@ todoterreno, el monasterio, y cata de vinos, a experiencias que se completan con
 aperitivo campero, un paseo a caballo, cata entre barricas… Carretera Nacional 122, km. 
 332,5. Inf. y reservas en el 983 680 314 
 
-![hoteles de lujo en valladolid](etheria-images/2018/05/Le-Domaine-vinedos.jpg "Hotel Le Domaine en Abadía Retuerta y sus viñedos. © SG")
+![hoteles de lujo en valladolid](https://fotos.etheriamagazine.com/2018/05/Le-Domaine-vinedos.jpg "Hotel Le Domaine en Abadía Retuerta y sus viñedos. © SG")
 
 ### Dónde dormir en Ribera del Duero
 

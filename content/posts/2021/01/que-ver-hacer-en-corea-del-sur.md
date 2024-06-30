@@ -1,7 +1,7 @@
 ---
 title: "Descubre Corea del Sur, uno de los secretos mejor guardados de Asia"
 date: 2021-01-14
-coverImage: etheria-images/2020/02/viaje-corea-seul.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-corea-seul.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Corea del Sur es uno de esos destinos de los que no sabemos tanto como quisiéramos, y que saltó a la actualidad por su buen control del coronavirus durante los inicios de la pandemia. Para comprobar que existe, que se despierta a diario con los rayos del Sol Naciente, y que está dispuesto a recibir al viajero con los brazos abiertos, fuimos a conocerlo y os lo contamos.
 
-![viaje a seul, arquitectura seul](etheria-images/2020/02/viaje-corea-seul-900x604.jpg "Contrastes arquitectónicos en Seúl. © KTO")
+![viaje a seul, arquitectura seul](https://fotos.etheriamagazine.com/2020/02/viaje-corea-seul-900x604.jpg "Contrastes arquitectónicos en Seúl. © KTO")
 
 No hace tanto tiempo que Corea del Sur pertenecía a ese grupo de lejanos países a los 
 que no se nos ocurría viajar; en parte porque no aparecía en los programas de agencias 
@@ -22,7 +22,7 @@ presencia en la Feria Internacional de Turismo de Madrid (FITUR). Y, naturalment
 refiero a **Corea del Sur**, porque Corea del Norte se rige por otras coordenadas 
 existenciales. 
 
-![Puente Gwangandaegyo, Busan, viaje corea](etheria-images/2020/02/viaje-corea-sur-Busan-Puente-Gwangandaegyo--900x523.jpg "Puente Gwangandaegyo (Busan). © KTO")
+![Puente Gwangandaegyo, Busan, viaje corea](https://fotos.etheriamagazine.com/2020/02/viaje-corea-sur-Busan-Puente-Gwangandaegyo--900x523.jpg "Puente Gwangandaegyo (Busan). © KTO")
 
 ¿No os parece que el ansia de conocimiento que debe tener cualquier viajero que se 
 precie es motivo más que suficiente para interesarse por la cultura de este país? Pues 
@@ -50,7 +50,7 @@ artículo.
 > Emociones viajeras: desde la vanguardia musical del K-pop hasta la Tripitaka, la 
 > colección de tablillas grabadas con las sagradas escrituras del budismo. 
 
-![k pop, grupo por girls generation](etheria-images/2020/02/viaje-corea-K-pop-900x417.jpg "Grupo de pop Girl's Generation, un buen representante del K-pop.")
+![k pop, grupo por girls generation](https://fotos.etheriamagazine.com/2020/02/viaje-corea-K-pop-900x417.jpg "Grupo de pop Girl's Generation, un buen representante del K-pop.")
 
 ## Seúl, la reina del K-Pop
 
@@ -64,7 +64,7 @@ ver con la _K-fashion_ (en general) está en Seúl: jóvenes que pavonean una se
 andrógina, luciendo peinados a trasquilones y flequillos rubios o rastas de colores; y 
 se visten con ropas increíblemente sofisticadas. 
 
-![Templo Tolharubang, isla de Jeju, viaje corea](etheria-images/2020/02/viaje-corea-sur-Isla-Cheju-Templo-tolharubang-900x548.jpg "Templo con guardianes tolharubang, en la isla de Jeju. © KTO")
+![Templo Tolharubang, isla de Jeju, viaje corea](https://fotos.etheriamagazine.com/2020/02/viaje-corea-sur-Isla-Cheju-Templo-tolharubang-900x548.jpg "Templo con guardianes tolharubang, en la isla de Jeju. © KTO")
 
 Merece la pena verlo como fenómeno sociológico, pero para apreciar la ‘otra Corea’, la 
 más tradicional y enigmática, tenemos que plantearnos un mínimo recorrido por otras 
@@ -76,7 +76,7 @@ que junto a unas extrañas esculturas de basalto volcánico –los _tolharubang_
 significa literalmente abuelo)–, pertenecientes a alguna extinguida civilización 
 animista, preservan a sus habitantes de posibles desgracias. La isla misteriosa. 
 
-![Montaña Seoraksan, viaje corea del sur](etheria-images/2020/02/viaje-corea-sur-Montana-Seoraksan-900x572.jpg "Montaña Seoraksan. © KTO")
+![Montaña Seoraksan, viaje corea del sur](https://fotos.etheriamagazine.com/2020/02/viaje-corea-sur-Montana-Seoraksan-900x572.jpg "Montaña Seoraksan. © KTO")
 
 ## Qué ver en el resto de Corea del Sur
 
@@ -93,7 +93,7 @@ tesoros encontrados en el Parque Tumuli están depositados en el Museo Nacional 
 ciudad. Allí también se exhibe la legendaria **campana Emile**_,_ la más grande y sonora 
 de toda Asia. 
 
-![Templo Bulguksa y Tumula Park](etheria-images/2020/02/Kyeongju-templo-Bulguksa-Tumuli-park-900x290.jpg "Templo Bulguksa y Tumula Park, en Kyeongju. © KTO")
+![Templo Bulguksa y Tumula Park](https://fotos.etheriamagazine.com/2020/02/Kyeongju-templo-Bulguksa-Tumuli-park-900x290.jpg "Templo Bulguksa y Tumula Park, en Kyeongju. © KTO")
 
 En los alrededores de Kyeongju se encuentra el templo **Bulguksa**, considerado el 
 templo nacional del budismo coreano. Construido sobre terrazas escalonadas, refleja el 
@@ -108,14 +108,14 @@ fantasear ¿Alguien ofrece más ensoñación?
 > En Ja-ha-Moon debería de estar prohibido llevar el móvil encendido, pero en Corea no se 
 > apagan los móviles ni en ‘el jardín del silencio’. 
 
-![Kyeongju, Gruta Sokkuram, viaje corea del sur](etheria-images/2020/02/viaje-corea-sur-Kyeongju-Gruta-Sokkuram-900x670.jpg "Buda Sakyamuni, en la gruta Sokkuram de Kyeongju. © KTO")
+![Kyeongju, Gruta Sokkuram, viaje corea del sur](https://fotos.etheriamagazine.com/2020/02/viaje-corea-sur-Kyeongju-Gruta-Sokkuram-900x670.jpg "Buda Sakyamuni, en la gruta Sokkuram de Kyeongju. © KTO")
 
 La visita al templo Bulguksa se completa con una agradable caminata hacia la montaña por 
 un sendero que se abre entre un tupido bosque de pinos milenarios que conduce a la gruta 
 **Sokkuram**. Allí, rodeada de divinidades, está la gigantesca imagen del buda 
 Sakyamuni_,_ que mira, estoicamente, hacia más allá de las colinas boscosas. 
 
-![Templo Haeinsa, viaje corea del sur](etheria-images/2020/02/viaje-corea-sur-Templo-Haeinsa-Tripitaka-900x647.jpg "Templo Haeinsa. Tripitaka coreana. ©KTO")
+![Templo Haeinsa, viaje corea del sur](https://fotos.etheriamagazine.com/2020/02/viaje-corea-sur-Templo-Haeinsa-Tripitaka-900x647.jpg "Templo Haeinsa. Tripitaka coreana. ©KTO")
 
 El templo de **Haeinsa** es conocido por la comunidad budista mundial por ser el 
 depositario de la llamada **Tripitaka**. Es la colección formada por 80.000 tablillas de 
@@ -123,7 +123,7 @@ madera de abedul en las que fueron grabadas las sagradas escrituras del budismo 
 siglo XIII. Originariamente escritas en sánscrito, fueron traducidas al chino y ahora 
 constituyen el canon budista más completo de esta religión. 
 
-![corea del sur](etheria-images/2020/02/viaje-corea-del-sur-Seul-900x613.jpg "Joven con sombrilla en Seúl, Corea del Sur. © Pedro Grifol")
+![corea del sur](https://fotos.etheriamagazine.com/2020/02/viaje-corea-del-sur-Seul-900x613.jpg "Joven con sombrilla en Seúl, Corea del Sur. © Pedro Grifol")
 
 ## Curiosidades de Corea del Sur
 
@@ -144,7 +144,7 @@ de la población –la supuestamente creyente– pertenece a la comunidad budist
 una religión… pero como si lo fuera), con minorías repartidas entre católicos y 
 protestantes. 
 
-![totems seul](etheria-images/2020/02/viaje-corea-sur-seul-2-900x609.jpg "Tótems en Seúl. © KTO")
+![totems seul](https://fotos.etheriamagazine.com/2020/02/viaje-corea-sur-seul-2-900x609.jpg "Tótems en Seúl. © KTO")
 
 La fragmentación política que divide la península coreana en dos Coreas desde 1953 es 
 considerada como un anacronismo en nuestros días, ya que todos los coreanos se muestran 

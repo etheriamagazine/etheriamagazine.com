@@ -1,7 +1,7 @@
 ---
 title: "Markéta Lehečková: \"Viajar te hace establecer nuevos límites de superación\""
 date: 2018-12-03
-coverImage: etheria-images/2018/11/Marketa-Cesky-Krumlov-mujer-etheria-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/Marketa-Cesky-Krumlov-mujer-etheria-1.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -11,7 +11,7 @@ authors:
 
 Markéta Lehečková es la representante en España de Czech Tourism, una labor que realiza desde 2010, aunque su vinculación con esta entidad ya había comenzado siete años antes como PR&Media Manager. Su interés por el idioma español fue su primer lazo con nuestro país, después vinieron muchos más...
 
-![Markéta Lehečková en Cesky Krumlov.](etheria-images/2018/11/Marketa-Cesky-Krumlov-mujer-etheria-1-1024x538.jpg "Markéta Lehečková en Cesky Krumlov.")
+![Markéta Lehečková en Cesky Krumlov.](https://fotos.etheriamagazine.com/2018/11/Marketa-Cesky-Krumlov-mujer-etheria-1-1024x538.jpg "Markéta Lehečková en Cesky Krumlov.")
 
 Su impecable perfil profesional no entra en conflicto con su carácter extrovertido y 
 alegre porque, como dice Markéta: “Con una sonrisa, aunque a veces cueste, el mundo se 
@@ -53,7 +53,7 @@ afortunado por nacer dónde y cuándo has nacido.
 > nuevos límites de superación. Viajar también permite evadirte y estar a solas contigo 
 > mismo, si lo buscas” 
 
-##### ![Marketa Leheckova es la representante en España de Czech Tourism](etheria-images/2018/11/Marketa-Mikulov.jpg "Markéta Leheckova es la representante en España de Czech Tourism")
+##### ![Marketa Leheckova es la representante en España de Czech Tourism](https://fotos.etheriamagazine.com/2018/11/Marketa-Mikulov.jpg "Markéta Leheckova es la representante en España de Czech Tourism")
 
 **4\. Si pudieses elegir un compañero de viaje. ¿Quién sería y por qué?** 
 
@@ -85,7 +85,7 @@ aeropuerto...
 > Si viajo sola suelo llegar al aeropuerto en el último minuto así que me entretengo 
 > bastante corriendo por la terminal. 
 
-![Meteora, viajes de mujeres](etheria-images/2018/11/meteora-grecia-mujeres-etheria-1024x648.jpg "Meteora (Grecia).")
+![Meteora, viajes de mujeres](https://fotos.etheriamagazine.com/2018/11/meteora-grecia-mujeres-etheria-1024x648.jpg "Meteora (Grecia).")
 
 **7\. ¿Cuál ha sido el mejor viaje de tu vida? ¿Por qué?** 
 
@@ -109,7 +109,7 @@ lista los considerados ‘Pueblos más bonitos de España’).
 > Me volvió a impresionar por su extensión el Desierto de Tabernas. Vengo de un país más 
 > bien pequeño y me siguen sorprendiendo las distancias ¡y el tamaño de todo! 
 
-![viaje con amigas, almeria con amigas](etheria-images/2018/11/carboneras-almeria-1024x660.jpg "Atardecer en Carboneras (Almería).")
+![viaje con amigas, almeria con amigas](https://fotos.etheriamagazine.com/2018/11/carboneras-almeria-1024x660.jpg "Atardecer en Carboneras (Almería).")
 
 **9\. ¿Qué tres viajes que hayas realizado recomendarías a una mujer?** 
 
@@ -123,7 +123,7 @@ Nacional de Ordesa**, que parece impresionante por las fotos que se ven en las r
 de viajes y en redes. Y, también, [Irlanda](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/) 
 para coger el coche y perderme por el país. 
 
-![Marketa Leheckova es la representante en España de Czech Tourism](etheria-images/2018/05/10-Calzada-del-Gigante-Juego-de-Tronos-Irlanda-Norte-1024x661.jpg "Calzada del Gigante (Irlanda del Norte).")
+![Marketa Leheckova es la representante en España de Czech Tourism](https://fotos.etheriamagazine.com/2018/05/10-Calzada-del-Gigante-Juego-de-Tronos-Irlanda-Norte-1024x661.jpg "Calzada del Gigante (Irlanda del Norte).")
 
 **11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto?** 
 
@@ -149,7 +149,7 @@ madera con el aseo químico y si te querías duchar debías bajar del árbol a l
 colectivos. Fue fantástico, fantástico, incluso fui capaz de sobrevivir allí a una 
 tormenta. 
 
-![marketa turismo checo](etheria-images/2018/11/cabaña-1024x768.jpg "Cabaña a 9 metros de altura en el (©) Resort Green Valley (a unos 50 km de Praga).")
+![marketa turismo checo](https://fotos.etheriamagazine.com/2018/11/cabaña-1024x768.jpg "Cabaña a 9 metros de altura en el (©) Resort Green Valley (a unos 50 km de Praga).")
 
 ##### 14\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 

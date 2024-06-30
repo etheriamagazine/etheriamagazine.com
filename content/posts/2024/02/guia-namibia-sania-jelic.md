@@ -1,7 +1,7 @@
 ---
 title: "Guía de viaje de Sania Jelic para recorrer Namibia"
 date: 2024-02-09
-coverImage: etheria-images/2024/02/sania-namibia-desierto-namib.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/02/sania-namibia-desierto-namib.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -17,7 +17,7 @@ cultural de los himba y los herero y el maravilloso Parque Nacional de Etosha. C
 parte de su viaje sola por África, Sania Jelic ha realizado una ruta por Namibia y nos 
 cuenta todos los detalles. 
 
-![Sania Jelic en las dunas del desierto del Namib.](etheria-images/2024/02/sania-namibia-desierto-namib.jpg "Sania Jelic en las dunas del desierto del Namib. © Sania Jelic.")
+![Sania Jelic en las dunas del desierto del Namib.](https://fotos.etheriamagazine.com/2024/02/sania-namibia-desierto-namib.jpg "Sania Jelic en las dunas del desierto del Namib. © Sania Jelic.")
 
 Ya había viajado con anterioridad a Namibia, concretamente en 2018, y me gustó mucho. 
 Tanto que quise volver. Como no tengo suficiente conocimiento sobre supervivencia en el 
@@ -47,7 +47,7 @@ la agencia sudafricana [African Overland Tours](https://www.africanoverlandtours
 la verdad es que fue una experiencia muy interesante. Prácticamente, un dos por uno: por 
 un lado, la visita de los destinos y, por otro, la compañía de los viajeros. 
 
-![Esperando a los animales en el Parque Nacional de Etosha.](etheria-images/2024/02/namibia-sania-etosha-avistamiento-animales.jpg "Esperando a los animales en el Parque Nacional de Etosha. © Sania Jelic.")
+![Esperando a los animales en el Parque Nacional de Etosha.](https://fotos.etheriamagazine.com/2024/02/namibia-sania-etosha-avistamiento-animales.jpg "Esperando a los animales en el Parque Nacional de Etosha. © Sania Jelic.")
 
 ### La experiencia de conocer nuevos compañeros de viaje
 
@@ -89,7 +89,7 @@ comprar provisiones a lo largo del camino, sin señal de móvil y con sólo dos 
 emergencia. Al ser las condiciones climatológicas tan extremas, se requieren permisos y 
 certificados médicos para poder realizar este trekking. 
 
-![Selfies en el desierto del Namib.](etheria-images/2024/02/namibia-desierto-namib-fotos.jpg "'Selfies' en el desierto del Namib. © Sania Jelic.")
+![Selfies en el desierto del Namib.](https://fotos.etheriamagazine.com/2024/02/namibia-desierto-namib-fotos.jpg "'Selfies' en el desierto del Namib. © Sania Jelic.")
 
 ### Desierto del Namib
 
@@ -115,7 +115,7 @@ mientras pastan en las llanuras y se acercan a los charcos de agua. Se pueden ve
 escenas majestuosas con elefantes, elegantes jirafas, rinocerontes negros ¡tan raros! y 
 manadas de leones en su hábitat natural. 
 
-![Gacelas en el Parque Nacional de Etosha.](etheria-images/2024/02/namibia-etosha-animales.jpg "Gacelas en el Parque Nacional de Etosha. © Sania Jelic.")
+![Gacelas en el Parque Nacional de Etosha.](https://fotos.etheriamagazine.com/2024/02/namibia-etosha-animales.jpg "Gacelas en el Parque Nacional de Etosha. © Sania Jelic.")
 
 ### Las ciudades
 
@@ -134,7 +134,7 @@ de etnias como la Himba o la Herero es trágica. De hecho, se considera que en N
 cometió el primer genocidio del siglo XX. La llamativa vestimenta de los Herero 
 representa una buena manera de reivindicar ese pasado. 
 
-![Mujer himba.](etheria-images/2024/02/namibia-sania-himba.jpg "Mujer himba. © Sania Jalic.")
+![Mujer himba.](https://fotos.etheriamagazine.com/2024/02/namibia-sania-himba.jpg "Mujer himba. © Sania Jalic.")
 
 ## Algunos datos prácticos sobre Namibia:
 

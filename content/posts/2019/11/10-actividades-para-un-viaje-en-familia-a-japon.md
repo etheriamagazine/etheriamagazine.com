@@ -1,7 +1,7 @@
 ---
 title: "10 actividades para un viaje en familia a Japón"
 date: 2019-11-21
-coverImage: etheria-images/2019/11/casa-samurai.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/11/casa-samurai.jpg
 categories: 
   - consejos-practicos
   - viaje-en-familia
@@ -16,7 +16,7 @@ cualquier edad. Ofrece también actividades para realizar con los más pequeños
 entorno seguro y limpio en casi cualquier cosa que decidas hacer. Te proponemos 10 
 planes para disfrutar con niños del país nipón. 
 
-![Mujer y niña con traje tradicional japonés](etheria-images/2019/11/Japon-paseo-kimono-900x726.jpg "Fotos con kimonos en el Jardín Kenrokuen de Kanazawa. © SG")
+![Mujer y niña con traje tradicional japonés](https://fotos.etheriamagazine.com/2019/11/Japon-paseo-kimono-900x726.jpg "Fotos con kimonos en el Jardín Kenrokuen de Kanazawa. © SG")
 
 Elegir Japón para un viaje en familia es una excelente opción y merece ser preparado con 
 detalle tal y como os contamos en nuestro artículo [5 recomendaciones para preparar un 
@@ -40,7 +40,7 @@ cerca está el **mercado de Tsukiji** donde, además de poder seguir comiendo su
 podréis comprar los artilugios de cocina necesarios para elaborarlo cuando volváis a 
 casa. 
 
-![Sushi en Tokio](etheria-images/2019/11/japon-clase-sushi-900x293.jpg "Clase de sushi en Tokio. © SG")
+![Sushi en Tokio](https://fotos.etheriamagazine.com/2019/11/japon-clase-sushi-900x293.jpg "Clase de sushi en Tokio. © SG")
 
 ### 2\. Vestir un kimono tradicional y pasear por Kanazawa
 
@@ -54,7 +54,7 @@ peinarán en un momento con un recogido tradicional. A continuación, lo mejor e
 paseo por el cercano y precioso **Jardín Kenrokuen**, repleto de escenarios donde 
 tomarse fotos. 
 
-![Traje tradicional japonés](etheria-images/2019/11/japon-kimono-kanazawa-900x603.jpg "Fotos en el Jardín Kenrokuen y detalle de peinado. © SG")
+![Traje tradicional japonés](https://fotos.etheriamagazine.com/2019/11/japon-kimono-kanazawa-900x603.jpg "Fotos en el Jardín Kenrokuen y detalle de peinado. © SG")
 
 ### 3\. Hacer papel 'washi'
 
@@ -66,7 +66,7 @@ podéis llevar vuestras bonitas tarjetas decoradas. Cuentan también con una int
 tienda con objetos realizados con este tipo de papel: cuadros, bolsos, monederos, 
 lámparas... Un montón de opciones para llevarse un bonito recuerdo. 
 
-![elaboración de papel japonés](etheria-images/2019/11/Japon-hacer-washi-900x430.jpg "Clase de papel 'washi'. © SG")
+![elaboración de papel japonés](https://fotos.etheriamagazine.com/2019/11/Japon-hacer-washi-900x430.jpg "Clase de papel 'washi'. © SG")
 
 ### 4\. Alojarse en un ryokan
 
@@ -82,7 +82,7 @@ mucho tiempo en el agua caliente). La gastronomía, al menos, les sorprenderá y
 es probable que no sea el día que más cenen o desayunen del viaje, podrán aprender que 
 la cocina japonesa tiene muchas más especialidades aparte del sushi. 
 
-![cena tradicional japonesa](etheria-images/2019/11/Japon-ninos-ryokan-900x434.jpg "Cena y detalle del pasillo del ryokan Gora Kadan de Hakone. © SG")
+![cena tradicional japonesa](https://fotos.etheriamagazine.com/2019/11/Japon-ninos-ryokan-900x434.jpg "Cena y detalle del pasillo del ryokan Gora Kadan de Hakone. © SG")
 
 ### 5\. Jugar a videojuegos en el barrio de Akihabara (Tokio)
 
@@ -93,7 +93,7 @@ donde poder jugar a los más novedosos o a los más ‘retro’ tipo Arcade. Tam
 encontrarás tiendas de coleccionistas con todo tipo de tesoros. La más conocida es 
 **Super Potato**, que tiene un museo en su última planta. 
 
-![niños jugando a videojuegos en Japón](etheria-images/2019/11/Japon-akihabara-900x391.jpg "Barrio de Akihabara y juegos Arcade. © SG")
+![niños jugando a videojuegos en Japón](https://fotos.etheriamagazine.com/2019/11/Japon-akihabara-900x391.jpg "Barrio de Akihabara y juegos Arcade. © SG")
 
 ### 6\. Imbuirse en la cultura samurai
 
@@ -105,7 +105,7 @@ de combatir y su indumentaria. También se puede visitar la [Casa Samurai
 Nomura](http://www.nomurake.com) de Kanazawa, un delicado lugar que recrea una casa 
 tradicional samurai. 
 
-![Cultura samurai en Japón](etheria-images/2019/11/japon-samurais-900x350.jpg "Estanque de la Casa Samurai Nomura de Kanazawa y máscara en el Museo Samurai. © SG")
+![Cultura samurai en Japón](https://fotos.etheriamagazine.com/2019/11/japon-samurais-900x350.jpg "Estanque de la Casa Samurai Nomura de Kanazawa y máscara en el Museo Samurai. © SG")
 
 ### 7\. Decorar palillos con pan de oro en Kanazawa
 
@@ -117,7 +117,7 @@ histórico. Tendréis todo preparado cuando lleguéis, la actividad se desarroll
 de una hora y podréis llevaros unos delicados palillos a casa. En esta tienda, además, 
 puedes comprar bonitos detalles de artesanía japonesa. 
 
-![palillos con pan de oro en Japón](etheria-images/2019/11/Japon-ninos-palillos-pan-oro-900x675.jpg "Clase para decorar palillos con pan de oro en Kanazawa. © SG")
+![palillos con pan de oro en Japón](https://fotos.etheriamagazine.com/2019/11/Japon-ninos-palillos-pan-oro-900x675.jpg "Clase para decorar palillos con pan de oro en Kanazawa. © SG")
 
 ### 8\. Cruzar en barco el lago Ashi y subir en teleférico al monte Komagatake (Hakone)
 
@@ -129,7 +129,7 @@ santuario sintoísta y caminos por donde se puede dar un paseo. Y al bajar puede
 en Lake Side Grill, un restaurante buffet que tiene también platos de cocina occidental 
 que encantarán a los más pequeños. 
 
-![Barco pirata en el lago Ashi.](etheria-images/2019/11/Japon-ninos-ashi-900x586.jpg "Barco pirata en el lago Ashi. © SG")
+![Barco pirata en el lago Ashi.](https://fotos.etheriamagazine.com/2019/11/Japon-ninos-ashi-900x586.jpg "Barco pirata en el lago Ashi. © SG")
 
 ### 9\. Divertirse con la cultura 'kawaii' en Tokio
 
@@ -140,7 +140,7 @@ las camisetas hasta los helados. Podréis haceros unas fotos ‘kawaii’ (al pr
 calle hay un sótano con fotomatones donde cabe toda la familia en los que podrás retocar 
 las fotos en este estilo y parecerte a un personaje de cómic japonés). 
 
-![fotos y helado en Tokio](etheria-images/2019/11/Japon-kawaii-fotos-helado.jpg "Mundo 'kawaii': fotomatón para grupos y helado. © SG")
+![fotos y helado en Tokio](https://fotos.etheriamagazine.com/2019/11/Japon-kawaii-fotos-helado.jpg "Mundo 'kawaii': fotomatón para grupos y helado. © SG")
 
 ### 10\. Dar de comer a los ciervos en Nara
 
@@ -153,7 +153,7 @@ sientan intimidados porque los ciervos están tan acostumbrados a que les den co
 incluso os pueden perseguir. Sólo hay que guardar la calma y darles despacio sus 
 galletas. Les encantarán. 
 
-![chica alimentando a un ciervo](etheria-images/2019/11/Nara-ciervos-900x608.jpg "Ciervos en Nara. © SG")
+![chica alimentando a un ciervo](https://fotos.etheriamagazine.com/2019/11/Nara-ciervos-900x608.jpg "Ciervos en Nara. © SG")
 
 **También te puede interesar:** 
 

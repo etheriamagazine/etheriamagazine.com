@@ -1,7 +1,7 @@
 ---
 title: "15 lugares de Vizcaya que te dejarán sin aliento"
 date: 2023-05-15
-coverImage: etheria-images/2023/05/san-juan-gaztelugatxe-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/05/san-juan-gaztelugatxe-1.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -15,7 +15,7 @@ territorio vasco desde el interior hasta la costa para recomendarte los lugares
 imprescindibles de Vizcaya y todo aquello que tienes que ver en tu viaje. ¿Nos 
 acompañas? 
 
-![Panorámica de la ría de Bilbao con el Museo Guggenheim en primer plano.](etheria-images/2023/05/bilbao-vistas-ria.jpg "Panorámica de la ría de Bilbao con el Museo Guggenheim en primer plano. © Jorge Fernández Salas")
+![Panorámica de la ría de Bilbao con el Museo Guggenheim en primer plano.](https://fotos.etheriamagazine.com/2023/05/bilbao-vistas-ria.jpg "Panorámica de la ría de Bilbao con el Museo Guggenheim en primer plano. © Jorge Fernández Salas")
 
 Es imposible pensar en una escapada a Bilbao sin plantearse recorrer su entorno porque 
 en la provincia de Vizcaya/Bizkaia todo queda tan cerca que sería una lástima reducirlo 
@@ -36,7 +36,7 @@ metrópolis borrar el color gris de su pasado siderúrgico, cuando el puerto se 
 junto a mar abierto, para reconvertirse en una de las urbes europeas que más motivan una 
 escapada turística. 
 
-![Mercado de la Ribera, en Bilbao.](etheria-images/2023/05/bilbao-mercado-ribera.jpg "Mercado de la Ribera, en Bilbao. © Turismo de Bizkaia")
+![Mercado de la Ribera, en Bilbao.](https://fotos.etheriamagazine.com/2023/05/bilbao-mercado-ribera.jpg "Mercado de la Ribera, en Bilbao. © Turismo de Bizkaia")
 
 ### La grúa Carola y el museo Marítimo
 
@@ -63,7 +63,7 @@ por la línea 1 hasta Algorta.
 ✅ **No te pierdas:** [Getxo, la escapada marinera con mejor rollo de 
 Bizkaia](https://etheriamagazine.com/2022/07/20/que-ver-getxo-visitas-marineras/). 
 
-![Museo de Guggenheim de Bilbao.](etheria-images/2023/05/museo-guggenheim-bilbao.jpg "Museo de Guggenheim de Bilbao. © Piotr Musioł")
+![Museo de Guggenheim de Bilbao.](https://fotos.etheriamagazine.com/2023/05/museo-guggenheim-bilbao.jpg "Museo de Guggenheim de Bilbao. © Piotr Musioł")
 
 ### Museos de arte en Bilbao
 
@@ -89,7 +89,7 @@ de las **Siete Calles.** Famoso destino urbano que concentra el ambiente turíst
 comercial más animado de la ciudad donde entregarse al placer gastronómico de catar unos 
 pintxos (tapas) o ir de vinos (txikitear). 
 
-![Tomar unas gildas es obligatorio en Bilbao.](etheria-images/2018/10/viaje-bilbao-gildas.jpg "Tomar unas gildas es obligatorio en Bilbao. © Pepa García/ Etheria Magazine")
+![Tomar unas gildas es obligatorio en Bilbao.](https://fotos.etheriamagazine.com/2018/10/viaje-bilbao-gildas.jpg "Tomar unas gildas es obligatorio en Bilbao. © Pepa García/ Etheria Magazine")
 
 ## De Bilbao al cielo
 
@@ -114,7 +114,7 @@ y caminar por el parque. Después sólo queda hacerse una foto junto al nombre d
 en grandes letras rojas y admirar la escultura llamada Aterpe (La Huella), realizada en 
 honor a los soldados vascos o gudaris que lucharon en la guerra civil española. 
 
-![Puente Bizkaia.](etheria-images/2023/05/puente-bizkaia-683x1024.jpg "Puente Bizkaia. © David Vives")
+![Puente Bizkaia.](https://fotos.etheriamagazine.com/2023/05/puente-bizkaia-683x1024.jpg "Puente Bizkaia. © David Vives")
 
 ### 3\. Puente Bizkaia
 
@@ -134,7 +134,7 @@ vasco](https://etheriamagazine.com/2021/06/14/12-planes-en-getxo-con-amigas-para
 [Getxo a bocados, una cita exquisita con el 
 paladar](https://etheriamagazine.com/2023/03/30/que-donde-comer-getxo/). 
 
-![Paseo de las Villas de Getxo.](etheria-images/2022/10/paseo-villas-getxo.jpg "Paseo de las Villas de Getxo. © Turismo de Getxo")
+![Paseo de las Villas de Getxo.](https://fotos.etheriamagazine.com/2022/10/paseo-villas-getxo.jpg "Paseo de las Villas de Getxo. © Turismo de Getxo")
 
 ### 4\. Playas de Sopela
 
@@ -157,7 +157,7 @@ la ría asoma la isla de Izaro y hacia levante, cerrando la ría, se divisa la m
 valores naturales que sus gentes han sabido mantener junto a formas de vida 
 tradicionales y una ancestral cultura apegada a sus paisajes marítimos y terrestres. 
 
-![remeros en el cabo de ogono de urdaibai](etheria-images/2021/02/urdaibai-cabo-ogono-677x1024.jpg "Cabo de Ogoño desde el mar. © Juan Carlos Muñoz")
+![remeros en el cabo de ogono de urdaibai](https://fotos.etheriamagazine.com/2021/02/urdaibai-cabo-ogono-677x1024.jpg "Cabo de Ogoño desde el mar. © Juan Carlos Muñoz")
 
 ### 6\. San Juan de Gaztelugatxe
 
@@ -174,7 +174,7 @@ prefieres llevar tu coche, es mejor dejarlo en los aparcamientos de Bakio y Berm
 desde allí acercarte en autobús. No olvides realizar una [reserva 
 previa](https://www.tiketa.eus/gaztelugatxe/) para acceder. 
 
-![Vista panorámica de San Juan de Gaztelugatxe](etheria-images/2023/05/san-juan-gaztelugatxe.jpg "San Juan de Gaztelugatxe. © Max van den Oetelaar")
+![Vista panorámica de San Juan de Gaztelugatxe](https://fotos.etheriamagazine.com/2023/05/san-juan-gaztelugatxe.jpg "San Juan de Gaztelugatxe. © Max van den Oetelaar")
 
 ## Tesoros de la tierra en Vizcaya
 
@@ -197,7 +197,7 @@ visitantes. De paso, aprovecha y recorre los bucólicos valles de Oma y Basondo 
 esconden un bonito panorama rural salpicado de caseríos. Sigue la carretera local desde 
 la cueva para conocerlos a tu ritmo. 
 
-![Cueva de Pozalagua una visita imprescindible en Vizcaya](etheria-images/2023/05/Cueva-Pozalagua-Karrantza-vizcaya.jpg "Cueva de Pozalagua. © Turismo de Bizkaia")
+![Cueva de Pozalagua una visita imprescindible en Vizcaya](https://fotos.etheriamagazine.com/2023/05/Cueva-Pozalagua-Karrantza-vizcaya.jpg "Cueva de Pozalagua. © Turismo de Bizkaia")
 
 ### 8\. Cueva de Pozalagua
 
@@ -216,7 +216,7 @@ pues se halla en el parque natural de Armañón. Más información en cuevadepoz
 ✅ No te pierdas: [Valle de Karrantza, 10 experiencias rurales y genuinas en 
 Vizcaya](https://etheriamagazine.com/2021/08/18/que-ver-y-hacer-en-valle-de-karrantza-vizcaya/). 
 
-![Bonito entorno de la cueva de Pozalagua.](etheria-images/2021/08/dolomita-valle-karrantza-683x1024.jpg "Bonito entorno de la cueva de Pozalagua. © Juan Carlos Muñoz")
+![Bonito entorno de la cueva de Pozalagua.](https://fotos.etheriamagazine.com/2021/08/dolomita-valle-karrantza-683x1024.jpg "Bonito entorno de la cueva de Pozalagua. © Juan Carlos Muñoz")
 
 ### 9\. Monte Gorbeia
 
@@ -229,7 +229,7 @@ pastoriles o txabolas y pastos con vacas y caballos se hace una ruta hasta encon
 pronunciada pendiente final hasta la cumbre. Las vistas en días despejados, desde uno de 
 los lugares que tocan el cielo en Bizkaia, compensan el esfuerzo. 
 
-![Desfiladero de Atxarte, en el Parque Natural Urkiola.](etheria-images/2019/03/viaje-pais-vasco-desfiladero-atxarte-689x1024.jpg "Desfiladero de Atxarte, en el Parque Natural Urkiola.")
+![Desfiladero de Atxarte, en el Parque Natural Urkiola.](https://fotos.etheriamagazine.com/2019/03/viaje-pais-vasco-desfiladero-atxarte-689x1024.jpg "Desfiladero de Atxarte, en el Parque Natural Urkiola.")
 
 ### 10\. Monte Urkiola
 
@@ -274,7 +274,7 @@ busca el **puente Itsasaurre** que, diseñado por el arquitecto Rafael Calatrava
 las aguas del río Artibai. Para disfrutar del ambiente más popular acércate al Puente 
 Viejo, donde se abre la Cofradía de Pescadores y el animado ambiente del mercado. 
 
-![Ondarroa, uno de los pueblos más bonitos de Vizcaya](etheria-images/2023/05/ondarroa-vizcaya.jpg "Ondarroa. © Zarateman")
+![Ondarroa, uno de los pueblos más bonitos de Vizcaya](https://fotos.etheriamagazine.com/2023/05/ondarroa-vizcaya.jpg "Ondarroa. © Zarateman")
 
 ### 12\. Lekeitio
 
@@ -296,7 +296,7 @@ puedes llegar caminando hasta ella.
 contemplar el pintoresco **molino de mareas de Marierrota**. Hoy se ha convertido en un 
 Centro de Interpretación de la Biodiversidad de la marisma que ves a tu alrededor. 
 
-![Lekeitio, uno de los pueblos más bonitos de Vizcaya](etheria-images/2023/05/lekeitio-vizcaya.jpg "Puerto de Lekeitio. © G. Soler/ Pixabay")
+![Lekeitio, uno de los pueblos más bonitos de Vizcaya](https://fotos.etheriamagazine.com/2023/05/lekeitio-vizcaya.jpg "Puerto de Lekeitio. © G. Soler/ Pixabay")
 
 ### 13\. Mundaka
 
@@ -312,7 +312,7 @@ del estuario y las aves migratorias que buscan la tranquilidad la ría. No menos
 sugerente es el mirador de Portuondo, al que te puedes asomar siguiendo la carretera 
 BI-2235 hacia el interior de la ría. 
 
-![Surfista en Mundaka.](etheria-images/2023/05/mundaka-vizcaya.jpg "Surfista en Mundaka. © Miguel A. Amutio")
+![Surfista en Mundaka.](https://fotos.etheriamagazine.com/2023/05/mundaka-vizcaya.jpg "Surfista en Mundaka. © Miguel A. Amutio")
 
 ### 14\. Bermeo
 
@@ -328,7 +328,7 @@ al mirador de Santa Eufemia.
 **Consejo:** No dejes de callejear por el casco viejo y busca el arco de San Juan, que 
 es la única puerta de la muralla medieval que se conserva. 
 
-![Puerto de Bermeo.](etheria-images/2023/05/bermeo-vizcaya.jpg "Puerto de Bermeo. © Juan Manuel García Bilbao")
+![Puerto de Bermeo.](https://fotos.etheriamagazine.com/2023/05/bermeo-vizcaya.jpg "Puerto de Bermeo. © Juan Manuel García Bilbao")
 
 ### 15\. Elantxobe, Ea y Armintza
 

@@ -1,7 +1,7 @@
 ---
 title: "8 viajes para volver a Estados Unidos"
 date: 2021-11-03
-coverImage: etheria-images/2021/10/viajes-estados-unidos-golden-canyon.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-golden-canyon.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 Cada vez más países abren sus fronteras y por fin ha llegado la hora de que Estados Unidos pueda recibir viajeros españoles. Para que vayas poniendo en marcha tu mente pensando en tu próximo viaje a Estados Unidos te damos 8 propuestas inspiradoras para tener en cuenta.
 
-![Golden Canyon viajes a estados unidos](etheria-images/2021/10/viajes-estados-unidos-golden-canyon.jpg "Golden Canyon.")
+![Golden Canyon viajes a estados unidos](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-golden-canyon.jpg "Golden Canyon.")
 
 La Covid paró el mundo de los viajes. Desde el aislamiento de las primeras semanas en 
 nuestros hogares fuimos, poco a poco, abriendo nuestras posibilidades de ocio a nuestras 
@@ -22,7 +22,7 @@ uno de los que estábamos esperando con más ganas, por ser fuente inagotable de
 planes y descubrimientos. Aquí te proponemos **8 viajes por Estados Unidos** para que te 
 hagas una idea de la gran diversidad de este inmenso país. 
 
-![Union Station en Washington](etheria-images/2021/10/viajes-estados-unidos-whasington-noma-union-station.jpg "Union Station, en Washington. © Kris Ubach")
+![Union Station en Washington](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-whasington-noma-union-station.jpg "Union Station, en Washington. © Kris Ubach")
 
 ## Washington DC
 
@@ -34,7 +34,7 @@ Chinatown o las casas tradicionales de Georgetown. Y, por supuesto, las visitas
 imprescindibles: el Capitolio, la estatua de Abraham Lincoln y los museos de 
 Smithsonian. Ten muy en cuenta a esta ciudad en tu próximo viaje a Estados a Unidos. 
 
-![North Beach barrio italiano de San Francisco](etheria-images/2021/10/viajes-estados-unidos-North-Beach-san-francisco-900x553.jpg "North Beach, el barrio italiano de San Francisco. © 2010 Scott Chernis Ph.")
+![North Beach barrio italiano de San Francisco](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-North-Beach-san-francisco-900x553.jpg "North Beach, el barrio italiano de San Francisco. © 2010 Scott Chernis Ph.")
 
 ## San Francisco
 
@@ -49,7 +49,7 @@ hacer un pícnic en Alamo Square frente a las famosas Painted Ladies (unas casas
 de bonitos colores), descubrir máscaras africanas en The Young Museum o perderte por 
 North Beach, el barrio italiano? 
 
-![Padel surf en Arizona viajes a estados unidos](etheria-images/2021/10/viajes-estados-unidos-arizona-padel-surf-900x600.jpg "Padel surf en Arizona. © Kris Ubach")
+![Padel surf en Arizona viajes a estados unidos](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-arizona-padel-surf-900x600.jpg "Padel surf en Arizona. © Kris Ubach")
 
 ## Arizona
 
@@ -61,7 +61,7 @@ otros menos conocidos, pero absolutamente sorprendentes, como el Antelope Canyon
 Además, aportamos consejos sobre los mejores deportes de aventura y dónde alojarte. 
 Imprescindible si estás buscando un “territorio salvaje”. 
 
-![Nantucket viajes a estados unidos](etheria-images/2021/10/viajes-estados-unidos-Nantucket.jpg "Nantucket.")
+![Nantucket viajes a estados unidos](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-Nantucket.jpg "Nantucket.")
 
 ## Nantucket, la isla de Moby Dick
 
@@ -75,7 +75,7 @@ Massachussetts es uno de los lugares más glamurosos de Estados Unidos, con prec
 playas, una arquitectura única y una gastronomía donde no faltan las ostras y la 
 langosta. Apetece, ¿verdad? 
 
-![Dunas Mesquite en el desierto de Mojave](etheria-images/2021/10/Viajes-estados-unidos-dunas-mesquite.jpg "Dunas Mesquite en el desierto de Mojave.")
+![Dunas Mesquite en el desierto de Mojave](https://fotos.etheriamagazine.com/2021/10/Viajes-estados-unidos-dunas-mesquite.jpg "Dunas Mesquite en el desierto de Mojave.")
 
 ## Lejano Oeste
 
@@ -89,7 +89,7 @@ Lake, uno de los lagos más salados y antiguos del mundo. En este territorio de 
 superlativas te aseguramos que te sentirás como una auténtica viajera, de las que 
 todavía podían descubrir lugares inexplorados. 
 
-![Canales de Miami](etheria-images/2021/10/viajes-estados-unidos-miami-paseo-canales.jpg "Canales de Miami.")
+![Canales de Miami](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-miami-paseo-canales.jpg "Canales de Miami.")
 
 ## Miami
 
@@ -104,7 +104,7 @@ ver cocodrilos o incluso [asistir a un partido de la
 NBA](https://www.nba.com/heat/tickets/miami-heat-tickets). Seguro que pasáis unos días 
 geniales. 
 
-![Francis Ford Coppola Winery](etheria-images/2021/10/viajes-estados-unidos-Francis-Ford-Coppola-Winery.jpg "Francis Ford Coppola Winery. © P. Grifol")
+![Francis Ford Coppola Winery](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-Francis-Ford-Coppola-Winery.jpg "Francis Ford Coppola Winery. © P. Grifol")
 
 ## Enoturismo en California
 
@@ -118,7 +118,7 @@ te estreses por querer verlo todo, entre los condados de Russian Valley, Napa y 
 suman unas 700 bodegas. Como siempre, el valor de la experiencia de viajar está en el 
 camino tranquilo y disfrutón que seguro que encuentras por estas tierras. 
 
-![Escultura de Kusama en el Jardín Botánico de Nueva York](etheria-images/2021/10/viajes-estados-unidos-jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg "Escultura de Kusama en el Jardín Botánico de Nueva York. © Robert Benson")
+![Escultura de Kusama en el Jardín Botánico de Nueva York](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg "Escultura de Kusama en el Jardín Botánico de Nueva York. © Robert Benson")
 
 ## Nueva York
 

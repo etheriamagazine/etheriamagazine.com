@@ -1,7 +1,7 @@
 ---
 title: "Andalucía en autocaravana y consejos prácticos para novatos"
 date: 2021-04-07
-coverImage: etheria-images/2021/04/autocaravana-estacionar.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/04/autocaravana-estacionar.jpg
 categories: 
   - planes-originales-para-mujeres
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 ##### Encontrar las mejores rutas en autocaravana, camperizar tu vehículo o alquilar una caravana se han convertido en los últimos tiempos en prioridades que ni tan siquiera imaginábamos hace unos años. En este artículo te damos pistas para acertar en todo ello, y te invitamos a recorrer parte de Andalucía en autocaravana.
 
-![andalucia en autocaravana](etheria-images/2021/04/autocaravana-estacionar.jpg "Viajar en autocaravana, una forma original de descubrir España.")
+![andalucia en autocaravana](https://fotos.etheriamagazine.com/2021/04/autocaravana-estacionar.jpg "Viajar en autocaravana, una forma original de descubrir España.")
 
 Todos aquellos que hemos descubierto recientemente el mundo de las casas rodantes 
 empezamos buscando el destino deseado, en este caso planeamos recorrer **Andalucía en 
@@ -43,7 +43,7 @@ conducir.
 rodante. Incluso puedes adaptar el tuyo, en esta [web](https://campermania.es/camperizar-furgoneta-paso-a-paso/) 
 encontrarás ideas sorprendentes. 
 
-![ruta en camper por andalucia](etheria-images/2021/04/almeria-caravana.jpg "Una de las clásicas camper para viajar con total libertad.")
+![ruta en camper por andalucia](https://fotos.etheriamagazine.com/2021/04/almeria-caravana.jpg "Una de las clásicas camper para viajar con total libertad.")
 
 ¿Qué tener en cuenta a la hora de alquilar la autocaravana? Algunas cosas son obvias, 
 como elegir la capacidad que necesitas en función de las personas que vayan a viajar, y 
@@ -61,7 +61,7 @@ decir que una sencillita para 4 personas y sin extras te puede salir una semana 
 700 euros. Hay bastante diferencia entre modelos, empresas y momentos del año, así que 
 consulta en varias. 
 
-![rutas en autocaravana](etheria-images/2021/04/viajar-autocaravana.jpg "Debes tener en cuenta que estacionar no es lo mismo que acampar.")
+![rutas en autocaravana](https://fotos.etheriamagazine.com/2021/04/viajar-autocaravana.jpg "Debes tener en cuenta que estacionar no es lo mismo que acampar.")
 
 ## Autocaravanas en España, normas y reglamentos oficiales
 
@@ -78,7 +78,7 @@ ello. Estudia este [documento de la
 DGT](https://www.dgt.es/Galerias/seguridad-vial/consejo-superior-de-seguridad-vial/grupos-trabajo/GT-53-Movilidad_Autocaravanas.pdf) 
 donde te quedará todo más claro, y ten la normativa a mano por si llega el caso... 
 
-![remolques caravanas para coche](etheria-images/2021/04/caravana-remolque.jpg "Caravana tipo remolque para enganchar al vehículo.")
+![remolques caravanas para coche](https://fotos.etheriamagazine.com/2021/04/caravana-remolque.jpg "Caravana tipo remolque para enganchar al vehículo.")
 
 ## Andalucía en autocaravana, una gran ruta en cinco etapas
 
@@ -89,7 +89,7 @@ tengas los servicios pertinentes, como agua o lugares para verter los desechos. 
 muchas aplicaciones que te darán buenas sugerencias para acampar, algunas que puedes 
 descargar son **Park4night** y ****Autocaravanas en ruta****. 
 
-![mezquita catedral de cordoba](etheria-images/2021/04/cordoba-mezquita.jpg "Interior de la Mezquita-catedral de Córdoba.")
+![mezquita catedral de cordoba](https://fotos.etheriamagazine.com/2021/04/cordoba-mezquita.jpg "Interior de la Mezquita-catedral de Córdoba.")
 
 ### 1\. Córdoba y Sevilla en autocaravana
 
@@ -103,7 +103,7 @@ restaurantes](https://etheriamagazine.com/2019/03/25/viaje-amigas-que-comer-dorm
 (mira el listado). Antes de continuar en dirección a Sevilla es interesante hacer una 
 parada para conocer las **ruinas de la ciudad de Medina Azahara**. 
 
-![viaje autocaravana sevilla](etheria-images/2021/04/sevilla-autocaravana.jpg "Sevilla al anochecer.")
+![viaje autocaravana sevilla](https://fotos.etheriamagazine.com/2021/04/sevilla-autocaravana.jpg "Sevilla al anochecer.")
 
 Una vez en la capital andaluza, puedes dejar el vehículo en alguna zona parking (hay 
 varios por el centro) para conocer la ciudad cómodamente. Aquí también te aconsejamos 
@@ -112,7 +112,7 @@ Reales Alcázares, barrios de Santa Cruz y Triana y plaza de España. No olvides
 el atardecer desde **Las Setas**, una artística plataforma de madera situada en la plaza 
 de la Encarnación, y recorrer la ribera del Guadalquivir. 
 
-![Barricas en una bodega de Jerez.](etheria-images/2020/11/Andalucia-bodega-jerez-amigas.jpg "Bodegas en Jerez de la Frontera.")
+![Barricas en una bodega de Jerez.](https://fotos.etheriamagazine.com/2020/11/Andalucia-bodega-jerez-amigas.jpg "Bodegas en Jerez de la Frontera.")
 
 ### 2\. Cádiz en autocaravana, de la sierra al mar
 
@@ -133,7 +133,7 @@ el [Sanlúcar AC
 Parking](https://www.areasac.es/sanlucar-de-barrameda/cadiz/sanlucar-de-barrameda_3178_1_ap.html), 
 que está a 50 metros de la playa. 
 
-![cala del tio juan medina conil de la frontera](etheria-images/2021/01/cala-tio-juan-medina.jpg "Cala del Tío Juan Medina (Conil). © Etheria M.")
+![cala del tio juan medina conil de la frontera](https://fotos.etheriamagazine.com/2021/01/cala-tio-juan-medina.jpg "Cala del Tío Juan Medina (Conil). © Etheria M.")
 
 ### De Cádiz a Tarifa
 
@@ -158,7 +158,7 @@ Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-bael
 que te pillará de paso. El municipio de Tarifa cuenta con varios campings, que están 
 fenomenal, donde acampar el vehículo para gozar de su animado ambiente. 
 
-![calle ancha, marbella](etheria-images/2019/05/viaje-marbella-calle-ancha.jpg "Calle Ancha de Marbella.")
+![calle ancha, marbella](https://fotos.etheriamagazine.com/2019/05/viaje-marbella-calle-ancha.jpg "Calle Ancha de Marbella.")
 
 ### 3\. Ronda, Marbella y Málaga, trío de ases
 
@@ -173,7 +173,7 @@ una capital que está en constante cambio. Apunta en tu agenda el castillo de Gi
 la Catedral y algunos espacios de cultura como Museo Picasso, Museo de Carmen Thyssen, 
 Pompidou-Málaga y Museo Ruso. 
 
-![montefrio en granada](etheria-images/2021/04/granada-autocaravana.jpg "Perfil de Montefrío, en Granada.")
+![montefrio en granada](https://fotos.etheriamagazine.com/2021/04/granada-autocaravana.jpg "Perfil de Montefrío, en Granada.")
 
 ### 4\. Granada en autocaravana
 
@@ -188,7 +188,7 @@ todo el año), desde donde te puedes mover a pie o en transporte público. Con e
 alojamiento solucionado, sólo tendrás que preocuparte de elegir el orden en el que 
 realizar las visitas esenciales. 
 
-![alhambra](etheria-images/2020/05/granada-mujeres-alhambra-1-900x588.jpg "Alhambra (Granada). © Austin Gardner")
+![alhambra](https://fotos.etheriamagazine.com/2020/05/granada-mujeres-alhambra-1-900x588.jpg "Alhambra (Granada). © Austin Gardner")
 
 ¿Qué ver en Granada? La única visita que no podrás improvisar es la de La Alhambra y los 
 Jardines del Generalife (reserva entradas y [visita 
@@ -201,7 +201,7 @@ de las Ciencias Andalucía-Granada, y si te gusta comer bien consulta en esta [g
 buenos restaurantes de 
 Granada](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/). 
 
-![isleta del moro en almeria](etheria-images/2020/06/almeria-isleta-del-moro-900x635.jpg "Isleta del Moro, en Almería.")
+![isleta del moro en almeria](https://fotos.etheriamagazine.com/2020/06/almeria-isleta-del-moro-900x635.jpg "Isleta del Moro, en Almería.")
 
 ### 5\. Almería en autocaravana
 

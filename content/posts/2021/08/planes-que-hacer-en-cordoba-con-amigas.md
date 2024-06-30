@@ -1,7 +1,7 @@
 ---
 title: "Córdoba con amigas: 10 planes para una escapada perfecta"
 date: 2021-08-25
-coverImage: etheria-images/2021/08/cordoba-alcazar-reyes-cristianos.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/08/cordoba-alcazar-reyes-cristianos.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
@@ -13,7 +13,7 @@ authors:
 
 La ciudad de Córdoba tiene que ser una de tus primeras opciones si estás planeando una escapada con amigas. Lo tiene todo: arte, cultura, gastronomía y es muy accesible gracias al AVE. Aquí te damos diez planes para ayudarte a planificar un fin de semana o un puente que será memorable.
 
-![El Puente Romano de Córdoba al atardecer.](etheria-images/2021/08/cordoba-puente.jpg "El Puente Romano de Córdoba al atardecer.")
+![El Puente Romano de Córdoba al atardecer.](https://fotos.etheriamagazine.com/2021/08/cordoba-puente.jpg "El Puente Romano de Córdoba al atardecer.")
 
 En Córdoba nada puede salir mal. Esta ciudad ofrece tanto al visitante que da para todos 
 los viajes que quieras, ya que siempre puedes descubrir un nuevo restaurante, un patio 
@@ -33,7 +33,7 @@ barroco. Pasear por el Patio de los Naranjos y bajo sus arcos bicolores o sorpre
 con el altar mayor o la capilla real serán solo algunas de las experiencias que podréis 
 tener en este gran templo. 
 
-![Capilla Real de la mezquita-catedral de Córdoba.](etheria-images/2021/08/cordoba-capilla-real-mezquita-681x1024.jpg "Capilla Real de la mezquita-catedral de Córdoba.")
+![Capilla Real de la mezquita-catedral de Córdoba.](https://fotos.etheriamagazine.com/2021/08/cordoba-capilla-real-mezquita-681x1024.jpg "Capilla Real de la mezquita-catedral de Córdoba.")
 
 Una muy buena opción para visitarla, o revisitarla, es hacer la visita nocturna **“El 
 Alma de Córdoba”** donde la luz, el sonido y la imagen consiguen crear una atmósfera que 
@@ -57,7 +57,7 @@ dejarán mil rincones donde haceros unas fotos. Sobre todo el del **patio Mudéj
 sus acequias y albercas, que es un auténtico remanso de paz y tranquilidad donde dejarse 
 arrullar por el sonido del agua. 
 
-![Alcázar de los Reyes Cristianos.](etheria-images/2021/08/cordoba-alcazar-reyes-cristianos.jpg "Alcázar de los Reyes Cristianos.")
+![Alcázar de los Reyes Cristianos.](https://fotos.etheriamagazine.com/2021/08/cordoba-alcazar-reyes-cristianos.jpg "Alcázar de los Reyes Cristianos.")
 
 En la [web del Alcázar](https://alcazardelosreyescristianos.cordoba.es/?id=3) se 
 encuentran disponibles los horarios y precios. También podéis reservar una [visita 
@@ -74,7 +74,7 @@ la Vieja’ era en realidad el palacio de Abderramán, no fue hasta principios d
 cuando comenzaron las excavaciones de este yacimiento sobre el que se sigue trabajando y 
 estudiando. 
 
-![Medina Azahara.](etheria-images/2021/08/cordoba-medina-azahara.jpg "Medina Azahara.")
+![Medina Azahara.](https://fotos.etheriamagazine.com/2021/08/cordoba-medina-azahara.jpg "Medina Azahara.")
 
 Medina Azahara está situada a tan solo 8 kilómetros de Córdoba, por lo que es de fácil 
 acceso. No puedes perderte alguno de sus lugares más emblemáticos como el Salón Rico, el 
@@ -98,7 +98,7 @@ embutidos o chacinas. Para no complicarte lo mejor es [reservar el desayuno
 molinero](https://www.civitatis.com/es/cordoba/cata-aceites-desayuno-molinero/?aid=10211); 
 además, va acompañado de una cata de aceites. 
 
-![aceite de oliva de Córdoba.](etheria-images/2021/08/cordoba-aceite-desayuno.jpg "El aceite de oliva y las aceitunas forman parte del desayuno molinero.")
+![aceite de oliva de Córdoba.](https://fotos.etheriamagazine.com/2021/08/cordoba-aceite-desayuno.jpg "El aceite de oliva y las aceitunas forman parte del desayuno molinero.")
 
 ## Un recorrido por los patios de Córdoba
 
@@ -111,7 +111,7 @@ hecho, los veréis mucho más tranquilas fuera de temporada. Una foto bonita de 
 de este viaje a Córdoba con amigas podría ser en la **Calleja de las Flores**, con la 
 torre de la catedral al fondo. 
 
-![Patio cordobés.](etheria-images/2021/08/Cordoba-Patio-Cordobes-683x1024.jpg "Patio cordobés. © Turismo de Andalucía")
+![Patio cordobés.](https://fotos.etheriamagazine.com/2021/08/Cordoba-Patio-Cordobes-683x1024.jpg "Patio cordobés. © Turismo de Andalucía")
 
 Podéis consultar los que están abiertos en la [página web de Turismo de 
 Córdoba](https://www.turismodecordoba.org/visitar-patios-de-cordoba-1) o apuntaros a una [visita 
@@ -130,7 +130,7 @@ tapices. Podéis visitarlo por vuestra cuenta (consulta horarios en la [web del
 palacio-museo](http://www.palaciodeviana.com)) o con una [visita guiada por el 
 palaci](https://www.civitatis.com/es/cordoba/visita-patios-palacio-viana/?aid=10211)[o](https://www.civitatis.com/es/cordoba/visita-patios-palacio-viana/?aid=10211). 
 
-![Palacio de Viana.](etheria-images/2021/08/Cordoba-Palacio-de-Viana.jpg "Palacio de Viana. © Turismo de Andalucía.")
+![Palacio de Viana.](https://fotos.etheriamagazine.com/2021/08/Cordoba-Palacio-de-Viana.jpg "Palacio de Viana. © Turismo de Andalucía.")
 
 ## Un paseo por la Judería
 
@@ -143,7 +143,7 @@ Península Ibérica formado por las cuatro letras hebreas que forman la palabra
 ‘Sefarad’). No hay que perderse la **sinagoga**, una de las mejor conservadas de toda 
 España ni la **estatua del filósofo y médico Maimónides**. 
 
-![Calleja del Indiano en el barrio de La Judería.](etheria-images/2021/08/Cordoba-Calleja-del-Indiano.jpg "Calleja del Indiano en el barrio de La Judería. © Turismo de Andalucía")
+![Calleja del Indiano en el barrio de La Judería.](https://fotos.etheriamagazine.com/2021/08/Cordoba-Calleja-del-Indiano.jpg "Calleja del Indiano en el barrio de La Judería. © Turismo de Andalucía")
 
 La Judería de Córdoba es perfecta para perderos por vuestra cuenta pero, si preferís 
 conocer la historia y las anécdotas de la zona, apuntaros a un [tour guiado por la 
@@ -160,7 +160,7 @@ relajadas y preparadas para continuar con vuestra escapada en Córdoba con amiga
 proponemos dos opciones: el [Hamman Al-Ándalus](https://cordoba.hammamalandalus.com) o 
 los [Baños Árabes de Córdoba](https://xn--baosarabesdecordoba-w3b.com/). 
 
-![Hamman Al-Ándalus de Córdoba.](etheria-images/2021/08/cordoba-Hammam-Al-Andalus.jpg "Hamman Al-Ándalus de Córdoba. © Turismo de Andalucía")
+![Hamman Al-Ándalus de Córdoba.](https://fotos.etheriamagazine.com/2021/08/cordoba-Hammam-Al-Andalus.jpg "Hamman Al-Ándalus de Córdoba. © Turismo de Andalucía")
 
 ## Degustar la gastronomía cordobesa
 
@@ -174,7 +174,7 @@ nos recomendaba algunos locales emblemáticos como el clásico **Casa Pepe de la
 Judería**, el restaurante **Recomiendo** del chef Periko Ortega o las propuestas de la 
 gastronomía andalusí de **Noor**. 
 
-![Escapada a Córdoba, viaje gourmet, gastronomía, 48 horas en Córdoba, viaje en pareja, viajes con historia, restaurante de Cordoba](etheria-images/2019/03/Cordoba-gastronomia-Berenjenas-con-miel-.jpg "Las berenjenas con miel son típicas de la gastronomía cordobesa.")
+![Escapada a Córdoba, viaje gourmet, gastronomía, 48 horas en Córdoba, viaje en pareja, viajes con historia, restaurante de Cordoba](https://fotos.etheriamagazine.com/2019/03/Cordoba-gastronomia-Berenjenas-con-miel-.jpg "Las berenjenas con miel son típicas de la gastronomía cordobesa.")
 
 ## Vibrar con un espectáculo de flamenco
 
@@ -189,7 +189,7 @@ Flamenca](https://cordobaflamenca.com/agenda/) o [reservar con Civitatis una vis
 tablao Arte y Sabores de 
 Córdoba](https://www.civitatis.com/es/cordoba/espectaculo-flamenco/?aid=10211). 
 
-![Flamenco en Córdoba](etheria-images/2021/08/cordoba-flamenco.jpg "En Córdoba no te puedes perder un espectáculo de flamenco.")
+![Flamenco en Córdoba](https://fotos.etheriamagazine.com/2021/08/cordoba-flamenco.jpg "En Córdoba no te puedes perder un espectáculo de flamenco.")
 
 ### Más viajes con amigas en Etheria Magazine
 

@@ -1,7 +1,7 @@
 ---
 title: "El milagro del sake en Tokio, lugares de cata y degustación"
 date: 2023-12-04
-coverImage: etheria-images/2023/12/tokio-Valle-Akigawa.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/12/tokio-Valle-Akigawa.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -16,7 +16,7 @@ sake, en los que vosotras mismas os servís el licor, y terminad comprando vuest
 favorito en tiendas especializadas. Os damos las pistas básicas para realizar estos tres 
 pasos esenciales. 
 
-![Valle Akigawa, en la ruta del sake en Tokio](etheria-images/2023/12/tokio-Valle-Akigawa.jpg "Valle de Akigawa.")
+![Valle Akigawa, en la ruta del sake en Tokio](https://fotos.etheriamagazine.com/2023/12/tokio-Valle-Akigawa.jpg "Valle de Akigawa.")
 
 Tokio conquista al viajero con su capacidad para sorprender, ya que pocas ciudades son 
 capaces de ofrecer un abanico de propuestas tan amplias y variadas donde las facetas más 
@@ -27,7 +27,7 @@ de la minuciosa combinación de dos elementos esenciales de máxima calidad: arr
 Si la gastronomía ocupa un lugar de honor en vuestros viajes, esta **ruta del sake en 
 Tokio** es perfecta para vosotras. 
 
-![Sake japonés.](etheria-images/2023/12/sake-japones-850x444.jpg "Sake japonés. © ngd3")
+![Sake japonés.](https://fotos.etheriamagazine.com/2023/12/sake-japones-850x444.jpg "Sake japonés. © ngd3")
 
 ## Agua y arroz, el milagro del sake
 
@@ -45,7 +45,7 @@ región de producción, en términos generales, el sake puede ser categorizado c
 quienes se inician en el mundo del sake, ya que suele tener un porcentaje de alcohol más 
 bajo. 
 
-![Tienda de la bodega Ozawa.](etheria-images/2023/12/Bodega-Ozawa-tienda.jpg "Tienda de la bodega Ozawa Shuzo.")
+![Tienda de la bodega Ozawa.](https://fotos.etheriamagazine.com/2023/12/Bodega-Ozawa-tienda.jpg "Tienda de la bodega Ozawa Shuzo.")
 
 ## Bodegas de sake en Tokio
 
@@ -54,7 +54,7 @@ a los visitantes a sumergirse en la experiencia con recorridos por sus bodegas. 
 de ellas tiene métodos de elaboración únicos y ofrece visitas guiadas y catas para 
 desvelar algunos de sus secretos. 
 
-![Interior de la Bodega Ozawa.](etheria-images/2023/12/bodega-ozawa-interior.jpg "Interior de la Bodega Ozawa Shuzo.")
+![Interior de la Bodega Ozawa.](https://fotos.etheriamagazine.com/2023/12/bodega-ozawa-interior.jpg "Interior de la Bodega Ozawa Shuzo.")
 
 ### Bodega Ozawa Shuzo
 
@@ -75,7 +75,7 @@ el recorrido continúa por un puente que cruza el río Tama y que lleva al pinto
 también tendréis la oportunidad de disfrutar de las vistas panorámicas desde terraza 
 ubicada junto al río o incluso organizar un día de picnic. 
 
-![Garganta de Mitake.](etheria-images/2023/12/tokio-MItake.jpg "Garganta de Mitake.")
+![Garganta de Mitake.](https://fotos.etheriamagazine.com/2023/12/tokio-MItake.jpg "Garganta de Mitake.")
 
 ### Bodega Ishikawa Brewery
 
@@ -92,7 +92,7 @@ visitar la bodega permite realizar una inmersión total en la historia y tradici
 sake. No os vayáis sin pasar por su tienda donde probaréis bolas de arroz con sake y 
 podréis adquirir alguna botella de la bodega. 
 
-![Bodega Ishikawa Brewery](etheria-images/2023/12/Bodega-Ishikawa.jpg "Bodega Ishikawa Brewery.")
+![Bodega Ishikawa Brewery](https://fotos.etheriamagazine.com/2023/12/Bodega-Ishikawa.jpg "Bodega Ishikawa Brewery.")
 
 ## Kurand, sake con tarifa plana
 
@@ -110,7 +110,7 @@ entregará un vasito para que probéis todo lo que queráis. No ofrecen nada de 
 os podéis llevar vosotras mismas algún snack. Con un enfoque moderno y una gran variedad 
 de opciones, es un lugar perfecto para sumergirse en este fascinante mundo. 
 
-![Kurand Sake Market.](etheria-images/2023/12/kurand-sake-market.jpg "© Kurand Sake Market.")
+![Kurand Sake Market.](https://fotos.etheriamagazine.com/2023/12/kurand-sake-market.jpg "© Kurand Sake Market.")
 
 ## Y de recuerdo... ¡sake, cómo no!
 

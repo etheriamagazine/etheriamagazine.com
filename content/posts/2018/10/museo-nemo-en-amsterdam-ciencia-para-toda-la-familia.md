@@ -1,7 +1,7 @@
 ---
 title: "Museo NEMO en Ámsterdam, ciencia al alcance de la mano"
 date: 2018-10-06
-coverImage: etheria-images/2018/09/museo-nemo-tesla-e1669709939123.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/museo-nemo-tesla-e1669709939123.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
@@ -14,7 +14,7 @@ tecnología que está dirigido a curiosos de 5 a 99 años. Todo es interactivo e
 interesante, lo que hace de esta visita un imprescindible en un viaje en familia a 
 Ámsterdam. 
 
-![exterior del Museo Nemo](etheria-images/2018/09/museo-nemo-exterior-1024x683.jpg "Exterior del Museo NEMO, diseñado por Enzo Piano. ©NEMO Science Museum. Photo by Digidaan.")
+![exterior del Museo Nemo](https://fotos.etheriamagazine.com/2018/09/museo-nemo-exterior-1024x683.jpg "Exterior del Museo NEMO, diseñado por Enzo Piano. ©NEMO Science Museum. Photo by Digidaan.")
 
 Ámsterdam, en particular, y Holanda, en general, cuentan con numerosos atractivos para 
 realizar un viaje con niños (no te pierdas?[Qué ver y hacer en un viaje en familia por 
@@ -43,7 +43,7 @@ libre, ya que no hay un plan establecido o una ruta guiada. Puedes ir a las acti
 que más te interesen y repetir las que más te hayan gustado. Es un museo perfecto para 
 disfrutar a tu aire, sin prisas y sin guión. 
 
-![actividades museo Nemo](etheria-images/2018/09/museo-nemo-fenomena-1024x683.jpg "Pruebas basadas en la ciencia para todas las edades. ©NEMO Science Museum. Photo by Digidaan.")
+![actividades museo Nemo](https://fotos.etheriamagazine.com/2018/09/museo-nemo-fenomena-1024x683.jpg "Pruebas basadas en la ciencia para todas las edades. ©NEMO Science Museum. Photo by Digidaan.")
 
 ## Ciencia para tocar
 
@@ -57,7 +57,7 @@ además de la azotea:
 en algunos fenómenos que nos rodean**, cómo ha evolucionado a lo largo de los siglos y 
 de qué modo se realiza una investigación científica. 
 
-![niñas en el museo Nemo](etheria-images/2018/09/museo-nemo-tesla-1024x683.jpg "En el Museo NEMO se pueden comprobar principios como el de la electricidad estática. ©NEMO Science Museum. Photo by Digidaan.")
+![niñas en el museo Nemo](https://fotos.etheriamagazine.com/2018/09/museo-nemo-tesla-1024x683.jpg "En el Museo NEMO se pueden comprobar principios como el de la electricidad estática. ©NEMO Science Museum. Photo by Digidaan.")
 
 • '**Technium'**, en la segunda planta, nos sumerge en el **mundo de la tecnología** y 
 en la función que desempeña para que el mundo funcione mejor. Muestra, por ejemplo, como 
@@ -66,7 +66,7 @@ logístico, algo que resulta muy divertido a los niños. Explica la importancia 
 Matemáticas en el mundo que nos rodea y pone el foco en la relevancia de las energías 
 renovables. 
 
-![actividad en el Museo Nemo](etheria-images/2018/09/Museo-nemo-maquina-1024x719.jpg "Se puede formar parte de un proceso logístico para comprender cómo funciona una cadena de montaje y distribución. ©NEMO Science Museum. Photo by Digidaan.")
+![actividad en el Museo Nemo](https://fotos.etheriamagazine.com/2018/09/Museo-nemo-maquina-1024x719.jpg "Se puede formar parte de un proceso logístico para comprender cómo funciona una cadena de montaje y distribución. ©NEMO Science Museum. Photo by Digidaan.")
 
 • '**Elementa'** se encuentra en la tercera planta y es el lugar donde se aprende del 
 cosmos y las estrellas y, sobre todo, de los átomos que las forman a ellas, a nosotros 
@@ -74,7 +74,7 @@ mismos y a todo lo que nos rodea. Cuenta con un laboratorio en el que se pueden 
 experimentos y desde hace poco se puede ver la nueva **Exposición “Vida en el 
 Universo”**. 
 
-![Laboratorio del Museo NEMO.](etheria-images/2018/09/Museo-nemo-laboratorio-1024x683.jpg "Laboratorio del Museo NEMO. ©NEMO Science Museum. Photo by Digidaan.")
+![Laboratorio del Museo NEMO.](https://fotos.etheriamagazine.com/2018/09/Museo-nemo-laboratorio-1024x683.jpg "Laboratorio del Museo NEMO. ©NEMO Science Museum. Photo by Digidaan.")
 
 • '**Humania'**, en la cuarta planta, pone el foco en los seres vivos y, sobre todo, en 
 el ser humano. Con actividades para comprender de qué manera funciona el cerebro y las 
@@ -86,7 +86,7 @@ desde ser el puntero de un reloj solar hasta generar tu propio arcoíris. La caf
 que se sitúa en esta planta, es el lugar perfecto para acabar la visita mientras se 
 contempla Ámsterdam a los pies. 
 
-![piscinas exteriores del museo Nemo](etheria-images/2018/09/museo-nemo-azotea-1024x683.jpg "En la terraza escalonada del museo se pueden comprobar principios de la energía del viento y el agua. ©NEMO Science Museum. Photo by Digidaan.")
+![piscinas exteriores del museo Nemo](https://fotos.etheriamagazine.com/2018/09/museo-nemo-azotea-1024x683.jpg "En la terraza escalonada del museo se pueden comprobar principios de la energía del viento y el agua. ©NEMO Science Museum. Photo by Digidaan.")
 
 ## INFO ETHERIA
 

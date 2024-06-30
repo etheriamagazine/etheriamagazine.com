@@ -1,7 +1,7 @@
 ---
 title: "Por qué Formentera Zen 2023 es la escapada que necesitas"
 date: 2023-03-21
-coverImage: etheria-images/2023/03/formentera-zen-yoga.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/03/formentera-zen-yoga.jpg
 categories: 
   - salud-bienestar-nutricion
   - viajes-con-amigas
@@ -15,7 +15,7 @@ donde lograrás cargar las pilas para afrontar con energía y optimismo el resto
 En plena primavera y rodeadas de expertos del bienestar y de la salud, ésta es una cita 
 obligada si quieres mimarte por dentro y por fuera.¡Regálate unos días de desconexión! 
 
-![Jardines del hotel donde se celebra el Formentera Zen 2023](etheria-images/2023/03/formentera-zen-mujeres-atardecer.jpg "Formentera Zen te brinda unos días de desconexión.")
+![Jardines del hotel donde se celebra el Formentera Zen 2023](https://fotos.etheriamagazine.com/2023/03/formentera-zen-mujeres-atardecer.jpg "Formentera Zen te brinda unos días de desconexión.")
 
 **Formentera Zen 2023** es una cita imprescindible para los amantes del bienestar, 
 quizás la más esperada del año. Durante tres días, la pequeña de las Pitiusas congrega a 
@@ -37,7 +37,7 @@ con millones de seguidores en redes sociales. La maestra de ceremonias este año
 **Cristina Boscá** (IG: cristinabosca) que, además de Dj, es directora y presentadora 
 del programa radiofónico _Anda ya_ de Los 40. 
 
-![Monitor realiza actividad deportiva en Formentera Zen](etheria-images/2023/03/formentera-zen-bienestar.jpg "Las actividades son dirigidas por los mejores profesionales.")
+![Monitor realiza actividad deportiva en Formentera Zen](https://fotos.etheriamagazine.com/2023/03/formentera-zen-bienestar.jpg "Las actividades son dirigidas por los mejores profesionales.")
 
 ## Para aprender a cuidarte
 
@@ -64,7 +64,7 @@ La vida sexual, como un componente importante de bienestar personal, será trata
 y sexóloga, ofrecerá un taller en el que desvelará las ‘Claves para una vida sexual 
 plena, placentera y saludable’. 
 
-![Grupo de mujeres practican yoga en Formentera Zen](etheria-images/2023/03/formentera-zen-yoga.jpg "Aprenderás técnicas de relajación.")
+![Grupo de mujeres practican yoga en Formentera Zen](https://fotos.etheriamagazine.com/2023/03/formentera-zen-yoga.jpg "Aprenderás técnicas de relajación.")
 
 ## Para estar activa
 
@@ -86,7 +86,7 @@ En su taller y _showcooking_ destacará la ‘Importancia de los prebióticos y 
 probióticos en nuestra alimentación’. No olvides tomar notas porque ofrecerá datos muy 
 útiles para ponerlos en práctica una vez en casa. 
 
-![Monitora de nutrición imparte una masterclass en Formentera Zen](etheria-images/2023/03/formentera-zen-nutricion.jpg "La nutrición es imprescindible para llevar una vida saludable.")
+![Monitora de nutrición imparte una masterclass en Formentera Zen](https://fotos.etheriamagazine.com/2023/03/formentera-zen-nutricion.jpg "La nutrición es imprescindible para llevar una vida saludable.")
 
 ## Cuándo y dónde
 
@@ -97,7 +97,7 @@ yoga, nutrición, fitness, psicología o danza. Esta edición se presenta como u
 idónea para renovar energías y salir con el cuerpo y la mente perfectamente 
 sincronizados. 
 
-![La ubicación del hotel junto al mar es idóneo para el Formentera Zen.](etheria-images/2023/03/formentera-zen-hotel-mar.jpg "La ubicación del hotel junto al mar es idóneo para el Formentera Zen.")
+![La ubicación del hotel junto al mar es idóneo para el Formentera Zen.](https://fotos.etheriamagazine.com/2023/03/formentera-zen-hotel-mar.jpg "La ubicación del hotel junto al mar es idóneo para el Formentera Zen.")
 
 ## Desde las ondas
 
@@ -106,7 +106,7 @@ Contadas_, dará voz a los protagonistas. Recogerá los testimonios de participa
 ponentes para acercar a la audiencia el potencial de Formentera Zen en el desarrollo 
 integral de las personas y cómo pueden mejorar su calidad de vida. 
 
-![Atardecer en el Formentera Zen.](etheria-images/2023/03/formentera-zen-grupo.jpg "Atardecer en el Formentera Zen.")
+![Atardecer en el Formentera Zen.](https://fotos.etheriamagazine.com/2023/03/formentera-zen-grupo.jpg "Atardecer en el Formentera Zen.")
 
 ## Formentera Zen Kids & Families
 
@@ -124,7 +124,7 @@ de este apartado serán **Anna Estapé** (IG: pediatra.annaestape), la psicólog
 **Carmen Esteban** (IG: mipsicologainfantil) y **Raquel López** (mamifit.es), licenciada 
 en Ciencias de la Actividad Física y el Deporte. 
 
-![Familia junto al mar turquesa de Formentera](etheria-images/2023/03/formentera-zen-kids-families.jpg "Formentera Zen Kids & Families, un incentivo para viajar a la isla balear.")
+![Familia junto al mar turquesa de Formentera](https://fotos.etheriamagazine.com/2023/03/formentera-zen-kids-families.jpg "Formentera Zen Kids & Families, un incentivo para viajar a la isla balear.")
 
 Por supuesto, en el Formentera Zen Kids & Families no se han olvidado de planificar 
 actividades y talleres para disfrutar juntos. El aprendizaje en familia no sólo es 

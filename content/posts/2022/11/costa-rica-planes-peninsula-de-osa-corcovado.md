@@ -1,7 +1,7 @@
 ---
 title: "Península de Osa, planes con corazón en el último rincón de Costa Rica"
 date: 2022-11-30
-coverImage: etheria-images/2022/11/costa-rica-caminos-de-osa-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/11/costa-rica-caminos-de-osa-1.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -14,7 +14,7 @@ Nacional de Corcovado, un territorio que te invitamos a conocer para descubrir g
 dosis de naturaleza, interesantes pueblos indígenas y sorprendentes tesoros 
 precolombinos. 
 
-![Eides Fletes, una emprendedora enamorada de la Península de Osa.](etheria-images/2022/11/Eida-Fletes-costa-rica-850x594.jpg "Eides Fletes, una emprendedora enamorada de la Península de Osa.")
+![Eides Fletes, una emprendedora enamorada de la Península de Osa.](https://fotos.etheriamagazine.com/2022/11/Eida-Fletes-costa-rica-850x594.jpg "Eides Fletes, una emprendedora enamorada de la Península de Osa.")
 
 Hablar de Costa Rica es hacerlo de naturaleza, biodiversidad, ecoturismo, deportes 
 activos, y gente hospitalaria en todos sus rincones. También en el Pacífico sur, donde 
@@ -26,7 +26,7 @@ pueblos indígenas, a descubrir su historia por medio de los yacimientos precolo
 sobre todo, a participar e interactuar con la población local. ¿Estás preparada para 
 viajar a la Península de Osa? 
 
-![La naturaleza de Costa Rica se muestra espléndida en todos sus parques naturales.](etheria-images/2022/11/Selva-rio-Savegre.jpg "La naturaleza de Costa Rica se muestra espléndida en todos sus parques naturales.")
+![La naturaleza de Costa Rica se muestra espléndida en todos sus parques naturales.](https://fotos.etheriamagazine.com/2022/11/Selva-rio-Savegre.jpg "La naturaleza de Costa Rica se muestra espléndida en todos sus parques naturales.")
 
 ## Eida Fletes, una mujer luchadora de Corcovado
 
@@ -45,7 +45,7 @@ incide en la necesidad de educarse e informar, ya que “Jacana destaca por hace
 turismo educativo y cada día debe enseñar a ser mejores: mejores personas, mejores 
 turistas y mejores ciudadanos”. 
 
-![Eida Fletes ofrece al viajero dos recorridos con toque educativo.](etheria-images/2022/11/eida-fletes-jacana-rey-tours-850x594.jpg "Eida Fletes ofrece al viajero dos recorridos con toque educativo.")
+![Eida Fletes ofrece al viajero dos recorridos con toque educativo.](https://fotos.etheriamagazine.com/2022/11/eida-fletes-jacana-rey-tours-850x594.jpg "Eida Fletes ofrece al viajero dos recorridos con toque educativo.")
 
 Una buena manera de apoyar su labor es realizando el “**Tour del palmito**” y el “**Tour 
 nocturno de insectos en Caminos de Osa**”, organizados por [Jacana Rey 
@@ -61,7 +61,7 @@ sus parques naturales, las zonas playeras y sus 6 distritos (Ciudad Cortés, Pal
 Sierpe, Piedras Blancas, Bahía Ballena y Bahía Drake Osa, de la provincia de 
 Puntarenas). 
 
-![Vista aérea de la bahía de Drake.](etheria-images/2022/11/peninsula-Osa-Bahia-Drake-850x589.jpg "Vista aérea de la bahía de Drake.")
+![Vista aérea de la bahía de Drake.](https://fotos.etheriamagazine.com/2022/11/peninsula-Osa-Bahia-Drake-850x589.jpg "Vista aérea de la bahía de Drake.")
 
 ### 1\. Recorrer el Parque Nacional de Corcovado
 
@@ -75,7 +75,7 @@ de mamíferos, 465 tipos de aves (20 endémicas regionales), 160 anfibios y rept
 especies de peces de agua dulce y 800 especies de árboles. Este parque se puede recorrer 
 a través de sus senderos, pero también en barco. 
 
-![Naturaleza en estado puro.](etheria-images/2022/11/costa-rica-caminos-de-osa-1.jpg "Naturaleza en estado puro.")
+![Naturaleza en estado puro.](https://fotos.etheriamagazine.com/2022/11/costa-rica-caminos-de-osa-1.jpg "Naturaleza en estado puro.")
 
 ### 2\. Avistar delfines y ballenas
 
@@ -91,7 +91,7 @@ botella, la mantarraya, distintas especies de tortugas y el tiburón martillo. T
 cuenta con unos bonitos arrecifes de coral en torno a isla Ballena, ubicada a dos 
 kilómetros de la costa. 
 
-![Avistamiento de cetáceos y tortuga marina en el entorno de la Península de Osa.](etheria-images/2022/11/cetaceos-peninsula-osa-costarica-850x532.jpg "Avistamiento de cetáceos y tortuga marina en el entorno de la Península de Osa.")
+![Avistamiento de cetáceos y tortuga marina en el entorno de la Península de Osa.](https://fotos.etheriamagazine.com/2022/11/cetaceos-peninsula-osa-costarica-850x532.jpg "Avistamiento de cetáceos y tortuga marina en el entorno de la Península de Osa.")
 
 ### 3\. Observar las esferas de piedras del Diquís
 
@@ -106,7 +106,7 @@ de un emplazamiento o un dirigente. Un buen lugar para contemplarlas es el **Sit
 Finca 6**, donde se encuentran en su emplazamiento original y muestran diferentes 
 disposiciones y tamaños. 
 
-![Piedras del Diquís, en la Península de Osa, en Costa Rica.](etheria-images/2022/11/esferas-850x510.jpg "Esferas de piedras del Diquís.")
+![Piedras del Diquís, en la Península de Osa, en Costa Rica.](https://fotos.etheriamagazine.com/2022/11/esferas-850x510.jpg "Esferas de piedras del Diquís.")
 
 ### 4\. Saborear la cocina costarricense
 
@@ -119,7 +119,7 @@ de plátano maduro y masa). Otras especialidades deliciosas son el arroz de maí
 bambú con cerdo y los chicharrones, además de algunos platos preparados con frijoles, 
 hongos, yuca y palmitos. 
 
-![La gastronomía recoge parte de la cultura del país.](etheria-images/2022/11/plato-costa-rica.jpg "La gastronomía recoge parte de la cultura del país.")
+![La gastronomía recoge parte de la cultura del país.](https://fotos.etheriamagazine.com/2022/11/plato-costa-rica.jpg "La gastronomía recoge parte de la cultura del país.")
 
 ### 5\. Descansar en una playa
 
@@ -132,7 +132,7 @@ tortugas marinas en ciertas épocas del año; o la famosa playa Uvita, una de la
 bellas de toda Costa Rica, con esteros, manglares y una bonita hilera de cocoteros que 
 propician unas fotos perfectas. 
 
-![Las playas de la Bahía Drake parecen salidas de una cálida postal.](etheria-images/2022/11/costa-rica-bahia-drake-corcovado-1.jpg "Las playas de la Bahía Drake parecen salidas de una cálida postal.")
+![Las playas de la Bahía Drake parecen salidas de una cálida postal.](https://fotos.etheriamagazine.com/2022/11/costa-rica-bahia-drake-corcovado-1.jpg "Las playas de la Bahía Drake parecen salidas de una cálida postal.")
 
 ### 6\. Conocer la historia de los pueblos indígenas
 
@@ -148,7 +148,7 @@ en una edificación típica de este pueblo donde se exhiben las técnicas natura
 utilizadas en su artesanía; y el **Museo Comunitario Indígena de Terraba** que muestra 
 los modos de vida tradicionales de esta cultura. 
 
-![En la Península de Osa viven varios grupos indígenas.](etheria-images/2022/11/Gente-Caminos-de-Osa-Aguas-Ricas-850x567.jpg "En la Península de Osa viven varios grupos indígenas.")
+![En la Península de Osa viven varios grupos indígenas.](https://fotos.etheriamagazine.com/2022/11/Gente-Caminos-de-Osa-Aguas-Ricas-850x567.jpg "En la Península de Osa viven varios grupos indígenas.")
 
 ### 7\. Observar la naturaleza
 
@@ -166,7 +166,7 @@ ríos, está considerado el manglar más rico del mundo por su biodiversidad.
 Estos son sólo algunos ejemplos que, sumados a las reservas naturales privadas, ofrecen 
 infinitas posibilidades para disfrutar de la naturaleza. 
 
-![Bosque tropical lluvioso de Costa Rica.](etheria-images/2022/11/Costa-Rica.jpg "Bosque tropical lluvioso de Costa Rica.")
+![Bosque tropical lluvioso de Costa Rica.](https://fotos.etheriamagazine.com/2022/11/Costa-Rica.jpg "Bosque tropical lluvioso de Costa Rica.")
 
 ### 8\. Adquirir la artesanía local
 
@@ -179,7 +179,7 @@ que realizan piezas inspiradas en la cultura de este lugar. Algunos lugares a lo
 puedes acudir son las tiendas de artesanía Rey Curré, en la comunidad de Rey Curré (a 
 diez kilómetros de Buenos Aires) y Boruca La Flor, en Boruca. 
 
-![Pieza del Colectivo Artesanal La Zona.](etheria-images/2022/11/colectivo-artesanal-la-zona.jpg "Piezas del © Colectivo Artesanal La Zona.")
+![Pieza del Colectivo Artesanal La Zona.](https://fotos.etheriamagazine.com/2022/11/colectivo-artesanal-la-zona.jpg "Piezas del © Colectivo Artesanal La Zona.")
 
 ### 9\. Practicar turismo rural comunitario
 
@@ -195,7 +195,7 @@ caña. Sin olvidar la ruta biocultural _Corazón de Osa_ que, a través de una s
 experiencias, muestra la evolución paralela de la diversidad biológica y la cultural de 
 la región (más información en visitranchoquemado.com). 
 
-![Reserva indígena Boruca, en la Península de Osa.](etheria-images/2022/11/reserva-indigena-boruca.jpg "Reserva indígena Boruca.")
+![Reserva indígena Boruca, en la Península de Osa.](https://fotos.etheriamagazine.com/2022/11/reserva-indigena-boruca.jpg "Reserva indígena Boruca.")
 
 ### 10\. Divertirse con los deportes de aventura
 
@@ -213,7 +213,7 @@ la región; practicar **snorkeling** en Punta Uvita o en Isla del Caño; **bucea
 Isla del Caño o en el Parque Nacional Bahía Ballena; hacer **surf** en playa Dominical; 
 o practicar **pesca** deportiva. 
 
-![Snorkeling en Costa Rica.](etheria-images/2022/11/snorkel-costa-rica.jpg "Snorkeling en Costa Rica.")
+![Snorkeling en Costa Rica.](https://fotos.etheriamagazine.com/2022/11/snorkel-costa-rica.jpg "Snorkeling en Costa Rica.")
 
 Descubrir cómo la historia y la cultura se encuentra entrelazada con el entorno natural 
 y con sus gentes es uno de los mayores incentivos para recorrer la Península de Osa con 

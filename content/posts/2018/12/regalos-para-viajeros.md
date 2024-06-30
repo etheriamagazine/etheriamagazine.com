@@ -1,7 +1,7 @@
 ---
 title: "Regala un viaje estas Navidades"
 date: 2018-12-15
-coverImage: etheria-images/2018/12/regalos-navidad.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/12/regalos-navidad.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -15,7 +15,7 @@ viajar. Y las Navidades son una excelente ocasión para obsequiar a nuestros ser
 queridos con una escapada. ¿Hay mejor manera de decir que les quieres que regalar un 
 viaje estas Navidades? 
 
-![regalos de navidad](etheria-images/2018/12/navidad-regalos-arbol-1024x683.jpg "Los viajes son un regalo perfecto para estas Navidades.")
+![regalos de navidad](https://fotos.etheriamagazine.com/2018/12/navidad-regalos-arbol-1024x683.jpg "Los viajes son un regalo perfecto para estas Navidades.")
 
 Unos imaginan el saco de Papá Noel lleno de juguetes, aparatos tecnológicos, ropa, 
 zapatos… Nosotras lo vemos repleto de experiencias viajeras, hoteles maravillosos y 
@@ -39,7 +39,7 @@ que ya conocen. Las opciones son Pack Económico o Deluxe. Otras opciones son
 **Waynabox** (waynabox.com/es) y **Wowtrip** (wowtrip.travel/es), con un formato 
 parecido de escapada desde 3 días a un destino europeo desde 150 Euros por persona. 
 
-![mujer mirando panel de aeropuerto](etheria-images/2018/12/viaje-sorpresa-1024x683.jpg "¿Has pensado regalar estas Navidades un viaje sorpresa? Seguro que aciertas.")
+![mujer mirando panel de aeropuerto](https://fotos.etheriamagazine.com/2018/12/viaje-sorpresa-1024x683.jpg "¿Has pensado regalar estas Navidades un viaje sorpresa? Seguro que aciertas.")
 
 ## 2\. Vales de Atrapalo
 
@@ -49,7 +49,7 @@ lo puede descontar de un viaje organizado. O, incluso, si el importe del regalo 
 grande, pueden ser unas entradas para un espectáculo a una ciudad a la que tenga 
 previsto viajar. 
 
-![maleta con pegatinas de viajes](etheria-images/2018/12/maleta-regalo-viajar-1024x683.jpg "Regala un viaje estas Navidades.")
+![maleta con pegatinas de viajes](https://fotos.etheriamagazine.com/2018/12/maleta-regalo-viajar-1024x683.jpg "Regala un viaje estas Navidades.")
 
 ## 3\. Cajas regalo
 
@@ -60,7 +60,7 @@ cena. **Smarbox**, **Plan B!** o **Wonderbox**, por ejemplo, tiene packs desde 5
 Euros (que incluye una noche de hotel con desayuno para dos personas). **La Vida es 
 Bella** parte de ¡Escápate tres días! desde 99,90 Euros. 
 
-![cajas regalo de viajes](etheria-images/2018/12/cajas-regalo-1024x566.jpg "Una caja regalo de un viaje es un regalo perfecto para estas fiestas.")
+![cajas regalo de viajes](https://fotos.etheriamagazine.com/2018/12/cajas-regalo-1024x566.jpg "Una caja regalo de un viaje es un regalo perfecto para estas fiestas.")
 
 ## 4\. Un toque de estilo con Rusticae
 
@@ -75,7 +75,7 @@ desde 150 Euros.
 Cuentan también con cajas Experiencias en las que se combina la estancia en un hotel con 
 diversas actividades. 
 
-![Caja regalo de Rusticae.](etheria-images/2018/12/regala-un-viaje-rusticae-1024x860.jpg "Caja regalo de Rusticae. ©Rusticae.")
+![Caja regalo de Rusticae.](https://fotos.etheriamagazine.com/2018/12/regala-un-viaje-rusticae-1024x860.jpg "Caja regalo de Rusticae. ©Rusticae.")
 
 ## 5\. Regala noches de hoteles
 
@@ -94,7 +94,7 @@ regalo](http://tienda.hotelarzuaga.com) que incluyen estancia, desayuno y, segú
 elegido, acceso al spa, cursos de cata, visitas de la finca… Vales desde 230 Euros (1 
 habitación doble 1 noche). 
 
-![copas de vino en el spa del hotel Arzuaga](etheria-images/2018/10/BODEGA-ARZUAGA-1024x531.jpg "No hay que perderse un tratamiento de vinoterapia en el Hotel & Spa Arzuaga. © Arzuaga.")
+![copas de vino en el spa del hotel Arzuaga](https://fotos.etheriamagazine.com/2018/10/BODEGA-ARZUAGA-1024x531.jpg "No hay que perderse un tratamiento de vinoterapia en el Hotel & Spa Arzuaga. © Arzuaga.")
 
 ## 7\. Cajas regalo de Paradores
 
@@ -102,7 +102,7 @@ Para un regalo con estilo qué mejor que ofrecer el alojamiento en un lugar hist
 Paradores cuenta con **cajas regalo** (paradores.es/es/cajas-regalo) de cenas o de una o 
 dos noches de alojamiento y con menús incluidos desde 75 Euros. 
 
-![Cajas regalo de Paradores.](etheria-images/2018/12/regala-un-viaje-paradores-1024x953.jpg "Cajas regalo de Paradores. @Paradores.")
+![Cajas regalo de Paradores.](https://fotos.etheriamagazine.com/2018/12/regala-un-viaje-paradores-1024x953.jpg "Cajas regalo de Paradores. @Paradores.")
 
 ## 8\. Un viaje en autocaravana o furgoneta camper
 
@@ -112,7 +112,7 @@ semana en furgoneta camper, una semana en autocaravana o un vale para un viaje
 especializado. Desde 200 Euros. Incluye seguro a todo riesgo, viajes por toda Europa y 
 vehículos equipados. 
 
-![regalos de navidad, viajes, escapadas](etheria-images/2023/12/image-850x563.jpeg "Un regalo perfecto para los más aventureros es un viaje en autocaravana o furgoneta camper.")
+![regalos de navidad, viajes, escapadas](https://fotos.etheriamagazine.com/2023/12/image-850x563.jpeg "Un regalo perfecto para los más aventureros es un viaje en autocaravana o furgoneta camper.")
 
 ## 9 . Escapadas tematizadas con Ruralka
 

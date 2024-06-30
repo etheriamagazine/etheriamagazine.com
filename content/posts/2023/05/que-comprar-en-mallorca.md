@@ -1,7 +1,7 @@
 ---
 title: "Qué comprar en Mallorca, de la artesanía al sabroso producto gourmet"
 date: 2023-05-19
-coverImage: etheria-images/2023/05/Mallorca-teixits-vicens.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/05/Mallorca-teixits-vicens.jpg
 categories: 
   - regalos-compras-viajeras
 authors: 
@@ -13,7 +13,7 @@ que visitamos, da igual si es una ciudad cercana o allende los mares. Si eres de
 nuestras y quieres saber qué comprar en Mallorca en tu próxima escapada, toma buena 
 nota. 
 
-![Tienda de artesanía de Mallorca.](etheria-images/2023/05/artesania-mallorca.jpg "Tienda de artesanía de Mallorca.")
+![Tienda de artesanía de Mallorca.](https://fotos.etheriamagazine.com/2023/05/artesania-mallorca.jpg "Tienda de artesanía de Mallorca.")
 
 Nos encantan las islas Baleares, tan cerca, tan variadas, con tantas cosas que ver y que 
 hacer. Y entre todas ellas, quizá la que más sorprende –a pesar de ser la más visitada– 
@@ -41,7 +41,7 @@ Teixits Riera, Artesanía Tèxtil Bujosa y Teixits Vicens. Nosotras hemos visita
 último y es una experiencia sorprendente ver cómo se elaboran los tejidos. Si te gusta 
 coser, puedes comprar la tela _on line_ y elaborar tus propias creaciones. 
 
-![Telas de llengües de Teixits Vicens](etheria-images/2023/05/Mallorca-teixits-vicens.jpg "Telas de llengües de Teixits Vicens. © Etheria Magazine")
+![Telas de llengües de Teixits Vicens](https://fotos.etheriamagazine.com/2023/05/Mallorca-teixits-vicens.jpg "Telas de llengües de Teixits Vicens. © Etheria Magazine")
 
 ### Bordados
 
@@ -50,7 +50,7 @@ reconocerás en cuanto veas algunos. Se caracterizan por sus motivos florales co
 alegres que suelen adornar los trajes tradicionales, además de numerosos elementos del 
 hogar. 
 
-![Bordados mallorquines en forma de flores de colores](etheria-images/2023/05/bordados-mallorca.jpg "Bordados mallorquines. ©Turismo Illes Balears")
+![Bordados mallorquines en forma de flores de colores](https://fotos.etheriamagazine.com/2023/05/bordados-mallorca.jpg "Bordados mallorquines. ©Turismo Illes Balears")
 
 ### Adornos de perlas
 
@@ -65,7 +65,7 @@ que podrás elegir entre sus propuestas. La marca más conocida es Perlas Majori
 dispone de joyas elegantes y con diseños variados como el de la imagen inferior (ese 
 modelo sale por 89 euros). 
 
-![Collar con una perla de 12 mm.](etheria-images/2023/05/collar-perlas-majorica.jpg "Collar con una perla de 12 mm. © Majorica")
+![Collar con una perla de 12 mm.](https://fotos.etheriamagazine.com/2023/05/collar-perlas-majorica.jpg "Collar con una perla de 12 mm. © Majorica")
 
 ### Zapatos de piel
 
@@ -76,7 +76,7 @@ muy aconsejable, tienes que reservar tiempo para visitar el **Museo del Calzado 
 Industria** y realizar la **Ruta del Calzado** para conocer el auténtico zapato 
 mallorquín. 
 
-![Moldes de zapatos y cesta de Mallorca.](etheria-images/2023/05/zapatos-mallroca.jpg "Hormas de zapatos y cesta de Mallorca. © Betty Palm")
+![Moldes de zapatos y cesta de Mallorca.](https://fotos.etheriamagazine.com/2023/05/zapatos-mallroca.jpg "Hormas de zapatos y cesta de Mallorca. © Betty Palm")
 
 ### Cestas de palma
 
@@ -118,7 +118,7 @@ de Pòrtol y Sa Cabaneta se siguen manteniendo algunos talleres alfareros de tie
 y arcilla blanca. Allí , además, se pueden adquirir todo tipo de piezas (cacerolas, 
 vajillas), también los _siurells_. 
 
-![Figuras-silbato (siurelles) típicas de Mallorca.](etheria-images/2023/05/Siurells-silbato-mallorca.jpg "Figuras-silbato (siurelles) típicas de Mallorca.")
+![Figuras-silbato (siurelles) típicas de Mallorca.](https://fotos.etheriamagazine.com/2023/05/Siurells-silbato-mallorca.jpg "Figuras-silbato (siurelles) típicas de Mallorca.")
 
 ### Cuchillos mallorquines
 
@@ -132,7 +132,7 @@ Además, el hierro también fue fundamental para el movimiento Modernista por lo
 recomendable admirar ventanales, balcones, barandillas o escaleras en lugares como Palma 
 o Sóller. 
 
-![Trinxet, cuchillo típico de Mallorca de la marca Ganivets Campins.](etheria-images/2023/05/cuchillo-mallorca.jpg "Trinxet, cuchillo típico de Mallorca de la marca © Ganivets Campins.")
+![Trinxet, cuchillo típico de Mallorca de la marca Ganivets Campins.](https://fotos.etheriamagazine.com/2023/05/cuchillo-mallorca.jpg "Trinxet, cuchillo típico de Mallorca de la marca © Ganivets Campins.")
 
 ### Figuras de cristal
 
@@ -160,7 +160,7 @@ cabello de ángel, nata, trufa... e incluso con sobrasada.
 una coca de anís y otra de 
 turrón](https://etheriamagazine.com/2021/11/19/recetas-cocas-patata-anis-turron-de-palma/). 
 
-![La ensaimada es un producto típico de la gastronomía de Mallorca.](etheria-images/2022/10/mallorca-ensaimada.jpg "La ensaimada es un producto típico de la gastronomía de Mallorca.")
+![La ensaimada es un producto típico de la gastronomía de Mallorca.](https://fotos.etheriamagazine.com/2022/10/mallorca-ensaimada.jpg "La ensaimada es un producto típico de la gastronomía de Mallorca.")
 
 ### Sobrasada
 
@@ -172,7 +172,7 @@ consumirla untándola en una rebanada de pan. Algunos la riegan con miel, mermel
 pero eso va en gustos. Una ventaja de la sobrasada es que colgada en un lugar seco, 
 protegida de la luz y con buena ventilación puede durar hasta seis meses. 
 
-![Sobrasada y otros embutidos en un mercado de Mallorca.](etheria-images/2023/05/embutido-sobrasada-mallorca.jpg "Sobrasada y otros embutidos en un mercado de Mallorca. © Anthony Camp")
+![Sobrasada y otros embutidos en un mercado de Mallorca.](https://fotos.etheriamagazine.com/2023/05/embutido-sobrasada-mallorca.jpg "Sobrasada y otros embutidos en un mercado de Mallorca. © Anthony Camp")
 
 ### Sal d'Es Trenc
 
@@ -186,7 +186,7 @@ labor de las salineras sino que también te hablarán del entorno y de las aves 
 en este ecosistema salino. Y no olvides el bañador porque a sólo unos pasos encontrarás 
 la playa d'Es Trenc, una de las más bonitas y salvajes de Mallorca. 
 
-![Montañas de sal en las Salinas d'Es Trenc.](etheria-images/2023/05/salina.jpg "Montañas de sal en las Salinas d'Es Trenc. © Etheria Magazine")
+![Montañas de sal en las Salinas d'Es Trenc.](https://fotos.etheriamagazine.com/2023/05/salina.jpg "Montañas de sal en las Salinas d'Es Trenc. © Etheria Magazine")
 
 ### Vinos, licores y aceite
 
@@ -197,7 +197,7 @@ los controles del aeropuerto. En este artículo te hablábamos de una interesant
 del vino 
 mallorquina](https://etheriamagazine.com/2018/07/26/ruta-del-vino-binissalem-viaje-mallorca-interior/). 
 
-![Mujer vino Enoturismo Binissalem Mallorca](etheria-images/2018/07/Mujer-vino-Enoturismo-Binissalem-Mallorca-Torres-1024x683.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
+![Mujer vino Enoturismo Binissalem Mallorca](https://fotos.etheriamagazine.com/2018/07/Mujer-vino-Enoturismo-Binissalem-Mallorca-Torres-1024x683.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
 
 Si además de qué comprar en Mallorca te interesa conocer propuestas turísticas de 
 interés, no te pierdas estos artículos: 

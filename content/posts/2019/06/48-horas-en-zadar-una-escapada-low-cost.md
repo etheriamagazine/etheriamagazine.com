@@ -1,7 +1,7 @@
 ---
 title: "Zadar, la ciudad con el atardecer más bello del mundo"
 date: 2019-06-21
-coverImage: etheria-images/2019/06/viaje-zadar-croacia-atardecer.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-atardecer.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -14,7 +14,7 @@ authors:
 
 Uno de los destinos low cost que te proponemos para este verano es Zadar, una ciudad de Croacia llena de historia, cultura y sabores del mar. Además, según Alfred Hitchcock, tiene el atardecer "más bello del mundo", el cineasta la visitó en los 70 y se quedó enamorado de ella. Te contamos cuáles son sus visitas imprescindibles y dos excursiones que te descubrirán la naturaleza del país.
 
-![Puesta de sol en Zadar](etheria-images/2019/06/viaje-zadar-croacia-atardecer.jpg "La mejor puesta de sol del mundo, según Alfred Hitchcock. © Pepa García/Etheria Mag.")
+![Puesta de sol en Zadar](https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-atardecer.jpg "La mejor puesta de sol del mundo, según Alfred Hitchcock. © Pepa García/Etheria Mag.")
 
 Algunas ciudades quedan injustamente opacadas por otras que, también, son maravillosas. 
 Es el caso de **Zadar**, porque lo tiene difícil para competir con Split o con Dubrovnik 
@@ -29,7 +29,7 @@ además de esta ciudad fundada hace más de 3.000 años las islas de Pag, Dugi O
 Ugljan, Pasman y otras más pequeñas. De hecho, esta región se enorgullece de tener el 
 mayor número de islas habitadas del país. 
 
-![Centro histórico de Zadar.](etheria-images/2019/06/viaje-zadar-croacia-pareja.jpg "Paseo relajado por el centro histórico de Zadar. © Pepa García/Etheria Mag.")
+![Centro histórico de Zadar.](https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-pareja.jpg "Paseo relajado por el centro histórico de Zadar. © Pepa García/Etheria Mag.")
 
 Toda esta zona se vio muy afectada durante las guerras –incluida la de la Independencia– 
 ya que, por sus especiales características en el centro del Adriático y su potencial 
@@ -39,7 +39,7 @@ itinerario histórico donde descubrir hallazgos arqueológicos. En tu escapada a
 tres visitas que no debes perderte: el casco histórico, el órgano del mar y el saludo al 
 sol. 
 
-![La iglesia de San Donato, con su campanile, y parte del foro romano sobre la que fue edificada.](etheria-images/2019/06/viaje-zadar-croacia-san-donato.jpg "Iglesia de San Donato y foro romano sobre el que fue edificada. © Pepa García/Etheria Mag.")
+![La iglesia de San Donato, con su campanile, y parte del foro romano sobre la que fue edificada.](https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-san-donato.jpg "Iglesia de San Donato y foro romano sobre el que fue edificada. © Pepa García/Etheria Mag.")
 
 ## Qué ver en Zadar, 3 visitas imprescindibles
 
@@ -52,7 +52,7 @@ postal. Fue levantada sobre las ruinas de un foro romano que aún se puede ver a
 de la misma. Es curioso que para los vecinos de Zadar es prácticamente un parque donde 
 jugar a la pelota o ir a merendar. 
 
-![zadar, casco viejo zadar](etheria-images/2019/06/viaje-zadar-croacia.jpg "Callejuelas de Zadar. © Pepa García/Etheria Mag.")
+![zadar, casco viejo zadar](https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia.jpg "Callejuelas de Zadar. © Pepa García/Etheria Mag.")
 
 Otros templos de interés son la **catedral de San Anastasia** (enfrente de la anterior), 
 la basílica románica de San Crisógono y la iglesia de San Simeón (que acoge el cuerpo 
@@ -61,14 +61,14 @@ por aquí y por allá bonitos palacios, restos de murallas y magníficas puertas
 ventanas. Si te gustan los museos, no dejes de visitar el **de Arte Sacro** –conocido 
 como el Museo del Oro y la Plata de Zadar– y el del **Vidrio Antiguo**. 
 
-![ventanas zadar, paseo por zadar](etheria-images/2019/06/viaje-zadar-croacia-ventana.jpg "Ventana del centro histórico de Zadar. © Pepa García/Etheria Mag.")
+![ventanas zadar, paseo por zadar](https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-ventana.jpg "Ventana del centro histórico de Zadar. © Pepa García/Etheria Mag.")
 
 Por la noche es un placer pasear por sus callejuelas repletas de cafés, bares y 
 terrazas, muchas veces amenizados con música en directo. En Croacia también hay mucha 
 tradición de salir a tomar vinos, así que aprovecha para probar los del país, que no 
 están nada mal. 
 
-![Órgano del mar de Zadar.](etheria-images/2019/06/viaje-zadar-croacia-organo-mar.jpg "Órgano del mar de Zadar. © Pepa García/Etheria Mag.")
+![Órgano del mar de Zadar.](https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-organo-mar.jpg "Órgano del mar de Zadar. © Pepa García/Etheria Mag.")
 
 ### 2\. ¿Dónde ver el atardecer en Zadar? En el órgano del mar
 
@@ -88,7 +88,7 @@ calificó como "el más bello del mundo", fue **Alfred Hitchcock**, que visitó 
 en los años 70 y se quedó prendado de la misma. Verás su imagen en algún que otro cartel 
 de la ciudad. 
 
-![El 'Saludo al sol' es una gran instalación luminosa.](etheria-images/2019/06/viaje-zadar-croacia-saludo-sol.jpg "El 'Saludo al sol' es una gran instalación luminosa. © Pepa García/Etheria Mag.")
+![El 'Saludo al sol' es una gran instalación luminosa.](https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-saludo-sol.jpg "El 'Saludo al sol' es una gran instalación luminosa. © Pepa García/Etheria Mag.")
 
 ### 3\. Saludo al sol de Zadar
 
@@ -114,7 +114,7 @@ nacional, y es uno de los lugares donde la música y la fiesta en la playa se al
 hasta la madrugada. En otras épocas es mucho más relajada y se presta a disfrutar de sus 
 playas en soledad, de su parque de olivos milenarios, sus queserías y sus salinas. 
 
-![Panorámica de la isla de Pag.](etheria-images/2018/08/Salina-pag-viaje-e1561018345122.jpg "Isla de Pag. © Pepa García/Etheria Mag.")
+![Panorámica de la isla de Pag.](https://fotos.etheriamagazine.com/2018/08/Salina-pag-viaje-e1561018345122.jpg "Isla de Pag. © Pepa García/Etheria Mag.")
 
 En el extremo opuesto, os recomendamos también conocer la parte más salvaje de la región 
 de Zadar, el **Parque Nacional de Paklenica**, a unos 40 km de la ciudad. Es un lugar 
@@ -125,7 +125,7 @@ Y así, casi sin darte cuenta, habrá terminado un fantástico fin de semana en 
 dispones de un poco más de tiempo, desplázate hasta Split, Dubrovnik o a los parques 
 nacionales de Krka o Plitvice. 
 
-![Habitación compartida del Hostel Forum](etheria-images/2019/06/hostel-forum-zadar-naranja.jpg "© Boutique Hostel Forum.")
+![Habitación compartida del Hostel Forum](https://fotos.etheriamagazine.com/2019/06/hostel-forum-zadar-naranja.jpg "© Boutique Hostel Forum.")
 
 ### Guía de viaje de Zadar | Etheria Magazine
 

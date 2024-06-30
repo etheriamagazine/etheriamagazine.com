@@ -1,7 +1,7 @@
 ---
 title: "Costa Rica: de ‘la aventura quetzal’ a la nouvelle cuisine"
 date: 2021-12-17
-coverImage: etheria-images/2021/12/Trogon-Lodge-San-Gerardo-de-Dota.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/12/Trogon-Lodge-San-Gerardo-de-Dota.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-gastronomicos
@@ -12,7 +12,7 @@ authors:
 
 Si buscas una excusa original para viajar a Costa Rica, te daremos una que te sorprenderá: admirar el quetzal, el ave sagrada de los aztecas, en su hábitat. Tras caminar por los bosques costarricenses y cumplir este sueño, continúa viaje descubriendo qué se cuece en los fogones de San José, la capital del país. Apetecible, ¿verdad?
 
-![trogon lodge costa rica](etheria-images/2021/12/Trogon-Lodge-San-Gerardo-de-Dota.jpg "Alrededores del Trogón Lodge, en San Gerardo de Dota. © P. Grifol")
+![trogon lodge costa rica](https://fotos.etheriamagazine.com/2021/12/Trogon-Lodge-San-Gerardo-de-Dota.jpg "Alrededores del Trogón Lodge, en San Gerardo de Dota. © P. Grifol")
 
 En su cuarto y último viaje (corría el año 1502), Colón estuvo 15 días en Costa Rica, 
 más o menos el mismo tiempo que permanecen los turistas hoy en día en sus vacaciones. 
@@ -34,7 +34,7 @@ esta ocasión, nos adentramos en el **Valle Central**, corazón del país, para 
 sagrada de los antiguos nativos ‘ticos’. ¿Te apetece conocer el hábitat del quetzal en 
 Costa Rica? 
 
-![aves costa rica](etheria-images/2021/12/aves-costa-rica.jpg "Aves en el entorno del Mirador de Miriam. © Pedro Grifol")
+![aves costa rica](https://fotos.etheriamagazine.com/2021/12/aves-costa-rica.jpg "Aves en el entorno del Mirador de Miriam. © Pedro Grifol")
 
 ## Parque Nacional Los Quetzales, en busca del ave sagrada 
 
@@ -45,7 +45,7 @@ momotos, oropéndolas, trogones, gavilanes, reinitas, trepadores, carpinteros, c
 tucanes… Pero la estrella de sus bosques es el que fuera pájaro sagrado de aztecas y 
 mayas: **el divino quetzal**. 
 
-![quetzal en costa rica](etheria-images/2021/12/Quetzal-costa-rica.jpg "Quetzal en Costa Rica. © Instituto Costarricense de Turismo")
+![quetzal en costa rica](https://fotos.etheriamagazine.com/2021/12/Quetzal-costa-rica.jpg "Quetzal en Costa Rica. © Instituto Costarricense de Turismo")
 
 ### Cómo es el quetzal
 
@@ -70,7 +70,7 @@ Por cierto, y para no llevarse desilusiones, las hembras son parduzcas y carecen
 coloridas serpentinas de la cola; por lo cual, para la foto, mejor buscar un macho. 
 Cosas de la selección natural estética. 
 
-![penacho quetzal moctezuma](etheria-images/2021/12/Penacho-de-Moctezuma-Weltmuseum-Viena.jpg "Penacho de Moctezuma. Weltmuseum (Viena).")
+![penacho quetzal moctezuma](https://fotos.etheriamagazine.com/2021/12/Penacho-de-Moctezuma-Weltmuseum-Viena.jpg "Penacho de Moctezuma. Weltmuseum (Viena).")
 
 En el [Weltmuseum](http://weltmuseumwien.at), de Viena se expone el único penacho 
 confeccionado con plumas de quetzal que se conserva en el mundo, atribuido a Moctezuma. 
@@ -89,7 +89,7 @@ teleobjetivo. Los senderos para adentrarse en el bosque son accesibles y están 
 señalizados. La arteria que da vida al parque es el **río Savegre**, cristalino y 
 caudaloso, con varias cascadas, y con puentes que lo cruzan. 
 
-![trogon san gerardo dota costa rica](etheria-images/2021/12/entorno-Trogon-Lodge-San-Gerardo-de-Dota.jpg "Entorno de Trogón Lodge, en San Gerardo Dota. © Pedro Grifol")
+![trogon san gerardo dota costa rica](https://fotos.etheriamagazine.com/2021/12/entorno-Trogon-Lodge-San-Gerardo-de-Dota.jpg "Entorno de Trogón Lodge, en San Gerardo Dota. © Pedro Grifol")
 
 ### Dónde dormir y comer en la zona
 
@@ -104,7 +104,7 @@ el establecimiento con más solera de la zona, con carácter y con _spa_; y dond
 de este reportaje introdujo el **cóctel ‘Pura Vida’** para su carta de bar (haz clic en 
 la imagen inferior para ver la elaboración del cóctel en dicho hotel). 
 
-[![coctel pura vida grifols bar](etheria-images/2021/12/portada-pura-vida.jpg "Cóctel 'Pura Vida', publicado en Grifol's Bar.")](https://youtu.be/R475FTW6c_A)
+[![coctel pura vida grifols bar](https://fotos.etheriamagazine.com/2021/12/portada-pura-vida.jpg "Cóctel 'Pura Vida', publicado en Grifol's Bar.")](https://youtu.be/R475FTW6c_A)
 
 En lo profundo de un valle montañoso se encuentra [Trogón 
 Lodge](https://www.trogonlodge.com/). Allí, el verde es eterno, el aire tonificante y 
@@ -117,7 +117,7 @@ Miriam’s](http://www.miriamquetzals.com/), una acogedora casa de comidas donde
 colibríes, mirlos, tucanes, ardillas y monos que visitan su balcón mirador. Y también 
 tiene algunas cabañas para alojarse. 
 
-![trogon lodge naturaleza costa rica](etheria-images/2021/12/Trogon-Lodge-San-Gerardo-de-Dota-costa-rica.jpg "Trogón Lodge, en San Gerardo de Dota. © P. Grifol")
+![trogon lodge naturaleza costa rica](https://fotos.etheriamagazine.com/2021/12/Trogon-Lodge-San-Gerardo-de-Dota-costa-rica.jpg "Trogón Lodge, en San Gerardo de Dota. © P. Grifol")
 
 ### Los nuevos sabores de San José
 
@@ -127,7 +127,7 @@ turístico por excelencia, donde cinco generaciones –desde 1880– han ido sup
 sus raíces en los puestos de venta (que aquí llaman ‘tramos’). La peculiar configuración 
 de los negocios hace que saltemos de uno a otro tramo sin apenas mover un paso. 
 
-![mercado central san jose costa rica](etheria-images/2021/12/Mercado-Central-San-Jose.jpg "Mercado Central de San José. © Pedro Grifol")
+![mercado central san jose costa rica](https://fotos.etheriamagazine.com/2021/12/Mercado-Central-San-Jose.jpg "Mercado Central de San José. © Pedro Grifol")
 
 Siguiendo pasos epicúreos, el Mercado Central de San José es uno de los lugares más 
 adecuados para practicar el placer del conocimiento gastronómico y la amistad ¡con 
@@ -141,7 +141,7 @@ contrastar la clásica experiencia gustativa del ‘Gallo Pinto’, el plato nac
 fritos con una mezcla de arroz con frijoles, queso y plátano), con la novedosa cocina 
 costarricense. 
 
-![mercado central san jose costa rica](etheria-images/2021/12/Mercado-Central-costa-rica.jpg "Vendedora del Mercado Central de San José. © Pedro Grifol")
+![mercado central san jose costa rica](https://fotos.etheriamagazine.com/2021/12/Mercado-Central-costa-rica.jpg "Vendedora del Mercado Central de San José. © Pedro Grifol")
 
 ### Cocina creativa en San José, 3 restaurantes que no debes perderte
 
@@ -150,7 +150,7 @@ cuisine_, que no es otra cosa que la recuperación de los tradicionales sabores 
 diversas regiones del país pasadas por el tamiz de la cocina contemporánea, pero con 
 talento innovador y personalidad. 
 
-![gallo pinto restaurante silvestre](etheria-images/2021/12/gallo-pinto-Restaurante-Silvestre.jpg "Gallo pinto, en el restaurante Silvestre de San José. © Pedro Grifol")
+![gallo pinto restaurante silvestre](https://fotos.etheriamagazine.com/2021/12/gallo-pinto-Restaurante-Silvestre.jpg "Gallo pinto, en el restaurante Silvestre de San José. © Pedro Grifol")
 
 El menú llamado ‘Ida y Vuelta’ del [restaurante 
 Silvestre](https://www.restaurantesilvestre.com/) nos permite viajar al paladar de la 
@@ -159,7 +159,7 @@ identidad gastronómica que eleva su cocina a lo que se cuece en el universo gas
 actual, pero con sabores autóctonos ticos. Sabores totalmente desconocidos para los 
 europeos. 
 
-![platos restaurante silvestre costa rica](etheria-images/2021/12/restaurante-Silvestre-costa-rica.jpg "Restaurante Silvestre, en San José (Costa Rica). © Pedro Grifol")
+![platos restaurante silvestre costa rica](https://fotos.etheriamagazine.com/2021/12/restaurante-Silvestre-costa-rica.jpg "Restaurante Silvestre, en San José (Costa Rica). © Pedro Grifol")
 
 El emplatado de toda la secuencia en la mesa, en un menaje cerámico fabricado 
 especialmente para cada paso del menú, eleva la experiencia sensorial a una vivencia 
@@ -171,7 +171,7 @@ local. Un lugar sencillamente adorable, con terraza, jardín, velas… y un más
 original menú. Sus chefs, Ximena Vicente y Greivin Rojas, han conseguido cambiar los 
 gustos de los gastro-ticos más exigentes de la capital. 
 
-![greivin rojas tournant san jose](etheria-images/2021/12/chef-Greivin-Rojas-costa-rica.jpg "Greivin Rojas, chef del restaurante Tournant, posando con un plato de calamares y papas. © P.Grifol")
+![greivin rojas tournant san jose](https://fotos.etheriamagazine.com/2021/12/chef-Greivin-Rojas-costa-rica.jpg "Greivin Rojas, chef del restaurante Tournant, posando con un plato de calamares y papas. © P.Grifol")
 
 Y en [Cump](https://www.panaderiacumpanis.com/)[a](https://www.panaderiacumpanis.com/)[nis](https://www.panaderiacumpanis.com/), 
 conocido también como La Panadería, encontramos un surtido de frutas, panes, tartas y 
@@ -179,7 +179,7 @@ batidos difícil de igualar en otro lugar.
 
 Feliz aventura selvática y feliz degustación. 
 
-![restaurante cumpanis san jose costa rica](etheria-images/2021/12/Restaurante-Cumpanis.jpg "Restaurante Cumpanis. © Pedro Grifol")
+![restaurante cumpanis san jose costa rica](https://fotos.etheriamagazine.com/2021/12/Restaurante-Cumpanis.jpg "Restaurante Cumpanis. © Pedro Grifol")
 
 ### En busca del quetzal en Costa Rica | Etheria Magazine
 

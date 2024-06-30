@@ -1,7 +1,7 @@
 ---
 title: "NH Collection Dubai The Palm, un hotel perfecto para descubrir los Emiratos Árabes"
 date: 2024-03-06
-coverImage: etheria-images/2024/03/NH-Collection-Dubai-The_Palm-pisicna-.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/03/NH-Collection-Dubai-The_Palm-pisicna-.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -16,7 +16,7 @@ siempre una ciudad diferente. Una de las últimas incorporaciones ha sido NH Col
 Dubai The Palm, un hotel de cuatro estrellas con servicios de lujo y una ubicación de 
 primera que será la sede perfecta para tus excursiones por los Emiratos Árabes. 
 
-![Playa con el NH Collection Dubai The Palm al fondo.](etheria-images/2024/03/NH-Collection-Dubai-The-Palm-playa.jpg "Playa con el NH Collection Dubai The Palm al fondo.")
+![Playa con el NH Collection Dubai The Palm al fondo.](https://fotos.etheriamagazine.com/2024/03/NH-Collection-Dubai-The-Palm-playa.jpg "Playa con el NH Collection Dubai The Palm al fondo.")
 
 Dubái se está convirtiendo en uno de los destinos preferidos para realizar una escapada. 
 Esta ciudad de inmensos rascacielos vive volcada al ocio y ofrece infinidad de 
@@ -42,7 +42,7 @@ que Dubái es una ciudad que gana mucho desde las alturas. Aquí se encuentra un
 al atardecer, cuando el cielo se tiñe de mil colores que se reflejan en el mar y en los 
 cristales de los rascacielos. 
 
-![Piscina en la azotea del NH Collection Dubai The Palm.](etheria-images/2024/03/NH-Collection-Dubai-The_Palm-pisicna-.jpg "Piscina en la azotea del NH Collection Dubai The Palm.")
+![Piscina en la azotea del NH Collection Dubai The Palm.](https://fotos.etheriamagazine.com/2024/03/NH-Collection-Dubai-The_Palm-pisicna-.jpg "Piscina en la azotea del NH Collection Dubai The Palm.")
 
 ## Compromiso NH con la sostenibilidad
 
@@ -63,7 +63,7 @@ increíbles a la Marina de Dubái y al Dubai Eye, la gran noria de la ciudad. Y,
 curioso, es el primer hotel de Dubái con habitaciones veganas, donde los edredones, los 
 rellenos de almohadas y los cubrecolchones están elaborados con materiales sostenibles. 
 
-![Habitación en el NH Collection Dubai The Palm.](etheria-images/2024/03/NH-Collection-Dubai-The-Palm-Deluxe-Room.jpg "Habitación en el NH Collection Dubai The Palm.")
+![Habitación en el NH Collection Dubai The Palm.](https://fotos.etheriamagazine.com/2024/03/NH-Collection-Dubai-The-Palm-Deluxe-Room.jpg "Habitación en el NH Collection Dubai The Palm.")
 
 Podrás elegir entre la habitación Estándar, la habitación Superior, la habitación Club 
 Premium y la habitación Familiar. Y, por supuesto, la opción de las Suites siempre añade 
@@ -89,7 +89,7 @@ te gusten o no los deportes, no puedes perderte el **7 Sports Bar**, un lugar mu
 ambientado para disfrutar de los espectáculos deportivos, pero también para jugar al 
 billar o al futbolín. 
 
-![7 Sports Bar.](etheria-images/2024/03/nh-collection-the-palm-dubai-sport-bar.jpg "7 Sports Bar.")
+![7 Sports Bar.](https://fotos.etheriamagazine.com/2024/03/nh-collection-the-palm-dubai-sport-bar.jpg "7 Sports Bar.")
 
 ## Espacios para disfrutar del ocio
 

@@ -1,7 +1,7 @@
 ---
 title: "Klimt en Madrid, la primera experiencia inmersiva de MAD en Matadero"
 date: 2022-03-18
-coverImage: etheria-images/2022/03/klimt-matadero-madrid.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/03/klimt-matadero-madrid.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Si buscas una experiencia audiovisual inmersiva y además eres una enamorada del autor de _El Beso_, ve reservando fecha en tu agenda para disfrutar de Klimt en Madrid como nunca lo habías visto antes. Esta exposición desnuda el alma del artista austriaco mediante el empleo de recursos tecnológicos y audiovisuales, aunque también ofrece un interesante contexto de su vida y su obra.
 
-![obra del beso en tamaño gigante en la exposicion de klimt](etheria-images/2022/03/klimt-matadero-madrid.jpg "El Beso, la obra más conocida de Klimt en tamaño gigante en la sala inmersiva.")
+![obra del beso en tamaño gigante en la exposicion de klimt](https://fotos.etheriamagazine.com/2022/03/klimt-matadero-madrid.jpg "El Beso, la obra más conocida de Klimt en tamaño gigante en la sala inmersiva.")
 
 Tras su paso por Barcelona, ya tenemos a Klimt en Madrid, una exposición inmersiva con 
 una producción de gran formato en el nuevo centro MAD (Madrid Artes Digitales) ubicado 
@@ -23,7 +23,7 @@ Reality_ y _SOM Produce_, y la holandesa _Stardust_), que han invertido tres mil
 euros en su adecuación y que durante diez años crearán contenidos específicos para este 
 lugar. 
 
-![Personas de pie disfrutando de la exposicion de Klimt](etheria-images/2022/03/sala-inmersion-klimt-madrid.jpg "Sala inmersiva de Klimt en Matadero.")
+![Personas de pie disfrutando de la exposicion de Klimt](https://fotos.etheriamagazine.com/2022/03/sala-inmersion-klimt-madrid.jpg "Sala inmersiva de Klimt en Matadero.")
 
 ## Cómo es la exposición de Klimt en Madrid
 
@@ -47,7 +47,7 @@ carrera muy prometedora dentro de la pintura académica para fundar, con otros a
 la Secession, un movimiento que reivindica la libertad creativa frente a un arte caduco 
 y conservador”. 
 
-![Paneles informativos en la exposición de Klimt](etheria-images/2022/03/paneles-klimt-madrid.jpg "Paneles informativos en la exposición de Klimt. © E.M.")
+![Paneles informativos en la exposición de Klimt](https://fotos.etheriamagazine.com/2022/03/paneles-klimt-madrid.jpg "Paneles informativos en la exposición de Klimt. © E.M.")
 
 Entre la información ofrecida se dedica una parte importante a la mujer: la **mujer 
 moderna en España y Austria** en la época de Gustav Klimt, mujeres activistas con 
@@ -74,7 +74,7 @@ aparecen reclamaciones por más hijos ilegítimos. A pesar de ello, se le conoce
 “compañera sentimental”, Emilie Flöge (1874-1952), una mujer destacada de la burguesía 
 de Viena”. 
 
-![imagenes proyectadas en la sala de inmersion de la etapa dorada de kilmt](etheria-images/2022/03/mad-klimt-madrid-inmersiva.jpg "Etapa dorada de Klimt.")
+![imagenes proyectadas en la sala de inmersion de la etapa dorada de kilmt](https://fotos.etheriamagazine.com/2022/03/mad-klimt-madrid-inmersiva.jpg "Etapa dorada de Klimt.")
 
 ### 2\. El viaje inmersivo de Klimt en Madrid, Nave 16 de Matadero
 
@@ -94,7 +94,7 @@ Klimt y los dibujos (croquis y dibujos menos conocidos del artista) y La etapa d
 (una explosión de oro con algunas de las obras más famosas del pintor). Tras este 
 momento tan relajante puedes salir de la sala para continuar el recorrido. 
 
-![flores en la sala de inmersion de klimt en matadero](etheria-images/2022/03/primavera-klimt-madrid-900x615.jpg "Primavera de Klimt. © Etheria Magazine")
+![flores en la sala de inmersion de klimt en matadero](https://fotos.etheriamagazine.com/2022/03/primavera-klimt-madrid-900x615.jpg "Primavera de Klimt. © Etheria Magazine")
 
 ### 3\. Colorea y hazte una foto
 
@@ -112,7 +112,7 @@ Además de colorear, también puedes hacerte una foto en un **fotomatón** para 
 en un personaje de una obra de Klimt. No sale impreso pero puedes escanear el código 
 para recibirlo en tu móvil. 
 
-![niños pintando en una sala de Kilmt en matadero](etheria-images/2022/03/sala-pintar-klimt-madrid.jpg "Un espacio para dar rienda suelta a la creatividad.")
+![niños pintando en una sala de Kilmt en matadero](https://fotos.etheriamagazine.com/2022/03/sala-pintar-klimt-madrid.jpg "Un espacio para dar rienda suelta a la creatividad.")
 
 ### 4\. Viaje virtual al mundo de Klimt
 
@@ -122,7 +122,7 @@ gafas puestas, te llevarán de viaje por las pinturas más conocidas de Klimt, d
 época dorada hasta sus obras finales llenas de color. No te contamos más para que no se 
 pierda el efecto sorpresa, pero te va a gustar. 
 
-![sillas de la sala de realidad virtual sin nadie sentado](etheria-images/2022/03/sala-realidad-virtual-klimt.jpg "Sala de realidad virtual del centro MAD.")
+![sillas de la sala de realidad virtual sin nadie sentado](https://fotos.etheriamagazine.com/2022/03/sala-realidad-virtual-klimt.jpg "Sala de realidad virtual del centro MAD.")
 
 ### 5\. Tienda de recuerdos de la obra de Klimt
 
@@ -130,7 +130,7 @@ Como es habitual en los museos, este nuevo centro de artes visuales cuenta con u
 tienda llena de tentaciones. Encontrarás todo tipo de recuerdos desde libros a 
 camisetas, imanes, láminas y libretas. Difícil salir con las manos vacías. 
 
-![camiseta, láminas y un neceser de klimt](etheria-images/2022/03/tienda-recuerdos-klimt.jpg "Recuerdos de la exposición. © Etheria Magazine")
+![camiseta, láminas y un neceser de klimt](https://fotos.etheriamagazine.com/2022/03/tienda-recuerdos-klimt.jpg "Recuerdos de la exposición. © Etheria Magazine")
 
 Fotos: Cedidas por MAD Madrid. 
 

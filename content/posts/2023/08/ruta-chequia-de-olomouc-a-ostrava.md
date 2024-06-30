@@ -1,7 +1,7 @@
 ---
 title: "De Praga a Moravia, una ruta sorprendente en Chequia"
 date: 2023-08-25
-coverImage: etheria-images/2023/08/stramberk-pueblo-chequia.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/08/stramberk-pueblo-chequia.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ para descubrir un país repleto de paisajes frondosos y una vida que transcurre 
 ritmo más pausado. Recorrer en coche o en tren el este de Chequia invita a vivir el 
 asombro en cada parada. ¿Nos acompañas a las regiones de Olomouc y Moravia-Silesia? 
 
-![Barcos restaurante en Praga](etheria-images/2023/08/ribera-moldava-praga.jpg "La ribera del Moldava está llena de vida.© Pepa García")
+![Barcos restaurante en Praga](https://fotos.etheriamagazine.com/2023/08/ribera-moldava-praga.jpg "La ribera del Moldava está llena de vida.© Pepa García")
 
 El amanecer desde el Puente de Carlos, las vistas de la Ciudad Vieja desde la torre del 
 Reloj del Ayuntamiento, un paseo por la ribera del Moldava, el barrio judío, el 
@@ -30,7 +30,7 @@ intuición para descubrir no sólo la magnificencia de la capital, que tarde o t
 aparecerá ante tus ojos, sino también esa otra ciudad, quizás más huidiza, que permanece 
 ajena al trajín del turista. 
 
-![Panorámica de la plaza de la Ciudad Vieja desde la Torre del Reloj.](etheria-images/2023/08/praga-desde-torre-relpj.jpg "Panorámica de la plaza de la Ciudad Vieja desde la Torre del Reloj. © Pepa G.")
+![Panorámica de la plaza de la Ciudad Vieja desde la Torre del Reloj.](https://fotos.etheriamagazine.com/2023/08/praga-desde-torre-relpj.jpg "Panorámica de la plaza de la Ciudad Vieja desde la Torre del Reloj. © Pepa G.")
 
 ## Ruta por el este de Chequia, de Olomouc a Ostrava
 
@@ -53,7 +53,7 @@ de un conjunto escultórico barroco erigido para agradecer el fin de la peste. E
 mayor tamaño de Europa Central. Dada su altura, 32 metros, es interesante verlo también 
 desde la cercana torre del Ayuntamiento. 
 
-![Columna de la Santísima Trinidad de Olomouc.](etheria-images/2023/08/columna-olomouc.jpg "Columna de la Santísima Trinidad de Olomouc. © Pepa García")
+![Columna de la Santísima Trinidad de Olomouc.](https://fotos.etheriamagazine.com/2023/08/columna-olomouc.jpg "Columna de la Santísima Trinidad de Olomouc. © Pepa García")
 
 ### Reloj astronómico y catedral
 
@@ -68,7 +68,7 @@ En el paseo por Olomouc tampoco se debe pasar por alto la bella **Catedral de
 Wenceslao** con sus altísimas torres custodiando la fachada principal. Junto a la misma, 
 el Museo de la Archidiócesis muestra sus tesoros sacros y alguna carroza dorada. 
 
-![Fuente frente al Ayuntamiento de Olomouc.](etheria-images/2023/08/olomouc-etheria-magazine.jpg "Fuente frente al Ayuntamiento de Olomouc. © Pepa García")
+![Fuente frente al Ayuntamiento de Olomouc.](https://fotos.etheriamagazine.com/2023/08/olomouc-etheria-magazine.jpg "Fuente frente al Ayuntamiento de Olomouc. © Pepa García")
 
 ### Dónde comer en Olomouc
 
@@ -92,7 +92,7 @@ se debe a las reformas del siglo XIX. Se ha conservado muy bien y cuenta con un
 interesante mobiliario (fíjate en las alfombras de osos). Además, si te enamoras de su 
 capilla neogótica incluso podrás casarte allí por un módico alquiler (unos 400 euros). 
 
-![Interior del castillo de Bouzov.](etheria-images/2023/08/castillo-bouzov.jpg "Interior del castillo de Bouzov. © Pepa García")
+![Interior del castillo de Bouzov.](https://fotos.etheriamagazine.com/2023/08/castillo-bouzov.jpg "Interior del castillo de Bouzov. © Pepa García")
 
 ## Moravia-Silesia, verde e industrial
 
@@ -117,7 +117,7 @@ situada en la plaza principal, y el **obrador** que elabora las famosas orejas d
 Štramberk. Esta masa de harina, miel y especias recuerda una historia militar que seguro 
 te contarán allí mismo... Llévate una bolsa de orejas de recuerdo de su tienda. 
 
-![panorámica con casas de colores y la trorre truba en Stramberk](etheria-images/2023/08/stramberk-pueblo-chequia.jpg "Štramberk. © Pepa García")
+![panorámica con casas de colores y la trorre truba en Stramberk](https://fotos.etheriamagazine.com/2023/08/stramberk-pueblo-chequia.jpg "Štramberk. © Pepa García")
 
 ### Casas de muñecas en Pustevny
 
@@ -131,7 +131,7 @@ salido de un cuento de hadas. Puedes quedarte a comer para comprobar la calidad 
 cocina tradicional. Y si eres de bocata, también encontrarás prados y miradores donde 
 comer con las mejores vistas. 
 
-![Libušín y Maměnka, dos preciosas casas de madera.](etheria-images/2023/08/casas-pustevny.jpg "En Pustevny se encuentran Libušín y Maměnka, dos preciosas casas de madera. © Pepa G.")
+![Libušín y Maměnka, dos preciosas casas de madera.](https://fotos.etheriamagazine.com/2023/08/casas-pustevny.jpg "En Pustevny se encuentran Libušín y Maměnka, dos preciosas casas de madera. © Pepa G.")
 
 ### Sendero de Valaška
 
@@ -146,7 +146,7 @@ cielo al fondo.
 ?No te despistes si quieres bajar en teleférico, ya que cierra temprano y tendrás que 
 bajar caminando por la montaña (no es tan complicado). 
 
-![Sendero de Valaška.](etheria-images/2023/08/sendero-valaska-moravia.jpg "Sendero de Valaška. © Pepa García")
+![Sendero de Valaška.](https://fotos.etheriamagazine.com/2023/08/sendero-valaska-moravia.jpg "Sendero de Valaška. © Pepa García")
 
 ### Dónde dormir
 
@@ -177,7 +177,7 @@ supuesto, la fiesta que tan bien saben aprovechar los universitarios en la **cal
 Stodolní**. Esta es una de esas ciudades-erasmus a la que acuden cientos de estudiantes 
 cada curso y que insuflan vida con su juventud. 
 
-![Calle de Ostrava, en Moravia-Silesia.](etheria-images/2023/08/ostrava-moravia.jpg "Ostrava. © Pepa García")
+![Calle de Ostrava, en Moravia-Silesia.](https://fotos.etheriamagazine.com/2023/08/ostrava-moravia.jpg "Ostrava. © Pepa García")
 
 ### Un poco de historia
 
@@ -203,7 +203,7 @@ que deja la ropa suspendida de una cadena en el aire. Y, por último, se puede r
 la mina de carbón Michal (dul-michal.cz) para sentir cómo era una jornada minera y las 
 duras condiciones a las que debían enfrentarse los trabajadores. 
 
-![Dolní Vítkovice, fábrica siderúrgica de Ostrava](etheria-images/2023/08/dolni-vitkovice-ostrava.jpg "Visita guiada a Dolní Vítkovice. © Pepa G.")
+![Dolní Vítkovice, fábrica siderúrgica de Ostrava](https://fotos.etheriamagazine.com/2023/08/dolni-vitkovice-ostrava.jpg "Visita guiada a Dolní Vítkovice. © Pepa G.")
 
 ### Una visita más: castillo Silesiano
 

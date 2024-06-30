@@ -1,7 +1,7 @@
 ---
 title: "Hacienda Na Xamena o cómo encontrar la paz en Ibiza"
 date: 2022-10-07
-coverImage: etheria-images/2022/10/Hacienda-Na-Xamena-piscina.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-piscina.jpg
 categories: 
   - hoteles
 authors: 
@@ -13,7 +13,7 @@ unas vacaciones de poco descanso por su gran oferta de ocio. Pero hay lugares en
 como el hotel de cinco estrellas Hacienda Na Xamena que desvelan una isla donde la paz y 
 el contacto con la naturaleza serán tus compañeros de viaje. 
 
-![Acantilado de la Hacienda Na Xamena](etheria-images/2022/10/Hacienda-Na-Xamena-mar.jpg "Hacienda Na Xamena.")
+![Acantilado de la Hacienda Na Xamena](https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-mar.jpg "Hacienda Na Xamena.")
 
 Imagínate un bonito alojamiento blanco reluciente que no desentona con el paisaje, 
 asomado a un acantilado de 180 metros y donde casi cada rincón mira a un mar azul que 
@@ -32,7 +32,7 @@ increíble ubicación y su respeto por la naturaleza. No nos extraña nada que h
 escenario de películas y anuncios y hoy sea deseado por _influencers_ e _instagramers_ 
 para conseguir la foto perfecta. 
 
-![minipiscina y tumbonas en la hacienda Na Xamena en Ibiza](etheria-images/2022/10/Hacienda-Na-Xamena-Suite-Junior-Eden.jpg "Terraza de la Suite Junior Edén.")
+![minipiscina y tumbonas en la hacienda Na Xamena en Ibiza](https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-Suite-Junior-Eden.jpg "Terraza de la Suite Junior Edén.")
 
 ## Las habitaciones
 
@@ -42,7 +42,7 @@ Superior**, la **Suite Junior Hamman** (con baño turco privado) y la **habitaci
 (con minipiscina en el jardín). Todas tienen jacuzzi en la habitación, terraza o balcón 
 y unas vistas espectaculares. 
 
-![habitación con jacuzzi de la hacienda Na Xamena en Ibiza](etheria-images/2022/10/hacienda-na-xamena-habitacion-Eden.jpg "Habitación Edén de la Hacienda Na Xamena.")
+![habitación con jacuzzi de la hacienda Na Xamena en Ibiza](https://fotos.etheriamagazine.com/2022/10/hacienda-na-xamena-habitacion-Eden.jpg "Habitación Edén de la Hacienda Na Xamena.")
 
 Si buscas algo más de espacio, o viajas en familia, una muy buena opción es reservar 
 alguna de sus tres suites. La **Suite Junior Edén** tiene jacuzzi, hamman y terraza con 
@@ -59,7 +59,7 @@ siguiendo por las delicadas propuestas que combinan los productos de la tierra c
 elaboraciones vanguardistas. Es importante señalar que la Hacienda Na Xamena tiene un 
 **huerto propio de cultivo ecológico** con el que elaboran gran parte de la carta. 
 
-![restaurante Edén de la Hacienda Na Xamena](etheria-images/2022/10/Hacienda-Na-Xamena-Eden-Restaurante.jpg "Cena con vistas en el restaurante Edén.")
+![restaurante Edén de la Hacienda Na Xamena](https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-Eden-Restaurante.jpg "Cena con vistas en el restaurante Edén.")
 
 Durante el día podrás elegir algo del **menú By The Pool**, con gyozas, ensaladas, 
 ceviches, sándwiches, hamburguesas… Platos perfectos para degustar al borde de la 
@@ -83,7 +83,7 @@ disfrutar en pareja o en familia. Además, La Posidonia Spa dispone de salas par
 práctica del yoga, meditación y pilates. También puedes aprovechar y regalarte uno de 
 sus tratamientos faciales de SkinCeuticals. 
 
-![Piscinas suspendidas de la Hacienda Na Xamena](etheria-images/2022/10/Hacienda-Na-Xamena-Cascadas-Suspendidas.jpg "La Posidonia Spa al atardecer.")
+![Piscinas suspendidas de la Hacienda Na Xamena](https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-Cascadas-Suspendidas.jpg "La Posidonia Spa al atardecer.")
 
 ## Actividades en Hacienda Na Xamena
 
@@ -100,7 +100,7 @@ ver películas y jugar a los videojuegos. También dispone de una pista polidepo
 donde se puede practicar tenis, fútbol y voleibol, una zona de petanca y bicicletas de 
 montaña disponibles para los huéspedes. 
 
-![piscina con vistas al mar en la Hacienda Na Xamena](etheria-images/2022/10/Hacienda-Na-Xamena-piscina.jpg "Piscina exterior de la Hacienda Na Xamena.")
+![piscina con vistas al mar en la Hacienda Na Xamena](https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-piscina.jpg "Piscina exterior de la Hacienda Na Xamena.")
 
 Desde la recepción del hotel te pueden ayudar a organizar las excursiones que desees 
 hacer por la isla, desde alquilar un yate privado o hacer una ruta en kayak, hasta 

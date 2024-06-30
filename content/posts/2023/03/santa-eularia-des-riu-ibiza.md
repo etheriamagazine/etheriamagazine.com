@@ -1,7 +1,7 @@
 ---
 title: "Santa Eulària des Riu, el municipio de Ibiza más ‘hippy-sostenible’"
 date: 2023-03-03
-coverImage: etheria-images/2023/03/Ibiza-Playa-SEstañol-columpio.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/03/Ibiza-Playa-SEstañol-columpio.jpg
 categories: 
   - viajes-con-amigas
   - viajar-sola
@@ -16,7 +16,7 @@ Planeta Tierra por aquellos tiempos: “Haz el amor, no la guerra”. Aquella co
 a Santa Eulària des Riu –¡por tierra, mar y aire!– más que a ningún otro lugar de 
 España. 
 
-![Mujer columpiándose en la playa S'Estañol en Ibiza](etheria-images/2023/03/Ibiza-Playa-SEstañol-columpio.jpg "Columpio en la playa S'Estañol. © Pedro Grifol.")
+![Mujer columpiándose en la playa S'Estañol en Ibiza](https://fotos.etheriamagazine.com/2023/03/Ibiza-Playa-SEstañol-columpio.jpg "Columpio en la playa S'Estañol. © Pedro Grifol.")
 
 Desde la década de los sesenta, el cruce de culturas entre aquellos forasteros –llamados 
 _hippies_– y los habitantes autóctonos ha sobrevivido hasta nuestros días en una especie 
@@ -35,7 +35,7 @@ los pueblos pintorescos y la naturaleza protegida… A lo que añadimos la posib
 practicar todo tipo de deportes náuticos y disfrutar de la excelsa gastronomía que 
 caracteriza los tiempos que corren. 
 
-![mujeres frente a la iglesia Puig de Missa en Santa Eulària des Riu](etheria-images/2023/03/Ibiza-Iglesia-Puig-de-Missa.jpg "Iglesia Puig de Missa en Santa Eulària des Riu. © PG")
+![mujeres frente a la iglesia Puig de Missa en Santa Eulària des Riu](https://fotos.etheriamagazine.com/2023/03/Ibiza-Iglesia-Puig-de-Missa.jpg "Iglesia Puig de Missa en Santa Eulària des Riu. © PG")
 
 Campos de algarrobos, molinos, higueras, almendros… ¡y duendes! siguen ocupando los 
 terrenos de los payeses de antaño, donde se sigue practicando la construcción de las 
@@ -49,7 +49,7 @@ situado en la parte oriental de la isla y lo componen cinco parroquias (así las
 denominan allí): Santa Eulària, Sant Carles de Peralta, Santa Gertrudis de Fruitera, 
 Jesús y Es Puig d’en Valls. 
 
-![Escultura delante de Santa Eulària des Riu](etheria-images/2023/03/Ibiza-Santa-Eularia-des-Riu.jpg "Santa Eulària des Riu. © Pedro Grifol")
+![Escultura delante de Santa Eulària des Riu](https://fotos.etheriamagazine.com/2023/03/Ibiza-Santa-Eularia-des-Riu.jpg "Santa Eulària des Riu. © Pedro Grifol")
 
 La capital del municipio, **Santa Eulària**, está a 15 minutos de la ciudad de Ibiza 
 capital. En sus 46 kilómetros de playa tiene la fortuna de poseer algunas de las calas 
@@ -80,7 +80,7 @@ el filtro de un teórico ‘atrapasueños’, ese adminículo formado por un aro
 interior por el que transcurren los sueños, dejando pasar solo los sueños positivos… (o 
 eso dicen). 
 
-![Hippies en el Mercadillo Las Dalias](etheria-images/2023/03/Mercadillo-hippy-Las-Dalias.jpg "Mercadillo Las Dalias. © Pedro Grifol.")
+![Hippies en el Mercadillo Las Dalias](https://fotos.etheriamagazine.com/2023/03/Mercadillo-hippy-Las-Dalias.jpg "Mercadillo Las Dalias. © Pedro Grifol.")
 
 Los doscientos puestos instalados ya tienen adquirida solera. Pertenecen a _hippies_ 
 autónomos que, aunque no emitan facturas, se supone que deben cotizar a Hacienda ¡cómo 
@@ -104,7 +104,7 @@ construido en el siglo X; el **puente Vell** y la **Fuente d’en Lluna**, que c
 leyenda incluida sobre su construcción en la que no puede faltar el demonio… o el duende 
 ‘Fameliar’. 
 
-![El Puente Nuevo en la Ruta del Río](etheria-images/2023/03/Ibiza-Puente-Nuevo-Ruta-del-Río.jpg "El Puente Nuevo en la Ruta del Río. © PG")
+![El Puente Nuevo en la Ruta del Río](https://fotos.etheriamagazine.com/2023/03/Ibiza-Puente-Nuevo-Ruta-del-Río.jpg "El Puente Nuevo en la Ruta del Río. © PG")
 
 Otro paseo atractivo es el que podemos hacer a pie de costa, desde el pueblo de Santa 
 Eulària hasta la **playa de Es Canar**, en el que veremos recónditas playas, empezando 
@@ -118,7 +118,7 @@ borde del agua, y donde se degusta, como plato único (y al precio de 29 euros),
 improbable que encuentres mesa libre. Toma nota: Llama al teléfono 650797633 (de 10 a 13 
 h.) para reservar mesa y día. 
 
-![Acantilados en Paseo por la costa en Santa Eulária des Riu](etheria-images/2023/03/Ibiza-Costa-de-Santa-Eularia-des-Riu.jpg "Paseo por la costa en Santa Eulária des Riu. © PG.")
+![Acantilados en Paseo por la costa en Santa Eulária des Riu](https://fotos.etheriamagazine.com/2023/03/Ibiza-Costa-de-Santa-Eularia-des-Riu.jpg "Paseo por la costa en Santa Eulária des Riu. © PG.")
 
 También puedes ver **cala Mastella** desde el mar si alquilas un llaüt, que es una 
 embarcación de pesca tradicional. Lo alquila Fabian Escudero (www.marinedreams.es), que 
@@ -138,7 +138,7 @@ granja que, además de cultivar numerosas variedades de frutas, hortalizas y ver
 tiene animales autóctonos como el _porc negre_. Si viajas con niños es el lugar ideal. 
 Entre gallinas, burros y patos puedes pasar una jornada divertida y comer allí. 
 
-![licor de hierbas de Ibiza y granja ecológica](etheria-images/2023/03/Ibiza-Can-Muson-Juan-tur.jpg "Juan Tur de Can Fluxá y paseo por Can Musón. © SG")
+![licor de hierbas de Ibiza y granja ecológica](https://fotos.etheriamagazine.com/2023/03/Ibiza-Can-Muson-Juan-tur.jpg "Juan Tur de Can Fluxá y paseo por Can Musón. © SG")
 
 ## Experiencia en Ibiza: hacer tu propio licor de hierbas
 

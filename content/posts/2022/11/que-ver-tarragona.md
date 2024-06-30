@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Tarragona, pueblos y rutas que enamoran"
 date: 2022-11-23
-coverImage: etheria-images/2022/11/tarragona-delta-del-Ebro.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -14,7 +14,7 @@ tarraconense, los paisajes del delta de l'Ebre y del Priorat, la costa y los mon
 y castillos del interior. En esta guía encontrarás los lugares imprescindibles que ver 
 en Tarragona, guárdala para tu próximo viaje. 
 
-![Cartuja de Escaladei, en Costa Daurada.](etheria-images/2022/11/costa-dorada-escaladei.jpg "Cartuja de Escaladei. © Costa Daurada/ Joan Capdevila")
+![Cartuja de Escaladei, en Costa Daurada.](https://fotos.etheriamagazine.com/2022/11/costa-dorada-escaladei.jpg "Cartuja de Escaladei. © Costa Daurada/ Joan Capdevila")
 
 Bonitos pueblos, playas deliciosas, rincones con encanto, santuarios modernistas y 
 parajes naturales de ensueño te esperan en una escapada turística por la **provincia de 
@@ -41,7 +41,7 @@ marcha y sumérgete en una ciudad moderna, abierta y acogedora, y sobre todo, mo
 ?No te pierdas: [10 buenas razones para escaparse a la antigua 
 Tarraco](https://etheriamagazine.com/2021/12/29/por-que-visitar-tarragona/). 
 
-![Casa salas, una construcción modernista de Tarragona.](etheria-images/2022/11/Tarragona-casa_salas.jpg "Casa salas, una construcción modernista de Tarragona.")
+![Casa salas, una construcción modernista de Tarragona.](https://fotos.etheriamagazine.com/2022/11/Tarragona-casa_salas.jpg "Casa salas, una construcción modernista de Tarragona.")
 
 ### Anfiteatro romano
 
@@ -55,7 +55,7 @@ la pena también visitar el Circo, el escenario donde se disputaban las famosas 
 de carros, entre ellas las de cuadrigas, y que podía albergar hasta a 25.000 
 espectadores. 
 
-![Anfiteatro romano, una visita imprescindible en Tarragona.](etheria-images/2022/11/1-Tarragona-anfiteatro.jpg "Anfiteatro romano de Tarragona.")
+![Anfiteatro romano, una visita imprescindible en Tarragona.](https://fotos.etheriamagazine.com/2022/11/1-Tarragona-anfiteatro.jpg "Anfiteatro romano de Tarragona.")
 
 ### Las murallas
 
@@ -65,7 +65,7 @@ Hoy se conservan en buen estado 1,1 kilómetros, además de tres torres, entre e
 del Arzobispo y la de Minerva, que tiene la particularidad de poseer la inscripción 
 latina más antigua de la Península. 
 
-![Murallas de Tarragona.](etheria-images/2022/11/2-Tarragona-murallas.jpg "Murallas de Tarragona.")
+![Murallas de Tarragona.](https://fotos.etheriamagazine.com/2022/11/2-Tarragona-murallas.jpg "Murallas de Tarragona.")
 
 ### Casco antiguo de Tarragona
 
@@ -75,7 +75,7 @@ Mercado Central, el Balcón del Mediterráneo y la Rambla Nova, sin olvidar el M
 Nacional Arqueológico, que desde el siglo XIX alberga fragmentos de esculturas, 
 mosaicos, cerámicas e incluso un lienzo de la muralla romana. 
 
-![Catedral de Tarragona.](etheria-images/2022/11/3-Tarragona-Catedral.jpg "Catedral de Tarragona.")
+![Catedral de Tarragona.](https://fotos.etheriamagazine.com/2022/11/3-Tarragona-Catedral.jpg "Catedral de Tarragona.")
 
 ### El barrio del Serrallo
 
@@ -87,7 +87,7 @@ rico pescado con la famosa salsa romesco. Si tienes ocasión, visita la lonja, d
 subasta a diario el pescado, o el viejo edificio del Pósito de Pescadores, que ha sido 
 rehabilitado para actividades culturales. 
 
-![Barrio de Serrallo, casas bajas y palmeras.](etheria-images/2022/11/4-Tarragona-serrallo.jpg "Barrio de Serrallo.")
+![Barrio de Serrallo, casas bajas y palmeras.](https://fotos.etheriamagazine.com/2022/11/4-Tarragona-serrallo.jpg "Barrio de Serrallo.")
 
 ### Monumento a los Castells
 
@@ -109,7 +109,7 @@ apenas 60 metros. Ambas anuncian el gran arenal tarraconense, la Playa Larga, co
 tres kilómetros de casi infinita arena. Y si lo que deseas es calma e intimidad, te 
 esperan tres coquetas calas: la playa de l’Arboçar, la playa de Becs y la Cala Jovera. 
 
-![Playa de L’Arrabassada, en Tarragona capital.](etheria-images/2022/11/6-playas-Tarragona-Arrabassada.jpg "Playa de L’Arrabassada, en Tarragona capital.")
+![Playa de L’Arrabassada, en Tarragona capital.](https://fotos.etheriamagazine.com/2022/11/6-playas-Tarragona-Arrabassada.jpg "Playa de L’Arrabassada, en Tarragona capital.")
 
 ## Los pueblos más bonitos de Tarragona
 
@@ -123,7 +123,7 @@ Valencia. Es obligatorio, por tanto, visitar su castillo templario y descubrir s
 colgantes y su entorno natural siguiendo el paso del Ebro. Si tienes tiempo, puedes 
 tomar una barca y dar un paseo por el río. O incluso visitar un taller de alfarería. 
 
-![Llagut Lo Sirgador frente a Miravet.](etheria-images/2022/11/tarragona-Miravet.jpg "Llagut Lo Sirgador frente a Miravet. © Terres de l'Ebre")
+![Llagut Lo Sirgador frente a Miravet.](https://fotos.etheriamagazine.com/2022/11/tarragona-Miravet.jpg "Llagut Lo Sirgador frente a Miravet. © Terres de l'Ebre")
 
 ### Montblanc
 
@@ -145,7 +145,7 @@ cuantas viviendas y una iglesia románica de tres naves que es uno de los ejempl
 puros y tempranos de arquitectura románica en la provincia. Sin duda, es uno de los 
 pueblos bonitos que tienes que ver en Tarragona. 
 
-![Castillo de Tamarit visto desde el mar.](etheria-images/2022/11/Tarragona-castillo-Tamarit.jpg "Castillo de Tamarit. © José Carlos León")
+![Castillo de Tamarit visto desde el mar.](https://fotos.etheriamagazine.com/2022/11/Tarragona-castillo-Tamarit.jpg "Castillo de Tamarit. © José Carlos León")
 
 ### Prades
 
@@ -157,7 +157,7 @@ de Santa María la Mayor está documentada desde el año 1194 y del castillo, qu
 habitado por los condes de Prades, apenas quedan restos. Una de sus grandes 
 celebraciones es la Fiesta de la Patata, que tiene lugar a mediados de septiembre. 
 
-![Plaza Mayor de Prades.](etheria-images/2022/11/tarragona-Prades.jpg "Plaza Mayor de Prades. © Parc Astronòmic Muntanyes de Prades")
+![Plaza Mayor de Prades.](https://fotos.etheriamagazine.com/2022/11/tarragona-Prades.jpg "Plaza Mayor de Prades. © Parc Astronòmic Muntanyes de Prades")
 
 ### Horta de Sant Joan
 
@@ -171,7 +171,7 @@ artista malagueño en el Centro Picasso. Conviene recorrer también despacio su 
 histórico y detenerse en el convento de San Salvador, en la casa Havanero y en la casa 
 Colau de la plaza de la Iglesia. 
 
-![Calles de piedra del pueblo de la Horta de San Joan.](etheria-images/2022/11/tarragona-Horta-Sant-Joan-2.jpg "Horta de Sant Joan. © Terres de l'Ebre")
+![Calles de piedra del pueblo de la Horta de San Joan.](https://fotos.etheriamagazine.com/2022/11/tarragona-Horta-Sant-Joan-2.jpg "Horta de Sant Joan. © Terres de l'Ebre")
 
 ## Paisajes naturales únicos
 
@@ -185,7 +185,7 @@ aquellos viajeros que aman la tranquilidad y la calma en plena naturaleza. Adem�
 muchas las actividades que se pueden hacer, desde navegar a bordo de un laúd turístico 
 hasta dar un paseo en piragua o aprender a recolectar arroz. 
 
-![Paseo en barca por el Delta del Ebro.](etheria-images/2022/11/tarragona-delta-del-Ebro-850x570.jpg "Paseo en barca por el Delta del Ebro. © Terres de l'Ebre")
+![Paseo en barca por el Delta del Ebro.](https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro-850x570.jpg "Paseo en barca por el Delta del Ebro. © Terres de l'Ebre")
 
 ### Priorat
 
@@ -197,7 +197,7 @@ por los restos de su castillo musulmán. Y si te apasiona el vino, hay una Ruta 
 Bodegas que tiene parada, entre otras, en la cooperativa de Falset, la bodega Cornudella 
 de Montsant o la Bodega Joan Ametller. 
 
-![Paisaje vinícola del Priorat, en Costa Daurada.](etheria-images/2022/11/paisaje-vinicola-priorat-850x510.jpg "Paisaje vinícola del Priorat. © Costa Daurada/ Joan Capdevila")
+![Paisaje vinícola del Priorat, en Costa Daurada.](https://fotos.etheriamagazine.com/2022/11/paisaje-vinicola-priorat-850x510.jpg "Paisaje vinícola del Priorat. © Costa Daurada/ Joan Capdevila")
 
 ## Otros lugares para disfrutar
 
@@ -210,7 +210,7 @@ hora de darte un chapuzón y disfrutar del sol y la arena a placer. ¿Quieres qu
 algunas? Ahí van: Cala Fonda, Cala Jovera, Cala Penya Tallada, Playa El Dorado, Playa 
 del Castillo, Cala Forn… 
 
-![Playas de Riumar, snorkel en L'Ametla de Mar, cala Llenya y playas de Les Cases d'Alcanar.](etheria-images/2022/11/tarragona-Playas-delta-ebro-850x556.jpg "Playas de Riumar, snorkel en L'Ametla de Mar, cala Llenya y playas de Les Cases d'Alcanar. © Terres de l'Ebre")
+![Playas de Riumar, snorkel en L'Ametla de Mar, cala Llenya y playas de Les Cases d'Alcanar.](https://fotos.etheriamagazine.com/2022/11/tarragona-Playas-delta-ebro-850x556.jpg "Playas de Riumar, snorkel en L'Ametla de Mar, cala Llenya y playas de Les Cases d'Alcanar. © Terres de l'Ebre")
 
 ### PortAventura World
 

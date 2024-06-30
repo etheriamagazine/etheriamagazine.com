@@ -1,7 +1,7 @@
 ---
 title: "Blanca Zayas: \"Viajar es una inversión en cultura  y autoconocimiento\""
 date: 2019-05-13
-coverImage: etheria-images/2019/05/blanca-zayas-apertura.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/blanca-zayas-apertura.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -13,7 +13,7 @@ authors:
 
 A veces los trabajos se adaptan tanto a nuestro perfil que parece que hemos nacido para ellos. En el caso de Blanca Zayas, una apasionada de los viajes, TripAdvisor le ha permitido desarrollar su carrera profesional en un campo afín a sus gustos. En esta entrevista conoceremos a la mujer que está detrás de la comunicación en España de una de las mayores comunidades de viajeros del mundo.
 
-![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje nueva york](etheria-images/2019/05/blanca-zayas-apertura.jpg "Blanca Zayas en Nueva York.")
+![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje nueva york](https://fotos.etheriamagazine.com/2019/05/blanca-zayas-apertura.jpg "Blanca Zayas en Nueva York.")
 
 **Blanca Zayas** es desde hace casi una década la directora de comunicación de 
 **Tripadvisor** en España pero, también, una amante de los viajes, la naturaleza, la 
@@ -38,7 +38,7 @@ humildad muchas veces no son positivos”. Sobre su pasión por los viajes, recu
 recomendaciones para otras viajeras también nos ha hablado y sus respuestas nos dan 
 muchas pistas para viajar. 
 
-![Blanca Zayas, entrevista mujeres etheria, viajes](etheria-images/2019/05/Blanca-playa.jpg "En las dunas de Natal (Brasil).")
+![Blanca Zayas, entrevista mujeres etheria, viajes](https://fotos.etheriamagazine.com/2019/05/Blanca-playa.jpg "En las dunas de Natal (Brasil).")
 
 **1\. ¿Cuál es el primer viaje que recuerdas?** 
 
@@ -77,7 +77,7 @@ Calaf](https://etheriamagazine.com/2018/09/17/rosa-maria-calaf-es-una-mujer-ethe
 otra mujer Etheria a la que tuve el enorme gusto de conocer hace unos años y a la que 
 admiro mucho profesional y personalmente. 
 
-![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje africa](etheria-images/2019/05/blanca-zayas-mujer-etheria.jpg "Viaje a Botsuana.")
+![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje africa](https://fotos.etheriamagazine.com/2019/05/blanca-zayas-mujer-etheria.jpg "Viaje a Botsuana.")
 
 **5\. ¿Sueles planificar con antelación tus viajes o prefieres improvisar?** 
 
@@ -108,7 +108,7 @@ en un polo totalmente opuesto, la última visita que hice en enero a **Nueva Yor
 mi tía y mi mejor amiga. Es una ciudad que nunca defrauda, a la que seguiré volviendo 
 siempre que pueda. 
 
-![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje uganda australia](etheria-images/2019/05/blanca-zayas-uganda-australia.jpg "Viajes a Uganda y Australia.")
+![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje uganda australia](https://fotos.etheriamagazine.com/2019/05/blanca-zayas-uganda-australia.jpg "Viajes a Uganda y Australia.")
 
 **8\. ¿Y tu último viaje?** 
 
@@ -132,7 +132,7 @@ autocaravana](https://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocarava
 punta a punta. También tengo muchas ganas de conocer **Filipinas**, aunque tendrá que 
 esperar a 2020, ya que este año ya tengo programado un viaje a **Namibia**. 
 
-![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje delta okavango](etheria-images/2019/05/blanca-zayas-delta-okavango-e1557398552842.jpg "Viaje al Delta del Okavango.")
+![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje delta okavango](https://fotos.etheriamagazine.com/2019/05/blanca-zayas-delta-okavango-e1557398552842.jpg "Viaje al Delta del Okavango.")
 
 **11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto?** 
 
@@ -159,7 +159,7 @@ leonas se pasearon delante de mi tienda durante la noche. Estar a sólo unos met
 uno de los animales más bellos del mundo fue una de las experiencias más emocionantes de 
 mi vida. 
 
-![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje tanzania](etheria-images/2019/05/Blanca-Zayas-Tanzania.jpg "Viaje a Tanzania.")
+![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje tanzania](https://fotos.etheriamagazine.com/2019/05/Blanca-Zayas-Tanzania.jpg "Viaje a Tanzania.")
 
 **14\. ¿Qué es lo que nunca falta en tu bolsa de mano?** 
 

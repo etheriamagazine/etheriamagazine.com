@@ -1,7 +1,7 @@
 ---
 title: "Hotel One&Only Royal Mirage, un cinco estrellas perfecto para vivir Dubái con estilo"
 date: 2022-02-04
-coverImage: etheria-images/2022/02/RoyalMirage-Playa.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Playa.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 La oferta de hoteles en Dubái es casi inabarcable, pero si buscas darte un capricho te recomendamos el One&Only Royal Mirage, un resort de playa con mucho estilo en el corazón de la urbe. Aquí tendrás un punto de partida perfecto para tus excursiones y un lugar donde acudir a descansar de la vorágine de la ciudad.
 
-![One&Only Royal Mirage.](etheria-images/2022/02/RoyalMirage-entrada.jpg "One&Only Royal Mirage.")
+![One&Only Royal Mirage.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-entrada.jpg "One&Only Royal Mirage.")
 
 Hay hoteles en los que según atraviesas el primer arco de entrada ya sabes que vas a 
 tener la suerte de alojarte en un lugar muy especial. Eso sucede en el **hotel One&Only 
@@ -28,7 +28,7 @@ desde la tumbona de la playa de un mar que termina en enormes rascacielos. Es so
 de los contrastes que te vas a encontrar en una ciudad tan sorprendente y distinta a 
 todo como es Dubái. 
 
-![Piscina del 'beach club' DRIFT.](etheria-images/2022/02/RoyalMirage-Piscina-Drift.jpg "Piscina del 'beach club' DRIFT.")
+![Piscina del 'beach club' DRIFT.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Piscina-Drift.jpg "Piscina del 'beach club' DRIFT.")
 
 Además, The One&Only Roya Mirage es uno hotel lleno de estilo, donde también se puede 
 disfrutar de la noche en **DRIFT**, el beach club solo para adultos con acceso a la 
@@ -42,7 +42,7 @@ pasear. Cada una ofrece distintos tipos de habitaciones para que encuentres la q
 se adapta a tus gustos y necesidades. Eso sí, en todas tendrás disponibles los servicios 
 de un hotel cinco estrellas que mima hasta los más pequeños detalles. 
 
-![Suite de One&Only Royal Mirage.](etheria-images/2022/02/RoyalMirage-Prince-Suite.jpg "Suite de One&Only Royal Mirage.")
+![Suite de One&Only Royal Mirage.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Prince-Suite.jpg "Suite de One&Only Royal Mirage.")
 
 #### The Palace
 
@@ -59,7 +59,7 @@ aseguramos que descubrirás algo nuevo donde detener la mirada. Aquí todas las
 habitaciones y suites tienen vistas al mar. En esta zona podrás escoger alojarte entre 
 las Deluxe Rooms, las Executives Suites y las Prince Suites. 
 
-![Galería en la zona de Arabian Court.](etheria-images/2022/02/RoyalMirage-Arabian-Court-Grand-Gallery-683x1024.jpg "Galería en la zona de Arabian Court.")
+![Galería en la zona de Arabian Court.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Arabian-Court-Grand-Gallery-683x1024.jpg "Galería en la zona de Arabian Court.")
 
 #### Residence & Spa
 
@@ -79,14 +79,14 @@ toques franceses; y **The Beach Bar & Grill**, perfecto para disfrutar de su coc
 brasa en un restaurante lleno de estilo. Además, **The Jetty Lounge** es ideal para 
 tomar algo junto al mar. 
 
-![Restaurante Tagine.](etheria-images/2022/02/RoyalMirage-Tagine.jpg "Restaurante Tagine.")
+![Restaurante Tagine.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Tagine.jpg "Restaurante Tagine.")
 
 Arabian Court tiene tres restaurantes: **The Rotisserie**, perfecto para cenar mientras 
 se disfruta de su _show cooking_ y donde se sirven los desayunos; **Nina**, un 
 restaurante para probar cocina india contemporánea; y **Eauzone**, al lado de la piscina 
 y la playa, ideal para almuerzos con vistas al mar. 
 
-![Restaurante EauZone, junto a la piscina y el mar.](etheria-images/2022/02/RoyalMirage-EauZone.jpg "Restaurante EauZone, junto a la piscina y el mar.")
+![Restaurante EauZone, junto a la piscina y el mar.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-EauZone.jpg "Restaurante EauZone, junto a la piscina y el mar.")
 
 En The Residence & Spa, **The Dining Room** es la mejor opción para desayunos, comidas y 
 cenas, y **The Library** para tomar el té por la tarde o un cóctel para comentar todo lo 
@@ -103,7 +103,7 @@ Si buscas lucir un toque especial para la cena, tendrás que pasar por **Pedi:Ma
 Studio by Bastien Gonzalez** y **Zouari Hair Salon**, dos firmas de prestigio en Dubái 
 para salir estupendas. 
 
-![Hamman del spa del One&Only Royal Mirage.](etheria-images/2022/02/RoyalMirage-Spa-Hammam.jpg "Hamman del spa del One&Only Royal Mirage.")
+![Hamman del spa del One&Only Royal Mirage.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Spa-Hammam.jpg "Hamman del spa del One&Only Royal Mirage.")
 
 Y en el **Fitness Centre** podrás hacer ese deporte que no puedes dejar ni en 
 vacaciones, con la última tecnología y asesorada por sus monitores. 
@@ -119,7 +119,7 @@ campo de petanca. Si te van más los **deportes acuáticos**, no dejes de pasar 
 centro de _water sports_: aquí tendrás disponibles palas de pádel surf, esquí acuático, 
 kayak, vela, equipamiento para hacer snorkel… 
 
-![Playa del hotel One&Only Royal Mirage.](etheria-images/2022/02/RoyalMirage-Playa.jpg "Playa del hotel One&Only Royal Mirage.")
+![Playa del hotel One&Only Royal Mirage.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Playa.jpg "Playa del hotel One&Only Royal Mirage.")
 
 Para descansar, sus **piscinas** son preciosas y están llenas de detalles: incluso te 
 sorprenderán con brochetas de fruta o batidos mientras tomas el sol. Uno de sus rincones 

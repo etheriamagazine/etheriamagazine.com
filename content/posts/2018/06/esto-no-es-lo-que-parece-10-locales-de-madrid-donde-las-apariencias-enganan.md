@@ -1,7 +1,7 @@
 ---
 title: "10 locales clandestinos de Madrid o donde las apariencias engañan"
 date: 2018-06-28
-coverImage: etheria-images/2018/06/Madrid-bar-clandestino.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/06/Madrid-bar-clandestino.jpg
 categories: 
   - viajes-con-amigas
   - viajes-urbanos
@@ -16,7 +16,7 @@ convertirte en pescadera, delincuente o compradora de panties vintage? Si te con
 la canallita profesional de tu grupo de amigas, esta es la ruta de peregrinación para 
 jugar al despiste con ellas —que las condenadas nunca deciden dónde ir a tomar algo—. 
 
-![Intruso Bar, uno de los bares clandestinos de Madrid.](etheria-images/2018/06/INTRUSO-bar-clandestino-Madrid.jpg "Intruso Bar, uno de los bares clandestinos de Madrid.")
+![Intruso Bar, uno de los bares clandestinos de Madrid.](https://fotos.etheriamagazine.com/2018/06/INTRUSO-bar-clandestino-Madrid.jpg "Intruso Bar, uno de los bares clandestinos de Madrid.")
 
 Aviso: no te podrás resistir a hacer miles de stories. Pero no reveles demasiadas 
 pistas, muchos de estos lugares son 'muy secretos'. Si quieres conocer locales fuera de 
@@ -37,7 +37,7 @@ la prueba. Y lo hace en una de las zonas con más proyección de Madrid.
 
 ¿Dónde está la sala Equis? Duque de Alba, 4. Madrid. salaequis.es 
 
-![Sala equis, un antiguo cine para adultos](etheria-images/2018/06/Sala-equis.jpg "© Sala Equis (Madrid)")
+![Sala equis, un antiguo cine para adultos](https://fotos.etheriamagazine.com/2018/06/Sala-equis.jpg "© Sala Equis (Madrid)")
 
 ## 2\. Intruso Bar
 
@@ -49,7 +49,7 @@ al más puro estilo ‘La la land’, tampoco.
 
 ¿Dónde está Intruso Bar? En Augusto Figueroa, 3. Madrid. www.intrusobar.com 
 
-![Conciertos de Jazz en Intruso Bar](etheria-images/2018/06/Intruso-Bar.jpg "© Intruso Bar (Madrid)")
+![Conciertos de Jazz en Intruso Bar](https://fotos.etheriamagazine.com/2018/06/Intruso-Bar.jpg "© Intruso Bar (Madrid)")
 
 ## 3\. El Vagón de Beni
 
@@ -65,7 +65,7 @@ imaginación.
 
 ¿Dónde está? En San Macario, 6. Hoyo de Manzanares. www.elvagondebeni.es 
 
-![Cenar en un tren de Madrid](etheria-images/2018/06/El-vagón-de-Beni-bar-clandestino-madrid.jpg "El Vagón de Veni. Cenar en un tren y ¿por qué no?")
+![Cenar en un tren de Madrid](https://fotos.etheriamagazine.com/2018/06/El-vagón-de-Beni-bar-clandestino-madrid.jpg "El Vagón de Veni. Cenar en un tren y ¿por qué no?")
 
 ## 4\. Medias Puri
 
@@ -78,7 +78,7 @@ Descifrar el misterio de Medias Puri corre por tu cuenta (no habrás creído que
 
 ¿Dónde está Medias Puri? Plaza Tirso de Molina, 1. Madrid. mediaspuri.com 
 
-![Medias Puri, lugares originales para salir en Madrid](etheria-images/2018/06/MEDIAS-PURI-PH-Lighuen-Desanto-86.jpg "© Medias Puri, la mercería más famosa de Madrid")
+![Medias Puri, lugares originales para salir en Madrid](https://fotos.etheriamagazine.com/2018/06/MEDIAS-PURI-PH-Lighuen-Desanto-86.jpg "© Medias Puri, la mercería más famosa de Madrid")
 
 ## 5\. Palermo
 
@@ -93,7 +93,7 @@ buscan pasar una noche de anonimato, risas, rock y juegos.
 ¿Dónde está? Calle Palermo, 21. Madrid. Más inf. en IG: 
 **www.instagram.com/palermo.bar** 
 
-![Bar Palermo, un local de rock para salir en Madrid](etheria-images/2018/06/1.jpg "© Bar de Rock and Roll Palermo")
+![Bar Palermo, un local de rock para salir en Madrid](https://fotos.etheriamagazine.com/2018/06/1.jpg "© Bar de Rock and Roll Palermo")
 
 ## 6\. Kikekeller
 
@@ -105,7 +105,7 @@ disfrutemos del diseño como nunca antes nos lo habíamos planteado. Hasta ahora
 
 ¿Dónde está? En la Corredera baja de San Pablo, 17. Madrid. **www.kikekeller.com** 
 
-![Kikekeller, un local original de Madrid](etheria-images/2018/06/kike-keller-madrid.jpg "© Kikekeller y el amor al arte")
+![Kikekeller, un local original de Madrid](https://fotos.etheriamagazine.com/2018/06/kike-keller-madrid.jpg "© Kikekeller y el amor al arte")
 
 ## 7\. Sala de Despiece
 
@@ -120,7 +120,7 @@ agallas para no salivar.
 ¿Dónde está? En la Calle de Ponzano, 11 o Virgen de los Peligros, 8. Madrid. 
 **www.saladedespiece.com** 
 
-![Sala de Despiece, restaurantes originales de Madrid](etheria-images/2018/06/sala_de_despiece_1.jpg "© Sala de Despiece (Madrid)")
+![Sala de Despiece, restaurantes originales de Madrid](https://fotos.etheriamagazine.com/2018/06/sala_de_despiece_1.jpg "© Sala de Despiece (Madrid)")
 
 ## 8\. Bad Company 1920
 
@@ -143,7 +143,7 @@ arriba nada es demasiado importante. Te gustará el jardín secreto de Salvador 
 ¿Dónde está? En la Calle de la Montera, 37. Madrid. 
 **www.restaurantesalvadorbachiller.es** 
 
-![El Jardín Secreto de Salvador Bachiller en Madrid](etheria-images/2018/06/El-jardin-secreto-de-Salvador-Bachiller.jpg "© El Jardín Secreto.")
+![El Jardín Secreto de Salvador Bachiller en Madrid](https://fotos.etheriamagazine.com/2018/06/El-jardin-secreto-de-Salvador-Bachiller.jpg "© El Jardín Secreto.")
 
 ## 10\. Estupenda Café Bar
 
@@ -152,7 +152,7 @@ Peaks hasta los cócteles o la riquísima cherry pie casera.
 
 ¿Dónde está? En la Calle San Roque, 14. Madrid. www.Instagram.com/estupendacafebar 
 
-![El Escondido, restaurantes clandestinos de Madrid](etheria-images/2018/06/El-escondido.jpg "© El Escondido (Madrid)")
+![El Escondido, restaurantes clandestinos de Madrid](https://fotos.etheriamagazine.com/2018/06/El-escondido.jpg "© El Escondido (Madrid)")
 
 También te puede interesar... 
 

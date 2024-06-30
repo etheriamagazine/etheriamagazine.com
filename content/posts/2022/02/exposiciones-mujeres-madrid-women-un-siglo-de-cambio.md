@@ -1,7 +1,7 @@
 ---
 title: "WOMEN, un siglo de cambio"
 date: 2022-02-22
-coverImage: etheria-images/2020/03/Women-National-Geographic.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/03/Women-National-Geographic.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
@@ -12,7 +12,7 @@ authors:
 
 La exposición 'WOMEN, un siglo de cambio' muestra historias de mujeres de todo el planeta en un amplio marco temporal. Este conjunto de fotografías del archivo de National Geographic resume el complejo universo femenino clasificándolo por conceptos como el amor, la fortaleza, la alegría, la sabiduría o la esperanza.
 
-![fotografia de mujer fumando de Robin Hammond](etheria-images/2020/03/Women-madrid-National-Geographic.jpg "Una coordinadora de 24 años hace una pausa para fumar en el exterior de la African Artists’ Foundation. Lagos, Nigeria. © Robin Hammond (2014)")
+![fotografia de mujer fumando de Robin Hammond](https://fotos.etheriamagazine.com/2020/03/Women-madrid-National-Geographic.jpg "Una coordinadora de 24 años hace una pausa para fumar en el exterior de la African Artists’ Foundation. Lagos, Nigeria. © Robin Hammond (2014)")
 
 Alegres, tiernas, duras, reflexivas, esperanzadoras... las 50 imágenes que integran 
 _**WOMEN, un siglo de cambio**_, la exposición que National Geographic España ha 
@@ -38,7 +38,7 @@ parte del "testimonio global que ofrece de todo tipo de mujeres, condición, raz
 localización geográfica y edad". Todo ello, centrado en el poder de imágenes impactantes 
 e idóneas para contar historias. 
 
-![Amy Toensing mujeres en india](etheria-images/2020/03/women-india-NationalGeographic-900x600.jpg "Mujeres indias en el Holi. © Amy Toensing (2016).")
+![Amy Toensing mujeres en india](https://fotos.etheriamagazine.com/2020/03/women-india-NationalGeographic-900x600.jpg "Mujeres indias en el Holi. © Amy Toensing (2016).")
 
 ## Historias de mujeres
 
@@ -66,7 +66,7 @@ los últimos 15 años, Addario ha cubierto todos los conflictos importantes y cr
 humanitarias de su generación, incluidos Afganistán, Irak, Darfur, Libia, Siria, Líbano, 
 Sudán del Sur, Somalia y Congo. 
 
-![mccurry, exposiciones national geographic](etheria-images/2020/03/women-national-geographic.jpg "Imágenes de Steve McCurry.")
+![mccurry, exposiciones national geographic](https://fotos.etheriamagazine.com/2020/03/women-national-geographic.jpg "Imágenes de Steve McCurry.")
 
 ## Testimonio de un siglo de cambios
 
@@ -75,7 +75,7 @@ se puede ver a dos jóvenes vestidas con trajes tradicionales. Y una de las más
 recientes, casi un siglo después, de 2018, es de Nichole Sobecki y muestra a una 
 corredora keniata bailando con estudiantes de una escuela que ella misma ha fundado. 
 
-![Dos artistas se pintan los labios bajo el agua en Wakulla Springs WOMEN un siglo de cambio](etheria-images/2020/03/Women-National-Geographic-900x667.jpg "Dos artistas se pintan los labios bajo el agua en Wakulla Springs. © J. Baylor Roberts (1944)")
+![Dos artistas se pintan los labios bajo el agua en Wakulla Springs WOMEN un siglo de cambio](https://fotos.etheriamagazine.com/2020/03/Women-National-Geographic-900x667.jpg "Dos artistas se pintan los labios bajo el agua en Wakulla Springs. © J. Baylor Roberts (1944)")
 
 Entre los autores seleccionados hay más hombres que mujeres, aunque, como señala la 
 comisaria, el foco no está en los autores sino en las protagonistas de la fotografía. 
@@ -107,7 +107,7 @@ posguerra, la revista retomó perspectivas más domésticas. Las mujeres sonrier
 décadas más hasta los 70, con la llegada de una fotografía que captaba una imagen de la 
 vida sin adornos”. 
 
-![Cartel de la exposicion WOMEN un siglo de cambio](etheria-images/2020/03/expo-women-madrid-coac-724x1024.jpg "Cartel de la exposición WOMEN.")
+![Cartel de la exposicion WOMEN un siglo de cambio](https://fotos.etheriamagazine.com/2020/03/expo-women-madrid-coac-724x1024.jpg "Cartel de la exposición WOMEN.")
 
 ## Por qué visitar WOMEN
 

@@ -1,7 +1,7 @@
 ---
 title: "Lola Montes, una “falsa española” en la corte de Luis I de Baviera"
 date: 2020-02-04
-coverImage: etheria-images/2020/01/lola-montez-ludwig-bavaria.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/01/lola-montez-ludwig-bavaria.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -16,7 +16,7 @@ biografía, fue mucho más que una ambiciosa cortesana. Estamos ante una mujer i
 su tiempo (Grange, Irlanda, 1821 – Nueva York, 1861) que se puso el mundo por montera y 
 lo recorrió en busca de sus sueños. 
 
-![Lola Montes, Luis I de Baviera](etheria-images/2020/01/lola-montez-ludwig-bavaria-900x583.jpg "Lola Montes y Luis I de Baviera.")
+![Lola Montes, Luis I de Baviera](https://fotos.etheriamagazine.com/2020/01/lola-montez-ludwig-bavaria-900x583.jpg "Lola Montes y Luis I de Baviera.")
 
 Cruzó el mundo de punta a punta en solitario, actuó en los más importantes teatros de 
 Europa y Estados Unidos, se inventó la nacionalidad española para bailar flamenco en 
@@ -40,7 +40,7 @@ bailarina de flamenco y se inventó el nombre de Lola Montes para triunfar en lo
 escenarios del mundo, desde el Bolshoi de Moscú hasta la Ópera de Múnich, en un momento 
 en que el exotismo de España estaba de moda. 
 
-![Acuarela de Lola Montes](etheria-images/2020/01/Lola-Montez-ballet-666x1024.jpg "Lola Montes logró triunfar en escenarios de todo el mundo.")
+![Acuarela de Lola Montes](https://fotos.etheriamagazine.com/2020/01/Lola-Montez-ballet-666x1024.jpg "Lola Montes logró triunfar en escenarios de todo el mundo.")
 
 ## Siempre a contracorriente
 
@@ -78,7 +78,7 @@ Este último, con quien mantuvo una breve relación sentimental, le puso en cont
 otra mujer pasional, George Sand, que por entonces vivía un romance con el compositor 
 Chopin. 
 
-![palacio ninfas en munich](etheria-images/2020/01/palacio-ninfas-munich-900x526.jpg "Palacio de verano de Nymphenburg (Múnich).")
+![palacio ninfas en munich](https://fotos.etheriamagazine.com/2020/01/palacio-ninfas-munich-900x526.jpg "Palacio de verano de Nymphenburg (Múnich).")
 
 ## Un monarca depuesto
 
@@ -106,7 +106,7 @@ del Palacio de verano de Nymphenburg**. También se sabe que Lola Montes se aloj
 orden del rey, en el extraordinario hotel Bayerischer Hof y que fue nombrada Condesa de 
 Landsfeld. Nadie duda tampoco de que vivió embriagada de opulencia y caprichos. 
 
-![Retrato de Lola Montes](etheria-images/2020/01/lola-montez.jpg "Retrato de Lola Montes (1847).")
+![Retrato de Lola Montes](https://fotos.etheriamagazine.com/2020/01/lola-montez.jpg "Retrato de Lola Montes (1847).")
 
 Tantas prebendas del monarca hacia la mujer que le había quitado el sentido (“mi Lolita” 
 la llamaba) acabaron por cavar su propia tumba. El pueblo se lo tomó como un verdadero 
@@ -135,7 +135,7 @@ de la Historia, que fue, por cierto, un auténtico best-seller: '[Las artes de l
 belleza'](https://play.google.com/store/books/author?id=Lola+MONTEZ+%28Countess+von+Landsfeld.%29) 
 **o consejos de tocados de la condesa de Landsfeld**'. 
 
-![puente de Brooklyn](etheria-images/2020/01/puente-brooklyn-900x598.jpg "La tumba de Lola Montes se puede visitar en un cementerio de Brooklyn (Nueva York).")
+![puente de Brooklyn](https://fotos.etheriamagazine.com/2020/01/puente-brooklyn-900x598.jpg "La tumba de Lola Montes se puede visitar en un cementerio de Brooklyn (Nueva York).")
 
 ## Pobre, sola y en la calle
 
@@ -146,7 +146,7 @@ cuerpo yace en el cementerio de Green-Wood, en Brooklyn, y en su tumba se puede 
 “Mrs. Eliza Gilbert. Muerta el 17 de junio de 1861”. Tenía 39 años y recuperaba, así, su 
 verdadera identidad. Nadie reclamó su cuerpo. 
 
-? **También te puede interesar:** 
+**También te puede interesar:** 
 
 [Así es la verdadera historia de Sisi, y no es de 
 cuento](https://etheriamagazine.com/2022/09/07/museo-sisi-de-viena/) 

@@ -1,7 +1,7 @@
 ---
 title: "Descubre las 3 visitas esenciales en Guatemala que aconseja Sania Jelic"
 date: 2023-05-31
-coverImage: etheria-images/2023/05/sania-guatemala-lago-atitlan-puerto.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/05/sania-guatemala-lago-atitlan-puerto.jpg
 categories: 
   - historias-en-femenino
   - viajar-sola
@@ -15,7 +15,7 @@ lugar único en el mundo rodeado de pueblos pintorescos y con una interesante cu
 Sigue leyendo para descubrir todos los detalles y consejos de esta gran mujer que viaja 
 sola tras la jubilación. 
 
-![Sania en tuk-tuk en San Juan de la Laguna, en el lago Atitlán](etheria-images/2023/05/sania-guatemala-tuk-tuk.jpg "Sania en tuk-tuk en San Juan de la Laguna, en el lago Atitlán. © Sania Jelic")
+![Sania en tuk-tuk en San Juan de la Laguna, en el lago Atitlán](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-tuk-tuk.jpg "Sania en tuk-tuk en San Juan de la Laguna, en el lago Atitlán. © Sania Jelic")
 
 No estaba segura de si iba a poder incluir Guatemala en mi viaje por Sudamérica y 
 Centroamérica y estoy muy feliz de haberlo hecho. El colorido del país se me quedará en 
@@ -42,7 +42,7 @@ La riqueza cultural de Guatemala queda demostrada en sus tres reconocimientos de
 Unesco: la ciudad de **Antigua**, el yacimiento arqueológico maya de **Tikal** y las 
 ruinas **Quiriguá**. 
 
-![Mujeres mayas en Antigua](etheria-images/2023/05/sania-guatemala-mujeres.jpg "Mujeres mayas en Antigua. © SJ")
+![Mujeres mayas en Antigua](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-mujeres.jpg "Mujeres mayas en Antigua. © SJ")
 
 ## Qué visitar en Guatemala
 
@@ -62,7 +62,7 @@ Esto hizo que llegase a Antigua con la adrenalina a tope. El ambiente no podía 
 animado, había gente en las calles, se escuchaba música de discotecas donde la juventud 
 hacía cola para entrar y, sobre todo, se sentía mucha normalidad en el ambiente. 
 
-![Sania en Antigua](etheria-images/2023/05/sania-guatemala-antigua.jpg "Sania en Antigua. © SJ")
+![Sania en Antigua](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-antigua.jpg "Sania en Antigua. © SJ")
 
 #### Un pasado movidito
 
@@ -86,7 +86,7 @@ gastronomía y la calidad de servicio, además de excursiones interesantes (el v
 activo Pacaya y Acatenango, el mercado de Chichicastenango y el lago Atitlan), reúne 
 todos los ingredientes. 
 
-![Tejido típico de Guatemala](etheria-images/2023/05/sania-guatemala-telar.jpg "Tejido típico de Guatemala. © SJ")
+![Tejido típico de Guatemala](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-telar.jpg "Tejido típico de Guatemala. © SJ")
 
 ## Moda maya, más que una vestimenta
 
@@ -105,7 +105,7 @@ Como las prendas tradicionales tienen un precio muy elevado, las chicas jóvenes
 llevar la vestimenta “moderna”. La ropa de segunda mano, procedente de donaciones 
 europeas (conocida como “paca”), es muy asequible. 
 
-![Atuendos tradicionales mayas en Antigua](etheria-images/2023/05/sania-guatemala-trajes-tradicionales.jpg "Atuendos tradicionales mayas. © SJ")
+![Atuendos tradicionales mayas en Antigua](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-trajes-tradicionales.jpg "Atuendos tradicionales mayas. © SJ")
 
 ### Protección de la tradición tejedora
 
@@ -135,7 +135,7 @@ improvisamos un desfile de moda, para deleite del público y los tenderos. Cuand
 los niños me siguieron para regalarme caramelos… A veces hay que dejarse llevar y sacar 
 la niña que llevas dentro. 
 
-![Cementerio de Chichicastenango](etheria-images/2023/05/sania-guatemala-chichicastenango-cementerio.jpg "Cementerio de Chichicastenango. © SJ")
+![Cementerio de Chichicastenango](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-chichicastenango-cementerio.jpg "Cementerio de Chichicastenango. © SJ")
 
 ### El colorista cementerio
 
@@ -160,7 +160,7 @@ masajes Ayurveda y sesiones con ayahuasca. Conciertos, clases de pintura, comuni
 locales mezcladas con grupos de expatriados jóvenes y no tan jóvenes, ritos religiosos 
 mayas y de otros tipos. Hay para todos los gustos y los bolsillos. 
 
-![El lago Atitlán.](etheria-images/2023/05/sania-guatemala-lago-atitlan.jpg "El lago Atitlán. © SJ")
+![El lago Atitlán.](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-lago-atitlan.jpg "El lago Atitlán. © SJ")
 
 El lago Atitl´án es un gran cráter que se encuentra rodeado por tres volcanes, “Los tres 
 gigantes”. Tiene una extensión de 18 kilómetros de largo y a sus orillas se asoman una 
@@ -186,7 +186,7 @@ los mismos conductores/guías en el muelle a la llegada. Por unos 80-100 quetzal
 más bellos del poblado e incluso te puede dejar en San Pedro, para no esperar la lancha 
 y así aprovechar la bella panorámica. 
 
-![San Juan de la Laguna.](etheria-images/2023/05/sania-guatemala-san-juan-laguna.jpg "San Juan de la Laguna. © SJ")
+![San Juan de la Laguna.](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-san-juan-laguna.jpg "San Juan de la Laguna. © SJ")
 
 En **Santiago Atitlán**, que tiene unos 45.000 habitantes, el legado maya es muy 
 visible. Muchos de sus vecinos son de origen zutuhil y se dedican a la agricultura y a 
@@ -206,7 +206,7 @@ y lo terrenal. Según la tradición, es un árbol de tz’atel, conocido como "p
 muy común en Centroamérica, de donde los escultores tallaron su figura. Esa sinergia 
 entre la religión maya y la católica la representaba San Simón, el apóstol de Cristo. 
 
-![Adoración a Maximón en el lago Atitlán](etheria-images/2023/05/sania-guatemala-maximon.jpg "Adoración a Maximón. © SJ")
+![Adoración a Maximón en el lago Atitlán](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-maximon.jpg "Adoración a Maximón. © SJ")
 
 El principal poder de Maximón es el de curar pero también ayuda a atraer el amor, 
 proteger contra el peligro, tener éxito en los negocios, etc. Su figura se exhibe en una 
@@ -223,7 +223,7 @@ Desde Santiago se puede emprender el trekking al volcán San Pedro. La subida no
 principiantes, pero la panorámica del lago desde ahí es espectacular. Además, al haber 
 tal diversidad de flora y paisajes, el camino es ideal para observar aves. 
 
-![Sania Jelic en un embarcadero en el lago Atitlán](etheria-images/2023/05/sania-guatemala-lago-atitlan-puerto.jpg "Sania en el lago Atitlán, un lugar mágico. © SJ")
+![Sania Jelic en un embarcadero en el lago Atitlán](https://fotos.etheriamagazine.com/2023/05/sania-guatemala-lago-atitlan-puerto.jpg "Sania en el lago Atitlán, un lugar mágico. © SJ")
 
 A lo largo de la orilla del lago se pueden ver diferentes tipos de alojamientos, desde 
 grupitos de cabañas, hasta villas aisladas. El lago más profundo de Centroamérica tiene 

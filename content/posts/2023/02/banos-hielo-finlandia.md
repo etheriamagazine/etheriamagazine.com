@@ -1,7 +1,7 @@
 ---
 title: "Por qué deberías bañarte en el hielo en Finlandia"
 date: 2023-02-22
-coverImage: etheria-images/2023/02/finlandia-banarte-hielo-Karelia.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/02/finlandia-banarte-hielo-Karelia.jpg
 categories: 
   - experiencias-viajeras
 authors: 
@@ -13,7 +13,7 @@ ciertas cosas por primera vez. Porque… ¿conoces la sensación de bañarte en 
 hielo? Te contamos los beneficios de sumergirte en agua helada y cómo iniciarte en esta 
 práctica tan de moda. 
 
-![El agujero que se hace en el hielo para darse un baño helado se llama "avanto".](etheria-images/2023/02/finlandia-agujero-hielo-641x1024.jpg "Elina Mäkinen a punto de darse un baño en agua helada. © Taneli Kantanen")
+![El agujero que se hace en el hielo para darse un baño helado se llama "avanto".](https://fotos.etheriamagazine.com/2023/02/finlandia-agujero-hielo-641x1024.jpg "Elina Mäkinen a punto de darse un baño en agua helada. © Taneli Kantanen")
 
 Si eres una viajera que siempre está dispuesta a vivir nuevas sensaciones y te pones a 
 prueba en cada destino que visitas, te gustará conocer la experiencia de **bañarte en 
@@ -44,7 +44,7 @@ competiciones desde 1989 con profesionales de alto nivel. Y, como curiosidad, te
 contamos que se sabe que ya en el siglo XVII existían aficionados a sumergirse en agua 
 helada. 
 
-![Nadadoras saltan alegres en el hielo de Finlandia](etheria-images/2023/02/finlandia-nadar-hielo-850x567.jpg "Más de 700.000 personas nadan durante el invierno en Finlandia.")
+![Nadadoras saltan alegres en el hielo de Finlandia](https://fotos.etheriamagazine.com/2023/02/finlandia-nadar-hielo-850x567.jpg "Más de 700.000 personas nadan durante el invierno en Finlandia.")
 
 ## Elina Mäkinen, una nadadora que bate récords
 
@@ -57,7 +57,7 @@ también la protagonista del documental ‘**_Kylmä_**’ (_Into the cold_), en
 destacan los beneficios del frío y los entrenamientos de esta nadadora para batir 
 récords. Lo puedes ver en Arte.tv 
 
-![Una piscina perfecta para nadar en aguas heladas en Isokenkäisten klubi.](etheria-images/2023/02/piscina-hielo-finlandia-768x1024.jpg "Una piscina perfecta para nadar en aguas heladas en Isokenkäisten Klubi. © IKK")
+![Una piscina perfecta para nadar en aguas heladas en Isokenkäisten klubi.](https://fotos.etheriamagazine.com/2023/02/piscina-hielo-finlandia-768x1024.jpg "Una piscina perfecta para nadar en aguas heladas en Isokenkäisten Klubi. © IKK")
 
 ### Dónde nadar en hielo en Finlandia
 
@@ -84,7 +84,7 @@ como de baño en hielo y sauna es en el **lodge Isokenkäisten Klubi** (www.ikk.
 entorno del lago Heikinjärvi. Está situado cerca de Kuusamo y allí se grabó parte del 
 documental que hemos comentado, "Into de Cold". 
 
-![Artic Sauna World, uno de los mejores lugares para bañarte en hielo en Finlandia.](etheria-images/2023/02/finlandia-Arctic-sauna-world-768x1024.jpg "Artic Sauna World, uno de los mejores lugares para bañarte en hielo en Finlandia.")
+![Artic Sauna World, uno de los mejores lugares para bañarte en hielo en Finlandia.](https://fotos.etheriamagazine.com/2023/02/finlandia-Arctic-sauna-world-768x1024.jpg "Artic Sauna World, uno de los mejores lugares para bañarte en hielo en Finlandia.")
 
 ## Por qué sumergirte en agua helada
 
@@ -102,7 +102,7 @@ cerebro) y la **oxitocina** (la hormona del amor). Nadar en hielo también **mej
 circulación** sanguínea, se refuerza el **sistemas inmunitario** y se activa el tejido 
 adiposo que **quema calorías** al intentar mantener la temperatura del cuerpo. 
 
-![Una joven está sumergida en agua helada en Finlandia](etheria-images/2023/02/finlandia-banarte-hielo-Karelia.jpg "Un baño en hielo reporta grandes beneficios al organismo. © Visit Karelia")
+![Una joven está sumergida en agua helada en Finlandia](https://fotos.etheriamagazine.com/2023/02/finlandia-banarte-hielo-Karelia.jpg "Un baño en hielo reporta grandes beneficios al organismo. © Visit Karelia")
 
 ### Qué llevar si quieres bañarte en el hielo
 

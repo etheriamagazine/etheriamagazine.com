@@ -1,7 +1,7 @@
 ---
 title: "Rayavadee, un resort de lujo inmerso en la naturaleza en Krabi"
 date: 2018-05-25
-coverImage: etheria-images/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor-e1555063028881.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor-e1555063028881.jpg
 categories: 
   - hoteles
 authors: 
@@ -14,7 +14,7 @@ entre la floresta. Situado en el corazón de la península de Phranang, en uno d
 extremos del Parque Nacional Marino de Krabi, es un lugar perfecto para explorar este 
 bello rincón del planeta. 
 
-![hotel krabi viajes familia niños love](etheria-images/2018/05/Rayavadee-monos.jpg "Los monos te acompañarán en tu estancia en el hotel Rayavadee.")
+![hotel krabi viajes familia niños love](https://fotos.etheriamagazine.com/2018/05/Rayavadee-monos.jpg "Los monos te acompañarán en tu estancia en el hotel Rayavadee.")
 
 El hotel está situado entre dos de las playas más populares de Krabi, **Railay** y 
 **Phranang**, y es, en realidad, un inmenso jardín lleno de senderos cuya naturaleza no 
@@ -31,7 +31,7 @@ paisaje que enmarca el hotel. Hay varios tipos de pabellones: con jardín, con p
 con hidropiscina, familiares… Todos con una decoración interior muy cuidada realizada 
 con elementos naturales. 
 
-![hotel Krabi escapada familiar viajes niños lujo Tailandia](etheria-images/2018/05/Rayavadee-family-room.jpg "Family Room con piscina")
+![hotel Krabi escapada familiar viajes niños lujo Tailandia](https://fotos.etheriamagazine.com/2018/05/Rayavadee-family-room.jpg "Family Room con piscina")
 
 ## Instalaciones del hotel
 
@@ -44,7 +44,7 @@ Phranang**, junto a la playa de Phranang. Y la elección más especial es, sin d
 Grotto**, un restaurante ubicado en una cueva caliza en la arena de la playa de Phranang 
 que por la noche, alumbrado por las velas, se convierte en un lugar mágico. 
 
-![hotel Krabi escapada Tailandia playa viaje mar](etheria-images/2018/05/Rayavadee-The-Grotto.jpg "The Grotto")
+![hotel Krabi escapada Tailandia playa viaje mar](https://fotos.etheriamagazine.com/2018/05/Rayavadee-The-Grotto.jpg "The Grotto")
 
 Es imposible resistirse a una visita al **spa**. En un lugar donde el masaje está tan 
 presente como en todo Tailandia, el spa del Rayavadee es un auténtico oasis de paz donde 
@@ -61,7 +61,7 @@ navegar en catamarán están a disposición de los clientes. Y no hay que olvida
 paredes calizas que rodean al hotel son muy populares para la práctica de la 
 **escalada**. 
 
-![hotel Krabi Tailandia viaje niños familia](etheria-images/2018/05/Rayavadee-piscina.jpg "Vistas desde la piscina del hotel Rayavadee.")
+![hotel Krabi Tailandia viaje niños familia](https://fotos.etheriamagazine.com/2018/05/Rayavadee-piscina.jpg "Vistas desde la piscina del hotel Rayavadee.")
 
 ## Excursiones a islas Phi Phi y a la bahía de Phang-Nga
 
@@ -80,7 +80,7 @@ tiempo en Krabi son casi ilimitadas y hay opciones para todos los gustos, lo mej
 consultar las opciones que ofrece el hotel o preguntarles para que organicen una 
 excursión a tu medida. 
 
-![hotel krabi](etheria-images/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor-e1555063028881.jpg "Villa cerca de la playa en el hotel Rayavadee.")
+![hotel krabi](https://fotos.etheriamagazine.com/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor-e1555063028881.jpg "Villa cerca de la playa en el hotel Rayavadee.")
 
 **Hotel Rayavadee. 5\* Lujo** 
 

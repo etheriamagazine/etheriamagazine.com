@@ -1,7 +1,7 @@
 ---
 title: "10 planes en Fuerteventura con amigas para disfrutar al máximo de la isla"
 date: 2021-03-24
-coverImage: etheria-images/2021/03/fuerteventura-Playa-Los-Charcos.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/fuerteventura-Playa-Los-Charcos.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
@@ -13,7 +13,7 @@ authors:
 
 Te presentamos 10 planes en Fuerteventura con amigas que incluyen propuestas acuáticas, gastronómicas y deportivas. Esta isla canaria es perfecta para desconectar del ajetreo porque, pese a la tranquilidad que transmite, aquí no cabe el aburrimiento. Descubre sus paisajes formados por volcanes, dunas y playas interminables.
 
-![barranco de los enamorados planes en fuerteventura con amigas](etheria-images/2021/03/fuerteventura-Barranco-de-los-Enamorados.jpg "Barranco de los Enamorados, en Fuerteventura. © Asier Calderón")
+![barranco de los enamorados planes en fuerteventura con amigas](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Barranco-de-los-Enamorados.jpg "Barranco de los Enamorados, en Fuerteventura. © Asier Calderón")
 
 Cuando el avión se aproxima a Fuerteventura, tan solo parece percibirse una enorme masa 
 de marrones bañados por intensos azules. Es ese paisaje desnudo el que domina la isla 
@@ -31,7 +31,7 @@ ponemos rumbo a los imprescindibles de este paraíso al ritmo de la emisora isle
 Estamos preparadas para vivir un "Fuerteventura con amigas" lleno de planes en la mejor 
 compañía. 
 
-![kitesurf en playa de sotavento para un viaje a fuerteventura con amigas](etheria-images/2021/03/fuerteventura-Playa-de-Sotavento.jpg "Playa de Sotavento. © Elena Ortega")
+![kitesurf en playa de sotavento para un viaje a fuerteventura con amigas](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Playa-de-Sotavento.jpg "Playa de Sotavento. © Elena Ortega")
 
 ## 1\. Practicar deportes acuáticos a lo largo de toda la isla
 
@@ -44,7 +44,7 @@ luna llena convirtiéndola en el lugar perfecto para los más novatos en el wind
 kitesurf. Si nunca os habíais planteado subiros a una tabla, ¡qué mejor que hacerlo 
 aquí! 
 
-![playa de corralejo para un fuerteventura con amigas](etheria-images/2021/03/fuerteventura-Grandes-Playas-Corralejo.jpg "Playa de Corralejo, en Fuerteventura. © Elena Ortega")
+![playa de corralejo para un fuerteventura con amigas](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Grandes-Playas-Corralejo.jpg "Playa de Corralejo, en Fuerteventura. © Elena Ortega")
 
 ## 2\. Ascender y descender las dunas de Corralejo
 
@@ -55,7 +55,7 @@ infinitas playas con vistas a Lanzarote e Isla de Lobos. En noviembre se celebra
 punto el **Festival Internacional de Cometas**, una ocasión única para disfrutar de los 
 nueve kiómetros de las Grandes Playas de Corralejo. 
 
-![playa de cofete en fuerteventura](etheria-images/2021/03/fuerteventura-playa-Cofete.jpg "Playa de Cofete, en Fuerteventura. © Asier Calderón")
+![playa de cofete en fuerteventura](https://fotos.etheriamagazine.com/2021/03/fuerteventura-playa-Cofete.jpg "Playa de Cofete, en Fuerteventura. © Asier Calderón")
 
 ## 3\. Descubrir los secretos de Cofete, la playa salvaje de Fuerteventura
 
@@ -70,7 +70,7 @@ casa sobre la que recaen leyendas de todo tipo vinculadas a la Segunda Guerra Mu
 Será interesante visitarla para conocer de primera mano sus secretos y ver las 
 antigüedades que guarda en su interior. 
 
-![mirador de fuerteventura](etheria-images/2021/03/fuerteventura-Mirador.jpg "Asómate a los miradores de Fuerteventura para disfrutar de las mejores vistas. © Elena O.")
+![mirador de fuerteventura](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Mirador.jpg "Asómate a los miradores de Fuerteventura para disfrutar de las mejores vistas. © Elena O.")
 
 ## 4\. Observar Fuerteventura desde sus miradores
 
@@ -83,7 +83,7 @@ el de Morro Velosa, diseñado por el artista lanzaroteño César Manrique, obten
 vista estupenda del valle de Santa Inés. Muy cerca de este último, podremos 
 fotografiarnos junto a las enormes estatuas de Guise y Ayose, antiguos reyes de la isla. 
 
-![compras en lajares fuerteventura](etheria-images/2021/03/fuerteventura-Tiendas-en-Lajares.jpg "Tienda de artesanía en Lajares. © Elena O.")
+![compras en lajares fuerteventura](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Tiendas-en-Lajares.jpg "Tienda de artesanía en Lajares. © Elena O.")
 
 ## 5\. Ir de compras al mercado de artesanía de Lajares
 
@@ -94,7 +94,7 @@ visitantes y vecinos que acuden a desayunar en sus coquetas cafeterías para lue
 asistir al **Mercado Artesanal los Lajares**, que se organiza, con cerca de 50 puestos, 
 en la placita del municipio de 10 a 14 horas. 
 
-![cueva de ajuy en fuerteventura](etheria-images/2021/03/fuerteventura-Cuevas-de-Ajuy.jpg "Cueva de Ajuy. © Elena O.")
+![cueva de ajuy en fuerteventura](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Cuevas-de-Ajuy.jpg "Cueva de Ajuy. © Elena O.")
 
 ## 6\. Adentrarse en las Cuevas de Ajuy
 
@@ -105,7 +105,7 @@ barcos antes de asaltar la isla, y es posible adentrarse en ellas tras caminar p
 bonito paseo junto al mar que comienza en la propia playa del pueblo y finaliza en las 
 cavidades volcánicas. 
 
-![excursion a isla de lobos](etheria-images/2021/03/fuerteventura-Isla-de-Lobos.jpg "Isla de Lobos, una excursión muy recomendable. © Elena O.")
+![excursion a isla de lobos](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Isla-de-Lobos.jpg "Isla de Lobos, una excursión muy recomendable. © Elena O.")
 
 ## 7\. Recorrer Isla de Lobos en bicicleta
 
@@ -120,7 +120,7 @@ Fuerteventura, Lanzarote y de la propia isla. Al tratarse de un Espacio Natural
 Protegido, antes de viajar a ella es obligatorio solicitar un permiso en esta [página 
 web](//lobospass.com/welcome). 
 
-![excursion a betancuria en fuerteventura](etheria-images/2021/03/fuerteventura-Betancuria.jpg "Betancuria, la antigua capital de Fuerteventura. © Elena O.")
+![excursion a betancuria en fuerteventura](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Betancuria.jpg "Betancuria, la antigua capital de Fuerteventura. © Elena O.")
 
 ## 8\. Visitar el pueblo de Betancuria
 
@@ -131,7 +131,7 @@ considera **el pueblo más bonito** **de Fuerteventura**. En él resultará indi
 visitar la iglesia de Santa María, en la placita del mismo nombre, y tomar algo en 
 alguno de los patios de sus restaurantes a la sombra de la vegetación que los cobijan. 
 
-![barranco las penitas planes en fuerteventura](etheria-images/2021/03/fuerteventura-Barranco-Las-Penitas.jpg "Senderismo en el barranco de las Peñitas. © Elena O.")
+![barranco las penitas planes en fuerteventura](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Barranco-Las-Penitas.jpg "Senderismo en el barranco de las Peñitas. © Elena O.")
 
 ## 9\. Practicar senderismo en los recónditos barrancos de Fuerteventura
 
@@ -145,7 +145,7 @@ tesoros naturales del interior de Fuerteventura que, sin duda, dará una visión
 distinta de la isla. Para terminar con el ejercicio, nada mejor que hacerlo ascendiendo 
 a uno de los volcanes de Bayuyo, al norte. 
 
-![playa los charcos planes en fuerteventura](etheria-images/2021/03/fuerteventura-Playa-Los-Charcos.jpg "Preciosa playa de los Charcos, una visita imprescindible con amigas. © Elena O.")
+![playa los charcos planes en fuerteventura](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Playa-Los-Charcos.jpg "Preciosa playa de los Charcos, una visita imprescindible con amigas. © Elena O.")
 
 ## 10\. Recorrer todas las playas de Fuerteventura
 
@@ -157,7 +157,7 @@ surfistas, mientras que al este se encuentran las favoritas de los bañistas. La
 Los Charcos, del Águila, Cofete, Grandes Playas de Corralejo, playas de Costa Calma,… 
 ¡No os perdáis ninguna! 
 
-![piedra playa planes en fuerteventura](etheria-images/2021/03/fuerteventura-Piedra-Playa.jpg "Piedra Playa, o El Aljibe de la Cueva, está en el norte de Fuerteventura. © Elena O.")
+![piedra playa planes en fuerteventura](https://fotos.etheriamagazine.com/2021/03/fuerteventura-Piedra-Playa.jpg "Piedra Playa, o El Aljibe de la Cueva, está en el norte de Fuerteventura. © Elena O.")
 
 ### Algunas dudas frecuentes
 

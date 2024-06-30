@@ -1,7 +1,7 @@
 ---
 title: "Granada con amigas: cultura, diversión y mucho arte"
 date: 2022-06-16
-coverImage: etheria-images/2022/06/granada-la-alhambra.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -14,7 +14,7 @@ Tomad nota de nuestras diez actividades y visitas imprescindibles para disfrutar
 Granada con amigas, pero ya os adelantamos que os va a gustar todo, desde su historia 
 hasta su gastronomía. 
 
-![recorrido de La Alhambra](etheria-images/2022/06/granada-palacios-nazaries.jpg "Palacios Nazaríes en La Alhambra. © SG")
+![recorrido de La Alhambra](https://fotos.etheriamagazine.com/2022/06/granada-palacios-nazaries.jpg "Palacios Nazaríes en La Alhambra. © SG")
 
 Realizar un viaje a Granada con amigas es una de los mejores propuestas para una 
 escapada dentro del territorio nacional y te contamos por qué. Es una ciudad animada por 
@@ -43,7 +43,7 @@ tarde entera y cuya visita hay que preparar con mimo: comprad antes las entradas
 cupos diarios) y contratad una visita organizada con un guía. Podéis hacerlo a través de [Alhambra.org](https://www.alhambra.org/) 
 o con [Civitatis](https://www.civitatis.com/es/granada/visita-guiada-alhambra/?aid=10211). 
 
-![la alhambra en primavera](etheria-images/2022/06/granada-la-alhambra.jpg "La Alhambra desde los jardines del Generalife. © SG")
+![la alhambra en primavera](https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg "La Alhambra desde los jardines del Generalife. © SG")
 
 Una vez en el recinto, veréis que el recorrido se centra en tres espacios a cual más 
 interesante: la **Alcazaba**, los **Palacios Nazaríes** y los **Jardines del 
@@ -69,7 +69,7 @@ Humeya](https://www.abenhumeya.com), el [Carmen del
 Agua](https://www.restauranteelagua.es/es) o [El 
 Trillo](https://www.restaurante-eltrillo.com/). 
 
-![barrio del Albaicín](etheria-images/2022/06/granada-albaicin-desde-alhambra.jpg "El barrio de el Albaicín desde La Alhambra. © SG")
+![barrio del Albaicín](https://fotos.etheriamagazine.com/2022/06/granada-albaicin-desde-alhambra.jpg "El barrio de el Albaicín desde La Alhambra. © SG")
 
 Otros lugares a los que acercaros en el Albaicín son el **Palacio de los Córdova** (sí, 
 con "v") o los baños de [El 
@@ -90,7 +90,7 @@ conversaciones con tu grupo tendrás que dejarlas para después, aquí hay que g
 el silencio posible para que el relax sea absoluto. Un momento como este no puede faltar 
 en un viaje a Granada con amigas. 
 
-![piscina del baño árabe en Granada](etheria-images/2022/06/granada-hammam-al-andalus.jpg "Hammam Al Andalus de Granada.")
+![piscina del baño árabe en Granada](https://fotos.etheriamagazine.com/2022/06/granada-hammam-al-andalus.jpg "Hammam Al Andalus de Granada.")
 
 ### 4\. La ruta de Lorca
 
@@ -103,7 +103,7 @@ San Vicente** (la casa familiar que se conserva casi intacta), el **Centro Cultu
 Federico García Lorca** (con parte de su legado) y el **café Alameda** donde participaba 
 en animadas tertulias. 
 
-![museo Federico García Lorca en Granada](etheria-images/2022/06/Granada-Lorca-museo.jpg "Centro cultural Federico García Lorca. © Universo Lorca")
+![museo Federico García Lorca en Granada](https://fotos.etheriamagazine.com/2022/06/Granada-Lorca-museo.jpg "Centro cultural Federico García Lorca. © Universo Lorca")
 
 ?No te pierdas: [Ruta de Lorca en Granada, un paseo por sus rincones más 
 íntimos](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/). 
@@ -117,7 +117,7 @@ aseguramos que podéis comer y cenar solo con tres o cuatro consumiciones. Las
 principales zonas de tapeo son el barrio de Realejo, la plaza de la Bib Rambla o la 
 calle Elvira, aunque en Granada hay bares por todas partes. 
 
-![plato de gastronomia de Granada](etheria-images/2022/06/granada-restaurante-farala.jpg "Gastronomía en el © restaurante Farala.")
+![plato de gastronomia de Granada](https://fotos.etheriamagazine.com/2022/06/granada-restaurante-farala.jpg "Gastronomía en el © restaurante Farala.")
 
 Pero si queréis almuerzo y cena de mesa y mantel para degustar la sabrosa gastronomía 
 granadina, podéis acudir a restaurantes como [Faralá](https://restaurantefarala.com/), [Damasqueros](https://damasqueros.com/) 
@@ -138,7 +138,7 @@ edificio más significativo es la **Abadía de Sacromonte**, que guardan parte d
 hoy en día se siguen estudiando. No hay que perderse tampoco las **Casas del Chapiz** y 
 el [Museo Cuevas del Sacromonte](https://sacromontegranada.com/). 
 
-![Atardecer en Sacromonte](etheria-images/2022/06/Granada-sacromonte.jpg "Mirador de Sacromonte con vistas a La Alhambra. © Victoriano Izquierdo")
+![Atardecer en Sacromonte](https://fotos.etheriamagazine.com/2022/06/Granada-sacromonte.jpg "Mirador de Sacromonte con vistas a La Alhambra. © Victoriano Izquierdo")
 
 ### 7\. Un espectáculo de flamenco
 
@@ -154,7 +154,7 @@ Zoraya](https://www.civitatis.com/es/granada/flamenco-cena-jardines-zoraya/?aid=
 Alboreá](https://www.civitatis.com/es/granada/espectaculo-flamenco-la-alborea/?aid=10211) 
 o [La](https://www.civitatis.com/es/granada/show-flamenco-la-solea/?aid=10211) [S](https://www.civitatis.com/es/granada/show-flamenco-la-solea/?aid=10211)[oleá](https://www.civitatis.com/es/granada/show-flamenco-la-solea/?aid=10211). 
 
-![mujer bailando flamenco en Granada](etheria-images/2022/06/granada-flamenco.jpg "En Granada no os podéis perder un espectáculo flamenco.")
+![mujer bailando flamenco en Granada](https://fotos.etheriamagazine.com/2022/06/granada-flamenco.jpg "En Granada no os podéis perder un espectáculo flamenco.")
 
 ### 8\. Tour de mujeres ilustres
 
@@ -167,7 +167,7 @@ Granada](https://www.civitatis.com/es/granada/free-tour-mujeres-granada/?aid=102
 recorre lugares tan emblemáticos como la Capilla Real de la Catedral, la Real 
 Chancillería o la judería del Realejo. 
 
-![isabel la Católica y Colón en Granada](etheria-images/2022/06/granada-isabel-catolica.jpg "Estatua de Isabel la Católica y Colón en la plaza de Isabel la Católica. © Harvey Barrison/ Wikimedia Commons.")
+![isabel la Católica y Colón en Granada](https://fotos.etheriamagazine.com/2022/06/granada-isabel-catolica.jpg "Estatua de Isabel la Católica y Colón en la plaza de Isabel la Católica. © Harvey Barrison/ Wikimedia Commons.")
 
 ### 9\. Una excursión a Sierra Nevada
 
@@ -186,7 +186,7 @@ y la [Vereda de la Estrella](https://www.turgranada.es/ruta/vereda-de-la-estrell
 conocida como la ruta de las minas, preciosa pero algo más larga y empinada que la 
 anterior. 
 
-![mujer en puente colgante en Sierra Nevada](etheria-images/2022/06/granada-sierra-nevada-cahorros.jpg "Ruta de Cahorros de Monachil.")
+![mujer en puente colgante en Sierra Nevada](https://fotos.etheriamagazine.com/2022/06/granada-sierra-nevada-cahorros.jpg "Ruta de Cahorros de Monachil.")
 
 ### 10\. Un café, una cena o lo que sea en el Alhambra Palace
 
@@ -199,7 +199,7 @@ andalusí que os mantendrá en vuestro idilio con la ciudad de Granada. Merece l
 reservar en su terraza para degustar sus tapas y, sobre todo, para ver Granada a 
 vuestros pies desde uno de los mejores miradores de la ciudad. 
 
-![Granada al anochecer](etheria-images/2022/06/granada-Alhambra-palace.jpg "Imagen nocturna del © Alhambra Palace.")
+![Granada al anochecer](https://fotos.etheriamagazine.com/2022/06/granada-Alhambra-palace.jpg "Imagen nocturna del © Alhambra Palace.")
 
 ? No te pierdas: [Hotel Alhambra Palace, tres curiosidades que tienes que saber antes de 
 alojarte](https://etheriamagazine.com/2021/09/02/curiosidades-hotel-alhambra-palace/). 

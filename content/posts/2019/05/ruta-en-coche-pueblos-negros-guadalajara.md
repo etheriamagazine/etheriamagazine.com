@@ -1,7 +1,7 @@
 ---
 title: "Respirar ‘a pulmón abierto’ en los Pueblos Negros de Guadalajara"
 date: 2019-05-06
-coverImage: etheria-images/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -16,7 +16,7 @@ desconocidas y más puras de España; y uno de los conjuntos más impresionantes
 arquitectura popular española, los llamados Pueblos Negros. Sube al coche porque vamos a 
 recorrer esta ruta de poblaciones de piedra, tejados de pizarra y escasa población. 
 
-![Majaelrayo es un pueblo negro de Guadalajara](etheria-images/2019/05/viaje-pueblos-negros-Majaelrayo.jpg "Majaelrayo, población de la Ruta de los pueblos negros de Guadalajara.")
+![Majaelrayo es un pueblo negro de Guadalajara](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Majaelrayo.jpg "Majaelrayo, población de la Ruta de los pueblos negros de Guadalajara.")
 
 Hace ya mucho tiempo que los habitantes de muchos pueblos españoles fueron emigrando a 
 las grandes ciudades en busca de una mejor calidad de vida; pero hoy en día son también 
@@ -43,7 +43,7 @@ es un pueblo deshabitado, aunque la mayoría de su pobladores tienen la peculiar
 que son… de cuatro patas. Cabras, ovejas, burros y gatos son señores de Umbralejo que se 
 pasean por sus calles. 
 
-![personas paseando por el hayedo de Tejera Negra en Cantalojas](etheria-images/2019/05/Hayedo-tejera-negra-Cantalojas.jpg "Hayedo de Tejera Negra, en Cantalojas.")
+![personas paseando por el hayedo de Tejera Negra en Cantalojas](https://fotos.etheriamagazine.com/2019/05/Hayedo-tejera-negra-Cantalojas.jpg "Hayedo de Tejera Negra, en Cantalojas.")
 
 Recomendable continuar hasta **Cantalojas** para ver el Hayedo de Tejera Negra, 
 Patrimonio de la Humanidad y el bosque de hayas más meridional de Europa. Los que tengan 
@@ -56,7 +56,7 @@ Pueblo por pueblo, **Almiruete** destaca, además de por las bonitas vistas al p
 Ocejón, por la iglesia de la Asunción, de estilo románico, y Palancares llama la 
 atención por su quietud, pues sus habitantes no llegan ni a la docena. Bucólico. 
 
-![iglesia y plaza de Valverde de los Arroyos.](etheria-images/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg "Valverde de los Arroyos.")
+![iglesia y plaza de Valverde de los Arroyos.](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg "Valverde de los Arroyos.")
 
 Esa noche podemos dormir en **Valverde de los Arroyos**, uno de los pocos pueblos que 
 conserva casas de dos plantas construidas con pizarra negra y cuarcita, a las que no les 
@@ -73,7 +73,7 @@ Al día siguiente, tenemos que emprender un paseo por un camino por huertos, fru
 castaños hasta llegar a un anfiteatro casi vertical desde donde se despeña la cascada 
 **La Chorrera de Despeñalagua**, que tenga mucha o poco agua, hay que verlo. 
 
-![señor asomado en una puerta en una calle de Campillejo](etheria-images/2019/05/viaje-pueblos-negros-Campillejo.jpg "Campillejo.")
+![señor asomado en una puerta en una calle de Campillejo](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Campillejo.jpg "Campillejo.")
 
 ## Segunda ruta
 
@@ -91,7 +91,7 @@ lúdicas de lo más pintorescas, como son las bodas temáticas; de modo que all�
 celebrado bodas de ‘El Señor de los Anillos’, ‘La Guerra de las Galaxias’… e incluso 
 ‘Juego de Tronos’. El pueblo es una fiesta. Único. 
 
-![casa con lilas en Campillo de Ranas.](etheria-images/2019/05/viaje-pueblos-negros-Campillo-de-Ranas.jpg "Campillo de Ranas.")
+![casa con lilas en Campillo de Ranas.](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Campillo-de-Ranas.jpg "Campillo de Ranas.")
 
 El siguiente pueblo interesante del camino es Robleluengo, finalizando la ruta –sin 
 salida– en **Majaelrayo**, un pueblo considerado como uno de los referentes de la zona. 
@@ -100,7 +100,7 @@ tener en cuenta la fiesta del Santo Niño, que se celebra el primer domingo de
 septiembre; un festejo ancestral con más de 300 años de historia que derrocha 
 autenticidad. 
 
-![calle y alcalde de Majaelrayo con una bandera gay](etheria-images/2019/05/alcalde-Campillo-de-Ranas.jpg "Majaelrayo (Izq.) y Francisco Maroto, alcalde de Campillo de Ranas (Dcha.).")
+![calle y alcalde de Majaelrayo con una bandera gay](https://fotos.etheriamagazine.com/2019/05/alcalde-Campillo-de-Ranas.jpg "Majaelrayo (Izq.) y Francisco Maroto, alcalde de Campillo de Ranas (Dcha.).")
 
 En el camino de vuelta, aunque no tenga nada que ver con la arquitectura negra, se hace 
 indispensable parar en **La Pequeña Ciudad Encantada**, que se encuentra al norte 
@@ -112,7 +112,7 @@ Si tenemos más tiempo podemos desviarnos hasta **Cogolludo** para contemplar el
 de los Duques de Medinaceli, la primera gran obra civil del renacimiento español que 
 data del siglo XVI, porque naturaleza y arte es la mejor combinación. 
 
-![Palacio de los Duques de Medinaceli, en Cogolludo.](etheria-images/2019/05/viaje-pueblos-negros-Cogolludo.jpg "Palacio de los Duques de Medinaceli, en Cogolludo.")
+![Palacio de los Duques de Medinaceli, en Cogolludo.](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Cogolludo.jpg "Palacio de los Duques de Medinaceli, en Cogolludo.")
 
 ## Más pistas: alrededores de la Arquitectura Negra
 
@@ -130,7 +130,7 @@ ofrece unas vistas espectaculares de toda la comarca.
 > Campisábalos siempre ha sido considerado como un cruce de caminos de los distintos 
 > pueblos que por él han transitado. 
 
-![Iglesia de Bartolomé en Campisábalos.](etheria-images/2019/05/viaje-pueblos-negros-iglesia-Bartolome-Campisabalos.jpg "Iglesia de Bartolomé en Campisábalos.")
+![Iglesia de Bartolomé en Campisábalos.](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-iglesia-Bartolome-Campisabalos.jpg "Iglesia de Bartolomé en Campisábalos.")
 
 Merece la pena hacer una parada para visitar el Centro de Interpretación ‘El Mensario’, 
 que custodia piezas de etapas romanas y medievales; y ver la **iglesia de San 
@@ -146,7 +146,7 @@ Mundial de la Salud).
 
 No cabe duda que será un viaje para respirar ¡a pulmón abierto! 
 
-![cocinero con churrasco en Restaurante Área de Tamajón.](etheria-images/2019/05/restaurante-Tamajon-ruta-pueblos-negros.jpg "Restaurante Área de Tamajón.")
+![cocinero con churrasco en Restaurante Área de Tamajón.](https://fotos.etheriamagazine.com/2019/05/restaurante-Tamajon-ruta-pueblos-negros.jpg "Restaurante Área de Tamajón.")
 
 ## CONSEJOS ETHERIA
 

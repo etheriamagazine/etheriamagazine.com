@@ -1,7 +1,7 @@
 ---
 title: "Descubre la belleza de la provincia de Lugo en 15 paradas"
 date: 2023-04-06
-coverImage: etheria-images/2023/03/torrentes-macara-palas-rei.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/03/torrentes-macara-palas-rei.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -13,7 +13,7 @@ lo rural tierra adentro. Gallega por los cuatro costados. Si sigues nuestras
 recomendaciones en estas 15 visitas imprescindibles que hay que ver en Lugo no podrás 
 dejar de hablar de esta espectacular provincia en todos tus círculos de amistades. 
 
-![Torrentes do Mácara, en Palas de Rei.](etheria-images/2023/03/torrentes-macara-palas-rei.jpg "Torrentes do Mácara, en Palas de Rei.")
+![Torrentes do Mácara, en Palas de Rei.](https://fotos.etheriamagazine.com/2023/03/torrentes-macara-palas-rei.jpg "Torrentes do Mácara, en Palas de Rei.")
 
 En esta provincia gallega, la más grande en extensión y la menos poblada, es fácil 
 sucumbir al encanto de lo rural, de lo náutico y también de lo urbano en su capital. 
@@ -50,7 +50,7 @@ centenar de metros de largo e incluso acoge una alameda. De la parte más antigu
 soportales, bajo los mismos, en la zona conocida como el Cantón, se toma el mejor 
 aperitivo de Lugo y también el pulso cotidiano de la capital. 
 
-![Catedral de Santa María, en Lugo.](etheria-images/2023/03/catedral-lugo-684x1024.jpg "Catedral de Santa María, en Lugo.")
+![Catedral de Santa María, en Lugo.](https://fotos.etheriamagazine.com/2023/03/catedral-lugo-684x1024.jpg "Catedral de Santa María, en Lugo.")
 
 ### No te pierdas en Lugo
 
@@ -90,7 +90,7 @@ Pambre debes atravesar un foso y un puente. Desde la colina, donde lleva más de
 resistiendo con sus recios muros, regala una magnífica vista del pequeño paraíso 
 gallego. 
 
-![Palas de Rei.](etheria-images/2023/03/palas-do-rei-lugo.jpg "Palas de Rei. © Alexander Schimmeck")
+![Palas de Rei.](https://fotos.etheriamagazine.com/2023/03/palas-do-rei-lugo.jpg "Palas de Rei. © Alexander Schimmeck")
 
 ### Os Ancares
 
@@ -109,7 +109,7 @@ Doncos en As Nogais. Desde esta vieja fortaleza medieval se vigilaba el acceso a
 gallegas y los caballeros leoneses protegían a los peregrinos compostelanos, muchos de 
 los cuales eran mujeres. 
 
-![Palloza tradicional de Lugo.](etheria-images/2023/03/palloza-lugo.jpg "Palloza tradicional de Lugo.")
+![Palloza tradicional de Lugo.](https://fotos.etheriamagazine.com/2023/03/palloza-lugo.jpg "Palloza tradicional de Lugo.")
 
 ### Serra do Courel
 
@@ -128,7 +128,7 @@ acebos y abedules. Esta exuberancia invita a recorrerlo entre riachuelos y alegr
 cascadas por una senda señalizada cuyo inicio se halla junto al Aula de Naturaleza de 
 Moreda. 
 
-![Aldea de Seceda, Folgoso do Courel](etheria-images/2023/03/Aldea-Seceda-Folgoso-do-Courel.jpg "Aldea de Seceda, en Folgoso do Courel.")
+![Aldea de Seceda, Folgoso do Courel](https://fotos.etheriamagazine.com/2023/03/Aldea-Seceda-Folgoso-do-Courel.jpg "Aldea de Seceda, en Folgoso do Courel.")
 
 ### Ría de Ribadeo
 
@@ -148,7 +148,7 @@ Estreito, es un antiguo cargadero de mineral de hierro que, desde Vilaoudriz en 
 Pontenova, era trasladado 32 kilómetros en tren hasta la orilla para ser transportado en 
 barcos de gran calado que evitaban así el influjo de las mareas ría adentro. 
 
-![Humedal de la Ría de Ribadeo.](etheria-images/2023/03/Humedal-ria-Ribadeo.jpg "Humedal de la Ría de Ribadeo.")
+![Humedal de la Ría de Ribadeo.](https://fotos.etheriamagazine.com/2023/03/Humedal-ria-Ribadeo.jpg "Humedal de la Ría de Ribadeo.")
 
 ### Bosques de Fraga da Marronda
 
@@ -163,7 +163,7 @@ LU-750. Para adentrarte en la fraga prepara el bocadillo y entrena las piernas p
 un itinerario circular de 21,30 km. Está señalizado como **PR-G 145** y permite 
 disfrutar de su inmensa belleza vegetal casi en soledad. 
 
-![Fraga de Marronda, en Baleira.](etheria-images/2023/03/Fraga-Marronda-Baleira.jpg "Fraga de Marronda, en Baleira.")
+![Fraga de Marronda, en Baleira.](https://fotos.etheriamagazine.com/2023/03/Fraga-Marronda-Baleira.jpg "Fraga de Marronda, en Baleira.")
 
 ### Camino de Santiago
 
@@ -184,7 +184,7 @@ Nereidas, y los bonitos frescos de la vida y la obra de San Benito. En sus
 inmediaciones, apenas a 100 metros del monasterio, está la capilla del Ciprés, un tesoro 
 de estilo mozárabe. 
 
-![Monasterio de San Julián de Samos.](etheria-images/2023/03/Monasterio-San-julian-samos.jpg "Monasterio de San Julián de Samos. © J.A. Gil")
+![Monasterio de San Julián de Samos.](https://fotos.etheriamagazine.com/2023/03/Monasterio-San-julian-samos.jpg "Monasterio de San Julián de Samos. © J.A. Gil")
 
 ### Lourenzá, bocado galaico de la tierra
 
@@ -201,7 +201,7 @@ da Faba de Lourenzá**.
 encuentra el **Centro de Interpretación da Faba de Lourenzá**. Además de la singularidad 
 de estas habas, puedes conocer el túnel de piedra que servía a los monjes para escapar. 
 
-![Monasterio de San Salvador, en Lourenzá.](etheria-images/2023/03/monasterio-san-salvador-lorenza.jpg "Monasterio de San Salvador, en Lourenzá.© Lourdes Cardenal")
+![Monasterio de San Salvador, en Lourenzá.](https://fotos.etheriamagazine.com/2023/03/monasterio-san-salvador-lorenza.jpg "Monasterio de San Salvador, en Lourenzá.© Lourdes Cardenal")
 
 ### Ribeira Sacra, el fiordo gallego
 
@@ -222,7 +222,7 @@ femenino que acogió. Impresionante resulta la **iglesia de Santo Estevo de Riba
 Miño** en O Saviñao asomando sobre el cañón prendida sobre la roca con su hermosa 
 portada. 
 
-![Ermita de San Martiño da Cova, en la Ribeira Sacra.](etheria-images/2023/03/ermita-San-Martin-Cova.jpg "Ermita de San Martiño da Cova, en la Ribeira Sacra. © Miguel Alonso")
+![Ermita de San Martiño da Cova, en la Ribeira Sacra.](https://fotos.etheriamagazine.com/2023/03/ermita-San-Martin-Cova.jpg "Ermita de San Martiño da Cova, en la Ribeira Sacra. © Miguel Alonso")
 
 **No te pierdas.** Un crucero fluvial para observar el cañón que el río Sil crea a su 
 paso por la Ribeira Sacra. Otra opción es asomarse a los numerosos miradores que desde 
@@ -271,7 +271,7 @@ bajorrelieve, preside su ábside central.
 una península como uno de los yacimientos arqueológicos más hermosos de la costa gallega 
 al reunir huellas de la cultura castreña con la presencia romana. 
 
-![Playa de Peizás, en el pueblo de Foz.](etheria-images/2023/03/Playa-Peizas-Foz.jpg "Playa de Peizás, en el pueblo de Foz.")
+![Playa de Peizás, en el pueblo de Foz.](https://fotos.etheriamagazine.com/2023/03/Playa-Peizas-Foz.jpg "Playa de Peizás, en el pueblo de Foz.")
 
 ### Cervo
 
@@ -287,7 +287,7 @@ la **fábrica de cerámica de Sargadelos**, gracias a la abundancia de caolín d
 Su blanco brillante y decoración azul cobalto con motivos gallegos la han convertido en 
 un referente de la cultura gallega con proyección mundial. 
 
-![Faro de Punta Atalaia - Cervo](etheria-images/2023/03/Faro-Punta-Atalaia-Cervo.jpg "Faro de Punta Atalaia, en Cervo.")
+![Faro de Punta Atalaia - Cervo](https://fotos.etheriamagazine.com/2023/03/Faro-Punta-Atalaia-Cervo.jpg "Faro de Punta Atalaia, en Cervo.")
 
 ### O Cebreiro
 
@@ -303,7 +303,7 @@ Al salir del pueblo, sube al alto de San Roque, donde se ubica el **monumento al
 Peregrino**. No importa si no estás haciendo el Camino, a buen seguro la fuerza que 
 transmite la escultura te incentiva a iniciarlo. 
 
-![Playa de las Catedrales, en Lugo.](etheria-images/2023/03/playa-catedrales-lugo-703x1024.jpg "Playa de las Catedrales, en Lugo. © M. Studio")
+![Playa de las Catedrales, en Lugo.](https://fotos.etheriamagazine.com/2023/03/playa-catedrales-lugo-703x1024.jpg "Playa de las Catedrales, en Lugo. © M. Studio")
 
 ### Ribadeo
 
@@ -317,19 +317,19 @@ del Norte. En su municipio se recorta una playa que levanta pasiones, _**As Cate
 extraordinarios arcos naturales que semejan una catedral, eso sí, lamida por las mareas. 
 Afortunadamente, la reserva de visita ha logrado que no muriese de éxito. 
 
-![Puerto de Ribadeo, en Lugo.](etheria-images/2023/03/Puerto-Ribadeo-lugo.jpg "Puerto de Ribadeo, en Lugo.")
+![Puerto de Ribadeo, en Lugo.](https://fotos.etheriamagazine.com/2023/03/Puerto-Ribadeo-lugo.jpg "Puerto de Ribadeo, en Lugo.")
 
 Acércate al marinero pueblo de **Rinlo**, colgado sobre los acantilados litorales, para 
 conocer su medio siglo de historia marinera mientras pruebas **los mejores percebes** 
 del litoral lucense o su inolvidable arroz con bogavante. 
 
-![Puerto de Rinlo, en Ribadeo.](etheria-images/2023/03/Porto-Rinlo-Ribadeo.jpg "Puerto de Rinlo, en Ribadeo.")
+![Puerto de Rinlo, en Ribadeo.](https://fotos.etheriamagazine.com/2023/03/Porto-Rinlo-Ribadeo.jpg "Puerto de Rinlo, en Ribadeo.")
 
 Imprescindible ir a la **isla Pancha** atravesando el puente que la conecta con tierra 
 firme. Sobre su escarpada geografía verás el faro de Illa Pancha convertido en un 
 singular alojamiento turístico. 
 
-![Isla Pancha y puente que la conecta a tierra en Lugo](etheria-images/2023/03/pueblos-lugo-isla-pancha.jpg "Isla Pancha. © Juan Gomez")
+![Isla Pancha y puente que la conecta a tierra en Lugo](https://fotos.etheriamagazine.com/2023/03/pueblos-lugo-isla-pancha.jpg "Isla Pancha. © Juan Gomez")
 
 ### Mondoñedo
 
@@ -347,7 +347,7 @@ era el acceso del Camino Real, donde el indulto que llevaba la esposa del marisc
 Pardo de Cela fue demorado para que se decapitara al noble gallego en las escaleras de 
 la catedral. 
 
-![Catedral de Mondoñedo, uno de los lugares que hay que ver en lugo provincia](etheria-images/2023/03/Catedral-de-Mondonedo-lugo.jpg "Catedral de Mondoñedo.")
+![Catedral de Mondoñedo, uno de los lugares que hay que ver en lugo provincia](https://fotos.etheriamagazine.com/2023/03/Catedral-de-Mondonedo-lugo.jpg "Catedral de Mondoñedo.")
 
 **No olvides** hacer una foto junto al insigne escritor Álvaro Cunqueiro, oriundo de 
 Mondoñedo, cuya escultura se halla en los soportales de la plaza de España mirando hacia 

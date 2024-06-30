@@ -1,7 +1,7 @@
 ---
 title: "'Hondalea', la escultura de Cristina Iglesias que ilumina el faro de la isla de Santa Clara"
 date: 2021-05-04
-coverImage: etheria-images/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -18,7 +18,7 @@ minutos y se hacen entre las 11 y las 18.30 horas. La entrada es gratuita pero e
 traslado corre a cargo del visitante. Las visitas guiadas este año han bajado un poco de 
 precio. 
 
-![hondalea escultura de faro de santa clara](etheria-images/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg "Hondalea en proceso de construcción. © J.Luis López de Zubiria")
+![hondalea escultura de faro de santa clara](https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg "Hondalea en proceso de construcción. © J.Luis López de Zubiria")
 
 Actualizado 8/2023 
 
@@ -35,7 +35,7 @@ profundidad. No es un término muy extendido en la actualidad pero sí cuenta co
 larga tradición literaria. Incluso se ha hallado en textos del siglo XVII del poeta 
 Arnaud Oihenart. 
 
-![cristina iglesias en el faro de isla de santa clara](etheria-images/2021/05/Cristina-Iglesias-y-la-Isla-de-Santa-Clara.jpg "Cristina Iglesias en el faro de la Isla de Santa Clara. © Iñigo Aguayo")
+![cristina iglesias en el faro de isla de santa clara](https://fotos.etheriamagazine.com/2021/05/Cristina-Iglesias-y-la-Isla-de-Santa-Clara.jpg "Cristina Iglesias en el faro de la Isla de Santa Clara. © Iñigo Aguayo")
 
 ## Hondalea, una visita con cita previa
 
@@ -57,7 +57,7 @@ pero corre por cuenta del cliente.
 de **25 euros** y sólo se puede hacer entre el 1 de julio y el 31 de agosto. Puedes 
 reservar en [Hondalea.eus](https://www.donostia.eus/ataria/es/web/hondalea/visita) 
 
-![isla de santa clara y monte igueldo](etheria-images/2021/05/Isla-de-Santa-Clara-y-Monte-Igueldo.jpg "Isla de Santa Clara, con el faro, y detrás se sitúa el Monte Igueldo. © Íñigo Aguayo")
+![isla de santa clara y monte igueldo](https://fotos.etheriamagazine.com/2021/05/Isla-de-Santa-Clara-y-Monte-Igueldo.jpg "Isla de Santa Clara, con el faro, y detrás se sitúa el Monte Igueldo. © Íñigo Aguayo")
 
 ## Cuándo y por qué surgió la idea de Hondalea
 
@@ -83,7 +83,7 @@ panorama artístico internacional. Alrededor de la misma, y uniendo el arte y el
 medioambiente, se han planificado una serie de actividades a la que podrá asistir todo 
 el público interesado. 
 
-![Hondalea obra de cristina iglesias en donostia](etheria-images/2021/05/escultura-faro-santa-clara.jpg "Vista general de Hondalea, obra de Cristina Iglesias. © José Luis López Zubiria")
+![Hondalea obra de cristina iglesias en donostia](https://fotos.etheriamagazine.com/2021/05/escultura-faro-santa-clara.jpg "Vista general de Hondalea, obra de Cristina Iglesias. © José Luis López Zubiria")
 
 ## Cómo llegar a la Isla de Santa Clara
 
@@ -99,7 +99,7 @@ Isla](http://motorasdelaisla.com/tarifas/), una empresa familiar que lleva funci
 desde 1942 . El trayecto a la isla sale por 4 euros, y 7 euros con un paseo por la 
 bahía. Los menores de 4 años viajan gratuitamente. 
 
-![vista aerea del faro de santa clara](etheria-images/2021/05/faro-isla-santa-clara.jpg "Vista aérea del faro de Santa Clara (aún en obras). © José Luis López Zubiria")
+![vista aerea del faro de santa clara](https://fotos.etheriamagazine.com/2021/05/faro-isla-santa-clara.jpg "Vista aérea del faro de Santa Clara (aún en obras). © José Luis López Zubiria")
 
 **También te puede interesar…** 
 

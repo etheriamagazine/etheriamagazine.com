@@ -1,7 +1,7 @@
 ---
 title: "6 lugares para disfrutar de los mercados de Navidad más tradicionales"
 date: 2022-10-21
-coverImage: etheria-images/2022/10/Navidad-Salzburgo-mercadillo-navidad-catedral.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/10/Navidad-Salzburgo-mercadillo-navidad-catedral.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -13,7 +13,7 @@ durante los últimos meses del año para acabarlo como se merece. Aquí te propo
 lugares del centro de Europa que se vuelcan en sus mercados de Navidad donde te será 
 imposible no contagiarte, aunque sea un poco, del espíritu navideño más tradicional. 
 
-![luces navideñas en un mercadillo en Zúrich](etheria-images/2022/10/Navidad-Zurich-mercado-Estacion-Central-850x603.jpg "Puesto del mercado de Navidad de la Estación Central de Zúrich. © SG")
+![luces navideñas en un mercadillo en Zúrich](https://fotos.etheriamagazine.com/2022/10/Navidad-Zurich-mercado-Estacion-Central-850x603.jpg "Puesto del mercado de Navidad de la Estación Central de Zúrich. © SG")
 
 La idea de unas Navidades blancas en las que probar dulces navideños y comprar adornos 
 para el árbol mientras suenan villancicos de fondo es un objetivo a cumplir para muchas, 
@@ -34,7 +34,7 @@ Plaza de la Ciudad Vieja y el mercadillo de la Plaza de la República. Podrás c
 bonitos adornos navideños y probar las especialidades checas: los _trdelník_ (bizcocho 
 de azúcar y canela) y el _medovina_ (un licor parecido al ron miel). 
 
-![Navidad en Praga](etheria-images/2022/10/Navidad-mercadillos-Praga-850x463.jpg "Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga. © Libor Svácek")
+![Navidad en Praga](https://fotos.etheriamagazine.com/2022/10/Navidad-mercadillos-Praga-850x463.jpg "Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga. © Libor Svácek")
 
 Si vas a pasar varios días, merece la pena hacer alguna excursión a otros lugares que 
 añaden a sus interés arquitectónico y lúdico un ambiente navideño de diez, como Karlovy 
@@ -55,7 +55,7 @@ probar las especialidades locales de esta época: los bollos de canela, los _lan
 pizza) y los buñuelos. Y, por supuesto, no dejes de calentar manos y cuerpo con un 
 especiado vino caliente. 
 
-![decoración navideña en Budapest](etheria-images/2022/10/Navidad-mercadillo-basilica-san-esteban-850x638.jpg "Mercadillo de la Basílica de San Esteban, en Budapest. © Pepa García")
+![decoración navideña en Budapest](https://fotos.etheriamagazine.com/2022/10/Navidad-mercadillo-basilica-san-esteban-850x638.jpg "Mercadillo de la Basílica de San Esteban, en Budapest. © Pepa García")
 
 Si no has tenido suficiente ambiente navideño, acércate también a otros mercadillos de 
 la ciudad como el de la plaza Erzsébet o el del Bastión de los Pescadores, en Buda. 
@@ -73,7 +73,7 @@ con mal tiempo. Otros mercadillos de Zúrich que no puedes perderte son el de
 Werdmühleplatz, el de Nierderdorf y el bonito pueblo navideño de la Sechseläutenplatz 
 situado junto al lago. 
 
-![Iluminación navideña en Zúrich](etheria-images/2022/10/Navidad-Zurich-Bahnhofstrasse-navidad-850x567.jpg "La Bahnhofstrasse, una de las calles principales de Zúrich, en Navidad. ©Switzerland Tourism/Ivo Scholz")
+![Iluminación navideña en Zúrich](https://fotos.etheriamagazine.com/2022/10/Navidad-Zurich-Bahnhofstrasse-navidad-850x567.jpg "La Bahnhofstrasse, una de las calles principales de Zúrich, en Navidad. ©Switzerland Tourism/Ivo Scholz")
 
 Si has elegido Zúrich para una escapada invernal, una buena opción es hacer una 
 excursión a la encantadora ciudad de **Lucerna** (a media hora en tren). Merece pasar 
@@ -101,7 +101,7 @@ como un anticipo de los regalos de Navidad. No te pierdas tampoco la decoración
 de las calles Nowy Swiat y Krakowskie ni el mercado situado entre la muralla y la 
 Barbacana que da paso a la Ciudad Nueva. 
 
-![Belenes tradicionales polacos en Cracovia](etheria-images/2022/10/Navidad-belenes-cracovia-850x585.jpg "Concurso de belenes de Cracovia. © Manena Munar.")
+![Belenes tradicionales polacos en Cracovia](https://fotos.etheriamagazine.com/2022/10/Navidad-belenes-cracovia-850x585.jpg "Concurso de belenes de Cracovia. © Manena Munar.")
 
 En **Cracovia** se ubica el mercadillo más grande de Polonia, ubicado en la Rynek Glówny 
 (Plaza del Mercado). Aquí no faltan puestos donde comprar recuerdos e, incluso, algunas 
@@ -123,7 +123,7 @@ navideño más auténtico. El más conocido, y uno de los más antiguos del mund
 Christkindlmarkt, ubicado en torno a la catedral y con una completa programación de 
 desfiles, conciertos de villancicos y lecturas navideñas. 
 
-![Mercado de navidad en Salzburgo](etheria-images/2022/10/Navidad-Salzburgo-mercadillo-navidad-catedral-850x567.jpg "Mercadillo Christkindlmarkt junto a la catedral. © Österreich Werbung/ Bryan Reinhart")
+![Mercado de navidad en Salzburgo](https://fotos.etheriamagazine.com/2022/10/Navidad-Salzburgo-mercadillo-navidad-catedral-850x567.jpg "Mercadillo Christkindlmarkt junto a la catedral. © Österreich Werbung/ Bryan Reinhart")
 
 El mercadillo más romántico es el que se ubica en la plaza Mirabell, pequeño y coqueto, 
 pero si te gustan los grandes escenarios, el del palacio de Hellbrunn cuenta con un 
@@ -143,7 +143,7 @@ Berlín](https://www.visitberlin.de/es/mercados-de-navidad-berlin), que inundan 
 barrios de la ciudad; o Hamburgo como propuesta para aquellos que además de hacer planes 
 durante el día quieren disfrutar de un buen ambiente nocturno. 
 
-![navidad en Berlín en la puerta de Brandeburgo](etheria-images/2022/10/Navidad-Berlin-850x567.jpg "La Puerta de Brandeburgo en Navidad. © GNTB/Getty Images/Golero")
+![navidad en Berlín en la puerta de Brandeburgo](https://fotos.etheriamagazine.com/2022/10/Navidad-Berlin-850x567.jpg "La Puerta de Brandeburgo en Navidad. © GNTB/Getty Images/Golero")
 
 Los que buscan planes originales pueden elegir la Baja Sajonia para contemplar el mar de 
 Frisia en invierno o avistar aves en Renania del Norte-Westfalia. Y los amantes de la 

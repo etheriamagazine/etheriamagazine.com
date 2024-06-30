@@ -1,7 +1,7 @@
 ---
 title: "Miradas femeninas de 11 países en el Festival de Cine por Mujeres"
 date: 2020-11-04
-coverImage: etheria-images/2020/11/festival-cine-mujeres-Saint-Maud.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-Saint-Maud.jpg
 categories: 
   - festivales
   - planes-cultura-ocio
@@ -11,7 +11,7 @@ authors:
 
 El Festival de Cine por Mujeres acoge hasta el 15 de noviembre las películas más singulares dirigidas por mujeres de Alemania, Chile, Corea del Sur o Finlandia. Aquí encontrarás un listado de los filmes que se proyectarán en el Cine Estudio del Círculo de Bellas Artes de Madrid.
 
-![festival 2020 de cine por mujeres](etheria-images/2020/11/cartel-cine-por-mujeres-743x1024.jpg "Cartel Festival Internacional de Cine por Mujeres.")
+![festival 2020 de cine por mujeres](https://fotos.etheriamagazine.com/2020/11/cartel-cine-por-mujeres-743x1024.jpg "Cartel Festival Internacional de Cine por Mujeres.")
 
 Hasta el 15 de noviembre, se celebra en Madrid el III Festival de Cine por Mujeres, un 
 escaparate que mostrará algunos de los mejores largometrajes hechos por el colectivo 
@@ -30,7 +30,7 @@ proyecciones en la Sala Berlanga de la Fundación SGAE, Casa Árabe, Centro Come
 Palacio de Hielo, Instituto Goethe, Instituto Francés, Cineteca Madrid, Sala Equis, 
 Academia de las Artes y las Ciencias Cinematográficas y la Sala La Morada. 
 
-![pelicula nevia festival cine por mujeres 2020](etheria-images/2020/11/festival-cine-mujeres-Nevia-Cartel-722x1024.jpg "Cartel de la película 'Nevia' (Italia).")
+![pelicula nevia festival cine por mujeres 2020](https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-Nevia-Cartel-722x1024.jpg "Cartel de la película 'Nevia' (Italia).")
 
 ## Películas 'Sección Competitiva' del Festival de Cine por Mujeres
 
@@ -52,7 +52,7 @@ salvar la vida de una mujer que le enseña serbio y poder seguir buscando a su p
 desaparecido. La película fue premiada en los festivales de Karlovy Vary, Tirana, 
 Cottbus y Kolkata. **Jueves 5, 22 horas.** 
 
-![agas house directora lendita zeqijraj](etheria-images/2020/11/festival-cine-mujeres-Agas-house.jpg "'Aga's House' de la directora Lendita Zeqiraj (Kosovo).")
+![agas house directora lendita zeqijraj](https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-Agas-house.jpg "'Aga's House' de la directora Lendita Zeqiraj (Kosovo).")
 
 #### 'History of Love' (Eslovenia), de Sonja Prosenc (2018)
 
@@ -76,7 +76,7 @@ un joven iraní, Darian, que está escapando, a su vez, de la muerte. Ambos se n
 para dejar de huir. La cinta fue premiada en los festivales de Edimburgo, Cabourg, 
 Lübeck y cuenta con siete premios Jussi. **Viernes 6, 22 horas**. 
 
-![saint maud festival de cine por mujeres](etheria-images/2020/11/festival-cine-mujeres-Saint-Maud.jpg "Película 'Saint Maud' de la directora Rose Glass (Reino Unido).")
+![saint maud festival de cine por mujeres](https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-Saint-Maud.jpg "Película 'Saint Maud' de la directora Rose Glass (Reino Unido).")
 
 #### 'Saint Maud' (Reino Unido), de Rose Glass (2019)
 
@@ -94,7 +94,7 @@ fantasea con protagonizar alguna de ellas, pero un día es arrestado por la poli
 internado en el orfanato soviético de la ciudad. La película fue premiada en el Festival 
 de Cannes. **Sábado 7, 22 horas.** 
 
-![The Orphanage pelicula danesa](etheria-images/2020/11/festival-cine-mujeres-The-Orphanage.jpg "'The Orphanage' dirigida por Shahrbanoo Sadat (Dinamarca).")
+![The Orphanage pelicula danesa](https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-The-Orphanage.jpg "'The Orphanage' dirigida por Shahrbanoo Sadat (Dinamarca).")
 
 #### 'Sin señas particulares' (México), de Fernanda Valadez (2020)
 
@@ -113,7 +113,7 @@ que han construido. La vida de todos está en la cuerda floja. La película fue
 seleccionada en Cannes y obtuvo el premio _New Directors_ en San Sebastián. **Domingo 8, 
 19.30 horas.** 
 
-![pelicula Rompesistema de Nbora Fingschegeidt](etheria-images/2020/11/festival-cine-mujeres-System-Crasher.jpg "'Rompesistema', la película de Nbora Fingschegeidt, compite en el festival.")
+![pelicula Rompesistema de Nbora Fingschegeidt](https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-System-Crasher.jpg "'Rompesistema', la película de Nbora Fingschegeidt, compite en el festival.")
 
 #### 'Rompesistema' (Alemania), de NBora Fingschgeidt (2019)
 
@@ -131,7 +131,7 @@ madre, residente en un asilo. Para llevar a cabo la misión, contrata a Sergio, 
 de 83 años, que debe internarse en la residencia como un agente topo. Allí se involucra 
 en la vida de los residentes con un resultado inesperado. **Domingo 8, 21.30 horas**. 
 
-![el agente topo en cine por mujeres](etheria-images/2020/11/festival-cine-mujeres-El-agente-topo-Maite-Alberdi.jpg "'El agente topo' de la directora Maite Alberdi (Chile).")
+![el agente topo en cine por mujeres](https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-El-agente-topo-Maite-Alberdi.jpg "'El agente topo' de la directora Maite Alberdi (Chile).")
 
 ## Encuentros virtuales en el festival
 
@@ -150,7 +150,7 @@ género en la industria cinematográfica. Y es que **continúa siendo difícil q
 platós y las claquetas hablen en femenino**, que los guiones cuenten cómo las mujeres 
 ven el mundo y que las actrices interpreten personajes concebidos por las mujeres. 
 
-![un divan en tunez y nothing is lost](etheria-images/2020/11/Un-divan-en-Tunez-nothing-is-lost.jpg "En el marco del festival también se proyectarán filmes de autoras árabes y polacas.")
+![un divan en tunez y nothing is lost](https://fotos.etheriamagazine.com/2020/11/Un-divan-en-Tunez-nothing-is-lost.jpg "En el marco del festival también se proyectarán filmes de autoras árabes y polacas.")
 
 No hay que olvidar que hubo que esperar hasta 2010 para ver cómo la Academia de 
 Hollywood concedía el **primer Oscar** a una mujer directora, la californiana Kathryn 

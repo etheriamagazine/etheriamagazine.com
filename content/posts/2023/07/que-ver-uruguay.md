@@ -1,7 +1,7 @@
 ---
 title: "Uruguay, un país que bien merece una escapada"
 date: 2023-07-07
-coverImage: etheria-images/2023/07/Montevideo-palacio-Salvo.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -14,7 +14,7 @@ Te invitamos a descubrir buenas razones para incluir este destino en tu agenda d
 pendientes. Sigue leyendo si quieres saber qué ver en Uruguay y conocer algunos de sus 
 atractivos. 
 
-![Contraste arquitectónico en Montevideo.](etheria-images/2023/07/Montevideo-palacio-Salvo-850x599.jpg "Contraste arquitectónico en Montevideo. © Etheria Magazine")
+![Contraste arquitectónico en Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo-850x599.jpg "Contraste arquitectónico en Montevideo. © Etheria Magazine")
 
 Reconócelo, si no tienes lazos con personas uruguayas y no eres un viajero empedernido, 
 puede que aún no te hayas planteado Uruguay como tu próximo destino. A pesar de que es 
@@ -24,7 +24,7 @@ después de leer este artículo cambien tus prioridades. Realizaremos un recorri
 coche desde Montevideo hasta lugares tan interesantes como Colonia del Sacramento, Fray 
 Bentos, Carmelo o una antigua colonia rusa (sí sí, rusa)... 
 
-![Plaza de la Independencia de Montevideo.](etheria-images/2023/07/Montevideo-plaza-independencia.jpg "Plaza de la Independencia de Montevideo. © Etheria Magazine")
+![Plaza de la Independencia de Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-plaza-independencia.jpg "Plaza de la Independencia de Montevideo. © Etheria Magazine")
 
 ## Montevideo
 
@@ -45,7 +45,7 @@ los rincones y construcciones con más encanto están el Teatro Solís, el palac
 palacio Salvo, la parisina plaza Zabala con su palacio Taranco, el edificio Artigas, la 
 iglesia Matriz y el Cabildo. 
 
-![Interior de la Librería Puro Verso, en Montevideo.](etheria-images/2023/07/Montevideo-libreria-Puro-verso.jpg "Librería Puro Verso, en Montevideo. © Etheria Magazine")
+![Interior de la Librería Puro Verso, en Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-libreria-Puro-verso.jpg "Librería Puro Verso, en Montevideo. © Etheria Magazine")
 
 ### Librerías y cafés
 
@@ -65,7 +65,7 @@ superior–; y otra es **Linardi y Risso**, de la que el propio Pablo Neruda dir
 delicia aunque no nos llevemos casi nada!”. Sobre sus estantes se agolpan decenas de 
 tesoros latinoamericanos. 
 
-![Estadio Centenario, en Montevideo.](etheria-images/2023/07/Montevideo-estadio-centenario-683x1024.jpg "Estadio Centenario, en Montevideo. © Etheria Mag.")
+![Estadio Centenario, en Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-estadio-centenario-683x1024.jpg "Estadio Centenario, en Montevideo. © Etheria Mag.")
 
 Antes de dejar Montevideo –teniendo en cuenta la devoción de los uruguayos al fútbol y a 
 “la celeste” (su selección)– se debe conocer el **estadio Centenario**. Inaugurado en 
@@ -84,7 +84,7 @@ antiguo convento narran su devenir sin pretenderlo, y recuerdan a colonizadores
 portugueses y españoles que no dudaron en competir por quedarse con este estratégico 
 puerto. 
 
-![Colonia del Sacramente es una de las ciudades más antiguas del país.](etheria-images/2023/07/Colonia-Sacramento-uruguay.jpg "Colonia del Sacramento es una de las ciudades más antiguas del país. © Etheria Mag.")
+![Colonia del Sacramente es una de las ciudades más antiguas del país.](https://fotos.etheriamagazine.com/2023/07/Colonia-Sacramento-uruguay.jpg "Colonia del Sacramento es una de las ciudades más antiguas del país. © Etheria Mag.")
 
 El mejor momento para recorrerla es cuando los faroles se encienden y su luz amarilla 
 rebota creando grotescas sombras en el suelo adoquinado. El eco de los ruidosos 
@@ -99,7 +99,7 @@ Carlos, que solo estuvo en activo dos años –ya que se prohibieron las corrida
 la misma, se sitúa el Museo del Ferrocarril, donde se muestran objetos relacionados con 
 la actividad ferroviaria. 
 
-![Atardecer en el puerto de Colonia Sacramento.](etheria-images/2023/07/Colonia-Sacramento-uruguay-1.jpg "Atardecer en el puerto de Colonia Sacramento. © Etheria Mag.")
+![Atardecer en el puerto de Colonia Sacramento.](https://fotos.etheriamagazine.com/2023/07/Colonia-Sacramento-uruguay-1.jpg "Atardecer en el puerto de Colonia Sacramento. © Etheria Mag.")
 
 ## Carmelo, un paseo entre viñedos
 
@@ -123,7 +123,7 @@ actividades en los viñedos y alquilan una cabaña en medio de la finca. Por úl
 busque raíces españolas entre las viñas, las encontrará en Bodegas Irurtia y Bodega 
 Zubizarreta. 
 
-![Entrada a Bodegas Narbona.](etheria-images/2023/07/entrada-bodega-Narbona-uruguay.jpg "Entrada a Bodegas Narbona. © Etheria Mag.")
+![Entrada a Bodegas Narbona.](https://fotos.etheriamagazine.com/2023/07/entrada-bodega-Narbona-uruguay.jpg "Entrada a Bodegas Narbona. © Etheria Mag.")
 
 ## Fray Bentos, un paisaje industrial de la Unesco
 
@@ -141,7 +141,7 @@ obreros, y la Casa Grande, la lujosa vivienda de los gerentes. Una sala básica 
 visita es el Museo de la Revolución Industrial, donde se realiza un repaso a su 
 apasionante trayectoria desde 1863 a 1979. 
 
-![Frigorífico Anglo, en Fray Bentos.](etheria-images/2023/07/Frigorifico-Anglo-Fray-Bentos.jpg "Frigorífico Anglo, en Fray Bentos. © Etheria Mag.")
+![Frigorífico Anglo, en Fray Bentos.](https://fotos.etheriamagazine.com/2023/07/Frigorifico-Anglo-Fray-Bentos.jpg "Frigorífico Anglo, en Fray Bentos. © Etheria Mag.")
 
 Al pasear por las calles e instalaciones del Frigorífico Anglo, transitadas antaño por 
 miles de personas de sesenta nacionalidades, no se puede evitar un sentimiento de 
@@ -155,7 +155,7 @@ Solari y la Plaza de la Constitución, con un elegante quiosco en el centro, don
 la empresa Liebig. Es este un lugar idóneo de veraneo, con sus playas fluviales y zonas 
 de picnic, las ramblas y el agradable parque Franklin Roosevelt. 
 
-![La tranquila ciudad de Fray Bentos.](etheria-images/2023/07/Fray-Bentos-uruguay.jpg "La tranquila ciudad de Fray Bentos. © Etheria Mag.")
+![La tranquila ciudad de Fray Bentos.](https://fotos.etheriamagazine.com/2023/07/Fray-Bentos-uruguay.jpg "La tranquila ciudad de Fray Bentos. © Etheria Mag.")
 
 ## La colonia rusa de San Javier
 
@@ -178,7 +178,7 @@ profeta Lubkov, declarada Monumento Nacional; la capilla donde se reunían, de l
 cuelgan grandes retratos de los colonos; un molino harinero y la primera fábrica de 
 aceite de girasol. 
 
-![Recuerdos de artesanía de la colonia de San Javier.](etheria-images/2023/07/San-Javier-colonia-rusa-artesania-2660.jpg "Recuerdos de artesanía de la colonia de San Javier. © Etheria Mag.")
+![Recuerdos de artesanía de la colonia de San Javier.](https://fotos.etheriamagazine.com/2023/07/San-Javier-colonia-rusa-artesania-2660.jpg "Recuerdos de artesanía de la colonia de San Javier. © Etheria Mag.")
 
 ## Nuevo Berlín
 
@@ -195,7 +195,7 @@ Muchos comparan a Uruguay con una “bella durmiente” que espera a ser despert
 embargo, la autenticidad que desprende, el trato amable de sus gentes y la escasa 
 masificación turística solo nos lleva a desear que su despertar sea lento y controlado. 
 
-![Nuevo Berlín, en Uruguay.](etheria-images/2023/07/Nuevo-Berlin-uruguay.jpg "Nuevo Berlín, en Uruguay. © Etheria Mag.")
+![Nuevo Berlín, en Uruguay.](https://fotos.etheriamagazine.com/2023/07/Nuevo-Berlin-uruguay.jpg "Nuevo Berlín, en Uruguay. © Etheria Mag.")
 
 ## Guía práctica de Uruguay
 

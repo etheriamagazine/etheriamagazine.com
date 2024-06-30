@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Lloret de Mar en un día, 7 planes sin estresarte"
 date: 2022-06-20
-coverImage: etheria-images/2022/06/Playa-Sa-Boadella-lloret.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/Playa-Sa-Boadella-lloret.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -13,7 +13,7 @@ authors:
 
 Si estás de viaje por la Costa Brava, una parada imprescindible es Lloret de Mar, uno de esos lugares con encanto, historia, preciosas playas y jardines digno de una estancia más prolongada. Para abrir boca, te contamos qué hacer en Lloret de Mar en un día, pero estamos seguras de que querrás quedarte mucho más...
 
-![Escultura de la Dona Marinera, homenaje a las mujeres que esperaban el regreso de sus maridos pescadores.](etheria-images/2022/06/lloret-Dona-Marinera.jpg "Escultura de la Dona Marinera, homenaje a las mujeres que esperaban el regreso de sus maridos pescadores. © OT Lloret de Mar")
+![Escultura de la Dona Marinera, homenaje a las mujeres que esperaban el regreso de sus maridos pescadores.](https://fotos.etheriamagazine.com/2022/06/lloret-Dona-Marinera.jpg "Escultura de la Dona Marinera, homenaje a las mujeres que esperaban el regreso de sus maridos pescadores. © OT Lloret de Mar")
 
 Existen pueblos con los que inmediatamente sientes un flechazo y que son ideales tanto 
 para quienes viajan en pareja como para quienes lo hacen en familia o con amigas. Entre 
@@ -25,7 +25,7 @@ recomendamos que hagas una parada y que durante una jornada abandones el coche y
 dediques a recorrer algunos de sus atractivos. ¿Crees que es posible enamorarse de 
 Lloret de Mar en un día? Te lo demostramos con los siguientes planes. 
 
-![Cala de Sa Boadella en Lloret de Mar](etheria-images/2022/06/Playa-Sa-Boadella-lloret.jpg "Cala de Sa Boadella. © OT Lloret de Mar.")
+![Cala de Sa Boadella en Lloret de Mar](https://fotos.etheriamagazine.com/2022/06/Playa-Sa-Boadella-lloret.jpg "Cala de Sa Boadella. © OT Lloret de Mar.")
 
 ## Lloret de Mar en un día, siete planes para todos
 
@@ -43,7 +43,7 @@ Mar en un día.
 ?¿Dónde están los Jardines de Santa Clotilde? Entre la cala Boadella y la playa de 
 Fenals. 
 
-![Bonitos jardines de Santa Clotilde, una visita básica para conocer Lloret de Mar en un día](etheria-images/2022/06/Jardines-Santa-Clotilde.jpg "Bonitos jardines de Santa Clotilde. © OT Lloret de Mar")
+![Bonitos jardines de Santa Clotilde, una visita básica para conocer Lloret de Mar en un día](https://fotos.etheriamagazine.com/2022/06/Jardines-Santa-Clotilde.jpg "Bonitos jardines de Santa Clotilde. © OT Lloret de Mar")
 
 ### 2\. Conocer la Casa Font y la vida de los indianos
 
@@ -60,7 +60,7 @@ edificaciones.
 también ubicado en el casco antiguo, o apuntarte a las visitas guiadas que organiza la 
 oficina de turismo de Lloret. 
 
-![Casa de Font, una residencia de indianos en Lloret de Mar.](etheria-images/2022/06/lloret-mar-Can-Font-676x1024.jpg "Casa de Font, una residencia de indianos de la localidad. © OT Lloret de Mar")
+![Casa de Font, una residencia de indianos en Lloret de Mar.](https://fotos.etheriamagazine.com/2022/06/lloret-mar-Can-Font-676x1024.jpg "Casa de Font, una residencia de indianos de la localidad. © OT Lloret de Mar")
 
 ### 3\. Recorrer el Camino de Ronda de Lloret de Mar
 
@@ -73,7 +73,7 @@ todo el año y permiten conocer sus playas y calas, además de descubrir varios 
 y elementos de interés como la escultura de la Dona Marinera, el Castillo de Sant Joan o 
 el Castell d’en Plaja. 
 
-![El Camino de Ronda transcurre junto al Mediterráneo.](etheria-images/2022/06/lloret-mar-Camino-de-Ronda.jpg "El Camino de Ronda transcurre junto al Mediterráneo. © OT Lloret de Mar")
+![El Camino de Ronda transcurre junto al Mediterráneo.](https://fotos.etheriamagazine.com/2022/06/lloret-mar-Camino-de-Ronda.jpg "El Camino de Ronda transcurre junto al Mediterráneo. © OT Lloret de Mar")
 
 ### 4\. Tarde de playa (o de siesta) en una cala virgen
 
@@ -88,7 +88,7 @@ Si vas con amigas, quizás te apetezca acercarte a la preciosa **cala de Sa Boad
 que una vez más ha vuelto a ser elegida entre las 20 playas más bonitas de Europa (según 
 la web European Best Destination). 
 
-![Playa de arena dorada de Lloret de Mar.](etheria-images/2022/06/Playa-Lloret-mar.jpg "Playa de arena dorada de Lloret de Mar.")
+![Playa de arena dorada de Lloret de Mar.](https://fotos.etheriamagazine.com/2022/06/Playa-Lloret-mar.jpg "Playa de arena dorada de Lloret de Mar.")
 
 ? Si vas con niños apunta estas propuestas: Parque acuático Water World, los mini club 
 de la playa de Lloret y Fenals o apuntarles a una yincana en los jardines de Santa 
@@ -109,7 +109,7 @@ para acoger un museo privado sobre la sostenibilidad. Estamos deseando conocerlo
 torre medieval del siglo XI que brinda bonitas panorámicas desde su ubicación sobre los 
 acantilados. 
 
-![Playa de Sa Caleta con el castillo d'en Plaja al fondo. Visita esencial en un viaje a Lloret de Mar en un día](etheria-images/2022/06/lloret-mar-Sa-Caleta.jpg "Playa de Sa Caleta con el castillo d'en Plaja al fondo. © OT Lloret de Mar")
+![Playa de Sa Caleta con el castillo d'en Plaja al fondo. Visita esencial en un viaje a Lloret de Mar en un día](https://fotos.etheriamagazine.com/2022/06/lloret-mar-Sa-Caleta.jpg "Playa de Sa Caleta con el castillo d'en Plaja al fondo. © OT Lloret de Mar")
 
 ### 6\. Probar la langosta o el pulpo con chocolate
 
@@ -123,7 +123,7 @@ langosta o el pulpo con chocolate**, un mezcla de sabores que no deja indiferent
 pescado fresco preparado de mil maneras. Y para postre, una crema catalana o una crema 
 de ron cremat, que apetecen todo el año. 
 
-![Pulpo con chocolate y crema de ron cremat](etheria-images/2022/06/pulpo-chocolate-lloret.jpg "Pulpo con chocolate y crema de ron cremat. © Lloret de Mar")
+![Pulpo con chocolate y crema de ron cremat](https://fotos.etheriamagazine.com/2022/06/pulpo-chocolate-lloret.jpg "Pulpo con chocolate y crema de ron cremat. © Lloret de Mar")
 
 ### 7\. Tomar un Daiquiri Nº4, Frozen, en la cuna de su creador
 
@@ -135,7 +135,7 @@ fue el escritor Ernest Hemingway. Te animamos a probarlo en tu próximo viaje a 
 Si quieres aprender a preparar este [Daiquiri](https://www.youtube.com/watch?v=bLKuVKlbtsY&t=6s), 
 entra en el canal Grifol's Bar, en YouTube. 
 
-![Daiquiri nº4 o Frozen, ideado por un lloretense y popularizado por Hemingway.](etheria-images/2022/06/daiquiri-4-lloret-mar.jpg "Daiquiri nº4 o Frozen, ideado por un lloretense y popularizado por Hemingway. © Pepa García")
+![Daiquiri nº4 o Frozen, ideado por un lloretense y popularizado por Hemingway.](https://fotos.etheriamagazine.com/2022/06/daiquiri-4-lloret-mar.jpg "Daiquiri nº4 o Frozen, ideado por un lloretense y popularizado por Hemingway. © Pepa García")
 
 Más información en la web de **Turismo de Lloret de Mar**. 
 

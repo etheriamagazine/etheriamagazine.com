@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola a Namibia, una ruta en coche para descubrir su sorprendente naturaleza"
 date: 2023-06-21
-coverImage: etheria-images/2023/06/tribu-hereros-Namibia.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/06/tribu-hereros-Namibia.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -16,7 +16,7 @@ es bastante común compartir transporte.
 
 **Texto y fotos: Cristina Candel** 
 
-![Viajar sola a Namibia permite centrarse incluso en los pequeños detalles.](etheria-images/2023/06/mujeres-Namibia.jpg "Viajar sola a Namibia permite centrarse incluso en los pequeños detalles.")
+![Viajar sola a Namibia permite centrarse incluso en los pequeños detalles.](https://fotos.etheriamagazine.com/2023/06/mujeres-Namibia.jpg "Viajar sola a Namibia permite centrarse incluso en los pequeños detalles.")
 
 En Namibia apenas hay autobuses, únicamente los que unen las poblaciones más 
 importantes, pero ninguno que vaya a los puntos más interesantes del país. Así que la 
@@ -46,7 +46,7 @@ rinocerontes negro y blanco, impalas, ñus, gacelas y un larguísimo etcétera q
 tan popular a esta inmensa planicie que es la mayor no solo de África, sino también del 
 mundo. 
 
-![El mejor lugar para observar animales es al lado de la charca.](etheria-images/2023/06/etosha-Namibia.jpg "El mejor lugar para observar animales es junto a la charca donde acuden a beber. © C.Candel")
+![El mejor lugar para observar animales es al lado de la charca.](https://fotos.etheriamagazine.com/2023/06/etosha-Namibia.jpg "El mejor lugar para observar animales es junto a la charca donde acuden a beber. © C.Candel")
 
 ### Los hereros, una etnia que vive en Etosha
 
@@ -60,7 +60,7 @@ reconoceremos por sus vestidos de colores vivos y un tocado que simula los **cue
 una vaca**, alrededor de la cual gira su economía y que aún hoy día se las continúa 
 considerando sagradas. 
 
-![Niño de la etnia de los Hereros.](etheria-images/2023/06/tribu-hereros-Namibia-850x565.jpg "Niño de la etnia de los Hereros. © C. Candel")
+![Niño de la etnia de los Hereros.](https://fotos.etheriamagazine.com/2023/06/tribu-hereros-Namibia-850x565.jpg "Niño de la etnia de los Hereros. © C. Candel")
 
 ## La tierra de los himbas
 
@@ -74,7 +74,7 @@ durar unas dos semanas. Si paramos en alguno de sus poblados nos encontraremos c
 amable que continúa con su día a día sin importarles nuestra presencia y pondrán a 
 nuestra disposición los abalorios que ellos mismos fabrican. 
 
-![Mujer himba peinada con barro en Namibia](etheria-images/2023/06/etnia-himba-Namibia.jpg "Los himbas cuidan mucho su estética. © C. Candel")
+![Mujer himba peinada con barro en Namibia](https://fotos.etheriamagazine.com/2023/06/etnia-himba-Namibia.jpg "Los himbas cuidan mucho su estética. © C. Candel")
 
 ## Las Epupa Falls
 
@@ -84,7 +84,7 @@ Angola y tienen un precioso baobab en mitad de la caída. Aquí hay varios _camp
 y hoteles que se encuentran en la orilla del río Kunene, frente a las cascadas y en los 
 alrededores hay muchos poblados de himbas que se pueden visitar. 
 
-![Epupa Falls o Cataratas de Epupa, una visita básica si te animas a viajar sola a Namibia.](etheria-images/2023/06/Epupa-falls-Namibia-682x1024.jpg "Epupa Falls, en Namibia. © C. Candel")
+![Epupa Falls o Cataratas de Epupa, una visita básica si te animas a viajar sola a Namibia.](https://fotos.etheriamagazine.com/2023/06/Epupa-falls-Namibia-682x1024.jpg "Epupa Falls, en Namibia. © C. Candel")
 
 ## Yacimiento Twyfelfontein 534
 
@@ -99,7 +99,7 @@ conocer cómo viven en la actualidad los habitantes de esta zona tan extrema del
 escuchar su lengua con los diferentes chasquidos y sonidos que intercalan con otros 
 fonemas, de lo más curioso. 
 
-![Yacimiento Twyfelfontein 534, esencial si vas a viajar sola a Namibia.](etheria-images/2023/06/Yacimiento-Twyfelfontein-Namibia-850x567.jpg "Yacimiento Twyfelfontein 534, esencial si vas a viajar sola a Namibia.")
+![Yacimiento Twyfelfontein 534, esencial si vas a viajar sola a Namibia.](https://fotos.etheriamagazine.com/2023/06/Yacimiento-Twyfelfontein-Namibia-850x567.jpg "Yacimiento Twyfelfontein 534, esencial si vas a viajar sola a Namibia.")
 
 ## Costa de los Esqueletos
 
@@ -123,7 +123,7 @@ curiosa mezcla entre Alemania y África, un buen lugar donde proveerse de todo l
 hayamos echado en falta. Aquí encuentras supermercados, bancos, bares, etc. En las 
 afueras, la inmensa **Duna 7** y la **laguna Rosa** y su espectáculo de flamencos. 
 
-![Desierto rojo de Sossusvlei, en Namibia.](etheria-images/2023/06/Desierto-Namibia.jpg "Desierto rojo de Sossusvlei, en Namibia. © C. Candel")
+![Desierto rojo de Sossusvlei, en Namibia.](https://fotos.etheriamagazine.com/2023/06/Desierto-Namibia.jpg "Desierto rojo de Sossusvlei, en Namibia. © C. Candel")
 
 ## Desierto rojo de Sossusvlei
 

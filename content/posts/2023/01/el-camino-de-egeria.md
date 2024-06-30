@@ -1,7 +1,7 @@
 ---
 title: "El Camino de Egeria, descubre este nuevo itinerario turístico"
 date: 2023-01-04
-coverImage: etheria-images/2023/01/camino-egeria-jordania.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/01/camino-egeria-jordania.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -16,7 +16,7 @@ tierras hizo, a finales del siglo IV, una dama romana, Egeria (también llamada 
 en algunos estudios): la primera viajera, a la par que escritora, de origen hispano de 
 que tengamos noticia. 
 
-![Ninfeo romano de Amán, en el Camino de Egeria.](etheria-images/2023/01/camino-egeria-aman-ninfeo-romano.jpg "Ninfeo romano de Amán, en el Camino de Egeria. © Carlos Pascual")
+![Ninfeo romano de Amán, en el Camino de Egeria.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-aman-ninfeo-romano.jpg "Ninfeo romano de Amán, en el Camino de Egeria. © Carlos Pascual")
 
 ## Prólogo: perfil de Egeria
 
@@ -28,7 +28,7 @@ una **matrona pudiente y culta** (¡no una monja!), posiblemente noble o pertene
 una familia aristocrática, ni joven ni mayor, intrépida, valiente, curiosa, movida tanto 
 por la piedad religiosa como por el puro deseo de conocer. 
 
-![Distintas visitas del Camino de Egeria](etheria-images/2023/01/camino-egeria-primera-etapa.jpg "Dama y obispo del siglo IV, en Festival Tarraco Viva. Maison Carrée, en Nimes, Via Domitia. Obelisco romano de Constantinopla. Heliópolis, camino a Jerusalén. © Carlos Pascual")
+![Distintas visitas del Camino de Egeria](https://fotos.etheriamagazine.com/2023/01/camino-egeria-primera-etapa.jpg "Dama y obispo del siglo IV, en Festival Tarraco Viva. Maison Carrée, en Nimes, Via Domitia. Obelisco romano de Constantinopla. Heliópolis, camino a Jerusalén. © Carlos Pascual")
 
 Esta mujer partió “del extremo Occidente” (probablemente la provincia _Gallaetia_ de la 
 **_Hispania_ romana**), atravesó la **Vía Domitia** que surcaba el sur de Francia, y 
@@ -39,7 +39,7 @@ desplazamientos, a **Galilea**, al Sinaí y a algunos lugares bíblicos que se e
 hoy en la actual Jordania, como el monte Nebo y las fuentes de Moisés; o Betania, el 
 lugar del bautismo de Cristo junto al río Jordán. 
 
-![Distintas imágenes de Galilea: monte de las Bienaventuranzas, Cesarea y mosaico de la sinagoga de Magdala. En el centro dama romana, de la necrópolis de El Fayum.](etheria-images/2023/01/camino-egeria-galilea.jpg "Distintas imágenes de Galilea: monte de las Bienaventuranzas, Cesarea y mosaico de la sinagoga de Magdala. En el centro: dama romana, de la necrópolis de El Fayum.© Carlos Pascual")
+![Distintas imágenes de Galilea: monte de las Bienaventuranzas, Cesarea y mosaico de la sinagoga de Magdala. En el centro dama romana, de la necrópolis de El Fayum.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-galilea.jpg "Distintas imágenes de Galilea: monte de las Bienaventuranzas, Cesarea y mosaico de la sinagoga de Magdala. En el centro: dama romana, de la necrópolis de El Fayum.© Carlos Pascual")
 
 ## El Camino de Egeria, nueva ruta turística
 
@@ -56,7 +56,7 @@ sostienen la ciudad, la inmensa **Ciudadela**, con el Templo de Hércules, una m
 omeya (restaurada por un equipo español), un pequeño museo, muchas ruinas dispersas y 
 las más dilatadas vistas a los cuatro puntos cardinales. 
 
-![Templo de Hércules y Odeón romano, en Amán.](etheria-images/2023/01/aman-camino-egeria.jpg "Templo de Hércules y Odeón romano, en Amán. © Carlos Pascual")
+![Templo de Hércules y Odeón romano, en Amán.](https://fotos.etheriamagazine.com/2023/01/aman-camino-egeria.jpg "Templo de Hércules y Odeón romano, en Amán. © Carlos Pascual")
 
 ### La Vía Trajana
 
@@ -69,7 +69,7 @@ y poner en valor. Las piedras y las épocas se superponen y confunden. Cimientos
 cabalgan sobre estratos moabitas, y los restos bizantinos se funden con los islámicos en 
 un puzle descomunal. 
 
-![Yacimiento arqueológico de Esbus, en el Camino de Egeria.](etheria-images/2023/01/camino-egeria-yacimiento-esbus.jpg "Yacimiento arqueológico de Esbus, en el Camino de Egeria. © Carlos Pascual")
+![Yacimiento arqueológico de Esbus, en el Camino de Egeria.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-yacimiento-esbus.jpg "Yacimiento arqueológico de Esbus, en el Camino de Egeria. © Carlos Pascual")
 
 ### Desvío a Madaba y Maqueronte
 
@@ -84,7 +84,7 @@ y bulliciosa, con tiendas de artesanía y restaurantes muy gratos. Cerca queda
 **Maqueronte**, la montaña-fortaleza de Herodes donde estuvo preso y fue decapitado Juan 
 el Bautista. 
 
-![Detalles de las iglesias de San Jorge y San Juan en Madaba.](etheria-images/2023/01/camino-egeria-iglesias-san-juan-jorge-850x275.jpg "Detalles de las iglesias de San Jorge y San Juan, en Madaba. © Carlos Pascual")
+![Detalles de las iglesias de San Jorge y San Juan en Madaba.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-iglesias-san-juan-jorge-850x275.jpg "Detalles de las iglesias de San Jorge y San Juan, en Madaba. © Carlos Pascual")
 
 ### El Monte Nebo y las Fuentes de Moisés
 
@@ -103,7 +103,7 @@ varios lugares, según la Biblia). Están en la vaguada, a tiro de piedra, y las
 autoridades jordanas **proyectan levantar allí un centro religioso y logístico** que 
 potencie la ruta. 
 
-![Iglesia del Monte Nebo, en el camino de Egeria](etheria-images/2023/01/camino-egeria-iglesia-del-Monte-Nebo-850x444.jpg "Iglesia del Monte Nebo. © Carlos Pascual")
+![Iglesia del Monte Nebo, en el camino de Egeria](https://fotos.etheriamagazine.com/2023/01/camino-egeria-iglesia-del-Monte-Nebo-850x444.jpg "Iglesia del Monte Nebo. © Carlos Pascual")
 
 ### Betania, el Jordán y las aguas del bautismo
 
@@ -121,7 +121,7 @@ una estructura techada que hace las veces de templo. Más cerca de la orilla, la
 ortodoxa de San Juan, de cúpula dorada, luce en su interior pinturas alusivas al lugar 
 –y vende frasquitos con agua del Jordán para bautizar o bendecir–. 
 
-![El Camino de Egeria discurre junto al lugar donde fue bautizado Jesucristo.](etheria-images/2023/01/camino-egeria-rio-jordan-627x1024.jpg "El Camino de Egeria discurre junto al lugar donde dicen que fue bautizado Jesucristo. © Carlos Pascual")
+![El Camino de Egeria discurre junto al lugar donde fue bautizado Jesucristo.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-rio-jordan-627x1024.jpg "El Camino de Egeria discurre junto al lugar donde dicen que fue bautizado Jesucristo. © Carlos Pascual")
 
 El río se estrecha entre cañaverales y arbustos, y es frontera: la orilla opuesta, a 
 escasos quince metros, es ya territorio israelí. Con soldados apostados en las gradas e 
@@ -130,7 +130,7 @@ profundo, a veces en grupo y con túnicas blancas, entonando cánticos y oracion
 mientras un sacerdote renueva el rito bautismal. **El Camino de Egeria** se deberá 
 prolongar, a partir de aquí, por tierras de Israel, hasta llegar a **Jerusalén**. 
 
-![Iglesia del Santo Sepulcro, continuación del Camino de Egeria.](etheria-images/2023/01/camino-egeria-iglesia-Santo-Sepulcro-714x1024.jpg "Iglesia del Santo Sepulcro, continuación del Camino de Egeria. © Carlos Pascual")
+![Iglesia del Santo Sepulcro, continuación del Camino de Egeria.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-iglesia-Santo-Sepulcro-714x1024.jpg "Iglesia del Santo Sepulcro, continuación del Camino de Egeria. © Carlos Pascual")
 
 De Jerusalén partió Egeria de regreso a casa, por las mismas vías “oficiales” por las 
 que había venido. Al llegar a Constantinopla, escribió a sus nobles amigas (“_dominae et 
@@ -139,7 +139,7 @@ lo permitían”, visitar aún otros lugares santos, como el _martyrium_ (basíl
 Juan en **Éfeso**. No sabemos si llevó a cabo su propósito. Ni siquiera sabemos si llegó 
 a regresar a su patria. 
 
-![Inauguración del Camino de Egeria, Carlos Pascual, embajador Miguel de Lucas y guía Oscar Kosebye](etheria-images/2023/01/Camino-Egeria-Carlos-Pascual-850x401.jpg "Inauguración del Camino de Egeria, Carlos Pascual, embajador Miguel de Lucas y guía Oscar Kosebye (de Izq. a Dcha.).")
+![Inauguración del Camino de Egeria, Carlos Pascual, embajador Miguel de Lucas y guía Oscar Kosebye](https://fotos.etheriamagazine.com/2023/01/Camino-Egeria-Carlos-Pascual-850x401.jpg "Inauguración del Camino de Egeria, Carlos Pascual, embajador Miguel de Lucas y guía Oscar Kosebye (de Izq. a Dcha.).")
 
 **Autor:** 
 

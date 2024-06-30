@@ -1,7 +1,7 @@
 ---
 title: "Ruta por la España de las grandes escritoras del siglo XX (Parte I)"
 date: 2020-06-15
-coverImage: etheria-images/2020/06/sinsombrero.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/sinsombrero.jpg
 categories: 
   - historias-en-femenino
   - mujeres-que-inspiran
@@ -15,7 +15,7 @@ con las que iniciamos la serie 'Ruta por la España de las grandes escritoras de
 XX'. Conoceremos su trayectoria y aquellos lugares –en este caso, Vélez Málaga, Madrid, 
 La Coruña y León– donde se pueden seguir sus huellas en una ruta literario-turística. 
 
-![cuadro de mujeres intelectuales](etheria-images/2020/06/sinsombrero-artistica-azul.jpg "Imagen reinterpretada de 'Las sinsombrero', grupo del que formaban parte Rosa Chacel y Mª Zambrano.")
+![cuadro de mujeres intelectuales](https://fotos.etheriamagazine.com/2020/06/sinsombrero-artistica-azul.jpg "Imagen reinterpretada de 'Las sinsombrero', grupo del que formaban parte Rosa Chacel y Mª Zambrano.")
 
 Fueron excepcionales escritoras y grandes mujeres. Sortearon zancadillas y codazos de 
 sus coetáneos en su transitar por el siglo XX, pero se pusieron el mundo por montera en 
@@ -32,7 +32,7 @@ Josefina Aldecoa (La Robla, León), Gloria Fuertes (Madrid), Carmen de Burgos
 María Moliner (Paniza, Zaragoza), Rosa Chacel (Valladolid) y Ana María Matute 
 (Barcelona). En esta primera entrega hablaremos de las cuatro primeras. 
 
-![Maria Zambrano](etheria-images/2020/06/maria-zambrano-claros-de-bosque.jpg "María Zambrano y libro 'Claros de bosque'.")
+![Maria Zambrano](https://fotos.etheriamagazine.com/2020/06/maria-zambrano-claros-de-bosque.jpg "María Zambrano y libro 'Claros de bosque'.")
 
 ## Vélez-Málaga y María Zambrano (1904-1991)
 
@@ -48,7 +48,7 @@ infantiles porque pronto el clan familiar se trasladó Madrid, luego a Segovia (
 conoció a Antonio Machado y a León Felipe) y, definitivamente, de nuevo a Madrid, donde 
 transcurrió su vida hasta que en 1939 salió para el exilio con su madre y su hermana. 
 
-![fundacion maria zambrano en vélez-Málaga](etheria-images/2020/06/Palacio-de-Beniel-sede-maria-zambrano.jpg "Palacio del Marqués de Beniel, sede de la Fundación María Zambrano.")
+![fundacion maria zambrano en vélez-Málaga](https://fotos.etheriamagazine.com/2020/06/Palacio-de-Beniel-sede-maria-zambrano.jpg "Palacio del Marqués de Beniel, sede de la Fundación María Zambrano.")
 
 La autora de '**Claros del bosque**' estuvo **más de 45 años fuera de ruta**, y aquella 
 lejanía, durante ese inmenso invierno, siempre estuvo aliviada por los gatos. Unos 
@@ -76,7 +76,7 @@ comienza en la **Puerta de Toledo**, continúa por **Lavapiés**, el barrio dond
 transcurrió parte de su vida, y termina en la Taberna de Antonio Sánchez, la taberna más 
 antigua de Madrid y donde la escritora pasó mucho tiempo componiendo poemas. 
 
-![gloria fuertes](etheria-images/2020/06/gloria-fuertes-escritora-siglo-xx.jpg "Retrato de Gloria Fuertes. © Archivo Ayto. Madrid")
+![gloria fuertes](https://fotos.etheriamagazine.com/2020/06/gloria-fuertes-escritora-siglo-xx.jpg "Retrato de Gloria Fuertes. © Archivo Ayto. Madrid")
 
 En el número **3 de la calle de la Espada**, en el castizo barrio de Lavapiés, se puede 
 ver una placa en la que fue su casa natal. Sus juegos infantiles se desarrollaron en la 
@@ -90,7 +90,7 @@ de la revista infantil “Maravillas”, donde publicaba sus textos. A partir de
 se fue dando a conocer mientras organizaba la primera Biblioteca infantil ambulante, 
 llevando libros a donde no había, y siempre cerca de los niños. 
 
-![taberna antonio sanchez de Madrid](etheria-images/2020/06/taberna-antonio-sanchez-madrid.jpg "Taberna Antonio Sánchez. Foto de El Tenedor")
+![taberna antonio sanchez de Madrid](https://fotos.etheriamagazine.com/2020/06/taberna-antonio-sanchez-madrid.jpg "Taberna Antonio Sánchez. Foto de El Tenedor")
 
 ### Feminista y pacifista
 
@@ -116,7 +116,7 @@ podemos acercar a la casa familiar, en el número **11 de la calle de las Tabern
 Coruña**, donde pasó su infancia y su juventud. Hoy es la Casa Museo de Emilia Pardo 
 Bazán y la sede de la Real Academia Galega. 
 
-![Palacio de meiras, la coruna y torre hercules en La Coruña](etheria-images/2020/06/pardo-bazan-porta-de-Meiras.jpg "(Izq.) Emilia Pardo-Bazán en la puerta de las Torres de Meiras. © Fundación EPB (Dcha.) Torre de Hércules en La Coruña.")
+![Palacio de meiras, la coruna y torre hercules en La Coruña](https://fotos.etheriamagazine.com/2020/06/pardo-bazan-porta-de-Meiras.jpg "(Izq.) Emilia Pardo-Bazán en la puerta de las Torres de Meiras. © Fundación EPB (Dcha.) Torre de Hércules en La Coruña.")
 
 Si avanzamos por el Paseo Marítimo en dirección a los Jardines de Méndez Núñez, nos 
 encontraremos con el **monumento** dedicado a la autora de '**Los pazos de Ulloa**', una 
@@ -126,7 +126,7 @@ Universidad Central”. Y nos encontraremos con otros escenarios de su ciudad na
 quedaron inmortalizados en su obra: **plaza de María Pita**, la **Colegiata de Santa 
 María del Campo**, el **Castillo de San Antón**, el **Jardín de San Carlos**… 
 
-![plaza de La Coruña](etheria-images/2020/06/coruna-plaza-maria-pita.jpg "Palacio del Ayuntamiento en la plaza de María Pita.")
+![plaza de La Coruña](https://fotos.etheriamagazine.com/2020/06/coruna-plaza-maria-pita.jpg "Palacio del Ayuntamiento en la plaza de María Pita.")
 
 ### Emilia Pardo-Bazán en otras localidades gallegas
 
@@ -150,7 +150,7 @@ localidad que vivía entre la tradición minera y la agrícola, se trasladó a *
 estudiar Bachillerato en los “años fríos y oscuros de la posguerra”. Ya para entonces 
 había descubierto que la literatura era su verdadera vocación. 
 
-![josefina aldecoa](etheria-images/2020/06/josefina-aldecoa-leon.jpg "Josefina Aldecoa (León) y dos de sus obras. © Retrato Efe")
+![josefina aldecoa](https://fotos.etheriamagazine.com/2020/06/josefina-aldecoa-leon.jpg "Josefina Aldecoa (León) y dos de sus obras. © Retrato Efe")
 
 Los años leoneses de Josefina Aldecoa quedan muy bien reflejados en su obra más 
 autobiográfica, la trilogía '**Historia de una maestra**', en la que está muy presente 
@@ -160,7 +160,7 @@ participaron del proyecto intelectual de la Institución Libre de Enseñanza. Es
 inquietud le condujo a **fundar en Madrid el Colegio Estilo**, al que dedicó buena parte 
 de su vida. 
 
-![iglesia de san isidoro en León](etheria-images/2020/06/leon-iglesia-san-isidoro.jpg "Interior de la Iglesia de San Isidoro, en León, una de las joyas poco conocidas de la ciudad.")
+![iglesia de san isidoro en León](https://fotos.etheriamagazine.com/2020/06/leon-iglesia-san-isidoro.jpg "Interior de la Iglesia de San Isidoro, en León, una de las joyas poco conocidas de la ciudad.")
 
 **También te puede interesar:** 
 

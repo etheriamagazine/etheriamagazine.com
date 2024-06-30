@@ -1,7 +1,7 @@
 ---
 title: "Por qué el desierto de Judea es la aventura con amigas que necesitas"
 date: 2022-05-09
-coverImage: etheria-images/2022/05/viaje-mujeres-desierto-israel.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/05/viaje-mujeres-desierto-israel.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -13,7 +13,7 @@ Oasis, comunas, leyendas heroicas, rollos bíblicos y hedonismo en el mar Muerto
 desierto de Judea reúne los ingredientes necesarios para hacer realidad la terapia 
 desestresante que merecemos. ¿Nos acompañas a este viaje a Israel? 
 
-![Montañas del desierto de Judea con formas curiosas.](etheria-images/2022/05/Desierto-Judea-israel.jpg "Algunas figuras erosionadas del desierto se asemejan a personajes bíblicos. © Kelu Robles")
+![Montañas del desierto de Judea con formas curiosas.](https://fotos.etheriamagazine.com/2022/05/Desierto-Judea-israel.jpg "Algunas figuras erosionadas del desierto se asemejan a personajes bíblicos. © Kelu Robles")
 
 Recorrer el **desierto de Judea** despliega ante nuestros ojos un horizonte a la altura 
 del poder místico de su pasado bíblico. Y lo mejor es que descubrir con amigas esta 
@@ -27,7 +27,7 @@ terrestre.
 > El concepto ‘aventura’ no está reñido con la facilidad de las cosas, por eso, ningún 
 > punto de este recorrido dista más de una hora en coche. 
 
-![Poblado esencio y cuevas de Qumrán en el desierto de Judea](etheria-images/2022/05/desierto-judea-qumran.jpg "Un poblado de esenios, una facción judía del siglo II a.C., estableció su asentamiento junto a las cuevas de Qumrán. © K.R.")
+![Poblado esencio y cuevas de Qumrán en el desierto de Judea](https://fotos.etheriamagazine.com/2022/05/desierto-judea-qumran.jpg "Un poblado de esenios, una facción judía del siglo II a.C., estableció su asentamiento junto a las cuevas de Qumrán. © K.R.")
 
 ## Qué ver y hacer en el desierto de Judea
 
@@ -55,7 +55,7 @@ de Israel y se produce con elementos naturales del mar Muerto. Sus cremas, exfol
 tratamientos invocarán sobre tu piel las propiedades beneficiosas naturales de este 
 rincón de Israel cuando hayas regresado a casa. 
 
-![Un anciano kibutz pasea por un jardín de Ein Gedi](etheria-images/2022/05/desierto-judea-kibutz.jpg "Uno de los motivos de mayor orgullo de los kibutz es su cuidado de las personas mayores. Kibutz de Ein Gedi. © K.R.")
+![Un anciano kibutz pasea por un jardín de Ein Gedi](https://fotos.etheriamagazine.com/2022/05/desierto-judea-kibutz.jpg "Uno de los motivos de mayor orgullo de los kibutz es su cuidado de las personas mayores. Kibutz de Ein Gedi. © K.R.")
 
 ### Vivir la experiencia Kibutznik en una comuna 
 
@@ -75,7 +75,7 @@ normas ni jerarquías. Las grandes decisiones se toman en su propio tribunal.
 > los habitantes del kibutz de Ein Gedi han logrado extraer agua mineral y distribuirla 
 > por todo el país. 
 
-![Vista del desierto de Judea desde lo alto de Masada](etheria-images/2022/05/judea-masada-israel.jpg "Vista del desierto de Judea desde lo alto de Masada. © K.R.")
+![Vista del desierto de Judea desde lo alto de Masada](https://fotos.etheriamagazine.com/2022/05/judea-masada-israel.jpg "Vista del desierto de Judea desde lo alto de Masada. © K.R.")
 
 ### Masada, el balcón más impresionante de Israel
 
@@ -92,7 +92,7 @@ o en un paseo a pie de más de una hora.
 > Solo hay que fijarse en la cara de quienes llegan hasta la cima de Masada para comprobar 
 > que algo muy especial se cuece ahí arriba. 
 
-![Ruinas de un antiguo palacio de Masada, en el desierto de Judea](etheria-images/2022/05/desierto-judea-masada-israel.jpg "El recorrido en Masada discurre por diferentes estancias del antiguo palacio. © K.R.")
+![Ruinas de un antiguo palacio de Masada, en el desierto de Judea](https://fotos.etheriamagazine.com/2022/05/desierto-judea-masada-israel.jpg "El recorrido en Masada discurre por diferentes estancias del antiguo palacio. © K.R.")
 
 ### El asedio de Masada, ¿realidad o leyenda?
 
@@ -110,7 +110,7 @@ posteriormente todos los detalles de esta afrenta.
 > colectivo para aportar más heroicidad y sensacionalismo a los hechos que narra, lo que 
 > le ha restado credibilidad en la actualidad. 
 
-![Mujer flotando en el Mar Muerto, en Israel.](etheria-images/2022/05/Israel-mar-muerto.jpg "La gran concentración de sal en el agua empuja los pies de los bañistas hacia el exterior. © Elena Ortega")
+![Mujer flotando en el Mar Muerto, en Israel.](https://fotos.etheriamagazine.com/2022/05/Israel-mar-muerto.jpg "La gran concentración de sal en el agua empuja los pies de los bañistas hacia el exterior. © Elena Ortega")
 
 ### Flotar sobre el mar Muerto 
 
@@ -134,7 +134,7 @@ supuesto, nuestro estrés. Pero por poco tiempo, estamos en el desierto de Judea
 significa que la atracción por su pasado bíblico y sus misterios naturales son una 
 invitación permanente a la aventura. 
 
-![Jeep en el desierto de Judea](etheria-images/2022/05/ruta-mar-muerto-israel.jpg "Una travesía en jeep es la mejor forma de conocer las entrañas del desierto de Judea. © K.R.")
+![Jeep en el desierto de Judea](https://fotos.etheriamagazine.com/2022/05/ruta-mar-muerto-israel.jpg "Una travesía en jeep es la mejor forma de conocer las entrañas del desierto de Judea. © K.R.")
 
 ### Buscar a la mujer de Lot en 4x4 por el desierto de Judea
 
@@ -143,7 +143,7 @@ sino a través de los crujidos que la sal cristalizada produce al cambiar de tem
 Una travesía en jeep por el desierto es la forma más divertida de escuchar el idioma de 
 su naturaleza. 
 
-![Aspecto de la sal rocosa vista desde cerca en el desierto de Judea](etheria-images/2022/05/desierto-judea-sal.jpg "Aspecto de la sal rocosa vista desde cerca. © K.R.")
+![Aspecto de la sal rocosa vista desde cerca en el desierto de Judea](https://fotos.etheriamagazine.com/2022/05/desierto-judea-sal.jpg "Aspecto de la sal rocosa vista desde cerca. © K.R.")
 
 > La sal ha sido y es una de las mayores riquezas del desierto de Judea. En el pasado, 
 > este producto llegó a ser moneda de cambio y de pago. En castellano, de hecho, la 
@@ -155,7 +155,7 @@ a Jesús caminando por el desierto durante 40 días y 40 noches, o a David cuand
 Saúl. Y tampoco al dios del Antiguo Testamento en el Monte Sodoma, que advirtió a 
 **Lot** y a su familia de que no miraran atrás o se convertirían en estatuas de sal. 
 
-![La erosión del viento en la roca forma figuras como esta esposa de Lot](etheria-images/2022/05/desierto-judea-mujer-lot.jpg "La erosión del viento en la roca forma figuras como esta esposa de Lot. © K.R.")
+![La erosión del viento en la roca forma figuras como esta esposa de Lot](https://fotos.etheriamagazine.com/2022/05/desierto-judea-mujer-lot.jpg "La erosión del viento en la roca forma figuras como esta esposa de Lot. © K.R.")
 
 Las formaciones salinas recrean pareidolias de la mujer de Lot por todo el desierto. 
 Convencernos de que estamos ante la auténtica escultura forma parte del juego, como en 

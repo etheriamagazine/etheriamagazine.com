@@ -1,7 +1,7 @@
 ---
 title: "Hotel Torre del Marqués, tu oasis de lujo en la comarca de Matarraña"
 date: 2021-12-28
-coverImage: etheria-images/2021/12/Torre-Marques-piscina.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/12/Torre-Marques-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 No hay por qué renunciar a disfrutar de la naturaleza con estilo, y el hotel Torre del Marqués, el único cinco estrellas del Bajo Aragón, así lo demuestra. Decoración cuidada, buena gastronomía y unas vistas insuperables son solo algunos de los alicientes para pasar unos días en este hotel de lujo.
 
-![Piscina del hotel Torre del Marqués.](etheria-images/2021/12/Torre-Marques-piscina.jpg "Piscina del hotel Torre del Marqués.")
+![Piscina del hotel Torre del Marqués.](https://fotos.etheriamagazine.com/2021/12/Torre-Marques-piscina.jpg "Piscina del hotel Torre del Marqués.")
 
 Hay lugares que parecen permanecer secretos, que guardan un aire de distancia con el 
 resto del mundo que se convierte en uno de sus principales atractivos. Uno de ellos es 
@@ -32,7 +32,7 @@ viajas de abril a octubre, encontrarás en su preciosa piscina uno de tus rincon
 preferidos: las vistas y la tranquilidad que se respira hacen de este espacio un lugar 
 único. 
 
-![Sala de estar del hotel Torre del Marqués.](etheria-images/2021/12/Torre-Marques-sala-estar.jpg "Sala de estar del hotel Torre del Marqués.")
+![Sala de estar del hotel Torre del Marqués.](https://fotos.etheriamagazine.com/2021/12/Torre-Marques-sala-estar.jpg "Sala de estar del hotel Torre del Marqués.")
 
 ## Apuesta por la sostenibilidad
 
@@ -47,7 +47,7 @@ arenisca de los Puertos de Beceite y los muros de tapial fueron realizados con a
 de tierra y paja de la finca. Además, se ha recurrido a artesanos y constructores 
 locales para favorecer el desarrollo de la comarca. 
 
-![Entrada a la recepción del hotel Torre del Marqués.](etheria-images/2021/12/Torre-marques-recepcion.jpg "Entrada a la recepción del hotel.")
+![Entrada a la recepción del hotel Torre del Marqués.](https://fotos.etheriamagazine.com/2021/12/Torre-marques-recepcion.jpg "Entrada a la recepción del hotel.")
 
 ## Gastronomía de kilómetro 0
 
@@ -60,7 +60,7 @@ ternasco, jamón de Teruel, fesol de Beceit (un tipo de alubia)… Con la presen
 verduras del propio huerto y delicias de productores locales como el pan, las trufas o 
 las setas. 
 
-![El restaurante del hotel tiene unas vistas espectaculares.](etheria-images/2021/12/Torre-marques-restaurante.jpg "El restaurante del hotel tiene unas vistas espectaculares.")
+![El restaurante del hotel tiene unas vistas espectaculares.](https://fotos.etheriamagazine.com/2021/12/Torre-marques-restaurante.jpg "El restaurante del hotel tiene unas vistas espectaculares.")
 
 Además, hay que prestar atención a su **bodega**. Además de tener referencias muy 
 interesantes, Torre del Marqués ha iniciado un proyecto de producción vinícola que ya ha 
@@ -74,7 +74,7 @@ neutros y materiales naturales que invitan a relajarse según entras en ellas. P
 elegir entre varias categorías: estándar, superior, junior suite (donde disfrutarás de 
 más espacio) y suite (con dos habitaciones comunicadas). 
 
-![Suite del hotel Torre del Marqués.](etheria-images/2021/12/Torre-Marques-suite.jpg "Suite del hotel Torre del Marqués.")
+![Suite del hotel Torre del Marqués.](https://fotos.etheriamagazine.com/2021/12/Torre-Marques-suite.jpg "Suite del hotel Torre del Marqués.")
 
 ## Un spa privado
 
@@ -84,7 +84,7 @@ lo reserves será solo para ti y tu pareja. Cuenta con una zona de aguas, sauna,
 turco y cabinas donde recibir masajes y tratamientos con los productos de Natural Bissé. 
 ¿Se puede pedir más? 
 
-![Zona de aguas del spa.](etheria-images/2021/12/Torre-Marques-Spa.jpg "Zona de aguas del spa.")
+![Zona de aguas del spa.](https://fotos.etheriamagazine.com/2021/12/Torre-Marques-Spa.jpg "Zona de aguas del spa.")
 
 [Hotel Torre del Marqués (5\*)](https://www.hoteltorredelmarques.com) Carretera 
 Fuentespalda a Ráfales, km 2,2. Monroyo. Teruel. Tel. +34 978 870 600. 

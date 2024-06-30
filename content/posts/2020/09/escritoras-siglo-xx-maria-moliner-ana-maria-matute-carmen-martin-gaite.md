@@ -1,7 +1,7 @@
 ---
 title: "Ruta por la España de las grandes escritoras del siglo XX (3ª parte)"
 date: 2020-09-14
-coverImage: etheria-images/2020/08/portada-escritoras-siglo-xx.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/08/portada-escritoras-siglo-xx.jpg
 categories: 
   - historias-en-femenino
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ Moliner, Ana María Matute y Carmen Martín Gaite se suman a nuestras rutas por 
 de las grandes autoras y nos llevan a Salamanca, Barcelona y Zaragoza, sus entornos más 
 íntimos. 
 
-![Ana María Matutes, Carmen Martín Gaite y María Moliner.](etheria-images/2020/08/portada-escritoras-siglo-xx.jpg "Ana María Matutes, Carmen Martín Gaite y María Moliner.")
+![Ana María Matutes, Carmen Martín Gaite y María Moliner.](https://fotos.etheriamagazine.com/2020/08/portada-escritoras-siglo-xx.jpg "Ana María Matutes, Carmen Martín Gaite y María Moliner.")
 
 Esta serie de artículos iniciada con la Ruta I que nos llevó a las ciudades que marcaron 
 a [María Zambrano, Gloria Fuertes, Josefina Aldecoa y Emilia Pardo 
@@ -27,7 +27,7 @@ finaliza ahora con la Ruta III dedicada a Ana María Matute, María Moliner y Ca
 Martín Gaite. A continuación encontraréis una pequeña biografía con los lazos que las 
 unen a las ciudades de Barcelona, Zaragoza y Salamanca. 
 
-![Ana María Matute.](etheria-images/2020/06/ana-maria-matute.jpg "Ana María Matute. © Wikimedia")
+![Ana María Matute.](https://fotos.etheriamagazine.com/2020/06/ana-maria-matute.jpg "Ana María Matute. © Wikimedia")
 
 ## Barcelona y Ana María Matute (1926-2014)
 
@@ -50,7 +50,7 @@ se despidió del mundo real, con 88 años.
 > años 50 escapándose a las tabernas del Barrio Chino, algo inaudito para una chica de 
 > familia burguesa como ella. 
 
-![Plaza de Cataluña, en Barcelona.](etheria-images/2020/06/barcelona-plaza-cataluna-900x600.jpg "Plaza de Cataluña, en Barcelona.")
+![Plaza de Cataluña, en Barcelona.](https://fotos.etheriamagazine.com/2020/06/barcelona-plaza-cataluna-900x600.jpg "Plaza de Cataluña, en Barcelona.")
 
 Y eso lo combinaba con sus visitas al **Hotel Ritz**, donde asistía a fiestas y puestas 
 de largo de sus amigas y donde también recibió el **Premio Nadal en el año 1959** por su 
@@ -76,7 +76,7 @@ Rey Gudú', uno de sus grandes éxitos literarios. Y a partir de entonces consig
 habitar hasta el día de su muerte un universo de palabras, los versos de un país de las 
 maravillas. 
 
-![Carmen Martín Gaite.](etheria-images/2020/06/carmen-martin-gaite.jpg "Carmen Martín Gaite. © Archivomartingaite.es")
+![Carmen Martín Gaite.](https://fotos.etheriamagazine.com/2020/06/carmen-martin-gaite.jpg "Carmen Martín Gaite. © Archivomartingaite.es")
 
 ## Salamanca y Carmen Martín Gaite (1925-2000)
 
@@ -95,14 +95,14 @@ que se entra y se sale muchas veces al día.
 > reloj, mientras que los hombres lo hacían en el sentido contrario”, recordaba. Era la 
 > forma de tropezarse con la mirada de la persona deseada. 
 
-![Plaza Mayor Viaje para mujeres en Salamaca](etheria-images/2018/05/2-Viajar-sola-a-Salamanca-1024x627.jpg "La Plaza Mayor es un buen lugar para tomar el pulso a Salamanca.")
+![Plaza Mayor Viaje para mujeres en Salamaca](https://fotos.etheriamagazine.com/2018/05/2-Viajar-sola-a-Salamanca-1024x627.jpg "La Plaza Mayor es un buen lugar para tomar el pulso a Salamanca.")
 
 Carmen Martín Gaite sentía fascinación por esos **conventos de la calle de las Úrsulas** 
 donde nunca se podía entrar… “y por las callecitas en torno a San Esteban, al **Patio de 
 Escuelas**, a la **Torre del Clavero**, por donde se deambulaba como fuera de tiempo, 
 sin que los ojos dieran abasto para ver ni la imaginación para evocar”. 
 
-![Cúpula de la catedral desde el patio de las Viejas Escuelas.](etheria-images/2018/05/6-Viajar-sola-a-Salamanca-1024x642.jpg "Cúpula de la catedral desde el patio de las Viejas Escuelas.")
+![Cúpula de la catedral desde el patio de las Viejas Escuelas.](https://fotos.etheriamagazine.com/2018/05/6-Viajar-sola-a-Salamanca-1024x642.jpg "Cúpula de la catedral desde el patio de las Viejas Escuelas.")
 
 Carmen Martín Gaite, ella lo decía, aprendió en Salamanca a andar por andar, a caminar 
 sin prisa, trenzando la mirada con el paso. “Salamanca despierta al ritmo de mis pasos y 
@@ -115,7 +115,7 @@ Francisco, el puente romano sobre el río Tormes, el Palacio de Anaya y las dos
 catedrales. Maravillas de Salamanca. “Aquí quisiera reposar para siempre”, dejó escrito 
 la autora de 'El cuarto de atrás'. 
 
-![María Moliner, la filóloga y bibliotecaria que escribió a mano un diccionario.](etheria-images/2020/08/maria-moliner.jpg "María Moliner, la filóloga y bibliotecaria que escribió a mano un diccionario.")
+![María Moliner, la filóloga y bibliotecaria que escribió a mano un diccionario.](https://fotos.etheriamagazine.com/2020/08/maria-moliner.jpg "María Moliner, la filóloga y bibliotecaria que escribió a mano un diccionario.")
 
 ## María Moliner y Zaragoza (1900-1981)
 
@@ -127,7 +127,7 @@ otros aragoneses ilustres, como Luis Buñuel o Ramón J. Sender. La casualidad q
 después de ser alumna en este centro de Zaragoza, volviera como maestra a las mismas 
 aulas donde ella había asimilado velozmente sus conocimientos. 
 
-![Catedral de Zaragoza.](etheria-images/2020/06/catedral-zaragoza-900x600.jpg "Catedral de Zaragoza. © Koalakoker")
+![Catedral de Zaragoza.](https://fotos.etheriamagazine.com/2020/06/catedral-zaragoza-900x600.jpg "Catedral de Zaragoza. © Koalakoker")
 
 María Moliner combinaba en Zaragoza sus estudios universitarios con su formación como 
 **filóloga y lexicógrafa en el Estudio de Filología de Aragón**, donde aprendió un 
@@ -138,7 +138,7 @@ por ella misma**, con sus sinónimos, frases hechas, pronunciaciones y familias 
 palabras. Hasta que ganó las oposiciones al Cuerpo Facultativo de Archiveros y fue 
 destinada al Archivo General de Simancas. 
 
-![Biblioteca de María Moliner (Zaragoza) y busto en Paniza, su lugar de nacimiento.](etheria-images/2020/06/Biblioteca-Maria-moliner-busto-900x585.jpg "Biblioteca de María Moliner (Zaragoza) y busto en Paniza, su lugar de nacimiento. © Wikimedia")
+![Biblioteca de María Moliner (Zaragoza) y busto en Paniza, su lugar de nacimiento.](https://fotos.etheriamagazine.com/2020/06/Biblioteca-Maria-moliner-busto-900x585.jpg "Biblioteca de María Moliner (Zaragoza) y busto en Paniza, su lugar de nacimiento. © Wikimedia")
 
 En la actualidad, una céntrica calle, **un instituto de educación secundaria y dos 
 bibliotecas** (la del Campus Universitario y la de la plaza de San Agustín) llevan en 

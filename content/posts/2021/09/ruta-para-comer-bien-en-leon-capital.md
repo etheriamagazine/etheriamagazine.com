@@ -1,7 +1,7 @@
 ---
 title: "De tapinas por León: el secreto mejor guardado de la capital del Santo Grial"
 date: 2021-09-09
-coverImage: etheria-images/2021/06/leon-hotel-camarote.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/leon-hotel-camarote.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -16,7 +16,7 @@ micromundo gastronómico. Te damos las claves para que no te pierdas sus mejores
 y sepas dónde comer en León mejor que bien. ¿Sabes que las tapas te las ponen 'gratis’ 
 con la consumición? 
 
-![Azotea del Camarote Hotel y su vista privilegiada de la Catedral](etheria-images/2021/06/leon-hotel-camarote.jpg "Azotea del Camarote Hotel y su vista privilegiada de la Catedral. © Camarote Hotel")
+![Azotea del Camarote Hotel y su vista privilegiada de la Catedral](https://fotos.etheriamagazine.com/2021/06/leon-hotel-camarote.jpg "Azotea del Camarote Hotel y su vista privilegiada de la Catedral. © Camarote Hotel")
 
 Actualizado en febrero de 2024 
 
@@ -38,7 +38,7 @@ bebida una tapa**. ¡Y qué tapa! Por algo León fue nombrada Capital Gastronóm
 > La lista de opciones donde comer bien en León es interminable, por eso los leoneses 
 > prefieren irse ‘de alterne’, de bar en bar, a quedarse en el mismo local. 
 
-![Plaza de San Martín en el Barrio Húmedo.](etheria-images/2021/06/leon-plaza-san-martin.jpg "Plaza de San Martín en el Barrio Húmedo. © Arturo Castro")
+![Plaza de San Martín en el Barrio Húmedo.](https://fotos.etheriamagazine.com/2021/06/leon-plaza-san-martin.jpg "Plaza de San Martín en el Barrio Húmedo. © Arturo Castro")
 
 ## Barrio Húmedo, una garantía a la hora de comer bien en León
 
@@ -54,7 +54,7 @@ sí dispone de morcilla en su abanico de entremeses incluidos con la bebida. Al 
 de la plaza, **El** **Calecho** (Plaza de San Martín, 9) juega su baza estrella con sus 
 **rulos rellenos**, otro de los lugares obligados donde comer en León. 
 
-![El gusto picante del chorizo leonés se debe al pimentón que se emplea en su elaboración.](etheria-images/2021/06/leon-chorizo-picante.jpg "El gusto picante del chorizo leonés se debe al pimentón que se emplea en su elaboración. © Entrepeñas")
+![El gusto picante del chorizo leonés se debe al pimentón que se emplea en su elaboración.](https://fotos.etheriamagazine.com/2021/06/leon-chorizo-picante.jpg "El gusto picante del chorizo leonés se debe al pimentón que se emplea en su elaboración. © Entrepeñas")
 
 ### Embutidos y mucho más...
 
@@ -75,7 +75,7 @@ chisporroteo del 'chorizo al infierno’ de **Oriente Medio** (Juan de Arfe, 8) 
 todas las atenciones en una de las tabernas más antiguas donde comer en León. También es 
 famoso por su caldo con **cecina de chivo**, y su interior esconde un bonito patio. 
 
-![Así es la tapa de Pizzería La Competencia en su local del barrio La Palomera.](etheria-images/2021/06/leon-pizzeria-la-competencia.jpg "Así es la tapa de Pizzería La Competencia en su local del barrio La Palomera. © Camino García")
+![Así es la tapa de Pizzería La Competencia en su local del barrio La Palomera.](https://fotos.etheriamagazine.com/2021/06/leon-pizzeria-la-competencia.jpg "Así es la tapa de Pizzería La Competencia en su local del barrio La Palomera. © Camino García")
 
 Elaboraciones modernas y tradicionales conviven en el Húmedo en una simbiosis perfecta 
 con un común denominador: el gusto por el trabajo bien hecho. Esto ha logrado que, más 
@@ -97,7 +97,7 @@ si sigue cerrado temporalmente en la calle de Juan de Arfe). Si a la pócima añ
 > Si los bereberes combaten el calor con bebidas calientes, ¿por qué no nos refrescamos 
 > este verano en León disfrutando de unas candentes ‘sopinas’ de ajo? 
 
-![Vermú del Cervantes 10 Gastrobar.](etheria-images/2021/06/leon-vermu-cervantes-10.jpg "Vermú del Cervantes 10 Gastrobar. © Kelu Robles")
+![Vermú del Cervantes 10 Gastrobar.](https://fotos.etheriamagazine.com/2021/06/leon-vermu-cervantes-10.jpg "Vermú del Cervantes 10 Gastrobar. © Kelu Robles")
 
 ## Barrio Romántico
 
@@ -134,7 +134,7 @@ leonesa. Y no, ¡no se trata de una bombona de butano! Su nombre hace referencia
 refresco de naranja que lo compone, y es una opción muy frecuente entre el público 
 infantil. 
 
-![El Barrio Húmedo se encuentra dentro del casco histórico de León.](etheria-images/2021/06/Calle-leon-683x1024.jpg "El Barrio Húmedo se encuentra dentro del casco histórico de León. © Kelu Robles")
+![El Barrio Húmedo se encuentra dentro del casco histórico de León.](https://fotos.etheriamagazine.com/2021/06/Calle-leon-683x1024.jpg "El Barrio Húmedo se encuentra dentro del casco histórico de León. © Kelu Robles")
 
 ## De la limonada al León
 
@@ -152,7 +152,7 @@ los sabores contundentes de sus tapas, aunque el resto de variedades de uva menc
 albarín o garnacha de su Denominación de Origen tampoco se quedan atrás. Por eso, los 
 leoneses maridan sus pinchos con vinos leoneses, y dicen eso de “¡Quiero un León!”. 
 
-![Ración de patatas de Patatas Blas servida para llevar a casa.](etheria-images/2021/06/leon-patatas-blas.jpg "Ración de patatas de Patatas Blas servida para llevar a casa. © Kelu Robles")
+![Ración de patatas de Patatas Blas servida para llevar a casa.](https://fotos.etheriamagazine.com/2021/06/leon-patatas-blas.jpg "Ración de patatas de Patatas Blas servida para llevar a casa. © Kelu Robles")
 
 ## Amor patatero
 
@@ -172,7 +172,7 @@ tasca con aires ochenteros sin grandes pretensiones en lo estético, hacen lo pr
 sus patatas, y cumplen con lo pretendido: servir una buena tapa de patatas cortadas a la 
 panadera, al igual que en los otros locales citados. 
 
-![Una deliciosa tapa de cecina.](etheria-images/2021/06/leon-cecina.jpg "No te puedes ir de León sin disfrutar de una deliciosa tapa de cecina. © Turismo de León")
+![Una deliciosa tapa de cecina.](https://fotos.etheriamagazine.com/2021/06/leon-cecina.jpg "No te puedes ir de León sin disfrutar de una deliciosa tapa de cecina. © Turismo de León")
 
 ## Tapeo variado en Burgo Nuevo
 
@@ -192,7 +192,7 @@ ciudadanos el disfrute de la buena vida. Jóvenes, ancianos, en familia, solos o
 amigas. Todos tienen algo en común: el gusto por el compadreo, por mantener vivo su 
 patrimonio gastronómico y por poner en práctica eso que llaman _prestosidad_ leonesa. 
 
-![Panorámica del Palacio Casa Botines de Gaudí desde la muralla romana, en el Parque del Cid.](etheria-images/2021/06/leon-casa-botines.jpg "Panorámica del Palacio Casa Botines de Gaudí desde la muralla romana, en el Parque del Cid. © Kelu Robles")
+![Panorámica del Palacio Casa Botines de Gaudí desde la muralla romana, en el Parque del Cid.](https://fotos.etheriamagazine.com/2021/06/leon-casa-botines.jpg "Panorámica del Palacio Casa Botines de Gaudí desde la muralla romana, en el Parque del Cid. © Kelu Robles")
 
 León es la cuna del parlamentarismo europeo, pero también es la ciudad de España con 
 **más bares por habitante**, según un estudio realizado por la Confederación Empresarial 

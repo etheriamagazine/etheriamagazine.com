@@ -1,7 +1,7 @@
 ---
 title: "10 viajes a Francia para disfrutar de la buena vida"
 date: 2020-09-02
-coverImage: etheria-images/2018/07/Riquewihr-viñedos-e1557596568371.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos-e1557596568371.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
@@ -16,7 +16,7 @@ escapadas sin fin al país vecino. Lo tiene todo: historia, arte, gastronomía, 
 pueblos deliciosos llenos de encanto. Aquí te proponemos sólo 10 de los infinitos 
 itinerarios posibles para viajar a Francia. ¿Te vienes? 
 
-![Faro de Ploumanach con rocas delante](etheria-images/2020/09/Bretana-Ploumanach-Faro-900x600.jpg "Faro de Ploumanach. @ Kris Ubach")
+![Faro de Ploumanach con rocas delante](https://fotos.etheriamagazine.com/2020/09/Bretana-Ploumanach-Faro-900x600.jpg "Faro de Ploumanach. @ Kris Ubach")
 
 Actualizado en abril de 2024 
 
@@ -38,7 +38,7 @@ plato más típico, la bullabesa!
 Sigue leyendo el artículo de Etheria Magazine: [Marsella, puerta francesa del 
 Mediterráneo](https://etheriamagazine.com/2020/07/10/viajar-sola-amigas-marsella-que-ver-hacer/). 
 
-![Panorámica de Marsella.](etheria-images/2020/06/Marsella-viaje-mujeres-etheria-900x571.jpg "Panorámica de Marsella. © Manena Munar")
+![Panorámica de Marsella.](https://fotos.etheriamagazine.com/2020/06/Marsella-viaje-mujeres-etheria-900x571.jpg "Panorámica de Marsella. © Manena Munar")
 
 ## 2\. Sudeste francés: Perpiñán y Collioure
 
@@ -54,7 +54,7 @@ Sigue leyendo el artículo de Etheria Magazine: [Enamórate del sudeste francés
 Perpiñán y 
 Collioure](https://etheriamagazine.com/2020/03/19/viajes-mujeres-que-ver-en-perpinan-y-collioure/). 
 
-![Place de la République, en Perpiñán.](etheria-images/2020/03/viaje-etheria-place-republique-perpinan-900x578.jpg "Place de la République, en Perpiñán. © P. Grifol")
+![Place de la République, en Perpiñán.](https://fotos.etheriamagazine.com/2020/03/viaje-etheria-place-republique-perpinan-900x578.jpg "Place de la République, en Perpiñán. © P. Grifol")
 
 ## 3\. Aix-en-Provence
 
@@ -68,7 +68,7 @@ con amigas.
 Sigue leyendo el artículo de Etheria Magazine: [Aix-en-Provence, el paraíso de 
 Cezanne](https://etheriamagazine.com/2020/01/03/viaje-amigas-ruta-cezanne-en-aix-en-provence-francia/). 
 
-![Pabellón Vendôme en Aix-en-Provence.](etheria-images/2019/12/etheria-magazine-pabellon-vendome-900x508.jpg "Pabellón Vendôme en Aix-en-Provence. © Yolanda Cardo")
+![Pabellón Vendôme en Aix-en-Provence.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-pabellon-vendome-900x508.jpg "Pabellón Vendôme en Aix-en-Provence. © Yolanda Cardo")
 
 ## 4\. Nantes
 
@@ -83,7 +83,7 @@ Sigue leyendo el artículo de Etheria Magazine: [Nantes, la ciudad extraordinari
 soñó Julio 
 Verne](https://etheriamagazine.com/2019/08/29/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa/). 
 
-![Elefante articulado de Nantes.](etheria-images/2019/08/viaje-nantes-elefante.jpg "Elefante articulado de Nantes. © Franck Tomps")
+![Elefante articulado de Nantes.](https://fotos.etheriamagazine.com/2019/08/viaje-nantes-elefante.jpg "Elefante articulado de Nantes. © Franck Tomps")
 
 ## 5\. París
 
@@ -98,7 +98,7 @@ que eches un ojo a las tiendas de Le Marais.
 Sigue leyendo el artículo de Etheria Magazine: [Planes en París si viajas 
 sola](https://etheriamagazine.com/2019/05/15/viajar-sola-que-ver-paris/). 
 
-![Librería Artazart, en el canal Saint-Martin.](etheria-images/2019/04/viaje-paris-libreria-artazar.jpg "Librería Artazart, en el canal Saint-Martin. © Jacques Lebar/ Paris Tourist Office")
+![Librería Artazart, en el canal Saint-Martin.](https://fotos.etheriamagazine.com/2019/04/viaje-paris-libreria-artazar.jpg "Librería Artazart, en el canal Saint-Martin. © Jacques Lebar/ Paris Tourist Office")
 
 ## 6\. El Valle del Loira
 
@@ -116,7 +116,7 @@ imbatibles](https://etheriamagazine.com/2022/04/15/dormir-en-castillos-valle-del
 Sigue leyendo el artículo de Etheria Magazine: [Ruta en coche por el Valle del 
 Loira](https://etheriamagazine.com/2019/03/14/que-ver-ruta-en-coche-valle-del-loira/) 
 
-![Castillo de Amboise en la ruta de los Castillos del Loira.](etheria-images/2019/03/chateau-amboise-1.jpg "Castillo de Amboise en la ruta de los Castillos del Loira. © SG")
+![Castillo de Amboise en la ruta de los Castillos del Loira.](https://fotos.etheriamagazine.com/2019/03/chateau-amboise-1.jpg "Castillo de Amboise en la ruta de los Castillos del Loira. © SG")
 
 ## 7\. La Rochelle y la isla de Ré
 
@@ -133,7 +133,7 @@ Sigue leyendo el artículo de Etheria Magazine: [La Rochelle y la isla de Ré, u
 escapada de 
 diez](https://etheriamagazine.com/2018/09/18/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re/). 
 
-![Puerto Viejo de La Rochelle.](etheria-images/2018/09/Puerto-Viejo-La-Rochelle-1024x682.jpg "Puerto Viejo de La Rochelle. © SG")
+![Puerto Viejo de La Rochelle.](https://fotos.etheriamagazine.com/2018/09/Puerto-Viejo-La-Rochelle-1024x682.jpg "Puerto Viejo de La Rochelle. © SG")
 
 ## 8\. Futuroscope
 
@@ -148,7 +148,7 @@ te contamos todas las novedades del parque para esta temporada.
 Puedes comprar tu [entrada a Futuroscope en 
 Civitatis](https://www.civitatis.com/es/poitiers/entrada-futuroscope/?aid=10211). 
 
-![Aerobar, un globo donde podrás tomar algo a 35 metros de altura.](etheria-images/2022/03/aerobar-futuroscope.jpg "Aerobar, un globo donde podrás tomar algo a 35 metros de altura.")
+![Aerobar, un globo donde podrás tomar algo a 35 metros de altura.](https://fotos.etheriamagazine.com/2022/03/aerobar-futuroscope.jpg "Aerobar, un globo donde podrás tomar algo a 35 metros de altura.")
 
 ## 9\. Senderismo por la Bretaña Francesa
 
@@ -162,7 +162,7 @@ Sigue leyendo el artículo de Etheria Magazine: [Sentier des Douaniers, el sende
 emblemático de la Bretaña 
 Francesa](https://etheriamagazine.com/2018/08/08/senderismo-en-sentier-des-douaniers-bretana-francesa/). 
 
-![ruta Sentier de Douaniers en la Bretaña francesa](etheria-images/2018/07/Crozon-1024x683.jpg "Descanso en Crozon, en la ruta Sentier de Douaniers en la Bretaña francesa. © Kris Ubach")
+![ruta Sentier de Douaniers en la Bretaña francesa](https://fotos.etheriamagazine.com/2018/07/Crozon-1024x683.jpg "Descanso en Crozon, en la ruta Sentier de Douaniers en la Bretaña francesa. © Kris Ubach")
 
 ## 10\. Alsacia
 
@@ -176,4 +176,4 @@ preciosa ciudad alemana de Friburgo y los paisajes siempre frondosos de la Selva
 Sigue leyendo el artículo de Etheria Magazine: [Ruta en familia por Alsacia y Selva 
 Negra](https://etheriamagazine.com/2018/08/02/ruta-en-familia-por-alsacia-y-selva-negra/). 
 
-![Viñedos de Riquewihr en Alsacia.](etheria-images/2018/07/Riquewihr-viñedos-1024x672.jpg "Viñedos de Riquewihr en Alsacia. © S.G.")
+![Viñedos de Riquewihr en Alsacia.](https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos-1024x672.jpg "Viñedos de Riquewihr en Alsacia. © S.G.")

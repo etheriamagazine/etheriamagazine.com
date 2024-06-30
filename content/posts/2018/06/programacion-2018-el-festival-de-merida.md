@@ -1,7 +1,7 @@
 ---
 title: "El Festival de Mérida calienta motores"
 date: 2018-06-04
-coverImage: etheria-images/2018/06/programacion-cabecera-64.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/06/programacion-cabecera-64.jpg
 categories: 
   - organiza-tu-viaje
   - festivales
@@ -9,7 +9,7 @@ authors:
   - Pilar Ortega
 ---
 
-![Cartel del Festival de Mérida](etheria-images/2018/06/programacion-cabecera-64.jpg "El Festival de Teatro Clásico de Mérida es el festival de teatro clásico más antiguo de los que se celebran en España.")
+![Cartel del Festival de Mérida](https://fotos.etheriamagazine.com/2018/06/programacion-cabecera-64.jpg "El Festival de Teatro Clásico de Mérida es el festival de teatro clásico más antiguo de los que se celebran en España.")
 
 **El Festival de Mérida, el más veterano en teatro clásico de España, acogerá nueve 
 grandes montajes, ocho de teatro y uno de danza.** 
@@ -26,7 +26,7 @@ danza, sobre las tablas del espectacular Teatro Romano de la ciudad emeritense, 
 se sumarán también los escenarios romanos pacenses de Medellín y Regina, y Cáparra, en 
 la provincia de Cáceres. 
 
-![Festival Teatro de Mérida 2018: Ben-Hur](etheria-images/2018/06/Ben-Hur.jpg "Festival Internacional de Teatro Clásico de Mérida 2018: Ben-Hur")
+![Festival Teatro de Mérida 2018: Ben-Hur](https://fotos.etheriamagazine.com/2018/06/Ben-Hur.jpg "Festival Internacional de Teatro Clásico de Mérida 2018: Ben-Hur")
 
 El Ballet Nacional de España dará el pistoletazo de salida al certamen, con **Electra**, 
 del 29 de junio al 1 de julio, para dar paso después, del 4 al 8 de julio, al 
@@ -46,7 +46,7 @@ julio, con **Esquilo. Nacimiento y muerte de la tragedia**. La obra de Sófocles
 **Filoctetes**, con dirección de Antonio Simón, marcará el ecuador del festival con Pepe 
 Viyuela, Pedro Casablanc, Félix Gómez y Alberto Jiménez sobre las tablas. 
 
-![Festival Internacional de Teatro Clásico de Mérida 2018: Esquilo, Nacimiento y Muerte de la Tragedia](etheria-images/2018/06/Esquilo.jpg "Festival Internacional de Teatro Clásico de Mérida es el más antiguo de España")
+![Festival Internacional de Teatro Clásico de Mérida 2018: Esquilo, Nacimiento y Muerte de la Tragedia](https://fotos.etheriamagazine.com/2018/06/Esquilo.jpg "Festival Internacional de Teatro Clásico de Mérida es el más antiguo de España")
 
 Agosto nos traerá una tragedia, **Fedra**, en versión del multifacético Paco Bezerra, 
 que revisa el mito junto al director Luis Luque y actores como Lolita, Tina Sáinz, Eneko 
@@ -68,7 +68,7 @@ exposiciones, cuentaclásicos para niños, lecciones magistrales, talleres forma
 etc., a lo que hay que sumar este año por primera vez el Encuentro Internacional sobre 
 Periodismo Móvil y Cultura. 
 
-![Festival Internacional de Teatro Clásico de Mérida 2018: Hipólito](etheria-images/2018/06/Hipólito.jpg "Programación del Festival Internacional de Teatro Clásico de Mérida 2018")
+![Festival Internacional de Teatro Clásico de Mérida 2018: Hipólito](https://fotos.etheriamagazine.com/2018/06/Hipólito.jpg "Programación del Festival Internacional de Teatro Clásico de Mérida 2018")
 
 ## Extensión en Tarragona
 
@@ -86,7 +86,7 @@ Frías, Pablo Romo, Raquel Bravo y Eva Marciel, entre otros. Todos persiguen con
 al exigente público que acude, no importa el calor ni la lejanía, a disfrutar de grandes 
 representaciones en el magnífico escenario romano de Mérida. 
 
-![Actores del Festival Internacional de Teatro Clásico de Mérida 2018](etheria-images/2018/06/Mosaico-Actores-Nuevos-585x1024.jpg "Actores que participan en el Festival Internacional de Teatro Clásico de Mérida 2018")
+![Actores del Festival Internacional de Teatro Clásico de Mérida 2018](https://fotos.etheriamagazine.com/2018/06/Mosaico-Actores-Nuevos-585x1024.jpg "Actores que participan en el Festival Internacional de Teatro Clásico de Mérida 2018")
 
 Las entradas se pueden adquirir por Internet, a través de la web del festival, o en el 
 portal entradas.com. Además, es posible hacer la compra por teléfono, marcando el número 

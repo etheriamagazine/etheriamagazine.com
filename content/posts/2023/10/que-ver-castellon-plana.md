@@ -1,7 +1,7 @@
 ---
 title: "Cómo organizar un día en Castellón para no perderte sus tesoros"
 date: 2023-10-02
-coverImage: etheria-images/2023/10/farola-modernista-castellon.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/10/farola-modernista-castellon.jpg
 categories: 
   - viajes-con-amigas
   - planes-cultura-ocio
@@ -16,7 +16,7 @@ históricos. Eso nos ha ocurrido en varias ocasiones con el destino que nos ocup
 este motivo, hemos seleccionado los lugares que podrías ver en un día en Castellón de la 
 Plana para que la recorras como merece. 
 
-![Farola modernista de Castellón de la Plana.](etheria-images/2023/10/farola-modernista-castellon.jpg "Farola modernista de Castellón de la Plana.")
+![Farola modernista de Castellón de la Plana.](https://fotos.etheriamagazine.com/2023/10/farola-modernista-castellon.jpg "Farola modernista de Castellón de la Plana.")
 
 Estamos de acuerdo en que es difícil elegir qué ver en un día en Castellón porque no 
 todas las viajeras coincidimos en gustos o tenemos el mismo ritmo en los viajes. Si te 
@@ -46,7 +46,7 @@ Castellón** (Carrer de Prim, s/n), donde además de exposiciones también dispo
 espacios para conciertos y proyecciones audiovisuales. Cuenta también con cafetería y 
 biblioteca. 
 
-![Museo de Bellas Artes de Castellón de la Plana.](etheria-images/2023/10/museo-bellas-artes-castellon.jpg "Museo de Bellas Artes de Castellón de la Plana.")
+![Museo de Bellas Artes de Castellón de la Plana.](https://fotos.etheriamagazine.com/2023/10/museo-bellas-artes-castellon.jpg "Museo de Bellas Artes de Castellón de la Plana.")
 
 ## 11:30 Concatedral de Santa María
 
@@ -58,7 +58,7 @@ reconstruyendo según el gusto de los tiempos. No pases de largo y entra para ve
 lienzos de Ribalta y Oliet, una virgen Inmaculada del siglo XVIII y algunas piezas 
 interesantes de orfebrería. 
 
-![Concatedral de Castellón.](etheria-images/2023/10/con-catedral-castellon.jpg "Concatedral de Castellón de la Plana.")
+![Concatedral de Castellón.](https://fotos.etheriamagazine.com/2023/10/con-catedral-castellon.jpg "Concatedral de Castellón de la Plana.")
 
 ## 12:00 Torre de El Fadrí
 
@@ -76,7 +76,7 @@ entrada es gratuita.
 tiempo y es una de las sedes del **Museu de la Ciutat de Castelló** por lo que podrás 
 ver algunas exposiciones. 
 
-![Torre campanario El Fadrí.](etheria-images/2023/10/Torre-campanario-fadri.jpg "Torre campanario El Fadrí.")
+![Torre campanario El Fadrí.](https://fotos.etheriamagazine.com/2023/10/Torre-campanario-fadri.jpg "Torre campanario El Fadrí.")
 
 ## 12:45 Ayuntamiento
 
@@ -97,7 +97,7 @@ a adquirir recuerdos gastronómicos, aquí encontrarás quesos, bollería, encur
 salazones y un rico ali-oli casero en tarrinas (en el puesto de Aceitunas Manolo). En el 
 bar del mercado puedes tomar el aperitivo. 
 
-![Fachada del Mercado Central de Castellón de la Plana.](etheria-images/2023/10/mercado-central-castellon.jpg "© Mercado Central de Castellón de la Plana.")
+![Fachada del Mercado Central de Castellón de la Plana.](https://fotos.etheriamagazine.com/2023/10/mercado-central-castellon.jpg "© Mercado Central de Castellón de la Plana.")
 
 ## 14:00 Comida en Le Bistró
 
@@ -124,7 +124,7 @@ Abre de martes a viernes abre de 16 a 19 horas y los fines de semana y festivos 
 virtual](https://mucc.castello.es/seus/refugi-antiaeri/). Si llueve mucho no estará 
 abierto. 
 
-![Refugio antiaéreo de Castellón de la Plana.](etheria-images/2023/10/refugio-guerra-civil-castellon.jpg "Refugio antiaéreo de Castellón de la Plana.")
+![Refugio antiaéreo de Castellón de la Plana.](https://fotos.etheriamagazine.com/2023/10/refugio-guerra-civil-castellon.jpg "Refugio antiaéreo de Castellón de la Plana.")
 
 ## 17:00 Parque Ribalta
 
@@ -134,7 +134,7 @@ principio se creía que había nacido en Castellón). Este espacio de aires rom�
 mayor pulmón de la ciudad, cuenta con una extensa variedad de especies vegetales, tipo 
 jardín botánico, además de estanque con patos y cisnes. 
 
-![Parque Ribalta, en Castellón de la Plana.](etheria-images/2023/10/parque-ribalta-castellon.jpg "Parque Ribalta, en Castellón de la Plana.")
+![Parque Ribalta, en Castellón de la Plana.](https://fotos.etheriamagazine.com/2023/10/parque-ribalta-castellon.jpg "Parque Ribalta, en Castellón de la Plana.")
 
 ## 18.00 El Grao y el Planetario
 
@@ -146,7 +146,7 @@ desapercibida al comienzo de El Grao. Por las tardes está abierto hasta las 19.
 una parada muy agradecida. La entrada es gratuita, lo que sí hay que pagar son los 
 talleres. Infórmate de su agenda en los Tel. 964 282 968 /964 282 584 
 
-![Las playas de Castelló son accesibles desde la ciudad.](etheria-images/2023/10/playas-castello.jpg "Las playas de Castelló son accesibles desde la ciudad.")
+![Las playas de Castelló son accesibles desde la ciudad.](https://fotos.etheriamagazine.com/2023/10/playas-castello.jpg "Las playas de Castelló son accesibles desde la ciudad.")
 
 ## 20.00 Playas de Castellón
 

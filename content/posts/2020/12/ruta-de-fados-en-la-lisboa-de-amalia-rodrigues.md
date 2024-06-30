@@ -1,7 +1,7 @@
 ---
 title: "Ruta de fados en Lisboa de la mano de Amália Rodrigues"
 date: 2020-12-30
-coverImage: etheria-images/2020/12/lisboa-Amalia-Rodrigues-1965.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/lisboa-Amalia-Rodrigues-1965.jpg
 categories: 
   - mujeres-que-inspiran
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ que conquistó con su voz a millones de personas de los cinco continentes. Desde
 Magazine le rendimos homenaje siguiendo sus pasos y el eco de su voz en los locales que 
 componen esta particular Ruta de fados en Lisboa. 
 
-![ruta fados lisboa Amalia Rodrigues](etheria-images/2020/12/lisboa-Amalia-Rodrigues-1965.jpg "Amália Rodrigues fotografiada por Augusto Cabrita, 1965.")
+![ruta fados lisboa Amalia Rodrigues](https://fotos.etheriamagazine.com/2020/12/lisboa-Amalia-Rodrigues-1965.jpg "Amália Rodrigues fotografiada por Augusto Cabrita, 1965.")
 
 En 1999 hizo 100 años del nacimiento en Lisboa de Amália Rodrigues (1920-1999), el gran 
 icono de la canción popular portuguesa, la gran embajadora del fado. Esta gran mujer 
@@ -25,7 +25,7 @@ exposiciones, conciertos, cine, teatro, baile… y fado. Sin embargo, su recuerd
 presente que cualquier momento es bueno para hacer la **Ruta de Amália Rodrigues en 
 Lisboa**. 
 
-![museo del fado ruta fados en lisboa](etheria-images/2020/12/lisboa-museo-fado-interior.jpg "Interior del Museo del Fado, en Lisboa. © José Frade/Museu do Fado")
+![museo del fado ruta fados en lisboa](https://fotos.etheriamagazine.com/2020/12/lisboa-museo-fado-interior.jpg "Interior del Museo del Fado, en Lisboa. © José Frade/Museu do Fado")
 
 ## La Lisboa de Amália Rodrigues
 
@@ -45,7 +45,7 @@ fadista universal. Podemos seguir sus pasos y rendirle homenaje en su centenario
 antes hagamos algo de historia sobre esta expresión artística tan rodeada de misterio y 
 “saudade”. 
 
-![Amália Rodrigues en el barrio de Alfama](etheria-images/2020/12/Amalia-rodrigues-Alfama-1971.jpg "Amália Rodrigues en el barrio de Alfama, 1971. © Eduardo Gageiro")
+![Amália Rodrigues en el barrio de Alfama](https://fotos.etheriamagazine.com/2020/12/Amalia-rodrigues-Alfama-1971.jpg "Amália Rodrigues en el barrio de Alfama, 1971. © Eduardo Gageiro")
 
 ## La esencia misteriosa del fado
 
@@ -69,7 +69,7 @@ puesta en el discurrir del Tajo. Seguramente por eso, por la humildad y la fuerz
 origen, entró en 2011, en la lista del **Patrimonio Cultural Inmaterial de la Humanidad 
 de la Unesco**. 
 
-![Guitarra de la  casa museo amalia rodrigues](etheria-images/2020/12/casa-museo-amalia-rodrigues-guitarra.jpg "Guitarra en la © Casa museo Amália Rodrigues.")
+![Guitarra de la  casa museo amalia rodrigues](https://fotos.etheriamagazine.com/2020/12/casa-museo-amalia-rodrigues-guitarra.jpg "Guitarra en la © Casa museo Amália Rodrigues.")
 
 ## Curiosidades y variantes del fado
 
@@ -87,7 +87,7 @@ de fados, que ha inspirado muchos versos y de la que se ha escrito hasta una nov
 es que el fado siempre se escuchaba en la calle, hasta que en los años 30 se refugió en 
 diversos locales del Barrio Alto. 
 
-![Luminosos en el Olympia, 1992.](etheria-images/2020/12/amalia-rodrigues-A-Olympia-1992.jpg "Luminosos en el Olympia, 1992. © Fund. Amália Rodrigues")
+![Luminosos en el Olympia, 1992.](https://fotos.etheriamagazine.com/2020/12/amalia-rodrigues-A-Olympia-1992.jpg "Luminosos en el Olympia, 1992. © Fund. Amália Rodrigues")
 
 La historia del fado es larga pero hubo que llegar hasta comienzos del siglo XX para ver 
 su imparable evolución. Llegaron los primeros registros discográficos y, a partir de los 
@@ -106,7 +106,7 @@ vendedora ambulante. Pero eso duró poco, su prodigiosa voz la llevó en poco ti
 cabeza de cartel de los grandes locales de espectáculos de la ciudad. **Debutó 
 profesionalmente con 19 años** (en 1939) en el Retiro da Severa. Y ahí empezó todo. 
 
-![Casa Museo Amalia Rodrigues](etheria-images/2020/12/lisboa-casa-museo-amalia-rodrigues.jpg "© Casa Museo Amália Rodrigues.")
+![Casa Museo Amalia Rodrigues](https://fotos.etheriamagazine.com/2020/12/lisboa-casa-museo-amalia-rodrigues.jpg "© Casa Museo Amália Rodrigues.")
 
 ### Fundación y Casa museo de Amália Rodrigues
 
@@ -124,7 +124,7 @@ barrio de Pena**, en la calle Martim Vaz, muy cerca de Mouraria, donde vivían l
 abuelos. Aquella humilde casita todavía sigue en pie y está considerada **la cuna del 
 fado**. 
 
-![mural vhils Amalia Rodrigues](etheria-images/2020/12/lisboa-amalia-rodrigues-vhils.jpg "Mural con la efigie de Amália Rodrigues, hecho de adoquines por el artista urbano Vhils.")
+![mural vhils Amalia Rodrigues](https://fotos.etheriamagazine.com/2020/12/lisboa-amalia-rodrigues-vhils.jpg "Mural con la efigie de Amália Rodrigues, hecho de adoquines por el artista urbano Vhils.")
 
 ### Amália según el artista urbano Vhils
 
@@ -135,7 +135,7 @@ ayuda de los _calçeteiros_ o pavimentadores de Lisboa. El mural tiene la partic
 de que, cuando llueve, **la imagen de Amália «llora»**, como tantas veces hizo la 
 artista sobre el escenario. 
 
-![museo do fado en ruta fados lisboa](etheria-images/2020/12/lisboa-museo-do-fado.jpg "Museo do Fado, parada imprescindible en la Lisboa de Amália Rodrigues. © José Frade/Museu do Fado")
+![museo do fado en ruta fados lisboa](https://fotos.etheriamagazine.com/2020/12/lisboa-museo-do-fado.jpg "Museo do Fado, parada imprescindible en la Lisboa de Amália Rodrigues. © José Frade/Museu do Fado")
 
 ### Museu do Fado 
 
@@ -147,7 +147,7 @@ mundo y fundamental para el patrimonio cultural de Portugal. El museo dispone de
 sección con contenido multimedia que permite consultar las biografías de los 
 protagonistas de la historia del fado, entre ellos la de Amália Rodrigues. 
 
-![Parreirinha de Alfama fados en lisboa](etheria-images/2020/12/lisboa-Parreirinha-de-Alfama.jpg "© Parreirinha de Alfama, comida tradicional portuguesa y fados en Lisboa.")
+![Parreirinha de Alfama fados en lisboa](https://fotos.etheriamagazine.com/2020/12/lisboa-Parreirinha-de-Alfama.jpg "© Parreirinha de Alfama, comida tradicional portuguesa y fados en Lisboa.")
 
 ### Parreirinha de Alfama
 
@@ -169,7 +169,7 @@ los aplausos dirigidos a Amália Rodrigues, Filipe Pinto, António Rocha, Trist�
 o Fernando Maurício. Es una de las casas más visitadas por los turistas que llegan a 
 Lisboa de todos los rincones del mundo. 
 
-![Café Luso, en Lisboa](etheria-images/2020/12/lisboa-fados-Cafe-Luso.jpg "© Café Luso, en Lisboa, es pura historia del fado.")
+![Café Luso, en Lisboa](https://fotos.etheriamagazine.com/2020/12/lisboa-fados-Cafe-Luso.jpg "© Café Luso, en Lisboa, es pura historia del fado.")
 
 ### Café Luso
 
@@ -189,7 +189,7 @@ tal su fama que hasta Kirk Douglas y la actriz brasileña Sónia Braga se acerca
 local para ver a las grandes fadistas que actuaban allí: Amália, Maria da Fé o Mariza, 
 por ejemplo. 
 
-![adega machado ruta de fados en lisboa](etheria-images/2020/12/fados-lisboa-Adega-Machado.jpg "© Adega Machado, uno de los bastiones del fado en el Barrio Alto de Lisboa.")
+![adega machado ruta de fados en lisboa](https://fotos.etheriamagazine.com/2020/12/fados-lisboa-Adega-Machado.jpg "© Adega Machado, uno de los bastiones del fado en el Barrio Alto de Lisboa.")
 
 ### Panteón Nacional
 

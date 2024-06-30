@@ -1,7 +1,7 @@
 ---
 title: "La Dehesa Experiences, un alojamiento único en la sierra cordobesa"
 date: 2022-06-10
-coverImage: etheria-images/2022/06/dehesa-experience-glamping.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/dehesa-experience-glamping.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-ecoturismo
@@ -13,7 +13,7 @@ authors:
 
 Los hoteles son muchas veces destinos de viaje en sí mismos, y si son alojamientos diferentes, de esos difíciles de clasificar en una categoría estándar, más todavía. La Dehesa Experiences es un glamping y, a la vez, un lugar muy exclusivo con un trato tan cercano que te hace sentir como en casa. No te pierdas este rincón en Sierra Morena que nos ha conquistado.
 
-![cabaña de madera en Córdoba](etheria-images/2022/06/dehesa-experience-glamping.jpg "Cabaña tipo glamping en La Dehesa Experience.")
+![cabaña de madera en Córdoba](https://fotos.etheriamagazine.com/2022/06/dehesa-experience-glamping.jpg "Cabaña tipo glamping en La Dehesa Experience.")
 
 Cuando acudes a un alojamiento que es a la vez especial y difícil de definir es, 
 generalmente, porque sus impulsores han dejado mucho esfuerzo en hacer algo diferente. Y 
@@ -32,7 +32,7 @@ Hotelera 2022. Pero cuando te alojas en él, la sencillez y cercanía en el trat
 equipo y su voluntad de hacer de tu estancia un recuerdo perfecto son la mejor garantía, 
 por encima de los premios que seguro van a continuar recogiendo en el futuro. 
 
-![Cabañas de lujo en La Dehesa Experiences de Córdoba](etheria-images/2022/06/dehesa-experiences-finca.jpg "Finca de La Dehesa Experience.")
+![Cabañas de lujo en La Dehesa Experiences de Córdoba](https://fotos.etheriamagazine.com/2022/06/dehesa-experiences-finca.jpg "Finca de La Dehesa Experience.")
 
 ## Las cabañas de lujo de La Dehesa Experiences
 
@@ -46,7 +46,7 @@ terraza, el lugar que se hará tu preferido, por las vistas y por la piscina pri
 tiene cada uno. Todas están perfectamente climatizadas y disponen de wifi gratuito y 
 televisión por cable. 
 
-![Cama king size en la Dehesa Experiences](etheria-images/2022/06/dehesa-experiences-suite.jpg "Interior de la Suite en La Dehesa Experiences.")
+![Cama king size en la Dehesa Experiences](https://fotos.etheriamagazine.com/2022/06/dehesa-experiences-suite.jpg "Interior de la Suite en La Dehesa Experiences.")
 
 Las cabañas, tipo glamping, tienen todas el mismo tamaño, aunque la configuración 
 interior las divide en cuatro Junior Suite y dos Suite. Las **Junior Suite** están 
@@ -63,7 +63,7 @@ te lo servirán en la habitación cada mañana a la hora que elijas entre las 8 
 horas: zumo natural, café o té, pan local, embutidos, tomate, bollería de proveedores 
 locales… No puede haber mejor forma de empezar el día. 
 
-![Desayuno completo en  La Dehesa Experiences de Córdoba](etheria-images/2022/06/dehesa-experiences-desayuno.jpg "Completo desayuno en la cabaña de La Dehesa Experiences.")
+![Desayuno completo en  La Dehesa Experiences de Córdoba](https://fotos.etheriamagazine.com/2022/06/dehesa-experiences-desayuno.jpg "Completo desayuno en la cabaña de La Dehesa Experiences.")
 
 Para el almuerzo y las cenas ponen a tu disposición una completa carta de la que eliges 
 lo que te apetece y te lo sirven también en la habitación. La gran mayoría de platos se 
@@ -91,7 +91,7 @@ tu disposición distintas conservas y snacks de calidad.
 ?No te pierdas: [Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de 
 Andalucía](https://etheriamagazine.com/2022/01/11/ruta-del-vino-montilla-moriles-20-aniversario/). 
 
-![Copa de vino y aperitivo en una terraza de la cabaña de lujo](etheria-images/2022/06/la-dehesa-experiences-vino.jpg "Aperitivo en el glamping de La Dehesa Experiences.")
+![Copa de vino y aperitivo en una terraza de la cabaña de lujo](https://fotos.etheriamagazine.com/2022/06/la-dehesa-experiences-vino.jpg "Aperitivo en el glamping de La Dehesa Experiences.")
 
 ## Experiencias en La Dehesa
 
@@ -106,7 +106,7 @@ También es muy recomendable realizar una **cata de vinos** de la mano del sumil
 Rodrigo Pardo, que propone dos catas a cual más interesante: _Descubre Montilla-Moriles_ 
 y _Andalucía inmensa_. 
 
-![Cata de vinos en La Dehesa Experiencies](etheria-images/2022/06/reserva-experience-cata-vinos.jpg "Cata de vinos en la recepción de La Dehesa Experiences.")
+![Cata de vinos en La Dehesa Experiencies](https://fotos.etheriamagazine.com/2022/06/reserva-experience-cata-vinos.jpg "Cata de vinos en la recepción de La Dehesa Experiences.")
 
 ### Reserva Starlight
 
@@ -124,7 +124,7 @@ y, la gran estrella, el lince ibérico. Para no perder detalle y poder hacer las
 fotos, organizan **safaris fotográficos** a unos _hides_, unos escondites con cristal 
 para ver a los animales sin molestarlos. 
 
-![Avistamiento de aves desde el glamping de lujo en Córdoba](etheria-images/2022/06/dehesa-experiences-hide.jpg "Hide en Sierra Morena para avistar aves.")
+![Avistamiento de aves desde el glamping de lujo en Córdoba](https://fotos.etheriamagazine.com/2022/06/dehesa-experiences-hide.jpg "Hide en Sierra Morena para avistar aves.")
 
 Siguiendo su idea de respeto por el entorno y las tradiciones, en La Dehesa Experiences 
 organizan **actividades ligadas a determinadas estaciones del año**. Algunas son la 
@@ -135,7 +135,7 @@ montar en globo. Todas están perfectamente organizadas para La Dehesa Experienc
 empresas locales de turismo activo y te aseguramos que serán una experiencia 
 inolvidable. 
 
-[![imagen para ver un vídeo de La Dehesa Experiences.](etheria-images/2022/06/video-dehesa-glamping.jpg)](https://www.youtube.com/watch?v=8xXie0lNjok)
+[![imagen para ver un vídeo de La Dehesa Experiences.](https://fotos.etheriamagazine.com/2022/06/video-dehesa-glamping.jpg)](https://www.youtube.com/watch?v=8xXie0lNjok)
 
 ? **La Dehesa Experiences forma parte del Club de selección de alojamientos con encanto 
 Rusticae.** 

@@ -1,7 +1,7 @@
 ---
 title: "El renovado Parador de León, un hotel de lujo para espíritus ilustrados"
 date: 2020-12-22
-coverImage: etheria-images/2020/12/Parador-leon-fachada.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/Parador-leon-fachada.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -11,7 +11,7 @@ authors:
 
 Alojarse en un Parador es una apuesta segura que sabes que te va a aportar algo más que el hecho de dormir en un hotel. En algunos como el recién renovado Parador de León supone alojarse entre los antiguos muros del Hostal de San Marcos, y dormir rodeado de cientos de obras de arte, una experiencia que te hará sentir parte de la Historia.
 
-![Hoteles con historia](etheria-images/2020/12/Parador-leon-escalera.jpg "Escalera del Parador de León.")
+![Hoteles con historia](https://fotos.etheriamagazine.com/2020/12/Parador-leon-escalera.jpg "Escalera del Parador de León.")
 
 Hay Paradores que ocupan espacios históricos y ese es uno de sus mayores alicientes, el 
 poder dormir literalmente como una auténtica reina, emulando épocas pasadas entre muros 
@@ -22,7 +22,7 @@ lugar imprescindible en una visita turística te alojes o no en él. Y este 2020
 completamente renovado y con vocación de retomar su función de punto de encuentro de la 
 vida social leonesa. 
 
-![Alojarse en Paradores](etheria-images/2020/12/Parador-leon-fachada.jpg "Fachada del Parador de León.")
+![Alojarse en Paradores](https://fotos.etheriamagazine.com/2020/12/Parador-leon-fachada.jpg "Fachada del Parador de León.")
 
 Solamente asomarse a la plaza que precede a su **magnífica fachada plateresca** es una 
 visita obligada en León. Podríamos dedicar párrafos a sus elementos arquitectónicos, a 
@@ -39,7 +39,7 @@ en los que ha vivido una reforma integral, y aparece como una perfecta mezcla en
 parte histórica del edificio y los nuevos elementos de arquitectura moderna que aportan 
 actualidad y calidez. 
 
-![Paradores con historia](etheria-images/2020/12/Parador-Leon-claustro.jpg "Claustro del Parador de León.")
+![Paradores con historia](https://fotos.etheriamagazine.com/2020/12/Parador-Leon-claustro.jpg "Claustro del Parador de León.")
 
 Eso sí, en cuanto entras al Parador, te transmite esa sobriedad que, basada en 
 materiales nobles y naturales como la madera, contribuye a mantener ese espíritu de 
@@ -63,13 +63,13 @@ todo tuviera sentido y darles el valor que se merecen, se ha recurrido a experto
 arte para crear un formato expositivo con sentido y que haga que los huéspedes se 
 sientan como en un auténtico museo. 
 
-![paradores historicos](etheria-images/2020/12/Parador-Leon-descendimiento-683x1024.jpg "Relieve de 'El Descendimiento' de Juan de Juni.")
+![paradores historicos](https://fotos.etheriamagazine.com/2020/12/Parador-Leon-descendimiento-683x1024.jpg "Relieve de 'El Descendimiento' de Juan de Juni.")
 
 Entre las obras del Renacimiento, destaca el **relieve del Descendimiento** y el altar 
 de El Nacimiento de Cristo, además de la sillería del coro de la iglesia y el artesonado 
 de la sala capitular, del siglo XVI. 
 
-![arte moderno en Paradores](etheria-images/2020/12/Parador-Leon-atrio.jpg "Atrio del hotel con el techo de Lucio Muñoz.")
+![arte moderno en Paradores](https://fotos.etheriamagazine.com/2020/12/Parador-Leon-atrio.jpg "Atrio del hotel con el techo de Lucio Muñoz.")
 
 Si ponemos la atención en la obra contemporánea veremos como gira en torno a tres 
 elementos: el techo de **Lucio Muñoz** (que se ha recuperado de uno de los antiguos 
@@ -84,7 +84,7 @@ No nos resistimos a poner al edificio del Hostal de San Marcos en contexto, que 
 mejor forma de dar valor a su origen y a la transformación que ha vivido para llegar a 
 ser un hotel de lujo. 
 
-![Elementos historicos de Paradores](etheria-images/2020/12/Parador-leon-artesonado.jpg "Sala con techo artesonado.")
+![Elementos historicos de Paradores](https://fotos.etheriamagazine.com/2020/12/Parador-leon-artesonado.jpg "Sala con techo artesonado.")
 
 Aunque su origen como hospital de San Marcos se remonta a la época medieval, su base se 
 debe al empeño de **Fernando el Católico,** maestre de la Orden de Santiago, que quiso 
@@ -107,7 +107,7 @@ magníficas telas, alfombras y suelos de madera. Éstas se dividen en Dobles Est
 Superiores, Junior Suite y dos Suites. Además, dispone de dos habitaciones adaptadas 
 para clientes con necesidades especiales. 
 
-![Paradores con historia](etheria-images/2020/12/Parador-Leon-habitacion.jpg "Habitación del Parador Hostal de San Marcos.")
+![Paradores con historia](https://fotos.etheriamagazine.com/2020/12/Parador-Leon-habitacion.jpg "Habitación del Parador Hostal de San Marcos.")
 
 En estas habitaciones se siente de manera muy especial ese lujo sin estridencias que 
 caracteriza a todo el hotel. Y se puede notar cómo se han recuperado más de **600 piezas 
@@ -123,7 +123,7 @@ caso del **restaurante Rey Don Sancho**, ubicado en una preciosa sala plateresca
 frente está **Agapito Cristóbal**, una auténtica institución en la cocina leonesa con 
 veinticinco años de experiencia en este restaurante. 
 
-![Gastronomía de Paradores](etheria-images/2020/12/Parador-leon-restaurante.jpg "Restaurante Rey Don Sancho.")
+![Gastronomía de Paradores](https://fotos.etheriamagazine.com/2020/12/Parador-leon-restaurante.jpg "Restaurante Rey Don Sancho.")
 
 Como no podía ser de otra manera, la carta se basa en los productos y platos 
 tradicionales de León, pero dándoles un toque creativo que los actualiza y los hace 
@@ -133,7 +133,7 @@ Entre las especialidades que seguro que no te resistes a probar están la morcil
 leonesa, la cecina, la sopa de cocido maragato o las patatas a la importancia con 
 congrio. Y, por supuesto, el cordero lechal asado, uno de los platos estrella. 
 
-![Eventos en Paradores](etheria-images/2020/12/parador-leon-gastronomia-tapas.jpg "Gastronomía del Parador de León.")
+![Eventos en Paradores](https://fotos.etheriamagazine.com/2020/12/parador-leon-gastronomia-tapas.jpg "Gastronomía del Parador de León.")
 
 Una cocina que además está en continua revisión, con platos estacionales y sugerencias 
 diarias fuera de carta que hacen que cada visita que hagas a este restaurante sea 
@@ -148,7 +148,7 @@ una actividad más de tu escapada a León. Quizá te decidas por el **Claustro**
 altísimo techo de Lucio Muñoz que se eleva en un atrio moderno sobre todos los pisos del 
 Parador. 
 
-![hoteles con historia](etheria-images/2020/12/Parador-leon-lectura.jpg "Rincón perfecto para la lectura en el Parador de León.")
+![hoteles con historia](https://fotos.etheriamagazine.com/2020/12/Parador-leon-lectura.jpg "Rincón perfecto para la lectura en el Parador de León.")
 
 [Parador de León](https://www.parador.es/es/paradores/parador-de-leon) Pza. de San 
 Marcos, 7. León. Tel. +34 987237300 Precio de habitación doble para dos personas desde 

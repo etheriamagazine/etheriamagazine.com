@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tierra del Agua, otro santuario más en Asturias"
 date: 2020-07-30
-coverImage: etheria-images/2020/07/hotel-tierra-agua-habitacion.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-habitacion.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 Dormir en un hotel con estilo e inmerso en plena naturaleza asturiana es un capricho que aquellas viajeras que buscan exclusividad tienen al alcance de la mano. El diseño y el buen servicio del hotel Tierra del Agua te esperan en el Parque Natural de Redes. Y este 2020 han añadido algunas sorpresas que te contamos...
 
-![tierra del agua, hotel Asturias](etheria-images/2020/07/hotel-tierra-agua-habitacion-900x600.jpg "Habitación de Tierra del Agua (Asturias).")
+![tierra del agua, hotel Asturias](https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-habitacion-900x600.jpg "Habitación de Tierra del Agua (Asturias).")
 
 El hotel Tierra del Agua lleva ya varios años demostrando su buen hacer en un espacio 
 privilegiado de Asturias, en pleno **Parque Natural de Redes**, un rincón declarado 
@@ -21,7 +21,7 @@ Para que te sirva de referencia, está ubicado en la **aldea de Caleao** (en el 
 oriental de la región, a una hora de Oviedo). Caleao lo componen un grupo de casitas de 
 piedra, teja y madera, y está habitado por unos 80 vecinos. 
 
-![tierra del agua, hotel asturias](etheria-images/2020/07/hotel-tierra-agua-terraza-683x1024.jpg "Terraza del hotel Tierra del Agua.")
+![tierra del agua, hotel asturias](https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-terraza-683x1024.jpg "Terraza del hotel Tierra del Agua.")
 
 Las instalaciones de este hotel se distribuyen entre **dos casonas asturianas** cuya 
 decoración interior recuerda a las cabañas alpinas suizas o austriacas. La calidez de la 
@@ -29,7 +29,7 @@ madera, la luz natural, la integración del paisaje dentro de las estancias a tr
 grandes ventanas y los pequeños detalles, situados en cada rincón, hacen que te enamores 
 inmediatamente de este alojamiento. 
 
-![Suite del hotel Tierra del Agua, hotel asturias](etheria-images/2020/07/hotel-tierra-agua-suite-900x600.jpg "Suite del hotel Tierra del Agua.")
+![Suite del hotel Tierra del Agua, hotel asturias](https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-suite-900x600.jpg "Suite del hotel Tierra del Agua.")
 
 ## 14 habitaciones y Suites Homes
 
@@ -41,7 +41,7 @@ o grupos de amigos que desean gozar de cierta independencia o buscan una experie
 similar a la de un apartamento pero con las prestaciones de un hotel (limpieza diaria, 
 desayuno, actividades, etc.). 
 
-![Piscina del hotel Tierra del Agua](etheria-images/2020/07/hotel-tierra-agua-infinity-pool-683x1024.jpg "Piscina del hotel Tierra del Agua.")
+![Piscina del hotel Tierra del Agua](https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-infinity-pool-683x1024.jpg "Piscina del hotel Tierra del Agua.")
 
 ## Servicios del hotel
 
@@ -52,7 +52,7 @@ saludable** para darle un respiro a tu cuerpo, y rutas en el bosque y la montañ
 sentirte en contacto con la madre naturaleza. Para lograr todo lo anterior, sólo es 
 necesario dejarse aconsejar y apuntarse a sus propuestas. 
 
-![Yoga en el hotel Tierra del Agua](etheria-images/2020/07/hotel-tierra-agua-yoga.jpg "Yoga en el hotel Tierra del Agua.")
+![Yoga en el hotel Tierra del Agua](https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-yoga.jpg "Yoga en el hotel Tierra del Agua.")
 
 ### Relax y meditación
 
@@ -64,7 +64,7 @@ montaña. No podrás resistir la tentación de hacerte alguna fotografía para t
 sociales. Y para rizar el rizo también ofrecen disfrutar de una bañera nórdica y una 
 cena privada bajo las estrellas. Irresistible, ¿verdad? 
 
-![tierra del agua, hotel asturias](etheria-images/2020/07/hotel-tierra-agua-spa.jpg "Spa del hotel Tierra del Agua.")
+![tierra del agua, hotel asturias](https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-spa.jpg "Spa del hotel Tierra del Agua.")
 
 ### Comer bien y saludable
 
@@ -76,7 +76,7 @@ con productos de proximidad. Algunas referencias para abrir boca son sus buñuel
 queso casín con frutos del bosque, las alubias al modo clásico (o con verdinas y 
 langostinos) y las tartas y dulces caseros. 
 
-![Restaurante gOtta](etheria-images/2020/07/hotel-tierra-agua-gotta.jpg "Restaurante gOtta.")
+![Restaurante gOtta](https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-gotta.jpg "Restaurante gOtta.")
 
 El entorno del restaurante también es una maravilla. Está situado en la planta alta del 
 edificio y **desde su gran ventanal se ve todo el valle**. También se puede salir a la 
@@ -85,7 +85,7 @@ privacidad. Si sois un grupo podéis reservar **el Llagar**, un espacio con sabo
 asturiano que es ideal para reuniones. Los fines de semana no faltan conciertos, 
 parrilladas o la hora del vermú (los domingos). 
 
-![Restaurante gOtta, hotel tierra del agua](etheria-images/2020/07/hotel-tierra-agua-restaurante-gotta.jpg "Restaurante gOtta.")
+![Restaurante gOtta, hotel tierra del agua](https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-restaurante-gotta.jpg "Restaurante gOtta.")
 
 ### Rutas ‘A tu aire’
 
@@ -99,7 +99,7 @@ rutas de montaña o senderismo que incluyen servicio de cestas de pícnic. Lo me
 idea es que no tenemos que cargar con peso sino que ellos las sitúan en lugares 
 “secretos”. La cesta estará preparada con platos refrescantes del restaurante gOtta. 
 
-![cestas picnic, tierra del agua, hotel asturias](etheria-images/2020/07/hotel-tierra-agua-picnic-683x1024.jpg "Cesta de pícnic, una propuesta del hotel.")
+![cestas picnic, tierra del agua, hotel asturias](https://fotos.etheriamagazine.com/2020/07/hotel-tierra-agua-picnic-683x1024.jpg "Cesta de pícnic, una propuesta del hotel.")
 
 Conviene llevar zapatos deportivos porque la distancia entre las mesas es de unos 5 
 kilómetros. En caso de lluvia, no te preocupes porque el hotel proporciona calzado 

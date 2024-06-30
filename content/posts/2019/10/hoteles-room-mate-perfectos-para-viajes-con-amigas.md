@@ -1,7 +1,7 @@
 ---
 title: "Hoteles Room Mate: diseño, ubicación, precio y... nombre de mujer"
 date: 2019-10-28
-coverImage: etheria-images/2019/10/Room-Mate-Anna-Barcelona-Executive-room.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/10/Room-Mate-Anna-Barcelona-Executive-room.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -15,19 +15,19 @@ Aitana, Grace y Valentina? Todos estos nombres corresponden a hoteles de la cade
 Mate Hotels. Te hablamos sobre su personalidad, diseño e idoneidad para un viaje con 
 amigas. 
 
-\[caption id="attachment\_13338" align="aligncenter" width="900"\]![hotel room mate aitana, hotel amsterdam viaje con amigas](etheria-images/2019/10/Room-Mate-Aitana-Amsterdam-2-900x600.jpg "Hotel Room Mate Aitana, en Ámsterdam.") Hotel Room Mate Aitana, en Ámsterdam.\[/caption\]
+\[caption id="attachment\_13338" align="aligncenter" width="900"\]![hotel room mate aitana, hotel amsterdam viaje con amigas](https://fotos.etheriamagazine.com/2019/10/Room-Mate-Aitana-Amsterdam-2-900x600.jpg "Hotel Room Mate Aitana, en Ámsterdam.") Hotel Room Mate Aitana, en Ámsterdam.\[/caption\]
 
 No son hoteles para mujeres pero sí llevan nombre femenino. La **cadena hotelera Room Mate Hotels**, liderada por el carismático empresario **Kike Sarasola**, apostó por denominar a sus hoteles con nombres de personas. Unos masculinos y otros femeninos, pero todos con una personalidad definida a la que se vincula también el diseño del establecimiento.
 
 Esta cadena hotelera, que surgió de una charla entre tres amigos que echaban en falta hoteles céntricos a precios comedidos, lanzó su primer establecimiento, Mario, en pleno centro de Madrid (junto al Teatro Real) en el año 2005. A partir de ahí, su recorrido ha sido –y sigue siendo– imparable. Entre todos los hoteles que tiene repartidos por el mundo, doce llevan nombre de mujer. Hemos elegido algunos para contaros la personalidad que hay detrás de los mismos, cómo son y por qué consideramos que son alojamientos ideales para visitar las ciudades donde se ubican.
 
-\[caption id="attachment\_13340" align="aligncenter" width="900"\]![Hotel Room Mate alicia, hotel viaje con amigas madrid](etheria-images/2019/10/Room-Mate-Alicia-Madrid-2-900x600.jpg "Hotel Room Mate Alicia, en Madrid.") Hotel Room Mate Alicia, en Madrid.\[/caption\]
+\[caption id="attachment\_13340" align="aligncenter" width="900"\]![Hotel Room Mate alicia, hotel viaje con amigas madrid](https://fotos.etheriamagazine.com/2019/10/Room-Mate-Alicia-Madrid-2-900x600.jpg "Hotel Room Mate Alicia, en Madrid.") Hotel Room Mate Alicia, en Madrid.\[/caption\]
 
 ## 1\. En Madrid con Alicia, Laura y Alba.
 
 En la capital madrileña podemos pasar unos días con Alicia, Laura o Alba. Cada una tiene unos rasgos definidos que se corresponden con su personalidad y ubicación. El **Room Mate Alicia** (Prado, 2), en la imagen superior, está situado en un antiguo edificio industrial de inicios del siglo XX, junto a la madrileña plaza de Santa Ana. El interiorista, Pascua Ortega, ha diseñado sus 34 habitaciones y ha creado espacios bonitos y funcionales. También situado en el barrio de las Letras, se encuentra el **Room Mate Alba**, en plena calle de Huertas. El **diseño de Alba** lo ha realizado el reconocido interiorista Lorenzo Castillo, que ha trasladado el ambiente literario del barrio al interior del hotel, sin renunciar a un mobiliario funcional y con estilo. Tiene gimnasio y un bonito patio central.
 
-\[caption id="attachment\_13339" align="aligncenter" width="900"\]![Hotel Room Mate alicia, hotel viaje con amigas madrid](etheria-images/2019/10/Room-Mate-Alicia-Madrid-1-900x601.jpg "Hotel Room Mate Alicia, en Madrid.") Hotel Room Mate Alicia, en Madrid.\[/caption\]
+\[caption id="attachment\_13339" align="aligncenter" width="900"\]![Hotel Room Mate alicia, hotel viaje con amigas madrid](https://fotos.etheriamagazine.com/2019/10/Room-Mate-Alicia-Madrid-1-900x601.jpg "Hotel Room Mate Alicia, en Madrid.") Hotel Room Mate Alicia, en Madrid.\[/caption\]
 
 La última opción en Madrid es el **Room Mate Laura**, en el Barrio de los Austrias, a un paso de la Plaza Mayor, la puerta del Sol y Gran Vía.
 
@@ -39,7 +39,7 @@ La localización de ambos hoteles es perfecta tanto para conocer la oferta cultu
 
 De los tres hoteles de Room Mate en la Ciudad Condal emana la chispa creativa que caracteriza a esta ciudad. Es difícil elegir entre Emma, Anna y Carla porque las tres nos ofrecen unos entornos excepcionales para practicar turismo o asistir a reuniones de trabajo.
 
-\[caption id="attachment\_13342" align="aligncenter" width="900"\]![hotel room mate anna, hotel barcelona viaje con amigas](etheria-images/2019/10/Room-Mate-Anna-Barcelona-Executive-room-900x600.jpg "Hotel Room Mate Anna, en Barcelona.") Hotel Room Mate Anna, en Barcelona.\[/caption\]
+\[caption id="attachment\_13342" align="aligncenter" width="900"\]![hotel room mate anna, hotel barcelona viaje con amigas](https://fotos.etheriamagazine.com/2019/10/Room-Mate-Anna-Barcelona-Executive-room-900x600.jpg "Hotel Room Mate Anna, en Barcelona.") Hotel Room Mate Anna, en Barcelona.\[/caption\]
 
 Si optas por el **Room Mate Anna** (Passeig de Gràcia), te sorprenderá su interiorismo donde se mezcla el mar, el estilo tropical y el Mediterráneo, con el toque inconfundible de Lorenzo Castillo. Este hotel es ideal para una [escapada con amigas a Barcelona](https://etheriamagazine.com/2019/03/12/guia-que-ver-hacer-dormir-barcelona-con-amigas/)  porque te carga las pilas nada más entrar.
 
@@ -47,7 +47,7 @@ Y si quieres conocer a **Carla**, no tienes más que dirigirte al centro de Barc
 
 **Emma** por su parte espera al viajero en el barrio modernista del Eixample.  El diseño futurista de este hotel te enamorará.
 
-\[caption id="attachment\_13346" align="aligncenter" width="900"\]![hotel viaje amigas a malaga, room mate malaga valeria](etheria-images/2019/10/Room-Mate-Valeria-Malaga-1-900x601.jpg "Hotel Room Mate Valeria, en Málaga.") Hotel Room Mate Valeria, en Málaga.\[/caption\]
+\[caption id="attachment\_13346" align="aligncenter" width="900"\]![hotel viaje amigas a malaga, room mate malaga valeria](https://fotos.etheriamagazine.com/2019/10/Room-Mate-Valeria-Malaga-1-900x601.jpg "Hotel Room Mate Valeria, en Málaga.") Hotel Room Mate Valeria, en Málaga.\[/caption\]
 
 ## 3\. En Málaga con Valeria.
 
@@ -57,7 +57,7 @@ Este es el hotel de Room Mate que está más cerca del mar, pero sin llegar a al
 
 Una recomendación: disfruta del atardecer con una copa en la mano desde la terraza-bar (junto a la piscina).
 
-\[caption id="attachment\_13347" align="aligncenter" width="900"\]![room mate valeria malaga](etheria-images/2019/10/Room-Mate-Valeria-Malaga-2-900x600.jpg "Bar de la piscina del hotel Room Mate Valeria, en Málaga.") Bar de la piscina del hotel Room Mate Valeria, en Málaga.\[/caption\]
+\[caption id="attachment\_13347" align="aligncenter" width="900"\]![room mate valeria malaga](https://fotos.etheriamagazine.com/2019/10/Room-Mate-Valeria-Malaga-2-900x600.jpg "Bar de la piscina del hotel Room Mate Valeria, en Málaga.") Bar de la piscina del hotel Room Mate Valeria, en Málaga.\[/caption\]
 
 ## 4\. En Milán con Giulia.
 
@@ -65,7 +65,7 @@ En ciudades como Milán se agradece alojarse en el centro porque puedes llegar a
 
 Si después de un día recorriendo esta ciudad monumental te apetece relajarte, lo podrás hacer en una tumbona de su spa o en la sauna. El gimnasio mejor lo dejas para el día siguiente (está abierto 24 horas). Si haces el [viaje a Milán en familia](https://etheriamagazine.com/2018/12/21/que-ver-en-milan-en-48-horas/), también puedes elegir una de sus habitaciones triples.
 
-\[caption id="attachment\_13343" align="aligncenter" width="900"\]![Hotel Room Mate Giulia, hotel viaje con amigas](etheria-images/2019/10/Room-mate-giulia-1-900x600.jpg "Hotel Room Mate Giulia, en Milán.") Hotel Room Mate Giulia, en Milán.\[/caption\]
+\[caption id="attachment\_13343" align="aligncenter" width="900"\]![Hotel Room Mate Giulia, hotel viaje con amigas](https://fotos.etheriamagazine.com/2019/10/Room-mate-giulia-1-900x600.jpg "Hotel Room Mate Giulia, en Milán.") Hotel Room Mate Giulia, en Milán.\[/caption\]
 
 ## 5\. En Florencia con Isabella.
 
@@ -73,7 +73,7 @@ Florencia es arte y belleza en un grado extremo, y eso es lo que ofrece el **Roo
 
 A un paso tendrás la bellísima basílica de Santa María del Fiore y los palacios de Vecchio, Strozzi, Bartolini Salimbeni o Corsini. Si no es la primera vez que visitas la ciudad seguro que te sorprenderemos con estas ideas: [15 ideas para disfrutar de Florencia por segunda vez](https://etheriamagazine.com/2018/09/21/15-ideas-para-disfrutar-de-florencia-por-segunda-vez/).
 
-\[caption id="attachment\_13337" align="aligncenter" width="900"\]![hotel room mate aitana, hotel amsterdam viaje con amigas](etheria-images/2019/10/Room-Mate-Aitana-Amsterdam-1-900x600.jpg "Hotel Room Mate Aitana, en Ámsterdam.") Hotel Room Mate Aitana, en Ámsterdam.\[/caption\]
+\[caption id="attachment\_13337" align="aligncenter" width="900"\]![hotel room mate aitana, hotel amsterdam viaje con amigas](https://fotos.etheriamagazine.com/2019/10/Room-Mate-Aitana-Amsterdam-1-900x600.jpg "Hotel Room Mate Aitana, en Ámsterdam.") Hotel Room Mate Aitana, en Ámsterdam.\[/caption\]
 
 ## 6\. En Ámsterdam con Aitana.
 
@@ -89,7 +89,7 @@ Su decoración, moderna pero muy detallista, te hará sentir como una auténtica
 
 Aprovecha tu estancia en la Gran Manzana para asistir a algún musical en Broadway, visitar las últimas exposiciones de arte moderno e ir de _shopping_.
 
-\[caption id="attachment\_13345" align="aligncenter" width="900"\]![hotel room mate valentina, hotel viaje amigas a mexico df](etheria-images/2019/10/Room-mate-Valentina-900x600.jpg "Hotel Room Mate Valentina, en México DF.") Hotel Room Mate Valentina, en México DF.\[/caption\]
+\[caption id="attachment\_13345" align="aligncenter" width="900"\]![hotel room mate valentina, hotel viaje amigas a mexico df](https://fotos.etheriamagazine.com/2019/10/Room-mate-Valentina-900x600.jpg "Hotel Room Mate Valentina, en México DF.") Hotel Room Mate Valentina, en México DF.\[/caption\]
 
 ## 8\. En México con Valentina.
 

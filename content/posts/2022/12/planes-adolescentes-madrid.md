@@ -1,7 +1,7 @@
 ---
 title: "Planes divertidos con adolescentes en Madrid"
 date: 2022-12-16
-coverImage: etheria-images/2022/12/madrid-sweet-space-nevera.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space-nevera.jpg
 categories: 
   - viaje-en-familia
 authors: 
@@ -13,7 +13,7 @@ pasar una tarde con los más jóvenes de la casa. En Etheria Magazine hemos sele
 diez planes con adolescentes en Madrid con los que acertarás seguro tanto si vives en la 
 capital como si vienes unos días de visita. 
 
-![adolescentes en una nevera de Sweet Space](etheria-images/2022/12/madrid-sweet-space-nevera.jpg "Diversión en Sweet Space. © Ángel Linares")
+![adolescentes en una nevera de Sweet Space](https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space-nevera.jpg "Diversión en Sweet Space. © Ángel Linares")
 
 Hay edades en las que parece que todo aburre o al menos no genera el interés deseado. 
 Viajar con adolescentes es todo un reto y hay que tratar de alternar los planes más 
@@ -43,7 +43,7 @@ de surf para darte un capricho o hacer un regalo.
 ✅ **No te pierdas:** [5 excursiones esenciales con niños muy cerca de 
 Madrid](https://etheriamagazine.com/2023/03/24/excursiones-ninos-en-madrid/). 
 
-![Surf en Madrid](etheria-images/2022/12/madrid-adolescentes-surf.jpg "Surf en Honna Surf Hub. © SG")
+![Surf en Madrid](https://fotos.etheriamagazine.com/2022/12/madrid-adolescentes-surf.jpg "Surf en Honna Surf Hub. © SG")
 
 ### Esquiar a cubierto durante todo el año
 
@@ -57,7 +57,7 @@ cualquier mes de año. Cuenta con vestuarios, alquiler de ropa y material y taqu
 después, en este centro comercial se pueden encontrar todo tipo de tiendas y 
 restaurantes para pasar una jornada de lo más completa. 
 
-![Pista cubierta de esquí de Xanadú](etheria-images/2022/12/Madrid-snowzone.jpg "En © Snowzone se puede practicar esquí durante todo el año.")
+![Pista cubierta de esquí de Xanadú](https://fotos.etheriamagazine.com/2022/12/Madrid-snowzone.jpg "En © Snowzone se puede practicar esquí durante todo el año.")
 
 ### Ikono Madrid
 
@@ -70,7 +70,7 @@ plan para un grupo de adolescentes que pasar un rato tomándose fotos solos o ju
 todos los elementos necesarios para divertirse? El recorrido dura una hora y puedes 
 comprar las entradas en la web de Ikono o a través de [Civitatis](https://www.civitatis.com/es/madrid/entrada-ikono-madrid/?aid=10211). 
 
-![Dos chicas haciéndose fotos en Ikono Madrid](etheria-images/2022/12/Madrid-ikono.jpg "Fotos divertidas en © Ikono Madrid.")
+![Dos chicas haciéndose fotos en Ikono Madrid](https://fotos.etheriamagazine.com/2022/12/Madrid-ikono.jpg "Fotos divertidas en © Ikono Madrid.")
 
 ### Iniciarse en el buceo
 
@@ -93,7 +93,7 @@ aprovechar la visita al máximo te merece la pena comprar uno de los pases Corre
 que reducen el tiempo de espera en las atracciones. Puedes comprar las entradas en su 
 web (parquewarner.com) o a través de este enlace de [Civitatis](https://www.civitatis.com/es/madrid/entrada-parque-warner/?aid=10211). 
 
-![Atracción acuática en el Parque Warner de Madrid](etheria-images/2022/12/madrid-warner.jpg "Una visita al Parque Warner es siempre una buena opción en Madrid.")
+![Atracción acuática en el Parque Warner de Madrid](https://fotos.etheriamagazine.com/2022/12/madrid-warner.jpg "Una visita al Parque Warner es siempre una buena opción en Madrid.")
 
 ### Sweet Space
 
@@ -107,7 +107,7 @@ Este es uno de los planes ideales con adolescentes en Madrid cuando hace mal tie
 tenemos un grupo de chavales buscando qué hacer... Puedes comprar las entradas en la web 
 de Sweet Space o a través de [Civitatis](https://www.civitatis.com/es/madrid/entrada-sweet-space/?aid=10211). 
 
-![foto con oso gigante en Sweet Space Madrid](etheria-images/2022/12/madrid-sweet-space.jpg "En Sweet Space encuentras mil rincones para una foto. © Ángel Linares")
+![foto con oso gigante en Sweet Space Madrid](https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space.jpg "En Sweet Space encuentras mil rincones para una foto. © Ángel Linares")
 
 ### Tours Real Madrid y Territorio Atleti
 
@@ -125,7 +125,7 @@ Bernabeu](https://www.civitatis.com/es/madrid/tour-estadio-santiago-bernabeu/?ai
 y [Territorio 
 Atleti](https://www.civitatis.com/es/madrid/tour-civitas-metropolitano/?aid=10211)). 
 
-![bandera y estadio del Atleti de Madrid](etheria-images/2022/12/Madrid-tour-metropolitano.jpg "Estadio Cívitas Metropolitano, sede del Atlético de Madrid.")
+![bandera y estadio del Atleti de Madrid](https://fotos.etheriamagazine.com/2022/12/Madrid-tour-metropolitano.jpg "Estadio Cívitas Metropolitano, sede del Atlético de Madrid.")
 
 ### Museo de las Ilusiones
 
@@ -138,7 +138,7 @@ totalmente la percepción de la realidad y el Salón de Juegos con puzzles y tod
 retos no deja a nadie indiferente. Es imprescindible reservar las entradas con 
 antelación en la [web del museo](https://museumofillusions.es/) o a través de [Civitatis](https://www.civitatis.com/es/madrid/entrada-museo-ilusiones/?aid=10211). 
 
-![efecto óptico en el Museo de las Ilusiones de Madrid](etheria-images/2022/12/Madrid-museo-ilusiones.jpg "En el © Museo de las Ilusiones todo es posible.")
+![efecto óptico en el Museo de las Ilusiones de Madrid](https://fotos.etheriamagazine.com/2022/12/Madrid-museo-ilusiones.jpg "En el © Museo de las Ilusiones todo es posible.")
 
 ### Tour Grafiti
 
@@ -151,7 +151,7 @@ barrio de Lavapiés, donde se pueden ver algunas obras del festival CALLE de art
 callejero, lleva a lugares tan interesantes de la ciudad como el barrio de Embajadores 
 con los Muros Tabacalera, el Mercado de San Fernando y la plaza de la Cebada. 
 
-![Ruta de graffiti por Madrid](etheria-images/2022/12/Madrid-graffiti.jpg "Una ruta por el arte urbano de Madrid siempre es una buena idea.")
+![Ruta de graffiti por Madrid](https://fotos.etheriamagazine.com/2022/12/Madrid-graffiti.jpg "Una ruta por el arte urbano de Madrid siempre es una buena idea.")
 
 ### Escape Room
 

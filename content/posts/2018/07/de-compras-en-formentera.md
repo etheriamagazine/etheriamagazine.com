@@ -1,7 +1,7 @@
 ---
 title: "Guía breve de compras en Formentera"
 date: 2018-07-06
-coverImage: etheria-images/2018/07/compras-formentera-mercadillo-mola-4-e1669654042454.jpeg
+coverImage: https://fotos.etheriamagazine.com/2018/07/compras-formentera-mercadillo-mola-4-e1669654042454.jpeg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -15,7 +15,7 @@ como no sólo se vive de selfis en el mar, te proponemos que salgas de la playa 
 vayas de compras por las coquetas boutiques y los mercadillos de Formentera. Y ya 
 lucirás después tu nuevo modelo en la playa… 
 
-![compras mercadillo la mola formentera](etheria-images/2018/07/compras-formentera-mercadillo-mola-4.jpeg "Mercadillo de La Mola © Alfredo Montero/ Illesbalears.travel")
+![compras mercadillo la mola formentera](https://fotos.etheriamagazine.com/2018/07/compras-formentera-mercadillo-mola-4.jpeg "Mercadillo de La Mola © Alfredo Montero/ Illesbalears.travel")
 
 ## De tiendas por Sant Francesc Xavier
 
@@ -29,7 +29,7 @@ durante sus viajes de invierno. Ha formado así una colección muy personal que 
 tanto moda como bolsos y complementos, todos de muy buen gusto. Se encuentra en la vía 
 peatonal principal del pueblo: no hay pérdida posible. 
 
-![Ropa de Daisys en Formentera](etheria-images/2018/07/compras-formentera-daisys.jpeg "Daisys's, prendas muy seleccionadas en Formentera. © Nuria Cortés")
+![Ropa de Daisys en Formentera](https://fotos.etheriamagazine.com/2018/07/compras-formentera-daisys.jpeg "Daisys's, prendas muy seleccionadas en Formentera. © Nuria Cortés")
 
 **• Baláfia:** en la misma calle aguarda otra parada obligada de Sant Francesc, sobre 
 todo si el estilo chic mediterráneo es el tuyo. En su interior encontrarás desde 
@@ -41,14 +41,14 @@ sus piezas.
 suerte de cueva de Alí Babá repleta de bikinis, fulares y otras prendas de estilo 
 oriental-asiático-hippy. 
 
-![macramé en Tienda Yemmanja en Formentera](etheria-images/2018/07/compras-formentera-Iemanja.jpeg "Yemmanja, una tienda repleta de tesoros. © Nuria Cortés")
+![macramé en Tienda Yemmanja en Formentera](https://fotos.etheriamagazine.com/2018/07/compras-formentera-Iemanja.jpeg "Yemmanja, una tienda repleta de tesoros. © Nuria Cortés")
 
 **• Fool Moon:** sus puertas azuladas y la llamativa buganvilla que se levanta a su 
 puerta seguro que te llaman la atención lo suficiente como para que te pares. Y estará 
 bien que lo hagas si buscas bañadores con estilo, bolsos originales, sandalias y 
 vestidos. La encontrarás en c/ Eivissa, 6, también en los alrededores de la iglesia. 
 
-![Compras en formentera tienda Full Moon](etheria-images/2018/07/compras-Formentera-Ful-Moon.jpeg "© Full Moon, perfecta para comprar bañadores, bolsos, sandalias y vestidos.")
+![Compras en formentera tienda Full Moon](https://fotos.etheriamagazine.com/2018/07/compras-Formentera-Ful-Moon.jpeg "© Full Moon, perfecta para comprar bañadores, bolsos, sandalias y vestidos.")
 
 **• Janne Ibiza:** sus bikinis y tangas tejidos a mano tienen una legión de seguidoras 
 entre modelos y habituales a la isla. Afincada en las Pitiusas desde hace décadas, Janne 
@@ -64,7 +64,7 @@ excepto los domingos, y hasta mediados de octubre se celebra en la misma plaza d
 pueblo de Sant Francesc y en las principales calles peatonales un **mercadillo** donde 
 encontrar moda, complementos y artesanía. 
 
-![Mercadillo de la Mola animación en Formentera.](etheria-images/2018/07/compras-formentera-mercadillo-la-mola-3.jpeg "Mercadillo de La Mola: miércoles y domingos. © Mateu Mennassar/ Illesbalears.travel")
+![Mercadillo de la Mola animación en Formentera.](https://fotos.etheriamagazine.com/2018/07/compras-formentera-mercadillo-la-mola-3.jpeg "Mercadillo de La Mola: miércoles y domingos. © Mateu Mennassar/ Illesbalears.travel")
 
 ## De compras por El Pilar de la Mola
 
@@ -77,7 +77,7 @@ original, realizado por artesanos certificados y, en su mayoría, inspirado en l
 Otras paradas obligadas en El Pilar de la Mola es la **joyería Majoral**, donde puedes 
 encontrar las originales y elegantes piezas diseñadas por Enric Majoral y su equipo. 
 
-![mujer en la playa en Formentera](etheria-images/2018/07/formentera-pixabay-1024x683.jpg "Playa y compras, una buena combinación en Formentera. ©Pixabay")
+![mujer en la playa en Formentera](https://fotos.etheriamagazine.com/2018/07/formentera-pixabay-1024x683.jpg "Playa y compras, una buena combinación en Formentera. ©Pixabay")
 
 ## Más compras en Formentera
 

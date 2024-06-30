@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en España, 12 guías básicas para tus vacaciones"
 date: 2023-04-04
-coverImage: etheria-images/2022/06/granada-la-alhambra.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -13,7 +13,7 @@ días. Si quieres saber qué ver en España, tienes que echar un vistazo a nuest
 con los lugares imprescindibles de cada provincia. Te ayudarán a planificar las 
 excursiones y a organizar los días de viaje. 
 
-![El Albaicín, uno de los barrios más bonitos de Granada.](etheria-images/2022/09/granada-albaicin.jpg "El Albaicín, uno de los barrios más bonitos de Granada.")
+![El Albaicín, uno de los barrios más bonitos de Granada.](https://fotos.etheriamagazine.com/2022/09/granada-albaicin.jpg "El Albaicín, uno de los barrios más bonitos de Granada.")
 
 Viajar por España tiene muchas ventajas y, por mucho que nos seduzcan los destinos 
 lejanos, hay que reconocer que tenemos muy a mano infinidad de lugares que incluso se 
@@ -33,7 +33,7 @@ o Medina Sidonia o la ruta de los pueblos blancos. Te lo vas a pasar muy bien en
 ✅ **Guía Etheria:** [La mejor guía de Cádiz provincia para organizar tu 
 viaje.](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
 
-![Panorámica de Olvera, uno de los pueblos de Cádiz.](etheria-images/2023/03/que-ver-cadiz-olvera.jpg "Panorámica de Olvera, uno de los pueblos de Cádiz. © Etheria Magazine")
+![Panorámica de Olvera, uno de los pueblos de Cádiz.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-olvera.jpg "Panorámica de Olvera, uno de los pueblos de Cádiz. © Etheria Magazine")
 
 ## Málaga
 
@@ -48,7 +48,7 @@ las Nieves o los acantilados de Maro.
 ✅ **Guía Etheria:** [Una guía para no perderte nada de la provincia de 
 Málaga.](https://etheriamagazine.com/2023/03/23/pueblos-que-ver-malaga/) 
 
-![El Puente Nuevo de Ronda.](etheria-images/2023/03/malaga-ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
+![El Puente Nuevo de Ronda.](https://fotos.etheriamagazine.com/2023/03/malaga-ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
 
 ## Granada
 
@@ -63,7 +63,7 @@ Calahonda y pueblos que te van a enamorar como Salobreña, Motril o Almuñécar.
 ✅ **Guía Etheria:** [15 lugares imprescindibles en Granada, una provincia de una belleza 
 descomunal.](https://etheriamagazine.com/2022/09/30/que-ver-en-granada-provincia/) 
 
-![la alhambra en primavera](etheria-images/2022/06/granada-la-alhambra.jpg "La Alhambra desde los jardines del Generalife. © SG")
+![la alhambra en primavera](https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg "La Alhambra desde los jardines del Generalife. © SG")
 
 ## Girona
 
@@ -79,7 +79,7 @@ años.
 ✅ **Guía Etheria:** [15 lugares imprescindibles que tienes que ver en 
 Girona.](https://etheriamagazine.com/2022/10/17/lugares-imprescindibles-en-girona/) 
 
-![casa de colores en Girona capital](etheria-images/2022/10/Girona.jpg "Girona. © Arxiu Imatges PTCBG")
+![casa de colores en Girona capital](https://fotos.etheriamagazine.com/2022/10/Girona.jpg "Girona. © Arxiu Imatges PTCBG")
 
 ## Tarragona
 
@@ -93,7 +93,7 @@ una delicia. Y en cuanto a la naturaleza, además de las excelentes playas, hay 
 ✅ **Guía Etheria:** [Guía esencial de Tarragona, pueblos y rutas que 
 enamoran.](https://etheriamagazine.com/2022/11/23/que-ver-tarragona/) 
 
-![Paseo en barca por el Delta del Ebro.](etheria-images/2022/11/tarragona-delta-del-Ebro-850x570.jpg "Paseo en barca por el Delta del Ebro. © Terres de l’Ebre")
+![Paseo en barca por el Delta del Ebro.](https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro-850x570.jpg "Paseo en barca por el Delta del Ebro. © Terres de l’Ebre")
 
 ## Gipuzkoa
 
@@ -108,7 +108,7 @@ original, no te pierdas la ruta por los faros ¡te sorprenderá!
 ✅ **Guía Etheria:** [Guía esencial de Gipuzkoa, maravillas desde la costa al 
 interior.](https://etheriamagazine.com/2023/02/14/que-ver-hacer-gipuzkoa/) 
 
-![Vistas de Mutriku desde el monte Arno.](etheria-images/2023/02/guipuzcoa-monte-arno-mutriku.jpg "Vistas de Mutriku desde el monte Arno. © Basquetour.")
+![Vistas de Mutriku desde el monte Arno.](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-monte-arno-mutriku.jpg "Vistas de Mutriku desde el monte Arno. © Basquetour.")
 
 ## Cantabria
 
@@ -123,7 +123,7 @@ descubras.
 ✅ **Guía Etheria:** [Guía esencial de Cantabria, visitas que no puedes 
 perderte.](https://etheriamagazine.com/2022/09/05/que-ver-en-cantabria/) 
 
-![Hombre pez junto al puente de Lérganes.](etheria-images/2022/09/cantabria-mogrovejo.jpg "Mogroviejo, uno de los pueblos más bonitos de Cantabria. © Turismo de Cantabria")
+![Hombre pez junto al puente de Lérganes.](https://fotos.etheriamagazine.com/2022/09/cantabria-mogrovejo.jpg "Mogroviejo, uno de los pueblos más bonitos de Cantabria. © Turismo de Cantabria")
 
 ## A Coruña
 
@@ -138,7 +138,7 @@ lugares que hay que ver en España.
 ✅ **Guía Etheria:** [15 lugares imprescindibles en A Coruña que miran al 
 mar.](https://etheriamagazine.com/2022/09/23/que-ver-a-coruna/) 
 
-![Torre de Hercules](etheria-images/2020/06/La-coruna-torre-hercules-900x600.jpg "La Torre de Hércules en A Coruña. © SG")
+![Torre de Hercules](https://fotos.etheriamagazine.com/2020/06/La-coruna-torre-hercules-900x600.jpg "La Torre de Hércules en A Coruña. © SG")
 
 ## Pontevedra
 
@@ -152,7 +152,7 @@ Alobre o el de Penalba.
 ✅ **Guía Etheria:** [Guía esencial de Pontevedra: ciudades, islas, castros y rutas 
 mágicas.](https://etheriamagazine.com/2022/12/14/que-ver-pontevedra/) 
 
-![Islas Cíes, unas de las más bonitas de Pontevedra.](etheria-images/2022/12/islas-Cies.jpg "Islas Cíes, unas de las más bonitas de Pontevedra. © Turismo de Rías Baixas/ Diputación de Pontevedra")
+![Islas Cíes, unas de las más bonitas de Pontevedra.](https://fotos.etheriamagazine.com/2022/12/islas-Cies.jpg "Islas Cíes, unas de las más bonitas de Pontevedra. © Turismo de Rías Baixas/ Diputación de Pontevedra")
 
 ## Segovia
 
@@ -169,7 +169,7 @@ Segovia da para mucho.
 una escapada por la provincia de 
 Segovia.](https://etheriamagazine.com/2021/03/09/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia/#castillos-segovia) 
 
-![Sepúlveda, una de las visitas imprescindibles en Segovia.](etheria-images/2021/12/segovia-Sepulveda.jpg "Sepúlveda, una de las visitas imprescindibles en Segovia. © Turismo Diputación de Segovia")
+![Sepúlveda, una de las visitas imprescindibles en Segovia.](https://fotos.etheriamagazine.com/2021/12/segovia-Sepulveda.jpg "Sepúlveda, una de las visitas imprescindibles en Segovia. © Turismo Diputación de Segovia")
 
 ## Tenerife
 
@@ -185,7 +185,7 @@ Parque, está asegurada. Te van a faltar días.
 ✅ **Guía Etheria:** [Guía esencial de Tenerife: 15 imprescindibles en tus 
 vacaciones.](https://etheriamagazine.com/2023/01/18/que-ver-en-tenerife/) 
 
-![Parque Nacional de las Cañadas del Teide](etheria-images/2023/01/Tenerife-canadas-teide-dedo-dios.jpg "El "dedo de Dios" en Las Cañadas del Teide. © SG")
+![Parque Nacional de las Cañadas del Teide](https://fotos.etheriamagazine.com/2023/01/Tenerife-canadas-teide-dedo-dios.jpg "El "dedo de Dios" en Las Cañadas del Teide. © SG")
 
 ## Lanzarote
 
@@ -200,4 +200,4 @@ Chinijo. Querrás volver a esta isla seguro.
 ✅ **Guía Etheria:** [Lanzarote: 15 lugares imprescindibles para perderte por la 
 isla.](https://etheriamagazine.com/2023/02/08/que-ver-lanzarote/) 
 
-![El Charco de los Clicos.](etheria-images/2023/02/lanzarote-laguna-verde.jpg "El Charco de los Clicos, en Lanzarote.")
+![El Charco de los Clicos.](https://fotos.etheriamagazine.com/2023/02/lanzarote-laguna-verde.jpg "El Charco de los Clicos, en Lanzarote.")

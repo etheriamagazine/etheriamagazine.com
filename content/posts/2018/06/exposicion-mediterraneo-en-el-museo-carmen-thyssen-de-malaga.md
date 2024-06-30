@@ -1,7 +1,7 @@
 ---
 title: "Exposición “Mediterráneo” en el museo Carmen Thyssen de Málaga"
 date: 2018-06-25
-coverImage: etheria-images/2018/06/Joaquim-Sunyer-expo-Mediterraneo.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/06/Joaquim-Sunyer-expo-Mediterraneo.jpg
 categories: 
   - exposiciones
 authors: 
@@ -12,7 +12,7 @@ Málaga es una ciudad con muchos alicientes para un viaje. Además del ambiente 
 nocturno, su bonito centro histórico y las playas, se une su activa vida cultural, de la 
 que el museo Carmen Thyssen es un miembro destacado. 
 
-![Exposicion Carmen Thyssen Malaga](etheria-images/2018/06/Joaquim-Sunyer-expo-Mediterraneo-1024x661.jpg "Joaquim Sunyer, Mediterráneo, c. 1910-1911. Óleo sobre lienzo. Colección Carmen Thyssen-Bornemisza © Joaquim Sunyer, VEGAP, Málaga, 2018.")
+![Exposicion Carmen Thyssen Malaga](https://fotos.etheriamagazine.com/2018/06/Joaquim-Sunyer-expo-Mediterraneo-1024x661.jpg "Joaquim Sunyer, Mediterráneo, c. 1910-1911. Óleo sobre lienzo. Colección Carmen Thyssen-Bornemisza © Joaquim Sunyer, VEGAP, Málaga, 2018.")
 
 El museo Carmen Thyssen es una las joyas que guarda el centro histórico de Málaga. Su 
 colección permanente es muy recomendable, pero es en sus muestras temporales donde echa 
@@ -46,7 +46,7 @@ que Picasso fue el máximo exponente. Tanto en el artista malagueño como en Mai
 la mezcla de estas formas e ideas clásicas con la geometrización y abstracción propias 
 del siglo XX. 
 
-![Exposicion Carmen Thyssen Malaga](etheria-images/2018/06/Georges-Braque-expo-Mediterraneo-1024x834.jpg "Georges Braque, Marina. L’Estaque, 1906. Colección Carmen Thyssen-Bornemisza en depósito en el Museo Nacional Thyssen-Bornemisza, Madrid © Georges Braque, VEGAP, Málaga, 2018.")
+![Exposicion Carmen Thyssen Malaga](https://fotos.etheriamagazine.com/2018/06/Georges-Braque-expo-Mediterraneo-1024x834.jpg "Georges Braque, Marina. L’Estaque, 1906. Colección Carmen Thyssen-Bornemisza en depósito en el Museo Nacional Thyssen-Bornemisza, Madrid © Georges Braque, VEGAP, Málaga, 2018.")
 
 ## Paisajes mediterráneos
 
@@ -57,7 +57,7 @@ elementos fundamentales en los movimientos de vanguardia del siglo XX, que se pl
 en el neoimpresionismo de Signac, el fauvismo de Matisse y Braque, la pintura de toque 
 personal de Bonnard y Picasso y en los paisajes del renovador del impresionismo Sorolla. 
 
-![Exposición Carmen Thyssen Malaga](etheria-images/2018/06/Paul-Signac-expo-Mediterraneo-1024x815.jpg "Paul Signac, Saint-Tropez. El muelle, 1899. Óleo sobre lienzo. Musée de l’Annonciade, Saint-Tropez. Donación de Berthe Signac. 1942")
+![Exposición Carmen Thyssen Malaga](https://fotos.etheriamagazine.com/2018/06/Paul-Signac-expo-Mediterraneo-1024x815.jpg "Paul Signac, Saint-Tropez. El muelle, 1899. Óleo sobre lienzo. Musée de l’Annonciade, Saint-Tropez. Donación de Berthe Signac. 1942")
 
 ### CONSEJOS ETHERIA
 

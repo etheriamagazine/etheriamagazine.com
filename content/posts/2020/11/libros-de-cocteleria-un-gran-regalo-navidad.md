@@ -1,7 +1,7 @@
 ---
 title: "Regala los mejores libros de cócteles de todos los tiempos"
 date: 2020-11-23
-coverImage: etheria-images/2020/11/libros-cocteles-modernos.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/libros-cocteles-modernos.jpg
 categories: 
   - regalos-compras-viajeras
   - organiza-tu-viaje
@@ -14,7 +14,7 @@ Mezclar, agitar, remover… Hablamos, naturalmente, de cócteles. Aprovecha las 
 navideñas para ponerte al día en mixología. Te recomendamos los mejores libros de 
 cócteles de ayer, de hoy (y casi del mañana), para ti o para regalar. 
 
-![libros cocteleria](etheria-images/2020/11/Libros-de-cocteleria.jpg "Libros de coctelería. © Pedro Grifol")
+![libros cocteleria](https://fotos.etheriamagazine.com/2020/11/Libros-de-cocteleria.jpg "Libros de coctelería. © Pedro Grifol")
 
 Antes de pasar a la práctica, nos ponemos en situación con un poco de fantasía. 
 Transcurre la última década de 1700 y nos encontramos en una pintoresca bahía de la 
@@ -32,7 +32,7 @@ cóctel. De ahí en adelante, los marineros ya los pedirían por su nombre: _coc
 Leyenda o no, es uno de los relatos más poéticos y divertidos que se cuentan sobre el 
 origen del cóctel. 
 
-![Cóctel de color azul en una copa](etheria-images/2020/11/libros-cocteles-modernos.jpg "Los cócteles también evolucionan con el tiempo. © Ram HO")
+![Cóctel de color azul en una copa](https://fotos.etheriamagazine.com/2020/11/libros-cocteles-modernos.jpg "Los cócteles también evolucionan con el tiempo. © Ram HO")
 
 La primera referencia al vocablo aparece en 1798 en el diario británico _The Morning 
 Post_. Y sería unos años más tarde, en 1806, cuando la palabra _**cocktail**_ se 
@@ -47,7 +47,7 @@ de dudosa calidad el alcohol elaborado clandestinamente, los encubiertos _barmen
 comenzaron a mezclar alcohol con zumos y otras bebidas para mejorar (o enmascarar) su 
 sabor. 
 
-![cocteles en casa](etheria-images/2020/11/cocteles-en-casa.jpg "Aprende a hacer cócteles en casa. © Louis Hansel")
+![cocteles en casa](https://fotos.etheriamagazine.com/2020/11/cocteles-en-casa.jpg "Aprende a hacer cócteles en casa. © Louis Hansel")
 
 ## El cóctel, una innovación continua
 
@@ -70,7 +70,7 @@ ilustraciones más _vintage_… o las increíbles fotografías (en papel _couch�
 cócteles más sofisticados. Después, sólo hay que sacar la coctelera y el hielo… y 
 ¡Salud! 
 
-![Bar-tenders Guide y The Savoy Cocktail Book](etheria-images/2020/11/bar-tenders-guida-the-savoy-cocktail.jpg "'Bar-tenders Guide' y 'The Savoy Cocktail Book'.")
+![Bar-tenders Guide y The Savoy Cocktail Book](https://fotos.etheriamagazine.com/2020/11/bar-tenders-guida-the-savoy-cocktail.jpg "'Bar-tenders Guide' y 'The Savoy Cocktail Book'.")
 
 ## Los tratados clásicos en coctelería
 
@@ -100,7 +100,7 @@ libro [The Savoy Cocktail book](https://amzn.to/35LprOO) fue un _best seller_ de
 Un ejemplar de la primera edición (1930) puede llegar a alcanzar mil euros en subastas, 
 pero existen ediciones más baratas por unos 20 euros en Amazon. 
 
-![libros de cocteles florecita y tragos magicos](etheria-images/2020/11/libros-cocteles-floridita-tragos-magicos.jpg "Libros 'Floridita' y 'Tragos mágicos'.")
+![libros de cocteles florecita y tragos magicos](https://fotos.etheriamagazine.com/2020/11/libros-cocteles-floridita-tragos-magicos.jpg "Libros 'Floridita' y 'Tragos mágicos'.")
 
 ### Floridita
 
@@ -115,7 +115,7 @@ cordial, su vestir elegante y la presentación limpia y adecuada de las bebidas,
 consideran como el decálogo que rige el comportamiento del buen hacer en el arte de los 
 combinados. Fue editado en 1955. 
 
-![perico chicote](etheria-images/2020/11/Perico-Chicote.jpg "Pedro Chicote.")
+![perico chicote](https://fotos.etheriamagazine.com/2020/11/Perico-Chicote.jpg "Pedro Chicote.")
 
 ### El bar americano en España
 
@@ -126,7 +126,7 @@ un gran libro: [_El bar americano en
 España_](https://euvs-vintage-cocktail-books.cld.bz/1927-El-Bar-Americano-en-Espana-by-Pedro-Chicote), 
 publicado por primera vez en 1927 y reeditado hace pocos años. 
 
-![el bar americano en espana de chicote](etheria-images/2020/11/bar-americano-chicote-678x1024.jpg "'El bar americano en España', de Pedro Chicote.")
+![el bar americano en espana de chicote](https://fotos.etheriamagazine.com/2020/11/bar-americano-chicote-678x1024.jpg "'El bar americano en España', de Pedro Chicote.")
 
 ## Libros modernos de cócteles
 
@@ -145,7 +145,7 @@ autor descompone las bebidas más habituales en coctelería en sus esenciales de
 enfoque técnico, y después las construye de nuevo. De lo más operativo si quieres 
 convertirte en un profesional. 
 
-![libros cocteles The new craft of the cocktail y The bar book](etheria-images/2020/11/craft-cocktail-the-bar-book.jpg "'The new craft of the cocktail' y 'The bar book'.")
+![libros cocteles The new craft of the cocktail y The bar book](https://fotos.etheriamagazine.com/2020/11/craft-cocktail-the-bar-book.jpg "'The new craft of the cocktail' y 'The bar book'.")
 
 ### Se mezcla en español
 
@@ -156,7 +156,7 @@ nuevas mixturas para reivindicar los cócteles clásicos de las grandes glorias 
 saber qué beben las nuevas generaciones. Un libro aleccionador con el que se aprende 
 mucho. 
 
-![Jorge Restrepo y libro se mezcla en espanol](etheria-images/2020/11/se-mezcla-en-espanol-George-Restrepo-752x1024.jpg "George Restrepo y su libro 'Se mezcla en español'. © Pedro Grifol")
+![Jorge Restrepo y libro se mezcla en espanol](https://fotos.etheriamagazine.com/2020/11/se-mezcla-en-espanol-George-Restrepo-752x1024.jpg "George Restrepo y su libro 'Se mezcla en español'. © Pedro Grifol")
 
 ## Nuevos libros de cócteles
 
@@ -169,7 +169,7 @@ recetas elaboradas a lo largo de más de 500 años y en más de 60 países. Cada
 refleja la época en la que fue creada, el lugar… o el bar que la inspiró. Contiene, 
 además, 10 ensayos de autor. 
 
-![libro de cocteles phaidon](etheria-images/2020/11/spirited-phaidon.jpg "'Spirited' de la editorial Phaidon.")
+![libro de cocteles phaidon](https://fotos.etheriamagazine.com/2020/11/spirited-phaidon.jpg "'Spirited' de la editorial Phaidon.")
 
 Una publicación imprescindible de la editorial Phaidon, de la que es autora la 
 prestigiosa _sommelier_ Adrienne Stillman. 
@@ -180,7 +180,7 @@ _La vuelta al mundo en 80 bebidas_ (2020) es una recopilación de bebibles de to
 tiempos a cargo de Jules Gaubert-Turpin y Adrien Grant Smith Bianchi. Fue editada por 
 Cinco Tintas. 
 
-![la vuelta al mundo en ochenta bebidas](etheria-images/2020/11/La-vuelta-al-mundo-en-80-bebidas-729x1024.jpg "'La vuelta al mundo en 80 bebidas'.")
+![la vuelta al mundo en ochenta bebidas](https://fotos.etheriamagazine.com/2020/11/La-vuelta-al-mundo-en-80-bebidas-729x1024.jpg "'La vuelta al mundo en 80 bebidas'.")
 
 Detrás de cada bebida alcohólica está la historia de un pueblo, una región y un contexto 
 social y económico. Al degustar cada espíritu alcohólico viajamos en el tiempo, 

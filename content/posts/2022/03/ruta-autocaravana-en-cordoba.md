@@ -1,7 +1,7 @@
 ---
 title: "Guía básica para una ruta en autocaravana por la Subbética Cordobesa"
 date: 2022-03-23
-coverImage: etheria-images/2022/03/dona-mencia-area-caravanas.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/03/dona-mencia-area-caravanas.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -17,7 +17,7 @@ encontrarás la información necesaria (pueblos principales, rutas naturales, á
 pernoctar y restaurantes) para hacer una increíble ruta en autocaravana por la Subbética 
 Cordobesa. 
 
-![dos mujeres posan junto a una autocaravana en dona mencia en una Ruta en autocaravana por la Subbética Cordobesa](etheria-images/2022/03/dona-mencia-area-caravanas.jpg "Viajeras en Doña Mencía.")
+![dos mujeres posan junto a una autocaravana en dona mencia en una Ruta en autocaravana por la Subbética Cordobesa](https://fotos.etheriamagazine.com/2022/03/dona-mencia-area-caravanas.jpg "Viajeras en Doña Mencía.")
 
 Los viajes en autocaravana han pasado de ser algo minoritario, reservado para cuatro 
 espíritus libres, a una tendencia imparable impulsada en los últimos tiempos de 
@@ -36,7 +36,7 @@ las áreas de descanso y cuáles son los atractivos que brinda cada zona.
 Ve reservando fecha en tu calendario porque Doña Mencía, Cabra, Rute, Carcabuey y Priego 
 de Córdoba te están esperando. 
 
-![areas de descanso en la ruta en autocaravana por la Subbética Cordobesa](etheria-images/2022/03/area-descanso-Caravana-cordoba.jpg "Desde las áreas de descanso para caravanas de la Subbética Cordobesa se pueden realizar visitas y excursiones naturales.")
+![areas de descanso en la ruta en autocaravana por la Subbética Cordobesa](https://fotos.etheriamagazine.com/2022/03/area-descanso-Caravana-cordoba.jpg "Desde las áreas de descanso para caravanas de la Subbética Cordobesa se pueden realizar visitas y excursiones naturales.")
 
 ## Ubicación de las Sierras Subbéticas Cordobesas
 
@@ -50,7 +50,7 @@ rincones se pueden recorrer y descubrir en una ruta en autocaravana por la Subb�
 Cordobesa, con la ventaja añadida de que encontrarás 6 áreas de descanso distribuidas en 
 cinco de sus poblaciones, y muchas de ellas son gratuitas. 
 
-![dos mujeres pasean entre las ruinas del castillo de doña mencía](etheria-images/2022/03/castillo-dona-mencia.jpg "Conjunto arqueológico del Castillo de Doña Mencía.")
+![dos mujeres pasean entre las ruinas del castillo de doña mencía](https://fotos.etheriamagazine.com/2022/03/castillo-dona-mencia.jpg "Conjunto arqueológico del Castillo de Doña Mencía.")
 
 ## Doña Mencía, entrada a la Subbética Cordobesa
 
@@ -66,7 +66,7 @@ y déjate seducir por su altivo castillo que parece otear el horizonte desde su
 privilegiada posición. Reserva tiempo para visitar la reconocida Cueva de los 
 Murciélagos. 
 
-![vista del pueblo de Doña Mencia desde un monte](etheria-images/2022/03/dona-mencia-panoramica.jpg "Panorámica de Doña Mencía desde un punto elevado.")
+![vista del pueblo de Doña Mencia desde un monte](https://fotos.etheriamagazine.com/2022/03/dona-mencia-panoramica.jpg "Panorámica de Doña Mencía desde un punto elevado.")
 
 ?**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Doña Mencía?** 
 
@@ -74,7 +74,7 @@ El área de caravanas se sitúa junto a la estación de la Vía Verde y al lado 
 Cicloturista. Es exclusiva para furgonetas, caravanas y autocaravanas, y cuenta con 50 
 parcelas delimitadas. Recuerda que es necesario reservar con antelación. 
 
-![fuente con saltos de agua en el pueblo de cabra](etheria-images/2022/03/cabra-fuente-del-Rio.jpg "Fuente del Río, en Cabra.")
+![fuente con saltos de agua en el pueblo de cabra](https://fotos.etheriamagazine.com/2022/03/cabra-fuente-del-Rio.jpg "Fuente del Río, en Cabra.")
 
 ## Cabra, barroca y natural
 
@@ -87,14 +87,14 @@ te dejará sin palabras (sobre todo si te gusta el queso), el castillo-palacio y
 del Aceite en un edificio que es el único representante del modernismo catalán en 
 Andalucía. 
 
-![cuatro imágenes con la iglesia de la asuncion, calle con flores, museo y paraje natural](etheria-images/2022/03/visitas-cabra-cordoba.jpg "Distintos atractivos de Cabra: iglesia de la Asunción, barrio del Cerro, Fuente las Piedras y Museo Arqueológico.")
+![cuatro imágenes con la iglesia de la asuncion, calle con flores, museo y paraje natural](https://fotos.etheriamagazine.com/2022/03/visitas-cabra-cordoba.jpg "Distintos atractivos de Cabra: iglesia de la Asunción, barrio del Cerro, Fuente las Piedras y Museo Arqueológico.")
 
 Y si buscas un poco de actividad, debes saber que Cabra también es parada de la **Vía 
 Verde del Tren del Aceite** que se puede hacer andando o bien en bicicleta (58 
 kilómetros en total). ¿Una curiosidad más? Este pueblo está en el Centro Geográfico de 
 Andalucía. 
 
-![ciclista en la vida verde de cabra durante una ruta en autocaravana por la Subbética Cordobesa](etheria-images/2022/03/Cicloturismo-cabra.jpg "Cicloturismo en Cabra.")
+![ciclista en la vida verde de cabra durante una ruta en autocaravana por la Subbética Cordobesa](https://fotos.etheriamagazine.com/2022/03/Cicloturismo-cabra.jpg "Cicloturismo en Cabra.")
 
 ?**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Cabra?** 
 
@@ -103,7 +103,7 @@ autobuses y tiene 10 plazas. La segunda, que tiene 27 plazas, está en el Paraje
 de la Fuente del Río, junto a la Vía Verde (cerca del centro del pueblo), en un complejo 
 deportivo con piscinas cubiertas y al aire libre. 
 
-![una pareja se hace un selfi en una ruta senderista en rute](etheria-images/2022/03/senderismo-rute-cordoba.jpg "Ruta de senderismo en Rute.")
+![una pareja se hace un selfi en una ruta senderista en rute](https://fotos.etheriamagazine.com/2022/03/senderismo-rute-cordoba.jpg "Ruta de senderismo en Rute.")
 
 ## Rute, más que turrón y mantecados
 
@@ -117,7 +117,7 @@ exquisitos productos, se pueden visitar algunas factorías y obradores antes de 
 a descubrir Rute, conocido como el pueblo de la Navidad. Los belenes realizados con 
 chocolate o mazapán son auténticas obras de arte. 
 
-![una pareja visita rute, una destileria y un patio con flores](etheria-images/2022/03/rute-subbetica-cordobesa.jpg "Visitas en Rute.")
+![una pareja visita rute, una destileria y un patio con flores](https://fotos.etheriamagazine.com/2022/03/rute-subbetica-cordobesa.jpg "Visitas en Rute.")
 
 Pasea por sus callejuelas de trazado árabe jalonadas por casas encaladas y custodiadas 
 por una sierra onmnipresente, visible desde cualquier punto. No te pierdas El 
@@ -127,7 +127,7 @@ iglesia de Santa María Mártir y sus casas con preciosos patios llenos de flore
 tienes tiempo, visita la destilería de anís, que tiene una impresionante leñera de 
 olivo. 
 
-![dos ciclistas observan un cartel de un sendero en rute](etheria-images/2022/03/ruta-bici-rute.jpg "Ruta en bicicleta desde Rute, en la comarca de la Subbética Cordobesa.")
+![dos ciclistas observan un cartel de un sendero en rute](https://fotos.etheriamagazine.com/2022/03/ruta-bici-rute.jpg "Ruta en bicicleta desde Rute, en la comarca de la Subbética Cordobesa.")
 
 ### Rutas naturales en Rute
 
@@ -147,7 +147,7 @@ encantar.
 El área de caravanas de Rute es gratuita y se halla junto a dos de los senderos más 
 bonitos de la comarca: el sendero del Pinar de Rute y el de la Sierra Alta. 
 
-![distintos lugares de Carcabuey para visitar en una ruta en autocaravana por la subbetica cordobesa](etheria-images/2022/03/visitas-carcabuey-cordoba.jpg "Visitas turísticas en Carcabuey para una ruta en autocaravana por la Subbética Cordobesa.")
+![distintos lugares de Carcabuey para visitar en una ruta en autocaravana por la subbetica cordobesa](https://fotos.etheriamagazine.com/2022/03/visitas-carcabuey-cordoba.jpg "Visitas turísticas en Carcabuey para una ruta en autocaravana por la Subbética Cordobesa.")
 
 ## Carcabuey, rutas senderistas y en bicicleta
 
@@ -165,7 +165,7 @@ que cruza el río del Palancar, de época califal, y el **Sendero** **de las Bui
 entre olivares, con paradas en respiraderos donde brota el agua a toda presión y 
 colonias de buitres leonados en los roquedos. 
 
-![una pareja lee un cartel mientras hace una ruta senderista en carcabuey, una parada de la Ruta en autocaravana por la Subbética Cordobesa](etheria-images/2022/03/ruta-horconera-carcabuey.jpg "Ruta senderista en Carcabuey.")
+![una pareja lee un cartel mientras hace una ruta senderista en carcabuey, una parada de la Ruta en autocaravana por la Subbética Cordobesa](https://fotos.etheriamagazine.com/2022/03/ruta-horconera-carcabuey.jpg "Ruta senderista en Carcabuey.")
 
 ### Gastronomía en Carcabuey
 
@@ -178,7 +178,7 @@ Para probar la gastronomía de la zona no tendrás problemas, hay excelentes res
 como [La Zamora](https://www.hostal-lazamora.com/restaurante/), donde su chef, Rubén 
 Castro, da una vuelta a los platos tradicionales. 
 
-![un joven se dispone a cruzar un rio en carcabuey](etheria-images/2022/03/ruta-carcabuey.jpg "El entorno de Carcabuey es ideal para realizar rutas naturales.")
+![un joven se dispone a cruzar un rio en carcabuey](https://fotos.etheriamagazine.com/2022/03/ruta-carcabuey.jpg "El entorno de Carcabuey es ideal para realizar rutas naturales.")
 
 ?**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Carcabuey?** 
 
@@ -187,7 +187,7 @@ paradas por un tiempo inferior a 72 horas. Se sitúa junto al Centro Cicloturist
 Carcabuey y de MTB que ofrece desinteresadamente los servicios que un ciclista puede 
 requerir (duchas, botiquín de primeros auxilios, alquiler de bicicletas, etc.). 
 
-![calle con flores y casas blancas en priego de cordoba](etheria-images/2022/03/calle-flores-priego-cordoba.jpg "Calle de Priego de Córdoba.")
+![calle con flores y casas blancas en priego de cordoba](https://fotos.etheriamagazine.com/2022/03/calle-flores-priego-cordoba.jpg "Calle de Priego de Córdoba.")
 
 ## Priego de Córdoba, entre flores y casas encaladas
 
@@ -207,7 +207,7 @@ jardín romántico junto a las murallas, la casa donde nació Niceto Alcalá Zam
 presidente de la Segunda República, el balcón del Adarve, la fuente del Rey, el barrio 
 de la Villa y su castillo. 
 
-![mirador de priego de cordoba con las montañas en el frente](etheria-images/2022/03/mirador-priego-cordoba.jpg "Mirador de Priego de Córdoba.")
+![mirador de priego de cordoba con las montañas en el frente](https://fotos.etheriamagazine.com/2022/03/mirador-priego-cordoba.jpg "Mirador de Priego de Córdoba.")
 
 ### Rutas naturales en Priego de Córdoba
 
@@ -225,7 +225,7 @@ toro incluso en tortillitas. Aunque a estas alturas sobra decirlo, quizás el _s
 gastronómico de esta ruta en caravana por la Subbética Cordobesa es el **aceite de 
 oliva**, no dudes en llevártelo. 
 
-![aceite con denominacion de origen priego de cordoba](etheria-images/2022/03/aceite-priego-cordoba.jpg "El aceite de oliva de Priego de Córdoba es un ingrediente fundamental en cualquier plato.")
+![aceite con denominacion de origen priego de cordoba](https://fotos.etheriamagazine.com/2022/03/aceite-priego-cordoba.jpg "El aceite de oliva de Priego de Córdoba es un ingrediente fundamental en cualquier plato.")
 
 ?**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Priego de Córdoba?** 
 

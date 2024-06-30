@@ -1,7 +1,7 @@
 ---
 title: "Una ruta gastro por los sabores de Gran Canaria"
 date: 2023-07-24
-coverImage: etheria-images/2023/06/Gran-canaria-dulcería-nublo.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/06/Gran-canaria-dulcería-nublo.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-gastronomicos
@@ -16,7 +16,7 @@ los secretos gastronómicos en forma de productos únicos como el café, los pl�
 ron que van a hacer que se te haga la boca agua en tu próximo viaje a esta isla canaria. 
 Prepara ya tu ruta por la gastronomía de Gran Canaria. 
 
-![Salinas de Tenefé en Gran Canaria](etheria-images/2023/06/Gran-canaria-SALINAS-DE-TENEFE.jpg "Salinas de Tenefé. © Salinas de Tenefé")
+![Salinas de Tenefé en Gran Canaria](https://fotos.etheriamagazine.com/2023/06/Gran-canaria-SALINAS-DE-TENEFE.jpg "Salinas de Tenefé. © Salinas de Tenefé")
 
 Gran Canaria es uno de los grandes destinos turísticos de España: no hay sorpresa alguna 
 en esta afirmación. Tampoco la hay en el hecho de que la mayor parte de quienes llegan 
@@ -41,7 +41,7 @@ torno a esta bodega, la familia propietaria, los Lugo-Jorge, también ha plantad
 naranjas, mangos, aguacates, guayabos y, sobre todo, cafetos. Es decir, las plantas del 
 café. 
 
-![Hombre oliendo granos de café en Gran Canaria](etheria-images/2023/06/gran-canaria-CAFÉ-finca-la-laja.jpg "Café en © Finca La Laja.")
+![Hombre oliendo granos de café en Gran Canaria](https://fotos.etheriamagazine.com/2023/06/gran-canaria-CAFÉ-finca-la-laja.jpg "Café en © Finca La Laja.")
 
 De hecho, Finca La Laja es el mayor cafetal en territorio europeo y su producción de 
 café, aunque limitada, destaca por su calidad, aroma y sabor. Consecuencia lógica de un 
@@ -72,7 +72,7 @@ a buena parte de Europa. Eso sí, variedades de plátano hay muchas (se calcula 
 trabajadores del **Museo del Plátano** situado en **Hacienda La Rekompensa** 
 (www.haciendalarekompensa.es). 
 
-![Platanera en Gran Canaria](etheria-images/2023/06/gran-canaria-la-rekompensa.jpg "Plantación en la © Hacienda La Rekompensa.")
+![Platanera en Gran Canaria](https://fotos.etheriamagazine.com/2023/06/gran-canaria-la-rekompensa.jpg "Plantación en la © Hacienda La Rekompensa.")
 
 En esta finca agrícola producen fundamentalmente la **variedad Cavendish**, con 
 seguridad la más cultivada y comercializada en Canarias. Pero, entre las 25 subespecies 
@@ -89,7 +89,7 @@ Las plataneras comparten protagonismo en esta zona del Norte de Gran Canaria con
 cultivo: la caña de azúcar. Con ella se nutre una industria que lleva el nombre de esta 
 isla más allá de los límites del archipiélago, el ron. 
 
-![Botellas de ron Arehucas](etheria-images/2023/06/Gran-Canaria-ron-Arehucas.jpg "Dos especialidades del © Ron Arehucas.")
+![Botellas de ron Arehucas](https://fotos.etheriamagazine.com/2023/06/Gran-Canaria-ron-Arehucas.jpg "Dos especialidades del © Ron Arehucas.")
 
 La localidad grancanaria que se asocia de forma automática con esta bebida es Arucas. Y 
 es así gracias a **Arehucas** (arehucas.es), destilería que lleva en activo desde 
@@ -110,7 +110,7 @@ que no es tal, sino la parroquia de San Juan Bautista. Es normal llevarse a enga
 los volúmenes y formas de este templo neogótico levantado durante siete décadas del 
 siglo XX. 
 
-![El pueblo de Arucas con su iglesia de San Juan en Gran Canaria](etheria-images/2023/06/Gran-canaria-Arucas-Iglesia-de-San-Juan-Bautista.jpg "El pueblo de Arucas con su iglesia de San Juan. © Ron Arehucas")
+![El pueblo de Arucas con su iglesia de San Juan en Gran Canaria](https://fotos.etheriamagazine.com/2023/06/Gran-canaria-Arucas-Iglesia-de-San-Juan-Bautista.jpg "El pueblo de Arucas con su iglesia de San Juan. © Ron Arehucas")
 
 ### La Catedral Bistró, la nueva cocina canaria
 
@@ -132,7 +132,7 @@ pequeña producción de unos 2.000 litros a partir de manzanos propiedad de su p
 que tiene grandes ideas para elaborar sidras naturales, gasificadas y espumosas de doble 
 fermentación. 
 
-![Dos botellas de sidra Tuscany](etheria-images/2023/06/gran-canaria-valleseco-sidra-tuscany.jpg "Botellas de sidra © Tuscany, producida en Gran Canaria.")
+![Dos botellas de sidra Tuscany](https://fotos.etheriamagazine.com/2023/06/gran-canaria-valleseco-sidra-tuscany.jpg "Botellas de sidra © Tuscany, producida en Gran Canaria.")
 
 Valleseco, en pleno corazón de Gran Canaria, es uno de los valles que desde el volcánico 
 centro isleño declinan hacia el océano en profundos barrancos. Para conocer esta zona, 
@@ -154,7 +154,7 @@ Todos ellos y más (las palmeras de sabores tienen fama merecida) se venden en l
 frente del que está la entusiasta Rosa Medina, siempre dispuesta a bromear con los 
 clientes y también a mostrar los entresijos de su obrador. 
 
-![Postres en la Dulcería Nublo en Gran Canaria](etheria-images/2023/06/Gran-canaria-dulcería-nublo.jpg "Postres en la © Dulcería Nublo.")
+![Postres en la Dulcería Nublo en Gran Canaria](https://fotos.etheriamagazine.com/2023/06/Gran-canaria-dulcería-nublo.jpg "Postres en la © Dulcería Nublo.")
 
 Tejeda es también, como todo el interior de la isla, tierra de rebaños ovinos y 
 caprinos. Se puede ver a estos animales ramoneando por los matorrales que se asoman a 
@@ -176,7 +176,7 @@ grano medio y fino, con el sello ecológico que otorga la Unión Europea. La vis
 a esta producción con más de 250 años de historia resulta de lo más instructiva y 
 agradable. 
 
-![dos botes de sal de las salinas de gran Canaria](etheria-images/2023/06/gran-canaria-salinas-tenefe-sal.jpg "Sal de las © Salinas de Tenefé.")
+![dos botes de sal de las salinas de gran Canaria](https://fotos.etheriamagazine.com/2023/06/gran-canaria-salinas-tenefe-sal.jpg "Sal de las © Salinas de Tenefé.")
 
 ### Hoteles con buenos restaurantes
 
@@ -188,7 +188,7 @@ cierta privacidad puede decantarse por lugares con estilo y tan confortables com
 agua dulce con vistas al mar y en cuyo restaurante se pueden disfrutar frituras y otros 
 platos de pescados capturados en el Atlántico más cercano a las Canarias. 
 
-![La Arrocería en el Perchel Beach Club en Gran Canaria](etheria-images/2023/06/gran-canaria-La-Arrocería-de-Perchel-Beach-Club.jpg "La Arrocería en el © Perchel Beach Club.")
+![La Arrocería en el Perchel Beach Club en Gran Canaria](https://fotos.etheriamagazine.com/2023/06/gran-canaria-La-Arrocería-de-Perchel-Beach-Club.jpg "La Arrocería en el © Perchel Beach Club.")
 
 Este club forma parte de una empresa hotelera con varios establecimientos en la isla. 
 Entre ellos, el [Hotel Cordial Mogán 

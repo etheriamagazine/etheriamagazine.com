@@ -1,7 +1,7 @@
 ---
 title: "Las Hurdes, un paraíso extremeño suspendido en el tiempo"
 date: 2020-07-21
-coverImage: etheria-images/2020/07/las-hurdes-las-Mestas.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 Alejarnos del estrés en busca de la tranquilidad suele ser el objetivo cuando planificamos nuestras vacaciones. Pongamos rumbo a Las Hurdes, un lugar que huye de los estereotipos. También de la prescrita fama que alcanzó tras el controvertido documental de Luis Buñuel 'Tierra sin pan', para asomarnos a estas tierras extremeñas atípicas y emocionantes.
 
-![viaje Extremadura, comarca las hurdes](etheria-images/2020/07/viaje-extremadura-Las-Hurdes-900x675.jpg "Son muchos los ríos que atraviesan la comarca de Las Hurdes. © Yolanda Cardo")
+![viaje Extremadura, comarca las hurdes](https://fotos.etheriamagazine.com/2020/07/viaje-extremadura-Las-Hurdes-900x675.jpg "Son muchos los ríos que atraviesan la comarca de Las Hurdes. © Yolanda Cardo")
 
 La primera sensación que se percibe cuando nos adentramos en el territorio extremeño de 
 **Las Hurdes** es de absoluta extrañeza. Ante un horizonte insólito, nos invade cierta 
@@ -50,7 +50,7 @@ reencontrarse con la naturaleza.
 XIII.](#rutas-reales) 5️⃣ [Piscinas naturales de Las Hurdes](#piscinas-hurdes). 6️⃣ [Pueblos 
 y tradición](#pueblos-hurdes). 7️⃣ [Guía práctica de Las Hurdes](#guia-hurdes). 
 
-![meandro de Melero, Las Hurdes, viaje extremadura](etheria-images/2020/07/las-hurdes-meandro-de-Melero-1-900x629.jpg "El meandro de Melero visto desde el mirador de la Antigua. © Yolanda Cardo")
+![meandro de Melero, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-meandro-de-Melero-1-900x629.jpg "El meandro de Melero visto desde el mirador de la Antigua. © Yolanda Cardo")
 
 ### Meandro de Melero
 
@@ -67,7 +67,7 @@ fluyen. Estas líneas sinuosas esculpidas, por el líquido cincel en la naturale
 muy visibles en Las Hurdes. Las podemos admirar en los meandros de los ríos: **Melero, 
 Malvellido, Ladrillar**… 
 
-![chorro de la Meancera, Las Hurdes, viaje extremadura](etheria-images/2020/07/las-hurdes-chorro-de-la-Meancera.jpg "La impresionante cortina de agua del chorro de la Meancera en el Gasco. © Sabores Hurdanos")
+![chorro de la Meancera, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-chorro-de-la-Meancera.jpg "La impresionante cortina de agua del chorro de la Meancera en el Gasco. © Sabores Hurdanos")
 
 ### Chorro de la Meancera
 
@@ -76,7 +76,7 @@ merece una excursión, especialmente en primavera cuando el caudal se supone má
 abundante. Un espectacular salto de agua de unos 100 metros al que se accede desde el 
 mismo pueblo por un camino transitable. 
 
-![volcan el gasco, Las Hurdes, viaje extremadura](etheria-images/2020/07/las-hurdes-Volcan-de-El-Gasco-1-900x505.jpg "El enigmático Volcán de El Gasco. © Sabores Hurdanos")
+![volcan el gasco, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Volcan-de-El-Gasco-1-900x505.jpg "El enigmático Volcán de El Gasco. © Sabores Hurdanos")
 
 ### Volcán de El Gasco
 
@@ -91,7 +91,7 @@ petroglifos** que bien merecen una excursión. Estas figuras son frecuentes en t
 comarca y podemos observarlos por ejemplo en la Miacera, la Peña del Molde, el Tesito de 
 los Cuchillos, Las Herraduras, el Riscal o en las Erías. 
 
-![Las Hurdes, petroglifos](etheria-images/2020/07/las-hurdes-petroglifos-900x675.jpg "Los petroglifos son muy habituales en la zona. © Yolanda Cardo")
+![Las Hurdes, petroglifos](https://fotos.etheriamagazine.com/2020/07/las-hurdes-petroglifos-900x675.jpg "Los petroglifos son muy habituales en la zona. © Yolanda Cardo")
 
 ## Rutas muy “reales”, las visitas de Alfonso XIII
 
@@ -114,7 +114,7 @@ Fragosa, el Gasco, Casares de las Hurdes (conocido como “el balcón de las Hur
 gracias a sus extraordinarias vistas de la Mancomunidad), Ladrillar y, finalmente, **Las 
 Mestas**. 
 
-![las mestas, Las Hurdes, Etheria magazine](etheria-images/2020/07/las-hurdes-las-Mestas-900x598.jpg "Las Mestas rodeado de naturaleza. © Sabores Hurdanos")
+![las mestas, Las Hurdes, Etheria magazine](https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas-900x598.jpg "Las Mestas rodeado de naturaleza. © Sabores Hurdanos")
 
 Otro, ideal para una larga caminata, es el que comienza en **Riomalo de Arriba** para 
 finalizar tras 8 km de distancia en **Casares de Las Hurdes**. Espléndidos miradores, 
@@ -128,7 +128,7 @@ chapuzón cuando el calor aprieta. Una de las más populares se encuentra en la 
 de Pinofranqueado, conocida como **Charco Morisco**, formada por las aguas del río Los 
 Ángeles. 
 
-![Charco del Chorrituelo, Las Hurdes, viaje extremadura](etheria-images/2020/07/las-hurdes-Charco-del-Chorrituelo-de-Ovejuela-900x506.jpg "Refrescante imagen del Charco del Chorrituelo de Ovejuela. © Sabores Hurdanos")
+![Charco del Chorrituelo, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Charco-del-Chorrituelo-de-Ovejuela-900x506.jpg "Refrescante imagen del Charco del Chorrituelo de Ovejuela. © Sabores Hurdanos")
 
 En la represa que forma el río Ladrillar, en el límite con la provincia de Salamanca, se 
 encuentra el **Charco de la Olla**. Se trata de una zona de baños perfectamente 
@@ -144,7 +144,7 @@ La lista de piscinas naturales es bastante extensa: la de **Caminomorisco, de Ri
 Abajo, la de Horcajo, la de Castillo, la de Azabal**… planifiquen, escojan y no olviden 
 el bañador en sus maletas. 
 
-![Vegas de Coria, piscina natural, Las Hurdes](etheria-images/2020/07/las-hurdes-Piscina-natural-de-Vegas-de-Coria.jpg "Piscina natural de Vegas de Coria, perfecta para mantener la distancia en un atípico verano. © Sabores Hurdanos")
+![Vegas de Coria, piscina natural, Las Hurdes](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Piscina-natural-de-Vegas-de-Coria.jpg "Piscina natural de Vegas de Coria, perfecta para mantener la distancia en un atípico verano. © Sabores Hurdanos")
 
 ## Pueblos y tradiciones
 
@@ -170,7 +170,7 @@ arquitectura de la zona, en la localidad de **El Gasco** se ubica el **Centro de
 Interpretación de la Casa Hurdana,** con didácticas explicaciones de estos sencillos 
 habitáculos de pizarra y mampostería de su tradicional arquitectura negra. 
 
-![El Gasco, Aceitunilla, las hurdes](etheria-images/2020/07/las-hurdes-Callejuelas-de-El-Gasco-1-900x515.jpg "Callejuelas de El Gasco y Aceitunilla. © Sabores Hurdanos")
+![El Gasco, Aceitunilla, las hurdes](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Callejuelas-de-El-Gasco-1-900x515.jpg "Callejuelas de El Gasco y Aceitunilla. © Sabores Hurdanos")
 
 #### Centro de Interpretación del Agua y del Medio Ambiente
 
@@ -194,7 +194,7 @@ dulces tradicionales.
 > peces o sus populares patatas meneás. Una gastronomía que bebe de sus raíces y que 
 > ofrece a sus visitantes mucho más que pan. 
 
-![Las Hurdes, paisajes extremadura](etheria-images/2020/07/las-hurdes-extremadura-900x636.jpg "Los paisajes y colores hurdanos nos sorprenden con su belleza. © Yolanda Cardo")
+![Las Hurdes, paisajes extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-extremadura-900x636.jpg "Los paisajes y colores hurdanos nos sorprenden con su belleza. © Yolanda Cardo")
 
 ### Guía de Las Hurdes | Etheria Magazine
 

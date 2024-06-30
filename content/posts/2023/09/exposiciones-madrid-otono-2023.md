@@ -1,7 +1,7 @@
 ---
 title: "Exposiciones esenciales en Madrid para poner el broche de oro a 2023"
 date: 2023-09-28
-coverImage: etheria-images/2023/09/exposicion-matadero-ultimos-dias-pompeya.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/09/exposicion-matadero-ultimos-dias-pompeya.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
@@ -16,7 +16,7 @@ en Madrid en otoño de 2023 que incluyen grandes figuras del arte como Monet, Pi
 Sorolla o momentos históricos como la Caída del Muro de Berlín. Te van a apetecer al 
 momento. 
 
-![cuadro 'María en la playa de Zarauz' de Sorolla](etheria-images/2023/09/exposicion-sorolla-mapfre-paisaje.jpg "Cuadro incluido en la exposición sobre Sorolla en la © Fundación MAPFRE: 'María en la playa de Zarauz', 1910. Colección particular.")
+![cuadro 'María en la playa de Zarauz' de Sorolla](https://fotos.etheriamagazine.com/2023/09/exposicion-sorolla-mapfre-paisaje.jpg "Cuadro incluido en la exposición sobre Sorolla en la © Fundación MAPFRE: 'María en la playa de Zarauz', 1910. Colección particular.")
 
 En Madrid siempre hay algo que hacer, su vida cultural es tan intensa que es difícil de 
 abarcar tanto para los viajeros como para los propios madrileños. Y el otoño es la 
@@ -48,7 +48,7 @@ trabajos relacionados con el mar como en el ocio en la playa. Incluye cuadros pi
 tanto en su Valencia natal como otros que reflejan las playas de San Sebatián, Zarautz o 
 Biarritz, lugares habituales de veraneo de las clases altas. 
 
-![cuadro de Sorolla Nadadora, Jávea](etheria-images/2023/09/exposicion-sorolla-mapfre-nadadora-javea.jpg "'Nadadora, Jávea', 1905. © Museo Sorolla de Madrid.")
+![cuadro de Sorolla Nadadora, Jávea](https://fotos.etheriamagazine.com/2023/09/exposicion-sorolla-mapfre-nadadora-javea.jpg "'Nadadora, Jávea', 1905. © Museo Sorolla de Madrid.")
 
 **Dónde:** Fundación MAPFRE, Sala Recoletos. Paseo de Recoletos, 23. **Cuándo:** hasta 
 el 7 de enero de 2024. **Horario:** de martes a sábado de 11 a 20 h, lunes de 14 a 20 h 
@@ -67,7 +67,7 @@ Nenúfares_, pintada en Giverny, e incluye obras que el artista pintó en sus vi
 Muchas de las obras expuestas forman parte de su herencia directa y son las que el 
 pintor guardó en su casa familiar de Giverny. 
 
-![Cuadro 'Paseando cerca de Argenteuil', 1875 de Claude Monet incluido en la exposición de CentroCentro](etheria-images/2023/09/exposicion-Monet-centrocentro-Paseando-cerca-de-Argenteuil.jpg "Cuadro 'Paseando cerca de Argenteuil', 1875 de Claude Monet. © Musée Marmottan Monet, Paris.")
+![Cuadro 'Paseando cerca de Argenteuil', 1875 de Claude Monet incluido en la exposición de CentroCentro](https://fotos.etheriamagazine.com/2023/09/exposicion-Monet-centrocentro-Paseando-cerca-de-Argenteuil.jpg "Cuadro 'Paseando cerca de Argenteuil', 1875 de Claude Monet. © Musée Marmottan Monet, Paris.")
 
 **Dónde:** CentroCentro. Plaza de Cibeles, 1. **Cuándo:** hasta el 24 de febrero de 
 2024. **Horario:** de lunes a domingo de 10 a 20 h. **Precio:** 16 Euros (entrada 
@@ -91,7 +91,7 @@ al público caminar e interactuar en Pompeya a través de avatares.
 Y, por último, la **sala de realidad virtual**, la más grande de Europa, donde se viven 
 en primera persona los espectáculos de un anfiteatro romano. 
 
-![Sala de la exposición 'Los últimos días de Pompeya'  en Matadero.](etheria-images/2023/09/exposicion-matadero-ultimos-dias-pompeya.jpg "Sala de la exposición 'Los últimos días de Pompeya' en Matadero. © Madrid Artes Digitales.")
+![Sala de la exposición 'Los últimos días de Pompeya'  en Matadero.](https://fotos.etheriamagazine.com/2023/09/exposicion-matadero-ultimos-dias-pompeya.jpg "Sala de la exposición 'Los últimos días de Pompeya' en Matadero. © Madrid Artes Digitales.")
 
 **Dónde:** MAD Madrid Artes Digitales. Nave 16 del Matadero de Madrid. **Cuándo:** hasta 
 el 14 de enero de 2024. **Horario:** de 10 a 21.45 h (última entrada). **Precio:** 
@@ -109,7 +109,7 @@ momentos importantes en la historia del feminismo desde finales del siglo XVI ha
 principios del siglo XX. Una colección que destaca como ya estas mujeres aportaron 
 nuevas miradas a algunos de los temas más relevantes de su época. 
 
-![Cuadro de la exposición Maestras, 'Judit y su criada', 1618-1619 de Artemisia Gentileschi.](etheria-images/2023/09/thyssen-exposicion-maestra-artemisia.jpg "Cuadro de la exposición Maestras, 'Judit y su criada', 1618-1619 de Artemisia Gentileschi. © Gallerie degli Uffizi.")
+![Cuadro de la exposición Maestras, 'Judit y su criada', 1618-1619 de Artemisia Gentileschi.](https://fotos.etheriamagazine.com/2023/09/thyssen-exposicion-maestra-artemisia.jpg "Cuadro de la exposición Maestras, 'Judit y su criada', 1618-1619 de Artemisia Gentileschi. © Gallerie degli Uffizi.")
 
 **Dónde:** Museo Thyssen-Bornemisza. Paseo del Prado, 8. **Cuándo:** del 31 de octubre 
 de 2023 al 4 de febrero de 2024. **Horario:** de martes a viernes y domingo de 10 a 19 
@@ -131,7 +131,7 @@ importante muestra del archivo de esta prestigiosa editorial; 'Ben Shahn. De la 
 conformidad', con obras de este pintor estadounidense nacido en Lituania; y la dedicada 
 al artista vasco Ibon Aranberri. 
 
-![Cuadro 'Busto de mujer joven', 1906. Pablo Picasso.](etheria-images/2023/09/reina-sofia-exposicion-arte-PICASSO-Busto-de-mujer-joven.jpg "Cuadro 'Busto de mujer joven', 1906. Pablo Picasso. © MNCArte Reina Sofía.")
+![Cuadro 'Busto de mujer joven', 1906. Pablo Picasso.](https://fotos.etheriamagazine.com/2023/09/reina-sofia-exposicion-arte-PICASSO-Busto-de-mujer-joven.jpg "Cuadro 'Busto de mujer joven', 1906. Pablo Picasso. © MNCArte Reina Sofía.")
 
 **Dónde:** Museo Nacional Centro de Arte Reina Sofia. Calle de Santa Isabel, 52. 
 **Cuándo:** del 15 de noviembre al 4 de marzo de 2023. **Horario:** lunes, miércoles, 
@@ -148,7 +148,7 @@ que aportan perspectivas diferentes sobre la obra del artista, incluyendo nuevos
 títulos. Una exposición pensada para mirar de forma activa la obra del genial pintor y 
 cuestionarnos nuestra propia percepción de la misma. 
 
-![Sala de la exposición de La Casa Encendida 'Picasso. Sin Título'.](etheria-images/2023/09/picasso-sin-titulo-La-Casa-Encendida.jpg "Sala de la exposición de © La Casa Encendida 'Picasso. Sin Título'.")
+![Sala de la exposición de La Casa Encendida 'Picasso. Sin Título'.](https://fotos.etheriamagazine.com/2023/09/picasso-sin-titulo-La-Casa-Encendida.jpg "Sala de la exposición de © La Casa Encendida 'Picasso. Sin Título'.")
 
 **Dónde:** La Casa Encendida. Ronda de Valencia, 2. **Cuándo:** hasta el 7 de enero de 
 2024. **Horario:** de martes a sábado de 10 a 21 h y domingos de 10 a 16 h. **Precio:** 
@@ -167,7 +167,7 @@ través de piezas de seis continentes y se estructura en cinco ámbitos temátic
 'Creación y naturaleza', 'Pasión y deseo', 'Magia y maldad', 'Justicia y defensa' y 
 'Compasión y salvación'. 
 
-![Piezas de la exposición Veneradas y Temidas de CaixaForum](etheria-images/2023/09/caixaforum-exposicion-mujeres-poderosas-temidas.jpg "Máscara de baile de Taraka, 1994. Taller de Sri Kajal Datta © The Trustees of the British Museum (2023)/ Cabeza de Atenea. Estrategia y fuerza. © The Trustees of the British Museum.")
+![Piezas de la exposición Veneradas y Temidas de CaixaForum](https://fotos.etheriamagazine.com/2023/09/caixaforum-exposicion-mujeres-poderosas-temidas.jpg "Máscara de baile de Taraka, 1994. Taller de Sri Kajal Datta © The Trustees of the British Museum (2023)/ Cabeza de Atenea. Estrategia y fuerza. © The Trustees of the British Museum.")
 
 **Dónde:** CaixaForum. Paseo del Prado, 36. **Cuándo:** hasta el 14 de enero de 2024. 
 **Horario:** de lunes a domingo de 10 a 20 h. **Precio:** 6 Euros. Gratis para clientes 
@@ -189,7 +189,7 @@ Alba (que desvela los secretos de la etiqueta masculina) y la XVIII duquesa Caye
 como referente de la moda del siglo XX con piezas de diseñadores como Dior, Pertegaz o 
 Balenciaga. 
 
-![Vestido de cóctel de Cayetana Fitz-James Stuart, XVIII duquesa de Alba, de Manuel Pertegaz.](etheria-images/2023/09/exposicion-vestido-casa-alba-pertegaz.jpg "Vestido de cóctel de Cayetana Fitz-James Stuart, XVIII duquesa de Alba, de Manuel Pertegaz. © Fundación Casa de Alba.")
+![Vestido de cóctel de Cayetana Fitz-James Stuart, XVIII duquesa de Alba, de Manuel Pertegaz.](https://fotos.etheriamagazine.com/2023/09/exposicion-vestido-casa-alba-pertegaz.jpg "Vestido de cóctel de Cayetana Fitz-James Stuart, XVIII duquesa de Alba, de Manuel Pertegaz. © Fundación Casa de Alba.")
 
 **Dónde:** Palacio de Liria. Calle Princesa, 20. **Cuándo:** a partir del 19 de octubre 
 de 2023. **Horario:** todos los días de 10 a 13.30 h y de 16 a 19.15 h. **Precio:** 10 
@@ -209,7 +209,7 @@ vida. Para completar la experiencia, el 14 de octubre tendrá lugar un **concier
 Auditorio Nacional de Música**, interpretando por la Orquesta Nacional de España, 
 acompañado de la proyección de imágenes de la exposición. 
 
-![fotografía de Sebastião Salgado de la exposición Amazonia](etheria-images/2023/09/exposicion-amazonia-teatro-fernan-gomez.jpg "India Yawanawá. Estado de Acre. Brasil, 2016. © Sebastião Salgado")
+![fotografía de Sebastião Salgado de la exposición Amazonia](https://fotos.etheriamagazine.com/2023/09/exposicion-amazonia-teatro-fernan-gomez.jpg "India Yawanawá. Estado de Acre. Brasil, 2016. © Sebastião Salgado")
 
 **Dónde:** Centro Cultural de la Villa. Teatro Fernán Gómez. Plaza de Colón, 4. 
 **Cuándo:** hasta el 14 de enero de 2024. **Horario:** de martes a domingo de 10 a 21 h. 
@@ -226,7 +226,7 @@ contexto su creación y desarrollo, además de diferentes vídeos y testimonios.
 exponen objetos relacionados con la caída, con el fin de la Guerra Fría y algunos de los 
 que utilizaron los berlineses para demolerlo. 
 
-!['Berlín, 1989'. Exposición Un Mundo Dividido.](etheria-images/2023/09/fundacion-canal-un-mundo-dividido-fotografia-1989.jpg "'Berlín, 1989'. Exposición El Mundo Dividido de la © Fundación Canal.")
+!['Berlín, 1989'. Exposición Un Mundo Dividido.](https://fotos.etheriamagazine.com/2023/09/fundacion-canal-un-mundo-dividido-fotografia-1989.jpg "'Berlín, 1989'. Exposición El Mundo Dividido de la © Fundación Canal.")
 
 **Dónde:** Sala Castellana 214 de la Fundación Canal. **Cuándo:** sin fecha de 
 finalización. **Horario:** de lunes a domingo de 10 a 20 h (cierre de sala a las 22 h). 
@@ -245,7 +245,7 @@ Dorada, de mediados del XVIII, o el Landó de bronces, de 1829. Una forma de con
 estos vehículos eran parte de la representación del poder monárquico y en los que se 
 pueden apreciar delicados trabajos artesanos. 
 
-![Sala de la exposición En Movimiento de la Galería de las Colecciones Reales.](etheria-images/2023/09/exposicion-En-movimiento-colecciones-reales.jpg "Sala de la exposición En Movimiento de la © Galería de las Colecciones Reales.")
+![Sala de la exposición En Movimiento de la Galería de las Colecciones Reales.](https://fotos.etheriamagazine.com/2023/09/exposicion-En-movimiento-colecciones-reales.jpg "Sala de la exposición En Movimiento de la © Galería de las Colecciones Reales.")
 
 **Dónde:** Galería de las Colecciones Reales. Planta -3. Calle de Bailén, s/n. 
 **Cuándo:** hasta junio de 2024. **Horario:** de lunes a sábado de 10 a 20 h. Domingos y 
@@ -263,7 +263,7 @@ esta exposición se pueden recorrer algunas de sus obras principales, que incluy
 tipo de proyectos, que han sabido conjugar la arquitectura moderna con las tradiciones 
 locales y la circunstancias de cada lugar. 
 
-![obra de Balkrishna Doshi en la exposición de ICO España](etheria-images/2023/09/museo-ico-Doshi-Gufa-exterior.jpg "Balkrishna Doshi en colaboración con M. F. Husain, sala de exposiciones Amdavad ni Gufa, Ahmedabad, 1994 © Iwan Baan 2018.")
+![obra de Balkrishna Doshi en la exposición de ICO España](https://fotos.etheriamagazine.com/2023/09/museo-ico-Doshi-Gufa-exterior.jpg "Balkrishna Doshi en colaboración con M. F. Husain, sala de exposiciones Amdavad ni Gufa, Ahmedabad, 1994 © Iwan Baan 2018.")
 
 **Dónde:** Museo ICO. Calle Zorrilla, 3. **Cuándo:** del 5 de octubre al 14 de enero de 
 2024. **Horario:** de martes a sábado de 11 a 20 h. Domingos y festivos de 10 a 14 h. 

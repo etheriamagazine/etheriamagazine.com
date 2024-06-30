@@ -1,7 +1,7 @@
 ---
 title: "Tacones Viajeros apuesta por balnearios, vinos, playa y montaña"
 date: 2020-06-09
-coverImage: etheria-images/2020/06/grupo-jordania-tacones-viajeros.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/grupo-jordania-tacones-viajeros.jpg
 categories: 
   - historias-en-femenino
 authors: 
@@ -13,7 +13,7 @@ programación para este verano con destinos en territorio nacional, tanto en la 
 como en el interior. En la siguiente entrevista nos cuentan sus próximos viajes, cómo 
 han afrontado estos últimos meses y sus expectativas de futuro. 
 
-![Elma Sesma y Patricia Estévez forman Tacones Viajeros.](etheria-images/2020/06/tacones-viajeros-agencia.jpg "Elma Sesma y Patricia Estévez forman Tacones Viajeros.")
+![Elma Sesma y Patricia Estévez forman Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/tacones-viajeros-agencia.jpg "Elma Sesma y Patricia Estévez forman Tacones Viajeros.")
 
 Los últimos meses han sido duros para la actividad de las agencias de viajes, y 
 especialmente para aquellas con una estructura pequeña como las que se dedican al 
@@ -30,7 +30,7 @@ Elma Sesma, cofundadora de la agencia, nos ha respondido a un serie de preguntas
 la situación que han vivido hasta ahora y cómo afrontan el presente y futuro de los 
 viajes. 
 
-![Grupo de la agencia Tacones Viajeros.](etheria-images/2020/06/agencia-tacones-viajeros-900x998.jpg "Grupo de la agencia Tacones Viajeros.")
+![Grupo de la agencia Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/agencia-tacones-viajeros-900x998.jpg "Grupo de la agencia Tacones Viajeros.")
 
 ## Entrevista de Tacones Viajeros, una agencia de viajes para mujeres
 
@@ -53,7 +53,7 @@ viajeras nos han comunicado que de una forma u otra que cuando volvamos a public
 viajes internacionales, volverán a reservar el destino que tenían previsto. Les 
 agradecemos toda la confianza y paciencia que han tenido ante esta situación. 
 
-![Grupo de Tacones Viajeros en un mirador](etheria-images/2020/06/grupo-viaje-tacones-viajeros.jpg "Grupo de Tacones Viajeros.")
+![Grupo de Tacones Viajeros en un mirador](https://fotos.etheriamagazine.com/2020/06/grupo-viaje-tacones-viajeros.jpg "Grupo de Tacones Viajeros.")
 
 ### 3\. ¿ Eres optimista ante la situación que se presenta ahora?
 
@@ -77,7 +77,7 @@ pagando todos los gastos que una empresa conlleva.
 > Llegar al mismo nivel en el que el turismo estaba antes nos va a llevar tiempo y para 
 > ello se necesita más ayuda y más apoyo por parte del Estado. 
 
-![Grupo en Jordania de Tacones Viajeros.](etheria-images/2020/06/grupo-jordania-tacones-viajeros.jpg "Grupo en Jordania de Tacones Viajeros.")
+![Grupo en Jordania de Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/grupo-jordania-tacones-viajeros.jpg "Grupo en Jordania de Tacones Viajeros.")
 
 ### 5\. ¿Se puede extraer algo que sea positivo de este parón turístico?
 
@@ -98,7 +98,7 @@ balnearios, vinos, playa y montaña.
 > El número de viajeras estará entre 6 y máximo 10, normalmente este es el número de 
 > participantes en todos nuestros viajes. 
 
-![Grupo de Tacones Viajeros.](etheria-images/2020/06/grupo-agencia-tacones-viajeros.jpg "Grupo de Tacones Viajeros.")
+![Grupo de Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/grupo-agencia-tacones-viajeros.jpg "Grupo de Tacones Viajeros.")
 
 ### 7\. ¿Qué destinos ofrecéis para este verano 2020?
 
@@ -121,7 +121,7 @@ internacionales, por el momento ya tenemos cerrado uno de nuestros viajes estrel
 bien, y nos deja el Covid, los destinos propuestos serán **Jordania**, **Egipto**, [India](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/) 
 y **Turquía**. 
 
-![Grupo en Egipto de Tacones Viajeros.](etheria-images/2020/06/grupo-egipto-tacones-viajeros.jpg "Grupo en Egipto de Tacones Viajeros.")
+![Grupo en Egipto de Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/grupo-egipto-tacones-viajeros.jpg "Grupo en Egipto de Tacones Viajeros.")
 
 ### 9\. ¿Alterará esta pandemia nuestro modo de viajar?
 

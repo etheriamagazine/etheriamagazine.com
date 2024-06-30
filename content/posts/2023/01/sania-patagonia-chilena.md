@@ -1,7 +1,7 @@
 ---
 title: "Sania en Patagonia (parte 3): todo va lento, menos el viento"
 date: 2023-01-24
-coverImage: etheria-images/2023/01/sania-torres-paine.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/01/sania-torres-paine.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -14,7 +14,7 @@ mercancías que ocasionalmente transporta pasajeros. Después, llega a Puerto Na
 adentrarse en el maravilloso Parque Nacional de Torres del Paine. Unos días determinados 
 por los paisajes grandiosos y el siempre presente viento. 
 
-![Sania con un pingüino en Puerto Natales.](etheria-images/2023/01/sania-puerto-natales-pinguino.jpg "Sania en Puerto Natales. © SJ")
+![Sania con un pingüino en Puerto Natales.](https://fotos.etheriamagazine.com/2023/01/sania-puerto-natales-pinguino.jpg "Sania en Puerto Natales. © SJ")
 
 Viento… luego más viento… y del que se lleva todo. La gorra, la mochila, los bastones. 
 Un viento que obliga a arrodillarse. De cogerse de las manos de los compañeros del viaje 
@@ -38,7 +38,7 @@ continua y cuidada. La atención al pasaje ejemplar. No se vende ni se permite c
 alcohol a bordo (es una larga historia …. pero pasaron ‘cosas’ y decidieron prohibir el 
 alcohol para evitar accidentes en el futuro). 
 
-![Barco en la Patagonia chilena](etheria-images/2023/01/Sania-Navimag-fiordos.jpg "Barco de © Navimag por los fiordos chilenos.")
+![Barco en la Patagonia chilena](https://fotos.etheriamagazine.com/2023/01/Sania-Navimag-fiordos.jpg "Barco de © Navimag por los fiordos chilenos.")
 
 ### La importancia del capitán
 
@@ -60,7 +60,7 @@ hemos tenido lluvia y nubes; momentos soleados, momentos de rachas de viento y m
 de calma absoluta; momentos de adrenalina (“¡ballenas a proa!”); y momentos de seriedad 
 (“el viento es fuerte y no se puede salir al exterior”). 
 
-![Paisajes desde el barco de Navimag.](etheria-images/2023/01/Sania-travesia-navimag.jpg "Paisajes desde el barco de Navimag. © SJ")
+![Paisajes desde el barco de Navimag.](https://fotos.etheriamagazine.com/2023/01/Sania-travesia-navimag.jpg "Paisajes desde el barco de Navimag. © SJ")
 
 ### La ruta de Navimag
 
@@ -90,7 +90,7 @@ conversaciones y encuentros. Para escuchar las vidas de otras personas y consejo
 viaje para las siguientes etapas. Cada cual elegía cómo y con quién iba a pasar el 
 tiempo. Leyendo, mirando al mar, jugando a las cartas o a otros juegos... 
 
-![Sania en el crucero de Navimag por los fiordos](etheria-images/2023/01/sania-navimag-navegacion.jpg "Durante un viaje en barco por los fiordos conviven las nubes con los momentos soleados.")
+![Sania en el crucero de Navimag por los fiordos](https://fotos.etheriamagazine.com/2023/01/sania-navimag-navegacion.jpg "Durante un viaje en barco por los fiordos conviven las nubes con los momentos soleados.")
 
 Aprendí del trabajo sobre el terreno de ONGs en Polinesia, de estudios de la cultura 
 maorí en Nueva Zelanda, del sistema de becas en Cuba, de la sanidad pública en Hawaii, 
@@ -119,7 +119,7 @@ nacional, fue declarado Reserva de la Biosfera por la UNESCO en 1978. Una monta�
 torres de más de 3.000 metros de altura y piedra azul considerada la octava maravilla 
 del mundo. 
 
-![Parque Nacional de Torres del Paine.](etheria-images/2023/01/sania-torres-paine.jpg "Parque Nacional de Torres del Paine. © SJ")
+![Parque Nacional de Torres del Paine.](https://fotos.etheriamagazine.com/2023/01/sania-torres-paine.jpg "Parque Nacional de Torres del Paine. © SJ")
 
 El pueblo más cercano es **Puerto Natales**, a unos 140 kilómetros (unas 2 horas de 
 autobús) de la entrada principal. Las carreteras en el parque son de gravilla. Se hacen 
@@ -143,7 +143,7 @@ velocidad que el viento: “¿Es posible que sea tan fuerte? ¿Cómo saldré de 
 puedo refugiarme si se pone más feo? ¿Cómo llego a ese escondite? ¿Tengo lo que necesito 
 para sobrevivir hasta que llegue algún tipo de ayuda?” Una experiencia nueva e intensa. 
 
-![Sania en Torres del Paine](etheria-images/2023/01/sania-torres-del-paine-viento.jpg "El fuerte viento te acompaña durante el verano austral en Torres del Paine.")
+![Sania en Torres del Paine](https://fotos.etheriamagazine.com/2023/01/sania-torres-del-paine-viento.jpg "El fuerte viento te acompaña durante el verano austral en Torres del Paine.")
 
 ### Puerto Natales
 
@@ -168,7 +168,7 @@ para poder caminar cuando sopla fuerte el viento.
 
 • No hay que perderse el Monumento al viento (2012). 
 
-![Contadores eléctricos camuflados.](etheria-images/2023/01/sania-puerto-natales-casetas-luz.jpg "Contadores eléctricos camuflados. © SJ")
+![Contadores eléctricos camuflados.](https://fotos.etheriamagazine.com/2023/01/sania-puerto-natales-casetas-luz.jpg "Contadores eléctricos camuflados. © SJ")
 
 ### Los desayunos de Juan Laso
 
@@ -184,7 +184,7 @@ Cuando cogí el plato y al final el huevo y le di un golpe… ¡me di cuenta de 
 huevo crudo! Lidia, que trabaja ahí, ¡me miro con cara de pena y dijo que era la octava 
 persona de la mañana que rompía el huevo crudo pensado que era un huevo cocido! 
 
-![mesa de desayuno en Puerto Natales](etheria-images/2023/01/sania-desayunos-juan-laso.jpg "Desayunos del hostal El Sendero. © SJ")
+![mesa de desayuno en Puerto Natales](https://fotos.etheriamagazine.com/2023/01/sania-desayunos-juan-laso.jpg "Desayunos del hostal El Sendero. © SJ")
 
 Mas allá del sentido de humor de Juan, es una idea brillante. Mucho más sencillo que 
 jamón y queso que precisa nevera, etc. Cada cual se puede hacer su huevo frito o 

@@ -1,7 +1,7 @@
 ---
 title: "Por qué viajar sola a La Habana, visitas y recomendaciones"
 date: 2019-08-16
-coverImage: etheria-images/2019/07/La-Habana-Vieja-calle.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/La-Habana-Vieja-calle.jpg
 categories: 
   - viajes-urbanos
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ otro destino, pero esa "soledad" es perfecta para descubrir La Habana. Esta viej
 que ya ha cumplido cinco siglos de vida, es la cómplice perfecta para una escapada en 
 clave cultural. Sigue leyendo para saber por qué es buena idea viajar sola a La Habana. 
 
-![Busto de bronce en honor al Premio Nobel Ernest Hemingway, en El Floridita.](etheria-images/2019/07/La-Habana-Floridita-Hemingway.jpg "Busto de bronce en honor al Premio Nobel Ernest Hemingway, en El Floridita. © Manena Munar")
+![Busto de bronce en honor al Premio Nobel Ernest Hemingway, en El Floridita.](https://fotos.etheriamagazine.com/2019/07/La-Habana-Floridita-Hemingway.jpg "Busto de bronce en honor al Premio Nobel Ernest Hemingway, en El Floridita. © Manena Munar")
 
 Desde que fuera fundada, oficialmente el 16 de noviembre de 1519, la **Villa de San 
 Cristóbal de La Habana** por Diego Velázquez de Cuéllar, a la sombra de una ceiba (árbol 
@@ -38,7 +38,7 @@ en barcos de corsarios y piratas. Entre los unos y los otros llegaron los esclav
 negros extirpados de su África natal, a los que, una vez abolida la esclavitud, se 
 unieron los chinos solicitados para trabajar en los campos de algodón. 
 
-![Anciana de La Habana fumando un puro](etheria-images/2019/07/La-Habana-personajes.jpg "Por las calles de La Habana se encuentran personajes entrañables de diferentes credos, profesiones y edades. © Manena Munar")
+![Anciana de La Habana fumando un puro](https://fotos.etheriamagazine.com/2019/07/La-Habana-personajes.jpg "Por las calles de La Habana se encuentran personajes entrañables de diferentes credos, profesiones y edades. © Manena Munar")
 
 ### 2\. Recorre la Habana Vieja
 
@@ -66,7 +66,7 @@ vendedora de cucuruchos de cacahuetes o de plátano frito. En medio del bulevar,
 'chavalitas' vestidas de faralaes bailan sevillanas, muy cerca del Centro Andaluz de La 
 Habana. 
 
-![La plaza de la Catedral, una de las cinco de La Habana Vieja.](etheria-images/2019/07/La-Habana-Plaza-Catedral.jpg "La plaza de la Catedral, una de las cinco de La Habana Vieja. © Manena Munar")
+![La plaza de la Catedral, una de las cinco de La Habana Vieja.](https://fotos.etheriamagazine.com/2019/07/La-Habana-Plaza-Catedral.jpg "La plaza de la Catedral, una de las cinco de La Habana Vieja. © Manena Munar")
 
 #### Un café en el hotel Inglaterra
 
@@ -79,7 +79,7 @@ Whasington D.C. para albergar la Cámara del Congreso de la República de Cuba. 
 exhaustiva restauración iniciada en 2010 ha reabierto algunas de sus salas como la del 
 Himno y la Constitución o la de los Símbolos Patrios. 
 
-![Gran Teatro de La Habana Alicia Alonso.](etheria-images/2019/07/La-Habana-teatro-nacional.jpg "Gran Teatro de La Habana Alicia Alonso.")
+![Gran Teatro de La Habana Alicia Alonso.](https://fotos.etheriamagazine.com/2019/07/La-Habana-teatro-nacional.jpg "Gran Teatro de La Habana Alicia Alonso.")
 
 ### 3\. Observa el Caballero de París
 
@@ -92,7 +92,7 @@ grácil era su conversación que el entrañable personaje ha sido fuente de insp
 para escritores, cineastas y hasta para su médico, el doctor Luis Calzadilla Fierro, que 
 escribió el libro _Yo soy el Caballero de París_ sobre sus andanzas. 
 
-![Calle de la Habana Vieja.](etheria-images/2019/07/La-Habana-Vieja-calle.jpg "Calle de la Habana Vieja. © Alexander Kunze")
+![Calle de la Habana Vieja.](https://fotos.etheriamagazine.com/2019/07/La-Habana-Vieja-calle.jpg "Calle de la Habana Vieja. © Alexander Kunze")
 
 ### 4\. No rehuyas una buena conversación
 
@@ -118,7 +118,7 @@ el **barrio de Guanabacoa**, donde vive la santería, en su camino al parque de
 Almendares, lugar sagrado para los que profesan el sincretismo católico con la religión 
 afrocubana yoruba de los santeros. 
 
-!["Almendrón" en La Habana, frente al Floridita.](etheria-images/2019/07/La-Habana-coche.jpg ""Almendrón" en La Habana, frente al Floridita. © David Braud")
+!["Almendrón" en La Habana, frente al Floridita.](https://fotos.etheriamagazine.com/2019/07/La-Habana-coche.jpg ""Almendrón" en La Habana, frente al Floridita. © David Braud")
 
 ? Un clásico de la calle habanera es la reunión de hombres arreglando un **almendrón** 
 con piezas de aquí de allá, mimándolo con la misma pasión que harían con sus gallos de 
@@ -134,7 +134,7 @@ acuden aquí para brindar a su salud. En esa misma barra el Premio Nobel de Lite
 alzó la copa con Spencer Tracy, Ava Gardner, Errol Flynn y otras muchas celebridades que 
 probablemente se alojarían en el mítico **Hotel Nacional de Cuba**. 
 
-![El Floridita, donde la gente entra a brindar con el mojito que tanto le gustaba a Hemingway.](etheria-images/2019/07/La-Habana-La-Floridita.jpg "El Floridita, donde la gente entra a brindar con el mojito que tanto le gustaba a Hemingway. © Manena Munar")
+![El Floridita, donde la gente entra a brindar con el mojito que tanto le gustaba a Hemingway.](https://fotos.etheriamagazine.com/2019/07/La-Habana-La-Floridita.jpg "El Floridita, donde la gente entra a brindar con el mojito que tanto le gustaba a Hemingway. © Manena Munar")
 
 Más que un hotel, el Nacional es la historia de Cuba condensada en sus salones y 
 jardines, dominando el malecón desde la loma de Taganana. Este año, el inmenso rótulo de 
@@ -145,7 +145,7 @@ y gobierno que pasearon por sus estancias y disfrutaron de su coctelería y gast
 al son de Compay Segundo y Buena Vista Social Club, en el Bar 1930, hoy dedicado a su 
 memoria, donde siguen tocando sus sucesores. 
 
-![Hotel Nacional de Cuba.](etheria-images/2019/07/La-Habana-hotel-Nacional.jpg "Hotel Nacional de Cuba. © Manena Munar")
+![Hotel Nacional de Cuba.](https://fotos.etheriamagazine.com/2019/07/La-Habana-hotel-Nacional.jpg "Hotel Nacional de Cuba. © Manena Munar")
 
 ### 6\. Escucha los cañonazos a las 9 de la noche
 
@@ -159,7 +159,7 @@ cubanos ‘mameyes’. Al anochecer, debido a la colorida vestimenta se hacían 
 la oscuridad. De ahí que al sonar el cañonazo cada noche deviniera en el gráfico 
 apelativo. 
 
-![Desde el cañón de la fortaleza La Cabaña en la "hora de los mameyes” se lanza un cañonazo.](etheria-images/2019/07/La-Habana-fortaleza-la-Cabana.jpg "Desde el cañón de la fortaleza La Cabaña en la "hora de los mameyes” se lanza un cañonazo. © Manena Munar")
+![Desde el cañón de la fortaleza La Cabaña en la "hora de los mameyes” se lanza un cañonazo.](https://fotos.etheriamagazine.com/2019/07/La-Habana-fortaleza-la-Cabana.jpg "Desde el cañón de la fortaleza La Cabaña en la "hora de los mameyes” se lanza un cañonazo. © Manena Munar")
 
 Momento, por otro lado, de serpentear entre las sorprendentes callejuelas habaneras 
 hasta dar con el palacete venido a menos donde se encuentra el **Paladar La Guarida**, 
@@ -179,7 +179,7 @@ el ocaso, patinar, charlar y bailar. Desde allí se avista del Morro y asoma la 
 Real Fuerza, todavía a la espera del regreso de su marido, Don Hernando de Soto, que 
 descubrió el río Mississippi de donde nunca volvió. 
 
-![El Malecón al atardecer.](etheria-images/2019/07/la-habana-malecon.jpg "El Malecón al atardecer. © Raúl Cacho")
+![El Malecón al atardecer.](https://fotos.etheriamagazine.com/2019/07/la-habana-malecon.jpg "El Malecón al atardecer. © Raúl Cacho")
 
 Se pasa por la antigua **embajada estadounidense**, rodeada por mástiles, fantasmas de 
 antiguas banderas ondeantes, recuerdo de otras eras, hasta llegar al **hotel Riviera**, 
@@ -206,7 +206,7 @@ espectaculares bóvedas y esculturas de algunos mausoleos, como aquel levantado 
 acoger a los Bomberos de la Habana o el Pabellón de Asturias, se recogen las tumbas de 
 políticos, artistas, truhanes, benditos y hasta de gente normal. 
 
-![Barrio Chino de La Habana.](etheria-images/2019/07/La-Habana-barrio-chino.jpg "Barrio Chino de La Habana. © Louis Renaudineau")
+![Barrio Chino de La Habana.](https://fotos.etheriamagazine.com/2019/07/La-Habana-barrio-chino.jpg "Barrio Chino de La Habana. © Louis Renaudineau")
 
 ### 9\. Sorpréndete con el lujo de la Quinta Avenida
 

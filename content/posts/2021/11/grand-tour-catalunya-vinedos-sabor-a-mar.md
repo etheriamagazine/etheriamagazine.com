@@ -1,7 +1,7 @@
 ---
 title: "Viñedos con sabor a mar, primer tramo del Grand Tour de Cataluña"
 date: 2021-11-12
-coverImage: etheria-images/2021/11/bici-grand-tour-catalunya.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/bici-grand-tour-catalunya.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ poco transitados tiene un nombre: Grand Tour de Cataluña. Entre los cinco tramo
 que se divide esta ruta en coche hemos elegido el primero: "Viñedos con sabor a mar", 
 que incluye cultura, gastronomía, arte y deportes activos. 
 
-![abadia montserrat](etheria-images/2021/11/abadia-montserrat.jpg "Entorno de la abadía de Montserrat. © PG")
+![abadia montserrat](https://fotos.etheriamagazine.com/2021/11/abadia-montserrat.jpg "Entorno de la abadía de Montserrat. © PG")
 
 Descubrir los secretos de Cataluña por carreteras secundarias disfrutando de una 
 conducción pausada, de buena música y mejor compañía ya tiene nombre, se llama "**Grand 
@@ -31,7 +31,7 @@ pinceladas activas. El punto de partida será Barcelona, y desde ahí conectarem
 espiritualidad de Montserrat, caminaremos entre pueblos como Solsona y Cardona, 
 saborearemos los vinos del Penedès y terminaremos en Sitges, con vistas al mar. 
 
-![museo de montserrat grand tour de cataluna](etheria-images/2021/11/museo-monasterio-montserrat.jpg "Museo de Montserrat. © PG")
+![museo de montserrat grand tour de cataluna](https://fotos.etheriamagazine.com/2021/11/museo-monasterio-montserrat.jpg "Museo de Montserrat. © PG")
 
 ## De Barcelona al santuario de Montserrat
 
@@ -51,7 +51,7 @@ Montserrat, donde la naturaleza ha esculpido perfiles montañosos hipnóticos qu
 atrapan los mires desde donde los mires. Recorre todo el conjunto con calma, sintiéndote 
 parte del mismo. 
 
-![santuario de montserrat grand tour de cataluna](etheria-images/2021/11/santuario-montserrat.jpg "Entrada de la basílica de Montserrat. © PG")
+![santuario de montserrat grand tour de cataluna](https://fotos.etheriamagazine.com/2021/11/santuario-montserrat.jpg "Entrada de la basílica de Montserrat. © PG")
 
 ### Más que un santuario
 
@@ -64,7 +64,7 @@ altas, donde se sitúa la ermita de San Juan y la Santa Cueva donde apareció la
 Alrededor de la abadía hay hoteles y restaurantes, por lo que incluso puedes hacer noche 
 aquí si quieres disfrutar de un impactante amanecer. 
 
-![solsona grand tour de cataluna](etheria-images/2021/11/solsona-cataluna.jpg "Calles de Solsona. © PG")
+![solsona grand tour de cataluna](https://fotos.etheriamagazine.com/2021/11/solsona-cataluna.jpg "Calles de Solsona. © PG")
 
 ## Las bellezas de Solsona  
 
@@ -91,7 +91,7 @@ XV) repartidas por la ciudad y la **poza de hielo**. En la poza, que tiene plant
 circular y una cúpula, se almacenaba entre los siglos XVII al XIX el hielo para luego 
 venderlo a los vecinos. 
 
-![hotel sant roc y gigantes solsona](etheria-images/2021/11/solsona-grand-tour-cataluna.jpg "Detalle de la fachada del hotel Sant Roc y gigantes de Solsona. © PG")
+![hotel sant roc y gigantes solsona](https://fotos.etheriamagazine.com/2021/11/solsona-grand-tour-cataluna.jpg "Detalle de la fachada del hotel Sant Roc y gigantes de Solsona. © PG")
 
 ### Una ciudad de gigantes
 
@@ -103,7 +103,7 @@ construido en 1929 por el arquitecto Bernardí Martorell, es un digno representa
 estilo modernista. Acércate para ver al menos su fachada pero si te alojas y/o comes en 
 su magnífico restaurante, aún mejor. 
 
-![vista cardona desde castillo](etheria-images/2021/11/cardona.jpg "Vista de Cardona desde el castillo. © PG")
+![vista cardona desde castillo](https://fotos.etheriamagazine.com/2021/11/cardona.jpg "Vista de Cardona desde el castillo. © PG")
 
 ## Cardona, entre sales y castillos
 
@@ -121,7 +121,7 @@ buen número de piezas realizadas con este material. Un dato curioso es que ya P
 Viejo, Aulus Gellius y Catón dejaron testimonio escrito de la montaña de sal de Cardona 
 en los siglos I y II d.C. 
 
-![fortaleza cardona grand tour cataluna](etheria-images/2021/11/castillo-cardona.jpg "Interior de la fortaleza de Cardona. © PG")
+![fortaleza cardona grand tour cataluna](https://fotos.etheriamagazine.com/2021/11/castillo-cardona.jpg "Interior de la fortaleza de Cardona. © PG")
 
 Hemos dejado para el final el gran castillo de Cardona, que preside desde un altozano 
 todo el entorno y brinda las mejores panorámicas de la localidad. Aunque fue construido 
@@ -132,7 +132,7 @@ Minyona** para conservar las vistas el máximo tiempo en tu retina. Tampoco olvi
 decirte que puedes comer y/o dormir en esta fortaleza como una auténtica reina porque 
 allí se sitúa el Parador de Cardona. 
 
-![bodega Waltraud grand tour cataluna](etheria-images/2021/11/torres-bodega-Waltraud.jpg "Bodega Waltraud de la familia Torres. © PG")
+![bodega Waltraud grand tour cataluna](https://fotos.etheriamagazine.com/2021/11/torres-bodega-Waltraud.jpg "Bodega Waltraud de la familia Torres. © PG")
 
 ## Descubre los secretos del vino
 
@@ -154,7 +154,7 @@ luces. La experiencia termina con una cata de tres o cuatro vinos. Y como recuer
 sugerimos comprar una botella de **Esplendor** de Vardon Kennett, un vino espumoso del 
 Penedès con el que quedarás de cine en cualquier ocasión. 
 
-![sitges grand tour de cataluna](etheria-images/2021/11/sitges-etheria-magazine.jpg "Sitges, una de las paradas del Grand Tour de Cataluña. © PG")
+![sitges grand tour de cataluna](https://fotos.etheriamagazine.com/2021/11/sitges-etheria-magazine.jpg "Sitges, una de las paradas del Grand Tour de Cataluña. © PG")
 
 ## Sitges, del mar a los viñedos
 
@@ -167,7 +167,7 @@ enamorándote de la arquitectura modernista visitando el **Palacio de Maricel**,
 el **Museo Romántico de Can Llopis** y admira algunas de las casas singulares del núcleo 
 histórico. 
 
-![restaurante vivero beach sitges](etheria-images/2021/11/sitges-restaurante-vivero.jpg "Calles de Sitges y restaurante Vivero. © PG")
+![restaurante vivero beach sitges](https://fotos.etheriamagazine.com/2021/11/sitges-restaurante-vivero.jpg "Calles de Sitges y restaurante Vivero. © PG")
 
 ### A comer y pedalear todo es empezar
 
@@ -183,7 +183,7 @@ llegar a Sant Pere de Ribes disfrutando de las vistas y de los bosques circundan
 necesitas alquilar bicicleta (también las hay eléctricas) o apuntarte a una ruta guiada, 
 acude a **Kili Cycling Tours** porque ellos se encargarán de todo. 
 
-![ruta ciclista sitges](etheria-images/2021/11/ruta-ciclista-sitges.jpg "Ruta ciclista por el entorno de Sitges. © PG")
+![ruta ciclista sitges](https://fotos.etheriamagazine.com/2021/11/ruta-ciclista-sitges.jpg "Ruta ciclista por el entorno de Sitges. © PG")
 
 ## Fin de etapa... pero el viaje continúa
 

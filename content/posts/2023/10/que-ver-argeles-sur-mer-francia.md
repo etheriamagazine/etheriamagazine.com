@@ -1,7 +1,7 @@
 ---
 title: "Argelès-sur-Mer, 9 experiencias para enamorarte de esta comuna francesa"
 date: 2023-10-04
-coverImage: etheria-images/2023/10/centro-argeles-sur-mer.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/10/centro-argeles-sur-mer.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ Paisajes costeros bellísimos, bosques que se asoman al mar, mucho arte y las hu
 un pasado compartido son algunos de los planes que nos ofrece Argelès-sur-Mer, una 
 pintoresca comuna francesa de los Pirineos Orientales y fronteriza con España. 
 
-![Mural de Niko Inko y Jean Rooble.](etheria-images/2023/10/Argeles-sur-Mer-Mural-Niko-inko-Jean-Rooble.jpg "Mural de Niko Inko y Jean Rooble, en Argelès-sur-Mer. © Yolanda Cardo")
+![Mural de Niko Inko y Jean Rooble.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Mural-Niko-inko-Jean-Rooble.jpg "Mural de Niko Inko y Jean Rooble, en Argelès-sur-Mer. © Yolanda Cardo")
 
 A los pies del macizo de la Albera se despliega un hermoso territorio donde las cimas 
 pirenaicas descienden para sumergirse en el Mediterráneo. Es precisamente en esa 
@@ -46,7 +46,7 @@ Observamos otro nexo en la doble nomenclatura de algunas de sus calles, como por
 la rue de la Fraternité es también el carrer del Forn; la rue de la Paix, el carrer de 
 la Mar o el impasse (callejón) de l’Avenir, el Carreró. 
 
-![Una tranquila calle del centro de Argelès-sur-Mer.](etheria-images/2023/10/centro-argeles-sur-mer-850x567.jpg "Una tranquila calle del centro de Argelès-sur-Mer. © Yolanda Cardo")
+![Una tranquila calle del centro de Argelès-sur-Mer.](https://fotos.etheriamagazine.com/2023/10/centro-argeles-sur-mer-850x567.jpg "Una tranquila calle del centro de Argelès-sur-Mer. © Yolanda Cardo")
 
 El bullicio callejero contrasta con el sosiego del interior de la **iglesia de 
 Notre-Dame dels Prats**, un vetusto templo del siglo XIV cuyo campanario es uno de los 
@@ -76,7 +76,7 @@ republicanos españoles en el bulevar del Mar, justo en el punto donde se situab
 entrada sur del campo, y el llamado “Cementerio de los españoles”, en la avenida de la 
 Retirada, completan esta **Ruta de la Memoria**. 
 
-![El Museo del Memorial es una visita imprescindible.](etheria-images/2023/10/Argeles-sur-Mer-Museo-Memorial-850x566.jpg "El Museo del Memorial es una visita imprescindible. © Yolanda Cardo")
+![El Museo del Memorial es una visita imprescindible.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Museo-Memorial-850x566.jpg "El Museo del Memorial es una visita imprescindible. © Yolanda Cardo")
 
 ### 3\. Arte urbano y reciclado
 
@@ -90,7 +90,7 @@ extiende hasta el paseo marítimo donde se celebra, hasta diciembre de 2023, la 
 edición de **_Recyclart_**. Un proyecto que permite a varios artistas franceses plasmar 
 sus obras, inspiradas en la protección del medio ambiente, en paneles reciclados. 
 
-![Recycl'Art en el paseo marítimo de Argelès-sur-Mer.](etheria-images/2023/10/Recyclart-paseo-maritimo-Argeles-sur-Mer.jpg "Recycl'Art en el paseo marítimo de Argelès-sur-Mer. © Yolanda Cardo")
+![Recycl'Art en el paseo marítimo de Argelès-sur-Mer.](https://fotos.etheriamagazine.com/2023/10/Recyclart-paseo-maritimo-Argeles-sur-Mer.jpg "Recycl'Art en el paseo marítimo de Argelès-sur-Mer. © Yolanda Cardo")
 
 ### 4\. Desconectar en la Reserva de Mas Larrieu
 
@@ -104,7 +104,7 @@ especies de animales y plantas habitan esta área de gran valor ecológico. Exis
 **rutas ecoturísticas**, a pie o en bicicleta, para conocer a fondo la naturaleza de la 
 zona mientras disfrutamos de un paraje excepcional. 
 
-![La playa salvaje de la Reserva Natural Nacional Mas Larrieu.](etheria-images/2023/10/Argeles-sur-Mer-playa-Reserva-Natural-Mas-Larrieu-850x567.jpg "La playa salvaje de la Reserva Natural Nacional Mas Larrieu. © Yolanda Cardo")
+![La playa salvaje de la Reserva Natural Nacional Mas Larrieu.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-playa-Reserva-Natural-Mas-Larrieu-850x567.jpg "La playa salvaje de la Reserva Natural Nacional Mas Larrieu. © Yolanda Cardo")
 
 ### 5\. El sendero del litoral
 
@@ -120,7 +120,7 @@ de la oficina de turismo, “los jardines naturales de la región”. Lo aconsej
 la ruta en varias etapas y una de las más accesibles parte precisamente desde Le Racou, 
 uno de los rincones más encantadores de la población. 
 
-![El sendero del litoral junto a la costa nos deja miradores excepcionales.](etheria-images/2023/10/Argeles-sur-Mer-sendero-litoral-850x567.jpg "El sendero del litoral junto a la costa nos deja miradores excepcionales. © Yolanda Cardo")
+![El sendero del litoral junto a la costa nos deja miradores excepcionales.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-sendero-litoral-850x567.jpg "El sendero del litoral junto a la costa nos deja miradores excepcionales. © Yolanda Cardo")
 
 ### 6\. Barrio de Le Racou
 
@@ -131,7 +131,7 @@ identidad de un coqueto rincón cuyos habitantes decretaron su independencia en 
 60. Aunque, como era de esperar, la “Comuna libre del Racou” nunca fue reconocida, lo 
 que sí ha conseguido la pequeña barriada es mantener su autenticidad. 
 
-![Le Racou, un oasis de tranquilidad.](etheria-images/2023/10/Argeles-sur-Mer-Le-Racou-850x567.jpg "Le Racou, un oasis de tranquilidad. © Yolanda Cardo")
+![Le Racou, un oasis de tranquilidad.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Le-Racou-850x567.jpg "Le Racou, un oasis de tranquilidad. © Yolanda Cardo")
 
 ### 7\. Los dominios del Château de Valmy
 
@@ -144,7 +144,7 @@ día su reputación se mantiene intacta y desde hace unos años también es posi
 en el castillo, disfrutar de una cata o de la gastronomía local en su restaurante _La 
 Table de Valmy_ y pasear por sus bellos jardines abiertos al público. 
 
-![El château de Valmy rodeado de viñedos](etheria-images/2023/10/Argeles-sur-Mer-Chateau-Valmy-850x567.jpg "El château de Valmy rodeado de viñedos. © Yolanda Cardo")
+![El château de Valmy rodeado de viñedos](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Chateau-Valmy-850x567.jpg "El château de Valmy rodeado de viñedos. © Yolanda Cardo")
 
 ### 8\. Un paseo en barco
 
@@ -157,7 +157,7 @@ destino desde otra perspectiva. Los billetes se pueden adquirir en el mismo puer
 desde su página web y los precios oscilan entre los 24€ para adultos y los 18 para niños 
 de 3 a 11 años. 
 
-![Colorido puerto de Port-Vendres.](etheria-images/2023/10/Argeles-sur-Mer-Port-Vendres-850x567.jpg "Colorido puerto de Port-Vendres. © Yolanda Cardo")
+![Colorido puerto de Port-Vendres.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Port-Vendres-850x567.jpg "Colorido puerto de Port-Vendres. © Yolanda Cardo")
 
 ### 9\. Saborear el territorio: aceite, licores y vino
 
@@ -170,7 +170,7 @@ hectáreas con magníficas vistas al mar, donde **Gildas Girodeau** elabora dist
 tipos de aceite de gran calidad y productos derivados de las aceitunas cómo olivadas o 
 confituras. 
 
-![Frédéric Bey, propietario de La Mer Blanche y sus deliciosos licores.](etheria-images/2023/10/Argeles-sur-Mer-Frederic-Bey-La-Mer-Blanche-850x395.jpg "Frédéric Bey, propietario de La Mer Blanche y sus deliciosos licores. © Yolanda Cardo")
+![Frédéric Bey, propietario de La Mer Blanche y sus deliciosos licores.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Frederic-Bey-La-Mer-Blanche-850x395.jpg "Frédéric Bey, propietario de La Mer Blanche y sus deliciosos licores. © Yolanda Cardo")
 
 Acompañados por Frédéric Bey, propietario de la finca **La Mer Blanche** 
 (la-mer-blanche.fr), y su simpático perro Tonga recorremos la granja orgánica donde 
@@ -183,7 +183,7 @@ regentada por Pierre-Jean y su esposa donde podréis adquirir frutas y verduras 
 temporada y probar los diferentes vinos que produce: tintos, blancos, rosados y también 
 los vinos dulces naturales muy típicos de la región. 
 
-![La vecina localidad de Colliure.](etheria-images/2023/10/Argeles-sur-Mer-Colliure-850x567.jpg "La vecina localidad de Colliure. © Yolanda Cardo")
+![La vecina localidad de Colliure.](https://fotos.etheriamagazine.com/2023/10/Argeles-sur-Mer-Colliure-850x567.jpg "La vecina localidad de Colliure. © Yolanda Cardo")
 
 ## Guía práctica Etheria Magazine
 

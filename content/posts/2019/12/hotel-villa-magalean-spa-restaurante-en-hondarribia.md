@@ -1,7 +1,7 @@
 ---
 title: "Hotel Villa Magalean, el abrazo de Hondarribia"
 date: 2019-12-03
-coverImage: etheria-images/2019/11/hotel-magalean-recepcion.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/11/hotel-magalean-recepcion.jpg
 categories: 
   - viajes-con-amigas
   - organiza-tu-viaje
@@ -16,7 +16,7 @@ Magalean. Detrás de esa paz y serenidad que transmiten sus espacios están dos 
 profesionales: Caroline Brousse, propietaria, y Susana Cardarelli, directora. Si eres 
 amante del buen gusto y los detalles, éste es tu alojamiento en Hondarribia. 
 
-![hotel magalean, hotel hondarribia, rusticae](etheria-images/2019/11/hotel-magalean-recepcion-900x601.jpg "Hotel Villa Magalean (Hondarribia).")
+![hotel magalean, hotel hondarribia, rusticae](https://fotos.etheriamagazine.com/2019/11/hotel-magalean-recepcion-900x601.jpg "Hotel Villa Magalean (Hondarribia).")
 
 Villa Magalean Hotel & Spa es un **hotel boutique** de cuatro estrellas con sólo 8 
 habitaciones, un spa y un restaurante. Sobre esos tres ejes: el descanso, el relax y la 
@@ -24,7 +24,7 @@ gastronomía, gira el proyecto y el sueño hecho realidad de Caroline Brousse y 
 Miqueu, dos emprendedores franceses que dejaron su trabajo en el ámbito financiero para 
 dedicarse a este proyecto. 
 
-![hotel magalaen, hotel hondarribia](etheria-images/2019/11/villa-magalean-hotel-salon-900x600.jpg "Cada detalle está cuidadosamente pensado.")
+![hotel magalaen, hotel hondarribia](https://fotos.etheriamagazine.com/2019/11/villa-magalean-hotel-salon-900x600.jpg "Cada detalle está cuidadosamente pensado.")
 
 Este establecimiento, abanderado del buen gusto, se ha creado sobre **Villa Albertine**, 
 una antigua villa de los años cincuenta y estilo neo-vasco, que Caroline recordaba de su 
@@ -32,7 +32,7 @@ niñez. En 2013 le surgió la oportunidad de adquirirla y no lo dudó; dos años
 comenzó la reconstrucción y en 2017 abrió sus puertas como un hotel boutique de 700 m2, 
 distribuidos en tres alturas. 
 
-![vidrieras hotel magalaen, hondarribia](etheria-images/2019/11/villa-magalean-hotel-vidrieras-900x600.jpg "Bonitas vidrieras en la escalera.")
+![vidrieras hotel magalaen, hondarribia](https://fotos.etheriamagazine.com/2019/11/villa-magalean-hotel-vidrieras-900x600.jpg "Bonitas vidrieras en la escalera.")
 
 El arquitecto, Iñaki Biurru, ha conservado los códigos estructurales de su época 
 original y a su estilo Art Déco se le han añadido elementos artesanales de la zona –como 
@@ -44,7 +44,7 @@ como Mejor Hotel de 2018**.
 > significa amparo, regazo o falda. Y eso es lo que pretende ser este hotel, el cobijo del 
 > viajero. 
 
-![hotel magalean, hotel hondarribia](etheria-images/2019/11/hotel-magalean-habitacion-rosa-900x601.jpg "Espacios para el relax en las habitaciones.")
+![hotel magalean, hotel hondarribia](https://fotos.etheriamagazine.com/2019/11/hotel-magalean-habitacion-rosa-900x601.jpg "Espacios para el relax en las habitaciones.")
 
 ## La biblioteca Albertine
 
@@ -57,7 +57,7 @@ En las librerías encontrarás obras de la literatura vasca, española, francesa
 anglosajona. Date el gusto de abandonarte al placer de la lectura en uno de sus 
 sillones. 
 
-![hotel magalean, hotel hondarribia, hotel boutique guipuzcoa](etheria-images/2019/11/hotel-magalean-habitacion-azul-900x601.jpg "Habitación del Villa Magalean Hotel & Spa.")
+![hotel magalean, hotel hondarribia, hotel boutique guipuzcoa](https://fotos.etheriamagazine.com/2019/11/hotel-magalean-habitacion-azul-900x601.jpg "Habitación del Villa Magalean Hotel & Spa.")
 
 ## Habitaciones con alma
 
@@ -69,7 +69,7 @@ En función del tipo de viaje que vayas a realizar, en pareja o en familia, te i
 escoger una doble (24 a 30 m2) o una suite (Junior Suite: 37 m2, Grand Suite: 50 m2 y 
 Familiar Master Suite: 65 m2). 
 
-![habitacion banera hotel magalaen](etheria-images/2019/11/villa-magalean-habitacion-banera-900x600.jpg "Habitación con bañera.")
+![habitacion banera hotel magalaen](https://fotos.etheriamagazine.com/2019/11/villa-magalean-habitacion-banera-900x600.jpg "Habitación con bañera.")
 
 Curiosamente, los nombres de las habitaciones hacen referencia a lugares claves en 
 Hondarribia y Guipúzcoa. Quizás te haga ilusión alojarte en **La Marina** (barrio de 
@@ -79,7 +79,7 @@ al que se sitúa el hotel), **Baluarte de la Reina** (las murallas del casco ant
 **Belharra** (la ola gigante de San Juan de Luz) o **Peñas de Aia** (el parque natural 
 guipuzcoano). 
 
-![Plato del restaurante Mahasti](etheria-images/2019/11/hotel-magalean-restaurante-hondarribia-900x600.jpg "Plato del restaurante Mahasti.")
+![Plato del restaurante Mahasti](https://fotos.etheriamagazine.com/2019/11/hotel-magalean-restaurante-hondarribia-900x600.jpg "Plato del restaurante Mahasti.")
 
 ## ¿Quieres comer bien Hondarribia? Ve al restaurante Mahasti
 
@@ -91,7 +91,7 @@ su éxito en la experiencia del primero, que ha trabajado previamente en afamado
 restaurantes como Martín Berasategui o El Portalón, y el ímpetu creativo del segundo, 
 formado en el Basque Culinary Center. 
 
-![Juan Carlos Ferrando y Markel Ramiro, hotel magalean](etheria-images/2019/11/hotel-magalean-Juan-Carlos-Markel-900x675.jpg "Juan Carlos Ferrando y Markel Ramiro.")
+![Juan Carlos Ferrando y Markel Ramiro, hotel magalean](https://fotos.etheriamagazine.com/2019/11/hotel-magalean-Juan-Carlos-Markel-900x675.jpg "Juan Carlos Ferrando y Markel Ramiro.")
 
 Por supuesto, estos platos elaborados a cuatro manos, son maridados con vinos 
 seleccionados por el propio Didier Miqueu, que sugerirá los mejores vinos españoles o 
@@ -108,7 +108,7 @@ profesionalidad como por la alianza del spa con la firma **Cinq Mondes** que te 
 viajar a lugares remotos a través de sus aromas, plantas, aceites, bálsamos, música e 
 inspiración. 
 
-![spa henriette, spa hondarribia](etheria-images/2019/11/villa-magalean-spa-900x600.jpg "Spa Henriette.")
+![spa henriette, spa hondarribia](https://fotos.etheriamagazine.com/2019/11/villa-magalean-spa-900x600.jpg "Spa Henriette.")
 
 Entre los tratamientos que ofrece se puede elegir entre **rituales de purificación** en 
 el hammam, ducha de hidromasaje con aromaterapia, tratamientos innovadores con LPG 

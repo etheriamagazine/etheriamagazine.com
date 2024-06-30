@@ -1,7 +1,7 @@
 ---
 title: "Novedades de Berlín en 2021"
 date: 2021-09-24
-coverImage: etheria-images/2021/09/Berlin-Humboldt-Forum.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/09/Berlin-Humboldt-Forum.jpg
 categories: 
   - viajes-48-horas
   - de-un-vistazo
@@ -18,7 +18,7 @@ las grandes ciudades europeas que tanto nos gustan. Aquí, la cultura en forma d
 es uno de sus ‘highligths’. Tanto que estas 4 novedades que te contamos harán que vayas 
 buscando ya fecha para visitarla cuanto antes. 
 
-![Humboldt Forum.](etheria-images/2021/09/Berlin-Humboldt-Forum.jpg "Humboldt Forum.© Visit Berlin/Chris Martin Scholl")
+![Humboldt Forum.](https://fotos.etheriamagazine.com/2021/09/Berlin-Humboldt-Forum.jpg "Humboldt Forum.© Visit Berlin/Chris Martin Scholl")
 
 Su lema dice que “Berlín conmueve y se mueve”. Y nos parece de lo más acertado para una 
 ciudad siempre activa donde es muy fácil emocionarse con cada visita o actividad 
@@ -28,7 +28,7 @@ nuevos e irresistibles para que no le des más vueltas y vayas ya reservando uno
 para una escapada. Aquí te contamos cuatro de las novedades en Berlín que puedes 
 disfrutar ya mismo, aunque prepárate porque vienen muchas más en 2022. 
 
-![Fachada del Humboldt Forum.](etheria-images/2021/09/Berlin-Humboldt-Forum-fachada.jpg "Fachada del Humboldt Forum. © Visit Berlin/Chris Martin Scholl")
+![Fachada del Humboldt Forum.](https://fotos.etheriamagazine.com/2021/09/Berlin-Humboldt-Forum-fachada.jpg "Fachada del Humboldt Forum. © Visit Berlin/Chris Martin Scholl")
 
 **1.** **Humboldt Forum**. Ya está abierto al público el nuevo Humboldt Forum tras su 
 apertura digital en diciembre de 2020. Nace como uno de los principales centros 
@@ -45,7 +45,7 @@ berlinés que se va a situar frente a la puerta oeste del Humboldt Forum: el **M
 a la Libertad y la Unidad**. Conmemorará la revolución pacífica y la caída del Muro de 
 Berlín en 1989. 
 
-![Galería Nacional de Berlín](etheria-images/2021/09/Berlin-Neue-Nationalgalerie.jpg "Neue Nationalgalerie.© Visit Berlin/Scholvien")
+![Galería Nacional de Berlín](https://fotos.etheriamagazine.com/2021/09/Berlin-Neue-Nationalgalerie.jpg "Neue Nationalgalerie.© Visit Berlin/Scholvien")
 
 **2\. Reapertura de la Neue Nationalgalerie. Ubicada en el** Kulturforum, la Galería 
 Nacional ha sufrido una extensa modernización que ha revitalizado a esta construcción de 
@@ -54,7 +54,7 @@ maestras del siglo XX. Comienza esta nueva etapa con una exposición dedicada al
 modernista norteamericano Alexander Calder. ¡Es una de las novedades en Berlín que no 
 puedes perderte! 
 
-![Museo Judío de Berlín.](etheria-images/2021/09/Berlin-museo-judio.jpg "Museo Judío de Berlín. © Visit Berlin/Wolfgang Scholvien")
+![Museo Judío de Berlín.](https://fotos.etheriamagazine.com/2021/09/Berlin-museo-judio.jpg "Museo Judío de Berlín. © Visit Berlin/Wolfgang Scholvien")
 
 **3\. ANOHA Children’s World.** El Museo Judío de Berlín ha abierto un espacio que será 
 visita obligada si viajas con niños a Berlín, el ANOHA Children’s World. Aquí podrán 
@@ -63,7 +63,7 @@ configuración te sorprenderá, ya que está dominado por un gigantesco Arca de 
 esculturas de animales interactivas. Salas de talleres, música y teatro completan este 
 museo que encantará a las familias. 
 
-![Nueva estación Rotes Rathaus de la línea U5.](etheria-images/2021/09/Berlin-Rotes-Rathaus-metro.jpg "Nueva estación Rotes Rathaus de la línea U5. © Visit Berllin/Oliver Lang")
+![Nueva estación Rotes Rathaus de la línea U5.](https://fotos.etheriamagazine.com/2021/09/Berlin-Rotes-Rathaus-metro.jpg "Nueva estación Rotes Rathaus de la línea U5. © Visit Berllin/Oliver Lang")
 
 **4\. Una nueva línea de metro.** La nueva U5 conecta por fin el tramo entre la Puerta 
 de Brandeburgo y Alexanderplatz, proporcionando un enlace directo entre el centro y la 

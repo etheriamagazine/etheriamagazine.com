@@ -1,7 +1,7 @@
 ---
 title: "Mongolia, el país de los últimos nómadas"
 date: 2019-06-13
-coverImage: etheria-images/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -17,7 +17,7 @@ gran Temujin, más conocido como Gengis Khan, que llegó a formar el mayor imper
 la Historia en solo una generación. Si te gusta viajar por libre, será una gran aventura 
 para ti. 
 
-![Hombre reflejado en un retrovisor en Mongolia](etheria-images/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg "Paisano en Shine Ider.")
+![Hombre reflejado en un retrovisor en Mongolia](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg "Paisano en Shine Ider.")
 
 En pleno corazón de Asia se abre un mundo de estepas, montañas, lagos y desiertos, que 
 hacen de Mongolia uno de los destinos más vírgenes que aún se pueden visitar. Viajar 
@@ -44,7 +44,7 @@ menos cuatro veces al año, empacan sus cosas para trasladarse a nuevos pastos f
 > No dejarán señal alguna de su paso, excepto la sombra de sus huellas en la hierba, allí 
 > donde habían alzado sus tiendas. 
 
-![Niña frente a una tienda nómada en Mongolia](etheria-images/2019/06/viaje-mongolia-familia-nomada.jpg "Familia nómada en Mongolia.")
+![Niña frente a una tienda nómada en Mongolia](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-familia-nomada.jpg "Familia nómada en Mongolia.")
 
 ## De la estepa a la taiga
 
@@ -62,7 +62,7 @@ cualquier derivado de la leche.
 
 > Sus recursos son escasos pero su hospitalidad no tiene límites. 
 
-![Paisaje de Amarbayasgalan.](etheria-images/2019/06/viaje-mongolia-Monasterio-Amarbayasgalan.jpg "Paisaje de Amarbayasgalan.")
+![Paisaje de Amarbayasgalan.](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Monasterio-Amarbayasgalan.jpg "Paisaje de Amarbayasgalan.")
 
 ## A caballo entre lagos y montañas
 
@@ -76,7 +76,7 @@ tsaatan, los nómadas de la taiga**, los últimos pastores de renos. Un paisaje 
 ensueño, con laderas cubiertas de edelweiss, marmotas por doquier y nubes desgarradas 
 por el viento. 
 
-![Mujer haciendo fotos frente al Lago de Khovsgol.](etheria-images/2019/06/viaje-mongolia-lago-Khovsgol.jpg "Lago de Khovsgol.")
+![Mujer haciendo fotos frente al Lago de Khovsgol.](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-lago-Khovsgol.jpg "Lago de Khovsgol.")
 
 Pongo rumbo hacia el sur. Durante muchísimos kilómetros no veo ciudades, ni carreteras, 
 ni edificios. Tan solo colinas onduladas, lisas como el fieltro, que dan lugar a grandes 
@@ -87,7 +87,7 @@ El **Lago Terkhiin Tsagaan Nuur** se abre a mi paso. Es de origen volcánico y f
 junto con el volcán extinto **Horgo Uul,** uno de los lugares más hermosos y vírgenes 
 del país. 
 
-![Paseo a caballo en la estepa de Mongolia](etheria-images/2019/06/viaje-mongolia-Caballo-Lago-Khovsgol.jpg "Paseo a caballo por el entorno del lago Khovsgol.")
+![Paseo a caballo en la estepa de Mongolia](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Caballo-Lago-Khovsgol.jpg "Paseo a caballo por el entorno del lago Khovsgol.")
 
 ## El imperio de Gengis Khan
 
@@ -106,7 +106,7 @@ misma habilidad con la que en el siglo XII las hordas de Gengis Khan salieron de
 estepas para forjar el imperio terrestre más grande que se haya visto nunca: desde el 
 mar de China Meridional hasta el Báltico. 
 
-![Paseo en camellos bactrianos por la dunas de Khongoryn Els.](etheria-images/2019/06/viaje-mongolia-Khongoryn-els-desierto-del-Gobi.jpg "Paseo en camellos bactrianos por la dunas de Khongoryn Els.")
+![Paseo en camellos bactrianos por la dunas de Khongoryn Els.](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Khongoryn-els-desierto-del-Gobi.jpg "Paseo en camellos bactrianos por la dunas de Khongoryn Els.")
 
 ## Los colores del desierto del Gobi
 
@@ -118,7 +118,7 @@ arqueológico de Balanzag**, donde se han hallado la mayoría de huesos y huevos
 dinosaurios, ahora expuestos en los museos de todo el mundo. Pero, sin duda, el paisaje 
 más asombroso lo protagoniza la larga y estrecha franja de **dunas de Khongoryn Els**. 
 
-![Dunas de Khongoryn Els.](etheria-images/2019/06/viaje-mongolia-dunas-desierto.jpg "Dunas de Khongoryn Els.")
+![Dunas de Khongoryn Els.](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-dunas-desierto.jpg "Dunas de Khongoryn Els.")
 
 En ningún otro desierto del planeta existen tantas dunas con alturas de más de cien 
 metros y, al mismo tiempo, en su base se sitúan praderas verdes con agua dulce a 
@@ -128,7 +128,7 @@ arenas, luces y sombras. Los **camellos bactrianos** son el único medio de tran
 capaz de moverse por este mar de dunas, por lo que una excursión sobre sus dos jorobas 
 hace que me enamore de este paisaje de apariencia inhóspita pero de belleza cautivadora. 
 
-![Yacimiento arqueológico de Balanzag en Mongolia](etheria-images/2019/06/viaje-mongolia-Bayanzag-Gobi.jpg "Yacimiento arqueológico de Balanzag.")
+![Yacimiento arqueológico de Balanzag en Mongolia](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Bayanzag-Gobi.jpg "Yacimiento arqueológico de Balanzag.")
 
 Mientras contemplo el gran arco de la vía láctea que envuelve el campamento dormido, 
 recuerdo las palabras del filósofo e historiador árabe del siglo XIV Ibn Jaldun: ‘_los 
@@ -140,7 +140,7 @@ echar raíces. Su único compromiso es el movimiento, tal vez eso sea la liberta
 > gente y el respeto a la naturaleza y a las personas que se acercan a conocerles, hacen 
 > del país de los últimos nómadas un destino para las más aventureras. 
 
-![Mujer tendiendo tras una puerta en Bulgan, Mongolia](etheria-images/2019/06/viaje-mongolia-Bulgan.jpg "Escena en Bulgan (Mongolia).")
+![Mujer tendiendo tras una puerta en Bulgan, Mongolia](https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Bulgan.jpg "Escena en Bulgan (Mongolia).")
 
 ## Guía práctica de Mongolia
 

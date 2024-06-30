@@ -1,7 +1,7 @@
 ---
 title: "Sibenik, 8 razones para visitar esta ciudad croata"
 date: 2020-08-13
-coverImage: etheria-images/2020/08/Sibenik-detalles-puertas-centro-historico.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/08/Sibenik-detalles-puertas-centro-historico.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Sibenik, situada entre Zadar y Split, es una de las ciudades más interesantes de la Costa Dálmata por sus rincones pintorescos y ambiente tranquilo. Además, es el mejor lugar para hacer una excursión al Parque Nacional de Krka, con sus cascadas y bonitos senderos. Sigue leyendo porque te vamos a contar qué ver y hacer en Sibenik y alrededores.
 
-![sibenik, viajeras, viajar sola,](etheria-images/2020/08/Sibenik-detalles-puertas-centro-historico-900x600.jpg "Detalles del casco antiguo de Sibenik. © Etheria Magazine")
+![sibenik, viajeras, viajar sola,](https://fotos.etheriamagazine.com/2020/08/Sibenik-detalles-puertas-centro-historico-900x600.jpg "Detalles del casco antiguo de Sibenik. © Etheria Magazine")
 
 Croacia es un destino ya consolidado entre los viajeros españoles, quien más y quien 
 menos ya ha visitado algunas de sus ciudades más turísticas. Puede que hayas recorrido [Zagreb](http://etheriamagazine.com/2020/04/24/que-ver-hacer-en-2-3-dias-zagreb-croacia/), 
@@ -24,7 +24,7 @@ aún no conoces Sibenik. Te vamos a contar por qué en tu próxima escapada a Cr
 deberías tener presente esta ciudad situada en la Costa Dálmata, a mitad de camino entre 
 Zadar y Split. 
 
-![sibenik, viajes, viajar sola, viajeras](etheria-images/2020/08/Sibenik-calles-solitarias-900x600.jpg "Calles solitarias de Sibenik. © Etheria Magazine")
+![sibenik, viajes, viajar sola, viajeras](https://fotos.etheriamagazine.com/2020/08/Sibenik-calles-solitarias-900x600.jpg "Calles solitarias de Sibenik. © Etheria Magazine")
 
 ## 8 razones para visitar Sibenik
 
@@ -41,7 +41,7 @@ saborear el placer de caminar a tu aire, sentarte en una terraza sin prisa o acu
 reserva a un restaurante que encuentres por azar. Nosotras fuimos en octubre y fue una 
 experiencia maravillosa. 
 
-![sibenik, mujeres, viajeras, viajar sola](etheria-images/2020/08/Sibenik-calles-centro-peatonal-900x600.jpg "Calle del centro histórico de Sibenik. © Etheria Magazine")
+![sibenik, mujeres, viajeras, viajar sola](https://fotos.etheriamagazine.com/2020/08/Sibenik-calles-centro-peatonal-900x600.jpg "Calle del centro histórico de Sibenik. © Etheria Magazine")
 
 ### 2\. Callejuelas pintorescas
 
@@ -57,7 +57,7 @@ edificios tan interesantes como la iglesia de Sveti Ivan, del siglo XVI, con una
 que exhibe un reloj turco; o la iglesia ortodoxa de Crkva Uspenie Bogomatere, del siglo 
 XIV. 
 
-![sibenik, palacios, croacia, viajar sola](etheria-images/2020/08/Sibenik-ventanas-900x591.jpg "Bonitas ventanas de Sibenik. © Etheria Magazine")
+![sibenik, palacios, croacia, viajar sola](https://fotos.etheriamagazine.com/2020/08/Sibenik-ventanas-900x591.jpg "Bonitas ventanas de Sibenik. © Etheria Magazine")
 
 ### 3\. Catedral de Santiago
 
@@ -70,7 +70,7 @@ Si el exterior, con un llamativo rosetón y 72 cabezas esculpidas, es llamativo,
 interior no se queda atrás. Fíjate, sobre todo, en su pila bautismal, en los capiteles y 
 en su altar Mayor de estilo barroco. 
 
-![sibenik, viajar sola, viajeras, mujeres](etheria-images/2020/08/Sibenik-catedral-santiago-roseton-900x600.jpg "Bello rosetón de la Catedral de Santiago. © Etheria Magazine")
+![sibenik, viajar sola, viajeras, mujeres](https://fotos.etheriamagazine.com/2020/08/Sibenik-catedral-santiago-roseton-900x600.jpg "Bello rosetón de la Catedral de Santiago. © Etheria Magazine")
 
 ### 4\. Plaza de la República de Croacia
 
@@ -81,7 +81,7 @@ degustas un buen calamar, por ejemplo, observa la Catedral de Santiago (enfrente
 pocos paso se sitúa el Ayuntamiento (antigua Civic Logia) con su fachada renacentista, y 
 el Palacio del Obispo, con una impronta gótica y renacentista. 
 
-![viaje a croacia, sibenik](etheria-images/2020/08/Sibenik-plaza-republica-croacia-683x1024.jpg "Los niños juegan junto a la Catedral. © Etheria Magazine")
+![viaje a croacia, sibenik](https://fotos.etheriamagazine.com/2020/08/Sibenik-plaza-republica-croacia-683x1024.jpg "Los niños juegan junto a la Catedral. © Etheria Magazine")
 
 ### 5\. Paseo marítimo
 
@@ -93,7 +93,7 @@ más. Tendrás numerosos cafés y terrazas entre las que elegir para descansar u
 la jornada turística o para planificar los próximos lugares que quieres visitar. Por la 
 noche cobra aún más vida, es uno de los lugares habituales para hacer vida social. 
 
-![catedral sibenik, viajes, viajar sola, mujeres,](etheria-images/2020/08/Sibenik-escalinata-catedral-2-900x600.jpg "Escalinata de subida a la Catedral de Sibenik. © Etheria Magazine")
+![catedral sibenik, viajes, viajar sola, mujeres,](https://fotos.etheriamagazine.com/2020/08/Sibenik-escalinata-catedral-2-900x600.jpg "Escalinata de subida a la Catedral de Sibenik. © Etheria Magazine")
 
 ### 6\. Fortaleza de San Nicolás
 
@@ -104,7 +104,7 @@ conocido arquitecto veneciano, Hyeronimus di San Michaela, que lo diseñó en el
 para impedir la llegada de barcos turcos. Esta fortaleza formaba parte de las posesiones 
 de la República de Venecia. 
 
-![Parque Nacional de Krka, viaje, croacia](etheria-images/2020/08/parque-krka-900x672.jpg "Parque Nacional de Krka. © Etheria Magazine")
+![Parque Nacional de Krka, viaje, croacia](https://fotos.etheriamagazine.com/2020/08/parque-krka-900x672.jpg "Parque Nacional de Krka. © Etheria Magazine")
 
 ### 7\. Excursión al Parque Nacional de Krka
 
@@ -118,7 +118,7 @@ ambos, en el molino aprenderás su funcionamiento y cómo se aprovechaba la fuer
 agua (fíjate en cómo funciona la lavadora rústica de la exposición) y de la tienda 
 podrás llevarte algún recuerdo, ya que tienen una bonita artesanía, colgantes, etc. 
 
-![kornati, excursion sibenik, viaje, croacia](etheria-images/2020/08/islas-900x614.jpg "Archipiélago de las Kornati. © Etheria Magazine")
+![kornati, excursion sibenik, viaje, croacia](https://fotos.etheriamagazine.com/2020/08/islas-900x614.jpg "Archipiélago de las Kornati. © Etheria Magazine")
 
 ### 8\. Excursión a las Islas Kornati
 

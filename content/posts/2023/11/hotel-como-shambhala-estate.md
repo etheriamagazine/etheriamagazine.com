@@ -1,7 +1,7 @@
 ---
 title: "COMO Shambhala Estate, un hotel para el descanso en Ubud"
 date: 2023-11-17
-coverImage: etheria-images/2023/11/como-shambhala-residencia-Tirta-Ening.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/11/como-shambhala-residencia-Tirta-Ening.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -16,7 +16,7 @@ más que un hotel. Un lugar donde el bienestar forma parte de su filosofía y de
 del mundo es tremendamente sencillo. Además, es un excelente punto de partida para 
 realizar excursiones por el centro de la isla. 
 
-![Vista aérea de una de las residencias del COMO Shambhala Estate.](etheria-images/2023/11/como-shambhala-residencia-Tirta-Ening.jpg "Vista aérea de una de las residencias del COMO Shambhala Estate.")
+![Vista aérea de una de las residencias del COMO Shambhala Estate.](https://fotos.etheriamagazine.com/2023/11/como-shambhala-residencia-Tirta-Ening.jpg "Vista aérea de una de las residencias del COMO Shambhala Estate.")
 
 Hay momentos en la vida en los que el cuerpo necesita descansar, tomarse un respiro del 
 ajetreado día a día. Pero también hay viajes en los que no dejamos un solo minuto de 
@@ -35,7 +35,7 @@ ubicación, en el corazón de la selva balinesa que cubre parte de los campos en
 afueras de Ubud. Aquí, el agua del caudaloso río Ayung aporta ese clima húmedo necesario 
 para la explosión de naturaleza de color verde intenso que rodea al hotel. 
 
-![Pabellón de yoga.](etheria-images/2023/11/como-shambhala-pabellon-yoga.jpg "Pabellón de yoga.")
+![Pabellón de yoga.](https://fotos.etheriamagazine.com/2023/11/como-shambhala-pabellon-yoga.jpg "Pabellón de yoga.")
 
 Gracias a este entorno, es posible realizar las actividades inmersivas en la naturaleza 
 incluidas en su **Programa de Bienestar Integrado**, que cada cliente puede personalizar 
@@ -60,7 +60,7 @@ copas de los árboles. Después, se puede elegir entre las **Terrace Suite**, la
 Shambhala Suite** y las **Como Suite in Umabona**, estas últimas con piscina privada y 
 todas con detalles de decoración con antigüedades balinesas. 
 
-![Piscina de una de las villas de dos dormitorios en el COMO Shambhala Estate](etheria-images/2023/11/como-shambhala-villa-dos-habitaciones.jpg "Piscina de una de las villas de dos dormitorios.")
+![Piscina de una de las villas de dos dormitorios en el COMO Shambhala Estate](https://fotos.etheriamagazine.com/2023/11/como-shambhala-villa-dos-habitaciones.jpg "Piscina de una de las villas de dos dormitorios.")
 
 Si se viaja con familia o con un grupo de amigos una buena opción son las **Pool 
 Villas**, de uno, dos o tres dormitorios, con piscina privada y jacuzzi y una decoración 
@@ -77,7 +77,7 @@ propia filosofía de este hotel hace que los menús están cuidadosamente elabor
 chefs y nutricionistas y ofrecen la posibilidad de elegir platos en los que se respeta 
 la esencia de los alimentos originales para beneficiarse de sus propiedades. 
 
-![Restaurante Kudus House del COMO Shambhala Estate](etheria-images/2023/11/como-shambhala-Kudus-House.jpg "Restaurante Kudus House.")
+![Restaurante Kudus House del COMO Shambhala Estate](https://fotos.etheriamagazine.com/2023/11/como-shambhala-Kudus-House.jpg "Restaurante Kudus House.")
 
 Cuenta con dos restaurantes. **Kudus House**, de cocina indonesia, donde se sirve el 
 desayuno a la carta y también se puede optar por cenar platos de esta sabrosa 
@@ -91,7 +91,7 @@ reservar un **almuerzo privado** en alguno de los rincones del hotel, como en la
 té o a orillas del río Ayung. Y también puedes solicitar que el almuerzo o la cena te lo 
 sirvan en tu habitación, suite o villa. 
 
-![humus y pan de cereales](etheria-images/2023/11/como-shambhala-comida-saludable-hummus.jpg "La cocina saludable es una de las señas de identidad de COMO Shambhala Estate.")
+![humus y pan de cereales](https://fotos.etheriamagazine.com/2023/11/como-shambhala-comida-saludable-hummus.jpg "La cocina saludable es una de las señas de identidad de COMO Shambhala Estate.")
 
 ## Actividades
 
@@ -109,7 +109,7 @@ los alrededores; y **Tjampuhan Ridge Walk**, uno de los caminos más populares e
 para hacer senderismo por la cresta del Tjampuhan. También se ofrecen excursiones en 
 bicicleta y de biathlon (combinación de senderismo y bicicleta). 
 
-![Paseo por los arrozales alrededor de COMO Shambhala Estate.](etheria-images/2023/11/como-shambhala-paseo-arrozales.jpg "Paseo por los arrozales alrededor de COMO Shambhala Estate.")
+![Paseo por los arrozales alrededor de COMO Shambhala Estate.](https://fotos.etheriamagazine.com/2023/11/como-shambhala-paseo-arrozales.jpg "Paseo por los arrozales alrededor de COMO Shambhala Estate.")
 
 Además de estas experiencias que se realizan en el hotel y alrededores, es posible 
 reservar distintas excursiones con guía de las que no te puedes perder en la zona de 

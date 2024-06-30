@@ -1,7 +1,7 @@
 ---
 title: "8 ideas para un viaje durante los puentes de otoño por España"
 date: 2021-09-20
-coverImage: etheria-images/2021/09/puente-otono-castillo-valdeolea.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/09/puente-otono-castillo-valdeolea.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ los puentes de otoño es lo único que nos puede devolver la ilusión mientras n
 adaptamos a la implacable rutina. Aquí tienes 8 ideas para dar forma a esos días que 
 serán un balón de oxígeno hasta la llegada de la Navidad. 
 
-![Barranco de los Molineros en la sierra de Entzia (Álava).](etheria-images/2021/09/barranco-molineros-sierra-entzia.jpg "Barranco de los Molineros en la sierra de Entzia (Álava).")
+![Barranco de los Molineros en la sierra de Entzia (Álava).](https://fotos.etheriamagazine.com/2021/09/barranco-molineros-sierra-entzia.jpg "Barranco de los Molineros en la sierra de Entzia (Álava).")
 
 El otoño es un momento perfecto para hacer uno de esos viajes cortos de cuatro o cinco 
 días que nos dan la vida y nos permiten romper con la rutina que toma forma después de 
@@ -41,7 +41,7 @@ pequeña joya: los frescos del presbiterio de la iglesia de Santa Olalla.
 ? [Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de 
 Cantabria](https://etheriamagazine.com/2021/06/04/que-ver-en-valle-de-valdeolea-cantabria/). 
 
-![Castillo de Argüeso, en Valdeolea.](etheria-images/2021/09/puente-otono-castillo-valdeolea.jpg "Castillo de Argüeso, en Valdeolea.")
+![Castillo de Argüeso, en Valdeolea.](https://fotos.etheriamagazine.com/2021/09/puente-otono-castillo-valdeolea.jpg "Castillo de Argüeso, en Valdeolea.")
 
 ## La Ribeira Sacra
 
@@ -57,7 +57,7 @@ iglesias románicas y en el Castillo de Castro Calderas.
 ? [Planes en la Ribeira Sacra para descubrir sus mayores 
 secretos](https://etheriamagazine.com/2021/06/17/planes-en-la-ribeira-sacra-con-amigas/). 
 
-![Paseo en zodiac por la Ribeira Sacra.](etheria-images/2021/09/puente-otono-ribeira-sacra-zodiac.jpg "Paseo en zodiac por la Ribeira Sacra. © Cynthia M.")
+![Paseo en zodiac por la Ribeira Sacra.](https://fotos.etheriamagazine.com/2021/09/puente-otono-ribeira-sacra-zodiac.jpg "Paseo en zodiac por la Ribeira Sacra. © Cynthia M.")
 
 ## Ruta del acueducto de Segovia
 
@@ -76,7 +76,7 @@ imprescindibles.
 ? [Ruta para descubrir los secretos ocultos del acueducto de 
 Segovia](https://etheriamagazine.com/2021/06/25/ruta-senderista-acueducto-segovia/). 
 
-![Puentes improvisados en nuestro camino hacia el azud del acueducto de Segovia.](etheria-images/2021/09/puente-otono-Segovia-azud-acueducto.jpg "Puentes improvisados en nuestro camino hacia el azud del acueducto de Segovia. © Yolanda Cardo")
+![Puentes improvisados en nuestro camino hacia el azud del acueducto de Segovia.](https://fotos.etheriamagazine.com/2021/09/puente-otono-Segovia-azud-acueducto.jpg "Puentes improvisados en nuestro camino hacia el azud del acueducto de Segovia. © Yolanda Cardo")
 
 ## La Campiña cordobesa
 
@@ -94,7 +94,7 @@ popular salmorejo de la zona, da como resultado un viaje de lo más apetecible.
 ? [Baena, Montilla y Puente Genil, una ruta por la campiña 
 cordobesa](https://etheriamagazine.com/2021/05/25/ruta-campina-cordobesa-baena-montilla-puente-genil/). 
 
-![Parque Arqueológico Torreparedones, en Baena.](etheria-images/2021/09/Puente-otono-cordoba-Torreparedones-vistas.jpg "Parque Arqueológico Torreparedones, en Baena. © Pedro Grifol")
+![Parque Arqueológico Torreparedones, en Baena.](https://fotos.etheriamagazine.com/2021/09/Puente-otono-cordoba-Torreparedones-vistas.jpg "Parque Arqueológico Torreparedones, en Baena. © Pedro Grifol")
 
 ## La Sierra de Entzia
 
@@ -109,7 +109,7 @@ Mendiluce.
 ? [La Sierra de Entzia, des(conexión) en siete pasos en 
 Álava](https://etheriamagazine.com/2021/05/12/excursiones-sierra-de-entzia-alava/). 
 
-![Cascada de Toberia.](etheria-images/2021/09/puente-otono-cascada-toberia-mas-bonita-alava-683x1024.jpg "Cascada de Toberia, en un impactante entorno natural de la sierra de Etnzia.")
+![Cascada de Toberia.](https://fotos.etheriamagazine.com/2021/09/puente-otono-cascada-toberia-mas-bonita-alava-683x1024.jpg "Cascada de Toberia, en un impactante entorno natural de la sierra de Etnzia.")
 
 ## San Lorenzo de El Escorial
 
@@ -124,7 +124,7 @@ y la pinacoteca.
 ? [San Lorenzo de El Escorial, razones escabrosas y sorprendentes por las que visitar su 
 monasterio](https://etheriamagazine.com/2021/04/06/por-que-visitar-monasterio-el-escorial/). 
 
-![San Lorenzo de El Escorial.](etheria-images/2021/09/puentes-otono-el-escorial.jpg "Neblina durante el amanecer de San Lorenzo de El Escorial. © Javier Santamarta")
+![San Lorenzo de El Escorial.](https://fotos.etheriamagazine.com/2021/09/puentes-otono-el-escorial.jpg "Neblina durante el amanecer de San Lorenzo de El Escorial. © Javier Santamarta")
 
 ## Santoña
 
@@ -140,7 +140,7 @@ auténtica joya del Románico.
 ? [Santoña, 10 motivos para una escapada cántabra con sabor 
 marinero](https://etheriamagazine.com/2021/01/20/santona-10-planes-con-sabor-marinero-en-cantabria/). 
 
-![Camino vertigiFaro del Caballo, en Santoña.](etheria-images/2021/09/puentes-otono-faro-santona-cantabria.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
+![Camino vertigiFaro del Caballo, en Santoña.](https://fotos.etheriamagazine.com/2021/09/puentes-otono-faro-santona-cantabria.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
 
 ## Gijón
 
@@ -155,7 +155,7 @@ delicioso, ¿verdad?
 ? [Gijón: una gastroescapada que te dejará muy buen sabor de 
 boca](https://etheriamagazine.com/2021/01/25/gijon-y-sus-mejores-sidrerias-restaurantes-pastelerias/) 
 
-![Sidrería Tierra Astur Poniente, en Gijón.](etheria-images/2021/09/puente-otono-gijon-Tierra-Astur-Poniente.jpg "Sidrería Tierra Astur Poniente, en Gijón.")
+![Sidrería Tierra Astur Poniente, en Gijón.](https://fotos.etheriamagazine.com/2021/09/puente-otono-gijon-Tierra-Astur-Poniente.jpg "Sidrería Tierra Astur Poniente, en Gijón.")
 
 ? **También te puede interesar**: 
 

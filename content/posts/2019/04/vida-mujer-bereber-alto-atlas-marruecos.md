@@ -1,7 +1,7 @@
 ---
 title: "La mujer bereber del Alto Atlas marroquí"
 date: 2019-04-01
-coverImage: etheria-images/2019/03/Valle-Ourika-mujer.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-mujer.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -14,7 +14,7 @@ Coqueta, sensual, fuerte y maniatada por la tradición y la religión, la mujer 
 del Atlas marroquí es un ejemplo de supervivencia que ya gozaba de fama por su sabiduría 
 y estrategia en la sociedad del Al-Ándalus. 
 
-![mujer bereber con un fardo de paja](etheria-images/2019/03/VAlle-Ourika-Wardia.jpg "La fuerza y alegría de la mujer bereber se desprenden de su mirada.")
+![mujer bereber con un fardo de paja](https://fotos.etheriamagazine.com/2019/03/VAlle-Ourika-Wardia.jpg "La fuerza y alegría de la mujer bereber se desprenden de su mirada.")
 
 El Valle de Ourika está situado en el Alto Atlas, _Idraren Draren_ (Montaña de 
 Montañas), que abarca desde las cumbres del Yebel Toubkal de más de cuatro mil metros de 
@@ -38,7 +38,7 @@ para ellos es normal, ya sea saciar la sed con té de hierbabuena, hacer su prop
 no beber o comer hasta que la voz del muecín anuncie a las ocho y media de la tarde el 
 término del ramadán por aquel día. 
 
-![pueblo rojo del valle de Ourika](etheria-images/2019/03/Valle-de-Ourika-pueblo.jpg "Los pueblos rojos del valle de Ourika se confunden con la tierra que los conforma.")
+![pueblo rojo del valle de Ourika](https://fotos.etheriamagazine.com/2019/03/Valle-de-Ourika-pueblo.jpg "Los pueblos rojos del valle de Ourika se confunden con la tierra que los conforma.")
 
 ### El hogar bereber
 
@@ -62,7 +62,7 @@ Compartimos mesa en el patio de la casa; mientras la vaca asomaba la cabeza y as
 con sus mugidos y los sapos croaban a la luna que acababa de emerger tras los picos del 
 monte. 
 
-![mujer bereber](etheria-images/2019/03/Valle-Ourika-mujer.jpg "Uno de los trabajos de la mujer bereber es recoger el forraje para alimento de los animales.")
+![mujer bereber](https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-mujer.jpg "Uno de los trabajos de la mujer bereber es recoger el forraje para alimento de los animales.")
 
 ## Una más de las mil y una noches…
 
@@ -81,7 +81,7 @@ madres y novias se ocupaban en casa de todo lo necesario y cotidiano.
 > mujer bereber sea la encargada de la educación casera de los hijos siempre dentro de los 
 > preceptos del Islam, representando el honor y la moral familiar. 
 
-![mujeres bereber preparando pan](etheria-images/2019/03/Valle-Ourika-mujeres.jpg "Jamâa y Wardia preparan el pan de cada día.")
+![mujeres bereber preparando pan](https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-mujeres.jpg "Jamâa y Wardia preparan el pan de cada día.")
 
 La casa de los Houssein es un hogar típico bereber, descendiente de una de las muchas 
 **familias bereberes**, _imazighen_ (hombres libres), la raza más antigua del África 
@@ -108,7 +108,7 @@ novedad. Su sonrisa pícara y la fuerza de su mirada habla de la mujer en la que
 se convertirá. Su amiga Fátima, con apenas seis años, tiene los ojos cubiertos por un 
 velo, algo que desgraciadamente la acompañará el resto de sus días. 
 
-![niñas bereber](etheria-images/2019/03/Valle-Ourika-ninas.jpg "Es envidiable su alegría genuina por la vida.")
+![niñas bereber](https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-ninas.jpg "Es envidiable su alegría genuina por la vida.")
 
 ## Termina el Ramadán
 
@@ -125,7 +125,7 @@ pasar el día.
 > La fémina bereber, al contrario de la mujer árabe, se integra activamente en las 
 > reuniones y eventos, y disfruta de ellos. 
 
-![Crepes preparados para cuando termine el Ramadán](etheria-images/2019/03/Valle-Ourika-crepes.jpg "Crepes preparados para cuando termine el Ramadán.")
+![Crepes preparados para cuando termine el Ramadán](https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-crepes.jpg "Crepes preparados para cuando termine el Ramadán.")
 
 Aquel fin de Ramadán fue sonado y divertido. A los postres, comenzó la música que salía 
 de instrumentos muy caseros como cubos, palos y cajas. 
@@ -154,7 +154,7 @@ rompería esa alegría natural que se respira en los pueblecitos del Alto Atlas 
 **Tasselt** que, apenas a dos horas de Marrakech, guarda la cultura y tradición 
 bereberes viviendo de la agricultura y el pastoreo. 
 
-![mujer y niña bereber en Marruecos](etheria-images/2019/03/Valle-Ourika-nina-joven.jpg "Cuando pasamos vuelve curiosa la cabeza (Izq.). Desde pequeñas traen el agua del arroyo (Dcha.).")
+![mujer y niña bereber en Marruecos](https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-nina-joven.jpg "Cuando pasamos vuelve curiosa la cabeza (Izq.). Desde pequeñas traen el agua del arroyo (Dcha.).")
 
 ### La celebración de la boda
 
@@ -198,7 +198,7 @@ mujeres se ponen especialmente guapas con capas de lana y joyas, y los chicos vi
 chilabas impecables. Antes era muy normal casarse con familiares pero ahora, igual que 
 ha hecho Wardia, se pueden casar con quien prefieran. 
 
-![Mujer cargando los fardos del trigo recién cortado en Marruecos](etheria-images/2019/03/Valle-Ourika-trabajo.jpg "Mujer cargando los fardos del trigo recién cortado.")
+![Mujer cargando los fardos del trigo recién cortado en Marruecos](https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-trabajo.jpg "Mujer cargando los fardos del trigo recién cortado.")
 
 Dejamos con pena nuestra casa en el Alto Atlas para seguir camino entre los almendros, 
 azaleas en plena floración y la imagen del trigo recién cortado que portean las mujeres 

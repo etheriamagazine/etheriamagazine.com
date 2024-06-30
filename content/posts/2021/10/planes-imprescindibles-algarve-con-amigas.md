@@ -1,7 +1,7 @@
 ---
 title: "6 experiencias inolvidables en el Algarve con tus mejores amigas"
 date: 2021-10-07
-coverImage: etheria-images/2021/10/algarve-amigas-excursiones.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/algarve-amigas-excursiones.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -12,7 +12,7 @@ El sur de Portugal es garantía de playas infinitas, pueblos con encanto, buena
 gastronomía y una costa perfecta para recorrer en barco. No se pueden pedir muchas más 
 cosas para conseguir una escapada perfecta al Algarve con amigas. 
 
-![Kayak en las cuevas de Benagil.](etheria-images/2021/10/algarve-benagil-kayak.jpg "Kayak en las cuevas de Benagil. © Susana García")
+![Kayak en las cuevas de Benagil.](https://fotos.etheriamagazine.com/2021/10/algarve-benagil-kayak.jpg "Kayak en las cuevas de Benagil. © Susana García")
 
 Actualizado en abril de 2024 
 
@@ -36,7 +36,7 @@ arriba (la cueva está al lado de la **playa de Benagil**, que también merece u
 visita). Pero nuestra forma preferida de acercarnos es por mar, que es la única manera 
 de acceder a su interior. 
 
-![Interior de las cuevas de Benagil.](etheria-images/2021/10/algarve-cuevas-benagil.jpg "Interior de las cuevas de Benagil. © Susana García")
+![Interior de las cuevas de Benagil.](https://fotos.etheriamagazine.com/2021/10/algarve-cuevas-benagil.jpg "Interior de las cuevas de Benagil. © Susana García")
 
 Hay muchas formas de hacer esta excursión: en barco, en kayak, en pádel surf… En los 
 distintos tipos de barco se entra en la cueva hasta donde pueden según su tamaño; y en 
@@ -54,7 +54,7 @@ Marina](https://www.civitatis.com/es/lagoa/tour-kayak-cuevas-benagil/?aid=10211)
 surf en las cuevas de 
 Benagil](https://www.civitatis.com/es/lagoa/tour-paddle-surf-cuevas-benagil/?aid=10211). 
 
-![Excursión en barco por la costa del Algarve.](etheria-images/2021/10/algarve-amigas-excursiones.jpg "Excursión en barco por la costa del Algarve. © Susana García")
+![Excursión en barco por la costa del Algarve.](https://fotos.etheriamagazine.com/2021/10/algarve-amigas-excursiones.jpg "Excursión en barco por la costa del Algarve. © Susana García")
 
 Y, si queréis daros un capricho de los buenos en esta escapada tan especial al Algarve 
 con amigas, lo mejor es alquilar un barco privado con capitán. De esta forma tendréis 
@@ -76,7 +76,7 @@ antigua fortaleza y un faro, con algunas tiendas y una cafetería donde tomar al
 ¡**Descubre**! [Ruta Vicentina, senderismo en Alentejo y 
 Algarve](https://etheriamagazine.com/2018/07/25/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal/). 
 
-![Cabo de San Vicente.](etheria-images/2021/10/algarve-cabo-san-vicente.jpg "Cabo de San Vicente. © Susana García")
+![Cabo de San Vicente.](https://fotos.etheriamagazine.com/2021/10/algarve-cabo-san-vicente.jpg "Cabo de San Vicente. © Susana García")
 
 Después de haceros las obligadas fotos con el mar y los acantilados de fondo, lo mejor 
 es ir directamente a la **fortaleza de Sagres**. Aquí merece la pena acceder para dar un 
@@ -94,7 +94,7 @@ y/o marisco típico del Algarve) y sus preciosas vistas.
 en 4x4 por Sagres](https://www.civitatis.com/es/lagos/tour-4x4-sagres/?aid=10211), que 
 también incluye el cabo de San Vicente por sólo 68 €. 
 
-![Ría Formosa.](etheria-images/2021/10/Algarve-Ria-Formosa-1.jpg "Ría Formosa. © Región de Turismo del Algarve")
+![Ría Formosa.](https://fotos.etheriamagazine.com/2021/10/Algarve-Ria-Formosa-1.jpg "Ría Formosa. © Región de Turismo del Algarve")
 
 ## Parque Natural de Ría Formosa
 
@@ -109,7 +109,7 @@ Europa, recorrer sus dunas y visitar **isla Farol**, con un faro de más de cien
 todavía sigue operativo. No os perdáis la **playa do Barril**, frente a la localidad de 
 Santa Luzia, a la que se llega en un tren turístico. 
 
-![Barco para excursión por la ría Formosa.](etheria-images/2021/10/Algarve-Tour-Ria-Formosa.jpg "Barco para excursión por la ría Formosa. © Región de Turismo del Algarve")
+![Barco para excursión por la ría Formosa.](https://fotos.etheriamagazine.com/2021/10/Algarve-Tour-Ria-Formosa.jpg "Barco para excursión por la ría Formosa. © Región de Turismo del Algarve")
 
 Pero, sin duda, la mejor opción es alquilar un barco o apuntarse a alguna de las 
 excursiones en barco que se ofrecen en las localidades cercanas. 
@@ -129,7 +129,7 @@ bonitos, y al que merece la pena desplazarse desde cualquier punto de el Algarve
 Tavira os encantarán sus calles adoquinadas y sus edificios forrados de los típicos 
 azulejos portugueses. 
 
-![Tavira.](etheria-images/2021/10/algarve-amigas-tavira.jpg "Tavira.")
+![Tavira.](https://fotos.etheriamagazine.com/2021/10/algarve-amigas-tavira.jpg "Tavira.")
 
 Algunos de los monumentos a los que tendréis que prestar atención son su Puente Romano, 
 el Castillo (está en el punto más alto de la ciudad, así que tiene las mejores vistas), 
@@ -141,7 +141,7 @@ Reserva un paseo por el [casco urbano de Tavira en
 tuk-tuk](https://www.civitatis.com/es/tavira/tour-tuk-tuk-tavira/?aid=10211) con 
 Civitatis. 
 
-![Iglesia de Santa Maria do Castelo.](etheria-images/2021/10/Algarve-Tavira-Igreja-S-Maria-do-Castelo.jpg "Iglesia de Santa Maria do Castelo. © Región de Turismo del Algarve")
+![Iglesia de Santa Maria do Castelo.](https://fotos.etheriamagazine.com/2021/10/Algarve-Tavira-Igreja-S-Maria-do-Castelo.jpg "Iglesia de Santa Maria do Castelo. © Región de Turismo del Algarve")
 
 Tened en cuenta que el casco histórico de Tavira no tiene playa, pero se encuentra al 
 lado de la ría Formosa. Para disfrutar del mar tendréis que acercaros a la conocida como 
@@ -158,7 +158,7 @@ por la marina de Albufeira y preguntéis por sus actividades a las diferentes em
 turismo activo que operan en la zona. Seguro que encontráis alguna actividad apta para 
 todo el grupo de amigas con la que disfrutar a tope. 
 
-![El parasailing es una de las actividades de aventura que se pueden realizar en el Algarve.](etheria-images/2021/10/algarve-parasailing.jpg "El parasailing es una de las actividades de aventura que se pueden realizar en el Algarve.")
+![El parasailing es una de las actividades de aventura que se pueden realizar en el Algarve.](https://fotos.etheriamagazine.com/2021/10/algarve-parasailing.jpg "El parasailing es una de las actividades de aventura que se pueden realizar en el Algarve.")
 
 Una opción muy divertida es realizar un [tour en buggy por el 
 Algarve](https://www.civitatis.com/es/albufeira/tour-buggy-algarve/?aid=10211) como el 
@@ -179,7 +179,7 @@ Reserva una excursión [en barco al atardecer por Ponta da
 Piedade](https://www.civitatis.com/es/lagos/barco-ponta-piedade-atardecer/?aid=10211) 
 sólo 40 € con Civitatis. 
 
-![Ponta da Piedade.](etheria-images/2021/10/algarve-ponta-da-piedade-mar.jpg "Ponta da Piedade.")
+![Ponta da Piedade.](https://fotos.etheriamagazine.com/2021/10/algarve-ponta-da-piedade-mar.jpg "Ponta da Piedade.")
 
 **También te puede interesar...** 
 

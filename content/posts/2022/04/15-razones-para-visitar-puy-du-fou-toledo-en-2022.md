@@ -1,7 +1,7 @@
 ---
 title: "15 razones para visitar Puy du Fou Toledo"
 date: 2022-04-06
-coverImage: etheria-images/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg
 categories: 
   - parques-ocio
 authors: 
@@ -14,7 +14,7 @@ temporada. Si eres de las que aún duda sobre si merece la pena acudir a este pa
 donde la historia es la protagonista, te interesa leer estas 15 razones para visitar Puy 
 du Fou Toledo (y algunas recomendaciones extra). 
 
-![Escena de El Sueño de Toledo en Puy du Fou](etheria-images/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg "El Sueño de Toledo.")
+![Escena de El Sueño de Toledo en Puy du Fou](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg "El Sueño de Toledo.")
 
 Puy du Fou Toledo fue reconocido como el parque más premiado de la historia en su primer 
 año de apertura y sigue enamorando año tras año. Este espacio de ocio que comenzó su 
@@ -26,7 +26,7 @@ de actores, bailarines, jinetes y acróbatas. Si no tienes muy claro por qué de
 visitar Puy du Fou Toledo, te daremos algunas razones que nos parecen bastante 
 convincentes. 
 
-![La Puebla Real simula ser un poblado medieval](etheria-images/2022/04/La-Puebla-Real-puy-du-fou-toledo.jpg "La Puebla Real, un auténtico poblado medieval.")
+![La Puebla Real simula ser un poblado medieval](https://fotos.etheriamagazine.com/2022/04/La-Puebla-Real-puy-du-fou-toledo.jpg "La Puebla Real, un auténtico poblado medieval.")
 
 ## Por qué visitar Puy du Fou Toledo
 
@@ -42,7 +42,7 @@ fortalezas, campamentos árabes, ventas y mesones. Tendrás que seguir los sende
 señalizados para asistir a los distintos espectáculos o para comer según tus gustos. 
 Recomendamos calzado cómodo. 
 
-![Una joven sirve una bebida en el Askar Andalusí](etheria-images/2022/04/Puy-du-Fou-El-Askar-Andalusi.jpg "El Askar andalusí.")
+![Una joven sirve una bebida en el Askar Andalusí](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-El-Askar-Andalusi.jpg "El Askar andalusí.")
 
 ### 2\.  Porque es válido para adultos y para niños
 
@@ -51,7 +51,7 @@ quieres visitar Puy de Fou Toledo lo puedes hacer perfectamente. Es más, disfru
 tanto o más que los niños ya que tendrás un contexto previo de los relatos que se 
 narran. Es un buen lugar para refrescar los conocimientos de Historia. 
 
-![Puertas de entrada desde el arrabal a La Puebla Real](etheria-images/2022/04/entrada-Puy-du-Fou-Espana.jpg "Puertas de entrada desde el arrabal a La Puebla Real.")
+![Puertas de entrada desde el arrabal a La Puebla Real](https://fotos.etheriamagazine.com/2022/04/entrada-Puy-du-Fou-Espana.jpg "Puertas de entrada desde el arrabal a La Puebla Real.")
 
 ### 3\. Por el magistral adiestramiento de aves en “Cetrería de Reyes”
 
@@ -63,7 +63,7 @@ Abderramán y Fernán González que acuerdan pactar una tregua. El vuelo de búh
 milanos, buitres y aves, que probablemente ni conozcas, te dejarán boquiabierta. 
 Duración: 30 minutos. 
 
-![espectáculo de cetrería, actores y gradas en Puy du Fou](etheria-images/2022/04/Puy-du-Fou-Cetreria-de-Reyes.jpg "Cetrería de reyes.")
+![espectáculo de cetrería, actores y gradas en Puy du Fou](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Cetreria-de-Reyes.jpg "Cetrería de reyes.")
 
 ### 4\. Por el espectáculo ‘A pluma y espada’
 
@@ -73,7 +73,7 @@ donde no faltan bailarinas toledanas ni caballos andaluces. La historia se sitú
 espada para defender su honra. Especialmente llamativos son el intercambio de decorados 
 y las coreografías sobre el agua. Duración: 30 minutos. 
 
-![Espectáculo A pluma y espada en Puy du Fou Toledo](etheria-images/2022/04/A-Pluma-y-Espada-puy-du-fou.jpg "Espectáculo A pluma y espada.")
+![Espectáculo A pluma y espada en Puy du Fou Toledo](https://fotos.etheriamagazine.com/2022/04/A-Pluma-y-Espada-puy-du-fou.jpg "Espectáculo A pluma y espada.")
 
 ### 5\. Por la tecnología empleada en 'El último cantar'
 
@@ -85,7 +85,7 @@ Además, fue reconocido como '**El mejor espectáculo del mundo**' en los IAAPA 
 Awards, los premios internacionales con mayor prestigio de la industria del 
 entretenimiento. Duración: 30 minutos. 
 
-![Escena de El último cantar, en Puy du Fou](etheria-images/2022/04/Puy-du-Fou-El-ultimo-Cantar.jpg "Escena de El último cantar.")
+![Escena de El último cantar, en Puy du Fou](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-El-ultimo-Cantar.jpg "Escena de El último cantar.")
 
 ### 6\. Por la travesía de ‘Allende la mar océana’
 
@@ -96,7 +96,7 @@ están distribuidos principalmente por la nao Santa María, también en momentos
 la navegación y la llegada a las islas. Los efectos están muy logrados. Duración: 25 
 minutos. 
 
-![Escena de Allende la mar océana, en Puy du Fou](etheria-images/2022/04/Puy-du-Fou-Allende-la-Mar-Oceana.jpg "Escena de Allende la mar océana.")
+![Escena de Allende la mar océana, en Puy du Fou](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Allende-la-Mar-Oceana.jpg "Escena de Allende la mar océana.")
 
 ### 7\.  Por los héroes anónimos de 'El vagar de los siglos'
 
@@ -108,7 +108,7 @@ superviviente de Numancia, y, más allá, verás a María de Prado, una joven qu
 dejar sus quehaceres domésticos para alzar la espada. Duración: unos 5 minutos cada 
 pieza. 
 
-![La joven María Prado en una escena de El vagar de los siglos](etheria-images/2022/04/Puy-du-Fou-El-Vagar-de-los-Siglos.jpg "El vagar de los siglos, escenas teatrales repartidas por el parque.")
+![La joven María Prado en una escena de El vagar de los siglos](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-El-Vagar-de-los-Siglos.jpg "El vagar de los siglos, escenas teatrales repartidas por el parque.")
 
 ### 8\. Por 'El sueño de Toledo'
 
@@ -119,7 +119,7 @@ sueño de Toledo_ podrá acoger esta temporada aún más espectadores (hasta lle
 por sesión). Se puede adquirir una entrada exclusiva para la obra, sin visitar el 
 parque. 
 
-![Escena del espectáculo nocturno El sueño de Toledo](etheria-images/2022/04/Puy-du-Fou-El-Sueno-de-Toledo.jpg "Espectáculo nocturno El sueño de Toledo.")
+![Escena del espectáculo nocturno El sueño de Toledo](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-El-Sueno-de-Toledo.jpg "Espectáculo nocturno El sueño de Toledo.")
 
 ### 9\. Por escuchar las 'Elucubraciones del sereno'
 
@@ -129,7 +129,7 @@ historias de otros tiempos. A ciertas horas del día también es posible ver “
 La Puebla”. Es conveniente revisar al llegar los horarios de las actividades para no 
 perdérselos. Duración: unos 5 minutos. 
 
-![Actor en la obra Elucubraciones del sereno](etheria-images/2022/04/Puy-du-Fou-Elucubraciones-del-sereno.jpg "Elucubraciones del sereno.")
+![Actor en la obra Elucubraciones del sereno](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Elucubraciones-del-sereno.jpg "Elucubraciones del sereno.")
 
 ### 10\. Para ver la tematización de los poblados
 
@@ -140,7 +140,7 @@ gran califa Abderramán III; la **Venta de Isidro**, simula un caserío de aspec
 con distintos mesones; y **El Arrabal**, es un barrio situado fuera de las murallas que 
 encontrarás nada más pasar por las taquillas. 
 
-![La Puebla Real, un poblado de estética medieval en Puy du Fou](etheria-images/2022/04/Puebla-Real-Puy-du-Fou-Espana.jpg "Músico en La Puebla Real.")
+![La Puebla Real, un poblado de estética medieval en Puy du Fou](https://fotos.etheriamagazine.com/2022/04/Puebla-Real-Puy-du-Fou-Espana.jpg "Músico en La Puebla Real.")
 
 ### 11\. Por su oferta gastronómica
 
@@ -152,7 +152,7 @@ _hummus_ y _shawarma_ de pollo en **El Shawarma Andalusí,** y los dulces de Med
 Oriente en **El Mezzé de Ziryab**. No está prohibido introducir comida, por lo que 
 también puedes llevar algo si quieres. 
 
-![El Mesón del Buen Yantar, en La Puebla Rea](etheria-images/2022/04/meson-puy-du-fou.jpg "El Mesón del Buen Yantar, en La Puebla Real.")
+![El Mesón del Buen Yantar, en La Puebla Rea](https://fotos.etheriamagazine.com/2022/04/meson-puy-du-fou.jpg "El Mesón del Buen Yantar, en La Puebla Real.")
 
 ### 12\. Por sus didácticos talleres
 
@@ -160,7 +160,7 @@ En las instalaciones del parque se sitúan diversos puestos de artesanos donde s
 oficios de antaño. Uno de ellos es el taller de espadas donde varias veces al día se 
 narra la historia de este tipo de armas y se realizan exhibiciones. 
 
-![taller y puesto de espadas en Puy de Fou](etheria-images/2022/04/Puy-du-Fou-El-Espadero-de-Vivar.jpg "El espadero de Vivar.")
+![taller y puesto de espadas en Puy de Fou](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-El-Espadero-de-Vivar.jpg "El espadero de Vivar.")
 
 ### 13\. Para comprar recuerdos históricos
 
@@ -173,7 +173,7 @@ También es un buen lugar para hacerse con **productos gourmet**, con los que pe
 el recuerdo del día una vez en casa (quesos, aceites, vinos, repostería, etc.) y 
 **artesanía típica manchega**. 
 
-![Tienda de recuerdos con libros y globos terráqueos en Puy de Fou](etheria-images/2022/04/tienda-recuerdos-Puy-du-Fou.jpg "Tienda de recuerdos de Puy du Fou.")
+![Tienda de recuerdos con libros y globos terráqueos en Puy de Fou](https://fotos.etheriamagazine.com/2022/04/tienda-recuerdos-Puy-du-Fou.jpg "Tienda de recuerdos de Puy du Fou.")
 
 ### 14\. Para hacerte bonitas fotos
 
@@ -181,7 +181,7 @@ Uno de los últimos motivos para visitar Puy du Fou Toledo es hacerse fotografí
 alegrar los perfiles de redes sociales y para llenar los álbumes familiares. Hay decenas 
 de rincones ideales, tanto los de apariencia medieval como oriental. 
 
-![tienda de esencias y perfumes de Puy du Fou](etheria-images/2022/04/Puy-du-Fou-El-Alatar-de-la-Favorita.jpg "En el Alatar de la Favorita se pueden comprar esencias y perfumes.")
+![tienda de esencias y perfumes de Puy du Fou](https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-El-Alatar-de-la-Favorita.jpg "En el Alatar de la Favorita se pueden comprar esencias y perfumes.")
 
 ### 15\. Para celebrar un evento
 
@@ -189,7 +189,7 @@ Y, para terminar, una novedad de Puy du Fou de este 2022 es el alquiler de más 
 para eventos y celebraciones. Cumpleaños, comuniones, encuentros con amigos... no se nos 
 ocurre un marco mejor cerca de Toledo. 
 
-![La Venta de Isidro, uno de los espacios que se pueden reservar para celebraciones.](etheria-images/2022/04/La-Venta-de-Isidro-Puy-du-Fou.jpg "La Venta de Isidro, uno de los espacios que se pueden reservar para celebraciones.")
+![La Venta de Isidro, uno de los espacios que se pueden reservar para celebraciones.](https://fotos.etheriamagazine.com/2022/04/La-Venta-de-Isidro-Puy-du-Fou.jpg "La Venta de Isidro, uno de los espacios que se pueden reservar para celebraciones.")
 
 ## Guía básica para visitar Puy du Fou Toledo
 

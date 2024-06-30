@@ -1,7 +1,7 @@
 ---
 title: "Marrakech con amigas, visitas para un fin de semana intenso"
 date: 2018-12-27
-coverImage: etheria-images/2019/11/marrakech-viajes-mayores-55.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/11/marrakech-viajes-mayores-55.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -14,7 +14,7 @@ Viajar a Marrakech con amigas es una gran idea todo el año, así que aprovecha 
 fin de semana para conocer una de las ciudades más vibrantes del planeta. Elige algunos, 
 o todos, los planes que te recomendamos y disponte a disfrutar. 
 
-![Tomar un té moruno forma parte del protocolo en hogares y comercios.](etheria-images/2018/12/marrakech-viaje-de-mujeres-1024x682.jpg "Tomar un té moruno forma parte del protocolo en hogares y comercios.")
+![Tomar un té moruno forma parte del protocolo en hogares y comercios.](https://fotos.etheriamagazine.com/2018/12/marrakech-viaje-de-mujeres-1024x682.jpg "Tomar un té moruno forma parte del protocolo en hogares y comercios.")
 
 Siempre me ha gustado pensar que a unas escasas dos horas de Madrid existe otro mundo. 
 Sobrevolar el Sahara y adentrarse en la caótica urbe de **Marrakech** es una delicia. 
@@ -33,7 +33,7 @@ considerar una experiencia digna de _Las mil y una noches_, en el que la Edad Me
 funde con el lujo árabe para proporcionarte una amalgama de sensaciones difíciles de 
 olvidar. 
 
-![Plaza Jemaa El Fna (Marrakech).](etheria-images/2018/12/plaza-marrakech-viaje-mujeres-1024x682.jpg "Plaza Jemaa El Fna (Marrakech).")
+![Plaza Jemaa El Fna (Marrakech).](https://fotos.etheriamagazine.com/2018/12/plaza-marrakech-viaje-mujeres-1024x682.jpg "Plaza Jemaa El Fna (Marrakech).")
 
 ## Qué ver en Marrakech
 
@@ -58,7 +58,7 @@ supuesto, especias. Allí tienen de todo y a todos los precios. Será el momento
 de sacar a la regateadora profesional que llevas dentro y llevarte tesoros a casa por 
 unos pocos dirhams. 
 
-![`No te pierdas la Plaza de las Especias, en Marrakech.](etheria-images/2018/12/especias-marrakech-viaje-mujeres-1024x743.jpg "`No te pierdas la Plaza de las Especias, en Marrakech.")
+![`No te pierdas la Plaza de las Especias, en Marrakech.](https://fotos.etheriamagazine.com/2018/12/especias-marrakech-viaje-mujeres-1024x743.jpg "`No te pierdas la Plaza de las Especias, en Marrakech.")
 
 ### Café des Épices y Nomad
 
@@ -98,7 +98,7 @@ estará tu refugio para estos días.
 Sultana](http://etheriamagazine.com/2019/02/27/hotel-la-sultana-marrakech/) todos ellos 
 con piscina central, terraza en la azotea y habitaciones que invitan a soñar despierta. 
 
-![Habitación de Riad Jasmine.](etheria-images/2018/12/riad-yasmine-1024x664.jpg "© Riad Jasmine.")
+![Habitación de Riad Jasmine.](https://fotos.etheriamagazine.com/2018/12/riad-yasmine-1024x664.jpg "© Riad Jasmine.")
 
 ### Relax en Marrakech con amigas
 
@@ -111,7 +111,7 @@ reducto del lujo más exclusivo y maravilloso. Solo escribiendo estas líneas ya
 imagino atravesando su puerta principal, sorteada por guardianes vestidos de blanco y 
 con su aroma seña de la casa (dátiles) entrando por mis fosas nasales. ¡Ay, La Mamounia! 
 
-![Patio del Hotel La Mamounia.](etheria-images/2018/12/la-mamounia.jpg "© Hotel La Mamounia.")
+![Patio del Hotel La Mamounia.](https://fotos.etheriamagazine.com/2018/12/la-mamounia.jpg "© Hotel La Mamounia.")
 
 Si alojarte allí se te va de presupuesto, han lanzado unos packs muy a tener en cuenta. 
 Con el pase de un día podrás acceder a sus piscinas, darte un masaje o un hamman en su 
@@ -128,7 +128,7 @@ convertirlo en su refugio. Más de 100 especies diferentes de cactus, una impres
 mansión azul Majorelle que acoge un museo bereber, estanques de nenúfares... Pura poesía 
 visual en un edén marroquí. 
 
-![Jardines Majorelle y Museo de Yves Saint Laurent](etheria-images/2018/12/museo-yves-saint-laurent-1024x599.jpg "Jardines Majorelle y Museo de Yves Saint Laurent.")
+![Jardines Majorelle y Museo de Yves Saint Laurent](https://fotos.etheriamagazine.com/2018/12/museo-yves-saint-laurent-1024x599.jpg "Jardines Majorelle y Museo de Yves Saint Laurent.")
 
 Hace unos años abría sus puertas el **Museo Yves Saint Laurent**, imprescindible para 
 los amantes de la moda y el estilo del genio francés. Podrás ver algunos de los diseños 
@@ -136,7 +136,7 @@ más emblemáticos del diseñador y cómo Marrakech influyó en su vida y estilo
 diseñador. Sus musas, su forma de trabajar y su universo quedan plasmados en una 
 fantástica lección de cómo deber ser un museo. 
 
-![Dunas del desierto del Sahara, una excursión desde Marrakech](etheria-images/2018/12/desierto-marruecos-1024x683.jpg "Dunas del desierto del Sahara.")
+![Dunas del desierto del Sahara, una excursión desde Marrakech](https://fotos.etheriamagazine.com/2018/12/desierto-marruecos-1024x683.jpg "Dunas del desierto del Sahara.")
 
 ### Una noche en el desierto
 

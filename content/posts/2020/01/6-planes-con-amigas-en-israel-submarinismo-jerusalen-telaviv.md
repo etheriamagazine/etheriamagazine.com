@@ -1,7 +1,7 @@
 ---
 title: "Israel, una ruta con amigas desde el mar Rojo a Tel Aviv"
 date: 2020-01-01
-coverImage: etheria-images/2019/12/israel-timna-park.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/12/israel-timna-park.jpg
 categories: 
   - viajes-con-amigas
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ más importantes, Jerusalén y Tel Aviv, es posible bucear en el mar Rojo, flota
 las aguas del mar Muerto y disfrutar de sus parques botánicos y geológicos. Toma nota de 
 estas recomendaciones para tu próximo viaje a Israel con amigas. 
 
-![Formaciones rocosas en Timna Park, en el desierto de Néguev.](etheria-images/2019/12/israel-timna-park-900x600.jpg "Formaciones rocosas en Timna Park, en el desierto de Néguev.")
+![Formaciones rocosas en Timna Park, en el desierto de Néguev.](https://fotos.etheriamagazine.com/2019/12/israel-timna-park-900x600.jpg "Formaciones rocosas en Timna Park, en el desierto de Néguev.")
 
 ```
 Actualizado sept. 2022
@@ -30,7 +30,7 @@ ser más diferentes. ¿Te lo vas a perder?
 
 ## 1\. Bucear en el mar Rojo
 
-![Peces en el Mar Rojo.](etheria-images/2019/12/israel-mar-rojo-900x675.jpg "Peces en el Mar Rojo. © Vitaly Paykov")
+![Peces en el Mar Rojo.](https://fotos.etheriamagazine.com/2019/12/israel-mar-rojo-900x675.jpg "Peces en el Mar Rojo. © Vitaly Paykov")
 
 El mar Rojo es la zona más apreciada del mundo para bucear. En el desafortunado caso de 
 que no lo hayas hecho todavía, aprovecha para contratar un bautizo en **Eilat**, pues su 
@@ -44,7 +44,7 @@ Reef, donde podrás nadar con delfines.
 
 ## 2\. Atravesar el desierto de Néguev
 
-![Columnas de Salomón en el desierto de Néguev.](etheria-images/2019/12/israel-desierto-neguev-900x600.jpg "Columnas de Salomón en el desierto de Néguev.")
+![Columnas de Salomón en el desierto de Néguev.](https://fotos.etheriamagazine.com/2019/12/israel-desierto-neguev-900x600.jpg "Columnas de Salomón en el desierto de Néguev.")
 
 Adéntrate en el desierto de Néguev, y para en el **Timna Park**, un parque geológico que 
 antes albergaba minas de cobre. Ahora es un museo a cielo abierto donde la erosión ha 
@@ -54,7 +54,7 @@ reproducción del auténtico Tabernáculo Sagrado.
 
 ## 3\. Flotar en el Mar Muerto
 
-![Relájate flotando en el mar Muerto.](etheria-images/2019/12/israel-mar-muerto-900x666.jpg "Relájate flotando en el mar Muerto. © Avi Naim")
+![Relájate flotando en el mar Muerto.](https://fotos.etheriamagazine.com/2019/12/israel-mar-muerto-900x666.jpg "Relájate flotando en el mar Muerto. © Avi Naim")
 
 De camino hacia el mar Muerto, sube a la **montaña de Sodoma** (sí, la de la leyenda de 
 Sodoma y Gomorra, que no me cabe en este reportaje pero un guía te explicará bien). Y, 
@@ -65,7 +65,7 @@ heridas, ¡escuecen!
 
 ## 4\. Subir en teleférico al Masada, la fortaleza de Herodes
 
-![Vista del mar Muerto desde el teleférico de Masada.](etheria-images/2019/12/buenas-dicas-sxr5bVZOHRs-unsplash-900x600.jpg "Vista del mar Muerto desde el teleférico de Masada. © Buenas Dicas")
+![Vista del mar Muerto desde el teleférico de Masada.](https://fotos.etheriamagazine.com/2019/12/buenas-dicas-sxr5bVZOHRs-unsplash-900x600.jpg "Vista del mar Muerto desde el teleférico de Masada. © Buenas Dicas")
 
 Otra visita fundamental en este viaje a Israel con amigas es subir en teleférico al 
 **monte Masada**, donde se atrincheró Herodes –que era un poco paranoico–. También 
@@ -79,7 +79,7 @@ inusitadas que pueden crecer en un oasis en pleno desierto.
 
 ## 5\. Visitar Jerusalén, el dolor de Tierra Santa
 
-![Muro de las Lamentaciones en Jerusalén.](etheria-images/2019/12/israel-muro-lamentaciones-900x600.jpg "Muro de las Lamentaciones en Jerusalén. © Dave Herring")
+![Muro de las Lamentaciones en Jerusalén.](https://fotos.etheriamagazine.com/2019/12/israel-muro-lamentaciones-900x600.jpg "Muro de las Lamentaciones en Jerusalén. © Dave Herring")
 
 Lo más importante en la capital religiosa del país es visitar todos los monumentos 
 sagrados de **Tierra Santa** por los que se pelean cristianos, judíos y musulmanes. Los 
@@ -97,7 +97,7 @@ Hall de los Nombres no se merecían semejante sufrimiento. Nadie en el mundo, ja
 
 ## 6\. Descubrir la cosmopolita Tel Aviv
 
-![Panorámica de Tel Aviv.](etheria-images/2019/12/israle-tel-aviv-900x675.jpg "Panorámica de Tel Aviv. © Shai Pal")
+![Panorámica de Tel Aviv.](https://fotos.etheriamagazine.com/2019/12/israle-tel-aviv-900x675.jpg "Panorámica de Tel Aviv. © Shai Pal")
 
 Para acabar con mejor sabor de boca, el circuito lo cerramos en Tel Aviv, la capital de 
 la libertad, donde el cosmopolitismo y la creatividad se nota en barrios bohemios como 
@@ -112,7 +112,7 @@ Kdumim, el puente de Pisga… Si además de arte o souvenirs quieres comprar ant
 joyas, los **mercadillos** de Karmel Market, de la calle King George, de Sheinkin y de 
 la calle Dizengoff molan infinitamente. 
 
-![Puerto de Jaffa  escapada con amigas a Israel](etheria-images/2019/12/israel-jaffa-900x619.jpg "Puerto de Jaffa.")
+![Puerto de Jaffa  escapada con amigas a Israel](https://fotos.etheriamagazine.com/2019/12/israel-jaffa-900x619.jpg "Puerto de Jaffa.")
 
 Y si vas cuando llega el buen tiempo, aprovecha sus kilómetros de **playa** para bañarte 
 y hacer surf, y para dejarte agasajar en sus chiringuitos y clubs como el **Topsea** por 

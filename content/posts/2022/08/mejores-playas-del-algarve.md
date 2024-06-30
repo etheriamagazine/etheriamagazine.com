@@ -1,7 +1,7 @@
 ---
 title: "¿Son éstas las 10 playas más bonitas del Algarve?"
 date: 2022-08-04
-coverImage: etheria-images/2022/08/playa-Barranco-algarve.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/08/playa-Barranco-algarve.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -16,7 +16,7 @@ también las hay que se extienden por arenales infinitos o están frente a puebl
 pintorescos. Así que no te diremos que estas son las mejores playas del Algarve pero sí 
 que te encantará conocerlas... 
 
-![Cueva con playa de Benagil, en el Algarve.](etheria-images/2022/08/playa-cueva-benagil-algarve.jpg "Cueva con playa de Benagil, en el Algarve.")
+![Cueva con playa de Benagil, en el Algarve.](https://fotos.etheriamagazine.com/2022/08/playa-cueva-benagil-algarve.jpg "Cueva con playa de Benagil, en el Algarve.")
 
 Si, por fin, has decidido que este año viajas al sur de Portugal, esta pequeña guía de 
 las consideradas por muchos como “las mejores playas de Algarve” te va a venir 
@@ -46,7 +46,7 @@ al Cabo de San Vicente, después tendrás que girar a la derecha en la última s
 del cabo. Y, desde ahí, sólo hay que seguir un camino de tierra. Es completamente virgen 
 así que llévate todo lo que necesites para pasar un maravilloso día de playa. 
 
-![Playa de Ponta Ruiva, en el Algarve.](etheria-images/2022/08/playa-Ponta-Ruiva-algarve.jpg "Playa de Ponta Ruiva, en el Algarve.")
+![Playa de Ponta Ruiva, en el Algarve.](https://fotos.etheriamagazine.com/2022/08/playa-Ponta-Ruiva-algarve.jpg "Playa de Ponta Ruiva, en el Algarve.")
 
 ### 2\. Playa de Ilha da Barreta o Ilha Deserta 
 
@@ -58,7 +58,7 @@ esta playa debes dirigirte al muelle de Porta Nova (junto al castillo de Faro) e
 10 y las 19 horas. Desde ese punto sale un barco. Otra opción es alquilar un taxiboat, 
 todo depende de tu presupuesto. flexibilidad horaria. 
 
-![Playa de Ilha da Barreta o Ilha Deserta.](etheria-images/2022/08/playa-isla-desierta-algarve.jpg "Playa de Ilha da Barreta o Ilha Deserta.")
+![Playa de Ilha da Barreta o Ilha Deserta.](https://fotos.etheriamagazine.com/2022/08/playa-isla-desierta-algarve.jpg "Playa de Ilha da Barreta o Ilha Deserta.")
 
 ### 3\. Playa do Castelejo 
 
@@ -71,7 +71,7 @@ playa do Castelejo formando olas que son codiciadas por un buen número de surfi
 el agua, el castillo rocoso de la ‘Pedra da Lage’ emerge y acoge generosamente un buen 
 número de aves marinas. 
 
-![Playa do Castelejo, una de las mejores playas del Algarve.](etheria-images/2022/08/playa-castelejo-algarve.jpg "Playa do Castelejo, una de las mejores playas del Algarve.")
+![Playa do Castelejo, una de las mejores playas del Algarve.](https://fotos.etheriamagazine.com/2022/08/playa-castelejo-algarve.jpg "Playa do Castelejo, una de las mejores playas del Algarve.")
 
 ### 4\. Playa do Barranco 
 
@@ -83,7 +83,7 @@ Atlánticas. Para llegar a este rincón virgen, puedes partir desde la freguesí
 Raposeira donde hay que tomar dirección Zavial, después sólo tendrás que girar a la 
 derecha y seguir un camino de tierra. 
 
-![Playa do Barranco.](etheria-images/2022/08/playa-Barranco-algarve.jpg "Playa do Barranco.")
+![Playa do Barranco.](https://fotos.etheriamagazine.com/2022/08/playa-Barranco-algarve.jpg "Playa do Barranco.")
 
 ### 5\. Playa do Telheiro
 
@@ -94,7 +94,7 @@ Bispo porque las distintas capas de la Tierra quedan al descubierto con pliegues
 oscuras, rojizas, calizas... Seguro que no te costará encontrar fósiles entre baño y 
 baño. 
 
-![Playa do Telheiro](etheria-images/2022/08/playa-Telheiro-algarve.jpg "Playa do Telheiro.")
+![Playa do Telheiro](https://fotos.etheriamagazine.com/2022/08/playa-Telheiro-algarve.jpg "Playa do Telheiro.")
 
 ### 6\. Playa da Arrifana
 
@@ -105,7 +105,7 @@ protegen la ensenada del aire y que la envuelven en un ambiente virginal. En la 
 norte se pueden ver restos de una fortaleza musulmana de gran valor arqueológico, y en 
 el agua emerge la ‘Pedra da Agulha’, el símbolo de la Costa Vicentina. 
 
-![Playa da Arrifana](etheria-images/2022/08/playa-arrifana-algarve.jpg "Playa da Arrifana.")
+![Playa da Arrifana](https://fotos.etheriamagazine.com/2022/08/playa-arrifana-algarve.jpg "Playa da Arrifana.")
 
 ### 7\. Playa de Benagil 
 
@@ -116,7 +116,7 @@ que no deja de circular en redes sociales, es un incentivo al que pocos se resis
 Nuestro consejo es acudir a primerísima hora o bien en temporada baja para que el gentío 
 no perturbe su bellísima imagen de postal. 
 
-![Playa de Benagil](etheria-images/2022/08/playa-Benagil-algarve.jpg "Playa de Benagil.")
+![Playa de Benagil](https://fotos.etheriamagazine.com/2022/08/playa-Benagil-algarve.jpg "Playa de Benagil.")
 
 ### 8\. Playa do Homem Nu
 
@@ -124,7 +124,7 @@ La playa del Hombre Desnudo, situada en la parte oeste de la Isla de Tavira, es 
 ensenada virgen que invita al. naturismo. Su nombre lo recibe porque a este lugar llegó 
 el único superviviente de un naufragio. Se puede llegar en taxiboat desde Fuzeta. 
 
-![Playa de Homen Nu, en el Algarve.](etheria-images/2022/08/playa-Homem-Nu-algarve.jpg "Playa de Homen Nu, en el Algarve.")
+![Playa de Homen Nu, en el Algarve.](https://fotos.etheriamagazine.com/2022/08/playa-Homem-Nu-algarve.jpg "Playa de Homen Nu, en el Algarve.")
 
 ### 9\. Playa da Salema
 
@@ -135,7 +135,7 @@ vida. Ver llegar a los pescadores del mar y luego degustar el fruto recién capt
 Atlántico es un auténtico placer. No dejes de pedir pulpo o sargo en los restaurantes de 
 Salerma. 
 
-![Playa da Salema](etheria-images/2022/08/playa-Salema-algarve.jpg "Playa da Salema.")
+![Playa da Salema](https://fotos.etheriamagazine.com/2022/08/playa-Salema-algarve.jpg "Playa da Salema.")
 
 ### 10\. Playa da Barriga 
 
@@ -145,14 +145,14 @@ Desde la playa da Barriga, además, se puede llegar, cuando la marea está baja,
 playa de Castelejo. El escenario de esta ensenada con los acantilados, el mar y la arena 
 dorada también son ideales para hacerte un bonito reportaje fotográfico. 
 
-![Playa da Barriga](etheria-images/2022/08/playa-Barriga-algarve.jpg "Playa da Barriga.")
+![Playa da Barriga](https://fotos.etheriamagazine.com/2022/08/playa-Barriga-algarve.jpg "Playa da Barriga.")
 
 #### Mapa de las mejores playas de Algarve
 
 En este [enlace de Google Maps](https://goo.gl/maps/GN57dEvdNHtPzXfC9) encontrarás las 
 playas anteriores ubicadas para que moverte por esta región sea lo más sencillo posible. 
 
-![Mapa de playas del Algarve.](etheria-images/2022/08/mapa-playas-algarve.jpg "Mapa de playas del Algarve (haz click en el enlace superior.")
+![Mapa de playas del Algarve.](https://fotos.etheriamagazine.com/2022/08/mapa-playas-algarve.jpg "Mapa de playas del Algarve (haz click en el enlace superior.")
 
 ### Sigue leyendo sobre el Algarve
 

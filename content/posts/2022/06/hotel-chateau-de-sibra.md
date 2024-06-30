@@ -1,7 +1,7 @@
 ---
 title: "Château de Sibra, un alojamiento exclusivo en los Pirineos franceses"
 date: 2022-06-22
-coverImage: etheria-images/2022/06/chateaux-sibra-noche.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/chateaux-sibra-noche.jpg
 categories: 
   - organiza-tu-viaje
   - experiencias-viajeras
@@ -13,7 +13,7 @@ authors:
 
 No todos los alojamientos en los que pasar unas vacaciones son hoteles al uso. Hay lugares tan diferentes y especiales como el Château de Sibra, un auténtico castillo francés que ha conseguido ser un lugar de lo más acogedor en el fabuloso entorno de los Pirineos franceses.
 
-![castillo de Sibra](etheria-images/2022/06/chateaux-sibra-noche.jpg "Château de Sibra al anochecer.")
+![castillo de Sibra](https://fotos.etheriamagazine.com/2022/06/chateaux-sibra-noche.jpg "Château de Sibra al anochecer.")
 
 Alojarse en un edificio con historia es un aliciente en un viaje. Y en un edificio cuya 
 trayectoria se remonta al siglo XIII tienes la sensación de estar durmiendo en un lugar 
@@ -28,7 +28,7 @@ reformada en varias ocasiones hasta 1916, la más importante la emprendida a fin
 XIX por el matrimonio **Villary de Fajac** para adecuarlo al estilo _Troubadour_, con un 
 jardín romántico y un parque, un estilo que la propiedad actual ha querido mantener. 
 
-![paseo a caballo en el Château de Sibra](etheria-images/2022/06/chateau-sibra-jardin.jpg "Jardines del Castillo de Sibra.")
+![paseo a caballo en el Château de Sibra](https://fotos.etheriamagazine.com/2022/06/chateau-sibra-jardin.jpg "Jardines del Castillo de Sibra.")
 
 Eso sí, la renovación del espacio se ha hecho con un compromiso con el medio ambiente, 
 con distintos sistemas de calefacción y refrigeración sostenibles y utilizando productos 
@@ -44,7 +44,7 @@ planta o la **biblioteca** son perfectas para un rato de lectura. El **comedor**
 decorado con pinturas históricas, pero si prefieres tomar algo más informal, es posible 
 prepararse algo de comer en las dependencias comunes. 
 
-![Estancias del castillo de Sibra](etheria-images/2022/06/chateau-sibra-contraste.jpg "Contraste en la decoración entre uno de los salones y el baño de la habitación Sala de Armas.")
+![Estancias del castillo de Sibra](https://fotos.etheriamagazine.com/2022/06/chateau-sibra-contraste.jpg "Contraste en la decoración entre uno de los salones y el baño de la habitación Sala de Armas.")
 
 ## Inspiración para artistas
 
@@ -65,7 +65,7 @@ tradicional del castillo con toques modernos en el mobiliario y los baños. Así
 podrás contemplar los estucos restaurados mientras te conectas a la conexión wifi 
 gratuita. 
 
-![Habitación del Châteaux de Sibra](etheria-images/2022/06/chateau-sibra-habitacion.jpg "Habitación del castillo.")
+![Habitación del Châteaux de Sibra](https://fotos.etheriamagazine.com/2022/06/chateau-sibra-habitacion.jpg "Habitación del castillo.")
 
 Además, dispone de dos apartamentos y un estudio situados en antigua finca de la granja, 
 unos espacios tipo _loft_ con paredes encaladas que conservan los techos antiguos y los 
@@ -83,7 +83,7 @@ o de forma individual, elaborados con ingredientes de la huerta del castillo y d
 productores locales. Además, presta atención a su carta de vinos, con una selección muy 
 especial de vinos ecológicos. 
 
-![picnic en el jardin del Chateaux de Sibra](etheria-images/2022/06/chateau-sibra-almuerzo.jpg "Almuerzo en el jardín.")
+![picnic en el jardin del Chateaux de Sibra](https://fotos.etheriamagazine.com/2022/06/chateau-sibra-almuerzo.jpg "Almuerzo en el jardín.")
 
 También podrán preparar para tus excursiones unas bonitas y completas cestas de 
 **pícnic** para que elijas tú misma el lugar donde degustar sus especialidades. 
@@ -97,7 +97,7 @@ una ruta de senderismo por los alrededores para descubrir las orquídeas salvaje
 excursión para descubrir los **castillos cátaros** como el de Montségur, Carcassonne o 
 Toulouse. 
 
-![castillo cátaro de Carcasona](etheria-images/2022/06/casatillo-carcassonne.jpg "Castillo de Carcassonne.")
+![castillo cátaro de Carcasona](https://fotos.etheriamagazine.com/2022/06/casatillo-carcassonne.jpg "Castillo de Carcassonne.")
 
 Para darse un baño en verano se puede acudir al bonito **lago Montbel** (a 13 
 kilómetros) o al **río Touyres**, al que podrás llegar caminando. Y, si buscas una 
@@ -113,7 +113,7 @@ Labouche**, el río subterráneo más largo de Europa. También es muy recomenda
 en bicicleta por la cercana **Voie Verte**, que transcurre por una antigua vía de tren; 
 en el mismo Château de Sibra podrás alquilar las bicicletas. 
 
-![Lago Montbel](etheria-images/2022/06/lago-montbel.jpg "Lago Montbel. © Carolina Betancur")
+![Lago Montbel](https://fotos.etheriamagazine.com/2022/06/lago-montbel.jpg "Lago Montbel. © Carolina Betancur")
 
 Si te gusta montar a caballo, puedes acudir al **Centro du Soularac de Roumengoux** 
 donde se organizan excursiones por la zona y los amantes del golf tienen muy a mano el 

@@ -1,7 +1,7 @@
 ---
 title: "Pablo d'Ors nos invita a “escuchar el sonido del silencio”"
 date: 2021-12-22
-coverImage: etheria-images/2021/12/kristina-flour-BcjdbyKWquw-unsplash-scaled.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash-scaled.jpg
 categories: 
   - salud-bienestar-nutricion
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 “Tenemos nostalgia de silencio”, dice Pablo d’Ors. El autor de ‘Biografía del Silencio’, un bestseller de la espiritualidad, acaba de publicar una nueva obra, ‘Biografía de la luz’, en la que reivindica que "hemos de entrar en la escuela de la interioridad porque si no, no vivimos".
 
-![pablo dors we life](etheria-images/2021/12/pablo-dors-we-life.jpg "Pablo d'Ors en su intervención en el Mercedes-EQ Welife Festival. © María Miret")
+![pablo dors we life](https://fotos.etheriamagazine.com/2021/12/pablo-dors-we-life.jpg "Pablo d'Ors en su intervención en el Mercedes-EQ Welife Festival. © María Miret")
 
 Profesor, novelista y sacerdote, Pablo d’Ors es el autor de ‘**Biografía del 
 Silencio**’, un súper ventas de la espiritualidad. Recién publicada su ‘Biografía de la 
@@ -22,7 +22,7 @@ Taller de Editores y Vocento en Madrid. Allí nos ha invitado a “escuchar el s
 silencio”. Si no pudiste acudir, te contamos de forma sucinta algunas de sus 
 reflexiones. 
 
-![nostalgia de silencio pablo dors](etheria-images/2021/12/kristina-flour-BcjdbyKWquw-unsplash-900x576.jpg ""Tenemos nostalgia de silencio". © Kristina Flour")
+![nostalgia de silencio pablo dors](https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash-900x576.jpg ""Tenemos nostalgia de silencio". © Kristina Flour")
 
 ### Pablo d'Ors: "El silencio permite escuchar el verdadero sonido del mundo"
 
@@ -43,7 +43,7 @@ aprender a distinguir. Siguiendo la tradición de los padres y madres del desier
 cristianos, Pablo d’Ors ha creado la red de meditadores [Amigos del 
 Desierto](https://www.amigosdeldesierto.org/). 
 
-![pablo dors Mercedes EQ Welife Festival](etheria-images/2021/12/pablo-d-ors-espiritualidad.jpg "Pablo d'Ors en la interesante charla del Mercedes-EQ Welife Festival. © María Miret")
+![pablo dors Mercedes EQ Welife Festival](https://fotos.etheriamagazine.com/2021/12/pablo-d-ors-espiritualidad.jpg "Pablo d'Ors en la interesante charla del Mercedes-EQ Welife Festival. © María Miret")
 
 Pablo d’Ors no es un sacerdote cualquiera. Para él, la “espiritualidad es cuidar del 
 cuerpo y la mente, con atención amorosa”, porque “para amar hay que estar atento”. En su 
@@ -54,7 +54,7 @@ invita a empezar por prestar atención en un punto del cuerpo. “**Meditar** es
 una palabra atenta, amorosamente, y prestar atención a un punto de tu cuerpo”. No podía 
 ofrecernos mejor definición de la meditación. 
 
-![meditacion ejercicio espiritual](etheria-images/2021/12/meditacion.jpg ""Meditando se ilumina lo interior" asegura Pablo d'Ors. © Benjamin Child")
+![meditacion ejercicio espiritual](https://fotos.etheriamagazine.com/2021/12/meditacion.jpg ""Meditando se ilumina lo interior" asegura Pablo d'Ors. © Benjamin Child")
 
 ### “Hemos de entrar en la escuela de la interioridad porque si no, no vivimos”
 
@@ -74,7 +74,7 @@ vacío**. Por eso, la llamada al silencio es una llamada a saltar, a caer. A sol
 es su experiencia también al acompañar a personas en el proceso de morir. “La mayoría 
 muere sin querer morir. Se les arrebata la vida, no se entregan”, reconoce. 
 
-![tristeza libro de pablo dors](etheria-images/2021/12/salud-mental-etheria-magazine.jpg "La tristeza no es definitiva, comenta el autor de 'Biografía de la luz'. © Tamara Bellis")
+![tristeza libro de pablo dors](https://fotos.etheriamagazine.com/2021/12/salud-mental-etheria-magazine.jpg "La tristeza no es definitiva, comenta el autor de 'Biografía de la luz'. © Tamara Bellis")
 
 ### “La tristeza no es definitiva” dice Pablo d'Ors
 

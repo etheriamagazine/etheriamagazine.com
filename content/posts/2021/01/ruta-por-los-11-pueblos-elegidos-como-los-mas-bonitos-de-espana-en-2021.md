@@ -1,7 +1,7 @@
 ---
 title: "Ruta por los 11 pueblos elegidos como los más bonitos de España en 2021"
 date: 2021-01-19
-coverImage: etheria-images/2021/01/portada-bulnes.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/portada-bulnes.jpg
 categories: 
   - viajes-48-horas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Si eres de los que te documentas antes de viajar y sigues la selección de ‘Los pueblos más bonitos de España’ como si de una biblia se tratase... ¡tienes tarea este 2021! Se han incorporado 11 nuevas poblaciones con encanto, por lo que ya deberías tener en tu listado un total de 104 municipios. Te contamos las nuevas localidades para que vayas eligiendo las escapadas del año.
 
-![bulnes asturias](etheria-images/2021/01/portada-bulnes.jpg "Bulnes, uno de los pueblos incorporados en 2021.")
+![bulnes asturias](https://fotos.etheriamagazine.com/2021/01/portada-bulnes.jpg "Bulnes, uno de los pueblos incorporados en 2021.")
 
 Las nuevas incorporaciones a ‘Los pueblos más bonitos de España’ en 2021 se reparten por 
 gran parte de la geografía española, por lo que este año –en cuanto se pueda– hay que 
@@ -38,7 +38,7 @@ A continuación encontrarás algunos datos básicos de las nuevas incorporacione
 vayas eligiendo el orden en el que quieres empezar esta ruta por 'Los pueblos más 
 bonitos de España' en 2021. 
 
-![roncal pueblo bonito de navarra](etheria-images/2021/01/pueblos-mas-bonitos-roncal.jpg "Roncal (Navarra).")
+![roncal pueblo bonito de navarra](https://fotos.etheriamagazine.com/2021/01/pueblos-mas-bonitos-roncal.jpg "Roncal (Navarra).")
 
 ## 1\. Roncal o Erronkari (Navarra)
 
@@ -52,7 +52,7 @@ el famoso tenor navarro? Este cantante que interpretó tantas óperas descansa e
 mausoleo esculpido por Benlliure. De la villa de Roncal no te puedes ir sin llevarte su 
 famoso queso de leche de oveja, con un ligero toque picante. 
 
-![cudillero pueblo mas bonito en asturias](etheria-images/2021/01/pueblo-bonito-espana-Cudillero.jpg "Cudillero (Asturias), uno de los nuevos 'Pueblos más bonitos de España'.")
+![cudillero pueblo mas bonito en asturias](https://fotos.etheriamagazine.com/2021/01/pueblo-bonito-espana-Cudillero.jpg "Cudillero (Asturias), uno de los nuevos 'Pueblos más bonitos de España'.")
 
 ## 2\. Cudillero (Asturias)
 
@@ -67,7 +67,7 @@ Como sabemos que te quedarás a comer aquí, recuerda pedir pescado. Uno muy rec
 es el pixín (rape) a la brasa, frito, a la sidra, con fabes o con setas. Y si no eres 
 mucho de rape, también está la merluza de pincho, el pote o un rico pastel de cabracho. 
 
-![bulnes pueblo mas bonito espana](etheria-images/2021/01/pueblo-mas-bonito-espana-bulnes.jpg "Bulnes (Asturias).")
+![bulnes pueblo mas bonito espana](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-espana-bulnes.jpg "Bulnes (Asturias).")
 
 ## 3\. Bulnes (Asturias)
 
@@ -85,7 +85,7 @@ valiente llegará a subir al Picu Urriellu (o Naranjo de Bulnes), la cumbre mít
 Picos de Europa. Por último, el recuerdo gastronómico que hay adquirir aquí es el queso 
 de Cabrales, de una gran calidad. 
 
-![agulo pueblo bonito la gomera](etheria-images/2021/01/pueblo-mas-bonito-agulo.jpg "Agulo (La Gomera), se ha incorporado a 'Los pueblos más bonitos de España'.")
+![agulo pueblo bonito la gomera](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-agulo.jpg "Agulo (La Gomera), se ha incorporado a 'Los pueblos más bonitos de España'.")
 
 ## 4\. Agulo (La Gomera)
 
@@ -100,7 +100,7 @@ estilo neogótico, con unas llamativas cúpulas blancas.
 carne de cabra o cochino, papas con mojo o unas tostaditas con almogrote (una rica pasta 
 de queso de cabra curado). 
 
-![nuevo baztan pueblo bonito de madrid](etheria-images/2021/01/pueblo-mas-bonito-Nuevo-Baztan.jpg "Nuevo Baztán (Comunidad de Madrid).")
+![nuevo baztan pueblo bonito de madrid](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-Nuevo-Baztan.jpg "Nuevo Baztán (Comunidad de Madrid).")
 
 ## 5\. Nuevo Baztán (Madrid)
 
@@ -117,7 +117,7 @@ de Oficios y sus bonitas balconadas con arcos. Si te coincide la hora de comer, 
 por los asados y las chuletas de cordero. Y si eres golosa, pide los repápalos, un dulce 
 parecido a los pestiños y preparado con vino y canela. 
 
-![valverde de la vera pueblo bonito de caceres](etheria-images/2021/01/pueblo-mas-bonito-valverde-736x1024.jpg "Valverde de la Vera (Cáceres).")
+![valverde de la vera pueblo bonito de caceres](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-valverde-736x1024.jpg "Valverde de la Vera (Cáceres).")
 
 ## 6\. Valverde de la Vera (Cáceres)
 
@@ -133,7 +133,7 @@ edificios de arquitectura tradicional. Si tienes que escoger un momento para vis
 apuesta por la Semana Santa, ya que durante la noche del Jueves al Viernes Santo se 
 producen escenas, como los Empalaos, muy impactantes. 
 
-![beget pueblo bonito de girona](etheria-images/2021/01/pueblo-bonito-Beget.jpg "Beget, es uno de los pueblos más bonitos de Girona.")
+![beget pueblo bonito de girona](https://fotos.etheriamagazine.com/2021/01/pueblo-bonito-Beget.jpg "Beget, es uno de los pueblos más bonitos de Girona.")
 
 ## 7\. Beget (Girona)
 
@@ -146,7 +146,7 @@ entre montañas, con sus dos puentes medievales, para que escuches el murmullo d
 Lliera y emprendas alguna excursión por los alrededores. ¿Necesitas algún incentivo más? 
 Allí encontrarás excelentes restaurantes. 
 
-![molinaseca pueblo bonito de leon](etheria-images/2021/01/pueblos-mas-bonitos-molinaseca.jpg "Molinaseca (León).")
+![molinaseca pueblo bonito de leon](https://fotos.etheriamagazine.com/2021/01/pueblos-mas-bonitos-molinaseca.jpg "Molinaseca (León).")
 
 ## 8\. Molinaseca (León)
 
@@ -162,7 +162,7 @@ numerosos templos. Lo que sí tenemos claro es que en Molinaseca hay que quedars
 disfrutar de su plato de botillo, de sus pimientos asados y de sus ricas castañas y 
 peras conferencia. 
 
-![banos de la encia pueblo bonito de jaen](etheria-images/2021/01/pueblo-mas-bonito-banos-encina-jaen.jpg "Camarín barroco de la ermita del Cristo Llano, en Baños de la Encina (Jaén).")
+![banos de la encia pueblo bonito de jaen](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-banos-encina-jaen.jpg "Camarín barroco de la ermita del Cristo Llano, en Baños de la Encina (Jaén).")
 
 ## 9\. Baños de la Encina (Jaén)
 
@@ -177,7 +177,7 @@ En este lugar, la gastronomía está marcada por su localización, por lo que lo
 probar su carne de caza y platos contundentes como el cucharro (pan relleno de tocino, 
 sardinas, tomate, aceitunas, un poco de aceite de oliva virgen y una pizca de sal). 
 
-![genalguacil pueblo bonito malaga](etheria-images/2021/01/pueblo-bonito-Genalguacil.jpg "Genalguacil (Málaga).")
+![genalguacil pueblo bonito malaga](https://fotos.etheriamagazine.com/2021/01/pueblo-bonito-Genalguacil.jpg "Genalguacil (Málaga).")
 
 ## 10\. Genalguacil (Málaga)
 
@@ -191,7 +191,7 @@ al aire libre, con más de 120 obras de arte contemporáneo. En cuanto a sus pla
 tradicionales, prueba la sopa de tomate o el gazpacho caliente (te sorprenderá, no se 
 parece nada al gazpacho tradicional andaluz. 
 
-![garachico pueblo mas bonito tenerife](etheria-images/2021/01/pueblo-mas-bonito-Garachico-681x1024.jpg "Garachico (Tenerife).")
+![garachico pueblo mas bonito tenerife](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-Garachico-681x1024.jpg "Garachico (Tenerife).")
 
 ## 11\. Garachico (Tenerife)
 
@@ -208,7 +208,7 @@ renacentista, y el castillo de San Miguel, de 1575. Y, por supuesto, llévate ba
 para darte un chapuzón en las piscinas naturales de El Caletón, y cuenta con darte un 
 homenaje con productos del mar, acompañados con vinos de la D.O. Ycoden-Daute-Isora. 
 
-![piscina natural garachico](etheria-images/2021/01/piscina-natural-Garachico.jpg "Piscina natural de Garachico (Tenerife).")
+![piscina natural garachico](https://fotos.etheriamagazine.com/2021/01/piscina-natural-Garachico.jpg "Piscina natural de Garachico (Tenerife).")
 
 Fotos cedidas por la Asociación ‘[Los pueblos más bonitos de 
 España’](http://www.lospueblosmasbonitosdeespana.org/). 

@@ -1,7 +1,7 @@
 ---
 title: "Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina marroquí"
 date: 2021-02-04
-coverImage: etheria-images/2021/02/Najat-chef-restaurante-nur.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/02/Najat-chef-restaurante-nur.jpg
 categories: 
   - libros-de-viajes
   - mujeres-etheria
@@ -12,7 +12,7 @@ authors:
 
 Los amantes de la cocina están de enhorabuena porque Planeta Gastro acaba de publicar NAJAT, un libro en el que la afamada chef Najat Kaanache nos lleva de viaje por los sabores de Marruecos y nos enseña a preparar recetas tradicionales. Y, entre plato y plato, también se revela la mujer que se oculta tras el delantal, fuerte y luchadora, que siempre se atrevió "a soñar a lo grande”.
 
-![Najat Kaanache con una langosta](etheria-images/2021/02/Najat-Kaanache-chef-nur-683x1024.jpg "Najat Kaanache, una chef vascomarroquí que ha roto moldes.")
+![Najat Kaanache con una langosta](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-chef-nur-683x1024.jpg "Najat Kaanache, una chef vascomarroquí que ha roto moldes.")
 
 ‘NAJAT. Recetas y relatos fascinantes para descubrir la magia de Marruecos’ es más que 
 un libro de cocina o una guía por los sabores marroquíes, es un relato íntimo que nos 
@@ -29,7 +29,7 @@ sabores y aromas de los platos la trasladaban a la tierra de sus padres. Ellos p
 de pueblecitos de las montañas del Atlas y cuando visitaban a los familiares en verano 
 volvían cargados de especias, nueces, almendras y flores. 
 
-![Najat Kaanache en marruecos](etheria-images/2021/02/Najat-chef-marruecos-683x1024.jpg "La chef ha encontrado en Marruecos su lugar en el mundo.")
+![Najat Kaanache en marruecos](https://fotos.etheriamagazine.com/2021/02/Najat-chef-marruecos-683x1024.jpg "La chef ha encontrado en Marruecos su lugar en el mundo.")
 
 ## Pan con legumbres en el recreo
 
@@ -48,7 +48,7 @@ compartía con todo el barrio, y de las flores que cultivaba siempre ofrecía la
 parte a los vecinos. «¿Por qué haces eso?», le pregunté en una ocasión cuando era niña. 
 «Venimos de fuera. Tenemos que esforzarnos un poco más», respondió mi madre”. 
 
-![Najat Kaanache en el puerto](etheria-images/2021/02/Najat-Kaanache-puerto-683x1024.jpg "Najat Kaanache se ha formado en 5 restaurantes con 3 estrellas Michelin.")
+![Najat Kaanache en el puerto](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-puerto-683x1024.jpg "Najat Kaanache se ha formado en 5 restaurantes con 3 estrellas Michelin.")
 
 ## Najat Kaanache: “Todo empezó con un sueño. Yo me atrevo a soñar a lo grande”
 
@@ -66,7 +66,7 @@ en teatro, que era para lo que se había formado, no terminaba de convencerla. A
 le importó rescatar los sabores de Marruecos, que guardaba en su memoria, para lanzarse 
 a preparar aperitivos para eventos. 
 
-![Najat Kaanache en mercado de pescado](etheria-images/2021/02/Najat-Kaanache-mercado-pescado-683x1024.jpg "Visitar los mercados es imprescindible para la chef.")
+![Najat Kaanache en mercado de pescado](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-mercado-pescado-683x1024.jpg "Visitar los mercados es imprescindible para la chef.")
 
 A partir de ese momento, todo fue un viaje vertiginoso hacia el aprendizaje, quería 
 saberlo todo de la cocina profesional. Amplió conocimientos con reconocidos chefs como 
@@ -87,7 +87,7 @@ mi restaurante Nur, puedo hacer realidad mis sueños y soy feliz".
 > 
 > (Najat Kaanache)
 
-![platos tradicionales de marruecos](etheria-images/2021/02/Najat-libro-recetas-marruecos.jpg "Platos tradicionales de Marruecos, con un toque creativo, incluidos en el libro.")
+![platos tradicionales de marruecos](https://fotos.etheriamagazine.com/2021/02/Najat-libro-recetas-marruecos.jpg "Platos tradicionales de Marruecos, con un toque creativo, incluidos en el libro.")
 
 ## Nur, el mejor restaurante de África
 
@@ -107,7 +107,7 @@ En los platos de su menú degustación (unos 70 euros) se combinan marisco, carn
 verduras, cítricos, granadas, cacao... La experiencia dura algo más de dos horas y te 
 traslada con elegancia al corazón gastronómico de Marruecos. 
 
-![LIbro najat con recetas y relatos fascinantes para descubrir la magia de Marruecos](etheria-images/2021/02/Najat-libro-cocina-edited.jpg "‘NAJAT. Recetas y relatos fascinantes para descubrir la magia de Marruecos’, de Planeta Gastro.")
+![LIbro najat con recetas y relatos fascinantes para descubrir la magia de Marruecos](https://fotos.etheriamagazine.com/2021/02/Najat-libro-cocina-edited.jpg "‘NAJAT. Recetas y relatos fascinantes para descubrir la magia de Marruecos’, de Planeta Gastro.")
 
 ## NAJAT, un libro de cocina marroquí y algo más
 
@@ -124,7 +124,7 @@ previo por el mercado para conseguir algunos ingredientes que puede que no tenga
 casa. Te dejamos aquí dos recetas, a modo de muestra, para que compruebes que están 
 explicadas de una forma sencilla. 
 
-![rosquillas marroquies en libro najat](etheria-images/2021/02/Najat-libro-cocina-rosquillas-707x1024.jpg "Rosquillas marroquíes (Sfenj).")
+![rosquillas marroquies en libro najat](https://fotos.etheriamagazine.com/2021/02/Najat-libro-cocina-rosquillas-707x1024.jpg "Rosquillas marroquíes (Sfenj).")
 
 #### Rosquillas marroquíes (Sfenj)
 
@@ -147,7 +147,7 @@ que salga un agujero en el medio.
 Fríe las rosquillas 2 o 3 minutos por cada lado en el aceite caliente hasta que estén 
 doradas. Se sirven con azúcar o miel. 
 
-![Najat Kaanache con limones](etheria-images/2021/02/Najat-Kaanache-683x1024.jpg "Najat Kaanache posa entre limoneros.")
+![Najat Kaanache con limones](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-683x1024.jpg "Najat Kaanache posa entre limoneros.")
 
 #### Limones en salmuera
 
@@ -174,7 +174,7 @@ Gastro. Su autor es el fotógrafo Javier Peñas.
 
 ##### Datos prácticos
 
-![LIbro najat con recetas y relatos fascinantes para descubrir la magia de Marruecos](etheria-images/2021/02/Najat-libro-cocina-edited.jpg "NAJATPlaneta Gastro.Tamaño: 24x28 cm.312 páginas.Precio: 34 Euros.")
+![LIbro najat con recetas y relatos fascinantes para descubrir la magia de Marruecos](https://fotos.etheriamagazine.com/2021/02/Najat-libro-cocina-edited.jpg "NAJATPlaneta Gastro.Tamaño: 24x28 cm.312 páginas.Precio: 34 Euros.")
 
 **\*Ya está a la venta** [NAJAT, en soporte de papel](https://amzn.to/36GSt2m) desde 
 32,29 €, una magnífica edición y encuadernación, y en versión Kindle por solo 10,44 €. 

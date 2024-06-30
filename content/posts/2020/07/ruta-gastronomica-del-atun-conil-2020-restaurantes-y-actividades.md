@@ -1,7 +1,7 @@
 ---
 title: "Ruta Gastronómica del Atún en Conil, restaurantes y actividades"
 date: 2020-07-10
-coverImage: etheria-images/2018/06/casa-francisco-conil-ruta-del-atun-e1649843723568.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/06/casa-francisco-conil-ruta-del-atun-e1649843723568.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -16,7 +16,7 @@ chiringuitos dispuestos a ofrecer sus elaboraciones más creativas con el atún 
 protagonista. A continuación encontrarás un listado de estos establecimientos y de sus 
 respectivas especialidades. ¡Disfruta del atún y buen provecho! 
 
-![ruta atun conil, restaurante el buche](etheria-images/2020/07/ruta-del-atun-hotel-fuerte.jpg "Restaurante El Buche © Hotel Fuerte Conil-Resort.")
+![ruta atun conil, restaurante el buche](https://fotos.etheriamagazine.com/2020/07/ruta-del-atun-hotel-fuerte.jpg "Restaurante El Buche © Hotel Fuerte Conil-Resort.")
 
 El atún rojo no es nuevo por tierras conileñas o por otros municipios cercanos como 
 **Barbate**, **Zahara de los Atunes** o [Tarifa](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf/). 
@@ -37,7 +37,7 @@ que si eres purista y quieres elaborar tu propio ranking de calidad de los plato
 tapas propuestos a partir del atún rojo tendrás que probar nada menos que 35 
 _delicatesen_. 
 
-![ruta del atun, restaurantes conil](etheria-images/2020/07/cartel-ruta-atun-conil-2020-725x1024.jpg "Cartel Ruta Gastronómica del Atún en Conil.")
+![ruta del atun, restaurantes conil](https://fotos.etheriamagazine.com/2020/07/cartel-ruta-atun-conil-2020-725x1024.jpg "Cartel Ruta Gastronómica del Atún en Conil.")
 
 ## 35 restaurantes en las Jornadas del Atún
 
@@ -54,7 +54,7 @@ desplazarte por Conil como por tu propia casa. En esta edición se ha creado [In
 una app que recoge los establecimientos con datos de contacto. Y, además, se pueden ver 
 vídeos de las elaboraciones en la fanpage de Facebook: **RutadelAtundeAlmadraba**. 
 
-[![](etheria-images/2020/07/mapa-ruta-atun-rojo-conil-900x689.jpg)](https://www.google.com/maps/d/edit?mid=1xgfDDIKl1C0jXwEsed-phE_-P9zrO24E&usp=sharing)
+[![](https://fotos.etheriamagazine.com/2020/07/mapa-ruta-atun-rojo-conil-900x689.jpg)](https://www.google.com/maps/d/edit?mid=1xgfDDIKl1C0jXwEsed-phE_-P9zrO24E&usp=sharing)
 
 ## De ruta gastronómica por Conil
 
@@ -66,7 +66,7 @@ vídeos de las elaboraciones en la fanpage de Facebook: **RutadelAtundeAlmadraba
 - **Restaurante El Pasaje**. Rollito en Hemingway. 12 €
 - **Restaurante Los Corales**. Picante de atún con caviar de pepino. 10 €
 
-![casa francisco, atun rojo](etheria-images/2018/06/casa-francisco-conil-ruta-del-atun-1024x633.jpg "Vistas desde Casa Francisco. © Etheria Magazine")
+![casa francisco, atun rojo](https://fotos.etheriamagazine.com/2018/06/casa-francisco-conil-ruta-del-atun-1024x633.jpg "Vistas desde Casa Francisco. © Etheria Magazine")
 
 ### Centro histórico
 
@@ -80,7 +80,7 @@ vídeos de las elaboraciones en la fanpage de Facebook: **RutadelAtundeAlmadraba
 - **Taberna La Chanca**. Brocheta de atún rojo al melón caramelizado. 17 €
 - **Cervecería Anticuario**. Atún al toro. 7 €
 
-![torre de Guzman, conil](etheria-images/2018/06/torre-de-guzman-conil-ruta-del-atun-1024x682.jpg "Torre de Guzmán (Conil). © Etheria Magazine")
+![torre de Guzman, conil](https://fotos.etheriamagazine.com/2018/06/torre-de-guzman-conil-ruta-del-atun-1024x682.jpg "Torre de Guzmán (Conil). © Etheria Magazine")
 
 ### Fuera del casco antiguo
 
@@ -96,7 +96,7 @@ vídeos de las elaboraciones en la fanpage de Facebook: **RutadelAtundeAlmadraba
 - **Vintage Cocktail Bar**. Black& white de carrillera de atún rojo con encurtidos y esencia de algas. 12 €
 - **Cooking Almadraba**. Tarantelo con foie asado, crema de calabaza, cuscús y salsa de chalotas y panceta ibérica. 25 €
 
-![playa fuente del gallo, conil, playas familiares cadiz](etheria-images/2020/03/playa-familiar-conil-900x600.jpg "Playa Fuente del Gallo (Conil). © Etheria Magazine")
+![playa fuente del gallo, conil, playas familiares cadiz](https://fotos.etheriamagazine.com/2020/03/playa-familiar-conil-900x600.jpg "Playa Fuente del Gallo (Conil). © Etheria Magazine")
 
 ### Atún rojo con vistas al mar
 
@@ -107,7 +107,7 @@ vídeos de las elaboraciones en la fanpage de Facebook: **RutadelAtundeAlmadraba
 - **Restaurante La Fontanilla**. Cachopo de atún sobre crema de ortigas. 22 €
 - **Restaurante Mirador El Roqueo**. Tarantelo de atún al estilo magrebí. 20 €
 
-![Tartar de atun](etheria-images/2018/06/tartar-ruta-del-atun.jpg "Tartar de atún rojo. © Etheria Magazine")
+![Tartar de atun](https://fotos.etheriamagazine.com/2018/06/tartar-ruta-del-atun.jpg "Tartar de atún rojo. © Etheria Magazine")
 
 ### A las afueras del pueblo
 
@@ -116,7 +116,7 @@ vídeos de las elaboraciones en la fanpage de Facebook: **RutadelAtundeAlmadraba
 - **Hotel Restaurante Antonio**. Solomillo de atún mechado al estilo de la casa. 15,80 €
 - **Parrilla Venta El Andaluz**. A fuego lento. 7 €
 
-![la chanca, conil, ruta gastronomica Conil](etheria-images/2018/06/chanca-museo-del-atun-conil-ruta-del-atun-1024x682.jpg "La Chanca. © Etheria Magazine")
+![la chanca, conil, ruta gastronomica Conil](https://fotos.etheriamagazine.com/2018/06/chanca-museo-del-atun-conil-ruta-del-atun-1024x682.jpg "La Chanca. © Etheria Magazine")
 
 ## Otras actividades relacionadas con el atún
 

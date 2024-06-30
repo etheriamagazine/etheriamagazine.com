@@ -1,7 +1,7 @@
 ---
 title: "Iberovinac 2023, la feria de los amantes del vino, el aceite y la aceituna"
 date: 2023-02-15
-coverImage: etheria-images/2023/02/iberovincac-visita-bodega.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/02/iberovincac-visita-bodega.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -13,7 +13,7 @@ gastronómica de Almendralejo. Reserva un hueco en tu agenda a finales de marzo 
 acudir a esta vigésimo segunda edición que contará con más de 60 expositores de 
 Extremadura, Galicia y Portugal. Profesionales y público general son bienvenidos. 
 
-![Las catas de vino son una de las actividades de Iberovinac.](etheria-images/2023/02/Iberovinac-cata-vino-850x568.jpg "Las catas de vino son una de las actividades de Iberovinac.")
+![Las catas de vino son una de las actividades de Iberovinac.](https://fotos.etheriamagazine.com/2023/02/Iberovinac-cata-vino-850x568.jpg "Las catas de vino son una de las actividades de Iberovinac.")
 
 Como ya es habitual desde el año 2000, **'Iberovinac, el Salón del Vino y la Aceituna de 
 Extremadura'** vuelve fiel a su cita para deleitar a propios y extraños en Almendralejo. 
@@ -35,7 +35,7 @@ Las restantes son compañías e instituciones de Galicia y Portugal. En total, s
 cita unos 60 expositores y un buen número de visitantes profesionales. El público 
 general también es bienvenido, aunque hasta ahora sólo se ha animado un diez por ciento. 
 
-![Cata de aceite en Iberovinac 2022.](etheria-images/2023/02/Iberovinac-cata-aceite-850x566.jpg "Cata de aceite en Iberovinac 2022.")
+![Cata de aceite en Iberovinac 2022.](https://fotos.etheriamagazine.com/2023/02/Iberovinac-cata-aceite-850x566.jpg "Cata de aceite en Iberovinac 2022.")
 
 Los asistentes a este gran evento de Almendralejo tienen la oportunidad de participar en 
 actividades enogastronómicas para todos los públicos durante el fin de semana. En su 
@@ -51,7 +51,7 @@ Aunque en Extremadura la feria ya tiene un papel protagonista, su gran reto es h
 un hueco a nivel nacional poniendo en contacto empresas privadas, profesionales, 
 compradores nacionales e instituciones públicas. 
 
-![Cata colectiva en Iberovinac 2022.](etheria-images/2023/02/iberovinac-2022-850x568.jpg "Cata colectiva en Iberovinac 2022.")
+![Cata colectiva en Iberovinac 2022.](https://fotos.etheriamagazine.com/2023/02/iberovinac-2022-850x568.jpg "Cata colectiva en Iberovinac 2022.")
 
 ### En la agenda de Iberovinac
 
@@ -67,7 +67,7 @@ analizan las tres etapas de la elaboración del vino (en los viñedos, en la bod
 la comercialización), además de mostrar cómo se trabaja en otras bodegas del resto del 
 mundo. 
 
-![Visita a bodega en la Ruta del Vino y el Cava Ribera del Guadiana.](etheria-images/2023/02/iberovincac-visita-bodega.jpg "Visita a bodega en la Ruta del Vino y el Cava Ribera del Guadiana.")
+![Visita a bodega en la Ruta del Vino y el Cava Ribera del Guadiana.](https://fotos.etheriamagazine.com/2023/02/iberovincac-visita-bodega.jpg "Visita a bodega en la Ruta del Vino y el Cava Ribera del Guadiana.")
 
 Este será también el año en que Iberovinac apueste de manera decidida por la 
 **transformación digital y la sostenibilidad** con nuevas jornadas técnicas, 
@@ -84,7 +84,7 @@ Montero y el poblado calcolítico de San Marcos. En un paseo por sus calles tamb
 descubren algunas construcciones tan interesantes como la parroquia de Nuestra Señora de 
 la Purificación y los palacios de Monsalud y de los Condes de Osilo. 
 
-![Palacio Monsalud, en Almendralejo.](etheria-images/2023/02/almendralejo-Palacio-Monsalud-850x638.jpg "Palacio Monsalud, en Almendralejo.")
+![Palacio Monsalud, en Almendralejo.](https://fotos.etheriamagazine.com/2023/02/almendralejo-Palacio-Monsalud-850x638.jpg "Palacio Monsalud, en Almendralejo.")
 
 Por último, no puedes dejar Almendralejo sin realizar un paseo enoturístico que incluya 
 sus bodegas y la **red de miradores de la Ruta del vino Ribera del Guadiana**. 

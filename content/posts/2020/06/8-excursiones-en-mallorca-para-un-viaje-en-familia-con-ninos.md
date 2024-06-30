@@ -1,7 +1,7 @@
 ---
 title: "8 excursiones en Mallorca para un viaje en familia"
 date: 2020-06-16
-coverImage: etheria-images/2020/06/mallorca-tren-soller.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/mallorca-tren-soller.jpg
 categories: 
   - viaje-en-familia
   - de-un-vistazo
@@ -16,7 +16,7 @@ vacaciones en familia sin dejar un solo instante al aburrimiento. Aquí te propo
 excursiones para realizar con niños en Mallorca, seguro que cuando vayáis a la isla se 
 os ocurren muchas más. 
 
-![viajes con niños, viajes a Mallorca, excursiones en familia](etheria-images/2020/06/Mallorca-puerto-soller.jpg "Puerto de Sóller.")
+![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/Mallorca-puerto-soller.jpg "Puerto de Sóller.")
 
 Las Islas Baleares son un destino estrella para el verano pero, además, permiten todas 
 las escapadas que tú quieras a lo largo del año. Si viajas en familia, Mallorca es un 
@@ -27,7 +27,7 @@ mar, naturaleza, cultura y turismo activo.
 
 ## 1\. Ir en tren histórico y tranvía hasta el Puerto de Sóller
 
-![viajes con niños, viajes a Mallorca, excursiones en familia](etheria-images/2020/06/mallorca-tren-soller.jpg "El tren de Sóller por la sierra de Tramontana. © Tren de Sóller")
+![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/mallorca-tren-soller.jpg "El tren de Sóller por la sierra de Tramontana. © Tren de Sóller")
 
 Es una de las excursiones más bonitas que se pueden hacer en la isla. En la estación de 
 Palma hay que coger el [Ferrocarril de Sóller](http://trendesoller.com), un tren con 
@@ -42,7 +42,7 @@ así el precioso paisaje de Torrent de Pareis.
 
 ## 2\. Visitar las cuevas del Drach
 
-![viajes con niños, viajes a Mallorca, excursiones en familia](etheria-images/2020/06/mallorca-cuevas-drach.jpg "Cuevas del Drach.")
+![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/mallorca-cuevas-drach.jpg "Cuevas del Drach.")
 
 Las [cuevas del Drach](http://www.cuevasdeldrach.com) son una visita casi imprescindible 
 si viajáis por primera vez a la isla de Mallorca. Es una de las atracciones turísticas 
@@ -59,7 +59,7 @@ lado, y disfrutar de su animado ambiente.
 
 ## 3\. Hacer una excursión a Formentor
 
-![viajes con niños, viajes a Mallorca, excursiones en familia](etheria-images/2020/06/Mallorca-formentor.jpg "Vistas desde el puerto de montaña de Formentor.")
+![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/Mallorca-formentor.jpg "Vistas desde el puerto de montaña de Formentor.")
 
 En el extremo noroeste de la isla se encuentra en cabo de Formentor. La subida por una 
 carretera de curvas deja al llegar a la cima unas vistas preciosas. No podréis evitar 
@@ -76,7 +76,7 @@ De regreso, por la misma carretera (no hay otra), merece la pena una parada en e
 
 ## 4\. Dar un paseo por Palma
 
-![viajes con niños, viajes a Mallorca, excursiones en familia](etheria-images/2020/06/mallorca-catedral-palma.jpg "Catedral de Palma. © Yves Alarie")
+![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/mallorca-catedral-palma.jpg "Catedral de Palma. © Yves Alarie")
 
 Dedicar un día a caminar Palma, la capital de la isla, es imprescindible. Lo mejor si se 
 viaja con niños es combinar su **casco histórico**, con la Plaza Mayor, la Plaza de 
@@ -98,7 +98,7 @@ para pasar un rato de tiendas por la ciudad.
 
 ## 5\. Navegar hasta la isla Dragonera
 
-![viajes con niños, viajes a Mallorca, excursiones en familia](etheria-images/2020/06/mallorca-dragonera.jpg "Isla Dragonera.")
+![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/mallorca-dragonera.jpg "Isla Dragonera.")
 
 La bonita costa mallorquina hace que en verano apetezcan especialmente los paseos en 
 barco. Una que tiene que estar en vuestra lista de excursiones con niños en Mallorca es 
@@ -113,7 +113,7 @@ menos tiempo en la isla para hacer senderismo. ¡Vosotros elegís!
 
 ## 6\. Recibir una clase de golf
 
-![viajes con niños, viajes a Mallorca, excursiones en familia](etheria-images/2020/06/mallorca-golf-son-muntaner.jpg "Golf en el campo Son Muntaner de © Arabella Golf Mallorca.")
+![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/mallorca-golf-son-muntaner.jpg "Golf en el campo Son Muntaner de © Arabella Golf Mallorca.")
 
 Si sois una familia aficionada al golf, encontraréis en la isla infinidad de campos 
 donde practicarlo. Y si nunca os habéis aventurado en este mundo, puede ser el momento 
@@ -126,7 +126,7 @@ para dar un clase.
 
 ## 7\. Visitar las salinas d’Es Trenc
 
-![salinas de strenc, rutas con ninos mallorca](etheria-images/2020/06/Salinas-de-Es-Trenc-Mallorca.jpg "Salineras en las © Salinas d'Estrenc.")
+![salinas de strenc, rutas con ninos mallorca](https://fotos.etheriamagazine.com/2020/06/Salinas-de-Es-Trenc-Mallorca.jpg "Salineras en las © Salinas d'Estrenc.")
 
 Realizar una visita guiada por las [salinas d’Es Trenc](http://www.salinasdestrenc.com) 
 es una de las excursiones con niños en Mallorca que gustará a toda la familia. Podréis 
@@ -143,7 +143,7 @@ chiringuitos ni alquiler de hamacas. Una experiencia auténtica.
 
 ## 8\. Practicar deportes acuáticos en Cala Mayor
 
-![viajes con niños, viajes a Mallorca, excursiones en familia](etheria-images/2020/06/Mallorca-paddle-surf.jpg "Cala Nova es perfecta para el Paddle Surf. © Miriam Pastor/Turismo de Palma")
+![viajes con niños, viajes a Mallorca, excursiones en familia](https://fotos.etheriamagazine.com/2020/06/Mallorca-paddle-surf.jpg "Cala Nova es perfecta para el Paddle Surf. © Miriam Pastor/Turismo de Palma")
 
 Cala Mayor es una de las mejores playas de Palma para pasar un día en familia. Además es 
 estupenda para practicar deportes acuáticos. Civitatis ofrece varias opciones que 

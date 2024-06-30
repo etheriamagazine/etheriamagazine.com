@@ -1,7 +1,7 @@
 ---
 title: "Albufeira, un destino en el Algarve para todo el año"
 date: 2023-12-15
-coverImage: etheria-images/2023/12/albufeira-playa-pescadores.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/12/albufeira-playa-pescadores.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ de ellas es Albufeira, que cuenta con todo lo necesario para organizar una escap
 perfecta y lo que es mejor, disfruta de un clima que permite visitarla durante todo el 
 año. 
 
-![Playa de los Pescadores en Albufeira.](etheria-images/2023/12/albufeira-playa-pescadores.jpg "Playa de los Pescadores en Albufeira. © Susana García.")
+![Playa de los Pescadores en Albufeira.](https://fotos.etheriamagazine.com/2023/12/albufeira-playa-pescadores.jpg "Playa de los Pescadores en Albufeira. © Susana García.")
 
 El Algarve es uno de esos rincones de Portugal que muchos españoles sentimos como 
 nuestros, por la cercanía tanto en kilómetros como en espíritu. En este sur portugués 
@@ -42,7 +42,7 @@ la ciudad. Por aquí entraba antiguamente una lengua de agua que rodeaba al casc
 histórico, elevado y protegido por una muralla árabe de la que aún hoy quedan algunos 
 vestigios y tres puertas: Porta da Praça, Porta de Norte y Porta de Santa Ana. 
 
-![Calle del casco histórico de Albufeira.](etheria-images/2023/12/albufeira-calle-casco-historico-667x1000.jpg "Calle del casco histórico de Albufeira. © Susana García")
+![Calle del casco histórico de Albufeira.](https://fotos.etheriamagazine.com/2023/12/albufeira-calle-casco-historico-667x1000.jpg "Calle del casco histórico de Albufeira. © Susana García")
 
 Cuando ascendemos para perdernos por sus callejuelas de blanco reluciente, con un 
 urbanismo que delata su pasado islámico, pocos detalles hacen pensar en la destrucción 
@@ -56,7 +56,7 @@ Una parada muy interesante es el **Centro de Artes e Oficios Carlos Silva e Sous
 frente a la Iglesia Madre de Albufeira, que alberga salas de exposiciones y está 
 dedicado a divulgar las artes y las técnicas artesanales de la localidad. 
 
-![Cestos de empreita en el Centro de Artes e Oficios Carlos Silva e Sousa.](etheria-images/2023/12/albufeira-centro-artes-oficios-artesania.jpg "Cestos de empreita en el Centro de Artes e Oficios Carlos Silva e Sousa. © Susana García.")
+![Cestos de empreita en el Centro de Artes e Oficios Carlos Silva e Sousa.](https://fotos.etheriamagazine.com/2023/12/albufeira-centro-artes-oficios-artesania.jpg "Cestos de empreita en el Centro de Artes e Oficios Carlos Silva e Sousa. © Susana García.")
 
 ## Navegación para ver delfines
 
@@ -72,7 +72,7 @@ esta excursión están en permanente contacto por radio para avisarse de por dó
 navegando estos simpáticos cetáceos. Con un poco de suerte, los verás en su hábitat, 
 saltando y jugando con las embarcaciones más pequeñas. La experiencia es increíble. 
 
-![delfín frente a Albufeira en el Algarve](etheria-images/2023/12/albufeira-delfines.jpg "Avistamiento de delfines en Albufeira. © Susana García.")
+![delfín frente a Albufeira en el Algarve](https://fotos.etheriamagazine.com/2023/12/albufeira-delfines.jpg "Avistamiento de delfines en Albufeira. © Susana García.")
 
 Después, los barcos y lanchas se acercan a la costa para admirar las bonitas playas de 
 la zona, con su característico cortado en una roca de un tono dorado que brilla 
@@ -87,7 +87,7 @@ Wave](https://dreamwavealgarve.com/), que ofrece excursiones en grupo en diferen
 tipos de embarcaciones. Para las que buscan una experiencia más exclusiva, **Easydream 
 Charters** cuenta con excursiones en yate privado por la costa del Algarve. 
 
-![barco entrando a las cuevas de Benagil](etheria-images/2023/12/albufeira-cuevas-benagil.jpg "Cuevas de Benagil. © Susana García")
+![barco entrando a las cuevas de Benagil](https://fotos.etheriamagazine.com/2023/12/albufeira-cuevas-benagil.jpg "Cuevas de Benagil. © Susana García")
 
 ## Buceo en el Algarve
 
@@ -131,7 +131,7 @@ con ese punto de adrenalina que acompaña a este tipo de actividades. La empresa
 Riders](http://www.algarveriders.com) ofrece excursiones en estos vehículos de una hora 
 y media, tres horas o seis horas (con almuerzo). 
 
-![Ruta en buggy por el geoparque de Albufeira.](etheria-images/2023/12/albufeira-excursion-buggy.jpg "Ruta en buggy por el geoparque de Albufeira. © Susana García")
+![Ruta en buggy por el geoparque de Albufeira.](https://fotos.etheriamagazine.com/2023/12/albufeira-excursion-buggy.jpg "Ruta en buggy por el geoparque de Albufeira. © Susana García")
 
 ## Senderismo desde Paderne
 
@@ -148,7 +148,7 @@ la cerámica o la cestería de empreita. Para conocer el horario de visitas y lo
 que imparten lo mejor es contactar con ellos en 
 centroeducativo.cerrouro@cm-albufeira.pt. 
 
-![manos tejiendo con empreita en Albufeira](etheria-images/2023/12/albufeira-artesania-empreita.jpg "Trabajo tradicional con empreita. © Susana García.")
+![manos tejiendo con empreita en Albufeira](https://fotos.etheriamagazine.com/2023/12/albufeira-artesania-empreita.jpg "Trabajo tradicional con empreita. © Susana García.")
 
 ## Visita a una bodega
 
@@ -160,7 +160,7 @@ propiedad del cantante **Cliff Richard**, aunque hace pocos años cambio de mano
 una producción cuidada y limitada de unas 300 barricas, basa su filosofía en manipular 
 de forma mínima y no agresiva las uvas. 
 
-![Vino espumoso de la Adega do Cantor.](etheria-images/2023/12/albufeira-bodega-cantor-vino-espumoso.jpg "Vino espumoso de la Adega do Cantor. © Susana García.")
+![Vino espumoso de la Adega do Cantor.](https://fotos.etheriamagazine.com/2023/12/albufeira-bodega-cantor-vino-espumoso.jpg "Vino espumoso de la Adega do Cantor. © Susana García.")
 
 La bodega se ubica en **Quinta do Miradouro**, donde en 2001 se plantaron diferentes 
 variedades como la Syrah o la Alicante Bouschet, una uva Teinturie procedente del sur de 
@@ -189,7 +189,7 @@ vinos y licores que pueden comprarse o degustarse en las mesas. Y para disfrutar
 naturaleza y de platos elaborados con productos de kilómetro cero, la **Quinta do Mel** 
 es una parada obligada. 
 
-![Quinta do Mel en Albufeira.](etheria-images/2023/12/albufeira-quinta-do-mel.jpg "Quinta do Mel. © Susana García.")
+![Quinta do Mel en Albufeira.](https://fotos.etheriamagazine.com/2023/12/albufeira-quinta-do-mel.jpg "Quinta do Mel. © Susana García.")
 
 ### Más información
 

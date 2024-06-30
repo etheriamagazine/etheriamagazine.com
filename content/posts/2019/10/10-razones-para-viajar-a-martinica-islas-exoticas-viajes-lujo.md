@@ -1,7 +1,7 @@
 ---
 title: "10 razones para viajar a Martinica, la perla de las Antillas menores"
 date: 2019-10-04
-coverImage: etheria-images/2019/09/Martinica-mont-pelee.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/09/Martinica-mont-pelee.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-romanticos
@@ -19,7 +19,7 @@ diez razones por las que merece la pena visitar esta preciosa isla.
 
 **Fotografías: Félix Lorenzo.** 
 
-![Anses d'Arlet.](etheria-images/2019/09/Martinica-Anses-dArlet-900x599.jpg "Anses d'Arlet.")
+![Anses d'Arlet.](https://fotos.etheriamagazine.com/2019/09/Martinica-Anses-dArlet-900x599.jpg "Anses d'Arlet.")
 
 Actualizado 05/2023 
 
@@ -54,7 +54,7 @@ más económica). Otra posibilidad es alquilar un _Ti Canot_, una embarcación q
 conducir sin licencia y que te permite ir a tu aire (¡bendito GPS!). Si prefieres algo 
 menos arriesgado, decántate por una excursión de medio día en lancha con guía. 
 
-![Monte Pelée con la cima cubierta por las nubes.](etheria-images/2019/09/Martinica-mont-pelee.jpg "Monte Pelée con la cima cubierta por las nubes.")
+![Monte Pelée con la cima cubierta por las nubes.](https://fotos.etheriamagazine.com/2019/09/Martinica-mont-pelee.jpg "Monte Pelée con la cima cubierta por las nubes.")
 
 ## 3\. Naturaleza explosiva en Martinica
 
@@ -74,7 +74,7 @@ y un jersey, además de agua, protección solar y un buen calzado. Las excursion
 ser de un día o de medio y lo mejor es ir con guía y en grupos pequeños. Elige un día 
 despejado para disfrutar al máximo de las vistas. 
 
-![Jardín botánico e iglesia de Balata.](etheria-images/2019/09/Martinica-monte-iglesia-Balata.jpg "Jardín botánico e iglesia de Balata.")
+![Jardín botánico e iglesia de Balata.](https://fotos.etheriamagazine.com/2019/09/Martinica-monte-iglesia-Balata.jpg "Jardín botánico e iglesia de Balata.")
 
 ## 4\. Una ruta zigzagueante para emociones fuertes
 
@@ -90,7 +90,7 @@ la que las orquídeas y los colibríes son solo algunos de los protagonistas) o 
 **preciosas cascadas de Didier y del Saut du Gendarme**, donde disfrutar de un agradable 
 baño. 
 
-![Barricas de la Habitation Clément.](etheria-images/2019/09/Martinica-habitacion-Clement.jpg "Barricas de la Habitation Clément.")
+![Barricas de la Habitation Clément.](https://fotos.etheriamagazine.com/2019/09/Martinica-habitacion-Clement.jpg "Barricas de la Habitation Clément.")
 
 ## 5\. Visitar una antigua plantación de caña de azúcar
 
@@ -102,7 +102,7 @@ mansión criolla del siglo XVIII, el centro de arte, la antigua destilería de r
 reconvertida en centro de interpretación del ron– y los magníficos jardines que rodean 
 la finca. 
 
-![Fort-de-France.](etheria-images/2019/09/Martinica-fort-de-France.jpg "Fort-de-France.")
+![Fort-de-France.](https://fotos.etheriamagazine.com/2019/09/Martinica-fort-de-France.jpg "Fort-de-France.")
 
 ## 6\. Fort-de-France, la capital de Martinica
 
@@ -115,7 +115,7 @@ pieza de fruta fresca (como mango, coco o carambola). Descansa y disfruta del jo
 en la plaza de la Savana junto con los demás martiniqueses y visita el fuerte Saint 
 Louis desde donde obtendrás una magnífica foto de la bahía y la ciudad. 
 
-![Saint Pierre, en la isla de Martinica.](etheria-images/2019/09/Martinica-Saint-Pierre.jpg "Saint Pierre, en la isla de Martinica.")
+![Saint Pierre, en la isla de Martinica.](https://fotos.etheriamagazine.com/2019/09/Martinica-Saint-Pierre.jpg "Saint Pierre, en la isla de Martinica.")
 
 ## 7\. Saint Pierre, ciudad histórico-artística
 
@@ -130,7 +130,7 @@ la original y el mercado cubierto, muy animado. La **catedral de Nuestra Señora
 Asunción** (declarada monumento histórico) también fue reconstruida tras ser destruida 
 por el volcán. 
 
-![Playa Grande Anse des Salines.](etheria-images/2019/09/Martinica-grand-anse-salines.jpg "Playa Grande Anse des Salines.")
+![Playa Grande Anse des Salines.](https://fotos.etheriamagazine.com/2019/09/Martinica-grand-anse-salines.jpg "Playa Grande Anse des Salines.")
 
 ## 8\. Disfruta de las auténticas playas caribeñas
 
@@ -156,7 +156,7 @@ el lugar perfecto para ver una preciosa puesta de sol. Si además tienes suerte,
 posible que avistes alguna de las tortugas marinas que suelen acercarse a la costa. No 
 te olvides del equipo de snorkel ¡lo aprovecharás! 
 
-![Playa de arena negra Ante Ceron.](etheria-images/2019/09/Martinica-anse-Ceron-900x599.jpg "Playa de arena negra Ante Ceron.")
+![Playa de arena negra Ante Ceron.](https://fotos.etheriamagazine.com/2019/09/Martinica-anse-Ceron-900x599.jpg "Playa de arena negra Ante Ceron.")
 
 ### Ansé Cerón
 
@@ -169,7 +169,7 @@ ser una buena zona para bucear, especialmente para aquellos a los que les guste 
 entre restos de barcos bajo el mar, ya que gran parte de la flota martiniquesa se hundió 
 aquí durante la erupción del Mont Pelée. 
 
-![Puesto de frutas en Grand Anse Salines.](etheria-images/2019/09/Martinica-fruta-Grand-Anse-Salines.jpg "Puesto de frutas en Grand Anse Salines.")
+![Puesto de frutas en Grand Anse Salines.](https://fotos.etheriamagazine.com/2019/09/Martinica-fruta-Grand-Anse-Salines.jpg "Puesto de frutas en Grand Anse Salines.")
 
 ## 9\. Gastronomía criolla de Martinica
 
@@ -186,7 +186,7 @@ o la carne a la barbacoa es la **_chien_**, que tiene un punto picante y realza 
 sabores de los platos. De postre, el coco en todas sus versiones (fresco, en sorbete, 
 zumo, helado, flan) y otras frutas que abundan en la isla, como las piñas y las bananas. 
 
-![Esculturas en el Memorial a la Esclavitud.](etheria-images/2019/09/Martinica-memorial-esclavitud.jpg "Esculturas en el Memorial a la Esclavitud.")
+![Esculturas en el Memorial a la Esclavitud.](https://fotos.etheriamagazine.com/2019/09/Martinica-memorial-esclavitud.jpg "Esculturas en el Memorial a la Esclavitud.")
 
 ## 10\. Memorial a la Esclavitud
 

@@ -1,7 +1,7 @@
 ---
 title: "Viaje con amigas a Bolonia: 10 planes imbatibles en Italia"
 date: 2022-06-10
-coverImage: etheria-images/2022/06/Clock-Tower-bolonia.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/Clock-Tower-bolonia.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Las ciudades italianas son una fuente inagotable de escapadas con las que disfrutar de la vida. En esta ocasión te proponemos Bolonia, un rincón medieval con el tamaño y los atributos perfectos para vivir un viaje con amigas inolvidable. Aquí te damos diez ideas para incluir en tu escapada y hacer que vuestro fin de semana sea memorable.
 
-![Vistas desde la terraza del Clock Tower, en Bolonia](etheria-images/2022/06/Clock-Tower-bolonia.jpg "Vistas desde la terraza del Clock Tower. © Piergiorgio Sorgetti/ Bologna Welcome")
+![Vistas desde la terraza del Clock Tower, en Bolonia](https://fotos.etheriamagazine.com/2022/06/Clock-Tower-bolonia.jpg "Vistas desde la terraza del Clock Tower. © Piergiorgio Sorgetti/ Bologna Welcome")
 
 Bolonia lo tiene todo para disfrutar de un viaje perfecto con amigas. Tiene conexiones 
 aéreas directas con España en líneas regulares y _low cost_, es una ciudad con un centro 
@@ -32,7 +32,7 @@ Parmiggiano Reggiano… No dudéis en buscar aquí un restaurante para almorzar,
 elegir uno! Entre la amplia oferta, se encuentra la [Osteria del 
 Sole](https://www.osteriadelsole.it/), la más antigua de Bolonia, de 1465. 
 
-![Restaurante típico de Bolonia](etheria-images/2022/06/osteria-del-bolonia.jpg "Osteria del Sole. © Bologna Welcome")
+![Restaurante típico de Bolonia](https://fotos.etheriamagazine.com/2022/06/osteria-del-bolonia.jpg "Osteria del Sole. © Bologna Welcome")
 
 ### 2\. Un paseo por sus famosos pórticos
 
@@ -44,7 +44,7 @@ XVI (semipórticos con columnas). No os perdáis el pórtico de la basílica de 
 dei Servi, el más ancho; el más alto, ubicado en la Via Altabella; y el más estrecho, en 
 la Via Sanzanome. 
 
-![ciclista en Bolonia](etheria-images/2022/06/portico-San-Luca.jpg "Zona porticada en San Luca. © Bologna Welcome")
+![ciclista en Bolonia](https://fotos.etheriamagazine.com/2022/06/portico-San-Luca.jpg "Zona porticada en San Luca. © Bologna Welcome")
 
 Si queréis dar un buen paseo, podéis acercaros al largo camino porticado de la **Via 
 Saragozza**, donde comienza el pórtico más famoso de la ciudad y el más largo del mundo, 
@@ -62,7 +62,7 @@ construida en el año 1100, donde se puede subir a su terraza panorámica a casi
 metros de altura para contemplar unas vistas de la ciudad increíbles. Junto a ella, su 
 hermana menor, la **torre de la Garisenda**, es otro de los iconos de la ciudad. 
 
-![torres de Bolonia](etheria-images/2022/06/torres-Asinelli-Garisenda.jpg "Torres Asinelli y Garisenda. © Bologna Welcome")
+![torres de Bolonia](https://fotos.etheriamagazine.com/2022/06/torres-Asinelli-Garisenda.jpg "Torres Asinelli y Garisenda. © Bologna Welcome")
 
 Si todavía tienes ganas de escaleras, merece la pena acercarse a [Torre del Reloj del 
 Palacio de 
@@ -83,7 +83,7 @@ en los años cincuenta. Es la galería comercial más importante de la ciudad y 
 casi treinta boutiques de las marcas internacionales más prestigiosas, además de otros 
 comercios. 
 
-![puestos de gastronomía en Bolonia](etheria-images/2022/06/Quadrilatero-Bolonia.jpg "Cuadrilátero de Bolonia. © Bologna Welcome")
+![puestos de gastronomía en Bolonia](https://fotos.etheriamagazine.com/2022/06/Quadrilatero-Bolonia.jpg "Cuadrilátero de Bolonia. © Bologna Welcome")
 
 Para continuar con las compras, podéis recorrer las **calles comerciales de Porta Nova y 
 San Felice**, a sólo cinco minutos de la Piazza Maggiore, donde encontrar complementos 
@@ -109,7 +109,7 @@ en las afueras de la ciudad, que desde los años noventa es un espacio natural p
 en el antiguo arrozal de Bentlivoglio. Y, para las más deportistas, los **Apeninos 
 tosco-emilianos** ofrecen rutas espectaculares para realizar a pie o en bicicleta. 
 
-![castillo de la Rocchetta Mattei](etheria-images/2022/06/Rocchetta-Mattei-Bolonia.jpg "Rocchetta Mattei. © Bologna Welcome")
+![castillo de la Rocchetta Mattei](https://fotos.etheriamagazine.com/2022/06/Rocchetta-Mattei-Bolonia.jpg "Rocchetta Mattei. © Bologna Welcome")
 
 ### 6\. Sentir la importancia de la música en Bolonia
 
@@ -121,7 +121,7 @@ Tagliavini](https://genusbononiae.it/palazzi/san-colombano/) en el Museo San Col
 (con una interesante colección de instrumentos musicales). Acercaos a alguno de ellos 
 para descubrir esta faceta tan interesante de la ciudad. 
 
-![Oratorio y museo de San Colombano en Bolonia](etheria-images/2022/06/SanColombano-Oratorio-bolonia.jpg "Oratorio y museo de San Colombano. © Bologna Welcome")
+![Oratorio y museo de San Colombano en Bolonia](https://fotos.etheriamagazine.com/2022/06/SanColombano-Oratorio-bolonia.jpg "Oratorio y museo de San Colombano. © Bologna Welcome")
 
 ### 7\. Una clase de helado
 
@@ -132,7 +132,7 @@ escuela de helado en el mundo y punto de referencia del sector heladero. Los cur
 imparten en varios idiomas por instructores que se encuentran entre los mejores del 
 mundo. Puedes consultar fechas y precios en [www.gelatouniversity.com](http://www.gelatouniversity.com) 
 
-![helados en Bolonia](etheria-images/2022/06/helado-Carpigiani-Gelato-683x1024.jpg "Helados en la Universidad de Carpigiani Gelato. © Carpigiani Gelato Museum")
+![helados en Bolonia](https://fotos.etheriamagazine.com/2022/06/helado-Carpigiani-Gelato-683x1024.jpg "Helados en la Universidad de Carpigiani Gelato. © Carpigiani Gelato Museum")
 
 ### 8\. No puede faltar un mercadillo
 
@@ -143,7 +143,7 @@ productos de todo tipo ofrecen un ambiente único y divertido, es uno de esos me
 donde siempre encuentras algo (aunque no lo busques). Una experiencia única en tu viaje 
 a Bolonia con amigas. 
 
-![Estatua frente al mercadillo de Bolonia](etheria-images/2022/06/Piazzola-mercado-bolonia.jpg "Mercadillo de Piazzola. © Bologna Welcome")
+![Estatua frente al mercadillo de Bolonia](https://fotos.etheriamagazine.com/2022/06/Piazzola-mercado-bolonia.jpg "Mercadillo de Piazzola. © Bologna Welcome")
 
 ### 9\. Beautiful Gallery
 
@@ -154,7 +154,7 @@ través de quince habitaciones, cada una de un color, perfecta para una tarde de
 selfis para redes sociales. Una actividad muy original donde seguro que pasáis un buen 
 rato. 
 
-![parque Beautiful Gallery, en Bolonia.](etheria-images/2022/06/bolonia-beautiful-gallery.jpg "© Beautiful Gallery, en Bolonia.")
+![parque Beautiful Gallery, en Bolonia.](https://fotos.etheriamagazine.com/2022/06/bolonia-beautiful-gallery.jpg "© Beautiful Gallery, en Bolonia.")
 
 ### 10\. Excursión para conocer a los productores locales
 
@@ -167,11 +167,11 @@ pena escuchar y unas vistas magníficas del entorno. No te pierdas sus vinos Pig
 DOC Frizzante, Ca’Grande Romagna DOC Sangiovese Superiore o el Laurento Romagna DOC 
 Sangiovese Riserva. 
 
-![barriles de bodega de Bolonia](etheria-images/2022/06/Umberto-Cesari-bodega-bolonia.jpg "Bodega © Umberto Cesari.")
+![barriles de bodega de Bolonia](https://fotos.etheriamagazine.com/2022/06/Umberto-Cesari-bodega-bolonia.jpg "Bodega © Umberto Cesari.")
 
 **Más información** 
 
-[![logotipo de turismo de Italia](etheria-images/2022/06/logo.turismo-italia.jpg)](https://www.italia.it/en?utm_source=Etheriamagazine_com&utm_medium=pubbliredazionale&utm_campaign=Bologna)
+[![logotipo de turismo de Italia](https://fotos.etheriamagazine.com/2022/06/logo.turismo-italia.jpg)](https://www.italia.it/en?utm_source=Etheriamagazine_com&utm_medium=pubbliredazionale&utm_campaign=Bologna)
 
 . 
 

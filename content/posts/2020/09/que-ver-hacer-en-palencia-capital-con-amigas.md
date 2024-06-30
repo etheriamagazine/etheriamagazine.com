@@ -1,7 +1,7 @@
 ---
 title: "Palencia capital, la bella desconocida, y sus mejores restaurantes"
 date: 2020-09-30
-coverImage: etheria-images/2020/09/Palencia-catedral.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/09/Palencia-catedral.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -13,7 +13,7 @@ authors:
 
 Dedicar un fin de semana a descubrir los tesoros arquitectónicos de Palencia es un plan perfecto para viajeras. Y si además conoces los mejores bares y restaurantes con los vinos y tapas que no puedes perderte será imbatible. Te contamos qué ver y hacer en Palencia capital en una escapada con amigas.
 
-![catedral de palencia](etheria-images/2020/09/Palencia-catedral.jpg "Catedral de Palencia. © Cedida por Ayto. Palencia")
+![catedral de palencia](https://fotos.etheriamagazine.com/2020/09/Palencia-catedral.jpg "Catedral de Palencia. © Cedida por Ayto. Palencia")
 
 Palencia capital, en el sur de la provincia homónima, se sitúa a orillas del río 
 Carrión, enclavada en la zona horticultora de Tierra de Campos y del Cerrato y en medio 
@@ -30,7 +30,7 @@ la cabeza hacia las preciosas fachadas de edificios construidos por la burguesí
 desamortización de Mendizábal, sobre todo en la calle Don Sancho, la calle Mayor y su 
 cruce en Cuatro Cantones. 
 
-![calle mayor de palencia](etheria-images/2020/09/Palencia-calle-mayor.jpg "Es obligatorio pasear por la Calle Mayor de Palencia. © Cedida por Ayto. Palencia")
+![calle mayor de palencia](https://fotos.etheriamagazine.com/2020/09/Palencia-calle-mayor.jpg "Es obligatorio pasear por la Calle Mayor de Palencia. © Cedida por Ayto. Palencia")
 
 La **calle Mayor** es un inhabitual eje citadino porque solo conserva soportales a un 
 lado, que dan sombra a bellos comercios antiguos de estilo modernista como la Farmacia 
@@ -43,7 +43,7 @@ Y siguiendo por el edificio de los Señores. García Germán, el colegio de Vill
 el increíble palacete de la Bocaplaza-Calle Mayor, que está justo en frente de un busto 
 del arquitecto palentino Jerónimo Arroyo, que también tiene allí su casa-estudio. 
 
-![Casino de Palencia](etheria-images/2020/09/Palencia-casino.jpg "Casino de Palencia. © Cedida por Ayto. Palencia")
+![Casino de Palencia](https://fotos.etheriamagazine.com/2020/09/Palencia-casino.jpg "Casino de Palencia. © Cedida por Ayto. Palencia")
 
 No hay que perderse el palacio barroco del siglo XVIII llamado **Casa de Junco**, ni el 
 alucinante y bien conservado **Casino de Palencia**, la única construcción de esa acera 
@@ -65,7 +65,7 @@ y la Casa Consistorial, en la **Plaza Mayor**, donde da gusto sentarse a tomar u
 en sus ambientadas terracitas, antes de acercarse a ver el complejo monumental de la 
 plaza de San Francisco. 
 
-![Fachada del Mercado de Abastos](etheria-images/2020/09/Palencia-mercado-abastos.jpg "Fachada del Mercado de Abastos. © Cedida por Ayto. Palencia")
+![Fachada del Mercado de Abastos](https://fotos.etheriamagazine.com/2020/09/Palencia-mercado-abastos.jpg "Fachada del Mercado de Abastos. © Cedida por Ayto. Palencia")
 
 A cuatro pasos se erige el **Mercado de Abastos**, muy sencillo pero popular, aún no lo 
 han convertido en gastronómico, a pesar de la calidad de los productos de la huerta 
@@ -86,7 +86,7 @@ Capitular de la Catedral y visitando la cripta visigótica del siglo VII dedicad
 Antolín, patrono de la ciudad, se entiende por qué fue declarada Monumento Nacional en 
 1929. 
 
-![tapeo y vermu en la barra de villoldo](etheria-images/2020/09/Palencia-vermu-iglesia-san-miguel.jpg "Vermú en La Barra de Villoldo frente a la iglesia de San Miguel. © Cedida por Ayto. Palencia")
+![tapeo y vermu en la barra de villoldo](https://fotos.etheriamagazine.com/2020/09/Palencia-vermu-iglesia-san-miguel.jpg "Vermú en La Barra de Villoldo frente a la iglesia de San Miguel. © Cedida por Ayto. Palencia")
 
 También lo son otros edificios religiosos como la iglesia de San Juan Bautista o el 
 convento de San Francisco, pero nos quedamos con la de **San Miguel**, donde se casó el 
@@ -103,7 +103,7 @@ gastronómico mundial. No en vano, este verano ha presentado la **ruta Tapalenci
 Week “sabor en dos bocados”** y el **I Campeonato de Pinchos y Tapas de Castilla y 
 León**, en el que participaron 50 cocineros castellanoleoneses. 
 
-![pinchos restaurante san remo](etheria-images/2020/09/Palencia-restaurante-san-remo.jpg "Mención especial del Campeonato de Pinchos y Tapas de Castilla y León del restaurante San Remo © Cedida por Ayto. Palencia")
+![pinchos restaurante san remo](https://fotos.etheriamagazine.com/2020/09/Palencia-restaurante-san-remo.jpg "Mención especial del Campeonato de Pinchos y Tapas de Castilla y León del restaurante San Remo © Cedida por Ayto. Palencia")
 
 Mención especial del jurado se llevó el **San Remo** con una brandada de bacalao con 
 piel del mismo dorada que estaba tan sensacional como sus croquetas de leche de oveja 
@@ -118,7 +118,7 @@ escultor. Cuando bajes, tienes cerquita varios parques públicos como Jardinillo
 a la estación del ferrocarril; La Carcavilla, construido sobre el antiguo cementerio; o 
 la Huerta de Guadián. 
 
-![cristo otero de palencia capital](etheria-images/2020/09/Palencia-cerro-cristo-otero.jpg "Cristo del Otero. © Cedida por Ayto. Palencia")
+![cristo otero de palencia capital](https://fotos.etheriamagazine.com/2020/09/Palencia-cerro-cristo-otero.jpg "Cristo del Otero. © Cedida por Ayto. Palencia")
 
 De vuelta al centro, puedes ir a visitar el **Museo de Palencia**, ahora Museo 
 Arqueológico Provincial; cruzar el **Puente Mayor** para disfrutar del vergel del 
@@ -138,7 +138,7 @@ estupendos vinos de **Bodega Valdesneros**, con especial preferencia por el Aman
 único vino de hielo auténtico de España. Infórmate en su web porque están empezando a 
 hacer visitas enoturísticas y así conoces también un poco los alrededores de la capital. 
 
-![fin de semana en Palencia](etheria-images/2020/09/Palencia-terraza-centro.jpg "Terrazas en el centro de Palencia. © Cedida por Ayto. Palencia")
+![fin de semana en Palencia](https://fotos.etheriamagazine.com/2020/09/Palencia-terraza-centro.jpg "Terrazas en el centro de Palencia. © Cedida por Ayto. Palencia")
 
 Otras delicias gastronómicas de la provincia son el **capón de Cascajares**, que se hizo 
 muy famoso porque se sirvió en la boda de los Reyes; la menestra palentina, que va 

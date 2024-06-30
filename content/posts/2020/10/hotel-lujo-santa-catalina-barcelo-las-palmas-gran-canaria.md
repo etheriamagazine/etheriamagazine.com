@@ -1,7 +1,7 @@
 ---
 title: "Santa Catalina, a Royal Hideaway Hotel, un tesoro en el corazón de Las Palmas"
 date: 2020-10-06
-coverImage: etheria-images/2020/10/Hotel-Santa-Catalina-piscina-atardecer.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/Hotel-Santa-Catalina-piscina-atardecer.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 En las islas Canarias, además de excelentes resorts de playa en las zonas más turísticas, hay hoteles llenos de encanto en el corazón de sus ciudades. Uno que no puedes perderte es el Santa Catalina, a Royal Hideaway Hotel. En un edificio histórico de Las Palmas, es perfecto para recorrer Gran Canaria con tus amigas o para hacer una escapada tú sola.
 
-![Piscina del hotel Santa Catalina](etheria-images/2020/10/Hotel-Santa-Catalina-piscina-atardecer.jpg "Atardecer en el Santa Catalina, a Royal Hideaway Hotel.")
+![Piscina del hotel Santa Catalina](https://fotos.etheriamagazine.com/2020/10/Hotel-Santa-Catalina-piscina-atardecer.jpg "Atardecer en el Santa Catalina, a Royal Hideaway Hotel.")
 
 Los hoteles con historia tienen siempre algo especial, una especie de aura que se siente 
 en sus estancias y que sugiere que si las paredes y muebles hablaran tendrían mucho que 
@@ -21,7 +21,7 @@ punto de referencia social en Las Palmas. Respira historia por todas partes y gr
 de culpa la tienen su decoración elegante, en la que dominan los tonos neutros, las 
 lámparas de araña y el mobiliario clásico. 
 
-![Salón del hotel Santa Catalina](etheria-images/2020/10/hotel-santa-catalina-salon-miguel-martin.jpg "Salón Miguel Martín.")
+![Salón del hotel Santa Catalina](https://fotos.etheriamagazine.com/2020/10/hotel-santa-catalina-salon-miguel-martin.jpg "Salón Miguel Martín.")
 
 Si te alojas en este hotel podrás vivir la isla de Gran Canaria de otra manera, lejos de 
 los resorts de playa pero muy cerca de la gente, de las tiendas, del ambiente local de 
@@ -39,7 +39,7 @@ El hotel Santa Catalina divide sus 204 habitaciones en tres categorías: las hab
 subcategorías como la Deluxe Superior, la Family Deluxe o la Junior Suite Premium. Todas 
 con una decoración clásica llena de detalles y unos suelos preciosos. 
 
-![habitación del hotel Santa Catalina](etheria-images/2020/10/hotel-santa-catalina-deluxe-superior.jpg "Habitación Deluxe Superior.")
+![habitación del hotel Santa Catalina](https://fotos.etheriamagazine.com/2020/10/hotel-santa-catalina-deluxe-superior.jpg "Habitación Deluxe Superior.")
 
 Entre las suites, destacan la **Suite Presidencial** y la **Royal Suite**, dos lujosas 
 estancias donde sin duda te sentirás especial. Sus terrazas no pueden ser más bonitas y 
@@ -49,7 +49,7 @@ a la piscina infinity del Rooftop con servicio Pool Concierge en Alis Bar (solo 
 adultos), acceso al circuito de hidroterapia del spa, _amenities_ de la lujosa marca 
 Penhaligon’s y acceso a la llamada “carta de mimos”. 
 
-![Terraza de hotel frente a la piscina](etheria-images/2020/10/hotel-santa-catalina-suite-presidencial.jpg "Terraza de la Suite Presidencial.")
+![Terraza de hotel frente a la piscina](https://fotos.etheriamagazine.com/2020/10/hotel-santa-catalina-suite-presidencial.jpg "Terraza de la Suite Presidencial.")
 
 ## Restaurantes
 
@@ -62,7 +62,7 @@ dejar de disfrutar de un café, una cerveza o un cóctel en el **Carabela Bar**,
 elegir según el momento del día ya que está abierto de nueve de la mañana a doce de la 
 noche. 
 
-![Restaurante con sillas amarillas y verdes del Santa Catalina](etheria-images/2020/10/hotel-santa-catalina-poemas.jpg "Restaurante Poemas.")
+![Restaurante con sillas amarillas y verdes del Santa Catalina](https://fotos.etheriamagazine.com/2020/10/hotel-santa-catalina-poemas.jpg "Restaurante Poemas.")
 
 El **Alis Rooftop** ofrece un espacio versátil para disfrutar a todas horas: hasta las 
 cinco y media, como zona exclusiva para los clientes de las Junior Suite y las Suites, 
@@ -71,7 +71,7 @@ el hotel tiene en la azotea. Y, a partir de esa hora, como Rooftop Bar para todo
 clientes, un lugar elegante donde tomar algo en sus cómodos sofás frente a unas vistas 
 maravillosas. 
 
-![plato de pescado de hotel de lujo](etheria-images/2020/10/hotel-santa-catalina-restaurante-camarote.jpg "Deliciosa gastronomía en el restaurante Camarote.")
+![plato de pescado de hotel de lujo](https://fotos.etheriamagazine.com/2020/10/hotel-santa-catalina-restaurante-camarote.jpg "Deliciosa gastronomía en el restaurante Camarote.")
 
 Para picar en la piscina la opción es el **Pool Bar & Restaurant**: elige desde un 
 cóctel en la hamaca hasta un plato de cocina mediterránea en la zona de su restaurante, 
@@ -86,13 +86,13 @@ con piscina de hidroterapia, bañeras de hidromasaje, saunas, baño turco, circu
 duchas, fuentes de hielo, piscinas de contraste… Y, por supuesto, excelentes terapeutas 
 con los que disfrutar de un relajante masaje. 
 
-![Spa de hotel de lujo en Gran Canaria](etheria-images/2020/10/hotel-santa-catalina-spa.jpg "Piscina del Spa del hotel Santa Catalina.")
+![Spa de hotel de lujo en Gran Canaria](https://fotos.etheriamagazine.com/2020/10/hotel-santa-catalina-spa.jpg "Piscina del Spa del hotel Santa Catalina.")
 
 Si lo que buscas es no perder la forma ni en tus días de vacaciones, en su completo 
 **centro de fitness y gimnasio** encontrarás todas las herramientas necesarias. Además, 
 con el servicio VIP se tiene acceso a una sala fitness situada en el Alis Rooftop. 
 
-![Piscina y tumbonas en el hotel Santa Catalina](etheria-images/2020/10/hotel-santa-catalina-piscina.jpg "Piscina del Santa Catalina, a Royal Hideaway Hotel")
+![Piscina y tumbonas en el hotel Santa Catalina](https://fotos.etheriamagazine.com/2020/10/hotel-santa-catalina-piscina.jpg "Piscina del Santa Catalina, a Royal Hideaway Hotel")
 
 Y hemos dejado para el final uno de los lugares más especiales del hotel, sus 
 **piscinas**, con preciosas vistas del mar y la ciudad, un espacio perfecto para 

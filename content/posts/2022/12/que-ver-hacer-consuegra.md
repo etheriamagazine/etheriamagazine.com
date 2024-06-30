@@ -1,7 +1,7 @@
 ---
 title: "Consuegra, un pueblo con doce molinos y un castillo"
 date: 2022-12-20
-coverImage: etheria-images/2022/12/Molino-castillo-consuegra.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/Molino-castillo-consuegra.jpg
 categories: 
   - viaje-en-familia
 authors: 
@@ -13,7 +13,7 @@ buenos restaurantes y tiendas donde adquirir un bonito recuerdo siempre triunfan
 esos lugares que no defrauda es Consuegra, un pueblo de Toledo que resulta perfecto para 
 una excursión de ida y vuelta. 
 
-![Atardecer desde el cerro de los molinos de Consuegra.](etheria-images/2022/12/Molino-castillo-consuegra.jpg "Atardecer desde el cerro de los molinos de Consuegra.")
+![Atardecer desde el cerro de los molinos de Consuegra.](https://fotos.etheriamagazine.com/2022/12/Molino-castillo-consuegra.jpg "Atardecer desde el cerro de los molinos de Consuegra.")
 
 Consuegra no puede competir con Toledo, a unos 60 kilómetros, ni tampoco quiere pero es 
 un gran destino y resulta ideal como complemento para un fin de semana por las Tierras 
@@ -42,7 +42,7 @@ Jerusalén por la fortaleza de Consuegra. Intrigas, luchas de poder, conquistas 
 batallas entre caballeros de brillante armadura que harán soñar a los más pequeños con 
 historias de héroes cercanos. 
 
-![Edificio de los Corredores, con los molinos de Consuegra al fondo.](etheria-images/2022/12/Consuegra-Edificio-Corredores.jpg "Edificio de los Corredores, con los molinos de Consuegra al fondo.")
+![Edificio de los Corredores, con los molinos de Consuegra al fondo.](https://fotos.etheriamagazine.com/2022/12/Consuegra-Edificio-Corredores.jpg "Edificio de los Corredores, con los molinos de Consuegra al fondo.")
 
 ### Casa la Tercia e iglesia del Santísimo Cristo
 
@@ -54,7 +54,7 @@ de la **iglesia del Santísimo Cristo de la Veracruz**, del siglo XVIII, barroco
 por fuera, castellano-mudéjar por dentro y dos columnas salomónicas enmarcando la 
 entrada. 
 
-![Vistas de un molino desde el castillo de Consuegra.](etheria-images/2022/12/consuegra-interior-castillo.jpg "Vistas de un molino desde el castillo de Consuegra.")
+![Vistas de un molino desde el castillo de Consuegra.](https://fotos.etheriamagazine.com/2022/12/consuegra-interior-castillo.jpg "Vistas de un molino desde el castillo de Consuegra.")
 
 ### Huellas romanas en Consuegra
 
@@ -82,7 +82,7 @@ investigaciones también indican que un circo romano ocupaba esas tierras siglos
 ?En la [web](https://consuegra.es/) de Turismo de Consuegra encontrarás más 
 recomendaciones. 
 
-![Interior del castillo de Consuegra.](etheria-images/2022/12/interior-castillo-consuegra.jpg "Interior del castillo de Consuegra.")
+![Interior del castillo de Consuegra.](https://fotos.etheriamagazine.com/2022/12/interior-castillo-consuegra.jpg "Interior del castillo de Consuegra.")
 
 ## Dónde comer: en una cueva o en una casa tradicional
 
@@ -96,7 +96,7 @@ ineludibles. En los antiguos archivos y graneros del **Palacio Prioral Casa La T
 se sirven platos de caza de Consuegra. Comer o cenar en una cueva del siglo XV, de la 
 que dicen que se comunica con el castillo de La Muela, es una experiencia inolvidable. 
 
-![Plato del restaurante El Retorno, en Consuegra.](etheria-images/2022/12/consuegra-restaurante-El-Retorno.jpg "Plato del restaurante El Retorno, en Consuegra.")
+![Plato del restaurante El Retorno, en Consuegra.](https://fotos.etheriamagazine.com/2022/12/consuegra-restaurante-El-Retorno.jpg "Plato del restaurante El Retorno, en Consuegra.")
 
 Como tampoco olvidarás los sabores del restaurante **El Retorno** 
 (restauranteelretorno.es) con sus duelos y quebrantos, las trompetas, las migas, o la 

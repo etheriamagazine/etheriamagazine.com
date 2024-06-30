@@ -1,7 +1,7 @@
 ---
 title: "Por qué la mujer no pudo votar en Suiza hasta 1971"
 date: 2021-04-12
-coverImage: etheria-images/2021/03/voto-femenino-suiza-el-orden-divino-manifestacion.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-el-orden-divino-manifestacion.jpg
 categories: 
   - organiza-tu-viaje
   - historias-en-femenino
@@ -14,7 +14,7 @@ authors:
 lucha de las mujeres suizas por conseguirlo y los lugares que fueron importantes para la 
 consecución de este derecho. 
 
-![voto femenino en Suiza](etheria-images/2021/03/voto-femenino-suiza-el-orden-divino-manifestacion.jpg "Fotograma de la película 'El orden divino', que trata sobre la lucha por conseguir el voto femenino. © Surtsey")
+![voto femenino en Suiza](https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-el-orden-divino-manifestacion.jpg "Fotograma de la película 'El orden divino', que trata sobre la lucha por conseguir el voto femenino. © Surtsey")
 
 En 1947, después de la Segunda Guerra Mundial, todos los países democráticos de Europa 
 Occidental tenían derecho al voto femenino **salvo… Suiza y Liechtenstein**. En ese 
@@ -32,7 +32,7 @@ financiero, un destino turístico envidiable abanderado del pacifismo internacio
 creador de la Cruz Roja y ejemplo de cultura y civismo se negara a conceder el voto a 
 las mujeres? Descifremos el enigma suizo y los lugares que marcaron este arduo camino. 
 
-![voto femenino en Suiza](etheria-images/2021/03/voto-femenino-suiza-1969.jpg "Mujeres de la parte francesa de Suiza votando en 1969.")
+![voto femenino en Suiza](https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-1969.jpg "Mujeres de la parte francesa de Suiza votando en 1969.")
 
 ## Larga marcha hacia el voto
 
@@ -56,7 +56,7 @@ Tampoco surtió efecto en 1929 la petición más grande realizada hasta entonces
 247.506 firmas de todas las regiones exigiendo la concesión de los derechos políticos a 
 las mujeres. 
 
-![voto femenino en Suiza](etheria-images/2021/03/voto-femenino-suiza-el-orden-divino-votacion.jpg "Fotograma de la película 'El orden divino'. © Surtsey")
+![voto femenino en Suiza](https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-el-orden-divino-votacion.jpg "Fotograma de la película 'El orden divino'. © Surtsey")
 
 La frustración de no conseguir nada con sus esfuerzos empezaba a pesar en las sociedades 
 de trabajadoras, que decidieron cambiar su estrategia. El final de los 50 les daría una 
@@ -87,7 +87,7 @@ las primeras féminas de toda Suiza en votar. Por eso, Unterbäch es conocido co
 Rütli o Grütli de la mujer suiza”, haciendo alusión al hermoso prado de montañas en el 
 lago de Lucerna (cantón de Uri), donde se creó la Confederación Suiza, en 1291. 
 
-![voto femenino en Suiza](etheria-images/2021/03/voto-femenino-suiza-Unterbach.jpg "Unterbäch. © Switzerland Tourism")
+![voto femenino en Suiza](https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-Unterbach.jpg "Unterbäch. © Switzerland Tourism")
 
 ### Vaud, el cantón pionero
 
@@ -101,7 +101,7 @@ Ginebra, famoso por sus Alpes y sus glaciares, este cantón será el pionero. Le
 otros 8 (hay un total de 22) de las diferentes regiones lingüísticas de Suiza. Entre 
 ellos el francés Neuchâtel, el alemánico Zúrich o el italiano Ticino. 
 
-![voto femenino en Suiza](etheria-images/2021/03/voto-femenino-suiza-St-Saphorin-Lavaux-Vaud.jpg "St-Saphorin, pintoresco pueblo en el lago Ginebra, en el cantón de Vaud. © Switzerland Tourism/Marcus Gyger")
+![voto femenino en Suiza](https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-St-Saphorin-Lavaux-Vaud.jpg "St-Saphorin, pintoresco pueblo en el lago Ginebra, en el cantón de Vaud. © Switzerland Tourism/Marcus Gyger")
 
 La última embestida de esta afanosa lucha femenina llegaría en los años 60 y sería a 
 nivel nacional. El detonante fue la **Convención Europea de los derechos del Hombre**. 
@@ -123,7 +123,7 @@ Por fin, dos años después, el 7 de febrero de 1971, en un país en el que solo
 22 cantones había otorgado el voto a las mujeres, el Consejo Federal procede a una nueva 
 votación en la que los hombres suizos votan una modificación de la Constitución. 
 
-![viajes a Suiza](etheria-images/2021/03/voto-femenino-suiza-Berna-Bundeshaus.jpg "El Bundeshaus en Berna.© Switzerland Tourism")
+![viajes a Suiza](https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-Berna-Bundeshaus.jpg "El Bundeshaus en Berna.© Switzerland Tourism")
 
 > El voto femenino en Suiza, después de un siglo de persuasión y luchas, es victorioso con 
 > 67,7% de sí y 34,2% de no. 
@@ -133,7 +133,7 @@ mujeres?** Porque Suiza era, en definitiva, un país muy conservador, de caráct
 patriarcal, reacio a los cambios, donde se consideraba que el lugar de las mujeres era, 
 sobre todo, la cocina. Hizo falta un siglo para cambiar las mentalidades. 
 
-![Schwende, en Appenzell Rodas Interior.](etheria-images/2021/03/Voto-femenino-suiza-Rodas-Interior.jpg "Schwende, en Appenzell Rodas Interior. © Switzerland Tourism")
+![Schwende, en Appenzell Rodas Interior.](https://fotos.etheriamagazine.com/2021/03/Voto-femenino-suiza-Rodas-Interior.jpg "Schwende, en Appenzell Rodas Interior. © Switzerland Tourism")
 
 ### Appenzell, el más reacio
 

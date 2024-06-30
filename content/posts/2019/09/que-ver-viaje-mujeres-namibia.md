@@ -1,7 +1,7 @@
 ---
 title: "Namibia, un viaje para mujeres aventureras"
 date: 2019-09-27
-coverImage: etheria-images/2019/09/acacias-Deadvlei-7.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/09/acacias-Deadvlei-7.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 El Namib es el desierto vivo más viejo del mundo y, probablemente, el más hermoso. Abarca gran parte de Namibia y es un territorio donde la vida y la muerte se replantean cada día. En Etheria Magazine nos ponemos en modo exploradora para sentir el vértigo de los enormes espacios y el placer del silencio. Aventúrate a dejar 10 huellas de tus pies en el desierto.
 
-![Dunas Oceano Atlantico Swakopmund Desierto Namib Namibia Africa](etheria-images/2019/09/desierto-namibia-1-900x591.jpg "Vista aérea del desierto de Namibia.")
+![Dunas Oceano Atlantico Swakopmund Desierto Namib Namibia Africa](https://fotos.etheriamagazine.com/2019/09/desierto-namibia-1-900x591.jpg "Vista aérea del desierto de Namibia.")
 
 ## 1\. En arena te convertirás
 
@@ -24,7 +24,7 @@ de **un intenso rojizo** al culminar el día y que, con sus formas y colores,
 caracterizan al **desierto del Namib**, demostrándote que has llegado al desierto más 
 bello del mundo. 
 
-![Sossusvlei Desert Lodge, Namib-Naukluft National Park, Namibia, Africa](etheria-images/2019/09/Namib-Naukluft-Park-lodge-2-900x578.jpg "Namib Naukluft Park lodge.")
+![Sossusvlei Desert Lodge, Namib-Naukluft National Park, Namibia, Africa](https://fotos.etheriamagazine.com/2019/09/Namib-Naukluft-Park-lodge-2-900x578.jpg "Namib Naukluft Park lodge.")
 
 ## 2\. Dormir en la arena
 
@@ -39,7 +39,7 @@ de estrellas al tiempo que te sentirás la reina del desierto. Todavía vivían 
 planeta. El resultado es uno de los parajes más admirados del mundo, donde sentirás que 
 Africa invade tus sentidos. 
 
-![Flamingos, Salinas, Walvis Bay, Namibia, Africa](etheria-images/2019/09/Walvis-Bay-3-900x600.jpg "Flamencos en Walvis Bay.")
+![Flamingos, Salinas, Walvis Bay, Namibia, Africa](https://fotos.etheriamagazine.com/2019/09/Walvis-Bay-3-900x600.jpg "Flamencos en Walvis Bay.")
 
 ## 3\. Entre flamencos y pelícanos
 
@@ -60,7 +60,7 @@ laguna litoral, que fue bahía de refugio para balleneros y pescadores, envuelta
 y arrecifes. Es el hogar de más de 200.000 aves entre las que destacan flamencos, 
 pelícanos y cormoranes. 
 
-![Solitaire, Namib Naukluft National Park, Namibia, Africa](etheria-images/2019/09/Solitaire-village-4-900x481.jpg "Solitaire Village.")
+![Solitaire, Namib Naukluft National Park, Namibia, Africa](https://fotos.etheriamagazine.com/2019/09/Solitaire-village-4-900x481.jpg "Solitaire Village.")
 
 ## 4\. Atravesar la soledad
 
@@ -74,7 +74,7 @@ tienda con **pasteles recién horneados** y una pequeña capilla. Está situado 
 **cruce de dos de las más importantes carreteras** que atraviesan el desierto y aún 
 quedan 83 kilómetros para alcanzar el cañón. 
 
-![Duna 45, Sossus Vlei, Sesriem, Parque Nacional Namib Naukluft, Desierto del Namib, Namibia, Afirca](etheria-images/2019/09/duna-45-682x1024.jpg "Duna 45.")
+![Duna 45, Sossus Vlei, Sesriem, Parque Nacional Namib Naukluft, Desierto del Namib, Namibia, Afirca](https://fotos.etheriamagazine.com/2019/09/duna-45-682x1024.jpg "Duna 45.")
 
 ## 5\. Cita sobre la duna 45
 
@@ -89,7 +89,7 @@ y sorprende el rayar del día encaramada a sus **80 metros de altura**. Sentirá
 vivido una experiencia mágica, la de un mar de curvas rosadas y dunas de finísima arena 
 que se extienden hacia el sur del desierto. 
 
-![Gemsbok or gemsbuck (Oryx gazella), Namib Desert, Namibia, Africa](etheria-images/2019/09/oryx-6-900x600.jpg "Oryx en el desierto de Namibia.")
+![Gemsbok or gemsbuck (Oryx gazella), Namib Desert, Namibia, Africa](https://fotos.etheriamagazine.com/2019/09/oryx-6-900x600.jpg "Oryx en el desierto de Namibia.")
 
 ## 6\. Entre las estrellas
 
@@ -104,7 +104,7 @@ capaz de vivir en el desierto por su extrema adaptación a obtener el agua que n
 solo de frutos y raíces o, después de ascender a lo alto de las dunas, ponerse cara al 
 viento y respirar su humedad. 
 
-![Deadvlei, Sossus Vlei, Desierto Namib, Namibia, Africa](etheria-images/2019/09/acacias-Deadvlei-7-900x600.jpg "Acacias muertas en el desierto Namib.")
+![Deadvlei, Sossus Vlei, Desierto Namib, Namibia, Africa](https://fotos.etheriamagazine.com/2019/09/acacias-Deadvlei-7-900x600.jpg "Acacias muertas en el desierto Namib.")
 
 ## 7\. Cuando el mundo se para
 
@@ -118,7 +118,7 @@ troncos secos de viejas acacias** que resaltan su cautivadora belleza entre las 
 rojizas. Son las huellas de un oasis que dejó de serlo cuando el río desvió su curso y 
 con ello cesó el aporte de agua, la esencia de la vida. 
 
-![pinturas rupestres, desierto namibia](etheria-images/2019/09/pinturas-rupestres-8-682x1024.jpg "Pinturas rupestres.")
+![pinturas rupestres, desierto namibia](https://fotos.etheriamagazine.com/2019/09/pinturas-rupestres-8-682x1024.jpg "Pinturas rupestres.")
 
 ## 8\. Road trip al pasado
 
@@ -131,7 +131,7 @@ proximidades del **poblado minero de Uis**, se distingue la mayor cumbre del pa�
 abrigos rocosos esconden **pinturas rupestres** de animales como el órice, escenas de 
 caza y la impresionante **Dama de Blanco**, un chamán pintado hace 2.000 años. 
 
-![elefantes namibia](etheria-images/2019/09/elefantes-9-900x600.jpg "Elefantes de Namibia.")
+![elefantes namibia](https://fotos.etheriamagazine.com/2019/09/elefantes-9-900x600.jpg "Elefantes de Namibia.")
 
 ## 9\. En la playa de los elefantes
 
@@ -144,7 +144,7 @@ orilla, como un oleaje anaranjado, siguen avanzando tierra adentro, remarcando q
 desierto cautiva con la tenacidad de los granos de arena. Esta es para cualquier **mujer 
 viajera** una de las experiencias inolvidables de su vida. 
 
-![Dunas Oceano Atlantico Swakopmund Desierto Namib Namibia Africa](etheria-images/2019/09/costa-Esqueletos-welwitschia-10-682x1024.jpg "Costa de los Esqueletos.")
+![Dunas Oceano Atlantico Swakopmund Desierto Namib Namibia Africa](https://fotos.etheriamagazine.com/2019/09/costa-Esqueletos-welwitschia-10-682x1024.jpg "Costa de los Esqueletos.")
 
 ## 10\. Un baño de agua de eternidad
 

@@ -1,7 +1,7 @@
 ---
 title: "Huelva con niños: 6 excursiones para aprovechar el viaje al máximo"
 date: 2021-06-21
-coverImage: etheria-images/2021/06/huelva-aldea-rocio-al-atardecer.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/huelva-aldea-rocio-al-atardecer.jpg
 categories: 
   - viaje-en-familia
   - de-un-vistazo
@@ -15,7 +15,7 @@ Si vas a viajar a Huelva con niños, no te pierdas estos seis planes que te prop
 para aprovechar al máximo las vacaciones familiares. Así, además de disfrutar de su 
 gastronomía y sus atardeceres mágicos, darás contenido a un viaje inolvidable. 
 
-![La aldea de El Rocío al atardecer.](etheria-images/2021/06/huelva-aldea-rocio-al-atardecer.jpg "La aldea de El Rocío al atardecer.")
+![La aldea de El Rocío al atardecer.](https://fotos.etheriamagazine.com/2021/06/huelva-aldea-rocio-al-atardecer.jpg "La aldea de El Rocío al atardecer.")
 
 Huelva da para mucho. Esta provincia que mira al Atlántico y que guarda en su interior 
 bellos paisajes serranos es un destino perfecto para viajar con niños. Y, aunque es un 
@@ -33,7 +33,7 @@ réplicas de la Niña, la Pinta y la Santa María (en realidad dos carabelas y u
 realizaron para conmemorar el 500 aniversario de la llegada de los españoles a América y 
 hoy forman parte de un Centro de Interpretación del Descubrimiento. 
 
-![barcos del muelle de las Carabelas](etheria-images/2018/09/muelle-carabelas-huelva-1024x705.jpg "Muelle de las Carabelas © PGM")
+![barcos del muelle de las Carabelas](https://fotos.etheriamagazine.com/2018/09/muelle-carabelas-huelva-1024x705.jpg "Muelle de las Carabelas © PGM")
 
 Se puede subir a ellas para ver de cerca los aparejos marineros, bajar a la bodega y 
 conocer el modo de vida en estas embarcaciones. La excursión se puede completar con una 
@@ -52,7 +52,7 @@ parece sacado de una película del oeste, con su suelo de tierra y sus postes pa
 amarrar los caballos por todas partes, hasta en los restaurantes. Y todo parece girar en 
 torno a esa tópica esencia andaluza de caballos, vino y trajes de faralaes. 
 
-![Garza real en el Parque Nacional de Doñana.](etheria-images/2021/06/huelva-ninos-garza-real.jpg "Garza real en el Parque Nacional de Doñana.")
+![Garza real en el Parque Nacional de Doñana.](https://fotos.etheriamagazine.com/2021/06/huelva-ninos-garza-real.jpg "Garza real en el Parque Nacional de Doñana.")
 
 La aldea se ve en un momento y desde aquí puedes reservar una **excursión por el Parque 
 Nacional de Doñana** en alguna de las agencias de turismo activo que encontrarás en El 
@@ -72,7 +72,7 @@ acercarte a la vida del Premio Nobel onubense y su esposa Zenobia Camprubí a tr
 sus objetos cotidianos y sus recuerdos. No te pierdas la biblioteca, seguro que te 
 llevas de su pequeña tienda un ejemplar de _Platero y yo_ adaptado para niños. 
 
-![máquina de escribir en la casa museo de juan ramón jiménez](etheria-images/2021/06/huelva-ninos-casa-museo-juan-ramon-jimenez.jpg "Detalle de la Casa Museo Zenobia Juan Ramón Jiménez. © SG")
+![máquina de escribir en la casa museo de juan ramón jiménez](https://fotos.etheriamagazine.com/2021/06/huelva-ninos-casa-museo-juan-ramon-jimenez.jpg "Detalle de la Casa Museo Zenobia Juan Ramón Jiménez. © SG")
 
 Para visitar Moguer te recomendamos que te dirijas primero a la Oficina de Turismo 
 situada en el Teatro Felipe Godínez y recorras después sus bonitas calles blancas. 
@@ -90,7 +90,7 @@ los ingleses que llegaron a esta zona. Aquí seguro que os sorprendéis con cóm
 capaces de llevar un modo de vida totalmente 'british' en la Huelva de finales del siglo 
 XIX. 
 
-![agua en las minas de Riotinto](etheria-images/2021/06/huelva-minas-riotinto.jpg "Minas de Riotinto. © Carlos Cantero")
+![agua en las minas de Riotinto](https://fotos.etheriamagazine.com/2021/06/huelva-minas-riotinto.jpg "Minas de Riotinto. © Carlos Cantero")
 
 Después, podéis subiros al **ferrocarril minero**, que ha recuperado parte del trazado 
 original de la vía que conectaba las minas con el puerto de Huelva, atravesando 
@@ -116,7 +116,7 @@ Castilla, que conecta con Mazagón a través de 20 kilómetros de arena sin urba
 playa del Arenosillo, la playa del Asperillo o la playa de la Estrella, con sus dunas en 
 movimiento. 
 
-![playa del asperillo, playas huelva](etheria-images/2020/06/Huelva-playas-7-900x596.jpg "Playa del Asperillo (Huelva).")
+![playa del asperillo, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-7-900x596.jpg "Playa del Asperillo (Huelva).")
 
 ## Visitar la ciudad de Huelva
 
@@ -129,7 +129,7 @@ Huelva](https://www.civitatis.com/es/huelva/free-tour-huelva/?aid=10211) para a�
 algún dato histórico y anécdotas al recorrido. Como broche final, hay que acercarse al 
 Muelle del Tinto para ver la espectacular puesta de sol. 
 
-![puesta de sol en Huelva](etheria-images/2021/06/Huelva-muelle-del-tinto.jpg "Muelle del Tinto en Huelva. © Santiago Santos")
+![puesta de sol en Huelva](https://fotos.etheriamagazine.com/2021/06/Huelva-muelle-del-tinto.jpg "Muelle del Tinto en Huelva. © Santiago Santos")
 
 **Más planes con niños:** 
 

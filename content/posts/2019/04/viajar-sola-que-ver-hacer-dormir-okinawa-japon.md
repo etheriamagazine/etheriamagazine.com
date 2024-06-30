@@ -1,7 +1,7 @@
 ---
 title: "Okinawa, el secreto mejor guardado de Japón"
 date: 2019-04-05
-coverImage: etheria-images/2019/04/okinawa-boda-japon.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/okinawa-boda-japon.jpg
 categories: 
   - viajes-para-mujeres
   - viajar-sola
@@ -17,7 +17,7 @@ Japón.
 
 **Texto: Yvonne Solé Fotos: Félix Lorenzo** 
 
-![Okinawa es un bonito escenario para las fotos de bodas.](etheria-images/2019/04/okinawa-boda-japon.jpg "Un bonito escenario para las fotos de bodas.")
+![Okinawa es un bonito escenario para las fotos de bodas.](https://fotos.etheriamagazine.com/2019/04/okinawa-boda-japon.jpg "Un bonito escenario para las fotos de bodas.")
 
 ```
 Actualizado 2023
@@ -33,7 +33,7 @@ turquesas y cristalinas arropadas por arrecifes coralinos, arenas blancas y fina
 la harina y un clima subtropical que permite el crecimiento de una vegetación exuberante 
 y fauna autóctona. ¿Se puede pedir más? 
 
-![En Taketomi se puede recorrer el pueblo en un carro tirado por bueyes.](etheria-images/2019/04/okinawa-japon-bueyes.jpg "En Taketomi se puede recorrer el pueblo en un carro tirado por bueyes.")
+![En Taketomi se puede recorrer el pueblo en un carro tirado por bueyes.](https://fotos.etheriamagazine.com/2019/04/okinawa-japon-bueyes.jpg "En Taketomi se puede recorrer el pueblo en un carro tirado por bueyes.")
 
 ## Taketomi, la isla donde no pasa el tiempo
 
@@ -47,7 +47,7 @@ transcurre más despacio. Su capital, también llamada Taketomi, es un pequeño 
 arquitectura tradicional, con tejados de teja roja en los que no falta la _shisa_, un 
 pequeño dragón de piedra que protege los hogares de los espíritus malignos. 
 
-![Dragón en la entrada de una vivienda de Taketomi.](etheria-images/2019/04/okinawa-dragon-japon.jpg "Dragón en la entrada de una vivienda de Taketomi.")
+![Dragón en la entrada de una vivienda de Taketomi.](https://fotos.etheriamagazine.com/2019/04/okinawa-dragon-japon.jpg "Dragón en la entrada de una vivienda de Taketomi.")
 
 Además de recorrer el centro a pie o en un pintoresco carro tirado por bueyes de agua, 
 puedes optar por alquilar una bici y recorrer la isla por sus caminos de arena dorada. 
@@ -59,7 +59,7 @@ de sol. Además, desde aquí se divisa la **isla de Iriomote**, que también mer
 visita. Se conoce como la 'Galápagos del Este' al estar cubierta por una densa selva y 
 es el hogar de animales en peligro de extinción, como el gato salvaje de Iriomote. 
 
-![Estrellitas de la playa de Kanji y vista aérea de Ishigaki.](etheria-images/2019/04/okinawa-japon-vista-aerea.jpg "Estrellitas de la playa de Kanji y vista aérea de Ishigaki.")
+![Estrellitas de la playa de Kanji y vista aérea de Ishigaki.](https://fotos.etheriamagazine.com/2019/04/okinawa-japon-vista-aerea.jpg "Estrellitas de la playa de Kanji y vista aérea de Ishigaki.")
 
 ## Kanji, la playa de estrellas
 
@@ -69,7 +69,7 @@ esta playa son las minúsculas estrellitas que están mezcladas con la arena. Se
 trozos de concha que con el desgaste del agua han adquirido esta particular forma. Eso 
 sí, ármate de paciencia para encontrarlas. 
 
-![Relax en Shigira Beach.](etheria-images/2019/04/okinawa-japon-tumbonas.jpg "Relax en Shigira Beach.")
+![Relax en Shigira Beach.](https://fotos.etheriamagazine.com/2019/04/okinawa-japon-tumbonas.jpg "Relax en Shigira Beach.")
 
 ## Una isla-playa para ti sola
 
@@ -80,7 +80,7 @@ horas (mientras dura la marea baja). En cuanto la marea sube, la isla desaparece
 por arte de magia. No olvides llevar bebida, protección solar y algún tentempié para 
 pasar una tarde única. 
 
-![Playa de Ishigaki en Okinawa](etheria-images/2019/04/okinawa-japon-playa.jpg "Playa de Ishigaki.")
+![Playa de Ishigaki en Okinawa](https://fotos.etheriamagazine.com/2019/04/okinawa-japon-playa.jpg "Playa de Ishigaki.")
 
 ## La mejor ternera del mundo
 
@@ -92,7 +92,7 @@ cosas, con el amargo goya, el vegetal más famoso de Okinawa. No puedes irte de 
 sin haber probado el **chanpuru** (significa mezclar), un plato a base de verduras 
 fritas, tofu y cerdo. 
 
-![Yaeyama soba es uno de los platos típicos de Okinawa.](etheria-images/2019/04/okinawa-japon-gastronomia.jpg "Yaeyama soba es uno de los platos típicos de Okinawa.")
+![Yaeyama soba es uno de los platos típicos de Okinawa.](https://fotos.etheriamagazine.com/2019/04/okinawa-japon-gastronomia.jpg "Yaeyama soba es uno de los platos típicos de Okinawa.")
 
 ## Miyako y sus maravillosas playas
 
@@ -109,7 +109,7 @@ marina. Miyako está unida a tres islas más mediante unos larguísimos puentes,
 ellos, **Irabu Ohashi**, es el más largo de Japón. Conectan con Ikemajima, Kurimajima e 
 Irabujima, por lo que visitar estas islas y sus playas es muy fácil. 
 
-![Puente de Ikemajima, en Okinawa](etheria-images/2019/04/okinawa-puente-japon.jpg "Puente de Ikemajima.")
+![Puente de Ikemajima, en Okinawa](https://fotos.etheriamagazine.com/2019/04/okinawa-puente-japon.jpg "Puente de Ikemajima.")
 
 ## Relax en los onsen, los spa japoneses
 
@@ -123,7 +123,7 @@ prefieres una opción más occidental puedes probar las instalaciones del **reso
 Shigira** que ofrece un baño al aire libre y una espaciosa piscina “jungla” adecuada 
 para ser disfrutada también en pareja. 
 
-![Habitación del resort Hoshinoya Okinawa.](etheria-images/2019/04/okinawa-japon-onsen.jpg "Habitación del resort Hoshinoya Okinawa.")
+![Habitación del resort Hoshinoya Okinawa.](https://fotos.etheriamagazine.com/2019/04/okinawa-japon-onsen.jpg "Habitación del resort Hoshinoya Okinawa.")
 
 ## Guía de viaje de Okinawa
 

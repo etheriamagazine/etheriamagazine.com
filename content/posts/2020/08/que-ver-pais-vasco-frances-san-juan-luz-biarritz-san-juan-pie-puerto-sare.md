@@ -1,7 +1,7 @@
 ---
 title: "País Vasco Francés, una ruta llena de elegancia y sabor"
 date: 2020-08-24
-coverImage: etheria-images/2020/08/san-juan-luz-francia.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/08/san-juan-luz-francia.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -11,13 +11,21 @@ authors:
   - Manena Munar
 ---
 
-Mar bravo, verdes pastos, pueblos acogedores, historia, elegancia y gastronomía exquisita… El País Vasco Francés ofrece todo esto y alguna que otra sorpresa más. San Juan de Luz, Biarritz, Espeleta, San Juan a Pie de Puerto y Sare es el itinerario que os proponemos en esta escapada.
+Mar bravo, verdes pastos, pueblos acogedores, historia, elegancia y gastronomía 
+exquisita… El País Vasco Francés ofrece todo esto y alguna que otra sorpresa más. San 
+Juan de Luz, Biarritz, Espeleta, San Juan a Pie de Puerto y Sare es el itinerario que os 
+proponemos en esta escapada. 
 
-![barcos en San Juán de Luz](etheria-images/2020/08/san-juan-luz-francia.jpg "Puerto de San Juan de Luz. © O.T. Saint Jean de Luz/ Tedy Bear")
+![barcos en San Juán de Luz](https://fotos.etheriamagazine.com/2020/08/san-juan-luz-francia.jpg "Puerto de San Juan de Luz. © O.T. Saint Jean de Luz/ Tedy Bear")
 
-## Qué ver en el País Vasco Francés
+Actualizado en junio de 2024. 
 
-### San Juan de Luz
+El País Vasco francés es una de esas regiones que lo tienen todo para una escapada 
+redonda. Cercano a la península, sobre todo si se viaja desde las regiones españolas 
+limítrofes, con una gastronomía de diez y unos pueblos en los que te plantearás hasta 
+quedarte a vivir. Y es un viaje perfecto para realizar en cualquier época del año. 
+
+## San Juan de Luz
 
 Apenas a nueve kilómetros de la frontera española, **San Juan de Luz** es el lugar 
 idóneo donde comenzar este recorrido en círculo por el País Vasco Francés que empieza en 
@@ -29,7 +37,7 @@ por su **puerto** que en tiempos fue el más importante de Francia, allá cuando
 de Luz era famosa por la caza de ballenas y pesca del bacalao, y también por sus 
 aguerridos corsarios del siglo XVII. 
 
-![calle de San Juan de Luz](etheria-images/2020/08/que-ver-san-juan-luz.jpg "Colorida arquitectura de San Juan de Luz. © O.T. Saint Jean de Luz/ Tedy Bear")
+![calle de San Juan de Luz](https://fotos.etheriamagazine.com/2020/08/que-ver-san-juan-luz.jpg "Colorida arquitectura de San Juan de Luz. © O.T. Saint Jean de Luz/ Tedy Bear")
 
 Rué Gambetta está llena de seductoras tiendas como **La Artigue 1910**, donde la familia 
 Lartigue lleva cuatro generaciones tejiendo tela vasca con pasión y buen hacer; la de 
@@ -42,9 +50,9 @@ paladar de María Teresa de Austria y se sirvieron en su boda con el Rey Sol.
 > gargantas graves y sentidas, mientras se saborea un buen vino acompañado por una 
 > irresistible cazuela de mejillones al vapor. 
 
-![playa rocosa en san juan de luz](etheria-images/2020/08/playa-san-juan-luz.jpg "Playa de San Juan de Luz. © O.T. Saint Jean de Luz/ Tedy Bear")
+![playa rocosa en san juan de luz](https://fotos.etheriamagazine.com/2020/08/playa-san-juan-luz.jpg "Playa de San Juan de Luz. © O.T. Saint Jean de Luz/ Tedy Bear")
 
-#### Mercado de Halles
+### Mercado de Halles
 
 Para aprender sobre el variado elenco de los productos vascos, desde los quesos de cabra 
 hasta las ostras, hay que dedicar un buen rato al **mercado de Halles** y así abrir boca 
@@ -54,19 +62,19 @@ río Nivelle para comer en la vecina localidad de Ciboure el plato típico de la
 sopa de pescado Ttoro con verduras y mariscos que la dueña de **Chez Margot** guisa como 
 nadie. 
 
-![Grand Hotel Thalasso Spa](etheria-images/2020/07/grand-hotel-san-juan-luz-900x569.jpg "© Grand Hôtel Thalasso & Spa.")
+![Grand Hotel Thalasso Spa](https://fotos.etheriamagazine.com/2020/07/grand-hotel-san-juan-luz-900x569.jpg "© Grand Hôtel Thalasso & Spa.")
 
-#### Historias de San Juan de Luz
+### Historias de San Juan de Luz
 
 Historia no le falta a San Juan de Luz, jactándose de subyugar con sus encantos a Luis 
 XIV que eligió la villa marinera para casarse en 1660 con su prometida española, María 
 Teresa de Austria. Lo hizo en la iglesia de San Juan Bautista, donde se instaló el 
 órgano para la real ocasión. Mientras llegaba la fecha de la gran boda que, por otra 
 parte, supondría una tregua tras los muchos años de trifulcas entre los países vecinos, 
-el monarca francés se hospedó en la **casa Lohobiaguenea**, apelada desde entonces [Maison 
-Louis XIV](http://www.maison-louis-xiv.fr/) que hoy se puede visitar. Por otra parte, la 
-futura reina se acomodó en Joanoenia, o Casa de la Infanta, un edificio construido a 
-imagen y semejanza de los palacios venecianos y que ahora también es visitable. 
+el monarca francés se hospedó en la **casa Lohobiaguenea**, apelada desde entonces 
+**Maison Louis XIV** que hoy se puede visitar. Por otra parte, la futura reina se 
+acomodó en Joanoenia, o Casa de la Infanta, un edificio construido a imagen y semejanza 
+de los palacios venecianos y que ahora también es visitable. 
 
 Y hablando de grandes mansiones no se puede olvidar el palaciego **Grand Hôtel Thalasso 
 & Spa**, que es de estilo Art Deco, de 1909, y ofrece tratamientos de talasoterapia. En 
@@ -77,9 +85,9 @@ San Juan de Luz, al lado del puerto pesquero.
 Tras este paseo dejaremos esta antigua aldea de pescadores, cuya leyenda ballenera le 
 viene de las enseñanzas vikingas de antaño, allá por los siglos VIII y IX. 
 
-![casa en Sare en el País VAsco Francés](etheria-images/2020/07/viaje-etheria-Sare-900x864.jpg "Palacetes de arquitectura vasca pueblan el bello paraje de Sare. © M.Munar")
+![casa en Sare en el País VAsco Francés](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-Sare-900x864.jpg "Palacetes de arquitectura vasca pueblan el bello paraje de Sare. © M.Munar")
 
-### Sare. Un pueblito aquí y otro allá
+## Sare. Un pueblito aquí y otro allá
 
 A pocos kilómetros de San Juan de Luz, el paisaje cambia radicalmente y el verdor toma 
 protagonismo. Carreteras sinuosas, bosques, pastos y unos pueblos encantadores. Uno de 
@@ -93,9 +101,9 @@ frontón correspondiente; el regio cementerio de la iglesia repleto de estelas (
 los muertos) vascas ‘hilarriak’ cuya forma simboliza la tierra y la luna; casonas 
 solariegas de los siglos XV y XVI; y hasta el lavadero municipal. 
 
-![Salón de Hotel Arraya en Sare](etheria-images/2020/07/viaje-Sare-hotel-arraya-900x600.jpg "El Hotel Arraya en Sare es un lugar acogedor y hospitalario donde se come de maravilla. © M. Munar")
+![Salón de Hotel Arraya en Sare](https://fotos.etheriamagazine.com/2020/07/viaje-Sare-hotel-arraya-900x600.jpg "El Hotel Arraya en Sare es un lugar acogedor y hospitalario donde se come de maravilla. © M. Munar")
 
-#### Fiesta de la Asunción
+### Fiesta de la Asunción
 
 En agosto, por la fiesta de la Asunción, Sare programa conciertos, espectáculos y, por 
 supuesto, partidos de pelota vasca. En abril la pequeña localidad montañesa se jacta de 
@@ -113,16 +121,16 @@ abrir…”, se escucha decir a una voz matutina… Es el momento ideal de subir
 cremallera Train Larrun, datado en 1924, para que, cuando por fin abra, poder divisar 
 una espléndida panorámica del valle. 
 
-![casas típicas del pais vasco frances](etheria-images/2020/07/viaje-etheria-Juan-a-Pie-de-Puerto.jpg "Casas de los siglos XV, XVI ocupan la Rue d'Espagna que se alza hasta la Ciudadela. © M. Munar")
+![casas típicas del pais vasco frances](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-Juan-a-Pie-de-Puerto.jpg "Casas de los siglos XV, XVI ocupan la Rue d'Espagna que se alza hasta la Ciudadela. © M. Munar")
 
-### San Juan a Pie de Puerto. Por las laderas de Roncesvalles
+## San Juan a Pie de Puerto. Por las laderas de Roncesvalles
 
 Es un privilegio tomar de nuevo la carretera bordeada por un magnífico escenario, sin 
 apenas coches, hasta llegar al siguiente destino montañero **San Juan a Pie de Puerto**. 
 Punto estratégico entre España y Francia, también es paso del Camino de Santiago justo 
 antes de cruzar Los Pirineos a _pie del puerto_ de Roncesvalles, como su nombre indica. 
 
-![rio en San Juan a Pie de Puerto](etheria-images/2020/07/viaje-etheria-San-Juan-a-Pie-de-Puerto-900x600.jpg "Al pueblo montañés de San Juan a Pie de Puerto le atraviesa el río Nive. © M. Munar")
+![rio en San Juan a Pie de Puerto](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-San-Juan-a-Pie-de-Puerto-900x600.jpg "Al pueblo montañés de San Juan a Pie de Puerto le atraviesa el río Nive. © M. Munar")
 
 El río Nive, atravesado por el _Pont Neuf_, cruza con garbo el centro del pueblo, cuya 
 calle principal, matizada por casas antiguas con vivos postigos rojos, sube por la Rue 
@@ -136,9 +144,9 @@ construyó en señal de agradecimiento por su sonada victoria de las Navas de To
 
 Si es lunes, el mercado local se llenará de productos frescos y atractivos. 
 
-![Espeleta](etheria-images/2020/07/viaje-mujeres-etheria-Espeleta-900x613.jpg "Espeleta. © M. Munar")
+![Espeleta](https://fotos.etheriamagazine.com/2020/07/viaje-mujeres-etheria-Espeleta-900x613.jpg "Espeleta. © M. Munar")
 
-### Espeleta. El pueblo de los pimientos
+## Espeleta. El pueblo de los pimientos
 
 Espeleta y el pimiento rojo están íntimamente unidos. Hasta tal punto que quien no sepa 
 nada sobre el enclave vasco, con solo llegar a sus calles y ver las fachadas blancas y 
@@ -148,7 +156,7 @@ _macarons_, pero el pimiento prima sobre todos ellos. Desde el año 2000, el pim
 Espeleta cuenta con su denominación de origen y en 2002 se declaró DOP (denominación de 
 origen protegida). 
 
-![Pimientos rojos en Espeleta](etheria-images/2020/07/viaje-etheria-Espeleta.jpg "Las ristras de pimientos rojos reventones tapizan las casas de Espeleta. © M. Munar")
+![Pimientos rojos en Espeleta](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-Espeleta.jpg "Las ristras de pimientos rojos reventones tapizan las casas de Espeleta. © M. Munar")
 
 Este pimiento incluso tiene su propia fiesta, que se celebra la primera semana de 
 octubre para honrar a la colorida y sabrosa hortaliza, variedad Gorria de la especie 
@@ -160,9 +168,9 @@ vasco franceses, no llevan algún aderezo que contenga algo de pimiento de Espel
 avivar el guiso. Por último, si quieres comer productos estacionales cocinados con 
 maestría, acude al **restaurante Choko Ona**, situado en una pintoresca casa del pueblo. 
 
-![faro de Biarritz](etheria-images/2020/07/viaje-etheria-faro-Biarritz-900x600.jpg "El faro de Biarritz, en Pointe Saint-Martin, está catalogado como monumento histórico. © M.Munar")
+![faro de Biarritz](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-faro-Biarritz-900x600.jpg "El faro de Biarritz, en Pointe Saint-Martin, está catalogado como monumento histórico. © M.Munar")
 
-### Biarritz. Surf, juego, historia, y mucho más…
+## Biarritz. Surf, juego, historia, y mucho más…
 
 Y cerramos el círculo de esta escapada volviendo al mar, a las olas de surf y a la 
 historia del real sitio de Biarritz. Este destino empezó a sonar allá por el siglo XIX, 
@@ -172,19 +180,18 @@ que estaba loco por ella y le daba gusto en todo, insistió en construir un pala
 fuera su residencia –y sirviera para acoger a la corte–, en el lugar con las mejores 
 vistas de Biarritz. 
 
-![playa de biarritz](etheria-images/2020/07/viaje-mujeres-Biarritz-900x603.jpg "La Grande Plage de Biarritz, Capital Europea del Surf. © M. Munar")
+![playa de biarritz](https://fotos.etheriamagazine.com/2020/07/viaje-mujeres-Biarritz-900x603.jpg "La Grande Plage de Biarritz, Capital Europea del Surf. © M. Munar")
 
 Lo que en principio fue Villa Eugenia, se convirtió en un lugar al que acudían 
 personalidades como la reina Isabel II de España, el príncipe Walewski, hijo de Napoleón 
 I y de su amante polaca María Walewska, entre muchas otras celebridades. Más tarde se 
-convirtió en el [Hôtel du 
-Palais](https://www.hyatt.com/en-US/hotel/france/hotel-du-palais-biarritz/biqub?src=corp_lclb_gmb_seo_eame_biqub), 
-desde donde se observa la Grande Plage, una popular ensenada para los surferos que 
-llegan atraídos por el apelativo de _Capital Europea del Surf._ 
+convirtió en el **Hôtel du Palais**, desde donde se observa la Grande Plage, una popular 
+ensenada para los surferos que llegan atraídos por el apelativo de _Capital Europea del 
+Surf._ 
 
-![Paseo marítimo de Biarritz](etheria-images/2020/07/que-ver-casino-Biarritz-900x600.jpg "Panorámica de la Grande Plage de Biarritz con el Casino Barriere y el Hôtel du Palais. © M.Munar")
+![Paseo marítimo de Biarritz](https://fotos.etheriamagazine.com/2020/07/que-ver-casino-Biarritz-900x600.jpg "Panorámica de la Grande Plage de Biarritz con el Casino Barriere y el Hôtel du Palais. © M.Munar")
 
-#### De compras por Biarritz
+### De compras por Biarritz
 
 De paseo por la ciudad salen al encuentro palacetes, casonas solariegas e iglesias de 
 diferentes credos, como la capilla Imperial que mandó levantar Eugenia de Montijo y que 
@@ -197,7 +204,7 @@ español de toda la vida, el **Bar Jean**.
 A la hora de las compras hay que pasarse por las **Galerías Lafayette**, de auténtico 
 estilo Art Deco, y la maravillosa tienda de ropa para el hogar **Helena**. 
 
-![Capilla Imperial de Biarritz.](etheria-images/2020/07/viaje-capilla-Biarritz.jpg "Eugenia de Montijo mandó levantar la Capilla Imperial de Biarritz. © M.Munar")
+![Capilla Imperial de Biarritz.](https://fotos.etheriamagazine.com/2020/07/viaje-capilla-Biarritz.jpg "Eugenia de Montijo mandó levantar la Capilla Imperial de Biarritz. © M.Munar")
 
 Al atardecer se impone caminar tranquilamente por el Paseo Marítimo hasta alcanzar el 
 faro de la colina Pointe Saint Martin, donde disfrutar de un espectacular ocaso y luego 
@@ -208,21 +215,21 @@ mítico **Casino Barriere**, a pie de la Grande Plage.
 
 La ruleta gira, rojo, negro. ¡Ese número de la suerte… _que nunca falla!_ 
 
-### Excursiones y visitas guiadas
+**Excursiones y visitas guiadas** 
 
 [Tour privado para un grupo en 
-Biarritz](https://www.civitatis.com/es/biarritz/tour-privado-biarritz/?aid=10211). (120 
+Biarritz](https://www.civitatis.com/es/biarritz/tour-privado-biarritz/?aid=10211). (140 
 €) 
 
 [Tour privado para un grupo en San Juan de 
 Luz.](https://www.civitatis.com/es/san-juan-de-luz/tour-privado-san-juan-de-luz/?aid=10211) 
-(120 €) 
+(140 €) 
 
 [Tour San Sebastián y 
 Biarritz](https://www.civitatis.com/es/san-sebastian/tour-san-sebastian-biarritz/?aid=10211). 
-(10 horas, 75 € sin almuerzo) 
+(10 horas, 85 € sin almuerzo) 
 
-### También te puede interesar...
+**También te puede interesar...** 
 
 [Los 10 mejores cañones del País Vasco. Paisajes secretos junto al 
 agua](https://etheriamagazine.com/2019/04/09/viajes-naturaleza-mejores-canones-pais-vasco/). 

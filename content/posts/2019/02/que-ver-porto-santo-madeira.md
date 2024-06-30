@@ -1,7 +1,7 @@
 ---
 title: "Por qué visitar Porto Santo si viajas a Madeira"
 date: 2019-02-05
-coverImage: etheria-images/2019/02/Porto-Santo-mirador-e1562660291487.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/Porto-Santo-mirador-e1562660291487.jpg
 categories: 
   - viajes-con-amigas
   - viajes-romanticos
@@ -15,7 +15,7 @@ segundona. De hecho, lo que te proponemos es que rompas la norma y conviertas es
 en tu destino principal de vacaciones en el archipiélago madeirense. Si quiere saber qué 
 ver en Porto o por qué deberías visitarla, sigue leyendo. 
 
-![Mirador de Portela, las mejores vistas de Porto Santo.](etheria-images/2019/02/Porto-Santo-mirador-1024x685.jpg "Mirador de Portela, las mejores vistas de Porto Santo. © P.G.")
+![Mirador de Portela, las mejores vistas de Porto Santo.](https://fotos.etheriamagazine.com/2019/02/Porto-Santo-mirador-1024x685.jpg "Mirador de Portela, las mejores vistas de Porto Santo. © P.G.")
 
 El archipiélago de Madeira está formado por las **islas de Madeira, Porto Santo y 
 algunos islotes** deshabitados. No te aburriremos con muchos datos históricos o 
@@ -67,7 +67,7 @@ productos artesanales del archipiélago; el **Fuerte de San José**, que tiene 8
 cañones de hierro (ahora es una propiedad privada); y el "curioso" monumento a los 
 Descubrimientos. 
 
-![Molinos situados junto al Mirador de Portela.](etheria-images/2019/02/Porto-santo-Molinos-mirador-portela-1024x642.jpg "Molinos situados junto al Mirador de Portela. © P.G.")
+![Molinos situados junto al Mirador de Portela.](https://fotos.etheriamagazine.com/2019/02/Porto-santo-Molinos-mirador-portela-1024x642.jpg "Molinos situados junto al Mirador de Portela. © P.G.")
 
 ## Excursiones desde Vila Baleira
 
@@ -82,7 +82,7 @@ Si disfrutas con las panorámicas, acércate también a la **capilla de Nuestra 
 Gracia**, que está situada en un altozano y que era el lugar elegido por los vecinos 
 para ocultarse cuando se producían incursiones piratas. 
 
-![Excursión por la costa de Porto Santo](etheria-images/2019/02/porto-santo-excursion-coche-1024x696.jpg "Excursión por la costa de Porto Santo © P.G.")
+![Excursión por la costa de Porto Santo](https://fotos.etheriamagazine.com/2019/02/porto-santo-excursion-coche-1024x696.jpg "Excursión por la costa de Porto Santo © P.G.")
 
 Para conocer el resto de la isla lo mejor es alquilar un coche y dejarte imbuir por la 
 calma que transmiten sus solitarias carreteras, o bien contratar una excursión 
@@ -95,7 +95,7 @@ Situada en una pequeña colina, ocupa más de cinco mil metros cuadrados de vege
 cuenta con un pequeño zoo, un mini jardín botánico y numerosas especies ornitológicas y 
 vegetales. Es un lugar que gustará especialmente a los niños. 
 
-![Sorprende la variedad de aves de la Quinta das Palmeiras.](etheria-images/2019/02/porto-santo-zoo.jpg "Sorprende la variedad de aves de la Quinta das Palmeiras. © P.G.")
+![Sorprende la variedad de aves de la Quinta das Palmeiras.](https://fotos.etheriamagazine.com/2019/02/porto-santo-zoo.jpg "Sorprende la variedad de aves de la Quinta das Palmeiras. © P.G.")
 
 ### • Columnas del Pico Ana Ferreira
 
@@ -104,7 +104,7 @@ Facho y de Castelo, como por las columnas de prismas con formas irregulares gene
 por la actividad volcánica. Se conoce como el piano y seguro que encuentras curiosas 
 perspectivas para hacer fotos creativas. 
 
-![Cantera de Ana Ferreira.](etheria-images/2019/02/Porto-santo-Ana-Ferreira.jpg "Cantera de Ana Ferreira. © P.G.")
+![Cantera de Ana Ferreira.](https://fotos.etheriamagazine.com/2019/02/Porto-santo-Ana-Ferreira.jpg "Cantera de Ana Ferreira. © P.G.")
 
 ### • Fonte da Areia
 
@@ -112,7 +112,7 @@ Aunque su nombre sigue haciendo referencia a la antigua fuente donde manaba un a
 rica en nutrientes, hoy día lo que podrás ver es un curioso paisaje formado por dunas 
 petrificadas que muestran la erosión y el paso del tiempo. 
 
-![Fonte da Areia porto santo, isla porto santo, que ver en porto santo](etheria-images/2019/02/porto-santo-fonte-areia-1024x676.jpg "Dunas petrificadas en Fonte da Areia. © P.G.")
+![Fonte da Areia porto santo, isla porto santo, que ver en porto santo](https://fotos.etheriamagazine.com/2019/02/porto-santo-fonte-areia-1024x676.jpg "Dunas petrificadas en Fonte da Areia. © P.G.")
 
 ### • Ponta da Calheta
 
@@ -120,7 +120,7 @@ Un rincón perfecto para darse un baño, pasear por la playa y comer en el resta
 Ponta da Calheta que hay junto a la playa. Y si ya te quedas a ver el atardecer, no hay 
 nada que lo supere. 
 
-![Playa de Porto Santo, a los pies de Vila Baleira.](etheria-images/2019/02/Porto-santo-playas-1024x683.jpg "Playa de Porto Santo, a los pies de Vila Baleira. © P.G.")
+![Playa de Porto Santo, a los pies de Vila Baleira.](https://fotos.etheriamagazine.com/2019/02/Porto-santo-playas-1024x683.jpg "Playa de Porto Santo, a los pies de Vila Baleira. © P.G.")
 
 ## Una isla con súper poderes
 
@@ -144,7 +144,7 @@ el líquido verde que sube por los tubos contiene microalgas que se emplean para
 industria alimentaria y cosmética. Un proyecto realmente interesante que se realiza en 
 cooperación con la empresa murciana **Buggypower**. 
 
-![gastronomia madeira, isla porto santo, que ver en porto santo](etheria-images/2019/02/Porto-santo-comer-1024x718.jpg "Plato de pulpo del restaurante de Ponta da Calheta. © P.G.")
+![gastronomia madeira, isla porto santo, que ver en porto santo](https://fotos.etheriamagazine.com/2019/02/Porto-santo-comer-1024x718.jpg "Plato de pulpo del restaurante de Ponta da Calheta. © P.G.")
 
 ## Guía práctica de Porto Santo
 

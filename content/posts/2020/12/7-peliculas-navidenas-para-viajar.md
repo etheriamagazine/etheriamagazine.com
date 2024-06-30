@@ -1,7 +1,7 @@
 ---
 title: "Siete películas navideñas que ayudan a superar la nostalgia viajera"
 date: 2020-12-24
-coverImage: etheria-images/2020/12/pelis-navidad-el-dia-de-la-bestia.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/pelis-navidad-el-dia-de-la-bestia.jpg
 categories: 
   - viajes-cine
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Si te gusta el cine, te apasiona viajar y te encanta la Navidad no puedes perderte esta lista de películas navideñas que te permitirá dar rienda suelta a tu alma de trotamundos. Las hay para románticas, para aventureras, y para quienes están rodeadas de pequeños viajeros. Elige el destino al quieres viajar y selecciona el filme más adecuado.
 
-![peliculas navidenas last christmas](etheria-images/2020/12/peli-Last-Christmas.jpg "Fotograma de 'Last Christmas'. © Universal Pictures International")
+![peliculas navidenas last christmas](https://fotos.etheriamagazine.com/2020/12/peli-Last-Christmas.jpg "Fotograma de 'Last Christmas'. © Universal Pictures International")
 
 ## 1\. A Londres con 'Last Christmas' (2019)
 
@@ -24,7 +24,7 @@ lleva a lugares icónicos de la capital británica como el mercadillo de artesan
 Market, en [Covent Garden](http://www.coventgarden.com/). Ahí se encuentra situada la 
 fabulosa tienda de adornos navideños Yuletide Wonderful donde trabaja la protagonista. 
 
-![callejon de last christmas](etheria-images/2020/12/Last-Christmas-callejon-estrecho.jpg "El callejón más estrecho de Londres en 'Last Christmas'. © Universal Pictures Int.")
+![callejon de last christmas](https://fotos.etheriamagazine.com/2020/12/Last-Christmas-callejon-estrecho.jpg "El callejón más estrecho de Londres en 'Last Christmas'. © Universal Pictures Int.")
 
 No faltan tampoco lugares como **Oxford Street**, Regent Street y Piccadilly Circus, 
 magníficamente decorados e iluminados para la celebración navideña. Entre las 
@@ -35,7 +35,7 @@ Londres, **Brydges Place**, que une St. Martin' Lane con Bedfordbury. Y también
 el mercado multicultural de **Leather Lane Market**, donde es posible realizar un viaje 
 culinario a través de los puestos de comidas de diferentes países del mundo. 
 
-![peliculas navidenas safari en navidad](etheria-images/2020/12/peli-netflix-Safari-en-Navidad-691x1024.jpg "'Safari en Navidad', la puedes ver en Netflix. © Ilze Kitshoff/ Netflix")
+![peliculas navidenas safari en navidad](https://fotos.etheriamagazine.com/2020/12/peli-netflix-Safari-en-Navidad-691x1024.jpg "'Safari en Navidad', la puedes ver en Netflix. © Ilze Kitshoff/ Netflix")
 
 ## 2\. A Zambia y Sudáfrica con 'Safari por Navidad' (2019)
 
@@ -44,7 +44,7 @@ historia de amor con moraleja medioambiental, realizada para [Netflix](https://w
 La historia nos muestra a una esposa recién abandonada por su marido que decide ir a 
 celebrar en Zambia la que iba a ser su segunda luna de miel. 
 
-![safari en navidad peli netflix](etheria-images/2020/12/peli-Safari-en-Navidad-Netflix.jpg "Fotograma de 'Safari en Navidad'. © Ilze Kitshoff/ Netflix")
+![safari en navidad peli netflix](https://fotos.etheriamagazine.com/2020/12/peli-Safari-en-Navidad-Netflix.jpg "Fotograma de 'Safari en Navidad'. © Ilze Kitshoff/ Netflix")
 
 En este país africano la protagonista conocerá una reserva de elefantes que le hará 
 replantearse toda su vida. El rodaje tuvo lugar en la ciudad [sudafricana](https://etheriamagazine.com/2019/12/11/planes-para-desconectar-en-sudafrica/) 
@@ -52,7 +52,7 @@ de Hoedspruit, muy próxima a reservas de caza privadas y al Parque Nacional Kru
 Ciudad del Cabo. Las escenas de elefantes se filmaron en el orfanato Internacional de 
 Elefantes Game Rangers en Lusaka (Zambia). 
 
-![peliculas navidenas escondidos en brujas](etheria-images/2020/12/pelis-navidad-escondidos-en-brujas.jpg "'Escondidos en Brujas', una película que se desarrolla en Navidad.")
+![peliculas navidenas escondidos en brujas](https://fotos.etheriamagazine.com/2020/12/pelis-navidad-escondidos-en-brujas.jpg "'Escondidos en Brujas', una película que se desarrolla en Navidad.")
 
 ## 3\. A Flandes con 'Escondidos en Brujas' (2008)
 
@@ -66,7 +66,7 @@ turistas: pasean por las calles, visitan iglesias, montan en barca por los canal
 disfrutan de la rica cerveza belga. Gran parte de la trama se desarrolla alrededor de la 
 Plaza Mayor o Grote Markt. 
 
-![escondidos en brujas](etheria-images/2020/12/peli-escondidos-en-brujas.jpg "Fotograma de 'Escondidos en Brujas'. © SND")
+![escondidos en brujas](https://fotos.etheriamagazine.com/2020/12/peli-escondidos-en-brujas.jpg "Fotograma de 'Escondidos en Brujas'. © SND")
 
 Entre las localizaciones relevantes de la película destacan la **basílica de la Santa 
 Sangre** y el **museo Groeninge**, donde podemos ver a los dos protagonistas 
@@ -79,7 +79,7 @@ duda, el lugar donde la película alcanza su clímax es el **campanario de Bruja
 también conocido como Belfort, con sus 366 escalones y 47 campanas, declarado Patrimonio 
 de la Humanidad por la Unesco y uno de los símbolos de la ciudad. 
 
-![peliculas navidenas cartel pelicula the holiday](etheria-images/2020/12/peli-navidad-The-holiday-cartel.jpg "Cartel de la película 'The Holiday'. © UIP")
+![peliculas navidenas cartel pelicula the holiday](https://fotos.etheriamagazine.com/2020/12/peli-navidad-The-holiday-cartel.jpg "Cartel de la película 'The Holiday'. © UIP")
 
 ## 4\. A California e Inglaterra con 'The Holiday' (2006)
 
@@ -97,7 +97,7 @@ concretamente en San Marino, donde se ubica el exterior de la casa de Amanda, si
 el 1883 de Orlando Road. Las escenas del exterior se filmaron en los estudios 
 californianos de Sony Pictures en Culver City. 
 
-![cameron diaz en the holiday](etheria-images/2020/12/cameron-diaz-The-holiday.jpg "Fotograma de Cameron Díaz en 'The Holiday'. © United International Pictures")
+![cameron diaz en the holiday](https://fotos.etheriamagazine.com/2020/12/cameron-diaz-The-holiday.jpg "Fotograma de Cameron Díaz en 'The Holiday'. © United International Pictures")
 
 Después te tendrás que trasladar de continente para llegar al pueblo de **Wonersh**, en 
 el **condado inglés de Surrey.** Ahí se encuentra la casa del personaje que interpreta 
@@ -107,7 +107,7 @@ Horse](https://www.chefandbrewer.com/pubs/surrey/white-horse/) en Shere, en el q
 Graham y Amanda cenaban. Es un establecimiento muy cinematográfico porque ya aparecía en 
 la película británica _Cuatro bodas y un funeral._ 
 
-![peliculas navidenas polar express](etheria-images/2020/12/peli-navidad-The-polar-express-cartel.jpg "Cartel y fotogramas de 'The Polar Express'. © D.R.")
+![peliculas navidenas polar express](https://fotos.etheriamagazine.com/2020/12/peli-navidad-The-polar-express-cartel.jpg "Cartel y fotogramas de 'The Polar Express'. © D.R.")
 
 ## 5\. Al Polo Norte con 'Polar Express' (2004) 
 
@@ -125,7 +125,7 @@ un viaje que dura aproximadamente 90 minutos. Otra opción interesante es coger 
 Claus Express](https://www.vr.fi/en), un tren nocturno que cada noche sale de 
 **Helsinki** y llega a la residencia oficial de Papa Noel en [Laponia](https://etheriamagazine.com/2018/09/07/viaje-laponia-finlandesa-en-familia/). 
 
-![pelicula navidad dia de la bestia alex de la iglesia](etheria-images/2020/12/pelis-navidad-el-dia-de-la-bestia.jpg "Fotograma de 'El día de la bestia', de Alex de la Iglesia.")
+![pelicula navidad dia de la bestia alex de la iglesia](https://fotos.etheriamagazine.com/2020/12/pelis-navidad-el-dia-de-la-bestia.jpg "Fotograma de 'El día de la bestia', de Alex de la Iglesia.")
 
 ## 6\. A Madrid con 'El día de la bestia' (1995)
 
@@ -143,7 +143,7 @@ Europa (popularmente conocida como **Torres Kio**), en plaza Castilla. El tour s
 finaliza en el parque más carismático de Madrid, **El Retiro,** con el monumento del 
 Ángel Caído. 
 
-![peli navidad familiar solo en casa dos](etheria-images/2020/12/peli-navidad-Solo-en-casa-dos-cartel.jpg "Cartel y fotogramas de 'Solo en casa 2. Perdido en Nueva York'. © 20th Century Fox")
+![peli navidad familiar solo en casa dos](https://fotos.etheriamagazine.com/2020/12/peli-navidad-Solo-en-casa-dos-cartel.jpg "Cartel y fotogramas de 'Solo en casa 2. Perdido en Nueva York'. © 20th Century Fox")
 
 ## 7\. A Nueva York con 'Sólo en casa 2' (1992)
 

@@ -1,7 +1,7 @@
 ---
 title: "8 maravillosas cataratas del mundo para soñar"
 date: 2020-12-04
-coverImage: etheria-images/2020/11/cataratas-plitvice.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/cataratas-plitvice.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -13,7 +13,7 @@ authors:
   
 Las cascadas son un foco de atención en cualquier viaje, uno de esos 'highlights' que quedan para siempre en la memoria y en la cámara de fotos. Quizá por el efecto relajante del sonido del agua o por representar la fuerza de la naturaleza, no puedes dejar de mirarlas. Aquí te enseñamos 8 cataratas del mundo para que te traslades mentalmente a su orilla y comiences a soñar con el viaje.
 
-![cataratas del mundo](etheria-images/2020/11/cataratas-iguazu.jpg "Cataratas de Iguazú.")
+![cataratas del mundo](https://fotos.etheriamagazine.com/2020/11/cataratas-iguazu.jpg "Cataratas de Iguazú.")
 
 ## 1\. Cataratas de Iguazú
 
@@ -27,7 +27,7 @@ las dos experiencias. Eso sí, es obligatorio que te asomes a la Garganta de Dia
 parte más caudalosa) y que te subas a una de las lanchas que te acercan a la base de la 
 catarata. La experiencia es indescriptible pero... ¡prepárate para mojarte! 
 
-![Cascadas en África](etheria-images/2020/11/cataras-victoria-683x1024.jpg "Cataratas Victoria. © Jason Zhao")
+![Cascadas en África](https://fotos.etheriamagazine.com/2020/11/cataras-victoria-683x1024.jpg "Cataratas Victoria. © Jason Zhao")
 
 ## 2\. Cataratas Victoria
 
@@ -42,7 +42,7 @@ merece la pena aprovechar para, además de pasear por los miradores, realizar al
 safari en los parques nacionales que rodean la zona. El mejor modo de descubrir la 
 maravillosa fauna africana. 
 
-![Cascadas de Estados Unidos](etheria-images/2020/11/cataratas-niagara.jpg "Cataratas del Niágara.")
+![Cascadas de Estados Unidos](https://fotos.etheriamagazine.com/2020/11/cataratas-niagara.jpg "Cataratas del Niágara.")
 
 ## 3\. Cataratas del Niágara
 
@@ -58,7 +58,7 @@ realizar distintas actividades como dar un paseo en el barco _Maid of the Mist_ 
 que acercarte, pasear hasta la base de la catarata o visitar el Niagara Gorge Discovery 
 Center. 
 
-![Cataratas en Islandia](etheria-images/2020/11/Cascada-Seljalandsfoss.jpg "Cascada de Seljalandsfoss. © Alex Mustaros")
+![Cataratas en Islandia](https://fotos.etheriamagazine.com/2020/11/Cascada-Seljalandsfoss.jpg "Cascada de Seljalandsfoss. © Alex Mustaros")
 
 ## 4\. Cascada Seljalandsfoss
 
@@ -70,7 +70,7 @@ hipo. Además, está en la zona sur, cerca de la Ring Road, la carretera más tu
 por lo que es de fácil acceso. No te pierdas pasar por detrás de la cascada, una 
 experiencia que no se puede realizar en otros saltos de agua islandeses. 
 
-![Parques Nacionales de Estados Unidos](etheria-images/2020/11/catarata-yosemite.jpg "Catarata Yosemite.")
+![Parques Nacionales de Estados Unidos](https://fotos.etheriamagazine.com/2020/11/catarata-yosemite.jpg "Catarata Yosemite.")
 
 ## 5\. Cascadas de Yosemite
 
@@ -85,7 +85,7 @@ Eso sí, te en cuenta que si acudes en verano puede que algunos de estos saltos 
 mucha agua o incluso estén secos. La mejor época para verlos con toda su fuerza es la 
 primavera, después del deshielo. 
 
-![Viajes a Laos](etheria-images/2020/11/cataratas-kuang-si.jpg "Cascadas Kuang Si.")
+![Viajes a Laos](https://fotos.etheriamagazine.com/2020/11/cataratas-kuang-si.jpg "Cascadas Kuang Si.")
 
 ## 6\. Cataratas Kuang Si en Luang Prabang
 
@@ -100,7 +100,7 @@ que no podrás dejar de hacerte fotos y además ofrece lugares donde está permi
 baño. También puedes aprovechar y visitar el _Centro de Rescate Tat Kuang Si_ para 
 recuperar osos negros asiáticos. 
 
-![Viajes a Croacia](etheria-images/2020/11/cataratas-plitvice.jpg "Parque Nacional de los Lagos de Plitvice. © Mike Swigunski")
+![Viajes a Croacia](https://fotos.etheriamagazine.com/2020/11/cataratas-plitvice.jpg "Parque Nacional de los Lagos de Plitvice. © Mike Swigunski")
 
 ## 7\. Parque Nacional de los Lagos de Plitvice
 
@@ -115,7 +115,7 @@ su aspecto helado en invierno. Se han convertido en una parada obligatoria en la
 por Croacia y, como están algo alejadas de las ciudades croatas, merece la pena hacer 
 noche en alguno de los alojamientos del Parque. 
 
-![Viajes a Marruecos](etheria-images/2020/11/cataratas-ouzoud.jpg "Cataratas de Ouzoud.")
+![Viajes a Marruecos](https://fotos.etheriamagazine.com/2020/11/cataratas-ouzoud.jpg "Cataratas de Ouzoud.")
 
 ## 8\. Cataratas de Ouzoud
 

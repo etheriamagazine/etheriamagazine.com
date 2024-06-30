@@ -1,7 +1,7 @@
 ---
 title: "10 paradas en una ruta por el Barrio Europeo de Bruselas"
 date: 2022-09-29
-coverImage: etheria-images/2022/09/bruselas-Edificio-Europa.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/09/bruselas-Edificio-Europa.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -13,7 +13,7 @@ contamos qué ver en el Barrio Europeo, una cita que no puede faltar si visitas 
 capital belga y que ofrece mucho más que los edificios institucionales. Te aseguramos 
 que te va a sorprender gracias a sus parques, museos y edificios Art Nouveau. 
 
-![mural de street art en el barrio europeo](etheria-images/2022/09/bruselas-The-future-is-Europe.jpg "Barrio Europeo de Bruselas. © Visit Brussels.")
+![mural de street art en el barrio europeo](https://fotos.etheriamagazine.com/2022/09/bruselas-The-future-is-Europe.jpg "Barrio Europeo de Bruselas. © Visit Brussels.")
 
 En Bruselas siempre hay mucho que ver y hacer. La Grand Place, el Manneken-Pis, el 
 maravilloso edificio del Ayuntamiento o el Museo Atomium son sólo algunas de las visitas 
@@ -48,7 +48,7 @@ multimedia y es mejor reservarla con antelación.
 ?**No te pierdas el artículo**: [Qué comer en Bruselas, productos y experiencias 
 originales](https://etheriamagazine.com/2022/03/29/que-comer-en-bruselas/) 
 
-![edificio del parlamento europeo en el barrio europeo](etheria-images/2022/09/bruselas-parlamento-europeo.jpg "Parlamento Europeo. © Visit Brussels/Sophie Voituron")
+![edificio del parlamento europeo en el barrio europeo](https://fotos.etheriamagazine.com/2022/09/bruselas-parlamento-europeo.jpg "Parlamento Europeo. © Visit Brussels/Sophie Voituron")
 
 ### 3\. Parlamentarium
 
@@ -60,7 +60,7 @@ la Unión ni el cine 360º. Apúntate a un recorrido guiado (se realiza en 24 id
 si viajas en familia, lo mejor es la visita especial para niños de 8 a 14 años. La 
 entrada es gratuita, pero es mejor reservarla. 
 
-![grupo llegando al edificio Parlamentarium en Bruselas](etheria-images/2022/09/bruselas-Parlamentarium.jpg "Parlamentarium. © Visit Brussels.")
+![grupo llegando al edificio Parlamentarium en Bruselas](https://fotos.etheriamagazine.com/2022/09/bruselas-Parlamentarium.jpg "Parlamentarium. © Visit Brussels.")
 
 ### 4\. Edificio Europa
 
@@ -73,7 +73,7 @@ conferencias. Su curiosa fachada está formada por marcos de ventanas de madera
 restaurados procedentes de demoliciones de todos los países de la UE con la intención de 
 promover el reciclado de materiales y mostrar la diversidad de los países miembros. 
 
-![Edificio Europa en el Barrio de Europa](etheria-images/2022/09/bruselas-Edificio-Europa.jpg "Edificio Europa. © Visit Brussels.")
+![Edificio Europa en el Barrio de Europa](https://fotos.etheriamagazine.com/2022/09/bruselas-Edificio-Europa.jpg "Edificio Europa. © Visit Brussels.")
 
 ### 5\. Museo de la Historia de Europa
 
@@ -85,7 +85,7 @@ quieres hacerla por tu cuenta y los materiales están disponibles en las 24 leng
 oficiales de la Unión Europea. También puedes apuntarte en su web a alguna de las 
 visitas guiadas (en francés, inglés, neerlandés o alemán). 
 
-![Parque Leopold con el Museo de Historia de Europa](etheria-images/2022/09/bruselas-museo-historia-europea.jpg "Museo de Historia de Europa. © Visit Brussels/Jean-Paul Remy")
+![Parque Leopold con el Museo de Historia de Europa](https://fotos.etheriamagazine.com/2022/09/bruselas-museo-historia-europea.jpg "Museo de Historia de Europa. © Visit Brussels/Jean-Paul Remy")
 
 ### 6\. Parc Léopold
 
@@ -108,7 +108,7 @@ viaja con niños. Guarda una muestra de coches de todas las épocas en un bonito
 y cuenta con juegos interactivos y lugares donde tomarse fotos a los mandos de un coche 
 de carreras. 
 
-![Jardines del Parque del Cincuentenario](etheria-images/2022/09/bruselas-Parc-du-Cinquantenaire.jpg "Parque del Cincuentenario. © Visit Brussels/Jean-Paul Remy")
+![Jardines del Parque del Cincuentenario](https://fotos.etheriamagazine.com/2022/09/bruselas-Parc-du-Cinquantenaire.jpg "Parque del Cincuentenario. © Visit Brussels/Jean-Paul Remy")
 
 ### 8\. Residencias Art Nouveau
 
@@ -120,7 +120,7 @@ pinturas murales (puede recorrerse previa [reserva](https://cauchie.be/fr/la-mai
 Por otro lado, la Maison Saint Cyr ofrece una lujosa y extravagante decoración con 
 vidrios y hierros forjados en sus techos de cuatro metros de alto. 
 
-![edificio art nouveau Maison Cauchie.](etheria-images/2022/09/bruselas-Maison-Cauchie.jpg "Maison Cauchie. © Visit Brussels/Jean-Paul Remy")
+![edificio art nouveau Maison Cauchie.](https://fotos.etheriamagazine.com/2022/09/bruselas-Maison-Cauchie.jpg "Maison Cauchie. © Visit Brussels/Jean-Paul Remy")
 
 ### 9\. El muro de Berlín
 
@@ -130,7 +130,7 @@ exposición conmemorativa del 20 aniversario de la caída del muro. Otro trozo d
 de Berlín con la cara de Kennedy** se conserva en este barrio como símbolo de una Europa 
 fuerte y unida. No pierdas la ocasión de hacerte un selfie con un trozo de la historia. 
 
-![cara de Kennedy en un fragmento del muro de Berlín](etheria-images/2022/09/bruselas-muro-berlin.jpg "Fragmento del Muro de Berlín en el Barrio Europeo. © Visit Brussels/Jean-Paul Remy")
+![cara de Kennedy en un fragmento del muro de Berlín](https://fotos.etheriamagazine.com/2022/09/bruselas-muro-berlin.jpg "Fragmento del Muro de Berlín en el Barrio Europeo. © Visit Brussels/Jean-Paul Remy")
 
 ### 10\. Maison Antoine
 
@@ -142,7 +142,7 @@ una parada para degustar un cucurucho de sus patatas con salsas.
 ?**No te pierdas el artículo:** [8 planes que no puedes perderte en Bruselas y 
 Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/) 
 
-![puesto de patatas fritas en el barrio Europeo](etheria-images/2022/09/bruselas-Maison-Antoine.jpg "Maison Antoine. © Visit Brussels/Jean-Paul Remy")
+![puesto de patatas fritas en el barrio Europeo](https://fotos.etheriamagazine.com/2022/09/bruselas-Maison-Antoine.jpg "Maison Antoine. © Visit Brussels/Jean-Paul Remy")
 
 ## Datos prácticos del Barrio Europeo
 

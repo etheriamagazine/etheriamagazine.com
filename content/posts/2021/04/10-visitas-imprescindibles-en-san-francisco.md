@@ -1,7 +1,7 @@
 ---
 title: "San Francisco al desnudo en un puñado de planes caprichosos"
 date: 2021-04-09
-coverImage: etheria-images/2018/07/San-Francisco-Alamo-Square.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/San-Francisco-Alamo-Square.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
@@ -18,7 +18,7 @@ atención especial. Esta agenda de viajes está pensada para un viaje de tres d�
 que si permaneces más tiempo podrás ampliar con excursiones a Yosemite National Park o a 
 Napa Valley. 
 
-![Skyline de San Francisco.](etheria-images/2018/07/Viaje-San-Francisco-e1568451505169.jpg "Skyline de San Francisco. © SF Travel Association/ Can Balcioglu")
+![Skyline de San Francisco.](https://fotos.etheriamagazine.com/2018/07/Viaje-San-Francisco-e1568451505169.jpg "Skyline de San Francisco. © SF Travel Association/ Can Balcioglu")
 
 **Actualizado en 2024** 
 
@@ -39,7 +39,7 @@ de más ampliar la estancia). ✅ También existe la opción de empezar con un [
 diurno](https://www.civitatis.com/es/san-francisco/free-tour-san-francisco/?aid=10211) o 
 nocturno para tomar el pulso a la ciudad. 
 
-![Golden Gate visto desde Baker Beach (Presidio)](etheria-images/2018/07/viaje-san-francisco-Golden-Gate-Bridge.jpg "Golden Gate visto desde Baker Beach (Presidio). ©SFTravel Association")
+![Golden Gate visto desde Baker Beach (Presidio)](https://fotos.etheriamagazine.com/2018/07/viaje-san-francisco-Golden-Gate-Bridge.jpg "Golden Gate visto desde Baker Beach (Presidio). ©SFTravel Association")
 
 ## 1\. Golden Gate Bridge, una foto imprescindible en San Francisco
 
@@ -54,7 +54,7 @@ es la mejor vista. Si te gusta la fotografía, aprovecha el amanecer (si no hay 
 niebla) y sitúate en **Hopper Hands**, es la zona que está más cerca del Parque Golden 
 Gate. 
 
-![El tranvía (realmente, cable car) es uno de los iconos de San Francisco.](etheria-images/2018/07/Tranvia-viaja-san-francisco-1024x683.jpg "El tranvía (realmente, cable car) es uno de los iconos de San Francisco. © 2010 Scott Chernis Ph.")
+![El tranvía (realmente, cable car) es uno de los iconos de San Francisco.](https://fotos.etheriamagazine.com/2018/07/Tranvia-viaja-san-francisco-1024x683.jpg "El tranvía (realmente, cable car) es uno de los iconos de San Francisco. © 2010 Scott Chernis Ph.")
 
 ## 2\. Un paseo en tranvía
 
@@ -66,7 +66,7 @@ excelentes vistas. Solo ofrecen tres rutas pero merece la pena pagar los 6 dóla
 trayecto por vivir la experiencia. El sonido de las campanillas te traerá numerosas 
 películas al recuerdo. 
 
-![Leones marinos en Pier 39.](etheria-images/2018/07/Fisherman-Wharf-Pier-39-san-francisco-1024x696.jpg "Leones marinos en Pier 39. © Pepa García/ Etheria Magazine")
+![Leones marinos en Pier 39.](https://fotos.etheriamagazine.com/2018/07/Fisherman-Wharf-Pier-39-san-francisco-1024x696.jpg "Leones marinos en Pier 39. © Pepa García/ Etheria Magazine")
 
 ## 3\. Fisherman’s Wharf, no sólo leones marinos
 
@@ -81,7 +81,7 @@ característicos gruñidos. Una de las costumbres clásicas en este lugar es com
 bocadillo de cangrejo en algún quiosco del puerto o disfrutar de un cóctel de gambas en 
 los pequeños bares que jalonan el puerto. 
 
-![En la prisión de Alcatraz se 'alojaron' célebres delincuentes americanos.](etheria-images/2018/07/Imprecindible-San-Francisco-Alcatraz-1024x654.jpg "En la prisión de Alcatraz se 'alojaron' célebres delincuentes americanos. © Pepa García/ Etheria M.")
+![En la prisión de Alcatraz se 'alojaron' célebres delincuentes americanos.](https://fotos.etheriamagazine.com/2018/07/Imprecindible-San-Francisco-Alcatraz-1024x654.jpg "En la prisión de Alcatraz se 'alojaron' célebres delincuentes americanos. © Pepa García/ Etheria M.")
 
 ## 4\. Isla de Alcatraz, una prisión histórica
 
@@ -98,7 +98,7 @@ cocina) y que te narra detalles sobre las fugas más importantes.
 ✅ Reserva tu [visita a San Francisco con ruta guiada a 
 Alcatraz](https://www.civitatis.com/es/san-francisco/tour-san-francisco-alcatraz/?aid=10211). 
 
-![Shopping en Union Square, en San Francisco.](etheria-images/2018/07/compras-viaje-san-francisco-1024x808.jpg "Shopping en Union Square. © SFTravel Association")
+![Shopping en Union Square, en San Francisco.](https://fotos.etheriamagazine.com/2018/07/compras-viaje-san-francisco-1024x808.jpg "Shopping en Union Square. © SFTravel Association")
 
 ## 5\. Compras en la calle Valencia de San Francisco
 
@@ -108,7 +108,7 @@ Geary, Grant, Stockton y Powell. La mejor zona para encontrar artículos _vintag
 **calle Valencia,** en el distrito de Mission; y para discos y tesoros antiguos, el 
 antiguo barrio hippie de **Haight-Ashbury**. 
 
-![North Beach.](etheria-images/2018/07/North-Beach-viaje-san-francisco-1024x629.jpg "North Beach. © 2010 Scott Chernis Ph.")
+![North Beach.](https://fotos.etheriamagazine.com/2018/07/North-Beach-viaje-san-francisco-1024x629.jpg "North Beach. © 2010 Scott Chernis Ph.")
 
 ## 6\. North Beach no es una playa
 
@@ -120,7 +120,7 @@ es la **Torre Coit**, situada en el barrio de Telegraph Hill, que ofrece una bue
 panorámica de los puentes y de la bahía desde sus 64 metros de altura. Fíjate en los 
 murales del interior, pintados en 1930 con escenas de San Francisco. 
 
-![Chinatown de San Francisco.](etheria-images/2018/07/Chinatown-viaje-san-francisco-1024x683.jpg "Chinatown de San Francisco. © 2010 Scott Chernis Ph.")
+![Chinatown de San Francisco.](https://fotos.etheriamagazine.com/2018/07/Chinatown-viaje-san-francisco-1024x683.jpg "Chinatown de San Francisco. © 2010 Scott Chernis Ph.")
 
 ## 7\. Barrio de Chinatown, un paseo por Asia sin salir de San Francisco
 
@@ -130,7 +130,7 @@ microcosmos chino. Podrás curiosear en templos, mercados y tiendas exóticas. P
 redondear el día, ¿qué tal saborear unos _dim sum_, comprar una poción de hierbas 
 curativas en alguna tienda clandestina y probar suerte con las galletas de la fortuna? 
 
-![Bucólica imagen del Palacio de Bellas Artes](etheria-images/2018/07/imprescindible-san-francisco-palacio-bellas-artes-1024x675.jpg "Bucólica imagen del Palacio de Bellas Artes. © Pepa García/ Etheria M.")
+![Bucólica imagen del Palacio de Bellas Artes](https://fotos.etheriamagazine.com/2018/07/imprescindible-san-francisco-palacio-bellas-artes-1024x675.jpg "Bucólica imagen del Palacio de Bellas Artes. © Pepa García/ Etheria M.")
 
 ## 8\. Visita un museo (o varios)
 
@@ -144,7 +144,7 @@ sección de máscaras africanas. Y si sólo quieres verlo por fuera, también ha
 ti: el Palacio de Bellas Artes, una maravilla arquitectónica inspirada en la Grecia y la 
 Roma clásicas. 
 
-![Alamo square visita san francisco](etheria-images/2018/07/San-Francisco-Alamo-Square-1024x652.jpg "Alamo Square, el mejor mirador de las Painted Ladies. ©Etheria Magazine")
+![Alamo square visita san francisco](https://fotos.etheriamagazine.com/2018/07/San-Francisco-Alamo-Square-1024x652.jpg "Alamo Square, el mejor mirador de las Painted Ladies. ©Etheria Magazine")
 
 ## 9\. Dónde hacer un pícnic al estilo americano
 
@@ -159,7 +159,7 @@ _Padres Forzosos_); el Dolores Park (en el distrito de Mission), muy frecuentado
 universitarios y gente joven; y el Golden Gate Park, de grandes dimensiones y con 
 búfalos en libertad (o casi). 
 
-![Restaurantes en Ferry Building, con vistas al Puente de la Bahía.](etheria-images/2018/07/imprescindibles-san-francisco-Restaurantes-Puerto-1024x671.jpg "Restaurantes en Ferry Building, con vistas al Puente de la Bahía. © Pepa García/ Etheria M.")
+![Restaurantes en Ferry Building, con vistas al Puente de la Bahía.](https://fotos.etheriamagazine.com/2018/07/imprescindibles-san-francisco-Restaurantes-Puerto-1024x671.jpg "Restaurantes en Ferry Building, con vistas al Puente de la Bahía. © Pepa García/ Etheria M.")
 
 ## 10\. Comilona en el edificio del Ferry
 
@@ -175,7 +175,7 @@ comunidad LGTB. En el edificio del Ferry (Ferry Building) encontrarás excelente
 restaurantes como The Slanted Door, que ofrece una cocina vietnamita y fusión con vistas 
 al iluminado Puente la Bahía. 
 
-![san francisco gay barrio castro twin peaks](etheria-images/2018/07/San-Francisco-Castro-Twin-Peaks-Bar-1024x694.jpg "Twin Peaks, un bar mítico de Castro (dicen que el primero en tener cristaleras). ©Pepa García/ Etheria M.")
+![san francisco gay barrio castro twin peaks](https://fotos.etheriamagazine.com/2018/07/San-Francisco-Castro-Twin-Peaks-Bar-1024x694.jpg "Twin Peaks, un bar mítico de Castro (dicen que el primero en tener cristaleras). ©Pepa García/ Etheria M.")
 
 ## 11\. Salir de fiesta en San Francisco
 

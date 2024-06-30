@@ -1,7 +1,7 @@
 ---
 title: "Los 10 artículos más leídos de 2021 son nacionales"
 date: 2021-12-31
-coverImage: etheria-images/2021/12/cala-conil-frailecillo.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/12/cala-conil-frailecillo.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 Al terminar el año nos gusta hacer recuento de todo lo bueno que ha tenido y, en este caso, hemos preparado una lista con los artículos publicados en 2021 que más habéis leído. En un año en el que ha predominado el turismo nacional no es de extrañar que todos los reportajes sean sobre destinos españoles. ¿Comenzaremos en 2022 a interesarnos de nuevo por Europa y el mundo?
 
-![Sepúlveda, una de las visitas imprescindibles en Segovia.](etheria-images/2021/12/segovia-Sepulveda.jpg "Sepúlveda, una de las visitas imprescindibles en Segovia. © Turismo Diputación de Segovia")
+![Sepúlveda, una de las visitas imprescindibles en Segovia.](https://fotos.etheriamagazine.com/2021/12/segovia-Sepulveda.jpg "Sepúlveda, una de las visitas imprescindibles en Segovia. © Turismo Diputación de Segovia")
 
 ## Razones por las que deberías planear ya una escapada a Segovia
 
@@ -24,7 +24,7 @@ o Pedraza. Además, rutas naturales por las hoces de Duratón y el Parque Nacion
 Guadarrama, y los castillos más sorprendentes. No nos sorprende nada que haya sido uno 
 de los artículos más leídos de 2021. 
 
-![Cala El Frailecillo (Conil).](etheria-images/2021/12/cala-conil-frailecillo.jpg "Cala El Frailecillo (Conil). © Etheria M.")
+![Cala El Frailecillo (Conil).](https://fotos.etheriamagazine.com/2021/12/cala-conil-frailecillo.jpg "Cala El Frailecillo (Conil). © Etheria M.")
 
 ## Las mejores playas y calas de Conil
 
@@ -36,7 +36,7 @@ ha sido uno de los preferidos y no nos extraña, porque está lleno de pistas y 
 secretos para disfrutar a tope de la Costa de la Luz. Por supuesto, con las 
 imprescindibles pistas de los restaurantes y chiringuitos de moda. 
 
-![Caldera de Taburiente en la isla de La Palma.](etheria-images/2021/12/La-Palma-Viajes-mujeres-etheria-mar-nubes-1024x683-1-900x600.jpg "Caldera de Taburiente en la isla de La Palma.")
+![Caldera de Taburiente en la isla de La Palma.](https://fotos.etheriamagazine.com/2021/12/La-Palma-Viajes-mujeres-etheria-mar-nubes-1024x683-1-900x600.jpg "Caldera de Taburiente en la isla de La Palma.")
 
 ## 10 secretos que deberías conocer de la isla de La Palma
 
@@ -47,7 +47,7 @@ publicamos el artículo [10 secretos que deberías conocer de la isla de La
 Palma](https://etheriamagazine.com/2021/04/05/10-secretos-para-conocer-la-isla-de-la-palma/) 
 que es perfecto para comenzar a planificar un viaje a “la isla bonita” en 2022. 
 
-![Atrévete a recorrer España en autocaravana.](etheria-images/2021/12/autocaravana-estacionar.jpg "Atrévete a recorrer España en autocaravana.")
+![Atrévete a recorrer España en autocaravana.](https://fotos.etheriamagazine.com/2021/12/autocaravana-estacionar.jpg "Atrévete a recorrer España en autocaravana.")
 
 ## Andalucía en autocaravana y consejos prácticos para novatos
 
@@ -59,7 +59,7 @@ novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-auto
 os damos la información práctica necesaria para los que se inician en este tipo de 
 viajes y cinco preciosas rutas por Córdoba y Sevilla, Cádiz, Málaga, Granada y Almería. 
 
-![El cañón del río Lobos en Soria.](etheria-images/2021/12/canon-rio-lobos-soria.jpg "El cañón del río Lobos en Soria. © Etheria Magazine")
+![El cañón del río Lobos en Soria.](https://fotos.etheriamagazine.com/2021/12/canon-rio-lobos-soria.jpg "El cañón del río Lobos en Soria. © Etheria Magazine")
 
 ## Planes en Soria con niños para desconectar en plena naturaleza
 
@@ -71,7 +71,7 @@ naturaleza](https://etheriamagazine.com/2021/02/24/planes-y-actividades-en-soria
 os damos diez actividades para pasarlo muy bien recorriendo cañones, castillos, bosques 
 mágicos y lagunas llenas de secretos. 
 
-![Azotea del Camarote Hotel y su vista privilegiada de la catedral de León.](etheria-images/2021/12/leon-hotel-camarote.jpg "Azotea del Camarote Hotel y su vista privilegiada de la catedral de León. © Camarote Hotel")
+![Azotea del Camarote Hotel y su vista privilegiada de la catedral de León.](https://fotos.etheriamagazine.com/2021/12/leon-hotel-camarote.jpg "Azotea del Camarote Hotel y su vista privilegiada de la catedral de León. © Camarote Hotel")
 
 ## De tapinas por León: el secreto mejor guardado de la capital del Santo Grial
 
@@ -83,7 +83,7 @@ las mejores zonas para peregrinar de bar en bar y qué pedir en los más famosos
 explicamos lo que es irse de cortos, una limonada o por qué hay que pedir un “León”. 
 ¡Otra ronda! 
 
-![Terraza del hotel Mandarin Oriental de Barcelona.](etheria-images/2021/12/Terrat-mandarin-oriental-barcelona.jpg "Terraza del © hotel Mandarin Oriental de Barcelona.")
+![Terraza del hotel Mandarin Oriental de Barcelona.](https://fotos.etheriamagazine.com/2021/12/Terrat-mandarin-oriental-barcelona.jpg "Terraza del © hotel Mandarin Oriental de Barcelona.")
 
 ## 10 planes originales para hacer con amigas en Barcelona
 
@@ -95,7 +95,7 @@ hay de todo: cultura, gastronomía, playas, wellness y, por supuesto, salidas no
 Un catálogo de experiencias perfecto tanto si vives en la Ciudad Condal como si eliges 
 esta ciudad para una escapada con amigas. 
 
-![Escultura ‘O ofrecemento da auga’, de Sergio Portela, en un jardín de la isla de San Simón.](etheria-images/2021/12/isla-pandemias-san-simon-jardines.jpg "Escultura ‘O ofrecemento da auga’, de Sergio Portela, en un jardín de la isla de San Simón. © Kelu Robles")
+![Escultura ‘O ofrecemento da auga’, de Sergio Portela, en un jardín de la isla de San Simón.](https://fotos.etheriamagazine.com/2021/12/isla-pandemias-san-simon-jardines.jpg "Escultura ‘O ofrecemento da auga’, de Sergio Portela, en un jardín de la isla de San Simón. © Kelu Robles")
 
 ## La increíble historia de San Simón, la isla gallega de las cuarentenas
 
@@ -106,7 +106,7 @@ cuarentenas](https://etheriamagazine.com/2021/01/04/historia-de-san-simon-la-isl
 es imprescindible para conocer su agitado pasado como refugio de piratas, campo de 
 concentración, orfanato y, hoy en día, como sede de un festival de música. 
 
-![Camino vertiginoso para llegar al faro del Caballo, en Santoña.](etheria-images/2021/12/faro-el-pescador-santona-cantabria.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
+![Camino vertiginoso para llegar al faro del Caballo, en Santoña.](https://fotos.etheriamagazine.com/2021/12/faro-el-pescador-santona-cantabria.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
 
 ## 10 motivos de peso para visitar Santoña (además de sus anchoas)
 
@@ -118,7 +118,7 @@ Porque Santoña tiene un faro increíble, una historia que la liga con el mismo 
 hasta una ruta turística de arte urbano. Eso sí, no te vayas sin probar todas las veces 
 que puedas sus deliciosas anchoas. 
 
-![Bulnes (Asturias).](etheria-images/2021/12/pueblo-mas-bonito-espana-bulnes.jpg "Bulnes (Asturias). © Los pueblos más bonitos de España")
+![Bulnes (Asturias).](https://fotos.etheriamagazine.com/2021/12/pueblo-mas-bonito-espana-bulnes.jpg "Bulnes (Asturias). © Los pueblos más bonitos de España")
 
 ## Ruta por los 11 pueblos elegidos los más bonitos de España en 2021
 

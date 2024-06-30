@@ -1,7 +1,7 @@
 ---
 title: "Arizona: vive tu propia road movie en territorio navajo"
 date: 2018-05-29
-coverImage: etheria-images/2018/05/Antelope-Canyon.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Antelope-Canyon.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -13,7 +13,7 @@ carreteras sin fin, moteles, paisajes de piedra y mucho viento. Viajaremos al no
 estado, donde no hay ciudades colmadas de museos o grandes centros comerciales, pero sí 
 naturaleza en su sentido más extremo. 
 
-![Los indios navajos ya adoraban las formas y colores del Antelope Canyon.](etheria-images/2018/05/Antelope-Canyon-1024x683.jpg "Los indios navajos ya adoraban las formas y colores del Antelope Canyon.")
+![Los indios navajos ya adoraban las formas y colores del Antelope Canyon.](https://fotos.etheriamagazine.com/2018/05/Antelope-Canyon-1024x683.jpg "Los indios navajos ya adoraban las formas y colores del Antelope Canyon.")
 
 ```
 Actualizado 2/02/23
@@ -39,7 +39,7 @@ profundas gargantas del cañón –de más de 1.500 metros de profundidad en alg
 no se lo pusieron fácil a los exploradores, quienes tuvieron que mandar varias 
 expediciones para poder, finalmente, mojarse en aguas del río Colorado. 
 
-![En Page se celebra cada año la Hot Air Balloon Regatta](etheria-images/2018/05/globos-1024x683.jpg "En Page se celebra cada año la Hot Air Balloon Regatta")
+![En Page se celebra cada año la Hot Air Balloon Regatta](https://fotos.etheriamagazine.com/2018/05/globos-1024x683.jpg "En Page se celebra cada año la Hot Air Balloon Regatta")
 
 Hay varias opciones de pateo por este inmenso cañón que conforma el Parque Nacional. Las 
 que busquen una caminata sin demasiadas complicaciones pueden escoger algunos de los 
@@ -49,7 +49,7 @@ ida y vuelta). Para las que se atreven con los grandes retos está el muy exigen
 to Rim Trail**, para el que son necesarios dos o tres días de marcha y que cubre unos 39 
 kilómetros con 3.000 metros de desnivel acumulado. 
 
-![Lago Powell arizona ruta americana](etheria-images/2018/05/Lago-Powell-Kris-Ubach-1024x683.jpg "En el lago Powell se pueden practicar diversos deportes acuáticos.")
+![Lago Powell arizona ruta americana](https://fotos.etheriamagazine.com/2018/05/Lago-Powell-Kris-Ubach-1024x683.jpg "En el lago Powell se pueden practicar diversos deportes acuáticos.")
 
 ## Page y otras visitas
 
@@ -75,7 +75,7 @@ Canyon**, mundialmente famoso por sus sensuales paredes de colores rojizos. Los 
 navajos, que ya adoraban este lugar en el pasado, siguen gestionando este verdadero 
 templo de la naturaleza y ejercen como guías en su interior. 
 
-![antelope canyon padel surf](etheria-images/2018/05/paddelsurf-1024x683.jpg "La excursión en stand up paddle más bonita consiste en recorrer el extremo final del Antelope Canyon.")
+![antelope canyon padel surf](https://fotos.etheriamagazine.com/2018/05/paddelsurf-1024x683.jpg "La excursión en stand up paddle más bonita consiste en recorrer el extremo final del Antelope Canyon.")
 
 ## Remo y equilibrio
 
@@ -92,7 +92,7 @@ bonita en la zona consiste en recorrer el extremo final del Antelope Canyon (no 
 se visita a pie, sino su parte acuática) a bordo de una de estas tablas. Eso sí, se 
 necesitan entre 4 y 5 horas para completarla. 
 
-![Gran Cañón del Colorado.](etheria-images/2018/05/Gran-canon-colorado.jpg "Gran Cañón del Colorado. © Omer Nezih")
+![Gran Cañón del Colorado.](https://fotos.etheriamagazine.com/2018/05/Gran-canon-colorado.jpg "Gran Cañón del Colorado. © Omer Nezih")
 
 ## El festival de globos aerostáticos
 

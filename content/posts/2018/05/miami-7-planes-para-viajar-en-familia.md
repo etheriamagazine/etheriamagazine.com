@@ -1,7 +1,7 @@
 ---
 title: "Miami con niños: 7 planes para viajar en familia"
 date: 2018-05-09
-coverImage: etheria-images/2018/05/Miami-Beach.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg
 categories: 
   - viaje-en-familia
   - viajes-urbanos
@@ -14,7 +14,7 @@ Miami es un lugar donde es difícil aburrirse con los más pequeños ya que est�
 posibilidades de ocio para toda la familia. Aquí te contamos 7 planes que no puedes 
 perderte en un viaje con niños a Miami. 
 
-![Miami en familia](etheria-images/2018/05/Miami-Beach-1024x683.jpg "Playa de Miami Beach. © SG")
+![Miami en familia](https://fotos.etheriamagazine.com/2018/05/Miami-Beach-1024x683.jpg "Playa de Miami Beach. © SG")
 
 El mejor lugar para descubrir Miami en un viaje en familia es South Beach, que 
 representa la imagen que todos tenemos en la mente de esta ciudad de sol y palmeras. Sus 
@@ -32,7 +32,7 @@ estos ratos de disfrute del mar y la playa. No vayas con prisas y dedica un día
 un picnic en la playa con los niños, será de esos ratos que seguro que recuerdan de su 
 viaje. 
 
-![turismo en Miami](etheria-images/2018/05/miami-beach-paseo-canales.jpg "Mansión de las que se pueden ver en tour por los canales de Miami.")
+![turismo en Miami](https://fotos.etheriamagazine.com/2018/05/miami-beach-paseo-canales.jpg "Mansión de las que se pueden ver en tour por los canales de Miami.")
 
 ### Un tour en barco por los canales.
 
@@ -46,7 +46,7 @@ apartamentos de lujo donde viven las hermanas Williams, la casa de Versace (dond
 asesinado) o la famosa casa del icono de la ciudad, Don Jonhson (Miami Vice), son 
 inevitables. 
 
-![Little Havanna en Miami](etheria-images/2018/05/Miami-Little-Havanna-1024x683.jpg "'La Esquina de la Fama', uno de los lugares donde tomar algo en Little Havana. © SG")
+![Little Havanna en Miami](https://fotos.etheriamagazine.com/2018/05/Miami-Little-Havanna-1024x683.jpg "'La Esquina de la Fama', uno de los lugares donde tomar algo en Little Havana. © SG")
 
 ### Little Havana.
 
@@ -55,7 +55,7 @@ arquitectura y la gente. Si pasa por aquí, es imprescindible una parada en **�
 de la Fama”**, con sus mostradores a la calle y los mejores mojitos. También es un lugar 
 donde probar un excelente café expreso tan diferente de los largos cafés americanos. 
 
-![Art Decó en Miami](etheria-images/2018/05/Miami-art-deco-south-beach.jpg "Edificios Art Decó en South Beach.")
+![Art Decó en Miami](https://fotos.etheriamagazine.com/2018/05/Miami-art-deco-south-beach.jpg "Edificios Art Decó en South Beach.")
 
 ### Un paseo en bicicleta por South Beach.
 
@@ -71,7 +71,7 @@ pena. Se ven algunos cocodrilos, sobre todo pequeños, y después hay un itinera
 minizoo especializado en estos animales. La experiencia es divertida y apta para un 
 viaje con niños a Miami. Se tarda unos 40-50 minutos desde Miami Beach. 
 
-![Miami familia tour viaje niños barca](etheria-images/2018/05/Miami-Everglades-1024x682.jpg "Paseo en lancha de hélice en los Everglades")
+![Miami familia tour viaje niños barca](https://fotos.etheriamagazine.com/2018/05/Miami-Everglades-1024x682.jpg "Paseo en lancha de hélice en los Everglades")
 
 ### Acudir a un partido de la NBA.
 
@@ -80,7 +80,7 @@ la web de la [NBA](http://www.nba.com/heat/tickets) desde España. Un partido de
 solo es el baloncesto. El ambiente es increíble y lo disfrutaran tanto pequeños como 
 mayores aunque no se sea muy aficionado a este deporte. 
 
-![alquilar un yate en Miami](etheria-images/2018/05/miami-marina.jpg "Marina de Miami.")
+![alquilar un yate en Miami](https://fotos.etheriamagazine.com/2018/05/miami-marina.jpg "Marina de Miami.")
 
 ### Un rato de compras.
 
@@ -105,7 +105,7 @@ dos habitaciones y dos baños. Es un hotel con mucha historia, que mantiene el e
 Decó. Las zonas comunes no son muy grandes, como en la mayoría de hoteles de la zona, 
 pero cuenta con una agradable piscina y dos restaurantes. 
 
-![Miami en familia](etheria-images/2018/05/Miami-Beach-Art-Deco-1024x799.jpg "Edificio At Decó en Miami Beach.")
+![Miami en familia](https://fotos.etheriamagazine.com/2018/05/Miami-Beach-Art-Deco-1024x799.jpg "Edificio At Decó en Miami Beach.")
 
 ### Cómo moverse por Miami
 
@@ -126,7 +126,7 @@ cócteles de unos tamaños tan descomunales que deberían premiar a quien se los
 Muy recomendable es el **restaurante Rusty Pelican**, en Kay Biscayne, con unas vistas 
 increíbles de la bahía y una carta muy recomendable (con menú infantil). 
 
-![viajes con niños a Miami](etheria-images/2018/05/miami-beach-1.jpg "Miami Beach.")
+![viajes con niños a Miami](https://fotos.etheriamagazine.com/2018/05/miami-beach-1.jpg "Miami Beach.")
 
 **También te puede interesar:** 
 

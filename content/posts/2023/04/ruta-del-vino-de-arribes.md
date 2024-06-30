@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Vino de Arribes, energía femenina de alto voltaje"
 date: 2023-04-19
-coverImage: etheria-images/2023/04/Hato-Garabato-zamora.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/04/Hato-Garabato-zamora.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -15,7 +15,7 @@ rincones de este territorio que, como muchos otros, se enfrenta al estigma de la
 vaciada. Hoy día, son la cara visible de pequeñas empresas que configuran una propuesta 
 idónea para viajeras que busquen gastronomía, cultura y naturaleza. 
 
-![Viñedos de El Hato y el Garabato.](etheria-images/2023/04/Hato-Garabato-zamora.jpg "Viñedos de El Hato y el Garabato.")
+![Viñedos de El Hato y el Garabato.](https://fotos.etheriamagazine.com/2023/04/Hato-Garabato-zamora.jpg "Viñedos de El Hato y el Garabato.")
 
 Mujeres de armas tomar, emprendedoras, soñadoras, rebeldes, valientes... Todos estos 
 apelativos que se emplean para definir a ciertas mujeres inconformistas que buscan su 
@@ -41,7 +41,7 @@ historia; y gastronomía de sabores genuinos. Y, uniendo ese tejido, una serie d
 que humanizan la experiencia de los viajeros hasta convertirlos, sin pretenderlo, en 
 cómplices de secretos que conservarán en la memoria para siempre. 
 
-![Vista de Fermoselle desde el Torojón](etheria-images/2023/04/Fermoselle.jpg "Vista de Fermoselle.")
+![Vista de Fermoselle desde el Torojón](https://fotos.etheriamagazine.com/2023/04/Fermoselle.jpg "Vista de Fermoselle.")
 
 ## Fermoselle, guardián de la memoria
 
@@ -58,7 +58,7 @@ un producto que conoce a la perfección ya que tiene una carnicería y un secade
 dejéis de reservar alguna cena en su restaurante y dejaos aconsejar por Isabel tanto en 
 los platos como en los vinos. 
 
-![Posada de Doña Urraca, en Fermoselle.](etheria-images/2023/04/posada-dona-urraca.jpg "Posada de Doña Urraca, en Fermoselle. © Pepa García")
+![Posada de Doña Urraca, en Fermoselle.](https://fotos.etheriamagazine.com/2023/04/posada-dona-urraca.jpg "Posada de Doña Urraca, en Fermoselle. © Pepa García")
 
 Aunque las calles, plazas e iglesias de Fermoselle merecen una parada, también queremos 
 recordar las ruinas del **castillo de Doña Urraca**, otra mujer de armas tomar que tuvo 
@@ -87,7 +87,7 @@ majestosos arcos que recuerdan a templos del vino, Olvido os descubrirá los sec
 este laberinto de galerías que, en muchos casos, se remonta al siglo X. Galardonada con 
 el Premio de Emprendedora Rural en 2020, será vuestra mejor guía. 
 
-![Olvido es propietaria de algunas bodegas y también ejerce de guía.](etheria-images/2023/04/olvido-fermoselle.jpg "Olvido Peños ha creado una ruta por las bodegas subterráneas de Fermoselle. © P.G.")
+![Olvido es propietaria de algunas bodegas y también ejerce de guía.](https://fotos.etheriamagazine.com/2023/04/olvido-fermoselle.jpg "Olvido Peños ha creado una ruta por las bodegas subterráneas de Fermoselle. © P.G.")
 
 ### Los recuerdos de Julia
 
@@ -101,7 +101,7 @@ todos los objetos de primera necesidad se concentraban en unos pocos estantes. E
 comercio encontraréis desde vinos y periquillos fermosellanos –unos bollos tradicionales 
 de Carnaval– hasta ollas ferroviarias. 
 
-![Julia Sendín, en la Tienda de Antaño de Fermoselle.](etheria-images/2023/04/julia-tienda-fermoselle.jpg "Julia Sendín, en la Tienda de Antaño de Fermoselle. © P.G.")
+![Julia Sendín, en la Tienda de Antaño de Fermoselle.](https://fotos.etheriamagazine.com/2023/04/julia-tienda-fermoselle.jpg "Julia Sendín, en la Tienda de Antaño de Fermoselle. © P.G.")
 
 ### Mar Marcos, soñando entre fogones
 
@@ -115,7 +115,7 @@ Algunas de las recetas iniciales, como los famosos champiñones a la plancha, so
 herencia de aquellos años. Sus padres continuaron el negocio familiar hasta hace unos 
 catorce años, cuando Mar tomó las riendas. 
 
-![Mar Marcos, chef del restaurante España de Fermoselle.](etheria-images/2023/04/mar-marcos-restaurante-fermoselle.jpg "Mar Marcos, chef del restaurante España de Fermoselle. © P.G.")
+![Mar Marcos, chef del restaurante España de Fermoselle.](https://fotos.etheriamagazine.com/2023/04/mar-marcos-restaurante-fermoselle.jpg "Mar Marcos, chef del restaurante España de Fermoselle. © P.G.")
 
 Os animamos a degustar sus platos tradicionales y su cocina creativa. Disfrutaréis tanto 
 con los callos al estilo de la abuela Pilar como con las sopas de ajo, los lomos de 
@@ -146,7 +146,7 @@ rural". En sus mermeladas sólo emplea productos de proximidad, estacionales y
 principalmente orgánicos. No dejéis de probar la de kiwi con jengibre o la de naranja. Y 
 si os gusta la miel, tiene en su tienda una de roble con un sabor muy especial. 
 
-![Teresa Cotorruelo, propietaria de la mermeladería Oh, saúco!](etheria-images/2023/04/teresa-mermeladeria-ohsauco.jpg "Teresa Cotorruelo, propietaria de la mermeladería Oh, saúco!")
+![Teresa Cotorruelo, propietaria de la mermeladería Oh, saúco!](https://fotos.etheriamagazine.com/2023/04/teresa-mermeladeria-ohsauco.jpg "Teresa Cotorruelo, propietaria de la mermeladería Oh, saúco!")
 
 Si os queréis quedar a dormir en Fornillos de Fermoselle, una buena referencia es el 
 **caserío La Casa de los Arribes** (lacasadelosarribes.es) formado por cuatro viviendas 
@@ -175,7 +175,7 @@ tentación de llevaros alguna pieza de La Faya o Fariza.
 cómo ordeñan las ovejas –si coincide el horario– y una explicación de la elaboración de 
 los quesos. 
 
-![Ángeles Santos, de la quesería La Faya (Fariza).](etheria-images/2023/04/angeles-queseria-faya-fariza.jpg "Ángeles, de la quesería La Faya (Fariza). © Pepa García")
+![Ángeles Santos, de la quesería La Faya (Fariza).](https://fotos.etheriamagazine.com/2023/04/angeles-queseria-faya-fariza.jpg "Ángeles, de la quesería La Faya (Fariza). © Pepa García")
 
 ### Susana, cruceros para aprender y disfrutar
 
@@ -189,7 +189,7 @@ el propio río, además de incluir matices didácticos explicando el trabajo de
 conservación de esos ecosistemas. La mejor manera de comprender la dimensión de este 
 proyecto es navegando y sintiendo la grandeza de este entorno transfronterizo. 
 
-![Susana G. Bonnail contando los proyectos ambientales que se llevan a cabo.](etheria-images/2023/04/susana-cruceros-arribes-850x491.jpg "Susana G. Bonnail contando los proyectos ambientales que se llevan a cabo. © P.G.")
+![Susana G. Bonnail contando los proyectos ambientales que se llevan a cabo.](https://fotos.etheriamagazine.com/2023/04/susana-cruceros-arribes-850x491.jpg "Susana G. Bonnail contando los proyectos ambientales que se llevan a cabo. © P.G.")
 
 Mientras el barco panorámico se desliza entre los cañones del Duero, los pasajeros 
 escuchan las explicaciones sobre el entorno natural, las aves y el modo de vida. Durante 
@@ -201,7 +201,7 @@ frontera, grandes vinos, españoles y portugueses, e incluso grifos de vino a li
 disposición del turista. En la [web de Europarques](https://www.europarques.com/) se 
 puede reservar plaza para este crucero que parte de Miranda do Douro. 
 
-![Crucero ambiental Europarques.](etheria-images/2023/04/Crucero-ambiental-Europarques-684x1024.jpg "© Crucero Ambiental Europarques.")
+![Crucero ambiental Europarques.](https://fotos.etheriamagazine.com/2023/04/Crucero-ambiental-Europarques-684x1024.jpg "© Crucero Ambiental Europarques.")
 
 ### Liliana, "la xefa" de El Hato y el Garabato
 
@@ -223,7 +223,7 @@ elaborados con una fermentación espontánea y sin levaduras añadidas. _Sin Bla
 cuento_ y _De buena jera_ son sus buques insignia, pero preguntad también por la edición 
 limitada de "La xefa", un rosado muy especial. 
 
-![Liliana Fernández y su marido, Jose Manuel Beneitez.](etheria-images/2023/04/liliana-bodega-hato-garabato.jpg "Liliana Fernández y José Manuel Beneitez. © P.G.")
+![Liliana Fernández y su marido, Jose Manuel Beneitez.](https://fotos.etheriamagazine.com/2023/04/liliana-bodega-hato-garabato.jpg "Liliana Fernández y José Manuel Beneitez. © P.G.")
 
 ### Loli Sánchez, AOVEs únicos en el mundo
 
@@ -239,7 +239,7 @@ botellas de 250 ml). El resto del aceite se realiza principalmente con manzanill
 cacereña, aunque también puede haber cornicabra, picual, verdial, etc. Suaves y 
 aromáticos son ideales para ensaladas. 
 
-![Loli Sánchez posa con una botella de aceite Abade](etheria-images/2023/04/loli-aceites-arribera.jpg "Loli Sánchez elabora varias marcas de aceite en una almazara. © P.G.")
+![Loli Sánchez posa con una botella de aceite Abade](https://fotos.etheriamagazine.com/2023/04/loli-aceites-arribera.jpg "Loli Sánchez elabora varias marcas de aceite en una almazara. © P.G.")
 
 ### Bailando 'Al son de la natura'
 
@@ -250,7 +250,7 @@ taller de jabones, de aceites de masaje o incluso de remedios naturales para mal
 cotidianos de salud, no tenéis más que contactar con ella. La podéis seguir en su perfil 
 de @alsondelanatura en Instagram o Facebook. 
 
-![Noelia Caballero, creadora de Al son de la natura.](etheria-images/2023/04/noelia-al-son-natura.jpg "Noelia Caballero, creadora de Al son de la natura. © Pepa García")
+![Noelia Caballero, creadora de Al son de la natura.](https://fotos.etheriamagazine.com/2023/04/noelia-al-son-natura.jpg "Noelia Caballero, creadora de Al son de la natura. © Pepa García")
 
 ## Qué más ver en la ruta
 

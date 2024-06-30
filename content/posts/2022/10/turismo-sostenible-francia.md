@@ -1,7 +1,7 @@
 ---
 title: "Planes divertidos para practicar un turismo sostenible en Francia"
 date: 2022-10-28
-coverImage: etheria-images/2022/10/Francia-canal-du-midi-carcassonne.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/10/Francia-canal-du-midi-carcassonne.jpg
 categories: 
   - planes-originales-para-mujeres
 authors: 
@@ -14,7 +14,7 @@ con el entorno. Francia es uno de los países líderes en ofrecer este tipo de o
 viaje y aquí te proponemos 8 iniciativas de este país con las que visitarlo sin dejar de 
 lado el compromiso con el medioambiente. 
 
-![viñedos del sur de Francia](etheria-images/2022/10/francia-canal-du-midi.jpg "Barco en el Canal du Midi, en Francia.")
+![viñedos del sur de Francia](https://fotos.etheriamagazine.com/2022/10/francia-canal-du-midi.jpg "Barco en el Canal du Midi, en Francia.")
 
 Cada vez está calando más en la mente de los viajeros la idea de que otra forma de 
 viajar, más sostenible y respetuosa con la naturaleza, es posible. Francia es uno de los 
@@ -40,7 +40,7 @@ No es necesario llevar capitán ya que son fáciles de manejar y en ellas se pue
 las bicicletas para las excursiones. Podrás descubrir preciosos paisajes naturales y 
 ciudades como Carcassonne y Castelnaudary. 
 
-![barcos en Carcassonne](etheria-images/2022/10/Francia-canal-du-midi-carcassonne.jpg "Barcos en el Canal du Midi en Carcassonne.")
+![barcos en Carcassonne](https://fotos.etheriamagazine.com/2022/10/Francia-canal-du-midi-carcassonne.jpg "Barcos en el Canal du Midi en Carcassonne.")
 
 ### Viñedo eco-responsable en Burdeos
 
@@ -59,7 +59,7 @@ curso para que la vid florezca plenamente. También en la bodega **Domaine de Ch
 (domainedechevalier.com) han organizado su proceso de elaboración de los vinos 
 respetando los tiempos de la naturaleza y utilizando técnicas tradicionales. 
 
-![arado tradicional en un viñedo en Burdeos](etheria-images/2022/10/burdeos-Domaine-de-Chevalier.jpg "Bodega Domaine de Chevalier. © ©Vincent Bengold")
+![arado tradicional en un viñedo en Burdeos](https://fotos.etheriamagazine.com/2022/10/burdeos-Domaine-de-Chevalier.jpg "Bodega Domaine de Chevalier. © ©Vincent Bengold")
 
 El **ecosistema Darwin**, un antiguo cuartel militar situado en el barrio de la Bastide, 
 es otro de los lugares para visitar en Burdeos. Ahora alberga una granja urbana y el 
@@ -75,7 +75,7 @@ alberga y por la labor que hace de difusión del papel del mar en nuestro entorn
 exposición inmersiva “_Dans l’Oeil du Climat_” nos da pistas sobre esas pequeñas cosas 
 que podemos hacer todos en nuestro día a día para combatir el cambio climático. 
 
-![acuario en boulogne-sur-mer](etheria-images/2022/10/Boulogne-sur-Mer-Nausicaa.jpg "Nausicaá, en Boulogne-sur-Mer.")
+![acuario en boulogne-sur-mer](https://fotos.etheriamagazine.com/2022/10/Boulogne-sur-Mer-Nausicaa.jpg "Nausicaá, en Boulogne-sur-Mer.")
 
 ### Grenoble, la capital verde de Europa 2022
 
@@ -87,7 +87,7 @@ está volcada en reducir la contaminación acústica. Además, ha plantado más 
 con cero emisiones de carbono. Por si fuera poco, está rodeada de parques y jardines y 
 es una de las ciudades francesas donde es más fácil desplazarse en bicicleta. 
 
-![pareja en un banco en el mirador de la Bastilla en Grenoble](etheria-images/2022/10/Francia-grenoble-vistas.jpg "Vistas de Grenoble desde la Bastilla. © Alain-Doucé")
+![pareja en un banco en el mirador de la Bastilla en Grenoble](https://fotos.etheriamagazine.com/2022/10/Francia-grenoble-vistas.jpg "Vistas de Grenoble desde la Bastilla. © Alain-Doucé")
 
 ### Avistamiento de mamíferos y aves marinas en Bretaña
 
@@ -97,7 +97,7 @@ las marismas del Séné, la bahía de Saint-Brieuc, el archipiélago de Sept-Îl
 alcatraces y frailecillos atlánticos), las marismas de Brière (paraíso de las cigüeñas) 
 y el cabo Sizun. 
 
-![Aves sobrevolando el Mont Saint-Michel.](etheria-images/2022/10/bretana-patos.jpg "Aves sobrevolando el Mont Saint-Michel. © Christian Moulle.")
+![Aves sobrevolando el Mont Saint-Michel.](https://fotos.etheriamagazine.com/2022/10/bretana-patos.jpg "Aves sobrevolando el Mont Saint-Michel. © Christian Moulle.")
 
 Si también quieres ver delfines, el punto de partida suele ser **Port-Mer** y una buena 
 opción es reservar una excursión con la asociación [Al-Lark](https://www.vacaciones-bretana.com/prepara-tu-estancia/vive-una-experiencia-bretona/ven-a-observar-los-grandes-delfines/). 
@@ -117,7 +117,7 @@ los pueblos de Caleña (al noroeste) y Conca (al sureste). Hay que tener una bue
 física para realizarla y, si quieres hacerla entera, se suele organizar en 15 etapas 
 (unas seis horas caminando por día). 
 
-![carretera en Córcega](etheria-images/2022/10/francia-corcega-bicicleta.jpg "Córcega en bicicleta. © Bernd Dittrich.")
+![carretera en Córcega](https://fotos.etheriamagazine.com/2022/10/francia-corcega-bicicleta.jpg "Córcega en bicicleta. © Bernd Dittrich.")
 
 Para los amantes de las rutas en bicicleta, es muy recomendable también la región de 
 **Balagne**. Ubicada entre el mar y la montaña, aquí se ubican treinta bonitos pueblos 
@@ -145,7 +145,7 @@ de plantas del mundo. Es un lugar perfecto para visitar en familia y, además de
 disfrutar de divertidas atracciones, el parque está lleno de actividades para los más 
 pequeños enfocadas en el mundo natural. 
 
-![Angers iluminada](etheria-images/2022/10/francia-angers.jpg "Vista del puente de Verdun en Angers por la noche.")
+![Angers iluminada](https://fotos.etheriamagazine.com/2022/10/francia-angers.jpg "Vista del puente de Verdun en Angers por la noche.")
 
 ? **También te puede interesar:** 
 

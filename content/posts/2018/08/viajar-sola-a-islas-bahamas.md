@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Bahamas, un viaje a tu medida"
 date: 2018-08-14
-coverImage: etheria-images/2018/05/Viaje-Islas-Bahamas-faro-lejos.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-faro-lejos.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Si cierras los ojos e imaginas qué hacer en Bahamas, probablemente vendrán a tu mente playas inmensas, aguas turquesas, yates y lujo. Y sí, habrás acertado, pero también te lo puedes plantear con buceo, naturaleza y excursiones a pueblos locales. Bahamas es lo que tú quieres que sea.
 
-![playa de bahamas](etheria-images/2018/08/viajar-bahamas.jpg "Playa de Bahamas. © Jakob Owens")
+![playa de bahamas](https://fotos.etheriamagazine.com/2018/08/viajar-bahamas.jpg "Playa de Bahamas. © Jakob Owens")
 
 ```
 Actualizado: abril 2021
@@ -39,7 +39,7 @@ otros los aspectos que atrapan al visitante: la sencillez de sus gentes, sus cas
 colores –que recuerdan a la Nueva Inglaterra de la época victoriana– y su sabor 
 marinero. 
 
-![que hacer en bahamas Dunmore Town](etheria-images/2018/05/Viaje-Islas-Bahamas-Boogie-1024x726.jpg "En Dunmore Town la vida transcurre a la velocidad de los buggies. © Etheria Magazine")
+![que hacer en bahamas Dunmore Town](https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-Boogie-1024x726.jpg "En Dunmore Town la vida transcurre a la velocidad de los buggies. © Etheria Magazine")
 
 #### En buggie por Dunmore Town
 
@@ -58,7 +58,7 @@ disfrutarás de las vistas sino también de la rica cocina que ofrecen. Uno de e
 **Pink Sands Resort** que ofrece recetas locales e internacionales en medio de un 
 frondoso jardín. 
 
-![Pink Sand Beach visita obligada en Harbour Island para mujeres que viajan solas](etheria-images/2018/05/Viaje-Islas-Bahamas-1024x706.jpg "Pink Sand Beach, en Harbour Island, lanza destellos rosas al amanecer. © Etheria Magazine")
+![Pink Sand Beach visita obligada en Harbour Island para mujeres que viajan solas](https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-1024x706.jpg "Pink Sand Beach, en Harbour Island, lanza destellos rosas al amanecer. © Etheria Magazine")
 
 #### Pide unas conchas fritas en un quiosco
 
@@ -80,7 +80,7 @@ En **Elbow Cay**, uno de los islotes habitados, se encuentra la coqueta poblaci�
 Town](http://www.visithopetown.com), un destino con una buena oferta hotelera y de ocio, 
 perfecto para alojarte y, desde donde realizar visitas a los alrededores. 
 
-![Excursiones en barco en Islas Bahamas](etheria-images/2018/05/Viaje-Islas-Bahamas-barco.jpg "Desde Marsh Harbour se pueden realizar excursiones marítimas a las islas cercanas. ©Etheria Magazine")
+![Excursiones en barco en Islas Bahamas](https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-barco.jpg "Desde Marsh Harbour se pueden realizar excursiones marítimas a las islas cercanas. ©Etheria Magazine")
 
 ### Excursión a Marsh Harbour
 
@@ -90,7 +90,7 @@ la villa desde el agua. Es una población tranquila y con casitas de colores. No
 difícil fantasear con la posibilidad de ser el privilegiado propietario de cualquiera de 
 ellas. 
 
-![excursion en bahamas](etheria-images/2018/05/1-Viaje-Islas-Bahamas-1024x644.jpg "Excursiones marítimas en Bahamas.")
+![excursion en bahamas](https://fotos.etheriamagazine.com/2018/05/1-Viaje-Islas-Bahamas-1024x644.jpg "Excursiones marítimas en Bahamas.")
 
 ### Conoce las playas de los cayos
 

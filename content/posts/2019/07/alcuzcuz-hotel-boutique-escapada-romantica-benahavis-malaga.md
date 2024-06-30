@@ -1,7 +1,7 @@
 ---
 title: "Alcuzcuz Hotel Boutique, un oasis secreto en Benahavís (Málaga)"
 date: 2019-07-08
-coverImage: etheria-images/2019/07/hotel-alcuzcuz-patio.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-patio.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -15,7 +15,7 @@ el precioso hotel boutique Alcuzcuz, en Benahavís. Un auténtico oasis a un pas
 Marbella que nos trae Rusticae para desconectar de todo, perfecto para una escapada 
 romántica. 
 
-![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](etheria-images/2019/07/Hotel-Alcuzcuz-panoramica.jpg "Vista del Alcuzcuz Hotel Boutique con el mar al fondo.")
+![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/Hotel-Alcuzcuz-panoramica.jpg "Vista del Alcuzcuz Hotel Boutique con el mar al fondo.")
 
 Estás planeando un viaje de fin de semana con tu pareja y te apetece un lugar tranquilo 
 pero que, a la vez, te permita acercarte a tomar algo a una zona animada cuando os 
@@ -24,7 +24,7 @@ con una decoración deliciosa (su antiguo propietario fue el decorador Jaime Pal
 estilo se siente en cada rincón); tiene tan sólo seis habitaciones, unas vistas 
 increíbles y está a un paso de Marbella y Puerto Banús. ¿Se puede pedir más? 
 
-![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](etheria-images/2019/07/hotel-alcuzcuz-salon.jpg "Salón del hotel, perfecto para un rato de lectura.")
+![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-salon.jpg "Salón del hotel, perfecto para un rato de lectura.")
 
 El edificio, que toma la forma de un cortijo en la **serranía de Ronda**, fue construido 
 en 1850 y ha pertenecido siempre a la misma familia. Los herederos del decorador Jaime 
@@ -42,7 +42,7 @@ al refinamiento francés y a la comodidad inglesa. Sus nombres: El Marqués, La 
 El Patio, La Colmena, la Capilla y Tramores. Todas únicas, llenas de estilo, perfectas 
 para un fin de semana de descanso. 
 
-![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](etheria-images/2019/07/hotel-alcuzcuz-bano.jpg "Habitación Las Colmenas.")
+![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-bano.jpg "Habitación Las Colmenas.")
 
 ## Las instalaciones del hotel
 
@@ -51,12 +51,12 @@ La vegetación es la protagonista en la decoración de los exteriores del hotel,
 Este lugar de descanso, que merece la pena pasear, se ordena en bancales escalonados 
 surcados por senderos, y está salpicado de esculturas y pequeñas plazoletas. 
 
-![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](etheria-images/2019/07/hotel-alcuzcuz-jardin.jpg "Jardín del hotel.")
+![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-jardin.jpg "Jardín del hotel.")
 
 Y al final, uno de los lugares más solicitados del hotel en los meses de verano: la 
 **piscina** de agua salada con preciosas vistas que llegan hasta el mar. 
 
-![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](etheria-images/2019/07/hotel-alcuzcuz-piscina.jpg "La piscina es un lugar perfecto para el descanso.")
+![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-piscina.jpg "La piscina es un lugar perfecto para el descanso.")
 
 ## Gastronomía de altura
 
@@ -65,7 +65,7 @@ día con su espectacular desayuno: zumos naturales de la huerta, mermeladas case
 embutido de la zona, aceite de oliva virgen extra, panes de hogaza… Y, si quieres, 
 acompañado de huevos de corral fritos o en tortilla. 
 
-![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](etheria-images/2019/07/hotel-alcuzcuz-almuezo.jpg "Zona para almorzar preparada en uno de los patios.")
+![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-almuezo.jpg "Zona para almorzar preparada en uno de los patios.")
 
 Su restaurante, dirigido por el chef Fernando Villasclaras Arce, apuesta por la 
 gastronomía de proximidad y sostenible. En su carta los sabores son conocidos, sin 
@@ -88,7 +88,7 @@ disfrutando de la naturaleza en el **Parque Natural Sierra de las Nieves**. Tú 
 quieres un fin de semana de descaso absoluto en el hotel o prefieres combinarlo con un 
 turismo más activo. 
 
-![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](etheria-images/2019/07/hotel-alcuzcuz-patio.jpg "Patio interior del hotel.")
+![hoteles Rusticae, hoteles con encanto, escapadas románticas, escapadas de fin de semana](https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-patio.jpg "Patio interior del hotel.")
 
 Fotos: © Rusticae 
 
@@ -99,4 +99,4 @@ Ctra. De Ronda, Km 42. Benahavís, Málaga. Tel. Central de reservas Rusticae: 9
 
 **Consulta otros hoteles con encanto en Rusticae.** 
 
-![](etheria-images/2019/03/rusticae-the-club-1-e1553083884362.jpg)
+![](https://fotos.etheriamagazine.com/2019/03/rusticae-the-club-1-e1553083884362.jpg)

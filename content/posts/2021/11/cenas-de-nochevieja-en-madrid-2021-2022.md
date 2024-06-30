@@ -1,7 +1,7 @@
 ---
 title: "8 cenas de Nochevieja en Madrid para recibir el año 2022 por todo lo alto"
 date: 2021-11-29
-coverImage: etheria-images/2021/11/Nochevieja-hotel-orfila.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/Nochevieja-hotel-orfila.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -17,7 +17,7 @@ normalmente en cenas familiares. Pero, ¿has pensado en despedir el año 2021 si
 que preocuparte de nada? Te proponemos 8 cenas de Nochevieja en Madrid en hoteles de 
 lujo y espacios singulares para que la entrada en 2022 sea por todo lo alto. 
 
-![Decoración navideña en el hotel Orfila de Madrid.](etheria-images/2021/11/Nochevieja-hotel-orfila.jpg "Decoración navideña en el hotel Orfila de Madrid.")
+![Decoración navideña en el hotel Orfila de Madrid.](https://fotos.etheriamagazine.com/2021/11/Nochevieja-hotel-orfila.jpg "Decoración navideña en el hotel Orfila de Madrid.")
 
 La última noche del año hay que celebrarla, tanto por todo lo bueno que ha tenido 2021 
 como para dejar atrás las tristezas y sinsabores pasados. Normalmente algún miembro de 
@@ -66,7 +66,7 @@ Fin de Año ha sido diseñado por **Paco Pérez**, un chef que suma 5 estrellas 
 sus tres restaurantes, y lo ha llamado Mar D’Amunt como homenaje al Alt Empordá, su 
 tierra natal. 
 
-![El hotel Westin Palace de Madrid](etheria-images/2021/11/cena-nochevieja-hotel-palace-madrid.jpg "El hotel Westin Palace de Madrid es un lugar emblemático donde celebrar la Nochevieja.")
+![El hotel Westin Palace de Madrid](https://fotos.etheriamagazine.com/2021/11/cena-nochevieja-hotel-palace-madrid.jpg "El hotel Westin Palace de Madrid es un lugar emblemático donde celebrar la Nochevieja.")
 
 El menú está lleno de bocados delicados y deliciosos, como el Chawanmushi de setas de 
 invierno; la Lubina salvaje en su jugo aromatizada con una crema agria y caviar; y el 
@@ -90,7 +90,7 @@ crujiente y su carne jugosa, entre otras delicias. Para terminar, una tarta de c
 y tofu, los tradicionales dulces y una copa en la mesa, como broche a los excelentes 
 vinos maridados durante la cena. 
 
-![Fachada del hotel Orfila.](etheria-images/2021/11/Fachada-navidad-hotel-orfila.jpg "Fachada del hotel Orfila.")
+![Fachada del hotel Orfila.](https://fotos.etheriamagazine.com/2021/11/Fachada-navidad-hotel-orfila.jpg "Fachada del hotel Orfila.")
 
 Además, el hotel cuenta con un menú para Nochebuena y deliciosos y suculentos _brunches_ 
 para los días de Navidad y Año Nuevo. Un lugar para los que disfrutan celebrando las 
@@ -128,7 +128,7 @@ al natural, Cóctel de marisco, Merluza con beurre blanc y espinacas, Solomillo 
 de temporada y salsa Perigordini… Un menú firmado por el chef **Iván Cerdeño**, que 
 termina con un Cremoso yogur de limón elaborado con ingredientes naturales. 
 
-![Sala de Fiestas del Florida Park.](etheria-images/2021/11/La-Sala-Florida-Retiro-Nochevieja.jpg "Sala de Fiestas del Florida Park.")
+![Sala de Fiestas del Florida Park.](https://fotos.etheriamagazine.com/2021/11/La-Sala-Florida-Retiro-Nochevieja.jpg "Sala de Fiestas del Florida Park.")
 
 El Florida Park ofrece, además, dos formas de celebrar la Nochevieja en Madrid: la Cena 
 con espectáculo (de 21 a 00.30 h) y otra Cena con Espectáculo a la que se suma un 
@@ -165,7 +165,7 @@ Doñaluz, una terraza perfectamente acondicionada para el invierno situada en la
 las excelentes vistas de un Madrid iluminado con las luces navideñas, es poder tomar las 
 doce uvas mirando a la Puerta del Sol. 
 
-![Vistas a la Puerta del Sol desde Doñaluz.](etheria-images/2021/11/Donaluz-restaurante-nochevieja.jpg "Vistas a la Puerta del Sol desde Doñaluz.")
+![Vistas a la Puerta del Sol desde Doñaluz.](https://fotos.etheriamagazine.com/2021/11/Donaluz-restaurante-nochevieja.jpg "Vistas a la Puerta del Sol desde Doñaluz.")
 
 Antes de que llegue ese momento, habrás degustado un menú con platos como el Tataki de 
 atún marinado con salsa teriyaki acompañado con aguacate y salsa huancaína; o los 

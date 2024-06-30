@@ -1,7 +1,7 @@
 ---
 title: "Anantara Iko Mauritius Resort & Villas, un hotel de lujo en isla Mauricio"
 date: 2020-12-15
-coverImage: etheria-images/2020/12/Anantara-mauricio-playa.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/Anantara-mauricio-playa.jpg
 categories: 
   - hoteles
   - viajes-para-mujeres
@@ -16,7 +16,7 @@ una de las mejores imágenes que podamos retener en nuestra mente. No renuncies 
 en los viajes que te esperan y date el capricho de disfrutar en 2021 de un hotel tan 
 exclusivo como éste. 
 
-![cenas románticas en isla Mauricio](etheria-images/2020/12/Anantara-Mauricio-Dining-By-Design.jpg "Cena para dos sobre la arena de la playa.")
+![cenas románticas en isla Mauricio](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-Dining-By-Design.jpg "Cena para dos sobre la arena de la playa.")
 
 Isla Mauricio es uno de esos destinos que, si alguien lo nombra, automáticamente te 
 imaginas paseando por una de sus playas de arena blanca, palmeras y mar transparente. Y, 
@@ -33,7 +33,7 @@ Mauricio](https://etheriamagazine.com/2019/03/26/viajes-mujeres-mejores-planes-e
 te contamos qué actividades no puedes perderte, aunque ya te avisamos que costará salir 
 de este hotel. 
 
-![Lobby del Anantara Iko Mauritius Resort & Villas.](etheria-images/2020/12/Anantara-Mauricio-Lobby.jpg "Lobby del Anantara Iko Mauritius Resort & Villas.")
+![Lobby del Anantara Iko Mauritius Resort & Villas.](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-Lobby.jpg "Lobby del Anantara Iko Mauritius Resort & Villas.")
 
 ## Habitaciones, suites y villas
 
@@ -43,7 +43,7 @@ Cuando busques tu habitación en este hotel de lujo de isla Mauricio, la primera
 que tendrás que tomar es si la quieres con vistas a la playa y al océano o con vistas a 
 los exuberantes jardines. 
 
-![Habitación Deluxe con vista al océano.](etheria-images/2020/12/Anantara-Mauricio-habitacion-deluxe-mar.jpg "Habitación Deluxe con vista al océano.")
+![Habitación Deluxe con vista al océano.](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-habitacion-deluxe-mar.jpg "Habitación Deluxe con vista al océano.")
 
 Podrás escoger entre la habitación **Premier** (con un bonito balcón, cafetera espresso, 
 ducha y bañera independientes, y altavoz portátil); la **habitación Deluxe** con vistas 
@@ -55,7 +55,7 @@ contemplar el mar o los jardines.
 Todas cuentan con Wifi gratuito y los servicios de un auténtico hotel de lujo en isla 
 Mauricio. 
 
-![Baño de una de las suites con vistas al mar.](etheria-images/2020/12/Anantara-Mauricio-Ocean-View-Suite-bano.jpg "Baño de una de las suites con vistas al mar.")
+![Baño de una de las suites con vistas al mar.](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-Ocean-View-Suite-bano.jpg "Baño de una de las suites con vistas al mar.")
 
 Y si viajas en familia o con amigos y quieres una experiencia todavía más exclusiva, la 
 mejor opción es alojarse en una de las Villas con piscina privada del resort. Podrás 
@@ -80,7 +80,7 @@ el restaurante ideal para disfrutar de excelentes materias primas, como el maris
 pescado. También cuenta con excelentes cortes de carne, que se asan sobre piedras de sal 
 del Himalaya. Esta abierto para el almuerzo y la cena. 
 
-![Restaurante Sea.Salt.Fire.](etheria-images/2020/12/Anantara-mauricio-Sea-Fire-Salt-Restaurant.jpg "Restaurante Sea.Salt.Fire.")
+![Restaurante Sea.Salt.Fire.](https://fotos.etheriamagazine.com/2020/12/Anantara-mauricio-Sea-Fire-Salt-Restaurant.jpg "Restaurante Sea.Salt.Fire.")
 
 Los amantes de la cocina sana encontrarán en **Bon Manzer** su lugar preferido del 
 hotel. Su especialidad es la cocina vegana y vegetariana elaborada con ingredientes 
@@ -102,7 +102,7 @@ es **1884**. Este singular espacio está formado por una única mesa para dos o 
 personas en la bodega, donde pueden prepararte un menú a tu medida con un maridaje 
 perfecto. 
 
-![Restaurante Zafran.](etheria-images/2020/12/Anantara-Mauricio-Zafran.jpg "Restaurante Zafran.")
+![Restaurante Zafran.](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-Zafran.jpg "Restaurante Zafran.")
 
 Las experiencias gastronómicas van más allá en este hotel de lujo de isla Mauricio: 
 podrás recibir una **clase de cocina criolla en Spice Spoons** o disfrutar del servicio 
@@ -117,7 +117,7 @@ tratamientos con productos naturales locales sin productos químicos que refleja
 respeto total por la naturaleza. Un lugar para la tranquilidad y la relajación, para 
 cuidarse y quererse. ¿Puede haber mejor plan para un viaje? 
 
-![Sala para tratamiento en pareja en el Spa.Sala para tratamiento en pareja en el Spa.](etheria-images/2020/12/Anantara-mauricio-Spa.jpg "Sala para tratamiento en pareja en el Spa.Sala para tratamiento en pareja en el Spa.")
+![Sala para tratamiento en pareja en el Spa.Sala para tratamiento en pareja en el Spa.](https://fotos.etheriamagazine.com/2020/12/Anantara-mauricio-Spa.jpg "Sala para tratamiento en pareja en el Spa.Sala para tratamiento en pareja en el Spa.")
 
 El spa dispone de salas de tratamiento individuales y para parejas, pabellones de masaje 
 tailandés al aire libre, hamman tradicional, zonas de relajación, hidromasaje… Y, si 
@@ -132,7 +132,7 @@ jardines tropicales, te atrapan y hacen que te cueste incluso salir a explorar i
 Mauricio. Dispone de una bonita _infinity pool_, Fitness Centre, dos pistas de tenis, 
 biblioteca… 
 
-![Piscina Infinity del hotel.](etheria-images/2020/12/Anantara-Mauricio-piscina.jpg "Piscina Infinity del hotel.")
+![Piscina Infinity del hotel.](https://fotos.etheriamagazine.com/2020/12/Anantara-Mauricio-piscina.jpg "Piscina Infinity del hotel.")
 
 Y, si viajas en familia, los niños estarán entretenidos en su propia piscina y en el 
 **Kids Club**. Además, el mar está siempre presente con la playa de Le Chaland. Podrás 

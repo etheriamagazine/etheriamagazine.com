@@ -1,7 +1,7 @@
 ---
 title: "8 razones por las que desearás conocer la provincia de Ciudad Real"
 date: 2020-11-10
-coverImage: etheria-images/2020/11/ciudad-real-Tablas-de-Daimiel.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/ciudad-real-Tablas-de-Daimiel.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -15,7 +15,7 @@ historia y encanto y su discreta naturaleza cincela parajes únicos, perfectos p
 exploradoras. Os enumeramos las mejores rutas por Ciudad Real, aquellas que no pueden 
 faltar en vuestra escapada. 
 
-![tablas de daimiel en ciudad real](etheria-images/2020/11/ciudad-real-Tablas-de-Daimiel.jpg "Amanecer en Las Tablas de Daimiel (Ciudad Real).")
+![tablas de daimiel en ciudad real](https://fotos.etheriamagazine.com/2020/11/ciudad-real-Tablas-de-Daimiel.jpg "Amanecer en Las Tablas de Daimiel (Ciudad Real).")
 
 Actualizado en febrero de 2024 
 
@@ -47,7 +47,7 @@ yacimiento arqueológico, uno de los más asombrosos que se pueden visitar en Es
 sobre todo, nos muestra los vestigios de una cultura desconocida hasta hace pocas 
 décadas. 
 
-![motilla de azuer ciudad real](etheria-images/2020/11/ciudad-real-Motilla-de-Azuer.jpg "Interior de la Motilla de Azuer. © Yolanda Cardo")
+![motilla de azuer ciudad real](https://fotos.etheriamagazine.com/2020/11/ciudad-real-Motilla-de-Azuer.jpg "Interior de la Motilla de Azuer. © Yolanda Cardo")
 
 Cerca de allí se encuentra **Motilla de las Cañas**, hoy rodeada de agua y muy próxima 
 al territorio de las Tablas de Daimiel, nuestra siguiente parada. 
@@ -63,7 +63,7 @@ circunstancias la aprovechan las aves para nidificar y para alimentarse durante 
 migraciones. Algunas pasan largas temporadas o simplemente residen en este vergel. Así 
 cualquier época del año resulta perfecta para su avistamiento. 
 
-![humedales parque tablas de daimiel](etheria-images/2020/11/ciudad-real-humedales-de-Daimiel-al-atardecer.jpg "Los humedales de Daimiel al atardecer. © Manuel Oñorbe")
+![humedales parque tablas de daimiel](https://fotos.etheriamagazine.com/2020/11/ciudad-real-humedales-de-Daimiel-al-atardecer.jpg "Los humedales de Daimiel al atardecer. © Manuel Oñorbe")
 
 Se puede hacer senderismo para recorrer las principales zonas, sin reserva previa, y 
 además sus rutas son gratuitas. Para pasear por este mágico humedal conviene caminar en 
@@ -82,7 +82,7 @@ denomina el "Serengueti español". Curiosamente, este espacio natural estuvo a p
 ser convertido en campo de tiro para prácticas del ejército en los años 80. 
 Afortunadamente fue salvado y nombrado Parque Nacional. 
 
-![safari parque cabaneros ciudad real](etheria-images/2020/11/ciudad-real-safari-Parque-Cabaneros.jpg "El "Serengueti" español. © Parque Nacional de Cabañeros")
+![safari parque cabaneros ciudad real](https://fotos.etheriamagazine.com/2020/11/ciudad-real-safari-Parque-Cabaneros.jpg "El "Serengueti" español. © Parque Nacional de Cabañeros")
 
 Varias rutas recorren su diversa fauna y también su geología. En el paraje denominado 
 Boquerón del río Estena se encuentran unos fósiles en los que se puede ver qué animales 
@@ -101,7 +101,7 @@ que podemos dedicarle varias jornadas. La excusa perfecta para alojarnos en un e
 histórico, el antiguo convento de Santa Catalina del siglo XVI, reconvertido en 
 **Parador Nacional** desde 1970. 
 
-![plaza mayor almagro ciudad real](etheria-images/2020/11/ciudad-real-plaza-Mayor-de-Almagro.jpg "Galerías acristaladas de la Plaza Mayor de Almagro. © Turismo de Almagro")
+![plaza mayor almagro ciudad real](https://fotos.etheriamagazine.com/2020/11/ciudad-real-plaza-Mayor-de-Almagro.jpg "Galerías acristaladas de la Plaza Mayor de Almagro. © Turismo de Almagro")
 
 Pero, sin lugar a dudas, el protagonista almagreño es el teatro. En el célebre **Corral 
 de Comedias**, que data del siglo XVII, se celebra cada verano el Festival Internacional 
@@ -129,7 +129,7 @@ Rafael, la plaza de Toros hexagonal, única en el mundo, y la Cárcel de Forzado
 presos sentenciados a cumplir condena en estas minas. No son visitas muy conocidas pero 
 también están entre las mejores rutas por Ciudad Real. 
 
-![pozo san aquilino parque minero almaden](etheria-images/2020/11/ciudad-real-pozo-San-Aquilino-Parque-Minero-de-Almaden.jpg "Castillete del pozo San Aquilino en el exterior de las minas. © Parque Minero de Almadén")
+![pozo san aquilino parque minero almaden](https://fotos.etheriamagazine.com/2020/11/ciudad-real-pozo-San-Aquilino-Parque-Minero-de-Almaden.jpg "Castillete del pozo San Aquilino en el exterior de las minas. © Parque Minero de Almadén")
 
 ## Campo de Calatrava. Caminando entre volcanes
 
@@ -158,7 +158,7 @@ de Oro. Aún hoy al pasear por sus calles se aprecia este esplendor. Una hermosa
 blasonada repleta de recios edificios cuyas fachadas ostentan más de 250 escudos. Mucho 
 noble caballero entre sus muros. 
 
-![plaza mayor villanueva de los infantes](etheria-images/2020/11/ciudad-real-plaza-Mayor-Villanueva-de-los-Infantes.jpg "Plaza Mayor de Villanueva de los Infantes. © María José Vall")
+![plaza mayor villanueva de los infantes](https://fotos.etheriamagazine.com/2020/11/ciudad-real-plaza-Mayor-Villanueva-de-los-Infantes.jpg "Plaza Mayor de Villanueva de los Infantes. © María José Vall")
 
 **Francisco de Quevedo** eligió el antiguo convento de Santo Domingo para recuperarse de 
 su mala salud pero finalmente murió en 1645. Es posible visitar su celda tal y como 
@@ -186,7 +186,7 @@ de 30 km y conforman la singular orografía del valle del Alto Guadiana. Las bar
 naturales que deben salvar sus cristalinas aguas modelan una hermosa cadena de torrentes 
 y cascadas. 
 
-![laguna lengua de ruidera](etheria-images/2020/11/ciudad-real-Laguna-Lengua-Ruidera.jpg "Aguas azul turquesa de la Laguna Lengua. © Parque Natural de las Lagunas de Ruidera")
+![laguna lengua de ruidera](https://fotos.etheriamagazine.com/2020/11/ciudad-real-Laguna-Lengua-Ruidera.jpg "Aguas azul turquesa de la Laguna Lengua. © Parque Natural de las Lagunas de Ruidera")
 
 Este pequeño paraíso es otro de los maravillosos secretos por descubrir en esta 
 excepcional tierra. Pero existen muchos más rincones que merecerían estar entre las 
@@ -195,7 +195,7 @@ Valdepeñas, Campo de Criptana (puedes leer: ["Ruta Saritísima por Campo de
 Criptana"](https://etheriamagazine.com/2019/04/08/ruta-sara-montiel-campo-de-criptana/)), 
 el castillo de Alarcos… 
 
-![molinos alcazar de san juan](etheria-images/2020/11/ciudad-real-Gigantes-de-Alcazar-de-San-Juan.jpg "Los 'Gigantes' de Alcázar de San Juan. © Yolanda Cardo")
+![molinos alcazar de san juan](https://fotos.etheriamagazine.com/2020/11/ciudad-real-Gigantes-de-Alcazar-de-San-Juan.jpg "Los 'Gigantes' de Alcázar de San Juan. © Yolanda Cardo")
 
 ## Guía práctica de Ciudad Real
 

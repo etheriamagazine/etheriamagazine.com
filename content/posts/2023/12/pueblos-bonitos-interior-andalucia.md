@@ -1,7 +1,7 @@
 ---
 title: "16 pueblos bonitos del interior de Andalucía para pasar un fin de semana"
 date: 2023-12-29
-coverImage: etheria-images/2023/12/malaga-frigiliana.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/12/malaga-frigiliana.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -16,7 +16,7 @@ disfrutadas en un fin de semana o para que formen parte de tus próximas vacacio
 un vistazo, seguro que no conoces o tienes pendiente algunos... ¡Planifica ya tu próximo 
 viaje! 
 
-![Calle de Frigiliana, en Málaga.](etheria-images/2023/12/malaga-frigiliana.jpg "Calle de Frigiliana, en Málaga. © Turismo de Andalucía.")
+![Calle de Frigiliana, en Málaga.](https://fotos.etheriamagazine.com/2023/12/malaga-frigiliana.jpg "Calle de Frigiliana, en Málaga. © Turismo de Andalucía.")
 
 Las listas de pueblos bonitos de España son muy difíciles de elaborar en cualquier 
 Comunidad Autónoma que se nos ocurra. Pero en Andalucía podría ser interminable, tanto 
@@ -41,7 +41,7 @@ citas del libro. Para completar el acercamiento a la figura de este genial escri
 que visitar la **Casa Museo Zenobia Juan Ramón Jiménez**, que aparece detenida en el 
 tiempo y con objetos cotidianos de su día a día. Su librería es un lugar mágico. 
 
-![Casa Museo Zenobia Juan Ramón Jiménez.](etheria-images/2023/12/huelva-moguer-casa-juan-ramon-jimenez.jpg "Casa Museo Zenobia Juan Ramón Jiménez. © Turismo de Andalucía.")
+![Casa Museo Zenobia Juan Ramón Jiménez.](https://fotos.etheriamagazine.com/2023/12/huelva-moguer-casa-juan-ramon-jimenez.jpg "Casa Museo Zenobia Juan Ramón Jiménez. © Turismo de Andalucía.")
 
 ### Aracena
 
@@ -56,7 +56,7 @@ construida por la Orden del Temple.
 ✅ Sigue leyendo en [Sierra de Aracena y Jabugo, una escapada 100% 
 bellota](https://etheriamagazine.com/2019/06/27/viaje-amigas-huelva-ruta-jamon-jabugo-aracena/) 
 
-![Castillo de Aracena.](etheria-images/2023/12/huelva-aracena-castillo.jpg "Castillo de Aracena. © Turismo de Andalucía.")
+![Castillo de Aracena.](https://fotos.etheriamagazine.com/2023/12/huelva-aracena-castillo.jpg "Castillo de Aracena. © Turismo de Andalucía.")
 
 ## Provincia de Cádiz
 
@@ -75,7 +75,7 @@ Contemporáneo**, donde las obras de arte se integran en la naturaleza.
 ✅ Sigue leyendo en [10 actividades para enamorarte de Vejer de la 
 Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/) 
 
-![Estatua dedicada a las 'cobijadas' en Vejer de la Frontera.](etheria-images/2023/12/cadiz-vejer-cobijada.jpg "Estatua dedicada a las 'cobijadas' en Vejer de la Frontera. © Turismo de Andalucía.")
+![Estatua dedicada a las 'cobijadas' en Vejer de la Frontera.](https://fotos.etheriamagazine.com/2023/12/cadiz-vejer-cobijada.jpg "Estatua dedicada a las 'cobijadas' en Vejer de la Frontera. © Turismo de Andalucía.")
 
 ### Setenil de las Bodegas
 
@@ -92,7 +92,7 @@ ermita de Nuestra Señora del Carmen, del siglo XVIII.
 ✅ Sigue leyendo en [Excursión a Setenil de las Bodegas: qué ver en este precioso pueblo 
 blanco de Cádiz](https://etheriamagazine.com/2022/07/22/que-ver-setenil-de-las-bodegas/) 
 
-![calle bajo la roca en Setenil](etheria-images/2022/07/Setenil-cuevas-sombra.jpg "Calle de las Cuevas de la Sombra, en Setenil de las Bodegas. © SG")
+![calle bajo la roca en Setenil](https://fotos.etheriamagazine.com/2022/07/Setenil-cuevas-sombra.jpg "Calle de las Cuevas de la Sombra, en Setenil de las Bodegas. © SG")
 
 ## Provincia de Málaga
 
@@ -111,7 +111,7 @@ los cristianos de 1569.
 ✅ Sigue leyendo en [Un día en Frigiliana, uno de los pueblos más bonitos de 
 Málaga](https://etheriamagazine.com/2021/12/15/que-ver-excursion-a-frigiliana/) 
 
-![casas blancas en Frigiliana en Málaga](etheria-images/2023/03/Malaga-Frigiliana-calle-barrio-alto.jpg "Calle de Frigiliana. © SG")
+![casas blancas en Frigiliana en Málaga](https://fotos.etheriamagazine.com/2023/03/Malaga-Frigiliana-calle-barrio-alto.jpg "Calle de Frigiliana. © SG")
 
 ### Ronda
 
@@ -126,7 +126,7 @@ una gastronomía de diez.
 ✅ Sigue leyendo en [Ronda con amigas, pistas para gozar al 
 máximo](https://etheriamagazine.com/2021/11/23/planes-en-ronda-con-amigas/) 
 
-![El Puente Nuevo de Ronda.](etheria-images/2023/03/malaga-ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
+![El Puente Nuevo de Ronda.](https://fotos.etheriamagazine.com/2023/03/malaga-ronda-puente-nuevo.jpg "El Puente Nuevo de Ronda.")
 
 ## Provincia de Sevilla
 
@@ -144,7 +144,7 @@ por los bares de Carmona.
 ✅ Sigue leyendo en [Carmona, Itálica y Doñana, una trilogía hispalense para un fin de 
 semana](https://etheriamagazine.com/2020/07/13/viajes-por-espana-trilogia-hispalense-donana-italica-y-carmona/) 
 
-![Carmona](etheria-images/2023/12/sevilla-Carmona.jpg "Carmona. © Turismo de Andalucía.")
+![Carmona](https://fotos.etheriamagazine.com/2023/12/sevilla-Carmona.jpg "Carmona. © Turismo de Andalucía.")
 
 ### Osuna
 
@@ -160,7 +160,7 @@ dedicado a esta serie que tuvo a Osuna entre sus escenarios.
 ✅ Sigue leyendo en [10 experiencias sorprendentes en Caminos de 
 Pasión](https://etheriamagazine.com/2022/04/04/semana-santa-caminos-de-pasion/) 
 
-![Colegiata de Osuna.](etheria-images/2023/12/osuna-colegiata.jpg "Colegiata de Osuna. © Turismo de Andalucía.")
+![Colegiata de Osuna.](https://fotos.etheriamagazine.com/2023/12/osuna-colegiata.jpg "Colegiata de Osuna. © Turismo de Andalucía.")
 
 ## Provincia de Córdoba
 
@@ -173,7 +173,7 @@ lleno de flores son el castillo árabe, las Carnicerías Reales, de estilo manie
 Fuente del Rey y el Sagrario de la iglesia de la Asunción, todo un ejemplo del barroco 
 cordobés. 
 
-![Priego de Córdoba.](etheria-images/2023/12/cordoba-Priego.jpg "Priego de Córdoba. © Turismo de Andalucía.")
+![Priego de Córdoba.](https://fotos.etheriamagazine.com/2023/12/cordoba-Priego.jpg "Priego de Córdoba. © Turismo de Andalucía.")
 
 ### Lucena
 
@@ -183,7 +183,7 @@ origen judío, la iglesia de Santiago y la parroquia de San Mateo, donde es fác
 quedarse deslumbrada por los seiscientos espejos de su Sagrario, de estilo rococó. Como 
 dato curioso, Lucena tiene la necrópolis excavada más grande de la Península Ibérica. 
 
-![Lucena](etheria-images/2023/12/cordoba-lucena.jpg "Lucena. © Turismo de Andalucía.")
+![Lucena](https://fotos.etheriamagazine.com/2023/12/cordoba-lucena.jpg "Lucena. © Turismo de Andalucía.")
 
 ## Provincia de Jaén
 
@@ -202,7 +202,7 @@ iglesia de San Pablo.
 ✅ Sigue leyendo en [Guía esencial de Úbeda para un fin de semana 
 histórico](https://etheriamagazine.com/2022/11/08/que-ver-ubeda/) 
 
-![Calle de Úbeda.](etheria-images/2023/12/jaen-Ubeda.jpg "Calle de Úbeda. © Turismo de Andalucía.")
+![Calle de Úbeda.](https://fotos.etheriamagazine.com/2023/12/jaen-Ubeda.jpg "Calle de Úbeda. © Turismo de Andalucía.")
 
 ### Cazorla
 
@@ -215,7 +215,7 @@ sus pozas. Tampoco hay que perderse el Castillo de la Yedra, que marca su perfil
 ruinas de la iglesia Mayor de Santa María (con la singular construcción de la bóveda del 
 río Cerezuelo) y la bonita plaza de la Corredera. 
 
-![Cazorla](etheria-images/2023/12/jaen-Cazorla.jpg "Cazorla. © Turismo de Andalucía.")
+![Cazorla](https://fotos.etheriamagazine.com/2023/12/jaen-Cazorla.jpg "Cazorla. © Turismo de Andalucía.")
 
 ## Provincia de Granada
 
@@ -228,7 +228,7 @@ la iglesia de Santiago y, por supuesto, su Teatro Romano. Además, no hay que pe
 curioso **barrio de las Cuevas** y, en los alrededores, el Parque Megalítico de Gorafe y 
 el castillo de Calahorra. 
 
-![Mirador de las Balas de Guadix.](etheria-images/2023/12/guadix-mirador-balas.jpg "Mirador de las Balas de Guadix. © Turismo de Andalucía.")
+![Mirador de las Balas de Guadix.](https://fotos.etheriamagazine.com/2023/12/guadix-mirador-balas.jpg "Mirador de las Balas de Guadix. © Turismo de Andalucía.")
 
 ### Órgiva
 
@@ -242,7 +242,7 @@ de los pueblos de la zona, se ha tenido que adaptar al desnivel del terreno, por
 sus calles empedradas merecen ser recorridas con calma, sobre todo en el Barrio Alto, 
 que conserva la arquitectura tradicional de la Alpujarra. 
 
-![Órgiva](etheria-images/2023/12/Granada-Orgiva.jpg "Órgiva es uno de los pueblos de la Alpujarra granadina. © Turismo de Andalucía.")
+![Órgiva](https://fotos.etheriamagazine.com/2023/12/Granada-Orgiva.jpg "Órgiva es uno de los pueblos de la Alpujarra granadina. © Turismo de Andalucía.")
 
 ## Provincia de Almería
 
@@ -256,7 +256,7 @@ tomando algo en la Plaza Nueva. No hay que perderse sus miradores, que ofrecen u
 preciosa vista de la costa, situada a tan solo tres kilómetros, un lugar para disfrutar 
 de sus **playas** y su Paseo Marítimo. 
 
-![Mojácar al atardecer.](etheria-images/2023/12/almeria-Mojacar.jpg "Mojácar al atardecer. © Turismo de Andalucía.")
+![Mojácar al atardecer.](https://fotos.etheriamagazine.com/2023/12/almeria-Mojacar.jpg "Mojácar al atardecer. © Turismo de Andalucía.")
 
 ### Níjar
 
@@ -270,7 +270,7 @@ locales y productos gastronómicos. Y, si quieres completar la visita al pueblo,
 hacerlo con una ruta por el parque El Albardinal para disfrutar de la naturaleza o 
 aprender algo más de las estrellas en el Observatorio Astronómico de Calar Alto. 
 
-![Níjar](etheria-images/2023/12/granada-nijar.jpg "Níjar. © Turismo de Andalucía.")
+![Níjar](https://fotos.etheriamagazine.com/2023/12/granada-nijar.jpg "Níjar. © Turismo de Andalucía.")
 
 **También te puede interesar:** 
 

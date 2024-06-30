@@ -1,7 +1,7 @@
 ---
 title: "10 exposiciones para visitar en Madrid esta primavera de 2024"
 date: 2024-03-18
-coverImage: etheria-images/2024/03/exposiciones-madrid-thyssen-Salas_Isabel-Quintanilla.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-thyssen-Salas_Isabel-Quintanilla.jpg
 categories: 
   - de-un-vistazo
   - exposiciones
@@ -17,7 +17,7 @@ una lista con diez de las que más nos han llamado la atención, aunque te asegu
 es imposible reflejar en un solo artículo todo lo que pasa en los museos y salas de la 
 capital. 
 
-![Sala de la exposición de Isabel Quintanilla en el Museo Thyssen-Bornemisza.](etheria-images/2024/03/exposiciones-madrid-thyssen-Salas_Isabel-Quintanilla.jpg "Sala de la exposición de Isabel Quintanilla en el © Museo Thyssen-Bornemisza.")
+![Sala de la exposición de Isabel Quintanilla en el Museo Thyssen-Bornemisza.](https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-thyssen-Salas_Isabel-Quintanilla.jpg "Sala de la exposición de Isabel Quintanilla en el © Museo Thyssen-Bornemisza.")
 
 Llega la primavera y con ella aumentan las ganas de hacer planes para salir de casa. 
 Tanto si eres madrileña como si estás de visita, acercarse a las diferentes propuestas 
@@ -38,7 +38,7 @@ porcelana, que conversan con piezas de la colección del museo. La temática de 
 exposición se centra en el amor romántico en el contexto de las redes sociales puesto 
 frente a las relaciones tóxicas. 
 
-!['Love Profussion' de Noemí Iglesias Barrios.](etheria-images/2024/03/madrid-exposiciones-thyssen-noemi-iglesias-love-profussion.jpg "'Love Profussion' de Noemí Iglesias Barrios. © Museo Thyssen Bornemisza.")
+!['Love Profussion' de Noemí Iglesias Barrios.](https://fotos.etheriamagazine.com/2024/03/madrid-exposiciones-thyssen-noemi-iglesias-love-profussion.jpg "'Love Profussion' de Noemí Iglesias Barrios. © Museo Thyssen Bornemisza.")
 
 Cuándo: hasta el 28 de abril de 2024. Dónde: Museo Thyssen-Bornemisza. Salas de 
 exposiciones de la primera planta (53 a 56) y sala 45 de la colección permanente. Paseo 
@@ -56,7 +56,7 @@ puede observar su excelente técnica. Además, en una de las salas se pueden adm
 obras de las tres artistas con las que Isabel compartió profesión y amistad: Esperanza 
 Parada, María Moreno y Amalia Avia. 
 
-![cuadro ‘Homenaje a mi madre’ de Isabel Quintanilla.](etheria-images/2024/03/exposiciones-madrid-isabel-quintanilla-homenaje.jpg "‘Homenaje a mi madre’, Isabel Quintanilla. © bkp/Bayerische Staatsgemäldesammlungen.")
+![cuadro ‘Homenaje a mi madre’ de Isabel Quintanilla.](https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-isabel-quintanilla-homenaje.jpg "‘Homenaje a mi madre’, Isabel Quintanilla. © bkp/Bayerische Staatsgemäldesammlungen.")
 
 Cuándo: hasta el 2 de junio de 2024. Dónde: Museo Thyssen-Bornemisza. Paseo del Prado, 
 8. Madrid. Precio: 13 Euros. Entrada única para colección permanente y exposiciones 
@@ -73,7 +73,7 @@ temas en este proceso de transformación. Algunos artistas destacados en este es
 fueron Joaquín Sorolla, Darío de Regoyos, Isidro Nonell y Pablo Picasso, que enlazó 
 estos temas con la renovación más moderna vigente en otras capitales europeas. 
 
-![cuadro 'Una huelga de obreros en Vizcaya' de Vicente Cutanda.](etheria-images/2024/03/exposiciones-madrid-prado-Vicente-Cutanda.jpg "'Una huelga de obreros en Vizcaya' de Vicente Cutanda. © Museo Nacional del Prado")
+![cuadro 'Una huelga de obreros en Vizcaya' de Vicente Cutanda.](https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-prado-Vicente-Cutanda.jpg "'Una huelga de obreros en Vizcaya' de Vicente Cutanda. © Museo Nacional del Prado")
 
 Cuándo: del 21 de mayo al 22 de septiembre de 2024. Dónde: Museo Nacional del Prado. 
 Salas A, B, C y D del Edificio Jerónimos. Paseo del Prado, s/n. Precio: 15 Euros 
@@ -106,7 +106,7 @@ propiedades expresivas de la materia y sus reflexiones sobre el arte. El nombre 
 muestra viene de la primera compilación de sus escritos _La práctica del arte_, 
 publicada en 1970. 
 
-![Sala de la exposición sobre Antoni Tàpies en el Museo Reina Sofía.](etheria-images/2024/03/exposiciones-madrid-tapies-Museo-Reina-Sofia.jpg "Sala de la exposición sobre Antoni Tàpies en el © Museo Reina Sofía.")
+![Sala de la exposición sobre Antoni Tàpies en el Museo Reina Sofía.](https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-tapies-Museo-Reina-Sofia.jpg "Sala de la exposición sobre Antoni Tàpies en el © Museo Reina Sofía.")
 
 Cuándo: hasta el 24 de junio de 2024. Dónde: Museo Reina Sofía. Edificio Sabatini, 4ª 
 planta. Calle Santa Isabel, 52. Madrid. Precio: 12 Euros (entrada general al museo). 
@@ -137,7 +137,7 @@ tienen cabida las más diversas disciplinas e interpretaciones de los artistas q
 estructuran en torno a distintos temas como “Desbordamientos de lo reprimido”, “Fugas y 
 residuos hedonistas” o “Prótesis sensoriales”. 
 
-!['Spa profundo' de la exposición Wet Dreams.](etheria-images/2024/03/exposiciones-madrid-wet-dreams-Spa-Profundo.jpg "'Spa profundo' de la exposición Wet Dreams. © La Cuarta Piel.")
+!['Spa profundo' de la exposición Wet Dreams.](https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-wet-dreams-Spa-Profundo.jpg "'Spa profundo' de la exposición Wet Dreams. © La Cuarta Piel.")
 
 Cuándo: hasta el 25 de agosto de 2024. Dónde: CentroCentro. Planta 3. Plaza de Cibeles, 
 1. Madrid. Precio: entrada libre. 
@@ -152,7 +152,7 @@ establece un diálogo con las veintiuna cartas autógrafas de Cristóbal Colón 
 hallan en la colección de la Casa de Alba. Una interesante y original forma de 
 relacionar los viajes de Colón con la conquista del espacio. 
 
-![Sala de la exposición Un Nuevo Mundo.](etheria-images/2024/03/exposiciones-madrid-Un-Nuevo-Mundo-Casa-de-Alba.jpg "Sala de la exposición Un Nuevo Mundo. © Fundación Casa de Alba.")
+![Sala de la exposición Un Nuevo Mundo.](https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-Un-Nuevo-Mundo-Casa-de-Alba.jpg "Sala de la exposición Un Nuevo Mundo. © Fundación Casa de Alba.")
 
 Dónde: Palacio de Liria. Calle Princesa, 20. Madrid. Precio: 7 Euros. Incluido con la 
 adquisición de entradas al palacio o a otra exposición temporal. 
@@ -168,7 +168,7 @@ costa mediterránea de Francia. Un auténtico paseo por su obra que ha sido posi
 gracias a la colaboración de la Fundación MAPFRE con el Musée National Chagall de Niza y 
 con La Piscine-Musée d’Art et d’Industrie André Diligent. 
 
-![cuadro 'El vendedor de ganado' de Chagall.](etheria-images/2024/03/exposiciones-madrid-chagall-vendedor-ganado.jpg "'El vendedor de ganado' de Chagall. © Centre Pompidou, MNAM-CCI, Dist. RMN-Grand Palais / Philippe Migeat.")
+![cuadro 'El vendedor de ganado' de Chagall.](https://fotos.etheriamagazine.com/2024/03/exposiciones-madrid-chagall-vendedor-ganado.jpg "'El vendedor de ganado' de Chagall. © Centre Pompidou, MNAM-CCI, Dist. RMN-Grand Palais / Philippe Migeat.")
 
 Cuándo: hasta el 5 de mayo de 2024. Dónde. Fundación MAPFRE. Sala Recoletos. Paseo de 
 Recoletos, 23. Madrid. Precio: 5 Euros la entrada general. 
@@ -183,7 +183,7 @@ ilustrar que tenían los persas, que hacen de casi cada página una obra de arte
 de su innegable valor estético, estos libros nos llevan a través de la historia y la 
 cultura persa, tan poco conocida en Occidente. 
 
-![Manuscrito persa de la Biblioteca Nacional.](etheria-images/2024/03/exposicones-madrid-manuscritos-persas-bne.jpg "Manuscrito persa de la Biblioteca Nacional. © BNE")
+![Manuscrito persa de la Biblioteca Nacional.](https://fotos.etheriamagazine.com/2024/03/exposicones-madrid-manuscritos-persas-bne.jpg "Manuscrito persa de la Biblioteca Nacional. © BNE")
 
 Cuándo: hasta el 11 de mayo. Dónde: Biblioteca Nacional. Antesala del Salón de Lectura 
 Mª Moliner. Pº de Recoletos 20-22. Madrid. Precio: entrada gratuita. 

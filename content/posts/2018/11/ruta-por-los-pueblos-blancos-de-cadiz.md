@@ -1,7 +1,7 @@
 ---
 title: "12 pueblos blancos de la Sierra Cádiz que debes incluir en tu ruta"
 date: 2018-11-02
-coverImage: etheria-images/2018/10/5-Zahara-de-la-sierra-pueblos-blancos-cadiz-e1556353254846.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/10/5-Zahara-de-la-sierra-pueblos-blancos-cadiz-e1556353254846.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -16,7 +16,7 @@ sus buganvillas y geranios por doquier, fuentes donde el agua brota helada y un 
 declarado Reserva de la Biosfera. Y esto es sólo un adelanto de la cultura, la historia 
 y la gastronomía que te espera en estas doce perlas. 
 
-![Setenil de las bodegas pueblos blancos cadiz](etheria-images/2018/10/1-Setenil-de-las-bodegas-pueblos-blancos-cadiz-e1556353671335.jpg "Setenil de las Bodegas. © Pepa García")
+![Setenil de las bodegas pueblos blancos cadiz](https://fotos.etheriamagazine.com/2018/10/1-Setenil-de-las-bodegas-pueblos-blancos-cadiz-e1556353671335.jpg "Setenil de las Bodegas. © Pepa García")
 
 ```
 Actualizado 11/ 2023
@@ -52,7 +52,7 @@ entorno.
 **No te pierdas:** [Qué ver en Setenil de las 
 Bodegas](https://etheriamagazine.com/2022/07/22/que-ver-setenil-de-las-bodegas/). 
 
-![alcala del valle, ruta pueblos blancos, sierra de cadiz](etheria-images/2018/10/2-Alcala-del-valle-cadiz-e1556353709154.jpg "Alcalá del Valle. © Pepa García")
+![alcala del valle, ruta pueblos blancos, sierra de cadiz](https://fotos.etheriamagazine.com/2018/10/2-Alcala-del-valle-cadiz-e1556353709154.jpg "Alcalá del Valle. © Pepa García")
 
 ## Alcalá del Valle
 
@@ -61,7 +61,7 @@ encontrarás muchos atascos ni turistas. Merece la pena visitar la iglesia de Sa
 del Valle, con una fachada barroca escalonada, y los Dólmenes del Tomillo, un conjunto 
 megalítico con un tipo de menhir que es único en la provincia. 
 
-![torre alhaquime ruta pueblos blancos](etheria-images/2018/10/Torre-alhaquime-pueblos-blancos-e1556353745807.jpg "Vistas desde las murallas de Torre Alháquime. © Pepa García")
+![torre alhaquime ruta pueblos blancos](https://fotos.etheriamagazine.com/2018/10/Torre-alhaquime-pueblos-blancos-e1556353745807.jpg "Vistas desde las murallas de Torre Alháquime. © Pepa García")
 
 ## Torre Alháquime
 
@@ -74,7 +74,7 @@ los bandoleros, aquí nació un hijo del legendario José María El Tempranillo.
 es la localidad más visitada de esta zona pero merece la pena incluirla en tu ruta de 
 los pueblos blancos de Cádiz. 
 
-![olvera ruta pueblos blancos](etheria-images/2018/10/4-Olvera-pueblo-blanco-e1556353221752.jpg "Panorámica desde la fortaleza de Olvera. © Pepa García")
+![olvera ruta pueblos blancos](https://fotos.etheriamagazine.com/2018/10/4-Olvera-pueblo-blanco-e1556353221752.jpg "Panorámica desde la fortaleza de Olvera. © Pepa García")
 
 ## Olvera
 
@@ -85,7 +85,7 @@ lugar para casas palaciegas, iglesias y arquitectura popular. No dejes de subir 
 fortaleza, ya que las vistas son excepcionales. Para tapear o comer un bar recomendable 
 es Juanito Gómez (Calle Bellavista, 1), que sirve una comida casera a buen precio. 
 
-![zahara de la sierra cadiz](etheria-images/2018/10/5-Zahara-de-la-sierra-pueblos-blancos-cadiz-e1556353254846.jpg "Zahara de la Sierra. © Pepa García")
+![zahara de la sierra cadiz](https://fotos.etheriamagazine.com/2018/10/5-Zahara-de-la-sierra-pueblos-blancos-cadiz-e1556353254846.jpg "Zahara de la Sierra. © Pepa García")
 
 ## Zahara de la Sierra
 
@@ -96,7 +96,7 @@ Sierra es aconsejable combinar el placer de pasear por sus calles y disfrutar de
 ambiente de sus terrazas, con el de practicar algún deporte en el **embalse Zahara-El 
 Gastor** y darse un baño en la playa artificial del área recreativa Arroyomolinos. 
 
-![algodonales ruta pueblos blancos](etheria-images/2018/10/6-Algodonales-pueblos-blancos-cadiz-e1556353290495.jpg "Iglesia de Algodonales. © Pepa García")
+![algodonales ruta pueblos blancos](https://fotos.etheriamagazine.com/2018/10/6-Algodonales-pueblos-blancos-cadiz-e1556353290495.jpg "Iglesia de Algodonales. © Pepa García")
 
 ## Algodonales
 
@@ -108,7 +108,7 @@ Algodonales). Por supuesto, también hay que visitar el núcleo urbano y probar 
 sus recetas típicas, como el potaje de tagarninas, el gañote, los pestiños y la pasta 
 flora. 
 
-![grazalema pueblos blancos](etheria-images/2018/10/7-Grazalema-pueblos-blancos-cadizs-e1556353317769.jpg "Grazalema. © Pepa García")
+![grazalema pueblos blancos](https://fotos.etheriamagazine.com/2018/10/7-Grazalema-pueblos-blancos-cadizs-e1556353317769.jpg "Grazalema. © Pepa García")
 
 ## Grazalema
 
@@ -122,7 +122,7 @@ este es un buen lugar para adquirir auténticas mantas de lana de oveja. Si la v
 coincide con la comida no dudéis en pedir algún plato de caza, cordero o conejo de 
 campo. 
 
-![Villaluenga del rosario cadiz](etheria-images/2018/10/8-Villaluega-del-rosario-pueblos-blancos-cadiz-e1556353343604.jpg "Calles de Villaluenga del Rosario. © Pepa García")
+![Villaluenga del rosario cadiz](https://fotos.etheriamagazine.com/2018/10/8-Villaluega-del-rosario-pueblos-blancos-cadiz-e1556353343604.jpg "Calles de Villaluenga del Rosario. © Pepa García")
 
 ## Villaluenga del Rosario
 
@@ -135,7 +135,7 @@ tenías en mente comprar queso, este es el lugar. Los **quesos artesanos de cabr
 de Villaluenga** (payoyo.com) son los más reconocidos. No pierdas tampoco la oportunidad 
 de probar la perdiz en salsa campera, el conejo almendrado o la torta de chicharrones. 
 
-![Benaocaz ruta pueblos blancos](etheria-images/2018/10/9-Benaocaz-pueblos-blancos-cadiz-e1556353370254.jpg "Calle de Benaocaz con la parroquia al fondo. © Pepa García")
+![Benaocaz ruta pueblos blancos](https://fotos.etheriamagazine.com/2018/10/9-Benaocaz-pueblos-blancos-cadiz-e1556353370254.jpg "Calle de Benaocaz con la parroquia al fondo. © Pepa García")
 
 ## Benaocaz
 
@@ -146,7 +146,7 @@ esmeran en ofrecer un espectáculo floral. Las casas encaladas contrastan con ot
 exhalan un aire de nobleza y señorío dieciochesco. En sus inmediaciones se encuentra la 
 calzada romana que unía esta población con Ubrique, un paseo natural muy recomendable. 
 
-![ubrique sierra de cadiz](etheria-images/2018/10/10-Ubrique-bolsos-pueblos-blancos-e1556353397853.jpg "La principal actividad de Ubrique es la elaboración de objetos de piel. © Pepa García")
+![ubrique sierra de cadiz](https://fotos.etheriamagazine.com/2018/10/10-Ubrique-bolsos-pueblos-blancos-e1556353397853.jpg "La principal actividad de Ubrique es la elaboración de objetos de piel. © Pepa García")
 
 ## Ubrique
 
@@ -165,7 +165,7 @@ tiendas** en Ubrique. Aquí se pueden comprar artículos de excelente calidad a 
 precio (en sus talleres se realizan los complementos de las mejores firmas 
 internacionales). 
 
-![arcos de la frontera ruta pueblos blancos](etheria-images/2018/10/11-Arcos-de-la-frontera-pueblos-blancos-cadiz-e1556353428540.jpg "Arcos de la Frontera. © Pepa García")
+![arcos de la frontera ruta pueblos blancos](https://fotos.etheriamagazine.com/2018/10/11-Arcos-de-la-frontera-pueblos-blancos-cadiz-e1556353428540.jpg "Arcos de la Frontera. © Pepa García")
 
 ## Arcos de la Frontera
 
@@ -179,7 +179,7 @@ dejéis de probar alguno de sus platos 'de huerta' como la alboronía, el potaje
 acelgas, los alcauciles rellenos o el típico ajo molinero. Y si os va lo dulce, las 
 pastas de las monjas mercedarias son una delicia. 
 
-![vejer de la frontera pueblos blancos cadiz](etheria-images/2018/10/Vejer-pueblos-blancos-e1556353456337.jpg "Patio de Vejer de la Frontera. © Pepa García")
+![vejer de la frontera pueblos blancos cadiz](https://fotos.etheriamagazine.com/2018/10/Vejer-pueblos-blancos-e1556353456337.jpg "Patio de Vejer de la Frontera. © Pepa García")
 
 ## Vejer de la Frontera
 

@@ -1,7 +1,7 @@
 ---
 title: "El Museo del Louvre en dos horas, un viaje exprés por el arte"
 date: 2023-08-08
-coverImage: etheria-images/2023/08/paris-louvre-delacroix-mujeres-argel.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/08/paris-louvre-delacroix-mujeres-argel.jpg
 categories: 
   - exposiciones
   - visitas-guiadas
@@ -14,7 +14,7 @@ tantas horas como quieras o incluso visitarlo varias veces. Como sabemos que en 
 viajes a veces apremia el tiempo más de lo que nos gustaría, hemos preparado una ruta de 
 dos horas por algunas obras tanto de pintura como de escultura que no puedes perderte. 
 
-![pirámide de cristal del Museo del Louvre en París](etheria-images/2023/08/paris-louvre-piramide.jpg "Patio interior del Museo del Louvre con su famosa pirámide de cristal.")
+![pirámide de cristal del Museo del Louvre en París](https://fotos.etheriamagazine.com/2023/08/paris-louvre-piramide.jpg "Patio interior del Museo del Louvre con su famosa pirámide de cristal.")
 
 El Museo del Louvre es una de las visitas imprescindibles si viajas a París. Alberga 
 algunas de las obras claves en la historia del arte occidental y el placer de 
@@ -34,7 +34,7 @@ siguientes visitas te va a apetecer volver al Louvre, y ya podrás centrarte en 
 o autor concreto. Los grandes museos es lo que tienen, permiten decenas de visitas cada 
 una diferente y a cuál más interesante. 
 
-!['Mujeres de Argel en su apartamento' de Eugène Delacroix.](etheria-images/2023/08/paris-louvre-delacroix-mujeres-argel.jpg "'Mujeres de Argel en su apartamento' de Eugène Delacroix. © Susana García")
+!['Mujeres de Argel en su apartamento' de Eugène Delacroix.](https://fotos.etheriamagazine.com/2023/08/paris-louvre-delacroix-mujeres-argel.jpg "'Mujeres de Argel en su apartamento' de Eugène Delacroix. © Susana García")
 
 ## Historia del Museo del Louvre
 
@@ -54,7 +54,7 @@ arquitecto Louis Le Vau; y su popular **pirámide de cristal**, que se lleva tod
 fotos y _selfies_, se inauguró en 1989 y es obra del arquitecto chino-estadounidense 
 Ieoh Ming Pei. 
 
-![Fragmento del Friso del Palacio de Darío I en Susa en el Museo del Louvre](etheria-images/2023/08/paris-louvre-friso-arqueros-dario.jpg "Fragmento del Friso del Palacio de Darío I en Susa. © SG")
+![Fragmento del Friso del Palacio de Darío I en Susa en el Museo del Louvre](https://fotos.etheriamagazine.com/2023/08/paris-louvre-friso-arqueros-dario.jpg "Fragmento del Friso del Palacio de Darío I en Susa. © SG")
 
 ## Estructura del museo
 
@@ -80,7 +80,7 @@ derecha. Esta obra escultórica de Jean Goujon era parte de la decoración del m
 salón de baile que ocupan, que se concibió cuando Enrique II transformó el castillo 
 medieval en palacio renacentista. Su función era sostener la tribuna para los músicos. 
 
-![Las Cariátides en el Museo del Louvre.](etheria-images/2023/08/paris-louvre-cariatides.jpg "Las Cariátides en el Museo del Louvre. © Susana García")
+![Las Cariátides en el Museo del Louvre.](https://fotos.etheriamagazine.com/2023/08/paris-louvre-cariatides.jpg "Las Cariátides en el Museo del Louvre. © Susana García")
 
 ### La Venus de Milo
 
@@ -92,7 +92,7 @@ donó al museo en un momento en el que Francia se había visto obligada a devolv
 cinco mil obras saqueadas durante las conquistas de Napoleón. Una afrodita sin brazos 
 que se ha convertido en todo un icono de masas. 
 
-![La Venus de Milo en el museo del Louvre](etheria-images/2023/08/paris-louvre-venus-milo.jpg "La Venus de Milo es una de las obras más admiradas del Museo del Louvre. © SG")
+![La Venus de Milo en el museo del Louvre](https://fotos.etheriamagazine.com/2023/08/paris-louvre-venus-milo.jpg "La Venus de Milo es una de las obras más admiradas del Museo del Louvre. © SG")
 
 ### Victoria de Samotracia
 
@@ -105,7 +105,7 @@ vista de tres cuartos por el lado izquierdo– que no puedes dejar de mirarla. Q
 delicadeza de las trasparencias de su ropa, el movimiento que aporta el imaginario 
 viento que la enfrenta o las inmensas alas. 
 
-![La Victoria de Samotracia en el Museo del Louvre](etheria-images/2023/08/paris-louvre-victoria-samotracia.jpg "La Victoria de Samotracia se lleva todas las miradas. © SG")
+![La Victoria de Samotracia en el Museo del Louvre](https://fotos.etheriamagazine.com/2023/08/paris-louvre-victoria-samotracia.jpg "La Victoria de Samotracia se lleva todas las miradas. © SG")
 
 ### Los frescos de Boticelli
 
@@ -117,7 +117,7 @@ aparecieron en 1873 al retirar una capa de cal. Muestran, como tema habitual en 
 época artística, a la que parece ser la joven de la casa rodeada de alegorías y heroínas 
 de la antigüedad clásica. 
 
-![Fragmento de los frescos de Botticelli del Museo del Louvre.](etheria-images/2023/08/paris-louvre-fresco-boticelli.jpg "Fragmento de los frescos de Botticelli del Museo del Louvre. © SG")
+![Fragmento de los frescos de Botticelli del Museo del Louvre.](https://fotos.etheriamagazine.com/2023/08/paris-louvre-fresco-boticelli.jpg "Fragmento de los frescos de Botticelli del Museo del Louvre. © SG")
 
 ### La Gran Galería
 
@@ -128,7 +128,7 @@ la **Gran Galería** (sala 710) con una colección maravillosa de pintura italia
 la que destacan las 27 obras que alberga de Leonardo da Vinci. No te pierdas la 
 serenidad de los rostros de su “Virgen de las Rocas”. 
 
-![La Gran Galería del Museo del Louvre](etheria-images/2023/08/paris-louvre-gran-galeria.jpg "La Gran Galería alberga las obras de arte de Leonardo da Vinci, entre otros autores. © SG")
+![La Gran Galería del Museo del Louvre](https://fotos.etheriamagazine.com/2023/08/paris-louvre-gran-galeria.jpg "La Gran Galería alberga las obras de arte de Leonardo da Vinci, entre otros autores. © SG")
 
 ### La Gioconda
 
@@ -138,7 +138,7 @@ de Leonardo da Vinci. No está muy claro quién es la persona representada en es
 que siempre acompañaba a Da Vinci y que retocó varias veces, aunque se piensa que es 
 Lisa Gherardini, esposa de Francesco del Giocondo. 
 
-![La Monna Lisa](etheria-images/2023/08/paris-louvre-gioconda.jpg "La Gioconda, la obra más visitada del Museo del Louvre. © SG")
+![La Monna Lisa](https://fotos.etheriamagazine.com/2023/08/paris-louvre-gioconda.jpg "La Gioconda, la obra más visitada del Museo del Louvre. © SG")
 
 Fíjate en la enigmática sonrisa, que parece cambiar según la perspectiva, y del fondo 
 difuminado con la técnica renacentista del _sfumato_. Para contemplar de cerca este 
@@ -160,7 +160,7 @@ la Medusa', de Thèodore Gèricault, es un cuadro lleno de detalles donde la luz
 expresividad de los personajes y la definición del dibujo son los protagonistas de esta 
 estampa agónica de un naufragio. 
 
-!['La Libertad guiando al pueblo' de Eugène Delacroix](etheria-images/2023/08/paris-louvre-delacroix-libertad-guiando-pueblo.jpg "'La Libertad guiando al pueblo' de Eugène Delacroix. © SG")
+!['La Libertad guiando al pueblo' de Eugène Delacroix](https://fotos.etheriamagazine.com/2023/08/paris-louvre-delacroix-libertad-guiando-pueblo.jpg "'La Libertad guiando al pueblo' de Eugène Delacroix. © SG")
 
 ### Escultura: los esclavos de Miguel Ángel y Psique reanimada por el beso del Amor
 
@@ -173,7 +173,7 @@ una de las obras más delicadas de la historia de la escultura: 'Psique reanimad
 beso del Amor', de Antonio Cánova. Una obra que retrata el justo instante en el que la 
 diosa vuelve a la vida y que atrae todas las miradas. 
 
-!['Psique reanimada por el beso del Amor', de Antonio Cánova](etheria-images/2023/08/paris-louvre-psique-reanimada-beso.jpg "'Psique reanimada por el beso del Amor', de Antonio Cánova. © SG")
+!['Psique reanimada por el beso del Amor', de Antonio Cánova](https://fotos.etheriamagazine.com/2023/08/paris-louvre-psique-reanimada-beso.jpg "'Psique reanimada por el beso del Amor', de Antonio Cánova. © SG")
 
 ### La Gran Esfinge
 
@@ -185,7 +185,7 @@ Tanis (sala 338), una escultura en forma de esfinge egipcia tallada en el año 2
 C., durante el Imperio Antiguo de Egipto. Esta obra inicia la colección de más de 6.000 
 piezas del Egipto faraónico. 
 
-![La Gran Esfinge.](etheria-images/2023/08/paris-louvre-esfinge-tanis.jpg "La Gran Esfinge.")
+![La Gran Esfinge.](https://fotos.etheriamagazine.com/2023/08/paris-louvre-esfinge-tanis.jpg "La Gran Esfinge.")
 
 ### El arte persa: Friso de los arqueros y capitel con cabeza de toro del Palacio de Darío
 
@@ -199,7 +199,7 @@ Audiencias del mismo palacio realizado. Está realizado en piedra caliza y muest
 maestría de la cultura persa en el trabajo de la piedra y las dimensiones de sus 
 maravillosos palacios. 
 
-![Capitel del Palacio de Susa de Dario I que se encuentra en el Museo del Louvre](etheria-images/2023/08/paris-louvre-capitel-persepolis-toros.jpg "Capitel del Palacio de Susa de Dario I que se encuentra en el Museo del Louvre. © SG")
+![Capitel del Palacio de Susa de Dario I que se encuentra en el Museo del Louvre](https://fotos.etheriamagazine.com/2023/08/paris-louvre-capitel-persepolis-toros.jpg "Capitel del Palacio de Susa de Dario I que se encuentra en el Museo del Louvre. © SG")
 
 ### La Galería Médicis
 
@@ -216,7 +216,7 @@ que hacen un total de 300 metros cuadrados de pintura barroca que captarán tu a
 sin remedio. Tú decides cuánto tiempo quieres pasar aquí, podrías incluso dedicar una 
 sola mañana a esta sala. 
 
-![La Galería Médicis en el Museo del Louvre](etheria-images/2023/08/paris-louvre-galeria-medici.jpg "La Galería Médicis en el Museo del Louvre.")
+![La Galería Médicis en el Museo del Louvre](https://fotos.etheriamagazine.com/2023/08/paris-louvre-galeria-medici.jpg "La Galería Médicis en el Museo del Louvre.")
 
 ## Guía práctica del Museo del Louvre
 

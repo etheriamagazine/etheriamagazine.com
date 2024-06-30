@@ -1,7 +1,7 @@
 ---
 title: "Recorre Andalucía a bordo de un crucero por el Guadalquivir"
 date: 2020-07-03
-coverImage: etheria-images/2020/07/crucero-guadalquivir-andalucia.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/07/crucero-guadalquivir-andalucia.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Disfrutar de un crucero sin salir de la Península es posible –y muy aconsejable–, ya que permite admirar la belleza de Andalucía de una forma muy cómoda mientras se surcan las aguas del tranquilo río Guadalquivir. Te contamos nuestra experiencia a bordo y qué lugares se visitan en este crucero fluvial.
 
-![crucero fluvial, Guadalquivir, crucero sevilla](etheria-images/2020/07/crucero-guadalquivir-andalucia-900x619.jpg "MS Belle de Cadix en Sevilla. © Croisi Europe")
+![crucero fluvial, Guadalquivir, crucero sevilla](https://fotos.etheriamagazine.com/2020/07/crucero-guadalquivir-andalucia-900x619.jpg "MS Belle de Cadix en Sevilla. © Croisi Europe")
 
 Recorrer gran parte de las provincias andaluzas haciendo “vida de crucerista” no sólo es 
 sencillo sino, también, muy recomendable para quienes quieren olvidarse del coche, de 
@@ -26,7 +26,7 @@ Bélgica, Alemania, Italia e Inglaterra. Si no has estado antes en este tipo de 
 seguramente te estás preguntando cómo funciona, dónde se embarca, qué incluye, etc. A 
 continuación respondamos a todas estas preguntas. 
 
-![cordoba, crucero guadalquivir, crucero andalucia](etheria-images/2020/07/crucero-guadalquivir-cordoba-puente-900x600.jpg "Puente romano de Córdoba. © Saad Chaudhry")
+![cordoba, crucero guadalquivir, crucero andalucia](https://fotos.etheriamagazine.com/2020/07/crucero-guadalquivir-cordoba-puente-900x600.jpg "Puente romano de Córdoba. © Saad Chaudhry")
 
 ## Crucero por el Guadalquivir en Andalucía
 
@@ -48,7 +48,7 @@ con 178 asientos, pista de baile y bar. Es el centro social por excelencia y don
 realizan las reuniones y las fiestas temáticas de cada día. En dichas fiestas no falta 
 el flamenco ni las sesiones teatrales o de humor. 
 
-![MS Belle de Cadix, crucero guadalquivir, Croisi Europe](etheria-images/2020/07/camarote-croisi-europe-900x630.jpg "Camarote del MS Belle de Cadix. © Croisi Europe")
+![MS Belle de Cadix, crucero guadalquivir, Croisi Europe](https://fotos.etheriamagazine.com/2020/07/camarote-croisi-europe-900x630.jpg "Camarote del MS Belle de Cadix. © Croisi Europe")
 
 Otra opción es darse un baño en la **piscina situada en la cubierta**, que no es muy 
 grande pero que, al menos en nuestro viaje, tampoco era un lugar muy concurrido. Lo que 
@@ -73,7 +73,7 @@ existen las cenas de gala, encuentros con el capitán, etc. Las comidas y cenas 
 incluidas tanto en el barco como en las excursiones, a no ser que se quieran menús 
 especiales o bebidas que no estén contempladas en dichos menús. 
 
-![crucero guadalquivir, sevilla, las setas](etheria-images/2020/07/crucero-guadalquivir-sevilla-900x675.jpg "La plataforma de Las Setas es uno de los mejores miradores de Sevilla. © Mateusz Plinta")
+![crucero guadalquivir, sevilla, las setas](https://fotos.etheriamagazine.com/2020/07/crucero-guadalquivir-sevilla-900x675.jpg "La plataforma de Las Setas es uno de los mejores miradores de Sevilla. © Mateusz Plinta")
 
 ## Cuál es el itinerario del Crucero del Guadalquivir
 
@@ -89,7 +89,7 @@ hispalense con el **Alcázar y la Catedral** incluidos, y el siguiente una excur
 por idiomas, por lo que tendrás un guía en tu propia lengua (confírmalo con la salida 
 que elijas). 
 
-![crucero guadalquivir, visita cordoba](etheria-images/2020/07/crucero-guadalquivir-cordoba-683x1024.jpg "Las calles estrechas y rebosantes de flores son una de las señas de identidad de Córdoba. © Jonathan")
+![crucero guadalquivir, visita cordoba](https://fotos.etheriamagazine.com/2020/07/crucero-guadalquivir-cordoba-683x1024.jpg "Las calles estrechas y rebosantes de flores son una de las señas de identidad de Córdoba. © Jonathan")
 
 ### Navegación hasta Cádiz
 
@@ -105,7 +105,7 @@ una ciudad con un impresionante Alcázar, una bonita Catedral, bellos palacetes 
 y a una **ganadería** en el municipio de Medina Sidonia donde se crían toros de lidia y 
 donde os harán algunas demostraciones los mozos que se encargan de su cuidado. 
 
-![cartuja de jerez, visitas jerez, jerez con amigas](etheria-images/2020/06/viaje-jerez-cartuja.jpg "Cartuja de Jerez.")
+![cartuja de jerez, visitas jerez, jerez con amigas](https://fotos.etheriamagazine.com/2020/06/viaje-jerez-cartuja.jpg "Cartuja de Jerez.")
 
 ### El Puerto de Santa María e Isla Mínima
 
@@ -123,7 +123,7 @@ centenarias. En una de ellas os espera un espectáculo ecuestre seguido de una
 degustación de vinos. ¿Sabías que esta es una de las principales zonas productoras de 
 arroz de España? 
 
-![alhambra, granada, crucero guadalquivir](etheria-images/2020/05/granada-mujeres-alhambra-1-900x588.jpg "Alhambra (Granada). © Austin Gardner")
+![alhambra, granada, crucero guadalquivir](https://fotos.etheriamagazine.com/2020/05/granada-mujeres-alhambra-1-900x588.jpg "Alhambra (Granada). © Austin Gardner")
 
 ### Excursiones de un día a Granada y Huelva
 
@@ -141,7 +141,7 @@ mismo, se sitúa el **monasterio de La Rábida**, donde se hospedó Cristóbal C
 de partir en su osada expedición. Hasta este cenobio llegaron, al volver de sus viajes, 
 otros conquistadores como Francisco Pizarro, Hernán Cortés o Gonzalo de Sandoval. 
 
-![muelle carabelas huelva descubrimiento america](etheria-images/2018/09/Huelva-Parque-Carabelas-conjunto-1024x683.jpg "Muelle de las Carabelas en La Rábida (Huelva). © Etheria Magazine")
+![muelle carabelas huelva descubrimiento america](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunto-1024x683.jpg "Muelle de las Carabelas en La Rábida (Huelva). © Etheria Magazine")
 
 Con estas excursiones termina el programa del crucero. Una vez en este punto se puede 
 seguir el viaje visitando [Málaga](https://etheriamagazine.com/2018/12/06/viajar-con-amigas-a-malaga/), 
@@ -157,7 +157,7 @@ cuenta que son 7 días (al octavo se desembarca) con alojamiento, comidas,
 desplazamientos, excursiones con entradas y guías incluidos, animación y experiencia a 
 bordo, es un buen precio. 
 
-![Belle de Cadix, crucero guadalquivir](etheria-images/2020/07/crucero-andalucia-Croisi-Europe-900x602.jpg "MS Belle de Cadix a su paso por Sevilla. © Croisi Europe")
+![Belle de Cadix, crucero guadalquivir](https://fotos.etheriamagazine.com/2020/07/crucero-andalucia-Croisi-Europe-900x602.jpg "MS Belle de Cadix a su paso por Sevilla. © Croisi Europe")
 
 Este crucero fluvial por el Guadalquivir es recomendable para quienes desean llevar 
 **todo organizado** y quieren centrarse sólo en disfrutar; para aquellos que **conozcan 

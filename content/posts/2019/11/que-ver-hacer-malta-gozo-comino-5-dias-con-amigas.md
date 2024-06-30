@@ -1,7 +1,7 @@
 ---
-title: "Planes en Malta, un destino mediterráneo que nunca defrauda"
+title: "Qué ver en Malta, un destino mediterráneo que nunca defrauda"
 date: 2019-11-19
-coverImage: etheria-images/2019/11/Malta-barca-tipica.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/11/Malta-barca-tipica.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,9 +12,12 @@ authors:
 
 Historia para patear y paisajes inolvidables bajo un sol que casi nunca falla a su cita. 
 Malta es un viaje que resulta barato y que brinda muchas alegrías si lo haces con 
-amigas. Te van a sobrar motivos para volver una y otra vez a este pequeño gran país. 
+amigas. Te contamos qué ver en Malta para que quieras volver una y otra vez a este 
+pequeño gran país. 
 
-![Puesta de sol en el Café del Mar](etheria-images/2019/11/Malta-Cafe-del-mar-900x601.jpg "Puesta de sol en el © Café del Mar")
+![Puesta de sol en el Café del Mar](https://fotos.etheriamagazine.com/2019/11/Malta-Cafe-del-mar-900x601.jpg "Puesta de sol en el © Café del Mar")
+
+Actualizado mayo de 2024. 
 
 Malta tiene todos los ingredientes para colarse en tu 'wish list' de escapadas a la 
 vista en cualquier momento del año. Ya sería mala suerte que no pillaras alguno de los 
@@ -36,7 +39,7 @@ ventanas de colores. Una postal icónica, en la que no falta la luz jugando con 
 caliza de los edificios y de las calles empedradas. La mejor forma de salir del hechizo 
 es en barca con dirección a La Valeta, la ciudad más grande del país y su capital. 
 
-![Barca típica para llegar de Birgu a La Valeta.](etheria-images/2019/11/Malta-barca-tipica-900x584.jpg "Barca típica para llegar de Birgu a La Valeta. © Miriam González")
+![Barca típica para llegar de Birgu a La Valeta.](https://fotos.etheriamagazine.com/2019/11/Malta-barca-tipica-900x584.jpg "Barca típica para llegar de Birgu a La Valeta. © Miriam González")
 
 ## Qué ver en La Valeta
 
@@ -46,7 +49,7 @@ de la Unesco y además es una de las áreas históricas más densas del mundo, c
 monumentos en 55 hectáreas. Todo tan antiguo que hasta hay cabinas de teléfono. Eso sí, 
 rojas, al más puro estilo _british_. 
 
-![La Valeta.](etheria-images/2019/11/Malta-La-Valeta-900x598.jpg "La Valeta. © Alexander Serzhantov.")
+![La Valeta.](https://fotos.etheriamagazine.com/2019/11/Malta-La-Valeta-900x598.jpg "La Valeta. © Alexander Serzhantov.")
 
 La Valeta da para mucho y, como nos lo ponen fácil ya que el centro es peatonal, lo 
 mejor es andar por sus calles. Una de las principales es Republic Street –en maltés Triq 
@@ -57,13 +60,13 @@ y el estilo barroco se deja notar desde el suelo hasta el techo en cada centíme
 templo. Por si fuera poco, en su interior se encuentra el Caravaggio más grande del 
 mundo. La entrada, que incluye audioguía, cuesta 10 €. 
 
-![Detalle de la concatedral de San Juan.](etheria-images/2019/11/Malta-iglesia-de-San-Juan-Valeta-768x1024.jpg "Detalle de la concatedral de San Juan. © Miriam González")
+![Detalle de la concatedral de San Juan.](https://fotos.etheriamagazine.com/2019/11/Malta-iglesia-de-San-Juan-Valeta-768x1024.jpg "Detalle de la concatedral de San Juan. © Miriam González")
 
 Otros sitios que no deberías perderte son el **palacio del Gran Maestre** o la **plaza 
 de San Jorge**. Y si te van las historias épicas, el fuerte de San Telmo, que como ya te 
 contamos, se convirtió en prisión para el rodaje de _El expreso de medianoche_. 
 
-? No te pierdas: [Malta, el Hollywood del 
+✅ No te pierdas: [Malta, el Hollywood del 
 Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywood-mediterraneo/). 
 
 ## Mdina, la ciudad de los nobles
@@ -72,13 +75,13 @@ O la ciudad del silencio. Así llaman a Mdina porque por su puerta –que habrá
 Juego de Tronos más de una vez– no entra ni un solo coche. Fue también capital de Malta 
 y hoy en día se considera una de las ciudades fortificadas mejor conservadas de Europa. 
 
-![Vista de Mdina.](etheria-images/2019/11/Malta-Mdina-900x514.jpg "Vista de Mdina. © VisitMalta")
+![Vista de Mdina.](https://fotos.etheriamagazine.com/2019/11/Malta-Mdina-900x514.jpg "Vista de Mdina. © VisitMalta")
 
 Pasearla y ver sus caserones nobles, murallas y palacios es un auténtico gustazo. _Bonus 
 track_: el encanto de esta peculiar ciudad a la luz de la luna es comparable con pocas 
 experiencias que hayas vivido antes. 
 
-## Hipogeo de Hal Saflieni
+### Hipogeo de Hal Saflieni
 
 Retrocedemos hasta el año 2500 a.C y nos metemos en el único templo subterráneo que se 
 conserva en el mundo. Te va a impresionar como se las ingeniaron para horadar las 
@@ -86,7 +89,7 @@ galerías y las tres salas a 10 metros de la superficie. Si tienes planeado visi
 hipogeo, hay que tener en cuenta que las entradas –que cuestan unos 35 €– hay que 
 reservarlas con tiempo porque las visitas se restringen a grupos reducidos. 
 
-![Hipogeo de Hal Saflieni.](etheria-images/2019/11/Malta-Hypogeum-900x912.jpg "Hipogeo de Hal Saflieni. © VisitMalta")
+![Hipogeo de Hal Saflieni.](https://fotos.etheriamagazine.com/2019/11/Malta-Hypogeum-900x912.jpg "Hipogeo de Hal Saflieni. © VisitMalta")
 
 ## Gozo, una excursión ideal desde Malta
 
@@ -95,7 +98,7 @@ ya te descubrimos sus secretos. Tan bonita, que dicen que Homero se inspiró en 
 el roneo de Calipso y Ulises. Tan rural y auténtica que a los malteses les encanta para 
 desconectar. 
 
-![Rincón de Gozo.](etheria-images/2019/11/Malta-rincon-Gozo-900x726.jpg "Rincón de Gozo. © François Kaiser")
+![Rincón de Gozo.](https://fotos.etheriamagazine.com/2019/11/Malta-rincon-Gozo-900x726.jpg "Rincón de Gozo. © François Kaiser")
 
 La mejor forma de descubrirla –y la más divertida– es en tuk-tuk. Por el camino te 
 esperan campos de cultivo y paisajes moldeados por el mar y el viento, como la **gran 
@@ -104,7 +107,7 @@ ciudadela de Victoria y los templos de Ggantija, más antiguos que las pirámide
 Egipto. También un montón de iglesias. Lo que no vas a ver es el famoso arco de piedra 
 de la Ventana Azul, pues se derrumbó en 2017. 
 
-![Salinas de Gozo.](etheria-images/2019/11/Malta-Salinas-Gozo-900x600.jpg "Salinas de Gozo. © Miriam González")
+![Salinas de Gozo.](https://fotos.etheriamagazine.com/2019/11/Malta-Salinas-Gozo-900x600.jpg "Salinas de Gozo. © Miriam González")
 
 ## Comino y la laguna Azul
 
@@ -114,11 +117,11 @@ ferry desde La Valeta y desde Gozo. El mayor atractivo de Comino es la **laguna 
 ideal para el buceo. Si entre chapuzón y chapuzón quieres algo de historia, puedes 
 acercarte hasta la torre de Santa María, del siglo XVII. 
 
-![La Laguna Azul de la isla de Comino.](etheria-images/2019/11/Malta-comino-laguna-azul-900x508.jpg "La Laguna Azul de la isla de Comino.")
+![La Laguna Azul de la isla de Comino.](https://fotos.etheriamagazine.com/2019/11/Malta-comino-laguna-azul-900x508.jpg "La Laguna Azul de la isla de Comino.")
 
 ## Dudas frecuentes al viajar a Malta
 
-**¿Dónde dormir en Malta?** 
+### ¿Dónde dormir en Malta?
 
 Hay mucho donde elegir y todo va a depender del homenaje que te quieras dar. Si quieres 
 estar cerca de la zona de marcha, lo mejor es que te alojes en la zona de San Julián, 
@@ -128,7 +131,7 @@ como una princesa en una antigua casa señorial, te recomendamos el **Xara Palac
 Mdina. Si te decides a pasar la noche en Gozo, en el **hotel The Duke** puedes dormirte 
 con unas vistas privilegiadas de la isla en la retina. 
 
-**¿Dónde comer bien en Malta?** 
+### ¿Dónde comer bien en Malta?
 
 En Malta no suelen perdonar el té de las cuatro, pero tampoco un buen plato de pasta. 
 Uno de los sitios más auténticos, y donde comer es toda una experiencia, es la 
@@ -141,7 +144,7 @@ Si quieres probar lo mejor de Gozo tendrás que ir a la gruta de **Maldonado Bis
 Mons Vella Street, Victoria). El típico restaurante con auténticos productos locales que 
 solo conocen los lugareños. 
 
-**¿Dónde salir de fiesta en la isla?** 
+### ¿Dónde salir de fiesta en la isla?
 
 Malta se ha puesto de moda entre quienes quieren darlo todo por la noche. O en los 
 atardeceres, como es el caso del Café del Mar, al más puro estilo ibicenco. Si quieres 
@@ -150,7 +153,7 @@ puedes disfrutar de buenísimos cócteles a ritmo de música para todos los gust
 más de discotecas a lo grande, te va a encantar Gianpula Village, en Rabat, un mega 
 recinto con jardines y tres salas, donde pinchan los mejores DJ´s de Malta. 
 
-## También te puede interesar...
+**También te puede interesar...** 
 
 [Las 7 visitas arquitectónicas más originales e insólitas de 
 Menorca](https://etheriamagazine.com/2020/12/08/visitas-originales-de-arquitectura-en-menorca/). 

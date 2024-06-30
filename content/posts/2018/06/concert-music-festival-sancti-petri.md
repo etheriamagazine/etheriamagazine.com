@@ -1,7 +1,7 @@
 ---
 title: "Concert Music Festival Sancti Petri (Chiclana, Cádiz)"
 date: 2018-06-29
-coverImage: etheria-images/2018/06/festival-sancti-petri.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/06/festival-sancti-petri.jpg
 categories: 
   - organiza-tu-viaje
   - festivales
@@ -15,7 +15,7 @@ localidad gaditana de Chiclana, viene llena de grandes figuras para disfrutarlas
 entorno inigualable. Aprovecha el día para disfrutar de las increíbles playas de Sancti 
 Petri y de noche déjate llevar por la música. 
 
-![Concierto con amigas](etheria-images/2019/02/Festivales-primavera-concierto.jpg "Concierto con amigas")
+![Concierto con amigas](https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg "Concierto con amigas")
 
 El 29 de junio comienza este nuevo festival de música y ocio que tendrá lugar en Sancti 
 Petri, una de las zonas más conocidas y animadas de playa de Chiclana de la Frontera 

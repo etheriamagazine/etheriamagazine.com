@@ -1,7 +1,7 @@
 ---
 title: "Descubre estos 8 lugares secretos de Cataluña que deberías conocer"
 date: 2021-02-22
-coverImage: etheria-images/2021/02/catalunya-secreta-larboc-iglesia-Entranyes.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/02/catalunya-secreta-larboc-iglesia-Entranyes.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -13,7 +13,7 @@ Déjate sorprender por estos 8 lugares secretos de Cataluña, son perfectos para
 amantes de las sorpresas fuera de ruta y con poco protagonismo en Instagram. ¿Cuántos te 
 faltan por conocer? 
 
-![Giralda de L'Arboç.](etheria-images/2021/02/catalunya-secreta-larboc-iglesia-Entranyes.jpg "Giralda de L'Arboç. © Oficina de Turisme de l'Arboç")
+![Giralda de L'Arboç.](https://fotos.etheriamagazine.com/2021/02/catalunya-secreta-larboc-iglesia-Entranyes.jpg "Giralda de L'Arboç. © Oficina de Turisme de l'Arboç")
 
 Actualizado 12/2023 
 
@@ -25,7 +25,7 @@ numerosos rincones imprescindibles que se extienden a lo largo y ancho de las cu
 provincias catalanas sino otros sorprendentes destinos a los que dirigirse cuando se 
 desea viajar fuera de ruta. ¡_Bon viatge!_ 
 
-![Santuario de Montgrony uno de los lugares secretos de Cataluña](etheria-images/2021/02/cataluna-secreta-Santuario-de-Montgrony-745x1024.jpg "Santuario de Montgrony. © Turismo Cataluña")
+![Santuario de Montgrony uno de los lugares secretos de Cataluña](https://fotos.etheriamagazine.com/2021/02/cataluna-secreta-Santuario-de-Montgrony-745x1024.jpg "Santuario de Montgrony. © Turismo Cataluña")
 
 ## 1\. Santuario de Montgrony: huye del mundanal ruido
 
@@ -38,7 +38,7 @@ acercarte a la iglesia románica de Sant Pere de Montgrony y guárdate tiempo pa
 sentarte en la terraza de la hospedería-restaurante a disfrutar sin prisas de las 
 vistas. 
 
-![Camino horadado en la roca en Mont-rebei.](etheria-images/2020/05/mont-rebei-gr1-900x601.jpg "Camino horadado en la roca en Mont-rebei. © Pepa García")
+![Camino horadado en la roca en Mont-rebei.](https://fotos.etheriamagazine.com/2020/05/mont-rebei-gr1-900x601.jpg "Camino horadado en la roca en Mont-rebei. © Pepa García")
 
 ## 2\. Desfiladero del Mont-rebei: un paseo lleno de asombro
 
@@ -55,7 +55,7 @@ Mont-](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el
 es el de llegar a primera hora o entre semana para poder disfrutarlo con total 
 tranquilidad. 
 
-![Vilassar de Mar uno de los lugares secretos de Cataluña](etheria-images/2021/02/cataluna-secreta-Vilassar-de-Mar.jpg "La Sènia del Rellotge-Museo de la Marina, en Vilassar de Mar. © Turismo de Cataluña")
+![Vilassar de Mar uno de los lugares secretos de Cataluña](https://fotos.etheriamagazine.com/2021/02/cataluna-secreta-Vilassar-de-Mar.jpg "La Sènia del Rellotge-Museo de la Marina, en Vilassar de Mar. © Turismo de Cataluña")
 
 ## 3\. Vilassar de Mar: modernismo y vermut
 
@@ -76,7 +76,7 @@ calle de Sant Pau, que transcurre junto a la N-II. Allí se encuentra una de la 
 más populares de la provincia, **l’Espinaler**, donde es obligatorio tomarse su famoso 
 vermut acompañado de una lata de conservas. 
 
-![giralda de l arboç](etheria-images/2021/02/giralda-l-arboc-catalunya-736x1024.jpg "Giralda de L'Arboç. © Oficina de Turisme de l'Arboç")
+![giralda de l arboç](https://fotos.etheriamagazine.com/2021/02/giralda-l-arboc-catalunya-736x1024.jpg "Giralda de L'Arboç. © Oficina de Turisme de l'Arboç")
 
 ## 4\. L’Arboç/Arbós: el pueblo de la otra Giralda
 
@@ -90,7 +90,7 @@ herradura, arabescos, una reproducción del Salón de los Embajadores de los Rea
 Alcázares de Sevilla, ni, por supuesto, una réplica del Patio de los Leones de la 
 Alhambra de Granada. 
 
-![camino de ronda en Port de la Selva](etheria-images/2021/02/cataluna-secreta-Port-de-la-Selva.jpg "Camino de ronda en Port de la Selva. © Turismo de Cataluña")
+![camino de ronda en Port de la Selva](https://fotos.etheriamagazine.com/2021/02/cataluna-secreta-Port-de-la-Selva.jpg "Camino de ronda en Port de la Selva. © Turismo de Cataluña")
 
 ## 5\. Port de la Selva: el refugio más remoto de la Costa Brava
 
@@ -104,7 +104,7 @@ en sus alrededores aguarda el soberbio conjunto medieval que conforman el **mona
 de Sant Pere de Rodes** y la ermita de Santa Helena de Rodes. Y, porque no olvidemos que 
 Cadaqués, al otro lado del cabo se sigue llevando todos los honores. 
 
-![Cuevas del Toll cataluna secreta](etheria-images/2021/02/cataluna-secreta-Cuevas-del-Toll.jpg "Cuevas del Toll. © Turismo de Cataluña")
+![Cuevas del Toll cataluna secreta](https://fotos.etheriamagazine.com/2021/02/cataluna-secreta-Cuevas-del-Toll.jpg "Cuevas del Toll. © Turismo de Cataluña")
 
 ## 6\. Cuevas del Toll: un viaje prehistórico a un paso de Barcelona
 
@@ -114,7 +114,7 @@ entretenida para todas las edades, pues también muestra cómo eran las costumbr
 hombre de Neardental. Las cuevas se encuentran en Moià dentro del área declarada 
 **GeoParc Catalunya Central**, que también incluye la famosa montaña de Montserrat. 
 
-![lago de gerber](etheria-images/2021/02/Estany-Gerber.jpg "Lago de Gerber. © CC Wikimedia")
+![lago de gerber](https://fotos.etheriamagazine.com/2021/02/Estany-Gerber.jpg "Lago de Gerber. © CC Wikimedia")
 
 ## 7\. Vall de Gerber: a la sombra de Aigüestortes
 
@@ -126,7 +126,7 @@ los lagos. No dudes en descubrirlo siguiendo **la ruta de senderismo que une el 
 con el lago de Gerber**. No presenta dificultad y resulta idónea para recorrer con 
 niños. 
 
-![astor pueblo de pujalt](etheria-images/2021/02/pujalt-lastor-Anoia.jpg "Astor es uno de los 5 pueblos que forman Pujalt. © Ángela Llop")
+![astor pueblo de pujalt](https://fotos.etheriamagazine.com/2021/02/pujalt-lastor-Anoia.jpg "Astor es uno de los 5 pueblos que forman Pujalt. © Ángela Llop")
 
 ## 8\. Pujalt: piérdete en el corazón de Cataluña
 

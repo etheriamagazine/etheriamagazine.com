@@ -1,7 +1,7 @@
 ---
 title: "Haloterapia y talasoterapia, conoce todos los beneficios de la sal"
 date: 2020-10-28
-coverImage: etheria-images/2020/10/beneficios-sal-Salt-Room.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/beneficios-sal-Salt-Room.jpg
 categories: 
   - salud-bienestar-nutricion
   - viajes-para-mujeres
@@ -16,7 +16,7 @@ curativo del mar y la haloterapia está indicada para problemas respiratorios y
 dermatológicos. Además, un consumo moderado de sal en la dieta es necesario para la 
 salud. Conoce en este artículo todos los beneficios que nos aporta la sal. 
 
-![cuevas de sal en salt room](etheria-images/2020/10/beneficios-sal-Salt-Room.jpg "Cueva de sal en © Salt Room.")
+![cuevas de sal en salt room](https://fotos.etheriamagazine.com/2020/10/beneficios-sal-Salt-Room.jpg "Cueva de sal en © Salt Room.")
 
 Llega el otoño y con él, los catarros. Este año, además, la COVID-19 nos obliga a 
 extremar los cuidados para evitar coger la gripe. Si en esta pandemia has sentido ganas 
@@ -36,7 +36,7 @@ viene del griego “halos”, que significa sal, y “therapeia”, terapia. La 
 en respirar en este ambiente saturado por micro partículas de sal natural de origen 
 mineral capaces de llegar a los alvéolos pulmonares y depositarse en la epidermis. 
 
-![cueva de sal en saltium](etheria-images/2020/10/SALTIUM-cueva.jpg "Cueva de sal en © Saltium.")
+![cueva de sal en saltium](https://fotos.etheriamagazine.com/2020/10/SALTIUM-cueva.jpg "Cueva de sal en © Saltium.")
 
 Los tratamientos constan de varias sesiones, con una duración de entre 45 y 60 minutos 
 dependiendo de la dolencia a tratar. Su principal factor curativo es el aerosol de 
@@ -57,7 +57,7 @@ Llegó así a la conclusión de que el ambiente de micropartículas de sal que r
 los protegía. La mina abrió sus cuevas en 1836 y desde entonces se estudiaron más de 30 
 patologías, como el asma o el agotamiento. 
 
-![Mina de sal de Wieliczka en Polonia](etheria-images/2020/10/Wieliczka-kopalnia-soli.jpg "Minas de sal de Wieliczka, Patrimonio de la Humanidad por la Unesco. © O.T. de Polonia")
+![Mina de sal de Wieliczka en Polonia](https://fotos.etheriamagazine.com/2020/10/Wieliczka-kopalnia-soli.jpg "Minas de sal de Wieliczka, Patrimonio de la Humanidad por la Unesco. © O.T. de Polonia")
 
 Un estudio publicado en el _Journal of Aerosol Medicine_ tuvo como resultado la mejoría 
 en el estado clínico de la mayor parte de los pacientes con distintos tipos de 
@@ -81,7 +81,7 @@ En la actualidad, la haloterapia se utiliza en distintos países de Europa, Esta
 Unidos o Canadá. En estos dos últimos, en Italia e Inglaterra está reconocida como 
 terapia clínica. 
 
-![beneficios talasoterapia](etheria-images/2020/10/talasoterapia-beneficios.jpg "La Talasoterapia emplea el agua de mar, las algas, el barro, el plancton e, incluso, la brisa. © Griffin Wooldridge")
+![beneficios talasoterapia](https://fotos.etheriamagazine.com/2020/10/talasoterapia-beneficios.jpg "La Talasoterapia emplea el agua de mar, las algas, el barro, el plancton e, incluso, la brisa. © Griffin Wooldridge")
 
 ## Talasoterapia, el poder curativo del mar
 
@@ -108,7 +108,7 @@ playa es beneficiosa para el sistema circulatorio, tonifica y es un exfoliante n
 La relajación es otro de los efectos en el sistema nervioso de la haloterapia, que 
 también actúa como remedio frente al agotamiento, el estrés o la fatiga crónica. 
 
-![haloterapia en madrid](etheria-images/2020/10/beneficios-sal-terapias-saltium.jpg "Terapias con sal en © Saltium.")
+![haloterapia en madrid](https://fotos.etheriamagazine.com/2020/10/beneficios-sal-terapias-saltium.jpg "Terapias con sal en © Saltium.")
 
 ## Centros de haloterapia con cuevas de sal
 
@@ -124,7 +124,7 @@ recubierto de sal, creando un ambiente aséptico. La sal es procesada en micro p
 por los halogeneradores, que la dispersan posteriormente en la cámara de sal de forma 
 homogénea y controlada. 
 
-![cueva de sal en madrid](etheria-images/2020/10/Salt-Room-terapias-sal.jpg "Terapias con sal en © Salt Room.")
+![cueva de sal en madrid](https://fotos.etheriamagazine.com/2020/10/Salt-Room-terapias-sal.jpg "Terapias con sal en © Salt Room.")
 
 ## La sal, mucho más que un condimento
 
@@ -138,7 +138,7 @@ publicación 'Sal y salud' del Instituto de la Sal. Entre otros factores, el sod
 el equilibrio de agua y pH del cuerpo. Inhalada con la respiración normal, la sal reduce 
 la inflamación, abre las vías respiratorias y favorece la expulsión de la mucosidad. 
 
-![beneficios sal para cuerpo](etheria-images/2020/10/beneficios-perjucios-sal.jpg "Beneficios de la sal para el organismo. © Jason Tuinstra")
+![beneficios sal para cuerpo](https://fotos.etheriamagazine.com/2020/10/beneficios-perjucios-sal.jpg "Beneficios de la sal para el organismo. © Jason Tuinstra")
 
 Conocida por sus **propiedades antisépticas, antiinflamatorias y antibacterianas**, 
 entre otros beneficios para la salud, inactiva virus y bacterias, absorbe y elimina 

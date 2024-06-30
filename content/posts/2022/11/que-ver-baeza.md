@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Baeza, una de las ciudades reconocidas por la Unesco"
 date: 2022-11-28
-coverImage: etheria-images/2022/11/ubeda-unesco.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/11/ubeda-unesco.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -14,7 +14,7 @@ visitas imprescindibles de Baeza y también algunos lugares un poco más "secret
 
 **Por Mari Carmen Duarte** 
 
-![Las calles de Baeza rezuman historia.](etheria-images/2022/11/ubeda-unesco.jpg "Las calles de Baeza rezuman historia. © Turismo Andaluz")
+![Las calles de Baeza rezuman historia.](https://fotos.etheriamagazine.com/2022/11/ubeda-unesco.jpg "Las calles de Baeza rezuman historia. © Turismo Andaluz")
 
 **Actualizado 11/2023** 
 
@@ -37,7 +37,7 @@ musulmanes y que forma parte de la antigua muralla de Baeza. Junto a ella se lev
 **arco de Villalar**. Entre la gran puerta y el edificio contiguo se erigió la capilla 
 de la Virgen del Pópulo, donde hoy puede verse un pequeño balcón. 
 
-![Muralla de Baeza. Puerta de Jaén y arco de Villalar.](etheria-images/2022/11/baeza-arco-villalar-puerta-jaen.jpg "Puerta de Jaén y arco de Villalar.")
+![Muralla de Baeza. Puerta de Jaén y arco de Villalar.](https://fotos.etheriamagazine.com/2022/11/baeza-arco-villalar-puerta-jaen.jpg "Puerta de Jaén y arco de Villalar.")
 
 Las antiguas Carnicerías, levantadas en 1547, se usaron durante más de cuatro siglos 
 como mercado de carne. Luego pasaron a destinarse a otras actividades, como secadero de 
@@ -49,7 +49,7 @@ es todo un símbolo del poder nobiliario y eclesiástico que alcanzó la ciudad,
 visible en la importancia de los edificios que la rodean. Caballos y leones decoran la 
 escultura que Pi i Margall describió como “una Cibeles entre cuatro leones”. 
 
-![Antiguas Carnicerías de la plaza del Pópulo.](etheria-images/2022/11/baeza-plaza-populo.jpg "Antiguas Carnicerías de la plaza del Pópulo.")
+![Antiguas Carnicerías de la plaza del Pópulo.](https://fotos.etheriamagazine.com/2022/11/baeza-plaza-populo.jpg "Antiguas Carnicerías de la plaza del Pópulo.")
 
 ## 2\. Museo de Baeza
 
@@ -71,7 +71,7 @@ alrededor se encuentran edificios como la Casa Consistorial, pegada a la Catedra
 al principio se realizaban asambleas populares y más tarde llegó a ubicar el 
 conservatorio de música, aunque actualmente está sin uso. 
 
-![Fuente en la plaza de Santa María en Baeza](etheria-images/2022/11/baeza-fuente-santa-maria.jpg "Fuente de Santa María.")
+![Fuente en la plaza de Santa María en Baeza](https://fotos.etheriamagazine.com/2022/11/baeza-fuente-santa-maria.jpg "Fuente de Santa María.")
 
 La catedral de la Natividad de Nuestra Señora de Baeza remonta su historia al siglo VII, 
 cuando fue sede episcopal visigoda, posteriormente musulmana y cristiana tras la 
@@ -89,7 +89,7 @@ recinto, donde se formaban los futuros sacerdotes, llaman la atención las letra
 más conocidas como vítores. Están hechas con sangre de toro, acanto y óxido de hierro y 
 conmemoraban la consecución del doctorado por parte de los estudiantes. 
 
-![Catedral de Baeza](etheria-images/2022/11/baeza-catedral-santa-maria.jpg "Catedral de la Natividad de Nuestra Señora de Baeza.")
+![Catedral de Baeza](https://fotos.etheriamagazine.com/2022/11/baeza-catedral-santa-maria.jpg "Catedral de la Natividad de Nuestra Señora de Baeza.")
 
 ## 4\. Paseo de Antonio Machado
 
@@ -102,7 +102,7 @@ gustará saber que existe una ruta que recorre los lugares más emblemáticos de
 años que pasó en la ciudad, que van desde la rebotica de Adolfo Almazán, donde asistía a 
 algunas tertulias, hasta la que fue su residencia. 
 
-![Niños jugando en la calle, una imagen habitual en Baeza.](etheria-images/2022/11/calles-baeza.jpg "Niños jugando en la calle, una imagen habitual en Baeza. © Amos")
+![Niños jugando en la calle, una imagen habitual en Baeza.](https://fotos.etheriamagazine.com/2022/11/calles-baeza.jpg "Niños jugando en la calle, una imagen habitual en Baeza. © Amos")
 
 ## 5\. Torreón Puerta de Úbeda
 
@@ -124,7 +124,7 @@ la _Santa Cena_, además de los martirios de San Sebastián y Santa Catalina, y 
 de la Virgen de la Leche. La fachada, cubierta por estructuras neoclásicas, cuenta con 
 una portada que proviene de la iglesia de San Juan Bautista. 
 
-![Fachada Iglesia de Santa Cruz.](etheria-images/2022/11/baeza-iglesia-santa-cruz.jpg "Iglesia de Santa Cruz.")
+![Fachada Iglesia de Santa Cruz.](https://fotos.etheriamagazine.com/2022/11/baeza-iglesia-santa-cruz.jpg "Iglesia de Santa Cruz.")
 
 ## 7\. Palacio de los Marqueses de Jabalquinto
 
@@ -137,7 +137,7 @@ puntas de diamante. En su patio, dos pisos de arquerías de medio punto coronan 
 renacentistas que acogieron una ampliación del Seminario de San Felipe Neri. En la 
 actualidad es una subsede de la Universidad Internacional de Andalucía. 
 
-![Fachada renacentista del Palacio de los Marqueses de Jabalquinto](etheria-images/2022/11/baeza-palacio-jabalquinto.jpg "Detalle de la fachada del palacio de los Marqueses de Jabalquinto.")
+![Fachada renacentista del Palacio de los Marqueses de Jabalquinto](https://fotos.etheriamagazine.com/2022/11/baeza-palacio-jabalquinto.jpg "Detalle de la fachada del palacio de los Marqueses de Jabalquinto.")
 
 ## 8\. Antigua Universidad de Baeza y Capilla Universitaria de San Juan Evangelista
 
@@ -152,7 +152,7 @@ del edificio se encuentra la **capilla de San Juan Evangelista**, donde tenían 
 antaño los actos religiosos de la universidad. La calle Conde Romanones es uno de los 
 mejores lugares desde donde conseguir una bella estampa de este edificio. 
 
-![Claustro de la antigua Universidad de Baeza](etheria-images/2022/11/baeza-universidad-san-juan-evangelista.jpg "Claustro de la antigua Universidad de Baeza.")
+![Claustro de la antigua Universidad de Baeza](https://fotos.etheriamagazine.com/2022/11/baeza-universidad-san-juan-evangelista.jpg "Claustro de la antigua Universidad de Baeza.")
 
 ## 9\. Paseo de la Constitución 
 
@@ -165,7 +165,7 @@ y del siglo XVIII, eran el lugar desde donde se presidían las celebraciones má
 importantes de la ciudad, y actualmente son sede de la Agrupación Arciprestal de 
 Cofradías de Baeza. 
 
-![Paseo de la Constitución en Baeza.](etheria-images/2022/11/Baeza-paseo-constitucion.jpg "Paseo de la Constitución.")
+![Paseo de la Constitución en Baeza.](https://fotos.etheriamagazine.com/2022/11/Baeza-paseo-constitucion.jpg "Paseo de la Constitución.")
 
 Al final del paseo también se encuentra la vieja Alhóndiga, un mercado conectado con el 
 antiguo Pósito, donde se guardaba el grano, ambos ahora viviendas particulares. Cercana 
@@ -191,7 +191,7 @@ de Turismo de Baeza.
 ?**No te pierdas este artículo para continuar el viaje:** [Guía esencial de Úbeda para 
 un fin de semana histórico](https://etheriamagazine.com/2022/11/08/que-ver-ubeda/). 
 
-![Iglesia de San Pablo en Baeza](etheria-images/2022/11/baeza-iglesia-san-pablo.jpg "Iglesia de San Pablo.")
+![Iglesia de San Pablo en Baeza](https://fotos.etheriamagazine.com/2022/11/baeza-iglesia-san-pablo.jpg "Iglesia de San Pablo.")
 
 ## Guía práctica de Baeza
 

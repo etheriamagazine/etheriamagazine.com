@@ -1,7 +1,7 @@
 ---
 title: "7 hoteles de lujo para vivir 7 ciudades históricas"
 date: 2021-07-09
-coverImage: etheria-images/2021/07/ciragan-palace-kempinski-istanbul-exterior.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/07/ciragan-palace-kempinski-istanbul-exterior.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -18,7 +18,7 @@ histórica desde la glamurosa perspectiva que brinda un hotel exclusivo. En este
 te recomendamos 7 hoteles de lujo situados en otras tantas ciudades imprescindibles en 
 la agenda de cualquier viajera. 
 
-![Çirağan Palace.](etheria-images/2021/07/ciragan-palace-kempinski-istanbul-exterior.jpg "Hotel © Çirağan Palace, ubicado en la orilla del Bósforo, en Estambul.")
+![Çirağan Palace.](https://fotos.etheriamagazine.com/2021/07/ciragan-palace-kempinski-istanbul-exterior.jpg "Hotel © Çirağan Palace, ubicado en la orilla del Bósforo, en Estambul.")
 
 ## Çirağan Palace de Estambul
 
@@ -34,7 +34,7 @@ se asoma al Bósforo. Los lugares que no olvidarás de este hotel son su hammán
 conserva piezas originales del siglo XVII; y sus jardines, perfectos para pasear, 
 disfrutar de las vistas y, por qué no, degustar un suculento brunch. 
 
-![Piscina exterior de Pestana Palace Lisboa.](etheria-images/2021/07/Pestana-palace-lisboa-piscina.jpg "Piscina exterior de Pestana Palace Lisboa. © Pestana Hotel Group")
+![Piscina exterior de Pestana Palace Lisboa.](https://fotos.etheriamagazine.com/2021/07/Pestana-palace-lisboa-piscina.jpg "Piscina exterior de Pestana Palace Lisboa. © Pestana Hotel Group")
 
 ## Pestana Palace Lisboa
 
@@ -51,7 +51,7 @@ del jardín; y con la preciosa piscina. Es un auténtico lujo disfrutar de un ba
 lugar tan especial, rodeada de exuberantes jardines, en el centro de la capital 
 portuguesa. 
 
-![hotel de lujo Mandarin Oriental Madrid](etheria-images/2021/07/Mandarin-Oriental-RitzPalm-Court.jpg "Zona del restaurante Palm Court bajo la restaurada cúpula de cristal. © Mandarin Oriental Group")
+![hotel de lujo Mandarin Oriental Madrid](https://fotos.etheriamagazine.com/2021/07/Mandarin-Oriental-RitzPalm-Court.jpg "Zona del restaurante Palm Court bajo la restaurada cúpula de cristal. © Mandarin Oriental Group")
 
 ## Mandarin Oriental Ritz Madrid
 
@@ -66,7 +66,7 @@ tenemos que quedar sólo con dos lugares del hotel, elegimos el restaurante Palm
 su té de las cinco bajo la impresionante cúpula de cristal; y las habitaciones, que han 
 sabido conservar el espíritu de hotel clásico añadiendo toques de diseño contemporáneos. 
 
-![hotel de lujo en El Cairo](etheria-images/2021/07/hotel-st-regis-cairo-escalera-1.jpg "Escalera y lampara de cristal del St. Regis Cairo. © St. Regis Hotels & Resort / Marriott International Hotels")
+![hotel de lujo en El Cairo](https://fotos.etheriamagazine.com/2021/07/hotel-st-regis-cairo-escalera-1.jpg "Escalera y lampara de cristal del St. Regis Cairo. © St. Regis Hotels & Resort / Marriott International Hotels")
 
 ## The St. Regis Cairo
 
@@ -80,7 +80,7 @@ ensueño. Lo que más nos ha deslumbrado de este hotel son sus increíbles lámp
 cristal y el precioso restaurante italiano La Zisa, con unos techos inmensos y unas 
 vistas del Nilo para quedarse a vivir. 
 
-![Mandarin Oriental Milan](etheria-images/2021/07/milan-madarin-oriental-suite-junior.jpg "Terraza de la Suite Junior Terrace. © Mandarin Oriental Group")
+![Mandarin Oriental Milan](https://fotos.etheriamagazine.com/2021/07/milan-madarin-oriental-suite-junior.jpg "Terraza de la Suite Junior Terrace. © Mandarin Oriental Group")
 
 ## Mandarin Oriental Milan
 
@@ -97,7 +97,7 @@ lugares favoritos del hotel son las terrazas de sus Suites (si puedes date el ca
 de alojarte en una); y la preciosa barra del Mandarin Bar & Bistro, perfecta para tomar 
 un cóctel después de una jornada de arte y compras por la ciudad. 
 
-![plaza athenee en Paris](etheria-images/2021/07/HPA-Cour-Jardin-4-HR-by-StudiodesFleurs-900x600.jpg "El jardín secreto de Plaza Athénee. Un precioso vergel en medio del hotel. © Studio des Fleurs")
+![plaza athenee en Paris](https://fotos.etheriamagazine.com/2021/07/HPA-Cour-Jardin-4-HR-by-StudiodesFleurs-900x600.jpg "El jardín secreto de Plaza Athénee. Un precioso vergel en medio del hotel. © Studio des Fleurs")
 
 ## Plaza Athénée en París
 
@@ -113,7 +113,7 @@ además del majestuoso hall, son el versátil **La Cour Jardin**, un patio-jard�
 que puedes desde tomar algo en verano hasta patinar sobre hielo en invierno; y La 
 Galerie, un espacio de amplios ventanales perfecto para tomar el té. 
 
-![Hotel María Cristina](etheria-images/2021/07/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight-900x506.jpg "© Hotel María Cristina.")
+![Hotel María Cristina](https://fotos.etheriamagazine.com/2021/07/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight-900x506.jpg "© Hotel María Cristina.")
 
 ## Hotel María Cristina en San Sebastián
 

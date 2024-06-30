@@ -1,7 +1,7 @@
 ---
 title: "10 planes originales en Salamanca para hacer con amigas"
 date: 2021-03-31
-coverImage: etheria-images/2021/03/salamanca-En-la-parra.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/salamanca-En-la-parra.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
@@ -17,11 +17,9 @@ Patrimonio de la Humanidad, y con monumentos increíbles. Además, tiene una gas
 que enamora y mucha historia por descubrir. ¿Por cuál de estos 10 planes en Salamanca 
 vas a empezar? 
 
-![restaurante en la parra de salamanca](etheria-images/2021/03/salamanca-En-la-parra.jpg "Restaurante En la Parra, en Salamanca. © Cynthia M.R.")
+![restaurante en la parra de salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-En-la-parra.jpg "Restaurante En la Parra, en Salamanca. © Cynthia M.R.")
 
-```
-Texto y fotos: Cynthia M.R.
-```
+**Texto y fotos: Cynthia M.R./ **Etheria Magazine 2024**** 
 
 Una escapada con amigas a Salamanca es la mejor manera de salir de la rutina, generar 
 nuevos recuerdos, comer fenomenal y disfrutar de la cultura de esta preciosa ciudad 
@@ -34,24 +32,23 @@ semana, Salamanca es perfecto.
 ### 1\. Deleitarse con la estrella Michelin de 'En la Parra'
 
 El **restaurante En la Parra** (restaurantenlaparra.com) entró en el listado de los 
-_Oscar_ de la gastronomía en 2021, dándole la segunda estrella Michelin a la ciudad de 
-Salamanca. Rocío Parra se maneja con soltura entre unos fogones a la vista de los veinte 
-comensales que admite este coqueto, pero elegante local, de reducidas dimensiones donde 
-su compañero, Alberto Rodríguez, recomienda entre unas 300 referencias de vinos. 
+_Oscar_ de la gastronomía en 2021, dándole la segunda **estrella Michelin** a la ciudad 
+de Salamanca. Rocío Parra se maneja con soltura entre unos fogones a la vista de los 
+veinte comensales que admite este coqueto, pero elegante local, de reducidas dimensiones 
+donde su compañero, Alberto Rodríguez, recomienda entre unas 300 referencias de vinos. 
 
 Presentándose como “mucho más que cocina de autor”, en _En la Parra_ se puede disfrutar 
-de **menús degustación** – uno corto de 19 pases (70 euros) y otro largo de 25 (90 
-euros) – donde los productos de temporada y regionales son los absolutos protagonistas. 
-También hay menú infantil. Rotando cada poco tiempo, hay emblemas que nunca faltan como 
-su _pan bao_ _con papada_ y _snacks_ donde los ibéricos mandan. Sin abusar de técnica, 
-las texturas y colores son la obsesión de una chef que aprendió con Paco Roncero y que 
-ha pasado por el País Vasco y por León hasta que hace cinco años se adentró en una 
-aventura en solitario que se ha ganado el corazón de los locales y ahora, también de la 
-más alta crítica. 
+de **menús degustación** (Pizarra, Granito e Infantil) donde los productos de temporada 
+y regionales son los absolutos protagonistas. También hay menú infantil. Rotando cada 
+poco tiempo, hay emblemas que nunca faltan como su _pan bao_ _con papada_ y _snacks_ 
+donde los ibéricos mandan. Sin abusar de técnica, las texturas y colores son la obsesión 
+de una chef que aprendió con Paco Roncero y que ha pasado por el País Vasco y por León 
+hasta que hace cinco años se adentró en una aventura en solitario que se ha ganado el 
+corazón de los locales y ahora, también de la más alta crítica. 
 
 Dirección. San Pablo, 80. 
 
-![casa unamuno en salamanca](etheria-images/2021/03/salamanca-unamuno-Calle-Bordadores.jpg "Unamuno vivió en la calle Bordadores.")
+![casa unamuno en salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-unamuno-Calle-Bordadores.jpg "Unamuno vivió en la calle Bordadores.")
 
 ### 2\. Seguir los pasos a Don Miguel de Unamuno
 
@@ -74,7 +71,7 @@ ojos de aquellos que hayan visto la taquillera película. Por supuesto, adentrar
 tertulias, es parada obligatoria no solo para aquellos que quieran seguirle el rastro al 
 escritor; sus helados son los mejores de la ciudad. 
 
-![puente romano ruta unamuno en salamanca](etheria-images/2021/03/salamanca-Vista-puente-Romano.jpg "Puente Romano, en Salamanca.")
+![puente romano ruta unamuno en salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-Vista-puente-Romano.jpg "Puente Romano, en Salamanca.")
 
 Se recomienda guardar tiempo para recorrer los interiores de la **casa museo de 
 Unamuno** (unamuno.usal.es), ubicada en el número 25 de la calle Libreros junto a la 
@@ -97,19 +94,18 @@ distribuyen según su ‘profesión’? ¿Y por qué la **Casa de las Conchas** 
 concretamente 365 ejemplares? Una historia de amor estaría detrás… Y además, con un 
 apellido que todo castellano (_aka_ comunero) conoce: Maldonado. 
 
-![casa de las conchas en salamanca con amigas](etheria-images/2021/03/salamanca-casa-Conchas.jpg "Casa de las Conchas en Salamanca.")
+![casa de las conchas en salamanca con amigas](https://fotos.etheriamagazine.com/2021/03/salamanca-casa-Conchas.jpg "Casa de las Conchas en Salamanca.")
 
 Pero este no es un artículo de _spoilers_… Pasar cerca de dos horas descubriendo las 
 leyendas y curiosidades que esconde su centro histórico es algo que ofrece la **Oficina 
 de Turismo**, en plena Plaza Mayor. También es posible descubrir la arquitectura 
 churrigueresca, como la de la Plaza Mayor; o las fachadas platerescas, véase la 
 imponente San Esteban, que dominan buena parte de los edificios. Ofrecen tours a medida, 
-desde su página web o vía telefónica se puede concertar un recorrido en pequeños grupos 
-al gusto del consumidor. _Desde 2 horas y precios que parten de los 10 euros/persona_. 
-Otra opción es la agencia [Civitatis que ofrece rutas guiadas muy económicas en 
+desde su página web o vía telefónica, aunque otra opción es la agencia [Civitatis que 
+ofrece rutas guiadas muy económicas en 
 Salamanca](https://www.civitatis.com/es/salamanca/?aid=10211). 
 
-![restaurante el alquimista para comer con amigas en salamanca](etheria-images/2021/03/salamanca-El-Alquimista.jpg "Paté de pollo de 'El Alquimista'.")
+![restaurante el alquimista para comer con amigas en salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-El-Alquimista.jpg "Paté de pollo de 'El Alquimista'.")
 
 ### 4\. Jugando a ser alquimista
 
@@ -120,20 +116,18 @@ son **platos clásicos charros** pero con un giro de sabores y texturas que busc
 sorprender en todo momento. De hecho, cocina divertida y arriesgada es como le gusta a 
 César definir su estilo, que junto a su pareja Sandra Martín López regentan este 
 colorido espacio. Está decorado con piezas _vintage_ que han sido recuperadas por la 
-propia _metre_, que pronto firmará también la vajilla del restaurante. 
+propia _metre_, que pronto firmará también la vajilla del restaurante. Menús del día 
+desde 22 euros. 
 
-Entre paredes de fuerte color azul y manteles en blanco se suceden platos como el _paté 
-de pollo en floreta con oloroso y vinagre Ximénez Spínola;_ _chicharro al fuego con 
-remolacha y_ ciruela; o un clásico bocado carnívoro, el de _la Reina, con calderillo 
-Bejarano y gnochis de patata._ Defensores de su tierra y de los pequeños productores que 
-habitan en ella, trabajan con huertos orgánicos y empresas cárnicas extensivas. Así se 
-aseguran productos de calidad, ecorresponsables y fieles a la tradición para ofrecer 
-pecados al paladar con firma propia. No dudes en reservar para poder gozar de uno de los 
-planes originales en Salamanca que más nos gustan. 
+Defensores de su tierra y de los pequeños productores que habitan en ella, trabajan con 
+huertos orgánicos y empresas cárnicas extensivas. Así se aseguran productos de calidad, 
+ecorresponsables y fieles a la tradición para ofrecer pecados al paladar con firma 
+propia. No dudes en reservar para poder gozar de uno de los planes originales en 
+Salamanca que más nos gustan. 
 
 Dirección: Plaza de San Cristóbal, 6. 
 
-![restos arqueologicos de salamanca](etheria-images/2021/03/salamanca-Restos-arqueologicos.jpg "Restos arqueológicos en el Cerro de San Vicente, en Salamanca.")
+![restos arqueologicos de salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-Restos-arqueologicos.jpg "Restos arqueológicos en el Cerro de San Vicente, en Salamanca.")
 
 ### 5\. Un paseo por el (verdadero) origen de Salamanca
 
@@ -162,7 +156,7 @@ una vez tuvo.
 
 Dirección: San Narciso, 25. 
 
-![museo casa lis planes originales en Salamanca](etheria-images/2021/03/salamanca-Museo-Lis.jpg "Museo Casa Lis, de Salamanca.")
+![museo casa lis planes originales en Salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-Museo-Lis.jpg "Museo Casa Lis, de Salamanca.")
 
 ### 6\. Descubrir la mayor colección de muñecas de porcelana
 
@@ -187,7 +181,7 @@ guiadas](https://www.civitatis.com/es/salamanca/visita-guiada-casa-lis/?aid=1021
 
 Dirección: Gibraltar, 14 
 
-![Huerto de Calixto y Melibea  planes originales en Salamanca](etheria-images/2021/03/salamanca-huerto-Calisto-y-Melibea.jpg "Huerto de Calixto y Melibea, un lugar ideal para ver el atardecer en Salamanca.")
+![Huerto de Calixto y Melibea  planes originales en Salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-huerto-Calisto-y-Melibea.jpg "Huerto de Calixto y Melibea, un lugar ideal para ver el atardecer en Salamanca.")
 
 ### 7\. Disfrutar del mejor atardecer de Salamanca
 
@@ -206,7 +200,7 @@ Salamanca que disfrutarás tanto con amigas, como en pareja o si viajas sola.
 
 Dirección: Calle Arcediano, 20. 
 
-![archivo de la guerra civil en salamanca](etheria-images/2021/03/salamanca-archivo-Guerra-Civil.jpg "Archivo de la guerra civil española en Salamanca.")
+![archivo de la guerra civil en salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-archivo-Guerra-Civil.jpg "Archivo de la guerra civil española en Salamanca.")
 
 Sin abandonar esta zona cercana al río Duero, el _Archivo General de la Guerra Civil 
 Española_, ahora bautizado como **Centro Documental de la Memoria Histórica,** espera 
@@ -228,7 +222,7 @@ particulares opuestos al _alzamiento_.
 
 Dirección. Gibraltar, 2. 
 
-![Bambu Tapas y Brasas planes originales en Salamanca](etheria-images/2021/03/salamanca-Pincho-ganador-Bambu.jpg "Pincho ganador del restaurante Bambú Tapas y Brasas.")
+![Bambu Tapas y Brasas planes originales en Salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-Pincho-ganador-Bambu.jpg "Pincho ganador del restaurante Bambú Tapas y Brasas.")
 
 ### 9\. Ir de tapeo con amigas en Salamanca
 
@@ -270,7 +264,7 @@ como en plato dentro de su comedor.
 
 Dirección: Plaza Mayor, 23. 
 
-![catedral nueva planes originales en salamanca](etheria-images/2021/03/salamanca-Catedral-Nueva.jpg "Vista del interior de la Catedral Nueva de Salamanca.")
+![catedral nueva planes originales en salamanca](https://fotos.etheriamagazine.com/2021/03/salamanca-Catedral-Nueva.jpg "Vista del interior de la Catedral Nueva de Salamanca.")
 
 ### 10\. Planes originales en Salamanca desde las alturas
 
@@ -303,42 +297,36 @@ libretos de hasta el siglo XIV perfectamente conservados).
 
 ## Guía práctica de Salamanca
 
-### ¿Es seguro viajar sola a Salamanca?
+**¿Es seguro viajar sola a Salamanca?** 
 
 Es una ciudad muy cómoda y segura para recorrerla a pie. Como en cualquier ciudad 
 siempre hay que guardar precauciones si recorres sola por la noche lugares apartados. 
 
-### ¿Dónde puedo alojarme en Salamanca?
+**¿Dónde puedo alojarme?** 
 
 Si buscas un hotel en los aledaños del centro histórico, desde el Paseo Carmelitas hasta 
 la Gran Vía, aprovecharás más el día. 
 
-### ¿Qué puedo ver en un fin de semana en Salamanca?
+**¿Qué puedo ver en un fin de semana en Salamanca?** 
 
 Todas las visitas que te hemos recomendado se pueden concentrar en un fin de semana. 
 Toma nota de la Plaza Mayor, la Casa Lis, la antigua Universidad, ruta de Unamuno, 
 huerto de Calixto y Melibea, Casa de las Conchas, Archivo de la Guerra Civil, e ir de 
 tapeo a Salamanca. 
 
-### Consejos para visitar Salamanca
+**Consejos para visitar Salamanca** 
 
 Reserva con anticipación las entradas a museos o las visitas guiadas. Pasea y piérdete 
 por sus rincones, será siempre toda una experiencia. 
 
-### Visitas guiadas, baratas e interesantes en Salamanca
-
-[Tour de leyendas en 
-Salamanca](https://www.civitatis.com/es/salamanca/tour-misterios-leyendas/?aid=10211). 
-
-? [Free tour por la Salamanca más 
-misteriosa](https://www.civitatis.com/es/salamanca/free-tour-salamanca-paranormal/?aid=10211). 
+**Visitas guiadas, baratas e interesantes en Salamanca** 
 
 [Free tour monumental por 
 Salamanca](https://www.civitatis.com/es/salamanca/free-tour-salamanca/?aid=10211). 
 
-![escuelas pias de salamanca](etheria-images/2018/05/6-Viajar-sola-a-Salamanca-1024x642.jpg "Cúpula de la catedral desde el patio de las Viejas Escuelas. © Etheria Magazine")
+![escuelas pias de salamanca](https://fotos.etheriamagazine.com/2018/05/6-Viajar-sola-a-Salamanca-1024x642.jpg "Cúpula de la catedral desde el patio de las Viejas Escuelas. © Etheria Magazine")
 
-### Otras escapadas con amigas en Castilla y León
+**Otras escapadas con amigas en Castilla y León** 
 
 [Si León no existiera, habría que inventarlo: 10 razones para descubrir la capital de un 
 reino 

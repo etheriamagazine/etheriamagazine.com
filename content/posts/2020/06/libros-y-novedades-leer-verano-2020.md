@@ -1,7 +1,7 @@
 ---
 title: "¿Buscas un libro para leer o regalar este verano?"
 date: 2020-06-18
-coverImage: etheria-images/2020/06/libros-verano-2020.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/libros-verano-2020.jpg
 categories: 
   - organiza-tu-viaje
   - libros-de-viajes
@@ -16,7 +16,7 @@ artículo hemos realizado una selección con un poco de todo, desde los últimos
 en algunos certámenes, a novedades, novelas gráficas o consejos de fotografía. ¿Con 
 cuántos te quedas? 
 
-![libros verano 2020, novedades literarias 2020](etheria-images/2020/06/libros-verano-2020.jpg "Lecturas de verano para divertirse o aprender en vacaciones. © Dan Dumitriu")
+![libros verano 2020, novedades literarias 2020](https://fotos.etheriamagazine.com/2020/06/libros-verano-2020.jpg "Lecturas de verano para divertirse o aprender en vacaciones. © Dan Dumitriu")
 
 Quizás hayas agotado tu 'fondo de libros' en los últimos meses pero te aseguramos que 
 muchos de los que te vamos a recomendar no estaban entre ellos. Algunos porque están a 
@@ -38,7 +38,7 @@ ha creado una novela gráfica que cuenta con la aceptación de los expertos en l
 Sus 300 páginas, llenas de ilustraciones y matices, son pequeñas joyas. Es de Planeta 
 Cómic. 
 
-![patria, Aramburu, novela grafica, libros verano 2020](etheria-images/2020/06/patria.jpg "'Patria', novela gráfica.")
+![patria, Aramburu, novela grafica, libros verano 2020](https://fotos.etheriamagazine.com/2020/06/patria.jpg "'Patria', novela gráfica.")
 
 ## 2\. 'El mensaje de Pandora'.
 
@@ -48,7 +48,7 @@ llena de esperanza y aprendizaje. En palabras del autor, “Es la carta que todo
 necesitamos leer para ponernos en marcha, para no rendirnos ante la adversidad. Su 
 mensaje está lleno de intriga, pero también de futuro”. 
 
-![el mensaje de pandora, libros verano 2020](etheria-images/2020/06/el-mensaje-de-pandora.jpg "'El mensaje de Pandora'.")
+![el mensaje de pandora, libros verano 2020](https://fotos.etheriamagazine.com/2020/06/el-mensaje-de-pandora.jpg "'El mensaje de Pandora'.")
 
 ## 3. 'La cocina del mar'.
 
@@ -60,7 +60,7 @@ Zafra, Aitor Arregi, Martín Berasategui, Elena Arzak Nacho Manzano, Quique Daco
 Jesús Sánchez, Susi Díaz, Eduard Xatruch, Mateu Casañas y Oriol Castro. De Planeta 
 Gastro. 
 
-![la cocina del mar, libros cocina 2020](etheria-images/2020/06/cocina-del-mar.jpg "'La cocina del mar'.")
+![la cocina del mar, libros cocina 2020](https://fotos.etheriamagazine.com/2020/06/cocina-del-mar.jpg "'La cocina del mar'.")
 
 ## 4\. 'La vuelta al mundo de Lizzy Fog II'.
 
@@ -71,7 +71,7 @@ Elisabeth G. Iborra, desgrana anécdotas y recomendaciones para evitar situacion
 vivido en sus viajes. Entre sus capítulos: ‘Bolivia, entre la belleza y la sensación de 
 ser una tarjeta de crédito ambulante’ o ‘Galápagos, el paraíso convertido en infierno’. 
 
-![la vuelta al mundo de Lizzy fogg, editorial casiopea](etheria-images/2020/06/lizzy-fogg-2.jpg "'La vuelta al mundo de Lizzy Fogg II'.")
+![la vuelta al mundo de Lizzy fogg, editorial casiopea](https://fotos.etheriamagazine.com/2020/06/lizzy-fogg-2.jpg "'La vuelta al mundo de Lizzy Fogg II'.")
 
 ## 5\. 'Canción negra'.
 
@@ -81,7 +81,7 @@ tenemos la oportunidad de disfrutar de su traducción al castellano y de las
 ilustraciones de Kike de la Rubia gracias a la [editorial 
 Nórdica](https://www.nordicalibros.com), que siempre lanza auténticos tesoros. 
 
-![cancion negra, lecturas verano 2020](etheria-images/2020/06/cancion-negra-nordica.jpg "'Canción negra'.")
+![cancion negra, lecturas verano 2020](https://fotos.etheriamagazine.com/2020/06/cancion-negra-nordica.jpg "'Canción negra'.")
 
 ## 6\. 'El mapa de los afectos'.
 
@@ -92,7 +92,7 @@ personajes cobran un especial protagonismo. Su autora, que ha publicado varias o
 teatro y nueve poemarios, ganó también el Premio Adonáis de Poesía en 1994 con 
 ‘Preparativos para un viaje’. Lo ha editado Ediciones Destino. 
 
-![el mapa de los afectos, premio Nadal 2020, libros verano](etheria-images/2020/06/mapa-afectos.jpg "'El mapa de los afectos'.")
+![el mapa de los afectos, premio Nadal 2020, libros verano](https://fotos.etheriamagazine.com/2020/06/mapa-afectos.jpg "'El mapa de los afectos'.")
 
 ## 7\. 'La madre de Frankestein'.
 
@@ -103,7 +103,7 @@ de mujeres de Ciempozuelos, al sur de Madrid. Otras propuestas de esta prolífic
 que también merecen la pena, son ‘Las tres bodas de Manolita’, ‘Los besos en el pan’ y 
 ‘Los pacientes del doctor García’. Es de la editorial Tusquets. 
 
-![La madre de frankestein, lectura verano 2020](etheria-images/2020/06/madre-de-frankenstein.jpg "'La madre de Frankestein'.")
+![La madre de frankestein, lectura verano 2020](https://fotos.etheriamagazine.com/2020/06/madre-de-frankenstein.jpg "'La madre de Frankestein'.")
 
 ## 8\. 'Todo esto te daré'.
 
@@ -116,7 +116,7 @@ _Trilogía de Baztán_, es otra opción a considerar, como os comentábamos en e
 de Rutas 
 Literarias](https://etheriamagazine.com/2020/04/09/viaja-a-traves-de-los-libros-con-estas-10-rutas-literarias/). 
 
-![libros de dolores redondo, todo esto te dare, libros verano 2020](etheria-images/2020/06/todo-esto-te-dare.jpg "'Todo esto te daré'.")
+![libros de dolores redondo, todo esto te dare, libros verano 2020](https://fotos.etheriamagazine.com/2020/06/todo-esto-te-dare.jpg "'Todo esto te daré'.")
 
 ## 9\. 'Fotografía con móviles'.
 
@@ -125,7 +125,7 @@ podemos hacer una cosa: aprender a sacarle el máximo partido a nuestros disposi
 el manual ‘Fotografía con móviles’ de Rodrigo Rivas, editado por Photo Club, comparten 
 recomendaciones técnicas y de composición para mejorar nuestras imágenes. 
 
-![fotografia moviles, manuales foto moviles](etheria-images/2020/06/fotografia-moviles.jpg "'Fotografía con móviles'.")
+![fotografia moviles, manuales foto moviles](https://fotos.etheriamagazine.com/2020/06/fotografia-moviles.jpg "'Fotografía con móviles'.")
 
 ## 10. 'Wabi Sabi, un mes en Japón'.
 
@@ -139,4 +139,4 @@ edades.
 
 Es de Lunwerg Editore. 
 
-![libro de Japón, Wabi Sabi, cultura japonesa](etheria-images/2020/06/wabi-sabi.jpg "'Wabi Sabi, un mes en Japón'.")
+![libro de Japón, Wabi Sabi, cultura japonesa](https://fotos.etheriamagazine.com/2020/06/wabi-sabi.jpg "'Wabi Sabi, un mes en Japón'.")

@@ -1,7 +1,7 @@
 ---
 title: "María Andresa Casamayor, la aragonesa que soñaba con números"
 date: 2020-12-21
-coverImage: etheria-images/2020/12/Fotograma-documental-maria-andresa-casamajor.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/Fotograma-documental-maria-andresa-casamajor.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -15,7 +15,7 @@ libro de Ciencia publicado por una mujer en España. Con solo 17 años redactó 
 de aritmética: el 'Tyrocinio Arithmetico, instrucción de las quatro reglas llanas'. Te 
 contamos la historia y dificultades que afrontó esta mujer adelantada a su tiempo. 
 
-![Fotograma del documental dedicado a María Andresa Casamajor.](etheria-images/2020/12/Fotograma-documental-maria-andresa-casamajor.jpg "Fotograma del documental dedicado a María Andresa Casamajor. © Sintregua Comunicación")
+![Fotograma del documental dedicado a María Andresa Casamajor.](https://fotos.etheriamagazine.com/2020/12/Fotograma-documental-maria-andresa-casamajor.jpg "Fotograma del documental dedicado a María Andresa Casamajor. © Sintregua Comunicación")
 
 María Andresa Casamayor de La Coma, la primera mujer matemática que escribe un libro de 
 ciencia en español, nació el 30 de noviembre de 1720 en Zaragoza, en el día de San 
@@ -33,7 +33,7 @@ conocimientos. Estaba dotada de una pasión y una inteligencia que brillaba por 
 la de muchos hombres. María Andresa es, sin embargo, una de las grandes mujeres 
 desconocidas de nuestro patrimonio cultural y científico. 
 
-![Cartel del documental 'La mujer que soñaba con números' sobre María Andresa Casamayor.](etheria-images/2020/12/cartel-documental-maria-andresa-casamajor.jpg "Cartel del documental 'La mujer que soñaba con números' sobre María Andresa Casamayor. © Sintregua Comunicación")
+![Cartel del documental 'La mujer que soñaba con números' sobre María Andresa Casamayor.](https://fotos.etheriamagazine.com/2020/12/cartel-documental-maria-andresa-casamajor.jpg "Cartel del documental 'La mujer que soñaba con números' sobre María Andresa Casamayor. © Sintregua Comunicación")
 
 En la actualidad, perduran algunas trazas reivindicativas de su figura en nuestro país. 
 Alguien ha podido ver una calle dedicada a ella en Zaragoza –su lugar de nacimiento–, y 
@@ -50,7 +50,7 @@ María Andresa Casamayor (1720-1780) trabajó desde la sombra, desde el anonimat
 segundo plano, marcada, infaliblemente, por la idiosincrasia de la sociedad donde 
 creció. 
 
-![Apunte del bautismo de María Andresa Casamayor.](etheria-images/2020/12/Apunte-del-bautismo-de-Maria-Andresa.jpg "Apunte del bautismo de María Andresa Casamayor. © Archivo de El Pilar")
+![Apunte del bautismo de María Andresa Casamayor.](https://fotos.etheriamagazine.com/2020/12/Apunte-del-bautismo-de-Maria-Andresa.jpg "Apunte del bautismo de María Andresa Casamayor. © Archivo de El Pilar")
 
 Sus padres fueron el francés Juan Joseph Casamayor (oriundo de Oloron, municipio del 
 Departamento de los Pirineos-Atlánticos) y la zaragozana Juana Rosa de La Coma. Se crió 
@@ -80,7 +80,7 @@ números y la aritmética, en los que llegaría a alcanzar un nivel matemático 
 También **aprendió varias lenguas**, algo totalmente inusual para una mujer en aquella 
 época, donde el porcentaje de analfabetos era enorme, especialmente entre las féminas. 
 
-![acuarela zaragoza](etheria-images/2020/12/zaragoza-acuarela.jpg "En Zaragoza nació y vivió María Andresa Casamayor.")
+![acuarela zaragoza](https://fotos.etheriamagazine.com/2020/12/zaragoza-acuarela.jpg "En Zaragoza nació y vivió María Andresa Casamayor.")
 
 Desgraciadamente, con el fallecimiento de su padre en 1738 y de su amigo y colaborador 
 el dominico Fray Pedro Martínez en 1739, los apoyos de los que había disfrutado la joven 
@@ -98,7 +98,7 @@ científica en el sector de la población menos favorecido por la enseñanza. Y,
 buena parte de su vida, fue maestra de primeras letras en las aulas públicas de la 
 ciudad. 
 
-![dibujo primera mujer matemática de España](etheria-images/2020/12/dibujo-Primera-científica-española.jpg "Dibujo de María Andresa Casamayor. © Eulogia Merle")
+![dibujo primera mujer matemática de España](https://fotos.etheriamagazine.com/2020/12/dibujo-Primera-científica-española.jpg "Dibujo de María Andresa Casamayor. © Eulogia Merle")
 
 Llevó la aritmética a las clases más populares a través de su docencia y de su obra 
 escrita. Como parte de su modesta retribución, le será facilitada una casa donde vivir. 
@@ -119,7 +119,7 @@ las matemáticas, de carácter divulgativo. Esto fue fundamental para acercar a 
 población, de manera clara, las cuatro operaciones esenciales de la aritmética: sumar, 
 restar, dividir y multiplicar. 
 
-![Ejemplar original de 'Tyrocinio arithmetico'.](etheria-images/2020/12/Tyrocinio-maria-andresa-casamajor.jpg "Ejemplar original de 'Tyrocinio arithmetico'. © Sintregua Comunicación")
+![Ejemplar original de 'Tyrocinio arithmetico'.](https://fotos.etheriamagazine.com/2020/12/Tyrocinio-maria-andresa-casamajor.jpg "Ejemplar original de 'Tyrocinio arithmetico'. © Sintregua Comunicación")
 
 Con función eminentemente práctica, incluía una completa tabla de pesos, medidas y 
 monedas de uso en aquella época. Es un libro de lectura ágil, muy práctico, con muchos 
@@ -138,7 +138,7 @@ masculino, perfecto anagrama de su nombre. Así, nos llega esta obra hasta nuest
 dejando la huella de lo que representaba trabajar en sectores vetados entonces para las 
 mujeres. 
 
-![Sello mujeres de la ciencia](etheria-images/2020/12/sello-maria-andresa-casamajor.jpg "Sello conmemorativo de María Andresa Casamayor.")
+![Sello mujeres de la ciencia](https://fotos.etheriamagazine.com/2020/12/sello-maria-andresa-casamajor.jpg "Sello conmemorativo de María Andresa Casamayor.")
 
 ## 'El para sí solo', un manuscrito inacabado
 
@@ -164,7 +164,7 @@ evento mostró, mediante ponencias y conferencias virtuales, la vida y la obra d
 pionera zaragozana. Se reivindica así su huella histórica en el contexto de la sociedad 
 de la época. 
 
-![Reedición del 'Tyrocinio Arithmetico' con ilustración de David Guirao.](etheria-images/2020/12/reedición-Tyrocinio-Arithmetico-757x1024.jpg "Reedición del 'Tyrocinio Arithmetico' con ilustración de David Guirao.")
+![Reedición del 'Tyrocinio Arithmetico' con ilustración de David Guirao.](https://fotos.etheriamagazine.com/2020/12/reedición-Tyrocinio-Arithmetico-757x1024.jpg "Reedición del 'Tyrocinio Arithmetico' con ilustración de David Guirao.")
 
 Además, ha sido la ocasión ideal para presentar la **primera reedición**, hasta el 
 momento, de su histórica obra _Tyrocinio Arithmetico, instrucción de las quatro reglas 
@@ -179,7 +179,7 @@ Pertenece a una serie dedicada a Mujeres en la Ciencia. Además, se ha rodado el
 documental _La mujer que soñaba con números_ (2019) de Mirella R. Abrisqueta, donde se 
 nos narran múltiples aspectos desconocidos de su vida. 
 
-![Sellos Mujeres de la Ciencia, matematica primera mujer en espana](etheria-images/2020/12/sello-Maria-Andresa-Casamayor.jpg "Sello dedicado a María Andresa Casamayor dentro de la serie Mujeres de la Ciencia.")
+![Sellos Mujeres de la Ciencia, matematica primera mujer en espana](https://fotos.etheriamagazine.com/2020/12/sello-Maria-Andresa-Casamayor.jpg "Sello dedicado a María Andresa Casamayor dentro de la serie Mujeres de la Ciencia.")
 
 A María Andresa se la considera hoy, por fin, después de 302 años de olvido, como una 
 científica meritoria. En 2018 fue incluida en La Tabla Periódica de las Científicas 

@@ -1,7 +1,7 @@
 ---
 title: "Cómo celebrar el Año Nuevo Chino en Madrid este 2024"
 date: 2024-02-08
-coverImage: etheria-images/2024/02/Nuevo-Ano-Chino-2024.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/02/Nuevo-Ano-Chino-2024.jpg
 categories: 
   - festivales
 authors: 
@@ -14,7 +14,7 @@ eventos culturales comienzan el 9 de febrero y se alargan durante el mes de marz
 contamos algunas actividades que no debéis perderos este fin de semana en el Chinatown 
 madrileño y alrededores. 
 
-![Fiestas del Nuevo Año Chino en Madrid](etheria-images/2024/02/Nuevo-Ano-Chino-Madrid.jpg "Nuevo Año Chino. © Ivan Martinez Segovia/ Madrid Destino")
+![Fiestas del Nuevo Año Chino en Madrid](https://fotos.etheriamagazine.com/2024/02/Nuevo-Ano-Chino-Madrid.jpg "Nuevo Año Chino. © Ivan Martinez Segovia/ Madrid Destino")
 
 La celebración del Año Nuevo Chino en Madrid regresa este 2024 con una agenda cargada de 
 espectáculos, conciertos, danza, talleres, cuentacuentos, exposiciones y menús 
@@ -42,7 +42,7 @@ Las propuestas se completarán con el **Mercadillo de la Primavera**, donde habr
 de productos chinos, food trucks con platos típicos, talleres de caligrafía china, 
 papiroflexia y sombras chinescas. 
 
-![Ceremonia del te en el Nuevo Año Chino de Madrid.](etheria-images/2024/02/Nuevo-Ano-Chino-ceremonia-te.jpg "Ceremonia del te en el Nuevo Año Chino de Madrid. © © Ivan Martinez Segovia/ Madrid Destino")
+![Ceremonia del te en el Nuevo Año Chino de Madrid.](https://fotos.etheriamagazine.com/2024/02/Nuevo-Ano-Chino-ceremonia-te.jpg "Ceremonia del te en el Nuevo Año Chino de Madrid. © © Ivan Martinez Segovia/ Madrid Destino")
 
 ## Sábado de fiesta en el parque de Pradolongo
 
@@ -54,7 +54,7 @@ reconocida **Pirotecnia Ángel Cánovas** que, tras iluminar el cielo y el lago 
 parque, culminará con la imagen de un dragón rojo, el animal del horóscopo chino 
 protagonista de esta edición. 
 
-![Concierto en Parque Pradolongo.](etheria-images/2024/02/conciertos-ano-nuevo-chino.jpg "Concierto en Parque Pradolongo. © Ivan Martinez Segovia")
+![Concierto en Parque Pradolongo.](https://fotos.etheriamagazine.com/2024/02/conciertos-ano-nuevo-chino.jpg "Concierto en Parque Pradolongo. © Ivan Martinez Segovia")
 
 ## Domingo: Pasacalles con dragones  
 
@@ -78,7 +78,7 @@ Año Nuevo chino: **El reto del dragón** plantea una divertida prueba de conoci
 sobre cultura china, a la que se puede acceder también directamente desde 
 madridchino.com y retodeldragon.es. 
 
-![Desfile o pasacalles del Año Nuevo Chino en Madrid.](etheria-images/2024/02/Nuevo-Ano-Chino-2024.jpg "Desfile o pasacalles del Año Nuevo Chino en Madrid. © Ivan Martinez Segovia")
+![Desfile o pasacalles del Año Nuevo Chino en Madrid.](https://fotos.etheriamagazine.com/2024/02/Nuevo-Ano-Chino-2024.jpg "Desfile o pasacalles del Año Nuevo Chino en Madrid. © Ivan Martinez Segovia")
 
 ## Arte en el Año Nuevo Chino 2024
 
@@ -101,7 +101,7 @@ Ambiental y Cultural Maris Stella, la artista recrea con lápices de colores rin
 icónicos de Madrid, Shanghái y Barcelona con el ánimo de encontrar la belleza del 
 paisaje urbano. La exposición se complementa con varios talleres sobre cultura china. 
 
-![Exposición Dragones digitales con motivo del Año Nuevo Chino 2024 de Madrid](etheria-images/2024/02/Exposicion-dragones-digitales.jpg "Exposición Dragones digitales.")
+![Exposición Dragones digitales con motivo del Año Nuevo Chino 2024 de Madrid](https://fotos.etheriamagazine.com/2024/02/Exposicion-dragones-digitales.jpg "Exposición Dragones digitales.")
 
 ## Más actividades para niños y mayores
 
@@ -117,7 +117,7 @@ cinta aborda las historias de tres chicas de origen chino que viven en Madrid, q
 cruzan y se separan, pero mantienen un objetivo común: la búsqueda de la identidad 
 propia. 
 
-![Empanadillas de pato con foie flambeado en Hong Kong 70 in Chinatown.](etheria-images/2023/01/hong-kong-70.jpg "Empanadillas de pato con foie flambeado en Hong Kong 70 in Chinatown.")
+![Empanadillas de pato con foie flambeado en Hong Kong 70 in Chinatown.](https://fotos.etheriamagazine.com/2023/01/hong-kong-70.jpg "Empanadillas de pato con foie flambeado en Hong Kong 70 in Chinatown.")
 
 ## China Taste
 

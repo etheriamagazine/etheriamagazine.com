@@ -1,7 +1,7 @@
 ---
 title: "¿Podría ser Groenlandia el viaje de tu vida? Averígualo aquí"
 date: 2018-11-14
-coverImage: etheria-images/2018/11/Groenlandia-Narsaq-viajes-mujeres-bis-e1581153169860.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/Groenlandia-Narsaq-viajes-mujeres-bis-e1581153169860.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -17,7 +17,7 @@ planeta, por detrás de la Antártida, debido a que cerca del 80% de su territor
 cubierto de hielo. Por esta razón es uno de los destinos más inhóspitos del mundo y que 
 precisa de un gran espíritu aventurero para descubrirlo. 
 
-![mujer escalando en Groenlandia](etheria-images/2018/11/Groenlandia-viajes-mujeres-Escalada-glaciar-ok-1024x715.jpg "Estar en buena forma física es imprescindible para escalar los glaciares de Groenlandia.")
+![mujer escalando en Groenlandia](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Escalada-glaciar-ok-1024x715.jpg "Estar en buena forma física es imprescindible para escalar los glaciares de Groenlandia.")
 
 Antes de nada, debemos saber que viajar a Groenlandia nos permitirá conocer una pequeña 
 parte del país. Debido a las condiciones climatológicas y a la extensión del Inlandis 
@@ -34,7 +34,7 @@ especializada en el territorio es la mejor opción. En la página oficial de [Tu
 Groenlandia](https://visitgreenland.com/) presentan todas las agencias que trabajan en 
 este destino, donde se incluyen dos españolas. 
 
-![Igaliku en Groenlandia](etheria-images/2018/11/Groenlandia-viajes-mujeres-Igaliku-I-1024x639.jpg "Igaliku fue reconocida como Patrimonio de la Humanidad por la Unesco.")
+![Igaliku en Groenlandia](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Igaliku-I-1024x639.jpg "Igaliku fue reconocida como Patrimonio de la Humanidad por la Unesco.")
 
 Prepararse mentalmente para esta expedición es necesario ya que se trata de **un viaje 
 muy activo físicamente**, poco confortable en cuanto a los alojamientos, y en el que las 
@@ -57,7 +57,7 @@ inuit y los vikingos, visibles mil años después en los idílicos pueblos granj
 grandes amistades con los compañeros de viaje y os retaréis a vosotras mismas cada día, 
 superando adversidades y sintiendo una inmensa sensación de satisfacción. 
 
-![iceberg en Groenlandia](etheria-images/2018/11/Groenlandia-viajes-mujeres-Iceberg-azul-III-1024x683.jpg "El color de los icebergs de Groenlandia casi se mimetiza con el del cielo.")
+![iceberg en Groenlandia](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Iceberg-azul-III-1024x683.jpg "El color de los icebergs de Groenlandia casi se mimetiza con el del cielo.")
 
 ## Qué pueblos ver en Groenlandia
 
@@ -72,7 +72,7 @@ de kayak más importante de la zona y la única fuente del país ubicada en la p
 principal, esconde **30 esculturas en roca** esparcidas entre sus casas en un 
 interesante recorrido repleto de historia y curiosidades. 
 
-![casas en Narsaq](etheria-images/2018/11/Groenlandia-Narsaq-viajes-mujeres-bis-1024x683.jpg "En Narsaq visita su museo, el taller de artesanía y el Mercado de Pescado, pero deja tiempo para pasear.")
+![casas en Narsaq](https://fotos.etheriamagazine.com/2018/11/Groenlandia-Narsaq-viajes-mujeres-bis-1024x683.jpg "En Narsaq visita su museo, el taller de artesanía y el Mercado de Pescado, pero deja tiempo para pasear.")
 
 ### Nanortalik, lugar de osos polares
 
@@ -102,7 +102,7 @@ representaba la capital de la Groenlandia vikinga que antiguamente se denominaba
 _Brattahlid_, de la que aún quedan algunas ruinas. Recientemente ha sido reconocido como 
 Patrimonio de la Humanidad por la Unesco. 
 
-![casa en Tasiusaq](etheria-images/2018/11/Groenlandia-viajes-mujeres-Tasiusaq-IV-1024x694.jpg "Tasiusaq, uno de los pueblos más bellos del recorrido.")
+![casa en Tasiusaq](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Tasiusaq-IV-1024x694.jpg "Tasiusaq, uno de los pueblos más bellos del recorrido.")
 
 ### Igaliku, recuerdos vikingos
 
@@ -124,7 +124,7 @@ las inclemencias del tiempo en Groenlandia. La repoblación vino a manos de algu
 los familiares que quisieron homenajear a los fallecidos regresando a su lugar de 
 origen. 
 
-![iceberg](etheria-images/2018/11/Groenlandia-viajes-mujeres-Iceberg-azul-II-1024x563.jpg "El azul eléctrico de los icebergs es una de las sorpresas que depara este viaje.")
+![iceberg](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Iceberg-azul-II-1024x563.jpg "El azul eléctrico de los icebergs es una de las sorpresas que depara este viaje.")
 
 ## Los fiordos de Groenlandia
 
@@ -151,7 +151,7 @@ este fiordo se encuentra uno de los frentes glaciares más activos, por lo que n
 por él supone encontrarse con una gran densidad de témpanos de hielo de todas las formas 
 y tamaños que ofrecen imágenes únicas e irrepetibles. 
 
-![Nalumasortoq](etheria-images/2018/11/Groenlandia-viajes-mujeres-Nalumasortoq-bis-1024x683.jpg "Esta gran mole de granito de Nalumasortoq impresiona aún más en vivo.")
+![Nalumasortoq](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Nalumasortoq-bis-1024x683.jpg "Esta gran mole de granito de Nalumasortoq impresiona aún más en vivo.")
 
 ## Otros enclaves de Groenlandia
 
@@ -170,7 +170,7 @@ Con una altura máxima de 1.858 metros, se trata de una de las paredes más vert
 mundo y un goloso objetivo para los escaladores expertos. La mejor manera de admirar sus 
 dimensiones es realizar un _trekking_ hasta el pie de la propia pared. 
 
-![trekking de Nalumasortoq.](etheria-images/2018/11/Groenlandia-viajes-mujeres-Nalumasortoq-trekking-III-1024x675.jpg "Prepárate para el asombro en el trekking de Nalumasortoq.")
+![trekking de Nalumasortoq.](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Nalumasortoq-trekking-III-1024x675.jpg "Prepárate para el asombro en el trekking de Nalumasortoq.")
 
 ### Nalumasortoq
 
@@ -179,7 +179,7 @@ realizar otro trekking hasta llegar a su falda, en el que es necesario cruzar un
 varias ocasiones. Sus paredes gemelas recuerdan a un libro abierto y a sus pies se puede 
 observar un paisaje alpino y glaciar con vistas extraordinarias. 
 
-![Trekking en el Valle de las Mil Flores en Groenlandia](etheria-images/2018/11/Groenlandia-viajes-mujeres-Trekking-de-las-Mil-Flores-I-1024x602.jpg "Trekking en el Valle de las Mil Flores.")
+![Trekking en el Valle de las Mil Flores en Groenlandia](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Trekking-de-las-Mil-Flores-I-1024x602.jpg "Trekking en el Valle de las Mil Flores.")
 
 ### Valle de las Mil Flores
 
@@ -193,7 +193,7 @@ glaciar y sus _nunataks_ o islas de roca aflorando del hielo.
 
 ## Guía práctica de Groenlandia
 
-![casa en Nuugaarsuk](etheria-images/2018/11/Groenlandia-viajes-mujeres-Nuugaarsuk-II-1024x603.jpg "Bucólico paisaje de Nuugaarsuk.")
+![casa en Nuugaarsuk](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Nuugaarsuk-II-1024x603.jpg "Bucólico paisaje de Nuugaarsuk.")
 
 ### Vuelos
 
@@ -223,7 +223,7 @@ rústicas, con pocas comodidades, pero agradables y confortables. En el caso de 
 campamentos, no cuentan con duchas ni agua corriente, por lo que las opciones de aseo 
 serán reducidas durante esos días. 
 
-![Capilla inuit](etheria-images/2018/11/Groenlandia-viajes-mujeres-Capilla-inuit-1024x675.jpg "Capilla inuit.")
+![Capilla inuit](https://fotos.etheriamagazine.com/2018/11/Groenlandia-viajes-mujeres-Capilla-inuit-1024x675.jpg "Capilla inuit.")
 
 ### Qué llevar en la maleta para Groenlandia
 

@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Milán en un fin de semana"
 date: 2018-12-21
-coverImage: etheria-images/2018/12/Milan-navigli-e1567238593842.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/12/Milan-navigli-e1567238593842.jpg
 categories: 
   - viajes-48-horas
   - viajes-romanticos
@@ -16,7 +16,7 @@ incentivarte a pasar un fin de semana en Milán, le sumamos sus museos, tiendas 
 tentadoras excursiones a menos de una hora de coche o tren. No nos negarás que esta 
 ciudad del norte de Italia tiene que ser uno de tus viajes con amigas. 
 
-![viajes de fin de semana, 48 horas en, Italia, arte](etheria-images/2018/12/Milan-duomo-detalle-e1567238407373.jpg "Detalle de la parte más alta del Duomo, visible desde las terrazas. ©S.G.")
+![viajes de fin de semana, 48 horas en, Italia, arte](https://fotos.etheriamagazine.com/2018/12/Milan-duomo-detalle-e1567238407373.jpg "Detalle de la parte más alta del Duomo, visible desde las terrazas. ©S.G.")
 
 Quien diga que Milán es sólo una urbe industrial y comercial con menos interés artístico 
 que otras ciudades italianas es que no ha contemplado la fachada de su Duomo. Es cierto 
@@ -64,7 +64,7 @@ distintas salas del castillo albergan una importante colección de arte que incl
 _Pietà de Rondanin_ (la última obra de Miguel Ángel, que quedó inacabada) y los tapices 
 de Trivulzio. 
 
-![Fachada del Castello Sforzesco con la torre Filarete.](etheria-images/2018/12/Milan-castello-sforzesco-e1567238461748.jpg "Fachada del Castello Sforzesco con la torre Filarete. ©S.G.")
+![Fachada del Castello Sforzesco con la torre Filarete.](https://fotos.etheriamagazine.com/2018/12/Milan-castello-sforzesco-e1567238461748.jpg "Fachada del Castello Sforzesco con la torre Filarete. ©S.G.")
 
 ### El Duomo
 
@@ -85,7 +85,7 @@ contemplar las bóvedas de crucería, los capiteles y busca sus tesoros, como la
 de San Bartolomé, un auténtico tratado de anatomía que queda al descubierto al reflejar 
 su cuerpo con la piel arrancada. 
 
-![Detalle del interior del Duomo con la estatua de San Bartolomé.](etheria-images/2018/12/Milan-duomo-san-clemente-e1567238494201.jpg "Detalle del interior del Duomo con la estatua de San Bartolomé. ©S.G.")
+![Detalle del interior del Duomo con la estatua de San Bartolomé.](https://fotos.etheriamagazine.com/2018/12/Milan-duomo-san-clemente-e1567238494201.jpg "Detalle del interior del Duomo con la estatua de San Bartolomé. ©S.G.")
 
 ### La Galleria de Vitorio Emanuele II
 
@@ -99,7 +99,7 @@ temporada cada año el 7 de diciembre, día de San Ambrosio, el patrón de la ci
 Construido en el siglo XVIII, destaca por el aire clásico del interior en oro y rojo, el 
 enorme escenario y su aire de templo de otra época. 
 
-![Entrada a la Galleria de Vitorio Emanuele II desde la Piazza del Duomo](etheria-images/2018/12/Milan-galeria-Vitorio-Emanuele-e1567238511585.jpg "Entrada a la Galleria de Vitorio Emanuele II desde la Piazza del Duomo. ©S.G.")
+![Entrada a la Galleria de Vitorio Emanuele II desde la Piazza del Duomo](https://fotos.etheriamagazine.com/2018/12/Milan-galeria-Vitorio-Emanuele-e1567238511585.jpg "Entrada a la Galleria de Vitorio Emanuele II desde la Piazza del Duomo. ©S.G.")
 
 ## De tiendas en Milán
 
@@ -119,7 +119,7 @@ paseo y aquí sí que es muy probable que te des un capricho en forma de prenda 
 complemento en alguna de sus tiendas. También es un sitio perfecto para una cena 
 tranquila. 
 
-![Sala de la Pinacoteca di Brera.](etheria-images/2018/12/Milan-pinacoteca-di-brera-e1567238555986.jpg "Sala de la Pinacoteca di Brera.")
+![Sala de la Pinacoteca di Brera.](https://fotos.etheriamagazine.com/2018/12/Milan-pinacoteca-di-brera-e1567238555986.jpg "Sala de la Pinacoteca di Brera.")
 
 ## Domingo de museos
 
@@ -131,7 +131,7 @@ obras de Leonardo da Vinci, Botticelli, Rafael, Caravaggio… Otras opciones son
 **Pinacoteca di Brera**, con obras de los siglos XIV al XIX; o el Museo del Novecento 
 (museodelnovecento.org/it/), dedicado a obras del siglo XX. 
 
-![Basílica de San Ambrosio.](etheria-images/2018/12/Milan-basilica-san-ambrosio-e1567238655456.jpg "Basílica de San Ambrosio.")
+![Basílica de San Ambrosio.](https://fotos.etheriamagazine.com/2018/12/Milan-basilica-san-ambrosio-e1567238655456.jpg "Basílica de San Ambrosio.")
 
 También puedes acercarte a la zona sur de la ciudad para visitar la **Basílica de San 
 Ambrosio** (con unos mosaicos increíbles) y la **Basílica de San Lorenzo alle Colonne**, 
@@ -140,7 +140,7 @@ Canales**, los _navigli_, que hasta el siglo XIX fueron el barrio portuario de M
 Sus tiendas de antigüedades, mercadillos y sus bares son un broche perfecto para un 
 viaje. 
 
-![Barrio de los Navigli.](etheria-images/2018/12/Milan-navigli-e1567238593842.jpg "Barrio de los Navigli.")
+![Barrio de los Navigli.](https://fotos.etheriamagazine.com/2018/12/Milan-navigli-e1567238593842.jpg "Barrio de los Navigli.")
 
 ## Qué ver desde Milán: lago de Como y Bérgamo
 
@@ -159,7 +159,7 @@ tesoros artísticos, mientras se contemplan sus delicados comercios, las casas a
 su suelo empedrado. También es interesante acercarse a contemplar la panorámica desde su 
 Muralla Veneciana o subir a alguna de sus torres, como la del Gombito o la Torre Cívica. 
 
-![Piazza Vechia de Bérgamo.](etheria-images/2018/12/Bergamo-plaza-e1567238614880.jpg "Piazza Vechia de Bérgamo. ©S.G.")
+![Piazza Vechia de Bérgamo.](https://fotos.etheriamagazine.com/2018/12/Bergamo-plaza-e1567238614880.jpg "Piazza Vechia de Bérgamo. ©S.G.")
 
 ## Guía de viaje a Milán
 
@@ -195,7 +195,7 @@ comida, con la imagen de este monumento iluminado.
 En Italia los helados son una institución. Da igual la época del año, tendrás que probar 
 al menos uno. Busca buenas heladerías como **Venchi** o **Grom** y disfruta. 
 
-![Galleria Vittorio Emanuele II.](etheria-images/2018/12/milan-interior-galleria-vittorio-emanuele-ii.jpg "Galleria Vittorio Emanuele II.")
+![Galleria Vittorio Emanuele II.](https://fotos.etheriamagazine.com/2018/12/milan-interior-galleria-vittorio-emanuele-ii.jpg "Galleria Vittorio Emanuele II.")
 
 ### Milán en Navidad
 

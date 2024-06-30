@@ -1,7 +1,7 @@
 ---
 title: "El Camino de Santiago por mar: a vela y entre mujeres"
 date: 2021-05-31
-coverImage: etheria-images/2021/05/camino-santiago-mar.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/05/camino-santiago-mar.jpg
 categories: 
   - historias-en-femenino
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Las chicas no sólo son guerreras sino también marineras, como demuestra el grupo de mujeres que participa en la Travesía 'Navega el Camino', que en esta sexta edición partirá desde Hondarribia. Con esta original forma de hacer el Camino de Santiago por mar (+una etapa terrestre) también se logra la Compostela.
 
-![navega el camino la mujer y el mar](etheria-images/2021/05/camino-santiago-mar.jpg "Navega el Camino, itinerario jacobeo por mar.")
+![navega el camino la mujer y el mar](https://fotos.etheriamagazine.com/2021/05/camino-santiago-mar.jpg "Navega el Camino, itinerario jacobeo por mar.")
 
 La **VI Travesía 'Navega el Camino'** organizada por Northmarinas está dedicada en esta 
 edición, que coincide con el Año Jacobeo, a '**La mujer y el mar**' y persigue dos 
@@ -33,7 +33,7 @@ Euskadiko Kirol Portua; Oihane Cabezas-Basurko, coordinadora técnica del proyec
 LEMA (AZTI)](https://www.azti.es/proyectos/life-lema/), y tres rederas vascas con una 
 amplia trayectoria: Edurne Salaberria, Elena Sorondo y Ainhoa Altzibar. 
 
-![nueve mujeres tripulacion](etheria-images/2021/05/barcos-camino-santiago-mar.jpg "Uno de los barcos tendrá una tripulación de nueve mujeres.")
+![nueve mujeres tripulacion](https://fotos.etheriamagazine.com/2021/05/barcos-camino-santiago-mar.jpg "Uno de los barcos tendrá una tripulación de nueve mujeres.")
 
 Aunque algunas de ellas, como **Sara Barez**, cuentan con una vinculación obvia con el 
 mar, reconoce que es la primera vez que se embarca en una aventura como esta: “Yo he 
@@ -51,7 +51,7 @@ desde mi condición de _coach_ veo a menudo la incertidumbre y la falta de persp
 que en ocasiones ronda a las jóvenes, y a las no tan jóvenes, en la búsqueda de su 
 camino”. 
 
-![camino de santiago en barco de vela](etheria-images/2021/05/Mujeres-Navega-el-Camino.jpg "El Camino de Santiago por mar recorre la cornisa cantábrica.")
+![camino de santiago en barco de vela](https://fotos.etheriamagazine.com/2021/05/Mujeres-Navega-el-Camino.jpg "El Camino de Santiago por mar recorre la cornisa cantábrica.")
 
 ### Navega el Camino de Santiago por mar: del 4 al 19 de junio
 
@@ -77,7 +77,7 @@ estaría fenomenal, pero no es obligatorio. **Se puede alquilar** entre varios a
 un club náutico o tratar de formar parte de la tripulación de alguno que vaya a realizar 
 la travesía. 
 
-![etapas camino santiago por mar](etheria-images/2021/05/etapas-Navega-el-Camino.jpg "Algunas etapas son de descanso y hay tiempo de actividades turísticas.")
+![etapas camino santiago por mar](https://fotos.etheriamagazine.com/2021/05/etapas-Navega-el-Camino.jpg "Algunas etapas son de descanso y hay tiempo de actividades turísticas.")
 
 ### Etapas de la travesía Navega el Camino
 
@@ -98,7 +98,7 @@ junio. A Coruña-Muxía. 16 de junio. Muxía-Muros. 17 de junio. Muros-Pobra do 
 18 de junio. Pobra do Caramiñal-Vilagarcía-Padrón. 19 de junio. 
 Padrón/Milladoiro-Santiago de Compostela. (A PIE) 
 
-![cuando hacer el camino de santiago por mar](etheria-images/2021/05/Navega-el-Camino-Santiago.jpg "El Camino de Santiago por mar se puede hacer durante todo el año.")
+![cuando hacer el camino de santiago por mar](https://fotos.etheriamagazine.com/2021/05/Navega-el-Camino-Santiago.jpg "El Camino de Santiago por mar se puede hacer durante todo el año.")
 
 Si esta travesía para hacer el Camino de Santiago por mar no cuadra en tu agenda en este 
 momento, puedes hacerla por libre de forma individual durante todo el año (aunque el 

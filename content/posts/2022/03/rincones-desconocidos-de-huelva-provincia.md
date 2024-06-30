@@ -1,7 +1,7 @@
 ---
 title: "Rincones y paisajes de  Huelva que aún no conoces"
 date: 2022-03-21
-coverImage: etheria-images/2022/03/Viajar-a-Marte-Huelva.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/03/Viajar-a-Marte-Huelva.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -17,7 +17,7 @@ excelente gastronomía y unas gentes maravillosas y tendréis los mejores ingred
 para una escapada perfecta. Si no sabes qué hacer en Huelva provincia, no te pierdas las 
 dos rutas que te proponemos. 
 
-![paisaje sorprendente con rocas rojas y agua de la ruta de los molinos harineros](etheria-images/2022/03/Ruta-Molinos-Harineros-Villarrasa.jpg "Ruta de los Molinos Harineros del Río Tinto Villarrasa. © Yolanda Cardo")
+![paisaje sorprendente con rocas rojas y agua de la ruta de los molinos harineros](https://fotos.etheriamagazine.com/2022/03/Ruta-Molinos-Harineros-Villarrasa.jpg "Ruta de los Molinos Harineros del Río Tinto Villarrasa. © Yolanda Cardo")
 
 La provincia de Huelva cuenta con una variedad de paisajes bien diferenciados 
 dependiendo de la comarca. Su línea de costa quizás sea la más conocida pero, tierra 
@@ -27,7 +27,7 @@ esperando ser descubiertos. No te pierdas las maravillas de esta provincia y des
 buenas ideas que hacer en Huelva (provincia) porque de la capital te hablaremos en otra 
 ocasión 
 
-![escalinata e iglesia de San Juan Bautista en Linares de la Sierra](etheria-images/2022/03/iglesia-Linares-de-la-Sierra.jpg "Iglesia de San Juan Bautista en Linares de la Sierra. © Yolanda Cardo")
+![escalinata e iglesia de San Juan Bautista en Linares de la Sierra](https://fotos.etheriamagazine.com/2022/03/iglesia-Linares-de-la-Sierra.jpg "Iglesia de San Juan Bautista en Linares de la Sierra. © Yolanda Cardo")
 
 ## 1ª ruta: Río Tinto, paisajes de otro mundo
 
@@ -51,7 +51,7 @@ vuestros intereses, pero os recomendamos el paquete completo. Su precio es de 23
 permitirá disfrutar de la abrumadora belleza de un ecosistema único en el mundo. Tomad 
 nota de la lista de actividades esenciales. 
 
-![imagenes lunares de la cuenca minera de huelva](etheria-images/2022/03/huelva-cuenca-minera.jpg "La cuenca minera ofrece imágenes realmente extraordinarias. © Yolanda Cardo")
+![imagenes lunares de la cuenca minera de huelva](https://fotos.etheriamagazine.com/2022/03/huelva-cuenca-minera.jpg "La cuenca minera ofrece imágenes realmente extraordinarias. © Yolanda Cardo")
 
 ### 2\. Museo minero Ernest Lluch
 
@@ -64,7 +64,7 @@ Victoria de Inglaterra. Madera tallada para los techos o cuero repujado en los a
 son algunas de las características del que, a día de hoy, está considerado el vagón de 
 vía estrecha más lujoso del mundo. 
 
-![museo minero con una torre negra de un pozo](etheria-images/2022/03/Museo-Minero-Ernest-Lluch.jpg "En el Museo Minero Ernest Lluch se cuenta la historia de la comarca. © Yolanda Cardo")
+![museo minero con una torre negra de un pozo](https://fotos.etheriamagazine.com/2022/03/Museo-Minero-Ernest-Lluch.jpg "En el Museo Minero Ernest Lluch se cuenta la historia de la comarca. © Yolanda Cardo")
 
 ### 3\. Viajar a Marte sin salir de Huelva
 
@@ -83,7 +83,7 @@ falta ser un brillante científico o un astronauta para caminar por este especta
 lugar al que podemos acceder en tren. Una **réplica del _rover Discovery_**, una nave 
 espacial y un astronauta tamaño real adornan este extraño paisaje. 
 
-![paisaje que parece marciano pero esta en huelva](etheria-images/2022/03/Viajar-a-Marte-Huelva.jpg "Viajar a Marte sin salir de Huelva. © Yolanda Cardo")
+![paisaje que parece marciano pero esta en huelva](https://fotos.etheriamagazine.com/2022/03/Viajar-a-Marte-Huelva.jpg "Viajar a Marte sin salir de Huelva. © Yolanda Cardo")
 
 ### 4\. Mina corta Atalaya
 
@@ -98,7 +98,7 @@ estratos: los rojizos y anaranjados del gossan (el mineral del oro); los grises 
 del cobre; los morados de las pizarras; los blancos del caolín; los grises de la pirita 
 o los amarillos de las dacitas. 
 
-![mina corta atalaya con escalado y un fondo de agua oscuro](etheria-images/2022/03/Mina-Corta-Atalaya-Riotinto.jpg "Mina Corta Atalaya es una de las imágenes más impactantes del Parque Minero Riotinto. © Yolanda Cardo")
+![mina corta atalaya con escalado y un fondo de agua oscuro](https://fotos.etheriamagazine.com/2022/03/Mina-Corta-Atalaya-Riotinto.jpg "Mina Corta Atalaya es una de las imágenes más impactantes del Parque Minero Riotinto. © Yolanda Cardo")
 
 ### 5\. Mina Peña de Hierro
 
@@ -109,7 +109,7 @@ desarrollando estudios científicos la NASA y otros organismos para el **Proyect
 Marte**. Este impresionante espacio alberga también antiguas instalaciones mineras y el 
 Centro de Interpretación del entorno del Río Tinto. 
 
-![dos imágenes de la mina peña de hierro, una exterior y otra de una galería](etheria-images/2022/03/Mina-Pena-de-Hierro.jpg "Mina Peña de Hierro, catalogado como Paisaje Protegido por su singular belleza. © Yolanda Cardo")
+![dos imágenes de la mina peña de hierro, una exterior y otra de una galería](https://fotos.etheriamagazine.com/2022/03/Mina-Pena-de-Hierro.jpg "Mina Peña de Hierro, catalogado como Paisaje Protegido por su singular belleza. © Yolanda Cardo")
 
 ### 6\. Bella Vista, un barrio victoriano en el corazón de Riotinto
 
@@ -120,7 +120,7 @@ Tinto Company Ltd_, es un viaje en el tiempo a la Inglaterra victoriana. La **Ca
 construida en 1885, conserva en su interior mobiliario, enseres y objetos de la época. 
 Un “paseo” por la Inglaterra de finales del XIX. 
 
-![juego de te y botella de licor de la casa 21 del barrio de bella vista](etheria-images/2022/03/barrio-Bella-Vista.jpg "Un delicado servicio de té o una antigua botella de licor son algunos de los objetos que encontraréis en la Casa 21 del barrio Bella Vista. © Yolanda Cardo")
+![juego de te y botella de licor de la casa 21 del barrio de bella vista](https://fotos.etheriamagazine.com/2022/03/barrio-Bella-Vista.jpg "Un delicado servicio de té o una antigua botella de licor son algunos de los objetos que encontraréis en la Casa 21 del barrio Bella Vista. © Yolanda Cardo")
 
 ### 7\. Ruta de los molinos harineros del río Tinto (Villarrasa)
 
@@ -148,7 +148,7 @@ García**, un joven artista vecino de la localidad, ocultan los contenedores ubi
 las calles del municipio. La fauna y la flora autóctona, así como el privilegiado 
 entorno natural son los motivos de esta fantástica y artística iniciativa. 
 
-![contenedor con grafitis pintados en el pueblo de santa ana la real](etheria-images/2022/03/grafitis-Santa-Ana-la-Real.jpg "Bonitos grafitis cubren los contenedores de Santa Ana la Real. © Yolanda Cardo")
+![contenedor con grafitis pintados en el pueblo de santa ana la real](https://fotos.etheriamagazine.com/2022/03/grafitis-Santa-Ana-la-Real.jpg "Bonitos grafitis cubren los contenedores de Santa Ana la Real. © Yolanda Cardo")
 
 ### 2\. Sendero Rico Levante - Los Chorros del Joyarancón (Santa Ana la Real)
 
@@ -165,7 +165,7 @@ más populares: el **Sendero del Bosque de las Letras**, una ruta turístico cul
 unos 5 km en la que, además de caminar, encontraremos textos literarios de autores de la 
 comarca que invitan a leer en un entorno absolutamente maravilloso. 
 
-![hoja con un texto literario en el sendero del bosque de las letras](etheria-images/2022/03/Sendero-Santa-Ana-la-Real.jpg "Un paseo literario por el Sendero del Bosque de las Letras en Santa Ana la Real. © Yolanda Cardo")
+![hoja con un texto literario en el sendero del bosque de las letras](https://fotos.etheriamagazine.com/2022/03/Sendero-Santa-Ana-la-Real.jpg "Un paseo literario por el Sendero del Bosque de las Letras en Santa Ana la Real. © Yolanda Cardo")
 
 ### 3\. Cañaveral de León: la plaza más fresquita de España
 
@@ -183,7 +183,7 @@ a su vez a los huertos cañeteros. Y si necesitáis alguna excusa más para visi
 precioso lugar, sabed que el municipio está catalogado como **Reserva Starlight de 
 Sierra Morena** por la calidad lumínica de sus cielos. 
 
-![imagen de una plaza con una gran fuente que parece una piscina](etheria-images/2022/03/plaza-Canaveral-de-Leon.jpg "La plaza "más fresquita" de España en Cañaveral de León. © Rafael Pernil")
+![imagen de una plaza con una gran fuente que parece una piscina](https://fotos.etheriamagazine.com/2022/03/plaza-Canaveral-de-Leon.jpg "La plaza "más fresquita" de España en Cañaveral de León. © Rafael Pernil")
 
 ### 4\. Cascada de los Molinos de Corteconcepción
 
@@ -194,7 +194,7 @@ afecten al paisaje. Aún así, con poca agua, merece la pena caminar por alguna 
 tres rutas que conducen hasta la Cascada de los Molinos de Corteconcepción y disfrutar 
 de las imágenes que nos ofrece junto a un viejo molino. 
 
-![Cascada de los Molinos de Corteconfección](etheria-images/2022/03/Cascada-Molinos-Corteconfección.jpg "Cascada de los Molinos de Corteconfección. © Yolanda Cardo")
+![Cascada de los Molinos de Corteconfección](https://fotos.etheriamagazine.com/2022/03/Cascada-Molinos-Corteconfección.jpg "Cascada de los Molinos de Corteconfección. © Yolanda Cardo")
 
 ### 5\. Restaurante Arrieros en Linares de la Sierra
 
@@ -209,7 +209,7 @@ Ortiz en sala, debe aparecer en vuestra lista de imprescindibles. Su cocina basa
 producto local, con el ibérico como protagonista, lo ha convertido en un destino 
 gastronómico en sí mismo, ideal para coronar cualquier escapada. 
 
-![los propietario del restaurante arrieros posan frente al local](etheria-images/2022/03/restaurante-Arrieros-Linares-de-la-Sierra.jpg "El chef Luismi López y su esposa Adela Ortiz están al frente del restaurante Arrieros en Linares de la Sierra. © Yolanda Cardo")
+![los propietario del restaurante arrieros posan frente al local](https://fotos.etheriamagazine.com/2022/03/restaurante-Arrieros-Linares-de-la-Sierra.jpg "El chef Luismi López y su esposa Adela Ortiz están al frente del restaurante Arrieros en Linares de la Sierra. © Yolanda Cardo")
 
 ### 6\. Museo de la Primera Navidad en Higuera de la Sierra
 
@@ -230,7 +230,7 @@ astroturismo desde su mirador de estrellas con certificación otorgada por la
 **_Fundación Starlight_**, de hecho allí ubican la estrella de Belén durante las 
 navidades. Mejor lugar, imposible. 
 
-![imagenes de personas de un belen en el museo de la primera navidad](etheria-images/2022/03/museo-primera-Navidad.jpg "El museo de la "Primera Navidad" se encuentra en Higuera de la Sierra. © Yolanda Cardo")
+![imagenes de personas de un belen en el museo de la primera navidad](https://fotos.etheriamagazine.com/2022/03/museo-primera-Navidad.jpg "El museo de la "Primera Navidad" se encuentra en Higuera de la Sierra. © Yolanda Cardo")
 
 ## Guía de viaje de Huelva | Etheria Magazine
 

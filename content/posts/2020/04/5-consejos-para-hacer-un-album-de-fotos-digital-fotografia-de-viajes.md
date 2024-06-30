@@ -1,7 +1,7 @@
 ---
 title: "5 consejos para hacer un álbum de fotos digital y no morir en el intento"
 date: 2020-04-02
-coverImage: etheria-images/2020/03/albumes-varios.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/03/albumes-varios.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -16,7 +16,7 @@ fotografías de los viajes y plasmarlas en un álbum digital que puedas enviar a
 Aquí te damos varios consejos para que no inviertas demasiado tiempo en la tarea, aunque 
 pasar un rato mirando fotos de viajes pasados no es tan malo, ¿verdad? 
 
-![crea tu propio album de fotos, imágenes de viajes, fotos de tus viajes](etheria-images/2020/03/albumes-varios-900x600.jpg "No renuncies a imprimir tus álbumes de fotos.")
+![crea tu propio album de fotos, imágenes de viajes, fotos de tus viajes](https://fotos.etheriamagazine.com/2020/03/albumes-varios-900x600.jpg "No renuncies a imprimir tus álbumes de fotos.")
 
 Parece que los recuerdos son más reales cuando los puedes tocar, y las fotos siempre han 
 sido uno de los mejores vehículos para revivir momentos del pasado con una sonrisa. Para 
@@ -28,7 +28,7 @@ Antes era sencillo: hacías un número limitado de carretes, los llevabas todos 
 y ponías las mejores fotos en un álbum con sobres transparentes, sólo tenías que elegir 
 si las querías a 10x15 o a 13x18 cm. 
 
-![mujer haciendo una foto en una playa](etheria-images/2020/03/albumes-fotografa-900x600.jpg "Las fotografías forman parte de todos los viajes. © Nirmal Rajendharkumar")
+![mujer haciendo una foto en una playa](https://fotos.etheriamagazine.com/2020/03/albumes-fotografa-900x600.jpg "Las fotografías forman parte de todos los viajes. © Nirmal Rajendharkumar")
 
 Ahora hacemos tantas fotos (y con varios dispositivos a la vez) que muchas veces nos 
 conformamos con almacenarlas en un disco duro con un epígrafe descriptivo y una fecha. 
@@ -52,7 +52,7 @@ seguro que es muy bien recibida. Puedes realizarlo con las fotos que tengas con 
 persona para su cumpleaños, un álbum de los nietos como **regalo para los abuelos**… Si 
 defines el tema te será más fácil hacer la selección de fotos. 
 
-![página web de fotoálbum](etheria-images/2020/03/albumes-fotos-fotoalbum-900x525.jpg "Es fundamental elegir al principio el tipo de álbum que quieres. © Fotoalbum")
+![página web de fotoálbum](https://fotos.etheriamagazine.com/2020/03/albumes-fotos-fotoalbum-900x525.jpg "Es fundamental elegir al principio el tipo de álbum que quieres. © Fotoalbum")
 
 ## 2\. Selecciona de fotos
 
@@ -63,7 +63,7 @@ una tarde, para no agobiarte lo mejor es no tener prisa y dedicarle un rato dura
 varios días. ¿A qué llevas semanas queriendo hacerlo y no te pones a ello? No pasa nada 
 por esperar unos cuantos días más. 
 
-![collage de fotos de viaje](etheria-images/2020/03/albumes-fotos-900x413.jpg "Elegir las fotografías es lo que te llevará más tiempo.")
+![collage de fotos de viaje](https://fotos.etheriamagazine.com/2020/03/albumes-fotos-900x413.jpg "Elegir las fotografías es lo que te llevará más tiempo.")
 
 Con la fotografía digital es habitual hacer varias fotos seguidas del mismo momento, 
 cuesta después elegir con cual quedarse. Ayuda mucho si cuando se pasan al disco duro se 
@@ -86,7 +86,7 @@ varias empresas que se encargan de la producción de los álbumes y todas tienen
 herramientas parecidas para que puedas hacer el álbum tú mismo. Puedes descargarte una 
 aplicación al escritorio del ordenador (lo más fácil) o trabajar online en sus webs. 
 
-![Home de la web de Hofmann.](etheria-images/2020/03/albumes-hofmann-900x479.jpg "Home de la web de © Hofmann.")
+![Home de la web de Hofmann.](https://fotos.etheriamagazine.com/2020/03/albumes-hofmann-900x479.jpg "Home de la web de © Hofmann.")
 
 Si te manejas en el entorno Windows, una buena opción es [Hofmann](https://www.hofmann.es). 
 La utilización de su aplicación es muy sencilla e intuitiva y puedes elegir entre libros 
@@ -97,7 +97,7 @@ couché. Otra opción es recurrir a [Fotoalbum](https://www.fotoalbum.es/album-d
 además de los acabados tradicionales, ofrece encuadernación en espiral o álbumes con 
 tapas en cuero o lino. 
 
-![Home de la web  © Motif.](etheria-images/2020/03/albumes-motif-900x502.jpg "Home de la web de © Motif.")
+![Home de la web  © Motif.](https://fotos.etheriamagazine.com/2020/03/albumes-motif-900x502.jpg "Home de la web de © Motif.")
 
 Si tienes un Mac OS, lo mejor es realizar un proyecto desde la aplicación de la propia 
 **Fototeca**. Creas un Proyecto e importas las fotos que necesitas. Tendrás que 
@@ -129,7 +129,7 @@ saturación, etc. desde el mismo álbum.
 > Si te quedas corto en el número de páginas elegido no te preocupes, puedes ir añadiendo 
 > más según vas montando el álbum. Eso sí, ten en cuenta que el precio subirá. 
 
-![Fototeca de Apple](etheria-images/2020/03/albumes-fotos-fototeca-900x526.jpg "Elaboración de un Proyecto en la Fototeca de Mac.")
+![Fototeca de Apple](https://fotos.etheriamagazine.com/2020/03/albumes-fotos-fototeca-900x526.jpg "Elaboración de un Proyecto en la Fototeca de Mac.")
 
 Cuando termines repasa todo bien (es fácil que pueda haber una errata en un texto o una 
 foto repetida). Lo mejor es "dejarlo reposar" un par de días y darle entonces el último 
@@ -146,7 +146,7 @@ Cuando inicies el proceso de envío del álbum a la aplicación **asegúrate de 
 buena conexión wifi**, suelen ser archivos muy pesados y si no funciona bien la conexión 
 o hay varias personas en casa utilizándola es fácil que se corte. 
 
-![álbumes de fotos digitales](etheria-images/2020/03/albumes-abiertos-fotos-900x656.jpg "Varios tipos de álbum.")
+![álbumes de fotos digitales](https://fotos.etheriamagazine.com/2020/03/albumes-abiertos-fotos-900x656.jpg "Varios tipos de álbum.")
 
 Ya sólo queda esperar para recibirlo, suelen tardar entre tres días y una semana, no es 
 mucho tiempo para tener tus recuerdos al alcance de la mano en tu librería ¿no? 

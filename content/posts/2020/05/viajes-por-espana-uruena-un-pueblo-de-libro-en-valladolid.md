@@ -1,7 +1,7 @@
 ---
 title: "Conoce Urueña, un pueblo ‘de libro’ en Valladolid"
 date: 2020-05-22
-coverImage: etheria-images/2020/05/portada-uruena-villa-del-libro-2020.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/portada-uruena-villa-del-libro-2020.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -12,7 +12,7 @@ authors:
 
 Con cinco museos, un taller de caligrafía, diez librerías temáticas y un castillo medieval, Urueña es un pueblo 'de libro' idóneo para una escapada de fin de semana o una "excursión dominguera". Te contamos su historia y todo lo que puedes hacer en esta localidad de Valladolid.
 
-![calles de uruena, villa del libro espana, excursion vallaodlid, pueblos bonitos](etheria-images/2020/05/excursion-uruena-valladolid.jpg "Calles de Urueña (Valladolid). © Pedro Grifol")
+![calles de uruena, villa del libro espana, excursion vallaodlid, pueblos bonitos](https://fotos.etheriamagazine.com/2020/05/excursion-uruena-valladolid.jpg "Calles de Urueña (Valladolid). © Pedro Grifol")
 
 ```
 Actualizado: Abril 2022
@@ -36,7 +36,7 @@ proyecto, acudieron a este municipio vallisoletano algunos libreros de oficio
 –¡aventureros románticos del papel impreso!– que fueron instalando cada uno de ellos su 
 propio ‘negocio’ en torno a su especialidad. 
 
-![museo del libro, e lea uruena, excursion valladolid](etheria-images/2020/05/Uruena-valladolid-Museo-del-Libro-e-LEA.jpg "Centro e-LEA Miguel Delibes, en la villa de Urueña. © P. Grifol")
+![museo del libro, e lea uruena, excursion valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-valladolid-Museo-del-Libro-e-LEA.jpg "Centro e-LEA Miguel Delibes, en la villa de Urueña. © P. Grifol")
 
 ## Librerías de Urueña
 
@@ -56,7 +56,7 @@ mundo del vino.
 > Otras ‘Villas del Libro’ europeas son Redu, en Bélgica; Montolieu, en Francia; 
 > Bredevooort, en Holanda; y Óbidos, en Portugal. 
 
-![jesus martinez, libreria alcaravan, uruena, villa del libro, excursiones valladolid](etheria-images/2020/05/Uruena-villa-del-libro-valladolid-libreria-alcaravan.jpg "El librero Jesús Martínez fue el pionero de la villa con la librería Alcaraván. © P. Grifol")
+![jesus martinez, libreria alcaravan, uruena, villa del libro, excursiones valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-villa-del-libro-valladolid-libreria-alcaravan.jpg "El librero Jesús Martínez fue el pionero de la villa con la librería Alcaraván. © P. Grifol")
 
 ## Urueña, un poco de historia
 
@@ -69,7 +69,7 @@ disputado a lo largo de los siglos por los reinos de Castilla y León. Pervive, 
 condiciones, su **muralla** y su castillo, levantado en el siglo XII sobre una fortaleza 
 romana justo al borde del páramo. 
 
-![castillo uruena, villa del libro, escapadas valladolid](etheria-images/2020/05/Uruena-villa-del-libro-castillo-valladolid.jpg "Panorámica con Urueña al fondo. © Pedro Grifol")
+![castillo uruena, villa del libro, escapadas valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-villa-del-libro-castillo-valladolid.jpg "Panorámica con Urueña al fondo. © Pedro Grifol")
 
 ## Castillo de Urueña
 
@@ -82,7 +82,7 @@ noble doncella. Un romance cuenta la historia con estrofas tan descriptivas como
 rey Sancho el Deseado / las calzas a la rodilla / y el jubón desabrochado…”. El 
 torreón-cárcel se llamó desde entonces ‘Ahí te pudras’. 
 
-![castillo uruena, atardecer en uruena, excursion valladolid](etheria-images/2020/05/Uruena-villa-del-libro-valladolid-atardecer.jpg "Atardecer desde Urueña. © P. Grifol")
+![castillo uruena, atardecer en uruena, excursion valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-villa-del-libro-valladolid-atardecer.jpg "Atardecer desde Urueña. © P. Grifol")
 
 Desde lo alto de su recinto amurallado se contemplan bucólicos atardeceres que pintan el 
 páramo de tonos cobrizos hasta la lejanía del horizonte, donde se distingue la silueta 
@@ -99,7 +99,7 @@ año 1975. Conserva blasonadas casonas de piedra y su iglesia, Santa María del 
 un peculiar edificio de estilo renacentista con ‘toques’ góticos, con un sobresaliente 
 retablo del siglo XVII, obra de Juan de Medina Argüelles. 
 
-![calle catahuevos, rotulos calles uruena, viaje valladolid](etheria-images/2020/05/Uruena-villa-del-libro-valladolid-nombre-calles.jpg "Curiosos rótulos de las calles de Urueña. © P. Grifol")
+![calle catahuevos, rotulos calles uruena, viaje valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-villa-del-libro-valladolid-nombre-calles.jpg "Curiosos rótulos de las calles de Urueña. © P. Grifol")
 
 Las cartelas anunciadoras del nombre de cada calle siempre guardan alguna curiosidad: la 
 calle Ancha, Las Eras o la **calle Catahuevos**, que era el lugar donde los recoveros 
@@ -108,7 +108,7 @@ la luz del sol.
 
 > Sus callejuelas conservan los desniveles de los tiempos medievales. 
 
-![paseos uruena, villa del libro, pueblos valladolid](etheria-images/2020/05/Uruena-valladolid.jpg "No te prives de dar un paseo nocturno por Urueña. © P. Grifol")
+![paseos uruena, villa del libro, pueblos valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-valladolid.jpg "No te prives de dar un paseo nocturno por Urueña. © P. Grifol")
 
 Cuando nos cansemos de transitar por el empedrado, conviene sentarse frente al 
 **Corrillo de Hans Cristian Andersen**, y fijarse en las historias dibujadas en las 
@@ -125,7 +125,7 @@ investigación y a la divulgación de la caligrafía, nos transmite la pasión p
 de dibujar con letras (góticas o carolingias) entre plumillas y palilleros, plumas de 
 ave, cálamos, tinteros, pigmentos, papeles artesanales o verdaderos papiros. 
 
-![esperanza serrano, libreria alcuino, villa del libro, uruena, valladolid](etheria-images/2020/05/Uruena-valladolid-caligrafa-Esperanza-Serrano.jpg "La caligrafista Esperanza Serrano dirige la librería Alcuino Caligrafía&Arte. © P. Grifol")
+![esperanza serrano, libreria alcuino, villa del libro, uruena, valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-valladolid-caligrafa-Esperanza-Serrano.jpg "La caligrafista Esperanza Serrano dirige la librería Alcuino Caligrafía&Arte. © P. Grifol")
 
 #### La encuadernación de Rosa y Fernando
 
@@ -152,7 +152,7 @@ en actividad cultural, como así lo pensó **Alison Canosa**, una británica que
 veinte años allí instalada y que recientemente ha montado en su tienda de curiosidades, 
 **La Real**, una zona para tomar algo. 
 
-![alison canosa, tienda la real, uruena, villa del libro](etheria-images/2020/05/Uruena-valladolid-Alison-Canosa-La-Real.jpg "Alison Canosa regenta la tienda de curiosidades La Real. © P. Grifol")
+![alison canosa, tienda la real, uruena, villa del libro](https://fotos.etheriamagazine.com/2020/05/Uruena-valladolid-Alison-Canosa-La-Real.jpg "Alison Canosa regenta la tienda de curiosidades La Real. © P. Grifol")
 
 > La Villa del Libro cuenta con varios restaurantes donde el lechazo o las recetas de 
 > autor maridan con literarias críticas gastronómicas. 

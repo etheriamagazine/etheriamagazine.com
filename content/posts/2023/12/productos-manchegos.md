@@ -1,7 +1,7 @@
 ---
 title: "10 productos manchegos de calidad que alegran tu mesa por pocos euros"
 date: 2023-12-22
-coverImage: etheria-images/2023/12/productos-manchegos-cena-navidad.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/12/productos-manchegos-cena-navidad.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -17,7 +17,7 @@ mundial o un Gran Baco de Oro? Y, por supuesto, disfrutar del sabor de galardona
 quesos y AOVEs. No os perdáis esta selección que se convertirá en vuestra próxima lista 
 de la compra. 
 
-![Siempre es buen momento para un brindis](etheria-images/2023/12/productos-manchegos-cena-navidad-850x815.jpg "Siempre es buen momento para un brindis. © Krakenimages en Unsplash")
+![Siempre es buen momento para un brindis](https://fotos.etheriamagazine.com/2023/12/productos-manchegos-cena-navidad-850x815.jpg "Siempre es buen momento para un brindis. © Krakenimages en Unsplash")
 
 Las rutas enoturísticas siempre sorprenden con propuestas atractivas para disfrutar 
 tanto _in situ_ como al volver a casa. Entre esos productos que siempre son bien 
@@ -41,7 +41,7 @@ Artesano de La Jaraba** recibió la Medalla de Oro, por lo que ha sido reconocid
 obtuvo la Medalla de Plata. Dos quesos manchegos perfectos para compartir en familia o 
 con los mejores amigos. Precio: pieza de 1 kg, menos de 25 euros. 
 
-![Queso manchego de la Finca La Jaraba.](etheria-images/2023/12/queso-manchego-finca-la-jaraba-850x425.jpg "Queso manchego de la Finca La Jaraba.")
+![Queso manchego de la Finca La Jaraba.](https://fotos.etheriamagazine.com/2023/12/queso-manchego-finca-la-jaraba-850x425.jpg "Queso manchego de la Finca La Jaraba.")
 
 ## Aceites de oliva virgen extra
 
@@ -52,7 +52,7 @@ manchega es de auténtico lujo. Desde el **AOVE de Explotaciones Hermanos Delgad
 (vinostomillar.es) o el **Cornicabra** de Pago de la Jaraba (lajaraba.com), de cosecha 
 temprana y baja acidez. Cualquiera de ellos es capaz de realzar vuestro plato favorito. 
 
-![Primacía, aceite de oliva virgen extra.](etheria-images/2023/12/aceite-primacia-mancha.jpg "Primacía, aceite de oliva virgen extra.")
+![Primacía, aceite de oliva virgen extra.](https://fotos.etheriamagazine.com/2023/12/aceite-primacia-mancha.jpg "Primacía, aceite de oliva virgen extra.")
 
 ## Vino El Albaicín, el Gran Baco de Oro
 
@@ -66,7 +66,7 @@ vino es perfecto para tomar con marisco, pescado fresco, foie, quesos (cremosos 
 azules) y ahumados. El precio de ambos vinos permite servir copas muy generosas, ¿no 
 creéis? 
 
-![Vinos Albaicín, de Vinícolas del Carmen.](etheria-images/2023/12/vino-albaicin-mancha.jpg "Vinos Albaicín, de Vinícolas del Carmen.")
+![Vinos Albaicín, de Vinícolas del Carmen.](https://fotos.etheriamagazine.com/2023/12/vino-albaicin-mancha.jpg "Vinos Albaicín, de Vinícolas del Carmen.")
 
 ## Un crianza en el Top 50 del mundo
 
@@ -87,7 +87,7 @@ los **Medianiles, de Bodegas El Progreso**. Esta apuesta vegana obtuvo dos medal
 oro en los International Organic Awards 2023. Una propuesta sostenible que merece un 
 hueco en nuestra mesa y que no llega a 6 euros. 
 
-![Medianiles, de Bodegas El Progreso.](etheria-images/2023/12/vino-medianiles-850x732.jpg "Medianiles, de Bodegas El Progreso.")
+![Medianiles, de Bodegas El Progreso.](https://fotos.etheriamagazine.com/2023/12/vino-medianiles-850x732.jpg "Medianiles, de Bodegas El Progreso.")
 
 ## Yugo Tinto Joven, Bacchus de Oro 2023
 
@@ -99,7 +99,7 @@ en el XII Concurso Regional de Vinos Tierra del Quijote ‘_1.000 no se equivoca
 vez con su **Yugo Tempranillo 2018**, en la categoría "Vinos tintos en barrica 
 anteriores al año 2020". 
 
-![Yugo Tinto Joven 2022, de la bodega Cristo de la Vega.](etheria-images/2023/12/Yugo-Tinto-Joven-2022-Cristo-de-la-Vega.-Bacchus-de-oro.jpg "Yugo Tinto Joven 2022, de la bodega Cristo de la Vega.")
+![Yugo Tinto Joven 2022, de la bodega Cristo de la Vega.](https://fotos.etheriamagazine.com/2023/12/Yugo-Tinto-Joven-2022-Cristo-de-la-Vega.-Bacchus-de-oro.jpg "Yugo Tinto Joven 2022, de la bodega Cristo de la Vega.")
 
 ## Vino tempranillo con un doble premio
 
@@ -111,7 +111,7 @@ reconocimiento que se suma al Baco de Plata que otro tempranillo de la bodega si
 Pedro Muñoz, el ‘Pedroteño Tempranillo’, se llevó el año pasado tras la valoración del 
 jurado de la Unión Española de Catadores. 
 
-![Tempranillo 2022 de Besana Real.](etheria-images/2023/12/tempranillo-besana-real.jpg "Tempranillo 2022 de Besana Real.")
+![Tempranillo 2022 de Besana Real.](https://fotos.etheriamagazine.com/2023/12/tempranillo-besana-real.jpg "Tempranillo 2022 de Besana Real.")
 
 ## Un blanco de oro: Laminio Gewurztraminer
 
@@ -123,7 +123,7 @@ de 210 vinos y 66 bodegas. Este certamen en la región con el mayor viñedo del 
 resalta la excelencia del vino blanco en una tierra marcada por la tradición de 
 tinajería ancestral y vastos viñedos. 
 
-![Laminio Gewurztraminer.](etheria-images/2023/12/vino-Laminio-Gewurztraminer-850x478.jpg "Laminio Gewurztraminer.")
+![Laminio Gewurztraminer.](https://fotos.etheriamagazine.com/2023/12/vino-Laminio-Gewurztraminer-850x478.jpg "Laminio Gewurztraminer.")
 
 ## Los premiados Tomillar
 
@@ -135,7 +135,7 @@ reconoció la calidad de tres vinos: **Tomillar Reserva 2017** (8,60 euros) con 
 de Oro; y **Caballero Hidalgo Crianza** y **Tomillar Chardonnay** (6,10 euros) con 
 Medallas de Plata. Una elección perfecta para brindar en 2024. 
 
-![Vinos Tomillar.](etheria-images/2023/12/vinos-tomillar.jpg "Vinos Tomillar.")
+![Vinos Tomillar.](https://fotos.etheriamagazine.com/2023/12/vinos-tomillar.jpg "Vinos Tomillar.")
 
 ## Vinícola de Tomelloso en la Guía WineUp
 
@@ -146,4 +146,4 @@ destilados y vermouth. Más concretamente, fueron **Torre de Gazate Tempranillo 
 euros), respectivamente, los que se llevaron el oro. Una amplia variedad de opciones con 
 las que llenar la bodega en esta Navidad. 
 
-![Añil Fresh 2022](etheria-images/2023/12/ddetalle-vino-anil.jpg "Añil Fresh 2022.")
+![Añil Fresh 2022](https://fotos.etheriamagazine.com/2023/12/ddetalle-vino-anil.jpg "Añil Fresh 2022.")

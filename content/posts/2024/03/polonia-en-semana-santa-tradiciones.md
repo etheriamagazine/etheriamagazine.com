@@ -1,7 +1,7 @@
 ---
 title: "Polonia en Semana Santa, sus tradiciones más originales"
 date: 2024-03-04
-coverImage: etheria-images/2024/02/polonia-semana-santa-domingo-de-ramos-ninas.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/02/polonia-semana-santa-domingo-de-ramos-ninas.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -17,7 +17,7 @@ desde la primera mirada. En este artículo te proponemos descubrir este país du
 Semana Santa, un momento en el que coinciden la celebración de las tradiciones asociadas 
 a esta época del año con la explosión del colorido de la primavera. 
 
-![Mercadillo de Semana Santa de Cracovia.](etheria-images/2024/02/Cracovia-mercadillo-semana-santa.jpg "Mercadillo de Semana Santa de Cracovia.")
+![Mercadillo de Semana Santa de Cracovia.](https://fotos.etheriamagazine.com/2024/02/Cracovia-mercadillo-semana-santa.jpg "Mercadillo de Semana Santa de Cracovia.")
 
 Viajar a Polonia durante la Semana Santa permite descubrir cuáles son las tradiciones 
 compartidas con España y aquellas en las que se diferencian. En Polonia verás también 
@@ -40,7 +40,7 @@ populares y bonitas que en algunas localidades como **Łyse** (en la región de 
 en **Lipnica Murowana** (cerca de Cracovia) se organizan diferentes concursos para 
 elegir la mejor. 
 
-![Niñas con las palmas polacas y trajes tradicionales de Polonia.](etheria-images/2024/02/polonia-semana-santa-domingo-de-ramos-ninas.jpg "Niñas con las palmas polacas y trajes tradicionales de Polonia.")
+![Niñas con las palmas polacas y trajes tradicionales de Polonia.](https://fotos.etheriamagazine.com/2024/02/polonia-semana-santa-domingo-de-ramos-ninas.jpg "Niñas con las palmas polacas y trajes tradicionales de Polonia.")
 
 ### Huevos de Pascua
 
@@ -63,7 +63,7 @@ Estas dos tradiciones tienen relación porque, antiguamente, estas mujeres eran 
 pintaban y decoraban los huevos y el Lunes de Pascua regalaban el más bonito a un chico 
 o lo utilizaban como “prenda” para evitar que que les arrojaran el agua ese día. 
 
-![chico echando agua sobre dos chicas en Polonia](etheria-images/2024/02/semana-santa-polonia-lunes-de-pascua.jpg "Tradición del "lunes de agua" que se celebra durante el Lunes de Pascua.")
+![chico echando agua sobre dos chicas en Polonia](https://fotos.etheriamagazine.com/2024/02/semana-santa-polonia-lunes-de-pascua.jpg "Tradición del "lunes de agua" que se celebra durante el Lunes de Pascua.")
 
 ### La bendición de los alimentos
 
@@ -75,7 +75,7 @@ vez bendecidas las cestas en la iglesia el **Sábado Santo**, ya se puede volver
 carne y el Domingo de Pascua se degustan sus viandas. Antiguamente, el contenido de 
 estas cestas indicaba el estatus social y económico de cada familia. 
 
-![Alimentos de las cestas de Pascua.](etheria-images/2024/02/semana-santa-polonia-dulces-tipicos-de-Pascua.jpg "Alimentos de las cestas de Pascua.")
+![Alimentos de las cestas de Pascua.](https://fotos.etheriamagazine.com/2024/02/semana-santa-polonia-dulces-tipicos-de-Pascua.jpg "Alimentos de las cestas de Pascua.")
 
 ## Festival de Pascua de Ludwig van Beethoven
 
@@ -97,7 +97,7 @@ Si eres amante de la música clásica, ten muy en cuenta que durante la Semana S
 celebran **conciertos y representaciones del Santo Sepulcro** en las iglesias; sin duda, 
 una razón más para visitarlas. 
 
-![Cracovia en primavera.](etheria-images/2024/02/cracovia-primavera-castillo-wawel.jpg "Cracovia en primavera.")
+![Cracovia en primavera.](https://fotos.etheriamagazine.com/2024/02/cracovia-primavera-castillo-wawel.jpg "Cracovia en primavera.")
 
 ## Vía Crucis del Calvario Zebrzydowska
 
@@ -110,7 +110,7 @@ convento y capillas recrear el calvario de Jerusalén. Se encuentra muy cerca de
 complemento a la imprescindible visita del **Antiguo Campo de Concentración nazi 
 Auschwitz-Birkenau** (a cincuenta kilómetros). 
 
-![Casa del peregrino del monasterio Kalwaria Zebrzydowska.](etheria-images/2024/02/semana-santa-polonia-Kalwiaria-Zebrzydowska.jpg "Casa del peregrino del monasterio Kalwaria Zebrzydowska.")
+![Casa del peregrino del monasterio Kalwaria Zebrzydowska.](https://fotos.etheriamagazine.com/2024/02/semana-santa-polonia-Kalwiaria-Zebrzydowska.jpg "Casa del peregrino del monasterio Kalwaria Zebrzydowska.")
 
 ## Guía práctica 
 
@@ -134,7 +134,7 @@ sigas necesitando algún jersey o abrigo. Incluso no está de más llevar unos g
 bufanda y gorro finos. Si te quedas el Lunes de Pascua, no te dejes el chubasquero para 
 disfrutar (sin empaparte) del "lunes de agua". 
 
-![Los Montes Tatra en primavera.](etheria-images/2024/02/polonia-Montes-Tatra-en-primavera.jpg "Los Montes Tatra en primavera.")
+![Los Montes Tatra en primavera.](https://fotos.etheriamagazine.com/2024/02/polonia-Montes-Tatra-en-primavera.jpg "Los Montes Tatra en primavera.")
 
 ### Más información
 

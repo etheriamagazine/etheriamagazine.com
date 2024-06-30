@@ -1,7 +1,7 @@
 ---
 title: "10 grandes restaurantes para saborear lo mejor de Toledo"
 date: 2020-11-03
-coverImage: etheria-images/2020/10/Restaurantes-Toledo-cigarral-caravantes.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-cigarral-caravantes.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-gastronomicos
@@ -15,7 +15,7 @@ referencias para comer y beber bien. Encontrarás opciones para todos los gustos
 momentos, desde las propuestas más ‘foodies’ hasta tapeos informales y lugares con 
 encanto. 
 
-![vista de Toledo](etheria-images/2020/10/restaurantes-toledo-panoramica.jpg "Toledo.")
+![vista de Toledo](https://fotos.etheriamagazine.com/2020/10/restaurantes-toledo-panoramica.jpg "Toledo.")
 
 ```
 (Actualizado 3/2023)
@@ -33,7 +33,7 @@ No hay que marcharse sin probar sus carcamusas, sus perdices estofadas, sus mara
 escabeches, el famoso cochifrito o el delicioso arroz a la toledana. Y de postre, por 
 supuesto, mazapán. 
 
-![alfileritos 24 comer bien en Toledo](etheria-images/2020/10/Restaurantes-Toledo-mesa-Alfileritos-24.jpg "Mesa del restaurante © Alfileritos 24")
+![alfileritos 24 comer bien en Toledo](https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-mesa-Alfileritos-24.jpg "Mesa del restaurante © Alfileritos 24")
 
 Un artículo aparte merecerían los vinos de Toledo, que además de formar parte de la D.O. 
 La Mancha (no te pierdas la [ruta del vino de La 
@@ -53,7 +53,7 @@ contar, transmitió ese amor por Toledo a mi padre y a mí. Así que asiduamente
 ciudad, que es un poco mía, en un viaje de geografía “humanizada”, reviviendo lugares y 
 cocinas. 
 
-![ivan cerdeno vanguardia en Toledo](etheria-images/2020/10/restaurantes-toledo-ivan-cerdeno-sopa.jpg "Sopa de castañas, pichón, setas, trufa y bombón de pichón de © Iván Cerdeño")
+![ivan cerdeno vanguardia en Toledo](https://fotos.etheriamagazine.com/2020/10/restaurantes-toledo-ivan-cerdeno-sopa.jpg "Sopa de castañas, pichón, setas, trufa y bombón de pichón de © Iván Cerdeño")
 
 ## Los cigarrales
 
@@ -66,7 +66,7 @@ Toledo y sus alrededores. Muchas de ellas se han reconvertido en restaurantes y 
 siendo el escenario perfecto de eventos señalados (sobre todo bodas), y son el mejor 
 lugar para tomar un pulso más tranquilo a la ciudad de las tres culturas. 
 
-![ivan cedeno con vistas en Toledo](etheria-images/2020/10/Restaurante-Toledo-Ivan-Cedeno.jpg "'Infusión de bacalao, yema de huevo y berros con buñuelo de bacalao' del © Restaurante Iván Cerdeño")
+![ivan cedeno con vistas en Toledo](https://fotos.etheriamagazine.com/2020/10/Restaurante-Toledo-Ivan-Cedeno.jpg "'Infusión de bacalao, yema de huevo y berros con buñuelo de bacalao' del © Restaurante Iván Cerdeño")
 
 ### 1\. Restaurante Iván Cerdeño en el Cigarral del Ángel
 
@@ -100,7 +100,7 @@ aroma de los montes bajos’, dibuja ese paisaje montaraz tan de la tierra. Una
 oportunidad única de visitar “otro Toledo” que merece mucho la pena. Carretera de la 
 Puebla s/n Toledo. Tel. 925 223 674, **cigarraldelangel.com** 
 
-![cigarral de santa maria Toledo](etheria-images/2020/10/Restaurante-Adolfo.jpg "'El Cigarral de Santa María' es el nuevo restaurante de Adolfo en Toledo. © Cigarral de Santa María")
+![cigarral de santa maria Toledo](https://fotos.etheriamagazine.com/2020/10/Restaurante-Adolfo.jpg "'El Cigarral de Santa María' es el nuevo restaurante de Adolfo en Toledo. © Cigarral de Santa María")
 
 ### 2\. Cigarral de Santa María
 
@@ -116,7 +116,7 @@ de invierno, una estupenda opción para probar diferentes platos de su cocina, t
 conejo al ajillo con ajo negro y lechón asado a baja temperatura con calabaza confitada. 
 Cerro del Emperador s/n. Toledo. Tel. 639 938 140 
 
-![cigarral de caravantes en Toledo](etheria-images/2020/10/Restaurantes-Toledo-cigarral-caravantes.jpg "'Caramelitos de rabo de toro' del restaurante © El Cigarral de Caravantes")
+![cigarral de caravantes en Toledo](https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-cigarral-caravantes.jpg "'Caramelitos de rabo de toro' del restaurante © El Cigarral de Caravantes")
 
 ### 3\. El Cigarral de Caravantes
 
@@ -135,7 +135,7 @@ de Toledo. En él podrás encontrar multitud de ofertas para disfrutar de su gas
 yo he escogido las que más me gustan, tanto por el mimo en su cocina como por los 
 lugares tan especiales en los que se encuentran. 
 
-![la orza y su cochinillo en toledo](etheria-images/2020/10/restaurantes-toledo-la-orza-1.jpg "Sala del restaurante © La Orza y su cochinillo.")
+![la orza y su cochinillo en toledo](https://fotos.etheriamagazine.com/2020/10/restaurantes-toledo-la-orza-1.jpg "Sala del restaurante © La Orza y su cochinillo.")
 
 ### 4\. La Orza
 
@@ -147,7 +147,7 @@ terraza que da al Parque del Tránsito. Entre sus clásicos podremos encontrar s
 orza, la perdiz deshuesada al estilo toledano o el rabo de toro. Calle de Descalzos, 5. 
 Tel. 925 223 011 
 
-![la venta de aires terraza en Toledo](etheria-images/2020/10/restaurantes-toledo-venta-de-aires.jpg "Terraza del restaurante © La venta de Aires")
+![la venta de aires terraza en Toledo](https://fotos.etheriamagazine.com/2020/10/restaurantes-toledo-venta-de-aires.jpg "Terraza del restaurante © La venta de Aires")
 
 ### 5\. Venta de Aires
 
@@ -163,7 +163,7 @@ crecido tanto que hoy está a las puertas del casco antiguo. Un lugar muy especi
 también cuenta con una buena terraza y donde no podemos dejar de probar la perdiz 
 estofada, un clásico. Paseo Circo Romano, 35. Tel. 925 220 545 
 
-![la clandestina de las tendillas bar de moda toledano](etheria-images/2020/10/restaurantes-toledo-la-clandestina-terraza.jpg "Terraza y ravioli relleno de pollo de corral, carabinero y espuma de almendra de © La Clandestina de las Tendillas.")
+![la clandestina de las tendillas bar de moda toledano](https://fotos.etheriamagazine.com/2020/10/restaurantes-toledo-la-clandestina-terraza.jpg "Terraza y ravioli relleno de pollo de corral, carabinero y espuma de almendra de © La Clandestina de las Tendillas.")
 
 ### 6\. La Clandestina de las Tendillas
 
@@ -182,7 +182,7 @@ agradable, con barra, varios saloncitos y una gran terraza todo el año, lo que 
 llaman el “jardín”, que es en realidad un precioso patio interior lleno de encanto. 
 Calle Tendillas, 3. Tel. 925 225 925 
 
-![alfileritos bar de tapas](etheria-images/2020/10/Restaurantes-Toledo-Alfileritos24-900x600.jpg "Tapas en el restaurante © Alfileritos 24")
+![alfileritos bar de tapas](https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-Alfileritos24-900x600.jpg "Tapas en el restaurante © Alfileritos 24")
 
 ### 7\. Alfileritos 24
 
@@ -195,7 +195,7 @@ pueden encontrar clásicos toledanos revisitados (ensalada de perdiz escabechada
 de ciervo confitado, rulo de cochinillo con migas manchegas…). Calle Alfileritos, 24. 
 Tel. 925 239 625 
 
-!['Perdiz a la toledana guisada a la forma tradicional' del restaurante Fabrica de Harinas](etheria-images/2020/10/Restaurantes-Toledo-Fabrica-Harinas.jpg "'Perdiz a la toledana guisada a la forma tradicional' del restaurante © Fabrica de Harinas")
+!['Perdiz a la toledana guisada a la forma tradicional' del restaurante Fabrica de Harinas](https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-Fabrica-Harinas.jpg "'Perdiz a la toledana guisada a la forma tradicional' del restaurante © Fabrica de Harinas")
 
 ### 8\. La Fábrica de Harinas
 
@@ -211,7 +211,7 @@ En su carta encontraremos los “hits” toledanos (la caza, la perdiz, los esca
 bacalao…) modernizados con muy buen gusto y además ofrecen dos menús diferentes por si 
 preferimos una opción cerrada. C/ Reyes Católicos, 5. Tel. 925 283 535 
 
-![Restaurante Hierbabuena con terraza en Toledo](etheria-images/2020/10/restaurantes-toledo-hierbabuena.jpg "Terraza y tataki de atún sobre crema de calabaza del © Restaurante Hierbabuena")
+![Restaurante Hierbabuena con terraza en Toledo](https://fotos.etheriamagazine.com/2020/10/restaurantes-toledo-hierbabuena.jpg "Terraza y tataki de atún sobre crema de calabaza del © Restaurante Hierbabuena")
 
 ### 9\. Hierbabuena
 
@@ -230,7 +230,7 @@ cerdo con tomate y verduras) o la **Taberna Skala** (Cuesta de la Sal, 5), un _m
 conocido entre los parroquianos como el “champi” que acaba de pasar a manos más jóvenes 
 pero que conserva todo el espíritu (y las tapas) que le dieron fama. 
 
-![Cerveceria Trebol para tapear en Toledo](etheria-images/2020/10/Restaurantes-Toledo-el-Trebol.jpg "Pulgas en la © Cervecería Trébol.")
+![Cerveceria Trebol para tapear en Toledo](https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-el-Trebol.jpg "Pulgas en la © Cervecería Trébol.")
 
 ### 10\. Cervecería Trébol
 

@@ -1,7 +1,7 @@
 ---
 title: "Cómo celebrar San Valentín de una forma diferente"
 date: 2021-01-28
-coverImage: etheria-images/2021/01/san-valentin-THE-ORGANIC-SPA.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/san-valentin-THE-ORGANIC-SPA.jpg
 categories: 
   - regalos-compras-viajeras
   - organiza-tu-viaje
@@ -14,7 +14,7 @@ cualquier ocasión para darse un capricho (o al menos planearlo) es bienvenida. 
 vistazo a estas ocho propuestas para regalar, regalarte o regalaros sin remordimientos, 
 que ya va siendo hora de ir planeando alegrías. 
 
-![spa en Madrid](etheria-images/2021/01/san-valentin-organic-spa.masaje.jpg "Masaje en pareja en © The Organic Spa.")
+![spa en Madrid](https://fotos.etheriamagazine.com/2021/01/san-valentin-organic-spa.masaje.jpg "Masaje en pareja en © The Organic Spa.")
 
 Nos sabemos de memoria el argumento de que San Valentín lo ha inventado una famosa 
 cadena de grandes almacenes, pero, que queréis, en el fondo nos encanta regalar y que 
@@ -35,7 +35,7 @@ tenemos muchas escapadas pendientes.
 
 ¿Dónde? Lagasca 90, Madrid. 
 
-![pareja tomando champán en un spa](etheria-images/2021/01/san-valentin-THE-ORGANIC-SPA.jpg "Jacuzzi con champán en © The Organic Spa.")
+![pareja tomando champán en un spa](https://fotos.etheriamagazine.com/2021/01/san-valentin-THE-ORGANIC-SPA.jpg "Jacuzzi con champán en © The Organic Spa.")
 
 ## 2\. Una visita a las bodegas Solar de Samaniego
 
@@ -56,7 +56,7 @@ inspiradas en textos de grandes autores recogidos en la _Colección 7 Cepas_, un
 almanaque enoliterario. La bodega Solar de Samaniego se encuentra en Laguardia (La 
 Rioja), dentro de la D.O. Ca. La Rioja. Puedes reservar la visita en su web. 
 
-![bodega Solar de Samaniego](etheria-images/2021/01/San-valentin-Bodega-Solar-de-Samaniego-Guido-Van-Helten.jpg "Murales del artista Guido Van Helten en © Bodegas Solar de Samaniego")
+![bodega Solar de Samaniego](https://fotos.etheriamagazine.com/2021/01/San-valentin-Bodega-Solar-de-Samaniego-Guido-Van-Helten.jpg "Murales del artista Guido Van Helten en © Bodegas Solar de Samaniego")
 
 ## 3\. Club Allard, ahora con Martín Berasategui
 
@@ -77,7 +77,7 @@ de todo, sobre todo si te alojas en la zona de solo adultos o en la de las villa
 Además, tiene tantos restaurantes (algunos con estrella Michelin) que no es necesario 
 salir del hotel para nada. 
 
-![exterior de Ritz-Carlton Abama frente al mar](etheria-images/2021/01/san-valentin-abama-ritz-carlton.jpg "Hotel © Ritz-Carlton Abama, en el sur de Tenerife.")
+![exterior de Ritz-Carlton Abama frente al mar](https://fotos.etheriamagazine.com/2021/01/san-valentin-abama-ritz-carlton.jpg "Hotel © Ritz-Carlton Abama, en el sur de Tenerife.")
 
 ## 5\. Vinos de Abadía de San Quirce
 
@@ -92,7 +92,7 @@ viñas se encuentran prácticamente en el límite de adaptación a estas tierras
 metros de altitud); y Finca Helena, elaborado con viñedos de hace más de 100 años y de 
 una añada magnífica. 
 
-![Vinos Ribera de Duero Abadía de San quirce](etheria-images/2021/01/san-valentin-Abadía-de-San-Quirce.jpg "Vinos M9 2018 y Finca Helena 2015 de © Abadía de San Quirce")
+![Vinos Ribera de Duero Abadía de San quirce](https://fotos.etheriamagazine.com/2021/01/san-valentin-Abadía-de-San-Quirce.jpg "Vinos M9 2018 y Finca Helena 2015 de © Abadía de San Quirce")
 
 ## 6\. Velada en Horcher
 
@@ -107,7 +107,7 @@ en un horno especial. Si no quieres salir, te lo llevan a casa o puedes encargar
 comida o la cena para recogerla en el restaurante. Dirección: Alfonso XII, 6. Madrid. 
 Toda la información en www.restaurantehorcher.com. 
 
-![Tarjeta regalo de Horcher](etheria-images/2021/01/san-valentin-Horcher.jpg "Tarjeta-regalo de San Valentín del restaurante © Horcher.")
+![Tarjeta regalo de Horcher](https://fotos.etheriamagazine.com/2021/01/san-valentin-Horcher.jpg "Tarjeta-regalo de San Valentín del restaurante © Horcher.")
 
 ## 7\. Sucumbe al chocolate con bombones Trapa
 
@@ -121,7 +121,7 @@ recomendaciones: los míticos **Cortados Trapa**, que se presentan en varias ver
 los **Bombonísimos**, una caja con piezas el doble de grandes que los tradicionales 
 bombones belgas, que combina distintos sabores y rellenos. 
 
-![Bandeja con desayuno y bombones trapa](etheria-images/2021/01/san-valentin-bombones-trapa.jpg "Caja Bombonísimos de Bombones Trapa. © David de Luis")
+![Bandeja con desayuno y bombones trapa](https://fotos.etheriamagazine.com/2021/01/san-valentin-bombones-trapa.jpg "Caja Bombonísimos de Bombones Trapa. © David de Luis")
 
 ## 8\. Regalos Apple
 
@@ -136,7 +136,7 @@ o el iPad Air, pueden grabarse con un nombre o una fecha, un detalle perfecto pa
 regalo de San Valentín. Puedes comprar cualquier dispositivo en la web y te lo envían a 
 casa. 
 
-![apple wach, apple y apple wallet](etheria-images/2021/01/regalos-san-valentin-apple.jpg "Regalos de © Apple para San Valentín.")
+![apple wach, apple y apple wallet](https://fotos.etheriamagazine.com/2021/01/regalos-san-valentin-apple.jpg "Regalos de © Apple para San Valentín.")
 
 **También te puede interesar**: 
 

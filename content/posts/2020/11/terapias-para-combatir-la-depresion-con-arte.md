@@ -1,7 +1,7 @@
 ---
 title: "Arte para combatir la depresión y la ansiedad"
 date: 2020-11-04
-coverImage: etheria-images/2020/10/tristeza-depresion-mujres.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/tristeza-depresion-mujres.jpg
 categories: 
   - salud-bienestar-nutricion
 authors: 
@@ -13,7 +13,7 @@ millones de personas. Y el riesgo de contraerla es mayor en las mujeres que, a s
 consumen más psicofármacos que los hombres. El arte y el "dexpresionismo" pueden ayudar 
 a superarla. 
 
-![depresion tras covid 19](etheria-images/2020/10/tristeza-depresion-mujres.jpg "La próxima epidemia puede ser la de depresión. © Anthony Tran")
+![depresion tras covid 19](https://fotos.etheriamagazine.com/2020/10/tristeza-depresion-mujres.jpg "La próxima epidemia puede ser la de depresión. © Anthony Tran")
 
 Los psicólogos del Centro para la Ciencia de la Conexión Social de la Universidad de 
 Washington alertaron hace unos años de que una proporción inusualmente grande de la 
@@ -41,7 +41,7 @@ arte tiene mucho que decir.
 > reducir la depresión leve y moderada, y en el caso de niños y adolescentes, la 
 > musicoterapia o el baile son útiles también frente a la ansiedad.** 
 
-![terapia combatir la depresion con arte](etheria-images/2020/10/arte-superar-depresion.jpg "Terapias para superar la depresión con arte.")
+![terapia combatir la depresion con arte](https://fotos.etheriamagazine.com/2020/10/arte-superar-depresion.jpg "Terapias para superar la depresión con arte.")
 
 Para quienes padecen depresión grave, los expertos recomiendan que las terapias 
 artísticas sean dirigidas por un **arteterapeuta**. Este es el profesional especializado 
@@ -69,7 +69,7 @@ expresión de los sentimientos, pensamientos y emociones.
 > autoestima, regula la conducta, reduce el estrés y la ansiedad y mejora la salud mental, 
 > el bienestar emocional y social de la persona.** 
 
-![mujeres-depresion](etheria-images/2020/10/combatir-depresion-mujeres.jpg "La depresión es más frecuente en las mujeres. © Anthony Tran")
+![mujeres-depresion](https://fotos.etheriamagazine.com/2020/10/combatir-depresion-mujeres.jpg "La depresión es más frecuente en las mujeres. © Anthony Tran")
 
 ## El riesgo de depresión es mayor en las mujeres que en los hombres
 
@@ -91,7 +91,7 @@ y mujeres se producen más tentativa de suicidio, que ya es la primera causa de 
 natural en España y la segunda entre los jóvenes, con cerca de 800.000 fallecimientos al 
 año en el mundo. 
 
-![suicidios en jovenes](etheria-images/2020/10/depresion-adolescentes.jpg "La segunda causa de muerte natural entre los jóvenes es el suicidio. © Elijah M. Henderson")
+![suicidios en jovenes](https://fotos.etheriamagazine.com/2020/10/depresion-adolescentes.jpg "La segunda causa de muerte natural entre los jóvenes es el suicidio. © Elijah M. Henderson")
 
 **Arte Contra Estigma** es una colección formada por obras de arte, creadas por personas 
 con enfermedades mentales, al mismo nivel que las de los artistas profesionales. Un 
@@ -107,7 +107,7 @@ Internacional itinerante se ha expuesto en Inglaterra e Irlanda (Dublín), Norue
 Australia (Sydney) y en España desde 2003, cuando tuvo lugar en Copenhague la primera 
 exposición de un proyecto creado por la Fundación Lundbeck. 
 
-![talleres combatir depresion con arte en a coruna](etheria-images/2020/10/taller-dexpresionismo-A-Coruña.jpg "Taller Dexpresionismo en A Coruña.")
+![talleres combatir depresion con arte en a coruna](https://fotos.etheriamagazine.com/2020/10/taller-dexpresionismo-A-Coruña.jpg "Taller Dexpresionismo en A Coruña.")
 
 ## Arte para expresar lo que no se puede decir con palabras
 
@@ -125,7 +125,7 @@ que sufren unos 350 millones de personas en el mundo, casi 2 millones y medio en
 Se trata de un movimiento artístico que une **arte y depresión** para demostrar que el 
 arte puede ser una de las mejores herramientas para superar la enfermedad. 
 
-![obras dexpresionismo alicante](etheria-images/2020/10/Dexpresionismo-Alicante.jpg "Obra de un taller de Dexpresionismo en Alicante.")
+![obras dexpresionismo alicante](https://fotos.etheriamagazine.com/2020/10/Dexpresionismo-Alicante.jpg "Obra de un taller de Dexpresionismo en Alicante.")
 
 Con el Dexpresionismo se pretende dar voz a pacientes a través de la creación artística, 
 que actúa como terapia para expresar sentimientos y emociones frente a la enfermedad al 
@@ -144,7 +144,7 @@ su máxima expresión artística. Alicante acogió el segundo taller dexpresioni
 espacio donde las personas con depresión pudieron expresar sus emociones y sentimientos 
 a través del arte en **talleres de pintura, fotografía y performance**. 
 
-![talleres dexpresionistas superar depresion](etheria-images/2020/10/talleres-sevilla.jpg "pTalleres terapéuticos Dexpresionistas para superar la depresión en Sevilla.")
+![talleres dexpresionistas superar depresion](https://fotos.etheriamagazine.com/2020/10/talleres-sevilla.jpg "pTalleres terapéuticos Dexpresionistas para superar la depresión en Sevilla.")
 
 En **Sevilla**, el workshop resultó una auténtica explosión de colores. Los talleres de 
 pintura constaron de una exploración con varias técnicas en las que tanto pacientes como 
@@ -158,7 +158,7 @@ siempre es visible, mientras que en el taller de **Bilbao**, la pintura, la foto
 el sonido y la expresión corporal dieron una vía de liberación emocional a las personas 
 que sufren depresión dejando claro lo importante que es **apoyar a quienes la padecen**. 
 
-![arte contra la depresion](etheria-images/2020/10/obra-arte-dexpresionismo-depresion.jpg "Obra de arte resultante de un taller Dexpresionismo.")
+![arte contra la depresion](https://fotos.etheriamagazine.com/2020/10/obra-arte-dexpresionismo-depresion.jpg "Obra de arte resultante de un taller Dexpresionismo.")
 
 Las obras resultantes de los talleres, realizadas en cualquier forma de expresión 
 artística (pintura, escultura, vídeo, literatura…), se han expuesto en diversas ciudades 

@@ -1,7 +1,7 @@
 ---
 title: "10 yacimientos arqueológicos de México que no puedes perderte"
 date: 2021-03-30
-coverImage: etheria-images/2021/03/yacimiento-calakmul.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/yacimiento-calakmul.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ cuentan con vestigios de culturas pasadas repartidos por todo el país. Aquí he
 seleccionado 10 de los más interesantes, conocidos y accesibles. Si organizas una ruta 
 cerca, no dudes en recorrerlos. 
 
-![El Cuadrángulo de las Monjas en el yacimiento de Uxmal.](etheria-images/2021/03/uxmal-mexico-cuadrangulo-monjas.jpg "El Cuadrángulo de las Monjas en el yacimiento de Uxmal.")
+![El Cuadrángulo de las Monjas en el yacimiento de Uxmal.](https://fotos.etheriamagazine.com/2021/03/uxmal-mexico-cuadrangulo-monjas.jpg "El Cuadrángulo de las Monjas en el yacimiento de Uxmal.")
 
 Hay muchos motivos para viajar a México y uno de ellos sin duda es su gran riqueza 
 arqueológica. Las culturas que pasaron por este extenso país norteamericano dejaron su 
@@ -34,7 +34,7 @@ Mesoamericana, que contó con una estructura social compleja y fue un importante
 comercial. Fue abandonado en el año 800 d.C. Además de las pirámides, no te pierdas 
 tampoco el Templo de la Serpiente Emplumada y La Ciudadela. 
 
-![Yacimiento arqueológico de Teotihuacán](etheria-images/2021/03/yacimiento-mexico-teotihuacan.jpg "Yacimiento arqueológico de Teotihuacán.")
+![Yacimiento arqueológico de Teotihuacán](https://fotos.etheriamagazine.com/2021/03/yacimiento-mexico-teotihuacan.jpg "Yacimiento arqueológico de Teotihuacán.")
 
 ## 2\. El Tajín (Veracruz)
 
@@ -45,7 +45,7 @@ En este yacimiento arqueológico de México, cuyo nombre se cree que significa �
 trueno’, merece la pena detenerse a contemplar sus bajorrelieves, que narran la vida 
 cotidiana de esta cultura. 
 
-![Pirámide de los Niveles del yacimiento de El Tajín](etheria-images/2021/03/yacimiento-mexico-Tajin-Veracruz.jpg "Pirámide de los Niveles del yacimiento de El Tajín.")
+![Pirámide de los Niveles del yacimiento de El Tajín](https://fotos.etheriamagazine.com/2021/03/yacimiento-mexico-Tajin-Veracruz.jpg "Pirámide de los Niveles del yacimiento de El Tajín.")
 
 ## 3\. Calakmul (Campeche)
 
@@ -55,7 +55,7 @@ kilómetros cuadrados. Destacan sus dos grandes pirámides, insertadas en medio 
 frondosa selva, una imagen poderosa e impactante. A su lado se ubican los conjuntos 
 palaciegos ubicados en torno a plazas y patios. 
 
-![piramide de Calakmul](etheria-images/2021/03/yacimiento-calakmul.jpg "Pirámide de Calakmul en medio de la selva.")
+![piramide de Calakmul](https://fotos.etheriamagazine.com/2021/03/yacimiento-calakmul.jpg "Pirámide de Calakmul en medio de la selva.")
 
 ## 4\. Chichén Itza (Yucatán)
 
@@ -71,7 +71,7 @@ Columnas.
 ✅ Para contemplarlo con una luz preciosa, puedes realizar una [excursión organizada al 
 amanecer](https://www.civitatis.com/es/cancun/excursion-chichen-itza-amanecer/?aid=10211). 
 
-![Chichén Itzá al atardecer.](etheria-images/2021/03/yacimiento-mexico-chichen-itza.jpg "Chichén Itzá al atardecer.")
+![Chichén Itzá al atardecer.](https://fotos.etheriamagazine.com/2021/03/yacimiento-mexico-chichen-itza.jpg "Chichén Itzá al atardecer.")
 
 ## 5\. Uxmal (Yucatán)
 
@@ -83,7 +83,7 @@ cuyas formas redondeadas la distinguen claramente de otras construcciones mayas.
 merece la pena acercarse al Cuadrángulo de las Monjas, a la Casa de las Tortugas, al 
 Palacio del Gobernador y al Juego de Pelota. 
 
-![Pirámide de El Adivino de Uxmal.](etheria-images/2021/03/yacimientos-mexico-uxmal.jpg "Pirámide de El Adivino de Uxmal.")
+![Pirámide de El Adivino de Uxmal.](https://fotos.etheriamagazine.com/2021/03/yacimientos-mexico-uxmal.jpg "Pirámide de El Adivino de Uxmal.")
 
 ## 6\. Tulum (Quintana Roo)
 
@@ -94,7 +94,7 @@ los españoles. Aunque no cuenta con grandes edificios, no puedes perderte El Ca
 el Templo de los Frescos y el Templo del Dios Descendente. Es una visita obligada por su 
 fácil acceso si pasas unos días en la Rivera Maya. 
 
-![Las ruinas de Tulum asomadas al mar.](etheria-images/2021/03/yacimiento-mexico-tulum.jpg "Las ruinas de Tulum asomadas al mar.")
+![Las ruinas de Tulum asomadas al mar.](https://fotos.etheriamagazine.com/2021/03/yacimiento-mexico-tulum.jpg "Las ruinas de Tulum asomadas al mar.")
 
 ## 7\. Cobá (Quintana Roo)
 
@@ -112,7 +112,7 @@ Grupo Macanxoc, con interesantes estelas funerarias.
 organizada](https://www.civitatis.com/es/riviera-maya/excursion-coba-amanecer/?aid=10211) 
 como las que realiza Civitatis. 
 
-![Pirámide de Nohoch Mul en Cobá.](etheria-images/2021/03/yacimiento-mexico-coba.jpg "Pirámide de Nohoch Mul en Cobá.")
+![Pirámide de Nohoch Mul en Cobá.](https://fotos.etheriamagazine.com/2021/03/yacimiento-mexico-coba.jpg "Pirámide de Nohoch Mul en Cobá.")
 
 ## 8\. Palenque (Chiapas)
 
@@ -123,7 +123,7 @@ Clásico Maya. Si hay algo que destaca en este sitio arqueológico son sus estel
 interesantes bajorrelieves. Además, tienes que visitar el Gran Palacio, el Templo de la 
 Cruz, el Templo de las Inscripciones y la Tumba de Pakal (un gobernante del siglo VII). 
 
-![Yacimiento arqueológico de Palenque.](etheria-images/2021/03/yacimiento-mexico-palenque.jpg "Yacimiento arqueológico de Palenque. © Crisóforo Gaspar Hernández")
+![Yacimiento arqueológico de Palenque.](https://fotos.etheriamagazine.com/2021/03/yacimiento-mexico-palenque.jpg "Yacimiento arqueológico de Palenque. © Crisóforo Gaspar Hernández")
 
 ## 9\. Bonampak (Chiapas)
 
@@ -138,7 +138,7 @@ Maya y fue abandonado en torno al 800 d.C.
 Civitatis](https://www.civitatis.com/es/palenque/excursion-yaxchilan-bonampak/?aid=10211) 
 en la que de además conocerás el cercano yacimiento de Yaxchilán. 
 
-![Bonampak, un yacimiento en medio de la selva.](etheria-images/2021/03/yacimiento-mexico-bonampak.jpg "Bonampak, un yacimiento en medio de la selva.")
+![Bonampak, un yacimiento en medio de la selva.](https://fotos.etheriamagazine.com/2021/03/yacimiento-mexico-bonampak.jpg "Bonampak, un yacimiento en medio de la selva.")
 
 ## 10\. Monte Albán (Oaxaca)
 
@@ -151,7 +151,7 @@ el distintivo de ser el lugar más antiguo de influencia olmeca. La etapa zapote
 habían asimilado las costumbres de la cultura teotihuacana. En el 1200 d.C. fueron 
 conquistados por los mixtecas que utilizaron el lugar para enterrar a sus gobernantes. 
 
-![Yacimiento de Monte Albán, cerca de la ciudad de Oaxaca.](etheria-images/2021/03/yacimientos-mexico-monte-alban.jpg "Yacimiento de Monte Albán, cerca de la ciudad de Oaxaca.")
+![Yacimiento de Monte Albán, cerca de la ciudad de Oaxaca.](https://fotos.etheriamagazine.com/2021/03/yacimientos-mexico-monte-alban.jpg "Yacimiento de Monte Albán, cerca de la ciudad de Oaxaca.")
 
 **También te puede interesar...** 
 

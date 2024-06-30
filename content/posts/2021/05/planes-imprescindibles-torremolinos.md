@@ -1,7 +1,7 @@
 ---
 title: "10 planes imprescindibles en Torremolinos"
 date: 2021-05-19
-coverImage: etheria-images/2021/05/jardin-botanico-torremolinos.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-torremolinos.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -15,7 +15,7 @@ Luis López Vázquez y a Alfredo Landa con despampanantes suecas, estás ante el
 adecuado porque necesitas una revisión urgente de tus referentes. Si quieres descubrir 
 su faceta más auténtica toma nota de estos diez planes imprescindibles en Torremolinos. 
 
-![paseo maritimo torremolinos](etheria-images/2021/05/playas-torremolinos.jpg "Paseo marítimo de Torremolinos. © Etheria Mag.")
+![paseo maritimo torremolinos](https://fotos.etheriamagazine.com/2021/05/playas-torremolinos.jpg "Paseo marítimo de Torremolinos. © Etheria Mag.")
 
 Sabías que algunos denominaban a Torremolinos el Miami Beach malagueño? Y lo parecía... 
 por sus palmeras, su ambiente festivo y el ‘artisteo hollywoodense’ que se movía por 
@@ -38,7 +38,7 @@ Te invitamos a olvidar cualquier imagen preconcebida de esta ciudad o de la fran
 litoral y a mostrar una actitud abierta. Sigue leyendo para conocer 10 visitas o planes 
 imprescindibles de Torremolinos. 
 
-![jardin botanico de torremolinos](etheria-images/2021/05/jardin-botanico-torremolinos.jpg "Jardín Botánico de Torremolinos. © Etheria Mag.")
+![jardin botanico de torremolinos](https://fotos.etheriamagazine.com/2021/05/jardin-botanico-torremolinos.jpg "Jardín Botánico de Torremolinos. © Etheria Mag.")
 
 ## Qué ver y hacer en Torremolinos
 
@@ -61,7 +61,7 @@ Dónde: Camino de los Pinares, Torremolinos. Horario: horario de verano, de 10 a
 (cierra los lunes). Del 1 de junio al 15 de septiembre. Precio: Niños hasta 12 años, 
 gratis. 
 
-![Casa de los Navajas torremolinos](etheria-images/2021/05/casa-navajas-torremolinos.jpg "Casa de los Navajas, una visita obligada en Torremolinos. © Etheria Mag.")
+![Casa de los Navajas torremolinos](https://fotos.etheriamagazine.com/2021/05/casa-navajas-torremolinos.jpg "Casa de los Navajas, una visita obligada en Torremolinos. © Etheria Mag.")
 
 ### 2\. Visita la Casa de los Navajas
 
@@ -74,7 +74,7 @@ Comillas), acoge interesantes exposiciones y conciertos.
 Dónde: Calle Antonio Navajas Ruiz – Bajondillo. Torremolinos. Horario: de viernes a 
 domingo, de 11 a 14 horas y de 18 a 20 horas. Precio: gratuito. 
 
-![espetos en torremolinos](etheria-images/2021/05/espetos-torremolinos.jpg "Comer espetos es uno de los planes imprescindibles de Torremolinos. © Etheria Mag.")
+![espetos en torremolinos](https://fotos.etheriamagazine.com/2021/05/espetos-torremolinos.jpg "Comer espetos es uno de los planes imprescindibles de Torremolinos. © Etheria Mag.")
 
 ### 3\. Comer pescado en un chiringuito
 
@@ -85,7 +85,7 @@ gusta especialmente es el **restaurante José Cerdán** (restaurantejosecerdan.c
 sirven ricos pescados a la brasa y mariscos, además de otras especialidades locales. 
 Elijas lo que elijas de su carta, siempre acertarás. 
 
-![playa carihuela torremolinos](etheria-images/2021/05/playa-carihuela-torremolinos.jpg "Playa de la Carihuela, en Torremolinos. © Etheria Mag.")
+![playa carihuela torremolinos](https://fotos.etheriamagazine.com/2021/05/playa-carihuela-torremolinos.jpg "Playa de la Carihuela, en Torremolinos. © Etheria Mag.")
 
 ### 4\. Un cóctel en la playa de la Carihuela
 
@@ -98,7 +98,7 @@ Miguel, su propietario, vela para que los clientes gocen de la experiencia. Nos 
 el toque hedonista de esta playa, principal motivo para incluirla entre nuestros planes 
 imprescindibles en Torremolinos. 
 
-![cuesta del tajo torremolinos](etheria-images/2021/05/cuesta-del-tajo-torremolinos.jpg "Cuesta del Tajo. © Turismo de Torremolinos")
+![cuesta del tajo torremolinos](https://fotos.etheriamagazine.com/2021/05/cuesta-del-tajo-torremolinos.jpg "Cuesta del Tajo. © Turismo de Torremolinos")
 
 ### 5\. De compras en la calle San Miguel
 
@@ -109,7 +109,7 @@ se concentra todo tipo de comercios. Si te gustan los mercadillos puedes dirigir
 domingos al recinto ferial, sobre todo si te interesan las antigüedades, o los jueves, 
 que hay productos variados. 
 
-![ruta del agua planes imprescindibles en torremolinos](etheria-images/2021/05/mirador-ruta-del-agua-torremolinos.jpg "Mirador en la Ruta del Agua. © Etheria Mag.")
+![ruta del agua planes imprescindibles en torremolinos](https://fotos.etheriamagazine.com/2021/05/mirador-ruta-del-agua-torremolinos.jpg "Mirador en la Ruta del Agua. © Etheria Mag.")
 
 ### 6\. Caminata por la Ruta del Agua
 
@@ -121,7 +121,7 @@ disfrutar del aire puro y la vegetación mediterránea. Incluso es posible aloja
 sierra en alguno de los albergues situados en la Cañada del Lobo, donde se encuentran 
 miradores que ofrecen bellísimas vistas de los pinares y de la franja costera. 
 
-![lugares tapeo en Torremolinos](etheria-images/2021/05/pueblo-torremolinos.jpg "Callejea por Torremolinos para encontrar los mejores locales. © Etheria Mag.")
+![lugares tapeo en Torremolinos](https://fotos.etheriamagazine.com/2021/05/pueblo-torremolinos.jpg "Callejea por Torremolinos para encontrar los mejores locales. © Etheria Mag.")
 
 ### 7\. Tapeo por el centro
 
@@ -134,7 +134,7 @@ profeso pero, si no es así, basta con pasear para encontrar referencias como **
 Campana** (calle De la Cruz, s/n), con su excelente marisco; o **La Chacha** (Av. Palma 
 de Mallorca, 3), cuyo marisco a la plancha no tiene comparación. 
 
-![marisco imprescindibles en torremolinos](etheria-images/2021/05/marisco-torremolinos-andalucia.jpg "Pescado y mariscos, imprescindibles en Torremolinos. © Storiés")
+![marisco imprescindibles en torremolinos](https://fotos.etheriamagazine.com/2021/05/marisco-torremolinos-andalucia.jpg "Pescado y mariscos, imprescindibles en Torremolinos. © Storiés")
 
 ### 8\. Descubre su arquitectura
 
@@ -142,7 +142,7 @@ Dedica alguna mañana o tarde a recorrer el casco histórico para conocer la **T
 Pimentel** o de los Molinos (que formaba parte de la red de torres defensivas de los 
 nazaríes), la iglesia del Buen Consejo o el Centro Pablo Ruiz Picasso. 
 
-![parroquia buen consejo torremolinos](etheria-images/2021/05/torremolinos-iglesia.jpg "Parroquia Madre del Buen Consejo. © Etheria Mag.")
+![parroquia buen consejo torremolinos](https://fotos.etheriamagazine.com/2021/05/torremolinos-iglesia.jpg "Parroquia Madre del Buen Consejo. © Etheria Mag.")
 
 ### 9\. Despide al sol cada día
 

@@ -1,7 +1,7 @@
 ---
 title: "Carmona, Itálica y Doñana, una trilogía hispalense para un fin de semana"
 date: 2020-07-13
-coverImage: etheria-images/2020/06/etheria-carmona-Torre-de-la-Iglesia-de-San-Pedro-y-La-Giraldilla.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/etheria-carmona-Torre-de-la-Iglesia-de-San-Pedro-y-La-Giraldilla.jpg
 categories: 
   - viajes-48-horas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Más allá de la bella capital sevillana hay vida, ¡y mucha! Os lo demostraremos recorriendo durante un fin de semana la provincia y deteniéndonos en las ruinas de Itálica, en la ciudad de Carmona y en el Parque Nacional de Doñana, donde incluso haremos un safari.
 
-![avistamiento, donana, viaje sevilla](etheria-images/2020/06/etheria-Avistamiento-de-aves-Donana.jpg "Avistamiento de aves en la Doñana sevillana. © P. Grifol")
+![avistamiento, donana, viaje sevilla](https://fotos.etheriamagazine.com/2020/06/etheria-Avistamiento-de-aves-Donana.jpg "Avistamiento de aves en la Doñana sevillana. © P. Grifol")
 
 La bahía que los romanos llamaron _Sinus Ligostinus_, conocida hoy en día como las 
 **Marismas de Doñana**, era en su tiempo una de las zonas más salvajes de la geografía 
@@ -23,7 +23,7 @@ migratorias buscaran lugares más cálidos para emparejarse y anidar. Y desde la
 antigüedad, los humedales del suroeste bético fueron refugio para flamencos, águilas, 
 garzas, y cigüeñas. 
 
-![marismas donana, propuesta sevilla](etheria-images/2020/06/etheria-Marismas-de-Donana.jpg "Marismas de Doñana. © P.Grifol")
+![marismas donana, propuesta sevilla](https://fotos.etheriamagazine.com/2020/06/etheria-Marismas-de-Donana.jpg "Marismas de Doñana. © P.Grifol")
 
 ## Safari en Doñana
 
@@ -39,7 +39,7 @@ negra, un porrón, una avoceta o un martinete? Pues es la oportunidad, ya que to
 aves tienen su hábitat en Doñana. Solo tenemos que ir provistos de unos buenos 
 prismáticos. 
 
-![restaurante el estero, marismas donana](etheria-images/2020/06/etheria-Colitas-de-cangrejo-el-estero.jpg "Coletas de cangrejo del restaurante El Estero. © Pedro Grifol")
+![restaurante el estero, marismas donana](https://fotos.etheriamagazine.com/2020/06/etheria-Colitas-de-cangrejo-el-estero.jpg "Coletas de cangrejo del restaurante El Estero. © Pedro Grifol")
 
 ### Reponer fuerzas en El Estero
 
@@ -54,7 +54,7 @@ Ni que decir tiene que es un viaje muy apropiado para llevar a los niños, que d
 ver animales sólo en pantalla, adentrarse en la naturaleza ‘de verdad’ supondrá una 
 experiencia enriquecedora. 
 
-![aznalcazar, puente romano, viaje sevilla, Etheria Magazine](etheria-images/2020/06/etheria-Puente-romano-de-Aznalcazar.jpg "Puente romano de Aznalcázar. © P. Grifol")
+![aznalcazar, puente romano, viaje sevilla, Etheria Magazine](https://fotos.etheriamagazine.com/2020/06/etheria-Puente-romano-de-Aznalcazar.jpg "Puente romano de Aznalcázar. © P. Grifol")
 
 El comienzo del recorrido se inicia en **Aznalcázar** –a 25 km de Sevilla capital–, un 
 pequeño municipio situado junto a uno de los espacios forestales con mayor interés 
@@ -69,7 +69,7 @@ En Aznalcázar hay varias casas rurales y hoteles a precios económicos. Pasar l
 el **Hotel Lince** es una buena opción, donde si no hemos tenido la suerte de ver 
 ninguno de verdad ¡podemos soñar con él! 
 
-![anfiteatro romano, italica, viaje sevilla, excursiones](etheria-images/2020/06/etheria-italica-anfiteatro-romano.jpg "Anfiteatro romano de Itálica. © P. Grifol")
+![anfiteatro romano, italica, viaje sevilla, excursiones](https://fotos.etheriamagazine.com/2020/06/etheria-italica-anfiteatro-romano.jpg "Anfiteatro romano de Itálica. © P. Grifol")
 
 ## Itálica, la gran ciudad romana
 
@@ -88,7 +88,7 @@ se convirtió en hito de la victoria de Escipión El Africano sobre los cartagin
 fue, en aquellos tiempos, la ciudad más próspera de la Hispania romanizada. Así que 
 podemos considerarla como visita cultural obligada. 
 
-![mosaicos italica, excursion sevilla](etheria-images/2020/06/etheria-mosaicos-romanos-italica.jpg "Mosaicos romanos de Itálica. © P. Grifol")
+![mosaicos italica, excursion sevilla](https://fotos.etheriamagazine.com/2020/06/etheria-mosaicos-romanos-italica.jpg "Mosaicos romanos de Itálica. © P. Grifol")
 
 Además, este emblemático yacimiento arqueológico está situado en un entorno de 
 preservada belleza paisajística, que viniendo (como venimos) de la pura naturaleza, se 
@@ -101,7 +101,7 @@ romano.
 > Merece la pena esperar hasta el atardecer, que es cuando la estatua del emperador 
 > Trajano tiene la mejor luz para la foto de recuerdo. La escultura se lo merece. 
 
-![escultura trabajo, italica, excursion sevilla](etheria-images/2020/06/etheria-Estatua-Trajano-italica.jpg "Escultura de Trajano, en Itálica. © P. Grifol")
+![escultura trabajo, italica, excursion sevilla](https://fotos.etheriamagazine.com/2020/06/etheria-Estatua-Trajano-italica.jpg "Escultura de Trajano, en Itálica. © P. Grifol")
 
 ## Una visita a Carmona
 
@@ -113,7 +113,7 @@ hispalense’: Carmona ([visitas guiadas por la Carmona
 romana](https://www.civitatis.com/es/carmona/tour-carmona-romana/?aid=10211) de 2 horas 
 y media por 15 €). 
 
-![carmona, giraldilla, iglesia San Pedro, viaje sevilla, excursiones](etheria-images/2020/06/etheria-carmona-Torre-de-la-Iglesia-de-San-Pedro-y-La-Giraldilla.jpg "Torre de la iglesia de San Pedro y La Giraldilla, en Carmona. © P. Grifol")
+![carmona, giraldilla, iglesia San Pedro, viaje sevilla, excursiones](https://fotos.etheriamagazine.com/2020/06/etheria-carmona-Torre-de-la-Iglesia-de-San-Pedro-y-La-Giraldilla.jpg "Torre de la iglesia de San Pedro y La Giraldilla, en Carmona. © P. Grifol")
 
 ### El convento de Santa Clara
 
@@ -133,7 +133,7 @@ transacción económica con las monjitas, podemos volver a usar la palabra _safa
 que la última promoción de novicias es keniata y del término swahili –su lengua nativa– 
 saben mucho. 
 
-![iglesia asuncion, carmona, excursion sevilla](etheria-images/2020/06/etheria-carmona-iglesia-asuncion.jpg "Iglesia Prioral Santa María de la Asunción. © P. Grifol")
+![iglesia asuncion, carmona, excursion sevilla](https://fotos.etheriamagazine.com/2020/06/etheria-carmona-iglesia-asuncion.jpg "Iglesia Prioral Santa María de la Asunción. © P. Grifol")
 
 ### Sevilla tiene la Giralda, y Carmona la Giraldilla
 
@@ -150,7 +150,7 @@ cómodo recorrido nos lleva hasta lo más alto de su torre del Homenaje, desde d
 panorámica de la ciudad nos da la medida de cuán importante fue Carmona durante la 
 antigüedad. 
 
-![tapas carmona, excursion sevilla](etheria-images/2020/06/etheria-carmona-tapas.jpg "No te pierdas el tapeo en Carmona. © P. Grifol")
+![tapas carmona, excursion sevilla](https://fotos.etheriamagazine.com/2020/06/etheria-carmona-tapas.jpg "No te pierdas el tapeo en Carmona. © P. Grifol")
 
 Fuera del recinto amurallado nos queda mucho por recorrer, ya que algunos carteles 
 informativos nos van recordando que los carmonenses son unos buenos cicerones para 
@@ -170,7 +170,7 @@ posible degustar en algunos restaurantes. Naturalmente, es por encargo. Lo prepa
 un día para otro, en [La Caseta de Antonio](http://www.lacasetadeantonio.com) en 
 Santiponce. 
 
-![parador de carmona, carmona, excursion sevilla](etheria-images/2020/06/etheria-Parador-de-Carmona.jpg "Parador de Carmona. © P. Grifol")
+![parador de carmona, carmona, excursion sevilla](https://fotos.etheriamagazine.com/2020/06/etheria-Parador-de-Carmona.jpg "Parador de Carmona. © P. Grifol")
 
 ##### Dónde dormir
 

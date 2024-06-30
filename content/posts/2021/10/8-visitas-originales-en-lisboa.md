@@ -1,7 +1,7 @@
 ---
 title: "8 visitas originales en Lisboa que (quizá) te quedan por hacer"
 date: 2021-10-27
-coverImage: etheria-images/2021/10/lisboa-detalle-chiado.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/lisboa-detalle-chiado.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
@@ -13,7 +13,7 @@ authors:
 
 Detalles que pueden pasar desapercibidos, rincones conocidos solo por los lisboetas o curiosidades de la historia portuguesa te esperan en estas direcciones que marcaremos en nuestro particular mapa de la capital portuguesa. Prepárate porque te invitamos a realizar 8 visitas originales en Lisboa que no están en las guías.
 
-![farola emblema lisboa barrio chiado](etheria-images/2021/10/lisboa-detalle-chiado.jpg "Detalle de una farola en el barrio de Chiado. © Turismo de Lisboa")
+![farola emblema lisboa barrio chiado](https://fotos.etheriamagazine.com/2021/10/lisboa-detalle-chiado.jpg "Detalle de una farola en el barrio de Chiado. © Turismo de Lisboa")
 
 No hay visita a Lisboa sin paseo por la Plaza del Comercio o sin atardecer junto a la 
 Torre de Belem, eso está claro. Y no importa las veces que una recorra las calles de la 
@@ -24,7 +24,7 @@ historia, esta ciudad es una joya donde cada rincón habla, cambia y evoluciona.
 estas 10 ideas para redescubrirla encontrarás desde un ascensor de época _escondido_ en 
 una moderna tienda a la historia del primer helado que disfrutaron los lisboetas. 
 
-![cementerio visitas originales en lisboa](etheria-images/2021/10/lisboa-original-cementerio.jpg "Cementerio escondido en Lisboa. © Cynthia Martín")
+![cementerio visitas originales en lisboa](https://fotos.etheriamagazine.com/2021/10/lisboa-original-cementerio.jpg "Cementerio escondido en Lisboa. © Cynthia Martín")
 
 ## 1\. El cementerio escondido de Lisboa
 
@@ -45,7 +45,7 @@ un cementerio romano”, cuentan los guías. Acérquese y busque la inscripción
 el tiempo, “es el único escrito donde se ve de forma clara el primer nombre que recibió 
 la ciudad de Lisboa”. 
 
-![Iglesia de San Antonio.](etheria-images/2021/10/lisboa-iglesia-san-antonio.jpg "Iglesia de Antonio.")
+![Iglesia de San Antonio.](https://fotos.etheriamagazine.com/2021/10/lisboa-iglesia-san-antonio.jpg "Iglesia de Antonio.")
 
 ## 2\. Iglesia de San Antonio
 
@@ -65,7 +65,7 @@ terremoto. De ahí que la vivienda familiar se encontrase al lado, lugar donde h
 la cripta del Santo más rápidamente canonizado de la historia”. _Largo de Santo António 
 da Sé_. 
 
-![iglesia escondida visitas originales en lisboa](etheria-images/2021/10/lisboa-original-capilla-escondida.jpg "Iglesia escondida en Lisboa. © Cynthia M.")
+![iglesia escondida visitas originales en lisboa](https://fotos.etheriamagazine.com/2021/10/lisboa-original-capilla-escondida.jpg "Iglesia escondida en Lisboa. © Cynthia M.")
 
 ## 3\. La iglesia escondida
 
@@ -89,7 +89,7 @@ dentro de un edificio de viviendas espera aún en su planta baja la **Igreja de 
 Senhora da Oliveira** (R. de São Julião 140) que, sin campanario ni torres, pero sí 
 capitel de entrada, sigue ocupando el espacio que una vez tuvo. 
 
-![villa berta visitas originales en lisboa](etheria-images/2021/10/lisboa-vila-berta.jpg "Villa Berta, la calle de Lisboa que no es realmente una calle. © Cynthia M.")
+![villa berta visitas originales en lisboa](https://fotos.etheriamagazine.com/2021/10/lisboa-vila-berta.jpg "Villa Berta, la calle de Lisboa que no es realmente una calle. © Cynthia M.")
 
 ## 4\. La calle que no es como las demás
 
@@ -102,7 +102,7 @@ incipiente burguesía y a la gran mano de obra surgida de la revolución industr
 > Es Vila Berta una diminuta colonia que aún preserva su esencia desde hace más de 100 
 > años a la que se accede a través de un túnel en el que de verdad se viaja en el tiempo. 
 
-![cafeteria Martinho da Arcada visitas originales lisboa](etheria-images/2021/10/lisboa-original-cafe-martinho.jpg "Cafetería Martinho da Arcada, en Lisboa. © Cynthia M.")
+![cafeteria Martinho da Arcada visitas originales lisboa](https://fotos.etheriamagazine.com/2021/10/lisboa-original-cafe-martinho.jpg "Cafetería Martinho da Arcada, en Lisboa. © Cynthia M.")
 
 ## 5\. Cafetería Martinho da Arcada, el primer helado de Lisboa
 
@@ -121,7 +121,7 @@ cuando se habla de helados –ya con sabores–. Además, la historia se respira
 rincones, pues desde el siglo XIX pasó a convertirse en epicentro de intelectuales, 
 revolucionarios y artistas. 
 
-![ascensor antiguo en lisboa](etheria-images/2021/10/visitas-originales-lisboa-Ascensor.jpg "Un ascensor de época oculto en una tienda. © Cynthia M.")
+![ascensor antiguo en lisboa](https://fotos.etheriamagazine.com/2021/10/visitas-originales-lisboa-Ascensor.jpg "Un ascensor de época oculto en una tienda. © Cynthia M.")
 
 ## 6\. Un ascensor de época en una tienda
 
@@ -140,7 +140,7 @@ disposición de su elegante clientela con el más puro estilo _Art Nouveau_ en 1
 que hoy uno puede entrar a tomarse una fotografía sentado en su elegante banco 
 aterciopelado con apliques dorados. 
 
-![arbol cenizas de saramago](etheria-images/2021/10/arbol-lisboa-Saramago.jpg "Árbol con las cenizas de Saramago, una de las 8 visitas originales en Lisboa. © Cynthia M.")
+![arbol cenizas de saramago](https://fotos.etheriamagazine.com/2021/10/arbol-lisboa-Saramago.jpg "Árbol con las cenizas de Saramago, una de las 8 visitas originales en Lisboa. © Cynthia M.")
 
 ## 7\. Un olivo con las cenizas de Saramago
 
@@ -157,7 +157,7 @@ Merece la pena, por descontado, adentrarse en la Fundación, donde además de li
 exposiciones, espera un fragmento de la antigua muralla romana y límite medieval así 
 como el agua que sigue estando bajo los pies de esta zona ganada al mar. 
 
-![parking artistico en lisboa](etheria-images/2021/10/lisboa-original-parking.jpg "Parking con obras pictóricas de diversos artistas. © Cynthia M.")
+![parking artistico en lisboa](https://fotos.etheriamagazine.com/2021/10/lisboa-original-parking.jpg "Parking con obras pictóricas de diversos artistas. © Cynthia M.")
 
 ## 8\. Un parking con mucho arte
 
@@ -176,7 +176,7 @@ hicieron a la ciudad de Lisboa. Con una planta para cada uno de ellos, nombres c
 Paulo Arraiano, Miguel Januario o RAM iluminan y colorean las diferentes plantas de este 
 garaje público convertido en una galería de arte. 
 
-![elevador santa justa visita original lisboa](etheria-images/2021/10/Lisboa-viaje-original.jpg "Elevador de Santa Justa, en Lisboa. © Cynthia M.")
+![elevador santa justa visita original lisboa](https://fotos.etheriamagazine.com/2021/10/Lisboa-viaje-original.jpg "Elevador de Santa Justa, en Lisboa. © Cynthia M.")
 
 ### Más visitas originales en Lisboa...
 

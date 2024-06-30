@@ -1,7 +1,7 @@
 ---
 title: "Recetas creativas para aprovechar la comida como en los hoteles"
 date: 2020-11-02
-coverImage: etheria-images/2020/10/Ice-croissant-accor.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/Ice-croissant-accor.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Aprovechar la comida y luchar contra el desperdicio de los alimentos, tanto en hoteles como en casa, es una cuenta pendiente con el planeta. Aquí encontrarás algunas recetas apetitosas que se pueden elaborar con esos restos de comida que se suelen tirar.
 
-![desayuno de aprovechamiento](etheria-images/2020/10/desayunos-completos.jpg "Desayuno de aprovechamiento. © Brooke Lark")
+![desayuno de aprovechamiento](https://fotos.etheriamagazine.com/2020/10/desayunos-completos.jpg "Desayuno de aprovechamiento. © Brooke Lark")
 
 En un contexto mundial en el que cada año se desaprovecha un tercio de la comida 
 producida, emitiendo cerca de 3.000 millones de toneladas de gases de efecto invernadero 
@@ -29,7 +29,7 @@ puede hacer en casa, tras una celebración o comida en familia. No hace falta se
 chef para crear auténticas delicatesen en pocos pasos, dando así una segunda oportunidad 
 y una segunda vida a los alimentos. 
 
-![aperitivos de queso](etheria-images/2020/10/aperitivos-queso.jpg "Aperitivos. © Camille Brodard ~ Kmile Feminine Creative Designer")
+![aperitivos de queso](https://fotos.etheriamagazine.com/2020/10/aperitivos-queso.jpg "Aperitivos. © Camille Brodard ~ Kmile Feminine Creative Designer")
 
 Este año se ha celebrado por primera vez el **Día Internacional de Conciencia de la 
 Pérdida y el Desperdicio de Alimentos**, lo que demuestra que cada día estamos más 
@@ -52,7 +52,7 @@ solo hay que abrir por la mitad el _croissant_, calentarlo, colocar una bola de 
 frutas cortadas, y terminar la presentación con _toppings_ y hierbas aromáticas de los 
 huertos urbanos de los hoteles o de la terraza de casa. ¡Para chuparse los dedos! 
 
-![ice croassant aprovechar comida](etheria-images/2020/10/Ice-croissant-accor.jpg "Ice Croassant preparado en Accor Hoteles.")
+![ice croassant aprovechar comida](https://fotos.etheriamagazine.com/2020/10/Ice-croissant-accor.jpg "Ice Croassant preparado en Accor Hoteles.")
 
 #### Empanadillas mixtas, nachos o gofres buns
 
@@ -61,14 +61,14 @@ En el apartado salado, para no desperdiciar los quesos y fiambres sobrantes del 
 necesita una masa para empanadas y, si te gusta, un puré de trufa. Cuesta poco dar una 
 segunda vida al excedente. 
 
-![plato de nachos](etheria-images/2020/10/hacer-nachos.jpg "Plato de nachos. © Herson Rodriguez")
+![plato de nachos](https://fotos.etheriamagazine.com/2020/10/hacer-nachos.jpg "Plato de nachos. © Herson Rodriguez")
 
 Si trituras o rallas los quesos y haces láminas con los fiambres, podrás usarlos como 
 ingredientes para preparar **nachos**. Sólo tienes que colocar el queso y los fiambres 
 encima de los totopos y rociarlos con encurtidos, como aceitunas o jalapeños, y con 
 alguna legumbre cocida, como por ejemplo las alubias. Rico y muy sencillo de hacer. 
 
-![gofre bun reciclar comida](etheria-images/2020/10/goffre-bun-accor.jpg "Gofre Buns de Accor.")
+![gofre bun reciclar comida](https://fotos.etheriamagazine.com/2020/10/goffre-bun-accor.jpg "Gofre Buns de Accor.")
 
 Como has comprobado, los quesos y los fiambres dan mucho juego a la hora de diseñar 
 recetas de aprovechamiento, y así lo demuestran también los **_gofre buns_**, que se 
@@ -85,7 +85,7 @@ muy versátiles para hacer elaboraciones con esta base. Añadiendo azúcar, hiel
 montada, el resultado es un atractivo, a la par que exquisito, postre que ayudará a 
 bajar la comida. 
 
-![cafe con helado](etheria-images/2020/10/cafe-con-helado.jpg "Café con helado. © Lacey Williams")
+![cafe con helado](https://fotos.etheriamagazine.com/2020/10/cafe-con-helado.jpg "Café con helado. © Lacey Williams")
 
 En esta línea, si se combinan restos de bollería —como donuts, bizcochos o _cookies_— 
 con cualquier bebida vegetal, desde coco hasta almendra, se puede crear un delicioso 

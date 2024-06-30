@@ -1,7 +1,7 @@
 ---
 title: "6 propuestas de última hora para viajar en Semana Santa"
 date: 2024-03-04
-coverImage: etheria-images/2024/03/lago-garda-italia.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/03/lago-garda-italia.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -16,7 +16,7 @@ fuera de nuestras fronteras os pueden ser de gran ayuda. Os proponemos sentir la
 de la fiesta en Sevilla, descubrir las novedades de Madrid, hacer un roadtrip por 
 Italia, conocer Marruecos… 
 
-![Ribera del Guadalquivir en Sevilla.](etheria-images/2024/03/Sevilla-guadalquivir.jpg "Ribera del Guadalquivir en Sevilla. © Damiano Natale")
+![Ribera del Guadalquivir en Sevilla.](https://fotos.etheriamagazine.com/2024/03/Sevilla-guadalquivir.jpg "Ribera del Guadalquivir en Sevilla. © Damiano Natale")
 
 Una pregunta recurrente en los primeros meses del año es “cuáles son los mejores lugares 
 para viajar en Semana Santa”. La respuesta no es sencilla porque todo depende del tiempo 
@@ -44,7 +44,7 @@ Andaluz de Arte Contemporáneo**. Podéis encontrar más pistas para vuestro via
 Sevilla en [Bares, terrazas y restaurantes de alta cocina en el sevillano Barrio de 
 Santa Cruz](https://etheriamagazine.com/2023/09/04/tapeo-barrio-santa-cruz-sevilla/). 
 
-![Panorámica de la preciosa ciudad de Sevilla.](etheria-images/2024/03/semana-santa-sevilla.jpg "Panorámica de la preciosa ciudad de Sevilla. © Henrique Ferreira")
+![Panorámica de la preciosa ciudad de Sevilla.](https://fotos.etheriamagazine.com/2024/03/semana-santa-sevilla.jpg "Panorámica de la preciosa ciudad de Sevilla. © Henrique Ferreira")
 
 ## Qué hay de nuevo en Madrid
 
@@ -67,7 +67,7 @@ el vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/
 divertidos con adolescentes en 
 Madrid](https://etheriamagazine.com/2022/12/16/planes-adolescentes-madrid/). 
 
-![Vista de la Catedral y el Palacio Real de Madrid.](etheria-images/2024/03/madrid-viajes.jpg "Vista de la Catedral y el Palacio Real de Madrid. © Eduardo Rodríguez")
+![Vista de la Catedral y el Palacio Real de Madrid.](https://fotos.etheriamagazine.com/2024/03/madrid-viajes.jpg "Vista de la Catedral y el Palacio Real de Madrid. © Eduardo Rodríguez")
 
 ## Dublín en clave cultural
 
@@ -90,7 +90,7 @@ festivales y pubs pero eso os lo contamos en este artículo: [Viaja sola o con a
 Dublín, un plan 
 perfecto](https://etheriamagazine.com/2020/03/09/viaje-sola-con-amigas-que-ver-en-dublin/). 
 
-![Prisión Kilmainham Gaol, en Dublín.](etheria-images/2024/03/Kilmainham-Gaol.jpg "Prisión Kilmainham Gaol, en Dublín. © Chris Hill")
+![Prisión Kilmainham Gaol, en Dublín.](https://fotos.etheriamagazine.com/2024/03/Kilmainham-Gaol.jpg "Prisión Kilmainham Gaol, en Dublín. © Chris Hill")
 
 ## Lago de Garda (Italia)
 
@@ -111,7 +111,7 @@ información para vuestro viaje en [Ruta en coche alrededor del lago de Garda, e
 de 
 Italia](https://etheriamagazine.com/2021/09/22/ruta-en-coche-en-lago-de-garda-italia/). 
 
-![Carretera que rodea el lago de Garda](etheria-images/2024/03/lago-garda-italia.jpg "Carretera que rodea el lago de Garda. © Elisabetta Falco")
+![Carretera que rodea el lago de Garda](https://fotos.etheriamagazine.com/2024/03/lago-garda-italia.jpg "Carretera que rodea el lago de Garda. © Elisabetta Falco")
 
 ## Un paseo por Cracovia
 
@@ -133,7 +133,7 @@ rica herencia cultural. Más pistas para organizar el viaje en [Visitas esencial
 enamorarse de Cracovia en dos 
 días](https://etheriamagazine.com/2018/07/23/viaje-fin-de-semana-con-amigas-en-cracovia/). 
 
-![Plaza Mayor de Cracovia, visita obligada si vas en Semana Santa](etheria-images/2024/03/cracovia-semana-santa.jpg "Centro histórico de Cracovia. © Kevin Perez Camacho")
+![Plaza Mayor de Cracovia, visita obligada si vas en Semana Santa](https://fotos.etheriamagazine.com/2024/03/cracovia-semana-santa.jpg "Centro histórico de Cracovia. © Kevin Perez Camacho")
 
 ## Marruecos
 
@@ -152,4 +152,4 @@ gusta la fotografía, en Chaouen y en Assilah pondréis a prueba vuestra creativ
 duda, Marruecos es siempre buena idea para salidas de 3 o más días. En los anteriores 
 enlaces encontrarás toda la información necesaria para preparar vuestros viajes. 
 
-![Fez, capital espiritual de Marruecos](etheria-images/2024/03/viaje-fez.jpg "Fez, capital espiritual de Marruecos. © Parker Hilton")
+![Fez, capital espiritual de Marruecos](https://fotos.etheriamagazine.com/2024/03/viaje-fez.jpg "Fez, capital espiritual de Marruecos. © Parker Hilton")

@@ -1,7 +1,7 @@
 ---
 title: "Qué ver y hacer en tu primera visita a Oslo"
 date: 2020-01-24
-coverImage: etheria-images/2020/01/mercado-oslo-Mathallen.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/01/mercado-oslo-Mathallen.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -14,7 +14,7 @@ La capital Noruega es una ciudad que se presta a ser destino de fin de semana y 
 a formar parte de recorridos más prolongados en este país. En este artículo te contamos 
 qué ver en Oslo en tu primera visita. 
 
-![Mercado mathallen en Oslo](etheria-images/2020/01/mercado-oslo-Mathallen-900x599.jpg "Mathallen es un mercado gastronómico donde probar la cocina local. © CH/ Visit Norway")
+![Mercado mathallen en Oslo](https://fotos.etheriamagazine.com/2020/01/mercado-oslo-Mathallen-900x599.jpg "Mathallen es un mercado gastronómico donde probar la cocina local. © CH/ Visit Norway")
 
 Como ya sabes, Oslo es la actual capital de Noruega pero antes también lo fueron 
 Trondheim y Bergen (puedes leer el artículo de Etheria [Tres capitales de 
@@ -25,7 +25,7 @@ ambiente. Oslo es, sin duda, una propuesta excelente para un fin de semana o uno
 próximos puentes. Si es la primera vez que viajas a Oslo, presta atención a los 
 siguientes consejos. 
 
-![Museo de Astrup Fearnley](etheria-images/2020/01/Astrup-Fearnley-Museum-900x600.jpg "Museo de Astrup Fearnley. © Vegard Kleven/ Visit Norway")
+![Museo de Astrup Fearnley](https://fotos.etheriamagazine.com/2020/01/Astrup-Fearnley-Museum-900x600.jpg "Museo de Astrup Fearnley. © Vegard Kleven/ Visit Norway")
 
 ## Museos en Oslo
 
@@ -37,7 +37,7 @@ colección de obras de este artista noruego (aunque _El Grito_ sea la más conoc
 muchísimas más). Para ver el listado completo de museos puedes entrar en [Visit 
 Oslo](https://www.visitoslo.com/es/actividades-y-atracciones/atracciones/museo/). 
 
-![museo barcos vikingos oslo](etheria-images/2020/01/museo-vikingo-oslo-900x912.jpg "Barco vikingo en el © Museo de la Historia Cultural.")
+![museo barcos vikingos oslo](https://fotos.etheriamagazine.com/2020/01/museo-vikingo-oslo-900x912.jpg "Barco vikingo en el © Museo de la Historia Cultural.")
 
 ## El centro de Oslo
 
@@ -55,14 +55,14 @@ Fortress**. Fundado en la Edad Media como un castillo real, hoy en día sirve co
 cuartel general y escuela de oficiales. La fortaleza de Oslo es, sin duda, el mejor 
 lugar para contemplar la puesta de sol. 
 
-![Ópera de Oslo vista desde el mar.](etheria-images/2020/01/Noruega-Oslo-Opera-900x600.jpg "Ópera de Oslo vista desde el mar. © M.P.")
+![Ópera de Oslo vista desde el mar.](https://fotos.etheriamagazine.com/2020/01/Noruega-Oslo-Opera-900x600.jpg "Ópera de Oslo vista desde el mar. © M.P.")
 
 Otra de las paradas, e imagen de la ciudad, es la **Ópera de Noruega.** Dicen que el 
 edificio, de 2008, fue construido en mármol blanco italiano, reluciente y geométrico 
 sobre el mar para representar la imagen de un iceberg, en el que los humanos, vistos a 
 lo lejos como pequeñas manchas negras caminando sobre él, representan a los pingüinos. 
 
-![opera house oslo](etheria-images/2020/01/Opera-house-Oslo-900x600.jpg "Interior de la Opera de Oslo. © Helena Osykova")
+![opera house oslo](https://fotos.etheriamagazine.com/2020/01/Opera-house-Oslo-900x600.jpg "Interior de la Opera de Oslo. © Helena Osykova")
 
 ## Las afueras de Oslo
 
@@ -78,7 +78,7 @@ imágenes de la ciudad y una parada obligatoria para los turistas. Está abierto
 días del año de forma gratuita y durante las 24 horas del día. Reserva una mañana o una 
 tarde para recorrerlo con calma porque merece mucho la pena. 
 
-![escultura en Vigeland, oslo](etheria-images/2020/01/The-Vigeland-Park.jpg "La escultura de este niño en plena rabieta es una de las más conocidas del parque Vigeland. © CH/ Visit Norway")
+![escultura en Vigeland, oslo](https://fotos.etheriamagazine.com/2020/01/The-Vigeland-Park.jpg "La escultura de este niño en plena rabieta es una de las más conocidas del parque Vigeland. © CH/ Visit Norway")
 
 ## La Oslo Pass
 
@@ -95,7 +95,7 @@ para moverte por la ciudad está también incluido de forma gratuita.
 La tarjeta Oslo Pass de un día para un adulto cuesta unos 445 NOK/44€. También existe el 
 Oslo Pass de 48 y 72 horas. 
 
-![Holmenkollen, plataforma de saltos de esquí.](etheria-images/2020/01/Noruega-Olso-Holmenkollen-900x585.jpg "Holmenkollen, plataforma de saltos de esquí. ©M.P.")
+![Holmenkollen, plataforma de saltos de esquí.](https://fotos.etheriamagazine.com/2020/01/Noruega-Olso-Holmenkollen-900x585.jpg "Holmenkollen, plataforma de saltos de esquí. ©M.P.")
 
 ## ¿Cómo llegar y moverse por Oslo?
 
@@ -128,7 +128,7 @@ para viajar entre las ciudades de Trondheim, Stavagner o Bergen, por ejemplo, no
 posible seguir la línea de la costa en tren, sino que es necesario viajar a Oslo primero 
 y hacer conexión hacia otro destino final. 
 
-![Parlamento de Oslo.](etheria-images/2020/01/Noruega-Oslo-Parlamento-900x600.jpg "Parlamento de Oslo. © M.P.")
+![Parlamento de Oslo.](https://fotos.etheriamagazine.com/2020/01/Noruega-Oslo-Parlamento-900x600.jpg "Parlamento de Oslo. © M.P.")
 
 ## Información práctica de Noruega
 

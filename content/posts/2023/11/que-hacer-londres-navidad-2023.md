@@ -1,7 +1,7 @@
 ---
 title: "Londres en Navidad: mercadillos, espectáculos y mucho más"
 date: 2023-11-23
-coverImage: etheria-images/2023/11/londres-navidad-Hyde-Park-Winter-Wonderland-museo-hielo.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/11/londres-navidad-Hyde-Park-Winter-Wonderland-museo-hielo.jpg
 categories: 
   - viajes-48-horas
   - organiza-tu-viaje
@@ -20,7 +20,7 @@ del año en uno de los mejores destinos para realizar una escapada. La iluminaci
 calles, los mercadillos y los espectáculos harán que no puedas descansar ni un minuto, 
 ¡ni falta que hace! No te pierdas Londres en Navidad, te va a encantar. 
 
-![Decoración navideña en Regent Street.](etheria-images/2023/11/londres-navidad-regent-street.jpg "Decoración navideña en Regent Street. © Jamie Davis")
+![Decoración navideña en Regent Street.](https://fotos.etheriamagazine.com/2023/11/londres-navidad-regent-street.jpg "Decoración navideña en Regent Street. © Jamie Davis")
 
 Visitar grandes ciudades europeas durante la época del Adviento y la Navidad es todo un 
 acierto, ya que suelen echar el resto tanto en la decoración navideña, que alegra las 
@@ -32,7 +32,7 @@ igual cuántas veces lo hayas visitado, siempre tendrá algo nuevo que ofrecer. 
 es en la época del año que más actividad comercial y cultural concentra. No te pierdas 
 Londres en Navidad, vas a querer volver todos los años. Seguro. 
 
-![Magical Ice Kingdom de Winter Wonderland.](etheria-images/2023/11/londres-navidad-Hyde-Park-Winter-Wonderland-museo-hielo.jpg "Magical Ice Kingdom de © Winter Wonderland.")
+![Magical Ice Kingdom de Winter Wonderland.](https://fotos.etheriamagazine.com/2023/11/londres-navidad-Hyde-Park-Winter-Wonderland-museo-hielo.jpg "Magical Ice Kingdom de © Winter Wonderland.")
 
 ## Winter Wonderland
 
@@ -46,7 +46,7 @@ entrada es gratuita y el resto de las entradas al recinto cuestan desde 5 libras
 Aparte, muchas actividades llevan un precio aparte que se puede también pagar y reservar 
 a través de la web. 
 
-![Puestos y noria gigante de © Winter Wonderland.](etheria-images/2023/11/Londres-navidad-Hyde-Park-Winter-Wonderland-668x1000.jpg "Puestos y noria gigante de © Winter Wonderland.")
+![Puestos y noria gigante de © Winter Wonderland.](https://fotos.etheriamagazine.com/2023/11/Londres-navidad-Hyde-Park-Winter-Wonderland-668x1000.jpg "Puestos y noria gigante de © Winter Wonderland.")
 
 ## Wishmas at Wembley
 
@@ -70,7 +70,7 @@ organizado en dos pueblos navideños que permiten disfrutar de una jornada navid
 perfecta. Del 8 de diciembre al 7 de enero, precio de las entradas desde 5,50 libras. 
 Dónde: One Western Gateway, Royal Victoria Dock. 
 
-![niña en kingdom of winter](etheria-images/2023/11/londres-navidad-Kingdom-of-Winter-sendero-hielo.jpg "Sendero sobre el hielo en © Kingdom of Winter.")
+![niña en kingdom of winter](https://fotos.etheriamagazine.com/2023/11/londres-navidad-Kingdom-of-Winter-sendero-hielo.jpg "Sendero sobre el hielo en © Kingdom of Winter.")
 
 ## Christmas at Kew
 
@@ -114,7 +114,7 @@ Date prisa en comprar las entradas para **Christmas Actually** porque sólo hay 
 funciones. Del 7 al 11 de diciembre, precios desde 25,50 libras. Recomendado para 
 mayores de 8 años. 
 
-![Luces en Oxford Street.](etheria-images/2023/11/londres-navidad-oxford-street.jpg "Luces en Oxford Street. © Mark Higham.")
+![Luces en Oxford Street.](https://fotos.etheriamagazine.com/2023/11/londres-navidad-oxford-street.jpg "Luces en Oxford Street. © Mark Higham.")
 
 ## Decoración navideña
 
@@ -132,7 +132,7 @@ con su conocido logo) y **Liberty London**, con un original árbol de Navidad en
 interior. También el delicado y precioso mercado cubierto **Leadenhall Market** ofrece 
 una decoración navideña con mucho estilo que incluye un precioso árbol. 
 
-![Mercado de Navidad de Leicester Square.](etheria-images/2023/11/londres-navidad-leicester-square.jpg "Mercado de Navidad de Leicester Square. © Philippe Oursel")
+![Mercado de Navidad de Leicester Square.](https://fotos.etheriamagazine.com/2023/11/londres-navidad-leicester-square.jpg "Mercado de Navidad de Leicester Square. © Philippe Oursel")
 
 ? **También te puede interesar:** 
 

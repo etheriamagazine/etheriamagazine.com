@@ -1,7 +1,7 @@
 ---
 title: "Hotel Santo Cristo, el lujo discreto de los pequeños detalles"
 date: 2022-01-10
-coverImage: etheria-images/2022/01/Hotel-Santo-Cristo-terraza.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-terraza.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 Marbella se puede disfrutar de muchas maneras y una que nos encanta es hacerlo desde su precioso casco histórico alojándonos en el hotel Santo Cristo, un nuevo hotel boutique de lujo lleno de encanto.
 
-![Terraza del hotel Santo Cristo.](etheria-images/2022/01/Hotel-Santo-Cristo-terraza.jpg "Terraza del hotel Santo Cristo.")
+![Terraza del hotel Santo Cristo.](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-terraza.jpg "Terraza del hotel Santo Cristo.")
 
 Marbella es una ciudad llena de referencias para el turismo de lujo que guarda en su 
 casco histórico su esencia de pueblo blanco malagueño, que merece vivirse en paseos 
@@ -29,7 +29,7 @@ edificio que acogía a los comerciantes mientras se desplazaban de un lugar a ot
 sus mercancías. De esta manera el aspecto de su patio toma forma gracias a las galerías 
 balconadas con jardineras y persianas de esparto que le dan un toque único y especial. 
 
-![Patio del hotel Santo Cristo](etheria-images/2022/01/Hotel-Santo-Cristo-Patio-683x1024.jpg "Patio del hotel.")
+![Patio del hotel Santo Cristo](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-Patio-683x1024.jpg "Patio del hotel.")
 
 Este patio será sin duda uno de los rincones del hotel que más te van a gustar, ya que 
 guarda todo el encanto de los patios andaluces, con una pequeña fuente y dos preciosos 
@@ -45,7 +45,7 @@ Bespoke”**, un departamento encargado de adaptar a cada persona la experiencia
 disfrutar Marbella según sus gustos y preferencias: una visita guiada privada por la 
 ciudad, el alquiler de un barco para recorrer el Mediterráneo… 
 
-![Fachada del hotel Santo Cristo.](etheria-images/2022/01/Hotel-Santo-Cristo-exterior-683x1024.jpg "Fachada del hotel Santo Cristo.")
+![Fachada del hotel Santo Cristo.](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-exterior-683x1024.jpg "Fachada del hotel Santo Cristo.")
 
 ## Las habitaciones del hotel Santo Cristo
 
@@ -55,7 +55,7 @@ caracteriza: decoración con materiales naturales como el esparto o la madera, u
 que invita al descanso con sus sábanas de algodón egipcio de 500 hilos o la carta de 
 almohadas para que tu descanso sea perfecto. 
 
-![Suite del hotel Santo Cristo.](etheria-images/2022/01/Hotel-Santo-Cristo-Suite.jpg "Suite del hotel Santo Cristo.")
+![Suite del hotel Santo Cristo.](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-Suite.jpg "Suite del hotel Santo Cristo.")
 
 Además, tienen esos pequeños detalles de calidad que tanto nos gustan, como una plancha 
 y secador de pelo GHD personalizados para La Ciudadela o las **amenities de lujo de 
@@ -69,7 +69,7 @@ preciosa decoración como por sus platos de alta gastronomía realizados con pro
 locales. Además, su carta de vinos ha sido diseñada con mucho mimo y refleja, además de 
 los clásicos habituales, referencias de producción limitada y vinos singulares. 
 
-![Restaurante La Bouganvilla.](etheria-images/2022/01/Hotel-Santo-Cristo-Restaurante-La-Bouganvilla.jpg "Restaurante La Bouganvilla.")
+![Restaurante La Bouganvilla.](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-Restaurante-La-Bouganvilla.jpg "Restaurante La Bouganvilla.")
 
 Pero si hay un lugar realmente especial en este hotel es su **terraza**, con unas vistas 
 estupendas del _skyline_ marbellí, con las iglesias de Santo Cristo y la Encarnación 

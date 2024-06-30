@@ -1,7 +1,7 @@
 ---
 title: "Semana de la Castaña en Jubrique, sabores y paseos otoñales"
 date: 2020-11-07
-coverImage: etheria-images/2020/11/Jubrique-malaga.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/Jubrique-malaga.jpg
 categories: 
   - planes-cultura-ocio
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 ##### ¿Adivinas quién es la protagonista absoluta en la recién inaugurada Semana de la Castaña de Jubrique? Por supuesto, la castaña, una de las señas de identidad de la Serranía de Ronda y del Valle del Genal. Durante una semana (del 7 al 15 de noviembre), el pueblo malagueño de Jubrique será el epicentro de eventos gastronómicos y actividades en la naturaleza en torno a este producto.
 
-![valle del genal semana de la castana](etheria-images/2020/11/Jubrique-malaga.jpg "Bonita panorámica del Valle del Genal con Jubrique en primer plano.")
+![valle del genal semana de la castana](https://fotos.etheriamagazine.com/2020/11/Jubrique-malaga.jpg "Bonita panorámica del Valle del Genal con Jubrique en primer plano.")
 
 ## La castaña, reina y señora
 
@@ -24,7 +24,7 @@ se tiene que exportar también a otros países como Italia, Francia, Alemania e
 Inglaterra, donde valoran enormemente la calidad del producto que seleccionan las dos 
 principales cooperativas de la Serranía de Ronda. 
 
-![fruto del castano en la semana de la castana de jubrique](etheria-images/2020/11/castana-jubrique.jpg "Las castañas crecen en el interior de unas cápsulas espinosas.")
+![fruto del castano en la semana de la castana de jubrique](https://fotos.etheriamagazine.com/2020/11/castana-jubrique.jpg "Las castañas crecen en el interior de unas cápsulas espinosas.")
 
 El cultivo del castaño no es algo nuevo en la Península Ibérica, ya que fue introducido 
 por los Romanos, aunque en el Valle del Genal empezó a popularizarse hacia los años 50 
@@ -47,7 +47,7 @@ después empresas como la Sociedad Cooperativa Andaluza Castañas Valle del Gena
 por familias locales, debe prepararlas (esterilización, clasificación, curado natural, 
 cepillado, encerado, etc.) con métodos naturales para su comercialización. 
 
-![recogida castana en jubrique](etheria-images/2020/11/recogida-castana-jubrique.jpg "La recogida de la castaña, una actividad prioritaria en Jubrique.")
+![recogida castana en jubrique](https://fotos.etheriamagazine.com/2020/11/recogida-castana-jubrique.jpg "La recogida de la castaña, una actividad prioritaria en Jubrique.")
 
 ## Qué se puede hacer con las castañas
 
@@ -58,7 +58,7 @@ Por su parte, **Carlos Llamero** es experto también pero en otra variante, la d
 **pan de castañas**, que vende en la panadería La Pujerreña de Jubrique desde hace casi 
 una década. 
 
-![castana en platos dulces y salados](etheria-images/2020/11/gastronomia-castana.jpg "La castaña, un ingrediente ideal tanto en platos dulces como salados.")
+![castana en platos dulces y salados](https://fotos.etheriamagazine.com/2020/11/gastronomia-castana.jpg "La castaña, un ingrediente ideal tanto en platos dulces como salados.")
 
 Como recuerdo de estas jornadas de la castaña te proponemos comprar conservas dulces, 
 como **mermeladas o ‘marrón glacé’**, de la empresa [La Molienda 
@@ -69,7 +69,7 @@ Genal](https://sites.google.com/site/jamonesaltogenal/jamones-alto-genal/proceso
 y cuya producción va directa al restaurante El Pimpi de [Málaga](https://etheriamagazine.com/2018/12/06/fin-de-semana-con-amigas-en-malaga/) 
 o a La Casa del Jamón de Ronda. 
 
-![jubrique en valle de genal de malaga](etheria-images/2020/11/pueblo-Jubrique-malaga.jpg "Jubrique, en el Valle del Genal (Málaga).")
+![jubrique en valle de genal de malaga](https://fotos.etheriamagazine.com/2020/11/pueblo-Jubrique-malaga.jpg "Jubrique, en el Valle del Genal (Málaga).")
 
 ## Programa de la Semana de la Castaña 2020
 
@@ -81,7 +81,7 @@ reconocidos chefs que compartirán sus trucos a la hora de integrar la castaña 
 menús. Toma nota del programa, horarios, y no olvides inscribirte previamente en las 
 actividades con limitación de participantes (info@jubrique.es). 
 
-![platos con castanas jubrique en malaga](etheria-images/2020/11/platos-con-castanas.jpg "La castaña es un ingrediente que aporta un toque especial a muchas recetas.")
+![platos con castanas jubrique en malaga](https://fotos.etheriamagazine.com/2020/11/platos-con-castanas.jpg "La castaña es un ingrediente que aporta un toque especial a muchas recetas.")
 
 ##### Sábado 7 noviembre
 
@@ -105,7 +105,7 @@ integrado en las cartas. Tiene un aforo limitado de seis plazas.
 ‘Taller de elaboración de postres y dulces’, impartido por Iván Sastre, propietario del 
 restaurante Bandolero de Júzcar. 
 
-![bosques de castanos de jubrique](etheria-images/2020/11/bosque-castano-jubrique.jpg "Los bosques de castaños lucen espectaculares en otoño.")
+![bosques de castanos de jubrique](https://fotos.etheriamagazine.com/2020/11/bosque-castano-jubrique.jpg "Los bosques de castaños lucen espectaculares en otoño.")
 
 ##### Sábado 14 de noviembre
 
@@ -119,7 +119,7 @@ Entre las 12 y las 14 horas, se celebrará un _showcooking_ sobre ‘La castaña
 ingrediente que une culturas’, en el que Samuel Perea cocinará a cuatro manos con María 
 Rosenda, vecina de Jubrique, un menú de tres platos a base de castaña. 
 
-![ruta senderista de la semana de la castana jubrique](etheria-images/2020/11/semana-castana-jubrique-malaga.jpg "La Semana de la Castaña también incluye rutas senderistas por el Bosque de Cobre.")
+![ruta senderista de la semana de la castana jubrique](https://fotos.etheriamagazine.com/2020/11/semana-castana-jubrique-malaga.jpg "La Semana de la Castaña también incluye rutas senderistas por el Bosque de Cobre.")
 
 ##### Domingo 15 de noviembre
 

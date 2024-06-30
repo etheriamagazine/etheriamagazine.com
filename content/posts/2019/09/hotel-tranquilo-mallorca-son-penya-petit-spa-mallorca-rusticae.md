@@ -1,7 +1,7 @@
 ---
 title: "Son Penya Petit Hotel & Spa, un rincón secreto en Mallorca"
 date: 2019-09-04
-coverImage: etheria-images/2019/08/Son-Penya-piscina-aina-suite.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/08/Son-Penya-piscina-aina-suite.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -14,7 +14,7 @@ tesoros que parecen vivir al margen del bullicio. Es el caso del Son Penya Petit
 Spa, un rincón en el interior de la isla de Mallorca que invita a pasar un fin de semana 
 de relax. 
 
-![exterior del hotel Son Penya en Mallorca](etheria-images/2019/08/Son-Penya-fachada.jpg "Una de las terrazas del Son Penya Petit Hotel & Spa.")
+![exterior del hotel Son Penya en Mallorca](https://fotos.etheriamagazine.com/2019/08/Son-Penya-fachada.jpg "Una de las terrazas del Son Penya Petit Hotel & Spa.")
 
 Hay lugares que parecen esconderse para que, cuando los descubres, la sorpresa sea 
 mayor. Es el caso del **Son Penya Petit Hotel & Spa,** un delicioso lugar en el oeste de 
@@ -28,7 +28,7 @@ tras su renovación, ha proporcionado un entorno aún más agradable y cuidado. 
 pequeña joya está llena de rincones donde disfrutar del entorno, con zonas ‘chill out’ 
 donde detenerse a disfrutar, por ejemplo, de una puesta de sol. 
 
-![Piscina de hotel Son Penya en Mallorca](etheria-images/2019/08/Son-Penya-piscina.jpg "Piscina de hotel.")
+![Piscina de hotel Son Penya en Mallorca](https://fotos.etheriamagazine.com/2019/08/Son-Penya-piscina.jpg "Piscina de hotel.")
 
 La piscina es un lugar del que no querrás salir, ya que se ha cuidado el entorno hasta 
 el último detalle para conformar un espacio con prácticas áreas de sombra, camas 
@@ -46,7 +46,7 @@ en tonos neutros y suaves recuperando parte de la construcción original en las 
 de piedra mallorquina de marés. Todas cuenta con terraza privada, bañera de hidromasaje 
 y unas vistas de las que no podrás apartar la mirada. 
 
-![Una de las habitaciones del hotel Son Penya.](etheria-images/2019/08/Son-Penya-habitacion.jpg "Una de las habitaciones del hotel Son Penya.")
+![Una de las habitaciones del hotel Son Penya.](https://fotos.etheriamagazine.com/2019/08/Son-Penya-habitacion.jpg "Una de las habitaciones del hotel Son Penya.")
 
 Existen varios tipos de habitaciones para que elijas la que mejor se adapte a tus 
 gustos: **habitaciones dobles**, decoradas en tonos cálidos y con el baño parcialmente 
@@ -56,7 +56,7 @@ salón y piscina privada; y la exclusiva **Aina Suite**, situada en una de las z
 tranquilas del hotel, que dispone de un patio y una piscina privados y unas preciosas 
 vistas desde su terraza. 
 
-![Piscina privada de la Aina Suite en el hotel Son Penya](etheria-images/2019/08/Son-Penya-piscina-aina-suite.jpg "Piscina privada de la Aina Suite.")
+![Piscina privada de la Aina Suite en el hotel Son Penya](https://fotos.etheriamagazine.com/2019/08/Son-Penya-piscina-aina-suite.jpg "Piscina privada de la Aina Suite.")
 
 ## El restaurante 5’S
 
@@ -66,7 +66,7 @@ altos techos, diseño gótico y decoración serena con paredes de marés y arcos
 forman un entorno donde se disfruta aún más de su cocina. Y si hace buen tiempo, nada 
 mejor que salir a la terraza, rodeada de los bonitos jardines del hotel. 
 
-![Terraza del restaurante del hotel Son Penya](etheria-images/2019/08/Son-Penya-terraza-restaurante.jpg "Terraza del restaurante.")
+![Terraza del restaurante del hotel Son Penya](https://fotos.etheriamagazine.com/2019/08/Son-Penya-terraza-restaurante.jpg "Terraza del restaurante.")
 
 En cuanto a la propuesta gastronómica, se ha buscado el equilibrio entre la alta 
 gastronomía y las técnicas tradicionales con productos de cercanía y Kilómetro Cero. 
@@ -84,7 +84,7 @@ Wellness**. Cuenta con piscina climatizada, sauna, baño turco, circuito de duch
 de tratamientos y sala de fitness, y sus instalaciones se ven beneficiadas con unas 
 excelentes vistas sobre el jardín. 
 
-![Piscina climatizada del Spa del hotel Son Penya](etheria-images/2019/08/Son-Penya-Spa.jpg "Piscina climatizada del Spa.")
+![Piscina climatizada del Spa del hotel Son Penya](https://fotos.etheriamagazine.com/2019/08/Son-Penya-Spa.jpg "Piscina climatizada del Spa.")
 
 La mejor opción: elegir un masaje entre sus muchas opciones y combinarlo con un rato de 
 relax en sus instalaciones. 
@@ -96,7 +96,7 @@ los alrededores de este tranquilo lugar de Mallorca. Además, es un hotel compro
 con el medio ambiente y puedes alquilar en el establecimiento un coche eléctrico para 
 recorrer la isla (es un punto de carga autorizado). 
 
-![Exterior del hotel Son Penya](etheria-images/2019/08/Son-penya-bicicletas.jpg "Exterior del hotel.")
+![Exterior del hotel Son Penya](https://fotos.etheriamagazine.com/2019/08/Son-penya-bicicletas.jpg "Exterior del hotel.")
 
 Si no quieres que todo sea descanso, en el hotel podrán facilitarte actividades para 
 disfrutar de esta bonita isla: dar un paseo a caballo, alquilar un barco, indicaciones 

@@ -1,7 +1,7 @@
 ---
 title: "Planes en la nieve para mujeres que no esquían"
 date: 2019-01-01
-coverImage: etheria-images/2018/12/viaje-nieve-Trineos-perros.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/12/viaje-nieve-Trineos-perros.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -16,7 +16,7 @@ una escapada familiar a la nieve, pero… ¿y si alguien del grupo no puede esqu
 quiere? ¡No hay problema! Os contamos planes en la nieve que se puede realizar sin 
 ponerse los esquíes. 
 
-![trineo tirado por perros, nieve sin esquiar, que hacer en la nieva si no esquias](etheria-images/2018/12/viaje-mujeres-Trineos-perros-nieve-1024x552.jpg "Trineo tirado por perros.")
+![trineo tirado por perros, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Trineos-perros-nieve-1024x552.jpg "Trineo tirado por perros.")
 
 Cada vez son más, mejores y más variadas las opciones de ocio para pasar el día a lo 
 grande mientras los demás se deslizan por las pistas. Ya no es necesario quedarse en el 
@@ -41,7 +41,7 @@ propio trineo y, a los amantes de los animales, no les faltará tiempo para juga
 Outdoor](http://www.montgarri.com/trineos-con-huskys/)), en el Pirineo de Huesca (**Tena 
 Park**, www.tenapark.com). 
 
-![trineo de caballos](etheria-images/2018/12/viaje-mujeres-Trineo-caballos.jpg "Trineo tirado por caballos, otra manera de disfrutar de los paisajes blancos.")
+![trineo de caballos](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Trineo-caballos.jpg "Trineo tirado por caballos, otra manera de disfrutar de los paisajes blancos.")
 
 ### Trineos de caballos
 
@@ -56,7 +56,7 @@ aún más bucólico.
 
 ¿Dónde? En el **Valle de Arán** (www.visitvaldaran.com/cat/trineo-a-caballo). 
 
-![motos de nieve en espana, nieve sin esquiar, que hacer en la nieva si no esquias](etheria-images/2018/12/viaje-mujeres-Motos-nieve-1024x683.jpg "A toda velocidad en moto de nieve, una alternativa al esquí.")
+![motos de nieve en espana, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Motos-nieve-1024x683.jpg "A toda velocidad en moto de nieve, una alternativa al esquí.")
 
 ### Motos de nieve
 
@@ -69,7 +69,7 @@ gastronómica en un auténtico refugio de montaña.
 
 ¿Dónde? En Baqueira-Beret (**Ski Center**, www.skicenter.es). 
 
-![caballo en la nieve, nieve sin esquiar, que hacer en la nieva si no esquias](etheria-images/2018/12/viaje-mujeres-familia-caballo.jpg "Rutas a caballo en la nieve.")
+![caballo en la nieve, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-familia-caballo.jpg "Rutas a caballo en la nieve.")
 
 ## Deportes en la nieve
 
@@ -86,7 +86,7 @@ didáctica, ideal para toda la familia.
 
 ¿Dónde? En Sierra Nevada (**Cortijo Las Encinillas**, www.lasencinillas.com). 
 
-![pista de patinaje sobre hielo](etheria-images/2018/12/viaje-mujeres-Patinaje-sobre-hielo.jpg "Las pistas de patinaje sobre hielo son imprescindibles en los viajes familiares.")
+![pista de patinaje sobre hielo](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Patinaje-sobre-hielo.jpg "Las pistas de patinaje sobre hielo son imprescindibles en los viajes familiares.")
 
 ### Patinaje sobre hielo
 
@@ -100,7 +100,7 @@ artístico, ballet y galas temáticas.
 
 ¿Dónde? En el Valle de Arán (**Palacio de Hielo**, www.palaidegeu.com). 
 
-![rafael hoteles huesca, nieve sin esquiar, que hacer en la nieva si no esquias](etheria-images/2018/12/viaje-mujeres-Spa-Rafael-Hoteles-Pleta-1024x683.jpg "Spa de Rafael Hoteles by La Pleta (Huesca).")
+![rafael hoteles huesca, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Spa-Rafael-Hoteles-Pleta-1024x683.jpg "Spa de Rafael Hoteles by La Pleta (Huesca).")
 
 ## Planes de bienestar fuera de pistas
 
@@ -121,7 +121,7 @@ Suena apetecible, ¿verdad?
 cuentan con un espacio dedicado al bienestar donde miman el cuerpo y os dejarán como 
 nuevos. 
 
-![nieve sin esquiar, que hacer en la nieva si no esquias](etheria-images/2018/12/viaje-mujeres-Caldea-piscina.jpg "Spa de Caldea (Andorra)")
+![nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Caldea-piscina.jpg "Spa de Caldea (Andorra)")
 
 ### Termas
 
@@ -135,7 +135,7 @@ el cuerpo.
 
 ¿Dónde? En **Caldea** (www.caldea.com), Andorra. 
 
-![caldea, nieve sin esquiar, que hacer en la nieva si no esquias](etheria-images/2018/12/viaje-mujeres-Caldea-1024x682.jpg "En Caldea se pueden recibir masajes y otros tratamientos (Andorra).")
+![caldea, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Caldea-1024x682.jpg "En Caldea se pueden recibir masajes y otros tratamientos (Andorra).")
 
 ## Planes culturales
 
@@ -155,7 +155,7 @@ Alhambra y los Palacios Nazaríes y la compañía de un guía oficial privado.
 visita a la 
 Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/) 
 
-![la alhambra desde Sierra Nevada](etheria-images/2018/12/viaje-mujeres-Visita-La-Alhambra.jpg "Preciosa panorámica de La Alhambra de Granada.")
+![la alhambra desde Sierra Nevada](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Visita-La-Alhambra.jpg "Preciosa panorámica de La Alhambra de Granada.")
 
 ### Ruta de arte románico
 
@@ -174,7 +174,7 @@ entre muchas otras, todas ellas repletas de encanto.
 y sendas 
 imprescindibles](https://etheriamagazine.com/2020/08/31/pueblos-y-rutas-imprescindibles-en-valle-aran/). 
 
-![romanico valle de aran](etheria-images/2018/12/viaje-mujeres-Ruta-romanica-Valle-Aran.jpg "El Valle Arán es uno de los mejores lugares de España para disfrutar del románico.")
+![romanico valle de aran](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Ruta-romanica-Valle-Aran.jpg "El Valle Arán es uno de los mejores lugares de España para disfrutar del románico.")
 
 ## Más propuestas para ver la nieve desde lejos
 
@@ -192,7 +192,7 @@ reservar).
 
 ¿Dónde? En **Sierra Nevada**. 
 
-![vuelo en globo granada](etheria-images/2018/12/viaje-mujeres-Paseo-globo.jpg "Vuelo en globo en Granada.")
+![vuelo en globo granada](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Paseo-globo.jpg "Vuelo en globo en Granada.")
 
 ### Consejos para disfrutar de la nieve
 

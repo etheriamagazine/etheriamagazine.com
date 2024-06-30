@@ -1,7 +1,7 @@
 ---
 title: "El Amazonas: nueva etapa de Sania Jelic en Sudamérica"
 date: 2022-12-24
-coverImage: etheria-images/2022/12/Sania-amazonas-tribus.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/Sania-amazonas-tribus.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -14,7 +14,7 @@ incalculable valor tanto a la naturaleza como a las tradiciones que atesoran sus
 habitantes. Nuevas amigas, una gastronomía diferente y paisajes sobrecogedores. ¿Qué 
 será lo que más ha impresionado a Sania? Nos lo cuenta... 
 
-![Sania con indígenas del Amazonas](etheria-images/2022/12/Sania-amazonas-tribus.jpg "Sania ha compartido momentos únicos con las tribus del Amazonas.")
+![Sania con indígenas del Amazonas](https://fotos.etheriamagazine.com/2022/12/Sania-amazonas-tribus.jpg "Sania ha compartido momentos únicos con las tribus del Amazonas.")
 
 Desde siempre he querido ir al Amazonas. ¿Será por las historias de las guerreras 
 amazonas? O quizá por la inmensidad del territorio que sobrevolé alguna vez viendo 
@@ -47,7 +47,7 @@ carros con sacos de tapioca, gente en bici, perros… Todo en medio del barro.
 Divina nos llevó a una pequeña lancha que estaba amarrada de costado. Me entró la risa, 
 pero el motor de 115 caballos ya transmitía otro mensaje: íbamos a ir rápidos. 
 
-![pescado y verduras del Amazonas](etheria-images/2022/12/Sania-Jelic-amazonas-gastronomia.jpg "Algunos ingredientes de la cocina del Amazonas.")
+![pescado y verduras del Amazonas](https://fotos.etheriamagazine.com/2022/12/Sania-Jelic-amazonas-gastronomia.jpg "Algunos ingredientes de la cocina del Amazonas.")
 
 Cuesta ordenar las impresiones. Desde la comida estupenda, a base de frutas y verduras 
 poco conocidas y usadas en Europa, y el sonido del brasileño hablado normalmente por 
@@ -69,7 +69,7 @@ de enero a julio. Las crecidas pueden ser de hasta 20 metros. Por ese motivo, lo
 poblados están todos alejados de la orilla y situados en lo que parecen cuestas en 
 épocas secas. Durante casi medio año está todo inundado. 
 
-![zona de tierra junto al Amazonas](etheria-images/2022/12/Sania-Jelic-amazonas-crecida.jpg "El Amazonas puede tener crecidas de hasta 20 metros en la época de lluvias.")
+![zona de tierra junto al Amazonas](https://fotos.etheriamagazine.com/2022/12/Sania-Jelic-amazonas-crecida.jpg "El Amazonas puede tener crecidas de hasta 20 metros en la época de lluvias.")
 
 ## Impresiones de las tribus indígenas
 
@@ -99,7 +99,7 @@ Al estar los dos poblados cerca de **Manaos** son los que más a menudo reciben 
 de turistas. Y para los colombianos eso representaba una fuente de ingresos con 
 posiblemente menos peligro que el de las zonas de las que venían. 
 
-![Divina Viana y el conductor de la lancha.](etheria-images/2022/12/Sania-Jelic-amazonas-divina-viana.jpg "Divina Viana y el conductor de la lancha.")
+![Divina Viana y el conductor de la lancha.](https://fotos.etheriamagazine.com/2022/12/Sania-Jelic-amazonas-divina-viana.jpg "Divina Viana y el conductor de la lancha.")
 
 ## La historia de Divina Viana
 
@@ -119,7 +119,7 @@ trigo.
 
 > De noche se escucha el sonido de la selva y algún motor de barco en la distancia. 
 
-![Sania en la finca de Divina Viana](etheria-images/2022/12/Sania-amazonas-cocinera-papagayo.jpg "La cocinera Cleya y Sania con el papagayo Aurora.")
+![Sania en la finca de Divina Viana](https://fotos.etheriamagazine.com/2022/12/Sania-amazonas-cocinera-papagayo.jpg "La cocinera Cleya y Sania con el papagayo Aurora.")
 
 Divina es una de las mujeres emprendedoras que queríamos conocer. Creció y estudió en la 
 comunidad de Araras, donde está su posada, hasta la edad de 10-12 años cuando se fue a 
@@ -145,7 +145,7 @@ Al día siguiente seguimos dirección norte para llegar al pueblo yara, en la co
 se estaban especializando en la producción de **cosméticos** hechos a base de materia 
 prima del bosque. 
 
-![mujeres yara con sus cosméticos naturales](etheria-images/2022/12/Sania-amazonas-yara.jpg "Sania y sus compañeras de viaje con la cooperativa de mujeres productoras de cosméticos del pueblo yara.")
+![mujeres yara con sus cosméticos naturales](https://fotos.etheriamagazine.com/2022/12/Sania-amazonas-yara.jpg "Sania y sus compañeras de viaje con la cooperativa de mujeres productoras de cosméticos del pueblo yara.")
 
 Cuando comenzaron, hacían solo jabones pero el grupo creció a más de 100 personas así 
 que se dividieron y especializaron. Un grupo sigue con jabones y el otro con cosméticos 
@@ -173,7 +173,7 @@ que vienen de otras aldeas y pasan ahí la semana. Además, cuentan con dos equi
 deportivos que participan en competiciones nacionales: uno en remo en canoa y otro en 
 tiro con arco. 
 
-![deportes en Povo Kambeba](etheria-images/2022/12/sania-jelic-amazonas-tiro-con-arco-canoas.jpg "Sania practicando el tiro con arco y participante de los campeonatos nacionales de canoa de Povo Kambeba.")
+![deportes en Povo Kambeba](https://fotos.etheriamagazine.com/2022/12/sania-jelic-amazonas-tiro-con-arco-canoas.jpg "Sania practicando el tiro con arco y participante de los campeonatos nacionales de canoa de Povo Kambeba.")
 
 Llamaba la atención la gran diferencia en desarrollo de este pueblo con los demás que 
 habíamos visto. Era obvio que el líder del pueblo es una persona con visión pragmática 
@@ -194,7 +194,7 @@ enseñanza obligatoria. La metodología de la enseñanza indígena está basada 
 transmisión oral de la información, sentados en círculo, combinando varias técnicas de 
 expresión como la danza, el dibujo o el canto. 
 
-![mujeres en el Amazonas](etheria-images/2022/12/Sania-Jelic-mujeres-novo-airao.jpg "Sania y sus acompañantes con las profesoras de Novo Airão.")
+![mujeres en el Amazonas](https://fotos.etheriamagazine.com/2022/12/Sania-Jelic-mujeres-novo-airao.jpg "Sania y sus acompañantes con las profesoras de Novo Airão.")
 
 > No tienen prácticamente medios y el apoyo mutuo que se brindan, con el intercambio de 
 > información y experiencias es fundamental. Unidas se saben más fuertes en sus esfuerzos 

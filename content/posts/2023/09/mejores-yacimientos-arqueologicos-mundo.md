@@ -1,7 +1,7 @@
 ---
 title: "10 yacimientos arqueológicos del mundo para visitar una vez en la vida"
 date: 2023-09-08
-coverImage: etheria-images/2023/09/yacimiento-templos-bagan.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/09/yacimiento-templos-bagan.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ yacimientos arqueológicos del mundo para visitar, al menos, una vez en la vida.
 están en ciudades cercanas y otros implican largos viajes, pero no por ello debemos 
 dejar de soñar con ellos. ¿Cuál visitaríais primero? 
 
-![Acrópolis de Atenas con el Partenón en lo alto.](etheria-images/2023/09/yacimiento-acropolis-atenas.jpg "Acrópolis de Atenas con el Partenón en lo alto.")
+![Acrópolis de Atenas con el Partenón en lo alto.](https://fotos.etheriamagazine.com/2023/09/yacimiento-acropolis-atenas.jpg "Acrópolis de Atenas con el Partenón en lo alto.")
 
 Las listas de tareas y propósitos cuando comienza el año o justo después de las 
 vacaciones pueden ser de dos formas: las realizables y las aspiracionales, esas que, 
@@ -44,7 +44,7 @@ doscientos años. Los puso en valor el arqueólogo francés Henri Mouhot cuando 
 al frente de una expedición en 1860 y son Patrimonio Mundial de la Humanidad por la 
 Unesco. 
 
-![Angkor Wat al amanecer.](etheria-images/2023/09/yacimientos-ankor-wat.jpg "Angkor Wat al amanecer.")
+![Angkor Wat al amanecer.](https://fotos.etheriamagazine.com/2023/09/yacimientos-ankor-wat.jpg "Angkor Wat al amanecer.")
 
 Para visitar algunos de los templos principales necesitarás como mínimo dos o tres días. 
 Los imprescindibles son **Angkor Wat** (cuyo perfil se lleva todas las fotografías, está 
@@ -69,7 +69,7 @@ construido en honor de los dioses Re Haractes, Amón-Re, Ptah Sikar Osiris y del
 Ramsés II deificado; y el templo que este gran faraón construyó en honor de su esposa 
 favorita, Nefertari. 
 
-![fachada de Abu Simbel](etheria-images/2023/06/egipto-abu-simbel-amanecer.jpg "Entrada del templo principal de Abu Simbel con los cuatro colosos de Ramsés II. © Susana García")
+![fachada de Abu Simbel](https://fotos.etheriamagazine.com/2023/06/egipto-abu-simbel-amanecer.jpg "Entrada del templo principal de Abu Simbel con los cuatro colosos de Ramsés II. © Susana García")
 
 Además de sus imponentes estatuas y los delicados relieves (que en el gran templo 
 conmemoran la famosa batalla de Qadesh contra los hititas) en el conjunto impresiona su 
@@ -105,7 +105,7 @@ se recorre el Siq, el desfiladero por el que se accede al conjunto); el **Teatro
 (también excavado en piedra y remodelado por los romanos); el **Monasterio**, al que se 
 llega tras una ardua subida de 800 escalones; y las tumbas reales. 
 
-![El Monasterio de Petra.](etheria-images/2023/09/yacimiento-petra-monasterio.jpg "El Monasterio de Petra.")
+![El Monasterio de Petra.](https://fotos.etheriamagazine.com/2023/09/yacimiento-petra-monasterio.jpg "El Monasterio de Petra.")
 
 La imagen del Siq y el Tesoro la tenemos grabada gracias a la película _Indiana Jones y 
 la última cruzada_ y como Indi puedes también acceder al conjunto a caballo (o burro), 
@@ -131,7 +131,7 @@ construcciones más famosas son el **Intihuatana** (una piedra ritual), el **Tem
 Sol** y el **Templo de las Tres Ventanas**. Las vistas que ofrece son increíbles y no 
 podrás dejar la cámara tranquila. 
 
-![yacimiento de Machu Picchu en Perú](etheria-images/2023/09/yacimientos-machu-picchu.jpg "Machu Picchu.")
+![yacimiento de Machu Picchu en Perú](https://fotos.etheriamagazine.com/2023/09/yacimientos-machu-picchu.jpg "Machu Picchu.")
 
 Machu Picchu es uno de esos lugares que hay que visitar sí o sí con un guía turístico. 
 El viaje se puede hacer de varias maneras: en tren, lo más cómodo; por carretera o a pie 
@@ -154,7 +154,7 @@ sitio arqueológico más famoso y visitado de esta cultura es Chichén Itza y su
 este período de la historia centroamericana. Este lugar se desarrolló como centro 
 ceremonial entre los siglos VI y VIII d.C. y tomó la forma actual en el siglo XIII. 
 
-![El Castillo en el yacimiento de Chichén Itzá](etheria-images/2023/09/yacimiento-chichen-itza-kukulkan.jpg "Pirámide de Kukulkán en Chichén Itzá.")
+![El Castillo en el yacimiento de Chichén Itzá](https://fotos.etheriamagazine.com/2023/09/yacimiento-chichen-itza-kukulkan.jpg "Pirámide de Kukulkán en Chichén Itzá.")
 
 Chichen Itzá es fácilmente accesible por carretera desde los centros turísticos de 
 Cancún y Riviera Maya. El complejo incluye **26 ruinas mayas** (y aún queda mucho por 
@@ -180,7 +180,7 @@ cuando comenzó a ser invadido por la selva y por los restos de las erupciones
 volcánicas. Sigue funcionando como templo budista, ya que consiguió recuperarse gracias 
 a las reconstrucciones y restauraciones que se sucedieron a lo largo del siglo XX. 
 
-![Templo budista de Borobudur.](etheria-images/2023/09/yacimiento-yogyakarta-indonesia-borobudur.jpg "Templo budista de Borobudur.")
+![Templo budista de Borobudur.](https://fotos.etheriamagazine.com/2023/09/yacimiento-yogyakarta-indonesia-borobudur.jpg "Templo budista de Borobudur.")
 
 El templo de Borobudur se encuentra a 40 kilómetros de **Yogyakarta**. Se puede realizar 
 la visita haciendo parte de la peregrinación, es decir, subiendo de forma circular según 
@@ -199,7 +199,7 @@ realidad tumbas para homenajear a los ancestros y servían también para venerar
 dioses y comunicarse con los espíritus. Y hasta aquí es lo que se sabe. No está claro 
 cómo llegaron hasta aquí, ni cómo fueron puestos en pie. 
 
-![Moáis de la Isla de Pascua.](etheria-images/2023/09/yacimientos-moai-isla-pascua-chile.jpg "Moáis de la Isla de Pascua.")
+![Moáis de la Isla de Pascua.](https://fotos.etheriamagazine.com/2023/09/yacimientos-moai-isla-pascua-chile.jpg "Moáis de la Isla de Pascua.")
 
 Visitar los moáis de Isla de Pascua es sencillo una vez que se llega a la isla en avión 
 desde Santiago de Chile. Todo el territorio forma parte del Parque Nacional por cuya 
@@ -223,7 +223,7 @@ siglo I y levantado en menos de diez años y su valor viene tanto de su avanzada
 arquitectura como por su uso, que tiene mucho que contar sobre la manera en la que 
 entendían el ocio los romanos. 
 
-![Coliseo de Roma.](etheria-images/2023/09/yacimiento-coliseo-roma.jpg "Coliseo de Roma.")
+![Coliseo de Roma.](https://fotos.etheriamagazine.com/2023/09/yacimiento-coliseo-roma.jpg "Coliseo de Roma.")
 
 Para visitarlo es muy recomendable [comprar con antelación las entradas en la 
 web](https://colosseo.it/es/horarios-y-entradas/) para no esperar demasiado. Se puede 
@@ -247,7 +247,7 @@ acercarte a muchos de ellos, algunos de los más conocidos son el **templo de An
 (con sus enormes estatuas de Buda); el de **Shwezigon** (que alberga la famosa pagoda 
 dorada); o el de **Sulamani**, conocido por sus frescos. 
 
-![Templos de Bagan al atardecer.](etheria-images/2023/09/yacimiento-templos-bagan.jpg "Templos de Bagan al atardecer.")
+![Templos de Bagan al atardecer.](https://fotos.etheriamagazine.com/2023/09/yacimiento-templos-bagan.jpg "Templos de Bagan al atardecer.")
 
 Hay una entrada general para visitar la zona y se necesitan al menos dos o tres días 
 para poder entrar a varios templos. Es muy recomendable llevar una excursión organizada 
@@ -270,7 +270,7 @@ la que mejor se conserva. Como otras grandes obras de la Antigüedad, fue expoli
 siglo XIX, en este caso por el embajador británico de Constantinopla, y parte de sus 
 frisos y frontones se exponen hoy en día en el Museo Británico de Londres. 
 
-![columnas del partenón en la acrópolis de Atenas](etheria-images/2023/09/yacimientos-partenon-acropolis-atenas.jpg "Partenón de Atenas, dedicado a la diosa Atenea.")
+![columnas del partenón en la acrópolis de Atenas](https://fotos.etheriamagazine.com/2023/09/yacimientos-partenon-acropolis-atenas.jpg "Partenón de Atenas, dedicado a la diosa Atenea.")
 
 Para visitar el Partenón tendrás que acceder al recinto de la Acrópolis (y de paso ver 
 otros espacios de interés como el teatro de Dionisio) y subir por los senderos y 

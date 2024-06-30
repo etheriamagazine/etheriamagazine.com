@@ -1,7 +1,7 @@
 ---
 title: "Aitona en flor, un anuncio 'rosa' a las afueras de Lleida"
 date: 2022-02-24
-coverImage: etheria-images/2019/03/Fruiturismo-lleida.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg
 categories: 
   - viajes-ecoturismo
   - planes-cultura-ocio
@@ -17,7 +17,7 @@ la floración simultánea de sus frutales. Vamos a contagiarnos del placer japon
 observar la belleza de las flores o _hanami_ mientras las ramas de los árboles se tiñen 
 de rosa. 
 
-![melocotoneros aitona en flor](etheria-images/2019/03/Fruiturismo-lleida.jpg "Melocotoneros en flor del Bajo Segre.")
+![melocotoneros aitona en flor](https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg "Melocotoneros en flor del Bajo Segre.")
 
 ```
 Actualizado 15 febrero de 2023
@@ -40,7 +40,7 @@ bien apoyándote en **itinerarios guiados** a pie o desde el aire, asomándote s
 paisaje desde un globo. El florecimiento está en marcha, así que prepara tu mejor posado 
 de selfi para perderte entre campos de melocotoneros el flor. 
 
-![viaje en globo para ver la floración de los melocotoneros](etheria-images/2019/03/Fruiturismo-lleida-en-globo.jpg "Sobrevuela el Bajo Segre en globo.")
+![viaje en globo para ver la floración de los melocotoneros](https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida-en-globo.jpg "Sobrevuela el Bajo Segre en globo.")
 
 Nada más llegar a Aitona, en la fértil **comarca del Segriá**, disponte a una inmersión 
 en rosa porque el esplendor de los campos en flor a los márgenes de la carretera hasta 
@@ -50,7 +50,7 @@ que el ayuntamiento organiza cada año. Te sorprenderá la cantidad de gente que
 atraída por la humildad de las flores agrícolas. Aún no están las fechas fijadas para 
 2020. 
 
-![melocotoneros en flor en lleida](etheria-images/2019/03/Fruiturismo-lleida-globo.jpg "Vista de los melocotoneros desde el aire.")
+![melocotoneros en flor en lleida](https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida-globo.jpg "Vista de los melocotoneros desde el aire.")
 
 ### Ruta de los Melocotoneros y del Árbol Frutal
 
@@ -75,7 +75,7 @@ que quedan magníficas huellas en su iglesia de San Antolí, la bonita fachada d
 ermita de San Gaietà –sede de exposiciones temporales– o el enriscado barrio de la 
 Morería donde asoma la llamativa fachada de la Casa del Rey Moro. 
 
-![rutas por bajo segre por aitona](etheria-images/2019/03/Fruiturismo-lleida-ruta-serrabrisa.jpg "Realiza alguna ruta de Fruiturismo.")
+![rutas por bajo segre por aitona](https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida-ruta-serrabrisa.jpg "Realiza alguna ruta de Fruiturismo.")
 
 ### Otras rutas para hacer todo el año
 
@@ -104,7 +104,7 @@ poblado, organizado alrededor de una plaza central, se descubrió que **hace 2.8
 ya se fabricaba cerveza**, situándose entre los lugares más antiguos de Europa en 
 producir esta bebida. 
 
-![visitas guiadas en aitona](etheria-images/2019/03/aitona-melocotoneros-lleida.jpg "Reserva una visita guiada en Aitona.")
+![visitas guiadas en aitona](https://fotos.etheriamagazine.com/2019/03/aitona-melocotoneros-lleida.jpg "Reserva una visita guiada en Aitona.")
 
 ## Cuándo ver los melocotoneros en flor
 
@@ -151,7 +151,7 @@ voltes,_ son una buena razón para recorrer los paisajes agrícolas. Las admirar
 otra mirada si antes visitas el **Centro de Interpretación de la Construcción de Piedra 
 Seca** de Torrebesses. 
 
-![El color rosa invade los campos del Bajo Segre.](etheria-images/2019/03/Fruiturismo-lleida-flores.jpg "El color rosa invade los campos del Bajo Segre.")
+![El color rosa invade los campos del Bajo Segre.](https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida-flores.jpg "El color rosa invade los campos del Bajo Segre.")
 
 ## Guía práctica de Aitona
 

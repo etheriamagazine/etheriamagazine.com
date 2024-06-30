@@ -1,7 +1,7 @@
 ---
 title: "Ver osos pardos en Asturias, una experiencia inolvidable"
 date: 2022-06-07
-coverImage: etheria-images/2022/06/Oso-pardo-asturias.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/Oso-pardo-asturias.jpg
 categories: 
   - viajes-ecoturismo
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Al Principado se puede viajar por innumerables razones: sus paisajes, su gastronomía, sus ciudades históricas, sus playas salvajes... Pero hay una que es menos común, viajar para observar los osos pardos en Asturias. Si te atraen las rutas por parques naturales, eres amante de la fauna y no te dan pereza las caminatas, este artículo es para ti.
 
-![Ver osos pardos en Asturias entre la maleza no es una actividad fácil.](etheria-images/2022/06/Oso-pardo-asturias.jpg "Es necesario llevar prismáticos para ver los osos pardos en Asturias. © Victor Garcia")
+![Ver osos pardos en Asturias entre la maleza no es una actividad fácil.](https://fotos.etheriamagazine.com/2022/06/Oso-pardo-asturias.jpg "Es necesario llevar prismáticos para ver los osos pardos en Asturias. © Victor Garcia")
 
 No está de más empezar este artículo con un cuento que, a decir verdad, no es un cuento: 
 “Érase una vez un parque de Oviedo donde vivían ‘felices’ –¡dentro de una jaula 
@@ -34,7 +34,7 @@ salvajes.
 Todo ha cambiado… o, por lo menos, en lo relativo al respeto por los osos pardos en 
 Asturias. 
 
-![Cuatro imágenes de cazadores de osos, camiseta de oso, señalización y safari fotográfico](etheria-images/2022/06/ruta-osos-pardos-asturias.jpg "El cuento ha cambiado mucho del pasado (lugareños posan con un oso que han cazado) al presente (protección del animal). © Pedro Grifol")
+![Cuatro imágenes de cazadores de osos, camiseta de oso, señalización y safari fotográfico](https://fotos.etheriamagazine.com/2022/06/ruta-osos-pardos-asturias.jpg "El cuento ha cambiado mucho del pasado (lugareños posan con un oso que han cazado) al presente (protección del animal). © Pedro Grifol")
 
 ## El oso pardo en Asturias, un animal icónico
 
@@ -45,7 +45,7 @@ se tenían localizadas seis osas con sus crías. En la actualidad, la población
 pardos se estima en unos 300 ejemplares que campan a sus anchas por el paraíso natural 
 asturiano. 
 
-![Grupo de turistas con prismáticos para ver osos pardos en Asturias](etheria-images/2022/06/asturias-La-Penona-Parque-Narcea.jpg "Punto de observación La Penona, en el P. N. Narcea de Gaña. © Pedro Grifol")
+![Grupo de turistas con prismáticos para ver osos pardos en Asturias](https://fotos.etheriamagazine.com/2022/06/asturias-La-Penona-Parque-Narcea.jpg "Punto de observación La Penona, en el P. N. Narcea de Gaña. © Pedro Grifol")
 
 No cabe duda de que, por lo menos al respecto, tenemos que reconocer la labor de la 
 **Fundación Oso Pardo** o FOP (fundacionosopardo.org), que este año cumple 30 años, y 
@@ -63,7 +63,7 @@ estas especies, y todos los agentes que forman el ecosistema ibérico, deben pro
 Nuestra visión compartida es la de una Iberia más salvaje, donde los humanos coexistan 
 con poblaciones de vida silvestre”._ 
 
-![Montañas del Parque Nacional de Somiedo, uno de los entornos de los osos pardos en Asturias](etheria-images/2022/06/osos-Parque-Nacional-de-Somiedo.jpg "Parque Nacional de Somiedo. © Pedro Grifol")
+![Montañas del Parque Nacional de Somiedo, uno de los entornos de los osos pardos en Asturias](https://fotos.etheriamagazine.com/2022/06/osos-Parque-Nacional-de-Somiedo.jpg "Parque Nacional de Somiedo. © Pedro Grifol")
 
 ## Avistamiento de osos pardos en Asturias
 
@@ -84,7 +84,7 @@ invasión turística puede acarrear graves consecuencias, por lo que es recomend
 **confiar en los guías especializados** que conocen bien las épocas, las horas, los 
 momentos y las zonas donde los osos pueden verse. 
 
-![Punto de observación de osos en La Peral.](etheria-images/2022/06/asturias-osos-pardos-la-Peral.jpg "Punto de observación de oso pardos La Peral. © Pedro Grifol")
+![Punto de observación de osos en La Peral.](https://fotos.etheriamagazine.com/2022/06/asturias-osos-pardos-la-Peral.jpg "Punto de observación de oso pardos La Peral. © Pedro Grifol")
 
 ### La primavera, la mejor estación para ver osos
 
@@ -100,7 +100,7 @@ carnosos... lo que les obliga a dedicar mucho tiempo a la alimentación; sobre t
 calveros, piornales, pastizales y en los estrechos y empinados canales de los roquedos 
 calizos. Su alimento favorito son **las cerezas y los arándanos**”._ 
 
-![Osa con tres crías en un parque de Asturias](etheria-images/2022/06/asturias-Osa-con-crias.jpg "Osa con tres crías en Asturias. © Victor García")
+![Osa con tres crías en un parque de Asturias](https://fotos.etheriamagazine.com/2022/06/asturias-Osa-con-crias.jpg "Osa con tres crías en Asturias. © Victor García")
 
 ### Animales promiscuos por naturaleza
 
@@ -120,7 +120,7 @@ cada dos años. Ese es uno de los problemas que ha contribuido al peligro de ext
 En los meses de primavera, los osos cortejan a las hembras con paciencia y no siempre 
 son bien recibidos._ 
 
-![Víctor García Trabau, guía de rutas de osos pardos en Asturias](etheria-images/2022/06/Victor-Garcia-Trabau-guia-osos.jpg "Víctor García Trabau, guía y tixileiro. © Pedro Grifol")
+![Víctor García Trabau, guía de rutas de osos pardos en Asturias](https://fotos.etheriamagazine.com/2022/06/Victor-Garcia-Trabau-guia-osos.jpg "Víctor García Trabau, guía y tixileiro. © Pedro Grifol")
 
 _“En la estación de celo los machos realizan largos desplazamientos para buscar hembras. 
 Las osas también son promiscuas y copulan con el mayor número posible de machos, al 
@@ -133,7 +133,7 @@ libremente en el útero y no se implanta hasta el otoño. Solo entonces comienza
 verdadera gestación, que dura unos dos meses. En plena hibernación y en la seguridad de 
 la osera, **la hembra pare de una a tres crías, con frecuencia de distintos padres**”._ 
 
-![Paisaje desde el punto de observación La Peral.](etheria-images/2022/06/asturias-Punto-de-observacion-La-Peral.jpg "Paisaje desde el punto de observación La Peral. © Pedro Grifol")
+![Paisaje desde el punto de observación La Peral.](https://fotos.etheriamagazine.com/2022/06/asturias-Punto-de-observacion-La-Peral.jpg "Paisaje desde el punto de observación La Peral. © Pedro Grifol")
 
 ### En busca de osos pardos en Asturias
 
@@ -149,7 +149,7 @@ es la única manera de ver (un poco más grande) los osos en la lejanía que cam
 claros de los frondosos bosques y por las rocosas laderas. La perspicacia con la que 
 suelen descubrirlos entre la maleza o sobre una roca es asombrosa. 
 
-![Lagos de Saliencia y su entorno](etheria-images/2022/06/Lagos-de-Saliencia-asturias.jpg "Lagos de Saliencia y su entorno. © Pedro Grifol")
+![Lagos de Saliencia y su entorno](https://fotos.etheriamagazine.com/2022/06/Lagos-de-Saliencia-asturias.jpg "Lagos de Saliencia y su entorno. © Pedro Grifol")
 
 Durante el recorrido vemos **huellas y marcas de garras** en algunos árboles y unas 
 peculiares estructuras pétreas en forma de herradura, llamadas **cortines**, construidas 
@@ -158,7 +158,7 @@ es que **la miel es otro de sus alimentos favoritos**. También, y en zonas más
 perviven aldeas con casas de _teito_, es decir: con techo hecho con escobas de ramas. 
 Algunas tienen 300 años. 
 
-![Braña Arbellales, con las típicas casas de teito](etheria-images/2022/06/Brana-Arbellales-Casas-de-teito.jpg "Braña Arbellales, con las típicas casas de teito. © Pedro Grifol")
+![Braña Arbellales, con las típicas casas de teito](https://fotos.etheriamagazine.com/2022/06/Brana-Arbellales-Casas-de-teito.jpg "Braña Arbellales, con las típicas casas de teito. © Pedro Grifol")
 
 Se puede tardar bastante tiempo en divisar osos (o no), quizá horas… o quizá no los 
 veamos, todo hay que advertirlo. De cualquier manera, en la paciente espera, 
@@ -166,7 +166,7 @@ reflexionamos sobre todo lo que hemos aprendido y procedemos a tomar el bocadill
 tentempié. Después, le daremos tiempo al tiempo para que nuestros deseos se cumplan. Si 
 aparece el oso, el recuerdo será para toda la vida. 
 
-![Señales de garras en un árbol y cortín (colmena).](etheria-images/2022/06/garras-oso-cortin-asturias.jpg "Señales de garras en un árbol y cortín (colmena protegida de los osos). © Pedro Grifol")
+![Señales de garras en un árbol y cortín (colmena).](https://fotos.etheriamagazine.com/2022/06/garras-oso-cortin-asturias.jpg "Señales de garras en un árbol y cortín (colmena protegida de los osos). © Pedro Grifol")
 
 #### Preguntas frecuentes sobre los osos pardos en Asturias
 

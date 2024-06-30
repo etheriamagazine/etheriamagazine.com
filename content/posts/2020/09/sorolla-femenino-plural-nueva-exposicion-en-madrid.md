@@ -1,7 +1,7 @@
 ---
 title: "Flash Cultura: 'Sorolla. Femenino plural', nueva exposición en Madrid"
 date: 2020-09-25
-coverImage: etheria-images/2020/09/Bordadora-valenciana-sorolla.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/09/Bordadora-valenciana-sorolla.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
@@ -14,7 +14,7 @@ authors:
 selección de 36 obras del artista valenciano Joaquín Sorolla donde las mujeres son las 
 protagonistas y representan diferentes roles de la época. 
 
-![retrato de Raquel meller en museo sorolla](etheria-images/2020/09/Retrato-de-Raquel-Meller-Sorolla.jpg "Retrato de Raquel Meller, 1918. © Museo Sorolla")
+![retrato de Raquel meller en museo sorolla](https://fotos.etheriamagazine.com/2020/09/Retrato-de-Raquel-Meller-Sorolla.jpg "Retrato de Raquel Meller, 1918. © Museo Sorolla")
 
 La **exposición ‘Sorolla. Femenino plural’**, que se podrá visitar hasta el **10 de 
 enero de 2021**, permite conocer los lienzos donde hay una mayor presencia femenina en 
@@ -27,7 +27,7 @@ apenas podían llegar a la Universidad, una enseñanza que les estuvo vetada has
 El derecho al voto fue otro privilegio que se conquistó incluso más tarde, ya que no se 
 alcanzó hasta 1931. Ese hito no lo llegó a conocer el artista, que falleció en 1923. 
 
-![Bordadora valenciana nueva exposicion sorolla](etheria-images/2020/09/Bordadora-valenciana-sorolla.jpg "Bordadora valenciana, 1901. © Colección particular")
+![Bordadora valenciana nueva exposicion sorolla](https://fotos.etheriamagazine.com/2020/09/Bordadora-valenciana-sorolla.jpg "Bordadora valenciana, 1901. © Colección particular")
 
 Joaquín Sorolla era un hombre de ideas liberales y con una estrecha relación con la 
 Institución Libre de Enseñanza, la gran promotora de la instrucción femenina y defensora 
@@ -39,7 +39,7 @@ No eran tratadas como simples estereotipos sino que las retrata como seres indiv
 con rostro. La siguiente selección de imágenes nos ayuda a conocer los distintos temas 
 en los que se pueden clasificar las obras que tienen a mujeres como protagonistas. 
 
-![Mesalina en brazos de un gladiador de Joaquin sorolla](etheria-images/2020/09/Mesalina-en-brazos-de-un-gladiador-sorolla.jpg "Mesalina en brazos de un gladiador, 1886. © BBVA")
+![Mesalina en brazos de un gladiador de Joaquin sorolla](https://fotos.etheriamagazine.com/2020/09/Mesalina-en-brazos-de-un-gladiador-sorolla.jpg "Mesalina en brazos de un gladiador, 1886. © BBVA")
 
 ## Historia y mitología
 
@@ -47,7 +47,7 @@ El empleo de temas mitológicos o de la Antigüedad era una excusa recurrente qu
 empleaban los artistas para pintar desnudos. En el lienzo 'Mesalina en brazos de un 
 gladiador', de 1886, el pintor muestra la sensualidad de los modelos desnudos. 
 
-![campesina italiana de Joaquin sorolla](etheria-images/2020/09/Campesina-italiana-sorolla.jpg "Campesina italiana, 1890. Madrid. © Universidad Complutense de Madrid")
+![campesina italiana de Joaquin sorolla](https://fotos.etheriamagazine.com/2020/09/Campesina-italiana-sorolla.jpg "Campesina italiana, 1890. Madrid. © Universidad Complutense de Madrid")
 
 ## Mujeres del pueblo
 
@@ -55,7 +55,7 @@ Las campesinas aparecieron en la obra de Sorolla en la época en la que el artis
 retirado en la ciudad italiana de Asís. En aquel momento trataba de encontrar un estilo 
 propio y encontró inspiración en las aldeanas. 
 
-![pescadoras de valencia pintadas por sorolla](etheria-images/2020/09/Pescadoras-valencianas-sorolla.jpg "Pescadoras valencianas, 1903. © Diputación de Valencia")
+![pescadoras de valencia pintadas por sorolla](https://fotos.etheriamagazine.com/2020/09/Pescadoras-valencianas-sorolla.jpg "Pescadoras valencianas, 1903. © Diputación de Valencia")
 
 ## Mujeres pescadoras y madres
 
@@ -65,7 +65,7 @@ en la arena. En las posturas que adoptan se percibe la tensión y la dureza de s
 No son las únicas féminas en su obra que se muestran ajenas a la escena, simplemente 
 afanadas en sus tareas cotidianas. 
 
-![maria de Los Angeles de beruete y moret pintado por sorolla](etheria-images/2020/09/Maria-de-los-Angeles-de-Beruete-y-Moret-sorolla.jpg "María de los Ángeles de Beruete y Moret, 1904. © Museo Nacional del Prado")
+![maria de Los Angeles de beruete y moret pintado por sorolla](https://fotos.etheriamagazine.com/2020/09/Maria-de-los-Angeles-de-Beruete-y-Moret-sorolla.jpg "María de los Ángeles de Beruete y Moret, 1904. © Museo Nacional del Prado")
 
 ## Mujeres elegantes
 
@@ -74,7 +74,7 @@ hubiesen obtenido la fortuna por familia o se dedicasen a artes escénicas. Entr
 clientela del artista se encontraban damas acomodadas, burguesas y aristócratas, pero, 
 también, algunas artistas como Doña María Guerrero. 
 
-![dona maria de guerrero nueva exposicion de sorolla](etheria-images/2020/09/maria-guerrero-actriz-sorolla.jpg "La actriz Doña María Guerrero como la Dama Boba, 1906. Madrid. © Museo del Prado")
+![dona maria de guerrero nueva exposicion de sorolla](https://fotos.etheriamagazine.com/2020/09/maria-guerrero-actriz-sorolla.jpg "La actriz Doña María Guerrero como la Dama Boba, 1906. Madrid. © Museo del Prado")
 
 Si aún no has visitado el Museo Sorolla, aprovecha esta exposición como excusa para 
 recorrer este palacete con jardín que fue la vivienda familiar del artista y, también, 

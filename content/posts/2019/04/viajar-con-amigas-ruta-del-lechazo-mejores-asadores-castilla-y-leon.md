@@ -1,7 +1,7 @@
 ---
 title: "Ruta del lechazo: los mejores asadores de Castilla y León"
 date: 2019-04-25
-coverImage: etheria-images/2019/04/Ruta-lechazo-asado.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-asado.jpg
 categories: 
   - mejores-restaurantes-gastronomia
   - planes-cultura-ocio
@@ -14,7 +14,7 @@ los pastos en flor y las ovejas comiendo como auténticas 'foodies', los cordero
 lechales nos ofrecerán su mejor sabor. Así que ya tenemos una excusa para coger el coche 
 y visitar alguno de estos templos del lechazo. 
 
-![El lechazo de Castilla y León posee IGP (Indicación Geográfica Protegida).](etheria-images/2019/04/Ruta-lechazo-asado.jpg "El lechazo de Castilla y León posee IGP (Indicación Geográfica Protegida).")
+![El lechazo de Castilla y León posee IGP (Indicación Geográfica Protegida).](https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-asado.jpg "El lechazo de Castilla y León posee IGP (Indicación Geográfica Protegida).")
 
 ```
 Actualizado septiembre 2023
@@ -38,7 +38,7 @@ y corretear por los cercados. De esta forma consumen única y exclusivamente lec
 materna, dándose a veces el caso de tener dos madres, los denominados “dos madres o 
 pilones”. 
 
-![Ovejas castellanoleonesas.](etheria-images/2019/04/Ruta-lechazo-ovejas.jpg "Ovejas castellanoleonesas.")
+![Ovejas castellanoleonesas.](https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-ovejas.jpg "Ovejas castellanoleonesas.")
 
 Solo las ovejas churras, castellanas y ojaladas (y los cruces entre ellas) están 
 adscritas a la denominación y únicamente los **corderos de hasta 35 días** y entre 9 y 
@@ -60,7 +60,7 @@ churruscada. Sea como fuere, siempre lo cocinan manteniendo esa telilla blanca (
 con la que vienen los cuartos, un auténtico “encaje” que es lo que le ayuda a estar tan 
 jugoso y pleno en sabor. 
 
-![Ovejas pastando en la Ruta del lechazo en Castilla y Leon.](etheria-images/2019/04/cordero-ruta-lechazo.jpg "Ovejas pastando.")
+![Ovejas pastando en la Ruta del lechazo en Castilla y Leon.](https://fotos.etheriamagazine.com/2019/04/cordero-ruta-lechazo.jpg "Ovejas pastando.")
 
 Espero que os guste mi selección de los mejores asadores de Castilla y León. Como todo 
 en esta vida, es tan subjetiva como la propia que escribe. Si me permitís un consejo, 
@@ -91,7 +91,7 @@ hay excusa.
 [El Figón de Recoletos](https://figonderecoletos.es/). Acera de Recoletos, 3. 
 Valladolid. Tel. 983 396 043. 
 
-![Un lechazo irresistible el de Asados Alonso (Valladolid).](etheria-images/2019/04/lechazo-asados-alonso-.jpg "Un lechazo irresistible el de Asados Alonso (Valladolid). Actualmente está cerrado.")
+![Un lechazo irresistible el de Asados Alonso (Valladolid).](https://fotos.etheriamagazine.com/2019/04/lechazo-asados-alonso-.jpg "Un lechazo irresistible el de Asados Alonso (Valladolid). Actualmente está cerrado.")
 
 #### 2\. Mannix (Campaspero)
 
@@ -134,7 +134,7 @@ adobe) y en la calidad de su materia prima: lechales de la oveja churra de la zo
 [Figón de Tinín](http://www.figondetinin.com). Sepúlveda. Lope Tablada, 6. Tel. 921 540 
 165. 
 
-![Alberto Sánchez, de Asador La Encina, preparando el lechazo (Palencia).](etheria-images/2019/04/ruta-lechazo-asador-Encina.jpg "Alberto Sánchez, de © Asador La Encina, preparando el lechazo (Palencia).")
+![Alberto Sánchez, de Asador La Encina, preparando el lechazo (Palencia).](https://fotos.etheriamagazine.com/2019/04/ruta-lechazo-asador-Encina.jpg "Alberto Sánchez, de © Asador La Encina, preparando el lechazo (Palencia).")
 
 ### ✅ El mejor asador de Palencia
 
@@ -171,7 +171,7 @@ cítricos, calabaza y fruta.
 [El Ermitaño](http://www.elermitano.com). Benavente. Zamora. A-6, salida 259. Tel. 980 
 632 213. 
 
-![Alcachofas con gambas y mollejas de lechazo del Asador El Ermitaño (Zamora).](etheria-images/2019/04/Ruta-lechazo-el-ermitano.jpg "Alcachofas con gambas y mollejas de lechazo del © Asador El Ermitaño (Zamora).")
+![Alcachofas con gambas y mollejas de lechazo del Asador El Ermitaño (Zamora).](https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-el-ermitano.jpg "Alcachofas con gambas y mollejas de lechazo del © Asador El Ermitaño (Zamora).")
 
 ### ✅ Los mejores asadores de Burgos
 
@@ -203,7 +203,7 @@ de Burgos y la calidad de sus asados (aquí sí usan ese punto de manteca) es in
 [Casa Antón](https://www.facebook.com/AsadorCasaAntonLerma/). Lerma. Calle del Doctor 
 Luis Cervera, 5. Tel. 947 170 362. 
 
-![Lechazo asado de Casa Azofra (Burgos).](etheria-images/2019/04/Lechazo-Azofra.jpg "Lechazo asado de © Casa Azofra (Burgos).")
+![Lechazo asado de Casa Azofra (Burgos).](https://fotos.etheriamagazine.com/2019/04/Lechazo-Azofra.jpg "Lechazo asado de © Casa Azofra (Burgos).")
 
 #### 9\. Casa Azofra (Burgos)
 

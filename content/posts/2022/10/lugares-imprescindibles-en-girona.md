@@ -1,7 +1,7 @@
 ---
 title: "15 lugares imprescindibles que tienes que ver en Girona"
 date: 2022-10-17
-coverImage: etheria-images/2022/10/Calella-de-Palafrugrell.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/10/Calella-de-Palafrugrell.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -13,7 +13,7 @@ al que escaparse en cualquier época de año. Si aún no sabéis cómo organizar
 viaje con amigas, aquí os dejamos 15 lugares imprescindibles en Girona que os 
 encantarán. 
 
-![pinos junto al mar en la Costa Brava de Girona](etheria-images/2022/10/Paisaje-Costa-Brava.jpg "Paisaje característico de la Costa Brava. © Yolanda Cardo.")
+![pinos junto al mar en la Costa Brava de Girona](https://fotos.etheriamagazine.com/2022/10/Paisaje-Costa-Brava.jpg "Paisaje característico de la Costa Brava. © Yolanda Cardo.")
 
 El concepto “mar y montaña” encaja a la perfección en este hermoso territorio. Sean 
 cuales sean vuestras preferencias, solo tenéis que adaptar vuestros gustos a cualquiera 
@@ -50,7 +50,7 @@ vivió esta comunidad durante siglos hasta su expulsión en 1492. El **Museo de 
 de los Judíos**, ubicado en el centro Bonastruc ça Porta, nos permite conocer en 
 profundidad su historia. 
 
-![casa de colores en Girona capital](etheria-images/2022/10/Girona.jpg "Girona. © Arxiu Imatges PTCBG")
+![casa de colores en Girona capital](https://fotos.etheriamagazine.com/2022/10/Girona.jpg "Girona. © Arxiu Imatges PTCBG")
 
 Muy cerca de aquí encontramos uno de los rincones más fotogénicos de la ciudad, el 
 espacio enmarcado entre la casa-palacio Agullana (siglos XVI-XVII) y las escaleras 
@@ -79,7 +79,7 @@ Cadafalch, os sorprenderán.
 ?**No te pierdas:** [Qué hacer en Lloret de Mar en un día, 7 planes sin 
 estresarte](https://etheriamagazine.com/2022/06/20/lloret-de-mar-en-un-dia/). 
 
-![jardines de Santa Clotilde](etheria-images/2022/10/jardines-de-Santa-Clotilde-Lloret-de-Mar.jpg "Los jardines de Santa Clotilde, en Lloret de Mar, tienen unas vistas maravillosas a la Costa Brava. © Turismo Costa Pirineo de Girona.")
+![jardines de Santa Clotilde](https://fotos.etheriamagazine.com/2022/10/jardines-de-Santa-Clotilde-Lloret-de-Mar.jpg "Los jardines de Santa Clotilde, en Lloret de Mar, tienen unas vistas maravillosas a la Costa Brava. © Turismo Costa Pirineo de Girona.")
 
 #### Tossa de Mar
 
@@ -95,7 +95,7 @@ por sus antiguas murallas y recorrer el antiguo barrio de pescadores de Sa Roque
 ?**No te pierdas:** [Tossa de Mar, secretos de cine en la Costa 
 Brava](https://etheriamagazine.com/2020/06/24/viajes-por-espana-que-ver-hacer-tossa-de-mar-costa-brava/). 
 
-![acantilado en la Costa Brava](etheria-images/2022/10/Camino-de-ronda-entre-Lloret-de-Mar-y-Tossa-de-Mar.jpg "Camino de ronda entre Lloret de Mar y Tossa de Mar. © Costa Brava Pirineo de Girona.")
+![acantilado en la Costa Brava](https://fotos.etheriamagazine.com/2022/10/Camino-de-ronda-entre-Lloret-de-Mar-y-Tossa-de-Mar.jpg "Camino de ronda entre Lloret de Mar y Tossa de Mar. © Costa Brava Pirineo de Girona.")
 
 #### Sant Feliu de Guíxols
 
@@ -107,7 +107,7 @@ iglesia de la Mare de Déu dels Àngels, el arco barroco de Sant Benet y la Port
 su elemento más antiguo datado en el siglo X. Actualmente el complejo alberga el Museo 
 de Historia de la Ciudad y el Espacio Carmen Thyssen. 
 
-![via ferrata en San feliu de Gixols](etheria-images/2022/10/Vía-Ferrata-de-Sant-Feliu-de-Guixols.jpg "Vía Ferrata de Sant Feliu de Guixols, la única en toda Europa que transita por el agua. © Yolanda Cardo.")
+![via ferrata en San feliu de Gixols](https://fotos.etheriamagazine.com/2022/10/Vía-Ferrata-de-Sant-Feliu-de-Guixols.jpg "Vía Ferrata de Sant Feliu de Guixols, la única en toda Europa que transita por el agua. © Yolanda Cardo.")
 
 En sus animadas calles encontramos verdaderas joyas modernistas como el casino de La 
 Constanza, un bello edificio de inspiración árabe construido en 1889. El camino de 
@@ -131,7 +131,7 @@ del pescado fresco.
 ?**No te pierdas:** [Ruta de la gamba roja, lugares donde chuparse los dedos está bien 
 visto](https://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/). 
 
-![barcos en Palamós](etheria-images/2022/10/puerto-de-Palamos.jpg "Imagen del puerto de Palamós. © Yolanda Cardo.")
+![barcos en Palamós](https://fotos.etheriamagazine.com/2022/10/puerto-de-Palamos.jpg "Imagen del puerto de Palamós. © Yolanda Cardo.")
 
 #### Calella de Palafrugell
 
@@ -143,7 +143,7 @@ en comercios y encantadores restaurantes. Al sur de la localidad se ubican los J
 de Cap Roig, un extraordinario paraje donde cada verano se celebra el prestigioso 
 **Festival de Música de Cap Roig**. 
 
-![Velero frente a Calella de Palafrugrell](etheria-images/2022/10/Calella-de-Palafrugrell.jpg "Calella de Palafrugrell. © Anna Pla-Narbona. Arxiu Imatges PTCBG.")
+![Velero frente a Calella de Palafrugrell](https://fotos.etheriamagazine.com/2022/10/Calella-de-Palafrugrell.jpg "Calella de Palafrugrell. © Anna Pla-Narbona. Arxiu Imatges PTCBG.")
 
 #### L’Escala y el yacimiento arqueológico de Ampurias
 
@@ -156,7 +156,7 @@ de la Sal, un antiguo depósito de sal reconvertido en museo y archivo históric
 ciudad; y Can Cinto Xuà, una antigua vivienda de pescadores del XVIII que se conserva 
 prácticamente intacta. 
 
-![Anchoas frescas de L'Escala](etheria-images/2022/10/LEscala-anchoa.jpg "L'Escala es famosa por su rica anchoa. © Yolanda Cardo.")
+![Anchoas frescas de L'Escala](https://fotos.etheriamagazine.com/2022/10/LEscala-anchoa.jpg "L'Escala es famosa por su rica anchoa. © Yolanda Cardo.")
 
 A pocos kilómetros se ubica el yacimiento arqueológico de Ampurias, el único de toda la 
 península ibérica donde existen restos de una ciudad griega, Emporion, y una romana, 
@@ -174,7 +174,7 @@ Figueras y Púbol, del llamado “triángulo daliniano”. El espectacular entor
 estado puro. Numerosas rutas atraviesan este excepcional espacio en el que el mar y la 
 tramontana han cincelado un paisaje caprichoso y único. 
 
-![casas blancas de Cadaqués](etheria-images/2022/10/Cadaques.jpg "Cadaqués.")
+![casas blancas de Cadaqués](https://fotos.etheriamagazine.com/2022/10/Cadaques.jpg "Cadaqués.")
 
 #### Llançà y el monasterio benedictino de Sant Pere de Rodes
 
@@ -188,7 +188,7 @@ de ronda con sus fabulosas vistas y visitar el cercano monasterio benedictino de
 Pere de Rodes, uno de los máximos exponentes de la arquitectura románica catalana 
 ubicado en un enclave excepcional. 
 
-![Cala en Llança](etheria-images/2022/10/Llança.jpg "Llança tiene pequeñas playas perfectas para desconectar. © Yolanda Cardo.")
+![Cala en Llança](https://fotos.etheriamagazine.com/2022/10/Llança.jpg "Llança tiene pequeñas playas perfectas para desconectar. © Yolanda Cardo.")
 
 ### Destinos del interior de Girona
 
@@ -202,7 +202,7 @@ se extiende junto a la Rambla, resulta perfecto para pasear. Muy recomendable ta
 visitar el cercano **Castillo de San Ferrant**, un complejo fortificado del siglo XVIII, 
 considerado la fortaleza moderna más grande de Europa. 
 
-![Cúpula del Museo Dalí](etheria-images/2022/10/Teatre-Museu-Dali.jpg "Teatre Museu Dalí. © Imma Parada. Fundació Gala Salvador Dalí. Arxiu Imatges PTCBG.")
+![Cúpula del Museo Dalí](https://fotos.etheriamagazine.com/2022/10/Teatre-Museu-Dali.jpg "Teatre Museu Dalí. © Imma Parada. Fundació Gala Salvador Dalí. Arxiu Imatges PTCBG.")
 
 Cambiamos de registro porque nos vamos de ruta al cercano **Parque Natural dels 
 Aiguamolls de l’Empordà**, la segunda zona húmeda más importante de Cataluña. Un hábitat 
@@ -220,7 +220,7 @@ erigidas entre los siglos XII y XIII. Muy cerca de allí encontraréis las ruina
 antiguo **asentamiento íbero de Ullastret**, el más grande descubierto hasta la fecha en 
 Cataluña. 
 
-![casco histórico de Peratallada.](etheria-images/2022/10/Peratallada.jpg "Peratallada. © JordI Gallego i Caldas. Arxiu Imatges PTCBG")
+![casco histórico de Peratallada.](https://fotos.etheriamagazine.com/2022/10/Peratallada.jpg "Peratallada. © JordI Gallego i Caldas. Arxiu Imatges PTCBG")
 
 #### Besalú
 
@@ -231,7 +231,7 @@ la antigua iglesia del monasterio de Sant Pere, ambas del siglo XII; la casa de
 Cornellà; el _mikve_ o casa de baños de la judería; y la antigua sinagoga son algunos de 
 los elementos más significativos de esta mágica localidad. 
 
-![casco histórico de Besalú](etheria-images/2022/10/Besalu.jpg "Besalú atesora un excepcional legado judío. © J. Renart. Archivo Imágenes PTCBG.")
+![casco histórico de Besalú](https://fotos.etheriamagazine.com/2022/10/Besalu.jpg "Besalú atesora un excepcional legado judío. © J. Renart. Archivo Imágenes PTCBG.")
 
 #### Monells
 
@@ -243,7 +243,7 @@ una experiencia única. La pintoresca calle de los Arcos nos conduce hasta la pl
 Oli, antaño el lugar destinado al mercado durante el medievo y a escasos pasos 
 encontraréis la iglesia de San Genís de origen románico. 
 
-![casas antiguas en Monells](etheria-images/2022/10/Monells.jpg "Monells. © Jordi Renart. Arxiu Imatges PTCBG.")
+![casas antiguas en Monells](https://fotos.etheriamagazine.com/2022/10/Monells.jpg "Monells. © Jordi Renart. Arxiu Imatges PTCBG.")
 
 #### Castellfollit de la Roca y la zona volcánica de la Garrotxa
 
@@ -256,7 +256,7 @@ del que emergen cerca de 40 conos volcánicos estrombolianos. Existen numerosas 
 como la de las tres coladas en Sant Joan les Fonts o la de los volcanes y el hayedo de 
 Jordá. 
 
-![paisaje de La Garrotxa](etheria-images/2022/10/a-Garrotxa.jpg "Imagen del espectacular paisaje de la Garrotxa. © Eduard Sánchez Ribot. Archivo de PTCBG.")
+![paisaje de La Garrotxa](https://fotos.etheriamagazine.com/2022/10/a-Garrotxa.jpg "Imagen del espectacular paisaje de la Garrotxa. © Eduard Sánchez Ribot. Archivo de PTCBG.")
 
 #### Puigcerdá y los Pirineos
 
@@ -269,7 +269,7 @@ comercios y restaurantes, la plaza del ayuntamiento y el museo Cerdá son visita
 obligadas. Pero si hay una estampa reconocible es su famoso y fotogénico “estany”, un 
 lugar idílico para pasear. 
 
-![El lago de Puigcerdà.](etheria-images/2022/10/lago-de-Puigcerda.jpg "El lago de Puigcerdà. © Maria Geli Pilar Planagumà. Archivo PTCBG.")
+![El lago de Puigcerdà.](https://fotos.etheriamagazine.com/2022/10/lago-de-Puigcerda.jpg "El lago de Puigcerdà. © Maria Geli Pilar Planagumà. Archivo PTCBG.")
 
 Su privilegiada ubicación la sitúan a pocos kilómetros de las principales estaciones 
 pirenaicas de esquí como la de La Molina, la Masella o la Vall de Núria, aunque la 

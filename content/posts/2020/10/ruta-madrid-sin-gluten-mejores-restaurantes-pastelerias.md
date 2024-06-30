@@ -1,7 +1,7 @@
 ---
 title: "Ruta por el Madrid más libre (de gluten)"
 date: 2020-10-02
-coverImage: etheria-images/2020/09/madrid-sin-gluten-celicioso.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-celicioso.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-gastronomicos
@@ -13,7 +13,7 @@ authors:
 
 Por suerte para todos, la oferta gastronómica es cada vez más amplia y adaptada a intolerancias y dietas especiales sin renunciar al sabor. En este reportaje te llevamos de la mano por panaderías, restaurantes y heladerías de Madrid con propuestas sin gluten para que los celiacos y sus acompañantes disfruten de agradables veladas sin preocuparse de nada más que de pasar un buen rato.
 
-![Helados de Bico de Xeado en la Plaza Mayor de Madrid](etheria-images/2020/09/helado-plaza-mayor-madrid.jpg "Helado sin gluten en la Plaza Mayor de Bico de Xeado.")
+![Helados de Bico de Xeado en la Plaza Mayor de Madrid](https://fotos.etheriamagazine.com/2020/09/helado-plaza-mayor-madrid.jpg "Helado sin gluten en la Plaza Mayor de Bico de Xeado.")
 
 Aunque los tiempos han cambiado y, por suerte, ya en casi todos los supermercados existe 
 una sección sin gluten, ser celíaco sigue siendo, además de una enfermedad que afecta al 
@@ -30,7 +30,7 @@ mucho desconocimiento al respecto (el gluten está escondido en tantísimos prod
 nuestra alacena…) pero cada vez es mayor la preocupación por estar formados y facilitar 
 la vida a las personas con intolerancias. 
 
-![Tartas, macarons y madalenas de Celicioso](etheria-images/2020/09/madrid-sin-gluten-celicioso.jpg "Delicias de Celicioso.")
+![Tartas, macarons y madalenas de Celicioso](https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-celicioso.jpg "Delicias de Celicioso.")
 
 ### Información para celiacos
 
@@ -58,7 +58,7 @@ saludable, tanto desde el punto de vista orgánico como desde ofertas adaptadas 
 intolerancias, alergias, celiaquías… Y no solo eso, sino que hay opciones de desayunos 
 sin gluten súper apetecibles. A continuación, os dejo mis preferidas: 
 
-![chocolate con churros en Madrid en la Cholatería 1902](etheria-images/2020/09/madrid-sin-gluten-churreria-1902.jpg "Chocolatería 1902.")
+![chocolate con churros en Madrid en la Cholatería 1902](https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-churreria-1902.jpg "Chocolatería 1902.")
 
 ### Chocolatería 1902
 
@@ -79,7 +79,7 @@ gluten y, si así lo necesitas, sin lactosa, vegano o apto para diabéticos.
 
 Calle de San Martín, 2. Tel. 915 225 737. 
 
-![Plato con tartas variadas en Celicioso](etheria-images/2020/09/mardrid-sin-gluten-tartas-celicioso.jpg "Tartas en Celicioso.")
+![Plato con tartas variadas en Celicioso](https://fotos.etheriamagazine.com/2020/09/mardrid-sin-gluten-tartas-celicioso.jpg "Tartas en Celicioso.")
 
 ### Celicioso
 
@@ -92,7 +92,7 @@ deja de crecer, innovar y crear nuevas opciones, no solo para celíacos, tambié
 diabéticos, intolerantes a la lactosa, veganos, amantes de lo orgánico… Todo desde una 
 filosofía de lo artesano y saludable, con una visión atractiva y llena de color. 
 
-![Palmeras y harina sin gluten de Leon The Baker.](etheria-images/2020/09/Madrid-sin-gluten-leon-the-baker.jpg "Palmeras y harina sin gluten de Leon The Baker.")
+![Palmeras y harina sin gluten de Leon The Baker.](https://fotos.etheriamagazine.com/2020/09/Madrid-sin-gluten-leon-the-baker.jpg "Palmeras y harina sin gluten de Leon The Baker.")
 
 ### Leon The Baker
 
@@ -109,7 +109,7 @@ Cuentan con una estupenda oferta tanto en panadería como en bollería, con opci
 harinas, pastas y levaduras para que puedas elaboralos tú en casa. Actualmente tienen 4 
 de sus 6 tiendas madrileñas abiertas y sirven online a toda la Península. 
 
-![Tarta sin gluten en la pastelería La Oriental de Madrid](etheria-images/2020/09/Madrid-sin-gluten-la-oriental.jpg "Dulces sin gluten en la pastelería La Oriental.")
+![Tarta sin gluten en la pastelería La Oriental de Madrid](https://fotos.etheriamagazine.com/2020/09/Madrid-sin-gluten-la-oriental.jpg "Dulces sin gluten en la pastelería La Oriental.")
 
 ### Pastelería La Oriental
 
@@ -131,7 +131,7 @@ adaptable a tus intolerancias y enfermedades. Desde restaurantes tradicionales h
 opciones más informales, seguro que encuentras el espacio que se adapta a ti y a lo que 
 hoy te apetece. 
 
-![Brioche sin gluten con huevo a baja temperatura y aguacate de La Tape.](etheria-images/2020/09/madrid-sin-gluten-la-tape.jpg "Brioche sin gluten con huevo a baja temperatura y aguacate de La Tape.")
+![Brioche sin gluten con huevo a baja temperatura y aguacate de La Tape.](https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-la-tape.jpg "Brioche sin gluten con huevo a baja temperatura y aguacate de La Tape.")
 
 ### La Tape
 
@@ -151,7 +151,7 @@ tienes que registrarte y apuntarte a la que más te apetezca.
 
 San Bernardo 88 esquina Manuela Malasaña. Tel. 915 930 422 
 
-![Entrada y plato de berenjena asada del restaurante Honest Greens de Madrid](etheria-images/2020/09/Madrid-sin-glutenHONEST-GREEENS.jpg "Restaurante Honest Greens con su berenjena asada al carbón con humus.")
+![Entrada y plato de berenjena asada del restaurante Honest Greens de Madrid](https://fotos.etheriamagazine.com/2020/09/Madrid-sin-glutenHONEST-GREEENS.jpg "Restaurante Honest Greens con su berenjena asada al carbón con humus.")
 
 ### Honest Greens
 
@@ -168,7 +168,7 @@ comida “real”, de temporada, de proximidad, fresca, no procesada y sin aditi
 conservantes o azúcares añadidos. Así encontraréis platos sin gluten, vegetarianos, 
 plant-based y paleo, siempre a la última en cuanto a tendencias saludables. 
 
-![Arroz al horno con codorniz ortolans de LaKasa.](etheria-images/2020/09/madrid-sin-gluten-lakasa.jpg "Arroz al horno con codorniz ortolans de LaKasa.")
+![Arroz al horno con codorniz ortolans de LaKasa.](https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-lakasa.jpg "Arroz al horno con codorniz ortolans de LaKasa.")
 
 ### Lakasa
 
@@ -188,7 +188,7 @@ informado ¡y déjate llevar!
 
 Plaza del Descubridor Diego de Ordás, 1. Tel. 915 338 715 y 626 933 081 
 
-![Completa hamburguesa de Hamburguesa Nostra.](etheria-images/2020/09/madrid-sin-gluten-hamburguesa-nostra.jpg "Completa hamburguesa de Hamburguesa Nostra.")
+![Completa hamburguesa de Hamburguesa Nostra.](https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-hamburguesa-nostra.jpg "Completa hamburguesa de Hamburguesa Nostra.")
 
 ### Hamburguesa Nostra
 
@@ -208,7 +208,7 @@ puntos de cocina, además de poder elegir entre diversas guarniciones, salsas y 
 
 ## La zona fría 'gluten free': helado de postre
 
-![Chica tomando un helado en Bico de Xeado](etheria-images/2020/09/Madrid-sin-gluten-Bico-de-Xeado.jpg "Helado en Bico de Xeado.")
+![Chica tomando un helado en Bico de Xeado](https://fotos.etheriamagazine.com/2020/09/Madrid-sin-gluten-Bico-de-Xeado.jpg "Helado en Bico de Xeado.")
 
 ### Bico de Xeado
 

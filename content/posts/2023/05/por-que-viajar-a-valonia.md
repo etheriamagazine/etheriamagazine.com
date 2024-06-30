@@ -1,7 +1,7 @@
 ---
 title: "8 razones por las que te va a apetecer viajar a Valonia"
 date: 2023-05-16
-coverImage: etheria-images/2023/05/valonia-Dinant-lago.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/05/valonia-Dinant-lago.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
@@ -14,7 +14,7 @@ región de Valonia. Desconocida para muchos pero llena de atractivos y muy fáci
 visitar, aquí te damos ocho razones para viajar a Valonia, aunque te aseguramos que 
 existen muchas más. 
 
-![Teleférico de Namur](etheria-images/2023/05/valonia-namur-teleferico.jpg "Teleférico de Namur. © WBT/Denis Closon.")
+![Teleférico de Namur](https://fotos.etheriamagazine.com/2023/05/valonia-namur-teleferico.jpg "Teleférico de Namur. © WBT/Denis Closon.")
 
 De Valonia podemos hablar en términos numéricos diciendo que tiene 1.500 castillos, 
 5.000 kilómetros de senderos para rutas a pie o que el 30% de su territorio son bosques. 
@@ -34,7 +34,7 @@ increíbles de la ciudad y a la que se puede subir en teleférico. Con 500 metro
 galerías subterráneas restauradas, narra dos mil años de historia urbana y militar 
 europea. Además, sus jardines son perfectos para dar un paseo. 
 
-![Cisne frente a la ciudad de Namur](etheria-images/2023/05/Valonia-ciudadela-Namur-683x1024.jpg "Ciudadela de Namur. © WBT/Dominik Ketz.")
+![Cisne frente a la ciudad de Namur](https://fotos.etheriamagazine.com/2023/05/Valonia-ciudadela-Namur-683x1024.jpg "Ciudadela de Namur. © WBT/Dominik Ketz.")
 
 Ya en la ciudad, no te puedes perder la place du Marché aux Légumes, la catedral 
 Saint-Aubain o el campanario. Otro lugar muy especial es la zona de los muelles, donde 
@@ -51,7 +51,7 @@ vistas y por la explicación de su historia en los paneles que adornan las pared
 Tournai tiene muchos más atractivos: la catedral de Notre-Dame, el Museo de Bellas 
 Artes, la Grand-Place… ¡No puedes perdértela! 
 
-![Grand Place de Tournai](etheria-images/2023/05/tournai-plaza.jpg "Grand Place de Tournai. © WBT/J. Jean Mart")
+![Grand Place de Tournai](https://fotos.etheriamagazine.com/2023/05/tournai-plaza.jpg "Grand Place de Tournai. © WBT/J. Jean Mart")
 
 ## Contemplar el 'street art' en Mons
 
@@ -62,7 +62,7 @@ La iniciativa “Arte en la ciudad” ha transformado Mons y algunas localidades
 un lugar perfecto para los amantes del _street art_. Cuentan con setenta obras de 
 artistas de todo el mundo integradas en el paisaje urbano. 
 
-![San Jorge y el Dragón en una pared de Mons](etheria-images/2023/05/valonia-Mons-street-art.jpg "Street Art en Mons: obra de Zesar Bahamonte. © WBT.")
+![San Jorge y el Dragón en una pared de Mons](https://fotos.etheriamagazine.com/2023/05/valonia-Mons-street-art.jpg "Street Art en Mons: obra de Zesar Bahamonte. © WBT.")
 
 ## Conocer el pasado industrial de Charleroi
 
@@ -76,7 +76,7 @@ visitar el Museo de la Industria y el Museo de Cristal. Además, Charleroi es la
 cómic belga, cuenta con interesantes murales de _street art_ y su **Museo de 
 Fotografía** está considerado el más importante de Europa. 
 
-![Bois du Cazier](etheria-images/2023/05/Valonia-Bois-du-Cazier.jpg "Arqueología industrial en Bois du Cazier. © Jean-Luc Deru.")
+![Bois du Cazier](https://fotos.etheriamagazine.com/2023/05/Valonia-Bois-du-Cazier.jpg "Arqueología industrial en Bois du Cazier. © Jean-Luc Deru.")
 
 ## Recorrer Dinant, una ciudad de cuento
 
@@ -88,7 +88,7 @@ estatuas de la ciudad y al que se dedica un centro de interpretación en su anti
 Además de la visita de la ciudad, Dinant es un lugar perfecto para dar un paseo en kayak 
 por su río y ver así la ciudad desde otra perspectiva. 
 
-![Dinant.](etheria-images/2023/05/valonia-Dinant-lago.jpg "Dinant con la Colegiata de Notre Dame. © WBT/ Anibal Trejo.")
+![Dinant.](https://fotos.etheriamagazine.com/2023/05/valonia-Dinant-lago.jpg "Dinant con la Colegiata de Notre Dame. © WBT/ Anibal Trejo.")
 
 ## Descubrir Durbuy, la ciudad más pequeña del mundo
 
@@ -98,7 +98,7 @@ su centro histórico entre antiguas casas de piedra. No olvides dar una vuelta p
 Parque de Les Tapiaires, con árboles podados formando originales esculturas, ni por la 
 peña de Omalius con su fuente de agua. 
 
-![Calle de Durbuy.](etheria-images/2023/05/Valonia-Durbuy-649x1024.jpg "Calle de Durbuy. © WBT/Dominik Ketz.")
+![Calle de Durbuy.](https://fotos.etheriamagazine.com/2023/05/Valonia-Durbuy-649x1024.jpg "Calle de Durbuy. © WBT/Dominik Ketz.")
 
 ## Hacer una ruta en bicicleta por Bouillon
 
@@ -112,7 +112,7 @@ hasta la actualidad. También merece la pena acercarse a la **abadía cistercien
 Orval**, fundada en el siglo XII, famosa por su cerveza y su queso, donde todavía vive 
 una comunidad de monjes trapenses. 
 
-![Ruta en bicicleta frente al Tombeau du Geant](etheria-images/2023/05/valonia-Tombeau-du-Geant.jpg "Ruta en bicicleta frente al Tombeau du Geant. © WBT/David Samyn.")
+![Ruta en bicicleta frente al Tombeau du Geant](https://fotos.etheriamagazine.com/2023/05/valonia-Tombeau-du-Geant.jpg "Ruta en bicicleta frente al Tombeau du Geant. © WBT/David Samyn.")
 
 ## Visitar el Castillo de Beloeil
 
@@ -124,7 +124,7 @@ medieval hasta convertirse en una casa de campo. El interior conserva unas bonit
 estancias decoradas con muebles de época y en el exterior el invernadero, construido en 
 1830, es una parada obligada. 
 
-![Castillo de Baloeil.](etheria-images/2023/05/valonia-castillo-de-Beloeil-680x1024.jpg "Castillo de Baloeil. © WBT/J.P. Remy")
+![Castillo de Baloeil.](https://fotos.etheriamagazine.com/2023/05/valonia-castillo-de-Beloeil-680x1024.jpg "Castillo de Baloeil. © WBT/J.P. Remy")
 
 ## Guía práctica de Valonia
 

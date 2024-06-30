@@ -63,6 +63,13 @@ summaryLength = 20
       "publi/2022-getxo"
     ]
 
+  [params.imgproxy]
+    enabled = true
+    host = "https://imgp.etheriamagazine.com/"
+    sourceStyle = "plain"
+    responsiveSizes = [200, 300, 600, 900, 1200] 
+    defaultSize = 600
+
   [params.hugoEtheria]
     [params.hugoEtheria.subscribeForm]
       action = "/app/newsletter/subscribe"

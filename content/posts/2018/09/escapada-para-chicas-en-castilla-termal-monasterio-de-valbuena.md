@@ -1,7 +1,7 @@
 ---
 title: "Escapada para chicas en Castilla Termal Monasterio de Valbuena"
 date: 2018-09-06
-coverImage: etheria-images/2018/09/circuito-contrastes-monasterio-valbuena.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/circuito-contrastes-monasterio-valbuena.jpg
 categories: 
   - bienestar-belleza
   - viajes-con-amigas
@@ -16,7 +16,7 @@ y la gastronomía van de la mano. En este hotel-balneario situado en la provinci
 Valladolid encontramos propuestas para todos los públicos, entre ellas también una 
 dirigida exclusivamente a chicas. 
 
-![escapada relax, viajes con amigas, hotel valbuena](etheria-images/2018/09/escapada-relax-chicas-e1565250399236.jpg "chica nadando en una piscina")
+![escapada relax, viajes con amigas, hotel valbuena](https://fotos.etheriamagazine.com/2018/09/escapada-relax-chicas-e1565250399236.jpg "chica nadando en una piscina")
 
 Entre la amplia oferta balnearia y hotelera que tenemos en España, en Etheria magazine 
 queremos destacar la filosofía de la **cadena Castilla Termal** por muchas razones: por 
@@ -28,7 +28,7 @@ medida de los posible, propuestas para mayores y para familias.
 ?Ubicación: Castilla Termal Monasterio de Valbuena se encuentra a 35 km de Valladolid y 
 180 de Madrid. 
 
-![Claustro del siglo XII del Castilla Termal Monasterio de Valbuena.](etheria-images/2018/09/monasterio-valbuena-claustro-1-e1565250450685.jpg "Claustro del siglo XII del Castilla Termal Monasterio de Valbuena.")
+![Claustro del siglo XII del Castilla Termal Monasterio de Valbuena.](https://fotos.etheriamagazine.com/2018/09/monasterio-valbuena-claustro-1-e1565250450685.jpg "Claustro del siglo XII del Castilla Termal Monasterio de Valbuena.")
 
 ## Un entorno histórico y artístico
 
@@ -47,7 +47,7 @@ trabajo.
 > Retirarse unos días a este antiguo lugar de oración es la mejor cura al estrés y la 
 > ansiedad provocada por el rápido ritmo de vida urbano. 
 
-![Corredor del claustro del Monasterio de Valbuena.](etheria-images/2018/09/monasterio-valbuena-claustro-e1565250543711.jpg "Corredor del claustro del Monasterio de Valbuena.")
+![Corredor del claustro del Monasterio de Valbuena.](https://fotos.etheriamagazine.com/2018/09/monasterio-valbuena-claustro-e1565250543711.jpg "Corredor del claustro del Monasterio de Valbuena.")
 
 ## Habitaciones y zona termal
 
@@ -56,7 +56,7 @@ sus necesidades, aunque todas son amplias y están exquisitamente decoradas. Dis
 25 de categoría doble superior, 22 dobles deluxe, 29 junior suites y 3 suites 
 especiales. 
 
-![Suite del Tesoro del Monasterio de Valbuena.](etheria-images/2018/09/monasterio-valbuena-suite-tesoro-e1565250581575.jpg "Suite del Tesoro del Monasterio de Valbuena.")
+![Suite del Tesoro del Monasterio de Valbuena.](https://fotos.etheriamagazine.com/2018/09/monasterio-valbuena-suite-tesoro-e1565250581575.jpg "Suite del Tesoro del Monasterio de Valbuena.")
 
 La zona de bienestar, que ocupa **más de 2.000 metros cuadrados**, cuenta con una 
 piscina termal –con vistas a la Ribera del Duero y a la _infinity pool_–, zona de 
@@ -65,7 +65,7 @@ Vichy a dos o cuatro manos, _peeling_ de miel, chorro a presión y sauna. Una pr
 muy original es el 'Ribera del Duero' que combina la técnica con las propiedades del 
 vino. 
 
-![Piscina del Monasterio de Valbuena.](etheria-images/2018/09/monasterio-valbuena-balneario-e1565250611664.jpg "Piscina del Monasterio de Valbuena.")
+![Piscina del Monasterio de Valbuena.](https://fotos.etheriamagazine.com/2018/09/monasterio-valbuena-balneario-e1565250611664.jpg "Piscina del Monasterio de Valbuena.")
 
 ## Cocina tradicional o moderna
 
@@ -77,7 +77,7 @@ exclusivo restaurante a la carta; una cafetería, **La Cilla**, donde disfrutar 
 café y un rato de charla; y la **Bodega de los Monjes**, un lugar perfecto para realizar 
 catas y celebraciones. 
 
-![Cocina tradicional y creativa en el restaurante Converso.](etheria-images/2018/09/gastronomia-monasterio-valbuena-e1565250649958.jpg "Cocina tradicional y creativa en el restaurante Converso.")
+![Cocina tradicional y creativa en el restaurante Converso.](https://fotos.etheriamagazine.com/2018/09/gastronomia-monasterio-valbuena-e1565250649958.jpg "Cocina tradicional y creativa en el restaurante Converso.")
 
 ### Propuesta de escapada con amigas
 

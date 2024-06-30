@@ -1,7 +1,7 @@
 ---
 title: "Cara a cara con King Kong en Uganda"
 date: 2019-04-18
-coverImage: etheria-images/2019/04/Uganda-Gorila-Bwindi.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/Uganda-Gorila-Bwindi.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ una isla que esté muy lejos de casa. Pero para ‘exótico’ nada como viajar 
 mirar a un gorila cara a cara y preguntarte: ¿Qué hace un mono como yo… mirando a esa 
 persona? 
 
-\[caption id="attachment\_9116" align="aligncenter" width="900"\]![ver gorilas uganda, gorilas en africa](etheria-images/2019/04/Uganda-Gorila-Bwindi.jpg "Gorila en Bwindi.") Gorila en Bwindi. © P. Grifol\[/caption\]
+\[caption id="attachment\_9116" align="aligncenter" width="900"\]![ver gorilas uganda, gorilas en africa](https://fotos.etheriamagazine.com/2019/04/Uganda-Gorila-Bwindi.jpg "Gorila en Bwindi.") Gorila en Bwindi. © P. Grifol\[/caption\]
 
 Viajar hasta las montañas de Uganda para ver a los gorilas en su hábitat natural –de cerca ¡sin cristal y sin rejas!– podría ser una de las experiencias viajeras más apasionantes de tu vida, un relato que podrás transmitir a tus nietos con la emoción de haber sentido algo único.
 
@@ -23,11 +23,11 @@ Viajar hasta las montañas de Uganda para ver a los gorilas en su hábitat natur
 
 A las tres de la madrugada ya estaba despierto, aunque la salida hacia la selva estaba fijada para las seis. Estaba inquieto, como cuando estás ansioso porque intuyes que al amanecer va a suceder algo especial. Creo que en las pocas horas de sueño que precedieron al súbito estado de vigilia soñé con la última película de King Kong. Con la secuencia en la que los nativos se disponen a entregar a la chica al gran gorila, con toda aquella parafernalia de preparativos: la gran empalizada levantada para cercar a la bestia, la excitación colectiva en el momento del clímax y los exagerados sonidos de la selva... con los gritos de la chica incluidos y la música ambiental de la peli.
 
-\[caption id="attachment\_9117" align="aligncenter" width="900"\]![viaje gorilas uganda, bosque bwindi](etheria-images/2019/04/Uganda-Gorila-Niebla-bosque.jpg "Bosque Impenetrable de Bwindi.") Bosque Impenetrable de Bwindi. © P. Grifol\[/caption\]
+\[caption id="attachment\_9117" align="aligncenter" width="900"\]![viaje gorilas uganda, bosque bwindi](https://fotos.etheriamagazine.com/2019/04/Uganda-Gorila-Niebla-bosque.jpg "Bosque Impenetrable de Bwindi.") Bosque Impenetrable de Bwindi. © P. Grifol\[/caption\]
 
 Por aquello de la visibilidad, el safari se inicia después de amanecer (en África no se puede deambular por la selva de noche). Son las seis de la mañana y empieza la aventura desde la localidad de **Kisoro**, casi en la frontera con el Congo. El viaje empieza dando botes en un todoterreno por una agrietada pista de tierra batida y piedras que insiste en abrirse camino, cuesta arriba, entre la exultante vegetación que cubre una ladera montañosa a un lado y un precipicio al otro lado. Dos horas botando. Amenazaba lluvia porque, dice el conductor, que casi siempre amenaza lluvia a esas tempranas horas durante la estación húmeda; pero a la vez, el tímido sol del amanecer iba despejando la niebla que navegaba entre las oscuras y lejanas montañas y las siluetas de las copas de los árboles ya empezaban a perfilar sus mil tonos de verde. Por fin, el cielo se tornó rosáceo y la niebla se deslizaba en segmentos horizontales, como en la película _Gorilas en la Niebla_. Después de no sé cuántas curvas llegamos al puesto de los guardabosques de **Nkuringo**.
 
-\[caption id="attachment\_9119" align="aligncenter" width="900"\]![Gorilas en la Niebla, dian fossey](etheria-images/2019/04/gorilas-en-niebla-dian-fossey.jpg "Gorilas en la Niebla (Izq.) y Dian Fossey real (Dcha.)") Gorilas en la Niebla (Izq.) y Dian Fossey real (Dcha.) © Robert I.M. Campbell/ National Geographic\[/caption\]
+\[caption id="attachment\_9119" align="aligncenter" width="900"\]![Gorilas en la Niebla, dian fossey](https://fotos.etheriamagazine.com/2019/04/gorilas-en-niebla-dian-fossey.jpg "Gorilas en la Niebla (Izq.) y Dian Fossey real (Dcha.)") Gorilas en la Niebla (Izq.) y Dian Fossey real (Dcha.) © Robert I.M. Campbell/ National Geographic\[/caption\]
 
 Antes de adentrarnos en la selva, el guía imparte unas cuantas reglas que merece la pena destacar y que posteriormente comprobamos que no se cumplió ninguna: "Mantenerse por lo menos a siete metros de distancia de los gorilas. Si el gorila enseña sus colmillos y hace ademán de acercarse, agacharse ente él y no huir corriendo, ya que esto aumentaría el riesgo de ataque. No mirarle nunca a los ojos. Esperar la señal del guía para hacer las fotos (sin flash)".
 
@@ -37,7 +37,7 @@ El _trekking_ dura varias horas –pocas o muchas–, en función de donde se en
 
 Caminar no era fácil. **Todo en la selva pincha** y los pies se hunden en un suelo nada fiable. Un ejército –o varios– de moscas se iba despertando a nuestro paso en nuestro lento y torpe avance, acompañándonos con su zumbido alrededor de las orejas. El calor y la humedad también iban haciendo mella en mi (nuestro) poco (o nada) habituado cuerpo de explorador. Pero, ¡la ilusión del viajero no desfallece en busca de la aventura!
 
-\[caption id="attachment\_9123" align="aligncenter" width="900"\]![gorilas uganda, bwindi](etheria-images/2019/04/uganda-Gorila-en-Bwindi.jpg "Encuentro con un gorila en Bwindi.") Encuentro con un gorila en Bwindi. © P. Grifol\[/caption\]
+\[caption id="attachment\_9123" align="aligncenter" width="900"\]![gorilas uganda, bwindi](https://fotos.etheriamagazine.com/2019/04/uganda-Gorila-en-Bwindi.jpg "Encuentro con un gorila en Bwindi.") Encuentro con un gorila en Bwindi. © P. Grifol\[/caption\]
 
 Nuestro grupo, a juzgar por el comentario del guía, tuvo suerte porque, después de aproximadamente tres horas de fatigoso camino cortando la enmarañada vegetación de aquella selva llena de sorpresas, nos topamos con un señor gorila comiendo hojas apaciblemente entre la maleza. No daba crédito al fortuito encuentro.
 
@@ -51,7 +51,7 @@ Hice algunas fotos, pocas, porque la sensación de estar viviendo el momento era
 > Recuerdo que cuando el gorila desapareció, me quedé con ganas de decirle: “Que seas 
 > feliz… Adiós”. 
 
-\[caption id="attachment\_9120" align="aligncenter" width="900"\]![parque volcanes, gorilas uganda](etheria-images/2019/04/Uganda-Parque-de-los-Volcanes.jpg "Parque de los Volcanes (Uganda).") Parque de los Volcanes (Uganda). © P. Grifol\[/caption\]
+\[caption id="attachment\_9120" align="aligncenter" width="900"\]![parque volcanes, gorilas uganda](https://fotos.etheriamagazine.com/2019/04/Uganda-Parque-de-los-Volcanes.jpg "Parque de los Volcanes (Uganda).") Parque de los Volcanes (Uganda). © P. Grifol\[/caption\]
 
 ## Apunte para viajeras responsables: gorilas en peligro
 
@@ -63,7 +63,7 @@ Los gorilas viven en grupos de hasta treinta individuos compuestos por machos j�
 > sostenible, motivado por las visitas guiadas, constituye el mejor medio para conseguir 
 > fondos para financiar la conservación de estos grandes simios. 
 
-\[caption id="attachment\_9121" align="aligncenter" width="800"\]![kampala, capital uganda, gorilas uganda](etheria-images/2019/04/uganda-gorilas-kampala.jpg "La aventura comienza al llegar a Kampala, la capital de Uganda.") La aventura comienza al llegar a Kampala, la capital de Uganda. © P. Grifol\[/caption\]
+\[caption id="attachment\_9121" align="aligncenter" width="800"\]![kampala, capital uganda, gorilas uganda](https://fotos.etheriamagazine.com/2019/04/uganda-gorilas-kampala.jpg "La aventura comienza al llegar a Kampala, la capital de Uganda.") La aventura comienza al llegar a Kampala, la capital de Uganda. © P. Grifol\[/caption\]
 
 ### CONSEJOS ETHERIA
 
@@ -77,7 +77,7 @@ Qué documentos necesitas
 
 Además del pasaporte, que debe tener más de 6 meses de validez, necesitas un visado para entrar a Uganda, que se obtiene al llegar al aeropuerto. El permiso para el **‘gorila trek’** conviene gestionarlo con, al menos, tres meses de antelación y debe fijarse el día de la visita. Lo mejor es gestionarlo con un touroperador local como [Great Lakes Safaris](http://www.safari-uganda.com) o una agencia de viajes en España para asegurarse la plaza. La tarifa es de unos 600 dólares USA o su equivalencia en euros. Para informarte respecto a las normas a seguir para el encuentro con los gorilas conviene consultar las website de **UWA Uganda Wildlife Authority**; [Gorilla Fundation](http://www.gorillafund.org) y [Gorilas de Montaña](http://www.mountaingorillas.org).
 
-\[caption id="attachment\_9125" align="aligncenter" width="900"\]![Kisoro, Bwindi, gorilas uganda](etheria-images/2019/04/Nkuringo-campamento-base.jpg "Kisoro y BwindI.") Kisoro (Izq.) y Bwindi (Dcha.) © P. Grifol\[/caption\]
+\[caption id="attachment\_9125" align="aligncenter" width="900"\]![Kisoro, Bwindi, gorilas uganda](https://fotos.etheriamagazine.com/2019/04/Nkuringo-campamento-base.jpg "Kisoro y BwindI.") Kisoro (Izq.) y Bwindi (Dcha.) © P. Grifol\[/caption\]
 
 Qué vacunas ponerte 
 

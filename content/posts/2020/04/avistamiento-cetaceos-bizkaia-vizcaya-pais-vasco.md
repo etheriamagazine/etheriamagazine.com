@@ -1,7 +1,7 @@
 ---
 title: "Avistar cetáceos en la costa vasca, una experiencia inolvidable"
 date: 2020-04-20
-coverImage: etheria-images/2020/03/viaje-mujeres-bizkaia-ver-delfines.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines.jpg
 categories: 
   - viajes-48-horas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 Avistar cetáceos en la costa vasca con tus "propios ojos" es una poderosa experiencia en el mar. Divisarlos en el País Vasco es una recompensa por partida doble: la certeza casi absoluta de verte ante un gigante del mar y hacerlo más cerca de lo que puedas imaginar. Al regresar a puerto nada como pisar tierra firme entre los encantos marineros de Bermeo.
 
-![avistamiento de cetáceos, viajes al País Vasco, viajes de naturaleza](etheria-images/2020/03/viaje-vizcaya-puerto-cetaceos-900x600.jpg "Puerto de Bermeo.")
+![avistamiento de cetáceos, viajes al País Vasco, viajes de naturaleza](https://fotos.etheriamagazine.com/2020/03/viaje-vizcaya-puerto-cetaceos-900x600.jpg "Puerto de Bermeo.")
 
 El avistamiento de **cetáceos en la costa vasca** es una actividad turística que está al 
 alza. Pocos saben aún que el subidón de adrenalina que provoca ver una ballena puede 
@@ -28,7 +28,7 @@ después se hunde hacia el cañón submarino de Cap Breton y sus dos mil metros 
 profundidad, es un lugar ideal para que los cetáceos se alimenten y naden muy próximos a 
 tierra firme todavía no nos hemos acercado a la orilla. 
 
-![Delfines comunes en la costa vasca](etheria-images/2020/03/viaje-mujeres-bizkaia-ver-delfines-900x576.jpg "Delfines comunes (Delphinus delphis).")
+![Delfines comunes en la costa vasca](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines-900x576.jpg "Delfines comunes (Delphinus delphis).")
 
 Estamos en la charla que la empresa de observación de cetáceos y aves marinas 'Ver 
 Ballenas' realiza la jornada previa a la salida marítima de observación. Es cuando 
@@ -51,7 +51,7 @@ deambular entre el ambiente marinero de su casco antiguo. Asentada en la orilla 
 ría de Urdaibai la villa bermeana respira tradición por el mar como demuestra su 
 actividad pescadora y conservera. 
 
-![puerto de bermeo para ver cetaceos en la costa vasca](etheria-images/2020/03/viaje-bizkaia-ver-ballenas-900x600.jpg "Encantador puerto de Bermeo.")
+![puerto de bermeo para ver cetaceos en la costa vasca](https://fotos.etheriamagazine.com/2020/03/viaje-bizkaia-ver-ballenas-900x600.jpg "Encantador puerto de Bermeo.")
 
 ## Puerto de salida: Bermeo
 
@@ -62,7 +62,7 @@ estómago– y una pastilla para el mareo –esencial para los más susceptibles
 navegación–. Para esta travesía marítima, que dura entre seis y ocho horas, solo se 
 precisa llevar ropa de abrigo, una prenda cortaviento y algo de alimento. 
 
-![excursion para ver cetaceos en la costa vasca](etheria-images/2020/03/pais-vasco-ver-ballenas-vizcaya-900x600.jpg "Explicaciones de 'Ver Ballenas' a bordo del barco antes de observar a los cetáceos.")
+![excursion para ver cetaceos en la costa vasca](https://fotos.etheriamagazine.com/2020/03/pais-vasco-ver-ballenas-vizcaya-900x600.jpg "Explicaciones de 'Ver Ballenas' a bordo del barco antes de observar a los cetáceos.")
 
 Soltamos amarras acompañados de **expertos avistadores de ballenas y aves marinas** 
 dispuestos estratégicamente por la embarcación. Otean la plataforma oceánica y sus 
@@ -76,7 +76,7 @@ Suele vivir a centenares de metros en las profundidades marinas donde se aliment
 calamares y peces y permanece muy poco tiempo en superficie. Si lo ves, sabrás que has 
 vivido uno de los momentos más extraordinarios de la jornada marítima. 
 
-![cola de un cachalote en la costa vasca](etheria-images/2020/03/pais-vasco-ver-cetaceos-vizcaya-900x600.jpg "Cola de un cachalote (Physeter macrocephalus).")
+![cola de un cachalote en la costa vasca](https://fotos.etheriamagazine.com/2020/03/pais-vasco-ver-cetaceos-vizcaya-900x600.jpg "Cola de un cachalote (Physeter macrocephalus).")
 
 Si aparece un cetáceo, no temas, el capitán del barco maniobra con agilidad –y de manera 
 respetuosa y calculada– para situarse en paralelo permitiendo no solo un magnífico 
@@ -92,7 +92,7 @@ contribuye a la plantación de árboles autóctonos, en colaboración la [Fundac
 Lurgaia](http://www.lurgaia.org/), para compensar la huella de CO2 producida durante 
 nuestra excursión. 
 
-![alcatraz comun en pais vasco](etheria-images/2020/03/pais-vasco-ver-cetaceos-vizcaya-aves-900x600.jpg "Alcatraz común o Atlántico (Morus bassanus).")
+![alcatraz comun en pais vasco](https://fotos.etheriamagazine.com/2020/03/pais-vasco-ver-cetaceos-vizcaya-aves-900x600.jpg "Alcatraz común o Atlántico (Morus bassanus).")
 
 ## Llegan ellos, los más juguetones
 
@@ -101,7 +101,7 @@ inconfundible cola de un cachalote o tal vez la fortuna te sonría con una famil
 orcas a la vista. Y, quién sabe, si la imponente ballena azul, la más grande, con sus 
 treinta metros de longitud, se pone ante tu mirada. 
 
-![delfin comun en la costa vasca](etheria-images/2020/03/viaje-euskadi-cetaceos-900x600.jpg "Delfín común (Delphinus delphis).")
+![delfin comun en la costa vasca](https://fotos.etheriamagazine.com/2020/03/viaje-euskadi-cetaceos-900x600.jpg "Delfín común (Delphinus delphis).")
 
 Los que sin duda no faltarán a la atracción que provoca nuestra presencia son los 
 **delfines**. Juguetones e inteligentes se aproximan en grandes grupos porque buscan la 
@@ -109,7 +109,7 @@ estela del barco para hacer acrobacias con su desplazamiento. Emergen entre el o
 con elegantes movimientos permitiendo distinguir fácilmente por su fisonomía a las tres 
 especies que habitan las aguas cantábricas. 
 
-![Santuario de San Juan de Gaztelugatxe](etheria-images/2020/03/viaje-pais-vasco-cetaceos-900x596.jpg "Santuario de San Juan de Gaztelugatxe.")
+![Santuario de San Juan de Gaztelugatxe](https://fotos.etheriamagazine.com/2020/03/viaje-pais-vasco-cetaceos-900x596.jpg "Santuario de San Juan de Gaztelugatxe.")
 
 Para asimilar tanta experiencia ballenera, una vez que desembarques acércate al 
 **santuario de San Juan de Gaztelugatxe**, no solo estarás ante un escenario de _Juego 

@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Almería en un viaje con amigas"
 date: 2020-01-10
-coverImage: etheria-images/2020/01/Almeria-Mercado-Central.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/01/Almeria-Mercado-Central.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -15,7 +15,7 @@ Si no sabes qué ver en Almería, en esta pequeña guía te damos las claves bá
 disfrutar de un fin de semana con visitas culturales y sitios de tapeo. ¿Estás preparada 
 para hacer una escapada con amigas a una de las capitales con más sabor de Andalucía? 
 
-![Ruta de los sabores por Almería.](etheria-images/2020/01/ruta-bares-almeria-900x665.jpg "Ruta de los sabores por Almería. © Pepa García")
+![Ruta de los sabores por Almería.](https://fotos.etheriamagazine.com/2020/01/ruta-bares-almeria-900x665.jpg "Ruta de los sabores por Almería. © Pepa García")
 
 Actualizado en abril de 2024 
 
@@ -33,7 +33,7 @@ España (después de La Alhambra) y se levanta orgullosa sobre una colina desde 
 X. Lo idóneo es subir caminando por el entramado de **callejuelas de la medina**. Es un 
 gusto ir descubriendo sus recovecos, patios, bares y teterías con encanto. 
 
-![En el entramado de callejuelas de la medina encontrarás coquetas teterías.](etheria-images/2020/01/Almeria-ciudad-teteria-900x607.jpg "En el entramado de callejuelas de la medina encontrarás coquetas teterías. © P.G.")
+![En el entramado de callejuelas de la medina encontrarás coquetas teterías.](https://fotos.etheriamagazine.com/2020/01/Almeria-ciudad-teteria-900x607.jpg "En el entramado de callejuelas de la medina encontrarás coquetas teterías. © P.G.")
 
 ## Catedral de Almería
 
@@ -46,7 +46,7 @@ espacio para el descanso, para disfrutar en alguna de las terrazas, como la del 
 La Catedral** (www.hotelcatedral.net), o para esperar el trenecito turístico que sube 
 hasta el Alcázar. 
 
-![Plaza de la Catedral de Almería.](etheria-images/2020/01/Almeria-Plaza-Catedral-900x607.jpg "Plaza de la Catedral de Almería. © P.G.")
+![Plaza de la Catedral de Almería.](https://fotos.etheriamagazine.com/2020/01/Almeria-Plaza-Catedral-900x607.jpg "Plaza de la Catedral de Almería. © P.G.")
 
 ## Puerto de Almería
 
@@ -65,7 +65,7 @@ Inglés**. Con este nombre se identifica el antiguo cargadero de mineral que lle
 hasta el mar. Esta gran obra, construida a principios del siglo XX, servía para 
 transportar cargamentos de hierro hasta el muelle. 
 
-![Los pescadores descargan la pesca del día en el puerto de Almería.](etheria-images/2020/01/Almeria-puerto-descarga-pescado-900x600.jpg "Los pescadores descargan la pesca del día en el puerto de Almería. © P.G.")
+![Los pescadores descargan la pesca del día en el puerto de Almería.](https://fotos.etheriamagazine.com/2020/01/Almeria-puerto-descarga-pescado-900x600.jpg "Los pescadores descargan la pesca del día en el puerto de Almería. © P.G.")
 
 ## Mercado Central
 
@@ -79,7 +79,7 @@ mejor de la huerta almeriense, carnes seleccionadas y los frutos más frescos de
 Existe un espacio gastronómico, gestionado por el Ayuntamiento, donde se organizan 
 jornadas, talleres y degustaciones. 
 
-![Mercado Central de Almería.](etheria-images/2020/01/Almeria-Mercado-Central-900x601.jpg "Mercado Central de Almería. © P.G.")
+![Mercado Central de Almería.](https://fotos.etheriamagazine.com/2020/01/Almeria-Mercado-Central-900x601.jpg "Mercado Central de Almería. © P.G.")
 
 ## Dónde tapear en Almería
 
@@ -102,7 +102,7 @@ _delicatesen_ sino para dejarse conquistar por sus 'hits' de toda la vida: las g
 con gabardina, una fritura de pescado, un platito de jamón o su rica ensaladilla rusa. 
 Está en la calle Jovellanos, 7. 
 
-![El bar de tapeo Puga es el más antiguo de Almería.](etheria-images/2020/01/Almeria-Bar-tapas-Puga-900x615.jpg "El bar de tapeo Puga es el más antiguo de Almería. © P.G.")
+![El bar de tapeo Puga es el más antiguo de Almería.](https://fotos.etheriamagazine.com/2020/01/Almeria-Bar-tapas-Puga-900x615.jpg "El bar de tapeo Puga es el más antiguo de Almería. © P.G.")
 
 ### El Quinto Toro
 
@@ -113,7 +113,7 @@ Quinto Toro, ya te dará alguna pista de la decoración. Seas o no taurino, pás
 este local, que tiene más de siete décadas, para disfrutar de sus ricas tapas. Se 
 encuentra en la calle Juan Leal, 6. 
 
-![No te pierdas las patatas a lo pobre del Bar Quinto Toro.](etheria-images/2020/01/Almeria-Bar-Quinto-Toro-900x600.jpg "No te pierdas las patatas a lo pobre del Bar Quinto Toro. © P.G.")
+![No te pierdas las patatas a lo pobre del Bar Quinto Toro.](https://fotos.etheriamagazine.com/2020/01/Almeria-Bar-Quinto-Toro-900x600.jpg "No te pierdas las patatas a lo pobre del Bar Quinto Toro. © P.G.")
 
 ### Entrefinos
 
@@ -124,7 +124,7 @@ que los anteriores, ofrece tapas generosas y también servicio de restaurante. E
 lugar perfecto para sentarse en su terraza, si el tiempo lo permite, y pedir raciones 
 para compartir. Está en la calle Padre Alfonso Torres, 8. 
 
-![Tapa de solomillo mozárabe en Entrefinos.](etheria-images/2020/01/Almeria-Bar-Entrefinos-900x631.jpg "Tapa de solomillo mozárabe en Entrefinos. © P.G.")
+![Tapa de solomillo mozárabe en Entrefinos.](https://fotos.etheriamagazine.com/2020/01/Almeria-Bar-Entrefinos-900x631.jpg "Tapa de solomillo mozárabe en Entrefinos. © P.G.")
 
 ### Nuestra Tierra
 
@@ -143,7 +143,7 @@ tomate sobre la que se ponen distintos ingredientes como atún, jamón, queso, e
 lugar más tradicional donde tomarla es la **Cafetería Colón**, donde además sirven los 
 mejores churros de Almería, o eso dicen). 
 
-![Café americano en Kiosco Amalia y grafiti en Almería.](etheria-images/2020/01/Almeria-americano-kiosco-Amalia-900x682.jpg "Café americano en Kiosco Amalia y grafiti en Almería.")
+![Café americano en Kiosco Amalia y grafiti en Almería.](https://fotos.etheriamagazine.com/2020/01/Almeria-americano-kiosco-Amalia-900x682.jpg "Café americano en Kiosco Amalia y grafiti en Almería.")
 
 ### El Kiosco Amalia y su café americano
 
@@ -162,7 +162,7 @@ Pista: Este quiosco está junto a la plaza **Puerta Purchena**, el centro neurá
 Almería, y casi enfrente de la preciosa **Casa de las Mariposas**. Observa con atención 
 la bonita decoración modernista de esta vivienda. 
 
-![Túneles que sirvieron de refugio durante la guerra civil española.](etheria-images/2020/01/tuneles-refugio-guerra-civil-900x600.jpg "Túneles que sirvieron de refugio durante la guerra civil española. © P.G.")
+![Túneles que sirvieron de refugio durante la guerra civil española.](https://fotos.etheriamagazine.com/2020/01/tuneles-refugio-guerra-civil-900x600.jpg "Túneles que sirvieron de refugio durante la guerra civil española. © P.G.")
 
 ## Los refugios de la Guerra Civil
 
@@ -178,7 +178,7 @@ guiadas conviene [reservar con
 antelación](https://www.turismodealmeria.org/museos/museo/los-refugios-de-la-guerra-civil/) 
 (Tel. 950 268 696). 
 
-![Actuación de flamenco en Peña El Morato (Almería).](etheria-images/2020/01/flamenco-almeria-Pena-Morato-900x601.jpg "Actuación de flamenco en Peña El Morato (Almería). © P.G.")
+![Actuación de flamenco en Peña El Morato (Almería).](https://fotos.etheriamagazine.com/2020/01/flamenco-almeria-Pena-Morato-900x601.jpg "Actuación de flamenco en Peña El Morato (Almería). © P.G.")
 
 ## Flamenco en Peña El Morato
 

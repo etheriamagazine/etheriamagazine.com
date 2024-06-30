@@ -1,7 +1,7 @@
 ---
 title: "3 razones por las que querrás visitar el nuevo Mandarin Oriental Ritz Madrid"
 date: 2020-02-18
-coverImage: etheria-images/2020/02/Mandarin-Oriental-RitzPalm-Court.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-RitzPalm-Court.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 El mítico Mandarin Oriental Ritz Madrid reabre el 15 de abril de 2021 tras una gran reforma. Como seguro que tienes mucha curiosidad por ver cómo ha quedado, te contamos sólo tres de las muchas razones por las que querrás visitarlo.
 
-![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](etheria-images/2020/02/Mandarin-Oriental-Ritz-fachada-822x1024.jpg "Fachada del Mandarin Oriental Ritz Madrid.")
+![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-Ritz-fachada-822x1024.jpg "Fachada del Mandarin Oriental Ritz Madrid.")
 
 El icónico hotel Ritz de Madrid abre, por fin, sus puertas el 15 de abril de 2021 bajo 
 la marca de hoteles de lujo **Mandarin Oriental**. Con una historia que se remonta a 
@@ -26,7 +26,7 @@ personalidad del hotel. El resultado ha sido una mejora de las instalaciones y s
 del hotel manteniendo su esencia y con un diseño que incorpora valiosas piezas 
 artísticas como pinturas clásicas, esculturas y candelabros de cristal. 
 
-![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](etheria-images/2020/02/Mandarin-Oriental-RitzPalm-Court-900x677.jpg "Zona del restaurante Palm Court bajo la restaurada cúpula de cristal.")
+![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-RitzPalm-Court-900x677.jpg "Zona del restaurante Palm Court bajo la restaurada cúpula de cristal.")
 
 Ya sabes, si vas a hacer una escapada a **Madrid** y quieres darte un capricho alójate 
 en este hotel. O al menos acércate a tomar un aperitivo o el té (esto es muy Ritz), ya 
@@ -36,7 +36,7 @@ medio del ajetreo de las visitas.
 
 ## 1\. Por dormir en sus nuevas habitaciones y suites
 
-![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](etheria-images/2020/02/Mandarin-Oriental-Ritz-Deluxe-Room-900x571.jpg "Deluxe Room.")
+![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-Ritz-Deluxe-Room-900x571.jpg "Deluxe Room.")
 
 Alojarse en una de las **153 habitaciones y suites** del Mandarin Oriental Ritz Madrid 
 será una experiencia única. Mantienen su espíritu de hotel clásico pero con toques 
@@ -46,7 +46,7 @@ zona de la capital. Destacan las espaciosas **Suite Real** y **Suite Presidencia
 magníficas vistas al Museo del Prado, y las nuevas **Suites Mandarin**, ubicadas en las 
 torretas del piso superior y también con excelentes vistas. 
 
-![Mandarin Oriental Ritz Madrid](etheria-images/2020/02/Mandarin-Oriental-Ritz-Royal-Suite-900x675.jpg "Royal Suite del Mandarin Oriental Ritz Madrid.")
+![Mandarin Oriental Ritz Madrid](https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-Ritz-Royal-Suite-900x675.jpg "Royal Suite del Mandarin Oriental Ritz Madrid.")
 
 ## 2\. Por la marca Quique Dacosta
 
@@ -56,7 +56,7 @@ los cinco restaurantes y bares del hotel. Suma cinco estrellas con sus restauran
 Dénia (Alicante) y El Poblet (Valencia) y aportará un conocimiento exhaustivo del 
 producto sumado a su espíritu vanguardista y creativo. 
 
-![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](etheria-images/2020/02/Mandarin-Oriental-Ritz-gastronomic-restaurant-900x675.jpg "Restaurante Gastronómico.")
+![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-Ritz-gastronomic-restaurant-900x675.jpg "Restaurante Gastronómico.")
 
 Los espacios para deleitarse con la gastronomía de este nuevo hotel serán **Deessa**, el 
 restaurante de autor de Quique Dacosta; **Palm Court**, que ofrecerá una cocina clásica 
@@ -76,7 +76,7 @@ de sensaciones, una piscina de relajación, una sala de vapor y un moderno gimna
 Además, podrás recibir tratamientos de belleza y masajes, un auténtico santuario 
 privado. 
 
-![spa Mandarin Oriental Ritz Madrid](etheria-images/2020/02/Mandarin-Oriental-Ritz-spa-900x675.jpg "Nuevo spa del Mandarin Oriental Ritz Madrid.")
+![spa Mandarin Oriental Ritz Madrid](https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-Ritz-spa-900x675.jpg "Nuevo spa del Mandarin Oriental Ritz Madrid.")
 
 [Más 
 información](https://www.mandarinoriental.es/madrid/hotel-ritz/luxury-hotel/presentation) 

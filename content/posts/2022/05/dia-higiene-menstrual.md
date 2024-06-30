@@ -1,7 +1,7 @@
 ---
 title: "Pobreza y analfabetismo menstrual, asignaturas pendientes en el Día de la Higiene Menstrual"
 date: 2022-05-27
-coverImage: etheria-images/2022/05/dia-higiene-menstrual.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/05/dia-higiene-menstrual.jpg
 categories: 
   - salud-bienestar-nutricion
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Cada 28 de mayo se celebra el Día Internacional de la Higiene Menstrual y, un año más, seguimos con varias asignaturas pendientes. La pobreza menstrual es una de ellas. La educación menstrual, otra. De ambas te hablamos en este artículo.
 
-![Imagen roja que refleja el concepto de menstruación](etheria-images/2022/05/dia-higiene-menstrual.jpg "El 28 de mayo se celebra el Día de la Higiene Menstrual. © Cassi Josh")
+![Imagen roja que refleja el concepto de menstruación](https://fotos.etheriamagazine.com/2022/05/dia-higiene-menstrual.jpg "El 28 de mayo se celebra el Día de la Higiene Menstrual. © Cassi Josh")
 
 Durante 40 años de vida fértil, una mujer puede llegar a gastar, si tiene el flujo 
 abundante, más de 2.000 euros en productos sanitarios, según indican los datos recogidos 
@@ -31,7 +31,7 @@ Digna](https://www.facebook.com/MenstruacionDigna/), que considera que los produ
 gestión menstrual deberían tener un **IVA superreducido**, ya que son productos de 
 primera necesidad y hay que garantizar el acceso a esos productos para todas. 
 
-![Dos copas menstruales](etheria-images/2022/05/copa-menstrual.jpg "El ahorro usando la copa menstrual es considerable. © Monika Kozub")
+![Dos copas menstruales](https://fotos.etheriamagazine.com/2022/05/copa-menstrual.jpg "El ahorro usando la copa menstrual es considerable. © Monika Kozub")
 
 ### Reivindicaciones en el Día de la Higiene Menstrual
 
@@ -51,7 +51,7 @@ usarlas. Es necesario que se dé información de los productos que hay, pues úl
 hay mucha presión sobre el tema; cada una debe elegir con cuál de ellos se siente más 
 cómoda”, insisten desde Menstruación Digna. 
 
-![Tampones sobre rama de algodón.](etheria-images/2022/05/tampones-salud-menstrual.jpg "Se solicitará la bajada del IVA en productos para la higiene menstrual a cargo de los Presupuestos Generales. © Aunt Flow")
+![Tampones sobre rama de algodón.](https://fotos.etheriamagazine.com/2022/05/tampones-salud-menstrual.jpg "Se solicitará la bajada del IVA en productos para la higiene menstrual a cargo de los Presupuestos Generales. © Aunt Flow")
 
 ### La demandada bajada del IVA se queda fuera de la Ley del aborto
 
@@ -76,7 +76,7 @@ talleres a un instituto y no te los cogen”, se queja Janire Mañes López, edu
 sexual en igualdad de género y fundadora de [ILEN - Cultura 
 Menstrual](https://www.instagram.com/ilenculturamenstrual). 
 
-![La educación menstrual es necesaria en la adolescencia](etheria-images/2022/05/adolescentes-menstruacion.jpg "La educación menstrual es absolutamente necesaria. © Jeffrey F Lin")
+![La educación menstrual es necesaria en la adolescencia](https://fotos.etheriamagazine.com/2022/05/adolescentes-menstruacion.jpg "La educación menstrual es absolutamente necesaria. © Jeffrey F Lin")
 
 También desde **Menstruación Digna** creen que “la clave de todo está en acabar con el 
 estigma y los tabúes que aún rodean a la menstruación” y consideran que “la única 
@@ -103,7 +103,7 @@ gratuitamente productos menstruales** sostenibles, como copas, bragas o compresa
 reutilizables, en tercero de la ESO en todos los institutos de Cataluña. Es una de las 
 medidas adoptadas para lograr la equidad menstrual. 
 
-![Una joven con libros representa el concepto de educación menstrual](etheria-images/2022/05/educacion-menstrual.jpg "Un gran porcentaje de mujeres no tiene educación menstrual previa a su primera regla. © Element5 Digital")
+![Una joven con libros representa el concepto de educación menstrual](https://fotos.etheriamagazine.com/2022/05/educacion-menstrual.jpg "Un gran porcentaje de mujeres no tiene educación menstrual previa a su primera regla. © Element5 Digital")
 
 ### Por qué es crucial promover la educación menstrual
 
@@ -132,7 +132,7 @@ dificultades económicas. El 99,5% cree que deberían tomarse medidas políticas
 reducir el coste económico de los productos menstruales y el 84,9% ve necesaria la 
 reducción del IVA. 
 
-![Tisana para combatir el dolor menstrual](etheria-images/2022/05/tisana-menstruacion.jpg "La pobreza menstrual trae consecuencias negativas para la salud. © Kira Auf Der Heide")
+![Tisana para combatir el dolor menstrual](https://fotos.etheriamagazine.com/2022/05/tisana-menstruacion.jpg "La pobreza menstrual trae consecuencias negativas para la salud. © Kira Auf Der Heide")
 
 #### Uso más tiempo del recomendado
 

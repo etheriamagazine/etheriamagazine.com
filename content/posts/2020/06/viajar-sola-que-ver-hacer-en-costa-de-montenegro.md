@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola a la costa de Montenegro: 6 lugares imprescindibles"
 date: 2020-06-29
-coverImage: etheria-images/2020/06/Montenegro-Sveti-Stefan-mar.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/Montenegro-Sveti-Stefan-mar.jpg
 categories: 
   - viajes-para-mujeres
   - viajar-sola
@@ -11,7 +11,7 @@ authors:
 
 Si quieres viajar sola por Europa y buscas un destino poco masificado, Montenegro es una opción perfecta. Aquí te proponemos seis paradas obligatorias en un recorrido por la costa del país, en el que combinarás arquitectura y playas.
 
-![viaja sola, viajar a la costa del Adriático, viajar con amigas](etheria-images/2020/06/Montenegro-kotor-cruceros.jpg "Bahía de Kotor.")
+![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-kotor-cruceros.jpg "Bahía de Kotor.")
 
 Estás pensando en hacer un 'road trip' y no sabes por donde empezar? ¿Y si te decimos 
 que en Europa existe un país donde evitar el turismo de masas y poder disfrutar a tu 
@@ -24,7 +24,7 @@ de Montenegro** se han convertido en el destino perfecto para **descubrir sola o
 amigas** gracias a sus excelentes y económicas conexiones de transporte público y a la 
 gran oferta disponible de alojamientos para todos bolsillos. 
 
-![viaja sola, viajar a la costa del Adriático, viajar con amigas](etheria-images/2020/06/Montenegro-Perast-costa.jpg "Perast.")
+![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-Perast-costa.jpg "Perast.")
 
 En **Etheria Magazine** te proponemos el siguiente itinerario de viaje para que no te 
 pierdas lo mejor de '_La tierra de los cien stari grads'_ (cascos antiguos). 
@@ -44,7 +44,7 @@ del país; de los reyes que decidieron construir sus fortalezas en sus fronteras
 rey de Bosnia Stjepan Tvrko I. Y de comenzar a descubrir las playas de agua cristalina 
 que bañan toda su costa. 
 
-![viaja sola, viajar a la costa del Adriático, viajar con amigas](etheria-images/2020/06/Montenegro-herceg-novi-calle.jpg "Calle del 'stari grad' de Herceg Novi.")
+![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-herceg-novi-calle.jpg "Calle del 'stari grad' de Herceg Novi.")
 
 Entre sus atracciones no puedes dejar de visitar el **castillo de Forte Mare**; la torre 
 del reloj del siglo XIX; la de Kanli, de herencia turca; y la **iglesia serbia de San 
@@ -67,7 +67,7 @@ esconde mil y una actividades que no te puedes perder al visitarlo. Lo convierte
 lugar perfecto donde alojarse durante unos días mientras recorres poblaciones vecinas de 
 la costa del país. 
 
-![viaja sola, viajar a la costa del Adriático, viajar con amigas](etheria-images/2020/06/Montenegro-Kotor-casco-historico.jpg "Casco histórico de Kotor.")
+![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-Kotor-casco-historico.jpg "Casco histórico de Kotor.")
 
 Y es que Kotor es todo lo que te puedes imaginar de una ciudad medieval montenegrina: 
 calles donde caminar sin rumbo y dejarte llevar entre sus edificios de piedra que 
@@ -80,7 +80,7 @@ ido aumentando significativamente en los últimos años. Muchas compañías de c
 la empiezan a incluir como parada en el recorrido por el Adriático de aquellas rutas que 
 parten de Venecia. 
 
-![viaja sola, viajar a la costa del Adriático, viajar con amigas](etheria-images/2020/06/Montenegro-Kotor.jpg "Kotor.")
+![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-Kotor.jpg "Kotor.")
 
 Entre las actividades que se pueden hacer en Kotor no te puedes perder: • Caminar sin 
 rumbo por las calles que llevan a su Stari grad. • Ascender 13 km hasta **Krsrac** y 
@@ -101,7 +101,7 @@ y que deja a su izquierda las aguas del **Boka Kotorska** (la bahía de Kotor), 
 lado, la ciudad y sus palacios, este pequeñísimo pueblo parece haber quedado atrapado en 
 el tiempo. 
 
-![viaja sola, viajar a la costa del Adriático, viajar con amigas](etheria-images/2020/06/Montenegro-Perast-barcas.jpg "Terraza junto al mar en Perast.")
+![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-Perast-barcas.jpg "Terraza junto al mar en Perast.")
 
 Recorrer sus calles te transportará a la melancolía de tiempos pasados en los que cada 
 uno de sus edificios contaba la historia de la familia aristócrata que la ocupaba. 
@@ -116,7 +116,7 @@ dorada de la ciudad. Uno de ellos es el [hotel Iberostar Grand
 Perast](https://etheriamagazine.com/2018/08/29/hotel-iberostar-perast-montenegro/) donde 
 merece la pena alojarse. 
 
-![viaja sola, viajar a la costa del Adriático, viajar con amigas](etheria-images/2020/06/Montenegro-Perast-mar.jpg "Perast desde el mar. © Albert Hiseni")
+![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-Perast-mar.jpg "Perast desde el mar. © Albert Hiseni")
 
 Por si fuera poco, su principal atracción no reside en sus calles o construcciones, sino 
 que está flotando en el agua: las **islas de Sveti Đorđe y Gospe od Škrpjela**. O lo que 
@@ -144,7 +144,7 @@ De manera que si lo que buscas es dejar de lado las visitas culturales, este es 
 perfecto donde disfrutar de chiringuitos de playa, puestas de sol a ritmo de jazz y 
 noches desenfrenadas, o no, disfrutando de los mejores y más cosmopolitas cócteles. 
 
-![](etheria-images/2020/06/Montenegro-Budva.jpg "Playa de Budva.")
+![](https://fotos.etheriamagazine.com/2020/06/Montenegro-Budva.jpg "Playa de Budva.")
 
 Sin embargo, mientras esperas el atardecer, lo mejor es caminar por la muralla que 
 envuelve su _Stari grad_ para contemplar su casco antiguo. Fue construido sobre una 
@@ -165,7 +165,7 @@ Aunque su herencia proviene de un humilde pueblo de pescadores, hoy en día est�
 considerada la ciudad más ‘instagramable’ y el lugar de encuentro y veraneo de los 
 aristócratas. Si bien, también hay otras opiniones discordantes. 
 
-![](etheria-images/2020/06/Montenegro-Sveti-Stefan-mar.jpg "Sveti Stefan.")
+![](https://fotos.etheriamagazine.com/2020/06/Montenegro-Sveti-Stefan-mar.jpg "Sveti Stefan.")
 
 Aunque la primera impresión de su **fotogénica silueta desde la carretera** que recorre 
 la costa es espectacular, es decepcionante pensar que su acceso y visita está limitado a 
@@ -183,7 +183,7 @@ grad_ de Montenegro?
 Si pensabas que ya lo habías visto todo, la multiculturalidad y multireligiosidad de 
 Ulcinj se convertirá en la guinda del pastel de este viaje por el país. 
 
-![viaja sola, viajar a la costa del Adriático, viajar con amigas](etheria-images/2020/06/Montenegro-Ulcinj-atardecer.jpg "Ulcinj. © Albert Hyseni")
+![viaja sola, viajar a la costa del Adriático, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Montenegro-Ulcinj-atardecer.jpg "Ulcinj. © Albert Hyseni")
 
 Además de ser considerada la **capital de la piratería del mar Adriático**, la silueta 
 de las pequeñas mezquitas se cuela entre las antiguas construcciones que forman el 
@@ -204,7 +204,7 @@ playas de arena blanca** bañadas por las aguas de mar Adriático. Una de ellas,
 12 kilómetros, presume de ser la más larga del país. Disfruta de este paseo con calma, 
 que te lo has ganado después de esta ruta por la costa de Montenegro. 
 
-![viajar sola por Europa, viajes a Montenegro, escapadas por Europa](etheria-images/2020/05/Montenegro-Ulcinj.jpg "Ulcinj.")
+![viajar sola por Europa, viajes a Montenegro, escapadas por Europa](https://fotos.etheriamagazine.com/2020/05/Montenegro-Ulcinj.jpg "Ulcinj.")
 
 ### Sabías que...
 

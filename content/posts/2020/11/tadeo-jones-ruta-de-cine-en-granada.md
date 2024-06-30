@@ -1,7 +1,7 @@
 ---
 title: "Tadeo Jones en Granada, un viaje de cine en familia"
 date: 2020-11-22
-coverImage: etheria-images/2020/11/tadeo-jones-panoramica-alhambra.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/tadeo-jones-panoramica-alhambra.jpg
 categories: 
   - viajes-cine
   - viaje-en-familia
@@ -12,7 +12,7 @@ authors:
 
 ##### Ahora que han vuelto las ganas de viajar en familia, te proponemos un plan cinematográfico para descubrir los rincones más bellos de la capital granadina. ¡Prepara palomitas y déjate guiar por la segunda entrega de dibujos animados sobre las aventuras de Tadeo Jones!
 
-![alhambra en pelicula tadeo jones](etheria-images/2020/11/tadeo-jones-cine-Alhambra.jpg "La Alhambra en 'Tadeo Jones'. © Paramount Pictures Spain")
+![alhambra en pelicula tadeo jones](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-cine-Alhambra.jpg "La Alhambra en 'Tadeo Jones'. © Paramount Pictures Spain")
 
 Hay películas en las que las localizaciones se convierten en un protagonista más. La 
 segunda entrega de _**Tadeo Jones, el secreto del rey Midas**,_ es una de ellas. La 
@@ -25,7 +25,7 @@ preciosistas que tenemos en cualquiera de las estancias”. Estas son las locali
 granadinas que aparecen recreadas en la segunda entrega de esta película de dibujos 
 animados. 
 
-![tadeo jones en mirador de san nicolas](etheria-images/2020/11/tadeo-jones-panoramica-alhambra.jpg "El mirador de San Nicolás ofrece una panorámica de La Alhambra y de Sierra Nevada. © Paramount Pictures Spain")
+![tadeo jones en mirador de san nicolas](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-panoramica-alhambra.jpg "El mirador de San Nicolás ofrece una panorámica de La Alhambra y de Sierra Nevada. © Paramount Pictures Spain")
 
 ## Mirador de San Nicolás
 
@@ -36,7 +36,7 @@ realizar una de las panorámicas más afamadas del Albaicín. Además de las vis
 plaza pública es un espacio multicultural y multiétnico que siempre está muy animada y 
 concurrida. 
 
-![tadeo jones en plaza nueva granada](etheria-images/2020/11/tadeo-jones-tuk-tuk-en-la-Plaza-Nueva.jpg "En tuk tuk en la Plaza Nueva. © Paramount Pictures Spain")
+![tadeo jones en plaza nueva granada](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-tuk-tuk-en-la-Plaza-Nueva.jpg "En tuk tuk en la Plaza Nueva. © Paramount Pictures Spain")
 
 ## Plaza de Santa Ana
 
@@ -46,7 +46,7 @@ detalle la **iglesia de San Gil y Santa Ana**. También aparece recreado el **Pi
 Toro**, un antiguo abrevadero de animales obra de Diego de Siloé que data de mediados 
 del siglo XVI. 
 
-![albaicin en pelicula tadeo jones](etheria-images/2020/11/tadeo-jones-Albaicin.jpg "Barrio del Albaicín en Tadeo Jones. © Paramount Pictures Spain")
+![albaicin en pelicula tadeo jones](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-Albaicin.jpg "Barrio del Albaicín en Tadeo Jones. © Paramount Pictures Spain")
 
 ## Barrio del Albaicín
 
@@ -64,7 +64,7 @@ paredes granadinas y que en la película son usados como “_tiro al plato_” c
 malos. En esta reconstrucción hecha con mimo de la ciudad todo está cuidado al detalle, 
 desde el mobiliario urbano hasta las papeleras y las farolas. 
 
-![carrera del darro en tadeo jones granada](etheria-images/2020/11/tadeo-jones-granada-Darro.jpg "Carrera del Darro. © Paramount Pictures Spain")
+![carrera del darro en tadeo jones granada](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-granada-Darro.jpg "Carrera del Darro. © Paramount Pictures Spain")
 
 ## El Darro
 
@@ -74,7 +74,7 @@ lleva al albañil con alma de arqueólogo y a sus amigos hasta la Carrera del Da
 se sitúa una divertida escena en la que Momia se descoyunta entre los puentes del río 
 Darro. 
 
-![cuesta gomerez tadeo jones](etheria-images/2020/11/tadeo-jones-final-cuesta-gomerez.jpg "Cuesta de Gomérez. © Paramount Pictures Spain")
+![cuesta gomerez tadeo jones](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-final-cuesta-gomerez.jpg "Cuesta de Gomérez. © Paramount Pictures Spain")
 
 ## Cuesta de Gomérez
 
@@ -82,7 +82,7 @@ Esta es otra de las localizaciones granadinas donde se desarrolla la trama centr
 esta película de animación. Aquí finaliza el vertiginoso trayecto en tuk tuk de Tadeo y 
 sus amigos, a los que vemos abandonar el vehículo y encaminarse hacia la [Alhambra](https://www.alhambra.org/?gclid=CjwKCAjwlID8BRAFEiwAnUoK1YvzhbWS0zIt7KWS-TUHW7OUiin1szWbPIfN8nvqLx6vWC8OTmDMHhoCo9QQAvD_BwE). 
 
-![jardines del partal en la alhambra tadeo jones](etheria-images/2020/11/tadeo-jones-La-Alhambra.jpg "Jardines del Partal, en La Alhambra. © Paramount Pictures Spain")
+![jardines del partal en la alhambra tadeo jones](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-La-Alhambra.jpg "Jardines del Partal, en La Alhambra. © Paramount Pictures Spain")
 
 ## La Alhambra
 
@@ -93,7 +93,7 @@ encuentra la primera pieza de las tres que componen el collar del Rey Midas. Mie
 acompañamos a Tadeo y a sus amigos podemos disfrutar de las bellas imágenes de los 
 Jardines del Partal hasta llegar a la Fuente de los Leones. 
 
-![momia de tadeo jones en la alhambra](etheria-images/2020/11/tadeo-jones-Momia-en-la-alhambra.jpg "La momia en La Alhambra. © Paramount Pictures Spain")
+![momia de tadeo jones en la alhambra](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-Momia-en-la-alhambra.jpg "La momia en La Alhambra. © Paramount Pictures Spain")
 
 ## El Patio de los Leones
 
@@ -106,7 +106,7 @@ para **que los niños no repitiesen lo que habían visto en la película**. No s
 ha sido así, pero de lo que sí estamos seguras es de que es uno de los lugares más 
 emblemáticos y fotografiados del recinto monumental. 
 
-![patio de los leones alhambra tadeo  jones](etheria-images/2020/11/tadeo-jones-patio-de-los-leones-2.jpg "Patio de los Leones, en La Alhambra. © Paramount Pictures Spain")
+![patio de los leones alhambra tadeo  jones](https://fotos.etheriamagazine.com/2020/11/tadeo-jones-patio-de-los-leones-2.jpg "Patio de los Leones, en La Alhambra. © Paramount Pictures Spain")
 
 ## Puerto de Motril y castillo de Salobreña
 
@@ -118,7 +118,7 @@ Capadocia](https://etheriamagazine.com/2019/02/26/revista-viajes-que-ver-capadoc
 esa localidad es un poco subjetiva, ya que incluye una representación del **castillo de 
 Salobreña**. 
 
-![puerto de motril en pelicula tadeo jones](etheria-images/2020/11/Puerto-de-motril-tadeo-jones.jpg "Puerto de Motril en 'Tadeo Jones'. © Paramount Pictures Spain")
+![puerto de motril en pelicula tadeo jones](https://fotos.etheriamagazine.com/2020/11/Puerto-de-motril-tadeo-jones.jpg "Puerto de Motril en 'Tadeo Jones'. © Paramount Pictures Spain")
 
 ### También te puede interesar...
 

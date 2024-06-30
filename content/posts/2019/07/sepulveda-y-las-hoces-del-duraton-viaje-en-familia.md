@@ -1,7 +1,7 @@
 ---
 title: "Sepúlveda y las hoces del Duratón para toda la familia"
 date: 2019-07-11
-coverImage: etheria-images/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg
 categories: 
   - viajes-48-horas
   - viajes-ecoturismo
@@ -16,7 +16,7 @@ del día a día. Si vives en Madrid, una propuesta estupenda para disfrutar en f
 una escapada a Sepúlveda y a las hoces del río Duratón. Combina arquitectura, turismo 
 activo y gastronomía ¿Qué más se puede pedir? 
 
-![Río Duratón](etheria-images/2019/06/Sepulveda-duraton-panoramica.jpg "El Duratón a su paso por la ermita de San Frutos. © Susana García")
+![Río Duratón](https://fotos.etheriamagazine.com/2019/06/Sepulveda-duraton-panoramica.jpg "El Duratón a su paso por la ermita de San Frutos. © Susana García")
 
 A hora y media de Madrid, la provincia de Segovia propone infinidad de planes en la 
 naturaleza y ciudades y pueblos con un legado histórico-artístico incalculable. Para 
@@ -34,7 +34,7 @@ los niños son algo más mayores, puedes elegir de una, dos o tres plazas. Te da
 recipiente estanco para meter los objetos personales por si vuelcas, aunque son bastante 
 estables. 
 
-![Piraguas en el río Duratón.](etheria-images/2019/06/sepulveda-duraton-piraguas.jpg "Piraguas en el río Duratón. © Susana García")
+![Piraguas en el río Duratón.](https://fotos.etheriamagazine.com/2019/06/sepulveda-duraton-piraguas.jpg "Piraguas en el río Duratón. © Susana García")
 
 Un buen lugar para iniciar la ruta es en **San Miguel de Bernuy**. Desde aquí, en poco 
 más de una hora, llegas a la playa del Duratón, situada en el embalse de las Vencías. 
@@ -50,7 +50,7 @@ en verano se agradece y los niños disfrutarán a lo grande. En las piraguas el 
 es que es más difícil subirse después, pero si el calor aprieta siempre puedes 
 intentarlo. 
 
-![Niña en una barca a pedales en el río Duratón](etheria-images/2019/06/sepulveda-duraton-barca.jpg "El Duratón desde el tobogán de una barca a pedales. © Susana García")
+![Niña en una barca a pedales en el río Duratón](https://fotos.etheriamagazine.com/2019/06/sepulveda-duraton-barca.jpg "El Duratón desde el tobogán de una barca a pedales. © Susana García")
 
 ## Visita la ermita de San Frutos
 
@@ -61,7 +61,7 @@ una bonita imagen y un paseo hasta llegar a ella desde el aparcamiento, y es per
 para una parada en el camino donde tomar unas fotos. Cuando llegues verás como las hoces 
 con los buitres sobrevolándolas también son una postal que querrás tener en tu cámara. 
 
-![Ermita de San Frutos](etheria-images/2019/06/sepulveda-duraton-san-frutos.jpg "Ermita de San Frutos. © Susana García")
+![Ermita de San Frutos](https://fotos.etheriamagazine.com/2019/06/sepulveda-duraton-san-frutos.jpg "Ermita de San Frutos. © Susana García")
 
 ## Sepúlveda
 
@@ -74,7 +74,7 @@ tediosos, lo mejor es apuntarse a una de las rutas teatralizadas de [Sepúlveda
 Viva](https://www.sepulvedaviva.es), que combinan la explicación histórica con 
 representaciones que hacen más amena la visita. 
 
-![Visita teatralizada de Sepúlveda Viva frente a la iglesia de El Salvador.](etheria-images/2019/06/sepulveda-duraton-visita-teatralizada-iglesia.jpg "Visita teatralizada de Sepúlveda Viva frente a la iglesia de El Salvador. © Susana García")
+![Visita teatralizada de Sepúlveda Viva frente a la iglesia de El Salvador.](https://fotos.etheriamagazine.com/2019/06/sepulveda-duraton-visita-teatralizada-iglesia.jpg "Visita teatralizada de Sepúlveda Viva frente a la iglesia de El Salvador. © Susana García")
 
 También puedes recorrerla por tu cuenta, sin prisas y con la paciencia que sus cuestas 
 requieren. Acércate a sus **iglesias románicas** (tiene cinco), todas construidas entre 
@@ -86,7 +86,7 @@ uno de sus lados, que es el lugar más animado de Sepúlveda. No hay que olvidar
 villa es uno de los mejores lugares de Castilla y León para probar el exquisito lechazo 
 y un lugar donde puedes alargar el aperitivo casi hasta el infinito. 
 
-![Sepúlveda al atardecer](etheria-images/2019/06/Sepulveda-duraton-atardecer.jpg "Sepúlveda al atardecer. © Susana García")
+![Sepúlveda al atardecer](https://fotos.etheriamagazine.com/2019/06/Sepulveda-duraton-atardecer.jpg "Sepúlveda al atardecer. © Susana García")
 
 ### Paseos en los alrededores
 
@@ -100,7 +100,7 @@ ICONA](http://www.turismosepulveda.es/hoces-del-duraton/sendas-rutas) (de cinco
 kilómetros), que tiene una dificultad apta para toda la familia y se realiza en hora y 
 media bajando las hoces y caminando junto al río. 
 
-![Puerta del Azogue (Sepúlveda)](etheria-images/2019/06/Sepulveda-duraton-puerta-azogue.jpg "Puerta del Azogue (Sepúlveda). © SG")
+![Puerta del Azogue (Sepúlveda)](https://fotos.etheriamagazine.com/2019/06/Sepulveda-duraton-puerta-azogue.jpg "Puerta del Azogue (Sepúlveda). © SG")
 
 ## Cueva de los Enebralejos
 
@@ -111,7 +111,7 @@ explicaciones) tanto por la parte geológica como por la antropológica, ya que 
 usada como necrópolis desde el Calcolítico. El recorrido es sencillo para realizarlo con 
 niños y muy didáctico. 
 
-![Interior de la Cueva de los Enebralejos.](etheria-images/2019/07/Segovia-cueva-enebralejos.jpg "Interior de la © Cueva de los Enebralejos.")
+![Interior de la Cueva de los Enebralejos.](https://fotos.etheriamagazine.com/2019/07/Segovia-cueva-enebralejos.jpg "Interior de la © Cueva de los Enebralejos.")
 
 ## Guía práctica de Sepúlveda y las hoces del Duratón
 
@@ -122,7 +122,7 @@ Duratón** (molinograndedelduraton.com). Cuenta con habitaciones familiares de d
 tamaños y ellos pueden organizar las rutas por el río. También te pueden preparar un 
 delicioso menú con productos de la zona. 
 
-![Hotel Molino Grande del Duratón y río Duratón](etheria-images/2019/06/sepulveda-duraton-molino.jpg "Hotel Molino Grande del Duratón. © SG")
+![Hotel Molino Grande del Duratón y río Duratón](https://fotos.etheriamagazine.com/2019/06/sepulveda-duraton-molino.jpg "Hotel Molino Grande del Duratón. © SG")
 
 En Sepúlveda, puedes elegir entre sus hoteles, como el **Hotel Rural Vado del Duratón** 
 (vadodelduraton.) o alguna de sus casas rurales 

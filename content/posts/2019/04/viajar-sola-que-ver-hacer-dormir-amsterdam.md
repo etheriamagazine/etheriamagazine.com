@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Ámsterdam en sólo dos días"
 date: 2019-04-11
-coverImage: etheria-images/2019/03/amsterdam-mercados-Noordermarkt.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/amsterdam-mercados-Noordermarkt.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -16,7 +16,7 @@ en la calle la acompañas de buenas cervezas, quesos riquísimos y mercados call
 convierte en una fantástica escapada. Si quieres saber qué ver en Ámsterdam en dos días 
 sigue leyendo... 
 
-![En Amsterdam encontrarás decenas de bares donde reponer fuerzas.](etheria-images/2019/03/amsterdam-viaje-pareja.jpg "En Ámsterdam encontrarás decenas de bares donde reponer fuerzas.")
+![En Amsterdam encontrarás decenas de bares donde reponer fuerzas.](https://fotos.etheriamagazine.com/2019/03/amsterdam-viaje-pareja.jpg "En Ámsterdam encontrarás decenas de bares donde reponer fuerzas.")
 
 Una **escapada a Ámsterdam** permitirá disfrutar de la jovialidad y el dinamismo de esta 
 ciudad. Una curiosa mezcla de cultura alternativa y tradición burguesa impregna aquí el 
@@ -39,7 +39,7 @@ probando las **galletas de chocolate de Van Stapele**, una tienda minúscula que
 hornea un tipo de galleta, con un corazón de chocolate blanco dentro. Siempre hay cola, 
 por algo será. 
 
-![que ver amsterdam, viaje de chicas amsterdam](etheria-images/2019/03/amsterdam-Begijnhof-Breda.jpg "Begijnhof, el antiguo barrio de las beguinas, es uno de los oasis de paz de Ámsterdam.")
+![que ver amsterdam, viaje de chicas amsterdam](https://fotos.etheriamagazine.com/2019/03/amsterdam-Begijnhof-Breda.jpg "Begijnhof, el antiguo barrio de las beguinas, es uno de los oasis de paz de Ámsterdam.")
 
 ## Canales del Siglo de Oro
 
@@ -54,7 +54,7 @@ Orange). A su alrededor se teje toda una red de otros canales, más o menos pequ
 entre los que destaca el de **Reguliersgracht**, uno de los más románticos de la ciudad, 
 y las callejuelas llamadas “9 straatjes”, repletas de tiendecitas vintage. 
 
-![Los canales son los que aportan más personalidad a Ámsterdam.](etheria-images/2019/03/viaje-mujeres-amsterdam.jpg "Los canales son los que aportan más personalidad a Ámsterdam.")
+![Los canales son los que aportan más personalidad a Ámsterdam.](https://fotos.etheriamagazine.com/2019/03/viaje-mujeres-amsterdam.jpg "Los canales son los que aportan más personalidad a Ámsterdam.")
 
 ## Museos de Ámsterdam
 
@@ -71,7 +71,7 @@ contemporáneo (stedelijk.nl/en) y el **Moco** (mocomuseum.com/es), de arte urba
 completan esta plaza cultural. Muy cerca de aquí, se puede comer en el **restaurante 
 Wildschut**, al estilo de un gran café (cafewildschut.nl). 
 
-![Fachada de la Casa de Ana Frank.](etheria-images/2019/03/amsterdam-casa-ana-frank.jpg "Fachada de la Casa de Ana Frank.")
+![Fachada de la Casa de Ana Frank.](https://fotos.etheriamagazine.com/2019/03/amsterdam-casa-ana-frank.jpg "Fachada de la Casa de Ana Frank.")
 
 ## Mercados callejeros
 
@@ -90,7 +90,7 @@ es tipo rastro y vende todo tipo de cosas. Al salir, se puede ir al **bar Winkel
 tomarse su famosa tarta de manzana. Y en el mercado de flores se pueden comprar bulbos 
 de tulipanes para plantar a la vuelta. 
 
-![Noordermarkt, es uno de los mercados imprescindibles de Ámsterdam](etheria-images/2019/03/amsterdam-mercados-Noordermarkt.jpg "Noordermarkt, es uno de los mercados imprescindibles.")
+![Noordermarkt, es uno de los mercados imprescindibles de Ámsterdam](https://fotos.etheriamagazine.com/2019/03/amsterdam-mercados-Noordermarkt.jpg "Noordermarkt, es uno de los mercados imprescindibles.")
 
 ## Cerveza y tertulia
 
@@ -102,7 +102,7 @@ tienen largas mesas donde se acumulan periódicos, revistas, cervezas y **bitter
 unas pequeñas croquetas redondas. Es un ambiente acogedor y divertido, y el barrio del 
 Jordaan acumula muchos de estos cafés. 
 
-![El barrio del Jordaan es uno de los más alternativos de la capital.](etheria-images/2019/03/amsterdam-Jordaan.jpg "El barrio del Jordaan es uno de los más alternativos de la capital.")
+![El barrio del Jordaan es uno de los más alternativos de la capital.](https://fotos.etheriamagazine.com/2019/03/amsterdam-Jordaan.jpg "El barrio del Jordaan es uno de los más alternativos de la capital.")
 
 ## Salir por la noche
 
@@ -133,7 +133,7 @@ Si no te atreves a subirte, como mínimo disfrutarás de unas preciosas vistas. 
 esta torre se levanta en el barrio Norte, lo más de lo más de lo alternativo de la 
 ciudad. 
 
-![restaurante spirit, comida vegana, restaurantes amsterdam](etheria-images/2019/03/amsterdam-spirit-restaurant.jpg "Visita el (©) restaurante vegano Spirit.")
+![restaurante spirit, comida vegana, restaurantes amsterdam](https://fotos.etheriamagazine.com/2019/03/amsterdam-spirit-restaurant.jpg "Visita el (©) restaurante vegano Spirit.")
 
 ## Comer diferente
 

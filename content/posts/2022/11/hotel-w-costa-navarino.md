@@ -1,7 +1,7 @@
 ---
 title: "Hotel W Costa Navarino, un rincón de lujo en el paraíso"
 date: 2022-11-16
-coverImage: etheria-images/2022/11/W-Costa-Navarino-piscina-atardecer.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-piscina-atardecer.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -13,7 +13,7 @@ región griega de Mesenia, un lugar pensado para disfrutar de las vacaciones en 
 entorno de lujo único y en contacto total con la naturaleza. Echa un vistazo a lo que te 
 contamos porque te va a apetecer ir al momento. 
 
-![Piscina del W Costa Navarino al atardecer.](etheria-images/2022/11/W-Costa-Navarino-piscina-atardecer.jpg "Piscina del W Costa Navarino al atardecer.")
+![Piscina del W Costa Navarino al atardecer.](https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-piscina-atardecer.jpg "Piscina del W Costa Navarino al atardecer.")
 
 La Costa Navarino, en la región griega de Mesenia, es uno de los mejores lugares del 
 mundo para disfrutar de la playa. Aquí todo parece sacado de una postal: el mar 
@@ -30,7 +30,7 @@ bioclimático. El estudio encargado del diseño arquitectónico del hotel ha sid
 and Associates, que se ha inspirado en la arquitectura local para crear un espacio de 
 caminos empedrados, torres de piedra y edificios que recuerdan a un pueblo griego. 
 
-![zona de descanso del W Costa Navarino](etheria-images/2022/11/W-Costa-Navarino-W-Monumento.jpg "Rincón del W Costa Navarino.")
+![zona de descanso del W Costa Navarino](https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-W-Monumento.jpg "Rincón del W Costa Navarino.")
 
 Su lugar más popular es, sin duda, la **piscina Wet Deck**, que se abre al mar Jónico y 
 donde te costará salir de la tumbona. Pero además la playa del hotel es de ensueño y sus 
@@ -46,7 +46,7 @@ géneros tan diversos como el afro-house, el neo-soul o el tribal. Con músicos 
 locales e internacionales que amenizan las noches de verano. Toda una apuesta por la 
 cultura actual para sorprender y desafiar a los huéspedes. 
 
-![Suite del W Costa Navarino.](etheria-images/2022/11/W-costa-navarino-suite-beachfront.jpg "Suite del W Costa Navarino.")
+![Suite del W Costa Navarino.](https://fotos.etheriamagazine.com/2022/11/W-costa-navarino-suite-beachfront.jpg "Suite del W Costa Navarino.")
 
 ## Habitaciones y villas
 
@@ -59,7 +59,7 @@ especiales que se dividen en Suites y Villas. Las primeras se dividen entre las
 bahía o a la playa. Algunas se ubican en las plantas superiores y cuenta con piscina 
 privada en la terraza. 
 
-![Piscina privada en el W Costa Navarino](etheria-images/2022/11/W-Costa-Navarino-villa-piscina-playa.jpg "Piscina privada de la Villa de dos dormitorios.")
+![Piscina privada en el W Costa Navarino](https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-villa-piscina-playa.jpg "Piscina privada de la Villa de dos dormitorios.")
 
 Las **villas** merecen una mención aparte ya que son perfectas para pasar unas 
 vacaciones con un plus de intimidad. Su punto fuerte es sin duda su piscina privada, que 
@@ -77,7 +77,7 @@ el baile por la noche. Otro espacio muy singular es **Between**, un _sanset bar_
 pescado crudo que ofrece unos atardeceres espectaculares. Es un lugar para cenar algo 
 ligero, tomar un cóctel y disfrutar de la música. 
 
-![Beach Club Parelia.](etheria-images/2022/11/W-Costa-Navarino-Parelia-Beach-Club.jpg "Beach Club Parelía.")
+![Beach Club Parelia.](https://fotos.etheriamagazine.com/2022/11/W-Costa-Navarino-Parelia-Beach-Club.jpg "Beach Club Parelía.")
 
 **Platía** alude a la palabra griega que significa “plaza del pueblo” y es otro de esos 
 espacios del hotel que cambian según la hora a la que acudas. Durante el día se puede 
@@ -98,7 +98,7 @@ aparatos para no perder la forma durante las vacaciones. Además, podrás apunta
 clases de fitness, sesiones de yoga, meditación a través del movimiento de baile “5 
 Rythms” y pilates. 
 
-![sala de tratamientos del spa del W Costa Navarino](etheria-images/2022/11/W-costa-navarino-spa.jpg "AWAY® Spa del W Costa Navarino.")
+![sala de tratamientos del spa del W Costa Navarino](https://fotos.etheriamagazine.com/2022/11/W-costa-navarino-spa.jpg "AWAY® Spa del W Costa Navarino.")
 
 [W Costa 
 Navarino](https://www.marriott.com/en-us/hotels/klxwh-w-costa-navarino/overview/) 

@@ -1,7 +1,7 @@
 ---
 title: "Ruta por los mejores faros de Cantabria"
 date: 2020-05-18
-coverImage: etheria-images/2020/04/faro-punta-silla-san-vicente.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/04/faro-punta-silla-san-vicente.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Desde hace milenios son los encargados de mantener viva la esperanza del navegante con su luz atravesando el mar. Al pie del cantil, surgen como esbeltas torres de piedra rematadas con una linterna en la costa de Cantabria. En Etheria Magazine, te sugerimos organizar tu propia ruta de faros cántabros y disfrutarlos desde distintas perspectivas.
 
-![Faro de Punta Silla iluminado por la noche](etheria-images/2020/04/faro-punta-silla-san-vicente-900x600.jpg "Faro de Punta Silla.")
+![Faro de Punta Silla iluminado por la noche](https://fotos.etheriamagazine.com/2020/04/faro-punta-silla-san-vicente-900x600.jpg "Faro de Punta Silla.")
 
 ## 1\. Punta Silla, el vigía de San Vicente
 
@@ -25,7 +25,7 @@ interpretación](https://turismodecantabria.com/disfrutala/que-visitar/412-centr
 gracias a haberse convertido en uno de los atractivos turísticos más marineros de la 
 villa cántabra. 
 
-![Exterior y escalera interior del faro del cabo de Ajo.](etheria-images/2020/04/faro-cantabria-ajo-900x655.jpg "Exterior e interior del faro del cabo de Ajo (antes de ser pintado por Okuda).")
+![Exterior y escalera interior del faro del cabo de Ajo.](https://fotos.etheriamagazine.com/2020/04/faro-cantabria-ajo-900x655.jpg "Exterior e interior del faro del cabo de Ajo (antes de ser pintado por Okuda).")
 
 ## 2\. Ajo, balcón privilegiado
 
@@ -40,7 +40,7 @@ acantilado abierto plenamente al Cantábrico.
 (Óscar San Miguel)? Puedes leer esta "polémica" iniciativa en este [enlace](https://www.eldiariomontanes.es/cantabria/faro-luce-multicolor-20200828150028-nt.html) 
 del Diario Montañés. 
 
-![Interior iluminado del faro de cabo mayor](etheria-images/2020/04/faros-cantabria-cabo-mayor-657x1024.jpg "Faro de cabo Mayor (Cantabria).")
+![Interior iluminado del faro de cabo mayor](https://fotos.etheriamagazine.com/2020/04/faros-cantabria-cabo-mayor-657x1024.jpg "Faro de cabo Mayor (Cantabria).")
 
 ## 3\. Cabo Mayor, el más guapo de la bahía
 
@@ -56,7 +56,7 @@ el siglo XIX. No obstante, sobre el mismo promontorio, a 30 metros sobre el mar 
 halla, se orientaba a los barcos desde tiempos arcaicos con el uso de banderas y fuegos 
 que ardían durante la noche. 
 
-![faro punta del pescador durante la noche](etheria-images/2020/04/faro-cantabria-el-pescador-670x1024.jpg "Faro de Punta del Pescador (Cantabria).")
+![faro punta del pescador durante la noche](https://fotos.etheriamagazine.com/2020/04/faro-cantabria-el-pescador-670x1024.jpg "Faro de Punta del Pescador (Cantabria).")
 
 ## 4\. El Pescador, el santoñés más destacado
 
@@ -68,7 +68,7 @@ ruta](https://farodelcaballo.es/ruta-faro-del-caballo-santona/) invita a circunv
 monte, mientras nos asomados al mar para llegar hasta él y, de paso, descender al 
 escénico faro vecino de El Caballo. 
 
-![Faro del Caballo visto desde arriba.](etheria-images/2020/04/faro-cantabria-el-caballo-686x1024.jpg "Faro del Caballo, junto junto a los acantilados del monte Buciero.")
+![Faro del Caballo visto desde arriba.](https://fotos.etheriamagazine.com/2020/04/faro-cantabria-el-caballo-686x1024.jpg "Faro del Caballo, junto junto a los acantilados del monte Buciero.")
 
 ## 5\. El Caballo, el faro al pie del mar
 
@@ -81,7 +81,7 @@ del mar poseen torres elevadas como el faro del Caballo, que alza su estructura 
 a 24 metros sobre el mar. Funcionó durante 130 años y hoy, en desuso, es el hito más 
 llamativo de una de las rutas más fascinantes del litoral cántabro. 
 
-![faro de suances en Cantabria iluminando la noche](etheria-images/2020/04/faro-cantabria-suances-900x600.jpg "Faro de Suances, en la punta del Torco (Cantabria).")
+![faro de suances en Cantabria iluminando la noche](https://fotos.etheriamagazine.com/2020/04/faro-cantabria-suances-900x600.jpg "Faro de Suances, en la punta del Torco (Cantabria).")
 
 ## 6\. Suances, el vigilante de la ría
 
@@ -93,7 +93,7 @@ salvar a siete tripulantes del bergantín italiano 'Franceschino' que se hundió
 al abrirse una vía de agua en su casco. A poca distancia se halla el mirador sobre la 
 **playa de los Locos**, uno de los arenales más admirables del litoral cántabro. 
 
-![faro castillo de santa ana visto desde el mar](etheria-images/2020/04/faros-cantabria-castillo-santa-ana-900x470.jpg "Faro del Castillo de Santa Ana (Cantabria).")
+![faro castillo de santa ana visto desde el mar](https://fotos.etheriamagazine.com/2020/04/faros-cantabria-castillo-santa-ana-900x470.jpg "Faro del Castillo de Santa Ana (Cantabria).")
 
 ## 7\. Castillo de Santa Ana, mantener viva la luz
 
@@ -106,7 +106,7 @@ pasado, suena cada 60 segundos. En esta torre resalta, sobre todo, su espectacul
 fachada. Es uno de los faros de Cantabria más pintorescos y mejor conservados del 
 litoral cantábrico. 
 
-![faro isla de mouro en Cantabria azotado por las olas](etheria-images/2020/04/faros-cantabria-isla-mouro-900x585.jpg "Faro de la isla de Mouro (Santander, Cantabria).")
+![faro isla de mouro en Cantabria azotado por las olas](https://fotos.etheriamagazine.com/2020/04/faros-cantabria-isla-mouro-900x585.jpg "Faro de la isla de Mouro (Santander, Cantabria).")
 
 ## 8\. Isla de Mouro, fortaleza de torreros
 

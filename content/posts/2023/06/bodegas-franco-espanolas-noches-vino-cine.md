@@ -1,7 +1,7 @@
 ---
 title: "Fin de semana en Logroño con las noches de vino y cine de Bodegas Franco-Españolas"
 date: 2023-06-26
-coverImage: etheria-images/2023/06/bodegas-franco-espanolas-tardeojpg.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-tardeojpg.jpg
 categories: 
   - organiza-tu-viaje
   - experiencias-viajeras
@@ -18,7 +18,7 @@ tan nuestro como el cine de verano. Te contamos cómo maridar el tardeo y el bue
 con sus reconocidos vinos Diamante y Bordón y pasar así unos jueves de lujo. ¿Te lo vas 
 a perder? 
 
-![mujer sirviendo una copa de vino](etheria-images/2023/06/bodegas-franco-espanolas-vino-bordon.jpg "Tardes de vino y cine en Bodegas Franco-Españolas.")
+![mujer sirviendo una copa de vino](https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-vino-bordon.jpg "Tardes de vino y cine en Bodegas Franco-Españolas.")
 
 Las Bodegas Franco-Españolas atesoran más de 130 años de historia. Un camino que comenzó 
 en 1890 con sus dos vinos, **Diamante** (el primer blanco semidulce de Rioja) y **Rioja 
@@ -38,7 +38,7 @@ participa en grandes festivales de la ciudad como MUWI La Rioja Music Fest (en a
 ACTUAL (en enero). Y, por supuesto, con el ciclo de cine de verano que te contamos a 
 continuación. 
 
-![Terraza de las Bodegas Franco-Españolas al atardecer](etheria-images/2023/06/bodegas-franco-espanolas-tardeojpg.jpg "Terraza de las Bodegas Franco-Españolas antes de la proyección.")
+![Terraza de las Bodegas Franco-Españolas al atardecer](https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-tardeojpg.jpg "Terraza de las Bodegas Franco-Españolas antes de la proyección.")
 
 ## Cine de verano en las Bodegas Franco-Españolas
 
@@ -71,7 +71,7 @@ proyecta en versión original con subtítulos en castellano, con Peter Sellers c
 protagonista. Una película capaz de aunar risas e intriga a partes iguales con un relato 
 sobre la tensión prebélica de la Guerra Fría. 
 
-![carteles de películas](etheria-images/2023/06/bodegas-franco-espanolas-carteles.jpg "Películas del ciclo de cine de verano de Bodegas Franco-Españolas.")
+![carteles de películas](https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-carteles.jpg "Películas del ciclo de cine de verano de Bodegas Franco-Españolas.")
 
 El 13 de julio la pantalla al aire libre se llena de risas y emoción con _**Belle 
 Époque**_ (1992), la película de Fernando Trueba que ganó un Oscar y siete Goyas. Una 
@@ -97,7 +97,7 @@ acompañados de un aperitivo de embutido. También se puede optar al terminar po
 de blancos o una de “Rioja versus Ribera”. Las visitas son súper recomendables y se 
 pueden reservar en la página web de Bodegas Franco-Españolas. 
 
-![tres mujeres en las Bodegas Franco-Españolas](etheria-images/2023/06/bodegas-franco-espanolas-visita.jpg "Visita de la bodega.")
+![tres mujeres en las Bodegas Franco-Españolas](https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-visita.jpg "Visita de la bodega.")
 
 ## Una apuesta por el turismo sostenible
 
@@ -114,7 +114,7 @@ carbono generada por la actividad turística) y la social (con una política de
 colaboradores de proximidad, respeto y puesta en valor de las tradiciones y cultura 
 local y la agenda cultural a la que dedica el 9% del presupuesto anual). 
 
-![Fachada de las Bodegas Franco-Españolas](etheria-images/2023/06/bodegas-franco-espanolas-fachada.jpg "Fachada de las Bodegas Franco-Españolas.")
+![Fachada de las Bodegas Franco-Españolas](https://fotos.etheriamagazine.com/2023/06/bodegas-franco-espanolas-fachada.jpg "Fachada de las Bodegas Franco-Españolas.")
 
 ## Guía Práctica: Noches de vino y cine con Bodegas Franco-Españolas
 

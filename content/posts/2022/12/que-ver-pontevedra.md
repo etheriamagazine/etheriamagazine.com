@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Pontevedra: ciudades, islas, castros y rutas mágicas"
 date: 2022-12-14
-coverImage: etheria-images/2022/12/faro-ons.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/faro-ons.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -15,7 +15,7 @@ que son sus islas, los pazos y sus jardines de camelias hasta los castros más
 sobresalientes. ¿Nos acompañas a conocer los lugares imprescindibles que hay que ver en 
 Pontevedra? 
 
-![A Guarda, en Pontevedra.](etheria-images/2022/12/a-guarda-pontevedra.jpg "A Guarda, en Pontevedra.")
+![A Guarda, en Pontevedra.](https://fotos.etheriamagazine.com/2022/12/a-guarda-pontevedra.jpg "A Guarda, en Pontevedra.")
 
 La piedra nos lleva por un viaje a través de la provincia más fronteriza de Galicia a 
 través de 15 lugares imprescindibles de Pontevedra que no te puedes perder. Comenzaremos 
@@ -49,7 +49,7 @@ compostelana o vieira cuya fachada curva se abre a la plaza de A Ferrería. Prep
 porque también vas a conocer el casco antiguo más bonito de Galicia (junto al de 
 Santiago de Compostela, claro). 
 
-![Un paseo por Pontevedra.](etheria-images/2022/12/imprescindibles-Pontevedra.jpg "Un paseo por Pontevedra.")
+![Un paseo por Pontevedra.](https://fotos.etheriamagazine.com/2022/12/imprescindibles-Pontevedra.jpg "Un paseo por Pontevedra.")
 
 Abrigada al fondo de la ría y a orillas del río Lérez (no te pierdas su paseo fluvial) a 
 nosotras Pontevedra nos ha cautivado también por su hospitalidad. La verás en sus 
@@ -69,7 +69,7 @@ construir por el gremio de los mareantes en la zona más alta de la ciudad. Hast
 gótica que supera los cien metros para acoger a los pontevedreses más ilustres en el 
 camino a una nueva vida. 
 
-![Convento de San Francisco.](etheria-images/2022/12/pontevedra-convento-san-francisco.jpg "Convento de San Francisco.")
+![Convento de San Francisco.](https://fotos.etheriamagazine.com/2022/12/pontevedra-convento-san-francisco.jpg "Convento de San Francisco.")
 
 ? Separando las rías de Pontevedra y Vigo se extiende la **península do Morrazo**. En 
 ella se encuentra el pueblo de **Marín** con uno de los puertos más activos de Galicia y 
@@ -81,7 +81,7 @@ atractivas con su fina y blanca arena que te costará quedarte solo con una.
 ✅ Sigue explorando [la costa de Pontevedra con nuestros planes para pequeños y 
 mayores](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/). 
 
-![Playa de Rodas, en las islas Cíes, uno de los más bonitos del mundo](etheria-images/2021/07/galicia-playa-rodas-islas-cies.jpg "La playa de Rodas, en las islas Cíes, es una de las más bonitas del mundo. © Pepa G.")
+![Playa de Rodas, en las islas Cíes, uno de los más bonitos del mundo](https://fotos.etheriamagazine.com/2021/07/galicia-playa-rodas-islas-cies.jpg "La playa de Rodas, en las islas Cíes, es una de las más bonitas del mundo. © Pepa G.")
 
 ## Islas de Pontevedra
 
@@ -105,7 +105,7 @@ hagas estarás pisando la blanquísima arena de una de las playas más bonitas d
 español y del mundo, según el diario _The Guardian_. Además resulta sorprendente por el 
 color azul caribeño de sus aguas. 
 
-![Islas Cíes, unas de las más bonitas de Pontevedra.](etheria-images/2022/12/islas-Cies.jpg "Islas Cíes, unas de las más bonitas de Pontevedra.")
+![Islas Cíes, unas de las más bonitas de Pontevedra.](https://fotos.etheriamagazine.com/2022/12/islas-Cies.jpg "Islas Cíes, unas de las más bonitas de Pontevedra.")
 
 ? Si viajas en temporada alta (desde principios de julio hasta el 15 de septiembre) 
 tienes que solicitar una autorización de visita de la Xunta de Galicia. Si vas a 
@@ -129,7 +129,7 @@ cuevas labradas por el mar o furnas. Las dos grandes ensenadas del calmado litor
 Ons que mira hacia la ría es donde se estableció la población. Llegó a superar el medio 
 millar de vecinos distribuidos en nueve aldeas. 
 
-![Faro de la isla de Ons, Pontevedra](etheria-images/2022/12/faro-ons.jpg "Faro de Ons.")
+![Faro de la isla de Ons, Pontevedra](https://fotos.etheriamagazine.com/2022/12/faro-ons.jpg "Faro de Ons.")
 
 ?Camina por la meseta de tojos y brezo que tapiza el altiplano de la isla, mientras las 
 gaviotas patiamarillas y cormoranes moñudos acompañan tus pasos para llegar al faro. 
@@ -144,7 +144,7 @@ marítimo que es punto de encuentro de la vida nocturna veraniega.
 ✅ Planea tu viaje a [Ons con nuestros consejos 
 imprescindibles](https://etheriamagazine.com/2020/08/06/excursion-isla-de-ons-como-llegar-que-ver/). 
 
-![Laureles en Cortegada.](etheria-images/2022/12/Cortegada-laureles.jpg "Laureles en Cortegada.")
+![Laureles en Cortegada.](https://fotos.etheriamagazine.com/2022/12/Cortegada-laureles.jpg "Laureles en Cortegada.")
 
 ### Cortegada
 
@@ -157,7 +157,7 @@ recorrerla, como los numerosos peregrinos que antaño la visitaban por invocar l
 milagros de curación, disfrutar de su orilla marítima o caminar hacia su interior para 
 sentir la magia que esconde entre laureles. 
 
-![Isla de Cortegada.](etheria-images/2022/12/isla-Cortegada.jpg "Isla de Cortegada.")
+![Isla de Cortegada.](https://fotos.etheriamagazine.com/2022/12/isla-Cortegada.jpg "Isla de Cortegada.")
 
 ### A Illa y A Toxa
 
@@ -179,7 +179,7 @@ por el tranquilo pinar que cubre el centro de la isla.
 ✅ Sigue leyendo si lo tuyo es una [escapada romántica a La Toja y sus aguas 
 milagrosas](https://etheriamagazine.com/2021/02/12/la-toja-escapada-romantica-termal-en-galicia/). 
 
-![A Illa de Arousa.](etheria-images/2022/12/A-Illa-de-Arousa.jpg "A Illa de Arousa.")
+![A Illa de Arousa.](https://fotos.etheriamagazine.com/2022/12/A-Illa-de-Arousa.jpg "A Illa de Arousa.")
 
 ## Rutas en Pontevedra
 
@@ -203,7 +203,7 @@ en la calle Pescadería mientras las ostreras abren las legendarias ostras ante 
 Solo aderezadas con un chorrito de limón recién exprimido y concentran la esencia 
 marítima viguesa. 
 
-![Vistas de Vigo.](etheria-images/2022/12/vistas-vigo.jpg "Vistas de Vigo. © Jordi Vich Navarro")
+![Vistas de Vigo.](https://fotos.etheriamagazine.com/2022/12/vistas-vigo.jpg "Vistas de Vigo. © Jordi Vich Navarro")
 
 En la **praza da Igrexa** se concentran los jóvenes al caer la tarde. Mientras que la 
 calle o rúa dos Cesteiros es cita obligada para los amantes de la artesanía en mimbre, 
@@ -228,7 +228,7 @@ miradores urbanos de los montes O Castro y A Guía.
 bueno](https://etheriamagazine.com/2020/11/24/comer-en-vigo-mejores-restaurantes-furanchos/) 
 en la escapada gourmand que te hemos enlazado. 
 
-![vigo, una visita obligada en Pontevedra](etheria-images/2022/12/que-ver-Vigo.jpg "Vigo, una visita obligada.")
+![vigo, una visita obligada en Pontevedra](https://fotos.etheriamagazine.com/2022/12/que-ver-Vigo.jpg "Vigo, una visita obligada.")
 
 ### El Bajo Miño (O Baixo Miño)
 
@@ -246,7 +246,7 @@ albariños. Además, cuenta con un fascinante patrimonio de molinos de agua como
 molinos de Folón y el Picón que pueden recorrerse por una senda señalizada que discurre 
 entre cascadas. 
 
-![Desembocadura del río Miño.](etheria-images/2022/12/Baixo-Mino-pontevedra.jpg "Desembocadura del río Miño.")
+![Desembocadura del río Miño.](https://fotos.etheriamagazine.com/2022/12/Baixo-Mino-pontevedra.jpg "Desembocadura del río Miño.")
 
 ?**A Guarda**, en la misma desembocadura del Miño, vive apegada a la vida en el agua, ya 
 sea con barcos en alta mar o pescando en el río. Sobre las últimas aguas del Miño navega 
@@ -270,7 +270,7 @@ al **castillo de Soutomaior** (a 15 kilómetros de Pontevedra y 20 kilómetros d
 Definitivamente no se puede visitar Pontevedra sin asomarse a tan esplendorosos 
 conjuntos monumentales de plantas y piedra. 
 
-![Pazo de Oca.](etheria-images/2022/12/Pazo-de-Oca-pontevedra.jpg "Pazo de Oca.")
+![Pazo de Oca.](https://fotos.etheriamagazine.com/2022/12/Pazo-de-Oca-pontevedra.jpg "Pazo de Oca.")
 
 ### A rapa das bestas, entre caballos salvajes
 
@@ -293,7 +293,7 @@ prehistórica del hombre con el caballo.
 ✅ Prepara todos los detalles para [acudir A rapa das 
 bestas](https://etheriamagazine.com/2019/06/24/rapa-das-bestas-sabucedo-pontevedra-galicia/). 
 
-![Rapa das bestas, una de las fiestas más espectaculares de Galicia.](etheria-images/2022/12/A-Estrada-rapa-das-bestas.jpg "Rapa das bestas, una de las fiestas más espectaculares de Galicia.")
+![Rapa das bestas, una de las fiestas más espectaculares de Galicia.](https://fotos.etheriamagazine.com/2022/12/A-Estrada-rapa-das-bestas.jpg "Rapa das bestas, una de las fiestas más espectaculares de Galicia.")
 
 ## Castros, tesoros de piedra
 
@@ -323,7 +323,7 @@ Trega). Las visitas guiadas para grupos (mínimo 12 personas) cuestan 5 € por 
 Patronato Municipal Monte Trega también organiza visitas guiadas gratuitas con horario 
 que varía según la estación del año (reservas tel. 986 610 504). 
 
-![Castro Santa Trega, en A Guarda.](etheria-images/2022/12/Castro-Santa-Trega-A-Guarda.jpg "Castro Santa Trega, en A Guarda.")
+![Castro Santa Trega, en A Guarda.](https://fotos.etheriamagazine.com/2022/12/Castro-Santa-Trega-A-Guarda.jpg "Castro Santa Trega, en A Guarda.")
 
 ### Castro de Penalba y la piedra da Serpe, en Campo Lameiro
 
@@ -341,7 +341,7 @@ entorno del castro, Campo Lameiro, situado en el valle del río Lérez, reúne u
 mayores conjuntos de petroglifos al aire libre conocidos. Visita el Parque Arqueolóxico 
 da Arte Rupestre Campo Lameiro para conocer tan magnífico tesoro en piedra pontevedrés. 
 
-![Castro de Peñalba, en Pontevedra.](etheria-images/2022/12/Castro-de-Penalba.jpg "Castro de Peñalba, en Pontevedra.")
+![Castro de Peñalba, en Pontevedra.](https://fotos.etheriamagazine.com/2022/12/Castro-de-Penalba.jpg "Castro de Peñalba, en Pontevedra.")
 
 ### Adro Vello, en O Grove
 
@@ -355,7 +355,7 @@ Edad Media se convirtió en fortaleza defensiva ante las invasiones por mar. Tan
 importante yacimiento arqueológico es lugar para que las piedras hablaran o al menos 
 susurraran su ya larga historia. 
 
-![Adro Vello, en O Grove.](etheria-images/2022/12/adro-vello-o-grove.jpg "Adro Vello, en O Grove.")
+![Adro Vello, en O Grove.](https://fotos.etheriamagazine.com/2022/12/adro-vello-o-grove.jpg "Adro Vello, en O Grove.")
 
 ### A Lanzada, en Sanxenxo
 
@@ -368,7 +368,7 @@ También se sabe de su uso como necrópolis romana por los restos humanos hallad
 Edad Media, en la punta más avanzada hacia el mar, se levantó una fortaleza para 
 defender la costa de invasiones marítimas. 
 
-![A Lanzada, en Sanxenxo.](etheria-images/2022/12/pontevedra-A-Lanzada.jpg "A Lanzada, en Sanxenxo.")
+![A Lanzada, en Sanxenxo.](https://fotos.etheriamagazine.com/2022/12/pontevedra-A-Lanzada.jpg "A Lanzada, en Sanxenxo.")
 
 ### Castro Alobre, en Vilagarcía de Arousa
 
@@ -386,7 +386,7 @@ contemplar una invocación a la buena caza mediante grabados de caballos, serpie
 infinidad de ciervos en movimiento. Algunos aparecen detenidos, casi como posando para 
 ser inmortalizados por un artista de la Edad del Bronce. 
 
-![Castro Alobre, en Vilagarcía de Arousa.](etheria-images/2022/12/Castro-Alobre-Vilagarcia.jpg "Castro Alobre, en Vilagarcía de Arousa.")
+![Castro Alobre, en Vilagarcía de Arousa.](https://fotos.etheriamagazine.com/2022/12/Castro-Alobre-Vilagarcia.jpg "Castro Alobre, en Vilagarcía de Arousa.")
 
 ### Monte o Castro, en Ribadumia
 
@@ -399,6 +399,6 @@ arqueológicas se han encontrado, sobre todo elaboradas en cerámica, añadiendo
 valiosa información sobre el comercio que mantuvo con otros pueblos, incluso 
 mediterráneos, con los que llegaron a comerciar. 
 
-![Monte o Castro, en Ribadumia.](etheria-images/2022/12/Monte-O-Castro-850x568.jpg "Monte o Castro, en Ribadumia.")
+![Monte o Castro, en Ribadumia.](https://fotos.etheriamagazine.com/2022/12/Monte-O-Castro-850x568.jpg "Monte o Castro, en Ribadumia.")
 
 \*Fotografías cedidas por Turismo de Rías Baixas/ Diputación de Pontevedra

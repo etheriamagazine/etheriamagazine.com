@@ -1,7 +1,7 @@
 ---
 title: "Cenar con amigas en Arallo Taberna (Madrid)"
 date: 2018-05-17
-coverImage: etheria-images/2018/05/Taberna-Arallo-2.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-2.jpg
 categories: 
   - mejores-restaurantes-gastronomia
 authors: 
@@ -13,7 +13,7 @@ añadiría yo) que es mantener vivo un círculo de amigas. Sí, discrimino: solo
 solo amiguísimas. De esas que conservas desde antes de formarte como persona adulta y 
 formal, esas con las que has compartido despiporres, desenfrenos, lloros y risas. 
 
-![Arallo ha desembarcado en Madrid desde A Coruña.](etheria-images/2018/05/Taberna-Arallo-2.jpg "Arallo ha desembarcado en Madrid desde A Coruña.")
+![Arallo ha desembarcado en Madrid desde A Coruña.](https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-2.jpg "Arallo ha desembarcado en Madrid desde A Coruña.")
 
 Bien, yo también tengo mi grupo de amigas de “cena y copa”, con las que quedo en cuanto 
 la ocasión se nos hace propicia. Y la encargada de escoger restaurante soy yo. Una tarea 
@@ -26,7 +26,7 @@ caso, se vuelve muy poderosa de cara a mi elección de “noche de chicas”. Pe
 todo, lo escogí porque es un local **donde comes de vicio**, a un **precio muy 
 ajustado** y que, además, **irradia muy buen rollo**. 
 
-![Una cocina deliciosa para disfrutar en un ambiente relajado.](etheria-images/2018/10/Taberna-Arallo-1-e1553269334578.jpg "Una cocina deliciosa para disfrutar en un ambiente relajado.")
+![Una cocina deliciosa para disfrutar en un ambiente relajado.](https://fotos.etheriamagazine.com/2018/10/Taberna-Arallo-1-e1553269334578.jpg "Una cocina deliciosa para disfrutar en un ambiente relajado.")
 
 Pero empecemos por la comida. Arallo desembarca en Madrid, desde A Coruña, hace más o 
 menos un año. Pertenecen al grupo Amicalia, padres de restaurantazos como **Alborada**, 
@@ -36,7 +36,7 @@ mezclar con cabeza, de ahí que ellos mismos se definan como “cocina contamina
 cocina “enxebre” “contaminada” con las influencias de los viajes de sus cocineros. Y 
 funciona, ¡y cómo funciona! 
 
-![La carta de la taberna Arallo ofrece comida sencilla y deliciosa para cenas con amigas](etheria-images/2018/05/Taberna-Arallo-3.jpg "Acertarás con cualquier elección de su carta.")
+![La carta de la taberna Arallo ofrece comida sencilla y deliciosa para cenas con amigas](https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-3.jpg "Acertarás con cualquier elección de su carta.")
 
 ## Una carta divertida y sin riesgos
 
@@ -52,7 +52,7 @@ croquetas con niguiri de merluza curada en sal y azúcar. Hay que probarlas sí 
 beber escogí un blanco que me encanta, una treixadura aromática y sin excesiva acidez 
 (que luego nos duele el esófago): **The Flower and the Bee**. 
 
-![Arallo es todo barra, una barra de cocina desde la que cotillear su buen hacer.](etheria-images/2018/05/Taberna-Arallo-4.jpg "Arallo es todo barra, una barra de cocina desde la que cotillear su buen hacer.")
+![Arallo es todo barra, una barra de cocina desde la que cotillear su buen hacer.](https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-4.jpg "Arallo es todo barra, una barra de cocina desde la que cotillear su buen hacer.")
 
 ## Cocina en directo
 

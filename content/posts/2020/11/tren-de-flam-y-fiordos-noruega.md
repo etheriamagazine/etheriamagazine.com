@@ -1,7 +1,7 @@
 ---
 title: "El tren de Flåm, el recorrido más bonito del mundo"
 date: 2020-11-19
-coverImage: etheria-images/2020/11/tren-flam-noruega.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/tren-flam-noruega.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -13,7 +13,7 @@ recorrido del tren noruego de Flåm (o Flamsbana). Considerado entre los más he
 mundo, es uno de los viajes en tren que hay que hacer, al menos, una vez en la vida. Te 
 damos todos los datos para organizarlo. 
 
-![Tren de Flåm.](etheria-images/2020/11/tren-flam-noruega.jpg "Tren de Flåm. © Wolf Vandierendonck")
+![Tren de Flåm.](https://fotos.etheriamagazine.com/2020/11/tren-flam-noruega.jpg "Tren de Flåm. © Wolf Vandierendonck")
 
 Noruega ofrece grandes atractivos al viajero, de eso no hay ninguna duda. En Etheria 
 Magazine ya hemos declarado nuestro amor incondicional a la cultura de Oslo, y a la 
@@ -37,7 +37,7 @@ supusieron todo un reto: 18 de sus 20 túneles tuvieron que ser excavados sin ay
 maquinaria, y las laderas eran tan empinadas que los trabajadores vivían en un riesgo 
 constante. Aún así, sólo murieron dos en todo el tiempo que duró su construcción. 
 
-![Coloridos tejados de Flåm.](etheria-images/2020/11/noruega-tren-tejados-flam.jpg "Coloridos tejados de Flåm. © Kuntal Sahni")
+![Coloridos tejados de Flåm.](https://fotos.etheriamagazine.com/2020/11/noruega-tren-tejados-flam.jpg "Coloridos tejados de Flåm. © Kuntal Sahni")
 
 La recuperación de esta línea para el turismo, en 1998, logró salvarla de su 
 desaparición, ya que como línea regular ya no resultaba rentable. Y gracias a ello, hoy 
@@ -51,7 +51,7 @@ hacer de ida, o de ida y vuelta, desde cualquiera de las dos estaciones. Si lo i
 en **Myrdal**, aprovecha para tomar unas tortitas caseras en el histórico **Café 
 Rallaren** antes de iniciar el viaje. 
 
-![vistas del tren de Flam](etheria-images/2020/11/tren-flam-myrdal-noruega.jpg "Interior y vistas del tren de Flåm. © PG/ Etheria M.")
+![vistas del tren de Flam](https://fotos.etheriamagazine.com/2020/11/tren-flam-myrdal-noruega.jpg "Interior y vistas del tren de Flåm. © PG/ Etheria M.")
 
 Una vez que subes al tren te esperan **20 kilómetros de recorrido**, unos 50 minutos de 
 traqueteo y paisajes de infarto. Los vagones, aunque cuidados y con sistema de audio, 
@@ -62,7 +62,7 @@ altitud, se irán sucediendo panorámicas sorprendentes. No faltan cataratas que
 su caudal con furia, riachuelos que se abren paso por la montaña, cumbres nevadas, 
 desfiladeros, túneles o bucólicas granjas con rebaños alrededor. 
 
-![granjas en el tren de flam](etheria-images/2020/11/vistas-tren-flam.jpg "Granjas en el itinerario del Tren de Flåm. © PG/ Etheria M.")
+![granjas en el tren de flam](https://fotos.etheriamagazine.com/2020/11/vistas-tren-flam.jpg "Granjas en el itinerario del Tren de Flåm. © PG/ Etheria M.")
 
 ### Cascada de Kjosfossen
 
@@ -76,7 +76,7 @@ parece haber salido de una leyenda nórdica. Con la piel aún erizada, y mojada 
 salpicaduras del agua de la catarata, vuelves al tren. Continúa el recorrido, con más 
 caídas de agua impresionantes y montañas que se elevan hasta el cielo... 
 
-![Cascada Kjosfossen](etheria-images/2020/11/Cascada-Kjosfossen.jpg "Cascada Kjosfossen. © PG/ Etheria M.")
+![Cascada Kjosfossen](https://fotos.etheriamagazine.com/2020/11/Cascada-Kjosfossen.jpg "Cascada Kjosfossen. © PG/ Etheria M.")
 
 El itinerario de este tren **apenas dura una hora** pero la experiencia es tan 
 emocionante que merece la pena viajar a Noruega para hacerlo. 
@@ -86,7 +86,7 @@ encantados también porque es una de las líneas de ferrocarril más inclinadas 
 (en un ancho de vía normal). Casi el 80% de su trazado tiene una pendiente del 5,5% y el 
 radio de curva más pequeño es de 130 metros. 
 
-![Vistas desde el Tren de Flåm.](etheria-images/2020/11/paisaje-tren-flam.jpg "Vistas desde el Tren de Flåm. © PG/ Etheria M.")
+![Vistas desde el Tren de Flåm.](https://fotos.etheriamagazine.com/2020/11/paisaje-tren-flam.jpg "Vistas desde el Tren de Flåm. © PG/ Etheria M.")
 
 ## El tren de Flåm, principio y final del viaje
 
@@ -103,7 +103,7 @@ en kayak por el fiordo y varias rutas senderistas. Y si no eres muy deportista, 
 un museo y tiendas donde curiosear y comprar ropa de abrigo, en todas venden plumas y 
 chaquetas polares. 
 
-![Tienda en Flåm.](etheria-images/2020/11/pueblo-flam-tren-noruega.jpg "Tienda en Flåm. © PG/ Etheria Magazine")
+![Tienda en Flåm.](https://fotos.etheriamagazine.com/2020/11/pueblo-flam-tren-noruega.jpg "Tienda en Flåm. © PG/ Etheria Magazine")
 
 ## Cómo organizar el viaje 
 
@@ -114,7 +114,7 @@ nutshell’](https://www.norwaynutshell.com/original-tour/), en el que incluimos
 trayectos de tren, barco y autobús. Lo planteamos como una escapada de dos días desde la 
 capital noruega, pero se puede ampliar y quedarte algunas noches en Bergen. 
 
-![Pueblo de Flåm reflejado en las aguas del fiordo.](etheria-images/2020/11/pueblo-flam-noruega.jpg "Pueblo de Flåm reflejado en las aguas del fiordo. © PG/ Etheria M.")
+![Pueblo de Flåm reflejado en las aguas del fiordo.](https://fotos.etheriamagazine.com/2020/11/pueblo-flam-noruega.jpg "Pueblo de Flåm reflejado en las aguas del fiordo. © PG/ Etheria M.")
 
 ¿Cómo lo hicimos? Salimos desde la estación central de Oslo en un tren que nos llevaría 
 hasta Myrdal (el viaje es en un tren de línea regular y el paisaje es interesante porque 
@@ -125,7 +125,7 @@ continuamos, en el Tren de Flåm, hasta **Flåm**.
 En dicha localidad subimos a un Ferry para hacer un pequeño crucero por los fiordos que 
 nos llevó desde Aurlandsfjord, pasando por Nærøyfjord, hasta el pueblo de **Gudvangen**. 
 
-![embarcadero crucero de flam](etheria-images/2020/11/crucero-desde-flam-noruega.jpg "Embarcadero de Flåm. © PG/ Etheria Magazine")
+![embarcadero crucero de flam](https://fotos.etheriamagazine.com/2020/11/crucero-desde-flam-noruega.jpg "Embarcadero de Flåm. © PG/ Etheria Magazine")
 
 El paisaje en los fiordos es tanto o más sorprendente que el del tren, de hecho, este 
 fiordo está reconocido como Patrimonio de la Humanidad por la Unesco. Consejo: trata de 
@@ -137,7 +137,7 @@ de curvas inverosímiles y emocionantes. En su estación hay que tomar otra deci
 volver a Oslo o continuar hasta Bergen. Si tienes tiempo en Voss, anímate a dar un paseo 
 por su casco antiguo, tiene casas muy pintorescas. 
 
-![paisaje fiordo noruego](etheria-images/2020/11/paisajes-fiordo-noruego.jpg "Paisaje desde el ferry que surca los fiordos noruegos. © PG/ Etheria M.")
+![paisaje fiordo noruego](https://fotos.etheriamagazine.com/2020/11/paisajes-fiordo-noruego.jpg "Paisaje desde el ferry que surca los fiordos noruegos. © PG/ Etheria M.")
 
 ### Cuándo hacer el viaje del Tren de Flåm
 

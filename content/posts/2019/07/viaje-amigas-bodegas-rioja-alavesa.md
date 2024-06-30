@@ -1,7 +1,7 @@
 ---
 title: "A la fresca de las bodegas en La Rioja Alavesa"
 date: 2019-07-25
-coverImage: etheria-images/2019/07/rioja-alavesa-segway.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-segway.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -12,7 +12,7 @@ authors:
 
 En bicicleta, a caballo, en segway, practicando senderismo o con una copa en la mano, recorrer la Rioja Alavesa de bodega en bodega es uno de esos planes que hay que hacer con amigas sí o sí.
 
-![senderismo, rioja alavesa, bodegas alava](etheria-images/2019/07/rioja-alavesa.jpg "Senderismo en Rioja Alavesa.")
+![senderismo, rioja alavesa, bodegas alava](https://fotos.etheriamagazine.com/2019/07/rioja-alavesa.jpg "Senderismo en Rioja Alavesa.")
 
 Nada más llegar a la Rioja Alavesa te das cuenta enseguida: en esta tierra no solo han 
 aprovechado las virtudes del clima y del terruño para hacer algunos de los mejores vinos 
@@ -22,7 +22,7 @@ Así, además de las grandes bodegas construidas por arquitectos de apellido ilu
 actividades para disfrutar del paisaje vinícola desde múltiples puntos de vista, no solo 
 el de la copa. 
 
-![rutas rioja alavesa, rutas de pueblos en alava](etheria-images/2019/07/rioja-alavesa-ruta.jpg "De pueblo en pueblo por Rioja Alavesa.")
+![rutas rioja alavesa, rutas de pueblos en alava](https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-ruta.jpg "De pueblo en pueblo por Rioja Alavesa.")
 
 ## Viaje al Centro de la Tierra
 
@@ -40,7 +40,7 @@ Su antiguo propietario, **Félix María Samaniego**, fue el autor de fábulas ta
 como _La Cigarra_ _y la Hormiga,_ o _La Zorra y las uvas_. El mismísimo fabulista, 
 encarnado en un actor, será quien te guíe por los recovecos de estos calados históricos. 
 
-![rutas por rioja alavesa, vendimia, pisar las uvas](etheria-images/2019/07/rioja-alavesa-bodegas.jpg "¿Te apetecería participar en el pisado de uvas?")
+![rutas por rioja alavesa, vendimia, pisar las uvas](https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-bodegas.jpg "¿Te apetecería participar en el pisado de uvas?")
 
 ## ¡Manos a la obra!
 
@@ -53,7 +53,7 @@ Valdemar](http://enoturismo.valdemar.es), [Dominio de
 Berzal](http://www.dominioberzal.com), [Tierra](http://www.tierrayvino.com) o [Bodegas 
 Eguren Ugarte](https://egurenugarte.com/), entre otras. 
 
-![ruta con amigas rioja alavesa](etheria-images/2019/07/rioja-alavesa-bodega.jpg "Enoturismo en Rioja Alavesa.")
+![ruta con amigas rioja alavesa](https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-bodega.jpg "Enoturismo en Rioja Alavesa.")
 
 Si con la actividad campestre no has tenido ni para empezar, hay otras opciones de 
 turismo activo entre viñedos. Algunas bodegas ofrecen la posibilidad de visitar los 
@@ -65,7 +65,7 @@ ciudades. Como comprobarás en la Rioja Alavesa, también son aptos para recorre
 campestres. Y si el calor aprieta, vuestra mejor opción será hacer una ruta en kayak o 
 en _stand up paddle_ por el río Ebro. 
 
-![rutas por rioja alavesa, rutas segways, viaje con amiga alava](etheria-images/2019/07/rioja-alavesa-segway.jpg "Ruta en segway, una divertida experiencia.")
+![rutas por rioja alavesa, rutas segways, viaje con amiga alava](https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-segway.jpg "Ruta en segway, una divertida experiencia.")
 
 Si eres de las que disfruta con la mochila y las botas de montaña, una idea muy 
 desconocida y original es recorrer alguna etapa del [Camino 
@@ -89,7 +89,7 @@ Interior. • **Álava Prehistórica**. Existen numerosos monumentos megalítico
 por la geografía alavesa, entre ellos los dólmenes de Aizkomendi, Sorginetxe y La 
 Chabola de la Hechicera, o el Poblado de la Hoya, en la Rioja Alavesa. 
 
-![ruta del vino la mancha, ruta en coche la mancha](etheria-images/2019/03/ruta-del-vino-la-mancha.jpg)
+![ruta del vino la mancha, ruta en coche la mancha](https://fotos.etheriamagazine.com/2019/03/ruta-del-vino-la-mancha.jpg)
 
 ### Guía de viaje | Etheria Magazine
 

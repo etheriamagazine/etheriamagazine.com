@@ -1,7 +1,7 @@
 ---
 title: "Hotel boutique The Reserve, exclusividad al borde del Atlántico en Madeira"
 date: 2023-10-28
-coverImage: etheria-images/2023/10/the-reserve-Jacaranda-Lounge.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/10/the-reserve-Jacaranda-Lounge.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -15,7 +15,7 @@ amantes del lujo de la mano de la marca Savoy Signature. Si buscas darte un capr
 lo grande, este nuevo hotel de cinco estrellas te está esperando para tu próxima 
 escapada a esta preciosa isla portuguesa. 
 
-![Entrada del hotel boutique The Reserve.](etheria-images/2023/10/Hotel-the-reserve-entrada.jpg "Entrada del hotel boutique The Reserve.")
+![Entrada del hotel boutique The Reserve.](https://fotos.etheriamagazine.com/2023/10/Hotel-the-reserve-entrada.jpg "Entrada del hotel boutique The Reserve.")
 
 Nos encantan las nuevas propuestas hoteleras. En este caso la recién inaugurada marca 
 Savoy Signature llega con una alternativa de alojamiento en Madeira que cumplirá con 
@@ -37,7 +37,7 @@ la estancia de quienes se alojen en el hotel. Así, el cliente sólo tiene una p
 contacto que le ayuda a gestionar con otros departamentos del hotel las reservas en 
 restaurantes, las excursiones o el servicio de habitaciones, por ejemplo. 
 
-![Jacarandá Lounge en The Reserve.](etheria-images/2023/10/the-reserve-madeira-Jacaranda-Lounge.jpg "Jacarandá Lounge en The Reserve.")
+![Jacarandá Lounge en The Reserve.](https://fotos.etheriamagazine.com/2023/10/the-reserve-madeira-Jacaranda-Lounge.jpg "Jacarandá Lounge en The Reserve.")
 
 ## El lujo más exclusivo
 
@@ -57,7 +57,7 @@ Otras de las ventajas que recibirán los clientes del hotel y que marcan la dife
 son el embalaje y desembalaje del equipaje, el planchado o la limpieza de zapatos (un 
 par gratuito por día). 
 
-![spa de The Reserve](etheria-images/2023/10/the-reserve-madeira-Laurea-Spa-relajacion.jpg "Zona de relajación del spa del hotel, Laurea.")
+![spa de The Reserve](https://fotos.etheriamagazine.com/2023/10/the-reserve-madeira-Laurea-Spa-relajacion.jpg "Zona de relajación del spa del hotel, Laurea.")
 
 ## Tipos de habitación en The Reserve
 
@@ -68,7 +68,7 @@ ejemplo, las **Deluxe Room** están disponibles en azul cielo, verde o marrón y
 **Deluxe Suite** en azul marino, azul cielo y verde. Existen también **Suites con dos o 
 tres habitaciones**, perfectas para familias. 
 
-![Piscina privada de una de las Pool Suite de The Reserve](etheria-images/2023/10/the-reserve-madeira-Pool-Suite.jpg "Piscina privada de una de las Pool Suite.")
+![Piscina privada de una de las Pool Suite de The Reserve](https://fotos.etheriamagazine.com/2023/10/the-reserve-madeira-Pool-Suite.jpg "Piscina privada de una de las Pool Suite.")
 
 Para obtener un grado aún mayor de lujo y exclusividad, están disponibles las **Pool 
 Suites**, con piscina privada; y las **Suites The Retreat**, las más espaciosas (tienen 
@@ -83,7 +83,7 @@ Dentro del espacio de The Reserve se puede acceder a dos espacios privilegiados:
 informal como comer o cenar. Y el restaurante **Nikkei**, que en la planta 16 de The 
 Reserve ofrece la cocina japonesa más delicada. 
 
-![Exterior del Club Jacarandá en The Reserve.](etheria-images/2023/10/the-reserve-Jacaranda-Lounge.jpg "Exterior del Club Jacarandá en The Reserve.")
+![Exterior del Club Jacarandá en The Reserve.](https://fotos.etheriamagazine.com/2023/10/the-reserve-Jacaranda-Lounge.jpg "Exterior del Club Jacarandá en The Reserve.")
 
 Como The Reserve se encuentra junto al **Savoy Palace**, los clientes tienen a su 
 disposición los excelentes restaurantes de este hotel: **Galáxia Skyfood**, con una 
@@ -109,7 +109,7 @@ sauna, el baño de vapor, el jacuzzi, las duchas sensoriales o la piscina climat
 Además, es promesa de unas divertidas a la vez que relajantes tardes en su **Champagne & 
 Nails Bar** y en el salón de belleza. 
 
-![Piscina interior del spa Laurea de The Reserve](etheria-images/2023/10/the-reserve-Laurea-Spa-zona-aguas.jpg "Piscina interior del spa Laurea.")
+![Piscina interior del spa Laurea de The Reserve](https://fotos.etheriamagazine.com/2023/10/the-reserve-Laurea-Spa-zona-aguas.jpg "Piscina interior del spa Laurea.")
 
 Todo en este spa recuerda a la isla, desde la paleta de colores de la decoración hasta 
 las cascadas de su piscina o los aromas que recuerdan a la brisa del Atlántico. En 

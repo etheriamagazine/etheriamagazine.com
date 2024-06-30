@@ -1,7 +1,7 @@
 ---
 title: "Cómo disfrutar de Brasil sin mitos ni prejuicios"
 date: 2018-11-26
-coverImage: etheria-images/2018/11/Brasil-cristo-redentor.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/Brasil-cristo-redentor.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -14,7 +14,7 @@ y algunos hombres nos relatan cómo ven sus relaciones con sus compatriotas y co
 turistas. Te contamos cómo disfrutar de Brasil sin mitos, siempre con el fondo de los 
 maravillosos paisajes brasileños. 
 
-![Pan de Azucar en Brasil](etheria-images/2018/11/Brasil-rio-de-janeiro-1024x683.jpg "Teleférico de Pan de Azúcar (Río de Janeiro).")
+![Pan de Azucar en Brasil](https://fotos.etheriamagazine.com/2018/11/Brasil-rio-de-janeiro-1024x683.jpg "Teleférico de Pan de Azúcar (Río de Janeiro).")
 
 En este artículo la escritora y periodista Elisabeth G. Iborra nos cuenta de primera 
 mano cómo las cosas no son siempre lo que parecen. Un ejemplo es Brasil (un país que 
@@ -32,7 +32,7 @@ impresionante **Pan de Azúcar** y, enfrente, Nitéroi, con otros montes y playa
 conforman un paisaje espectacular. No verás otra ciudad tan integrada en la naturaleza y 
 que absorba tanto su belleza como Río. 
 
-![Cristo Redentor, en Río de Janeiro.](etheria-images/2018/11/Brasil-cristo-redentor-1024x683.jpg "Cristo Redentor, en Río de Janeiro.")
+![Cristo Redentor, en Río de Janeiro.](https://fotos.etheriamagazine.com/2018/11/Brasil-cristo-redentor-1024x683.jpg "Cristo Redentor, en Río de Janeiro.")
 
 ### Ipanema y Copacabana
 
@@ -43,7 +43,7 @@ feos y, como te pille el viento, te va a desmontar la idealización. Casi que te
 parecer más virgen la playa de **Copacabana**, que además está más animada que Ipanema 
 con sus chiringuitos en el paseo marítimo. 
 
-![Playa de Copacabana](etheria-images/2018/11/Brasil-copacabana-1024x683.jpg "Playa de Copacabana.")
+![Playa de Copacabana](https://fotos.etheriamagazine.com/2018/11/Brasil-copacabana-1024x683.jpg "Playa de Copacabana.")
 
 ### Barrio de Santa Teresa
 
@@ -72,7 +72,7 @@ separado.
 > Lo más sorprendente es que ¡las brasileñas no usan tanga!, utilizan las bragas 
 > brasileiras que quedan a mitad del pompis. Otro mito caído. 
 
-![paseo marítimo en Niterói](etheria-images/2018/11/Brasil-Niteroi-1024x576.jpg "Niterói, ciudad dormitorio cerca de Río de Janeiro.")
+![paseo marítimo en Niterói](https://fotos.etheriamagazine.com/2018/11/Brasil-Niteroi-1024x576.jpg "Niterói, ciudad dormitorio cerca de Río de Janeiro.")
 
 ## Salvador de Bahía
 
@@ -103,7 +103,7 @@ en una sola madrugada.
 > La belleza está en sus playas, sin duda alguna, disfrútalas y dale a la yuca con carne, 
 > riquísima. 
 
-![Puerto de Búzios](etheria-images/2018/11/Brasil-Buzios-1024x418.jpg "Imagen de Búzios.")
+![Puerto de Búzios](https://fotos.etheriamagazine.com/2018/11/Brasil-Buzios-1024x418.jpg "Imagen de Búzios.")
 
 ## Ouro Preto, más aprendizaje
 
@@ -116,7 +116,7 @@ _rodoviaria_ a la plaza Tiradentes, las vistas ya son impresionantes pero, adem�
 callejuelas, con sus edificios ideales para quedarse a vivir, te transportan a otro 
 siglo. 
 
-![Iglesia en Ouro Preto](etheria-images/2018/11/Brasil-Ouro-Preto-1024x683.jpg "Ouro Preto, una de las ciudades más bonitas de Brasil.")
+![Iglesia en Ouro Preto](https://fotos.etheriamagazine.com/2018/11/Brasil-Ouro-Preto-1024x683.jpg "Ouro Preto, una de las ciudades más bonitas de Brasil.")
 
 Aquí, lo más curioso es que **Sydney, un médico de Sao Paulo**, nos aporta otro punto de 
 vista sobre sus compatriotas que viene a negar de nuevo el mito: se queja de que las 
@@ -130,7 +130,7 @@ de las dunas, mar y lagos de los Lençóis Maranhenses, repleto de posadas y pue
 cócteles en la mismísima arena, donde la mezcla de oriundos y windsurfistas resulta 
 mucho más libre e igualitaria. 
 
-![Playa de la zona de Jericoacoara en Brasil](etheria-images/2018/11/Brasil-Jericoacoara-1024x566.jpg "Playa de la zona de Jericoacoara.")
+![Playa de la zona de Jericoacoara en Brasil](https://fotos.etheriamagazine.com/2018/11/Brasil-Jericoacoara-1024x566.jpg "Playa de la zona de Jericoacoara.")
 
 ? **También te puede interesar:** 
 

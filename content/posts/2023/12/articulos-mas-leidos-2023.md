@@ -1,7 +1,7 @@
 ---
 title: "No te pierdas los artículos de Etheria Magazine más leídos en 2023"
 date: 2023-12-26
-coverImage: etheria-images/2023/12/viajes-2023.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/12/viajes-2023.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -14,7 +14,7 @@ están los 10 artículos más leídos en 2023 por nuestras lectoras y lectores, 
 muchos destinos nacionales y alguno internacional de esos que hay que visitar al menos 
 una vez en la vida. Echa un vistazo por si te has perdido alguno. 
 
-![avion despegando](etheria-images/2023/12/viajes-2023.jpg "Echa un vistazo a nuestra lista de artículos más leídos en 2023.")
+![avion despegando](https://fotos.etheriamagazine.com/2023/12/viajes-2023.jpg "Echa un vistazo a nuestra lista de artículos más leídos en 2023.")
 
 Se acercan las campanadas y toca hacer repaso de aquellos artículos que hemos publicado 
 en Etheria Magazine y que más os han interesado a lo largo de 2023. Nuestra lista 
@@ -38,7 +38,7 @@ los faraones.
 ✅ [Qué llevar en la maleta en un viaje a 
 Egipto](https://etheriamagazine.com/2023/02/01/que-llevar-en-la-maleta-egipto/) 
 
-![Pirámide de Kefren en Giza](etheria-images/2023/08/egipto-cairo-piramides-kefren-chicas.jpg "Pirámide de Khafa (Kefren). © Susana García")
+![Pirámide de Kefren en Giza](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg "Pirámide de Khafa (Kefren). © Susana García")
 
 ## Cabañas en los árboles en la Selva de Irati
 
@@ -53,7 +53,7 @@ repetir.
 ✅ [Iratiko Kabiak, las cabañas en los árboles de la Selva de 
 Irati](https://etheriamagazine.com/2023/10/06/iratiko-kabiak-cabanas-arboles-irati/) 
 
-![Cabaña situada en un árbol con las luces del interior encendidas](etheria-images/2023/10/cabana-arbol-navarra-irati.jpg "Dormir en una cabaña en un árbol es una experiencia inolvidable.")
+![Cabaña situada en un árbol con las luces del interior encendidas](https://fotos.etheriamagazine.com/2023/10/cabana-arbol-navarra-irati.jpg "Dormir en una cabaña en un árbol es una experiencia inolvidable.")
 
 ## Lo mejor de Almería
 
@@ -69,7 +69,7 @@ haya estado entre vuestros favoritos.
 ✅ [Descubre los 12 imprescindibles de Almería 
 provincia](https://etheriamagazine.com/2023/07/17/que-ver-almeria-provincia/) 
 
-![Mocájar en Almería](etheria-images/2023/06/almeria-mojacar.jpg "Mocájar. © Turismo de Andalucía.")
+![Mocájar en Almería](https://fotos.etheriamagazine.com/2023/06/almeria-mojacar.jpg "Mocájar. © Turismo de Andalucía.")
 
 ## Una guía de la provincia de Málaga
 
@@ -83,7 +83,7 @@ en uno de los focos de turismo cultural más importantes de España.
 ✅ [Una guía para no perderte nada de la provincia de 
 Málaga](https://etheriamagazine.com/2023/03/23/pueblos-que-ver-malaga/) 
 
-![paseo marítimo, puerto y jardines de Málaga](etheria-images/2023/03/malaga-ayuntamiento-jardines.jpg "Málaga desde la Alcazaba.")
+![paseo marítimo, puerto y jardines de Málaga](https://fotos.etheriamagazine.com/2023/03/malaga-ayuntamiento-jardines.jpg "Málaga desde la Alcazaba.")
 
 ## Getxo en familia
 
@@ -98,7 +98,7 @@ veréis como en Getxo no hay lugar para el aburrimiento.
 v](https://etheriamagazine.com/2023/05/29/planes-familiares-en-getxo/)[isitas 
 divertidas](https://etheriamagazine.com/2023/05/29/planes-familiares-en-getxo/) 
 
-![Bicicleta acuática con el Puente Bizkaia al fondo.](etheria-images/2023/05/getxo-water-bikers.jpg "Bicicleta acuática con el Puente Bizkaia al fondo. © Turismo de Getxo.")
+![Bicicleta acuática con el Puente Bizkaia al fondo.](https://fotos.etheriamagazine.com/2023/05/getxo-water-bikers.jpg "Bicicleta acuática con el Puente Bizkaia al fondo. © Turismo de Getxo.")
 
 ## Madrid con amigas en otoño e invierno
 
@@ -112,7 +112,7 @@ encuentras un plan divertido que también puedes disfrutar este 2024.
 ✅ [Qué hacer con amigas en Madrid este otoño e 
 invierno](https://etheriamagazine.com/2023/09/07/que-hacer-con-amigas-madrid-otono/) 
 
-![Terraza de Casa Suecia, en Madrid](etheria-images/2023/09/terraza-hotel-suecia-850x584.jpg "Terraza de Casa Suecia, en Madrid. © Etheria Magazine")
+![Terraza de Casa Suecia, en Madrid](https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia-850x584.jpg "Terraza de Casa Suecia, en Madrid. © Etheria Magazine")
 
 ## 10 excursiones desde Conil de la Frontera
 
@@ -127,7 +127,7 @@ marroquí de Tánger.
 ✅ [10 excursiones ideales desde Conil de la 
 Frontera](https://etheriamagazine.com/2023/08/02/mejores-excursiones-desde-conil/) 
 
-![Playa de Roche, en Conil de la Frontera.](etheria-images/2023/08/playa-roche-conil.jpg "Playa de Roche, en Conil de la Frontera.")
+![Playa de Roche, en Conil de la Frontera.](https://fotos.etheriamagazine.com/2023/08/playa-roche-conil.jpg "Playa de Roche, en Conil de la Frontera.")
 
 ## Formentera con amigas
 
@@ -142,7 +142,7 @@ hace en Formentera tiene muchas papeletas de ser un éxito seguro.
 ✅ [Formentera con amigas, planes imprescindibles para una escapada 
 perfecta](https://etheriamagazine.com/2023/04/24/formentera-con-amigas/) 
 
-![bahía de Formentera](etheria-images/2023/04/Formentera-playa-yate.jpg "El mar en Formentera tiene un color azul espectacular. © Turismo de Formentera.")
+![bahía de Formentera](https://fotos.etheriamagazine.com/2023/04/Formentera-playa-yate.jpg "El mar en Formentera tiene un color azul espectacular. © Turismo de Formentera.")
 
 ## Lugo en 15 paradas
 
@@ -156,7 +156,7 @@ Marronda o la Ribeira Sacra, además de pueblos como Foz, O Cebreiro o Mondoñed
 ✅ [Descubre la belleza de la provincia de Lugo en 15 
 paradas](https://etheriamagazine.com/2023/04/06/pueblos-que-ver-lugo/) 
 
-![Puerto de Ribadeo, en Lugo.](etheria-images/2023/03/Puerto-Ribadeo-lugo.jpg "Puerto de Ribadeo, en Lugo. © Diputación de Lugo.")
+![Puerto de Ribadeo, en Lugo.](https://fotos.etheriamagazine.com/2023/03/Puerto-Ribadeo-lugo.jpg "Puerto de Ribadeo, en Lugo. © Diputación de Lugo.")
 
 ## Casablanca y Marrakech a precio asequible
 
@@ -170,4 +170,4 @@ de mucha ayuda.
 ✅ [Casablanca y Marrakech, una escapada esencial (y a precio 
 asequible)](https://etheriamagazine.com/2023/05/04/por-que-viajar-casablanca-marrakech/) 
 
-![Especias y flores secas del zoco de Marrakech.](etheria-images/2023/05/zoco-marrakech.jpg "Especias y flores secas del zoco de Marrakech. © Pepa García")
+![Especias y flores secas del zoco de Marrakech.](https://fotos.etheriamagazine.com/2023/05/zoco-marrakech.jpg "Especias y flores secas del zoco de Marrakech. © Pepa García")

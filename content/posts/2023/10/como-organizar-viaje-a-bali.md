@@ -1,7 +1,7 @@
 ---
 title: "Cómo organizar un viaje a Bali para aprovechar bien el tiempo"
 date: 2023-10-09
-coverImage: etheria-images/2023/10/bali-rafting-rio-ayung.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/10/bali-rafting-rio-ayung.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
@@ -16,7 +16,7 @@ Pero todos sabemos que para las vacaciones tenemos días limitados que nos gusta
 aprovechar al máximo, así que en este te damos algunas claves para organizar un viaje a 
 Bali y que todo vaya rodado. 
 
-![pareja en Bali frente al mar](etheria-images/2023/10/bali-pareja-playa.jpg "Pareja de viaje por Bali.")
+![pareja en Bali frente al mar](https://fotos.etheriamagazine.com/2023/10/bali-pareja-playa.jpg "Pareja de viaje por Bali.")
 
 Bali es uno de los destinos turísticos más populares de Asia por muchos motivos: ofrece 
 cultura, deporte activo, actividades en la naturaleza, playas y, además, tiene una buena 
@@ -42,7 +42,7 @@ gustos y preferencias. Desde pasar una semana haciendo surf en la playa de Kuta 
 por la noche a los locales de moda hasta dedicar dos semanas a recorrer su interior sin 
 pisar la playa. 
 
-![Playa en la isla de Nusa Penida en Bali](etheria-images/2023/10/bali-playa-nusa-penida.jpg "Playa en la isla de Nusa Penida. © Susana García")
+![Playa en la isla de Nusa Penida en Bali](https://fotos.etheriamagazine.com/2023/10/bali-playa-nusa-penida.jpg "Playa en la isla de Nusa Penida. © Susana García")
 
 Si buscas un viaje más activo, la isla es perfecta para hacer senderismo o rutas en 
 bicicleta en parajes increíbles, y puedes combinarlas con actividades acuáticas como el 
@@ -55,7 +55,7 @@ nocturna**, así que las que no renuncian a las noches sin fin tendrán que incl
 Seminyak, Kuta o Canggu en sus vacaciones para divertirse en sus restaurantes y 
 discotecas. 
 
-![rafting en el río Ayung en Bali](etheria-images/2023/10/bali-rafting-rio-ayung.jpg "El rafting es una actividades de aventura más practicadas en Bali, en la foto en el río Ayung. © Susana García")
+![rafting en el río Ayung en Bali](https://fotos.etheriamagazine.com/2023/10/bali-rafting-rio-ayung.jpg "El rafting es una actividades de aventura más practicadas en Bali, en la foto en el río Ayung. © Susana García")
 
 ### Viajes organizados a Bali o por tu cuenta
 
@@ -93,7 +93,7 @@ posibles y ofreciendo experiencias de alimentación sana y actividades como yoga
 meditación. Un buen ejemplo de este tipo de alojamientos es el hotel COMO Shambala de 
 Ubud. 
 
-![Piscina en el hotel de lujo COMO Shambala en Ubud.](etheria-images/2023/10/hotel-lujo-como-shambala-ubud-bali.jpg "Piscina en el hotel de lujo © COMO Shambala en Ubud.")
+![Piscina en el hotel de lujo COMO Shambala en Ubud.](https://fotos.etheriamagazine.com/2023/10/hotel-lujo-como-shambala-ubud-bali.jpg "Piscina en el hotel de lujo © COMO Shambala en Ubud.")
 
 Si buscas lujo, pero más privacidad, una buena opción puede ser alquilar una villa como 
 las de [The Layar](http://www.thelayar.com) en Seminyak. Las hay de hasta cuatro 
@@ -124,7 +124,7 @@ alojamiento céntrico y hacer excursiones cada día no siempre funciona en una i
 Bali, es mejor dormir en varios lugares, lo más cerca posible de las atracciones 
 turísticas. 
 
-![Madre con su hijo en los arrozales de Ubud.](etheria-images/2023/10/ubud-madre-e-hijo.jpg "Madre con su hijo en los arrozales de Ubud.")
+![Madre con su hijo en los arrozales de Ubud.](https://fotos.etheriamagazine.com/2023/10/ubud-madre-e-hijo.jpg "Madre con su hijo en los arrozales de Ubud.")
 
 ### Qué incluir en una ruta por Bali
 
@@ -150,7 +150,7 @@ tráfico es intenso y los accidentes con moto frecuentes. Así que no dejes de l
 casco (que es obligatorio, aunque fuera de la capital pocos locales lo cumplen) y sé 
 extremadamente prudente. 
 
-![Mujer en moto por Bali.](etheria-images/2023/10/bali-mujer-moto.jpg "Moverse en moto es una opción para evitar los atascos en Bali, pero hay que ser muy prudente.")
+![Mujer en moto por Bali.](https://fotos.etheriamagazine.com/2023/10/bali-mujer-moto.jpg "Moverse en moto es una opción para evitar los atascos en Bali, pero hay que ser muy prudente.")
 
 La opción más sensata en la mayoría de las ocasiones es recurrir a un **taxi** (los 
 oficiales son azules y se llaman Blue Bird), a **Uber** o a **Grab**. Esta última es una 
@@ -182,7 +182,7 @@ si usas el enlace anterior, por ser lector/a de ETHERIA MAGAZINE. Puedes elegir 
 seguro para este viaje en concreto o **uno ANUAL**, que te saldrá a cuenta si realizas 
 más de un viaje al año. 
 
-![Rupias de Indonesia.](etheria-images/2023/06/maleta-bali-rupias-indonesias.jpg "Rupias de Indonesia.")
+![Rupias de Indonesia.](https://fotos.etheriamagazine.com/2023/06/maleta-bali-rupias-indonesias.jpg "Rupias de Indonesia.")
 
 ## Qué llevar en la maleta a Bali
 

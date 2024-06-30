@@ -1,7 +1,7 @@
 ---
 title: "Modernismo en Terrassa, tres visitas que te sorprenderán"
 date: 2021-08-20
-coverImage: etheria-images/2021/08/masia-freixa-modernismo.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 Si eres una enamorada del Modernismo y quieres ampliar el círculo de visitas desde Barcelona, sigue leyendo para descubrir tres imprescindibles que tienes que ver en Terrassa. Allí te esperan la Masía Freixa, el 'Vapor Aymerich, Amat y Jover' (antigua fábrica convertida en museo) y la Casa Alegre de Sagrera, que no son de Gaudí ni falta que les hace.
 
-![masia freixa terrassa barcelona](etheria-images/2021/08/masia-freixa-modernismo.jpg "Masía Freixa, en Terrassa. © Pepa García")
+![masia freixa terrassa barcelona](https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg "Masía Freixa, en Terrassa. © Pepa García")
 
 Probablemente no has escuchado hablar de la Masía Freixa, del 'Vapor Aymerich, Amat y 
 Jover' o de la Casa Alegre de Sagrera, e incluso iríamos más allá, ¿serías capaz de 
@@ -35,7 +35,7 @@ a finales del siglo XIX. Tampoco podemos dejar de destacar la figura de Lluís M
 un arquitecto que trabajó durante más de cuarenta años aportando su particular sello a 
 esta ciudad. 
 
-![masia freixa monumento que ver en terrassa](etheria-images/2021/08/masia-freixa-entrada-712x1024.jpg "Fachada principal de la Masía Freixa, en Terrassa. © Pepa García")
+![masia freixa monumento que ver en terrassa](https://fotos.etheriamagazine.com/2021/08/masia-freixa-entrada-712x1024.jpg "Fachada principal de la Masía Freixa, en Terrassa. © Pepa García")
 
 ## La Masía Freixa
 
@@ -55,7 +55,7 @@ alguna pista del uso para el que fue concebido? Sí, claro, una de ellas son las
 ventanitas que están junto al suelo, por ahí se debía introducir el carbón a la 
 carbonera. 
 
-![minarete de la masia freixa](etheria-images/2021/08/masia-torre-freixa-683x1024.jpg "Minarete de la Masia Freixa. © Pepa García")
+![minarete de la masia freixa](https://fotos.etheriamagazine.com/2021/08/masia-torre-freixa-683x1024.jpg "Minarete de la Masia Freixa. © Pepa García")
 
 Si desde lejos ya se intuye la influencia de Gaudí en la Masía Freixa, según te acercas 
 la primera impresión se confirma. Arcos, bóvedas, muros blancos (para ocultar el 
@@ -72,12 +72,12 @@ interiorismo creado por **Joaquim Vancells,** del que se conservan muebles origi
 el despacho y en el comedor. Los radiadores nos parecieron una maravilla. Cada detalle 
 es único. 
 
-![interior masia freixa](etheria-images/2021/08/interior-masia-freixa.jpg "Radiador y escalera de caracol de la Masia Freixa. © Pepa García")
+![interior masia freixa](https://fotos.etheriamagazine.com/2021/08/interior-masia-freixa.jpg "Radiador y escalera de caracol de la Masia Freixa. © Pepa García")
 
 Al salir no dejes de recorrer el parque que rodea la vivienda, que se corresponden con 
 los antiguos jardines de esta villa. Pasear por sus senderos es realmente relajante. 
 
-![masia freixa en plaza de terrassa](etheria-images/2021/08/masia-freixa-jardines.jpg "Vista general de la Masía Freixa. © Pepa García")
+![masia freixa en plaza de terrassa](https://fotos.etheriamagazine.com/2021/08/masia-freixa-jardines.jpg "Vista general de la Masía Freixa. © Pepa García")
 
 ## Vapor Aymerich, Amat y Jover
 
@@ -90,7 +90,7 @@ narrar su latente pasado industrial. El magnífico edificio fue concebido por el
 **arquitecto Lluís Muncunill**, entre 1907 y 1908, casi al mismo tiempo que la Masía 
 Freixa. Desde 2019, además, está reconocido como Bien Cultural de Interés Nacional. 
 
-![que ver en terrassa vapor aymerich](etheria-images/2021/08/fabrica-aymerich-terrasa-museo-ciencia.jpg "Vapor Aymerich, Amat y Jover, donde se sitúa el Museu Nacional de la Ciència i la Tècnica de Catalunya. © Pepa G.")
+![que ver en terrassa vapor aymerich](https://fotos.etheriamagazine.com/2021/08/fabrica-aymerich-terrasa-museo-ciencia.jpg "Vapor Aymerich, Amat y Jover, donde se sitúa el Museu Nacional de la Ciència i la Tècnica de Catalunya. © Pepa G.")
 
 Aunque todos los espacios de este inmenso museo (22.000 m2) tienen interés, un recorrido 
 ineludible es el que sigue el **proceso de producción de la lana,** comenzando por las 
@@ -99,7 +99,7 @@ de ingenios con los que se fabricaban las telas. Es realmente impactante observa
 grandes máquinas de hierro importadas de otros países, y los arcaicos patrones empleados 
 para elaborar los estampados de los tejidos. 
 
-![interior museo ciencia y tecnologia de terrassa](etheria-images/2021/08/mujeres-vapor-aymerich-terrassa.jpg "Interior y obreras del Vapor Aymerich, Amat y Jover, en Terrassa. © Pepa García")
+![interior museo ciencia y tecnologia de terrassa](https://fotos.etheriamagazine.com/2021/08/mujeres-vapor-aymerich-terrassa.jpg "Interior y obreras del Vapor Aymerich, Amat y Jover, en Terrassa. © Pepa García")
 
 ##### Descubre los usos y costumbres en las fábrica en el siglo XIX
 
@@ -111,7 +111,7 @@ Principalmente, “pan y vino, con abundancia de tocino y pescado salado. La esc
 el plato fuerte del mediodía y la vianda cocida a base de patatas, verduras y legumbres, 
 la cena. La mayoría comían en la fábrica lo que llevaban envuelto en un gran pañuelo”. 
 
-![Vapor Aymerich, Amat y Jover](etheria-images/2021/08/vapor-aymerich-museo-ciencia-terrassa.jpg "Interior Vapor Aymerich, Amat y Jover. © Pepa García")
+![Vapor Aymerich, Amat y Jover](https://fotos.etheriamagazine.com/2021/08/vapor-aymerich-museo-ciencia-terrassa.jpg "Interior Vapor Aymerich, Amat y Jover. © Pepa García")
 
 Si viajas con niños o adolescentes, les va a encantar la exposición de **vehículos 
 antiguos**, que cuenta con bicicletas, motos, coches e incluso aviones. Y, por supuesto, 
@@ -119,7 +119,7 @@ la zona científica les impactará. Organizan [talleres y visitas
 guiadas](https://mnactec.cat/es/educacion/oferta-educativa) para ellos durante todo el 
 año. 
 
-![reloj fabrica vapor aymerich](etheria-images/2021/08/reloj-fabrica.jpg "La sirena marcaba el comienzo y el final del trabajo diario. © Pepa García")
+![reloj fabrica vapor aymerich](https://fotos.etheriamagazine.com/2021/08/reloj-fabrica.jpg "La sirena marcaba el comienzo y el final del trabajo diario. © Pepa García")
 
 Una última recomendación, cuando salgas del museo acércate al restaurante [La Terrassa 
 del Museu](https://laterrassa.es/) a tomar algo o a comer porque desde su terraza se 
@@ -129,7 +129,7 @@ museo si tienen programadas visitas para caminar sobre las mismas.
 
 Precios y horarios en este [enlace](https://visitaterrassa.cat/es/mnactec-2/). 
 
-![Interior de la Casa Alegra de Sagrera](etheria-images/2021/08/Casa-Alegre-de-Sagrera-Terrassa-1.jpg "Interior de la Casa Alegre de Sagrera. © CC")
+![Interior de la Casa Alegra de Sagrera](https://fotos.etheriamagazine.com/2021/08/Casa-Alegre-de-Sagrera-Terrassa-1.jpg "Interior de la Casa Alegre de Sagrera. © CC")
 
 ## Casa Alegre de Sagrera
 
@@ -142,7 +142,7 @@ Sagrera prosperó mucho con el tiempo y construyeron esta magnífica mansión. S
 los franceses, conocedores de su posición antinapoleónica, no dudaron en saquearla y 
 quemarla. 
 
-![Vidrieras de la Casa Alegre de Sagrera](etheria-images/2021/08/vidrieras-Casa-Alegre-de-Sagrera.jpg "Vidrieras de la Casa Alegre de Sagrera. © CC")
+![Vidrieras de la Casa Alegre de Sagrera](https://fotos.etheriamagazine.com/2021/08/vidrieras-Casa-Alegre-de-Sagrera.jpg "Vidrieras de la Casa Alegre de Sagrera. © CC")
 
 Cuando Mercedes contrajo matrimonio con Francisco Alegre i Roig aportó la casa, por lo 
 que Francisco únicamente tuvo que inyectar fondos para que la residencia no sólo cobrase 
@@ -158,7 +158,7 @@ oriental de Salvans, pinturas de Martínez Lozano, dibujos de Mateu Avellaneda, 
 
 Precios y horarios en este [enlace](https://visitaterrassa.cat/es/casa-alegre-de-sagrera/). 
 
-![Sala Salvans en la Casa Alegre de Sagrera](etheria-images/2021/08/sala-Salvans-casa-alegre-terrassa.jpg "Sala Salvans en la Casa Alegre de Sagrera. © CC")
+![Sala Salvans en la Casa Alegre de Sagrera](https://fotos.etheriamagazine.com/2021/08/sala-Salvans-casa-alegre-terrassa.jpg "Sala Salvans en la Casa Alegre de Sagrera. © CC")
 
 ## Más cosas que ver en Terrassa: el Mercado
 

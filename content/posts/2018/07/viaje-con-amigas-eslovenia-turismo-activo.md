@@ -1,7 +1,7 @@
 ---
 title: "Organiza tu viaje a Eslovenia con amigas: un territorio no apto para perezosas"
 date: 2018-07-27
-coverImage: etheria-images/2018/07/Tolmin-eslovenia-viaje-aventura-e1578223707836.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Tolmin-eslovenia-viaje-aventura-e1578223707836.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -15,7 +15,7 @@ Eslovenia, un destino muy atractivo para viajeras amantes de la naturaleza y el 
 activo. Si el cuerpo te pide desconexión urbana, alquila un coche y sigue este recorrido 
 rumbo hacia los Alpes Julianos. 
 
-![Mujer en Triglav en un viaje a Eslovenia con amigas](etheria-images/2018/07/Triglav-Eslovenia-viajes-mujeres-1024x683.jpg "Ecoturismo en Triglav. © Tomo Jesenicnik")
+![Mujer en Triglav en un viaje a Eslovenia con amigas](https://fotos.etheriamagazine.com/2018/07/Triglav-Eslovenia-viajes-mujeres-1024x683.jpg "Ecoturismo en Triglav. © Tomo Jesenicnik")
 
 ```
 Actualizado en enero de 2024
@@ -37,7 +37,7 @@ extremo y otro, aguarda todo un abanico de **actividades al aire libre**: espele
 en cuanto entra el invierno, el esquí alpino, con la modalidad de esquí de fondo entre 
 las más apreciadas por los propios eslovenos. 
 
-![Deportes de aventura en Soca.](etheria-images/2018/07/Soca-Eslovenia-mujeres-barranquismo-1024x683.jpg "Deportes de aventura en Soca. © Slovenia.info")
+![Deportes de aventura en Soca.](https://fotos.etheriamagazine.com/2018/07/Soca-Eslovenia-mujeres-barranquismo-1024x683.jpg "Deportes de aventura en Soca. © Slovenia.info")
 
 ## Bienvenida al país de las 10.000 grutas
 
@@ -46,7 +46,7 @@ entre Italia y Croacia, en ella reclaman atención las localidades de **Izola**,
 **Portorož**, Koper y, especialmente, **Piran**, cuya arquitectura muestra claras 
 influencias de la escuela veneciana. 
 
-![Piran, una población idónea para relajarse.](etheria-images/2018/07/Piran-Eslovenia-ecoturismo-1024x767.jpg "Piran, una población idónea para relajarse. © Nuria Cortés")
+![Piran, una población idónea para relajarse.](https://fotos.etheriamagazine.com/2018/07/Piran-Eslovenia-ecoturismo-1024x767.jpg "Piran, una población idónea para relajarse. © Nuria Cortés")
 
 Tierra adentro, las colinas punteadas de viñedos y olivos asoman en el camino que 
 conduce, no lejos de la costa, a uno de los principales atractivos naturales de este 
@@ -63,7 +63,7 @@ con escasa alteración y con uno de los cañones subterráneos más espectacular
 mundo. En un **viaje a Eslovenia con amigas** debes incluir alguna de estas grutas para 
 conocer también las maravillas que se ocultan bajo la tierra. 
 
-![Cueva Postojna, en Eslovenia](etheria-images/2018/07/Cueva-Postojna-Eslovenia-viajes-mujeres-1024x683.jpg "Cueva Postojna. © Slovenia.info")
+![Cueva Postojna, en Eslovenia](https://fotos.etheriamagazine.com/2018/07/Cueva-Postojna-Eslovenia-viajes-mujeres-1024x683.jpg "Cueva Postojna. © Slovenia.info")
 
 ## Sigue la Ruta de la Paz
 
@@ -81,7 +81,7 @@ refugios y bunkers localizados en la llamada cresta de Kolovrat, entre **Kobarid
 disfrutar de un modo activo gracias al **sendero histórico Ruta de la Paz**, cuyos 100 
 kilómetros de recorrido transcurren a lo largo del **río Soča**. 
 
-![Parapente en Triglav.](etheria-images/2018/07/Eslovenia-triglav-viaje-mujeres-aventura-1024x679.jpg "Parapente en Triglav. © Slovenia.info")
+![Parapente en Triglav.](https://fotos.etheriamagazine.com/2018/07/Eslovenia-triglav-viaje-mujeres-aventura-1024x679.jpg "Parapente en Triglav. © Slovenia.info")
 
 ## Actívate en el valle de Soča
 
@@ -95,7 +95,7 @@ en piragua kayak y practicar _rafting_**, no tengas prisa por abandonar el valle
 mejor enclave del país para disfrutar de ambas actividades en un viaje a Eslovenia con 
 amigas. 
 
-![Paisajes de Tolmin, en Eslovenia.](etheria-images/2018/07/Tolmin-eslovenia-viaje-aventura-1024x791.jpg "Paisajes de Tolmin. © Michael Matti")
+![Paisajes de Tolmin, en Eslovenia.](https://fotos.etheriamagazine.com/2018/07/Tolmin-eslovenia-viaje-aventura-1024x791.jpg "Paisajes de Tolmin. © Michael Matti")
 
 ## Ponte las botas en el Parque Nacional de Triglav
 
@@ -108,7 +108,7 @@ Mangrt, Jalovec, Prisojnik y Špiklo–. Esto que convierte al parque en un dest
 atractivo para las **amantes del senderismo**. Aquí encontrarás diversas rutas aptas 
 para todos los niveles, así como trazados de largo recorrido, como la Vía Alpina. 
 
-![Lago Bohinj (Bohinjsko jezero)](etheria-images/2018/07/Lago-Bohinj-Eslovenia-viajes-relax-1024x682.jpg "Lago Bohinj (Bohinjsko jezero). © Slovenia.info")
+![Lago Bohinj (Bohinjsko jezero)](https://fotos.etheriamagazine.com/2018/07/Lago-Bohinj-Eslovenia-viajes-relax-1024x682.jpg "Lago Bohinj (Bohinjsko jezero). © Slovenia.info")
 
 Cualquier visita al parque debe incluir **el bonito lago Bohinjsko jezero**, **el puerto 
 de montaña Vršič**, **el valle de Trenta y las cascadas Savica** y **Peričnik**. Y para 
@@ -123,7 +123,7 @@ alpino de Kranjska Gora; la encantadora ciudad de **Kranj**; y el casco medieval
 Škofja Loka, el más relevante del país. Un excelente complemento para este viaje repleto 
 de entretenimiento activo para viajeras con pasión por la acción. 
 
-![Lago Bled en Eslovenia](etheria-images/2018/07/Eslovenia-amigas-lago-bled.jpg "Lago Bled. © Arnaud Steckle")
+![Lago Bled en Eslovenia](https://fotos.etheriamagazine.com/2018/07/Eslovenia-amigas-lago-bled.jpg "Lago Bled. © Arnaud Steckle")
 
 ## Guía Práctica de Eslovenia
 

@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Cantabria, visitas que no puedes perderte"
 date: 2022-09-05
-coverImage: etheria-images/2022/09/puente-hombre-pez-Lierganes.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/09/puente-hombre-pez-Lierganes.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -13,7 +13,7 @@ pienses más y prepárate para recorrer esta apasionante región. A tu ritmo, es
 cuando quieras y comprueba que, después de conocer estos 15 lugares imprescindibles 
 adonde ir en Cantabria, habrás pisado el paraíso. 
 
-![Mogroviejo, uno de los pueblos más bonitos de Cantabria.](etheria-images/2022/09/cantabria-mogrovejo-pueblo-bonito.jpg "Mogroviejo, uno de los pueblos más bonitos de Cantabria.")
+![Mogroviejo, uno de los pueblos más bonitos de Cantabria.](https://fotos.etheriamagazine.com/2022/09/cantabria-mogrovejo-pueblo-bonito.jpg "Mogroviejo, uno de los pueblos más bonitos de Cantabria.")
 
 La tranquila vida que se respira hará que al llegar a cualquiera de los 15 lugares 
 imprescindibles adonde ir en Cantabria que hemos elegido, quieras quedarte a vivir allí 
@@ -27,7 +27,7 @@ rotundos y perpendiculares** a la costa, se abren en paisajes que abruman salpic
 preciosos pueblos. Piedra en su arquitectura y pausada vida rural tras la puerta invitan 
 a recorrer la _tierruca_ más tradicional. 
 
-![Nacimiento del Ebro en la fuentona de Fontibre.](etheria-images/2022/09/fontibre-nacimiento-ebro-campoo.jpg "Nacimiento del Ebro en la fuentona de Fontibre.")
+![Nacimiento del Ebro en la fuentona de Fontibre.](https://fotos.etheriamagazine.com/2022/09/fontibre-nacimiento-ebro-campoo.jpg "Nacimiento del Ebro en la fuentona de Fontibre.")
 
 ## Qué ver en Cantabria
 
@@ -40,7 +40,7 @@ cántabro. Apenas 40 km separan la zona central de la cordillera Cantábrica (li
 con el norte de Burgos, Palencia y el noreste de León) del mar, donde su irresistible 
 litoral de 285 kilómetros finaliza en frontera con Asturias y Vizcaya. 
 
-![Mercado de la Esperanza, surf en el Sardinero, Casa Botín y paseo marítimo de Santander.](etheria-images/2022/09/santander-visitas-imprescindibles.jpg "Mercado de la Esperanza, surf en el Sardinero, Casa Botín y paseo marítimo de Santander.")
+![Mercado de la Esperanza, surf en el Sardinero, Casa Botín y paseo marítimo de Santander.](https://fotos.etheriamagazine.com/2022/09/santander-visitas-imprescindibles.jpg "Mercado de la Esperanza, surf en el Sardinero, Casa Botín y paseo marítimo de Santander.")
 
 ## Santander, una visita obligada
 
@@ -62,7 +62,7 @@ navío. Hacia el este la **península de la Magdalena** cierra la bahía con su 
 palacio de arquitectura campestre inglesa. Más allá las playas siguen siendo una 
 tentadora invitación hasta avistar el **cabo Mayor** a mar abierto. 
 
-![Palacio de la Magdalena y faro al fondo, en la bahía de Santander.](etheria-images/2022/09/santander-palacio-de-la-Magdalena.jpg "Palacio de la Magdalena y faro al fondo, en la bahía de Santander.")
+![Palacio de la Magdalena y faro al fondo, en la bahía de Santander.](https://fotos.etheriamagazine.com/2022/09/santander-palacio-de-la-Magdalena.jpg "Palacio de la Magdalena y faro al fondo, en la bahía de Santander.")
 
 ? Lee este artículo [si quieres conocer más planes en 
 Santander](https://etheriamagazine.com/2020/09/23/que-ver-y-mejores-restaurantes-de-santander/). 
@@ -83,7 +83,7 @@ inquisidor Corro convertido en Casa Consistorial. Deambula y saborea el ambiente
 marinero de su puerto para después visitar la bellísima **playa de Oyambre**. Además, da 
 nombre al parque natural homónimo, uno de los mejores ecosistemas litorales cantábricos. 
 
-![Panorámica desde el mar de San Vicente de la Barquera.](etheria-images/2022/09/San-Vicente-de-la-Barquera.jpg "San Vicente de la Barquera.")
+![Panorámica desde el mar de San Vicente de la Barquera.](https://fotos.etheriamagazine.com/2022/09/San-Vicente-de-la-Barquera.jpg "San Vicente de la Barquera.")
 
 ### Mogrovejo
 
@@ -96,7 +96,7 @@ el **retablo romanista** (corriente artística que los flamencos desarrollaron e
 el Renacimiento italiano) presidido por una extraordinaria talla de la **Virgen de 
 origen flamenco**. 
 
-![Mogroviejo, uno de los pueblos con más encanto de Cantabria](etheria-images/2022/09/cantabria-mogrovejo.jpg "Mogroviejo, uno de los pueblos con encanto de Cantabria.")
+![Mogroviejo, uno de los pueblos con más encanto de Cantabria](https://fotos.etheriamagazine.com/2022/09/cantabria-mogrovejo.jpg "Mogroviejo, uno de los pueblos con encanto de Cantabria.")
 
 ### Carmona
 
@@ -112,7 +112,7 @@ a él, es desde el **mirador de la Asomada del Rivero**. Al final del verano coi
 con la **Pasá de Carmona**, desfile de ganado local, en su mayoría de raza tudanca, que 
 regresa de los puertos de montaña. 
 
-![Panorámica de Carmona, uno de los pueblos más bonitos de Cantabria.](etheria-images/2022/09/Cantabria-Carmona.jpg "Panorámica de Carmona, uno de los pueblos más bonitos de Cantabria.")
+![Panorámica de Carmona, uno de los pueblos más bonitos de Cantabria.](https://fotos.etheriamagazine.com/2022/09/Cantabria-Carmona.jpg "Panorámica de Carmona, uno de los pueblos más bonitos de Cantabria.")
 
 ### Bárcena Mayor
 
@@ -127,7 +127,7 @@ entrar al bar del pueblo o a la casa del artesano y finalmente sucumbir al aroma
 Ascendiendo por la carretera CA-280 llegarás al **mirador de la Cardosa** y su 
 panorámica verde de impresión. Incluso podrás escuchar la berrea en otoño. 
 
-![Iglesia de Santa María, en Bárcena Mayor.](etheria-images/2022/09/cantabria-barcena-mayor.jpg "Iglesia de Santa María, en Bárcena Mayor.")
+![Iglesia de Santa María, en Bárcena Mayor.](https://fotos.etheriamagazine.com/2022/09/cantabria-barcena-mayor.jpg "Iglesia de Santa María, en Bárcena Mayor.")
 
 ### Liérganes
 
@@ -146,7 +146,7 @@ visitas los [lugares imprescindibles de
 Segovia](https://etheriamagazine.com/2021/03/09/15-lugares-imprescindibles-que-ver-en-segovia-y-provincia/), 
 pues las tuberías del palacio segoviano de La Granja se fabricaron aquí. 
 
-![Hombre Pez junto al Puente Mayor de Liérganes.](etheria-images/2022/09/puente-hombre-pez-Lierganes.jpg "Hombre Pez junto al Puente Mayor de Liérganes.")
+![Hombre Pez junto al Puente Mayor de Liérganes.](https://fotos.etheriamagazine.com/2022/09/puente-hombre-pez-Lierganes.jpg "Hombre Pez junto al Puente Mayor de Liérganes.")
 
 ### Santillana del Mar
 
@@ -161,7 +161,7 @@ y ciervos policromados.
 ? **Visita gratis la cueva de Altamira sábado por la tarde o domingos**. Resto de la 
 semana (3 €). Lunes cerrado. 
 
-![Santillana del Mar es uno de los pueblos más bonitos de Cantabria](etheria-images/2022/09/Santillana-del-Mar.jpg "Santillana del Mar, en Cantabria.")
+![Santillana del Mar es uno de los pueblos más bonitos de Cantabria](https://fotos.etheriamagazine.com/2022/09/Santillana-del-Mar.jpg "Santillana del Mar, en Cantabria.")
 
 ## Carreteras para recorrer sin prisas
 
@@ -188,7 +188,7 @@ estación del **mirador del Cable** podemos iniciar diversas rutas montañeras c
 color que toman con el atardecer. Precio ida y vuelta, 20 € en temporada alta; y 17 € en 
 temporada baja. Trayecto de ida 11 €. 
 
-![Desfiladero de la Hermida, en los Picos de Europa (Cantabria).](etheria-images/2022/09/cantabria-desfiladero-La-Hermida.jpg "Desfiladero de la Hermida, en los Picos de Europa (Cantabria).")
+![Desfiladero de la Hermida, en los Picos de Europa (Cantabria).](https://fotos.etheriamagazine.com/2022/09/cantabria-desfiladero-La-Hermida.jpg "Desfiladero de la Hermida, en los Picos de Europa (Cantabria).")
 
 ### Julióbriga y nacimiento del río Ebro
 
@@ -211,7 +211,7 @@ Valderredible](https://etheriamagazine.com/2019/08/26/que-ver-valderredible-cant
 vivienda romana de una familia de clase media-alta conocida como Casa de los Morillos. 
 Además, goza de una panorámica magnífica del **embalse del Ebro**. 
 
-![Ciudad romana de Julióbriga, en Cantabria.](etheria-images/2022/09/cantabria-juliobriga.jpg "Ciudad romana de Julióbriga, en Cantabria.")
+![Ciudad romana de Julióbriga, en Cantabria.](https://fotos.etheriamagazine.com/2022/09/cantabria-juliobriga.jpg "Ciudad romana de Julióbriga, en Cantabria.")
 
 ### Los fiordos cántabros
 
@@ -224,7 +224,7 @@ También alimenta cultivos de ostras y almejas. En las **playas del Sable** y de
 **isla de Samosa**, de las pocas que jalonan el litoral cántabro, marca la entrada de la 
 ría Tina Mayor. 
 
-![Tinamayor y Tinamenor, en Cantabria.](etheria-images/2022/09/cantabria-tinamayor-tinamenor.jpg "Tinamayor y Tinamenor, en Cantabria.")
+![Tinamayor y Tinamenor, en Cantabria.](https://fotos.etheriamagazine.com/2022/09/cantabria-tinamayor-tinamenor.jpg "Tinamayor y Tinamenor, en Cantabria.")
 
 ### En ruta salvaje
 
@@ -239,7 +239,7 @@ hallan animales de todo el mundo.
 
 ?Precio desde 20 € adultos y 10 € niños. 
 
-![Jirafas en el parque de la naturaleza de Cabárceno](etheria-images/2022/09/jirafas-cabarceno.jpg "Parque de la naturaleza de Cabárceno.")
+![Jirafas en el parque de la naturaleza de Cabárceno](https://fotos.etheriamagazine.com/2022/09/jirafas-cabarceno.jpg "Parque de la naturaleza de Cabárceno.")
 
 ## Las mejores playas de Cantabria
 
@@ -252,7 +252,7 @@ está permitido y los surfistas la buscan por el viento perfecto para coger las 
 olas. Con la embestida de los temporales y el bravío oleaje, el acantilado se convierte 
 en un órgano que muestra su versión marítima más brutal. 
 
-![Playa de Langre con un espectacular acantilado](etheria-images/2022/09/cantabria-playa-langre.jpg "Playa de Langre, en Cantabria.")
+![Playa de Langre con un espectacular acantilado](https://fotos.etheriamagazine.com/2022/09/cantabria-playa-langre.jpg "Playa de Langre, en Cantabria.")
 
 ### Somo
 
@@ -269,7 +269,7 @@ de línea regular para ir a la playa de
 Somo](https://www.losreginas.com/paseos-en-barco-por-la-bahia-de-santander-con-escala-en-pedrena-y-somo/horarios-y-tarifas-viaje-pedrena-somo/). 
 Precio ida, 3.10 €; ida y vuelta, 5.50 €. 
 
-![Surfista en la playa de Somo.](etheria-images/2022/09/playa-Somo-surfista.jpg "Playa de Somo, perfecta para surfear.")
+![Surfista en la playa de Somo.](https://fotos.etheriamagazine.com/2022/09/playa-Somo-surfista.jpg "Playa de Somo, perfecta para surfear.")
 
 ### La Arnía
 
@@ -281,7 +281,7 @@ viendo islotes o _urros_ (como los denominan localmente), arcos, tómbolos, etc.
 llegar a esta playa. Está situada en el municipio de Piélagos y es un lugar privilegiado 
 para ver puestas de sol. 
 
-![Bonita playa de La Arnía, en la Costa Quebrada.](etheria-images/2022/09/playa-la-Arnia-Costa-Quebrada.jpg "Bonita playa de La Arnía, en la Costa Quebrada.")
+![Bonita playa de La Arnía, en la Costa Quebrada.](https://fotos.etheriamagazine.com/2022/09/playa-la-Arnia-Costa-Quebrada.jpg "Bonita playa de La Arnía, en la Costa Quebrada.")
 
 ### Trengandín
 
@@ -293,7 +293,7 @@ durante varios kilómetros hasta la remota **playa de Helgueras**, al pie de la 
 del Brusco**. Ascenderla supone avistar la **playa de Berria** junto a las **marismas de 
 Santoña**. 
 
-![Rocas sobresalen de la arena en Playa de Trengadín, en Cantabria.](etheria-images/2022/09/cantabria-playa-trengandin.jpg "Playa de Trengadín, en Cantabria.")
+![Rocas sobresalen de la arena en Playa de Trengadín, en Cantabria.](https://fotos.etheriamagazine.com/2022/09/cantabria-playa-trengandin.jpg "Playa de Trengadín, en Cantabria.")
 
 Si además de estos lugares imprescindibles adonde ir en Cantabria quieres informarte de 
 próximos eventos y de actualidad en la región, sólo tienes que consultar la web de [Turismo 

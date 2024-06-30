@@ -1,7 +1,7 @@
 ---
 title: "10 + 1 libros recomendados que son un regalazo"
 date: 2019-12-24
-coverImage: etheria-images/2019/12/libros-recomendados-100-mujeres.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/12/libros-recomendados-100-mujeres.jpg
 categories: 
   - organiza-tu-viaje
   - libros-de-viajes
@@ -15,7 +15,7 @@ a decir que las posibilidades de acertar con algunas de estas 11 obras son muy a
 ¿Por qué? Porque todas ellas nos aportan conocimiento en diversos campos (mujeres, 
 viajes, fotografía, cocina o música) y detrás hay grandes profesionales. 
 
-![Libros para el verano](etheria-images/2019/12/libros-regalos-mujeres-viajeras-900x598.jpg)
+![Libros para el verano](https://fotos.etheriamagazine.com/2019/12/libros-regalos-mujeres-viajeras-900x598.jpg)
 
 ## 1\. Hablemos de nosotras.
 
@@ -31,7 +31,7 @@ consejera del Ibex, una madre de siete hijos o, entre otras, una transgénero.
 Editorial: Grijalbo. Precio: 19,90 € En librerías y en [Amazon (18,90 
 €)](https://www.amazon.es/gp/product/8417752013/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8417752013&linkCode=as2&tag=etheriamagazi-21&linkId=c4fe630a461690ba3c255a2fd30452b5). 
 
-![libros para mujeres, libros regalo mujeres, libros recomendados 2019, hablemos de nosotras, tocala otra vez sam](etheria-images/2019/12/hablemos-nosotras-tocala-otra-vez-sam.jpg "'Hablemos de nosotras' y 'Tócala otra vez, Sam'")
+![libros para mujeres, libros regalo mujeres, libros recomendados 2019, hablemos de nosotras, tocala otra vez sam](https://fotos.etheriamagazine.com/2019/12/hablemos-nosotras-tocala-otra-vez-sam.jpg "'Hablemos de nosotras' y 'Tócala otra vez, Sam'")
 
 ## 2\. Tócala otra vez, Sam.
 
@@ -47,7 +47,7 @@ Editorial: Fórcola ediciones. Precio: 28,50 €. Lo venden en la [web de Fórco
 ediciones](http://forcolaediciones.com/producto/tocala-otra-vez-sam/), en librerías y 
 también en [Amazon](https://amzn.to/38S96rc) (27,07 €). 
 
-![libros para mujeres, libros regalo mujeres, libros recomendados 2019, carlos de hita](etheria-images/2019/09/Anaya-touring-bosques-900x678.jpg "Viaje visual y sonoro por los bosques de España. © Anaya Touring.")
+![libros para mujeres, libros regalo mujeres, libros recomendados 2019, carlos de hita](https://fotos.etheriamagazine.com/2019/09/Anaya-touring-bosques-900x678.jpg "Viaje visual y sonoro por los bosques de España. © Anaya Touring.")
 
 ## 3\. Viaje visual y sonoro por los bosques de España.
 
@@ -63,7 +63,7 @@ recomendable para amantes de la naturaleza y de las aves.
 Editorial: Anaya Touring. Precio: [Desde 21,75 en 
 Amazon](https://www.amazon.es/gp/product/849158241X/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=849158241X&linkCode=as2&tag=etheriamagazi-21&linkId=45f3a855e691b845723be78263e47fa9). 
 
-![Strong is the new pretty, libros para mujeres, libros regalo mujeres, libros recomendados 2019,](etheria-images/2019/12/libro-mujeres-strong-new-pretty.jpg "'Strong is the new pretty. Cuando las chicas se atreven a ser ellas mismas. ©Kate T. Parker")
+![Strong is the new pretty, libros para mujeres, libros regalo mujeres, libros recomendados 2019,](https://fotos.etheriamagazine.com/2019/12/libro-mujeres-strong-new-pretty.jpg "'Strong is the new pretty. Cuando las chicas se atreven a ser ellas mismas. ©Kate T. Parker")
 
 ## 4\. Strong is the new pretty.
 
@@ -81,7 +81,7 @@ que crezcan sin presiones sociales o de género.
 Editorial: Oberon. Precio: 24,95 €. En librerías y en [Amazon 
 (23,70€)](https://www.amazon.es/gp/product/844154140X/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=844154140X&linkCode=as2&tag=etheriamagazi-21&linkId=b8fb2d962519d77d60da6ea38cb35a0c). 
 
-![libro historia de las mujeres, libros para mujeres, libros regalo mujeres, libros recomendados 2019](etheria-images/2019/12/libros-regalos-historia-mujeres.jpg "'Historia de las mujeres'. © Editorial Taurus.")
+![libro historia de las mujeres, libros para mujeres, libros regalo mujeres, libros recomendados 2019](https://fotos.etheriamagazine.com/2019/12/libros-regalos-historia-mujeres.jpg "'Historia de las mujeres'. © Editorial Taurus.")
 
 ## 5\. Historia de las mujeres.
 
@@ -110,7 +110,7 @@ campos que resultan imprescindibles.
 Editorial: PhotoClub Precio: 22,50 €. En librerías y en [Amazon (21,37 
 €)](https://www.amazon.es/gp/offer-listing/8441541337/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8441541337&linkCode=am2&tag=etheriamagazi-21&linkId=74265221a2cbe459b73e2523648944db). 
 
-![libro de fotografia, viajeras victorianas, viajeras por los mares del sur, libros para mujeres, libros regalo mujeres, libros recomendados 2019](etheria-images/2019/12/libro-tino-soriano-Viajeras-por-los-mares-del-sur-900x632.jpg "Fotografía y viajes, un tándem perfecto.")
+![libro de fotografia, viajeras victorianas, viajeras por los mares del sur, libros para mujeres, libros regalo mujeres, libros recomendados 2019](https://fotos.etheriamagazine.com/2019/12/libro-tino-soriano-Viajeras-por-los-mares-del-sur-900x632.jpg "Fotografía y viajes, un tándem perfecto.")
 
 ## 7\. Viajeras por los Mares del Sur.
 
@@ -126,7 +126,7 @@ Sur](https://etheriamagazine.com/2019/12/21/libro-viajeras-por-los-mares-del-sur
 Editorial: Casiopea. Precio: En versión Kindle [desde 8,54 en 
 Amazon](https://www.amazon.es/gp/offer-listing/B07RCCVV7K/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07RCCVV7K&linkCode=am2&tag=etheriamagazi-21&linkId=718f27077ab7e465bdf9962b8d3dfac4). 
 
-![mujeres en la ciencia, mujeres en el deporte, libros para mujeres, libros regalo mujeres, libros recomendados 2019](etheria-images/2019/12/libros-recomendados-100-mujeres-900x648.jpg "100 mujeres imprescindibles en la ciencia y en el deporte.")
+![mujeres en la ciencia, mujeres en el deporte, libros para mujeres, libros regalo mujeres, libros recomendados 2019](https://fotos.etheriamagazine.com/2019/12/libros-recomendados-100-mujeres-900x648.jpg "100 mujeres imprescindibles en la ciencia y en el deporte.")
 
 ## 8\. 100 mujeres.
 
@@ -144,7 +144,7 @@ individual por 25 € (en Amazon, 23,75€).
 
 Editorial: Nørdicalibros. Precio: 50 €. 
 
-![portada grandes mujeres artistas, editorial phaidon](etheria-images/2019/11/Portada-libro-grandes-mujeres-artistas-900x660.jpg "Portada 'Grandes mujeres artistas'.")
+![portada grandes mujeres artistas, editorial phaidon](https://fotos.etheriamagazine.com/2019/11/Portada-libro-grandes-mujeres-artistas-900x660.jpg "Portada 'Grandes mujeres artistas'.")
 
 ## 9\. Grandes mujeres artistas.
 
@@ -157,7 +157,7 @@ comprar!](https://etheriamagazine.com/2019/11/18/grandes-mujeres-artistas-exposi
 
 Editorial: Phaidon. Precio: 49,95 € 
 
-![joan roca, libro joan roca, cocina madre](etheria-images/2019/03/libro-joan-rica-cocina-madre.jpg "Joan Roca posa con su libro 'Cocina Madre'.")
+![joan roca, libro joan roca, cocina madre](https://fotos.etheriamagazine.com/2019/03/libro-joan-rica-cocina-madre.jpg "Joan Roca posa con su libro 'Cocina Madre'.")
 
 ## 10\. Cocina Madre.
 
@@ -175,7 +175,7 @@ Editorial: Planeta Gastro. Precio: [En Amazon, 21,75 €
 (impreso)](https://www.amazon.es/Cocina-madre-Recetas-sencillas-tradicionales/dp/8408202189/ref=as_li_ss_tl?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1LD1N1KNBLKQ6&keywords=cocina+madre+joan+roca&qid=1576870351&s=books&sprefix=cocina+madre,stripbooks,169&sr=1-1&linkCode=sl1&tag=etheriamagazi-21&linkId=c337041c669c865c607ba9182fd1e49d&language=es_ES) 
 y poco más de 12 en versión Kindle. 
 
-![guias tintablanca, libros de viajes calidad, cuadernos de viajes](etheria-images/2019/07/libros-viaje-tinta-blanca-madrid-nueva-york-paris.jpg "Portadas de Madrid, Nueva York y París.")
+![guias tintablanca, libros de viajes calidad, cuadernos de viajes](https://fotos.etheriamagazine.com/2019/07/libros-viaje-tinta-blanca-madrid-nueva-york-paris.jpg "Portadas de Madrid, Nueva York y París.")
 
 ## 10+1. Guías de viajes
 

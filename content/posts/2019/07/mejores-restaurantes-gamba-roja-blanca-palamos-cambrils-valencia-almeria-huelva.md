@@ -1,7 +1,7 @@
 ---
 title: "Ruta de la gamba roja, lugares donde chuparse los dedos está bien visto"
 date: 2019-07-02
-coverImage: etheria-images/2019/06/gamba-roja-experiencia-señor-martin.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/gamba-roja-experiencia-señor-martin.jpg
 categories: 
   - viajes-con-amigas
   - viajes-gastronomicos
@@ -12,7 +12,7 @@ authors:
 
 En la 'Ruta de la gamba roja' seguimos la estela de este manjar desde que nace, pongamos, en Tarragona, hasta que desova en Punta Umbría (Huelva). Un recorrido por nuestras costas que nos llevará a descubrir los secretos de la gamba más gourmet y deliciosa, la _Aristeus Antennatus_. Si vuestras vacaciones os llevan cerca de estos “caladeros” no dejéis de disfrutar de este marisco.
 
-![escapada gourmet, viaje gastronómico, viaje con amigas](etheria-images/2019/06/gamba-roja-señor-martin.jpg "La gamba roja ¿cocida o a la plancha? © El Señor Martín")
+![escapada gourmet, viaje gastronómico, viaje con amigas](https://fotos.etheriamagazine.com/2019/06/gamba-roja-señor-martin.jpg "La gamba roja ¿cocida o a la plancha? © El Señor Martín")
 
 ```
 Actualizado agosto 2021
@@ -38,7 +38,7 @@ haber tenido numerosas oportunidades para reproducirse y ¡encima! es cuando ha
 desarrollado todas sus cualidades “gastro”. A mí, además de por todos esos motivos, es 
 que me gustan grandecitas, lo que correspondería con un calibre 1 y 2. 
 
-![escapada gourmet, viaje gastronómico, viaje con amigas](etheria-images/2019/06/Gamba-roja-puerto-Palamos.jpg "Barcas en el puerto de Palamós. © Óscar Oliu. Museu de la Pesca Palamós")
+![escapada gourmet, viaje gastronómico, viaje con amigas](https://fotos.etheriamagazine.com/2019/06/Gamba-roja-puerto-Palamos.jpg "Barcas en el puerto de Palamós. © Óscar Oliu. Museu de la Pesca Palamós")
 
 ## ¿Qué gamba roja es la mejor?
 
@@ -65,7 +65,7 @@ plus, las mejores son las hembras y las reconocerás porque cuentan con un “cu
 entre los ojos muy largo (mucho más que los machos), que sobresale de la cabeza 
 llamativamente. 
 
-![escapada gourmet, viaje gastronómico, viaje con amigas](etheria-images/2019/06/Gamba-roja-Palamos.jpg "Gamba roja de Palamós. ©Foto Óscar Oliu. Museu de la Pesca")
+![escapada gourmet, viaje gastronómico, viaje con amigas](https://fotos.etheriamagazine.com/2019/06/Gamba-roja-Palamos.jpg "Gamba roja de Palamós. ©Foto Óscar Oliu. Museu de la Pesca")
 
 Aunque hay muchas maneras de cocinarla, dos son las más utilizadas: cocida o a la 
 plancha. Según la zona de nuestra geografía es más común de una u otra manera aunque, en 
@@ -85,7 +85,7 @@ sus subastas de gamba roja. También puedes acercarte a **Cambrils**, preciosa l
 de pescadores con su propia [lonja](https://www.cambrils.cat/ca/la-ciutat), que admite 
 visitas guiadas. Una experiencia única que hay que vivir. 
 
-![escapada gourmet, viaje gastronómico, viaje con amigas](etheria-images/2019/06/gamba-roja-palamos-lonja.jpg "Subasta de gamba roja en la lonja de Palamós. © Museu de la Pesca Palamós")
+![escapada gourmet, viaje gastronómico, viaje con amigas](https://fotos.etheriamagazine.com/2019/06/gamba-roja-palamos-lonja.jpg "Subasta de gamba roja en la lonja de Palamós. © Museu de la Pesca Palamós")
 
 De entre la estupenda oferta gastro que encontramos, mis preferidos son [Miramar](https://www.miramar-cambrils.com), 
 situado en el paseo marítimo de Cambrils y con una terraza espectacular, donde suelen 
@@ -109,7 +109,7 @@ de gamba roja, con esas larguísimas jornadas “faenando” desde antes del ama
 la tarde. (Ha estado suspendida durante la pandemia, comprueba si durante tu viaje está 
 en activo de nuevo) 
 
-![escapada gourmet, viaje gastronómico, viaje con amigas](etheria-images/2019/06/Gamba-roja-museu-pesca.jpg "Exposición permanente del Museo de la Pesca de Palamós. © Museu de la Pesca")
+![escapada gourmet, viaje gastronómico, viaje con amigas](https://fotos.etheriamagazine.com/2019/06/Gamba-roja-museu-pesca.jpg "Exposición permanente del Museo de la Pesca de Palamós. © Museu de la Pesca")
 
 En la propia lonja hay muchos puestos de pescado donde comprar gamba roja, pero si 
 prefieres que la cocinen para ti, encontrarás muchos restaurantes donde disfrutarla. Yo 
@@ -150,7 +150,7 @@ ajetreo de las cajas de hielo con las gambas rojas recién pescadas asomando sus
 Una parada perfecta en un [viaje a 
 Almeria](https://etheriamagazine.com/2018/11/15/que-ver-en-almeria-en-temporada-baja/). 
 
-![gastronomia, viajes con amigas, slowtravel](etheria-images/2018/11/Almeria-subasta-Garrucha-e1561543361271.jpg "Subasta de pescado en la lonja de Garrucha. © SG")
+![gastronomia, viajes con amigas, slowtravel](https://fotos.etheriamagazine.com/2018/11/Almeria-subasta-Garrucha-e1561543361271.jpg "Subasta de pescado en la lonja de Garrucha. © SG")
 
 Muy cerquita se encuentra uno de mis locales favoritos, **El Almejero**. Situado en la 
 explanada del puerto, nació a finales de los 70 como un chiringuito en el que Pepe, “el 
@@ -176,7 +176,7 @@ Cantina del Puerto](https://cantinadelpuerto.com/), en pleno puerto, y me decís
 parece. Este curioso local era únicamente para pescadores pero en la actualidad todos 
 podemos ser “marineros” y probar sus pescaditos. 
 
-![escapada gourmet, viaje gastronómico, viaje con amigas](etheria-images/2019/06/gamba-roja-listada-huelva.jpg "Sashimi de gamba alistada del © restaurante Las Dunas (Huelva)")
+![escapada gourmet, viaje gastronómico, viaje con amigas](https://fotos.etheriamagazine.com/2019/06/gamba-roja-listada-huelva.jpg "Sashimi de gamba alistada del © restaurante Las Dunas (Huelva)")
 
 Un restaurante muy recomendable es [Las Dunas](https://restaurantelasdunas.com), situado 
 en la playa de Mazagón, en Palos de La Frontera. Allí la podrás encontrar en 
@@ -192,7 +192,7 @@ la capital. Dicen que Madrid es la segunda lonja más importante del mundo, tras
 es que los “gatos” somos grandes consumidores del mejor pescado. Por ello, mi última 
 recomendación es que, si os quedan lejos las vacaciones, os paséis por El Señor Martín. 
 
-![escapada gourmet, viaje gastronómico, viaje con amigas](etheria-images/2019/06/gamba-roja-experiencia-señor-martin.jpg "Gamba roja en el © restaurante El Señor Martín (Madrid).")
+![escapada gourmet, viaje gastronómico, viaje con amigas](https://fotos.etheriamagazine.com/2019/06/gamba-roja-experiencia-señor-martin.jpg "Gamba roja en el © restaurante El Señor Martín (Madrid).")
 
 Este restaurante “talibán” del pescado fue galardonado en una ocasión por la guía 
 Metrópoli de El Mundo como el 'Mejor Restaurante Tradicional'. En su expositor podrás 

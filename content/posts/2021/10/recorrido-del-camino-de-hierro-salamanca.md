@@ -1,7 +1,7 @@
 ---
 title: "El Camino de Hierro, kilómetros de magia entre puentes y túneles en Salamanca"
 date: 2021-10-03
-coverImage: etheria-images/2021/10/puente-camino-hierro.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/puente-camino-hierro.jpg
 categories: 
   - viajes-ecoturismo
   - planes-originales-para-mujeres
@@ -16,7 +16,7 @@ una aventura diferente, divertida e, incluso, didáctica. La antigua línea ferr
 que conectaba Salamanca con Portugal es el escenario por donde transcurre. Te contamos 
 todo lo que necesitas saber para hacer esta ruta de forma adecuada. 
 
-![camino de hierro salamanca](etheria-images/2021/10/senderismo-caminos-hierro.jpg "El Camino de Hierro tiene una extensión de 17 km.")
+![camino de hierro salamanca](https://fotos.etheriamagazine.com/2021/10/senderismo-caminos-hierro.jpg "El Camino de Hierro tiene una extensión de 17 km.")
 
 Como siempre que se ponen en marcha nuevas rutas, la curiosidad nos empuja a indagar 
 sobre ellas. Qué es el Camino de Hierro, por dónde transcurre el itinerario, es adecuado 
@@ -39,7 +39,7 @@ finaliza en el muelle de Vega Terrón, el único muelle fluvial de Castilla y Le
 llegar allí puedes volver al punto de inicio en un autobús lanzadera incluido en el 
 precio de la entrada. 
 
-![tuneles camino de hierro salamanca](etheria-images/2021/10/ruta-camino-de-hierro.jpg "En el Camino de Hierro se atraviesan 20 túneles.")
+![tuneles camino de hierro salamanca](https://fotos.etheriamagazine.com/2021/10/ruta-camino-de-hierro.jpg "En el Camino de Hierro se atraviesan 20 túneles.")
 
 En el transcurso de sus **17 kilómetros** deberás cruzar 20 túneles y 10 puentes 
 metálicos elevados a gran altura. Casi al comenzar, a unos 500 metros, tendrás el primer 
@@ -56,7 +56,7 @@ por terreno irregular sino por un sendero en descenso por los laterales de la v�
 que sigue el curso del río Águeda hasta desembocar en el Duero. Si vas con niños menores 
 de 8, debes quedarte con la versión corta. 
 
-![senderismo camino de hierro](etheria-images/2021/10/itinerario-camino-hierro.jpg "El Camino de Hierro parte de Fregeneda, en Salamanca.")
+![senderismo camino de hierro](https://fotos.etheriamagazine.com/2021/10/itinerario-camino-hierro.jpg "El Camino de Hierro parte de Fregeneda, en Salamanca.")
 
 ## Entradas y precio del Camino de Hierro
 
@@ -77,7 +77,7 @@ antelación.
 > impresionantes son el número 1 (con 1,5 km de largo) y el número 3 que tiene forma de 
 > “U”. 
 
-![camino de hierro bien de interes cultural](etheria-images/2021/10/puente-camino-hierro.jpg "El Camino de Hierro fue declarado Bien de Interés Cultural en el año 2000.")
+![camino de hierro bien de interes cultural](https://fotos.etheriamagazine.com/2021/10/puente-camino-hierro.jpg "El Camino de Hierro fue declarado Bien de Interés Cultural en el año 2000.")
 
 ## El Camino de Hierro, un poco de historia
 
@@ -102,7 +102,7 @@ frontera_. Una curiosidad es que en su inauguración partieron dos trenes, uno p
 y otro español, que se juntaron en el Puente Internacional de Vega Terrón (La 
 Fregeneda). 
 
-![tuneles camino de hierro salamanca](etheria-images/2021/10/tunel-caminos-hierro.jpg "Algunos túneles tienen una longitud de 1,5 km.")
+![tuneles camino de hierro salamanca](https://fotos.etheriamagazine.com/2021/10/tunel-caminos-hierro.jpg "Algunos túneles tienen una longitud de 1,5 km.")
 
 ## Túneles, puentes y aves
 
@@ -120,14 +120,14 @@ buitres leonados. Y si te gustan los murciélagos, en el túnel 3 hay una coloni
 doce mil. A principio de verano, que es su período de cría, permanece cerrado y se 
 habilita un sendero alternativo para continuar la ruta. 
 
-![senderos por la via del tren camino de hierro](etheria-images/2021/10/itinerario-camino-hierro-arribes.jpg "El Camino de Hierro ofrece dos opciones: 17 km o bien 8,5 km.")
+![senderos por la via del tren camino de hierro](https://fotos.etheriamagazine.com/2021/10/itinerario-camino-hierro-arribes.jpg "El Camino de Hierro ofrece dos opciones: 17 km o bien 8,5 km.")
 
 ## Cuándo hacer el Camino de Hierro
 
 Aunque la ruta del Camino de Hierro se puede hacer durante todo el año, es cierto que 
 las estaciones más agradables, en cuanto a temperatura, son el otoño y la primavera. 
 
-![mapa camino de hierro salamanca](etheria-images/2021/10/Mapa-Camino-de-Hierro-717x1024.jpg "? Descarga el mapa del Camino de Hierro para tenerlo offline.")
+![mapa camino de hierro salamanca](https://fotos.etheriamagazine.com/2021/10/Mapa-Camino-de-Hierro-717x1024.jpg "? Descarga el mapa del Camino de Hierro para tenerlo offline.")
 
 ## Más datos de interés
 

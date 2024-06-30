@@ -1,7 +1,7 @@
 ---
 title: "La Rochelle y la isla de Ré, consejos para organizar tu viaje"
 date: 2018-09-18
-coverImage: etheria-images/2018/09/Puerto-Viejo-La-Rochelle-e1578818092619.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/Puerto-Viejo-La-Rochelle-e1578818092619.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -16,7 +16,7 @@ con una copa de vino en la mano. En Etheria magazine os proponemos viajar a La R
 y la isla de Ré, dos rincones llenos de historia y sabor marinero para pasar, sola o con 
 amigas, un fin de semana de diez. 
 
-![Faro de las Ballenas](etheria-images/2018/09/Isla-de-Re-faro-de-las-Ballenas-1024x844.jpg "Faro de las Ballenas en la isla de Ré. © Susana García")
+![Faro de las Ballenas](https://fotos.etheriamagazine.com/2018/09/Isla-de-Re-faro-de-las-Ballenas-1024x844.jpg "Faro de las Ballenas en la isla de Ré. © Susana García")
 
 ```
 Actualizado 2022
@@ -40,7 +40,7 @@ perfil de los mástiles de los barcos de su **Puerto Viejo** y en la gastronomí
 restaurantes, con numerosas propuestas de deliciosos pescados y los siempre presentes 
 mejillones. 
 
-![Puerto Viejo de La Rochelle](etheria-images/2018/09/Puerto-Viejo-La-Rochelle-1024x682.jpg "Puerto Viejo de La Rochelle. © Susana García.")
+![Puerto Viejo de La Rochelle](https://fotos.etheriamagazine.com/2018/09/Puerto-Viejo-La-Rochelle-1024x682.jpg "Puerto Viejo de La Rochelle. © Susana García.")
 
 Para empezar una visita, nada mejor que dirigirse a sus **torres**. Marcan el perfil de 
 acceso al **Puerto Viejo** desde el mar y que señalan lo codiciada que fue La Rochelle. 
@@ -51,7 +51,7 @@ la de **Saint-Nicolas**, combinó sus funciones de defensa con las de vivienda. 
 visitarlas, se puede pasear también por parte de los muros defensivos para contemplar la 
 ciudad y el puerto. 
 
-![Torres de La Rochelle](etheria-images/2018/09/Torres-de-La-Rochelle-1024x671.jpg "Vistas desde la torre de la Lanterne de otras dos: la de Saint-Nicolas y la de la Chaîne. © Susana García.")
+![Torres de La Rochelle](https://fotos.etheriamagazine.com/2018/09/Torres-de-La-Rochelle-1024x671.jpg "Vistas desde la torre de la Lanterne de otras dos: la de Saint-Nicolas y la de la Chaîne. © Susana García.")
 
 Después, en un paseo por su **casco histórico** descubrirás una ciudad en la que 
 sorprende la piedra blanca que cubre suelo, edificios y soportales. Forma pasillos 
@@ -64,7 +64,7 @@ todo los miércoles y los sábados. Por la tarde es imprescindible un paseo por 
 noria, que forma parte del perfil de la ciudad y cuyas alturas desvelan vistas 
 infinitas. 
 
-![Restaurantes del Puerto Viejo de La Rochelle.](etheria-images/2018/09/la-rochelle-puerto-viejo-1024x683.jpg "Restaurantes del Puerto Viejo de La Rochelle. © Susana García.")
+![Restaurantes del Puerto Viejo de La Rochelle.](https://fotos.etheriamagazine.com/2018/09/la-rochelle-puerto-viejo-1024x683.jpg "Restaurantes del Puerto Viejo de La Rochelle. © Susana García.")
 
 ## Isla de Ré, el encanto de lo pequeño
 
@@ -85,7 +85,7 @@ conocer también el **Museo** y la **Torre Antigua** que se encuentran junto a �
 faro está rodeado de tiendas de recuerdos y artesanía y restaurantes donde pararse a 
 tomar algo para recuperar fuerzas después de la subida. 
 
-![Faro de las Ballenas](etheria-images/2018/09/Isla-de-Re-interior-Faro-de-las-Ballenas-1024x683.jpg "Escalera de caracol del interior del Faro de las Ballenas. © Susana García.")
+![Faro de las Ballenas](https://fotos.etheriamagazine.com/2018/09/Isla-de-Re-interior-Faro-de-las-Ballenas-1024x683.jpg "Escalera de caracol del interior del Faro de las Ballenas. © Susana García.")
 
 Después se puede ir a **Ars-en-Ré**, uno de esos pueblos que parece de cuento, con sus 
 casas blancas con balcones y puertas llenas de flores. Destaca la **torre de su 
@@ -96,7 +96,7 @@ y coquetos restaurantes y _crêperies_ por si te decides a comer aquí, algunos 
 populares están en torno al puerto (imprescindible probar las ostras locales, pequeñas y 
 deliciosas). 
 
-![Detalle de una tienda en Ars-en-Ré.](etheria-images/2018/09/Ars-en-Re-puesto-1024x683.jpg "Detalle de una tienda en Ars-en-Ré. © Susana García.")
+![Detalle de una tienda en Ars-en-Ré.](https://fotos.etheriamagazine.com/2018/09/Ars-en-Re-puesto-1024x683.jpg "Detalle de una tienda en Ars-en-Ré. © Susana García.")
 
 La siguiente parada, sobre todo si se visita la isla en verano, puede ser la 
 interminable playa de **Le Bois-plage-en-Ré**. Este inmenso arenal recorre la costa sur 
@@ -105,7 +105,7 @@ proporcionarán una tarde que podrá ser como tú desees: tranquila disfrutando 
 cálida arena; o llena de adrenalina con una tabla de surf para disfrutar de las olas en 
 una de las mejores playas de la costa atlántica francesa. 
 
-![Puerto de Saint-Martin-de-Ré.](etheria-images/2018/09/Isla-de-Re-Saint-Martin-de-Re-1024x672.jpg "Puerto de Saint-Martin-de-Ré. © Susana García.")
+![Puerto de Saint-Martin-de-Ré.](https://fotos.etheriamagazine.com/2018/09/Isla-de-Re-Saint-Martin-de-Re-1024x672.jpg "Puerto de Saint-Martin-de-Ré. © Susana García.")
 
 Y, para terminar, el plato fuerte, la bonita localidad **Saint-Martin-de-Ré**. Su 
 aspecto se debe al mariscal Vauban (de la época de Luis XIV), que pensó en ella como 
@@ -116,7 +116,7 @@ ciudad y llevan a la iglesia de San Martín (a cuyo campanario se puede subir).
 (desde los más clásicos a los más singulares, como el de ostras) mientras se pasea por 
 la ciudad y su fortaleza. 
 
-![Heladería La Martinière en la isla de Ré](etheria-images/2018/09/Saint-Martin-de-Re-La-Martiniere-1024x682.jpg "No puedes perderte un helado en La Martinière, en Saint-Martin-de Ré. © Susana García.")
+![Heladería La Martinière en la isla de Ré](https://fotos.etheriamagazine.com/2018/09/Saint-Martin-de-Re-La-Martiniere-1024x682.jpg "No puedes perderte un helado en La Martinière, en Saint-Martin-de Ré. © Susana García.")
 
 Si puedes disfrutar de **algún día más en la isla de Ré**, aprovecha para realizar 
 alguna **excursión en Tuk-Tuk** o en bicicleta y descubrir así rincones menos 
@@ -151,7 +151,7 @@ pequeñas y delicadas. En Saint-Marti-de-Ré hay restaurantes en toda la zona tu
 en Ars-en-Ré merece la pena acercarse al puerto a alguno de sus restaurantes como **Chez 
 Remi** (1 Quai de la Pré) o el **Café du Commerce** (cafcom-ars.com). 
 
-![Créperie en la isla de Ré.](etheria-images/2018/09/Isla-de-re-creperie.jpg "Créperie en la isla de Ré. © SG")
+![Créperie en la isla de Ré.](https://fotos.etheriamagazine.com/2018/09/Isla-de-re-creperie.jpg "Créperie en la isla de Ré. © SG")
 
 ### Dónde alojarse
 
@@ -178,7 +178,7 @@ en cualquiera de ellas.
 
 El **Faro de las Ballenas** puede visitarse todo el año: www.lepharedesbaleines.fr 
 
-![Carrusel en La Rochelle.](etheria-images/2018/09/La-Rochelle-carrusel-1-900x600.jpg "Carrusel en La Rochelle. © SG")
+![Carrusel en La Rochelle.](https://fotos.etheriamagazine.com/2018/09/La-Rochelle-carrusel-1-900x600.jpg "Carrusel en La Rochelle. © SG")
 
 ### Más información
 

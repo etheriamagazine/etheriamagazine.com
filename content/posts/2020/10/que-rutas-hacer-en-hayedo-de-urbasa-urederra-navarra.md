@@ -1,7 +1,7 @@
 ---
 title: "Rutas en el hayedo encantado de Urbasa y en Urederra (Navarra)"
 date: 2020-10-05
-coverImage: etheria-images/2020/09/nacedero-urederra-navarra.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/09/nacedero-urederra-navarra.jpg
 categories: 
   - viajes-ecoturismo
   - viaje-en-familia
@@ -16,7 +16,7 @@ encantos al natural, escondido y salpicado por las dentaduras de roca de las sie
 Hemos recorrido el hayedo de Urbasa para descubrir sus rincones secretos, las mejores 
 rutas y muchas curiosidades. 
 
-![Colores otoñales del hayedo de Urbasa (Navarra).](etheria-images/2020/09/rutas-hayedo-urbasa.jpg "Colores otoñales del hayedo de Urbasa (Navarra).")
+![Colores otoñales del hayedo de Urbasa (Navarra).](https://fotos.etheriamagazine.com/2020/09/rutas-hayedo-urbasa.jpg "Colores otoñales del hayedo de Urbasa (Navarra).")
 
 Pisamos una sierra que no conoce fronteras, pues en su vertiente navarra es **Urbasa**, 
 mientras que en su prolongación alavesa se la conoce como **Entzia**. Un paisaje 
@@ -29,7 +29,7 @@ en imponentes acantilados de roca hacia el paisaje más húmedo alrededor de Als
 inclinan hacia el sur y los dorados campos de Tierra de Estella-Lizarraldea con sus 
 huellas medievales surgidas al pie del Camino de Santiago. 
 
-![Troncos retorcidos del hayedo de urbasa](etheria-images/2020/09/que-ver-urbasa-navarra.jpg "Rincones mágicos de Urbasa.")
+![Troncos retorcidos del hayedo de urbasa](https://fotos.etheriamagazine.com/2020/09/que-ver-urbasa-navarra.jpg "Rincones mágicos de Urbasa.")
 
 ## Ruta por Urbasa, el viejo reino de las hadas
 
@@ -44,7 +44,7 @@ acción erosiva del agua. Hasta los líquenes mecidos por las gotas de lluvia y 
 parecen recordar el misterio que esconde el bosque a medida que se transita por él y 
 entre sus peculiares formaciones rocosas. 
 
-![Rocas cubiertas de musgo en Urbasa.](etheria-images/2020/09/hayedo-urbasa-otono.jpg "Rocas cubiertas de musgo en Urbasa.")
+![Rocas cubiertas de musgo en Urbasa.](https://fotos.etheriamagazine.com/2020/09/hayedo-urbasa-otono.jpg "Rocas cubiertas de musgo en Urbasa.")
 
 Desde Morterucho, en la carretera que enlaza Estella con Olazagutia, una **ruta de 9 
 kilómetros entre Urbasa y Andía** nos lleva junto a las hayas madre, las más longevas y 
@@ -53,7 +53,7 @@ historias al ritmo con que pierden sus hojas teñidas de un dorado otoñal. Tamb
 veremos viejas **cabañas de carboneros**, donde se alojaban los rudos hombres que hacían 
 leña de las hayas para acabar convertidas en un apreciado carbón vegetal. 
 
-![Nacedero del Urederra en Navarra](etheria-images/2020/09/nacedero-urederra-navarra.jpg "Nacedero del Urederra (Navarra).")
+![Nacedero del Urederra en Navarra](https://fotos.etheriamagazine.com/2020/09/nacedero-urederra-navarra.jpg "Nacedero del Urederra (Navarra).")
 
 ## Nacedero del Urederra, el misterio del agua
 
@@ -67,7 +67,7 @@ desbordarse en Ubagua, sacia la sed de los habitantes de Pamplona cuando sale po
 manantial de Arteta, desde donde el paseo aguas arriba nos lleva por uno de los 
 desfiladeros más hermosos al pie de la sierra hasta la **cascada de Artazul.** 
 
-![Sorprendente tonalidad azulada del Nacedero del Urederra.](etheria-images/2020/09/navarra-nacedero-urederra.jpg "Sorprendente tonalidad azulada del Nacedero del Urederra.")
+![Sorprendente tonalidad azulada del Nacedero del Urederra.](https://fotos.etheriamagazine.com/2020/09/navarra-nacedero-urederra.jpg "Sorprendente tonalidad azulada del Nacedero del Urederra.")
 
 ## Pastores de altiplano
 
@@ -82,7 +82,7 @@ partido los pueblos colindantes. Las huellas pastoriles más ancestrales son los
 naturales de montaña. También en medio del raso como el **menhir Mugakoharria**, una 
 tremenda roca vertical de 3 metros en medio de un canchal. 
 
-![Rebaño de ovejas en Urbasa.](etheria-images/2020/09/hayedo-urbasa-ovejas.jpg "Rebaño de ovejas en Urbasa.")
+![Rebaño de ovejas en Urbasa.](https://fotos.etheriamagazine.com/2020/09/hayedo-urbasa-ovejas.jpg "Rebaño de ovejas en Urbasa.")
 
 ## El Balcón de Pilatos, mirando a ‘Las Limitaciones’
 
@@ -94,7 +94,7 @@ para asomarte a vista de pájaro al valle de las Amézcoas y sobre el nacedero d
 Urederra. Estarás pisando el **Monte Limitaciones**, un lugar exclusivo de pastoreo de 
 los vecinos de estos valles desde tiempos inmemoriales. 
 
-![Balcón de Pilatos, en el Barranco de Urederra.](etheria-images/2020/09/Balcon-de-Pilatos-Barranco-Urederra-Sierra-Urbasa.jpg "Balcón de Pilatos, en el Barranco de Urederra.")
+![Balcón de Pilatos, en el Barranco de Urederra.](https://fotos.etheriamagazine.com/2020/09/Balcon-de-Pilatos-Barranco-Urederra-Sierra-Urbasa.jpg "Balcón de Pilatos, en el Barranco de Urederra.")
 
 ## Al ritmo del tren
 
@@ -108,7 +108,7 @@ ruido desfilan **los Momotxorros**, **unos curiosos personajes que semejan macho
 cabríos**, que danzan recorriendo las calles de la villa juntos a otros pintorescos 
 personajes como las Sorginak o brujas de la mitología vasca. 
 
-![Momotxorros en el carnaval de alsasua](etheria-images/2020/09/Momotxorros-navarra.jpg "Los Momotxorros, personajes imprescindibles en el Carnaval de Alsasua.")
+![Momotxorros en el carnaval de alsasua](https://fotos.etheriamagazine.com/2020/09/Momotxorros-navarra.jpg "Los Momotxorros, personajes imprescindibles en el Carnaval de Alsasua.")
 
 ## Y si vas en otoño...
 
@@ -121,7 +121,7 @@ otoño te envolverá de tonalidades rojizas. La senda nos lleva por un camino lo
 atravesando el **robledal de Urdiain** a lo largo de 7,5 kilómetros entre viejos robles 
 y nos aproxima a la ermita de San Pedro. 
 
-![El otoño se apodera del entorno natural de Alsasua.](etheria-images/2020/09/bosques-otono-navarra.jpg "El otoño se apodera del entorno natural de Alsasua.")
+![El otoño se apodera del entorno natural de Alsasua.](https://fotos.etheriamagazine.com/2020/09/bosques-otono-navarra.jpg "El otoño se apodera del entorno natural de Alsasua.")
 
 ## La aventura alavesa
 
@@ -129,7 +129,7 @@ Pisaremos la frontera con tierras alavesas si nos asomamos a la **cueva de La Le
 una impresionante cavidad de 70 metros de alto por 20 de ancho que se abre por la acción 
 de un río subterráneo, el Artzanegi, que emerge al pie del monte Altzania. 
 
-![Cueva de la Leze, en el monte Altzania.](etheria-images/2020/09/cueva-leze-navarra-urbasa.jpg "Cueva de la Leze, en el monte Altzania.")
+![Cueva de la Leze, en el monte Altzania.](https://fotos.etheriamagazine.com/2020/09/cueva-leze-navarra-urbasa.jpg "Cueva de la Leze, en el monte Altzania.")
 
 Desde la localidad de **Egino** el paseo entre robles merece la pena porque deja 
 disfrutar de cerca esta extraordinaria cavidad que asoma bajo el farallón rocoso. Un 

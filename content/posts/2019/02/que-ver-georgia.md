@@ -1,7 +1,7 @@
 ---
 title: "Descubre la belleza de Georgia en 10 visitas increíbles"
 date: 2019-02-13
-coverImage: etheria-images/2019/02/Viaje-mujeres-Georgia-iglesia-e1637066928892.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-iglesia-e1637066928892.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
@@ -13,7 +13,7 @@ authors:
 
 Está de moda, se enorgullece de ser una encrucijada entre Europa y Asia y goza del entusiasmo de un país joven. Georgia cuenta con apenas 30 años de independencia pero es un territorio legendario por donde discurría la Ruta de la Seda. Te invitamos a realizar una escapada georgiana con visitas a sus diez lugares más increíbles.
 
-![ruta de la seda que ver en georgia](etheria-images/2019/02/Viaje-mujeres-Georgia-ruta-seda-e1637067106988.jpg "Georgia forma parte de la legendaria Ruta de la Seda.")
+![ruta de la seda que ver en georgia](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-ruta-seda-e1637067106988.jpg "Georgia forma parte de la legendaria Ruta de la Seda.")
 
 ## 1\. La Ruta de la Seda
 
@@ -29,7 +29,7 @@ tradición en Georgia. Hoy, como entonces, a lo largo del camino encontraremos g
 hacia Oriente y Occidente como parte de un viaje apasionante. Entre otras agencias este 
 itinerario lo puedes hacer con Viajes Azul Marino. 
 
-![Kazbegi Peak and Glacier](etheria-images/2019/02/Viaje-mujeres-Georgia-caucaso-e1637067208974.jpg "La Cordillera del Cáucaso era conocida como uno de los pilares del mundo.")
+![Kazbegi Peak and Glacier](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-caucaso-e1637067208974.jpg "La Cordillera del Cáucaso era conocida como uno de los pilares del mundo.")
 
 ## 2\. El Cáucaso entre nubes
 
@@ -53,7 +53,7 @@ los líquenes, talladas con racimos de uvas y animales míticos. A su vez es un 
 mirador, desde el siglo XIV, pues al llegar hasta ella alcanzaremos los 2.170 metros 
 junto a la iglesia con mejores vistas de Georgia. 
 
-![viaje a georgia bodegas de georgia](etheria-images/2019/02/Viaje-mujeres-Georgia-vinos-e1637067031921.jpg "Te sorprenderán los vinos georgianos.")
+![viaje a georgia bodegas de georgia](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-vinos-e1637067031921.jpg "Te sorprenderán los vinos georgianos.")
 
 ## 3\. Bodegas en la cuna del vino
 
@@ -72,7 +72,7 @@ etnográfico. Otras de las bodegas más llamativas de la región es la de [Khare
 que utiliza la temperatura y humedad constantes de unos viejos túneles de la época 
 soviética a lo largo de 7 kilómetros, para la maduración de sus caldos. 
 
-![iglesias que ver en georgia](etheria-images/2019/02/Viaje-mujeres-Georgia-iglesia-e1637066928892.jpg "En Georgia están algunas de las iglesias más antiguas del mundo.")
+![iglesias que ver en georgia](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-iglesia-e1637066928892.jpg "En Georgia están algunas de las iglesias más antiguas del mundo.")
 
 ## 4\. Iglesias más antiguas del mundo
 
@@ -87,7 +87,7 @@ vestimenta** evitando pantalones demasiado cortos –o si lo prefieres antes de 
 envuelve tus piernas con un gran chal– y las mujeres, además, debemos cubrirnos la 
 cabeza con un pañuelo. 
 
-![cuevas en georgia que ver en georgia](etheria-images/2019/02/Viaje-mujeres-Georgia-cuevas-e1637067168617.jpg "Vardzia es una ciudad rupestre con 13 pisos y más de 6.000 estancias.")
+![cuevas en georgia que ver en georgia](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-cuevas-e1637067168617.jpg "Vardzia es una ciudad rupestre con 13 pisos y más de 6.000 estancias.")
 
 ## 5\. Vardzia y Uplistsikhe, vivir en la roca
 
@@ -106,7 +106,7 @@ estratégico que se extendió en 8 hectáreas con sus edificios, escaleras y tú
 tallados en la roca que culmina, en la cumbre, con la basílica medieval de esta ciudad 
 que increíblemente llegó a estar habitada por 20.000 personas. 
 
-![que ver en georgia mtskheta](etheria-images/2019/02/Viaje-mujeres-Georgia-unesco-e1637067076796.jpg "Mtskheta, la antigua capital de Georgia.")
+![que ver en georgia mtskheta](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-unesco-e1637067076796.jpg "Mtskheta, la antigua capital de Georgia.")
 
 ## 6\. Caminando por el Patrimonio de la Humanidad
 
@@ -121,7 +121,7 @@ en piedra, sentirás la energía de sus muros. Decorados con numerosos iconos, a
 que caminas entre frescos medievales que han resistido terremotos, invasiones e incluso 
 los destrozos ocasionados por el Imperio ruso al blanquearlos. 
 
-![viaje a georgia que ver en tbilisi,](etheria-images/2019/02/Viaje-mujeres-Georgia-tbilisi-e1637067090472.jpg "Panorámica de Tbilisi.")
+![viaje a georgia que ver en tbilisi,](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-tbilisi-e1637067090472.jpg "Panorámica de Tbilisi.")
 
 ## 7\. Tbilisi, una vieja ciudad entre continentes
 
@@ -141,7 +141,7 @@ se extiende de la otra orilla del río Mtkvari, atravesado por **la estructura d
 del puente de la Paz**; acero y cristal para conectar las dos orillas de una encrucijada 
 entre dos continentes desde una de las ciudades más antiguas de Europa. 
 
-![que ver en georgia](etheria-images/2019/02/Viaje-mujeres-Georgia-fortaleza-akhaltsikhe-e1637067139901.jpg "La ciudad de Akhaltsikhe merece una parada para contemplar la antigua fortaleza otomana de Rabati.")
+![que ver en georgia](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-fortaleza-akhaltsikhe-e1637067139901.jpg "La ciudad de Akhaltsikhe merece una parada para contemplar la antigua fortaleza otomana de Rabati.")
 
 ## 8\. Embrujo otomano en la fortaleza de Akhaltsikhe
 
@@ -156,7 +156,7 @@ se ha creado un magnífico conjunto monumental que aglutina las zonas más antig
 modernas dependencias entre las que destaca su Museo de Historia por la rica colección, 
 que acoge valiosas piezas datadas desde tiempos neolíticos. 
 
-![Gori viaje a georgia](etheria-images/2019/02/Viaje-mujeres-Georgia-gori-e1637067124415.jpg "Museo de Stalin, en Gori, la ciudad natal del líder soviético.")
+![Gori viaje a georgia](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-gori-e1637067124415.jpg "Museo de Stalin, en Gori, la ciudad natal del líder soviético.")
 
 ## 9\. Gori, memorias soviéticas
 
@@ -171,7 +171,7 @@ gótico que alberga el museo es una ostensible muestra arquitectónica del socia
 soviético aderezado interiormente con los efectos personales, fotografías y muebles que 
 rodearon la vida del polémico líder soviético. 
 
-![que ver en georgia cueva de prometeo](etheria-images/2019/02/Viaje-mujeres-Georgia-cueva-prometeo-e1637067182628.jpg "Magnífico interior de la Cueva de Prometeo.")
+![que ver en georgia cueva de prometeo](https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-cueva-prometeo-e1637067182628.jpg "Magnífico interior de la Cueva de Prometeo.")
 
 ## 10\. Cueva de Prometeo
 

@@ -1,7 +1,7 @@
 ---
 title: "5 experiencias originales en el Alentejo"
 date: 2018-11-08
-coverImage: etheria-images/2018/11/museo-cafe-alentejo-portugal-e1658936074607.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/museo-cafe-alentejo-portugal-e1658936074607.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -12,7 +12,7 @@ authors:
 
 Es el Alentejo. No es El Algarve ni Lisboa ni Oporto. Tampoco es el primer destino en el que pensamos cuando planeamos un viaje a Portugal. Pero, precisamente por esto, la región del Alentejo ofrece propuestas alejadas del turismo de masas. A través de estas 5 experiencias, disfrutarás de un fin semana diferente donde se combina la historia, la naturaleza y la gastronomía.
 
-![Molinos del Alto de S. Bento, el mejor lugar para ver el atardecer en Évora.](etheria-images/2018/11/atardecer-evora-viaje-mujeres-1024x669.jpg "Molinos del Alto de S. Bento, el mejor lugar para ver el atardecer en Évora. ©P.G.")
+![Molinos del Alto de S. Bento, el mejor lugar para ver el atardecer en Évora.](https://fotos.etheriamagazine.com/2018/11/atardecer-evora-viaje-mujeres-1024x669.jpg "Molinos del Alto de S. Bento, el mejor lugar para ver el atardecer en Évora. ©P.G.")
 
 En primer lugar, vamos a situarnos. La región del Alentejo es colindante en Portugal con 
 la Región de Lisboa, con la Región Centro y con El Algarve, y con las provincias 
@@ -35,7 +35,7 @@ desde el siglo XV un gran centro político y cultural, lo evidencia la cantidad 
 palacios con el escudo de armas en la fachada, conventos, iglesias e instituciones 
 presentes en el centro histórico. 
 
-![Templo romano de Évora.](etheria-images/2018/11/templo-romano-evora-1024x660.jpg "Templo romano de Évora. ©P.G.")
+![Templo romano de Évora.](https://fotos.etheriamagazine.com/2018/11/templo-romano-evora-1024x660.jpg "Templo romano de Évora. ©P.G.")
 
 En Évora la frialdad propia de la piedra con la que se han levantado sus edificios se 
 compensa con la alegría de los estudiantes, unos diez mil jóvenes, que van de acá para 
@@ -45,7 +45,7 @@ El mejor lugar para tomar el pulso a la ciudad si el día está soleado es la **
 Giraldo**, y si no lo está, siempre se puede entrar en algún restaurante como los 
 recomendados en la guía práctica para disfrutar de la buena mesa portuguesa. 
 
-![Praça do Giraldo, el centro social de Évora.](etheria-images/2018/11/plaza-giraldo-evora2-1024x638.jpg "Praça do Giraldo, el centro social de Évora. © P. García")
+![Praça do Giraldo, el centro social de Évora.](https://fotos.etheriamagazine.com/2018/11/plaza-giraldo-evora2-1024x638.jpg "Praça do Giraldo, el centro social de Évora. © P. García")
 
 ### 2\. Paseo en tractor (y no es una broma)
 
@@ -59,7 +59,7 @@ sea el amarillo que decía la canción) en una finca ganadera. Esta actividad, q
 comenzado a realizar en la **Herdade de la familia Passanha**, trata de compartir y dar 
 a conocer cómo es la vida en una ganadería de reses bravas. 
 
-![Herdade de Passanha, cría de reses bravas.](etheria-images/2018/11/Ganaderia-passanha-1024x683.jpg "Herdade de Passanha, cría de reses bravas. © P.G.")
+![Herdade de Passanha, cría de reses bravas.](https://fotos.etheriamagazine.com/2018/11/Ganaderia-passanha-1024x683.jpg "Herdade de Passanha, cría de reses bravas. © P.G.")
 
 La visita está planteada como un paseo por la finca, admirando a los animales, y luego 
 una comida tradicional en la casa de la familia. Diana y Diogo Passanha, grandes 
@@ -67,7 +67,7 @@ anfitriones, explican con pasión su día a día mientras los visitantes tratan 
 cómo debe ser vivir y trabajar en un lugar donde el reloj marca todas y cada una de las 
 horas. 
 
-![Paseo en remolque en Herdade Passanha.](etheria-images/2018/11/Paseo-tractor-alentejo-1024x668.jpg "Paseo en remolque en Herdade Passanha. ©P.G.")
+![Paseo en remolque en Herdade Passanha.](https://fotos.etheriamagazine.com/2018/11/Paseo-tractor-alentejo-1024x668.jpg "Paseo en remolque en Herdade Passanha. ©P.G.")
 
 ### 3\. Tomar un vino con vistas
 
@@ -79,7 +79,7 @@ su arquitectura y la calidad de su vino, merece una visita. Adega Mayor represen
 sueño del empresario Rui Nabeiro, un apasionado del vino y de su pueblo, Campo Maior, 
 donde se ubica. 
 
-![Tejado de la Bodega Adega Mayor (en Campo Maior, Alentejo).](etheria-images/2018/11/bodega-adega-mayor-1024x628.jpg "Tejado de la Bodega Adega Mayor (en Campo Maior, Alentejo). © P.G.")
+![Tejado de la Bodega Adega Mayor (en Campo Maior, Alentejo).](https://fotos.etheriamagazine.com/2018/11/bodega-adega-mayor-1024x628.jpg "Tejado de la Bodega Adega Mayor (en Campo Maior, Alentejo). © P.G.")
 
 Externamente llama la atención por sus volúmenes y el color blanco dominante. En el 
 interior los espacios siguen siendo grandes pero transmiten una mayor calidez. Los 
@@ -88,7 +88,7 @@ entendidos en arquitectura identificarán el inconfundible sello del arquitecto 
 oportunidad de construir en el interior de un paisaje hermoso e incólume. Es una enorme 
 responsabilidad”. 
 
-![Vinos de Adega Mayor.](etheria-images/2018/11/adega-mayor-bodega-alentejo-1024x648.jpg "Vinos de Adega Mayor. © P.G.")
+![Vinos de Adega Mayor.](https://fotos.etheriamagazine.com/2018/11/adega-mayor-bodega-alentejo-1024x648.jpg "Vinos de Adega Mayor. © P.G.")
 
 La bodega está preparada para recibir a visitantes. Estos comienzan con un audiovisual 
 sobre la historia de Adega Mayor, continúan recorriendo las diferentes salas de 
@@ -99,7 +99,7 @@ soleados. En la tienda, situada en la planta baja, puedes adquirir alguno de sus
 (como Caiado, Monte Mayor, Solista o Reserva do Comendador) o algún producto gourmet 
 como aceite y sal. 
 
-![Cata de vinos en el hotel Tivoli Evora Ecoresort.](etheria-images/2018/11/cata-vinos-hotel-tivoli-evora-1024x649.jpg "Cata de vinos en el hotel Tivoli Evora Ecoresort. © P.G.")
+![Cata de vinos en el hotel Tivoli Evora Ecoresort.](https://fotos.etheriamagazine.com/2018/11/cata-vinos-hotel-tivoli-evora-1024x649.jpg "Cata de vinos en el hotel Tivoli Evora Ecoresort. © P.G.")
 
 Otra bodega que también produce vinos de calidad es **Lima Mayer**, que cuenta con un 
 refrescante Rosé y tintos de calidad como su Petit Verdot y el Reserva de 2015. Sus 
@@ -120,7 +120,7 @@ para los portugueses. El nombre de Centro de Ciencia lo diferencia de un simple 
 le hace justicia, ya que en este gran, grandísimo, espacio de más de tres mil metros 
 cuadrados se realiza un recorrido desde la plantación hasta la degustación. 
 
-![Centro de Ciencia do Café (Campo Maior, Alentejo).](etheria-images/2018/11/museo-cafe-alentejo-portugal-1024x651.jpg "Centro de Ciencia do Café (Campo Maior, Alentejo). © P.G.")
+![Centro de Ciencia do Café (Campo Maior, Alentejo).](https://fotos.etheriamagazine.com/2018/11/museo-cafe-alentejo-portugal-1024x651.jpg "Centro de Ciencia do Café (Campo Maior, Alentejo). © P.G.")
 
 A través de sus diversas salas, adaptadas para todo tipo de público (también infantil), 
 tratan de estimular la curiosidad y transmitir el conocimiento sobre el café. Son 
@@ -131,7 +131,7 @@ ediciones del Campeonato de Baristas de Portugal, elabora especialidades tradici
 creativas. ¡Qué mejor manera de terminar la visita que tomando una bica (un café 
 _espresso_) o un café con hielo, sirope de pistacho y leche condensada! 
 
-![Rincón de Fernando Pessoa en el Centro de Ciencia do Café.](etheria-images/2018/11/museo-cafe-campo-maior-alentejo-1024x679.jpg "Rincón de Fernando Pessoa en el Centro de Ciencia do Café. © P.G.")
+![Rincón de Fernando Pessoa en el Centro de Ciencia do Café.](https://fotos.etheriamagazine.com/2018/11/museo-cafe-campo-maior-alentejo-1024x679.jpg "Rincón de Fernando Pessoa en el Centro de Ciencia do Café. © P.G.")
 
 ### 5\. Cante Alentejano
 
@@ -143,7 +143,7 @@ sobre emociones, amores o situaciones cotidianas del mundo rural. La primera agr
 se formó en 1926 y estuvo compuesta por obreros de las minas de Sao Domingo (ya 
 abandonadas). 
 
-![Actuación de grupo alentejano en hotel Tivoli Évora Ecoresort.](etheria-images/2018/11/canto-elentejano-1024x737.jpg "Actuación de grupo alentejano en hotel Ecork Hotel Évora. © P.G.")
+![Actuación de grupo alentejano en hotel Tivoli Évora Ecoresort.](https://fotos.etheriamagazine.com/2018/11/canto-elentejano-1024x737.jpg "Actuación de grupo alentejano en hotel Ecork Hotel Évora. © P.G.")
 
 Si antaño cantaban mientras realizaban las labores del campo, hoy día lo hacen en 
 fiestas populares o privadas, tabernas o asociaciones. Si estás interesada en asistir a 
@@ -162,13 +162,13 @@ privacidad y un patio privado donde relajarse admirando el paisaje alentejano. T
 disponen de suites de lujo con piscina privada. Que no te extrañe si aparece un burro o 
 algunas ovejas por delante de tu puerta. 
 
-![Ecork Hotel Évora](etheria-images/2018/11/hotel-tivoli-ecoresort-evora-1024x683.jpg)
+![Ecork Hotel Évora](https://fotos.etheriamagazine.com/2018/11/hotel-tivoli-ecoresort-evora-1024x683.jpg)
 
 Si te planteas una escapada de relax te recomendamos disfrutar de su buena mesa en el 
 **restaurante Cardo**, de los tratamientos en el spa y de la piscina situada en la 
 azotea, con vistas a Évora y a los campos de alcornoques. 
 
-![Interior del hotel Ecork Hotel Évora](etheria-images/2018/11/hotel-tivoli-evora-1024x716.jpg "Interior del hotel Tivoli Évora Ecoresort.")
+![Interior del hotel Ecork Hotel Évora](https://fotos.etheriamagazine.com/2018/11/hotel-tivoli-evora-1024x716.jpg "Interior del hotel Tivoli Évora Ecoresort.")
 
 ##### ¿Dónde comer en el Alentejo?
 
@@ -182,7 +182,7 @@ Fialho](https://restaurantefialho.pt) (Travessa Mascarenhas, 14. Évora). Un
 establecimiento muy renombrado y con ricos platos regionales. Delicioso su medallón de 
 cerdo negro. 
 
-![Enoteca de Évora.](etheria-images/2018/11/enoteca-evora-1024x721.jpg "Enoteca de Évora.")
+![Enoteca de Évora.](https://fotos.etheriamagazine.com/2018/11/enoteca-evora-1024x721.jpg "Enoteca de Évora.")
 
 • Más información [Turismo de Alentejo](http://www.visitalentejo.pt/es/) 
 

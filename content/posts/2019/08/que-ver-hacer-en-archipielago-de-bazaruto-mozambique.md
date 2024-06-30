@@ -1,7 +1,7 @@
 ---
 title: "Bazaruto, el archipiélago más virginal de Mozambique"
 date: 2019-08-21
-coverImage: etheria-images/2019/08/viaje-Mozambique-bazaruto-vilanculos-playa.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-bazaruto-vilanculos-playa.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
@@ -16,7 +16,7 @@ cinco islas de ensueño: Bazaruto, Benguerra, Santa Carolina, Magaruque y Bangé
 tienen playas de arena blanca, dunas, manglares, lagos interiores y aguas cristalinas de 
 color turquesa repletas de peces de colores y arrecifes de coral. 
 
-![Viajera en la isla de Santa Carolina, del archipiélago de Bazaruto.](etheria-images/2019/08/viaje-Mozambique-costa-isla-santa-carolina-bazaruto.jpg "Viajera en la isla de Santa Carolina, del archipiélago de Bazaruto.")
+![Viajera en la isla de Santa Carolina, del archipiélago de Bazaruto.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-costa-isla-santa-carolina-bazaruto.jpg "Viajera en la isla de Santa Carolina, del archipiélago de Bazaruto.")
 
 Cuentan los historiadores que la reina de Saba llegó al **archipiélago de Bazaruto**, 
 que pertenece a **Mozambique**, hace 3.000 años. Seguro que en su retina quedaron 
@@ -31,7 +31,7 @@ del océano Indico. En ella se yerguen inmensas dunas de arena y, sobre la más 
 se alza un antiguo faro. Podrás pasear a lo largo de las playas que la rodean, con una 
 arena tan fina y tan blanca como los polvos de talco. 
 
-![Formas caprichosas de la naturaleza en Bazaruto.](etheria-images/2019/08/viaje-Mozambique-bazaruto-colores.jpg "Formas caprichosas de la naturaleza en Bazaruto.")
+![Formas caprichosas de la naturaleza en Bazaruto.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-bazaruto-colores.jpg "Formas caprichosas de la naturaleza en Bazaruto.")
 
 ## 2\. Isla de Benguerra
 
@@ -50,7 +50,7 @@ troncos van adornando cada uno de los pasos que doy en la playa. Las lenguas de 
 van multiplicando conforme baja la marea y crean minúsculas islas de diferentes formas, 
 tonos de azul y tamaños. 
 
-![La blancura de la arena llega a cegarte a mediodía.](etheria-images/2019/08/viaje-Mozambique-playas-bazaraturo.jpg "La blancura de la arena llega a cegarte a mediodía.")
+![La blancura de la arena llega a cegarte a mediodía.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-playas-bazaraturo.jpg "La blancura de la arena llega a cegarte a mediodía.")
 
 ## 4\. Isla de Santa Carolina
 
@@ -61,7 +61,7 @@ totalmente abandonado. Hoy se espera que alguna millonaria o algún millonario l
 a hacer resurgir. Si no eres tú la magnate que lo haga, al menos siéntete la estrella de 
 Santa Carolina por un día. 
 
-![Juegos en la playa de Bazaruto.](etheria-images/2019/08/viaje-Mozambique-bazaruto-vilanculos-playa.jpg "Juegos en la playa de Bazaruto.")
+![Juegos en la playa de Bazaruto.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-bazaruto-vilanculos-playa.jpg "Juegos en la playa de Bazaruto.")
 
 ## 5\. Isla de Bangé
 
@@ -70,7 +70,7 @@ Bangé tiene mucho que ofrecer: playas imposibles, arena fina y radiante, agua
 transparente aquí y turquesa allá, corales y pececitos de miles de colores. No es raro 
 encontrarte con los pescadores que llegan con las alforjas repletas de peces. 
 
-![Pescador pasea por la playa de de Vilanculos.](etheria-images/2019/08/viaje-Mozambique-Inhambane-vilanculos.jpg "Pescador pasea por la playa de de Vilanculos.")
+![Pescador pasea por la playa de de Vilanculos.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-Inhambane-vilanculos.jpg "Pescador pasea por la playa de de Vilanculos.")
 
 ## 6\. Avistamiento de ballenas jorobadas o yubartas
 
@@ -81,7 +81,7 @@ cálidas de Mozambique para tener a sus crías. Es fácil ver a las ballenas jor
 yubartas con sus bebés. Al ser tan acrobáticas en sus movimientos, sacarán la aleta 
 caudal con gran elegancia e incluso harán saltos fuera del agua. 
 
-![Navega para ver cetáceos.](etheria-images/2019/08/viaje-Mozambique-ballena.jpg "Navega para ver cetáceos.")
+![Navega para ver cetáceos.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-ballena.jpg "Navega para ver cetáceos.")
 
 ## 7\. Bosque de Baobabs
 
@@ -92,7 +92,7 @@ sabio de la tribu puede subirse a sus ramas para recoger sus frutos y sus hojas.
 llegar a vivir 800 años, medir hasta 30 metros y albergar hasta 5.000 litros de agua en 
 su interior. 
 
-![Los baobas siempre transmiten magia.](etheria-images/2019/08/viaje-Mozambique-baboba-Vilanculos-213.jpg "Los baobas siempre transmiten magia.")
+![Los baobas siempre transmiten magia.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-baboba-Vilanculos-213.jpg "Los baobas siempre transmiten magia.")
 
 ## 8\. Vilanculos o Vilankulo
 
@@ -104,7 +104,7 @@ vendedores y músicos desfilan por este escenario idílico. No hay centro urbano
 tampoco tiendas, pero podrás pasear por las calles del mercado central y empaparte de la 
 **gran variedad de especias** y de las bonitas y **coloridas telas africanas**. 
 
-![Mujeres en el mercado de Vilanculos.](etheria-images/2019/08/viaje-Mozambique-mujeres-mercado-vilanculos-bazaruto.jpg "Mujeres en el mercado de Vilanculos.")
+![Mujeres en el mercado de Vilanculos.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-mujeres-mercado-vilanculos-bazaruto.jpg "Mujeres en el mercado de Vilanculos.")
 
 ## 9\. Las bondades del mar
 
@@ -116,7 +116,7 @@ por algún cocinero que te prepare a la brasa algún pescado o marisco. Estará 
 de hacerlo, incluso de cocinarlo él mismo. Te lo llevará al hotel y comerás un pescado 
 rico, fresco y barato. 
 
-![Los pescadores llegan a diario con sus capturas a la playa.](etheria-images/2019/08/viaje-Mozambique-Bazaruto-Vilanculos.jpg "Los pescadores llegan a diario con sus capturas a la playa.")
+![Los pescadores llegan a diario con sus capturas a la playa.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-Bazaruto-Vilanculos.jpg "Los pescadores llegan a diario con sus capturas a la playa.")
 
 ## 10\. Atardecer en las costas del océano Índico
 
@@ -126,7 +126,7 @@ pero ninguno es igual que el anterior. Cada uno tiene sus tiempos, sus medidas, 
 colores. Por ello, no debes perderte este mágico momento mientras estés en la costa de 
 Mozamique. 
 
-![Atardecer desde la playa de Vilanculos.](etheria-images/2019/08/viaje-Mozambique-dhow-beach-vilanculos.jpg "Atardecer desde la playa de Vilanculos.")
+![Atardecer desde la playa de Vilanculos.](https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-dhow-beach-vilanculos.jpg "Atardecer desde la playa de Vilanculos.")
 
 ## Guía de viaje de Bazaruto, Mozambique
 

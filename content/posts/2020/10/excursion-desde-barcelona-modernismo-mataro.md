@@ -1,7 +1,7 @@
 ---
 title: "La cuna del Modernismo está en Mataró"
 date: 2020-10-14
-coverImage: etheria-images/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-interior.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-interior.jpg
 categories: 
   - viajes-para-mujeres
   - viajar-sola
@@ -11,7 +11,7 @@ authors:
 
 Aunque Barcelona es la capital del Modernismo, te invitamos a conocer otros lugares donde grandísimos arquitectos catalanes iniciaron su carrera. Mataró, a poco más de media hora de la ciudad condal, te sorprenderá con su riqueza modernista. Te contamos las visitas imprescindibles.
 
-![casa coll i regas casa burguesa de mataro](etheria-images/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-interior.jpg "Interior de la casa Coll i Regàs, en Mataró.")
+![casa coll i regas casa burguesa de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-interior.jpg "Interior de la casa Coll i Regàs, en Mataró.")
 
 Se les conoció por sus edificios de formas orgánicas, su barroquismo decorativo, su 
 interiorismo artesanal y por una genialidad única que marcó una época y un modo de ver 
@@ -22,7 +22,7 @@ primeras obras modernistas. Y muchas de ellas están a un paso de la ciudad cond
 **comarca del Maresme**, por lo que una excursión a Mataró es un plan perfecto desde 
 Barcelona. 
 
-![detalle casa coll i regas de mataro](etheria-images/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-detalle-683x1024.jpg "Bonitos detalles modernistas de la Casa Coll i Regàs, en Mataró.")
+![detalle casa coll i regas de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-detalle-683x1024.jpg "Bonitos detalles modernistas de la Casa Coll i Regàs, en Mataró.")
 
 Mosaicos de mil colores, cerámica decorativa, hierro forjado, muebles de diseños 
 sinuosos, vitrales emploma­dos... el **Modernismo** de finales del XIX y principios del 
@@ -34,7 +34,7 @@ paseo de Gràcia. El estilo modernista en la capital catalana sorprendió —par
 agrado— a sus coetáneos y sigue atrapando a cualquiera, autóctono o visitante, que se 
 pare aunque sea un minuto a contemplar una fachada, un parque o una azotea de la época. 
 
-![nau gaudi museo arte contemporaneo de mataro](etheria-images/2020/10/viaje-mataro-modernismo-Nau-Gaudi-museo.jpg "La Nau Gaudí acoge el Museo de Arte Contemporáneo de Mataró y la Col.lecció Bassat.")
+![nau gaudi museo arte contemporaneo de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Nau-Gaudi-museo.jpg "La Nau Gaudí acoge el Museo de Arte Contemporáneo de Mataró y la Col.lecció Bassat.")
 
 ## El primer Gaudí
 
@@ -55,7 +55,7 @@ interior, las obras de grandes artistas de la segunda mitad del siglo XX (entre 
 se cuentan Guinovart, Tàpies, Miró o Picasso) se arropan bajo unos muy gaudinianos y 
 arcos parabólicos que serían clave en muchas de sus obras posteriores. 
 
-![casa coll i regas casa modernista de mataro](etheria-images/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-rejas-683x1024.jpg "Casa Coll i Regàs, casa burguesa de Mataró diseñada por Cadafalch.")
+![casa coll i regas casa modernista de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-rejas-683x1024.jpg "Casa Coll i Regàs, casa burguesa de Mataró diseñada por Cadafalch.")
 
 ## Modernismo municipal
 
@@ -70,7 +70,7 @@ Eusebi Arnau. También en el **Ayuntamiento de Mataró** dejó su sello el arqui
 como en el **mercado El Rengle**, cuya colorida cubierta cerámica sigue presenciando a 
 diario cómo se realiza la venta de pescado y de tomates. 
 
-![Tienda modernista la confianza mataro](etheria-images/2020/10/viaje-mataro-modernismo-tienda-La-Confianza.jpg "Tienda 'La Confianza', en Mataró.")
+![Tienda modernista la confianza mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-tienda-La-Confianza.jpg "Tienda 'La Confianza', en Mataró.")
 
 ## Pioneras y deslumbrantes
 
@@ -97,7 +97,7 @@ saber: forja, cerámica, vidrio plomado, esgrafiado, escultura o artesonado entr
 Ornamentaciones que poco después aplicaría, por cierto, a una de sus obras cumbre: la 
 Casa Amatller. 
 
-![fachada casa coll i regas de mataro](etheria-images/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-puerta.jpg "Fachada de la Casa Coll i Regàs, en Mataró.")
+![fachada casa coll i regas de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-puerta.jpg "Fachada de la Casa Coll i Regàs, en Mataró.")
 
 ## Modernismo más allá de Mataró
 
@@ -116,7 +116,7 @@ Finalmente, también **Alella**, célebre por sus vinos de la D.O. Alella y la D
 conserva muchos edificios modernistas, entre ellos el de la Sociedad Cooperativa Alella, 
 de 1904, considerada una de las _catedrales del vino_ de Cataluña. 
 
-![interior casa coll i regas de mataro](etheria-images/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-decoracion-683x1024.jpg "Casa Coll i Regás, una visita imprescindible en Mataró.")
+![interior casa coll i regas de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-decoracion-683x1024.jpg "Casa Coll i Regás, una visita imprescindible en Mataró.")
 
 ### CONSEJOS ETHERIA
 

@@ -1,7 +1,7 @@
 ---
 title: "Vuelve la ilusión de viajar, vuelven las Jornadas IATI de los Grandes Viajes"
 date: 2021-05-25
-coverImage: etheria-images/2021/05/cartel-iatiJGV-2021.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/05/cartel-iatiJGV-2021.jpg
 categories: 
   - viajes-con-amigas
   - mujeres-etheria
@@ -13,7 +13,7 @@ authors:
 
 Las Jornadas IATI de los Grandes Viajes son el punto de encuentro desde 2013 de trotamundos y de soñadores, un espacio donde compartir experiencias e inquietudes. En Etheria Magazine te adelantamos algunas historias de viajeras que participarán y que sirven de inspiración a otras mujeres que también desean recorrer el mundo.
 
-![jornadas iati de los grandes viajes 2021](etheria-images/2021/05/jornadas-grandes-viajes-cartel-2021.jpg "Jornadas IATI de los Grandes Viajes 2021.")
+![jornadas iati de los grandes viajes 2021](https://fotos.etheriamagazine.com/2021/05/jornadas-grandes-viajes-cartel-2021.jpg "Jornadas IATI de los Grandes Viajes 2021.")
 
 Una edición más, y ya van ocho. Vuelven los trotamundos, los aventureros y los soñadores 
 a ser los protagonistas de las Jornadas IATI de los Grandes Viajes. Este evento, 
@@ -46,7 +46,7 @@ Insausti**, **Cristina Pereferrer, Patricia Sazatornil**, **Clara Ruiz** y **Let
 Lagarda**, para conocer sus motivaciones, enseñanzas y anécdotas durante su periplo 
 viajero. 
 
-![Cristina Pereferrer y Patricia Sazatornil  jornada grandes viajes](etheria-images/2021/05/jornadas-grandes-viajes-patricia-cristina-2.jpg "Cristina Pereferrer y Patricia Sazatornil: India, Nepal, Japón, Nueva Zelanda...")
+![Cristina Pereferrer y Patricia Sazatornil  jornada grandes viajes](https://fotos.etheriamagazine.com/2021/05/jornadas-grandes-viajes-patricia-cristina-2.jpg "Cristina Pereferrer y Patricia Sazatornil: India, Nepal, Japón, Nueva Zelanda...")
 
 ### Patricia y Cristina, viaje a la India y al Sudeste asiático
 
@@ -68,7 +68,7 @@ que respecta al viaje en sí mismo como a tus creencias, pensamientos y emocione
 que estar dispuesto a desaprender muchas cosas y a observar tu alrededor con otra 
 mirada”. 
 
-![Cristina Pereferrer y Patricia Sazatornil  viajeras](etheria-images/2021/05/jornadas-grandes-viajes-patricia-cristina-3.jpg "Cristina Pereferrer y Patricia Sazatornil: 9 meses después de conocerse lo dejaron todo para viajar.")
+![Cristina Pereferrer y Patricia Sazatornil  viajeras](https://fotos.etheriamagazine.com/2021/05/jornadas-grandes-viajes-patricia-cristina-3.jpg "Cristina Pereferrer y Patricia Sazatornil: 9 meses después de conocerse lo dejaron todo para viajar.")
 
 #### Ahora viven en una autocaravana
 
@@ -88,7 +88,7 @@ extraños' es un engaño”.
 Para conocerlas mejor puedes seguirlas en [A bordo del 
 mundo](https://abordodelmundo.com/). 
 
-![Marta Insausti motera madrilena](etheria-images/2021/05/marta-insausti-lamotera-683x1024.jpg "Marta Insausti se lanzó a recorrer el mundo en moto sola.")
+![Marta Insausti motera madrilena](https://fotos.etheriamagazine.com/2021/05/marta-insausti-lamotera-683x1024.jpg "Marta Insausti se lanzó a recorrer el mundo en moto sola.")
 
 ### Marta Insausti: "que me quiten lo bailao"
 
@@ -107,7 +107,7 @@ mucho acerca de las cosas que importan en la vida. Decidí que iba a hacer algo 
 cuando volviera a estar frente a la muerte me sacara una sonrisa y pudiera decir que "me 
 quiten lo bailao”. 
 
-![Marta Insausti Fundacion Vicente Ferrer](etheria-images/2021/05/marta-insausti-fundacion-vicente-ferrer.jpg "Marta Insausti colabora con la Fundación Vicente Ferrer.")
+![Marta Insausti Fundacion Vicente Ferrer](https://fotos.etheriamagazine.com/2021/05/marta-insausti-fundacion-vicente-ferrer.jpg "Marta Insausti colabora con la Fundación Vicente Ferrer.")
 
 #### Comenzando a viajar
 
@@ -132,7 +132,7 @@ excusas y tus rollos mentales. Es una terapia intensiva”.
 > “He aprendido muchísimo de mis miedos y he descubierto muchas cosas de mi forma de ser” 
 > (Marta Insausti) 
 
-![Marta Insausti viajera en moto](etheria-images/2021/05/marta-insausti-tailandia.jpg "Marta Insausti: "no había hecho un viaje largo en moto en mi vida y nunca había viajado sola más que por trabajo”.")
+![Marta Insausti viajera en moto](https://fotos.etheriamagazine.com/2021/05/marta-insausti-tailandia.jpg "Marta Insausti: "no había hecho un viaje largo en moto en mi vida y nunca había viajado sola más que por trabajo”.")
 
 #### Adiós a los prejuicios
 
@@ -145,7 +145,7 @@ en Chile y terminar mi vuelta al mundo”.
 
 Puedes seguir sus viajes en [La Motera](https://lamotera.com/). 
 
-![leti lagarda viajera](etheria-images/2021/05/jornadas-grandes-viajes-leti-lagarda-2.jpg "Leti Lagarda, viajera por vocación.")
+![leti lagarda viajera](https://fotos.etheriamagazine.com/2021/05/jornadas-grandes-viajes-leti-lagarda-2.jpg "Leti Lagarda, viajera por vocación.")
 
 ### Leti Lagarda, mochilera en solitario
 
@@ -169,7 +169,7 @@ tiempo de viajes reconoce que le ha hecho dejar a un lado los prejuicios y perde
 miedo a lo desconocido. También a aprender a distinguir sin razón de raza, color o 
 religión, porque en el mundo hay dos tipos de personas: buenas y malas”. 
 
-![viajeras leti lagarda](etheria-images/2021/05/jornadas-grandes-viajes-leti-lagarda3.jpg "Leti Lagarda, viajar le ha aportado “madurez, sensibilidad y muchas aventuras.")
+![viajeras leti lagarda](https://fotos.etheriamagazine.com/2021/05/jornadas-grandes-viajes-leti-lagarda3.jpg "Leti Lagarda, viajar le ha aportado “madurez, sensibilidad y muchas aventuras.")
 
 A Leti Lagarda “le encanta lo diferente e inexplorado, y ha optado por contar historias 
 de viaje para que otras mujeres se lancen a viajar solas”. Entre sus sueños está seguir 
@@ -180,7 +180,7 @@ expediciones para mujeres a [Irán](https://etheriamagazine.com/2019/11/06/que-v
 
 Puedes seguir sus viajes en Desesperadamente Viajera y en [Instagram](https://www.instagram.com/leti_lagarda/). 
 
-![clara ruiz viajar corriendo](etheria-images/2021/05/clara-ruiz-viaja-corriendo.jpg "Clara Ruiz, viajar corriendo es su estilo de vida.")
+![clara ruiz viajar corriendo](https://fotos.etheriamagazine.com/2021/05/clara-ruiz-viaja-corriendo.jpg "Clara Ruiz, viajar corriendo es su estilo de vida.")
 
 ### Clara Ruiz, viajar corriendo
 
@@ -207,7 +207,7 @@ Con las fronteras de los países vecinos cerradas, cambié mi rumbo hacia los Ba
 poquito abierto y asequible, y luego he venido a México (que está abierto y sin muchas 
 restricciones) para empezar a correr por el continente americano”. 
 
-![clara ruiz viajar corriendo](etheria-images/2021/05/clara-ruiz-viajar-correr-turquia.jpg "Clara Ruiz ya lleva 4.400 kilómetros recorridos.")
+![clara ruiz viajar corriendo](https://fotos.etheriamagazine.com/2021/05/clara-ruiz-viajar-correr-turquia.jpg "Clara Ruiz ya lleva 4.400 kilómetros recorridos.")
 
 #### 13 países y subiendo
 

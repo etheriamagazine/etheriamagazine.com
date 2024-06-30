@@ -1,7 +1,7 @@
 ---
 title: "10 buenas razones para escaparse a la antigua Tarraco"
 date: 2021-12-29
-coverImage: etheria-images/2021/12/Ruta-del-VI-DO-TARRAGONA.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/12/Ruta-del-VI-DO-TARRAGONA.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Si cuando eliges destino para tu siguiente escapada necesitas razones que justifiquen la decisión, te vamos a dar diez muy convincentes para visitar Tarragona cuanto antes. Recorrer la única ciudad Patrimonio de la Humanidad de Cataluña nos parece un plan perfecto para hacer con amigas o en familia.
 
-![gastronomia y vino tarragona](etheria-images/2021/12/Ruta-del-VI-DO-TARRAGONA.jpg "La gastronomía y el vino son sólo una de las razones para visitar Tarragona. © DO Tarragona")
+![gastronomia y vino tarragona](https://fotos.etheriamagazine.com/2021/12/Ruta-del-VI-DO-TARRAGONA.jpg "La gastronomía y el vino son sólo una de las razones para visitar Tarragona. © DO Tarragona")
 
 Siempre decimos que nos gustan las ciudades a la medida del ser humano, con un tamaño 
 que permita recorrerse a pie. Tarragona lo tiene. Pero no es lo único que nos gusta de 
@@ -39,7 +39,7 @@ es que puedes dejarlo en un aparcamiento por sólo 4,50 euros al día.
 9. [Sus fiestas históricas](#fiestas-tarragona).
 10. [Ruta por el Anillo Verde](#senderismo-tarragona).
 
-![anfiteatro foro circo romano tarragona](etheria-images/2021/12/visita-romana-tarragona.jpg "Anfiteatro, forum y circo romanos de Tarragona. © Alberich Fotògrafs / Tarragona Turisme")
+![anfiteatro foro circo romano tarragona](https://fotos.etheriamagazine.com/2021/12/visita-romana-tarragona.jpg "Anfiteatro, forum y circo romanos de Tarragona. © Alberich Fotògrafs / Tarragona Turisme")
 
 ## 1\. Conocer su patrimonio romano  
 
@@ -65,7 +65,7 @@ A las afueras encontrarás el imponente **Acueducto romano,** con 27 metros de a
 Conocer su patrimonio romano es suficiente motivo para visitar Tarragona durante un fin 
 de semana, pero hay muchos más. 
 
-![escultura romulo remo tarragona](etheria-images/2021/12/paseo-arqueologico-tarragona-685x1024.jpg "Escultura de Rómulo y Remo, en el Paseo Arqueológico de Tarragona. © Alberich F. / Tarragona Turisme")
+![escultura romulo remo tarragona](https://fotos.etheriamagazine.com/2021/12/paseo-arqueologico-tarragona-685x1024.jpg "Escultura de Rómulo y Remo, en el Paseo Arqueológico de Tarragona. © Alberich F. / Tarragona Turisme")
 
 ## 2\. Ver la colección del Museo Arqueológico de Tarragona
 
@@ -86,7 +86,7 @@ hizo Joan Miró en colaboración con Josep Royo; el **Museo del Puerto**, con un
 interactivo; las **casas museo** para conocer el interior de palacetes señoriales 
 (Canals y Castellarnau); y el **Museo Diocesano**, al que se entra desde la Catedral. 
 
-![catedral que visitar tarragona](etheria-images/2021/12/tarragona-catedral.jpg "Catedral de Tarragona. © Alberich Fotògrafs / Tarragona Turisme")
+![catedral que visitar tarragona](https://fotos.etheriamagazine.com/2021/12/tarragona-catedral.jpg "Catedral de Tarragona. © Alberich Fotògrafs / Tarragona Turisme")
 
 ## 3\. La Catedral de Tarragona
 
@@ -99,7 +99,7 @@ admirar una panorámica de 360 grados de la ciudad. También del Medievo, son la
 de Santa María del Miracle, Sant Pau y Santa Tecla la Vella, la torre del Pretorio y la 
 calle Mercería, con sus bonitos porches. 
 
-![ruta del vino de tarragona](etheria-images/2021/12/ruta-vino-tarragona-mas-bella.jpg "Celler Más Bella, en la Ruta del Vi de Tarragona. © DO Tarragona")
+![ruta del vino de tarragona](https://fotos.etheriamagazine.com/2021/12/ruta-vino-tarragona-mas-bella.jpg "Celler Más Bella, en la Ruta del Vi de Tarragona. © DO Tarragona")
 
 ## 4\. Comer y beber de lujo en Tarragona
 
@@ -121,7 +121,7 @@ Los eventos gastronómicos son ideales para conocer la cocina tarraconense. Apun
 agenda: las Jornadas Gastronómicas del Romesco, Tarraco a Taula (mayo) y, entre otras, 
 La Part Alta Somriu a la Crisi (febrero). 
 
-![plaza forum tarragona](etheria-images/2021/12/plaza-del-Forum-tarragona.jpg "La animada plaza del Forum por la noche. © Txell Roig / Tarragona Film Office")
+![plaza forum tarragona](https://fotos.etheriamagazine.com/2021/12/plaza-del-Forum-tarragona.jpg "La animada plaza del Forum por la noche. © Txell Roig / Tarragona Film Office")
 
 ## 5\. Descubrir los recovecos del casco antiguo
 
@@ -135,7 +135,7 @@ Fòrum** (donde tomar el vermú los domingos).
 Nuestra recomendación es que te alojes en el centro para poder salir a pasear cuando te 
 apetezca y el regreso sea sólo cuestión de minutos. 
 
-![balcon del mediterrraneo tarragona](etheria-images/2021/12/Balcon-del-Mediterraneo.jpg "Balcón del Mediterráneo, en Tarragona. © Txell Roig / Tarragona Film Office")
+![balcon del mediterrraneo tarragona](https://fotos.etheriamagazine.com/2021/12/Balcon-del-Mediterraneo.jpg "Balcón del Mediterráneo, en Tarragona. © Txell Roig / Tarragona Film Office")
 
 ## 6\. Asomarte al Balcón del Mediterráneo
 
@@ -152,7 +152,7 @@ En esta zona también te puedes pasar por la plaza Imperial Tarraco, por el Aren
 (la antigua plaza de toros) donde se realizan eventos, el Mercado Central, el Campo de 
 Marte y el Parque Rafael Puig y Valls. 
 
-![cala jovera tarragona](etheria-images/2021/12/Cala-Jovera-tarragona.jpg "Cala Jovera, en Tarragona. Txell Roig / Tarragona Film Office")
+![cala jovera tarragona](https://fotos.etheriamagazine.com/2021/12/Cala-Jovera-tarragona.jpg "Cala Jovera, en Tarragona. Txell Roig / Tarragona Film Office")
 
 ## 7\. Darte un baño en playas y calas solitarias
 
@@ -168,7 +168,7 @@ kilómetros de extensión es un buen lugar para dar estirar las piernas.
 En caso de prefieras algo más íntimo puedes optar por calas tan bonitas como la **cala 
 Jovera**, la **playa de Becs** y la **playa de l’Arboçar**. 
 
-![barrio el serrallo tarragona](etheria-images/2021/12/tarragona-eEl-Serrallo.jpg "Barrio de El Serrallo. © Txell Roig /Tarragona Film Office")
+![barrio el serrallo tarragona](https://fotos.etheriamagazine.com/2021/12/tarragona-eEl-Serrallo.jpg "Barrio de El Serrallo. © Txell Roig /Tarragona Film Office")
 
 ## 8\. El Serrallo, el barrio marinero de Tarragona
 
@@ -182,7 +182,7 @@ en el mar y numerosas terrazas de restaurantes. Además, El Serrallo está comun
 el **antiguo Posit** y con el **Moll de Costa**, con su agradable paseo, la lonja, el 
 museo del Puerto, sus tinglados y refugios. 
 
-![fiestas santa tecla tarragona](etheria-images/2021/12/fiestas-santa-tecla-tarragona.jpg "Fiestas de Santa Tecla, en Tarragona. © Alberich Fotògrafs / Tarragona")
+![fiestas santa tecla tarragona](https://fotos.etheriamagazine.com/2021/12/fiestas-santa-tecla-tarragona.jpg "Fiestas de Santa Tecla, en Tarragona. © Alberich Fotògrafs / Tarragona")
 
 ## 9\. Vivir la fiesta de la historia
 
@@ -196,7 +196,7 @@ el siglo XIV y donde destaca la 'Baixada de l'Áliga' (Bajada del Águila), un p
 desfile por la Part Alta al ritmo del pasodoble "Amparito Roca", y la entrada de la 
 reliquia en la Catedral. 
 
-![pont del diable tarragona](etheria-images/2021/12/pont-del-diable-tarragona.jpg "Puente del Diablo, en Tarragona. © Alberich Fotògrafs / Tarragona Turisme")
+![pont del diable tarragona](https://fotos.etheriamagazine.com/2021/12/pont-del-diable-tarragona.jpg "Puente del Diablo, en Tarragona. © Alberich Fotògrafs / Tarragona Turisme")
 
 ## 10\. Una ruta por el Anillo Verde
 

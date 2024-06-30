@@ -1,7 +1,7 @@
 ---
 title: "13 castillos de Chequia envueltos en enigmas ymisterios"
 date: 2020-10-09
-coverImage: etheria-images/2020/10/republica-checa-cesky-krumlov.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/republica-checa-cesky-krumlov.jpg
 categories: 
   - de-un-vistazo
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 La República Checa se caracteriza por sus paisajes bucólicos y palacios de cuento de hadas pero tras esa imagen onírica se ocultan misterios que estimulan nuestra imaginación. Descubre los 13 castillos y palacios más enigmáticos del país. Acompáñanos solo si eres valiente porque verás armas mortales, escucharás sonidos inexplicables y puede que aparezca algún fantasma.
 
-![ruta de los castillos de chequia](etheria-images/2020/10/cesky-krumlov.jpg "Bruma misteriosa en Česky Krumlov. © Ales Motejl")
+![ruta de los castillos de chequia](https://fotos.etheriamagazine.com/2020/10/cesky-krumlov.jpg "Bruma misteriosa en Česky Krumlov. © Ales Motejl")
 
 Imagina cómo podría ser el lugar idóneo para pasar una noche de miedo. En este artículo 
 te invitamos a conocer algunos lugares envueltos en leyendas, historias terroríficas, 
@@ -21,7 +21,7 @@ no coincide con esta fecha, no pasa nada, cualquier momento del año es adecuado
 divertirse tratando de encontrar energías inexplicables o retando a las ciencias 
 ocultas. Si te atreves... 
 
-![castillo de Buchlov en republica checa](etheria-images/2020/10/republica-checa-castillo-Buchlov.jpg "Castillo de Buchlov. © Libor Svácek")
+![castillo de Buchlov en republica checa](https://fotos.etheriamagazine.com/2020/10/republica-checa-castillo-Buchlov.jpg "Castillo de Buchlov. © Libor Svácek")
 
 ## 1\. La dama negra del castillo de Buchlov
 
@@ -45,7 +45,7 @@ vaga por la ciudad, a lomos de su caballo y con la camisa ensangrentada, se diri
 castillo y desaparece. No es seguro que te lo encuentres, pero sí podrás ver a su 
 caballo disecado en el Museo de Cheb. 
 
-![Palacio de Olomouc ruta castillos checos](etheria-images/2020/10/republica-checa-palacio-Olomouc.jpg "Palacio de Olomouc. © Libor Svácek")
+![Palacio de Olomouc ruta castillos checos](https://fotos.etheriamagazine.com/2020/10/republica-checa-palacio-Olomouc.jpg "Palacio de Olomouc. © Libor Svácek")
 
 ## 3\. Palacio Arzobispal de Olomouc, una muerte que cambió la historia
 
@@ -62,7 +62,7 @@ se creyó que era producto de un accidente pero se descubrió la intervención d
 jardinero, que los mató al ser descubierto mientras robaba en la vivienda del 
 guardabosques del castillo. 
 
-![Castillo de cesky krumlov en chequia](etheria-images/2020/10/republica-checa-cesky-krumlov.jpg "Castillo de Český Krumlov. © Ales Motejl")
+![Castillo de cesky krumlov en chequia](https://fotos.etheriamagazine.com/2020/10/republica-checa-cesky-krumlov.jpg "Castillo de Český Krumlov. © Ales Motejl")
 
 ## 5\. Pasión mortal en el castillo de Český Krumlov
 
@@ -81,7 +81,7 @@ víctimas fueron el hijo y la madre del inventor checo Erich Hudec. Hudec, cread
 teletipo, gracias al cual se pudieron transmitir las Olimpiadas de Berlín, desapareció 
 misteriosamente tras los hechos. 
 
-![Palacio de Lednice ruta castillos chequia](etheria-images/2020/10/republica-checa-castillo-Lednice.jpg "Palacio de Lednice. © Ladislav Renner")
+![Palacio de Lednice ruta castillos chequia](https://fotos.etheriamagazine.com/2020/10/republica-checa-castillo-Lednice.jpg "Palacio de Lednice. © Ladislav Renner")
 
 ## 7\. Sonidos extraños en el palacio de Lednice
 
@@ -98,7 +98,7 @@ que en los misteriosos rostros españoles, aquí terminaron desapareciendo, pero
 mucho tiempo se ha hablado de que son de la “dama negra”, la condesa asesinada por su 
 marido en un ataque de celos. 
 
-![Castillo de Velhartice en republica checa](etheria-images/2020/10/republica-checa-castilo-Velhartice.jpg "Castillo de Velhartice. © Pavel Ouředník")
+![Castillo de Velhartice en republica checa](https://fotos.etheriamagazine.com/2020/10/republica-checa-castilo-Velhartice.jpg "Castillo de Velhartice. © Pavel Ouředník")
 
 ## 9\. Magia negra en el castillo de Velhartice
 
@@ -116,7 +116,7 @@ adquiriendo las tierras de los señores de la región, y que contrajo matrimonio
 dama del lugar. Todo apunta a que su esposa, la única heredera, lo mató, pero no llegó a 
 demostrarse... 
 
-![Castillo de Zvikov en republica checa](etheria-images/2020/10/republica-checa-castillo-Zvikov.jpg "Castillo de Zvikov. © Libor Svácek")
+![Castillo de Zvikov en republica checa](https://fotos.etheriamagazine.com/2020/10/republica-checa-castillo-Zvikov.jpg "Castillo de Zvikov. © Libor Svácek")
 
 ## 11\. En el castillo Zvíkov te quedarás sin batería
 
@@ -132,7 +132,7 @@ que en su interior se escuchan llantos, muebles que se arrastran, música de ór
 Los animales son los primeros que huyen al caer la noche, algo deben detectar, ¿no 
 crees? 
 
-![castillo de Zbiroh en republica checa](etheria-images/2020/10/republica-checa-castillo-Zbiroh.jpg "Castillo de Zbiroh. © Jiri Jiousek")
+![castillo de Zbiroh en republica checa](https://fotos.etheriamagazine.com/2020/10/republica-checa-castillo-Zbiroh.jpg "Castillo de Zbiroh. © Jiri Jiousek")
 
 ## 13\. Castillo Zbiroh, un silencio sepulcral
 

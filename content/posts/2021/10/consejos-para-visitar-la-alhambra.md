@@ -1,7 +1,7 @@
 ---
 title: "10 consejos para triunfar en tu visita a la Alhambra"
 date: 2021-10-25
-coverImage: etheria-images/2021/10/la-alhambra-patio-de-los-arrayanes-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/la-alhambra-patio-de-los-arrayanes-1.jpg
 categories: 
   - consejos-practicos
   - de-un-vistazo
@@ -15,7 +15,7 @@ La Alhambra de Granada se merece una visita organizada con cuidado y mimo para n
 perderse ninguno de sus rincones más emblemáticos. Aquí te damos 10 consejos para que 
 esta experiencia sea todo un éxito y ocupe un lugar de honor en tu memoria. 
 
-![La Alhambra vista desde los jardines del Generalife.](etheria-images/2021/10/la-alhambra-desde-generalife.jpg "La Alhambra vista desde los jardines del Generalife. © Susana García")
+![La Alhambra vista desde los jardines del Generalife.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-desde-generalife.jpg "La Alhambra vista desde los jardines del Generalife. © Susana García")
 
 Hay lugares tan especiales que merecen una cierta planificación viajera para poder 
 aprovechar al máximo cada minuto de la visita. La Alhambra es uno de ellos, y su 
@@ -35,7 +35,7 @@ que reservar una hora concreta de visita). También existe la opción de hacer u
 nocturna de los Palacios Nazaríes. No olvides tu DNI, te lo pedirán en los accesos a las 
 distintas zonas de la Alhambra. 
 
-![Placa que señala donde se alojó Washington Irving en su estancia en la Alhambra.](etheria-images/2021/10/la-alhambra-habitacion-washington-irving.jpg "Placa que señala donde se alojó Washington Irving en su estancia en la Alhambra. © SG")
+![Placa que señala donde se alojó Washington Irving en su estancia en la Alhambra.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-habitacion-washington-irving.jpg "Placa que señala donde se alojó Washington Irving en su estancia en la Alhambra. © SG")
 
 ## Documéntate antes de viajar
 
@@ -48,7 +48,7 @@ Alhambra'](https://amzn.to/3m8tQ6Z) o ['Leer La Alhambra'](https://amzn.to/3vuTj
 Este último es una preciosa guía visual del monumento a través de sus inscripciones que 
 permite profundizar en todos los detalles de los distintos edificios. 
 
-![Libros 'Cuentos de la Alhambra' y 'Leer la Alhambra'.](etheria-images/2021/10/la-alhambra-libros.jpg "Libros 'Cuentos de la Alhambra' y 'Leer la Alhambra', disponibles en Amazon.es.")
+![Libros 'Cuentos de la Alhambra' y 'Leer la Alhambra'.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-libros.jpg "Libros 'Cuentos de la Alhambra' y 'Leer la Alhambra', disponibles en Amazon.es.")
 
 Y, por supuesto, es fundamental hacerse con alguna guía de Granada para consultar los 
 detalles prácticos. Puedes comprar la de [Lonely Planet](https://amzn.to/3E03CcB), la [Guía 
@@ -64,7 +64,7 @@ de viajes, el relato de un guía de turismo no tiene precio. Puedes reservarlo c
 antelación en **Alhambra.org** o contratar uno en la misma puerta de La Alhambra, muchos 
 acuden allí y ofrecen las visitas guiadas _in situ_. 
 
-![Detalle del Palacio de Comares.](etheria-images/2021/10/la-alhambra-detalle-palacio-comares.jpg "Detalle del Palacio de Comares. © SG")
+![Detalle del Palacio de Comares.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-detalle-palacio-comares.jpg "Detalle del Palacio de Comares. © SG")
 
 ? También puedes apuntarte a una [visita organizada por Civitatis a la Alhambra y los 
 Palacios 
@@ -97,7 +97,7 @@ las tropas, formándose como una auténtica ciudad hispano-musulmana. Sus lugare
 destacados son la **plaza de Armas** y la **Torre del Homenaje**, y merece una visita 
 por ser un contrapunto perfecto a la opulencia de los Palacios Nazaríes. 
 
-![Patio de los Arrayanes, en los Palacios Nazaríes.](etheria-images/2021/10/la-alhambra-patio-de-los-arrayanes-1.jpg "Patio de los Arrayanes, en los Palacios Nazaríes. © SG")
+![Patio de los Arrayanes, en los Palacios Nazaríes.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-patio-de-los-arrayanes-1.jpg "Patio de los Arrayanes, en los Palacios Nazaríes. © SG")
 
 ## Piérdete en los Palacios Nazaríes
 
@@ -117,7 +117,7 @@ los Leones, Sala de los Abencerrajes y corredor de Carlos V, para terminar en El
 uno de los palacios más antiguos y que tiene unos bonitos jardines que incluyen un gran 
 estanque. 
 
-![Detalle del Mexuar de la Alhambra.](etheria-images/2021/10/la-alhambra-mexuar-detalle.jpg "Detalle del Mexuar de la Alhambra.")
+![Detalle del Mexuar de la Alhambra.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-mexuar-detalle.jpg "Detalle del Mexuar de la Alhambra.")
 
 ### Rincones imprescindibles de los Palacios Nazaríes:
 
@@ -133,7 +133,7 @@ de trono medieval conservado en el área mediterránea y europea; y, en el **Pal
 los Leones**, el famoso Patio de los Leones, con su singular juego de columnas y su 
 emblemática fuente, la Sala de Abencerrajes y la Sala de los Reyes. 
 
-![Techo con mocárabes de la Sala de Abencerrajes.](etheria-images/2021/10/la-alhambra-techo-sala-abencerrajes.jpg "Techo con mocárabes de la Sala de Abencerrajes. © SG")
+![Techo con mocárabes de la Sala de Abencerrajes.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-techo-sala-abencerrajes.jpg "Techo con mocárabes de la Sala de Abencerrajes. © SG")
 
 Éstos son solo algunos de los muchos rincones y salas que te dejarán boquiabierta. Lo 
 mejor es dejarse envolver por esta arquitectura tan singular y única y disfrutar a cada 
@@ -149,7 +149,7 @@ impagables. Eso sí, siempre está muy concurrido, sobre todo al atardecer. Si l
 te deja sitio ni para las fotos, puedes tratar de acercarte a la mezquita que está junto 
 al mirador. Si está abierta, sus vistas son también increíbles. 
 
-![Vista al atardecer de la Alhambra desde el Albaicín.](etheria-images/2021/10/la-alhambra-vista-albaicin-atardecer.jpg "Vista al atardecer de la Alhambra desde el Albaicín.")
+![Vista al atardecer de la Alhambra desde el Albaicín.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-vista-albaicin-atardecer.jpg "Vista al atardecer de la Alhambra desde el Albaicín.")
 
 ? Otra buena opción es reservar en alguno de los restaurantes ubicados en cármenes en 
 este mismo barrio. Podrás cenar mientras contemplas la Alhambra iluminada, merece la 
@@ -166,7 +166,7 @@ seguro que dedicas un buen rato a curiosear entre sus títulos. Además, ofrece 
 colecciones de objetos de calidad inspirados en la Alhambra, en sus patrones de azulejos 
 y en sus pinturas más icónicas. 
 
-![Detalle de los mosaicos de la Alhambra.](etheria-images/2021/10/la-alhambra-mosaicos.jpg "Detalle de los mosaicos de la Alhambra. © SG")
+![Detalle de los mosaicos de la Alhambra.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-mosaicos.jpg "Detalle de los mosaicos de la Alhambra. © SG")
 
 No es la típica tienda de suvenires, es perfecta si quieres hacer un buen regalo de la 
 ciudad (o regalarte algo a ti misma, claro). También se puede adquirir online, por si 
@@ -184,7 +184,7 @@ arte hispanomusulmán y musulmán oriental que pone en contexto el arte de Al-An
 encuentra en las salas de la planta baja del Palacio de Carlos V. En este mismo edificio 
 se encuentra también el **Museo de Bellas Artes de Granada.** 
 
-![El Palacio de Carlos V es sede del Museo de la Alhambra.](etheria-images/2021/10/la-alhambra-palacio-carlos-V.jpg "El Palacio de Carlos V es sede del Museo de la Alhambra. © SG")
+![El Palacio de Carlos V es sede del Museo de la Alhambra.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-palacio-carlos-V.jpg "El Palacio de Carlos V es sede del Museo de la Alhambra. © SG")
 
 También dentro de La Alhambra puedes visitar el **Legado Ángel Barrios**. Una colección 
 museográfica que permite un recorrido por los enseres y objetos personales de este 
@@ -204,7 +204,7 @@ Alhambra; y el **_hall_ y la terraza del Alhambra Palace** merecen ser disfrutad
 calma tras la visita. Es un lugar perfecto para dejarse atrapar por su decoración nazarí 
 mientras se contempla una de las mejores puestas de sol de Granada. 
 
-![Lobby del hotel Alhambra Palace](etheria-images/2021/08/alhambra-palace-lobby.jpg "Lobby del hotel © Alhambra Palace.")
+![Lobby del hotel Alhambra Palace](https://fotos.etheriamagazine.com/2021/08/alhambra-palace-lobby.jpg "Lobby del hotel © Alhambra Palace.")
 
 ? **Más artículos para preparar tu viaje a Granada:** 
 

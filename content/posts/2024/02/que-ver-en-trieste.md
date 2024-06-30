@@ -1,7 +1,7 @@
 ---
 title: "Imprescindibles en Trieste, la Italia menos italiana"
 date: 2024-02-17
-coverImage: etheria-images/2024/02/trieste-Piazza-Unita.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/02/trieste-Piazza-Unita.jpg
 categories: 
   - viajes-con-amigas
   - viajes-romanticos
@@ -16,7 +16,7 @@ historia apasionante y una vida urbana de esas que te cautivan nada más pisar l
 Aquí te contamos qué ver en Trieste, sus lugares más emblemáticos y la interesante vida 
 nocturna. Te va a encantar. 
 
-![Puerto de Trieste](etheria-images/2024/02/trieste-puerto.jpg "Puerto de Trieste. © Francesco Marongiu/Turismo de Trieste.")
+![Puerto de Trieste](https://fotos.etheriamagazine.com/2024/02/trieste-puerto.jpg "Puerto de Trieste. © Francesco Marongiu/Turismo de Trieste.")
 
 Se dice de Trieste, situado junto a la frontera de Eslovenia y no muy lejos de Croacia, 
 que es la menos italiana de las ciudades de Italia. Aunque dándole la vuelta a la 
@@ -63,7 +63,7 @@ de los siglos. Así, por ejemplo, en el bastión Lalio se encuentra el **Lapidar
 Tergestino**, que preserva una valiosa colección de esculturas, bajorrelieves e 
 inscripciones de la época romana. 
 
-![Castillo de San Giusto](etheria-images/2024/02/Trieste-Castello-San-Giusto.jpg "Castillo de San Giusto. © Massimo Crivellari/Turismo de Trieste.")
+![Castillo de San Giusto](https://fotos.etheriamagazine.com/2024/02/Trieste-Castello-San-Giusto.jpg "Castillo de San Giusto. © Massimo Crivellari/Turismo de Trieste.")
 
 El castillo comparte espacio en la colina con la **catedral de San Justo Mártir** 
 (sangiustomartire.it). Un compacto edificio de origen medieval, de principios del siglo 
@@ -81,7 +81,7 @@ mercancías. Hoy, flanqueado por decenas de _palazzi_ de estilo veneciano y, al 
 por una de las fachadas de la **iglesia de San Antonio**, es uno de los lugares más 
 instagrameables de Trieste. 
 
-![Gran Canal de Trieste](etheria-images/2024/02/Trieste-Gran-Canal.jpg "Gran Canal. © Alfredo G. Reyes.")
+![Gran Canal de Trieste](https://fotos.etheriamagazine.com/2024/02/Trieste-Gran-Canal.jpg "Gran Canal. © Alfredo G. Reyes.")
 
 El Canal Grande es también uno de los espacios urbanos más recomendables para tomarse un 
 _spritz_ en las terrazas o en alguno de los bares-plataformas flotantes sobre las aguas 
@@ -113,7 +113,7 @@ Friuli-Venecia Julia. La plaza, con sus más de 12.000 metros cuadrados, es tamb
 lugar perfecto para numerosas celebraciones festivas, muestras de todo tipo y eventos 
 comerciales. 
 
-![Piazza dell'Unità d'Italia al atardecer](etheria-images/2024/02/trieste-Piazza-Unita.jpg "Piazza dell'Unità d'Italia. © Fabrice Gallina/Turismo de Trieste.")
+![Piazza dell'Unità d'Italia al atardecer](https://fotos.etheriamagazine.com/2024/02/trieste-Piazza-Unita.jpg "Piazza dell'Unità d'Italia. © Fabrice Gallina/Turismo de Trieste.")
 
 ### Piazza della Borsa
 
@@ -149,7 +149,7 @@ Como complemento a la visita del complejo palaciego, una parte de las caballeriz
 alberga el **Museo Inmersivo del Área Marina Protegida de Miramare (BioMa)**, que regala 
 una curiosa experiencia bajo el Adriático, literalmente. 
 
-![Castillo Miramare en Trieste](etheria-images/2024/02/Trieste-castillo-Miramare.jpg "Castillo Miramare. © Fabrice Gallina/Turismo de Trieste.")
+![Castillo Miramare en Trieste](https://fotos.etheriamagazine.com/2024/02/Trieste-castillo-Miramare.jpg "Castillo Miramare. © Fabrice Gallina/Turismo de Trieste.")
 
 ### Risiera di San Sabba
 

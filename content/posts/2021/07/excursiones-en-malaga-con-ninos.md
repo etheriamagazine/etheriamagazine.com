@@ -1,7 +1,7 @@
 ---
 title: "8 excursiones en Málaga para hacer con niños"
 date: 2021-07-12
-coverImage: etheria-images/2021/07/Malaga-ninos-teleferico.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-teleferico.jpg
 categories: 
   - viaje-en-familia
   - de-un-vistazo
@@ -13,7 +13,7 @@ Si este verano has elegido viajar a Málaga con niños no te pierdas estas 8 exc
 para que no todo sea pasar el día en la playa: senderismo, museos interactivos, un 
 teleférico y hasta unas cuevas. No os vais a aburrir ni un momento. 
 
-![Selwo Aventura, una actividad en Málaga con niños](etheria-images/2021/07/Malaga-ninos-selwo.jpg "Selwo Aventura. © Parques Reunidos")
+![Selwo Aventura, una actividad en Málaga con niños](https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-selwo.jpg "Selwo Aventura. © Parques Reunidos")
 
 Si eliges un destino como la costa malagueña para pasar tus vacaciones en familia seguro 
 que tu principal objetivo es disfrutar del sol y la playa. Pero esta provincia ofrece 
@@ -29,7 +29,7 @@ continentes africano, europeo y asiático, en este parque podréis divertiros co
 experiencias como los puentes colgantes, una enorme tirolina sobre un lago y las camas 
 elásticas. M´ás información en www.selwo.es 
 
-![Parque Selwo con un puente colgante y cabañas](etheria-images/2021/07/Malaga-ninos-selwo-puente.jpg "Puente colgante en Selwo. © Parques Reunidos")
+![Parque Selwo con un puente colgante y cabañas](https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-selwo-puente.jpg "Puente colgante en Selwo. © Parques Reunidos")
 
 Una divertida opción es que os apuntéis al **Safari Serengueti**, un exclusivo recorrido 
 por la Reserva de los Lagos en coche todoterreno con la que os acercaréis mucho más a 
@@ -48,7 +48,7 @@ aprovechar para pasar unas horas en alguna de sus playas. La de Burriana es perf
 para familias porque cuenta con todos los servicios y las pequeñas playas del Carabeillo 
 y el Carabeo son preciosas. 
 
-![Las cuevas de Nerja.](etheria-images/2021/07/malaga-ninos-nerja.jpg "Las cuevas de Nerja.")
+![Las cuevas de Nerja.](https://fotos.etheriamagazine.com/2021/07/malaga-ninos-nerja.jpg "Las cuevas de Nerja.")
 
 Pero lo que no puede faltar de ninguna manera es una visita a la **cueva de Nerja**, 
 situadas en la pedanía de Maro y con casi 5.000 metros de extensión. Fueron descubiertas 
@@ -64,7 +64,7 @@ En un viaje con niños si hay un teleférico cerca hay que subirse sí o sí. El
 solo 15 minutos. Desde aquí se contemplan desde sus tres miradores unas vistas preciosas 
 de la Costa del Sol, Sierra Nevada y, si hay suerte, África. 
 
-![Teleférico de Benalmádena, una actividad ideal en Málaga con niños](etheria-images/2021/07/Malaga-ninos-teleferico.jpg "Teleférico de Benalmádena. © Parques Reunidos.")
+![Teleférico de Benalmádena, una actividad ideal en Málaga con niños](https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-teleferico.jpg "Teleférico de Benalmádena. © Parques Reunidos.")
 
 Una buena opción para pasar la mañana es dar un paseo por alguna de las seis sendas 
 señalizadas y descubrir así las plantas típicas de la zona como el tomillo, la mejorana 
@@ -81,7 +81,7 @@ pequeños disfrutarán subiendo y bajando entre las piedras de este singular pai
 kárstico único en Europa, aunque hay que tener cuidado de que no se salgan del camino 
 señalizado. Se puede descargar el plano con las rutas en **www.torcaldeantequera.com** 
 
-![Formaciones rocosas del Torcal de Antequera.](etheria-images/2021/07/malaga-ninos-torcal-antequera.jpg "Formaciones rocosas del Torcal de Antequera.")
+![Formaciones rocosas del Torcal de Antequera.](https://fotos.etheriamagazine.com/2021/07/malaga-ninos-torcal-antequera.jpg "Formaciones rocosas del Torcal de Antequera.")
 
 Después, nada mejor que un paseo por la bonita localidad de Antequera para acceder a su 
 castillo y, por supuesto, al Conjunto Arqueológico de los Dólmenes de Antequera, una de 
@@ -101,7 +101,7 @@ de un castillo: muralla, torreones, cañones y hasta jardines en su interior. Y 
 con el **Teatro Romano**, a los pies de la Alcazaba, perfecto para conocer todas las 
 zonas de esta construcción romana. 
 
-![Vistas de Málaga desde el castillo de Gibralfaro.](etheria-images/2021/07/malaga-ninos-castillo-gibralfaro.jpg "Vistas de Málaga desde el castillo de Gibralfaro.")
+![Vistas de Málaga desde el castillo de Gibralfaro.](https://fotos.etheriamagazine.com/2021/07/malaga-ninos-castillo-gibralfaro.jpg "Vistas de Málaga desde el castillo de Gibralfaro.")
 
 Para comer, una opción es degustar las sabrosas tapas malagueñas en su casco antiguo, y 
 después os podéis apuntar a alguna excursión organizada. Os proponemos dos: una [ruta en 
@@ -124,7 +124,7 @@ se ubica entre los dos brazos con los que el Guadalhorce desemboca en el mar, un
 perfecto para avistar aves (hay varios observatorios) que está dotado de senderos 
 señalizados donde se puede dar un cómodo paseo con niños. 
 
-![Desembocadura del río Guadalhorce.](etheria-images/2021/07/Malaga-ninos-desembocadura-Guadlhhoce.jpg "Desembocadura del río Guadalhorce. © Quino Al.")
+![Desembocadura del río Guadalhorce.](https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-desembocadura-Guadlhhoce.jpg "Desembocadura del río Guadalhorce. © Quino Al.")
 
 ## Parque Nacional Sierra de las Nieves
 
@@ -133,7 +133,7 @@ Nacional Sierra de las Nieves, ubicado entre la costa y la serranía de Ronda. A
 podréis realizar una ruta por sus pueblos de arquitectura blanca, muchos con restos de 
 su pasado musulmán en forma de castillos y murallas. 
 
-![Parque Nacional Sierra de las Nieves.](etheria-images/2021/07/Sierra-nieves-malaga-e1550839729469.jpg "Parque Nacional Sierra de las Nieves.")
+![Parque Nacional Sierra de las Nieves.](https://fotos.etheriamagazine.com/2021/07/Sierra-nieves-malaga-e1550839729469.jpg "Parque Nacional Sierra de las Nieves.")
 
 No os perdáis tampoco alguno de sus miradores, como el de Puerto Saulcillo, o un paseo 
 por alguno de sus bosques. Os lo hemos contado ya en el artículo [Parque Nacional Sierra 
@@ -150,7 +150,7 @@ lleno de lugares interesantes y perfecto para pasar una jornada en familia. Tien
 **Jardín Botánico** precioso y es muy recomendable realizar una caminata por la **Ruta 
 del Agua** para disfrutar de la vegetación mediterránea. 
 
-![Jardín Botánico de Torremolinos.](etheria-images/2021/07/jardin-botanico-torremolinos.jpg "Jardín Botánico de Torremolinos. © Etheria Magazine")
+![Jardín Botánico de Torremolinos.](https://fotos.etheriamagazine.com/2021/07/jardin-botanico-torremolinos.jpg "Jardín Botánico de Torremolinos. © Etheria Magazine")
 
 No os podéis perder tapear por el centro y visitar la playa de La Carihuela. Os lo 
 contamos todo en el reportaje de Etheria Magazine [10 planes imprescindibles en 

@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Bangkok si tienes sólo tres días"
 date: 2021-05-29
-coverImage: etheria-images/2018/06/Bangkok-crucero-rio-chao-praya.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/06/Bangkok-crucero-rio-chao-praya.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -17,7 +17,7 @@ que mezcla altos rascacielos con barrios tradicionales, todo en medio de un trá
 incesante. Un lugar donde se mezclan tailandeses y turistas de todas las partes del 
 mundo y que parece que no descansa ni un sólo minuto del día. 
 
-![palacio real tres dias en bangkok](etheria-images/2018/05/TAILANDIA-PALACIO-REAL-1024x578.jpg "Palacio Real de Bangkok")
+![palacio real tres dias en bangkok](https://fotos.etheriamagazine.com/2018/05/TAILANDIA-PALACIO-REAL-1024x578.jpg "Palacio Real de Bangkok")
 
 Cuando se aterriza en Bangkok la ciudad abruma por su desorden y su tráfico y parece que 
 va a ser imposible encontrar un lugar de paz. Unas horas después, el caos no importa 
@@ -35,7 +35,7 @@ Trimit** (Templo del Buda de Oro), del siglo XIII, con una estatua de Buda de or
 macizo; y el **Wat Pho** (Templo del Buda Reclinado), el más antiguo de la ciudad, que 
 alberga un enorme Buda de 46 metros de largo. 
 
-![wat Pho Buda Asia tres dias en bangkok](etheria-images/2018/05/BANGKOK-TEMPLO-DE-BUDA-RECLINADO-2-768x1024.jpg "Wat Pho, Templo del Buda Reclinado. ©Susana García.")
+![wat Pho Buda Asia tres dias en bangkok](https://fotos.etheriamagazine.com/2018/05/BANGKOK-TEMPLO-DE-BUDA-RECLINADO-2-768x1024.jpg "Wat Pho, Templo del Buda Reclinado. ©Susana García.")
 
 El **Gran Palacio Real** es una curiosa mezcla de edificios de estilo thai, renacentista 
 y victoriano. Está lleno de detalles y de historia de la ciudad desde que fue construido 
@@ -56,7 +56,7 @@ como el mercado de fin de semana de **Chatuchak**; el mercado nocturno de **Patp
 (en la zona de los espectáculos eróticos); el de **Talat Rort Fai**; o el curioso 
 mercado de amuletos **Trok Mahathat**. 
 
-![mercado del tren  en bangkok](etheria-images/2018/06/Bankgok-mercado-tren.jpg "Mercado del tren de Tailandia. ©Susana García.")
+![mercado del tren  en bangkok](https://fotos.etheriamagazine.com/2018/06/Bankgok-mercado-tren.jpg "Mercado del tren de Tailandia. ©Susana García.")
 
 ## El mercado del tren y el mercado flotante
 
@@ -77,7 +77,7 @@ unos guantes de boxeo hasta bonitas y coloridas pashminas.
 la 
 vía](https://www.civitatis.com/es/bangkok/excursion-mercado-flotante-damnoen-saduak/?aid=10211). 
 
-![Bangkok mercadillo viaje Asia](etheria-images/2018/05/TAILANDIA-MERCADO-FLOTANTE-Damnoen-Saduak-1024x768.jpg "Mercado flotante de Damnoen Saduak. ©Susana García.")
+![Bangkok mercadillo viaje Asia](https://fotos.etheriamagazine.com/2018/05/TAILANDIA-MERCADO-FLOTANTE-Damnoen-Saduak-1024x768.jpg "Mercado flotante de Damnoen Saduak. ©Susana García.")
 
 Ya de vuelta a Bangkok, por la noche lo mejor es terminar el día disfrutando de **una 
 copa y las vistas que ofrecen los numerosos bares y restaurantes ubicados en las últimas 
@@ -91,7 +91,7 @@ Es una excursión de un día perfecta desde Bangkok. Permite alejarse del bullic
 perderse entre templos y estupas de la que fue capital del reino de Siam durante más de 
 400 años. 
 
-![Wat Phanan Choeng](etheria-images/2018/05/Tailandia-Wat-Phanan-Choeng-1024x768.jpg "Wat Phanan Choeng. ©Susana García.")
+![Wat Phanan Choeng](https://fotos.etheriamagazine.com/2018/05/Tailandia-Wat-Phanan-Choeng-1024x768.jpg "Wat Phanan Choeng. ©Susana García.")
 
 > Antes de llegar a Ayuthaya la primera parada debe ser el Wat Phanan Choeng. Con un poco 
 > de suerte se puede vivir el emocionante momento en el que se cubre a los asistentes al 
@@ -108,7 +108,7 @@ En Ayuthaya, dentro de la isla que forman los ríos de la ciudad, no hay que per
 Para terminar, es imprescindible acercarse al **Wat Phra Mahathat** para ver la famosa 
 cabeza de Buda entre las raíces de un árbol y recorrer los templos que la rodean. 
 
-![Cabeza de Buda de Wat Phra Mahathat](etheria-images/2018/05/AYUTHAYA-Wat-Phra-Mahathat-1024x683.jpg "Cabeza de Buda de Wat Phra Mahathat. ©Susana García.")
+![Cabeza de Buda de Wat Phra Mahathat](https://fotos.etheriamagazine.com/2018/05/AYUTHAYA-Wat-Phra-Mahathat-1024x683.jpg "Cabeza de Buda de Wat Phra Mahathat. ©Susana García.")
 
 ## Guía de viaje de Bangkok
 
@@ -134,7 +134,7 @@ entrar en los templos. Prohibidos los pantalones cortos y los tirantes. Y si no 
 soportar las altas temperaturas, al menos tendrás que llevar un chal que se pueda poner 
 sobre los hombros o a modo pareo cubriendo las piernas. 
 
-![Crucero por el río Chao Phraya](etheria-images/2018/06/Bangkok-crucero-rio-chao-praya.jpg "Crucero por el río Chao Phraya.")
+![Crucero por el río Chao Phraya](https://fotos.etheriamagazine.com/2018/06/Bangkok-crucero-rio-chao-praya.jpg "Crucero por el río Chao Phraya.")
 
 ### Crucero por el Chao Phraya
 

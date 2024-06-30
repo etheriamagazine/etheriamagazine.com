@@ -1,7 +1,7 @@
 ---
 title: "Seis museos de París para recorrer en tu segunda visita"
 date: 2024-01-29
-coverImage: etheria-images/2024/01/paris-museo-orangerie.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/01/paris-museo-orangerie.jpg
 categories: 
   - organiza-tu-viaje
   - experiencias-viajeras
@@ -17,7 +17,7 @@ viaje, pero en este artículo te proponemos seis museos de París perfectos para
 amantes del arte y para las que buscan dar contenido cultural a una segunda visita a 
 esta ciudad a la que es imposible que no quieras volver una y otra vez. 
 
-![Joven en el Museo de la Orangerie de París](etheria-images/2024/01/paris-museo-orangerie-joven.jpg "Joven en el Museo de la Orangerie. © Michele Bergami.")
+![Joven en el Museo de la Orangerie de París](https://fotos.etheriamagazine.com/2024/01/paris-museo-orangerie-joven.jpg "Joven en el Museo de la Orangerie. © Michele Bergami.")
 
 Es muy probable que, si viajas por primera vez a París, incluyas en tu visita los museos 
 del Louvre y d’Orsay, los más famosos y visitados (no te pierdas nuestro artículo [El 
@@ -44,7 +44,7 @@ de 360 grados increíbles de París.
 Horario: de 11 a 21 h (martes cerrado). Entradas para el [Centro 
 Pompidou](https://www.civitatis.com/es/paris/entrada-centro-pompidou/?aid=10211). 
 
-![Fachada del Centro Georges Pompidou.](etheria-images/2024/01/paris-centro-pompidou.jpg "Fachada del Centro Georges Pompidou.")
+![Fachada del Centro Georges Pompidou.](https://fotos.etheriamagazine.com/2024/01/paris-centro-pompidou.jpg "Fachada del Centro Georges Pompidou.")
 
 ## Museo del Ejército
 
@@ -62,7 +62,7 @@ representar al Emperador.
 Horario: de 10 a 18 h. [Entradas para el Museo del 
 Ejército](https://www.civitatis.com/es/paris/entrada-museo-armee/?aid=10211). 
 
-![Interior de la cúpula de los Inválidos en el museo de la Armada de París.](etheria-images/2024/01/paris-museo-de-la-arme.jpg "Interior de la cúpula de los Inválidos. © Wyatt Simpson.")
+![Interior de la cúpula de los Inválidos en el museo de la Armada de París.](https://fotos.etheriamagazine.com/2024/01/paris-museo-de-la-arme.jpg "Interior de la cúpula de los Inválidos. © Wyatt Simpson.")
 
 ## Museo Rodin
 
@@ -78,7 +78,7 @@ te pierdas tampoco las obras de arte de este artista ubicadas en el jardín.
 Horario: de 10 a 18.30 h (lunes cerrado). Entradas al [Museo 
 Rodin](https://www.civitatis.com/es/paris/entrada-museo-rodin/?aid=10211). 
 
-!['El pensador' de Rodin en el Museo Rodin](etheria-images/2024/01/paris-musee-rodin-667x1000.jpg "'El pensador' de Rodin. © Richard Hedrick.")
+!['El pensador' de Rodin en el Museo Rodin](https://fotos.etheriamagazine.com/2024/01/paris-musee-rodin-667x1000.jpg "'El pensador' de Rodin. © Richard Hedrick.")
 
 ## Museo Quai Branly-Jacques Chirac
 
@@ -93,7 +93,7 @@ restaurante perfecto para hacer una parada en una excursión por la ciudad.
 Horario: de 10.30 a 19 h (lunes cerrado). Entradas [Museo Quai 
 Brandy](https://www.civitatis.com/es/paris/entrada-museo-quai-branly-jacques-chirac/?aid=10211). 
 
-![Museo Quai Branly-Jacques Chirac y torre Eiffel](etheria-images/2024/01/paris-museo-du-quai-Branly.jpg "Museo Quai Branly-Jacques Chirac. © Musée du quai Branly-Jacques Chirac/Roland Halbe.")
+![Museo Quai Branly-Jacques Chirac y torre Eiffel](https://fotos.etheriamagazine.com/2024/01/paris-museo-du-quai-Branly.jpg "Museo Quai Branly-Jacques Chirac. © Musée du quai Branly-Jacques Chirac/Roland Halbe.")
 
 ## Museo Picasso
 
@@ -109,7 +109,7 @@ Horario de 10.30 a 18 h. Sábados, domingos y festivos de 9.30 a 18 h (lunes cer
 
 Entradas para el [Museo Picasso de París](https://www.museepicassoparis.fr/). 
 
-![Escalera de entrada al Museo Picasso de París.](etheria-images/2024/01/paris-museo-picasso.jpg "Escalera de entrada al Museo Picasso de París.")
+![Escalera de entrada al Museo Picasso de París.](https://fotos.etheriamagazine.com/2024/01/paris-museo-picasso.jpg "Escalera de entrada al Museo Picasso de París.")
 
 ## Museo de la Orangerie
 
@@ -123,7 +123,7 @@ edificio que fue un invernadero de naranjos.
 Horario: de 9 a 18 h (martes cerrado). Entradas para el [Museo de la 
 Orangerie](https://www.civitatis.com/es/paris/entrada-museo-orangerie/?aid=10211). 
 
-![sala del Museo de la Orangerie en París](etheria-images/2024/01/paris-museo-orangerie.jpg "Museo de la Orangerie. © Stijn Te Strake.")
+![sala del Museo de la Orangerie en París](https://fotos.etheriamagazine.com/2024/01/paris-museo-orangerie.jpg "Museo de la Orangerie. © Stijn Te Strake.")
 
 **También te puede interesar:** 
 

@@ -1,7 +1,7 @@
 ---
 title: "10 restaurantes para salir a cenar con amigas en Madrid"
 date: 2018-11-09
-coverImage: etheria-images/2018/11/restaurantes-amigas-madrid-lecoco.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/restaurantes-amigas-madrid-lecoco.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -17,7 +17,7 @@ el ambiente acompañan, mucho mejor. En este artículo proponemos 10 restaurante
 capital donde confidencias y carcajadas son compatibles con buena gastronomía y locales 
 llenos de encanto. 
 
-![interior del restaurante lakasa](etheria-images/2018/10/cenar-con-amigas-lakasa-sala-e1646394573276.jpg "Sala del restaurante Lakasa. ©Lakasa")
+![interior del restaurante lakasa](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-lakasa-sala-e1646394573276.jpg "Sala del restaurante Lakasa. ©Lakasa")
 
 ```
 Actualizado 4 marzo de 2022
@@ -31,7 +31,7 @@ de salir a cenar y darnos un homenaje o compartir una ración entre cuatro. El p
 final depende del hambre y, sobre todo, del vino y los cócteles que te tomes para 
 acompañar. 
 
-![tartar de atun con somen del restaurante umiko](etheria-images/2018/10/cenar-con-amigas-Umiko-tallarines-e1581094425255.jpg "Tartar de atún con somen de Umiko.")
+![tartar de atun con somen del restaurante umiko](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-Umiko-tallarines-e1581094425255.jpg "Tartar de atún con somen de Umiko.")
 
 ## 1\. Nitty Gritty
 
@@ -49,7 +49,7 @@ decoración hasta la carta y, por supuesto, los cócteles.
 **Nitty Gritty**: Calle Doctor Fleming 51, Madrid. Tel. 91 434 73 33, 
 www.nitty-gritty.es Precio medio: 35-40 Euros por persona. 
 
-![interior del restaurante madrileño Nitty Gritty](etheria-images/2018/11/NITTY-GRITTY-900x600.jpg "Sala de © Nitty Gritty")
+![interior del restaurante madrileño Nitty Gritty](https://fotos.etheriamagazine.com/2018/11/NITTY-GRITTY-900x600.jpg "Sala de © Nitty Gritty")
 
 ## 2\. Habanera
 
@@ -64,7 +64,7 @@ cosas).
 **Habanera Madrid**: calle Génova 28. Tel. 917 372 017, www.habaneramadrid.com Precio 
 medio: 30-35 Euros. 
 
-![acogedor interior del restaurante habanera en madrid con palmeras y mobiliario de madera](etheria-images/2018/10/Restauranes-amigas-Habanera-e1583089410163.jpg "Sala del restaurante Habanera. ©Grupo Larrumba.")
+![acogedor interior del restaurante habanera en madrid con palmeras y mobiliario de madera](https://fotos.etheriamagazine.com/2018/10/Restauranes-amigas-Habanera-e1583089410163.jpg "Sala del restaurante Habanera. ©Grupo Larrumba.")
 
 ## 3\. Sagardi Castellana
 
@@ -81,7 +81,7 @@ renuncias a probar una carne que emociona.
 **Sagardi Castellana**: Paseo de la Castellana, 13. Tel. 913 086 281. Precio medio: 
 35-45 Euros. 
 
-![plato con cuatro pinchos del restaurante sagardi Castellana en madrid](etheria-images/2018/10/Cenar-con-amigas-Sagardi-pintxos-1024x682.jpg "Pintxos en Sagardi Castellana. ©Sagardi")
+![plato con cuatro pinchos del restaurante sagardi Castellana en madrid](https://fotos.etheriamagazine.com/2018/10/Cenar-con-amigas-Sagardi-pintxos-1024x682.jpg "Pintxos en Sagardi Castellana. ©Sagardi")
 
 ## 4\. Tepic
 
@@ -95,7 +95,7 @@ porque es todo tan apetecible que cuesta elegir.
 
 **Tepic:** calle Ayala, 14. Tel. 915 220 850, www.tepic.es Precio medio: 30-40 Euros. 
 
-![cuatro tacos del restaurante tepic](etheria-images/2018/10/cenar-con-amigas-tepic-taco-camaron-1024x682.jpg "Tacos al pastor del restaurante Tepic. ©Tepic.")
+![cuatro tacos del restaurante tepic](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-tepic-taco-camaron-1024x682.jpg "Tacos al pastor del restaurante Tepic. ©Tepic.")
 
 ## 5\. Pink Monkey
 
@@ -110,7 +110,7 @@ pedir, tienen dos opciones de menú degustación por 38 Euros que incluye 2 copa
 **Pink Monkey**: calle Monte Esquinza, 15. Tel. 913 10 52 72, 
 www.restaurantepinkmonkey.com Precio medio: 30-40 Euros. 
 
-![Decoración moderna y minimalista de la sala pink monkey de madrid](etheria-images/2018/11/restaurantes-Madrid-Pink-monkey-sala.jpg "Sala del Pink Monkey, perfecta para una cena de amigas. ©Pink Monkey.")
+![Decoración moderna y minimalista de la sala pink monkey de madrid](https://fotos.etheriamagazine.com/2018/11/restaurantes-Madrid-Pink-monkey-sala.jpg "Sala del Pink Monkey, perfecta para una cena de amigas. ©Pink Monkey.")
 
 ## 6\. Le Cocó
 
@@ -125,7 +125,7 @@ salones.
 
 **Le Cocó Madrid:** calle Barbieri, 15. Tel. 915 219 955. Precio medio: 25-30 Euros. 
 
-![interior con mucha luz natural de la sala de Le Cocó en Madrid](etheria-images/2018/11/restaurantes-amigas-madrid-lecoco-1024x683.jpg "Acogedora sala de Le Cocó. ©Le Cocó.")
+![interior con mucha luz natural de la sala de Le Cocó en Madrid](https://fotos.etheriamagazine.com/2018/11/restaurantes-amigas-madrid-lecoco-1024x683.jpg "Acogedora sala de Le Cocó. ©Le Cocó.")
 
 ## 7\. Umiko
 
@@ -139,7 +139,7 @@ un placer, por lo bien que atienden y porque está lleno de sabores nuevos.
 **Umiko:** calle Los Madrazo, 18. Tel. 914 938 706, www.umiko.es Precio medio: 40-50 
 Euros. 
 
-![Niguiri de socarrat de paella del restaurante Umiko](etheria-images/2018/10/cenar-con-amigas-Umiko-niguiri-socarrat-e1646394704999.jpg "Niguiri de socarrat de paella de Umiko.")
+![Niguiri de socarrat de paella del restaurante Umiko](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-Umiko-niguiri-socarrat-e1646394704999.jpg "Niguiri de socarrat de paella de Umiko.")
 
 ## 8\. Lakasa
 
@@ -153,7 +153,7 @@ gusta: por su **cocina de temporada** y porque de vez en cuando merece la pena d
 **Lakasa:** Plaza del Descubridor Diego de Ordás, 1. Tel. 915 338 715/626 933 081, 
 www.lakasa.es Precio medio: 30-40 Euros. 
 
-![manitas de cerdo del restaurante lakasa de madrid](etheria-images/2018/10/cenar-con-amigas-lakasa-manitas-1024x682.jpg "Manitas del restaurante Lakasa. ©Lakasa")
+![manitas de cerdo del restaurante lakasa de madrid](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-lakasa-manitas-1024x682.jpg "Manitas del restaurante Lakasa. ©Lakasa")
 
 ## 9\. Arallo Taberna
 
@@ -169,7 +169,7 @@ por su excelente relación calidad/precio.
 Taberna](https://etheriamagazine.com/2018/05/17/cenar-con-amigas-en-taberna-arallo-madrid/): 
 calle Reina, 31. Tel. 690 673 796. Precio medio: 25-35 Euros. 
 
-![ricas empanadas de la taberna arallo de madrid](etheria-images/2018/10/Taberna-Arallo-1.jpg "Empanadas en Arallo Taberna. ©Arallo Taberna.")
+![ricas empanadas de la taberna arallo de madrid](https://fotos.etheriamagazine.com/2018/10/Taberna-Arallo-1.jpg "Empanadas en Arallo Taberna. ©Arallo Taberna.")
 
 ## 10\. Salvaje Madrid
 
@@ -184,7 +184,7 @@ maduración previa del pescado crudo.
 Restaurante Salvaje: Velázquez, 62 (Hotel Bless). Precio medio: Menú de mediodía (13.30 
 a 16 horas), 24 Euros. Precio cena de carta: 30 a 40 Euros. 
 
-![platos japoneses restaurante salvaje valencia](etheria-images/2021/12/restaurante-salvaje-valencia.jpg "Platos del restaurante Salvaje. © Pepa García")
+![platos japoneses restaurante salvaje valencia](https://fotos.etheriamagazine.com/2021/12/restaurante-salvaje-valencia.jpg "Platos del restaurante Salvaje. © Pepa García")
 
 ### Más planes con amigas en Madrid
 

@@ -1,7 +1,7 @@
 ---
 title: "Consejos para viajar sola al Salar de Uyuni, el desierto de sal más grande del planeta"
 date: 2019-05-24
-coverImage: etheria-images/2019/05/viajar-sola-por-salar-uyuni.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/viajar-sola-por-salar-uyuni.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ Si tienes pensado viajar sola al Salar de Uyuni, el desierto de sal más grande 
 
 **Por Elisabeth G. Iborra** (periodista y escritora experta en viajar sola) 
 
-![Mujer saltando en el Salar de Uyuni.](etheria-images/2019/05/viajar-sola-salar-uyuni.jpg "Salar de Uyuni. © Alan Hurt Jr.")
+![Mujer saltando en el Salar de Uyuni.](https://fotos.etheriamagazine.com/2019/05/viajar-sola-salar-uyuni.jpg "Salar de Uyuni. © Alan Hurt Jr.")
 
 La singularidad del Salar de Uyuni convierte este rincón de Bolivia en uno de los viajes 
 imprescindibles en la agenda de cualquier viajera que disfrute de la aventura. Como el 
@@ -42,7 +42,7 @@ construyeron las vías para mejorar el transporte en Bolivia y, por tanto, la ex
 entre países. Evidentemente, el interés que tenían los británicos eran los minerales 
 extraídos por los bolivianos en condiciones de absoluta explotación y derrumbe. 
 
-![Cementerio del tren en el Salar de Uyuni.](etheria-images/2019/05/cementerio-trenes-salar-uyuni.jpg "Cementerio del tren en el Salar de Uyuni.")
+![Cementerio del tren en el Salar de Uyuni.](https://fotos.etheriamagazine.com/2019/05/cementerio-trenes-salar-uyuni.jpg "Cementerio del tren en el Salar de Uyuni.")
 
 La siguiente parada es el pueblo de **Colchani**, con sus casitas construidas con 
 ladrillos de sal, donde muestran el **Museo de La Llama y la Sal** y, en la **fábrica de 
@@ -67,7 +67,7 @@ víveres–, plantaron cactus en la isla del pescado para orientarse desde lejos
 allí en su ruta hacia Chile, donde realizaban un intercambio comercial y cultural con 
 las tribus conquistadas para su imperio. 
 
-![Cactus en el Salar de Uyuni.](etheria-images/2019/05/cactus-salar-uyuni.jpg "Cactus en el Salar de Uyuni. © Diego Aguilar/ Unsplash")
+![Cactus en el Salar de Uyuni.](https://fotos.etheriamagazine.com/2019/05/cactus-salar-uyuni.jpg "Cactus en el Salar de Uyuni. © Diego Aguilar/ Unsplash")
 
 ### La gruta de las Galaxias
 
@@ -87,7 +87,7 @@ Quinoa Real, el cereal que se cultiva en la zona limítrofe con el Salar, datada
 techo. Unos cactus cuya madera sirve, asimismo, para hacer lámparas, vigas, muebles y 
 hasta joyeros. 
 
-![Un paseo en el desierto de sal más grande del mundo.](etheria-images/2019/05/viajar-sola-por-salar-uyuni.jpg "Un paseo en el desierto de sal más grande del mundo. © Jeison Higuita/ Unsplash")
+![Un paseo en el desierto de sal más grande del mundo.](https://fotos.etheriamagazine.com/2019/05/viajar-sola-por-salar-uyuni.jpg "Un paseo en el desierto de sal más grande del mundo. © Jeison Higuita/ Unsplash")
 
 ### Hoteles de sal en el Salar de Uyuni
 
@@ -100,7 +100,7 @@ En la zona hay varios hoteles, entre ellos: **Luna Salada** y **Palacio de la Sa
 Colchani, a orillas del salar). Ambos ofrecen todas las comodidades, servicios de 
 restauración y spa. 
 
-![Hotel Palacio de la Sal.](etheria-images/2019/05/hotel-salar-uyuni.jpg "© Hotel Palacio de la Sal.")
+![Hotel Palacio de la Sal.](https://fotos.etheriamagazine.com/2019/05/hotel-salar-uyuni.jpg "© Hotel Palacio de la Sal.")
 
 ## Día 2. Ejército de soldados de piedra
 
@@ -120,7 +120,7 @@ volcanes. Otra cosa es lo que haga Chile con la mitad de algunos volcanes que le
 pues el recorrido transcurre todo el tiempo bordeando la frontera boliviana con la 
 chilena. 
 
-![Paisaje irreal del Salar de Uyuni al amanecer.](etheria-images/2019/05/salar-uyuni-amanecer.jpg "Paisaje irreal del Salar de Uyuni. © Sifan Liu/ Unsplash")
+![Paisaje irreal del Salar de Uyuni al amanecer.](https://fotos.etheriamagazine.com/2019/05/salar-uyuni-amanecer.jpg "Paisaje irreal del Salar de Uyuni. © Sifan Liu/ Unsplash")
 
 ### Ruta de las lagunas de colores
 
@@ -134,7 +134,7 @@ internada en el hielo que se forma sobre el lago, esperando a que deshiele para 
 moverse de nuevo. Si los espantan a mitad de noche, pueden romperse la extremidad, al no 
 poderla sacar. 
 
-![Flamenco del Salar de Uyuni](etheria-images/2019/05/salar-uyuni-flamencos.jpg "Flamenco del Salar de Uyuni. © Indranil Roy/ Unsplash")
+![Flamenco del Salar de Uyuni](https://fotos.etheriamagazine.com/2019/05/salar-uyuni-flamencos.jpg "Flamenco del Salar de Uyuni. © Indranil Roy/ Unsplash")
 
 Es curioso su ritual de apareamiento y la **marcha nupcial** de estas parejas monógamas, 
 pues, cuando se juntan, el resto de los parientes va detrás en fila emitiendo graznidos 
@@ -153,7 +153,7 @@ este mundo, porque sin ellos, pensarías que estás en Marte. Eso sin olvidar el
 piedra y todas las demás formaciones volcánicas que adoptaron formas caprichosas e 
 imponentes bajo las cuales te sientes diminuta. 
 
-![Laguna Colorada (Bolivia).](etheria-images/2019/05/viaje-bolivia-laguna-colorada.jpg "Laguna Colorada (Bolivia). © Hugo Kruip")
+![Laguna Colorada (Bolivia).](https://fotos.etheriamagazine.com/2019/05/viaje-bolivia-laguna-colorada.jpg "Laguna Colorada (Bolivia). © Hugo Kruip")
 
 ## Día 3. El cuadro de Dalí y los géiseres
 

@@ -1,7 +1,7 @@
 ---
 title: "10 imprescindibles en el entorno del Parque Nacional Suiza de Bohemia"
 date: 2018-12-11
-coverImage: etheria-images/2018/12/republica-checa-viajes-mujeres-etheria-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/12/republica-checa-viajes-mujeres-etheria-1.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -18,7 +18,7 @@ la República Checa. Sigue las sendas del más joven de los parques nacionales c
 descubre por qué levantó pasiones al encarnar la belleza ideal entre los artistas 
 románticos. 
 
-![Parque Nacional Suiza Bohemia, en la República Checa](etheria-images/2018/12/republica-checa-viajes-mujeres-etheria-1024x683.jpg "Uno de los rincones sorprendentes del Parque Nacional Suiza Bohemia (Rep. Checa).")
+![Parque Nacional Suiza Bohemia, en la República Checa](https://fotos.etheriamagazine.com/2018/12/republica-checa-viajes-mujeres-etheria-1024x683.jpg "Uno de los rincones sorprendentes del Parque Nacional Suiza Bohemia (Rep. Checa).")
 
 ## 1\. No te has equivocado, esto no es Suiza
 
@@ -32,7 +32,7 @@ captaron su luz, una luz siempre presente en aquellas obras románticas repletas
 escarpes, callejones y torres de rocas entre mesetas volcánicas rodeadas de bosques de 
 pinos y hayas. 
 
-![Bucólica estampa de la Suiza Bohemia, en República Checa](etheria-images/2018/12/republica-checa-viajes-mujeres-etheria-1-1024x683.jpg "Bucólica estampa de la Suiza Bohemia (República Checa).")
+![Bucólica estampa de la Suiza Bohemia, en República Checa](https://fotos.etheriamagazine.com/2018/12/republica-checa-viajes-mujeres-etheria-1-1024x683.jpg "Bucólica estampa de la Suiza Bohemia (República Checa).")
 
 ## 2\. Pravčická, el arco natural más grande de Europa
 
@@ -50,7 +50,7 @@ setas o animales, las altísimas hayas buscando la luz o los pinos aferrados ent
 te harán sentir en una ciudad imaginaria donde encuentras hasta un hotel pionero del 
 turismo europeo, el **Nido del Halcón**, asentado bajo el arco natural. 
 
-![El fotogénico arco Pravcická es la joya del Parque Nacional Suiza Bohemia.](etheria-images/2018/12/republica-checa-arco-Pravcicka-etheria-magazine-1024x767.jpg "El fotogénico arco Pravcická es la joya del Parque Nacional Suiza Bohemia.")
+![El fotogénico arco Pravcická es la joya del Parque Nacional Suiza Bohemia.](https://fotos.etheriamagazine.com/2018/12/republica-checa-arco-Pravcicka-etheria-magazine-1024x767.jpg "El fotogénico arco Pravcická es la joya del Parque Nacional Suiza Bohemia.")
 
 ## 3\. Un romántico crucero fluvial por el cañón
 
@@ -67,7 +67,7 @@ del paisaje**. Es lo que hicieron los primeros turistas europeos, que pudieron a
 con calma el panorama ribereño del cañón con sus rocas pulidas y de formas curiosas 
 desde una perspectiva única, en medio de su angosto curso fluvial. 
 
-![Crucero fluvial por el cañón del Parque Nacional Suiza Bohemia.](etheria-images/2018/12/crucero-fluvial-cañon-republica-checa-1024x683.jpg "Crucero fluvial por el cañón del Parque Nacional Suiza Bohemia.")
+![Crucero fluvial por el cañón del Parque Nacional Suiza Bohemia.](https://fotos.etheriamagazine.com/2018/12/crucero-fluvial-cañon-republica-checa-1024x683.jpg "Crucero fluvial por el cañón del Parque Nacional Suiza Bohemia.")
 
 ## 4\. Escala por la única vía ferrata urbana de Europa
 
@@ -83,7 +83,7 @@ piraguas, hacen sentirse viajeros aunque no decimonónicos. **Su vía ferrata, l
 concebida en una ciudad europea, ofrece una perspectiva aventurera urbana y fluvial 
 única.** 
 
-![Vía Ferrata Shepherd's Bluff, en el Parque Nacional Suiza Bohemia.](etheria-images/2018/12/escalada-via-ferrata-rep-checa-1024x683.jpg "Vía Ferrata Shepherd's Bluff, en el Parque Nacional Suiza Bohemia.")
+![Vía Ferrata Shepherd's Bluff, en el Parque Nacional Suiza Bohemia.](https://fotos.etheriamagazine.com/2018/12/escalada-via-ferrata-rep-checa-1024x683.jpg "Vía Ferrata Shepherd's Bluff, en el Parque Nacional Suiza Bohemia.")
 
 ## 5\. Venerar montañas y santos escondidos entre rocas
 
@@ -97,7 +97,7 @@ iglesias distantes no eran accesibles a todos los vecinos por eso estos pequeño
 en plena naturaleza servían para oficiar en ocasiones especiales como nacimientos, bodas 
 y entierros. 
 
-![Capilla de piedra en el Parque Nacional Suiza Bohemia.](etheria-images/2018/12/viaje-mujeres-bohemia-suiza-rep-checa-1024x683.jpg "Capilla de piedra en el Parque Nacional Suiza Bohemia.")
+![Capilla de piedra en el Parque Nacional Suiza Bohemia.](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-bohemia-suiza-rep-checa-1024x683.jpg "Capilla de piedra en el Parque Nacional Suiza Bohemia.")
 
 ## 6\. Quedarse prendada de granjas de cuento
 
@@ -109,7 +109,7 @@ tanto las influencias arquitectónicas germanas como las eslavas. Te enamorarán
 coquetas estructuras escondidas en el bosque, al igual que durante 200 años a pintores, 
 músicos y poetas. 
 
-![Arquitectura tradicional en las granjas de la Bohemia Suiza.](etheria-images/2018/12/granjas-cuento-bohemia-suiza-1024x683.jpg "Arquitectura tradicional en las granjas de la Bohemia Suiza.")
+![Arquitectura tradicional en las granjas de la Bohemia Suiza.](https://fotos.etheriamagazine.com/2018/12/granjas-cuento-bohemia-suiza-1024x683.jpg "Arquitectura tradicional en las granjas de la Bohemia Suiza.")
 
 ## 7\. Déjate llevar por el río Elba
 
@@ -121,7 +121,7 @@ verás que es una actividad muy popular entre los checos. Así lograrás **una p
 única del río** y los cantiles que quedan en sus riberas. Y si el deporte no es lo tuyo, 
 súbete a un barco de vapor restaurado que te llevará hasta Dresde. 
 
-![Pasea en piragua en el río Elba.](etheria-images/2018/12/rio-elba-rep-checa-1024x683.jpg "Pasea en piragua en el río Elba.")
+![Pasea en piragua en el río Elba.](https://fotos.etheriamagazine.com/2018/12/rio-elba-rep-checa-1024x683.jpg "Pasea en piragua en el río Elba.")
 
 ## 8\. Un toque de hospitalidad checa
 
@@ -137,7 +137,7 @@ podrás volver a degustarlo. El sabor de la cerveza local, intenso y fresco, te 
 buen regusto y repondrá energías para la siguiente jornada después de descansar rodeado 
 de llamas si eliges quedarte en la casa rural U Lamy. 
 
-![Cerveza local para refrescarse tras una jornada turística intensa.](etheria-images/2018/12/cerveza-republica-checa-1024x650.jpg "Cerveza local para refrescarse tras una jornada turística intensa.")
+![Cerveza local para refrescarse tras una jornada turística intensa.](https://fotos.etheriamagazine.com/2018/12/cerveza-republica-checa-1024x650.jpg "Cerveza local para refrescarse tras una jornada turística intensa.")
 
 ## 9\. Contempla los peces más heroicos de Europa
 
@@ -150,7 +150,7 @@ tienes un poco de paciencia, tal vez veas al salmón atlántico, uno de los pece
 viajeros del mundo que, gracias a un proceso de reintroducción, vuelve a nadar por los 
 ríos Křinice y Kamenice que surcan el parque. 
 
-![Permanece atenta a la fauna salvaje del parque.](etheria-images/2018/12/peces-parque-nacional-suiza-1024x683.jpg "Permanece atenta a la fauna salvaje del parque.")
+![Permanece atenta a la fauna salvaje del parque.](https://fotos.etheriamagazine.com/2018/12/peces-parque-nacional-suiza-1024x683.jpg "Permanece atenta a la fauna salvaje del parque.")
 
 ## 10\. Recorre la senda más antigua de Bohemia
 
@@ -164,7 +164,7 @@ sobre la espectacular geología por la que discurre y da a conocer un poco más 
 flora y fauna local. Es una lástima no poder conocer a su autor y primer guía pero los 
 40 paneles interpretativos y las señales te ayudarán a no perderte nada a tu paso. 
 
-![Senda Kögler para recorrer en bicicleta.](etheria-images/2018/12/Kogler-senda-bicicleta-rep-checa-1024x621.jpg "Senda Kögler para recorrer en bicicleta.")
+![Senda Kögler para recorrer en bicicleta.](https://fotos.etheriamagazine.com/2018/12/Kogler-senda-bicicleta-rep-checa-1024x621.jpg "Senda Kögler para recorrer en bicicleta.")
 
 ✅ **Puedes seguir leyendo sobre Chequia:** 
 

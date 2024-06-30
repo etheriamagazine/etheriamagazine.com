@@ -1,7 +1,7 @@
 ---
 title: "Gibraltar, planes para una escapada en familia"
 date: 2018-05-21
-coverImage: etheria-images/2018/05/Peñón-Gibraltar.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Peñón-Gibraltar.jpg
 categories: 
   - viaje-en-familia
 authors: 
@@ -12,7 +12,7 @@ Cualquier época del año es buena para hacer una pequeña escapada familiar a G
 Si estáis pasando las vacaciones en Andalucía solo es necesario que reservéis uno o dos 
 días para visitar El Peñón. En sus 8 km2 encontraréis planes para todos. 
 
-![En las terrazas superiores se puede ver a los macacos de cerca.](etheria-images/2018/05/Monos-Gibraltar-1-e1558853497645.jpg "En las terrazas superiores se puede ver a los macacos de cerca.")
+![En las terrazas superiores se puede ver a los macacos de cerca.](https://fotos.etheriamagazine.com/2018/05/Monos-Gibraltar-1-e1558853497645.jpg "En las terrazas superiores se puede ver a los macacos de cerca.")
 
 Los **viajes en familia** siempre deben ser organizados para que disfruten todos los 
 miembros de la familia, y eso es lo que hemos intentado al proponeros esta escapada a 
@@ -22,7 +22,7 @@ ejemplo, **Main Street**, la principal calle comercial, desde Casemates Square h
 Jardines Botánicos Alameda (que podría ser una de las mayores distancias) no deja de ser 
 un paseo abarcable. 
 
-![Ir de compras es una de las actividades más populares en un viaje a Gibraltar](etheria-images/2018/05/Gibraltar-calle-y-banco-e1558853521878.jpg "Ir de compras es una de las actividades más populares.")
+![Ir de compras es una de las actividades más populares en un viaje a Gibraltar](https://fotos.etheriamagazine.com/2018/05/Gibraltar-calle-y-banco-e1558853521878.jpg "Ir de compras es una de las actividades más populares.")
 
 ## Qué hacer con niños en Gibraltar
 
@@ -39,7 +39,7 @@ siglo XVIII. Aunque son inofensivos no hay que olvidar que estáis invadiendo su
 y no hay que provocarles, ni ofrecerles comida o hacer ostentación de bolsas que puedan 
 intentar sustraer. 
 
-![Los Jardines de la Alameda son perfectos para descansar cuando viajas en familia](etheria-images/2018/05/3-Gibraltar-viajes-en-familia-e1558853541728.jpg "Los discretos Jardines de la Alameda son el lugar perfecto para pasear y descansar a la sombra.")
+![Los Jardines de la Alameda son perfectos para descansar cuando viajas en familia](https://fotos.etheriamagazine.com/2018/05/3-Gibraltar-viajes-en-familia-e1558853541728.jpg "Los discretos Jardines de la Alameda son el lugar perfecto para pasear y descansar a la sombra.")
 
 Siguiendo con el reino animal, os sugerimos navegar por las aguas del Estrecho de 
 Gibraltar para observar delfines. Las embarcaciones no precisan alejarse mucho para 
@@ -73,7 +73,7 @@ mientras observáis los anillos que muestran el crecimiento de las estalagmitas 
 Catedral, cuyas formaciones recuerdan a un órgano gigante. A veces se organizan 
 conciertos en el interior, por lo que merece la pena informarse antes. 
 
-![Una foto que no debe faltar es entrando o saliendo de una cabina roja.](etheria-images/2018/05/Cabinas-rojas-en-gibraltar-e1558853595551.jpg "Una foto que no debe faltar es entrando o saliendo de una cabina roja.")
+![Una foto que no debe faltar es entrando o saliendo de una cabina roja.](https://fotos.etheriamagazine.com/2018/05/Cabinas-rojas-en-gibraltar-e1558853595551.jpg "Una foto que no debe faltar es entrando o saliendo de una cabina roja.")
 
 ## Compras en Main Street
 
@@ -93,7 +93,7 @@ aunque en la mayoría de los establecimientos acepten euros. Otra opción que pu
 más a cuenta es cambiar en alguna de las oficinas. Además, a los niños les gustará ver 
 que las monedas son diferentes. 
 
-![Viaje en familia a Gibraltar](etheria-images/2018/05/Guardia-Gibraltar-e1558853630483.jpg "En un viaje en familia a Gibraltar los niños disfrutarán viendo desfilar a los soldados")
+![Viaje en familia a Gibraltar](https://fotos.etheriamagazine.com/2018/05/Guardia-Gibraltar-e1558853630483.jpg "En un viaje en familia a Gibraltar los niños disfrutarán viendo desfilar a los soldados")
 
 ## Dónde comer en Gibraltar
 

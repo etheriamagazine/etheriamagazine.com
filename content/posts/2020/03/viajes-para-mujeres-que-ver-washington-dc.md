@@ -1,7 +1,7 @@
 ---
 title: "Washington DC con amigas, descubre sus atractivos barrio a barrio"
 date: 2020-03-02
-coverImage: etheria-images/2020/02/viaje-whasington-chinatown-museo.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-whasington-chinatown-museo.jpg
 categories: 
   - viajes-con-amigas
   - viajes-urbanos
@@ -12,7 +12,7 @@ authors:
 
 Es una jungla de asfalto, es cierto, poblada por corbatas, zapatos de tacón y maletines. Pero la diversión también está servida a orillas del río Potomac, donde se sitúa The Wharf, en los encantadores barrios históricos y en el National Mall, donde sigue dominando la cultura y el color verde. Sigue nuestros consejos para disfrutar de un inolvidable viaje a Washington DC con amigas.
 
-![chocolateria harper macaw, que ver Washington, viaje amigas Washington](etheria-images/2020/02/viaje-whasington-waterfront-chocolateria-Harper-Macaw-900x600.jpg "Chocolatería Harper Macaw, en el Waterfront de Washington. © Kris Ubach")
+![chocolateria harper macaw, que ver Washington, viaje amigas Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-waterfront-chocolateria-Harper-Macaw-900x600.jpg "Chocolatería Harper Macaw, en el Waterfront de Washington. © Kris Ubach")
 
 ## Qué ver en Washington DC
 
@@ -33,7 +33,7 @@ sus dos escasos años de vida, The Wharf se haya convertido en una de las áreas
 _posh_ de la ciudad. Y ojo, que solo está terminada la primera fase; la siguiente, de la 
 que ya se vislumbran cimientos y grúas, verá la luz en 2022. 
 
-![viaje amigas a Washington, waterfront Washington](etheria-images/2020/02/viaje-whasington-waterfront-warf.jpg "Así es el animado Waterfront de Washington. © Kris Ubach")
+![viaje amigas a Washington, waterfront Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-waterfront-warf.jpg "Así es el animado Waterfront de Washington. © Kris Ubach")
 
 ### El barrio de NoMa, la gran metamorfosis
 
@@ -45,7 +45,7 @@ capital: **Union Market**. Alberga unos 40 puestos de venta que abren
 ininterrumpidamente siete días a la semana entre las ocho de la mañana y las diez de la 
 noche. 
 
-![noma, union market, viaje chicas a Washington](etheria-images/2020/02/viaje-whasington-noma-union-market.jpg "En el barrio de NoMa, no te pierdas las tiendas de Union Market. © Kris Ubach")
+![noma, union market, viaje chicas a Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-noma-union-market.jpg "En el barrio de NoMa, no te pierdas las tiendas de Union Market. © Kris Ubach")
 
 Se puede acudir para el desayuno, pero también para el _brunch_, el aperitivo, la 
 comida, la hora del té, la merienda o la cena. Y entre bocado y bocado también hay 
@@ -58,7 +58,7 @@ la parte exterior de Union Market— y la propia **estación central de trenes U
 Station** que, con perdón de la Central Station neoyorkina, es una de las más bellas de 
 Estados Unidos. 
 
-![estacion tren Washington, viaje con amigas a Washington](etheria-images/2020/02/viaje-whasington-noma-union-station.jpg "Estación de tren Union Station de Washington.  © Kris Ubach")
+![estacion tren Washington, viaje con amigas a Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-noma-union-station.jpg "Estación de tren Union Station de Washington.  © Kris Ubach")
 
 ### Barrios de Chinatown & Penn Quarter, exotismo y cultura
 
@@ -70,7 +70,7 @@ festivales de Año Nuevo y de las Linternas. Chinatown tiene su puerta monumenta
 carteles escritos en mandarín y sus pasos de cebra decorados con los símbolos del 
 horóscopo chino, pero lo cierto es que aquí se viene, sobre todo, a comer. 
 
-![viaje Washington con amigas, que ver en Washington, chinatown Washington](etheria-images/2020/02/viaje-whasington-chinatown-penn-tienda-souvenirs.jpg "Tienda de souvenirs en el Chinatown de Washington. © Kris Ubach")
+![viaje Washington con amigas, que ver en Washington, chinatown Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-chinatown-penn-tienda-souvenirs.jpg "Tienda de souvenirs en el Chinatown de Washington. © Kris Ubach")
 
 **El barrio es famoso por su pato laqueado** y por su pescado picante pero también por 
 otras recetas exóticas como el sushi, el _chicken masala_ ¡o la paella! Y ojo, que esta 
@@ -80,7 +80,7 @@ internacionales: **José Andrés**, que cuenta con dos establecimientos en estas
 > En Jaleo sirven cocina informal en forma de tapas y raciones para compartir; en Minibar, 
 > alta cocina con dos estrellas Michelin. 
 
-![American Art Museum, viaje mujeres Washington](etheria-images/2020/02/viaje-whasington-chinatown-museo.jpg "American Art Museum de Washington. © Kris Ubach")
+![American Art Museum, viaje mujeres Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-chinatown-museo.jpg "American Art Museum de Washington. © Kris Ubach")
 
 **Penn Quarter** alberga —en el mismo edificio neoclásico— dos de las grandes 
 instituciones de la emblemática Smithsonian: la **National Portrait Gallery** y el 
@@ -105,7 +105,7 @@ calles.
 > Unidos, como Jefferson, Kennedy y Clinton, además de Elizabeth Taylor y numerosas 
 > celebrities locales. 
 
-![georgetown, que ver en Washington, barrio presidentes estados unidos](etheria-images/2020/02/viaje-whasington-georgetown.jpg "Barrio de Georgetown, en Washington. © Kris Ubach")
+![georgetown, que ver en Washington, barrio presidentes estados unidos](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-georgetown.jpg "Barrio de Georgetown, en Washington. © Kris Ubach")
 
 Para dar un paseo sin perderse nada hay que recorrer la M Street entre la 29th y la 
 34th. En ella, uno detrás de otro, se suceden varios edificios históricos, entre otros 
@@ -127,7 +127,7 @@ conocido _reality show_ local.
 > escena de la escalera de la película 'El Exorcista' en 1973 (esquina de Prospect Street 
 > con la 36th). 
 
-![Capitolio de Washington, que ver en Washington](etheria-images/2020/02/viaje-whasington-mall-capitolio.jpg "Capitolio de Washington, una visita básica. © Kris Ubach")
+![Capitolio de Washington, que ver en Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-mall-capitolio.jpg "Capitolio de Washington, una visita básica. © Kris Ubach")
 
 ### Barrio de Downtown & National Mall, el más patriótico
 
@@ -151,7 +151,7 @@ totalmente desapercibido otro memorial, el del lugar desde el que Martin Luther 
 su famoso discurso “I Have a Dream” en 1963. Solo una placa en el suelo marca el punto 
 exacto. 
 
-![African American History Museum, museos Washington, que ver Washington](etheria-images/2020/02/viaje-whasington-mall-African-American-History-Museum.jpg "African American History Museum, de Washington. © Kris Ubach")
+![African American History Museum, museos Washington, que ver Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-mall-African-American-History-Museum.jpg "African American History Museum, de Washington. © Kris Ubach")
 
 Más protagonistas del Mall: los museos de la **Smithsonian**. Unos datos para comprender 
 su magnitud: este centro de educación e investigación financiado por el Gobierno 

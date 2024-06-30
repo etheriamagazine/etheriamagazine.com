@@ -1,7 +1,7 @@
 ---
 title: "Como preparar la maleta para un crucero"
 date: 2018-11-17
-coverImage: etheria-images/2018/11/hacer-maleta-crucero.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/hacer-maleta-crucero.jpg
 categories: 
   - organiza-tu-viaje
   - que-llevar-en-la-maleta
@@ -16,7 +16,7 @@ cruceros, con ese antiguo halo de exclusividad, la preocupación se incrementa. 
 preparada para desmitificar el 'mundo crucero'? Te contamos cómo preparar la maleta para 
 un crucero. 
 
-![Maleta en el mar](etheria-images/2018/11/hacer-maleta-crucero-1024x634.jpg "Piensa bien cómo hacer la maleta para un crucero para no cargar de más.")
+![Maleta en el mar](https://fotos.etheriamagazine.com/2018/11/hacer-maleta-crucero-1024x634.jpg "Piensa bien cómo hacer la maleta para un crucero para no cargar de más.")
 
 Uno de los tipos de viajes que más dudas despierta en cuanto al **equipaje que debemos 
 llevar es el de los cruceros**: ¿Cómo debo vestir en el barco? ¿Será demasiado informal? 
@@ -40,7 +40,7 @@ viajar en un hotel flotante.
 
 \[lwptoc\]
 
-![documentacion viaje crucero](etheria-images/2018/11/passport-2642172_1280-1024x682.jpg "Nunca olvides el pasaporte.")
+![documentacion viaje crucero](https://fotos.etheriamagazine.com/2018/11/passport-2642172_1280-1024x682.jpg "Nunca olvides el pasaporte.")
 
 ## Primeros pasos para preparar la maleta
 
@@ -58,7 +58,7 @@ Te recomendamos que eches un vistazo a las webs de las principales navieras (Pul
 Costa Cruceros, Royal Caribbean, MSC, NCL…). Suelen tener apartados con información 
 sobre lo que se puede y no se puede llevar a bordo. 
 
-![Mujer con sombrero tumbada en la playa](etheria-images/2018/11/maletas-viajes-cruceros-1024x686.jpg "No dejes pasar la oportunidad de lucir sombrero (cuanto más grande mejor) cuando viajes a destinos cálidos.")
+![Mujer con sombrero tumbada en la playa](https://fotos.etheriamagazine.com/2018/11/maletas-viajes-cruceros-1024x686.jpg "No dejes pasar la oportunidad de lucir sombrero (cuanto más grande mejor) cuando viajes a destinos cálidos.")
 
 ## ¿Qué puedo necesitar?
 
@@ -90,7 +90,7 @@ rutina. Además, tendrás opción de realizar decenas de actividades como yoga, 
 relajación, etc. Lleva chandal, mallas, deportivas y bañador y chanclas (muchos cuentan 
 con baño turco y sauna). 
 
-![Mujeres haciendo yoga](etheria-images/2018/11/mujeres-crucero-yoga-1024x682.jpg "Aprovecha para practicar yoga en cubierta, dedícate un poco de tiempo a ti misma.")
+![Mujeres haciendo yoga](https://fotos.etheriamagazine.com/2018/11/mujeres-crucero-yoga-1024x682.jpg "Aprovecha para practicar yoga en cubierta, dedícate un poco de tiempo a ti misma.")
 
 ### Piscinas y spa
 
@@ -112,7 +112,7 @@ Móviles (ojo con las tarifas del _roaming_, la tarifa durante la navegación 'n
 estándar'), cámara de fotos, todos los cargadores y un libro (suele haber biblioteca, 
 pero es mejor invertir el tiempo en tu autor favorito). 
 
-![Perros en un yate](etheria-images/2018/11/perros-viaje-cruceros-1024x678.jpg "En los cruceros no se suelen permitir las mascotas.")
+![Perros en un yate](https://fotos.etheriamagazine.com/2018/11/perros-viaje-cruceros-1024x678.jpg "En los cruceros no se suelen permitir las mascotas.")
 
 ## Lo que no debes llevar a un crucero
 

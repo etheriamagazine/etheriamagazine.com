@@ -1,7 +1,7 @@
 ---
 title: "Ruta para desconectar en Las Merindades de Burgos"
 date: 2019-06-04
-coverImage: etheria-images/2019/05/ruta-merindades-ojo-guarena.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/ruta-merindades-ojo-guarena.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 La desconexión que necesitas está muy cerca, en Las Merindades de Burgos. Imagínate con tus amigas urbanitas recorriendo pueblos medievales, descubriendo grutas milenarias y cascadas naturales. ¿Cascadas en Burgos? Olvida los campos dorados de cereal. Por el camino, pararemos ‘en boxes’ para tomar un buen Ribera y ¡que nos den morcilla! (Pero que sea burgalesa).
 
-![Frías, uno de los emblemas medievales de Las Merindades.](etheria-images/2019/05/ruta-merindades-pueblo-frias.jpg "Frías, uno de los emblemas medievales de Las Merindades.")
+![Frías, uno de los emblemas medievales de Las Merindades.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-pueblo-frias.jpg "Frías, uno de los emblemas medievales de Las Merindades.")
 
 Tal era el poder feudal de **los Merinos** —los representantes del rey en la comarca—, 
 que llamar Las Merindades al territorio de su competencia pareció lo más lógico en la 
@@ -22,14 +22,14 @@ espectacular antesala de la Cordillera Cantábrica. Notarás la cercanía con el
 en la arquitectura de sus caseríos y en el deje con el que hablan sus vecinos. Corramos 
 los visillos de Las Merindades de Burgos, sepamos qué esconden con tanto celo. 
 
-![El Salto del Nervión pertenece al Monumento Natural del Monte Santiago](etheria-images/2019/05/viaje-merindades-salto-nervion.jpg "El Salto del Nervión pertenece al Monumento Natural del Monte Santiago y se encuentra junto a la frontera con Vizcaya y Álava. © Turismo de Burgos")
+![El Salto del Nervión pertenece al Monumento Natural del Monte Santiago](https://fotos.etheriamagazine.com/2019/05/viaje-merindades-salto-nervion.jpg "El Salto del Nervión pertenece al Monumento Natural del Monte Santiago y se encuentra junto a la frontera con Vizcaya y Álava. © Turismo de Burgos")
 
 Más de doscientos metros de caída libre convierten al **Salto del Nervión** en la mayor 
 cascada de la Península Ibérica. Antiguamente se sacrificaba por su temido foso a los 
 lobos que atacaban al ganado. Sin duda, éste será uno de los puntos más sobrecogedores 
 de nuestro recorrido. 
 
-![Vista nocturna de Oña.](etheria-images/2019/05/ruta-merindades-onas.jpg "Vista nocturna de Oña. © Turismo de Burgos")
+![Vista nocturna de Oña.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-onas.jpg "Vista nocturna de Oña. © Turismo de Burgos")
 
 ## Pueblos medievales que debes conocer
 
@@ -41,7 +41,7 @@ histórico en el **Cronicón de Oña,** una representación que celebran cada ag
 Aprovecha la cita para callejear y adentrarte en el monasterio de San Salvador y en su 
 Jardín Secreto benedictino. 
 
-![Callejuelas de piedra de Frías, en las Merindades de Burgos.](etheria-images/2019/05/viaje-merindades-frias.jpg "Nos encantan las callejuelas de Frías.")
+![Callejuelas de piedra de Frías, en las Merindades de Burgos.](https://fotos.etheriamagazine.com/2019/05/viaje-merindades-frias.jpg "Nos encantan las callejuelas de Frías.")
 
 El salvaje interior burgalés nos guiará hasta **Frías**. En sus calles todavía resuena 
 el eco de los antiguos linajes medievales. Su castillo y sus **casas colgadas** (sí, 
@@ -50,7 +50,7 @@ que se asienta el corazón del pueblo. ¿He dicho pueblo? Error, Frías ostenta 
 de ciudad, de hecho, es la ciudad más pequeña de nuestro país, aunque también forma 
 parte de los **Pueblos más bonitos de España**. 
 
-![Hoces del Ebro, en las Merindades de Burgos](etheria-images/2019/05/Merindades-burgos-hoces.jpg "¿Te atreves a asomarte por las Hoces del Ebro? © Turismo de Burgos")
+![Hoces del Ebro, en las Merindades de Burgos](https://fotos.etheriamagazine.com/2019/05/Merindades-burgos-hoces.jpg "¿Te atreves a asomarte por las Hoces del Ebro? © Turismo de Burgos")
 
 ## El vértigo, el gran protagonista en Las Merindades de Burgos
 
@@ -63,7 +63,7 @@ refrescante y cristalina alberca natural de **El Pozo Azul**. Eso sí, si piensa
 zambullirte en ella, recuerda lo de ‘refrescante’, porque el agua procede directamente 
 de las montañas. 
 
-![La cascada de Orbaneja del Castillo atraviesa el centro del pueblo.](etheria-images/2019/05/ruta-merindades-cascada-orbaneja.jpg "La cascada de Orbaneja del Castillo atraviesa el centro del pueblo. © Turismo de Burgos")
+![La cascada de Orbaneja del Castillo atraviesa el centro del pueblo.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-cascada-orbaneja.jpg "La cascada de Orbaneja del Castillo atraviesa el centro del pueblo. © Turismo de Burgos")
 
 Si configuras tu cámara de fotos con una larga exposición, captarás el efecto seda de 
 los riachuelos en la **Senda de las Cascadas**, con parada en el **Valle de la 
@@ -80,7 +80,7 @@ de los Condestables de Castilla](http://www.medinadepomar.net/) también protago
 casco histórico, pero no te dejes engañar por el aspecto militar del monumento, su 
 interior contiene delicadas decoraciones mudéjares. 
 
-![El Castillo de los Condestables alberga el Museo de las Merindades.](etheria-images/2019/05/ruta-merindades-burgos-castillo.jpg "El castillo de los Condestables alberga el Museo de las Merindades. © KR")
+![El Castillo de los Condestables alberga el Museo de las Merindades.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-burgos-castillo.jpg "El castillo de los Condestables alberga el Museo de las Merindades. © KR")
 
 Algo está pasando en la **calle Mayor de Medina**. Entre el tumulto y el buen ambiente 
 de la gente, se nos plantea la pregunta de ‘¿hace un **chiquito**?’. Y poca broma con 
@@ -89,7 +89,7 @@ esto, porque los vecinos de esta tierra de vides nunca faltan a su cita con el a
 como en una especie de ‘religión’ hedonista —llamada **D.O. Ribera del Duero**—, donde 
 suculentos pinchos fletan las barras de las tabernas medinesas. 
 
-![En algunos rincones de Medina de Pomar el tiempo de detiene.](etheria-images/2019/05/ruta-merindades-atrio.jpg "En algunos rincones de Medina de Pomar el tiempo de detiene. © KR")
+![En algunos rincones de Medina de Pomar el tiempo de detiene.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-atrio.jpg "En algunos rincones de Medina de Pomar el tiempo de detiene. © KR")
 
 El contraste con el silencioso atrio de la **iglesia de Santa Cruz** añade 
 'medievalismo' a una localidad en la que convivieron cristianos, musulmanes y judíos. 
@@ -98,7 +98,7 @@ Quien piense que la Plaza Mayor de Medina se resguarda en el interior del pueblo
 muy equivocado: su privilegiada situación la convierte en uno de los mejores miradores 
 desde donde se contempla todo el praderío que rodea la villa. 
 
-![La Torre de los Velasco y un detalle de Espinosa de los Monteros.](etheria-images/2019/05/ruta-merindades-espinosa.jpg "La Torre de los Velasco y un detalle de Espinosa de los Monteros. © Turismo de Burgos/KR")
+![La Torre de los Velasco y un detalle de Espinosa de los Monteros.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-espinosa.jpg "La Torre de los Velasco y un detalle de Espinosa de los Monteros. © Turismo de Burgos/KR")
 
 ## Espinosa de los Monteros
 
@@ -117,7 +117,7 @@ un concurso de Playbacks donde los vecinos exhiben su cara más cómica.
 > Los lácteos son los encargados de poner el sello de calidad a su gastronomía: prueba sus 
 > deliciosas mantequillas, quesos y quesadas. 
 
-![Ojo Guareña es uno de los complejos kársticos más grandes del mundo.](etheria-images/2019/05/ruta-merindades-ojo-guarena.jpg "Ojo Guareña es uno de los complejos kársticos más grandes del mundo. © KR")
+![Ojo Guareña es uno de los complejos kársticos más grandes del mundo.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-ojo-guarena.jpg "Ojo Guareña es uno de los complejos kársticos más grandes del mundo. © KR")
 
 ## El 3x1 de Ojo Guareña
 
@@ -130,7 +130,7 @@ Adéntrate y recorre sus entrañas en una de las visitas guiadas. Abrígate y co
 previamente los [horarios de las cuevas Ojo 
 Guareña](http://www.merindaddesotoscueva.es/content/cuevas-ojo-guarena). 
 
-![El río Nela se abre paso bajo Puentedey.](etheria-images/2019/05/ruta-merindades-puentedey.jpg "El río Nela se abre paso bajo Puentedey. © KR")
+![El río Nela se abre paso bajo Puentedey.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-puentedey.jpg "El río Nela se abre paso bajo Puentedey. © KR")
 
 ## Puentedey
 
@@ -149,7 +149,7 @@ sorpresa! la localidad también contiene un elegante palacio del siglo XVI.
 > calidad de sus carnes de vacuno y la miel de brezo, procedente de las colmenas en las 
 > montañas. 
 
-![ruta burgos, merindades, vinos burgos](etheria-images/2019/05/ruta-merindades-burgos-vinos.jpg "Vides burgalesas. © Turismo de Burgos.")
+![ruta burgos, merindades, vinos burgos](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-burgos-vinos.jpg "Vides burgalesas. © Turismo de Burgos.")
 
 ### Las Merindades de Burgos | Etheria Magazine
 

@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Valencia, un paseo entre diseño y tiendas"
 date: 2020-03-26
-coverImage: etheria-images/2020/03/viaje-mujeres-valencia-dolores-cortes.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-dolores-cortes.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ Al entrar en Valencia se percibe una agradable sensación de bienestar. Su luz
 mediterránea, los aromas de las flores, las calles llenas de comercios coquetos y 
 salpicadas por edificios del modernismo valenciano, y el mar. ¿Qué más se puede pedir? 
 
-![escultura, malvarrosa, viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-mujeres-valencia-malvarrosa-6876-900x574.jpg "Escultura camino de la Malvarrosa. © Manena Munar")
+![escultura, malvarrosa, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-malvarrosa-6876-900x574.jpg "Escultura camino de la Malvarrosa. © Manena Munar")
 
 Para quien no conozca Valencia, es aconsejable empezar por el Mercado Central y sus 
 aledaños de la Ciudad Vieja. El mercado en sí impresiona por la belleza que encierra su 
@@ -30,7 +30,7 @@ ordenados por categorías y tamaños.
 **No te pierdas:** [Guía esencial de Valencia, imprescindibles en una ciudad que mira al 
 futuro](https://etheriamagazine.com/2022/10/03/que-ver-valencia/). 
 
-![cupula mercado central valencia, viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-mujeres-valencia-mercado-900x596.jpg "Cúpula del Mercado Central de Valencia. ©PB")
+![cupula mercado central valencia, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-mercado-900x596.jpg "Cúpula del Mercado Central de Valencia. ©PB")
 
 ## Made in Valencia
 
@@ -44,7 +44,7 @@ Original CV, con productos de la Comunidad Valenciana. Revestimiento de madera, 
 añejos y una serie de enseres como agua de valencia, arroz bomba, cocas, mistelas y 
 demás delicias levantinas hacen de la antigua farmacia un lugar irresistible. 
 
-![elisa peris, peris roca, viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-valencia-Elisa-Peris-900x332.jpg "Elisa Peris está al frente del taller de orfebrería Peris Roca. © M.M.")
+![elisa peris, peris roca, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-valencia-Elisa-Peris-900x332.jpg "Elisa Peris está al frente del taller de orfebrería Peris Roca. © M.M.")
 
 El que nombrasen a Valencia en 2022 **Capital del Diseño Mundia**l no es gratuito. La 
 ciudad ha tenido una particular visión para la belleza desde antaño. No hay más que dar 
@@ -55,7 +55,7 @@ en especial a los aderezos de fallera. Entre peinetas, broches y demás prodigio
 aderezos, se observan diseños modernos y la obra de Elisa Peris, médico de profesión, 
 que decidió hacerse cargo del negocio familiar incorporando su sello personal. 
 
-![viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-mujeres-valencia-La-Postalera-900x418.jpg "La Postalera (Izq.). © M.Munar")
+![viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-La-Postalera-900x418.jpg "La Postalera (Izq.). © M.Munar")
 
 Las calles valencianas invitan a pasear, sus distancias son cortas, y rebosan esplendor 
 por cada esquina. A cada paso se presentan edificios de la categoría del Palacio del 
@@ -75,7 +75,7 @@ sostenibles. **Ecoalf**, una de ellas, ayuda a limpiar los océanos confeccionad
 con lo que el mar devuelve. Camisetas rompedoras, deportivas y vestidos, cuelgan de en 
 un stand cuyo lema reza “**Because there is no Planet B**”. 
 
-![tiendas de valencia, moda de valencia, viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-valencia-mujeres-poppyns-900x599.jpg "Poppyns. © M. Munar")
+![tiendas de valencia, moda de valencia, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-valencia-mujeres-poppyns-900x599.jpg "Poppyns. © M. Munar")
 
 Entrar en la **Plaza Redonda** es hacerlo en la Valencia añeja. Cuando la construyó 
 Salvador Escrig Melchor en 1840 como receptáculo de pequeños comercios, se situaba 
@@ -86,7 +86,7 @@ colocándose en el centro de la Plaza Redonda, se observa una bonita perspectiva
 campanario barroco rococó de Santa Catalina. Y bajando la vista se lee una cita de 
 Blasco Ibáñez haciendo referencia a la plaza en su obra _Arroz y Tartana_. 
 
-![plaza redonda, viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-mujeres-valencia-Plaza-Redonda-900x638.jpg "Puesto de la Plaza Redonda. © M.Munar")
+![plaza redonda, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-Plaza-Redonda-900x638.jpg "Puesto de la Plaza Redonda. © M.Munar")
 
 ## Clec Fashion Festival
 
@@ -105,7 +105,7 @@ emergentes en una oferta revolucionaria, más allá de los desfiles al uso y apo
 diseñadores célebres, han expuesto sus creaciones durante tres días. Jornadas en las que 
 también se sucedieron interesantes foros como _La Nueva Masculinidad._ 
 
-![dolores cortes, tiendas moda valencia, viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-mujeres-valencia-dolores-cortes-900x647.jpg "Dolores Cortés saluda tras el desfile de bañadores. © M. Munar")
+![dolores cortes, tiendas moda valencia, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-dolores-cortes-900x647.jpg "Dolores Cortés saluda tras el desfile de bañadores. © M. Munar")
 
 Por la redondeada pasarela del Hemisfèric circularon los bañadores con estampados únicos 
 de Dolores Cortés, los vestidos de noche (la elegancia en estado puro) de Isabel Sanchís 
@@ -114,7 +114,7 @@ poco antes habían alegrado los platos cocinados por el chef estrella Michelin d
 alemán Bernd Knöller para el _showcooking_ en el que también participó la hija de 
 Ágatha, Cósima Ramírez. 
 
-![viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-mujeres-valencia-isabel-sanchis-900x600.jpg "La diseñadora Isabel Sanchís y su hija Paula Maiques muestran sus creaciones. © M.Munar")
+![viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-isabel-sanchis-900x600.jpg "La diseñadora Isabel Sanchís y su hija Paula Maiques muestran sus creaciones. © M.Munar")
 
 También salieron a la pasarela los diseños de Dominnico, que tanto le gustan a Rosalía, 
 y la noche terminó con el desfile, muy español, de Francis Montesinos acompañado por la 
@@ -134,7 +134,7 @@ playa bordea el mediterráneo mientras aromas seductores se escapan del centenar
 Pepica** y demás restaurantes playeros, augurando un día de sol y baño, coronado por una 
 paella de caracoles, alcachofas o marinera. 
 
-![playa malvarrosa, restaurantes playa malvarrosa, viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-mujeres-valencia-malvarrosa-900x695.jpg "La Malvarrosa y sus restaurantes playeros. © M. Munar")
+![playa malvarrosa, restaurantes playa malvarrosa, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-valencia-malvarrosa-900x695.jpg "La Malvarrosa y sus restaurantes playeros. © M. Munar")
 
 Aún en la Malvarrosa, se presenta Las Arenas Balneario Resort. Un cinco estrellas de la 
 cadena Santos que, situado en lo que fue un antiguo balneario de finales del siglo XIX, 
@@ -158,7 +158,7 @@ la Malvarrosa. Uno con el pincel y el otro con la pluma, ambos volcaron su arte 
 dura vida de los pescadores levantinos. El que fue el hogar de Blasco Ibáñez, en su 
 querida playa, hoy acoge el museo que lleva su nombre. 
 
-![el cabanyal, modernismo valencia, viaje valencia, compras valencia, diseno valencia](etheria-images/2020/03/viaje-valencia-mujeres-cabanyal-900x634.jpg "Coloridas y modernistas casas del barrio marinero de El Cabanyal. © M.Munar")
+![el cabanyal, modernismo valencia, viaje valencia, compras valencia, diseno valencia](https://fotos.etheriamagazine.com/2020/03/viaje-valencia-mujeres-cabanyal-900x634.jpg "Coloridas y modernistas casas del barrio marinero de El Cabanyal. © M.Munar")
 
 El Cabanyal se ha convertido en un barrio de moda. Sus casas son idóneas para albergar 
 museos como el de la Semana Santa Marinera y del Arroz. La Fábrica de Hielo es un 
@@ -176,7 +176,7 @@ de un barrio que sigue guardando su personalidad tradicional. No te pierdas un v
 al **Teatro de Marionetas** y una horchata con sus _fartons_ en **Horchatería Tío 
 Pepe**, antes de dejar el pintoresco barrio de El Cabanyal. 
 
-![Mercabanyal, viaje valencia, donde comprar valencia](etheria-images/2020/03/viaje-valencia-mujeres-Mercabanyal-900x575.jpg "Mercabanyal. © M. Munar")
+![Mercabanyal, viaje valencia, donde comprar valencia](https://fotos.etheriamagazine.com/2020/03/viaje-valencia-mujeres-Mercabanyal-900x575.jpg "Mercabanyal. © M. Munar")
 
 ## Guía práctica de Valencia
 

@@ -1,7 +1,7 @@
 ---
 title: "Cornualles, ruta por la costa inglesa tocada por el sol"
 date: 2019-07-10
-coverImage: etheria-images/2019/07/viaje-cornwall-Playa-Porthminster.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Playa-Porthminster.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -12,7 +12,7 @@ authors:
 
 No toda Inglaterra está dominada por días de lluvia y niebla, existe un lugar donde es más que probable disfrutar del sol y el buen tiempo, concretamente en la península de Cornualles. Te contamos los lugares que no puedes perderte en una ruta de fin de semana para disfrutar de esta bonita costa.
 
-![Puesto de fish & chips en Looe](etheria-images/2019/07/viaje-cornwall-Looe-2.jpg "Looe.")
+![Puesto de fish & chips en Looe](https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Looe-2.jpg "Looe.")
 
 Corrían los años 30 cuando la Great Western Railway empezó a promocionar las virtudes 
 casi mediterráneas de la costa inglesa de Cornualles –en inglés, Cornwall–. La 
@@ -39,7 +39,7 @@ aves inspiraron a la escritora **Daphne du Maurier**, para su _**novela Los Páj
 obra que pasaría a la historia —también sucedió con sus novelas _Rebeca_ y _La posada de 
 Jamaica_— por la adaptación cinematográfica llevada a cabo por Alfred Hitchcock. 
 
-![gaviotas en Looe](etheria-images/2019/07/viaje-cornwall-Looe.jpg "La vida transcurre tranquila en Looe.")
+![gaviotas en Looe](https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Looe.jpg "La vida transcurre tranquila en Looe.")
 
 ### Polperro
 
@@ -56,7 +56,7 @@ pesca de la sardina durante el día y en actividades comerciales menos lícitas 
 noches. Junto al puerto —lo que son las cosas— la antigua fábrica de transformación de 
 sardinas es hoy un museo dedicado al contrabando. 
 
-![barcos en el puerto de Polperro](etheria-images/2019/07/viaje-cornwall-Polperro.jpg "Polperro.")
+![barcos en el puerto de Polperro](https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Polperro.jpg "Polperro.")
 
 ### Finis Terrae
 
@@ -75,7 +75,7 @@ punto más occidental de Inglaterra. Si tuviéramos muy buena vista (nivel super
 ser exactos) desde aquí podríamos ver dos litorales que comparten con éste un pasado 
 celta común: la costa bretona de un lado y la costa irlandesa del otro. 
 
-![Bahía de Saint Ives.](etheria-images/2019/07/viaje-cornwall-bahia-ives.jpg "Bahía de Saint Ives.")
+![Bahía de Saint Ives.](https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-bahia-ives.jpg "Bahía de Saint Ives.")
 
 ### Retiro atlántico
 
@@ -94,7 +94,7 @@ angostas calles de la localidad, veremos que no faltan las galerías de arte. In
 **Tate Gallery** londinense abrió aquí una sucursal como esperado reconocimiento a la 
 permanente colonia artística instalada en este lugar. 
 
-![madre jugando su hijo en la playa de Cornualles](etheria-images/2019/07/viaje-cornwall-Saint-Michael.jpg "Saint Michael, en la península de Cornualles, se convierte en una isla cuando sube la marea.")
+![madre jugando su hijo en la playa de Cornualles](https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Saint-Michael.jpg "Saint Michael, en la península de Cornualles, se convierte en una isla cuando sube la marea.")
 
 #### Playas maravillosas
 
@@ -109,7 +109,7 @@ excursionistas que recorren la **Southwest Coastal Path**, una senda pegada a la
 del mar, antiguamente utilizada por los guardacostas que patrullaban el litoral en busca 
 de contrabandistas. 
 
-![Playa de Porthminster](etheria-images/2019/07/viaje-cornwall-Playa-Porthminster.jpg "Playa de Porthminster.")
+![Playa de Porthminster](https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Playa-Porthminster.jpg "Playa de Porthminster.")
 
 ### CONSEJOS ETHERIA
 
@@ -126,7 +126,7 @@ en Padstow, al igual que en cualquier otro lugar en Gran Bretaña, es de rigor p
 _**fish and chips**_ acomodado en algún rincón soleado con vistas al puerto. Eso sí, hay 
 que estar siempre alerta de la gula de las gaviotas. 
 
-![fish and chips](etheria-images/2019/07/fish-chips-inglaterra.jpg "Fish and chips, no es alta cocina pero hay que comerlo si vas a Inglaterra.")
+![fish and chips](https://fotos.etheriamagazine.com/2019/07/fish-chips-inglaterra.jpg "Fish and chips, no es alta cocina pero hay que comerlo si vas a Inglaterra.")
 
 ##### Más información
 

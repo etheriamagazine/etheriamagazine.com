@@ -1,7 +1,7 @@
 ---
 title: "Admira cinco de los mejores jardines de Gran Bretaña"
 date: 2021-04-22
-coverImage: etheria-images/2021/04/RHS-Wisley-surrey.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/04/RHS-Wisley-surrey.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -11,7 +11,7 @@ authors:
 
 ¿Sabías que algunos de los mejores jardines de Gran Bretaña son mimados por la denominada Real Sociedad de Horticultura? A sus cuatro jardines principales, y más de doscientos asociados, se suma ahora el Jardín Bridgewater de Mánchester. Te contamos cómo son estos jardines y cómo llegar a los mismos.
 
-![The Paradise Garden at RHS Bridgewater](etheria-images/2021/04/Garden-Bridgewater.jpg "Paradise Garden en el RHS Bridgewater Garden. © RHS/Neil Hepworth")
+![The Paradise Garden at RHS Bridgewater](https://fotos.etheriamagazine.com/2021/04/Garden-Bridgewater.jpg "Paradise Garden en el RHS Bridgewater Garden. © RHS/Neil Hepworth")
 
 El jardín que se incorpora a la Real Sociedad de Horticultura (RHS) es el [Garden 
 Bridgewater](https://www.rhs.org.uk/gardens/bridgewater) de Mánchester, y ¡ya hacía 17 
@@ -35,7 +35,7 @@ de
 Weston](https://www.rhs.org.uk/gardens/bridgewater/garden-highlights/weston-walled-garden), 
 de 4,5 hectáreas, uno de los jardines de este tipo más grandes de Gran Bretaña. 
 
-![mejores jardines de gran bretana Bridgewater Garden](etheria-images/2021/04/RHS-Bridgewater-Garden.jpg "Vista aérea del Paradise Garden. © RHS/Kestrel Cam")
+![mejores jardines de gran bretana Bridgewater Garden](https://fotos.etheriamagazine.com/2021/04/RHS-Bridgewater-Garden.jpg "Vista aérea del Paradise Garden. © RHS/Kestrel Cam")
 
 No te pierdas su histórico pomar con **37 variedades de manzano**, además de **un 
 huerto** inspirado en los cursos de agua utilizados en la revolución industrial de 
@@ -50,7 +50,7 @@ para llenarte de la paz que emana de este lugar.
 Lo más sencillo es ir desde Mánchester (está a 15 km). Se tarda unos 20 minutos en coche 
 y algo menos de una hora en autobús. 
 
-![RHS Garden Hyde Hall](etheria-images/2021/04/RHS-Garden-Hyde-Hall.jpg "Jardín Hyde Hall, Essex, Inglaterra. © RHS")
+![RHS Garden Hyde Hall](https://fotos.etheriamagazine.com/2021/04/RHS-Garden-Hyde-Hall.jpg "Jardín Hyde Hall, Essex, Inglaterra. © RHS")
 
 ### 2\. Garden Harlow Carr (Harrogate, Yorkshire)
 
@@ -73,7 +73,7 @@ Desde Leeds, a unos 25 km, se llega en unos 40 minutos en coche o bien 80 minuto
 tren y autobús. También se puede acceder desde York o Harrogate, que está a poco más de 
 3 km. 
 
-![RHS Garden Wisley](etheria-images/2021/04/RHS-Wisley.jpg "Jardín rocoso del RHS Wisley, en Surrey, Inglaterra. © RHS")
+![RHS Garden Wisley](https://fotos.etheriamagazine.com/2021/04/RHS-Wisley.jpg "Jardín rocoso del RHS Wisley, en Surrey, Inglaterra. © RHS")
 
 ### 3\. Garden Wisley (Woking, Surrey)
 
@@ -84,7 +84,7 @@ espacio de 97 hectáreas donde se sitúa el **edificio Glasshouse**, que fue lev
 para conmemorar el 200 aniversario de la sociedad. Allí se dan cita especies tropicales, 
 y una zona repleta de vistosos parterres cuyos colores van cambiando a lo largo del año. 
 
-![RHS Wisley mejores jardines de gran bretana](etheria-images/2021/04/RHS-Wisley-surrey.jpg "Rosaleda en el RHS Wisley, en Surrey, Inglaterra. © RHS")
+![RHS Wisley mejores jardines de gran bretana](https://fotos.etheriamagazine.com/2021/04/RHS-Wisley-surrey.jpg "Rosaleda en el RHS Wisley, en Surrey, Inglaterra. © RHS")
 
 Algunas actividades que se pueden hacer aquí son pasear por su **Jardín inglés**; 
 recorrer su **Pinetum**, con coníferas y árboles centenarios; o un romántico **pícnic en 
@@ -100,7 +100,7 @@ su Festival de las Flores, del 7 al 12 de septiembre.
 Si visitas Londres, puedes llegar a este jardín (situado a 40 km) en tren, autobús o 
 coche. 
 
-![RHS Garden Wisley](etheria-images/2021/04/RHS-Garden-Wisley.jpg "Jardín Exótico del RHS Wisley, en Surrey, Inglaterra. © RHS")
+![RHS Garden Wisley](https://fotos.etheriamagazine.com/2021/04/RHS-Garden-Wisley.jpg "Jardín Exótico del RHS Wisley, en Surrey, Inglaterra. © RHS")
 
 ### 4\. Garden Rosemoor (Torrington, Devon)
 
@@ -118,7 +118,7 @@ el jardín Rosemoor se celebra a mediados de agosto.
 
 Desde Exeter se tarda una hora, ya que está a 65 km. 
 
-![Garden Hyde mejores jardines de gran bretana](etheria-images/2021/04/RHS-Garden-Hyde.jpg "Así luce el RHS Garden Hyde Hall en verano. © RHS")
+![Garden Hyde mejores jardines de gran bretana](https://fotos.etheriamagazine.com/2021/04/RHS-Garden-Hyde.jpg "Así luce el RHS Garden Hyde Hall en verano. © RHS")
 
 ### 5\. Garden Hyde Hall (Chelmsford, Essex)
 

@@ -1,7 +1,7 @@
 ---
 title: "Gambia, un destino exótico y seguro para mujeres que viajan solas"
 date: 2018-11-07
-coverImage: etheria-images/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-e1563899251767.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-e1563899251767.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Las inmensas playas de Gambia acogen en invierno a miles de ‘estresados’ europeos anhelantes de disfrutar de unas vacaciones lejos del frío en un lugar aún sin masificar. Pero a este pequeño país africano realmente se puede ir en cualquier momento del año. No te prives y si quieres viajar sola a Gambia, ¡hazlo!
 
-![Mujeres esperan a los pescadores en la playa de Gambia](etheria-images/2018/10/viaje-gambia-Llegada-de-pescadores-Tanji-2-e1655640704504.jpg "La llegada de los pescadores a Tanji es todo un espectáculo.")
+![Mujeres esperan a los pescadores en la playa de Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Llegada-de-pescadores-Tanji-2-e1655640704504.jpg "La llegada de los pescadores a Tanji es todo un espectáculo.")
 
 Quizá no habías pensado en un país tan desconocido para tus escapadas de invierno pero 
 África es lo que ofrece: nuevas experiencias. A seis horas de avión de Madrid (y a dos y 
@@ -26,7 +26,7 @@ precio) junto a zonas de ocio para todos los gustos. Así que no es de extrañar
 turista viajado opte por acercarse a este pequeño país –el más pequeño de África– para 
 ver qué descubre en él. 
 
-![Una bonita playa de arena dorada de Gambia](etheria-images/2018/10/viaje-gambia-Playa-de-Gambia-e1655640691972.jpg "Las playas de Gambia son muy extensas y de arena blanca.")
+![Una bonita playa de arena dorada de Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Playa-de-Gambia-e1655640691972.jpg "Las playas de Gambia son muy extensas y de arena blanca.")
 
 ## Por qué viajar a Gambia
 
@@ -56,7 +56,7 @@ los mínimos de confort occidentales: ducha con agua caliente, aire acondicionad
 terraza para tomarte un gin-tonic. Si, por el contrario, tu plan es más aventurero… 
 también tendrás otras actividades y visitas recomendables. 
 
-![En la laguna de Kachikally hay como cocodrilos como el de la imagen.](etheria-images/2018/10/viaje-gambia-Cocodrilos-de-Kachikally-740x1024.jpg "En la laguna de Kachikally hay como cocodrilos como el de la imagen.")
+![En la laguna de Kachikally hay como cocodrilos como el de la imagen.](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Cocodrilos-de-Kachikally-740x1024.jpg "En la laguna de Kachikally hay como cocodrilos como el de la imagen.")
 
 ## Qué ver y hacer en Gambia
 
@@ -86,7 +86,7 @@ Después de la apetitosa comida (que no es cara), en este gran chiringuito playe
 pegan los hombres’, es decir: se celebran **combates de _wrestling_**, la lucha cuerpo a 
 cuerpo en el que los hercúleos mandingas miden sus fuerzas con fieros ademanes. 
 
-![Los combates de wrestling entre hombres son más agresivos que entre mujeres.](etheria-images/2018/10/viaje-gambia-Wrestling-en-Rainbow-Beach-hombres-e1655640663378.jpg "Los combates de wrestling entre hombres son más agresivos que entre mujeres.")
+![Los combates de wrestling entre hombres son más agresivos que entre mujeres.](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Wrestling-en-Rainbow-Beach-hombres-e1655640663378.jpg "Los combates de wrestling entre hombres son más agresivos que entre mujeres.")
 
 ### 4\. Lucha o cortejo a las mujeres en Gambia
 
@@ -99,7 +99,7 @@ musulmana, **el Islam es más flexible**, y permite que las mujeres también se 
 Tienes que pasear por la playa hasta divisar una cuadrilla de chicas en plena faena. Te 
 puedes acercar y hacer fotos, no les molesta. 
 
-![Las mujeres practican wrestling en la playa (el Islam es más flexible en Gambia).](etheria-images/2018/10/viaje-gambia-Wrestling-con-mujeres-e1655640673185.jpg "Las mujeres practican wrestling en la playa (el Islam es más flexible en Gambia).")
+![Las mujeres practican wrestling en la playa (el Islam es más flexible en Gambia).](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Wrestling-con-mujeres-e1655640673185.jpg "Las mujeres practican wrestling en la playa (el Islam es más flexible en Gambia).")
 
 ### 5\. Experiencia básica: pescadores en la playa de Tanji
 
@@ -109,7 +109,7 @@ con sus redes y descargando el pescado recién capturado en los cubos que hábil
 portan en sus cabezas las mujeres, que con sus bebés a la espalda y sus coloridos 
 vestidos aguardan en la playa el momento de intervenir. 
 
-![Siluetas de la llegada de los pescadores a la playa de Tanji.](etheria-images/2018/10/viaje-gambia-Llegada-de-pescadores-aTanji-e1655640712210.jpg "Siluetas de la llegada de los pescadores a la playa de Tanji.")
+![Siluetas de la llegada de los pescadores a la playa de Tanji.](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Llegada-de-pescadores-aTanji-e1655640712210.jpg "Siluetas de la llegada de los pescadores a la playa de Tanji.")
 
 Aunque aquí, a los gambianos no les gusta que hagas fotos… las imágenes a contraluz te 
 impondrán más de una ‘foto robada’. El griterío, el ir y venir, la luz, los olores… todo 
@@ -117,7 +117,7 @@ un abanico sensorial nos invade… mientras miles de gaviotas vigilan la operaci
 las alturas. Esta es **una de las escenas por las que merece la pena el viaje a 
 Gambia**. Espectacular. 
 
-![Dos mujeres con un plato de comida en un taller de cocina de Gambia](etheria-images/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-e1563899251767.jpg "Descubre la cocina gambiana con Ida Cham.")
+![Dos mujeres con un plato de comida en un taller de cocina de Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-e1563899251767.jpg "Descubre la cocina gambiana con Ida Cham.")
 
 ### 6\. Mercado de frutas y verduras
 
@@ -130,7 +130,7 @@ en una lección de _master chef_ inolvidable. Inmejorable ocasión para charlar 
 sus ayudantas –término provisional y en discusión por la RAE–, y **descubrir el poder de 
 las mujeres gambianas** ¡Aprenderás mucho y te irás con muy buen sabor de boca! 
 
-![Escultura que recuerda la esclavitud en Gambia](etheria-images/2018/10/viaje-gambia-Kunta-Kinteh-Island-e1655640725286.jpg "La isla de Kunta Kinteh recuerda el éxodo de más de 3 millones de africanos convertidos en esclavos en el 'Nuevo Mundo'.")
+![Escultura que recuerda la esclavitud en Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Kunta-Kinteh-Island-e1655640725286.jpg "La isla de Kunta Kinteh recuerda el éxodo de más de 3 millones de africanos convertidos en esclavos en el 'Nuevo Mundo'.")
 
 ### 7\. La isla de Kunta Kinteh
 
@@ -146,7 +146,7 @@ pasar la noche en algún alojamiento cercano, como el **Kunta Kinteh Roots Camp*
 día siguiente volver a la civilización. La Historia de la Esclavitud es mejor conocerla 
 _in situ_. 
 
-![Una adoslecente coge en brazos a un niño de Gambia](etheria-images/2018/10/viaje-gambia-Kunta-Kinteh-Island-1-e1655640735183.jpg "La isla de Kunta Kinteh es el mejor lugar para conocer la historia de la esclavitud.")
+![Una adoslecente coge en brazos a un niño de Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Kunta-Kinteh-Island-1-e1655640735183.jpg "La isla de Kunta Kinteh es el mejor lugar para conocer la historia de la esclavitud.")
 
 Si queremos penetrar en la Gambia más profunda habría que ir río adentro, donde existen 
 extraños [monumentos megalíticos](http://whc.unesco.org/en/list/1226) de origen 
@@ -155,7 +155,7 @@ chimpancés en plena libertad, millones de aves cruzando el espacio infinito… 
 vivir esta auténtica experiencia gambiana habrá que plantearse otro viaje. El país es 
 pequeño, pero grande en propuestas turísticas. 
 
-![Músicos de Gambia](etheria-images/2018/10/viaje-gambia-Actuación-en-el-Poco-Loco-de-Banjul-1024x588.jpg "Actuación en el 'Poco Loco' de Banjul.")
+![Músicos de Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Actuación-en-el-Poco-Loco-de-Banjul-1024x588.jpg "Actuación en el 'Poco Loco' de Banjul.")
 
 ### Turismo sexual en Gambia
 
@@ -174,7 +174,7 @@ interese el asunto, lo mejor es explicar el ‘**NO ES NO**’ diciendo que no e
 vez que visitáis Gambia, que conocéis el tema y que no os interesa para nada. Y gracias. 
 Suelen ser educados y desaparecen en la jungla. 
 
-![Piscina del Hotel Balafon.](etheria-images/2018/10/viaje-gambia-Hotel-Balafon-e1655640742614.jpg "Hotel Balafon.")
+![Piscina del Hotel Balafon.](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Hotel-Balafon-e1655640742614.jpg "Hotel Balafon.")
 
 ### Guía de viajes de Gambia | Etheria Magazine
 

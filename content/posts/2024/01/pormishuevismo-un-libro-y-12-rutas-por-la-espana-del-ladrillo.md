@@ -1,7 +1,7 @@
 ---
 title: "Pormishuevismo, un libro y 12 rutas por la España del ladrillo"
 date: 2024-01-04
-coverImage: etheria-images/2024/01/por-mis-huevismo.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/01/por-mis-huevismo.jpg
 categories: 
   - libros-de-viajes
   - planes-cultura-ocio
@@ -14,7 +14,7 @@ divulgador y creador de un “ismo” muy de nuestro tiempo: “pormishuevismo�
 también el nombre del libro de Anaya Touring en el que repasa los horrores urbanísticos 
 de nuestro tiempo y de una serie de rutas guiadas por el autor. 
 
-![Erik Harley delante de la Torre Glòries de Barcelona.](etheria-images/2024/01/por-mis-huevismo.jpg "Erik Harley delante de la Torre Glòries de Barcelona.")
+![Erik Harley delante de la Torre Glòries de Barcelona.](https://fotos.etheriamagazine.com/2024/01/por-mis-huevismo.jpg "Erik Harley delante de la Torre Glòries de Barcelona.")
 
 Corrupción económica, especulación constructiva y despilfarro de dinero público forman 
 los sólidos cimientos sobre los que se construye el libro **‘Pormishuevismo, Rutas por 
@@ -39,7 +39,7 @@ testosterónico como las historias que aglutina". Y, precisamente, esas historia
 que engrosan este libro que ha **editado Anaya Touring** y actúan como hilo conductor en 
 los itinerarios guiados por el autor. 
 
-![Libro Pormishuevismo, de Erik Harley.](etheria-images/2024/01/pormishuevismo-libro.jpg "Libro Pormishuevismo, de Erik Harley. © Anaya Touring")
+![Libro Pormishuevismo, de Erik Harley.](https://fotos.etheriamagazine.com/2024/01/pormishuevismo-libro.jpg "Libro Pormishuevismo, de Erik Harley. © Anaya Touring")
 
 ✅ Si estás interesado en adquirir _Pormishuevismo_, [puedes pedirlo en Amazon por 21,80 
 euros](https://www.amazon.es/PORMISHUEVISMO-ladrillo-Singulares-edici%C3%B3n-espa%C3%B1ol/dp/8491586237?&linkCode=sl1&tag=etheriamagazi-21&linkId=fbd7821d5e6e90a9853f8f8a0b0706e0&language=es_ES&ref_=as_li_ss_tl) 
@@ -64,7 +64,7 @@ Galicia o las Expos de Sevilla y Zaragoza. Más de trescientas páginas compleme
 códigos QR que llevan a interesantes vídeos, webs y redes sociales que contextualizan y 
 que divierten al mismo tiempo. 
 
-![Ruta por La Manga, en el libro Pormishuevismo.](etheria-images/2024/01/julio-iglesias-pormishuevismo.jpg "Ruta por La Manga, en el libro Pormishuevismo. © Anaya Touring")
+![Ruta por La Manga, en el libro Pormishuevismo.](https://fotos.etheriamagazine.com/2024/01/julio-iglesias-pormishuevismo.jpg "Ruta por La Manga, en el libro Pormishuevismo. © Anaya Touring")
 
 ## Rutas pormishuevistas
 
@@ -86,7 +86,7 @@ la que Harley hablará de dinastías arruinadas, especulación, ladrillo... Se h
 caminando desde Nuevos Ministerios hasta Plaza de Castilla (2,3 km) en una 1 hora y 40 
 minutos. 
 
-![Erik Harley, autor de Pormishuevismo.](etheria-images/2024/01/pormishuevismo-erik-halley-737x1000.jpg "Erik Harley, autor de Pormishuevismo. © Anaya Touring")
+![Erik Harley, autor de Pormishuevismo.](https://fotos.etheriamagazine.com/2024/01/pormishuevismo-erik-halley-737x1000.jpg "Erik Harley, autor de Pormishuevismo. © Anaya Touring")
 
 ### Barcelona y Valencia
 
@@ -103,7 +103,7 @@ pormishuevista de España” y os contará ampliamente sus razones para tal afir
 Valencia, además, se encuentra su mayor proyecto: la Ciudad de las Artes y las Ciencias, 
 “una ciudad blanca hecha con trencadís pero sobre todo con dinero público”. 
 
-![Erik Harley.](etheria-images/2024/01/erik-harley-pormishuevismo.jpg "Erik Harley. © Patricia Rubio")
+![Erik Harley.](https://fotos.etheriamagazine.com/2024/01/erik-harley-pormishuevismo.jpg "Erik Harley. © Patricia Rubio")
 
 Así, una tras otra, podréis conocer las doce rutas desgranadas en el libro. Sin embargo, 
 no podemos terminar esta recomendación de 'Pormishuevismo' sin compartir un consejo que 

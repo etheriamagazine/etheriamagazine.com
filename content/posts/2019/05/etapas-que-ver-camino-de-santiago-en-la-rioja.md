@@ -1,7 +1,7 @@
 ---
 title: "Camino de Santiago en La Rioja, un viaje que deja buen sabor de boca"
 date: 2019-05-01
-coverImage: etheria-images/2019/04/Camino-Santiago-La-Rioja-Santo-Domingo.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/Camino-Santiago-La-Rioja-Santo-Domingo.jpg
 categories: 
   - viajes-para-mujeres
   - viajar-sola
@@ -11,7 +11,7 @@ authors:
 
 El Camino de Santiago te concede un tiempo para ti misma y se presta a viajar sola sin dar explicaciones. Nuestra propuesta es que te regales unos días de desconexión mientras lo recorres a su paso por La Rioja. Entre caminata y caminata tendrás tiempo para disfrutar de los pinchos de la calle Laurel, visitar una bodega y algunos monumentos de interés.
 
-![Camino de santiago, la rioja, santo domingo](etheria-images/2019/04/Camino-Santiago-La-Rioja-Santo-Domingo.jpg "Camino de Santiago en el entorno de Santo Domingo.")
+![Camino de santiago, la rioja, santo domingo](https://fotos.etheriamagazine.com/2019/04/Camino-Santiago-La-Rioja-Santo-Domingo.jpg "Camino de Santiago en el entorno de Santo Domingo.")
 
 La cocina de uno mismo debería ser siempre el punto de partida para iniciar un recorrido 
 por el **Camino de Santiago**. Da igual si estás en Francia, Alemania, Estados Unidos o 
@@ -30,7 +30,7 @@ además, el principal **Itinerario Cultural Europeo**, cuyo reconocimiento se ot
 1987. Ruta secular desde el siglo X, forma parte de la identidad de los territorios por 
 los que discurre, incluida la Rioja. 
 
-![Viñedos en La Rioja en el Camino de Santiago.](etheria-images/2019/05/rioja-camino-santiago-vinedos.jpg "Viñedos en La Rioja en el Camino de Santiago.")
+![Viñedos en La Rioja en el Camino de Santiago.](https://fotos.etheriamagazine.com/2019/05/rioja-camino-santiago-vinedos.jpg "Viñedos en La Rioja en el Camino de Santiago.")
 
 ## La Rioja, un tramo del Camino que engancha
 
@@ -50,7 +50,7 @@ Palacio, con su inconfundible silueta, junto a la robustez de la torre de la igl
 Santiago o el barroquismo de la Concatedral de La Redonda son testigos de siglos de 
 peregrinajes jacobeos. 
 
-![champinones en la calle laurel](etheria-images/2019/04/champinones-calle-laurel-la-rioja.jpg "Los champiñones son una de las tapas populares en la calle Laurel.")
+![champinones en la calle laurel](https://fotos.etheriamagazine.com/2019/04/champinones-calle-laurel-la-rioja.jpg "Los champiñones son una de las tapas populares en la calle Laurel.")
 
 ## Pinchos en la calle Laurel para reponer fuerzas
 
@@ -74,7 +74,7 @@ San Juan de Jerusalén. Su hermosa portada la podréis ver decorando la entrada 
 cementerio, a la salida de esta localidad, puesto que se acabó trasladando allí en el 
 siglo XIX, ante la inminente ruina del edificio medieval. 
 
-![hospital san juan acre y bodegas de san jacobo](etheria-images/2019/04/Navarrete-Hospital-San-Juan-Acre-Bodegas-Jacobo.jpg "Ruinas del hospital San Juan Acre y Bodegas Corral, en Navarrete.")
+![hospital san juan acre y bodegas de san jacobo](https://fotos.etheriamagazine.com/2019/04/Navarrete-Hospital-San-Juan-Acre-Bodegas-Jacobo.jpg "Ruinas del hospital San Juan Acre y Bodegas Corral, en Navarrete.")
 
 ## Visita una bodega sí o sí
 
@@ -95,7 +95,7 @@ Nájera](http://www.santamarialareal.net/es). Cuna y panteón de Reyes, no dejé
 observar la minuciosa tracería labrada en piedra de su claustro o los detalles del 
 sepulcro de Doña Blanca de Navarra. 
 
-![monasterio santa maria la real najera en camino santiago](etheria-images/2019/04/la-rioja-santa-maria-la-real-najera.jpg "Monasterio de Santa María La Real de Nájera.")
+![monasterio santa maria la real najera en camino santiago](https://fotos.etheriamagazine.com/2019/04/la-rioja-santa-maria-la-real-najera.jpg "Monasterio de Santa María La Real de Nájera.")
 
 Si tenéis un poco más de tiempo, el [Museo Histórico-Arqueológico 
 Najerillense](https://www.najeraturismo.es/patrimonio-historico/#museo-najerillense), 
@@ -116,7 +116,7 @@ probablemente, la [Cofradía más antigua](http://www.alberguecofradiadelsanto.c
 todo el Camino (siglo XII), y que hoy en día sigue trabajando para ayudar a los 
 peregrinos. 
 
-![santo domingo la calzada en la rioja](etheria-images/2019/04/La-rioja-Santo-Domingo-Catedral.jpg "Santo Domingo de la Calzada es una parada obligada.")
+![santo domingo la calzada en la rioja](https://fotos.etheriamagazine.com/2019/04/La-rioja-Santo-Domingo-Catedral.jpg "Santo Domingo de la Calzada es una parada obligada.")
 
 A Santo Domingo se le atribuye la mejora de la calzada del Camino; el establecimiento 
 del hospital de peregrinos; la creación de la ciudad; y la construcción de un puente 
@@ -138,7 +138,7 @@ más hasta llegar a **Grañón**. ES el punto de despedida en esta ruta primaver
 su mirador, donde ya se adivinan las incipientes llanuras castellanas, abandonamos una 
 pequeña región como La Rioja para continuar el Camino hacia Santiago de Compostela. 
 
-![camino de santiago enoturismo la rioja](etheria-images/2019/04/camino-santiago-vinos-rioja.jpg "Parte del Camino también transcurre entre viñedos.")
+![camino de santiago enoturismo la rioja](https://fotos.etheriamagazine.com/2019/04/camino-santiago-vinos-rioja.jpg "Parte del Camino también transcurre entre viñedos.")
 
 El mío me lleva de vuelta a casa, pero a vosotros os deseo buen viaje. Disfrutad de todo 
 aquello hermoso que os ofrece este itinerario. El contacto con otras personas, el 

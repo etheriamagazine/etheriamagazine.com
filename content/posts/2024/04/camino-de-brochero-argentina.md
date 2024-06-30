@@ -1,7 +1,7 @@
 ---
 title: "Descubre el nuevo Camino de Brochero, el hermano pequeño de la Ruta Jacobea"
 date: 2024-04-07
-coverImage: etheria-images/2024/03/camino-brochero.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/03/camino-brochero.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -18,7 +18,7 @@ la historia, el patrimonio jesuita y los paisajes serranos. Hermanado culturalme
 el Camino de Santiago de Compostela, el Camino de Brochero es una experiencia 
 recomendable y enriquecedora. 
 
-![Camino de Brochero](etheria-images/2024/03/camino-brochero-850x592.jpg "El Camino de Brochero está hermanado con el Camino de Santiago. © Cris Aizpeolea")
+![Camino de Brochero](https://fotos.etheriamagazine.com/2024/03/camino-brochero-850x592.jpg "El Camino de Brochero está hermanado con el Camino de Santiago. © Cris Aizpeolea")
 
 De sotana, poncho y sombrero, a lomo de una mula y con un cigarro en la boca, la imagen 
 más difundida de **José Gabriel del Rosario Brochero** (1840-1914), considerado el 
@@ -43,7 +43,7 @@ a caminar tiene mucho que aprender de Santiago de Compostela, pero no le faltan
 atractivos, historias, patrimonio y belleza, y hasta cuenta con un **Pasaporte del 
 Peregrino** para sellar el paso por los circuitos. 
 
-![Foto obligada junto al indicador del Camino de Santiago.](etheria-images/2024/03/camino-brochero-peregrina-812x1000.jpg "Foto obligada junto al indicador del Camino de Santiago. © Cris Aizpeolea")
+![Foto obligada junto al indicador del Camino de Santiago.](https://fotos.etheriamagazine.com/2024/03/camino-brochero-peregrina-812x1000.jpg "Foto obligada junto al indicador del Camino de Santiago. © Cris Aizpeolea")
 
 ## Peregrina en acción, en Córdoba (Argentina)
 
@@ -65,7 +65,7 @@ por allí como capellán de coro cuando Córdoba sucumbía ante una epidemia de 
 diezmó a su población y él tenía que salir a llevar asistencia a los enfermos y los 
 presos. 
 
-![Catedral de Córdoba (Argentina).](etheria-images/2024/04/catedral-cordoba-argentina-850x591.jpg "Catedral de Córdoba (Argentina). © Cris Aizpeolea")
+![Catedral de Córdoba (Argentina).](https://fotos.etheriamagazine.com/2024/04/catedral-cordoba-argentina-850x591.jpg "Catedral de Córdoba (Argentina). © Cris Aizpeolea")
 
 ## De ronda por la Manzana Jesuita con Kuki Peralta
 
@@ -88,7 +88,7 @@ el circuito brocheriano de la ciudad Capital con una parada imperdible en el Ins
 de las Hermanas Esclavas, en barrio General Paz, a 25 cuadras del Centro que bien pueden 
 hacerse caminando. 
 
-![Elsa Guzmán, de la congregación de las Hermanas Esclavas.](etheria-images/2024/03/elsa-guzman-camino-brochero-850x600.jpg "Elsa Guzmán, de la congregación de las Hermanas Esclavas. © Cris Aizpeolea")
+![Elsa Guzmán, de la congregación de las Hermanas Esclavas.](https://fotos.etheriamagazine.com/2024/03/elsa-guzman-camino-brochero-850x600.jpg "Elsa Guzmán, de la congregación de las Hermanas Esclavas. © Cris Aizpeolea")
 
 ## Elsa Guzmán, recuerdos de primera mano
 
@@ -110,7 +110,7 @@ Cura. Todos lo querían mucho en la región, porque era un hacedor”, resume.
 lepra. Era también una monjita de las Esclavas que se llamaba Margarita Palacio”, dice 
 con el recuerdo intacto. 
 
-![Rosana Montano, presidenta de la Asociación Amigos del Camino de Santiago en Argentina.](etheria-images/2024/03/rosana-montano-asociacion-camino-brochero-850x535.jpg "Presidenta de la Asociación Amigos del Camino de Santiago en Argentina. © Cris A.")
+![Rosana Montano, presidenta de la Asociación Amigos del Camino de Santiago en Argentina.](https://fotos.etheriamagazine.com/2024/03/rosana-montano-asociacion-camino-brochero-850x535.jpg "Presidenta de la Asociación Amigos del Camino de Santiago en Argentina. © Cris A.")
 
 ## Rosana Montano: "el paisaje tiene una riqueza sin igual"
 
@@ -141,7 +141,7 @@ de la Capital, en Villa Santa Rosa, su ciudad natal, donde se puede visitar la C
 Museo, la iglesia que conserva la pila bautismal tallada en piedra de sapo y un memorial 
 que lo recuerda de niño en el paraje Carreta Quemada. 
 
-![Peregrino en el Camino de Brochero.](etheria-images/2024/03/peregrino-camino-brochero-850x531.jpg "Peregrino en el Camino de Brochero. © Cris Aizpeolea")
+![Peregrino en el Camino de Brochero.](https://fotos.etheriamagazine.com/2024/03/peregrino-camino-brochero-850x531.jpg "Peregrino en el Camino de Brochero. © Cris Aizpeolea")
 
 ## "Brochero le dio valor a la mujer" señala Mariela Villareal
 
@@ -162,7 +162,7 @@ fundó una escuela para niñas que todavía existe".
 “**pastelitos**”, postre criollo argentino de masa hojaldrada y crocante, con baño de 
 almíbar y corazón de dulce de membrillo. Los mejores se cocinan en el valle. 
 
-![Deliciosos pastelitos de Traslasierra.](etheria-images/2024/03/pastelitos-camino-brochero.jpg "Deliciosos pastelitos de Traslasierra. © Cris Aizpeolea")
+![Deliciosos pastelitos de Traslasierra.](https://fotos.etheriamagazine.com/2024/03/pastelitos-camino-brochero.jpg "Deliciosos pastelitos de Traslasierra. © Cris Aizpeolea")
 
 ## Marta Botti investiga el Turismo Religioso
 
@@ -179,7 +179,7 @@ convocan a peregrinos y devotos en actitud de oración, pero también atraen tur
 interesados en la cultura y las manifestaciones de fe, o simplemente viajeros y 
 curiosos. 
 
-![Escultura del cura Brochero.](etheria-images/2024/04/cura-brochero-argentina.jpg "Escultura del padre Brochero. © Cris Aizpeolea")
+![Escultura del cura Brochero.](https://fotos.etheriamagazine.com/2024/04/cura-brochero-argentina.jpg "Escultura del padre Brochero. © Cris Aizpeolea")
 
 Botti, que tuvo experiencia como funcionaria y además es empresaria de turismo, 
 considera que Brochero es un producto que resume como pocos el triángulo virtuoso del 

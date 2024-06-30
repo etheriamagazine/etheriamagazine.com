@@ -1,7 +1,7 @@
 ---
 title: "‘Soñar es viajar. 88 viajes en confinamiento’, un libro solidario de viajes y fotografía"
 date: 2020-09-01
-coverImage: etheria-images/2020/09/libro-88-viajes-manuel-charlon.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/09/libro-88-viajes-manuel-charlon.jpg
 categories: 
   - organiza-tu-viaje
   - libros-de-viajes
@@ -16,7 +16,7 @@ de arena en causas solidarias. Ese es el caso de ‘Soñar es viajar. 88 viajes 
 confinamiento’, de Manuel Charlón. Te contamos cómo se gestó y de qué manera puedes 
 contribuir a la causa. 
 
-![libros solidarios, libros covid 19, Sonar es viajar, 88 viajes en confinamiento](etheria-images/2020/09/88-viajes-confinamiento.jpg "'Soñar es viajar. 88 viajes en confinamiento'.")
+![libros solidarios, libros covid 19, Sonar es viajar, 88 viajes en confinamiento](https://fotos.etheriamagazine.com/2020/09/88-viajes-confinamiento.jpg "'Soñar es viajar. 88 viajes en confinamiento'.")
 
 De los libros vemos muchas veces únicamente las portadas, el resultado que se muestra y 
 que parece haber salido, como por arte de magia, de la nada. Tras estas obras siempre 
@@ -24,7 +24,7 @@ hay una historia, y detrás de ‘Soñar es viajar. 88 viajes en confinamiento�
 vidas, reflexiones, añoranzas, sueños perdidos y encontrados, anhelos, e, incluso, una 
 pandemia. Pero comencemos por el principio... 
 
-![manuel charlon, fotografia de viajes](etheria-images/2020/09/fotografia-88-viajes.jpg "Fotografía publicada en este libro solidario. © Manuel Charlón.")
+![manuel charlon, fotografia de viajes](https://fotos.etheriamagazine.com/2020/09/fotografia-88-viajes.jpg "Fotografía publicada en este libro solidario. © Manuel Charlón.")
 
 ## Los sueños no se pueden confinar
 
@@ -47,7 +47,7 @@ que si sesenta y seis, y así hasta más de ochenta. Y lo que parecía un intent
 de la rutina y llenar el muro de Facebook de fotografías (originalmente ese era el 
 propósito), fue tomando forma poco a poco... y en sólo unos meses ya es una realidad. 
 
-![manena munar, viajes en confinamiento](etheria-images/2020/09/manena-munar-libro-viajes.jpg "Texto de Manena Munar, colaboradora de Etheria Magazine.")
+![manena munar, viajes en confinamiento](https://fotos.etheriamagazine.com/2020/09/manena-munar-libro-viajes.jpg "Texto de Manena Munar, colaboradora de Etheria Magazine.")
 
 ## Un libro solidario de fotografía y viajes
 
@@ -62,7 +62,7 @@ La misma entidad es la encargada de comercializarlo y de obtener los fondos que 
 destinados a la investigación que lleva a cabo el **Instituto de Salud Carlos III de 
 Madrid** en la lucha contra la COVID-19. 
 
-![libro 88 viajes en confinamiento](etheria-images/2020/09/libro-88-viajes-manuel-charlon.jpg "Manuel Charlón posa con su libro.")
+![libro 88 viajes en confinamiento](https://fotos.etheriamagazine.com/2020/09/libro-88-viajes-manuel-charlon.jpg "Manuel Charlón posa con su libro.")
 
 ## Manuel Charlón: viajero, fotógrafo y “liante”
 
@@ -78,7 +78,7 @@ enviar una imagen al periodista seleccionado para que hiciese una reflexión sob
 misma o sobre su concepto de viajar. Entre ellos, algunos miembros del equipo de Etheria 
 Magazine y varios colaboradores de esta casa. 
 
-![pilar ortega, etheria magazine, viajes en confinamiento](etheria-images/2020/09/pilar-ortega-libro-viajes.jpg "Contribución de Pilar Ortega, coordinadora de Cultura en Etheria Magazine.")
+![pilar ortega, etheria magazine, viajes en confinamiento](https://fotos.etheriamagazine.com/2020/09/pilar-ortega-libro-viajes.jpg "Contribución de Pilar Ortega, coordinadora de Cultura en Etheria Magazine.")
 
 La selección de profesionales que iban a integrar este libro no fue sencilla para 
 Charlón quien, tras más de tres décadas en prensa, se ha relacionado con cientos de 

@@ -1,7 +1,7 @@
 ---
 title: "Endometriosis, una enfermedad que no es solo ginecológica"
 date: 2021-03-15
-coverImage: etheria-images/2021/03/mujeres-con-endometriosis.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/mujeres-con-endometriosis.jpg
 categories: 
   - salud-bienestar-nutricion
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Más de un millón de mujeres en España padece endometriosis, una enfermedad crónica que no tiene cura ni tratamiento. Dos de sus mayores problemas son que, al ser el dolor su síntoma más frecuente, se suele confundir con la regla, y las afectadas tardan una media de nueve años en ser diagnosticadas. En líneas generales, las mujeres que padecen endometriosis se sienten abandonadas por un sistema sanitario que dicen que desprecia sus síntomas.
 
-![enfermedad endometriosis](etheria-images/2021/03/endometriosis-mujeres.jpg "La endometriosis es una enfermedad crónica para la que no existe cura ni tratamiento. © Endomadrid")
+![enfermedad endometriosis](https://fotos.etheriamagazine.com/2021/03/endometriosis-mujeres.jpg "La endometriosis es una enfermedad crónica para la que no existe cura ni tratamiento. © Endomadrid")
 
 Más de 175 millones de mujeres de todo el mundo padece endometriosis, una enfermedad 
 crónica para la que no existe cura ni tratamiento. Aunque se desconoce su incidencia 
@@ -36,7 +36,7 @@ genera una frustración muy alta”, explica el Dr. Francisco Carmona, jefe del 
 Ginecología y Obstetricia del Hospital Clínic de Barcelona, que asegura que “una muy 
 buena manera de **tratar esos dolores es con fisioterapia**”. 
 
-![la regla no duele es endometriosis](etheria-images/2021/03/endomadrid2019.jpg "Concentración por el endometriosis. © Endomadrid.")
+![la regla no duele es endometriosis](https://fotos.etheriamagazine.com/2021/03/endomadrid2019.jpg "Concentración por el endometriosis. © Endomadrid.")
 
 > Medio millón de mujeres con endometriosis están sin diagnóstico y son cuestionadas 
 
@@ -64,7 +64,7 @@ un capricho, cuando una mujer joven se queja deberíamos hacerle caso. Luego se 
 la hipocondría de la chica, que tiene una enfermedad de la que solo se oyen cosas malas 
 y así se dificulta el tratamiento”, asegura la sexóloga y paciente. 
 
-![dos mujeres endometriosis](etheria-images/2021/03/mujeres-con-endometriosis.jpg "Expertas y afectadas insisten en que menstruar no tiene que doler. © Sam Manns")
+![dos mujeres endometriosis](https://fotos.etheriamagazine.com/2021/03/mujeres-con-endometriosis.jpg "Expertas y afectadas insisten en que menstruar no tiene que doler. © Sam Manns")
 
 ## Cambia de ginecólogo si no te hace caso
 
@@ -84,7 +84,7 @@ lentos y cuáles rápidos”, asegura. La sexóloga se queja de que uno de los p
 problemas a la hora de abordar la enfermedad es la falta de investigación básica que se 
 pueda aplicar. 
 
-![sintomas endometriosis](etheria-images/2021/03/sintomas-endometriosis.jpg "Conocer los síntomas ayuda a identificar la endometriosis. © EndoMadrid")
+![sintomas endometriosis](https://fotos.etheriamagazine.com/2021/03/sintomas-endometriosis.jpg "Conocer los síntomas ayuda a identificar la endometriosis. © EndoMadrid")
 
 ## Se deja de lado la parte psicoemocional
 
@@ -115,7 +115,7 @@ complementarios que se pueden utilizar frente a la endometriosis, como la dieta,
 ejercicio físico, el yoga o mindfulness. “Son terapias que ayudan a cuidarse mejor, el 
 consejo es que sean complementarias y no alternativas”. 
 
-![deporte para afrontar endometriosis](etheria-images/2021/03/ejercicio-fisico-endometriosis.jpg "El deporte, la buena alimentación y el estado anímico son fundamentales para afrontar la enfermedad. © Bruce Mars")
+![deporte para afrontar endometriosis](https://fotos.etheriamagazine.com/2021/03/ejercicio-fisico-endometriosis.jpg "El deporte, la buena alimentación y el estado anímico son fundamentales para afrontar la enfermedad. © Bruce Mars")
 
 ## Los suplementos no son siempre necesarios
 
@@ -135,7 +135,7 @@ desmedicalizar tienes que tirar de suplementación e intentar buscar la forma me
 medicalizada posible, pero hay casos que no se pueden desmedicalizar en absoluto”, 
 reconoce esta ginecóloga y obstetra que pasa consulta en Extremadura. 
 
-![alimentacion ayuda en la endometriosis](etheria-images/2021/03/alimentacion-combatir-endometriosis.jpg "La granada, las uvas, el té verde, el aceite de onagra, el cacao y el ajo negro ayudan a las afectadas con endometriosis.")
+![alimentacion ayuda en la endometriosis](https://fotos.etheriamagazine.com/2021/03/alimentacion-combatir-endometriosis.jpg "La granada, las uvas, el té verde, el aceite de onagra, el cacao y el ajo negro ayudan a las afectadas con endometriosis.")
 
 ### También te puede interesar...
 

@@ -1,7 +1,7 @@
 ---
 title: "12 hoteles en la República Checa con un toque muy original"
 date: 2021-06-05
-coverImage: etheria-images/2021/06/cabana-republica-checa.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/cabana-republica-checa.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -14,7 +14,7 @@ apostamos por cuidar otros detalles de nuestro viaje. Como el alojamiento es uno
 principales, hemos seleccionado 12 hoteles en la República Checa muy originales que 
 pondrán la guinda a tu escapada europea. 
 
-![Cimra Bude liberec hoteles en la republica checa](etheria-images/2021/06/chequia-hotel-Cimra-bude.jpg "© Cimra Bude, en la región de Liberec.")
+![Cimra Bude liberec hoteles en la republica checa](https://fotos.etheriamagazine.com/2021/06/chequia-hotel-Cimra-bude.jpg "© Cimra Bude, en la región de Liberec.")
 
 Tanto si eres una enamorada de Chequia y te escapas a menudo a este país, como si es la 
 primera vez que te planteas visitarlo, te interesa echar una ojeada a esta selección de 
@@ -38,7 +38,7 @@ con sauna y una sorprendente bañera en el interior de un barril. ¿Te imaginas 
 de estar sentada junto a la chimenea con una copa en la mano y viendo las estrellas 
 desde tu iglú? 
 
-![Glamping Brdy bohemia central republica checa](etheria-images/2021/06/hoteles-republica-checa-Glamping-Brdy.jpg "© Glamping Brdy, en Bohemia Central.")
+![Glamping Brdy bohemia central republica checa](https://fotos.etheriamagazine.com/2021/06/hoteles-republica-checa-Glamping-Brdy.jpg "© Glamping Brdy, en Bohemia Central.")
 
 ### 2\. Una cabaña acristalada: Altány Orlice
 
@@ -49,7 +49,7 @@ Desde la comodidad de su interior podrás ver las primeras luces desde la cama, 
 el trino de los pájaros, merendar con los pies en el agua o darte una sauna finlandesa 
 al anochecer. 
 
-![cabanas republica checa Altany Orlice](etheria-images/2021/06/hoteles-republica-checa-Altany-Orlice.jpg "© Altány Orlice, cerca de Hradec Králové.")
+![cabanas republica checa Altany Orlice](https://fotos.etheriamagazine.com/2021/06/hoteles-republica-checa-Altany-Orlice.jpg "© Altány Orlice, cerca de Hradec Králové.")
 
 ### 3\. Un molino: Resort Mlýn Černovice
 
@@ -60,7 +60,7 @@ locura, y todas diferentes. El entorno, además, invita a descansar y a relajars
 sonido del agua, o a gozar del sabor de la cocina local donde los productos de temporada 
 son los protagonistas. Si te animas, incluso podrás celebrar tu boda allí. 
 
-![Resort Mlyn Cernovice hoteles en la republica checa originales](etheria-images/2021/06/hoteles-en-chequia-molino.jpg "© Resort Mlýn Černovice.")
+![Resort Mlyn Cernovice hoteles en la republica checa originales](https://fotos.etheriamagazine.com/2021/06/hoteles-en-chequia-molino.jpg "© Resort Mlýn Černovice.")
 
 ### 4\. Un pajar: Lichtensteinská stodola
 
@@ -71,7 +71,7 @@ implicación de sus propietarios, que se desviven por agradar a los huéspedes
 invitándoles a participar en tareas cotidianas como hacer mermeladas caseras con frutos 
 del bosque. 
 
-![Lichtensteinska stodola olomouc republica checa](etheria-images/2021/06/hoteles-republica-checa-Lichtensteinska-Stodola.jpg "© Lichtensteinská stodola, cerca de Olomouc.")
+![Lichtensteinska stodola olomouc republica checa](https://fotos.etheriamagazine.com/2021/06/hoteles-republica-checa-Lichtensteinska-Stodola.jpg "© Lichtensteinská stodola, cerca de Olomouc.")
 
 ### 5\. Un vagón de tren: Wellnessvagón
 
@@ -90,7 +90,7 @@ edredón con relleno de lana de oveja, cocina completa y estufa de hierro. Eso s
 podrás cargar el móvil con paneles solares, y el agua caliente escasea. ¡Toda una 
 aventura! 
 
-![Maringotka Pomnenka hoteles en la republica checa](etheria-images/2021/06/chequia-Maringotka-Pomnenka.jpg "© Maringotka Pomněnka.")
+![Maringotka Pomnenka hoteles en la republica checa](https://fotos.etheriamagazine.com/2021/06/chequia-Maringotka-Pomnenka.jpg "© Maringotka Pomněnka.")
 
 ### 7\. Una cabaña en un árbol
 
@@ -101,7 +101,7 @@ situada en una plataforma a nueve metros de altura. Tiene todo lo que puedes nec
 te ofrecen servicio de comidas por lo que no hay que preocuparse de nada. Bueno, sólo de 
 subir por la escalera de caracol. 
 
-![Green Valley Resort cabana arbol chequia](etheria-images/2021/06/chequia-GreenValleyResort.jpg "Green Valley Resort, cerca de Praga.")
+![Green Valley Resort cabana arbol chequia](https://fotos.etheriamagazine.com/2021/06/chequia-GreenValleyResort.jpg "Green Valley Resort, cerca de Praga.")
 
 ### 8\. Una casa flotante en Praga  
 
@@ -111,7 +111,7 @@ Vyšehrad y tiene 12 metros de largo. No sólo se puede dormir en ella sino que 
 permite navegar por el río Moldava. ¿Imaginas ver el Castillo de Praga y al casco 
 antiguo desde la comodidad de una tumbona a bordo? 
 
-![hotel en barco en praga](etheria-images/2021/06/hoteles-praga-originales-VIPLiving-HouseBoat.jpg "©VIP Living Houseboat, un casa flotante en Praga.")
+![hotel en barco en praga](https://fotos.etheriamagazine.com/2021/06/hoteles-praga-originales-VIPLiving-HouseBoat.jpg "©VIP Living Houseboat, un casa flotante en Praga.")
 
 ### 9\. Una plataforma sobre un lago
 
@@ -123,7 +123,7 @@ pájaros son la principal banda sonora de las vacaciones. [Vodní domky
 sólo para adultos donde desconectar y, si te atreves, pescar la cena desde el porche de 
 casa. 
 
-![Vodni domky Cejkovice en Bohemia del Sur](etheria-images/2021/06/chequia-Vodní-domky-Cejkovice.jpg "© Vodní domky Čejkovice, en Bohemia del Sur.")
+![Vodni domky Cejkovice en Bohemia del Sur](https://fotos.etheriamagazine.com/2021/06/chequia-Vodní-domky-Cejkovice.jpg "© Vodní domky Čejkovice, en Bohemia del Sur.")
 
 ### 10\. Una romántica casa de campo
 
@@ -135,7 +135,7 @@ y [Cimra Bude](https://cimrabude.cz/cimra-bude), en la región de Liberec, con [
 bohemia](https://www.amazingplaces.cz/en/amazing-places/cimra-bude-509) y cierto aire 
 onírico (la primera imagen del artículo). 
 
-![Krasna Samota hoteles romanticos republica checa](etheria-images/2021/06/chequia-Krasna-Samota-1.jpg "© Casa de campo Krásná Samota.")
+![Krasna Samota hoteles romanticos republica checa](https://fotos.etheriamagazine.com/2021/06/chequia-Krasna-Samota-1.jpg "© Casa de campo Krásná Samota.")
 
 ### 11\. Un castillo: Chateau Herálec
 
@@ -146,7 +146,7 @@ con un spa by L’Occitane. Se encuentra en un parque de estilo inglés, en la r
 y ofrece atractivas experiencias a medida. Este es uno de los hoteles de la República 
 Checa que siempre hay que considerar. 
 
-![Chateau Heralec hotel lujo en la republica checa](etheria-images/2021/06/hoteles-republica-checa-Chateau-Heralec.jpg "© Chateau Herálec, un hotel de lujo en la República Checa.")
+![Chateau Heralec hotel lujo en la republica checa](https://fotos.etheriamagazine.com/2021/06/hoteles-republica-checa-Chateau-Heralec.jpg "© Chateau Herálec, un hotel de lujo en la República Checa.")
 
 ### 12\. Un chalet en las montañas
 
@@ -159,7 +159,7 @@ tenemos la cabaña [Skøg
 Harrachov](https://www.amazingplaces.cz/en/amazing-places/skog-harrachov-360), que 
 promulga el confort sin lujos innecesarios. 
 
-![cabana Brusirna republica checa](etheria-images/2021/06/cabana-Brusirna-republica-checa.jpg "© Cabaña Brusírna, en las Montañas Gigantes.")
+![cabana Brusirna republica checa](https://fotos.etheriamagazine.com/2021/06/cabana-Brusirna-republica-checa.jpg "© Cabaña Brusírna, en las Montañas Gigantes.")
 
 ## También en la República Checa
 

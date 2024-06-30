@@ -1,7 +1,7 @@
 ---
 title: "8 hoteles de lujo en España para viajar con niños"
 date: 2022-04-08
-coverImage: etheria-images/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg
 categories: 
   - organiza-tu-viaje
   - viaje-en-familia
@@ -15,7 +15,7 @@ authors:
 
 Cuando se viaja en familia uno de los aspectos que más tenemos que cuidar en la organización del viaje es el alojamiento. En este artículo te proponemos 8 hoteles en España en los que no está reñida la calidad con su perfil familiar. ¡Tenlos muy en cuenta para tu próxima escapada con niños!
 
-![Niños jugando con un ajedrez gigante](etheria-images/2022/04/hotel-bahia-del-duque-ninos-900x600.jpg "Ajedrez gigante del hotel © Bahía del Duque, en el sur de Tenerife.")
+![Niños jugando con un ajedrez gigante](https://fotos.etheriamagazine.com/2022/04/hotel-bahia-del-duque-ninos-900x600.jpg "Ajedrez gigante del hotel © Bahía del Duque, en el sur de Tenerife.")
 
 Se puede viajar en familia de muchas formas, y, como no es necesario identificar el 
 viaje familiar con “viaje de batalla”, te damos 8 propuestas de hoteles de lujo en 
@@ -51,7 +51,7 @@ España para viajar con niños.
 ? [Royal Hideaway Sancti Petri, un hotel para disfrutar de la Costa de la 
 Luz.](https://etheriamagazine.com/2020/05/21/hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri/) 
 
-![Piscinas del hotel Royal Hideaway Sancti Petri](etheria-images/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg "Piscinas del © Royal Hideaway Sancti Petri.")
+![Piscinas del hotel Royal Hideaway Sancti Petri](https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg "Piscinas del © Royal Hideaway Sancti Petri.")
 
 ## 2\. Bahía del Duque
 
@@ -70,7 +70,7 @@ piscinas. ¡Y la playa está justo enfrente!
 ? [Bahía del Duque, desconexión en 
 Tenerife](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/). 
 
-![Edificios del hotel bahía del Duque con el mar al fondo](etheria-images/2022/04/Hoteles-familia-Bahia-del-Duque-general-900x496.jpg "Hotel © Bahía del Duque.")
+![Edificios del hotel bahía del Duque con el mar al fondo](https://fotos.etheriamagazine.com/2022/04/Hoteles-familia-Bahia-del-Duque-general-900x496.jpg "Hotel © Bahía del Duque.")
 
 ## 3\. La Bobadilla, a Royal Hideaway Hotel
 
@@ -87,7 +87,7 @@ castillo, o a la ciudad de Málaga.
 ? [La Bobadilla, uno de los hoteles más bonitos del 
 mundo](https://etheriamagazine.com/2018/08/23/hotel-la-bobadilla-loja-granada/). 
 
-![Hotel La Bobadilla rodeado de campos de olivos](etheria-images/2022/04/hotel-familia-La-Bobadilla-panoramica.jpg "La Bobadilla, a Royal Hideaway Hotel. © Barceló Group.")
+![Hotel La Bobadilla rodeado de campos de olivos](https://fotos.etheriamagazine.com/2022/04/hotel-familia-La-Bobadilla-panoramica.jpg "La Bobadilla, a Royal Hideaway Hotel. © Barceló Group.")
 
 ## 4\. Las Arenas Balneario & Resort
 
@@ -103,7 +103,7 @@ que hará las delicias de los mayores.
 ?[Las Arenas Balneario & Resort, un hotel de lujo en Valencia hecho para 
 disfrutar](https://etheriamagazine.com/2021/04/08/hotel-lujo-valencia-las-arenas-balneario-resort/). 
 
-![Piscina del hotel Las Arenas Balneario & Resort.](etheria-images/2022/04/hotel-familia-las-arenas-piscina.jpg "Piscina del hotel Las Arenas Balneario & Resort. © Hoteles Santos.")
+![Piscina del hotel Las Arenas Balneario & Resort.](https://fotos.etheriamagazine.com/2022/04/hotel-familia-las-arenas-piscina.jpg "Piscina del hotel Las Arenas Balneario & Resort. © Hoteles Santos.")
 
 ## 5\. Iberostar Playa Gaviotas Park
 
@@ -121,7 +121,7 @@ grupos de edad), pistas de pádel y tenis… Además, cuenta con espaciosas habi
 régimen de Todo Incluido, para no tener que ocuparse de comidas y cenas durante las 
 vacaciones. 
 
-![piscina infantil en hotel Iberostar](etheria-images/2022/04/iberostar-fuerteventura-piscina-ninos.jpg "Piscina infantil en el Iberostar Playa Gaviotas Park, en Fuerteventura. © Iberostar Group")
+![piscina infantil en hotel Iberostar](https://fotos.etheriamagazine.com/2022/04/iberostar-fuerteventura-piscina-ninos.jpg "Piscina infantil en el Iberostar Playa Gaviotas Park, en Fuerteventura. © Iberostar Group")
 
 ## 6\. Barceló Montecastillo Golf & Sport Resort
 
@@ -140,7 +140,7 @@ cómoda cuando se viaja en familia.
 ? [Barceló Montecastillo Golf & Sport Resort, un hotel de lujo en Jerez para toda la 
 familia](https://etheriamagazine.com/2020/06/11/hotel-barcelo-montecastillo-golf-jerez-familias/). 
 
-![Piscina para niños con toboganes  del Barceló Montecastillo.](etheria-images/2022/04/hoteles-famila-Barcelo-Montecastillo-piscina-ninos.jpg "Piscina para niños del Barceló Montecastillo Golf & Sports Resort. © Barceló Group.")
+![Piscina para niños con toboganes  del Barceló Montecastillo.](https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Barcelo-Montecastillo-piscina-ninos.jpg "Piscina para niños del Barceló Montecastillo Golf & Sports Resort. © Barceló Group.")
 
 ## 7\. Puerto Antilla Grand Hotel
 
@@ -158,7 +158,7 @@ Carabelas](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/eve
 ? [Puerto Antilla Grand Hotel, un oasis en la costa de 
 Huelva](https://etheriamagazine.com/2021/06/03/puerto-antilla-grand-hotel-costa-huelva-familias/). 
 
-![Piscinas y playa del © Puerto Antilla Grand Hotel.](etheria-images/2022/04/hoteles-familia-puerto-antilla-grand-hotel.jpg "Piscinas y playa del © Puerto Antilla Grand Hotel.")
+![Piscinas y playa del © Puerto Antilla Grand Hotel.](https://fotos.etheriamagazine.com/2022/04/hoteles-familia-puerto-antilla-grand-hotel.jpg "Piscinas y playa del © Puerto Antilla Grand Hotel.")
 
 ## 8\. The Ritz-Carlton Abama
 
@@ -177,7 +177,7 @@ hasta la subida al Parque Nacional del Teide.
 ? [The Ritz-Carlton Abama, un hotel de lujo para alejarse del mundo en 
 Tenerife](https://etheriamagazine.com/2021/06/28/the-ritz-carlton-abama-hotel-de-lujo-tenerife/). 
 
-![Imagen del hotel The Ritz-Carlton Abama con el mar y la Gomera al fondo](etheria-images/2022/04/hotel-familia-abama-vistas.jpg "Imagen del hotel © The Ritz-Carlton Abama con el mar y la Gomera al fondo.")
+![Imagen del hotel The Ritz-Carlton Abama con el mar y la Gomera al fondo](https://fotos.etheriamagazine.com/2022/04/hotel-familia-abama-vistas.jpg "Imagen del hotel © The Ritz-Carlton Abama con el mar y la Gomera al fondo.")
 
 ### También te puede interesar:
 

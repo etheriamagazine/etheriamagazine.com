@@ -1,7 +1,7 @@
 ---
 title: "10 poderosas razones para viajar a La Palma (y ninguna es el volcán)"
 date: 2021-11-15
-coverImage: etheria-images/2021/11/viaje-la-palma-canarias.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/viaje-la-palma-canarias.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 Mientras miramos atónitos la gran fumarola de un volcán que todavía no tiene nombre, La Palma esconde un continente en miniatura repleto de sorpresas. Selvas, pueblos hippies, parques naturales, volcanes históricos, pozas turquesas… La isla de los benahoaritas es mucho más que su volcán activo y en Etheria Magazine tenemos las pruebas. 
 
-![gran telescopio de la palma](etheria-images/2021/11/viaje-la-palma-canarias.jpg "El Gran Telescopio Canarias en La Palma contiene el mayor telescopio óptico del mundo. © Kelu Robles")
+![gran telescopio de la palma](https://fotos.etheriamagazine.com/2021/11/viaje-la-palma-canarias.jpg "El Gran Telescopio Canarias en La Palma contiene el mayor telescopio óptico del mundo. © Kelu Robles")
 
 El turismo supone el modo de vida de más de la mitad de esta isla, por eso, te damos 
 **10 motivos para viajar a La Palma** cuando sus habitantes más lo necesitan. A 
@@ -27,7 +27,7 @@ horizontal del **Bosque de los Tilos** mece en lauráceas exultantes uno de los 
 más bellos de la isla, creado gracias al viento alisio, que transforma el aire en agua y 
 los bosques en selvas tan maravillosas como ésta. 
 
-![los tilos excursion la palma](etheria-images/2021/11/la-palma-excursion-tilos.jpg "El Bosque de Los Tilos fue la primera Reserva de la Biosfera en la isla. © K.R.")
+![los tilos excursion la palma](https://fotos.etheriamagazine.com/2021/11/la-palma-excursion-tilos.jpg "El Bosque de Los Tilos fue la primera Reserva de la Biosfera en la isla. © K.R.")
 
 Si tuviéramos que buscar un socorrista gastronómico en medio de la jungla de los Tilos, 
 **Juana** sería nuestra Pamela Anderson de las papas con mojo y queso. Las suyas en [Casa 
@@ -36,7 +36,7 @@ nombre, ‘papas agradecidas’. Es el plato más demandado en su restaurante ub
 cabaña en medio de la selva, donde también guisa cabrito y sirve vino de Barlovento, un 
 municipio al norte de la isla. 
 
-![casa demetrio la palma](etheria-images/2021/11/la-palma-juanita.jpg "Juanita posa junto a sus ‘papas agradecidas’ en Casa Demetrio. © K.R.")
+![casa demetrio la palma](https://fotos.etheriamagazine.com/2021/11/la-palma-juanita.jpg "Juanita posa junto a sus ‘papas agradecidas’ en Casa Demetrio. © K.R.")
 
 ## 2\. Alucinar con el mejor cielo del mundo
 
@@ -47,7 +47,7 @@ muestra una luz peculiar durante la noche, cada farola está estratégicamente u
 ¿El objetivo? Evitar cualquier tipo de contaminación lumínica. Nada sobra cuando se 
 trata de mimar el mayor balcón al universo que poseen. 
 
-![roque de los muchachos la palma](etheria-images/2021/11/la-palma-visita-roque.jpg "En menos de 50 km, puedes ascender desde el nivel del mar hasta el Roque de los Muchachos, a más de 2.400 m de altura. © K.R.")
+![roque de los muchachos la palma](https://fotos.etheriamagazine.com/2021/11/la-palma-visita-roque.jpg "En menos de 50 km, puedes ascender desde el nivel del mar hasta el Roque de los Muchachos, a más de 2.400 m de altura. © K.R.")
 
 Existen [miradores astronómicos](https://www.adastralapalma.com/miradores-astronomicos/) 
 con información específica repartidos por toda la isla, sin embargo, los aficionados al 
@@ -68,7 +68,7 @@ natal para emprender una vida nómada que abandonó para vivir en **Las Tricias*
 los caseríos de Garafía. El municipio es tan conocido por su gastronomía como por el 
 modo de vida alternativo de sus habitantes. 
 
-![carreteras de garafia la palma](etheria-images/2021/11/la-palma-eugenia-garafia.jpg "Eugenia trabaja en Garafía como partera, mantiene su propio huerto y vive en una cueva (izq.). Una de las famosas tijeras de las carreteras de Garafía (dcha.) © K.R.")
+![carreteras de garafia la palma](https://fotos.etheriamagazine.com/2021/11/la-palma-eugenia-garafia.jpg "Eugenia trabaja en Garafía como partera, mantiene su propio huerto y vive en una cueva (izq.). Una de las famosas tijeras de las carreteras de Garafía (dcha.) © K.R.")
 
 Desde Las Tricias, una [ruta de 
 senderismo](https://www.civitatis.com/es/las-tricias/ruta-senderismo-la-palma/?aid=1868) 
@@ -94,7 +94,7 @@ empedradas.
 > embarques en el avión hacia La Palma. Verás a muchos de sus pasajeros con indumentaria 
 > de alta montaña. 
 
-![balcones santa cruz de la palma](etheria-images/2021/11/viaje-la-palma-balcones.jpg "Balcones históricos de la Avenida Marítima de Santa Cruz de La Palma. © K.R.")
+![balcones santa cruz de la palma](https://fotos.etheriamagazine.com/2021/11/viaje-la-palma-balcones.jpg "Balcones históricos de la Avenida Marítima de Santa Cruz de La Palma. © K.R.")
 
 ## 5\. Completar la ruta de sus volcanes históricos 
 
@@ -107,7 +107,7 @@ se vislumbra el cono del **volcán Teneguía**, que este año cumple 50 años de
 erupción. A diferencia de las coladas actuales, el Teneguía no produjo daños materiales 
 importantes. 
 
-![vista del volcan teneguia la palma](etheria-images/2021/11/la-palma-teneguia.jpg "Panorámica del Teneguía desde el cráter de San Antonio. © K.R.")
+![vista del volcan teneguia la palma](https://fotos.etheriamagazine.com/2021/11/la-palma-teneguia.jpg "Panorámica del Teneguía desde el cráter de San Antonio. © K.R.")
 
 ## 6\. Saltar sobre sus charcos
 
@@ -122,7 +122,7 @@ quienes aborrecen las molestias de la arena. Las pasarelas de **La Fajana** en
 Barlovento y del **Charco Azul** en San Andrés y Sauces resultan adrenalínicas para los 
 amantes de los chapuzones. 
 
-![charco azul de la palma](etheria-images/2021/11/la-palma-charco-azul.jpg "Charco Azul en San Andrés y Sauces. © K.R.")
+![charco azul de la palma](https://fotos.etheriamagazine.com/2021/11/la-palma-charco-azul.jpg "Charco Azul en San Andrés y Sauces. © K.R.")
 
 ## 7\. Descubrir la auténtica gastronomía palmera
 
@@ -145,7 +145,7 @@ imagen descoloca a los paladares más escépticos. El **gofio** es una harina de
 tostada de forma artesanal con la que se hacen todo tipo de recetas saladas y dulces. 
 ¡No te lo pierdas en su versión escaldado y con un poco de mojo verde! 
 
-![chicharrones gofio la palma](etheria-images/2021/11/chicharrones-gofio-la-palma.jpg "Chicharrones rebozados con gofio (izq.) y gofio escaldado del Restaurante San Andrés (dcha.). © K.R.")
+![chicharrones gofio la palma](https://fotos.etheriamagazine.com/2021/11/chicharrones-gofio-la-palma.jpg "Chicharrones rebozados con gofio (izq.) y gofio escaldado del Restaurante San Andrés (dcha.). © K.R.")
 
 Un consejo: Sopesa seriamente la opción de facturar maleta en el aeropuerto. En el 
 histórico [Mercado de la 
@@ -165,7 +165,7 @@ barraquitos y cafés de España –así lo reconoció [The
 Guardian](https://www.theguardian.com/travel/2017/jan/18/spain-best-coffee-canary-island-la-palma-rayco-rodriguez) 
 en 2017–. 
 
-![barraquito cafe multicolor la palma](etheria-images/2021/11/cafe-don-manuel-la-palma-678x1024.jpg "El barraquito incluye leche condensada, Licor 43, café expreso, crema de leche, canela y limón. Federico prepara uno en el Café Don Manuel de la Calle Real. © K.R.")
+![barraquito cafe multicolor la palma](https://fotos.etheriamagazine.com/2021/11/cafe-don-manuel-la-palma-678x1024.jpg "El barraquito incluye leche condensada, Licor 43, café expreso, crema de leche, canela y limón. Federico prepara uno en el Café Don Manuel de la Calle Real. © K.R.")
 
 ## 9\. Fumarse un puro y beber ron con esencia cubana
 
@@ -187,7 +187,7 @@ cerca de la capital– es la primera tabaquería temática de la isla que abre s
 al público para mostrar las entrañas de su taller y la historia de sus míticos puros 
 palmeros. 
 
-![fabrica puros de isla la palma](etheria-images/2021/11/isla-la-palma-puros.jpg "Julio, el patriarca de la saga de Puros Artesanos Julio en una imagen de los años 60 en un taller de Breña Alta (izq.) y hoy día en su propio taller en dicha localidad (dcha.).")
+![fabrica puros de isla la palma](https://fotos.etheriamagazine.com/2021/11/isla-la-palma-puros.jpg "Julio, el patriarca de la saga de Puros Artesanos Julio en una imagen de los años 60 en un taller de Breña Alta (izq.) y hoy día en su propio taller en dicha localidad (dcha.).")
 
 ## 10\. Organizar un viaje a Los Indianos
 
@@ -205,7 +205,7 @@ no te pierdas la actualidad turística de la isla.
 
 > Celebrar Los Indianos puede convertirse en uno de los eventos que recuerdes de por vida. 
 
-![carnaval indianos de la palma](etheria-images/2021/11/la-palma-carnaval-indianos.jpg "El disfraz de un personaje de la isla llamado ‘Negra Tomasa’ es otra de las indumentarias típicas de la fiesta de Los Indianos. © K.R.")
+![carnaval indianos de la palma](https://fotos.etheriamagazine.com/2021/11/la-palma-carnaval-indianos.jpg "El disfraz de un personaje de la isla llamado ‘Negra Tomasa’ es otra de las indumentarias típicas de la fiesta de Los Indianos. © K.R.")
 
 ##### Cómo llegar a La Palma desde la Península
 

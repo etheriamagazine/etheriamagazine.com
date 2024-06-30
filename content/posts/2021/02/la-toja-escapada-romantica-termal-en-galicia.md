@@ -1,7 +1,7 @@
 ---
 title: "La Toja, la escapada romántica que necesitas"
 date: 2021-02-12
-coverImage: etheria-images/2021/02/piscina-Eurostars-Isla-de-la-Toja.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/02/piscina-Eurostars-Isla-de-la-Toja.jpg
 categories: 
   - bienestar-belleza
   - viajes-romanticos
@@ -15,7 +15,7 @@ Está decidido, nos vamos a La Toja. Y será una escapada romántica aderezada c
 masajes, alguna copa de vino, rico marisco y excursiones a las Cíes o a Sálvora. Aquí te 
 contamos cómo disfrutar de un fin de semana redondo en las Rías Baixas, en Galicia. 
 
-![pareja en mar galicia](etheria-images/2021/02/viaje-romantico-galicia.jpg "Una escapada romántica y de relax siempre es buena idea. © Yoann Boyer")
+![pareja en mar galicia](https://fotos.etheriamagazine.com/2021/02/viaje-romantico-galicia.jpg "Una escapada romántica y de relax siempre es buena idea. © Yoann Boyer")
 
 No nos equivocamos si decimos que este año necesitamos, más que nunca, una escapada de 
 relax. Y aún más si es en pareja, quien la tenga, porque las relaciones se ponen a 
@@ -36,7 +36,7 @@ estaba a punto de morir. Pero no sólo no murió sino que al retozar entre los m
 y los lodos se curó de forma sorprendente. Tal hecho hizo sospechar a su dueño que aquel 
 agua debía de tener propiedades terapéuticas. 
 
-![agua manantial de la toja](etheria-images/2021/02/manantial-la-toja.jpg "Fuente del manantial de La Toja. © Etheria M.")
+![agua manantial de la toja](https://fotos.etheriamagazine.com/2021/02/manantial-la-toja.jpg "Fuente del manantial de La Toja. © Etheria M.")
 
 La fama de las aguas milagrosas de La Toja la ha acompañado desde el siglo XIX. Han sido 
 muchas las personas que han acudido a este lugar para someterse a tratamientos para 
@@ -45,7 +45,7 @@ que nos contaron los médicos de los balnearios son, simplemente, sorprendentes.
 la fidelidad de algunos clientes, que llevan 20 años sin faltar a su cita, y a su puesta 
 a punto. 
 
-![mujeres en la fabrica de jabones la toja](etheria-images/2021/02/fabrica-jabones-la-toja.jpg "La elaboración de jabones era una tarea femenina. Imagen tomada en el Museo de La Toja. © Etheria M.")
+![mujeres en la fabrica de jabones la toja](https://fotos.etheriamagazine.com/2021/02/fabrica-jabones-la-toja.jpg "La elaboración de jabones era una tarea femenina. Imagen tomada en el Museo de La Toja. © Etheria M.")
 
 ## Dónde está La Toja
 
@@ -61,7 +61,7 @@ jabones**, y a la **Capilla de las Conchas** (encomendada a San Caralimpio) que 
 decorada con conchas de vieiras. Además, en este pequeño santuario se casó el ex 
 presidente del gobierno Mariano Rajoy, una anécdota más que contar... 
 
-![capilla las conchas en la toja galicia](etheria-images/2021/02/capilla-las-conchas-toja-rajoy.jpg "Capilla de las Conchas, en La Toja. © Etheria M.")
+![capilla las conchas en la toja galicia](https://fotos.etheriamagazine.com/2021/02/capilla-las-conchas-toja-rajoy.jpg "Capilla de las Conchas, en La Toja. © Etheria M.")
 
 ## Balnearios y hoteles en La Toja
 
@@ -69,7 +69,7 @@ Si has decidido que necesitas un descanso y recuperarte físicamente, estás en 
 adecuado. En La Toja hay tres hoteles: el Gran Hotel La Toja, el Hotel Isla de la Toja y 
 el Hotel Louxo, y todos ofrecen tratamientos relajantes y reparadores. 
 
-![uite del hotel Eurostars Gran Hotel La Toja](etheria-images/2021/02/Eurostars-Gran-Hotel-La-Toja.jpg "© Suite del hotel Eurostars Gran Hotel La Toja.")
+![uite del hotel Eurostars Gran Hotel La Toja](https://fotos.etheriamagazine.com/2021/02/Eurostars-Gran-Hotel-La-Toja.jpg "© Suite del hotel Eurostars Gran Hotel La Toja.")
 
 ### Gran Hotel La Toja
 
@@ -89,7 +89,7 @@ una piscina dinámica climatizada, sauna filandesa, baño de vapor, fuente de hi
 de sensaciones, salas de relajación, etc. Además, también tienta a los huéspedes con su 
 "sala vip privada" donde se puede disfrutar de un spa privado. 
 
-![piscinas del balneario la toja](etheria-images/2021/02/Balneario-de-la-Toja.jpg "© Balneario la Toja.")
+![piscinas del balneario la toja](https://fotos.etheriamagazine.com/2021/02/Balneario-de-la-Toja.jpg "© Balneario la Toja.")
 
 La oferta del Eurostars Gran Hotel La Toja se completa con propuestas gastronómicas de 
 alto nivel en dos restaurantes situados a pocos metros del establecimiento: **A Casa do 
@@ -110,7 +110,7 @@ abonar nada al hacer la reserva.
 Los hoteles Eurostars de La Toja cuentan con un estricto protocolo anti-Covid a través 
 del programa Eurostars Clean + Safe que puedes consultar en el enlace. 
 
-![Hotel Eurostars Isla de la Toja](etheria-images/2021/02/hotel-Eurostars-Isla-de-la-Toja.jpg "© Hotel Eurostars Isla de la Toja.")
+![Hotel Eurostars Isla de la Toja](https://fotos.etheriamagazine.com/2021/02/hotel-Eurostars-Isla-de-la-Toja.jpg "© Hotel Eurostars Isla de la Toja.")
 
 ### Hotel & Talaso Louxo La Toja
 
@@ -124,7 +124,7 @@ pensión completa el primer y segundo día de estancia con menú gastronómico e
 restaurante Punta Vendaval, acceso diario al parque marino y 10% de descuento en 
 tratamientos de la carta Talaso. Este bono se puede canjear hasta junio de 2022. 
 
-![mujer relajada en spa](etheria-images/2021/02/escapada-relax-espana.jpg "Una escapada de relax es perfecta para recuperar la energía. © Camila Cordeiro")
+![mujer relajada en spa](https://fotos.etheriamagazine.com/2021/02/escapada-relax-espana.jpg "Una escapada de relax es perfecta para recuperar la energía. © Camila Cordeiro")
 
 Otra opción más económica es la Escapada Talaso, en la que se incluye 1 noche de 
 alojamiento, detalle de bienvenida, desayuno buffet, acceso al parque marino (1 hora) y 
@@ -138,7 +138,7 @@ trenecito](https://www.civitatis.com/es/isla-de-la-toja/tren-turistico-la-toja/?
 por 5 €), seguro que te apetece hacer alguna excursión. Nuestra propuesta es que 
 dediques un día a navegar y otro al enoturismo. 
 
-![excursion islas cies en galicia](etheria-images/2021/02/islas-cies-galicia.jpg "Islas Cíes, el Caribe gallego. © Eduardo Casajús Gorostiaga")
+![excursion islas cies en galicia](https://fotos.etheriamagazine.com/2021/02/islas-cies-galicia.jpg "Islas Cíes, el Caribe gallego. © Eduardo Casajús Gorostiaga")
 
 ### Islas Cíes
 
@@ -156,7 +156,7 @@ Cíes](https://www.civitatis.com/es/vigo/paseo-avioneta-islas-cies/?aid=10211) (
 Cíes](https://www.civitatis.com/es/portonovo/traslado-lancha-rapida-islas-cies/?aid=10211), 
 en lugar de en ferry, por 30 €. 
 
-![isla de salvora rias baixas galicia](etheria-images/2021/02/isla-salvora-galicia-683x1024.jpg "Isla de Sálvora, con su fortaleza y la sirenita frente al mar. © Eheria Magazine")
+![isla de salvora rias baixas galicia](https://fotos.etheriamagazine.com/2021/02/isla-salvora-galicia-683x1024.jpg "Isla de Sálvora, con su fortaleza y la sirenita frente al mar. © Eheria Magazine")
 
 ### Isla de Sálvora
 
@@ -171,7 +171,7 @@ pasear por sus senderos hasta llegar al faro (de 1852) y visitar la aldea abando
 el castillo. Como curiosidad se puede señalar que disponen de su propia “sirenita” sin 
 tener que viajar a la capital danesa. 
 
-![excursion salvora mejillones](etheria-images/2021/02/excursion-mejillones-rias-baixas.jpg "Las excursiones para ver las bateas de mejillones son muy aconsejables. © Etheria Magazine")
+![excursion salvora mejillones](https://fotos.etheriamagazine.com/2021/02/excursion-mejillones-rias-baixas.jpg "Las excursiones para ver las bateas de mejillones son muy aconsejables. © Etheria Magazine")
 
 Una de las empresas que realiza el viaje a **Sálvora** es [Cruceros do 
 Ulla](https://www.crucerosdoulla.com/es/activities/visita-isla-de-salvora/) que sale del 
@@ -182,7 +182,7 @@ degustación de
 mejillones](https://www.civitatis.com/es/el-grove/paseo-barco-ria-degustacion-mejillones/?aid=10211) 
 por 15 €). 
 
-![enoturismo en pazo baion rias baixas](etheria-images/2021/02/pazo-baion-galicia.jpg "Pazo Baión (Vilanova de Arousa). © Etheria M.")
+![enoturismo en pazo baion rias baixas](https://fotos.etheriamagazine.com/2021/02/pazo-baion-galicia.jpg "Pazo Baión (Vilanova de Arousa). © Etheria M.")
 
 ## Un albariño en Rías Baixas
 
@@ -203,7 +203,7 @@ organiza catas. No dejéis de probar su excelente [Albariño Pazo
 Baión](https://www.condesdealbarei.com/producto/pazo-baion/) (2 botellas, 33 €), que 
 tiene una crianza de seis meses. 
 
-![vino albarino pazo baion](etheria-images/2021/02/albarino-pazo-baion-683x1024.jpg "Albariño Pazo Baión. © Etheria M.")
+![vino albarino pazo baion](https://fotos.etheriamagazine.com/2021/02/albarino-pazo-baion-683x1024.jpg "Albariño Pazo Baión. © Etheria M.")
 
 Puedes consultar otras visitas enoturísticas en [Ruta del Vino Rías 
 Baixas](http://rutadelvinoriasbaixas.com). 

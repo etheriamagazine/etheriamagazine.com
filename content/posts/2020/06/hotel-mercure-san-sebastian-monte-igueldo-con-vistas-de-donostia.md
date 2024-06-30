@@ -1,7 +1,7 @@
 ---
 title: "Mercure San Sebastián Monte Igueldo, las mejores vistas de Donostia"
 date: 2020-06-25
-coverImage: etheria-images/2020/06/Portada-Mercure-San-Sebastian.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/Portada-Mercure-San-Sebastian.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -14,7 +14,7 @@ capital guipuzcoana. Su decoración estilo _Belle Époque_, la amplitud de sus
 habitaciones y su excelente oferta culinaria lo convierten en una gran elección en 
 Donostia tanto si se viaja en pareja como en familia. 
 
-![Salón con vistas en el Mercure San Sebastian Monte Igueldo](etheria-images/2020/06/Portada-Mercure-San-Sebastian.jpg "Salón principal del Mercure San Sebastián Monte Igueldo.")
+![Salón con vistas en el Mercure San Sebastian Monte Igueldo](https://fotos.etheriamagazine.com/2020/06/Portada-Mercure-San-Sebastian.jpg "Salón principal del Mercure San Sebastián Monte Igueldo.")
 
 Con unas panorámicas privilegiadas, en lo alto del monte que le da nombre, el Hotel 
 Mercure San Sebastián Monte Igueldo es uno de los iconos de San Sebastián. En sus más de 
@@ -25,7 +25,7 @@ necesidades del viajero actual. Abrir la ventana de la habitación y ver enfrent
 bahía de la Concha es uno de esos placeres que se valora ahora en la misma medida que en 
 sus inicios. 
 
-![vista de la bahía de la Concha en San Sebastián](etheria-images/2020/06/vistas-Mercure-San-Sebastian.jpg "Vista panorámica de la bahía de la Concha, de San Sebastián.")
+![vista de la bahía de la Concha en San Sebastián](https://fotos.etheriamagazine.com/2020/06/vistas-Mercure-San-Sebastian.jpg "Vista panorámica de la bahía de la Concha, de San Sebastián.")
 
 ## Cómo son las habitaciones
 
@@ -36,7 +36,7 @@ necesidades o presupuesto (Privilege, Estándar, con vista a la montaña o indiv
 interior). La mayoría cuenta con terraza privada y vistas panorámicas al mar o a la 
 bahía de San Sebastián. 
 
-![Habitación del Mercure San Sebastian Monte Igueldo](etheria-images/2020/06/habitacion-Mercure-San-Sebastian.jpg "Habitación del Mercure San Sebastián Monte Igueldo.")
+![Habitación del Mercure San Sebastian Monte Igueldo](https://fotos.etheriamagazine.com/2020/06/habitacion-Mercure-San-Sebastian.jpg "Habitación del Mercure San Sebastián Monte Igueldo.")
 
 ## Servicios y zonas comunes
 
@@ -52,7 +52,7 @@ situada sobre un antiguo fuerte carlista y, justo al lado, se encuentra un gran 
 del siglo XVII, el antiguo faro de San Sebastián. Si quieres subir hasta las almenas, o 
 hacer algún evento privado arriba, consulta con el personal del hotel. 
 
-![piscina del Mercure San Sebastian Monte Igueldo](etheria-images/2020/06/piscina-Mercure-San-Sebastian.jpg "Piscina del hotel.")
+![piscina del Mercure San Sebastian Monte Igueldo](https://fotos.etheriamagazine.com/2020/06/piscina-Mercure-San-Sebastian.jpg "Piscina del hotel.")
 
 Además, para quienes necesiten un salón para alguna celebración familiar –o de 
 negocios–, también ofrece 3 salas de reuniones y servicio de catering. 
@@ -67,14 +67,14 @@ promoción del Basque Culinary Center. Este cocinero basa su buen hacer en la co
 vasca de mercado, un amplio respeto por el producto local y un gran interés por los 
 valores nutritivos de los alimentos. 
 
-![salon belle époque Mercure San Sebastian Monte Igueldo](etheria-images/2020/06/hall-Mercure-San-Sebastian.jpg "Hall del Mercure San Sebastian Monte Igueldo.")
+![salon belle époque Mercure San Sebastian Monte Igueldo](https://fotos.etheriamagazine.com/2020/06/hall-Mercure-San-Sebastian.jpg "Hall del Mercure San Sebastian Monte Igueldo.")
 
 Otro espacio que te enamorará nada más llegar es el **Wine Bistro Bar Belle Époque**, 
 ambientado en los primeros años del siglo XX, que ofrece una amplia selección de los 
 mejores licores y cócteles, así como una tentadora carta de comida ligera inspirada en 
 los platos de la época. 
 
-![bar Mercure San Sebastian Monte Igueldo](etheria-images/2020/06/bar-Mercure-San-Sebastian.jpg "Bar del Mercure San Sebastian Monte Igueldo.")
+![bar Mercure San Sebastian Monte Igueldo](https://fotos.etheriamagazine.com/2020/06/bar-Mercure-San-Sebastian.jpg "Bar del Mercure San Sebastian Monte Igueldo.")
 
 El espacio más informal es el **Gastro Bar Karrusel**, un lugar pensado para aquellos 
 que acuden al cercano parque de atracciones. Allí se ofrece una variada barra de 
@@ -82,7 +82,7 @@ pintxos, que va cambiando en función de la temporada, además de una oferta má
 e informal donde destaca el bacalao, las ensaladas, los sándwiches y los postres 
 caseros. 
 
-![Terraza con vistas a San Sebastián del Mercure San Sebastian Monte Igueldo](etheria-images/2020/06/terraza-Mercure-SanSebastian.jpg "Terraza del hotel.")
+![Terraza con vistas a San Sebastián del Mercure San Sebastian Monte Igueldo](https://fotos.etheriamagazine.com/2020/06/terraza-Mercure-SanSebastian.jpg "Terraza del hotel.")
 
 ## Completa tu estancia con...
 

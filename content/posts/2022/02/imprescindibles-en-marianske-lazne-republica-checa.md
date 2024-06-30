@@ -1,7 +1,7 @@
 ---
 title: "Mariánské Lázně, el retiro termal checo que mereces"
 date: 2022-02-03
-coverImage: etheria-images/2022/02/hotel-novo-lazne.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/02/hotel-novo-lazne.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Con una fuente cantarina, aguas milagrosas, artísticas columnatas y groupis de su oferta termal entre la aristocracia más selecta, la ciudad de Mariánské Lázně es uno de los vértices del Triángulo Balneario Checo que mereces disfrutar. Ideal como lugar de retiro termal o como una excursión desde Praga.
 
-![hotel lazne en marianske lazne](etheria-images/2022/02/hotel-novo-lazne.jpg "Vista panorámica de Nové Lázně. © Pepa García")
+![hotel lazne en marianske lazne](https://fotos.etheriamagazine.com/2022/02/hotel-novo-lazne.jpg "Vista panorámica de Nové Lázně. © Pepa García")
 
 No goza de la fama termal de Karlovy Vary –ni falta que le hace– pero Mariánské Lázně 
 ocupa un digno segundo puesto y enamora a cuantos la visitan. Esta ciudad es una de las 
@@ -28,7 +28,7 @@ hoy día nos enamoran muchas más cosas, además de las terapias balnearias, as�
 hemos dado una vuelta por allí para contarte todo lo que puedes ver y hacer en Mariánské 
 Lázně. 
 
-![pintura antigua de marianske lazne](etheria-images/2022/02/historia-marianske-lazne.jpg "Aunque ha pasado el tiempo, Mariánské Lázně sigue conservando su esencia. © P.G.")
+![pintura antigua de marianske lazne](https://fotos.etheriamagazine.com/2022/02/historia-marianske-lazne.jpg "Aunque ha pasado el tiempo, Mariánské Lázně sigue conservando su esencia. © P.G.")
 
 #### Índice para organizar tu viaje
 
@@ -46,7 +46,7 @@ Lázně](#restaurantes-marianske-lazne). **8️⃣** [Piscina Lido](#piscina-lid
 Kladska.](#excursion-kladska) **?** [Excursiones desde Mariánské 
 Lázně](#excursion-karlovy-vary). 
 
-![marianske lazne una ciudad rodeada de bosques](etheria-images/2022/02/marianske-lazne-bosques.jpg "Mariánské Lázně, una ciudad rodeada de bosques. © Pepa García")
+![marianske lazne una ciudad rodeada de bosques](https://fotos.etheriamagazine.com/2022/02/marianske-lazne-bosques.jpg "Mariánské Lázně, una ciudad rodeada de bosques. © Pepa García")
 
 ## Mariánské Lázně, cómo nace una ciudad termal
 
@@ -67,7 +67,7 @@ Lázně”. Diez años después recibe el reconocimiento oficial de balneario p�
 después, un empujoncito más: la conexión, vía ferrocarril, con las ciudades de Cheb y 
 Pilsen. 
 
-![eduardo VII y Francisco Jose I](etheria-images/2022/02/eduardo-vii-francisco-jose-i-marianske-lazne.jpg "Eduardo VII y Francisco José I también se reunían en Mariánské Lázně. © Pepa García")
+![eduardo VII y Francisco Jose I](https://fotos.etheriamagazine.com/2022/02/eduardo-vii-francisco-jose-i-marianske-lazne.jpg "Eduardo VII y Francisco José I también se reunían en Mariánské Lázně. © Pepa García")
 
 ## De manantiales rurales a arquitectura top
 
@@ -85,7 +85,7 @@ Si en tu viaje a las visitas arquitectónicas le añades algún paseo por sus cu
 parques y una excursión a los alrededores tendrás una escapada termal perfecta como 
 complemento a una escapada a Praga. 
 
-![parque y jardin de marianske lazne](etheria-images/2022/02/parque-marianske-lazne-otono-703x1024.jpg "Uno de los bucólicos rincones de Mariánské Lázně. © Pepa García")
+![parque y jardin de marianske lazne](https://fotos.etheriamagazine.com/2022/02/parque-marianske-lazne-otono-703x1024.jpg "Uno de los bucólicos rincones de Mariánské Lázně. © Pepa García")
 
 ## Qué ver y hacer en Mariánské Lázně
 
@@ -96,7 +96,7 @@ media hora más. Si te levantas temprano, es incluso una excursión factible par
 día. A continuación te contamos en formato lista qué ver y hacer en Mariánské Lázně para 
 que no pierdas ni un minuto más. 
 
-![columnata termal de marianske lazne](etheria-images/2022/02/columnata-principal-703x1024.jpg "Columnata Principal de Mariánské Lázně. © Pepa García")
+![columnata termal de marianske lazne](https://fotos.etheriamagazine.com/2022/02/columnata-principal-703x1024.jpg "Columnata Principal de Mariánské Lázně. © Pepa García")
 
 ### 1\. Beber agua de una fuente termal
 
@@ -112,7 +112,7 @@ salado o mineral. Las fuentes se sitúan bajo **columnatas monumentales,** por l
 además de los beneficios del agua disfrutarás de una bonita arquitectura. Una de las más 
 impresionantes es la llamada Principal. 
 
-![frescos de la columnata principal de marianske lazne](etheria-images/2022/02/boveda-columnata-marianske-lezna.jpg "Frescos de la Columnata Principal. © Pepa García")
+![frescos de la columnata principal de marianske lazne](https://fotos.etheriamagazine.com/2022/02/boveda-columnata-marianske-lezna.jpg "Frescos de la Columnata Principal. © Pepa García")
 
 ### 2\. Pasear por la Columnata Principal
 
@@ -127,7 +127,7 @@ recuerdos. Y al fondo, las fuentes donde coger el agua. En el mismo parque, a po
 minutos de esta columnata, se sitúa otra, la columnata Karolinina, del manantial 
 Rodolfo, que alberga varias fuentes. 
 
-![fuente cantante de marianske lazne](etheria-images/2022/02/fuente-cantante-marianske-lazne.jpg "Fuente cantarina o "cantante" de Mariánské Lázně. © Pepa García")
+![fuente cantante de marianske lazne](https://fotos.etheriamagazine.com/2022/02/fuente-cantante-marianske-lazne.jpg "Fuente cantarina o "cantante" de Mariánské Lázně. © Pepa García")
 
 ### 3\. Asistir al espectáculo de una fuente cantarina
 
@@ -140,7 +140,7 @@ expuesto en un panel junto a la fuente, ya que las melodías van cambiando. Es g
 se acumulan muchos curiosos que esperan con paciencia a esas horas en punto para 
 disfrutar de un agradable momento junto a la Columnata Principal. 
 
-![pareja comiendo obleas en marianske lazne](etheria-images/2022/02/obleas-marianske-lazne.jpg "Las obleas, una tentación en la que hay que caer. © Pepa García")
+![pareja comiendo obleas en marianske lazne](https://fotos.etheriamagazine.com/2022/02/obleas-marianske-lazne.jpg "Las obleas, una tentación en la que hay que caer. © Pepa García")
 
 ### 4\. Probar las obleas "balnearias"
 
@@ -151,7 +151,7 @@ paseas. Las encontrarás en tiendas situadas en las calles comerciales. Otra opc
 pedir en un puesto callejero un chocolate caliente y unos _Trdelník_ (una masa azucarada 
 que se enrolla sobre un palo y se hace sobre brasas). 
 
-![bano romano hotel nove lazne](etheria-images/2022/02/bano-romano-hotel-nove-lezna.jpg "Baño romano del hotel Nové Lázně. © Pepa García")
+![bano romano hotel nove lazne](https://fotos.etheriamagazine.com/2022/02/bano-romano-hotel-nove-lezna.jpg "Baño romano del hotel Nové Lázně. © Pepa García")
 
 ### 5.  Darte un baño romano en el hotel Nové Lázně
 
@@ -167,7 +167,7 @@ atrás, con pasillos jalonados por salas de tratamientos, suntuosos salones, y u
 romano** con unas bonitas columnas donde dejarte acariciar por estas aguas mágicas y 
 curativas. 
 
-![Iglesia ortodoxa rusa de San Vladimiro](etheria-images/2022/02/iglesia-ortodoxa-marianske-lazne-743x1024.jpg "Iglesia ortodoxa rusa de San Vladimiro. © Pepa García")
+![Iglesia ortodoxa rusa de San Vladimiro](https://fotos.etheriamagazine.com/2022/02/iglesia-ortodoxa-marianske-lazne-743x1024.jpg "Iglesia ortodoxa rusa de San Vladimiro. © Pepa García")
 
 ### 6\. Conocer la iglesia ortodoxa rusa de San Vladimiro
 
@@ -176,7 +176,7 @@ arte, restaurantes y agradables cafeterías, sino que también aparecen construc
 como la llamativa iglesia ortodoxa rusa de San Vladimiro. Merece la pena acercarse para 
 admirar su bonita fachada, con rayas rojas y blancas, y entrar a conocer su interior. 
 
-![platos del restaurante villa patriot marianske lazne](etheria-images/2022/02/restaurante-marianske-lazne.jpg "Platos del restaurante Villa Patriot. © Pepa García")
+![platos del restaurante villa patriot marianske lazne](https://fotos.etheriamagazine.com/2022/02/restaurante-marianske-lazne.jpg "Platos del restaurante Villa Patriot. © Pepa García")
 
 ### 7\. Dónde comer bien en Mariánské Lázně
 
@@ -189,7 +189,7 @@ opción más informal pero igual de recomendable es [Česká
 hospůdka](https://www.ceskahospudkaml.cz/), un restaurante muy agradable donde degustar 
 comida casera y buena cerveza a precios ajustados. 
 
-![lagos cerca de marianske lazne](etheria-images/2022/02/lagos-marianske-lazne.jpg "Cerca de Mariánské Lázně encontrarás lagos y bosques. © Pepa García")
+![lagos cerca de marianske lazne](https://fotos.etheriamagazine.com/2022/02/lagos-marianske-lazne.jpg "Cerca de Mariánské Lázně encontrarás lagos y bosques. © Pepa García")
 
 ### 8\. Hacerte unos largos en la Piscina Lido
 
@@ -200,7 +200,7 @@ kilómetros de Mariánské Lázně. Además de contar con una playa de hierba y 
 de todos los servicios que puedas necesitar: un quiosco para comprar la comida, 
 merendero, duchas, botes de pedales, tumbonas y pistas deportivas. 
 
-![bosques de Reserva Natural Kladska](etheria-images/2022/02/hladska-marianske-lazne.jpg "Reserva Natural Kladská, a pocos kilómetros de Mariánské Lázně. © Pepa García")
+![bosques de Reserva Natural Kladska](https://fotos.etheriamagazine.com/2022/02/hladska-marianske-lazne.jpg "Reserva Natural Kladská, a pocos kilómetros de Mariánské Lázně. © Pepa García")
 
 ### 9\. Recorrer los bosques de Kladska
 
@@ -212,7 +212,7 @@ perfectamente señalizada. Al caer el sol, el bosque ofrece un concierto de soni
 naturaleza. La experiencia es inolvidable y, con un poco de suerte, podrás ver 
 urogallos, ciervos, zorros... 
 
-![pueblo loket cercano a marianske lazne](etheria-images/2022/02/pueblo-loket-chequia.jpg "Población de Loket, una excursión ideal desde Mariánské Lázně o desde Karlovy Vary. © Pepa García")
+![pueblo loket cercano a marianske lazne](https://fotos.etheriamagazine.com/2022/02/pueblo-loket-chequia.jpg "Población de Loket, una excursión ideal desde Mariánské Lázně o desde Karlovy Vary. © Pepa García")
 
 ### 10\. Excursiones desde Mariánské Lázně
 
@@ -237,7 +237,7 @@ cumplía más de setenta.
 (En este artículo de Babelia te cuentan la [historia 
 completa](https://elpais.com/diario/2002/05/04/babelia/1020469818_850215.html)). 
 
-![parque en otono en marianske lazne](etheria-images/2022/02/parque-marianske-lazne.jpg "El otoño aporta una buena dosis de belleza a toda la región de Karlovy Vary. © Pepa García")
+![parque en otono en marianske lazne](https://fotos.etheriamagazine.com/2022/02/parque-marianske-lazne.jpg "El otoño aporta una buena dosis de belleza a toda la región de Karlovy Vary. © Pepa García")
 
 ### También te puede interesar...
 

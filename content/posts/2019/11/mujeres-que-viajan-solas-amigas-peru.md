@@ -1,7 +1,7 @@
 ---
 title: "Un viaje apasionante con amigas por el sur de Perú"
 date: 2019-11-01
-coverImage: etheria-images/2019/10/peru-mercados-cuzco.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/10/peru-mercados-cuzco.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Con permiso de su gastronomía y con Lima como punto de partida, nos adentramos en una ruta por los escenarios naturales y culturales más ansiados de Perú. El país andino es un destino que se presta a un inolvidable viaje con amigas. Desde Etheria Magazine te damos todas las claves para que lo disfrutes.
 
-![Mercadillo de Cuzco](etheria-images/2019/10/peru-mercados-cuzco-900x600.jpg "Mercadillo de Cuzco. © Willian Justen de Vasconcellos")
+![Mercadillo de Cuzco](https://fotos.etheriamagazine.com/2019/10/peru-mercados-cuzco-900x600.jpg "Mercadillo de Cuzco. © Willian Justen de Vasconcellos")
 
 Su excepcional mezcla de naturaleza, culturas milenarias y gastronomía hacen de Perú uno 
 de los destinos más deseados de Sudamérica y uno de los mejores destinos para viajar con 
@@ -21,7 +21,7 @@ conjugar sus orígenes milenarios con su vena contemporánea. Posee un casco his
 declarado Patrimonio de la Humanidad, playas perfectas para surfistas y barrios tan 
 modernos como Miraflores. 
 
-![vista aérea de Lima](etheria-images/2019/10/peru-lima-malecon-cisnero-900x594.jpg "Malecón Cisneros, en Lima. © Willian Justen de Vasconcellos")
+![vista aérea de Lima](https://fotos.etheriamagazine.com/2019/10/peru-lima-malecon-cisnero-900x594.jpg "Malecón Cisneros, en Lima. © Willian Justen de Vasconcellos")
 
 Tras un banquete culinario –saboreando cebiches, causas, tiraditos, lomo saltado y pisco 
 sour– en restaurantes como la cebichería [La Mar](https://lamarcebicheria.com/es/Lima), 
@@ -31,7 +31,7 @@ Palacio de Gobierno. Además de entrar en las escalofriantes catacumbas del conv
 San Francisco o bucear entre los orígenes milenarios de la ciudad visitando **Huaca 
 Pucllana**, un centro ceremonial más antiguo que Machu Picchu. 
 
-![restos arqueológicos en Perú](etheria-images/2019/10/viaje-peru-huaca-pucllana-900x602.jpg "Huaca Pucllana. ©PB")
+![restos arqueológicos en Perú](https://fotos.etheriamagazine.com/2019/10/viaje-peru-huaca-pucllana-900x602.jpg "Huaca Pucllana. ©PB")
 
 ## Enigmas y aventuras en Ica
 
@@ -41,7 +41,7 @@ de **Huacachina** y su laguna color esmeralda. Surcamos sus **dunas en un 4x4** 
 de una montaña rusa se tratase, nos aventuramos con el _sandboard_, lo que viene siendo 
 surf sobre arena, y contemplamos la puesta de sol con el oasis a nuestros pies. 
 
-![lineas de nazca](etheria-images/2019/10/peru-nazca-900x575.jpg "Líneas de Nazca. © Marco Topete")
+![lineas de nazca](https://fotos.etheriamagazine.com/2019/10/peru-nazca-900x575.jpg "Líneas de Nazca. © Marco Topete")
 
 ### Las líneas de Nazca
 
@@ -53,7 +53,7 @@ dimensiones solo pueden ser divisadas en su totalidad desde el aire y acerca de 
 rondan teorías variopintas, desde que son obra de extraterrestres hasta que forman parte 
 de un poderoso calendario astronómico. 
 
-![llama en Machu Picchu](etheria-images/2019/10/viaje-peru-mujeres-900x600.jpg "Machu Picchu (Perú). ©PB")
+![llama en Machu Picchu](https://fotos.etheriamagazine.com/2019/10/viaje-peru-mujeres-900x600.jpg "Machu Picchu (Perú). ©PB")
 
 ## Cuzco, capital del antiguo Imperio Inca
 
@@ -68,7 +68,7 @@ histórica de Perú merece que te adentres en sus asombrosos barrios sin prisas,
 degustes sus manjares, pasees por sus mercados y disfrutes de su legado cultural y 
 arquitectónico con tranquilidad. 
 
-![catedral cuzco](etheria-images/2019/10/peru-catedral-cuzco-668x1024.jpg "Gran puerta de la catedral de Cuzco. © Willian Justen de Vasconcellos")
+![catedral cuzco](https://fotos.etheriamagazine.com/2019/10/peru-catedral-cuzco-668x1024.jpg "Gran puerta de la catedral de Cuzco. © Willian Justen de Vasconcellos")
 
 Lo primero será enfilar hacia la **plaza de Armas**, antaño un importante centro 
 ceremonial y hoy, el sitio perfecto para empaparse de la arquitectura cuzqueña, que se 
@@ -78,7 +78,7 @@ que con mujeres indígenas ataviadas en coloridos trajes típicos. Cuando caiga 
 preciso saborear el mítico pisco sour en un clásico de la ciudad, el **Museo del 
 Pisco**. 
 
-![montana arcoiris](etheria-images/2019/10/peru-tierras-arcoiris-900x600.jpg "Vinicunca o la montaña Arcoíris. © Roi Dimor")
+![montana arcoiris](https://fotos.etheriamagazine.com/2019/10/peru-tierras-arcoiris-900x600.jpg "Vinicunca o la montaña Arcoíris. © Roi Dimor")
 
 ### La montaña arcoíris
 
@@ -102,7 +102,7 @@ se quedan en la retina para siempre. La experiencia, que comienza en la estació
 de Cuzco (con salida todos martes), está aderezada con gastronomía de lujo, 
 entretenimiento a bordo y una noche en uno de sus excepcionales camarotes. 
 
-![tren a Titicaca](etheria-images/2019/10/belmond-andean-explorer-900x493.jpg "© Belmond Andean Explorer.")
+![tren a Titicaca](https://fotos.etheriamagazine.com/2019/10/belmond-andean-explorer-900x493.jpg "© Belmond Andean Explorer.")
 
 Al día siguiente, se anuncia el final del viaje con la llegada a **Puno**, una ciudad 
 caótica, de tradición folclórica y rebosante de cultura y arqueología prehispánica. 
@@ -113,7 +113,7 @@ una leyenda –esta región está especialmente dada a ellas– que el lago se f
 lágrimas de Inti, el Dios del sol, que lloró durante 40 días y 40 noches; otra afirma 
 que del lago nacieron Manco Cápac y Mama Ocllo, fundadores del Imperio Inca. 
 
-![pueblo uros](etheria-images/2019/10/peru-puno-titicaca-900x579.jpg "Islas flotantes del lago Titicaca. © Sandro Ayalo")
+![pueblo uros](https://fotos.etheriamagazine.com/2019/10/peru-puno-titicaca-900x579.jpg "Islas flotantes del lago Titicaca. © Sandro Ayalo")
 
 Las **islas flotantes de Uros** son quizás es mayor atractivo del Titicaca. Construidas 
 a base de totora –un junco endémico–, estas preciosas ciudadelas son una muestra 
@@ -137,7 +137,7 @@ de dos días, pasando la noche en tiendas de campaña a más de 4.000 metros de 
 Pero no solo de naturaleza presume esta ciudad, pues su casco histórico es tan grandioso 
 como el cuzqueño o el capitalino. 
 
-![Fuente en Arequipa](etheria-images/2019/10/peru-convento-santa-catalina-arequipa-900x671.jpg "Monasterio de Santa Catalina, en Arequipa. © Martín Espinoza")
+![Fuente en Arequipa](https://fotos.etheriamagazine.com/2019/10/peru-convento-santa-catalina-arequipa-900x671.jpg "Monasterio de Santa Catalina, en Arequipa. © Martín Espinoza")
 
 Sus casonas, conventos e iglesias de la época colonial están construidas a base de 
 sillar color blanco –una roca volcánica formada por lava del imponente Misti–, que le ha 

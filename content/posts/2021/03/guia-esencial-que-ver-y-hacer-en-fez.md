@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Fez, la capital espiritual de Marruecos"
 date: 2021-03-18
-coverImage: etheria-images/2021/03/fez-atardecer-marruecos.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/fez-atardecer-marruecos.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Un viaje a Marruecos rara vez defrauda, y si es a la ciudad de Fez menos aún. Si estás buscando un destino para tus próximas vacaciones, te vamos a contar qué puedes ver en Fez, sus lugares imprescindibles, y también dos excursiones muy agradables: Volúbilis e Ifrane.
 
-![puerta de entrada a la medina de fez](etheria-images/2021/03/puerta-entrada-fez.jpg "Una de las puertas de entrada en la medina de Fez. © Etheria Mag.")
+![puerta de entrada a la medina de fez](https://fotos.etheriamagazine.com/2021/03/puerta-entrada-fez.jpg "Una de las puertas de entrada en la medina de Fez. © Etheria Mag.")
 
 Cuando llegas a esta ciudad marroquí y te has leído varias guías donde te han contado 
 qué ver en Fez o los 15, 20, 50 imprescindibles de Fez te sientes un poco desubicado 
@@ -28,7 +28,7 @@ latir el corazón aún más rápido mientras te pone la piel de gallina. Despué
 silencio hasta que termina de fundirse a negro. Tras esa vivencia tan íntima estarás 
 preparada para recorrer Fez como merece. 
 
-![colores de atardecer en fez](etheria-images/2021/03/fez-atardecer-marruecos.jpg "Atardecer sobre Fez (Marruecos). © Chronis Yan")
+![colores de atardecer en fez](https://fotos.etheriamagazine.com/2021/03/fez-atardecer-marruecos.jpg "Atardecer sobre Fez (Marruecos). © Chronis Yan")
 
 ## Para que te ubiques en Fez
 
@@ -48,7 +48,7 @@ Marruecos –tras varios periodos intermitentes y mediando la ocupación frances
 serlo–. Según cuenta la leyenda, el nombre de Fez proviene del golpe de pico que 
 simbólicamente se dio cuando se fundó la ciudad (_Fez_ significa pico). 
 
-![panoramica de los tejados de fez en marruecos](etheria-images/2021/03/vistas-tejados-fez.jpg "Vista de los tejados de cerámica verde de Fez. © Etheria Magazine")
+![panoramica de los tejados de fez en marruecos](https://fotos.etheriamagazine.com/2021/03/vistas-tejados-fez.jpg "Vista de los tejados de cerámica verde de Fez. © Etheria Magazine")
 
 ## Medina de Fez el-Bali: zocos, mezquitas y madrasas
 
@@ -67,7 +67,7 @@ barrio. También es un buen punto para quedar si vas en grupo y teméis perderos
 muy antigua, fue construida en 1913 siguiendo un estilo hispano-árabe, y está esmaltada 
 con tonos azules y verdes. En su decoración se trenzan símbolos islámicos y hebreos. 
 
-![Mezquita de Karaouine o al Qarawiyyin en fez](etheria-images/2021/03/fez-Mezquita-Karaouine-Qarawiyyin.jpg "Mezquita de Karaouine o al Qarawiyyin. © Etheria Mag.")
+![Mezquita de Karaouine o al Qarawiyyin en fez](https://fotos.etheriamagazine.com/2021/03/fez-Mezquita-Karaouine-Qarawiyyin.jpg "Mezquita de Karaouine o al Qarawiyyin. © Etheria Mag.")
 
 ### Mezquita de Karaouine o al Qarawiyyin
 
@@ -81,7 +81,7 @@ Otro lugar de interés es el **Mausoleo de Mulay Idris**, un lugar al que acuden
 fieles para hacer sus peticiones. Existe una ventanita al lado de la puerta de las 
 mujeres donde los creyentes introducen la mano para tocar la tumba y purificarse. 
 
-![Mausoleo de Mulay Idris](etheria-images/2021/03/Mausoleo-Mulay-Idris-fez.jpg "Mausoleo de Mulay Idris. © Etheria Mag.")
+![Mausoleo de Mulay Idris](https://fotos.etheriamagazine.com/2021/03/Mausoleo-Mulay-Idris-fez.jpg "Mausoleo de Mulay Idris. © Etheria Mag.")
 
 ### Madrasa o Medersa el-Attarin
 
@@ -95,7 +95,7 @@ Otras madrazas que se pueden visitar son la de **Bou Inania**, de una gran belle
 sus paredes de estuco y madera tallada, y la de **es-Seffarin**, que fue la primera 
 escuela coránica fundada por los mariníes en Marruecos. 
 
-![Madrasa el Attarin en fez](etheria-images/2021/03/fez-madrasa-el-Attarin-683x1024.jpg "Madraza o Medersa el-Attarin. © Etheria Mag.")
+![Madrasa el Attarin en fez](https://fotos.etheriamagazine.com/2021/03/fez-madrasa-el-Attarin-683x1024.jpg "Madraza o Medersa el-Attarin. © Etheria Mag.")
 
 ### Zoco de Fez y barrio de curtidores
 
@@ -113,7 +113,7 @@ pistacho son toda una tentación. Y en este universo de la medina también está
 de algunas tiendas (cobran una cantidad módica que te descuentan sin adquieras algo). De 
 las cuatro curtidorías de Fez, la más conocida es la de **Chouwara**. 
 
-![curtidores en la medina de fez](etheria-images/2021/03/fez-medina-Curtidores.jpg "Curtidores en la medina de Fez. © Etheria Mag.")
+![curtidores en la medina de fez](https://fotos.etheriamagazine.com/2021/03/fez-medina-Curtidores.jpg "Curtidores en la medina de Fez. © Etheria Mag.")
 
 Los vendedores te ofrecerán unas ramitas de menta antes de pasar, acéptala para soportar 
 el nauseabundo olor que impregna el aire. Merece la pena pasar el mal trago por ver tal 
@@ -123,7 +123,7 @@ Por último, si tienes tiempo pásate por el **Barrio Andaluz de Fez**, llamado 
 allí se concentraron muchas familias musulmanas que se vieron obligadas a huir del sur 
 de España hace más de diez siglos. 
 
-![taller de costura en la medina de fez](etheria-images/2021/03/sastre-zoco-fez.jpg "Sastre en su taller de la medina de Fez. © Etheria Mag.")
+![taller de costura en la medina de fez](https://fotos.etheriamagazine.com/2021/03/sastre-zoco-fez.jpg "Sastre en su taller de la medina de Fez. © Etheria Mag.")
 
 ## Fez el-Jedid y el Palacio Real
 
@@ -136,7 +136,7 @@ zonas rurales, pero aún quedan un par de sinagogas y un cementerio judío. Otro
 que te gustará conocer son la plaza de los Alauites, el Palacio Real y el Museo Dar 
 el-Batha. 
 
-![puertas doradas del palacio real de fez](etheria-images/2021/03/puertas-palacio-real-fez.jpg "Unos turistas se hacen fotos en las puertas doradas del Palacio Real, en la plaza de los Alauites. © Etheria Magazine")
+![puertas doradas del palacio real de fez](https://fotos.etheriamagazine.com/2021/03/puertas-palacio-real-fez.jpg "Unos turistas se hacen fotos en las puertas doradas del Palacio Real, en la plaza de los Alauites. © Etheria Magazine")
 
 ### Plaza de los Alauites y Palacio Real
 
@@ -153,7 +153,7 @@ de estilo hispano-árabe de finales del siglo XIX. En esta antigua residencia de
 Hasan I se exhiben ahora valiosas colecciones de arte y artesanía. Otros museos que te 
 pueden interesar son el Museo de Armas y el Museo de la Madera. 
 
-![ciudad romana volubilis en marruecos](etheria-images/2021/03/excursion-desde-fez-volubilis.jpg "Yacimiento de la ciudad romana de Volúbilis, una excursión idónea desde Fez. © Etheria Magazine")
+![ciudad romana volubilis en marruecos](https://fotos.etheriamagazine.com/2021/03/excursion-desde-fez-volubilis.jpg "Yacimiento de la ciudad romana de Volúbilis, una excursión idónea desde Fez. © Etheria Magazine")
 
 ## Excursiones desde Fez
 
@@ -172,7 +172,7 @@ la Humanidad** desde 1997, se han encontrado villas con mosaicos inspirados en l
 mitología clásica, termas, almazaras e, incluso, un prostíbulo. Este asentamiento 
 pertenecía a la provincia romana tingitana. 
 
-![hotel en ifrane de aspecto suizo](etheria-images/2021/03/hotel-ifrane-suiza-marruecos.jpg "Hotel en Ifrane, la Suiza de Marruecos. © Etheria Magazine")
+![hotel en ifrane de aspecto suizo](https://fotos.etheriamagazine.com/2021/03/hotel-ifrane-suiza-marruecos.jpg "Hotel en Ifrane, la Suiza de Marruecos. © Etheria Magazine")
 
 ### Ifrane, la Suiza marroquí
 
@@ -191,7 +191,7 @@ restaurantes y hoteles, y ¿qué más hay que lo asemeja con Suiza? Sí, una est
 esquí. El ambiente de Ifrane denota un alto poder adquisitivo y, de hecho, entre las 
 grandes avenidas y jardines, tiene el rey marroquí una residencia de caza. 
 
-![vendedor naranjas en zoco de fez](etheria-images/2021/03/medina-fez-vendedor-naranjas.jpg "Vendedor de naranjas y zumos en la medina de Fez. © Etheria Mag.")
+![vendedor naranjas en zoco de fez](https://fotos.etheriamagazine.com/2021/03/medina-fez-vendedor-naranjas.jpg "Vendedor de naranjas y zumos en la medina de Fez. © Etheria Mag.")
 
 ### CONSULTAS DE LOS LECTORES
 

@@ -1,7 +1,7 @@
 ---
 title: "Cuota de género en Hollywood: el Paseo de la Fama con otros ojos"
 date: 2018-09-04
-coverImage: etheria-images/2018/08/viaje-los-angeles-Paseo-de-la-Fama-de-Hollywood-etheria.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/08/viaje-los-angeles-Paseo-de-la-Fama-de-Hollywood-etheria.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -16,7 +16,7 @@ de la Fama de Hollywood, 3 mujeres y 5 hombres, hace más de sesenta años. Para
 damos detalles de cómo está la cuota de género en Hollywood a través de las baldosas de 
 su Paseo de la Fama. 
 
-![estrellas en el paseo de la fama en hollywood](etheria-images/2018/08/viaje-los-angeles-Paseo-de-la-Fama-de-Hollywood-etheria-1024x630.jpg "El Paseo de la Fama es una de las visitas básicas en Los Ángeles.")
+![estrellas en el paseo de la fama en hollywood](https://fotos.etheriamagazine.com/2018/08/viaje-los-angeles-Paseo-de-la-Fama-de-Hollywood-etheria-1024x630.jpg "El Paseo de la Fama es una de las visitas básicas en Los Ángeles.")
 
 Las estadísticas indican que los turistas españoles que ya conocen **New York** y 
 planifican su segundo viaje a Estados Unidos eligen la **Costa Oeste**; y, sobre todo, 
@@ -33,7 +33,7 @@ Siempre es conveniente ir preparados culturalmente para cualquier viaje y dejo a
 algunas pinceladas ilustrativas para que nuestro particular recorrido por el Paseo de la 
 Fama hollywoodiense sea lo más ameno posible. 
 
-![placa this is where it all began paseo de la fama los angeles](etheria-images/2018/08/viaje-los-angeles-paseo-fama-placa-donde-todo-empezo-etheria-1024x639.jpg "Inscripción conmemorativa de las 8 primeras estrellas del Paseo de la Fama.")
+![placa this is where it all began paseo de la fama los angeles](https://fotos.etheriamagazine.com/2018/08/viaje-los-angeles-paseo-fama-placa-donde-todo-empezo-etheria-1024x639.jpg "Inscripción conmemorativa de las 8 primeras estrellas del Paseo de la Fama.")
 
 Todo empezó hace sesenta años cuando la Cámara de Comercio de Los Ángeles decidió que 
 los empresarios de la industria cinematográfica emplearan sus beneficios en publicidad 
@@ -60,7 +60,7 @@ pionera junto a dos actrices del cine mudo (Olive Borden y Louise Fazenda) y
 compartiendo honores con el guionista Edward Sedgwick; Ernest Torrence, el ‘malo’ del 
 cine mudo; y los actores Preston Foster, Ronald Colman y Burt Lancaster. 
 
-![Joanne Woodward pionera Paseo de la Fama los angeles](etheria-images/2018/08/Los-Angeles-paseo-fama-estrella-Joanne-Woodward-etheria-1024x382.jpg "Joanne Woodward, pionera del Paseo de la Fama, y su estrella en la actualidad.")
+![Joanne Woodward pionera Paseo de la Fama los angeles](https://fotos.etheriamagazine.com/2018/08/Los-Angeles-paseo-fama-estrella-Joanne-Woodward-etheria-1024x382.jpg "Joanne Woodward, pionera del Paseo de la Fama, y su estrella en la actualidad.")
 
 En la actualidad, a lo largo (y a lo ancho) del Hollywood Boulevard **hay más de 2.500 
 estrellas**. Así que puedes pasar una mañana muy divertida mirando al suelo y buscando 
@@ -69,7 +69,7 @@ preferido en la App [Hollywood Walk of
 Fame](https://play.google.com/store/apps/details?id=com.dmi.hollywood&hl=en_US) y seguir 
 la ruta marcada. 
 
-![turistas en el paseo de las estrellas](etheria-images/2018/08/viaje-etheria-magazine-Paseo-de-la-Fama-de-Hollywood-viaje-los-angeles-1024x337.jpg "(Izq.) Operarios colocando una estrella. (Dcha.) Los visitantes buscan su personaje favorito para el recuerdo.")
+![turistas en el paseo de las estrellas](https://fotos.etheriamagazine.com/2018/08/viaje-etheria-magazine-Paseo-de-la-Fama-de-Hollywood-viaje-los-angeles-1024x337.jpg "(Izq.) Operarios colocando una estrella. (Dcha.) Los visitantes buscan su personaje favorito para el recuerdo.")
 
 El Paseo de la Fama tiene muchas anécdotas: con solo 21 años, **Britney Spears** fue la 
 cantante más joven en recibir una estrella; **Yvonne de Carlo** posee dos estrellas, una 
@@ -102,7 +102,7 @@ actitud abierta le han convertido en una celebridad durante años" -¿?-, justif
 web los responsables del Paseo de la Fama, para quienes el 45º presidente de los Estados 
 Unidos "sigue siendo una celebridad por sus reiteradas apariciones en los medios”. 
 
-![paseo fama estrella donald trump destrozada](etheria-images/2018/08/los-angeles-paseo-fama-estrella-rota-Donald-Trump-26-julio-2018-1024x614.jpg "Así amaneció la estrella de Donald Trump el 26 de julio de 2018.")
+![paseo fama estrella donald trump destrozada](https://fotos.etheriamagazine.com/2018/08/los-angeles-paseo-fama-estrella-rota-Donald-Trump-26-julio-2018-1024x614.jpg "Así amaneció la estrella de Donald Trump el 26 de julio de 2018.")
 
 Pero, por segunda vez en tres años, **la estrella de Donald Trump ha sido destruida**. 
 La primera vez (2016) y el autor de la gamberrada afirmó que: “Mi intención era recaudar 

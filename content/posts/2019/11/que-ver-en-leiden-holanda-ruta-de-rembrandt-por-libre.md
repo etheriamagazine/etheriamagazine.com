@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Leiden, la cuna de Rembrandt"
 date: 2019-11-14
-coverImage: etheria-images/2019/11/viaje-Leiden-terrazas.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-Leiden-terrazas.jpg
 categories: 
   - viajes-48-horas
   - viajes-urbanos
@@ -15,7 +15,7 @@ desarrolló su carrera. No tuvo necesidad de viajar a ningún sitio. Fans y clie
 donde su estudio estuviera. Aquí hemos viajado nosotros también para contarte qué ver en 
 Leiden. 
 
-![paseo en bicicleta por Leiden](etheria-images/2019/11/que-ver-Leiden-900x611.jpg "Estampa otoñal de Leiden. ©Pedro Grifol")
+![paseo en bicicleta por Leiden](https://fotos.etheriamagazine.com/2019/11/que-ver-Leiden-900x611.jpg "Estampa otoñal de Leiden. ©Pedro Grifol")
 
 En 2019 se cumplieron **350 años de la muerte del gran pintor holandés** y su ciudad 
 natal, Leiden, estuvo muy activa conmemorando la efeméride, ofreciendo una excelente 
@@ -24,7 +24,7 @@ pinturas, 120 grabados y 20 dibujos** en torno a los primeros años de creación
 artista. Pero la figura de Rembrandt está presente siempre en la ciudad de Leiden tal y 
 como os vamos a contar en este artículo. 
 
-![cuadro 'Hombre en traje oriental' de Rembrandt](etheria-images/2019/11/Hombre-en-traje-oriental-900x601.jpg "El célebre cuadro 'Hombre en traje oriental' © Dirk van Egmond")
+![cuadro 'Hombre en traje oriental' de Rembrandt](https://fotos.etheriamagazine.com/2019/11/Hombre-en-traje-oriental-900x601.jpg "El célebre cuadro 'Hombre en traje oriental' © Dirk van Egmond")
 
 ## Tras los pasos del joven Rembrandt
 
@@ -36,7 +36,7 @@ Ahora, una placa conmemorativa recuerda el lugar donde se encontraba la casa, y 
 lugar hay un conjunto escultórico que homenajea al pintor realizado en madera por el 
 artista alemán Stephan Balkenhol. 
 
-![casa leiden rembrandt](etheria-images/2019/11/escultura-rembrandt-leiden-900x598.jpg "Escultura de Stephan Balkenhold en el lugar donde estaba la casa donde nació Rembrandt. © P.Grifol")
+![casa leiden rembrandt](https://fotos.etheriamagazine.com/2019/11/escultura-rembrandt-leiden-900x598.jpg "Escultura de Stephan Balkenhold en el lugar donde estaba la casa donde nació Rembrandt. © P.Grifol")
 
 Al otro lado de la calle podemos ver la réplica de un antiguo molino, **De Put**, que 
 nos remite al origen de propio Rembrandt, hijo y nieto de molineros. El entorno donde 
@@ -49,7 +49,7 @@ Y en otra ribera del río permanece uno de los edificios mejor conservados de en
 una residencia de ancianos). Su fachada de ladrillos, blanca y roja, tuvo que ser una 
 visión cotidiana para el Rembrandt adolescente porque vivía enfrente. 
 
-![Edificio Stadstimmerwerf](etheria-images/2019/11/viaje-leiden-edificio-Stadstimmerwerf-685x1024.jpg "Edificio Stadstimmerwerf. © P. Grifol")
+![Edificio Stadstimmerwerf](https://fotos.etheriamagazine.com/2019/11/viaje-leiden-edificio-Stadstimmerwerf-685x1024.jpg "Edificio Stadstimmerwerf. © P. Grifol")
 
 > Rembrandt se inscribió en la Universidad de Leiden –la más antigua de los Países Bajos– 
 > a la edad de 14 años. Sin embargo, dejaría pronto sus estudios para poder dedicarse en 
@@ -68,7 +68,7 @@ En 1934 se casó con **Saskia van Uylenburgh**, despidiéndose de la etapa de ju
 haciéndose un _selfie_ tocado con gorra emplumada, en la que resaltaba la confianza que 
 tenía en su futuro como artista plástico. Soberbio artista y soberbio cuadro. 
 
-![estudio rembrandt en Leiden](etheria-images/2019/11/viaje-leiden-Young-Rembrandt-Studio-900x598.jpg "Estudio del joven Rembrandt. © P. Grifol")
+![estudio rembrandt en Leiden](https://fotos.etheriamagazine.com/2019/11/viaje-leiden-Young-Rembrandt-Studio-900x598.jpg "Estudio del joven Rembrandt. © P. Grifol")
 
 ## Qué más ver en Leiden
 
@@ -78,7 +78,7 @@ es el único molino de toda Holanda donde aun vive gente. Su situación, junto a
 ajardinada plaza, lo convierte en uno de los lugares más visitados y fotografiados de la 
 ciudad. Su puede visitar el interior con cita previa. 
 
-![molino valk, viaje leiden](etheria-images/2019/11/viaje-leiden-molino-de-Valk-900x587.jpg "Calle de Nieuwe Beestin con el molino de Valk al fondo. © P.Grifol")
+![molino valk, viaje leiden](https://fotos.etheriamagazine.com/2019/11/viaje-leiden-molino-de-Valk-900x587.jpg "Calle de Nieuwe Beestin con el molino de Valk al fondo. © P.Grifol")
 
 Quinientos años han pasado desde que el primer tulipán fuese introducido en Leiden. A lo 
 largo de todos estos años **el jardín botánico más antiguo de Holanda** –[Hortus 
@@ -87,7 +87,7 @@ Botanicus](http://hortusleiden.nl)– homenajea a su fundador, el botánico Caro
 _hortus_ ha seguido atesorando plantas, árboles y especies raras. Merece una visita el 
 invernadero del siglo XVII, el primero que se construyó en todo el país. 
 
-![Hortus Botanicus de Leiden](etheria-images/2019/11/viaje-leiden-hortus-botanicus-900x601.jpg "Hortus Botanicus. © P.Grifol")
+![Hortus Botanicus de Leiden](https://fotos.etheriamagazine.com/2019/11/viaje-leiden-hortus-botanicus-900x601.jpg "Hortus Botanicus. © P.Grifol")
 
 A orillas del Rapenburg, su canal principal, puedes encontrar los principales museos de 
 la ciudad: el **Museo Nacional de Antigüedades**; el [Museo 
@@ -101,7 +101,7 @@ Un breve vistazo a la **iglesia gótica de St. Pieterskerk**, que también tuvo 
 determinante para Rembrandt, ya que aquí se casaron sus padres; aquí permanecen 
 enterrados y aquí fue **bautizado el propio Rembrandt**. 
 
-![Doelenpoort, Groenhazengracht y 'la casa rosa'.](etheria-images/2019/11/viaje-leiden-doelenpoort-groenhazengracht-casa-rosa-900x596.jpg "Doelenpoort, Groenhazengracht y 'la casa rosa'. © P. Grifol")
+![Doelenpoort, Groenhazengracht y 'la casa rosa'.](https://fotos.etheriamagazine.com/2019/11/viaje-leiden-doelenpoort-groenhazengracht-casa-rosa-900x596.jpg "Doelenpoort, Groenhazengracht y 'la casa rosa'. © P. Grifol")
 
 ### Inspiración para 'Ronda de noche'
 
@@ -115,7 +115,7 @@ edificio rosa (repintado como una casa de muñecas) en el canal Groenhazen­grac
 la sazón, era el nombre de una famosa prostituta. Detalles que tiene la historia de las 
 ciudades vividas. 
 
-![terrazas rio leiden](etheria-images/2019/11/viaje-Leiden-terrazas-900x571.jpg "Terrazas junto al río en Leiden. © P. Grifol")
+![terrazas rio leiden](https://fotos.etheriamagazine.com/2019/11/viaje-Leiden-terrazas-900x571.jpg "Terrazas junto al río en Leiden. © P. Grifol")
 
 ## El momento de la cerveza y las croquetas
 
@@ -131,7 +131,7 @@ cubierta donde hay casi de todo… incluido las gigantescas ‘bitterballen’, 
 croquetas holandesas. Y también, por si te acuerdas de tu pueblo, puedes ir a **La 
 Plancha**, un restaurante español donde comerás como en casa. 
 
-![croquetas holandesas, puente sobre rin leiden](etheria-images/2019/11/croquetas-puente-rin-holanda-900x442.jpg "Croquetas holandesas y puente sobre el Rin en Leiden. © P.Grifol")
+![croquetas holandesas, puente sobre rin leiden](https://fotos.etheriamagazine.com/2019/11/croquetas-puente-rin-holanda-900x442.jpg "Croquetas holandesas y puente sobre el Rin en Leiden. © P.Grifol")
 
 ## No te pierdas: experiencia Corpus
 
@@ -146,7 +146,7 @@ consigue crear la ilusión de viajar por un cuerpo de verdad. Muy interesante. S
 web advierte que es necesario reservar como mínimo con un mes de antelación. Otra opción 
 de este tipo, pero en Ámsterdam, es el Museo Nemo. 
 
-![museo corpus en leiden](etheria-images/2019/11/viaje-leiden-museo-corpus-900x634.jpg "Corpus. © P.Grifol")
+![museo corpus en leiden](https://fotos.etheriamagazine.com/2019/11/viaje-leiden-museo-corpus-900x634.jpg "Corpus. © P.Grifol")
 
 ## Guía práctica de Leiden
 
@@ -159,7 +159,7 @@ Leiden está a 40 kilómetros de Ámsterdam y está conectada por tren cada medi
 El **Boutique Hotel Rembrandt**, tiene vistas al molino de Valk y está cerca de todo. 
 También está cerca de la estación de tren. Buen sitio. 
 
-![Hotel Boutique Rembrandt](etheria-images/2019/11/Hotel-Boutique-Rembrandt-en-Nieuwe-Beestin-Mart-900x598.jpg "Hotel Boutique Rembrandt en Nieuwe Beestin Mart. © P. Grifol")
+![Hotel Boutique Rembrandt](https://fotos.etheriamagazine.com/2019/11/Hotel-Boutique-Rembrandt-en-Nieuwe-Beestin-Mart-900x598.jpg "Hotel Boutique Rembrandt en Nieuwe Beestin Mart. © P. Grifol")
 
 ### Más información
 

@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tienen en común Howard Carter, el duque de Alba y Javier Sierra?"
 date: 2022-12-22
-coverImage: etheria-images/2022/12/exposicion-tutankmon-liria-cartel.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/exposicion-tutankmon-liria-cartel.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -15,7 +15,7 @@ desde un punto de vista diferente y a través de dos vías que lo harán muy ent
 una audioserie de Javier Sierra y una exposición con el duque de Alba como protagonista. 
 Y ya veréis cómo estas tres personas tienen mucho más en común de lo que pensáis. 
 
-![duque de Alba en Egipto y conferencia en madrid sobre tutankamon en 1924](etheria-images/2022/12/Duque-alba-egipto-conferencia.jpg "El XVII Duque de Alba con su hija Cayetana en Egipto y Conferencia de Howard Carter en la Residencia de Estudiantes. © Fundación Casa de Alba.")
+![duque de Alba en Egipto y conferencia en madrid sobre tutankamon en 1924](https://fotos.etheriamagazine.com/2022/12/Duque-alba-egipto-conferencia.jpg "El XVII Duque de Alba con su hija Cayetana en Egipto y Conferencia de Howard Carter en la Residencia de Estudiantes. © Fundación Casa de Alba.")
 
 En primer lugar, vamos a situar a estos tres protagonistas a los que hacemos referencia. 
 **Howard Carter** necesita pocas presentaciones. Su hallazgo de la tumba de Tutankhamon 
@@ -43,7 +43,7 @@ Madrid formó parte de esa gira, en noviembre de 1924, gracias a las gestiones d
 de Alba que ya había visitado Egipto de la mano de lord Carnarvon y que era el 
 presidente del Comité Hispano-Inglés, la institución que las organizó. 
 
-![](etheria-images/2022/12/Portada-Carter-Madrid-La-Esfera.jpg "Howard Carter y el duque de Alba. © Fundación Casa de Alba.")
+![](https://fotos.etheriamagazine.com/2022/12/Portada-Carter-Madrid-La-Esfera.jpg "Howard Carter y el duque de Alba. © Fundación Casa de Alba.")
 
 Carter se alojó en el **Palacio de Liria**, estableciendo una relación de amistad con el 
 duque que mantuvieron a través de sucesivas cartas. Las conferencias tuvieron un gran 
@@ -62,7 +62,7 @@ desarrollo de la excavación. Además de su gestión en la celebración de las c
 Jacobo Fitz-James Stuart acercó a Carter al rey Alfonso XIII para impulsar la obtención 
 de fondos cuando el proyecto se encontraba parado. 
 
-![maletas del duque de alba y sala del Palacio de Liria](etheria-images/2022/12/exposicion-tutankamon-liria-salas.jpg "Detalles de la exposición sobre Tutankamón en el Palacio de Liria. © SG")
+![maletas del duque de alba y sala del Palacio de Liria](https://fotos.etheriamagazine.com/2022/12/exposicion-tutankamon-liria-salas.jpg "Detalles de la exposición sobre Tutankamón en el Palacio de Liria. © SG")
 
 En el marco del Palacio de Liria, una auténtica joya en cuanto a arquitectura y 
 patrimonio artístico, se ha instalado esta exposición que, a través de seis bloques 
@@ -85,7 +85,7 @@ tiempo de ocio y también del que dedicamos a informarnos y formarnos. Así que 
 a la atractiva historia del Antiguo Egipto a través de una audioserie es una propuesta 
 de lo más interesante. 
 
-![javier sierra presentación tutankamon](etheria-images/2022/12/javier-sierra-presentacion-audioserie.jpg "Javier Sierra presentado su audioserie en la exposición del Palacio de Liria.")
+![javier sierra presentación tutankamon](https://fotos.etheriamagazine.com/2022/12/javier-sierra-presentacion-audioserie.jpg "Javier Sierra presentado su audioserie en la exposición del Palacio de Liria.")
 
 En **“El regreso de Tutankamón”** Javier Sierra construye una ficción narrada en primera 
 persona a través del actor y director de doblaje Claudio Serrano. Tiene lugar en 

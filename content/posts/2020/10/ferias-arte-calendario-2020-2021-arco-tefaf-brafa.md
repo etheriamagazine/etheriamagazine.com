@@ -1,7 +1,7 @@
 ---
 title: "Ferias de arte en tiempos de pandemia, adaptarse o morir"
 date: 2020-10-29
-coverImage: etheria-images/2020/10/feria-arte-arco-madrid-2020-expositores.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-2020-expositores.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Las ferias de arte también han visto modificados, debido a la pandemia, su proceso de exhibición y venta. Algunas ya han sustituido los eventos físicos por otros virtuales, evitando así los viajes de los coleccionistas. Hacemos un repaso de las tres principales ferias de arte del mundo, cómo se han adaptado y cuál es su nuevo calendario para 2020 y 2021.
 
-![feria de arte arco de madrid](etheria-images/2020/10/feria-arte-arco-madrid-galerias-obras.jpg "ARCOMadrid, Feria de Arte Contemporáneo. © Pedro Grifol")
+![feria de arte arco de madrid](https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-galerias-obras.jpg "ARCOMadrid, Feria de Arte Contemporáneo. © Pedro Grifol")
 
 Dada la incertidumbre causada por la pandemia COVID, las ferias de arte también se han 
 visto afectadas. Esta crisis, que ha interrumpido nuestros hábitos, nuestra vida y 
@@ -27,7 +27,7 @@ formato virtual ¡no es lo mismo que al natural!
 > nuestra imaginación. Pero el arte sigue, los diletantes del arte siguen y las ventas 
 > deberían seguir también. El tiempo establecerá (como siempre) su decisión. 
 
-![arbol de hierro del artista Ai Weiwei](etheria-images/2020/10/feria-arte-tefaf-arbol-de-hierro-de-Ai-Weiwei.jpg "Árbol de hierro de Ai Weiwei. Feria de arte TEFAF.")
+![arbol de hierro del artista Ai Weiwei](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-arbol-de-hierro-de-Ai-Weiwei.jpg "Árbol de hierro de Ai Weiwei. Feria de arte TEFAF.")
 
 ## Cómo se reorganizan las ferias. Arte presencial versus arte virtual
 
@@ -42,7 +42,7 @@ lugar a mediados de marzo en la ciudad de Maastricht (Países Bajos), la próxim
 se celebrará como feria presencial del **31 de mayo al 6 de junio de 2021**, con dos 
 jornadas de preinauguración el 29 y el 30 de mayo de 2021. 
 
-![demo half-chair de sam maloof en la feria tefaf](etheria-images/2020/10/feria-arte-tefaf-Demo-Half-chair-de-Sam-Maloof-683x1024.jpg "Obra: Demo Half-chair de Sam Maloof. Feria TEFAF.")
+![demo half-chair de sam maloof en la feria tefaf](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-Demo-Half-chair-de-Sam-Maloof-683x1024.jpg "Obra: Demo Half-chair de Sam Maloof. Feria TEFAF.")
 
 A principios de 2016 la TEFAF inauguró su versión neoyorkina para acoger dos ferias de 
 arte anuales en el Park Avenue Armory: **TEFAF New York Fall** y **TEFAF New York 
@@ -52,7 +52,7 @@ extendiéndose por la primera y la segunda planta de los salones de época del A
 instaurando así una feria de una profundidad y un impacto sin precedentes en la ciudad 
 de Nueva York. 
 
-![Lucas Cranach El Viejo en feria tefaf](etheria-images/2020/10/feria-arte-tefaf-Lucas-Cranach-El-Viejo-661x1024.jpg "Obra de Lucas Cranach El Viejo. Feria TEFAF")
+![Lucas Cranach El Viejo en feria tefaf](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-Lucas-Cranach-El-Viejo-661x1024.jpg "Obra de Lucas Cranach El Viejo. Feria TEFAF")
 
 Este año, todo ha cambiado; la edición de [TEFAF New York se celebrará 
 online](https://www.tefaf.com/) durante los días del 1 al 4 de noviembre de 2020. Los 
@@ -69,14 +69,14 @@ desde un histórico cuadro de Lucas Cranach El Viejo, hasta una escultura del ar
 disidente chino Ai Weiwei, pasando por una silla del diseñador Sam Maloof, una pieza 
 única de alta joyería de Hemmerle o una monumental cabeza egipcia de la XVIII dinastía. 
 
-![Fiesta Valenciana de Joaquin Sorolla en feria de arte tefaf](etheria-images/2020/10/feria-arte-tefaf-Fiesta-Valenciana-Joaquin-Sorolla.jpg "‘Fiesta Valenciana’ de Joaquín Sorolla. Feria TEFAF.")
+![Fiesta Valenciana de Joaquin Sorolla en feria de arte tefaf](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-Fiesta-Valenciana-Joaquin-Sorolla.jpg "‘Fiesta Valenciana’ de Joaquín Sorolla. Feria TEFAF.")
 
 Las seis obras presentadas por sendas **galerías españolas** son: _Fiesta Valenciana,_ 
 de Joaquín Sorolla (Galería López de Aragón). Un lienzo de grandes dimensiones que ha 
 pasado por las mejores colecciones españolas, como la de los March o la de la Banca 
 López Quesada, que sale a la venta por 2,6 millones de euros. 
 
-![Petit Arlequin a la flute de Pablo Gargallo en feria arte tefaf](etheria-images/2020/10/feria-arte-tefaf-Petit-Arlequin-a-la-flute-de-Pablo-Gargallo.jpg "‘Petit Arlequin à la flûte’ de Pablo Gargallo. Feria de arte TEFAF.")
+![Petit Arlequin a la flute de Pablo Gargallo en feria arte tefaf](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-Petit-Arlequin-a-la-flute-de-Pablo-Gargallo.jpg "‘Petit Arlequin à la flûte’ de Pablo Gargallo. Feria de arte TEFAF.")
 
 _Petit Arlequin à la flûte_ (1931) de Pablo Gargallo (Galería Artur Ramón Art); _Don 
 Juan López de Robredo, bordador de S. M. Carlos IV_ (Galería Caylus), _retrato_ 
@@ -92,7 +92,7 @@ noviembre de 2020
 [TEFAF Maastricht (presencial)](http://www.tefaf.com) . Del 31 de mayo al 6 de junio de 
 2021 
 
-![cuadro 64 de manolo millares en feria de arte tefaf](etheria-images/2020/10/feria-arte-tefaf-Cuadro-64-Manolo-Millares.jpg "‘Cuadro 64’ de Manolo Millares. Feria TEFAF.")
+![cuadro 64 de manolo millares en feria de arte tefaf](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-Cuadro-64-Manolo-Millares.jpg "‘Cuadro 64’ de Manolo Millares. Feria TEFAF.")
 
 ### La feria de arte de Bruselas
 
@@ -113,7 +113,7 @@ el evento a ellos. En la práctica, esto significa que cada galería participant
 invitada a presentar, en su propio espacio, la exposición de las obras que serán 
 seleccionadas para la BRAFA 2021. La condición es que deben respetar las mismas fechas. 
 
-![feria arco de madrid](etheria-images/2020/10/feria-arte-arco-madrid-2020.jpg "Visitante frente a una obra en ARCOMadrid. © Pedro Grifol")
+![feria arco de madrid](https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-2020.jpg "Visitante frente a una obra en ARCOMadrid. © Pedro Grifol")
 
 Las exhibiciones de cada galería se desarrollarán **desde el miércoles 27 hasta el 
 domingo 31 de enero de 2021,** es decir, las fechas en las que estaba previsto 
@@ -132,7 +132,7 @@ in the galleries!_ tendrá lugar en diversos lugares: Bruselas, París, Londres,
 [BRAFA @ HOME… IN THE GALLERIES!](https://www.brafa.art/en) Desde el miércoles 27 hasta 
 el domingo 31 de enero de 2021. 
 
-![expositores feria arco de madrid](etheria-images/2020/10/feria-arte-arco-madrid-vista.jpg "Expositores en la feria de arte ARCO de Madrid. © Pedro Grifol")
+![expositores feria arco de madrid](https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-vista.jpg "Expositores en la feria de arte ARCO de Madrid. © Pedro Grifol")
 
 ### La madrileña feria de arte ARCO
 
@@ -146,7 +146,7 @@ garantías de éxito comercial para las galerías participantes en unas fechas e
 con ello el encuentro directo con galerías, coleccionistas y profesionales de todo el 
 mundo. 
 
-![visitante feria arco de madrid](etheria-images/2020/10/feria-arte-arco-madrid-2020-expositores-765x1024.jpg "Visitante en ARCOMadrid, la mayor Feria de Arte Contemporáneo de España. © Pedro Grifol")
+![visitante feria arco de madrid](https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-2020-expositores-765x1024.jpg "Visitante en ARCOMadrid, la mayor Feria de Arte Contemporáneo de España. © Pedro Grifol")
 
 En esta decisión ha tenido un peso especial la celebración del **40ª Aniversario de la 
 Feria**, una edición que se está proyectando de forma especial con un programa de amplia 

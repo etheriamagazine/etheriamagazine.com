@@ -1,7 +1,7 @@
 ---
 title: "Encuentro de Mujeres Viajeras en Madrid, experiencias que cambian la vida"
 date: 2024-03-08
-coverImage: etheria-images/2024/03/angela-zapwe-emprendedora.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/03/angela-zapwe-emprendedora.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -17,7 +17,7 @@ femenino en el mundo. El apoyo a microproyectos de países del Sur Global por
 cooperativas de finanzas éticas como Oikocredit son fundamentales en estos casos. ¡No te 
 lo puedes perder! 
 
-![Ángela Kabwe, de Zambia.](etheria-images/2024/03/encuentro-mujeres-viajeras-Angela-Zapwe.jpg "Ángela Kabwe, de Zambia.")
+![Ángela Kabwe, de Zambia.](https://fotos.etheriamagazine.com/2024/03/encuentro-mujeres-viajeras-Angela-Zapwe.jpg "Ángela Kabwe, de Zambia.")
 
 Viajar cambia la vida de las personas. No sólo la enriquece llenando la mochila de 
 nuevas experiencias sino que contribuye a generar riqueza al apoyar los emprendimientos 
@@ -33,7 +33,7 @@ Norte para que alcancen metas básicas como el acceso a la educación y a la san
 igualdad de género y la posibilidad de desarrollar un trabajo digno. Se podría decir que 
 esta es la base para restablecer el equilibrio mundial. 
 
-![Siti Fatimah, de Indonesia.](etheria-images/2024/03/encuentro-mujeres-viajeras-Fatimah.jpg "Siti Fatimah, de Indonesia.")
+![Siti Fatimah, de Indonesia.](https://fotos.etheriamagazine.com/2024/03/encuentro-mujeres-viajeras-Fatimah.jpg "Siti Fatimah, de Indonesia.")
 
 ## Mujeres emprendedoras en el Sur Global
 
@@ -52,7 +52,7 @@ mochilas a las que su vecina añade una estampación no ha podido tener mejor ac
 Esto no hubiese sido posible sin el préstamo para comprar una máquina de Esta Dana 
 Ventura, una entidad asociada con Oikocredit. 
 
-![Cielo Bernal, de Paraguay.](etheria-images/2024/03/encuentro-mujeres-viajeras-Cielo-Bernal.jpg "Cielo Bernal, de Paraguay.")
+![Cielo Bernal, de Paraguay.](https://fotos.etheriamagazine.com/2024/03/encuentro-mujeres-viajeras-Cielo-Bernal.jpg "Cielo Bernal, de Paraguay.")
 
 El caso de **Cielo Bernal**, en Paraguay, también es digno de admiración ya que, con un 
 pequeño préstamo de la Fundación Paraguaya, también asociada con Oikocredit, dio el 
@@ -67,7 +67,7 @@ labor de apoyo de la red asociada a Oikocredit, que traslada su concepto de fina
 éticas a más de 70 países y cuyos microcréditos hacen posible el acceso a un futuro 
 mejor. 
 
-![Rose Serrano, ponente del Encuentro de Mujeres Viajeras en Madrid.](etheria-images/2024/03/rose-serrano-oiko-credit.jpg "Rose Serrano, ponente del Encuentro de Mujeres Viajeras en Madrid.")
+![Rose Serrano, ponente del Encuentro de Mujeres Viajeras en Madrid.](https://fotos.etheriamagazine.com/2024/03/rose-serrano-oiko-credit.jpg "Rose Serrano, ponente del Encuentro de Mujeres Viajeras en Madrid.")
 
 ## Encuentro de Mujeres Viajeras: ‘De ruta por los países del Sur Global’
 
@@ -92,7 +92,7 @@ cooperativas financiadas por Oikocredit**. El público, además, tendrá la opor
 interactuar con las participantes en un pequeño debate posterior con el que se cerrará 
 el acto. 
 
-![Mónica Cossio compartirá sus experiencias en el Encuentro de Mujeres Viajeras de Madrid.](etheria-images/2024/03/monica-cossio-mujeres-viajeras.jpg "Mónica Cossio compartirá sus experiencias en el Encuentro de Mujeres Viajeras de Madrid.")
+![Mónica Cossio compartirá sus experiencias en el Encuentro de Mujeres Viajeras de Madrid.](https://fotos.etheriamagazine.com/2024/03/monica-cossio-mujeres-viajeras.jpg "Mónica Cossio compartirá sus experiencias en el Encuentro de Mujeres Viajeras de Madrid.")
 
 Para asistir a este emocionante encuentro, sólo tienes que **registrarte online** en el 
 enlace inferior. La **entrada es gratuita** y promete ser una jornada inolvidable en la 
@@ -114,7 +114,7 @@ Barcelona, que tendrá lugar en octubre, estate atenta a otras jornadas similare
 realizarán esta primavera de 2024: el 17 de mayo en Barcelona, y el 24 del mismo mes en 
 Valencia. 
 
-![María Grau, participante del Encuentro de Mujeres Viajeras.](etheria-images/2024/03/maria-grau-mujeres-viajeras-850x572.jpg "María Grau, participante del Encuentro de Mujeres Viajeras.")
+![María Grau, participante del Encuentro de Mujeres Viajeras.](https://fotos.etheriamagazine.com/2024/03/maria-grau-mujeres-viajeras-850x572.jpg "María Grau, participante del Encuentro de Mujeres Viajeras.")
 
 ## Oikocredit, finanzas éticas para lograr un mundo más equitativo
 

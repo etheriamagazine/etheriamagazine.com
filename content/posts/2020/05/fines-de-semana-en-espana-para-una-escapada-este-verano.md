@@ -1,7 +1,7 @@
 ---
 title: "8 fines de semana en España para una escapada este verano"
 date: 2020-05-14
-coverImage: etheria-images/2020/03/viaje-bizkaia-ver-ballenas.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-bizkaia-ver-ballenas.jpg
 categories: 
   - viajes-48-horas
   - de-un-vistazo
@@ -13,7 +13,7 @@ authors:
 
 En verano una excelente alternativa para ir anticipando las vacaciones son las escapadas de fin de semana. Aquí te proponemos 8 lugares en España donde podrás desconectar en un par de días. ¡Date un capricho!
 
-![Barcos en Bermejo](etheria-images/2020/03/viaje-bizkaia-ver-ballenas-900x600.jpg "Puerto de Bermeo.")
+![Barcos en Bermejo](https://fotos.etheriamagazine.com/2020/03/viaje-bizkaia-ver-ballenas-900x600.jpg "Puerto de Bermeo.")
 
 En España gozamos de veranos largos, donde el buen tiempo abarca muchos meses que se 
 traducen un montón de fines de semana perfectos para escaparse a descansar mientras 
@@ -37,7 +37,7 @@ continuar con el aperitivo hasta el atardecer.
 ? [Almería, una capital mucho más guapa de lo que 
 piensas](https://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/). 
 
-![Palmeras en la plaza de la catedral de Almería](etheria-images/2020/01/Almeria-Plaza-Catedral-900x607.jpg "Plaza de la Catedral de Almería. © P.G.")
+![Palmeras en la plaza de la catedral de Almería](https://fotos.etheriamagazine.com/2020/01/Almeria-Plaza-Catedral-900x607.jpg "Plaza de la Catedral de Almería. © P.G.")
 
 ### 2\. Cantabria
 
@@ -49,7 +49,7 @@ tarde de relax en un balneario?
 ? [5 experiencias en Cantabria para un fin de semanas con 
 amigas](https://etheriamagazine.com/2020/02/17/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas/). 
 
-![taller sobaos joselin](etheria-images/2020/02/taller-sobaos-joselin-900x435.jpg "Taller de sobaos en Joselín (Cantabria). © PG")
+![taller sobaos joselin](https://fotos.etheriamagazine.com/2020/02/taller-sobaos-joselin-900x435.jpg "Taller de sobaos en Joselín (Cantabria). © PG")
 
 ### 3\. Teruel
 
@@ -62,7 +62,7 @@ la sede del Centro de Estudios de Física del Cosmos.
 ? [48 horas en Teruel, ciudad de arte y 
 gastronomía](https://etheriamagazine.com/2020/02/10/viajes-romanticos-que-ver-donde-comer-teruel/). 
 
-![Escalinata mudéjar en Teruel](etheria-images/2020/01/Teruel-escalinata-900x600.jpg "Escalinata neomudéjar de Teruel.")
+![Escalinata mudéjar en Teruel](https://fotos.etheriamagazine.com/2020/01/Teruel-escalinata-900x600.jpg "Escalinata neomudéjar de Teruel.")
 
 ### 4\. Golfo de Bizkaia
 
@@ -76,7 +76,7 @@ animada ciudad marinera de Bermeo, una excelente lugar para tomar unos pintxos.
 ? [Avistar cetáceos en la costa vasca, una experiencia 
 inolvidable](https://etheriamagazine.com/2020/04/20/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco/). 
 
-![Delfines en el golfo de Vizcaya](etheria-images/2020/03/viaje-mujeres-bizkaia-ver-delfines-900x576.jpg "Cetáceos en el golfo de Bizkaia.")
+![Delfines en el golfo de Vizcaya](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines-900x576.jpg "Cetáceos en el golfo de Bizkaia.")
 
 ### 5\. El Bierzo
 
@@ -89,7 +89,7 @@ todos los servicios necesarios para disfrutar de la naturaleza que le rodea.
 ? [De la memoria minera de Torre del Bierzo al ‘milagro’ de San 
 Facundo](https://etheriamagazine.com/2020/01/27/turismo-rural-leon-torre-del-bierzo-y-san-facundo/). 
 
-![san facundo entre montañas](etheria-images/2020/01/Leon-pueblo-San-Facundo-900x600.jpg "San Facundo, el pueblo más bonito de León. © Pedro Grifol")
+![san facundo entre montañas](https://fotos.etheriamagazine.com/2020/01/Leon-pueblo-San-Facundo-900x600.jpg "San Facundo, el pueblo más bonito de León. © Pedro Grifol")
 
 ### 6\. Ruta del vino de Cigales
 
@@ -103,7 +103,7 @@ chocolate.
 ? [Ruta del vino de Cigales, 10 razones para brindar como los Reyes 
 Católicos](https://etheriamagazine.com/2020/01/07/viaje-con-amigas-ruta-del-vino-cigales/). 
 
-![Vino rosado de Cigales](etheria-images/2020/01/etheria-ruta-vino-cigales-portada-900x646.jpg "Brindemos por la Ruta del vino Cigales. © Kelu Robles")
+![Vino rosado de Cigales](https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-portada-900x646.jpg "Brindemos por la Ruta del vino Cigales. © Kelu Robles")
 
 ### 7\. Marina Alta: Dénia y Jávea
 
@@ -117,7 +117,7 @@ de la zona.
 ? [Planes en Dénia y Jávea para mujeres 
 sibaritas](https://etheriamagazine.com/2021/04/03/que-hacer-donde-comer-con-amigas-denia-javea/). 
 
-![Cala en la Marina Alta](etheria-images/2019/08/viaje-denia-javea-Cabo-de-la-fontana.jpg "Cabo de la Fontana. ©M.E.")
+![Cala en la Marina Alta](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-Cabo-de-la-fontana.jpg "Cabo de la Fontana. ©M.E.")
 
 ### 8\. Soria
 
@@ -130,7 +130,7 @@ encanto. ¿Se puede pedir más?
 ? [Ocho razones para visitar Soria con 
 amigas](https://etheriamagazine.com/2019/08/12/ocho-razones-para-viajar-a-soria-con-amigas/). 
 
-![Laguna Negra de Soria](etheria-images/2019/07/viaje-soria-laguna-negra.jpg "Laguna Negra (Soria).")
+![Laguna Negra de Soria](https://fotos.etheriamagazine.com/2019/07/viaje-soria-laguna-negra.jpg "Laguna Negra (Soria).")
 
 ## También te puede interesar:
 

@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Palma de Mallorca: compras, mercados y arte"
 date: 2019-08-01
-coverImage: etheria-images/2019/07/viaje-palma-compras-hamman.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-palma-compras-hamman.jpg
 categories: 
   - viajes-con-amigas
   - organiza-tu-viaje
@@ -13,7 +13,7 @@ En un viaje debe haber tiempo para todo: pasear, degustar la cocina local, conoc
 cultura y, también, para ir de compras. Entre estos planes en Palma, la capital de 
 Mallorca, te sorprenderá su variedad. 
 
-![Catedral de Palma de Mallorca.](etheria-images/2019/07/palma-mallorca.jpg "Catedral de Palma. © Toa Heftiba")
+![Catedral de Palma de Mallorca.](https://fotos.etheriamagazine.com/2019/07/palma-mallorca.jpg "Catedral de Palma. © Toa Heftiba")
 
 Cuando viajas a islas como Mallorca, con una amplia oferta turística, es aconsejable 
 planificar cuidadosamente cada jornada. Si te organizas bien, tendrás tiempo de conocer 
@@ -34,7 +34,7 @@ por algunas de las calles y barrios fundamentales para **un día de compras en P
 ❤️ No te pierdas: [8 planazos con amigas en 
 Palma](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palma-mallorca-con-amigas/). 
 
-![Interior de la tienda Rialto Living, en Palma.](etheria-images/2019/07/compras-palma-rialto.jpg "© Rialto Living, en Palma.")
+![Interior de la tienda Rialto Living, en Palma.](https://fotos.etheriamagazine.com/2019/07/compras-palma-rialto.jpg "© Rialto Living, en Palma.")
 
 ### Grandes marcas en el paseo del Borne
 
@@ -44,7 +44,7 @@ puede comprar mobiliario y accesorios de alta gama en **Rialto Living**, **La Pe
 puedes acercarte a Louis Vuitton, Hugo Boss, Carolina Herrera o Mulberry, entre otros 
 muchos. 
 
-![Galería Kaplan, en Palma de Mallorca.](etheria-images/2019/07/viaje-palma-compras-kaplan.jpg "© Galería Kaplan.")
+![Galería Kaplan, en Palma de Mallorca.](https://fotos.etheriamagazine.com/2019/07/viaje-palma-compras-kaplan.jpg "© Galería Kaplan.")
 
 Dada la concentración de este tipo de boutiques, el paseo del Borne también se conoce 
 como “la calle de los diseñadores” o “la milla de oro de Palma”. Incluso tu mascota 
@@ -55,7 +55,7 @@ Antes de que el paseo del Borne alcanzase tanta fama, la zona favorita de compra
 **avenida Jaime III**, donde aún se localizan firmas de prestigio como **Cartier** y 
 **Lottusse**. 
 
-![](etheria-images/2019/07/viaje-palma-compras-tienda-palma-dog.jpg "© Palma Dog.")
+![](https://fotos.etheriamagazine.com/2019/07/viaje-palma-compras-tienda-palma-dog.jpg "© Palma Dog.")
 
 Toma nota también de la **calle Can Verí** donde no faltan galerías de arte y boutiques 
 de diseño de interiores como **Holger Stewen** o **Bondian**. En sus calles colindantes 
@@ -75,7 +75,7 @@ reconocerás por sus anchas escaleras), donde se localiza **Pasatiempos**, una t
 zapatillas deportivas abierta en 1984, jugueterías históricas como **La Industrial** y 
 tiendas gourmet con productos locales como **La Pajarita**. 
 
-![](etheria-images/2019/07/viaje-palma-compras-principal.jpg "© Juguetería La Industrial.")
+![](https://fotos.etheriamagazine.com/2019/07/viaje-palma-compras-principal.jpg "© Juguetería La Industrial.")
 
 ## Mercados de Palma
 
@@ -95,7 +95,7 @@ ubicado en pleno paseo marítimo de Palma. Está especializado en cocinas de tod
 mundo, desde comida mallorquina, tapas mediterráneas, carnes a la brasa y mariscos hasta 
 comida asiática, mejicana e italiana. 
 
-![mercado gastrononomico de palma, mercat 1930](etheria-images/2019/07/viaje-palma-mercat-1930.jpg "© Mercat 1930.")
+![mercado gastrononomico de palma, mercat 1930](https://fotos.etheriamagazine.com/2019/07/viaje-palma-mercat-1930.jpg "© Mercat 1930.")
 
 ## Planes de relax
 
@@ -105,7 +105,7 @@ las piernas y la espalda se resienten. Nuestra sugerencia es que antes de lanzar
 vivir la noche de Palma, dediques una hora a un tratamiento o a un masaje que te vuelta 
 a poner a punto. 
 
-![](etheria-images/2019/07/viaje-palma-compras-hamman.jpg "© Hamman Palma.")
+![](https://fotos.etheriamagazine.com/2019/07/viaje-palma-compras-hamman.jpg "© Hamman Palma.")
 
 En esta ciudad hay espacios tan interesantes como el **centro Pensa Calma** 
 (pensa-calma.com), donde ofrecen masajes japoneses Kobido, un tipo de masajes con el que 

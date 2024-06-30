@@ -1,7 +1,7 @@
 ---
 title: "Conoce las 15 mejores playas y calas de Conil"
 date: 2021-02-05
-coverImage: etheria-images/2021/01/cala-conil-frailecillo.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/cala-conil-frailecillo.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -16,7 +16,7 @@ mente visitar esta población, te interesa saber dónde se localizan y cómo lle
 las mismas. Ten en cuenta que algunas pueden ser una tabla de salvación cuando sopla el 
 viento de levante. 
 
-![cala el frailecillo de conil](etheria-images/2021/01/cala-conil-frailecillo.jpg "Cala El Frailecillo (Conil). © Etheria M.")
+![cala el frailecillo de conil](https://fotos.etheriamagazine.com/2021/01/cala-conil-frailecillo.jpg "Cala El Frailecillo (Conil). © Etheria M.")
 
 Este artículo versa sobre las playas y calas de Conil de la Frontera pero también de 
 rincones paradisiacos en la costa de Cádiz, y de aire. Sí, de aire, de un viento que se 
@@ -46,7 +46,7 @@ playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/).
 ✅ [10 Planes más que recomendables en 
 Conil.](https://etheriamagazine.com/2021/07/05/los-mejores-planes-en-conil-con-amigas/) 
 
-![calas de roche en conil](etheria-images/2021/01/playas-conil-ruta-faro.jpg "La costa más rocosa de Conil se sitúa en el entorno del faro. © Etheria M.")
+![calas de roche en conil](https://fotos.etheriamagazine.com/2021/01/playas-conil-ruta-faro.jpg "La costa más rocosa de Conil se sitúa en el entorno del faro. © Etheria M.")
 
 ## Playas de Conil, entre baños y chiringuitos
 
@@ -55,7 +55,7 @@ más grandes y también las más cercanas al núcleo urbano de Conil son Castiln
 Bateles, El Chorrillo-Fontanilla y El Roqueo. Todas ellas, además de ser excelentes, 
 cuentan con buenos restaurantes donde darse un homenaje después del baño. 
 
-![playa Castilnovo de Conil de la frontera](etheria-images/2021/01/playa-castilnovo-conil.jpg "Atardecer desde playa Castilnovo, con el pueblo al fondo. © Etheria M.")
+![playa Castilnovo de Conil de la frontera](https://fotos.etheriamagazine.com/2021/01/playa-castilnovo-conil.jpg "Atardecer desde playa Castilnovo, con el pueblo al fondo. © Etheria M.")
 
 ### Playa de Castilnovo y playa de los Bateles
 
@@ -77,7 +77,7 @@ de playa como de la opción de comer en alguno, de los muchos, restaurantes de l
 marítima. Algunos locales tradicionales son **El Pasaje**, **Restaurante Playa** y 
 **Fuguilla**. 
 
-![Playa del Roqueo, en Conil (Cádiz).](etheria-images/2021/01/playa-roqueo.jpg "Playa del Roqueo, en Conil (Cádiz). © Etheria M.")
+![Playa del Roqueo, en Conil (Cádiz).](https://fotos.etheriamagazine.com/2021/01/playa-roqueo.jpg "Playa del Roqueo, en Conil (Cádiz). © Etheria M.")
 
 ### Playa de la Fontanilla y playa del Roqueo
 
@@ -95,7 +95,7 @@ para desayunar, comer o cenar. Si prefieres una cocina más elaborada sólo hay 
 la rampa hasta llegar arriba del acantilado. Allí te esperan: **El Mirador del Roqueo** 
 (con vistas al mar) y **El Roqueo**, ambos son apuestas seguras. 
 
-![playa De la Fuente del gallo conil](etheria-images/2021/01/playa-fuente-del-gallo-conil.jpg "Playa Fuente del Gallo, con sus características 3 rocas al fondo. © Etheria M.")
+![playa De la Fuente del gallo conil](https://fotos.etheriamagazine.com/2021/01/playa-fuente-del-gallo-conil.jpg "Playa Fuente del Gallo, con sus características 3 rocas al fondo. © Etheria M.")
 
 ### Playa Fuente del Gallo
 
@@ -109,7 +109,7 @@ bajo el agua. ¿Solución? Controlar el estado de la marea o refugiarse en veran
 urbanización Fuente del Gallo también está el **restaurante El Marinero**, uno de los 
 clásicos conileños. 
 
-![cala del aceite de conil](etheria-images/2021/01/cala-del-aceite-playa-conil-851x1024.jpg "Cala del Aceite (Conil). © Etheria M.")
+![cala del aceite de conil](https://fotos.etheriamagazine.com/2021/01/cala-del-aceite-playa-conil-851x1024.jpg "Cala del Aceite (Conil). © Etheria M.")
 
 ## Las mejores calas de Conil cuando sopla viento de levante
 
@@ -138,7 +138,7 @@ preciosa de 250 metros de ancho, con aguas transparentes (verás las rocas del f
 una gran duna, vigilancia, alquiler de kayaks en verano, y con un chiringuito muy 
 recomendable. 
 
-![puerto de conil de la frontera](etheria-images/2021/01/puerto-conil-de-la-frontera.jpg "Puerto de Conil de la Frontera. © Etheria M.")
+![puerto de conil de la frontera](https://fotos.etheriamagazine.com/2021/01/puerto-conil-de-la-frontera.jpg "Puerto de Conil de la Frontera. © Etheria M.")
 
 ### El puerto y su pequeña cala
 
@@ -156,7 +156,7 @@ aparcamientos o apartaderos enfrente de senderos de madera que enlazan con las c
 Fíjate en la curiosa vegetación costera, los enebros, la jara, etc. que crece a ambos 
 lados de estos caminos. 
 
-![cala del tio juan medina conil de la frontera](etheria-images/2021/01/cala-tio-juan-medina.jpg "Cala del Tío Juan Medina (Conil). © Etheria M.")
+![cala del tio juan medina conil de la frontera](https://fotos.etheriamagazine.com/2021/01/cala-tio-juan-medina.jpg "Cala del Tío Juan Medina (Conil). © Etheria M.")
 
 ### Cala del Tío Juan Medina
 
@@ -167,7 +167,7 @@ para bajar. Dispone de bastante arena y es una de las mejores calas de Conil par
 un día de playa. Puedes llegar caminando desde el faro o bien dejar el coche en un 
 apartadero junto a la carretera y seguir el sendero que enlaza con la cala. 
 
-![cala el pato de conil de la frontera](etheria-images/2021/01/cala-pato-conil.jpg "Cala del Pato (Conil). © Etheria M.")
+![cala el pato de conil de la frontera](https://fotos.etheriamagazine.com/2021/01/cala-pato-conil.jpg "Cala del Pato (Conil). © Etheria M.")
 
 ### Cala del Pato
 
@@ -176,7 +176,7 @@ cómodo acceso por escaleras de piedra y bastante arena. En este caso, el sender
 enlaza el aparcamiento con la cala es un poco más largo que el anterior pero no se tarda 
 más de 5 minutos. 
 
-![cala el enebro en conil cadiz](etheria-images/2021/01/cala-enebro-playa-conil.jpg "Cala El Enebro (Conil de la Frontera). © Etheria M.")
+![cala el enebro en conil cadiz](https://fotos.etheriamagazine.com/2021/01/cala-enebro-playa-conil.jpg "Cala El Enebro (Conil de la Frontera). © Etheria M.")
 
 ### Cala El Enebro
 
@@ -184,7 +184,7 @@ Pequeña, con arena y acceso cómodo a través de escaleras de piedra. No dispon
 pasarela que enlace la carretera con la cala pero se puede utilizar el acceso de la cala 
 anterior si llegas en coche. 
 
-![cala el frailecillo conil de la frontera](etheria-images/2021/01/cala-el-frailecillo-roche-conil-900x675.jpg "Cala El Frailecillo (Conil de la Frontera). © Etheria M.")
+![cala el frailecillo conil de la frontera](https://fotos.etheriamagazine.com/2021/01/cala-el-frailecillo-roche-conil-900x675.jpg "Cala El Frailecillo (Conil de la Frontera). © Etheria M.")
 
 ### Cala El Frailecillo
 
@@ -195,7 +195,7 @@ civilización, esta playita no es tan frecuentada como se puede pensar. Es muy a
 para ser una cala, tiene un cómodo acceso por escalera y si llegas en coche puedes 
 dejarlo en la urbanización, ya que el acceso es libre. 
 
-![cala el aspero de conil de la frontera](etheria-images/2021/01/cala-el-aspero-conil-roche.jpg "Cala El Áspero, junto a urbanización de Roche, en Conil. © Etheria M.")
+![cala el aspero de conil de la frontera](https://fotos.etheriamagazine.com/2021/01/cala-el-aspero-conil-roche.jpg "Cala El Áspero, junto a urbanización de Roche, en Conil. © Etheria M.")
 
 ### Cala El Áspero
 
@@ -206,7 +206,7 @@ pero que resulta muy coqueta. Se accede por un camino de tierra que desemboca en
 pasarela de madera y el último tramo es de escalera. Aquí ya no hay altos acantilados 
 sino que la vegetación llega a pie de arena. 
 
-![cala encendida en conil de la frontera](etheria-images/2021/01/cala-encendida-roche-conil.jpg "Cala Encendida, en Roche (Conil de la Frontera). © Etheria M.")
+![cala encendida en conil de la frontera](https://fotos.etheriamagazine.com/2021/01/cala-encendida-roche-conil.jpg "Cala Encendida, en Roche (Conil de la Frontera). © Etheria M.")
 
 ### Cala Encendida
 
@@ -219,7 +219,7 @@ con bastante arena, y no hay problema si sube la marea. Para disfrutarla en sole
 se visita en temporada alta, es aconsejable llegar antes de las diez. Si quieres tomar 
 una buena panorámica desde arriba de la playa hay un mirador natural ideal para ello. 
 
-![playa roche y el puerco en conil de la frontera](etheria-images/2021/01/playa-roche-el-puerco.jpg "Acceso a las playas de Roche-El Puerco. © Etheria M.")
+![playa roche y el puerco en conil de la frontera](https://fotos.etheriamagazine.com/2021/01/playa-roche-el-puerco.jpg "Acceso a las playas de Roche-El Puerco. © Etheria M.")
 
 ### Playas de Roche y del Puerco
 
@@ -229,7 +229,7 @@ la Barrosa, y los complejos hoteleros de Sancti Petri, ya en Chiclana. Ambas pla
 disponen de todos los servicios que el bañista pueda necesitar. Al ser bastante amplias 
 rara vez estarán llenas o resultarán agobiantes. 
 
-![playa del puerco de conil](etheria-images/2021/01/playa-puerco-conil.jpg "Playa del Puerco, en Conil de la Frontera. © Etheria M.")
+![playa del puerco de conil](https://fotos.etheriamagazine.com/2021/01/playa-puerco-conil.jpg "Playa del Puerco, en Conil de la Frontera. © Etheria M.")
 
 ## Recomendaciones generales para las playas de Conil
 
@@ -247,7 +247,7 @@ en los contenedores, y mejor aún si te la llevas.
 SIGUE LEYENDO: [Dónde comer bien en Conil de la Frontera, bares y restaurantes 
 recomendados](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
 
-![playa fontanilla de conil](etheria-images/2021/01/conil-atardecer.jpg "Atardecer desde playa de la Fontanilla. © Etheria M.")
+![playa fontanilla de conil](https://fotos.etheriamagazine.com/2021/01/conil-atardecer.jpg "Atardecer desde playa de la Fontanilla. © Etheria M.")
 
 **También te puede interesar…** 
 

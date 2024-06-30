@@ -1,7 +1,7 @@
 ---
 title: "La isla de Gozo en 10 imágenes"
 date: 2018-05-17
-coverImage: etheria-images/2018/05/8-Viaje-a-Gozo-y-Malta-Viñedos.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/8-Viaje-a-Gozo-y-Malta-Viñedos.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -13,7 +13,7 @@ más que suficientes que justifican una visita. Ya sea como el destino principal
 viaje como si organizas una excursión de un día, te interesa ver cuáles son sus 
 principales atractivos. 
 
-![santuario ta pinu que ver en gozo](etheria-images/2018/05/iglesia-ta-pinu-gozo.jpg "Basílica del Santuario Nacional de la Santísima Virgen de Ta ‘Pinu. © Timofey Borozdin")
+![santuario ta pinu que ver en gozo](https://fotos.etheriamagazine.com/2018/05/iglesia-ta-pinu-gozo.jpg "Basílica del Santuario Nacional de la Santísima Virgen de Ta ‘Pinu. © Timofey Borozdin")
 
 Si decides convertir la isla de Gozo en tu gran viaje, reserva al menos tres o cuatro 
 días para disfrutar de la isla, de sus exponentes históricos, de la belleza del mar, de 
@@ -30,43 +30,43 @@ Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywoo
 
 ## 1\. Gruta de Calipso
 
-![Gruta de Calipso y playas](etheria-images/2018/05/1-Viaje-a-Gozo-y-Malta-Gruta-Calipso-1024x682.jpg "Gruta de Calipso y playas.")
+![Gruta de Calipso y playas](https://fotos.etheriamagazine.com/2018/05/1-Viaje-a-Gozo-y-Malta-Gruta-Calipso-1024x682.jpg "Gruta de Calipso y playas.")
 
 ## 2\. Templos prehistóricos de Ggantija
 
-![templos de Ggantija](etheria-images/2018/05/7-Viaje-a-Gozo-y-Malta-Ruinas-Ggantija-1024x682.jpg "Templos de Ggantija")
+![templos de Ggantija](https://fotos.etheriamagazine.com/2018/05/7-Viaje-a-Gozo-y-Malta-Ruinas-Ggantija-1024x682.jpg "Templos de Ggantija")
 
 ## 3\. Arte en sus templos
 
-![Catedral de Gozo.](etheria-images/2018/05/2-Viaje-a-Gozo-y-Malta-Iglesia-Victoria-1024x682.jpg "Catedral de Gozo.")
+![Catedral de Gozo.](https://fotos.etheriamagazine.com/2018/05/2-Viaje-a-Gozo-y-Malta-Iglesia-Victoria-1024x682.jpg "Catedral de Gozo.")
 
 ## 4\. Actividades náuticas
 
-![Ruta por las grutas costeras de Gozo.](etheria-images/2018/05/5-Viaje-a-Gozo-y-Malta-1024x682.jpg "Ruta por las grutas costeras de Gozo.")
+![Ruta por las grutas costeras de Gozo.](https://fotos.etheriamagazine.com/2018/05/5-Viaje-a-Gozo-y-Malta-1024x682.jpg "Ruta por las grutas costeras de Gozo.")
 
 ## 5\. Gastronomía local
 
-![Pescado a la brasa.](etheria-images/2018/05/10-Viaje-a-Gozo-y-Malta-Pescado-1024x682.jpg "Pescado a la brasa.")
+![Pescado a la brasa.](https://fotos.etheriamagazine.com/2018/05/10-Viaje-a-Gozo-y-Malta-Pescado-1024x682.jpg "Pescado a la brasa.")
 
 ## 6\. El histórico Café Jubilee
 
-![Café Jubilée, uno de los establecimientos históricos de Gozo.](etheria-images/2018/05/3-Viaje-a-Gozo-y-Malta-Cafe-Jubile-1024x682.jpg "Café Jubilée, uno de los establecimientos históricos de Gozo.")
+![Café Jubilée, uno de los establecimientos históricos de Gozo.](https://fotos.etheriamagazine.com/2018/05/3-Viaje-a-Gozo-y-Malta-Cafe-Jubile-1024x682.jpg "Café Jubilée, uno de los establecimientos históricos de Gozo.")
 
 ## 7\. Vida rural
 
-![Campos de cultivo de la isla de Gozo.](etheria-images/2018/05/8-Viaje-a-Gozo-y-Malta-Viñedos-1024x682.jpg "Campos de cultivo de la isla de Gozo.")
+![Campos de cultivo de la isla de Gozo.](https://fotos.etheriamagazine.com/2018/05/8-Viaje-a-Gozo-y-Malta-Viñedos-1024x682.jpg "Campos de cultivo de la isla de Gozo.")
 
 ## 8\. Victoria, una monumental capital
 
-![Muralla de Victoria, la capital de Gozo.](etheria-images/2018/05/4-Viaje-a-Gozo-y-Malta-Muralla-Ciutadella-691x1024.jpg "Muralla de Victoria, la capital de Gozo.")
+![Muralla de Victoria, la capital de Gozo.](https://fotos.etheriamagazine.com/2018/05/4-Viaje-a-Gozo-y-Malta-Muralla-Ciutadella-691x1024.jpg "Muralla de Victoria, la capital de Gozo.")
 
 ## 9\. Ecofarms reales
 
-![Pasta fresca realizad en una ecogranja de Gozo.](etheria-images/2018/05/6-Viaje-a-Gozo-y-Malta-Riccardo-1024x682.jpg "Pasta fresca realizad en una ecogranja de Gozo.")
+![Pasta fresca realizad en una ecogranja de Gozo.](https://fotos.etheriamagazine.com/2018/05/6-Viaje-a-Gozo-y-Malta-Riccardo-1024x682.jpg "Pasta fresca realizad en una ecogranja de Gozo.")
 
 ## 10\. Artesanía
 
-![Compras en la isla de Gozo.](etheria-images/2018/05/9-Viaje-a-Gozo-y-Malta-Compras-1024x682.jpg "Compras en la isla de Gozo.")
+![Compras en la isla de Gozo.](https://fotos.etheriamagazine.com/2018/05/9-Viaje-a-Gozo-y-Malta-Compras-1024x682.jpg "Compras en la isla de Gozo.")
 
 **Sigue leyendo cómo organizar y qué ver en Gozo...** 
 

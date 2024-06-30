@@ -1,7 +1,7 @@
 ---
 title: "Iratiko Kabiak, las cabañas en los árboles de la Selva de Irati"
 date: 2023-10-06
-coverImage: etheria-images/2023/10/cama-colgante-iratiko-kabiak.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/10/cama-colgante-iratiko-kabiak.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -15,7 +15,7 @@ un espacio inmenso y frondoso donde disfrutar del contacto directo con la natura
 uno de los campamentos base más idóneos para recorrer toda la zona es Iratiko Kabiak, el 
 mejor complejo de cabañas en los árboles de Navarra. No querrás marcharte. 
 
-![Cama en la terraza de la cabaña Irati.](etheria-images/2023/10/cama-terraza-cabana-arbol-navarra.jpg "Cama en la terraza de la cabaña Irati. © Pepa García/ Etheria Magazine")
+![Cama en la terraza de la cabaña Irati.](https://fotos.etheriamagazine.com/2023/10/cama-terraza-cabana-arbol-navarra.jpg "Cama en la terraza de la cabaña Irati. © Pepa García/ Etheria Magazine")
 
 Si tuviésemos que realizar un listado con los mayores atractivos naturales de Navarra, 
 seguro que la **Selva de Irati** estaría entre las primeras posiciones. Incluso podría 
@@ -27,7 +27,7 @@ energía positiva. Y existe. Desde hace unos meses es posible alojarse en una se
 cabañas en los árboles en Navarra, en el entorno de Irati. Su nombre es **Iratiko 
 Kabiak** y está situado en el municipio de **Orbaizeta.** 
 
-![Pasarela del complejo de cabañas en los árboles Iratiko Kabiak.](etheria-images/2023/10/iratiko-Kabiak.jpg "Pasarela del complejo de cabañas en los árboles Iratiko Kabiak.© P. G./ Etheria Magazine")
+![Pasarela del complejo de cabañas en los árboles Iratiko Kabiak.](https://fotos.etheriamagazine.com/2023/10/iratiko-Kabiak.jpg "Pasarela del complejo de cabañas en los árboles Iratiko Kabiak.© P. G./ Etheria Magazine")
 
 ## Cabañas en los árboles en Navarra
 
@@ -40,7 +40,7 @@ maleta hasta la misma puerta de la cabaña. Este sendero circular tiene una exte
 cuando cae la noche, con el pequeño farol que entregan a la llegada, sintiendo el sonido 
 que emerge del bosque es una experiencia inolvidable. 
 
-![Terraza de una cabaña del complejo.](etheria-images/2023/10/terraza-cabana-arbol-navarra.jpg "Terraza de una cabaña del complejo. © P.G./ Etheria Magazine")
+![Terraza de una cabaña del complejo.](https://fotos.etheriamagazine.com/2023/10/terraza-cabana-arbol-navarra.jpg "Terraza de una cabaña del complejo. © P.G./ Etheria Magazine")
 
 ### Cómo son las cabañas
 
@@ -57,7 +57,7 @@ Cada cabaña posee una personalidad propia, algo que invita a regresar en más o
 para probar las demás. Todas están preparadas para acoger un mínimo de 4 personas, ya 
 que cuentan con una cama doble y un amplio sofá cama. 
 
-![Cabaña situada en un árbol con las luces del interior encendidas](etheria-images/2023/10/cabana-arbol-navarra-irati.jpg "Dormir en una cabaña en un árbol es una experiencia inolvidable. © P. G./ Etheria Magazine")
+![Cabaña situada en un árbol con las luces del interior encendidas](https://fotos.etheriamagazine.com/2023/10/cabana-arbol-navarra-irati.jpg "Dormir en una cabaña en un árbol es una experiencia inolvidable. © P. G./ Etheria Magazine")
 
 #### Cabaña Irati
 
@@ -71,7 +71,7 @@ dormir al aire libre, viendo las estrellas...
 Ubicada en un fresno, a 10 metros de altura, está adaptada para personas con movilidad 
 reducida y cuenta con una habitación de 27 m2 y una terraza de 22 m2. 
 
-![El desayuno y la cena llegan en tirolina a las cabañas.](etheria-images/2023/10/desayuno-cabanas-arboles.jpg "El desayuno y la cena llegan en tirolina a las cabañas. © P. G./ Etheria Magazine")
+![El desayuno y la cena llegan en tirolina a las cabañas.](https://fotos.etheriamagazine.com/2023/10/desayuno-cabanas-arboles.jpg "El desayuno y la cena llegan en tirolina a las cabañas. © P. G./ Etheria Magazine")
 
 #### Cabaña Txanttalan
 
@@ -79,7 +79,7 @@ Esta bonita casa de madera cuenta con tejado a cuatro aguas. La habitación tien
 superficie de 25 m2 y la terraza, en forma de abanico, unos 40 m2. Su cama parece 
 suspendida por cuerdas, un efecto que potencia la iluminación azulada inferior. 
 
-![Cama "colgante" de la Cabaña Txanttalan.](etheria-images/2023/10/cama-colgante-iratiko-kabiak.jpg "Cama "colgante" de la Cabaña Txanttalan. © P. G./ Etheria Magazine")
+![Cama "colgante" de la Cabaña Txanttalan.](https://fotos.etheriamagazine.com/2023/10/cama-colgante-iratiko-kabiak.jpg "Cama "colgante" de la Cabaña Txanttalan. © P. G./ Etheria Magazine")
 
 #### Cabaña de Urkulu
 
@@ -95,7 +95,7 @@ Levantada sobre cuatro robles, ofrece una habitación de 30 m2 con una sugerente
 redonda y un sofá cama. En su terraza de 17 m2 también encontrarás una mesa con sillas, 
 al igual que en todas las demás, y un columpio tipo nido. 
 
-![Cama redonda de la Habitación de la cabaña Pettuberro.](etheria-images/2023/10/cama-redonda-iratiko-Kabiak.jpg "Habitación de la cabaña Pettuberro. © P. G./ Etheria Magazine")
+![Cama redonda de la Habitación de la cabaña Pettuberro.](https://fotos.etheriamagazine.com/2023/10/cama-redonda-iratiko-Kabiak.jpg "Habitación de la cabaña Pettuberro. © P. G./ Etheria Magazine")
 
 #### Cabaña Arlekia
 
@@ -106,7 +106,7 @@ Además de cabañas, también existe la posibilidad de dormir en alguna de las *
 habitaciones** situadas en la primera planta del edificio central que acoge la recepción 
 y la cafetería. 
 
-![Las cabañas se encuentran dentro de un frondoso bosque.](etheria-images/2023/10/cabana-arbol-iratiko.jpg "Las cabañas se encuentran dentro de un frondoso bosque. © P. G./ Etheria Magazine")
+![Las cabañas se encuentran dentro de un frondoso bosque.](https://fotos.etheriamagazine.com/2023/10/cabana-arbol-iratiko.jpg "Las cabañas se encuentran dentro de un frondoso bosque. © P. G./ Etheria Magazine")
 
 Algunos datos que también te interesa conocer es que no se aceptan mascotas y que los 
 niños, por seguridad ya que las cabañas están elevadas sobre el suelo, deben tener más 

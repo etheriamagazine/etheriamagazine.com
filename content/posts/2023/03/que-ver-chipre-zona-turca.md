@@ -1,7 +1,7 @@
 ---
 title: "Chipre, descubre el misterio de su zona turca"
 date: 2023-03-17
-coverImage: etheria-images/2023/03/Chipre-Ruinas-de-Salamina.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/03/Chipre-Ruinas-de-Salamina.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -14,7 +14,7 @@ turísticos y, sobre todo, aporta un contraste cultural que da qué pensar. Te i
 adentrarte en la zona más desconocida de Chipre, donde parece que se ha detenido el 
 tiempo. 
 
-![estatua y columnas de las ruinas de Salamina](etheria-images/2023/03/Chipre-Ruinas-de-Salamina.jpg "Las ruinas de Salamina están en la parte turca de Chipre. © Pedro Grifol.")
+![estatua y columnas de las ruinas de Salamina](https://fotos.etheriamagazine.com/2023/03/Chipre-Ruinas-de-Salamina.jpg "Las ruinas de Salamina están en la parte turca de Chipre. © Pedro Grifol.")
 
 La isla de Chipre, la tercera más grande del Mediterráneo después de las italianas 
 Sicilia y Cerdeña, permanece dividida en dos partes desde la invasión turca en 1974. La 
@@ -35,7 +35,7 @@ saber más de nuestro planeta. Es un viaje colmado de descubrimientos culturales
 además, ofrece **magníficas playas donde se come bien ¡y barato!**… Y, sobre todo, es un 
 viaje para reflexionar. 
 
-![frontera en chipre](etheria-images/2023/03/chipre-Lefkosia-Linea-Verde.jpg "La Línea Verde que separa el Chipre griego de la zona turca. © PG")
+![frontera en chipre](https://fotos.etheriamagazine.com/2023/03/chipre-Lefkosia-Linea-Verde.jpg "La Línea Verde que separa el Chipre griego de la zona turca. © PG")
 
 ## Por qué viajar a Chipre
 
@@ -69,7 +69,7 @@ autóctona y cafés que sirven el clásico café turco… con sus misteriosos po
 adivinatorios. Te podrías pasar deambulando por ahí todo el día, pero deja tiempo para 
 descubrir el ‘Mercado 1932’. 
 
-![Caravansar otomano Büyuk Han en Nicosia](etheria-images/2023/03/Chipre-Lefkosia-Caravansar-850x567.jpg "Caravansar otomano Büyuk Han. © PG")
+![Caravansar otomano Büyuk Han en Nicosia](https://fotos.etheriamagazine.com/2023/03/Chipre-Lefkosia-Caravansar-850x567.jpg "Caravansar otomano Büyuk Han. © PG")
 
 Abandonamos la capital para adentrarnos de lleno en la zona turca, donde la cordillera 
 montañosa de Pentadaktylos nos saluda con la representación de la bandera turca en la 
@@ -87,7 +87,7 @@ Pero, aparte de los sitios turísticos, Kyrenia es un bonito pueblo pesquero con
 atractivo suficiente para pasar el día, cenar en algún bar del puerto ¡no todos son 
 convencionalmente turísticos! Y, si se tercia, pasar una noche romántica. 
 
-![Puerto de Kyrenia](etheria-images/2023/03/chipre-Puerto-de-Kyrenia.jpg "Puerto de Kyrenia. © PG")
+![Puerto de Kyrenia](https://fotos.etheriamagazine.com/2023/03/chipre-Puerto-de-Kyrenia.jpg "Puerto de Kyrenia. © PG")
 
 Así que, si planificamos el viaje para pernoctar en algunos hoteles turcos, este 
 histórico lugar podría ser uno de ellos. Tiene una mansión, **Kyrenia Palace** 
@@ -108,7 +108,7 @@ mundo en la década 1960. Se llamaba Famagusta –ahora se llama Gazimagusa (en 
 pero da igual porque, más allá de la maraña de alambradas que impiden llegar a la playa, 
 ya solo quedan las esqueléticas estructuras de los hoteles de antaño (de antes de 1974). 
 
-![ruinas iglesia Iglesia de San Jorge de los Griegos](etheria-images/2023/03/Chipre-Famagusta-Iglesia-de-San-Jorge-de-los-Griegos.jpg "Iglesia de San Jorge de los Griegos en la ciudad fantasma de Famagusta. © PG")
+![ruinas iglesia Iglesia de San Jorge de los Griegos](https://fotos.etheriamagazine.com/2023/03/Chipre-Famagusta-Iglesia-de-San-Jorge-de-los-Griegos.jpg "Iglesia de San Jorge de los Griegos en la ciudad fantasma de Famagusta. © PG")
 
 ## La bahía de Ammochostos
 
@@ -121,7 +121,7 @@ vengar a su hermano Áyax; o el abandonado **monasterio de San Bernabé**, que t
 museo de iconos que, aunque son reproducciones, posee la magia de estar en tierra 
 ‘infiel’. Todo muy extraño y apasionante. 
 
-![Monasterio de San Bernabé](etheria-images/2023/03/Chipre-Monasterio-San-Bernabe.jpg "Monasterio de San Bernabé. © PG")
+![Monasterio de San Bernabé](https://fotos.etheriamagazine.com/2023/03/Chipre-Monasterio-San-Bernabe.jpg "Monasterio de San Bernabé. © PG")
 
 Después de culturizarnos, vayamos a lo lúdico. Es muy recomendable darse un chapuzón, y 
 un buen lugar es **Kocareis Resort** (www.kocareisresort.com). Tiene una magnífica playa 
@@ -147,7 +147,7 @@ Toma nota bien de la respuesta: el DNI. Ni se te ocurra pedir que te sellen el p
 (aunque tengas el capricho de seguir coleccionando tamponazos), porque quedará 
 invalidado y tendrás que tirarlo. 
 
-![Calamar con queso alumi del Kocaris Resort](etheria-images/2023/03/chipre-Calamar-con-queso-alumi-Kocaris-Resort.jpg "Calamar con queso alumi del Kocaris Resort. © PG")
+![Calamar con queso alumi del Kocaris Resort](https://fotos.etheriamagazine.com/2023/03/chipre-Calamar-con-queso-alumi-Kocaris-Resort.jpg "Calamar con queso alumi del Kocaris Resort. © PG")
 
 ### ¿Cómo viajar a la Chipre turca?
 

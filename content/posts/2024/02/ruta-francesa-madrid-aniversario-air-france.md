@@ -1,7 +1,7 @@
 ---
 title: "Ruta francesa por Madrid para celebrar el 90 Aniversario de Air France"
 date: 2024-02-01
-coverImage: etheria-images/2024/02/air-france-carteles-historicos.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/02/air-france-carteles-historicos.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -17,7 +17,7 @@ diferentes lugares de la capital ligados con la moda, la cultura y la gastronom�
 francesa. No te la pierdas porque te vas a sentir un poquito más cerca de Francia y de 
 la historia de esta compañía, y eso siempre merece la pena. 
 
-![Cartel diseñado por Jorge Arévalo para Le Voyage by Air France en Madrid.](etheria-images/2024/02/Air-france-Cartel-Le-Voyage-by-Air-France-Jorge-Arevalo.jpg "Cartel diseñado por Jorge Arévalo para Le Voyage by Air France en Madrid. © Air France.")
+![Cartel diseñado por Jorge Arévalo para Le Voyage by Air France en Madrid.](https://fotos.etheriamagazine.com/2024/02/Air-france-Cartel-Le-Voyage-by-Air-France-Jorge-Arevalo.jpg "Cartel diseñado por Jorge Arévalo para Le Voyage by Air France en Madrid. © Air France.")
 
 La compañía aérea [Air France](https://wwws.airfrance.es/) está conmemorando por todo el 
 mundo su noventa cumpleaños, que tuvo lugar en octubre de 2023. En febrero de 2024 toca 
@@ -41,7 +41,7 @@ las mejores tiendas de lujo de la capital y un atractivo espacio gastronómico, 
 un gran escaparate en la planta baja con algunos de los uniformes históricos de Air 
 France. Incluye diseños de Dior, Balenciaga y Christian Lacroix. Plaza de Canalejas, 1. 
 
-![Uniforme de verano de Air France diseñado por Christian Dior.](etheria-images/2024/02/uniforme-air-france-dior.jpg "Uniforme de verano de Air France diseñado por Christian Dior. © Air France.")
+![Uniforme de verano de Air France diseñado por Christian Dior.](https://fotos.etheriamagazine.com/2024/02/uniforme-air-france-dior.jpg "Uniforme de verano de Air France diseñado por Christian Dior. © Air France.")
 
 ## Longchamp
 
@@ -68,7 +68,7 @@ desaparecido, el equipo de **Robuchon Madrid** ha diseñado un menú inspirado e
 creaciones, con platos como el Royale de foie, oporto rojo y emulsión de parmesano o el 
 “Parmentier” de pato y puré Robuchon. 
 
-![Servicio en la Première classe de Air France en 1960.](etheria-images/2024/02/air-france-primera-clase-1960.jpg "Servicio en la Première classe de Air France en 1960. © Collection Musée Air France.")
+![Servicio en la Première classe de Air France en 1960.](https://fotos.etheriamagazine.com/2024/02/air-france-primera-clase-1960.jpg "Servicio en la Première classe de Air France en 1960. © Collection Musée Air France.")
 
 ## Maison Kayser
 
@@ -107,7 +107,7 @@ que tendrá lugar los jueves del mes de febrero. Incluye las películas _Rosalie
 siècle_'. Aquí también los clientes recibirán un descuento para la compra de billetes de 
 avión con Air France. Calle Princesa, 3. 
 
-![Cartel de 1959 diseñado por Jean Collin y cartel de 1963 diseñado por René Gruau.](etheria-images/2024/02/air-france-carteles-historicos.jpg "Cartel de 1959 diseñado por Jean Collin y cartel de 1963 diseñado por René Gruau. ©Collection Musée Air France.")
+![Cartel de 1959 diseñado por Jean Collin y cartel de 1963 diseñado por René Gruau.](https://fotos.etheriamagazine.com/2024/02/air-france-carteles-historicos.jpg "Cartel de 1959 diseñado por Jean Collin y cartel de 1963 diseñado por René Gruau. ©Collection Musée Air France.")
 
 ## Galería Modus Operandi
 

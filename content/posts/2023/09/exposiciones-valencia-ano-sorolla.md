@@ -1,7 +1,7 @@
 ---
 title: "Exposiciones y más para celebrar con Valencia el Año Sorolla"
 date: 2023-09-15
-coverImage: etheria-images/2023/09/valencia-sorolla-exposicion-inmersiva-azul.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-exposicion-inmersiva-azul.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ más ilustre. No pierdas la oportunidad de acercarte a esta ciudad este otoño y
 las exposiciones y eventos relacionados con Joaquín Sorolla, te saldrá una escapada de 
 diez. 
 
-![Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión".](etheria-images/2023/09/sorolla-exposicion-inmersiva-retratos.jpg "Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión". © Susana García")
+![Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión".](https://fotos.etheriamagazine.com/2023/09/sorolla-exposicion-inmersiva-retratos.jpg "Retratos de Sorolla en la exposición inmersiva "Sorolla, una nueva dimensión". © Susana García")
 
 El año 2023 ha sido el centenario de la muerte de **Joaquín Sorolla** y su ciudad natal, 
 Valencia, se ha volcado para conmemorar la vida y obra del que fue considerado en su 
@@ -52,7 +52,7 @@ en 360º que te envuelve con imágenes de Valencia, de lugares que marcaron al p
 Nueva York, de su serie de cuadros “Retrato de España. La Hispanic Society” y de algunos 
 de los retratos que realizó. 
 
-![imágenes en la sala de proyecciones de la exposición Sorolla una nueva dimensión](etheria-images/2023/09/valencia-sorolla-exposicion-inmersiva-azul.jpg "Proyección en la sala inmersiva de la exposición © “Sorolla, una nueva dimensión”.")
+![imágenes en la sala de proyecciones de la exposición Sorolla una nueva dimensión](https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-exposicion-inmersiva-azul.jpg "Proyección en la sala inmersiva de la exposición © “Sorolla, una nueva dimensión”.")
 
 Las dos últimas salas de la exposición incluyen una zona donde algunos artistas 
 digitales han reinterpretado a Sorolla, con una zona interactiva que hace las delicias 
@@ -74,7 +74,7 @@ del edificio claustral y te recibe la inmensa obra "**Yo soy el pan de la vida**
 más grande de las que realizó de temática religiosa. La acompañan obras emblemáticas, 
 como el primer cuadro que vendió, algunos de sus desnudos y numerosos retratos. 
 
-![Cuadros de la Sala Sorolla del Museo de Bellas Artes.](etheria-images/2023/09/valencia-sorolla-museo-bellas-artes-cuadros.jpg "Cuadros de la Sala Sorolla del Museo de Bellas Artes. © Susana García")
+![Cuadros de la Sala Sorolla del Museo de Bellas Artes.](https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-museo-bellas-artes-cuadros.jpg "Cuadros de la Sala Sorolla del Museo de Bellas Artes. © Susana García")
 
 Dónde: Museo de Bellas Artes de Valencia. Calle San Pío V, 9. Horario: de martes a 
 domingo de 10 a 20 h. Precio: Entrada gratuita. 
@@ -92,7 +92,7 @@ otro aliciente de acudir a la exposición es su original forma de presentar los 
 en caballetes transparentes que permiten ver tanto el anverso como el reverso de las 
 obras. 
 
-![cuadros de Sorolla de la exposición Masaveu](etheria-images/2023/09/valencia-sorolla-masaveu.jpg "Exposición de la Colección Masaveu en el Museo de Bellas Artes. © Susana García")
+![cuadros de Sorolla de la exposición Masaveu](https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-masaveu.jpg "Exposición de la Colección Masaveu en el Museo de Bellas Artes. © Susana García")
 
 Dónde: Museo de Bellas Artes de Valencia. Calle San Pío V, 9. Cuándo: hasta el 15 de 
 octubre de 2023. Visitas guiadas: martes y jueves a las 17.30 h y sábados y domingos a 
@@ -110,7 +110,7 @@ obras de instituciones y colecciones privadas que retratan el ambiente cultural 
 Valencia de finales del XIX y principios del XX, algunas de las cuales se muestran por 
 primera vez al público. 
 
-![Museo de la Ciudad de Valencia.](etheria-images/2023/09/valencia-sorolla-museo-ciudad.jpg "Museo de la Ciudad de Valencia. © Visit Valencia")
+![Museo de la Ciudad de Valencia.](https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-museo-ciudad.jpg "Museo de la Ciudad de Valencia. © Visit Valencia")
 
 Dónde: Museo de la Ciudad. Plaza del Arzobispo, 3. Valencia. Horario: de martes a sábado 
 de 10 a 19 h, domingos y festivos de 10 a 15 h. Cuándo: hasta el 31 de diciembre de 
@@ -135,7 +135,7 @@ Los grandes vinos nacionales también tienen cabida en esta propuesta gracias al
 específica para cada uno de los platos, por lo que todos ellos se convierten en 
 auténticas obras de arte. 
 
-![potaje del menú Sorolla del Restaurante Vertical de Valencia](etheria-images/2023/09/valencia-sorolla-menu-potaje-vigilia-restaurante-vertical.jpg "El potaje corresponde al panel "Sevilla. Los Nazarenos". © S.G./Etheria Magazine")
+![potaje del menú Sorolla del Restaurante Vertical de Valencia](https://fotos.etheriamagazine.com/2023/09/valencia-sorolla-menu-potaje-vigilia-restaurante-vertical.jpg "El potaje corresponde al panel "Sevilla. Los Nazarenos". © S.G./Etheria Magazine")
 
 Como ejemplos, el **panel "Ayamonte. La pesca del atún"** tiene de base este sabroso 
 pescado y se ofrece en un plato de madera que asemeja unas olas; **"Valencia. Las 
@@ -155,7 +155,7 @@ Estos vestidos, inspirados en los cuadros de Joaquín Sorolla, han sido confecci
 con materiales sostenibles y reciclados. Se expondrán en el **Edificio del Reloj** del 
 30 de octubre al 11 de noviembre de 2023. 
 
-![Presentación de algunos de los vestidos de la colección "Sorolla, moda y sostenibilidad".](etheria-images/2023/09/valencia-Desfile-Sorolla.jpg "Presentación de algunos de los vestidos de la colección "Sorolla, moda y sostenibilidad". © Visit Valencia")
+![Presentación de algunos de los vestidos de la colección "Sorolla, moda y sostenibilidad".](https://fotos.etheriamagazine.com/2023/09/valencia-Desfile-Sorolla.jpg "Presentación de algunos de los vestidos de la colección "Sorolla, moda y sostenibilidad". © Visit Valencia")
 
 **También te puede interesar:** 
 

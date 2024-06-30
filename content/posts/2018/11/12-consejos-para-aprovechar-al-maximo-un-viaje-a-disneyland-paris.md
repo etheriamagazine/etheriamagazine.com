@@ -1,7 +1,7 @@
 ---
 title: "12 consejos para aprovechar tu viaje a Disneyland Paris"
 date: 2018-11-06
-coverImage: etheria-images/2018/10/Disneyland-viaje-familia-1-e1577797377918.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-1-e1577797377918.jpg
 categories: 
   - consejos-practicos
   - viaje-en-familia
@@ -14,7 +14,7 @@ authors:
 
 Por fin te has decidido y harás realidad el sueños de tus hijos (y quizá también el tuyo). ¡Las próximas vacaciones las pasaréis en 'Disneyland Paris'! Pero antes de empezar a hacer las maletas conviene que planifiques bien el viaje para que disfrutéis a tope de la magia, especialmente si disponéis de pocos días.
 
-![desfile en Disneyland Paris](etheria-images/2018/10/Disneyland-viaje-familia-1-e1577797377918.jpg "Desfile en Disneyland Paris.")
+![desfile en Disneyland Paris](https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-1-e1577797377918.jpg "Desfile en Disneyland Paris.")
 
 ## 1\. Alójate en un hotel Disney
 
@@ -36,7 +36,7 @@ preocupes, en el parque encontrarás un gran surtido y de buena calidad. Si no t
 rascar mucho el bolsillo, las orejas de Mickey o Minnie (disponibles en todas sus 
 versiones en cualquiera de las tiendas) te pueden sacar del apuro. 
 
-![Tiendas en Disneyland Paris](etheria-images/2018/10/Disneyland-viaje-familia-4-e1577797402266.jpg "Tiendas en Disneyland Paris.")
+![Tiendas en Disneyland Paris](https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-4-e1577797402266.jpg "Tiendas en Disneyland Paris.")
 
 ## 3\. Los niños, mejor con carrito
 
@@ -54,7 +54,7 @@ dibujar y colores, algún cuento, y prepara juegos que les gusten que no necesit
 “accesorios”. **Aprovecha estos ratos también para planificar** las siguientes paradas 
 del día con el mapa en la mano. Seguro que los niños están encantados de participar. 
 
-![Encuentro con personajes en Disneyland.](etheria-images/2018/10/Disneyland-viaje-familia-5-e1577797437825.jpg "Momentos mágicos en las calles de Disneyland Paris.")
+![Encuentro con personajes en Disneyland.](https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-5-e1577797437825.jpg "Momentos mágicos en las calles de Disneyland Paris.")
 
 ## 5\. Combina parques y atracciones
 
@@ -82,7 +82,7 @@ por persona y día, obtendréis acceso rápido y flexible a las atracciones que 
 sin tener que definir un horario de entrada. Ojo, hay un número limitado de entradas por 
 día. 
 
-![Desfiles con los personajes Disney.](etheria-images/2018/10/Disneyland-viaje-familia-6-e1577797461495.jpg "Personajes en los desfiles.")
+![Desfiles con los personajes Disney.](https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-6-e1577797461495.jpg "Personajes en los desfiles.")
 
 ## 7\. Ve a contracorriente
 
@@ -109,7 +109,7 @@ se agotan enseguida. Estate atenta 15 minutos antes de que empiece el encuentro
 elige el personaje. Podrás ir a verlo a la hora indicada sin apenas hacer cola, un 
 lujazo en un parque Disney. 
 
-![Castillo de Disneyland Paris](etheria-images/2018/10/Disneyland-viaje-familia-2-e1577797477190.jpg "Espectáculo frente al castillo.")
+![Castillo de Disneyland Paris](https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-2-e1577797477190.jpg "Espectáculo frente al castillo.")
 
 ## 9\. La mejor época para ir
 
@@ -136,7 +136,7 @@ Village, hay algunas cadenas conocidas de restauración, como McDonald’s, Star
 Planet Hollywood, que suelen llenarse bastante, especialmente al cierre del parque ya 
 que coincide con la hora de la cena. 
 
-![Niños en Disneyland Paris](etheria-images/2018/10/Disneyland-viaje-familia-7-e1577797500813.jpg "Carroza en un desfile en Disneyland Paris.")
+![Niños en Disneyland Paris](https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-7-e1577797500813.jpg "Carroza en un desfile en Disneyland Paris.")
 
 ## 11\. Cómo llegar
 

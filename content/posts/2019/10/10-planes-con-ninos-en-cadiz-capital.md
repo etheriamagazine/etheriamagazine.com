@@ -1,7 +1,7 @@
 ---
 title: "Cádiz capital con niños, 10 planes en familia"
 date: 2019-10-17
-coverImage: etheria-images/2021/08/Andalucia-La-Caleta-Cadiz.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/08/Andalucia-La-Caleta-Cadiz.jpg
 categories: 
   - viaje-en-familia
   - de-un-vistazo
@@ -13,7 +13,7 @@ authors:
 
 Viajar a Cádiz con niños puede ser un planazo en cualquier momento del año. Esta vez nos quedamos en la capital de la provincia para proponeros un montón de planes para hacer en familia. Si estáis varios días también es interesante recorrer la provincia: El Puerto de Santa María, Conil, Vejer, El Palmar, los pueblos blancos de la Serranía... no te pierdas las 10 propuestas que te ofrecemos.
 
-![Títere del Museo del Títere en Cádiz capital.](etheria-images/2019/10/museo-titeres-cadiz.jpg "Museo del Títere. ©P.G.")
+![Títere del Museo del Títere en Cádiz capital.](https://fotos.etheriamagazine.com/2019/10/museo-titeres-cadiz.jpg "Museo del Títere. ©P.G.")
 
 ```
 Actualizado julio 2022
@@ -31,7 +31,7 @@ del Títere](https://turismo.cadiz.es/es/rutas-y-visitas-en-cadiz/museo-del-t%C3
 en la bóveda de Santa Elena. El primero es interesante pero el segundo es, realmente, 
 más adecuado para ir con niños. 
 
-![Puertecitas del Museo del Títere para un viaje a Cádiz con niños](etheria-images/2019/10/puerta-museo-titeres-900x675.jpg "Puertecitas del Museo del Títere (Cádiz). © P.G.")
+![Puertecitas del Museo del Títere para un viaje a Cádiz con niños](https://fotos.etheriamagazine.com/2019/10/puerta-museo-titeres-900x675.jpg "Puertecitas del Museo del Títere (Cádiz). © P.G.")
 
 En este espacio se documenta históricamente **el mundo de los títeres y los 
 titiriteros**. En la exposición permanente hay **más de 500 elementos**, 350 de los 
@@ -58,7 +58,7 @@ familiarizarte con la ciudad.
 teatralizado](https://www.civitatis.com/es/cadiz/tour-teatralizado-cadiz/?aid=10211) por 
 Cádiz, divertido y didáctico. 
 
-![Vistas desde la torre de la Catedral de Cádiz.](etheria-images/2019/10/Catedral-torre-reloj-poniente.jpg "Vistas desde la torre de la Catedral. ©A.C.")
+![Vistas desde la torre de la Catedral de Cádiz.](https://fotos.etheriamagazine.com/2019/10/Catedral-torre-reloj-poniente.jpg "Vistas desde la torre de la Catedral. ©A.C.")
 
 ### 2\. Subir a la torre de la Catedral
 
@@ -76,7 +76,7 @@ tesoros de la catedral) y la torre del Reloj.
 **Horario**: Subida a la torre, de lunes a domingo, de 10 a 20 horas. **Precio**: 
 general (7 €), reducida (6 €). 
 
-![Plaza de las Flores de Cádiz capital.](etheria-images/2019/10/plaza-de-las-flores.jpg "Plaza de las Flores.")
+![Plaza de las Flores de Cádiz capital.](https://fotos.etheriamagazine.com/2019/10/plaza-de-las-flores.jpg "Plaza de las Flores.")
 
 ### 3\. Aperitivo en la Plaza de las Flores
 
@@ -86,7 +86,7 @@ allí se concentran numerosos puestos de plantas y flores. Aquí lo que os propo
 hacer un alto en el camino para tomar el aperitivo en la **Freiduría Flores** (en la 
 confluencia de la plaza con la calle Compañía). 
 
-![Freiduría Las Flores en Cádiz capital, ideal para acudir con niños](etheria-images/2019/10/freiduria-las-flores.jpg "Freiduría Las Flores. ©A.C.")
+![Freiduría Las Flores en Cádiz capital, ideal para acudir con niños](https://fotos.etheriamagazine.com/2019/10/freiduria-las-flores.jpg "Freiduría Las Flores. ©A.C.")
 
 No os dejéis influir por su aspecto modesto, sus raciones de pescaíto frito y de marisco 
 son muy generosas y a precios populares. Además, las sirven sobre papel, que seguro 
@@ -94,7 +94,7 @@ llamará la atención de los más pequeños.
 
 **Precio**: Económico. 
 
-![Mercado Central de Abastos de Cádiz.](etheria-images/2019/10/mercado-central-abastos-cadiz.jpg "Mercado Central de Abastos de Cádiz. ©A.C.")
+![Mercado Central de Abastos de Cádiz.](https://fotos.etheriamagazine.com/2019/10/mercado-central-abastos-cadiz.jpg "Mercado Central de Abastos de Cádiz. ©A.C.")
 
 ### 4\. Mercado de Abastos y Rincón Gastronómico
 
@@ -114,7 +114,7 @@ etc.) Si no habéis tomado el aperitivo anterior, puede ser el momento de hacerl
 gastronómico** abre mañana y tarde según el día, aproximadamente de 9 a 15.30 y de 19 a 
 00 h. **Precio**: Entrada gratuita. 
 
-![Cámara oscura y vistas desde Torre Tavira ideal para un viaje a Cádiz con niños](etheria-images/2019/10/Torre-Tavira-viaje-cadiz-familia.jpg "Cámara oscura y vistas desde Torre Tavira. ©A.C.")
+![Cámara oscura y vistas desde Torre Tavira ideal para un viaje a Cádiz con niños](https://fotos.etheriamagazine.com/2019/10/Torre-Tavira-viaje-cadiz-familia.jpg "Cámara oscura y vistas desde Torre Tavira. ©A.C.")
 
 ### 5\. Cámara oscura de Torre Tavira
 
@@ -136,7 +136,7 @@ azotea para admirar las vistas y tomaros alguna foto.
 7 €, existen [descuentos](https://www.torretavira.com/horarios-y-tarifas/) para 
 estudiantes (con carnet) y familias numerosas. 
 
-![Parque Genovés de Cádiz.](etheria-images/2019/10/parque-genoves-cadiz.jpg "Parque Genovés de Cádiz. ©A.C.")
+![Parque Genovés de Cádiz.](https://fotos.etheriamagazine.com/2019/10/parque-genoves-cadiz.jpg "Parque Genovés de Cádiz. ©A.C.")
 
 ### 6\. Parque Genovés-Jardín Botánico
 
@@ -167,7 +167,7 @@ lugar donde sentaros cómodamente os sugerimos **El Garbanzo Negro** (Sacramento
 otro clásico donde degustar comida casera (además, tiene opciones sin gluten y 
 vegetarianas). 
 
-![Playa de la Caleta, pequeña pero perfecta para un viaje a Cádiz con niños](etheria-images/2019/10/Playa-de-la-Caleta.jpg "Playa de la Caleta. ©A.C.")
+![Playa de la Caleta, pequeña pero perfecta para un viaje a Cádiz con niños](https://fotos.etheriamagazine.com/2019/10/Playa-de-la-Caleta.jpg "Playa de la Caleta. ©A.C.")
 
 ### 8\. Playa de la Caleta
 
@@ -186,7 +186,7 @@ Centro de Arqueología Subacuática de Andalucía.
 Otra propuesta añadida es realizar un taller (niños de 4 a 13 años) en el **castillo de 
 Santa Catalina**. Los hay de diversas temáticas y sólo cuestan 6 euros. Infórmate en [Tapeca](http://www.tapeca.com/). 
 
-![Teatro Romano de Cádiz.](etheria-images/2019/10/teatro-romano-cadiz.jpg "Teatro Romano de Cádiz. ©A.C.")
+![Teatro Romano de Cádiz.](https://fotos.etheriamagazine.com/2019/10/teatro-romano-cadiz.jpg "Teatro Romano de Cádiz. ©A.C.")
 
 ### 9\. Teatro Romano
 
@@ -208,7 +208,7 @@ otra visita imprescindible para hacer en familia.
 **Precio**: Gratuito. **Horario**: De lunes a sábados y de 11 a 17 h en verano. Domingos 
 de 10 a 14 horas. 
 
-![castillo sancti petri, paseos en barco, rutas ninos cadiz](etheria-images/2019/10/Playa-sancti-petri.jpg "Castillo de Sancti Petri. ©P.G.")
+![castillo sancti petri, paseos en barco, rutas ninos cadiz](https://fotos.etheriamagazine.com/2019/10/Playa-sancti-petri.jpg "Castillo de Sancti Petri. ©P.G.")
 
 ### 10\. Paseo en barco por la bahía
 

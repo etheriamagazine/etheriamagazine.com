@@ -1,7 +1,7 @@
 ---
 title: "Secretos de Alberobello, un 'pícaro' pueblo italiano de Puglia"
 date: 2019-04-15
-coverImage: etheria-images/2019/04/que-ver-Alberobello-puglia.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-puglia.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-para-mujeres
@@ -16,7 +16,7 @@ construcciones conocidas como 'trullis', que no son producto del diseño sino m�
 la picaresca, ya que tienen una propiedad excepcional: se pueden desmontar en una sola 
 noche. 
 
-![alberobello, que ver en alberobello](etheria-images/2019/04/que-ver-Alberobello-trulis.jpg "Alberobello está situado en la región de Puglia.")
+![alberobello, que ver en alberobello](https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-trulis.jpg "Alberobello está situado en la región de Puglia.")
 
 ## La ciudad de piedra
 
@@ -34,7 +34,7 @@ plantas, el Sovrano, el único de esta tipología, que alberga actualmente el **
 los Trullis**. En su interior podrás ver una habitación original con sus enseres 
 habituales. 
 
-![museo de los trullis, viajar alberobello](etheria-images/2019/04/Museo-trullis-alberobello.jpg "Museo de los Trullis, en Alberobello.")
+![museo de los trullis, viajar alberobello](https://fotos.etheriamagazine.com/2019/04/Museo-trullis-alberobello.jpg "Museo de los Trullis, en Alberobello.")
 
 ## Evasores de impuestos
 
@@ -52,7 +52,7 @@ piedras que una vez pasado el peligro se volvían a ensamblar. Este arduo trabaj
 alargó hasta el siglo XVIII cuando Alberobello, tras ser proclamada "ciudad real", quedó 
 bajo la protección del rey Fernando IV de Borbón. 
 
-![trullis, casas piedra italia, alberobello](etheria-images/2019/04/trullis-alberobello-italia.jpg "Los trullis se pintan de blanco, a excepción del tejado.")
+![trullis, casas piedra italia, alberobello](https://fotos.etheriamagazine.com/2019/04/trullis-alberobello-italia.jpg "Los trullis se pintan de blanco, a excepción del tejado.")
 
 ## Entre lo místico y lo pagano
 
@@ -62,7 +62,7 @@ cristianas o símbolos mágicos. Su **significado sigue siendo un misterio**, au
 quien señala que pueden estar relacionados con dioses paganos protectores de las 
 cosechas o que pretendían espantar los espíritus daniños y evitar males de ojo. 
 
-![simbolos trullis, alberobello](etheria-images/2019/04/trulli-alberobello.jpg "Los símbolos escritos en los tejados siguen siendo un misterio.")
+![simbolos trullis, alberobello](https://fotos.etheriamagazine.com/2019/04/trulli-alberobello.jpg "Los símbolos escritos en los tejados siguen siendo un misterio.")
 
 ## Pizzica, baile contra el estrés
 
@@ -89,7 +89,7 @@ que consideraban esta práctica poco higiénica y con ello la tradición se fue 
 Pero, por suerte, el baile de “la pizzica” se ha recuperado y reinventado en una terapia 
 ideal contra el estrés que algunos hoteles ya ha introducido en su carta de spa. 
 
-![trulli, alberobello](etheria-images/2019/04/que-ver-Alberobello-puglia.jpg "Recorre sus calles fijándote en todos los detalles.")
+![trulli, alberobello](https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-puglia.jpg "Recorre sus calles fijándote en todos los detalles.")
 
 ## Patrimonio de la Humanidad
 
@@ -106,7 +106,7 @@ centro histórico.
 > Alberobello es conocida como la capital de los Trulli porque allí se concentran más de 
 > 1500 de estas viviendas. 
 
-![alberobello, patrimonio unesco](etheria-images/2019/04/alberobello-olivos-puglia.jpg "Alberobello fue declarado en 1996 Patrimonio Mundial por la Unesco.")
+![alberobello, patrimonio unesco](https://fotos.etheriamagazine.com/2019/04/alberobello-olivos-puglia.jpg "Alberobello fue declarado en 1996 Patrimonio Mundial por la Unesco.")
 
 ## Cambio pecados por olivos
 
@@ -127,7 +127,7 @@ olivos, algunos milenarios.
 > Se cuenta que la penitencia que ponía la Iglesia a las mujeres "pecadoras" era plantar 
 > un olivo. 
 
-![alberobello, alberobelo, que ver en alberobello](etheria-images/2019/04/pitos-trulli-alberobello.jpg "Los políticos no escapan a la caricatura.")
+![alberobello, alberobelo, que ver en alberobello](https://fotos.etheriamagazine.com/2019/04/pitos-trulli-alberobello.jpg "Los políticos no escapan a la caricatura.")
 
 ## Concurso de pitos
 

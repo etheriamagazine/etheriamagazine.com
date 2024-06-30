@@ -1,7 +1,7 @@
 ---
 title: "Secretos de Chipre, visitas esenciales en un viaje lleno de historia y sabores"
 date: 2019-05-22
-coverImage: etheria-images/2019/05/Chipre-Kourion.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/Chipre-Kourion.jpg
 categories: 
   - viajes-romanticos
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ gastronomía al borde mar y buenos precios. ¿Quieres saber qué ver en Chipre? 
 leyendo porque además de las visitas imprescindibles también compartiremos algunos 
 secretos. 
 
-![Playa en la zona de Kourion, en Chipre.](etheria-images/2019/05/Chipre-Kourion.jpg "Playa en la zona de Kourion.")
+![Playa en la zona de Kourion, en Chipre.](https://fotos.etheriamagazine.com/2019/05/Chipre-Kourion.jpg "Playa en la zona de Kourion.")
 
 La diosa Afrodita eligió **Chipre** para emerger de las aguas del mar; Lázaro (el de 
 “levántate y anda”) vivió allí 30 años; el romano Marco Antonio le ‘regaló’ la isla a 
@@ -34,7 +34,7 @@ ocupando buena parte de la isla. Esto último es lo primero que hay que saber: q
 1974, el tercio norte del territorio insular permanece bajo ocupación militar turca. La 
 autoproclamada República Turca del Norte de Chipre es reconocida únicamente por Turquía. 
 
-![Terraza junto a la Línea Verde de Lefkosia, en Chipre.](etheria-images/2019/05/Chipre-linea-verde.jpg "Terraza junto a la Línea Verde de Lefkosia.")
+![Terraza junto a la Línea Verde de Lefkosia, en Chipre.](https://fotos.etheriamagazine.com/2019/05/Chipre-linea-verde.jpg "Terraza junto a la Línea Verde de Lefkosia.")
 
 ## Qué ver en Chipre, visitas y planes imprescindibles
 
@@ -60,7 +60,7 @@ Se trata de uno de los parajes más bellos de la isla, no solo porque allí vino
 mundo la diosa más querida del Olimpo, sino porque además también está habilitado para 
 tumbarse en la playa a la sombra de una sombrilla… o de un árbol. 
 
-![Kayak en la zona de Petra tou Romiou, en Chipre.](etheria-images/2019/05/Chipre-Petra-tou-Romiou.jpg "Kayak en la zona de Petra tou Romiou.")
+![Kayak en la zona de Petra tou Romiou, en Chipre.](https://fotos.etheriamagazine.com/2019/05/Chipre-Petra-tou-Romiou.jpg "Kayak en la zona de Petra tou Romiou.")
 
 El lugar es conocido como **Petra tou Romiou** y está formado por una playa pedregosa y 
 un conjunto de rocas a las que podemos encaramarnos, además de poder usarlas también 
@@ -71,7 +71,7 @@ opción lúdica puede ser dar varias vueltas nadando alrededor de la gran roca c
 en que, según otra tradición, rejuvenecerás un año por cada vuelta. Los cuentos, cuentos 
 son… pero también son cultura. 
 
-![Rocas míticas de la playa de Petra tou Romiou.](etheria-images/2019/05/Chipr-playa-Petra-tou-Romiou.jpg "Rocas míticas de la playa de Petra tou Romiou.")
+![Rocas míticas de la playa de Petra tou Romiou.](https://fotos.etheriamagazine.com/2019/05/Chipr-playa-Petra-tou-Romiou.jpg "Rocas míticas de la playa de Petra tou Romiou.")
 
 ### Prueba los platos típicos de Chipre
 
@@ -87,7 +87,7 @@ horno); **Makaronia tu Furnu** (macarrones al horno); **Tsatsiki** (salsa griega
 yogur); **Koupes** (croquetas rellenas de carne); y una larga lista de pescados 
 conocidos por nosotros, como calamares, pulpo, pijotas, salmonetes, dorada… 
 
-![Mezzé de pescado.](etheria-images/2019/05/Chipre-mezze-pescado.jpg "Mezzé de pescado.")
+![Mezzé de pescado.](https://fotos.etheriamagazine.com/2019/05/Chipre-mezze-pescado.jpg "Mezzé de pescado.")
 
 También podemos aparcar el coche en **Pissouri** y llegar a las rocas por mar en 
 travesía en barco privado, que tampoco es muy caro, y que además nos brinda la 
@@ -107,7 +107,7 @@ calas sin cámaras curiosas… no te preocupes si se te antoja bañarte tal y co
 vino al mundo: sin nada que te oprima, más comoda/o, sin nada… Sin palabras. Todo un 
 placer. 
 
-![Idílico paraje llamado Los baños de Afrodita.](etheria-images/2019/05/Chipre-banos-Afrodita-Akamas.jpg "Idílico paraje llamado Los baños de Afrodita.")
+![Idílico paraje llamado Los baños de Afrodita.](https://fotos.etheriamagazine.com/2019/05/Chipre-banos-Afrodita-Akamas.jpg "Idílico paraje llamado Los baños de Afrodita.")
 
 ### Parque Natural de Akamas
 
@@ -120,7 +120,7 @@ batida, terraplenes y algún charco es lo que nos espera en este paraje salvaje;
 la recompensa será otear el mar desde los acantilados y respirar hondo. Otro de los 
 placeres de verano que podemos regalarnos. 
 
-![Vehículo Polaris recorriendo el Parque Natural de Akamas, en Chipre.](etheria-images/2019/05/Chipre-Akamas-polaris.jpg "Vehículo Polaris recorriendo el Parque Natural de Akamas.")
+![Vehículo Polaris recorriendo el Parque Natural de Akamas, en Chipre.](https://fotos.etheriamagazine.com/2019/05/Chipre-Akamas-polaris.jpg "Vehículo Polaris recorriendo el Parque Natural de Akamas.")
 
 Si no te apetece ‘jugarte la vida’ subido a esa máquina de gasolina, practicar 
 senderismo puede ser otra opción, el paisaje es el mismo y los muflones y las ovejas que 
@@ -146,7 +146,7 @@ real (como en el caso de la Casa de los Gladiadores). Merece la pena leer las ca
 explicativas porque eso significa que alguien se ha molestado en instruirnos sobre el 
 significado de cada una de las representaciones mitológicas. 
 
-![Tumbas de los Reyes en Pafos.](etheria-images/2019/05/Chipre-Pafos-Tumbas-de-los-Reyes.jpg "Tumbas de los Reyes en Pafos.")
+![Tumbas de los Reyes en Pafos.](https://fotos.etheriamagazine.com/2019/05/Chipre-Pafos-Tumbas-de-los-Reyes.jpg "Tumbas de los Reyes en Pafos.")
 
 ### Una visita a Pafos
 
@@ -167,7 +167,7 @@ Y si te animas, cuando vuelvas prepárate en casa [El Beso de
 Afrodita,](https://www.youtube.com/watch?v=DJowOuJFPAI&t=27s) un cóctel que puedes 
 aprender a hacer en en el canal de Youtube 'Grifol's Bar'. 
 
-![Mosaico de la Casa de Aion en Pafos.](etheria-images/2019/05/Chipre-Pafos-mosaico.jpg "Mosaico de la Casa de Aion en Pafos.")
+![Mosaico de la Casa de Aion en Pafos.](https://fotos.etheriamagazine.com/2019/05/Chipre-Pafos-mosaico.jpg "Mosaico de la Casa de Aion en Pafos.")
 
 En otra ocasión tendremos que visitar los lugares donde moran las leyendas que 
 pertenecen a otras ‘religiones’… Porque Chipre da para mucho. ¡Feliz verano! 

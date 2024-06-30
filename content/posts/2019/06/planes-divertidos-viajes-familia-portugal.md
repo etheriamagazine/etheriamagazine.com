@@ -1,7 +1,7 @@
 ---
 title: "9 planes divertidos en el Centro de Portugal con niños"
 date: 2019-06-28
-coverImage: etheria-images/2019/06/parque-aventura-figueira-da-foz-portugal.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-da-foz-portugal.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ este viaje donde la naturaleza y la diversión son las protagonistas. Prepárate
 navegar, subir a los árboles, dar de comer a los animales y visitar el interior del 
 planeta. 
 
-![Los más pequeños también disponen de un circuito especial en el parque de aventura de Figueira da Foz.](etheria-images/2019/06/parque-aventura-figueira-foz.jpg "Los más pequeños también disponen de un circuito especial en el parque de aventura de Figueira da Foz. ©PG")
+![Los más pequeños también disponen de un circuito especial en el parque de aventura de Figueira da Foz.](https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-foz.jpg "Los más pequeños también disponen de un circuito especial en el parque de aventura de Figueira da Foz. ©PG")
 
 Si estás organizando un viaje al **Centro de Portugal con niños,** toma nota de estas 
 propuestas para familias que se desarrollan en el tramo situado entre Lisboa y Oporto. 
@@ -34,7 +34,7 @@ Parque Lourinhã, una experiencia familiar entre
 dinosaurios](https://etheriamagazine.com/2018/12/20/dino-parque-lourinha-una-experiencia-familiar-entre-dinosaurios/)' 
 tienes todos los detalles de este Dino parque. 
 
-![Dino parque de Lourinhá, el paraíso para los amantes de los dinosaurios.](etheria-images/2018/12/Dinoparque-lourinha-viajes-familias-5-e1561371638676.jpg "El paraíso para los amantes de los dinosaurios. ©PG")
+![Dino parque de Lourinhá, el paraíso para los amantes de los dinosaurios.](https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-5-e1561371638676.jpg "El paraíso para los amantes de los dinosaurios. ©PG")
 
 ### Grutas da Moeda
 
@@ -47,7 +47,7 @@ muy amena. Es un plan ideal para hacer en el Centro de Portugal con niños.
 
 Más información en grutasmoeda.com/es 
 
-![Grutas da Moeda situadas en Sao Mamede, una visita ideal para hacer con niños en el Centro de Portugal](etheria-images/2019/06/cuevas-moeda-portugal.jpg "Grutas da Moeda situadas en Sao Mamede. ©PG")
+![Grutas da Moeda situadas en Sao Mamede, una visita ideal para hacer con niños en el Centro de Portugal](https://fotos.etheriamagazine.com/2019/06/cuevas-moeda-portugal.jpg "Grutas da Moeda situadas en Sao Mamede. ©PG")
 
 ### Eco Parque sensorial de Pia do Urso
 
@@ -59,7 +59,7 @@ ciclo del agua, la música, el planeta, etc. El Eco Parque Sensorial está situa
 un placer pasear por sus callejuelas y comer la gastronomía típica de la zona en alguno 
 de sus restaurantes. 
 
-![Eco Parque sensorial de Pia do Urso, un plan perfecto para hacer en el Centro de Portugal con niños](etheria-images/2019/06/Pia-do-Urso-Portugal.jpg "Eco Parque sensorial de Pia do Urso. ©PG")
+![Eco Parque sensorial de Pia do Urso, un plan perfecto para hacer en el Centro de Portugal con niños](https://fotos.etheriamagazine.com/2019/06/Pia-do-Urso-Portugal.jpg "Eco Parque sensorial de Pia do Urso. ©PG")
 
 ### Parque Biológico da Serra da Lousa
 
@@ -70,7 +70,7 @@ niños, donde te puedes alojar y, desde ahí, disfrutar del entorno y de los ani
 se encuentran en semi libertad en una enorme extensión de terreno. Acércate también a 
 conocer los talleres artesanales donde trabajan personas con diversas capacidades. 
 
-![Parque Biologico da Serra da Lousa](etheria-images/2019/06/parque-naturaleza-serra-da-lousa.jpg "Parque Biológico da Serra da Lousa. ©PG")
+![Parque Biologico da Serra da Lousa](https://fotos.etheriamagazine.com/2019/06/parque-naturaleza-serra-da-lousa.jpg "Parque Biológico da Serra da Lousa. ©PG")
 
 ### Parque de aventura de Figueira da Foz
 
@@ -80,7 +80,7 @@ Este gran circuito sobre los árboles pone a prueba tu habilidad motriz y te des
 vencer el vértigo. Dispone de diversos tipos de circuitos, por lo que incluso los más 
 pequeños pueden hacer sus pinitos sobre los árboles. 
 
-![Parque de Aventura en Figueira da Foz](etheria-images/2019/06/Parque-Arboles-figueira-foz.jpg "Parque de Aventura de Figueira da Foz. ©PG")
+![Parque de Aventura en Figueira da Foz](https://fotos.etheriamagazine.com/2019/06/Parque-Arboles-figueira-foz.jpg "Parque de Aventura de Figueira da Foz. ©PG")
 
 ### Portugal dos Pequenitos, visita obligada en un viaje al Centro de Portugal con niños
 
@@ -91,7 +91,7 @@ puede entrar y salir con total libertad. En la vivienda de Madeira se encuentra 
 escultura de Cristiano Ronaldo pero no hay más figuras en el parque. También cuentan con 
 un trenecito para recorrerlo cómodamente. 
 
-![Portugal das Pequenhitos, un parque que visitar en Coimbra](etheria-images/2019/06/Portugal-dos-Pequenhitos.jpg "Portugal dos Pequenhitos, en Coimbra. ©PG")
+![Portugal das Pequenhitos, un parque que visitar en Coimbra](https://fotos.etheriamagazine.com/2019/06/Portugal-dos-Pequenhitos.jpg "Portugal dos Pequenhitos, en Coimbra. ©PG")
 
 ### Como lobos de mar en Aveiro
 
@@ -107,7 +107,7 @@ Ría de Aveiro. Si decides pasar un par de días en esta ciudad, anímate a real
 (oficinadodoce.com), y visitar **Costa Nova**, con sus viviendas de pescadores y sus 
 grandes arenales. 
 
-![Paseo en un barco moliceiro en Aveiro](etheria-images/2019/06/canales-aveiro-moliceiro.jpg "Paseo en moliceiro por los canales de Aveiro. ©PG")
+![Paseo en un barco moliceiro en Aveiro](https://fotos.etheriamagazine.com/2019/06/canales-aveiro-moliceiro.jpg "Paseo en moliceiro por los canales de Aveiro. ©PG")
 
 ### Museo Marítimo de Ílhavo
 
@@ -117,7 +117,7 @@ el horario en el que alimentan a los bacalaos porque es todo un espectáculo. En
 los barcos del **Museo Marítimo de Ílhavo**, además, los niños podrán subir para 
 curiosear por el interior. 
 
-![Museo Maritimo de ilhavo](etheria-images/2019/06/Museo-Maritimo-Ilhavo.jpg "Museo Marítimo de Ílhavo. ©PG")
+![Museo Maritimo de ilhavo](https://fotos.etheriamagazine.com/2019/06/Museo-Maritimo-Ilhavo.jpg "Museo Marítimo de Ílhavo. ©PG")
 
 ### Bioría de Salreu
 
@@ -129,7 +129,7 @@ tabla de _paddle surf_ para navegar por las rías. Siguiendo sus senderos, perfe
 señalizados, se pueden observar aves (coged un folleto en el Centro de Interpretación 
 Ambiental para identificarlas) y los diversos ecosistemas que lo componen. 
 
-![Bioria de Salreu](etheria-images/2019/06/Bioria-Salreu-Portugal.jpg "Bioría de Salreu. ©PG")
+![Bioria de Salreu](https://fotos.etheriamagazine.com/2019/06/Bioria-Salreu-Portugal.jpg "Bioría de Salreu. ©PG")
 
 Con esta visita terminamos este recorrido por la Región Centro de Portugal donde hemos 
 realizado algunas paradas para disfrutar de actividades en medios naturales o de 

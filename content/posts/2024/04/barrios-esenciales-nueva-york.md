@@ -1,7 +1,7 @@
 ---
-title: "Barrios de Nueva York 22222: del góspel de Harlem al arte urbano del Bronx y a los lugares de moda de Brooklyn"
+title: "Barrios de Nueva York: del góspel de Harlem al arte urbano del Bronx y a los lugares de moda de Brooklyn"
 date: 2024-04-08
-coverImage: etheria-images/2024/04/nueva-york-harlem-casas.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/04/nueva-york-harlem-casas.jpg
 categories: 
   - viajes-con-amigas
   - viajes-urbanos
@@ -18,7 +18,7 @@ que no puedes perderte en Harlem (al norte de Manhattan), el Bronx, Queens, Broo
 Staten Island. Para que no te falten planes ninguna de las veces que viajes a Nueva 
 York. 
 
-![Casas de Harlem.](etheria-images/2024/04/nueva-york-harlem-casas.jpg "Casas de Harlem.")
+![Casas de Harlem.](https://fotos.etheriamagazine.com/2024/04/nueva-york-harlem-casas.jpg "Casas de Harlem.")
 
 Es muy probable que en un primer viaje a Nueva York el foco lo pongas en Manhattan, esa 
 isla central llena de rascacielos, luces, museos y barrios tan diferentes que son 
@@ -59,7 +59,7 @@ de las iglesias donde puedes acudir el domingo por la mañana para verlas son la
 **Abyssinian Baptist Church**, la **Bethel Gospel Assembly** o la **Canaan Baptist 
 Church**. 
 
-![Estatua Alma Mater de la Universidad de Columbia.](etheria-images/2024/04/nueva-york-universidad-columbia.jpg "Estatua Alma Mater de la Universidad de Columbia. © Susana García.")
+![Estatua Alma Mater de la Universidad de Columbia.](https://fotos.etheriamagazine.com/2024/04/nueva-york-universidad-columbia.jpg "Estatua Alma Mater de la Universidad de Columbia. © Susana García.")
 
 Una visita al barrio de Harlem puede comenzar por la famosa **Universidad de Columbia**, 
 célebre por las manifestaciones estudiantiles de 1968 y que guarda su espíritu 
@@ -84,7 +84,7 @@ entrada. En este barrio también se encuentra el mítico **Cotton Club**, cuna d
 neoyorkino, puedes pasar por delante para verlo y para para tomar una foto, aunque no 
 hay nada muy interesante alrededor. 
 
-![Estadio de los Yankees.](etheria-images/2024/04/nueva-york-estadio-yankees.jpg "Estadio de los Yankees. © David Vives.")
+![Estadio de los Yankees.](https://fotos.etheriamagazine.com/2024/04/nueva-york-estadio-yankees.jpg "Estadio de los Yankees. © David Vives.")
 
 ## El Bronx, grafitis y mitos urbanos
 
@@ -99,7 +99,7 @@ principales se las llevaran algunos de los murales de arte urbano más conocidos
 ciudad, como el dedicado a **Big Pun** (Christopher Ríos) o el de **'I love the 
 Bronx'**. 
 
-![Fotos delante del grafiti de Big Pun en el Bronx.](etheria-images/2024/04/nueva-york-bronx-grafiti.jpg "Fotos delante del grafiti de Big Pun en el Bronx. © Susana García.")
+![Fotos delante del grafiti de Big Pun en el Bronx.](https://fotos.etheriamagazine.com/2024/04/nueva-york-bronx-grafiti.jpg "Fotos delante del grafiti de Big Pun en el Bronx. © Susana García.")
 
 En una visita guiada te contarán la singularidad de un barrio donde la presencia de las 
 bandas es muy fuerte y el significado de las zapatillas colgando de los cordones en los 
@@ -129,7 +129,7 @@ edificios, incluso los más pequeños. Este parque acoge también el **Salón de
 de Nueva York** y algunos espacios deportivos como el estadio de los Mets o la sede del 
 US Open de tenis. 
 
-![Unisphere, en el parque Flushing Meadows-Corona.](etheria-images/2024/04/nueva-york-barrios-parque-flushing-meadows.jpg "Unisphere, en el parque Flushing Meadows-Corona. © Emma Angel.")
+![Unisphere, en el parque Flushing Meadows-Corona.](https://fotos.etheriamagazine.com/2024/04/nueva-york-barrios-parque-flushing-meadows.jpg "Unisphere, en el parque Flushing Meadows-Corona. © Emma Angel.")
 
 ### Barrios étnicos y mucho arte
 
@@ -146,7 +146,7 @@ Brooklyn. Fundamentalmente conocido por el famoso puente que lo une con Manhatta
 distrito enorme, compuesto por más de sesenta barrios, que tiene mucho por ver y 
 descubrir. 
 
-![Puente y barrio de Brooklyn.](etheria-images/2024/04/nueva-york-puente-brooklyn.jpg "Puente y barrio de Brooklyn.")
+![Puente y barrio de Brooklyn.](https://fotos.etheriamagazine.com/2024/04/nueva-york-puente-brooklyn.jpg "Puente y barrio de Brooklyn.")
 
 ### Dumbo
 
@@ -175,7 +175,7 @@ turista, estás invadiendo su día a día que, por muy exótico que te parezca, 
 rutina, así que lo mejor es ser prudente a la hora de tomar fotografías porque no les 
 hace mucha gracia estar en el foco. 
 
-![Tienda en el barrio judío ultraortodoxo de Williamsburg.](etheria-images/2024/04/nueva-york-barrio-judio-tienda.jpg "Tienda en el barrio judío ultraortodoxo de Williamsburg. © Susana García.")
+![Tienda en el barrio judío ultraortodoxo de Williamsburg.](https://fotos.etheriamagazine.com/2024/04/nueva-york-barrio-judio-tienda.jpg "Tienda en el barrio judío ultraortodoxo de Williamsburg. © Susana García.")
 
 ## Staten Island, vida residencial al margen de Nueva York
 
@@ -188,7 +188,7 @@ interesantes, como los museos y jardines de **Snug Harbour**, la **casa museo de
 fotógrafa Alice Austen** o el **Ligthouse Museum**, dedicado a la historia de los faros 
 (a este último se puede llegar caminando desde el muelle del ferry). 
 
-**También te puede interesar:** 
+****También en Etheria Magazine**:** 
 
 [Una guía para que no te dejes (casi) nada por ver en 
 Manhattan](https://etheriamagazine.com/2024/01/11/que-ver-en-manhattan-nueva-york/) 

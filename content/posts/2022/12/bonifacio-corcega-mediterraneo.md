@@ -1,7 +1,7 @@
 ---
 title: "Bonifacio, uno de los pueblos más bellos del Mediterráneo"
 date: 2022-12-05
-coverImage: etheria-images/2022/11/Bonifacio-castillo.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/11/Bonifacio-castillo.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -13,7 +13,7 @@ auténtico refugio mediterráneo. Su perfil colgado de las rocas costeras te sed
 instante, pero además está lleno de historia, leyendas y rincones secretos. ¿Te vienes a 
 visitar una de las poblaciones más bellas del Mediterráneo? 
 
-![Puerto de Bonifacio por la noche.](etheria-images/2022/11/Bonifacio-castillo.jpg "Puerto de Bonifacio por la noche. © Bonifacio Tourisme")
+![Puerto de Bonifacio por la noche.](https://fotos.etheriamagazine.com/2022/11/Bonifacio-castillo.jpg "Puerto de Bonifacio por la noche. © Bonifacio Tourisme")
 
 Córcega está aferrada a un tumultuoso pasado de _vendettas_ y episodios reivindicativos 
 (que la Historia sigue ‘repasando’), porque la isla siempre ha conservado un espíritu de 
@@ -39,7 +39,7 @@ ciudad domina, desde una altura de 70 metros, las olas del mar que rugen contra 
 llamadas Bocas de Bonifacio, unas grutas que el agua y el poniente han ido tallando en 
 la piedra calcárea. Es uno de esos lugares que hace gala al dicho “ver para creer”. 
 
-![pueblo y acantilados de Bonfiacio](etheria-images/2022/11/Bonifaciopanoramica.jpg "Bonifacio visto desde el mar. © Bonifacio Tourisme")
+![pueblo y acantilados de Bonfiacio](https://fotos.etheriamagazine.com/2022/11/Bonifaciopanoramica.jpg "Bonifacio visto desde el mar. © Bonifacio Tourisme")
 
 Cuenta la leyenda que el episodio de la _Odisea_ en el que Ulises se enfrenta a unos 
 gigantes antropófagos podía haber tenido lugar allí, en la procelosa franja de mar que 
@@ -52,7 +52,7 @@ _Mare Nostrum_.
 Así que, si no llegas Bonifacio por barco, tienes que subirte al ferry turístico que 
 ofrece paseos de una hora por el litoral. Imprescindible. 
 
-![terrazas en la Plaza Manicella](etheria-images/2022/11/Bonifacio-Place-Manicella.jpg "Plaza Manicella, en el centro de Bonifacio. © Pedro Grifol")
+![terrazas en la Plaza Manicella](https://fotos.etheriamagazine.com/2022/11/Bonifacio-Place-Manicella.jpg "Plaza Manicella, en el centro de Bonifacio. © Pedro Grifol")
 
 ## Qué ver en la Ciudadela
 
@@ -72,7 +72,7 @@ de Arena**, una fantasmagórica escultura natural desprendida del acantilado. En
 Manicella impresiona ver la casa ‘más colgada’, la más desafiante, se trata del 
 _palazzino_ que perteneció a Marie-José Nat, actriz bonifaciana que falleció en 2019. 
 
-![Acantilados de Bonifacio](etheria-images/2022/11/Bonifacio-Grano-Arena.jpg "Roca llamada Grano de Arena frente a los acantilados de Bonifacio. © Bonifacio Tourisme")
+![Acantilados de Bonifacio](https://fotos.etheriamagazine.com/2022/11/Bonifacio-Grano-Arena.jpg "Roca llamada Grano de Arena frente a los acantilados de Bonifacio. © Bonifacio Tourisme")
 
 Es el momento de perdernos por entre sus callejones, mirando a un lado y a otro, arriba 
 y abajo. En la **calle des Deux-Empereurs** (en los números 4 y 7) hay unas placas 
@@ -93,7 +93,7 @@ deambulando por las calles y tomando nota de historias y anécdotas urbanas. El 
 de la calle Doria exhibe un frontón fechado en 1320 que perteneció a los Doria (nobles 
 genoveses). 
 
-![Iglesia de Santa María la Mayor.](etheria-images/2022/11/Bonifacio-Iglesia-Sainte-Marie.jpg "Iglesia de Santa María la Mayor. © Bonifacio Tourisme")
+![Iglesia de Santa María la Mayor.](https://fotos.etheriamagazine.com/2022/11/Bonifacio-Iglesia-Sainte-Marie.jpg "Iglesia de Santa María la Mayor. © Bonifacio Tourisme")
 
 Después entramos en el edificio más antiguo de Bonifacio –siglo XII–, la **iglesia de 
 Santa María Mayor**, levantado por los pisanos (de Pisa), pero que las numerosas 
@@ -119,7 +119,7 @@ Mediterráneo.
 Más al final, ya en la punta, se erige el monumento conmemorativo del naufragio del 
 Sémillante (el barco del que hemos contado su historia anteriormente). 
 
-![Barcos en el puerto de Bonifacio.](etheria-images/2022/11/Bonifacio-puerto.jpg "Barcos en el puerto de Bonifacio. © Pedro Grifol")
+![Barcos en el puerto de Bonifacio.](https://fotos.etheriamagazine.com/2022/11/Bonifacio-puerto.jpg "Barcos en el puerto de Bonifacio. © Pedro Grifol")
 
 En el lado este, un empedrado sendero lleva a la capilla de Saint-Roch. Desde allí 
 podemos ir a la **playa de Sotta Rocca**, aunque el camino ya es más agreste. La playa 
@@ -135,7 +135,7 @@ farallones que surgen desde las profundidades submarinas.
 Siéntate un rato. Ya puedes respirar tranquilo. Estás viendo, por primera vez, uno de 
 los pueblos más bellos del Mediterráneo… ¡y qué no sabías que existía! 
 
-![Tren turístico por el centro de Bonifacio.](etheria-images/2022/11/Bonifacio-tren.jpg "Tren turístico por el centro de Bonifacio. © Pedro Grifol")
+![Tren turístico por el centro de Bonifacio.](https://fotos.etheriamagazine.com/2022/11/Bonifacio-tren.jpg "Tren turístico por el centro de Bonifacio. © Pedro Grifol")
 
 ## Consejos Etheria - Guía práctica
 
@@ -179,7 +179,7 @@ naturalmente, no puedes olvidarte del plato típico de este lugar: ‘berenjenas
 _bonifacienne_’, rellenas de queso _brocciu_. Las del restaurante **U Castille** son 
 excelentes. 
 
-![Bonifacio por la noche](etheria-images/2022/11/Bonifacio-noche.jpg "Calle con restaurantes en Bonifacio. © Pedro Grifol")
+![Bonifacio por la noche](https://fotos.etheriamagazine.com/2022/11/Bonifacio-noche.jpg "Calle con restaurantes en Bonifacio. © Pedro Grifol")
 
 ### Cuándo ir a Córcega
 

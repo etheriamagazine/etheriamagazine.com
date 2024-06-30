@@ -1,7 +1,7 @@
 ---
 title: "Gijón: una gastroescapada que te dejará muy buen sabor de boca"
 date: 2021-01-25
-coverImage: etheria-images/2021/01/viaje-con-amigas-gijon.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/viaje-con-amigas-gijon.jpg
 categories: 
   - viajes-con-amigas
   - mejores-restaurantes-gastronomia
@@ -15,7 +15,7 @@ vibrante y deliciosa de Asturias. Convoca a tus amigas y deja que brille la _foo
 llevas dentro con las tentaciones que te proponemos en Etheria Magazine. Un placer para 
 los sentidos con el Cantábrico como telón de fondo. 
 
-![puerto de gijon](etheria-images/2021/01/viaje-con-amigas-gijon.jpg "Gijón, un destino para comérselo.")
+![puerto de gijon](https://fotos.etheriamagazine.com/2021/01/viaje-con-amigas-gijon.jpg "Gijón, un destino para comérselo.")
 
 Variedad, calidad, productos de proximidad y constante evolución. Estas son las máximas 
 que se cuecen en los fogones de la Villa de Jovellanos y que se suman a su larga lista 
@@ -40,7 +40,7 @@ acaricia el paladar en su comedor de ambiente marinero, y en la barra donde no f
 clásicos como las gambas a la gabardina. La guinda del pastel: la tarta de queso 
 (Cervantes, 9). 
 
-![restaurante zascandil de gijon](etheria-images/2021/01/gijon-restaurante-Zascandil.jpg "José Luis Camacho, alma mater del Zascandil.")
+![restaurante zascandil de gijon](https://fotos.etheriamagazine.com/2021/01/gijon-restaurante-Zascandil.jpg "José Luis Camacho, alma mater del Zascandil.")
 
 ### Tomate Bistró
 
@@ -51,7 +51,7 @@ restaurantes de Gijón: maestría, buen producto, impecable servicio, y una cart
 que triunfa el arroz con Pitu, el ceviche de corvina y las croquetas melosas de jamón 
 (San Antonio, 7). 
 
-![sergio fernandez de tomate bistro](etheria-images/2021/01/gijon-Tomate-Bistro.jpg "Las propuestas de Sergio Fernández en Tomate Bistró nunca defraudan")
+![sergio fernandez de tomate bistro](https://fotos.etheriamagazine.com/2021/01/gijon-Tomate-Bistro.jpg "Las propuestas de Sergio Fernández en Tomate Bistró nunca defraudan")
 
 ### Auga
 
@@ -62,7 +62,7 @@ la cocina de mercado de Gonzalo Pañeda y de las recomendaciones del sumiller An
 Pérez. Date un capricho y prueba el menú degustación. Sus elaboraciones te seducirán por 
 la vista y te conquistarán por el paladar (Claudio Alvargonzález, s/n). 
 
-![restaurante agua de gijon](etheria-images/2021/01/gijon-resturante-Auga.jpg "Auga, una experiencia sensorial con vistas al mar.")
+![restaurante agua de gijon](https://fotos.etheriamagazine.com/2021/01/gijon-resturante-Auga.jpg "Auga, una experiencia sensorial con vistas al mar.")
 
 ### La Salgar y Gloria
 
@@ -72,7 +72,7 @@ los sabores de toda la vida con creatividad y mucha técnica, como demuestran en
 elaboración de La Salgar (Paseo Dr. Fleming, 887, más info en lasalgar.com) y Gloria 
 (Plaza Florencio Rodríguez, 3. más info en estasengloria.com)**.** 
 
-![restaurante gloria de gijon](etheria-images/2021/01/gijon-resturante-Gloria.jpg "Esther y Nacho Manzano, del restaurante Gloria, fieles defensores de la filosofía km 0.")
+![restaurante gloria de gijon](https://fotos.etheriamagazine.com/2021/01/gijon-resturante-Gloria.jpg "Esther y Nacho Manzano, del restaurante Gloria, fieles defensores de la filosofía km 0.")
 
 En La Salgar –una estrella Michelin situada en los jardines del imprescindible Muséu del 
 Pueblu d'Asturies–, se impone probar el menú tradicional y prestar especial atención a 
@@ -88,7 +88,7 @@ regionales como el entrecot de ternera asturiana o el bacalao con guiso de callo
 ello en un coqueto restaurante decorado con obras de artistas asturianos que cuenta, 
 además, con una agradable terraza (Marqués de San Esteban, 2). 
 
-![restaurante camelia by ricardo sotres de gijon](etheria-images/2021/01/gijon-resturante-Camelia.jpg "Camelia by Ricardo Sotres.")
+![restaurante camelia by ricardo sotres de gijon](https://fotos.etheriamagazine.com/2021/01/gijon-resturante-Camelia.jpg "Camelia by Ricardo Sotres.")
 
 \* Una buena opción para disfrutar de la mejor gastronomía de la ciudad es el bono Gijón 
 Gourmet que puedes utilizar en siete destacados restaurantes. El precio del menú es 45 
@@ -111,7 +111,7 @@ Asturias. Fabada, pote, chuletón a la brasa, frixuelinos, cachopos... Dos bocad
 imprescindibles: el bacalao a la sidra y los helados caseros (Carretera de Lavandera, 
 3255). 
 
-![casa trabanco sidreria de gijon](etheria-images/2021/01/gijon-Casa-Trabanco.jpg "Casa Trabanco, un clásico de Gijón.")
+![casa trabanco sidreria de gijon](https://fotos.etheriamagazine.com/2021/01/gijon-Casa-Trabanco.jpg "Casa Trabanco, un clásico de Gijón.")
 
 ### Tierra Astur Poniente
 
@@ -122,7 +122,7 @@ un paso de la playa, es perfecta para bajar un festival de sabores que incluye, 
 otros, carnes y pescados a la parrilla, tablas de tortos, cachopos, platos de cuchara y 
 quesos (Mariano Pola, 10). 
 
-![sidreria tierra astur poniente de gijon](etheria-images/2021/01/gijon-Tierra-Astur-Poniente.jpg "Sidrería Tierra Astur Poniente.")
+![sidreria tierra astur poniente de gijon](https://fotos.etheriamagazine.com/2021/01/gijon-Tierra-Astur-Poniente.jpg "Sidrería Tierra Astur Poniente.")
 
 ### Sidrería restaurante Río Astur
 
@@ -133,7 +133,7 @@ Menéndez, una guisandera sobrada de oficio. ¿El resultado? Pescados de tempora
 pixín negro, potes, arroces, mariscos y carnes, que maridan con su selección de sidras y 
 que culminan con deliciosos postres caseros (Río de Oro, 3). 
 
-![sidreria gijon Rio Astur](etheria-images/2021/01/gijon-sidreria-Rio-Astur.jpg "Sidrería restaurante Río Astur, en Gijón.")
+![sidreria gijon Rio Astur](https://fotos.etheriamagazine.com/2021/01/gijon-sidreria-Rio-Astur.jpg "Sidrería restaurante Río Astur, en Gijón.")
 
 ## Citas informales y dulces provocaciones
 
@@ -142,7 +142,7 @@ Prueba de ello son las deliciosas hamburguesas de **Karan Eat & Socialize** (Mel
 Álvarez, 3), las de **Serendipia** (Ezcurdia, 26) o la comida sobre masa de **Padrino** 
 –mucho más que pizzas– (Santa Elena, 5). 
 
-![restaurante karan hamburguesas en gijon](etheria-images/2021/01/gijon-hamburguesas-Karan.jpg "Karan Eat & Socialize, sabrosos entrantes y hamburguesas épicas.")
+![restaurante karan hamburguesas en gijon](https://fotos.etheriamagazine.com/2021/01/gijon-hamburguesas-Karan.jpg "Karan Eat & Socialize, sabrosos entrantes y hamburguesas épicas.")
 
 Y luego está el Gijón más dulce, ese que se traduce en **más de 60 confiterías** 
 repartidas por toda la ciudad. Acércate a cualquier oficina de turismo, hazte con los 
@@ -150,7 +150,7 @@ repartidas por toda la ciudad. Acércate a cualquier oficina de turismo, hazte c
 para sucumbir a los limoncitos de Aliter Dulcia, los alfajores de Punto Caramelo, las 
 trufas de manzana de Alejandro's o los bombones de Cabrales y nueces de Imperial. 
 
-![bonos gijon goloso para pastelerias](etheria-images/2021/01/bonos-pastelerias-Gijon-Goloso.jpg "La repostería de Gijón, el pecado más dulce.")
+![bonos gijon goloso para pastelerias](https://fotos.etheriamagazine.com/2021/01/bonos-pastelerias-Gijon-Goloso.jpg "La repostería de Gijón, el pecado más dulce.")
 
 ## Gastronomía líquida, cócteles de autor
 
@@ -160,7 +160,7 @@ panorama nacional, la experiencia alcanza la categoría de lujo. Él es Borja Co
 casa, el **Varsovia** (varsoviagijon.com), todo un referente en el mundo de la 
 coctelería (Cabrales, 18). 
 
-![cocteleria varsovia gijon](etheria-images/2021/01/gijon-cocteles-Varsovia.jpg "Borja Cortina, el genio de la coctelería Varsovia (Gijón).")
+![cocteleria varsovia gijon](https://fotos.etheriamagazine.com/2021/01/gijon-cocteles-Varsovia.jpg "Borja Cortina, el genio de la coctelería Varsovia (Gijón).")
 
 Dos opciones más para una copa especial: **The Balance Gijón,** un local con alma de 
 _speakeasy bar_ (San Antonio, 1) y **El Patio de la Favorita** y sus sesiones de jazz 
@@ -175,7 +175,7 @@ de exquisiteces: quesos, mermeladas, fabes, conservas, sidra, cervezas artesanal
 patés, dulces… Así, cuando los degustes en casa, recordarás que la gastronomía de Gijón 
 da para mucho pero siempre sabe a poco. Más info en lagijonesa.com 
 
-![pastelerias la gijonesa de gijon](etheria-images/2021/01/pasteleria-La-Gijonesa.jpg "Tiendas © La Gijonesa.")
+![pastelerias la gijonesa de gijon](https://fotos.etheriamagazine.com/2021/01/pasteleria-La-Gijonesa.jpg "Tiendas © La Gijonesa.")
 
 ## Guía de viajes de Gijón
 

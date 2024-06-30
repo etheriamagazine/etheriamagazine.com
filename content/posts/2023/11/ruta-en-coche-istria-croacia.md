@@ -1,8 +1,9 @@
 ---
-title: "Ruta en coche por la península de Istria, la Riviera croata con más estilo"
+title: "Ruta en coche por la península de Istria, la Riviera más estilosa de Croacia"
 date: 2023-11-16
-coverImage: etheria-images/2023/11/Istria-Rovinj.-Atardecer-chicas.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/11/Istria-Rovinj.-Atardecer-chicas.jpg
 categories: 
+  - viajes-con-amigas
   - viajes-para-mujeres
 authors: 
   - Alfredo G. Reyes
@@ -14,7 +15,7 @@ veneciano, nos perderemos por las calles de sus preciosas ciudades y degustaremo
 esas gastronomías que suman muchos puntos a un viaje. Cuando te lo contemos, no vas a 
 poder resistirte a organizar aquí tu próxima escapada. 
 
-![dos mujeres en el tardecer en Rovinj](etheria-images/2023/11/Istria-Rovinj.-Atardecer-chicas.jpg "Atardecer en Rovinj. © Alfredo G. Reyes.")
+![dos mujeres en el tardecer en Rovinj](https://fotos.etheriamagazine.com/2023/11/Istria-Rovinj.-Atardecer-chicas.jpg "Atardecer en Rovinj. © Alfredo G. Reyes.")
 
 Istria es la más grande de las penínsulas del Mar Adriático, un atractivo recoveco del 
 Mediterráneo con forma de corazón, situado entre la Italia continental y los Balcanes. 
@@ -52,7 +53,7 @@ medievales de piedra vista que ascienden, como un laberinto, hacia la explanada 
 de 60 metros de altura, esta torre es visible desde prácticamente cualquier punto de 
 Rovinj. 
 
-![Casas de Rovinj al atardecer.](etheria-images/2023/11/Istria-Rovinj.jpg "Casas de Rovinj al atardecer. © Istria Tourist Board.")
+![Casas de Rovinj al atardecer.](https://fotos.etheriamagazine.com/2023/11/Istria-Rovinj.jpg "Casas de Rovinj al atardecer. © Istria Tourist Board.")
 
 A sus pies, decenas de terrazas intentan captar clientes de una forma poco invasiva. 
 Quizás porque son conscientes de que quien llega aquí es alguien bastante diferente en 
@@ -73,7 +74,7 @@ con unas impagables vistas al mar, al puerto y la ciudad vieja, el chef Jeffrey 
 ofrece a sus comensales una interesante experiencia de 20 pases, en la que los productos 
 vegetales locales componen un relato culinario sorprendente y, sin duda, muy saludable. 
 
-![trufa de Istria](etheria-images/2023/11/Istria-Trufa.jpg "La excelente trufa de Istria es un ingrediente muy presente en su gastronomía. © Istria Tourist Board.")
+![trufa de Istria](https://fotos.etheriamagazine.com/2023/11/Istria-Trufa.jpg "La excelente trufa de Istria es un ingrediente muy presente en su gastronomía. © Istria Tourist Board.")
 
 ## Un paseo por Pula
 
@@ -92,7 +93,7 @@ y el **Arco de los Sergios**. Pero Pula es también uno de los puertos más acti
 Istria, punto de partida hacia el Parque Nacional de las Islas Brijuni, o Brioni 
 (www.np-brijuni.hr), y sus apabullantes ecosistemas terrestre y marino. 
 
-![Anfiteatro de Pula por la noche](etheria-images/2023/11/Istria-Pula-anfiteatro.jpg "Anfiteatro de Pula. © Istria Tourist Board.")
+![Anfiteatro de Pula por la noche](https://fotos.etheriamagazine.com/2023/11/Istria-Pula-anfiteatro.jpg "Anfiteatro de Pula. © Istria Tourist Board.")
 
 Antes de embarcarse se impone un paseo tranquilo y sin rumbo por las calles de Pula, 
 alguna de las cuales respeta en su trazado actual el de las antiguas vías romanas que 
@@ -109,7 +110,7 @@ largo de los siglos, que conserva numerosos rasgos originales. Por ejemplo, los
 maravillosos mosaicos bizantinos que hay en el ábside, realizados con gran maestría. O 
 el atrio distribuidor del conjunto y su armónica arquería. 
 
-![Basílica de San Eufrasio en Porec](etheria-images/2023/11/Istria-Catedral-de-Porec.jpg "Basílica de San Eufrasio. © Alfredo G. Reyes.")
+![Basílica de San Eufrasio en Porec](https://fotos.etheriamagazine.com/2023/11/Istria-Catedral-de-Porec.jpg "Basílica de San Eufrasio. © Alfredo G. Reyes.")
 
 Poreč, como el resto de las ciudades principales de la Istria costera, es un buen lugar 
 para recorrerlo sin prisa alguna. Se puede optar por el amplio paseo marítimo, que rodea 
@@ -135,7 +136,7 @@ factura con que se levantaron sus principales monumentos: la **iglesia de la
 Visitación**, con su gran torre apuntada y, sobre todo, el **castillo de Soardo-Bembo** 
 (siglo XV), de claro estilo veneciano. 
 
-![Calle típica de Bale en Istria](etheria-images/2023/11/Istria-Bale-calle-tipica.jpg "Calle típica de Bale. © Alfredo G. Reyes.")
+![Calle típica de Bale en Istria](https://fotos.etheriamagazine.com/2023/11/Istria-Bale-calle-tipica.jpg "Calle típica de Bale. © Alfredo G. Reyes.")
 
 Atraídos por la belleza del lugar, un buen puñado de artistas han desembarcado en el 
 pueblo, compartiendo su creatividad en las más diversas formas, materiales y motivos y 
@@ -155,7 +156,7 @@ rutas en barquito regalan alguno de los paisajes más sobresalientes de la regi�
 entorno que también se puede recorrer a pie o en bicicleta, aprovechando la red de 
 senderos que discurre en paralelo al fiordo. 
 
-![Canal de Lim en Istria](etheria-images/2023/11/istria-Canal-de-Lim.jpg "Canal de Lim. © Istria Tourist Board.")
+![Canal de Lim en Istria](https://fotos.etheriamagazine.com/2023/11/istria-Canal-de-Lim.jpg "Canal de Lim. © Istria Tourist Board.")
 
 Tal es su singularidad, que Lim está declarado Reserva Natural, fundamentalmente por sus 
 fondos subacuáticos, donde habita una gran biodiversidad de peces y especies vegetales. 
@@ -171,7 +172,7 @@ literalmente, el mejor sabor de boca.
 
 [Turismo de Istria.](http://www.istra.hr/en/explore-istria) 
 
-? **También te puede interesar:** 
+**También te puede interesar:** 
 
 [Croacia: consejos y visitas imprescindibles para tu primer 
 viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/) 

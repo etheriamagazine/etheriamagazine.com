@@ -1,7 +1,7 @@
 ---
 title: "El Bordado serrano, próximo Bien de Interés Cultural Inmaterial"
 date: 2022-01-14
-coverImage: etheria-images/2022/01/bordado-serrano-sierra-francia-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/01/bordado-serrano-sierra-francia-1.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 El Bordado Popular de la Sierra de Francia, o Bordado serrano, ya cuenta con la incoación del expediente de Bien de Interés Cultural Inmaterial de la Junta de Castilla y León. Con esta declaración se protegerán los elementos simbólicos e intangibles relacionados con la comarca, y se reconocerán los fuertes vínculos que se crean entre las mujeres bordadoras sin que importe la edad o la situación social en que se encuentren.
 
-![bordado serrano sierra de francia](etheria-images/2022/01/bordado-serrano-sierra-francia-1.jpg "Bordado serrano. © Pepa García")
+![bordado serrano sierra de francia](https://fotos.etheriamagazine.com/2022/01/bordado-serrano-sierra-francia-1.jpg "Bordado serrano. © Pepa García")
 
 Tras cuatros años de investigación histórica y testimonial de sus orígenes, técnicas, 
 influencias y tipología del **Bordado serrano**, la Junta de Castilla y León ha iniciado 
@@ -28,7 +28,7 @@ conocer la historia detallada del Bordado serrano en el **Museo Etnográfico ‘
 Artesanías’ de Mogarraz.** O bien seguir leyendo, ya que te daremos unos cuantos datos 
 de interés. 
 
-![museo etnografico mogarraz](etheria-images/2022/01/museo-artesanía-mogarraz.jpg "Museo Etnográfico ‘Casa de las Artesanías’ de Mogarraz. © Pepa García")
+![museo etnografico mogarraz](https://fotos.etheriamagazine.com/2022/01/museo-artesanía-mogarraz.jpg "Museo Etnográfico ‘Casa de las Artesanías’ de Mogarraz. © Pepa García")
 
 Los bordados serranos se aplicaban no sólo en tejidos para el hogar o en la vestimenta 
 popular, sino también en paños rituales y manteles para altares (curiosamente, sin 
@@ -44,7 +44,7 @@ estas labores no caigan en el olvido existen cursos de formación y talleres de
 salvaguarda impartidos por grupos como la **Asociación de Mujeres Artesanas de la Sierra 
 de Francia** y la organización [Red Arrayán](https://red-arrayan.com/). 
 
-![pez bordado serrano](etheria-images/2022/01/pez-bordado-serrano-768x1024.jpg "Detalle de un pez en un bordado serrano. © Pepa García")
+![pez bordado serrano](https://fotos.etheriamagazine.com/2022/01/pez-bordado-serrano-768x1024.jpg "Detalle de un pez en un bordado serrano. © Pepa García")
 
 ## Bordado serrano, unas notas básicas
 
@@ -55,7 +55,7 @@ habilidad de las bordadoras, pero, conjuntamente, forman un universo artístico 
 lleno de elementos. Los animales, mitológicos o reales, se entrelazan en un denso 
 ataurique vegetal. 
 
-[![videos bordados serranos en youtube](etheria-images/2022/01/bordados-serranos-videos.jpg)](https://www.youtube.com/watch?v=GdBDa9Xy6LA)
+[![videos bordados serranos en youtube](https://fotos.etheriamagazine.com/2022/01/bordados-serranos-videos.jpg)](https://www.youtube.com/watch?v=GdBDa9Xy6LA)
 
 La iconografía, que va a la par con la trayectoria histórica de este rincón salmantino, 
 deja entrever la influencia de civilizaciones orientales antiguas, renacentistas y 
@@ -64,7 +64,7 @@ vegetal lleno de ramajes por todos lados y la profusión de cenefas y grecas con
 se rellenan los espacios en blanco. Otros rasgos del Bordado serrano son la ausencia de 
 figuras humanas y de motivos geométricos. 
 
-![bodega calixto bordado serrano](etheria-images/2022/01/calixto-bordado-serrano-775x1024.jpg "El bordado serrano, también presente en las etiquetas del vino. © Pepa García")
+![bodega calixto bordado serrano](https://fotos.etheriamagazine.com/2022/01/calixto-bordado-serrano-775x1024.jpg "El bordado serrano, también presente en las etiquetas del vino. © Pepa García")
 
 ## Mogarraz y La Alberca, centros del bordado serrano
 
@@ -75,7 +75,7 @@ XIX, los tejidos tuvieron que cambiar: los telares fueron desapareciendo y surgi
 nuevos materiales, tintes químicos y nuevas técnicas. Incluso el característico _horror 
 vacui_ de las antiguas composiciones se fue aligerando. 
 
-![escultura bordado serrano mogarraz](etheria-images/2022/01/escultura-bordado-serrano.jpg "Escultura en Mogarraz. © Pepa García")
+![escultura bordado serrano mogarraz](https://fotos.etheriamagazine.com/2022/01/escultura-bordado-serrano.jpg "Escultura en Mogarraz. © Pepa García")
 
 Actualmente, las dos poblaciones que centralizan el bordado serrano son [La 
 Alberca](http://www.laalberca.com/artesania) (en su web encontrarás bonitas muestras de 
@@ -88,7 +88,7 @@ sumando algún color salmón debido a la influencia de la escuela vecina. Estas
 diferencias permiten conocer, con cierta precisión, si un bordado procede de una u otra 
 escuela. 
 
-![pueblo la alberca salamanca](etheria-images/2022/01/La-Alberca-783x1024.jpg "Bonito casco antiguo de La Alberca. © Diputación de Salamanca")
+![pueblo la alberca salamanca](https://fotos.etheriamagazine.com/2022/01/La-Alberca-783x1024.jpg "Bonito casco antiguo de La Alberca. © Diputación de Salamanca")
 
 Otro dato interesante es el **lenguaje de los colores** empleados, ya que los tejidos 
 bordados en azul se empleaban para amortajar a los difuntos, mientras que los rojos se 
@@ -101,7 +101,7 @@ la Junta de Castilla y León o de la Unesco, debe poseer un estudio profundo de 
 características. A continuación encontrarás las principales conclusiones y rasgos 
 definitorios del Bordado serrano. 
 
-![bordado serrano mogarraz](etheria-images/2022/01/detalle-bordado-serrano.jpg "Bordado serrano. © Pepa García")
+![bordado serrano mogarraz](https://fotos.etheriamagazine.com/2022/01/detalle-bordado-serrano.jpg "Bordado serrano. © Pepa García")
 
 ### De colores básicos a policromías
 
@@ -112,7 +112,7 @@ zoomorfos, y las mangas de las camisas galanas, especialmente las femeninas. A m
 del siglo XX, se incorporan nuevos colores: malvas, morados, verde hierba, azul cobalto, 
 amarillo dorado, rojo fuego y el salmón. 
 
-![gallo bordado serrano](etheria-images/2022/01/gallo-bordado-serrano-712x1024.jpg "Detalle de un bordado serrano con alegre colorido. © Pepa García")
+![gallo bordado serrano](https://fotos.etheriamagazine.com/2022/01/gallo-bordado-serrano-712x1024.jpg "Detalle de un bordado serrano con alegre colorido. © Pepa García")
 
 ### Animales y vegetales
 
@@ -132,7 +132,7 @@ grandes se ordenan en cuadrados dentro de los cuales se insertan los motivos, en
 centro siempre los más importantes; en las piezas más pequeñas, la ornamentación se 
 dispone en los bordes. 
 
-![casa artesania mogarraz](etheria-images/2022/01/artesania-museo-mogarraz.jpg "Museo Etnográfico ‘Casa de las Artesanías’ de Mogarraz. © Pepa García")
+![casa artesania mogarraz](https://fotos.etheriamagazine.com/2022/01/artesania-museo-mogarraz.jpg "Museo Etnográfico ‘Casa de las Artesanías’ de Mogarraz. © Pepa García")
 
 ### Tejidos y técnicas empleados
 
@@ -144,7 +144,7 @@ han llegado a nuestros días. Para realizar los tejidos, hasta el siglo XIX se e
 telares manuales (en La Alberca llegó a haber más de 40). Una vez desaparecidos, a 
 comienzos del siglo XX ya se empezaron a usar tejidos industriales con otras fibras. 
 
-![tecnicas bordado serrano](etheria-images/2022/01/tecnicas-bordado-serrano.jpg "Dos técnicas usadas en el bordado serrano. Museo Etnográfico de Mogarraz. © P.G.")
+![tecnicas bordado serrano](https://fotos.etheriamagazine.com/2022/01/tecnicas-bordado-serrano.jpg "Dos técnicas usadas en el bordado serrano. Museo Etnográfico de Mogarraz. © P.G.")
 
 La **técnica del bordado popular serrano es mixta**, “a hilos contados” y “a dibujo”. El 
 bordado comienza con el dibujo de los motivos sobre el lienzo mediante un cordoncillo 
@@ -158,7 +158,7 @@ silla, contabilizándose hasta 34 diferentes.
 El mundo del Bordado serrano es apasionante y esperamos que lo conozcas en tu próxima 
 visita a la comarca de la Sierra de Francia. 
 
-![bordado serrano en villanueva del conde](etheria-images/2022/01/bordado-serrano-villanueva-conde.jpg "Detalles de la Callejina, un pasadizo que recuerda el bordado, el arte y la tradición en Villanueva del Conde. © Pepa García")
+![bordado serrano en villanueva del conde](https://fotos.etheriamagazine.com/2022/01/bordado-serrano-villanueva-conde.jpg "Detalles de la Callejina, un pasadizo que recuerda el bordado, el arte y la tradición en Villanueva del Conde. © Pepa García")
 
 ### También te puede interesar...
 

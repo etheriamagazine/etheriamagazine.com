@@ -1,7 +1,7 @@
 ---
 title: "Novotel Sevilla, un hotel donde el tiempo está de tu parte"
 date: 2019-05-09
-coverImage: etheria-images/2019/05/lobby-novotel-sevilla.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/lobby-novotel-sevilla.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -14,7 +14,7 @@ cama de diseño ecológico, consumir productos de Kilómetro Cero y colaborar en
 contra la deforestación. Disfrutar de la belleza de Sevilla desde un alojamiento 
 comprometido con la sostenibilidad es posible. 
 
-![bar novotel sevilla](etheria-images/2019/05/novotel-sevilla-bar-lobby.jpg "Bar del lobby de Novotel Sevilla.")
+![bar novotel sevilla](https://fotos.etheriamagazine.com/2019/05/novotel-sevilla-bar-lobby.jpg "Bar del lobby de Novotel Sevilla.")
 
 Las expectativas cuando viajamos a destinos como Sevilla, cuya fama les precede por su 
 calidez humana y monumentalidad, son muy altas y debemos ser cuidadosas a la hora de 
@@ -38,7 +38,7 @@ situado junto al estudio de fútbol Sánchez Pizjuán, goza de una larga trayect
 instalaciones han sido renovadas para adecuarlas a las necesidades del viajero actual 
 sin desprenderse de su propia filosofía. 
 
-![checkin novotel sevilla](etheria-images/2019/05/novotel-sevilla-checkin.jpg "Check-in exprés.")
+![checkin novotel sevilla](https://fotos.etheriamagazine.com/2019/05/novotel-sevilla-checkin.jpg "Check-in exprés.")
 
 Esta actualización ha proporcionado unas instalaciones aún más confortables y ajustadas 
 al gusto por la libertad de movimientos que demandan sus clientes, tanto los que viajan 
@@ -49,7 +49,7 @@ de los sofás del lobby. Esta nueva zona, donde te atienden solícitamente los
 recepcionistas, ha sido concebida como un _social hub_ que elimina las barreras 
 habituales en los hoteles. 
 
-![recepcion novotel sevilla](etheria-images/2019/05/lobby-novotel-sevilla.jpg "Recepción-bar, un espacio social y abierto.")
+![recepcion novotel sevilla](https://fotos.etheriamagazine.com/2019/05/lobby-novotel-sevilla.jpg "Recepción-bar, un espacio social y abierto.")
 
 ## Dormir a gusto
 
@@ -63,7 +63,7 @@ niños pueden quedarse en tu habitación. Recuerda que ellos no pagan si duermen
 tuya hasta que cumplan los 16 años y, si prefieres utilizar una segunda habitación, 
 tendrás un 50% de descuento. 
 
-![novotel sevilla, habitacion sevilla](etheria-images/2019/05/Novotel-Sevilla-Habitacion.jpg "Habitación Novotel Sevilla. ©Fco. José Glez. Lucena")
+![novotel sevilla, habitacion sevilla](https://fotos.etheriamagazine.com/2019/05/Novotel-Sevilla-Habitacion.jpg "Habitación Novotel Sevilla. ©Fco. José Glez. Lucena")
 
 ## Tapear o comer con mesa y mantel
 
@@ -74,7 +74,7 @@ los de Kilómetro Cero. No dejes de probar sus frituras de pescado, el salmorejo
 tacos de rabo de toro o su tabla de quesos, donde no falta el rico Payoyo de la sierra 
 gaditana. 
 
-![bar gourmet, novotel sevilla](etheria-images/2019/05/novotel-sevilla-restaurante.jpg "Tapeo en el hotel.")
+![bar gourmet, novotel sevilla](https://fotos.etheriamagazine.com/2019/05/novotel-sevilla-restaurante.jpg "Tapeo en el hotel.")
 
 Este hotel también hace suya la particular cruzada que Accor emprendió hace unos años a 
 través de [Planet 
@@ -83,7 +83,7 @@ RSC, con la que lucha contra el despilfarro de alimentos, invierte el ahorro en
 lavandería y en proyectos de reforestación, emplea productos de proximidad y evita al 
 máximo el uso de plásticos, entre otras acciones. 
 
-![desayuno novotel](etheria-images/2019/05/desayuno-novotel-sevilla.jpg "Un desayuno saludable para comenzar el día con energía. ©Fco. José Glez. Lucena")
+![desayuno novotel](https://fotos.etheriamagazine.com/2019/05/desayuno-novotel-sevilla.jpg "Un desayuno saludable para comenzar el día con energía. ©Fco. José Glez. Lucena")
 
 ## Diversión dentro y fuera del hotel
 
@@ -92,7 +92,7 @@ posibilidad de que quieras hacer un poco deporte, y ponen a tu disposición un g
 clases de yoga a demanda. Si prefieres nadar o relajarte en la piscina solo tendrás que 
 subir a la azotea donde, además, tendrás una amplia panorámica de la ciudad. 
 
-![gimnasio novotel sevilla](etheria-images/2019/05/gimnasio-novotel-sevilla.jpg "Gimnasio. ©Fco. José Glez. Lucena")
+![gimnasio novotel sevilla](https://fotos.etheriamagazine.com/2019/05/gimnasio-novotel-sevilla.jpg "Gimnasio. ©Fco. José Glez. Lucena")
 
 Estos servicios habituales se pueden complementar a petición del cliente con 
 experiencias realizadas a medida como contratar excursiones por la ciudad, cenar a la 

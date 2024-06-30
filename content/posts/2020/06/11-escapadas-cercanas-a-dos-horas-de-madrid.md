@@ -1,7 +1,7 @@
 ---
 title: "11 excursiones desde Madrid a 100 km o poco más"
 date: 2020-06-02
-coverImage: etheria-images/2020/05/viaje-barrancas.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/viaje-barrancas.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -18,7 +18,7 @@ descubrimientos viajeros. Te proponemos 11 excursiones desde Madrid, que están 
 máximo de dos horas de camino y que puedes hacer en tren o en coche. ¿Con cuál vas a 
 empezar? 
 
-![Las Barrancas de Castrejón, el 'Cañón del Colorado' español.](etheria-images/2020/05/viaje-barrancas.jpg "Las Barrancas de Castrejón, el 'Cañón del Colorado' español. © Javier Álamo")
+![Las Barrancas de Castrejón, el 'Cañón del Colorado' español.](https://fotos.etheriamagazine.com/2020/05/viaje-barrancas.jpg "Las Barrancas de Castrejón, el 'Cañón del Colorado' español. © Javier Álamo")
 
 Actualizado en abril de 2024. 
 
@@ -47,7 +47,7 @@ el de **Riofrío** y el de **Valsaín**. Remata la visita probando unos delicios
 **judiones** de La Granja, localidad en la que cada verano elaboran en honor a San Luis 
 una judiada para más de once mil personas. 
 
-![Fuente del palacio de la Granja de San Ildefonso, unas de las excursiones desde Madrid imprescindibles](etheria-images/2020/05/granja-san-ildefonso-segovia-900x600.jpg "Fuente del palacio de la Granja de San Ildefonso. © BarbeeAnne")
+![Fuente del palacio de la Granja de San Ildefonso, unas de las excursiones desde Madrid imprescindibles](https://fotos.etheriamagazine.com/2020/05/granja-san-ildefonso-segovia-900x600.jpg "Fuente del palacio de la Granja de San Ildefonso. © BarbeeAnne")
 
 ## 3\. Ávila capital, a 114 km
 
@@ -56,7 +56,7 @@ Desde el **mirador de los Cuatro Postes** se contemplan los muros que rodean el 
 histórico de la ciudad. La iglesia-convento de Santa Teresa repasa su sorprendente 
 biografía, con levitaciones y persecuciones inquisitoriales incluidas. 
 
-![Vista de Ávila, una de las excursiones desde Madrid que no defrauda](etheria-images/2020/05/viaje-avila.jpg "Ávila. © Alex Olzheim")
+![Vista de Ávila, una de las excursiones desde Madrid que no defrauda](https://fotos.etheriamagazine.com/2020/05/viaje-avila.jpg "Ávila. © Alex Olzheim")
 
 ## 4\. Talavera de la Reina (Toledo), a 121 km
 
@@ -70,7 +70,7 @@ Las impecables calles empedradas de esta villa situada en la provincia de Segovi
 auguran las macabras historias que alberga su cárcel medieval. El **cochinillo** y el 
 **lechazo** al horno del Corral de la Joaquina te harán olvidarlas pronto. 
 
-![Pedraza](etheria-images/2020/05/viaje-segovia-pedraza-900x675.jpg "Pedraza. © Kelu Robles")
+![Pedraza](https://fotos.etheriamagazine.com/2020/05/viaje-segovia-pedraza-900x675.jpg "Pedraza. © Kelu Robles")
 
 ## 6\. Sepúlveda (Segovia), a 127 km
 
@@ -84,7 +84,7 @@ declarado Conjunto Histórico Artístico. Si viajas con niños te interesa esta 
 familiar a las hoces del 
 Duratón](https://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/). 
 
-![Sepúlveda, una excursión perfecta desde Madrid](etheria-images/2020/05/viaje-segovia-sepulveda.jpg "Sepúlveda. © Kelu Robles")
+![Sepúlveda, una excursión perfecta desde Madrid](https://fotos.etheriamagazine.com/2020/05/viaje-segovia-sepulveda.jpg "Sepúlveda. © Kelu Robles")
 
 ## 7\. Sigüenza (Guadalajara), a 128 km
 
@@ -96,7 +96,7 @@ senderismo: la de la **Hoz de Pelegrina** y la del **Barranco del Río Dulce**.
 \*Sigue leyendo. [Qué ver en Sigüenza: del pasado medieval a la movida 
 madrileña](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/). 
 
-![Panorámica de Sigüenza.](etheria-images/2023/11/siguenza-castilla-la-mancha-850x567.jpg "Panorámica de Sigüenza.")
+![Panorámica de Sigüenza.](https://fotos.etheriamagazine.com/2023/11/siguenza-castilla-la-mancha-850x567.jpg "Panorámica de Sigüenza.")
 
 ## 8\. Ruta de las Caras (Cuenca), a 130 km
 
@@ -106,7 +106,7 @@ y bajorrelieves de todo tipo. El nivel de dificultad es fácil y la duración ap
 de una hora. Los pinares y las rocas areniscas protagonizan el entorno del **embalse de 
 Buendía**. 
 
-![Ruta de las Caras en Cuenca](etheria-images/2020/05/viaje-ruta-caras-900x541.jpg "Ruta de las Caras en Cuenca. © Diego Delso")
+![Ruta de las Caras en Cuenca](https://fotos.etheriamagazine.com/2020/05/viaje-ruta-caras-900x541.jpg "Ruta de las Caras en Cuenca. © Diego Delso")
 
 ## 9\. Campo de Criptana (Ciudad Real), a 164 km
 
@@ -117,7 +117,7 @@ que resume muy bien los atractivos manchegos de la **localidad quijotesca**. Si 
 preguntas por qué la ruta se llama así, quizá no sepas que en Campo de Criptana nació la 
 actriz **Sara Montiel** (1928-2013). 
 
-![Molinos de Campo de Criptana.](etheria-images/2020/05/viaje-campo-criptana.jpg "Molinos de Campo de Criptana. © Kelu Robles")
+![Molinos de Campo de Criptana.](https://fotos.etheriamagazine.com/2020/05/viaje-campo-criptana.jpg "Molinos de Campo de Criptana. © Kelu Robles")
 
 ## 10\. Cuenca capital, a 168 km
 
@@ -128,7 +128,7 @@ Las escenas fueron rodadas en La Ciudad Encantada, en la provincia de Cuenca. Ya
 vas, descubre qué son el **morteruelo** y las migas, dos de las recetas más famosas y 
 contundentes de la zona. 
 
-![Vista panorámica de Cuenca.](etheria-images/2020/05/escapada-cuenca.jpg "Vista panorámica de Cuenca. © Eduardo Casajús Gorostiaga/ Unsplash")
+![Vista panorámica de Cuenca.](https://fotos.etheriamagazine.com/2020/05/escapada-cuenca.jpg "Vista panorámica de Cuenca. © Eduardo Casajús Gorostiaga/ Unsplash")
 
 ## 11\. Valladolid capital, a 214 km
 
@@ -142,7 +142,7 @@ No olvides visitar su Plaza Mayor, la Catedral, la iglesia de la Antigua, la Aca
 Caballería, el Pasaje Gutiérrez, las exposiciones del Museo Patio Herreriano y las joyas 
 del Museo Nacional de Escultura. 
 
-![Plaza Mayor de Valladolid.](etheria-images/2020/05/viaje-valladolid.jpg "Plaza Mayor de Valladolid. © Kelu Robles")
+![Plaza Mayor de Valladolid.](https://fotos.etheriamagazine.com/2020/05/viaje-valladolid.jpg "Plaza Mayor de Valladolid. © Kelu Robles")
 
 **Otras excursiones desde Madrid...** 
 

@@ -1,7 +1,7 @@
 ---
 title: "10 viajes con amigas en España: ideas para tu próxima escapada"
 date: 2019-02-06
-coverImage: etheria-images/2019/02/Viajes-amigas.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/Viajes-amigas.jpg
 categories: 
   - viajes-con-amigas
   - consejos-practicos
@@ -16,7 +16,7 @@ viaje con amigas. ¿Puede haber algo mejor que conocer nuevos lugares mientras s
 disfruta de la complicidad y las risas de las mujeres que mejor te conocen? Te damos 10 
 ideas de viajes con amigas en España para que vayas pensando en tu próxima escapada. 
 
-![2 mujeres haciéndose una foto frente al mar](etheria-images/2019/02/Viajes-amigas-1024x814.jpg "Los viajes con amigas deberían ser obligatorios.")
+![2 mujeres haciéndose una foto frente al mar](https://fotos.etheriamagazine.com/2019/02/Viajes-amigas-1024x814.jpg "Los viajes con amigas deberían ser obligatorios.")
 
 Hay muchas formas de viajar, pero reconozcamos que los **planes de fin de semana** que 
 surgen con las amigas son los que más apetecen. Permiten concentrar en dos días momentos 
@@ -35,7 +35,7 @@ Pimpi y una tarde en los baños árabes.
 ✅ [Málaga con amigas, el fin de semana que os 
 merecéis](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/) 
 
-![El Cubo, cara visible del Centre Poumpidour Málaga.](etheria-images/2018/11/Malaga-centro-pompidou-1024x614.jpg "El Cubo, cara visible del Centre Poumpidour Málaga.")
+![El Cubo, cara visible del Centre Poumpidour Málaga.](https://fotos.etheriamagazine.com/2018/11/Malaga-centro-pompidou-1024x614.jpg "El Cubo, cara visible del Centre Poumpidour Málaga.")
 
 ## 2\. Valencia
 
@@ -46,7 +46,7 @@ Valencia con amigas lugares diferentes, fuera de las rutas turísticas habituale
 ✅ [Escapada a Valencia con amigas en 
 invierno](https://etheriamagazine.com/2018/12/04/un-viaje-a-valencia-con-amigas/) 
 
-![Palau Alameda, en Valencia.](etheria-images/2018/11/valencia-con-amigas-Palau-Alameda-1024x580.jpg "Palau Alameda, en Valencia.")
+![Palau Alameda, en Valencia.](https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda-1024x580.jpg "Palau Alameda, en Valencia.")
 
 ## 3\. León
 
@@ -59,7 +59,7 @@ León.
 ✅ [Enamórate de León en sólo 48 
 horas](https://etheriamagazine.com/2018/09/27/48-horas-en-leon/) 
 
-![Calle Ancha (León).](etheria-images/2018/09/Leon-calle-ancha-1024x683.jpg "Calle Ancha (León).")
+![Calle Ancha (León).](https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha-1024x683.jpg "Calle Ancha (León).")
 
 ## 4\. Ruta gastronómica por La Rioja
 
@@ -72,7 +72,7 @@ probar los platos tradicionales y los vinos de La Rioja?
 ✅ [Ruta por el paisaje gastronómico de La 
 Rioja](https://etheriamagazine.com/2019/01/23/ruta-gastronomica-en-la-rioja/) 
 
-![monasterio de valvanera en  La Rioja](etheria-images/2019/01/viaje-la-rioja-Monasterio-Valvanera-1024x698.jpg "Monasterio de Valvanera.")
+![monasterio de valvanera en  La Rioja](https://fotos.etheriamagazine.com/2019/01/viaje-la-rioja-Monasterio-Valvanera-1024x698.jpg "Monasterio de Valvanera.")
 
 ## 5\. Almería
 
@@ -85,7 +85,7 @@ de Tabernas.
 ✅ [Planes en Almería para una escapada en clave 
 slow](https://etheriamagazine.com/2021/04/17/que-ver-en-almeria-en-temporada-baja/) 
 
-![Paisaje del Parque Natural Cabo de Gata-Níjar, en Almería.](etheria-images/2018/11/Almeria-cabo-de-gata-1024x683.jpg "Paisaje del Parque Natural Cabo de Gata-Níjar, en Almería.")
+![Paisaje del Parque Natural Cabo de Gata-Níjar, en Almería.](https://fotos.etheriamagazine.com/2018/11/Almeria-cabo-de-gata-1024x683.jpg "Paisaje del Parque Natural Cabo de Gata-Níjar, en Almería.")
 
 ## 6\. Ruta de Ribera del Duero por la N-122
 
@@ -99,7 +99,7 @@ Valbuena](https://etheriamagazine.com/2018/09/06/escapada-para-chicas-en-castill
 ✅ [Ruta por Ribera del Duero: de bodega en bodega por la 
 N-122](https://etheriamagazine.com/2018/05/21/ruta-del-vino-ribera-del-duero-valladolid/) 
 
-![Bodejas Protos bajo el castillo de Peñafiel.](etheria-images/2018/05/Protos-bodegas-bajo-el-castillo-de-penafiel-1024x747.jpg "Bodejas Protos bajo el castillo de Peñafiel.")
+![Bodejas Protos bajo el castillo de Peñafiel.](https://fotos.etheriamagazine.com/2018/05/Protos-bodegas-bajo-el-castillo-de-penafiel-1024x747.jpg "Bodejas Protos bajo el castillo de Peñafiel.")
 
 ## 7\. Pueblos blancos de Cádiz
 
@@ -112,7 +112,7 @@ clic en el link superior para teletransportarte.
 ✅ [Ruta en coche por 12 preciosos pueblos blancos de 
 Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/) 
 
-![Grazalema, en la ruta de los pueblos blancos de Cádiz.](etheria-images/2018/10/7-Grazalema-pueblos-blancos-cadizs-1024x683.jpg "Grazalema, en la ruta de los pueblos blancos de Cádiz.")
+![Grazalema, en la ruta de los pueblos blancos de Cádiz.](https://fotos.etheriamagazine.com/2018/10/7-Grazalema-pueblos-blancos-cadizs-1024x683.jpg "Grazalema, en la ruta de los pueblos blancos de Cádiz.")
 
 ## 8\. Islas Baleares
 
@@ -131,7 +131,7 @@ escapada](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-inviern
 ✅ [Formentera con amigas, planes imprescindibles para una escapada 
 perfecta](https://etheriamagazine.com/2023/04/24/formentera-con-amigas/) 
 
-![compras mercadillo formentera](etheria-images/2018/07/compras-formentera-mercadillo-mola-4.jpeg "De compras en Formentera. © Alfredo Montero/ Illesbalears.travel")
+![compras mercadillo formentera](https://fotos.etheriamagazine.com/2018/07/compras-formentera-mercadillo-mola-4.jpeg "De compras en Formentera. © Alfredo Montero/ Illesbalears.travel")
 
 ## 9\. Islas Canarias
 
@@ -147,7 +147,7 @@ Canaria](https://etheriamagazine.com/2018/05/03/senderismo-gran-canaria-banos-de
 ✅ [7 planes esenciales en Lanzarote con 
 amigas](https://etheriamagazine.com/2020/06/11/viajar-sola-amigas-imprescindible-lanzarote/) 
 
-![Paisaje de viñedos en Lanzarote.](etheria-images/2018/09/La-Geria-Lanzarote-1024x683.jpg "Paisaje de viñedos en Lanzarote.")
+![Paisaje de viñedos en Lanzarote.](https://fotos.etheriamagazine.com/2018/09/La-Geria-Lanzarote-1024x683.jpg "Paisaje de viñedos en Lanzarote.")
 
 ## 10\. Ruta canalla por Madrid
 
@@ -171,4 +171,4 @@ amigas](https://etheriamagazine.com/2019/10/22/10-mejores-coctelerias-de-madrid-
 ✅ [10 tabernas históricas de Madrid donde tomar el 
 vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 
 
-![Puri de pinchadiscos en Medias Puri](etheria-images/2018/06/MEDIAS-PURI-PH-Lighuen-Desanto-86-1024x683.jpg "© Medias Puri, la mercería más famosa de Madrid.")
+![Puri de pinchadiscos en Medias Puri](https://fotos.etheriamagazine.com/2018/06/MEDIAS-PURI-PH-Lighuen-Desanto-86-1024x683.jpg "© Medias Puri, la mercería más famosa de Madrid.")

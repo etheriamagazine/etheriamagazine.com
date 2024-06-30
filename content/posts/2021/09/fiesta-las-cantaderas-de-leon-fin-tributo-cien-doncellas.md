@@ -1,7 +1,7 @@
 ---
 title: "Las Cantaderas de León, la fiesta de las cien doncellas"
 date: 2021-09-30
-coverImage: etheria-images/2021/09/sotadera-fiesta-las-Cantaderas.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/09/sotadera-fiesta-las-Cantaderas.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -16,7 +16,7 @@ musulmanes con la que se acabó con el tributo de las cien doncellas. El 2 de oc
 tienes una cita en León para vivir esta fiesta de Interés Turístico Regional en primera 
 persona. 
 
-![sotadera y doncellas las cantaderas leon](etheria-images/2021/09/doncellas-fiesta-cantaderas-705x1024.jpg "La sotadera encabeza el desfile de las jóvenes doncellas.")
+![sotadera y doncellas las cantaderas leon](https://fotos.etheriamagazine.com/2021/09/doncellas-fiesta-cantaderas-705x1024.jpg "La sotadera encabeza el desfile de las jóvenes doncellas.")
 
 León se llena de música, color, danza y fuego cada año para celebrar la **Fiesta de las 
 Cantaderas**. Cuando el otoño recién se ha posado por estas tierras de carácter firme y 
@@ -30,7 +30,7 @@ de la arquitectura, la cultura y la gastronomía que distinguen a esta capital
 castellanoleonesa. Pero antes de integrarte en los festejos, conviene saber qué estarás 
 celebrando exactamente y por qué. A continuación satisfacemos tu curiosidad. 
 
-![cortejo de la fiesta de las cantaderas](etheria-images/2021/09/desfile-fiesta-cantaderas-leon.jpg "Cortejo durante la Fiesta de las Cantaderas de León.")
+![cortejo de la fiesta de las cantaderas](https://fotos.etheriamagazine.com/2021/09/desfile-fiesta-cantaderas-leon.jpg "Cortejo durante la Fiesta de las Cantaderas de León.")
 
 ### Cuándo y por qué se celebra la Fiesta de las Cantaderas
 
@@ -41,7 +41,7 @@ ha festejado en esta fecha, ya que antaño tenía lugar el 15 de agosto. Despué
 al 29 de junio (San Pedro) y, posteriormente, al 5 de octubre (San Froilán). Finalmente, 
 ha quedado fijado en el domingo previo a ese día. 
 
-![pendones fiesta las cantaderas leon](etheria-images/2021/09/catedral-burgos-las-cantaderas.jpg "Pendones frente a la Catedral de León.")
+![pendones fiesta las cantaderas leon](https://fotos.etheriamagazine.com/2021/09/catedral-burgos-las-cantaderas.jpg "Pendones frente a la Catedral de León.")
 
 La Fiesta de las Cantaderas conmemora la victoria cristiana sobre los musulmanes en la 
 **Batalla de Clavijo** (22 mayo de 844), por la cual los reyes asturleoneses quedaban 
@@ -55,7 +55,7 @@ La elección inicial del 15 de agosto para celebrar la victoria se hizo para agr
 la Virgen de la Asunción, titular de la Catedral de León, su ayuda en la contienda. El 
 desfile de la fiesta culmina, por tanto, en la Catedral. 
 
-![sotadera fiesta cantaderas leon](etheria-images/2021/09/sotadera-fiesta-las-Cantaderas.jpg "La sotadera era la señora que aleccionaba a las doncellas antes de ser enviadas a la taifa de Córdoba.")
+![sotadera fiesta cantaderas leon](https://fotos.etheriamagazine.com/2021/09/sotadera-fiesta-las-Cantaderas.jpg "La sotadera era la señora que aleccionaba a las doncellas antes de ser enviadas a la taifa de Córdoba.")
 
 ### Las raíces de la Fiesta de las Cantaderas
 
@@ -79,7 +79,7 @@ hasta el claustro de la catedral. En aquel lugar se situaba la Virgen del Foro u
 y a sus pies un clérigo que ofrecía manteca y miel al Cabildo Catedralicio. Cuando 
 llegaba la comitiva se entregaban los alimentos. 
 
-![bueyes fiesta de las cantaderas](etheria-images/2021/09/bueyes-fiesta-cantaderas-leon.jpg "Los bueyes que tiran de los carros también forman parte del desfile.")
+![bueyes fiesta de las cantaderas](https://fotos.etheriamagazine.com/2021/09/bueyes-fiesta-cantaderas-leon.jpg "Los bueyes que tiran de los carros también forman parte del desfile.")
 
 ### Cómo se festeja hoy día
 
@@ -93,7 +93,7 @@ bonita nota de color. La ofrenda hoy día no incluye la carne de toro, pero sí 
 manzanas, etc. Sí que se mantiene la interpretación, por parte de las doncellas, de la 
 Cantiga décima de Alfonso X el Sabio. 
 
-![las cantaderas en claustro catedral leon](etheria-images/2021/09/cantaderas-claustro-catedral.jpg "Grupo de jóvenes del desfile de Las Cantaderas en el claustro de la Catedral de León.")
+![las cantaderas en claustro catedral leon](https://fotos.etheriamagazine.com/2021/09/cantaderas-claustro-catedral.jpg "Grupo de jóvenes del desfile de Las Cantaderas en el claustro de la Catedral de León.")
 
 Al igual que ocurría en la [Fiesta de las 
 Cabezadas](https://etheriamagazine.com/2021/04/23/que-es-la-fiesta-de-las-cabezadas-de-leon/) 
@@ -113,7 +113,7 @@ leyendas o gastronomía, en Etheria Magazine encontrarás un buen número de art
 Más información en la web de [Turismo del Ayuntamiento de 
 León](https://www.leonestradicion.com/). 
 
-![doncellas de la fiesta de las cantaderas de leon](etheria-images/2021/09/desfile-fiesta-cantaderas.jpg "Desfile de la sotadera y las jóvenes que recuerdan el tributo de las cien doncellas.")
+![doncellas de la fiesta de las cantaderas de leon](https://fotos.etheriamagazine.com/2021/09/desfile-fiesta-cantaderas.jpg "Desfile de la sotadera y las jóvenes que recuerdan el tributo de las cien doncellas.")
 
 ### También te puede interesar...
 

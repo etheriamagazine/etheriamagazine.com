@@ -1,7 +1,7 @@
 ---
 title: "10 excursiones a la Riviera Maya para incluir en tu viaje"
 date: 2022-02-01
-coverImage: etheria-images/2022/01/Riviera-maya-cenote-tortuga.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -17,7 +17,7 @@ vacaciones que tienen estar en tu lista si lo que buscas es descanso. Para anima
 jornadas de sol y piscina te proponemos 10 excursiones en la Riviera Maya para llenar de 
 contenido un viaje al corazón de la cultura maya. 
 
-![Cenote Tortuga.](etheria-images/2022/01/Riviera-maya-cenote-tortuga.jpg "Cenote Tortuga. © Fernanda Loayza.")
+![Cenote Tortuga.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg "Cenote Tortuga. © Fernanda Loayza.")
 
 Actualizado en febrero de 2024. 
 
@@ -40,7 +40,7 @@ horario de apertura es de 8 a 17 horas y la entrada cuesta 80 pesos. Desde la Ri
 Maya se tarda en llegar unas 2 horas y media. Puedes reservar una Excursión a Chichén 
 Itzá con [Civitatis](https://www.civitatis.com/es/playa-del-carmen/excursion-chichen-itza-amanecer/?aid=10211). 
 
-![Chichén Itzá.](etheria-images/2022/01/Riviera-maya-chichen-itza.jpg "Chichén Itzá. © Marv Watson.")
+![Chichén Itzá.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-chichen-itza.jpg "Chichén Itzá. © Marv Watson.")
 
 ## Xcaret
 
@@ -55,7 +55,7 @@ de danzas prehispánicas o con la **ceremonia de los Voladores de Papantla**, en
 _shows_. Además, si todavía quieres más, es un buen lugar para organizar un encuentro 
 con delfines, tiburones o mantas-rayas. 
 
-![Parque eco-arqueológico Xcaret.](etheria-images/2022/01/Riviera-maya-xcaret.jpg "Parque eco-arqueológico Xcaret.")
+![Parque eco-arqueológico Xcaret.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-xcaret.jpg "Parque eco-arqueológico Xcaret.")
 
 El **precio de la entrada básica a Xcaret** es de 111,31 euros; la entrada Xcaret Plus, 
 con comida buffet y acceso al Área Plus de 151,79 euros; y la entrada Xcaret Total, que 
@@ -81,7 +81,7 @@ El horario del sitio arqueológico es de 8 a 17 horas y la entrada cuesta 80 pes
 Civitatis organiza la [excursión a Tulum al 
 amanecer](https://www.civitatis.com/es/playa-del-carmen/excursion-tulum-amanecer/?aid=10211). 
 
-![Tulum.](etheria-images/2022/01/Riviera-maya-tulum.jpg "Tulum. © Vince Russell.")
+![Tulum.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-tulum.jpg "Tulum. © Vince Russell.")
 
 ## Xel-Ha
 
@@ -94,7 +94,7 @@ maravilloso Jardín de los Chacahs. Como curiosidad, no te pierdas el mundo de l
 melipona, típica de la zona y sin aguijón, que produce una deliciosa miel. Para los 
 amantes de los animales, en Xel-Ha se puede realizar un encuentro con manatíes. 
 
-![Guacamayo en Xel-Ha.](etheria-images/2022/01/riviera-maya-xel-ha.jpg "Guacamayo en Xel-Ha.")
+![Guacamayo en Xel-Ha.](https://fotos.etheriamagazine.com/2022/01/riviera-maya-xel-ha.jpg "Guacamayo en Xel-Ha.")
 
 El precio de la entrada es de 103,49 dólares (77,62 dólares para niños de 5 a 11 años y 
 menores de 4 entran gratis) y está abierto de 8.30 a 18 horas. Es un parque _Todo 
@@ -117,7 +117,7 @@ puedes organizar un [Tour por los cenotes de Riviera
 Maya](https://www.civitatis.com/es/playa-del-carmen/tour-cenotes-riviera-maya/?aid=10211) 
 con Civitatis. 
 
-![Cenote Azul en la Riviera Maya.](etheria-images/2022/01/riviera-maya-cenote-azul.jpg "Cenote Azul en la Riviera Maya.")
+![Cenote Azul en la Riviera Maya.](https://fotos.etheriamagazine.com/2022/01/riviera-maya-cenote-azul.jpg "Cenote Azul en la Riviera Maya.")
 
 ## Cancún
 
@@ -133,7 +133,7 @@ organiza una [Excursión a
 Cancún](https://www.civitatis.com/es/playa-del-carmen/excursion-cancun/?aid=10211) desde 
 los hoteles de Playa del Carmen. 
 
-![Vista aérea de algunos hoteles de Cancún.](etheria-images/2022/01/Riviera-maya-cancun.jpg "Vista aérea de algunos hoteles de Cancún.")
+![Vista aérea de algunos hoteles de Cancún.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cancun.jpg "Vista aérea de algunos hoteles de Cancún.")
 
 ## Playa del Carmen
 
@@ -146,7 +146,7 @@ escultura, para ver los espectáculos callejeros o pasar un rato en una de sus p
 más conocida es **Playacar**, donde se ubican algunos de los hoteles _Todo Incluido_ más 
 populares de la zona y en ella se pueden ver unas pequeñas ruinas mayas. 
 
-![Playa del Carmen.](etheria-images/2022/01/riviera-maya-playa-del-carmen.jpg "Playa del Carmen.")
+![Playa del Carmen.](https://fotos.etheriamagazine.com/2022/01/riviera-maya-playa-del-carmen.jpg "Playa del Carmen.")
 
 ## Cozumel, Holbox e isla Mujeres
 
@@ -160,7 +160,7 @@ y por su increíble fondo marino, que incluye un Museo Subacuático de Arte. Y l
 **Holbox** pertenece a la reserva ecológica Yum Balam; es la más bohemia y ecológica, un 
 lugar donde no hay ni calles asfaltadas. Te encantará. 
 
-![Isla de Holbox.](etheria-images/2022/01/Riviera-Maya-Holbox-900x600.jpg "Isla de Holbox. © David Santiago.")
+![Isla de Holbox.](https://fotos.etheriamagazine.com/2022/01/Riviera-Maya-Holbox-900x600.jpg "Isla de Holbox. © David Santiago.")
 
 Estas islas no se encuentran cerca entre sí, por lo que son excursiones independientes: 
 Isla Mujeres está frente a Cancún, Cozumel frente a Playa del Carmen y Holbox en la 
@@ -181,7 +181,7 @@ que se van surcando los canales contemplando la belleza de la selva maya. La mú
 los distintos estados, con mariachis incluidos, hará que la noche se transforme en una 
 auténtica fiesta mexicana. 
 
-![Diversión en Xoximilco.](etheria-images/2022/01/riviera-maya-xoximilco.jpg "Diversión en Xoximilco. © Grupo Xcaret.")
+![Diversión en Xoximilco.](https://fotos.etheriamagazine.com/2022/01/riviera-maya-xoximilco.jpg "Diversión en Xoximilco. © Grupo Xcaret.")
 
 El horario es e 19 a 23 h y la edad mínima para disfrutar de la experiencia es 5 años. 
 El precio de la entrada es de unos 80 euros (niños de 5 a 11 años tienen el 50% de 
@@ -203,7 +203,7 @@ Civitatis](https://www.civitatis.com/es/playa-del-carmen/excursion-coba-amanecer
 que aporta la comodidad de llevar los traslados incluidos y un guía que os explicará 
 todos los detalles. 
 
-![Yacimiento arqueológico de Cobá.](etheria-images/2022/01/Riviera-maya-coba.jpg "Yacimiento arqueológico de Cobá. © Robin Canfield.")
+![Yacimiento arqueológico de Cobá.](https://fotos.etheriamagazine.com/2022/01/Riviera-maya-coba.jpg "Yacimiento arqueológico de Cobá. © Robin Canfield.")
 
 **También te puede interesar:** 
 

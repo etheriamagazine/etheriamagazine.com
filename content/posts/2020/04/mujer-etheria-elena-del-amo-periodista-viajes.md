@@ -1,7 +1,7 @@
 ---
 title: "Elena del Amo: \"Recomendaría viajar a quien esté dispuesto a abrirse a otros mundos\""
 date: 2020-04-25
-coverImage: etheria-images/2020/04/elena-del-amo-sri-lanka.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/04/elena-del-amo-sri-lanka.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -16,7 +16,7 @@ expedicionarios como Shackelton, Scott y Amundsen en su conquista del Polo Sur. 
 del Amo nos cuenta sus aventuras y algún que otro secreto en nuestra sección Mujeres 
 Etheria, dedicada a mujeres inspiradoras. 
 
-![Elena del Amo en la Antártida.](etheria-images/2020/04/elena-amo-antartida-900x601.jpg "Elena del Amo en la Antártida. © Luis Davilla")
+![Elena del Amo en la Antártida.](https://fotos.etheriamagazine.com/2020/04/elena-amo-antartida-900x601.jpg "Elena del Amo en la Antártida. © Luis Davilla")
 
 Si hubiese que indicar únicamente dos rasgos por los que destaca Elena del Amo, además 
 de por su maestría con la pluma, sería su implicación personal en proyectos humanitarios 
@@ -37,7 +37,7 @@ A través de las respuestas a las siguientes preguntas, comprobaréis que Elena 
 una gran comunicadora, ya que nos relata recuerdos, fracasos, anécdotas e interesantes 
 experiencias viajeras, de las que se puede aprender mucho, con total naturalidad. 
 
-![En un autorickshaw en la India.](etheria-images/2020/04/elena-india.jpg "En un autorickshaw en la India. © Luis Davilla")
+![En un autorickshaw en la India.](https://fotos.etheriamagazine.com/2020/04/elena-india.jpg "En un autorickshaw en la India. © Luis Davilla")
 
 ## Elena del Amo, periodista y viajera
 
@@ -63,7 +63,7 @@ empezamos a visitar exposiciones en Madrid, y a fabricar artesanías de cuero qu
 vendíamos de “extranjis” en el **Rastro**. A nuestros padres, sin quererlo, les salió la 
 jugada redonda. 
 
-![En las Cataratas Victoria.](etheria-images/2020/04/Elena-del-amo-cataratas-victoria-900x515.jpg "Al borde la piscina del Diablo en las Cataratas Victoria. © Luis Davilla")
+![En las Cataratas Victoria.](https://fotos.etheriamagazine.com/2020/04/Elena-del-amo-cataratas-victoria-900x515.jpg "Al borde la piscina del Diablo en las Cataratas Victoria. © Luis Davilla")
 
 ### 2\. ¿Cuál es tu principal motivación al viajar?
 
@@ -101,7 +101,7 @@ toda la razón. ¿Un compañero de ficción? **Maqroll el Gaviero**, el personaj
 Mutis, pero ya sé que no funcionaría con semejante alma libre. Si de cerca todos somos 
 raros, a mi Maqroll se le ve venir a la legua. 
 
-![Viaje en tren en Sri Lanka.](etheria-images/2020/04/elena-del-amo-sri-lanka-900x600.jpg "Viaje en tren en Sri Lanka. © Luis Davilla")
+![Viaje en tren en Sri Lanka.](https://fotos.etheriamagazine.com/2020/04/elena-del-amo-sri-lanka-900x600.jpg "Viaje en tren en Sri Lanka. © Luis Davilla")
 
 ### 5\. ¿Sueles planificar tus viajes?
 
@@ -130,7 +130,7 @@ obliguen a los niños (¡y las niñas!) a ir a clase, o que no se vaya al dispen
 cuando alguien está muy grave, pues la lógica allí es que en el hospital se muere la 
 gente y se resisten a ir. 
 
-![Elena con sus compañeros de la Radio Comunitaria de Mali.](etheria-images/2020/04/radio-comunitaria-mali-900x675.jpg "Elena con sus compañeros de la Radio Comunitaria de Mali.")
+![Elena con sus compañeros de la Radio Comunitaria de Mali.](https://fotos.etheriamagazine.com/2020/04/radio-comunitaria-mali-900x675.jpg "Elena con sus compañeros de la Radio Comunitaria de Mali.")
 
 La radio que montamos se oye a unos 70 km a la redonda, en una zona de pueblos 
 desperdigados donde no hay ni carreteras ni teléfono. Es decir, que también sirve desde 
@@ -151,7 +151,7 @@ por el país y se quedó en el pueblo hasta que quedó todo rodado.
 > localizaron a dos chicas felices de embarcarse en el proyecto. ¡Roma no se hizo en un 
 > día! 
 
-![Mercado en Uganda.](etheria-images/2020/04/elena-amo-uganda-900x549.jpg "Mercado en Uganda. © Elena del Amo")
+![Mercado en Uganda.](https://fotos.etheriamagazine.com/2020/04/elena-amo-uganda-900x549.jpg "Mercado en Uganda. © Elena del Amo")
 
 ### 7\. ¿Y tu último viaje?
 
@@ -169,7 +169,7 @@ grandes, que son los que suelen ir a la zona de la Antártida a la que se accede
 Argentina y Chile. Allí es habitual desembarcar por turnos y tiempo limitado o, como el 
 barco sea muy grande, no dejan desembarcar a nadie y lo ves todo desde cubierta. 
 
-![Sólo unos 100 viajeros al año pueden llegar a este punto de la Antártida.](etheria-images/2020/04/elena-del-amo-paisaje-antartida-900x675.jpg "Sólo unos 100 viajeros al año pueden llegar a este punto de la Antártida. © Elena del Amo")
+![Sólo unos 100 viajeros al año pueden llegar a este punto de la Antártida.](https://fotos.etheriamagazine.com/2020/04/elena-del-amo-paisaje-antartida-900x675.jpg "Sólo unos 100 viajeros al año pueden llegar a este punto de la Antártida. © Elena del Amo")
 
 Me emocionó entrar en las **cabañas de Shackelton y Scott** (no se conserva la del 
 noruego Amundsen, que fue quien se llevó el gato al agua y ganó esta loca carrera por 
@@ -189,7 +189,7 @@ mareo brutal de los primeros días en semejante mar y en semejante cascarón: el
 astronómico del viaje, de lujo no tenía nada. El lujo era estar allí, donde cada año van 
 de media entre 100 y 300 afortunados. 
 
-![Paisaje de la Antártida.](etheria-images/2020/04/viajes-antartida-900x675.jpg "Paisaje de la Antártida.")
+![Paisaje de la Antártida.](https://fotos.etheriamagazine.com/2020/04/viajes-antartida-900x675.jpg "Paisaje de la Antártida.")
 
 ### 8\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera?
 
@@ -218,7 +218,7 @@ prohibido, desde Facebook al alcohol, de puertas para adentro no se cortan en po
 caldo a los de las barbas mientras compartes un buen vino de Shiraz que ya saben ellos 
 cómo conseguir. 
 
-![Torre de las Doncellas, en Estambul.](etheria-images/2020/04/viaje-estambul-900x601.jpg "Torre de las Doncellas, en Estambul.")
+![Torre de las Doncellas, en Estambul.](https://fotos.etheriamagazine.com/2020/04/viaje-estambul-900x601.jpg "Torre de las Doncellas, en Estambul.")
 
 > Mis tres viajes pendientes son Etiopía, Nueva Zelanda y poder volver a mi adorada Siria. 
 
@@ -237,7 +237,7 @@ por sus kebabs, también se come de escándalo.
 > rico y a buen precio como en España. Al inventor del pata negra habría que guardarle un 
 > sitio en el cielo. Y también al del champagne. Juntos, para mí, es el mejor maridaje. 
 
-![Cena vegetariana en un templo budista de Koyasan (Japón)](etheria-images/2020/04/elena-del-amo-gastronomia-japon-900x675.jpg "Cena vegetariana en un templo budista de Koyasan (Japón). © Elena del Amo")
+![Cena vegetariana en un templo budista de Koyasan (Japón)](https://fotos.etheriamagazine.com/2020/04/elena-del-amo-gastronomia-japon-900x675.jpg "Cena vegetariana en un templo budista de Koyasan (Japón). © Elena del Amo")
 
 ### 10\. ¿En qué medio de transporte prefieres viajar?
 
@@ -272,7 +272,7 @@ zapatos llenos de polvo.
 > exclusivo para que, siendo el olfato el sentido que más memoria tiene, los "repetidores" 
 > lo reconozcan y se sientan en casa. 
 
-![denis island, seychelles](etheria-images/2020/04/elena-del-amo-seychelles-900x600.jpg "Elena en Denis Island, una isla privada de Seychelles. © Luis Davilla")
+![denis island, seychelles](https://fotos.etheriamagazine.com/2020/04/elena-del-amo-seychelles-900x600.jpg "Elena en Denis Island, una isla privada de Seychelles. © Luis Davilla")
 
 ### 12\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 
@@ -297,7 +297,7 @@ zarrapastrosa!) con la que, en la mayoría de los sitios, podrías pasar por un 
 sobre todo, zapato cómodo. Ah, y lo que decía mi abuela de “el saber no ocupa lugar” yo 
 lo aplico al bikini. No pesa y nunca sabes cuándo le puedes sacar partido. 
 
-![medicina china, periodismo de viajes](etheria-images/2020/04/elena-amo-china-900x600.jpg "Elena posa con botes de medicamentos chinos. © Luis Davilla")
+![medicina china, periodismo de viajes](https://fotos.etheriamagazine.com/2020/04/elena-amo-china-900x600.jpg "Elena posa con botes de medicamentos chinos. © Luis Davilla")
 
 ### 14\. ¿Cuál ha sido el _souvenir_ más extravagante que has comprado?
 

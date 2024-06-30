@@ -1,7 +1,7 @@
 ---
 title: "La aterradora 'Noche de los Krampus' de Salzburgo se celebra en Adviento"
 date: 2023-10-31
-coverImage: etheria-images/2023/10/salzburgo-Krampus-mascara.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/10/salzburgo-Krampus-mascara.jpg
 categories: 
   - viajes-48-horas
   - viaje-en-familia
@@ -18,7 +18,7 @@ visitar los mercados de Navidad durante el Adviento es suficiente motivo para vi
 esta ciudad, si le añades el pasacalles del krampus se convertirá en una escapada 
 original y única. 
 
-![mascara de Krampus en Salzburgo](etheria-images/2023/10/salzburgo-Krampus-mascara.jpg "Aterrador Krampus en Salzburgo. © Pedro Grifol.")
+![mascara de Krampus en Salzburgo](https://fotos.etheriamagazine.com/2023/10/salzburgo-Krampus-mascara.jpg "Aterrador Krampus en Salzburgo. © Pedro Grifol.")
 
 En cualquier época del año la ciudad austríaca de Salzburgo supone un viaje atractivo, 
 pero si hay un momento aún más emocionante es durante el Adviento, es decir, las semanas 
@@ -31,7 +31,7 @@ Pero, durante estos días, no todo será paz y tranquilidad, ya que el ambiente 
 es interrumpido por una tradición sujeta al saber popular: la **Krampusnacht** (**Noche 
 de Krampus**). 
 
-![Salzburgo bajo la nieve.](etheria-images/2023/10/Salzburgo-nieve.jpg "Salzburgo bajo la nieve. © Tourismus Salzburg GmbH")
+![Salzburgo bajo la nieve.](https://fotos.etheriamagazine.com/2023/10/Salzburgo-nieve.jpg "Salzburgo bajo la nieve. © Tourismus Salzburg GmbH")
 
 ## San Nicolás y el origen de los krampus
 
@@ -51,7 +51,7 @@ rememorando una vieja leyenda en la que la Iglesia ha dejado su impronta ¡cómo
 > mal durante el año (los niños malos) en contraste con San Nicolás, que premia con 
 > regalos a los niños buenos. 
 
-![San Nicolás y uno de las krampus.](etheria-images/2023/10/salzburgo-San-Nicolas-y-krampus.jpg "San Nicolás y uno de los krampus con el cesto para llevarse a los niños. © Pedro Grifol.")
+![San Nicolás y uno de las krampus.](https://fotos.etheriamagazine.com/2023/10/salzburgo-San-Nicolas-y-krampus.jpg "San Nicolás y uno de los krampus con el cesto para llevarse a los niños. © Pedro Grifol.")
 
 El evento, que tiene lugar la **noche del 5 de diciembre**, consiste en el desfile de 
 una inquietante comitiva, exultante de ruido y fuego, que recorre el centro del casco 
@@ -70,7 +70,7 @@ un gran canasto para raptar a los niños malos. Es el temido ‘hombre del saco�
 maléfico que durante todo el recorrido va instigando a los más pequeños con un haz de 
 ramas secas tratando de confundirlos y llevárselos al cesto. 
 
-![Participantes en el pasacalles de los krampus en Salzburgo](etheria-images/2023/10/salzburgo-krampus-Pasacalle.jpg "Participantes en el pasacalles de los krampus. © P.G.")
+![Participantes en el pasacalles de los krampus en Salzburgo](https://fotos.etheriamagazine.com/2023/10/salzburgo-krampus-Pasacalle.jpg "Participantes en el pasacalles de los krampus. © P.G.")
 
 Al estruendoso cortejo se suma el repiqueteo de **las campanas** de las iglesias, que 
 voltean con no se sabe bien qué mensaje, mientras que el ruido producido por los 
@@ -101,7 +101,7 @@ bajo la mirada del maléfico krampus, que hace ademanes de meter al inocente ni�
 saco que ¡despavorido! trata de esconderse donde puede. Se dan casos de niños que entran 
 en tal delirio de miedo que les causa un trauma para toda su vida… ¡No es broma! 
 
-![krampus con joven en brazos en Salzburgo](etheria-images/2023/10/salzburgo-krampus-hombre-saco.jpg "Los krampus amenazan con llevarse a aquellos que se portan mal. © SG")
+![krampus con joven en brazos en Salzburgo](https://fotos.etheriamagazine.com/2023/10/salzburgo-krampus-hombre-saco.jpg "Los krampus amenazan con llevarse a aquellos que se portan mal. © SG")
 
 ## El origen de los calcetines en la chimenea está en San Nicolás
 
@@ -126,7 +126,7 @@ chimenea la noche de Navidad**, a la espera de que ‘alguien’ deje regalos. Y
 sabido, San Nicolás tiene sus equivalentes en otros lugares: Sinterkoas en los países 
 nórdicos; le Père Noël en Francia; y Santa Claus en Estados Unidos. 
 
-![tienda de regalos navideños en Salzburgo](etheria-images/2023/10/Salzburgo-Navidad.jpg "Ambiente navideño en Salzburgo durante el Adviento. © Pedro Grifol.")
+![tienda de regalos navideños en Salzburgo](https://fotos.etheriamagazine.com/2023/10/Salzburgo-Navidad.jpg "Ambiente navideño en Salzburgo durante el Adviento. © Pedro Grifol.")
 
 ## El ying y el yang cristiano
 

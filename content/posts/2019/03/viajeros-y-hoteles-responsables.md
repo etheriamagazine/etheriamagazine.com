@@ -1,7 +1,7 @@
 ---
 title: "La experiencia sostenible marca el mundo de los viajes"
 date: 2019-03-30
-coverImage: etheria-images/2019/03/viajero-responsable-accor.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/viajero-responsable-accor.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -11,7 +11,7 @@ authors:
 
 El viajero es cada día más responsable según demuestran los estudios realizados a los usuarios del sector hotelero. La generación millennial ha crecido más concienciada con el entorno y demanda productos y hoteles respetuosos con el medio ambiente. La experiencia sostenible en el turismo ha llegado para quedarse.
 
-![viajeros responsables, hoteles compretidos](etheria-images/2019/03/viajero-responsable-accor.jpg)
+![viajeros responsables, hoteles compretidos](https://fotos.etheriamagazine.com/2019/03/viajero-responsable-accor.jpg)
 
 Reutilizar las toallas y saber que con ese gesto estamos ayudando tanto a **plantar 
 árboles** como a favorecer a agricultores con nombres y apellidos, alojarse en un hotel 
@@ -29,7 +29,7 @@ hoteles, agencias de viaje) pongan en marcha acciones que les permitan ser más
 respetuosos con el medio ambiente y la sociedad. Son conscientes de la necesidad de 
 actuar y perciben el desarrollo sostenible como un desafío crucial. 
 
-![turismo sostenible, hoteles responsables, accor rsc](etheria-images/2019/03/turismo-sostenible.jpg)
+![turismo sostenible, hoteles responsables, accor rsc](https://fotos.etheriamagazine.com/2019/03/turismo-sostenible.jpg)
 
 ## Una experiencia sostenible medible y cuantificada
 
@@ -70,7 +70,7 @@ verticales o huertos urbanos.
 Conviene implementar amplios programas de reducción de desperdicio de alimentos que 
 comiencen a actuar desde la cocina, dando una segunda vida a los productos. 
 
-![hoteles sostenibles, viajeros concienciados](etheria-images/2019/03/accor-rsc.jpg)
+![hoteles sostenibles, viajeros concienciados](https://fotos.etheriamagazine.com/2019/03/accor-rsc.jpg)
 
 ### Diseñar experiencias naturales
 

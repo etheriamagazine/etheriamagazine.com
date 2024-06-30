@@ -1,7 +1,7 @@
 ---
 title: "Macizo de Anaga, los secretos del Tenerife más rural"
 date: 2024-04-10
-coverImage: etheria-images/2023/12/macizo-anaga-tenerife.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/12/macizo-anaga-tenerife.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -16,7 +16,7 @@ la Biosfera, se ocultan tantos encantos rurales que habría que visitarlo muchas
 para empezar a conocerlo. En este artículo os lo ponemos más fácil, ya que compartimos 
 diez secretos que lograrán que os enamoréis aún más de esta isla. 
 
-![Las brumas se quedan atrapadas entre bosques y montañas del macizo de Anaga](etheria-images/2023/12/Tenerife-Anaga-brumas.jpg "Las brumas se quedan atrapadas entre bosques y montañas.")
+![Las brumas se quedan atrapadas entre bosques y montañas del macizo de Anaga](https://fotos.etheriamagazine.com/2023/12/Tenerife-Anaga-brumas.jpg "Las brumas se quedan atrapadas entre bosques y montañas.")
 
 Conocer nuevos lugares con otros ritmos es una tendencia viajera que gana cada día más 
 adeptos y Tenerife es el destino perfecto para iniciarse. Entre las islas Canarias, 
@@ -52,7 +52,7 @@ oficialmente el **Macizo de Anaga como Reserva de la Biosfera**. Una declaració
 incluía una extensa área marina y que adquiere un compromiso de desarrollo sostenible a 
 lo largo del tiempo en colaboración con sus habitantes. 
 
-![Laurisilva de Anaga.](etheria-images/2023/12/tenerife-laurisilva-anaga.jpg "Exuberante naturaleza de Anaga. © Islas Canarias")
+![Laurisilva de Anaga.](https://fotos.etheriamagazine.com/2023/12/tenerife-laurisilva-anaga.jpg "Exuberante naturaleza de Anaga. © Islas Canarias")
 
 ## Anaga Biofest
 
@@ -78,7 +78,7 @@ respuesta de público a sus experiencias turísticas porque acerca a los partici
 valores de Anaga y, al mismo tiempo, aviva el apego de las habitantes de las montañas al 
 comprobar el interés que su vida despierta entre los visitantes. 
 
-![Ruta de senderismo por el Monte de Las Vueltas, de camino hacia Taganana, durante el Anaga Biofest 2023.](etheria-images/2024/01/3-Tenerife-monte-las-vueltas.jpg "Ruta de senderismo por el Monte de Las Vueltas, de camino hacia Taganana, durante el © Anaga Biofest 2023.")
+![Ruta de senderismo por el Monte de Las Vueltas, de camino hacia Taganana, durante el Anaga Biofest 2023.](https://fotos.etheriamagazine.com/2024/01/3-Tenerife-monte-las-vueltas.jpg "Ruta de senderismo por el Monte de Las Vueltas, de camino hacia Taganana, durante el © Anaga Biofest 2023.")
 
 ## El encanto rural de Punta del Hidalgo y San Andrés
 
@@ -99,7 +99,7 @@ estando muy cerca de la capital de Tenerife, mantiene su espíritu pescador y su
 rural. Pero no son las únicas villas, otras se aferran también a los barrancos dejando 
 los mejores terrenos, los más llanos, para la agricultura. 
 
-![Bajada por El Homicián, por el sendero que transcurre desde el caserío de Bejía hacia La Punta del Hidalgo, con vistas al fondo de esta localidad costera.](etheria-images/2023/12/1-Tenerife-bajada-homician.jpg "Bajada por El Homicián, por el sendero que transcurre desde el caserío de Bejía hacia La Punta del Hidalgo, con vistas al fondo de esta localidad costera. © Javier Tejera")
+![Bajada por El Homicián, por el sendero que transcurre desde el caserío de Bejía hacia La Punta del Hidalgo, con vistas al fondo de esta localidad costera.](https://fotos.etheriamagazine.com/2023/12/1-Tenerife-bajada-homician.jpg "Bajada por El Homicián, por el sendero que transcurre desde el caserío de Bejía hacia La Punta del Hidalgo, con vistas al fondo de esta localidad costera. © Javier Tejera")
 
 ## Azúcar y vino en Taganana
 
@@ -119,7 +119,7 @@ mismo sendero por el que los aborígenes transportaban los productos agrícolas 
 litoral. Mientras que hacia las cumbres conectaba con el camino a San Cristóbal de la 
 Laguna atravesando la zona alta de las montañas. 
 
-![Parcelas plantadas con papa y viña malvasía en Los Auchones, con vistas al fondo del Roque de las Ánimas en Taganana.](etheria-images/2024/01/2-Tenerife-los-auchones.jpg "Parcelas plantadas con papa y viña malvasía en Los Auchones, con vistas al fondo del Roque de las Ánimas en Taganana. © Javier Tejera")
+![Parcelas plantadas con papa y viña malvasía en Los Auchones, con vistas al fondo del Roque de las Ánimas en Taganana.](https://fotos.etheriamagazine.com/2024/01/2-Tenerife-los-auchones.jpg "Parcelas plantadas con papa y viña malvasía en Los Auchones, con vistas al fondo del Roque de las Ánimas en Taganana. © Javier Tejera")
 
 ## Los caminos antiguos de Afur y El Bailadero
 
@@ -137,7 +137,7 @@ que, tradicionalmente, conducía desde la antigua capital isleña (San Cristóba
 Laguna) hasta la Punta de Anaga, el lugar más remoto y aislado del Macizo, iluminado por 
 el **faro de Anaga**, el más antiguo de Canarias. 
 
-![Bajada desde La Cumbrecilla hacia el caserío de Afur por el sendero PR-TF 8.](etheria-images/2024/01/5-Tenerife-bajada-cumbrecilla.jpg "Bajada desde La Cumbrecilla hacia el caserío de Afur por el sendero PR-TF 8. © Javier Tejera")
+![Bajada desde La Cumbrecilla hacia el caserío de Afur por el sendero PR-TF 8.](https://fotos.etheriamagazine.com/2024/01/5-Tenerife-bajada-cumbrecilla.jpg "Bajada desde La Cumbrecilla hacia el caserío de Afur por el sendero PR-TF 8. © Javier Tejera")
 
 ## La Virgen de la botella de Almáciga
 
@@ -152,7 +152,7 @@ peregrinos, cumplieron su promesa enviando una réplica de la patrona hasta el p
 acompañada de una nutrida procesión marítima. Desde entonces es una de las imágenes 
 religiosas más queridas por los vecinos de Anaga. 
 
-![Carmen Gallardo, vecina de Taganana, una de las antiguas gangocheras entrevistadas en el documental “Caminos con nombre de mujer”](etheria-images/2024/01/7-Tenerife-carmen-gallardo.jpg "Carmen Gallardo, vecina de Taganana, una de las antiguas gangocheras entrevistadas en el documental “Caminos con nombre de mujer”, producido por el Festival © Anaga Biofest.")
+![Carmen Gallardo, vecina de Taganana, una de las antiguas gangocheras entrevistadas en el documental “Caminos con nombre de mujer”](https://fotos.etheriamagazine.com/2024/01/7-Tenerife-carmen-gallardo.jpg "Carmen Gallardo, vecina de Taganana, una de las antiguas gangocheras entrevistadas en el documental “Caminos con nombre de mujer”, producido por el Festival © Anaga Biofest.")
 
 ## Gangocheras de Anaga
 
@@ -172,7 +172,7 @@ manos de mujeres pasa la vida cotidiana de Anaga y, en ellas, siguen vivos ofici
 rurales que, como el de aquellas laboriosas gangocheras, pioneras en el márquetin rural, 
 abrieron sendas de vida por las montañas. 
 
-![Victoriana Martín, vecina de El Batán, una de las antiguas gangocheras entrevistadas para “Caminos con nombre de mujer”.](etheria-images/2024/01/8-Tenerife-victoriana-martin.jpg "Victoriana Martín, vecina de El Batán, una de las antiguas gangocheras entrevistadas para “Caminos con nombre de mujer”. © Festival Anaga Biofest")
+![Victoriana Martín, vecina de El Batán, una de las antiguas gangocheras entrevistadas para “Caminos con nombre de mujer”.](https://fotos.etheriamagazine.com/2024/01/8-Tenerife-victoriana-martin.jpg "Victoriana Martín, vecina de El Batán, una de las antiguas gangocheras entrevistadas para “Caminos con nombre de mujer”. © Festival Anaga Biofest")
 
 ## El bosque que atrapa nieblas
 
@@ -195,7 +195,7 @@ través de canales prendidos de las montañas. Uno de los itinerarios más espec
 entre túneles y galerías se despliega en **Los Catalanes** al sur del Macizo, en la zona 
 alta del Valle Grande, a cuya galería principal se accede desde el pueblo de Afur. 
 
-![Ruta por el bosque de laurisilva en El Pijaral](etheria-images/2024/01/9-Tenerife-laurisilva-el-pijaral.jpg "Ruta por el bosque de laurisilva en El Pijaral. © Javier Tejera")
+![Ruta por el bosque de laurisilva en El Pijaral](https://fotos.etheriamagazine.com/2024/01/9-Tenerife-laurisilva-el-pijaral.jpg "Ruta por el bosque de laurisilva en El Pijaral. © Javier Tejera")
 
 ## Arqueología guanche
 
@@ -216,7 +216,7 @@ que podéis contemplar en el [museo de Naturaleza y
 Arqueología](https://www.museosdetenerife.org/muna-museo-de-naturaleza-y-arqueologia/) 
 de Santa Cruz de Tenerife. 
 
-![En el mercado se comprueba la riqueza de Anaga.](etheria-images/2023/12/mercado-Anaga-716x1000.jpg "En el Mercado de Tegueste se comprueba la riqueza de Anaga. © Mar Ramírez")
+![En el mercado se comprueba la riqueza de Anaga.](https://fotos.etheriamagazine.com/2023/12/mercado-Anaga-716x1000.jpg "En el Mercado de Tegueste se comprueba la riqueza de Anaga. © Mar Ramírez")
 
 ## Día de mercado y bodega
 
@@ -235,7 +235,7 @@ de Tegueste** de los sábados. Allí encontraréis quesos, frutas, hortalizas, v
 vinos, miel, pan, etc. directamente de la mano de sus productores. Son un buen recuerdo 
 para llevar de regreso a casa. 
 
-![Bodega El Lomo, en Tenerife](etheria-images/2024/01/bodega-tenerife.jpg "Bodega El Lomo. © Mar Ramírez")
+![Bodega El Lomo, en Tenerife](https://fotos.etheriamagazine.com/2024/01/bodega-tenerife.jpg "Bodega El Lomo. © Mar Ramírez")
 
 Y tanto en el mercado como en las **bodegas locales** de Tegueste, los ricos vinos 
 canarios demuestran la longeva historia del viñedo en Anaga. No os resistáis a catar la 

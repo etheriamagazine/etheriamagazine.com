@@ -1,7 +1,7 @@
 ---
 title: "Ir de bares y otros planes para enamorarte de Bolonia"
 date: 2022-02-21
-coverImage: etheria-images/2022/02/Plaza-Mayor-bolonia-noche.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/02/Plaza-Mayor-bolonia-noche.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -16,7 +16,7 @@ rincón de Italia con mucha historia. ¿Por qué deberías valorarlo como tu pr�
 escapada? Son muchas las razones, además de los bares, pero aquí hemos elegido diez 
 planes que puedes hacer en Bolonia y que justifican el viaje. 
 
-![en bicicleta por bolonia](etheria-images/2022/02/bolonia-porticos-bicicleta.jpg "En Bolonia es fácil moverse en bicicleta.")
+![en bicicleta por bolonia](https://fotos.etheriamagazine.com/2022/02/bolonia-porticos-bicicleta.jpg "En Bolonia es fácil moverse en bicicleta.")
 
 Bolonia es, para muchos, una ciudad de paso. La llegada de vuelos _low cost_ procedentes 
 de muchos lugares de Europa (también España) y el hecho de estar en un importante nudo 
@@ -31,7 +31,7 @@ te proponemos conocerás facetas muy variadas de la ciudad.
 ?No te pierdas: [Viaje con amigas a Bolonia: 10 planes imbatibles en 
 Italia](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/). 
 
-![impresionante plano aereo de bolonia](etheria-images/2022/02/Plano-aereo-bolonia.jpg "Vista aérea de Bolonia.")
+![impresionante plano aereo de bolonia](https://fotos.etheriamagazine.com/2022/02/Plano-aereo-bolonia.jpg "Vista aérea de Bolonia.")
 
 ## 10 planes que sólo puedes hacer en Bolonia
 
@@ -44,7 +44,7 @@ produjo durante el verano de 2021 y que, de alguna forma, reconoce no solo esta
 particularidad urbanística, también el amplio catálogo monumental de la capital de la 
 región de Emilia-Romaña. 
 
-![Porticos Piazza Cavour en bolonia](etheria-images/2022/02/Porticos-Piazza-Cavour-bolonia.jpg "Pórticos de la Piazza Cavour.")
+![Porticos Piazza Cavour en bolonia](https://fotos.etheriamagazine.com/2022/02/Porticos-Piazza-Cavour-bolonia.jpg "Pórticos de la Piazza Cavour.")
 
 ### 2\. Recorrer sus bares y cafeterías
 
@@ -56,7 +56,7 @@ ganas de diversión de los muchos jóvenes que aquí residen durante buena parte
 lo explican también esos soportales, que permiten hacer “vida de calle”, incluso en el 
 pleno, frío y neblinoso invierno padano. 
 
-![cafe gazzeta de bolonia](etheria-images/2022/02/Cafe-Gazzetta-bolonia.jpg "Café Gazzeta de Bolonia.")
+![cafe gazzeta de bolonia](https://fotos.etheriamagazine.com/2022/02/Cafe-Gazzetta-bolonia.jpg "Café Gazzeta de Bolonia.")
 
 En Bolonia el **aperitivo**, sobre todo el de media tarde y previo a la cena, no se 
 perdona. **Spritz o prosecco** en mano, aquí todo el mundo encuentra un hueco para 
@@ -66,7 +66,7 @@ sanitarias lo permiten, claro) en las mesas que ponen en la calle las tascas y t
 de alimentación que hay en el dédalo de calles en torno al **mercado del Quadrilatero**, 
 en pleno centro de Bolonia. 
 
-![ambiente joven en los bares del cuadrilatero de bolonia](etheria-images/2022/02/Bares-del-Cuadrilatero-bolonia.jpg "Bares del Cuadrilátero de Bolonia.")
+![ambiente joven en los bares del cuadrilatero de bolonia](https://fotos.etheriamagazine.com/2022/02/Bares-del-Cuadrilatero-bolonia.jpg "Bares del Cuadrilátero de Bolonia.")
 
 ### 3\. Probar la mortadela boloñesa
 
@@ -79,7 +79,7 @@ y acompañada de _salumi_ (chacinas) regionales. Por ejemplo, el jamón de Parma
 representativos de Bolonia y su región: los quesos Squacquerone (fresco y bastante 
 graso) y el mundialmente conocido Parmiggiano-Reggiano. 
 
-![Embutidos italianos en un puesto de Bolonia](etheria-images/2022/02/Embutidos-italianos-bolonia.jpg "Embutidos italianos en un puesto de Bolonia.")
+![Embutidos italianos en un puesto de Bolonia](https://fotos.etheriamagazine.com/2022/02/Embutidos-italianos-bolonia.jpg "Embutidos italianos en un puesto de Bolonia.")
 
 ### 4\. Comprar recuerdos gourmet
 
@@ -89,7 +89,7 @@ vinos y pastas con los más diversos rellenos, además de las salsas precocinada
 acompañarlas. Entre ellas, por supuesto, la célebre boloñesa, a base de carne triturada, 
 verduras y tomate. 
 
-![Comercio gastronómico de Bolonia](etheria-images/2022/02/Comercio-gastronomico-bolonia.jpg "Comercio gastronómico de Bolonia.")
+![Comercio gastronómico de Bolonia](https://fotos.etheriamagazine.com/2022/02/Comercio-gastronomico-bolonia.jpg "Comercio gastronómico de Bolonia.")
 
 Pero también está la opción de adquirir estos y otros productos gourmet en un lugar, 
 cuando menos, ecléctico: **Ambasciatori**. Tres plantas de estanterías repletas de 
@@ -97,7 +97,7 @@ libros a la venta y productos _gourmet_, con un notable restaurante y que, sobre
 es un indispensable punto de encuentro cultural y social para la ciudad, gracias a las 
 presentaciones de libros, coloquios y conferencias que aquí se celebran. 
 
-![Ambasciatori, tienda y restaurante de Bolonia](etheria-images/2022/02/Ambasciatori-tienda-bar-bolonia.jpg "Ambasciatori, tienda y restaurante de Bolonia.")
+![Ambasciatori, tienda y restaurante de Bolonia](https://fotos.etheriamagazine.com/2022/02/Ambasciatori-tienda-bar-bolonia.jpg "Ambasciatori, tienda y restaurante de Bolonia.")
 
 ### 5\. Visitar la Piazza Maggiore
 
@@ -109,7 +109,7 @@ conocidos y queridos de la ciudad: la enorme estatua en bronce de Neptuno, que p
 la fuente de la plaza contigua. Todo englobado un espacio peatonal abierto muy llamativo 
 y de colosales dimensiones. 
 
-![plaza mayor de bolonia](etheria-images/2022/02/Plaza-Mayor-bolonia.jpg "Plaza Mayor de Bolonia.")
+![plaza mayor de bolonia](https://fotos.etheriamagazine.com/2022/02/Plaza-Mayor-bolonia.jpg "Plaza Mayor de Bolonia.")
 
 ### 6\. Fotografiar la torre inclinada
 
@@ -121,7 +121,7 @@ tiene que ascender hasta la cumbre de la torre a través de una angosta escalera
 **Garisenda**, de menor altura pero que, por cuestiones de asentamiento del terreno, 
 también acabó inclinándose con un ángulo, cuando menos, inquietante. 
 
-![Torres Grisenda y Asinelli de Bolonia](etheria-images/2022/02/Torres-Grisenda-y-Asinelli-bolonia.jpg "Torres Grisenda y Asinelli de Bolonia. © Alfredo G. Reyes")
+![Torres Grisenda y Asinelli de Bolonia](https://fotos.etheriamagazine.com/2022/02/Torres-Grisenda-y-Asinelli-bolonia.jpg "Torres Grisenda y Asinelli de Bolonia. © Alfredo G. Reyes")
 
 ### 7\. Admirar el balcón de la Casa Isolani
 
@@ -132,7 +132,7 @@ nacieron los soportales en la ciudad: se trató de una forma de aumentar el tama
 casas nobles, sin contravenir las normativas municipales, evitando robar espacio a la 
 vía pública. 
 
-![Casa Isolani de bolonia con un gran balcon](etheria-images/2022/02/Casa-Isolani-bolonia.jpg "Casa Isolani. © Alfredo G. Reyes")
+![Casa Isolani de bolonia con un gran balcon](https://fotos.etheriamagazine.com/2022/02/Casa-Isolani-bolonia.jpg "Casa Isolani. © Alfredo G. Reyes")
 
 ### 8\. Comer en la Osteria dell’Orsa
 
@@ -146,7 +146,7 @@ por supuesto, incluyen mortadela. Pero la realidad es que la carta es un buen pa
 de la cocina italiana, con platos como la lasaña al horno o las _cotolette_ (chuletas de 
 carne de cerdo) con ensalada que merece la pena explorar. 
 
-![Ambiente calle Osteria dell Orsa en bolonia](etheria-images/2022/02/Ambiente-calle-Osteria-dell-Orsa.jpg "Ambiente de la calle Osteria dell'Orsa. © Alfredo G.R.")
+![Ambiente calle Osteria dell Orsa en bolonia](https://fotos.etheriamagazine.com/2022/02/Ambiente-calle-Osteria-dell-Orsa.jpg "Ambiente de la calle Osteria dell'Orsa. © Alfredo G.R.")
 
 La clientela de esta ostería es una curiosa mezcla entre estudiantes locales y Erasmus, 
 turistas, gastrónomos y buscadores de diversión, en general. Algo que también ocurre en 
@@ -161,7 +161,7 @@ prestigiosa institución docente y que hoy lo es de la Biblioteca Comunal. El pa
 principal de este edificio acoge los que probablemente sean los pórticos con frescos 
 pintados en las bóvedas más impactantes de la ciudad. 
 
-![Palacio del Archiginnasio de bolonia](etheria-images/2022/02/palacio-Archiginnasio-bolonia.jpg "Palacio del Archiginnasio.")
+![Palacio del Archiginnasio de bolonia](https://fotos.etheriamagazine.com/2022/02/palacio-Archiginnasio-bolonia.jpg "Palacio del Archiginnasio.")
 
 Ya que nos adentramos en el capítulo del arte, merece una prolongada visita la 
 **Pinacoteca Nacional de Bolonia**. Esta alberga obras de la pintura italiana entre los 
@@ -169,7 +169,7 @@ siglos XIII al XIX, entre las que destaca la amplia colección de Ludovico, Agos
 Annibale Carracci, a los que se considera máximos competidores de Caravaggio y 
 renovadores de la pintura en los inicios del Barroco. 
 
-![Fuente del Parque de Montagnola](etheria-images/2022/02/Parco-Montagnola-bolonia.jpg "Fuente del Parco della Montagnola.")
+![Fuente del Parque de Montagnola](https://fotos.etheriamagazine.com/2022/02/Parco-Montagnola-bolonia.jpg "Fuente del Parco della Montagnola.")
 
 ### 10\. Comer "pinza bolognese" sentada en un banco
 

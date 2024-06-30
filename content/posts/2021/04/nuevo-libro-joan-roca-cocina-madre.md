@@ -1,7 +1,7 @@
 ---
 title: "Cocina madre, el tributo de Joan Roca a su mejor maestra"
 date: 2021-04-03
-coverImage: etheria-images/2019/03/libro-joan-rica-cocina-madre.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/libro-joan-rica-cocina-madre.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -12,7 +12,7 @@ authors:
 
 Que Joan Roca es el mejor cocinero del mundo lo dicen las biblias del buen comer. Es el hombre más deseado de los fogones y para cortejarle hay que ir hasta Girona, al Celler de Can Roca. Sin embargo, también puedes tratar de imitar sus recetas más tradicionales (las de su madre) siguiendo los consejos que comparte en el libro 'Cocina madre', un imprescindible para los amantes de la comida casera.
 
-![libro cocina madre, libro joan roca, madre joan roca, montserrat fontane](etheria-images/2019/03/joan-roca-su-madre.jpg "Joan Roca rinde homenaje en el libro a su madre, Montserrat Fontané.")
+![libro cocina madre, libro joan roca, madre joan roca, montserrat fontane](https://fotos.etheriamagazine.com/2019/03/joan-roca-su-madre.jpg "Joan Roca rinde homenaje en el libro a su madre, Montserrat Fontané.")
 
 Tener el título de “Mejor Chef del Mundo” no le ha impedido a Joan Roca pisar tierra 
 firme y anclarse a sus raíces. Hasta el punto de que ha querido rendir homenaje público 
@@ -30,7 +30,7 @@ sus raíces, y recoger el recetario tradicional, sin artificios, sin complicacio
 recetas de siempre que disfrutó en su casa y en **el restaurante de sus padres, Can 
 Roca**, unos platos que le retrotraen a escenarios familiares e infantiles. 
 
-![platos de joan roca, cocina madre joan roca, recetas joan roca](etheria-images/2019/03/libro-platos-joan-roca.jpg "'Arroz de la Montse con mejillones', 'Suquet de pescado' y 'Bacalao con pasas y huevo'.")
+![platos de joan roca, cocina madre joan roca, recetas joan roca](https://fotos.etheriamagazine.com/2019/03/libro-platos-joan-roca.jpg "'Arroz de la Montse con mejillones', 'Suquet de pescado' y 'Bacalao con pasas y huevo'.")
 
 Joan Roca decidió ponerse manos a la obra con este libro después de participar con su 
 madre en una ponencia de Madrid Fusión en 2018: “Entonces fui consciente de la 
@@ -48,7 +48,7 @@ refugiamos en la masía familiar y allí, en ese espacio, se produjo una sinergi
 maravillosa a la que también se sumaron mi sobrino Martí, que también se quiere dedicar 
 ‘a esto’, y mi amigo Salvador Brugués, con el que he preparado varios libros”. 
 
-![libro cocina madre, libro joan roca, recetas joan roca](etheria-images/2019/03/libro-cocina-madre-joan-roca.jpg ""Este libro establece la conexión con la cocina que nos sigue inspirando, la de la memoria y la tradición".")
+![libro cocina madre, libro joan roca, recetas joan roca](https://fotos.etheriamagazine.com/2019/03/libro-cocina-madre-joan-roca.jpg ""Este libro establece la conexión con la cocina que nos sigue inspirando, la de la memoria y la tradición".")
 
 El resultado es un volumen que recupera y perpetúa los platos más auténticos del 
 recetario popular, **80 recetas sencillas y pensadas para cocinar en casa**, sin 
@@ -79,7 +79,7 @@ aprovechamiento hecha con inteligencia.
 
 > “Las espinas de la anchoa son tan buenas como las propias anchoas” 
 
-![libro joan roca cocina madre](etheria-images/2019/03/libro-joan-rica-cocina-madre.jpg "Joan Roca posa con su libro 'Cocina Madre'.")
+![libro joan roca cocina madre](https://fotos.etheriamagazine.com/2019/03/libro-joan-rica-cocina-madre.jpg "Joan Roca posa con su libro 'Cocina Madre'.")
 
 ## Una escudella para la familia
 
@@ -99,7 +99,7 @@ felices haciendo algo que a nosotros también nos gustaba. Así que, por muchos 
 que les hagamos, nunca serán suficientes para agradecerles haber sacado una familia 
 adelante con ese trabajo y ese sacrificio”. 
 
-![platos madre joan roca](etheria-images/2019/03/torrija-fresas-joan-roca.jpg "Torrija y 'Fresitas con piel de leche'.")
+![platos madre joan roca](https://fotos.etheriamagazine.com/2019/03/torrija-fresas-joan-roca.jpg "Torrija y 'Fresitas con piel de leche'.")
 
 ## Peleas infantiles entre los Roca
 
@@ -116,7 +116,7 @@ menú. Y lo que yo hacía para ayudar eran las picadas para los guisos. Ésa era
 Mi madre me mandó hacer una chaquetilla de cocinero, porque ser cocinero no estaba de 
 moda entonces. Ahora esa chaquetilla se la pongo a mi hija Marina cuando me ayuda”. 
 
-![recetas joan roca](etheria-images/2019/03/portada-cocina-madre-joan-roca.jpg "Portada del libro Cocina Madre.")
+![recetas joan roca](https://fotos.etheriamagazine.com/2019/03/portada-cocina-madre-joan-roca.jpg "Portada del libro Cocina Madre.")
 
 ## Cocineros universales
 

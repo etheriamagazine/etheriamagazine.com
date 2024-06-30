@@ -1,7 +1,7 @@
 ---
 title: "Palma con amigas: 8 planazos para exprimir la capital de Mallorca"
 date: 2021-06-02
-coverImage: etheria-images/2021/05/palma-amigas-Velero-Rafael-Verdera.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/05/palma-amigas-Velero-Rafael-Verdera.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
@@ -17,7 +17,7 @@ de la vida nocturna y del turismo activo. En este artículo os ofrecemos 8 plane
 sacarle todo el jugo a esta preciosa ciudad, además de algunas excursiones divertidas 
 desde Palma. 
 
-![Castillo Bellver con Palma de Mallorca al fondo](etheria-images/2021/06/palma-mallorca-castell-bellver.jpg "Palma de Mallorca.")
+![Castillo Bellver con Palma de Mallorca al fondo](https://fotos.etheriamagazine.com/2021/06/palma-mallorca-castell-bellver.jpg "Palma de Mallorca.")
 
 Hacer una escapada a Palma de Mallorca siempre es un planazo. Es un excelente punto de 
 partida para hacer excursiones por esta isla que tanto tiene que ofrecer, pero es que 
@@ -37,7 +37,7 @@ y preparan una deliciosa barbacoa para que podáis seguir disfrutando del mar. Y
 queréis una experiencia todavía más especial, apuntaos a sus salidas para disfrutar del 
 atardecer desde cubierta mientras tomáis una copa. 
 
-![Navegar a vela en Palma](etheria-images/2021/05/palma-amigas-Velero-Rafael-Verdera.jpg "Barco de vela © 'Rafael Verdera'.")
+![Navegar a vela en Palma](https://fotos.etheriamagazine.com/2021/05/palma-amigas-Velero-Rafael-Verdera.jpg "Barco de vela © 'Rafael Verdera'.")
 
 ## Un paseo en bicicleta por Palma
 
@@ -49,7 +49,7 @@ puntos a la experiencia del pedaleo y es infinitamente más fácil. Una buena op
 ciudad, al lado de la Plaza de España, tienen bicicletas de todo tipo y te facilitan el 
 candado y el casco. 
 
-![Catedral de Palma de Mallorca](etheria-images/2021/05/mallorca-amigas-bicicleta.jpg "Bicicleta con la catedral de Palma al fondo.")
+![Catedral de Palma de Mallorca](https://fotos.etheriamagazine.com/2021/05/mallorca-amigas-bicicleta.jpg "Bicicleta con la catedral de Palma al fondo.")
 
 ## Helados para golosas
 
@@ -59,7 +59,7 @@ hasta los más innovadores. Además, siempre podéis disfrutar del placer de deg
 cucurucho mientras paseáis Palma o sentaros en una terraza para tirar la casa por la 
 ventana con una copa de esas con "muchos colores y toppings". 
 
-![Heladería Can Joan de S'Aigo y helado de Rivareno.](etheria-images/2021/05/mallorca-amigas-heladerias.jpg "Heladería © Can Joan de S'Aigo y helado de © Rivareno.")
+![Heladería Can Joan de S'Aigo y helado de Rivareno.](https://fotos.etheriamagazine.com/2021/05/mallorca-amigas-heladerias.jpg "Heladería © Can Joan de S'Aigo y helado de © Rivareno.")
 
 Algunas direcciones imprescindibles son **C’an Joan de s’Aigo**, que lleva más de tres 
 siglos haciendo helados artesanos; **Gelats Paco**, fundada por un matrimonio alicantino 
@@ -81,7 +81,7 @@ ver lugares como la playa de Cala Mosca, las cuevas Cap Rocat o la preciosa Cala
 donde se hace una parada para bañarse y para practicar esnórquel en sus cristalinas 
 aguas. Además, Civitatis puede gestionaros la recogida y regreso al hotel. 
 
-![Costa de Mallorca.](etheria-images/2021/05/mallorca-amigas-costa.jpg "Costa de Mallorca.")
+![Costa de Mallorca.](https://fotos.etheriamagazine.com/2021/05/mallorca-amigas-costa.jpg "Costa de Mallorca.")
 
 ## De compras por el centro
 
@@ -94,7 +94,7 @@ tradicional del centro. Os proponemos una serie de **mercados** donde además de
 productos deliciosos se puede parar a tomar algo y un fin de fiesta insuperable: un 
 masaje en un hamman. 
 
-![Tienda bisuteria palma](etheria-images/2021/05/Palma-amigas-Tienda-MORENITA-COMPLEMENTS.jpg "Tienda © Morenita Complements en Palma.")
+![Tienda bisuteria palma](https://fotos.etheriamagazine.com/2021/05/Palma-amigas-Tienda-MORENITA-COMPLEMENTS.jpg "Tienda © Morenita Complements en Palma.")
 
 ## Paseo en quad desde Palma
 
@@ -106,7 +106,7 @@ pequeños pueblos como Algaida, Sant Jordi o S'Arranjassa. Después, para termin
 como un rato de esnórquel en la zona costera de Son Veri y, las más valientes, se podrán 
 tirar al mar desde sus acantilados (unos 10 metros de altura). 
 
-![paisaje rural del interior de Mallorca](etheria-images/2021/05/palma-quads-paisaje-rural.jpg "El interior de Mallorca es perfecto para las rutas en quad.")
+![paisaje rural del interior de Mallorca](https://fotos.etheriamagazine.com/2021/05/palma-quads-paisaje-rural.jpg "El interior de Mallorca es perfecto para las rutas en quad.")
 
 ## Una copa cerca del cielo
 
@@ -123,7 +123,7 @@ restaurante; el **Sky Bar del Hostal Cuba**, donde no sabréis cuál de sus deli
 cócteles elegir; o **Purohotel Bar & Restaurant**, para ver y dejarse ver en un ambiente 
 moderno y sofisticado mientras se disfruta de buena música. 
 
-![bares en hoteles de Palma](etheria-images/2021/06/palma-amigas-hotel-sant-francesc.jpg "Bar Terraza Singular del © Hotel Sant Francesc.")
+![bares en hoteles de Palma](https://fotos.etheriamagazine.com/2021/06/palma-amigas-hotel-sant-francesc.jpg "Bar Terraza Singular del © Hotel Sant Francesc.")
 
 ## Excursión a Sóller y Valldemosa
 
@@ -139,7 +139,7 @@ No podréis dejar de hacer fotos durante todo el día. Si queréis ir como unas 
 no preocuparos de nada, podéis apuntaros a la excursión anterior que combina estos 
 lugares y sale por poco más de 50 euros. 
 
-![trenes en Mallorca](etheria-images/2021/05/mallorca-amigas-tren-soller.jpg "El tren de Sóller por la sierra de Tramontana. © Tren de Sóller")
+![trenes en Mallorca](https://fotos.etheriamagazine.com/2021/05/mallorca-amigas-tren-soller.jpg "El tren de Sóller por la sierra de Tramontana. © Tren de Sóller")
 
 ? **Si viajas a Palma con amigas también te puede interesar:** 
 

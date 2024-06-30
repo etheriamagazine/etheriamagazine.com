@@ -1,7 +1,7 @@
 ---
 title: "15 excursiones a menos de 99 km de Madrid que te alegrarán cualquier finde"
 date: 2020-05-20
-coverImage: etheria-images/2020/05/excursion-aranjuez.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -17,7 +17,7 @@ Ideales para ir y volver en el mismo día desde Madrid y en formato lista de la 
 Estas quince escapadas cercanas a la capital española te ayudarán a familiarizarte de 
 nuevo con el concepto ‘viajar’. 
 
-![Jardines Chinescos de Aranjuez.](etheria-images/2020/05/excursion-aranjuez-900x675.jpg "Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
+![Jardines Chinescos de Aranjuez.](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez-900x675.jpg "Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
 
 **Actualizado en abril de 2024** 
 
@@ -35,7 +35,7 @@ París, en la berlinesa Puerta de Brandeburgo o en la Torre de Belém? Pensado c
 de recreo para ir en familia, se organizan multitud de actividades deportivas y lúdicas 
 dirigidas a los más pequeños. La entrada al parque es gratuita. 
 
-![Reproducción de la Puerta de Brandeburgo del Parque Europa, en Torrejón de Ardoz.](etheria-images/2020/05/viaje-madrid-parque-europa.jpg "Reproducción de la Puerta de Brandeburgo del Parque Europa, en Torrejón de Ardoz. © Enrique Gutiérrez")
+![Reproducción de la Puerta de Brandeburgo del Parque Europa, en Torrejón de Ardoz.](https://fotos.etheriamagazine.com/2020/05/viaje-madrid-parque-europa.jpg "Reproducción de la Puerta de Brandeburgo del Parque Europa, en Torrejón de Ardoz. © Enrique Gutiérrez")
 
 ## 2\. Mejorada del Campo (Madrid), a 22 km
 
@@ -50,7 +50,7 @@ falleció 19 días más tarde en su pueblo natal, Mejorada del Campo.
 
 \*No te vayas de esta tierra sin probar sus deliciosos **tomates**. 
 
-![Catedral de Justo, en Mejorada del Campo (Madrid).](etheria-images/2020/05/viaje-madrid-mejorada.jpg "Catedral de Justo, en Mejorada del Campo (Madrid). © Kelu Robles")
+![Catedral de Justo, en Mejorada del Campo (Madrid).](https://fotos.etheriamagazine.com/2020/05/viaje-madrid-mejorada.jpg "Catedral de Justo, en Mejorada del Campo (Madrid). © Kelu Robles")
 
 ## 3\. Alcalá de Henares (Madrid), a 34 km
 
@@ -70,7 +70,7 @@ torre y una torre sin iglesia', y su lema turístico reza: 'Chinchón: plaza, an
 mesón', ecuación a la que añadimos sus **ajos**, de reconocida calidad en esta zona de 
 Madrid. 
 
-![Plaza de Chinchón y puesto de almendras y ajos.](etheria-images/2020/05/viaje-madrid-chinchon-900x480.jpg "Plaza de Chinchón y puesto de almendras y ajos. © Kelu Robles")
+![Plaza de Chinchón y puesto de almendras y ajos.](https://fotos.etheriamagazine.com/2020/05/viaje-madrid-chinchon-900x480.jpg "Plaza de Chinchón y puesto de almendras y ajos. © Kelu Robles")
 
 ## 5\. Aranjuez (Madrid), a 50 km
 
@@ -79,7 +79,7 @@ rodean, diseñados por orden de **Felipe II**. El Tren de la Fresa de Renfe ofre
 posibilidad de hacer una excursión en un antiguo tren con la tripulación vestida de 
 época, actividad especialmente atractiva para los más pequeños de la casa. 
 
-![Panorámica de Aranjuez.](etheria-images/2020/05/viaje-madrid-aranjuez.jpg "Panorámica de Aranjuez. © Free Commons")
+![Panorámica de Aranjuez.](https://fotos.etheriamagazine.com/2020/05/viaje-madrid-aranjuez.jpg "Panorámica de Aranjuez. © Free Commons")
 
 ## 6\. San Lorenzo de El Escorial (Madrid), a 52 km
 
@@ -89,7 +89,7 @@ sepultura a los reyes de nuestra corona y a sus madres. Destaca la biblioteca y 
 belleza artística del sepelio de **Juan de Austria**. La capilla del monasterio conserva 
 miles de las **reliquias** que coleccionaba **Felipe II**. 
 
-![Real Monasterio de San Lorenzo de El Escorial.](etheria-images/2020/05/viaje-madrid-escorial.jpg "Real Monasterio de San Lorenzo de El Escorial. © Kelu Robles")
+![Real Monasterio de San Lorenzo de El Escorial.](https://fotos.etheriamagazine.com/2020/05/viaje-madrid-escorial.jpg "Real Monasterio de San Lorenzo de El Escorial. © Kelu Robles")
 
 ## 7\. Guadalajara capital, a 58 km
 
@@ -100,7 +100,7 @@ famoso por su gran salón chino. Detente ante la pastelería Marián para probar
 deliciosos **bizcochos borrachos**. Las **harinosas** son otro dulce típico de la 
 capital. 
 
-![Palacio del Infantado de Guadalajara.](etheria-images/2020/05/viaje-guadalajara-palacio-infantado.jpg "Palacio del Infantado de Guadalajara. © Mamen F.G.")
+![Palacio del Infantado de Guadalajara.](https://fotos.etheriamagazine.com/2020/05/viaje-guadalajara-palacio-infantado.jpg "Palacio del Infantado de Guadalajara. © Mamen F.G.")
 
 ## 8\. El Espinar (Segovia), a 65 km
 
@@ -130,7 +130,7 @@ filtraciones de agua y la hizo inservible. Desde allí parten diferentes sendas 
 recorren los **cañones del Lozoya**, desde donde se pueden observar **Las Cárcavas** de 
 Valdepeñas de la Sierra, una formación montañosa y arcillosa muy peculiar. 
 
-![Presa Pontón de la Oliva.](etheria-images/2020/05/viaje-ponton-de-la-oliva.jpg "Presa Pontón de la Oliva. © Kelu Robles")
+![Presa Pontón de la Oliva.](https://fotos.etheriamagazine.com/2020/05/viaje-ponton-de-la-oliva.jpg "Presa Pontón de la Oliva. © Kelu Robles")
 
 ## 11\. Toledo capital, a 72 km
 
@@ -150,7 +150,7 @@ del artista, lo hizo posible. Aprovecha el camino de vuelta y detente en **Paton
 Arriba**, uno de los pueblos de pizarra más bonitos de la comunidad y más 
 representativos de su **arquitectura negra**. 
 
-![Panorámica de Toledo.](etheria-images/2020/05/viaje-toledo.jpg "Panorámica de Toledo. © Steven Yu")
+![Panorámica de Toledo.](https://fotos.etheriamagazine.com/2020/05/viaje-toledo.jpg "Panorámica de Toledo. © Steven Yu")
 
 ## 13\. Sierra del Rincón (Madrid), a 94 km
 
@@ -169,7 +169,7 @@ atractivos de su entorno, como el **Bosque Finlandés**, que antiguamente conten
 sauna, las **Cascadas del Purgatorio**, el **Tejo de Barondillo**, que es el ser vivo 
 más viejo de Madrid, o **Las Presillas**, ideales para refrescarse en verano. 
 
-![Monasterio del Paular (Madrid).](etheria-images/2020/05/monasterio-paular-madrid.jpg "Monasterio del Paular (Madrid). © Ana Jiménez/ Pixabay")
+![Monasterio del Paular (Madrid).](https://fotos.etheriamagazine.com/2020/05/monasterio-paular-madrid.jpg "Monasterio del Paular (Madrid). © Ana Jiménez/ Pixabay")
 
 ## 15\. Segovia capital, a 96 km
 

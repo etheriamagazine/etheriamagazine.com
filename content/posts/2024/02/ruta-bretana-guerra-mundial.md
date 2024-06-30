@@ -1,7 +1,7 @@
 ---
 title: "De Saint-Malo a Lorient, una ruta bretona para recordar el Día D"
 date: 2024-02-19
-coverImage: etheria-images/2024/02/Museo-Memoria-39-45.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/02/Museo-Memoria-39-45.jpg
 categories: 
   - viajes-con-amigas
   - viajes-romanticos
@@ -17,7 +17,7 @@ desembarcaron en varias playas para tratar de liberar Europa del dominio nazi. O
 contamos algunas visitas clave si viajáis a Bretaña relacionadas con este acontecimiento 
 histórico. 
 
-![Puerto de Saint-Malo.](etheria-images/2024/02/St-Malo.jpg "Puerto de Saint-Malo. © SMBMSM")
+![Puerto de Saint-Malo.](https://fotos.etheriamagazine.com/2024/02/St-Malo.jpg "Puerto de Saint-Malo. © SMBMSM")
 
 Dentro de muy poco se habrán cumplido ochenta años desde que se produjo la **operación 
 Overlord,** el mayor despliegue militar de la Segunda Guerra Mundial para expulsar a las 
@@ -47,7 +47,7 @@ marcaron la región de Saint-Malo entre 1940 y 1944. Puedes descargarte la [ruta
 pdf](https://cdt35.media.tourinsoft.eu/upload/marie-laure-circuit-francais.2-2.pdf) (en 
 francés). 
 
-![Fort National, en Saint-Malo.](etheria-images/2024/02/Fort-National-Saint-Malo.jpg "Fort National, en Saint-Malo. © SMBMSM")
+![Fort National, en Saint-Malo.](https://fotos.etheriamagazine.com/2024/02/Fort-National-Saint-Malo.jpg "Fort National, en Saint-Malo. © SMBMSM")
 
 ## Shelburn, camino de la libertad
 
@@ -74,7 +74,7 @@ facilitar la identificación de la ruta, existe una app móvil llamada Shelburn.
 encontraréis el itinerario en pdf en la web de falaisesdarmor.bzh (en información 
 práctica). 
 
-![El sendero Shelburn comienza en la capilla Saint Samson, en Plouha](etheria-images/2024/02/overlor-Plouha.jpg "Plouha. © Emmanuel Berthier")
+![El sendero Shelburn comienza en la capilla Saint Samson, en Plouha](https://fotos.etheriamagazine.com/2024/02/overlor-Plouha.jpg "Plouha. © Emmanuel Berthier")
 
 ## Museo Mémoires 39-45
 
@@ -99,7 +99,7 @@ Desde los dormitorios comunes de la tropa hasta la habitación del oficial, pasa
 los ventiladores que filtraban los gases de combate y el baño, cada detalle sumerge en 
 la historia. 
 
-![Musée Mémoires 39-45, desembarco de normandía](etheria-images/2024/02/Museo-Memoria-39-45.jpg "© Musée Mémoires 39-45")
+![Musée Mémoires 39-45, desembarco de normandía](https://fotos.etheriamagazine.com/2024/02/Museo-Memoria-39-45.jpg "© Musée Mémoires 39-45")
 
 Las siguientes plantas están dedicadas a la guerra y la ocupación de Bretaña, evocadas a 
 través de objetos, documentos y anécdotas. Se trata de un museo interactivo diseñado 
@@ -125,7 +125,7 @@ puede disfrutar de vistas excepcionales de la ensenada de Lorient. No os perdái
 el **búnker K2**, que alberga el **submarino Flore-S645**, convertido en museo, que es 
 un testimonio de la época de la Guerra Fría. 
 
-![Base de submarinos K3, en Lorient](etheria-images/2024/02/base-submarino-k-3.jpg "Base de submarinos K3. © LEZBROZ-LBST")
+![Base de submarinos K3, en Lorient](https://fotos.etheriamagazine.com/2024/02/base-submarino-k-3.jpg "Base de submarinos K3. © LEZBROZ-LBST")
 
 **Continúa tu viaje en Bretaña...** 
 

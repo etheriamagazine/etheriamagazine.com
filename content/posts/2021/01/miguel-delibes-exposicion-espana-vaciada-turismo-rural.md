@@ -1,7 +1,7 @@
 ---
 title: "Miguel Delibes, la voz de la España vaciada"
 date: 2021-01-18
-coverImage: etheria-images/2021/01/Delibes-retrato-perfil.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/Delibes-retrato-perfil.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
@@ -11,7 +11,7 @@ authors:
 
 Miguel Delibes fue un gran autor, pero además dedicó su vida a poner en valor y dar voz a la tan nombrada ahora España vaciada. Con diversas exposiciones en Madrid y Valladolid se le homenajeó en el centenario de su nacimiento en 2020 pero su obra merece ser recordada y leída todos los años.
 
-![Libros de Miguel Delibes](etheria-images/2021/01/Delibes-retrato-perfil.jpg "Delibes fue un referente y un ejemplo de honestidad y compromiso. © Fundación Miguel Delibes")
+![Libros de Miguel Delibes](https://fotos.etheriamagazine.com/2021/01/Delibes-retrato-perfil.jpg "Delibes fue un referente y un ejemplo de honestidad y compromiso. © Fundación Miguel Delibes")
 
 Hay un Miguel Delibes académico, un Delibes cazador, un Delibes que sueña, un Delibes 
 viajero y, sobre todo, un Delibes reivindicativo. El pasado 2020 se celebró el 
@@ -31,7 +31,7 @@ un pueblo que nos han dicho que es bonito. Lo mismo sucede si queremos ver una g
 una huerta o un burro. Tenemos que ir a una granja o a ver un paisano conocido de 
 alguien… porque tampoco es fácil. 
 
-![Vida y obra de Miguel Delibes](etheria-images/2021/01/Delibes-exposicion.jpg "Exposición 'Delibes'. © Fundación Miguel Delibes")
+![Vida y obra de Miguel Delibes](https://fotos.etheriamagazine.com/2021/01/Delibes-exposicion.jpg "Exposición 'Delibes'. © Fundación Miguel Delibes")
 
 ## La exposición 'Delibes'
 
@@ -45,7 +45,7 @@ estaban su mesa de trabajo y los manuscritos de obras tan esenciales como 'El ca
 'Las ratas', 'Cinco horas con Mario' o 'El hereje'. Tan esenciales como la España 
 vaciada que él reivindicó con su palabra. 
 
-![exposiciones en Valladolid](etheria-images/2021/01/Delibes-exposicion-sala.jpg "La exposición muestra los manuscritos originales de sus principales obras. © Fundación Miguel Delibes")
+![exposiciones en Valladolid](https://fotos.etheriamagazine.com/2021/01/Delibes-exposicion-sala.jpg "La exposición muestra los manuscritos originales de sus principales obras. © Fundación Miguel Delibes")
 
 ## Un premio Cervantes nacido en el campo
 
@@ -56,7 +56,7 @@ campo. Ahí está una de sus obras más famosas, '_Los santos inocentes_', que t
 mundo conoce, además, por la magnífica película que dirigió Mario Camus con esa 
 magistral interpretación de Paco Rabal en el papel de Azarías. 
 
-![biografía Miguel Delibes](etheria-images/2021/01/Delibes-retrato.jpg "Miguel Delibes es uno de los escritores más leídos y admirados de la literatura en español del siglo XX. © Fundación Miguel Delibes")
+![biografía Miguel Delibes](https://fotos.etheriamagazine.com/2021/01/Delibes-retrato.jpg "Miguel Delibes es uno de los escritores más leídos y admirados de la literatura en español del siglo XX. © Fundación Miguel Delibes")
 
 Delibes clamó por lo que llamamos ahora la España vaciada. Cuando nadie pronunciaba la 
 palabra ecologismo en España, él la hizo suya sin retórica, con palabras sencillas. Hay 
@@ -70,7 +70,7 @@ En esta obra, Delibes humaniza el drama de la despoblación de los pueblos. Y lo
 mundo que desaparece, con lo que eso supone de tragedia para todos. También para el 
 lenguaje. 
 
-![novelas de Delibes](etheria-images/2021/01/delibes-exposicion-fotos-viajes.jpg "Libros de Delibes presentes en la exposición. © Fundación Miguel Delibes")
+![novelas de Delibes](https://fotos.etheriamagazine.com/2021/01/delibes-exposicion-fotos-viajes.jpg "Libros de Delibes presentes en la exposición. © Fundación Miguel Delibes")
 
 ## Miguel Delibes y la Real Academia Española
 
@@ -82,7 +82,7 @@ almacenar todo ese amenazado caudal lingüístico, pero al parecer al resto de s
 no le interesaba demasiado. Eso le provocó tanto malestar que Delibes dejó de ir a las 
 sesiones de los jueves de la RAE durante una buena temporada. 
 
-![Vida de Delibes](etheria-images/2021/01/Delibes-joven.jpg "Delibes fue siempre un intelectual rebelde. © Fundación Miguel Delibes")
+![Vida de Delibes](https://fotos.etheriamagazine.com/2021/01/Delibes-joven.jpg "Delibes fue siempre un intelectual rebelde. © Fundación Miguel Delibes")
 
 Pero volvamos los ojos a la actualidad, porque la gente del campo, la que resiste, ya no 
 es la de antes y ha aprendido de Delibes a alzar la voz. Se siente marginada y aislada 
@@ -102,7 +102,7 @@ Miguel Delibes no son suaves como el burrito 'Platero' de Juan Ramón Jiménez, 
 tienen hueso… y duro. No son textos cómodos por mucho que lo parezcan. Escuecen, duelen 
 y provocan heridas… y de forma intencionada. 
 
-![españa vaciada](etheria-images/2021/01/Pueblo-Josa-de-Cadi.jpg "Josa del Cadí, pueblo de Lérida de 20 habitantes. © Ángel Santos")
+![españa vaciada](https://fotos.etheriamagazine.com/2021/01/Pueblo-Josa-de-Cadi.jpg "Josa del Cadí, pueblo de Lérida de 20 habitantes. © Ángel Santos")
 
 Las estadísticas señalan que en el 53% del territorio de España sólo vive el 5% de la 
 población y hay menos de 11,5 habitantes por kilómetro cuadrado. Miguel Delibes fue 
@@ -124,7 +124,7 @@ Y aquí también hay un problema de género, porque **2 de cada 3 personas que a
 pueblo son mujeres**. Ellas son las que se animan más a trasladarse a la gran ciudad y 
 dejar el pueblo envejecido y expuesto a la muerte. 
 
-![pueblos pequeños de España](etheria-images/2021/01/Pueblo-Arcos-de-Jalon.jpg "Imagen de Arcos de Jalón, en Soria, un pueblo de 1.500 habitantes. © Alan Angelats")
+![pueblos pequeños de España](https://fotos.etheriamagazine.com/2021/01/Pueblo-Arcos-de-Jalon.jpg "Imagen de Arcos de Jalón, en Soria, un pueblo de 1.500 habitantes. © Alan Angelats")
 
 Otro dato: en España hay **311 pueblos en los que no hay nadie menor de 20 años**. Según 
 un informe de la Federación Española de Municipios y Provincias, la mitad de todos los 
@@ -139,7 +139,7 @@ irse al pueblo. Pero también ha habido otras que, aún queriéndolo, no han pod
 hacerlo, porque en su pueblo ya no hay servicios de telecomunicaciones, no hay cobertura 
 telefónica, no hay colegios, tampoco hay Internet de banda ancha… 
 
-![Fundacion Miguel Delibes](etheria-images/2021/01/Delibes-escritor.jpg "El escritor reivindicó siempre el gran tesoro de la España vaciada. © Fundación Miguel Delibes")
+![Fundacion Miguel Delibes](https://fotos.etheriamagazine.com/2021/01/Delibes-escritor.jpg "El escritor reivindicó siempre el gran tesoro de la España vaciada. © Fundación Miguel Delibes")
 
 Decía Miguel Delibes: “En mis libros he tratado de reflejar la Naturaleza y la vida 
 rural. He buscado en el campo y en los hombres que lo pueblan la esencia de lo humano. Y 
@@ -154,7 +154,7 @@ el contraste, era más evidente en la pequeña capital o en el campo (…) Por e
 libre, la Naturaleza, el hombre no mimetizado han sido a lo largo de 40 años las 
 constantes de mi literatura”. 
 
-![pueblos de España](etheria-images/2021/01/Pueblo-Puebla-de-Sanbria.jpg "Calle de Puebla de Sanabria. © Juan Gómez")
+![pueblos de España](https://fotos.etheriamagazine.com/2021/01/Pueblo-Puebla-de-Sanbria.jpg "Calle de Puebla de Sanabria. © Juan Gómez")
 
 ## Un viajero que amaba Castilla
 

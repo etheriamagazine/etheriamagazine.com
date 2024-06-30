@@ -1,7 +1,7 @@
 ---
 title: "Planes para comerte Murcia con amigas"
 date: 2021-07-29
-coverImage: etheria-images/2021/07/Mercado-de-Correos-murcia.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/07/Mercado-de-Correos-murcia.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
@@ -16,7 +16,7 @@ capital, Murcia, ofrece playas, monumentos, historia y parajes maridados con nue
 propuestas gastronómicas y una completa oferta para el paladar. No olvides que fue 
 Capital Española de la Gastronomía hace unos años. 
 
-![Tapeo junto al mar en Collados Beach, Murcia.](etheria-images/2021/07/Collados-Beach-murcia-683x1024.jpg "Tapeo junto al mar en © Collados Beach, Murcia.")
+![Tapeo junto al mar en Collados Beach, Murcia.](https://fotos.etheriamagazine.com/2021/07/Collados-Beach-murcia-683x1024.jpg "Tapeo junto al mar en © Collados Beach, Murcia.")
 
 **Actualizado 10/2023** 
 
@@ -30,7 +30,7 @@ amigas y algunas excursiones por la región**.
 
 ## Qué hacer en Murcia con amigas
 
-![mercado de correos murcia espacio gastronomico](etheria-images/2021/07/Mercado-de-Correos-murcia.jpg "Mercado de Correos, en Murcia capital.")
+![mercado de correos murcia espacio gastronomico](https://fotos.etheriamagazine.com/2021/07/Mercado-de-Correos-murcia.jpg "Mercado de Correos, en Murcia capital.")
 
 ### Tomar unas tapas en Correos
 
@@ -43,7 +43,7 @@ dejar de probar su postre estrella: los **paparajotes**, una hoja de limonero re
 en masa de harina, huevo, leche y raspadura de limón. Aviso a novatos: **la hoja no se 
 come.** 
 
-![paparajotes de murcia](etheria-images/2021/07/Paparajotes-murcia.jpg "No te vayas de Murcia sin probar los paparajotes. © ITREM")
+![paparajotes de murcia](https://fotos.etheriamagazine.com/2021/07/Paparajotes-murcia.jpg "No te vayas de Murcia sin probar los paparajotes. © ITREM")
 
 Situado en pleno casco histórico, el edificio de estilo modernista que en la década de 
 los años veinte se erigió para albergar el edificio de Correos es desde el pasado 2019 
@@ -64,7 +64,7 @@ opción.
 
 **Dirección:** calle Pintor Villacís, 3. **Horario**: de 09:00 a 00:00h. 
 
-![hojaldre willy factory murcia](etheria-images/2021/07/hojaldre-willy-factory-683x1024.jpg "© Hojaldre de Willy Factory.")
+![hojaldre willy factory murcia](https://fotos.etheriamagazine.com/2021/07/hojaldre-willy-factory-683x1024.jpg "© Hojaldre de Willy Factory.")
 
 ### Probar el pastel murciano más gourmet
 
@@ -88,7 +88,7 @@ chocolate con frambuesa).
 **Dirección:** Jerónimo de Roda, 1. **Horario**. L-V de 7:00 a 22:00h y fines de semana 
 y festivos 9:00 a 22:00h. 
 
-![paseo ciclismo rio segura murcia](etheria-images/2021/07/paseo-mota-del-rio-segura.jpg "Paseo ciclista por la mota del río Segura. © Sergio González")
+![paseo ciclismo rio segura murcia](https://fotos.etheriamagazine.com/2021/07/paseo-mota-del-rio-segura.jpg "Paseo ciclista por la mota del río Segura. © Sergio González")
 
 ### Dar un paseo en bici
 
@@ -106,7 +106,7 @@ patrimonial, haciendo del paseo una excusa perfecta para después adentrarse en 
 diferentes itinerarios lúdicos que permiten recorrer la propia huerta paseando. Además, 
 la pérdida no es algo posible, pues las rutas aparecen en _Google Maps_. 
 
-![paseo por murcia capital](etheria-images/2021/07/planes-por-Murcia.jpg "La arquitectura de Murcia se descubre a pie de calle. © Sergio González")
+![paseo por murcia capital](https://fotos.etheriamagazine.com/2021/07/planes-por-Murcia.jpg "La arquitectura de Murcia se descubre a pie de calle. © Sergio González")
 
 ### Conocer la historia de Murcia capital
 
@@ -125,7 +125,7 @@ Módena, San Jerónimo, obra cumbre del escultor Francisco Salzillo o exquisitas
 orfebrería. Además, desde la **Torre Campanario**, la segunda torre más alta de las 
 catedrales de España, espera una de las mejores vistas de la ciudad. 
 
-![plaza belluga murcia](etheria-images/2021/07/Plaza-Belluga-Murcia.jpg "Plaza del Cardenal Belluga, en Murcia capital. © ITREM")
+![plaza belluga murcia](https://fotos.etheriamagazine.com/2021/07/Plaza-Belluga-Murcia.jpg "Plaza del Cardenal Belluga, en Murcia capital. © ITREM")
 
 ### Admirar el atardecer perfecto
 
@@ -142,7 +142,7 @@ cuartel de Artillería, el hermoso jardín de Floridablanca, el Museo Hidráulic
 Molinos del Río y la vibrante plaza de las Flores, otro de los epicentros del tapeo 
 murciano. 
 
-![compras murcia capital](etheria-images/2021/07/compras-murcia-capital.jpg "En Murcia encontrarás varias zonas comerciales. © ITREM")
+![compras murcia capital](https://fotos.etheriamagazine.com/2021/07/compras-murcia-capital.jpg "En Murcia encontrarás varias zonas comerciales. © ITREM")
 
 ### Comprar una artesanía
 
@@ -160,7 +160,7 @@ conocer los diferentes oficios artesanos y con demostraciones en vivo. **Direcci
 Calle Francisco Rabal, 6. **Horario**: L-V de 10:00 a 14:00h y de 17:00 a 20:30. S: 
 11:00-13:30h. 
 
-![collados beach piscinas murcia](etheria-images/2021/07/Collados-Beach-piscinas-murcia.jpg "© Collados Beach, el beach club de moda en Murcia.")
+![collados beach piscinas murcia](https://fotos.etheriamagazine.com/2021/07/Collados-Beach-piscinas-murcia.jpg "© Collados Beach, el beach club de moda en Murcia.")
 
 ### Y si vas en verano... visitar un Beach Club
 

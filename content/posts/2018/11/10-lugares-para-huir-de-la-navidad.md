@@ -1,7 +1,7 @@
 ---
 title: "10 lugares del mundo para escapar de la Navidad"
 date: 2018-11-13
-coverImage: etheria-images/2018/11/playa-huir-navidad.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/playa-huir-navidad.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -14,7 +14,7 @@ mundo extenso y multicultural en el que vivimos ofrece rincones donde ocultarnos
 estas fechas y, con suerte, no ver ni rastro de Papá Noel. Te damos algunas pistas para 
 resolver la duda de dónde ir en Navidad lejos de los villancicos y las bolas de colores. 
 
-![Dos mujeres en la orilla del mar](etheria-images/2018/11/playa-huir-navidad-1024x410.jpg "Vacaciones en el mar.")
+![Dos mujeres en la orilla del mar](https://fotos.etheriamagazine.com/2018/11/playa-huir-navidad-1024x410.jpg "Vacaciones en el mar.")
 
 Aunque el mundo es cada vez más global, siguen existiendo opciones para escaparse de las 
 tradiciones navideñas. Las islas paradisíacas, África y Asia suelen ser una buena opción 
@@ -34,7 +34,7 @@ su paisaje de islotes.
 ✅ Sigue leyendo en [10 imágenes para enamorarse del mar de 
 Andamán](https://etheriamagazine.com/2018/06/16/viaje-parejas-mar-de-andaman/) 
 
-![Playa del mar de Andamán.](etheria-images/2018/05/9-Playa-mar-de-Andaman-1024x683.jpg "Playa del mar de Andamán.")
+![Playa del mar de Andamán.](https://fotos.etheriamagazine.com/2018/05/9-Playa-mar-de-Andaman-1024x683.jpg "Playa del mar de Andamán.")
 
 ## 2\. Islas Galápagos
 
@@ -47,7 +47,7 @@ Tortuga Bay, Islote Tintoreras y un paseo por el sendero de Plaza Sur.
 ✅ Sigue leyendo sobre [Islas 
 Galápagos](https://etheriamagazine.com/2023/04/09/como-viajar-islas-galapagos/). 
 
-![Lobo marino en Islas Galápagos.](etheria-images/2018/09/Galapagos-isla-lobo-marino-1024x682.jpg "Lobo marino en Islas Galápagos.")
+![Lobo marino en Islas Galápagos.](https://fotos.etheriamagazine.com/2018/09/Galapagos-isla-lobo-marino-1024x682.jpg "Lobo marino en Islas Galápagos.")
 
 ## 3\. Túnez
 
@@ -59,7 +59,7 @@ bohemias de Túnez.
 ✅ Sigue leyendo sobre cómo hacer una [ruta en coche por 
 Túnez.](https://etheriamagazine.com/2018/05/14/tunez-en-coche-desde-la-capital-al-desierto/) 
 
-![Sidi Bou Saïd es una ciudad blanca y azul donde destacan sus puertas y ventanas.](etheria-images/2018/11/Sidi-Bou-Said-Puertas-Túnez-1024x665.jpg "Sidi Bou Saïd es una ciudad blanca y azul donde destacan sus puertas y ventanas.")
+![Sidi Bou Saïd es una ciudad blanca y azul donde destacan sus puertas y ventanas.](https://fotos.etheriamagazine.com/2018/11/Sidi-Bou-Said-Puertas-Túnez-1024x665.jpg "Sidi Bou Saïd es una ciudad blanca y azul donde destacan sus puertas y ventanas.")
 
 ## 4\. Maldivas
 
@@ -71,7 +71,7 @@ aseguro que encontrarás tu actividad acuática favorita.
 ✅ Sigue leyendo en [Islas Maldivas, mucho más que un destino para lunas de 
 miel](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-surf/) 
 
-![Playa de arena blanca y mar turquesa en Maldivas](etheria-images/2018/10/Maldivas-playa-1024x670.jpg "¿A que apetece pasear en una playa como esta, en Maldivas, el día de Navidad?")
+![Playa de arena blanca y mar turquesa en Maldivas](https://fotos.etheriamagazine.com/2018/10/Maldivas-playa-1024x670.jpg "¿A que apetece pasear en una playa como esta, en Maldivas, el día de Navidad?")
 
 ## 5\. Kenia
 
@@ -85,7 +85,7 @@ Pejeta (de chimpancés).
 ✅ Sigue leyendo en [Kenia, 10 experiencias que nunca 
 olvidarás](https://etheriamagazine.com/2018/10/25/10-flechazos-para-viajar-a-kenia/) 
 
-![Felinos y gacelas en Kenia](etheria-images/2018/10/viaje-kenia-mujeres-parque-samburu-1024x696.jpg "Podrás ver felinos y, también, al gerenuc, una especie de 'gacela jirafa'.")
+![Felinos y gacelas en Kenia](https://fotos.etheriamagazine.com/2018/10/viaje-kenia-mujeres-parque-samburu-1024x696.jpg "Podrás ver felinos y, también, al gerenuc, una especie de 'gacela jirafa'.")
 
 ## 6\. Seychelles
 
@@ -98,7 +98,7 @@ aislamiento y el relax serán máximos.
 ✅ Organiza tu [viaje a Seychelles por 
 libre](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/). 
 
-![Playa de la isla de Fregate, en Seychelles.](etheria-images/2018/11/huir-navidad-Seychelles-1024x670.jpg "Playa de la isla de Fregate, en Seychelles. ©S.G.")
+![Playa de la isla de Fregate, en Seychelles.](https://fotos.etheriamagazine.com/2018/11/huir-navidad-Seychelles-1024x670.jpg "Playa de la isla de Fregate, en Seychelles. ©S.G.")
 
 ## 7\. India
 
@@ -110,7 +110,7 @@ de menos ni los turrones ni los mazapanes.
 ✅ Sigue leyendo en [Norte de la India: enamórate de los colores del 
 Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/) 
 
-![Rituales en Varanasi (Benarés), en India.](etheria-images/2018/10/ganges-varanasi-mujeres-india-1024x682.jpg "Rituales en Varanasi (Benarés), en India.")
+![Rituales en Varanasi (Benarés), en India.](https://fotos.etheriamagazine.com/2018/10/ganges-varanasi-mujeres-india-1024x682.jpg "Rituales en Varanasi (Benarés), en India.")
 
 ## 8\. Bahamas
 
@@ -122,7 +122,7 @@ mundo.
 ✅ Sigue leyendo en [Qué hacer en Bahamas, un viaje a tu 
 medida](https://etheriamagazine.com/2018/08/14/viajar-sola-a-islas-bahamas/) 
 
-![Pink Sand Beach, en Harbour Island,](etheria-images/2018/05/Viaje-Islas-Bahamas-1024x706.jpg "Pink Sand Beach, en Harbour Island, lanza destellos rosas al amanecer. ©P.G")
+![Pink Sand Beach, en Harbour Island,](https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-1024x706.jpg "Pink Sand Beach, en Harbour Island, lanza destellos rosas al amanecer. ©P.G")
 
 ## 9\. Gambia
 
@@ -135,7 +135,7 @@ Beach.
 ✅ No te pierdas este artículo sobre [Gambia con los lugares más interesantes para 
 visitar](https://etheriamagazine.com/2018/11/07/gambia-un-destino-seguro-para-viajeras-aventureras/). 
 
-![La llegada de los pescadores a Tanji es todo un espectáculo.](etheria-images/2018/10/viaje-gambia-Llegada-de-pescadores-Tanji-2-1024x633.jpg "La llegada de los pescadores a Tanji es todo un espectáculo. ©Pedro Grifol")
+![La llegada de los pescadores a Tanji es todo un espectáculo.](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Llegada-de-pescadores-Tanji-2-1024x633.jpg "La llegada de los pescadores a Tanji es todo un espectáculo. ©Pedro Grifol")
 
 ## 10\. Taiwán
 
@@ -152,4 +152,4 @@ un lugar mejor para decir adiós a año?
 ✅ Sigue leyendo en [¿Merece la pena conocer Taipéi, la capital de 
 Taiwán?](https://etheriamagazine.com/2019/12/05/que-ver-y-hacer-en-taipei-en-24-horas/) 
 
-![taiwan viajes mujeres](etheria-images/2018/11/Viaje-taiwan-etheria-magazine-1024x644.jpg "Templo de Baoan, en Taipei. ©P.G.")
+![taiwan viajes mujeres](https://fotos.etheriamagazine.com/2018/11/Viaje-taiwan-etheria-magazine-1024x644.jpg "Templo de Baoan, en Taipei. ©P.G.")

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Moxy Manchester City, una propuesta de lo más divertida en el centro de la ciudad"
 date: 2022-01-21
-coverImage: etheria-images/2022/01/hotel-moxy-manchester-zona-juegos.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/01/hotel-moxy-manchester-zona-juegos.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 Si estás buscando un plan con amigas, ten muy en cuenta pasar un fin de semana en el hotel Moxy Manchester City. Situado en el corazón de la ciudad, es uno de esos alojamientos que parece haber sido diseñado para estas inolvidables escapadas.
 
-![Coloridos puffs en la zona de juegos.](etheria-images/2022/01/hotel-Manchester-MANOX-Seated-Cubby-Area.jpg "Coloridos puffs en la zona de juegos.")
+![Coloridos puffs en la zona de juegos.](https://fotos.etheriamagazine.com/2022/01/hotel-Manchester-MANOX-Seated-Cubby-Area.jpg "Coloridos puffs en la zona de juegos.")
 
 La idea de planificar una escapada con nuestras amigas siempre nos dibuja una sonrisa en 
 la cara y eso nos encanta. Así que, para continuar dándote ideas sobre posibles 
@@ -30,7 +30,7 @@ Marriot. Viviréis una experiencia diferente realizando el _check-in_ en el bar 
 invitación a la primera copa, que no está nada mal), disfrutando de sus coloridos 
 espacios, como la animada sala de juegos, o bailando con la música de los DJ's. 
 
-![Zona de juegos del Moxy Manchester City](etheria-images/2022/01/hotel-moxy-manchester-zona-juegos.jpg "Zona de juegos con el futbolín y el 'Guestbook Wall'.")
+![Zona de juegos del Moxy Manchester City](https://fotos.etheriamagazine.com/2022/01/hotel-moxy-manchester-zona-juegos.jpg "Zona de juegos con el futbolín y el 'Guestbook Wall'.")
 
 ## Un hotel lleno de detalles
 
@@ -46,7 +46,7 @@ podéis perder el original _**Guestbook Wall**_ digital, con fotos y vídeos com
 por los clientes en sus redes sociales que se actualiza constantemente y al que también 
 podréis aportar vuestro granito de arena. 
 
-![Bar Moxy.](etheria-images/2022/01/Hotel-Moxy-Manchester-bar.jpg "Bar Moxy.")
+![Bar Moxy.](https://fotos.etheriamagazine.com/2022/01/Hotel-Moxy-Manchester-bar.jpg "Bar Moxy.")
 
 ## El Bar Moxy
 
@@ -67,7 +67,7 @@ desenfadado con la comodidad y la calidad de materiales. Podrás elegir entre ha
 las características propias de un hotel de su categoría como Wi-Fi, secador de pelo y 
 televisión con Netflix por si queréis descansar mientras veis una película o serie. 
 
-![Habitación estándar.](etheria-images/2022/01/hotel-moxy-manchester-habitacion.jpg "Habitación Doble.")
+![Habitación estándar.](https://fotos.etheriamagazine.com/2022/01/hotel-moxy-manchester-habitacion.jpg "Habitación Doble.")
 
 [Hotel Moxy Manchester 
 City](https://www.espanol.marriott.com/hotels/travel/manox-moxy-manchester-city/) 8 

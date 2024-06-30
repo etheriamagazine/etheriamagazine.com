@@ -1,7 +1,7 @@
 ---
 title: "Tenerife, la isla que necesitas si quieres impulsar tu creatividad"
 date: 2022-06-03
-coverImage: etheria-images/2022/05/Portada-nomada-digital-tenerife.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/05/Portada-nomada-digital-tenerife.jpg
 categories: 
   - historias-en-femenino
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Viajar sola, crear, emprender e integrarse en el destino... así es como concibe Judit Sánchez Torner el nomadismo digital. Esta diseñadora encontró en Tenerife la inspiración que necesitaba para impulsar sus proyectos, pero ¿qué tiene Tenerife que los nómadas digitales se enamoran de ella a primera vista? Judit nos lo cuenta en primera persona.
 
-![Judit Sánchez sentada en la arena de la playa en Tenerife](etheria-images/2022/05/Calma-studio-judit-sanchez.jpg "Judit Sánchez Torner en Tenerife. © Silvia Gil-Roldán")
+![Judit Sánchez sentada en la arena de la playa en Tenerife](https://fotos.etheriamagazine.com/2022/05/Calma-studio-judit-sanchez.jpg "Judit Sánchez Torner en Tenerife. © Silvia Gil-Roldán")
 
 No hay nada más honesto que hablar de sentimientos ni más generoso que compartir 
 aquellos hallazgos que pueden facilitar la vida a los demás. En este caso, nos ha 
@@ -39,7 +39,7 @@ descubrir que ese recuadro añadido en la parte inferior de todos los mapas del 
 iba a ser el lugar que me inspiraría a crear mi proyecto empresarial y donde me sentiría 
 como en casa. 
 
-![Judit Sánchez, fundadora de Calma Studio y diseñadora gráfica junto al mar](etheria-images/2022/05/nomada-digital-tenerife-683x1024.jpg "Judit, fundadora de Calma Studio y diseñadora gráfica. © Silvia Gil-Roldán")
+![Judit Sánchez, fundadora de Calma Studio y diseñadora gráfica junto al mar](https://fotos.etheriamagazine.com/2022/05/nomada-digital-tenerife-683x1024.jpg "Judit, fundadora de Calma Studio y diseñadora gráfica. © Silvia Gil-Roldán")
 
 ## El ritmo canario, un son que enamora
 
@@ -58,7 +58,7 @@ en todo momento qué es lo que más nos llena, dónde nos apetece vivir y en qu�
 Esta hermosa isla nos brinda infinitas posibilidades y ahí está uno de los ingredientes 
 de su magia. 
 
-![Botellín de cerveza y plato de lapas a la brasa](etheria-images/2022/05/lapas-cerveza-canaria.jpg "Imposible no enamorarse de la gastronomía canaria. © Judit Sánchez")
+![Botellín de cerveza y plato de lapas a la brasa](https://fotos.etheriamagazine.com/2022/05/lapas-cerveza-canaria.jpg "Imposible no enamorarse de la gastronomía canaria. © Judit Sánchez")
 
 ## ¿Dónde vivir? Norte o sur, tú eliges
 
@@ -75,7 +75,7 @@ variada y con menos esencia canaria. Si apuestas por la primera, el norte es tu 
 Es verdad que el tiempo no es tan soleado como en el sur pero sigues teniendo una 
 cantidad infinita de opciones. 
 
-![Mapas de Tenerife y tablet sobre una mesa](etheria-images/2022/05/mapa-tenerife.jpg "El nomadismo digital permite el conocimiento profundo de los destinos donde se vive. © Judit Sánchez")
+![Mapas de Tenerife y tablet sobre una mesa](https://fotos.etheriamagazine.com/2022/05/mapa-tenerife.jpg "El nomadismo digital permite el conocimiento profundo de los destinos donde se vive. © Judit Sánchez")
 
 ## Dónde sentir la energía de Tenerife para ser más creativo
 
@@ -97,7 +97,7 @@ noche al Teide y ves claramente la vía láctea y el cielo es más brillante que
 cuando te pierdes por los senderos de Anaga y descubres pueblos diminutos y de lo más 
 auténticos. 
 
-![Vista del Teide en la subida desde Esperanza.](etheria-images/2022/05/Teide-tenerife.jpg "Vista de El Teide en la subida desde Esperanza. © Judit Sánchez")
+![Vista del Teide en la subida desde Esperanza.](https://fotos.etheriamagazine.com/2022/05/Teide-tenerife.jpg "Vista de El Teide en la subida desde Esperanza. © Judit Sánchez")
 
 En Tenerife puedes moverte en barco o en los emocionantes aviones de hélice que viajan a 
 una altura que nos permite disfrutar de las vistas del océano y las demás islas. No 
@@ -115,7 +115,7 @@ de las rutas. Los contrastes definen a la perfección esta isla y nos permite
 **mantenernos despiertas**, llenarnos de inputs externos y coger aire para seguir 
 trabajando e impulsando nuestro negocio. 
 
-![Montaña del Parque Rural de Anaga, en Tenerife.](etheria-images/2022/05/parque-rural-anaga-tenerife.jpg "Parque Rural de Anaga, en Tenerife. © Judit Sánchez")
+![Montaña del Parque Rural de Anaga, en Tenerife.](https://fotos.etheriamagazine.com/2022/05/parque-rural-anaga-tenerife.jpg "Parque Rural de Anaga, en Tenerife. © Judit Sánchez")
 
 ### San Cristóbal de la Laguna
 
@@ -130,7 +130,7 @@ acceder a tu espacio de _coworking_ o a alguna cafetería que te anime a trabaja
 complicaciones. Es recomendable moverse en coche pero yo también me he trasladado sin 
 problema en guagua, autobús o en el tranvía que conecta estas dos ciudades. 
 
-![Piscina natural de Tenerife.](etheria-images/2022/05/piscinas-naturales-tenerife.jpg "Piscina natural de Tenerife. © Judit Sánchez")
+![Piscina natural de Tenerife.](https://fotos.etheriamagazine.com/2022/05/piscinas-naturales-tenerife.jpg "Piscina natural de Tenerife. © Judit Sánchez")
 
 ### Playas y naturaleza del norte
 
@@ -141,7 +141,7 @@ arena negra, que se encuentran en el lado opuesto. En esta zona también podrás
 extensiones de plataneras y los **famosos charcos o piscinas naturales** que te invito a 
 que explores. 
 
-![Puesta de sol en el norte de Tenerife.](etheria-images/2022/05/puesta-sol-tenerife-norte.jpg "Puesta de sol en el norte de Tenerife. © Judit Sánchez")
+![Puesta de sol en el norte de Tenerife.](https://fotos.etheriamagazine.com/2022/05/puesta-sol-tenerife-norte.jpg "Puesta de sol en el norte de Tenerife. © Judit Sánchez")
 
 ### El cosmopolita sur de Tenerife
 
@@ -157,7 +157,7 @@ no son de población local.
 > que vamos, de sentir aquello real y auténtico y contribuir a mejorar el territorio y la 
 > vida de los locales. Un profundo respeto es el que nos abre las puertas” 
 
-![Judit, con su ordenador, trabajando junto al mar](etheria-images/2022/05/Portada-nomada-digital-tenerife.jpg "La creatividad también depende del lugar donde trabajes. © Silvia Gil-Roldán")
+![Judit, con su ordenador, trabajando junto al mar](https://fotos.etheriamagazine.com/2022/05/Portada-nomada-digital-tenerife.jpg "La creatividad también depende del lugar donde trabajes. © Silvia Gil-Roldán")
 
 Me encanta explicar que cuando nace una marca empieza a nacer una isla y para conseguir 
 convertirla en paradisíaca primero debemos tener claro qué estilo de vida queremos 
@@ -171,7 +171,7 @@ nuestra vida” y esto es lo que me ha dado y me sigue dando esta islita. Quién
 Tenerife también puede ser el desencadenante que estás buscando para mejorar tu calidad 
 de vida y elegir cómo quieres vivirla. ¿Te llama la aventura? 
 
-![Judit Sánchez, de Calma Studio](etheria-images/2022/05/Judit-Sanchez-Calma-Studio-741x1024.jpg)
+![Judit Sánchez, de Calma Studio](https://fotos.etheriamagazine.com/2022/05/Judit-Sanchez-Calma-Studio-741x1024.jpg)
 
 Autora: Judit Sánchez Torner (Calma Studio) 
 

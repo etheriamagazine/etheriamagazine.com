@@ -1,7 +1,7 @@
 ---
 title: "Paisajes del agua en los 10 mejores cañones del País Vasco"
 date: 2019-04-09
-coverImage: etheria-images/2019/03/canon-sobron-pais-vasco.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg
 categories: 
   - viajes-ecoturismo
   - de-un-vistazo
@@ -13,7 +13,7 @@ authors:
 
 La naturaleza vasca es una fuente inagotable de rutas de senderismo. En este caso te proponemos 10 rutas por los cañones del País Vasco, para que descubras alguno de sus paisajes de agua más sorprendentes y desconocidos.
 
-![ruta senderismo pais vasco, ecoturismo](etheria-images/2019/03/canon-sobron-pais-vasco-1024x683.jpg "Cañón de Sobrón.")
+![ruta senderismo pais vasco, ecoturismo](https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco-1024x683.jpg "Cañón de Sobrón.")
 
 Caminar es una necesidad vital para una viajera, una forma de saciar sus ansias de 
 descubrimiento. Echemos pie a la senda para recorrer, junto a las montañas, paisajes 
@@ -46,7 +46,7 @@ Sáseta. Prepárate para hacer un itinerario de ida y vuelta de **10,6 kilómetr
 dificultad y donde puedes encontrarte con vecinos exclusivos como el visón europeo y la 
 nutria. 
 
-![senderistas en el País Vasco](etheria-images/2019/03/Viaje-pais-vasco-barranco-rio-ayuda-e1553512146598.jpg "Barranco río Ayuda (País Vasco).")
+![senderistas en el País Vasco](https://fotos.etheriamagazine.com/2019/03/Viaje-pais-vasco-barranco-rio-ayuda-e1553512146598.jpg "Barranco río Ayuda (País Vasco).")
 
 ### 2\. Calzada al puerto de Urkiola
 
@@ -65,7 +65,7 @@ años. Lo bueno de esta ruta es que es circular y apenas necesitarás 3 horas pa
 recorrer sus **7 kilómetros** de trazado que discurren en parte junto al **santuario de 
 Urkiola**. 
 
-![desfiladero en el parque urkiola](etheria-images/2019/03/viaje-pais-vasco-desfiladero-atxarte-e1553512169924.jpg "Desfiladero de Atxarte, en el P.N. Urkiola.")
+![desfiladero en el parque urkiola](https://fotos.etheriamagazine.com/2019/03/viaje-pais-vasco-desfiladero-atxarte-e1553512169924.jpg "Desfiladero de Atxarte, en el P.N. Urkiola.")
 
 ### 3\. El camino de la mina
 
@@ -84,7 +84,7 @@ indican la entrada en el tramo final y más rocoso de este itinerario de **7,2
 kilómetros** donde pronto veremos las bocaminas, cargaderos y vagonetas aún suspendidas 
 del cable. Hagamos **turismo industrial** antes de reemprender el itinerario de vuelta. 
 
-![naturaleza en el barranco arritzaga](etheria-images/2019/03/barranco-arritzaga.jpg "Barranco Arritzaga.")
+![naturaleza en el barranco arritzaga](https://fotos.etheriamagazine.com/2019/03/barranco-arritzaga.jpg "Barranco Arritzaga.")
 
 ### 4\. El barranco de encinas centenarias
 
@@ -98,7 +98,7 @@ bajo las que apetece detenerse a descansar. A medida que los árboles van dismin
 llegaremos al final de ruta junto a un abrevadero de ganado, desde el que hay que seguir 
 la carretera hasta alcanzar Orbiso después de haber recorrido **5 kilómetros**. 
 
-![noche en el barranco de istora, pais vasco](etheria-images/2019/03/barranco-istora.jpg "Barranco de Istora.")
+![noche en el barranco de istora, pais vasco](https://fotos.etheriamagazine.com/2019/03/barranco-istora.jpg "Barranco de Istora.")
 
 ### 5\. El camino oculto
 
@@ -116,7 +116,7 @@ de cornamenta de cérvido. Al llegar al fondo de valle encontramos el río, toda
 denominado Urkullu, donde se ven las campas de Iturrigorri en las que los seminaristas 
 jugaban al fútbol. 
 
-![senderismo pais vasco](etheria-images/2019/03/camino-oculto-pais-vasco.jpg "Barranco de Arantzazu.")
+![senderismo pais vasco](https://fotos.etheriamagazine.com/2019/03/camino-oculto-pais-vasco.jpg "Barranco de Arantzazu.")
 
 ### 6\. Mirador del Ebro
 
@@ -134,7 +134,7 @@ Después de visitar el [Museo del Agua](http://museoagua.com/) y siguiendo las s
 del **sendero de gran recorrido GR 99** se llega hasta el pueblo de Sobrón, un magnífico 
 mirador del desfiladero envuelto con rojizos farallones. 
 
-![cañón sobron en el País Vasco](etheria-images/2019/03/canon-sobron-e1553514443446.jpg "Puente sobre el cañón de Sobron.")
+![cañón sobron en el País Vasco](https://fotos.etheriamagazine.com/2019/03/canon-sobron-e1553514443446.jpg "Puente sobre el cañón de Sobron.")
 
 ### 7\. El secreto del embalse de Urkulu
 
@@ -152,7 +152,7 @@ aquí podemos optar por rodear el macizo montañoso para regresar al punto de pa
 aparcamiento junto al barrio de Goroeta en Aretxabaleta, recorriendo **18,9 kilómetros** 
 o bien retornar sobre nuestros pasos lo que supondrá una ruta de 14 kilómetros. 
 
-![Embalse de Urkulu](etheria-images/2019/03/barranco-arbe.jpg "Barranco de Arbe.")
+![Embalse de Urkulu](https://fotos.etheriamagazine.com/2019/03/barranco-arbe.jpg "Barranco de Arbe.")
 
 ### 8\. Por la vieja calzada romana
 
@@ -172,7 +172,7 @@ esta senda por lo profundo del tajo hasta llegar al burgalés pueblo de **Herrá
 exhibe unas bellas casas solariegas, fruto del esplendor medieval que alcanzó gracias al 
 tránsito por la calzada. 
 
-![helecho en el barranco arbe](etheria-images/2019/03/barranco-arbe-vegetacion.jpg "Barranco de Arbe.")
+![helecho en el barranco arbe](https://fotos.etheriamagazine.com/2019/03/barranco-arbe-vegetacion.jpg "Barranco de Arbe.")
 
 ### 9\. El gran cañón de Igoroin
 
@@ -190,7 +190,7 @@ que son los restos de sus viviendas. A partir de aquí la senda se estrecha y sa
 numerosas desviaciones hasta sus cascadas, cada cual más bonita. Estamos cerca de la 
 cabecera y del pueblo de Rontegui, desde donde se inicia el regreso. 
 
-![barranco igoroin](etheria-images/2019/03/Barranco-igoroin-e1553515479899.jpg "Cañón de Igoroin.")
+![barranco igoroin](https://fotos.etheriamagazine.com/2019/03/Barranco-igoroin-e1553515479899.jpg "Cañón de Igoroin.")
 
 ### 10\. Hacia un joven Nervión
 
@@ -210,7 +210,7 @@ estrecha y asciende obligándonos a veces a seguir por el lecho del río para di
 cascada tras otra que invitan a disfrutar del paisaje y dejar que la memoria se llene de 
 naturaleza para recordar. 
 
-![Nacimiento del Nervión](etheria-images/2019/03/ruta-canon-delika-e1553516183488.jpg "Ruta por el cañón Delika.")
+![Nacimiento del Nervión](https://fotos.etheriamagazine.com/2019/03/ruta-canon-delika-e1553516183488.jpg "Ruta por el cañón Delika.")
 
 ## También te puede interesar:
 

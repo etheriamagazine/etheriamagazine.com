@@ -1,7 +1,7 @@
 ---
 title: "Orben, un rioja neoclásico"
 date: 2018-11-24
-coverImage: etheria-images/2018/11/vinas-orben-uvas.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/vinas-orben-uvas.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -11,7 +11,7 @@ authors:
 
 Nuestra experta en enología, Vanesa Viñolo, nos descubre en este artículo un vino rioja perfecto para degustar en estas fechas con los platos contundentes del invierno. Y, por qué no, para acompañar alguna de las comidas o cenas navideñas.
 
-![rioja enologia viajes gastronomia gourmet](etheria-images/2018/11/vinas-orben-uvas.jpg "Uvas de las viñas de bodegas Orben.")
+![rioja enologia viajes gastronomia gourmet](https://fotos.etheriamagazine.com/2018/11/vinas-orben-uvas.jpg "Uvas de las viñas de bodegas Orben.")
 
 Reconozco que antes de probar este vino ya estaba predispuesta a que me gustase. La 
 razón, Bodegas Orben es la “mamá” de uno de mis vinos favoritos, **Malpuesto**, un tinto 
@@ -19,7 +19,7 @@ rotundo, complejo, intensísimo, de esos que no se olvidan. Así que cuando lleg
 manos la nueva añada, la 2016 de su hermano **Orben**, ya había medio camino hecho. Os 
 cuento un poco de dónde vienen estos vinos tan especiales. 
 
-![enologia rioja uvas viajes gourmet](etheria-images/2018/11/vinos-orben-vinedos-1024x686.jpg "Paisaje de viñedos de las bodegas Orben.")
+![enologia rioja uvas viajes gourmet](https://fotos.etheriamagazine.com/2018/11/vinos-orben-vinedos-1024x686.jpg "Paisaje de viñedos de las bodegas Orben.")
 
 ## Viñedos en las faldas de la Sierra de Cantabria
 
@@ -37,7 +37,7 @@ les gustan a los de “Ribera”, como me gusta decirles a mis amigos pucelanos.
 
 ##### Orben 2016. Tempranillo. Do Ca Rioja. B. Orben
 
-![viñedos gastronomia rioja viajes gourmet](etheria-images/2018/11/vino-orben-334x1024.jpg)
+![viñedos gastronomia rioja viajes gourmet](https://fotos.etheriamagazine.com/2018/11/vino-orben-334x1024.jpg)
 
 **Mis notas de cata:** 
 

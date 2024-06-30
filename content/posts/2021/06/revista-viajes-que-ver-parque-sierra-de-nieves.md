@@ -1,7 +1,7 @@
 ---
 title: "Parque Nacional Sierra de las Nieves, una nueva estrella brilla en Málaga"
 date: 2021-06-26
-coverImage: etheria-images/2019/02/puesta-sol-sierra-nieves.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/puesta-sol-sierra-nieves.jpg
 categories: 
   - viajes-48-horas
   - viajes-ecoturismo
@@ -13,7 +13,7 @@ authors:
 
 Si estás organizando tus vacaciones, saca tu espíritu aventurero porque nos vamos a Málaga para conocer el nuevo Parque Nacional Sierra de las Nieves.  Descubramos las maravillas naturales y ecoturísticas del que ya es la décimo sexta estrella de nuestros parques nacionales.
 
-![Parque Nacional Sierra de las Nieves, viaje malaga, naturaleza malaga](etheria-images/2019/02/Sierra-nieves-malaga-e1550839729469.jpg "Montañas escarpadas del Parque Nacional Sierra de las Nieves.")
+![Parque Nacional Sierra de las Nieves, viaje malaga, naturaleza malaga](https://fotos.etheriamagazine.com/2019/02/Sierra-nieves-malaga-e1550839729469.jpg "Montañas escarpadas del Parque Nacional Sierra de las Nieves.")
 
 ## 1\. Sierra de las Nieves, agrestes montañas
 
@@ -29,7 +29,7 @@ para garantizarse agua de calidad durante el año. Hoy ya no se ven aquellas mul
 alforjas que la distribuían por los pueblos pero sí quedan a la vista el gran territorio 
 que abarcará el inminente parque nacional bajo su abrazo protector. 
 
-![pinsapo, pinsapar de malaga, viaje malaga, naturaleza malaga](etheria-images/2019/02/sierra-nieves-pinsapar-malaga-e1550839767791.jpg "Pinsapar del P.N. Sierra de las Nieves.")
+![pinsapo, pinsapar de malaga, viaje malaga, naturaleza malaga](https://fotos.etheriamagazine.com/2019/02/sierra-nieves-pinsapar-malaga-e1550839767791.jpg "Pinsapar del P.N. Sierra de las Nieves.")
 
 ## 2\. Pinsapo, héroe del bosque
 
@@ -49,7 +49,7 @@ determinadas áreas de Andalucía y norte de Marruecos. No tendrás dudas para l
 abeto más singular del mundo, el verde oscuro de su follaje –debido a sus hojas pequeñas 
 y duras– hacen único el territorio donde crece el **mayor pinsapar español**. 
 
-![bandoleros sierra nieves, viaje malaga, naturaleza malaga, bandoleros](etheria-images/2019/02/sierra-nieves-bandoleros-malaga-e1550839794517.jpg "La Sierra de las Nieves ha sido territorio de bandoleros.")
+![bandoleros sierra nieves, viaje malaga, naturaleza malaga, bandoleros](https://fotos.etheriamagazine.com/2019/02/sierra-nieves-bandoleros-malaga-e1550839794517.jpg "La Sierra de las Nieves ha sido territorio de bandoleros.")
 
 ## 3\. Territorio de bandoleros
 
@@ -71,7 +71,7 @@ los pliegues de su geografía que, gracias al aislamiento, le dieron un magnífi
 refugio. Legendarios personajes que pervivieron hasta mediados del siglo pasado entre 
 historias románticas y vidas proscritas. 
 
-![serrania de ronda, pueblos malaga, viaje malaga, naturaleza malaga](etheria-images/2019/02/serrania-ronda-malaga-e1550839834976.jpg "La Serranía de Ronda está salpicada por pueblos pintorescos como Alpandeire.")
+![serrania de ronda, pueblos malaga, viaje malaga, naturaleza malaga](https://fotos.etheriamagazine.com/2019/02/serrania-ronda-malaga-e1550839834976.jpg "La Serranía de Ronda está salpicada por pueblos pintorescos como Alpandeire.")
 
 ## 4\. Trece pueblos reinventados
 
@@ -94,7 +94,7 @@ rurales**, como el etnográfico del aceite, en Guaro, o el molino de los Mizos, 
 de aperos tradicionales del campo en Casarabonela. Deambular por sus calles y entre las 
 estrechas callejas es aventurarse en el placer de vivir al pie de la sierra. 
 
-![cabra montes, sierra malaga, viaje malaga, naturaleza malaga](etheria-images/2019/02/sierra-noveda-cabra-montes-e1550839884527.jpg "Cabra Montés en Maro Cerro Gordo.")
+![cabra montes, sierra malaga, viaje malaga, naturaleza malaga](https://fotos.etheriamagazine.com/2019/02/sierra-noveda-cabra-montes-e1550839884527.jpg "Cabra Montés en Maro Cerro Gordo.")
 
 ## 5\. Cabra montés, la estrella del roquedo
 
@@ -112,7 +112,7 @@ sorprender a dos machos de pie sobre sus patas traseras haciendo entrechocar sus
 mientras se dejan caer. Las hormonas están en el aire, es la época del celo y todo vale 
 para defender a las hembras del harén. 
 
-![pueblos serrania de ronda, viaje malaga, naturaleza malaga](etheria-images/2019/02/serrania-ronda-pueblos-e1550839933267.jpg "Pueblo en la Serranía de Ronda.")
+![pueblos serrania de ronda, viaje malaga, naturaleza malaga](https://fotos.etheriamagazine.com/2019/02/serrania-ronda-pueblos-e1550839933267.jpg "Pueblo en la Serranía de Ronda.")
 
 ## 6\. Vecinas de altura
 
@@ -136,7 +136,7 @@ encendidos tonos rojizos. Esta es una de las razones por las que también, junto
 Sierra Real, quedarán incluidas en los límites del parque nacional como Zona Especial de 
 Conservación. 
 
-![Aguila Azor Perdicera o Aguila Perdicera, viaje malaga, naturaleza malaga](etheria-images/2019/02/rapaces-sierra-nieves-e1550839971776.jpg "En el P.N. Sierra de las Nieves se pueden ver especies como el águila azor-perdicera.")
+![Aguila Azor Perdicera o Aguila Perdicera, viaje malaga, naturaleza malaga](https://fotos.etheriamagazine.com/2019/02/rapaces-sierra-nieves-e1550839971776.jpg "En el P.N. Sierra de las Nieves se pueden ver especies como el águila azor-perdicera.")
 
 ## 7\. Aves que surcan el cielo
 
@@ -158,7 +158,7 @@ vuelo fugaz del **gavilán**, el martilleo del **picapinos** o a la incesante b�
 insectos en los troncos del pito real, mientras se escucha el característico reclamo del 
 cuco. 
 
-![castanos parque sierra nieves](etheria-images/2019/02/castanos-valle-genal-malaga-e1550840013246.jpg "Castaños en el Valle del Genal.")
+![castanos parque sierra nieves](https://fotos.etheriamagazine.com/2019/02/castanos-valle-genal-malaga-e1550840013246.jpg "Castaños en el Valle del Genal.")
 
 ## 8\. Entre castaños y árboles singulares
 
@@ -177,7 +177,7 @@ de pocos requerimientos en su cuidado y artífices de que el valle se tiña de d
 otoño. Introducidos por los romanos, crecen generosos fundamentando una interesante 
 gastronomía local que ha convertido a la castaña en su protagonista. 
 
-![olivos sierra de las nieves, olivos malaga, naturaleza malaga](etheria-images/2019/02/olivos-sierra-nieves-malaga-e1550840038712.jpg "Olivos en el P.N. Sierra de las Nieves de Málaga.")
+![olivos sierra de las nieves, olivos malaga, naturaleza malaga](https://fotos.etheriamagazine.com/2019/02/olivos-sierra-nieves-malaga-e1550840038712.jpg "Olivos en el P.N. Sierra de las Nieves de Málaga.")
 
 ## 9\. Olivos centenarios
 
@@ -195,7 +195,7 @@ Mora i Bravard](https://www.cactuscasarabonela.es/), en el pueblo de Casarabonel
 gracias a la benignidad climatológica acumula 2.200 especies de cactus y plantas del 
 mundo. 
 
-![atardecer, sierra de las nieves, malaga](etheria-images/2019/02/puesta-sol-sierra-nieves-1024x682.jpg "Atardecer en la Sierra de las Nieves (Málaga).")
+![atardecer, sierra de las nieves, malaga](https://fotos.etheriamagazine.com/2019/02/puesta-sol-sierra-nieves-1024x682.jpg "Atardecer en la Sierra de las Nieves (Málaga).")
 
 ## 10\. Con vistas a la puesta del sol
 

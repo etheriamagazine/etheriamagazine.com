@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Garrido: \"Viajar es invertir en conocimiento y tolerancia\""
 date: 2019-03-29
-coverImage: etheria-images/2019/03/vanessa-garrido-glaciar-perito-moreno.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/vanessa-garrido-glaciar-perito-moreno.jpg
 categories: 
   - mujeres-que-inspiran
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ a día con una sonrisa y una gran vitalidad. De su vida profesional nos hablará
 momento, ahora comparte algunos de sus primeros recuerdos viajeros, los destinos que más 
 la han marcado y los viajes que nos recomienda hacer. 
 
-\[caption id="attachment\_8830" align="aligncenter" width="900"\]![perito moreno, vanessa garrido](etheria-images/2019/03/vanessa-garrido-mujer-etheria.jpg "Vanessa Garrido en el Perito Moreno (Argentina).") Vanessa Garrido en el Perito Moreno (Argentina).\[/caption\]
+\[caption id="attachment\_8830" align="aligncenter" width="900"\]![perito moreno, vanessa garrido](https://fotos.etheriamagazine.com/2019/03/vanessa-garrido-mujer-etheria.jpg "Vanessa Garrido en el Perito Moreno (Argentina).") Vanessa Garrido en el Perito Moreno (Argentina).\[/caption\]
 
 Vanessa Garrido se define a sí misma como una mujer optimista y alegre, y si sigues su perfil en Instagram lo podrás comprobar por ti misma. Cuando le hablamos de sueños, nos contesta que "más que sueños, lo que se propone son metas a alcanzar, y que cada nuevo reto es un nuevo sueño que perseguir". Reconoce que sus principales objetivos en la vida son continuar siendo feliz y disfrutar de los pequeños detalles, por insignificantes que puedan parecer. En esa meta, los viajes tienen mucho que decir, así que nuestras próximas preguntas nos ayudarán a conocer a la viajera que se oculta detrás de esa persona responsable y disciplinada que desempeña el cargo de directora del [Hotel Nyx Madrid](https://www.leonardo-hotels.es/nyx-madrid), de la cadena Leonardo Hotels. ¿Os apetece saber por qué es una #MujerEtheria, una mujer que nos inspira? Seguid leyendo.
 
@@ -26,7 +26,7 @@ Pues recuerdo mucho **Málaga** porque cuando era pequeña a mis padres le dio u
 
 Por un lado desconectar, cambiar de aires y, por otro, descubrir cosas distintas, sorprenderme, disfrutar. El dinero mejor invertido para mí está en viajar. Gastar dinero en conocimiento, en abrir tu mente a culturas y paisajes distintos.
 
-\[caption id="attachment\_8832" align="aligncenter" width="900"\]![viajes de vanessa garrido, directora hotel nyx madrid](etheria-images/2019/03/vanessa-garrido-argentina-camboya.jpg "Vanessa en el Glaciar del Perito Moreno (Argentina) y en Angkor (Camboya).") Vanessa en el Glaciar del Perito Moreno (Argentina) y en Angkor (Camboya).\[/caption\]
+\[caption id="attachment\_8832" align="aligncenter" width="900"\]![viajes de vanessa garrido, directora hotel nyx madrid](https://fotos.etheriamagazine.com/2019/03/vanessa-garrido-argentina-camboya.jpg "Vanessa en el Glaciar del Perito Moreno (Argentina) y en Angkor (Camboya).") Vanessa en el Glaciar del Perito Moreno (Argentina) y en Angkor (Camboya).\[/caption\]
 
 3\. ¿Qué consideras que te han aportado los viajes? ¿Por qué los aconsejarías? 
 
@@ -38,7 +38,7 @@ Fundamentalmente me aportan felicidad en un amplio concepto de lo que significa 
 
 Sin duda, mi mejor compañero de viaje es mi marido, al que he elegido como compañero de vida. Si en algo estamos de acuerdo es en invertir todo el tiempo que podemos en viajar, conocer nuevos sitios y disfrutar de nuevas experiencias. Somos muy disfrutones viajando.
 
-\[caption id="attachment\_8872" align="aligncenter" width="900"\]![vanessa garrido, viajes peru](etheria-images/2019/03/vanesa-machu-picchu.jpg) Vanessa y su marido en Machu Picchu.\[/caption\]
+\[caption id="attachment\_8872" align="aligncenter" width="900"\]![vanessa garrido, viajes peru](https://fotos.etheriamagazine.com/2019/03/vanesa-machu-picchu.jpg) Vanessa y su marido en Machu Picchu.\[/caption\]
 
 5\. ¿Sueles planificar con antelación tus viajes o prefieres improvisar? 
 
@@ -51,7 +51,7 @@ Una combinación de ambos. Por un lado nos gusta planificar nuestros viajes para
 
 La verdad es que realmente siempre procuramos no tener grandes escalas, por lo que a veces simplemente voy corriendo de un lado a otro para cambiar de avión. Pero si puedo, me entretengo **en las tiendas** porque me encanta la moda y aprovecho para ver cositas nuevas. En las escalas de los viajes de vuelta, como estamos ya cansados, lo que hacemos es buscar un sitio donde darnos un masaje, aunque sea uno rápido si tenemos poco tiempo –en los pies o en la cabeza– y me encanta.
 
-\[caption id="attachment\_8873" align="aligncenter" width="900"\]![vanessa garrido, viaje filipinas, starfish island, palawan](etheria-images/2019/03/vanessa-garrido-palawan.jpg) Starfish Island, en Palawan (Islas Filipinas).\[/caption\]
+\[caption id="attachment\_8873" align="aligncenter" width="900"\]![vanessa garrido, viaje filipinas, starfish island, palawan](https://fotos.etheriamagazine.com/2019/03/vanessa-garrido-palawan.jpg) Starfish Island, en Palawan (Islas Filipinas).\[/caption\]
 
 7\. ¿Cuál ha sido el mejor viaje de tu vida hasta el momento? ¿Por qué? 
 
@@ -61,7 +61,7 @@ Es muy difícil elegir. Tengo varios… Pero quizá me quedaría con el último:
 
 Mi último viaje ha sido el anterior. Fue nuestro viaje de luna de miel (nos casamos el 17 de noviembre de 2018) y me ha gustado absolutamente todo. Lo más increíble es que todo lo que veía era distinto a lo anterior y cada cosa nueva era aun más sorprendente que la anterior. Llegó un momento en que mi cabeza no podía procesar tanta belleza y tan distinta en un mismo viaje. Ha sido **un viaje con mayúsculas**. Lo que menos me gustó puede ser Buenos aires, porque me sentí insegura en algunos momentos.
 
-\[caption id="attachment\_8838" align="aligncenter" width="850"\]![vanessa garrido, viaje filipinas, directora de nyx hotel madrid](etheria-images/2019/03/vanessa-garrido-mujer-etheria-viajes.jpg "Viaje a Filipinas.") Viaje a Filipinas.\[/caption\]
+\[caption id="attachment\_8838" align="aligncenter" width="850"\]![vanessa garrido, viaje filipinas, directora de nyx hotel madrid](https://fotos.etheriamagazine.com/2019/03/vanessa-garrido-mujer-etheria-viajes.jpg "Viaje a Filipinas.") Viaje a Filipinas.\[/caption\]
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera? 
 
@@ -81,7 +81,7 @@ Sin duda, **Perú y Argentina**, por su maravillosa naturaleza allá donde vayas
 
 Depende del lugar al que vaya. El avión me gusta porque casi siempre significa que me voy lejos, y el coche me encanta porque me gusta conducir y puedes hacer pequeñas escapadas de fin de semana a destinos muy distintos.
 
-\[caption id="attachment\_8840" align="aligncenter" width="900"\]![vanessa garrido, viaje argentina, directora de nyx hotel madrid](etheria-images/2019/03/vanessa-garrigo-cataratas-iguazu.jpg "Cataratas de Iguazú (Argentina).") Cataratas de Iguazú (Argentina).\[/caption\]
+\[caption id="attachment\_8840" align="aligncenter" width="900"\]![vanessa garrido, viaje argentina, directora de nyx hotel madrid](https://fotos.etheriamagazine.com/2019/03/vanessa-garrigo-cataratas-iguazu.jpg "Cataratas de Iguazú (Argentina).") Cataratas de Iguazú (Argentina).\[/caption\]
 
 13\. ¿Qué hotel te ha impresionado más y por qué? 
 
@@ -91,7 +91,7 @@ Depende del lugar al que vaya. El avión me gusta porque casi siempre significa 
 
 Crema solar, spray anti mosquitos (soy carne de cañón), bálsamo labial, clínex, los papeles con “nuestra ruta” y el móvil para hacer fotos.
 
-\[caption id="attachment\_8842" align="aligncenter" width="900"\]![vanessa garrido, viaje lisboa, viaje camboya, mujeres etheria](etheria-images/2019/03/vanessa-lisboa-camboya.jpg "Viajes a Lisboa y Camboya.") Viajes a Lisboa y Camboya.\[/caption\]
+\[caption id="attachment\_8842" align="aligncenter" width="900"\]![vanessa garrido, viaje lisboa, viaje camboya, mujeres etheria](https://fotos.etheriamagazine.com/2019/03/vanessa-lisboa-camboya.jpg "Viajes a Lisboa y Camboya.") Viajes a Lisboa y Camboya.\[/caption\]
 
 15\. ¿Escribes un listado antes de hacer la maleta? ¿Cuáles son tus cinco 
 imprescindibles? 

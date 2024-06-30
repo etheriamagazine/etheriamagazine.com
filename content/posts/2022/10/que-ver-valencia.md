@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Valencia, imprescindibles en una ciudad que mira al futuro"
 date: 2022-10-03
-coverImage: etheria-images/2022/09/valencia-ciudad-artes.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/09/valencia-ciudad-artes.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -14,7 +14,7 @@ importantísimo patrimonio artístico que ha ido almacenando a lo largo de la Hi
 invitamos en este artículo a hacer una ruta enlazando las 15 visitas imprescindibles en 
 Valencia, una ciudad que también sabe mirar al futuro. 
 
-![dos niñas en las Torres de Serranos](etheria-images/2022/09/valencia-torres-serrano.jpg "Vista de Valencia desde las Torres de Serranos.")
+![dos niñas en las Torres de Serranos](https://fotos.etheriamagazine.com/2022/09/valencia-torres-serrano.jpg "Vista de Valencia desde las Torres de Serranos.")
 
 Hospitalaria, abierta, dinámica, vanguardista y siempre mirando al mar, Valencia acoge 
 al viajero con los brazos abiertos, deseosa de mostrar todos sus encantos a quien se 
@@ -29,7 +29,7 @@ por el antiguo cauce del Turia, las torres de Quart y el IVAM, el gran museo de 
 contemporáneo de Valencia. Pero vamos a ir degustando todos estos tesoros poco a poco. 
 Uno a uno. 
 
-![Ciudad de las Artes.](etheria-images/2022/09/valencia-ciudad-artes.jpg "Ciudad de las Artes.")
+![Ciudad de las Artes.](https://fotos.etheriamagazine.com/2022/09/valencia-ciudad-artes.jpg "Ciudad de las Artes.")
 
 ## 15 lugares esenciales que ver en Valencia
 
@@ -52,7 +52,7 @@ conocido como Consolat del Mar, y una especie de banco denominado Taula de Canvi
 Depósits. En el interior de la Lonja llama la atención, por su espectacularidad y 
 belleza, el Salón Columnario. 
 
-![fachada de la Lonja de la Seda](etheria-images/2022/09/valencia-lonja-seda.jpg "Lonja de la Seda.")
+![fachada de la Lonja de la Seda](https://fotos.etheriamagazine.com/2022/09/valencia-lonja-seda.jpg "Lonja de la Seda.")
 
 #### Mercado Central
 
@@ -64,7 +64,7 @@ olvides fijarte en la gran cúpula octogonal y disfrutar del ambiente colorido d
 mercado, porque es un reflejo de la riqueza que producen las huertas valencianas. Es un 
 monumento vivo que hay que visitar cualquier día laborable por la mañana. 
 
-![Entrada del Mercado Central.](etheria-images/2022/09/valencia-mercado.jpg "Entrada del Mercado Central.")
+![Entrada del Mercado Central.](https://fotos.etheriamagazine.com/2022/09/valencia-mercado.jpg "Entrada del Mercado Central.")
 
 #### Torres de Serranos
 
@@ -76,7 +76,7 @@ momento que estaba completamente amurallada. Son dos torres gemelas, de planta
 poligonal, y varios pisos que miran hacia el casco antiguo. Están almenadas y tienen un 
 exuberante decoración exterior que contrasta con la solidez de su piedra de sillería. 
 
-![Torres de Serranos.](etheria-images/2022/09/valencia-torres-serrano-panoramica.jpg "Torres de Serranos.")
+![Torres de Serranos.](https://fotos.etheriamagazine.com/2022/09/valencia-torres-serrano-panoramica.jpg "Torres de Serranos.")
 
 #### Plaza de la Reina
 
@@ -89,7 +89,7 @@ estilo gótico y con más de 50 metros de altura, es el símbolo por antonomasia
 Valencia. Por cierto, se aconseja subir a su mirador o terraza para ver el perfil de la 
 ciudad desde sus tejados. 
 
-![Plaza de la Reina en Valencia](etheria-images/2022/09/valencia-plaza-reina.jpg "Plaza de la Reina.")
+![Plaza de la Reina en Valencia](https://fotos.etheriamagazine.com/2022/09/valencia-plaza-reina.jpg "Plaza de la Reina.")
 
 #### Catedral de Valencia
 
@@ -103,7 +103,7 @@ Puerta de los Apóstoles, sobre la que hay un gran rosetón con la estrella de D
 esta puerta se reúne todos los jueves a mediodía el Tribunal de las Aguas de la Vega de 
 Valencia. 
 
-![interior de la catedral de Valencia](etheria-images/2022/09/valencia-catedral-capilla.jpg "Capilla del Santo Cáliz de la catedral de Valencia.")
+![interior de la catedral de Valencia](https://fotos.etheriamagazine.com/2022/09/valencia-catedral-capilla.jpg "Capilla del Santo Cáliz de la catedral de Valencia.")
 
 ### Museos imprescindibles en Valencia
 
@@ -116,7 +116,7 @@ colecciones de cerámica de Paterna, Manises, Alcora, Sevilla, Talavera, Córdob
 etc., así como muebles, esculturas, una cocina tradicional valenciana y tres carrozas 
 que pertenecieron a la familia propietaria del palacio, los marqueses de Dos Aguas. 
 
-![Sala del Museo Nacional de Cerámica de Valencia.](etheria-images/2022/09/valencia-museo-ceramica.jpg "Sala del Museo Nacional de Cerámica.")
+![Sala del Museo Nacional de Cerámica de Valencia.](https://fotos.etheriamagazine.com/2022/09/valencia-museo-ceramica.jpg "Sala del Museo Nacional de Cerámica.")
 
 #### Museo Histórico Municipal
 
@@ -127,7 +127,7 @@ escalera de honor de mármol blanco de estilo neoclásico. El Museo Histórico M
 permite seguir la evolución de la ciudad de Valencia a través de planos, grabados, 
 escudos, banderas e incunables. 
 
-![Entrada al Museo Histórico Municipal.](etheria-images/2022/09/valencia-museo-ciudad.jpg "Entrada al Museo Histórico Municipal.")
+![Entrada al Museo Histórico Municipal.](https://fotos.etheriamagazine.com/2022/09/valencia-museo-ciudad.jpg "Entrada al Museo Histórico Municipal.")
 
 #### Instituto Valenciano de Arte Moderno (IVAM)
 
@@ -138,7 +138,7 @@ otras de autores de reconocido prestigio, tanto nacionales como internacionales.
 el fondo artístico de Julio González (1876-1942), integrado por unas 360 obras, entre 
 esculturas y trabajos de orfebrería. 
 
-![entrada al Instituto Valenciano de Arte Moderno.](etheria-images/2022/09/valencia-ivam.jpg "Instituto Valenciano de Arte Moderno.")
+![entrada al Instituto Valenciano de Arte Moderno.](https://fotos.etheriamagazine.com/2022/09/valencia-ivam.jpg "Instituto Valenciano de Arte Moderno.")
 
 #### Museo de Bellas Artes
 
@@ -150,7 +150,7 @@ de manifiesto el esplendor de la ciudad durante la Edad Media. Hay obras maestra
 Juan de Juanes, Ribalta, Ribera, El Greco, Velázquez, Murillo, Goya y El Bosco, entre 
 otros. 
 
-![jardines frente al Museo de Bellas Artes](etheria-images/2022/09/valencia-museo-bellas-artes.jpg "Museo de Bellas Artes.")
+![jardines frente al Museo de Bellas Artes](https://fotos.etheriamagazine.com/2022/09/valencia-museo-bellas-artes.jpg "Museo de Bellas Artes.")
 
 #### Museo Fallero
 
@@ -161,7 +161,7 @@ hoy. Y si tienes interés en profundizar en el universo fallas, puedes dirigir t
 hasta la **Ciudad del Artista Fallero**, un espacio repleto de talleres donde se crean 
 las monumentales figuras que, después, acaban devoradas por el fuego. 
 
-![Museo Fallero.](etheria-images/2022/09/valencia-museo-fallero.jpg "Museo Fallero.")
+![Museo Fallero.](https://fotos.etheriamagazine.com/2022/09/valencia-museo-fallero.jpg "Museo Fallero.")
 
 ### La Ciudad de las Artes y las Ciencias
 
@@ -175,7 +175,7 @@ aspecto recuerda el de un barco. A su lado se halla el edificio de L’Hemisfèr
 caparazón que proyecta documentales en su pantalla cóncava y que, además de emerger de 
 un estanque, simula ser un ojo humano. 
 
-![fachada del Palau de les Arts en Valencia](etheria-images/2022/09/valencia-palau-de-les-arts.jpg "Palau de les Arts.")
+![fachada del Palau de les Arts en Valencia](https://fotos.etheriamagazine.com/2022/09/valencia-palau-de-les-arts.jpg "Palau de les Arts.")
 
 #### Museo de las Ciencias Príncipe Felipe
 
@@ -188,7 +188,7 @@ interior hay una serie de plataformas de hormigón blanco que acaban en un gran 
 volado que se asoma hasta la orilla del antiguo cauce del Turia. En la planta baja se 
 encuentra el Auditorio, con capacidad para unas 300 personas. 
 
-![Sala del Museo de las Ciencias Príncipe Felipe en Valencia](etheria-images/2022/09/valencia-museo-ciencias.jpg "Actividades en el Museo de las Ciencias Príncipe Felipe.")
+![Sala del Museo de las Ciencias Príncipe Felipe en Valencia](https://fotos.etheriamagazine.com/2022/09/valencia-museo-ciencias.jpg "Actividades en el Museo de las Ciencias Príncipe Felipe.")
 
 #### L’Oceanogràfic
 
@@ -199,7 +199,7 @@ conocer a la única familia de ballenas beluga de Europa. L’Oceanogràfic tamb
 los ecosistemas marinos más importantes del mundo. Toda una experiencia, especialmente 
 para los más pequeños. 
 
-![Niñas con un flamenco en LÓceanogràfic de Valencia](etheria-images/2022/09/valencia-oceanografic.jpg "L'Oceanogràfic.")
+![Niñas con un flamenco en LÓceanogràfic de Valencia](https://fotos.etheriamagazine.com/2022/09/valencia-oceanografic.jpg "L'Oceanogràfic.")
 
 ### Espacios abiertos
 
@@ -215,7 +215,7 @@ por esta figura de 70 metros de longitud. El Jardín del Turia, coronado por 18 
 de diferentes épocas y estilos, es también un lugar ideal para los amantes de la 
 bicicleta y el “running”. 
 
-![Jardín del Turia.](etheria-images/2022/09/valencia-jardin-turia.jpg "Jardín del Turia.")
+![Jardín del Turia.](https://fotos.etheriamagazine.com/2022/09/valencia-jardin-turia.jpg "Jardín del Turia.")
 
 #### Playa de la Malvarrosa
 
@@ -228,7 +228,7 @@ valenciana y, entre sus ilustres veraneantes, figuraban Sorolla y Blasco Ibáñe
 curiosidad: la playa debe su nombre a una antigua plantación de hierbas aromáticas y 
 malvas rosáceas. 
 
-![Playa de la Malvarrosa.](etheria-images/2022/09/valencia-playa-malvarrosa.jpg "Playa de la Malvarrosa.")
+![Playa de la Malvarrosa.](https://fotos.etheriamagazine.com/2022/09/valencia-playa-malvarrosa.jpg "Playa de la Malvarrosa.")
 
 Fotografías cedidas por Visit Valencia. 
 

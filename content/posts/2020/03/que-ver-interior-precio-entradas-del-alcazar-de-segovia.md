@@ -1,7 +1,7 @@
 ---
 title: "El Alcázar de Segovia, prepara la visita a este castillo de cuento de hadas"
 date: 2020-03-11
-coverImage: etheria-images/2020/03/sala-reyes-alcazar-segovia.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/03/sala-reyes-alcazar-segovia.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ Con su imagen de cuento de hadas seduce desde la primera mirada, pero ¿cómo es
 interior del Alcázar? Te damos todos los detalles de sus salas, precios de entradas y 
 horarios gratuitos para que vayas bien informado. 
 
-![Sala de Reyes del Alcázar de Segovia.](etheria-images/2020/03/sala-reyes-alcazar-segovia-900x564.jpg "Sala de Reyes del Alcázar de Segovia. © Etheria Magazine")
+![Sala de Reyes del Alcázar de Segovia.](https://fotos.etheriamagazine.com/2020/03/sala-reyes-alcazar-segovia-900x564.jpg "Sala de Reyes del Alcázar de Segovia. © Etheria Magazine")
 
 ```
 Actualizado en febrero de 2023.
@@ -43,7 +43,7 @@ Allí mismo también se casó Felipe II con Ana de Austria, su cuarta esposa. Es
 el que se empeñó cubrir de pizarra las cubiertas para que se asemejara a los castillos 
 europeos (y que lo diferenciara de los castellanos). Y, sin duda, lo logró. 
 
-![Camino de entrada del Alcázar de Segovia.](etheria-images/2020/03/alcazar-segovia-1-900x577.jpg "Camino de entrada del Alcázar de Segovia. © Etheria Magazine")
+![Camino de entrada del Alcázar de Segovia.](https://fotos.etheriamagazine.com/2020/03/alcazar-segovia-1-900x577.jpg "Camino de entrada del Alcázar de Segovia. © Etheria Magazine")
 
 Por desgracia, cuando la Corte fue trasladada a Madrid perdió su papel estelar, y 
 comenzó a ser utilizado para otros usos, incluso hizo de prisión de estado durante un 
@@ -55,7 +55,7 @@ momento, bajo el reinado de Alfonso XIII, es el Ministerio de Guerra el que se h
 cargo del mismo, y lo destina al Cuerpo de Artillería. Desde 1898 acoge en la planta 
 superior el Archivo General Militar. 
 
-![Primer patio del Alcázar de Segovia.](etheria-images/2020/03/alcazar-segovia-patio-900x620.jpg "Primer patio del Alcázar de Segovia. © Etheria Magazine")
+![Primer patio del Alcázar de Segovia.](https://fotos.etheriamagazine.com/2020/03/alcazar-segovia-patio-900x620.jpg "Primer patio del Alcázar de Segovia. © Etheria Magazine")
 
 ## Qué visitar en el interior del Alcázar
 
@@ -71,7 +71,7 @@ recomendación es la visita guiada pero si no coindice con tu llegada, la audiog
 también es muy útil y cuenta información de gran interés. En la información práctica os 
 damos todos los datos de precios. 
 
-![Torre de Juan II vista desde el Patio de Armas.](etheria-images/2020/03/alcazar-segovia-patio-armas-900x607.jpg "Vista de la Torre de Juan II desde el Patio de Armas. © Etheria Magazine")
+![Torre de Juan II vista desde el Patio de Armas.](https://fotos.etheriamagazine.com/2020/03/alcazar-segovia-patio-armas-900x607.jpg "Vista de la Torre de Juan II desde el Patio de Armas. © Etheria Magazine")
 
 ### Patio Armas
 
@@ -90,7 +90,7 @@ ahora conectan con la Sala de la Galera. Caballos y caballeros con armadura reci
 visitante. A partir de ésta salen otras salas menores que se han decorado con distintos 
 estilos reales. 
 
-![Sala del Palacio Viejo desde la Sala de la Chimenea](etheria-images/2020/03/alcazar-segovia-palacio-viejo-900x603.jpg "Sala del Palacio Viejo desde la Sala de la Chimenea. © Etheria Magazine.")
+![Sala del Palacio Viejo desde la Sala de la Chimenea](https://fotos.etheriamagazine.com/2020/03/alcazar-segovia-palacio-viejo-900x603.jpg "Sala del Palacio Viejo desde la Sala de la Chimenea. © Etheria Magazine.")
 
 ### Sala de la Chimenea
 
@@ -98,7 +98,7 @@ Una chimenea, un gran tapiz y mobiliario del siglo XVI es lo primero que se advi
 esta sala. Esta pequeña estancia es producto de la ordenación de espacios de Felipe II. 
 El zócalo de azulejos de Talavera del siglo XVI y el techo también son muy llamativos. 
 
-![salon del trono, alcazar segovia](etheria-images/2020/03/alcazar-segovia-salon-trono-900x411.jpg "Salón del Trono. © Etheria Magazine.")
+![salon del trono, alcazar segovia](https://fotos.etheriamagazine.com/2020/03/alcazar-segovia-salon-trono-900x411.jpg "Salón del Trono. © Etheria Magazine.")
 
 ### Sala del Solio o del Trono
 
@@ -108,7 +108,7 @@ en 1808. No permitas que las sillas del trono centren tu mirada y observa la luj
 cúpula de lacería realizada por el maestro Xadel Alcalde en 1456. Se la compara por su 
 belleza con la del Salón de Embajadores del Alcázar de Sevilla. 
 
-![Sala Galera con unos impresionantes artesonados.](etheria-images/2020/03/alcazar-segovia-sala-galera-708x1024.jpg "Sala Galera. © Etheria Magazine")
+![Sala Galera con unos impresionantes artesonados.](https://fotos.etheriamagazine.com/2020/03/alcazar-segovia-sala-galera-708x1024.jpg "Sala Galera. © Etheria Magazine")
 
 ### Sala de la Galera
 
@@ -123,7 +123,7 @@ El tono dorado del techo, las armaduras, las ventanas geminadas, la pintura de M
 Pablos de ‘La proclamación como reina de Castilla y León de Isabel la Católica’, y las 
 vistas dan para detenerse un rato (y hacer algunas fotos). 
 
-![Sala de las Piñas.](etheria-images/2020/03/sala-pinas-alcazar-segovia-900x591.jpg "Sala de las Piñas. © Etheria Magazine")
+![Sala de las Piñas.](https://fotos.etheriamagazine.com/2020/03/sala-pinas-alcazar-segovia-900x591.jpg "Sala de las Piñas. © Etheria Magazine")
 
 ### Sala de las Piñas
 
@@ -137,7 +137,7 @@ En una de las vidrieras, también obra de Muñoz de Pablos, aparece Alfonso VIII
 los impulsores del alcázar. Supuestamente, este lugar era el despacho privado de los 
 reyes, de ahí la presencia de los bargueños del siglo XVI. 
 
-![Dormitorio del Rey, en el Alcázar de Segovia.](etheria-images/2020/03/dormitorio-rey-alcazar-segovia-900x565.jpg "Dormitorio del Rey, en el Alcázar de Segovia. © Etheria Magazine")
+![Dormitorio del Rey, en el Alcázar de Segovia.](https://fotos.etheriamagazine.com/2020/03/dormitorio-rey-alcazar-segovia-900x565.jpg "Dormitorio del Rey, en el Alcázar de Segovia. © Etheria Magazine")
 
 ### Dormitorio del Rey
 
@@ -155,7 +155,7 @@ Alfonso X, se celebraban las reuniones más importantes y las fiestas. Incluso s
 aquí la boda, tras oficiarse en la **capilla contigua**, de Felipe II con Ana de Austria 
 en 1574. 
 
-![Sala de Reyes.](etheria-images/2020/03/alcazar-segovia-sala-reyes-698x1024.jpg "Sala de Reyes. © Etheria Magazine")
+![Sala de Reyes.](https://fotos.etheriamagazine.com/2020/03/alcazar-segovia-sala-reyes-698x1024.jpg "Sala de Reyes. © Etheria Magazine")
 
 ### Sala del Cordón
 
@@ -170,7 +170,7 @@ Armas medievales, ballestas, armaduras, cañones y estandartes completan esta sa
 bóveda de cañón situada en la base de la Torre del Homenaje. Asómate a la ventana del 
 fondo para ver las vistas de ese lado del alcázar. 
 
-![En la Armería y en otras salas se pueden ver distintas armaduras.](etheria-images/2020/03/armadura-alcazar-segovia-683x1024.jpg "En la Armería y en otras salas se pueden ver distintas armaduras. © Etheria Magazine")
+![En la Armería y en otras salas se pueden ver distintas armaduras.](https://fotos.etheriamagazine.com/2020/03/armadura-alcazar-segovia-683x1024.jpg "En la Armería y en otras salas se pueden ver distintas armaduras. © Etheria Magazine")
 
 ### Museo del Real Colegio de Artillería
 
@@ -179,7 +179,7 @@ visitado. Ese dato es perfecto para los más curiosos o amantes de estrategias y
 bélicos. Documentos, fotografías, reproducciones a escala... una auténtica maravilla que 
 hay que ver poquito a poco. 
 
-![Vistas desde la Torre de Juan II.](etheria-images/2020/03/vistas-torre-juan-ii-alcazar-900x585.jpg "Vistas desde la Torre de Juan II. © Etheria Magazine")
+![Vistas desde la Torre de Juan II.](https://fotos.etheriamagazine.com/2020/03/vistas-torre-juan-ii-alcazar-900x585.jpg "Vistas desde la Torre de Juan II. © Etheria Magazine")
 
 ### Torre de Juan II
 
@@ -196,7 +196,7 @@ del _skyline_ segoviano, son magníficas.
 Las entradas se pueden comprar allí directamente, en la Casa de la Química, y se puede 
 pagar en efectivo o con tarjeta. Las venden hasta 30 minutos antes de la hora de cierre. 
 
-![Precio de la entrada al Alcázar de Segovia en 2023.](etheria-images/2020/03/precios-alcazar-segovia-2023.jpg "Precio de la entrada al Alcázar de Segovia en 2023.")
+![Precio de la entrada al Alcázar de Segovia en 2023.](https://fotos.etheriamagazine.com/2020/03/precios-alcazar-segovia-2023.jpg "Precio de la entrada al Alcázar de Segovia en 2023.")
 
 #### ¿Qué día es gratis visitar el Alcázar de Segovia?
 

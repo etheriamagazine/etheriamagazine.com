@@ -1,7 +1,7 @@
 ---
 title: "Viaje con amigas a Jerez, el arte del buen vivir"
 date: 2020-06-10
-coverImage: etheria-images/2020/06/ruta-vino-jerez.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/ruta-vino-jerez.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -12,7 +12,7 @@ authors:
 
 Una escapada a Jerez es mucho más que pasar unos días con amigas en una ciudad cualquiera, representa adentrarse en 'el arte de vivir', enamorarse de una tierra que sabe a vino y suena a bulería. Y si piensas que Jerez no es para el verano tienes que saber que Puerto Sherry está a 10 km y no renunciarás a un buen baño ni a la brisa del Atlántico.
 
-![viaje jerez, jerez con amigas](etheria-images/2020/06/viaje-jerez-amigas.jpg "Disfruta de la belleza de Jerez con amigas. © Manu López Iglesias")
+![viaje jerez, jerez con amigas](https://fotos.etheriamagazine.com/2020/06/viaje-jerez-amigas.jpg "Disfruta de la belleza de Jerez con amigas. © Manu López Iglesias")
 
 Dicen que Lola Flores era nuestra Frida Khalo. La esencia de la Faraona la podríamos 
 resumir en una sola frase: **el arte de vivir**. De esto saben mucho los jerezanos. La 
@@ -28,7 +28,7 @@ amoroso, perfecta para sacarse un nivel elevado de estrés de encima, perfecta p
 volver a creer en una misma, **ideal para ir sin niños y con amigas**… En definitiva, 
 Jerez es el sitio adecuado para volver a hacer aquello que nos urge: vivir. 
 
-![lola flores, jerez, viaje a cadiz](etheria-images/2020/06/25-aniversario-Lola-Flores.jpg "Cartel del 25 Aniversario de la muerte de Lola Flores.")
+![lola flores, jerez, viaje a cadiz](https://fotos.etheriamagazine.com/2020/06/25-aniversario-Lola-Flores.jpg "Cartel del 25 Aniversario de la muerte de Lola Flores.")
 
 ## Jerez, una ciudad antídoto
 
@@ -44,7 +44,7 @@ de Jerez** (apoteósico)… Pero a mí, **cuando más me gusta Jerez es cuando e
 Jerez**: un ramillete de iglesias y palacetes góticos, renacentistas, barrocos, 
 neoclásicos y decimonónicos de la época de esplendor bodeguera. 
 
-![iglesia de san miguel, viaje jerez, jerez con amigas](etheria-images/2020/06/Iglesia-de-San-Miguel-desde-Alcazar.jpg "Iglesia de San Miguel vista desde el Alcázar.")
+![iglesia de san miguel, viaje jerez, jerez con amigas](https://fotos.etheriamagazine.com/2020/06/Iglesia-de-San-Miguel-desde-Alcazar.jpg "Iglesia de San Miguel vista desde el Alcázar.")
 
 Pero además, si no estás estos días para visitas, **su buen comer y su buen beber** (su 
 muy muy buen beber) serán más que suficientes. De paso, Jerez también te regalará sus 
@@ -60,7 +60,7 @@ primera línea de playa (en 10 minutos estarás, si lo deseas, con los pies en l
 optamos por la “primera línea de la catedral”, porque es este entorno el lugar más 
 auténtico para alojarse. 
 
-![bodegas de jerez, viaje jerez amigas](etheria-images/2020/06/bodega-jerez-viaje-amigas.jpg "Las bodegas, auténticos templos del vino de Jerez.")
+![bodegas de jerez, viaje jerez amigas](https://fotos.etheriamagazine.com/2020/06/bodega-jerez-viaje-amigas.jpg "Las bodegas, auténticos templos del vino de Jerez.")
 
 ## Manual básico para una noche de verano
 
@@ -84,7 +84,7 @@ los tabancos de la ciudad**. Los encontrarás todos concentrados en el centro. P
 buscas uno que tenga espectáculo asegurado todos los días ese es el **tabanco del 
 Pasaje**. Aquí bailaban Lola Flores y Terremoto de niños, y es el más antiguo de todos. 
 
-![jerez, tabancos de jerez, viaje amigas cadiz](etheria-images/2020/06/viaje-amigas-flamenco-jerez.jpg "En el tabanco El Pasaje, el más antiguo de Jerez, bailaban Lola Flores y la Terremoto de niños.")
+![jerez, tabancos de jerez, viaje amigas cadiz](https://fotos.etheriamagazine.com/2020/06/viaje-amigas-flamenco-jerez.jpg "En el tabanco El Pasaje, el más antiguo de Jerez, bailaban Lola Flores y la Terremoto de niños.")
 
 Verás que allí se junta desde el abuelo de Jerez de toda la vida, que está acostumbrado 
 al vino y al ambiente de taberna, con la gente joven de Jerez copa de vino de su tierra 
@@ -103,7 +103,7 @@ Sería un delito marcharse de Jerez sin conocer alguna de sus bodegas vinculadas
 grandes familias de Jerez. Existen más de una docena de ellas alrededor o en la misma 
 ciudad con nombres tan legendarios como González Byass, Sandeman, Pedro Domecq, Garvey… 
 
-![ruta vinos jerez, jerez con amigas](etheria-images/2020/06/ruta-vino-jerez.jpg "Ruta en 4x4 por los viñedos jerezanos.")
+![ruta vinos jerez, jerez con amigas](https://fotos.etheriamagazine.com/2020/06/ruta-vino-jerez.jpg "Ruta en 4x4 por los viñedos jerezanos.")
 
 Pero antes de decidirnos por alguna, resolvamos algún que otro enigma para que partamos 
 de una mínima base. ¿Existió o no existió el omnipresente **Tío Pepe**? Pues sí, 
@@ -122,7 +122,7 @@ de vinos es una de las más amplias de las que se pueden encontrar en el Marco d
 Su cata de 9 vinos seleccionados de las 3 ciudades del Triángulo del Sherry (Jerez, 
 Puerto de Santa María y Sanlúcar de Barrameda) es muy completa. 
 
-![bodegas tradicion, viaje jerez, viajar con amigas](etheria-images/2020/06/Bodegas-Tradicion-Pinacoteca.jpg "Bonita pinacoteca de Bodegas Tradición.")
+![bodegas tradicion, viaje jerez, viajar con amigas](https://fotos.etheriamagazine.com/2020/06/Bodegas-Tradicion-Pinacoteca.jpg "Bonita pinacoteca de Bodegas Tradición.")
 
 Pero si buscas solo una bodega para visitar, **la bodega con más encanto es Bodegas 
 Tradición**, en la calle Cordobeses, en el casco antiguo de Jerez y adosada a la muralla 
@@ -135,7 +135,7 @@ cuentan con experiencias relajantes y diferentes como la de **vinoterapia** entr
 (es el nombre que reciben aquí los barriles), que incluye siesta con aromas y frescor 
 bodeguero, una sensación memorable. 
 
-![Palacio del Virrey Laserna , visitas jerez de la frontera](etheria-images/2020/06/palacio-virrey-jerez.jpg "Interior del magnífico Palacio del Virrey Laserna, en Jerez.")
+![Palacio del Virrey Laserna , visitas jerez de la frontera](https://fotos.etheriamagazine.com/2020/06/palacio-virrey-jerez.jpg "Interior del magnífico Palacio del Virrey Laserna, en Jerez.")
 
 #### Por los palacios de Jerez
 
@@ -149,7 +149,7 @@ tradición bodeguera de España, la familia Domecq.
 > Y además, como los palacios van saliendo a tu paso por la ciudad podrás ir tomando el 
 > aperitivo en las plazas cercanas. 
 
-![plaza mamelon, jerez de la frontera](etheria-images/2020/06/viaje-jerez-Fuente-Mamelon.jpg "Plaza de Mamelón, en Jerez.")
+![plaza mamelon, jerez de la frontera](https://fotos.etheriamagazine.com/2020/06/viaje-jerez-Fuente-Mamelon.jpg "Plaza de Mamelón, en Jerez.")
 
 El Palacio de Domecq está junto a la **plaza del Mamelón**; y en la coqueta plaza de 
 Rafael Rivero te espera la curiosa **Casa Petra de la Riva**, que aunque no se puede 
@@ -159,7 +159,7 @@ obligada, un monasterio de clausura habitado por las Hermanas de Belén. Sus ext
 son accesibles a pie desde las 7:00 de la mañana hasta las 18:00 de la tarde, momento en 
 que se cierra el portón de la fachada principal. 
 
-![cartuja de jerez, visitas jerez, jerez con amigas](etheria-images/2020/06/viaje-jerez-cartuja.jpg "Cartuja de Jerez.")
+![cartuja de jerez, visitas jerez, jerez con amigas](https://fotos.etheriamagazine.com/2020/06/viaje-jerez-cartuja.jpg "Cartuja de Jerez.")
 
 ## Experiencias gastronómicas para dejarse mimar
 
@@ -182,7 +182,7 @@ del gran hotel de la ciudad, el hotel Casa Palacio María Luisa, con una cocina 
 en los productos de la zona en la que rinden homenaje a la gastronomía tradicional 
 gitana. 
 
-![casa palacio maria luisa, jerez de la frontera](etheria-images/2020/06/jerez-Casa-Palacio-Maria-Luisa.jpg "Casa palacio María Luisa, en Jerez de la Frontera.")
+![casa palacio maria luisa, jerez de la frontera](https://fotos.etheriamagazine.com/2020/06/jerez-Casa-Palacio-Maria-Luisa.jpg "Casa palacio María Luisa, en Jerez de la Frontera.")
 
 #### Las mejores tapas
 
@@ -198,7 +198,7 @@ restaurante Albores, cuya terraza, junto al ayuntamiento, es el lugar ideal para
 un ceviche bien fresco, por no hablar de **La Carboná**, un lugar acogedor donde los 
 pescados están deliciosos, con menús con maridajes muy recomendables. 
 
-![restaurante la carbona, restaurantes pescado jerez, jerez con amigas](etheria-images/2020/06/restaurante-la-carbona-jerez.jpg "Restaurante La Carboná, en Jerez de la Frontera.")
+![restaurante la carbona, restaurantes pescado jerez, jerez con amigas](https://fotos.etheriamagazine.com/2020/06/restaurante-la-carbona-jerez.jpg "Restaurante La Carboná, en Jerez de la Frontera.")
 
 Y ya para ponerle el broche a la noche, si os apetece tomar algún cóctel (a base o no de 
 vinos de Jerez) o un brandy, el **Bliss** es una opción interesante. Buena música, una 
@@ -213,7 +213,7 @@ pueden contemplar vistas espectaculares de la ciudad de Cádiz. Uno de los resta
 más recomendables es **Pantalán G**, en el corazón del puerto: buen pescado, buen 
 ambiente y unas vistas fantásticas a la bahía. 
 
-![barco cadiz, viaje jerez, amigas en jerez, ruta en barco cadiz](etheria-images/2020/06/ruta-bahia-cadiz-amigas.jpg "Un paseo en barco por la bahía gaditana, el mejor remate a la escapada en Jerez.")
+![barco cadiz, viaje jerez, amigas en jerez, ruta en barco cadiz](https://fotos.etheriamagazine.com/2020/06/ruta-bahia-cadiz-amigas.jpg "Un paseo en barco por la bahía gaditana, el mejor remate a la escapada en Jerez.")
 
 Ya ya que estáis por la zona, si os apetece cubrir el expediente cultural, una visita al 
 espectacular **Monasterio de la Victoria** no puede faltar. Fue fundado por el Duque de 

@@ -1,7 +1,7 @@
 ---
 title: "Casablanca y Marrakech,  una escapada esencial (y a precio asequible)"
 date: 2023-05-04
-coverImage: etheria-images/2023/05/zapatillas-zoco-marrakech.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/05/zapatillas-zoco-marrakech.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -13,7 +13,7 @@ experiencia, un viaje a Casablanca y Marrakech te permitirá conocer dos ciudade
 dispares pero igual de frenéticas. Te contamos cuáles son los puntos fuertes para que 
 elijas si quieres visitar las dos o solo una. 
 
-![Interior de la mezquita de Hassan II, en Casablanca](etheria-images/2023/05/interior-mezquita-hassan-ii.jpg "Interior de la mezquita de Hassan II. © Pepa García")
+![Interior de la mezquita de Hassan II, en Casablanca](https://fotos.etheriamagazine.com/2023/05/interior-mezquita-hassan-ii.jpg "Interior de la mezquita de Hassan II. © Pepa García")
 
 Hay países que enamoran poco a poco, son de cortejo largo, y Marruecos es uno de ellos. 
 La primera vez que vas lo haces por curiosidad y no siempre el contraste con nuestra 
@@ -40,7 +40,7 @@ teatral. Ambas se complementan para brindarte una escapada llena de sorpresas.
 ✅ Además, se pueden encontrar vuelos a ambas por debajo de 100 euros por lo que, si 
 buscas una **escapada low cost para 2023**, es muy interesante que las tengas en cuenta. 
 
-![Edificio del Rick's café de Casablanca.](etheria-images/2023/05/ricks-cafe-casablanca.jpg "Edificio del Rick's café de Casablanca. © Pepa García")
+![Edificio del Rick's café de Casablanca.](https://fotos.etheriamagazine.com/2023/05/ricks-cafe-casablanca.jpg "Edificio del Rick's café de Casablanca. © Pepa García")
 
 ## Casablanca es otra película
 
@@ -62,7 +62,7 @@ culturas, y también ha despertado la codicia de algunos países... De esas idas
 de portugueses, españoles y franceses surge una mezcolanza que ha propiciado un destino 
 turístico que combina el concepto de ocio internacional y la esencia marroquí. 
 
-![Mezquita de Hassan II, en Casablanca.](etheria-images/2023/05/mezquita-casablanca.jpg "Mezquita de Hassan II, en Casablanca. © Pepa García")
+![Mezquita de Hassan II, en Casablanca.](https://fotos.etheriamagazine.com/2023/05/mezquita-casablanca.jpg "Mezquita de Hassan II, en Casablanca. © Pepa García")
 
 ## Entre rezos, tiendas y beach clubs
 
@@ -90,7 +90,7 @@ exterior, que tiene capacidad para 80.000 personas más, no hay que dejar de obs
 minarete de 210 metros, el más alto del mundo. Del mismo sale por las noches un 
 gigantesco rayo láser que apunta a La Meca. 
 
-![Beach club en Casablanca.](etheria-images/2023/05/beach-club-casablanca.jpg "Beach club en La Corniche de Casablanca. © Pepa García")
+![Beach club en Casablanca.](https://fotos.etheriamagazine.com/2023/05/beach-club-casablanca.jpg "Beach club en La Corniche de Casablanca. © Pepa García")
 
 ### Paseo marítimo La Corniche
 
@@ -100,7 +100,7 @@ eternas, donde se concentran los _beach clubs_ privados, que dan acceso a la pla
 que ofrecen cultivar el hedonismo con sus hamacas balinesas, piscinas y buenos 
 restaurantes. Para visitar la playa pública hay que dirigirse al final del paseo. 
 
-![Elegante tienda de babuchas del Morocco Mall.](etheria-images/2023/05/centro-comercial-casablanca.jpg "Elegante tienda de calzado del Morocco Mall. © Pepa García")
+![Elegante tienda de babuchas del Morocco Mall.](https://fotos.etheriamagazine.com/2023/05/centro-comercial-casablanca.jpg "Elegante tienda de calzado del Morocco Mall. © Pepa García")
 
 ### El mayor centro comercial de África
 
@@ -119,7 +119,7 @@ muy interesante –y bastante ordenado–. Las tentaciones comienzan a aparecer 
 de Sidi Okba, donde la mercancía se agolpa en las tiendas, y continúa en el **Zoco de 
 las Aceitunas**, una verdadera delicia visual y aromática. 
 
-![Zoco de las Aceitunas, en Casablanca.](etheria-images/2023/05/zoco-aceitunas-casablanca.jpg "Zoco de las Aceitunas, en Casablanca. © Pepa García")
+![Zoco de las Aceitunas, en Casablanca.](https://fotos.etheriamagazine.com/2023/05/zoco-aceitunas-casablanca.jpg "Zoco de las Aceitunas, en Casablanca. © Pepa García")
 
 ### Barrio _Art Déco_
 
@@ -141,7 +141,7 @@ En Marrakech, uno de los destinos turísticos más demandados del país, los con
 también son evidentes si se compara la medina, en el interior de la muralla, con la 
 exclusividad de los barrios residenciales que acogen lujosas viviendas y hoteles. 
 
-![jemaa el fna, viaje mujeres a marrakech, que ver en marrakech](etheria-images/2018/12/plaza-marrakech-viaje-mujeres-1024x682.jpg "Plaza Jemaa El Fna (Marrakech).")
+![jemaa el fna, viaje mujeres a marrakech, que ver en marrakech](https://fotos.etheriamagazine.com/2018/12/plaza-marrakech-viaje-mujeres-1024x682.jpg "Plaza Jemaa El Fna (Marrakech).")
 
 ## Plaza de Jemaa el Fna
 
@@ -160,7 +160,7 @@ escasas, deja que otra persona lleve la voz cantante o dirígete a las tiendas y
 estrés”. Entre las compras más frecuentes están las especias, las lámparas de latón, las 
 alfombras y las babuchas. 
 
-![Especias y flores secas del zoco de Marrakech.](etheria-images/2023/05/zoco-marrakech.jpg "Flores secas en el zoco de Marrakech. © Pepa García")
+![Especias y flores secas del zoco de Marrakech.](https://fotos.etheriamagazine.com/2023/05/zoco-marrakech.jpg "Flores secas en el zoco de Marrakech. © Pepa García")
 
 ## Palacios, giraldillas y jardines
 
@@ -172,7 +172,7 @@ porque sirvió de modelo a la Giralda de Sevilla. No está permitida la entrada 
 musulmanes, pero merece la pena verla externamente, con su altivo minarete de 77 metros 
 (visible hasta 25 kilómetros). 
 
-![viaje mujeres marrakech, mezquita koutubia](etheria-images/2020/04/viaje-mujeres-marrakech-koutubia.jpg "La Mezquita de Koutoubia de Marrakech sirvió de inspiración para la construcción de la Giralda de Sevilla. © K. Robles")
+![viaje mujeres marrakech, mezquita koutubia](https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-marrakech-koutubia.jpg "La Mezquita de Koutoubia de Marrakech sirvió de inspiración para la construcción de la Giralda de Sevilla. © K. Robles")
 
 Además de esta mezquita y la **plaza de Jemaa el Fna**, los **jardines de la Menara**, 
 con sus hileras de olivos y su estanque, son la tercera visita imprescindible de 
@@ -181,7 +181,7 @@ francés Jacques Majorelle y que continuó Yves Saint Laurent. En su interior se
 visitar dos museos: el de Arte Islámico y el del propio diseñador. Eso sí, hay que 
 procurar acudir a las horas de menor afluencia. 
 
-![Fuente de los Jardines Majorelle.](etheria-images/2023/05/jardin-marjorelle.jpg "Fuente de los Jardines Majorelle. © Pepa García")
+![Fuente de los Jardines Majorelle.](https://fotos.etheriamagazine.com/2023/05/jardin-marjorelle.jpg "Fuente de los Jardines Majorelle. © Pepa García")
 
 En los palacios no suele haber tantas zonas ajardinadas pero sí numerosos patios y 
 fuentes. Uno de obligada visita es el **palacio de Bahía**, donde residía el visir Ba 
@@ -194,7 +194,7 @@ sultán Saadí Ahmed al-Mansur para celebrar la victoria sobre los portugueses e
 XVI; el **Museo Dar Si Said**, situado en la increíble residencia de Si Saïd B. Moussa; 
 y las **Tumbas saadíes**, donde está enterrado el sultán Ahmad al-Mansur y su familia. 
 
-![Museo Dar Si Said, en Marrakech.](etheria-images/2023/05/Museo-Dar-Si-Said-850x279.jpg "Museo Dar Si Said, en Marrakech. © Pepa García")
+![Museo Dar Si Said, en Marrakech.](https://fotos.etheriamagazine.com/2023/05/Museo-Dar-Si-Said-850x279.jpg "Museo Dar Si Said, en Marrakech. © Pepa García")
 
 Para terminar de forjarte una imagen completa de la ciudad debes conocer el **barrio de 
 Gueliz**, que corresponde al centro colonial nacido más allá de la medina, y también el 

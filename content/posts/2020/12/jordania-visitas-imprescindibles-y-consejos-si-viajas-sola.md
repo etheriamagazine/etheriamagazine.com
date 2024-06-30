@@ -1,7 +1,7 @@
 ---
 title: "Jordania, visitas y consejos imprescindibles para tu primer viaje"
 date: 2020-12-18
-coverImage: etheria-images/2020/12/viajar-sola-jordania-tesoro-de-petra.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/viajar-sola-jordania-tesoro-de-petra.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ mordisco sino saboreado lentamente. Te proponemos un recorrido inicial por el Re
 Hachemita con algunas visitas y actividades imprescindibles. Y si eres una mujer que 
 viaja sola, también tendrás algún consejo extra. 
 
-![viajar sola a petra](etheria-images/2020/12/viajar-sola-jordania-tesoro-de-petra.jpg "Fachada de El Tesoro, en Petra (Jordania). © Etheria M.")
+![viajar sola a petra](https://fotos.etheriamagazine.com/2020/12/viajar-sola-jordania-tesoro-de-petra.jpg "Fachada de El Tesoro, en Petra (Jordania). © Etheria M.")
 
 Un viaje a Jordania es uno de esos deseos acariciados por una gran mayoría de viajeros 
 durante toda su vida. Es también un anhelo que se gesta poco a poco. La primera semilla 
@@ -33,7 +33,7 @@ una persona aventurera –y te gusta conducir– puedes alquilar un vehículo en
 recorrer por carretera los 'highlights' de Jordania. En este artículo te recomendamos 
 cuatro lugares imprescindibles si es la primera vez que viajas a Jordania. 
 
-![viajar sola a jordania](etheria-images/2020/12/viajar-sola-Jordania-trekking.jpg "Muchas mujeres viajan solas a Jordania. © Etheria M.")
+![viajar sola a jordania](https://fotos.etheriamagazine.com/2020/12/viajar-sola-Jordania-trekking.jpg "Muchas mujeres viajan solas a Jordania. © Etheria M.")
 
 ## Visitas para un primer viaje a Jordania
 
@@ -55,7 +55,7 @@ situado en pleno centro de la capital. Está muy bien conservado, es difícil cr
 fue construido en el siglo II d.C. Podía albergar hasta 6.000 personas y se construyó 
 orientado al norte para evitar que el sol molestase a los espectadores. 
 
-![ciudadela de aman imprescindible en Jordania](etheria-images/2020/12/jordania-amman-ciudadela.jpg "Ciudadela de Ammán. © Hisham Zayadnh")
+![ciudadela de aman imprescindible en Jordania](https://fotos.etheriamagazine.com/2020/12/jordania-amman-ciudadela.jpg "Ciudadela de Ammán. © Hisham Zayadnh")
 
 ### Museos y zocos de Ammán
 
@@ -75,7 +75,7 @@ cacahuetes, también los dátiles, el té, las especias y los perfumes. Si vas a
 vuelo de regreso en Ammán espera para hacer las compras, ya que es preferible ir ligera 
 durante el viaje. 
 
-![trekking de dana a petra](etheria-images/2020/12/Jordania-Trekking-desde-Dana.jpg "Inicio del tramo de trekking entre Dana y Petra. © Etheria M.")
+![trekking de dana a petra](https://fotos.etheriamagazine.com/2020/12/Jordania-Trekking-desde-Dana.jpg "Inicio del tramo de trekking entre Dana y Petra. © Etheria M.")
 
 ## 2\. Jordan Trail, un itinerario que atraviesa Jordania
 
@@ -88,7 +88,7 @@ caminando. Es aconsejable si viajas sola que te integres en algún grupo o acuda
 locales. Hay tramos bastante duros y solitarios, además de ser más seguro ir con buenos 
 conocedores del terreno. 
 
-![trekking little petra, ruta Jordania](etheria-images/2020/12/Jordania-tramo-a-Little-Petra.jpg "Trekking de Little Petra. © Etheria M.")
+![trekking little petra, ruta Jordania](https://fotos.etheriamagazine.com/2020/12/Jordania-tramo-a-Little-Petra.jpg "Trekking de Little Petra. © Etheria M.")
 
 La ruta completa es de 650 kilómetros y se tarda en culminarlo una media de 40 días, 
 haciendo alguna parada para descansar. Este amplio recorrido transcurre desde Um Qais 
@@ -103,7 +103,7 @@ parte más espectacular es la que lleva a Petra por la puerta de atrás, es deci
 desfiladeros y barrancos. No es el camino oficial de entrada, sino que verás en primer 
 lugar el Monasterio y luego tendrás que bajar unas empinadas escaleras hasta el Tesoro. 
 
-![sendero caminata a petra](etheria-images/2020/12/Jordania-etapa-little-petra-a-petra.jpg "Paisaje del sendero para entrar a Petra por la puerta de atrás. © Etheria M.")
+![sendero caminata a petra](https://fotos.etheriamagazine.com/2020/12/Jordania-etapa-little-petra-a-petra.jpg "Paisaje del sendero para entrar a Petra por la puerta de atrás. © Etheria M.")
 
 ## 3\. Petra, entre las 7 Maravillas del mundo moderno
 
@@ -126,7 +126,7 @@ Esta ciudad, que surge en medio de la nada, era un importante lugar de tránsito
 rutas comerciales que unían China, India y Arabia, con Egipto, Siria, Grecia y Roma. 
 Seguro que te suenan las rutas de la Seda y de las Especias. 
 
-![tesoro de petra imprescindible de jordania](etheria-images/2020/12/Jordania-Tesoro-Petra-desde-Siq.jpg "Fachada del Tesoro de Petra desde el cañón del Siq. © Etheria M.")
+![tesoro de petra imprescindible de jordania](https://fotos.etheriamagazine.com/2020/12/Jordania-Tesoro-Petra-desde-Siq.jpg "Fachada del Tesoro de Petra desde el cañón del Siq. © Etheria M.")
 
 ### El Tesoro y el cañón del Siq
 
@@ -147,7 +147,7 @@ los tropiezos del animal. El Monasterio está menos concurrido e incluso puedes 
 “té con vistas” en las cafeterías frente a su fachada. Las fotos también es aconsejable 
 hacerlas desde las alturas, hay un corto sendero para llegar al punto ideal. 
 
-![monasterio de petra, imprescindibles de Jordania](etheria-images/2020/12/Jordania-monasterio-de-petra-696x1024.jpg "El Monasterio de Petra desde la cafetería de enfrente. © Etheria M.")
+![monasterio de petra, imprescindibles de Jordania](https://fotos.etheriamagazine.com/2020/12/Jordania-monasterio-de-petra-696x1024.jpg "El Monasterio de Petra desde la cafetería de enfrente. © Etheria M.")
 
 ### Más visitas en Petra
 
@@ -158,7 +158,7 @@ la pena emplear dos. Además, así podrás aprovechar para hacer una visita noct
 El Tesoro iluminado con velas (no se hace a diario), y el **Museo de Petra** (inaugurado 
 en 2019), que está situado junto a la entrada oficial. 
 
-![ruta todoterreno por Wadi Rum](etheria-images/2020/12/Jordania-ruta-desierto-wadi-rum.jpg "Ruta en 4x4 por el desierto de Wadi Rum. © Etheria M.")
+![ruta todoterreno por Wadi Rum](https://fotos.etheriamagazine.com/2020/12/Jordania-ruta-desierto-wadi-rum.jpg "Ruta en 4x4 por el desierto de Wadi Rum. © Etheria M.")
 
 ## 4\. Desierto de Wadi Rum 
 
@@ -175,7 +175,7 @@ campamento de beduinos para recorrer **en 4x4 el desierto**, probar su **comida
 tradicional**, ver el **atardecer** y disfrutar del cielo estrellado, alejado de toda 
 contaminación lumínica. 
 
-![puente piedra desierto jordania](etheria-images/2020/12/Jordania-Desierto-puerta-piedra.jpg "Um Fruth, puente de piedra en el desierto de Wadi Rum. © Etheria M.")
+![puente piedra desierto jordania](https://fotos.etheriamagazine.com/2020/12/Jordania-Desierto-puerta-piedra.jpg "Um Fruth, puente de piedra en el desierto de Wadi Rum. © Etheria M.")
 
 Las actividades en Wadi Rum pueden ir desde las “culturales”, que consisten en buscar 
 pinturas rupestres, hasta las más activas como hacer escalada, excursiones al puente de 
@@ -187,7 +187,7 @@ Una de las “turistadas” habituales es tomar café en el desierto con un bedu
 preparan de forma ceremoniosa, paso a paso, mientras relatan cómo se elabora, las 
 especias que le aportan su aroma, como el cardamomo, y cómo es la vida de un beduino... 
 
-![beduino haciendo cafe desierto jordania](etheria-images/2020/12/Jordania-beduino-cafe-desierto.jpg "Beduino en el desierto preparando café. © Etheria M.")
+![beduino haciendo cafe desierto jordania](https://fotos.etheriamagazine.com/2020/12/Jordania-beduino-cafe-desierto.jpg "Beduino en el desierto preparando café. © Etheria M.")
 
 ### 5\. Mar Muerto, relax y descanso
 
@@ -204,7 +204,7 @@ Algunos hoteles en la orilla del Mar Muerto son Kempinski Hotel Ishtar Dead Sea,
 Mövenpick Resort & Spa Dead Sea, Crowne Plaza Jordan – Dead Sea Resort & Spa o el Hilton 
 Dead Sea. 
 
-![mar muerto de jordania](etheria-images/2020/12/Jordania-Mar-Muerto.jpg "Flotando en el Mar Muerto, en la parte de Jordania. © Etheria M.")
+![mar muerto de jordania](https://fotos.etheriamagazine.com/2020/12/Jordania-Mar-Muerto.jpg "Flotando en el Mar Muerto, en la parte de Jordania. © Etheria M.")
 
 ### ¿Cómo es el procedimiento en el Mar Muerto en la orilla de Jordania?
 
@@ -225,7 +225,7 @@ Aquí terminaría un primer viaje a [Jordania](https://www.visitajordania.com). 
 Mar Muerto te trasladarías de nuevo a Ammán, a sólo 60 kilómetros. No olvides hacer las 
 últimas compras antes de volver a casa. 
 
-![campamento desierto de Wadi Rum jordania](etheria-images/2020/12/Jordania-campamento-Desierto-Wadi-Rum.jpg "Campamento en Wadi Rum (Jordania). © Etheria M.")
+![campamento desierto de Wadi Rum jordania](https://fotos.etheriamagazine.com/2020/12/Jordania-campamento-Desierto-Wadi-Rum.jpg "Campamento en Wadi Rum (Jordania). © Etheria M.")
 
 ## Viajar sola a Jordania
 

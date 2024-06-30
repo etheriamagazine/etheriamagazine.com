@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en Sopot, la ciudad balneario más glamurosa de Polonia"
 date: 2020-12-25
-coverImage: etheria-images/2020/12/sopot-muelle.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/sopot-muelle.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -16,7 +16,7 @@ un refugio de las grandes ciudades. Su animada vida cultural y ese encanto de de
 con clase asomado a la costa lo convierten en un lugar perfecto para escaparse en 
 cualquier momento del año. 
 
-![Atardecer en Sopot.](etheria-images/2020/12/sopot-atardecer.jpg "Atardecer en Sopot.")
+![Atardecer en Sopot.](https://fotos.etheriamagazine.com/2020/12/sopot-atardecer.jpg "Atardecer en Sopot.")
 
 Actualizado en abril de 2024 
 
@@ -34,7 +34,7 @@ de intercambio comercial con sus vecinos del Báltico, atravesó por diversas vi
 históricas y políticas. Fue parte de Prusia, época durante la cual magnates y nobles de 
 Gdansk construyeron en Sopot sus palacetes. 
 
-![Vista del muelle de Sopot, el Molo, y la playa.](etheria-images/2020/12/sopot-muelle.jpg "Vista del muelle de Sopot, el Molo, y la playa.")
+![Vista del muelle de Sopot, el Molo, y la playa.](https://fotos.etheriamagazine.com/2020/12/sopot-muelle.jpg "Vista del muelle de Sopot, el Molo, y la playa.")
 
 Más tarde, ya a principios del siglo XX, fue lugar de descanso del Kaiser Guillermo II 
 de Alemania y de la aristocracia de Varsovia y Berlín. Encontrar aguas subterráneas 
@@ -55,7 +55,7 @@ italiano… Y el bonito **faro de Sopot**, que fue construido en 1903 como parte
 Instituto Balneológico. Hoy día este faro nos sirve para contemplar desde arriba las 
 mejores vistas de la ciudad báltica. 
 
-![Instituto Balneológico de Sopot.](etheria-images/2020/12/Sopot-centro-balneologico.jpg "Instituto Balneológico de Sopot. © O.T. de Polonia")
+![Instituto Balneológico de Sopot.](https://fotos.etheriamagazine.com/2020/12/Sopot-centro-balneologico.jpg "Instituto Balneológico de Sopot. © O.T. de Polonia")
 
 Sin embargo, la arteria principal de Sopot es la calle de los Héroes de Monte Casino 
 –llamada así en honor a la batalla homónima– donde se encuentra la **Casa Torcida**, 
@@ -64,7 +64,7 @@ Szancer (polaco) y Per Dahlberg (sueco). Es un ejemplo vanguardista de la arquit
 contemporánea polaca. Aquí se encuentran, entre otros lugares de ocio, un centro 
 comercial y Radio Muzyka. 
 
-![Casa Torcida.](etheria-images/2020/12/Sopot-casa-torcida.jpg "Casa Torcida. © O.T. de Polonia")
+![Casa Torcida.](https://fotos.etheriamagazine.com/2020/12/Sopot-casa-torcida.jpg "Casa Torcida. © O.T. de Polonia")
 
 ## Gastronomía y vida cultural en Monte Casino
 
@@ -81,7 +81,7 @@ aconsejable **Fisherman**, célebre por su gastronomía marinera y la calidad de
 vinos. La ciruela y la compota de frutas son dos clásicos polacos donde los haya. Para 
 probarlos en deliciosas metamorfosis está el restaurante **Sliwka w Kompot**. 
 
-![Barcos de pesca en Sopot.](etheria-images/2020/12/sopot-barcos.jpg "Barcos de pesca en Sopot.")
+![Barcos de pesca en Sopot.](https://fotos.etheriamagazine.com/2020/12/sopot-barcos.jpg "Barcos de pesca en Sopot.")
 
 No hay lugar de veraneo que no presuma de tener la mejor heladería del mundo. Sopot no 
 iba a ser menos y, sin desviarse de Monte Casino, **Grycan** deleita a sus veraneantes 
@@ -113,7 +113,7 @@ construido como lugar de recreo y punto de amarre para los cruceros que llegan d
 Gdansk. Con sus quinientos metros de longitud es en el muelle de madera más largo de 
 Europa. 
 
-![El Molo, el embarcadero de Sopot.](etheria-images/2020/12/sopot-muelle-molo.jpg "El Molo, el embarcadero de Sopot. © O.T. de Polonia.")
+![El Molo, el embarcadero de Sopot.](https://fotos.etheriamagazine.com/2020/12/sopot-muelle-molo.jpg "El Molo, el embarcadero de Sopot. © O.T. de Polonia.")
 
 Paraje imprescindible para ver y dejarse ver, y contemplar el Báltico, que pasa por 
 diferentes tonos de azules hasta volverse prácticamente negro en días de tormenta. 
@@ -137,7 +137,7 @@ aquella zona y de aquel entonces. También sirvió como cuartel general de Hitle
 la guerra. Llegó a ser receptáculo de reuniones secretas –véase la operación soviética 
 Mewa– y utilizado para motivos mucho más lúdicos e intelectuales. 
 
-![Fachada del Grand Hotel.](etheria-images/2020/12/fachada-grand-hotel-sopot.jpg "Fachada del Grand Hotel.")
+![Fachada del Grand Hotel.](https://fotos.etheriamagazine.com/2020/12/fachada-grand-hotel-sopot.jpg "Fachada del Grand Hotel.")
 
 Era el lugar habitual, el hogar, del **gran compositor y político Ignacy Jan 
 Paderewski** que, tras sus viajes por el mundo, regresaba al Grand Hotel de Sopot. Aquí 
@@ -155,7 +155,7 @@ Castro, gozaron del emblemático Grand Hotel. Un lugar donde socializar a placer
 todo el mundo estaba allí, fuera verano o invierno, el momento en el que por la playa 
 cubierta de hielo patinan los cisnes blancos que contrastan con el agua oscura del mar. 
 
-![Los cisnes pasean por la playa de Sopot.](etheria-images/2020/12/sopot-cisnes.jpg "Los cisnes pasean por la playa de Sopot.")
+![Los cisnes pasean por la playa de Sopot.](https://fotos.etheriamagazine.com/2020/12/sopot-cisnes.jpg "Los cisnes pasean por la playa de Sopot.")
 
 ## Sopot y sus balnearios de lujo
 
@@ -170,7 +170,7 @@ Entre otros hoteles wellness & spa están el **Sopot Marriot Hotel & Spa**, reci
 renovado, con vistas al mar y una magnifica situación cerca de los eventos deportivos y 
 musicales. 
 
-![Sheraton Sopot Hotel y playa de Sopot.](etheria-images/2020/12/Sopot-playa.jpg "Sheraton Sopot Hotel y playa de Sopot. © Oficina de Turismo de Polonia.")
+![Sheraton Sopot Hotel y playa de Sopot.](https://fotos.etheriamagazine.com/2020/12/Sopot-playa.jpg "Sheraton Sopot Hotel y playa de Sopot. © Oficina de Turismo de Polonia.")
 
 También destaca el **Sheraton Sopot Hotel**, sito en la misma playa, al lado del Molo. Y 
 el **hotel Haffner** que, llamado así en honor a aquel que puso a Sopot en el mapa como 

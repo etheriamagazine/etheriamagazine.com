@@ -1,7 +1,7 @@
 ---
 title: "República Checa, un viaje al reino de la fantasía"
 date: 2021-02-26
-coverImage: etheria-images/2021/02/hluboka-nad-vltavou.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/02/hluboka-nad-vltavou.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -12,7 +12,7 @@ authors:
 
 Viajar a la República Checa brinda mil oportunidades para descubrir al niño que llevas dentro en decenas de lugares cargados de magia y romanticismo. Hemos elegido algunos que parecen sacados de un cuento de hadas para tentarte con diez excursiones mágicas desde Praga. ¿Cuántas te gustaría hacer?
 
-![Hluboka nad Vltavou excursiones desde praga](etheria-images/2021/02/hluboka-nad-vltavou.jpg "Castillo de Hluboká nad Vltavou, situado cerca de České Budějovice. © Ladislav Renner")
+![Hluboka nad Vltavou excursiones desde praga](https://fotos.etheriamagazine.com/2021/02/hluboka-nad-vltavou.jpg "Castillo de Hluboká nad Vltavou, situado cerca de České Budějovice. © Ladislav Renner")
 
 Un viaje a la República Checa se puede enfocar de varias maneras, como un recorrido que 
 empiece en Praga y continúe por algunas de sus muchas ciudades históricas y entornos 
@@ -30,7 +30,7 @@ haciendo excursiones? Si optas por la primera alternativa bastará con unir los 
 desarrollados a continuación en el mapa. En caso de que prefieras dormir en la capital, 
 sólo tendrás que consultar la información que aportamos de los siguientes destinos. 
 
-![excursion desde praga Castillo de Krivoklat](etheria-images/2021/02/castillo-krivoklat-republica-checa.jpg "Castillo de Krivoklat. © Ladislav Renner")
+![excursion desde praga Castillo de Krivoklat](https://fotos.etheriamagazine.com/2021/02/castillo-krivoklat-republica-checa.jpg "Castillo de Krivoklat. © Ladislav Renner")
 
 ### 1\. Castillo de Krivoklat
 
@@ -47,7 +47,7 @@ Vltavou](https://www.hluboka.cz/en/).
 **¿Cómo llegar desde Praga al castillo de Krivoklat?** En coche, 1 hora (58 km, D6 y 
 carretera 236). En tren, en 1 hora y 38 minutos. Si vas en autobús, línea 555. 
 
-![puente de fantasia excursion desde praga](etheria-images/2021/02/puente-chequia-dusan-jorkovich.jpg "Puente de Nové Mĕsto nad Metují. © Shuterstock")
+![puente de fantasia excursion desde praga](https://fotos.etheriamagazine.com/2021/02/puente-chequia-dusan-jorkovich.jpg "Puente de Nové Mĕsto nad Metují. © Shuterstock")
 
 ### 2\. Puente de Nové Mĕsto nad Metují
 
@@ -63,7 +63,7 @@ Radhostem](http://www.visitroznov.cz/jurkovicova-rozhledna/gs-1058).
 **¿Cómo llegar desde Praga a Nové Mĕsto nad Metují?** En coche, 1 hora y 45 minutos (150 
 km) En tren, 3 horas y 20 minutos (vía Chocen) 
 
-![excursion desde praga Kromeriz](etheria-images/2021/02/jardines-palacio-Kromeriz.jpg "Jardines de Kroměříž. © Libor Svacek")
+![excursion desde praga Kromeriz](https://fotos.etheriamagazine.com/2021/02/jardines-palacio-Kromeriz.jpg "Jardines de Kroměříž. © Libor Svacek")
 
 ### 3\. Jardines de Kroměříž
 
@@ -79,7 +79,7 @@ bodegas medievales donde se guardaban las reservas de los arzobispos.
 **¿Cómo llegar desde Praga a Kroměříž?** En coche, 2 horas y 30 minutos (268 km por D1) 
 En tren, unas 3 horas (vía Hulin) 
 
-![excursion de olomouc Castillo de Bouzov](etheria-images/2021/02/castillo-Bouzov-excursion-olomouc.jpg "Castillo de Bouzov. © Libor Svacek")
+![excursion de olomouc Castillo de Bouzov](https://fotos.etheriamagazine.com/2021/02/castillo-Bouzov-excursion-olomouc.jpg "Castillo de Bouzov. © Libor Svacek")
 
 ### 4\. Castillo de Bouzov
 
@@ -99,7 +99,7 @@ esta bonita ciudad.
 **¿Cómo llegar desde Praga al castillo de Bouzov?** En coche, unas 3 horas (D11 y 
 carretera 35) En tren, 2 horas y 40 minutos. 
 
-![estacion tren de lednice](etheria-images/2021/02/Estacion-tren-Lednice.jpg "Estación de tren de Lednice. © Uzasna Morava")
+![estacion tren de lednice](https://fotos.etheriamagazine.com/2021/02/Estacion-tren-Lednice.jpg "Estación de tren de Lednice. © Uzasna Morava")
 
 ### 5\. Estación tren de Lednice
 
@@ -114,7 +114,7 @@ cultural de Lednice-Valtice](https://whc.unesco.org/es/list/763).
 **¿Cómo llegar desde Praga a Lednice?** En coche, 2 horas y 20 minutos (255 km, D1-E6) 
 En tren, unas 3 horas y media (vía Breclav) 
 
-![fachadas renacentistas de telc](etheria-images/2021/02/telc-excursion-desde-praga.jpg "Fachadas renacentistas de la Plaza Mayor de Telč. © Ladislav Renner.")
+![fachadas renacentistas de telc](https://fotos.etheriamagazine.com/2021/02/telc-excursion-desde-praga.jpg "Fachadas renacentistas de la Plaza Mayor de Telč. © Ladislav Renner.")
 
 ### 6\. Las fachadas renacentistas de Telč
 
@@ -135,7 +135,7 @@ formando parte de este decorado de cuento de hadas.
 **¿Cómo llegar desde Praga a Telč?** En coche, 1 hora y 40 minutos (160 km, D1/ E65) En 
 tren, 3 horas y 40 minutos (vía Jihlava). 
 
-![Mirador Vyhlidka Maj](etheria-images/2021/02/mirador-Vyhlidka-Maj.jpg "Mirador Vyhlídka Máj. © Jan Fidler")
+![Mirador Vyhlidka Maj](https://fotos.etheriamagazine.com/2021/02/mirador-Vyhlidka-Maj.jpg "Mirador Vyhlídka Máj. © Jan Fidler")
 
 ### 7\. Mirador de Maj, vistas increíbles del Moldava
 
@@ -150,7 +150,7 @@ mirador Bednář, el mirador de Smetana y las cascadas de Teletínské.
 **¿Cómo llegar desde Praga a Teletín?** En coche, 50 minutos (41 km, Ctra. 105) En 
 autobús, 1 hora y 40 minutos (vía Štěchovice) 
 
-![Presa de Lesni Kralovstvi en republica checa](etheria-images/2021/02/presa-checa.jpg "Presa de Lesni Království.")
+![Presa de Lesni Kralovstvi en republica checa](https://fotos.etheriamagazine.com/2021/02/presa-checa.jpg "Presa de Lesni Království.")
 
 ### 8\. Lesni Království, una presa digna de Disneyland
 
@@ -168,7 +168,7 @@ Oriental.
 minutos (145 km, D11) En tren, 3 horas y 25 minutos (vía Pardubice) Si vas en autobús, 3 
 horas y 26 minutos (Praha Florenc-Jaromer Na Spici- Dvůr Králové) 
 
-![palacio cervena excursion desde praga](etheria-images/2021/02/palacio-cervena-lhota.jpg "Palacio de Červená Lhota. © Ladislav Renner")
+![palacio cervena excursion desde praga](https://fotos.etheriamagazine.com/2021/02/palacio-cervena-lhota.jpg "Palacio de Červená Lhota. © Ladislav Renner")
 
 ### 9\. Červená Lhota, el palacio rojo  
 
@@ -184,7 +184,7 @@ navega en una barca de recreo.
 **¿Cómo llegar desde Praga a Kardašova Řečice?** En coche, 1 hora y 20 minutos (120 km, 
 Ctra. 3 y D3) 
 
-![parque Boheminium republica checa](etheria-images/2021/02/Boheminium-republica-checa-familia.jpg "Reproducción del palacio de Český Krumlov en el parque Boheminium. © Lubor Ferenc")
+![parque Boheminium republica checa](https://fotos.etheriamagazine.com/2021/02/Boheminium-republica-checa-familia.jpg "Reproducción del palacio de Český Krumlov en el parque Boheminium. © Lubor Ferenc")
 
 ### 10\. Miniaturas en el Boheminium de Mariánské Lázně
 

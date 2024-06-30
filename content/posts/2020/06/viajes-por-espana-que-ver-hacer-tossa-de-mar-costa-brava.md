@@ -1,7 +1,7 @@
 ---
 title: "Tossa de Mar, secretos de cine en la Costa Brava"
 date: 2020-06-24
-coverImage: etheria-images/2020/06/costa-brava-tossa-mar.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/costa-brava-tossa-mar.jpg
 categories: 
   - viajes-48-horas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Hace más de un siglo, 200 kilómetros de litoral gerundense fueron bautizados como Costa Brava. El escritor Josep Pla prefería llamarla Costa del Coral. Y el pintor Marc Chagall la tituló _Paradis Bleu_. Después de conocer sus bondades y de recorrer Tossa de Mar y alrededores, tú podrás apodarla como consideres más adecuado. Eso sí, previamente conocerás algunos escándalos de cine que te sorprenderán.
 
-![castillo tossa mar, costa brava, viajar sola](etheria-images/2020/06/costa-brava-tossa-mar.jpg "Vista nocturna del castillo de Tossa de Mar. © Pedro Grifol")
+![castillo tossa mar, costa brava, viajar sola](https://fotos.etheriamagazine.com/2020/06/costa-brava-tossa-mar.jpg "Vista nocturna del castillo de Tossa de Mar. © Pedro Grifol")
 
 En un artículo del periodista y poeta Ferrán Agulló, publicado en _La Veu de Catalunya_ 
 hace más de un siglo, apareció por primera vez el término **Costa Brava**; aunque la 
@@ -31,7 +31,7 @@ conserva toda su gran belleza y todo su incentivo de fascinación intacto_". Est
 palabras, transcurridos los tres últimos meses, siguen vigentes; claro que, en este 
 caso, la mano del hombre no ha sido la culpable. 
 
-![tossa de mar, costa brava](etheria-images/2020/06/calles-tossa-de-Mar.jpg "Calles de Tossa de Mar. © P. Grifol")
+![tossa de mar, costa brava](https://fotos.etheriamagazine.com/2020/06/calles-tossa-de-Mar.jpg "Calles de Tossa de Mar. © P. Grifol")
 
 ## La Costa Brava, deseada desde la antigüedad
 
@@ -51,7 +51,7 @@ costa, que infringen carácter y pintoresquismo al litoral. Entre ellos, destaca
 magnificencia el **castillo de la villa marinera de Tossa de Mar**, de almenadas 
 murallas y robustas torres. 
 
-![Ava Gardner, tossa de mar, costa brava](etheria-images/2020/06/Ava-Gardner-tossa-mar.jpg "Escultura de Ava Gardner, de Ció Abellí en Tossa de Mar. © P. Grifol")
+![Ava Gardner, tossa de mar, costa brava](https://fotos.etheriamagazine.com/2020/06/Ava-Gardner-tossa-mar.jpg "Escultura de Ava Gardner, de Ció Abellí en Tossa de Mar. © P. Grifol")
 
 ## Escándalos en la Costa Brava
 
@@ -67,7 +67,7 @@ aquellos tiempos, que marcaron el desarrollo turístico de Tossa de Mar, queda u
 **escultura de bronce** que representa a la 'Ava-Pandora' de la película, que contempla 
 el mar desde lo alto de la Vila Vella. 
 
-![pandora y el Holandes errante, tossa de mar, costa brava](etheria-images/2020/06/tossa-mar-pandora-y-el-holandes-errante.jpg "'Pandora y el holandés errante' filmado en Tossa de Mar.")
+![pandora y el Holandes errante, tossa de mar, costa brava](https://fotos.etheriamagazine.com/2020/06/tossa-mar-pandora-y-el-holandes-errante.jpg "'Pandora y el holandés errante' filmado en Tossa de Mar.")
 
 ## Qué hacer en Tossa de Mar
 
@@ -80,7 +80,7 @@ en una población que en invierno no sobrepasa los 4.000 residentes.
 > obras de pintores extranjeros como Chagall y Kars, y de lugareños como Créixams y 
 > Domingo. 
 
-![platja gran, playa grande, Tossa de Mar, costa brava](etheria-images/2020/06/Platja-Gran-tossa-mar.jpg "Playa Grande vista desde el castillo. © P. Grifol")
+![platja gran, playa grande, Tossa de Mar, costa brava](https://fotos.etheriamagazine.com/2020/06/Platja-Gran-tossa-mar.jpg "Playa Grande vista desde el castillo. © P. Grifol")
 
 Probablemente **la Playa Grande** se quede un poco pequeña cuando en verano se toman 
 medidas pandémicas... Se prohíbe que haya vendedores ambulantes que interrumpan los 
@@ -88,7 +88,7 @@ besos al sol; y tampoco habrá ingenios motorizados en el agua que atemoricen a 
 bañistas. Sólo de noche despegarán algunas luciérnagas (a pilas) venidas de China, que 
 sobrevolarán las terrazas del paseo marítimo. 
 
-![castillo, tossa de mar, costa brava](etheria-images/2020/06/Tossa-de-Mar-castillo.jpg "Castillo de Tossa de Mar. © P. Grifol")
+![castillo, tossa de mar, costa brava](https://fotos.etheriamagazine.com/2020/06/Tossa-de-Mar-castillo.jpg "Castillo de Tossa de Mar. © P. Grifol")
 
 ### El castillo de Tossa de Mar
 
@@ -101,7 +101,7 @@ el trazado original de callejuelas empedradas, con casas de piedra y argamasa ad
 la muralla y transformadas hoy en día en viviendas de lujo –algunas destinadas al 
 alquiler para verano– que dan un peculiar carácter a la **Villa Vieja**. 
 
-![tossa de mar, costa brava](etheria-images/2020/06/Tossa-de-Mar-paseo.jpg "Calle del casco histórico de Tossa de Mar. © P. Grifol")
+![tossa de mar, costa brava](https://fotos.etheriamagazine.com/2020/06/Tossa-de-Mar-paseo.jpg "Calle del casco histórico de Tossa de Mar. © P. Grifol")
 
 Desde lo alto de la torre dominante, el paisaje no puede ser más inspirador, el 'paraíso 
 azul' que decía Chagall. Los pinos aferrados sobre afiladas rocas parecen precipitarse 
@@ -110,7 +110,7 @@ probablemente veían los piratas de otros tiempos. Bajo el promontorio aparece l
 de Es** **Codolar**, el **antiguo puerto pesquero de Tossa**, donde aun hoy en día 
 duermen algunas barquitas que salen a faenar de noche. 
 
-![tossa de mar, cala es codolar, costa brava](etheria-images/2020/06/tossa-mar-Cala-Es-Codolar.jpg "Cala Es Codolar, en Tossa de Mar. © P. Grifol")
+![tossa de mar, cala es codolar, costa brava](https://fotos.etheriamagazine.com/2020/06/tossa-mar-Cala-Es-Codolar.jpg "Cala Es Codolar, en Tossa de Mar. © P. Grifol")
 
 Cuando abandonemos el recinto amurallado por el patio de Armas y atravesemos el arco 
 dovelado junto a la **torre de las Horas**, nos encontraremos de lleno en las calles del 
@@ -128,7 +128,7 @@ para y nos ilustra sobre quién fue la doble de Ava Gardner en 'Pandora'.
 
 > Tossa de Mar, en la genuina Costa Brava, no ha cambiado tanto. El poeta Pla tenía razón. 
 
-![can Carlus, Costa Brava, Tossa de mar, mar y montana](etheria-images/2020/06/tossa-Mar-i-muntanya-Can-Carlus.jpg "'Mar i muntanya' de Can Carlus. © P. Grifol")
+![can Carlus, Costa Brava, Tossa de mar, mar y montana](https://fotos.etheriamagazine.com/2020/06/tossa-Mar-i-muntanya-Can-Carlus.jpg "'Mar i muntanya' de Can Carlus. © P. Grifol")
 
 ## Mar y montaña, un legado culinario
 
@@ -140,7 +140,7 @@ peculiaridad; la de Tossa es 'pollo con cigalas'. "Cada vez que sale de la cocin
 surrealista combinación, los ángeles salen con trompetas", en palabras del restaurador [Carlus, 
 de Can Carlus](https://www.cancarlustossa.es). 
 
-![Cala Giverola, costa brava, tossa de mar](etheria-images/2020/06/tossa-mar-Cala-Giverola.jpg "Cala Giverola, en Costa Brava. © P. Grifol")
+![Cala Giverola, costa brava, tossa de mar](https://fotos.etheriamagazine.com/2020/06/tossa-mar-Cala-Giverola.jpg "Cala Giverola, en Costa Brava. © P. Grifol")
 
 ## La carretera de los días del año
 
@@ -151,7 +151,7 @@ imponentes y se adivina el rosario de calas entre los acantilados. Desde abajo, 
 ir a pie o en barca para descubrir las calas semiocultas y las grutas escondidas entre 
 rocas, como la **cueva de Cala Bona** y la cueva D'es Bergantí. 
 
-![cala bona, cueva, costa brava, tossa de mar](etheria-images/2020/06/tossa-mar-Cova-de-Cala-Bona.jpg "Cueva de cala Bona. © P. Grifol")
+![cala bona, cueva, costa brava, tossa de mar](https://fotos.etheriamagazine.com/2020/06/tossa-mar-Cova-de-Cala-Bona.jpg "Cueva de cala Bona. © P. Grifol")
 
 Desde Tossa podemos caminar hasta **Cala Pola** por entre pinares, darnos un chapuzón y 
 seguir en barca hasta **Cala Giverola**, una playa ancha y cerrada entre montañas que 
@@ -180,7 +180,7 @@ está decorada con una peculiar colección de grabados eróticos decimonónicos,
 juzgar por lo que dice Montserrat, su actual propietaria, tienen mucho éxito entre la 
 clientela. 
 
-![hotel diana, tossa de mar, viajar sola](etheria-images/2020/06/Tossa-de-Mar-Hotel-Diana.jpg "Hotel Diana, en Tossa de Mar. © P. Grifol")
+![hotel diana, tossa de mar, viajar sola](https://fotos.etheriamagazine.com/2020/06/Tossa-de-Mar-Hotel-Diana.jpg "Hotel Diana, en Tossa de Mar. © P. Grifol")
 
 **• Hotel Diana**. Ubicado en la Casa Sans, es la construcción más representativa de las 
 casas de los indianos. De estilo claramente colonial conserva sus vidrieras modernistas 
@@ -193,7 +193,7 @@ al mar.
 ya que está construido sobre la playa de Mar Menuda. Todas sus habitaciones dan al mar. 
 Precios acordes con sus prestaciones, aunque varían cada semana de verano. 
 
-![mar menuda, tossa mar, costa brava](etheria-images/2020/06/Platja-de-Mar-Menuda-tossa.jpg "Playa de Mar Menuda, en Tossa de Mar. © P. Grifol")
+![mar menuda, tossa mar, costa brava](https://fotos.etheriamagazine.com/2020/06/Platja-de-Mar-Menuda-tossa.jpg "Playa de Mar Menuda, en Tossa de Mar. © P. Grifol")
 
 ##### Más información de la Costa Brava
 

@@ -1,7 +1,7 @@
 ---
 title: "10 viajes a Baleares y Canarias para desconectar"
 date: 2020-09-16
-coverImage: etheria-images/2020/04/playa-ses-illetes-formentera.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -16,7 +16,7 @@ muy marcada y, en su interior, cada isla tiene su propia personalidad, que manif
 sus paisajes, folclore y gastronomía. Te animamos a descubrirlas con estas 10 escapadas 
 perfectas para realizar todo el año y con quien quieras. 
 
-![mar de Ibiza en cala Conta](etheria-images/2018/05/Ibiza-cala-conta_NC_2-1024x768.jpg "Cala Conta en Ibiza.")
+![mar de Ibiza en cala Conta](https://fotos.etheriamagazine.com/2018/05/Ibiza-cala-conta_NC_2-1024x768.jpg "Cala Conta en Ibiza.")
 
 Cuando llega el momento de elegir el destino de las vacaciones hay que tener muy en 
 cuenta a las islas españolas. Los viajes a Baleares y Canarias son siempre un buen plan: 
@@ -34,7 +34,7 @@ Canaria](https://etheriamagazine.com/2018/05/03/mujeres-viajeras-gran-canaria/) 
 descubrir con bonitas rutas de senderismo sus paisajes volcánicos y sus cumbres más 
 altas. 
 
-![Bosque en Gran Canaria.](etheria-images/2018/05/gran-canaria-bosque.jpg "Bosque en Gran Canaria.")
+![Bosque en Gran Canaria.](https://fotos.etheriamagazine.com/2018/05/gran-canaria-bosque.jpg "Bosque en Gran Canaria.")
 
 ## Formentera, la isla tranquila
 
@@ -47,7 +47,7 @@ cuáles son los mejores lugares para ir de [compras en la
 isla](https://etheriamagazine.com/2018/07/06/de-compras-en-formentera/). Apetece, 
 ¿verdad? 
 
-![islas de la playa Ses Illetes en Formentera](etheria-images/2020/04/playa-ses-illetes-formentera.jpg "Playa Ses Illetes (Formentera).")
+![islas de la playa Ses Illetes en Formentera](https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera.jpg "Playa Ses Illetes (Formentera).")
 
 ## Ruta de cine por El Hierro
 
@@ -57,7 +57,7 @@ para recorrer alguno de sus escenarios. La isla situada más al sur del archipi�
 ofrece paisajes misteriosos, sus famosas sabinas retorcidas y un paisaje negro volcánico 
 que contrasta con los bosques de laurisilva. No podrás dejar de hacer fotos. 
 
-![mar y acantilados en la isla de El Hierro.](etheria-images/2019/10/serie-hierro.jpg "Acantilados en la isla de El Hierro.")
+![mar y acantilados en la isla de El Hierro.](https://fotos.etheriamagazine.com/2019/10/serie-hierro.jpg "Acantilados en la isla de El Hierro.")
 
 ## Menorca y sus playas turquesas
 
@@ -70,7 +70,7 @@ temporada](https://etheriamagazine.com/2018/11/05/15-tips-para-disfrutar-de-meno
 Es imposible que con todas estas recomendaciones no saques a esta isla todo el partido 
 que se merece. 
 
-![barcos frente a la Cala Macarella en Menorca](etheria-images/2020/08/playa-menorca-Macarella.jpg "Cala Macarella (Menorca).")
+![barcos frente a la Cala Macarella en Menorca](https://fotos.etheriamagazine.com/2020/08/playa-menorca-Macarella.jpg "Cala Macarella (Menorca).")
 
 ## Descubre la dulzura de La Orotava
 
@@ -82,7 +82,7 @@ Victoria, el Jardín Hijuela del Botánico, Villa Arriba, la Casa Salazar o la i
 la Concepción. Un lugar imprescindible si visitas Tenerife que te sorprenderá en cada 
 esquina. 
 
-![edificios de La Orotava](etheria-images/2020/06/orotava-iglesia-concepcion.jpg "Bello conjunto arquitectónico de La Orotava con las cúpulas de la iglesia de la Concepción. © M. Munar")
+![edificios de La Orotava](https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion.jpg "Bello conjunto arquitectónico de La Orotava con las cúpulas de la iglesia de la Concepción. © M. Munar")
 
 ## Mallorca en familia o con amigas
 
@@ -96,7 +96,7 @@ Mallorca](https://etheriamagazine.com/2021/06/02/planes-y-excursiones-desde-palm
 y no puedes perderte sus tiendas y mercados. Además, podéis seguir los pasos de George 
 Sands o realizar una ruta enoturistica por la isla. 
 
-![Barcos en el Puerto de Soller](etheria-images/2020/06/Mallorca-puerto-soller.jpg "Puerto de Sóller (Mallorca).")
+![Barcos en el Puerto de Soller](https://fotos.etheriamagazine.com/2020/06/Mallorca-puerto-soller.jpg "Puerto de Sóller (Mallorca).")
 
 ## Planes imprescindibles si viajas sola o con amigas a Lanzarote
 
@@ -107,7 +107,7 @@ como descubrir sus parques naturales, los Jameos del Agua o la Cueva de los Verd
 también merece la pena recorrer la ruta de César Manrique o realizar una ruta de vinos 
 para degustar los deliciosos caldos del país. ¡Imposible aburrirse! 
 
-![Casas blancas de Yaiza, en Lanzarote.](etheria-images/2018/09/Yaiza-Centro-Pueblo-Lanzarote-e1591966966362.jpg "Casas blancas de Yaiza, en Lanzarote.")
+![Casas blancas de Yaiza, en Lanzarote.](https://fotos.etheriamagazine.com/2018/09/Yaiza-Centro-Pueblo-Lanzarote-e1591966966362.jpg "Casas blancas de Yaiza, en Lanzarote.")
 
 ## La Palma, la isla más adictiva y alternativa de Canarias
 
@@ -123,7 +123,7 @@ Con el artículo [Los indianos, cuando La Palma se disfraza de
 Cuba](https://etheriamagazine.com/2020/02/03/que-hacer-en-los-indianos-el-carnaval-de-la-palma/) 
 te explicamos una de sus tradiciones más singulares. ¿Te vienes? 
 
-![persona mirando el paisaje en el Parque Nacional de la Caldera de Taburiente en la isla de La Palma.](etheria-images/2019/03/viajar-sola-la-palma-taburiente.jpg "Ruta por el Parque Nacional de la Caldera de Taburiente en la isla de La Palma. © KR")
+![persona mirando el paisaje en el Parque Nacional de la Caldera de Taburiente en la isla de La Palma.](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-taburiente.jpg "Ruta por el Parque Nacional de la Caldera de Taburiente en la isla de La Palma. © KR")
 
 ## Ibiza, un viaje con amigas imprescindible
 
@@ -137,7 +137,7 @@ para que aciertes seguro en una cena para dos. En cualquier caso, una parada obl
 Sant Josep de Sa Talaia. Y no olvides que [Ibiza en invierno también merece una 
 escapada](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-invierno/). 
 
-![Mujer bañándose en Cala Conta, en Ibiza.](etheria-images/2018/05/Ibiza-cala-conta_NC-e1551949167957.jpg "Cala Conta, en Ibiza.")
+![Mujer bañándose en Cala Conta, en Ibiza.](https://fotos.etheriamagazine.com/2018/05/Ibiza-cala-conta_NC-e1551949167957.jpg "Cala Conta, en Ibiza.")
 
 ## El sur de Tenerife con niños
 
@@ -151,4 +151,4 @@ amigas también tenemos unas cuantas recomendaciones que hacerte en nuestro art�
 planes para un viaje a Tenerife con 
 amigas](https://etheriamagazine.com/2020/03/06/excursiones-en-familia-desde-el-sur-de-tenerife-con-ninos/). 
 
-![niños paseando por el paisaje rocoso de las Cañadas del Teide.](etheria-images/2020/02/Tenerife-canadas-Teide.jpg "Paseo por las Cañadas del Teide, un plan perfecto en Tenerife para hacer con niños. © SG")
+![niños paseando por el paisaje rocoso de las Cañadas del Teide.](https://fotos.etheriamagazine.com/2020/02/Tenerife-canadas-Teide.jpg "Paseo por las Cañadas del Teide, un plan perfecto en Tenerife para hacer con niños. © SG")

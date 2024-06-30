@@ -1,7 +1,7 @@
 ---
 title: "Dos días en El Cairo, entre la historia y el caos"
 date: 2023-08-16
-coverImage: etheria-images/2023/08/egipto-cairo-piramides-kefren-chicas.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -15,7 +15,7 @@ permanecer atento a cómo transcurre la vida cotidiana a través de la ventanill
 artículo te contamos cómo organizar un viaje a El Cairo si sólo dispones de dos días 
 para que no te pierdas nada de lo fundamental. 
 
-![Pirámide de Kefren en Giza](etheria-images/2023/08/egipto-cairo-piramides-kefren-chicas.jpg "Pirámide de Khafa (Kefren). © Susana García")
+![Pirámide de Kefren en Giza](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg "Pirámide de Khafa (Kefren). © Susana García")
 
 El Cairo es desorden, polvo, gente por todas partes, motocicletas que rebasan y cruzan 
 tu coche entrelazándose en una coreografía imposible… Pero también es cultura, arte y la 
@@ -33,7 +33,7 @@ torno a la **Corniche** (la zona que rodea al Nilo en torno a los principales ho
 esta ciudad con sus veinte millones de habitantes (la más poblada de África) es, en 
 general, un auténtico enigma para el occidental. 
 
-![Calle del Barrio Copto de El Cairo.](etheria-images/2023/08/egipto-el-cairo-barrio-coptopuesto-1.jpg "Calle del Barrio Copto de El Cairo. © Susana García")
+![Calle del Barrio Copto de El Cairo.](https://fotos.etheriamagazine.com/2023/08/egipto-el-cairo-barrio-coptopuesto-1.jpg "Calle del Barrio Copto de El Cairo. © Susana García")
 
 ## Una ciudad blindada
 
@@ -78,7 +78,7 @@ en los alrededores de las pirámides. Fíjate en lo alto de la **pirámide de Kh
 es la única que conserva parte del revestimiento original; y en la de **Menkaura**, la 
 más pequeña pero la más compleja a nivel interno. 
 
-![Las pirámides desde 9 Pyramids Lounge](etheria-images/2023/08/cairo-giza-lounge-pyramids.jpg "Las pirámides desde 9 Pyramids Lounge. © SG")
+![Las pirámides desde 9 Pyramids Lounge](https://fotos.etheriamagazine.com/2023/08/cairo-giza-lounge-pyramids.jpg "Las pirámides desde 9 Pyramids Lounge. © SG")
 
 ✅ **Imprescindible**: no dejes de tomar algo en **9 Pyramids Lounge**. Es un 
 bar-restaurante situado a las afueras del complejo arqueológico con unas vistas 
@@ -97,7 +97,7 @@ los flashes y miradas. A lo lejos verás la famosa **Estela del Sueño** que gua
 Esfinge entre sus patas: fue añadida mucho después de su construcción por el rey 
 Tutmosis IV (Dinastía XVIII) para agradecer su coronación. 
 
-![La Gran Esfinge de Giza](etheria-images/2023/08/el-cairo-gran-esfinge.jpg "Fotos a la Gran Esfinge. © Susana García")
+![La Gran Esfinge de Giza](https://fotos.etheriamagazine.com/2023/08/el-cairo-gran-esfinge.jpg "Fotos a la Gran Esfinge. © Susana García")
 
 ### Saqqara y las tumbas de los nobles
 
@@ -110,7 +110,7 @@ responde al **culto estelar**, que precedió al posterior culto solar egipcio; a
 recinto está orientado de sur (origen de la crecida del Nilo) y norte (donde brillan las 
 estrellas circumpolares). 
 
-![Pirámide escalonada de Zoser en Saqqara](etheria-images/2023/08/egipto-cairo-saqara-piramide-escalonada.jpg "Pirámide escalonada de Zoser. © SG")
+![Pirámide escalonada de Zoser en Saqqara](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-saqara-piramide-escalonada.jpg "Pirámide escalonada de Zoser. © SG")
 
 Pero, en este enorme yacimiento arqueológico a las afueras de El Cairo, hay que dedicar 
 tiempo a descubrir alguna de las t**umbas de los nobles y sacerdotes** que allí fueron 
@@ -123,7 +123,7 @@ del Nilo. Además, conservan parte del color que recubría los relieves y permit
 mejor una idea de la policromía que imperaba en un mundo que nos ha llegado monocolor 
 por el paso del tiempo. 
 
-![Relieves en la tuma de Kagmeni.](etheria-images/2023/08/egipto-cairo-tumba-kagmeni-relieves.jpg "Escena de pesca en los relieves en la tuma de Kagmeni. © SG")
+![Relieves en la tuma de Kagmeni.](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-tumba-kagmeni-relieves.jpg "Escena de pesca en los relieves en la tuma de Kagmeni. © SG")
 
 ✅ Algunas de las imprescindibles son la **tumba de Kagemni**, visir del rey Teti, que 
 alberga una deliciosa colección de relieves; la de **Nikauisesi**, del mismo periodo, 
@@ -141,7 +141,7 @@ Mientras, se sigue paseando como si tal cosa entre esta desordenada colección d
 del Antiguo Egipto, la más grande del mundo a pesar del expolio continuo que sufrió el 
 país por parte de diferentes potencias europeas. 
 
-![Sala central del Museo Egipcio de El Cairo](etheria-images/2023/08/egipto-cairo-museo-egipcio-hall.jpg "Sala central del Museo Egipcio de El Cairo. © Susana García")
+![Sala central del Museo Egipcio de El Cairo](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-museo-egipcio-hall.jpg "Sala central del Museo Egipcio de El Cairo. © Susana García")
 
 Es un museo que merece la explicación de un guía especializado para exprimir al máximo 
 la visita, ya que se corre el riesgo de vagar durante horas sin rumbo entre estatuas de 
@@ -153,7 +153,7 @@ paleta de Narmer, las estatuas de Rahotep y su esposa Nofret, la estatua del far
 Khafra (Kefren) o la triada de Menkaura (Micerino). Las principales piezas del **tesoro 
 de Tukankamón** ya se han ido trasladando al nuevo museo. 
 
-![Triada de Menkaura y estatuas de Rahotep y su esposa Nofret](etheria-images/2023/08/egipto-cairo-museo-egipcio-piezas.jpg "Triada de Menkaura y estatuas de Rahotep y su esposa Nofret. © SG")
+![Triada de Menkaura y estatuas de Rahotep y su esposa Nofret](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-museo-egipcio-piezas.jpg "Triada de Menkaura y estatuas de Rahotep y su esposa Nofret. © SG")
 
 ### La Ciudadela de Saladino
 
@@ -164,7 +164,7 @@ de los gobernantes egipcios hasta el siglo XIX. Alberga varios edificios y es un
 esos lugares que han quedado para el conocimiento de la historia, pero al margen del 
 pulso de la ciudad. 
 
-![mezquita de la ciudadela de Saladino en El Cairo](etheria-images/2023/08/egipto-cairo-mezquita-saladino.jpg "Ciudadela de Saladino. © SG")
+![mezquita de la ciudadela de Saladino en El Cairo](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-mezquita-saladino.jpg "Ciudadela de Saladino. © SG")
 
 En cualquier caso, la **mezquita de Muhammad Ali**, conocida como la Mezquita de 
 Alabastro, situada dentro de la Ciudadela, es uno de esos edificios cuyo interior 
@@ -177,7 +177,7 @@ Felipe de Francia a Mehmet Ali, a cambio nada más y nada menos que de uno de lo
 obeliscos del templo de Luxor y que hoy luce en la plaza de la Concordia de París. Este 
 reloj no ha funcionado jamás. 
 
-![Mezquita de Alabastro en El Cairo](etheria-images/2023/08/egipto-cairo-interior-mezquita-saladino.jpg "Mezquita de Muhammad Ali. © Susana García")
+![Mezquita de Alabastro en El Cairo](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-interior-mezquita-saladino.jpg "Mezquita de Muhammad Ali. © Susana García")
 
 ### El barrio copto
 
@@ -189,7 +189,7 @@ siglo III y se escribe en alfabeto griego. Así que, si tienes la suerte de visi
 de las iglesias mientras se celebra una misa o ceremonia, dedica un rato a captar 
 también a través del oído parte de la historia milenaria de este país. 
 
-![Interior de la iglesia de San Sergio y San Baco en El Cairo](etheria-images/2023/08/egipto-cairo-barrio-copto-iglesia-sergio-baco.jpg "Interior de la iglesia de San Sergio y San Baco. © Susana García")
+![Interior de la iglesia de San Sergio y San Baco en El Cairo](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-barrio-copto-iglesia-sergio-baco.jpg "Interior de la iglesia de San Sergio y San Baco. © Susana García")
 
 En el paseo por este singular barrio no puede faltar una visita a la **iglesia de San 
 Sergio y San Baco**, la más antigua, donde se dice que estaba la cueva de la Sagrada 
@@ -206,7 +206,7 @@ partes del mundo en busca de algún tesoro escondido en forma de _souvenir_. Hay
 producción en serie y puestos repetidos, pero también se pueden encontrar piezas de 
 decoración interesante y joyas de oro y plata. 
 
-![objetos en Tienda en el Gran Bazar de Khan Khalili en El Cairo](etheria-images/2023/08/egipto-cairo-bazar-khan-khalili.jpg "Tienda en el Gran Bazar de Khan Khalili. © SG")
+![objetos en Tienda en el Gran Bazar de Khan Khalili en El Cairo](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-bazar-khan-khalili.jpg "Tienda en el Gran Bazar de Khan Khalili. © SG")
 
 Es un lugar entretenido, donde rápidamente tratarán de captar tu atención con todo tipo 
 de señuelos y frases en español para iniciar un regateo que desencadene en venta. Sólo 
@@ -253,7 +253,7 @@ llevar un par de pareos o fulares en la mochila para cubrirte cuando sea necesar
 Este artículo te ayudará: [Qué llevar en la maleta en un viaje a 
 Egipto](https://etheriamagazine.com/2023/02/01/que-llevar-en-la-maleta-egipto/). 
 
-![Gran Bazar Khan el-Khalili en El Cairo](etheria-images/2023/08/egipto-cairo-bazar-khan-khalili-calle.jpg "Gran Bazar Khan el-Khalili. © SG")
+![Gran Bazar Khan el-Khalili en El Cairo](https://fotos.etheriamagazine.com/2023/08/egipto-cairo-bazar-khan-khalili-calle.jpg "Gran Bazar Khan el-Khalili. © SG")
 
 ### ¿Es peligroso visitar El Cairo?
 

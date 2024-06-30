@@ -1,7 +1,7 @@
 ---
 title: "Ruta Saritísima por Campo de Criptana"
 date: 2019-04-08
-coverImage: etheria-images/2019/04/Sara-montiel-campo-criptana.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/Sara-montiel-campo-criptana.jpg
 categories: 
   - viajes-con-amigas
   - historias-en-femenino
@@ -14,7 +14,7 @@ Pocos lugares rinden homenajes tan incondicionales como Campo de Criptana lo hac
 Montiel. Realizamos un recorrido por sus calles fijándonos en sus iconos históricos, 
 gastronómicos y en las huellas que nos dejó la diva del cuplé. 
 
-![Museo de Sara Montiel en Campo de Criptana.](etheria-images/2019/04/Sara-montiel-campo-criptana.jpg "Museo de Sara Montiel en Campo de Criptana.")
+![Museo de Sara Montiel en Campo de Criptana.](https://fotos.etheriamagazine.com/2019/04/Sara-montiel-campo-criptana.jpg "Museo de Sara Montiel en Campo de Criptana.")
 
 \*Actualizado en enero de 2023. 
 
@@ -32,7 +32,7 @@ mismo se siente castizo, que cosmopolita, que **cañí o moderno**.
 
 > ¿En qué medida la actriz nació a imagen y semejanza de su pueblo? 
 
-![Campo de Criptana.](etheria-images/2019/04/campo-criptana-bola-discoteca.jpg "Campo de Criptana. © K.R.")
+![Campo de Criptana.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-bola-discoteca.jpg "Campo de Criptana. © K.R.")
 
 Con permiso del también criptanense **Luis Cobos** —director de orquesta que popularizó 
 la música clásica y la Zarzuela gracias a unos innovadores arreglos no exentos de 
@@ -54,7 +54,7 @@ la cultura nipona**.
 > La ruta País del Quijote nos introduce en los escenarios reales por los que caminaba 
 > nuestro personaje de ficción cervantino más universal. 
 
-![La cantante Rosalía ha protagonizado uno de sus videoclips entre los molinos de Campo de Criptana.](etheria-images/2019/04/campo-criptana-molinos.jpg "La cantante Rosalía ha protagonizado uno de sus videoclips entre los molinos de Campo de Criptana. © K.R.")
+![La cantante Rosalía ha protagonizado uno de sus videoclips entre los molinos de Campo de Criptana.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-molinos.jpg "La cantante Rosalía ha protagonizado uno de sus videoclips entre los molinos de Campo de Criptana. © K.R.")
 
 Una vez al mes, las aspas y los engranajes del Burleta se ponen de nuevo en 
 funcionamiento para ilustrar cómo se efectuaba la **molienda tradicional de trigo y 
@@ -63,7 +63,7 @@ Criptana](https://www.campodecriptana.info/) puedes informarte de cuándo serán
 próximas citas de este espectáculo visual y sonoro. El estruendo que generan los 
 engranajes llama especialmente la atención. 
 
-![Piezas del interior del molino Burleta, en Campo de Criptana.](etheria-images/2019/04/campo-criptana-molino-burlaque.jpg "Piezas del interior del molino Burleta, en Campo de Criptana. © K.R.")
+![Piezas del interior del molino Burleta, en Campo de Criptana.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-molino-burlaque.jpg "Piezas del interior del molino Burleta, en Campo de Criptana. © K.R.")
 
 ## El Culebro
 
@@ -79,7 +79,7 @@ El museo repasa la trayectoria profesional de la artista obviando la última eta
 vida y sus últimas apariciones televisivas, consideradas, en muchos casos, un tanto 
 polémicas. 
 
-![El Museo Sara Montiel fue inaugurado en el año 2008.](etheria-images/2019/04/campo-criptana-museo-sara-montiel.jpg "El Museo Sara Montiel fue inaugurado en el año 2008. © K.R.")
+![El Museo Sara Montiel fue inaugurado en el año 2008.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-museo-sara-montiel.jpg "El Museo Sara Montiel fue inaugurado en el año 2008. © K.R.")
 
 ## El Albaicín Criptano
 
@@ -92,7 +92,7 @@ y a los [Pueblos Blancos de
 Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/), 
 pero con los encantos propios de Castilla-La Mancha. 
 
-![Albaicín Criptano.](etheria-images/2019/04/campo-criptana-albaicin-molinos.jpg "Albaicín Criptano. © Sergio Sánchez M.")
+![Albaicín Criptano.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-albaicin-molinos.jpg "Albaicín Criptano. © Sergio Sánchez M.")
 
 Si con este nombre todavía no te ha venido a la mente el Albaicín de Granada, cuando te 
 encuentres con las casas-cueva que alberga, los relacionarás irremediablemente. Puedes 
@@ -103,7 +103,7 @@ carácter etnográfico, pues servían como silo y refugio para el ganado.
 > transformado en coquetos restaurantes que reinterpretan clásicos gastronómicos 
 > manchegos. 
 
-![Mural de dos ancianas junto a la entrada de Las Musas.](etheria-images/2019/04/campo-criptana-grafiti-las-musas.jpg "Mural junto a la entrada de Las Musas. © Miguel Calatayud")
+![Mural de dos ancianas junto a la entrada de Las Musas.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-grafiti-las-musas.jpg "Mural junto a la entrada de Las Musas. © Miguel Calatayud")
 
 ### Una población blanca por un buen motivo
 
@@ -119,7 +119,7 @@ para disimular el deterioro y las manchas que dejaba el paso de animales y carru
 la parte más cercana al suelo. ¿El resultado? Un **casco histórico de lo más 
 fotogénico**. 
 
-![El color añil es uno de los sellos característicos de las calles criptanenses.](etheria-images/2019/04/campo-criptana-albaicin.jpg "El color añil es uno de los sellos característicos de las calles criptanenses. © José Antonio Manzanares")
+![El color añil es uno de los sellos característicos de las calles criptanenses.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-albaicin.jpg "El color añil es uno de los sellos característicos de las calles criptanenses. © José Antonio Manzanares")
 
 ## Más homenajes a la actriz
 
@@ -134,7 +134,7 @@ consideró, en todos los sentidos, una **mujer liberada**.
 > Durante la inauguración de la estatua (año 2008), Sara Montiel se dirigió a sus vecinos 
 > con un “A seguir viviendo, porque vivir es un placer genial y sensual”. 
 
-![Estatua de Sara Montiel y placa conmemorativa de la casa donde nació.](etheria-images/2019/04/campo-criptana-estatua-sara-montiel.jpg "Estatua de Sara Montiel y placa conmemorativa de la casa donde nació. © K.R.")
+![Estatua de Sara Montiel y placa conmemorativa de la casa donde nació.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-estatua-sara-montiel.jpg "Estatua de Sara Montiel y placa conmemorativa de la casa donde nació. © K.R.")
 
 Otra pequeña placa en una discreta vivienda indica el lugar en el que nació María 
 Antonia Alejandra Vicenta Elpidia Isidora Aurelia Esther Dolores Abad Fernández, alias 
@@ -152,7 +152,7 @@ de sus recetas estrella sea la de **las gachas**, una preparación basada en la 
 almortas. El **pisto manchego** completa este tridente gastronómico tan contundente y 
 delicioso que no puedes dejar escapar. 
 
-![Gachas manchegas de Las Musas.](etheria-images/2019/04/campo-criptana-gachas-manchegas.jpg "Gachas manchegas de Las Musas. © Miguel Calatayud")
+![Gachas manchegas de Las Musas.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-gachas-manchegas.jpg "Gachas manchegas de Las Musas. © Miguel Calatayud")
 
 ## Ruta de vinos manchegos
 

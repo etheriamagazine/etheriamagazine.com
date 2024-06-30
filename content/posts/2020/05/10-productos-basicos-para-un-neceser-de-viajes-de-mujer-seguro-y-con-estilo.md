@@ -1,7 +1,7 @@
 ---
 title: "10 productos para un neceser de viaje seguro y con estilo"
 date: 2020-05-25
-coverImage: etheria-images/2020/05/neceser-de-viaje-mujer.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/neceser-de-viaje-mujer.jpg
 categories: 
   - organiza-tu-viaje
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Pronto volveremos a viajar, y si hay algo en lo que pensaremos antes de hacerlo es en la seguridad, la higiene y la comodidad. En este artículo compartimos 8 imprescindibles para un neceser de viajes seguro y con estilo para las escapadas que se avecinan.
 
-![neceser viaje mujer, productos basicos neceser viaje, neceser viaje mujer](etheria-images/2020/05/neceser-de-viaje-mujer.jpg "Productos básicos en un neceser de viaje.")
+![neceser viaje mujer, productos basicos neceser viaje, neceser viaje mujer](https://fotos.etheriamagazine.com/2020/05/neceser-de-viaje-mujer.jpg "Productos básicos en un neceser de viaje.")
 
 A la importancia que ya tiene para muchas de nosotras organizar bien el neceser de viaje 
 ahora se impone no olvidar ciertos productos de seguridad que todavía son necesarios 
@@ -42,7 +42,7 @@ eficiencia de filtración de partículas, de respirabilidad y de reutilización 
 por el Ministerio de Sanidad y la normativa UNE (Asociación Española de la 
 Normalización). 
 
-![mascarillas blancas y negras](etheria-images/2020/05/mascarillas-soulem.jpg "Mascarillas ©Soulem.")
+![mascarillas blancas y negras](https://fotos.etheriamagazine.com/2020/05/mascarillas-soulem.jpg "Mascarillas ©Soulem.")
 
 El tejido de estas mascarillas es lavable hasta cinco veces, y está confeccionado con 
 una fibra producida con pulpa de origen vegetal, TENCEL 100%, una solución textil 
@@ -58,7 +58,7 @@ permiten tener de una forma rápida las manos limpias, protegidas e hidratadas, 
 diferentes aromas. Esta marca destina, además, el 20% de sus beneficios a proyectos como 
 la realización de pozos de agua en África. 
 
-![gel de manos Haan, neceser de viaje, mujeres viajeras](etheria-images/2020/05/gel-higiene-viaje-haan.jpg "Gel higienizante de manos con distintos aromas de la marca Haan.")
+![gel de manos Haan, neceser de viaje, mujeres viajeras](https://fotos.etheriamagazine.com/2020/05/gel-higiene-viaje-haan.jpg "Gel higienizante de manos con distintos aromas de la marca Haan.")
 
 > Si hay algo que he aprendido en mis frecuentes viajes es la utilidad de los cosméticos 
 > multiusos con los que cubrimos varias necesidades en un solo paso ahorrando tiempo y 
@@ -74,7 +74,7 @@ la limpieza de la piel. Os recomiendo **Kiré**, una emulsión limpiadora japone
 glicerina, aceites de almendras dulces, manteca de karité, pepino y aloe vera deja la 
 piel súper suave e hidratada, como si hubieras aplicado una mascarilla. 
 
-![productos neceser viaje, básicos de viaje para mujeres](etheria-images/2020/05/emulsion-limpiadora-kire-neceser-viaje.jpg "Kiré, una emulsión japonesa de la marca GH.")
+![productos neceser viaje, básicos de viaje para mujeres](https://fotos.etheriamagazine.com/2020/05/emulsion-limpiadora-kire-neceser-viaje.jpg "Kiré, una emulsión japonesa de la marca GH.")
 
 ### 4\. Crema de día o CC Cream Esthederm o Mia
 
@@ -84,7 +84,7 @@ un toque de color incorporados. Tres en uno. Os recomiendo dos marcas: las crema
 de **Mia Cosmetics Paris** con ácido hialurónico, que protege con su SPF 30 y aporta 
 color (por lo que se puede utilizar también como base de maquillaje). 
 
-![cremas hidratantes viajes, neceser de viaje](etheria-images/2020/05/mejor-crema-hidratante-viaje.jpg "Las mejores cremas hidratantes para tu neceser de viaje.")
+![cremas hidratantes viajes, neceser de viaje](https://fotos.etheriamagazine.com/2020/05/mejor-crema-hidratante-viaje.jpg "Las mejores cremas hidratantes para tu neceser de viaje.")
 
 ### 5\. Contorno de ojos Intral
 
@@ -92,7 +92,7 @@ El contorno de ojos también debe formar parte del neceser de viaje porque es ne
 usarlo por las mañanas y por las noches. Me gusta mucho el de **Darphin** porque además 
 de tratar, regenerar e iluminar, cumple también la función de corrector. 
 
-![crema antiojeras, neceser de viaje](etheria-images/2020/05/contorno-ojos-neceser-viaje.jpg "Intral, crema desinflamatoria y antioxidante para los ojos.")
+![crema antiojeras, neceser de viaje](https://fotos.etheriamagazine.com/2020/05/contorno-ojos-neceser-viaje.jpg "Intral, crema desinflamatoria y antioxidante para los ojos.")
 
 ### 6\. Crema de tratamiento de noche Redermic R
 
@@ -100,7 +100,7 @@ Las cremas de noche que más me convencen son las que incorporan retinol, pues e
 demostrado que es el ingrediente estrella anti-edad. Podéis empezar por **Redermic R 
 Corrector Intensivo** de La Roche-Posay. 
 
-![crema de noche, neceser de viaje](etheria-images/2020/05/corrector-neceser-viaje.jpg "Crema de tratamiento de noche para tu neceser de viaje.")
+![crema de noche, neceser de viaje](https://fotos.etheriamagazine.com/2020/05/corrector-neceser-viaje.jpg "Crema de tratamiento de noche para tu neceser de viaje.")
 
 ### 7\. Crema de manos, tres en una, de Mia
 
@@ -109,7 +109,7 @@ fundamental porque es una de nuestras primeras cartas de presentación. Os propo
 **Ultimate 3 en 1** de Mia Cosmetics Paris, que es exfoliante, hidratante y antiedad. 
 ¡Qué más se puede pedir! 
 
-![crema de manos viaje, neceser de viaje, mujeres viajeras](etheria-images/2020/05/mejor-crema-manos-neceser-viaje.jpg "Crema de manos para viajes: exfoliante, hidratante y anti-envejecimiento.")
+![crema de manos viaje, neceser de viaje, mujeres viajeras](https://fotos.etheriamagazine.com/2020/05/mejor-crema-manos-neceser-viaje.jpg "Crema de manos para viajes: exfoliante, hidratante y anti-envejecimiento.")
 
 > “Si eliges bien sólo necesitas llevar tres productos de maquillaje en tu neceser de 
 > viaje” 
@@ -122,7 +122,7 @@ contiene un maquillaje, de textura fina y cremosa que se transforma en una base 
 maquillaje universal gracias al uso de pigmentos especiales, el otro lado que es de 
 colores, funciona como un colorete crema. 
 
-![maquillaje de viaje, neceser de viaje, productos neceser de viaje](etheria-images/2020/05/maquillaje-viaje-sos-magic-stick.jpg "Un stick de maquillaje pequeño y muy efectivo.")
+![maquillaje de viaje, neceser de viaje, productos neceser de viaje](https://fotos.etheriamagazine.com/2020/05/maquillaje-viaje-sos-magic-stick.jpg "Un stick de maquillaje pequeño y muy efectivo.")
 
 ### 9\. Barra de labios protectora
 
@@ -131,7 +131,7 @@ cualquier mujer. En mi caso, optaría o bien por un tono universal tipo '[Pillow
 Talk'](https://amzn.to/3O8X5Sn) de **Charlotte Tilbury** o por un labial rojo. El último 
 que he comprado es el rojo de **Cristina Mitre**. 
 
-![barras labios neceser viaje, neceser viaje mujer](etheria-images/2020/05/barras-labios-neceser-viaje.jpg "Pillow Talk de Charlotte Tilbury (Izq.) y barra de labios roja de Cristina Mitre (Dcha.).")
+![barras labios neceser viaje, neceser viaje mujer](https://fotos.etheriamagazine.com/2020/05/barras-labios-neceser-viaje.jpg "Pillow Talk de Charlotte Tilbury (Izq.) y barra de labios roja de Cristina Mitre (Dcha.).")
 
 ### 10\. Máscara de pestañas
 
@@ -143,7 +143,7 @@ mujeres no están acostumbradas. Una marca que he probado y que funciona muy bie
 _[X-Lash Pro Eyelash 
 Serum](https://www.xlash.es/serum-pestanas/6-xlash-pro-6ml-serum-crece-pestanas.html)._ 
 
-![mascara pestanas, neceser de viaje, neceser mujeres viajeras](etheria-images/2020/05/mascara-pestanas-viaje.jpg "Máscara de pestañas Dam Girl. Dispone de ediciones 'mini' de viaje.")
+![mascara pestanas, neceser de viaje, neceser mujeres viajeras](https://fotos.etheriamagazine.com/2020/05/mascara-pestanas-viaje.jpg "Máscara de pestañas Dam Girl. Dispone de ediciones 'mini' de viaje.")
 
 [![](https://www.awin1.com/cshow.php?s=2773559&v=12705&q=380159&r=686021)](https://www.awin1.com/cread.php?s=2773559&v=12705&q=380159&r=686021)
 

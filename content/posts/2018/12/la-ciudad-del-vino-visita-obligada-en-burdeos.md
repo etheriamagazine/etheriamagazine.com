@@ -1,7 +1,7 @@
 ---
 title: "La Ciudad del Vino, visita obligada en Burdeos"
 date: 2018-12-12
-coverImage: etheria-images/2018/11/Ciudad-Vino-Burdeos-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/Ciudad-Vino-Burdeos-1.jpg
 categories: 
   - mejores-restaurantes-gastronomia
   - de-un-vistazo
@@ -15,7 +15,7 @@ Sorprendente por su arquitectura y temática, La Ciudad del Vino (La Cité du Vi
 al viajero que visita Burdeos la oportunidad de ampliar su conocimiento sobre el vino al 
 tiempo que goza con la imagen de sus sinuosas formas. 
 
-![La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos).](etheria-images/2018/12/Cite-du-Vin-Credit-Arnaud-Bertrande_format_1600x900-1024x576.jpg "La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos). © Arnaud Bertrande")
+![La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos).](https://fotos.etheriamagazine.com/2018/12/Cite-du-Vin-Credit-Arnaud-Bertrande_format_1600x900-1024x576.jpg "La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos). © Arnaud Bertrande")
 
 Un poco apartada del centro, pero a solo unos minutos en tranvía desde la zona histórica 
 de Burdeos, la Ciudad del Vino se alza como un espectacular edificio que invita desde un 
@@ -27,7 +27,7 @@ remolinos del río Garona y el de los nudos formándose en las vides. Sus tonos 
 grises se vuelven cegadores cuando el sol está en lo alto y mucho más sutiles y dorados 
 al atardecer, quizás el mejor momento para programar la visita. 
 
-![Terraza superior de La Ciudad del Vino.](etheria-images/2018/11/Ciudad-Vino-Burdeos-2-1024x684.jpg "Terraza superior de La Ciudad del Vino. © P.G.")
+![Terraza superior de La Ciudad del Vino.](https://fotos.etheriamagazine.com/2018/11/Ciudad-Vino-Burdeos-2-1024x684.jpg "Terraza superior de La Ciudad del Vino. © P.G.")
 
 ## Una visita sin prisas
 
@@ -39,7 +39,7 @@ que ellos querrán interactuar más en cada instalación por lo que precisarás 
 mayor. Organiza bien la visita para que cumpla su función de inmersión sensorial 
 completa. 
 
-![Los niños también disfrutan en la exposición permanente de La Ciudad del Vino.](etheria-images/2018/11/Ciudad-Vino-Burdeos-5-1024x683.jpg "Los niños también disfrutan en la exposición permanente de La Ciudad del Vino. © P.G.")
+![Los niños también disfrutan en la exposición permanente de La Ciudad del Vino.](https://fotos.etheriamagazine.com/2018/11/Ciudad-Vino-Burdeos-5-1024x683.jpg "Los niños también disfrutan en la exposición permanente de La Ciudad del Vino. © P.G.")
 
 A partir de aquí y gracias a la tecnología digital comenzarás **un viaje, a través del 
 espacio y el tiempo, a la esencia del vino**, para conocer también su desarrollo en 
@@ -51,13 +51,13 @@ historia a lo largo de civilizaciones pasadas, las metamorfosis del vino, rutas
 comerciales por vía marítima (todo un reto superar el juego que proponen), la historia 
 de Burdeos… 
 
-![Entrenar el olfato es una buena medida para realizar una cata adecuadamente.](etheria-images/2018/11/Ciudad-Vino-Burdeos-3-1024x684.jpg "Entrenar el olfato es una buena medida para realizar una cata adecuadamente. © P.G.")
+![Entrenar el olfato es una buena medida para realizar una cata adecuadamente.](https://fotos.etheriamagazine.com/2018/11/Ciudad-Vino-Burdeos-3-1024x684.jpg "Entrenar el olfato es una buena medida para realizar una cata adecuadamente. © P.G.")
 
 > No te pierdas el Bufé de los Cinco Sentidos, que desvela los secretos de una buena cata, 
 > y los Retratos del Vino, que muestra en seis botellas gigantes las seis familias en las 
 > que caben todos los vinos del mundo. 
 
-![Las audioguías (en 8 idiomas) facilitan la visita en este gran museo del vino.](etheria-images/2018/11/Ciudad-Vino-Burdeos-7-1024x683.jpg "Las audioguías (en 8 idiomas) facilitan la visita en este gran museo del vino. © P.G.")
+![Las audioguías (en 8 idiomas) facilitan la visita en este gran museo del vino.](https://fotos.etheriamagazine.com/2018/11/Ciudad-Vino-Burdeos-7-1024x683.jpg "Las audioguías (en 8 idiomas) facilitan la visita en este gran museo del vino. © P.G.")
 
 Las **exposiciones temporales** de viñedos invitados son también un aliciente para que, 
 aunque ya hayas estado antes, regreses de nuevo. Hasta el 6 de enero de 2019 se mostrará 
@@ -70,7 +70,7 @@ Reserva tiempo para subir al mirador de la octava planta y degustar allí una co
 vino o un mosto para los pequeños, si viajas en familia. Te encantarán las vistas de 360 
 grados sobre Burdeos. 
 
-![En la última planta podrás degustar una copa de vino con vistas a la ciudad de Burdeos.](etheria-images/2018/11/Ciudad-Vino-Burdeos-8-1024x683.jpg "En la última planta podrás degustar una copa de vino con vistas a la ciudad de Burdeos. © P.G.")
+![En la última planta podrás degustar una copa de vino con vistas a la ciudad de Burdeos.](https://fotos.etheriamagazine.com/2018/11/Ciudad-Vino-Burdeos-8-1024x683.jpg "En la última planta podrás degustar una copa de vino con vistas a la ciudad de Burdeos. © P.G.")
 
 Y si aún te quedas con ganas de más, también puedes apuntarte a **otros eventos, catas o 
 talleres**: cata comentada de Oporto, conferencia sobre la región vinícola, concierto de 

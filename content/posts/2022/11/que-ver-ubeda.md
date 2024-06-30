@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Úbeda para un fin de semana histórico"
 date: 2022-11-08
-coverImage: etheria-images/2022/11/ubeda-basilica-santa-maria.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/11/ubeda-basilica-santa-maria.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -16,7 +16,7 @@ máximo.
 
 **Por Mari Carmen Duarte** 
 
-![jardines y basílica de los Reales Alcázares.](etheria-images/2022/11/ubeda-basilica-santa-maria.jpg "Fachada de la basílica de los Reales Alcázares.")
+![jardines y basílica de los Reales Alcázares.](https://fotos.etheriamagazine.com/2022/11/ubeda-basilica-santa-maria.jpg "Fachada de la basílica de los Reales Alcázares.")
 
 La ciudad de los cerros, Úbeda, guarda el encanto que reyes, escritores, cantantes y 
 otras figuras notables han ido destacando siglo tras siglo. La majestuosidad de 
@@ -60,7 +60,7 @@ Cobos, quien le da nombre. Conocido también como palacio de las Cadenas, en él
 encuentra también el Centro de Interpretación del arquitecto Andrés de Vandelvira y el 
 Renacimiento del Sur. 
 
-![Palacio Vázquez de Molina en Úbeda](etheria-images/2022/11/palacio-vazquez-molina-ubeda.jpg "Palacio Vázquez de Molina.")
+![Palacio Vázquez de Molina en Úbeda](https://fotos.etheriamagazine.com/2022/11/palacio-vazquez-molina-ubeda.jpg "Palacio Vázquez de Molina.")
 
 #### • Capilla del Salvador del Mundo
 
@@ -72,7 +72,7 @@ el Deán Ortega, también se construyó, junto al edificio religioso, el palacio
 su nombre, declarado Bien de Interés Cultural y actual Parador Nacional, uno de los más 
 antiguos del país. 
 
-![Plaza Vázquez Molina con la Sacra Capilla del Salvador al fondo.](etheria-images/2022/11/Ubeda-plaza-vazquez-molina.jpg "Plaza Vázquez Molina con la Sacra Capilla del Salvador al fondo.")
+![Plaza Vázquez Molina con la Sacra Capilla del Salvador al fondo.](https://fotos.etheriamagazine.com/2022/11/Ubeda-plaza-vazquez-molina.jpg "Plaza Vázquez Molina con la Sacra Capilla del Salvador al fondo.")
 
 #### • Basílica de Santa María de los Reales Alcázares
 
@@ -91,7 +91,7 @@ convento de las siervas de María, declarado Bien de Interés Cultural, y el **a
 Pósito**, construido para guardar grano, y que ahora acoge la comisaría de la Policía 
 Nacional. 
 
-![Basílica de Santa María de los Reales Alcázares, en Úbeda.](etheria-images/2022/11/ubeda-iglesia-santa-maria.jpg "Basílica de Santa María de los Reales Alcázares.")
+![Basílica de Santa María de los Reales Alcázares, en Úbeda.](https://fotos.etheriamagazine.com/2022/11/ubeda-iglesia-santa-maria.jpg "Basílica de Santa María de los Reales Alcázares.")
 
 ### El Alcázar y sus vestigios judíos
 
@@ -117,7 +117,7 @@ la cultura judía.
 Judería](https://www.civitatis.com/es/ubeda/tour-juderia-ubeda/?aid=10211) por unos 12 
 €, imprescindible para entender los pormenores de esta comunidad. 
 
-![Interior de la Sinagoga del Agua, un sitio que tienes que ver en Úbeda.](etheria-images/2022/11/sinagoga-agua-ubeda.jpg "Sinagoga del Agua, en Úbeda.")
+![Interior de la Sinagoga del Agua, un sitio que tienes que ver en Úbeda.](https://fotos.etheriamagazine.com/2022/11/sinagoga-agua-ubeda.jpg "Sinagoga del Agua, en Úbeda.")
 
 ### Palacio Vela de los Cobos
 
@@ -135,7 +135,7 @@ chinas y hebreas.
 ?Visita guiada al **Palacio Vela de Cobos** de Civitatis ([reserva 
 aquí](https://www.civitatis.com/es/ubeda/visita-palacio-vela-cobos/?aid=10211)). 
 
-![Detalle de la esquina del palacio Vela de Cobos.](etheria-images/2022/11/ubeda-palacio-vela-cobos.jpg "Detalle de la esquina del palacio Vela de Cobos. © Luis Rogelio HM")
+![Detalle de la esquina del palacio Vela de Cobos.](https://fotos.etheriamagazine.com/2022/11/ubeda-palacio-vela-cobos.jpg "Detalle de la esquina del palacio Vela de Cobos. © Luis Rogelio HM")
 
 ### Oratorio de San Juan de la Cruz
 
@@ -168,7 +168,7 @@ Museo Arqueológico de la Casa Mudéjar.
 
 ? Puedes reservar visitas guiadas en viveubeda.es 
 
-![Puerta de Granada en la muralla de Úbeda.](etheria-images/2022/11/ubeda-muralla-puerta-granada.jpg "Puerta de Granada en la muralla de Úbeda. © Jorge Fdez. Salas")
+![Puerta de Granada en la muralla de Úbeda.](https://fotos.etheriamagazine.com/2022/11/ubeda-muralla-puerta-granada.jpg "Puerta de Granada en la muralla de Úbeda. © Jorge Fdez. Salas")
 
 ### Iglesia de San Lorenzo
 
@@ -205,7 +205,7 @@ oficio, y el papel de la familia Tito en él durante generaciones.
 ?Visita guiada por el Museo y alfarería de Pablo Tito ([Reserva con 
 antelación](https://www.civitatis.com/es/ubeda/visita-museo-alfareria-taller-ceramica/?aid=10211)). 
 
-![Museo alfarería Pablo Tito, en Úbeda](etheria-images/2022/11/ubeda-museo-alfareria-tito.jpg "Museo alfarería Pablo Tito.")
+![Museo alfarería Pablo Tito, en Úbeda](https://fotos.etheriamagazine.com/2022/11/ubeda-museo-alfareria-tito.jpg "Museo alfarería Pablo Tito.")
 
 ### Iglesia de San Pablo
 
@@ -220,7 +220,7 @@ góticas. Del gótico, pero tardío, es también su interior, donde se encuentra
 capillas funerarias, uno de los encantos de este Monumento Histórico Artístico, situado 
 cerca de la sinagoga del Agua y del palacio Vela de los Cobos. 
 
-![Interior de la iglesia de San Pablo, en Úbeda](etheria-images/2022/11/iglesia-san-pablo-ubeda.jpg "Interior de la iglesia de San Pablo.")
+![Interior de la iglesia de San Pablo, en Úbeda](https://fotos.etheriamagazine.com/2022/11/iglesia-san-pablo-ubeda.jpg "Interior de la iglesia de San Pablo.")
 
 ### Hospital de Santiago
 
@@ -236,7 +236,7 @@ Nacional de estilo renacentista con espacios como un patio central porticado con
 columnas de mármol blanco, una cúpula y dos torres recubiertas de azulejos de colores y 
 una escalera lateral que no deja a nadie indiferente. 
 
-![Hospital de Santiago en Úbeda.](etheria-images/2022/11/ubeda-hospital-Santiago-1.jpg "Hospital de Santiago, en Úbeda.")
+![Hospital de Santiago en Úbeda.](https://fotos.etheriamagazine.com/2022/11/ubeda-hospital-Santiago-1.jpg "Hospital de Santiago, en Úbeda.")
 
 ### Centro de Interpretación Olivar y Aceite
 
@@ -252,7 +252,7 @@ edificio del siglo XVII donde se recaudaba antaño el impuesto de la Iglesia.
 Olivar](https://www.civitatis.com/es/ubeda/visita-centro-intrepretacion-olivar-cata-aceite/?aid=10211) 
 por unos 15 €. 
 
-![Mar de olivos de Úbeda.](etheria-images/2022/11/ubeda-olivos.jpg "Mar de olivos de Úbeda. © Jorge Fdez. Salas")
+![Mar de olivos de Úbeda.](https://fotos.etheriamagazine.com/2022/11/ubeda-olivos.jpg "Mar de olivos de Úbeda. © Jorge Fdez. Salas")
 
 ### Otros palacios, iglesias y edificios que visitar
 

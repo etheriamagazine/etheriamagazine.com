@@ -1,7 +1,7 @@
 ---
 title: "Cristine Bedfor, un hotel para vivir Menorca con estilo"
 date: 2021-06-07
-coverImage: etheria-images/2021/06/Cristine-bedfor-terraza.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/Cristine-bedfor-terraza.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-romanticos
@@ -13,7 +13,7 @@ authors:
 
 En Etheria Magazine nos encantan las propuestas de alojamiento diferentes y Cristine Bedfor Guest Houses, ubicado en Mahón, es uno de esos hoteles llenos de estilo y encanto donde no puedes dejar de sentirte especial. Aprovecha esa escapada que tienes pendiente a Menorca y date el capricho de alojarte en este singular hotel. No te arrepentirás.
 
-![habitacion de Cristine Bedfor](etheria-images/2021/06/Cristine-bedfor-detalle-habitacion.jpg "Detalle de una de las habitaciones de Cristine Bedfor.")
+![habitacion de Cristine Bedfor](https://fotos.etheriamagazine.com/2021/06/Cristine-bedfor-detalle-habitacion.jpg "Detalle de una de las habitaciones de Cristine Bedfor.")
 
 Menorca debería estar en la lista de escapadas de toda viajera a la que le guste 
 disfrutar del mar, la naturaleza y la vida tranquila. Y, para dar un 'plus' de estilo a 
@@ -31,7 +31,7 @@ producto local. También son parte de 'Menorca Reserva de la Biosfera' que disti
 las empresas de la isla con iniciativas para proteger el medio ambiente y la cultura 
 menorquinas. 
 
-![Terraza con vistas a Mahón](etheria-images/2021/06/Cristine-bedfor-terraza.jpg "Terraza de una de las habitaciones de Cristine Bedfor.")
+![Terraza con vistas a Mahón](https://fotos.etheriamagazine.com/2021/06/Cristine-bedfor-terraza.jpg "Terraza de una de las habitaciones de Cristine Bedfor.")
 
 ## Las habitaciones
 
@@ -42,7 +42,7 @@ ese blanco que se hace protagonista en la decoración y que invita sentir el esp
 mediterráneo que transmite el hotel. Un aire fresco y juvenil que no está reñido con 
 preciosas piezas de anticuario conseguidas en España, Francia e Inglaterra. 
 
-![habitacion de lujo en Menorca](etheria-images/2021/06/crisine-bedfor-habitacion.jpg "Una de las habitaciones Cristine's Choice.")
+![habitacion de lujo en Menorca](https://fotos.etheriamagazine.com/2021/06/crisine-bedfor-habitacion.jpg "Una de las habitaciones Cristine's Choice.")
 
 Podrás elegir entre varios tipos de habitación: Cristine’s Singles, Cristine’s Doubles, 
 Cristine’s Terraces o Cristine’s Choice. Todas son maravillosas, pero estas últimas te 
@@ -60,7 +60,7 @@ buen hacer de Oriol Castell y Marco Collado han trasladado al hotel su cocina ba
 los productos locales de kilómetro 0. Todo sabe a Menorca en su restaurante pero con un 
 toque especial y diferente que merece la pena probar. 
 
-![comida de lujo en hotel Cristine Bedfor](etheria-images/2021/06/Cristine-Bedfor-gastronomia.jpg "Gastronomía de Ses Forquilles.")
+![comida de lujo en hotel Cristine Bedfor](https://fotos.etheriamagazine.com/2021/06/Cristine-Bedfor-gastronomia.jpg "Gastronomía de Ses Forquilles.")
 
 Pero sentarse a la mesa en este hotel es mucho más que sus delicias gastronómicas. Tiene 
 que ver con algo delicado, que se refleja en los detalles de la vajilla y la cubertería, 
@@ -76,14 +76,14 @@ eligiendo esos lugares en los que sentarte con un buen libro. En este remanso de
 agua y las plantas tienen todo el protagonismo y dejan bonitos rincones donde descansar 
 tras un ajetreado día en la isla. 
 
-![Piscina del hotel Cristine Bedfor](etheria-images/2021/06/Cristine-bedfor-fachada.jpg "Piscina del hotel.")
+![Piscina del hotel Cristine Bedfor](https://fotos.etheriamagazine.com/2021/06/Cristine-bedfor-fachada.jpg "Piscina del hotel.")
 
 No puedes perderte tampoco un baño en su refrescante **piscina**, donde podrás tomar 
 algo en un ambiente que no puede ser más tranquilo. Y, si no puedes dejar el deporte ni 
 en vacaciones, Cristine Bedfor cuenta con un pequeño **gimnasio** para no perder la 
 forma donde, además, puedes solicitar un _personal trainer_. 
 
-![hotel de lujo en Menorca](etheria-images/2021/06/cristine-bedfor-decoracion-detalle-683x1024.jpg "Detalle de la decoración de Cristine Bedfor.")
+![hotel de lujo en Menorca](https://fotos.etheriamagazine.com/2021/06/cristine-bedfor-decoracion-detalle-683x1024.jpg "Detalle de la decoración de Cristine Bedfor.")
 
 [Cristine Bedfor Guest Houses](https://cristinebedforhotel.com/es) Precio de la 
 habitación doble para dos personas desde 139 Euros. Carrer de la Infanta, 17. Mahón 

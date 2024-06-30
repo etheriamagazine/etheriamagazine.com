@@ -1,7 +1,7 @@
 ---
 title: "10 regalos para sorprender a madres viajeras y disfrutonas"
 date: 2022-04-25
-coverImage: etheria-images/2022/04/Los-Anades-hotel-guadalajara.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/04/Los-Anades-hotel-guadalajara.jpg
 categories: 
   - regalos-compras-viajeras
   - organiza-tu-viaje
@@ -11,7 +11,7 @@ authors:
 
 Encontrar un regalo para una madre que le guste viajar es relativamente sencillo. Por norma general, las “madres viajeras” son mujeres flexibles, inquietas y disfrutonas. Nuevas experiencias, noches de hotel, tardes de spa, una botella de vino o una cena especial son algunas opciones con las que sorprenderla.
 
-![Cuatro mujeres viajeras hacen un corazón con sus manos.](etheria-images/2022/04/mujeres-viajeras-corazon.jpg "El mejor regalo es compartir aventuras juntas. © Melissa Askew")
+![Cuatro mujeres viajeras hacen un corazón con sus manos.](https://fotos.etheriamagazine.com/2022/04/mujeres-viajeras-corazon.jpg "El mejor regalo es compartir aventuras juntas. © Melissa Askew")
 
 Cada año surgen distintas ocasiones en las que debemos encontrar el regalo adecuado para 
 nuestras madres o mujeres más allegadas. Uno de esos momentos es el Día de la Madre, 
@@ -35,7 +35,7 @@ Burgo de Osma y Solares. Mira en su web porque también encontrarás otros [bono
 desde 30 €](https://www.castillatermal.com/bonos-regalo/). Y si le añades también alguna 
 noche de estancia y un circuito de contrastes, será un obsequio imbatible. 
 
-![spa del hotel castilla termal burgo de osma](etheria-images/2022/04/Castilla-Termal-Burgo-Osma.jpg "© Spa del hotel balneario Castilla Termal Burgo de Osma.")
+![spa del hotel castilla termal burgo de osma](https://fotos.etheriamagazine.com/2022/04/Castilla-Termal-Burgo-Osma.jpg "© Spa del hotel balneario Castilla Termal Burgo de Osma.")
 
 ### 2\. Un libro electrónico
 
@@ -50,7 +50,7 @@ está nada mal. Otro un poco más sofisticado es el Kindle [Paperwhite Signature
 Edition,](https://amzn.to/3KcxYLC) que cuesta 189,99 euros, pero para probar es 
 suficiente con el primero... 
 
-![Kindle, un libro electrónico ideal para madres viajeras](etheria-images/2022/04/kindle-dia-madre.jpg "Kindle, un libro electrónico práctico y ligero.")
+![Kindle, un libro electrónico ideal para madres viajeras](https://fotos.etheriamagazine.com/2022/04/kindle-dia-madre.jpg "Kindle, un libro electrónico práctico y ligero.")
 
 ### 3\. Un Diamante que se bebe
 
@@ -65,7 +65,7 @@ de edición limitada en la [web de la bodega](https://vinogaleria.com/) por sól
 (envío incluido) o una caja con 6 botellas por 29 euros. Si lo adquieres presencialmente 
 en su propia vinoteca incluso sale por algo menos. 
 
-![Estuche de regalo de Vino Diamante](etheria-images/2022/04/vino-diamante-537x1024.jpg "Caja de regalo con dos vinos Diamante.")
+![Estuche de regalo de Vino Diamante](https://fotos.etheriamagazine.com/2022/04/vino-diamante-537x1024.jpg "Caja de regalo con dos vinos Diamante.")
 
 ### 4\. Un viaje al pasado en Puy du Fou
 
@@ -83,7 +83,7 @@ teléfono 925 630 135.
 a tu madre ([15 razones para visitar Puy de Fou 
 Toledo](https://etheriamagazine.com/2022/04/06/15-razones-para-visitar-puy-du-fou-toledo-en-2022/)). 
 
-![Cápsula del tiempo, un bono regalo de Puy de Fou.](etheria-images/2022/04/Capsula-tiempo-Puy-du-Fou.jpg "Cápsula del tiempo, un bono regalo de Puy de Fou.")
+![Cápsula del tiempo, un bono regalo de Puy de Fou.](https://fotos.etheriamagazine.com/2022/04/Capsula-tiempo-Puy-du-Fou.jpg "Cápsula del tiempo, un bono regalo de Puy de Fou.")
 
 ### 5\. Cosmética orgánica nórdica
 
@@ -95,7 +95,7 @@ protectora de la piel otorgando una gran inmunidad. El set incluye **un serum y 
 esencia** y está pensado para pieles maduras. Lo puedes pedir en [Amazon](https://amzn.to/3LbWJJx) 
 y se lo entregan a ella misma en casa. 
 
-![Cofre INFINITY Care System de Mádara.](etheria-images/2022/04/cosmetica-madres-viajeras-876x1024.jpg "Cofre INFINITY Care System de Mádara.")
+![Cofre INFINITY Care System de Mádara.](https://fotos.etheriamagazine.com/2022/04/cosmetica-madres-viajeras-876x1024.jpg "Cofre INFINITY Care System de Mádara.")
 
 ### 6\. Desconexión rural en 3, 2, 1
 
@@ -107,7 +107,7 @@ habitaciones y varios lofts rurales, ofrece un circuito privado de spa, tratamie
 belleza y relajación y un buen restaurante para completar la estancia. Cuenta con bonos 
 regalos desde 84 euros, consulta su [web](https://www.losanades.com/es-ES/bonos-regalo.aspx). 
 
-![Jardín del Hotel Rural & Spa Los Ánades](etheria-images/2022/04/hotel-rural-los-anades.jpg "Jardín del Hotel Rural & Spa Los Ánades.")
+![Jardín del Hotel Rural & Spa Los Ánades](https://fotos.etheriamagazine.com/2022/04/hotel-rural-los-anades.jpg "Jardín del Hotel Rural & Spa Los Ánades.")
 
 ### 7\. Maleta de cabina y separadores
 
@@ -122,7 +122,7 @@ mochilera** o tenga en mente hacer alguna ruta en la montaña, te recomendamos u
 compresoras impermeables](https://amzn.to/3vJdTY6) de Outdoor Panda. Dan muy buen 
 resultado y cuestan unos 40 euros. 
 
-![Interior y exterior de una maleta roja de Eastpak, perfecta para madres viajeras.](etheria-images/2022/04/maleta-cabina-madres-viajeras.jpg "Maleta de cabina de Eastpak.")
+![Interior y exterior de una maleta roja de Eastpak, perfecta para madres viajeras.](https://fotos.etheriamagazine.com/2022/04/maleta-cabina-madres-viajeras.jpg "Maleta de cabina de Eastpak.")
 
 ### 8\. Una escapada a Valencia
 
@@ -137,7 +137,7 @@ de sensaciones. Y si se suele quejar de que nunca tiene tiempo de ir a la peluqu
 puedes añadir en el regalo una sesión en el salón de belleza del hotel, muy reconocido 
 por sus innovadoras técnicas de color y peinado. ¡Qué más se puede pedir! 
 
-![Zona exterior del spa de Las Arenas Balneario Resort.](etheria-images/2021/04/hotel-las-arenas-spa-exterior.jpg "Zona exterior del spa de Las Arenas Balneario Resort.")
+![Zona exterior del spa de Las Arenas Balneario Resort.](https://fotos.etheriamagazine.com/2021/04/hotel-las-arenas-spa-exterior.jpg "Zona exterior del spa de Las Arenas Balneario Resort.")
 
 ### 9\. Perfumes para madres viajeras
 
@@ -150,7 +150,7 @@ kit para que pueda traspasar pequeñas cantidades a botes de tamaño reducido. E
 encontrarás seis [atomizadores recargables](https://amzn.to/3MJUgq7) por menos de 10 
 euros. 
 
-![Perfumes de viaje de Coco Mademoiselle para madres viajeras](etheria-images/2022/04/coco-chanel-perfume-viaje-689x1024.jpg "Perfumes de viaje de Coco Mademoiselle.")
+![Perfumes de viaje de Coco Mademoiselle para madres viajeras](https://fotos.etheriamagazine.com/2022/04/coco-chanel-perfume-viaje-689x1024.jpg "Perfumes de viaje de Coco Mademoiselle.")
 
 ### 10\. Una estancia en Paradores
 
@@ -163,7 +163,7 @@ y “[Una noche en Paradores con desayuno y almuerzo o cena para
 dos](https://clk.tradedoubler.com/click?p=243890&a=3132464&url=https%3A%2F%2Fwww.smartbox.com%2Fes%2Fnuestras-smartbox%2Festancias%2Fparadores-una-noche-para-deleitarse-859920.html)”. 
 Hasta principios de mayo tendrá un 15% de descuento. 
 
-![Caja regalo de Paradores de Smartbox, ideal para madres viajeras.](etheria-images/2022/04/smartbox-paradores.jpg "Cajas regalo de Paradores, en Smartbox.")
+![Caja regalo de Paradores de Smartbox, ideal para madres viajeras.](https://fotos.etheriamagazine.com/2022/04/smartbox-paradores.jpg "Cajas regalo de Paradores, en Smartbox.")
 
 ### Más experiencias para madres viajeras
 

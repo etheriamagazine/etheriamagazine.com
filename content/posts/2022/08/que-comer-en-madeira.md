@@ -1,7 +1,7 @@
 ---
 title: "Qué comer en Madeira, la isla de las nubes"
 date: 2022-08-30
-coverImage: etheria-images/2022/08/comida-madeira-espetada.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/08/comida-madeira-espetada.jpg
 categories: 
   - mejores-restaurantes-gastronomia
 authors: 
@@ -14,7 +14,7 @@ como resultado una serie de comidas típicas madeirenses que nada tienen que env
 las del continente. Te contamos cuáles son los platos de Madeira que deberían formar 
 parte de tu menú durante el viaje. 
 
-![Espetada de carne con palo de laurel.](etheria-images/2022/08/comida-madeira-espetada.jpg "Espetada de carne ensartada en un palo de laurel. © Pedro Grifol")
+![Espetada de carne con palo de laurel.](https://fotos.etheriamagazine.com/2022/08/comida-madeira-espetada.jpg "Espetada de carne ensartada en un palo de laurel. © Pedro Grifol")
 
 Viajar a Madeira supone una buena dosis de ejercicio físico, y puede que no pares un 
 segundo. Practicar senderismo por sus levadas (senderos junto a las acequias); nadar en 
@@ -29,7 +29,7 @@ se cuece allí. Y lo primero que tienes que saber es que no hay diferencia de es
 gastronómicos entre los cuatro puntos cardinales de la isla, así que, normalmente, 
 puedes pedir cualquiera de sus especialidades allá donde vayas. 
 
-![Cerveza Coral y langostinos.](etheria-images/2022/08/madeira-Cerveza-Coral.jpg "Cerveza Coral y langostinos. © Pedro Grifol")
+![Cerveza Coral y langostinos.](https://fotos.etheriamagazine.com/2022/08/madeira-Cerveza-Coral.jpg "Cerveza Coral y langostinos. © Pedro Grifol")
 
 ## Comida típica de Madeira
 
@@ -54,7 +54,7 @@ col, que le dan un sabor peculiar. Su elaboración no es sencilla, a saber: los
 ingredientes se cocinan durante una hora con un poco de grasa, después se dejan enfriar 
 y se sirve en cubitos crujientes y sabrosos. 
 
-![Milho frito, un plato típico de Madeira](etheria-images/2022/08/madeira-Milho-Frito.jpg "Milho frito, un plato típico de Madeira. © Turismo de Madeira")
+![Milho frito, un plato típico de Madeira](https://fotos.etheriamagazine.com/2022/08/madeira-Milho-Frito.jpg "Milho frito, un plato típico de Madeira. © Turismo de Madeira")
 
 ### 2\. Platos de cuchara
 
@@ -75,7 +75,7 @@ Este plato es sumamente común en los restaurantes de paso que se encuentran en 
 donde se practica el senderismo ya que **aporta las proteínas necesarias** para 
 continuar el camino. 
 
-![Sopas de trigo y de tomate, dos platos típicos de Madeira.](etheria-images/2022/08/sopas-madeira.jpg "Sopas de trigo y de tomate, dos platos típicos de las islas. © Turismo de Madeira")
+![Sopas de trigo y de tomate, dos platos típicos de Madeira.](https://fotos.etheriamagazine.com/2022/08/sopas-madeira.jpg "Sopas de trigo y de tomate, dos platos típicos de las islas. © Turismo de Madeira")
 
 #### Sopa de tomate
 
@@ -95,14 +95,14 @@ plato vegetariano, a veces, en algunos lugares le echan carne. Así que, si prac
 dieta vegetariana, te recomendamos que consultes previamente los ingredientes antes de 
 pedirla. 
 
-![Crema con escabeche de bonito, en el Restaurante UVA del hotel The Vine de Funchal.](etheria-images/2022/08/madeira-Crema-de-ajo.jpg "Crema con escabeche de bonito, en el Restaurante UVA del hotel The Vine de Funchal. © Pedro Grifol")
+![Crema con escabeche de bonito, en el Restaurante UVA del hotel The Vine de Funchal.](https://fotos.etheriamagazine.com/2022/08/madeira-Crema-de-ajo.jpg "Crema con escabeche de bonito, en el Restaurante UVA del hotel The Vine de Funchal. © Pedro Grifol")
 
 ? **Recomendación Etheria Magazine**. No te pierdas la ‘Crema de puerros con tosta de 
 atún escabechado’, un guiño al clasicismo francés recreado por Thomas Faudry, el chef 
 ejecutivo del restaurante UVA del Hotel The Vine, de Funchal. De estrella Michelin… que 
 aunque no la tiene ¡se la merece! 
 
-![Patatas con habas y mazorcas.](etheria-images/2022/08/Patatas-con-Habas-y-Mazorcas.jpg "Patatas con habas y mazorcas. © Turismo de Madeira")
+![Patatas con habas y mazorcas.](https://fotos.etheriamagazine.com/2022/08/Patatas-con-Habas-y-Mazorcas.jpg "Patatas con habas y mazorcas. © Turismo de Madeira")
 
 ### 3\. Platos tradicionales que hay que comer en Madeira
 
@@ -121,7 +121,7 @@ puede comerse perfectamente solo.
 En Madeira, las lapas se sirven a la parrilla en una sartén caliente aderezadas con 
 mantequilla, limón y ajo. Sabor intenso ¡para mojar el bolo do caco! 
 
-![Lapas a la parrilla con bolo de caco al fondo.](etheria-images/2022/08/comida-madeira-Lapas-a-la-parrilla-677x1024.jpg "Lapas a la parrilla con bolo de caco al fondo. © Pedro Grifol")
+![Lapas a la parrilla con bolo de caco al fondo.](https://fotos.etheriamagazine.com/2022/08/comida-madeira-Lapas-a-la-parrilla-677x1024.jpg "Lapas a la parrilla con bolo de caco al fondo. © Pedro Grifol")
 
 #### Espetada en pau de lauro
 
@@ -133,7 +133,7 @@ aporta un agradable aroma. Las brochetas se suelen presentar acompañadas con en
 batatas dulces, que contribuyen a enriquecer el sabor de este suculento plato. Sin duda 
 es el plato de carne ‘estrella’ de la isla. 
 
-![Espetada de carne  con palo de laurel.](etheria-images/2022/08/Espetada-de-carne-madeira.jpg "Espetada de carne con palo de laurel. © Pedro Grifol")
+![Espetada de carne  con palo de laurel.](https://fotos.etheriamagazine.com/2022/08/Espetada-de-carne-madeira.jpg "Espetada de carne con palo de laurel. © Pedro Grifol")
 
 #### Pez espada
 
@@ -148,7 +148,7 @@ encontrárnoslo cara a cara bajo el agua –¡raro rarísimo!–. Se suele servi
 frito, o a la brasa acompañado de batata dulce con salsa de vino y ajos tiernos. Tienes 
 que probarlo. 
 
-![Pez espada a la brasa con salsa de vino y ajos.](etheria-images/2022/08/comida-madeira-pez-espada.jpg "Pez espada a la brasa con salsa de vino y ajos. © Pedro Grifo")
+![Pez espada a la brasa con salsa de vino y ajos.](https://fotos.etheriamagazine.com/2022/08/comida-madeira-pez-espada.jpg "Pez espada a la brasa con salsa de vino y ajos. © Pedro Grifo")
 
 #### Polvo
 
@@ -158,7 +158,7 @@ acompañado con patatas y pimientos rojos y verdes; pero también lo puedes pedi
 arroz. De cualquiera de las maneras el pulpo es un plato exquisito… por mucha pena que 
 te dé comerte tan maravilloso animal. 
 
-![Pulpo grellado con patatas y pimientos.](etheria-images/2022/08/comida-madeira-Pulpo-grellado.jpg "Pulpo grellado con patatas y pimientos. © Pedro Grifol")
+![Pulpo grellado con patatas y pimientos.](https://fotos.etheriamagazine.com/2022/08/comida-madeira-Pulpo-grellado.jpg "Pulpo grellado con patatas y pimientos. © Pedro Grifol")
 
 #### Atún
 
@@ -166,7 +166,7 @@ El atún es primero marinado en aceite de oliva, ajo, sal y orégano antes de fr
 suele servir con maíz cocido; pero no dejes escapar un buen tataki de atún fresco, 
 marcado vuelta y vuelta con fuego… ¡y comértelo en una terraza frente al mar! 
 
-![Tataki de atún, una delicia de Madeira](etheria-images/2022/08/comida-madeira-tataki-atun.jpg "Tataki de atún. © Pedro Grifol")
+![Tataki de atún, una delicia de Madeira](https://fotos.etheriamagazine.com/2022/08/comida-madeira-tataki-atun.jpg "Tataki de atún. © Pedro Grifol")
 
 ### 4\. Qué tomar de postre en Madeira
 
@@ -184,7 +184,7 @@ la isla. Las **boas de gengibre** son unas galletas que hacen en el mismo
 establecimiento funchalense, otra _delicatessen_ para degustar… y para comprar como 
 regalo. 
 
-![Fábrica de Santo Antonio de Funchal y galletas de jengibre.](etheria-images/2022/08/fabrica-santo-antonio-funchal.jpg "Fábrica de Santo Antonio de Funchal y galletas de jengibre. © Pedro Grifol")
+![Fábrica de Santo Antonio de Funchal y galletas de jengibre.](https://fotos.etheriamagazine.com/2022/08/fabrica-santo-antonio-funchal.jpg "Fábrica de Santo Antonio de Funchal y galletas de jengibre. © Pedro Grifol")
 
 ## 5\. Vinos de Madeira
 
@@ -197,7 +197,7 @@ pena visitar la bodega Blandy´s Wine Lodge de Funchal, que elabora los vinos m�
 prestigiosos de toda la isla. Disfrutarás de un rato realmente agradable probando 
 diferentes añadas. Relájate y goza. 
 
-![Variedades de uva, vino CR7 y Marco Noronha, propietario de Bodega Terra Bona.](etheria-images/2022/08/vinos-madeira.jpg "Variedades de uva, vino CR7 y Marco Noronha, propietario de Bodega Terra Bona. © Pedro Grifol")
+![Variedades de uva, vino CR7 y Marco Noronha, propietario de Bodega Terra Bona.](https://fotos.etheriamagazine.com/2022/08/vinos-madeira.jpg "Variedades de uva, vino CR7 y Marco Noronha, propietario de Bodega Terra Bona. © Pedro Grifol")
 
 Si prefieres una excitante aventura enológica, tienes que visitar la bodega de **Terra 
 Bona Wine Family**, en Boaventura (norte de la isla), porque elabora vinos que envejecen 
@@ -206,7 +206,7 @@ verdejo) comprobarás que eres un afortunado/a. Este año han producido 200 bote
 la bodega tiene planes para seguir inventando aromas y sensaciones. Oportunidad 
 irrepetible. 
 
-![](etheria-images/2022/08/madeira-La-Poncha.jpg "La Poncha es la bebida típica de Madeira. © Pedro Grifol")
+![](https://fotos.etheriamagazine.com/2022/08/madeira-La-Poncha.jpg "La Poncha es la bebida típica de Madeira. © Pedro Grifol")
 
 ## 6\. La bebida típica: la Poncha
 
@@ -224,7 +224,7 @@ múltiples maneras de hacer La Poncha.
 especializado en cócteles de YouTube](https://www.youtube.com/watch?v=0uhwnenKHCo). (⬅️ 
 haz clic en este enlace) 
 
-![Vídeo para aprender a hacer la Poncha típica de Madeira.](etheria-images/2022/08/portada-poncha-900x527.jpg "La Poncha típica de Madeira en Grifol's Bar, canal de cócteles en YouTube.")
+![Vídeo para aprender a hacer la Poncha típica de Madeira.](https://fotos.etheriamagazine.com/2022/08/portada-poncha-900x527.jpg "La Poncha típica de Madeira en Grifol's Bar, canal de cócteles en YouTube.")
 
 ?Más información en la [web oficial de Turismo de 
 Madeira](https://www.visitmadeira.com/). 

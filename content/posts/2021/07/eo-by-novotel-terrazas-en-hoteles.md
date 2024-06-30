@@ -1,7 +1,7 @@
 ---
 title: "‘eo by Novotel’, practica el terraceo más desenfadado y gourmet"
 date: 2021-07-27
-coverImage: etheria-images/2021/07/Terraza_Novotel-ibis-Styles-Madrid-City-Las-Ventas.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/07/Terraza_Novotel-ibis-Styles-Madrid-City-Las-Ventas.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -13,7 +13,7 @@ authors:
 
 Salir a tomar el vermut se conoce como vermut(eo); ir de tapas como tap(eo); y a salir con amigos, cop(eo), pero si todo eso lo hacemos en un solo lugar ¿cómo lo podríamos llamar? Muy fácil: “eo by Novotel”. Este verano la marca _midscale_ de Accor marida la mejor cocina en sus terrazas con la música en directo y los cócteles más originales.
 
-![terraza novotel las ventas](etheria-images/2021/07/Terraza_Novotel-ibis-Styles-Madrid-City-Las-Ventas.jpg "Terraza Novotel & Ibis Styles Madrid City Las Ventas.")
+![terraza novotel las ventas](https://fotos.etheriamagazine.com/2021/07/Terraza_Novotel-ibis-Styles-Madrid-City-Las-Ventas.jpg "Terraza Novotel & Ibis Styles Madrid City Las Ventas.")
 
 Los hoteles han dejado de ser lugares para uso exclusivo de los huéspedes y se han 
 convertido en espacios gastronómicos y de ocio privilegiados, como bien demuestra el 
@@ -34,7 +34,7 @@ que conquisten a lugareños y clientes del hotel por igual. La terraza es un esp
 convive con el día a día del hotel, y donde la propuesta de bebidas y animación musical 
 adquirirá mayor protagonismo este año”. 
 
-![eo by novotel platos terraza](etheria-images/2021/07/platos-insolito-novotel-las-ventas.jpg "Algunos bocados de Insólito, restaurante de Novotel Madrid City Las Ventas.")
+![eo by novotel platos terraza](https://fotos.etheriamagazine.com/2021/07/platos-insolito-novotel-las-ventas.jpg "Algunos bocados de Insólito, restaurante de Novotel Madrid City Las Ventas.")
 
 ## Qué encontrarás en ‘eo by Novotel’
 
@@ -54,7 +54,7 @@ de nuevas técnicas culinarias. Si vives o visitas Barcelona, allí te espera �
 el **Novotel Barcelona Cornellá**, que ha optado por centrarse en una oferta “healthy” 
 en la que aúna lo mejor de una cocina fusión mediterránea y del _nomad street food_. 
 
-![eo by novotel barcelona](etheria-images/2021/07/eo-by-Novotel-BCN-City.jpg "© Novotel Barcelona City.")
+![eo by novotel barcelona](https://fotos.etheriamagazine.com/2021/07/eo-by-Novotel-BCN-City.jpg "© Novotel Barcelona City.")
 
 ##### Propuestas gourmet en Novotel, mucho más que hoteles
 
@@ -69,7 +69,7 @@ Los hoteles se han convertido en una de las propuestas del verano más atractiva
 salir de terraceo, no pierdas la oportunidad de conocer el concepto ‘eo by Novotel’ en 
 cualquiera de sus establecimientos de España porque merece mucho la pena. 
 
-![cocteles eo by novotel las ventas madrid](etheria-images/2021/07/madrid-novotel-city-las-ventas.jpg "Cócteles del © Novotel & Ibis Style Madrid City Las Ventas.")
+![cocteles eo by novotel las ventas madrid](https://fotos.etheriamagazine.com/2021/07/madrid-novotel-city-las-ventas.jpg "Cócteles del © Novotel & Ibis Style Madrid City Las Ventas.")
 
 ### También te puede interesar…
 

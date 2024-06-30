@@ -1,7 +1,7 @@
 ---
 title: "4 planazos para disfrutar de las Fiestas del Pilar en Zaragoza"
 date: 2023-10-10
-coverImage: etheria-images/2023/10/Rodrigo-Cuevas.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/10/Rodrigo-Cuevas.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -13,7 +13,7 @@ Música, experiencias de realidad aumentada, ofrendas florales, actividades recr
 para familias y la rica gastronomía callejera os esperan en las Fiestas del Pilar de 
 Zaragoza. Os contamos cuatro planazos de su agenda festiva que no os podéis perder. 
 
-![Rodrigo Cuevas actuará en las Fiestas del Pilar de Zaragoza](etheria-images/2023/10/Rodrigo-Cuevas-850x567.jpg "Rodrigo Cuevas. © JavierBelver")
+![Rodrigo Cuevas actuará en las Fiestas del Pilar de Zaragoza](https://fotos.etheriamagazine.com/2023/10/Rodrigo-Cuevas-850x567.jpg "Rodrigo Cuevas. © JavierBelver")
 
 La ciudad de Zaragoza se mantiene discreta durante casi todo el año pero en torno al 
 **12 de octubre** recobra esa energía dormida para ofrecer un entorno festivo donde 
@@ -34,7 +34,7 @@ también actuará la banda folk estadounidense **Calexico** en el mismo lugar el
 de octubre. Este concierto se enmarca en la gira conmemorativa de _Feast of wire_, uno 
 de sus discos más conocidos. 
 
-![Ofrenda floral virtual en las Fiestas del Pilar de Zaragoza.](etheria-images/2023/10/Ofrenda-Virtual-Floral-850x567.jpg "Ofrenda floral virtual en las Fiestas del Pilar de Zaragoza.")
+![Ofrenda floral virtual en las Fiestas del Pilar de Zaragoza.](https://fotos.etheriamagazine.com/2023/10/Ofrenda-Virtual-Floral-850x567.jpg "Ofrenda floral virtual en las Fiestas del Pilar de Zaragoza.")
 
 ## Ofrenda de flores física o virtual
 
@@ -47,7 +47,7 @@ flores"](http://www.ofrendadeflores.com) se puede entrar también a la Ofrenda E
 para compartir mensajes, peticiones y felicitaciones de estas Fiestas del Pilar. Además, 
 se ha habilitado un acceso a la Plaza del Pilar en 3D. 
 
-![Río y Juego, el lugar donde disfrutarán los niños en las Fiestas del Pilar de Zaragoza.](etheria-images/2023/10/rio-y-juego-zaragoza-850x567.jpg "Río y Juego, el lugar donde disfrutarán los niños durante las Fiestas del Pilar.")
+![Río y Juego, el lugar donde disfrutarán los niños en las Fiestas del Pilar de Zaragoza.](https://fotos.etheriamagazine.com/2023/10/rio-y-juego-zaragoza-850x567.jpg "Río y Juego, el lugar donde disfrutarán los niños durante las Fiestas del Pilar.")
 
 ## Jugar en familia en la orilla del Ebro
 
@@ -60,7 +60,7 @@ parar. Todo el parque está diseñado con materiales reciclados y con el desarro
 sostenible como hilo conductor. Debéis saber también que el proyecto Río y Juego ha sido 
 reconocido por el Pacto Mundial de las Naciones Unidas. 
 
-![Espacio gastronómico Ebro food Trucks.](etheria-images/2023/10/ebro-food-trucks-zaragoza-850x567.jpg "Espacio gastronómico Ebro food Trucks.")
+![Espacio gastronómico Ebro food Trucks.](https://fotos.etheriamagazine.com/2023/10/ebro-food-trucks-zaragoza-850x567.jpg "Espacio gastronómico Ebro food Trucks.")
 
 ## Y para comer: Ebro Food Trucks
 

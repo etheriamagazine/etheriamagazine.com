@@ -1,7 +1,7 @@
 ---
 title: "Geles hidroalcohólicos. Conoce las claves para elegir el más eficaz"
 date: 2020-11-05
-coverImage: etheria-images/2020/11/uso-gel-hidroalcoholico.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/uso-gel-hidroalcoholico.jpg
 categories: 
   - salud-bienestar-nutricion
   - que-llevar-en-la-maleta
@@ -14,7 +14,7 @@ indispensables en nuestro día a día y, aún más, cuando viajamos, pero ¿cump
 función de eliminar bacterias y virus? Aclaramos dudas y compartimos algunas marcas que 
 hemos sometido a examen según nivel protección, textura y aroma. 
 
-![uso gel hidroalcoholico](etheria-images/2020/11/uso-gel-hidroalcoholico.jpg "El gel hidroalcohólico se debe emplear cuando no tenemos a mano agua y jabón. © Kelly Sikkema")
+![uso gel hidroalcoholico](https://fotos.etheriamagazine.com/2020/11/uso-gel-hidroalcoholico.jpg "El gel hidroalcohólico se debe emplear cuando no tenemos a mano agua y jabón. © Kelly Sikkema")
 
 . 
 
@@ -37,7 +37,7 @@ qué microorganismos es efectivo**”. Debemos saber también que no es lo mismo
 higienizante que uno desinfectante, ya que para que desinfecte realmente debe tener 
 entre un 70% y un 90% de alcohol. 
 
-![lavado manos eliminar bacterias](etheria-images/2020/11/lavado-manos-covid.jpg "Un lavado a fondo de manos con jabón es básico para eliminar bacterias y virus.")
+![lavado manos eliminar bacterias](https://fotos.etheriamagazine.com/2020/11/lavado-manos-covid.jpg "Un lavado a fondo de manos con jabón es básico para eliminar bacterias y virus.")
 
 Según ha comentado María Enríquez, enfermera del Consejo General de Enfermería, en [Diario 
 Enfermero](https://diarioenfermero.es/las-enfermeras-alertan-de-que-no-todos-los-geles-hidroalcoholicos-protegen-frente-al-covid-19-y-dan-pautas-a-la-poblacion-para-identificar-los-adecuados/), 
@@ -48,7 +48,7 @@ Otros consejos que aportan los profesionales sanitarios es que se deben mantener
 alejados del calor (son inflamables) y frotar las manos con el gel hidroalcohólico un 
 mínimo de 20 a 30 segundos (cuanto más mejor). 
 
-![infografia resumen gel hidroalcoholico](etheria-images/2020/11/infografia-elegir-gel-hidroalcoholico.jpg "Infografía resumen sobre el hidrogel, elaborada por la Organización Colegial de Enfermería.")
+![infografia resumen gel hidroalcoholico](https://fotos.etheriamagazine.com/2020/11/infografia-elegir-gel-hidroalcoholico.jpg "Infografía resumen sobre el hidrogel, elaborada por la Organización Colegial de Enfermería.")
 
 ## De 70% de alcohol en adelante destruye virus
 
@@ -67,7 +67,7 @@ etanol al 95%, sin embargo, cubre la mayoría de los virus clínicamente relevan
 Según ha indicado la OMS, debe tener “entre un 75 y un 85% v/v (volumen a volumen) de 
 etanol, isopropanol, n-propanol o una combinación entre estas sustancias". 
 
-![hidrogel con sustancia hidrarante](etheria-images/2020/11/manos-gel-hidroalcoholico-hidratante.jpg "El gel hidroalcohólico puede causar dermatitis si se usa con demasiada frecuencia. © Ian Dooley")
+![hidrogel con sustancia hidrarante](https://fotos.etheriamagazine.com/2020/11/manos-gel-hidroalcoholico-hidratante.jpg "El gel hidroalcohólico puede causar dermatitis si se usa con demasiada frecuencia. © Ian Dooley")
 
 ## ¿Cuál es la realidad?
 
@@ -85,7 +85,7 @@ etanol), líquido o en gel, de secado rápido y sin aroma, que se puede encontra
 y en [Amazon](https://amzn.to/2GrJrfC) en botes de 500 ml. Se suele emplear en entornos 
 médicos y su efecto puede durar hasta 6 horas. 
 
-![geles hidroalcoholicos](etheria-images/2020/11/geles-hidroalcoholicos-cosmeticos.jpg "Geles hidroalcohólicos. © Etheria Magazine")
+![geles hidroalcoholicos](https://fotos.etheriamagazine.com/2020/11/geles-hidroalcoholicos-cosmeticos.jpg "Geles hidroalcohólicos. © Etheria Magazine")
 
 ## Geles hidroalcohólicos a examen
 
@@ -93,7 +93,7 @@ Entre las decenas de geles hidroalcohólicos que existen en el mercado hemos pro
 de los que ha habido 6 que reúnen características que nos han gustado, por sus 
 componentes hidratantes, textura, aroma o relación calidad-precio. 
 
-![gel desinfectante manos haan](etheria-images/2020/11/haan-pocket-gel-hidroalcoholico-de-manos.jpg "Gel higienizante para manos HAAN.")
+![gel desinfectante manos haan](https://fotos.etheriamagazine.com/2020/11/haan-pocket-gel-hidroalcoholico-de-manos.jpg "Gel higienizante para manos HAAN.")
 
 ### Higienizante de manos Haan Pocket
 
@@ -115,7 +115,7 @@ Sorbate, Sodium Benzoate. **Aroma**: 5 distintos, todos suaves. **Textura**: Lí
 de los beneficios se destina a proyectos sostenibles en África. **Puede mejorar**: el 
 precio, es elevado para su tamaño. 
 
-![gel higienizante la chinata](etheria-images/2020/11/gel-higienizante-la-chinata-670x1024.jpg "Geles higienizantes (©) La Chinata.")
+![gel higienizante la chinata](https://fotos.etheriamagazine.com/2020/11/gel-higienizante-la-chinata-670x1024.jpg "Geles higienizantes (©) La Chinata.")
 
 ### Gel higienizante hidroalcohólico La Chinata
 
@@ -135,7 +135,7 @@ cremoso, desaparece pronto al frotar por lo que no te quedas con las manos mojad
 **Precio**: 60 ml (1,80 €) y 300 ml (5,40 €). **A favor:** hidratación y aroma. **Puede 
 mejorar:** no indica porcentaje de alcohol en el envase. 
 
-![envase grande de gel hidroalcoholico uvas frescas](etheria-images/2020/11/uvas-frescas-gel-hidroalcoholico.jpg "Gel hidroalcohólico © Uvas Frescas, envase de 500 ml.")
+![envase grande de gel hidroalcoholico uvas frescas](https://fotos.etheriamagazine.com/2020/11/uvas-frescas-gel-hidroalcoholico.jpg "Gel hidroalcohólico © Uvas Frescas, envase de 500 ml.")
 
 ### Gel de manos hidroalcohólico Uvas Frescas
 
@@ -152,7 +152,7 @@ agradable, recuerda al agua de rosas. **Textura**: gel cremoso. **Precio**: 100 
 recaudados con este producto va a Cruz Roja para colaborar en la lucha contra la 
 COVID-19. **Puede mejorar**: en el envase no se menciona el porcentaje de alcohol. 
 
-![spray alvarez gomez gel desinfectante](etheria-images/2020/11/spray-hidroalcoholico-alvarez-gomez.jpg "Spray hidroalcohólico © Álvarez Gómez.")
+![spray alvarez gomez gel desinfectante](https://fotos.etheriamagazine.com/2020/11/spray-hidroalcoholico-alvarez-gomez.jpg "Spray hidroalcohólico © Álvarez Gómez.")
 
 ### Spray hidroalcohólico Álvarez Gómez
 
@@ -168,7 +168,7 @@ un primer momento, y después neutro. **Textura**: Líquido. **Precio**: 30 ml (
 imposible leer los ingredientes a no ser que despegues la etiqueta. Es un envase de 
 cristal no reutilizable. 
 
-![gel de manos hidroalcoholico vichy](etheria-images/2020/11/gel-hidroalcoholico-vichy.jpg "Gel de Manos Purificante de © Vichy.")
+![gel de manos hidroalcoholico vichy](https://fotos.etheriamagazine.com/2020/11/gel-hidroalcoholico-vichy.jpg "Gel de Manos Purificante de © Vichy.")
 
 ### Gel de manos purificante de Vichy
 
@@ -183,7 +183,7 @@ aunque al principio se percibe el alcohol. **Textura**: Gel. **Precio**: 200 ml.
 también cuesta un poco abrir el tapón. En cualquier caso, sería más útil un tapón 
 dosificador si hay que abrirlo varias veces al día. 
 
-![germisdin gel higiene manos](etheria-images/2020/11/germisdin-gel-higienizante.jpg "Gel higienizante Germisdin © ISDN")
+![germisdin gel higiene manos](https://fotos.etheriamagazine.com/2020/11/germisdin-gel-higienizante.jpg "Gel higienizante Germisdin © ISDN")
 
 ### Gel higienizante de manos Germisdin de ISDN
 

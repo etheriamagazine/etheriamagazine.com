@@ -1,7 +1,7 @@
 ---
 title: "Burgenland, el estado más desconocido y soleado de Austria"
 date: 2022-08-01
-coverImage: etheria-images/2022/07/austria-burgerland-jardines-Eisenstadt.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/07/austria-burgerland-jardines-Eisenstadt.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Situado en la parte más oriental del país, Burgenland es un territorio de Austria limítrofe con Eslovaquia, Eslovenia y Hungría (a la que perteneció hasta 1921). Es el estado austríaco menos poblado, el más llano y soleado y, por si fuera poco, tiene vinos y playa. ¿A qué estamos esperando?
 
-![Los hermosos jardines ingleses de Eisenstadt coronados por el templo de Leopoldina. Un sitio imprescindible de Burgenland](etheria-images/2022/07/austria-burgerland-jardines-Eisenstadt.jpg "Los hermosos jardines ingleses de Eisenstadt coronados por el templo de Leopoldina. © Yolanda Cardo")
+![Los hermosos jardines ingleses de Eisenstadt coronados por el templo de Leopoldina. Un sitio imprescindible de Burgenland](https://fotos.etheriamagazine.com/2022/07/austria-burgerland-jardines-Eisenstadt.jpg "Los hermosos jardines ingleses de Eisenstadt coronados por el templo de Leopoldina. © Yolanda Cardo")
 
 Cuando pensáis en Austria, ¿qué es lo primero que se os viene a la cabeza? Pues 
 seguramente imagináis un país en blanco y verde, de imponentes ciudades monumentales 
@@ -24,7 +24,7 @@ vieneses”. Pero si además de daros un refrescante chapuzón y brindar con sus
 vinos queréis saber por qué ésta merece ser vuestra próxima escapada, seguid leyendo y 
 haced hueco en vuestra agenda viajera. 
 
-![Bonito pueblo de Rust, en Burgenland, Austria](etheria-images/2022/07/austria-burgerland-Rust.jpg "El encantador pueblo de Rust. © Yolanda Cardo")
+![Bonito pueblo de Rust, en Burgenland, Austria](https://fotos.etheriamagazine.com/2022/07/austria-burgerland-Rust.jpg "El encantador pueblo de Rust. © Yolanda Cardo")
 
 ## Qué ver y hacer en Burgenland, 8 visitas imprescindibles
 
@@ -46,7 +46,7 @@ curiosidad, a diferencia de lo que ocurre en otros países, la propiedad de este
 transfronterizo pertenece a unos 1.200 terratenientes, mayormente agricultores, que 
 reciben una compensación por no usar estos terrenos. 
 
-![Las aguas del lago se llenan de visitantes durante los meses estivales.](etheria-images/2022/07/austria-burgerland-lago-eisenstadt.jpg "Las aguas del lago se llenan de visitantes durante los meses estivales. © Yolanda Cardo")
+![Las aguas del lago se llenan de visitantes durante los meses estivales.](https://fotos.etheriamagazine.com/2022/07/austria-burgerland-lago-eisenstadt.jpg "Las aguas del lago se llenan de visitantes durante los meses estivales. © Yolanda Cardo")
 
 Este espectacular enclave resulta perfecto para practicar **actividades acuáticas y al 
 aire libre** a lo largo de todo el año. Durante el **invierno**, las bajas temperaturas 
@@ -67,7 +67,7 @@ tormentas. Pintado en rojo y blanco y con una altura aproximada de unos 12 metro
 han convertido en una de las principales atracciones turísticas de la zona y en el 
 protagonista absoluto de todas las fotografías. 
 
-![El bonito faro Podersdorf a orillas del lago Neusiedl. Un lugar imprescindible de Burgenland](etheria-images/2022/07/austria-burgerland-faro-Podersdorf.jpg "El bonito faro Podersdorf a orillas del lago Neusiedl. © Yolanda Cardo")
+![El bonito faro Podersdorf a orillas del lago Neusiedl. Un lugar imprescindible de Burgenland](https://fotos.etheriamagazine.com/2022/07/austria-burgerland-faro-Podersdorf.jpg "El bonito faro Podersdorf a orillas del lago Neusiedl. © Yolanda Cardo")
 
 ### 3\. Escuchar las melodías de Haydn en el Palacio Esterházy
 
@@ -85,7 +85,7 @@ decoran y su excelente acústica son el escenario de una serie de eventos musica
 se celebran cada temporada. Los magníficos jardines ingleses del palacio, coronados por 
 un hermoso templete, completan este apacible paseo por Eisenstadt. 
 
-![Fachada y sala Haydn del palacio Esterházy en Eisenstadt.](etheria-images/2022/07/Austria-burgerland-palacio-Esterhazy.jpg "Fachada y sala Haydn del palacio Esterházy en Eisenstadt. © Yolanda Cardo")
+![Fachada y sala Haydn del palacio Esterházy en Eisenstadt.](https://fotos.etheriamagazine.com/2022/07/Austria-burgerland-palacio-Esterhazy.jpg "Fachada y sala Haydn del palacio Esterházy en Eisenstadt. © Yolanda Cardo")
 
 ### 4\. Visitar la iglesia de los pescadores de Rust
 
@@ -100,7 +100,7 @@ mongoles a la reina María de Hungría, esposa del monarca Bela IV. Su interior 
 decorado con frescos de época medieval y, gracias a su magnífica acústica, durante el 
 verano se celebran conciertos. 
 
-![Interior de la iglesia de los pescadores en Rust.](etheria-images/2022/07/austria-burgerland-iglesia-Rust.jpg "Interior de la iglesia de los pescadores en Rust. © Yolanda Cardo")
+![Interior de la iglesia de los pescadores en Rust.](https://fotos.etheriamagazine.com/2022/07/austria-burgerland-iglesia-Rust.jpg "Interior de la iglesia de los pescadores en Rust. © Yolanda Cardo")
 
 ### 5\. Disfrutar del enoturismo en la región
 
@@ -111,7 +111,7 @@ absolutamente recomendable es descubrir los **vinos de Oggau** desde un bonito c
 situado en un amable cerro de esta localidad: un chardonnay, un riesling o un 
 blaufränkisch saben mucho mejor mientras contemplamos las espléndidas vistas. 
 
-![Burgenland es una región llana con muchos viñedos](etheria-images/2022/07/austria-Burgenland-vinos.jpg "Burgenland es una región llana con muchos viñedos. © Yolanda Cardo")
+![Burgenland es una región llana con muchos viñedos](https://fotos.etheriamagazine.com/2022/07/austria-Burgenland-vinos.jpg "Burgenland es una región llana con muchos viñedos. © Yolanda Cardo")
 
 ### 6\. No entender nada de la carta y aún así acertar
 
@@ -127,7 +127,7 @@ ubicado en una de las cavas de la histórica Kellergasse (callejón de las bodeg
 Purbach, un amplio paseo en el que se suceden cerca de 50 bodegas construidas alrededor 
 de 1850. 
 
-![Buen ambiente y rica gastronomía en el restaurante Heurigen Sandhofer de Purbach. Imprescindible de Burgerland](etheria-images/2022/07/austria-burgerland-restaurante-Heurigen-Sandhofer.jpg "Buen ambiente y rica gastronomía en el restaurante Heurigen Sandhofer de Purbach. © Yolanda Cardo")
+![Buen ambiente y rica gastronomía en el restaurante Heurigen Sandhofer de Purbach. Imprescindible de Burgerland](https://fotos.etheriamagazine.com/2022/07/austria-burgerland-restaurante-Heurigen-Sandhofer.jpg "Buen ambiente y rica gastronomía en el restaurante Heurigen Sandhofer de Purbach. © Yolanda Cardo")
 
 ### 7\. Un atardecer a orillas del lago
 
@@ -141,7 +141,7 @@ sentadas en el interior o en las terrazas del muelle donde los pescadores amarra
 barcos. Contemplar el atardecer desde este idílico enclave, mientras saboreáis los vinos 
 de Burgenland y la frescura y calidad de su cocina, resulta una experiencia inolvidable. 
 
-![Las puestas de sol desde el restaurante Das Fritz son espectaculares](etheria-images/2022/07/austria-burgerland-restaurante-Das-Fritz.jpg "Las puestas de sol desde el restaurante Das Fritz son espectaculares. © Yolanda Cardo")
+![Las puestas de sol desde el restaurante Das Fritz son espectaculares](https://fotos.etheriamagazine.com/2022/07/austria-burgerland-restaurante-Das-Fritz.jpg "Las puestas de sol desde el restaurante Das Fritz son espectaculares. © Yolanda Cardo")
 
 ### 8\. ¿Nos vamos de compras?
 
@@ -152,7 +152,7 @@ compréis en el **Designer Outlet Parndorf**. Un outlet de grandes marcas donde
 encontraréis piezas exclusivas a precios increíbles. Más información en la [web](https://www.burgenland.info/) 
 de Burgenland. 
 
-![Bodegas de la histórica Kellergasse de Purbach.](etheria-images/2022/07/austria-burgerland-bodegas-Kellergasse.jpg "Una de las bodegas de la histórica Kellergasse de Purbach. © Yolanada Cardo")
+![Bodegas de la histórica Kellergasse de Purbach.](https://fotos.etheriamagazine.com/2022/07/austria-burgerland-bodegas-Kellergasse.jpg "Una de las bodegas de la histórica Kellergasse de Purbach. © Yolanada Cardo")
 
 #### Preguntas frecuentes sobre Burgenland
 

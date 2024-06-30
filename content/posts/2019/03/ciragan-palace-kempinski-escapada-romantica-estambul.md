@@ -1,7 +1,7 @@
 ---
 title: "Çirağan Palace Kempinski, un hotel con magia en Estambul"
 date: 2019-03-05
-coverImage: etheria-images/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -14,7 +14,7 @@ Hay hoteles que son la excusa perfecta para visitar un destino. Es el caso del �
 Palace de Estambul, un hotel al que merece la pena escaparse en un viaje en pareja y así 
 disfrutar del romanticismo de esta ciudad llena de historia. 
 
-![piscina del Çiragan Palace en Estambul](etheria-images/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg "Vistas del Bósforo desde el Çirağan Palace.")
+![piscina del Çiragan Palace en Estambul](https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg "Vistas del Bósforo desde el Çirağan Palace.")
 
 Si estás planeando un viaje con tu pareja, hay un lugar con el que acertarás seguro: una 
 escapada a Estambul alojándote en el **Çirağan Palace**, un auténtico palacio otomano a 
@@ -23,7 +23,7 @@ arquitectura del hotel es imponente y, de hecho, es uno de los hitos arquectóni
 ciudad mencionado en todos los cruceros que se realizan por el Bósforo, desde donde se 
 admira la mejor vista del edificio. 
 
-![interior del hotel Çiragan Palace de Estambul](etheria-images/2019/02/Çiragan-Palace-Gate.jpg "Entrada de la zona del palacio del Çirağan Palace de Estambul.")
+![interior del hotel Çiragan Palace de Estambul](https://fotos.etheriamagazine.com/2019/02/Çiragan-Palace-Gate.jpg "Entrada de la zona del palacio del Çirağan Palace de Estambul.")
 
 > Aunque inicialmente fue edificado en madera, el sultán Abdülaziz lo mandó reconstruir en 
 > 1874 con los mejores mármoles y materiales traídos de todo el mundo. 
@@ -34,7 +34,7 @@ sus jardines fueron incluso utilizados como campo de fútbol para el Besiktas. T
 completa renovación, el hotel abrió en 1991 con la creación de un nuevo edificio y se ha 
 convertido en el referente de la ciudad en cuanto a turismo de lujo. 
 
-![Puerta histórica del Çiragan Palace de Estambul](etheria-images/2019/02/Ciragan-Palace-Kempinski-Istanbul-atardecer.jpg "Exterior del hotel, con una de las puertas del palacio.")
+![Puerta histórica del Çiragan Palace de Estambul](https://fotos.etheriamagazine.com/2019/02/Ciragan-Palace-Kempinski-Istanbul-atardecer.jpg "Exterior del hotel, con una de las puertas del palacio.")
 
 ## Una ubicación perfecta
 
@@ -63,7 +63,7 @@ espaciosas suites que tienen una habitación hasta las especiales 'Vali & Vezir 
 situada en el último piso y con dos maravillosos balcones, o la increíble 'Lale Suite', 
 en el primer piso. 
 
-![Suite del Çiragan Palace](etheria-images/2019/02/çiragan-palace-sultan-suite.jpg "Una de las habitaciones de la Sultan Suite.")
+![Suite del Çiragan Palace](https://fotos.etheriamagazine.com/2019/02/çiragan-palace-sultan-suite.jpg "Una de las habitaciones de la Sultan Suite.")
 
 O puedes alojarte en una de las once **Palace Suites** con vistas a Yıldız Park (que fue 
 coto de caza para los sultanes) o al Bósforo. Todas ellas repletas de detalles que 
@@ -79,7 +79,7 @@ llena de delicias, unas vistas del Bósforo que quitan el hipo. Y el **restauran
 Laledan** es famoso en la ciudad por su exquisito _bruch_ y, además, sirve deliciosas 
 comidas en el jardín. 
 
-![Desayuno en el Çigaran Palace](etheria-images/2019/02/Çiragan-Palace-Laledan-Restaurant.jpg "Brunch en el Laledan Restaurant.")
+![Desayuno en el Çigaran Palace](https://fotos.etheriamagazine.com/2019/02/Çiragan-Palace-Laledan-Restaurant.jpg "Brunch en el Laledan Restaurant.")
 
 Si viajas en verano, podrás disfrutar del **Bosphorus Grill**, un restaurante de cocina 
 a la parrilla a orillas del Bósforo. Y para un rato divertido, nada mejor que una copa o 
@@ -97,7 +97,7 @@ traslada a la época de los sultanes y a la cultura del agua musulmana. Si viaja
 pareja, busca un masaje para dos y dedicaos un tiempo a disfrutar de este maravilloso 
 rincón. 
 
-![entrada al hammam del Çiragan Palace](etheria-images/2019/02/Çiragan-Palace-Hamam.jpg "Hamman Sanitas Spa.")
+![entrada al hammam del Çiragan Palace](https://fotos.etheriamagazine.com/2019/02/Çiragan-Palace-Hamam.jpg "Hamman Sanitas Spa.")
 
 [Çırağan Palace Kempinski 
 Istanbul](https://www.kempinski.com/en/istanbul/ciragan-palace/) 

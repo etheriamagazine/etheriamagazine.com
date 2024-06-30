@@ -1,7 +1,7 @@
 ---
 title: "Un día en Frigiliana, uno de los pueblos más bonitos de Málaga"
 date: 2021-12-15
-coverImage: etheria-images/2021/12/Frigiliana-calle-barrio-alto.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/12/Frigiliana-calle-barrio-alto.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -11,7 +11,7 @@ authors:
 
 Frigiliana es un pueblo blanco que reluce con el brillo del sol malagueño y ofrece uno de esos días redondos que tanto nos mejoran las vacaciones. Aquí te contamos cuáles son las calles, miradores y edificios que no puedes perderte si decides hacer una excursión a Frigiliana de un día.
 
-![Calle del Barrio Alto de Frigiliana.](etheria-images/2021/12/Frigiliana-calle-barrio-alto.jpg "Calle del Barrio Alto de Frigiliana. © Susana García")
+![Calle del Barrio Alto de Frigiliana.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-calle-barrio-alto.jpg "Calle del Barrio Alto de Frigiliana. © Susana García")
 
 Se encuentra en la comarca de la Axarquía malagueña, muy cerca de la popular localidad 
 costera de Nerja y de sus famosas cuevas. Por lo que una **excursión a Frigiliana** es 
@@ -29,7 +29,7 @@ tranquila en una hora y media. Si tienes tiempo, camina sin prisa y alarga el re
 parándote en sus pequeñas tiendas y miradores. Y, por qué no, en alguno de sus bares 
 para hacer un alto en el camino, que las cuestas lo merecen. 
 
-![Pintoresca tienda en Frigiliana.](etheria-images/2021/12/Frigiliana-tienda.jpg "Pintoresca tienda del caso histórico. © SG")
+![Pintoresca tienda en Frigiliana.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-tienda.jpg "Pintoresca tienda del caso histórico. © SG")
 
 ## Excursión a Frigiliana, 10 lugares de visita imprescindible
 
@@ -52,7 +52,7 @@ se puede visitar, pero merece la pena acercarse a ver el edificio, ya que ocupa 
 **Palacio Renacentista de los Condes de Frigiliana**. Es un punto de partida perfecto 
 para iniciar el paseo por la villa. 
 
-![Uno de los adarves de Frigiliana.](etheria-images/2021/12/Frigiliana-adarve-683x1024.jpg "Uno de los adarves de Frigiliana. © SG")
+![Uno de los adarves de Frigiliana.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-adarve-683x1024.jpg "Uno de los adarves de Frigiliana. © SG")
 
 ### De la calle Real a la calle Alta
 
@@ -68,7 +68,7 @@ detalles de las encaladas fachadas y las flores de los balcones. Presta atenció
 son muestra del urbanismo andalusí de Frigiliana. Una estampa preciosa, perfecta para 
 dejarla retratada con tu cámara. 
 
-![Vista de Frigiliana desde sus miradores.](etheria-images/2021/12/Frigiliana-mirador.jpg "Vista de Frigiliana desde sus miradores. © SG")
+![Vista de Frigiliana desde sus miradores.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-mirador.jpg "Vista de Frigiliana desde sus miradores. © SG")
 
 ### Los miradores de Frigiliana
 
@@ -79,7 +79,7 @@ pena, ya que la vista del pueblo con el río, la campiña malagueña y el mar al
 impagable. Para volver, puedes hacerlo por la calle Santo Cristo, que llega a la calle 
 Alta y enlaza con la ruta anterior. 
 
-![Azulejo número 3 de Frigiliana.](etheria-images/2021/12/Frigiliana-azulejos.jpg "Azulejo número 3 de Frigiliana. © SG")
+![Azulejo número 3 de Frigiliana.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-azulejos.jpg "Azulejo número 3 de Frigiliana. © SG")
 
 ### La historia en los azulejos de Frigiliana
 
@@ -107,7 +107,7 @@ poco más allá se ubica la sencilla y resplandeciente **ermita del Ecce Homo**,
 XVIII, conocida como la de El Santo Cristo, que es muy importante para los habitantes de 
 Frigiliana. 
 
-![Callejón del Peñón, uno de los más pintorescos de la localidad.](etheria-images/2021/12/Frigiliana-callejon-del-penon-576x1024.jpg "Callejón del Peñón, uno de los más pintorescos de la localidad. © Fran Fernández")
+![Callejón del Peñón, uno de los más pintorescos de la localidad.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-callejon-del-penon-576x1024.jpg "Callejón del Peñón, uno de los más pintorescos de la localidad. © Fran Fernández")
 
 ### Plaza de la Fuente Vieja
 
@@ -123,7 +123,7 @@ La iglesia de San Antonio de Padua, situada en la calle Real, es de finales del 
 XVII y fue reconstruida posteriormente en estilo renacentista. Merece la pena asomarse 
 para ver su sencilla y blanca estructura, su coro y los retablos. 
 
-![Puertas del casco histórico.](etheria-images/2021/12/Frigiliana-puertas.jpg "Puertas del casco histórico. © SG")
+![Puertas del casco histórico.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-puertas.jpg "Puertas del casco histórico. © SG")
 
 ### El Torreón
 
@@ -143,7 +143,7 @@ cestería, la producción de seda, calzado o perfumes. Así, este bonito rincón
 en bancadas para salvar el desnivel del terreno permite un **paseo entre olivos, 
 tomillo, romero, palmitos, caña de azúcar o esparto**. 
 
-![Restaurante en Frigiliana.](etheria-images/2021/12/Frigiliana-restaurante.jpg "Restaurante en Frigiliana. © SG")
+![Restaurante en Frigiliana.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-restaurante.jpg "Restaurante en Frigiliana. © SG")
 
 ### Consejos Etheria Magazine
 

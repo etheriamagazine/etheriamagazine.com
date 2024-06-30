@@ -1,7 +1,7 @@
 ---
 title: "Hotel Formentor, el secreto mejor guardado de Mallorca"
 date: 2018-07-04
-coverImage: etheria-images/2018/07/hotel-formentor-paisaje-e1558348682480.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/hotel-formentor-paisaje-e1558348682480.jpg
 categories: 
   - hoteles
 authors: 
@@ -13,7 +13,7 @@ lugar donde se detiene el tiempo para permitir que los huéspedes disfruten de l
 increíbles paisajes de mar y pinos del norte de Mallorca. CERRADO. Está previsto que en 
 2024 abra sus puertas el nuevo Four Seasons Resort Mallorca. 
 
-![Vista del hotel Formentor](etheria-images/2018/07/hotel-formentor-paisaje-e1558348682480.jpg "Vista del hotel Formentor.")
+![Vista del hotel Formentor](https://fotos.etheriamagazine.com/2018/07/hotel-formentor-paisaje-e1558348682480.jpg "Vista del hotel Formentor.")
 
 El camino al establecimiento presagia que algo bueno puede aparecer al final de esa 
 carretera que asciende y desciende el **puerto de montaña de Formentor** ofreciendo 
@@ -40,7 +40,7 @@ alojarte en habitaciones más amplias o viajas con niños, puedes elegir entre l
 privado con tu propia piscina, las Formentor Villas son una excelente opción que 
 combinan el alquiler de una casa vacacional con los servicios de un hotel de lujo. 
 
-![Junior Suite del Formentor, a Royal Hideway Hotel.](etheria-images/2018/07/hotel-formentor-habitacion-e1558348761164.jpg "Junior Suite del Formentor, a Royal Hideway Hotel.")
+![Junior Suite del Formentor, a Royal Hideway Hotel.](https://fotos.etheriamagazine.com/2018/07/hotel-formentor-habitacion-e1558348761164.jpg "Junior Suite del Formentor, a Royal Hideway Hotel.")
 
 ## Gastronomía mediterránea
 
@@ -50,7 +50,7 @@ desde su agradable terraza enriquecen la degustación de las especialidades mall
 e internacionales. Si buscas platos más creativos, **El Pi**, situado frente a la 
 piscina, ofrece también opciones de cocina clásica e innovadora. 
 
-![Terraza del restaurante El Colomer.](etheria-images/2018/07/hotel-formentor-restaurante-e1558348782779.jpg "Terraza del restaurante El Colomer.")
+![Terraza del restaurante El Colomer.](https://fotos.etheriamagazine.com/2018/07/hotel-formentor-restaurante-e1558348782779.jpg "Terraza del restaurante El Colomer.")
 
 **La Veranda**, situado frente al mar, cuenta con una gran terraza y ofrece una amplia 
 carta. Ya en el camino a la playa aparecen otros restaurantes donde poder comer en un 
@@ -71,13 +71,13 @@ cuidadas. Hay que atravesarlos para ir a una de las playas más espectaculares d
 Mallorca, la de Formentor, con aguas color turquesa y los pinos descendiendo hasta casi 
 la orilla. 
 
-![Piscina del Formentor, a Royal Hideaway Hotel.](etheria-images/2018/07/hotel-formentor-piscina-e1558348814592.jpg "Piscina del Formentor, a Royal Hideaway Hotel.")
+![Piscina del Formentor, a Royal Hideaway Hotel.](https://fotos.etheriamagazine.com/2018/07/hotel-formentor-piscina-e1558348814592.jpg "Piscina del Formentor, a Royal Hideaway Hotel.")
 
 En esta playa se pueden alquilar hamacas y sombrillas e incluso disfrutar de un masaje 
 al aire libre. Los huéspedes también pueden solicitar material para practicar _snorkel_, 
 _paddel surf_ y _kayak_ en este mar transparente. 
 
-![En la playa Formentor se pueden alquilar las tumbonas del hotel.](etheria-images/2018/07/hotel-formentor-playa-e1558348834935.jpg "En la playa Formentor se pueden alquilar las tumbonas del hotel.")
+![En la playa Formentor se pueden alquilar las tumbonas del hotel.](https://fotos.etheriamagazine.com/2018/07/hotel-formentor-playa-e1558348834935.jpg "En la playa Formentor se pueden alquilar las tumbonas del hotel.")
 
 Para los que buscan algo más que relax, el hotel dispone de **pistas de tenis y pádel** 
 y un **minigolf** perfecto para pasar un buen rato en familia. Y no hay que olvidar que 
@@ -99,7 +99,7 @@ baño, caja fuerte y mini bar privados. Están pensadas para quienes buscan rela
 entorno privado y quieren recibir un masaje tailandés u otros tratamientos. Un lugar 
 dedicado al bienestar para olvidarse de todo. 
 
-![Pool Cabana del Formentor, a Royal Hideway Hotel.](etheria-images/2018/07/hotel-formentor-pool-cabanas-e1558348869153.jpg "Pool Cabana del Formentor, a Royal Hideway Hotel.")
+![Pool Cabana del Formentor, a Royal Hideway Hotel.](https://fotos.etheriamagazine.com/2018/07/hotel-formentor-pool-cabanas-e1558348869153.jpg "Pool Cabana del Formentor, a Royal Hideway Hotel.")
 
 **Hotel Formentor Royal Hideway** 
 

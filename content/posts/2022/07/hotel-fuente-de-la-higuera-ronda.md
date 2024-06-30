@@ -1,7 +1,7 @@
 ---
 title: "Hotel La Fuente de la Higuera, un rincón de paz a los pies de Ronda"
 date: 2022-07-13
-coverImage: etheria-images/2022/07/Fuente-higuera-piscina.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/07/Fuente-higuera-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 Ronda es una localidad perfecta para una escapada y una muy buena forma de realizarla es alojándote en el hotel La Fuente de la Higuera; un hotel rural de cuatro estrellas ubicado en medio del campo, a tan solo quince minutos en coche del centro. Si buscas un lugar donde combinar descanso absoluto con excursiones por la sierra de Ronda y la sierra de Cádiz no tengas dudas: éste es tu lugar.
 
-![tumbonas en hotel rural de Ronda La Fuente de la Higuera](etheria-images/2022/07/Fuente-higuera-piscina.jpg "Piscina del hotel La Fuente de la Higuera.")
+![tumbonas en hotel rural de Ronda La Fuente de la Higuera](https://fotos.etheriamagazine.com/2022/07/Fuente-higuera-piscina.jpg "Piscina del hotel La Fuente de la Higuera.")
 
 Parece que la expresión “hotel con encanto” la decimos tantas veces que ha perdido el 
 sentido. Pero cuando te alojas en un lugar como el hotel La Fuente de la Higuera cobra 
@@ -31,7 +31,7 @@ alemana se dispusieron a levantar como un hotel ante la presencia de sus dos hij
 de ellos, Pablo, está ahora al frente de esta aventura y enseña orgulloso el álbum de 
 fotos que hicieron con el desarrollo de una obra que se realizó en menos de un año. 
 
-![Terraza con vistas a la piscina del hotel La Fuente de la Higuera](etheria-images/2022/07/Fuente-higuera-terraza.jpg "Terraza del hotel.")
+![Terraza con vistas a la piscina del hotel La Fuente de la Higuera](https://fotos.etheriamagazine.com/2022/07/Fuente-higuera-terraza.jpg "Terraza del hotel.")
 
 Uno de los aciertos de este hotel es la decoración. Todo tiene su lugar y está elegido 
 con gusto y sin excesos. Con muebles de calidad de teca balinesa y plantas, algunas tan 
@@ -53,7 +53,7 @@ _self-service_, cuenta con una variada oferta de bebidas y _snacks_ donde apunta
 consumes en una libreta y te lo puedes llevar a la habitación o a la terraza. Un detalle 
 de esos que te hace sentir como en casa. 
 
-![Tumbonas en el hotel Fuente de la Higuera](etheria-images/2022/07/Fuente-higuera-jardin.jpg "Exterior de una de las habitaciones.")
+![Tumbonas en el hotel Fuente de la Higuera](https://fotos.etheriamagazine.com/2022/07/Fuente-higuera-jardin.jpg "Exterior de una de las habitaciones.")
 
 ## Las habitaciones
 
@@ -65,7 +65,7 @@ privado), la Doble Superior, la Junior Suite, la Suite Clásica, la Suite Deluxe
 Duplex Suite (con dos dormitorios). Consulta las características de cada una de ellas, 
 ya que la mayoría cuentan con chimenea, sala de estar y terraza o patio privado. 
 
-![bañera de latón en hotel de Ronda La Fuente de la Higuera](etheria-images/2022/07/Fuente-higuera-bano-suite.jpg "Baño de la Suite Deluxe número 1.")
+![bañera de latón en hotel de Ronda La Fuente de la Higuera](https://fotos.etheriamagazine.com/2022/07/Fuente-higuera-bano-suite.jpg "Baño de la Suite Deluxe número 1.")
 
 ## La gastronomía
 
@@ -77,7 +77,7 @@ contundente, hasta la cena a la carta. Presta atención a la carta de vinos, con
 interesantes referencias locales (tienes que probar sí o sí alguno de los vinos 
 rondeños) e internacionales. 
 
-![Vistas desde la terraza del hotel Fuente de la Higuera en Ronda](etheria-images/2022/07/fuente-higuera-desayuno.jpg "Desayuno con vistas.")
+![Vistas desde la terraza del hotel Fuente de la Higuera en Ronda](https://fotos.etheriamagazine.com/2022/07/fuente-higuera-desayuno.jpg "Desayuno con vistas.")
 
 Para la última comida del día proponen cada mañana un menú con varios platos a elegir: 
 dos primeros, tres segundos (con una opción vegetariana) y dos postres. Antes de las 

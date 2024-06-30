@@ -1,7 +1,7 @@
 ---
 title: "Lee Friedlander, la mejor exposición de fotografía de Madrid"
 date: 2020-10-10
-coverImage: etheria-images/2020/10/lee-frielander-baltimore-1968.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/lee-frielander-baltimore-1968.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ una exposición del renombrado fotógrafo Lee Friedlander. En ella se realiza un
 itinerario cronológico de su trayectoria– y de la sociedad americana– a través de casi 
 350 imágenes. ¡Una exposición imprescindible este otoño! 
 
-![exposicion Lee Friedlander baltimore](etheria-images/2020/10/lee-frielander-baltimore-1968.jpg "Baltimore, 1968. © Lee Friedlander")
+![exposicion Lee Friedlander baltimore](https://fotos.etheriamagazine.com/2020/10/lee-frielander-baltimore-1968.jpg "Baltimore, 1968. © Lee Friedlander")
 
 Es un privilegio para madrileños y visitantes tener la posibilidad de recorrer la 
 exposición dedicada a **Lee Friedlander**, uno de los fotógrafos norteamericanos más 
@@ -33,14 +33,14 @@ Su etapa más fructífera se inicia en **Nueva York**, donde se traslada con 22 
 comienza a colaborar con revistas como _Esquire_, _Holiday_ y _Sports Illustrated_. La 
 fotografía en aquel momento aún no se acepta como un arte en sí misma. 
 
-![Lee Friedlander en madrid](etheria-images/2020/10/Lee-friedlander-fotografo-americano.jpg "Lee Friedlander Nashville, 1963. © Lee Friedlander")
+![Lee Friedlander en madrid](https://fotos.etheriamagazine.com/2020/10/Lee-friedlander-fotografo-americano.jpg "Lee Friedlander Nashville, 1963. © Lee Friedlander")
 
 Ocho años después, en 1964, la calidad de sus imágenes ya se puede apreciar en el MoMA 
 donde participó en la exposición _The Photographer’s Eye_. A esta muestra le siguieron 
 otras muchas en las que refleja con ironía su apego a la cultura popular y las 
 innovaciones que se introducen en la sociedad americana. 
 
-![Lee Friedlander exposicion madrid](etheria-images/2020/10/exposicion-lee-friendlander-madrid.jpg "Nueva York, 1963. © Lee Friedlander")
+![Lee Friedlander exposicion madrid](https://fotos.etheriamagazine.com/2020/10/exposicion-lee-friendlander-madrid.jpg "Nueva York, 1963. © Lee Friedlander")
 
 ## La obra de Lee Friedlander
 
@@ -56,7 +56,7 @@ jazz, y algunos elementos que iba encontrando en su camino y que destacan su sen
 la ironía (como los de _The Little Screens_). De sus viajes por Europa también se 
 exhiben 11 imágenes tomadas en la España de 1964. 
 
-![padre Duffy de Lee Friedlander](etheria-images/2020/10/lee-friedlander-expo-mapfre.jpg "El padre Duffy, Times Square, Nueva York, 1974. © Lee Friedlander")
+![padre Duffy de Lee Friedlander](https://fotos.etheriamagazine.com/2020/10/lee-friedlander-expo-mapfre.jpg "El padre Duffy, Times Square, Nueva York, 1974. © Lee Friedlander")
 
 ### Años 70 y 80, fotografía documental
 
@@ -72,7 +72,7 @@ Friedlander “No hace fotografías de desnudos, sino que estos se convierten en
 fotografías”. Una interesante imagen es la de su esposa en ‘María, Las Vegas, Nevada, 
 1970’. 
 
-![maria Las Vegas de Lee Friedlander](etheria-images/2020/10/lee-friedlander-desnudo.jpg "María, Las Vegas, Nevada, 1970. © Lee Friedlander")
+![maria Las Vegas de Lee Friedlander](https://fotos.etheriamagazine.com/2020/10/lee-friedlander-desnudo.jpg "María, Las Vegas, Nevada, 1970. © Lee Friedlander")
 
 ### Friedlander, años 90
 
@@ -85,7 +85,7 @@ tiempo, tal como muestran sus proyectos ‘Flowers & Trees’ y ‘Cherry Blosso
 Japan’. Aunque nunca abandona esa fotografía social que refleja el momento, como en los 
 retratos de teleoperadores. 
 
-![Nueva York lee friedlander](etheria-images/2020/10/lee-friedlander-exposicion-mapfre-madrid.jpg "Nueva York, 2002. © Lee Friedlander")
+![Nueva York lee friedlander](https://fotos.etheriamagazine.com/2020/10/lee-friedlander-exposicion-mapfre-madrid.jpg "Nueva York, 2002. © Lee Friedlander")
 
 ### A partir del año 2000
 
@@ -96,7 +96,7 @@ automóvil, con salpicaderos o volantes en primer plano. Aunque hayamos dividido
 trayectoria en etapas, como comentamos inicialmente, Friedlander retoma los temas de su 
 fotografía, una y otra vez, a lo largo del tiempo. 
 
-![fotografia montana de Lee Friedlander fundacion mapfre madrid](etheria-images/2020/10/lee-friedlander-fotos-coches.jpg "Montana, 2008. © Lee Friedlander")
+![fotografia montana de Lee Friedlander fundacion mapfre madrid](https://fotos.etheriamagazine.com/2020/10/lee-friedlander-fotos-coches.jpg "Montana, 2008. © Lee Friedlander")
 
 ### Fundación Mapfre
 

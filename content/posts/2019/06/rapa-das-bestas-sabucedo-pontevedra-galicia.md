@@ -1,7 +1,7 @@
 ---
 title: "A rapa das bestas, una cita en Sabucedo (Pontevedra)"
 date: 2019-06-24
-coverImage: etheria-images/2019/06/Rapa-das-Bestas-galicia.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -14,7 +14,7 @@ valentía y destreza, marcarlos, cortarles las crines y la cola. Antes de ser de
 al monte tendrá lugar la fiesta de 'A rapa das bestas', declarada de Interés Turístico 
 Internacional por la Unesco. 
 
-![rapa das bestas, fiestas de verano en galicia](etheria-images/2019/06/Rapa-das-Bestas-galicia.jpg "Los caballos llegan al galope desde los montes.")
+![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg "Los caballos llegan al galope desde los montes.")
 
 Pocas oportunidades tendrás de ver más de 600 caballos bajando juntos desde un monte. 
 Son las manadas que viven libres durante el año en los montes de la aldea pontevedresa 
@@ -29,7 +29,7 @@ una belleza única perfilada entre los tonos negros, rojizos y blancos de los ca
 > La admiración del público alienta las habilidades en juego llegando a despertar una 
 > euforia compartida ante el reñido contacto entre hombre y animal. 
 
-![rapa das bestas, sabucedo, fiestas de galicia](etheria-images/2019/06/rapa-das-bestas-galicia-e1560853519987.jpg "Más de 600 caballos bajan hasta Sabucedo (Pontevedra).")
+![rapa das bestas, sabucedo, fiestas de galicia](https://fotos.etheriamagazine.com/2019/06/rapa-das-bestas-galicia-e1560853519987.jpg "Más de 600 caballos bajan hasta Sabucedo (Pontevedra).")
 
 ## 1\. Por qué acudir a la fiesta
 
@@ -55,7 +55,7 @@ hombres. Cortar las crines es necesario para evitar los parásitos y que los ani
 queden enredados en los arbustos por su pelaje. De paso se aprovecha para curarles las 
 heridas que puedan tener de sus andanzas en libertad. 
 
-![rapa das bestas, fiestas de verano en galicia](etheria-images/2019/06/viaje-galicia-fiesta-rapa-bestas.jpg "Siempre es buen momento para degustar el rico pulpo gallego.")
+![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/viaje-galicia-fiesta-rapa-bestas.jpg "Siempre es buen momento para degustar el rico pulpo gallego.")
 
 Más allá de las verbenas y actuaciones con que acaban cada una de las jornadas festivas 
 y los **populares puestos de bebida y comida**, entre los que triunfan los de pulpo, 
@@ -69,7 +69,7 @@ parroquial.
 > El curro que se utiliza actualmente, dispone de un anfiteatro de gradas elevadas en 
 > torno al corral central para acoger a más de un millar de observadores. 
 
-![rapa das bestas, fiestas de verano en galicia](etheria-images/2019/06/viaje-galicia-fiesta-rapa-bestas-comer.jpg "Puestos de comida en la fiesta A rapa das bestas.")
+![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/viaje-galicia-fiesta-rapa-bestas-comer.jpg "Puestos de comida en la fiesta A rapa das bestas.")
 
 La emoción de participantes y observadores tensa el aire cuando se introducen de 200 a 
 300 caballos en el curro. Mientras, el resto de las manadas permanecen confinadas en 
@@ -79,7 +79,7 @@ del curro, llevándolos a unas cuadras junto al curro para no dañarlos, se desp
 vivo todo el arte rural para llevar a cabo la rapa de las bestas o caballos, una de las 
 más bellas fiestas de interés etnográfico. 
 
-![rapa das bestas, fiestas de verano en galicia](etheria-images/2019/06/rapa-das-bestas-julio-galicia.jpg "Rapa das bestas.")
+![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/rapa-das-bestas-julio-galicia.jpg "Rapa das bestas.")
 
 ## 2\. ¿Dónde es la cita?
 
@@ -107,7 +107,7 @@ acceso rodado los vecinos. Después camina hacia el bar del pueblo donde puedes 
 algo y comenzar a contagiarte del ambiente festivo y el orgullo que sienten los vecinos 
 durante estas jornadas entre caballos. 
 
-![rapa das bestas, Sabucedo, fiestas de verano en galicia](etheria-images/2019/06/galicia-fiesta-rapa-bestas.jpg "A los caballos se les corta la cola y las crines.")
+![rapa das bestas, Sabucedo, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/galicia-fiesta-rapa-bestas.jpg "A los caballos se les corta la cola y las crines.")
 
 ## 3\. Reserva en tu agenda con antelación
 
@@ -124,7 +124,7 @@ libertad por los montes de la localidad fueron haciendo que la manada creciera, 
 hizo necesario que una vez al año se recogiera y seleccionara a los caballos para su 
 mantenimiento adecuado. 
 
-![petroglifos en cequeril, rapa das bestas, fiestas verano galicia](etheria-images/2019/06/petroglifo-pontevedra.jpg "Petroglifos en Cequeril (Pontevedra).")
+![petroglifos en cequeril, rapa das bestas, fiestas verano galicia](https://fotos.etheriamagazine.com/2019/06/petroglifo-pontevedra.jpg "Petroglifos en Cequeril (Pontevedra).")
 
 Las piedras, sin embargo, afirman que este rito rural de comunión entre el hombre y el 
 caballo es de reminiscencias ancestrales como bien describió Estrabón hace 2.000 años. 
@@ -138,7 +138,7 @@ Aprovecha que estás al pie del [Camino de
 Santiago](https://etheriamagazine.com/2019/03/06/camino-de-finisterre-fairway/) y 
 acércate también hasta la catedral de Santiago, situada apenas a media hora de Sabucedo. 
 
-![rapa das bestas, fiestas de verano en galicia](etheria-images/2019/06/Caballos-rapa-das-bestas.jpg "Caballos o bestas.")
+![rapa das bestas, fiestas de verano en galicia](https://fotos.etheriamagazine.com/2019/06/Caballos-rapa-das-bestas.jpg "Caballos o bestas.")
 
 ## 4\. Prepara tu viaje
 

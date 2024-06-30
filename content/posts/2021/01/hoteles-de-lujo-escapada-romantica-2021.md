@@ -1,7 +1,7 @@
 ---
 title: "10 hoteles de lujo para una escapada romántica"
 date: 2021-01-21
-coverImage: etheria-images/2021/01/hoteles-lujo-Royal-hideaway-playacar.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/hoteles-lujo-Royal-hideaway-playacar.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -14,7 +14,7 @@ authors:
 
 Se acerca San Valentín y en este año raro es muy probable que no puedas hacer esa escapada que tenías en mente. En Etheria Magazine te proponemos que celebres esta fecha cuando tú quieras y planees para 2021 una escapada romántica con tu pareja a uno de estos 10 hoteles de lujo. Los hay cercanos y también muy remotos, pero todos son perfectos para disfrutar de unos días en un entorno maravilloso.
 
-![hoteles de lujo en isla mauricio](etheria-images/2021/01/Hoteles-lujo-Anantara-Mauricio.jpg "Romántica cena en la playa en el © Anantara Iko Mauritius.")
+![hoteles de lujo en isla mauricio](https://fotos.etheriamagazine.com/2021/01/Hoteles-lujo-Anantara-Mauricio.jpg "Romántica cena en la playa en el © Anantara Iko Mauritius.")
 
 ## 1\. Anantara Iko Mauritius
 
@@ -29,7 +29,7 @@ exquisito. Además, es perfecto para una escapada romántica, podrás disfrutar 
 solo para dos en la playa o en tu jardín, o reservar el exclusivo espacio '1884' para 
 que os preparen un menú con maridaje para vosotros solos. 
 
-![fin de semana en lisboa](etheria-images/2021/01/hoteles-lujo.Pestana-palace.jpg "Hora del té en el hotel © Pestana Palace de Lisboa.")
+![fin de semana en lisboa](https://fotos.etheriamagazine.com/2021/01/hoteles-lujo.Pestana-palace.jpg "Hora del té en el hotel © Pestana Palace de Lisboa.")
 
 ## 2\. Hotel Pestana Palace Lisboa
 
@@ -44,7 +44,7 @@ vajillas en las que disfrutaréis de un té al más puro estilo _british_. Adem�
 todo: una bonita piscina, un spa con los mejores tratamientos y unos jardines por los 
 que perderse en un paseo. ¡Y está en el centro de Lisboa! 
 
-![hoteles de lujo en tenerife](etheria-images/2021/01/hoteles-lujobaobab-tenerife.jpg "Piscina privada de una de las suites del © Baobab Suites Hotel")
+![hoteles de lujo en tenerife](https://fotos.etheriamagazine.com/2021/01/hoteles-lujobaobab-tenerife.jpg "Piscina privada de una de las suites del © Baobab Suites Hotel")
 
 ## 3\. Hotel Baobab Suites de Tenerife
 
@@ -58,7 +58,7 @@ acristaladas, que por un lado aportan un extra de luz a las estancias y por otro
 unas vistas sin límites de la costa o la montaña. Consulta las categorías de habitación 
 con piscina privada o jacuzzi en la terraza: merecen la pena. 
 
-![fin de semana en León](etheria-images/2021/01/hoteles-lujo-Parador-leon.jpg "Fachada del © Parador de León.")
+![fin de semana en León](https://fotos.etheriamagazine.com/2021/01/hoteles-lujo-Parador-leon.jpg "Fachada del © Parador de León.")
 
 ## 4\. Parador de León
 
@@ -75,7 +75,7 @@ fascinante](https://etheriamagazine.com/2020/12/28/10-razones-para-descubrir-leo
 y [16 secretos que desconoces de la milenaria ciudad de 
 León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/). 
 
-![](etheria-images/2021/01/hoteles-lujo-seaside-finolhu.jpg "Terraza de la villa Ocean Pool Villa del © hotel Seaside Finolhu (Maldivas).")
+![](https://fotos.etheriamagazine.com/2021/01/hoteles-lujo-seaside-finolhu.jpg "Terraza de la villa Ocean Pool Villa del © hotel Seaside Finolhu (Maldivas).")
 
 ## 5\. Hotel Seaside Finolhu, en Maldivas
 
@@ -88,7 +88,7 @@ Podréis elegir entre las villas en la playa o los _overwaters_, las villas que 
 sobre la laguna. Además, el atolón Baa donde se ubica, declarado reserva de la Biosfera 
 por la Unesco, es un auténtico paraíso para los amantes del buceo. 
 
-![viaje a Toscana](etheria-images/2021/01/hotele-lujo-Borgo-Santo-Prieto.jpg "Panorámica del © Borgo Santo Pietro")
+![viaje a Toscana](https://fotos.etheriamagazine.com/2021/01/hotele-lujo-Borgo-Santo-Prieto.jpg "Panorámica del © Borgo Santo Pietro")
 
 ## 6\. Borgo Santo Pietro, en la Toscana
 
@@ -103,7 +103,7 @@ pueden ser más bonitas, con una combinación perfecta de modernidad y muebles l
 historia. Además, cuenta con una excelente gastronomía y su desayuno es uno de los 
 mejores que hemos probado, en un entorno tan auténtico que te hace sentir como en casa. 
 
-![viajes a gran canaria](etheria-images/2021/01/hoteles-lujo-santa-catalina.jpg "Piscina del © Santa Catalina, a Royal Hideaway Resort (Las Palmas)")
+![viajes a gran canaria](https://fotos.etheriamagazine.com/2021/01/hoteles-lujo-santa-catalina.jpg "Piscina del © Santa Catalina, a Royal Hideaway Resort (Las Palmas)")
 
 ## 7\. Santa Catalina, a Royal Hideaway Hotel (Gran Canaria)
 
@@ -117,7 +117,7 @@ ambiente urbano de la capital. De este hotel nos encanta su _infinity pool_, sus
 señoriales salones y la gastronomía, con una estrella Michelin, de su restaurante Poemas 
 by Hermanos Padrón. 
 
-![hoteles de lujo en Algarve](etheria-images/2021/01/hoteles-lujo-tivoli-cavoerio.jpg "Piscina del © hotel Tivoli Carvoeiro")
+![hoteles de lujo en Algarve](https://fotos.etheriamagazine.com/2021/01/hoteles-lujo-tivoli-cavoerio.jpg "Piscina del © hotel Tivoli Carvoeiro")
 
 ## 8\. Hotel Tivoli Carvoeiro, en Algarve
 
@@ -131,7 +131,7 @@ Vale Cobo, disfrutaréis de unas vistas increíbles, sobre todo si os alojáis e
 sus habitaciones con terraza orientada al mar. Para daros un capricho, elegid la Junior 
 Suite Premium, con jacuzzi en la terraza. Una delicia. 
 
-![](etheria-images/2021/01/hoteles-lujo-Royal-hideaway-playacar.jpg "Infinity Pool del © Royal Hideaway Playacar (Playa del Carmen)")
+![](https://fotos.etheriamagazine.com/2021/01/hoteles-lujo-Royal-hideaway-playacar.jpg "Infinity Pool del © Royal Hideaway Playacar (Playa del Carmen)")
 
 ## 9\. Royal Hideaway Playacar Adults Only (México)
 
@@ -146,7 +146,7 @@ tiempo: si en una de sus seis piscinas, en su playa, en su spa o haciendo una ex
 organizada por su centro de buceo. Por cierto, no os perdáis la experiencia de hacer 
 _snorkel_ en un cenote, es un momento único. 
 
-![hoteles de lujo en canarias](etheria-images/2021/01/hoteles-lujo-melia-salinas-playa.jpg "Playa frente al © hotel Meliá Salinas")
+![hoteles de lujo en canarias](https://fotos.etheriamagazine.com/2021/01/hoteles-lujo-melia-salinas-playa.jpg "Playa frente al © hotel Meliá Salinas")
 
 ## 10\. Meliá Salinas, en Lanzarote
 

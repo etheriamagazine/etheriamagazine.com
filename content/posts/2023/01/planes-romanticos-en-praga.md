@@ -1,7 +1,7 @@
 ---
 title: "Planes románticos en Praga, clásicos u originales"
 date: 2023-01-30
-coverImage: etheria-images/2023/01/praga-romantica-spa-cerveza.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/01/praga-romantica-spa-cerveza.jpg
 categories: 
   - viajes-romanticos
 authors: 
@@ -14,7 +14,7 @@ avión y los planes románticos en Praga no faltan sea cual sea la edad o el gus
 viajeros. Si necesitáis propuestas para vuestro viaje a esta ciudad, a continuación os 
 detallamos algunas clásicas y otras originales. 
 
-![En la orilla del Moldava junto a los cisnes.](etheria-images/2023/01/praga-romantica-850x567.jpg "En la orilla del Moldava junto a los cisnes. © Wellstock")
+![En la orilla del Moldava junto a los cisnes.](https://fotos.etheriamagazine.com/2023/01/praga-romantica-850x567.jpg "En la orilla del Moldava junto a los cisnes. © Wellstock")
 
 Las **escapadas en pareja**, tanto dentro como fuera del territorio nacional, se han 
 convertido en el mejor regalo y también en la propuesta ideal para celebrar cumpleaños, 
@@ -33,7 +33,7 @@ casitas medievales del barrio de **Nuevo Mundo** (Nový Svět). Tampoco puede fa
 paseo por la ribera del Moldava con los cisnes y el Puente de Carlos al fondo o en la 
 serena isla de Kampa, entre canales, molinos de agua y museos. 
 
-![Panorámica de Praga al anochecer.](etheria-images/2023/01/praga-romantica-puentes-850x567.jpg "Panorámica de Praga al anochecer.")
+![Panorámica de Praga al anochecer.](https://fotos.etheriamagazine.com/2023/01/praga-romantica-puentes-850x567.jpg "Panorámica de Praga al anochecer.")
 
 ## Subir a las torres de Praga
 
@@ -43,7 +43,7 @@ vistas son asombrosas. Entre las torres con mejores panorámicas están la del
 **Ayuntamiento**, la de la **Pólvora**, la de la **iglesia de San Nicolás**, la de la 
 **Catedral de San Vito** y la de **Petřín**. 
 
-![Casa Municipal y Torre de la Pólvora.](etheria-images/2023/01/praga-romantica-Casa-Municipal-850x566.jpg "Torre de la Pólvora y la Casa Municipal que alberga un bellísimo restaurante art nouveau.")
+![Casa Municipal y Torre de la Pólvora.](https://fotos.etheriamagazine.com/2023/01/praga-romantica-Casa-Municipal-850x566.jpg "Torre de la Pólvora y la Casa Municipal que alberga un bellísimo restaurante art nouveau.")
 
 ## Visitar un café histórico
 
@@ -56,7 +56,7 @@ columnas; del **Grand Café Orient**, su estilo cubista, único en el mundo; y d
 Obecní dům** (en la Casa Municipal), el haber atrapado los años 20 en su interior. Todos 
 ellos ofrecen una deliciosa pastelería para acompañar el café. No se puede pedir más. 
 
-![Grand Café Orient de Praga.](etheria-images/2023/01/grand-cafe-orient-praga.jpg "© Grand Café Orient de Praga.")
+![Grand Café Orient de Praga.](https://fotos.etheriamagazine.com/2023/01/grand-cafe-orient-praga.jpg "© Grand Café Orient de Praga.")
 
 ## Admirar el arte checo
 
@@ -68,7 +68,7 @@ contemporáneo que no dejan indiferente: el Museo Kampa, que acoge la mayor cole
 pinturas del pintor František Kupka; el Centro de Arte Contemporáneo DOX, en el barrio 
 de Holešovice; o el Museo Franz Kafka. 
 
-![Museo Nacional de Praga, en la plaza de San Wenceslao.](etheria-images/2023/01/museo-nacional-praga.jpg "Museo Nacional de Praga, en la plaza de San Wenceslao. © Kadagan/Shutterstock.com")
+![Museo Nacional de Praga, en la plaza de San Wenceslao.](https://fotos.etheriamagazine.com/2023/01/museo-nacional-praga.jpg "Museo Nacional de Praga, en la plaza de San Wenceslao. © Kadagan/Shutterstock.com")
 
 ## Navegar por el Moldava
 
@@ -80,7 +80,7 @@ los canales de la isla de Kampa, la llamada “Venecia de Praga”, hasta crucer
 llevan a la confluencia con el Elba. Ver el atardecer desde un barco mientras la ciudad 
 se ilumina es una de las mejores maneras de acabar el día en la capital checa. 
 
-![Navegando en los canales de Praga.](etheria-images/2023/01/Praga-romantica-crucero-850x519.jpg "Navegando en los canales de Praga.")
+![Navegando en los canales de Praga.](https://fotos.etheriamagazine.com/2023/01/Praga-romantica-crucero-850x519.jpg "Navegando en los canales de Praga.")
 
 ## Tomar un baño de cerveza
 
@@ -91,7 +91,7 @@ junto a las bañeras y en la **Sauna Beer Spa** encontraréis camas de heno dond
 descansar posteriormente. Y a quienes no les apasione la cerveza, siempre existen 
 opciones con vino en el **Spa Bramen**. 
 
-![Pareja en un spa de cerveza.](etheria-images/2023/01/praga-romantica-spa-cerveza-850x539.jpg "Pareja en un spa de cerveza. © David Marvan")
+![Pareja en un spa de cerveza.](https://fotos.etheriamagazine.com/2023/01/praga-romantica-spa-cerveza-850x539.jpg "Pareja en un spa de cerveza. © David Marvan")
 
 ## Asistir a un espectáculo
 
@@ -102,7 +102,7 @@ bellísima **Sinagoga Española**, emocionarse en la **Ópera Estatal**, acudir 
 Nacional** o al **de los Estamentos** son opciones que complementan la propuesta, 
 habitualmente más demandada, del “teatro negro”. 
 
-![Sinagoga Española, en el barrio judío de Praga.](etheria-images/2023/01/praga-sinagoga-espanola-850x567.jpg "Sinagoga Española, en el barrio judío de Praga. © Libor Sváček")
+![Sinagoga Española, en el barrio judío de Praga.](https://fotos.etheriamagazine.com/2023/01/praga-sinagoga-espanola-850x567.jpg "Sinagoga Española, en el barrio judío de Praga. © Libor Sváček")
 
 ## Plan original: kayak y sauna en el Moldava
 
@@ -113,7 +113,7 @@ panorámicas son tan impresionantes que no querréis que la experiencia termine.
 puede terminar con una sauna y una copa sobre una plataforma sobre el río Moldava. Lo 
 organiza [Kayak Beach Bar](https://www.kayakbeachbar.cz/en/) y el ambiente es animado. 
 
-![Atardecer sobre el Moldava.](etheria-images/2023/01/crucero-navegar-praga.jpg "Atardecer sobre el Moldava.")
+![Atardecer sobre el Moldava.](https://fotos.etheriamagazine.com/2023/01/crucero-navegar-praga.jpg "Atardecer sobre el Moldava.")
 
 ## Dormir en un hotel romántico en Praga
 
@@ -127,7 +127,7 @@ instalaciones muy especiales el **hotel Augustine**, en un monasterio del siglo 
 habitaciones; el **hotel Aria**, que ofrece una bonita azotea con vistas al centro 
 histórico; y el exclusivo **The Julius**. 
 
-![Hotel Mozart, un alojamiento ideal para parejas](etheria-images/2023/01/praga-romantica-hotel-mozart.jpg "Suite del © Hotel Mozart, uno de los más románticos de Praga.")
+![Hotel Mozart, un alojamiento ideal para parejas](https://fotos.etheriamagazine.com/2023/01/praga-romantica-hotel-mozart.jpg "Suite del © Hotel Mozart, uno de los más románticos de Praga.")
 
 ## Tocar las estrellas en un restaurante
 
@@ -143,7 +143,7 @@ para terminar: **U Modré Kachničky**, cuya especialidad es el pato, y el **res
 de la Casa Municipal**, con una carta muy completa donde no faltan las delicias checas 
 ni alguna internacional y una decoración maravillosa. 
 
-![Restaurante Aureole de Praga.](etheria-images/2023/01/restaurante-aureole-praga.jpg "© Restaurante Aureole de Praga.")
+![Restaurante Aureole de Praga.](https://fotos.etheriamagazine.com/2023/01/restaurante-aureole-praga.jpg "© Restaurante Aureole de Praga.")
 
 ? **También te puede interesar...** 
 

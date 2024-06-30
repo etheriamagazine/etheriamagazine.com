@@ -1,7 +1,7 @@
 ---
 title: "¿Qué papel jugaron las mujeres mineras asturianas? Bajamos al Pozo Sotón para comprobarlo"
 date: 2021-10-20
-coverImage: etheria-images/2021/10/galeria-mina-asturias.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/galeria-mina-asturias.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -14,7 +14,7 @@ authors:
 Pozo Sotón, a 600 metros de profundidad, para acercarnos a la vida y reivindicaciones de 
 estas féminas que, incluso desafiando a la ley, no temían a mancharse la cara de carbón. 
 
-![carboneras mujeres mineras asturianas](etheria-images/2021/10/mujeres-mineras-asturias-1950.jpg "Carboneras en el Lavadero de La Encarná, Hueria de Carrocera, San Martín del Rey Aurelio, Asturias. Años 50. © Archivo Histórico Minero.")
+![carboneras mujeres mineras asturianas](https://fotos.etheriamagazine.com/2021/10/mujeres-mineras-asturias-1950.jpg "Carboneras en el Lavadero de La Encarná, Hueria de Carrocera, San Martín del Rey Aurelio, Asturias. Años 50. © Archivo Histórico Minero.")
 
 Las mujeres de las Cuencas Mineras siempre estuvieron presentes en las tareas 
 relacionadas con el carbón, pero para ejercer como mineras, debieron hacerlo ilegalmente 
@@ -28,7 +28,7 @@ hizo sentir”. María Suárez es una de las mujeres mineras que nos acompañar�
 Pozo Sotón. La visita muestra cómo funciona el interior de una mina, pero sobre todo, 
 zarandea la **memoria industrial asturiana**. 
 
-![visita mujeres pozo soton](etheria-images/2021/10/mujeres-visita-mina.jpg "Grupo de mujeres durante la visita al interior del Pozo Sotón. © Francisco Cabal.")
+![visita mujeres pozo soton](https://fotos.etheriamagazine.com/2021/10/mujeres-visita-mina.jpg "Grupo de mujeres durante la visita al interior del Pozo Sotón. © Francisco Cabal.")
 
 ## Una Asturias desconocida
 
@@ -43,7 +43,7 @@ castilletes han sido abandonados, o con suerte, reconvertidos, como el [Archivo
 Histórico Minero](https://www.archivohistoricominero.org/) o el [Museo de la 
 Minería](http://www.mumi.es/), ubicado en un falso castillete. 
 
-![carteles pozo soton](etheria-images/2021/10/carteles-mina-asturias.jpg "Detalle del exterior del Pozo Sotón. © Kelu Robles")
+![carteles pozo soton](https://fotos.etheriamagazine.com/2021/10/carteles-mina-asturias.jpg "Detalle del exterior del Pozo Sotón. © Kelu Robles")
 
 Antiguos economatos, sanatorios, viviendas que hospedaban a ingenieros solteros y una 
 central térmica cerrada asoman por un frondoso paisaje. La actividad de la **fábrica de 
@@ -55,7 +55,7 @@ es otra de sus grandes esperanzas.
 > Oviedo debe conservarse, esto tampoco debería", reclama Mónica García, Asesora 
 > Científica de Hunosa. 
 
-![economato mineros asturias](etheria-images/2021/10/economato-minas-asturias.jpg "En los economatos, los trabajadores adquirían productos a un precio inferior al de otros comercios. © K.R.")
+![economato mineros asturias](https://fotos.etheriamagazine.com/2021/10/economato-minas-asturias.jpg "En los economatos, los trabajadores adquirían productos a un precio inferior al de otros comercios. © K.R.")
 
 ## Mujeres mineras, las peores labores
 
@@ -73,7 +73,7 @@ aprovechaban para el consumo en el hogar. Si posteriormente desarrollaban **sili
 su afección no sería reconocida como enfermedad profesional, ya que había sido contraída 
 en el exterior. 
 
-![carboneras lavadero la encarna asturias](etheria-images/2021/10/carboneras-mineras-asturias.jpg "Carboneras en el Lavadero de La Encarná. © Archivo Histórico Minero.")
+![carboneras lavadero la encarna asturias](https://fotos.etheriamagazine.com/2021/10/carboneras-mineras-asturias.jpg "Carboneras en el Lavadero de La Encarná. © Archivo Histórico Minero.")
 
 ## La sentencia que lo cambió todo
 
@@ -88,7 +88,7 @@ pruebas.
 > Con ella, las puertas del interior de las minas asturianas se abrieron definitivamente 
 > para las mujeres. 
 
-![primera minera espana revista pronto](etheria-images/2021/10/revista-primera-minera.jpg "Concepción Rodríguez Valencia, primera minera reconocida de España en los 90. © Revista Pronto")
+![primera minera espana revista pronto](https://fotos.etheriamagazine.com/2021/10/revista-primera-minera.jpg "Concepción Rodríguez Valencia, primera minera reconocida de España en los 90. © Revista Pronto")
 
 ## Una visita al interior del Pozo Sotón
 
@@ -102,7 +102,7 @@ la **Catedral Minera** y declarado [Bien de Interés
 Cultural](https://www.culturaydeporte.gob.es/cultura/patrimonio/bienes-culturales-protegidos.html) 
 en la categoría de Monumento, se dedica a la divulgación y al turismo. 
 
-![exterior pozo soton asturias](etheria-images/2021/10/exterior-pozo-soton.jpg "Doble castillete del Pozo Sotón. © K.R.")
+![exterior pozo soton asturias](https://fotos.etheriamagazine.com/2021/10/exterior-pozo-soton.jpg "Doble castillete del Pozo Sotón. © K.R.")
 
 Cada arco del interior de la mina soporta hasta 800 toneladas de presión. Conviene no 
 tener muy presente esta idea en el interior. "La tierra se comporta como un ser vivo, 
@@ -120,7 +120,7 @@ calcetines de lana, calzoncillos, tapones para los oídos, un mono, botas de agu
 guantes y una camiseta. Los accesorios para el aseo final también serán fundamentales, 
 el **polvo de hulla** invadirá cada centímetro de piel a la vista. 
 
-![sala maquinas pozo soton asturias](etheria-images/2021/10/sala-maquinas-mina-asturias.jpg "Momento durante la visita exterior, en la sala de máquinas.  © HUNOSA")
+![sala maquinas pozo soton asturias](https://fotos.etheriamagazine.com/2021/10/sala-maquinas-mina-asturias.jpg "Momento durante la visita exterior, en la sala de máquinas.  © HUNOSA")
 
 Tras recibir una **charla de seguridad**, recorremos uniformados el exterior del Pozo 
 Sotón. Quienes por cuestiones físicas o de edad no pueden adentrarse en el subsuelo –la 
@@ -134,7 +134,7 @@ la aparatosa indumentaria. Su entrega se realiza en la **lampistería**, donde e
 lampistero enumera quién entra y quién sale de la mina, y con ello, ejerce un papel 
 superior: comprobar que todos hemos vuelto sanos y salvos. 
 
-![detalla lampara mina asturias](etheria-images/2021/10/detalle-mina.jpg "Detalle del rescatador y la batería de la lámpara con su número correspondiente. © K.R.")
+![detalla lampara mina asturias](https://fotos.etheriamagazine.com/2021/10/detalle-mina.jpg "Detalle del rescatador y la batería de la lámpara con su número correspondiente. © K.R.")
 
 > Nos despojamos de teléfonos móviles y cámaras de fotos para evitar cualquier riesgo de 
 > explosión. 
@@ -156,7 +156,7 @@ Apuramos el pequeño espacio de la jaula que nos llevará hacia el interior del 
 donde tomamos contacto con la oscuridad y las estrecheces de la primera prueba: 
 **descender por una chimenea vertical**. 
 
-![visita pozo soton](etheria-images/2021/10/galeria-mina-asturias.jpg "Momento durante la visita interior en una de las galerías. © Francisco Cabal")
+![visita pozo soton](https://fotos.etheriamagazine.com/2021/10/galeria-mina-asturias.jpg "Momento durante la visita interior en una de las galerías. © Francisco Cabal")
 
 De las chimeneas se extrae carbón, aunque también sirven como salida de emergencia y 
 conducto de ventilación. Su nombre técnico coincide con su forma: Jota. Nos deslizamos 
@@ -172,7 +172,7 @@ alguna pintada furtiva de mineros que escribían mensajes de amor a sus parejas.
 
 > Las galerías complicadas suelen recibir nombre de mujer. 
 
-![barrenar mina asturias](etheria-images/2021/10/barrenar-mina-asturias.jpg "Martillos neumáticos ayudan a barrenar las galerías. © Francisco Cabal")
+![barrenar mina asturias](https://fotos.etheriamagazine.com/2021/10/barrenar-mina-asturias.jpg "Martillos neumáticos ayudan a barrenar las galerías. © Francisco Cabal")
 
 ## Barrenar y picar
 
@@ -190,7 +190,7 @@ que nos devolverá hacia la luz del día.
 
 > Ahora ya sabemos qué se siente dentro de una mina. 
 
-![visita pozo soton asturias](etheria-images/2021/10/locomotora-pozo-asturias.jpg "Un momento de pausa durante el regreso al exterior. © KR")
+![visita pozo soton asturias](https://fotos.etheriamagazine.com/2021/10/locomotora-pozo-asturias.jpg "Un momento de pausa durante el regreso al exterior. © KR")
 
 ## El Pozo Sotón
 
@@ -203,7 +203,7 @@ Si te animas a vivir esta experiencia, consulta todas las modalidades de visitas
 **Pozo Sotón** –la interior larga, corta, exterior, el CEMM– y selecciona en esta [web](https://www.pozosoton.es/reservar-visita-mina/) 
 la que más se ajuste a tus preferencias. 
 
-![visita pozo soton asturias](etheria-images/2021/10/exterior-hunosa-minas-1.jpg "Entorno del Pozo Sotón. © Kelu Robles")
+![visita pozo soton asturias](https://fotos.etheriamagazine.com/2021/10/exterior-hunosa-minas-1.jpg "Entorno del Pozo Sotón. © Kelu Robles")
 
 ### También te puede interesar...
 

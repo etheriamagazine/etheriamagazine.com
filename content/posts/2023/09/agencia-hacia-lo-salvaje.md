@@ -1,7 +1,7 @@
 ---
 title: "Hacia lo Salvaje, nuevos viajes con mirada ecofeminista"
 date: 2023-09-18
-coverImage: etheria-images/2023/09/mujeres-naturaleza.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/09/mujeres-naturaleza.jpg
 categories: 
   - mujeres-etheria
   - proyectos-con-alma
@@ -13,7 +13,7 @@ Ana Cristina Cortés Luengo, fundadora de Hacia lo Salvaje, nos cuenta una nueva
 modalidad de viajes que está a punto de ver la luz. A partir de este otoño, será posible 
 hacer viajes con una perspectiva ecofeminista. 
 
-![Ana Cortés Luengo, agencia Hacia lo Salvaje](etheria-images/2023/09/ana-cortes-agencia-viajes-756x1024.jpg "Ana Cortés Luengo, fundadora de Hacia lo Salvaje.")
+![Ana Cortés Luengo, agencia Hacia lo Salvaje](https://fotos.etheriamagazine.com/2023/09/ana-cortes-agencia-viajes-756x1024.jpg "Ana Cortés Luengo, fundadora de Hacia lo Salvaje.")
 
 Ana Cristina Cortés es una ferviente amante de la naturaleza y de las actividades al 
 aire libre. Nació en Zaragoza pero su inquietud la ha llevado a vivir en constante 
@@ -34,7 +34,7 @@ Además, gracias a ser autocaravanista **ha empatizado con el paisanaje, con los
 y los entornos rurales** y a ser consciente de los desafíos a los que se enfrentan cada 
 día. 
 
-![Rutas en la naturaleza.](etheria-images/2023/09/mujeres-naturaleza.jpg "Rutas en la naturaleza. © Kalen Emsley")
+![Rutas en la naturaleza.](https://fotos.etheriamagazine.com/2023/09/mujeres-naturaleza.jpg "Rutas en la naturaleza. © Kalen Emsley")
 
 ## El ecofeminismo, un punto clave
 
@@ -49,7 +49,7 @@ las aportaciones de las mujeres”
 Y desde que empezó a adentrarse en este movimiento tuvo claro que su nuevo 
 emprendimiento debía incorporar perspectivas ecofeministas. 
 
-![Logotipo de Hacia lo Salvaje.](etheria-images/2023/09/hacia-lo-salvaje.jpg "Logotipo de Hacia lo Salvaje.")
+![Logotipo de Hacia lo Salvaje.](https://fotos.etheriamagazine.com/2023/09/hacia-lo-salvaje.jpg "Logotipo de Hacia lo Salvaje.")
 
 ## Qué es Hacia lo Salvaje
 
@@ -67,7 +67,7 @@ sus vecinos. Son viajes activos, donde el senderismo, la bici o el kayak permiti
 sólo trabajar en el bienestar del viajero y conectar con la naturaleza, sino también 
 fomentar una movilidad por estos territorios de forma sostenible y respetuosa. 
 
-![Mujer de viaje mirando el mar](etheria-images/2023/09/mujeres-viaje-sola.jpg "Los viajes de Hacia lo Salvaje desean conectar con la naturaleza. © Cristina Gottardi")
+![Mujer de viaje mirando el mar](https://fotos.etheriamagazine.com/2023/09/mujeres-viaje-sola.jpg "Los viajes de Hacia lo Salvaje desean conectar con la naturaleza. © Cristina Gottardi")
 
 ## Para qué tipo de viajeras
 
@@ -98,7 +98,7 @@ en la bioconstrucción, campamentos, casas rurales, albergues, refugios o yurtas
 el viaje, las comidas también estarán muy cuidadas y coherentes con la filosofía del 
 viaje por lo que serán vegetariana. 
 
-![El diario del viaje forma parte de la experiencia](etheria-images/2023/09/diario-viaje.jpg "El diario del viaje forma parte de la experiencia. © Eugenia Ai")
+![El diario del viaje forma parte de la experiencia](https://fotos.etheriamagazine.com/2023/09/diario-viaje.jpg "El diario del viaje forma parte de la experiencia. © Eugenia Ai")
 
 ## El diario de viaje
 

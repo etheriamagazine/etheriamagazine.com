@@ -1,7 +1,7 @@
 ---
 title: "10 mujeres que nos han inspirado en 2019"
 date: 2019-12-26
-coverImage: etheria-images/2019/04/milly-thomas-dust.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/milly-thomas-dust.jpg
 categories: 
   - historias-en-femenino
   - de-un-vistazo
@@ -17,7 +17,7 @@ Toca cerrar el año y hacer recuento. Son muchas las mujeres que nos han inspira
 fuerza, empuje y perseverancia, cualidades que destacan tanto en su faceta profesional 
 como en su vida cotidiana. Aquí te recordamos sólo diez de nuestras Mujeres Etheria. 
 
-![marisa, viajes mundo amigo](etheria-images/2019/03/marisa-viajes-mundo-amigo.jpg "Marisa León de Viajes Mundo Amigo.")
+![marisa, viajes mundo amigo](https://fotos.etheriamagazine.com/2019/03/marisa-viajes-mundo-amigo.jpg "Marisa León de Viajes Mundo Amigo.")
 
 ## 1\. Marisa León, cofundadora de Viajes Mundo Amigo.
 
@@ -28,7 +28,7 @@ conocimiento tanto en los destinos como en los procesos necesarios para que un v
 perfecto, hacen que te fíes de ella sí o sí para elegir el destino de tus próximas 
 vacaciones. 
 
-![meda mladek](etheria-images/2019/08/meda-mladek-apertura.jpg "Meda Mládek, colecionista de arte, mecenas y fundadora del Museo Kampa")
+![meda mladek](https://fotos.etheriamagazine.com/2019/08/meda-mladek-apertura.jpg "Meda Mládek, colecionista de arte, mecenas y fundadora del Museo Kampa")
 
 ## 2\. Meda Mládek, coleccionista de arte y fundadora del Museo Kampa
 
@@ -41,7 +41,7 @@ marido inició una labor de coleccionismo con la que alentar a los artistas chec
 represaliados por el régimen comunista. Después creó el Museo Kampa en el barrio de Malá 
 Strana de Praga. 
 
-![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](etheria-images/2019/01/Isabel-Llorens-Grecia.jpg "Isabel Llorens, cofundadora de Rusticae.")
+![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](https://fotos.etheriamagazine.com/2019/01/Isabel-Llorens-Grecia.jpg "Isabel Llorens, cofundadora de Rusticae.")
 
 ## 3\. Isabel Llorens, CEO y cofundadora de Rusticae.
 
@@ -53,7 +53,7 @@ pequeñas joyas hoteleras que muchas veces merecen un viaje en sí mismas. Adem�
 _foodie_, por eco y por sensato: llevar la cocina ecológica a los comedores de empresa y 
 a las máquinas de vending. 
 
-![rose serrano, travel with rose, agencias de viajes para mujeres](etheria-images/2019/02/travel-with-rose-china.jpg "Rose Serrano en China.")
+![rose serrano, travel with rose, agencias de viajes para mujeres](https://fotos.etheriamagazine.com/2019/02/travel-with-rose-china.jpg "Rose Serrano en China.")
 
 ## 4\. Rose Serrano, fundadora de la agencia de viajes Travel with Rose.
 
@@ -64,7 +64,7 @@ conocer otras culturas desde un punto de vista más humano y con un mayor trato 
 gente local. ¿Cómo no vas a dejarte guiar por esta mujer que ha visitado más de 75 
 países y que pone tanta pasión en lo que hace? 
 
-![Vanessa Garrido, Hotel Nyx Madrid](etheria-images/2019/05/Vanessa-Garrido-Hotel-Nyx-Madrid-3.jpg "Vanessa Garrido en el Hotel Nyx de Madrid.")
+![Vanessa Garrido, Hotel Nyx Madrid](https://fotos.etheriamagazine.com/2019/05/Vanessa-Garrido-Hotel-Nyx-Madrid-3.jpg "Vanessa Garrido en el Hotel Nyx de Madrid.")
 
 ## 5\. Vanessa Garrido, directora del hotel Nyx Madrid.
 
@@ -75,7 +75,7 @@ Garrido](https://etheriamagazine.com/2019/05/27/vanessa-garrido-directora-de-nyx
 cuenta con una amplia experiencia profesional y representa a esas mujeres que han 
 llegado a puestos de dirección hotelera a base de formación y experiencia. 
 
-![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje nueva york](etheria-images/2019/05/blanca-zayas-apertura.jpg "Blanca Zayas en Nueva York.")
+![Blanca Zayas, tripadvisor, entrevista mujeres etheria, viaje nueva york](https://fotos.etheriamagazine.com/2019/05/blanca-zayas-apertura.jpg "Blanca Zayas en Nueva York.")
 
 ## 6\. Blanca Zayas, directora de comunicación de TripAdvisor en España.
 
@@ -86,7 +86,7 @@ la necesidad de una mayor presencia de las mujeres en los puestos de responsabil
 las empresas turísticas y apuesta por no esconder los logros femeninos y darles 
 visibilidad. 
 
-![Milly Thomas en Dust](etheria-images/2019/04/milly-thomas-dust.jpg "Milly Thomas en Dust, Soho Theatre-Londres. © The Other Richard")
+![Milly Thomas en Dust](https://fotos.etheriamagazine.com/2019/04/milly-thomas-dust.jpg "Milly Thomas en Dust, Soho Theatre-Londres. © The Other Richard")
 
 ## 7\. Milly Thomas, actriz, escritora y joven promesa del teatro británico.
 
@@ -96,7 +96,7 @@ enfermedad mental y el suicido ha recibido infinidad de premios, pero también h
 participado en películas, escrito capítulos de series de televisión y protagonizado 
 obras de teatro. Y lo mejor es el prometedor camino que tiene por delante. 
 
-![bibiana barcena, viaje isla mauricio, mujer etheria](etheria-images/2019/05/Bibiana-Barcena-pointe-esny-mauritius.jpg "Viaje a Isla Mauricio de Bibiana Barcena.")
+![bibiana barcena, viaje isla mauricio, mujer etheria](https://fotos.etheriamagazine.com/2019/05/Bibiana-Barcena-pointe-esny-mauritius.jpg "Viaje a Isla Mauricio de Bibiana Barcena.")
 
 ## 8\. Bibiana Bárcena, directora del hotel Ibis Madrid Centro.
 
@@ -107,7 +107,7 @@ mujer valiente y decidida que se define como “inquieta, social y sin miedo a s
 zona de confort”. Apuesta por perseguir los sueños y reconoce la dificultad que tienen 
 las mujeres para conseguir la conciliación en el sector turístico. 
 
-![cristina calvo, asuaire travel, mujer etheria](etheria-images/2019/01/cristina-calvo-mujer-etheria.jpeg "Cristina Calvo de Asuaire Travel.")
+![cristina calvo, asuaire travel, mujer etheria](https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria.jpeg "Cristina Calvo de Asuaire Travel.")
 
 ## 9\. Cristina Calvo, copropietaria de Asuaire Travel.
 
@@ -118,7 +118,7 @@ de la tecnología, la sostenibilidad, el deporte y el crecimiento personal, lo q
 gusta de viajar es comprobar que con otras culturas “más que diferencias, tenemos cosas 
 que nos unen”. 
 
-![cristina jimena, viaje alemania](etheria-images/2019/08/2-cristina-jimena-heidelberg.jpg "Cristina Jiménez en Heidelberg (Alemania).")
+![cristina jimena, viaje alemania](https://fotos.etheriamagazine.com/2019/08/2-cristina-jimena-heidelberg.jpg "Cristina Jiménez en Heidelberg (Alemania).")
 
 ## 10\. Cristina Jimena, consultora y representante de la región de Baden-Wurtemberg.
 

@@ -1,7 +1,7 @@
 ---
 title: "10 escapadas nacionales para mujeres que disfrutan comiendo"
 date: 2019-04-10
-coverImage: etheria-images/2019/03/escapada-gastro-asado.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/escapada-gastro-asado.jpg
 categories: 
   - viajes-con-amigas
   - organiza-tu-viaje
@@ -17,7 +17,7 @@ disfrutamos mucho recorriendo el país a través de los sabores y de las cocinas
 auténticas. Hemos seleccionado 10 escapadas gastronómicas o enoturísticas que te pueden 
 dar ideas para un fin de semana sibarita con amigas. 
 
-![comer valladolid, restaurante los zagales, tapeo valladolid](etheria-images/2019/01/comer-valladolid-los-zagales-e1553175464492.jpg "Pide un 'Tigretostón' en el restaurante Los Zagales (Valladolid).")
+![comer valladolid, restaurante los zagales, tapeo valladolid](https://fotos.etheriamagazine.com/2019/01/comer-valladolid-los-zagales-e1553175464492.jpg "Pide un 'Tigretostón' en el restaurante Los Zagales (Valladolid).")
 
 ## 1\. Comer en Valladolid
 
@@ -30,7 +30,7 @@ qué se come tan bien en
 Valladolid?](https://etheriamagazine.com/2019/01/31/bares-imprescindibles-finde-valladolid/) 
 (y en este link te sacamos de dudas). 
 
-![Chuletillas de ternasco con costra de sésamo del Restaurante Palomeque.](etheria-images/2019/02/Zaragoza-restaurante-Palomeque.jpg "Chuletillas de ternasco con costra de sésamo del © Restaurante Palomeque.")
+![Chuletillas de ternasco con costra de sésamo del Restaurante Palomeque.](https://fotos.etheriamagazine.com/2019/02/Zaragoza-restaurante-Palomeque.jpg "Chuletillas de ternasco con costra de sésamo del © Restaurante Palomeque.")
 
 ## 2\. Vermú torero en Zaragoza
 
@@ -40,7 +40,7 @@ cicerone y nos ha organizado una ruta tan completa que solo podría hacerla un l
 Anímate a leer este reportaje donde demuestra que [Zaragoza bien vale un vermú torero... 
 o tres](https://etheriamagazine.com/2019/02/12/mejores-bares-viaje-zaragoza/). 
 
-![Bar Pinocho, en el Mercado de la Boquería (Barcelona).](etheria-images/2019/03/Barcelona-Pinocho-en-la-Boquería.jpg "Bar Pinocho, en el Mercado de la Boquería (Barcelona). © Félix Lorenzo")
+![Bar Pinocho, en el Mercado de la Boquería (Barcelona).](https://fotos.etheriamagazine.com/2019/03/Barcelona-Pinocho-en-la-Boquería.jpg "Bar Pinocho, en el Mercado de la Boquería (Barcelona). © Félix Lorenzo")
 
 ## 3\. Mercados y bares en Barcelona
 
@@ -53,7 +53,7 @@ Barcelona](https://etheriamagazine.com/2019/03/12/guia-que-ver-hacer-dormir-barc
 para comprender por qué se ha ganado un lugar de honor entre estas escapadas para 
 mujeres. 
 
-![Restaurante Filo, de Sevilla.](etheria-images/2019/01/viaje-mujeres-filo-sevilla.jpg "Restaurante Filo, de Sevilla.")
+![Restaurante Filo, de Sevilla.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-filo-sevilla.jpg "Restaurante Filo, de Sevilla.")
 
 ## 4\. Nuevos locales en Sevilla
 
@@ -63,7 +63,7 @@ tapeo por sus angostas calles. Te proponemos una escapada para conocer sus nuevo
 restaurantes. Haz clic aquí si quieres una [teletransportación a 
 Sevilla](https://etheriamagazine.com/2019/02/04/viajar-con-amigas-sevilla/). 
 
-![Plato de caparrones de Anguiano. © Restaurante Cachetero, Txebiko.](etheria-images/2019/01/Restaurante-Cachetero-Txebiko.jpg "Plato de caparrones de Anguiano. © Restaurante Cachetero, Txebiko.")
+![Plato de caparrones de Anguiano. © Restaurante Cachetero, Txebiko.](https://fotos.etheriamagazine.com/2019/01/Restaurante-Cachetero-Txebiko.jpg "Plato de caparrones de Anguiano. © Restaurante Cachetero, Txebiko.")
 
 ## 5\. Comer bien en La Rioja
 
@@ -76,7 +76,7 @@ Rioja](https://etheriamagazine.com/2019/01/23/ruta-gastronomica-en-la-rioja/) y 
 apetece un vino en este otro: [Vendimia con alma de 
 mujer](https://etheriamagazine.com/2018/10/04/vendimia-en-la-rioja-con-alma-de-mujer/). 
 
-![Tartar de atún rojo de Venta Melchor (Conil).](etheria-images/2018/06/tartar-ruta-del-atun.jpg "Tartar de atún rojo de Venta Melchor (Conil).")
+![Tartar de atún rojo de Venta Melchor (Conil).](https://fotos.etheriamagazine.com/2018/06/tartar-ruta-del-atun.jpg "Tartar de atún rojo de Venta Melchor (Conil).")
 
 ## 6\. Atún rojo en Cádiz
 
@@ -88,7 +88,7 @@ gran cantidad de ejemplares. Continúa leyendo este tema si quieres preparar una
 escapada: [Ruta del atún rojo en Conil, Barbate, Zahara de los Atunes y 
 Tarifa](https://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/). 
 
-![Ruta de cañas en Madrid.](etheria-images/2018/12/Madrid-ruta-de-bares-cerveza-e1553175735714.jpg "Ruta de cañas en Madrid.")
+![Ruta de cañas en Madrid.](https://fotos.etheriamagazine.com/2018/12/Madrid-ruta-de-bares-cerveza-e1553175735714.jpg "Ruta de cañas en Madrid.")
 
 ## 7\. De cañas en Madrid
 
@@ -103,7 +103,7 @@ o a tomar una copa porque hemos visitado –exclusivamente para documentarnos, c
 montón de [locales clandestinos en 
 Madrid](https://etheriamagazine.com/2018/06/28/esto-no-es-lo-que-parece-10-locales-de-madrid-donde-las-apariencias-enganan/). 
 
-![Bodegas Lahoz de Tomelloso, en las Rutas del Vino de la Mancha.](etheria-images/2019/03/Tomelloso-bodegas-lahoz.jpg "Bodegas Lahoz de Tomelloso. © Rutas del Vino de la Mancha.")
+![Bodegas Lahoz de Tomelloso, en las Rutas del Vino de la Mancha.](https://fotos.etheriamagazine.com/2019/03/Tomelloso-bodegas-lahoz.jpg "Bodegas Lahoz de Tomelloso. © Rutas del Vino de la Mancha.")
 
 ## 8\. Ruta del Vino de La Mancha
 
@@ -114,7 +114,7 @@ queréis que se os contagie algo de su bendita locura, os podéis documentar en 
 en coche por la Ruta del Vino de La 
 Mancha](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/). 
 
-![Vino y viñedos de la CRDO Binissalem (Mallorca).](etheria-images/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-e1553175846903.jpg "Vino y viñedos de la © CRDO Binissalem (Mallorca).")
+![Vino y viñedos de la CRDO Binissalem (Mallorca).](https://fotos.etheriamagazine.com/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-e1553175846903.jpg "Vino y viñedos de la © CRDO Binissalem (Mallorca).")
 
 ## 9\. Ruta enoturística en Mallorca
 
@@ -125,7 +125,7 @@ Mallorca. Entra en [Ruta enoturística en Mallorca: D.O.
 Binissalem](https://etheriamagazine.com/2018/07/26/ruta-del-vino-binissalem-viaje-mallorca-interior/) 
 y sigue las sugerencias de nuestra experta en vinos. 
 
-![Masaje exfoliante en el Hotel La Guardia.](etheria-images/2018/10/LA-GUARDIA-MASAJE-EXFOLIANTE-e1553175963452.jpg "Masaje exfoliante en el Hotel La Guardia.")
+![Masaje exfoliante en el Hotel La Guardia.](https://fotos.etheriamagazine.com/2018/10/LA-GUARDIA-MASAJE-EXFOLIANTE-e1553175963452.jpg "Masaje exfoliante en el Hotel La Guardia.")
 
 ## 10\. Relax entre viñas
 

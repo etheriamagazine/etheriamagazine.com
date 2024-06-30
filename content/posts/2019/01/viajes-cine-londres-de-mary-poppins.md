@@ -1,7 +1,7 @@
 ---
 title: "Viajes de cine: el Londres de Mary Poppins"
 date: 2019-01-22
-coverImage: etheria-images/2019/01/viajes-cine-regreso-mary-poppins.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/01/viajes-cine-regreso-mary-poppins.jpg
 categories: 
   - viajes-cine
   - viaje-en-familia
@@ -12,7 +12,7 @@ authors:
 
 Una de las niñeras más famosas del mundo conquista las pantallas con su bolso mágico y su paraguas volador, gracias a la secuela de la clásica película de Disney: _El regreso de Mary Poppins_. Para todas las incondicionales de este mágico personaje hemos preparado un recorrido por algunas de las localizaciones de Londres que aparecen en el film. Como, además, queremos que todo sea 'supercalifragilisticoespialidoso' hemos añadido algunas experiencias pensadas para sumergirse de lleno en el universo de la 'nanny' voladora.
 
-![Escena de la película El regreso de Mary Poppins.](etheria-images/2019/01/Viaje-de-cine-mary-poppins-1024x683.jpg "Escena de la película El regreso de Mary Poppins.")
+![Escena de la película El regreso de Mary Poppins.](https://fotos.etheriamagazine.com/2019/01/Viaje-de-cine-mary-poppins-1024x683.jpg "Escena de la película El regreso de Mary Poppins.")
 
 Cuando conocimos a **Mary Poppins** en la película original de Disney nos declaramos sus 
 fans. ¡A todas nos habría gustado tener una niñera con poderes mágicos! En esta segunda 
@@ -27,7 +27,7 @@ los lugares más emblemáticos de la capital británica. Eso sí, el Londres que
 cinta poco tiene que ver con el actual (retrata el del año 1930), pero sí que es 
 fácilmente reconocible. 
 
-![Fotograma de Saint Paul en la película.](etheria-images/2019/01/Viaje-de-cine-mary-poppins-saint-paul-1024x422.jpg "Fotograma de Saint Paul en la película. © Disney Enterprises")
+![Fotograma de Saint Paul en la película.](https://fotos.etheriamagazine.com/2019/01/Viaje-de-cine-mary-poppins-saint-paul-1024x422.jpg "Fotograma de Saint Paul en la película. © Disney Enterprises")
 
 ## Ruta de Mary Poppins en Londres
 
@@ -41,7 +41,7 @@ Pablo](https://www.stpauls.co.uk/) ya aparecía en la película original (aunque
 recreada), porque se rodó íntegramente en los estudios Walt Disney de California. 
 ¡Inolvidable la escena de la vendedora de migas de pan para las palomas! 
 
-![Buckingham Palace.](etheria-images/2019/01/viajes-de-cine-mary-poppins-buckingham-1024x484.jpg "Buckingham Palace. © Visit Britain")
+![Buckingham Palace.](https://fotos.etheriamagazine.com/2019/01/viajes-de-cine-mary-poppins-buckingham-1024x484.jpg "Buckingham Palace. © Visit Britain")
 
 ### 2\. El Palacio de Buckingham
 
@@ -51,7 +51,7 @@ reina está en Balmoral. En los alrededores del [Palacio de
 Buckingham](https://www.royal.uk/search?tags%5B0%5D=Buckingham%20Palace) se rodaron 
 muchas de las escenas de la bicicleta. 
 
-![Fotograma del Puente de Londres.](etheria-images/2019/01/Viaje-Mary-poppins-puente-de-londres-1024x426.jpg "Fotograma del Puente de Londres. © Disney Enterprises")
+![Fotograma del Puente de Londres.](https://fotos.etheriamagazine.com/2019/01/Viaje-Mary-poppins-puente-de-londres-1024x426.jpg "Fotograma del Puente de Londres. © Disney Enterprises")
 
 ### 3\. La Torre de Londres
 
@@ -61,7 +61,7 @@ Londres](https://www.hrp.org.uk/tower-of-london/) está custodiada por los alaba
 conocidos como _beefeaters_. Hay ocho cuervos que, según cuenta la leyenda, si abandonan 
 la fortaleza desaparecerá la monarquía. 
 
-![The Royal Exchange.](etheria-images/2019/01/viajes-mary-poppins-royal-exchage-1024x683.jpg "The Royal Exchange. © England’s Historic Cities")
+![The Royal Exchange.](https://fotos.etheriamagazine.com/2019/01/viajes-mary-poppins-royal-exchage-1024x683.jpg "The Royal Exchange. © England’s Historic Cities")
 
 ### 4\. El Royal Exchange
 
@@ -69,7 +69,7 @@ La antigua sede de la Bolsa de Londres actualmente es una lujosa galería comerc
 Merece la pena pasear por las calles aledañas del [Royal 
 Exchange](http://www.theroyalexchange.co.uk/) para tomar el pulso a la City londinense. 
 
-![Big Ben actual y durante el rodaje.](etheria-images/2019/01/viajes-cine-poppins-torre-londres-1024x351.jpg "Big Ben actual y durante el rodaje. © Julian Elliott/ © Jason Hawkes para VisitBritain/ © Disney Enterprises")
+![Big Ben actual y durante el rodaje.](https://fotos.etheriamagazine.com/2019/01/viajes-cine-poppins-torre-londres-1024x351.jpg "Big Ben actual y durante el rodaje. © Julian Elliott/ © Jason Hawkes para VisitBritain/ © Disney Enterprises")
 
 ### 5\. El barrio de Westminster
 
@@ -78,7 +78,7 @@ como las casas del Parlamento, el Big Ben y la Abadía de Westminster. En la pel
 muchos guiños a esta zona, sobre todo al Big Ben. También rodaron en Cowley St. Queen 
 Anne's Gate y King Charles St. 
 
-![Placa Azul (Heritage Blue) en la casa de la autora de libro.](etheria-images/2019/01/viajes-mary-poppins-Heritage-Blue-1024x683.jpg "Placa Azul (Heritage Blue) en la casa de la autora de libro. © VisitBritain")
+![Placa Azul (Heritage Blue) en la casa de la autora de libro.](https://fotos.etheriamagazine.com/2019/01/viajes-mary-poppins-Heritage-Blue-1024x683.jpg "Placa Azul (Heritage Blue) en la casa de la autora de libro. © VisitBritain")
 
 ### 6\. La casa donde empezó todo
 
@@ -87,7 +87,7 @@ escritora australiana P.L. Travers no hubiese escrito los libros sobre este pers
 Lo hizo en una casa situada en el número **50 de Smith Street**, en Chelsea, donde se 
 puede ver la placa azul del [English Heritage](https://www.english-heritage.org.uk/). 
 
-![viaje de cine, ruta Mary Poppins en londres](etheria-images/2019/01/viajes-cine-mary-poppins-londres-1024x683.jpg "Escena El regreso de Mary Poppins. © Disney Enterprises")
+![viaje de cine, ruta Mary Poppins en londres](https://fotos.etheriamagazine.com/2019/01/viajes-cine-mary-poppins-londres-1024x683.jpg "Escena El regreso de Mary Poppins. © Disney Enterprises")
 
 ### 7\. Recorrido guiado por Londres
 
@@ -96,7 +96,7 @@ Una buena forma de sumergirse en el universo de esta perfecta institutriz es rea
 recorrer las localizaciones que aparecen en la nueva película y en la clásica. Ideal 
 para realizar en un viaje con niños. 
 
-![Té en el restaurante Aqua Shard.](etheria-images/2019/01/viajes-cine-mary-poppins-tomar-te-1024x681.jpg "Té en el restaurante Aqua Shard.")
+![Té en el restaurante Aqua Shard.](https://fotos.etheriamagazine.com/2019/01/viajes-cine-mary-poppins-tomar-te-1024x681.jpg "Té en el restaurante Aqua Shard.")
 
 ### 8\. Con un poco de azúcar
 
@@ -108,7 +108,7 @@ plateadas debajo, y la vajilla está diseñada con las **ilustraciones originale
 Poppins**. La propuesta gastronómica incluye bollos caseros con mermelada y crema, 
 _crumpets_ en miniatura y tés. Imprescindible reservar. 
 
-![Parque (escena película, bajando Mary Poppins con la cometa).](etheria-images/2019/01/viajes-cinemary-poppins-cometa-1024x398.jpg "Parque (escena película, bajando Mary Poppins con la cometa). © Disney Enterprises")
+![Parque (escena película, bajando Mary Poppins con la cometa).](https://fotos.etheriamagazine.com/2019/01/viajes-cinemary-poppins-cometa-1024x398.jpg "Parque (escena película, bajando Mary Poppins con la cometa). © Disney Enterprises")
 
 ### 9\. Parques urbanos
 
@@ -119,7 +119,7 @@ si quieres tener como telón de fondo el famoso _skyline_ de Londres lo mejor es
 Parliament Hill en Hampstead Heath, al norte de Londres. Otra opción es Primrose Hill, 
 cerca del parque Regent. 
 
-![Sky Garden.](etheria-images/2019/01/viaje-mary-poppins-sky-garden-1024x683.jpg "Sky Garden. © VisitBritain")
+![Sky Garden.](https://fotos.etheriamagazine.com/2019/01/viaje-mary-poppins-sky-garden-1024x683.jpg "Sky Garden. © VisitBritain")
 
 ### 10\. El skyline de Londres
 
@@ -131,7 +131,7 @@ por los locales como el “Walkie Talkie”. Alberga un jardín en su interior y
 aire libre desde donde disfrutar de las vistas de 360 grados de Londres. La entrada es 
 gratuita pero hay que reservar. 
 
-![otograma de El regreso de Mary Poppins.](etheria-images/2019/01/viajes-cine-regreso-mary-poppins-1024x681.jpg "Fotograma de El regreso de Mary Poppins. © Disney Enterprises")
+![otograma de El regreso de Mary Poppins.](https://fotos.etheriamagazine.com/2019/01/viajes-cine-regreso-mary-poppins-1024x681.jpg "Fotograma de El regreso de Mary Poppins. © Disney Enterprises")
 
 ### 11\. El musical de Mary Poppins
 

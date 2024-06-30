@@ -1,7 +1,7 @@
 ---
 title: "10 secretos de La Palma que deberías conocer"
 date: 2021-04-05
-coverImage: etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-laurisilva.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-laurisilva.jpg
 categories: 
   - viajes-48-horas
   - viajes-ecoturismo
@@ -17,7 +17,7 @@ secretos que tienes que ver en La Palma. Este paraíso podría haber vivido de s
 abundancia de agua para cultivar plátanos, pero empezó a mirar a las estrellas. Así 
 logró luz propia, la de convertirse en una Reserva de la Biosfera Mundial. 
 
-![Típicos balcones de Santa Cruz de La Palma.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-balcones-1024x642.jpg "Típicos balcones de Santa Cruz de La Palma.")
+![Típicos balcones de Santa Cruz de La Palma.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-balcones-1024x642.jpg "Típicos balcones de Santa Cruz de La Palma.")
 
 ```
 Actualizado 12/2023
@@ -37,7 +37,7 @@ como la de **la campana del velero La Verdad**, un barco armado en la isla que n
 en el Caribe. Su campana, tras un largo periplo americano, ha regresado a La Palma 
 gracias a un mecenas estadounidense. 
 
-![El Gran Telescopio Canarias se encuentra situado en el Observatorio Astrofísico del Roque de los Muchachos.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-observatorio-1024x678.jpg "El Gran Telescopio Canarias se encuentra situado en el Observatorio Astrofísico del Roque de los Muchachos.")
+![El Gran Telescopio Canarias se encuentra situado en el Observatorio Astrofísico del Roque de los Muchachos.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-observatorio-1024x678.jpg "El Gran Telescopio Canarias se encuentra situado en el Observatorio Astrofísico del Roque de los Muchachos.")
 
 ## 2\. El GRANTECAN, el mayor telescopio óptico del mundo
 
@@ -49,7 +49,7 @@ Hierro, entre las nubes de los vientos alisios. Toda la isla es un magnífico mi
 las estrellas y cada municipio te ayudará a verlas con una perspectiva única desde sus 
 puntos de observación… sólo déjate guiar. 
 
-![Bosque de Los Tilos en La Palma.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-saltadores-683x1024.jpg "Bosque de Los Tilos en La Palma.")
+![Bosque de Los Tilos en La Palma.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-saltadores-683x1024.jpg "Bosque de Los Tilos en La Palma.")
 
 ## 3\. Bosque de Los Tilos, un trópico nada utópico
 
@@ -61,7 +61,7 @@ admirar tan valioso patrimonio natural. Cruza por el puente de Los Tilos el barr
 imponente y llega hasta el mirador de Bartolo, donde entenderás el **monumento de El 
 Enamorado**, donde un joven fue capaz de lanzarse a sus profundidades por amor. 
 
-![Parque Nacional de la Caldera de Taburiente.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-mar-nubes-1024x683.jpg "Parque Nacional de la Caldera de Taburiente.")
+![Parque Nacional de la Caldera de Taburiente.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-mar-nubes-1024x683.jpg "Parque Nacional de la Caldera de Taburiente.")
 
 ## 4\. Caldera de Taburiente, el vértigo de los barrancos
 
@@ -74,7 +74,7 @@ de pinos canarios, presumir de haber pisado una de las mayores calderas volcáni
 mundo y haber reverenciado al **Roque de Idafe**, un monolito de lava al que adoraron 
 los primeros palmeros o benahoaritas. 
 
-![Monumento Natural de los Volcanes de Teneguía.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-ruta-volcanes-1024x675.jpg "Monumento Natural de los Volcanes de Teneguía.")
+![Monumento Natural de los Volcanes de Teneguía.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-ruta-volcanes-1024x675.jpg "Monumento Natural de los Volcanes de Teneguía.")
 
 ## 5\. San Antonio y Teneguía, con la fuerza de los volcanes
 
@@ -86,7 +86,7 @@ son fruto del **volcán Teneguía**, surgido en el año 1971, y sus cráteres, a
 perfectos como el del **volcán San Antonio**, son destino de la pasión senderista que te 
 va a despertar La Palma. 
 
-![El Llano del Jable envuelto en niebla.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-paisajes-1024x629.jpg "El Llano del Jable envuelto en niebla.")
+![El Llano del Jable envuelto en niebla.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-paisajes-1024x629.jpg "El Llano del Jable envuelto en niebla.")
 
 ## 6\. Mirador del Llano del Jable, en otro planeta
 
@@ -99,7 +99,7 @@ del mar. Y ante tus ojos el volcán de Montaña Quemada, con su perfil cónico, 
 primero cuya erupción quedó documentada (en 1492). Si buscas lugares especiales que ver 
 en La Palma, estarás ante uno de ellos. 
 
-![Salinas de Fuencaliente.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-salinas-1024x683.jpg "Salinas de Fuencaliente.")
+![Salinas de Fuencaliente.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-salinas-1024x683.jpg "Salinas de Fuencaliente.")
 
 ## 7\. Fuencaliente, mirador _chillout_ de la isla
 
@@ -112,7 +112,7 @@ detuvo un año el trabajo artesanal de las **salinas de Fuencaliente**, una sabi
 con el mar de la que surgen apreciados cristales de sal en un entorno que es **un 
 magnífico humedal** apreciado por las aves migratorias. 
 
-![La Cumbrecita, en el Parque Nacional Caldera de Taburiente.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-brumas-1024x683.jpg "La Cumbrecita, en el Parque Nacional Caldera de Taburiente.")
+![La Cumbrecita, en el Parque Nacional Caldera de Taburiente.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-brumas-1024x683.jpg "La Cumbrecita, en el Parque Nacional Caldera de Taburiente.")
 
 ## 8\. Pinares de La Cumbrecita, entre el verde canario
 
@@ -123,7 +123,7 @@ para conocer el Parque Nacional de la Caldera de Taburiente y quedar atrapado de
 belleza paisajística. ¡Ojo!, si vas al mirador con coche, solicita un permiso de 
 aparcamiento. 
 
-![Monumento del Salto del Enamorado.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-saltador-1024x683.jpg "Monumento del Salto del Enamorado.")
+![Monumento del Salto del Enamorado.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-saltador-1024x683.jpg "Monumento del Salto del Enamorado.")
 
 ## 9\. Garafía y Las Tricias, el norte palmero entre dragos y castaños
 
@@ -135,7 +135,7 @@ molinos de gofio, entre campos de millo o maíz y cereal, mientras los castañer
 denominan a los castaños– desde hace 500 años siguen dando sus frutos y pintan el otoño 
 de matices dorados. 
 
-![Piscinas de La Fajana, en la Costa de Barlovento.](etheria-images/2018/09/La-Palma-Viajes-mujeres-etheria-669x1024.jpg "Piscinas de La Fajana, en la Costa de Barlovento.")
+![Piscinas de La Fajana, en la Costa de Barlovento.](https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-669x1024.jpg "Piscinas de La Fajana, en la Costa de Barlovento.")
 
 ## 10\. Playas y piscinas naturales de La Palma
 

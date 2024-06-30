@@ -1,7 +1,7 @@
 ---
 title: "Valparaíso, una bonita ruta de street art en la ciudad chilena del arcoíris"
 date: 2020-01-20
-coverImage: etheria-images/2019/12/Valpariso-street-art-los-cerros.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/12/Valpariso-street-art-los-cerros.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -15,7 +15,7 @@ maestras efímeras han convertido a la ciudad en la capital mundial del arte cal
 
 **Texto y fotos: Menchu Redondo** 
 
-![Murales en una vivienda de Valparaíso](etheria-images/2019/12/Valparaiso-street-art-nina-900x601.jpg "Murales en Valparaíso. © Menchu Redondo")
+![Murales en una vivienda de Valparaíso](https://fotos.etheriamagazine.com/2019/12/Valparaiso-street-art-nina-900x601.jpg "Murales en Valparaíso. © Menchu Redondo")
 
 En 1540 Pedro de Valdivia fundó Santiago como la capital de Chile y cuatro años después 
 construyó el puerto mercantil de **Valparaíso** desde el que partían los barcos hacia 
@@ -39,7 +39,7 @@ puerto mas importante del Pacífico** disparando una bonanza económica jamas co
 que atrajo a colonos alemanes, franceses e ingleses, quienes dejaron su sello de 
 identidad en una hermosa y variopinta arquitectura. 
 
-![Mural en la zona de los cerros de Valparaíso.](etheria-images/2019/12/Valpariso-street-art-los-cerros-900x599.jpg "El Street Art es característico de la zona de Los Cerros. © Menchu Redondo")
+![Mural en la zona de los cerros de Valparaíso.](https://fotos.etheriamagazine.com/2019/12/Valpariso-street-art-los-cerros-900x599.jpg "El Street Art es característico de la zona de Los Cerros. © Menchu Redondo")
 
 ## El Barrio Puerto
 
@@ -59,7 +59,7 @@ los barcos varados mientras son calafateados por sus patronos y los pescadores a
 las redes, siempre importunados por gaviotas y pelícanos que compiten con los enormes 
 leones marinos por los desperdicios que arrojan los vendedores de pescado. 
 
-![Puerto Pesquero de Valparaíso.](etheria-images/2019/12/valparaiso-puerto-pesquero-900x608.jpg "Puerto Pesquero de Valparaíso. © Menchu Redondo")
+![Puerto Pesquero de Valparaíso.](https://fotos.etheriamagazine.com/2019/12/valparaiso-puerto-pesquero-900x608.jpg "Puerto Pesquero de Valparaíso. © Menchu Redondo")
 
 ## Centro histórico de El Plan
 
@@ -71,7 +71,7 @@ edificio de la Armada de Chile, junto al Tribunal de Justicia y el Consejo Nacio
 la Cultura y las Artes. Una mezcla arquitectónica de lo más variopinta, aunque nada 
 discordante. 
 
-![Plaza de Sotomayor con el Monumento a los Héroes.](etheria-images/2019/12/valparaiso-plaza-sotomayor-munumento-heroes-4-900x598.jpg "Plaza de Sotomayor con el Monumento a los Héroes. © Menchu Redondo")
+![Plaza de Sotomayor con el Monumento a los Héroes.](https://fotos.etheriamagazine.com/2019/12/valparaiso-plaza-sotomayor-munumento-heroes-4-900x598.jpg "Plaza de Sotomayor con el Monumento a los Héroes. © Menchu Redondo")
 
 Desde allí puedes seguir la **calle Cocharane** hasta la plaza Echaurren, en el barrio 
 más antiguo de Valparaíso. En este lugar es mejor guardar la cámara de fotos –si la 
@@ -80,7 +80,7 @@ descuideros. Acércate al **bar Liberty**, que abierto en 1879 es el más antigu
 Valparaíso. Allí se mezcla el ambiente portuario con la joven bohemia de la ciudad, que 
 intenta recuperar el lugar organizando conciertos y tertulias. 
 
-![Interior del Bar Liberty.](etheria-images/2019/12/valparaiso-bar-liberty-900x599.jpg "Bar Liberty. © Menchu Redondo")
+![Interior del Bar Liberty.](https://fotos.etheriamagazine.com/2019/12/valparaiso-bar-liberty-900x599.jpg "Bar Liberty. © Menchu Redondo")
 
 ## Subir es fácil en ascensor
 
@@ -98,7 +98,7 @@ perfecto estado operativo. Un pasillo de 150 metros llega hasta el ascensor que 
 metros hasta cerro Polanco, donde se hallan algunos de los mejores murales de 
 Valparaíso. 
 
-![Ascensor de Artillería en Valparaíso](etheria-images/2019/12/valparaiso-ascensor-artilleria-900x587.jpg "Ascensor de Artillería. © Menchu Redondo")
+![Ascensor de Artillería en Valparaíso](https://fotos.etheriamagazine.com/2019/12/valparaiso-ascensor-artilleria-900x587.jpg "Ascensor de Artillería. © Menchu Redondo")
 
 ## Los Cerros, paraíso del color
 
@@ -110,7 +110,7 @@ mansiones victorianas o humildes casas de muros de uralita, todas lucen colorida
 desde hace años, artistas y graffiteros han convirtieron sus **paredes y fachadas en 
 lienzos pintados de obras maestras** para hacerla todavía mas bella. 
 
-![Bonitos colores en los murales de Los Cerros.](etheria-images/2019/12/Valparaiso-street-art-900x700.jpg "Bonitos colores en los murales de Los Cerros. © Menchu Redondo")
+![Bonitos colores en los murales de Los Cerros.](https://fotos.etheriamagazine.com/2019/12/Valparaiso-street-art-900x700.jpg "Bonitos colores en los murales de Los Cerros. © Menchu Redondo")
 
 ## Ruta del _Street Art_
 
@@ -120,7 +120,7 @@ Concepción** puedes subir en el ascensor homónimo y desde allí hay que hacer 
 subida, pero esta vez a pie, por la escalera Fischer que desemboca en el Pasaje Gálvez 
 donde vas a encontrarte un montón de murales. 
 
-![Pinturas en los muros de Cerro Alegre.](etheria-images/2019/12/valparaiso-cerro-alegre-900x591.jpg "Cerro Alegre. © Menchu Redondo")
+![Pinturas en los muros de Cerro Alegre.](https://fotos.etheriamagazine.com/2019/12/valparaiso-cerro-alegre-900x591.jpg "Cerro Alegre. © Menchu Redondo")
 
 Continúa por el paseo Gervasoni y el paseo Atkinson, dos miradores bordeados por 
 preciosas casas coloridas. En este cerro están el Hotel Brighton, de estilo victoriano 
@@ -132,7 +132,7 @@ está el Palacio Astoreca transformado en hotel de lujo. Continúa por la calle 
 hasta la calle Lautaro Rosas donde se han instalado talleres de artistas y galerías de 
 arte muy interesantes. 
 
-![Palacio Barburizza, sede del Museo de Bellas Artes.](etheria-images/2019/12/Valparaiso-cerro-alegre-palacio-barburizza-bellas-artes-900x601.jpg "Palacio Barburizza, sede del Museo de Bellas Artes. © Menchu Redondo")
+![Palacio Barburizza, sede del Museo de Bellas Artes.](https://fotos.etheriamagazine.com/2019/12/Valparaiso-cerro-alegre-palacio-barburizza-bellas-artes-900x601.jpg "Palacio Barburizza, sede del Museo de Bellas Artes. © Menchu Redondo")
 
 ## Neruda y el mar desde La Sebastiana
 
@@ -142,7 +142,7 @@ ventana”. Este fragmento de _Una casa en la Arena_ del poeta chileno Pablo Ner
 Premio Nobel de Literatura en 1971, define la relación que el literato tenía con el mar, 
 por el que nunca le gustó navegar pero sí contemplar desde su ventana. 
 
-![Casa La Sebastiana, de Pablo Neruda.](etheria-images/2019/12/Valparaiso-la-sebastiana-681x1024.jpg "Casa La Sebastiana, de Pablo Neruda. © Menchu Redondo")
+![Casa La Sebastiana, de Pablo Neruda.](https://fotos.etheriamagazine.com/2019/12/Valparaiso-la-sebastiana-681x1024.jpg "Casa La Sebastiana, de Pablo Neruda. © Menchu Redondo")
 
 > Las tres casas del poeta en Chile, la de Isla Negra al sur de Valparaíso, La Chacona en 
 > Santiago y La Sebastiana en la ciudad de Valparaíso, tienen una cosa en común: grandes 
@@ -158,7 +158,7 @@ cerca del maestro y hoy sigue siendo **foco de la intelectualidad chilena**, que
 convertido este lugar en uno de los más alegres y animados de la ciudad lleno de bares, 
 restaurantes y bistrós encantadores. 
 
-![Barra de bar de La Sebastiana, la casa de Pablo Neruda.](etheria-images/2019/12/valparaiso-la-sebastiana-bar-900x600.jpg "Barra de bar de La Sebastiana, la casa de Pablo Neruda. © Menchu Redondo")
+![Barra de bar de La Sebastiana, la casa de Pablo Neruda.](https://fotos.etheriamagazine.com/2019/12/valparaiso-la-sebastiana-bar-900x600.jpg "Barra de bar de La Sebastiana, la casa de Pablo Neruda. © Menchu Redondo")
 
 ## Una escapada a Viña del Mar
 
@@ -167,7 +167,7 @@ siguiendo la carretera de la costa. La ciudad es un lugar de veraneo muy 'chic' 
 finales del XIX, cuando la familia Vergara-Álvarez, una de las mas adineradas de Chile, 
 construyó un balneario y el casino para atraer a la 'jet set' de Valparaíso. 
 
-![Playa en Viña del Mar.](etheria-images/2019/12/valparaiso-vina-del-mar-900x506.jpg "Playa en Viña del Mar. © Luis Villasmil")
+![Playa en Viña del Mar.](https://fotos.etheriamagazine.com/2019/12/valparaiso-vina-del-mar-900x506.jpg "Playa en Viña del Mar. © Luis Villasmil")
 
 Su fama mundial le llego en 1960 con el **Festival Internacional de la Canción de Viña 
 del Mar** que se celebra todos los febreros en el Anfiteatro, ubicado en los terrenos de 

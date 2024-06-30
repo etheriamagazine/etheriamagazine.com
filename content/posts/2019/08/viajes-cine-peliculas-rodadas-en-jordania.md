@@ -1,7 +1,7 @@
 ---
 title: "10 películas rodadas en Jordania que no te puedes perder"
 date: 2019-08-06
-coverImage: etheria-images/2019/07/Apertura-Jordania-cine-Wadi-Rum.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/Apertura-Jordania-cine-Wadi-Rum.jpg
 categories: 
   - viajes-cine
   - viajes-con-amigas
@@ -14,7 +14,7 @@ authors:
 Rum, nos sirve de excusa para repasar otros éxitos de taquilla que convirtieron al Reino 
 Hachemita en plató cinematográfico. Preparados, listos… ¡acción! 
 
-![En Jordania cualquier escena es perfecta para el cine.](etheria-images/2019/07/Apertura-Jordania-cine-Wadi-Rum.jpg "En Jordania cualquier escena es perfecta para el cine. © JTB")
+![En Jordania cualquier escena es perfecta para el cine.](https://fotos.etheriamagazine.com/2019/07/Apertura-Jordania-cine-Wadi-Rum.jpg "En Jordania cualquier escena es perfecta para el cine. © JTB")
 
 Una de las mejores maneras de documentarse y de aprender sobre un destino antes de 
 viajar es disfrutar de aquellas películas que han sido rodadas en ese lugar. Si tienes 
@@ -30,7 +30,7 @@ para ambientar la ciudad ficticia de **Agrabah**. La belleza de las montañas de
 y las formaciones rocosas hipnóticas, como el **Burdah Rock Bridge**, son el escenario 
 ideal para esta mágica historia. 
 
-![Aladdin e imagen del Wadi Rum Rock Bridge.](etheria-images/2019/07/1-Aladdin-Disney-rodaje-jordania.jpg "(Izq.) Aladdin. © Disney Enterprises. (Dcha.) Wadi Rum Rock Bridge. © JTB")
+![Aladdin e imagen del Wadi Rum Rock Bridge.](https://fotos.etheriamagazine.com/2019/07/1-Aladdin-Disney-rodaje-jordania.jpg "(Izq.) Aladdin. © Disney Enterprises. (Dcha.) Wadi Rum Rock Bridge. © JTB")
 
 ## 2\. Rogue One: una historia de Star Wars (2016)
 
@@ -40,7 +40,7 @@ marciano de formaciones rocosas lo convierten en un escenario intachable para
 representar el desértico planeta en el que vivía Luke Skywalker. Este paraje único se 
 puede recorrer a pie, en camello, a caballo, en 4x4 o en globo. 
 
-![Rogue One: una historia de Star Wars. y Wadi Rum Rock Mountain.](etheria-images/2019/07/2-Rogue-One-Star-Wars-rodaje-jordania.jpg "(Izq.) Rogue One: una historia de Star Wars. © Lucasfilm Ltd. (Dcha.) Wadi Rum Rock Mountain. © JTB")
+![Rogue One: una historia de Star Wars. y Wadi Rum Rock Mountain.](https://fotos.etheriamagazine.com/2019/07/2-Rogue-One-Star-Wars-rodaje-jordania.jpg "(Izq.) Rogue One: una historia de Star Wars. © Lucasfilm Ltd. (Dcha.) Wadi Rum Rock Mountain. © JTB")
 
 ## 3\. Marte (2015)
 
@@ -51,7 +51,7 @@ visita a este desierto destacan: la formación rocosa conocida como los Siete pi
 la sabiduría; los puentes de roca, como los de Umm Fruth y Rakabht al-Wadak; y los 
 petroglifos del cañón de Khaz’ali. 
 
-![Película Marte.](etheria-images/2019/07/3-pelicula-marte-rodaje-jordania.jpg "(Izq.) Película Marte. © Twentieth Century Fox Film Corporation. (Dcha.) Desierto de Wadi Rum. © JTB")
+![Película Marte.](https://fotos.etheriamagazine.com/2019/07/3-pelicula-marte-rodaje-jordania.jpg "(Izq.) Película Marte. © Twentieth Century Fox Film Corporation. (Dcha.) Desierto de Wadi Rum. © JTB")
 
 ## 4\. La noche más oscura (2012)
 
@@ -61,7 +61,7 @@ un lugar en el que simplemente aterrizar, ¡fuera prejuicios! La ciudad merece u
 para –entre otras cosas- contemplar la puesta de sol desde una de las colinas de la 
 ciudad, visitar la Ciudadela, el teatro romano o la mezquita del rey Abdullah. 
 
-![La noche más oscura y Ciudadela de Amán.](etheria-images/2019/07/4-La-noche-mas-oscura-rodaje-jordania.jpg "(Izq.) La noche más oscura. © Columbia Pict. Industries. (Dcha.) Ciudadela de Amán. © JTB")
+![La noche más oscura y Ciudadela de Amán.](https://fotos.etheriamagazine.com/2019/07/4-La-noche-mas-oscura-rodaje-jordania.jpg "(Izq.) La noche más oscura. © Columbia Pict. Industries. (Dcha.) Ciudadela de Amán. © JTB")
 
 ## 5\. Prometeo (2012)
 
@@ -76,7 +76,7 @@ punto del Reino Hachemita son altas durante las horas del día y considerablemen
 tras la caída del sol, por lo que tienes que incluir en tu maleta algo de abrigo si tu 
 idea es pasar la noche en una jaima de un campamento beduino. 
 
-![pelicula prometeo rodaje en jordania](etheria-images/2019/07/5-prometheus-rodaje-jordania.jpg "(Izq.) Cartel de Prometeo. (Dcha.) Wadi Rum Seven Pillars of Wisdom. © JTB")
+![pelicula prometeo rodaje en jordania](https://fotos.etheriamagazine.com/2019/07/5-prometheus-rodaje-jordania.jpg "(Izq.) Cartel de Prometeo. (Dcha.) Wadi Rum Seven Pillars of Wisdom. © JTB")
 
 ## 6\. Transformers: la venganza de los caídos (2009)
 
@@ -92,7 +92,7 @@ calles con columnas y, a gran altura, dominando el valle, se encuentra el impres
 roca. Además, cuenta con dos museos, el Arqueológico de Petra y el Nabateo de Petra, que 
 ofrecen una visión histórica del conjunto de la ciudad. 
 
-![Transformers, rodaje en Petra.](etheria-images/2019/07/6-Transformers-rodaje-jordania.jpg "(Izq.) Transformers. © DW Studios L.L.C. and Paramount Picture. (Dcha.) Petra. © JTB")
+![Transformers, rodaje en Petra.](https://fotos.etheriamagazine.com/2019/07/6-Transformers-rodaje-jordania.jpg "(Izq.) Transformers. © DW Studios L.L.C. and Paramount Picture. (Dcha.) Petra. © JTB")
 
 ## 7\. En tierra hostil (2008)
 
@@ -105,7 +105,7 @@ moderno. Un clásico de toda estancia en la capital de Jordania incluye visitar 
 viernes el zoco de Souk Jara, situado en Jabal Amman, que alberga una amplia variedad de 
 joyas, bordados y alimentos locales. 
 
-![Ciudad antigua de Amán y película En tierra hostil](etheria-images/2019/07/7-En-tierra-hostil-rodaje-jordania.jpg "(Izq.) Ciudad antigua de Amán. © JTB (Dcha.) En tierra hostil. ©Jonathan Olley Summit Entertainment.")
+![Ciudad antigua de Amán y película En tierra hostil](https://fotos.etheriamagazine.com/2019/07/7-En-tierra-hostil-rodaje-jordania.jpg "(Izq.) Ciudad antigua de Amán. © JTB (Dcha.) En tierra hostil. ©Jonathan Olley Summit Entertainment.")
 
 ## 8\. El regreso de la momia (2001)
 
@@ -116,7 +116,7 @@ se puede visitar y permite realizar un viaje en el tiempo contemplando una ampli
 colección de locomotoras de vapor operativas que se utilizan para excursiones. Además, 
 hay un impresionante museo del Ferrocarril. 
 
-![El retorno de la momia, rodaje en Amán](etheria-images/2019/07/8-El-retorno-de-la-momia-rodaje-jordania.jpg "(Izq.) El retorno de la momia. © Universal Studios. (Dcha.) Amán al atardecer. © JTB")
+![El retorno de la momia, rodaje en Amán](https://fotos.etheriamagazine.com/2019/07/8-El-retorno-de-la-momia-rodaje-jordania.jpg "(Izq.) El retorno de la momia. © Universal Studios. (Dcha.) Amán al atardecer. © JTB")
 
 ## 9\. Indiana Jones y la última cruzada (1989)
 
@@ -133,7 +133,7 @@ resalta los colores naturales de las rocas. Otra opción es recorrer Petra por l
 a la luz de las velas. Este paseo permite **disfrutar del Siq** en silencio, iluminado 
 por una luz tenue y mágica que deja ver toda la grandeza de Petra de una forma distinta. 
 
-![Indiana Jones y la última cruzada.](etheria-images/2019/07/9-Indiana-Jones-rodaje-jordania.jpg "(Izq.) Indiana Jones y la última cruzada. © Lucasfilm. (Dcha.) El cañón del Siq, en Petra. © JTB")
+![Indiana Jones y la última cruzada.](https://fotos.etheriamagazine.com/2019/07/9-Indiana-Jones-rodaje-jordania.jpg "(Izq.) Indiana Jones y la última cruzada. © Lucasfilm. (Dcha.) El cañón del Siq, en Petra. © JTB")
 
 ## 10\. Lawrence de Arabia (1962)
 
@@ -144,7 +144,7 @@ sus localizaciones más reconocibles es **el desierto de Wadi Rum**, en el que e
 Lawrence real estuvo viviendo y en el que lideró a los árabes beduinos durante la 
 Revolución Árabe contra los otomanos en la Primera Guerra Mundial. 
 
-![Lawrence de Arabia en Wadi rum](etheria-images/2019/07/10-Lawrence-de-Arabia-rodaje-jordania.jpg "(Izq.) Lawrence de Arabia. (Dcha.) Roca tallada con su imagen en Wadi Rum. © JTB")
+![Lawrence de Arabia en Wadi rum](https://fotos.etheriamagazine.com/2019/07/10-Lawrence-de-Arabia-rodaje-jordania.jpg "(Izq.) Lawrence de Arabia. (Dcha.) Roca tallada con su imagen en Wadi Rum. © JTB")
 
 Está claro que el Reino Hachemita es un destino cinematográfico de pleno derecho. Desde 
 las evocadoras y antiguas estepas de **Wadi Rum** hasta el bullicioso centro de 

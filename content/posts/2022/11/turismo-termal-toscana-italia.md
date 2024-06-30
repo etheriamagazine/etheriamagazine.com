@@ -1,7 +1,7 @@
 ---
 title: "Dónde desconectar en la Toscana, conoce sus mejores termas"
 date: 2022-11-03
-coverImage: etheria-images/2022/10/Toscana-terme-sensoriali-di-Chianciano.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/10/Toscana-terme-sensoriali-di-Chianciano.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -15,7 +15,7 @@ la región encontrarás grandes propuestas termales. En este artículo te hablam
 termas imprescindibles en la Toscana para relajarte y reconectar contigo misma. Toma 
 buena nota. 
 
-![Terme di Chianciano.](etheria-images/2022/10/Toscana-terme-sensoriali-di-Chianciano.jpg "© Termas di Chianciano.")
+![Terme di Chianciano.](https://fotos.etheriamagazine.com/2022/10/Toscana-terme-sensoriali-di-Chianciano.jpg "© Termas di Chianciano.")
 
 Seguro que ya sabes que la Toscana es una región italiana de naturaleza privilegiada, de 
 tesoros artísticos y bocados deliciosos, pero lo que quizá ignores es que cuenta con 
@@ -29,7 +29,7 @@ Si has decidido que quieres regalarte tiempo para ti misma y dejarte mimar por
 especialistas en bienestar y belleza, en la Toscana encontraras tanto propuestas de 
 relax como tratamientos personalizados en el entorno que elijas. 
 
-![Mujer bajo el agua de una cascada](etheria-images/2022/10/termas-toscana-italia.jpg "Las terapias termales son idóneas para encontrar el equilibrio. © Seth Doyle")
+![Mujer bajo el agua de una cascada](https://fotos.etheriamagazine.com/2022/10/termas-toscana-italia.jpg "Las terapias termales son idóneas para encontrar el equilibrio. © Seth Doyle")
 
 ## ¿Turismo termal en la Toscana?
 
@@ -53,7 +53,7 @@ estas placenteras actividades siempre se pueden complementar con la práctica de
 como el golf en La Bagnaia Golf & Spa Resort (Murlo) que reabrirá en 2023 o con un 
 recorrido por las ciudades toscanas. 
 
-![En la Toscana también podrás recibir tratamientos de belleza.](etheria-images/2022/10/tratamiento-belleza-italia.jpg "En la Toscana también podrás recibir tratamientos de belleza. © Antonika Chanel")
+![En la Toscana también podrás recibir tratamientos de belleza.](https://fotos.etheriamagazine.com/2022/10/tratamiento-belleza-italia.jpg "En la Toscana también podrás recibir tratamientos de belleza. © Antonika Chanel")
 
 ## 6 termas donde relajarte en la Toscana
 
@@ -76,7 +76,7 @@ termal, la salud y el bienestar van de la mano.
 
 ? Más información en [www.grottagiustispa.com](http://www.grottagiustispa.com) 
 
-![Termas Grotta Giusti en Monsummano](etheria-images/2022/10/toscana-Monsummano.jpg "Termas Grotta Giusti en Monsummano. © Archivo Toscana Promozione Turistica by Nicola Santini")
+![Termas Grotta Giusti en Monsummano](https://fotos.etheriamagazine.com/2022/10/toscana-Monsummano.jpg "Termas Grotta Giusti en Monsummano. © Archivo Toscana Promozione Turistica by Nicola Santini")
 
 ### Bagni di Pisa, en la ciudad de Pisa
 
@@ -97,7 +97,7 @@ Leading Hotels of The World y de Traveller Made.
 
 ? Más información en [www.bagnidipisa.com](http://www.bagnidipisa.com) 
 
-![Bagni di Pisa.](etheria-images/2022/10/toscana-Bagni-di-Pisa.jpg "Bagni di Pisa. © Archivo Toscana Promozione Turistica by Nicola Santini")
+![Bagni di Pisa.](https://fotos.etheriamagazine.com/2022/10/toscana-Bagni-di-Pisa.jpg "Bagni di Pisa. © Archivo Toscana Promozione Turistica by Nicola Santini")
 
 ### Termas de Venturina, una puesta a punto exprés
 
@@ -144,7 +144,7 @@ la mente.
 
 ? Más información en [www.lacerretaterme.it](http://www.lacerretaterme.it) 
 
-![Terme di Sassetta, en La Cerreta.](etheria-images/2022/10/toscana-La-Cerreta.jpg "Terme di Sassetta, en La Cerreta. © Archivo Toscana Promozione Turistica by Nicola Santini")
+![Terme di Sassetta, en La Cerreta.](https://fotos.etheriamagazine.com/2022/10/toscana-La-Cerreta.jpg "Terme di Sassetta, en La Cerreta. © Archivo Toscana Promozione Turistica by Nicola Santini")
 
 ### Termas de Sorano, relax en la Toscana
 
@@ -165,7 +165,7 @@ de temporada.
 
 ? Más información en [www.termedisorano.it](http://www.termedisorano.it) 
 
-![Termas de Sorano turismo termal en la toscana](etheria-images/2022/10/toscana-termas-Sorano.jpg "Termas de Sorano. © Archivo Toscana Promozione Turistica by Nicola Santini")
+![Termas de Sorano turismo termal en la toscana](https://fotos.etheriamagazine.com/2022/10/toscana-termas-Sorano.jpg "Termas de Sorano. © Archivo Toscana Promozione Turistica by Nicola Santini")
 
 ### Termas de Saturnia, belleza azul de la Toscana
 
@@ -180,7 +180,7 @@ pleno corazón de la Maremma toscana. Allí encontrarás 120 hectáreas de biene
 compuesto por la joya de la corona, un histórico manantial que según cuenta la leyenda 
 fue creado por Saturno y del que brota un agua con propiedades únicas. 
 
-![Termas de Saturnia, turismo termal en Italia](etheria-images/2022/10/termas-Saturnia-toscana.jpg "Termas de Saturnia. © Nicola Santini/ Archivo Toscana Promozione Turistica")
+![Termas de Saturnia, turismo termal en Italia](https://fotos.etheriamagazine.com/2022/10/termas-Saturnia-toscana.jpg "Termas de Saturnia. © Nicola Santini/ Archivo Toscana Promozione Turistica")
 
 El mejor complemento a esta agua milagrosa es el complejo **Terme di Saturnia**, que 
 forma parte de The Leading Hotels of the World y ofrece la exclusividad de un cinco 

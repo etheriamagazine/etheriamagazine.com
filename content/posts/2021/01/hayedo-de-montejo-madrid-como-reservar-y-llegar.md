@@ -1,7 +1,7 @@
 ---
 title: "Hayedo de Montejo, visitas guiadas y gratuitas todo el año"
 date: 2021-01-15
-coverImage: etheria-images/2021/01/visitas-hayedo-montejo-madrid.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/visitas-hayedo-montejo-madrid.jpg
 categories: 
   - viaje-en-familia
   - planes-originales-para-mujeres
@@ -15,7 +15,7 @@ guiadas y gratuitas en otoño sino durante todo el año. Cubierto de nieve, con 
 de color verde brillante o con la melancolía de los tonos ocres, es un espacio natural 
 que ofrece la mejor lección de educación ambiental para niños (y mayores). 
 
-![senda del rio hayedo montejo](etheria-images/2021/01/ruta-hayedo-montejo.jpg "Senda del Río, en Hayedo de Montejo (Madrid). © Etheria M.")
+![senda del rio hayedo montejo](https://fotos.etheriamagazine.com/2021/01/ruta-hayedo-montejo.jpg "Senda del Río, en Hayedo de Montejo (Madrid). © Etheria M.")
 
 Aunque es en otoño cuando la demanda para visitar el Hayedo de Montejo se dispara, 
 realmente, cualquier momento del año depara una bonita experiencia, didáctica y 
@@ -34,7 +34,7 @@ tarde se implantaría un completo programa de Educación Ambiental para escolare
 Si tienes interés por conocerlo, sigue leyendo porque te contaremos cómo reservar las 
 plazas, itinerarios y la manera más sencilla de llegar desde Madrid. 
 
-![hongos en hayedo montejo sierra](etheria-images/2021/01/seta-ruta-hayedo-montejo.jpg "Hongos en el tronco de un árbol caído. © Etheria M.")
+![hongos en hayedo montejo sierra](https://fotos.etheriamagazine.com/2021/01/seta-ruta-hayedo-montejo.jpg "Hongos en el tronco de un árbol caído. © Etheria M.")
 
 ## Hayedo de Montejo, recórrelo en todas las estaciones
 
@@ -53,7 +53,7 @@ profundos y permanentemente enriquecidos por el desfronde, con una exposición n
 que minimizaba los efectos de la evapotranspiración” ([Sierra 
 Norte](https://sierranorte.com/reportajes/ficha.php?rut=17)). 
 
-![hayas en hayedo de montejo sierra](etheria-images/2021/01/hayas-madrid-montejo.jpg "Las hojas de las hayas comienzan a cambiar de color en torno al mes de octubre. © Etheria M.")
+![hayas en hayedo de montejo sierra](https://fotos.etheriamagazine.com/2021/01/hayas-madrid-montejo.jpg "Las hojas de las hayas comienzan a cambiar de color en torno al mes de octubre. © Etheria M.")
 
 > También nos relata que es una pena que los visitantes sólo deseen acudir en otoño porque 
 > cada estación aporta unos matices diferentes y hermosos al hayedo: la nieve en invierno, 
@@ -72,7 +72,7 @@ de los árboles en función de las condiciones climáticas. Lo único que se hac
 despejar el camino que se transita en los circuitos guiados por la propia seguridad de 
 los visitantes. 
 
-![hayedo montejo madrid](etheria-images/2021/01/hayedo-montejo-otono.jpg "Hayedo de Montejo. © Etheria M.")
+![hayedo montejo madrid](https://fotos.etheriamagazine.com/2021/01/hayedo-montejo-otono.jpg "Hayedo de Montejo. © Etheria M.")
 
 ## Qué ver en la Senda del Río
 
@@ -95,7 +95,7 @@ curiosidad sobre ellos. Incluso algunas hayas tienen nombre propio, la del Trono
 Primera, la del Ancla… y nuestra favorita, **la de la Roca,** que tiene más de 250 años 
 y extiende sus gruesas raíces cubiertas de musgo por una gran piedra. 
 
-![haya de la roca montejo](etheria-images/2021/01/hayedo-montejo-haya-la-roca.jpg "Haya de la Roca, en Hayedo de Montejo. © Etheria M.")
+![haya de la roca montejo](https://fotos.etheriamagazine.com/2021/01/hayedo-montejo-haya-la-roca.jpg "Haya de la Roca, en Hayedo de Montejo. © Etheria M.")
 
 La senda transcurre junto al **río Jarama**, cuyo murmullo acompaña durante gran parte 
 del trayecto. Fíjate bien cuando pases cerca del caudal porque en algunas zonas se 
@@ -109,7 +109,7 @@ poco más sobre las hayas y la naturaleza en general. Si la visita se hace con n
 incluso se añaden más pinceladas educativas y de medio ambiente que les ayudan a asentar 
 conocimientos escolares. 
 
-![rosal silvestre hayedo montejo](etheria-images/2021/01/rosal-silvestre-montejo.jpg "Rosal silvestre. © Etheria M.")
+![rosal silvestre hayedo montejo](https://fotos.etheriamagazine.com/2021/01/rosal-silvestre-montejo.jpg "Rosal silvestre. © Etheria M.")
 
 ## Cómo reservar una visita al Hayedo de Montejo
 
@@ -126,7 +126,7 @@ quincena de octubre) . Hazlo en la [web de reserva de
 pases](https://www.sierradelrincon.org/reservas-online/) de la Sierra del Rincón (a 
 veces te pide tener instalado Chrome). 
 
-![hayas en sierra madrid](etheria-images/2021/01/hayedo-montejo-rio-jarama.jpg "Las ramas de este haya cruzan el río Jarama. © Etheria M.")
+![hayas en sierra madrid](https://fotos.etheriamagazine.com/2021/01/hayedo-montejo-rio-jarama.jpg "Las ramas de este haya cruzan el río Jarama. © Etheria M.")
 
 ## Dónde está el Hayedo de Montejo y cómo llegar desde Madrid
 
@@ -147,7 +147,7 @@ suficiente) para no coincidir con otros visitantes anteriores. También es neces
 llevar el mail de confirmación de la visita impreso o en el móvil. El coche lo puedes 
 aparcar al lado de la carretera, muy cerca de la entrada. 
 
-![hayedo de montejo de la sierra](etheria-images/2021/01/senda-del-rio-hayedo-madrid.jpg "Itinerario en el Hayedo de Montejo. © Etheria M.")
+![hayedo de montejo de la sierra](https://fotos.etheriamagazine.com/2021/01/senda-del-rio-hayedo-madrid.jpg "Itinerario en el Hayedo de Montejo. © Etheria M.")
 
 ## 3 itinerarios en el hayedo de Montejo
 
@@ -163,7 +163,7 @@ Es la más complicada pero la puede hacer cualquier persona con una forma media.
 Si en la visita vais con niños o abuelos, elegid mejor la primera, ya que anteriormente 
 realizamos la segunda y para personas mayores es complicada. 
 
-![hayedo de montejo](etheria-images/2021/01/rio-jarama-montejo.jpg "El ganado a veces traspasa el umbral del hayedo en la frontera con Guadalajara.")
+![hayedo de montejo](https://fotos.etheriamagazine.com/2021/01/rio-jarama-montejo.jpg "El ganado a veces traspasa el umbral del hayedo en la frontera con Guadalajara.")
 
 ## Otros hayedos y rutas
 

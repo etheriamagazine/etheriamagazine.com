@@ -1,7 +1,7 @@
 ---
 title: "Center Parcs Eemhof, tu alojamiento familiar en Holanda"
 date: 2018-08-11
-coverImage: etheria-images/2018/07/Center-Parcs-Eemhof-cabana.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Center-Parcs-Eemhof-cabana.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -14,7 +14,7 @@ de Holanda, se encuentra entre los mejores alojamientos del país para familias.
 costará convencer a los niños para salir de allí y realizar excursiones, ya que ofrece 
 un amplio abanico de ocio en medio de la naturaleza. 
 
-![Zona interior de juegos en Center Parcs Eemhof](etheria-images/2018/07/Center-Parcs-Eemhof-interior.jpg "Action Factory, la zona cubierta de ocio en De Eemhof. © Milan Vermeulen")
+![Zona interior de juegos en Center Parcs Eemhof](https://fotos.etheriamagazine.com/2018/07/Center-Parcs-Eemhof-interior.jpg "Action Factory, la zona cubierta de ocio en De Eemhof. © Milan Vermeulen")
 
 La cadena de alojamientos **Center Parcs** cuenta con varios complejos en Holanda, 
 Bélgica, Alemania Francia y Reino Unido. Sus puntos en común es que están ubicados en 
@@ -27,7 +27,7 @@ tiempo también lo gestionas a tu aire, con un gran programa de actividades para
 y mayores. Aquí te contamos nuestra experiencia en el Center Parcs Eemhof, un 
 alojamiento perfecto para familias. 
 
-![Turismo activo en Eemhof](etheria-images/2018/07/Center-Parcs-Eemhof-actividades-ninos-1024x684.jpg "Actividades para niños. ©JackyShoots.nl")
+![Turismo activo en Eemhof](https://fotos.etheriamagazine.com/2018/07/Center-Parcs-Eemhof-actividades-ninos-1024x684.jpg "Actividades para niños. ©JackyShoots.nl")
 
 ## Cabañas y apartamentos
 
@@ -42,7 +42,7 @@ privado, o los apartamentos de lujo **Waterfront Suites** (con capacidad de hast
 personas). Es fácil encontrar el que mejor se adapta a tus gustos, tamaño de familia y 
 presupuesto porque cuentan con opciones para grupos de entre 4 y 12 personas. 
 
-![Alojamiento para familias en Center parcs Eemhof](etheria-images/2018/07/Cabana-familiar-Center-Parcs-Eemhof-1024x684.jpg "Children's Cottage. © Robert Land")
+![Alojamiento para familias en Center parcs Eemhof](https://fotos.etheriamagazine.com/2018/07/Cabana-familiar-Center-Parcs-Eemhof-1024x684.jpg "Children's Cottage. © Robert Land")
 
 Todas la cabañas y apartamentos están **equipados con lo necesario** para una estancia 
 confortable y las categorías superiores suman algunos detalles como jacuzzi o una 
@@ -75,13 +75,13 @@ parque acuático cubierto como **Aqua Mundo** ¿qué niño se resiste a tobogane
 flotadores gigantes? Además, ofrece actividades como surfear olas artificiales o hacer 
 un curso de introducción al submarinismo (ambas de pago). 
 
-![Parque acuático en Holanda](etheria-images/2018/07/Center-Parcs-Eemhof-Aquamundo-1024x683.jpg "Aqua Mundo, el parque acuático cubierto de Center Parcs De Eemhof. © Milan Vermeulen")
+![Parque acuático en Holanda](https://fotos.etheriamagazine.com/2018/07/Center-Parcs-Eemhof-Aquamundo-1024x683.jpg "Aqua Mundo, el parque acuático cubierto de Center Parcs De Eemhof. © Milan Vermeulen")
 
 En la zona de la **marina** se pueden realizar también numerosas actividades perfectas 
 si se va en verano como el padel surf, alquiler de barcas a pedales, barcas a motor o 
 canoas, _banana boat_, _flyboarding_, esquí acuático, _windsurf_… 
 
-![Deportes en el agua en Holanda](etheria-images/2018/07/Center-Parcs-Eemhof-deportes-acuaticos-1024x682.jpg "Padel Surf en De Eemhof. ©Ton Hurks Fotografie")
+![Deportes en el agua en Holanda](https://fotos.etheriamagazine.com/2018/07/Center-Parcs-Eemhof-deportes-acuaticos-1024x682.jpg "Padel Surf en De Eemhof. ©Ton Hurks Fotografie")
 
 Y para cuando el tiempo no acompaña, el Center Parcs de Eemhof se puede optar por una 
 zona cubierta llamada **Action Factory** con restaurante, bolos, kids club y juegos 

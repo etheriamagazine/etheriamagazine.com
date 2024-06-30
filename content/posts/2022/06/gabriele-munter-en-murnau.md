@@ -1,7 +1,7 @@
 ---
 title: "Murnau, el pueblo alemán que enamoró a la artista Gabriele Münter"
 date: 2022-06-14
-coverImage: etheria-images/2022/06/plaza-Murnau-alemania.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/plaza-Murnau-alemania.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -12,7 +12,7 @@ authors:
 
 Gabriele Münter se enamoró de la villa de Murnau en el siglo XIX, pero ¿qué vio esta pintora expresionista alemana en dicho pueblo bávaro para considerarlo su “lugar favorito en el mundo”? Te contamos los secretos de ambos, de la pintora y de la población.
 
-![Una mujer mira un cuadro con  Los colores imaginarios de los paisajes de Gabriele Münter.](etheria-images/2022/06/murnau-gabriele-munter.jpg "Los colores imaginarios de los paisajes de Gabriele Münter. © Manena Munar")
+![Una mujer mira un cuadro con  Los colores imaginarios de los paisajes de Gabriele Münter.](https://fotos.etheriamagazine.com/2022/06/murnau-gabriele-munter.jpg "Los colores imaginarios de los paisajes de Gabriele Münter. © Manena Munar")
 
 Para que os empecéis a ubicar, el pueblo de Murnau se encuentra en **Baviera**, una 
 bella región de Alemania inmersa en los Alpes y donde se esconden pueblos de ensueño. 
@@ -48,7 +48,7 @@ espontáneos de la vida”. Pintaba paisajes, retratos, un nuevo tipo de impresi
 post impresionismo, caracterizado por el marcado de la espátula y pincel y qué más tarde 
 llevó a incluirle en el desarrollo del _Expresionismo alemán_. 
 
-![Paneles con obras de Gabriele munter en murnau](etheria-images/2022/06/panel-murnau.jpg "A cada paso por Murnau se encuentra un testimonio de la presencia de Gabriele Münter en el pueblo bávaro. © M. Munar")
+![Paneles con obras de Gabriele munter en murnau](https://fotos.etheriamagazine.com/2022/06/panel-murnau.jpg "A cada paso por Murnau se encuentra un testimonio de la presencia de Gabriele Münter en el pueblo bávaro. © M. Munar")
 
 ## De alumna a amante de Kandinsky
 
@@ -63,7 +63,7 @@ renombrados en su estilo.
 > Kandinsky, una vez en Murnau, se llegó a quejar de que el jardín le llevaba tanto tiempo 
 > que no podía pintar. 
 
-![Panorámica de Murnau.](etheria-images/2022/06/Murnau-viaje-alemania.jpg "Panorámica de Murnau. © Thomas Rychly")
+![Panorámica de Murnau.](https://fotos.etheriamagazine.com/2022/06/Murnau-viaje-alemania.jpg "Panorámica de Murnau. © Thomas Rychly")
 
 ## Murnau entra en su vida
 
@@ -81,7 +81,7 @@ Kandinsky y Münter 'Der Blaue Reiter' (_El Jinete Azul_), apelativo que deciden
 tendencia de los componentes a utilizar el azul. El propósito común era transmitir la 
 esencia espiritual a través del arte. 
 
-![La Casa Münter de Murnau, donde vivieron Gabriele Münter y Kandinsky, hoy día es un museo.](etheria-images/2022/06/Munter-Haus-murnau.jpg "La Casa Münter de Murnau, donde vivieron Gabriele Münter y Kandinsky, hoy día es un museo. © Konrad Wallner")
+![La Casa Münter de Murnau, donde vivieron Gabriele Münter y Kandinsky, hoy día es un museo.](https://fotos.etheriamagazine.com/2022/06/Munter-Haus-murnau.jpg "La Casa Münter de Murnau, donde vivieron Gabriele Münter y Kandinsky, hoy día es un museo. © Konrad Wallner")
 
 Gabriele, en concreto, quería plasmar el alma de lo que veían sus ojos en sus lienzos. 
 En Murnau, donde pasó la mayor parte de su vida, pinta paisajes con vivos e insólitos 
@@ -95,7 +95,7 @@ También le interesó aprender a pintar _al revés del cristal,_ una técnica mu
 Baviera. Obras con mucho color que hablan de la vida cotidiana de la gente de las 
 montañas. El Murnau de 1860 era un pueblo lleno de restaurantes, cafés. Lleno de vida. 
 
-![Plaza de Murnau, con las montañas al fondo.](etheria-images/2022/06/plaza-Murnau-alemania.jpg "Plaza de Murnau, con las montañas al fondo. © Simon Bauer.")
+![Plaza de Murnau, con las montañas al fondo.](https://fotos.etheriamagazine.com/2022/06/plaza-Murnau-alemania.jpg "Plaza de Murnau, con las montañas al fondo. © Simon Bauer.")
 
 ### Amores rotos
 
@@ -115,7 +115,7 @@ donó todas las obras a Städtische Galerie im Lenbachhaus, en Múnich.
 
 > En 1994 se creó el premio Gabriele Münter para pintoras mayores de cuarenta años. 
 
-![El castillo de Murnau o Schlossmuseum alberga una selección de obras de Der Blaue Reiter.](etheria-images/2022/06/Schlossmuseum-murnau.jpg "El castillo de Murnau o Schlossmuseum alberga una selección de obras de Der Blaue Reiter. © Tourist Information de Murnau")
+![El castillo de Murnau o Schlossmuseum alberga una selección de obras de Der Blaue Reiter.](https://fotos.etheriamagazine.com/2022/06/Schlossmuseum-murnau.jpg "El castillo de Murnau o Schlossmuseum alberga una selección de obras de Der Blaue Reiter. © Tourist Information de Murnau")
 
 ### La trascendencia de la obra de Gabriele Münter
 
@@ -134,7 +134,7 @@ se descubre Murnau iluminado por su pincel. Se entiende el porqué de su pasión
 las **cumbres nevadas de los Alpes** asomando al principio del pueblo y **las aguas del 
 Staffelsee** al final, o viceversa… 
 
-![(Izq) Gabriele Münter descansa en el cementerio de Murnau junto a su esposo Johannes Eichner. (Dcha.) Dos escenas de Murnau.](etheria-images/2022/06/tumba-gabriele-munter-murnau.jpg "(Izq) Gabriele Münter descansa en el cementerio de Murnau junto a su esposo Johannes Eichner. (Dcha.) Dos escenas de Murnau.")
+![(Izq) Gabriele Münter descansa en el cementerio de Murnau junto a su esposo Johannes Eichner. (Dcha.) Dos escenas de Murnau.](https://fotos.etheriamagazine.com/2022/06/tumba-gabriele-munter-murnau.jpg "(Izq) Gabriele Münter descansa en el cementerio de Murnau junto a su esposo Johannes Eichner. (Dcha.) Dos escenas de Murnau.")
 
 ## Qué hacer en Murnau
 
@@ -151,7 +151,7 @@ York podrás ver numerosas obras suyas colgadas en sus salas.
 El idílico Murnau veía a Gabriele Münter con cierto escepticismo; no era una mujer al 
 uso. El pueblo se abstuvo de prestarle la debida ayuda en tiempos difíciles. 
 
-![Atardecer en el lago Staffelsee.](etheria-images/2022/06/lago-Staffelsee-murnau.jpg "Atardecer en el lago de Staffelsee. © Turismo Murnau")
+![Atardecer en el lago Staffelsee.](https://fotos.etheriamagazine.com/2022/06/lago-Staffelsee-murnau.jpg "Atardecer en el lago de Staffelsee. © Turismo Murnau")
 
 ### Las mansiones del lago y un guapo rey loco
 
@@ -166,7 +166,7 @@ el lago y el verdor, no se puede por más que reflexionar sobre esa mujer tan es
 que luchó contra viento y marea para terminar compartiendo su forma de mirar la vida, 
 sus colores, sus emociones y su dolor en el lienzo. 
 
-![Bellas casonas bordean las orillas del lago Staffelsee de Murnau](etheria-images/2022/06/murnao-lago-casa.jpg "Bellas casonas bordean las orillas del Staffelsee. © M.Munar")
+![Bellas casonas bordean las orillas del lago Staffelsee de Murnau](https://fotos.etheriamagazine.com/2022/06/murnao-lago-casa.jpg "Bellas casonas bordean las orillas del Staffelsee. © M.Munar")
 
 ### Guía de viajes | Gabriele Münter en Murnau
 

@@ -1,7 +1,7 @@
 ---
 title: "Ana Blasco: \"Islandia ha sido uno de mis grandes descubrimientos\""
 date: 2018-08-20
-coverImage: etheria-images/2018/08/ana-blasco-mujeres-etheria.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/08/ana-blasco-mujeres-etheria.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -9,7 +9,7 @@ authors:
   - Pepa G. Marín
 ---
 
-![ana blasco mujeres etheria magazine](etheria-images/2018/08/ana-blasco-mujeres-etheria.jpg)
+![ana blasco mujeres etheria magazine](https://fotos.etheriamagazine.com/2018/08/ana-blasco-mujeres-etheria.jpg)
 
 ###### Ana Blasco, directora de WOM, una agencia de viajes online para mujeres, es una de las [Mujeres Etheria](https://etheriamagazine.com/category/mujeres-etheria/) que destacamos en esta sección por haber creado esta agencia especializada con sólo 28 años y haber inspirado a cientos de mujeres a perder miedos, a atreverse a viajar solas, a hacer amigas... Se define a sí misma como valiente, tenaz y apasionada.
 
@@ -27,7 +27,7 @@ Ana tuvo claro desde pequeña que quería dedicarse a la Egiptología. A pesar d
 
 Muchísimo. Cada día me considero una persona más abierta, empática y con menos prejuicios y eso, claramente, es debido a estar continuamente en contacto con otras culturas, formas de pensar… Además, **me han aportado buenísimas amistades, experiencias que de otra forma no hubiese vivido nunca**. Incluso el aprendizaje de enfrentarte a situaciones que tu día a día no te exige te hace crecer mucho como persona.
 
-![ana blasco mujeres etheria magazine](etheria-images/2018/08/AnaBlasco-wom-viajes.jpg)
+![ana blasco mujeres etheria magazine](https://fotos.etheriamagazine.com/2018/08/AnaBlasco-wom-viajes.jpg)
 
 ##### 4\. Si pudieses elegir un compañero de viaje (real o de ficción). ¿Quién sería y por qué?
 
@@ -41,7 +41,7 @@ Debe ser que al estar siempre planificando, para diseñar el catálogo de WOM, c
 
 El móvil se ha convertido en un gran aliado para estas esperas.
 
-![viajes mujeres agencia wom etheria magazine](etheria-images/2018/08/viajes-mujeres-etheria.jpg)
+![viajes mujeres agencia wom etheria magazine](https://fotos.etheriamagazine.com/2018/08/viajes-mujeres-etheria.jpg)
 
 ##### 7\. ¿Cuál ha sido tu último viaje? ¿Qué es lo que más y lo que menos te ha gustado de ese destino?
 
@@ -59,7 +59,7 @@ Mi último viaje ha sido a Canadá por vacaciones. **Me encantó la vidilla de T
 
 Uno de los sitios donde mejor he comido ha sido en **Creta**.
 
-![viajes mujeres camboya etheria magazine](etheria-images/2018/08/camboya-viajes-mujeres.jpg)
+![viajes mujeres camboya etheria magazine](https://fotos.etheriamagazine.com/2018/08/camboya-viajes-mujeres.jpg)
 
 ##### 11\. ¿En qué medio de transporte prefieres viajar?
 

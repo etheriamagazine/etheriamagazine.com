@@ -1,7 +1,7 @@
 ---
 title: "Barcelona con amigas: visitas, compras y los mejores restaurantes"
 date: 2019-03-12
-coverImage: etheria-images/2019/03/Barcelona-bicing-en-el-gotico.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/Barcelona-bicing-en-el-gotico.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -13,7 +13,7 @@ authors:
 
 Barcelona es el destino perfecto para una escapada con amigas. Mediterránea, con buen clima, mucha historia y una gran oferta cultural y gastronómica, puede ser el fin de semana ideal para desconectar y volver con las pilas cargadas.
 
-![columnas de La Pedrera por la noche](etheria-images/2019/03/Barcelona-La-Pedrera-noche.jpg "Vista desde La Pedrera.")
+![columnas de La Pedrera por la noche](https://fotos.etheriamagazine.com/2019/03/Barcelona-La-Pedrera-noche.jpg "Vista desde La Pedrera.")
 
 Un fin de semana en Barcelona puede dar mucho de sí si os organizáis bien. Os hemos 
 preparado una lista con los imprescindibles para una escapada con amigas. En función de 
@@ -29,7 +29,7 @@ ser visitadas. Podéis seguir una [Ruta
 Modernista](https://www.barcelonaturisme.com/wv3/es/page/74/ruta-modernista.html) o bien 
 visitar aquellos edificios que más os llamen la atención. 
 
-![Taxis frente a la Pedrera](etheria-images/2019/03/Barcelona-la-pedrera.jpg "La Pedrera al anochecer.")
+![Taxis frente a la Pedrera](https://fotos.etheriamagazine.com/2019/03/Barcelona-la-pedrera.jpg "La Pedrera al anochecer.")
 
 Sin duda, la **Sagrada Familia** y la **Pedrera** son los más conocidos, pero hay otros 
 igual de espectaculares que también merecen la pena, como el Palau de la Música 
@@ -47,7 +47,7 @@ Batlló](https://www.casabatllo.es/) por su colorida y creativa fachada, aunque 
 interior es tanto o más espectacular debido a las formas ondulantes y la constante 
 reminiscencia a los detalles orgánicos y el mundo marino, gran inspiración de Gaudí. 
 
-![azulejos modernistas en Casa Batló en Barcelona](etheria-images/2019/03/barcelona-Casa-Batllo-interior.jpg "Interior de la Casa Batlló inspirado en el mar.")
+![azulejos modernistas en Casa Batló en Barcelona](https://fotos.etheriamagazine.com/2019/03/barcelona-Casa-Batllo-interior.jpg "Interior de la Casa Batlló inspirado en el mar.")
 
 Con la [Barcelona Card](https://www.barcelonacard.com/es) tenéis descuentos en la 
 mayoría de ellos (también incluye el transporte). Si vais justas de tiempo, elegid al 
@@ -67,7 +67,7 @@ y la **Mar Bella**. Aquí se reúne gente de todas las edades y nacionalidades p
 practicar deporte, tomar el sol y disfrutar de las tapas o una paella en los 
 chiringuitos. 
 
-![La Barceloneta en Barcelona](etheria-images/2019/03/Barcelona-playa-de-la-Barceloneta.jpg "Playa de la Barceloneta.")
+![La Barceloneta en Barcelona](https://fotos.etheriamagazine.com/2019/03/Barcelona-playa-de-la-Barceloneta.jpg "Playa de la Barceloneta.")
 
 Otra forma de disfrutar del mar es visitando el **Port Vell** (puerto viejo) y su 
 versión más nueva, el **Maremagnum** (hogar del Aquarium y del cine IMAX). El Port Vell 
@@ -94,7 +94,7 @@ están siendo modernizados por lo que el acceso se hace con autobús lanzadera. 
 _Camí del cel_ (camino del cielo), dentro del parque, pero de acceso gratuito, se 
 obtienen unas vistas impresionantes que alcanzan hasta el mar. 
 
-![amigas se hacen una foto en Montjuic](etheria-images/2019/03/Barcelona-vistas-de-Montjuic.jpg "Vistas desde Montjuic.")
+![amigas se hacen una foto en Montjuic](https://fotos.etheriamagazine.com/2019/03/Barcelona-vistas-de-Montjuic.jpg "Vistas desde Montjuic.")
 
 ### Mirador de Montjuic
 
@@ -121,7 +121,7 @@ aprovechar para tapear en **El Pinotxo**, la tasca del chef Juanito, el lugar m�
 emblemático del mercado, en el que os servirán platos elaborados a diario con productos 
 de los puestos vecinos. Tened paciencia, porque siempre está a rebosar. 
 
-![bar de pintxos en Barcelona](etheria-images/2019/03/Barcelona-Pinocho-en-la-Boquería.jpg "Bar Pinotxo en el mercado de la Boquería.")
+![bar de pintxos en Barcelona](https://fotos.etheriamagazine.com/2019/03/Barcelona-Pinocho-en-la-Boquería.jpg "Bar Pinotxo en el mercado de la Boquería.")
 
 El **mercado de Santa Caterina**, cerca de la Catedral, fue el primer mercado techado y 
 desde hace unos años cuenta con una espectacular cubierta de acero, hormigón, madera y 
@@ -160,7 +160,7 @@ perderse la cripta del piso inferior. Y si lo que buscáis es alta pastelería, 
 **Escribà**, en la Rambla 83. Ubicado en un precioso edificio modernista, os gustará 
 tanto el exterior como su deliciosa selección de pasteles y bombones. 
 
-![Boutique Santa Eulalia en Barcelona](etheria-images/2019/03/boutique-Santa-Eulalia-barcelona.jpg "Boutique Santa Eulalia.")
+![Boutique Santa Eulalia en Barcelona](https://fotos.etheriamagazine.com/2019/03/boutique-Santa-Eulalia-barcelona.jpg "Boutique Santa Eulalia.")
 
 ## 5\. Compras en Barcelona
 
@@ -200,7 +200,7 @@ Olvidaos del mapa (o de Google Maps) y perdeos por esta zona para descubrir las
 auténticas joyas que esconde (prestad atención a los relieves y gárgolas de sus 
 edificios). 
 
-![Amigas alquilan una bicicleta en Barcelona](etheria-images/2019/03/Barcelona-bicing-en-el-gotico.jpg "Paseo en bicicleta por el Barrio Gótico.")
+![Amigas alquilan una bicicleta en Barcelona](https://fotos.etheriamagazine.com/2019/03/Barcelona-bicing-en-el-gotico.jpg "Paseo en bicicleta por el Barrio Gótico.")
 
 ### El Born
 
@@ -220,7 +220,7 @@ rehabilitado del antiguo mercado del Born, el primer ejemplar de arquitectura en
 de la ciudad y que aloja diversos restos arqueológicos. Muy cerca queda el **parque de 
 la Ciudadela**, en el que podéis descansar después de tanto trote. 
 
-![calle típica de El Born](etheria-images/2019/03/Barcelona-El-Borne.jpg "Barrio medieval de El Born.")
+![calle típica de El Born](https://fotos.etheriamagazine.com/2019/03/Barcelona-El-Borne.jpg "Barrio medieval de El Born.")
 
 Aunque si lo que os apetece es daros un capricho, no dudéis en reservar un par de horas 
 para relajaros –de verdad– en [AIRE Ancient Baths 
@@ -257,7 +257,7 @@ vuestros miedos en el laberinto del terror. La exposición se actualiza regularm
 lo que cada vez la experiencia será diferente. ¡Tendréis material para vuestro instagram 
 durante semanas! 
 
-![edificios emblemáticos del Modernismo](etheria-images/2019/03/Barcelona-modernismo-sagrada-familia.jpg "Modernismo en Barcelona.")
+![edificios emblemáticos del Modernismo](https://fotos.etheriamagazine.com/2019/03/Barcelona-modernismo-sagrada-familia.jpg "Modernismo en Barcelona.")
 
 #### ? ¿Dónde alojarse?
 

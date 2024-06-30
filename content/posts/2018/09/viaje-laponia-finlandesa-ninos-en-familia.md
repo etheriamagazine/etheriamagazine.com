@@ -1,7 +1,7 @@
 ---
 title: "Laponia con niños: un viaje irrepetible"
 date: 2018-09-07
-coverImage: etheria-images/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ familia. Si quieres hacer de este viaje una experiencia irrepetible viaja en inv
 la mejor época para disfrutar de las actividades en la nieve y de un personaje único: el 
 mismísimo Papá Noel. No te pierdas un viaje a Laponia con niños ¡será inolvidable! 
 
-![cabaña en la Laponia finlandesa](etheria-images/2018/04/cabaña-privada-Papá-Noel-e1568538731813.jpg "Paisaje desde la cabaña privada de Papá Noel. © Susana García.")
+![cabaña en la Laponia finlandesa](https://fotos.etheriamagazine.com/2018/04/cabaña-privada-Papá-Noel-e1568538731813.jpg "Paisaje desde la cabaña privada de Papá Noel. © Susana García.")
 
 Uno de los mejores viajes en familia por Europa que se puede hacer con niños es visitar 
 la Laponia finlandesa en invierno, cuando se instala el llamado _kaamos_, la 
@@ -34,7 +34,7 @@ esperar. No siempre se tiene suerte, pero a los más pequeños les encanta la ac
 Normalmente suele ir acompañada de una **comida en una típica kota** (tienda de campaña 
 grande de Laponia que parece un tipi indio). 
 
-![pesca en el hielo en la Laponia finlandesa](etheria-images/2018/04/Pesca-hielo-Laponia-finlandesa-e1568538747248.jpg "Pescar en un lago helado es una de las actividades que se realizan con niños en Laponia. © Susana García.")
+![pesca en el hielo en la Laponia finlandesa](https://fotos.etheriamagazine.com/2018/04/Pesca-hielo-Laponia-finlandesa-e1568538747248.jpg "Pescar en un lago helado es una de las actividades que se realizan con niños en Laponia. © Susana García.")
 
 ## 2\. Karts sobre el hielo
 
@@ -44,7 +44,7 @@ si la actividad se realiza en grupo. Mientras, los más pequeños pueden caminar
 raquetas de nieve, jugar al _curling_ o, simplemente, deslizarse en trineo sobre la 
 nieve en los alrededores de la pista. 
 
-![carrera de karts sobre el hielo en Laponia](etheria-images/2018/04/karts-en-el-hielo-Laponia-e1568538765954.jpg "Los adultos disfrutan con las carreras de karts sobre el hielo en Laponia. © Susana García.")
+![carrera de karts sobre el hielo en Laponia](https://fotos.etheriamagazine.com/2018/04/karts-en-el-hielo-Laponia-e1568538765954.jpg "Los adultos disfrutan con las carreras de karts sobre el hielo en Laponia. © Susana García.")
 
 ## 3\. Excursión en trineo tirado por perros husky
 
@@ -56,7 +56,7 @@ llevan una cesta en la parte delantera donde pueden ir los niños**. Antes o des
 paseo se puede visitar la granja de perros husky y ver cómo estos animales están siempre 
 preparados para la carrera. 
 
-![paseo en trineo tirado por perros husky en Laponia](etheria-images/2018/04/Excursión-trineos-perros-kusky-Laponia-finlandesa-Etheriamagazine-e1568538786562.jpg "La sensación de llevar un trineo tirado por perros husky sobre la nieve es indescriptible. © Susana García.")
+![paseo en trineo tirado por perros husky en Laponia](https://fotos.etheriamagazine.com/2018/04/Excursión-trineos-perros-kusky-Laponia-finlandesa-Etheriamagazine-e1568538786562.jpg "La sensación de llevar un trineo tirado por perros husky sobre la nieve es indescriptible. © Susana García.")
 
 ## 4\. Safari en motonieve
 
@@ -70,7 +70,7 @@ pequeños y así los padres pueden disfrutar de la experiencia de conducir estas
 > También se suelen realizar safaris durante la noche para ver auroras boreales, una 
 > experiencia espectacular, eso sí, mejor sólo para los adultos. 
 
-![motonieve en Laponia](etheria-images/2018/04/Excursion-en-Laponia-Finlandia-moto-de-nieve-Etheriamagazine-e1568538820284.jpg "Safari en motonieve por Laponia. © Susana García.")
+![motonieve en Laponia](https://fotos.etheriamagazine.com/2018/04/Excursion-en-Laponia-Finlandia-moto-de-nieve-Etheriamagazine-e1568538820284.jpg "Safari en motonieve por Laponia. © Susana García.")
 
 ## 5\. Paseo en trineo tirado por renos
 
@@ -81,7 +81,7 @@ y hoy son ellos los que dirigen estas granjas, así que esta visita es también 
 de conocer un poco más de su cultura. El paseo es cómodo, tranquilo y perfecto para 
 disfrutar tranquilamente del paisaje. 
 
-![paseo en trineo tirado por renos en Laponia](etheria-images/2018/04/paseo-renos-Laponia-e1568538834622.jpg "Relajante paseo en un trineo tirado por renos. © Susana García.")
+![paseo en trineo tirado por renos en Laponia](https://fotos.etheriamagazine.com/2018/04/paseo-renos-Laponia-e1568538834622.jpg "Relajante paseo en un trineo tirado por renos. © Susana García.")
 
 ## 6\. Esquí de fondo
 
@@ -93,7 +93,7 @@ alguna agencia local, y en alojamientos como las cabañas de **Rukan Salonki** (
 incluso salir directamente con los esquíes desde la cabaña. Las rutas están 
 perfectamente señalizadas por niveles. 
 
-![grupo de esquiadores de fondo en Laponia](etheria-images/2018/04/Esqui-de-fondo-en-Laponia-Etheriamagazine.jpg "El esquí de fondo es una actividad perfecta para un viaje en familia a Laponia. © Susana García")
+![grupo de esquiadores de fondo en Laponia](https://fotos.etheriamagazine.com/2018/04/Esqui-de-fondo-en-Laponia-Etheriamagazine.jpg "El esquí de fondo es una actividad perfecta para un viaje en familia a Laponia. © Susana García")
 
 ## 7\. Visita a Papá Noel
 
@@ -115,7 +115,7 @@ los trineos en el magnífico entorno de la cabaña. Además, Santa Claus explica
 niños el complicado proceso de tener todos los juguetes a punto para el mismo día y cómo 
 se encarga de repartirlos. Una experiencia totalmente mágica. 
 
-![taller de galletas en la cabaña de Papá Noel en Laponia](etheria-images/2018/04/Cabaña-Papá-Noel-Laponia-e1568538859784.jpg "Haciendo galletas con Santa Claus y los elfos en su cabaña. © Susana García.")
+![taller de galletas en la cabaña de Papá Noel en Laponia](https://fotos.etheriamagazine.com/2018/04/Cabaña-Papá-Noel-Laponia-e1568538859784.jpg "Haciendo galletas con Santa Claus y los elfos en su cabaña. © Susana García.")
 
 ## Consejos para un viaje a Laponia
 

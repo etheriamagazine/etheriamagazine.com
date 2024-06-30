@@ -1,7 +1,7 @@
 ---
 title: "Escapada para dos a Londres: ocho planes fuera de lo común"
 date: 2020-01-09
-coverImage: etheria-images/2019/12/londres-tate-modern.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/12/londres-tate-modern.jpg
 categories: 
   - viajes-48-horas
   - viajes-romanticos
@@ -15,7 +15,7 @@ authors:
 
 Si estás hasta el moño de películas melosas como 'Bridget Jones' o 'Notting Hill', de paseos románticos por Hyde Park y de los pétalos de rosa en forma de corazón junto a una botella de champán, sigue leyendo. Estas ocho pistas en la ciudad del Támesis serán perfectas para celebrar el amor sin tanta cursilería.
 
-![puente de Londres](etheria-images/2019/12/londres-the-shard-900x602.jpg "Skyline con el perf de The Shard. © visitlondon.com/Jon Reid")
+![puente de Londres](https://fotos.etheriamagazine.com/2019/12/londres-the-shard-900x602.jpg "Skyline con el perf de The Shard. © visitlondon.com/Jon Reid")
 
 Londres es una de esas ciudades que tiene muchos viajes: sola, con amigas, en pareja, en 
 familia, para desconectar, para ir de tiendas, para ver un espectáculo, para visitar 
@@ -39,7 +39,7 @@ como el Walkie-Talkie, acoge en el piso 35 un precioso jardín urbano que ha dad
 de que hablar desde su apertura en 2014. Con vistas de 360 grados a casi 150 metros de 
 altura, tomarse un cóctel en su Sky Pod Bar resulta más que alucinante. 
 
-![Sky Garden](etheria-images/2019/12/londres-sky-garden-900x600.jpg "Sky Garden.")
+![Sky Garden](https://fotos.etheriamagazine.com/2019/12/londres-sky-garden-900x600.jpg "Sky Garden.")
 
 El Aqua Shard, emplazado en uno de los símbolos del skyline londinense, **The Shard**, 
 es otra opción de mucha altura. Su [Atrium Bar](https://www.aquashard.co.uk/experience) 
@@ -57,7 +57,7 @@ neurálgico vanguardista alejado de los radares turísticos. Aunque los puestos 
 calle solo están ese día de la semana, a lado y lado hay tiendas, cafés, restaurantes, 
 librerías y bares abiertos todos los días. 
 
-![Broadway Market](etheria-images/2019/12/Londres-broadway-market-900x507.jpg "Ambiente y productos en © Broadway Market")
+![Broadway Market](https://fotos.etheriamagazine.com/2019/12/Londres-broadway-market-900x507.jpg "Ambiente y productos en © Broadway Market")
 
 Uno de ellos es **L'Eau à la Bouche**, un café y tienda de delicatessen atendida por su 
 propietario, francés por supuesto. Desde carnes y quesos hasta aceitunas y ensaladas, 
@@ -72,7 +72,7 @@ pero en este paseo por Londres estamos huyendo de lo ordinario. Así que ponemos
 mira en el maravilloso festival de orquídeas que cada año tiene lugar en los [Kew 
 Gardens](https://www.kew.org) (Royal Botanic Gardens). 
 
-![Mujer cuidando jardín](etheria-images/2019/12/Londres-orquideas-900x653.jpg "Orquídeas en Kew Garden. © Kew's Orchid Festival/ Jeff Eden")
+![Mujer cuidando jardín](https://fotos.etheriamagazine.com/2019/12/Londres-orquideas-900x653.jpg "Orquídeas en Kew Garden. © Kew's Orchid Festival/ Jeff Eden")
 
 Dentro del **Conservatorio Princesa de Gales** os veréis transportados a un paraíso 
 fascinante que evoca sonidos, olores y colores de este inquietante archipiélago. A 
@@ -89,7 +89,7 @@ puertas en 1910) aún conserva su aspecto original casi intacto tras su renovaci
 reemplazo de las antiguas 240 sillas, seis camas dobles gigantes con forro de terciopelo 
 en primera fila y dos enormes sofás en lo más alto. 
 
-![Sala de The Electric Cinema en Notting Hill](etheria-images/2020/01/Londres-cinema-portobello-900x600.jpg "Sala de © The Electric Cinema en Notting Hill.")
+![Sala de The Electric Cinema en Notting Hill](https://fotos.etheriamagazine.com/2020/01/Londres-cinema-portobello-900x600.jpg "Sala de © The Electric Cinema en Notting Hill.")
 
 La experiencia, en la que se pueden ver desde películas de estreno hasta cine de culto, 
 'remakes' y filmes clásicos, se completa con mantas de _cashmere_ y servicio de 
@@ -108,7 +108,7 @@ por ello hasta la muerte. Ahora los visitantes dejan billetes en el techo para i
 pagar su deuda, cosa que no parece funcionar, pues el pobre sigue merodeando por los 
 pasillos. 
 
-![sala de pub inglés](etheria-images/2019/12/Londres-grenadier-900x600.jpg "Interior de © The Grenadier")
+![sala de pub inglés](https://fotos.etheriamagazine.com/2019/12/Londres-grenadier-900x600.jpg "Interior de © The Grenadier")
 
 Fantasma aparte, será un privilegio tomar una pinta de cerveza o una copa de su 
 selección de vinos clásicos en esta auténtica joya londinense, escondida en un callejón 
@@ -124,7 +124,7 @@ construcción. Poneros frente a frente, separados por el abismo de la altura de 
 y susurrad ‘te quiero’; gracias a uno de los fenómenos auditivos más sorprendentes del 
 mundo, lo oiréis al otro lado. 
 
-![St. Paul's Cathedral](etheria-images/2019/12/londres-st-paul-cathedral-900x600.jpg "St. Paul's Cathedral. © visitlondon.com/Jon Reid")
+![St. Paul's Cathedral](https://fotos.etheriamagazine.com/2019/12/londres-st-paul-cathedral-900x600.jpg "St. Paul's Cathedral. © visitlondon.com/Jon Reid")
 
 Además de esta declaración de amor, seguid subiendo –528 escalones más– hasta la 
 **Golden Gallery** en el punto más alto de la cúpula, a 111 metros del suelo. Las vistas 
@@ -140,7 +140,7 @@ una estética vintage, su local, con un precioso arco de flores, es lugar elegid
 comensales para 'postear' sus increíbles helados en Instagram. Aunque el lugar es lo de 
 menos, cuando se trata de semejante perfección de helado. 
 
-![helado con algodón de azúcar](etheria-images/2019/12/Londres-Milk-Train-900x901.jpg "Imaginativos y deliciosos helados en © Milk Train")
+![helado con algodón de azúcar](https://fotos.etheriamagazine.com/2019/12/Londres-Milk-Train-900x901.jpg "Imaginativos y deliciosos helados en © Milk Train")
 
 En cucurucho o en tarrina, de sabores estacionales, con _toppings_ de toda clase –desde 
 palomitas, galletas oreo y barquillos hasta dulces en forma de corazón– y decorados 
@@ -156,7 +156,7 @@ Firehouse](http://www.chilternfirehouse.com/hotel/luxury-hotel-london), un suntu
 hotel de tan solo 26 habitaciones en el que cada huésped es atendido por su propio 
 conserje personal. 
 
-![entrada hotel Chiltern Firehouse](etheria-images/2020/01/Londres-hotel-Chiltern-firehouse-863x1024.jpg "Hotel © Chiltern Firehouse.")
+![entrada hotel Chiltern Firehouse](https://fotos.etheriamagazine.com/2020/01/Londres-hotel-Chiltern-firehouse-863x1024.jpg "Hotel © Chiltern Firehouse.")
 
 Ubicado en el corazón del barrio de Marylebone, este parque de bomberos construido en 
 1889 fue cuidadosamente restaurado por el hotelero André Balazs. Con encanto histórico, 

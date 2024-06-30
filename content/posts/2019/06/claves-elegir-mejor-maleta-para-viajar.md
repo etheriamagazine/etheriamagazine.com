@@ -1,7 +1,7 @@
 ---
 title: "Claves básicas para elegir la mejor maleta para tu viaje"
 date: 2019-06-05
-coverImage: etheria-images/2019/06/como-elegir-maleta.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/como-elegir-maleta.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -15,7 +15,7 @@ la misma, algunas te convienen más que otras según el tipo de viaje que vayas 
 realizar. Las hemos dividido en varias categorías para que te resulte más sencillo 
 elegir la mejor maleta para tu próximo viaje. 
 
-![maletas y mochilas de viaje](etheria-images/2019/06/como-elegir-maleta.jpg "Elegir la maleta es el primer paso de comenzar a prepara un viaje.")
+![maletas y mochilas de viaje](https://fotos.etheriamagazine.com/2019/06/como-elegir-maleta.jpg "Elegir la maleta es el primer paso de comenzar a prepara un viaje.")
 
 Los viajes comienzan desde el mismo momento que se empiezan a planear. Y una parte muy 
 importante de esta organización es preparar la maleta, cuyo primer paso es siempre 
@@ -37,7 +37,7 @@ necesitas un material muy resistente.
 **Propuesta de Etheria:** Modelo Doshwin de 70 litros, muy capaz y puedes elegir entre 
 varios colores (negro, azul, rojo y verde). Disponible en [Amazon](https://amzn.to/3RsoHqc). 
 
-![mochila de viaje azul](etheria-images/2019/06/maleta-viaje-mochila-trekking.jpg "Mochila de viaje de 70 litros de capacidad disponible en © Amazon.")
+![mochila de viaje azul](https://fotos.etheriamagazine.com/2019/06/maleta-viaje-mochila-trekking.jpg "Mochila de viaje de 70 litros de capacidad disponible en © Amazon.")
 
 ## 2\. Finde urbano: trolley de cabina
 
@@ -52,7 +52,7 @@ de una App que escanea tu maleta y te dice si el tamaño está permitido en cabi
 **Propuestas de Etheria**: La maleta de cabina de American Tourister, con cuatro ruedas, 
 muy bien acabada y disponible en varios colores. Disponible en [Amazon](https://amzn.to/3LvRaYs). 
 
-![Maleta de cabina de American Tourister en verde agua](etheria-images/2019/06/maleta-cabina-american-tourister.jpg "Maleta de cabina de American Tourister. © Amazon.")
+![Maleta de cabina de American Tourister en verde agua](https://fotos.etheriamagazine.com/2019/06/maleta-cabina-american-tourister.jpg "Maleta de cabina de American Tourister. © Amazon.")
 
 ## 3\. Viajazo de verano: equipaje XXL
 
@@ -75,7 +75,7 @@ gustado la Roncato Flight DLX de gran tamaño (79 x 50 x 29-32 cm). Eso sí, ten
 tener cuidado si viajas en avión para no pasarte con el peso. Disponible en [Amazon](https://amzn.to/46mAn1N) 
 en varios colores. 
 
-![Maleta Roncato fucsia](etheria-images/2019/06/maleta-roncato-fucsia.jpg "Maleta Roncato fucsia disponible en © Amazon.")
+![Maleta Roncato fucsia](https://fotos.etheriamagazine.com/2019/06/maleta-roncato-fucsia.jpg "Maleta Roncato fucsia disponible en © Amazon.")
 
 ## 4\. Viajes con niños: ¿maletones o maletitas?
 
@@ -85,7 +85,7 @@ individuales. En función de la edad de los niños te puede interesar más unas 
 Sin son pequeños puedes optar por un tamaño infantil donde incluso puedan ir sentados o 
 en patinete en los desplazamientos en los aeropuertos. 
 
-![maleta con Mickey Mouse y maleta con diseño de mariquita](etheria-images/2019/06/maletas-ninos.jpg "Divertidas maletas para niños disponibles en © Amazon.")
+![maleta con Mickey Mouse y maleta con diseño de mariquita](https://fotos.etheriamagazine.com/2019/06/maletas-ninos.jpg "Divertidas maletas para niños disponibles en © Amazon.")
 
 Y si son adolescentes, por supuesto, maletas individuales donde ellos elijan qué 
 necesitan llevar y se organicen a su gusto. Otra opción para familias es elegir una 
@@ -110,7 +110,7 @@ En los últimos años se han comenzado a vender maletas-patinete que también pu
 **Propuestas de Etheria**: Maleta-patinete de Orpersist (en [Amazon](https://amzn.to/3t7Lopo)) 
 y portatrajes de Saint Maniero ([en Amazon).](https://amzn.to/2JSyEeD) 
 
-![Trolley-patinete y portatrajes negro](etheria-images/2019/06/maleta-patinete-portatrajes.jpg "Trolley-patinete y portatrajes, disponibles en © Amazon.")
+![Trolley-patinete y portatrajes negro](https://fotos.etheriamagazine.com/2019/06/maleta-patinete-portatrajes.jpg "Trolley-patinete y portatrajes, disponibles en © Amazon.")
 
 ## 6\. Viajeras comprometidas: maletas eco
 
@@ -121,7 +121,7 @@ partir de residuos plásticos.
 **Propuestas de Etheria**: El modelo S'Cure ECO de Samsonite se encuentra disponible en [Amazon](https://amzn.to/3PpQOUq) 
 en varios tamaños. 
 
-![maleta azul de Samsonite de plastico reciclado](etheria-images/2019/06/maleta-sostenible-samsonite.jpg "Modelo ecosostenible de Samsonite que se puede comprar en © Amazon.")
+![maleta azul de Samsonite de plastico reciclado](https://fotos.etheriamagazine.com/2019/06/maleta-sostenible-samsonite.jpg "Modelo ecosostenible de Samsonite que se puede comprar en © Amazon.")
 
 ? **También te puede interesar:** 
 

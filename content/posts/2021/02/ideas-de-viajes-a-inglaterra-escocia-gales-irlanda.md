@@ -1,7 +1,7 @@
 ---
 title: "8 viajes al Reino Unido para organizar una escapada"
 date: 2021-02-23
-coverImage: etheria-images/2020/12/viajes-reino-unido-escocia-castillo-Urquhart-lago-Ness.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-escocia-castillo-Urquhart-lago-Ness.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 Pensar en los viajes que podemos ir organizando es uno de los mayores alicientes que seguimos teniendo. Aquí te dejamos 8 propuestas al Reino Unido para que elijas si prefieres sumergirte en la cultura de sus ciudades o recorrer inmensos paisajes naturales.
 
-![Lago en  Escocia](etheria-images/2020/12/castillo-kilchurn-escocia.jpg "Castillo de Kilchurn, Escocia. © Connor Mollison")
+![Lago en  Escocia](https://fotos.etheriamagazine.com/2020/12/castillo-kilchurn-escocia.jpg "Castillo de Kilchurn, Escocia. © Connor Mollison")
 
 El Reino Unido es un país que suma regiones de lo más diversas, desde los paisajes 
 infinitos de Escocia a los profundos acantilados de Cornualles. Así que no te quedes 
@@ -40,7 +40,7 @@ viajes al Reino Unido.
 ? [Highlands o Tierras Altas de Escocia, una guía básica para recorrerlas a 
 pie](https://etheriamagazine.com/2020/09/10/mejor-ruta-3-dias-highlands-tierras-altas-escocia/). 
 
-![Castillo en el lago Ness](etheria-images/2020/12/viajes-reino-unido-escocia-castillo-Urquhart-lago-Ness.jpg "Castillo de Urquhart en el lago Ness. © Robin Canfield")
+![Castillo en el lago Ness](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-escocia-castillo-Urquhart-lago-Ness.jpg "Castillo de Urquhart en el lago Ness. © Robin Canfield")
 
 ### 2\. Mánchester
 
@@ -54,7 +54,7 @@ un spa victoriano.
 ? [12 visitas para triunfar en un fin de semana con amigas en 
 Mánchester](https://etheriamagazine.com/2019/12/30/12-visitas-para-fin-de-semana-en-manchester-con-amigas/). 
 
-![salir por la noche en reino unido](etheria-images/2020/12/viajes-reino-unido-manchester.jpg "The Triangle, en Mánchester. © Elena Ortega")
+![salir por la noche en reino unido](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-manchester.jpg "The Triangle, en Mánchester. © Elena Ortega")
 
 ### 3\. Road trip con amigas en Gales
 
@@ -68,7 +68,7 @@ de St. Govan’s, emparedada entre los acantilados del Parque Nacional de Pembro
 ? [Ruta en coche con amigas en 
 Gales](https://etheriamagazine.com/2019/08/23/viajar-con-amigas-ruta-coche-gales/). 
 
-![playa en Gales](etheria-images/2020/12/8-viajes-reino-unido-Gales-playa-Baranfundle.jpg "Playa de Baranfundle, en Gales, una de las más bellas del Reino Unido. © Manena Munar")
+![playa en Gales](https://fotos.etheriamagazine.com/2020/12/8-viajes-reino-unido-Gales-playa-Baranfundle.jpg "Playa de Baranfundle, en Gales, una de las más bellas del Reino Unido. © Manena Munar")
 
 ### 4\. Fin de semana en la península de Cornualles
 
@@ -82,7 +82,7 @@ de artistas, ni sus preciosas y cambiantes playas, siempre a merced de las marea
 ? [Cornualles, ruta por la costa inglesa tocada por el 
 sol](https://etheriamagazine.com/2019/07/10/viaje-que-hacer-ruta-cornualles-cornwall-inglaterra/). 
 
-![Pueblo de Cornualles](etheria-images/2020/12/viajes-reino-unido-cornualles-bahia-ives.jpg "Bahía de Saint Ives, en Cornualles. © Kris Ubach")
+![Pueblo de Cornualles](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-cornualles-bahia-ives.jpg "Bahía de Saint Ives, en Cornualles. © Kris Ubach")
 
 ### 5\. Islas Shetland
 
@@ -97,7 +97,7 @@ la vida tranquila de estas pequeñas islas.
 ? [Islas Shetland, un paraíso en el Atlántico 
 Norte](https://etheriamagazine.com/2019/03/21/mujeres-viajeras-que-ver-islas-shetland/). 
 
-![Paisaje en las islas Shetland](etheria-images/2020/12/viajes-reino-unido-islas-shetland.jpg "Broch de la isla de Mousa (Islas Shetland).")
+![Paisaje en las islas Shetland](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-islas-shetland.jpg "Broch de la isla de Mousa (Islas Shetland).")
 
 ### 6\. Road trip por los Cotswolds
 
@@ -112,7 +112,7 @@ considerado el pueblo más bonito de Inglaterra.
 ? [De 'road trip' por los Cotswolds, un viaje al corazón de 
 Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/). 
 
-![Casas típicas en Cotswolds](etheria-images/2020/12/viajes-reino-unido-Cotswolds.jpg "Los Cotswolds. © Elena Ortega")
+![Casas típicas en Cotswolds](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-Cotswolds.jpg "Los Cotswolds. © Elena Ortega")
 
 ### 7\. Visitas imprescindibles y lugares casi secretos de Irlanda del Norte
 
@@ -130,7 +130,7 @@ atracción turística de Irlanda del Norte, y las mágicas ruinas del castillo d
 ? [Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
 secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/). 
 
-![Puente colgante en Irlanda del Norte](etheria-images/2020/12/viajes-reino-unido-irlanda-norte-puente.jpg "Puente de Carrick-a-Rede. © Pepa. G./ Etheria Magazine")
+![Puente colgante en Irlanda del Norte](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-irlanda-norte-puente.jpg "Puente de Carrick-a-Rede. © Pepa. G./ Etheria Magazine")
 
 ### 8\. Escapada a Londres
 
@@ -153,7 +153,7 @@ Londres](https://etheriamagazine.com/2018/09/13/visitas-imprescindibles-fin-de-s
 ? [Escapada para dos a Londres: 8 planes fuera de lo 
 común](https://etheriamagazine.com/2020/01/09/planes-romanticos-hotel-para-parejas-londres/). 
 
-![Cabina y taxi de Londres](etheria-images/2020/12/viajes-reino-unido-Londres-taxi-y-cabina.jpg "Las célebres cabinas londinenses y sus también conocidos taxis en los que casi se puede entrar de pie.")
+![Cabina y taxi de Londres](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-Londres-taxi-y-cabina.jpg "Las célebres cabinas londinenses y sus también conocidos taxis en los que casi se puede entrar de pie.")
 
 ## También te puede interesar:
 

@@ -1,7 +1,7 @@
 ---
 title: "Viaje con niños a Terceira: aventura entre las flores"
 date: 2018-06-20
-coverImage: etheria-images/2018/05/Terceira-Senderismo-BAIAS-DA-AGUALVA-3.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Terceira-Senderismo-BAIAS-DA-AGUALVA-3.jpg
 categories: 
   - viaje-en-familia
 authors: 
@@ -13,7 +13,7 @@ naturaleza y posibilidades de aventura para todas las edades, todo en medio de u
 increíble paisaje de hortensias naturales que crecen por todas partes y decoran caminos 
 y carreteras. 
 
-![Viaje a Azores con niños](etheria-images/2021/01/viajar-ninos-europa-terceira-900x600.jpg "Avistamiento de cetáceos en Terceira. © SG")
+![Viaje a Azores con niños](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-terceira-900x600.jpg "Avistamiento de cetáceos en Terceira. © SG")
 
 Terceira, situada en el archipiélago portugués de las Azores, es una isla perfecta para 
 un viaje con niños. En este artículo os proponemos unas actividades que no pueden faltar 
@@ -25,7 +25,7 @@ los tiempos de desplazamientos en coche. La mejor opción es alojarse en un hote
 capital y hacer excursiones. Es una isla segura, amable y todavía no ha sido invadida 
 por el turismo ¿qué más se puede pedir? 
 
-![Angra do Heroismo](etheria-images/2018/05/Terceira-ANGRA-DO-HEROISMO-1024x683.jpg "Angra do Heroismo, capital de Terceira. © SG")
+![Angra do Heroismo](https://fotos.etheriamagazine.com/2018/05/Terceira-ANGRA-DO-HEROISMO-1024x683.jpg "Angra do Heroismo, capital de Terceira. © SG")
 
 ## Ruta en kayak desde Angra do Heroismo
 
@@ -41,7 +41,7 @@ El **Monte do Brasil** y la **fortaleza de Sao Joao Baptista** también merecen 
 visita. Es un lugar con unas vistas increíbles de la ciudad y con muchas zonas de juego 
 para los niños donde pasar una tarde agradable. 
 
-![piscinas naturales en Terceira](etheria-images/2018/05/TERCEIRA-PISCINAS-NATURALES-BISCOITOS-e1573899702158.jpg "Piscinas naturales de Biscoitos.")
+![piscinas naturales en Terceira](https://fotos.etheriamagazine.com/2018/05/TERCEIRA-PISCINAS-NATURALES-BISCOITOS-e1573899702158.jpg "Piscinas naturales de Biscoitos.")
 
 ## Piscinas de Biscoitos, ideales para niños
 
@@ -52,7 +52,7 @@ disfrutar del mar y, también, para descansar en una zona habilitada especialmen
 ello. Las piscinas están catalogadas con banderas que indican la seguridad del baño y 
 existen varias con bandera verde perfectas para los niños. 
 
-![Grutas en Terceira](etheria-images/2018/05/Terceira-ALGAR-DO-CARVAO-2-1024x683.jpg "Algar do Carvão. © SG")
+![Grutas en Terceira](https://fotos.etheriamagazine.com/2018/05/Terceira-ALGAR-DO-CARVAO-2-1024x683.jpg "Algar do Carvão. © SG")
 
 ## Viaje al centro de la Tierra: Algar do Carvão, Gruta do Natal y Furnas do Enxofre
 
@@ -65,7 +65,7 @@ fenómenos geológicos de la isla, merece la pena caminar por la pasarela que ro
 **Furnas do Enxofre**, entre las fumarolas que, todavía activas, despiden gases y vapor 
 a la atmósfera. 
 
-![senderismo con niños en Terceira](etheria-images/2021/01/viajar-ninos-terceira-Senderismo-BAIAS-DA-ALGUALVA-2-1024x683-1-900x600.jpg "Ruta de senderismo de Baías da Agualva. © SG")
+![senderismo con niños en Terceira](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-terceira-Senderismo-BAIAS-DA-ALGUALVA-2-1024x683-1-900x600.jpg "Ruta de senderismo de Baías da Agualva. © SG")
 
 ## Senderismo en Baías da Agualva
 
@@ -77,7 +77,7 @@ que contrastan con los acantilados de esta zona, donde el mar bate furioso contr
 rocas. Esta ruta lleva sólo 2 horas (4 kilómetros) y es muy fácil para realizar con los 
 niños. 
 
-![avistamiento de delfines en Terceira](etheria-images/2018/05/TERCEIRA-AVISTAMIENTO-CETACEOS-5-1024x768.jpg "Delfín en la costa de Terceira. © SG")
+![avistamiento de delfines en Terceira](https://fotos.etheriamagazine.com/2018/05/TERCEIRA-AVISTAMIENTO-CETACEOS-5-1024x768.jpg "Delfín en la costa de Terceira. © SG")
 
 ## Avistamiento de cetáceos e Ilheus das Cabras
 
@@ -92,7 +92,7 @@ rápidas) y es recomendable llevar alguna pastilla antimareo. En el paseo se pue
 **Ilheus das Cabras**, un curioso islote protegido frente a la costa de Angra do 
 Heroismo. 
 
-![excursiones en Terceira](etheria-images/2018/05/TERCEIRA-RUTA-EN-QUAD-SANTA-BARBARA-Y-MISTERIOS-NEGROS-2-1024x768.jpg "Ruta en quad en la sierra de Santa Bárbara. © SG")
+![excursiones en Terceira](https://fotos.etheriamagazine.com/2018/05/TERCEIRA-RUTA-EN-QUAD-SANTA-BARBARA-Y-MISTERIOS-NEGROS-2-1024x768.jpg "Ruta en quad en la sierra de Santa Bárbara. © SG")
 
 ## En quad por la sierra de Santa Bárbara y Misterios Negros
 
@@ -122,7 +122,7 @@ helados (www.quintadosacores.com); **O Caneta**, en Altares, cerca de las piscin
 naturales de Biscoitos (www.restaurantecaneta.com); o en el **restaurante Os Moinhos**, 
 rica cocina tradicional (www.restauranteosmoinhos.pai.pt). 
 
-![Senderismo con niños en Terceira](etheria-images/2018/06/TERCEIRA-SENDERISMO-BAÍAS-DA-AGUALVA-4-900x600.jpg "Paisaje en la ruta de Baías da Agualva. © SG")
+![Senderismo con niños en Terceira](https://fotos.etheriamagazine.com/2018/06/TERCEIRA-SENDERISMO-BAÍAS-DA-AGUALVA-4-900x600.jpg "Paisaje en la ruta de Baías da Agualva. © SG")
 
 En Azores hay mucha tradición ganadera y les encantan las _**touradas a corda**_, un 
 tipo de encierro popular en el que se suelta a los toros por los pueblos sujetos a unas 

@@ -1,7 +1,7 @@
 ---
 title: "Cómo organizar un viaje a Nueva Zelanda en autocaravana"
 date: 2018-08-21
-coverImage: etheria-images/2018/08/viaje-nueva-zelanda-caravana-Hobbiton.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/08/viaje-nueva-zelanda-caravana-Hobbiton.jpg
 categories: 
   - viajes-con-amigas
   - consejos-practicos
@@ -17,7 +17,7 @@ silencio profundo y sentir una desconexión infinita… Nueva Zelanda es, sin du
 los destinos que se deben visitar al menos una vez en la vida y hacerlo en autocaravana 
 es un plan perfecto. 
 
-![Monte Cook, Nueva Zelanda.](etheria-images/2018/08/viaje-caravana-nueva-zelanda-Mount-Cook.jpg "Monte Cook, Nueva Zelanda. ©CRB")
+![Monte Cook, Nueva Zelanda.](https://fotos.etheriamagazine.com/2018/08/viaje-caravana-nueva-zelanda-Mount-Cook.jpg "Monte Cook, Nueva Zelanda. ©CRB")
 
 Ya sea por su lejanía o por el desconocimiento que tenemos de Nueva Zelanda, organizar 
 un viaje en el que encontrarnos nada más y nada menos que en las antípodas puede imponer 
@@ -32,7 +32,7 @@ resumir mis básicos para viajar a Nueva Zelanda. Recorrer este país de Norte a
 Sur a Norte– en _roulotte_ es la manera más eficaz y cómoda de descubrir todo lo que 
 tiene para ofrecernos. 
 
-![autocaravana en nueva zelanda](etheria-images/2018/08/autocaravana-viaje-nueva-zelanda.jpg "Descubrir el mundo en autocaravana proporciona una gran sensación de libertad.")
+![autocaravana en nueva zelanda](https://fotos.etheriamagazine.com/2018/08/autocaravana-viaje-nueva-zelanda.jpg "Descubrir el mundo en autocaravana proporciona una gran sensación de libertad.")
 
 Las alternativas de alquiler de vehículos y autocaravanas son tan variadas como fáciles 
 de realizar vía online, sin duda la opción más cómoda para llegar al destino y no tener 
@@ -73,7 +73,7 @@ podéis acampar en _campings_ o _campgrounds_ gratuitos (también indicados en l
 anteriores aplicaciones), o en cualquier espacio seguro en el que no esté expresamente 
 prohibido pasar la noche. 
 
-![Cathedral Cove, Nueva Zelanda.](etheria-images/2018/08/autocaravana-playa-catedral-cove-viaje.jpg "Cathedral Cove, Nueva Zelanda.")
+![Cathedral Cove, Nueva Zelanda.](https://fotos.etheriamagazine.com/2018/08/autocaravana-playa-catedral-cove-viaje.jpg "Cathedral Cove, Nueva Zelanda.")
 
 ## Qué ver en Nueva Zelanda
 
@@ -100,7 +100,7 @@ vale más que mil palabras. Sus formaciones rocosas nos descubren tras una inmen
 necesario realizar una caminata a lo largo de un acantilado, pero la recompensa merece 
 con creces la pena. 
 
-![casa del Hobbiton  en nueva zelanda](etheria-images/2018/08/viaje-nueva-zelanda-caravana-Hobbiton.jpg "Hobbiton, Nueva Zelanda. ©CRB")
+![casa del Hobbiton  en nueva zelanda](https://fotos.etheriamagazine.com/2018/08/viaje-nueva-zelanda-caravana-Hobbiton.jpg "Hobbiton, Nueva Zelanda. ©CRB")
 
 ### Hobbiton
 
@@ -125,7 +125,7 @@ cataratas que desprenden más de 220.000 litros de agua por segundo generando un
 espectáculo digno de admirar durante varios minutos ya que hipnotiza, y llega hasta la 
 bahía de Mine. 
 
-![Orakei Korako, Nueva Zelanda.](etheria-images/2018/08/viaje-caravana-nueva-zelanda-Orakei-Korako-II.jpg "Orakei Korako, Nueva Zelanda. ©CRB")
+![Orakei Korako, Nueva Zelanda.](https://fotos.etheriamagazine.com/2018/08/viaje-caravana-nueva-zelanda-Orakei-Korako-II.jpg "Orakei Korako, Nueva Zelanda. ©CRB")
 
 ### Parque Nacional Abel Tasman
 
@@ -151,7 +151,7 @@ alguna que se ajuste a vuestros gustos. Desde una caminata por el **Ben Lomond T
 para alcanzar el pico más alto de la zona (con una impresionante panorámica 360º), hasta 
 esquí, paracaidismo, navegación, _jumping_, excursiones a caballo y carreras de _cars_. 
 
-![milford sound nueva zelanda](etheria-images/2018/08/viaje-caravana-nueva-zelanda-Milford-Sound.jpg "Milford Sound, Nueva Zelanda. ©CRB")
+![milford sound nueva zelanda](https://fotos.etheriamagazine.com/2018/08/viaje-caravana-nueva-zelanda-Milford-Sound.jpg "Milford Sound, Nueva Zelanda. ©CRB")
 
 ### Milford Sound
 
@@ -169,7 +169,7 @@ nada como apuntarse a una de las **excursiones en barco** que permiten ver de ce
 más de 15 kilómetros mar adentro de fiordo entre escarpados acantilados que superan los 
 1.200 metros y cascadas interminables. 
 
-![lago tekapo nueva zelanda](etheria-images/2018/08/lake-tekapo-51736_1280.jpg "Lago Tekapo, Nueva Zelanda.")
+![lago tekapo nueva zelanda](https://fotos.etheriamagazine.com/2018/08/lake-tekapo-51736_1280.jpg "Lago Tekapo, Nueva Zelanda.")
 
 ### Lagos Pukaki  y Tekapo
 
@@ -183,7 +183,7 @@ alta de Nueva Zelanda, situada en el **Parque Nacional de Aoraki,** pertenecient
 de las reservas de cielo oscuro más alucinantes del mundo. Las noches en este enclave 
 son realmente mágicas. 
 
-![Parque Nacional de Aoraki, Nueva Zelanda.](etheria-images/2018/08/nueva-zelanda-viaje-autocaravana-Aoraki.jpg "Parque Nacional de Aoraki, Nueva Zelanda. ©CRB")
+![Parque Nacional de Aoraki, Nueva Zelanda.](https://fotos.etheriamagazine.com/2018/08/nueva-zelanda-viaje-autocaravana-Aoraki.jpg "Parque Nacional de Aoraki, Nueva Zelanda. ©CRB")
 
 ### Kaikoura
 
@@ -211,7 +211,7 @@ Para viajar a Nueva Zelanda desde España **no es necesario solicitar visado**. 
 imprescindible llevar el pasaporte en vigor (con al menos 6 meses de validez) y el 
 **carnet de conducir internacional** para poder alquilar cualquier vehículo. 
 
-![Kaikoura.](etheria-images/2018/08/nueva-zelanda-kaikoura.jpg "Kaikoura. © Helen Stegney")
+![Kaikoura.](https://fotos.etheriamagazine.com/2018/08/nueva-zelanda-kaikoura.jpg "Kaikoura. © Helen Stegney")
 
 ### ¿Cómo escoger vuestra autocaravana?
 

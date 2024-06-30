@@ -1,7 +1,7 @@
 ---
 title: "Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer ‘alfa’"
 date: 2022-01-12
-coverImage: etheria-images/2022/01/hotel-intercontinental-hilton-gardner.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/01/hotel-intercontinental-hilton-gardner.jpg
 categories: 
   - viajes-con-amigas
   - mujeres-que-inspiran
@@ -12,7 +12,7 @@ authors:
 
 No sólo existe una Ruta de Ava Gardner en Madrid sino que es un itinerario turístico por 12 lugares clave que te acercan a la personalidad de esta glamurosa actriz. Recorrer sus restaurantes, tablaos, coctelerías y hoteles favoritos es un plan con amigas en Madrid que no se puede rechazar.
 
-![hotel intercontinental madrid](etheria-images/2022/01/Hotel-Intercontinental-madrid.jpg "Hotel Intercontinental (anterior Hilton). © Pedro Grifol.")
+![hotel intercontinental madrid](https://fotos.etheriamagazine.com/2022/01/Hotel-Intercontinental-madrid.jpg "Hotel Intercontinental (anterior Hilton). © Pedro Grifol.")
 
 Ava Gardner llegó a España en 1950. Vino para rodar la película 'Pandora y el holandés 
 errante' en el pueblo gerundense de [Tossa de 
@@ -27,7 +27,7 @@ un romance con el torero Mario Cabré ¡el primer torero que Ava toreaba! Así, 
 modo de _paparazzi_, tuvo más trabajo, porque las **andanzas de la actriz por la Costa 
 Brava** empezaban a ser escandalosas para aquella puritana época franquista. 
 
-![fotografo fabregas ava gardner](etheria-images/2022/01/ava-gardner-tossa-mar.jpg "El fotógrafo Manel Fàbregas en 2011, ante su foto de Ava Gardner. © Pedro Grifol")
+![fotografo fabregas ava gardner](https://fotos.etheriamagazine.com/2022/01/ava-gardner-tossa-mar.jpg "El fotógrafo Manel Fàbregas en 2011, ante su foto de Ava Gardner. © Pedro Grifol")
 
 La atracción de la temperamental estrella americana por las costumbres españolas fue 
 inmediata y quedó constatada cuando en 1953 volvió a pasar unos días en Madrid, esta vez 
@@ -53,7 +53,7 @@ toros, el flamenco, el whisky barato, las noches de juerga y también amores...
 ?Sigue leyendo para conocer los lugares que más frecuentaba y anímate a hacer la 
 auténtica **Ruta de Ava Gardner en Madrid**. 
 
-![museo chicote ruta ava gardner en madrid](etheria-images/2022/01/museo-chico-ava-gardner.jpg "Museo Chicote. © Pedro Grifol")
+![museo chicote ruta ava gardner en madrid](https://fotos.etheriamagazine.com/2022/01/museo-chico-ava-gardner.jpg "Museo Chicote. © Pedro Grifol")
 
 ## Cócteles, flamenco y churros
 
@@ -70,7 +70,7 @@ Hunter). El músico Agustín Lara –que tiene una estatua en Lavapiés– rindi
 bar en [su canción _Madrid_](https://www.youtube.com/watch?v=6cpxYUhRRK8), cuando canta: 
 “en Chicote un agasajo postinero con la crema de la intelectualidad”. 
 
-![Ava Gardner y Perico Chicote](etheria-images/2022/01/ava-gardner-chicote.jpg "Ava Gardner y Perico Chicote. © Museo Chicote")
+![Ava Gardner y Perico Chicote](https://fotos.etheriamagazine.com/2022/01/ava-gardner-chicote.jpg "Ava Gardner y Perico Chicote. © Museo Chicote")
 
 > Luis Buñuel bautizó a la coctelería Chicote como "la Capilla Sixtina de los martinis". 
 
@@ -82,7 +82,7 @@ Covid y ha cerrado definitivamente. Todavía podemos ver su extraordinaria facha
 azulejos pintados a mano donde se representan los monumentos de las principales ciudades 
 andaluzas. 
 
-![tablao villa rosa ava gardner](etheria-images/2022/01/tablao-villa-rosa.jpg "Tablao Flamenco Villa Rosa. © Pedro Grifol")
+![tablao villa rosa ava gardner](https://fotos.etheriamagazine.com/2022/01/tablao-villa-rosa.jpg "Tablao Flamenco Villa Rosa. © Pedro Grifol")
 
 ### Corral de la Morería
 
@@ -95,7 +95,7 @@ la historia del flamenco en Madrid, como la presentación del disco ‘_Entre do
 de Paco de Lucía. En los años en los que Ava recalaba por allí, podían estar sentados a 
 su vera Rudolf Nurèyev, el Sha de Persia, o Dalí (con un pan en la cabeza). 
 
-![chocolateria san gines ava gardner](etheria-images/2022/01/chocolateria-san-gines.jpg "Chocolatería San Ginés. © Pedro Grifol")
+![chocolateria san gines ava gardner](https://fotos.etheriamagazine.com/2022/01/chocolateria-san-gines.jpg "Chocolatería San Ginés. © Pedro Grifol")
 
 ### Chocolatería San Ginés
 
@@ -107,7 +107,7 @@ tiempo de confinamiento para adquirir los locales adyacentes y ampliar el negoci
 socorrido lugar donde acaba la noche… entre chocolate con churros, rímel corrido y 
 palabras chapurreadas en cualquier idioma… o ni eso ¡solo besos! 
 
-![pasteleria la mallorquina madrid](etheria-images/2022/01/la-mallorquina-madrid.jpg "Pastelería La Mallorquina. © Pedro Grifol")
+![pasteleria la mallorquina madrid](https://fotos.etheriamagazine.com/2022/01/la-mallorquina-madrid.jpg "Pastelería La Mallorquina. © Pedro Grifol")
 
 ## Tapas, cocido y pasteles
 
@@ -134,7 +134,7 @@ Cuentan los empleados jubilados ¡que todavía los hay! que nunca olvidarán el 
 ritmo de los tacones de la reina de la noche de Madrid. Ava salía impecable, aunque 
 nunca se sabía si volvería, ni cómo. 
 
-![restaurante lhardy ava gardner](etheria-images/2022/01/lhardy-madrid.jpg "Interior y exterior de Lhardy. © P. Grifol")
+![restaurante lhardy ava gardner](https://fotos.etheriamagazine.com/2022/01/lhardy-madrid.jpg "Interior y exterior de Lhardy. © P. Grifol")
 
 ### Lhardy
 
@@ -146,7 +146,7 @@ Gayarre y el Tamberlick. En el espejo de Lhardy, Ava se esfumaba en la eternidad
 
 > “Lhardy pone corbata blanca a los bollos de tahona”. (Benito Pérez Galdós) 
 
-![cafe comercial madrid](etheria-images/2022/01/cafe-comercial-madrid.jpg "Café Comercial de Madrid, paso obligado en la Ruta de Ava Gardner en Madrid. © Pedro Grifol")
+![cafe comercial madrid](https://fotos.etheriamagazine.com/2022/01/cafe-comercial-madrid.jpg "Café Comercial de Madrid, paso obligado en la Ruta de Ava Gardner en Madrid. © Pedro Grifol")
 
 ### El Café Comercial
 
@@ -175,7 +175,7 @@ _chow_!, porque se me ha caído un pendiente de oro. Ustedes me lo vais a devolv
 mi trabajo me ha _costao_”. Y allí Ava Gardner se enamoró de un palmero gitano, que se 
 llevó a… 
 
-![el rastro ruta de ava gardner en madrid](etheria-images/2022/01/el-rastro-madrid.jpg "El Rastro. © Pedro Grifol")
+![el rastro ruta de ava gardner en madrid](https://fotos.etheriamagazine.com/2022/01/el-rastro-madrid.jpg "El Rastro. © Pedro Grifol")
 
 ### Tienda de Loewe
 
@@ -194,7 +194,7 @@ Ava necesitara usar de esos instrumentos profilácticos, porque tenía otros med
 que probó los paseos dominicales mañaneros por el El Rastro, se convirtió en **una 
 asidua mirona y preguntona** de todo tipo de cachivaches. 
 
-![plaza las ventas ruta ava gardner en madrid](etheria-images/2022/01/plaza-toros-las-ventas-gardner.jpg "Plaza de toros de Las Ventas. © Pedro Grifol")
+![plaza las ventas ruta ava gardner en madrid](https://fotos.etheriamagazine.com/2022/01/plaza-toros-las-ventas-gardner.jpg "Plaza de toros de Las Ventas. © Pedro Grifol")
 
 Ava buscaba emociones constantemente, y encontró en la plaza de toros de **Las Ventas** 
 (Alcalá, 237) un lugar donde su corazón se aceleraba con aquella rara tragedia 
@@ -208,7 +208,7 @@ recursos. Había duende entre ellos.
 > Miguel Dominguín se levantó raudo de la cama, Ava le preguntó: “¿A dónde vas?”. La 
 > respuesta fue: “¡A contarlo!”. 
 
-![ava gardner y luis miguel dominguin](etheria-images/2022/01/dominguin-Ava-Gardner.jpg "Recorte de una noticia de Ava Gardner y Luis Miguel Dominguín.")
+![ava gardner y luis miguel dominguin](https://fotos.etheriamagazine.com/2022/01/dominguin-Ava-Gardner.jpg "Recorte de una noticia de Ava Gardner y Luis Miguel Dominguín.")
 
 Años más tarde, cuando la pasión se disipó, él la seguiría recordando como “la más guapa 
 y la más fiera”. Hacia mitad de los años sesenta, su luminaria comenzó a apagarse, y un 
@@ -223,7 +223,7 @@ de la capital](http://www.esmadrid.com) y que está disponible en los principale
 turísticos de la ciudad. [Descárgatelo gratis en 
 pdf](https://www.esmadrid.com/sites/default/files/elmadriddeava.pdf). 
 
-![ruta ava gardner en Madrid](etheria-images/2022/01/Mapa-ruta-ava-gardner-madrid.jpg "Mapa 'El Madrid de Ava'. © Turismo de Madrid")
+![ruta ava gardner en Madrid](https://fotos.etheriamagazine.com/2022/01/Mapa-ruta-ava-gardner-madrid.jpg "Mapa 'El Madrid de Ava'. © Turismo de Madrid")
 
 ### Etheria Magazine recomienda...
 
@@ -237,7 +237,7 @@ tres libros y tres películas:
 ? Películas: **Pandora y el holandés errante** (Albert Lewin, 1951) **Mogambo** (John 
 Ford, 1953) **55 días en Pekín** (Nicholas Ray, 1963) 
 
-![carteles de peliculas de ava gardner](etheria-images/2022/01/carteles-ava-gardner.jpg "Carteles de películas de Ava Gardner.")
+![carteles de peliculas de ava gardner](https://fotos.etheriamagazine.com/2022/01/carteles-ava-gardner.jpg "Carteles de películas de Ava Gardner.")
 
 ### También te puede interesar
 

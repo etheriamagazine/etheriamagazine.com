@@ -1,7 +1,7 @@
 ---
 title: "10 experiencias alucinantes en el Lejano Oeste americano"
 date: 2019-07-18
-coverImage: etheria-images/2019/06/3-viaje-california-Artist-Palette-e1562144658794.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/3-viaje-california-Artist-Palette-e1562144658794.jpg
 categories: 
   - de-un-vistazo
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ costa este. Hoy, el sueño que alcanzó la costa pacífica, se ha convertido en 
 más poblado de los Estados Unidos. Como aquellos pioneros sentirás el entusiasmo por el 
 Lejano Oeste cuando veas estos parajes californianos. 
 
-![Mirador en Death Valley](etheria-images/2019/06/1-viaje-california-death-valley-e1562143815966.jpg "Death Valley o valle de la Muerte.")
+![Mirador en Death Valley](https://fotos.etheriamagazine.com/2019/06/1-viaje-california-death-valley-e1562143815966.jpg "Death Valley o valle de la Muerte.")
 
 ## 1\. Pisa el lugar más seco del planeta
 
@@ -30,7 +30,7 @@ el lugar más bajo de América. Como dato curioso, cuando la alcances estarás a
 por debajo del nivel del mar. Una parada imprescindible en una ruta por el oeste 
 americano. 
 
-![Las Dunas de Mesquite en el Oeste americano](etheria-images/2019/06/2-viaje-california-dunas-mesquite-e1562144430370.jpg "Dunas Mesquite.")
+![Las Dunas de Mesquite en el Oeste americano](https://fotos.etheriamagazine.com/2019/06/2-viaje-california-dunas-mesquite-e1562144430370.jpg "Dunas Mesquite.")
 
 ## 2\. Nada entre las dunas del desierto de Mojave
 
@@ -43,7 +43,7 @@ mar de arena en el corazón del **desierto del Mojave**. Hazlo en sus momentos m
 espectaculares, con las primeras o últimas luces del día, estarás pisando una de las 
 localizaciones más hermosas donde se rodó la película _Star Wars._ 
 
-![Rocas de colores en Artist’s Palette y Zabriskie Point.](etheria-images/2019/06/3-viaje-california-Artist-Palette-e1562144658794.jpg "Artist’s Palette y Zabriskie Point.")
+![Rocas de colores en Artist’s Palette y Zabriskie Point.](https://fotos.etheriamagazine.com/2019/06/3-viaje-california-Artist-Palette-e1562144658794.jpg "Artist’s Palette y Zabriskie Point.")
 
 ## 3\. Siéntate al borde del arcoíris
 
@@ -55,7 +55,7 @@ años. No menos llamativo es el lugar denominado **Artist’s Palette**. Un pare
 de rojo, amarillo, rosa, verde o púrpura por la oxidación de los minerales, que se van 
 encendiendo a medida que cae la tarde al pie de las Montañas Negras. 
 
-![Atardecer en Alabama Hills.](etheria-images/2019/06/4-viaje-california-alabama-hill-peliculas-oeste-e1562144477460.jpg "Alabama Hills.")
+![Atardecer en Alabama Hills.](https://fotos.etheriamagazine.com/2019/06/4-viaje-california-alabama-hill-peliculas-oeste-e1562144477460.jpg "Alabama Hills.")
 
 ## 4\. Protagoniza una película del Oeste
 
@@ -72,7 +72,7 @@ en el Museo de la Historia de las películas del Western. Visitas guiadas por ac
 charlas, tours y más de un centenar de placas instaladas en los lugares de filmación 
 harán que te cueles en la película. 
 
-![Una mujer en Golden Canyon en el oeste americano](etheria-images/2019/06/5-viaje-california-golden-canyon-e1562144497542.jpg "Golden Canyon.")
+![Una mujer en Golden Canyon en el oeste americano](https://fotos.etheriamagazine.com/2019/06/5-viaje-california-golden-canyon-e1562144497542.jpg "Golden Canyon.")
 
 ## 5\. Piensa como una pionera
 
@@ -85,7 +85,7 @@ el que aproximarte a extraordinarias formaciones rocosas como olas de piedra. Di
 varias rutas y supone una auténtica aventura a través de las _badlands_ que te hará 
 sentir como una pionera. 
 
-![Árbol antiguo en Bristlecone pine.](etheria-images/2019/06/6-viaje-california-bristlecone-pine-e1562144517238.jpg "Bristlecone pine.")
+![Árbol antiguo en Bristlecone pine.](https://fotos.etheriamagazine.com/2019/06/6-viaje-california-bristlecone-pine-e1562144517238.jpg "Bristlecone pine.")
 
 ## 6\. Conoce al rey del country de la costa Oeste
 
@@ -99,7 +99,7 @@ sus hojas son capaces de permanecer hasta cuarenta años sobre sus ramas. Tendr�
 caminar para encontrarlos pero cuando lo hagas, te emocionarás porque estás ante los 
 seres vivos más viejos del planeta. 
 
-![Formaciones rocosas en Mono Lake](etheria-images/2019/06/7-viaje-california-Mono-Lake-2-e1562144546976.jpg "Mono Lake.")
+![Formaciones rocosas en Mono Lake](https://fotos.etheriamagazine.com/2019/06/7-viaje-california-Mono-Lake-2-e1562144546976.jpg "Mono Lake.")
 
 ## 7\. Asómate al lugar más salado californiano
 
@@ -115,7 +115,7 @@ lago y sus columnas de toba calcárea producidas por la circulación de agua dul
 los minerales. Es el mejor momento para contemplar la belleza de tan original masa de 
 agua en su plenitud bajo un inabarcable cielo estrellado. 
 
-![Rocas en Monte Whitney.](etheria-images/2019/06/8-viaje-california-monte-whitney-e1562144561935.jpg "Monte Whitney.")
+![Rocas en Monte Whitney.](https://fotos.etheriamagazine.com/2019/06/8-viaje-california-monte-whitney-e1562144561935.jpg "Monte Whitney.")
 
 ## 8\. Admira lo más alto de Estados Unidos
 
@@ -128,7 +128,7 @@ kilómetros de la ciudad es el punto de partida de un zigzagueante sendero de mo
 13 kilómetros. Tómate tu tiempo porque salvarás un desnivel de 1.900 metros y solicita 
 tu permiso montañero con antelación para alcanzar el techo de los Estados Unidos. 
 
-![Petroglifos del valle Owens.](etheria-images/2019/06/9-viaje-california-petroglifos-valle-owens-e1562144582633.jpg "Petroglifos del valle Owens.")
+![Petroglifos del valle Owens.](https://fotos.etheriamagazine.com/2019/06/9-viaje-california-petroglifos-valle-owens-e1562144582633.jpg "Petroglifos del valle Owens.")
 
 ## 9\. Llega hasta el inicio de la historia
 
@@ -143,7 +143,7 @@ trazados curvilíneos de conceptos chamánicos. Utiliza tu imaginación, no toqu
 petroglifos por su extrema fragilidad y mira donde pisas, porque estás en territorio de 
 serpientes de cascabel. 
 
-![Personas caminando por Cañón Red Rock.](etheria-images/2019/06/10-viaje-california-las-vegas-canon-red-rock-e1562144607185.jpg "Cañón Red Rock.")
+![Personas caminando por Cañón Red Rock.](https://fotos.etheriamagazine.com/2019/06/10-viaje-california-las-vegas-canon-red-rock-e1562144607185.jpg "Cañón Red Rock.")
 
 ## 10\. Sé intrépida por el desierto
 

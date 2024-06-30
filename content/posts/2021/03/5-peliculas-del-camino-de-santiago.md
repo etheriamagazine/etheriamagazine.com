@@ -1,7 +1,7 @@
 ---
 title: "Cinco películas del Camino de Santiago que no puedes perderte en este Año Jubilar"
 date: 2021-03-04
-coverImage: etheria-images/2021/02/camino-santiago-fotograma-Buen-camino-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/02/camino-santiago-fotograma-Buen-camino-1.jpg
 categories: 
   - viajes-cine
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 La Ruta Jacobea es una experiencia única, un viaje al interior de uno mismo que ha servido de plató cinematográfico para dramas, comedias y hasta historias de terror. Tanto si quieres hacer el Camino de Santiago en 2021 como si prefieres dejarlo para otro momento, te va a interesar ver alguna de estas cinco películas.
 
-![peliculas camino de santiago buen camino](etheria-images/2021/02/camino-santiago-pelicula-Buen-camino-cartel.jpg "© Cartel y fotogramas de 'Buen Camino'.")
+![peliculas camino de santiago buen camino](https://fotos.etheriamagazine.com/2021/02/camino-santiago-pelicula-Buen-camino-cartel.jpg "© Cartel y fotogramas de 'Buen Camino'.")
 
 La magia de este viaje rumbo a Santiago de Compostela atrapa. Tanto por los lugares 
 llenos de historia y belleza por los que transcurre, como por todas las experiencias 
@@ -31,7 +31,7 @@ interpelar al público, para motivarlo a reflexionar sobre el viaje de su propia
 si se da el caso, animarlo a tomar una mochila, un par de botas y llegar por sí mismo a 
 Santiago. 
 
-![cartel pelicula o apostolo de santiago](etheria-images/2021/02/camino-santiago-O-apostolo-691x1024.jpg "Cartel de la película 'O Apóstolo'.")
+![cartel pelicula o apostolo de santiago](https://fotos.etheriamagazine.com/2021/02/camino-santiago-O-apostolo-691x1024.jpg "Cartel de la película 'O Apóstolo'.")
 
 ## O Apóstolo, 2012
 
@@ -46,7 +46,7 @@ es que es la primera **producción de stop-motion** con plastilina hecha en Espa
 Sorprendentes las figuras animadas a las que ponen voces y fisonomía actores como: Luis 
 Tosar, **Geraldine Chaplin**, Manuel Manquiña, Jorge Sanz y Paul Naschy. 
 
-![camino de santiago the way](etheria-images/2021/02/camino-santiago-the-way-cartel.jpg "'The Way', una película que se desarrolla en el Camino de Santiago.")
+![camino de santiago the way](https://fotos.etheriamagazine.com/2021/02/camino-santiago-the-way-cartel.jpg "'The Way', una película que se desarrolla en el Camino de Santiago.")
 
 ## The Way (2010)
 
@@ -74,7 +74,7 @@ Santiago de Compostela, el protagonista realiza una parada más en compañía de
 las personas que había conocido en este viaje. Concretamente va a [Muxía](https://etheriamagazine.com/2019/03/06/camino-de-finisterre-fairway/), 
 donde tira las cenizas de su hijo al mar. 
 
-![al final del camino peliculas camino santiago](etheria-images/2021/02/camino-santiago-Al-final-del-camino.jpg "'Al final del camino', una rocambolesca comedia en el Camino de Santiago.")
+![al final del camino peliculas camino santiago](https://fotos.etheriamagazine.com/2021/02/camino-santiago-Al-final-del-camino.jpg "'Al final del camino', una rocambolesca comedia en el Camino de Santiago.")
 
 ## Al final del Camino (2009)
 
@@ -87,7 +87,7 @@ de Santiago. Durante los seis días que dura su viaje desde Piedrafita do Cebrei
 Santiago de Compostela les vemos envueltos en todo tipo de situaciones absurdas, 
 divertidas y llenas de optimismo. 
 
-![peregrinos peliculas camino santiago](etheria-images/2021/02/peliculas-camino-santiago-Peregrinos-cartel.jpg "'Peregrinos', una comedia de Coline Serreau. © D.R.")
+![peregrinos peliculas camino santiago](https://fotos.etheriamagazine.com/2021/02/peliculas-camino-santiago-Peregrinos-cartel.jpg "'Peregrinos', una comedia de Coline Serreau. © D.R.")
 
 ## Peregrinos (2005)
 
@@ -111,7 +111,7 @@ Si te has quedado con ganas de más, puedes seguir recorriendo el Camino de Sant
 la última serie estrenada sobre esta ruta de peregrinación. Su nombre es _3 caminos_ y 
 contribuirá a que te enamores –si todavía no lo has hecho– de la Ruta Jacobea. 
 
-![cartel oficial de tres caminos](etheria-images/2021/02/3-Caminos-Poster-oficial.jpg "Cartel oficial de 'Tres caminos'.")
+![cartel oficial de tres caminos](https://fotos.etheriamagazine.com/2021/02/3-Caminos-Poster-oficial.jpg "Cartel oficial de 'Tres caminos'.")
 
 ### También te puede interesar...
 

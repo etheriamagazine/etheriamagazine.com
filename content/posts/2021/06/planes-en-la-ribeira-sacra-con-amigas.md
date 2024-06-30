@@ -1,7 +1,7 @@
 ---
 title: "Planes divertidos en la Ribeira Sacra para descubrir sus secretos"
 date: 2021-06-17
-coverImage: etheria-images/2021/06/que-hacer-en-ribeira-sacra.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/que-hacer-en-ribeira-sacra.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
@@ -16,7 +16,7 @@ caballo entre las provincias de Lugo y Ourense. Si quieres conocer todos sus sec
 sólo necesitas seguir al pie de la letra las instrucciones de estos "8 planes en la 
 Ribeira Sacra". 
 
-![viticultura en ribeira sacra](etheria-images/2021/06/que-hacer-en-ribeira-sacra.jpg "Viticultura heroica en Ribeira Sacra. © Cynthia Martín")
+![viticultura en ribeira sacra](https://fotos.etheriamagazine.com/2021/06/que-hacer-en-ribeira-sacra.jpg "Viticultura heroica en Ribeira Sacra. © Cynthia Martín")
 
 **Actualizado 12/2023** 
 
@@ -41,7 +41,7 @@ más del 5% del total del suelo gallego destinado a la producción de vino. Subd
 cinco zonas de cultivo –Chantada, Ribeira do Miño, Amandi, Ribeira do Sil y Quiroga 
 Bibei– son muchas las bodegas que descubrir, y el enoturismo su principal atractivo. 
 
-![ribeira sacra Trekking Adegas Ponte da Boga](etheria-images/2021/06/ribeira-sacra-Trekking-en-Adegas-Ponte-da-Boga.jpg "Trekking en Adegas Ponte da Boga. © Cynthia Martín")
+![ribeira sacra Trekking Adegas Ponte da Boga](https://fotos.etheriamagazine.com/2021/06/ribeira-sacra-Trekking-en-Adegas-Ponte-da-Boga.jpg "Trekking en Adegas Ponte da Boga. © Cynthia Martín")
 
 ### Experiencia en Adegas Ponte da Boga
 
@@ -59,7 +59,7 @@ zona, los _Bosques Máxicos_ de Castro Caldelas.
 > broche final una visita a la bodega y una cata comentada de tres de los vinos más 
 > significativos de Ponte da Boga. 30 € por persona. 
 
-![Subida a Castro Caldelas ribeira sacra](etheria-images/2021/06/ribeira-sacra-Subida-a-Castro-Caldelas.jpg "Paisaje en la subida a Castro Caldelas. © Cynthia M.")
+![Subida a Castro Caldelas ribeira sacra](https://fotos.etheriamagazine.com/2021/06/ribeira-sacra-Subida-a-Castro-Caldelas.jpg "Paisaje en la subida a Castro Caldelas. © Cynthia M.")
 
 ## Subir hasta el castillo de Castro Caldelas
 
@@ -77,7 +77,7 @@ residencia del conde Pedro Fernández de Castro. Abierto al público, destaca el
 estado de conservación de la torre del Reloj, la torre del Homenaje y el patio de Armas. 
 Por supuesto, el mirador de toda la comarca es un plus único en la zona. 
 
-![iglesia de santa maria pesqueiras ribeira sacra](etheria-images/2021/06/ribeira-sacra-iglesia-de-Santa-Maria-de-Pesqueiras.jpg "Iglesia de Santa María de Pesqueiras. © Cynthia M.")
+![iglesia de santa maria pesqueiras ribeira sacra](https://fotos.etheriamagazine.com/2021/06/ribeira-sacra-iglesia-de-Santa-Maria-de-Pesqueiras.jpg "Iglesia de Santa María de Pesqueiras. © Cynthia M.")
 
 ## Descubrir su románico
 
@@ -97,7 +97,7 @@ cerradas al público. Un acuerdo con el Arzobispado permite a grupos reducidos d
 tesoros como la iglesia de Santa María de Pesqueiras, cuyo cerrado interior cuenta con 
 varias pinturas murales datadas del siglo XVI. 
 
-![catamaran por el sil en ribeira sacra](etheria-images/2021/06/ribeira-sacra-catamaran-Sil.jpg "Paseo en catamarán por el Sil. © Cynthia M.")
+![catamaran por el sil en ribeira sacra](https://fotos.etheriamagazine.com/2021/06/ribeira-sacra-catamaran-Sil.jpg "Paseo en catamarán por el Sil. © Cynthia M.")
 
 ## Adentrarse en los cañones del Sil
 
@@ -116,7 +116,7 @@ actividad más cotizada en la Ribeira Sacra. Desde los embarcaderos de Santo Est
 (Monforte de Lemos) y Os Chancís (Sober) diferentes compañías ofrecen paseos en barco de 
 unas dos horas de duración. 
 
-![zodiac por la ribeira sacra](etheria-images/2021/06/ribeira-sacra-Paseo-en-zodiac.jpg "Paseo en zodiac por la Ribeira Sacra. © Cynthia M.")
+![zodiac por la ribeira sacra](https://fotos.etheriamagazine.com/2021/06/ribeira-sacra-Paseo-en-zodiac.jpg "Paseo en zodiac por la Ribeira Sacra. © Cynthia M.")
 
 ## Un paseo en zodiac con cascada incluida
 
@@ -145,7 +145,7 @@ durante medio siglo conquistó a los paladares gallegos. Además, por supuesto, 
 una tienda donde es posible llevarse una tableta de chocolate creada con la receta 
 original que hizo célebre tan querido producto. 
 
-![Pazo de Sober ribeira sacra](etheria-images/2021/06/ribeira-sacra-Pazo-de-Sober.jpg "Pazo de Sober. © Cynthia M.")
+![Pazo de Sober ribeira sacra](https://fotos.etheriamagazine.com/2021/06/ribeira-sacra-Pazo-de-Sober.jpg "Pazo de Sober. © Cynthia M.")
 
 ## Dormir en un pazo
 
@@ -166,7 +166,7 @@ traviesas de madera y despertar entre mobiliario de época y unos ventanales pan
 > Lemos –la capital de Ribeira Sacra– y a 40 kilómetros de Ourense. Cuenta con restaurante 
 > y spa. 
 
-![vista en globo ribeira sacra](etheria-images/2021/06/ribeira-sacra-en-globo.jpg "Panorámica de la Ribeira Sacra. © Cynthia M.")
+![vista en globo ribeira sacra](https://fotos.etheriamagazine.com/2021/06/ribeira-sacra-en-globo.jpg "Panorámica de la Ribeira Sacra. © Cynthia M.")
 
 ## Admirar la Ribeira Sacra desde un globo
 

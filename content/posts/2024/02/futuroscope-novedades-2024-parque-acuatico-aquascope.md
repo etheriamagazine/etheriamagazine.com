@@ -1,7 +1,7 @@
 ---
 title: "Futuroscope en 2024: un parque acuático y otras novedades"
 date: 2024-02-26
-coverImage: etheria-images/2024/02/Futuroscope-Aquascope-toboganes.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/02/Futuroscope-Aquascope-toboganes.jpg
 categories: 
   - parques-ocio
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ diferencia: Aquascope, un parque acuático que combina las atracciones de agua c
 tecnología. Si ya tenías suficientes razones para hacer una escapada a este original 
 parque de ocio, este verano no vas a poder resistirte. 
 
-![Imagen que refleja cómo será la zona de toboganes en Aquascope.](etheria-images/2024/02/Futuroscope-Aquascope-toboganes.jpg "Imagen que refleja cómo será la zona de toboganes en Aquascope.")
+![Imagen que refleja cómo será la zona de toboganes en Aquascope.](https://fotos.etheriamagazine.com/2024/02/Futuroscope-Aquascope-toboganes.jpg "Imagen que refleja cómo será la zona de toboganes en Aquascope.")
 
 El parque francés de Futuroscope no cesa en su apuesta de ofrecer cada temporada nuevas 
 atracciones que lo hagan aún más atractivo, un espacio que ya de por sí tiene muchos 
@@ -40,7 +40,7 @@ videomapping y efectos de luz. Gira en torno a las aventuras de Lucas, un joven 
 la informática que ha desarrollado un potente asistente virtual llamado Éclipse, y su 
 robot. 
 
-![Espectáculo Éclipse en Futuroscope](etheria-images/2024/02/Futuroscope-espectaculo-Eclipse.jpg "Espectáculo Éclipse.")
+![Espectáculo Éclipse en Futuroscope](https://fotos.etheriamagazine.com/2024/02/Futuroscope-espectaculo-Eclipse.jpg "Espectáculo Éclipse.")
 
 ### Antarctica
 
@@ -64,7 +64,7 @@ La Ciudad de los Niños, repleta de atracciones para los más pequeños, añade 
 nuevas experiencias: **El río de los leñadores**, un recorrido acuático para los más 
 pequeños; e **Hydrodynamo**, un columpio gigante de 12 metros de altura. 
 
-![El río de los leñadores, nueva atracción en Futuropolis.](etheria-images/2024/02/futuroscope-futoropolis-barcas.jpg "El río de los leñadores, nueva atracción en Futuropolis.")
+![El río de los leñadores, nueva atracción en Futuropolis.](https://fotos.etheriamagazine.com/2024/02/futuroscope-futoropolis-barcas.jpg "El río de los leñadores, nueva atracción en Futuropolis.")
 
 ## Aquascope
 
@@ -87,7 +87,7 @@ submarina. • **Aqualúdica**. Esta será la zona infantil (a partir de 3 años
 temática girará en torno a la mascota del parque, el pulpo Kraki. Desde aquí parte un 
 río sobre el que flotar y relajarse que recorrerá las tres zonas del parque. 
 
-![render de la zona Inmersion de Futuroscope](etheria-images/2024/02/Futuroscope-Aquascope-immersion.jpg "Así será la zona Inmersión del parque Aquascope.")
+![render de la zona Inmersion de Futuroscope](https://fotos.etheriamagazine.com/2024/02/Futuroscope-Aquascope-immersion.jpg "Así será la zona Inmersión del parque Aquascope.")
 
 ## Guía práctica de Futuroscope
 
@@ -112,7 +112,7 @@ su cercanía son el **hotel Futuroscope** (con una pasarela de acceso directo al
 el **hotel Station Cosmos** y el **Hotel Ecolodgee** (estos dos últimos junto a la 
 entrada principal del parque). 
 
-![Habitaciones del hotel Ecolodgee en Futuroscope](etheria-images/2024/02/Futuroscope-hotel-ECOLODGEE.jpg "Habitaciones del hotel Ecolodgee.")
+![Habitaciones del hotel Ecolodgee en Futuroscope](https://fotos.etheriamagazine.com/2024/02/Futuroscope-hotel-ECOLODGEE.jpg "Habitaciones del hotel Ecolodgee.")
 
 ### ¿Dónde comer en Futuroscope?
 

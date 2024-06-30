@@ -1,7 +1,7 @@
 ---
 title: "10 planes en Nueva York que te emocionarán si viajas en 2021"
 date: 2021-05-10
-coverImage: etheria-images/2021/05/jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Tanto si has viajado antes a la Gran Manzana como si es la primera vez, te interesa consultar estos diez nuevos planes en Nueva York. Entre las novedades de esta metrópoli para 2021 encontrarás itinerarios de cine, miradores, paseos en barco, hoteles acogedores, exposiciones inmersivas, restaurantes de estreno y... VACUNAS (anti-Covid), que ofrecen gratuitamente al turista.
 
-![parque puente brooklyn](etheria-images/2021/05/parque-puente-Brooklyn.jpg "Vistas del parque del Puente de Brooklyn. © Julienne Schaer NYC & Company")
+![parque puente brooklyn](https://fotos.etheriamagazine.com/2021/05/parque-puente-Brooklyn.jpg "Vistas del parque del Puente de Brooklyn. © Julienne Schaer NYC & Company")
 
 ## 1\. Rutas de cine: Friends y la Señora Maisel
 
@@ -26,7 +26,7 @@ que ofrece un interesante recorrido que sigue los pasos de la protagonista. ¿Te
 un tour privado por el Nueva York de los años 50 a bordo de un Studebaker Commander de 
 1957? 
 
-![kusama jardin botanico planes en nueva york](etheria-images/2021/05/jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg "Escultura de Kusama en el Jardín Botánico de Nueva York. © Robert Benson")
+![kusama jardin botanico planes en nueva york](https://fotos.etheriamagazine.com/2021/05/jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg "Escultura de Kusama en el Jardín Botánico de Nueva York. © Robert Benson")
 
 ## 2\. Arte en el Jardín Botánico de El Bronx
 
@@ -38,7 +38,7 @@ Cosmic Nature**, que incluye dos impresionantes esculturas al aire libre (_Danci
 pumpkin_ y _I want to fly to the universe_), además de sus curiosas _Infinity Mirror 
 Rooms_ y bonitas esculturas florales. 
 
-![vistas desde mirador summit one vanderbilt](etheria-images/2021/05/SUMMIT-One-Vanderbilt.jpg "Así serán las vistas desde el mirador SUMMIT, situado en One Vanderbilt. © Summit")
+![vistas desde mirador summit one vanderbilt](https://fotos.etheriamagazine.com/2021/05/SUMMIT-One-Vanderbilt.jpg "Así serán las vistas desde el mirador SUMMIT, situado en One Vanderbilt. © Summit")
 
 ## 3\. Vistas de infarto
 
@@ -51,7 +51,7 @@ York](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york
 encontrarás otras propuestas ya inauguradas, como el sorprendente **The Edge**, en 
 Hudson Yards. 
 
-![ferry classic harbor line planes en nueva york](etheria-images/2021/05/Ferry-nueva-york-Classic-Harbor-Line.jpg "Paseo en barco en el Classic Harbor Line. © Victor Llorente")
+![ferry classic harbor line planes en nueva york](https://fotos.etheriamagazine.com/2021/05/Ferry-nueva-york-Classic-Harbor-Line.jpg "Paseo en barco en el Classic Harbor Line. © Victor Llorente")
 
 ## 4\. Cena en un barco
 
@@ -67,7 +67,7 @@ Statue Cruises. En City Experiences by Hornblower encontrarás interesantes expe
 como el **crucero nocturno con cena** incluida (150 dólares) o un **crucero con góspel 
 en vivo** (69,90 dólares). 
 
-![compras tienda montblanc en madison avenue](etheria-images/2021/05/nueva-york-tienda-Montblanc.jpg "Así será la nueva tienda de Montblanc, en Madison Avenue.")
+![compras tienda montblanc en madison avenue](https://fotos.etheriamagazine.com/2021/05/nueva-york-tienda-Montblanc.jpg "Así será la nueva tienda de Montblanc, en Madison Avenue.")
 
 ## 5\. Nuevas tiendas en Nueva York
 
@@ -84,7 +84,7 @@ se inaugura su primera tienda oficial, Harry Potter Nueva York, en el distrito F
 Allí encontrarás la mayor selección del mundo de productos de _Harry Potter y Animales 
 Fantásticos_, además de 15 áreas temáticas, exposiciones interactivas y fotografías. 
 
-![restaurantes planes en nueva york](etheria-images/2021/05/nuevo-restaurante-nueva-york-683x1024.jpg "En Nueva York puedes encontrar todo tipo de gastronomía. © Mgg Vitchakorn")
+![restaurantes planes en nueva york](https://fotos.etheriamagazine.com/2021/05/nuevo-restaurante-nueva-york-683x1024.jpg "En Nueva York puedes encontrar todo tipo de gastronomía. © Mgg Vitchakorn")
 
 ## 6\. Disfruta en la mesa
 
@@ -99,7 +99,7 @@ Kahlo](https://etheriamagazine.com/2021/02/15/biografia-y-ruta-frida-kahlo-mexic
 Abrirá en el South Harlem en agosto, pero ya tenemos curiosidad por conocer la receta 
 inspirada en estas dos icónicas mujeres. 
 
-![cena rogers garden nueva york](etheria-images/2021/05/Outdoor-Dining-Rogers-Garden.jpg "Cena al aire libre en la zona de shopping Rogers Garden. © Vincent Tullo")
+![cena rogers garden nueva york](https://fotos.etheriamagazine.com/2021/05/Outdoor-Dining-Rogers-Garden.jpg "Cena al aire libre en la zona de shopping Rogers Garden. © Vincent Tullo")
 
 Si prefieres comida india, otra nueva referencia es el **restaurante Sona**, un bonito 
 espacio con decoración años 30 cuyo pollo biriyani y su remolacha asada ya tienen fama. 
@@ -110,7 +110,7 @@ baja de One Vanderbilt, que incluso tiene un jardín y olivos en su interior.
 No olvidamos tampoco mencionar al **chef español José Andrés**, cuyo restaurante, 
 **Zaytinya**, abrirá en otoño en el nuevo Ritz-Carlton New York, en el distrito NoMad. 
 
-![montana rusa coney island](etheria-images/2021/05/Coney-Island-Phoenix-Rollercoaster.jpg "Montaña rusa de Coney Island.")
+![montana rusa coney island](https://fotos.etheriamagazine.com/2021/05/Coney-Island-Phoenix-Rollercoaster.jpg "Montaña rusa de Coney Island.")
 
 ## 7\. Sube a la montaña rusa de Coney Island
 
@@ -120,7 +120,7 @@ situada en Coney Island. Tiene más de 20 metros de altura, y alcanzará una vel
 54 kilómetros por hora. No sabemos si te dará tiempo a brindar, en su frenético 
 recorrido, por el centenario de la noria vecina (Wonder Wheel de Deno). 
 
-![exposicion van gogh nueva york](etheria-images/2021/05/exposicion-inmersiva-van-gogh.jpg "© www.vangoghnyc.com")
+![exposicion van gogh nueva york](https://fotos.etheriamagazine.com/2021/05/exposicion-inmersiva-van-gogh.jpg "© www.vangoghnyc.com")
 
 ## 8\. Pasea en una obra de Van Gogh o Cézanne
 
@@ -131,7 +131,7 @@ desde el 6 de junio hasta el 25 de septiembre de 2021. Otra opción es introduci
 arte de Van Gogh a través de dos experiencias: Inmersiva Van Gogh Exhibit New York, y 
 Van Gogh: The Inmersive Experience, en el Skylight on Vesey, en el Bajo Manhattan. 
 
-![museo minerales y gemas nueva york](etheria-images/2021/05/museo-Mignone-Halls-of-Gems-and-Minerals.jpg "Gemas y minerales Mignone. © D Finnin/ AMNH")
+![museo minerales y gemas nueva york](https://fotos.etheriamagazine.com/2021/05/museo-Mignone-Halls-of-Gems-and-Minerals.jpg "Gemas y minerales Mignone. © D Finnin/ AMNH")
 
 ## 9\. Admira minerales de todo el mundo
 
@@ -141,7 +141,7 @@ Allison y Roberto Mignone que se mostrarán en el Museo Americano de Historia Na
 partir de junio). Las salas contarán con casi 5.000 piezas procedentes de 95 países, 
 incluidas dos geodas de amatista que están entre las más grandes del mundo. 
 
-![hotel margarita nueva york times square](etheria-images/2021/05/hotel-margarita-Times-Square.jpg "Hotel MGV Times Square. © Mc Bride")
+![hotel margarita nueva york times square](https://fotos.etheriamagazine.com/2021/05/hotel-margarita-Times-Square.jpg "Hotel MGV Times Square. © Mc Bride")
 
 ## 10\. Estrena un hotel en Nueva York
 
@@ -153,7 +153,7 @@ opciones podrían ser el Pendry Manhattan West, en Hudson Yards, con 164 habitac
 30 suites; y el Graduate Roosevelt Island, en el campus de la isla de Roosevelt y con 
 vistas a Manhattan y Queens. 
 
-![Hotel The Pendry Manhattan dormir nueva york](etheria-images/2021/05/Hotel-The-Pendry-Manhattan.jpg "© Hotel The Pendry Manhattan.")
+![Hotel The Pendry Manhattan dormir nueva york](https://fotos.etheriamagazine.com/2021/05/Hotel-The-Pendry-Manhattan.jpg "© Hotel The Pendry Manhattan.")
 
 ### También te puede interesar...
 

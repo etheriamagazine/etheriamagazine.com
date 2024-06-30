@@ -1,7 +1,7 @@
 ---
 title: "Highlands o Tierras Altas de Escocia, una guía básica para recorrerlas por libre"
 date: 2020-09-10
-coverImage: etheria-images/2020/12/castillo-kilchurn-escocia.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/castillo-kilchurn-escocia.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -13,7 +13,7 @@ romanticismo de sus paisajes salvajes. En las Highlands escocesas descubrirás e
 tres días paisajes mágicos, melancólicos, cargados de leyendas e, incluso, el tren de 
 Harry Potter. Te contamos cómo organizar una ruta circular con salida desde Edimburgo. 
 
-![Viaducto de Glenfinnan, en Fort William (Escocia).](etheria-images/2020/09/viaducto-Glenfinnan-Fort-William-escocia.jpg "Viaducto de Glenfinnan, en Fort William (Escocia). © Connor Mollison")
+![Viaducto de Glenfinnan, en Fort William (Escocia).](https://fotos.etheriamagazine.com/2020/09/viaducto-Glenfinnan-Fort-William-escocia.jpg "Viaducto de Glenfinnan, en Fort William (Escocia). © Connor Mollison")
 
 Páramos cubiertos de brezo y musgo, castillos en ruinas soportando siglos de leyendas, 
 batallas y fantasmas, lagos escondidos bajo hilos de brumas y austeros pueblecitos con 
@@ -21,7 +21,7 @@ aromas a whisky. Descubre en la siguiente ruta de tres días por las Tierras Alt
 Escocia uno de los paisajes más salvajes y sobrecogedores de Europa. La escapada idónea 
 para viajeras románticas y sensibles a la belleza sin artificios. 
 
-![jovenes vestidos con kilt y ropa tradicional escocesa](etheria-images/2020/09/cultura-escocesa-higlands.jpg "Los Juegos de las Highlands son una buena oportunidad para conocer la cultura escocesa. © Visit Scotland")
+![jovenes vestidos con kilt y ropa tradicional escocesa](https://fotos.etheriamagazine.com/2020/09/cultura-escocesa-higlands.jpg "Los Juegos de las Highlands son una buena oportunidad para conocer la cultura escocesa. © Visit Scotland")
 
 ## Organiza tu ruta de 3 días por las Highlands de Escocia
 
@@ -33,7 +33,7 @@ novelas de la autora estadounidense Diana Gabaldon, seguro que conoces bien las
 rebeliones jacobitas del siglo XVIII cuya derrota puso en grave riesgo la cultura de las 
 Tierras Altas. 
 
-![centro historico de edimburgo](etheria-images/2020/09/viaje-mujeres-edimburgo-escocia.jpg "Centro histórico de Edimburgo (Escocia).")
+![centro historico de edimburgo](https://fotos.etheriamagazine.com/2020/09/viaje-mujeres-edimburgo-escocia.jpg "Centro histórico de Edimburgo (Escocia).")
 
 ## Día 1: Desde Edimburgo a Fort William
 
@@ -52,7 +52,7 @@ sobre la montaña Ben More. Es sin duda uno de los iconos del parque nacional, j
 tumba del célebre **héroe escocés Rob Roy**, situada en el pueblo de Balquhidder; el 
 lago Loch Lubnaig y las bonitas cascadas de Dochart, junto al pequeño pueblo de Killin. 
 
-![Loch Lomond una visita basica en las highlands](etheria-images/2020/09/loch-lomond-higlands-escocia.jpg "Parque Nacional de Loch Lomond. © Robert Keane")
+![Loch Lomond una visita basica en las highlands](https://fotos.etheriamagazine.com/2020/09/loch-lomond-higlands-escocia.jpg "Parque Nacional de Loch Lomond. © Robert Keane")
 
 ### Rannoch Moor, un paisaje de ciénagas
 
@@ -71,7 +71,7 @@ puede seguir los senderos que se internan por este hermoso y salvaje paisaje. Si
 sobra el tiempo, entonces habrá que conformarse con la panorámica que se tiene desde la 
 misma A82, sobre todo entre las localidades de **Bridge of Orchy** y **Glencoe**. 
 
-![Rannoch Moor en escocia](etheria-images/2020/09/rannoch-moor-glencoe-escocia.jpg "Rannoch Moor, desde Glencoe (Escocia). © Stewart M.")
+![Rannoch Moor en escocia](https://fotos.etheriamagazine.com/2020/09/rannoch-moor-glencoe-escocia.jpg "Rannoch Moor, desde Glencoe (Escocia). © Stewart M.")
 
 ## Día 2: desde Fort William a Inverness
 
@@ -82,7 +82,7 @@ al **lago Loch Linnhe**, el más largo de Escocia. La ciudad es conocida como la
 pueden practicar ciclismo de montaña, pesca, golf, kayak, barranquismo, escalada y 
 senderismo. 
 
-![castillo de stalker en mitad del lago linnhe de escocia](etheria-images/2020/09/castillo-stalker-lago-linnhe.jpg "Castillo de Stalker, en el interior del lago Linnhe. © Visit Britain")
+![castillo de stalker en mitad del lago linnhe de escocia](https://fotos.etheriamagazine.com/2020/09/castillo-stalker-lago-linnhe.jpg "Castillo de Stalker, en el interior del lago Linnhe. © Visit Britain")
 
 ### Ben Nevis, un reto para deportistas 
 
@@ -95,7 +95,7 @@ de Ben Nevis se necesita tiempo y estar en forma, así que si sólo os apetece u
 agradable y sencillo con premio final, os recomendamos que optéis por seguir el bonito 
 sendero de **Steall Falls**, que conduce a las cascadas del mismo nombre. 
 
-![el tren de Harry Potter a su paso por las higlands escocesas](etheria-images/2020/09/tren-harry-potter-escocia.jpg "Hogwarts Express, el tren de Harry Potter, a su paso por el viaducto de Glenfinnan. © Bryan Walker")
+![el tren de Harry Potter a su paso por las higlands escocesas](https://fotos.etheriamagazine.com/2020/09/tren-harry-potter-escocia.jpg "Hogwarts Express, el tren de Harry Potter, a su paso por el viaducto de Glenfinnan. © Bryan Walker")
 
 ### Viaducto de Glenfinnan y tren de Harry Potter
 
@@ -108,7 +108,7 @@ el que discurren **los trenes de la línea West Highland** y, de abril a octubre
 locomotora de vapor Jacobite que **para los fans de Harry Potter siempre será ya el 
 Hogwarts Express**. 
 
-![barbacoa divertida en loch ness](etheria-images/2020/09/lago-ness-Inverness.jpg "Barbacoa en el lago Ness, una actividad divertida para hacer con amigos. © Visit Britain")
+![barbacoa divertida en loch ness](https://fotos.etheriamagazine.com/2020/09/lago-ness-Inverness.jpg "Barbacoa en el lago Ness, una actividad divertida para hacer con amigos. © Visit Britain")
 
 ### Fort Augustus y el Lago Ness
 
@@ -120,7 +120,7 @@ situación proporciona una excelente panorámica sobre el mítico Lago Ness, las
 circundantes y el valle. Desde esta privilegiada atalaya, seguramente pensarás que poca 
 leyenda necesita la región para maravillar a los viajeros. 
 
-![Bonito castillo escoces en el lago ness](etheria-images/2020/09/castillo-Urquhart-lago-Ness.jpg "Castillo de Urquhart en el lago Ness. © Robin Canfield")
+![Bonito castillo escoces en el lago ness](https://fotos.etheriamagazine.com/2020/09/castillo-Urquhart-lago-Ness.jpg "Castillo de Urquhart en el lago Ness. © Robin Canfield")
 
 ## Día 3: desde Inverness a Edimburgo
 
@@ -133,7 +133,7 @@ circular de unos 800 kilómetros** que recorre el hermoso litoral de Tierras Alt
 no, toca poner rumbo hacia Edimburgo, virando al sur en dirección al Parque Nacional de 
 Cairngorms, el más extenso de Gran Bretaña. 
 
-![Inverness ciudad de las highlands de escocia](etheria-images/2020/09/inverness-escocia.jpg "Ciudad de Inverness. © Robin Canfield")
+![Inverness ciudad de las highlands de escocia](https://fotos.etheriamagazine.com/2020/09/inverness-escocia.jpg "Ciudad de Inverness. © Robin Canfield")
 
 ### Parque Nacional de Cairngorms
 
@@ -145,7 +145,7 @@ de nieve. La A9 atraviesa el Parque Nacional de Cairngorms por su vertiente occi
 pasando a apenas 8 kilómetros de Loch an Eilein, un hermosísimo lago escondido en el 
 espeso bosque Rothiemurchus. 
 
-![el castillo de Blair en las tierras altas de escocia](etheria-images/2020/09/castillo-blair-escocia.jpg "Castillo de Blair, cerca de Pitlochry, en Escocia. © V2F")
+![el castillo de Blair en las tierras altas de escocia](https://fotos.etheriamagazine.com/2020/09/castillo-blair-escocia.jpg "Castillo de Blair, cerca de Pitlochry, en Escocia. © V2F")
 
 ### Fin de ruta por las Tierras Altas: Castillo de Blair, destilerías
 

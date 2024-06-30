@@ -1,7 +1,7 @@
 ---
 title: "Viajes con amigas por España: el mejor plan posible"
 date: 2021-09-01
-coverImage: etheria-images/2021/08/puerto-gigantes-tenerife.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/08/puerto-gigantes-tenerife.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
@@ -13,7 +13,7 @@ authors:
 
 No nos cansamos de repetir que los viajes con amigas deberían ser obligatorios más de una vez al año. Las confidencias y las risas continuas que se producen con tu núcleo duro de amigas durante un fin de semana fuera de casa cargan las pilas para muchos meses. Aquí te recordamos 10 de los destinos que más nos gustan para viajar con amigas para que vayáis poniendo fecha a vuestra próxima escapada.
 
-![Catedral de Palma de Mallorca](etheria-images/2021/08/mallorca-amigas-bicicleta.jpg "Recorrer Palma en bicicleta es un plan perfecto para hacer con amigas.")
+![Catedral de Palma de Mallorca](https://fotos.etheriamagazine.com/2021/08/mallorca-amigas-bicicleta.jpg "Recorrer Palma en bicicleta es un plan perfecto para hacer con amigas.")
 
 ## Palma
 
@@ -26,7 +26,7 @@ paseos en bici, helados y lugares de copas. Y planes tan originales como una rut
 quad y otra en moto de agua. Seguro que os lo pasáis tan bien que antes de volver ya 
 estáis planeando la siguiente visita. 
 
-![Puerto y acantilado de Los Gigantes en Tenerife.](etheria-images/2021/08/puerto-gigantes-tenerife.jpg "Puerto y acantilado de Los Gigantes en Tenerife. © Etheria Mag.")
+![Puerto y acantilado de Los Gigantes en Tenerife.](https://fotos.etheriamagazine.com/2021/08/puerto-gigantes-tenerife.jpg "Puerto y acantilado de Los Gigantes en Tenerife. © Etheria Mag.")
 
 ## Tenerife
 
@@ -39,7 +39,7 @@ os explicamos cómo organizar un viaje variado y activo para que no todo sea sol
 Rutas de senderismo, paseos en barco, estrellas en el Teide y pueblos con encanto. ¿Se 
 puede pedir más? 
 
-![Huerto de Calixto y Melibea en Salamanca](etheria-images/2021/08/salamanca-huerto-Calisto-y-Melibea.jpg "Huerto de Calixto y Melibea, un lugar ideal para ver el atardecer en Salamanca.")
+![Huerto de Calixto y Melibea en Salamanca](https://fotos.etheriamagazine.com/2021/08/salamanca-huerto-Calisto-y-Melibea.jpg "Huerto de Calixto y Melibea, un lugar ideal para ver el atardecer en Salamanca.")
 
 ## Salamanca
 
@@ -51,7 +51,7 @@ aunque ya la conozcáis. Restaurantes de moda, preciosos atardeceres, una ruta p
 seguir los pasos de Miguel de Unamuno y hasta una colección de muñecas de porcelana. ¿De 
 verdad que os lo vais a perder? 
 
-![Cala El Enebro (Conil de la Frontera).](etheria-images/2021/08/cala-enebro-playa-conil.jpg "Cala El Enebro (Conil de la Frontera). © Etheria M.")
+![Cala El Enebro (Conil de la Frontera).](https://fotos.etheriamagazine.com/2021/08/cala-enebro-playa-conil.jpg "Cala El Enebro (Conil de la Frontera). © Etheria M.")
 
 ## Conil de la Frontera
 
@@ -68,7 +68,7 @@ Baelo-Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romana
 en Bolonia o las playas de [El 
 Palmar](https://etheriamagazine.com/2021/07/26/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien/). 
 
-![Ruta en bicicleta en Getxo](etheria-images/2021/08/getxo-bici-electrica.jpg "En Getxo se puede reallizar una ruta circular en bici eléctrica.")
+![Ruta en bicicleta en Getxo](https://fotos.etheriamagazine.com/2021/08/getxo-bici-electrica.jpg "En Getxo se puede reallizar una ruta circular en bici eléctrica.")
 
 ## Getxo
 
@@ -81,7 +81,7 @@ es un artículo que incluye actividades con las que podréis exprimir al máximo
 escapada: desde clases de cocina y catas de cerveza hasta surf, yoga y paseos en barco. 
 Tendréis donde elegir para dar contenido a un fin de semana de diez. 
 
-![Catedral de Málaga](etheria-images/2021/08/Malaga-catedral-900x600.jpg "La catedral de Málaga, conocida como “La Manquita”.")
+![Catedral de Málaga](https://fotos.etheriamagazine.com/2021/08/Malaga-catedral-900x600.jpg "La catedral de Málaga, conocida como “La Manquita”.")
 
 ## Málaga
 
@@ -94,7 +94,7 @@ los museos Picasso, Carmen Thyssen y el Centro Pompidou. Combinada con unas hora
 relax en su _hamman_ y un paseo por La Malagueta. Uno de los viajes con amigas que no 
 puede faltar en vuestra lista. 
 
-![Benidorm](etheria-images/2021/08/benidorm-Castillo.jpg "Benidorm es un destino muy cómodo para una escapada con amigas. © T.B.")
+![Benidorm](https://fotos.etheriamagazine.com/2021/08/benidorm-Castillo.jpg "Benidorm es un destino muy cómodo para una escapada con amigas. © T.B.")
 
 ## Benidorm
 
@@ -106,7 +106,7 @@ cómo hacer de este viaje una escapada memorable. Porque en Benidorm también se
 hacer senderismo, visitar en barco la isla de Benidorm, conocer la Casa Museo Hort de 
 Colón (un museo etnológico de la ciudad) o recorrer el casco antiguo. 
 
-![Playa de los Charcos en Fuerteventura](etheria-images/2021/08/fuerteventura-Playa-Los-Charcos.jpg "Preciosa playa de los Charcos, una visita imprescindible con amigas. © Elena Ortega")
+![Playa de los Charcos en Fuerteventura](https://fotos.etheriamagazine.com/2021/08/fuerteventura-Playa-Los-Charcos.jpg "Preciosa playa de los Charcos, una visita imprescindible con amigas. © Elena Ortega")
 
 ## Fuerteventura
 
@@ -119,7 +119,7 @@ la isla os proponemos desde practicar deportes acuáticos hasta ir de compras al
 Artesanal los Lajares o recorrer la isla de Lobos en bicicleta. Tampoco os podéis perder 
 el pueblo de Betancuria, el más bonito de la isla y que fue su capital hasta 1834. 
 
-![Río Segura en Murcia.](etheria-images/2021/08/paseo-mota-del-rio-segura.jpg "Paseo ciclista por la mota del río Segura en Murcia. © Sergio González")
+![Río Segura en Murcia.](https://fotos.etheriamagazine.com/2021/08/paseo-mota-del-rio-segura.jpg "Paseo ciclista por la mota del río Segura en Murcia. © Sergio González")
 
 ## Murcia
 
@@ -132,7 +132,7 @@ perderos (el mercado gastronómico del edificio de Correos es parada obligada), 
 bici y lugares perfectos para inmortalizar esas fotos que quedarán para siempre en el 
 recuerdo, como los preciosos atardeceres en el Paseo del Malecón. 
 
-![Calle de Mogarraz](etheria-images/2021/08/mogarraz-paseo-ruta-sierra-francia-1-729x1024.jpg "Mogarraz forma parte de la Ruta del Vino de la Sierra de Francia. © Pepa G.")
+![Calle de Mogarraz](https://fotos.etheriamagazine.com/2021/08/mogarraz-paseo-ruta-sierra-francia-1-729x1024.jpg "Mogarraz forma parte de la Ruta del Vino de la Sierra de Francia. © Pepa G.")
 
 ## Sierra de Francia
 

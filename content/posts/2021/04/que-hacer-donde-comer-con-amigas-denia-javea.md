@@ -1,7 +1,7 @@
 ---
 title: "Planes en Dénia y Jávea para mujeres sibaritas"
 date: 2021-04-03
-coverImage: etheria-images/2019/08/lasiesta-01.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/08/lasiesta-01.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -13,7 +13,7 @@ authors:
 
 Que no nos engañen. No es necesario que sea verano para organizar una escapada con amigas a La Marina Alta. Te hemos preparado una guía muy especial para pasarlo bien con tus amigas o amigos más sibaritas. ¿Nos acompañas a disfrutar de los mejores planes en Dénia y Jávea?
 
-![cabo fontana  para viaje denia javea](etheria-images/2019/08/viaje-denia-javea-Cabo-de-la-fontana.jpg "Cabo de la Fontana. ©M.E.")
+![cabo fontana  para viaje denia javea](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-Cabo-de-la-fontana.jpg "Cabo de la Fontana. ©M.E.")
 
 ```
 Actualizado 4/2021
@@ -35,7 +35,7 @@ Rotes**. Por lo tanto, el disfrute está asegurado para cualquier tipo de viajer
 la que busca tumbarse y relajarse en la arena, a la que busca algo de aventura. Incluso 
 cuenta con una pequeña playa escondida, **La Cala**, donde practicar nudismo. 
 
-![les rotes  viaje a denia javea](etheria-images/2019/08/viaje-denia-javea-Les-Rotes.jpg "Les Rotes. © M.E.")
+![les rotes  viaje a denia javea](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-Les-Rotes.jpg "Les Rotes. © M.E.")
 
 ## Dónde comer bien en Dénia (y probar la gamba roja)
 
@@ -51,7 +51,7 @@ Pegolí.](https://es-es.facebook.com/El-Pegol%C3%AD-167686163309213/) A Pepe Pie
 fallecido, se le debe el haber puesto esa delicia y Dénia en el mapa gastronómico. 
 Arrancó siendo un chiringuito sobre el mar, hasta convertirse en un imprescindible. 
 
-![comida en restaurante tastam en denia](etheria-images/2019/08/viaje-denia-javea-Carbonara-Foto-Tasta.jpg "Carbonara de calamar de Tasta'm. © Tasta'm")
+![comida en restaurante tastam en denia](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-Carbonara-Foto-Tasta.jpg "Carbonara de calamar de Tasta'm. © Tasta'm")
 
 Pero Dénia no es solo gamba roja. La localidad cuenta con excelentes ejemplos que la 
 convierten en un paraíso gastronómico, donde la elección se hace difícil. Por ejemplo, [El 
@@ -67,7 +67,7 @@ Brases](http://peixibrases.com) y, por supuesto, el espacio gastronómico [Els
 Magazinos](https://elsmagazinos.com/), un mercado que acoge tanto puestos de cocina 
 autóctona, como viajera y propuestas culturales: música en vivo, exposiciones... 
 
-![els magazinos  viaje denia javea](etheria-images/2019/08/viaje-denia-javea-els-magazinos.jpg "Plato de (©) Els Magazinos.")
+![els magazinos  viaje denia javea](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-els-magazinos.jpg "Plato de (©) Els Magazinos.")
 
 ## Planes en Jávea
 
@@ -79,7 +79,7 @@ restaurantes de moda, tiendas, mercadillos hippies de artesanía y una de las pl
 concurridas del litoral valenciano. ¿Ventajas de que sea fuera de temporada? Que no 
 tendrás que darte codazos con tu vecino de arena. 
 
-![playa arenal para viaje denia javea](etheria-images/2019/08/El-arenal-Javea.jpg "Playa del Arenal, en Jávea. © M.E.")
+![playa arenal para viaje denia javea](https://fotos.etheriamagazine.com/2019/08/El-arenal-Javea.jpg "Playa del Arenal, en Jávea. © M.E.")
 
 A un lado de la pequeña bahía que se forma, está el icónico **Parador de Jávea**; al 
 otro, el Cabo de la Fontana, unas rocas desde las que lanzarse al mar y cerca de las que 
@@ -104,7 +104,7 @@ ingredientes de otras regiones o países”, según cuentan ellos mismos.
 El enclave perfecto para tomar una copa en una terraza con vistas al mar es [Achill](https://www.achilljavea.com/), 
 un espacio que funciona como _chill out_ y por las noches como discoteca. 
 
-![restaurante tula, viaje denia javea](etheria-images/2019/08/viaje-denia-javea-bar-tula.jpg "Restaurante Tula. © M.E.")
+![restaurante tula, viaje denia javea](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-bar-tula.jpg "Restaurante Tula. © M.E.")
 
 ## De chiringuitos en Jávea
 
@@ -118,7 +118,7 @@ boutique que dispone de cocina totalmente equipada en cada habitación. Además,
 espacio bistró & bakery sirve comidas y desayunos frente al mar, bajo la tendencia del 
 _slow food_. 
 
-![chiringuito la siesta para viaje denia javea](etheria-images/2019/08/lasiesta-01.jpg "© La Siesta.")
+![chiringuito la siesta para viaje denia javea](https://fotos.etheriamagazine.com/2019/08/lasiesta-01.jpg "© La Siesta.")
 
 ## Excursión a Gata de Gorgos
 
@@ -128,7 +128,7 @@ encanto? Si eliges Gata de Gorgos no te equivocarás. Su casco histórico bien m
 visita. Quizás habrás visto en redes sociales calles llenas de encanto y artesanía 
 tradicional, ya que este pueblo ha sabido hacer de lo artesano su mayor aliciente. 
 
-![artesania gata de gorgos](etheria-images/2019/08/viaje-amigas-Gata-de-gorgos.jpg "Artesanía en Gata de Gorgos. ©M.E.")
+![artesania gata de gorgos](https://fotos.etheriamagazine.com/2019/08/viaje-amigas-Gata-de-gorgos.jpg "Artesanía en Gata de Gorgos. ©M.E.")
 
 No es casualidad que alrededor de la calle principal la Plaza de España, se agolpen 
 turistas paseándose por sus tiendas, donde hacerse con las mejores piezas hechas a mano, 

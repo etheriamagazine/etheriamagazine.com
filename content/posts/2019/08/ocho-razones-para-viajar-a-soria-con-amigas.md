@@ -1,7 +1,7 @@
 ---
 title: "Ocho razones para visitar Soria con amigas este otoño"
 date: 2019-08-12
-coverImage: etheria-images/2021/02/laguna-negra-en-soria.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/02/laguna-negra-en-soria.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -15,7 +15,7 @@ Acabas de toparte con un anuncio sobre la vuelta al cole. Coleccionables, atasco
 estrés. Estamos en septiembre y —reconozcámoslo— ni tú ni tus amigas estáis preparadas 
 para afrontarlo. Una escapada a Soria con amigas bastará para sanaros. 
 
-![ruta soria con amigas](etheria-images/2019/07/viaje-soria-ruta-amigas.jpg "¿Te imaginabas Soria así de verde? ©KR")
+![ruta soria con amigas](https://fotos.etheriamagazine.com/2019/07/viaje-soria-ruta-amigas.jpg "¿Te imaginabas Soria así de verde? ©KR")
 
 Soria es más verde de lo que imaginas y tan evocadora que conquistó a Antonio Machado. Y 
 si aún no te ha conquistado, te damos ocho razones para una relajante fuga al lugar más 
@@ -34,7 +34,7 @@ millones de años se vierten sobre el **Pico Urbión y la Laguna Negra de Vinues
 gran iris esférico de aguas azabache rodeado por una pasarela que nos hace preguntarnos 
 ¿por qué la Laguna Negra es negra? 
 
-![laguna negra soria](etheria-images/2019/07/viaje-soria-laguna-negra.jpg "Laguna Negra.")
+![laguna negra soria](https://fotos.etheriamagazine.com/2019/07/viaje-soria-laguna-negra.jpg "Laguna Negra.")
 
 > El actual tono verdoso de la Laguna Negra responde al aumento de las temperaturas. 
 
@@ -45,12 +45,12 @@ Galiana** hacia el **cañón del Río Lobos**. El precipicio más fotogénico de
 cobijo a buitres leonados de la **cueva Grande y del Balconcillo** en un entorno natural 
 de vertiginosas laderas kársticas. 
 
-![canon rio lobos soria](etheria-images/2019/07/viaje-mujeres-soria-canon-rio-lobos.jpg "El cañón del Río Lobos desde el mirador de la Galiana. ©KR")
+![canon rio lobos soria](https://fotos.etheriamagazine.com/2019/07/viaje-mujeres-soria-canon-rio-lobos.jpg "El cañón del Río Lobos desde el mirador de la Galiana. ©KR")
 
 > Todo apunta a que la ermita de San Bartolomé —a la que solo es posible llegar a pie— 
 > pertenecía a la encomienda templaria de San Juan del Otero. 
 
-![ermita san bartolome soria con amigas](etheria-images/2019/07/viaje-soria-san-bartolome.jpg "Los misterios de la ermita de San Bartolomé. ©KR")
+![ermita san bartolome soria con amigas](https://fotos.etheriamagazine.com/2019/07/viaje-soria-san-bartolome.jpg "Los misterios de la ermita de San Bartolomé. ©KR")
 
 ## 2\. Castillos y templarios
 
@@ -64,14 +64,14 @@ por estos derroteros también transitaron los caballeros **templarios del castil
 Ucero**, erigido sobre un antiguo **castro celtíbero**. Visitar la cercana ciudad romana 
 de **Uxama Argaela**, en Burgo de Osma, nos retrotrae a aquel período. 
 
-![castillo burgo de osma](etheria-images/2019/07/viaje-mujeres-soria-castillos.jpg "Un gran castillo pilota la parte más alta de Burgo de Osma. ©KR")
+![castillo burgo de osma](https://fotos.etheriamagazine.com/2019/07/viaje-mujeres-soria-castillos.jpg "Un gran castillo pilota la parte más alta de Burgo de Osma. ©KR")
 
 Recorrer los **castillos de San Esteban de Gormaz**, **Burgo de Osma**, **Berlanga de 
 Duero**, **Almazán** y **Medinaceli** nos engulle en sus historias medievales de 
 misterio y sangre. Estas fortalezas son la mayor prueba de las afrentas sorianas que 
 hubo entre moros y cristianos durante la Reconquista. 
 
-![catedral burgo osma rio ucero](etheria-images/2019/07/viaje-mujeres-soria-burgo-osma.jpg "El río Ucero a su paso por la muralla y la catedral de Burgo de Osma. ©KR")
+![catedral burgo osma rio ucero](https://fotos.etheriamagazine.com/2019/07/viaje-mujeres-soria-burgo-osma.jpg "El río Ucero a su paso por la muralla y la catedral de Burgo de Osma. ©KR")
 
 ## 3\. Pueblos con encanto
 
@@ -83,7 +83,7 @@ ribera del río Duero por los mismos derroteros que el Cid Campeador. No te pier
 ermita mozárabe de **San Baudelio de Berlanga** ni la peculiar iglesia románica de la 
 Virgen del Rivero (siglo XII), en San Esteban de Gormaz. 
 
-![iglesia virgen rivero, san esteban de gormaz](etheria-images/2019/07/viaje-mujeres-soria-gormaz.jpg "Iglesia de la Virgen del Rivero (siglo XII), en San Esteban de Gormaz. ©KR")
+![iglesia virgen rivero, san esteban de gormaz](https://fotos.etheriamagazine.com/2019/07/viaje-mujeres-soria-gormaz.jpg "Iglesia de la Virgen del Rivero (siglo XII), en San Esteban de Gormaz. ©KR")
 
 ## 4\. La ciudad de los poetas
 
@@ -100,7 +100,7 @@ su obra.
 > Las rutas literarias ofrecen la posibilidad de conocer la ciudad desde el punto de vista 
 > más bohemio y romántico. 
 
-![ermita san saturio, viaje soria](etheria-images/2019/07/viaje-mujeres-soria-san-saturio.jpg "“Soria es una ciudad para poetas”, decía Antonio Machado junto a las escalinatas de la ermita de San Saturio.")
+![ermita san saturio, viaje soria](https://fotos.etheriamagazine.com/2019/07/viaje-mujeres-soria-san-saturio.jpg "“Soria es una ciudad para poetas”, decía Antonio Machado junto a las escalinatas de la ermita de San Saturio.")
 
 ## 5\. Ver gamusinos, ¡por fin!
 
@@ -111,7 +111,7 @@ Chocolate, dulce de leche, mantequilla fresca de Soria, ¿son los [gamusinos
 sorianos](https://productossorianos.es/producto/gamusinos/) aquellos 'gamusinos' que 
 imaginábamos? Ya lo comprobarás. 
 
-![calles san esteban gormaz, viaje soria](etheria-images/2019/07/viaje-soria-bar-barrer.jpg "Algunos rincones de San Esteban de Gormaz. ©KR")
+![calles san esteban gormaz, viaje soria](https://fotos.etheriamagazine.com/2019/07/viaje-soria-bar-barrer.jpg "Algunos rincones de San Esteban de Gormaz. ©KR")
 
 ## 6\. Conectar con el pasado
 
@@ -125,7 +125,7 @@ una señora a su vecina mientras barre una calle de San Esteban de Gormaz.
 > El Museo de la Trashumancia, en la pequeña localidad de Oncala, viene a recordarnos que 
 > no hace tanto tiempo que el pastoreo fue una actividad crucial en la provincia. 
 
-![torreznos soria, que comer en soria](etheria-images/2019/07/viaje-soria-comer-torreznos.jpg "Tres estrellas gastronómicas sorianas: virutas, chuletillas de cordero y torreznos. ©KR")
+![torreznos soria, que comer en soria](https://fotos.etheriamagazine.com/2019/07/viaje-soria-comer-torreznos.jpg "Tres estrellas gastronómicas sorianas: virutas, chuletillas de cordero y torreznos. ©KR")
 
 ## 7\. La 'torrezno-adicción’
 
@@ -142,7 +142,7 @@ lleva a probar los torreznos de [El Kiosko](https://www.elkioscodesoria.com), se
 en un formato de lo más coqueto. Se nos antojan para una velada romántica o de picos 
 pardos. Esta sería suficiente razón para realizar un viaje a Soria con amigas... 
 
-![balneario del hotel Castilla Termal Burgo de Osma.](etheria-images/2019/07/viaje-burgo-osma-castilla-termal.jpg "Date un capricho en el balneario del hotel Castilla Termal Burgo de Osma. ©Castillla Termal")
+![balneario del hotel Castilla Termal Burgo de Osma.](https://fotos.etheriamagazine.com/2019/07/viaje-burgo-osma-castilla-termal.jpg "Date un capricho en el balneario del hotel Castilla Termal Burgo de Osma. ©Castillla Termal")
 
 ## 8\. Dormir a pierna suelta
 

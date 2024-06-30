@@ -1,7 +1,7 @@
 ---
 title: "Trucos para preparar torrijas normales y bajas en calorías"
 date: 2021-03-17
-coverImage: etheria-images/2021/03/torrijas-azucar-canela.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/torrijas-azucar-canela.jpg
 categories: 
   - mejores-restaurantes-gastronomia
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ popular y delicioso es capaz de animar las fiestas incluso si no estás de vacac
 Aprovecha estos días para preparar este plato que tiene un nivel de dificultad apto para 
 las que nunca han frito un huevo. 
 
-![gastronomía Semana Santa](etheria-images/2021/03/torrijas-semana-santa.jpg "En Semana Santa no te puedes perder las torrijas.")
+![gastronomía Semana Santa](https://fotos.etheriamagazine.com/2021/03/torrijas-semana-santa.jpg "En Semana Santa no te puedes perder las torrijas.")
 
 Si sabes encender la vitro (o el gas), poner una sartén con aceite y cortar pan sabes 
 hacer torrijas. Es verdad que en la cocina existe algo llamado ‘toque’ que tiene que ver 
@@ -37,7 +37,7 @@ En España surge como un plato popular que además se consumía habitualmente en
 tabernas. En origen se solía empapar el pan en vino, porque su duración es mayor al 
 agriarse la leche con más facilidad. 
 
-![Torrijas tradicionales con azúcar y canela](etheria-images/2021/03/torrijas-azucar-canela.jpg "Antes las torrijas se preparaban para las mujeres que acababan de dar a luz. © Vanesa Conunaese")
+![Torrijas tradicionales con azúcar y canela](https://fotos.etheriamagazine.com/2021/03/torrijas-azucar-canela.jpg "Antes las torrijas se preparaban para las mujeres que acababan de dar a luz. © Vanesa Conunaese")
 
 Aunque ahora está totalmente relacionado este plato con la **Cuaresma y la Semana 
 Santa**, al principio estaba ligado a las mujeres que acababan de tener un hijo. Se 
@@ -51,7 +51,7 @@ Cuaresma, hizo que se convirtiera en un plato popular en estas fechas. Y hay que
 en cuenta que llenan bastante, así que con una buena torrija te olvidas un poco de la 
 falta de carne. 
 
-![platos para el desayuno](etheria-images/2021/03/torrijas-french-toast.jpg "La Tostada francesa es típica en los desayunos de todo el mundo.")
+![platos para el desayuno](https://fotos.etheriamagazine.com/2021/03/torrijas-french-toast.jpg "La Tostada francesa es típica en los desayunos de todo el mundo.")
 
 Hoy en día son un placer goloso. Uno de esos caprichos que te tienes que dar porque, al 
 fin y al cabo, solo hay una Semana Santa en el año y tampoco es para tanto. Y son 
@@ -66,7 +66,7 @@ una rama de canela, cáscara de limón, azúcar, canela en polvo, huevo y aceite
 virgen. El pan lo encontraras en casi todas las panaderías, pero seguro que ya tienes 
 alguna de referencia en tu ciudad. 
 
-![como preparar torrijas](etheria-images/2021/03/Barras-pan-torrija-Viena-La-Baguette.jpg "Pan para torrijas de © Viena La Baguette.")
+![como preparar torrijas](https://fotos.etheriamagazine.com/2021/03/Barras-pan-torrija-Viena-La-Baguette.jpg "Pan para torrijas de © Viena La Baguette.")
 
 El proceso no puede ser más sencillo: se infusiona la leche con la rama de canela, la 
 cáscara de limón y un poco de azúcar (tres o cuatro cucharadas). Se corta el pan en 
@@ -84,7 +84,7 @@ pasándolas por una mezcla de azúcar y canela, con almíbar o con las dos cosas
 aromatizarlas con piel de limón y/o naranja; añadirles algún licor (como el anís) para 
 darles un poquito de alegría… 
 
-![como preparar torrijas](etheria-images/2021/03/torrijas-dulce-tipico.jpg "Plato de torrijas.")
+![como preparar torrijas](https://fotos.etheriamagazine.com/2021/03/torrijas-dulce-tipico.jpg "Plato de torrijas.")
 
 Algunos trucos para mejorar la receta: no escatimes en el tiempo que están en remojo en 
 leche; aunque te parezca que están muy empapadas y se van a deshacer es preferible a que 
@@ -101,7 +101,7 @@ trucos para aligerarlas un poco (aunque no te engañes, no dejan de ser torrijas
 usar leche desnatada, reducir la cantidad de azúcar para endulzar e, incluso, 
 prepararlas en el horno. 
 
-![Una torrija para merendar y un poco de fruta](etheria-images/2021/03/torrijas-merienda.jpg "¿Una torrija para merendar?")
+![Una torrija para merendar y un poco de fruta](https://fotos.etheriamagazine.com/2021/03/torrijas-merienda.jpg "¿Una torrija para merendar?")
 
 Los pasos son los mismos, pero en lugar de sumergirlas en aceite las puedes hacer tres o 
 cuatro minutos por cada lado con el horno fuerte (250 grados). Como quedan algo más 
@@ -121,7 +121,7 @@ Mallorca](https://www.pasteleria-mallorca.com/), además de sus torrijas tradici
 siempre añade algunas variantes. Si estás en Sevilla, puedes comprar las de **Manu 
 Jara** (manujara.com) y en Málaga las de **La Canasta** (lacanasta.es). 
 
-![Torrija con salsa de café y helado de leche merengada de La Terraza de Santo Domingo.](etheria-images/2021/03/Torrija-La-Terraza-del-Santo-Domingo.jpg "Torrija con salsa de café y helado de leche merengada de © La Terraza de Santo Domingo.")
+![Torrija con salsa de café y helado de leche merengada de La Terraza de Santo Domingo.](https://fotos.etheriamagazine.com/2021/03/Torrija-La-Terraza-del-Santo-Domingo.jpg "Torrija con salsa de café y helado de leche merengada de © La Terraza de Santo Domingo.")
 
 **También te puede interesar** 
 

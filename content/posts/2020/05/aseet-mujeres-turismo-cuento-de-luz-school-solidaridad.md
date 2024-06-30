@@ -1,7 +1,7 @@
 ---
 title: "El sueño de ASEET, Cuento de Luz School, ya es una realidad"
 date: 2020-05-27
-coverImage: etheria-images/2020/05/cuento-luz-school-aseet.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/cuento-luz-school-aseet.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -11,7 +11,7 @@ authors:
 
 Cuento de Luz School, un proyecto de la Asociación de Ejecutivas de Empresas Turísticas, ya es una realidad. 60 niñas ya pueden descansar en su propio dormitorio, junto a la escuela, en el poblado keniata de Ponpon-Pokot.
 
-![cuento de luz school, ninas kenia, fundacion vipeika, aseet](etheria-images/2020/05/cuento-luz-school-aseet.jpg "Niñas de Cuento de Luz School-ASEET.")
+![cuento de luz school, ninas kenia, fundacion vipeika, aseet](https://fotos.etheriamagazine.com/2020/05/cuento-luz-school-aseet.jpg "Niñas de Cuento de Luz School-ASEET.")
 
 A diario vemos como surgen asociaciones con grandes filosofías y objetivos sobre el 
 papel, pero desafortunadamente no es tan común que ese ideario se concrete en acciones 
@@ -45,7 +45,7 @@ Dormir de forma separada de los chicos evitará también embarazos no deseados q
 impedirían su acceso a la educación superior, ya que el gobierno keniata no permite a 
 las jóvenes embarazadas continuar con sus estudios. 
 
-![cuento luz school, aseet, fundacion vipeika](etheria-images/2020/05/aseet-cuento-luz-school.jpg "Jovencitas que disfrutarán del dormitorio de Cuento de Luz School.")
+![cuento luz school, aseet, fundacion vipeika](https://fotos.etheriamagazine.com/2020/05/aseet-cuento-luz-school.jpg "Jovencitas que disfrutarán del dormitorio de Cuento de Luz School.")
 
 El coste de este proyecto ha sido de 34.460 euros, financiado casi en su totalidad por 
 ASEET y las entidades que han colaborado con la asociación. Entre ellas, Air Mauritius, 

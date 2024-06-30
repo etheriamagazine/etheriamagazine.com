@@ -1,7 +1,7 @@
 ---
 title: "10 planes para disfrutar esta Navidad en Madrid"
 date: 2020-12-07
-coverImage: etheria-images/2020/12/Madrid-navidad-gran-via-autobus.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-gran-via-autobus.jpg
 categories: 
   - planes-cultura-ocio
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ intentar mantener el espíritu navideño a pesar de restricciones, limitaciones 
 pandemias. Con la consigna de ser responsable y cumplir siempre las normas Covid, te 
 contamos qué 10 planes puedes organizar durante esta Navidad en Madrid. 
 
-![Luces navidad en Madrid](etheria-images/2020/12/madrid-menina-colon-navidad.jpg "Menina en la plaza de Colón. © Álvaro López/Madrid Destino")
+![Luces navidad en Madrid](https://fotos.etheriamagazine.com/2020/12/madrid-menina-colon-navidad.jpg "Menina en la plaza de Colón. © Álvaro López/Madrid Destino")
 
 ## 1\. Luces de Madrid
 
@@ -27,7 +27,7 @@ Alcalá y Gran Vía, la enorme Menina de la plaza de Colón (obra de Antonio Azz
 árbol de Navidad de luz de la Plaza Mayor. Un plan imprescindible para disfrutar de la 
 Navidad en Madrid. 
 
-![planes de Navidad en Madrid](etheria-images/2020/12/Madrid-Navidad-sweet-space.jpg "Sala Okuda de © Sweet Space Madrid.")
+![planes de Navidad en Madrid](https://fotos.etheriamagazine.com/2020/12/Madrid-Navidad-sweet-space.jpg "Sala Okuda de © Sweet Space Madrid.")
 
 ## 2\. Sweet Space, un espacio original
 
@@ -40,7 +40,7 @@ diseñadas por creadores como Agatha Ruiz de la Prada, Antonyo Marest, Christian
 o Ivanna Gautier. Todas llenas de color y dulces apetecibles. Dónde: Segunda planta del 
 ABC Serrano. Precio: 18 Euros. 
 
-![Circo Price en Navidad](etheria-images/2020/12/madrid-circo-price.jpg "'El retorno de Cometa' es el espectáculo del © Circo Price para estas Navidades.")
+![Circo Price en Navidad](https://fotos.etheriamagazine.com/2020/12/madrid-circo-price.jpg "'El retorno de Cometa' es el espectáculo del © Circo Price para estas Navidades.")
 
 ## 3\. Fantasía en el Circo Price
 
@@ -51,7 +51,7 @@ ayudar a un niño que tiene que resolver un gran misterio: por qué han desapare
 los juguetes de Navidad. Una obra perfecta para disfrutar en familia en Madrid. Dónde: 
 Teatro Circo Price. Ronda de Atocha, 35. Precio: desde 17 Euros. 
 
-![Navidad en el Jardín botánico de Madrid](etheria-images/2020/12/madrid-navidad-naturaleza-enciendida.jpg "La magia de la luz llega al Real Jardín Botánico con el recorrido © 'Naturaleza Encendida'.")
+![Navidad en el Jardín botánico de Madrid](https://fotos.etheriamagazine.com/2020/12/madrid-navidad-naturaleza-enciendida.jpg "La magia de la luz llega al Real Jardín Botánico con el recorrido © 'Naturaleza Encendida'.")
 
 ## 4\. Naturaleza Encendida en el Real Jardín Botánico
 
@@ -62,7 +62,7 @@ salir de los propios árboles o deseos que vuelan hacia el cielo. Dónde: Real J
 Botánico. Plaza de Murillo, 2. Precio: 12 Euros de lunes a jueves y 14 Euros en fin de 
 semana. Consulta tarifas especiales. 
 
-![Luces navideñas](etheria-images/2020/12/Madrid-navidad-gran-via-autobus.jpg "Las luces de la Gran Vía se pueden ver desde el Autobús de la Navidad. © Álvaro López/Madrid Destino")
+![Luces navideñas](https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-gran-via-autobus.jpg "Las luces de la Gran Vía se pueden ver desde el Autobús de la Navidad. © Álvaro López/Madrid Destino")
 
 ## 5\. Autobús de la Navidad
 
@@ -74,7 +74,7 @@ Covid. El recorrido es de 40 minutos y estará disponible hasta el 6 de enero. D
 Parada de autobuses turísticos de la calle Alfonso XII, 52. Precio: 12 Euros y 9 Euros 
 los niños de 2 a 15 años. Existen salidas especiales a 5 Euros. 
 
-![Mercadillos navideños](etheria-images/2020/12/Madrid-mercadillos-navidad.jpg "Tradicional mercadillo navideño de la Plaza Mayor. © Alvaro López/Madrid Destino")
+![Mercadillos navideños](https://fotos.etheriamagazine.com/2020/12/Madrid-mercadillos-navidad.jpg "Tradicional mercadillo navideño de la Plaza Mayor. © Alvaro López/Madrid Destino")
 
 ## 6\. Mercadillos navideños
 
@@ -86,7 +86,7 @@ mercadillos: la Feria Mercado de Artesanía de la Comunidad de Madrid en el Pase
 Recoletos, el que se ubica delante de El Corte Inglés de Castellana… Y otros muchos en 
 diferentes distritos madrileños. 
 
-![Exposiciones en Madrid](etheria-images/2020/12/Madrid-navidad-exposiciones-tutankhamon.jpg "Exposición ‘Tutankhamón. La tumba y sus tesoros’.")
+![Exposiciones en Madrid](https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-exposiciones-tutankhamon.jpg "Exposición ‘Tutankhamón. La tumba y sus tesoros’.")
 
 ## 7\. Exposiciones en Madrid
 
@@ -97,7 +97,7 @@ exposiciones en Madrid para vivir el arte este
 otoño](https://etheriamagazine.com/2020/10/13/10-exposiciones-en-madrid-para-otono-2020/), 
 y todas siguen estando disponibles durante las Navidades. 
 
-![patinaje sobre hielo en Madrid](etheria-images/2020/12/Madrid-navidad-pista-patinaje.jpg "Pista de patinaje sobre hielo de Matadero. © SG")
+![patinaje sobre hielo en Madrid](https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-pista-patinaje.jpg "Pista de patinaje sobre hielo de Matadero. © SG")
 
 ## 8\. Patinar sobre hielo
 
@@ -110,7 +110,7 @@ la Pista de Hielo Madrid Dreams Palacio del Hielo o a la pista ‘La Nevera’ (
 14. Majadahonda). Dónde: Matadero Madrid. Plaza de Legazpi, 8. Precio: 6 Euros (incluye 
 patines, guantes y uso de la pista durante 30 minutos. 
 
-![exposicion de belenes](etheria-images/2020/12/madrid-navidad-belenes.jpg "Natividad del belén de estilo hebreo ubicado en CentroCentro Cibeles. © Álvaro López/Madrid Destino")
+![exposicion de belenes](https://fotos.etheriamagazine.com/2020/12/madrid-navidad-belenes.jpg "Natividad del belén de estilo hebreo ubicado en CentroCentro Cibeles. © Álvaro López/Madrid Destino")
 
 ## 9\. Belenes en Madrid
 
@@ -124,7 +124,7 @@ belenes napolitanos del Palacio Real y del Museo de Historia de Madrid. El Ayunt
 ha preparado un itinerario para conocer, además, los más de 30 belenes instalados en 
 distintas iglesias de la ciudad, incluido el de la catedral de la Almudena. 
 
-![meriendas en Madrid](etheria-images/2020/12/Madrid-Navidad-san-gines.jpg "Chocolate con churros en San Ginés. © San Ginés/@m_a_u_likes")
+![meriendas en Madrid](https://fotos.etheriamagazine.com/2020/12/Madrid-Navidad-san-gines.jpg "Chocolate con churros en San Ginés. © San Ginés/@m_a_u_likes")
 
 ## 10\. Tomar un chocolate con churros
 

@@ -1,7 +1,7 @@
 ---
 title: "La experiencia de alojarse en un Ryokan en Japón"
 date: 2019-05-10
-coverImage: etheria-images/2019/04/Japon-Ryokan.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg
 categories: 
   - bienestar-belleza
   - consejos-practicos
@@ -18,7 +18,9 @@ familia, con amigas o con tu pareja, es alojarte en un hotel tradicional o 'ryok
 Muchos de ellos, sobre todo en la zona de Hakone, cuentan con aguas termales, los 
 llamados 'onsen'. 
 
-![Zona de aguas termales de un ryokan](etheria-images/2019/04/Japon-Ryokan.jpg "Onsen en un Ryokan. © Rockzheart/Adobe Stock")
+![Zona de aguas termales de un ryokan](https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg "Onsen en un Ryokan. © Rockzheart/Adobe Stock")
+
+Actualizado mayo 2024. 
 
 Tendría que ser obligatorio alojarse, al menos una noche, en un **ryokan en un viaje a 
 Japón** ya que es una de las mejores formas de conocer de primera mano esa cultura 
@@ -38,7 +40,7 @@ los zapatos. Los japoneses dan mucha importancia a la limpieza y no entran con e
 calzado de la calle ni a sus casas, así que mucho menos en los espacios ocupados por el 
 delicado suelo de esteras del tatami de estas estancias. 
 
-![monte Fuji](etheria-images/2019/04/Japon-Onsen-ryokan-monte-Fuji.jpg "Vista del monte Fuji desde un Ryokan. © Lukyeee_nuttawut/Adobe Stock")
+![monte Fuji](https://fotos.etheriamagazine.com/2019/04/Japon-Onsen-ryokan-monte-Fuji.jpg "Vista del monte Fuji desde un Ryokan. © Lukyeee_nuttawut/Adobe Stock")
 
 En la habitación te estarán esperando un **yukata** (un kimono sencillo de algodón); 
 unas **chanclas de madera** para utilizar en el hotel; y unos calcetines especialmente 
@@ -63,7 +65,7 @@ equipaje y así no romperás, con las maletas en medio, la armonía de la habita
 > una cama occidental, pero ya que estás en Japón prueba al menos una noche a dormir en el 
 > suelo para vivir la experiencia completa. 
 
-![Cama en un ryokan](etheria-images/2019/04/Japon-onsen-ryokan-tatami.jpg "Cama en un futón sobre el tatami. © Amnach/Adobe Stock")
+![Cama en un ryokan](https://fotos.etheriamagazine.com/2019/04/Japon-onsen-ryokan-tatami.jpg "Cama en un futón sobre el tatami. © Amnach/Adobe Stock")
 
 ## Dónde y cómo disfrutar de un onsen
 
@@ -83,7 +85,7 @@ alojarse en estos Ryokan ya que proporcionan una experiencia tradicional complet
 hecho, algunos de ellos disponen de habitaciones con bañeras al aire libre donde poder 
 disfrutar de estas aguas en total privacidad. 
 
-![Jardín con bañera en un ryokan](etheria-images/2019/04/Japon-onsen-ryokan-banera-privada.jpg "Bañera privada con agua termal en el Ryokan Hidatei Hanaougi. © Susana García")
+![Jardín con bañera en un ryokan](https://fotos.etheriamagazine.com/2019/04/Japon-onsen-ryokan-banera-privada.jpg "Bañera privada con agua termal en el Ryokan Hidatei Hanaougi. © Susana García")
 
 En cualquier caso, tienes que ir sí o sí a ver el onsen del hotel ya que son siempre 
 diferentes. Están separados por sexos y en diferentes horas se intercambian los 
@@ -98,7 +100,7 @@ caliente, muy caliente o para escaldar, así que ten cuidado con los tiempos que
 cada sitio para que no te dé una bajada de tensión. Después, una ducha y de lo más 
 relajada puedes seguir con tu tarde en el ryokan. 
 
-![Pasillo de acceso a la zona del onsen del Ryokan Gora Kadan.](etheria-images/2019/04/Japon-ryokan-gora-kadan.jpg "Pasillo de acceso a la zona del onsen del Ryokan Gora Kadan. © Susana García")
+![Pasillo de acceso a la zona del onsen del Ryokan Gora Kadan.](https://fotos.etheriamagazine.com/2019/04/Japon-ryokan-gora-kadan.jpg "Pasillo de acceso a la zona del onsen del Ryokan Gora Kadan. © Susana García")
 
 Algunos de ellos como el **Gora Kadan**, en Hakone, cuentan con zonas de baños 
 familiares, donde podrás reservar una franja horaria para poder disfrutar de esta 
@@ -112,13 +114,13 @@ de la cultura japonesa. Eso sí, ten en cuenta que no puedes elegir el menú. Es
 compuesto por infinidad de delicias japonesas en pequeño formato que incluirán, entre 
 otros bocados, sashimi, brotes de bambú, carne wagyu a la plancha, arroz y sopa de miso. 
 
-![Menú en un ryokan](etheria-images/2019/04/Japon-ryokan-cena.jpg "Presentación de la cena en el Ryokan Hidatei Hanaougi. © Susana García")
+![Menú en un ryokan](https://fotos.etheriamagazine.com/2019/04/Japon-ryokan-cena.jpg "Presentación de la cena en el Ryokan Hidatei Hanaougi. © Susana García")
 
 En muchos de estos Ryokan el desayuno es también japonés, por lo que prepárate para 
 comenzar el día tomando té, pescado, arroz y sopa de miso. Quizá necesites después parar 
 a tomar un café pero ¡disfruta de la experiencia! 
 
-![Aperitivos en un ryokan](etheria-images/2019/04/Japon-ryokan-comida.jpg "Aperitivos de la cena del Gora Kadan. © Susana García")
+![Aperitivos en un ryokan](https://fotos.etheriamagazine.com/2019/04/Japon-ryokan-comida.jpg "Aperitivos de la cena del Gora Kadan. © Susana García")
 
 ## Consejos Etheria
 

@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola al Eje Cafetero, el corazón verde de Colombia"
 date: 2019-01-28
-coverImage: etheria-images/2019/01/Colombia-Salento-Quindio.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/01/Colombia-Salento-Quindio.jpg
 categories: 
   - viajes-para-mujeres
   - viajar-sola
@@ -11,7 +11,7 @@ authors:
 
 Colombia muestra su naturaleza más voluptuosa en el Efe Cafetero, un lugar repleto de paisajes llenos de paz, y de localidades como Salento y Manizales que parecen querer ocultarse entre tanto verde. Si te estás planteando un viaje sola o con amigas a este país, harás bien en considerar esta propuesta y en seguir las recomendaciones de Elisabeth G. Iborra, nuestra experta en viajes en solitario.
 
-![Naturaleza en Armenia](etheria-images/2019/01/Colombia-Armenia.jpg "Paisaje de Armenia.")
+![Naturaleza en Armenia](https://fotos.etheriamagazine.com/2019/01/Colombia-Armenia.jpg "Paisaje de Armenia.")
 
 El **Eje Cafetero** es una de las áreas naturales más bellas de Colombia. Situado en el 
 departamento del Quindío, forma parte de las regiones andina y paisa. Su capital es 
@@ -30,7 +30,7 @@ que saben muy bien lo que hacen con cualquier material, desde las hebras del pl�
 con las que crean figuritas, hasta el cuero de las muchas vacas de la región, con el que 
 diseñan bonitos y originales zapatos. 
 
-![Comercios en Salento](etheria-images/2019/01/Colombia-Salento.jpg "Calle de Salento.")
+![Comercios en Salento](https://fotos.etheriamagazine.com/2019/01/Colombia-Salento.jpg "Calle de Salento.")
 
 Subiendo por esa calle principal, se arriba, no sin esfuerzo, al **mirador** que le ha 
 conferido a Salento el título de municipio cuna del árbol nacional, ‘la palma de cera’. 
@@ -40,7 +40,7 @@ palmeras suelen crecer en climas tropicales y aquí, para sobrevivir, desarrolla
 capa de 3 centímetros de grosor de cera que las protege y, además, son tan flexibles y 
 resistentes a la ruptura que las llaman 'las bailarinas del viento'. 
 
-![palmeras típicas del eje cafetero](etheria-images/2019/01/Colombia-Valle-Cocora.jpg "A las palmeras de esta zona se las conoce como 'las bailarinas del viento'.")
+![palmeras típicas del eje cafetero](https://fotos.etheriamagazine.com/2019/01/Colombia-Valle-Cocora.jpg "A las palmeras de esta zona se las conoce como 'las bailarinas del viento'.")
 
 ## Hacia el valle del Cócora
 
@@ -51,7 +51,7 @@ la caminata, o la cabalgada, hacia y por el valle del Cócora, un área natural
 impresionante del **Parque Nacional Natural Los Nevados**, situado sobre una planicie 
 accidentada de la Cordillera Central de los Andes colombianos. 
 
-![casas en Salento](etheria-images/2019/01/Colombia-Salento-Quindio.jpg "Imagen de Salento. Fotografía cortesía de ProColombia.")
+![casas en Salento](https://fotos.etheriamagazine.com/2019/01/Colombia-Salento-Quindio.jpg "Imagen de Salento. Fotografía cortesía de ProColombia.")
 
 En la entrada puedes alquilar los servicios de un guía para que te lleve a caballo y 
 prepararte para subir y bajar caminos de barro y piedra que te obligan a agarrarte a la 
@@ -66,7 +66,7 @@ de cuando aún podían vivir allí sin que los marearan los turistas.
 No sé si esa niebla es la que le da el toque definitivo al valle pero, desde luego, es 
 espectacular y en pocos lugares se respira tan sano y tanta paz. 
 
-![Colorida calle de Salento](etheria-images/2019/01/Colombia-calle-salento.jpg "Colorida calle de Salento.")
+![Colorida calle de Salento](https://fotos.etheriamagazine.com/2019/01/Colombia-calle-salento.jpg "Colorida calle de Salento.")
 
 Al regresar a Salento, nada mejor que tomarte algo en el jardín panorámico del [Camino 
 Real](https://www.facebook.com/caminoreal.parrillabar), un animado bar-parrilla con 
@@ -84,7 +84,7 @@ precioso entre sus montañas, plantaciones de café y de plátanos a lo largo de
 _paisas_ que te sonríen integradores y te ofrecen bollitos (tamaño botón) de pan de 
 queso con dulce de guayaba que están deliciosos. 
 
-![infraestructuras en el eje cafetero](etheria-images/2019/01/Colmbia-eje-cafetero.jpg "Transporte para el café.")
+![infraestructuras en el eje cafetero](https://fotos.etheriamagazine.com/2019/01/Colmbia-eje-cafetero.jpg "Transporte para el café.")
 
 Otra opción es ir parando en pueblos como **Montenegro**, para visitar el Parque 
 Nacional del Café, un parque temático dedicado al producto estrella de la zona; o en 
@@ -94,7 +94,7 @@ para conocer la caficultura en un espeso cafetal donde tendrás que remangarte p
 despulpar y secar el grano, tostar y moler, preparar y deleitarte con el café de los más 
 cafeteros. 
 
-![granos de café en Colombia](etheria-images/2019/01/Colombia-cafe.jpg "Granos de café. Foto cortesía de ProColombia.")
+![granos de café en Colombia](https://fotos.etheriamagazine.com/2019/01/Colombia-cafe.jpg "Granos de café. Foto cortesía de ProColombia.")
 
 También puedes visitar el **Parque Nacional de la Cultura Agropecuaria** (**PANACA**), 
 un parque temático y de atracciones agropecuario, que permite la recreación e 
@@ -113,7 +113,7 @@ extiende por las laderas de las montañas. Te aconsejo probar su metro aéreo, e
 aerocable, porque vas viendo toda la ciudad entre el verde de las montañas y los 
 bosques. ¡Para qué van a poner parques si ya viven en ellos! 
 
-![Lago Colombia](etheria-images/2019/01/Manizales-Parque-nevados.jpg "Parque Nacional de Los Nevados, situado entre Manizales y Salento.")
+![Lago Colombia](https://fotos.etheriamagazine.com/2019/01/Manizales-Parque-nevados.jpg "Parque Nacional de Los Nevados, situado entre Manizales y Salento.")
 
 Lo ideal es bajarte en la parada de Fundadores e ir caminando por las calles del casco 
 histórico y la plaza Vargas, con el centro comercial y sus puestecillos artesanales. 
@@ -139,7 +139,7 @@ ve a las terminales de autobuses a preguntar qué compañías van a Salento, hay
 competencia importante y podrás elegir según te convenga su frecuencia, comodidad y 
 diferencia de precios. 
 
-![Mirador en Salento del eje cafetero](etheria-images/2019/01/Salento-paisaje-1024x275.jpg "Paisaje que rodea Salento.")
+![Mirador en Salento del eje cafetero](https://fotos.etheriamagazine.com/2019/01/Salento-paisaje-1024x275.jpg "Paisaje que rodea Salento.")
 
 ##### Dónde alojarse
 

@@ -1,7 +1,7 @@
 ---
 title: "Si quieres un novio, pídeselo a San Antonio el 13 de junio"
 date: 2021-06-11
-coverImage: etheria-images/2021/06/verbena-de-san-antonio-madrid.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/verbena-de-san-antonio-madrid.jpg
 categories: 
   - planes-cultura-ocio
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 ¿Llega el verano y buscas novio? Desde aquí te proponemos una alternativa a Tinder, mucho más divertida, castiza y festiva, cuyos años de arraigada tradición certificarán seguro el éxito de tu búsqueda. Además, te permitirá descubrir la verbena o Fiesta de San Antonio así como una zona de Madrid, que, a lo mejor, todavía no conoces. Eso sí, tienes que seguir unos pasos muy determinados.
 
-![verbena de San Antonio de la florida](etheria-images/2021/06/verbena-de-san-antonio-madrid.jpg "A la verbena de San Antonio se acude con los trajes regionales. © Asoc. Los Castizos")
+![verbena de San Antonio de la florida](https://fotos.etheriamagazine.com/2021/06/verbena-de-san-antonio-madrid.jpg "A la verbena de San Antonio se acude con los trajes regionales. © Asoc. Los Castizos")
 
 Para empezar, señala en tu agenda la fecha del 13 de junio. O sea, la Fiesta de San 
 Antonio de la Florida, o, dicho popularmente, la verbena homónima, que se celebra entre 
@@ -26,7 +26,7 @@ novio.
 ¿Pero, qué hay que hacer exactamente? Paciencia que ahora te lo contamos. Antes, un 
 poquito de historia y turismo porque lo primero es saber dónde tienes que dirigirte. 
 
-![Ermita de San Antonio de la Florida](etheria-images/2021/06/Ermita-San-Antonio-madrid.jpg "Ermita de San Antonio de la Florida, una visita obligada en la capital. © Madrid Destino")
+![Ermita de San Antonio de la Florida](https://fotos.etheriamagazine.com/2021/06/Ermita-San-Antonio-madrid.jpg "Ermita de San Antonio de la Florida, una visita obligada en la capital. © Madrid Destino")
 
 ## Dónde pedir "el novio": ermita de San Antonio de la Florida
 
@@ -48,7 +48,7 @@ fieles como símbolo para que no les falte el sustento durante el año).
 
 #####  La versión del milagro de la cúpula pintada por Goya está adaptada al Madrid de la época, con los madrileños asomados a una falsa barandilla, en plan majas, chisperos y chulapos, para presenciar el espectáculo.
 
-![frescos de goya en ermita san antonio de la florida](etheria-images/2021/06/frescos-goya-ermita-de-San-Antonio-de-la-Florida.jpg "Frescos de Goya en la ermita de San Antonio de la Florida. © Agustín Martínez/ M. Destino")
+![frescos de goya en ermita san antonio de la florida](https://fotos.etheriamagazine.com/2021/06/frescos-goya-ermita-de-San-Antonio-de-la-Florida.jpg "Frescos de Goya en la ermita de San Antonio de la Florida. © Agustín Martínez/ M. Destino")
 
 ### Los frescos de Goya
 
@@ -67,7 +67,7 @@ fechas del nacimiento y muerte de Francisco de Goya, dejando el edificio origina
 museo de Goya. Mirando las fachadas desde fuera, la de la derecha es la ermita 
 auténtica. 
 
-![chulapos en la verbena de san antonio de madrid](etheria-images/2021/06/chulapos-chulapas-verbena-san-antonio.jpg "Chulapos y chulapas en la verbena de San Antonio. © Asoc. Los Castizos")
+![chulapos en la verbena de san antonio de madrid](https://fotos.etheriamagazine.com/2021/06/chulapos-chulapas-verbena-san-antonio.jpg "Chulapos y chulapas en la verbena de San Antonio. © Asoc. Los Castizos")
 
 ## Tenemos una cita: el 13 de junio
 
@@ -100,7 +100,7 @@ vecino **parque de la Bombilla**. Pero, atención, nuestro ritual de los alfiler
 perpetuado en la ermita de San Antonio de la Florida hasta 2019. Cuando pase la 
 pandemia, suponemos que volverá la tradición. 
 
-![bailes Verbena de San Antonio](etheria-images/2021/06/verbena-San-Antonio-conciertos.jpg "Actuaciones durante la Verbena de San Antonio. © Asoc. Los Castizos")
+![bailes Verbena de San Antonio](https://fotos.etheriamagazine.com/2021/06/verbena-San-Antonio-conciertos.jpg "Actuaciones durante la Verbena de San Antonio. © Asoc. Los Castizos")
 
 ### Ponte guapa para el ritual
 
@@ -114,7 +114,7 @@ ataviado con unos castizos mantones, una falda larga de volantes, una pañoleta 
 cabeza (optativo) y unos clavelillos en el pelo ( obligatorio). Todo cuenta en el 
 ritual. 
 
-![ritual alfileres verbena de san antonio](etheria-images/2021/06/Modistillas-y-Alfileres-verbena-san-antonio-693x1024.jpg "Cada alfiler que se pinche en tu mano corresponde a un novio. © Ayto. de Madrid")
+![ritual alfileres verbena de san antonio](https://fotos.etheriamagazine.com/2021/06/Modistillas-y-Alfileres-verbena-san-antonio-693x1024.jpg "Cada alfiler que se pinche en tu mano corresponde a un novio. © Ayto. de Madrid")
 
 ##### "Los alfileres que se queden pinchados en la mano corresponden a los novios que tendrás durante los próximos 12 meses"
 

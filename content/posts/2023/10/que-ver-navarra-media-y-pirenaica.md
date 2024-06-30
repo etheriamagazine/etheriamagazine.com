@@ -1,7 +1,7 @@
 ---
 title: "Cómo enamorarse de Navarra en 3 pueblos y 6 visitas culturales"
 date: 2023-10-16
-coverImage: etheria-images/2023/10/vistas-gallipienzo.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -15,7 +15,7 @@ monumentos históricos que son un referente como el Castillo de Javier y el Mona
 Leyre, además de otros sitios secretos que te desvelaremos en el artículo. Esta es, sin 
 duda, una ruta perfecta para los amantes de la historia y la cultura. 
 
-![Vistas desde Gallipienzo.](etheria-images/2023/10/vistas-gallipienzo-850x625.jpg "Vistas desde Gallipienzo. © Pepa G./ Etheria Magazine")
+![Vistas desde Gallipienzo.](https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo-850x625.jpg "Vistas desde Gallipienzo. © Pepa G./ Etheria Magazine")
 
 Navarra es naturaleza y gastronomía, en mayúsculas, pero también historia y cultura, 
 aunque a veces queden ocultas en los recodos menos transitados del camino. En una 
@@ -47,7 +47,7 @@ uno de los maestros que tuvo a bien dejar por escrito que había intervenido en 
 decoración de la iglesia. En el libro de la estatua-columna de la Virgen verás una 
 inscripción que reza: _Leodegarius me fecit_, es decir, “Leodegario me hizo”. 
 
-![Iglesia de Santa María la Real, en Sangüesa.](etheria-images/2023/10/iglesia-mayor-sanguesa.jpg "Portada de la iglesia de Santa María la Real, en Sangüesa. © Pepa G./Etheria Magazine")
+![Iglesia de Santa María la Real, en Sangüesa.](https://fotos.etheriamagazine.com/2023/10/iglesia-mayor-sanguesa.jpg "Portada de la iglesia de Santa María la Real, en Sangüesa. © Pepa G./Etheria Magazine")
 
 Pero esta es sólo la primera parada en Sangüesa, ya que la ruta turística también debe 
 contemplar visitas del ámbito religioso como las iglesias de Santiago y de San Salvador 
@@ -73,7 +73,7 @@ piedra es una invitación al paseo y a la fotografía de postal.
 alguna visita a este precioso espacio natural haz una parada en su oficina de turismo y 
 hazte con un plano para moverte con más confianza por el bosque. 
 
-![Puente medieval de Ochagavía.](etheria-images/2023/10/ochagavia-navarra.jpg "Puente medieval de Ochagavía. © Pepa García/ Etheria M.")
+![Puente medieval de Ochagavía.](https://fotos.etheriamagazine.com/2023/10/ochagavia-navarra.jpg "Puente medieval de Ochagavía. © Pepa García/ Etheria M.")
 
 ### Gallipienzo
 
@@ -99,7 +99,7 @@ nobleza de esas residencias.
 Gallipienzo está dividido en dos núcleos de población, el antiguo y el nuevo, aunque 
 según dice su padrón no alcanzan las tres cifras en su número de habitantes. 
 
-![Gallpienzo, Navarra.](etheria-images/2023/10/gallipienzo-navarra.jpg "Gallpienzo, Navarra. © P.G./Etheria Magazine")
+![Gallpienzo, Navarra.](https://fotos.etheriamagazine.com/2023/10/gallipienzo-navarra.jpg "Gallpienzo, Navarra. © P.G./Etheria Magazine")
 
 ## Visitas sorprendentes con toque histórico y cultural
 
@@ -122,7 +122,7 @@ queda mucho por excavar, merece la pena la visita. Puedes reservarla en el Tel. 
 ✅ En el [museo virtual de Santa Criz de Eslava](https://sketchfab.com/santacrizmv) se 
 encuentran descritas algunas de las piezas encontradas en el sitio. 
 
-![Yacimiento romano de Santa Criz de Eslava](etheria-images/2023/10/santa-cris-eslava.jpg "Yacimiento romano de Santa Criz de Eslava. © Pepa García/ Etheria M.")
+![Yacimiento romano de Santa Criz de Eslava](https://fotos.etheriamagazine.com/2023/10/santa-cris-eslava.jpg "Yacimiento romano de Santa Criz de Eslava. © Pepa García/ Etheria M.")
 
 ### Iglesia de San Pedro de Etxano
 
@@ -142,7 +142,7 @@ dicha portada, al igual que tampoco lo hace la interpretación de los muchos can
 que rodean la nave y su ábside semicircular. Si haces la visita por tu cuenta, podrás 
 admirar el exterior, no así el interior. 
 
-![Iglesia de San Pedro de Etxano, en Navarra](etheria-images/2023/10/iglesia-san-pedro-etxano.jpg "Iglesia de San Pedro de Etxano. © Pepa García/ Etheria Mag.")
+![Iglesia de San Pedro de Etxano, en Navarra](https://fotos.etheriamagazine.com/2023/10/iglesia-san-pedro-etxano.jpg "Iglesia de San Pedro de Etxano. © Pepa García/ Etheria Mag.")
 
 ### Castillo de Javier
 
@@ -164,7 +164,7 @@ madera de Cristo que aseguran que sudó sangre el día que Francisco falleció f
 costas de China. Junto al castillo se encuentra la basílica, también magnífica, donde se 
 ofician misas a diario. 
 
-![Castillo de Javier, en Navarra.](etheria-images/2023/10/castillo-javier-navarra.jpg "Castillo de Javier, en Navarra. © Pepa G./ Etheria Magazine")
+![Castillo de Javier, en Navarra.](https://fotos.etheriamagazine.com/2023/10/castillo-javier-navarra.jpg "Castillo de Javier, en Navarra. © Pepa G./ Etheria Magazine")
 
 ### Monasterio de Leyre
 
@@ -181,7 +181,7 @@ Este monasterio sigue en activo, habitado por una comunidad de monjes benedictin
 podrás ver en las misas. Con un poco de suerte, escucharás cantos gregorianos resonando 
 en la iglesia abacial. 
 
-![Cripta del monasterio de Leyre.](etheria-images/2023/10/cripta-monasterio-leyre.jpg "Cripta del monasterio de Leyre. © Pepa G./ Etheria Magazine")
+![Cripta del monasterio de Leyre.](https://fotos.etheriamagazine.com/2023/10/cripta-monasterio-leyre.jpg "Cripta del monasterio de Leyre. © Pepa G./ Etheria Magazine")
 
 ### Museo de las Estelas
 
@@ -193,7 +193,7 @@ lápidas talladas en piedra narran la vida de aquellos que reposaron bajo las mi
 visita se plantea como un juego en el que descubrir a partir de un organigrama las 25 
 personalidades del laberinto. 
 
-![Museo de las Estelas.](etheria-images/2023/10/museo-estelas.jpg "Museo de las Estelas. © Etheria Magazine")
+![Museo de las Estelas.](https://fotos.etheriamagazine.com/2023/10/museo-estelas.jpg "Museo de las Estelas. © Etheria Magazine")
 
 ### Real Fábrica de Armas y Municiones de Orbaizeta
 
@@ -214,7 +214,7 @@ que formaban el poblado. Hoy en día se puede recorrer por libre y asomarse a lo
 antiguos edificios vestidos de nostalgia y con ese romanticismo que envuelve a los 
 lugares que han sido presa de la historia... 
 
-![Real Fábrica de Armas y Municiones de Orbaizeta.](etheria-images/2023/10/fabrica-armas-orbaizeta.jpg "Real Fábrica de Armas y Municiones de Orbaizeta. © Pepa G./Etheria Magazine")
+![Real Fábrica de Armas y Municiones de Orbaizeta.](https://fotos.etheriamagazine.com/2023/10/fabrica-armas-orbaizeta.jpg "Real Fábrica de Armas y Municiones de Orbaizeta. © Pepa G./Etheria Magazine")
 
 Navarra tiene tanto por descubrir que cualquier artículo se queda corto. En función de 
 los días que tengas disponibles, te sugerimos ampliar la estancia para incluir otras 

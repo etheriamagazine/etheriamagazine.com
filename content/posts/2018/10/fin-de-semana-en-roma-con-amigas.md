@@ -1,7 +1,7 @@
 ---
 title: "Roma, la escapada con amigas que necesitas"
 date: 2018-10-31
-coverImage: etheria-images/2018/10/Roma-hotel-de-russie-the-corner-e1552812919707.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/10/Roma-hotel-de-russie-the-corner-e1552812919707.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -15,7 +15,7 @@ varios siglos, pasear a orillas del Tíber, perderte por el Trastevere o comer e
 restaurantes más exquisitos. ¿Lo mejor de todo esto? Que Roma se plantea como el viaje 
 perfecto para hacer con amigas. 
 
-![piazza popolo](etheria-images/2018/10/Roma-Piazza-del-popolo-e1552812774394.jpg "Piazza del Popolo (Roma).")
+![piazza popolo](https://fotos.etheriamagazine.com/2018/10/Roma-Piazza-del-popolo-e1552812774394.jpg "Piazza del Popolo (Roma).")
 
 Y ¿por qué Roma? ¿No está muy vista? No y mil veces no. Es una ciudad a la que volver, 
 donde siempre encontrarás algo nuevo o simplemente te dejarás embriagar por sus siglos 
@@ -33,7 +33,7 @@ por Danilo Magilo, el ideólogo de The Corner, incorporando toques de diseño y 
 integrada. Si pedís la junior suite, el baño esconde una maravilla de bañera exenta de 
 color negro, sobre un papel de palmeras pintadas de lo más instagrameable. 
 
-![habitación del Hotel The Corner Townhouse (Roma)](etheria-images/2018/10/Roma-hotel-the-corner-room-e1552812792386.jpg "Hotel The Corner Townhouse (Roma).")
+![habitación del Hotel The Corner Townhouse (Roma)](https://fotos.etheriamagazine.com/2018/10/Roma-hotel-the-corner-room-e1552812792386.jpg "Hotel The Corner Townhouse (Roma).")
 
 La segunda elección puede ser **Casacau** (casacau.com), una colección de apartamentos 
 para dos o tres personas muy cercanos a la Fontana di Trevi. Casacau mantiene el charme 
@@ -53,7 +53,7 @@ los mármoles que adornaban sus paredes? Del mismo modo, hace poco tiempo, el ma
 ofrece una vista panorámica sobre la ciudad y el edificio, sino también supone un hito 
 para palpar la historia de uno de los más grandes iconos de Roma. 
 
-![Coliseo de Roma.](etheria-images/2018/10/roma-con-amigas-coliseo-e1552812866894.jpg "Coliseo de Roma.")
+![Coliseo de Roma.](https://fotos.etheriamagazine.com/2018/10/roma-con-amigas-coliseo-e1552812866894.jpg "Coliseo de Roma.")
 
 ## Qué y dónde comer en la capital italiana
 
@@ -68,7 +68,7 @@ encima o cualquiera de sus **chacinas**. Entre los platos fuertes destacan dos d
 **pastas**, la clásica carbonara o la amatriciana, típica receta romana que se prepara 
 con salsa de tomate, _guanciale_, _pecorino_ y pimienta. 
 
-![Pasta Roscioli y embutido de la enoteca Cul de Sac](etheria-images/2018/10/Roma-gastronomia-Pasta-Roscioli-enoteca-cul-de-sac-e1552812901998.jpg "Pasta Roscioli (Izq.) y enoteca Cul de Sac (Dcha.)")
+![Pasta Roscioli y embutido de la enoteca Cul de Sac](https://fotos.etheriamagazine.com/2018/10/Roma-gastronomia-Pasta-Roscioli-enoteca-cul-de-sac-e1552812901998.jpg "Pasta Roscioli (Izq.) y enoteca Cul de Sac (Dcha.)")
 
 Si lo que os apetecen son unas ricas pizzas, la mejor dirección para probarlas es **Dar 
 Poeta** (www.darpoeta.com). Sólo llegar hasta allí ya merece la pena, porque esta 
@@ -91,7 +91,7 @@ embutidos y especialidades romanas.
 > Si sois fans de la lasagna, no podéis perderos la que preparan en la enoteca Cul de Sac. 
 > Está considerada como la mejor de Roma para muchos. 
 
-![Hoteles De Russie y The Corner de Roma](etheria-images/2018/10/Roma-hotel-de-russie-the-corner-e1552812919707.jpg "Hoteles De Russie y The Corner (Roma).")
+![Hoteles De Russie y The Corner de Roma](https://fotos.etheriamagazine.com/2018/10/Roma-hotel-de-russie-the-corner-e1552812919707.jpg "Hoteles De Russie y The Corner (Roma).")
 
 ## Un aperitivo en un lugar único
 

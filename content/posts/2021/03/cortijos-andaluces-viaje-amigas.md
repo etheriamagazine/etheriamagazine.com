@@ -1,7 +1,7 @@
 ---
 title: "9 preciosos cortijos andaluces para recibir a la primavera"
 date: 2021-03-16
-coverImage: etheria-images/2021/03/cortijo-bravo-malaga.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/cortijo-bravo-malaga.jpg
 categories: 
   - viajes-con-amigas
   - hoteles
@@ -15,7 +15,7 @@ agradables entornos naturales que invitan a dar largos paseos y a tener enriquec
 charlas. Estas nueve fincas que te recomendamos están repartidas por las provincias de 
 Córdoba, Granada, Almería, Cádiz y Málaga. 
 
-![Finca La Donaira en la Serranía de Ronda](etheria-images/2021/03/finca-la-donaira-cadiz.jpg "© Finca La Donaira (Serranía de Ronda, Málaga).")
+![Finca La Donaira en la Serranía de Ronda](https://fotos.etheriamagazine.com/2021/03/finca-la-donaira-cadiz.jpg "© Finca La Donaira (Serranía de Ronda, Málaga).")
 
 **Actualizado en marzo de 2024** 
 
@@ -35,7 +35,7 @@ históricos, se han convertido en alojamientos sensoriales. La mayoría, no todo
 conducidos por extranjeros que decidieron quedarse aquí para siempre. Te contamos cuáles 
 son algunos de estos lugares para dar la bienvenida a la primavera en Andalucía. 
 
-![Finca Maltés del Fraile (Almería).](etheria-images/2021/03/cortijos-andaluces-finca-maltes.jpg "© Finca Maltés del Fraile (Almería).")
+![Finca Maltés del Fraile (Almería).](https://fotos.etheriamagazine.com/2021/03/cortijos-andaluces-finca-maltes.jpg "© Finca Maltés del Fraile (Almería).")
 
 ## Finca Maltés (Níjar, Almería)
 
@@ -52,7 +52,7 @@ mascota porque también son _petfriendly_.
 
 **Más información en Tel. +34 950 889 580** 
 
-![Además de habitaciones, Cortijo Bablou cuenta con una caravana gitana.](etheria-images/2021/03/cortijos-andaluces-Bablou-cadiz.jpg "Además de habitaciones © Cortijo Bablou cuenta con una caravana gitana.")
+![Además de habitaciones, Cortijo Bablou cuenta con una caravana gitana.](https://fotos.etheriamagazine.com/2021/03/cortijos-andaluces-Bablou-cadiz.jpg "Además de habitaciones © Cortijo Bablou cuenta con una caravana gitana.")
 
 ## Cortijo Bablou (Arcos de la Frontera, Cádiz)
 
@@ -70,7 +70,7 @@ kilómetro de 0.
 
 **Más información en el Tel. 691 016 576** 
 
-![Desayuno en la Finca Las Encinas (Córdoba).](etheria-images/2021/03/finca-las-encinas-cordoba.jpg "© Finca Las Encinas (Córdoba).")
+![Desayuno en la Finca Las Encinas (Córdoba).](https://fotos.etheriamagazine.com/2021/03/finca-las-encinas-cordoba.jpg "© Finca Las Encinas (Córdoba).")
 
 ## Finca Las Encinas (Los Juncares, Córdoba)
 
@@ -91,7 +91,7 @@ City_ para dedicarse aquí a cuidar a sus huéspedes y mostrarles este pedacito 
 andaluz. Sus cursos de cocina son también de lo más apreciado. Este es, sin duda, uno de 
 los cortijos andaluces más atractivos de Córdoba. 
 
-![Cortijo La Almunia, en Granada](etheria-images/2021/03/cortijo-andaluz-almunia.jpg "© Cortijo La Almunia (Granada).")
+![Cortijo La Almunia, en Granada](https://fotos.etheriamagazine.com/2021/03/cortijo-andaluz-almunia.jpg "© Cortijo La Almunia (Granada).")
 
 ## Cortijo La Almunia (Monachil, Granada)
 
@@ -107,7 +107,7 @@ separan 15 minutos de la Alhambra y 20 minutos de las playas de la Costa Tropica
 
 **Más información en laalmuniadelvalle.com** 
 
-![Habitación de la finca La Donaira, en la Serranía de Ronda, Málaga](etheria-images/2021/03/hotel-amigas-finca-la-donaira-cadiz.jpg "© Habitación de la finca La Donaira (Serranía de Ronda, Málaga).")
+![Habitación de la finca La Donaira, en la Serranía de Ronda, Málaga](https://fotos.etheriamagazine.com/2021/03/hotel-amigas-finca-la-donaira-cadiz.jpg "© Habitación de la finca La Donaira (Serranía de Ronda, Málaga).")
 
 ## Finca La Donaira (Montecorto, Málaga)
 
@@ -127,7 +127,7 @@ sombra de una antigua encina de 700 años?
 
 **Más información en ladonaira.com** 
 
-![Jardín y piscina del Cortijo Bravo (Málaga).](etheria-images/2021/03/cortijo-bravo-malaga.jpg "© Cortijo Bravo (Málaga).")
+![Jardín y piscina del Cortijo Bravo (Málaga).](https://fotos.etheriamagazine.com/2021/03/cortijo-bravo-malaga.jpg "© Cortijo Bravo (Málaga).")
 
 ## Cortijo Bravo (Benamocarra, Málaga)
 
@@ -143,7 +143,7 @@ andaluzas.
 
 **Más información en hotelcortijobravo.com** 
 
-![Cortijo Santa Clara, en Carmona (Sevilla).](etheria-images/2021/03/cortijo-santa-clara-entrada-1024x683-1-900x600.jpg "© Cortijo Santa Clara, en Carmona (Sevilla).")
+![Cortijo Santa Clara, en Carmona (Sevilla).](https://fotos.etheriamagazine.com/2021/03/cortijo-santa-clara-entrada-1024x683-1-900x600.jpg "© Cortijo Santa Clara, en Carmona (Sevilla).")
 
 ## Cortijo Santa Clara (Carmona, Sevilla)
 
@@ -159,7 +159,7 @@ al campo, donde te esperan las rutas de los girasoles o la de los manantiales.
 
 **Más información en cortijosantaclara.es** 
 
-![Cortijo El Guarda, en la provincia de Cádiz](etheria-images/2021/03/cortijo-el-guarda.jpg "© Cortijo El Guarda (Cádiz).")
+![Cortijo El Guarda, en la provincia de Cádiz](https://fotos.etheriamagazine.com/2021/03/cortijo-el-guarda.jpg "© Cortijo El Guarda (Cádiz).")
 
 ## Cortijo El Guarda (Alcalá del Valle, Cádiz)
 
@@ -171,7 +171,7 @@ es una experiencia que desestresa a la más necesitada. Suelos enchinados, rinco
 la ensoñación, noches estrelladas… y la posibilidad de disfrutar de carta de masajes o 
 de una lectura apacible en la antigua biblioteca del Cortijo El Guarda. 
 
-![Patio del Molino del Arco, en Ronda.](etheria-images/2021/03/molino-arco-ronda-viaje-amigas.jpg "© Patio del Molino del Arco, en Ronda.")
+![Patio del Molino del Arco, en Ronda.](https://fotos.etheriamagazine.com/2021/03/molino-arco-ronda-viaje-amigas.jpg "© Patio del Molino del Arco, en Ronda.")
 
 ## Molino del Arco (Ronda, Málaga)
 
@@ -191,7 +191,7 @@ ellas –la de Descalzos Viejos es una maravilla–.
 
 **Más información en hotelmolinodelarco.com** 
 
-![Molino del Arco, en Ronda](etheria-images/2021/03/molino-del-arco-ronda.jpg "© Molino del Arco (Ronda).")
+![Molino del Arco, en Ronda](https://fotos.etheriamagazine.com/2021/03/molino-del-arco-ronda.jpg "© Molino del Arco (Ronda).")
 
 **Además de los cortijos andaluces, te puede interesar...** 
 

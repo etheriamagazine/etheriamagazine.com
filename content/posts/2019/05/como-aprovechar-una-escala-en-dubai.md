@@ -1,7 +1,7 @@
 ---
 title: "10 visitas para aprovechar al máximo una escala en Dubái"
 date: 2019-05-31
-coverImage: etheria-images/2019/05/escala-Dubai-mirador-Burj-Khalifa.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/escala-Dubai-mirador-Burj-Khalifa.jpg
 categories: 
   - viajes-48-horas
   - de-un-vistazo
@@ -15,7 +15,7 @@ authors:
 
 Las escalas largas no tienen por qué ser un problema; es más, nos brindan la oportunidad de conocer destinos intermedios que bien merecen alargar un ‘_stopover_’. Estas son diez visitas que no deberías perderte en una escala en Dubái de un día o dos.
 
-![Burj al Arab Jumeirah Madinat](etheria-images/2019/05/escala-dubai-Madinat-Jumeirah.jpg "Burj al Arab desde el complejo Madinat Jumeirah. © Pepa García")
+![Burj al Arab Jumeirah Madinat](https://fotos.etheriamagazine.com/2019/05/escala-dubai-Madinat-Jumeirah.jpg "Burj al Arab desde el complejo Madinat Jumeirah. © Pepa García")
 
 Dubái es la capital del emirato del mismo nombre (uno de los siete que forman los EAU), 
 una ciudad cuya fisonomía cambia día a día. Su transformación ha sido tan rápida que 
@@ -28,7 +28,7 @@ el 1 y el 15 de junio de 2021, para viajar hasta el 30 de septiembre, **te regal
 pase de un día completo para el parque acuático Aquaventure y el acuario The Lost 
 Chambers.** 
 
-![Burj Khalifa, dubai](etheria-images/2019/05/escala-dubai-Burj-Khalifa.jpg "Burj Khalifa, una torre de más de 800 metros. © Dubai Tourism")
+![Burj Khalifa, dubai](https://fotos.etheriamagazine.com/2019/05/escala-dubai-Burj-Khalifa.jpg "Burj Khalifa, una torre de más de 800 metros. © Dubai Tourism")
 
 ## 1\. Burj Khalifa
 
@@ -43,7 +43,7 @@ actividad muy demandada, así que, según a la hora que lo visites, puedes tener
 esperar un poco para subir. Desde arriba, las vistas de la metrópoli son grandiosas, con 
 la franja desértica o el mar al fondo. 
 
-![Mirador del Burj Khalifa](etheria-images/2019/05/escala-Dubai-mirador-Burj-Khalifa.jpg "At the Top, mirador del Burj Khalifa. © P.G.")
+![Mirador del Burj Khalifa](https://fotos.etheriamagazine.com/2019/05/escala-Dubai-mirador-Burj-Khalifa.jpg "At the Top, mirador del Burj Khalifa. © P.G.")
 
 ## 2\. Dubai Mall y fuentes bailarinas
 
@@ -57,7 +57,7 @@ artificial de Burj Khalifa. Cada media hora, desde las 6 de la tarde, los chorro
 agua danzan al ritmo que marcan las canciones. Y en los 15 minutos intermedios, es la 
 torre la que se ilumina con distintas tonalidades. ¡Y gratis! 
 
-![dubai mall](etheria-images/2019/05/escala-Dubai-Mall.jpg "En el Dubai Mall tienen su propia Fashion Avenue con las marcas internacionales más selectas. © P.G.")
+![dubai mall](https://fotos.etheriamagazine.com/2019/05/escala-Dubai-Mall.jpg "En el Dubai Mall tienen su propia Fashion Avenue con las marcas internacionales más selectas. © P.G.")
 
 ## 3\. Al Fahidi, las raíces de Dubái
 
@@ -70,7 +70,7 @@ Understanding](https://www.visitdubai.com/en/pois/smccu)) donde tienes la oportu
 degustar un _brunch_ mientras te narran la historia de los dubaitíes y sus costumbres, 
 en un intento de hacer comprender sus tradiciones a los inmigrantes y turistas. 
 
-![torre de viento, casas dubai](etheria-images/2019/05/escala-Dubai-Al-Fahidi.jpg "La torre de viento es un elemento que consigue bajar la temperatura en el interior de las casas. © P.G.")
+![torre de viento, casas dubai](https://fotos.etheriamagazine.com/2019/05/escala-Dubai-Al-Fahidi.jpg "La torre de viento es un elemento que consigue bajar la temperatura en el interior de las casas. © P.G.")
 
 ## 4\. Zocos de las especias y del oro (Deira)
 
@@ -82,7 +82,7 @@ auténticos y el tercero, más moderno, te sorprende por los brillos que salen d
 escaparates. Allí tendrás la oportunidad de ver el anillo de oro más grande del mundo 
 (pesa unos 64 kg y está valorado en 3 mill de dólares). 
 
-![zocos de dubai](etheria-images/2019/05/escala-dubai-Zoco-Telas.jpg "Zoco de especias de Dubái. © P.G.")
+![zocos de dubai](https://fotos.etheriamagazine.com/2019/05/escala-dubai-Zoco-Telas.jpg "Zoco de especias de Dubái. © P.G.")
 
 ## 5\. Kite Beach y Burj Al Arab
 
@@ -97,7 +97,7 @@ desde el complejo de **Madinat Jumeirah**, que tiene hotel, un bonito zoco turí
 restaurantes y un canal por donde navegar en unas barquitas hasta cerca del Burj Al 
 Arab. 
 
-![kite beach dubai, burj al arab dubai](etheria-images/2019/05/escala-Dubai-Kite-Beach.jpg "Burj Al Arab desde Kite Beach. © P.G.")
+![kite beach dubai, burj al arab dubai](https://fotos.etheriamagazine.com/2019/05/escala-Dubai-Kite-Beach.jpg "Burj Al Arab desde Kite Beach. © P.G.")
 
 ## 6\. El mayor acuario del mundo
 
@@ -107,7 +107,7 @@ exterior (para pasar por el túnel sí hay que pagar) y tiene un tamaño descomu
 grandes mantarrayas. Si te van las emociones fuertes puedes entrar y nadar con los 
 tiburones. 
 
-![acuario dubai](etheria-images/2019/05/escala-Dubai-Mall-Acuario.jpg "El mayor acuario del mundo. © P.G.")
+![acuario dubai](https://fotos.etheriamagazine.com/2019/05/escala-Dubai-Mall-Acuario.jpg "El mayor acuario del mundo. © P.G.")
 
 ## 7\. En abra por Dubai Creek
 
@@ -119,7 +119,7 @@ los **zocos** (de las especias, de la tela y del oro), que se encuentran cerca d
 orilla, o bien reservar un pequeño crucero con cena. Es un paseo perfecto si haces noche 
 durante tu escala en Dubái. 
 
-![abra de dubai, paseo por el canal dubai](etheria-images/2019/05/escala-Dubai-Al-Fahidi-Canales.jpg "Un relajante paseo en abra al atardecer. © P.G.")
+![abra de dubai, paseo por el canal dubai](https://fotos.etheriamagazine.com/2019/05/escala-Dubai-Al-Fahidi-Canales.jpg "Un relajante paseo en abra al atardecer. © P.G.")
 
 ## 8\. Dubái Marina
 
@@ -127,7 +127,7 @@ Si sigues con ganas de seguir sorprendiéndote, tienes que acercarte al puerto d
 de Dubái para ver yates y otros caprichos de las grandes fortunas que viven o recalan en 
 la ciudad. 
 
-![dubai marina](etheria-images/2019/05/escala-Dubai-Marina-Skyline.jpg "Skyline de la marina de Dubái. © Dubai Tourism")
+![dubai marina](https://fotos.etheriamagazine.com/2019/05/escala-Dubai-Marina-Skyline.jpg "Skyline de la marina de Dubái. © Dubai Tourism")
 
 ## 9\. Islas artificiales en helicóptero
 
@@ -138,7 +138,7 @@ y el mapamundi. También puedes acercarte a **Palm Jumeirah**, una de las mayore
 del mundo creadas por el hombre, para curiosear y ver sus zonas residenciales y hoteles 
 de lujo. Existe un monorraíl que recorre el tronco de la palmera. 
 
-![vuelo helicoptero en dubai](etheria-images/2019/05/escala-dubai-vuelo-helicoptero.jpg "Vuelo en helicóptero por Dubái. © P.G.")
+![vuelo helicoptero en dubai](https://fotos.etheriamagazine.com/2019/05/escala-dubai-vuelo-helicoptero.jpg "Vuelo en helicóptero por Dubái. © P.G.")
 
 ## 10\. Aventura en el desierto
 
@@ -148,7 +148,7 @@ día porque se encuentra a 20 minutos del centro de Dubái. En una actividad com
 dunas inmensas a toda velocidad, pasear en camello, ver volar halcones y cenar en 
 jaimas. Es una aventura perfecta para cerrar una escala en Dubái. 
 
-![safari desierto arabigo, desierto dubai](etheria-images/2019/05/escala-Dubai-Desierto.jpg "Safari en el desierto Arábigo. © P.G.")
+![safari desierto arabigo, desierto dubai](https://fotos.etheriamagazine.com/2019/05/escala-Dubai-Desierto.jpg "Safari en el desierto Arábigo. © P.G.")
 
 ### También te puede interesar...
 

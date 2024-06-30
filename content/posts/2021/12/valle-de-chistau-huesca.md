@@ -1,7 +1,7 @@
 ---
 title: "Valle de Chistau, descubre las mejores rutas en el cielo aragonés"
 date: 2021-12-07
-coverImage: etheria-images/2021/11/VAlle-Chistau-Vista-de-La-Comuna-y-Serveto.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/VAlle-Chistau-Vista-de-La-Comuna-y-Serveto.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -14,7 +14,7 @@ cierran el valle. Sentiremos que tocamos el cielo recorriéndolas entre flores a
 asomándonos desde sus vertiginosos miradores o al llegar a la orilla de preciosos lagos 
 de montaña. Sigue leyendo para conocer todos los secretos del valle de Chistau. 
 
-![Bordas junto al refugio de Viados.](etheria-images/2021/11/valle-chistau-Bordas-refugio-de-VIADOS.jpg "Bordas junto al refugio de Viados.")
+![Bordas junto al refugio de Viados.](https://fotos.etheriamagazine.com/2021/11/valle-chistau-Bordas-refugio-de-VIADOS.jpg "Bordas junto al refugio de Viados.")
 
 Entramos en un país de montañas al pisar la comarca aragonesa del Sobrarbe. Tanto más si 
 vamos lo más al norte posible, al **valle de Chistau** o Gistaín que el río Cinqueta 
@@ -26,7 +26,7 @@ de sus pueblos y las actividades de sus gentes. Con sus 3.375 metros es la segun
 más alta de la cordillera pirenaica. En este imponente paisaje montañoso hemos buscado 
 unas pistas imprescindibles para tu próxima **escapada al valle de Chistau**. 
 
-![Desfiladero de La Inclusa.](etheria-images/2021/11/Valle-Chistau-Desfiladero-LA-INCLUSA.jpg "Desfiladero de La Inclusa.")
+![Desfiladero de La Inclusa.](https://fotos.etheriamagazine.com/2021/11/Valle-Chistau-Desfiladero-LA-INCLUSA.jpg "Desfiladero de La Inclusa.")
 
 ## Pueblos de piedra del valle del Chistau
 
@@ -41,7 +41,7 @@ rodeada de casas de arquitectura tradicional pirenaica con agudos tejados de piz
 algunas fachadas blasonadas, asoma la **iglesia de San Esteban**, que aún deja ver sus 
 trazas románicas. 
 
-![Ibon de Plan.](etheria-images/2021/11/valle-Chistau-Ibon-de-Plan.jpg "Ibón de Plan.")
+![Ibon de Plan.](https://fotos.etheriamagazine.com/2021/11/valle-Chistau-Ibon-de-Plan.jpg "Ibón de Plan.")
 
 ## Ruta al refugio de la princesa pirenaica
 
@@ -58,7 +58,7 @@ llegar hasta allí se puede caminar desde Plan unas 3 horas salvando un desnivel
 metros. También es posible aproximarse en coche hasta el **refugio de Labasar**, donde 
 comienza la senda que conduce al ibón en apenas 30 minutos de recorrido. 
 
-![Paisaje ganadero en San Juan de Plan.](etheria-images/2021/11/Valle-Chistau-Paisaje-ganadero-SAN-JUAN-DE-PLAN.jpg "Paisaje ganadero en San Juan de Plan.")
+![Paisaje ganadero en San Juan de Plan.](https://fotos.etheriamagazine.com/2021/11/Valle-Chistau-Paisaje-ganadero-SAN-JUAN-DE-PLAN.jpg "Paisaje ganadero en San Juan de Plan.")
 
 ## La magia de Pirineos
 
@@ -74,7 +74,7 @@ vecinos van hasta la borda de San Mamés y en la Planeta de la Falla comen y beb
 alrededor de las brasas. Cuando llega el atardecer vuelven al pueblo en fila, cada cual 
 con una antorcha, creando una llamativa imagen de luces serpenteando por la ladera. 
 
-![Río Cinqueta en el valle de Chistau](etheria-images/2021/11/valle-Chistau-Rio-Cinqueta.jpg "Río Cinqueta.")
+![Río Cinqueta en el valle de Chistau](https://fotos.etheriamagazine.com/2021/11/valle-Chistau-Rio-Cinqueta.jpg "Río Cinqueta.")
 
 ## A las puertas del cielo, ruta entre lagos y flora alpina
 
@@ -99,7 +99,7 @@ así como de sus glaciares –los más meridionales de Europa–. Y de las mejor
 disfrutar de la espectacular flora alpina en primavera o para descubrir el centenar de 
 sus lagos glaciares. 
 
-![Quesos artesanales de Saravillo.](etheria-images/2021/11/Valle-Chistau-Quesos-artesanos.jpg "Quesos artesanales de Saravillo.")
+![Quesos artesanales de Saravillo.](https://fotos.etheriamagazine.com/2021/11/Valle-Chistau-Quesos-artesanos.jpg "Quesos artesanales de Saravillo.")
 
 ## Comerse las montañas: quesos y carnes asadas del valle de Chistau
 
@@ -113,7 +113,7 @@ Chistau, concretamente en **Casa Petris**, y saborea el paisaje con sus carnes a
 No menos inolvidables son los Quesos artesanales de Saravillo hechos con leche de cabras 
 y vacas que has visto alimentándose en estas altas montañas. 
 
-![Quebrantahuesos en el valle de Chistau.](etheria-images/2021/11/valle-chistau-Quebrantahuesos.jpg "Quebrantahuesos en el valle de Chistau.")
+![Quebrantahuesos en el valle de Chistau.](https://fotos.etheriamagazine.com/2021/11/valle-chistau-Quebrantahuesos.jpg "Quebrantahuesos en el valle de Chistau.")
 
 ## Reyes del cielo, el reino del quebrantahuesos
 
@@ -126,7 +126,7 @@ amenazadas de Europa. Su territorio es la montaña, los cortados y paredes escar
 los que ha regresado gracias a un proyecto de reintroducción desarrollado por la 
 Fundación Quebrantahuesos en colaboración con los ganaderos del valle. 
 
-![Vista de La Comuna y Serveto.](etheria-images/2021/11/VAlle-Chistau-Vista-de-La-Comuna-y-Serveto.jpg "Vista de La Comuna y Serveto.")
+![Vista de La Comuna y Serveto.](https://fotos.etheriamagazine.com/2021/11/VAlle-Chistau-Vista-de-La-Comuna-y-Serveto.jpg "Vista de La Comuna y Serveto.")
 
 ## Un regalo de despedida
 

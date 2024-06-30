@@ -1,7 +1,7 @@
 ---
 title: "Bodegas Santiago Ruiz, el alma de las Rías Baixas se bebe en copas"
 date: 2023-09-11
-coverImage: etheria-images/2023/09/rosa-ruiz-bodeguera.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/09/rosa-ruiz-bodeguera.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -14,7 +14,7 @@ de esos vinos que cada año enamoran son los que elabora en las Rías Baixas las
 Santiago Ruiz. De Rosa Ruiz, de su padre y de su abuelo, y, también, de la añada 2022 de 
 sus dos vinos más emblemáticos te hablamos a continuación. 
 
-![Rosa Ruiz, al frente de bodegas Santiago Ruiz.](etheria-images/2023/09/rosa-ruiz-bodeguera.jpg "Rosa Ruiz, al frente de bodegas Santiago Ruiz.")
+![Rosa Ruiz, al frente de bodegas Santiago Ruiz.](https://fotos.etheriamagazine.com/2023/09/rosa-ruiz-bodeguera.jpg "Rosa Ruiz, al frente de bodegas Santiago Ruiz.")
 
 La historia de un vino comienza mucho antes de llegar a la copa. Es un camino largo, 
 casi un milagro, que ni siquiera empieza en el viñedo sino que se remonta mucho más 
@@ -44,7 +44,7 @@ del espíritu creativo de su padre y es ella que guarda sus historias y las ané
 también forman parte de su legado. Aunque de ello también se encargan las **etiquetas de 
 los vinos**, las cuales reflejan momentos familiares inolvidables. 
 
-![Viñedos de la Bodega Santiago Ruiz.](etheria-images/2023/09/vinedo-santiago-ruiz-850x644.jpg "Viñedos de la Bodega Santiago Ruiz.")
+![Viñedos de la Bodega Santiago Ruiz.](https://fotos.etheriamagazine.com/2023/09/vinedo-santiago-ruiz-850x644.jpg "Viñedos de la Bodega Santiago Ruiz.")
 
 ## Los vinos
 
@@ -71,7 +71,7 @@ celebración, la bodega de San Miguel de Tabagón. Su padre, que en esas fechas 
 algún diseño de etiqueta para su vino y no encontraba ninguno que le convenciera, cuando 
 lo vio supo que ese dibujo era el que quería. 
 
-![Etiqueta del vino Santiago Ruiz.](etheria-images/2023/09/santiago-ruiz-etiqueta-625x1024.jpg "Etiqueta del vino Santiago Ruiz.")
+![Etiqueta del vino Santiago Ruiz.](https://fotos.etheriamagazine.com/2023/09/santiago-ruiz-etiqueta-625x1024.jpg "Etiqueta del vino Santiago Ruiz.")
 
 **Nota de cata** 
 
@@ -102,7 +102,7 @@ de ambos tomada en 1993 en la bodega en la que tanto compartieron juntos. Con el
 rojo como protagonista, el favorito de Rosa Ruiz es una invitación a cruzar la puerta de 
 la bodega y disfrutar de sus vinos. 
 
-![Botella de vino de Rosa Ruiz](etheria-images/2023/09/vino-rosa-ruiz.jpg "Vino Rosa Ruiz.")
+![Botella de vino de Rosa Ruiz](https://fotos.etheriamagazine.com/2023/09/vino-rosa-ruiz.jpg "Vino Rosa Ruiz.")
 
 **Nota de cata** 
 

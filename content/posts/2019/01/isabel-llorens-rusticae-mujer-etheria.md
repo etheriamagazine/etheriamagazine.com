@@ -1,7 +1,7 @@
 ---
 title: "Isabel Llorens: \"Viajar aporta respeto por todas las culturas, sus gentes y su patrimonio\""
 date: 2019-01-21
-coverImage: etheria-images/2019/01/Isabel-Llorens-Grecia.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/01/Isabel-Llorens-Grecia.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -11,13 +11,13 @@ authors:
 
 Isabel Llorens es CEO y cofundadora de Rusticae, empresa que se creó en 1996 con la intención de descubrir al público esas pequeñas joyas hoteleras que no son tan conocidas y que en sí mismas merecen un viaje. Actualmente comparte la dirección de Rusticae con un nuevo proyecto, PlenEat, que desde 2016 se ha propuesto llevar la cocina ecológica a los comedores de empresa y máquinas de _vending_.
 
-\[caption id="attachment\_6720" align="aligncenter" width="900"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](etheria-images/2019/01/Isabel-Llorens-Grecia.jpg "Isabel Llorens en Grecia.") Isabel Llorens en Grecia.\[/caption\]
+\[caption id="attachment\_6720" align="aligncenter" width="900"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](https://fotos.etheriamagazine.com/2019/01/Isabel-Llorens-Grecia.jpg "Isabel Llorens en Grecia.") Isabel Llorens en Grecia.\[/caption\]
 
 Isabel Llorens estudió Empresariales en la Universidad Complutense de Madrid y tiene un Máster en Transformación Digital por el ISDI, pero fue en Asturias, al mando de un pequeño hotel con encanto, donde descubrió cómo quería enfocar su carrera profesional. Así nació [Rusticae](https://www.rusticae.es), que desde 1996 se ha convertido en un portal de referencia para aquellos que buscan un hotel especial o un plan diferente. Porque a esta mujer alegre, curiosa y dinámica, lo que le apasiona son los proyectos y la gente que hacen pequeñas grandes cosas por la sociedad, la naturaleza y la cultura, algo que refleja muy bien la empresa que dirige.
 
 Respetuosa con el medio ambiente y sociable, aquí nos desvela algunos de sus secretos viajeros.
 
-\[caption id="attachment\_6719" align="aligncenter" width="1000"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](etheria-images/2019/01/Isabel-Llorens-equipo-Rusticae.jpg "Isabel con Carlota Mateos, su socia en Rusticae y Pleneat, y Sara Sánchez, directora general de Rusticae, en Marruecos.") Isabel con Carlota Mateos, su socia en Rusticae y PlenEat, y Sara Sánchez, directora general de Rusticae, en Marruecos.\[/caption\]
+\[caption id="attachment\_6719" align="aligncenter" width="1000"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](https://fotos.etheriamagazine.com/2019/01/Isabel-Llorens-equipo-Rusticae.jpg "Isabel con Carlota Mateos, su socia en Rusticae y Pleneat, y Sara Sánchez, directora general de Rusticae, en Marruecos.") Isabel con Carlota Mateos, su socia en Rusticae y PlenEat, y Sara Sánchez, directora general de Rusticae, en Marruecos.\[/caption\]
 
 ##### 1\. ¿Cuál es el primer viaje que recuerdas haber realizado?
 
@@ -31,7 +31,7 @@ El primer viaje del que guardo un recuerdo especial fue a Tailandia con mi prime
 
 Viajar aporta respeto por todas las culturas, sus gentes y su patrimonio. También sabiduría y humildad.
 
-\[caption id="attachment\_6718" align="aligncenter" width="600"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](etheria-images/2019/01/Isabel-llorens-Cumbre-de-Peñalara.jpg "Isabel en Peñalara, en la Sierra de Guadarrama (Madrid).") Isabel en Peñalara, en la Sierra de Guadarrama (Madrid).\[/caption\]
+\[caption id="attachment\_6718" align="aligncenter" width="600"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](https://fotos.etheriamagazine.com/2019/01/Isabel-llorens-Cumbre-de-Peñalara.jpg "Isabel en Peñalara, en la Sierra de Guadarrama (Madrid).") Isabel en Peñalara, en la Sierra de Guadarrama (Madrid).\[/caption\]
 
 ##### 4\. Si pudieses elegir un compañero de viaje (real o de ficción). ¿Quién sería y por qué?
 
@@ -45,7 +45,7 @@ Tuve una época en la que planificaba los viajes con mucho tiempo de antelación
 
 Básicamente dando un paseo y viendo tiendas. Y un buen libro tampoco falta nunca en mi equipaje.
 
-\[caption id="attachment\_6722" align="aligncenter" width="800"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](etheria-images/2019/01/Isabel-Llorens-Tarifa.jpg "Viaje a Tarifa.") Viaje a Tarifa.\[/caption\]
+\[caption id="attachment\_6722" align="aligncenter" width="800"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](https://fotos.etheriamagazine.com/2019/01/Isabel-Llorens-Tarifa.jpg "Viaje a Tarifa.") Viaje a Tarifa.\[/caption\]
 
 ##### 7\. ¿Cuál ha sido el mejor viaje de tu vida? ¿Por qué?
 
@@ -59,7 +59,7 @@ Mi última escapada ha sido a una [isla griega](https://etheriamagazine.com/2019
 
 Recomendaría Grecia, Austria y Tanzania.
 
-\[caption id="attachment\_6717" align="aligncenter" width="600"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](etheria-images/2019/01/Isabe-Llorens-Islas-griegas.jpg "Isabel contemplando en paisaje marino en las Islas Griegas.") Isabel contemplando en paisaje marino en las Islas Griegas.\[/caption\]
+\[caption id="attachment\_6717" align="aligncenter" width="600"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](https://fotos.etheriamagazine.com/2019/01/Isabe-Llorens-Islas-griegas.jpg "Isabel contemplando en paisaje marino en las Islas Griegas.") Isabel contemplando en paisaje marino en las Islas Griegas.\[/caption\]
 
 ##### 10\. Tres viajes pendientes…
 
@@ -73,7 +73,7 @@ Me sorprendió [Portugal](https://etheriamagazine.com/2018/10/30/12-miradores-pa
 
 El avión. No siempre es el más cómodo pero te permite hacer viajes largos en el menor tiempo.
 
-\[caption id="attachment\_6721" align="aligncenter" width="525"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](etheria-images/2019/01/Isabel-Llorens-Marrakech.jpg "Viaje a Marrakech (Marruecos).") Viaje a Marrakech (Marruecos).\[/caption\]
+\[caption id="attachment\_6721" align="aligncenter" width="525"\]![Rusticae, Mujeres que inspiran, mujeres Etheria, mujeres directivas, mujeres viajeras](https://fotos.etheriamagazine.com/2019/01/Isabel-Llorens-Marrakech.jpg "Viaje a Marrakech (Marruecos).") Viaje a Marrakech (Marruecos).\[/caption\]
 
 ##### 13\. ¿Qué hotel te ha impresionado más y por qué?
 

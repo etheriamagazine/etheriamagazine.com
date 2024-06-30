@@ -1,7 +1,7 @@
 ---
 title: "11 destinos exóticos que te esperan en verano con los brazos abiertos"
 date: 2021-04-16
-coverImage: etheria-images/2021/04/jamaica-viaje-verano-2021.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/04/jamaica-viaje-verano-2021.jpg
 categories: 
   - consejos-practicos
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Ya estamos pensando en los viajes de verano, y consultando aquellos países sin cuarentena desde España. Una labor que habrá que seguir haciendo según se acerquen las ansiadas vacaciones, ya que la situación es tan cambiante que elegir un destino no está exento de riesgos. De momento, quédate con estos 11 destinos exóticos que apuntan a protocolos sencillos de cumplir.
 
-![maldivas entre paises sin cuarentena desde España](etheria-images/2021/04/maldivas-viaje-sin-cuarentena.jpg "Maldivas, uno de los países sin cuarentena desde España. © Ishan")
+![maldivas entre paises sin cuarentena desde España](https://fotos.etheriamagazine.com/2021/04/maldivas-viaje-sin-cuarentena.jpg "Maldivas, uno de los países sin cuarentena desde España. © Ishan")
 
 Con pruebas PCR, seguros de viaje o formularios, pero se podría viajar a estos 11 
 destinos lejanos, o a ciertas zonas de los mismos, **desde España sin cuarentena**. Esta 
@@ -38,7 +38,7 @@ protocolos sanitarios y de seguridad.
 Sigue leyendo Actividades para tu [viaje a Maldivas, más que un destino de lunas de 
 miel](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-surf/). 
 
-![seychelles paises sin cuarentena desde espana](etheria-images/2021/04/sechelles-destino-sin-cuarentena.jpg "La Digue, en Seychelles. © Alessandro Russo")
+![seychelles paises sin cuarentena desde espana](https://fotos.etheriamagazine.com/2021/04/sechelles-destino-sin-cuarentena.jpg "La Digue, en Seychelles. © Alessandro Russo")
 
 ## Seychelles
 
@@ -52,7 +52,7 @@ comprobante de alojamiento.
 Sigue leyendo [cómo organizar un viaje a 
 Seychelles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/). 
 
-![tren de sri lanka paises sin cuarenta desde espana](etheria-images/2021/04/tren-azul-sri-lanka-683x1024.jpg "Famoso tren del té en Sri Lanka. © Gemma Fjam")
+![tren de sri lanka paises sin cuarenta desde espana](https://fotos.etheriamagazine.com/2021/04/tren-azul-sri-lanka-683x1024.jpg "Famoso tren del té en Sri Lanka. © Gemma Fjam")
 
 ## Sri Lanka
 
@@ -66,7 +66,7 @@ con certificado de vacunación de la COVID-19. También es necesario presentar u
 Sigue leyendo sobre [las maravillas de Sri 
 Lanka](https://etheriamagazine.com/2019/02/01/sri-lanka-para-mujeres-viajeras/). 
 
-![submarinismo en barbados viajes sin cuarentena desde espana](etheria-images/2021/04/barbados-submarinismo.jpg "Submarinismo en Barbados. © Cédric Frixon")
+![submarinismo en barbados viajes sin cuarentena desde espana](https://fotos.etheriamagazine.com/2021/04/barbados-submarinismo.jpg "Submarinismo en Barbados. © Cédric Frixon")
 
 ## Barbados
 
@@ -76,7 +76,7 @@ horas antes de la llegada, el resultado negativo de la prueba en el formulario o
 de aduana e inmigración. Al llegar, los pasajeros deben reconfirmar con una prueba 
 rápida de antígenos la validez de su prueba PCR negativa. 
 
-![viaje bahamas desde espana](etheria-images/2021/04/viaje-bahamas-desde-espana-701x1024.jpg "Vista aérea de Coco Cay, en Bahamas. © Adam Gonzales")
+![viaje bahamas desde espana](https://fotos.etheriamagazine.com/2021/04/viaje-bahamas-desde-espana-701x1024.jpg "Vista aérea de Coco Cay, en Bahamas. © Adam Gonzales")
 
 ## Bahamas
 
@@ -88,7 +88,7 @@ seguro de viaje para COVID-19.
 Sigue leyendo sobre [Qué ver en 
 Bahamas](https://etheriamagazine.com/2018/08/14/viajar-sola-a-islas-bahamas/). 
 
-![burj khalifa en dubai](etheria-images/2021/04/viaje-dubai-desde-espana-681x1024.jpg "Burj Khalifa, en Dubái. © Toa Heftiba")
+![burj khalifa en dubai](https://fotos.etheriamagazine.com/2021/04/viaje-dubai-desde-espana-681x1024.jpg "Burj Khalifa, en Dubái. © Toa Heftiba")
 
 ## Emiratos Árabes Unidos
 
@@ -103,7 +103,7 @@ negativa** tomada en este caso como máximo 96 horas antes.
 Consulta las [visitas imprescindibles de 
 Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/). 
 
-![resort de lujo en jamaica verano 2021](etheria-images/2021/04/jamaica-viaje-verano-2021.jpg "Resort de lujo en Jamaica. © Obi Onyeador")
+![resort de lujo en jamaica verano 2021](https://fotos.etheriamagazine.com/2021/04/jamaica-viaje-verano-2021.jpg "Resort de lujo en Jamaica. © Obi Onyeador")
 
 ## Jamaica
 
@@ -112,7 +112,7 @@ viaje antes de la salida. Los pasajeros, sujetos a exámenes médicos a su llega
 contar con un **test de antígenos negativo** o un resultado de prueba de PCR negativo, 
 realizados como máximo tres días antes de la salida del primer tramo del viaje. 
 
-![viaje republica dominicana](etheria-images/2018/05/3-Republica-Dominicana-Sur-7-1024x612.jpg "Costa de Punta Cana, en República Dominicana. © Etheria Magazine")
+![viaje republica dominicana](https://fotos.etheriamagazine.com/2018/05/3-Republica-Dominicana-Sur-7-1024x612.jpg "Costa de Punta Cana, en República Dominicana. © Etheria Magazine")
 
 ## República Dominicana
 
@@ -125,7 +125,7 @@ llegada con cuarentena de siete días.
 Sigue leyendo "[10 razones para República 
 Dominicana](https://etheriamagazine.com/2018/05/18/10-razones-para-visitar-punta-cana-republica-dominicana/)". 
 
-![mexico paises sin cuarentena desde España](etheria-images/2021/04/viaje-mexico-desde-espana.jpg "Santuario de la Virgen de los Remedios, en San Pedro Cholula, México. © Pedro Lastra")
+![mexico paises sin cuarentena desde España](https://fotos.etheriamagazine.com/2021/04/viaje-mexico-desde-espana.jpg "Santuario de la Virgen de los Remedios, en San Pedro Cholula, México. © Pedro Lastra")
 
 ## México
 
@@ -133,7 +133,7 @@ Aquí permiten viajar un poco a lo loco, ni cuarentena ni PCR negativa. En Ciuda
 México sólo se debe presentar un "Cuestionario de identificación de factores de riesgo 
 en viajeros" a inmigración. 
 
-![viaje a costa rica sin cuarentena](etheria-images/2021/04/costa-rica-desde-espana.jpg "Parque Nacional del Volcán Irazu, en Costa Rica. © Alex Ip")
+![viaje a costa rica sin cuarentena](https://fotos.etheriamagazine.com/2021/04/costa-rica-desde-espana.jpg "Parque Nacional del Volcán Irazu, en Costa Rica. © Alex Ip")
 
 ## Costa Rica
 
@@ -147,7 +147,7 @@ costes médicos.
 Sigue leyendo: [Qué ver en Costa Rica en un viaje en 
 familia](https://etheriamagazine.com/2018/07/05/viaje-costa-rica-con-ninos-que-hacer-en-familia/). 
 
-![tailandia viajar desde espana 2021](etheria-images/2021/04/phi-phi-islands-phuket.jpg "Phi Phi Islands, en la provincia de Phuket (Tailandia). © Deepain Jindal")
+![tailandia viajar desde espana 2021](https://fotos.etheriamagazine.com/2021/04/phi-phi-islands-phuket.jpg "Phi Phi Islands, en la provincia de Phuket (Tailandia). © Deepain Jindal")
 
 ## Tailandia
 

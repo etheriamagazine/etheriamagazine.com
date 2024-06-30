@@ -1,7 +1,7 @@
 ---
 title: "Bruselas, capital del Art Nouveau en 2023"
 date: 2022-12-23
-coverImage: etheria-images/2022/12/van-eetvelde-house.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/van-eetvelde-house.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -13,7 +13,7 @@ Si eres una apasionada de esta arquitectura reserva hueco en tu agenda porque es
 habrá más visitas guiadas, exposiciones, nuevos museos y edificios con una increíble 
 iluminación. "Bruselas, capital del Art Nouveau" te espera. 
 
-![Casa Tassel, primera casa de estilo Art Nouveau en Bruselas.](etheria-images/2022/12/casa-tassel-bruselas.jpg "Casa Tassel, primera casa de estilo Art Nouveau en Bruselas.")
+![Casa Tassel, primera casa de estilo Art Nouveau en Bruselas.](https://fotos.etheriamagazine.com/2022/12/casa-tassel-bruselas.jpg "Casa Tassel, primera casa de estilo Art Nouveau en Bruselas.")
 
 En 2023 se cumplen ciento treinta años de la inauguración de la Casa Tassel, la obra más 
 renombrada del arquitecto Victor Horta (1861-1947) y, también, el primer edificio de 
@@ -39,7 +39,7 @@ Serrurier-Bovy y Henry van de Velde.
 
 ?Dónde: Avenue de la Jonction, 1. 1060 Saint-Gilles. 
 
-![Escaleras interiores de la Casa Hannon, en Bruselas](etheria-images/2022/12/Hotel-Hannon-681x1024.jpg "Casa Hannon. © Visit Brussels/Jean-Paul Remy.")
+![Escaleras interiores de la Casa Hannon, en Bruselas](https://fotos.etheriamagazine.com/2022/12/Hotel-Hannon-681x1024.jpg "Casa Hannon. © Visit Brussels/Jean-Paul Remy.")
 
 ### Museo de Arte e Historia en Wolfers
 
@@ -51,7 +51,7 @@ cristaleras a modo de invernadero, diseñado por Victor Horta.
 
 ?Dónde: Parc du Cinquantenaire, 10. 1000 Brussels 
 
-![Museo de Arte e Historia-Tienda de los hermanos Wolfers, en  Brussels](etheria-images/2022/12/museo-historia-arte-bruselas.jpg "Museo de Arte e Historia-antigua joyería de los hermanos Wolfers. © Visit Brussels")
+![Museo de Arte e Historia-Tienda de los hermanos Wolfers, en  Brussels](https://fotos.etheriamagazine.com/2022/12/museo-historia-arte-bruselas.jpg "Museo de Arte e Historia-antigua joyería de los hermanos Wolfers. © Visit Brussels")
 
 ### Casa van Eetvelde
 
@@ -69,7 +69,7 @@ momentos de este movimiento.
 
 ?Dónde: Avenue Palmerston, 4. 1000 Brussels 
 
-![Fachada art nouveau de la Casa van Eetvelde](etheria-images/2022/12/van-eetvelde-house-850x543.jpg "Casa van Eetvelde. © Visit Brussels")
+![Fachada art nouveau de la Casa van Eetvelde](https://fotos.etheriamagazine.com/2022/12/van-eetvelde-house-850x543.jpg "Casa van Eetvelde. © Visit Brussels")
 
 ## Festivales del Art Nouveau
 
@@ -85,7 +85,7 @@ mencionar todas las actividades pero toma nota de tres citas más: la **Feria de
 BRAFA** (del 29 de enero al 5 de febrero), la **Primavera en los cementerios** (mayo) y 
 el **Festival Artonov** (octubre). 
 
-![Fachada del Museo Horta, en Bruselas.](etheria-images/2022/12/Musee-Horta.jpg "Museo Horta, en Bruselas. © Visit Brussels/ Jean-Paul Remy")
+![Fachada del Museo Horta, en Bruselas.](https://fotos.etheriamagazine.com/2022/12/Musee-Horta.jpg "Museo Horta, en Bruselas. © Visit Brussels/ Jean-Paul Remy")
 
 ## Museos para todo el año
 
@@ -99,7 +99,7 @@ el **Museo de los Instrumentos Musicales** y el **Museo del Fin de Siglo**. Por 
 también hay que pasarse por la Casa Cauchie y la Casa Hannon que mostrarán la vida 
 cotidiana de los artistas y coleccionistas de la época. 
 
-![Interior del Museo Horta en Bruselas](etheria-images/2022/12/Musee-Horta-1.jpg "Museo Horta. © Visit Brussels/ Jean-Paul Remy")
+![Interior del Museo Horta en Bruselas](https://fotos.etheriamagazine.com/2022/12/Musee-Horta-1.jpg "Museo Horta. © Visit Brussels/ Jean-Paul Remy")
 
 ## Nuevas exposiciones de Art Nouveau Bruselas 2023
 
@@ -112,7 +112,7 @@ de piedra de la **Casa Aubecq**.
 Tampoco olvidamos la exposición ‘La arquitectura de Horta. Josef Hoffmann: más allá de 
 la belleza y la modernidad’ en el **Museo de Arte e Historia**. 
 
-![Casa Cauchie, una belleza del Art Nouveau en Bruselas.](etheria-images/2022/12/Maison-Cauchie.jpg "Casa Cauchie, una belleza del Art Nouveau en Bruselas. © Visit Brussels/ Jean-Paul Remy")
+![Casa Cauchie, una belleza del Art Nouveau en Bruselas.](https://fotos.etheriamagazine.com/2022/12/Maison-Cauchie.jpg "Casa Cauchie, una belleza del Art Nouveau en Bruselas. © Visit Brussels/ Jean-Paul Remy")
 
 ## Visitas, conferencias y juegos de luces
 
@@ -124,7 +124,7 @@ Además, se iluminará, en colaboración con Sibelga, las fachadas de cinco edif
 emblemáticos del Art Nouveau: la Casa Solvay, la Casa Hannon, el Museo Horta, la Casa 
 Cauchie y la Casa Van Eetvelde. 
 
-![Casa Solvay.](etheria-images/2022/12/casa-solvay-bruselas-850x568.jpg "Casa Solvay. © Visit Brussels")
+![Casa Solvay.](https://fotos.etheriamagazine.com/2022/12/casa-solvay-bruselas-850x568.jpg "Casa Solvay. © Visit Brussels")
 
 ? Más información en Turismo de Bruselas. 
 

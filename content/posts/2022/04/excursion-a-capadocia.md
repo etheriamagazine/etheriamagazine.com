@@ -1,7 +1,7 @@
 ---
 title: "Averigua por qué Capadocia es una excursión idónea desde Estambul"
 date: 2022-04-22
-coverImage: etheria-images/2022/04/comida-capadocia-turquia.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/04/comida-capadocia-turquia.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Estambul suele ser el destino más habitual cuando se viaja a Turquía por primera vez y no pretendemos hacerte cambiar de idea, pero si tienes más de un fin de semana, anímate a hacer una excursión a Capadocia. Es un destino completamente diferente y que depara muchas emociones.
 
-![Dos mujeres observan las Chimeneas de las Hadas durante una excursión a Capadocia](etheria-images/2022/04/chimenea-hadas-capadocia.jpg "Chimenea de las hadas, en Capadocia.")
+![Dos mujeres observan las Chimeneas de las Hadas durante una excursión a Capadocia](https://fotos.etheriamagazine.com/2022/04/chimenea-hadas-capadocia.jpg "Chimenea de las hadas, en Capadocia.")
 
 Viajar a Turquía para conocer Estambul y realizar después una excursión a Capadocia es 
 una de las mejores decisiones que puedes tomar si estás valorando recorrer esta parte 
@@ -24,7 +24,7 @@ de trayecto) o en [avión](https://www.skyscanner.es/rutas-aereas/ista/asr/estam
 (poco más de una hora de vuelo). Pero, ¿por qué viajar hasta allí en lugar de hacerlo a 
 otros destinos turcos como Éfeso o a Pamukkale? Te damos algunos motivos. 
 
-![rocas con forma de falo en el valle del Amor, en Capadocia](etheria-images/2022/04/valle-amor-capadocia.jpg "Valle del Amor, en Capadocia.")
+![rocas con forma de falo en el valle del Amor, en Capadocia](https://fotos.etheriamagazine.com/2022/04/valle-amor-capadocia.jpg "Valle del Amor, en Capadocia.")
 
 ## 7 razones para hacer una excursión a Capadocia
 
@@ -43,7 +43,7 @@ en otro planeta.
 
 ? Si te gusta ir con guía, hay una excursión por el Sur de Capadocia por unos 55 euros. [Infórmate](https://www.civitatis.com/es/capadocia/tour-sur-capadocia/?aid=10211). 
 
-![Una mujer observa el paisaje desde un globo aerostático en Capadocia](etheria-images/2022/04/vuelo-globo-capadocia.jpg "Sobrevolar en globo la Capadocia es una experiencia inolvidable. © Jeison Higuita")
+![Una mujer observa el paisaje desde un globo aerostático en Capadocia](https://fotos.etheriamagazine.com/2022/04/vuelo-globo-capadocia.jpg "Sobrevolar en globo la Capadocia es una experiencia inolvidable. © Jeison Higuita")
 
 ### 2\. Sobrevolar en globo la Capadocia
 
@@ -59,7 +59,7 @@ impresionante. Entre las agencias que gestionan estos vuelos está Civitatis, qu
 ofrece la garantía de devolución del dinero si cambias de idea. Puedes ampliar info y 
 ver precios en este [enlace](https://www.civitatis.com/es/capadocia/paseo-globo-capadocia/?aid=10211)[.](https://www.civitatis.com/es/capadocia/paseo-globo-capadocia) 
 
-![distintas imágenes del hotel Cappadocia Cave Suites](etheria-images/2022/04/hotel-lujo-cueva-capadocia.jpg "© Cappadocia Cave Suites.")
+![distintas imágenes del hotel Cappadocia Cave Suites](https://fotos.etheriamagazine.com/2022/04/hotel-lujo-cueva-capadocia.jpg "© Cappadocia Cave Suites.")
 
 ### 3\. Dormir en un hotel situado en una cueva
 
@@ -74,7 +74,7 @@ de unos 100 euros, aunque a veces hay promociones. Más económico, pero tambié
 interesante, es el albergue [The Dorm Cave By 
 Travellers](https://www.booking.com/hotel/tr/the-dorm-cave.es.html) (unos 40 euros). 
 
-![Dos jinetes pasean a caballo en Goreme, una excursión a Capadocia](etheria-images/2022/04/cappadocia-rutas-caballo.jpg "Ruta a caballo en Capadocia.")
+![Dos jinetes pasean a caballo en Goreme, una excursión a Capadocia](https://fotos.etheriamagazine.com/2022/04/cappadocia-rutas-caballo.jpg "Ruta a caballo en Capadocia.")
 
 ### 4\. Cabalgar como una amazona  
 
@@ -88,7 +88,7 @@ miradores. Y si prefieres algo más movido, los recorridos en todoterreno o en q
 defraudan. Hay decenas de empresas locales que te los ofrecerán allí mismo, en caso de 
 que prefieras valorarlo sobre la marcha. 
 
-![Curiosas formaciones rocosas en el Parque Nacional de Göreme](etheria-images/2022/04/parque-nacional-goreme.jpg "Parque Nacional de Göreme. © Ahmet Harmanli")
+![Curiosas formaciones rocosas en el Parque Nacional de Göreme](https://fotos.etheriamagazine.com/2022/04/parque-nacional-goreme.jpg "Parque Nacional de Göreme. © Ahmet Harmanli")
 
 ###  5. Pasear por un museo Patrimonio de la Humanidad
 
@@ -108,7 +108,7 @@ de tres días. Precio: 230 TL
 Museo, visita a un taller de cerámica, etc.). [Infórmate 
 aquí.](https://www.civitatis.com/es/capadocia/tour-norte-capadocia/?aid=10211) 
 
-![Iglesia tallada en la roca en Pasabag.](etheria-images/2022/04/pasabag-kilisesi-capadocia-680x1024.jpg "Iglesia tallada en la roca en Pasabag.")
+![Iglesia tallada en la roca en Pasabag.](https://fotos.etheriamagazine.com/2022/04/pasabag-kilisesi-capadocia-680x1024.jpg "Iglesia tallada en la roca en Pasabag.")
 
 ### 6\. Comprar cerámica turca
 
@@ -118,7 +118,7 @@ considerada la cuna de la cerámica turca y que cuenta con un buen número de ta
 se pueden visitar. Se encuentra a unos 8 kilómetros de Göreme, y apostaríamos a que no 
 sales de allí con las manos vacías. 
 
-![Alfarero trabajando en un torno en Capadocia](etheria-images/2022/04/alfarero-capadocia.jpg "Alfarero en Capadocia. © Chengming WANG")
+![Alfarero trabajando en un torno en Capadocia](https://fotos.etheriamagazine.com/2022/04/alfarero-capadocia.jpg "Alfarero en Capadocia. © Chengming WANG")
 
 ### 7\. Degustar ricos platos de Capadocia
 
@@ -138,7 +138,7 @@ barro sellada que se introduce en un horno _tandoor_). Cuando se va a servir, se
 el sello de una forma espectacular. ¿Y para beber? Vino, por supuesto, de alguna bodega 
 local. 
 
-![Aperitivos y te en la terraza de un hotel en Capadocia](etheria-images/2022/04/comida-capadocia-turquia.jpg "Aperitivos con vistas, no se puede pedir más. © Rehina Sultanova")
+![Aperitivos y te en la terraza de un hotel en Capadocia](https://fotos.etheriamagazine.com/2022/04/comida-capadocia-turquia.jpg "Aperitivos con vistas, no se puede pedir más. © Rehina Sultanova")
 
 ### Guía básica para una excursión a Capadocia
 
@@ -163,7 +163,7 @@ Como seguro que ya intuyes, las temperaturas en invierno bajan mucho (incluso po
 de cero grados) por lo que la mejor época para viajar a Capadocia es **entre marzo y 
 octubre**. 
 
-![Vuelo en globo en la Capadocia, en Turquía](etheria-images/2022/04/vuelo-globo-capadocia-precio.jpg "Vuelo en globo en la Capadocia, en Turquía. © Alain Bonnardeaux.")
+![Vuelo en globo en la Capadocia, en Turquía](https://fotos.etheriamagazine.com/2022/04/vuelo-globo-capadocia-precio.jpg "Vuelo en globo en la Capadocia, en Turquía. © Alain Bonnardeaux.")
 
 ##### Excursiones guiadas en Capadocia
 

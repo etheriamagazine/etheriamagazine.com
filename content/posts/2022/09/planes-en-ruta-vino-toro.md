@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Vino de Toro, secretos abrazados por el Duero"
 date: 2022-09-21
-coverImage: etheria-images/2022/09/ruta-vino-toro-volvoreta.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/09/ruta-vino-toro-volvoreta.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -12,7 +12,7 @@ La Ruta del Vino de Toro transcurre entre viñedos, bodegas, ricos guisos, puebl
 personas con un gran espíritu de lucha. Descubre la belleza de este territorio, entre 
 Zamora y Valladolid, y déjate llevar por el placer de recorrer caminos poco transitados. 
 
-![Paseando entre viñedos en la Ruta del Vino de Toro.](etheria-images/2022/09/mujer-ruta-vino-toro.jpg "Paseando entre viñedos en la Ruta del Vino de Toro. © Pepa García")
+![Paseando entre viñedos en la Ruta del Vino de Toro.](https://fotos.etheriamagazine.com/2022/09/mujer-ruta-vino-toro.jpg "Paseando entre viñedos en la Ruta del Vino de Toro. © Pepa García")
 
 Abrazadas al curso medio del río Duero, 17 poblaciones declaran su amor por el vino y se 
 agrupan para celebrar su patrimonio, su cultura y su tradición vinícola. Juntas forman 
@@ -24,7 +24,7 @@ tierras castellanas puede convertirse en el mejor mercado para adquirir suculent
 recuerdos gourmet para llevar a casa. ¿Nos acompañas a descubrir los secretos de la Ruta 
 del Vino de Toro? 
 
-![Colegiata Reserva de Bodegas Fariña.](etheria-images/2022/09/bodega-farina-colegiata.jpg "Colegiata Reserva de Bodegas Fariña. © Pepa García")
+![Colegiata Reserva de Bodegas Fariña.](https://fotos.etheriamagazine.com/2022/09/bodega-farina-colegiata.jpg "Colegiata Reserva de Bodegas Fariña. © Pepa García")
 
 ## El vino de Toro
 
@@ -46,7 +46,7 @@ conocidos. Todos ellos los podrás ir degustando en bodegas, vinotecas y restaur
 la **Ruta del Vino de Toro**. Esta ruta es una de las 36 Rutas del Vino de España 
 creadas por ACEVIN, el mayor referente enoturístico del país. 
 
-![Tomar una copa de vino en el viñedo, una experiencia muy recomendable.](etheria-images/2022/09/vino-finca-volvoreta.jpg "Tomar una copa de vino en el viñedo, una experiencia muy recomendable. © Pepa G.")
+![Tomar una copa de vino en el viñedo, una experiencia muy recomendable.](https://fotos.etheriamagazine.com/2022/09/vino-finca-volvoreta.jpg "Tomar una copa de vino en el viñedo, una experiencia muy recomendable. © Pepa G.")
 
 ## Qué hacer en la Ruta del Vino de Toro
 
@@ -66,7 +66,7 @@ tesoros. Entre ellos, la tumba del rey godo Chindasvinto y de la reina Reciberga
 pequeño museo agrupa en el mismo templo sepulcros, lápidas, inscripciones y algún que 
 otro resto arqueológico. 
 
-![Clara María enseña la iglesia y el museo con entusiasmo.](etheria-images/2022/09/museo-chindasvinto-san-roman-hornija.jpg "Clara María enseña con entusiasmo la iglesia y el museo. © Pepa García")
+![Clara María enseña la iglesia y el museo con entusiasmo.](https://fotos.etheriamagazine.com/2022/09/museo-chindasvinto-san-roman-hornija.jpg "Clara María enseña con entusiasmo la iglesia y el museo. © Pepa García")
 
 A sólo unos pasos de la iglesia, otro lugar de visita obligada es la **Escuela del 
 Ayer**, otro espacio donde el tiempo retrocede para recrear la atmósfera escolar de tus 
@@ -75,7 +75,7 @@ en 1918. Fíjate en las dos entradas, la de niños y la de niñas. Merche, la al
 San Román, confía también en terminar pronto las obras de la antigua Casa Prioral que 
 funcionará como centro de interpretación y de recepción de visitantes. Habrá que volver. 
 
-![Museo del Ayer y Sepulcro de Chindasvinto.](etheria-images/2022/09/museo-ayer-tumba-chindasvinto.jpg "Museo del Ayer y Sepulcro de Chindasvinto.")
+![Museo del Ayer y Sepulcro de Chindasvinto.](https://fotos.etheriamagazine.com/2022/09/museo-ayer-tumba-chindasvinto.jpg "Museo del Ayer y Sepulcro de Chindasvinto.")
 
 #### El Barrio de las Bodegas
 
@@ -88,7 +88,7 @@ Ahora se usa principalmente para visitas y catas pero es un placer disfrutar de 
 espacio milenario. Prueba los vinos tintos jóvenes y crianzas de Ernesto Palacio, te 
 enamorarán. 
 
-![Bodega y vino de Ernesto Palacio.](etheria-images/2022/09/bodega-ernesto-palacio.jpg "Bodega y vino de Ernesto Palacio. © P.García")
+![Bodega y vino de Ernesto Palacio.](https://fotos.etheriamagazine.com/2022/09/bodega-ernesto-palacio.jpg "Bodega y vino de Ernesto Palacio. © P.García")
 
 Otras dos poblaciones que forman también parte de la D.O. Toro en Valladolid son 
 Villafranca del Duero y Pedrosa del Río, no está de más darse una vuelta también por 
@@ -111,7 +111,7 @@ Caballeros y la iglesia del Santo Sepulcro; cenobios como el Real Monasterio del
 Spiritus; palacios y casonas, algunas visitables; y la plaza de toros (una joya de la 
 que te hablamos en este artículo). 
 
-![Calle y Colegiata de Toro.](etheria-images/2022/09/colegiata-toro.jpg "Calle y Colegiata de Toro. © P. García")
+![Calle y Colegiata de Toro.](https://fotos.etheriamagazine.com/2022/09/colegiata-toro.jpg "Calle y Colegiata de Toro. © P. García")
 
 ### 3\. Tener una (o varias) experiencias gastronómicas en la Ruta del Vino de Toro
 
@@ -124,9 +124,9 @@ peras al vino... Sus propietarios, César y Eliana, son argentinos y ofrecen lo 
 la tierra zamorana aunque en algunos platos incorporan productos propios de su tierra. 
 Es uno de esos lugares en los que siempre apetece repetir. 
 
-- ![César Ferrada y Eliana Leguizamon están al frente de Doña Negra.](etheria-images/2022/09/dona-negra-restaurante-toro.jpg)
+- ![César Ferrada y Eliana Leguizamon están al frente de Doña Negra.](https://fotos.etheriamagazine.com/2022/09/dona-negra-restaurante-toro.jpg)
     
-- ![Rabo de toro y peras al vino tinto de Doña Negra.](etheria-images/2022/09/rabo-toro-peras-vino.jpg)
+- ![Rabo de toro y peras al vino tinto de Doña Negra.](https://fotos.etheriamagazine.com/2022/09/rabo-toro-peras-vino.jpg)
     
 
 Una versión más clásica es la que ofrece la **Taberna Malaspina**, situada en la parte 
@@ -135,7 +135,7 @@ cual, sumado a su cocina tradicional y sus vinos, conforma una experiencia muy c
 Ideal para ver atardecer mientras cenas... No dejes de probar las carrilleras al vino 
 tinto D.O. Toro. 
 
-![Taberna Malaspina, en la Ruta del Vino de Toro](etheria-images/2022/09/taberna-malaspina-toro.jpg "Taberna Malaspina, en Toro. © P. García")
+![Taberna Malaspina, en la Ruta del Vino de Toro](https://fotos.etheriamagazine.com/2022/09/taberna-malaspina-toro.jpg "Taberna Malaspina, en Toro. © P. García")
 
 Y a 17 km de Toro se sitúa el pequeño pueblo de Morales de Toro, que acoge **La Panera 
 de San Juan.** Este restaurante se encuentra situado en una antigua panera del siglo 
@@ -145,7 +145,7 @@ una parada para disfrutar de comidas maridadas y catas temáticas. Te recomendam
 el vermú Aventón, a partir de uva moscatel, en el patio y curiosear entre las centenares 
 de referencias de vinos que pueblan su enoteca. 
 
-![Panera de San Juan, una excelente propuesta cerca de Toro.](etheria-images/2022/09/panera-san-juan.jpg "Panera de San Juan, una excelente propuesta cerca de Toro. © Pepa G.")
+![Panera de San Juan, una excelente propuesta cerca de Toro.](https://fotos.etheriamagazine.com/2022/09/panera-san-juan.jpg "Panera de San Juan, una excelente propuesta cerca de Toro. © Pepa G.")
 
 Por último, te hablamos del espacio de restauración de **Bodega Latarce** (Ctra. Medina 
 de Rioseco, km 1), un espacio moderno y de gran tamaño que brinda una carta informal en 
@@ -164,7 +164,7 @@ obras de arte y la etnografía brindan un recorrido alrededor de la viticultura 
 vino. No te pierdas la exposición de las etiquetas presentadas a concurso para elegir la 
 “etiqueta del año”. 
 
-![Vino y barricas de las Bodegas Farina en la DO Toro](etheria-images/2022/09/bodega-farina-toro.jpg "Bodegas Fariña fue una de las artífices de la D.O. Toro. © Pepa García")
+![Vino y barricas de las Bodegas Farina en la DO Toro](https://fotos.etheriamagazine.com/2022/09/bodega-farina-toro.jpg "Bodegas Fariña fue una de las artífices de la D.O. Toro. © Pepa García")
 
 Como curiosidad, te contamos que la familia Fariña es una de las artífices de la D.O. 
 Toro, cultiva más de 300 hectáreas de viñedo y se enorgullece de sus variedades tinta de 
@@ -172,7 +172,7 @@ Toro y malvasía blanca, con las que elaboran tintos, rosados y blancos afrutado
 animamos a realizar alguna de sus **experiencias enoturísticas** (Descubriendo Fariña, 
 Con los 5 sentidos y Comiendo en Fariña) para conocer la historia en profundidad. 
 
-![Habitación del Eurostars Valbusenda Hotel Bodega & Spa.](etheria-images/2022/09/Eurostars-Valbusenda.jpg "Habitación del Eurostars Valbusenda Hotel Bodega & Spa.")
+![Habitación del Eurostars Valbusenda Hotel Bodega & Spa.](https://fotos.etheriamagazine.com/2022/09/Eurostars-Valbusenda.jpg "Habitación del Eurostars Valbusenda Hotel Bodega & Spa.")
 
 ### 5\. Dormir entre viñedos
 
@@ -187,7 +187,7 @@ asegurada– pero en pocos minutos se llega a cualquier punto de la ruta. No dej
 realizar una visita con degustación en su moderna bodega, situada a pocos metros del 
 hotel. 
 
-![María Alfonso es la enóloga de Finca Volvoreta.](etheria-images/2022/09/maria-finca-volvoreta-709x1024.jpg "María Alfonso es la enóloga de Finca Volvoreta. © Pepa García")
+![María Alfonso es la enóloga de Finca Volvoreta.](https://fotos.etheriamagazine.com/2022/09/maria-finca-volvoreta-709x1024.jpg "María Alfonso es la enóloga de Finca Volvoreta. © Pepa García")
 
 ### 6\. Ver atardecer desde la Finca Volvoreta
 
@@ -203,7 +203,7 @@ transitados, con una copa de vino de Volvoreta en la mano, es todo lo que se pue
 para despedir el día en esta Ruta del Vino de Toro con un poco de nostalgia pero con 
 ganas de ver evolucionar esta bodega tan especial. 
 
-![Museo del Queso Chillón, en la Ruta del Vino de Toro](etheria-images/2022/09/museo-chillon-ruta-vino-toro.jpg "Museo del Queso Chillón. © Pepa García")
+![Museo del Queso Chillón, en la Ruta del Vino de Toro](https://fotos.etheriamagazine.com/2022/09/museo-chillon-ruta-vino-toro.jpg "Museo del Queso Chillón. © Pepa García")
 
 ### 7\. Visitar el Museo del Queso Chillón (y catarlo)
 
@@ -220,7 +220,7 @@ oliva virgen, pimentón de la Vera y especias picantes. Y el segundo, el **queso
 Teodolindo Añejo Selección**, madurado durante 30 meses. Si te enganchas a ellos 
 disponen de tienda online. 
 
-![Interior del Museo del Vino de Pagos del Rey.](etheria-images/2022/09/museo-vino-pagos-rey.jpg "Museo del Vino de Pagos del Rey. © Pepa García")
+![Interior del Museo del Vino de Pagos del Rey.](https://fotos.etheriamagazine.com/2022/09/museo-vino-pagos-rey.jpg "Museo del Vino de Pagos del Rey. © Pepa García")
 
 ### 8\. Aprender de historia en el Museo del Vino Pagos del Rey
 

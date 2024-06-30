@@ -1,7 +1,7 @@
 ---
 title: "Zakopane, un lugar sorprendente en Polonia con su arquitectura de madera y sus estaciones de esquí"
 date: 2021-01-27
-coverImage: etheria-images/2021/01/zakopane.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/zakopane.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ en pleno Parque Nacional de los Tatras y apenas a cien kilómetros de Cracovia, 
 su increíble arquitectura de madera que la hace diferente a cualquier otra ciudad 
 alpina. 
 
-![montes Tatras en Polonia](etheria-images/2021/01/Zakopane-tatras.jpg "Paisaje de los montes Tatras.")
+![montes Tatras en Polonia](https://fotos.etheriamagazine.com/2021/01/Zakopane-tatras.jpg "Paisaje de los montes Tatras.")
 
 Antes de conocer lo que es hoy día Zakopane hay que remontarse a su pasado, cuando este 
 pueblo metalúrgico y minero fue elegido, a mediados del siglo XIX, por el **doctor Tytus 
@@ -35,7 +35,7 @@ escritores de la categoría de los premios Nobel de Literatura Henryk Sinkiewicz
 el galardón en 1905 y es el autor de _Quo Vadis_) y Wislawa Szymborska (premiada en 
 1996). 
 
-![calle de Zakopane](etheria-images/2021/01/zakopane-calle.jpg "Calle de Zakopane. © Manena Munar")
+![calle de Zakopane](https://fotos.etheriamagazine.com/2021/01/zakopane-calle.jpg "Calle de Zakopane. © Manena Munar")
 
 También compositores como Karol Szymanowski, que dedicó a Zakopane su Ballet Harnasie, y 
 hoy cuenta con su propio museo en **Villa Atma**. El pintor Tadeusz Brzozowski fue otro 
@@ -52,7 +52,7 @@ privilegio de materiales como la madera y la piedra, por qué hacer el mismo tip
 cabaña montañesa europea cuando la creatividad polaca y su naturaleza pueden y deben 
 crear un estilo propio”. 
 
-![Villa Koliba, la primera construcción de Witkiewicz en Zakopane.](etheria-images/2021/01/Zakopane-villa-koliba.jpg "Villa Koliba, la primera construcción de Witkiewicz en Zakopane. © Manena Munar")
+![Villa Koliba, la primera construcción de Witkiewicz en Zakopane.](https://fotos.etheriamagazine.com/2021/01/Zakopane-villa-koliba.jpg "Villa Koliba, la primera construcción de Witkiewicz en Zakopane. © Manena Munar")
 
 #### Villa Koliba, tapizada de madera
 
@@ -80,7 +80,7 @@ Ejemplos de ello se ven en **Villa Czerwony Dwor**, donde vivieron los composito
 Arthur Rubinstein y Karol Szymanowski, entre otros muchos que visitaron o se alojaron en 
 la solariega mansión que hoy alberga un centro de arte local. 
 
-![Capilla de Jaszczrurówka.](etheria-images/2021/01/zakopane-capilla-jaszczurowka-768x1024.jpg "Capilla de Jaszczrurówka.")
+![Capilla de Jaszczrurówka.](https://fotos.etheriamagazine.com/2021/01/zakopane-capilla-jaszczurowka-768x1024.jpg "Capilla de Jaszczrurówka.")
 
 #### Más arquitectura de madera de Zakopane
 
@@ -101,7 +101,7 @@ cada tronco para preservar del frío y de una sola planta (todavía no había ll
 Witkiewicz). Al seguir por Koscieliska se puede brindar un recuerdo al gran fabricante 
 de violines que fue **Franciszek Marduka**, fallecido en 2007, que tenía allí su taller. 
 
-![Calle Krupówki en Zakopane](etheria-images/2021/01/Zakopane-calle-comercial.jpg "Calle Krupówki. © Manena Munar")
+![Calle Krupówki en Zakopane](https://fotos.etheriamagazine.com/2021/01/Zakopane-calle-comercial.jpg "Calle Krupówki. © Manena Munar")
 
 El **Grand Hotel Stamary** se presentará a la vuelta de cualquier esquina con su 
 imponente estructura que guarda la historia de Zakopane. Pero la calle donde ver y 
@@ -118,7 +118,7 @@ sopas polacas, sabrosas y reconfortantes, que se suelen servir en un cuenco de p
 faltarán la cerveza artesana, la cracoviana **Zywiec**, ni el pan recién hecho y la 
 manteca para untarlo (_smalec_). 
 
-![plato de trucha](etheria-images/2021/01/Zakopane-trucha.jpg "La trucha es un plato típico de Zakopane. © MM")
+![plato de trucha](https://fotos.etheriamagazine.com/2021/01/Zakopane-trucha.jpg "La trucha es un plato típico de Zakopane. © MM")
 
 ### Restaurantes donde comer bien en Zakopane
 
@@ -138,7 +138,7 @@ buena y contundente comida tradicional. No podemos dejar Krupówki sin mencionar
 **tiendas de artesanía** donde venden bolsos y zapatillas de piel, gorros y calcetines 
 de lana y también tallas de madera y cuadros pintados en cristal. 
 
-![granja de Zakopane](etheria-images/2021/01/Zakopane-granja.jpg "Granja donde se prepara el queso ahumado Oscypek, típico de los Tatras. © MM")
+![granja de Zakopane](https://fotos.etheriamagazine.com/2021/01/Zakopane-granja.jpg "Granja donde se prepara el queso ahumado Oscypek, típico de los Tatras. © MM")
 
 Los pintorescos puestos de **Oscypek**, el famoso queso de Zakopane, salpican las 
 calles, y lo venden lugareñas cubiertas por el típico pañuelo de flores. Hay que 
@@ -157,7 +157,7 @@ Internacional de Folclore de las Montañas**, que se celebra la segunda quincena
 agosto. EL **Carnaval** es legendario en el pueblo y los festivales se suceden durante 
 todo el año. 
 
-![calesa de Zakopane](etheria-images/2021/01/Zakopane-calesas.jpg "Calesa para dar un paseo por Zakopane. © MM")
+![calesa de Zakopane](https://fotos.etheriamagazine.com/2021/01/Zakopane-calesas.jpg "Calesa para dar un paseo por Zakopane. © MM")
 
 En primavera te espera el **Jazz Camping Kalatowki**, que reúne en un marco bucólico a 
 los amantes del género musical. También está el festival de Cine Montañés mientras que 
@@ -172,7 +172,7 @@ deportes de invierno. En 1936 se construyó el **teleférico** que llegaba hasta
 de Kasprowy Wierch y, más tarde, en 1936, el **funicular** que alcanzaba la cima de 
 Gubalówka. Desde aquí merece la pena contemplar la excelsa panorámica del valle. 
 
-![Paseo por el Parque Nacional de los Tatra](etheria-images/2021/01/Zakopane-parque-tatras.jpg "Paseo por el Parque Nacional de los Tatras. © Wojciech Portnicki")
+![Paseo por el Parque Nacional de los Tatra](https://fotos.etheriamagazine.com/2021/01/Zakopane-parque-tatras.jpg "Paseo por el Parque Nacional de los Tatras. © Wojciech Portnicki")
 
 La época de la era comunista cortó un tanto su éxito como capital de invierno. Tiempos 
 en que el **Hotel Kasprowy Wierch** era 'El Hotel' al que solo iban extranjeros y 
@@ -190,7 +190,7 @@ ideal para familias por su enclave en plena naturaleza y su acceso directo a **A
 Zakopane**; o el **Grand Hotel Norsalowy Dwor**, situado al lado de la pista de esquí 
 Nosal. 
 
-![montañas de Zakopane](etheria-images/2021/01/zakopane-ruta.jpg "Ruta por las montañas de Zakopane. © Alex Blokstra")
+![montañas de Zakopane](https://fotos.etheriamagazine.com/2021/01/zakopane-ruta.jpg "Ruta por las montañas de Zakopane. © Alex Blokstra")
 
 No hay que olvidarse de los hostales donde sentirse como en casa. Destaca el **Hostal 
 Willa Pod Bandera** en la foresta; el **Fachbud**, de encantadora decoración alpina; o 
@@ -208,7 +208,7 @@ artesanos tallan en hielo un castillo, figuras y el famoso laberinto que equival
 tamaño a diez pistas de tenis, donde perderse fríamente entre sesenta mil bloques 
 congelados. 
 
-![La cima de Kasprowy Wierch](etheria-images/2021/01/Zakopane-Kasprowy-Wierch.jpg "La cima de Kasprowy Wierch es fronteriza con Eslovaquia. © MM")
+![La cima de Kasprowy Wierch](https://fotos.etheriamagazine.com/2021/01/Zakopane-Kasprowy-Wierch.jpg "La cima de Kasprowy Wierch es fronteriza con Eslovaquia. © MM")
 
 Paseando entre el paisaje nevado se adivinan el bello lago de Morskie Oko y el río 
 Dunaj. Luchan por fluir entre ese hielo que les maniata hasta que florece el _crocus_ 
@@ -225,7 +225,7 @@ de Podhale. Blanco como la nieve, acompaña a los campesinos en sus andares por 
 hermosa naturaleza de los Tatras que forman parte del conjunto montañoso de la 
 cordillera de los Cárpatos. 
 
-![crocus la primera flor que brota en la primavera de los Tatras.](etheria-images/2021/01/zakopane-flores.jpg "El crocus es la primera flor que brota en la primavera de los Tatras. © MM")
+![crocus la primera flor que brota en la primavera de los Tatras.](https://fotos.etheriamagazine.com/2021/01/zakopane-flores.jpg "El crocus es la primera flor que brota en la primavera de los Tatras. © MM")
 
 ## Más información
 

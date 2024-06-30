@@ -7,7 +7,7 @@ authors:
   - Etheria Magazine
 ---
 
-![](etheria-images/2019/10/Sorteo-etheria-rusticae-Riad-Belle-Epoque-patio-900x599.jpg)
+![](https://fotos.etheriamagazine.com/2019/10/Sorteo-etheria-rusticae-Riad-Belle-Epoque-patio-900x599.jpg)
 
 Etheria Magazine y Rusticae quiere premiar a sus lectores y usuarios invitándolos a 
 conocer el magnífico hotel Riad Belle Epoque. Para ello ha organizado un sorteo donde se 

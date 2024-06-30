@@ -1,7 +1,7 @@
 ---
 title: "10 actividades para enamorarte de Vejer de la Frontera"
 date: 2020-08-11
-coverImage: etheria-images/2020/08/vejer-panoramica.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/08/vejer-panoramica.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -19,7 +19,7 @@ cerro desde el que mira a su entorno sabiéndose bello. Como estamos seguras de 
 en la lista de muchas mujeres viajeras, te contamos qué ver y qué hacer si has decidido 
 dedicar unos días de tus vacaciones a este pueblo gaditano. 
 
-![Vecinas charlando en un patio de Vejer](etheria-images/2020/08/vejer-rincon-juana-la-nieve-900x600.jpg "Vecinas charlando en un patio de Vejer. © SG")
+![Vecinas charlando en un patio de Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-rincon-juana-la-nieve-900x600.jpg "Vecinas charlando en un patio de Vejer. © SG")
 
 En verano la provincia de Cádiz se convierte en uno de los lugares más deseados de la 
 Península, y pueblos como Vejer de la Frontera son de los que aparecen en infinidad de 
@@ -31,7 +31,7 @@ todo el año y si te escapas en otoño o primavera, la disfrutarás mucho más t
 visitas de interés (con mapa 
 incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
 
-![fachada de Vejer de la Frontera con macetas de colores](etheria-images/2020/08/vejer-macetas-900x535.jpg "Fachada vejeriega. © SG")
+![fachada de Vejer de la Frontera con macetas de colores](https://fotos.etheriamagazine.com/2020/08/vejer-macetas-900x535.jpg "Fachada vejeriega. © SG")
 
 Con sus curiosas **Hazas de la Suerte** (un sistema de reparto por sorteo de lotes de 
 tierra comunales para su explotación agrícola), recientemente declaradas Bien de Interés 
@@ -50,7 +50,7 @@ villa (el de la Segur, el de Sancho IV y el de la Villa), la **torre de la Corre
 querrás sentarte un rato contemplar el entorno, es la **Plaza de España**, con su fuente 
 con coloridos azulejos y ranas y sus acogedoras palmeras. 
 
-![Iglesia del Divino Salvador en Vejer de la Frontera](etheria-images/2020/08/vejer-iglesia-divino-salvador-1-900x600.jpg "Iglesia del Divino Salvador. © SG")
+![Iglesia del Divino Salvador en Vejer de la Frontera](https://fotos.etheriamagazine.com/2020/08/vejer-iglesia-divino-salvador-1-900x600.jpg "Iglesia del Divino Salvador. © SG")
 
 **?**FREETOUR: [Visita guiada por el legado monumental de Vejer de la 
 Frontera](https://www.civitatis.com/es/vejer-de-la-frontera/free-tour-vejer-frontera/?aid=10211) 
@@ -67,7 +67,7 @@ sus carteles de Vejer inspirados en películas clásicas y sus originales cerám
 llevarte un recuerdo con toques marroquíes, una buena opción es Artesanía Paco Francis 
 (vejerartesania.com/es). 
 
-![Tienda Ecléctica Deco y piezas del Taller de Badillo en Vejer](etheria-images/2020/08/vejer-tiendas-decoracion-900x334.jpg "Tienda Ecléctica Deco y piezas del Taller de Badillo. © SG")
+![Tienda Ecléctica Deco y piezas del Taller de Badillo en Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-tiendas-decoracion-900x334.jpg "Tienda Ecléctica Deco y piezas del Taller de Badillo. © SG")
 
 ## 3\. Ver la puesta de sol en El Palmar
 
@@ -81,7 +81,7 @@ O acude a **Nacarum**, un sitio precioso y tranquilo con buena cocina y vistas
 increíbles. Si buscas algo más informal o un cóctel mientras escuchas algún concierto al 
 atardecer, la oferta es casi infinita: **El Cartero**, **Havanna**, **Gran Baba**… 
 
-![puesta de sol en el Palmar](etheria-images/2020/08/vejer-el-palmar-900x663.jpg "Luces tras la caída del sol en El Palmar. © SG")
+![puesta de sol en el Palmar](https://fotos.etheriamagazine.com/2020/08/vejer-el-palmar-900x663.jpg "Luces tras la caída del sol en El Palmar. © SG")
 
 ## 4\. Tomar algo en el mercado de San Francisco o en sus restaurantes
 
@@ -95,7 +95,7 @@ Varo** (muy buen atún), **Las Delicias** (en un precioso local, un teatro del s
 renovado) y **La Judería** (con una carta de producto local con toques morunos y 
 asiáticos y una terraza con vistas). 
 
-![Mercado de San Francisco en Vejer de la Frontera](etheria-images/2020/08/vejer-gastronomia-mercado-san-francisco.jpg "Mercado de San Francisco. © SG")
+![Mercado de San Francisco en Vejer de la Frontera](https://fotos.etheriamagazine.com/2020/08/vejer-gastronomia-mercado-san-francisco.jpg "Mercado de San Francisco. © SG")
 
 ## 5\. Seguir a los Marimantas en su ruta cantada
 
@@ -108,7 +108,7 @@ vista un ojo y que, aunque parece de tradición musulmana, su origen es castella
 en día es una de las imágenes del pueblo, hasta tal punto que en algunas heladerías 
 encontraréis el ‘**cobichoc**’ con su forma. 
 
-![Marimantas en Vejer](etheria-images/2020/08/vejer-marimantas-900x598.jpg "Escenas de la ruta 'La noche más oscura' con Marimantas. © SG")
+![Marimantas en Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-marimantas-900x598.jpg "Escenas de la ruta 'La noche más oscura' con Marimantas. © SG")
 
 ## 6\. Dormir y comer como una reina mora
 
@@ -121,7 +121,7 @@ Jardín del Califa** donde te sorprenderá su deliciosa gastronomía marroquí. 
 un salón interior llamado El Templo, y también con El Aljibe, un bonito reservado para 
 seis personas en un antiguo pozo de agua del siglo X. 
 
-![plaza de España de Vejer](etheria-images/2020/08/vejer-jardin-casa-califa-900x600.jpg "La Casa del Califa está en la animada Plaza de España. © SG")
+![plaza de España de Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-jardin-casa-califa-900x600.jpg "La Casa del Califa está en la animada Plaza de España. © SG")
 
 ## 7\. Darse un capricho en sus tiendas de ropa y bisutería
 
@@ -133,7 +133,7 @@ preciosas la tienda en sí misma es tan bonita con su decoración con piezas ant
 seguro que pasas un buen rato en ella. Justo al lado, está la tienda con las camisetas 
 más originales de Vejer de la Frontera: **La Pájara**. 
 
-![escaparates de tiendas de Vejer](etheria-images/2020/08/vejer-tiendas-centro-900x835.jpg "Querrás pararte en todas las tiendas de moda y complementos de Vejer. © SG")
+![escaparates de tiendas de Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-tiendas-centro-900x835.jpg "Querrás pararte en todas las tiendas de moda y complementos de Vejer. © SG")
 
 ## 8\. Visitar la Fundación NMAC
 
@@ -144,7 +144,7 @@ paisaje. Cuenta con una exposición permanente y muestras temporales, y te puede
 a sus visitas guiadas o ver el museo por tu cuenta. Durante el verano tiene un programa 
 de actividades en torno al arte para adultos y niños. 
 
-![obras del museo de arte contemporáneo al aire libre de Vejer de la Frontera](etheria-images/2020/08/vejer-museo-montenmedio-900x645.jpg "Museo NMAC: obras 'Plansone Duty Free' de Pascale Marthine Tayou, 'Puente' de Shen Yuan y recepción. © SG")
+![obras del museo de arte contemporáneo al aire libre de Vejer de la Frontera](https://fotos.etheriamagazine.com/2020/08/vejer-museo-montenmedio-900x645.jpg "Museo NMAC: obras 'Plansone Duty Free' de Pascale Marthine Tayou, 'Puente' de Shen Yuan y recepción. © SG")
 
 ## 9\. Realizar senderismo en la ruta de los Molinos de Agua
 
@@ -156,7 +156,7 @@ que podrás hacer en Vejer de l Frontera, consulta las que propone la Oficina de
 de Vejer en su apartado de [Turismo 
 Activo](https://turismovejer.es/index.php/turismo-activo-2/). 
 
-![Paisaje en primavera desde la ruta de los Molinos de Agua.](etheria-images/2020/08/vejer-santa-lucia-900x675.jpg "Paisaje en primavera desde la ruta de los Molinos de Agua. © SG")
+![Paisaje en primavera desde la ruta de los Molinos de Agua.](https://fotos.etheriamagazine.com/2020/08/vejer-santa-lucia-900x675.jpg "Paisaje en primavera desde la ruta de los Molinos de Agua. © SG")
 
 ## 10\. Enamorarse de Vejer
 
@@ -171,7 +171,7 @@ su fuente con ranas. No buscamos príncipes azules, ni falta que nos hacen, pero
 lanzándoles un beso quedemos rendidas para siempre a este precioso rincón blanco de 
 Andalucía. 
 
-![fuente de la plaza de España y Rincón del Beso de Vejer](etheria-images/2020/08/vejer-enamora-900x671.jpg "Seguro que si besas a un rana de la fuente de la Plaza de España te enamoras más aún de Vejer. Y de ahí, al Rincón del Beso. © SG")
+![fuente de la plaza de España y Rincón del Beso de Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-enamora-900x671.jpg "Seguro que si besas a un rana de la fuente de la Plaza de España te enamoras más aún de Vejer. Y de ahí, al Rincón del Beso. © SG")
 
 ? [TOUR 
 PRIVADO](https://www.civitatis.com/es/vejer-de-la-frontera/tour-privado-vejer-frontera/?aid=10211) 

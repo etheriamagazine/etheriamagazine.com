@@ -1,7 +1,7 @@
 ---
 title: "Praga en otoño, 3 citas en torno al diseño y el arte"
 date: 2022-09-27
-coverImage: etheria-images/2022/09/designblok-praga.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/09/designblok-praga.jpg
 categories: 
   - exposiciones
 authors: 
@@ -13,7 +13,7 @@ así que aprovecha cualquier fin de semana para conocer sus hitos turísticos y 
 eventos en torno al diseño y el arte. Si viajas a Praga en otoño no te pierdas el 
 Designblok, el Signal Festival y la exposición de Mucha. 
 
-![Espectáculo de luces durante el Festival Signal de Praga en 2021](etheria-images/2022/09/signal-festival-luces.jpg "Espectáculo de luces durante el Signal Festival de Praga en 2021. © Dusan Vondra")
+![Espectáculo de luces durante el Festival Signal de Praga en 2021](https://fotos.etheriamagazine.com/2022/09/signal-festival-luces.jpg "Espectáculo de luces durante el Signal Festival de Praga en 2021. © Dusan Vondra")
 
 Praga es uno de los mejores destinos europeos para hacer una escapada de otoño en torno 
 a la cultura. Durante cualquier fin de semana encontrarás no sólo decenas de museos de 
@@ -25,7 +25,7 @@ imprescindible para los amantes del diseño; y una **exposición de Alfons Mucha
 piezas nunca antes expuestas. Y si eres un melómano empedernido... no te pierdas fuera 
 de la capital otros festivales como los de Brno o Lednice-Valtice. 
 
-![Proyección durante el Signal Festival de 2021.](etheria-images/2022/09/Signal-festival-praga.jpg "Proyección durante el Signal Festival de 2021. © Jiri Sebek")
+![Proyección durante el Signal Festival de 2021.](https://fotos.etheriamagazine.com/2022/09/Signal-festival-praga.jpg "Proyección durante el Signal Festival de 2021. © Jiri Sebek")
 
 ## Signal Festival
 
@@ -40,7 +40,7 @@ También existe una entrada especial, Signal Plus, que permite visitar 6 instala
 exclusivas cuantas veces se quiera y, de ese modo, los usuarios pueden mostrar su apoyo 
 a los artistas del festival. Algunas proyecciones os dejarán sin palabras. 
 
-![Pieza de Nonna Lorenz para el Designblok.](etheria-images/2022/09/designblok-praga-678x1024.jpg "Pieza de Nonna Lorenz para el Designblok. © Jaro")
+![Pieza de Nonna Lorenz para el Designblok.](https://fotos.etheriamagazine.com/2022/09/designblok-praga-678x1024.jpg "Pieza de Nonna Lorenz para el Designblok. © Jaro")
 
 ## Designblok de Praga
 
@@ -59,7 +59,7 @@ En esta 24ª edición el lema elegido es **‘Forest’** y los dos principales 
 acogerán las exposiciones y eventos serán el **Monasterio de Gabriel Loci**, en el 
 barrio emergente de Smíchov, y el **Museo de Artes Decorativas**. 
 
-![En esta exposición se muestra la colección privada de la familia Mucha.](etheria-images/2022/09/mucha-coleccion-familiar.jpg "En esta exposición se muestra la colección privada de la familia Mucha. © Fundación Mucha")
+![En esta exposición se muestra la colección privada de la familia Mucha.](https://fotos.etheriamagazine.com/2022/09/mucha-coleccion-familiar.jpg "En esta exposición se muestra la colección privada de la familia Mucha. © Fundación Mucha")
 
 ## Mucha, la Colección Familiar
 
@@ -95,7 +95,7 @@ evolucionando y ampliando su programación hasta consolidarse como una instituci
 añade otras iniciativas de valor como los talleres para niños de composición sin 
 partituras. 
 
-![Uno de los privilegiados escenarios del Festival de Música Clásica de Lednice-Valtice.](etheria-images/2022/09/festival-musica-lednice.jpg "Uno de los privilegiados escenarios del Festival de Música Clásica de Lednice-Valtice. © Pavel Kristian")
+![Uno de los privilegiados escenarios del Festival de Música Clásica de Lednice-Valtice.](https://fotos.etheriamagazine.com/2022/09/festival-musica-lednice.jpg "Uno de los privilegiados escenarios del Festival de Música Clásica de Lednice-Valtice. © Pavel Kristian")
 
 Pero Chequia no sólo suena a jazz sino también a música clásica en el renombrado 
 Festival de Música Clásica de Lednice-Valtice. Esta es una gran oportunidad para gozar 

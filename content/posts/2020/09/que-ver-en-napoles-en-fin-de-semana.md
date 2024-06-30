@@ -1,7 +1,7 @@
 ---
 title: "Caótica Nápoles: 48 horas en la ciudad más canalla de Italia"
 date: 2020-09-04
-coverImage: etheria-images/2020/08/Golfo-di-Napoli-Campania.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/08/Golfo-di-Napoli-Campania.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Gamberra y decadente; majestuosa y anárquica. Caminar por las callejuelas del corazón de Nápoles es empaparse de una autenticidad que demuestra que la belleza puede adquirir innumerables formas. En la tercera ciudad más grande de Italia hay que perderse a propósito por su casco histórico, atreverse a indagar en sus entrañas y subir a sus castillos para contemplar, desde las alturas, cómo luce resplandeciente ante la atenta mirada del Vesubio.
 
-![viaje napoles, que ver en napoles](etheria-images/2020/08/que-ver-napoles-viaje-mujeres.jpg "Panorámica de Nápoles. © Pier Luigi Valente.")
+![viaje napoles, que ver en napoles](https://fotos.etheriamagazine.com/2020/08/que-ver-napoles-viaje-mujeres.jpg "Panorámica de Nápoles. © Pier Luigi Valente.")
 
 Conversaciones a voz en grito entre vecinos y los cláxones de las motos que esquivan con 
 pericia a los transeúntes son, quizás, el mapa sonoro más realista de Nápoles: solo 
@@ -25,7 +25,7 @@ de los viejos edificios. Una vez asimilado que estos detalles forman parte de su
 subir la compra desde sus balcones, pero esa es otra historia— llegará el momento de dar 
 un segundo paso: descubrir sus grandes tesoros. 
 
-![vistas del vesubio, que ver en napoles](etheria-images/2020/08/vesubio-napoles.jpg "Vista del Vesubio desde la Universidad de Nápoles. © Gregory Smirnov")
+![vistas del vesubio, que ver en napoles](https://fotos.etheriamagazine.com/2020/08/vesubio-napoles.jpg "Vista del Vesubio desde la Universidad de Nápoles. © Gregory Smirnov")
 
 ## Directos al corazón
 
@@ -44,7 +44,7 @@ paso, a su imponente obelisco. Justo enfrente, otro de esos tesoros menos conoci
 obligados: el **Pio Monte della Misericordia** guarda en sus adentros una de las 
 primeras obras de Caravaggio: _Las siete obras de la Misericordia_. 
 
-![duomo de napoles](etheria-images/2020/08/Italia-Napoles-duomo.jpg "Duomo de Nápoles. © Etheria Magazine")
+![duomo de napoles](https://fotos.etheriamagazine.com/2020/08/Italia-Napoles-duomo.jpg "Duomo de Nápoles. © Etheria Magazine")
 
 ### Via San Gregorio
 
@@ -56,7 +56,7 @@ por concentrar al gremio de artesanos que elabora los **belenes napolitanos**. E
 figuras expuestas en el exterior siempre se escapa algún que otro personaje de rabiosa 
 actualidad. 
 
-![via san gregorio, belenes, napoles](etheria-images/2020/08/napoles-belenes.jpg "Calles y patios en torno a la Via San Gregorio concentran una gran oferta de belenes. © Etheria Magazine")
+![via san gregorio, belenes, napoles](https://fotos.etheriamagazine.com/2020/08/napoles-belenes.jpg "Calles y patios en torno a la Via San Gregorio concentran una gran oferta de belenes. © Etheria Magazine")
 
 ### Capella Sansevero
 
@@ -73,7 +73,7 @@ considerado casi sacrilegio.
 dios Maradona entre cuyas paredes se atesoran innumerables recuerdos del jugador de 
 fútbol y de su etapa en el club de la ciudad. 
 
-![cristo velato, capilla san severo, viaje napoles](etheria-images/2020/08/cristo-velato-capilla-san-severo.jpg "Cristo Velato. © Capilla de San Severo")
+![cristo velato, capilla san severo, viaje napoles](https://fotos.etheriamagazine.com/2020/08/cristo-velato-capilla-san-severo.jpg "Cristo Velato. © Capilla de San Severo")
 
 ## Bajando a las entrañas
 
@@ -90,7 +90,7 @@ canalizar el agua que procedía del Vesubio. Después serían los romanos los en
 ampliar la red de conductos. Ya con la llegada de los tiempos modernos tuvieron otra 
 utilidad muy distinta: como refugios antiaéreos de la II Guerra Mundial. 
 
-![calles napoles, que ver en napoles](etheria-images/2020/08/Italia-Napoles-calles.jpg "Calle del centro histórico de Nápoles. © Etheria Magazine")
+![calles napoles, que ver en napoles](https://fotos.etheriamagazine.com/2020/08/Italia-Napoles-calles.jpg "Calle del centro histórico de Nápoles. © Etheria Magazine")
 
 ## Basilica di Santa Chiara
 
@@ -108,7 +108,7 @@ pizzería [Da Michele](http://www.damichele.net/): habrá que hacer cola, sí, p
 cuanto le demos el primer bocado a nuestra pizza _Margherita_ olvidaremos el tiempo que 
 haya podido suponer nuestra espera. Es, sin duda, un auténtico _bocatto di cardinale_. 
 
-![pizza en napoles, donde comer pizza](etheria-images/2020/08/Italia-Napoles-Pizza.jpg "Nápoles, la cuna de la pizza. © Etheria Magazine")
+![pizza en napoles, donde comer pizza](https://fotos.etheriamagazine.com/2020/08/Italia-Napoles-Pizza.jpg "Nápoles, la cuna de la pizza. © Etheria Magazine")
 
 ## Arte y mercado para un nuevo día
 
@@ -127,7 +127,7 @@ que el artista al que se le asignó cada una de ellas pudo trabajar con total li
 > profundidades del océano, la de Universitá es una explosión de colores digna de la mejor 
 > expresión psicodélica. 
 
-![estacion toledo, viaje napoles,](etheria-images/2020/08/napoles-estacion-toledo.jpg "Estación de metro Toledo, en Nápoles.")
+![estacion toledo, viaje napoles,](https://fotos.etheriamagazine.com/2020/08/napoles-estacion-toledo.jpg "Estación de metro Toledo, en Nápoles.")
 
 Una vez en el antiguo barrio español hay que deambular por los puestos del **Mercado de 
 Pignasecca**, que inunda aceras y calles con el género fresco: frutas, hortalizas, 
@@ -136,7 +136,7 @@ regateos. Un puesto ambulante de pescado frito nos hace sentir por unos instante
 mismísima Cádiz, aunque rápidamente reconectamos con Italia al catar una _sfogliatella_ 
 que nos sabe a gloria: la típica milhojas napolitana es adictiva. 
 
-![galeria umberto I, que ver en napoles](etheria-images/2020/08/galeria-umberto-I-napoles.jpg "Galería Umberto I, en Nápoles. © Victor Malyushev")
+![galeria umberto I, que ver en napoles](https://fotos.etheriamagazine.com/2020/08/galeria-umberto-I-napoles.jpg "Galería Umberto I, en Nápoles. © Victor Malyushev")
 
 ### Galeria Umberto I
 
@@ -150,7 +150,7 @@ los normandos en el siglo XII: se trata del más antiguo de los castillos napoli
 desde sus almenas las vistas al Vesubio, que se alza allá a lo lejos, y a la ciudad, son 
 de lo más atractivas. 
 
-![castel del ovo, que ver en napoles](etheria-images/2020/08/castel-ovo-napoles.jpg "Castel dell´Ovo, en Nápoles. © Vincenzo De Simone")
+![castel del ovo, que ver en napoles](https://fotos.etheriamagazine.com/2020/08/castel-ovo-napoles.jpg "Castel dell´Ovo, en Nápoles. © Vincenzo De Simone")
 
 ## Museo Arqueológico Nacional, el rey de los museos
 
@@ -165,7 +165,7 @@ procedentes de Pompeya —entre los que destaca _La battaglia di Alessandro cont
 extraído de la Casa del Fauno— y múltiples piezas saqueadas de Herculano —como una 
 figura erótica en la que Pan es sorprendido con una cabra hembra—. 
 
-![museo arqueologico, que ver en napoles](etheria-images/2020/08/museo-napoles-hercules-4822039_1280.jpg "Escultura de Hércules en el Museo Arqueológico de Nápoles.")
+![museo arqueologico, que ver en napoles](https://fotos.etheriamagazine.com/2020/08/museo-napoles-hercules-4822039_1280.jpg "Escultura de Hércules en el Museo Arqueológico de Nápoles.")
 
 Un viaje al pasado ideal para complementar, cómo no, con una visita a las antiguas 
 ciudades de Pompeya y Herculano, pero esa, amigas, es ya otra historia. 

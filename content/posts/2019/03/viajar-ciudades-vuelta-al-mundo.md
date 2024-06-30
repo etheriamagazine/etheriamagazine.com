@@ -1,7 +1,7 @@
 ---
 title: "10 ciudades que debes visitar en una vuelta al mundo"
 date: 2019-03-27
-coverImage: etheria-images/2019/03/Estambul-La-Mequita-Azul.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/Estambul-La-Mequita-Azul.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -14,7 +14,7 @@ recurrente cuando se quiere desconectar de todo. Aunque podría haber casi tanto
 itinerarios como personas, hemos seleccionado diez lugares que deberías incluir en tu 
 viaje soñado. 
 
-![La Mezquita Azul.](etheria-images/2019/03/Estambul-La-Mequita-Azul.jpg "La Mezquita Azul. © Adli Wahid.")
+![La Mezquita Azul.](https://fotos.etheriamagazine.com/2019/03/Estambul-La-Mequita-Azul.jpg "La Mezquita Azul. © Adli Wahid.")
 
 Para planificar una vuelta al mundo hace falta, además de dinero, tiempo para poder 
 disfrutar de cada destino y que no se convierta en un viaje de aeropuerto en aeropuerto. 
@@ -42,7 +42,7 @@ desierto.
 
 ?No te pierdas este artículo de [Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/). 
 
-![Panorámica de Dubái](etheria-images/2019/03/Dubai.jpg "Dubái. ©Jeshoots.com.")
+![Panorámica de Dubái](https://fotos.etheriamagazine.com/2019/03/Dubai.jpg "Dubái. ©Jeshoots.com.")
 
 ## 3\. Hong Kong
 
@@ -55,7 +55,7 @@ por el paseo marítimo Tsim Sha Tsui.
 ?No te pierdas las [visitas básicas en Honk 
 Kong](https://etheriamagazine.com/2019/09/06/que-ver-hacer-dos-dias-en-hong-kong/). 
 
-![Vista de Hong Kong, una ciudad esencial en una vuelta al mundo](etheria-images/2019/03/hong-kong.jpg "Vista de Hong Kong desde The Peak. © Pauline Mae de Leon.")
+![Vista de Hong Kong, una ciudad esencial en una vuelta al mundo](https://fotos.etheriamagazine.com/2019/03/hong-kong.jpg "Vista de Hong Kong desde The Peak. © Pauline Mae de Leon.")
 
 ## 4\. Singapur
 
@@ -64,7 +64,7 @@ como Chinatown o Little India que no puedes perderte. Además, es obligatorio ir
 animada Marina Bay y subir al Sands Sky Park (la terraza que une los tres edificios del 
 Marina Bay Sands Hotel) para contemplar las increíbles vistas. 
 
-![Los 'súper árboles' de Gardens by the Bay, en Singapur.](etheria-images/2019/03/Singapur-Super-Tree-Grove-at-Gardens-by-the-Bay.jpg "Los 'súper árboles' de Gardens by the Bay, en Singapur. © Coleen Rivas.")
+![Los 'súper árboles' de Gardens by the Bay, en Singapur.](https://fotos.etheriamagazine.com/2019/03/Singapur-Super-Tree-Grove-at-Gardens-by-the-Bay.jpg "Los 'súper árboles' de Gardens by the Bay, en Singapur. © Coleen Rivas.")
 
 ## 5\. Bali (Indonesia)
 
@@ -76,7 +76,7 @@ escalonadas, como de sus excelentes y animadas playas.
 ?No te pierdas las razones por las que no deberías [viajar a Bali durante la luna de 
 miel](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/). 
 
-![Templos de Ulun Danu Beratan en Bali.](etheria-images/2019/03/Bali-Ulun-Danu-Beratan-temple.jpg "Templos de Ulun Danu Beratan en Bali. © Sebastian Pena.")
+![Templos de Ulun Danu Beratan en Bali.](https://fotos.etheriamagazine.com/2019/03/Bali-Ulun-Danu-Beratan-temple.jpg "Templos de Ulun Danu Beratan en Bali. © Sebastian Pena.")
 
 ## 6\. Sidney (Australia)
 
@@ -87,7 +87,7 @@ una excursión por el Parque Nacional Sydney Harbour y la vida nocturna de la ci
 
 ?No te pierdas este artículo de [Australia](https://etheriamagazine.com/2019/03/07/revista-viajes-que-ver-australia/). 
 
-![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](etheria-images/2019/03/Sidney-opera.jpg "Edificio de la Opera en Sidney. © Keith Zhu.")
+![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](https://fotos.etheriamagazine.com/2019/03/Sidney-opera.jpg "Edificio de la Opera en Sidney. © Keith Zhu.")
 
 ## 7\. Auckland (Nueva Zelanda)
 
@@ -99,7 +99,7 @@ maorí en el bosque Hunua Rangers & Falls.
 ?No te pierdas este artículo de [Nueva 
 Zelanda](https://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/). 
 
-![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](etheria-images/2019/03/auckland.jpg "Auckland. © Henry-McIntosh.")
+![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](https://fotos.etheriamagazine.com/2019/03/auckland.jpg "Auckland. © Henry-McIntosh.")
 
 ## 8\. Tahití (Polinesia Francesa)
 
@@ -111,7 +111,7 @@ acercarse a alguna de las paradisíacas islas de Bora Bora o Moorea.
 
 ?No te pierdas este artículo de [Polinesia](https://etheriamagazine.com/2019/01/08/la-perla-negra-de-polinesia/). 
 
-![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](etheria-images/2019/03/bora-bora.jpg "Hotel en Bora Bora.")
+![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](https://fotos.etheriamagazine.com/2019/03/bora-bora.jpg "Hotel en Bora Bora.")
 
 ## 9\. San Francisco (Estados Unidos)
 
@@ -122,7 +122,7 @@ pierdas una visita a la isla de Alcatraz, a Chinatown y al Fisherman’s Wharf.
 ?No te pierdas este artículo de [San 
 Francisco](https://etheriamagazine.com/2021/04/09/10-visitas-imprescindibles-en-san-francisco/). 
 
-![qué ver en San Francisco](etheria-images/2018/07/viaje-san-francisco-Golden-Gate-Bridge.jpg "Golden Gate visto desde Baker Beach (Presidio). ©SFTravel Association")
+![qué ver en San Francisco](https://fotos.etheriamagazine.com/2018/07/viaje-san-francisco-Golden-Gate-Bridge.jpg "Golden Gate visto desde Baker Beach (Presidio). ©SFTravel Association")
 
 ## 10\. Nueva York (Estados Unidos)
 
@@ -135,4 +135,4 @@ al Rockefeller Center y un paseo por Central Park.
 ?No te pierdas los [mejores miradores de Nueva 
 York](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/). 
 
-![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](etheria-images/2018/05/Nueva-York-puente-de-Brooklin.jpg "Golden Gate en Nueva York.")
+![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](https://fotos.etheriamagazine.com/2018/05/Nueva-York-puente-de-Brooklin.jpg "Golden Gate en Nueva York.")

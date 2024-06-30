@@ -1,7 +1,7 @@
 ---
 title: "La Geria: la ruta de vinos definitiva para beberse Lanzarote"
 date: 2020-08-04
-coverImage: etheria-images/2018/09/La-Geria-Lanzarote.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/La-Geria-Lanzarote.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 En la isla de Manrique, donde el tiempo transcurre a otra velocidad y la calma se adueña poderosamente de nuestro ser, decidimos recorrer uno de los paisajes más fascinantes del archipiélago canario: los de La Geria, donde lo hostil del terreno no impidió a sus habitantes llevar adelante el cultivo de uno de los vinos más auténticos y especiales de todo el país.
 
-![paisaje vinos isla viajes naturaleza](etheria-images/2018/09/La-Geria-Lanzarote-1024x683.jpg "Paisaje de La Geria. © OT Lanzarote")
+![paisaje vinos isla viajes naturaleza](https://fotos.etheriamagazine.com/2018/09/La-Geria-Lanzarote-1024x683.jpg "Paisaje de La Geria. © OT Lanzarote")
 
 Pocas cosas hay más relajantes que **recorrer en coche las carreteras lanzaroteñas**. El 
 tráfico es escaso; las prisas, nulas; y las razones para deleitarnos con las vistas al 
@@ -43,7 +43,7 @@ bodegas más aclamadas —valga decir que existen 18 bodegas adscritas al Consej
 de Denominación de Origen Vinos de Lanzarote—, retrocedamos en el tiempo unos siglos 
 para entender su historia. La historia de los vinos de Lanzarote. 
 
-![vinos, la geria, Lanzarote,](etheria-images/2020/07/Vid-Bodegas-Lanzarote.jpg "Viñedo de La Geria.")
+![vinos, la geria, Lanzarote,](https://fotos.etheriamagazine.com/2020/07/Vid-Bodegas-Lanzarote.jpg "Viñedo de La Geria.")
 
 ## Un viaje a los orígenes
 
@@ -69,7 +69,7 @@ verdes de sus vides, se concentran sobre todo en la zona de La Geria, que compre
 **municipios de Tinajo, Teguise, San Bartolomé, Tías y Yaiza**. Por su singularidad, han 
 sido declarados **Paisaje Natural Protegido**. 
 
-![bodegas, Lanzarote, el grifo](etheria-images/2020/07/Cata-Bodega-El-Grifo-683x1024.jpg "Cata en bodega El Grifo.")
+![bodegas, Lanzarote, el grifo](https://fotos.etheriamagazine.com/2020/07/Cata-Bodega-El-Grifo-683x1024.jpg "Cata en bodega El Grifo.")
 
 ## El Grifo, la más antigua
 
@@ -83,7 +83,7 @@ fotografías antiguas y paneles informativos lucen una gran cantidad de piezas a
 utilizadas en su producción, entre ellas una bomba de trasiego de 1865 o una 
 encorchadora de 1870. 
 
-![bodega el grifo](etheria-images/2020/07/Museo-Bodega-El-Grifo-900x600.jpg "Museo de Bodega El Grifo.")
+![bodega el grifo](https://fotos.etheriamagazine.com/2020/07/Museo-Bodega-El-Grifo-900x600.jpg "Museo de Bodega El Grifo.")
 
 El edificio, además, corresponde a un perfecto ejemplo de arquitectura tradicional de la 
 isla, esa que se caracteriza por muros de piedra volcánica y que conserva sus vigas de 
@@ -96,7 +96,7 @@ nada como catar el producto: bien en su coqueta sala, bien en su acogedora terra
 podemos probar algunos de sus vinos más emblemáticos acompañados, además, por quesos 
 típicos de la tierra. 
 
-![la geria, Lanzarote, vinos](etheria-images/2020/07/Paisaje-La-Geria-lanzarote-900x600.jpg "Curioso paisaje de La Geria.")
+![la geria, Lanzarote, vinos](https://fotos.etheriamagazine.com/2020/07/Paisaje-La-Geria-lanzarote-900x600.jpg "Curioso paisaje de La Geria.")
 
 ## Bodegas Rubicón o cómo reinventarse
 
@@ -120,7 +120,7 @@ de algunos de los platos canarios más tradicionales en el restaurante de las bo
 que ocupa, además, la construcción más antigua de la propiedad. Frente a ella, nuestra 
 siguiente parada. 
 
-![vinos, Lanzarote, bodega la geria](etheria-images/2020/07/Cata-vinos-Bodega-La-Geria-683x1024.jpg "Cata de vinos en Bodega La Geria.")
+![vinos, Lanzarote, bodega la geria](https://fotos.etheriamagazine.com/2020/07/Cata-vinos-Bodega-La-Geria-683x1024.jpg "Cata de vinos en Bodega La Geria.")
 
 ## La Geria, vinos y paisaje
 
@@ -138,7 +138,7 @@ pasear por sus viñedos, y acabar la experiencia catando algunos de sus vinos m�
 señalados: cuenta con **13 propuestas diferentes**. 45 minutos para una visita de lo más 
 completa. 
 
-![Tienda de Bodegas La Geria](etheria-images/2020/07/Tienda-Bodega-La-Geria-900x600.jpg "Tienda de Bodegas La Geria.")
+![Tienda de Bodegas La Geria](https://fotos.etheriamagazine.com/2020/07/Tienda-Bodega-La-Geria-900x600.jpg "Tienda de Bodegas La Geria.")
 
 ## Tradición e innovación en bodegas Stratvs
 
@@ -157,7 +157,7 @@ encuentran su lugar y en el que no solo es posible adquirirlos para llevárnoslo
 vuelta a casa, sino que también se pueden catar _in situ_, aprovechando la ocasión para 
 probar, de paso, sus vinos. ¿Qué mejor ocasión para brindar por la vida? 
 
-![bodega la geria, Lanzarote](etheria-images/2020/07/Bodegas-La-Geria-900x600.jpg "Bodega La Geria, en Lanzarote.")
+![bodega la geria, Lanzarote](https://fotos.etheriamagazine.com/2020/07/Bodegas-La-Geria-900x600.jpg "Bodega La Geria, en Lanzarote.")
 
 ## Puro Rofe: la historia de un sueño
 

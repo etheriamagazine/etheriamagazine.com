@@ -1,7 +1,7 @@
 ---
 title: "Cristina Calvo, de Asuaire Travel: “Más que diferencias, todos tenemos cosas que nos unen”"
 date: 2019-01-07
-coverImage: etheria-images/2019/01/cristina-calvo-mujer-etheria.jpeg
+coverImage: https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria.jpeg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -13,7 +13,7 @@ authors:
 
 Cristina Calvo se dedica desde hace casi dos décadas al sector turístico y, además de tener un espíritu inquieto, es copropietaria de [Asuaire Travel](https://asuaire.com/viajes-a-costa-rica), una empresa especializada en viajes a Centroamérica. Su pasión por los viajes y su necesidad de comunicarse con los demás la convierten en una mujer que encaja con los valores que destacamos en esta sección de Mujeres Etheria.
 
-\[caption id="attachment\_6403" align="aligncenter" width="1024"\]![cristina calvo, asuaire travel, mujer etheria](etheria-images/2019/01/cristina-calvo-mujer-etheria-Bolivia-1024x768.jpeg "Cristina Calvo, de Asuaire Travel, en Bolivia.") Viaje a Bolivia.\[/caption\]
+\[caption id="attachment\_6403" align="aligncenter" width="1024"\]![cristina calvo, asuaire travel, mujer etheria](https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria-Bolivia-1024x768.jpeg "Cristina Calvo, de Asuaire Travel, en Bolivia.") Viaje a Bolivia.\[/caption\]
 
 Cristina creció en Costa Rica, aunque toda su familia es asturiana y ha vivido muchos años en Madrid. Es una apasionada de la tecnología, la sostenibilidad, el bienestar, el deporte, los viajes y el crecimiento personal. Considera que “todos ayudan a conectar, generar mejores relaciones y lograr que la gente se sienta mejor y más feliz”. Las historias que escucha de aquellos que se cruzan en su camino le confirman, una y otra vez, “que, más que diferencias, tenemos cosas que nos unen”. En esta entrevista comparte generosamente recuerdos, sensaciones en diversos países y sueños.
 
@@ -27,7 +27,7 @@ Aprender y conectar. Para mí viajar no es solo conocer, es conocerme a mí mism
 
 > ###### “Escuchar sus historias nos acerca y agrega valor a nuestra vida. Me motiva viajar para conocer el planeta, pero más aún para conocerme a mí misma y entender cuál es mi lugar y legado en el mundo”
 
-##### ![cristina calvo, asuaire travel, mujer etheria](etheria-images/2019/01/cristina-calvo-mujer-etheria.jpeg "Cristina Calvo, de Asuaire Travel, en uno de sus viajes.")
+##### ![cristina calvo, asuaire travel, mujer etheria](https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria.jpeg "Cristina Calvo, de Asuaire Travel, en uno de sus viajes.")
 
 ##### 3\. ¿Qué consideras que te han aportado los viajes? ¿Por qué los aconsejarías?
 
@@ -43,7 +43,7 @@ Elegiría a **Melinda Gates**. Es una mujer que siempre me ha inspirado, es una 
 
 Depende del viaje: si es un destino nuevo planifico con antelación los lugares que quiero visitar, lo que se puede hacer. Me encanta conocer e interactuar con locales entonces dedico bastante tiempo para encontrar esos lugares, como por ejemplo restaurantes donde la única extranjera soy yo. Evito seguir la listas de imperdibles como “10 lugares que no debes perderte en…” porque al final todo el mundo está siguiendo esa lista. **Prefiero hacer mi propia lista** en función de lo que quiero descubrir y llevarme de recuerdo del lugar.
 
-\[caption id="attachment\_6407" align="aligncenter" width="1024"\]![cristina calvo, asuaire travel, mujer etheria](etheria-images/2019/01/cristina-calvo-mujer-etheria-Sri-Lanka-1024x770.jpeg "Cristina Calvo, de Asuaire Travel, en Sri Lanka.") Viaje a Sri Lanka.\[/caption\]
+\[caption id="attachment\_6407" align="aligncenter" width="1024"\]![cristina calvo, asuaire travel, mujer etheria](https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria-Sri-Lanka-1024x770.jpeg "Cristina Calvo, de Asuaire Travel, en Sri Lanka.") Viaje a Sri Lanka.\[/caption\]
 
 ##### 6\. ¿Cómo te entretienes en las esperas de los aeropuertos?
 
@@ -59,7 +59,7 @@ En todos los lugares conocí gente increíble con historias fascinantes. Compart
 
 > ###### Un viaje inolvidable donde entendí que el mundo es grande y pequeño a la vez, que es más lo que nos une que lo que nos divide y que todos tenemos algo que contar, algo que escuchar, que todos estamos aprendiendo mientras vivimos y que la empatía hace que a pesar de nuestras diferencias podamos disfrutar de nuestra humanidad.
 
-\[caption id="attachment\_6406" align="aligncenter" width="1024"\]![cristina calvo, asuaire travel, mujer etheria](etheria-images/2019/01/cristina-calvo-mujer-etheria-Salar-Uyuni-1024x768.jpeg "Cristina Calvo, de Asuaire Travel, en el Salar de Uyuni (Bolivia).") Viaje al Salar de Uyuni (Bolivia).\[/caption\]
+\[caption id="attachment\_6406" align="aligncenter" width="1024"\]![cristina calvo, asuaire travel, mujer etheria](https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria-Salar-Uyuni-1024x768.jpeg "Cristina Calvo, de Asuaire Travel, en el Salar de Uyuni (Bolivia).") Viaje al Salar de Uyuni (Bolivia).\[/caption\]
 
 ##### 8\. ¿Y tu último viaje? ¿Qué es lo que más y lo que menos te ha gustado de ese destino?
 
@@ -77,7 +77,7 @@ Me encantó el concepto de "Yapa" cuando vas a un mercado a comprar algo, te “
 
 **Jordania - Israel**, **Bután** y **Sri Lanka**. Y como bonus: [Islandia](https://etheriamagazine.com/2018/09/26/islandia-la-isla-del-desafio-de-reykjavik-a-vik/).
 
-\[caption id="attachment\_6405" align="aligncenter" width="682"\]![Viaje a Islandia, cristina calvo, asuaire travel, mujer etheria](etheria-images/2019/01/cristina-calvo-mujer-etheria-Islandia-768x1024.jpeg "Cristina Calvo, de Asuaire Travel, en Islandia.") Viaje a Islandia.\[/caption\]
+\[caption id="attachment\_6405" align="aligncenter" width="682"\]![Viaje a Islandia, cristina calvo, asuaire travel, mujer etheria](https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria-Islandia-768x1024.jpeg "Cristina Calvo, de Asuaire Travel, en Islandia.") Viaje a Islandia.\[/caption\]
 
 ##### 10\. Tres viajes pendientes…
 
@@ -99,7 +99,7 @@ En Bolivia estuvimos en un hotel hecho de sal en medio del Salar de Uyuni. Se ll
 
 Mi ordenador, mi móvil con sus respectivos cargadores (los adaptadores de corriente), auriculares, pasaporte, monedero, crema de manos, cacao para los labios, cuaderno para escribir (me encantan los de hojas blancas). Si es viaje de trabajo y facturo maleta, siempre llevo ropa extra por si se pierde la maleta no tener problemas al día siguiente.
 
-\[caption id="attachment\_6404" align="aligncenter" width="1024"\]![costa rica, cristina calvo, asuaire travel, mujer etheria](etheria-images/2019/01/cristina-calvo-mujer-etheria-Costa-Rica-1024x682.jpeg "Cristina Calvo, de Asuaire Travel, en Costa Rica.") Viaje a Costa Rica.\[/caption\]
+\[caption id="attachment\_6404" align="aligncenter" width="1024"\]![costa rica, cristina calvo, asuaire travel, mujer etheria](https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria-Costa-Rica-1024x682.jpeg "Cristina Calvo, de Asuaire Travel, en Costa Rica.") Viaje a Costa Rica.\[/caption\]
 
 ##### 15\. ¿Escribes un listado antes de hacer la maleta? ¿Cuáles son tus cinco imprescindibles?
 

@@ -1,7 +1,7 @@
 ---
 title: "Helga de Alvear: \"El arte es un derecho y una necesidad\""
 date: 2021-03-03
-coverImage: etheria-images/2021/03/nuevo-museo-helga-de-alvear.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/nuevo-museo-helga-de-alvear.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 El nuevo Museo de Arte Contemporáneo Helga de Alvear nos ha recordado que existen mujeres singulares que contribuyen, sin hacer mucho ruido, a crear un mundo mejor. Desde Etheria Magazine queremos destacar la figura de la coleccionista y galerista alemana Helga de Alvear, cuyo sueño de extender el arte a todos los segmentos, se ha visto cumplido con este centro de arte de Cáceres.
 
-![museo de arte contemporaneo helga de alvear](etheria-images/2021/03/Helga-de-Alvear-732x1024.jpg "Helga de Alvear fue una de las impulsoras de la creación de ARCO. © Luis Asín")
+![museo de arte contemporaneo helga de alvear](https://fotos.etheriamagazine.com/2021/03/Helga-de-Alvear-732x1024.jpg "Helga de Alvear fue una de las impulsoras de la creación de ARCO. © Luis Asín")
 
 El nuevo Museo de Arte Contemporáneo Helga de Alvear, que se ha inaugurado en Cáceres a 
 finales de febrero, es la nueva “visita obligada” en Extremadura para los amantes del 
@@ -40,7 +40,7 @@ Hispánica de la Complutense, cuando conoció al que sería su marido, el arquit
 de Alvear. Corría el año 1959 (ella tenía entonces 23 años) cuando se casó con él, 
 sustituyendo su apellido, Müller, por el de su marido. 
 
-![helga de alvear en su museo de caceres](etheria-images/2021/03/Helga-de-Alvear-caceres.jpg "Helga de Alvear en el nuevo Museo de Cáceres. © Luis Asín")
+![helga de alvear en su museo de caceres](https://fotos.etheriamagazine.com/2021/03/Helga-de-Alvear-caceres.jpg "Helga de Alvear en el nuevo Museo de Cáceres. © Luis Asín")
 
 #### Juana Mordó, su mentora
 
@@ -64,7 +64,7 @@ habituales en aquel momento, como la fotografía, el vídeo y las instalaciones.
 > internacionales, incluso está considerada entre las 100 personas más influyentes del 
 > mundo del arte (según publicó la revista Art Review) 
 
-![coleccionista de arte helga de alvear](etheria-images/2021/03/Helga-de-Alvear-coleccionista-arte.jpg "Helga de Alvear, una vida dedicada al arte. © Luis Asín")
+![coleccionista de arte helga de alvear](https://fotos.etheriamagazine.com/2021/03/Helga-de-Alvear-coleccionista-arte.jpg "Helga de Alvear, una vida dedicada al arte. © Luis Asín")
 
 ### Soñando con tener un museo
 
@@ -81,7 +81,7 @@ investigación contra el coronavirus, sino que ya ha cedido parte de su colecci�
 público extremeño para que se exhiba en el museo y se beneficie todo el conjunto de la 
 sociedad. 
 
-![Echo Activity Olafur Eliasson](etheria-images/2021/03/Echo-Activity-Olafur-Eliasson.jpg "© Echo Activity (2017), Olafur Eliasson.")
+![Echo Activity Olafur Eliasson](https://fotos.etheriamagazine.com/2021/03/Echo-Activity-Olafur-Eliasson.jpg "© Echo Activity (2017), Olafur Eliasson.")
 
 ## La colección de Helga de Alvear, 40 años de amor por el arte
 
@@ -98,7 +98,7 @@ incorporaran a la colección antes de ser reconocidos. Otras obras de la última
 como las de Thomas Hirschhorn o Elmgreen & Dragset, nos invitan a realizar nuevas 
 lecturas en el contexto del año 2021. 
 
-![Zhang Peili en museo de arte de caceres](etheria-images/2021/03/Expand-Constantly-Zhang-Peili.jpg "© Expand Constantly (2000), Zhang Peili.")
+![Zhang Peili en museo de arte de caceres](https://fotos.etheriamagazine.com/2021/03/Expand-Constantly-Zhang-Peili.jpg "© Expand Constantly (2000), Zhang Peili.")
 
 ### Exposición inaugural
 
@@ -118,7 +118,7 @@ instalaciones, se establece un diálogo entre el arte y el entorno.
 > mundo que nos ha tocado vivir y del que a menudo sólo rozamos la superficie”. (Helga de 
 > Alvear) 
 
-![Ai Weiwei museo museo arte caceres](etheria-images/2021/03/ai-wei-wei-museo-arte-helga-del-alvear.jpg "© Descending Light (2007), Ai Weiwei.")
+![Ai Weiwei museo museo arte caceres](https://fotos.etheriamagazine.com/2021/03/ai-wei-wei-museo-arte-helga-del-alvear.jpg "© Descending Light (2007), Ai Weiwei.")
 
 ## Cómo es el Museo de Arte Contemporáneo Helga de Alvear
 
@@ -135,7 +135,7 @@ Arquitectos**, quienes ya han recibido el _Premio Architecture MasterPrize_ en l
 categoría de edificio cultural y es candidato al prestigioso Premio de Arquitectura 
 Contemporánea de la Unión Europea, Premio Mies van der Rohe. 
 
-![museo arte contemporaneo helga de alvear](etheria-images/2021/03/museo-arte-contemporaneo-helga-alvear.jpg "Exterior del Museo de Arte Contemporáneo Helga de Alvear. © Joaquín Cortés")
+![museo arte contemporaneo helga de alvear](https://fotos.etheriamagazine.com/2021/03/museo-arte-contemporaneo-helga-alvear.jpg "Exterior del Museo de Arte Contemporáneo Helga de Alvear. © Joaquín Cortés")
 
 ### Pilares de hormigón blanco
 
@@ -152,7 +152,7 @@ restaurante Atrio, el MUSAC de León o el Museo de Colecciones Reales.
 > “Estoy a punto de cumplir un sueño, una funda para la colección. Espero que esto sirva 
 > para que la gente se conciencia de que el arte es esencial” (Helga de Alvear) 
 
-![Interior del Museo de Arte Contemporaneo de caceres](etheria-images/2021/03/interior-museo-helga-alvear-caceres.jpg "Interior del Museo de Arte Contemporáneo Helga de Alvear. © Amores Pictures")
+![Interior del Museo de Arte Contemporaneo de caceres](https://fotos.etheriamagazine.com/2021/03/interior-museo-helga-alvear-caceres.jpg "Interior del Museo de Arte Contemporáneo Helga de Alvear. © Amores Pictures")
 
 ### 4 niveles de salas de exposiciones
 
@@ -183,7 +183,7 @@ Del 1 de octubre al 31 de mayo: martes a sábado de 10 a 14 y de 17 a 20 h. Del 
 junio a 30 de septiembre: martes a sábado de 10 a 14 y de 18 a 21 h. Abierto todos los 
 domingos de 10 a 14.30 h. Cerrado lunes y festivos. 
 
-![museo de helga alvear en caceres](etheria-images/2021/03/museo-arte-contemporaneo-helga-de-alvear.jpg "Exterior del museo. © Amores Pictures")
+![museo de helga alvear en caceres](https://fotos.etheriamagazine.com/2021/03/museo-arte-contemporaneo-helga-de-alvear.jpg "Exterior del museo. © Amores Pictures")
 
 ## También en Cáceres...
 

@@ -1,7 +1,7 @@
 ---
 title: "La ruta de Lola Flores en Madrid a tu aire (con plano incluido)"
 date: 2024-04-11
-coverImage: etheria-images/2024/04/lola-flores-mapa-ruta.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/04/lola-flores-mapa-ruta.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -18,7 +18,7 @@ por los lugares de la capital relacionados con esta gran artista. Teatros, salas
 fiesta, los lugares donde vivió… No te pierdas este interesante itinerario para conocer 
 un poco más sobre la vida artística y personal de La Faraona. 
 
-![Ruta de Lola Flores en Madrid.](etheria-images/2024/04/lola-flores-mapa-ruta.jpg "Ruta de Lola Flores en Madrid. © Ayuntamiento de Madrid.")
+![Ruta de Lola Flores en Madrid.](https://fotos.etheriamagazine.com/2024/04/lola-flores-mapa-ruta.jpg "Ruta de Lola Flores en Madrid. © Ayuntamiento de Madrid.")
 
 Más de cien años después de su nacimiento la arrolladora personalidad de Lola Flores 
 sigue despertando interés. La artista nació en Jerez de la Frontera, pero eligió Madrid 
@@ -55,7 +55,7 @@ de 'Zambra' en 1949. Y la sexta parada es la **Casa de Manuel López-Quiroga** q
 a Rafael de León y Antonio Quintero, compuso alguna de las coplas más conocidas de La 
 Faraona, como _La Zarzamora_ y _Ay pena, penita, penita_. 
 
-![Lola Flores en sus primeros años de carrera artística.](etheria-images/2024/04/lola-flores-ruta-joven.jpg "Lola Flores en sus primeros años de carrera artística. © CC Wikimedia Commons.")
+![Lola Flores en sus primeros años de carrera artística.](https://fotos.etheriamagazine.com/2024/04/lola-flores-ruta-joven.jpg "Lola Flores en sus primeros años de carrera artística. © CC Wikimedia Commons.")
 
 ## Su vida con el 'Pescaílla'
 
@@ -74,7 +74,7 @@ La novena etapa nos lleva a la **iglesia de la Concepción**, en el barrio de Sa
 donde en 1963 se celebró el bautizo de Rosario Flores, que tuvo como padrinos a Antonio 
 el Bailarín y a Carmen Sevilla. 
 
-![Cartel de la ruta de Lola Flores.](etheria-images/2024/04/ruta-lola-flores-cartel-718x1000.jpg "Cartel de la ruta de Lola Flores. © Ayuntamiento de Madrid")
+![Cartel de la ruta de Lola Flores.](https://fotos.etheriamagazine.com/2024/04/ruta-lola-flores-cartel-718x1000.jpg "Cartel de la ruta de Lola Flores. © Ayuntamiento de Madrid")
 
 ## Restaurantes famosos y la deuda con Hacienda
 
@@ -93,7 +93,7 @@ pesetas. Un hecho que dolió mucho a Lola, pero que también supo contarlo con h
 pidiendo una peseta a todos los españoles para pagar su deuda o diciendo que en ese 
 momento era "Lola de Hacienda" y no "Lola de España". 
 
-![Mausoleo de Lola Flores y de su hijo Antonio en el cementerio de La Almudena.](etheria-images/2024/04/mausoleo-lola-antonio-cementerio-almudena.jpg "Mausoleo de Lola Flores y de su hijo Antonio en el cementerio de La Almudena. © Kelu Robles.")
+![Mausoleo de Lola Flores y de su hijo Antonio en el cementerio de La Almudena.](https://fotos.etheriamagazine.com/2024/04/mausoleo-lola-antonio-cementerio-almudena.jpg "Mausoleo de Lola Flores y de su hijo Antonio en el cementerio de La Almudena. © Kelu Robles.")
 
 ## El final de La Faraona
 
@@ -117,7 +117,7 @@ y en [Madrid Destino](https://www.madrid-destino.com/mapas-culturales-ilustrados
 Madrid](https://www.madrid-destino.com/sites/default/files/2024-02/mapa_ilustrado_lola_flores_es_en.pdf) 
 a tu móvil u ordenador en el link anterior. 
 
-**También te puede interesar:** 
+****También en Etheria Magazine****: 
 
 [Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
 ‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/) 

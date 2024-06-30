@@ -1,7 +1,7 @@
 ---
 title: "Greta Libros con Garbo: suscripción y club de lectura para mujeres"
 date: 2022-09-10
-coverImage: etheria-images/2022/09/patri-osuna-libros-mujeres.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/09/patri-osuna-libros-mujeres.jpg
 categories: 
   - proyectos-con-alma
 authors: 
@@ -13,7 +13,7 @@ con Garbo, un nuevo proyecto cultural que lleva, a través de una suscripción, 
 mejores títulos a mujeres amantes de la lectura. Estas dos emprendedoras nos cuentan su 
 historia en primera persona en “Proyectos con alma”. 
 
-![Isabel Vilches y Patricia Osuna, fundadoras de Greta Libros con Garbo.](etheria-images/2022/09/patricia-osuna-isabel-vilches.jpg "Isabel Vilches y Patricia Osuna, fundadoras de Greta Libros con Garbo.")
+![Isabel Vilches y Patricia Osuna, fundadoras de Greta Libros con Garbo.](https://fotos.etheriamagazine.com/2022/09/patricia-osuna-isabel-vilches.jpg "Isabel Vilches y Patricia Osuna, fundadoras de Greta Libros con Garbo.")
 
 Nos llamamos Isabel Vilches y Patricia Osuna. Somos periodistas, madrileñas, ex 
 compañeras en El Mundo y ahora socias en Greta Libros con Garbo, una suscripción de 
@@ -26,7 +26,7 @@ Emprender es sinónimo de tropezar, equivocarse, aprender y seguir hacia delante
 nuestro caso, motivación y entusiasmo no nos faltan desde que arrancamos el pasado mes 
 de abril de 2022. 
 
-![Mujer leyendo en un diván](etheria-images/2022/09/libros-mujeres.jpg "Una suscripción enfocada a mujeres lectoras.")
+![Mujer leyendo en un diván](https://fotos.etheriamagazine.com/2022/09/libros-mujeres.jpg "Una suscripción enfocada a mujeres lectoras.")
 
 ## ¿Qué incluye esta suscripción de libros para mujeres?
 
@@ -56,7 +56,7 @@ su casa. Y además lo acompañamos de una guía de lectura, de un capricho (pequ
 artículos de cosmética, decoración o moda) y de un _packaging_ reutilizable y muy 
 versátil. 
 
-![suscripciones de Greta Libros con Garbo](etheria-images/2022/09/suscripcion-libros-regalo.jpg "Existen 3 suscripciones enfocadas a distintos géneros literarios.")
+![suscripciones de Greta Libros con Garbo](https://fotos.etheriamagazine.com/2022/09/suscripcion-libros-regalo.jpg "Existen 3 suscripciones enfocadas a distintos géneros literarios.")
 
 ### ¿Cómo sorprendemos a nuestras suscriptoras?
 
@@ -79,7 +79,7 @@ aunque están moderados por periodistas, editoras, psicólogas, los propios auto
 dejan de ser reuniones distendidas, casi una charla entre amigas con una pasión común: 
 los libros. 
 
-![Patricia Osuna e Isabel Vilches posan con libros](etheria-images/2022/09/patri-osuna-libros-mujeres.jpg "Suscripción y club de lectura, un nuevo emprendimiento cultural.")
+![Patricia Osuna e Isabel Vilches posan con libros](https://fotos.etheriamagazine.com/2022/09/patri-osuna-libros-mujeres.jpg "Suscripción y club de lectura, un nuevo emprendimiento cultural.")
 
 ### Géneros literarios que se ofrecen
 
@@ -109,7 +109,7 @@ tecnología y los envíos a domicilio acortan distancias. Con una suscripción d
 demuestras que quieres a la destinataria y cada mes, cuando reciba el libro, se acordará 
 de ti. 
 
-![Cada libro se entrega con una bolsa y un pequeño regalo.](etheria-images/2022/09/greta-libros-garbo.jpg "Cada libro se entrega con una bolsa, una guía de lectura y un pequeño regalo.")
+![Cada libro se entrega con una bolsa y un pequeño regalo.](https://fotos.etheriamagazine.com/2022/09/greta-libros-garbo.jpg "Cada libro se entrega con una bolsa, una guía de lectura y un pequeño regalo.")
 
 ## Libros y viajes, la pareja ideal
 

@@ -1,7 +1,7 @@
 ---
 title: "Por qué es una buena idea viajar a Futuroscope en 2023"
 date: 2023-03-20
-coverImage: etheria-images/2023/03/Futuroscope-casa-al-reves.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/03/Futuroscope-casa-al-reves.jpg
 categories: 
   - viaje-en-familia
   - parques-ocio
@@ -16,7 +16,7 @@ ofrecer atracciones y servicios novedosos a los que ya conocen el parque. Este 2
 llega con una atracción 4D basada en una superheroína francesa, una singular casa al 
 revés y un alojamiento sostenible. 
 
-![atracciones y hotel de Futuroscope](etheria-images/2023/03/Futuroscope-novedades-2023.jpg "Novedades en Futuroscope: Étincelle, la Casa al Revés y el alojamiento Ecolodgee.")
+![atracciones y hotel de Futuroscope](https://fotos.etheriamagazine.com/2023/03/Futuroscope-novedades-2023.jpg "Novedades en Futuroscope: Étincelle, la Casa al Revés y el alojamiento Ecolodgee.")
 
 Futuroscope ofrece muchos motivos para ser visitado. Este parque, que basa su 
 entretenimiento en la tecnología, añade cada año nuevas atracciones y servicios para que 
@@ -36,7 +36,7 @@ museo de los superhéroes, en una divertida aventura llena de acción. La atracc
 desarrolla sobre una plataforma que vibra al ritmo de la película y en la que se 
 permanece de pie. 
 
-![Atracción 'Étincelle, la maldición del ópalo negro' en Futuroscope](etheria-images/2023/03/Futuroscope-Etincelle.jpg "Atracción 'Étincelle, la maldición del ópalo negro'.")
+![Atracción 'Étincelle, la maldición del ópalo negro' en Futuroscope](https://fotos.etheriamagazine.com/2023/03/Futuroscope-Etincelle.jpg "Atracción 'Étincelle, la maldición del ópalo negro'.")
 
 ### La casa al revés
 
@@ -44,7 +44,7 @@ Esta singular casa es un nuevo espacio donde no podrás dejar de hacerte fotogra
 Aquí todo está al revés, lo que proporciona unos curiosos escenarios que podrías 
 utilizar para publicar divertidas fotos y vídeos en tus redes sociales. 
 
-![La Casa al Revés](etheria-images/2023/03/Futuroscope-casa-al-reves.jpg "La Casa al Revés.")
+![La Casa al Revés](https://fotos.etheriamagazine.com/2023/03/Futuroscope-casa-al-reves.jpg "La Casa al Revés.")
 
 ### Hotel Ecolodgee
 
@@ -59,7 +59,7 @@ ni televisión, aunque sí una buena conexión wifi y juegos de mesa para contin
 disfrutando en familia después de un ajetreado día en el parque. Además, el desayuno se 
 recibe en la habitación para disfrutarlo con total tranquilidad. 
 
-![Interior de uno de los lodges del alojamiento Ecolodgee](etheria-images/2023/03/Futuroscope-Ecolodgee-Habitacion.jpg "Interior de uno de los lodges del alojamiento Ecolodgee.")
+![Interior de uno de los lodges del alojamiento Ecolodgee](https://fotos.etheriamagazine.com/2023/03/Futuroscope-Ecolodgee-Habitacion.jpg "Interior de uno de los lodges del alojamiento Ecolodgee.")
 
 ## Compromiso con el medio ambiente
 
@@ -87,7 +87,7 @@ decoración está inspirada en la tecnología y la ciencia ficción. Cuenta con 
 habitaciones pensadas para 4 o 5 personas. Una opción excelente para alojarse cerca del 
 parque aunque, eso sí, hay que hacer las reservas con tiempo porque está muy solicitado. 
 
-![exterior hotel Station Cosmos de Futuroscope](etheria-images/2023/03/Futuroscope-Hotel-Station-Cosmos.jpg "El exterior del hotel Station Cosmos también está ambientado en el espacio.")
+![exterior hotel Station Cosmos de Futuroscope](https://fotos.etheriamagazine.com/2023/03/Futuroscope-Hotel-Station-Cosmos.jpg "El exterior del hotel Station Cosmos también está ambientado en el espacio.")
 
 ### Restaurante Space Loop
 
@@ -108,7 +108,7 @@ al espacio. **La Máquina del Tiempo** de los Rabbids te harán fan de estos sin
 “conejos” gracias a su animada historia en 3D; y **Baila con Robots** te hará seguir la 
 música del DJ Martin Solveig en unos robots de siete metros. 
 
-![Atracción 'Objetivo Marte' y espectáculo 'La llave de los sueños' en Futuroscope](etheria-images/2023/03/Futuroscope-objetivo-marte-espectaculo.jpg "Atracción 'Objetivo Marte' y espectáculo 'La llave de los sueños'.")
+![Atracción 'Objetivo Marte' y espectáculo 'La llave de los sueños' en Futuroscope](https://fotos.etheriamagazine.com/2023/03/Futuroscope-objetivo-marte-espectaculo.jpg "Atracción 'Objetivo Marte' y espectáculo 'La llave de los sueños'.")
 
 Además, la ciudad de diversión para niños **Futuropolis** cuenta con 21 juegos y 
 atracciones para toda la familia y el espectáculo nocturno '**La Llave de los Sueños**', 
@@ -142,7 +142,7 @@ para entradas de más días con alojamiento en los hoteles de Futuroscope. Lo me
 consultar en su página web ya que también hay ofertas puntuales para determinadas 
 fechas. 
 
-![atracción de bomberos en Futuroscope](etheria-images/2023/03/futuroscope-area-infantil.jpg "Diversión en Futuropolis.")
+![atracción de bomberos en Futuroscope](https://fotos.etheriamagazine.com/2023/03/futuroscope-area-infantil.jpg "Diversión en Futuropolis.")
 
 ### ¿Cuánto tiempo hay que dedicar a ver Futuroscope?
 

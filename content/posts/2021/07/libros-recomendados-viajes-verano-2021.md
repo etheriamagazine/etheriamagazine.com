@@ -1,7 +1,7 @@
 ---
 title: "Los libros son para el verano, novedades viajeras y didácticas"
 date: 2021-07-23
-coverImage: etheria-images/2021/07/libros-verano-2021.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/07/libros-verano-2021.jpg
 categories: 
   - libros-de-viajes
   - planes-cultura-ocio
@@ -14,7 +14,7 @@ gastronómicos, fotográficos o con curiosidades, la has encontrado. En este lis
 encontrarás lecturas útiles, alguna novela entretenida y sugerencias para que organices 
 tus próximos viajes desde la comodidad de la tumbona. 
 
-![libros recomendados verano 2021](etheria-images/2021/07/libros-verano-2021.jpg "Aprovecha el verano para aprender, entretenerte y organizar tus viajes. © Dan Dumitriu")
+![libros recomendados verano 2021](https://fotos.etheriamagazine.com/2021/07/libros-verano-2021.jpg "Aprovecha el verano para aprender, entretenerte y organizar tus viajes. © Dan Dumitriu")
 
 Los grandes propósitos se suelen plantear a comienzos de año, durante las vacaciones o 
 en la entrada del curso escolar. En enero tenemos todo un año por delante para llevarlos 
@@ -26,7 +26,7 @@ viajeros en tus próximas escapadas.
 
 ## Libros recomendados
 
-![rutas de leyenda para viajar con ninos Anaya](etheria-images/2021/07/rutas-leyenda-anaya-touring.jpg "Rutas de leyenda, de Anaya Touring.")
+![rutas de leyenda para viajar con ninos Anaya](https://fotos.etheriamagazine.com/2021/07/rutas-leyenda-anaya-touring.jpg "Rutas de leyenda, de Anaya Touring.")
 
 ### 1\. Rutas de leyenda para viajar con niños por España
 
@@ -36,7 +36,7 @@ durante los trayectos. Si te sientes identificado, esta obra puede ayudarte porq
 López y María Fernández comparten historias muy curiosas y decenas de pistas para los 
 viajes con niños, actividades, visitas imprescindibles y alojamientos recomendados. 
 
-![La vuelta al mundo en 80 recetas](etheria-images/2021/07/vuelta-mundo-recetas-superlopi.jpg "La vuelta al mundo en 80 recetas.")
+![La vuelta al mundo en 80 recetas](https://fotos.etheriamagazine.com/2021/07/vuelta-mundo-recetas-superlopi.jpg "La vuelta al mundo en 80 recetas.")
 
 ### 2\. La vuelta al mundo en 80 recetas
 
@@ -49,7 +49,7 @@ ofrecer entre 6 y 10 platos de Inglaterra, Francia, Italia, Egipto, India, China
 Estados Unidos e Irlanda. Un manual muy útil, de la editorial Oberon, contado de forma 
 sencilla para que todo el mundo pueda hacer sus pinitos en la cocina. 
 
-![los pescadores editorial libros verano 2021](etheria-images/2021/07/los-pescadores-nordica.jpg "© 'Los pescadores', de la editorial Nórdica.")
+![los pescadores editorial libros verano 2021](https://fotos.etheriamagazine.com/2021/07/los-pescadores-nordica.jpg "© 'Los pescadores', de la editorial Nórdica.")
 
 ### 3\. Los pescadores
 
@@ -60,7 +60,7 @@ que se instalaron allí desde la costa del mar del Norte. En aquel lugar sus cos
 las de los residentes entran en conflicto. Editado por **Nórdica** es “un texto esencial 
 para comprender cómo el fundamentalismo religioso afecta a la vida de las personas”. 
 
-![los colores y tu libros para el verano 2021](etheria-images/2021/07/los-colores-y-tu.jpg "'Los colores y tú', de PhotoClub.")
+![los colores y tu libros para el verano 2021](https://fotos.etheriamagazine.com/2021/07/los-colores-y-tu.jpg "'Los colores y tú', de PhotoClub.")
 
 ### 4\. Los colores y tú, el manual fotográfico que necesitas
 
@@ -72,7 +72,7 @@ disfrutarás de cada página, y además le podrás sacar mucho partido en tus pr
 creaciones. Otro de sus libros que te puede interesar es ‘Ayúdame a mirar’, también 
 editado por Photoclub. Precio: [desde 28,45 €](https://amzn.to/3zgwVp3). 
 
-![viaja vegano anaya touring](etheria-images/2021/07/viaja-vegano-anaya.jpg "'Viaja vegano', editado por Anaya Touring.")
+![viaja vegano anaya touring](https://fotos.etheriamagazine.com/2021/07/viaja-vegano-anaya.jpg "'Viaja vegano', editado por Anaya Touring.")
 
 ### 5\. Viaja vegano
 
@@ -86,7 +86,7 @@ No olvida tampoco los viajes familiares o cómo desplazarse con las mascotas. Lo
 disfrutar. Precio: [desde 10,44 € en versión digital, y 17,10 € en 
 papel](https://amzn.to/3BmDmsn). 
 
-![manada editorial oberon](etheria-images/2021/07/libro-manada-oberon-717x1024.jpg "'Manada', editado por Oberon.")
+![manada editorial oberon](https://fotos.etheriamagazine.com/2021/07/libro-manada-oberon-717x1024.jpg "'Manada', editado por Oberon.")
 
 ### 6\. Manada. Cómo unirnos, liberar nuestro poder...
 
@@ -98,7 +98,7 @@ la inclusión. En ‘Manada’ comparte, a partir de sus propias vivencias, algu
 para empoderar a la mujer además de señalar la necesidad de unión en la lucha por la 
 igualdad. Precio: [desde 12,30 €](https://amzn.to/3BplygC). 
 
-![101 lugares portugal ideas viaje](etheria-images/2021/07/101-lugares-portugal.jpg "'101 lugares de Portugal'.")
+![101 lugares portugal ideas viaje](https://fotos.etheriamagazine.com/2021/07/101-lugares-portugal.jpg "'101 lugares de Portugal'.")
 
 ### 7\. 101 lugares de... Portugal o de Francia
 
@@ -110,7 +110,7 @@ Francia sorprendentes](https://amzn.to/3iwKRVh)’. Son dos títulos perfectos p
 inspirar futuras escapadas. Todas las ideas vienen ilustradas con amplias fotografías, 
 lo que ayuda bastante a alegir destino. 
 
-![Trekking por Europa de anaya](etheria-images/2021/07/trekking-europa.jpg "Trekking por Europa.")
+![Trekking por Europa de anaya](https://fotos.etheriamagazine.com/2021/07/trekking-europa.jpg "Trekking por Europa.")
 
 ### 8\. En bici, en moto o a pie
 
@@ -127,7 +127,7 @@ profesional como Pedro Pardo dispuesto a llevarlos por las carreteras más bonit
 España. Con estos tres libros para el verano 2021 tendrás cubierta buena parte de tus 
 viajes del año. 
 
-![como alimentar a un dictador oberon](etheria-images/2021/07/como-alimentar-a-un-dictador-649x1024.jpg "'Cómo alimentar a un dictador', de la editorial Oberon.")
+![como alimentar a un dictador oberon](https://fotos.etheriamagazine.com/2021/07/como-alimentar-a-un-dictador-649x1024.jpg "'Cómo alimentar a un dictador', de la editorial Oberon.")
 
 ### 9\. Cómo alimentar a un dictador
 
@@ -138,7 +138,7 @@ alimentar a un dictador' ha sido escrito por el periodista polaco Witold Szablow
 las anécdotas resultan tan curiosas que te lo leerás en dos tardes. Precio: [desde 21,80 
 €](https://amzn.to/3ircT4o). 
 
-![ciudades sostenibles](etheria-images/2021/07/ciudades-sostenibles-anaya.jpg "Ciudades sostenibles, escrito por Miguel Cuesta.")
+![ciudades sostenibles](https://fotos.etheriamagazine.com/2021/07/ciudades-sostenibles-anaya.jpg "Ciudades sostenibles, escrito por Miguel Cuesta.")
 
 ### 10\. Viaje sostenible y Ciudades sostenibles
 
@@ -152,7 +152,7 @@ sostenibles](https://amzn.to/3xMZ9Yd)’ se comparten iniciativas en medios urba
 españoles (Vitoria, Barcelona y Madrid) y europeas como Viena, Milán o Helsinki, con 
 bonitas ilustraciones. 
 
-![cuaderno actividades Lonely Planet](etheria-images/2021/07/cuaderno-de-actividades-lonely-planet.jpg "'Cuaderno de actividades para mentes viajeras', de Lonely Planet.")
+![cuaderno actividades Lonely Planet](https://fotos.etheriamagazine.com/2021/07/cuaderno-de-actividades-lonely-planet.jpg "'Cuaderno de actividades para mentes viajeras', de Lonely Planet.")
 
 ### Bonus: Cuaderno de actividades para mentes viajeras
 

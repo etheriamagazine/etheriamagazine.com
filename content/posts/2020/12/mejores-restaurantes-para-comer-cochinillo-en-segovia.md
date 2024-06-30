@@ -1,7 +1,7 @@
 ---
 title: "Los tres tenores del cochinillo en Segovia, una historia de amor correspondido"
 date: 2020-12-01
-coverImage: etheria-images/2020/11/restaurante-jose-maria-Cochinillo.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-Cochinillo.jpg
 categories: 
   - mejores-restaurantes-gastronomia
 authors: 
@@ -13,7 +13,7 @@ los tres restaurantes segovianos de los que siempre se sale feliz: Casa Duque, C
 José María. En este artículo encontrarás razones más que convincente para saber dónde 
 tendrías que ir para comer el mejor cochinillo de Segovia. 
 
-![Cochinillo deshuesado y vino Pago de Carraovejas del restaurante José María (Segovia).](etheria-images/2020/11/restaurante-jose-maria-segovia.jpg "Cochinillo deshuesado y vino Pago de Carraovejas del restaurante José María (Segovia).")
+![Cochinillo deshuesado y vino Pago de Carraovejas del restaurante José María (Segovia).](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-segovia.jpg "Cochinillo deshuesado y vino Pago de Carraovejas del restaurante José María (Segovia).")
 
 Si hay algo de lo que están necesitadas las crónicas de viajes NO es de metáforas 
 orfebreras. Así que digámoslo rápido y pasemos a lo siguiente: **Casa Duque**, 
@@ -41,7 +41,7 @@ playa. El entorno te transmuta un rato en señorón o señorona, y el anterior o
 anuncios navideños de Campofrío (“fíjate lo que tenemos aquí al lado”). Y ahora veamos 
 por qué. 
 
-![Cochinillos en el horno, en Casa Duque.](etheria-images/2020/11/restaurante-duque-segovia-cochinillos.jpg "Cochinillos en el horno, en © Casa Duque.")
+![Cochinillos en el horno, en Casa Duque.](https://fotos.etheriamagazine.com/2020/11/restaurante-duque-segovia-cochinillos.jpg "Cochinillos en el horno, en © Casa Duque.")
 
 ## Casa Duque, la nobleza del cochinillo
 
@@ -62,7 +62,7 @@ A unos pasos del zaguán en el que su bisabuela Feliciana tuvo la feliz idea de 
 escabeches a los tratantes de ganado y hortalizas que venían al mercado de Segovia en 
 1895. 
 
-![Marisa Duque con sus hijos, 4ª generación de Casa Duque.](etheria-images/2020/11/restaurante-Casa-Duque-familia.jpg "© Marisa Duque con sus hijos, 4ª generación de Casa Duque.")
+![Marisa Duque con sus hijos, 4ª generación de Casa Duque.](https://fotos.etheriamagazine.com/2020/11/restaurante-Casa-Duque-familia.jpg "© Marisa Duque con sus hijos, 4ª generación de Casa Duque.")
 
 Marisa Duque, la cuarta generación, se define como guardiana de la casa: “Duque siempre 
 ha sido una casa, una casa de comida y también mi casa, la casa donde nacieron mi padre 
@@ -72,7 +72,7 @@ afanan en contar una historia. Una siempre sencilla y memorable, en torno a sus
 restaurantes y a un producto que, se le acompañe como se le acompañe, es el que aquí ha 
 llegado más lejos con sus patitas cortas. 
 
-![Comedor San Ildefonso, en Casa Duque.](etheria-images/2020/11/restaurante-duque-comedor-san-ildefonso.jpg "© Comedor San Ildefonso, en Casa Duque.")
+![Comedor San Ildefonso, en Casa Duque.](https://fotos.etheriamagazine.com/2020/11/restaurante-duque-comedor-san-ildefonso.jpg "© Comedor San Ildefonso, en Casa Duque.")
 
 ### Trece comedores en Casa Duque
 
@@ -89,7 +89,7 @@ Luisa, que formó un equipo maravilloso con mi padre. Y ahora a mí me preguntan
 ayuda su marido? Pues no, cada uno tiene su oficio y, por suerte, la hostelería es el 
 trabajo menos sexista del mundo”. 
 
-![Cordero y judiones en Casa Duque (Segovia).](etheria-images/2020/11/restaurante-duque-segovia-cordero-judiones.jpg "Cordero y judiones en © Casa Duque (Segovia).")
+![Cordero y judiones en Casa Duque (Segovia).](https://fotos.etheriamagazine.com/2020/11/restaurante-duque-segovia-cordero-judiones.jpg "Cordero y judiones en © Casa Duque (Segovia).")
 
 ## Cándido, la invención de Segovia
 
@@ -103,7 +103,7 @@ saturnal aparte, en lo curioso de que Ariel, argentino, con menos de tres años 
 España, conozca el ritual segoviano de cortar con un plato el cochinillo y, luego, 
 tirarlo al suelo al estilo Thor bebiendo aguamiel. 
 
-![Corteza crujiente e interior tierno en el Mesón Cándido.](etheria-images/2020/11/candido-segovia-cochinillo.jpg "Corteza crujiente e interior tierno en el Mesón Cándido. © Etheria M.")
+![Corteza crujiente e interior tierno en el Mesón Cándido.](https://fotos.etheriamagazine.com/2020/11/candido-segovia-cochinillo.jpg "Corteza crujiente e interior tierno en el Mesón Cándido. © Etheria M.")
 
 Hoy me he acordado de eso, cuando Cándido López –tercera generación en el [Mesón 
 Cándido](https://mesondecandido.es)– me hablaba de cómo su abuelo inventó esa subversión 
@@ -116,7 +116,7 @@ plato** contra el suelo, aunque puede que eso evolucione y se convierta algún d
 deporte olímpico (para entenderlo hay que ver este [vídeo](https://youtu.be/R39wpXbk-ko) 
 de otro restaurante segoviano de mérito, el Narizotas). 
 
-![Alberto Cándido, la 2ª generación del Mesón Cándido](etheria-images/2020/11/Alberto-candido-segovia.jpg "Alberto Cándido, la 2ª generación del © Mesón Cándido.")
+![Alberto Cándido, la 2ª generación del Mesón Cándido](https://fotos.etheriamagazine.com/2020/11/Alberto-candido-segovia.jpg "Alberto Cándido, la 2ª generación del © Mesón Cándido.")
 
 ### Cándido, el asador de las estrellas
 
@@ -134,7 +134,7 @@ NASA que escribió en el libro de visitas: “sin Segovia no luna”). O prácti
 los chinos de China. Todos están repartidos en fotos por las tres plantas que dan a la 
 plaza del Azoguejo y al Acueducto. 
 
-![Mesón de Cándido junto al Acueducto romano de Segovia](etheria-images/2020/11/meson-candido-fachada-puente-segovia.jpg "© Mesón de Cándido junto al Acueducto romano de Segovia.")
+![Mesón de Cándido junto al Acueducto romano de Segovia](https://fotos.etheriamagazine.com/2020/11/meson-candido-fachada-puente-segovia.jpg "© Mesón de Cándido junto al Acueducto romano de Segovia.")
 
 Es casi el único local de asados donde ladrillos, vigas de madera y tabas de cordero, 
 esa omnipresentista **decoración castellana de mesón castellano** con frases pintadas 
@@ -159,7 +159,7 @@ preferida la preside una imagen del mejor Cary Grant, el que tiene mi edad. Da a
 arcos bien gordos del Acueducto, tostados por las gafas doradas que le ponen los 
 vitrales. Siempre le dejo que bendiga él la mesa. 
 
-![Cochinillo deshuesado a fuego lento con agridulce de manzana en rulo crujiente de restaurante José María.](etheria-images/2020/11/restaurante-jose-maria-Cochinillo.jpg "Cochinillo deshuesado a fuego lento con agridulce de manzana en rulo crujiente de © restaurante José María.")
+![Cochinillo deshuesado a fuego lento con agridulce de manzana en rulo crujiente de restaurante José María.](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-Cochinillo.jpg "Cochinillo deshuesado a fuego lento con agridulce de manzana en rulo crujiente de © restaurante José María.")
 
 ## José María, el eterno movimiento
 
@@ -179,7 +179,7 @@ así que me he pasado toda una vida estudiando para eso, centrado en la I+D del
 cochinillo, en como cuidar el producto desde las madres hasta la mesa; desde la 
 selección de raza y los cruces hasta el transporte o la elección de horno”, explica. 
 
-![José María y su hija Rocío en el ritual de partir el cochinillo.](etheria-images/2020/11/restaurante-jose-maria-Comedor-Corte-cochinillo.jpg "José María y su hija Rocío en el ritual de partir el cochinillo.")
+![José María y su hija Rocío en el ritual de partir el cochinillo.](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-Comedor-Corte-cochinillo.jpg "José María y su hija Rocío en el ritual de partir el cochinillo.")
 
 Esta misma curiosidad es la que le llevó en los 90 a promover una marca de calidad del 
 cochinillo. “Cuando yo empecé ya había grandes maestros y siempre quise aportar mi 
@@ -191,7 +191,7 @@ envían a casa para que sólo tengas que calentarlo durante unos 30 minutos y co
 toque crujiente de la piel, que al final es lo que distingue al buen cochinillo 
 segoviano. 
 
-![Cochinillo y vino de Pago de Carraovejas. v](etheria-images/2020/11/restaurante-jose-maria-Cochinillo-y-Pago.jpg "Cochinillo y vino de Pago de Carraovejas.")
+![Cochinillo y vino de Pago de Carraovejas. v](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-Cochinillo-y-Pago.jpg "Cochinillo y vino de Pago de Carraovejas.")
 
 ### Cochinillo y vino del Pago de Carraovejas
 
@@ -204,7 +204,7 @@ importante) del negocio familiar. Si su hija Rocío –directora general del res
 José María– se encarga de lo comestible, su hijo Pedro –director general de Pago de 
 Carraovejas– es el que lleva lo de beber. 
 
-![fachada y comedor restaurante jose maria Segovia](etheria-images/2020/11/restaurante-jose-maria-cochinillo-segovia.jpg "Fachada e interior del restaurante José María.")
+![fachada y comedor restaurante jose maria Segovia](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-cochinillo-segovia.jpg "Fachada e interior del restaurante José María.")
 
 No voy a describir un vino que está en todas partes, al alcance de cualquiera que quiera 
 rascarse el bolsillo (y encuentre algo al fondo), y que, no sólo es uno de mis 

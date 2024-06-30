@@ -1,7 +1,7 @@
 ---
 title: "10 estaciones de esquí en España donde estirar el presupuesto al máximo"
 date: 2021-11-25
-coverImage: etheria-images/2021/11/estaciones-esqui-baratas.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/estaciones-esqui-baratas.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Si ya has empezado a desempolvar la ropa de esquí, sólo te queda elegir destino para disfrutar de tu deporte favorito. En este artículo encontrarás las 10 estaciones de esquí más baratas de España, valorando el forfait y el alojamiento, para que lo tengas en cuenta al planificar tus vacaciones de invierno.
 
-![esqui en estaciones mas baratas de espana](etheria-images/2021/11/estaciones-esqui-baratas.jpg "El esquí y el snowboard son deportes perfectos para todas las edades. © Karsten Winegeart")
+![esqui en estaciones mas baratas de espana](https://fotos.etheriamagazine.com/2021/11/estaciones-esqui-baratas.jpg "El esquí y el snowboard son deportes perfectos para todas las edades. © Karsten Winegeart")
 
 Te gusta esquiar, no quieres salir de España y estás empeñada en estirar el presupuesto 
 lo máximo posible. Eso es fácil de conseguir porque en la Península hay buenas 
@@ -22,7 +22,7 @@ estaciones de esquí (tarifa del forfait diario) y el alojamiento en los alreded
 (persona/ noche). No ha sido posible incluir aquellas zonas para las que no existe una 
 tarifa diaria. 
 
-![manzaneda la estacion de esqui mas baratas de españa](etheria-images/2021/11/estacion-esqui-Manzaneda.jpg "Estación de esquí de Manzaneda.")
+![manzaneda la estacion de esqui mas baratas de españa](https://fotos.etheriamagazine.com/2021/11/estacion-esqui-Manzaneda.jpg "Estación de esquí de Manzaneda.")
 
 ## 1\. Manzaneda, Ourense
 
@@ -42,7 +42,7 @@ alquileres vacacionales desde 16 € por persona la noche. Manzaneda es, por mé
 propios, la reina del ahorro en la península y por ello una opción muy a tener en cuenta 
 para los aficionados de los deportes de invierno. 
 
-![sierra de bejar la covatilla estaciones de esqui mas baratas de Espana](etheria-images/2021/11/estacion-Sierra-de-Bejar-La-Covatilla.jpg "Estación Sierra de Béjar - La Covatilla.")
+![sierra de bejar la covatilla estaciones de esqui mas baratas de Espana](https://fotos.etheriamagazine.com/2021/11/estacion-Sierra-de-Bejar-La-Covatilla.jpg "Estación Sierra de Béjar - La Covatilla.")
 
 ## 2\. Sierra de Béjar - La Covatilla, Salamanca
 
@@ -59,7 +59,7 @@ mientras tú te lanzas por las pistas. Y lo mejor es que esta magnífica estaci�
 tenemos **a dos horas de Madrid** y a poco más de 100 kilómetros de Portugal. Una 
 propuesta más que completa. 
 
-![estacion de esqui leitariego](etheria-images/2021/11/estacion-esqui-Leitareigos.jpg "Estación de esquí de Leitariegos, en León.")
+![estacion de esqui leitariego](https://fotos.etheriamagazine.com/2021/11/estacion-esqui-Leitareigos.jpg "Estación de esquí de Leitariegos, en León.")
 
 ## 3\. Leitariegos, León
 
@@ -74,7 +74,7 @@ uno de los más baratos en toda España, 22 € en temporada alta y 15 € en te
 Y si quieres dormir cerca de las instalaciones, lo tienes muy fácil, hay alojamientos 
 desde 25 € por persona/noche. 
 
-![estaciones de esqui mas baratas de Espana san isidro leon](etheria-images/2021/11/estacion-san-isidro-leon.jpg "Estación de San Isidro, en León.")
+![estaciones de esqui mas baratas de Espana san isidro leon](https://fotos.etheriamagazine.com/2021/11/estacion-san-isidro-leon.jpg "Estación de San Isidro, en León.")
 
 ## 4\. San Isidro, León
 
@@ -93,7 +93,7 @@ La estación de San Isidro ofrece el forfait diario a un precio muy competitivo,
 temporada alta y 22 € en temporada baja. Y si te interesa pasar unos días en León, los 
 precios en alojamiento que vas a encontrar son insuperables. 
 
-![valdezcaray estaciones de esqui mas baratas de espana](etheria-images/2021/11/esqui-Valdezcaray.jpg "Estación de esquí Valdezcaray. © I Love Ski")
+![valdezcaray estaciones de esqui mas baratas de espana](https://fotos.etheriamagazine.com/2021/11/esqui-Valdezcaray.jpg "Estación de esquí Valdezcaray. © I Love Ski")
 
 ## 5\. Valdezcaray, La Rioja
 
@@ -112,7 +112,7 @@ adultos, 29.5 € en temporada alta y 22.5 € en temporada baja. Y si quieres p
 guinda durante tus vacaciones, date un homenaje gastronómico y realiza una ruta de 
 bodegas por La Rioja para completar la escapada invernal. 
 
-![estacion valgrande pajares](etheria-images/2021/11/esqui-Valgrande-Pajares.jpg "Estación de Valgrande Pajares. © I Love Ski")
+![estacion valgrande pajares](https://fotos.etheriamagazine.com/2021/11/esqui-Valgrande-Pajares.jpg "Estación de Valgrande Pajares. © I Love Ski")
 
 ## 6\. Valgrande Pajares, Asturias
 
@@ -130,7 +130,7 @@ Si te decides por Valgrande Pajares este invierno, encontrarás unos buenos prec
 en temporada alta y 23 € en temporada baja; además de tener unos precios en alojamiento 
 muy competitivos, 31 € la noche por persona de media. 
 
-![estacion esqui astun](etheria-images/2021/11/estacion-Astun.jpg "Estación de Astun. © I Love Ski")
+![estacion esqui astun](https://fotos.etheriamagazine.com/2021/11/estacion-Astun.jpg "Estación de Astun. © I Love Ski")
 
 ## 7\. Astún, Huesca
 
@@ -151,7 +151,7 @@ Se puede conseguir un forfait para adulto por 41 € durante toda la temporada. 
 embargo, podemos ahorrar mucho en alojamiento, ya que hay una gran cantidad de ofertas a 
 partir de 18 € la noche por persona. 
 
-![estacion esqui javalambre](etheria-images/2021/11/estacion-Javalambre.jpg "Estación de Javalambre. © I Love Ski")
+![estacion esqui javalambre](https://fotos.etheriamagazine.com/2021/11/estacion-Javalambre.jpg "Estación de Javalambre. © I Love Ski")
 
 ## 8\. Javalambre, Teruel
 
@@ -168,7 +168,7 @@ esquí durante toda la temporada; desde diciembre hasta Semana Santa uno puede d
 de todos sus kilómetros esquiables, siendo Lapiaz y Amanaderos las pistas más populares 
 que todos querrán probar. 
 
-![estacion valdelinares](etheria-images/2021/11/estacion-Valdelinares.jpg "Estación de Valdelinares.")
+![estacion valdelinares](https://fotos.etheriamagazine.com/2021/11/estacion-Valdelinares.jpg "Estación de Valdelinares.")
 
 ##  9. Valdelinares, Teruel
 
@@ -188,7 +188,7 @@ poder encontrar el precio medio en alojamiento a 28 € por persona y noche. Mot
 suficientes, para que año tras año sean más los que visiten Valdelinares desde 
 diferentes puntos de toda la geografía nacional. 
 
-![estacion spot esqui lleida](etheria-images/2021/11/estacion-Espot-Esqui.jpg "Estación de Espot Esquí, en Lleida. © I Love Ski")
+![estacion spot esqui lleida](https://fotos.etheriamagazine.com/2021/11/estacion-Espot-Esqui.jpg "Estación de Espot Esquí, en Lleida. © I Love Ski")
 
 ## 10\. Espot Esquí, Lleida
 

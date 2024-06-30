@@ -1,7 +1,7 @@
 ---
 title: "Boracay y Bohol, un viaje romántico a Filipinas"
 date: 2019-06-07
-coverImage: etheria-images/2019/05/Filipinas-bohol-playa.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/Filipinas-bohol-playa.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-romanticos
@@ -12,7 +12,7 @@ authors:
 
 Pasar la luna de miel en Filipinas está de moda, pero ofrece aspectos tan variados que lo aconsejaríamos para todo tipo de circunstancias personales. Cada isla, de las miles que forman el archipiélago, aporta esa gota de belleza que le hace un país polifacético. El don de Boracay es su playa kilométrica de arena coralina, y el de Bohol, sus Colinas de Chocolate.
 
-![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](etheria-images/2019/05/Filipinas-Boracay.jpg "Playa de Boracay. © Héctor Periquín")
+![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](https://fotos.etheriamagazine.com/2019/05/Filipinas-Boracay.jpg "Playa de Boracay. © Héctor Periquín")
 
 Disfrutar de la luna de miel en Filipinas, o de un viaje romántico en este archipiélago 
 puede ser una de las decisiones viajeras que recuerdes con más cariño durante toda la 
@@ -53,7 +53,7 @@ pastel del cielo y del mar.
 > El exotismo del paisaje contrasta con las últimas novedades de deportes acuáticos como 
 > el esquí, la vela, el windsurf, el kitesurf y la inmersión. 
 
-![white beach en boracay luna de miel en filipinas](etheria-images/2019/05/Filipinas-barquero.jpg "El banquero (barquero en filipino) espera en la playa de White Beach de Boracay a posibles clientes.")
+![white beach en boracay luna de miel en filipinas](https://fotos.etheriamagazine.com/2019/05/Filipinas-barquero.jpg "El banquero (barquero en filipino) espera en la playa de White Beach de Boracay a posibles clientes.")
 
 ## Noches mágicas de Boracay
 
@@ -76,7 +76,7 @@ cangrejos y gambas, acompañados por la cerveza filipina por excelencia, San Mig
 > gustos y bolsillos fluctúa entre hoteles de cinco estrellas y cabañas con lo esencial 
 > para los amantes de la aventura. 
 
-![boracay luna de miel en filipinas](etheria-images/2019/05/Filipinas-white-beach.jpg "White Beach, la playa principal de Boracay, al atardecer.")
+![boracay luna de miel en filipinas](https://fotos.etheriamagazine.com/2019/05/Filipinas-white-beach.jpg "White Beach, la playa principal de Boracay, al atardecer.")
 
 ## Tomar las uvas en Boracay
 
@@ -90,7 +90,7 @@ de turistas cada día y Boracay vuelve a ser el paraíso de siempre. Un ejemplo 
 sostenible, cada vez más en boga, que se extenderá a otras islas del archipiélago 
 filipino. 
 
-![playa de puka](etheria-images/2019/05/Filipinas-playa-Puka.jpg "Playa de Puka. © Morley Hewitt")
+![playa de puka](https://fotos.etheriamagazine.com/2019/05/Filipinas-playa-Puka.jpg "Playa de Puka. © Morley Hewitt")
 
 ## Qué ver en Bohol
 
@@ -108,7 +108,7 @@ muchas otras, que han convertido su ruta en un atractivo más de los muchos con 
 cuenta Bohol. **Tagbilaran** es su capital y allí esperan los coloridos _jeepneys_, 
 minibuses y tricicletas, con el que conocer sus singulares parajes. 
 
-![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](etheria-images/2019/05/Filipinas-Legazpi.jpg "Estatua al pacto de sangre entre Miguel López de Legazpi y el Datu (jefe local) Sikatuna en 1565.")
+![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](https://fotos.etheriamagazine.com/2019/05/Filipinas-Legazpi.jpg "Estatua al pacto de sangre entre Miguel López de Legazpi y el Datu (jefe local) Sikatuna en 1565.")
 
 ## Las playas de Panglao
 
@@ -121,7 +121,7 @@ con el verde tierno del bambú y de la vegetación selvática de sus montañas. 
 los arrozales y de las bahay kubo (palafitos de paja) asoman caras sonrientes y 
 curiosas. 
 
-![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](etheria-images/2019/05/Filipinlas-panglao.jpg "Playa de Panglao. © James Connolly")
+![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](https://fotos.etheriamagazine.com/2019/05/Filipinlas-panglao.jpg "Playa de Panglao. © James Connolly")
 
 En **Panglao se suceden los resorts, de lujo y de menos lujo**, que convierten el lugar 
 en el más turístico de la isla. Y no es de extrañar, pues la belleza de sus playas se 
@@ -131,7 +131,7 @@ documentales. En todos los resorts se ofrecen cursos de buceo y excursiones subm
 incluso nocturnas, donde disfrutar de un paisaje y unos seres diferentes a los diurnos 
 en el silencio de la noche. 
 
-![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](etheria-images/2019/05/Filipinas-bohol-playa.jpg "Playa en Bohol.")
+![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](https://fotos.etheriamagazine.com/2019/05/Filipinas-bohol-playa.jpg "Playa en Bohol.")
 
 ## Las colinas de Chocolate
 
@@ -149,7 +149,7 @@ momentos son dignos de verse.
 > emigraron no se pierden las Fiestas de Mayo y que debido al peso de sus numerosos 
 > visitantes la isla ese mes se hunde un poco más". 
 
-![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](etheria-images/2019/05/Filipinas-colinas-chocolate.jpg "Colinas de Chocolate (Bohol).")
+![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](https://fotos.etheriamagazine.com/2019/05/Filipinas-colinas-chocolate.jpg "Colinas de Chocolate (Bohol).")
 
 ## Excursión por el río Loboc
 
@@ -177,7 +177,7 @@ permiten ver en la oscuridad. Unos cien tarseros viven en libertad controlada en
 parque de Bohol. Allí los guías llevan a sus visitantes y les permiten contemplar al 
 animalito que espera deseoso de un buen grillo con el que pasar el día. 
 
-![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](etheria-images/2019/05/Filipinas-bohol-mono.jpg "El Tasier, oriundo de Bohol, es el mono más pequeño del mundo. © Silver Ringvee")
+![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](https://fotos.etheriamagazine.com/2019/05/Filipinas-bohol-mono.jpg "El Tasier, oriundo de Bohol, es el mono más pequeño del mundo. © Silver Ringvee")
 
 ### Guía de viaje | Etheria Magazine
 

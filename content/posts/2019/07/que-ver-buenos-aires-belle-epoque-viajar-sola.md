@@ -1,7 +1,7 @@
 ---
 title: "Descubre la ruta por la arquitectura más elegante de Buenos Aires"
 date: 2019-07-05
-coverImage: etheria-images/2019/06/Buenos-Aires-Palacio-de-Aguas-Corrientes.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Palacio-de-Aguas-Corrientes.jpg
 categories: 
   - viajes-urbanos
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ Anita Álvarez Cufari, especializada en estilo de vida, nos lleva a conocer los 
 que esconde esta singular urbe. Una ruta por la Belle Époque de Buenos Aires perfecta 
 para realizar sola o con amigas. 
 
-![Detalle de un edificio de la Avenida de Mayo y Palacio Barolo.](etheria-images/2019/06/Buenos-Aires-palacio-Barolo.jpg "Detalle de un edificio de la Avenida de Mayo y Palacio Barolo.")
+![Detalle de un edificio de la Avenida de Mayo y Palacio Barolo.](https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-palacio-Barolo.jpg "Detalle de un edificio de la Avenida de Mayo y Palacio Barolo.")
 
 Actualizado 1/2024 
 
@@ -33,7 +33,7 @@ Dante de una manera arquitectónica-literaria. Consulta la posibilidad de hacer 
 visita guiada de las que terminan en la terraza, o elige una gastronómica para picotear 
 algo entre cócteles, dentro de este edificio histórico. 
 
-![Café Tortoni en Buenos Aires](etheria-images/2019/06/Buenos-Aires-cafe-Tortoni-e1561455387221.jpg "Café Tortoni.")
+![Café Tortoni en Buenos Aires](https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-cafe-Tortoni-e1561455387221.jpg "Café Tortoni.")
 
 A pocos metros de allí, tienes una parada obligada en el **Café Tortoni**. Puedes 
 hacerte la foto con la estatua de Borges, asiduo visitante de las interminables 
@@ -68,7 +68,7 @@ muebles de Ikea. Cada pieza de estos palacetes se diseñaba en Europa y luego se
 a Buenos Aires en barco, pieza a pieza. De esta manera llegaban sus mármoles, esculturas 
 y ornamentos. 
 
-![Galerías Pacífico en Buenos Aires](etheria-images/2019/06/Buenos-Aires-Galerias-Pacifico.jpg "Galerías Pacífico.")
+![Galerías Pacífico en Buenos Aires](https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Galerias-Pacifico.jpg "Galerías Pacífico.")
 
 Sin ser un palacete ni un _petit hotel_, las conocidas **Galerías Pacífico**, en la 
 calle Florida, son un buen punto central para una caminata entre palacios. Si las miras 
@@ -97,7 +97,7 @@ de Chantilly y el lateral al palacio del Louvre, obras en las que está inspirad
 en esa esquina de la plaza San Martín, donde termina la peatonal Florida, justifica una 
 visita guiada. 
 
-![Palacio San Martín en Buenos Aires](etheria-images/2019/06/Buenos-Aires-Palacio-San-Martin.jpg "Palacio San Martín.")
+![Palacio San Martín en Buenos Aires](https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Palacio-San-Martin.jpg "Palacio San Martín.")
 
 El **palacio San Martín**, actualmente la Cancillería, fue antaño la residencia de los 
 Anchorena. Esta familia retrata muy bien el gusto refinado por la arquitectura europea y 
@@ -114,7 +114,7 @@ contaminación sonora. Anota el apellido Thays, porque sus obras son maravillosa
 podrás encontrarlas en Buenos Aires (como el Jardín Botánico, diseñado por su padre) y 
 en el resto de Argentina. 
 
-![fachada Estación de Retiro.](etheria-images/2019/06/Buenos-Aires-estacion-Retiro.jpg "Estación de Retiro.")
+![fachada Estación de Retiro.](https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-estacion-Retiro.jpg "Estación de Retiro.")
 
 Bajando por la plaza de San Martín llegas a la **torre de los Ingleses** y también a la 
 **estación de Retiro**, que acaba de ser inaugurada tras su restauración. Conviene pasar 
@@ -134,13 +134,13 @@ que podrás degustar algunas de las exquisiteces de su _patisserie_. A pocos met
 Alvear está uno de los rincones más opulentos de la ciudad, el **palacio Fernández 
 Anchorena**, sede de la nunciatura. 
 
-![Palacio Ortiz Basualdo.](etheria-images/2019/06/Buenos-Aires-Palacio-Ortiz-Basualdo.jpg "Palacio Ortiz Basualdo.")
+![Palacio Ortiz Basualdo.](https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Palacio-Ortiz-Basualdo.jpg "Palacio Ortiz Basualdo.")
 
 El imponente **palacio Pereda** (embajada de Brasil), el **palacio Casey**, actual 
 Secretaría de Cultura, el **Jockey Club** y el tradicional **hotel Alvear** son algunos 
 de los ejemplos más emblemáticos e imponentes. 
 
-![Museo de Arte Decorativo.](etheria-images/2019/06/Buenos-Aires-Museo-de-Arte-decorativo.jpg "Museo de Arte Decorativo.")
+![Museo de Arte Decorativo.](https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Museo-de-Arte-decorativo.jpg "Museo de Arte Decorativo.")
 
 Un poco más lejos de la zona, está el palacio Errázuriz, actual [Museo de Arte 
 Decorativo](https://museoartedecorativo.cultura.gob.ar). La visita vale la pena. Es una 
@@ -159,7 +159,7 @@ ladrillos esmaltados y ornamentación de cerámica que fueron traídos directame
 Inglaterra y Bélgica. El resultado es un edificio colorido que concentra ese espíritu 
 excéntrico-ricachón que una vez tuvimos en Buenos Aires. 
 
-![Palacio de Aguas Corrientes en Buenos Aires](etheria-images/2019/06/Buenos-Aires-Palacio-de-Aguas-Corrientes.jpg "Palacio de Aguas Corrientes.")
+![Palacio de Aguas Corrientes en Buenos Aires](https://fotos.etheriamagazine.com/2019/06/Buenos-Aires-Palacio-de-Aguas-Corrientes.jpg "Palacio de Aguas Corrientes.")
 
 Texto: Anita Álvarez Cufari, además de ser argentina, es periodista y creativa 
 publicitaria. La puedes conocer más en Anita Ideas. Fotos: Ente de Turismo de la Ciudad 

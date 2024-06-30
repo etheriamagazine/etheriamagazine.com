@@ -1,7 +1,7 @@
 ---
 title: "3 días en Kioto para ver los cerezos en flor"
 date: 2020-02-26
-coverImage: etheria-images/2020/02/Kioto-paseo-filosofo-geishas.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/02/Kioto-paseo-filosofo-geishas.jpg
 categories: 
   - viaje-en-familia
   - viajes-romanticos
@@ -17,7 +17,7 @@ su habitual encanto un delicado manto de pétalos rosados. Necesitarás al menos
 para imbuirte en el ambiente y cultura de esta ciudad, un destino perfecto para viajar 
 con amigas o con tu pareja. 
 
-![Geishas en el Paseo del Filósofo en Kioto](etheria-images/2020/02/Kioto-paseo-filosofo-geishas-900x600.jpg "Foto en el Paseo del Filósofo. © Susana García")
+![Geishas en el Paseo del Filósofo en Kioto](https://fotos.etheriamagazine.com/2020/02/Kioto-paseo-filosofo-geishas-900x600.jpg "Foto en el Paseo del Filósofo. © Susana García")
 
 En esta ciudad puedes pasar casi todo el tiempo que quieras deleitándote con bonitos 
 paseos junto al río (sobre todo si viajes en la época de los cerezos en flor en Kioto), 
@@ -44,7 +44,7 @@ detalles como una diminuta casa de té y lugares para realizar ofrendas de todo 
 de madera) o el reluciente templo de tres plantas rematado por una brillante ave fénix 
 que se refleja en el lago. 
 
-![Templo Dorado en Kioto](etheria-images/2020/02/Kioto-templo-dorado-900x582.jpg "Templo Dorado. © SG")
+![Templo Dorado en Kioto](https://fotos.etheriamagazine.com/2020/02/Kioto-templo-dorado-900x582.jpg "Templo Dorado. © SG")
 
 Después, puedes acércate a **Arashiyama**, un precioso bosque de bambú situado en las 
 afueras de Kioto, en la zona oeste. Podrás elegir cómo quieres verlo, paseando o subida 
@@ -55,7 +55,7 @@ comercial donde encontrarás los comercios más variopintos y donde comenzarás 
 cuenta de la infinidad de puestos de comida con las especialidades más diversas y 
 sorprendentes que hay en Japón. 
 
-![Bosque de bambú de Arashiyama](etheria-images/2020/02/Kioto-Arashiyama-900x559.jpg "Bosque de bambú de Arashiyama. © Walter Mario Stein")
+![Bosque de bambú de Arashiyama](https://fotos.etheriamagazine.com/2020/02/Kioto-Arashiyama-900x559.jpg "Bosque de bambú de Arashiyama. © Walter Mario Stein")
 
 ### A mediodía: ceremonia del té
 
@@ -75,7 +75,7 @@ sobre la palma de la mano izquierda y girarlo tres veces en el sentido de las ag
 reloj. Después de beber, hay que limpiar el borde y girarlo en el sentido contrario de 
 las agujas del reloj antes de devolverlo al anfitrión. 
 
-![Ceremonia del té.](etheria-images/2020/02/Kioto-ceremonia-te-900x600.jpg "Ceremonia del té. © SG")
+![Ceremonia del té.](https://fotos.etheriamagazine.com/2020/02/Kioto-ceremonia-te-900x600.jpg "Ceremonia del té. © SG")
 
 ### Por la tarde: barrio de Gion
 
@@ -91,7 +91,7 @@ artes') y _maikos_ (aprendices de geishas), aunque en algunos casos su labor ha 
 en tareas más sexuales que de entretenimiento. Si quieres acudir a algún espectáculo 
 tradicional, puedes reservar entradas en **Gion Corner**. 
 
-![Pequeño templo y Geisha en el barrio de Gion](etheria-images/2020/02/Kioto-Gion-900x681.jpg "Pequeño templo y Geisha en el barrio de Gion. © SG")
+![Pequeño templo y Geisha en el barrio de Gion](https://fotos.etheriamagazine.com/2020/02/Kioto-Gion-900x681.jpg "Pequeño templo y Geisha en el barrio de Gion. © SG")
 
 Si en la cena te decides por degustar la delicada y sabrosa carne de Kobe, **Mouriya 
 Kyoto** es uno de los mejores lugares de la ciudad para comerla y está situado en pleno 
@@ -106,7 +106,7 @@ una de las postales más populares de Japón. Y eso hace que todo el mundo quier
 en este lugar tan especial, así que, si quieres recorrerlo cómodamente, tendrás que 
 madrugar bastante para llegar antes que las decenas de autobuses de turistas. 
 
-![Sucesión de torii en el santuario de Fushimi Inari](etheria-images/2020/02/Kioto-Fushimi-Inari-900x600.jpg "Sucesión de torii en el santuario de Fushimi Inari. © Lin Mai")
+![Sucesión de torii en el santuario de Fushimi Inari](https://fotos.etheriamagazine.com/2020/02/Kioto-Fushimi-Inari-900x600.jpg "Sucesión de torii en el santuario de Fushimi Inari. © Lin Mai")
 
 Antes de recorrer este mágico lugar, que asciende por el bosque formando hileras de 
 torii que parecen infinitas, hay que saber que está dedicado a Inari (con forma de 
@@ -116,7 +116,7 @@ familia con recursos para tener prosperidad.
 > El sintoísmo más que una religión es una filosofía de vida que convive en Japón en 
 > perfecta armonía con el budismo. 
 
-![Puestos de comida en el acceso a Fushimi Inari.](etheria-images/2020/02/Kioto-Fushimi-Inari-1-900x600.jpg "Puestos de comida en el acceso a Fushimi Inari. © SG")
+![Puestos de comida en el acceso a Fushimi Inari.](https://fotos.etheriamagazine.com/2020/02/Kioto-Fushimi-Inari-1-900x600.jpg "Puestos de comida en el acceso a Fushimi Inari. © SG")
 
 Antes de acceder a los pasillos de torii, pasarás por una zona comercial con puestos de 
 comida y tiendas de recuerdos que te llevará a la entrada del santuario, con sus zonas 
@@ -139,7 +139,7 @@ se accede tras subir una amplia escalinata y pasar por Nandaimon (una gran puert
 madera). Los jardines que rodean este templo ofrecen un agradable paseo entre los 
 ciervos. 
 
-![Templo Todaiji en Nara con cerezos en flor](etheria-images/2020/02/Kioto-Templo-Todaiji-Nara-900x600.jpg "Templo Todaiji en Nara. © SG")
+![Templo Todaiji en Nara con cerezos en flor](https://fotos.etheriamagazine.com/2020/02/Kioto-Templo-Todaiji-Nara-900x600.jpg "Templo Todaiji en Nara. © SG")
 
 De vuelta a Kioto, para cenar quizá te apetezca probar un lugar moderno e informal como 
 **Fortune Garden**, con una carta ecléctica de platos europeos y japoneses. 
@@ -164,7 +164,7 @@ En el paseo descubrirás el modo de vida de shogunes y samuráis, los delicados 
 sus incontables pinturas murales y el curioso Corredor del Ruiseñor, donde al caminar el 
 crujido de las tablas del suelo suenan como el canto de este ave. 
 
-![Puerta de entrada del castillo Nijo](etheria-images/2020/02/Kioto-castillo-nijo-900x600.jpg "Puerta de entrada del castillo Nijo. © SG")
+![Puerta de entrada del castillo Nijo](https://fotos.etheriamagazine.com/2020/02/Kioto-castillo-nijo-900x600.jpg "Puerta de entrada del castillo Nijo. © SG")
 
 ### A mediodía: Mercado Nishiki
 
@@ -182,7 +182,7 @@ judías pintas dulces. Si tienes el antojo de llevarte un precioso quimono a cas
 a **Kakurenunoya** (en una primera planta sobre el mercado con acceso desde la calle), 
 una tienda que tiene piezas de segunda mano en perfecto estado y a precios razonables. 
 
-![Uno de los puestos del mercado de Nishiki donde venden 'púlpitos' rellenos de huevo de codorniz.](etheria-images/2020/02/Kioto-mercado-Nishiki-900x600.jpg "Uno de los puestos del mercado de Nishiki donde venden 'púlpitos' rellenos de huevo de codorniz. © SG")
+![Uno de los puestos del mercado de Nishiki donde venden 'púlpitos' rellenos de huevo de codorniz.](https://fotos.etheriamagazine.com/2020/02/Kioto-mercado-Nishiki-900x600.jpg "Uno de los puestos del mercado de Nishiki donde venden 'púlpitos' rellenos de huevo de codorniz. © SG")
 
 ### Por la tarde: Camino del Filósofo
 
@@ -198,7 +198,7 @@ Eikan-do**, con un bonito parque y donde podrás subir a su pagoda, que ofrece u
 mejores panorámicas de la ciudad de Kioto. Sin duda, es un broche perfecto terminar una 
 estancia en Kioto. 
 
-![Camino del Filosófo con cerezos en flor](etheria-images/2020/02/Kioto-camino-filosofo-fotos-900x450.jpg "En el Camino del Filosófo hay decenas de escenarios perfectos para una foto. © SG")
+![Camino del Filosófo con cerezos en flor](https://fotos.etheriamagazine.com/2020/02/Kioto-camino-filosofo-fotos-900x450.jpg "En el Camino del Filosófo hay decenas de escenarios perfectos para una foto. © SG")
 
 ## Guía práctica de Kioto
 
@@ -225,7 +225,7 @@ Kioto está lleno de restaurantes. Además de los sugeridos en el artículo, pue
 excelente sushi en Arashiyama en **Sushi Naritaya** y el tradicional _shabu shabu_ (una 
 especie de fondue de caldo para cocer carne o marisco) en Tonshabu Hide. 
 
-![Cerezos en flor en el Camino del Filósofo.](etheria-images/2020/02/Kioto-camino-filosofo-almendros.jpg "Cerezos en flor en el Camino del Filósofo. © SG")
+![Cerezos en flor en el Camino del Filósofo.](https://fotos.etheriamagazine.com/2020/02/Kioto-camino-filosofo-almendros.jpg "Cerezos en flor en el Camino del Filósofo. © SG")
 
 ### Floración del cerezo
 

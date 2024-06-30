@@ -1,7 +1,7 @@
 ---
 title: "Sal i Reïm y Es Caliu, más allá de una experiencia gastro en Ibiza"
 date: 2022-12-02
-coverImage: etheria-images/2022/12/restaurante-es-caliu-mesas.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/restaurante-es-caliu-mesas.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -15,7 +15,7 @@ locales o, como mucho, nacionales. Al concepto natural del establecimiento se su
 decoración y el personal. El cliente vive en este lugar una experiencia más allá de la 
 comida. 
 
-![Ensalada de Sal i Reïm.](etheria-images/2022/12/ensalada-salmon-sal-i-rein-850x680.jpg "Ensalada del bar de tapas © Sal i Reïm.")
+![Ensalada de Sal i Reïm.](https://fotos.etheriamagazine.com/2022/12/ensalada-salmon-sal-i-rein-850x680.jpg "Ensalada del bar de tapas © Sal i Reïm.")
 
 Hacía mucho tiempo que quería conocer Ibiza. Un seminario de prensa me ha llevado hasta 
 la isla y decido quedarme allí el fin de semana. Me alojo en un hostal, lejos del 
@@ -36,7 +36,7 @@ moderno y muy acogedor. Se llama **Sal i Reïm** y el mobiliario lo han reformad
 propios trabajadores, según me cuenta un camarero. El aire de _chill out_ aporta un 
 ambiente agradable al que se añaden buena comida y buenos vinos. 
 
-![Interior de Sal I Reïm Ibiza.](etheria-images/2022/12/sal-i-reim-850x567.jpg "Interior de © Sal I Reïm Ibiza.")
+![Interior de Sal I Reïm Ibiza.](https://fotos.etheriamagazine.com/2022/12/sal-i-reim-850x567.jpg "Interior de © Sal I Reïm Ibiza.")
 
 ## Sal i Reïm, vinos y pinchos en Ibiza
 
@@ -56,7 +56,7 @@ la máxima es la misma: mantener Ibiza. Gracias a la implicación del equipo, lo
 trabajadores de Sal i Reim fueron quienes se encargaron de la decoración de la 
 cafetería, llevando muebles reciclados. 
 
-![Verduras ecológicas preparadas en horno de leña.](etheria-images/2022/12/es-caliu-verduras-ecologicas.jpg "Verduras ecológicas preparadas en horno de leña. © Es Caliu")
+![Verduras ecológicas preparadas en horno de leña.](https://fotos.etheriamagazine.com/2022/12/es-caliu-verduras-ecologicas.jpg "Verduras ecológicas preparadas en horno de leña. © Es Caliu")
 
 ## Es Caliu, el vino como experiencia
 
@@ -75,7 +75,7 @@ al cabo de un rato”, me cuenta el dueño del restaurante. “Sugiero al client
 matices”, porque “no se trata sólo de beber un vino, sino de hacer una experiencia en la 
 que los estás reviviendo”, dice. 
 
-![Mesa con flores del restaurante Es Caliu.](etheria-images/2022/12/restaurante-es-caliu-mesas-850x567.jpg "Mesa del restaurante © Es Caliu.")
+![Mesa con flores del restaurante Es Caliu.](https://fotos.etheriamagazine.com/2022/12/restaurante-es-caliu-mesas-850x567.jpg "Mesa del restaurante © Es Caliu.")
 
 Ibiza no tiene denominación de origen, solo vinos ecológicos de la tierra. Por eso a 
 veces “tenemos que recurrir a los nacionales”, reconoce Toni, que explica que el 30 por 
@@ -85,7 +85,7 @@ pueblo hecho por enólogos sin denominación de origen. Jugamos con los vinos or
 En el restaurante siempre tienen 2 o 3 ecológicos además de los convencionales, como 
 Ribera del Duero o Rioja. “Buscamos sorprender”. 
 
-![Patio del restaurante Es Caliu.](etheria-images/2022/12/patio-de-naranjas-850x565.jpg "Patio del restaurante © Es Caliu.")
+![Patio del restaurante Es Caliu.](https://fotos.etheriamagazine.com/2022/12/patio-de-naranjas-850x565.jpg "Patio del restaurante © Es Caliu.")
 
 ## Clientes que valoran la ecología
 
@@ -103,7 +103,7 @@ muerto biodegradable. Las **servilletas y pajitas son ecológicas** y los platos
 cartón biodegradable. “Nuestros clientes son de un perfil también solidario empático que 
 valora esas cosas. Ese _feedback_ positivo nos enriquece”. 
 
-![Jardín con zona de cócteles de Es Caliu.](etheria-images/2022/12/cocktail-garden-es-caliu-850x565.jpg "Jardín de © Es Caliu.")
+![Jardín con zona de cócteles de Es Caliu.](https://fotos.etheriamagazine.com/2022/12/cocktail-garden-es-caliu-850x565.jpg "Jardín de © Es Caliu.")
 
 ## La importancia de la empatía
 

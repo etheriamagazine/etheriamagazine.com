@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Esauira, la playa de Marruecos"
 date: 2023-06-05
-coverImage: etheria-images/2023/06/Murallas-de-Essauira.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/06/Murallas-de-Essauira.jpg
 categories: 
   - viajes-cine
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ deambular por una de las ciudades más hechizantes de Marruecos. Te contamos qu�
 Esauira, uno de los lugares de playa más populares de Marruecos y un destino muy 
 atractivo para los viajeros españoles. 
 
-![La ciudad amurallada de Esauira.](etheria-images/2023/06/Murallas-de-Essauira.jpg "La ciudad amurallada de Esauira. © Pedro Grifol.")
+![La ciudad amurallada de Esauira.](https://fotos.etheriamagazine.com/2023/06/Murallas-de-Essauira.jpg "La ciudad amurallada de Esauira. © Pedro Grifol.")
 
 Patrimonio de la Humanidad, antes paraíso hippie y ahora playa favorita para 
 kitesurfistas, Esauria está más cerca que nunca. Pero, antes de meternos en su Medina, 
@@ -35,7 +35,7 @@ al casco antiguo perdieron la simetría cartesiana y aparecieron barrios apelmaz
 repletos de estrechos callejones que, por otro lado, tanto nos gusta descubrir a los 
 viajeros. 
 
-![Mujeres charlando en las murallas de Esauira](etheria-images/2023/06/Essauira-murallas.jpg "Mujeres charlando en las murallas de Esauira. © PG")
+![Mujeres charlando en las murallas de Esauira](https://fotos.etheriamagazine.com/2023/06/Essauira-murallas.jpg "Mujeres charlando en las murallas de Esauira. © PG")
 
 ## Un paseo por el centro
 
@@ -60,7 +60,7 @@ regenta Othman, un epicúreo lugareño que renunció a seguir con el tradicional
 familiar de hacer cosas de cuero y ha montado un resto-bar&more con coctelería incluida. 
 Para no perdérselo. 
 
-![Calle de Essauira y la mezquita de Sidi Ahmed al fondo.](etheria-images/2023/06/Essauira-calle-mezquita-Sidi-Ahmed.jpg "Calle de Esauira y la mezquita de Sidi Ahmed al fondo. © PG")
+![Calle de Essauira y la mezquita de Sidi Ahmed al fondo.](https://fotos.etheriamagazine.com/2023/06/Essauira-calle-mezquita-Sidi-Ahmed.jpg "Calle de Esauira y la mezquita de Sidi Ahmed al fondo. © PG")
 
 ## Ciudad de cine y música
 
@@ -82,7 +82,7 @@ peculiar fusión entre la tradición del flamenco y los ecos de judíos y morisc
 expulsados de España; y también en otoño se celebra el **MOGA**, el mayor festival de 
 música electrónica del país. 
 
-![barcas en el puerto de Essauira](etheria-images/2023/06/Essauira-puerto.jpg "Esauira desde el puerto. © PG")
+![barcas en el puerto de Essauira](https://fotos.etheriamagazine.com/2023/06/Essauira-puerto.jpg "Esauira desde el puerto. © PG")
 
 Pero el ambiente veraz y autóctono de la ciudad lo encontramos todos los días en el 
 **puerto** cuando la concentración de gaviotas nos anuncia la hora de la descarga del 
@@ -101,7 +101,7 @@ La ciudad se recorre a pie en un par de días, pero una vez ‘peinada’, te da
 que has pasado dos o tres veces por el mismo sitio. Así que lo mejor es, al tercer día, 
 tomar un taxi para visitar otros lugares interesantes de sus alrededores. 
 
-![camello y jinete con caballo en la playa de Diabat](etheria-images/2023/06/Essauira-Paseo-caballo-Diabat.jpg "En Diabat se pueden hacer excursiones en camello o a caballo. © PG")
+![camello y jinete con caballo en la playa de Diabat](https://fotos.etheriamagazine.com/2023/06/Essauira-Paseo-caballo-Diabat.jpg "En Diabat se pueden hacer excursiones en camello o a caballo. © PG")
 
 ### Diabat
 
@@ -123,7 +123,7 @@ sentarte bajo un arco de piedra… y componer una canción, que eso es lo que di
 hizo el famoso Hendrix. Un viejo restaurant-café, a pie de carretera, recuerda al músico 
 con sus psicodélicas paredes. El té y fumar la _shisha_ son sus especialidades. 
 
-![Jimi Hendrix Bar, en Diabat.](etheria-images/2023/06/Essauira-Jimi-Hendrix-Bar-Diabat.jpg "Jimi Hendrix Bar, en Diabat. © PG")
+![Jimi Hendrix Bar, en Diabat.](https://fotos.etheriamagazine.com/2023/06/Essauira-Jimi-Hendrix-Bar-Diabat.jpg "Jimi Hendrix Bar, en Diabat. © PG")
 
 ### Cooperativa de aceite de argán
 
@@ -146,7 +146,7 @@ la excepción del viaje.
 Y, por supuesto, no olvides que estamos en Marruecos… Así que no tengas prisa para nada: 
 “El último camello de la fila camina tan deprisa como el primero” (Proverbio tuareg). 
 
-![Vinos en Le Domaine du Val d'Argan.](etheria-images/2023/06/Essauira-Le-Domaine-du-Val-dArgan.jpg "Vinos en Le Domaine du Val d'Argan. © PG")
+![Vinos en Le Domaine du Val d'Argan.](https://fotos.etheriamagazine.com/2023/06/Essauira-Le-Domaine-du-Val-dArgan.jpg "Vinos en Le Domaine du Val d'Argan. © PG")
 
 ## Guía práctica de Esauira/Essaouira
 
@@ -191,7 +191,7 @@ si usas el enlace anterior, por ser lector/a de ETHERIA MAGAZINE. Puedes elegir 
 seguro para este viaje en concreto o **uno ANUAL**, que te saldrá a cuenta si realizas 
 más de un viaje al año. 
 
-![Paseo en camello y kitesurf en Esauira.](etheria-images/2023/06/Essauira-Paseo-camello-kitesurf.jpg "Paseo en camello y kitesurf en Esauira. © PG")
+![Paseo en camello y kitesurf en Esauira.](https://fotos.etheriamagazine.com/2023/06/Essauira-Paseo-camello-kitesurf.jpg "Paseo en camello y kitesurf en Esauira. © PG")
 
 ### Qué hacer
 

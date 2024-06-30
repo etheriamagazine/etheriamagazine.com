@@ -16,7 +16,7 @@ export class ConfigError extends Error {
   }
 }
 
-export function envReader(env) {
+export function makeEnvReader(env) {
   return function readEnv(key) {
     if (!Object.hasOwn(env, key)) {
       throw new ConfigError(

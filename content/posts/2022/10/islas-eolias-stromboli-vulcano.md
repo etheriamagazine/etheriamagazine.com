@@ -1,7 +1,7 @@
 ---
 title: "Volcanes de pasión, una ruta por las islas Eolias"
 date: 2022-10-12
-coverImage: etheria-images/2022/10/Vulcano-islas-eolias.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/10/Vulcano-islas-eolias.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -13,7 +13,7 @@ erupción del Cumbre Vieja de La Palma y la más reciente del Stromboli. Hemos v
 Italia para hablaros de dos volcanes con historias de amor y celos. Dos películas, con 
 nombre de volcán, son el motivo para descubrir las islas Eolias. 
 
-![Erupción del volcán Stromboli.](etheria-images/2022/10/erupcion-stromboli.jpg "Erupción del volcán Stromboli. © Pedro Grifol")
+![Erupción del volcán Stromboli.](https://fotos.etheriamagazine.com/2022/10/erupcion-stromboli.jpg "Erupción del volcán Stromboli. © Pedro Grifol")
 
 Al principio de los años cincuenta del pasado siglo, la carga dramática de dos 
 películas, ‘Vulcano’ y ‘Stromboli’, rodadas ambas en las islas Eolias –situadas en el 
@@ -26,7 +26,7 @@ Más de setenta años después, volvemos emocional ¡y físicamente! a este arch
 italiano, en busca de recuerdos cinematográficos y dispuestos a conocer sus paisajes y 
 sus playas; y, si se tercia, listos también para subir a lo más alto de sus volcanes. 
 
-![Dios eolo en las islas Eolias.](etheria-images/2022/10/dios-eolo-eolias.jpg "Dios Eolo en las islas Eolias. © Pedro Grifol")
+![Dios eolo en las islas Eolias.](https://fotos.etheriamagazine.com/2022/10/dios-eolo-eolias.jpg "Dios Eolo en las islas Eolias. © Pedro Grifol")
 
 ## Islas Eolias, hijas del volcán
 
@@ -44,7 +44,7 @@ La localidad de **Milazzo** (Sicilia) tiene el puerto de embarque más cercano y
 enlaces diarios hacia el archipiélago eólico. Nuestro viaje empieza navegando hasta 
 Salina, para continuar a Vulcano y Estrómboli. 
 
-![Carteles de Vulcano y Stromboli rodadas en las islas Eolias](etheria-images/2022/10/carteles-stromboli-vulcano.jpg "Carteles de las dos películas.")
+![Carteles de Vulcano y Stromboli rodadas en las islas Eolias](https://fotos.etheriamagazine.com/2022/10/carteles-stromboli-vulcano.jpg "Carteles de las dos películas.")
 
 ### El escenario de unas amistades peligrosas
 
@@ -80,7 +80,7 @@ Rossellini tenía en mente y que tenía el proyecto de rodar con la Magnani en S
 una isla volcánica del archipiélago de las Islas Eolias, al norte de Sicilia. La 
 película se tituló como la isla: ‘Stromboli’. 
 
-![Nidito de amor de Bergman y Rosellini en Stromboli.](etheria-images/2022/10/Bergman-Rossellini-Estromboli.jpg "Nidito de amor de Bergman y Rosellini en Stromboli. © Pedro Grifol")
+![Nidito de amor de Bergman y Rosellini en Stromboli.](https://fotos.etheriamagazine.com/2022/10/Bergman-Rossellini-Estromboli.jpg "Nidito de amor de Bergman y Rosellini en Stromboli. © Pedro Grifol")
 
 El tórrido romance entre La Bergman y Rosellini causó un gran escándalo en Estados 
 Unidos. De hecho, **la relación fue reprendida** por varios senadores y su carrera en 
@@ -95,7 +95,7 @@ protagonista. La película de la Magnani se rodó en otra de las islas del archi
 Salina, no menos exótica, y se tituló ‘Vulcano’, nombre de otra isla del archipiélago, y 
 más acorde con lo explosivo de la historia. 
 
-![Strombolino visto desde la isla de Stromboli](etheria-images/2022/10/vistas-stromboli.jpg "Strombolino visto desde Stromboli.")
+![Strombolino visto desde la isla de Stromboli](https://fotos.etheriamagazine.com/2022/10/vistas-stromboli.jpg "Strombolino visto desde Stromboli.")
 
 ### Stromboli y Vulcano, rodadas a 40 kilómetros
 
@@ -111,7 +111,7 @@ siente atraído por una mujer más guapa. Al final de la película, el hombre de
 suministro de oxígeno bajo el agua, y acaba su vida bajo el mar. Imaginamos a la Magnani 
 interpretando aquella escena con toda su fuerza telúrica. 
 
-![La isla vulcano vista desde el agua](etheria-images/2022/10/Vulcano-islas-eolias.jpg "La isla Vulcano desde el agua. © Pedro Grifol")
+![La isla vulcano vista desde el agua](https://fotos.etheriamagazine.com/2022/10/Vulcano-islas-eolias.jpg "La isla Vulcano desde el agua. © Pedro Grifol")
 
 ## Qué ver en las islas Eolias
 
@@ -131,7 +131,7 @@ El azul intenso del mar que rodea al viejo fumador contrasta con la arena negra 
 playas. Si quieres tener más nutrida la piel, nada como darse un baño y embadurnarse en 
 las piscinas naturales de lodo gris, que constituyen un importante atractivo turístico. 
 
-![Fumarolas del volcán de Vulcano](etheria-images/2022/10/Fumarolas-volcan-Vulcano.jpg "Fumarolas del volcán de Vulcano. © Pedro Grifol")
+![Fumarolas del volcán de Vulcano](https://fotos.etheriamagazine.com/2022/10/Fumarolas-volcan-Vulcano.jpg "Fumarolas del volcán de Vulcano. © Pedro Grifol")
 
 ### Isla Stromboli
 
@@ -145,7 +145,7 @@ fuego), una gran depresión formada en la cara noroeste del cono y generada por 
 varias erupciones en el transcurso de los siglos, y cerrada en los lados por unas 
 barreras pétreas. Y en octubre de 2022 ha vuelto a erupcionar. 
 
-![Volcán Stromboli visto desde la cubierta de un barco](etheria-images/2022/10/volcan-stromboli-barco.jpg "Volcán Stromboli. © Pedro Grifol")
+![Volcán Stromboli visto desde la cubierta de un barco](https://fotos.etheriamagazine.com/2022/10/volcan-stromboli-barco.jpg "Volcán Stromboli. © Pedro Grifol")
 
 #### Subida al volcán Stromboli
 
@@ -165,7 +165,7 @@ estamos nosotros expectantes con nuestro trípode. Parece mentira, pero allá ar
 temperatura es más baja y parece que el aire agarrota el dedo disparador de la cámara 
 fotográfica. 
 
-![Subida al volcán Stromboli.](etheria-images/2022/10/subida-volcan-stromboli.jpg "Subida al volcán Stromboli. © Pedro Grifol")
+![Subida al volcán Stromboli.](https://fotos.etheriamagazine.com/2022/10/subida-volcan-stromboli.jpg "Subida al volcán Stromboli. © Pedro Grifol")
 
 Antes de cada estruendo, percibimos cómo ruge la tierra, el suelo tiembla... y las 
 explosiones iluminan nuestros sentidos. El **descenso lo hacemos durante la noche**, 
@@ -176,14 +176,14 @@ habla... mejor permanecer callados y escuchar. Porque la memoria nos recordará 
 emociones intensas dejan una huella indeleble, como el fuego de los volcanes, como las 
 películas ardientes. Porque sólo lo emocionante nos hace vivir. 
 
-![Playa de Scari, en San Vincenzco (isla de Stromboli)](etheria-images/2022/10/Playa-de-Scari-San-Vincenzo-stromboli.jpg "Playa de Scari, en San Vincenzco (isla de Stromboli). © Pedro Grifol")
+![Playa de Scari, en San Vincenzco (isla de Stromboli)](https://fotos.etheriamagazine.com/2022/10/Playa-de-Scari-San-Vincenzo-stromboli.jpg "Playa de Scari, en San Vincenzco (isla de Stromboli). © Pedro Grifol")
 
 Después de la aventura volcánica podemos pasar por delante del lugar que recuerda dónde 
 Roberto (el director de cine italiano) e Ingrid (la altiva actriz sueca) vivieron su 
 apasionado idilio. Una placa marmórea atornillada en la fachada de una casa baja y 
 pintada de rojo recuerda aquel verano de cine. 
 
-![Placa en el nido de amor de la pareja.](etheria-images/2022/10/Placa-casa-Bergman-Rossellini-stromboli.jpg "Placa en el nido de amor de la pareja. © Pedro Grifol")
+![Placa en el nido de amor de la pareja.](https://fotos.etheriamagazine.com/2022/10/Placa-casa-Bergman-Rossellini-stromboli.jpg "Placa en el nido de amor de la pareja. © Pedro Grifol")
 
 ## **Guía de las islas Eolias**
 

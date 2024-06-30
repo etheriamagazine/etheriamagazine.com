@@ -1,7 +1,7 @@
 ---
 title: "Sentier des Douaniers, el gran sendero de la Bretaña Francesa"
 date: 2018-08-08
-coverImage: etheria-images/2018/07/Crozon-e1637928167611.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Crozon-e1637928167611.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -14,7 +14,7 @@ extrañar: se trata de un camino Impresionante, en mayúsculas, que recorre la e
 costa de Bretaña de extremo a extremo. Más de 2.000 kilómetros que nunca dejan de mirar 
 al mar. 
 
-![Mapa de la Bretaña francesa](etheria-images/2018/08/mapa-senderismo-costa-bretana-francia.jpg "Mapa GR34. © Turismo de Bretaña")
+![Mapa de la Bretaña francesa](https://fotos.etheriamagazine.com/2018/08/mapa-senderismo-costa-bretana-francia.jpg "Mapa GR34. © Turismo de Bretaña")
 
 El trazado de Sentier des Douaniers no es nada nuevo. Se creó en 1791 por la necesidad 
 de controlar una costa siempre acechada por contrabandistas y piratas. Por ella pasearon 
@@ -41,7 +41,7 @@ kilómetros de senderos** hay parajes extraordinarios en los que podríamos cami
 durante meses, pero en la vida hay que escoger, así que nos quedamos con estas 
 secciones: 
 
-![Monte Saint Michel.](etheria-images/2018/07/Bahia-Saint-Michel.jpg "Monte Saint Michel.")
+![Monte Saint Michel.](https://fotos.etheriamagazine.com/2018/07/Bahia-Saint-Michel.jpg "Monte Saint Michel.")
 
 ### Del Mont Saint-Michel a Saint-Malo (65 km)
 
@@ -54,7 +54,7 @@ puede cubrirse en unas 4 o 5 jornadas si contamos con etapas de aproximadamente 
 kilómetros al día. Pero eso, claro está, depende de la forma física de cada cual y de 
 las veces que paremos en el camino. 
 
-![Senderismo en Saint Malo.](etheria-images/2018/07/Saint-Malo-GR34.jpg "Senderismo en Saint Malo.")
+![Senderismo en Saint Malo.](https://fotos.etheriamagazine.com/2018/07/Saint-Malo-GR34.jpg "Senderismo en Saint Malo.")
 
 ### Costa de Granito Rosa: de Paimpol a Morlaix (271 km)
 
@@ -66,7 +66,7 @@ Perros-Guirec** (44 km, unos 3 días). Es un recorrido con presencia constante d
 marinas y que pasa por uno de los enclaves más fotografiados de Bretaña: el **faro de 
 Ploumanach**. 
 
-![Faro de Ploumanach.](etheria-images/2018/07/Ploumanach-Faro.jpg "Faro de Ploumanach.")
+![Faro de Ploumanach.](https://fotos.etheriamagazine.com/2018/07/Ploumanach-Faro.jpg "Faro de Ploumanach.")
 
 ### Presqu’ile de Crozon: de Faou a Douardenenez (137 km)
 
@@ -78,7 +78,7 @@ faro a lo lejos. En contra juegan el menor acceso al agua y a los alojamientos. 
 queremos aventura, ¿no? Necesitaremos aproximadamente unos 8 días de marcha a razón de 
 unos 17 kilómetros diarios. 
 
-![Momento de descanso en Crozon.](etheria-images/2018/07/Crozon.jpg "Momento de descanso en Crozon.")
+![Momento de descanso en Crozon.](https://fotos.etheriamagazine.com/2018/07/Crozon.jpg "Momento de descanso en Crozon.")
 
 ### El Gran Sur: de Plouharnel a Larmor-Baden (62 km)
 
@@ -92,7 +92,7 @@ kilómetros. Otra sale de **Crac'h** y vuelve al mismo lugar tras haber recorrid
 península de Locmariaquer durante 34 kilómetros. Sin contar las extensiones, para esta 
 parte necesitaremos unas 4 jornadas. 
 
-![Menhires de Carnac.](etheria-images/2018/07/Carnac.jpg "Menhires de Carnac.")
+![Menhires de Carnac.](https://fotos.etheriamagazine.com/2018/07/Carnac.jpg "Menhires de Carnac.")
 
 ## Guía práctica
 
@@ -114,7 +114,7 @@ y también aprender algunas palabras en bretón o en gaélico. Si quieres vivirl
 olvides reservar alojamiento con antelación, los días del Festival, Lorient está 
 desbordada. 
 
-![Festival Interceltique Lorient.](etheria-images/2018/07/Festival-Interceltico-Lorient.jpg "Festival Interceltique Lorient.")
+![Festival Interceltique Lorient.](https://fotos.etheriamagazine.com/2018/07/Festival-Interceltico-Lorient.jpg "Festival Interceltique Lorient.")
 
 • Más información en [Turismo de Bretaña](http://www.vacaciones-bretana.com). 
 

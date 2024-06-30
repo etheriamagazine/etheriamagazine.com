@@ -1,7 +1,7 @@
 ---
 title: "10 libros para regalar y quedar fenomenal"
 date: 2022-01-05
-coverImage: etheria-images/2022/01/portada-libros-2022.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/01/portada-libros-2022.jpg
 categories: 
   - regalos-compras-viajeras
   - libros-de-viajes
@@ -16,7 +16,7 @@ la más idónea para regalar. Hemos seleccionado diez títulos que nos han gusta
 pueden servir de orientación si no lo tienes claro o quieres autorregalarte algo 
 interesante este año. 
 
-![libros 2022 viva corea anaya](etheria-images/2022/01/vive-corea-anaya-747x1024.jpg "Vive Corea, de Anaya Touring.")
+![libros 2022 viva corea anaya](https://fotos.etheriamagazine.com/2022/01/vive-corea-anaya-747x1024.jpg "Vive Corea, de Anaya Touring.")
 
 ## 1\. 'Vive Corea', para amigas viajeras
 
@@ -32,7 +32,7 @@ curiosos y numerosas fotografías.
 
 Editado por Anaya Touring, desde 24,95 euros. 
 
-![libro te invito a un mojito cancer de mama](etheria-images/2021/10/te-invito-a-un-mojito-668x1024.jpg "'Te invito a un mojito', un libro que aborda el cáncer de mama.")
+![libro te invito a un mojito cancer de mama](https://fotos.etheriamagazine.com/2021/10/te-invito-a-un-mojito-668x1024.jpg "'Te invito a un mojito', un libro que aborda el cáncer de mama.")
 
 ## 2\. 'Te invito a un mojito', para concienciar sobre el cáncer de mama
 
@@ -45,7 +45,7 @@ pero también a quienes lo padecen o a su entorno más cercano.
 
 Editado por Catedral Books, [desde 18,90 euros.](https://amzn.to/3eAEyhZ) 
 
-![un pais de novela anaya touring](etheria-images/2022/01/un-pais-novela-696x1024.jpg "Un país de novela, editado por Anaya Touring.")
+![un pais de novela anaya touring](https://fotos.etheriamagazine.com/2022/01/un-pais-novela-696x1024.jpg "Un país de novela, editado por Anaya Touring.")
 
 ## 3\. 'Un país de novela', para amantes de la literatura
 
@@ -59,7 +59,7 @@ previamente su escapada.
 
 Editado por Anaya Touring, desde 19 euros (en papel) y 10,99 € en pdf. 
 
-![artico photoclub libro 2022 fotografia](etheria-images/2022/01/libro-artico.jpg "Ártico, de Photoclub.")
+![artico photoclub libro 2022 fotografia](https://fotos.etheriamagazine.com/2022/01/libro-artico.jpg "Ártico, de Photoclub.")
 
 ## 4\. 'Ártico', para aventureras y fotógrafas
 
@@ -85,7 +85,7 @@ sin duda, un libro ideal para leer y conservar en nuestra biblioteca.
 
 Editado por La Librería, [desde 13,20 euros](https://amzn.to/3zn6rU6). 
 
-![por si vuelven las voces angel martin libros 2022](etheria-images/2022/01/por-si-vuelven-las-voces-675x1024.jpg "Por si vuelven las voces, de Ángel Martín.")
+![por si vuelven las voces angel martin libros 2022](https://fotos.etheriamagazine.com/2022/01/por-si-vuelven-las-voces-675x1024.jpg "Por si vuelven las voces, de Ángel Martín.")
 
 ## 6\. 'Por si las voces vuelven', para sentirse acompañadas
 
@@ -100,7 +100,7 @@ una depresión.
 Editado por Planeta, [desde 17,90 euros (edición impresa) y en ebook (9,99 
 euros).](https://amzn.to/3JGsqdE) 
 
-![paseos entre vinedos anaya touring](etheria-images/2022/01/paseos-entre-vinedos.jpg "Paseos entre viñedos, de Anaya Touring.")
+![paseos entre vinedos anaya touring](https://fotos.etheriamagazine.com/2022/01/paseos-entre-vinedos.jpg "Paseos entre viñedos, de Anaya Touring.")
 
 ## 7\. 'Paseos entre viñedos', para mujeres sibaritas
 
@@ -112,7 +112,7 @@ tipos de vinos, visitas a bodegas...
 
 Editado por Anaya Touring. 
 
-![nuestros cuerpos sus batallas libros 2022](etheria-images/2022/01/nuestros-cuerpos-sus-batallas-677x1024.jpg "Nuestros cuerpos, sus batallas.")
+![nuestros cuerpos sus batallas libros 2022](https://fotos.etheriamagazine.com/2022/01/nuestros-cuerpos-sus-batallas-677x1024.jpg "Nuestros cuerpos, sus batallas.")
 
 ## 8\. 'Nuestros cuerpos, sus batallas', para tomar conciencia
 
@@ -126,7 +126,7 @@ justicia.
 
 Editado por Principal de los Libros. 
 
-![libros 2022 caminos llevan a filipinas](etheria-images/2020/12/manena-munar-todos-los-caminos-llevan-a-filipinas.jpg "Manena Munar, autora de 'Todos los caminos llevan a Filipinas'.")
+![libros 2022 caminos llevan a filipinas](https://fotos.etheriamagazine.com/2020/12/manena-munar-todos-los-caminos-llevan-a-filipinas.jpg "Manena Munar, autora de 'Todos los caminos llevan a Filipinas'.")
 
 ## 9\. 'Todos los caminos llevan a Filipinas', para mujeres solidarias
 
@@ -140,7 +140,7 @@ extraordinarias’](https://etheriamagazine.com/2020/12/11/todos-los-caminos-lle
 
 Editado por Casiopea. 
 
-![libro acuarela anaya touring](etheria-images/2022/01/libro-acuarela.jpg "Curso de acuarela a través del paisaje.")
+![libro acuarela anaya touring](https://fotos.etheriamagazine.com/2022/01/libro-acuarela.jpg "Curso de acuarela a través del paisaje.")
 
 ## 10\. 'Curso de acuarela a través del paisaje', para las más artistas
 

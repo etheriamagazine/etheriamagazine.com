@@ -1,7 +1,7 @@
 ---
 title: "Visita Tarancón para probar el mejor chuletón del mundo"
 date: 2022-04-27
-coverImage: etheria-images/2022/04/chuleton-restaurante-essentia-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/04/chuleton-restaurante-essentia-1.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -15,7 +15,7 @@ que justificado. Pero si, además, se añaden visitas a Segóbriga, las Caras de
 Ocaña y el monasterio de Uclés, se convierte en una escapada redonda a menos de una hora 
 de Madrid. 
 
-![Panorámica aérea de Tarancón.](etheria-images/2022/04/Vista-Tarancon.jpg "Panorámica aérea de Tarancón. ©Ayto. de Tarancón")
+![Panorámica aérea de Tarancón.](https://fotos.etheriamagazine.com/2022/04/Vista-Tarancon.jpg "Panorámica aérea de Tarancón. ©Ayto. de Tarancón")
 
 El origen de la “Noble Ciudad” de **Tarancón** se remonta a los pobladores celtíberos 
 que se establecieron en la zona más alta de la localidad, justo donde ahora se encuentra 
@@ -44,7 +44,7 @@ almacén de grano donde se guardaba cereal para paliar los años de mala cosecha
 **santuario de Nuestra Señora Virgen de Riánsares**, patrona del lugar**,** situado a 3 
 kilómetros de Tarancón. 
 
-![Interior del elegante restaurante Essentia de Tarancón](etheria-images/2022/04/Restaurante-essentia-683x1024.jpg "© Restaurante Essentia, en Tarancón.")
+![Interior del elegante restaurante Essentia de Tarancón](https://fotos.etheriamagazine.com/2022/04/Restaurante-essentia-683x1024.jpg "© Restaurante Essentia, en Tarancón.")
 
 ## Dónde comer en Tarancón el mejor chuletón del mundo
 
@@ -63,7 +63,7 @@ vacuno de todo el planeta.
 ✅ [No olvides reservar en la web de Essentia para no dar el paseo en 
 vano...](https://www.essentiarestaurante.com/) 
 
-![Chuletón del restaurante Essentia](etheria-images/2022/04/chuleton-restaurante-Essentia.jpg "Chuletón del restaurante Essentia.")
+![Chuletón del restaurante Essentia](https://fotos.etheriamagazine.com/2022/04/chuleton-restaurante-Essentia.jpg "Chuletón del restaurante Essentia.")
 
 En Essentia el secreto está en la extraordinaria calidad de los **lomos enteros de vacas 
 finlandesas Ayrshire**, criadas en libertad, madurados en sus propias cámaras 
@@ -81,7 +81,7 @@ de la ciudad.
 Así, con el campamento base establecido, os proponemos una lista de escapadas muy 
 cercanas para que el fin de semana sea redondo. 
 
-![Monasterio de Uclés](etheria-images/2022/04/Monasterio-de-Ucles.jpg "Monasterio de Uclés. © Rafa Esteve/Wikimedia")
+![Monasterio de Uclés](https://fotos.etheriamagazine.com/2022/04/Monasterio-de-Ucles.jpg "Monasterio de Uclés. © Rafa Esteve/Wikimedia")
 
 ## Excursiones desde Tarancón
 
@@ -103,7 +103,7 @@ VI.
 de Uclés** ofrece un atractivo programa de eventos y actividades culturales como 
 concursos literarios, exposiciones, conciertos y conferencias en un enclave único. 
 
-![dos imágenes del parque arqueológico de Segóbriga](etheria-images/2022/04/Parque-Segobriga.jpg "Parque Arqueológico de Segóbriga. © Cultura JCCM")
+![dos imágenes del parque arqueológico de Segóbriga](https://fotos.etheriamagazine.com/2022/04/Parque-Segobriga.jpg "Parque Arqueológico de Segóbriga. © Cultura JCCM")
 
 ### 2\. Segóbriga, el esplendor del Imperio Romano (a 26 km de Tarancón)
 
@@ -118,7 +118,7 @@ arqueológico más importante de la Meseta, se puede visitar y es una actividad 
 recomendable. El graderío del teatro es una auténtica maravilla en el que se celebran 
 conciertos durante los meses de verano. 
 
-![Tres imágenes de la Plaza Mayor de Ocaña](etheria-images/2022/04/plaza-mayor-ocana.jpg "Plaza Mayor de Ocaña. © Oficina de Turismo Ocaña")
+![Tres imágenes de la Plaza Mayor de Ocaña](https://fotos.etheriamagazine.com/2022/04/plaza-mayor-ocana.jpg "Plaza Mayor de Ocaña. © Oficina de Turismo Ocaña")
 
 ### 3\. Ocaña (a 45 km de Tarancón)
 
@@ -141,7 +141,7 @@ propiamente dicha. Ocaña cuenta además con destacados edificios religiosos com
 **iglesia de San Juan** y la de **Santa María** o el **convento de Santo Domingo**, 
 atribuido a Alonso de Covarrubias, edificado en el siglo XVI. 
 
-![Una de las caras talladas en la roca en la Ruta de las Caras de Buendía](etheria-images/2022/04/Ruta-caras-Buendia.jpg "Ruta de las Caras de Buendía. © Yolanda Cardo")
+![Una de las caras talladas en la roca en la Ruta de las Caras de Buendía](https://fotos.etheriamagazine.com/2022/04/Ruta-caras-Buendia.jpg "Ruta de las Caras de Buendía. © Yolanda Cardo")
 
 ### 4\. Ruta de las Caras de Buendía (a 71 km de Tarancón)
 

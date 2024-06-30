@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué es buena idea viajar a Cork con amigas?"
 date: 2018-12-26
-coverImage: etheria-images/2018/12/carcel-cork-e1647553526412.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/12/carcel-cork-e1647553526412.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -14,7 +14,7 @@ authors:
 
 ¿Necesitas razones para viajar a Cork con amigas? Te damos algunas: su entrañable ambiente de pueblo, el tamaño abarcable en un fin de semana, sus maravillosos pubs, un mercado con mucha historia, la mejor calle comercial de Europa y mucho sentido del humor.
 
-![grafiti que representa a un hombre con una bandera](etheria-images/2018/12/bienvenido-a-cork-1024x688.jpg "Grafiti en una calle de Cork.")
+![grafiti que representa a un hombre con una bandera](https://fotos.etheriamagazine.com/2018/12/bienvenido-a-cork-1024x688.jpg "Grafiti en una calle de Cork.")
 
 Viajar a Cork con amigas no suele ser la primera opción cuando buscamos destinos en 
 **Irlanda** para desconectar con nuestro grupo. Probablemente, prefiramos pasar por 
@@ -29,7 +29,7 @@ directos en verano desde España) o al de Dublín (tendrás que conducir unas 3 
 llegar a esta ciudad) y queréis disfrutar de vuestro tiempo al máximo. ¿Cuáles son los 
 lugares imprescindibles que debéis marcar en vuestra agenda? 
 
-![mercado ingles de cork, viaje cork](etheria-images/2018/12/Mercado-ingles-cork-1024x683.jpg "Interior del Mercado Inglés.")
+![mercado ingles de cork, viaje cork](https://fotos.etheriamagazine.com/2018/12/Mercado-ingles-cork-1024x683.jpg "Interior del Mercado Inglés.")
 
 ## Qué ver en Cork con amigas
 
@@ -47,7 +47,7 @@ con jengibre); los _butter eggs_ (son huevos que se untan con mantequilla nada m
 ponerlos las gallinas y parece ser que le da un sabor especial) y las _tripes & 
 drisheen_, una especie de morcilla con callos. 
 
-![pescadero de cork, que ver en cork](etheria-images/2018/12/pescadero-cork-1024x731.jpg "Pat O'Connell es conocido como 'el pescadero de Cork'.")
+![pescadero de cork, que ver en cork](https://fotos.etheriamagazine.com/2018/12/pescadero-cork-1024x731.jpg "Pat O'Connell es conocido como 'el pescadero de Cork'.")
 
 Si veis mucha gente alrededor de la pescadería, no os sorprendáis, porque su dueño, Pat 
 O'Connell, alcanzó la fama tras hacer un comentario jocoso (saltándose el protocolo) 
@@ -64,7 +64,7 @@ donde hacer un descanso tras una "dura jornada de compras". Ir de compras es una
 actividad que no puede faltar en un viaje a Cork con amigas (incluso si no pensáis 
 comprar, el ambiente merece la pena). 
 
-![compras en cork, músicos callejeros en cork](etheria-images/2018/12/musicos-blankett-street-cork-1024x716.jpg "Músicos en Plunkett Street, la calle comercial de Cork.")
+![compras en cork, músicos callejeros en cork](https://fotos.etheriamagazine.com/2018/12/musicos-blankett-street-cork-1024x716.jpg "Músicos en Plunkett Street, la calle comercial de Cork.")
 
 ### 3\. Iglesia de Santa Ana
 
@@ -79,7 +79,7 @@ muy antiguos, la mayoría son posteriores al siglo XIX porque, tras un ataque de
 independentistas irlandeses, los británicos optaron por prender fuego a todo el centro 
 histórico (según la versión local). 
 
-![que ver en cork, torre de shandon, mujeres en cork](etheria-images/2018/12/torre-shandon-Cork-1024x705.jpg "La Torre de Shandon es el campanario del templo de Santa Ana. © O.T. Irlanda")
+![que ver en cork, torre de shandon, mujeres en cork](https://fotos.etheriamagazine.com/2018/12/torre-shandon-Cork-1024x705.jpg "La Torre de Shandon es el campanario del templo de Santa Ana. © O.T. Irlanda")
 
 ### 4\. Catedral de St. Fin Barre
 
@@ -93,7 +93,7 @@ que devolverla. Merece la pena que paséis al interior para admirar sus bellísi
 vidrieras. Otra curiosidad que podemos mencionar es que Finbarre significa 'cresta 
 rubia' y que el santo recibió este nombre por el color de su pelo. 
 
-![Catedral de San Finbar, que ver en cork](etheria-images/2018/12/catedral-sanfinbar-cork-1024x683.jpg "En la fachada trasera de la Catedral de St. Fin Barre (Finbarr) se puede observar el ángel dorado.")
+![Catedral de San Finbar, que ver en cork](https://fotos.etheriamagazine.com/2018/12/catedral-sanfinbar-cork-1024x683.jpg "En la fachada trasera de la Catedral de St. Fin Barre (Finbarr) se puede observar el ángel dorado.")
 
 ### 5\. Museo de la Mantequilla
 
@@ -107,7 +107,7 @@ probarla, al igual que **los deliciosos helados y yogures**. Dicen que la leche 
 sabe diferente y podemos certificar que es así. Ya no contaréis si pensáis lo mismo. 
 Otros museos que también merecen una visita son el de la Radio y el Militar. 
 
-![puentes cork, que ver en cork](etheria-images/2018/12/Puentes-Cork-1024x683.jpg "Varios puentes comunican el centro histórico de Cork, en medio del río, con tierra firme. Estas farolas tan curiosas recuerdan su vinculación como ciudad portuaria.")
+![puentes cork, que ver en cork](https://fotos.etheriamagazine.com/2018/12/Puentes-Cork-1024x683.jpg "Varios puentes comunican el centro histórico de Cork, en medio del río, con tierra firme. Estas farolas tan curiosas recuerdan su vinculación como ciudad portuaria.")
 
 ### 6\. Ir de pubs en Cork con amigas
 
@@ -125,7 +125,7 @@ Si sois muy _fans_ de la cerveza también podéis acercaros a la [Franciscan Wel
 Brewery](http://www.franciscanwellbrewery.com), que lleva el nombre del monasterio que 
 se ubicaba justo en ese sitio. 
 
-![](etheria-images/2018/12/pub-irlandes-cork-1024x641.jpg "Música en directo en un pub irlandés,")
+![](https://fotos.etheriamagazine.com/2018/12/pub-irlandes-cork-1024x641.jpg "Música en directo en un pub irlandés,")
 
 ### 7\. Galería de Arte Crowford
 
@@ -138,7 +138,7 @@ Está ubicada en un lugar muy céntrico, junto a la Ópera, por lo que incluso p
 acercaros a tomar algo en su coqueta cafetería. En su web podéis consultar las 
 exposiciones temporales. 
 
-![prision de cork, que ver en cork, viaje mujeres cork](etheria-images/2018/12/carcel-cork-1024x641.jpg "Este edificio con aspecto de fortaleza fue la prisión de Cork.© O.T. Irlanda")
+![prision de cork, que ver en cork, viaje mujeres cork](https://fotos.etheriamagazine.com/2018/12/carcel-cork-1024x641.jpg "Este edificio con aspecto de fortaleza fue la prisión de Cork.© O.T. Irlanda")
 
 ### 8\. Cárcel de Cork
 

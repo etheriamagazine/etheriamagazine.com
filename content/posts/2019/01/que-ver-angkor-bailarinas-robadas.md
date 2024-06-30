@@ -1,7 +1,7 @@
 ---
 title: "Las bailarinas ‘desaparecidas’ de Angkor"
 date: 2019-01-17
-coverImage: etheria-images/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -14,7 +14,7 @@ los actuales guías del lugar, durante la visita turística, siguen llamando “
 bailarinas de Malraux” a las estatuas que quería llevarse a su casa el ministro de 
 cultura francés. Te contamos además qué ver en Angkor para que no te pierdas nada. 
 
-![relieve del templo de Banteay Srei en Angkor](etheria-images/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg "Apsaras del templo de Banteay Srei (Camboya).")
+![relieve del templo de Banteay Srei en Angkor](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Apsaras-de-Banteay-Srei-e1673862978728.jpg "Apsaras del templo de Banteay Srei (Camboya).")
 
 Érase una vez –¡y no es un cuento!– un ‘intelectual’ francés fue arrestado en Phnom Penh 
 (Camboya) por robar varias estatuas del **templo de Banteay Srei** (Camboya). Las había 
@@ -28,7 +28,7 @@ y le dejó libre a cambio de una suma de dinero (que se desconoce). Posteriormen
 (nombre completo de este amigo de lo ajeno) ministro de cultura de La République 
 Francaise. _Au revoir!_ 
 
-![ministro frances andre malraux, historias camboya](etheria-images/2019/01/viaje-camboya-Andre-Malraux-el-ministro-ladron-e1673863069582.jpg "Ministro francés Andre Malraux.")
+![ministro frances andre malraux, historias camboya](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-Andre-Malraux-el-ministro-ladron-e1673863069582.jpg "Ministro francés Andre Malraux.")
 
 Hemos empezado con la anécdota de este ‘intachable ministro’ para explicar que si el 
 paso del tiempo puede ser implacable, el mejor ejemplo de lo que el tiempo es capaz de 
@@ -43,7 +43,7 @@ naturaleza sigue como vencedora ante la obra del hombre, puesto que las tupidas 
 de los árboles que aprisionan a las ruinas no se pueden extirpar porque se destruiría el 
 templo. 
 
-![raíces en el Templo de las Mujeres en Angkor](etheria-images/2020/06/Camboya-Templo-en-Angkor-Vat-e1673860295291.jpg "Los árboles invaden el templo de Ta Prohm. © P. Grifol")
+![raíces en el Templo de las Mujeres en Angkor](https://fotos.etheriamagazine.com/2020/06/Camboya-Templo-en-Angkor-Vat-e1673860295291.jpg "Los árboles invaden el templo de Ta Prohm. © P. Grifol")
 
 ## Pétreas joyas arqueológicas de Camboya
 
@@ -59,7 +59,7 @@ Queda muy poética la versión con la que algunas guías nos ilustran sobre el
 iba tras ella, y en su persecución, se dio de bruces con las ruinas de Angkor". 
 Narración que se completa con frases como: "...un lugar en el que el tiempo se detuvo". 
 
-![niños en bicicleta en Angkor Wat](etheria-images/2019/01/viaje-camboya-mujeres-angkor-vat-e1673859799585.jpg "Ruinas de Angkor Vat (Camboya).")
+![niños en bicicleta en Angkor Wat](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-angkor-vat-e1673859799585.jpg "Ruinas de Angkor Vat (Camboya).")
 
 Pues bien, ni el tiempo se detuvo, ni se descubrió nada, ya que hay fidedignos indicios 
 de que los lugareños, durante los siglos precedentes al nuestro, visitaban puntualmente 
@@ -91,7 +91,7 @@ turísticos, pero hay que verlo _en situ_.
 Como motivo de orgullo nacional que es, la imagen también aparece en los billetes de 
 banco y en la bandera de Camboya. 
 
-![monjes budistas en angkor vat](etheria-images/2019/01/viaje-camboya-angkor-vat-Templo-budista-e1673860168490.jpg "Templo budista (Camboya).")
+![monjes budistas en angkor vat](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-angkor-vat-Templo-budista-e1673860168490.jpg "Templo budista (Camboya).")
 
 Fuera del recinto amurallado, una comunidad de **monjes budistas** se ocupa del 
 mantenimiento espiritual del recinto sagrado. Merece la pena hacerles una visita porque 
@@ -102,7 +102,7 @@ representaciones de su efigie en piedra tallada, que miran a los cuatro puntos
 cardinales que simbolizan las diferentes actitudes del budismo: la compasión, la 
 caridad, la simpatía y la ecuanimidad. 
 
-![relieves del templo bayon en Angkor](etheria-images/2019/01/viaje-camboya-mujeres-Templo-Bayon.jpg "Templo de Bayon (Camboya).")
+![relieves del templo bayon en Angkor](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-mujeres-Templo-Bayon.jpg "Templo de Bayon (Camboya).")
 
 ## Templo de Banteay Srei, la joya de Angkor
 
@@ -116,7 +116,7 @@ encontraremos a las célebres apsaras, las bailarinas que hace más de 700 años
 en la corte jemer y eran consideradas ninfas celestiales. Las hay de piedra y algunos 
 días ¡de carne y hueso! 
 
-![bailarinas en Angkor](etheria-images/2019/01/viaje-camboya-Bailarinas-1-e1673860228944.jpg "Bailarinas de Angkor.")
+![bailarinas en Angkor](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-Bailarinas-1-e1673860228944.jpg "Bailarinas de Angkor.")
 
 ## Dos días en Siem Reap
 
@@ -128,7 +128,7 @@ llena de buenos hoteles y buenos restaurantes donde conocer de cerca el espírit
 pueblo camboyano. Es recomendable emplear dos o tres días para la visita cultural a los 
 templos de Angkor y dos días más para seguir la pista del ocio en Siam Reap. 
 
-![transporte en siem reap](etheria-images/2019/01/viaje-camboya-Siem-Reap.jpg "Calles de Siem Reap (Camboya).")
+![transporte en siem reap](https://fotos.etheriamagazine.com/2019/01/viaje-camboya-Siem-Reap.jpg "Calles de Siem Reap (Camboya).")
 
 ## Guía práctica de Angkor
 

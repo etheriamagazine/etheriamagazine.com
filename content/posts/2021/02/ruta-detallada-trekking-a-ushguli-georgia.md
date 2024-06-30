@@ -1,7 +1,7 @@
 ---
 title: "Trekking a Ushguli, la aldea habitada más alta de Europa"
 date: 2021-02-16
-coverImage: etheria-images/2021/02/ushguli-georgia.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/02/ushguli-georgia.jpg
 categories: 
   - historias-en-femenino
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 El destino llevó a Gracia Martínez a Georgia, un país que se ha convertido en uno de los protagonistas de su libro ‘Sola. Anatomía de un viaje en tren a Tbilisi’. La autora ha elegido la ruta que más le ha gustado de este destino, el trekking a Ushguli, y la comparte con las lectoras de Etheria Magazine. ¿Estás preparada para comenzar la caminata?
 
-![valle con flores georgia](etheria-images/2021/02/georgia-ruta-caucaso-flores.jpg "Georgia, en los confines de Europa, es un paraíso poco conocido. © G. Martínez")
+![valle con flores georgia](https://fotos.etheriamagazine.com/2021/02/georgia-ruta-caucaso-flores.jpg "Georgia, en los confines de Europa, es un paraíso poco conocido. © G. Martínez")
 
 Las grandes pasiones de Gracia Martínez son los viajes, la fotografía y contar 
 historias. Es la autora de _Living la vida Georgia_, un espacio _on line_ intimista 
@@ -29,7 +29,7 @@ Como no podríamos desear mejor cicerone en Georgia que esta intrépida viajera,
 pedido que nos relate una de sus rutas favoritas en el país. ¿Te apuntas a recorrer este 
 trekking a Ushguli que nos llevará al techo de Europa? 
 
-![vacas en trekking a Ushguli](etheria-images/2021/02/vacas-trekking-Ushguli-georgia.jpg "Vacas en el trekking a Ushguli (Georgia). © Hikersbay Hikersbay")
+![vacas en trekking a Ushguli](https://fotos.etheriamagazine.com/2021/02/vacas-trekking-Ushguli-georgia.jpg "Vacas en el trekking a Ushguli (Georgia). © Hikersbay Hikersbay")
 
 ## Caminando sola entre las flores del Cáucaso
 
@@ -47,7 +47,7 @@ del mundo, gracias a la riqueza de sus paisajes, sus monasterios enclavados en s
 imposibles, sus míticas ciudades excavadas en la roca, su gastronomía y la hospitalidad 
 de sus gentes. 
 
-![aldea de georgia](etheria-images/2021/02/georgia-trekking.jpg "Las torres destacan sobre los tejados de esta aldea. © G. Martínez")
+![aldea de georgia](https://fotos.etheriamagazine.com/2021/02/georgia-trekking.jpg "Las torres destacan sobre los tejados de esta aldea. © G. Martínez")
 
 ## Svanetia y sus 175 torres
 
@@ -68,7 +68,7 @@ familias** durante las disputas sangrientas que tuvieron lugar en estas comunida
 lugar de confiar la defensa de un pueblo a una gran fortaleza o castillo, cada familia 
 de esvanos construyó su propia torre al lado de su casa. 
 
-![camino del trekking a Ushguli](etheria-images/2021/02/georgia-paisaje-adishi-683x1024.jpg "Las flores son las protagonistas en buena parte del trekking a Ushguli. © G. Martínez")
+![camino del trekking a Ushguli](https://fotos.etheriamagazine.com/2021/02/georgia-paisaje-adishi-683x1024.jpg "Las flores son las protagonistas en buena parte del trekking a Ushguli. © G. Martínez")
 
 ## Trekking a Ushguli, en Mestia comienza la caminata
 
@@ -82,7 +82,7 @@ incomparable hermosura del **monte Ushba**, el pico que domina la garganta de En
 una de las montañas más bonitas de toda la cordillera del Cáucaso así como una excelente 
 vista del valle de Svanetia dominado por el pico de Tetnuldi. 
 
-![khachapuri comida de georgia](etheria-images/2021/02/khachapuri-comida-georgia.jpg "Khachapuri. © Mike Swigunski")
+![khachapuri comida de georgia](https://fotos.etheriamagazine.com/2021/02/khachapuri-comida-georgia.jpg "Khachapuri. © Mike Swigunski")
 
 El poder degustar la cocina tradicional fue indudablemente otro de los grandes 
 alicientes de esta travesía. La diversidad paisajística es directamente proporcional a 
@@ -98,7 +98,7 @@ lenta vida que parecen tener.
 > nos lleva por un maravilloso entorno natural de barrancos, valles alpinos y un telón de 
 > fondo formado por majestuosas montañas cubiertas de nieve. 
 
-![torre de svanetia en georgia](etheria-images/2021/02/georgia-torres-adishi-683x1024.jpg "Torres de Adishi. En la región de Svanetia se pueden contar hasta 175 torres. © G. Martínez")
+![torre de svanetia en georgia](https://fotos.etheriamagazine.com/2021/02/georgia-torres-adishi-683x1024.jpg "Torres de Adishi. En la región de Svanetia se pueden contar hasta 175 torres. © G. Martínez")
 
 ## Adishi, una preciosa aldea de montaña
 
@@ -117,7 +117,7 @@ primeros caminantes y las vacas saliendo a pastar a su antojo se alternan con al
 los caballos que se preparan para ayudar a los viandantes a lograr **la parte más 
 difícil del trekking: llegar hasta el glaciar y vadear el indómito río Adishi**. 
 
-![Glaciar Adishi en georgia](etheria-images/2021/02/georgia-adishi.jpg "Glaciar Adishi. © G. Martínez")
+![Glaciar Adishi en georgia](https://fotos.etheriamagazine.com/2021/02/georgia-adishi.jpg "Glaciar Adishi. © G. Martínez")
 
 ## Glaciar Adishi, un gran atractivo de la ruta de Ushguli
 
@@ -131,7 +131,7 @@ hacer varias fotos, y comenzar de nuevo con el empinado sendero, la imponente le
 glaciar se mueve, rugiendo de una forma atroz, haciéndome sentir totalmente 
 insignificante frente al infinito poder de la naturaleza. 
 
-![vista de Ushguli georgia](etheria-images/2021/02/ushguli-georgia.jpg "Panorámica de Ushguli. © Tomáš Malík")
+![vista de Ushguli georgia](https://fotos.etheriamagazine.com/2021/02/ushguli-georgia.jpg "Panorámica de Ushguli. © Tomáš Malík")
 
 ## De Iprali a Ushguli
 
@@ -146,7 +146,7 @@ elegido para conservar las **reliquias religiosas**. Y es que, durante las mucha
 invasiones de Georgia, a través de los siglos, los iconos y otros objetos de valor 
 fueron traídos a esta zona aislada, para ser custodiados. 
 
-![templo en trekking a Ushguli](etheria-images/2021/02/georgia-templo.jpg "Templo en la ruta de Ushguli. © G. Martínez")
+![templo en trekking a Ushguli](https://fotos.etheriamagazine.com/2021/02/georgia-templo.jpg "Templo en la ruta de Ushguli. © G. Martínez")
 
 Una vez finalizado el trekking la recompensa es enorme. La sensación de irrealidad se 
 mezcla con la satisfacción de haberse ganado las espectaculares vistas con el asombroso 
@@ -155,7 +155,7 @@ hasta esta aldea perdida rodeada de leyendas, disfrutando de idílicos paisajes,
 pocas cosas más placenteras que sentarse a ver la puesta de sol, que aquí en Ushguli 
 siempre es mágica. 
 
-![Sola Anatomia de un viaje en tren a Tbilisi](etheria-images/2021/02/viajar-sola-georgia-683x1024.jpg)
+![Sola Anatomia de un viaje en tren a Tbilisi](https://fotos.etheriamagazine.com/2021/02/viajar-sola-georgia-683x1024.jpg)
 
 Autora de la ruta: **Gracia Martínez**. Sigue sus aventuras en [Instagram](https://www.instagram.com/livinglavidageorgia/) 
 y en su blog [Living la vida Georgia](http://living-la-vida-georgia.com/). Puedes 

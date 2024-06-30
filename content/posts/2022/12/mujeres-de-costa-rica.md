@@ -1,7 +1,7 @@
 ---
 title: "Mujeres de Costa Rica que nos han inspirado en 2022"
 date: 2022-12-30
-coverImage: etheria-images/2022/12/costa-rica-mujeres-bahia-drake-corcovado.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/costa-rica-mujeres-bahia-drake-corcovado.jpg
 categories: 
   - historias-en-femenino
 authors: 
@@ -14,7 +14,7 @@ este motivo, os hemos querido presentar en 2022 a una serie de mujeres de Costa 
 historias que vale la pena conocer y que además han fundado sus negocios en esta 
 maravillosa tierra a la que hay que viajar, si se puede, varias veces en la vida. 
 
-![Playa de la bahía de Drake.](etheria-images/2022/12/costa-rica-mujeres-bahia-drake-corcovado.jpg "Playa de la bahía de Drake.")
+![Playa de la bahía de Drake.](https://fotos.etheriamagazine.com/2022/12/costa-rica-mujeres-bahia-drake-corcovado.jpg "Playa de la bahía de Drake.")
 
 En la segunda mitad de 2022 hemos puesto el foco en proyectos femeninos en Costa Rica 
 que están contribuyendo a dinamizar zonas rurales, y a la vez turísticas, de gran 
@@ -39,7 +39,7 @@ la zona de Guanacaste. Así que, si pasas por su taller, no dudes en llevarte un
 estas delicadas piezas, un recuerdo perfecto para llevarte un trozo de Costa Rica a 
 casa, en forma de útil de cocina o un precioso bolso “Mestizo”. 
 
-![Ruth Guevara, una artesana de la península de Nicoya.](etheria-images/2022/12/ruth-guevara-nicoya-850x567.jpg "Ruth Guevara, una artesana de la península de Nicoya.")
+![Ruth Guevara, una artesana de la península de Nicoya.](https://fotos.etheriamagazine.com/2022/12/ruth-guevara-nicoya-850x567.jpg "Ruth Guevara, una artesana de la península de Nicoya.")
 
 La **Península de Nicoya** se reparte entre Guanacaste y Puntarenas. Es una de las cinco 
 Blue Zones del planeta (la única en Iberoamérica), que son lugares donde la esperanza de 
@@ -63,7 +63,7 @@ al frente del **Tour del Palmito**, un paseo por una plantación de palmeras don
 conocer este producto y terminan con una degustación de platillos, tanto dulces como 
 salados, preparados con palmito. 
 
-![mujeres emprendedoras de Sarapiquí](etheria-images/2022/12/Marielos-maria-luz-sarapiqui-costa-rica.jpg "Marielos Núñez y María Luz Jiménez de Sarapiquí.")
+![mujeres emprendedoras de Sarapiquí](https://fotos.etheriamagazine.com/2022/12/Marielos-maria-luz-sarapiqui-costa-rica.jpg "Marielos Núñez y María Luz Jiménez de Sarapiquí.")
 
 **Sarapiquí** cuenta con infinidad de lugares para pasar unos días de vacaciones 
 estupendos. Los más conocidos son Puerto Viejo, el Parque Nacional de Braulio Carrillo, 
@@ -86,7 +86,7 @@ Rica**, ubicado en San José. Y Andrea Sánchez, que siempre tuvo el sueño de s
 astronauta, ha fundado **Glamping Dome**, un alojamiento integrado en la naturaleza en 
 la selva de Limón. 
 
-![Marielos Corea, Mayra Gayle y Andrea Sánchez del Valle Central](etheria-images/2022/12/Marielos-Mayra-Andrea-valle-central-costa-rica.jpg "Marielos Corea, Mayra Gayle y Andrea Sánchez del Valle Central.")
+![Marielos Corea, Mayra Gayle y Andrea Sánchez del Valle Central](https://fotos.etheriamagazine.com/2022/12/Marielos-Mayra-Andrea-valle-central-costa-rica.jpg "Marielos Corea, Mayra Gayle y Andrea Sánchez del Valle Central.")
 
 El Valle Central de Costa Rica se puede descubrir desde la capital, **San José**, que 
 merece una para descubrir algunos de sus lugares imprescindibles como la Plaza de la 
@@ -114,7 +114,7 @@ trabaja este ingrediente consiguiendo deliciosos platillos. Forma parte de la in
 “cocinas abiertas” con la que los turistas participan en la elaboración de estas 
 especialidades. 
 
-![Dalila Cascante y Santos Girón de Guanacaste](etheria-images/2022/12/guanacaste-dalila-santos.jpg "Dalila Cascante y Santos Girón de Guanacaste.")
+![Dalila Cascante y Santos Girón de Guanacaste](https://fotos.etheriamagazine.com/2022/12/guanacaste-dalila-santos.jpg "Dalila Cascante y Santos Girón de Guanacaste.")
 
 En **Guanacaste**, una región situada en el Pacífico Norte de Costa Rica, se combinan 
 los parques naturales del interior con una costa llena de playas de postal con servicios 
@@ -140,7 +140,7 @@ la cultura y la magia de la tierra de este lugar. Apuesta por un turismo educati
 itinerarios que propone son el Tour del palmito y el Tour nocturno de insectos en 
 Caminos de Osa. 
 
-![Eida Fletes de la Península de Osa](etheria-images/2022/12/mujeres-Eida-Fletes-costa-rica-850x594.jpg "Eida Fletes de la Península de Osa.")
+![Eida Fletes de la Península de Osa](https://fotos.etheriamagazine.com/2022/12/mujeres-Eida-Fletes-costa-rica-850x594.jpg "Eida Fletes de la Península de Osa.")
 
 En este rincón de Costa Rica, además del ya mencionando Parque Nacional de Corcovado, se 
 pueden avistar delfines y ballenas en el **Parque Nacional Marino Ballena**, observar 

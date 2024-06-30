@@ -1,7 +1,7 @@
 ---
 title: "La mejor guía de Cádiz provincia para organizar tu viaje"
 date: 2023-03-06
-coverImage: etheria-images/2022/07/playa-bateles-conil.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/07/playa-bateles-conil.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -14,7 +14,7 @@ Cádiz es una apuesta arriesgada ya que de este lugar nos gusta todo. Para un pr
 viaje, de unos 5 a 7 días, bastará con las excursiones de este artículo pero si tienes 
 más tiempo no dudes en ampliar el itinerario. 
 
-![Panorámica de Olvera, uno de los pueblos de Cádiz.](etheria-images/2023/03/que-ver-cadiz-olvera.jpg "Panorámica de Olvera, uno de los pueblos de Cádiz. © Etheria Magazine")
+![Panorámica de Olvera, uno de los pueblos de Cádiz.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-olvera.jpg "Panorámica de Olvera, uno de los pueblos de Cádiz. © Etheria Magazine")
 
 Playas infinitas, pueblos blancos, pescaíto frito, atardeceres naranjas y flamenco... 
 Esas imágenes, que suelen resumir a la provincia de Cádiz en el ideario popular, sólo 
@@ -55,7 +55,7 @@ y en la [web oficial de Turismo de Cádiz](https://turismo.cadiz.es/).
 provincia de 
 Cádiz](https://etheriamagazine.com/2020/03/12/12-actividades-familiares-para-viajes-con-ninos-en-cadiz/). 
 
-![Playa de la Caleta, en Cádiz capital.](etheria-images/2023/03/que-ver-cadiz-la-caleta.jpg "Playa de la Caleta, en Cádiz capital. © Turismo Andaluz")
+![Playa de la Caleta, en Cádiz capital.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-la-caleta.jpg "Playa de la Caleta, en Cádiz capital. © Turismo Andaluz")
 
 ## Pueblos bonitos con playas en Cádiz
 
@@ -83,7 +83,7 @@ escapada a Doñana en el buque “Real Fernando”.
 **NO TE PIERDAS:** [¿Nos comemos y bebemos Sanlúcar de 
 Barrameda?](https://etheriamagazine.com/2022/05/11/donde-comer-sanlucar-de-barrameda/) 
 
-![Plaza del Cabildo, en Sanlúcar de Barrameda.](etheria-images/2023/03/que-ver-cadiz-sanlucar.jpg "Plaza del Cabildo, en Sanlúcar de Barrameda. © Turismo Andaluz")
+![Plaza del Cabildo, en Sanlúcar de Barrameda.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-sanlucar.jpg "Plaza del Cabildo, en Sanlúcar de Barrameda. © Turismo Andaluz")
 
 ### El Puerto de Santa María
 
@@ -96,7 +96,7 @@ Osborne.
 **VISITAS IMPRESCINDIBLES:** [El Puerto de Santa María, entre palacios, playas y 
 vino](https://etheriamagazine.com/2021/11/01/guia-imprescindible-el-puerto-santa-maria/). 
 
-![Muelle deportivo de El Puerto de Santa María](etheria-images/2023/03/que-ver-puerto-santa-maria.jpg "El Puerto de Santa María, una visita imprescindible en Cádiz. © Turismo Andaluz")
+![Muelle deportivo de El Puerto de Santa María](https://fotos.etheriamagazine.com/2023/03/que-ver-puerto-santa-maria.jpg "El Puerto de Santa María, una visita imprescindible en Cádiz. © Turismo Andaluz")
 
 ### Chiclana
 
@@ -112,7 +112,7 @@ excursiones por la provincia.
 **NO TE PIERDAS:** [Una excursión en catamarán por la bahía de Sancti 
 Petri.](https://www.civitatis.com/es/sancti-petri/paseo-catamaran-bahia-sancti-petri/?aid=10211) 
 
-![Playa de Sancti Petri con la isla al fondo.](etheria-images/2023/03/Chiclana-Sancti-Petri.jpg "Playa de Sancti Petri con la isla al fondo. © Turismo Andaluz")
+![Playa de Sancti Petri con la isla al fondo.](https://fotos.etheriamagazine.com/2023/03/Chiclana-Sancti-Petri.jpg "Playa de Sancti Petri con la isla al fondo. © Turismo Andaluz")
 
 ### Conil
 
@@ -123,17 +123,17 @@ excelentes restaurantes y un ambiente distendido. Te proponemos preparar tu viaj
 leyendo estos reportajes en los que lo tratamos en profundidad: 
 
 ![Cala El Frailecillo 
-(Conil).](etheria-images/2021/12/cala-conil-frailecillo.jpg) 
+(Conil).](https://fotos.etheriamagazine.com/2021/12/cala-conil-frailecillo.jpg) 
 1. [Las mejores playas y calas de 
 Conil](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/). 
 
 ![Plaza de España con la escultura dedicada a José 
-Saramago](etheria-images/2022/04/plaza-espana-conil.jpg) 
+Saramago](https://fotos.etheriamagazine.com/2022/04/plaza-espana-conil.jpg) 
 2. [15 visitas que hacer en Conil y ninguna es una 
 playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/). 
 
 ![pescado frito en la Venta 
-Pericón](etheria-images/2023/01/mas-leidos-2022-venta-pericon-conil.jpg) 
+Pericón](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-venta-pericon-conil.jpg) 
 3. [Dónde comer bien en Conil de la 
 Frontera.](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
 
@@ -141,7 +141,7 @@ Frontera.](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-f
 Cádiz, de Conil a Tarifa por la orilla del 
 mar](https://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/) 
 
-![Panorámica de Conil desde la playa de los Bateles.](etheria-images/2022/07/playa-bateles-conil.jpg "Vista de Conil desde la playa de Los Bateles. © Etheria Magazine")
+![Panorámica de Conil desde la playa de los Bateles.](https://fotos.etheriamagazine.com/2022/07/playa-bateles-conil.jpg "Vista de Conil desde la playa de Los Bateles. © Etheria Magazine")
 
 ### Vejer y El Palmar
 
@@ -161,7 +161,7 @@ donde te contamos qué hacer en este pueblo para descubrir su lado más auténti
 bien](https://etheriamagazine.com/2021/07/26/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien/) 
 en el que encontrarás las mejores referencias gastronómicas junto a su playa. 
 
-![Vista panorámica de Vejer de la Frontera.](etheria-images/2020/08/vejer-panoramica-900x476.jpg "Vista panorámica de Vejer de la Frontera. © Etheria Magazine")
+![Vista panorámica de Vejer de la Frontera.](https://fotos.etheriamagazine.com/2020/08/vejer-panoramica-900x476.jpg "Vista panorámica de Vejer de la Frontera. © Etheria Magazine")
 
 ### Barbate (y Zahara de los Atunes)
 
@@ -176,7 +176,7 @@ al municipio, y las de **Caños de Meca**. Su entorno natural, con los pinares d
 Breña, son también todo un espectáculo digno de recorrerse a pie por el borde de los 
 acantilados. 
 
-![Playa de Zahara de los Atunes.](etheria-images/2018/06/playa-de-zahara-de-los-atunes-ruta-del-atun-1024x682.jpg "Zahara de los Atunes. © Etheria Magazine")
+![Playa de Zahara de los Atunes.](https://fotos.etheriamagazine.com/2018/06/playa-de-zahara-de-los-atunes-ruta-del-atun-1024x682.jpg "Zahara de los Atunes. © Etheria Magazine")
 
 ### Tarifa
 
@@ -197,7 +197,7 @@ surf](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amigas
 (Bolonia, 
 Cádiz)](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
 
-![Ruinas de Baelo Claudia, en Tarifa, un lugar que hay que ver en Cádiz provincia](etheria-images/2020/06/tarifa-Baelo-Claudia-900x600.jpg "Ruinas de Baelo Claudia, en Tarifa. © Etheria Magazine")
+![Ruinas de Baelo Claudia, en Tarifa, un lugar que hay que ver en Cádiz provincia](https://fotos.etheriamagazine.com/2020/06/tarifa-Baelo-Claudia-900x600.jpg "Ruinas de Baelo Claudia, en Tarifa. © Etheria Magazine")
 
 ## Qué ver en el interior de la provincia de Cádiz
 
@@ -217,7 +217,7 @@ Lola Flores), bodegas y trabancos.
 **VISITAS IMPRESCINDIBLES EN:** [Viaje con amigas a Jerez, el arte del buen 
 vivir](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-con-amigas/). 
 
-![Interior del magnífico Palacio del Virrey Laserna, en Jerez.](etheria-images/2020/06/palacio-virrey-jerez-900x600.jpg "Interior del magnífico Palacio del Virrey Laserna, en Jerez. © Turismo de Jerez")
+![Interior del magnífico Palacio del Virrey Laserna, en Jerez.](https://fotos.etheriamagazine.com/2020/06/palacio-virrey-jerez-900x600.jpg "Interior del magnífico Palacio del Virrey Laserna, en Jerez. © Turismo de Jerez")
 
 ### Medina Sidonia
 
@@ -230,7 +230,7 @@ Pastora y los alfajores, una delicia de origen árabe con denominación de orige
 dejes de informarte en la [web oficial de Medina 
 Sidonia](https://www.turismomedinasidonia.es/). 
 
-![Panorámica de Medina Sidonia, uno de los pueblos que ver en Cádiz provincia](etheria-images/2023/03/medina-sidonia.jpg "Panorámica de Medina Sidonia. © Turismo Andaluz")
+![Panorámica de Medina Sidonia, uno de los pueblos que ver en Cádiz provincia](https://fotos.etheriamagazine.com/2023/03/medina-sidonia.jpg "Panorámica de Medina Sidonia. © Turismo Andaluz")
 
 ## Pueblos blancos de Cádiz
 

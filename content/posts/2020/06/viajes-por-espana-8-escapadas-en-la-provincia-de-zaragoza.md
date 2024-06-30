@@ -1,7 +1,7 @@
 ---
 title: "8 escapadas en la provincia de Zaragoza"
 date: 2020-06-08
-coverImage: etheria-images/2020/05/Zaragoza-Muel.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/Zaragoza-Muel.jpg
 categories: 
   - viajes-48-horas
   - consejos-practicos
@@ -17,7 +17,7 @@ sus pueblos a situarse en el ranking de los más bonitos de España. Elisabeth G
 te lleva por sus comarcas principales con escapadas a Zaragoza perfectas para todo el 
 año. 
 
-![Paisaje del Parque Nacional del Moncayo.](etheria-images/2020/05/Zaragoza-moncayo.jpg "Paisaje del Parque Nacional del Moncayo.")
+![Paisaje del Parque Nacional del Moncayo.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-moncayo.jpg "Paisaje del Parque Nacional del Moncayo.")
 
 Aparte de la capital de Zaragoza, que ya te descubrimos en Etheria Magazine, la 
 provincia cuenta con dos localidades que entran dentro de la clasificación de los 
@@ -52,7 +52,7 @@ gracias a su arquitectura románica, también declarado Conjunto Histórico-Art�
 o la de San Andrés. Entre los edificios laicos, destacan el palacio de Martí­n el 
 Humano, los restos de su castillo, su Casa Consistorial y la Lonja medieval. 
 
-![casas de Daroca](etheria-images/2020/05/Zaragoza-Daroca.jpg "Daroca.")
+![casas de Daroca](https://fotos.etheriamagazine.com/2020/05/Zaragoza-Daroca.jpg "Daroca.")
 
 **Daroca** es la capital de la comarca homónima. Sus cuatro kilómetros de perí­metro de 
 murallas de los siglos XIII a XVI son impactantes, con sus torreones, sus puertas Alta y 
@@ -69,7 +69,7 @@ balcones de madera, cuenta con edificios como la ermita de Santa Lucía, la torr
 Homenaje o el palacio de los Sada, que permitieron declararlo Conjunto 
 Histórico-Artístico hace más de 50 años. 
 
-![Pueblo Sos del Rey Católico bajo un cielo nublado](etheria-images/2020/05/Zaragoza-sos-del-rey-catolico.jpg "Sos del Rey Católico.")
+![Pueblo Sos del Rey Católico bajo un cielo nublado](https://fotos.etheriamagazine.com/2020/05/Zaragoza-sos-del-rey-catolico.jpg "Sos del Rey Católico.")
 
 Otro pueblo de la Comarca de las Cinco Villas es **Navardún**. Aquí hay que ir antes de 
 que quede totalmente deshabitado para ver todaví­a con cierta vidilla su casco antiguo. 
@@ -82,7 +82,7 @@ pesada de arquitectura románica, como su fortaleza de finales del siglo XI, con
 y su iglesia adyacente. Incluso le cabe en su pequeña extensión una judería enclavada en 
 el Barrio Verde. 
 
-![Bañistas en el Paraje natural en Luesia.](etheria-images/2020/05/Zaragoza-Luesia.jpg "Paraje natural en Luesia. © Turismo de Zaragoza")
+![Bañistas en el Paraje natural en Luesia.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-Luesia.jpg "Paraje natural en Luesia. © Turismo de Zaragoza")
 
 A escasa distancia, **Luesia** es una villa milenaria con un patrimonio arquitectónico 
 románico muy destacable, como su castillo y varias iglesias. Además, no te pierdas el 
@@ -105,7 +105,7 @@ santuario de Nuestra Señora de la Misericordia, la casa de la Estanca, la coleg
 mudéjar de Santa María o el palacio de los Vera, que es Bien de Interés Cultural desde 
 1978. 
 
-![Arquitectura tradicional en Borja.](etheria-images/2020/05/Zaragoza-Borja.jpg "Borja. © Turismo de Zaragoza")
+![Arquitectura tradicional en Borja.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-Borja.jpg "Borja. © Turismo de Zaragoza")
 
 ### 4\. Comarca de Tarazona y el Moncayo
 
@@ -118,7 +118,7 @@ Queiles, que atraviesa el centro del pueblo, cuyos bares son ideales para tapear
 vinatear. Como curiosidad, su plaza de toros ha sido convertida en una urbanización de 
 viviendas. 
 
-![Iglesia de Tarazona](etheria-images/2020/05/Zaragoza-Tarazona.jpg "Tarazona.")
+![Iglesia de Tarazona](https://fotos.etheriamagazine.com/2020/05/Zaragoza-Tarazona.jpg "Tarazona.")
 
 En pleno **Parque Natural del Moncayo**, de 11.000 ricas hectáreas, has de subir al 
 Mirador de la Diezma o a las Peñas de Herrera si estás en forma. A sus pies se sitúan 
@@ -131,7 +131,7 @@ Y no es menos interesante la aldeilla de **Purujosa**, conocida como “el nido 
 la Ermita de la Virgen de Constantín o la Iglesia del Salvador. Aquí se pueden realizar 
 excursiones entretenidas al barranco del Valcongosto. 
 
-![Vistas del Moncayo desde Purujosa.](etheria-images/2020/05/Zaragoza-moncayo-cara-oculta.jpg "El Moncayo desde Purujosa. © Turismo de Zaragoza")
+![Vistas del Moncayo desde Purujosa.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-moncayo-cara-oculta.jpg "El Moncayo desde Purujosa. © Turismo de Zaragoza")
 
 Por su parte, **Trasmoz** es un pueblo famoso por sus brujas. No en vano, alberga un 
 Museo de la Brujería en el castillo de Trasmoz, del siglo XII, aunque también hay 
@@ -146,7 +146,7 @@ entramado de senderos y cascadas de una belleza inusitada, como la impresionante
 Caballo. ¡Uno de los enclaves más hermosos y visitados de Aragón! Es una de las 
 escapadas a Zaragoza que no puedes perderte. 
 
-![Monasterio de Piedra y casas de Moros.](etheria-images/2020/05/Zaragoza-monasterio-piedra-moros.jpg "Monasterio de Piedra y Moros.")
+![Monasterio de Piedra y casas de Moros.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-monasterio-piedra-moros.jpg "Monasterio de Piedra y Moros.")
 
 Pero además puede alardear de pueblitos desconocidos como **Moros**, que forma una 
 bellí­sima caí­da a los pies del valle del rí­o Manubles y está coronado por la iglesia 
@@ -165,7 +165,7 @@ contemplar todavía restos de su arquitectura medieval gótica como los de la to
 Salamanca, el castillo del Compromiso, la colegiata de Santa María la Mayor del Pilar o 
 edificios regios como la casa palacio Piazuelo Barcerán. 
 
-![Castillo de Caspe.](etheria-images/2020/05/Zaragoza-Caspe.jpg "Castillo de Caspe. © Turismo de Zaragoza")
+![Castillo de Caspe.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-Caspe.jpg "Castillo de Caspe. © Turismo de Zaragoza")
 
 ### 7\. Comarca del Campo de Belchite
 
@@ -176,7 +176,7 @@ estragos que causó la Guerra Civil en nuestro país. Interesante visitarlo de l
 Nacho Navarro Gil, que cuenta historias para no dormir, para los amantes de lo 
 parapsicológico, propias de Cuarto Milenio. 
 
-![Ruinas de Belchite Viejo.](etheria-images/2020/05/Zaragoza-belchite-viejo.jpg "Belchite Viejo. © Turismo de Zaragoza")
+![Ruinas de Belchite Viejo.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-belchite-viejo.jpg "Belchite Viejo. © Turismo de Zaragoza")
 
 El otro pueblo histórico es **Fuendetodos**, donde nació Francisco de Goya. Puedes 
 conocer su casa natal, su Museo del Grabado o, entre otros vestigios que recuerdan al 
@@ -191,7 +191,7 @@ donde no solo puedes explorar la naturaleza, sino otros monumentos como la ermit
 Virgen de la Fuente que bendice su parque natural o su presa de origen romano, que 
 contrasta con sus palacios renacentistas. 
 
-![Ermita de la Virgen de la Fuente en Muel.](etheria-images/2020/05/Zaragoza-Muel.jpg "Ermita de la Virgen de la Fuente en Muel. © Turismo de Zaragoza")
+![Ermita de la Virgen de la Fuente en Muel.](https://fotos.etheriamagazine.com/2020/05/Zaragoza-Muel.jpg "Ermita de la Virgen de la Fuente en Muel. © Turismo de Zaragoza")
 
 ### También te puede interesar:
 

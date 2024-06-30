@@ -1,7 +1,7 @@
 ---
 title: "Cómo organizar una ruta en coche a Túnez con amigas"
 date: 2018-05-14
-coverImage: etheria-images/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg
 categories: 
   - viajes-con-amigas
   - viajar-sola
@@ -13,7 +13,7 @@ authors:
 recomendable. En Etheria Magazine te hemos preparado una ruta en coche de 7 días desde 
 la capital a la zona playera, y desde allí hasta los oasis del desierto. 
 
-![Puerta amarilla de la medina de Tunez](etheria-images/2018/05/Medina-Túnez-capital-e1555747337187.jpg "La medina de Túnez es un lugar perfecto para pasear, además de para ir de compras")
+![Puerta amarilla de la medina de Tunez](https://fotos.etheriamagazine.com/2018/05/Medina-Túnez-capital-e1555747337187.jpg "La medina de Túnez es un lugar perfecto para pasear, además de para ir de compras")
 
 Este país concentra en su territorio atractivos tan diversos que son capaces de 
 satisfacer tanto al amante de la historia y la arqueología, con su pasado romano y 
@@ -24,7 +24,7 @@ desde la capital hasta Tozeur, una ciudad del desierto. A continuación, describ
 las **etapas principales** que debes tener en cuenta en este v**iaje a Túnez con 
 amigas** (aunque deja un par de días que te den margen a la improvisación). 
 
-![Tienda de libros del zoco de tunez](etheria-images/2018/05/Medina-Túnez-librería-1024x717.jpg "En el zoco de la medina de Túnez se pueden adquirir productos muy variados.")
+![Tienda de libros del zoco de tunez](https://fotos.etheriamagazine.com/2018/05/Medina-Túnez-librería-1024x717.jpg "En el zoco de la medina de Túnez se pueden adquirir productos muy variados.")
 
 ## Día 1. Túnez o Tunicia, la capital
 
@@ -45,7 +45,7 @@ servirán con piñones y acompañado de pasteles (los de hojaldre con miel y pis
 una delicia). Algunas de las tiendas tienen azoteas y se convierten en excelentes 
 miradores de la ciudad 
 
-![Museo del Bardo](etheria-images/2018/05/Mosaicos-Museo-Bardo-Túnez-e1555747397285.jpg "El Museo del Bardo cuenta con una de las mejores colecciones de mosaicos del mundo.")
+![Museo del Bardo](https://fotos.etheriamagazine.com/2018/05/Mosaicos-Museo-Bardo-Túnez-e1555747397285.jpg "El Museo del Bardo cuenta con una de las mejores colecciones de mosaicos del mundo.")
 
 ### Medina de Túnez
 
@@ -64,7 +64,7 @@ se exhibe una de las mejores colecciones de mosaicos del país, estatuas traída
 Cartago y otras muchas piezas. Se precisan unas horas para poder recorrerlo, al menos 
 mínimamente. 
 
-![Sidi Bou Said una visita basica en un viaje a tunez con amigas](etheria-images/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg "Sidi Bou Saïd es una de las ciudades más bohemias de Túnez")
+![Sidi Bou Said una visita basica en un viaje a tunez con amigas](https://fotos.etheriamagazine.com/2018/05/Sidi-Bou-Said-Tunez-e1552387102944.jpg "Sidi Bou Saïd es una de las ciudades más bohemias de Túnez")
 
 ## Día 2. Sidi Bou Saïd
 
@@ -73,7 +73,7 @@ hora de la capital. Desde el siglo XVIII ha atraído a nobles, artistas e intele
 Muchos de ellos se asentaron en este lugar subyugados por la espiritualidad que emana 
 del lugar y por su inmensa bahía. 
 
-![Sidi Bou Saïd,una ruta viajera en Túnez](etheria-images/2018/05/Sidi-Bou-Said-Puertas-Túnez-e1555747456308.jpg "Sidi Bou Saïd es una ciudad blanca y azul donde destacan sus puertas y ventanas.")
+![Sidi Bou Saïd,una ruta viajera en Túnez](https://fotos.etheriamagazine.com/2018/05/Sidi-Bou-Said-Puertas-Túnez-e1555747456308.jpg "Sidi Bou Saïd es una ciudad blanca y azul donde destacan sus puertas y ventanas.")
 
 Si has leído sobre esta ciudad recordarás las alabanzas dedicadas a sus tonos azules y 
 blancos. No son exageradas. Es un placer recorrer sus callejuelas e inmortalizar las 
@@ -91,7 +91,7 @@ que recuerda a los pueblos blancos andaluces. En su laberinto de callejuelas hal
 mezquitas, viviendas y muchas tiendas de artesanía. Si subes a las torres de la 
 fortaleza obtendrás una panorámica muy completa. 
 
-![Anfiteatro de El Jem](etheria-images/2018/05/Anfiteatro-El-Jem-e1555747486320.jpg "El anfiteatro de El Jem es el tercero más grande del mundo.")
+![Anfiteatro de El Jem](https://fotos.etheriamagazine.com/2018/05/Anfiteatro-El-Jem-e1555747486320.jpg "El anfiteatro de El Jem es el tercero más grande del mundo.")
 
 A 70 km de Susa (una hora por la A1) se encuentra el **anfiteatro de El Jem**. Es el 
 tercero más grande del mundo y el resto romano mejor conservado de África. Cuando el sol 
@@ -109,7 +109,7 @@ viajar en el tiempo con la imaginación. Se exponen en un complejo donde se pued
 observar desde la estructura de la Casa de África, una villa romana, hasta valiosas 
 esculturas, cerámicas y mosaicos. 
 
-![Cuevas trogloditas Matmata Túnez](etheria-images/2018/05/Matmata-Tunez-e1555747508969.jpg "En Matmata se encuentran cuevas trogloditas.")
+![Cuevas trogloditas Matmata Túnez](https://fotos.etheriamagazine.com/2018/05/Matmata-Tunez-e1555747508969.jpg "En Matmata se encuentran cuevas trogloditas.")
 
 ### Día 4. Sfax y Matmata
 
@@ -130,7 +130,7 @@ más seco al llegar al **lago salado de Chott El Jerid**. Cuando camines sobre e
 sentirás crujir la sal bajo tus botas. Si llegas al atardecer el espectáculo está 
 asegurado. 
 
-![Oasis Chebika](etheria-images/2018/05/Oasis-Chebika-Tunez-e1555747541202.jpg "El oasis Chebika es uno de los pocos vergeles del desierto de Túnez.")
+![Oasis Chebika](https://fotos.etheriamagazine.com/2018/05/Oasis-Chebika-Tunez-e1555747541202.jpg "El oasis Chebika es uno de los pocos vergeles del desierto de Túnez.")
 
 ### Día 5-7. Tozeur y el desierto de Túnez
 
@@ -139,7 +139,7 @@ desierto. Esta ciudad, incorporada por los romanos como una parada en la vía qu
 Biskra a Gabès, ofrece todos los servicios que precisa un viajero: hoteles, 
 restaurantes, empresas que organizan excursiones y un entorno bastante seguro. 
 
-![Tozeur es la puerta del desierto de Tunez](etheria-images/2018/05/Tozeur-calles-Tunez-e1552386777113.jpg "Tozeur es la puerta del desierto de Túnez.")
+![Tozeur es la puerta del desierto de Tunez](https://fotos.etheriamagazine.com/2018/05/Tozeur-calles-Tunez-e1552386777113.jpg "Tozeur es la puerta del desierto de Túnez.")
 
 #### La ciudad de Tozeur
 
@@ -150,7 +150,7 @@ de productos frescos, lleno de vida por las mañanas. El mercadillo, un poco ca�
 también es interesante si quieres comprar algún recuerdo (de los de verdad). No agobies 
 a los vendedores tomándoles fotografías, ¡pide permiso siempre! 
 
-![Especias en el mercadillo de Tozeur](etheria-images/2018/05/mercado-de-Tozeur-e1555747636869.jpg "Especias en el mercadillo de Tozeur.")
+![Especias en el mercadillo de Tozeur](https://fotos.etheriamagazine.com/2018/05/mercado-de-Tozeur-e1555747636869.jpg "Especias en el mercadillo de Tozeur.")
 
 #### Oasis de Chebika y Tamerza
 

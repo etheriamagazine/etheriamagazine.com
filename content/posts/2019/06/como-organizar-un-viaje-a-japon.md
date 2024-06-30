@@ -1,7 +1,7 @@
 ---
 title: "5 recomendaciones para preparar un viaje a Japón"
 date: 2019-06-18
-coverImage: etheria-images/2019/04/Japon-Onsen-ryokan-monte-Fuji.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/Japon-Onsen-ryokan-monte-Fuji.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -18,7 +18,7 @@ maletas y lanzarse a la aventura. Pero, por mucho que te guste improvisar, si qu
 aprovechar bien el tiempo y que no haya "sorpresas", es conveniente que sigas algunas 
 recomendaciones básicas. 
 
-![tablillas de deseos en templo de Japón](etheria-images/2019/06/Preparar-viaje-japon-tablillas.jpg "En las tablillas de los deseos del templo Fushimi Inari siempre puedes escribir que quieres volver a Japón. © SG")
+![tablillas de deseos en templo de Japón](https://fotos.etheriamagazine.com/2019/06/Preparar-viaje-japon-tablillas.jpg "En las tablillas de los deseos del templo Fushimi Inari siempre puedes escribir que quieres volver a Japón. © SG")
 
 ## 1\. Elige tu tipo de viaje
 
@@ -39,7 +39,7 @@ Pass](https://www.japan-rail-pass.es), un abono de tren que te permite moverte e
 cómodos y puntuales trenes japoneses, incluidas las líneas del famoso tren bala conocido 
 como _shinkasen_. 
 
-![tren bala en Japón](etheria-images/2019/06/Preparar-viaje-japon-shinkasen.jpg "Tren shinkasen (tren bala).")
+![tren bala en Japón](https://fotos.etheriamagazine.com/2019/06/Preparar-viaje-japon-shinkasen.jpg "Tren shinkasen (tren bala).")
 
 Otra opción es **mezclar los dos tipos de viaje anteriores**: puedes contratar en una 
 agencia los vuelos, los hoteles y el Japan Rail Pass y después moverte por tu cuenta por 
@@ -60,14 +60,14 @@ conocer el Japón más tradicional de Takayama, Shirakawago, Kanazawa y Hakone. 
 Japón completamente diferente y podrás alojarte algún día en un **ryokan**, los hoteles 
 tradicionales japoneses. 
 
-![ryokan tradicional en Japón](etheria-images/2019/04/Japon-Ryokan.jpg "Onsen en un Ryokan. © Rockzheart/Adobe Stock")
+![ryokan tradicional en Japón](https://fotos.etheriamagazine.com/2019/04/Japon-Ryokan.jpg "Onsen en un Ryokan. © Rockzheart/Adobe Stock")
 
 Si te interesa la historia, una parada obligada es **Hiroshima** y si dispones de dos 
 semanas y quieres aprovechar unos días de playa, nada mejor que las paradisíacas [islas 
 de 
 Okinawa](https://etheriamagazine.com/2019/04/05/viajar-sola-que-ver-hacer-dormir-okinawa-japon/). 
 
-![almendros en flor en Kioto](etheria-images/2019/06/Preparar-viaje-Japon-primavera.jpg "Camino del Filósofo con los cerezos en flor en Kioto. © Susana García")
+![almendros en flor en Kioto](https://fotos.etheriamagazine.com/2019/06/Preparar-viaje-Japon-primavera.jpg "Camino del Filósofo con los cerezos en flor en Kioto. © Susana García")
 
 También es importante elegir el momento del año. Japón está precioso (y concurrido) en 
 primavera durante la floración del cerezo (abril) y con los colores rojizos del otoño. 
@@ -77,9 +77,9 @@ en el que puedes realizar un viaje ¡adelante!
 
 ## 3\. Documéntate
 
-![Libro para niños sobre Japón](etheria-images/2019/06/Japon-Banzai.jpg)
+![Libro para niños sobre Japón](https://fotos.etheriamagazine.com/2019/06/Japon-Banzai.jpg)
 
-![Libro sobre Japón](etheria-images/2019/06/Asi-es-Japon-224x300.jpg "Así es Japón.")
+![Libro sobre Japón](https://fotos.etheriamagazine.com/2019/06/Asi-es-Japon-224x300.jpg "Así es Japón.")
 
 Un destino tan rico culturalmente y tan distinto a todo lo que conocemos hay que 
 prepararlo con calma y dedicar tiempo a leer sobre su historia, su cultura y sus 
@@ -108,7 +108,7 @@ crema solar ya que la radiación es alta. Ropa ligera, zapatos cómodos o deport
 tanto hombres como mujeres visten de forma sencilla y discreta con colores neutros. Si 
 no quieres llamar mucho la atención, deja los colores fluor en casa. 
 
-![fachada de la estación de tren de Tokio](etheria-images/2019/06/Preparar-viaje-Japon-estacion-Tokio.jpg "Estación Central de tren de Tokio.")
+![fachada de la estación de tren de Tokio](https://fotos.etheriamagazine.com/2019/06/Preparar-viaje-Japon-estacion-Tokio.jpg "Estación Central de tren de Tokio.")
 
 Si vas a utilizar el **Japan Rail Pass** es importante elegir bien la maleta. Ten en 
 cuenta que te moverás más cómoda si llevas equipaje de cabina, no hay demasiado sitio 
@@ -124,7 +124,7 @@ una bolsa de mano o un trolley por la zona de los Alpes japoneses. También te p
 llevar el equipaje del aeropuerto al hotel y viceversa, reconocerás esta empresa por su 
 logo, que es un gato negro con su cría sobre fondo amarillo. 
 
-![Logo de la compañía de transportes Yamato](etheria-images/2019/06/preparar-viaje-japon-yamato.jpg "Logo de la compañía de transportes Yamato, si necesitas sus servicios para enviar tu maleta búscala en el aeropuerto.")
+![Logo de la compañía de transportes Yamato](https://fotos.etheriamagazine.com/2019/06/preparar-viaje-japon-yamato.jpg "Logo de la compañía de transportes Yamato, si necesitas sus servicios para enviar tu maleta búscala en el aeropuerto.")
 
 ## 5\. Qué es lo que no puede faltarte
 
@@ -146,7 +146,7 @@ Aunque algunos hoteles ya tienen tomas adaptadas a 110 y 220 voltios, por si aca
 que llevar un adaptador ya que la corriente es a 100 voltios. Si viajas con cámara, 
 móvil, tablet, etc. lleva también "un ladrón" para poder conectar varias cosas a la vez. 
 
-![viajes a Japón, viajes a Asia, cuando viajar a Japón](etheria-images/2019/06/preparar-viaje-japon-yen.jpg "Yenes.")
+![viajes a Japón, viajes a Asia, cuando viajar a Japón](https://fotos.etheriamagazine.com/2019/06/preparar-viaje-japon-yen.jpg "Yenes.")
 
 ### Dinero
 
@@ -182,7 +182,7 @@ referencias comunes ni en los gestos, así que aprovecha las recepciones de los 
 para que te escriban en japonés en una tarjeta el nombre del hotel (por si necesitas 
 volver en taxi) y los nombres de los lugares que quieras visitar en el día. 
 
-![carroza tradicional en Takayama](etheria-images/2019/06/Preparar-viaje-Japon-Festival-Takayama.jpg "Festival de la Primavera en Takayama. A pesar de la concentración de gente no verás un papel en el suelo. © Susana García.")
+![carroza tradicional en Takayama](https://fotos.etheriamagazine.com/2019/06/Preparar-viaje-Japon-Festival-Takayama.jpg "Festival de la Primavera en Takayama. A pesar de la concentración de gente no verás un papel en el suelo. © Susana García.")
 
 **•** Japón es un país extremadamente limpio, no verás un papel en el suelo ni en 
 lugares muy concurridos, pero tampoco hay muchas papeleras. Tendrás que llevar contigo 

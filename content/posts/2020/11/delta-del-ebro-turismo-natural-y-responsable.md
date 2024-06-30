@@ -1,7 +1,7 @@
 ---
 title: "Delta del Ebro, un viaje natural sorprendente entre aves y arrozales"
 date: 2020-11-17
-coverImage: etheria-images/2020/11/delta-ebro-ave-arroz.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/delta-ebro-ave-arroz.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 La desembocadura del Ebro nos zambulle en un paisaje deltaico de arena y agua donde se cosecha arroz entre pueblos crecidos de su cultivo y del comercio fluvial. Nos embarcamos para ver al río desaparecer en el mar, mientras nos rodean cientos de aves en el humedal más extenso de Cataluña. Viajamos a Tierras del Ebro/Terres de l'Ebre para vivir experiencias emocionantes.
 
-![ostras y mejillones de l alvi agusti](etheria-images/2020/11/delta-del-ebro-bahia-els-alfacs.jpg "Granja de ostras y mejillones de L'Avi Agustí en Sant Carles de la Rápita.")
+![ostras y mejillones de l alvi agusti](https://fotos.etheriamagazine.com/2020/11/delta-del-ebro-bahia-els-alfacs.jpg "Granja de ostras y mejillones de L'Avi Agustí en Sant Carles de la Rápita.")
 
 . 
 
@@ -34,7 +34,7 @@ plantas y las aves que nidifican en la arena. Recorremos 4 kilómetros, atravesa
 del Delta del Ebro,** cierra la bahía que, en la orilla opuesta, es contorneada por los 
 arrozales de la localidad de **Deltebre**. 
 
-![punta del fangar en delta del ebro](etheria-images/2020/11/delta-del-ebro-el-fangar-683x1024.jpg "Península del Fangar.")
+![punta del fangar en delta del ebro](https://fotos.etheriamagazine.com/2020/11/delta-del-ebro-el-fangar-683x1024.jpg "Península del Fangar.")
 
 ## Bahía de Els Alfacs, flamencos y ostras en el Delta del Ebro
 
@@ -49,14 +49,14 @@ Alfacs** es un paraíso para las aves ya que sus aguas son un magnífico refugio
 > Al estar protegidas las aguas de la bahía de Els Alfacs resultan ideales para que 
 > crezcan ostras y mejillones. 
 
-![ostras en san carlos de la rapita](etheria-images/2020/11/delta-del-ebro-ostras-bahia-els-alfacs.jpg "Ostras de L'Avi Agustí, en el Delta del Ebro.")
+![ostras en san carlos de la rapita](https://fotos.etheriamagazine.com/2020/11/delta-del-ebro-ostras-bahia-els-alfacs.jpg "Ostras de L'Avi Agustí, en el Delta del Ebro.")
 
 Pero ha llegado el momento de hacer una ruta marinera navegando hacia un marisco de lujo 
 que cataremos en [l’Avi Agustí](http://www.aviagusti.com/quienes-somos/) con una copa de 
 cava en la mano, sobre las mismas estructuras de madera de las que cuelgan las hileras 
 de mejillones y ostras ancladas al somero fondo arenoso de la bahía. 
 
-![casa fusta en tierras del ebro](etheria-images/2020/11/delta-ebro-laguna-Encanyssada.jpg "Canales de Casa de Fusta, en el Parque Natural Delta del Ebro.")
+![casa fusta en tierras del ebro](https://fotos.etheriamagazine.com/2020/11/delta-ebro-laguna-Encanyssada.jpg "Canales de Casa de Fusta, en el Parque Natural Delta del Ebro.")
 
 ## Encanyssada, laguna a la vista
 
@@ -68,7 +68,7 @@ refugiándose de los rigores invernales. Abarca las enormes dimensiones de la ba
 subiendo a la torre de observación frente a la casa. También es recomendable catar los 
 arroces, esos que estos días vemos recogiendo a los agricultores locales. 
 
-![arroz del restaurante l estany](etheria-images/2020/11/delta-ebro-laguna-Encanyssada-paella-683x1024.jpg "Restaurante L'Estany, en Tierras del Ebro.")
+![arroz del restaurante l estany](https://fotos.etheriamagazine.com/2020/11/delta-ebro-laguna-Encanyssada-paella-683x1024.jpg "Restaurante L'Estany, en Tierras del Ebro.")
 
 Las infinitas combinaciones arroceras del saber culinario deltaico despiertan apetito 
 con las recetas del [restaurante Casa de Fusta](https://restaurantcasadefusta.com/es/). 
@@ -76,7 +76,7 @@ Después, para bajar la comida, un **paseo en piragua o en carro** nos llevan po
 caminos por el corazón del Delta. Lo más divertido es perchar, al estilo tradicional, en 
 barca de madera o pontona con la que se transportaba el arroz. 
 
-![salicornia laguna tancada en terres del ebre](etheria-images/2020/11/del-ebro-tancada-salicornia-683x1024.jpg "Salicornia de la laguna de la Tancada.")
+![salicornia laguna tancada en terres del ebre](https://fotos.etheriamagazine.com/2020/11/del-ebro-tancada-salicornia-683x1024.jpg "Salicornia de la laguna de la Tancada.")
 
 ## Laguna de la Tancada, otoño en rojo
 
@@ -96,7 +96,7 @@ Natura](https://www.monnaturadelta.com/es/home/portada). Además, conocerás el 
 extraer la sal y la pesca tradicional; y, a la vez, obtendrás una perspectiva de la 
 Punta de la Banya y la bahía de Els Alfacs desde su extraordinario observatorio. 
 
-![en barco por el delta del ebro](etheria-images/2020/11/delta-ebro-navegar.jpg "Navegando por el Delta del Ebro.")
+![en barco por el delta del ebro](https://fotos.etheriamagazine.com/2020/11/delta-ebro-navegar.jpg "Navegando por el Delta del Ebro.")
 
 ## Adiós río, isla de Buda
 
@@ -110,7 +110,7 @@ de las aves, **El Garxal**. Es el punto donde nos situamos frente al horizonte m
 y el lugar donde el río más largo de la península Ibérica desemboca tras haber recorrido 
 930 kilómetros. 
 
-![Whimbrel ave en terres del ebre](etheria-images/2020/11/delta-ebro-ave-arroz.jpg "Whimbrel (Numenius phaeopus) en Tierras del Ebro.")
+![Whimbrel ave en terres del ebre](https://fotos.etheriamagazine.com/2020/11/delta-ebro-ave-arroz.jpg "Whimbrel (Numenius phaeopus) en Tierras del Ebro.")
 
 ## Arroz amigo de los pájaros
 
@@ -123,7 +123,7 @@ Por el contrario, es la biodiversidad del Delta la que dispone, en la reserva na
 de un agua excelente y un magnífico entorno paisajístico. De este modo se mejora la 
 calidad ambiental, el futuro de las aves y la vida de los habitantes del Delta. 
 
-![finca de arroz riet vell terres del ebre](etheria-images/2020/11/delta-ebro-arroz-697x1024.jpg "Finca de arroz ecológico Riet Vell.")
+![finca de arroz riet vell terres del ebre](https://fotos.etheriamagazine.com/2020/11/delta-ebro-arroz-697x1024.jpg "Finca de arroz ecológico Riet Vell.")
 
 ## Río arriba hasta Tortosa
 
@@ -134,7 +134,7 @@ símbolo del carácter viajero que siempre tuvo el cauce fluvial. Así llegamos 
 entrando por el **portal del Romeu**, y ante la escultura de Santiago Apóstol, sentimos 
 la llamada compostelana al ver el comienzo del **camino de Sant Jaume de L’Ebre**. 
 
-![puerta de santiago en tortosa](etheria-images/2020/11/puerta-santiago-tortosa.jpg "Portal del Romeu, en Tortosa.")
+![puerta de santiago en tortosa](https://fotos.etheriamagazine.com/2020/11/puerta-santiago-tortosa.jpg "Portal del Romeu, en Tortosa.")
 
 El puerto de Tortosa acogía a los peregrinos marítimos del Mediterráneo en ruta hasta 
 enlazar con el camino francés en Logroño. Dos mil años de existencia hacen de la 

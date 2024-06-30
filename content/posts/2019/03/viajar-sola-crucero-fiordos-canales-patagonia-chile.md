@@ -1,7 +1,7 @@
 ---
 title: "Crucero por los fiordos y canales de la Patagonia chilena"
 date: 2019-03-22
-coverImage: etheria-images/2019/03/crucero-patagonia-chile.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/crucero-patagonia-chile.jpg
 categories: 
   - viajes-para-mujeres
   - viajar-sola
@@ -14,7 +14,7 @@ sola y disfrutar de los paisajes y de la cultura de la Patagonia chilena. No te 
 los detalles de un crucero por los fiordos de la Patagonia chilena en este artículo de 
 la escritora Elisabeth G. Iborra. 
 
-![mujer en la cubierta del ferry de Navimag.](etheria-images/2019/02/Navimag-foto-cubierta-e1552986249269.jpg "Vista desde la cubierta del ferry de Navimag.")
+![mujer en la cubierta del ferry de Navimag.](https://fotos.etheriamagazine.com/2019/02/Navimag-foto-cubierta-e1552986249269.jpg "Vista desde la cubierta del ferry de Navimag.")
 
 Allá en **Puerto Natales**, un pueblo encantador y rústico con bellas casitas de madera 
 en la punta más austral de Chile, se embarca en uno de los cruceros más bonitos que 
@@ -35,7 +35,7 @@ Para empezar a disfrutarlo, esto es un _must_: el paisaje hay que salir a verlo 
 llueva, hiele, truene o haya marejada; porque es un escándalo, escalofriante, y no sólo 
 por el frío que puede llegar a hacer en según qué estación del año. 
 
-![paisajes de los fiordos chilenos desde la cubierta de un barco](etheria-images/2019/03/Navimag-paisaje-e1552986272842.jpg "Los paisajes desde la cubierta de los ferries de Navimag son sorprendentes.")
+![paisajes de los fiordos chilenos desde la cubierta de un barco](https://fotos.etheriamagazine.com/2019/03/Navimag-paisaje-e1552986272842.jpg "Los paisajes desde la cubierta de los ferries de Navimag son sorprendentes.")
 
 ## Charlas de especialistas a bordo
 
@@ -46,7 +46,7 @@ hubo una glaciación hace unos 16.000 años y que los canales son más anchos (p
 ello menos bonitos) y tienen dos salidas, mientras que los fiordos solo tienen una y, 
 por tanto, es necesario volver sobre la estela que deja el barco a su ida. 
 
-![El buque de Navimag atraviesa los canales chilenos.](etheria-images/2019/03/Navimag-fiordos-e1552986286213.jpg "El buque de Navimag atraviesa los canales chilenos.")
+![El buque de Navimag atraviesa los canales chilenos.](https://fotos.etheriamagazine.com/2019/03/Navimag-fiordos-e1552986286213.jpg "El buque de Navimag atraviesa los canales chilenos.")
 
 Este crucero, en concreto, transcurre por canales todo el tiempo, a excepción de una 
 incursión en el **fiordo Amalia** para avistar el **glaciar Skua** y sus delfines. En 
@@ -72,7 +72,7 @@ extraña que muchos hayan emigrado a territorios más habitables, ahí no podrí
 sobrevivir si no fuera por la artesanía, los turistas que se la compran y la pesca que 
 les da de comer. 
 
-![Paisaje de la zona del Parque Nacional de Torres del Paine](etheria-images/2019/03/chile-glaciares-e1552986302726.jpg "Paisaje de la zona del Parque Nacional de Torres del Paine.")
+![Paisaje de la zona del Parque Nacional de Torres del Paine](https://fotos.etheriamagazine.com/2019/03/chile-glaciares-e1552986302726.jpg "Paisaje de la zona del Parque Nacional de Torres del Paine.")
 
 ### La Estela Marinis y el barco Capitán Leónidas
 
@@ -101,7 +101,7 @@ traduzcas por 'inmediatamente', hazte el favor para no crearte falsas expectativ
 más bien el equivalente del 'ahorita' en el resto de Latinoamérica, es decir: 'en algún 
 momento, ya si eso, cuando surja'. 
 
-![clase de gimnasia en el barco Navimag](etheria-images/2019/03/navimag-gimnasia-cubierta-e1552986329443.jpg "Durante la travesía se puede aprovechar el tiempo para realizar distintas actividades, como una clase de gimnasia.")
+![clase de gimnasia en el barco Navimag](https://fotos.etheriamagazine.com/2019/03/navimag-gimnasia-cubierta-e1552986329443.jpg "Durante la travesía se puede aprovechar el tiempo para realizar distintas actividades, como una clase de gimnasia.")
 
 También te conviene ir al loro porque los chilenos acostumbran a buscarle el doble 
 sentido a cualquier vocablo. Así se les ocurrió 'aperrar', sinónimo de apechugar, 
@@ -121,7 +121,7 @@ establecerse en torno al lago Llanquihue y que colaboraran con la construcción 
 ciudad. Los únicos que le hicieron caso fueron los germanos y Puerto Montt fue fundado 
 en 1853. Hoy día ya cuenta con unos 200.000 habitantes. 
 
-![Barcas en Puerto Montt](etheria-images/2019/03/Crucero-chile-puerto-montt.jpg "Barcas en Puerto Montt. © Yannes Kiefer.")
+![Barcas en Puerto Montt](https://fotos.etheriamagazine.com/2019/03/Crucero-chile-puerto-montt.jpg "Barcas en Puerto Montt. © Yannes Kiefer.")
 
 Para honrar a Pérez Rosales por obrar el milagro, se le puso su nombre al parque 
 nacional más popular y antiguo del país, datado en 1926. Es lo que más destaca de la 
@@ -143,7 +143,7 @@ otros destinos como Frutillar o Puerto Varas. O incluso a Argentina, a la altura
 Bariloche, Torres del Paine y toda la zona de los lagos hasta el Nahuel Huapi, pero de 
 esa belleza ya hablaremos otro día. 
 
-![Frutillar](etheria-images/2019/03/crucero-chile-frutillar.jpg "Frutillar. © William Justen de Vasconcellos.")
+![Frutillar](https://fotos.etheriamagazine.com/2019/03/crucero-chile-frutillar.jpg "Frutillar. © William Justen de Vasconcellos.")
 
 ## Información práctica
 

@@ -1,7 +1,7 @@
 ---
 title: "Chiang Mai en 3 días, una guía esencial para explorar el norte de Tailandia"
 date: 2021-01-08
-coverImage: etheria-images/2021/01/Chiang-Mai-Wat-Phra-Singh-tejados.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-tejados.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -13,7 +13,7 @@ apasionantes y completos de Tailandia. En este artículo descubrirás cuáles so
 visitas y actividades imprescindibles en la antigua capital del Reino de Lanna. ¿Estás 
 preparada para vivir una experiencia inolvidable en el país de la sonrisa? 
 
-![Wat Phra Singh de Chiang Mai](etheria-images/2021/01/Chiang-Mai-Wat-Phra-Singh-templos.jpg "Wat Phra Singh, en Chiang Mai. © Etheria Magazine")
+![Wat Phra Singh de Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-templos.jpg "Wat Phra Singh, en Chiang Mai. © Etheria Magazine")
 
 **Actualizado 11/2023** 
 
@@ -39,7 +39,7 @@ conocer esta ciudad y hacer alguna excursión por la provincia. Habitualmente lo
 viajeros que acuden a Chiang Mai se quedan unos 3 o 4 días antes de seguir su ruta, así 
 que os propondremos actividades para ese periodo. 
 
-![Wat Chedi Luang en Chiang Mai](etheria-images/2021/01/Chiang-Mai-Wat-Chedi-Luang-oracion.jpg "Wat Chedi Luang, en Chiang Mai. © Etheria Magazine")
+![Wat Chedi Luang en Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Chedi-Luang-oracion.jpg "Wat Chedi Luang, en Chiang Mai. © Etheria Magazine")
 
 ## Qué ver y hacer en Chiang Mai en tres días
 
@@ -65,7 +65,7 @@ del 200 d.C.
 Tampoco escapará a tu cámara el Chedi Chang Lom, con una base de estuco flanqueada por 
 elefantes y la parte superior dorada. Abre de 8 a 17 horas. 
 
-![Wat Phra Singh en Chiang Mai](etheria-images/2021/01/Chiang-Mai-Wat-Phra-Singh-tejados.jpg "Tejados en Wat Phra Singh, Chiang Mai. © Etheria Magazine")
+![Wat Phra Singh en Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-tejados.jpg "Tejados en Wat Phra Singh, Chiang Mai. © Etheria Magazine")
 
 #### • Wat Phra Singh
 
@@ -77,7 +77,7 @@ actos de Lai Kam, un buen ejemplo de arquitectura lanna, y siéntete durante un 
 parte de su universo espiritual. Si acudes durante el Songkran, el Año Nuevo tailandés, 
 que es a mediados de abril, estará en plena ebullición. Abre de 6 a 17 horas. 
 
-![Wat Chedi Luang en Chiang Mai](etheria-images/2021/01/Chiang-Mai-Wat-Chedi-Luang.jpg "Wat Chedi Luang, en Chiang Mai. © Etheria M.")
+![Wat Chedi Luang en Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Chedi-Luang.jpg "Wat Chedi Luang, en Chiang Mai. © Etheria M.")
 
 #### • Wat Chedi Luang
 
@@ -91,7 +91,7 @@ la derecha.
 Si puedes entrar en el santuario principal verás la estatua muy venerada de un Buda de 
 pie. En el conjunto hay más capillas y pabellones interesantes. Abre de 8 a 17 horas. 
 
-![Wat Phan Tao en Chiang Mai](etheria-images/2021/01/Chiang-Mai-Wat-Phan-Tao-683x1024.jpg "Wat Phan Tao, en Chiang Mai (templo de madera en segundo plano). © Etheria Magazine")
+![Wat Phan Tao en Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phan-Tao-683x1024.jpg "Wat Phan Tao, en Chiang Mai (templo de madera en segundo plano). © Etheria Magazine")
 
 #### • Wat Phan Tao
 
@@ -103,7 +103,7 @@ crecen a la derecha. El momento más bonito para visitarlo es durante el festiva
 Visakha Bucha, ya que los monjes encienden cientos de lámparas en el recinto. Abre de 6 
 a 18 horas. 
 
-![Wat Phra That Doi Suthep Chiang Mai](etheria-images/2021/01/Chiang-Mai-Wat-Doi-Suthep-monjes.jpg "Monje en Wat Phra That Doi Suthep. © Etheria M.")
+![Wat Phra That Doi Suthep Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Doi-Suthep-monjes.jpg "Monje en Wat Phra That Doi Suthep. © Etheria M.")
 
 #### • Wat Phra That Doi Suthep
 
@@ -123,7 +123,7 @@ XIV (y más de 20 metros de altura) rodeado de parasoles de color de oro que se 
 en el siglo XVI. Entra en los templos, asiste a alguna ceremonia, admira las panorámicas 
 y siente la espiritualidad que emana de este místico lugar. 
 
-![Wat Phra That Doi Suthep en Chiang mai](etheria-images/2021/01/Chiang-Mai-Wat-Doi-Suthep-templos-683x1024.jpg "Wat Phra That Doi Suthep, en Chiang Mai. © Etheria M.")
+![Wat Phra That Doi Suthep en Chiang mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Doi-Suthep-templos-683x1024.jpg "Wat Phra That Doi Suthep, en Chiang Mai. © Etheria M.")
 
 ## Los mejores mercados nocturnos
 
@@ -140,7 +140,7 @@ Como no tendrás tiempo de ir a todos los mercados, toma nota de los 3 más impo
 No olvides llevar moneda tailandesa (1 euro= unos 36 baht), ya que te saldrá más a 
 cuenta que pagar en dólares. 
 
-![mercado nocturno domingo en Chiang Mai](etheria-images/2021/01/Chiang-Mai-Mercado-del-Domingo-templo.jpg "Mercado nocturno del Domingo en Chiang Mai. © Etheria M.")
+![mercado nocturno domingo en Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Mercado-del-Domingo-templo.jpg "Mercado nocturno del Domingo en Chiang Mai. © Etheria M.")
 
 ### • Mercado Nocturno del Sábado: Wui Lai Market
 
@@ -162,7 +162,7 @@ perfecto para quedarte a cenar. Y además tendrás la oportunidad de ver dos tem
 están muy cerca: Wat Phan Tao y Wat Chedi Luang. Si sólo puedes escoger un mercado, 
 quédate con este. 
 
-![mercado nocturno de Chiang Mai](etheria-images/2021/01/Chiang-Mai-Mercado-del-Domingo.jpg "Puesto de comida callejera en el mercado nocturno de Chiang Mai. © Etheria M.")
+![mercado nocturno de Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Mercado-del-Domingo.jpg "Puesto de comida callejera en el mercado nocturno de Chiang Mai. © Etheria M.")
 
 ### • Bazar nocturno
 
@@ -180,7 +180,7 @@ el que dudarás si has viajado a Europa sin darte cuenta. Lo presentan como un l
 seguro para turistas y está a pocos minutos del mercado anterior, por si tienes 
 curiosidad... 
 
-![centro masajes de Chiang Mai](etheria-images/2021/01/Chiang-Mai-masajes-oasis-spa-683x1024.jpg "Centro de masajes Oassis Spa de Chiang Mai. © Etheria M.")
+![centro masajes de Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-masajes-oasis-spa-683x1024.jpg "Centro de masajes Oassis Spa de Chiang Mai. © Etheria M.")
 
 ## Un masaje tailandés en Chiang Mai
 
@@ -193,7 +193,7 @@ bastante prolongados (incluso dos horas y media), por lo que te recomendamos res
 una tarde para no ir con prisas. Aunque en la calle encuentres masajes desde 3 euros, te 
 aseguramos que los 30-40 euros que inviertas aquí merecen la pena. 
 
-![Parque Histórico Si Satchanalai](etheria-images/2021/01/Si-Satchanalai-Wat-Chang-Lom-683x1024.jpg "Parque Histórico Si Satchanalai. © Etheria M.")
+![Parque Histórico Si Satchanalai](https://fotos.etheriamagazine.com/2021/01/Si-Satchanalai-Wat-Chang-Lom-683x1024.jpg "Parque Histórico Si Satchanalai. © Etheria M.")
 
 ## Excursiones desde Chiang Mai
 
@@ -209,7 +209,7 @@ Dos visitas imprescindibles son el **Parque Histórico Si Satchanalai**, cuyos 3
 principales son los de Wat Phra Si Mahathat, Wat Chang Lom y Wat Chedi Jet Taew; y el 
 **Parque Histórico de Sukhothai**, declarado Patrimonio de la Humanidad por la Unesco. 
 
-![comida tailandesa en Chiang Mai](etheria-images/2021/01/Chiang-Mai-Restaurante.jpg "Cerdo con tamarindo y cerveza tailandesa. © Etheria M.")
+![comida tailandesa en Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Restaurante.jpg "Cerdo con tamarindo y cerveza tailandesa. © Etheria M.")
 
 ## Guía de viajes de Chiang Mai
 
@@ -240,7 +240,7 @@ horas](https://www.civitatis.com/es/chiang-mai/tour-chiang-mai/?aid=10211) desde
 tradicional](https://www.civitatis.com/es/chiang-mai/boda-tailandesa/?aid=10211). En 
 torno a 550 €. Duración: unas 6 horas. 
 
-![Hotel Dhara Dhevi Chiang Mai](etheria-images/2021/01/Hotel-Dhara-Dhevi-Chiang-Mai.jpg "Hotel Dhara Dhevi Chiang Mai. © Etheria M.")
+![Hotel Dhara Dhevi Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Hotel-Dhara-Dhevi-Chiang-Mai.jpg "Hotel Dhara Dhevi Chiang Mai. © Etheria M.")
 
 ### También te puede interesar...
 

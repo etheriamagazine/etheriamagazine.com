@@ -1,7 +1,7 @@
 ---
 title: "Carolina Esteller: \"Seguimos conectadas y eso es maravilloso\""
 date: 2020-05-15
-coverImage: etheria-images/2020/05/carolina-estelle-mujer-y-viajera.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/carolina-estelle-mujer-y-viajera.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -14,7 +14,7 @@ rutas históricas y arqueológicas por Galicia y Asturias... Carolina Esteller, 
 de la agencia 'Mujer y Viajera', nos cuenta cómo afrontan la situación de los viajes 
 durante la pandemia y los destinos que ofrecen para el próximo verano. 
 
-![carolina esteller, mujer y viajera, agencias de viajes de mujeres, agencias viajar solas en grupo](etheria-images/2020/05/carolina-estelle-mujer-y-viajera.jpg "Carolina Esteller, directora de 'Mujer y Viajera', en la Explanada de las Mezquitas de Jerusalén.")
+![carolina esteller, mujer y viajera, agencias de viajes de mujeres, agencias viajar solas en grupo](https://fotos.etheriamagazine.com/2020/05/carolina-estelle-mujer-y-viajera.jpg "Carolina Esteller, directora de 'Mujer y Viajera', en la Explanada de las Mezquitas de Jerusalén.")
 
 La agencia de viajes Mujer y Viajera es una de las pioneras en el segmento de los viajes 
 organizados para mujeres. Fue creada por Carolina Esteller hace más de una década y 
@@ -29,7 +29,7 @@ programación, ya que fundamentalmente sus viajes se centraban en destinos de la
 recorrido. En la siguiente entrevista, su directora nos cuenta cómo están viviendo la 
 situación y qué itinerarios alternativos han preparado para los próximos meses. 
 
-![grupo de mujer y viajera](etheria-images/2020/05/agencia-viajes-mujer-y-viajera.jpg "Grupo de viajeras en la mezquita de San Juan de Acre (Israel).")
+![grupo de mujer y viajera](https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujer-y-viajera.jpg "Grupo de viajeras en la mezquita de San Juan de Acre (Israel).")
 
 ## Entrevista: Agencia Mujer y Viajera
 
@@ -56,7 +56,7 @@ hasta 12 meses de duración y que podrán utilizar durante el año 2021.
 Respecto a las cancelaciones de marzo y abril hemos reembolsado el 100% del importe del 
 viaje, algo que han agradecido muchísimo nuestras viajeras. 
 
-![mujer y viajera, viajar sola en grupo](etheria-images/2020/05/africa-mujer-y-viajera.jpg "Safari en Botsuana, rodeadas de depredadores.")
+![mujer y viajera, viajar sola en grupo](https://fotos.etheriamagazine.com/2020/05/africa-mujer-y-viajera.jpg "Safari en Botsuana, rodeadas de depredadores.")
 
 ### 3\. ¿Cómo afrontáis la nueva situación? ¿Eres optimista?
 
@@ -79,7 +79,7 @@ esta situación se nos ocurren cosas nuevas que, con anterioridad, ni habríamos
 De momento no estamos utilizando ayudas estatales, pero si la situación se prolonga 
 mucho, es posible que sí. 
 
-![mujer y viajera, viajes en grupo para mujeres](etheria-images/2020/05/destinos-agencia-viajes-mujer-y-viajera.jpg "Paseo con raquetas en el Círculo Polar Ártico (Suecia).")
+![mujer y viajera, viajes en grupo para mujeres](https://fotos.etheriamagazine.com/2020/05/destinos-agencia-viajes-mujer-y-viajera.jpg "Paseo con raquetas en el Círculo Polar Ártico (Suecia).")
 
 ### 5\. ¿Se puede extraer algo que sea positivo de este parón turístico?
 
@@ -99,7 +99,7 @@ exclusividad.
 > En estos momentos, estamos diseñando viajes de bienestar, aventura, historia y 
 > arqueología, y playas. Y esperamos tener correspondencia por parte de las viajeras. 
 
-![viaje en velero por baleares](etheria-images/2020/05/viajar-sola-velero-baleares.jpg "Navegar en velero por las Islas Baleares, una gran experiencia. © Roberto H.")
+![viaje en velero por baleares](https://fotos.etheriamagazine.com/2020/05/viajar-sola-velero-baleares.jpg "Navegar en velero por las Islas Baleares, una gran experiencia. © Roberto H.")
 
 ### 7\. ¿Qué destinos ofrecéis para este verano 2020?
 
@@ -128,7 +128,7 @@ India, México, Israel**, etc. Se pueden hacer **reservas en firme con 100% devo
 en caso de cancelación por covid-19. A excepción de vuelos internacionales, que siempre 
 serán emitidos muy cerca de la fecha de salida. 
 
-![mujer y viajera, agencia de viajes para mujeres, viajar sola en grupo](etheria-images/2020/05/viajes-mujeres-grupo.jpg "Rito de purificación en Bali, del programa 'Bali, Women Evasion'.")
+![mujer y viajera, agencia de viajes para mujeres, viajar sola en grupo](https://fotos.etheriamagazine.com/2020/05/viajes-mujeres-grupo.jpg "Rito de purificación en Bali, del programa 'Bali, Women Evasion'.")
 
 ### 9\. ¿Alterará esta pandemia nuestro modo de viajar?
 

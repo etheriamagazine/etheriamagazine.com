@@ -1,7 +1,7 @@
 ---
 title: "Los murales XXL de Lyon, el atractivo más sorprendente de la ciudad francesa"
 date: 2021-02-03
-coverImage: etheria-images/2021/01/Le-Mur-des-Canuts.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/Le-Mur-des-Canuts.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Lyon es una ciudad dinámica que se nutre de sus tradiciones pero que no renuncia a modernos museos ni a sorprendentes muestras de _street art_ a través de enormes murales tamaño XXL. Configurada a escala humana y con un inmenso patrimonio, esta urbe representa, ante todo, el arte de vivir a la francesa.
 
-![foto nocturna de lyon](etheria-images/2021/01/viaje-lyon-748x1024.jpg "Panorámica nocturna de Lyon. © Tristan Deschamps/ Turismo Lyon")
+![foto nocturna de lyon](https://fotos.etheriamagazine.com/2021/01/viaje-lyon-748x1024.jpg "Panorámica nocturna de Lyon. © Tristan Deschamps/ Turismo Lyon")
 
 Situado en un enclave excepcional con los dos ríos, Ródano (uno de los más grandes de 
 Francia) y Saona, Lyon ha sabido, a lo largo del tiempo, cultivar, conservar y 
@@ -27,7 +27,7 @@ Seda desde el siglo XVI con Francisco I) que aportó gran riqueza a la urbe y el
 (Lyon es cuna del nacimiento del Cinematógrafo, gracias a los hermanos Lumière, cuya 
 bellísima casa-museo se puede visitar) son también dos elementos claves de esta ciudad. 
 
-![museo de la cite gastronomique de lyon](etheria-images/2021/01/lyon-ciudad-gastronomia.jpg "Museo de la Cité Gastronomique. ©Thierry Fournier/ Métropole Lyon")
+![museo de la cite gastronomique de lyon](https://fotos.etheriamagazine.com/2021/01/lyon-ciudad-gastronomia.jpg "Museo de la Cité Gastronomique. ©Thierry Fournier/ Métropole Lyon")
 
 #### Le Vieux Lyon, Patrimonio de la Humanidad
 
@@ -40,7 +40,7 @@ de Fourvière, la Presquîle (“Casi isla”, situada entre los dos ríos) y la
 aúnan diferentes épocas históricas en muy poco espacio, algo que justifica su nominación 
 como Patrimonio de la Humanidad. 
 
-![museo de las confluences de lyon](etheria-images/2021/01/Musee-des-Confluences-Lyon-694x1024.jpg "Museo de las Confluences sobre Historia Natural y Antropología. © France Lucas")
+![museo de las confluences de lyon](https://fotos.etheriamagazine.com/2021/01/Musee-des-Confluences-Lyon-694x1024.jpg "Museo de las Confluences sobre Historia Natural y Antropología. © France Lucas")
 
 Muchos rankings turísticos certifican que Lyon es uno de los destinos favoritos de los 
 turistas internacionales. Posicionado, dentro de las Mejores Ciudades del mundo por 
@@ -49,7 +49,7 @@ Sídney, Tokio y Helsinki, Lyon figura, asimismo, en el Top 10 de las ciudades e
 más votadas en Google y fue elegida en 2016 como mejor destino corto (“City Break”) en 
 Europa por los Worlds Travel Awards. 
 
-![murales de lyon](etheria-images/2021/01/murales-lyon.jpg "Murales de Lyon. © CitéCréation")
+![murales de lyon](https://fotos.etheriamagazine.com/2021/01/murales-lyon.jpg "Murales de Lyon. © CitéCréation")
 
 ## Lyon, una ruta con más de 100 murales
 
@@ -69,7 +69,7 @@ líder mundial en _Street art_ y responsable de diseños de frescos murales en B
 París o Suiza, ha firmado, desde hace 40 años, la gran mayoría de estos murales que se 
 extienden por toda la ciudad, desde el centro histórico, hasta la periferia. 
 
-![mural de los canuts en lyon](etheria-images/2021/01/Le-Mur-des-Canuts.jpg "Mural con trampantojo de los Canuts, en Lyon. © CitéCréation")
+![mural de los canuts en lyon](https://fotos.etheriamagazine.com/2021/01/Le-Mur-des-Canuts.jpg "Mural con trampantojo de los Canuts, en Lyon. © CitéCréation")
 
 ## Los 7 murales esenciales que tienes que visitar
 
@@ -86,7 +86,7 @@ soberbio Museo de los Tejidos (Musée des Tissus).
 
 ¿Dónde? _36 Boulevard des Canuts (esquina con la calle Denfert-Rochereau)._ 
 
-![fresco de los lioneses en lyon](etheria-images/2021/01/Muro-des-lyonnais-en-lyon-683x1024.jpg "Fresco de los Lyoneses. © Franck Chapolard / Turismo Lyon")
+![fresco de los lioneses en lyon](https://fotos.etheriamagazine.com/2021/01/Muro-des-lyonnais-en-lyon-683x1024.jpg "Fresco de los Lyoneses. © Franck Chapolard / Turismo Lyon")
 
 ### 2\. Fresco de los Lioneses
 
@@ -103,7 +103,7 @@ Emmaus, entre muchos otros.
 
 ¿Dónde? _2 rue de la Martinière (esquina con el quai Saint-Vincent)._ 
 
-![fresco mural biblioteca de lyon](etheria-images/2021/01/fresco-mural-biblioteca-lyon.jpg "Fresco de la Biblioteca de la Cité, en Lyon. © Michel Djaoui/ CitéCréation")
+![fresco mural biblioteca de lyon](https://fotos.etheriamagazine.com/2021/01/fresco-mural-biblioteca-lyon.jpg "Fresco de la Biblioteca de la Cité, en Lyon. © Michel Djaoui/ CitéCréation")
 
 ### 3\. Fresco de la Biblioteca de la Cité
 
@@ -114,7 +114,7 @@ la zona de Lyon y de Rhône-Alpes están presentes.
 
 ¿Dónde? _Esquina calle Platière con el quai de la Pécherie_ 
 
-![mural del cine de lyon](etheria-images/2021/01/lyon-Le-Mur-du-Cinema-Claude-Fezoui.jpg "El Muro del Cine de Lyon. © CitéCréation")
+![mural del cine de lyon](https://fotos.etheriamagazine.com/2021/01/lyon-Le-Mur-du-Cinema-Claude-Fezoui.jpg "El Muro del Cine de Lyon. © CitéCréation")
 
 ### 4\. Mural del Cine de Lyon
 
@@ -125,7 +125,7 @@ podremos recordar.
 
 ¿Dónde? _4 Place Gabriel Péri_ 
 
-![fresco lumiere mural de lyon](etheria-images/2021/01/frescos-Lumiere-lyon-681x1024.jpg "Fresco Lumière: Lyon en 2046. © CitéCréation")
+![fresco lumiere mural de lyon](https://fotos.etheriamagazine.com/2021/01/frescos-Lumiere-lyon-681x1024.jpg "Fresco Lumière: Lyon en 2046. © CitéCréation")
 
 ### 5\. Fresco Lumière: Lyon en 2046
 
@@ -137,7 +137,7 @@ François Schuiten, CitéCréation vuelve a firmarlo.
 
 ¿Dónde? _106 avenue Jean Jaurès_ 
 
-![mural rivera en lyon](etheria-images/2021/01/Mural-diego-rivera-lyon.jpg "Fachadas contemporánea y prehispánica del mural de Rivera, en Lyon. © CitéCréation")
+![mural rivera en lyon](https://fotos.etheriamagazine.com/2021/01/Mural-diego-rivera-lyon.jpg "Fachadas contemporánea y prehispánica del mural de Rivera, en Lyon. © CitéCréation")
 
 ### 6\. Homenaje a Diego Rivera en Lyon
 
@@ -148,7 +148,7 @@ contemporánea y el parque Alameda.
 
 ¿Dónde? _Calle Georges Gouy._ 
 
-![mural museo tony garnier de lyon](etheria-images/2021/01/lyon-Mural-Museo-Urbano-Tony-Garnier.jpg "Mural Museo Urbano Tony Garnier, en Lyon. © Carmen Pineda")
+![mural museo tony garnier de lyon](https://fotos.etheriamagazine.com/2021/01/lyon-Mural-Museo-Urbano-Tony-Garnier.jpg "Mural Museo Urbano Tony Garnier, en Lyon. © Carmen Pineda")
 
 ### 7\. Museo Urbano Tony Garnier
 
@@ -161,7 +161,7 @@ provienen de bocetos realizados por el propio Garnier, pero también por otros a
 internacionales, apadrinados por la Unesco, provenientes de Costa de Marfil, Egipto, 
 Estados Unidos, India, México y Rusia. 
 
-![mural Egipto en lyon](etheria-images/2021/01/mural-egipto-lyon.jpg "Mural de Egipto, en el Museo Urbano Tony Garnier. © CitéCréation")
+![mural Egipto en lyon](https://fotos.etheriamagazine.com/2021/01/mural-egipto-lyon.jpg "Mural de Egipto, en el Museo Urbano Tony Garnier. © CitéCréation")
 
 Esta galería al aire libre muestra los fundamentos de la Ciudad Ideal, creada por Tony 
 Garnier, así como sus grandes obras arquitectónicas de Lyon (Estadio de Gerland, Planos 
@@ -176,7 +176,7 @@ Garnier.
 
 ¿Dónde? _Cité Tony Garnier, 4 rue des Serpollières_ 
 
-![Frescos de Paul Bocuse](etheria-images/2021/01/Fresco-Paul-Bocuse-lyon.jpg "Frescos de Paul Bocuse, en Lyon. © CitéCréation")
+![Frescos de Paul Bocuse](https://fotos.etheriamagazine.com/2021/01/Fresco-Paul-Bocuse-lyon.jpg "Frescos de Paul Bocuse, en Lyon. © CitéCréation")
 
 ## 4 murales más de Lyon
 
@@ -187,15 +187,15 @@ lleva su nombre, el [mural Thank your Monsieur
 Paul](https://www.lyon-france.com/Je-decouvre-Lyon/sites-et-monuments/Sites-et-monuments-remarquables/Fresque-des-lumieres-en-hommage-a-Paul-Bocuse) 
 cuenta la historia de Paul Bocuse. Se recomienda visitarlo de noche porque se ilumina. 
 
-![mural tres torres de babel en lyon](etheria-images/2021/01/Les-3-Tours-de-Babel-lyon.jpg "Las tres torres de Babel, en Lyon. © CitéCréation")
+![mural tres torres de babel en lyon](https://fotos.etheriamagazine.com/2021/01/Les-3-Tours-de-Babel-lyon.jpg "Las tres torres de Babel, en Lyon. © CitéCréation")
 
 #### Frescos de la Tres torres de Babel
 
-![frescos de Shanghai en Lyon](etheria-images/2021/01/Fresco-de-Shanghai-lyon-742x1024.jpg "Frescos de Shanghai, en Lyon. © CitéCréation")
+![frescos de Shanghai en Lyon](https://fotos.etheriamagazine.com/2021/01/Fresco-de-Shanghai-lyon-742x1024.jpg "Frescos de Shanghai, en Lyon. © CitéCréation")
 
 #### Murales de Shanghai
 
-![mural transportes de Lyon](etheria-images/2021/01/mural-historia-transportes-lyon.jpg "Mural Historia de los Transportes públicos, en Lyon. © CitéCréation")
+![mural transportes de Lyon](https://fotos.etheriamagazine.com/2021/01/mural-historia-transportes-lyon.jpg "Mural Historia de los Transportes públicos, en Lyon. © CitéCréation")
 
 #### Fresco de la Historia de los Transportes en Común
 

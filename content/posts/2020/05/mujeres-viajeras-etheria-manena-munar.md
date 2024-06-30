@@ -1,7 +1,7 @@
 ---
 title: "Manena Munar: \"Se me dispara la adrenalina cuando visito un lugar por primera vez\""
 date: 2020-05-05
-coverImage: etheria-images/2020/04/manena-munar-etheria-magazine-4.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-4.jpg
 categories: 
   - mujeres-etheria
 authors: 
@@ -13,7 +13,7 @@ relatos, y hoy también nos permite bucear en su vida viajera y en sus primeros 
 por el mundo. Una dama de la que aprender a mantener la chispa de la vida y la ilusión 
 por los pequeños detalles. 
 
-![manena munar, etheria magazine, bostwana,](etheria-images/2020/04/manena-munar-etheria-magazine-4-900x675.jpg "Momentos inolvidables en Sudáfrica. © Helena Rodríguez")
+![manena munar, etheria magazine, bostwana,](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-4-900x675.jpg "Momentos inolvidables en Sudáfrica. © Helena Rodríguez")
 
 Periodista, escritora, viajera, fotógrafa, soñadora, amante de las buenas historias y, 
 sobre todo, una persona con una vitalidad y una pasión por la vida sorprendentes. Manena 
@@ -45,7 +45,7 @@ El **viaje de fin de curso a Roma** con las monjas del colegio y mis amigas de t
 vida, cuando en vez de fotografiar los monumentos, disparábamos a los monumentales 
 romanos (nos cuenta entre risas). 
 
-![manena munar, periodista etheria magazine](etheria-images/2020/04/manena-munar-etheria-magazine-2-900x607.jpg "Recuerdo del primer viaje a Roma.")
+![manena munar, periodista etheria magazine](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-2-900x607.jpg "Recuerdo del primer viaje a Roma.")
 
 ### 2\. ¿Cuál es tu principal motivación al viajar?
 
@@ -68,7 +68,7 @@ formas de vida, de lo relativo que es todo, de lo distintos pero iguales que som
 seres humanos, y aprender a valorar lo mucho que hay más allá de “lo nuestro es lo 
 mejor”. Es indudable que **los viajes enseñan, educan y transforman**. 
 
-![manena munar, etheria magazine](etheria-images/2020/04/manena-munar-etheria-magazine-8-900x734.jpg "‘Que Buda nos proteja’. © Adam Cyfrowicz.")
+![manena munar, etheria magazine](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-8-900x734.jpg "‘Que Buda nos proteja’. © Adam Cyfrowicz.")
 
 ### 4\. Si pudieses elegir un compañero de viaje (real o de ficción)...
 
@@ -95,7 +95,7 @@ los más íntimos. Se termina el viaje, y a esa “amistad de cinco minutos”, 
 Spottorno (‘Los amores de cinco minutos’), que parte hacia su destino con el bagaje de 
 tu vida en su memoria, seguramente nunca la volverás a ver. 
 
-![manena munar, periodistas etheria magazine](etheria-images/2020/04/manena-munar-etheria-magazine-5-900x675.jpg "Escuchando el rugir de las Cataratas Victoria. © Helena Rodríguez")
+![manena munar, periodistas etheria magazine](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-5-900x675.jpg "Escuchando el rugir de las Cataratas Victoria. © Helena Rodríguez")
 
 ### 7\. ¿Cuáles han sido los mejores viajes de tu vida?
 
@@ -117,7 +117,7 @@ intelectualidad a lo Dostoievski y la mafia rusa inflándose de caviar y vodka. 
 cabina era un mundo y aparte, charlando, escribiendo o hipnotizados, mirando por la 
 ventana como enormes copos de nieve cubrían de blanco la estepa rusa. 
 
-![manena munar, etheria magazine](etheria-images/2020/04/manena-munar-etheria-magazine-7-900x510.jpg "Al poco, se rompió el hielo del río Neva en San Petersburgo. © Jorge A. Munar")
+![manena munar, etheria magazine](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-7-900x510.jpg "Al poco, se rompió el hielo del río Neva en San Petersburgo. © Jorge A. Munar")
 
 El tercero tiene otro escenario muy distinto. El de los pueblos rojos del Valle de 
 Ourika en el [Atlas 
@@ -143,7 +143,7 @@ telones que les colgaban a los judíos conversos si en su familia alguno se hab�
 desmandado, motivo por el que la gente debía repudiarlos al ver como deambulaban con “el 
 sambenito” a cuestas. 
 
-![herminia, la tahona de herminia, red juderias galicia](etheria-images/2020/04/herminia-juderias-gallegas.jpg "Herminia, de La Tahona de Herminia, Ribadavia. © Manena Munar")
+![herminia, la tahona de herminia, red juderias galicia](https://fotos.etheriamagazine.com/2020/04/herminia-juderias-gallegas.jpg "Herminia, de La Tahona de Herminia, Ribadavia. © Manena Munar")
 
 ### 9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera?
 
@@ -166,7 +166,7 @@ Un plato fuera de serie es el rodaballo con chantarelas del Atelier Amaro –la 
 estrella Michelin de Polonia–, una más de las exquisiteces del chef Wojciech Modest 
 Amaro. 
 
-![manena munar, viajes, etheria magazine](etheria-images/2020/04/manena-munar-etheria-magazine-1-900x665.jpg "Un momento de relax en Bostuana. © Adam Cyfrowicz")
+![manena munar, viajes, etheria magazine](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-1-900x665.jpg "Un momento de relax en Bostuana. © Adam Cyfrowicz")
 
 > Mi medio de transporte favorito es el tren, sin duda. Maravilloso transporte para ver el 
 > paisaje, estirar las piernas y hacer amigos. 
@@ -183,7 +183,7 @@ lleno, siempre pareces el único huésped por la tranquilidad del entorno y el m
 que te tratan. A su cuidada decoración, piscinas, campo de golf y club de playa, le 
 acompañan restaurantes de la categoría de Kabuki, El Jardín de Lutz y Don Giovanni. 
 
-![manena munar, etheria magazine](etheria-images/2020/04/manena-munar-etheria-magazine-6-900x600.jpg "En su bolsa de mano no falta un poco de maquillaje.")
+![manena munar, etheria magazine](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-6-900x600.jpg "En su bolsa de mano no falta un poco de maquillaje.")
 
 ### 12\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 
@@ -198,7 +198,7 @@ El traje de baño y un impermeable que abulte poco. Tengo un **gorro de goma tip
 Pescanova** que me traje de Bergen, y que también suelo meter con alguna que otra 
 **gorra de visera** por si hace sol… 
 
-![manena munar, etheria magazine](etheria-images/2020/04/manena-munar-etheria-magazine-3-900x600.jpg "Un gorro para la lluvia nunca sobra en el equipaje.")
+![manena munar, etheria magazine](https://fotos.etheriamagazine.com/2020/04/manena-munar-etheria-magazine-3-900x600.jpg "Un gorro para la lluvia nunca sobra en el equipaje.")
 
 ### 14\. ¿Cuál ha sido el _souvenir_ más extravagante que has comprado?
 

@@ -1,7 +1,7 @@
 ---
 title: "La vida de Carmen Castellote, la última poetisa en el exilio, llega al teatro"
 date: 2021-06-23
-coverImage: etheria-images/2021/06/carmen-castellote-mexico-1995.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/carmen-castellote-mexico-1995.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Conocer la sublime obra de Carmen Castellote, considerada la última poetisa en el exilio, es tan sencillo como asistir a la obra ‘Kilómetros de Tiempo’, que une en el escenario al actor y escritor Carlos Olalla, a la actriz Alejandra Lorente, y al acordeonista David Sanz.
 
-![carmen castellote en la residencia estudiantil](etheria-images/2021/06/carmen-castellote-amigos-checo.jpg "Carmen Castellote en la residencia estudiantil con dos amigos checos.")
+![carmen castellote en la residencia estudiantil](https://fotos.etheriamagazine.com/2021/06/carmen-castellote-amigos-checo.jpg "Carmen Castellote en la residencia estudiantil con dos amigos checos.")
 
 Todo empezó cuando Carlos Olalla, preparando un monólogo sobre **mujeres del exilio 
 republicano**, encuentra algunos poemas de Carmen Castellote. Le cautivan y publica [una 
@@ -22,7 +22,7 @@ Tengo que recogerla de muchos lugares, de diferentes dibujos y cuadernos”. Pal
 '_Cartas a mí misma_', obra autobiográfica escrita en prosa poética y publicada en 
 México. 
 
-![carmen castellote poetisa exilio](etheria-images/2021/06/carmen-castellote-1964.jpg "Carmen Castellote en sus mesa de trabajo de la editorial UTEHA (1964)")
+![carmen castellote poetisa exilio](https://fotos.etheriamagazine.com/2021/06/carmen-castellote-1964.jpg "Carmen Castellote en sus mesa de trabajo de la editorial UTEHA (1964)")
 
 ### De Bilbao a Rusia, la vida de Carmen Castellote
 
@@ -40,7 +40,7 @@ sus muertos escondidos en mi infancia”, matiza Carmen Castellote al explicar l
 que la guerra protagoniza la mayor parte de sus escritos: “Escribo para enhebrar las 
 cosas que viví y hacer con ellas memoria”. 
 
-![poeta carmen castellote](etheria-images/2021/06/fotos-poetisa-carmen-castellote.jpg "Poetisa Carmen Castellote.")
+![poeta carmen castellote](https://fotos.etheriamagazine.com/2021/06/fotos-poetisa-carmen-castellote.jpg "Poetisa Carmen Castellote.")
 
 ## Kilómetros de tiempo
 
@@ -51,7 +51,7 @@ la escritora, Alejandra, al son del acordeón, se convierte en la voz de Carmen.
 hace con tal **suavidad, fuerza, tristeza y alegría** que las palabras de la poetisa, en 
 su dicción, trasladan al público al imaginario poético de la escritora. 
 
-![Obra kilómetros de tiempo](etheria-images/2021/06/teatro-kilometros-de-tiempo.jpg "Alejandra Lorente, David Sanz y Carlos Olalla. © Jorge A. Munar")
+![Obra kilómetros de tiempo](https://fotos.etheriamagazine.com/2021/06/teatro-kilometros-de-tiempo.jpg "Alejandra Lorente, David Sanz y Carlos Olalla. © Jorge A. Munar")
 
 “Nací en una región donde crecen globos y fantasmas, en una casa imaginada por mí, con 
 balcones al césped y cuartos que iluminaba con mis manos. Creía que la noche la 
@@ -72,7 +72,7 @@ niña. Salvaré mi encantamiento. Insistiré en los milagros. Creeré en la envo
 interior de las leyendas. Quiero salir de nuevo a los caminos, eternizarlos. Cumplir con 
 mi destino de soñadora de mundos”. 
 
-![Actores en 'Kilómetros de tiempo'.](etheria-images/2021/06/teatro-kilometros-de-tiempo-actores.jpg "Actores en 'Kilómetros de tiempo'. © Jorge A. Munar")
+![Actores en 'Kilómetros de tiempo'.](https://fotos.etheriamagazine.com/2021/06/teatro-kilometros-de-tiempo-actores.jpg "Actores en 'Kilómetros de tiempo'. © Jorge A. Munar")
 
 ### Dónde y cuándo ver la obra
 
@@ -83,7 +83,7 @@ tienen confirmada su cita el 19 de agosto de 2021.
 Más información en [Mitad & Mitad 
 Producciones](https://mitadymitadproducciones.com/kilometrosdetiempo/). 
 
-![teatro en Madrid](etheria-images/2021/06/KILOMETROS-DE-TIEMPO-CARTEL.jpg "Obra de teatro 'KIlómetros de tiempo'.")
+![teatro en Madrid](https://fotos.etheriamagazine.com/2021/06/KILOMETROS-DE-TIEMPO-CARTEL.jpg "Obra de teatro 'KIlómetros de tiempo'.")
 
 ### Más cultura que te puede interesar
 

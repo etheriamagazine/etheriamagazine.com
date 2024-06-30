@@ -1,7 +1,7 @@
 ---
 title: "Crónica del II Encuentro de Mujeres Viajeras en Madrid, una jornada llena de emoción"
 date: 2024-04-12
-coverImage: etheria-images/2024/04/portada-mujeres-viajeras.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/04/portada-mujeres-viajeras.jpg
 categories: 
   - mujeres-etheria
 authors: 
@@ -13,7 +13,7 @@ compartir espacio con experimentados ponentes como Rose Serrano, Mónica Cossio,
 Grau, Mayte Galindo y Enric Moreno, además de un numeroso grupo de apasionadas del mundo 
 de los viajes. Estas jornadas patrocinadas por Oikocredit han llegado para quedarse. 
 
-![Oikocredit apoya proyectos en India.](etheria-images/2024/04/india-oikocredit-etheria-magazine.jpg "Oikocredit apoya proyectos en India.")
+![Oikocredit apoya proyectos en India.](https://fotos.etheriamagazine.com/2024/04/india-oikocredit-etheria-magazine.jpg "Oikocredit apoya proyectos en India.")
 
 El espíritu aventurero y la ilusión por conocer nuevos destinos estuvo presente de 
 principio a fin en el **II Encuentro de Mujeres Viajeras: ‘De ruta por los países del 
@@ -32,7 +32,7 @@ mujeres, apoyando así el camino de su independencia económica y el acceso a la
 educación, tan necesarias para alcanzar una mínima igualdad de oportunidades en el Sur 
 Global. 
 
-![II Encuentro de Mujeres Viajeras en B the travel brand Xperience](etheria-images/2024/04/encuentro-mujeres-viajeras-2024-850x539.jpg "II Encuentro de Mujeres Viajeras en B the travel brand Xperience (Madrid). © Etheria M.")
+![II Encuentro de Mujeres Viajeras en B the travel brand Xperience](https://fotos.etheriamagazine.com/2024/04/encuentro-mujeres-viajeras-2024-850x539.jpg "II Encuentro de Mujeres Viajeras en B the travel brand Xperience (Madrid). © Etheria M.")
 
 Cuando se comparte una pasión tan especial como es la de viajar, es muy sencillo que 
 surja la magia y que las jornadas en las que se reúnen los amantes de la aventura sean 
@@ -52,7 +52,7 @@ millones de personas dependen del cacao para su supervivencia y sólo un 1,3% de
 producción global se vende en condiciones de comercio justo. Por lo tanto, no estaría de 
 más tenerlo en cuenta a la hora de endulzarnos el día a día. 
 
-![Mónica Cossio, exsobrecargo de Iberia y viajera empedernida.](etheria-images/2024/04/monica-cossio-etheria-magazine-850x638.jpg "Mónica Cossio, exsobrecargo de Iberia y viajera empedernida. © M.Cossio")
+![Mónica Cossio, exsobrecargo de Iberia y viajera empedernida.](https://fotos.etheriamagazine.com/2024/04/monica-cossio-etheria-magazine-850x638.jpg "Mónica Cossio, exsobrecargo de Iberia y viajera empedernida. © M.Cossio")
 
 ## Mujeres viajeras con mucho que contar
 
@@ -73,7 +73,7 @@ Sur Global donde asegura que “en general las personas son más generosas y los
 intercambios más auténticos”. Le podéis seguir la pista en el blog [Mi mochila me 
 pesa](https://mimochilamepesa.com/). 
 
-![Monica Cossio pasó su infancia en el Congo.](etheria-images/2024/04/monica-cossio-congo-850x574.jpg "Mónica Cossio pasó su infancia en el Congo. © M. Cossio")
+![Monica Cossio pasó su infancia en el Congo.](https://fotos.etheriamagazine.com/2024/04/monica-cossio-congo-850x574.jpg "Mónica Cossio pasó su infancia en el Congo. © M. Cossio")
 
 ### María Grau, viajando de forma slow
 
@@ -100,7 +100,7 @@ Uno de los destinos que recomienda visitar “porque te deja totalmente traspues
 **India**, un viaje “emocional y de gran impacto donde la energía que fluye es 
 completamente distinta”. Comparte sus descubrimientos y consejos en [Tuhobbietuviaje.com](https://tuhobbietuviaje.com/) 
 
-![María Grau en la ciudad sagrada de Pushkar, en India.](etheria-images/2024/04/maria-grau-india-pushkar-850x478.jpg "María Grau en la ciudad sagrada de Pushkar, en India. © M.Grau")
+![María Grau en la ciudad sagrada de Pushkar, en India.](https://fotos.etheriamagazine.com/2024/04/maria-grau-india-pushkar-850x478.jpg "María Grau en la ciudad sagrada de Pushkar, en India. © M.Grau")
 
 ### Mayte Galindo y Enric Moreno, una pareja de récord
 
@@ -122,7 +122,7 @@ encuentra volver a África para observar la migración del ñu y celebrar sus bo
 en 2029. Enric, por su parte, se declara un gran enamorado de la Ruta de la Seda y está 
 deseando regresar a Japón. 
 
-![Mayte Galindo y Enric Moreno han recorrido todos los países del mundo.](etheria-images/2024/04/maytegalindo-850x524.jpg "Mayte Galindo y Enric Moreno han recorrido todos los países del mundo. © Etheria M.")
+![Mayte Galindo y Enric Moreno han recorrido todos los países del mundo.](https://fotos.etheriamagazine.com/2024/04/maytegalindo-850x524.jpg "Mayte Galindo y Enric Moreno han recorrido todos los países del mundo. © Etheria M.")
 
 ### Rose Serrano, su experiencia en los países del Sur Global
 
@@ -149,7 +149,7 @@ viajar los pones tú misma, a todos los lugares se puede llegar por tu cuenta, a
 problema es más del tiempo que tengamos para ello”. Podéis encontrar más consejos en su 
 blog [Roseviaja.com](https://roseviaja.com/). 
 
-![Rose Serrano en Benin conociendo a los Holi.](etheria-images/2024/04/rose-serrano-benin-850x576.jpg "Rose Serrano en Benin con la etnia de los Holi. © R. Serrano")
+![Rose Serrano en Benin conociendo a los Holi.](https://fotos.etheriamagazine.com/2024/04/rose-serrano-benin-850x576.jpg "Rose Serrano en Benin con la etnia de los Holi. © R. Serrano")
 
 ## La realidad detrás de algunos países del Sur Global
 
@@ -167,7 +167,7 @@ cápita de los habitantes de **Benín** no llega a 1.300 euros; y en el **Congo*
 rico en minerales y metales preciosos, más del 40% de los menores de edad no estudia y 
 trabaja en las minas. 
 
-![Recoletando hojas de te en Kenia.](etheria-images/2024/04/kenia-oikocredit-850x567.jpg "Recolectando hojas de té en Kenia. © Njeru Industries Ltd")
+![Recoletando hojas de te en Kenia.](https://fotos.etheriamagazine.com/2024/04/kenia-oikocredit-850x567.jpg "Recolectando hojas de té en Kenia. © Njeru Industries Ltd")
 
 ### Asia y América
 

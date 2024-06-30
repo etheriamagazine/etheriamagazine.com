@@ -1,7 +1,7 @@
 ---
 title: "Viajar sola, destinos donde es seguro hacer una escapada"
 date: 2020-08-12
-coverImage: etheria-images/2020/07/viajar-sola-inca-trail.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/07/viajar-sola-inca-trail.jpg
 categories: 
   - consejos-practicos
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Viajar sola no tiene por qué se inseguro si eres mujer pero tienes que tener en cuenta qué destinos vas a visitar. Elisabeth G. Iborra hace un repaso por distintas zonas geográficas del mundo con consideraciones y ejemplos útiles para que disfrutemos con la prevención necesaria.
 
-![viajar con seguridad](etheria-images/2020/07/viajar-sola-mar-900x682.jpg "No tengas miedo y anímate a viajar sola.")
+![viajar con seguridad](https://fotos.etheriamagazine.com/2020/07/viajar-sola-mar-900x682.jpg "No tengas miedo y anímate a viajar sola.")
 
 En Etheria Magazine queremos quitarte el miedo a [viajar 
 sola](https://etheriamagazine.com/2019/01/29/10-ventajas-de-viajar-sola/), porque 
@@ -34,7 +34,7 @@ recurrir a la autodefensa o exponerse a las consecuencias.
 > conscientes de que hay personas y situaciones violentas y hemos de saber movernos por el 
 > mundo relajadas pero con los sentidos bien atentos. Vamos por partes. 
 
-![viajar sola en tailandia](etheria-images/2020/07/viajar-sola-tailandia-900x899.jpg "Tomando ciertas medidas de precaución, Tailandia es un destino estupendo para viajar sola.")
+![viajar sola en tailandia](https://fotos.etheriamagazine.com/2020/07/viajar-sola-tailandia-900x899.jpg "Tomando ciertas medidas de precaución, Tailandia es un destino estupendo para viajar sola.")
 
 ## Viajar sola en el Sudeste asiático
 
@@ -53,7 +53,7 @@ ejemplo que me ha pasado) en una barca con un conductor que te tira la caña
 descaradamente y no te sientes cómoda, saca el móvil y dile que espere un segundo, que 
 vas a llamar a tu novio, que es policía y te está esperando en el destino. 
 
-![viajar sola a agra en india](etheria-images/2020/07/viajar-sola-india-900x600.jpg "Agra (India). © Ibrahim Rifath")
+![viajar sola a agra en india](https://fotos.etheriamagazine.com/2020/07/viajar-sola-india-900x600.jpg "Agra (India). © Ibrahim Rifath")
 
 ## Viajar sola a India
 
@@ -82,7 +82,7 @@ mantenerte siempre más sobria que ellos para que no se propasen porque hay pubs
 que, a veces, por la noche, se convierten en una auténtica jungla. Y van a cazar, 
 créeme. 
 
-![viajar sola a noruega](etheria-images/2020/07/viajar-sola-naturaleza-900x600.jpg "Viaja sola para descubrir sin prisa paisajes naturales increíbles. © Jeremie Cremer")
+![viajar sola a noruega](https://fotos.etheriamagazine.com/2020/07/viajar-sola-naturaleza-900x600.jpg "Viaja sola para descubrir sin prisa paisajes naturales increíbles. © Jeremie Cremer")
 
 ## África, entre el acoso y la seducción
 
@@ -112,7 +112,7 @@ incluir llevar pañuelo en la cabeza como en **Arabia Saudí** o **Irán**. En l
 integristas puedes verte en serios problemas si te lo quitas y te pilla la Policía, 
 ¡incluso yendo en coche! Por no hablar de las incómodas miradas de reprobación social. 
 
-![viajar sola bahamas y abu dhabi](etheria-images/2020/07/viajar-sola-bahamas-abu-dhabi-900x580.jpg "Mujeres de viaje en Bahamas y Abu Dhabi. © Jared Rice/Juliana Malta")
+![viajar sola bahamas y abu dhabi](https://fotos.etheriamagazine.com/2020/07/viajar-sola-bahamas-abu-dhabi-900x580.jpg "Mujeres de viaje en Bahamas y Abu Dhabi. © Jared Rice/Juliana Malta")
 
 ## Viajar a Latinoamérica pero bien informadas
 
@@ -124,7 +124,7 @@ transportes legales más seguros y fiables o las rutas más vigiladas y controla
 policía. Yo le he llegado a pedir a un agente que me buscara un taxi oficial o que me 
 llevara con la bici en su portaequipajes para no correr riesgos. 
 
-![viajar con seguridad, mujeres que viajan solas, viaja sola](etheria-images/2020/07/viajar-sola-inca-trail-900x600.jpg "Camino del Inca en Perú. © Peter Conlan")
+![viajar con seguridad, mujeres que viajan solas, viaja sola](https://fotos.etheriamagazine.com/2020/07/viajar-sola-inca-trail-900x600.jpg "Camino del Inca en Perú. © Peter Conlan")
 
 ## Ante los feminicidios, precaución
 
@@ -139,7 +139,7 @@ intuimos peligrosos; ponerse la ubicación en tiempo real del Whatsapp y compart
 alguien cercano, dejarle el número de móvil a quienes te alojen y darles el de la 
 persona con la que vas a salir, bajarse aplicaciones de alarma en caso de amenaza… 
 
-![viajar con seguridad en europa del este](etheria-images/2020/07/viajar-sola-paisaje-900x596.jpg "Mujer viajando sola.")
+![viajar con seguridad en europa del este](https://fotos.etheriamagazine.com/2020/07/viajar-sola-paisaje-900x596.jpg "Mujer viajando sola.")
 
 En definitiva, no hay unos países más seguros que otros, depende de cantidad de factores 
 y nosotras tenemos que hacer todo lo posible para viajar con conciencia y prevención… 

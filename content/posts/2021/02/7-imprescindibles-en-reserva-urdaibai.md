@@ -1,7 +1,7 @@
 ---
 title: "Urdaibai, experimenta el efecto Hemingway en sólo siete paradas"
 date: 2021-02-18
-coverImage: etheria-images/2021/02/Urdaibai-Playa-Laga-Isla-Izaro.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/02/Urdaibai-Playa-Laga-Isla-Izaro.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 La Reserva de la Biosfera de Urdaibai merece la pena, ¡y mucho! El primer espacio protegido de Euskadi convertido en destino turístico sostenible es perfecto para divertirse al aire libre entre verdes montañas. Conocerás una cultura amarrada a lo vasco tanto como al mar, con vistas al paisaje de marismas y campiñas que disfrutó Hemingway. ¡Coge tu mochila porque empezamos este viaje!
 
-![playa laga de cabo ogono urdaibai](etheria-images/2021/02/Urdaibai-Playa-Laga-Isla-Izaro.jpg "La playa Laga y la isla de Izaro, incluidas en la Reserva de Urdaibai.")
+![playa laga de cabo ogono urdaibai](https://fotos.etheriamagazine.com/2021/02/Urdaibai-Playa-Laga-Isla-Izaro.jpg "La playa Laga y la isla de Izaro, incluidas en la Reserva de Urdaibai.")
 
 Nos apasionan los viajes locales a lugares auténticos, como la ría de Urdaibai, y en 
 cualquier estación. Este escenario de esencia vasca se presenta muy apetecible nada más 
@@ -23,7 +23,7 @@ Esta población vasca se ha hecho mundialmente famosa por su ola izquierda**.** 
 nace en una barra de arena dorada junto al pueblo y termina en la espectacular playa de 
 Laida, enlazándola con un tubo oceánico que levanta pasiones surfistas. 
 
-![pueblo de bermeo en la reserva de urdaibai](etheria-images/2021/02/Urdaibai-bermeo.jpg "Pintoresco puerto de Bermeo.")
+![pueblo de bermeo en la reserva de urdaibai](https://fotos.etheriamagazine.com/2021/02/Urdaibai-bermeo.jpg "Pintoresco puerto de Bermeo.")
 
 ## Bermeo, amarrado al mar
 
@@ -38,7 +38,7 @@ pescadora o _arrantzale_, en la vecina torre de Ercilla se aloja el [Museo del
 Pescador](https://bizkaikoa.bizkaia.eus/detalleContenido.asp?id=52&t=1), una visita 
 cultural imprescindible para prendarse del estrecho vínculo de los vascos con el mar. 
 
-![remeros en el cabo de ogono de urdaibai](etheria-images/2021/02/urdaibai-cabo-ogono-677x1024.jpg "Cabo Ogoño desde el mar.")
+![remeros en el cabo de ogono de urdaibai](https://fotos.etheriamagazine.com/2021/02/urdaibai-cabo-ogono-677x1024.jpg "Cabo Ogoño desde el mar.")
 
 ## Cabo Ogoño, las mejores panorámicas
 
@@ -51,7 +51,7 @@ ballenas. Desde el cementerio de Elantxobe, siguiendo la ruta PR-BI 65, en apena
 kilómetros, se llega hasta el **mirador del cabo Ogoño.** Conviene coronar sus 276 
 metros para recargar el ánimo con una vista extraordinaria del Cantábrico. 
 
-![castillo de arteaga en pais vasco](etheria-images/2021/02/urdaibai-castillo-arteaga.jpg "Castillo de Arteaga.")
+![castillo de arteaga en pais vasco](https://fotos.etheriamagazine.com/2021/02/urdaibai-castillo-arteaga.jpg "Castillo de Arteaga.")
 
 ## Castillo de Arteaga, el capricho de Eugenia de Montijo
 
@@ -67,7 +67,7 @@ vez es buena idea instalarnos en sus habitaciones, ya que [Castillo de
 Arteaga](http://castillodearteaga.com/) también es un hotel con encanto imperial y sello 
 Relais & Chauteaux. 
 
-![aves en bird center de urdaibai](etheria-images/2021/02/urdaibai-marismas-aves.jpg "Aves en la ría de Urdaibai.")
+![aves en bird center de urdaibai](https://fotos.etheriamagazine.com/2021/02/urdaibai-marismas-aves.jpg "Aves en la ría de Urdaibai.")
 
 ## El secreto de las aves en la Reserva de Urdaibai
 
@@ -84,7 +84,7 @@ Center.](https://www.birdcenter.org/) Este museo de naturaleza está ubicado en
 vitalidad similar a la que puebla una de las reservas de biodiversidad más valiosas del 
 norte peninsular. 
 
-![casa de juntas de guernica](etheria-images/2021/02/urdaibai-guernica.jpg "Interior de la Casa de Juntas de Gernika Lumo.")
+![casa de juntas de guernica](https://fotos.etheriamagazine.com/2021/02/urdaibai-guernica.jpg "Interior de la Casa de Juntas de Gernika Lumo.")
 
 ## Gernika Lumo, pueblo pacífico donde los haya
 
@@ -98,7 +98,7 @@ dramáticamente su historia. Como sabrás, lo inmortalizó genialmente Pablo Pic
 'Guernica'](https://www.museoreinasofia.es/coleccion/obra/guernica), ahora en el Museo 
 Reina Sofía de Madrid. 
 
-![arbol de guernica](etheria-images/2021/02/urdaibai-guernica-arbol-656x1024.jpg "Roble de Gernika Lumo, símbolo del pueblo vasco.")
+![arbol de guernica](https://fotos.etheriamagazine.com/2021/02/urdaibai-guernica-arbol-656x1024.jpg "Roble de Gernika Lumo, símbolo del pueblo vasco.")
 
 Es recomendable seguir el **Itinerario de la Memoria**, como es conocida la ruta urbana 
 autoguiada (con plano) que facilitan en la [oficina de turismo de Gernika 
@@ -112,7 +112,7 @@ Moore. También de interés es el [Museo de la Paz](https://www.museodelapaz.org
 **plaza de los Fueros**, cuyo lema _“renunciar a olvidar, renunciar a la venganza”_ deja 
 claro el compromiso del municipio con una cultura pacífica y por los derechos humanos. 
 
-![queso en el mercado de gernika](etheria-images/2021/02/urdaibai-mercado-guernica-quesos-682x1024.jpg "El queso es uno de los productos estrella del mercado semanal de Gernika.")
+![queso en el mercado de gernika](https://fotos.etheriamagazine.com/2021/02/urdaibai-mercado-guernica-quesos-682x1024.jpg "El queso es uno de los productos estrella del mercado semanal de Gernika.")
 
 ## Mercado de Gernika, donde molan los lunes
 
@@ -131,7 +131,7 @@ cesta punta en activo más grande del mundo mientras resuena rotundo el sonido d
 pelota al chocar contra el muro del frontón, lanzada con fuerza gracias al impulso de 
 una cesta curva. 
 
-![legumbres mercado de gernika](etheria-images/2021/02/urdaibai-mercado-gernika.jpg "Puesto de legumbres del mercado de los lunes en Gernika.")
+![legumbres mercado de gernika](https://fotos.etheriamagazine.com/2021/02/urdaibai-mercado-gernika.jpg "Puesto de legumbres del mercado de los lunes en Gernika.")
 
 ## La ruta Hemingway en Urdaibai
 
@@ -146,7 +146,7 @@ vascos, de la vida caribeña de Hemingway. Tan impresionado quedó el escritor p
 _Basque Country,_ a través de las historias de sus amigos vascos, que viajó muchas veces 
 a Euskadi y visitó la cercana iglesia donde predicara su amigo en Kanala. 
 
-![Hemingway con Andres Untzain cura de Kanala](etheria-images/2021/02/hemingway-en-pais-vasco.jpg "Fotografía de Hemingway con sus amigos vascos.")
+![Hemingway con Andres Untzain cura de Kanala](https://fotos.etheriamagazine.com/2021/02/hemingway-en-pais-vasco.jpg "Fotografía de Hemingway con sus amigos vascos.")
 
 Frente a esos mismos paisajes marismeños que hoy contemplamos, mientras cae la tarde al 
 ritmo de las mareas, el ilustre escritor estadounidense encontró inspiración para su 

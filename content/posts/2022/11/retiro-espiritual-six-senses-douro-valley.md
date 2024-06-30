@@ -1,7 +1,7 @@
 ---
 title: "Six Senses Douro Valley, el retiro espiritual que necesitas"
 date: 2022-11-04
-coverImage: etheria-images/2022/11/hotel-six-senses-douro-valley.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/11/hotel-six-senses-douro-valley.jpg
 categories: 
   - hoteles
 authors: 
@@ -13,7 +13,7 @@ hotel Six Senses Douro Valley puede ser lo que necesitas. Sus retiros espiritual
 dirigidos por expertos y son un gran regalo para ti misma o para alguien especial que 
 creas que los necesita. 
 
-![Six Senses Douro Valley, un universo para los amantes del vino](etheria-images/2022/11/vendimia-six-sense-douro-valley-850x567.jpg "El entorno del hotel forma parte de la experiencia.")
+![Six Senses Douro Valley, un universo para los amantes del vino](https://fotos.etheriamagazine.com/2022/11/vendimia-six-sense-douro-valley-850x567.jpg "El entorno del hotel forma parte de la experiencia.")
 
 Los retiros espirituales vuelven a ser tendencia y una de las herramientas más eficaces 
 para reequilibrar cuerpo y mente. Si, además, ese reseteo se produce guiado por 
@@ -33,7 +33,7 @@ McClymont, Maureen Hancok y la Doctora Ana Moreira. Los retiros están centrados
 ofrecer distintas experiencias que permitan al participante encontrar las respuestas que 
 necesita según sus necesidades personales. Te contamos en qué consisten. 
 
-![Panorámica del hotel Six Senses Douro Valley.](etheria-images/2022/11/hotel-six-senses-douro-valley.jpg "Panorámica del hotel Six Senses Douro Valley.")
+![Panorámica del hotel Six Senses Douro Valley.](https://fotos.etheriamagazine.com/2022/11/hotel-six-senses-douro-valley.jpg "Panorámica del hotel Six Senses Douro Valley.")
 
 ### Queens’s retreat
 
@@ -47,7 +47,7 @@ del hotel, en mitad de la naturaleza, me transmitió una sensación de fluidez�
 tenía sentido asociar este lugar con un retiro para honrar la esencia del divino 
 femenino”. 
 
-![En todos los retiros existen herramientas claves para encontrar el bienestar personal.](etheria-images/2022/11/meditacion-six-senses-valle-douro.jpg "En todos los retiros existen herramientas claves para encontrar el bienestar personal.")
+![En todos los retiros existen herramientas claves para encontrar el bienestar personal.](https://fotos.etheriamagazine.com/2022/11/meditacion-six-senses-valle-douro.jpg "En todos los retiros existen herramientas claves para encontrar el bienestar personal.")
 
 ### Soul Shift, a spiritual immersion
 
@@ -63,7 +63,7 @@ concepto de gastronomía saludable, para vivir mejor; un spa que superó todas m
 expectativas, pese a que soy experta en esta materia; y habitaciones que combinan lujo y 
 comodidad”. 
 
-![Maureen Hancok coach de uno de los retiros espirituales](etheria-images/2022/11/retiros-espirituales-Maureen-Hancok.jpg "Maureen Hancok.")
+![Maureen Hancok coach de uno de los retiros espirituales](https://fotos.etheriamagazine.com/2022/11/retiros-espirituales-Maureen-Hancok.jpg "Maureen Hancok.")
 
 ### Journey to reconnection
 
@@ -78,7 +78,7 @@ tranquilidad. Estas son características ideales para comprometernos con nosotro
 equilibrando nuestra mente con nuestro cuerpo y recuperando nuestra vitalidad física y 
 emocional”. 
 
-![Ana Moreira dirige uno de los retiros espirituales del Six Senses Douro Valley](etheria-images/2022/11/retiros-espirituales-Ana-Moreira.jpg "Doctora Ana Moreira.")
+![Ana Moreira dirige uno de los retiros espirituales del Six Senses Douro Valley](https://fotos.etheriamagazine.com/2022/11/retiros-espirituales-Ana-Moreira.jpg "Doctora Ana Moreira.")
 
 ### The reseat retreat
 
@@ -99,7 +99,7 @@ proporcionar un servicio de _coaching_ dedicado y personal que les ayudará a cr
 sólidas para su bienestar y la planificación estratégica de sus objetivos vitales y 
 laborales". 
 
-![Las instalaciones del Six Senses Douro Valley invitan a la relajación.](etheria-images/2022/11/restaurante-six-sense-douro-valley.jpg "Las instalaciones del Six Senses Douro Valley invitan a la relajación.")
+![Las instalaciones del Six Senses Douro Valley invitan a la relajación.](https://fotos.etheriamagazine.com/2022/11/restaurante-six-sense-douro-valley.jpg "Las instalaciones del Six Senses Douro Valley invitan a la relajación.")
 
 ### Boundless retreat
 
@@ -114,7 +114,7 @@ mejores restaurantes gastronómicos, aventuras de lujo y catas de vino”.
 
 Puedes encontrar más información de cada experiencia en la web del [hotel](https://www.sixsenses.com/en/resorts/douro-valley/wellness-spa/retreats). 
 
-![Ben Greenfield dirige uno de los retiros espirituales de 2023](etheria-images/2022/11/retiros-espirituales-Ben-Greenfield.jpg "Ben Greenfield.")
+![Ben Greenfield dirige uno de los retiros espirituales de 2023](https://fotos.etheriamagazine.com/2022/11/retiros-espirituales-Ben-Greenfield.jpg "Ben Greenfield.")
 
 ### También te puede interesar...
 

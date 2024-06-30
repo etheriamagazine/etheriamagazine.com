@@ -1,7 +1,7 @@
 ---
 title: "8 brunch en Madrid a muy buen precio para disfrutar del domingo"
 date: 2020-11-13
-coverImage: etheria-images/2020/11/brunch-madrid.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/brunch-madrid.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-gastronomicos
@@ -15,7 +15,7 @@ puedes organizar un domingo en Madrid. Aquí te recomendamos 8 lugares que se aj
 distintos presupuestos, desde pequeños cafés con encanto a hoteles llenos de glamour. 
 Echa un vistazo y elige uno de ellos, no te arrepentirás. 
 
-![brunch](etheria-images/2020/11/brunch-madrid-1.jpg "El brunch se ha convertido en una de las mejores opciones para comenzar el domingo.")
+![brunch](https://fotos.etheriamagazine.com/2020/11/brunch-madrid-1.jpg "El brunch se ha convertido en una de las mejores opciones para comenzar el domingo.")
 
 **Actualizado en febrero de 2024** 
 
@@ -40,7 +40,7 @@ café o infusión.
 Dónde: Paseo de la Castellana, 52. Cuándo: sábados y domingos de 12 a 12.45 h. Precio: 
 39 Euros por persona. 
 
-![Salon de restaurante Dani Garcia brunch madrid](etheria-images/2020/11/Brunch-madrid-bibo-dani-garcia.jpg "Brunch en ©BiBo Madrid, de Dani García.")
+![Salon de restaurante Dani Garcia brunch madrid](https://fotos.etheriamagazine.com/2020/11/Brunch-madrid-bibo-dani-garcia.jpg "Brunch en ©BiBo Madrid, de Dani García.")
 
 ## 2\. Hotel Urso
 
@@ -56,7 +56,7 @@ cóctel o una copa de Champagne Ruinart Blanc de Blancs.
 
 Dónde: Mejía Lequerica, 8. Cúando: todos los días de 11 a 15 h. Precio: 25 Euros. 
 
-![Mesa para disfrutar del brunch en el hotel Urso](etheria-images/2020/11/Brunch-madrid-hotel-urso.jpg "Detalle del elegante brunch en el © hotel Urso.")
+![Mesa para disfrutar del brunch en el hotel Urso](https://fotos.etheriamagazine.com/2020/11/Brunch-madrid-hotel-urso.jpg "Detalle del elegante brunch en el © hotel Urso.")
 
 ## 3\. Brunch Club Café
 
@@ -72,7 +72,7 @@ brunch con todos los platos menos el principal.
 
 Dónde: Barco, 15. Cuándo: Todos los días. Precio: 21 Euros y 15 Euros el mini brunch. 
 
-![Platos de brunch en el Brunch Club Cafe](etheria-images/2020/11/Brunch-Madrid-coffee.jpg "Deliciosas propuestas de brunch en el © Brunch Club Café.")
+![Platos de brunch en el Brunch Club Cafe](https://fotos.etheriamagazine.com/2020/11/Brunch-Madrid-coffee.jpg "Deliciosas propuestas de brunch en el © Brunch Club Café.")
 
 ## 4\. Only You Boutique Hotel Madrid
 
@@ -90,7 +90,7 @@ tomar agua, café, té zumo de naranja y una consumición alcoholica.
 
 Dónde: Barquillo, 21. Cuándo: los domingos de 13 a 16 h. Precio: 39 Euros. 
 
-![Salón en el Only You Boutique Hotel](etheria-images/2020/11/Brunch-madrid-only-you-boutique.jpg "Brunch en el © Only You Boutique Hotel.")
+![Salón en el Only You Boutique Hotel](https://fotos.etheriamagazine.com/2020/11/Brunch-madrid-only-you-boutique.jpg "Brunch en el © Only You Boutique Hotel.")
 
 ## 5\. Casa Suecia
 
@@ -113,7 +113,7 @@ Dónde: Marqués de Casa Riera, 4. Cuándo: sábados y domingos a mediodía. Pre
 Brunch 34 Euros (39 con cóctel); Bubble Brunch 30 Euros (35 con cóctel). Niños menores 
 de 10 años: 14 Euros. 
 
-![Brunch en Casa Suecia.](etheria-images/2020/11/Brunch-madrid-casa-suecia.jpg "Vistas de Madrid y del brunch de © Casa Suecia.")
+![Brunch en Casa Suecia.](https://fotos.etheriamagazine.com/2020/11/Brunch-madrid-casa-suecia.jpg "Vistas de Madrid y del brunch de © Casa Suecia.")
 
 ## 6\. Los brunch de Salvador Bachiller
 
@@ -131,7 +131,7 @@ Dónde: El Rincón Secreto (Alcalá, 151), Bloom (Alberto Aguilera, 54), El Inve
 (Gran Vía, 65) y El Jardín y Bistró (Montera, 37). Cuándo: todos los días de 11 a 13 h. 
 Precio: 29 Euros. 
 
-![los Gastrobar de Salvador Bachiller](etheria-images/2020/11/brunch-madrid-salvador-bachiller.jpg "Tomar el brunch en los © Gastrobar de Salvador Bachiller es una excelente opción.")
+![los Gastrobar de Salvador Bachiller](https://fotos.etheriamagazine.com/2020/11/brunch-madrid-salvador-bachiller.jpg "Tomar el brunch en los © Gastrobar de Salvador Bachiller es una excelente opción.")
 
 ## 7\. Bendita Locura
 
@@ -150,7 +150,7 @@ Dónde: Príncipe de Vergara, 73. Imprescindible reservar en el Tel. 915 632 570
 de lunes a viernes de 10.30 a 14 h. Sábado y domingo hata las 16 h. Precio: 23 Euros. El 
 Little Brunch 18 Euros. 
 
-![Salón de Bendita Locura y huevos Benedictine](etheria-images/2020/11/Brunch-madrid-bendita-locura.jpg "El café © Bendita Locura es uno de los lugares más bonitos para tomar el brunch en Madrid.")
+![Salón de Bendita Locura y huevos Benedictine](https://fotos.etheriamagazine.com/2020/11/Brunch-madrid-bendita-locura.jpg "El café © Bendita Locura es uno de los lugares más bonitos para tomar el brunch en Madrid.")
 
 ## 8\. Café Comercial
 
@@ -168,7 +168,7 @@ aparte).
 Dónde: Glorieta de Bilbao, 7. Cuándo: sábados y domingos de 10 a 13 h. Precio: 30 Euros 
 (menú para niños de 19 Euros). 
 
-![Interior del Café Comercial de Madrid.](etheria-images/2020/11/Brunch-madrid-cafe-comercial.jpg "Salón del castizo © Café Comercial.")
+![Interior del Café Comercial de Madrid.](https://fotos.etheriamagazine.com/2020/11/Brunch-madrid-cafe-comercial.jpg "Salón del castizo © Café Comercial.")
 
 **Te puede interesar...** 
 

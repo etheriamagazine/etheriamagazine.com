@@ -1,7 +1,7 @@
 ---
 title: "Diez destinos para viajar sola recomendados por periodistas de viajes"
 date: 2020-12-17
-coverImage: etheria-images/2020/12/viajar-sola-azores.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/viajar-sola-azores.jpg
 categories: 
   - viajes-para-mujeres
   - viajar-sola
@@ -14,7 +14,7 @@ las mejores experiencias al viajar solas. Como los consejos más fiables a la ho
 lanzarnos vienen siempre de otras mujeres que ya han visitado ese destino, el equipo de 
 Etheria Magazine te recomienda 10 viajes en solitario que te sorprenderán. 
 
-![Mezquita de Nasirolmolk, Shiraz (Irán).](etheria-images/2020/12/viajar-sola-iran-shiraz.jpg "Mezquita de Nasirolmolk, Shiraz (Irán). © Steven Su")
+![Mezquita de Nasirolmolk, Shiraz (Irán).](https://fotos.etheriamagazine.com/2020/12/viajar-sola-iran-shiraz.jpg "Mezquita de Nasirolmolk, Shiraz (Irán). © Steven Su")
 
 ## 1\. Irán, un país seguro para viajar sola
 
@@ -36,7 +36,7 @@ sobre Negro’_, de la física y escritora Ana Briongos, gran conocedora de este
 
 Recomendado por Nuria Cortés, periodista de viajes. 
 
-![Panorámica de Toulouse desde el restaurante Ma Biche sur le Toit en Galeries Lafayette.](etheria-images/2020/12/viajar-sola-toulouse.jpg "Panorámica de Toulouse desde el restaurante Ma Biche sur le Toit en Galeries Lafayette. © Manena Munar.")
+![Panorámica de Toulouse desde el restaurante Ma Biche sur le Toit en Galeries Lafayette.](https://fotos.etheriamagazine.com/2020/12/viajar-sola-toulouse.jpg "Panorámica de Toulouse desde el restaurante Ma Biche sur le Toit en Galeries Lafayette. © Manena Munar.")
 
 ## 2\. Descubre Toulouse a tu aire
 
@@ -54,7 +54,7 @@ Ciudad Rosa al completo.
 
 Recomendado por Manena Munar, escritora y periodista de viajes. 
 
-![Venecia, una ciudad perfecta para viajar sola.](etheria-images/2020/12/viajar-sola-venecia.jpg "Venecia, una ciudad perfecta para viajar sola. © Ricardo Gomez Angel")
+![Venecia, una ciudad perfecta para viajar sola.](https://fotos.etheriamagazine.com/2020/12/viajar-sola-venecia.jpg "Venecia, una ciudad perfecta para viajar sola. © Ricardo Gomez Angel")
 
 ## 3\. Venecia, ideal para ir a tu aire
 
@@ -69,7 +69,7 @@ puedes diseñarte una **‘Venecia secreta’** según tus propios intereses. Y 
 
 Recomendado por Pilar Ortega, especializada en Periodismo Cultural. 
 
-![Lisboa](etheria-images/2020/12/viajar-sola-lisboa.jpg "Lisboa. © Martin Kallur")
+![Lisboa](https://fotos.etheriamagazine.com/2020/12/viajar-sola-lisboa.jpg "Lisboa. © Martin Kallur")
 
 ## 4\. Lisboa sozinha
 
@@ -86,7 +86,7 @@ tranvías, bacalao, miradores y nostálgicos fados.
 
 Recomendado por Kelu Robles, periodista radiofónica y viajera. 
 
-![Vista del puerto de Gozo.](etheria-images/2018/05/gozo-mujeres-viaje.jpg "Vista del puerto de Gozo. © Etheria Magazine")
+![Vista del puerto de Gozo.](https://fotos.etheriamagazine.com/2018/05/gozo-mujeres-viaje.jpg "Vista del puerto de Gozo. © Etheria Magazine")
 
 ## 5\. Gozo, perfecta si viajas sola
 
@@ -111,7 +111,7 @@ atrapándote.
 
 Recomendado por Eva Madruga, especializada en Turismo de Cine. 
 
-![La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos).](etheria-images/2018/12/Cite-du-Vin-Credit-Arnaud-Bertrande_format_1600x900-1024x576.jpg "La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos). © Arnaud Bertrande")
+![La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos).](https://fotos.etheriamagazine.com/2018/12/Cite-du-Vin-Credit-Arnaud-Bertrande_format_1600x900-1024x576.jpg "La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos). © Arnaud Bertrande")
 
 ## 6\. Burdeos, viaja en solitario a la Ciudad del Vino
 
@@ -135,7 +135,7 @@ conocer qué hace tan especial al _terroir_ y a los vinos bordeleses. ¿Te anima
 
 Recomendado por Vanesa Viñolo, periodista de Gastronomía y Enoturismo. 
 
-![Taiwán, un buen destino para viajar sola.](etheria-images/2020/12/viajar-sola-taiwan-taipei-101.jpg "Taiwán, un buen destino para viajar sola. © Vernon Raineil Cenzon")
+![Taiwán, un buen destino para viajar sola.](https://fotos.etheriamagazine.com/2020/12/viajar-sola-taiwan-taipei-101.jpg "Taiwán, un buen destino para viajar sola. © Vernon Raineil Cenzon")
 
 ## 7\. Taiwán, respetuoso con la mujer viajera
 
@@ -155,7 +155,7 @@ desviven por agradar, y la facilidad de las comunicaciones para moverse por el p
 
 Recomendado por Pepa García, periodista de viajes y directora editorial de Etheria M. 
 
-![Mirador de Oporto.](etheria-images/2020/04/mirador-oporto-900x675.jpg "Mirador de Oporto. © Etheria Magazine")
+![Mirador de Oporto.](https://fotos.etheriamagazine.com/2020/04/mirador-oporto-900x675.jpg "Mirador de Oporto. © Etheria Magazine")
 
 ## 8\. Oporto, bohemia y acogedora
 
@@ -173,7 +173,7 @@ del Diseño.
 Recomendado por Rebeca Ávila, periodista de Estilo de Vida y Directora de RSC de Accor 
 en Europa del sur. 
 
-![Japón, un destino sorprendente y seguro para viajar sola.](etheria-images/2019/04/Japon-Onsen-ryokan-monte-Fuji.jpg "Japón, un destino sorprendente y seguro para viajar sola.")
+![Japón, un destino sorprendente y seguro para viajar sola.](https://fotos.etheriamagazine.com/2019/04/Japon-Onsen-ryokan-monte-Fuji.jpg "Japón, un destino sorprendente y seguro para viajar sola.")
 
 ## 9\. Japón, choque cultural con todas las comodidades
 
@@ -197,7 +197,7 @@ zona de los Alpes Japoneses o Hakone, donde podrás disfrutar de una noche en un
 
 Recomendado por Susana García, periodista y directora corporativa de Etheria M. 
 
-![Paisaje de islas Azores.](etheria-images/2020/12/viajar-sola-azores.jpg "Paisaje de islas Azores. © Martin Munk")
+![Paisaje de islas Azores.](https://fotos.etheriamagazine.com/2020/12/viajar-sola-azores.jpg "Paisaje de islas Azores. © Martin Munk")
 
 ## 10\. Azores, atracción volcánica
 

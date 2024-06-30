@@ -1,7 +1,7 @@
 ---
 title: "10 playas en España para disfrutar del verano"
 date: 2020-06-03
-coverImage: etheria-images/2020/05/playa-espana-la-graciosa.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/playa-espana-la-graciosa.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 En los momentos que estamos viviendo no puede haber nada más apetecible que un poco de  brisa del mar, de agua salada y de arena. Aquí os proponemos 10 playas en España, que se suman a otras 10 que ya os recomendamos anteriormente, para que penséis en un lugar de la costa donde perderos durante el verano.
 
-![Aguas transparentes en cala Mitjana](etheria-images/2020/06/cala-mitjana-menorca.jpg "Cala Mitjana (Menorca).")
+![Aguas transparentes en cala Mitjana](https://fotos.etheriamagazine.com/2020/06/cala-mitjana-menorca.jpg "Cala Mitjana (Menorca).")
 
 Parece que un verano sin playa no es verano y, por mucho que te guste la montaña, no me 
 negarás que unos días junto al mar cargan las pilas para muchas semanas. España está 
@@ -36,7 +36,7 @@ con dunas bordeado de pinos y con un agua tan trasparente que ya quisiera el Car
 encuentra en la popular zona turística mallorquina de Cala Ratjada y es perfecta para 
 familias y para dar una vuelta en kayak. 
 
-![Cala Agulla (Mallorca).](etheria-images/2020/05/playas-espana-cala-agulla.jpg "Cala Agulla (Mallorca).")
+![Cala Agulla (Mallorca).](https://fotos.etheriamagazine.com/2020/05/playas-espana-cala-agulla.jpg "Cala Agulla (Mallorca).")
 
 ## 2\. Playa de Torimbia (Llanes, Asturias)
 
@@ -48,7 +48,7 @@ playas cantábricas tan bonitas donde te acabarás bañando a pesar de las olas 
 temperatura del agua. Ten en cuenta que es una playa nudista, aunque no pasa nada si 
 prefieres no quitarte el bañador. 
 
-![playa en forma de media luna](etheria-images/2020/05/playas-espana-playa-de-torimbia-asturias.jpg "Playa de Torimbia (Asturias).")
+![playa en forma de media luna](https://fotos.etheriamagazine.com/2020/05/playas-espana-playa-de-torimbia-asturias.jpg "Playa de Torimbia (Asturias).")
 
 ## 3\. Playa La Francesca (La Graciosa)
 
@@ -58,7 +58,7 @@ y poco oleaje. Cuando sube la marea se convierte en un lugar perfecto para hacer
 esnórquel gracias a su rico fondo marino. Es una playa salvaje así que no tiene 
 servicios, tendrás que llevar todo lo que necesites para pasar el día. 
 
-![aguas transparentes en La Graciosa](etheria-images/2020/05/playa-espana-la-graciosa.jpg "Playa La Francesca (La Graciosa).")
+![aguas transparentes en La Graciosa](https://fotos.etheriamagazine.com/2020/05/playa-espana-la-graciosa.jpg "Playa La Francesca (La Graciosa).")
 
 ## 4\. Playa de Zahora (Barbate, Cádiz)
 
@@ -69,7 +69,7 @@ bonito faro de Trafalgar. Es perfecta para [surferas](https://etheriamagazine.co
 o para las que disfrutan simplemente con la contemplación de un mar con olas. Quédate en 
 ella al atardecer para poder ver una increíble puesta de sol. 
 
-![playa con olas](etheria-images/2020/05/playas-espana-zahora-cadiz.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
+![playa con olas](https://fotos.etheriamagazine.com/2020/05/playas-espana-zahora-cadiz.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
 
 ## 5\. Cala Mitjana (Ferreries, Menorca)
 
@@ -79,7 +79,7 @@ precioso entorno natural de piedras blancas y vegetación. Situada cerca de la p
 Cala Galdana, cuenta con aparcamiento y para llegar tendrás que atravesar un bonito 
 bosque de encinas. 
 
-![playa mediterránea en Menorca](etheria-images/2020/05/playas-espana-cala-mitjana-menorca.jpg "Cala Mitjana (Menorca). © Joao Branco")
+![playa mediterránea en Menorca](https://fotos.etheriamagazine.com/2020/05/playas-espana-cala-mitjana-menorca.jpg "Cala Mitjana (Menorca). © Joao Branco")
 
 ## 6\. Playa de los Genoveses (Cabo de Gata, Almería)
 
@@ -91,7 +91,7 @@ fina y dorada. Hay que tener en cuenta que es una playa salvaje, no cuenta con n
 tipo de servicios así que hay que llevar todo lo que se pueda necesitar en el día. Para 
 llegar se puede ir caminando desde San José o con el coche hasta su aparcamiento. 
 
-![playa desierta en Almería](etheria-images/2020/05/playas-espana-genoveses-almeria.jpg "Playa de los Genoveses (Almería).")
+![playa desierta en Almería](https://fotos.etheriamagazine.com/2020/05/playas-espana-genoveses-almeria.jpg "Playa de los Genoveses (Almería).")
 
 ## 7\. Platges de Compte (Ibiza)
 
@@ -103,7 +103,7 @@ transparente. Además, es uno de los rincones preferidos de los navegantes para 
 los pequeños yates y pasar el día. Cuenta con chiringuitos, restaurantes y un ambiente 
 muy animado. 
 
-![playa al atardecer](etheria-images/2020/05/playas-espana-cala-compte-ibiza.jpg "Platges de Compte (Ibiza). © Michael Tomlinson")
+![playa al atardecer](https://fotos.etheriamagazine.com/2020/05/playas-espana-cala-compte-ibiza.jpg "Platges de Compte (Ibiza). © Michael Tomlinson")
 
 ## 8\. Playa de Berellín (Prellezo, Cantabria)
 
@@ -115,7 +115,7 @@ guarda la costa del norte de España en los que, además de disfrutar del mar, t
 aliciente de deleitarte con el paisaje en un lugar único. Eso sí, tendrás que ser 
 precavido con el oleaje y las corrientes. 
 
-![playa del norte del España](etheria-images/2020/05/playas-espana-prellezo-asturias.jpg "Playa de Berellín (Cantabria).")
+![playa del norte del España](https://fotos.etheriamagazine.com/2020/05/playas-espana-prellezo-asturias.jpg "Playa de Berellín (Cantabria).")
 
 ## 9\. Playa de El Portil (El Portil, Huelva)
 
@@ -126,7 +126,7 @@ separa del Atlántico por la Flecha del Rompido. Sus aguas tranquilas y no tan f
 como suelen ser las de la zona, hace que sea perfecta para familias. Además, está muy 
 cerca de una laguna natural (del mismo nombre), perfecta para un paseo. 
 
-![arenal en Huelva](etheria-images/2020/05/playas-espana-el-portil-huelva.jpg "Playa de El Portal (Huelva). © Adrián Macías")
+![arenal en Huelva](https://fotos.etheriamagazine.com/2020/05/playas-espana-el-portil-huelva.jpg "Playa de El Portal (Huelva). © Adrián Macías")
 
 ## 10\. Sant Pere Pescador (Girona)
 
@@ -137,7 +137,7 @@ todos encuentren su sitio. Es perfecta para practicar deportes acuáticos como _
 o kayak. Su zona oriental está protegida por su valor natural y forma parte del Parc 
 Natural dels Aiguamolls de l’Empordà. 
 
-![Gran arenal de Girona](etheria-images/2020/05/playas-espana-san-pere-pescador-girona.jpg "Playa de Sant Pere Pescador (Girona).")
+![Gran arenal de Girona](https://fotos.etheriamagazine.com/2020/05/playas-espana-san-pere-pescador-girona.jpg "Playa de Sant Pere Pescador (Girona).")
 
 ### También te puede interesar:
 

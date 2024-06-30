@@ -1,7 +1,7 @@
 ---
 title: "Orango Parque Hotel, vive una experiencia inolvidable en Guinea Bissau"
 date: 2021-10-14
-coverImage: etheria-images/2021/10/comida-hotel-orango-parque.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/comida-hotel-orango-parque.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 Disfrutar del entorno y de la vida cotidiana del archipiélago Bijagó, en Guinea Bissau, es tan fácil como alojarse en el Orango Parque Hotel y apuntarse a alguna de sus experiencias: antropología, ornitología, astroturismo, fotografía... Te damos las claves para vivir una aventura africana desde este ecolodge sostenible que contribuye a una labor social y de conservación del medio natural.
 
-![hotel orango parque playa](etheria-images/2021/10/piragua-hotel-orango-park.jpg "El hotel Orango Parque se sitúa en primera línea de playa.")
+![hotel orango parque playa](https://fotos.etheriamagazine.com/2021/10/piragua-hotel-orango-park.jpg "El hotel Orango Parque se sitúa en primera línea de playa.")
 
 Emprender una aventura en África emociona, siempre lo hace por mucho que hayas recorrido 
 este continente, pero si se visita por primera vez es normal que cause cierto temor a lo 
@@ -22,7 +22,7 @@ te proponemos considerar las propuestas del **Orango Parque Hotel**. En este
 establecimiento no sólo conseguirás desconectar sino reflexionar sobre lo verdaderamente 
 importante de la vida. 
 
-![instalaciones hotel orango parque](etheria-images/2021/10/hotel-orango-parque-guinea-bisau.jpg "El Orango Parque es el único hotel dentro de este espacio natural protegido.")
+![instalaciones hotel orango parque](https://fotos.etheriamagazine.com/2021/10/hotel-orango-parque-guinea-bisau.jpg "El Orango Parque es el único hotel dentro de este espacio natural protegido.")
 
 ## Cómo es el Orango Parque Hotel
 
@@ -33,7 +33,7 @@ compensa otros lujos a los que estés acostumbrada. Cuenta con 6 bungalows para 
 personas cada uno y 2 bungalows con 4 habitaciones dobles (estándar o premium). Es 
 decir, su capacidad total es de 28 personas, un hotel boutique en toda regla. 
 
-![pescado hotel orango parque](etheria-images/2021/10/comida-hotel-orango-parque.jpg "Pescado a la brasa, una cena perfecta.")
+![pescado hotel orango parque](https://fotos.etheriamagazine.com/2021/10/comida-hotel-orango-parque.jpg "Pescado a la brasa, una cena perfecta.")
 
 Su estilo se define como **africano**: los bungalows tienen planta circular y techo de 
 paja, y en el interiorismo se han empleado motivos y decoración inspirada en la cultura 
@@ -44,7 +44,7 @@ fresco preparado a la brasa en la playa y acompañado de arroz bijagó, cultivad
 zona, un plato de combé (un tipo de berberechos) recién cogidos o unas ostras de 
 manglar? 
 
-![gastronomia orango parque guinea](etheria-images/2021/10/orango-hotel-guinea-bisau.jpg "Instalaciones y gastronomía en el hotel Orango Parque.")
+![gastronomia orango parque guinea](https://fotos.etheriamagazine.com/2021/10/orango-hotel-guinea-bisau.jpg "Instalaciones y gastronomía en el hotel Orango Parque.")
 
 ## Bijagó, un pequeño paraíso africano
 
@@ -56,14 +56,14 @@ Portugal, pero la lengua franca es la criolla. Desde Europa se tarda unas cuatro
 en llegar hasta allí, y desde el hotel te pueden recoger directamente, si lo pides, en 
 el [aeropuerto internacional Osvaldo Vieira](https://www.aeroporto-bissau.com/) (Bisáu). 
 
-![habitacion orango parque](etheria-images/2021/10/habitacion-hotel-orango-parque.jpg "Una de las habitaciones del hotel.")
+![habitacion orango parque](https://fotos.etheriamagazine.com/2021/10/habitacion-hotel-orango-parque.jpg "Una de las habitaciones del hotel.")
 
 También es el único alojamiento en el interior del **Parque Nacional de Orango**, por lo 
 que la experiencia natural está garantizada. Debes saber también que el conjunto insular 
 de Bijagó está integrado por 88 islas y que alberga una sorprendente fauna y flora. En 
 la isla de Poilao, por ejemplo, anidan las tortugas verdes. 
 
-![hipopotamo parque nacional orango](etheria-images/2021/10/parque-nacional-orango.jpg "Hipopótamo en el Parque Nacional de Orango.")
+![hipopotamo parque nacional orango](https://fotos.etheriamagazine.com/2021/10/parque-nacional-orango.jpg "Hipopótamo en el Parque Nacional de Orango.")
 
 ### El matriarcado de Bijagó
 
@@ -98,7 +98,7 @@ del “pano di
 pinti”](https://etheriamagazine.com/2020/10/15/pano-di-pinti-tejido-sagrado-de-los-pepel-y-manjaka-de-guinea-bissau/), 
 el tejido sagrado que podrás comprar allí mismo. 
 
-![mujeres guinea bisau hotel orango park](etheria-images/2021/10/mujeres-guinea-bissau.jpg "Parte de los beneficios repercute en la población local.")
+![mujeres guinea bisau hotel orango park](https://fotos.etheriamagazine.com/2021/10/mujeres-guinea-bissau.jpg "Parte de los beneficios repercute en la población local.")
 
 ### Su vertiente más social
 
@@ -116,7 +116,7 @@ colaboración con la población local.
 [Orango Parque Hotel](https://www.orangohotel.com/). Isla de Orango (archipiélago 
 Bijagó). Guinea-Bissau 
 
-![playa orango islas bijago](etheria-images/2021/10/islas-bijado-guinea.jpg "Isla de Orango (archipiélago Bijagó).")
+![playa orango islas bijago](https://fotos.etheriamagazine.com/2021/10/islas-bijado-guinea.jpg "Isla de Orango (archipiélago Bijagó).")
 
 ### Otras experiencias en África...
 

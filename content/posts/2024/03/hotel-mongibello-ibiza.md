@@ -1,7 +1,7 @@
 ---
 title: "Hotel Mongibello, el lugar donde gozar de la 'dolce vita' más ibicenca"
 date: 2024-03-27
-coverImage: etheria-images/2024/03/hotel-mongibello-recepcion.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-recepcion.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -15,7 +15,7 @@ detalles y secretos de este hotel de cuatro estrellas ubicado en la zona de Sant
 Eulària des Riu, a los pies de la playa de Es Caló De S’Alga, capaz de convertir 
 cualquier estancia en una experiencia única. 
 
-![Piscina del hotel Mongibello.](etheria-images/2024/03/hotel-mongibello-piscina.jpg "Piscina del hotel Mongibello.")
+![Piscina del hotel Mongibello.](https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-piscina.jpg "Piscina del hotel Mongibello.")
 
 Nada más llegar a la puerta del hotel Mongibello se percibe que se está en un hotel 
 diferente, donde parece que siempre es verano. Todo en este alojamiento ha sido pensado 
@@ -40,7 +40,7 @@ con un fantástico mural de la artista gráfica ibicenca Daniela Díez. O el Alf
 Spider situado en la entrada, la fuente barroca, la _jukebox_ del lobby o el estiloso 
 carrito de limonada para tomar algo al subir de la playa. 
 
-![bar secreto Lola's del hotel Mongibello](etheria-images/2024/03/hotel-mongibello-lolas.jpg "'Speakeasy' Lola's.")
+![bar secreto Lola's del hotel Mongibello](https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-lolas.jpg "'Speakeasy' Lola's.")
 
 ## Jornadas eternas de verano
 
@@ -51,7 +51,7 @@ ya que cuenta con un **Day Pass** (80 Euros repartidos en 20 Euros por uso de to
 instalaciones y 60 Euros de consumo mínimo en comida y bebida) para que puedas sentirte 
 como una auténtica diva de 11 a 19 h. 
 
-![Recepción del hotel Mongibello.](etheria-images/2024/03/hotel-mongibello-recepcion.jpg "Recepción del hotel Mongibello.")
+![Recepción del hotel Mongibello.](https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-recepcion.jpg "Recepción del hotel Mongibello.")
 
 ## Las habitaciones
 
@@ -72,7 +72,7 @@ Carlos Martorell ha sido el encargado de seleccionar a estas personas, entre las
 encuentran figuras tan reconocidas como Ángel Cristo, Ricardo Urgell (fundador de 
 Pachá), la actriz Ángela Molina o la diseñadora Charo Ruiz. 
 
-![Suite del hotel Mongibello.](etheria-images/2024/03/hotel-mongibello-suite.jpg "Suite del hotel Mongibello.")
+![Suite del hotel Mongibello.](https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-suite.jpg "Suite del hotel Mongibello.")
 
 La habitación más especial del hotel es la **Bello Suite**, una suite presidencial de 43 
 metros cuadrados con una enorme terraza que ofrece las mejores vistas desde el hotel y 
@@ -87,7 +87,7 @@ basada en el producto de cercanía. Todos con vistas a ese Mediterráneo siempre
 y al que se asoma también el espacio de **La Piazzetta** con sus cenas a la brasa y sus 
 conciertos de jazz. 
 
-![Restaurante Sorella.](etheria-images/2024/03/hotel-mongibello-restaurante-sorella.jpg "Restaurante Sorella.")
+![Restaurante Sorella.](https://fotos.etheriamagazine.com/2024/03/hotel-mongibello-restaurante-sorella.jpg "Restaurante Sorella.")
 
 La vocación de _dolce far niente_ de este hotel se refleja en su programación de ocio, 
 en la que no faltan el cine de verano con el ciclo _Movieland_ o las _Charlas Arte de 

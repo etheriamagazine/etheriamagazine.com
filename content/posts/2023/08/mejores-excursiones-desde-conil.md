@@ -1,7 +1,7 @@
 ---
 title: "10 excursiones ideales desde Conil de la Frontera"
 date: 2023-08-02
-coverImage: etheria-images/2023/08/playa-roche-conil.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/08/playa-roche-conil.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -14,7 +14,7 @@ permitirán conocer mejor la costa gaditana, llegar a la capital provincial, rec
 algunas poblaciones del interior e, incluso, dar el salto a Marruecos. Todas se pueden 
 hacer en un día, ida y vuelta, para que no tengas que buscar hotel en otros lugares. 
 
-![Atardecer sobre los tejados de Conil.](etheria-images/2023/08/atardecer-conil-pueblo.jpg "Atardecer sobre los tejados de Conil. © Etheria M.")
+![Atardecer sobre los tejados de Conil.](https://fotos.etheriamagazine.com/2023/08/atardecer-conil-pueblo.jpg "Atardecer sobre los tejados de Conil. © Etheria M.")
 
 Conil de la Frontera es uno de esos pueblos de la costa de Cádiz que cada año gana más 
 adeptos y donde los recursos turísticos no han dejado de crecer desde los años setenta. 
@@ -46,7 +46,7 @@ amigas](https://etheriamagazine.com/2021/07/05/los-mejores-planes-en-conil-con-a
 [Restaurantes y bares donde comer bien en Conil de la 
 Frontera.](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
 
-![Playa de Roche, en Conil de la Frontera.](etheria-images/2023/08/playa-roche-conil.jpg "Playa de Roche, en Conil de la Frontera.")
+![Playa de Roche, en Conil de la Frontera.](https://fotos.etheriamagazine.com/2023/08/playa-roche-conil.jpg "Playa de Roche, en Conil de la Frontera.")
 
 ## Pueblos que visitar desde Conil y otras excursiones
 
@@ -68,7 +68,7 @@ Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-fron
 [Restaurantes en El Palmar (Cádiz) para comer muy 
 bien](https://etheriamagazine.com/2021/07/26/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien/). 
 
-![Calle con macetas en Vejer](etheria-images/2023/07/excursion-vejer-cadiz.jpg "Calle de Vejer. © Etheria Mag.")
+![Calle con macetas en Vejer](https://fotos.etheriamagazine.com/2023/07/excursion-vejer-cadiz.jpg "Calle de Vejer. © Etheria Mag.")
 
 ### Barbate
 
@@ -90,7 +90,7 @@ Puedes terminar el día en **Zahara de los Atunes**, una villa que, a pesar de h
 crecido con numerosas urbanizaciones y chalets, sigue brindando una buena experiencia en 
 su amplia playa y en sus restaurantes. 
 
-![La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate](etheria-images/2018/06/playa-yerbabuena-barbate-ruta-del-atun-1024x682.jpg "La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate. © Etheria Mag.")
+![La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate](https://fotos.etheriamagazine.com/2018/06/playa-yerbabuena-barbate-ruta-del-atun-1024x682.jpg "La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate. © Etheria Mag.")
 
 ### Tarifa
 
@@ -105,7 +105,7 @@ Bueno, un atractivo ambiente bohemio y playas espectaculares.
 baño en la playa de 
 Bolonia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
 
-![Vista de Tarifa desde el castillo de Guzmán el Bueno](etheria-images/2020/06/tarifa-pueblo-900x611.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
+![Vista de Tarifa desde el castillo de Guzmán el Bueno](https://fotos.etheriamagazine.com/2020/06/tarifa-pueblo-900x611.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
 
 ### Setenil de las Bodegas
 
@@ -118,7 +118,7 @@ recomendable visitar en Setenil en una excursión de un día.
 **\*No te pierdas:** [Qué ver en Setenil de las 
 Bodegas](https://etheriamagazine.com/2022/07/22/que-ver-setenil-de-las-bodegas/). 
 
-![Panorámica de Setenil de las Bodegas.](etheria-images/2022/07/Setenil-panoramica.jpg "Panorámica de Setenil de las Bodegas. © S.G.")
+![Panorámica de Setenil de las Bodegas.](https://fotos.etheriamagazine.com/2022/07/Setenil-panoramica.jpg "Panorámica de Setenil de las Bodegas. © S.G.")
 
 ### Chiclana
 
@@ -135,7 +135,7 @@ salinas para disfrutar de su spa al aire libre. Y, por supuesto, hay que termina
 con vistas al **castillo de Sancti Petri,** ya sea desde la playa o desde un barco. Un 
 planazo, ¿verdad? 
 
-![Playa de Sancti Petri con la isla al fondo.](etheria-images/2023/03/Chiclana-Sancti-Petri.jpg "Playa de Sancti Petri con la isla al fondo.")
+![Playa de Sancti Petri con la isla al fondo.](https://fotos.etheriamagazine.com/2023/03/Chiclana-Sancti-Petri.jpg "Playa de Sancti Petri con la isla al fondo.")
 
 ### Cádiz capital
 
@@ -152,7 +152,7 @@ centro histórico. En este artículo encontrarás más pistas para gozar de “l
 plata”: [Cádiz, tras las huellas de su legado 
 andalusí](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/). 
 
-![Playa de la Caleta, en Cádiz capital.](etheria-images/2023/03/que-ver-cadiz-la-caleta.jpg "Playa de la Caleta, en Cádiz capital.")
+![Playa de la Caleta, en Cádiz capital.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-la-caleta.jpg "Playa de la Caleta, en Cádiz capital.")
 
 ### El Puerto de Santa María y Jerez
 
@@ -167,7 +167,7 @@ vino](https://etheriamagazine.com/2021/11/01/guia-imprescindible-el-puerto-santa
 [Viaje con amigas a Jerez, el arte del buen 
 vivir](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-con-amigas/). 
 
-![plaza de espana el puerto cadiz](etheria-images/2021/10/Plaza-Espana-puerto-santa-maria-900x464.jpg "Plaza de España, en El Puerto de Santa María.")
+![plaza de espana el puerto cadiz](https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria-900x464.jpg "Plaza de España, en El Puerto de Santa María.")
 
 ### Sanlúcar de Barrameda
 
@@ -189,7 +189,7 @@ disfrutar de vistas panorámicas de los paisajes fluviales.
 **\*No te pierdas:** [Qué comer en Sanlúcar de 
 Barrameda](https://etheriamagazine.com/2022/05/11/donde-comer-sanlucar-de-barrameda/). 
 
-![Langostinos de Sanlúcar de Barrameda.](etheria-images/2022/01/langostino-sanlucar-cadiz.jpg "Langostinos de Sanlúcar de Barrameda. © Turismo Andaluz")
+![Langostinos de Sanlúcar de Barrameda.](https://fotos.etheriamagazine.com/2022/01/langostino-sanlucar-cadiz.jpg "Langostinos de Sanlúcar de Barrameda. © Turismo Andaluz")
 
 ### Arcos de la Frontera
 
@@ -202,7 +202,7 @@ pueblos blancos de Cádiz, así que puedes continuar la ruta por la serranía.
 **\*No te pierdas:** [Ruta en coche por 12 preciosos pueblos blancos de 
 Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-cadiz/). 
 
-![Arcos de la Frontera, puerta de entrada a los pueblos blancos](etheria-images/2023/08/excursion-arcos-frontera.jpg "Arcos de la Frontera. © Turismo Andaluz")
+![Arcos de la Frontera, puerta de entrada a los pueblos blancos](https://fotos.etheriamagazine.com/2023/08/excursion-arcos-frontera.jpg "Arcos de la Frontera. © Turismo Andaluz")
 
 ### Tánger
 
@@ -218,7 +218,7 @@ precios son muy asequibles.
 No te pierdas: [Tánger, ¿qué tiene su medina que encandiló a Matisse y a Carmina 
 Ordóñez?](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/) 
 
-![Expositor de productos del Chez Hassan y aceitunas aliñadas sobre cerámica artesanal.](etheria-images/2022/08/tanger-que-comer.jpg "Expositor de productos del Chez Hassan y aceitunas aliñadas sobre cerámica artesanal. © Kelu Robles")
+![Expositor de productos del Chez Hassan y aceitunas aliñadas sobre cerámica artesanal.](https://fotos.etheriamagazine.com/2022/08/tanger-que-comer.jpg "Expositor de productos del Chez Hassan y aceitunas aliñadas sobre cerámica artesanal. © Kelu Robles")
 
 Con tantas excursiones desde Conil de la Frontera, no hay duda de que este rincón de 
 Andalucía es un destino perfecto para alojarse y descubrir después los alrededores. 

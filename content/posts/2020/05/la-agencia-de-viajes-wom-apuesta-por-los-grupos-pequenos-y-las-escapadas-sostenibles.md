@@ -1,7 +1,7 @@
 ---
 title: "La agencia WOM Viajes apuesta escapadas nacionales"
 date: 2020-05-25
-coverImage: etheria-images/2020/05/wom-agencia-viajes-mujeres.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/wom-agencia-viajes-mujeres.jpg
 categories: 
   - historias-en-femenino
   - viajar-sola
@@ -14,7 +14,7 @@ propuestas que la agencia de viajes para mujeres WOM prepara para este verano. S
 directora, Ana Blasco, seguirá con su dinámica de llevar grupos reducidos y de huir del 
 turismo de masas. 
 
-![Ana Blasco, de WOM.](etheria-images/2020/05/agencia-viaje-mujeres-wom.jpg "Ana Blasco, de WOM. © Lydia Carbonell")
+![Ana Blasco, de WOM.](https://fotos.etheriamagazine.com/2020/05/agencia-viaje-mujeres-wom.jpg "Ana Blasco, de WOM. © Lydia Carbonell")
 
 En su sexto año de vida, la agencia de viajes para mujeres WOM se enfrenta al gran reto 
 de su trayectoria: continuar adelante con la misma ilusión a pesar de las dimensiones de 
@@ -33,7 +33,7 @@ turístico es el planeta. En la siguiente entrevista comparte con Etheria Magazi
 valoración sobre las consecuencias de esta situación para la agencia y su visión 
 personal sobre el turismo en tiempos de la COVID-19 
 
-![Grupo de viajeras de WOM.](etheria-images/2020/05/wom-agencia-viajes-mujeres.jpg "Grupo de viajeras de WOM.")
+![Grupo de viajeras de WOM.](https://fotos.etheriamagazine.com/2020/05/wom-agencia-viajes-mujeres.jpg "Grupo de viajeras de WOM.")
 
 ## Entrevista a Ana Blasco
 
@@ -59,7 +59,7 @@ un poco de luz al final del túnel, parece que empieza a haber movimiento y las 
 tienen ganas de retomar los planes, aunque sea por España. Así que nos vamos a animar a 
 ofrecer **viajes nacionales**, de momento, hasta ver cómo evoluciona la cosa. 
 
-![WOM organiza viajes en grupo para mujeres.](etheria-images/2020/05/agencia-mujeres-wom.jpg "WOM organiza viajes en grupo para mujeres.")
+![WOM organiza viajes en grupo para mujeres.](https://fotos.etheriamagazine.com/2020/05/agencia-mujeres-wom.jpg "WOM organiza viajes en grupo para mujeres.")
 
 ### 4\. ¿Son suficientes las ayudas estatales?
 
@@ -87,7 +87,7 @@ cierre de fronteras nos ha perjudicado muchísimo y lo hará durante todo este a
 hemos adaptado a la nueva realidad diseñando planes por España que, de momento, es lo 
 único claro que se ve a corto plazo. 
 
-![Costa Quebrada en Cantabria](etheria-images/2020/02/costa-quebrada-cantabria.jpg "Costa Quebrada (Cantabria). © Etheria Magazine")
+![Costa Quebrada en Cantabria](https://fotos.etheriamagazine.com/2020/02/costa-quebrada-cantabria.jpg "Costa Quebrada (Cantabria). © Etheria Magazine")
 
 ### 7\. ¿Qué destinos ofrecéis para este verano 2020?
 
@@ -106,7 +106,7 @@ esas fechas, pero quién sabe. A nosotras nos gustaría comenzar en ese momento 
 viajes internacionales y poder retomar la actividad con cierta normalidad, pero es 
 pronto para saber qué va a ocurrir. 
 
-![Mujeres que viajan en grupo con WOM.](etheria-images/2019/03/WOM-agencia-mujeres.jpg "Mujeres que viajan en grupo con WOM.")
+![Mujeres que viajan en grupo con WOM.](https://fotos.etheriamagazine.com/2019/03/WOM-agencia-mujeres.jpg "Mujeres que viajan en grupo con WOM.")
 
 ### 9\. ¿Alterará esta pandemia nuestro modo de viajar?
 

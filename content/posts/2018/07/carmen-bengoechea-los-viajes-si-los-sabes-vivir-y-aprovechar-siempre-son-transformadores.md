@@ -1,7 +1,7 @@
 ---
 title: "Carmen Bengoechea: \"Los viajes, si los sabes vivir y aprovechar, siempre son transformadores\""
 date: 2018-07-30
-coverImage: etheria-images/2018/07/Carmen-Bengoechea-Mujer-Etheria-2.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Carmen-Bengoechea-Mujer-Etheria-2.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -9,7 +9,7 @@ authors:
   - Pepa G. Marín
 ---
 
-![carmen bengoechea mujeres etheria viajeras](etheria-images/2018/07/Carmen-Bengoechea-Mujer-Etheria-1-1024x733.jpg)
+![carmen bengoechea mujeres etheria viajeras](https://fotos.etheriamagazine.com/2018/07/Carmen-Bengoechea-Mujer-Etheria-1-1024x733.jpg)
 
 ###### [Carmen Bengoechea](https://www.carmenbengoechea.com/) es asesora de empresas turísticas y una de las [Mujeres Etheria](https://etheriamagazine.com/category/mujeres-etheria/) que nos inspiran por su trayectoria profesional en el sector turístico, especialmente vinculado al mundo del vino en La Rioja.
 
@@ -29,7 +29,7 @@ En mi memoria siempre estará **el primer gran viaje que hice a Italia con mi ch
 
 **Los viajes, si los sabes vivir y aprovechar, siempre son transformadores**. Aunque sea en cualquier destino cercano o conocido. Esa capacidad transformadora para abrir la mente a nuevas experiencias es su mayor valor. Siempre y cuando uno esté dispuesto a enriquecer no solo su bagaje cultural, sino también el personal.
 
-![carmen bengoechea mujeres etherian viajes](etheria-images/2018/07/Carmen-Bengoechea-mujer-etheria-grecia-1024x653.jpg)
+![carmen bengoechea mujeres etherian viajes](https://fotos.etheriamagazine.com/2018/07/Carmen-Bengoechea-mujer-etheria-grecia-1024x653.jpg)
 
 ##### 4\. Si pudieses elegir un compañero de viaje (real o de ficción). ¿Quién sería y por qué?
 
@@ -47,7 +47,7 @@ Elegiría a dos: El explorador y capitán del Endurance, **Ernest Shackleton y s
 
 El último viaje fue a la **Bretaña francesa**. Había viajado con anterioridad pero quería volver a disfrutar de su naturaleza todavía salvaje en muchos puntos de la costa, la luz especial que tiene esa región atlántica, sus pequeños pueblos y la gastronomía. Si tengo que nombrar un aspecto no tan agradable es la masificación turística en algunas ciudades como Saint Malo o en la Costa de Granito Rosa, pero éste es un aspecto inevitable que afecta ya a muchos destinos.
 
-##### ![mujeres etheria grecia carmen bengoechea](etheria-images/2018/07/Carmen-Bengoechea-Mujer-Etheria-1014x1024.jpg)
+##### ![mujeres etheria grecia carmen bengoechea](https://fotos.etheriamagazine.com/2018/07/Carmen-Bengoechea-Mujer-Etheria-1014x1024.jpg)
 
 ##### 8\. ¿Qué tres viajes que hayas realizado recomendarías a cualquier mujer?
 
@@ -69,7 +69,7 @@ Por llevarme a sitios lejanos el avión, pero **el tren me parece el más “hum
 
 No podría nombrar solo uno. Pero si tuviese que hacerlo me quedaría con el de la **isla de Santorini**, que era pura simplicidad y linealidad. Solo el blanco de la casa, dos azules, el del mar y el del cielo y una planta en la terraza.
 
-![mujeres etheria santorini grecia viajes](etheria-images/2018/07/Carmen-Bengoechea-MujerEtheria-grecia-1024x727.jpg)
+![mujeres etheria santorini grecia viajes](https://fotos.etheriamagazine.com/2018/07/Carmen-Bengoechea-MujerEtheria-grecia-1024x727.jpg)
 
 > ##### 13\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 > 

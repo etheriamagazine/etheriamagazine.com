@@ -1,7 +1,7 @@
 ---
 title: "Mujeres artistas Suomi y Sami en Finlandia"
 date: 2019-07-01
-coverImage: etheria-images/2019/06/Mujeres-Finlandia-suomi-sami.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-suomi-sami.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -17,7 +17,7 @@ afama a Finlandia también tiene su protagonismo en el Ártico. Probablemente la
 magnificencia de su paisaje, los colores de sus cielos y los materiales que la 
 naturaleza ofrece sea una combinación excelente para la creación. 
 
-![Vestimenta azul y rojo de los Sami del Norte, a los que pertenerce Maija Magga-Hetta.](etheria-images/2019/06/Mujeres-Finlandia-vestido-sami.jpg "Vestimenta azul y rojo de los Sami del Norte, a los que pertenerce Maija Magga-Hetta. © Manena Munar")
+![Vestimenta azul y rojo de los Sami del Norte, a los que pertenerce Maija Magga-Hetta.](https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-vestido-sami.jpg "Vestimenta azul y rojo de los Sami del Norte, a los que pertenerce Maija Magga-Hetta. © Manena Munar")
 
 Durante estos días sin noche del verano del norte de Finlandia tuvimos la ocasión de 
 conocer a tres mujeres muy especiales. Les diferencia su forma de expresar el arte y les 
@@ -39,7 +39,7 @@ alegre e ilusión en la mirada, nos hizo los honores contándonos el propósito 
 Manor, que no es otro que dar cobijo a ceramistas, un lugar donde descansar y crear en 
 ese paraíso perdido. 
 
-![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](etheria-images/2019/06/Mujeres-Finlandia-Ceramica.jpg "Platos de cerámica diseñados por Anu Pentik. © MM")
+![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-Ceramica.jpg "Platos de cerámica diseñados por Anu Pentik. © MM")
 
 Al tiempo que hablaba, nos enseñaba una colección magnífica de platos de cerámica sobre 
 la mesa del jardín y piezas únicas adornando el interior de la casa, obra de los 
@@ -48,7 +48,7 @@ pájaros de Anu, acompañada por los cuadros de su nieta Iiris que, a pesar de e
 terminando la carrera de medicina, no abandona las dotes creativas heredadas de su 
 abuela. 
 
-![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](etheria-images/2019/06/Mujeres-Finlandia-pajaros.jpg "Anu Pentik en su estudio con sus pájaros de barro. © Manena Munar")
+![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-pajaros.jpg "Anu Pentik en su estudio con sus pájaros de barro. © Manena Munar")
 
 Nos trasladamos al **Centro de Cerámica del Ártico** con Anu y Suku Park, el ceramista 
 coreano que encontró en Laponia su lugar en el mundo y que se encarga con Anu del **AAC 
@@ -71,7 +71,7 @@ ni por qué, sus obras tuvieron más y más éxito, lo que le llevó a fundar en
 **Pentik LTD**, cadena internacional de diseño de interiores, con tiendas en toda 
 Finlandia y exportación en numerosos lugares del mundo. 
 
-![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](etheria-images/2019/06/Mujeres-Finlandia-tienda-Pentik.jpg "Diseño de Anu Pentik en su tienda de Posio. © MM")
+![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-tienda-Pentik.jpg "Diseño de Anu Pentik en su tienda de Posio. © MM")
 
 “No siempre ha sido fácil”, dice Anu. Durante los 45 años que lleva con la cerámica ha 
 tenido que superar muchos obstáculos y retos. Anu cree firmemente que si enfocas la vida 
@@ -83,7 +83,7 @@ años 80 y así progresivamente hasta hoy.
 "Si enfocas la vida con mente abierta y creativa, si sueñas con algo, no tienes más 
 remedio que ir a por ello". 
 
-![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](etheria-images/2019/06/Mujeres-Finlandia-jardin-Pentik.jpg "Jardín de la Casa-Estudio de Anu Pentik con obras de los artistas que se han alojado en ella. © MM")
+![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-jardin-Pentik.jpg "Jardín de la Casa-Estudio de Anu Pentik con obras de los artistas que se han alojado en ella. © MM")
 
 Cuenta con una compañía de 320 empleados y tiendas en lugares clave, entre ellos San 
 Petersburgo y Praga. Anu comenta cómo para ella su vida familiar es lo primero, y lo 
@@ -106,7 +106,7 @@ testifican su cotidianidad. Nos recibe vestida de azul y rojo, el traje tradicio
 los Sami del Norte a los que pertenece, aunque su marido es Sami Inari y por ello viste 
 de verde. 
 
-![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](etheria-images/2019/06/Mujeres-Finlandia-samis.jpg "Casa de Maija Magga-Hetta. © MM")
+![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-samis.jpg "Casa de Maija Magga-Hetta. © MM")
 
 > "Maija es una pequeña gran mujer de piel blanca, pelo oscuro, sonrisa comedida y unos 
 > ojos que miran con fuerza y determinación". 
@@ -120,7 +120,7 @@ nos cuenta Maija al terminar su canto, su vida se rige por las ocho estaciones d
 Laponia de las que depende el pastoreo de renos o la pesca, el _modus vivendi_ de los 
 sami que últimamente complementan con tiendas de artesanía como la de Maija. 
 
-![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](etheria-images/2019/06/Mujeres-Finlandia-suomi-sami.jpg "A las mujeres Suomi (finlandesas) y Sami (primeros pobladores del país) les une el amor por su tierra. © MM")
+![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-suomi-sami.jpg "A las mujeres Suomi (finlandesas) y Sami (primeros pobladores del país) les une el amor por su tierra. © MM")
 
 Los samis finlandeses han ido ganando con los años en derechos y participación en las 
 decisiones del país, a pesar de que todavía quedan problemas serios por resolver 
@@ -139,7 +139,7 @@ Koskinen. Muchas de estas piezas visten al detalle la imponente mesa en la que l
 Sillfors sirven gastronomía estrictamente finlandesa, entre cuyos productos prevalecen 
 los lapones. Tanto Pekka como Hanneli tienen el pelo completamente blanco. 
 
-![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](etheria-images/2019/06/Mujeres-Finlandia-cenas-Millfors.jpg "En las comidas gourmet del matrimonio Sillfors, con productos finlandeses, emplean piezas de los diseñadores a los que representan. © MM")
+![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-cenas-Millfors.jpg "En las comidas gourmet del matrimonio Sillfors, con productos finlandeses, emplean piezas de los diseñadores a los que representan. © MM")
 
 Hanneli es alta, buen tipo y posee un indudable magnetismo que se acentúa cuando habla 
 de su vida, de su casa y de Laponia, a la que ya considera su tierra. A pesar del color 
@@ -157,7 +157,7 @@ acompañada de la inmensidad que le rodea. Cuando sale por la mañana con su per
 pasear por el Inari helado y cubierto de nieve se ilumina con los rayos que irradia la 
 blancura, la más acogedora de las luces para el espíritu. 
 
-![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](etheria-images/2019/06/Mujeres-Finlandia-matrimonio-Sillfors.jpg "El matrimonio Sillfors en la cabaña de cristal a orillas del Lago Inari. © MM")
+![Mujeres que inspiran, viajes a Finlandia, personalidades femeninas](https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-matrimonio-Sillfors.jpg "El matrimonio Sillfors en la cabaña de cristal a orillas del Lago Inari. © MM")
 
 De espaldas a la galería se abre un universo de belleza y bienestar en el que prevalecen 
 los detalles de buen gusto y sencillez de los Sillfors por todo su paraíso particular. 

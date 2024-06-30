@@ -1,7 +1,7 @@
 ---
 title: "Guía de Sania Jelic para viajar a Botsuana"
 date: 2024-02-22
-coverImage: etheria-images/2024/02/sania-botsuana-mujeres.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/02/sania-botsuana-mujeres.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -17,7 +17,7 @@ delta del Okavango. En este artículo nos cuenta su experiencia y, sobre todo, n
 unos valiosos consejos en forma de guía para viajar a Botsuana sobre qué factores 
 debemos tener en cuenta antes de viajar a este maravilloso país africano. 
 
-![Mujeres en Botsuana.](etheria-images/2024/02/sania-botsuana-mujeres.jpg "Mujeres en Botsuana. © Sania Jelic.")
+![Mujeres en Botsuana.](https://fotos.etheriamagazine.com/2024/02/sania-botsuana-mujeres.jpg "Mujeres en Botsuana. © Sania Jelic.")
 
 Botsuana tiene muchas cualidades y ventajas si estás buscando un país para conocer la 
 fauna africana. La primera es la singularidad de sus parques naturales, que incluyen el 
@@ -63,7 +63,7 @@ demás animales, como elefantes, cebras, jirafas o antílopes se vean de pasada.
 motivo es muy importante acordar con el conductor/guía antes de la salida tus 
 preferencias para el safari. 
 
-![Elefantes en el Parque Nacional de Chobe.](etheria-images/2024/02/botsuana-sania-elefantes.jpg "Elefantes en el Parque Nacional de Chobe. © Sania Jelic.")
+![Elefantes en el Parque Nacional de Chobe.](https://fotos.etheriamagazine.com/2024/02/botsuana-sania-elefantes.jpg "Elefantes en el Parque Nacional de Chobe. © Sania Jelic.")
 
 ## Parques que hay que visitar en Botsuana
 
@@ -83,7 +83,7 @@ guías que organizan salidas para ver su variada fauna.
 
 **• Makgadigadi y el salar Nxai.** Zona conocida por los árboles baobab milenarios. 
 
-![Baobab en Botsuana.](etheria-images/2024/02/sania-botsuana-baobab.jpg "Baobab en Botsuana. © Sania Jelic.")
+![Baobab en Botsuana.](https://fotos.etheriamagazine.com/2024/02/sania-botsuana-baobab.jpg "Baobab en Botsuana. © Sania Jelic.")
 
 **• Central Kalahari.** Fue reconocido como zona protegida en 1961 y tiene 52.800 km2 
 (más grande que Países Bajos). Es la segunda reserva de fauna salvaje más grande del 
@@ -117,7 +117,7 @@ marido Guy Symons, lleva haciendo estos safaris desde hace treinta años.
 **• Tour por el sur de África**. Puede visitar varios países en el mismo viaje 
 incluyendo Botsuana con sus principales puntos de interés. 
 
-![Viaje en grupo a Botsuana.](etheria-images/2024/02/botsuana-sania-viaje-grupo.jpg "Viaje en grupo a Botsuana. © Sania Jelic.")
+![Viaje en grupo a Botsuana.](https://fotos.etheriamagazine.com/2024/02/botsuana-sania-viaje-grupo.jpg "Viaje en grupo a Botsuana. © Sania Jelic.")
 
 **• Visita del Parque Nacional de Chobe.** Si sólo se tienen unos días se puede optar 
 por visitar solamente el Parque Nacional de Chobe. Para ello hay que volar a Kasane 
@@ -149,7 +149,7 @@ sentirse mal porque, independientemente de lo que se deje de propina, nunca ser�
 suficiente comparado con sus necesidades ni con las propinas de los americanos. Y 
 cualquier aportación es válida siempre. 
 
-![Safari en mokoro en el delta del Okavango.](etheria-images/2024/02/botsuana-sania-delta-okavango.jpg "Safari en mokoro en el delta del Okavango. © Sania Jelic.")
+![Safari en mokoro en el delta del Okavango.](https://fotos.etheriamagazine.com/2024/02/botsuana-sania-delta-okavango.jpg "Safari en mokoro en el delta del Okavango. © Sania Jelic.")
 
 ## Para saber más de Botsuana
 

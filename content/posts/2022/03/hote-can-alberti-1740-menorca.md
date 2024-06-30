@@ -1,7 +1,7 @@
 ---
 title: "Can Albertí 1740, un hotel para vivir Menorca de una forma diferente"
 date: 2022-03-16
-coverImage: etheria-images/2022/03/Can-Alberti-azotea.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/03/Can-Alberti-azotea.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 Menorca se puede vivir de muchas maneras y una de ellas es poniendo el foco en los pequeños detalles que hacen de esta isla un lugar tan especial. Así que, si buscas algo más que las fabulosas calas y playas menorquinas, te recomendamos que te alojes en el pequeño y delicado hotel Can Albertí 1740. No te arrepentirás.
 
-![Tumbonas en la terraza del hotel Can Albertí 1740 con las casas de Mahón al fondo](etheria-images/2022/03/Can-Alberti-azotea.jpg "Tumbonas en la terraza del hotel Can Albertí 1740.")
+![Tumbonas en la terraza del hotel Can Albertí 1740 con las casas de Mahón al fondo](https://fotos.etheriamagazine.com/2022/03/Can-Alberti-azotea.jpg "Tumbonas en la terraza del hotel Can Albertí 1740.")
 
 Hay muchas formas de disfrutar de unas vacaciones en Menorca. Aquí te proponemos hacerlo 
 desde la capital, **Mahón**, en un pequeño hotel boutique con casi tres siglos de 
@@ -28,7 +28,7 @@ contraventanas oscuras. Los Albertí fueron una familia con historia en la isla,
 Vicente Albertí Vidal, un ilustrado del siglo XVIII que contribuyó a dinamizar la vida 
 cultural de la isla y elevó la lengua menorquina a la categoría de lengua literaria. 
 
-![Fachada del hotel con contraventanas oscuras](etheria-images/2022/03/can-alberti-fachada.jpg "Fachada del hotel.")
+![Fachada del hotel con contraventanas oscuras](https://fotos.etheriamagazine.com/2022/03/can-alberti-fachada.jpg "Fachada del hotel.")
 
 Ha sido restaurado recientemente manteniendo todo su encanto de edificio tradicional, 
 pero añadiendo todas las comodidades necesarias para hacer de él un hotel al que no le 
@@ -42,7 +42,7 @@ Pecoux**, se han mantenido fieles a este espíritu. Así, Can Albertí 1740 sigu
 espacio abierto al arte, que apoya exposiciones y galerías y colabora con la Fundación 
 Reynolds para organizar conciertos de música de cámara. 
 
-![Entrada del hotel Can Albertí 1740 con la escalera al fondo](etheria-images/2022/03/can-entrada-Alberti.jpg "Entrada del hotel Can Albertí 1740.")
+![Entrada del hotel Can Albertí 1740 con la escalera al fondo](https://fotos.etheriamagazine.com/2022/03/can-entrada-Alberti.jpg "Entrada del hotel Can Albertí 1740.")
 
 ## Las habitaciones
 
@@ -55,7 +55,7 @@ destacar dos aspectos que nos han llamado la atención especialmente nos quedamo
 altos techos con vigas vistas de madera y los preciosos suelos tradicionales de algunas 
 de sus habitaciones. 
 
-![Habitación Deluxe con patio.](etheria-images/2022/03/Can-alberti-deluxe-patio.jpg "Habitación Deluxe con patio.")
+![Habitación Deluxe con patio.](https://fotos.etheriamagazine.com/2022/03/Can-alberti-deluxe-patio.jpg "Habitación Deluxe con patio.")
 
 Todas cuentan con servicios para que no te falte de nada, desde wifi gratuito hasta el 
 aire acondicionado, el secador o los artículos de aseo bio. Y, sobre todo, unas camas 
@@ -69,7 +69,7 @@ degustarlo con calma en la maravillosa **terraza del hotel**, que cuenta con una
 increíbles. Aquí además tendrás unas hamacas disponibles para relajarte después de las 
 excursiones y disfrutar de la tranquilidad. 
 
-![Sala de masajes del hotel Can Albertí.](etheria-images/2022/03/Can-Alberti-Sala-masajes.jpg "Sala de masajes del hotel Can Albertí.")
+![Sala de masajes del hotel Can Albertí.](https://fotos.etheriamagazine.com/2022/03/Can-Alberti-Sala-masajes.jpg "Sala de masajes del hotel Can Albertí.")
 
 Buscar un rato para cuidarse debería ser obligatorio en cualquier viaje y en Can Albertí 
 1740 cuentan con una **sala de masaje ubicada en una bóveda de piedra de mármol** que no 

@@ -1,7 +1,7 @@
 ---
 title: "10 viajes de Semana Santa de última hora por el interior de España"
 date: 2022-03-28
-coverImage: etheria-images/2022/03/Semana-Santa-paisajes-del-valle-del-Bidasoa.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/03/Semana-Santa-paisajes-del-valle-del-Bidasoa.jpg
 categories: 
   - de-un-vistazo
   - planes-originales-para-mujeres
@@ -17,7 +17,7 @@ destinos más fáciles que otros, generalmente los menos masificados. Aquí te p
 bellos (y desconocidos) de la España interior, esa que tantas alegrías nos da en forma 
 de paisajes de infarto y momentos de relax que nos cargan las pilas para varias semanas. 
 
-![Personas caminando junto al refugio de Viados, en el valle de Chistau](etheria-images/2022/03/Semana-Santa-valle-chistau-Bordas-refugio-de-VIADOS.jpg "Senderismo en el valle de Chistau, un planazo en Semana Santa.")
+![Personas caminando junto al refugio de Viados, en el valle de Chistau](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-valle-chistau-Bordas-refugio-de-VIADOS.jpg "Senderismo en el valle de Chistau, un planazo en Semana Santa.")
 
 El interior de España está lleno de comarcas, valles y parques naturales perfectos para 
 una escapada en cualquier momento del año. Aquí te los damos como idea para esos viajes 
@@ -42,7 +42,7 @@ este ave y reintroducirlo en la zona.
 ? [Valle de Chistau, descubre las mejores rutas en el cielo 
 aragonés](https://etheriamagazine.com/2021/12/07/valle-de-chistau-huesca/). 
 
-![Ibón de Plan.](etheria-images/2022/03/Semana-Santa-valle-Chistau-Ibon-de-Plan.jpg "Ibón de Plan.")
+![Ibón de Plan.](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-valle-Chistau-Ibon-de-Plan.jpg "Ibón de Plan.")
 
 ### 2\. Ciudad Real
 
@@ -57,7 +57,7 @@ Calatrava. Seguro que querrás repetir.
 ? [8 razones por las que querrás conocer la provincia de Ciudad 
 Real](https://etheriamagazine.com/2020/11/10/mejores-rutas-en-ciudad-real/). 
 
-![Pasarela en Las Tablas de Daimiel.](etheria-images/2022/03/Semana-Santa-ciudad-real-Tablas-de-Daimiel.jpg "Amanecer en Las Tablas de Daimiel (Ciudad Real).")
+![Pasarela en Las Tablas de Daimiel.](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-ciudad-real-Tablas-de-Daimiel.jpg "Amanecer en Las Tablas de Daimiel (Ciudad Real).")
 
 ### 3\. Huelva interior
 
@@ -71,7 +71,7 @@ la **Serranía** para descubrir sus paisajes del agua. No sabrás cuál elegir.
 ? [Rincones y paisajes de Huelva que aún no 
 conoces.](https://etheriamagazine.com/2022/03/21/rincones-desconocidos-de-huelva-provincia/) 
 
-![Paisaje rojizo de Riotinto](etheria-images/2022/03/Semana-Santa-Viajar-a-Marte-Huelva.jpg "Viajar a Marte sin salir de Huelva. © Yolanda Cardo")
+![Paisaje rojizo de Riotinto](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-Viajar-a-Marte-Huelva.jpg "Viajar a Marte sin salir de Huelva. © Yolanda Cardo")
 
 ### 4\. Pirineo y las Tierras de Lleida
 
@@ -87,7 +87,7 @@ redondo.
 ? [Ruta en coche por el Pirineo y las Tierras de 
 Lleida](https://etheriamagazine.com/2022/02/07/ruta-en-coche-pirineo-tierras-lleida/). 
 
-![Iglesia románica San Climent en Taüll con el Pirineo al fondo](etheria-images/2022/03/Semana-Santa-Taull-iglesia-de-Sant-Climent.jpg "Iglesia de Sant Climent, en Taüll. © Pedro Grifol")
+![Iglesia románica San Climent en Taüll con el Pirineo al fondo](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-Taull-iglesia-de-Sant-Climent.jpg "Iglesia de Sant Climent, en Taüll. © Pedro Grifol")
 
 ### 5\. Valle de Valdeolea
 
@@ -101,7 +101,7 @@ castillos llenos de historia.
 ? [Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de 
 Cantabria](https://etheriamagazine.com/2021/06/04/que-ver-en-valle-de-valdeolea-cantabria/). 
 
-![Menhir en un campo de flores en el valle de Valdeolea](etheria-images/2022/03/Semana-Santa-cantabria-valdeolea-menhir.jpg "Menhir en el valle de Valdeolea.")
+![Menhir en un campo de flores en el valle de Valdeolea](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-cantabria-valdeolea-menhir.jpg "Menhir en el valle de Valdeolea.")
 
 ### 6\. Ruta del Quijote
 
@@ -115,7 +115,7 @@ un viaje perfecto para realizar con niños.
 ? [Ruta del Quijote, en familia por La 
 Mancha](https://etheriamagazine.com/2021/01/29/ruta-del-quijote-en-familia-por-la-mancha/). 
 
-![Molinos de Campo de Criptana.](etheria-images/2022/03/Semana-Santa-ruta-quijote-campo-criptana.jpg "Molinos de Campo de Criptana.")
+![Molinos de Campo de Criptana.](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-ruta-quijote-campo-criptana.jpg "Molinos de Campo de Criptana.")
 
 ### 7\. Valle del Tiétar
 
@@ -130,7 +130,7 @@ largos paseos sin ninguna prisa.
 ? [El valle del Tiétar, la Marbella 
 interior](https://etheriamagazine.com/2020/08/19/valle-tietar-sotillo-adrada-piedralaves/). 
 
-![Dos personas entrando al castillo de La Adrada](etheria-images/2022/03/Semana-Santa-castillo-adrada.jpg "Entrada del castillo de La Adrada. © Etheria Magazine")
+![Dos personas entrando al castillo de La Adrada](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-castillo-adrada.jpg "Entrada del castillo de La Adrada. © Etheria Magazine")
 
 ### 8\. Navarra
 
@@ -144,7 +144,7 @@ Iñaki Perurena, el valle de Leitzaran, el valle de Sakana o la localidad de Oli
 ? [Planes increíbles por los que querrás viajar a 
 Navarra](https://etheriamagazine.com/2021/12/23/planes-en-navarra-con-amigas/). 
 
-![paisaje de prados en el Valle de Bidasoa](etheria-images/2022/03/Semana-Santa-paisajes-del-valle-del-Bidasoa.jpg "Valle de Bidasoa. © Yolanda Cardo")
+![paisaje de prados en el Valle de Bidasoa](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-paisajes-del-valle-del-Bidasoa.jpg "Valle de Bidasoa. © Yolanda Cardo")
 
 Teruel merece ser recorrida en coche sin prisa, aprovechando los bonitos paisajes y 
 pueblos que dejan sus carreteras secundarias. Además de ver de cerca el conocido **arte 
@@ -160,7 +160,7 @@ secundarias](https://etheriamagazine.com/2021/10/12/ruta-en-coche-por-teruel/).
 
 ### 9\. Teruel
 
-![Parque Geológico de Aliaga](etheria-images/2022/03/Semana-Santa-Parque-Geologico-de-Aliaga-y-pueblo-de-Aliaga.jpg "Parque Geológico de Aliaga.")
+![Parque Geológico de Aliaga](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-Parque-Geologico-de-Aliaga-y-pueblo-de-Aliaga.jpg "Parque Geológico de Aliaga.")
 
 ### 10\. Sierra de las Nieves
 
@@ -175,7 +175,7 @@ una de las puestas de sol más bonitas que puedas imaginar.
 ? [Parque Nacional Sierra de las Nieves, una nueva estrella brilla en 
 Málaga](https://etheriamagazine.com/2021/06/26/revista-viajes-que-ver-parque-sierra-de-nieves/). 
 
-![Atardecer en la Sierra de las Nieves (Málaga).](etheria-images/2022/03/Semana-Santa-puesta-sol-sierra-nieves-900x600.jpg "Atardecer en la Sierra de las Nieves (Málaga).")
+![Atardecer en la Sierra de las Nieves (Málaga).](https://fotos.etheriamagazine.com/2022/03/Semana-Santa-puesta-sol-sierra-nieves-900x600.jpg "Atardecer en la Sierra de las Nieves (Málaga).")
 
 ✅ **Más viajes en Etheria Magazine** 
 

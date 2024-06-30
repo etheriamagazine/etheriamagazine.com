@@ -1,7 +1,7 @@
 ---
 title: "‘A la gala de la buena novia’, vestidos de boda desde el siglo XVIII"
 date: 2019-06-16
-coverImage: etheria-images/2019/06/gala-buena-novia-moron-almazan-vestido.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/gala-buena-novia-moron-almazan-vestido.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
@@ -14,11 +14,11 @@ Visita la exposición ‘A la gala de la buena novia’ para conocer la evoluci�
 vestidos de boda a partir del siglo XVIII. Situada en el Museo Provincial del Traje 
 Popular de Morón de Almazán, en Soria, estará disponible hasta diciembre de 2019. 
 
-![gala de la buena novia, soria, moron de almazan](etheria-images/2019/06/gala-buena-novia-moron-almazan-vestido.jpg "Exposición A la gala de la buena novia, en el Museo Provincial del Traje Popular de Morón de Almazán, en Soria.")
+![gala de la buena novia, soria, moron de almazan](https://fotos.etheriamagazine.com/2019/06/gala-buena-novia-moron-almazan-vestido.jpg "Exposición A la gala de la buena novia, en el Museo Provincial del Traje Popular de Morón de Almazán, en Soria.")
 
 Los vestidos de novia despiertan curiosidad y suscitan, desde siempre, halagos y críticas pero ¿te has parado a pensar cuál era la indumentaria nupcial en el siglo XIX? Lo interesante de esta exposición que os sugerimos es, por un lado, que se pueden ver en un solo lugar más de cincuenta vestidos de todo el mundo (Irlanda, México, Italia, Estados Unidos, etc.) y que algunos proceden de colecciones privadas a las que no se tiene un acceso tan sencillo. En segundo lugar, que dicha muestra tiene lugar en Morón de Almazán, una bonita población de Soria que cuenta con un **Museo del Traje Popular** –que probablemente no conocías– y que tiene un buen surtido de monumentos de interés. Entre ellos, el **palacio de los Hurtado de Mendoza**, que ha sido rehabilitado para acoger este espacio museístico.
 
-![gala de la buena novia, soria, moron de almazan](etheria-images/2019/06/gala-buena-novia-moron-almazan-doble.jpg "Exposición A la gala de la buena novia, en el Museo Provincial del Traje Popular de Morón de Almazán, en Soria.")
+![gala de la buena novia, soria, moron de almazan](https://fotos.etheriamagazine.com/2019/06/gala-buena-novia-moron-almazan-doble.jpg "Exposición A la gala de la buena novia, en el Museo Provincial del Traje Popular de Morón de Almazán, en Soria.")
 
 ## A la gala de la buena novia
 
@@ -30,11 +30,11 @@ El itinerario en la exposición comienza en 1840 con un vestido al estilo de la 
 
 Entre los modelos que más pueden llamar tu atención se encuentran un vestido italiano de una sola pieza sin costuras y los de color negro con cuya tonalidad se representaba el luto. Aunque, a veces, se rompían las convenciones vistiendo complementos de otro color como el velo blanco que llevaba Pastora Imperio en 1911. El vestido negro no le trajo mucha suerte porque el matrimonio no duró ni un año.
 
-\[caption id="attachment\_10567" align="aligncenter" width="619"\]![](etheria-images/2019/06/boda-pastora-imperio.jpg) Boda de Pastoria Imperio con el torero El Gallo. © ABC\[/caption\]
+\[caption id="attachment\_10567" align="aligncenter" width="619"\]![](https://fotos.etheriamagazine.com/2019/06/boda-pastora-imperio.jpg) Boda de Pastoria Imperio con el torero El Gallo. © ABC\[/caption\]
 
 La segunda parte de la exposición es sobre los distintos '**trajes de casar'** en España. Es un conjunto de 17 vestidos populares integrado por trajes de vistas de La Alberca, Lagartera y Navalcán; los dos conjuntos que usaban las novias toledanas en Consuegra (el traje de casar o de pájaro y el traje de llevadura); la “ruea” de Montehermoso; los trajes de la Mariña gallega, el valle de Ansó (Huesca), Valencia o la Ribera de Castilla y León. Estos modelos son auténticas joyas textiles de nuestra historia que incluyen elementos de la moda española desde el siglo XVI.
 
-\[caption id="attachment\_10558" align="aligncenter" width="900"\]![gala de la buena novia, soria, moron de almazan](etheria-images/2019/06/gala-buena-novia-moron-almazan.jpg "Morón de Almazán, un bonito pueblo de Soria.") A la izquierda, el palacio de los Hurtado de Mendoza en Morón de Almazán.\[/caption\]
+\[caption id="attachment\_10558" align="aligncenter" width="900"\]![gala de la buena novia, soria, moron de almazan](https://fotos.etheriamagazine.com/2019/06/gala-buena-novia-moron-almazan.jpg "Morón de Almazán, un bonito pueblo de Soria.") A la izquierda, el palacio de los Hurtado de Mendoza en Morón de Almazán.\[/caption\]
 
 > Uno de los vestidos estuvo expuesto en el Metropolitan Museum of Arts de Nueva York. 
 

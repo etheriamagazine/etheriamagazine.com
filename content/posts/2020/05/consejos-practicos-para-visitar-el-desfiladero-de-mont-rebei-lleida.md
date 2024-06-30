@@ -1,7 +1,7 @@
 ---
 title: "Consejos prácticos para visitar el desfiladero o congost de Mont-rebei (Lleida)"
 date: 2020-05-13
-coverImage: etheria-images/2020/05/mont-rebei-gr1.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/mont-rebei-gr1.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -15,7 +15,7 @@ en espectacularidad. Una de ellas es el desfiladero o congost de Mont-rebei, que
 frontera natural entre Cataluña y Aragón. Te contamos cómo es y qué opciones tienes para 
 recorrerlo. 
 
-![El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura.](etheria-images/2020/05/excursion-mont-rebei-caminata.jpg "El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura. © Pepa García")
+![El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura.](https://fotos.etheriamagazine.com/2020/05/excursion-mont-rebei-caminata.jpg "El sendero del desfiladero de Mont-rebei fue horadado en la roca como un camino de herradura. © Pepa García")
 
 Por sus colores, sus decenas de perspectivas insólitas, la subida de adrenalina que 
 genera recorrerlo y sus paisajes grandiosos, la visita del **Desfiladero de Mont-rebei** 
@@ -38,7 +38,7 @@ velar por las 600 hectáreas de la zona de Cataluña, que incluye el desfiladero
 orilla del río, donde viven nutrias; los acantilados, con sus aves rapaces; y una 
 vertiente del Montsec d’Ares con numerosos robles. 
 
-![Panorámica antes de llegar al cañón de Mont-rebei.](etheria-images/2020/05/congost-montrebei-inicio.jpg "Panorámica antes de llegar al cañón de Mont-rebei. © P.G.")
+![Panorámica antes de llegar al cañón de Mont-rebei.](https://fotos.etheriamagazine.com/2020/05/congost-montrebei-inicio.jpg "Panorámica antes de llegar al cañón de Mont-rebei. © P.G.")
 
 ## Dónde empezar el recorrido a pie de Mont-rebei
 
@@ -49,7 +49,7 @@ Con esto estarás preparada para comenzar la aventura. Procura llegar a primera 
 porque a media mañana o en días festivos puede haber tanta gente que pierda parte de su 
 magia. 
 
-![Sorprendente tonalidad del embalse de Canelles junto al desfiladero de Mont-rebei.](etheria-images/2020/05/excursion-mont-rebei-lleida.jpg "Sorprendente tonalidad del embalse de Canelles junto al desfiladero de Mont-rebei. © Pepa García")
+![Sorprendente tonalidad del embalse de Canelles junto al desfiladero de Mont-rebei.](https://fotos.etheriamagazine.com/2020/05/excursion-mont-rebei-lleida.jpg "Sorprendente tonalidad del embalse de Canelles junto al desfiladero de Mont-rebei. © Pepa García")
 
 > El sendero del congost o desfiladero de Mont-rebei, un camino de herradura horadado en 
 > un acantilado fluvial, es un tramo del GR-1 (Corçà – Pont de Muntanyana) 
@@ -60,7 +60,7 @@ es, sino que estas tierras fueron cubiertas de agua por decisión del hombre. La
 estampas que se crean con las plantas emergiendo del agua te tendrán entretenida un rato 
 haciendo fotos antes de continuar. 
 
-![Primer puente colgante del sendero del congost de Mont-rebei.](etheria-images/2020/05/excursion-mont-rebei-puente-colgante-900x582.jpg "Primer puente colgante del sendero del congost de Mont-rebei. © Pepa García")
+![Primer puente colgante del sendero del congost de Mont-rebei.](https://fotos.etheriamagazine.com/2020/05/excursion-mont-rebei-puente-colgante-900x582.jpg "Primer puente colgante del sendero del congost de Mont-rebei. © Pepa García")
 
 ### Un puente de vértigo
 
@@ -79,7 +79,7 @@ corras ningún peligro. En los tramos más peliagudos hay pasamanos. Aún así, 
 niños pequeños, mucho ojo, llévalos siempre de la mano y en el lado más alejado del 
 abismo. 
 
-![El sendero transcurre de forma paralela al río, que hace de frontera natural entre Aragón y Cataluña.](etheria-images/2020/05/congost-mont-rebei.jpg "El sendero transcurre de forma paralela al río, que hace de frontera natural entre Aragón y Cataluña. © P.G.")
+![El sendero transcurre de forma paralela al río, que hace de frontera natural entre Aragón y Cataluña.](https://fotos.etheriamagazine.com/2020/05/congost-mont-rebei.jpg "El sendero transcurre de forma paralela al río, que hace de frontera natural entre Aragón y Cataluña. © P.G.")
 
 ### Extensión por el desfiladero
 
@@ -90,7 +90,7 @@ Siegue**, desde donde se puede acceder a unas sorprendentes escaleras de madera 
 desafiando a la gravedad, llevan arriba del acantilado, muy cerca del **Albergue de 
 Montfalcó** (alberguemontfalco.com), ya en la parte de Huesca. 
 
-![Un paseo en kayak proporciona interesantes perspectivas de los acantilados.](etheria-images/2020/05/kayak-desfiladero-mont-rebei.jpg "Un paseo en kayak proporciona interesantes perspectivas de los acantilados. © P.G.")
+![Un paseo en kayak proporciona interesantes perspectivas de los acantilados.](https://fotos.etheriamagazine.com/2020/05/kayak-desfiladero-mont-rebei.jpg "Un paseo en kayak proporciona interesantes perspectivas de los acantilados. © P.G.")
 
 ## El congost de Mont-rebei en kayak
 
@@ -119,7 +119,7 @@ Kayak](https://www.civitatis.com/es/viacamp-y-litera/alquiler-kayak-mont-rebei/?
 (adultos: 25 € y niños de 3 a 13 años, 15 €) también desde la parte de Huesca. Échales 
 un vistazo por si te interesan, ofrecen todas las garantías y cancelación gratuita. 
 
-![Árboles y plantas emergen del pantano de Canelles.](etheria-images/2020/05/excursion-mont-rebei-kayak.jpg "Árboles y plantas emergen del pantano de Canelles. © Pepa García")
+![Árboles y plantas emergen del pantano de Canelles.](https://fotos.etheriamagazine.com/2020/05/excursion-mont-rebei-kayak.jpg "Árboles y plantas emergen del pantano de Canelles. © Pepa García")
 
 Os llamará también la atención la presencia de barcos turísticos pequeños o catamaranes 
 que recorren el desfiladero y que suponen una alternativa para aquellos con dificultades 
@@ -128,7 +128,7 @@ Aventura't](https://ageraventurat.com/page-paseo-en-catamaran-ager-desfiladero-m
 parte del embalse de Canelles en el muelle de Corçà. En el otro lado del cañón, no en La 
 Masieta donde has dejado el coche. 
 
-![Pequeñas embarcaciones eléctricas recorren el cañón de Mont-rebei.](etheria-images/2020/05/congost-mont-rebei-barco.jpg "Pequeñas embarcaciones eléctricas recorren el cañón de Mont-rebei. © Pepa García")
+![Pequeñas embarcaciones eléctricas recorren el cañón de Mont-rebei.](https://fotos.etheriamagazine.com/2020/05/congost-mont-rebei-barco.jpg "Pequeñas embarcaciones eléctricas recorren el cañón de Mont-rebei. © Pepa García")
 
 ## Congost de Mont-rebei | Consejos prácticos
 

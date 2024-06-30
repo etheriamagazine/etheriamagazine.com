@@ -1,7 +1,7 @@
 ---
 title: "Una maleta para... Laponia finlandesa"
 date: 2018-09-15
-coverImage: etheria-images/2018/09/laponia-finlandia-vestimenta.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/laponia-finlandia-vestimenta.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -13,7 +13,7 @@ authors:
 
 Un destino como la Laponia finlandesa implica hacer una maleta con elementos totalmente diferentes a los que usamos en España incluso en invierno. Aquí te contamos algunas prendas y utensilios que no puedes olvidar si estás organizando un viaje a la Laponia para este invierno.
 
-###### ![Laponia accesorios frío naturaleza](etheria-images/2018/05/Maleta-Laponia-1024x734.jpg "Imprescindibles para la maleta a Laponia")
+###### ![Laponia accesorios frío naturaleza](https://fotos.etheriamagazine.com/2018/05/Maleta-Laponia-1024x734.jpg "Imprescindibles para la maleta a Laponia")
 
 “En Laponia hace frío” decía la canción de apertura de _Noeli_, una exitosa serie de 
 dibujos de los ochenta, y, aunque la protagonista se reía del frío, a los que vivimos en 
@@ -28,11 +28,11 @@ medio de la nieve lejos de centros urbanos y comerciales, así que es fundamenta
 olvidarse algunos elementos. Toma nota de los siguientes consejos para acertar cuando 
 hagas tu maleta para viajar a Laponia. 
 
-![moto de nieve en Laponia](etheria-images/2018/09/maleta-laponia-moto-traje-termico.jpg "Asegúrate cuando contrates las excursiones que te facilitan un traje térmico para realizarlas.")
+![moto de nieve en Laponia](https://fotos.etheriamagazine.com/2018/09/maleta-laponia-moto-traje-termico.jpg "Asegúrate cuando contrates las excursiones que te facilitan un traje térmico para realizarlas.")
 
 ## 1\. Vistete por capas
 
-[![Ropa para nieve Laponia finlandesa](etheria-images/2018/05/pantalones-termicos-decathlon.jpg "Pantalón térmico de Decathlon.es")](https://www.decathlon.es/C-1164826-ropa-interior-y-termica)
+[![Ropa para nieve Laponia finlandesa](https://fotos.etheriamagazine.com/2018/05/pantalones-termicos-decathlon.jpg "Pantalón térmico de Decathlon.es")](https://www.decathlon.es/C-1164826-ropa-interior-y-termica)
 
 El secreto para hacer la maleta para un viaje a Laponia es saber que hay que **vestirse 
 con capas**, con este sistema se evita que el calor corporal se escape. Primero, una 
@@ -50,7 +50,7 @@ cuele entre el pantalón y la chaqueta.
 
 ## 2\. Mantén calientes pies y manos
 
-[![Ropa para frío Laponia](etheria-images/2018/05/manoplas-niños-amazon.jpg "Guantes de niño de Amazon.es")](https://www.amazon.es/Manoplas-Esqui/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AManoplas%20Esqui)
+[![Ropa para frío Laponia](https://fotos.etheriamagazine.com/2018/05/manoplas-niños-amazon.jpg "Guantes de niño de Amazon.es")](https://www.amazon.es/Manoplas-Esqui/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AManoplas%20Esqui)
 
 Es muy importante mantener los pies y las manos calientes para que la sensación térmica 
 general sea buena. Para los pies dos pares de **calcetines** y unas buenas **botas**. 
@@ -65,7 +65,7 @@ fríos enseguida. Lo mejor es llevar en la mochila calcetines y guantes de repue
 ellos. También es necesario llevar un **gorro de lana**, aunque muchas excursiones se 
 hacen con casco que facilitan las empresas locales. 
 
-![chica en la nieve en Ruka](etheria-images/2018/09/laponia-finlandia-vestimenta.jpg "A Laponia es fundamental llevar buena ropa de abrigo si vas a salir alguna noche por una ciudad. © Ilya Shishikhin")
+![chica en la nieve en Ruka](https://fotos.etheriamagazine.com/2018/09/laponia-finlandia-vestimenta.jpg "A Laponia es fundamental llevar buena ropa de abrigo si vas a salir alguna noche por una ciudad. © Ilya Shishikhin")
 
 ## 3\. Olvida vestir de etiqueta
 
@@ -77,7 +77,7 @@ dedicarás mucho tiempo a pasear así que con esto será suficiente. No olvides 
 países nórdicos, y más en invierno, es habitual vestir con estilo informal, así que 
 puedes dejar en casa los vestidos y las medias finas. 
 
-[![fotografía Laponia accesorios](etheria-images/2018/05/tripode-fotocasion.es_-1024x1024.jpg "Trípode de Fotocasion.es")](https://www.fotocasion.es/tripodes/010901/F/)
+[![fotografía Laponia accesorios](https://fotos.etheriamagazine.com/2018/05/tripode-fotocasion.es_-1024x1024.jpg "Trípode de Fotocasion.es")](https://www.fotocasion.es/tripodes/010901/F/)
 
 ## 4\. Sé previsor y guarda en la maleta...
 
@@ -96,7 +96,7 @@ Si viajas con niños a Laponia lleva **avituallamiento**: galletas, chocolate y 
 consideres necesario para aplacar el hambre cuando toca sopa de reno o de salmón, no a 
 todos les gusta. Y por las tardes en la cabaña resolverán las meriendas. 
 
-![Estofado de reno con puré de patatas](etheria-images/2018/09/maleta-laponia-comida.jpg "Estofado de reno con puré de patatas, una comida típica lapona.")
+![Estofado de reno con puré de patatas](https://fotos.etheriamagazine.com/2018/09/maleta-laponia-comida.jpg "Estofado de reno con puré de patatas, una comida típica lapona.")
 
 ### También te puede interesar:
 

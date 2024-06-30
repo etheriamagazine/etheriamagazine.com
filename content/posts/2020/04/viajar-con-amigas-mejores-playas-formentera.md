@@ -1,7 +1,7 @@
 ---
 title: "Zambúllete en la mejor guía de playas de Formentera"
 date: 2020-04-15
-coverImage: etheria-images/2020/04/playa-ses-illetes-formentera.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 La menor de las Islas Baleares se ha ganado la fama de ser el último paraíso del Mediterráneo y de poseer calas y playas vírgenes de aguas de un intenso color turquesa. Descubre si es verdad o no con nuestra guía de las mejores playas de Formentera, y elabora tu propio recorrido por la isla saltando de orilla en orilla.
 
-![playas formentera, viajes con amigas](etheria-images/2020/04/playas-Formentera-01-900x649.jpg "Formentera cuenta con playas idílicas. © O.T. Formentera")
+![playas formentera, viajes con amigas](https://fotos.etheriamagazine.com/2020/04/playas-Formentera-01-900x649.jpg "Formentera cuenta con playas idílicas. © O.T. Formentera")
 
 Los 69 kilómetros de litoral de esta pequeña isla balear de tan solo 83 km2 de 
 superficie alberga una de las orillas más fotografiadas del mundo y otros arenales de 
@@ -22,7 +22,7 @@ ellas. Estas visitas imprescindibles se pueden combinar perfectamente con otros 
 en la isla, como [ir de compras por las mejores tiendas y a los mercadillos de 
 Formentera](https://etheriamagazine.com/2018/07/06/de-compras-en-formentera/). 
 
-![playa ses illetes, formentera](etheria-images/2020/04/playa-ses-illetes-formentera-900x643.jpg "Playa Ses Illetes (Formentera). © O.T. Formentera")
+![playa ses illetes, formentera](https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera-900x643.jpg "Playa Ses Illetes (Formentera). © O.T. Formentera")
 
 ## Las mejores playas de Formentera
 
@@ -42,7 +42,7 @@ llévate un pícnic y olvídate de regresar al mundo hasta la caída de la tarde
 Cómo llegar**: en coche, moto, bicicleta y en autobús (todas las rutas del bus turístico 
 y línea regular nº 7). 
 
-![playa llevant, formentera](etheria-images/2020/04/formentera-playa-llevant-900x600.jpg "Visita la playa de Llevant en bicicleta (Formentera). © O.T. Formentera")
+![playa llevant, formentera](https://fotos.etheriamagazine.com/2020/04/formentera-playa-llevant-900x600.jpg "Visita la playa de Llevant en bicicleta (Formentera). © O.T. Formentera")
 
 ### Llevant: la otra cara de Illetes
 
@@ -73,7 +73,7 @@ consejo:** llévate un rico pícnic con frutas, gazpacho, ensalada, embutidos y 
 frías. ****?** Cómo llegar:** en coche, moto, a pie, bicicleta y en autobús (todas las 
 rutas del bus turístico y línea regular nº 7). 
 
-![cala saona, playas formentera](etheria-images/2020/04/formentera-playas-Cala-Saona-900x600.jpg "Cala Saona (Formentera). © O.T. Formentera")
+![cala saona, playas formentera](https://fotos.etheriamagazine.com/2020/04/formentera-playas-Cala-Saona-900x600.jpg "Cala Saona (Formentera). © O.T. Formentera")
 
 ### Cala Saona: la mejor playa de Formentera para ir con niños
 
@@ -89,7 +89,7 @@ Simonet](https://www.facebook.com/cansimonet.formentera/), en Sant Francesc Xavi
 ****?** Cómo llegar:** en vehículo privado y en autobús (todas las rutas del bus 
 turístico y línea regular nº 5). 
 
-![yoga formentera, guia playas formentera](etheria-images/2020/04/formentera-yoga-900x589.jpg "Formentera, un buen lugar para desconectar y practicar yoga. © O.T. Formentera")
+![yoga formentera, guia playas formentera](https://fotos.etheriamagazine.com/2020/04/formentera-yoga-900x589.jpg "Formentera, un buen lugar para desconectar y practicar yoga. © O.T. Formentera")
 
 ## Calas escondidas en Formentera
 
@@ -98,7 +98,7 @@ buscan rincones más íntimos donde extender la toalla y olvidarse del mundo. Co
 menos afluencia, todas ellas tienen en común que seguro que acaban colgadas en tu perfil 
 en Instagram. 
 
-![es calo des mort, playas formentera](etheria-images/2020/04/formentera-Es-Calo-des-Mort-900x613.jpg "Playa de Es Calo des Mort (Formentera). © O.T. Formentera")
+![es calo des mort, playas formentera](https://fotos.etheriamagazine.com/2020/04/formentera-Es-Calo-des-Mort-900x613.jpg "Playa de Es Calo des Mort (Formentera). © O.T. Formentera")
 
 #### Caló des Mort: un secreto no tan secreto
 
@@ -111,7 +111,7 @@ continuación de la playa des Migjorn, medio escondida en una zona rocosa.
 pícnic y bebida suficiente, así no tendrás que regresar al mundo antes de lo previsto. 
 ****?** Cómo llegar:** en vehículo privado. 
 
-![playas formentera, es calo de sant agusti](etheria-images/2020/04/playa-formentera-900x615.jpg "Es Caló de Sant Agustí (Formentera). © O.T. Formentera")
+![playas formentera, es calo de sant agusti](https://fotos.etheriamagazine.com/2020/04/playa-formentera-900x615.jpg "Es Caló de Sant Agustí (Formentera). © O.T. Formentera")
 
 #### Calitas de Es Caló de Sant Agustí: para los más solitarios
 
@@ -138,7 +138,7 @@ ausencia de comodidades. Se llega desde San Ferrán de Ses Roques.
 sin:** protección solar y sombrero, pues no podrás clavar la sombrilla. ****?** Cómo 
 llegar:** en vehículo privado. 
 
-![buceo, esnórquel, formentera](etheria-images/2020/04/buceo-formentera-900x602.jpg "El buceo y el esnórquel, dos actividades en las que iniciarse en Formentera. © O.T. Formentera")
+![buceo, esnórquel, formentera](https://fotos.etheriamagazine.com/2020/04/buceo-formentera-900x602.jpg "El buceo y el esnórquel, dos actividades en las que iniciarse en Formentera. © O.T. Formentera")
 
 #### Ses Canyes y Sa Roqueta: el secreto de la costa oriental
 
@@ -152,7 +152,7 @@ Pujols, a pocos minutos a pie, encontrarás una amplia oferta de restauración. 
 Cómo llegar:** Ses Canyes se encuentra a un corto paseo a pie desde Es Pujols y el 
 aparcamiento de Sa Roqueta. 
 
-![faro barbaria, playas formentera](etheria-images/2020/04/formentera-faro-barbaria-900x588.jpg "El faro de Barbaría se hizo famoso gracias a la película 'Lucía y el sexo'. © Amparo Arias")
+![faro barbaria, playas formentera](https://fotos.etheriamagazine.com/2020/04/formentera-faro-barbaria-900x588.jpg "El faro de Barbaría se hizo famoso gracias a la película 'Lucía y el sexo'. © Amparo Arias")
 
 ## Otras 2 playas m´as donde extender la toalla en Formentera
 
@@ -175,7 +175,7 @@ Restaurante Calabera, en la zona de Ca Marí; el chiringuito Es Còdol Foradat; 
 Bartolo, en la zona de es Copinar. ****?** Cómo llegar:** en vehículo privado y en la 
 línea regular nº L2 (Ca Marí y es Copinar). 
 
-![kayak, formentera](etheria-images/2020/04/Formentera-kayak-900x599.jpg "Con una piragua o un kayak podrás llegar a todos los recovecos del litoral de Formentera. © O.T. Formentera")
+![kayak, formentera](https://fotos.etheriamagazine.com/2020/04/Formentera-kayak-900x599.jpg "Con una piragua o un kayak podrás llegar a todos los recovecos del litoral de Formentera. © O.T. Formentera")
 
 #### Playa des Pujols: a pie desde toda la animación turística
 

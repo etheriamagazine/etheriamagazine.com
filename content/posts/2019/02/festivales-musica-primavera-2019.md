@@ -1,7 +1,7 @@
 ---
 title: "10 festivales de música para bailar la primavera"
 date: 2019-02-23
-coverImage: etheria-images/2019/02/Festivales-primavera-concierto.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg
 categories: 
   - organiza-tu-viaje
   - festivales
@@ -14,7 +14,7 @@ pedirte que lo desentumezcas después del frío invierno. Y para activarse, ¿pu
 algo mejor que bailar? Busca tus grupos favoritos y regálate un fin de semana 
 festivalero. 
 
-![viajes con amigas, festivales musica, rock](etheria-images/2019/02/Festivales-primavera-concierto.jpg "Festivales de Música Primavera 2019.")
+![viajes con amigas, festivales musica, rock](https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg "Festivales de Música Primavera 2019.")
 
 No hace falta que esperes al verano con su infinita programación de grandes **festivales 
 de música,** la primavera llega llena de propuestas sugerentes y apetecibles 
@@ -37,7 +37,7 @@ Cuándo: 12 y 13 de abril. Dónde: Circuito de Jerez-Ángel Nieto. Precio: Abono
 2 días 39 Euros y Abono VIP 2 días 55 Euros. Hay entradas con opción a la zona de 
 acampada y con alojamiento en hoteles cercanos. Más información: Primavera Trompetera. 
 
-![viaje con amigas, escapadas, viajes de fin de semana, musica](etheria-images/2019/02/Festivales-primavera-trompetera.jpg "Cartel del festival Primavera Trompetera que se celebra en Jerez.")
+![viaje con amigas, escapadas, viajes de fin de semana, musica](https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-trompetera.jpg "Cartel del festival Primavera Trompetera que se celebra en Jerez.")
 
 ## 2\. FIV Vilalba (Lugo)
 
@@ -50,7 +50,7 @@ kilometros) además de los conciertos del festival.
 Cuándo: 26 y 27 de abril. Dónde: Vilalba (Lugo). Precio: Abono de 2 días 35 Euros. Más 
 información: FIV Vilalba. 
 
-![viaje con amigas, escapadas, viajes de fin de semana, música](etheria-images/2019/02/FIV-VILALBA.jpg "FIV VIlalba.")
+![viaje con amigas, escapadas, viajes de fin de semana, música](https://fotos.etheriamagazine.com/2019/02/FIV-VILALBA.jpg "FIV VIlalba.")
 
 ## 3\. Mallorca Live Festival
 
@@ -62,7 +62,7 @@ primavera en la isla de Mallorca.
 Cuándo: 10 y 11 de mayo. Dónde: Antiguo Aquapark de Calvià (Mallorca). Precio: 75 Euros 
 (pase de 2 días). Pase VIP de 2 días 165 Euros. Más información: Mallorca Live Festival. 
 
-![Música, viajes con amigas, escapadas, viaje fin de semana, festivales musica 2019](etheria-images/2019/02/Festivales-vetusta-morla-Calvia-1024x512.jpg "Vetusta Morla, uno de los grupos más presentes en los festivales, estará también en el © Mallorca Live Festival de este año.")
+![Música, viajes con amigas, escapadas, viaje fin de semana, festivales musica 2019](https://fotos.etheriamagazine.com/2019/02/Festivales-vetusta-morla-Calvia-1024x512.jpg "Vetusta Morla, uno de los grupos más presentes en los festivales, estará también en el © Mallorca Live Festival de este año.")
 
 ## 4\. Interestelar Sevilla
 
@@ -77,7 +77,7 @@ Cuándo: 24 y 25 de mayo. Dónde: en los jardines del CAAC (Centro Andaluz de Ar
 Contemporáneo) en la Isla de la Cartuja (Sevilla). Precio: Abono de 2 días 50 Euros. Más 
 información: Interestelar Sevilla. 
 
-![viaje con amigas, escapadas, viajes de fin de semana, festivales musica 2019](etheria-images/2019/02/Festivales-cartel-interestelar-1024x525.jpg "El © Interestelar Sevilla se presenta este año con importantes figuras del panorama musical.")
+![viaje con amigas, escapadas, viajes de fin de semana, festivales musica 2019](https://fotos.etheriamagazine.com/2019/02/Festivales-cartel-interestelar-1024x525.jpg "El © Interestelar Sevilla se presenta este año con importantes figuras del panorama musical.")
 
 ## 5\. Warm up Estrella de Levante (Murcia)
 
@@ -89,7 +89,7 @@ primavera luce mejor que nunca.
 Cuándo: 3 y 4 de mayo. Dónde: Recinto de La FICA (Murcia). Precio: Abono general 53 
 Euros y Abono VIP 100 Euros. Más información: Warm up Estrella de Levante. 
 
-![viaje con amigas, escapadas, viajes de fin de semana, música](etheria-images/2019/02/Warm-up-estrella-levante.jpg "Escenario del Warm Up Estrella de Levante. © Warm Up Estrella de Levante.")
+![viaje con amigas, escapadas, viajes de fin de semana, música](https://fotos.etheriamagazine.com/2019/02/Warm-up-estrella-levante.jpg "Escenario del Warm Up Estrella de Levante. © Warm Up Estrella de Levante.")
 
 ## 6\. Spring Festival (Alicante)
 
@@ -103,7 +103,7 @@ Cuándo: 24 y 25 de mayo. Dónde: IFA (Institución Ferial Alicantina, Alicante)
 Abono de 2 días 30 Euros y Abono Premium de 2 días 59 Euros. Más información: Spring 
 Festival. 
 
-![viajes con amigas, escapadas, viajes de fin de semana, festivales musica 2019](etheria-images/2019/02/FANGORIA-NUEVA-CONFIRMACION_FBpost.png "Fangoria estará presente en el © Spring Festival de Alicante.")
+![viajes con amigas, escapadas, viajes de fin de semana, festivales musica 2019](https://fotos.etheriamagazine.com/2019/02/FANGORIA-NUEVA-CONFIRMACION_FBpost.png "Fangoria estará presente en el © Spring Festival de Alicante.")
 
 ## 7\. Bull Music Festival
 
@@ -116,7 +116,7 @@ por el centro.
 Cuándo: 31 de mayo y 1 de junio Dónde: en El Cortijo del Conde (Granada). Precio: Abono 
 general de 2 días 35 Euros. Más información: Bull Music Festival. 
 
-![festivales musica 2019, viajes con amigas, escapadas, viaje fin de semana](etheria-images/2019/02/Festivales-bull-music-rozalen.jpg "Uno de los festivales donde actuará Rozalen es el © Bull Music Festival de Granada.")
+![festivales musica 2019, viajes con amigas, escapadas, viaje fin de semana](https://fotos.etheriamagazine.com/2019/02/Festivales-bull-music-rozalen.jpg "Uno de los festivales donde actuará Rozalen es el © Bull Music Festival de Granada.")
 
 ## 8\. NOS Primavera Sound (Oporto).
 
@@ -129,7 +129,7 @@ Cuándo: 6 al 8 de junio. Dónde: Parque da Cidade (Oporto). Precio: 66 Euros po
 de 1 día y 117 por 3 días. Hay descuentos por compra anticipada. Más información en: NOS 
 Primavera Sound. 
 
-![viaje con amigas, escapadas, viajes de fin de semana, música](etheria-images/2019/02/Festival-Oporto.jpg "NOS Primavera Sound. © Hugo Lima.")
+![viaje con amigas, escapadas, viajes de fin de semana, música](https://fotos.etheriamagazine.com/2019/02/Festival-Oporto.jpg "NOS Primavera Sound. © Hugo Lima.")
 
 ## 9\. Palencia Sonora
 
@@ -143,7 +143,7 @@ los hoteles de la ciudad.
 Cuándo: 7 al 9 de junio. Dónde: Parque del Cotillo (Palencia). Precio: Abono por 35 
 Euros. Abono VIP, 60 Euros. Más información: Palencia Sonora. 
 
-![viaje con amigas, viaje de fin de semana, festivales musica 2019](etheria-images/2019/02/Palencia-sonora-Zahara.jpg "Zahara es una de las cabezas de cartel del © Palencia Sonora de 2019.")
+![viaje con amigas, viaje de fin de semana, festivales musica 2019](https://fotos.etheriamagazine.com/2019/02/Palencia-sonora-Zahara.jpg "Zahara es una de las cabezas de cartel del © Palencia Sonora de 2019.")
 
 ## 10\. Conexión Valladolid.
 

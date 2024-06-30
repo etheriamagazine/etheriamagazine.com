@@ -1,7 +1,7 @@
 ---
 title: "Sania Jelic en Patagonia (parte 2): Calafate y El Chalten"
 date: 2023-01-20
-coverImage: etheria-images/2023/01/Sania-el-chalten-senderismo.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/01/Sania-el-chalten-senderismo.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -13,7 +13,7 @@ partir de dos ciudades: Calafate, la puerta de entrada al famoso glaciar Perito 
 y El Chalten, considerada la capital del trekking de Argentina. ¡No te pierdas sus 
 consejos e impresiones de este paraíso de la naturaleza! 
 
-![Sania haciendo trekking en El Chalten](etheria-images/2023/01/Sania-el-chalten-senderismo.jpg "Sania haciendo senderismo en El Chalten con el monte Fitz Roy al fondo. © SJ")
+![Sania haciendo trekking en El Chalten](https://fotos.etheriamagazine.com/2023/01/Sania-el-chalten-senderismo.jpg "Sania haciendo senderismo en El Chalten con el monte Fitz Roy al fondo. © SJ")
 
 Naturaleza indómita, paisajes apabullantes y experiencias únicas. Sania se adentra en el 
 Parque Nacional de los Glaciares, en la frontera con Chile, para descubrir este rincón 
@@ -41,7 +41,7 @@ naturales en Argentina) es un glaciar estable. Esto significa que su crecida y
 movimiento anual coincide con la cantidad de hielo que se derrite. Hay mucha información 
 técnica interesante sobre los glaciares que se puede conseguir _on line_. 
 
-![Sania en las pasarelas del glaciar Perito Moreno.](etheria-images/2023/01/sania-perito-moreno.jpg "Sania en las pasarelas del glaciar Perito Moreno. © SJ")
+![Sania en las pasarelas del glaciar Perito Moreno.](https://fotos.etheriamagazine.com/2023/01/sania-perito-moreno.jpg "Sania en las pasarelas del glaciar Perito Moreno. © SJ")
 
 ##### ¿Mis impresiones?
 
@@ -80,7 +80,7 @@ cafetería, taquillas, tienda y traslado cada hora desde la ciudad. La visita y 
 guiado permiten entender las bases del mundo de los glaciares. Absolutamente 
 recomendable. 
 
-![Tiendas en Calafate.](etheria-images/2023/01/sania-calafate-tiendas.jpg "Tiendas en Calafate. © SJ")
+![Tiendas en Calafate.](https://fotos.etheriamagazine.com/2023/01/sania-calafate-tiendas.jpg "Tiendas en Calafate. © SJ")
 
 #### De paseo por Calafate
 
@@ -109,7 +109,7 @@ impresionante de montañas y es apto para todas las edades, ya que los trekking 
 andando desde el pueblo y no hace falta guía. Vi muchos viajeros individuales, tanto 
 hombres como mujeres, de todas las edades y procedencias. 
 
-![Monte Fitz Roy](etheria-images/2023/01/Sania-patagonia-fitz-roy.jpg "Ruta de senderismo por el Parque Nacional de los Glaciares. © SJ")
+![Monte Fitz Roy](https://fotos.etheriamagazine.com/2023/01/Sania-patagonia-fitz-roy.jpg "Ruta de senderismo por el Parque Nacional de los Glaciares. © SJ")
 
 El pueblo de Chalten está construido en el **Parque Nacional de los Glaciares**, en 
 Argentina. Hasta octubre de 2022 no conectaron con los satélites para tener datos de 
@@ -130,7 +130,7 @@ temperatura era de 7 ºC y en un momento el viento incluso empujó al caballo. Y
 agazapada y agarrada "como una garrapata" al lomo de Panchito, que manejó bien la 
 situación. 
 
-![Sania recorriendo a caballo el Parque Nacional de los Glaciares](etheria-images/2023/01/Sania-patagonia-cabalgata.jpg "Sania recorriendo a caballo el Parque Nacional de los Glaciares. © SJ")
+![Sania recorriendo a caballo el Parque Nacional de los Glaciares](https://fotos.etheriamagazine.com/2023/01/Sania-patagonia-cabalgata.jpg "Sania recorriendo a caballo el Parque Nacional de los Glaciares. © SJ")
 
 El viento gélido que aullaba en ese bosque al lado del cauce del río, la colonia de 
 caballos, los gauchos, las montañas, el Fitz Roy al fondo… ¡qué sensación! Y entonces 

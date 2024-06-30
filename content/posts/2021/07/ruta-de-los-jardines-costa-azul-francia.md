@@ -1,7 +1,7 @@
 ---
 title: "Ruta por los jardines y perfumes de la Costa Azul"
 date: 2021-07-07
-coverImage: etheria-images/2021/06/Costa-Azul-Expo-Rosas-Grasse.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Expo-Rosas-Grasse.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 Os proponemos una ruta llena de aromas y colores por los bellos jardines de la Costa Azul. Un recorrido perfecto para realizar en coche con amigas o en familia con el que descubriréis la antigua tradición perfumista de esta preciosa costa.
 
-![Rosas en Grasse](etheria-images/2021/06/Costa-Azul-Expo-Rosas-Grasse.jpg "Fiesta de la Rosa en Grasse. © Camille Moirenc")
+![Rosas en Grasse](https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Expo-Rosas-Grasse.jpg "Fiesta de la Rosa en Grasse. © Camille Moirenc")
 
 La Costa Azul, también llamada la Riviera Francesa, –encantadora, elegante y llena de 
 _chic_ francés– es la parte del litoral mediterráneo en el sureste galo que se prolonga 
@@ -29,7 +29,7 @@ jardines floridos. A principios del siglo XX, la Costa Azul se convirtió en el 
 invierno de la aristocracia europea, que construyó bonitas villas y parques, inaugurando 
 el turismo en la región. 
 
-![Saint Jean Cap Ferrat.](etheria-images/2021/06/Costa-Azul-Saint-Jean-Cap-Ferrat.jpg "Saint Jean Cap Ferrat. © Camille Moirenc")
+![Saint Jean Cap Ferrat.](https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Saint-Jean-Cap-Ferrat.jpg "Saint Jean Cap Ferrat. © Camille Moirenc")
 
 Actualmente existen **más de 60 jardines abiertos al público** en la Costa Azul: con 
 vistas al mar, exóticos, botánicos, histórico-medievales, de museos, y de flores (rosas, 
@@ -38,7 +38,7 @@ una tierra de fragancias con flores de todo tipo que crecen durante todo el año
 ha impulsado a la industria de los perfumes y a la cultura de la flor cortada 
 manualmente, siendo el mayor productor de ésta en Francia. 
 
-![Jardin Olbius Riquer en Hyeres.](etheria-images/2021/06/Costa-Azul-Jardin-Olbius-Riquer-Hyeres.jpg "Jardín Olbius Riquer en Hyeres. © Julien Mauceri")
+![Jardin Olbius Riquer en Hyeres.](https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Jardin-Olbius-Riquer-Hyeres.jpg "Jardín Olbius Riquer en Hyeres. © Julien Mauceri")
 
 ## Recorrido por los jardines más espectaculares de la Costa Azul
 
@@ -61,7 +61,7 @@ posee 4 hectáreas con 3.000 especies que incluyen una magnífica colección de 
 este lugar “es el jardín más bello que he visto en mi vida”. El jardín Thuret es sede 
 del Laboratorio de Investigación Científica Botánica. 
 
-![jardín en Cap de Antibes](etheria-images/2021/06/Costa-Azul-Jardin-Villa-Thuret-Cap-de-Antibes.jpg "Jardín Botánico de la Villa Thuret. © Camille Moirenc")
+![jardín en Cap de Antibes](https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Jardin-Villa-Thuret-Cap-de-Antibes.jpg "Jardín Botánico de la Villa Thuret. © Camille Moirenc")
 
 La siguiente etapa es **Niza**, la bellísima capital de la Costa Azul, cuya privilegiada 
 ubicación entre mar y montaña no puede pasarse por alto. Sede de la **Batalla de las 
@@ -87,7 +87,7 @@ cipreses, el jardín lapidario romántico, el jardín japonés, el jardín exót
 anglo-provenzal y una espléndida rosaleda completan este hermosísimo parque que no 
 debemos perdernos. 
 
-![Rosaleda del Jardín de Villa Ephrussi.](etheria-images/2021/06/Costa-azul-Villa-Ephrussi-rosaleda-.jpg "Rosaleda del Jardín de Villa Ephrussi.")
+![Rosaleda del Jardín de Villa Ephrussi.](https://fotos.etheriamagazine.com/2021/06/Costa-azul-Villa-Ephrussi-rosaleda-.jpg "Rosaleda del Jardín de Villa Ephrussi.")
 
 Continuando nuestro viaje en dirección a Menton, encontramos varias etapas interesantes. 
 En la localidad de **Eze** se encuentra uno de los mejores jardines exóticos de Francia. 
@@ -101,7 +101,7 @@ un microclima que favorece una variada flora semi-desértica de México y Áfric
 Suspendido en un acantilado, el panorama sobre la costa y el Mar Mediterráneo es 
 grandioso. En 2021 está cerrado por obras de mejora, pero volverá a abrir en 2022. 
 
-![Esculturas con limones en Menton](etheria-images/2021/06/Costa-Azul-Fiesta-limon-Menton.jpg "Fiesta del Limón en Menton. © Georges Veran")
+![Esculturas con limones en Menton](https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Fiesta-limon-Menton.jpg "Fiesta del Limón en Menton. © Georges Veran")
 
 ## Menton, capital de los jardines
 
@@ -125,7 +125,7 @@ Rameh. Hoy es la sede mediterránea del Museo de Historia Natural. Tiene hermosa
 al mar y a la ciudad antigua. Presenta 700 especies vegetales de América, Australia y 
 Asia y un ejemplar del _Sophora toromino_, el árbol mítico de la Isla de Pascua. 
 
-![Flor de loto](etheria-images/2021/06/Costa-Azul-Flor-lotus-Val-Rahmeh-Menton.jpg "Flor de loto en el Jardín de Val Rahmeh, en Menton.")
+![Flor de loto](https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Flor-lotus-Val-Rahmeh-Menton.jpg "Flor de loto en el Jardín de Val Rahmeh, en Menton.")
 
 El **Jardín del Palacio de Carnoles** promete un delicioso paseo entre flores de 
 naranjos, limoneros y jazmines. Antigua residencia de verano de los Príncipes de Mónaco, 
@@ -142,7 +142,7 @@ en el barrio de la Pequeña África, su vegetación proviene de Brasil y de Áfr
 Fue construido según los planos de Charles Garnier, célebre arquitecto de la Ópera 
 Garnier de París. 
 
-![jardines de la Costa Azul](etheria-images/2021/07/Costa-AzulJardin-de-Maria-Serena-Menton.jpg "Jardín de María Serena en Menton.")
+![jardines de la Costa Azul](https://fotos.etheriamagazine.com/2021/07/Costa-AzulJardin-de-Maria-Serena-Menton.jpg "Jardín de María Serena en Menton.")
 
 ## Rutas por los jardines más sobresalientes de la Riviera:
 
@@ -168,7 +168,7 @@ Los curtidores de la zona, conscientes del fuerte olor del cuero, tuvieron la id
 perfumarlo, cultivando rosas y jazmines que alimentaron los alambiques de los primeros 
 perfumistas. 
 
-![Jardines del MIP](etheria-images/2021/07/Costa-Azul-Jardin-de-MIP-Grasse-683x1024.jpg "Jardín del Museo Internacional de la Perfumería. © Camille Moirenc")
+![Jardines del MIP](https://fotos.etheriamagazine.com/2021/07/Costa-Azul-Jardin-de-MIP-Grasse-683x1024.jpg "Jardín del Museo Internacional de la Perfumería. © Camille Moirenc")
 
 Con la competencia de París en el XIX, los perfumistas de Grasse se especializan en la 
 materia prima, convirtiéndose en el primer productor mundial en flores para perfumes. En 
@@ -186,7 +186,7 @@ frascos. El MIP es también un museo “Kid's Friendly”, proponiendo actividad
 pedagógicas para niños. Y ofrece originales sesiones de “Yoga perfumado”, en las que 
 cada clase está asociada a un aceite esencial o perfume. 
 
-![Grasse.](etheria-images/2021/06/Costa-Azul-Grasse.jpg "Grasse.")
+![Grasse.](https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Grasse.jpg "Grasse.")
 
 En Grasse, también, se pueden visitar numerosas fábricas de Perfumes, algunas de gran 
 tradición, consideradas entre las mejores del mundo, donde, además de comprar fragancias 
@@ -204,7 +204,7 @@ producción, destinada a la perfumería, a los licores y a la confitería); **Go
 (con su perfumería La Source Parfumée); y el pueblo de **Vallauris**, cuya cooperativa 
 está especializada en el azahar. 
 
-![Gourdon en la Costa Azul](etheria-images/2021/07/Gourdon-CRT-Pierre-Behar.jpg "Gourdon. © Pierre Behar")
+![Gourdon en la Costa Azul](https://fotos.etheriamagazine.com/2021/07/Gourdon-CRT-Pierre-Behar.jpg "Gourdon. © Pierre Behar")
 
 ##### Ruta de la Mimosa
 
@@ -226,7 +226,7 @@ Pégomas y Mandelieu-La Napoule (recomendable visitar los bellos jardines del Ca
 la Napoule), sede de la **Fiesta de la Mimosa**, donde se utilizan 12 toneladas de esta 
 flor en decoraciones. La ruta finaliza en Grasse. 
 
-![Mujer con mimosas.](etheria-images/2021/06/Costa-Azul-Mimosas.jpg "Mimosas. © Camille Moirenc")
+![Mujer con mimosas.](https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Mimosas.jpg "Mimosas. © Camille Moirenc")
 
 ##### Agenda de las mejores fiestas de jardines y flores en la Costa Azul:
 

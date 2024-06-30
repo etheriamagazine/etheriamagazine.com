@@ -1,7 +1,7 @@
 ---
 title: "El Pabellón de los Hexágonos, la visita guiada en Madrid con plazas libres"
 date: 2024-03-25
-coverImage: etheria-images/2024/03/pabellon-hexagonos-madrid-portada.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-portada.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -18,7 +18,7 @@ donde suelen quedar plazas libres en las visitas guiadas del Ayuntamiento de Mad
 os lo penséis dos veces, el Pabellón de los Hexágonos, en plena Casa de Campo, también 
 merece la pena y os contamos por qué. 
 
-![Las grandes cristaleras del Pabellón de los Hexágonos permiten la entrada de luz natural.](etheria-images/2024/03/pabellon-hexagonos-madrid-portada-850x638.jpg "Las grandes cristaleras del Pabellón de los Hexágonos permiten la entrada de luz natural. © Pepa García")
+![Las grandes cristaleras del Pabellón de los Hexágonos permiten la entrada de luz natural.](https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-portada-850x638.jpg "Las grandes cristaleras del Pabellón de los Hexágonos permiten la entrada de luz natural. © Pepa García")
 
 Las visitas guiadas del Ayuntamiento de Madrid este 2024 no difieren mucho de las de 
 años anteriores, sobre todo en las pocas posibilidades de acceder a la mayoría de ellas 
@@ -53,7 +53,7 @@ arquitectos como Le Corbusier, que hizo el Pabellón Philips, o el Atomium prese
 Jean Polak. Una vez finalizada la Exposición Universal de Bruselas, el Pabellón de los 
 Hexágonos se desmonta y se traslada a Madrid. 
 
-![Exterior del Pabellón de los Hexágonos de Madrid.](etheria-images/2024/03/Pabellon-hexagonos-casa-campo-850x749.jpg "Exterior del Pabellón de los Hexágonos en la Casa de Campo de Madrid. © Pepa García")
+![Exterior del Pabellón de los Hexágonos de Madrid.](https://fotos.etheriamagazine.com/2024/03/Pabellon-hexagonos-casa-campo-850x749.jpg "Exterior del Pabellón de los Hexágonos en la Casa de Campo de Madrid. © Pepa García")
 
 ## Nueva vida en Madrid
 
@@ -73,7 +73,7 @@ equipo de arquitectos decide presentar un proyecto en 2018 para la restauración
 parte del pabellón con el mismo tipo de materiales que emplearon en su origen. Hoy día, 
 esa es la zona visitable. 
 
-![Interior del Pabellón de los Hexágonos.](etheria-images/2024/03/pabellon-hexagonos-madrid-1-850x638.jpg "Interior del Pabellón de los Hexágonos. © Pepa García")
+![Interior del Pabellón de los Hexágonos.](https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-1-850x638.jpg "Interior del Pabellón de los Hexágonos. © Pepa García")
 
 ## Cómo es el Pabellón de los Hexágonos
 
@@ -87,7 +87,7 @@ que extendido a la totalidad del recinto formará el pabellón”. En las visita
 del Ayuntamiento de Madrid, no sólo comparten información sobre el contexto histórico 
 sino también los detalles arquitectónicos más interesantes. 
 
-![Estilizadas columnas de hierro galvanizado sostienen los hexágoos.](etheria-images/2024/03/pabellon-hexagonos-madrid-10.jpg "Estilizadas columnas de hierro galvanizado sostienen los hexágoos. © Pepa García")
+![Estilizadas columnas de hierro galvanizado sostienen los hexágoos.](https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-10.jpg "Estilizadas columnas de hierro galvanizado sostienen los hexágoos. © Pepa García")
 
 Como su propio nombre indica, en el Pabellón de los Hexágonos esta figura geométrica es 
 la protagonista. La cubierta está compuesta de hexágonos de tres metros de lado que se 
@@ -98,7 +98,7 @@ elementos neomudéjares y el empleo de bastidores de aluminio. La iluminación d
 día es totalmente natural, la luz penetra por las grandes cristaleras, pero por la noche 
 las lámparas fluorescentes apuntan a la cubierta creando unas formas muy interesantes. 
 
-![Las visitas guiadas son muy aconsejables en este pabellón.](etheria-images/2024/03/pabellon-hexagonos-madrid-4-850x638.jpg "Desde las cristaleras se puede ver también la parte que queda por restaurar. © Pepa García")
+![Las visitas guiadas son muy aconsejables en este pabellón.](https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-4-850x638.jpg "Desde las cristaleras se puede ver también la parte que queda por restaurar. © Pepa García")
 
 ## Algunas curiosidades y anécdotas
 
@@ -118,7 +118,7 @@ del Pabellón de los Hexágonos, es comparar la distribución y los elementos de
 original y del que se construyó en Madrid. Si buceáis en Internet encontraréis material 
 interesante. 
 
-![Interior del Pabellón de los Hexágonos.](etheria-images/2024/03/pabellon-hexagonos-madrid-2-850x638.jpg "Interior del Pabellón de los Hexágonos de Madrid. © Pepa García")
+![Interior del Pabellón de los Hexágonos.](https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-2-850x638.jpg "Interior del Pabellón de los Hexágonos de Madrid. © Pepa García")
 
 ## Datos prácticos
 
@@ -136,7 +136,7 @@ La visita es gratuita pero se debe reservar en la [web del Ayuntamiento de
 Madrid](https://www.reservaspatrimonio.es/292-visita-guiada-el-pabellon-de-los-hexagonos). 
 Os pedirán DNI al llegar para comprobar que estáis en la lista. 
 
-![Los juegos geométricos atrapan en el pabellón.](etheria-images/2024/03/pabellon-hexagonos-madrid-7-850x638.jpg "Los juegos geométricos atrapan en el pabellón. © Pepa García")
+![Los juegos geométricos atrapan en el pabellón.](https://fotos.etheriamagazine.com/2024/03/pabellon-hexagonos-madrid-7-850x638.jpg "Los juegos geométricos atrapan en el pabellón. © Pepa García")
 
 **También os puede interesar...** 
 

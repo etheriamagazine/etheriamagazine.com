@@ -1,7 +1,7 @@
 ---
 title: "El Prado en femenino, un nuevo itinerario que no puedes perderte"
 date: 2022-12-29
-coverImage: etheria-images/2022/12/isabel-clara-eugenia.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/isabel-clara-eugenia.jpg
 categories: 
   - exposiciones
 authors: 
@@ -13,7 +13,7 @@ simposio “Protagonistas femeninas” que tuvo lugar en marzo de 2022 y que con
 2023 bajo el nombre “Protagonistas femeninas en la formación de las colecciones del 
 Museo del Prado II. De Isabel de Borbón a Mariana de Neoburgo”. 
 
-![Infanta Isabel Clara Eugenia, pintada por Pedro Pablo Rubens and Jan Brueghel el Viejo. © Museo Nacional del Prado.](etheria-images/2022/12/isabel-clara-eugenia.jpg "Infanta Isabel Clara Eugenia, pintada por Pedro Pablo Rubens y Jan Brueghel el Viejo. © Museo Nacional del Prado.")
+![Infanta Isabel Clara Eugenia, pintada por Pedro Pablo Rubens and Jan Brueghel el Viejo. © Museo Nacional del Prado.](https://fotos.etheriamagazine.com/2022/12/isabel-clara-eugenia.jpg "Infanta Isabel Clara Eugenia, pintada por Pedro Pablo Rubens y Jan Brueghel el Viejo. © Museo Nacional del Prado.")
 
 Los itinerarios del Museo Nacional del Prado se conciben como una manera de acercarse a 
 las colecciones de esta pinacoteca madrileña de una manera diferente apoyándose para su 
@@ -26,7 +26,7 @@ seleccionar **32 obras** a través de las cuales se destaca el papel de aquellas
 que **promocionaron, coleccionaron e inspiraron** algunas de las obras de arte más 
 emblemáticas de El Prado. 
 
-![La reina Isabel de Valois pintada por Juan Pantoja de la Cruz](etheria-images/2022/12/isabel-valois-708x1024.jpg "La reina Isabel de Valois pintada por Juan Pantoja de la Cruz (según modelo de Sofonisba Anguissola). © Museo del Prado")
+![La reina Isabel de Valois pintada por Juan Pantoja de la Cruz](https://fotos.etheriamagazine.com/2022/12/isabel-valois-708x1024.jpg "La reina Isabel de Valois pintada por Juan Pantoja de la Cruz (según modelo de Sofonisba Anguissola). © Museo del Prado")
 
 ## Por qué es interesante el itinerario
 
@@ -51,7 +51,7 @@ Además, se ha aprovechado la ocasión para modificar los títulos y textos expl
 algunas de las cartelas que acompañan a la obra para presentar un relato más acorde con 
 estos tiempos **suprimiendo elementos descriptivos como el de “esposa de”**. 
 
-![Retrato de Isabel I de Castilla Anónimo neerlandés](etheria-images/2022/12/isabel-i-castilla.jpg "Isabel I de Castilla. Autor: anónimo neerlandés. © Museo Nacional del Prado.")
+![Retrato de Isabel I de Castilla Anónimo neerlandés](https://fotos.etheriamagazine.com/2022/12/isabel-i-castilla.jpg "Isabel I de Castilla. Autor: anónimo neerlandés. © Museo Nacional del Prado.")
 
 ## Sección 1. Promotoras artísticas en el Museo del Prado
 
@@ -69,7 +69,7 @@ usos y funciones asignados a estas obras al dirigir la atención a las cuestione
 devocionales, afectivas, de ambición política o gloria personal que subyacen bajo el 
 patronazgo que las impulsó. 
 
-![La reina Ana de Austria Bartolomé González (copia de un original de Antonio Moro).](etheria-images/2022/12/ana-de-austria.jpg "La reina Ana de Austria Bartolomé González (copia de un original de Antonio Moro). © Museo Nacional del Prado.")
+![La reina Ana de Austria Bartolomé González (copia de un original de Antonio Moro).](https://fotos.etheriamagazine.com/2022/12/ana-de-austria.jpg "La reina Ana de Austria Bartolomé González (copia de un original de Antonio Moro). © Museo Nacional del Prado.")
 
 ## 2ª y 3ª sección: María de Hungría e Isabel Clara Eugenia
 

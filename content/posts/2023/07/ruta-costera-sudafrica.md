@@ -1,7 +1,7 @@
 ---
 title: "El desierto costero de Sudáfrica florece en verano"
 date: 2023-07-12
-coverImage: etheria-images/2023/07/desierto-sudafrica-flores-Proteas.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/07/desierto-sudafrica-flores-Proteas.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ en agosto, y es cuando el desierto costero de Sudáfrica se convierte en el dest
 popular del continente. Hasta el mes de octubre, vive una colorida transformación que 
 merece la pena disfrutarla en directo. 
 
-![Flores en la bahía de Eland, en la cosa oeste de Sudáfrica.](etheria-images/2023/07/desierto-sudafrica-flores-silvestres.jpg "Flores en la bahía de Eland, en la costa oeste de Sudáfrica.")
+![Flores en la bahía de Eland, en la cosa oeste de Sudáfrica.](https://fotos.etheriamagazine.com/2023/07/desierto-sudafrica-flores-silvestres.jpg "Flores en la bahía de Eland, en la costa oeste de Sudáfrica.")
 
 Gracias al milagro de las lluvias invernales, el desierto de Sudáfrica se cubre cada año 
 de un vibrante manto de flores. Te invitamos a subir a esta alfombra del arcoíris 
@@ -44,7 +44,7 @@ esa época cuando la belleza natural sin artificios del desierto, normalmente re
 transforma en una fiesta convirtiendo la costa noroeste de Sudáfrica en uno de los 
 lugares más hermosos del litoral africano. 
 
-![Flores silvestres en la bahía de Wildflowers, costa oeste de Sudáfrica.](etheria-images/2023/07/desierto-sudafrica-flores.jpg "Flores silvestres en la bahía de Wildflowers, costa noroeste de Sudáfrica.")
+![Flores silvestres en la bahía de Wildflowers, costa oeste de Sudáfrica.](https://fotos.etheriamagazine.com/2023/07/desierto-sudafrica-flores.jpg "Flores silvestres en la bahía de Wildflowers, costa noroeste de Sudáfrica.")
 
 ## Playas de Lambert’s Bay
 
@@ -62,7 +62,7 @@ pesquero. El “diamante de la costa oeste”, como se conoce a la localidad, es
 irresistible, ya sea relajándose al sol en sus hermosas playas , practicando deportes 
 acuáticos o simplemente admirando la grandeza del océano. 
 
-![Playa del pueblo de Paternoster, en la costa oeste de Sudáfrica.](etheria-images/2023/07/Lamberts-Bay-sudafrica.jpg "Pueblo de Paternoster, en la costa oeste de Sudáfrica.")
+![Playa del pueblo de Paternoster, en la costa oeste de Sudáfrica.](https://fotos.etheriamagazine.com/2023/07/Lamberts-Bay-sudafrica.jpg "Pueblo de Paternoster, en la costa oeste de Sudáfrica.")
 
 ## The Dunes
 
@@ -72,7 +72,7 @@ litoral. Su tonalidad dorada lo indica y las curvas de sus enormes dunas son un 
 en el que deleitarse admirando el panorama de arena o practicando deportes de aventura 
 sobre sus enormes laderas. 
 
-![Desierto The Dunes.](etheria-images/2023/07/The-Dunes-Lamberts-Bay.jpg "Desierto The Dunes.")
+![Desierto The Dunes.](https://fotos.etheriamagazine.com/2023/07/The-Dunes-Lamberts-Bay.jpg "Desierto The Dunes.")
 
 ## Isla de Bird
 
@@ -84,7 +84,7 @@ anida en sus tres hectáreas de superficie. Disfruta con sus danzas de apareamie
 la observación desde el mirador que se abre a su entorno natural porque es **una 
 experiencia única** para los amantes de la vida silvestre. 
 
-![Aves en lsla de Bird, en Sudáfrica](etheria-images/2023/07/bird-island-sudafrica.jpg "Isla de Bird.")
+![Aves en lsla de Bird, en Sudáfrica](https://fotos.etheriamagazine.com/2023/07/bird-island-sudafrica.jpg "Isla de Bird.")
 
 ## Montañas Cederberg
 
@@ -99,7 +99,7 @@ una manera fascinante. Estas pinturas rupestres representan escenas de caza, dan
 animales y actividades cotidianas, y son un testimonio importante de la historia y la 
 cultura de Sudáfrica. 
 
-![Pinturas rupestres en las montañas Cederberg, en el desierto de Sudáfrica.](etheria-images/2023/07/pinturas-rupestres-costa-sudafrica.jpg "Pinturas rupestres en las montañas Cederberg, en el desierto de Sudáfrica.")
+![Pinturas rupestres en las montañas Cederberg, en el desierto de Sudáfrica.](https://fotos.etheriamagazine.com/2023/07/pinturas-rupestres-costa-sudafrica.jpg "Pinturas rupestres en las montañas Cederberg, en el desierto de Sudáfrica.")
 
 ## Ciudad de Clanwilliam
 
@@ -117,7 +117,7 @@ probar las deliciosas recetas de repostería y bebidas que se elaboran en la rut
 una parada en una granja ecológica como la de **Skimmelberg** situada junto a la reserva 
 natural con la misma denominación. 
 
-![Paisaje con formas elevadas de arenisca en lasMontañas Cederberg](etheria-images/2023/07/montanas-Cederberg-sudafrica.jpg "Montañas Cederberg, en Clanwilliam.")
+![Paisaje con formas elevadas de arenisca en lasMontañas Cederberg](https://fotos.etheriamagazine.com/2023/07/montanas-Cederberg-sudafrica.jpg "Montañas Cederberg, en Clanwilliam.")
 
 ## Protea, una flor fascinante
 
@@ -133,7 +133,7 @@ y para producción de flor cortada de arreglos florales por su belleza y gran lo
 Los **meses de agosto y septiembre** son el mejor momento para verlas en plena 
 floración. 
 
-![Flor protea de color naranja en el desierto de Sudáfrica](etheria-images/2023/07/desierto-sudafrica-flores-Proteas.jpg "Las proteas pueden presentar colores muy variados.")
+![Flor protea de color naranja en el desierto de Sudáfrica](https://fotos.etheriamagazine.com/2023/07/desierto-sudafrica-flores-Proteas.jpg "Las proteas pueden presentar colores muy variados.")
 
 ## Strandfontein, entre vinos y langosta
 
@@ -146,7 +146,7 @@ moderadas y abundantes días soleados, maduran uvas que dan vinos sudafricanos d
 renombre internacional. Hay muchos viñedos abiertos al público en las laderas que 
 invitan a recorrer la propiedad y a catar sus vinos del sur. 
 
-![Flores en Clanwillian, en el desierto de Sudáfrica.](etheria-images/2023/07/flores-desierto-sudafrica.jpg "Flores en Clanwillian, en el desierto de Sudáfrica.")
+![Flores en Clanwillian, en el desierto de Sudáfrica.](https://fotos.etheriamagazine.com/2023/07/flores-desierto-sudafrica.jpg "Flores en Clanwillian, en el desierto de Sudáfrica.")
 
 ## Parque Nacional West Coast
 

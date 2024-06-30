@@ -1,7 +1,7 @@
 ---
 title: "Ruta del vino en Mallorca: descubre la D.O. Binissalem"
 date: 2018-07-26
-coverImage: etheria-images/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-e1553175846903.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-e1553175846903.jpg
 categories: 
   - viajes-romanticos
   - viajes-gastronomicos
@@ -14,7 +14,7 @@ Cualquier momento es bueno para darte el gusto de viajar a Mallorca y, si es con
 excusa de acercarte a sus vinos, no hay más que añadir. Una manera diferente de recorrer 
 esta isla que te va a cautivar y que es perfecta para disfrutar en un viaje con amigas. 
 
-![Brindis con vinos de Mallorca](etheria-images/2018/07/amigas-vino-Enoturismo-Binissalem-Mallorca-Torres-1024x687.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
+![Brindis con vinos de Mallorca](https://fotos.etheriamagazine.com/2018/07/amigas-vino-Enoturismo-Binissalem-Mallorca-Torres-1024x687.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
 
 Es la Mallorca menos turística, la otra isla, la que surge más allá de sus calas de 
 aguas cristalinas. Es la **Mallorca de la Tramuntana** interior, del lado serrano, con 
@@ -33,7 +33,7 @@ punta de lanza del movimiento balear y que, por si esto fuera poco, también cue
 varias catalogaciones de Vino de La Tierra: **VT Mallorca** y **VT Serra da 
 Tramuntana-Costa Nod**. 
 
-![Paisaje de la Ruta del vino de Binissalem](etheria-images/2018/07/pueblo-Enoturismo-Binissalem-Mallorca-Torres-1024x683.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
+![Paisaje de la Ruta del vino de Binissalem](https://fotos.etheriamagazine.com/2018/07/pueblo-Enoturismo-Binissalem-Mallorca-Torres-1024x683.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
 
 ## Uvas de toda la vida
 
@@ -46,7 +46,7 @@ interesantes como la **callet**, la **manto negro** o la **gorgollasa** en tinta
 encontraréis vinos elaborados con las más conocidas y reconocidas uvas internacionales 
 (cabernet sauvignon, syrah, chardonnay) que, personalmente, me interesan un poco menos. 
 
-![Maridaje de vino rosado y frutos rojos](etheria-images/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-855x1024.jpg "Ruta del vino de Binissalem. © CRDO Binissalem (Mallorca).")
+![Maridaje de vino rosado y frutos rojos](https://fotos.etheriamagazine.com/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-855x1024.jpg "Ruta del vino de Binissalem. © CRDO Binissalem (Mallorca).")
 
 Os van a sorprender porque, a pesar de ser unos vinos profundamente mediterráneos, son 
 sorprendentemente frescos, gracias a los aires de la Tramuntana, que los hace menos 
@@ -70,7 +70,7 @@ interesante, pero mucho más larga, es ir hasta **Selva** andando (hay un bus po
 queréis hacer solo la ida), un pueblo que merece la pena, con su imponente Iglesia de 
 San Lorenzo o su cruz barroca de Valelli. 
 
-![Ruta entre los viñedos de Mallorca](etheria-images/2018/07/Enoturismo-Binissalem-Mallorca-caminata-1024x614.jpg "© CRDO Binissalem (Mallorca).")
+![Ruta entre los viñedos de Mallorca](https://fotos.etheriamagazine.com/2018/07/Enoturismo-Binissalem-Mallorca-caminata-1024x614.jpg "© CRDO Binissalem (Mallorca).")
 
 ### 2\. Tianna Negre
 
@@ -82,7 +82,7 @@ rosado de **El Columpio** o el tinto de **Ses Nines** para introduciros en los v
 mallorquines. Tienen unas etiquetas preciosas y los vinos están muy bien. También hacen 
 aceite. Más información en www.tiannanegre.com 
 
-![Cata de vinos en Mallorca.](etheria-images/2018/07/Enoturismo-Binissalem-Mallorca-cata-1024x553.jpg "Cata de vinos. © CRDO Binissalem (Mallorca).")
+![Cata de vinos en Mallorca.](https://fotos.etheriamagazine.com/2018/07/Enoturismo-Binissalem-Mallorca-cata-1024x553.jpg "Cata de vinos. © CRDO Binissalem (Mallorca).")
 
 ### 3\. Binissalem
 
@@ -99,7 +99,7 @@ de cítricos, olivos y almendros, además de criar ovejas. Os recomiendo que pro
 **Memories Blanco**, elaborado con uvas prensal, moscatel de Alejandría y chardonnay. Un 
 vino frutal, fresco y muy agradable que os va a encantar. 
 
-![Finca Biniagual.](etheria-images/2018/07/Finca-Benbingual-1024x576.jpg "Finca Biniagual.")
+![Finca Biniagual.](https://fotos.etheriamagazine.com/2018/07/Finca-Benbingual-1024x576.jpg "Finca Biniagual.")
 
 ### 5\. Bodegas Jaume de Puntiró y Maciá Batlé
 
@@ -112,7 +112,7 @@ de la Tierra de Mallorca, y entre sus referencias me gustan mucho su blanco y su
 **Maciá Batlè**. He dejado para el final mi vino favorito, **JP de Jaume de Puntiró**, 
 este tenéis que probarlo sí o sí. 
 
-![Bodega Jaume de Puntiró (Mallorca).](etheria-images/2018/07/Bodega-Jaume-Puntiro-mallorca-enoturismo-1024x682.jpg "© Bodega Jaume de Puntiró (Mallorca).")
+![Bodega Jaume de Puntiró (Mallorca).](https://fotos.etheriamagazine.com/2018/07/Bodega-Jaume-Puntiro-mallorca-enoturismo-1024x682.jpg "© Bodega Jaume de Puntiró (Mallorca).")
 
 ## Mallorca | Guía Etheria Magazine
 
@@ -122,7 +122,7 @@ En **Binibona** (Caimari), a pocos kilómetros de Inca, encontraréis un precios
 rural, **Finca Binibona Parc Natural**, de 20 habitaciones, con todas las comodidades y 
 vistas a la preciosa Tramontana. Tel. 971 873 565. 
 
-![ruta vino Mallorca](etheria-images/2018/07/Albellons-terraza-1024x576.jpg "Terraza del hotel rural Albellons Parc Natural (Mallorca).")
+![ruta vino Mallorca](https://fotos.etheriamagazine.com/2018/07/Albellons-terraza-1024x576.jpg "Terraza del hotel rural Albellons Parc Natural (Mallorca).")
 
 En **Caimari** se encuentra el **Albellons Parc Natural** (albellons.com/es), un hotel 
 de 16 habitaciones de un delicioso estilo payés. Tel. 971 875 069 
@@ -146,7 +146,7 @@ En **Selva** una estupenda opción es comer en **Miceli** (calle Angels, 11. Tel
 784). Su chef, Marga Coll, ofrece una deliciosa cocina creativa pero sencilla y muy 
 mallorquina. Más información en miceli.es 
 
-![Destilería José Luis Ferrer, en la D.O. Binissalem.](etheria-images/2018/07/binissalem-spain-23-june-one-of-the-symbols-of-mallorca-jose-luis-ferrer-distillery-with-vineyards-in-an-area-of-several-acres-and-lots-of-varieties-23-june-binissalem-spain-2016-900x600.jpg "Destilería José Luis Ferrer, en la D.O. Binissalem.")
+![Destilería José Luis Ferrer, en la D.O. Binissalem.](https://fotos.etheriamagazine.com/2018/07/binissalem-spain-23-june-one-of-the-symbols-of-mallorca-jose-luis-ferrer-distillery-with-vineyards-in-an-area-of-several-acres-and-lots-of-varieties-23-june-binissalem-spain-2016-900x600.jpg "Destilería José Luis Ferrer, en la D.O. Binissalem.")
 
 ### De compras
 
@@ -164,7 +164,7 @@ autopista de Palma a Alcudia. Allí están Camper, Munper, Barrats 1980 y muchos
 En **Binissalem** hay que ir a su mercadillo de los viernes para hacerse con lo mejor de 
 la huerta mallorquina. Plaza de la Iglesia, de 9 a 14 horas. 
 
-![Deià, uno de los pueblos más bonitos de la sierra de Tramuntana.](etheria-images/2018/07/deia-typical-stone-village-in-majorca-tramuntana-1-900x600.jpg "Deià, uno de los pueblos más bonitos de la sierra de Tramuntana.")
+![Deià, uno de los pueblos más bonitos de la sierra de Tramuntana.](https://fotos.etheriamagazine.com/2018/07/deia-typical-stone-village-in-majorca-tramuntana-1-900x600.jpg "Deià, uno de los pueblos más bonitos de la sierra de Tramuntana.")
 
 ### Excursiones en Mallorca
 

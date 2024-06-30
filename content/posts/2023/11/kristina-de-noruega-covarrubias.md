@@ -1,7 +1,7 @@
 ---
 title: "Kristina de Noruega en Covarrubias, del misterio a la eternidad"
 date: 2023-11-20
-coverImage: etheria-images/2023/11/calle-covarrubia.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/11/calle-covarrubia.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -16,7 +16,7 @@ de Noruega. En esta villa burgalesa os esperan su reposo eterno, la capilla de S
 levantada por expreso deseo de la noble nórdica, y un buen número de visitas de interés. 
 ¿Os lo vais a perder? 
 
-![Covarrubias, uno de los pueblos más bonitos de España.](etheria-images/2023/11/covarrubias.jpg "Covarrubias, uno de los pueblos más bonitos de España. © Etheria Magazine")
+![Covarrubias, uno de los pueblos más bonitos de España.](https://fotos.etheriamagazine.com/2023/11/covarrubias.jpg "Covarrubias, uno de los pueblos más bonitos de España. © Etheria Magazine")
 
 Esta escapada burgalesa debe comenzar mencionando a Kristina de Noruega, una bella 
 princesa nórdica cuya triste historia te conquista al instante, tanto como la cuidada 
@@ -27,7 +27,7 @@ Bienes de Interés Cultural. Todo está perfectamente preservado, gracias a una 
 temprana declaración (1965) de Conjunto Histórico Artístico. Pero, ¿qué relación tiene 
 una princesa nórdica como Kristina de Noruega con Covarrubias? Os lo contamos. 
 
-![Escultura de la princesa Kristina de Noruega en Covarrubias.](etheria-images/2023/11/kristina-noruega-covarrubias.jpg "Escultura de la princesa Kristina de Noruega en Covarrubias. © Etheria Magazine")
+![Escultura de la princesa Kristina de Noruega en Covarrubias.](https://fotos.etheriamagazine.com/2023/11/kristina-noruega-covarrubias.jpg "Escultura de la princesa Kristina de Noruega en Covarrubias. © Etheria Magazine")
 
 ## Quién fue Kristina de Noruega
 
@@ -69,7 +69,7 @@ rumorea que su enfermedad y la dificultad para adaptarse al clima sevillano
 contribuyeron a su prematura partida. En 1265, Felipe contrajo matrimonio con Leonor 
 Rodríguez de Castro, cerrando así el capítulo con la princesa noruega. 
 
-![Tumba de Kristina de Noruega en la Colegiata de Covarrubias](etheria-images/2023/11/covarrubias-colegiata-tumba-Kristina-wikipedia.jpg "Tumba de Kristina de Noruega en la Colegiata de Covarrubias. © Ecelan CC BY-SA 4.0")
+![Tumba de Kristina de Noruega en la Colegiata de Covarrubias](https://fotos.etheriamagazine.com/2023/11/covarrubias-colegiata-tumba-Kristina-wikipedia.jpg "Tumba de Kristina de Noruega en la Colegiata de Covarrubias. © Ecelan CC BY-SA 4.0")
 
 ## La tumba de Kristina
 
@@ -84,7 +84,7 @@ templo– no dejaron lugar a dudas: era Kristina. Hoy día, cuando las chicas so
 visitan su tumba tocan la campana del claustro porque dice la leyenda que así 
 encontrarán el amor que a la princesa le fue negado. 
 
-![Colegiata de Covarrubias.](etheria-images/2023/11/colegiata-covarrubias.jpg "Colegiata de Covarrubias. © Etheria Mag.")
+![Colegiata de Covarrubias.](https://fotos.etheriamagazine.com/2023/11/colegiata-covarrubias.jpg "Colegiata de Covarrubias. © Etheria Mag.")
 
 ## La capilla de San Olav
 
@@ -108,7 +108,7 @@ evento, consultad la agenda en la [web de la capilla de San
 Olav](https://www.capilladesanolav.com/). Y si os interesa conocer el **Camino de San 
 Olav** en España en esta web (www.caminodesanolav.es) encontraréis información. 
 
-![Capilla de San Olav, a las afueras de Covarrubias.](etheria-images/2023/11/capilla-san-olav-covarrubias.jpg "Capilla de San Olav, en el valle de Lobos, a 3 km de Covarrubias. © Turismo Rural Arlanza")
+![Capilla de San Olav, a las afueras de Covarrubias.](https://fotos.etheriamagazine.com/2023/11/capilla-san-olav-covarrubias.jpg "Capilla de San Olav, en el valle de Lobos, a 3 km de Covarrubias. © Turismo Rural Arlanza")
 
 ## Qué más ver en Covarrubias
 
@@ -120,7 +120,7 @@ XVII, los altares barrocos, las tablas de Berruguete y Van Eyck y el tríptico d
 Adoración de los Reyes Magos, atribuido a un discípulo de Gil de Siloé. En el templo, 
 que cierra los martes, se permiten las visitas por libre o guiadas por el párroco. 
 
-![Una de las bonitas calles de la villa.](etheria-images/2023/11/calle-covarrubia.jpg "Una de las bonitas calles de la villa con el Museo del Libro al fondo. © Turismo Covarrubias")
+![Una de las bonitas calles de la villa.](https://fotos.etheriamagazine.com/2023/11/calle-covarrubia.jpg "Una de las bonitas calles de la villa con el Museo del Libro al fondo. © Turismo Covarrubias")
 
 ### Torreón de Fernán González
 
@@ -135,7 +135,7 @@ os transportará a una época donde no faltaban las intrigas ni las batallas. Se
 la leyenda, aquí encerró su padre a la Infanta Doña Urraca como castigo por sus romances 
 con un pastor. 
 
-![Torreón de Fernán Núñez en Covarrubias](etheria-images/2023/11/covarrubias-torreon-fernan-nunez.jpg "Crucero y torreón de Fernán Núñez. © Turismo Covarrubias")
+![Torreón de Fernán Núñez en Covarrubias](https://fotos.etheriamagazine.com/2023/11/covarrubias-torreon-fernan-nunez.jpg "Crucero y torreón de Fernán Núñez. © Turismo Covarrubias")
 
 ### Murallas de Covarrubias
 
@@ -145,7 +145,7 @@ tramo que discurre entre la excolegiata y el puente invita a reflexionar sobre l
 en que fue levantada y cómo parte de las mismas debieron ser derribadas para “orear” la 
 villa durante una epidemia de cólera en el siglo XVI. 
 
-![Murallas de Covarrubias.](etheria-images/2023/11/covarrubias-muralla.jpg "Murallas de Covarrubias junto al río Arlanza. © Etheria Mag.")
+![Murallas de Covarrubias.](https://fotos.etheriamagazine.com/2023/11/covarrubias-muralla.jpg "Murallas de Covarrubias junto al río Arlanza. © Etheria Mag.")
 
 ### Casa de Doña Sancha
 
@@ -156,7 +156,7 @@ alberga un restaurante, [La taberna de Doña Sancha](https://tabernadonasancha.e
 merece mucho la pena hacer una parada para probar las especialidades locales y tomar un 
 respiro después de tantas emociones. 
 
-![Casa de Doña Sancha](etheria-images/2023/11/casa-dona-sancha-covarrubia.jpg "Casa de Doña Sancha. © Turismo Covarrubias")
+![Casa de Doña Sancha](https://fotos.etheriamagazine.com/2023/11/casa-dona-sancha-covarrubia.jpg "Casa de Doña Sancha. © Turismo Covarrubias")
 
 ### Museo del Libro
 
@@ -168,7 +168,7 @@ trasladado a Simancas. Actualmente, en la planta baja está la oficina de turism
 las dos superiores se sitúa el Museo del Libro, un espacio que muestra la evolución y la 
 importancia de los libros a lo largo del tiempo. 
 
-![El Museo del Libro se sitúa en el antiguo edificio del Archivo.](etheria-images/2023/11/covarrubias-museo-libro.jpg "El Museo del Libro se sitúa en el antiguo edificio del Archivo. © Etheria Mag.")
+![El Museo del Libro se sitúa en el antiguo edificio del Archivo.](https://fotos.etheriamagazine.com/2023/11/covarrubias-museo-libro.jpg "El Museo del Libro se sitúa en el antiguo edificio del Archivo. © Etheria Mag.")
 
 ### Casas del Obispo Peña y la Antigua Botica
 
@@ -180,7 +180,7 @@ ello), que muestra las características habituales de las construcciones de Cova
 ese sabor añejo que nos encanta descubrir. Aunque parece anclada en el tiempo, 
 permaneció abierta hasta 1975. 
 
-![Casa del Obispo, en Covarrubias.](etheria-images/2023/11/casa-obispo-covarrubias.jpg "Casa del Obispo Peña. © Turismo Covarrubias")
+![Casa del Obispo, en Covarrubias.](https://fotos.etheriamagazine.com/2023/11/casa-obispo-covarrubias.jpg "Casa del Obispo Peña. © Turismo Covarrubias")
 
 Y así, entre visitas, paseos, recuerdos de Kristina de Noruega y algún que otro vino 
 rosado de la **D.O. de Arlanza** habréis pasado un fin de semana inolvidable en la [provincia 

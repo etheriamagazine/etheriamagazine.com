@@ -1,7 +1,7 @@
 ---
 title: "7 planes esenciales en Lanzarote con amigas"
 date: 2020-06-11
-coverImage: etheria-images/2020/06/lanzarote-playas-papagayo.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/06/lanzarote-playas-papagayo.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
@@ -14,7 +14,7 @@ authors:
 
 Lanzarote es toda una tentación para aquellas mujeres que viajan solas o con amigas. La isla de los 100 volcanes es un territorio lleno de playas espectaculares, paisajes sedientos surgidos de las entrañas del planeta y palmerales que rinden tributo al viajero. Descubre 7 planes imprescindibles en Lanzarote si vas con amigas, sola o con quien quieras.
 
-![playas papagayo de lanzarote](etheria-images/2020/06/lanzarote-playas-papagayo.jpg "Playas Papagayo. © Piet Bastine")
+![playas papagayo de lanzarote](https://fotos.etheriamagazine.com/2020/06/lanzarote-playas-papagayo.jpg "Playas Papagayo. © Piet Bastine")
 
 ```
 (Actualizado 3/2021)
@@ -50,7 +50,7 @@ también por plantaciones que emergen de la tierra casi de milagro. Otra de las
 características de la arquitectura lanzaroteña, y que los locales respetan, es pintar 
 las puertas y ventanas de azul (en la costa) y de verde (en el interior). 
 
-![pueblo de Yaiza en lanzarote](etheria-images/2018/09/Yaiza-Centro-Pueblo-Lanzarote-e1591966966362.jpg "Centro del pueblo de Yaiza.")
+![pueblo de Yaiza en lanzarote](https://fotos.etheriamagazine.com/2018/09/Yaiza-Centro-Pueblo-Lanzarote-e1591966966362.jpg "Centro del pueblo de Yaiza.")
 
 Hay **300 cráteres en Lanzarote**, de los que 110 son volcanes, lo que supone la mayor 
 concentración del mundo, después de Hawái. Los hay muy antiguos, hasta de millones de 
@@ -70,7 +70,7 @@ erupciones del siglo XVIII, que se hallan alineados en fila, como si la Naturale
 hubiera jugado a trazar líneas y figuras, a veces perfectamente simétricas, en un lienzo 
 infinito. 
 
-![Parque Nacional de Timanfaya uno de los planes en lanzarote con amigas](etheria-images/2018/09/Timanfaya_Paisaje-Volcanico-1024x683.jpg "Paisaje volcánico en el Parque Nacional de Timanfaya.")
+![Parque Nacional de Timanfaya uno de los planes en lanzarote con amigas](https://fotos.etheriamagazine.com/2018/09/Timanfaya_Paisaje-Volcanico-1024x683.jpg "Paisaje volcánico en el Parque Nacional de Timanfaya.")
 
 El **padre Cubelo**, párroco de la localidad de Yaiza, dejó testimonio escrito de la 
 erupción que, entre 1730 y 1736, dejó de piedra gran parte del territorio de la isla: 
@@ -83,7 +83,7 @@ que hoy, concretamente desde 1993, está considerado Patrimonio de la Humanidad.
 la pena detenerse en el **restaurante-mirador El Diablo**, otra creación (como siempre, 
 perfectamente integrada en la naturaleza) de César Manrique. 
 
-![paisaje de la geria de lanzarote](etheria-images/2020/06/lanzarote-con-amigas-la-geria.jpg "Paisaje Protegido de La Geria. © JP")
+![paisaje de la geria de lanzarote](https://fotos.etheriamagazine.com/2020/06/lanzarote-con-amigas-la-geria.jpg "Paisaje Protegido de La Geria. © JP")
 
 ### 2\. Conoce los Parques naturales de Lanzarote
 
@@ -96,7 +96,7 @@ la Corona**, el **Paisaje Protegido de La Geria** (“el viñedo de lo imposible
 **jameos**, esos impresionantes huecos que se producen al romperse la estructura 
 superior de los tubos volcánicos. 
 
-![jameos del agua plan lanzarote con amigas](etheria-images/2020/06/lanzarote-jameos-del-agua.jpg "Jameos del Agua. © Ferran Feixas")
+![jameos del agua plan lanzarote con amigas](https://fotos.etheriamagazine.com/2020/06/lanzarote-jameos-del-agua.jpg "Jameos del Agua. © Ferran Feixas")
 
 ### 3\. Pasea por los Jameos del Agua
 
@@ -109,7 +109,7 @@ centímetro y habitan en sitios muy contados del planeta. Hay que ir con tiempo
 suficiente, porque este centro acoge también un pequeño museo con una exposición que 
 ilustra sobre el origen y la actividad volcánica de Lanzarote. 
 
-![cueva de los verdes planes en lanzarote con amigas](etheria-images/2020/06/lanzarote-cueva-de-los-verdes.jpg "Cueva de los Verdes. © Daniel Ferrandiz")
+![cueva de los verdes planes en lanzarote con amigas](https://fotos.etheriamagazine.com/2020/06/lanzarote-cueva-de-los-verdes.jpg "Cueva de los Verdes. © Daniel Ferrandiz")
 
 ### 4\. Sorpréndete con el paisaje de la Cueva de los Verdes
 
@@ -124,7 +124,7 @@ cueva cuenta con, al menos, 16 jameos, uno de los cuales constituye su puerta de
 entrada. Los más famosos son el Jameo Chico, el Jameo Grande y el Jameo de la Cazuela. 
 Todo un monumento natural que, desde 1964, se muestra en todo su esplendor. 
 
-![jardin de cactus un plan en lanzarote con amigas](etheria-images/2018/09/Lanzarote-Jardín-cactus-1024x683.jpg "Jardín de Cactus, en Lanzarote. © CACT Lanzarote.")
+![jardin de cactus un plan en lanzarote con amigas](https://fotos.etheriamagazine.com/2018/09/Lanzarote-Jardín-cactus-1024x683.jpg "Jardín de Cactus, en Lanzarote. © CACT Lanzarote.")
 
 ### 5\. Pasea entre plantas en el Jardín de Cactus
 
@@ -136,7 +136,7 @@ por un molino de gofio y aquí el viajero curioso tendrá la posibilidad de comp
 se cría la cochinilla, un insecto que sirve como colorante natural para tejidos y 
 alimentos. 
 
-![charco verde planes en lanzarote con amigas](etheria-images/2020/06/lanzarote-charco-verde.jpg "Charco Verde o Laguna de los Clicos de Lanzarote. © Alevision")
+![charco verde planes en lanzarote con amigas](https://fotos.etheriamagazine.com/2020/06/lanzarote-charco-verde.jpg "Charco Verde o Laguna de los Clicos de Lanzarote. © Alevision")
 
 ### 6\. Admira el paisaje de las Salinas de Janubio
 
@@ -147,7 +147,7 @@ diseñando y modificando como si dispusiera de un pincel con toda la gama de col
 reflejos. Se trata de una vieja explotación salinera creada en 1895 y que en la 
 actualidad ofrece uno de los paisajes más singulares de la isla. 
 
-![playa de famara plan en lanzarote](etheria-images/2018/09/Playas-Teguise-Famara-Lanzarote-1024x682.jpg "Playa Famara en Teguise.")
+![playa de famara plan en lanzarote](https://fotos.etheriamagazine.com/2018/09/Playas-Teguise-Famara-Lanzarote-1024x682.jpg "Playa Famara en Teguise.")
 
 ### 7\. Asómate a los miradores de Lanzarote
 

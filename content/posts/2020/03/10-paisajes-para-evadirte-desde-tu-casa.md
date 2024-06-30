@@ -1,7 +1,7 @@
 ---
 title: "10 paisajes para evadirte en momentos de estrés"
 date: 2020-03-18
-coverImage: etheria-images/2020/03/Paisajes-perito-moreno.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/03/Paisajes-perito-moreno.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ que evocan destinos maravillosos donde te gustaría teletransportarte al momento
 situaciones en las que el estrés hace de las suyas, una buena estrategia es buscar un 
 paisaje relajante y evadirse por un momento. 
 
-![Cascada Seljandsfoss (Islandia).](etheria-images/2020/03/Paisajes-islandia-cascada-900x545.jpg "Cascada Seljandsfoss (Islandia). © Robert Lukeman")
+![Cascada Seljandsfoss (Islandia).](https://fotos.etheriamagazine.com/2020/03/Paisajes-islandia-cascada-900x545.jpg "Cascada Seljandsfoss (Islandia). © Robert Lukeman")
 
 ## 1\. Cascada Seljalandsfoss (Islandia)
 
@@ -25,7 +25,7 @@ cascadas, costas abruptas, aguas termales, pueblos de cuento… Todo en Islandia
 una foto. En este caso hemos tenido que elegir una, y nos quedamos con este paisaje casi 
 irreal de la cascada Seljalandsfoss, situada en el sur del país. 
 
-![Cebras en el cráter de Ngorongoro (Tanzania).](etheria-images/2020/03/Paisajes-crater-ngorongoro-tanzania-900x600.jpg "Cebras en el cráter de Ngorongoro (Tanzania). © Hendrik Cornelissen")
+![Cebras en el cráter de Ngorongoro (Tanzania).](https://fotos.etheriamagazine.com/2020/03/Paisajes-crater-ngorongoro-tanzania-900x600.jpg "Cebras en el cráter de Ngorongoro (Tanzania). © Hendrik Cornelissen")
 
 ## 2\. Cráter del Ngorongoro (Tanzania)
 
@@ -38,7 +38,7 @@ El cráter del Ngorongoro, en Tanzania, es un lugar perfecto para situarse menta
 que es un lugar único al ser el territorio más pequeño en el que se pueden ver los 
 ‘cinco grandes’ (león, leopardo, rinoceronte negro, búfalo y elefante). 
 
-![Playa de La Digue (Seychelles).](etheria-images/2020/03/Paisajes-la-digue-seychelles-900x598.jpg "Playa de La Digue (Seychelles). © Sebastien")
+![Playa de La Digue (Seychelles).](https://fotos.etheriamagazine.com/2020/03/Paisajes-la-digue-seychelles-900x598.jpg "Playa de La Digue (Seychelles). © Sebastien")
 
 ## 3\. Playa de La Digue (Seychelles)
 
@@ -50,7 +50,7 @@ sueño son las playas de las islas del Índico, y en concreto la **playa de La D
 Seychelles, reúne todos los requisitos de playa perfecta con sus palmeras y sus 
 originales formaciones rocosas. 
 
-![Lago Esmeralda (Canadá).](etheria-images/2020/03/Paisajes-lago-esmeralda-900x598.jpg "Lago Esmeralda (Canadá).")
+![Lago Esmeralda (Canadá).](https://fotos.etheriamagazine.com/2020/03/Paisajes-lago-esmeralda-900x598.jpg "Lago Esmeralda (Canadá).")
 
 ## 4\. Lago Esmeralda (Canadá)
 
@@ -63,7 +63,7 @@ para disfrutar de su color turquesa tendrás que acudir al final de la primavera
 el deshielo de los glaciares deja el limo de las rocas en suspensión en el agua del 
 lago, que se refleja con la luz del sol. 
 
-![Estupa en Namche Bazaar (Nepal).](etheria-images/2020/03/Paisajes-nepal-himalaya-900x600.jpg "Estupa en Namche Bazaar (Nepal). © Sebastian Pena Lambarri")
+![Estupa en Namche Bazaar (Nepal).](https://fotos.etheriamagazine.com/2020/03/Paisajes-nepal-himalaya-900x600.jpg "Estupa en Namche Bazaar (Nepal). © Sebastian Pena Lambarri")
 
 ## 5\. Namche Bazaar (Népal)
 
@@ -73,7 +73,7 @@ la zona, una experiencia única que los amantes de la montaña tendrían que rea
 menos una vez en la vida. Uno de esos lugares donde la vida parece tener otro ritmo y la 
 espiritualidad todo lo invade. 
 
-![Globos sobre la Capadocia (Turquía).](etheria-images/2020/03/Paisajes-capadocia-900x600.jpg "Globos sobre la Capadocia (Turquía). © Daniela Cuevas")
+![Globos sobre la Capadocia (Turquía).](https://fotos.etheriamagazine.com/2020/03/Paisajes-capadocia-900x600.jpg "Globos sobre la Capadocia (Turquía). © Daniela Cuevas")
 
 ## 6\. Capadocia (Turquía)
 
@@ -84,7 +84,7 @@ de las mejores formas para contemplar esta región es subirse a un globo aerost�
 disfrutar en silencio de la imagen de las famosas Chimeneas de Hadas o de las cuevas 
 trogloditas. 
 
-![Milford Sound (Nueva Zelanda).](etheria-images/2020/03/Paisajes-Mildford-Sound-900x675.jpg "Milford Sound (Nueva Zelanda).")
+![Milford Sound (Nueva Zelanda).](https://fotos.etheriamagazine.com/2020/03/Paisajes-Mildford-Sound-900x675.jpg "Milford Sound (Nueva Zelanda).")
 
 ## 7\. Mildford Sound (Nueva Zelanda)
 
@@ -95,7 +95,7 @@ fiordo del Parque Nacional Fiorland perfecto para realizar un [trekking](https:/
 o disfrutarlo en crucero. Si alguna vez decides visitarlo, ten en cuenta que una de las 
 mejores formas de recorrerlo es en [autocaravana](https://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/). 
 
-![Parque Nacional Yosemite (Estados Unidos).](etheria-images/2020/03/Paisajes-yosemite-Estados-Unidos-900x600.jpg "Parque Nacional Yosemite (Estados Unidos). © Rakshith Hatwar")
+![Parque Nacional Yosemite (Estados Unidos).](https://fotos.etheriamagazine.com/2020/03/Paisajes-yosemite-Estados-Unidos-900x600.jpg "Parque Nacional Yosemite (Estados Unidos). © Rakshith Hatwar")
 
 ## 8\. Parque Nacional de Yosemite (Estados Unidos)
 
@@ -105,7 +105,7 @@ transporta a paseos entre pinos, robles negros y secuoyas gigantes mientras cont
 ríos encajados entre cañones, bonitas cascadas (las más altas de Norteamérica) y 
 escarpadas formaciones rocosas. 
 
-![Valle de Orcia (Italia).](etheria-images/2020/03/Paisajes-valle-Orcia-900x675.jpg "Valle de Orcia (Italia). © Luca Micheli")
+![Valle de Orcia (Italia).](https://fotos.etheriamagazine.com/2020/03/Paisajes-valle-Orcia-900x675.jpg "Valle de Orcia (Italia). © Luca Micheli")
 
 ## 9\. Valle de Orcia (Toscana, Italia)
 
@@ -116,7 +116,7 @@ de estrés. Situado al sur de Siena, este valle es un lugar perfecto para imagin
 en coche por la Toscana](https://etheriamagazine.com/2018/05/10/toscana-en-coche/) 
 disfrutando también de sus bonitos pueblos medievales. 
 
-![Glaciar Perito Moreno (Argentina).](etheria-images/2020/03/Paisajes-perito-moreno-900x506.jpg "Glaciar Perito Moreno (Argentina). © Claudio Bianchi")
+![Glaciar Perito Moreno (Argentina).](https://fotos.etheriamagazine.com/2020/03/Paisajes-perito-moreno-900x506.jpg "Glaciar Perito Moreno (Argentina). © Claudio Bianchi")
 
 ## 10\. Glaciar del Perito Moreno (Argentina)
 

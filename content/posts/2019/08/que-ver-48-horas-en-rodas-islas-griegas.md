@@ -1,7 +1,7 @@
 ---
 title: "Rodas, el primer paso para enamorarse de las Islas Griegas"
 date: 2019-08-14
-coverImage: etheria-images/2019/07/viaje-rodas-Monolithos-Castle-e1564342953764.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Monolithos-Castle-e1564342953764.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -13,7 +13,7 @@ authors:
 
 Rodas, la mayor de las islas del Dodecaneso y la que fuera sede de una las Siete Maravillas del Mundo Antiguo, nos ha cautivado desde el mar Egeo. Su esencia griega sigue intacta aunque su espíritu medieval se mezcle con el ambiente cosmopolita. Es un escenario perfecto para un _remake_ de tu gran boda griega. Si quieres saber qué ver y hacer en Rodas, te lo contamos a continuación.
 
-![viaje a rodas, monolithos castle, archipielago dodecaneso](etheria-images/2019/07/viaje-rodas-Monolithos-Castle-e1564342953764.jpg "Castillo de Monolithos, en la isla de Rodas.")
+![viaje a rodas, monolithos castle, archipielago dodecaneso](https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Monolithos-Castle-e1564342953764.jpg "Castillo de Monolithos, en la isla de Rodas.")
 
 Accede a la isla por mar porque, desde el **puerto de Mandraki,** verás la mejor 
 perspectiva de la **ciudad de Rodas**, una de las urbes medievales más grandes de 
@@ -27,7 +27,7 @@ ostentaron su patente de corso por el Mediterráneo. Tampoco dieron tregua al po
 musulmán, con las cruzadas emprendidas por aquellos hombres impulsados por la fe y el 
 ansia de expansión de la nobleza feudal. 
 
-![coloso rodas, viaje rodas, que ver rodas](etheria-images/2019/08/viaje-rodas-coloso-puerto-mandraki-1.jpg "Estatuas que señalan donde estuviera el Coloso de Rodas, Puerto de Mandráki.")
+![coloso rodas, viaje rodas, que ver rodas](https://fotos.etheriamagazine.com/2019/08/viaje-rodas-coloso-puerto-mandraki-1.jpg "Estatuas que señalan donde estuviera el Coloso de Rodas, Puerto de Mandráki.")
 
 ## El puerto de Rodas
 
@@ -44,7 +44,7 @@ ofrecen productos del mar –como conchas o esponjas–, y llega hasta al **fuer
 Nicolás,** que defendía la ciudad de los ataques marítimos; y al pasar admira los tres 
 molinos de viento. 
 
-![compras en rodas, viaje mujeres rodas](etheria-images/2019/07/viaje-rodas-compras-puerto-e1564342822240.jpg "Venta de souvenirs y productos del mar en el puerto comercial de Rodas.")
+![compras en rodas, viaje mujeres rodas](https://fotos.etheriamagazine.com/2019/07/viaje-rodas-compras-puerto-e1564342822240.jpg "Venta de souvenirs y productos del mar en el puerto comercial de Rodas.")
 
 ## Viaja al Medievo de Rodas
 
@@ -58,7 +58,7 @@ Rodas](https://rhodes-aquarium.hcmr.gr/en/), situado en el punto más septentrio
 isla. Quedarás fascinada ante sus instalaciones a modo de cueva submarina donde se puede 
 ver la riqueza submarina del Egeo. 
 
-![palacio grandes maestres rodas, que ver en rodas](etheria-images/2019/08/viaje-rodas-palacio-fortaleza.jpg "Palacio fortaleza de los Grandes Maestres, en Rodas.")
+![palacio grandes maestres rodas, que ver en rodas](https://fotos.etheriamagazine.com/2019/08/viaje-rodas-palacio-fortaleza.jpg "Palacio fortaleza de los Grandes Maestres, en Rodas.")
 
 Retorna al casco antiguo en busca del **castillo del Gran Maestre**, imponente fortaleza 
 medieval en lo más alto de la ciudad. Viajarás en el tiempo caminando por la **calle de 
@@ -75,7 +75,7 @@ barrios judío, turco, latino y, por supuesto, griego. En medio del ambiente má
 comercial de la **calle Sokratous** verás la **mezquita de Solimán el Magnífico**, la 
 huella más espectacular de la conquista turca de la isla. 
 
-![mariposas en petaloudes, que ver rodas](etheria-images/2019/08/viaje-rodas-mariposas-jersey-tiger-moth.jpg "Mariposas 'Tigre de Jersey' en el valle de Petaloudes, en Rodas.")
+![mariposas en petaloudes, que ver rodas](https://fotos.etheriamagazine.com/2019/08/viaje-rodas-mariposas-jersey-tiger-moth.jpg "Mariposas 'Tigre de Jersey' en el valle de Petaloudes, en Rodas.")
 
 ## Visita el valle de las mariposas
 
@@ -93,7 +93,7 @@ el **monasterio Kalopetra**. Se alza allí en lo alto, pequeño y fundado por un
 griego exiliado que fue el incitador de la revolución de 1821, que se convertiría en la 
 Guerra de la Independencia contra el imperio otomano. 
 
-![vinos griegos, vinedos empona rodas](etheria-images/2019/08/viaje-rodas-Grapevine-Emponas-Village.jpg "Racimos de uva en el pueblo de Empona, Isla de Rodas.")
+![vinos griegos, vinedos empona rodas](https://fotos.etheriamagazine.com/2019/08/viaje-rodas-Grapevine-Emponas-Village.jpg "Racimos de uva en el pueblo de Empona, Isla de Rodas.")
 
 ## Tómate un vino griego
 
@@ -103,7 +103,7 @@ capital del vino de Rodas. Es un pintoresco núcleo donde degustarlo mientras co
 una danza tradicional griega, compras artesanía textil o alguna de las alfombras que 
 elaboran artesanalmente. 
 
-![Castillo de Kritinian, la fortaleza de los Caballeros en rodas](etheria-images/2019/07/viaje-rodas-Kritinian-Castle-e1564342908602.jpg "Castillo de Kritinian, en la fortaleza de los Caballeros.")
+![Castillo de Kritinian, la fortaleza de los Caballeros en rodas](https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Kritinian-Castle-e1564342908602.jpg "Castillo de Kritinian, en la fortaleza de los Caballeros.")
 
 Una vez que desciendas del pueblo más alto de la isla, vela para que la siguiente parada 
 te pille al atardecer y mirando la inmensidad del azul mediterráneo desde el **castillo 
@@ -118,7 +118,7 @@ el pequeño puerto sentirás unas ganas irresistibles de catar las capturas del 
 las que seguro no falta un rico pulpo. Este es uno de los planes de qué ver y hacer en 
 Rodas que más te gustará... 
 
-![pulpos en rodas, gastronomia rodas](etheria-images/2019/07/viaje-rodas-Plimmyri-Harbour-e1565044421492.jpg "Pulpos secándose en una taberna del puerto de Plimmyri Harbour, en la costa este de Rodas.")
+![pulpos en rodas, gastronomia rodas](https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Plimmyri-Harbour-e1565044421492.jpg "Pulpos secándose en una taberna del puerto de Plimmyri Harbour, en la costa este de Rodas.")
 
 ## Refréscate con un baño tonificante
 
@@ -133,7 +133,7 @@ antes, hacemos un alto en la villa de **Monolithos** para ascender a la atalaya 
 asoma el castillo. Una hermosa ruina sobre un espolón rocosa de 100 metros de altura a 
 la que se accede por una escalera tallada en la misma roca. 
 
-![Windsurf en Prassonisi, isla rodas](etheria-images/2019/08/viaje-rodas-Windsurf-Prasonisi-e1565044791643.jpg "Windsurf en Prassonisi.")
+![Windsurf en Prassonisi, isla rodas](https://fotos.etheriamagazine.com/2019/08/viaje-rodas-Windsurf-Prasonisi-e1565044791643.jpg "Windsurf en Prassonisi.")
 
 La parada en el extremo más meridional de la isla supone llegar hasta **Prassonisi**. El 
 viento marca su cotidianeidad y, gracias a ello, crea la barra de arena que conecta con 
@@ -141,7 +141,7 @@ el **islote Nísida**. Durante el verano queda a la vista mientras los surfistas
 disfrutan plenamente bajo el gobierno del viento en una de las playas más bellas de la 
 isla. 
 
-![Puerto de Skala Kamirou, isla rodas, islas griegas](etheria-images/2019/07/viaje-rodas-Skala-Kamirou-Harbour-1-e1565045401790.jpg "Puerto de Skala Kamirou.")
+![Puerto de Skala Kamirou, isla rodas, islas griegas](https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Skala-Kamirou-Harbour-1-e1565045401790.jpg "Puerto de Skala Kamirou.")
 
 ## Tu gran boda griega
 
@@ -152,7 +152,7 @@ Tharri**. Para verlos hay que adentrarse en un valle perdido donde se ubica el p
 como el saberte pisando el lugar donde estuviera el templo de Apolo sobre el que se 
 erigió esta pionera iglesia hace 1.600 años. 
 
-![Villa de Lindos, costa este de Rodas](etheria-images/2019/07/viaje-rodas-Lindos-Village-1-e1565045066867.jpg "Lindos, en la costa este de Rodas.")
+![Villa de Lindos, costa este de Rodas](https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Lindos-Village-1-e1565045066867.jpg "Lindos, en la costa este de Rodas.")
 
 De nuevo, la costa nos llama y concretamente el bonito pueblo de **Lindos**, el pueblo 
 más al oriente de la isla. Su ambiente costero cosmopolita tiene fama mundial. Antes de 
@@ -164,7 +164,7 @@ alrededor de la **acrópolis**, una ciudadela utilizada por todas las civilizaci
 han habitado la isla, pues ha jugado un papel esencial a lo largo de su dilatada 
 historia. 
 
-![iglesia san pablo, lindos, rodas, islas griegas](etheria-images/2019/07/viaje-rodas-St-Paul-Church-Lindos-e1565045236774.jpg "Iglesia de San Pablo, en Lindos.")
+![iglesia san pablo, lindos, rodas, islas griegas](https://fotos.etheriamagazine.com/2019/07/viaje-rodas-St-Paul-Church-Lindos-e1565045236774.jpg "Iglesia de San Pablo, en Lindos.")
 
 Cuando la alcances no te cansarás de admirar las panorámicas vistas litorales. En su 
 zona más alta, entre los restos del **templo de Atenea Lindia**, estarás en uno de los 

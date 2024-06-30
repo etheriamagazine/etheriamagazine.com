@@ -1,7 +1,7 @@
 ---
 title: "15 lugares imprescindibles en A Coruña que miran al mar"
 date: 2022-09-23
-coverImage: etheria-images/2022/09/ortigueira-banco.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/09/ortigueira-banco.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -13,7 +13,7 @@ extenso. Un balcón privilegiado al final de un continente donde asomarte para a
 destino mítico a horizonte abierto. Te contamos los 15 imprescindibles que ver en A 
 Coruña para que no te pierdas nada de su maravillosa costa. 
 
-![gaitero frente a la torre de Hércules](etheria-images/2022/09/coruna-torre-hercules.jpg "Torre de Hércules en A Coruña. © Susana García")
+![gaitero frente a la torre de Hércules](https://fotos.etheriamagazine.com/2022/09/coruna-torre-hercules.jpg "Torre de Hércules en A Coruña. © Susana García")
 
 Donde antiguamente se acababa el mundo conocido, en A Coruña, hoy comienza un recorrido 
 por los mejores secretos de la provincia más al noroeste de España. Nos dejamos cautivar 
@@ -30,7 +30,7 @@ los pies en el agua. Las rías, entregadas al mar, son reposo viajero a la vez q
 invitación exploradora para descubrir sus mejores secretos. Para, al fin, alcanzar la 
 Costa da Morte, el extremo más hermoso de un continente. 
 
-![Acantilados de cabo Ortegal en A Coruña](etheria-images/2022/09/coruna-cabo-ortegal.jpg "Costa de A Coruña en el Cabo Ortegal.")
+![Acantilados de cabo Ortegal en A Coruña](https://fotos.etheriamagazine.com/2022/09/coruna-cabo-ortegal.jpg "Costa de A Coruña en el Cabo Ortegal.")
 
 ## 15 visitas imprescindibles que ver en A Coruña:
 
@@ -59,7 +59,7 @@ marina. El mejor recuerdo te lo llevas recorriendo el paseo Marítimo que, a lo 
 13 kilómetros y discurriendo junto a las playas urbanas de Orzán y Riazor, es un balcón 
 imprescindible de horizonte abierto. 
 
-![fachada del ayuntamiento de A Coruña](etheria-images/2022/09/coruna-ayuntamiento.jpg "Ayuntamiento de A Coruña. © SG")
+![fachada del ayuntamiento de A Coruña](https://fotos.etheriamagazine.com/2022/09/coruna-ayuntamiento.jpg "Ayuntamiento de A Coruña. © SG")
 
 ? Imprescindible que tienes que ver en A Coruña: la **Torre de Hércules**. Puedes llegar 
 en bus (líneas 3, 3A y 5). Entrada general 3 €. A su lado se halla el parque Escultórico 
@@ -89,7 +89,7 @@ sus 2 kilómetros de longitud, frente a la isla de San Vicente, son sede del **F
 Internacional do Mundo Celta**. Cada verano, durante 4 días, la música folk suena 
 mientras en el pinar aledaño acampan miles de aficionados a la música celta. 
 
-![banco con vistas a los acantilados de Ortigueira](etheria-images/2022/09/ortigueira-banco.jpg ""El banco más bonito del mundo" está en Ortigueira. © Patricio Mauri")
+![banco con vistas a los acantilados de Ortigueira](https://fotos.etheriamagazine.com/2022/09/ortigueira-banco.jpg ""El banco más bonito del mundo" está en Ortigueira. © Patricio Mauri")
 
 #### Ría de Cedeira
 
@@ -101,7 +101,7 @@ acantilado (en Vixía Herbeira alcanza su mayor altura de 620 metros) es donde c
 la ancestral creencia gallega de acudir una vez en la vida al lugar que, según la 
 leyenda, marca el final de la Vía Láctea. 
 
-![Iglesia de Cedeira](etheria-images/2022/09/coruna-san-andres-teixido-cedeira.jpg "Santuario de San Andrés de Teixido.")
+![Iglesia de Cedeira](https://fotos.etheriamagazine.com/2022/09/coruna-san-andres-teixido-cedeira.jpg "Santuario de San Andrés de Teixido.")
 
 #### Ría de Ferrol
 
@@ -116,7 +116,7 @@ el castillo de San Felipe con las mejores vistas de la ría. Mientras que el bar
 Canido ofrece una colorista **ruta de las Meninas** entre callejeras intervenciones 
 artísticas. 
 
-![Ría de Ferrol en A Coruña](etheria-images/2022/09/a-coruna-ria-ferrol.jpg "Ría de Ferrol.")
+![Ría de Ferrol en A Coruña](https://fotos.etheriamagazine.com/2022/09/a-coruna-ria-ferrol.jpg "Ría de Ferrol.")
 
 ? Imprescindible que tienes que ver en A Coruña: el pueblo de **Redes**, en la vecina 
 ría de Ares. Esta localidad expone su esencia marinera en las viviendas cuyos porches 
@@ -134,7 +134,7 @@ Fisterra, el Monte Facho es un legendario enclave de la cultura celta donde estu
 altar Ara Solis para adorar al astro solar. Fue también faro prehistórico con hogueras 
 encendidas en su cumbre para orientar la navegación. 
 
-![Altar Ara Solis.](etheria-images/2022/09/coruna-aras-solis.jpg "Altar Ara Solis.")
+![Altar Ara Solis.](https://fotos.etheriamagazine.com/2022/09/coruna-aras-solis.jpg "Altar Ara Solis.")
 
 ? Si como a nosotras te fascinan los paisajes agrestes de la Costa da Morte, sigue **O 
 Camiño dos Faros**. Es otro lugar imprescindible que ver en A Coruña y discurre a lo 
@@ -156,7 +156,7 @@ a la ciudad de peregrinación.
 a toda 
 vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/). 
 
-![hombre pescando en Noia](etheria-images/2022/09/a-coruna-noia.jpg "Acantilados en Noia.")
+![hombre pescando en Noia](https://fotos.etheriamagazine.com/2022/09/a-coruna-noia.jpg "Acantilados en Noia.")
 
 ? Antes de partir busca la **playa de As Furnas** en Porto de Son, a ver si recuerdas 
 alguna de las escenas que aquí rodó Amenábar en su película Mar adentro. 
@@ -182,7 +182,7 @@ es un privilegiado mirador del pueblo. Frente a él se divisan los tres islotes 
 islas Sisargas, un importante refugio para aves marinas y migratorias donde se halla uno 
 de los faros más antiguos de la Costa da Morte. 
 
-![mar al atardecer en Malpica en A Coruña](etheria-images/2022/09/coruna-malpica.jpg "Playa en Malpica de Bergantiños. © Eduardo Fernández")
+![mar al atardecer en Malpica en A Coruña](https://fotos.etheriamagazine.com/2022/09/coruna-malpica.jpg "Playa en Malpica de Bergantiños. © Eduardo Fernández")
 
 #### Camariñas
 
@@ -194,7 +194,7 @@ los percebes batidos por el oleaje de tan agreste litoral. Sus playas son para s
 en el paraíso, solitarias y salvajes, como la enorme duna rampante de Monte Branco o los 
 atardeceres desde el cabo Vilán. 
 
-![faro al atardecer en Camariñas en A Coruña](etheria-images/2022/09/coruna-camarinas.jpg "Faro del cabo Vilán, en Camariñas.")
+![faro al atardecer en Camariñas en A Coruña](https://fotos.etheriamagazine.com/2022/09/coruna-camarinas.jpg "Faro del cabo Vilán, en Camariñas.")
 
 ? Imprescindible que tienes que ver en A Coruña: el faro del cabo Vilán es sede del 
 **Centro de Interpretación de naufragios, faros y señales marítimas**. Señala el 
@@ -212,7 +212,7 @@ que recorta la plaza Real con el Ayuntamiento en piedra rodeado de galerías
 acristaladas. Aunque para coqueta preferimos la plaza de San Roque con sus blancas casas 
 salpicadas de balcones y galerías que relumbran al sol. 
 
-![marina de Pontedeume.](etheria-images/2022/09/coruna-pontedeume.jpg "Pontedeume.")
+![marina de Pontedeume.](https://fotos.etheriamagazine.com/2022/09/coruna-pontedeume.jpg "Pontedeume.")
 
 A 3 kilómetros, el castillo de Andrade es un baluarte estratégico para la defensa de la 
 villa con unas magníficas vistas del pueblo y la ría de Ares. Está en el camino de las 
@@ -230,7 +230,7 @@ consideradas el timón y la vela del barco. Hasta que se rompiera hace unos año
 Pedra da Abalar (apoyada sobre dos puntas) se movía con el peso de las personas libres 
 de pecado. 
 
-![casas de Muxía por la noche](etheria-images/2022/09/coruna-muxia.jpg "Muxía al atardecer.")
+![casas de Muxía por la noche](https://fotos.etheriamagazine.com/2022/09/coruna-muxia.jpg "Muxía al atardecer.")
 
 ? Muy cerca, en el acantilado de Pedro da Boia, se halla el **monumento A Ferida** (la 
 herida), levantado en homenaje a la huella negra que dejó el petrolero Prestige en 2002 
@@ -248,7 +248,7 @@ de los yacimientos arqueológicos más espectaculares de Galicia. Es de los más
 poblados castreños (2000 años) y ocupa toda la punta do Castro con su veintena de 
 viviendas rodeadas por una muralla. 
 
-![Yacimiento de Castro Baroña en A Coruña.](etheria-images/2022/09/a-coruna-castro-barona.jpg "Yacimiento de Castro Baroña.")
+![Yacimiento de Castro Baroña en A Coruña.](https://fotos.etheriamagazine.com/2022/09/a-coruna-castro-barona.jpg "Yacimiento de Castro Baroña.")
 
 #### Camelle
 
@@ -270,7 +270,7 @@ Costa da Morte para ver esta dependencia de la iglesia sustentada sobre 22 pares
 pies. Aquí se guardaban los diezmos de cereal, especialmente maíz, entregados al clero 
 por los campesinos. 
 
-![Hórreo de Carnota.](etheria-images/2022/09/horreo-carnota.jpg "Hórreo de Carnota.")
+![Hórreo de Carnota.](https://fotos.etheriamagazine.com/2022/09/horreo-carnota.jpg "Hórreo de Carnota.")
 
 #### Dunas de Corrubedo
 
@@ -281,7 +281,7 @@ es móvil y avanza cada año entre 2 y 3 centímetros. Su extraordinaria aparien
 comenzó a formarse cuando todavía vivían los mamuts, junto a las vecinas lagunas de agua 
 dulce de Vixán y la salada de Carregal, constituye un parque natural. 
 
-![pasarela en las dunas de Corrubedo en A Coruña](etheria-images/2022/09/dunas-corrubedo.jpg "Acceso a las dunas de Corrubedo.")
+![pasarela en las dunas de Corrubedo en A Coruña](https://fotos.etheriamagazine.com/2022/09/dunas-corrubedo.jpg "Acceso a las dunas de Corrubedo.")
 
 ? Date un baño en alguna de sus dos playas consecutivas, tienes 3 kilómetros para 
 perderte. De sus itinerarios y riqueza natural puedes informarte en el centro de 

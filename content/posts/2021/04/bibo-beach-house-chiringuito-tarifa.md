@@ -1,7 +1,7 @@
 ---
 title: "BiBo Beach House, el “todo en uno” de Tarifa"
 date: 2021-04-09
-coverImage: etheria-images/2021/04/BIBO-Beach-House-Sala-3.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/04/BIBO-Beach-House-Sala-3.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -11,7 +11,7 @@ authors:
 
 ¿Cómo se podría llamar un lugar a pie de playa, con comida rica y creativa, escuela de surf y _chill out_ al atardecer? Nosotras le habríamos puesto “Todo en uno Tarifa”, pero no, es el BiBo Beach House Tarifa, la versión más playera del chef malagueño Dani García. Este 2021 abre sus puertas por tercer año consecutivo para sorprender a comensales, deportistas y curiosos.
 
-![Interior de bibo beach house tarifa](etheria-images/2021/04/BIBO-Beach-House-Sala-tarifa.jpg "Interior del Bibo Beach House Tarifa.")
+![Interior de bibo beach house tarifa](https://fotos.etheriamagazine.com/2021/04/BIBO-Beach-House-Sala-tarifa.jpg "Interior del Bibo Beach House Tarifa.")
 
 Si el nombre de _BiBo Beach House_ _Tarifa_ te suena pero no lo ubicas, te contamos que 
 BiBo es la marca bajo la que Dani García, un reconocido chef malagueño con varias 
@@ -24,7 +24,7 @@ Tarifa](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amig
 o esta [ruta por la provincia de 
 Cádiz](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/)) 
 
-![barra bar playa valdevaqueros tarifa](etheria-images/2021/04/BIBO-Beach-House-Barra-tarifa.jpg "Barra del Beach House Tarifa.")
+![barra bar playa valdevaqueros tarifa](https://fotos.etheriamagazine.com/2021/04/BIBO-Beach-House-Barra-tarifa.jpg "Barra del Beach House Tarifa.")
 
 ## Por qué visitar BiBo Beach House Tarifa
 
@@ -33,7 +33,7 @@ Cádiz](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-ca
 propuestas andaluzas e internacionales. Curiosea su carta en la web para ir abriendo 
 boca. 
 
-![Chirashi bibo tarifa](etheria-images/2021/04/BIBO-Tarifa-atun-Chirashi.jpg "Chirashi, uno de los platos estrella de Bibo Beach House Tarifa.")
+![Chirashi bibo tarifa](https://fotos.etheriamagazine.com/2021/04/BIBO-Tarifa-atun-Chirashi.jpg "Chirashi, uno de los platos estrella de Bibo Beach House Tarifa.")
 
 ### 1\. Para comer con el sello de Dani García
 
@@ -48,7 +48,7 @@ blanca, AOVE y hojas de capuchina. Y si ya quieres rizar el rizo, apuesta por el
 arroz de sushi, aliño picante y edamame. Este plato que nació en este local, ya ha sido 
 incluido en la carta del resto de BIBOs. 
 
-![hamburguesa brioche cojonudo chiringuito tarifa](etheria-images/2021/04/BIBO-Tarifa-Brioche-hamburguesa.jpg "Hamburguesa y mini brioche Cojonudo.")
+![hamburguesa brioche cojonudo chiringuito tarifa](https://fotos.etheriamagazine.com/2021/04/BIBO-Tarifa-Brioche-hamburguesa.jpg "Hamburguesa y mini brioche Cojonudo.")
 
 Como **platos principales** en este chiringuito de Tarifa ofrecen propuestas tan 
 apetecibles como la _**fish and chips burger**_, cuatro tipos de pizzas y magret de pato 
@@ -59,7 +59,7 @@ para**_ **_morir_**, con helado de Nutella, palomitas caramelizadas, avellanas, 
 de caramelo, coco y mermelada de limón. Saldrás, sin duda, con las pilas cargadas y 
 dispuesto a practicar _kitesurf_ como si no hubiese un mañana. 
 
-![bibo water surf kitesurf playa valdevaqueros](etheria-images/2021/04/BIBO-Beah-House-surf.jpg "BIBO Watersports, deportes acuáticos en la playa Valdevaqueros.")
+![bibo water surf kitesurf playa valdevaqueros](https://fotos.etheriamagazine.com/2021/04/BIBO-Beah-House-surf.jpg "BIBO Watersports, deportes acuáticos en la playa Valdevaqueros.")
 
 ### 2\. Para aprender kitesurfing
 
@@ -70,7 +70,7 @@ donde iniciarse en _kitesurf_, _surf_ y otras actividades deportivas. No es nece
 disponer de equipo porque allí te lo proporcionan todo, lo único que hay que decidir es 
 si disfrutar de este momento adrenalítico antes o después de comer. 
 
-![cocteles en bibo beach tarifa](etheria-images/2021/04/BIBO-Beach-House-Cocteles-tarifa.jpg "Ver atardecer con un cóctel en la mano, ¿hay algún plan mejor?")
+![cocteles en bibo beach tarifa](https://fotos.etheriamagazine.com/2021/04/BIBO-Beach-House-Cocteles-tarifa.jpg "Ver atardecer con un cóctel en la mano, ¿hay algún plan mejor?")
 
 ### 3\. Para tomar un cóctel al atardecer en su _chillout_
 
@@ -80,7 +80,7 @@ astro comienza a ocultarse, en BiBo Beach House se escucha de fondo el sonido de
 coctelera para maridar ese momento con espectaculares cócteles. ¿Se te ocurre un modo 
 mejor de comenzar la noche tarifeña? 
 
-![dani garcia en bibo beach house](etheria-images/2021/04/BIBO-Beach-House-Dani-García.jpg "Dani García en BIBO Beach House Tarifa.")
+![dani garcia en bibo beach house](https://fotos.etheriamagazine.com/2021/04/BIBO-Beach-House-Dani-García.jpg "Dani García en BIBO Beach House Tarifa.")
 
 ##### BIBO Beach House Tarifa
 
@@ -89,7 +89,7 @@ Maps.](https://www.google.com/maps/place/BIBO+BEACH+HOUSE+-+TARIFA/@36.0676006,-
 Horario cocina: De 13 a 16 horas (miércoles a domingo) y de 19.30 a 22.30 horas 
 (miércoles a sábado). Precio medio: 30 euros. 
 
-![basilica baelo claudia](etheria-images/2019/08/basilica-baelo-claudia-tarifa.jpg "Basílica de la ciudad romana de Baelo Claudia (Tarifa).")
+![basilica baelo claudia](https://fotos.etheriamagazine.com/2019/08/basilica-baelo-claudia-tarifa.jpg "Basílica de la ciudad romana de Baelo Claudia (Tarifa).")
 
 ### Cerca de Bibo Beach House Tarifa
 

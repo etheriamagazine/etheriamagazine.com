@@ -1,7 +1,7 @@
 ---
 title: "Norte de República Dominicana: naturaleza, ron y merengue"
 date: 2018-04-13
-coverImage: etheria-images/2018/04/Rep-Dominicana-Bayahibe.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/04/Rep-Dominicana-Bayahibe.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -13,7 +13,7 @@ si viajas con amigas, en familia o en pareja. Por supuesto, también puedes viaj
 aunque sola estarás poco... En este artículo hemos seleccionado algunas visitas y 
 excursiones imprescindibles que puedes hacer en el norte de la isla. ¡Que las disfrutes! 
 
-![bahía en República Dominicana](etheria-images/2018/04/Rep-Dominicana-Bayahibe-1024x539.jpg "El azul turquesa del mar es la mejor invitación al baño en República Dominicana.")
+![bahía en República Dominicana](https://fotos.etheriamagazine.com/2018/04/Rep-Dominicana-Bayahibe-1024x539.jpg "El azul turquesa del mar es la mejor invitación al baño en República Dominicana.")
 
 República Dominica es uno de esos destinos de verano eterno, donde disfrutar disfrutar 
 de la playa y el mar es una obligación. Posee varios centros turísticos con buenos 
@@ -42,7 +42,7 @@ delfines, tiburones y leones marinos.
 ✅ [Visita guiada por Puerto Plata con 
 Civitatis](https://www.civitatis.com/es/puerto-plata/visita-guiada-puerto-plata/?aid=10211). 
 
-![ventanas verdes en Puerto Plata](etheria-images/2018/04/Republica-Dominicana-Puerto-Plata-1024x683.jpg "En Puerto Plata la arquitectura recuerda a la época colonial.")
+![ventanas verdes en Puerto Plata](https://fotos.etheriamagazine.com/2018/04/Republica-Dominicana-Puerto-Plata-1024x683.jpg "En Puerto Plata la arquitectura recuerda a la época colonial.")
 
 ## Santiago: ron, merengue y tabaco
 
@@ -60,7 +60,7 @@ todo es industrial, también cuenta con una bien conservada catedral, el Monumen
 Héroes de la Restauración y un museo, el Centro León. La amplia comunidad universitaria, 
 por otra parte, contribuye a animar la fiesta nocturna en sus más de cien discotecas. 
 
-![Surfistas en playa Cabarete en República Dominicana](etheria-images/2018/04/Playa-del-Encuentro-1024x683.jpg "La playa de Cabarete es uno de las mecas del surf en República Dominicana.")
+![Surfistas en playa Cabarete en República Dominicana](https://fotos.etheriamagazine.com/2018/04/Playa-del-Encuentro-1024x683.jpg "La playa de Cabarete es uno de las mecas del surf en República Dominicana.")
 
 ## Cabarete, ideal para surfers
 
@@ -74,7 +74,7 @@ atraer a los deportistas al Campeonato Mundial de Windsurf y a la **Cabarete Rac
 Week**. Tanto si eres aficionado a la tabla como si no, disfrutarás del ambiente de los 
 bares y restaurantes que tientan día y noche. 
 
-![aves en el Parque Nacional de los Haitises](etheria-images/2018/04/Republica-Dominicana-P-N-Haitises-aves-1024x710.jpg "En el Parque Nacional de los Haitises se pueden ver centenares de aves tropicales.")
+![aves en el Parque Nacional de los Haitises](https://fotos.etheriamagazine.com/2018/04/Republica-Dominicana-P-N-Haitises-aves-1024x710.jpg "En el Parque Nacional de los Haitises se pueden ver centenares de aves tropicales.")
 
 ## Parque de los Haitises, una excursión imprescindible
 
@@ -106,7 +106,7 @@ aves.
 Levantado](https://www.civitatis.com/es/samana/excursion-haitises-cayo-levantado/?aid=10211) 
 con Civitatis. 
 
-![palmeras en Cayo Levantado en Samaná](etheria-images/2018/04/CayoLevantado-1024x577.jpg "Cayo Levantado es uno de los rincones secretos de Samaná.")
+![palmeras en Cayo Levantado en Samaná](https://fotos.etheriamagazine.com/2018/04/CayoLevantado-1024x577.jpg "Cayo Levantado es uno de los rincones secretos de Samaná.")
 
 ## Cayo Levantado, el pequeño paraíso dominicano
 
@@ -125,7 +125,7 @@ playas y resorts.
 ✅ [Excursión a Samaná con 
 Civitatis](https://www.civitatis.com/es/punta-cana/excursion-bahia-samana/?aid=10211). 
 
-![La naturaleza en Samaná se muestra exuberante.](etheria-images/2018/04/Republica-Dominicana-P-N-Haitises-2-1024x683.jpg "La naturaleza en Samaná se muestra exuberante.")
+![La naturaleza en Samaná se muestra exuberante.](https://fotos.etheriamagazine.com/2018/04/Republica-Dominicana-P-N-Haitises-2-1024x683.jpg "La naturaleza en Samaná se muestra exuberante.")
 
 ## Guía práctica: qué comer en República Dominicana
 

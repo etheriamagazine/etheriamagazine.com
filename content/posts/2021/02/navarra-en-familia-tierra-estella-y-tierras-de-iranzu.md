@@ -1,7 +1,7 @@
 ---
 title: "Tierra Estella y Tierras de Iranzu, planes para un viaje en familia a Navarra"
 date: 2021-02-08
-coverImage: etheria-images/2021/01/navarra-nacedero-urederra.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -14,7 +14,7 @@ Si no habías escuchado hablar de estas dos regiones navarricas repletas de bosq
 cascadas y pueblos bonitos marcados por la historia, en Etheria Magazine te damos ocho 
 razones para que las descubras en un viaje que conquistará a toda la familia. 
 
-![nacedero de urederra navarra](etheria-images/2021/01/navarra-nacedero-urederra-768x1024.jpg "El río Urederra rinde honor a su nombre en euskera, que significa ‘agua hermosa’. © KR")
+![nacedero de urederra navarra](https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra-768x1024.jpg "El río Urederra rinde honor a su nombre en euskera, que significa ‘agua hermosa’. © KR")
 
 A medio camino entre las cumbres del Pirineo navarro y la aridez de la Ribera, en la 
 Zona Media navarra, la merindad **Tierra Estella-Lizarraldea** acoge en su seno las 
@@ -37,7 +37,7 @@ autóctonas que, con suerte, dejarán muestra de su paso: jabalíes, martas e in
 guías de [Mugitu](https://mugitu.net/es/actividades), empresa local especializada en 
 todo tipo de actividades de aventura en la zona. 
 
-![navarra aldea baquedano](etheria-images/2021/01/Navarra-baquedano.jpg "La aldea de Baquedano se intrinca en el Valle de Las Améscoas. © KR")
+![navarra aldea baquedano](https://fotos.etheriamagazine.com/2021/01/Navarra-baquedano.jpg "La aldea de Baquedano se intrinca en el Valle de Las Améscoas. © KR")
 
 Una de las rutas más atractivas del Parque Natural de Urbasa-Andía se dirige hacia las 
 aguas turquesas del [Nacedero del río Urederra](https://nacederodelurederra.es/). El 
@@ -45,7 +45,7 @@ recorrido –apto para todos los niveles– se extiende a lo largo de seis kiló
 parten de la localidad de **Baquedano** y tienen como destino las pozas prístinas del 
 **nacimiento del Urederra**, de aspecto caribeño, aunque con aguas gélidas. 
 
-![toros en los montes de grocin navarra](etheria-images/2021/01/navarra-toros.jpg "En los montes de Grocin, los toros y las vacas de Miguel Reta disfrutan en un entorno de semicautividad. © KR")
+![toros en los montes de grocin navarra](https://fotos.etheriamagazine.com/2021/01/navarra-toros.jpg "En los montes de Grocin, los toros y las vacas de Miguel Reta disfrutan en un entorno de semicautividad. © KR")
 
 ## 2\. Hacer un safari ¿en Navarra?
 
@@ -58,7 +58,7 @@ virtuosa en festejos populares y lidia. Nos acercamos al mundo del toro desde un
 de vista campestre, en sus corrales, plazas de capeas y para disfrutar de un tentempié 
 rústico a base de panceta, chistorra y vino. 
 
-![pastor Alfonso Argandona navarra](etheria-images/2021/01/navarra-pastor.jpg "El pastor Alfonso Argandoña posa junto a su borda. © KR")
+![pastor Alfonso Argandona navarra](https://fotos.etheriamagazine.com/2021/01/navarra-pastor.jpg "El pastor Alfonso Argandoña posa junto a su borda. © KR")
 
 ## 3\. Comer en la borda de un auténtico pastor 
 
@@ -77,7 +77,7 @@ natural, ahumado y untable.
 
 > La ‘gazta zaharra’ es una deliciosa crema de queso viejo que produce auténtica adicción. 
 
-![monasterio de iranzu navarra](etheria-images/2021/01/navarra-monasterio.jpg "Interior del monasterio de Iranzu. © KR")
+![monasterio de iranzu navarra](https://fotos.etheriamagazine.com/2021/01/navarra-monasterio.jpg "Interior del monasterio de Iranzu. © KR")
 
 ## 4\. Monasterio de Iranzu, imponente silencio en plena naturaleza
 
@@ -99,7 +99,7 @@ esconden doce tesoros en los alrededores para los amantes del [geocaching](https
 una divertida actividad en la que se buscan objetos mediante GPS y técnicas de realidad 
 aumentada. 
 
-![hipica acedo navarra](etheria-images/2021/01/navarra-hipica.jpg "La Hípica Acedo organiza peregrinaciones a caballo para realizar el Camino de Santiago. © KR")
+![hipica acedo navarra](https://fotos.etheriamagazine.com/2021/01/navarra-hipica.jpg "La Hípica Acedo organiza peregrinaciones a caballo para realizar el Camino de Santiago. © KR")
 
 ## 5\. Tres planes superactivos: apicultora, amazona y salinera por un día
 
@@ -126,7 +126,7 @@ La localidad acoge las **salineras Nuin Eraso y Gironés**, y sus praderas blanq
 de sal reflejan los rayos del sol en una relajante estampa, ideal para despedirnos de 
 una jornada tan activa. 
 
-![jardines del Museo Henri Lenaerts navarra](etheria-images/2021/01/navarra-lenaerts.jpg "Los jardines del Museo Henri Lenaerts albergan veintidós esculturas de bronce. Ésta se llama ‘Yogui’. © KR")
+![jardines del Museo Henri Lenaerts navarra](https://fotos.etheriamagazine.com/2021/01/navarra-lenaerts.jpg "Los jardines del Museo Henri Lenaerts albergan veintidós esculturas de bronce. Ésta se llama ‘Yogui’. © KR")
 
 ## 6\. Un retiro yogui, pero de pueblo
 
@@ -140,7 +140,7 @@ artística regia de la que provenía. El que fuera su hogar durante 35 años es 
 importante epicentro de **yoga y meditación** con talleres desarrollados en coordinación 
 con la Universidad Pública de Navarra (UPNA). 
 
-![quaderna via navarra](etheria-images/2021/01/navarra-quaderna-via.jpg "Juan Andrés Pastor es guía de la bodega Quaderna Vía y explica el proceso de producción ecológica de sus vinos. © KR")
+![quaderna via navarra](https://fotos.etheriamagazine.com/2021/01/navarra-quaderna-via.jpg "Juan Andrés Pastor es guía de la bodega Quaderna Vía y explica el proceso de producción ecológica de sus vinos. © KR")
 
 ## 7\. Férrea tradición gastronómica
 
@@ -157,7 +157,7 @@ traduce su pasión en originales elaboraciones, como el ‘Falso tomate de Valde
 alcachofas en texturas –especialmente sorprendentes– o su exitoso **‘Lingote de gorrín 
 Pío Navarro’**. Y todo, en un sencillo local que parece sacado de los años ochenta. 
 
-![esparragos de navarra y queso idiazabal](etheria-images/2021/01/navarra-esparragos-queso.jpg "Los espárragos de Navarra se caracterizan por su textura suave, por su nula fibrosidad y por su exquisito sabor. El sello del Queso Idiazábal garantiza su autenticidad. © KR")
+![esparragos de navarra y queso idiazabal](https://fotos.etheriamagazine.com/2021/01/navarra-esparragos-queso.jpg "Los espárragos de Navarra se caracterizan por su textura suave, por su nula fibrosidad y por su exquisito sabor. El sello del Queso Idiazábal garantiza su autenticidad. © KR")
 
 ### Vinos de Tierra Estella
 
@@ -170,7 +170,7 @@ tradicionales. Es decir, anteponen la calidad sobre la cantidad de producción. 
 sus etiquetas prestan especial atención a los paladares milenials, porque consideran que 
 el futuro del vino es ahora. 
 
-![puente de estella navarra](etheria-images/2021/01/Navarra-estella-1.jpg "Más vale coger aire antes de cruzar el empinado Puente de la Cárcel (o Puente Picudo) de Estella. De origen medieval, fue destruido durante las Guerras Carlistas y reconstruido posteriormente. © KR")
+![puente de estella navarra](https://fotos.etheriamagazine.com/2021/01/Navarra-estella-1.jpg "Más vale coger aire antes de cruzar el empinado Puente de la Cárcel (o Puente Picudo) de Estella. De origen medieval, fue destruido durante las Guerras Carlistas y reconstruido posteriormente. © KR")
 
 ## 8\. Estella, la dosis de medievalismo necesaria
 
@@ -184,7 +184,7 @@ lista de castillos, palacios, iglesias, conventos y basílicas. El **ascensor ur
 que se eleva hacia las calles de San Nicolás y Zalatambor nos regalará una excelente 
 panorámica de su _skyline_ histórico. 
 
-![iglesia San Pedro de la Rua en Estella](etheria-images/2021/01/navarra-tierra-estella.jpg "La escalinata por la que se accede a la iglesia San Pedro de la Rúa, en Estella le otorga un aspecto ascensional espiritual. © KR")
+![iglesia San Pedro de la Rua en Estella](https://fotos.etheriamagazine.com/2021/01/navarra-tierra-estella.jpg "La escalinata por la que se accede a la iglesia San Pedro de la Rúa, en Estella le otorga un aspecto ascensional espiritual. © KR")
 
 > Aunque la apoden ‘la Toledo del norte’, a Estella no le hacen falta comparaciones. 
 
@@ -193,7 +193,7 @@ perfecta para integrarse en el entorno navarro del Camino de Santiago y para viv
 primera persona el ambiente de especial compadreo y afabilidad entre los peregrinos. 
 Dedícales un “¡Buen camino!”. 
 
-![fuente del Vino de las Bodegas de Irache](etheria-images/2021/01/navarra-peregrinos.jpg "La fuente del Vino de las Bodegas de Irache recibe la visita de numerosos peregrinos que no pierden la oportunidad de llenar su cantimplora con vino navarro. © KR")
+![fuente del Vino de las Bodegas de Irache](https://fotos.etheriamagazine.com/2021/01/navarra-peregrinos.jpg "La fuente del Vino de las Bodegas de Irache recibe la visita de numerosos peregrinos que no pierden la oportunidad de llenar su cantimplora con vino navarro. © KR")
 
 ### También te puede interesar...
 

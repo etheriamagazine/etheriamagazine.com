@@ -1,7 +1,7 @@
 ---
 title: "El Puerto de Santa María, entre palacios, playas y vino"
 date: 2021-11-01
-coverImage: etheria-images/2021/10/Plaza-Espana-puerto-santa-maria.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
@@ -15,7 +15,7 @@ Cien palacios, Colón, playas de arena, vinos de Jerez y noches largas sintetiza
 esta guía de El Puerto de Santa María. Si quieres saber qué ver y hacer en la ciudad del 
 vaporcito has encontrado el lugar perfecto. 
 
-![castillo san marcos puerto santa maria](etheria-images/2021/10/castillo-san-marcos.jpg "Interior del castillo de San Marcos, en El Puerto de Santa María.")
+![castillo san marcos puerto santa maria](https://fotos.etheriamagazine.com/2021/10/castillo-san-marcos.jpg "Interior del castillo de San Marcos, en El Puerto de Santa María.")
 
 **Actualizado en abril de 2024.** 
 
@@ -28,7 +28,7 @@ todas las gamas de rojos y ocres. En esta **guía de El Puerto de Santa María**
 daremos muchos datos prácticos pero también tiene cabida el romanticismo, estás 
 avisada... 
 
-![plaza de espana el puerto cadiz](etheria-images/2021/10/Plaza-Espana-puerto-santa-maria-900x464.jpg "Plaza de España, en El Puerto de Santa María.")
+![plaza de espana el puerto cadiz](https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria-900x464.jpg "Plaza de España, en El Puerto de Santa María.")
 
 ## Adiós al vaporcito, hola a la modernidad
 
@@ -49,7 +49,7 @@ décadas comunicando Cádiz capital con El Puerto de Santa María. Ese mismo ser
 prestan ahora los catamaranes del Consorcio de Transportes de la Bahía de Cádiz, más 
 prosaicos pero, a cambio, mucho más cómodos, rápidos y seguros. 
 
-![muelle el puerto santa maria cadiz](etheria-images/2021/10/muelle-puerto-santa-maria.jpg "Muelle de Puerto Sherry, en El Puerto de Santa María. © Jorge Roa")
+![muelle el puerto santa maria cadiz](https://fotos.etheriamagazine.com/2021/10/muelle-puerto-santa-maria.jpg "Muelle de Puerto Sherry, en El Puerto de Santa María. © Jorge Roa")
 
 La terminal marítima de El Puerto está en pleno centro de la localidad, a dos pasos de 
 la **Ribera del Marisco**, plagada de bares y restaurantes en los que probar los frutos 
@@ -63,7 +63,7 @@ varias delegaciones en la ciudad. En verano las mesas de su terraza suelen estar
 rebosar de turistas que alucinan con los cucuruchos de pescaíto frito y/o mariscos 
 varios. Están bien, pero a algunos el precio se les antoja excesivo. 
 
-![pescado frito de romerijo el puerto de santa maria](etheria-images/2021/10/Bandeja-de-Pescaito-Frito-Romerijo.jpg "Pescaíto frito de Romerijo.")
+![pescado frito de romerijo el puerto de santa maria](https://fotos.etheriamagazine.com/2021/10/Bandeja-de-Pescaito-Frito-Romerijo.jpg "Pescaíto frito de Romerijo.")
 
 Más confortables para comer y con igual o mejor calidad son los pescados que sirven en 
 locales tan populares como **La Dorada**, el bar **Gonzalo** (Micaela Aramburu de Mora, 
@@ -72,7 +72,7 @@ elaboradas tiene la opción de comer en **La Micaela** (Micaela Aramburu de Mora
 en **La Bodeguilla del Bar Jamón**, en plena calle Misericordia, que es la más 
 gastronómica del centro de El Puerto. 
 
-![la micaela el puerto de santa maria](etheria-images/2021/10/la-micaela-bar.jpg "Choco sobre cama de patatas de La Micaela.")
+![la micaela el puerto de santa maria](https://fotos.etheriamagazine.com/2021/10/la-micaela-bar.jpg "Choco sobre cama de patatas de La Micaela.")
 
 ### Las propuestas del portuense Ángel León
 
@@ -83,7 +83,7 @@ lo ocupa [La Taberna del Chef del Mar](https://latabernadelchefdelmar.com/), en 
 el genial cocinero, descubridor incansable de productos y sabores marinos, ofrece su 
 creatividad en raciones y tapas a precios relativamente asequibles. 
 
-![a levante de angel leon el puerto de santa maria](etheria-images/2021/10/Alevante-by-angel-Leon.jpg "© A Levante by Ángel León.")
+![a levante de angel leon el puerto de santa maria](https://fotos.etheriamagazine.com/2021/10/Alevante-by-angel-Leon.jpg "© A Levante by Ángel León.")
 
 Aunque, claro, cómo no recomendar el actual [A Poniente](https://www.aponiente.com/). No 
 hará falta remarcar que no es un restaurante para todos los bolsillos (menú degustación 
@@ -94,7 +94,7 @@ valiosísimo: el restaurante se encuentra en medio de la antigua salina de San J
 lugar reconquistado en parte por la naturaleza y que alberga una gran biodiversidad 
 subacuática y ornitológica. 
 
-![ruta bicicleta parque torunos](etheria-images/2021/10/ruta-bicicleta-parque-el-puerto.jpg "Ruta en bicicleta por el parque de los Toruños.")
+![ruta bicicleta parque torunos](https://fotos.etheriamagazine.com/2021/10/ruta-bicicleta-parque-el-puerto.jpg "Ruta en bicicleta por el parque de los Toruños.")
 
 ## Entre las salinas, las playas y el cielo
 
@@ -107,7 +107,7 @@ varias especies de gaviotas, entre otras muchas aves. Un buen lugar para hacerlo
 recorriendo a pie o en bicicleta el **Parque de los Toruños**, muy próximo a la ensenada 
 de Valdelagrana. 
 
-![paseo playa valdelagrana](etheria-images/2021/10/paseo-valdelagrana.jpg "Paseo marítimo en la playa de Valdelagrana. © Jorge Roa")
+![paseo playa valdelagrana](https://fotos.etheriamagazine.com/2021/10/paseo-valdelagrana.jpg "Paseo marítimo en la playa de Valdelagrana. © Jorge Roa")
 
 ### Playa de Valdelagrana
 
@@ -121,7 +121,7 @@ kilómetros que se suman sin interrupción a los 4,3 kilómetros de la playa de 
 (lo que la hace ideal para ir con niños y personas con movilidad reducida) y está 
 surtida por todo tipo de servicios, tiendas, bares y restaurantes. 
 
-![playa la muralla el puerto de santa maria](etheria-images/2021/10/playa-Muralla-el-puerto-cadiz.jpg "Atardecer en la playa La Muralla.")
+![playa la muralla el puerto de santa maria](https://fotos.etheriamagazine.com/2021/10/playa-Muralla-el-puerto-cadiz.jpg "Atardecer en la playa La Muralla.")
 
 ### Playas menos urbanas de El Puerto de Santa María
 
@@ -135,7 +135,7 @@ predominantes en la zona (levante y poniente) azotan de lo lindo. Además, al se
 cala que playa, el sol calienta el agua del mar, lo que prolonga la temporada de baño 
 hasta bien entrado el otoño. 
 
-![rio guadalete el puerto de santa maria](etheria-images/2021/10/rio-guadalete-el-puerto.jpg "Vistas desde el río Guadalete.")
+![rio guadalete el puerto de santa maria](https://fotos.etheriamagazine.com/2021/10/rio-guadalete-el-puerto.jpg "Vistas desde el río Guadalete.")
 
 ## El lujo está en las vistas a la bahía
 
@@ -158,7 +158,7 @@ pena probar su _poor boy de gambones_, su bocata de calamares y el de costillas,
 ellos servidos en los increíbles y crujientes molletes artesanos que elaboran en el 
 **Molino de Abajo** de la serrana y gaditana localidad de El Bosque. 
 
-![puerto sherry el puerto de santa maria](etheria-images/2021/10/puerto-sherry-702x1024.jpg "Puerto Sherry, una de las zonas más glamurosas de El Puerto de Santa María.")
+![puerto sherry el puerto de santa maria](https://fotos.etheriamagazine.com/2021/10/puerto-sherry-702x1024.jpg "Puerto Sherry, una de las zonas más glamurosas de El Puerto de Santa María.")
 
 ## Largas noches portuenses
 
@@ -175,7 +175,7 @@ portuense, que tiene otra delegación en Jerez. Muy cerca está la sala **Mucho 
 musical; y también el bar de copas **Royal** (Plaza de las Galeras Reales), siempre muy 
 animado. 
 
-![yacimiento dona blanca](etheria-images/2021/10/Yacimiento-de-Dona-Blanca-683x1024.jpg "Yacimiento arqueológico de Doña Blanca, con el puente de La Pepa al fondo.")
+![yacimiento dona blanca](https://fotos.etheriamagazine.com/2021/10/Yacimiento-de-Dona-Blanca-683x1024.jpg "Yacimiento arqueológico de Doña Blanca, con el puente de La Pepa al fondo.")
 
 ## Riquezas patrimoniales y en la copa
 
@@ -201,7 +201,7 @@ Cien Palacios), auténticas y deliciosas, en la que elaboran unas tejas de almen
 piñones (con variedades para diversas intolerancias alimenticias) que resultan 
 imposibles de olvidar. 
 
-![fundacion rafael alberti](etheria-images/2021/10/Fundacion-Rafael-Alberti.jpg "© Fundación Rafael Alberti.")
+![fundacion rafael alberti](https://fotos.etheriamagazine.com/2021/10/Fundacion-Rafael-Alberti.jpg "© Fundación Rafael Alberti.")
 
 Muchos de aquellos palacios han desaparecido; otros están en un triste desuso o ruindad; 
 algunos se han acabado dividiendo en apartamentos; muy pocos siguen siendo residencia de 
@@ -212,7 +212,7 @@ Es el caso de la **Fundación Rafael Alberti**, el gran poeta portuense, que aco
 casa natal el legado artístico cedido tanto por él como por su mujer, María Teresa León, 
 con la intención de preservar su memoria y su obra. 
 
-![castillo san marcos el puerto santa maria](etheria-images/2021/10/castillo-san-marcos-puerto-santa-maria.jpg "Castillo de San Marcos, en El Puerto de Santa María. © Jorge Roa")
+![castillo san marcos el puerto santa maria](https://fotos.etheriamagazine.com/2021/10/castillo-san-marcos-puerto-santa-maria.jpg "Castillo de San Marcos, en El Puerto de Santa María. © Jorge Roa")
 
 ## El castillo de Colón y los vinos de solera
 
@@ -229,7 +229,7 @@ espirituosas y vinos del Marco de Jerez (los solicitados Lustau pertenecen a est
 grupo). Durante las visitas se incluye un paseo por la bodega que ocupa hoy parte de las 
 antiguas dependencias medievales, así como una degustación de sus productos. 
 
-![bodega osborne el puerto de santa maria](etheria-images/2021/10/bodega-osborne.jpg "Visitar la bodega Mora, un plan imprescindible en El Puerto de Santa María.")
+![bodega osborne el puerto de santa maria](https://fotos.etheriamagazine.com/2021/10/bodega-osborne.jpg "Visitar la bodega Mora, un plan imprescindible en El Puerto de Santa María.")
 
 ### Bodega de Mora
 
@@ -246,7 +246,7 @@ Tan importante es el toro de Osborne que hasta le han dedicado aquí un museo (*
 Gallery**) con versiones del emblema de la casa realizadas por artistas como Salvador 
 Dalí, Annie Lebovitz, Richard Avedon, Helmut Newton o Keith Haring. 
 
-![toro gallery puerto santa maria](etheria-images/2021/10/Toro-Gallery-El-Puerto-de-Santa-Maria.jpg "Toro Gallery, en El Puerto de Santa María.")
+![toro gallery puerto santa maria](https://fotos.etheriamagazine.com/2021/10/Toro-Gallery-El-Puerto-de-Santa-Maria.jpg "Toro Gallery, en El Puerto de Santa María.")
 
 Degustar los vinos de Osborne, incluso “jugando” a mezclar variedades en su sala de 
 catas, es una de las mejores maneras de despedirse de El Puerto de Santa María hasta una 

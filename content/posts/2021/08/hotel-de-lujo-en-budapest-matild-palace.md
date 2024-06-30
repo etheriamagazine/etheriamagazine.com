@@ -1,7 +1,7 @@
 ---
 title: "No te pierdas el renovado Matild Palace, tu hotel de lujo en Budapest"
 date: 2021-08-16
-coverImage: etheria-images/2021/08/Matild-Palace-exterior-Budapest.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/08/Matild-Palace-exterior-Budapest.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 Si buscas un hotel de lujo en Budapest para alojarte en la preciosa capital de Hungría una excelente opción es el recientemente renovado Matild Palace, a Luxury Collection Hotel. Uno de esos hoteles que llegan a las ciudades para hacerlas más atractivas e interesantes y formar parte de su oferta de ocio de calidad. Es perfecto para darse un capricho.
 
-![Matild Palace, a Luxury Collection Hotel.](etheria-images/2021/08/Matild-Palace-exterior-Budapest.jpg "Matild Palace, a Luxury Collection Hotel.")
+![Matild Palace, a Luxury Collection Hotel.](https://fotos.etheriamagazine.com/2021/08/Matild-Palace-exterior-Budapest.jpg "Matild Palace, a Luxury Collection Hotel.")
 
 La capital húngara es una de esas ciudades que hay que visitar al menos una vez en la 
 vida, y ya que organizamos una escapada, ¿por qué no hacerlo en un hotel de lujo en 
@@ -28,7 +28,7 @@ reforma, cuyos interiores han estado dirigidos por **Maria Vafiadis**, fundadora
 Design, se ha conseguido mantener su aire majestuoso de edificio palaciego combinándolo 
 con un ambiente actual y dinámico propio de una gran ciudad. 
 
-![Lobby del hotel Matild Palace.](etheria-images/2021/08/Matild-Palace-Lobby-Budapest.jpg "Lobby del hotel Matild Palace.")
+![Lobby del hotel Matild Palace.](https://fotos.etheriamagazine.com/2021/08/Matild-Palace-Lobby-Budapest.jpg "Lobby del hotel Matild Palace.")
 
 Como detalles históricos te contamos que se construyó hace 120 años en estilo _Belle 
 Epoque_ y la patrocinadora fue Su Alteza Imperial y Real María Clotilde de 
@@ -47,7 +47,7 @@ baños, inspirados en los balnearios de aguas termales tan típicos de Hungría.
 en familia no dudes en preguntar por las habitaciones comunicadas, la forma más cómoda 
 de viajar con niños. 
 
-![Danube River View Room del Matild Palace..](etheria-images/2021/08/Danube-River-View-Room-Matild-Palace-Budapest.jpg "Danube River View Room.")
+![Danube River View Room del Matild Palace..](https://fotos.etheriamagazine.com/2021/08/Danube-River-View-Room-Matild-Palace-Budapest.jpg "Danube River View Room.")
 
 Si quieres vivir una experiencia aún más especial, no dudes en reservar una de las 
 **habitaciones Loft** ubicadas en la parte alta del Matild Palace. Tienen unas vistas 
@@ -60,7 +60,7 @@ suite muy especial es la **Suite Real Maria Clotilde**, que trata de recrear (en
 moderna) la que hubiera sido la estancia privada de la Duquesa. Aquí no podrás apartar 
 los ojos de las lámparas de araña ni de los mosaicos de cristal hechos a mano. 
 
-![Decoración de una Loft Room.](etheria-images/2021/08/Loft-Room-Danube-River-Matild-Palace-Budapest.jpg "Decoración de una Loft Room.")
+![Decoración de una Loft Room.](https://fotos.etheriamagazine.com/2021/08/Loft-Room-Danube-River-Matild-Palace-Budapest.jpg "Decoración de una Loft Room.")
 
 ## Gastronomía de la mano de Wolfgang Puck
 
@@ -70,7 +70,7 @@ famoso restaurante de Beverly Hills **Spago by Wolfgang Puck** debuta en Hungrí
 hotel con una carta basada en productos y recetas tradicionales de Hungría con un toque 
 de vanguardia. 
 
-![Barra del restaurante Spago by Wolfgang Puck.](etheria-images/2021/08/Matild-Palace-Spago-Budapest.jpg "Barra del restaurante Spago by Wolfgang Puck.")
+![Barra del restaurante Spago by Wolfgang Puck.](https://fotos.etheriamagazine.com/2021/08/Matild-Palace-Spago-Budapest.jpg "Barra del restaurante Spago by Wolfgang Puck.")
 
 También se notará su mano en uno de los lugares más especiales del hotel: **The 
 Duchess**, el bar de la azotea, pensado como una licorería clandestina. Y en el **Matild 
@@ -89,7 +89,7 @@ la terapia termal tradicional y los rituales del hamman de Turquía. No sabrás 
 tratamiento o masaje elegir. Y, como no todo va a ser relajarse, cuenta con un 
 **gimnasio** perfectamente equipado para no perder la forma durante las vacaciones. 
 
-![Baño de la Habitación Deluxe.](etheria-images/2021/08/Deluxe-Room-Bano-Matild-Palace-Budapest.jpg "Sofisticado baño de la habitación Deluxe.")
+![Baño de la Habitación Deluxe.](https://fotos.etheriamagazine.com/2021/08/Deluxe-Room-Bano-Matild-Palace-Budapest.jpg "Sofisticado baño de la habitación Deluxe.")
 
 [Matild 
 Palace](https://www.marriott.com/hotels/travel/budlc-matild-palace-a-luxury-collection-hotel-budapest/) 

@@ -1,7 +1,7 @@
 ---
 title: "Cómo combatir los vuelos largos y no bajar del avión con cara de acelga"
 date: 2018-06-13
-coverImage: etheria-images/2018/06/neceser-avion-ala.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/06/neceser-avion-ala.jpg
 categories: 
   - que-llevar-en-la-maleta
 authors: 
@@ -12,7 +12,7 @@ Las condiciones de la cabina de un avión no son las mejores para la piel pero c
 sencillos gestos y la ayuda de la bendita cosmética podemos conseguir incluso comenzar 
 las vacaciones con buena cara desde el primer instante. 
 
-![Una viajera camina por el aeropuerto con una bolsa.](etheria-images/2018/06/neceser-para-avion-mujer-aerpuerto-1024x683.jpg "la piel se apaga tras los vuelos largos")
+![Una viajera camina por el aeropuerto con una bolsa.](https://fotos.etheriamagazine.com/2018/06/neceser-para-avion-mujer-aerpuerto-1024x683.jpg "la piel se apaga tras los vuelos largos")
 
 Se considera que el **jet lag** aparece si cruzamos más de cinco zonas horarias. Algunos 
 consejos para combatirlo son descansar todo lo que se pueda los días previos y al llegar 
@@ -41,7 +41,7 @@ virgen extra y glicerina natural tiene un alto poder hidrante. Para contrarresta
 hinchazón de las piernas, puedes utilizar un gel de piernas ligeras como el de 
 _Vitiven_, que mejorará la sensación antes de subir a bordo. 
 
-![productos de The Body Shop](etheria-images/2022/09/maleta-argentina-neceser.jpg "Productos perfectos para viaje de The Body Shop: jabón sólido e hidratante con protección solar")
+![productos de The Body Shop](https://fotos.etheriamagazine.com/2022/09/maleta-argentina-neceser.jpg "Productos perfectos para viaje de The Body Shop: jabón sólido e hidratante con protección solar")
 
 ## Durante el vuelo
 

@@ -1,7 +1,7 @@
 ---
 title: "Tánger, ¿qué tiene su medina que encandiló a Matisse y a Carmina Ordóñez?"
 date: 2022-08-16
-coverImage: etheria-images/2022/08/tanger-mirador-bonito.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/08/tanger-mirador-bonito.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -17,7 +17,7 @@ puesto en el Magreb coloca a Tánger en una ubicación exclusiva dentro de Áfri
 más que suficiente para descubrir todos sus entresijos en una aventura con amigas 
 exótica, cercana y muy, muy estimulante. 
 
-![La muralla medieval de Tánger al atardecer.](etheria-images/2022/08/tanger-con-amigas.jpg "Muralla medieval de Tánger al atardecer. © Kelu Robles")
+![La muralla medieval de Tánger al atardecer.](https://fotos.etheriamagazine.com/2022/08/tanger-con-amigas.jpg "Muralla medieval de Tánger al atardecer. © Kelu Robles")
 
 Quien se haya dejado llevar previamente por el tumulto de las medinas magrebíes no se 
 sorprenderá al recorrer la de Tánger. O sí, porque esta medina habla su propio idioma de 
@@ -43,7 +43,7 @@ andalusí de esos que no se olvidan. Así obtendremos previamente una visión de
 luego conquistaremos a pie. Esto significa que también descenderemos hasta el puerto por 
 sus cuestas serpenteantes, aunque tarde o temprano nos toque desandar el camino. 
 
-![café en la medina de Tánger](etheria-images/2022/08/tanger-mirador-bonito.jpg "Cada recoveco de la medina se aprovecha como improvisado mirador del atardecer. © K.R.")
+![café en la medina de Tánger](https://fotos.etheriamagazine.com/2022/08/tanger-mirador-bonito.jpg "Cada recoveco de la medina se aprovecha como improvisado mirador del atardecer. © K.R.")
 
 ### Pasado bohemio de Tánger
 
@@ -54,7 +54,7 @@ encontramos. Este rincón de la medina no ha sufrido el paso del tiempo. Quizá 
 ambiente imperturbable de la ciudad es lo que conquistó a Mark Twain y a Francis Ford 
 Coppola para pasar sus días de descanso aquí. 
 
-![Cuadro de H. Matisse The Marabout y esquina de la medina de Tánger.](etheria-images/2022/08/tanger-calles-matisse.jpg "Cuadro de H. Matisse The Marabout y esquina de la medina de Tánger. © K.R.")
+![Cuadro de H. Matisse The Marabout y esquina de la medina de Tánger.](https://fotos.etheriamagazine.com/2022/08/tanger-calles-matisse.jpg "Cuadro de H. Matisse The Marabout y esquina de la medina de Tánger. © K.R.")
 
 Las calles de Tánger no hablan, pero sí lo hacen sus habitantes: algunos, sin más 
 pretensiones que demostrar que su cultura es altamente comunicativa. Otros (la mayoría), 
@@ -70,7 +70,7 @@ han pasado Kofi Annan, Patti Smith y hasta los reyes de España y Suecia. Hoy, l
 jóvenes de la medina que frecuentan este local toman té con menta, cócteles sin alcohol 
 bautizados como ‘_Sex on the beach_’ y fuman hachís. 
 
-![Los gatos son bienvenidos en toda la medina tangerina.](etheria-images/2022/08/tanger-medina-gato.jpg "Los gatos son bienvenidos en toda la medina tangerina. © K.R.")
+![Los gatos son bienvenidos en toda la medina tangerina.](https://fotos.etheriamagazine.com/2022/08/tanger-medina-gato.jpg "Los gatos son bienvenidos en toda la medina tangerina. © K.R.")
 
 Lo hacen mientras observan la llegada de foráneos y foráneas que buscan revivir lo que 
 sintieron sus "Satánicas Majestades" en sus aventuras tangerinas. A diferencia de otros 
@@ -94,7 +94,7 @@ pasado como Zona Internacional, cuando la ciudad fue un protectorado ejercido po
 países hasta la independencia de Marruecos en 1956. Aunque todo sea dicho, esa faceta 
 multicultural de su historia no fue una novedad. 
 
-![Las parabólicas y los tendales forman parte de las blanquecinas azoteas tangerinas.](etheria-images/2022/08/Tanger-azotea-mirador.jpg "Las parabólicas y los tendales forman parte de las blanquecinas azoteas tangerinas. © K.R.")
+![Las parabólicas y los tendales forman parte de las blanquecinas azoteas tangerinas.](https://fotos.etheriamagazine.com/2022/08/Tanger-azotea-mirador.jpg "Las parabólicas y los tendales forman parte de las blanquecinas azoteas tangerinas. © K.R.")
 
 Tánger ha sido invadida a lo largo de los siglos por casi todo el mundo: fenicios, 
 cartagineses, romanos, almorávides, portugueses y españoles, y esa mezcla es la 
@@ -104,7 +104,7 @@ París** y la plaza de Francia, la Casa de España y el **Teatro Cervantes**, el
 el escenario más grande del norte de África. No habrá taxista que se acerque por la zona 
 que no informe al turista español de estas cuestiones. 
 
-![Fachada del Cinema Rif en la Plaza del 9 de Abril.](etheria-images/2022/08/tanger-cinema-rif.jpg "Fachada del Cinema Rif en la Plaza del 9 de Abril. © K.R.")
+![Fachada del Cinema Rif en la Plaza del 9 de Abril.](https://fotos.etheriamagazine.com/2022/08/tanger-cinema-rif.jpg "Fachada del Cinema Rif en la Plaza del 9 de Abril. © K.R.")
 
 ## La Plaza del 9 de Abril y la medina
 
@@ -127,7 +127,7 @@ La actividad comercial sólo se detiene los viernes, el día sagrado en la relig
 musulmana, y durante el rezo que se repite en cinco ocasiones al día, una de ellas al 
 amanecer y otra al atardecer. 
 
-![Expositor de productos del Chez Hassan y aceitunas aliñadas sobre cerámica artesanal.](etheria-images/2022/08/tanger-que-comer.jpg "Expositor de productos del Chez Hassan y aceitunas aliñadas sobre cerámica artesanal. © K.R.")
+![Expositor de productos del Chez Hassan y aceitunas aliñadas sobre cerámica artesanal.](https://fotos.etheriamagazine.com/2022/08/tanger-que-comer.jpg "Expositor de productos del Chez Hassan y aceitunas aliñadas sobre cerámica artesanal. © K.R.")
 
 ### Dónde comer en la medina
 
@@ -148,7 +148,7 @@ del 9 de Abril) en el **Cinema Rif**, un antiguo cine instalado en un local de 1
 donde los jóvenes más _cool_ de Tánger toman cafés y tés que triplican los precios de la 
 medina y donde disfrutan de alguna película de su cartelera nada comercial. 
 
-![Gruta de Hércules con forma de África y pescadores junto al Cabo Espartel.](etheria-images/2022/08/tanger-gruta-hercules-cabo-espartel.jpg "Gruta de Hércules con forma de África y pescadores junto al Cabo Espartel. © K.R.")
+![Gruta de Hércules con forma de África y pescadores junto al Cabo Espartel.](https://fotos.etheriamagazine.com/2022/08/tanger-gruta-hercules-cabo-espartel.jpg "Gruta de Hércules con forma de África y pescadores junto al Cabo Espartel. © K.R.")
 
 ## Excursión desde Tánger: la gruta de Hércules y el abrazo de los mares
 
@@ -163,7 +163,7 @@ en su herida rocosa abierta hacia el mar. La leyenda cuenta que aquí se refugi�
 griego, pero para acceder a su interior, que se recorre en apenas unos minutos, es 
 preciso pagar una entrada de unos 60 dirhams (unos 6 euros). 
 
-![La fachada del Hotel Continental se eleva frente al paseo marítimo de Tánger.](etheria-images/2022/08/tanger-hotel-continental.jpg "La fachada del Hotel Continental se eleva frente al paseo marítimo de Tánger. © K.R.")
+![La fachada del Hotel Continental se eleva frente al paseo marítimo de Tánger.](https://fotos.etheriamagazine.com/2022/08/tanger-hotel-continental.jpg "La fachada del Hotel Continental se eleva frente al paseo marítimo de Tánger. © K.R.")
 
 ## Dónde dormir en Tánger: el hotel de ‘El tiempo entre costuras’
 

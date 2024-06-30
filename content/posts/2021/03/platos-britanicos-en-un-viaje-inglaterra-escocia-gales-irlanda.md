@@ -1,7 +1,7 @@
 ---
 title: "¿Es tan aburrida la comida de Gran Bretaña como dicen?"
 date: 2021-03-11
-coverImage: etheria-images/2021/03/inglaterra-roast-beef.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/inglaterra-roast-beef.jpg
 categories: 
   - mejores-restaurantes-gastronomia
 authors: 
@@ -13,7 +13,7 @@ en la maleta productos envasados al vacío para que los familiares que estudian 
 trabajan allí “coman en condiciones”, ¿tiene razón de ser? Eso lo tendrás que decidir tú 
 misma cuando conozcas estos productos, hábitos y platos británicos. 
 
-![desayuno uno de los platos britanicos tradicionales](etheria-images/2021/03/que-lleva-desayuno-ingles.jpg "Desayuno inglés completo. © Nonsap Visuals")
+![desayuno uno de los platos britanicos tradicionales](https://fotos.etheriamagazine.com/2021/03/que-lleva-desayuno-ingles.jpg "Desayuno inglés completo. © Nonsap Visuals")
 
 Cada país o región tiene sus propias peculiaridades gastronómicas, heredadas a lo largo 
 de su historia o forjadas debido a su limitación y ubicación geográfica. Estas variables 
@@ -34,7 +34,7 @@ beans_), champiñones, tomate asado, patatas... Lo puedes acompañar de té o ca
 viajas a Inglaterra algunos lugares recomendables para probarlo son **Balthazar** en 
 Londres, **Jake's in the city** en Plymouth y **Trof** en Manchester. 
 
-![Fish and chips entre los platos británicos populares](etheria-images/2021/03/fish-and-chips-plato-britanico.jpg "Fish and chips, comida rápida al estilo inglés. © Davey Gravy")
+![Fish and chips entre los platos británicos populares](https://fotos.etheriamagazine.com/2021/03/fish-and-chips-plato-britanico.jpg "Fish and chips, comida rápida al estilo inglés. © Davey Gravy")
 
 ## Fish and chips, el fast food inglés
 
@@ -56,7 +56,7 @@ Por último, toma nota de un restaurante que ha recibido un reconocimiento espec
 su fish and chips: **The Cod's Scallops**, en Wollanton (Nottingham), ganó el National 
 Fish & Chips Awards en 2020. 
 
-![asado roast beef platos britanicos populares](etheria-images/2021/03/inglaterra-roast-beef.jpg "Asado al estilo británico. ©VisitBritain")
+![asado roast beef platos britanicos populares](https://fotos.etheriamagazine.com/2021/03/inglaterra-roast-beef.jpg "Asado al estilo británico. ©VisitBritain")
 
 ## Sunday Roast
 
@@ -69,7 +69,7 @@ queso, zanahoria y repollo. Como es habitual, la receta puede tener variantes en
 de si se cocina en casa o en restaurantes. En Londres tiene mucha fama el Sunday roast 
 de la cocinera Sally Abé en **The Hardwood Arms**. 
 
-![ostras en inglaterra mas baratas](etheria-images/2021/03/inglaterra-ostras.jpg "The Crab House Cafe, criadero de ostras y restaurante. ©VisitBritain/ Rod Edwards")
+![ostras en inglaterra mas baratas](https://fotos.etheriamagazine.com/2021/03/inglaterra-ostras.jpg "The Crab House Cafe, criadero de ostras y restaurante. ©VisitBritain/ Rod Edwards")
 
 ## Ostras ricas (y más baratas)
 
@@ -86,7 +86,7 @@ en la playa, además de en restaurantes como **The Royal Native Oyster Store**s,
 sirven la **ostra nativa de Whitstable**. Puedes continuar la ruta para degustar también 
 **ostras de roca de la isla de Mersea**, en el **Mersea Island Fish Bar** de Essex. 
 
-![hora del te un habito ingles extendido](etheria-images/2021/03/inglaterra-tomar-el-te.jpg "Afternoon tea en el Hotel Palé Hall (Gwynedd, Gales). ©VisitBritain")
+![hora del te un habito ingles extendido](https://fotos.etheriamagazine.com/2021/03/inglaterra-tomar-el-te.jpg "Afternoon tea en el Hotel Palé Hall (Gwynedd, Gales). ©VisitBritain")
 
 ## Afternoon tea o la hora del té
 
@@ -118,7 +118,7 @@ construyó el Titanic, en Belfast. Allí sirven el Afternoon tea en la Suite Tit
 dispone de una réplica de la escalera recreada en la película de 1997, mientras escuchas 
 de fondo las notas que lanza una banda de jazz. 
 
-![afternoon tea en orient express](etheria-images/2021/03/plato-orient-express.jpg "Plato de fruta del Venice Simplon-Orient-Express. © Matt Hind/ Belmond")
+![afternoon tea en orient express](https://fotos.etheriamagazine.com/2021/03/plato-orient-express.jpg "Plato de fruta del Venice Simplon-Orient-Express. © Matt Hind/ Belmond")
 
 No menos curioso es tomar el **_Afternoon tea_ en el Orient Express**, en el interior de 
 un vagón de un tren British Pullman, con estética de los años 20 o 30. La experiencia 
@@ -130,7 +130,7 @@ Y, como siempre hay alguien a quien no le gusta el té, te contamos también que
 bodega de Sussex, Bolney Wine Estate, han creado una variante donde **el té se sustituye 
 por un espumoso rosé**. 
 
-![platos britanicos dulces y tartas](etheria-images/2021/03/pasteles-ingleses.jpg "Los pasteles en Gran Bretaña son una dulce tentación. © Sebastian Coman Photography")
+![platos britanicos dulces y tartas](https://fotos.etheriamagazine.com/2021/03/pasteles-ingleses.jpg "Los pasteles en Gran Bretaña son una dulce tentación. © Sebastian Coman Photography")
 
 ## Pecados dulces y mermeladas
 
@@ -148,7 +148,7 @@ aprender a preparar algunas recetas dulces, en The Artisan Bakehouse, un bonito 
 de Sussex, tienen cursos para que dejen de guardar secretos para ti los scones, los 
 rollos de canela o los dulces de Navidad y San Patricio. 
 
-![Borough Market de Londres](etheria-images/2021/03/borough-market-londres.jpg "Borough Market de Londres. © Julian Hochgesang")
+![Borough Market de Londres](https://fotos.etheriamagazine.com/2021/03/borough-market-londres.jpg "Borough Market de Londres. © Julian Hochgesang")
 
 ## Comida callejera para llevar
 
@@ -165,7 +165,7 @@ gyozas, curry y cocinas del mundo. En Manchester está Grub, en una vieja estaci
 tren, donde es posible gozar de un gran ambiente alternativo con cine, música y comida 
 callejera. 
 
-![platos britanicos pub Fordwich Arms](etheria-images/2021/03/fordwich-arms-pub.jpg "Uno de los deliciosos platos del © pub Fordwich Arms.")
+![platos britanicos pub Fordwich Arms](https://fotos.etheriamagazine.com/2021/03/fordwich-arms-pub.jpg "Uno de los deliciosos platos del © pub Fordwich Arms.")
 
 ## Gastronomía Michelin en los pubs
 
@@ -186,7 +186,7 @@ granja vecina, las manzanas de Kent, las ostras vienen de Whitstable, etc. Si te
 interesa el mundo gastronómico, toma nota también de **The Harwood Arms** (Londres) y 
 **The Red Lion Freehouse** (East Chisenbury, en Wiltshire). 
 
-![vinos blancos en inglaterra](etheria-images/2021/03/inglaterra-vinos.jpg "Viñedos en el condado inglés de Sussex del Este. © Visit Britain")
+![vinos blancos en inglaterra](https://fotos.etheriamagazine.com/2021/03/inglaterra-vinos.jpg "Viñedos en el condado inglés de Sussex del Este. © Visit Britain")
 
 ## Los vinos ingleses
 
@@ -203,7 +203,7 @@ ganó una medalla de oro en 2019 en el _Champagne and Sparkling Wine Wold Champi
 Y después de leer todo lo anterior, ¿aún piensas que los platos británicos son aburridos 
 o que vas a pasar hambre en tus vacaciones? 
 
-![Cotswolds inglaterra](etheria-images/2021/03/cotswolds-inglaterra.jpg "Bucólica imagen de Los Cotswolds. © Ana de Sousa")
+![Cotswolds inglaterra](https://fotos.etheriamagazine.com/2021/03/cotswolds-inglaterra.jpg "Bucólica imagen de Los Cotswolds. © Ana de Sousa")
 
 **También te puede interesar...** 
 

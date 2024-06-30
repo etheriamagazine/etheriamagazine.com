@@ -1,7 +1,7 @@
 ---
 title: "Magister Raffaello, una exposición inmersiva con entrada libre en Madrid"
 date: 2022-10-31
-coverImage: etheria-images/2022/10/Rafael-exposicion-madrid.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/10/Rafael-exposicion-madrid.jpg
 categories: 
   - exposiciones
 authors: 
@@ -13,7 +13,7 @@ como visitar la exposición ‘Magister Raffaello. Un maravilloso viaje por el R
 italiano’ que estará disponible hasta el 15 de enero de 2023 en el Instituto Italiano de 
 Cultura de Madrid. Se emplea tecnología inmersiva y la entrada es gratuita. 
 
-![Entrada a la exposición Magister Raffaello.](etheria-images/2022/10/Rafael-exposicion-madrid.jpg "Entrada a la exposición Magister Raffaello. © Bernardo Arcos Mijailidis")
+![Entrada a la exposición Magister Raffaello.](https://fotos.etheriamagazine.com/2022/10/Rafael-exposicion-madrid.jpg "Entrada a la exposición Magister Raffaello. © Bernardo Arcos Mijailidis")
 
 La exposición _Magister Raffaello_ continúa su recorrido por el mundo haciendo una 
 parada en Madrid. Esta es la undécima etapa del que está siendo un gran viaje de 
@@ -25,7 +25,7 @@ didáctica y amena experiencia. Dicha exhibición estará abierta **hasta el 15 
 2023**, por lo que ahora tenemos una excusa más para disfrutar de la belleza y el 
 animado ambiente del centro de la capital. 
 
-![Detalle de la exposición Magister Raffaello.](etheria-images/2022/10/detalle-expo-raffaello.jpg "Detalle de la exposición Magister Raffaello. © Etheria Magazine")
+![Detalle de la exposición Magister Raffaello.](https://fotos.etheriamagazine.com/2022/10/detalle-expo-raffaello.jpg "Detalle de la exposición Magister Raffaello. © Etheria Magazine")
 
 ## Un homenaje al maestro Raffaello
 
@@ -49,7 +49,7 @@ que el hecho de que Raffaello trabajase en los centros más importantes del Rena
 italiano: **Urbino**, **Città di Castello**, **Firenze** y **Roma** es una invitación 
 expresa a recorrerlas para buscar su huella. 
 
-![Sala de Magister Raffaello en Madrid](etheria-images/2022/10/sala-magister-raffaello.jpg "Sala de Magister Raffaello. © Etheria Magazine")
+![Sala de Magister Raffaello en Madrid](https://fotos.etheriamagazine.com/2022/10/sala-magister-raffaello.jpg "Sala de Magister Raffaello. © Etheria Magazine")
 
 ## Cómo se organiza la exposición Magister Raffaello
 
@@ -66,7 +66,7 @@ su trabajo.
 > universales de la experiencia humana común, paradigma ideal para promocionar y resaltar 
 > su carrera de pintor” 
 
-![Una exposición básica para acercarse a la vida y obra del maestro Rafael.](etheria-images/2022/10/exposicion-rafael-madrid.jpg "Una exposición básica para acercarse a la vida y obra del maestro Rafael. © Etheria Magazine")
+![Una exposición básica para acercarse a la vida y obra del maestro Rafael.](https://fotos.etheriamagazine.com/2022/10/exposicion-rafael-madrid.jpg "Una exposición básica para acercarse a la vida y obra del maestro Rafael. © Etheria Magazine")
 
 ## ¿Por qué es interesante visitar esta muestra?
 
@@ -101,7 +101,7 @@ Italiano de Cultura en colaboración con el ENIT –Organismo Oficial Italiano p
 Turismo– quien se ha encargado de organizarla, con el patrocinio de la Embajada de 
 Italia. 
 
-![Cartel de la exposición Magister Raffaello.](etheria-images/2022/10/expo-magister-raffaello-madrid.jpg "Cartel de la exposición Magister Raffaello.")
+![Cartel de la exposición Magister Raffaello.](https://fotos.etheriamagazine.com/2022/10/expo-magister-raffaello-madrid.jpg "Cartel de la exposición Magister Raffaello.")
 
 ## Datos de interés
 

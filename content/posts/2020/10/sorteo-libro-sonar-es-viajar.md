@@ -1,7 +1,7 @@
 ---
 title: "Sorteo del libro 'Soñar es Viajar. 88 viajes en confinamiento'"
 date: 2020-10-29
-coverImage: etheria-images/2020/10/web-SORTEO-88-viajes-confinamiento.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/web-SORTEO-88-viajes-confinamiento.jpg
 categories: 
   - sorteos-y-concursos
 authors: 
@@ -13,7 +13,7 @@ del fotógrafo Manuel Charlón y textos de 88 periodistas de viajes que comparte
 es para ellos viajar. Los beneficios de este libro van destinados a la investigación de 
 la COVID-19. 
 
-![](etheria-images/2020/10/web-SORTEO-88-viajes-confinamiento.jpg)
+![](https://fotos.etheriamagazine.com/2020/10/web-SORTEO-88-viajes-confinamiento.jpg)
 
 BASES DEL SORTEO 
 

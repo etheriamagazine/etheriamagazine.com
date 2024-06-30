@@ -1,7 +1,7 @@
 ---
 title: "Buenas razones para viajar a Futuroscope en 2022"
 date: 2022-03-29
-coverImage: etheria-images/2022/03/aerobar-futuroscope.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/03/aerobar-futuroscope.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -12,7 +12,7 @@ authors:
 
 ¿Tienes pensando viajar a Francia e incluir en tu itinerario el Parque Futuroscope este 2022? Estás de suerte porque te esperan grandes novedades y experiencias emocionantes que se suman a las atracciones ya existentes. No te van a dejar indiferente...
 
-![nuevas atracciones y hoteles de futuroscope en 2022](etheria-images/2022/03/portada-futuroscope-2022.jpg "Futuroscope en 2022 viene cargado de novedades.")
+![nuevas atracciones y hoteles de futuroscope en 2022](https://fotos.etheriamagazine.com/2022/03/portada-futuroscope-2022.jpg "Futuroscope en 2022 viene cargado de novedades.")
 
 Desde su apertura en 1987, hace ya treinta y cinco años, el parque Futuroscope no ha 
 parado de innovar ni de tratar de posicionarse más allá del presente. Y este 2022 no iba 
@@ -36,7 +36,7 @@ una inmersión total cuando visita algún parque, sin duda, te interesa alojarte
 mismo para ser la primera en llegar y la última en irse. A continuación te contamos por 
 qué creemos que es buena idea visitar Futuroscope en 2022, y ya decides... 
 
-![atracción de cazadores de tornados](etheria-images/2022/03/tornado-atraccion-futuroscope.jpg "Cazadores de tornados es la nueva atracción de Futuroscope en 2022.")
+![atracción de cazadores de tornados](https://fotos.etheriamagazine.com/2022/03/tornado-atraccion-futuroscope.jpg "Cazadores de tornados es la nueva atracción de Futuroscope en 2022.")
 
 ### 1\. Para entrar en un tornado
 
@@ -54,7 +54,7 @@ vívida: un viento intenso que proviene de ocho ventiladores, pirotecnia, decora
 móviles e, incluso, un coche 4x4 en el escenario. En cada pase entran hasta 120 
 personas. 
 
-![La llave de los sueños de futuroscope](etheria-images/2022/03/espectaculo-nocturno-futuroscope.jpg "La llave de los sueños, el nuevo espectáculo nocturno de Futuroscope.")
+![La llave de los sueños de futuroscope](https://fotos.etheriamagazine.com/2022/03/espectaculo-nocturno-futuroscope.jpg "La llave de los sueños, el nuevo espectáculo nocturno de Futuroscope.")
 
 ### 2\. Emocionarte en ‘La llave de los sueños’
 
@@ -70,7 +70,7 @@ Futuroscope el espectáculo **Slava's Snowshow** con divertidas y conmovedoras h
 de payasos. Tendrá lugar todos los días del 12 de julio al 28 de agosto de 2022. No está 
 incluido en la entrada general. 
 
-![restaurante Space Loop de futuroscope](etheria-images/2022/03/Restaurante-space-loop-futuroscope.jpg "Restaurante Space Loop.")
+![restaurante Space Loop de futuroscope](https://fotos.etheriamagazine.com/2022/03/Restaurante-space-loop-futuroscope.jpg "Restaurante Space Loop.")
 
 ### 3\. Comer en un restaurante con loopings
 
@@ -86,7 +86,7 @@ No olvides que siguen abiertos sitios espectaculares como el **Aerobar**, en el 
 puede tomar una bebida a 35 metros sobre el suelo, **La Crêpe Volante** y **L'Atelier 
 des Saveurs**. 
 
-![habitación y cuarto de baño del hotel station cosmos de futuroscope](etheria-images/2022/03/hotel-futuroscope-station-cosmos.jpg "Hotel Station Cosmos de Futuroscope.")
+![habitación y cuarto de baño del hotel station cosmos de futuroscope](https://fotos.etheriamagazine.com/2022/03/hotel-futuroscope-station-cosmos.jpg "Hotel Station Cosmos de Futuroscope.")
 
 ### 4\. Dormir en un hotel espacial
 
@@ -102,7 +102,7 @@ que dispone de una terraza con vistas al parque. Además, el hotel cuenta con el
 certificado de Alta Calidad Medioambiental. Sin duda, este esta es una de las novedades 
 que hay que tener en cuenta en esta edición de Futuroscope en 2022. 
 
-![atracción aerobar de futuroscope](etheria-images/2022/03/aerobar-futuroscope.jpg "Aerobar, un globo donde podrás tomar algo a 35 metros de altura.")
+![atracción aerobar de futuroscope](https://fotos.etheriamagazine.com/2022/03/aerobar-futuroscope.jpg "Aerobar, un globo donde podrás tomar algo a 35 metros de altura.")
 
 ### 5\. Por la comodidad de los vuelos directos
 
@@ -114,7 +114,7 @@ es una propuesta ideal que permite recorrer la región además de visitar Futuro
 también puedes volar hasta París, Burdeos o Nantes y luego alquilar un vehículo o tomar 
 un tren hasta Poitiers. 
 
-![plano de futuroscope en 2025](etheria-images/2022/03/Plano-Futuroscope-2025.jpg "En este plano están los nuevos proyectos y ampliaciones de Futuroscope 2025.")
+![plano de futuroscope en 2025](https://fotos.etheriamagazine.com/2022/03/Plano-Futuroscope-2025.jpg "En este plano están los nuevos proyectos y ampliaciones de Futuroscope 2025.")
 
 ### Guía Futuroscope | Etheria Magazine
 

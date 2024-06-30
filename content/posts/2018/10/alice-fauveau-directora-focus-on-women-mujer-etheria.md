@@ -1,7 +1,7 @@
 ---
 title: "Alice Fauveau: \"Cantaba por las calles para ganar dinero y poder seguir viajando\""
 date: 2018-10-15
-coverImage: etheria-images/2018/09/Alice-Fauveau-Women-Etheria-magazine.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/Alice-Fauveau-Women-Etheria-magazine.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -11,7 +11,7 @@ authors:
 
 Economista, cantante de ópera, especialista en lujo y viajera empedernida desde la adolescencia, Alice Fauveau ha recorrido mas de 100 países y creado la primera agencia de viajes de España para conocer la cultura de la mujer. Focus on Women propone viajar sola, pero en grupo, y descubrir la versión femenina de los países.
 
-![alice fauveau, focus on women, mujeres etheria](etheria-images/2018/09/Alice-Fauveau-Women-Etheria-magazine-1024x768.jpg "Alice Fauveau, directora de Focus on Women (Izq).")
+![alice fauveau, focus on women, mujeres etheria](https://fotos.etheriamagazine.com/2018/09/Alice-Fauveau-Women-Etheria-magazine-1024x768.jpg "Alice Fauveau, directora de Focus on Women (Izq).")
 
 Alice es una mujer guerrera que posee una gran curiosidad, capacidad de empuje y que 
 está empeñada en aportar su pequeño granito de arena a la sociedad. Sin duda, tiene 
@@ -40,7 +40,7 @@ increíble que está en otros países... Tantas cosas.
 ideal de viaje. Nos complementamos fantásticamente bien a la hora de viajar. Es 
 flexible, curioso como yo, y ávido de disfrutar de nuevas experiencias. Ideal. 
 
-![alice fauveau, focus on women, mujeres etheria](etheria-images/2018/09/Alice-Fauveau-Women-Etheria-1024x636.jpg "Alice Fauveau dirige una agencia de viajes para mujeres")
+![alice fauveau, focus on women, mujeres etheria](https://fotos.etheriamagazine.com/2018/09/Alice-Fauveau-Women-Etheria-1024x636.jpg "Alice Fauveau dirige una agencia de viajes para mujeres")
 
 ##### 5\. ¿Sueles planificar con antelación tus viajes o prefieres improvisar?
 
@@ -73,7 +73,7 @@ respecto.
 
 Perú por su **rocoto relleno** y su **ceviche**, Japón por su **kaiseki**. 
 
-![alice fauveau, focus on women, mujeres etheria](etheria-images/2018/09/Alice-fauveau-focus-women-etheria-1024x627.jpg "Alice Fauveau, una de las Mujeres Etheria de esta revista")
+![alice fauveau, focus on women, mujeres etheria](https://fotos.etheriamagazine.com/2018/09/Alice-fauveau-focus-women-etheria-1024x627.jpg "Alice Fauveau, una de las Mujeres Etheria de esta revista")
 
 ##### 11\. ¿En qué medio de transporte prefieres viajar?
 

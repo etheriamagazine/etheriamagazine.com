@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Kaunas, la bella desconocida de Lituania"
 date: 2022-06-28
-coverImage: etheria-images/2022/06/Kaunas-grafiti-lituania.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/Kaunas-grafiti-lituania.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -13,7 +13,7 @@ ocupar los primeros puestos en las listas de deseos de los viajeros pero que mer
 mucho mucho mucho la pena. Te contamos qué hacer en Kaunas durante un fin de semana. ¿Te 
 vienes a Lituania? 
 
-![Puente Vytautas sobre el río Nemunas, en Kaunas.](etheria-images/2022/06/kaunas-Puente-Vytautas.jpg "Puente Vytautas sobre el río Nemunas, en Kaunas. © Pedro Grifol")
+![Puente Vytautas sobre el río Nemunas, en Kaunas.](https://fotos.etheriamagazine.com/2022/06/kaunas-Puente-Vytautas.jpg "Puente Vytautas sobre el río Nemunas, en Kaunas. © Pedro Grifol")
 
 Kaunas, la segunda ciudad más importante de Lituania –después de su capital, Vilnius– 
 fue nominada **Capital Europea de la Cultura** hace dos años por varias razones. Quizá 
@@ -26,7 +26,7 @@ porque en arquitectura (como para todas las artes) tenemos que ir previamente
 aleccionados, porque así es la única manera de sacarle provecho y placer al turismo 
 cultural. 
 
-![Funicular de Aleksoto, en Kaunas](etheria-images/2022/06/kaunas-funicular-de-Aleksoto.jpg "Funicular de Aleksoto, en Kaunas. © Pedro Grifol")
+![Funicular de Aleksoto, en Kaunas](https://fotos.etheriamagazine.com/2022/06/kaunas-funicular-de-Aleksoto.jpg "Funicular de Aleksoto, en Kaunas. © Pedro Grifol")
 
 Lo mejor en Kaunas es empezar viendo la ciudad desde arriba, desde el **mirador de 
 Aleksotas**, al que se accede por medio de un antiguo funicular que data de 1935 y que 
@@ -42,7 +42,7 @@ en auténticas galerías de arte. Hay que entrar en ellos –como en el **callej
 Kiemo**– para comprobar que el arte de la calle puede hacer más divertida y, quizá, más 
 amigable la convivencia vecinal. 
 
-![Galeria Kiemo, en Kauna](etheria-images/2022/06/Galeria-Kiemo-kaunas.jpg "Galeria Kiemo, en Kauna. © Pedro Grifol")
+![Galeria Kiemo, en Kauna](https://fotos.etheriamagazine.com/2022/06/Galeria-Kiemo-kaunas.jpg "Galeria Kiemo, en Kauna. © Pedro Grifol")
 
 El corazón histórico de la ciudad está en la **plaza Rotusés Aiksté**, que tiene una 
 línea de fachadas de casas de los siglos XV y XVI y las iglesias de San Francisco y de 
@@ -51,7 +51,7 @@ San Pedro y San Pablo. Recomendable desviarse por un callejón que conduce a la 
 oficina de la Liga Hanseática. Anteriormente, en este lugar se erigía el templo a 
 Perkunas, dios lituano del trueno. 
 
-![Arquitectura y street art en Kaunas](etheria-images/2022/06/que-ver-Kaunas-lituania.jpg "Arquitectura y street art en Kaunas. © Pedro Grifol")
+![Arquitectura y street art en Kaunas](https://fotos.etheriamagazine.com/2022/06/que-ver-Kaunas-lituania.jpg "Arquitectura y street art en Kaunas. © Pedro Grifol")
 
 ## Dioses y tradiciones en Kaunas
 
@@ -65,7 +65,7 @@ los santos de los lituanos actuales no se encuentran cómodos en la modernidad y
 iglesias, que durante el período soviético fueron reconvertidas en almacenes y museos 
 del ateísmo, han vuelto a lucir ¡como Dios manda! 
 
-![Calle con la Catedral de San Pedro y San Pablo, en Kaunas.](etheria-images/2022/06/kaunas-Catedral-de-San-Pedro-y-San-Pablo.jpg "Catedral de San Pedro y San Pablo. © Pedro Grifol")
+![Calle con la Catedral de San Pedro y San Pablo, en Kaunas.](https://fotos.etheriamagazine.com/2022/06/kaunas-Catedral-de-San-Pedro-y-San-Pablo.jpg "Catedral de San Pedro y San Pablo. © Pedro Grifol")
 
 ## Avenidas Vilnius y Libertad
 
@@ -80,7 +80,7 @@ democrática del país. Se trata del memorial en recuerdo a **Romas Kalanta,** u
 Ocurrió en 1972. El hecho provocó enormes protestas en el país y se convirtió en un 
 símbolo de resistencia. 
 
-![La moda del Aperol Spritz también ha llegado a Kaunas](etheria-images/2022/06/Kaunas-Aperol-Spritz.jpg "La moda del Aperol Spritz también ha llegado a Kaunas. © Pedro Grifol")
+![La moda del Aperol Spritz también ha llegado a Kaunas](https://fotos.etheriamagazine.com/2022/06/Kaunas-Aperol-Spritz.jpg "La moda del Aperol Spritz también ha llegado a Kaunas. © Pedro Grifol")
 
 Frente al memorial está el edificio de **Correos**, otro magnífico inmueble que albergó 
 durante la Capitalidad Cultural la exposición titulada “1972”, que evidenciaba el 
@@ -97,7 +97,7 @@ calificar como sincretismo entre el art decó y el funcionalismo. El museo exhib
 artefactos del ‘arte de la guerra’ desde tiempos prehistóricos hasta la actualidad. 
 Espectacular. 
 
-![Fachada del Museo de la Guerra, en Kaunas.](etheria-images/2022/06/Kaunas-Museo-de-la-Guerra.jpg "Museo de la Guerra, en Kaunas. © Pedro Grifol")
+![Fachada del Museo de la Guerra, en Kaunas.](https://fotos.etheriamagazine.com/2022/06/Kaunas-Museo-de-la-Guerra.jpg "Museo de la Guerra, en Kaunas. © Pedro Grifol")
 
 Otros museos de interés en Kaunas son el **Museo de Arte Ciurlionis** –eminente pintor y 
 compositor lituano– que exhibe la exposición temporal de _William Kentridge,_ una de las 
@@ -107,7 +107,7 @@ local Antanas Zmuidzinaviéius, que viene muy bien visitar para contrarrestar la
 un país que camina hacia el integrismo religioso. Si viajas con niños ¡no te lo pierdas! 
 Y si no… ¡tampoco! 
 
-![Plaza de la Unidad, en Kaunas.](etheria-images/2022/06/Kaunas-Plaza-de-la-Unidad.jpg "Plaza de la Unidad, en Kaunas. © Pedro Grifol")
+![Plaza de la Unidad, en Kaunas.](https://fotos.etheriamagazine.com/2022/06/Kaunas-Plaza-de-la-Unidad.jpg "Plaza de la Unidad, en Kaunas. © Pedro Grifol")
 
 ### Plaza de la Unidad
 
@@ -117,7 +117,7 @@ del pasado siglo, y que parecían cajas de zapatos puestas una encima de otra, h
 por un lavado de cara y ahora resultan hasta ligeramente habitables. El paisaje 
 arquitectónico, con sus transformaciones, vuelve a cautivarnos. 
 
-![Entrada a la Exposición de Marina Abramovic.](etheria-images/2022/06/portada-kaunas-capital-cultura-900x506.jpg "Exposición de Marina Abramovic. © Pedro Grifol")
+![Entrada a la Exposición de Marina Abramovic.](https://fotos.etheriamagazine.com/2022/06/portada-kaunas-capital-cultura-900x506.jpg "Exposición de Marina Abramovic. © Pedro Grifol")
 
 ## Guía de viaje de Kaunas | Etheria Magazine
 
@@ -132,7 +132,7 @@ estancias pasaron huéspedes tan ilustres como Napoleón Bonaparte; aunque ahora
 tecnología moderna reemplaza el misterio que pudo tener antiguamente. Tiene un 
 restaurante digno de emperadores. Especial. 
 
-![Castillo de Kaunas.](etheria-images/2022/06/Castillo-de-Kaunas.jpg "Castillo de Kaunas. © Pedro Grifol")
+![Castillo de Kaunas.](https://fotos.etheriamagazine.com/2022/06/Castillo-de-Kaunas.jpg "Castillo de Kaunas. © Pedro Grifol")
 
 **Más información** 
 

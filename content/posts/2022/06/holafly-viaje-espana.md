@@ -1,7 +1,7 @@
 ---
 title: "Conoce la eSIM de Holafly para viajar a España"
 date: 2022-06-17
-coverImage: etheria-images/2022/06/tarjeta-prepago-holafly.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/06/tarjeta-prepago-holafly.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -12,7 +12,7 @@ authors:
 
 Un viaje a España puede ser un sueño cumplido, incluso marcar un antes y un después en nuestra vida; por ese motivo, llevar controlados todos los detalles para que sea un éxito es algo obligado. Uno de ellos, la conexión en el destino, es de los más fáciles de resolver con la eSIM de Holafly. Te contamos en qué consiste, dónde comprar la esim y cómo conectarte nada más aterrizar.
 
-![Código QR para conseguir la eSIM Holafly.](etheria-images/2022/06/esim-holafly-espana-685x1024.jpg "Código QR para conseguir la eSIM Holafly. © Viajes Globetrotter")
+![Código QR para conseguir la eSIM Holafly.](https://fotos.etheriamagazine.com/2022/06/esim-holafly-espana-685x1024.jpg "Código QR para conseguir la eSIM Holafly. © Viajes Globetrotter")
 
 Viajar a España para disfrutar de su cultura, sus paisajes y su exquisita gastronomía es 
 uno de los sueños que se deben cumplir al menos una vez en la vida. Para que esa 
@@ -29,7 +29,7 @@ A continuación te contaremos con detalle en qué consiste esta **eSIM prepago**
 viajes a España, ventajas, desventajas y dónde comprarla porque, sin duda, te mereces un 
 viaje inolvidable. 
 
-![Mujer con un movil con sim prepago para hablar en España](etheria-images/2022/06/tarjeta-prepago-holafly.jpg "Con la esim de Holafly podrás estar en contacto con tu familia y amigos sin los riesgos del roaming.")
+![Mujer con un movil con sim prepago para hablar en España](https://fotos.etheriamagazine.com/2022/06/tarjeta-prepago-holafly.jpg "Con la esim de Holafly podrás estar en contacto con tu familia y amigos sin los riesgos del roaming.")
 
 ## ¿Qué es una eSIM?
 
@@ -52,7 +52,7 @@ experiencia sin miedo a conectarse por error y a que llegasen facturas desorbita
 día, ya disfrutan de la **eSIM HolaFly más de 100.000 viajeros** y se pueden adquirir 
 sims y esims para más de 60 países. 
 
-![Un joven sostiene un móvil con el código QR de la esim de Holafly](etheria-images/2022/06/comprar-esim-espana-879x1024.jpg "Comprar y activar la eSIM Holafly es sumamente sencillo. © Camallerys Vlogs")
+![Un joven sostiene un móvil con el código QR de la esim de Holafly](https://fotos.etheriamagazine.com/2022/06/comprar-esim-espana-879x1024.jpg "Comprar y activar la eSIM Holafly es sumamente sencillo. © Camallerys Vlogs")
 
 ## La eSIM para viajeros en España
 
@@ -97,7 +97,7 @@ la conexión sea buena.
 ? Un dato que te puede interesar es que aunque esta esim internacional sólo se pueda 
 usar en un teléfono, puedes compartir los datos con tu familia o compañeros de viaje. 
 
-![Viajeras comprando su tarjeta prepago para viajar.](etheria-images/2022/06/viajeras-compran-tarjeta-prepago.jpg "Viajeras preparando sus escapadas. © Surface")
+![Viajeras comprando su tarjeta prepago para viajar.](https://fotos.etheriamagazine.com/2022/06/viajeras-compran-tarjeta-prepago.jpg "Viajeras preparando sus escapadas. © Surface")
 
 ## ¿Cómo comprar la eSIM de Holafly online?
 
@@ -122,7 +122,7 @@ Asígnale un nombre al nuevo plan de datos de la **eSIM HolaFly** para saber cu�
 usando en cada momento. Cuando llegues a España, solo tendrás que activar la itinerancia 
 de datos o roaming en tu terminal y activar la línea que ya configuraste antes de salir. 
 
-![Consejos tarjeta prepago en Madrid](etheria-images/2022/06/consejos-movil-madrid.jpg "La mayoría de los operadores ofrecen comprar la eSIM en España.")
+![Consejos tarjeta prepago en Madrid](https://fotos.etheriamagazine.com/2022/06/consejos-movil-madrid.jpg "La mayoría de los operadores ofrecen comprar la eSIM en España.")
 
 ## ¿En qué lugares de España se puede utilizar?
 
@@ -155,7 +155,7 @@ adquirir una línea secundaria, sólo tienes que solicitarlo en el operador. En 
 tiendas físicas te proporcionan este servicio pero también hay algunos operadores que 
 permiten la petición por teléfono u online. 
 
-![Código QR para ampliar información sobre las esims de HolaFly.](etheria-images/2022/06/codigo-qr-holafly.jpg "Código QR para ampliar información sobre las esims de HolaFly.")
+![Código QR para ampliar información sobre las esims de HolaFly.](https://fotos.etheriamagazine.com/2022/06/codigo-qr-holafly.jpg "Código QR para ampliar información sobre las esims de HolaFly.")
 
 ## ¿Puedo realizar llamadas en España?
 

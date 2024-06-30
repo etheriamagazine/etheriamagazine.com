@@ -1,7 +1,7 @@
 ---
 title: "Nueva Zelanda, viaja sola y disfruta del trekking"
 date: 2019-08-28
-coverImage: etheria-images/2019/07/Nueva-Zelanda-lago-Tongariro.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-lago-Tongariro.jpg
 categories: 
   - viajes-ecoturismo
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ estas dos rutas: una de cuatro días en el fiordo Mildford Sound y otra de una j
 por el Parque Nacional Tongariro. Con ambas comprobarás la inmensidad natural de 
 nuestras Antípodas. 
 
-![Flores en Mildford Sound.](etheria-images/2019/07/Nueva-Zelanda-flores-Mildford-Sound.jpg "Flores en Mildford Sound. © Aneta Foubikova")
+![Flores en Mildford Sound.](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-flores-Mildford-Sound.jpg "Flores en Mildford Sound. © Aneta Foubikova")
 
 Viajar sola a Nueva Zelanda es una de las experiencias más impactantes que puedas vivir, 
 en uno de los paisajes más sorprendentes del mundo. Sus dos islas permanecen ahí, 
@@ -30,7 +30,7 @@ repleto del colorido de sus árboles, tan sorprendente en cuanto a variedad de p
 cascadas, ríos, lagos como el Wakatipu, montañas, prados de cultivos o de flores, que 
 decidí recorrerme esta isla con el **Intercity FlexiPass**. 
 
-![Lago Wakatipu en nueva zelanda](etheria-images/2019/07/Nueva-Zelanda-lago-wakatipu.jpg "Lago Wakatipu.")
+![Lago Wakatipu en nueva zelanda](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-lago-wakatipu.jpg "Lago Wakatipu.")
 
 También puedes hacer el **_hop on and off_** de ambas islas con **Kiwi Experience**, 
 disfrutando de todas las paradas que hacen mientras los guías explican el origen de sus 
@@ -52,7 +52,7 @@ Anau**, y llegando, después de cuatro jornadas de caminatas agotadoras –pero 
 satisfactorias–, al embarcadero de **Sandfly Point,** en el Mildford Sound, que también 
 puedes recorrer después en crucero para ver sus cascadas desde otra perspectiva. 
 
-![viajar sola, viajes de aventura, viajes a Nueva -Zelanda, trekking, senderismo](etheria-images/2019/07/Nueva-Zelanda-Te-Anau.jpg "En el lago Te Anau se inicia la ruta de Mildford Track.")
+![viajar sola, viajes de aventura, viajes a Nueva -Zelanda, trekking, senderismo](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-Te-Anau.jpg "En el lago Te Anau se inicia la ruta de Mildford Track.")
 
 Entre todos los preparativos es fundamental la ropa deportiva de escaladora profesional 
 apta para todas las potenciales condiciones climáticas adversas, una mochila con lo 
@@ -69,7 +69,7 @@ No eligieron la localización por casualidad, pues el **Parque Nacional de Fiorl
 nombrado en 1986 Patrimonio de la Unesco por servir de muestra de la evolución del 
 planeta y por constituir un fenómeno natural en su máxima plenitud. 
 
-![Paisaje de Midford Sound en nueva zelanda](etheria-images/2019/07/Nueva-Zelanda-Mildford-sound-lago.jpg "Paisaje de Midford Sound.")
+![Paisaje de Midford Sound en nueva zelanda](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-Mildford-sound-lago.jpg "Paisaje de Midford Sound.")
 
 Como es habitual en estos trekking, es fundamental madrugar para enfrentarse a los 15 km 
 de pateo que, lo juro, merecen la pena porque el paisaje es, sencillamente, mágico: el 
@@ -92,7 +92,7 @@ inclinación, las piedras y la arena resbaladiza debido a la lluvia y la nieve f
 También influyen las cascadas, que son preciosas y, a su vez, llenan los árboles de 
 líquenes y todo se cubre de musgo. 
 
-![Cascada en Mildford Sound en nueva zelanda](etheria-images/2019/07/Nueva-Zelanda-Mildford-sound-cascada.jpg "Cascada en Mildford Sound. © Lindsey Costa")
+![Cascada en Mildford Sound en nueva zelanda](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-Mildford-sound-cascada.jpg "Cascada en Mildford Sound. © Lindsey Costa")
 
 Desviándote del sendero principal, en una hora y media de ida y vuelta puedes aumentar 
 el recorrido para contemplar la **cascada Shutterland**, la más alta de Nueva Zelanda y 
@@ -114,7 +114,7 @@ senderismo de un día más bonita del mundo**, algo que te permite ir cómoda y 
 tan sólo con ropa de trekking y un _tupper_ con comida para retomar fuerzas en algún 
 refugio o en plena naturaleza, una maravilla colosal. 
 
-![Lagos Esmeralda en el Parque Nacional Tongariro](etheria-images/2019/07/Nueva-Zelanda-lago-Tongariro.jpg "Lagos Esmeralda en el Parque Nacional Tongariro. © Antony Pang")
+![Lagos Esmeralda en el Parque Nacional Tongariro](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-lago-Tongariro.jpg "Lagos Esmeralda en el Parque Nacional Tongariro. © Antony Pang")
 
 Merecen el esfuerzo las **seis horas escalando** hasta los 1.886 metros, aunque sólo sea 
 por ver el **Red Crater** abajo, increíble, con la nieve brillando bajo el sol. Pero si 
@@ -126,7 +126,7 @@ bonitos que te puedas echar a la cara. Hay unas **Hot Springs** (aguas termales)
 que salen fumarolas por la actividad volcánica, prueba a ver si te puedes alojar allí 
 para bañarte en sus termas y ya sí que lo bordas. 
 
-![Senderismo en el Parque Nacional Tongariro.](etheria-images/2019/07/Nueva-Zelanda-Tongariro-trekking.jpg "Senderismo en el Parque Nacional Tongariro. © Antony Pang")
+![Senderismo en el Parque Nacional Tongariro.](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-Tongariro-trekking.jpg "Senderismo en el Parque Nacional Tongariro. © Antony Pang")
 
 ## Guía exprés | Viajar sola a Nueva Zelanda
 

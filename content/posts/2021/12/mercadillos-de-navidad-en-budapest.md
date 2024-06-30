@@ -1,7 +1,7 @@
 ---
 title: "Budapest en Navidad: mercadillos, visitas básicas y consejos para ahorrar"
 date: 2021-12-13
-coverImage: etheria-images/2021/12/mercadillo-basilica-san-esteban.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/12/mercadillo-basilica-san-esteban.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -16,7 +16,7 @@ añadiendo a sus propuestas habituales un plus de magia y fantasía. Si ya tiene
 las maletas para visitar los mercadillos o te planteas recorrerla en invierno, toma 
 buena nota de estos planes que puedes hacer durante la Navidad en Budapest. 
 
-![mercadillo san esteban navidad en budapest](etheria-images/2021/12/mercadillo-basilica-san-esteban.jpg "Mercadillo de la Basílica de San Esteban, en Budapest. © Pepa García")
+![mercadillo san esteban navidad en budapest](https://fotos.etheriamagazine.com/2021/12/mercadillo-basilica-san-esteban.jpg "Mercadillo de la Basílica de San Esteban, en Budapest. © Pepa García")
 
 **Actualizado 11/2023** 
 
@@ -44,7 +44,7 @@ será fácil de solucionar. En nuestro caso volamos con **Wizzair**, una línea 
 húngara con vuelos desde diversas ciudad españolas, un buen servicio al que no le 
 podemos poner ninguna pega y buenas tarifas. 
 
-![hostel a and o budapest](etheria-images/2021/12/albergue-ao-budapest.jpg "Hostel a&o Budapest: distintos espacios y habitación familiar.")
+![hostel a and o budapest](https://fotos.etheriamagazine.com/2021/12/albergue-ao-budapest.jpg "Hostel a&o Budapest: distintos espacios y habitación familiar.")
 
 ### Dónde dormir por poco dinero
 
@@ -70,7 +70,7 @@ Budapest](https://www.civitatis.com/es/budapest/visita-guiada-parlamento-budapes
 3\. [Tour de fiesta por los ruins pubs de 
 Budapest](https://www.civitatis.com/es/budapest/tour-fiesta-ruin-pubs/?aid=10211): 22 €. 
 
-![mercadillo san esteban budapest](etheria-images/2021/12/mercadillo-basilica-san-esteban-budapest.jpg "Puesto de vino caliente y detalle de artesanía en mercadillo de la Basílica de San Esteban. © Pepa García")
+![mercadillo san esteban budapest](https://fotos.etheriamagazine.com/2021/12/mercadillo-basilica-san-esteban-budapest.jpg "Puesto de vino caliente y detalle de artesanía en mercadillo de la Basílica de San Esteban. © Pepa García")
 
 ## Qué ver en Budapest
 
@@ -82,7 +82,7 @@ los dos mercados principales de la ciudad se encuentran en Pest. El principal es
 que está junto a la **basílica de San Esteban** incluso ha sido reconocido recibido como 
 el mejor de Europa. 
 
-![mercadillo budapest plaza vorosmarty](etheria-images/2021/12/mercadillo-plaza-Vorosmarty-budapest.jpg "Mercadillo de la plaza Vörösmarty. © Turismo Hungría")
+![mercadillo budapest plaza vorosmarty](https://fotos.etheriamagazine.com/2021/12/mercadillo-plaza-Vorosmarty-budapest.jpg "Mercadillo de la plaza Vörösmarty. © Turismo Hungría")
 
 #### Qué comer en los mercadillos de Budapest
 
@@ -95,7 +95,7 @@ llamada “langos”, que se puede pedir con o sin ajo, con queso o incluso con 
 variadas. Sin duda, la experiencia de los mercadillos no sería completa sin probar todas 
 estas _delicatessen_. La mesa y el mantel los puedes reservar para las cenas. 
 
-![mercadillo san esteban navidad en budapest](etheria-images/2021/12/mercadillo-navidad-budapest.jpg "Basílica de San Esteban vista desde el mercadillo navideño. © Pepa García")
+![mercadillo san esteban navidad en budapest](https://fotos.etheriamagazine.com/2021/12/mercadillo-navidad-budapest.jpg "Basílica de San Esteban vista desde el mercadillo navideño. © Pepa García")
 
 Además de estos mercadillos navideños de Budapest, existen muchos otros repartidos por 
 la ciudad como el de la **plaza Erzsébet** o el situado frente al **Bastión de los 
@@ -108,7 +108,7 @@ conocen las propiedades terapéuticas del agua de muchas zonas de este país, y 
 como el turco o el romano construyeron auténticos templos para disfrutar de sus 
 beneficios. 
 
-![balneario szechenyi navidad en budapest](etheria-images/2021/12/balneario-szechenyi.jpg "Balneario Széchenyi. © Pepa García")
+![balneario szechenyi navidad en budapest](https://fotos.etheriamagazine.com/2021/12/balneario-szechenyi.jpg "Balneario Széchenyi. © Pepa García")
 
 Una tarde de relax en un baño termal en Budapest puede resultar muy apetecible como plan 
 de invierno porque la temperatura del agua es elevada y existen preciosos espacios 
@@ -124,7 +124,7 @@ el ambiente se acerca a cero grados, la imagen no puede ser más misteriosa.
 ✅ Aquí puedes adquirir tu [entrada al balneario 
 Széchenyi](https://www.civitatis.com/es/budapest/entrada-balneario-szechenyi/?aid=10211). 
 
-![ajedrez Balneario Szechenyi ajedrez](etheria-images/2021/12/ajedrez-balnerario-budapest-589x1024.jpg "Jugando al ajedrez en el Balneario Széchenyi. © Pepa García")
+![ajedrez Balneario Szechenyi ajedrez](https://fotos.etheriamagazine.com/2021/12/ajedrez-balnerario-budapest-589x1024.jpg "Jugando al ajedrez en el Balneario Széchenyi. © Pepa García")
 
 #### Qué llevar al balneario y otras dudas
 
@@ -139,7 +139,7 @@ Reserva tu entrada con antelación.
 Si no vas en familia y quieres vivir una experiencia nocturna, consulta las fechas de 
 las ‘**bath parties**’ porque esa puede ser LA FIESTA que siempre recordarás. 
 
-![parlamento budapest](etheria-images/2021/12/parlamento-budapest.jpg "Parlamento de Budapest. © Pepa García")
+![parlamento budapest](https://fotos.etheriamagazine.com/2021/12/parlamento-budapest.jpg "Parlamento de Budapest. © Pepa García")
 
 ### Buda y Pest, las dos caras de la moneda
 
@@ -159,7 +159,7 @@ Arte Mücsarnok. En Buda, algunos hitos son el **Bastión de los Pescadores**, q
 unas maravillosas vistas; la iglesia de Matías; el Castillo de Buda y el mirador de la 
 colina de Gerardo, que ofrece una amplia perspectiva de la capital. 
 
-![bastion pescadores budapest](etheria-images/2021/12/bastion-pescadores-budapest.jpg "Bastión de los Pescadores, en la parte de Buda. (Budapest). © Turismo de Hungría")
+![bastion pescadores budapest](https://fotos.etheriamagazine.com/2021/12/bastion-pescadores-budapest.jpg "Bastión de los Pescadores, en la parte de Buda. (Budapest). © Turismo de Hungría")
 
 ¿Nuestro consejo? Budapest es una ciudad que te puede parecer abarcable a pie –cuando la 
 ves en un plano– pero agota, lo más aconsejable es comprar la [Budapest 
@@ -167,7 +167,7 @@ card](https://www.civitatis.com/es/budapest/budapest-card/?aid=10211) y localiza
 mejores líneas de tranvía y de metro para salvar las distancias mayores. Además, tiene 
 incluidas muchas visitas gratuitas. 
 
-![crucero nocturno cena budapest](etheria-images/2021/12/crucero-nocturno-budapest.jpg "Crucero nocturno con cena en Budapest. © Pepa García")
+![crucero nocturno cena budapest](https://fotos.etheriamagazine.com/2021/12/crucero-nocturno-budapest.jpg "Crucero nocturno con cena en Budapest. © Pepa García")
 
 ### Crucero con cena por el Danubio
 
@@ -187,7 +187,7 @@ agradable para atesorar en la memoria.
 cena](https://www.civitatis.com/es/budapest/paseo-barco-noche-budapest/?aid=10211): 21 € 
 (adultos), hay descuentos y gratuidades (hasta 10 años). 
 
-![mercado central budapest](etheria-images/2021/12/mercado-central-budapest.jpg "Mercado Central de Budapest. © Pepa García")
+![mercado central budapest](https://fotos.etheriamagazine.com/2021/12/mercado-central-budapest.jpg "Mercado Central de Budapest. © Pepa García")
 
 ### Experiencia en el Mercado Central
 
@@ -205,7 +205,7 @@ carne no la sopa que tiene el mismo nombre).
 ✅ [Tour gastronómico por el Mercado Central en 
 español.](https://www.civitatis.com/es/budapest/tour-gastronomico-mercado-central-budapest/?aid=10211) 
 
-![strudel house navidad en  budapest](etheria-images/2021/12/strudel-house-budapest.jpg "Strudel House, en Budapest. © Pepa García")
+![strudel house navidad en  budapest](https://fotos.etheriamagazine.com/2021/12/strudel-house-budapest.jpg "Strudel House, en Budapest. © Pepa García")
 
 ### Restaurantes para darse un capricho
 
@@ -219,7 +219,7 @@ Toma nota también del **restaurante Első Pesti Rétesház – Strudel House**
 como dulces. Incluso podrás ver a los cocineros elaborar una masa elástica y finísima 
 con la que elaborarán las recetas. 
 
-![cafe nueva york navidad en budapest](etheria-images/2021/12/cafe-nueva-york-budapest-630x1024.jpg "Café Nueva York, en Budapest. ©Pepa García")
+![cafe nueva york navidad en budapest](https://fotos.etheriamagazine.com/2021/12/cafe-nueva-york-budapest-630x1024.jpg "Café Nueva York, en Budapest. ©Pepa García")
 
 ### Cafés históricos de Budapest
 
@@ -239,7 +239,7 @@ reabrir tras la 2ª Guerra Mundial. Te fascinará su ambiente y el palacio que l
 (ahora convertido en el hotel [Matild 
 Palace](https://etheriamagazine.com/2021/08/16/hotel-de-lujo-en-budapest-matild-palace/)). 
 
-![Szentendre excursion navidad en budapest](etheria-images/2021/12/szentendre-excursion-budapest.jpg "Calle y artesanía de Szentendre. © Pepa García")
+![Szentendre excursion navidad en budapest](https://fotos.etheriamagazine.com/2021/12/szentendre-excursion-budapest.jpg "Calle y artesanía de Szentendre. © Pepa García")
 
 ### Szentendre, una excursión desde la capital
 
@@ -260,7 +260,7 @@ que puede poner la guinda a esta experiencia más allá de la capital.
 Szentendre](https://www.civitatis.com/es/budapest/excursion-szentendre/?aid=10211): 
 desde 49 €. 
 
-![adornos navidad de szentendre](etheria-images/2021/12/navidad-szentendre-hungria.jpg "En las tiendas de Szentendre encontrarás bonitos adornos navideños. © Pepa García")
+![adornos navidad de szentendre](https://fotos.etheriamagazine.com/2021/12/navidad-szentendre-hungria.jpg "En las tiendas de Szentendre encontrarás bonitos adornos navideños. © Pepa García")
 
 Puedes encontrar más ideas en [Turismo de Hungría](https://visithungary.com/es). 
 

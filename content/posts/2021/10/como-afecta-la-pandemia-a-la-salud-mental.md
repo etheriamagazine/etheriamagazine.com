@@ -1,7 +1,7 @@
 ---
 title: "La pandemia se ceba con las personas con problemas de salud mental"
 date: 2021-10-08
-coverImage: etheria-images/2021/10/violencia-mujeres-pandemia.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/violencia-mujeres-pandemia.jpg
 categories: 
   - salud-bienestar-nutricion
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 A la marginación que sufren las personas con problemas de salud mental hay que sumarle el efecto de la pandemia sobre este tipo de trastornos. Pero no sólo este tipo de enfermos están entre los grupos de riesgo, las mujeres también se ven sometidas a condiciones sociales adversas. Ellas son las que asumen una mayor responsabilidad en situaciones de crisis, y también sobre las que más violencia se ha ejercido.
 
-![salud mental mujeres pandemia](etheria-images/2021/10/salud-mental-pandemia-mujeres-744x1024.jpg "La salud mental, una afectada invisible durante la pandemia. © Önder Örtel")
+![salud mental mujeres pandemia](https://fotos.etheriamagazine.com/2021/10/salud-mental-pandemia-mujeres-744x1024.jpg "La salud mental, una afectada invisible durante la pandemia. © Önder Örtel")
 
 Quién no ha sentido miedo, quién no ha llorado durante esta pandemia, quién no se ha 
 sentido culpable de no contagiarse?” La pregunta se la hace Roberto José Sánchez 
@@ -35,7 +35,7 @@ contagiarse y un 39% que un familiar o ser querido contraiga el coronavirus. Por
 los más preocupados son las personas de 55 a 64 años y por género, las mujeres se 
 preocupan más que los hombres. 
 
-![salud mental y marginacion](etheria-images/2021/10/salud-mental-espana.jpg "La salud mental, causante de marginación social. © Marcel Strauß")
+![salud mental y marginacion](https://fotos.etheriamagazine.com/2021/10/salud-mental-espana.jpg "La salud mental, causante de marginación social. © Marcel Strauß")
 
 ## “Hay pacientes que tienen miedo de salir de la UCI o del hospital”
 
@@ -67,7 +67,7 @@ problemas psicológicos. Al disminuir la vida social, es como si el mundo se aju
 tu ritmo. Esto no quiere decir que el problema desaparezca, sino que se produjo una 
 sensación de alivio en algunas personas. 
 
-![presion salud mental mejor](etheria-images/2021/10/violencia-mujeres-pandemia.jpg "La presión sobre la mujer en tiempos de pandemia es mayor. © Külli Kittus")
+![presion salud mental mejor](https://fotos.etheriamagazine.com/2021/10/violencia-mujeres-pandemia.jpg "La presión sobre la mujer en tiempos de pandemia es mayor. © Külli Kittus")
 
 ## Las situaciones de violencia han aumentado
 
@@ -101,7 +101,7 @@ emocionales, es habitual que los adultos intervengan en ella” y ello supone ot
 dificultad añadida según la responsable de salud mental en el Departamento Médico de 
 MSF. 
 
-![estres ansiedad adolescentes](etheria-images/2021/10/adolescentes-ansiedad.jpg "Los adolescentes también sufren de ansiedad y estrés. © Elisa Ventur")
+![estres ansiedad adolescentes](https://fotos.etheriamagazine.com/2021/10/adolescentes-ansiedad.jpg "Los adolescentes también sufren de ansiedad y estrés. © Elisa Ventur")
 
 ### Las mujeres y los jóvenes han experimentado los sentimientos más negativos
 
@@ -121,7 +121,7 @@ han sufrido “cambios de humor”, un 78,6% en los hábitos de vida y un 30,4% 
 **El 76,4% de los menores está más irritable**, el 60% tiene ansiedad, el 50% se muestra 
 triste, el 55% inquieto físicamente y otro 55% es más exigente cuando pide algo. 
 
-![violencia sobre mujer en pandemia](etheria-images/2021/10/violencia-mujer-espana.jpg "La violencia durante la pandemia se ha incrementado en los hogares. © Sydney Sims")
+![violencia sobre mujer en pandemia](https://fotos.etheriamagazine.com/2021/10/violencia-mujer-espana.jpg "La violencia durante la pandemia se ha incrementado en los hogares. © Sydney Sims")
 
 ### La pandemia afecta especialmente a las personas con trastornos mentales graves
 
@@ -148,7 +148,7 @@ ansiedad, las situaciones de violencia por la situación desesperada y el abuso 
 sustancias, que en situaciones de tensión o dificultades es una manera de evadirse”, 
 según Cristina Carreño. 
 
-![depresion pacientes covid](etheria-images/2021/10/personal-sanitario-depresion.jpg "Pacientes y personal sanitario son propensos a sufrir depresión. © Sharon McCutcheon")
+![depresion pacientes covid](https://fotos.etheriamagazine.com/2021/10/personal-sanitario-depresion.jpg "Pacientes y personal sanitario son propensos a sufrir depresión. © Sharon McCutcheon")
 
 ### Más ansiedad, depresión o estrés postraumático en pacientes hospitalizados
 

@@ -1,7 +1,7 @@
 ---
 title: "10 motivos convincentes para visitar Santoña (además de sus anchoas)"
 date: 2021-01-20
-coverImage: etheria-images/2021/01/arte-urbano-santona-cantabria.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/arte-urbano-santona-cantabria.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -16,7 +16,7 @@ en sus calles, alcanzar la orilla marítima o al hacer un alto para degustar una
 sabrosas tapas por su centro urbano. Un viaje a la costa de Cantabria siempre (siempre) 
 debe contemplar una visita a Santoña. 
 
-![Puerto de Santoña (Cantabria).](etheria-images/2021/01/pesca-en-santona.jpg "Puerto de Santoña (Cantabria).")
+![Puerto de Santoña (Cantabria).](https://fotos.etheriamagazine.com/2021/01/pesca-en-santona.jpg "Puerto de Santoña (Cantabria).")
 
 Lo que Santoña provoca es un irresistible regusto marino. Basta explorar su trazado 
 urbano para notar el apego cómplice que sus gentes muestran al oleaje del Cantábrico. Ya 
@@ -29,7 +29,7 @@ santoñesa de vuelta en casa.
 **No te pierdas**: [15 lugares imprescindibles adonde ir en 
 Cantabria](https://etheriamagazine.com/2022/09/05/que-ver-en-cantabria/). 
 
-![Camino vertiginoso para llegar al faro del Caballo, en Santoña.](etheria-images/2021/01/faro-el-pescador-santona-cantabria.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
+![Camino vertiginoso para llegar al faro del Caballo, en Santoña.](https://fotos.etheriamagazine.com/2021/01/faro-el-pescador-santona-cantabria.jpg "Camino vertiginoso para llegar al faro del Caballo, en Santoña.")
 
 ## 1\. Caballo, el faro de moda
 
@@ -40,7 +40,7 @@ Funcionó durante 130 años y hoy sigue siendo un motivo de orientación, pero
 fundamentalmente para senderistas que buscan uno de los parajes más llamativos del 
 litoral cántabro. 
 
-![Atardecer sobre el monte Buciero, en Santoña (Cantabria).](etheria-images/2021/01/santona-atardecer-monte-buciero.jpg "Atardecer sobre el monte Buciero, en Santoña (Cantabria).")
+![Atardecer sobre el monte Buciero, en Santoña (Cantabria).](https://fotos.etheriamagazine.com/2021/01/santona-atardecer-monte-buciero.jpg "Atardecer sobre el monte Buciero, en Santoña (Cantabria).")
 
 ## 2\. Napoleón sí estuvo aquí
 
@@ -56,7 +56,7 @@ baluarte litoral, entre los mejores del país, recorriendo su interior de piedra
 sillería distribuido alrededor de un gran patio, pues se ha reconvertido en centro 
 cultural. 
 
-![Santoña goza de una gran tradición conservera.](etheria-images/2021/01/conservas-santona-656x1024.jpg "Santoña goza de una gran tradición conservera.")
+![Santoña goza de una gran tradición conservera.](https://fotos.etheriamagazine.com/2021/01/conservas-santona-656x1024.jpg "Santoña goza de una gran tradición conservera.")
 
 ## 3\. La gran vía santoñesa
 
@@ -69,7 +69,7 @@ urbano santoñés. Decora, desde 2016, con tareas de pescadores los muros de la
 **Aguada**, edificio hexagonal que aprovisionaba de agua dulce a los numerosos barcos de 
 vapor que fondeaban en Santoña el siglo pasado. 
 
-![Mirador en el puerto de Santoña.](etheria-images/2021/01/mirador-santona.jpg "Mirador en el puerto de Santoña.")
+![Mirador en el puerto de Santoña.](https://fotos.etheriamagazine.com/2021/01/mirador-santona.jpg "Mirador en el puerto de Santoña.")
 
 ## 4\. Paisaje marismeño
 
@@ -80,7 +80,7 @@ plena de la bahía y de la marisma. El edificio en su interior invita a conocer 
 valores naturales, pues acoge el **Centro de Interpretación de las Marismas de Santoña, 
 Victoria y Joyel.** 
 
-![monumento juan de la cosa](etheria-images/2021/01/marino-san-juan-de-la-cosa-santona-681x1024.jpg "Monumento al marino Juan de la Cosa.")
+![monumento juan de la cosa](https://fotos.etheriamagazine.com/2021/01/marino-san-juan-de-la-cosa-santona-681x1024.jpg "Monumento al marino Juan de la Cosa.")
 
 ## 5\. El marino más famoso
 
@@ -93,7 +93,7 @@ santoñés que formó parte de las siete primeras expediciones colombinas. Con s
 conocimiento explorador como piloto logró cartografiar el mapamundi más antiguo en el 
 que aparece reflejado el continente americano. 
 
-![Arte urbano en Santoña (Cantabria).](etheria-images/2021/01/arte-urbano-santona-cantabria.jpg "Arte urbano en Santoña (Cantabria).")
+![Arte urbano en Santoña (Cantabria).](https://fotos.etheriamagazine.com/2021/01/arte-urbano-santona-cantabria.jpg "Arte urbano en Santoña (Cantabria).")
 
 ## 6\. Arte urbano, murales históricos
 
@@ -111,7 +111,7 @@ título **‘En memoria 8-7-36’**. No obstante, en las inmediaciones de este �
 un local comercial recuerda con un azul brillante y gaviotas en vuelo el **alma 
 marinera** que guía la historia santoñesa. 
 
-![La anchoa, el producto más valorado de Santoña.](etheria-images/2021/01/anchoa-artesanal-santona-cantabria-683x1024.jpg "La anchoa, el producto más valorado de Santoña.")
+![La anchoa, el producto más valorado de Santoña.](https://fotos.etheriamagazine.com/2021/01/anchoa-artesanal-santona-cantabria-683x1024.jpg "La anchoa, el producto más valorado de Santoña.")
 
 ## 7\. A la rica anchoa de Santoña
 
@@ -123,7 +123,7 @@ anchoa y el bonito. Un octavillo o lata de anchoas pequeñas, y un penique o cor
 cerveza son la manera tradicional de saborearlos a pie de calle. Cada año, además, el 
 municipio celebra la **Feria de la Anchoa** a finales de abril. 
 
-![Iglesia de Santa María del Puerto, en Santoña.](etheria-images/2021/01/santuario-virgen-puerto-santona.jpg "Iglesia de Santa María del Puerto, en Santoña.")
+![Iglesia de Santa María del Puerto, en Santoña.](https://fotos.etheriamagazine.com/2021/01/santuario-virgen-puerto-santona.jpg "Iglesia de Santa María del Puerto, en Santoña.")
 
 ## 8\. Una virgen marinera
 
@@ -134,7 +134,7 @@ llevada en las carabelas en el viaje del descubrimiento de América. La imagen s
 templo cada 8 septiembre para embarcarse en una popular romería que pasea la imagen de 
 la virgen marinera en procesión por el Cantábrico. 
 
-![El Carnaval de Santoña fue declarado de Interés Turístico Nacional.](etheria-images/2021/01/besugo-carnaval-santona.jpg "El Carnaval de Santoña fue declarado de Interés Turístico Nacional.")
+![El Carnaval de Santoña fue declarado de Interés Turístico Nacional.](https://fotos.etheriamagazine.com/2021/01/besugo-carnaval-santona.jpg "El Carnaval de Santoña fue declarado de Interés Turístico Nacional.")
 
 ## 9\. El besugo más famoso
 
@@ -145,7 +145,7 @@ luces protagonizan un desfile que dura todo el día y culmina con el **Entierro 
 Besugo**, una triste comitiva fúnebre de peces y plañideras que acaban poniendo al 
 besugo a arder en el mar. 
 
-![Molinos de mareas de Cerroja, en Santoña (Cantabria).](etheria-images/2021/01/molino-cerroja-marismas-santona.jpg "Molinos de mareas de Cerroja, en Santoña (Cantabria).")
+![Molinos de mareas de Cerroja, en Santoña (Cantabria).](https://fotos.etheriamagazine.com/2021/01/molino-cerroja-marismas-santona.jpg "Molinos de mareas de Cerroja, en Santoña (Cantabria).")
 
 ## 10\. Con vistas al mar
 
@@ -157,7 +157,7 @@ de los más antiguos de Europa, o al de **Jado** que está declarado un Bien de 
 Cultural. Para acabar la ruta, nada mejor que la **playa de Berria,** frente al oleaje 
 Cantábrico y el perfil montaraz del Buciero. 
 
-![Surfistas en la playa de Berria (Santoña).](etheria-images/2021/01/playa-berria-santona-surf-cantabria.jpg "Surfistas en la playa de Berria (Santoña).")
+![Surfistas en la playa de Berria (Santoña).](https://fotos.etheriamagazine.com/2021/01/playa-berria-santona-surf-cantabria.jpg "Surfistas en la playa de Berria (Santoña).")
 
 **Para seguir leyendo sobre Cantabria:** 
 

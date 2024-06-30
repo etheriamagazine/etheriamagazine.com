@@ -1,7 +1,7 @@
 ---
 title: "Raclette, una original obra de teatro con toque gastronómico"
 date: 2021-06-10
-coverImage: etheria-images/2021/06/elena-gonzalez-hector-gonzalez-raclette.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/elena-gonzalez-hector-gonzalez-raclette.jpg
 categories: 
   - planes-cultura-ocio
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Entre las obras clásicas y las alternativas se sitúa 'Raclette', una "tragicomedia" de La Kimera Teatro a la que le quedan muy poquitas sesiones pero que merece la pena aprovechar. Con esta obra, fiel reflejo de una sociedad urbana, celebra su décimo aniversario esta compañía madrileña en los Teatros Luchana de Madrid.
 
-![raclette teatro en madrid](etheria-images/2021/06/teatro-raclette-madrid.jpg "Cartel de Raclette.")
+![raclette teatro en madrid](https://fotos.etheriamagazine.com/2021/06/teatro-raclette-madrid.jpg "Cartel de Raclette.")
 
 **Raclette** es una obra de teatro diferente, de esas que sorprende desde incluso antes 
 de sentarte en la butaca. De hecho, cuando entras en la sala ya puedes ver a un actor en 
@@ -36,7 +36,7 @@ incluso comparten mesa y raclette. Las conexiones entre ambas, que intuyes que l
 haber, se comienzan a desvelar casi al final por lo que la intriga se mantiene en un 
 nivel alto durante gran parte de la obra. 
 
-![actores de raclette kimera teatro](etheria-images/2021/06/actores-teatro-raclette.jpg "(De Izq. a Dcha.) Ángela Chica, Héctor González, Elena González, María Llina y Miguel Rascón.")
+![actores de raclette kimera teatro](https://fotos.etheriamagazine.com/2021/06/actores-teatro-raclette.jpg "(De Izq. a Dcha.) Ángela Chica, Héctor González, Elena González, María Llina y Miguel Rascón.")
 
 ## Raclette, con nombres propios
 
@@ -64,7 +64,7 @@ muerte siempre están presentes en la evolución de los personajes. Sin duda, un
 teatro que no deja indiferente, a la que llegas con curiosidad y sales con el corazón 
 “encogido” pero dando gracias por haber ido. 
 
-![helena gonzalez y hector gonzalez raclette](etheria-images/2021/06/elena-gonzalez-hector-gonzalez-raclette.jpg "Elena González y Héctor González en Raclette (La Kimera Teatro).")
+![helena gonzalez y hector gonzalez raclette](https://fotos.etheriamagazine.com/2021/06/elena-gonzalez-hector-gonzalez-raclette.jpg "Elena González y Héctor González en Raclette (La Kimera Teatro).")
 
 Como comentábamos inicialmente, sólo se podrá asistir hasta finales de junio pero 
 confiamos en que llegue a otros teatros de la geografía nacional. 

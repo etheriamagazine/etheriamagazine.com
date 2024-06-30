@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en una escala de un día en Doha"
 date: 2019-09-19
-coverImage: etheria-images/2019/09/escala-un-dia-doha-museo-arte.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/09/escala-un-dia-doha-museo-arte.jpg
 categories: 
   - viajes-con-amigas
   - consejos-practicos
@@ -12,7 +12,7 @@ authors:
 
 Si tienes una escala de un día en Doha o quieres hacer una pausa en tu viaje de dos o tres jornadas, toma buena nota de las siguientes recomendaciones. Y si sólo tienes unas horas en el aeropuerto de Doha, tampoco tendrás tiempo de aburrirte, vas a alucinar con su oferta de ocio y entretenimiento.
 
-![Museo de Arte Islamico de Doha](etheria-images/2019/09/escala-doha-museo-arte-islamico-900x580.jpg "Museo de Arte Islámico de Doha. © Pepa Gª")
+![Museo de Arte Islamico de Doha](https://fotos.etheriamagazine.com/2019/09/escala-doha-museo-arte-islamico-900x580.jpg "Museo de Arte Islámico de Doha. © Pepa Gª")
 
 Aprovechar las escalas forma parte del aprendizaje de cualquier viajero pero, para ello, 
 es necesario planificar bien la salida del aeropuerto para no tener problemas 
@@ -36,7 +36,7 @@ Si vuelas con **Qatar Airways**, que tiene la base (o hub) en Doha, esta línea 
 organiza **visitas guiadas** por la capital qatarí y también paquetes que incluyen 
 noches de hotel (de pago) junto con el billete 
 
-![ceda el paso en doha](etheria-images/2019/09/escala-doha-trafico-900x600.jpg "Curiosidad: señales de tráfico en Doha. © Pepa Gª")
+![ceda el paso en doha](https://fotos.etheriamagazine.com/2019/09/escala-doha-trafico-900x600.jpg "Curiosidad: señales de tráfico en Doha. © Pepa Gª")
 
 ## ¿Cuál es la moneda en Doha?
 
@@ -46,7 +46,7 @@ más bajo que en la ciudad, no merece la pena perder tiempo. La moneda es el **r
 riyal catarí** (1 QAR= 0,25 €). En los restaurantes puedes pagar con tarjeta sin 
 problema, pero mejor llevar algo suelto para compras menores y taxis. 
 
-![zoco doha, escala doha](etheria-images/2019/09/escala-doha-paseo-zoco-900x409.jpg "Zoco de Doha. © Pepa Gª")
+![zoco doha, escala doha](https://fotos.etheriamagazine.com/2019/09/escala-doha-paseo-zoco-900x409.jpg "Zoco de Doha. © Pepa Gª")
 
 ## Qué ver en Doha en una escala de un día
 
@@ -54,7 +54,7 @@ Una vez que te has animado a conocer ese universo de cristal en medio del desier
 has visto desde la ventanilla del avión, te recomendamos algunos lugares imprescindibles 
 en tu escala. 
 
-![Museo Nacional de Doha.](etheria-images/2019/09/nuevo-museo-nacional-doha-qatar-730x1024.jpg "Museo Nacional de Doha. © MK Sriram")
+![Museo Nacional de Doha.](https://fotos.etheriamagazine.com/2019/09/nuevo-museo-nacional-doha-qatar-730x1024.jpg "Museo Nacional de Doha. © MK Sriram")
 
 ### 1\. Museo Nacional de Qatar
 
@@ -66,7 +66,7 @@ formación mineral típica de la región del Golfo Pérsico. A pesar de estar so
 tanto acero que se podrían levantar dos torres Eiffel, el Museo Nacional de Qatar tiene 
 el aspecto de una construcción tan liviana que podría cambiar sólo con una ligera brisa. 
 
-![galeria arte, zoco de doha](etheria-images/2019/09/escala-doha-galeria-arte-900x635.jpg "Galería de arte en el zoco de Doha. © Pepa Gª")
+![galeria arte, zoco de doha](https://fotos.etheriamagazine.com/2019/09/escala-doha-galeria-arte-900x635.jpg "Galería de arte en el zoco de Doha. © Pepa Gª")
 
 ### 2\. El zoco de Doha o Souq Waqif
 
@@ -79,14 +79,14 @@ fue rehabilitada en 2006. En ella encontrarás desde pequeñas tiendas donde com
 especias, frutos secos o algún souvenir, hasta galerías de arte y hoteles de cinco 
 estrellas. 
 
-![rosas secas zoco doha](etheria-images/2019/09/escala-doha-zocos-rosas-900x600.jpg "Rosas secas en el zoco. © Pepa Gª")
+![rosas secas zoco doha](https://fotos.etheriamagazine.com/2019/09/escala-doha-zocos-rosas-900x600.jpg "Rosas secas en el zoco. © Pepa Gª")
 
 A veces no podrás escoger el momento para acudir al zoco, porque tu escala lo hará por 
 ti, pero el ideal es al caer el sol, cuando la temperatura es más agradable y el 
 ambiente alcanza su momento de efervescencia (como debe ser en un zoco). Nosotras lo 
 visitamos a mediodía y estaba solitario, aunque también tuvo su encanto verlo así. 
 
-![paseo zoco doha](etheria-images/2019/09/escala-doha-zoco-712x1024.jpg "Callejuelas del zoco de Doha. © Pepa Gª.")
+![paseo zoco doha](https://fotos.etheriamagazine.com/2019/09/escala-doha-zoco-712x1024.jpg "Callejuelas del zoco de Doha. © Pepa Gª.")
 
 Entre **las visitas más curiosas** en el zoco están las demostraciones de cetrería. Los 
 halcones representan una señal de estatus y como tal se les mima tanto que incluso 
@@ -94,7 +94,7 @@ tienen su propio hospital (que ya quisieran muchos de nuestros centros sanitario
 te suscita curiosidad, entra en la sala de espera de las "urgencias de halcones", donde 
 encontrarás paneles y vitrinas con información sobre estas aves. 
 
-![hospital de halcones, escala en doha](etheria-images/2019/09/escala-doha-hospital-halcones-900x575.jpg "Nervios en el mostrador de 'Urgencias'. © Pepa Gª.")
+![hospital de halcones, escala en doha](https://fotos.etheriamagazine.com/2019/09/escala-doha-hospital-halcones-900x575.jpg "Nervios en el mostrador de 'Urgencias'. © Pepa Gª.")
 
 ### 3\. Museo de Arte Islámico
 
@@ -110,7 +110,7 @@ acercamiento entre las culturas", según señaló la jequesa Mayasa bint Hamad a
 ([El País](https://elpais.com/diario/2008/11/25/cultura/1227567604_850215.html), 25 nov. 
 2008). 
 
-![museo arte islamico, arquitectura moderna doha](etheria-images/2019/09/escala-un-dia-doha-museo-arte-900x600.jpg "Futurista interior del Museo de Arte Islámico de Doha. © Pepa Gª.")
+![museo arte islamico, arquitectura moderna doha](https://fotos.etheriamagazine.com/2019/09/escala-un-dia-doha-museo-arte-900x600.jpg "Futurista interior del Museo de Arte Islámico de Doha. © Pepa Gª.")
 
 Observa al entrar sus formas futuristas y su altísimo atrio, incluso puedes sentarte en 
 el bar de la planta baja al llegar o antes de dejar el museo para verlo cómodamente. Una 
@@ -124,7 +124,7 @@ En las instalaciones del museo también se encuentran una tienda de recuerdos, u
 pabellón donde se imparten cursos y, en la última planta, un glamuroso restaurante con 
 vistas. 
 
-![doha, skyline doha, escala en doha](etheria-images/2019/09/doha-escala-panoramica-900x542.jpg "Panorámica del skyline de Doha. ©Florian Wehde/ Unsplash")
+![doha, skyline doha, escala en doha](https://fotos.etheriamagazine.com/2019/09/doha-escala-panoramica-900x542.jpg "Panorámica del skyline de Doha. ©Florian Wehde/ Unsplash")
 
 ### 4\. Un paseo de 7 km por La Corniche
 
@@ -133,7 +133,7 @@ la ciudad**. Si vas apurado de tiempo, toma el autobús turístico, donde puedes
 bajar cuanto quieras por unos 20 €. Las puestas de sol son bellísimas, así que siéntate 
 y espera a que vaya llegando la noche. 
 
-![doha, atardecer, escala en doha](etheria-images/2019/09/escala-doha-marina-atardecer-900x518.jpg "Atardecer sobre la Marina de Doha. ©PB")
+![doha, atardecer, escala en doha](https://fotos.etheriamagazine.com/2019/09/escala-doha-marina-atardecer-900x518.jpg "Atardecer sobre la Marina de Doha. ©PB")
 
 ### 5\. Un crucero en dhow por la bahía
 
@@ -143,7 +143,7 @@ reflejan los tonos del atardecer en la jungla de cristal es inolvidable. Hay muc
 compañías que ofrecen el crucero, que puede salir desde 48 € (2 horas) a unos 100 € (4 
 horas). 
 
-![hotel tivoli zoco de doha](etheria-images/2019/09/hotel-escala-doha-900x590.jpg "Hotel Tivoli situado en el zoco de Doha. © Pepa Gª.")
+![hotel tivoli zoco de doha](https://fotos.etheriamagazine.com/2019/09/hotel-escala-doha-900x590.jpg "Hotel Tivoli situado en el zoco de Doha. © Pepa Gª.")
 
 ### 6\. Descansar en un hotel Tivoli del zoco
 
@@ -162,7 +162,7 @@ como la oferta de bienestar.
 5. La Facultad de Ciencias Islámicas, cuyo edificio se asemeja a una nave espacial.
 6. El lujoso [centro comercial Al Hazm](https://www.alhazm.com/).
 
-![aeropuerto de doha](etheria-images/2019/09/aeropuerto-doha-900x415.jpg "© Aeropuerto de Doha.")
+![aeropuerto de doha](https://fotos.etheriamagazine.com/2019/09/aeropuerto-doha-900x415.jpg "© Aeropuerto de Doha.")
 
 ### Qué hacer en el aeropuerto de Doha
 

@@ -1,7 +1,7 @@
 ---
 title: "Fairmont Tazi Palace, un nuevo hotel en Tánger para una escapada de lujo"
 date: 2022-11-02
-coverImage: etheria-images/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza.jpg
 categories: 
   - hoteles
 authors: 
@@ -13,7 +13,7 @@ lujo a sus escapadas: el Fairmont Tazi Palace, un hotel de cinco estrellas que o
 antiguo palacio y en el que se ha cuidado con mimo cada detalle. Una excelente opción si 
 estás planeando un fin de semana romántico para los próximos meses. 
 
-![Vistas de Tánger desde el Fairmont Tazi Palace.](etheria-images/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza-850x567.jpg "Terraza con vistas en una de las habitaciones del Fairmont Tazi Palace.")
+![Vistas de Tánger desde el Fairmont Tazi Palace.](https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza-850x567.jpg "Terraza con vistas en una de las habitaciones del Fairmont Tazi Palace.")
 
 Tánger es una ciudad perfecta para visitar durante todo el año. Aquí se puede disfrutar 
 de un clima agradable constante y de ese toque exótico que aporta **Marruecos** y al que 
@@ -31,7 +31,7 @@ Tánger y por otra los bosques que rodean la ciudad.
 ? **No te pierdas este artículo:** [Tánger, ¿qué tiene su medina que encandiló a Matisse 
 y a Carmina Ordóñez?](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/) 
 
-![decoración con mármol en el hotel de lujo de Fairmont en Tánger](etheria-images/2022/11/fairmont-tazi-palace-pasillo.jpg "Uno de los pasillos del Fairmont Tazi Palace.")
+![decoración con mármol en el hotel de lujo de Fairmont en Tánger](https://fotos.etheriamagazine.com/2022/11/fairmont-tazi-palace-pasillo.jpg "Uno de los pasillos del Fairmont Tazi Palace.")
 
 Tras una profunda renovación, a cargo de OBMI & CCRA Architects, que se ha realizado 
 respetando el esplendor de la construcción original, acaba de ser inaugurado como 
@@ -54,7 +54,7 @@ tradicional con toques mediterráneos. Podrás elegir entre la **Habitación Del
 terraza y vistas al bosque o la ciudad; o la **Habitación Signature**, con jardín 
 privado con tumbonas. 
 
-![Junior Suite del hotel Fairmont Tazi Palace](etheria-images/2022/11/Fairmont-Tazi-palace-Junior-Suite.jpg "Junior Suite.")
+![Junior Suite del hotel Fairmont Tazi Palace](https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-palace-Junior-Suite.jpg "Junior Suite.")
 
 Para darte un capricho, nada como elegir una de sus suites: las **Junior Suite** ofrecen 
 una espectacular y amplia terraza privada; la **Suite Signature** cuenta con una 
@@ -74,7 +74,7 @@ durante el desayuno, el almuerzo y la cena; **Clémentine** es la mejor opción 
 comida sana y nutritiva con alimentos frescos de temporada; y **Parisa** traslada al 
 exotismo del mundo persa en sus cenas, ofreciendo una cocina más barroca y especiada. 
 
-![bombones en el Fairmont Tazi Palace](etheria-images/2022/11/Fairmont-Tazi-palace-bombones.jpg "Detalle de presentación de los platos en el Fairmont Tazi Palace.")
+![bombones en el Fairmont Tazi Palace](https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-palace-bombones.jpg "Detalle de presentación de los platos en el Fairmont Tazi Palace.")
 
 Además, los lugares pensados para el ocio, que son imprescindibles si se está de 
 vacaciones, no se quedan atrás en el hotel. **Siddharta Lounge by Budda-Bar** es 
@@ -91,7 +91,7 @@ cuerpo en los que se combinan zonas cubiertas con otras al aire libre. Conjuga l
 tradición marroquí con las nuevas técnicas dando lugar a una carta de masajes y 
 tratamientos que te dejarán como nueva. 
 
-![zona de descanso del spa del Fairmont Tazi Palace](etheria-images/2022/11/Fairmont-Tazi-Palace-spa.jpg "Sala de relajación del Spa Fairmont.")
+![zona de descanso del spa del Fairmont Tazi Palace](https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-spa.jpg "Sala de relajación del Spa Fairmont.")
 
 Cuenta con diez salas de tratamiento, zona de relajación, un solarium y un hammam. 
 Además, una zona de **spa privado** permite probar sus tratamientos en total intimidad e 
@@ -112,7 +112,7 @@ mármol negro y perfectamente integrada en el paisajismo del hotel. Tiene unas v
 preciosas y está enmarcada por unos bonitos jardines entre los que encontrarás cómodas 
 tumbonas perfectas para el descanso. 
 
-![Piscina del hotel Fairmont Tazi Palace.](etheria-images/2022/11/Fairmont-Tazi-piscina.jpg "Piscina del hotel Fairmont Tazi Palace.")
+![Piscina del hotel Fairmont Tazi Palace.](https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-piscina.jpg "Piscina del hotel Fairmont Tazi Palace.")
 
 Además, al Fairmont Tazi Palace no le falta de nada y cuenta con zona de fitness, clases 
 de yoga y salón de belleza. Se convertirá en tu lugar de referencia en Tánger para un 

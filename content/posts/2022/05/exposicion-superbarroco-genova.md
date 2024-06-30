@@ -1,7 +1,7 @@
 ---
 title: "Génova celebra el ‘Superbarroco’ por todo lo alto"
 date: 2022-05-24
-coverImage: etheria-images/2022/05/superbarroco-ascoli-piceno.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/05/superbarroco-ascoli-piceno.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ escultura. En esta ocasión te proponemos una ciudad y un estilo artístico conc
 Génova y el Barroco, que se unen para celebrar el Proyecto ‘Superbarroco’ hasta el 10 de 
 julio de 2022. 
 
-![cuadro barroco](etheria-images/2022/05/superbarroco-ascoli-piceno.jpg ""La captura de Sansón" de Orazio De Ferrari forma parte de la exposición 'La forma della Meraviglia'. © Ascoli Piceno, Pinacoteca Civica.")
+![cuadro barroco](https://fotos.etheriamagazine.com/2022/05/superbarroco-ascoli-piceno.jpg ""La captura de Sansón" de Orazio De Ferrari forma parte de la exposición 'La forma della Meraviglia'. © Ascoli Piceno, Pinacoteca Civica.")
 
 La pujanza comercial y financiera de Génova durante los siglos XVII y XVIII tuvo su 
 reflejo en el expresivo y exuberante barroco, el estilo que dominaba el panorama 
@@ -28,7 +28,7 @@ atractiva ciudad portuaria, con esta celebración del arte el viaje se hace casi
 imprescindible. Te contamos los lugares que no te puedes perder si quieres disfrutar de 
 este importante evento. 
 
-![cuadros de Van Dyck](etheria-images/2022/05/superbarroco-van-dyck.jpg "Cuadros "Filippo Cattaneo" y "Maddalena Cattaneo" de Sir Anthony van Dyck. © National Gallery of Art, Washington, Widener Collection.")
+![cuadros de Van Dyck](https://fotos.etheriamagazine.com/2022/05/superbarroco-van-dyck.jpg "Cuadros "Filippo Cattaneo" y "Maddalena Cattaneo" de Sir Anthony van Dyck. © National Gallery of Art, Washington, Widener Collection.")
 
 ## Exposición 'La forma della Meraviglia' en el Palacio Ducal
 
@@ -42,7 +42,7 @@ comprobar cómo se traza un viaje, a través de sus amplias salas y salones, des
 obras de Giovan Battista, de principios del siglo XVII, hasta las de Alessandro 
 Magnasco, de mediados del XVIII. 
 
-![Vajilla barroca](etheria-images/2022/05/superbarroco-Musei-di-Strada-Nuova.jpg "Vajilla barroca en el Musei di Strada Nuova. © ENIT")
+![Vajilla barroca](https://fotos.etheriamagazine.com/2022/05/superbarroco-Musei-di-Strada-Nuova.jpg "Vajilla barroca en el Musei di Strada Nuova. © ENIT")
 
 ## Exposiciones 'Los Protagonistas. Obras maestras en Génova 1600-1750'
 
@@ -68,7 +68,7 @@ Castiglione il Grechetto.
 
 ? **Museo Diocesano**. El lugar para ver los suntuosos tejidos genoveses del barroco. 
 
-![escultura barroca](etheria-images/2022/05/Superbarroco-Palazzo-Reale.jpg "Escultura de Filippo Parodi en el Palazzo Reale. © ENIT")
+![escultura barroca](https://fotos.etheriamagazine.com/2022/05/Superbarroco-Palazzo-Reale.jpg "Escultura de Filippo Parodi en el Palazzo Reale. © ENIT")
 
 ? **Museo di Palazzo Reale**. Con esculturas de Filippo Parodi. 
 
@@ -87,7 +87,7 @@ de Valerio Castello en el Palacio Real y los de Domenico y Paolo Gerolamo en la 
 de San Luca, entre otros. También se celebrarán exposiciones de colecciones privadas en 
 el Palazzo della Meridiana y en el Banco y Fundación Carige. 
 
-![Fachada del Albergo dei Poveri.](etheria-images/2022/05/superbarroco-albergo-dei-poveri.jpg "Fachada del Albergo dei Poveri.")
+![Fachada del Albergo dei Poveri.](https://fotos.etheriamagazine.com/2022/05/superbarroco-albergo-dei-poveri.jpg "Fachada del Albergo dei Poveri.")
 
 ### Consejos Etheria
 

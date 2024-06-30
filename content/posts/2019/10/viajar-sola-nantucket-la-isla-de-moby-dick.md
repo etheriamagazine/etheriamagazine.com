@@ -1,7 +1,7 @@
 ---
 title: "Nantucket, la sorprendente isla de Moby Dick"
 date: 2019-10-16
-coverImage: etheria-images/2019/10/viaje-mujeres-Nantucket.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/10/viaje-mujeres-Nantucket.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 Nantucket, una pequeña isla al norte de Massachusetts, es uno de los lugares más fascinantes y glamurosos de Estados Unidos. En Etheria magazine te proponemos un viaje sola o con amigas a este destino, que hizo famoso el escritor Herman Melville (autor de 'Moby Dick'), para disfrutar de preciosas playas y una arquitectura única, hartarte de ostras y langosta, y conocer su pasado en el Museo de las Ballenas.
 
-![casas típicas de nantucket](etheria-images/2019/10/viaje-mujeres-Nantucket-900x599.jpg "Vista desde el mar de Nantucket.")
+![casas típicas de nantucket](https://fotos.etheriamagazine.com/2019/10/viaje-mujeres-Nantucket-900x599.jpg "Vista desde el mar de Nantucket.")
 
 La mejor manera de acceder a Nantucket, la isla de Moby Dick, es tomando el **ferry que 
 sale desde New Bedford**, una ciudad de Massachusetts. La travesía, que dura dos horas, 
@@ -23,7 +23,7 @@ arena blanca y fina bordeada de impresionantes mansiones ajardinadas. Esta image
 postal aporta una sensación de paz y de tiempo detenido que te enamorará al primer golpe 
 de vista. 
 
-![mansiones nantucket](etheria-images/2019/10/casas-nantucket-viajes-mujeres-900x198.jpg "Bonitas viviendas de Nantucket.")
+![mansiones nantucket](https://fotos.etheriamagazine.com/2019/10/casas-nantucket-viajes-mujeres-900x198.jpg "Bonitas viviendas de Nantucket.")
 
 ## Ricos y famosos en Nantucket
 
@@ -35,7 +35,7 @@ algunos como Johnny Depp, la modelo Gisele Bündchen y las Kardashian es su dest
 vacaciones, pero también hay artistas residentes que han encontrado la inspiración en 
 esta preciosa isla. 
 
-![famosos en Nantucket](etheria-images/2019/10/iaje-mujeres-Nantucket-casas-famosos-900x599.jpg "Residencia de verano de Robert Horner.")
+![famosos en Nantucket](https://fotos.etheriamagazine.com/2019/10/iaje-mujeres-Nantucket-casas-famosos-900x599.jpg "Residencia de verano de Robert Horner.")
 
 ## Calles con glamour
 
@@ -45,7 +45,7 @@ luminosos, ni establecimientos de comida rápida ni ninguna construcción que di
 la armonía arquitectónica. Sigue manteniendo las calles adoquinadas y bordeadas de 
 hermosos edificios victorianos de madera laminada o de ladrillos vista. 
 
-![calles comerciales de nantucket](etheria-images/2019/10/iaje-mujeres-Nantucket-calle-de-las-enaguas.jpg "Calle de las Enaguas.")
+![calles comerciales de nantucket](https://fotos.etheriamagazine.com/2019/10/iaje-mujeres-Nantucket-calle-de-las-enaguas.jpg "Calle de las Enaguas.")
 
 En **Main Street**, la arteria principal, se encuentran pequeños comercios, restaurantes 
 y tiendas de aspecto sofisticado y _cool_, además de una de las **dos librerías** de la 
@@ -74,7 +74,7 @@ isla recuperó su economía, reinventándose a sí misma.
 > Nantucket se convirtió en uno de los destinos turísticos más lujosos y exclusivos de 
 > Estados Unidos. 
 
-![museo de las ballenas](etheria-images/2019/10/iaje-mujeres-Nantucket-museo-ballenas-900x599.jpg "Museo de las Ballenas.")
+![museo de las ballenas](https://fotos.etheriamagazine.com/2019/10/iaje-mujeres-Nantucket-museo-ballenas-900x599.jpg "Museo de las Ballenas.")
 
 ## Arte y museos de las ballenas
 
@@ -89,7 +89,7 @@ extensa colección de dientes de cachalote tallados por los marineros, proyeccio
 documentales, charlas y, por supuesto, la estrella del museo: el esqueleto de un 
 cachalote donde puedes apreciar las dimensiones de este impresionante cetáceo. 
 
-![herman melville y moby dick](etheria-images/2019/10/Herman-Melville-moby-dick-900x540.jpg "Ilustración del libro Moby Dick y retrato de Herman Melville.")
+![herman melville y moby dick](https://fotos.etheriamagazine.com/2019/10/Herman-Melville-moby-dick-900x540.jpg "Ilustración del libro Moby Dick y retrato de Herman Melville.")
 
 ## Herman Melville, padre de Moby Dick
 
@@ -109,7 +109,7 @@ Este año, con motivo del **bicentenario del nacimiento de Melville**, todo el e
 Nueva Inglaterra esta volcado en homenajes a este autor universal cuyo reconocimiento 
 llegó tras su muerte. 
 
-![Maria Mitchell en nantucket](etheria-images/2019/10/maria-mitchell-nantucket-observatorio-biblioteca-atheneum-900x257.jpg "Biblioteca, Maria Mitchell y su observatorio astronómico.")
+![Maria Mitchell en nantucket](https://fotos.etheriamagazine.com/2019/10/maria-mitchell-nantucket-observatorio-biblioteca-atheneum-900x257.jpg "Biblioteca, Maria Mitchell y su observatorio astronómico.")
 
 ## Maria Mitchell, primera mujer astrónoma
 
@@ -130,7 +130,7 @@ sobre todo en el campo de la astrofísica.
 Te recomendamos visitar su casa natal y su observatorio, además de la **biblioteca 
 Athenea** donde a sus 18 años se convirtió en la primera mujer bibliotecaria. 
 
-![ostras de nantucket](etheria-images/2019/10/ostras-nantucket-900x599.jpg "Los productos del mar son los protagonistas de la cocina de la isla.")
+![ostras de nantucket](https://fotos.etheriamagazine.com/2019/10/ostras-nantucket-900x599.jpg "Los productos del mar son los protagonistas de la cocina de la isla.")
 
 ## Pide bocadillo de langosta
 
@@ -141,7 +141,7 @@ en salsas y el típico 'lobster roll', un bocadillo de carne de langosta con may
 Pero si hay algo imprescindible en la cocina costera es la 'clam chowder', una 
 contundente, pero deliciosa, **crema de almejas**. 
 
-![hotel en nantucket](etheria-images/2019/10/biblioteca-hotel-white-elephant-900x599.jpg "Acogedora biblioteca del hotel White Elephant.")
+![hotel en nantucket](https://fotos.etheriamagazine.com/2019/10/biblioteca-hotel-white-elephant-900x599.jpg "Acogedora biblioteca del hotel White Elephant.")
 
 ## Dónde dormir en Nantucket
 
@@ -161,7 +161,7 @@ langostas, ostras y pescado recién salido del mar. Sólo por una comida en este
 merecería la pena viajar a Nantucket. El hotel también te ofrece bicicletas para 
 recorrer la isla durante el tiempo que necesites. 
 
-![Faro de la isla de Nantucket](etheria-images/2019/10/viaje-isla-nantucket-faro-great-point-900x571.jpg "Faro de la isla de Nantucket.")
+![Faro de la isla de Nantucket](https://fotos.etheriamagazine.com/2019/10/viaje-isla-nantucket-faro-great-point-900x571.jpg "Faro de la isla de Nantucket.")
 
 ## Nantucket en bici
 

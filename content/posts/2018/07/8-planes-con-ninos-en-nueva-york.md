@@ -1,7 +1,7 @@
 ---
 title: "Viaje a Nueva York con niños: 8 planes que no puedes perderte"
 date: 2018-07-23
-coverImage: etheria-images/2018/05/5-Nueva-York-Top-of-the-Rock-e1565512750575.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock-e1565512750575.jpg
 categories: 
   - viaje-en-familia
   - viajes-urbanos
@@ -12,7 +12,7 @@ authors:
 
 Nueva York es una ciudad tan versátil que un viaje en familia puede convertirse en una aventura emocionante para los más pequeños. Su tamaño y ritmo frenético no deben echaros para atrás. Es más, el punto de vista de los niños resultará uno de los ingredientes principales de la experiencia en la Gran Manzana.
 
-![Nueva York con niños, viajes en familia, escapadas con niños](etheria-images/2018/05/10-Nueva-York-Central-Park.jpg "Central Park. © SG")
+![Nueva York con niños, viajes en familia, escapadas con niños](https://fotos.etheriamagazine.com/2018/05/10-Nueva-York-Central-Park.jpg "Central Park. © SG")
 
 Como gran metrópolis que es, en Nueva York hay actividades para toda la familia. En un [viaje 
 a Nueva York con 
@@ -41,7 +41,7 @@ didáctico con la voz de Whoopi Goldberg (como casi todo en la ciudad, en inglé
 puede hacer una visita a la **Discovery Room**, una sala del museo pensada para que los 
 niños puedan tocar e interactuar con las piezas expuestas. 
 
-![Nueva York con niños, viajes en familia, planes con niños](etheria-images/2018/05/1-Nueva-York-Museo-de-Historia-Natural-e1565512335783.jpg "Museo de Historia Natural de Nueva York.")
+![Nueva York con niños, viajes en familia, planes con niños](https://fotos.etheriamagazine.com/2018/05/1-Nueva-York-Museo-de-Historia-Natural-e1565512335783.jpg "Museo de Historia Natural de Nueva York.")
 
 ### 2\. Central Park
 
@@ -61,7 +61,7 @@ frecuentado por muchos neoyorkinos. Alrededor del parque hay restaurantes elegan
 caros (sobre todo en el Upper East Side) donde es complicado ir con niños después de 
 haber pasado una mañana de parque, con la indumentaria que eso implica. 
 
-![Nueva York con niños, viajes en familia, planes con niños](etheria-images/2018/05/2-Nueva-York-Central-Park-e1565512442783.jpg "Barcas en Central Park. © SG")
+![Nueva York con niños, viajes en familia, planes con niños](https://fotos.etheriamagazine.com/2018/05/2-Nueva-York-Central-Park-e1565512442783.jpg "Barcas en Central Park. © SG")
 
 ### 3\. Intrepid Sea, Air & Space Museum
 
@@ -74,7 +74,7 @@ aviones de combate restaurados, cápsulas espaciales (y entrar en ellas), simula
 antiguo submarino USS Growler y el Concorde de British Ariways… La información y vídeos 
 están en inglés. 
 
-![viajes en familia, viajes con niños a Nueva York, escapadas con niños](etheria-images/2018/05/3-Nueva-York-Intrepid-Museum-e1565512508871.jpg "Intrepid Sea, Air & Space Museum. © SG")
+![viajes en familia, viajes con niños a Nueva York, escapadas con niños](https://fotos.etheriamagazine.com/2018/05/3-Nueva-York-Intrepid-Museum-e1565512508871.jpg "Intrepid Sea, Air & Space Museum. © SG")
 
 ### 4\. Crucero por el Hudson
 
@@ -87,7 +87,7 @@ se puede tomar algo a bordo y verán bastante cerca la Estatua de la Libertad (s
 visto las películas del ratón Fievel estarán muy interesados en ver a la gran dama 
 neoyorkina). Las explicaciones de la audición están en inglés. 
 
-![Nueva York con niños, viajes en familia, planes con niños](etheria-images/2018/05/4-Nueva-York-crucero-por-el-Hudson-e1565512555150.jpg "Cruceros por el Hudson. © SG")
+![Nueva York con niños, viajes en familia, planes con niños](https://fotos.etheriamagazine.com/2018/05/4-Nueva-York-crucero-por-el-Hudson-e1565512555150.jpg "Cruceros por el Hudson. © SG")
 
 ### 5\. Subir al Rockefeller Center
 
@@ -99,7 +99,7 @@ todo el _skyline_ del Midtown y Downtown de Nueva York. Seguramente la subida al
 es más mítica, pero las vistas del Rockefeller son de impresión. Además, en su web [www.topoftherocknyc.com](http://www.topoftherocknyc.com/) 
 se puede reservar día y hora para subir y así evitar colas. 
 
-![Nueva York con niños, escapadas en familia, planes con niños](etheria-images/2018/05/5-Nueva-York-Top-of-the-Rock-e1565512750575.jpg "Vistas desde el Rockefeller Center. © SG")
+![Nueva York con niños, escapadas en familia, planes con niños](https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock-e1565512750575.jpg "Vistas desde el Rockefeller Center. © SG")
 
 ### 6\. Tiendas de juguetes
 
@@ -119,7 +119,7 @@ que adore las muñecas. Puede elegir una que se parezca a él, comprarse ropa ig
 hacerse fotos en un estudio, llevarla a la peluquería de muñecas… No apto para padres 
 alérgicos a los lazos y al merengue. 
 
-![Nueva York con niños, escapadas en familia, planes con niños](etheria-images/2018/05/6-Nueva-York-American-Girl-Place-e1565512801780.jpg "Taxis en Nueva York.")
+![Nueva York con niños, escapadas en familia, planes con niños](https://fotos.etheriamagazine.com/2018/05/6-Nueva-York-American-Girl-Place-e1565512801780.jpg "Taxis en Nueva York.")
 
 • **Lego Store**. Está situado en Rockefeller Center y es perfect para los amantes de 
 los juguetes Lego. Sólo por ver las maquetas que tienen montadas merece la pena. 
@@ -135,7 +135,7 @@ con las típicas casas de Nueva York restauradas y sus escaleras de incendios en
 fachadas, tiendas de diseño diferentes y la vida real de los neoyorkinos, que pasean por 
 aquí ajenos al bullicio de los turistas en Broadway. 
 
-![Nueva York con niños, escapadas en familia, planes con niños](etheria-images/2018/05/7-Nueva-York-Soho-e1565512868470.jpg "Calle de El Soho. © SG")
+![Nueva York con niños, escapadas en familia, planes con niños](https://fotos.etheriamagazine.com/2018/05/7-Nueva-York-Soho-e1565512868470.jpg "Calle de El Soho. © SG")
 
 ### 8\. El parque Highlien
 
@@ -145,7 +145,7 @@ permite alejarse un poco del asfalto. Cuenta con muchos bancos donde detenerse a
 descansar y varios puntos de acceso. Se encuentra en la parte oeste de Manhattan, en la 
 zona de Chelsea. 
 
-![Nueva York con niños, escapadas en familia, planes con niños](etheria-images/2018/05/8-Nueva-York-Highlinen-e1565512931213.jpg "Parque Highlien.")
+![Nueva York con niños, escapadas en familia, planes con niños](https://fotos.etheriamagazine.com/2018/05/8-Nueva-York-Highlinen-e1565512931213.jpg "Parque Highlien.")
 
 ### CONSEJOS ETHERIA
 

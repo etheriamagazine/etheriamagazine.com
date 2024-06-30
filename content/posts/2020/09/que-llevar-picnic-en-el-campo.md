@@ -1,7 +1,7 @@
 ---
 title: "Descubre los 10 imprescindibles que debes llevar a un pícnic"
 date: 2020-09-03
-coverImage: etheria-images/2020/08/picnic-mantel.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/08/picnic-mantel.jpg
 categories: 
   - organiza-tu-viaje
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 Las excursiones para realizar en un día se postulan como uno de los planes de ocio estrella para el final del verano y el otoño. Busca en los alrededores de tu lugar de residencia ese lugar que tienes pendiente y organiza un pícnic para tu familia o tus amigos. Aquí te damos 10 pistas para que no te dejes nada en casa.
 
-![picnic con queso, frutas y vino](etheria-images/2020/08/picnic-mujer.jpg "Nada mejor que un pícnic para huir de la ciudad. © Taisiia Shestopal")
+![picnic con queso, frutas y vino](https://fotos.etheriamagazine.com/2020/08/picnic-mujer.jpg "Nada mejor que un pícnic para huir de la ciudad. © Taisiia Shestopal")
 
 Los pícnics se están poniendo de moda sobre todo desde que las actividades al aire libre 
 se han convertido en la opción principal de ocio en tiempos de coronavirus. Siempre han 
@@ -43,7 +43,7 @@ Para llevar cómodamente el menaje existen distintas opciones: desde elegantes c
 como ésta que puedes encontrar en la [FNAC](https://clk.tradedoubler.com/click?p=70431&a=3132464&url=https%3A%2F%2Fwww.fnac.es%2FCesta-de-picnic-Barbacoa-y-comedor-al-aire-libre-Cocina-al-aire-libre%2Fa7249121%23omnsearchpos%3D14) 
 u otras con diseños más actuales como la de [Amazón](https://amzn.to/3696hpl). 
 
-![Cestas de pícnic con menaje incluido](etheria-images/2020/09/cestas-picnic.jpg "Cestas de pícnic de Fnac y Amazon.")
+![Cestas de pícnic con menaje incluido](https://fotos.etheriamagazine.com/2020/09/cestas-picnic.jpg "Cestas de pícnic de Fnac y Amazon.")
 
 ## 2\. Mantas
 
@@ -51,7 +51,7 @@ Son fundamentales para extenderse cómodamente sobre el suelo. Las hay coloridas
 clásicas de [cuadros](https://tidd.ly/2E874bS), que siempre triunfan, pero si ha llovido 
 lo mejor es llevar una que sea impermeable por abajo, como este modelo de [Amazon](https://amzn.to/3kVpWvk). 
 
-![mantas de colores para exterior](etheria-images/2020/09/picnic-mantas-colores.jpg "Mantas de El Corte Inglés y Amazon.")
+![mantas de colores para exterior](https://fotos.etheriamagazine.com/2020/09/picnic-mantas-colores.jpg "Mantas de El Corte Inglés y Amazon.")
 
 ## 3\. Neveras
 
@@ -63,7 +63,7 @@ El Corte Inglés y que puede servir si sólo sois dos o de apoyo a una nevera m�
 Muchas combinan su función de nevera con capacidad para llevar el menaje o, incluso, una 
 manta, como esta de [Amazon](https://amzn.to/3jwBQfJ). 
 
-![neveras para excursiones](etheria-images/2020/09/picnic-neveras-modelos.jpg "Modelos de neveras para pícnic de Amazon y El Corte Inglés.")
+![neveras para excursiones](https://fotos.etheriamagazine.com/2020/09/picnic-neveras-modelos.jpg "Modelos de neveras para pícnic de Amazon y El Corte Inglés.")
 
 ## 4\. Innova con la comida
 
@@ -77,7 +77,7 @@ preparar. En cualquier caso, si no quieres complicarte, lo mejor es llevar una b
 selección de quesos y embutidos y algo de fruta. Siempre apetece y no te quedarás lleno 
 si quieres seguir caminando después de comer. 
 
-![excursiones en un día, pícnic, escapadas por España](etheria-images/2020/08/picnic-libros-recetas.jpg "Libros para innovar con las recetas para el pícnic.")
+![excursiones en un día, pícnic, escapadas por España](https://fotos.etheriamagazine.com/2020/08/picnic-libros-recetas.jpg "Libros para innovar con las recetas para el pícnic.")
 
 ## 5\. Juegos al aire libre
 
@@ -92,7 +92,7 @@ llevar un [disco volador](https://tidd.ly/2QncWkl) o una [comba](https://tidd.ly
 Para todas las edades es el divertido [Spikeball](https://amzn.to/3gdJWpB), un juego de 
 habilidad y destreza disponible en Amazon. 
 
-![juguetes de exterior](etheria-images/2020/08/picnic-juegos-aire-libre.jpg "Juegos para disfrutar al aire libre: skipeball, Bola Booom, combas y set de juegos de exterior.")
+![juguetes de exterior](https://fotos.etheriamagazine.com/2020/08/picnic-juegos-aire-libre.jpg "Juegos para disfrutar al aire libre: skipeball, Bola Booom, combas y set de juegos de exterior.")
 
 ## 6\. Neceser
 
@@ -102,7 +102,7 @@ y para el [cuerpo](https://tidd.ly/3hi4nmG)) y el tan necesario en estos momento
 hidroalcohólico](https://tidd.ly/3j0MWqS). Y no olvides el [AfterBite](https://amzn.to/2QdHapD) 
 por si hay alguna picadura. 
 
-![crema, repelente y gel hidroalcoholico para neceser de viaje](etheria-images/2020/09/picnic-neceser-cremas.jpg "Crema solar y gel hidroalcohólico de El Corte Inglés y repelente de mosquitos disponible en Amazon.")
+![crema, repelente y gel hidroalcoholico para neceser de viaje](https://fotos.etheriamagazine.com/2020/09/picnic-neceser-cremas.jpg "Crema solar y gel hidroalcohólico de El Corte Inglés y repelente de mosquitos disponible en Amazon.")
 
 ## 7\. Botiquín de viaje
 
@@ -111,7 +111,7 @@ alguna caída o raspón, existen versiones reducidas para llevar de excursión, 
 coloridas como ésta que propone Amazon. Si viajas con niños, no te olvides el [Arnidol](https://amzn.to/31axkel) 
 por si hay algún golpe, siempre sirve de alivio y no aparecerán moratones. 
 
-![botiquín y crema para los golpes](etheria-images/2020/08/picnic-botiquin.jpg "Colorido botiquín de viaje y Arnidol, disponibles en Amazon.")
+![botiquín y crema para los golpes](https://fotos.etheriamagazine.com/2020/08/picnic-botiquin.jpg "Colorido botiquín de viaje y Arnidol, disponibles en Amazon.")
 
 ## 8\. Botas de trekking
 
@@ -120,7 +120,7 @@ cualquier calzado, es fundamental llevar uno adecuado y, si no tienes botas de t
 al menos unas buenas y resistentes deportivas. Una opción interesante es la de [Amazon](https://amzn.to/3Eddp0j), 
 por ligeras y resistentes, y también puedes encontrar buenas propuestas en [Decathlon](https://www.decathlon.es/es/p/zapatillas-de-montana-y-trekking-merrell-crosslander-mujer-gris-rosa/_/R-p-X8385082?mc=8385082). 
 
-![botas para senderismo de niño y de mujer](etheria-images/2020/09/picnic-calzado-trekking.jpg "Botas de trekking infantiles de Amazon y de mujer de Decathlon.")
+![botas para senderismo de niño y de mujer](https://fotos.etheriamagazine.com/2020/09/picnic-calzado-trekking.jpg "Botas de trekking infantiles de Amazon y de mujer de Decathlon.")
 
 ## 9\. Para resguardarse del frío
 
@@ -133,7 +133,7 @@ desmontables](https://www.decathlon.es/es/p/pantalon-desmontable-de-montana-y-tr
 que puedes hacer cortos o largo según quieras: te pueden proteger del frío, de los 
 mosquitos y de rasparte con las hierbas altas. 
 
-![ropa para senderismo](etheria-images/2020/09/picnic-ropa-trekking-mujer.jpg "Pantalón desmontable y cortavientos de Decathlon.")
+![ropa para senderismo](https://fotos.etheriamagazine.com/2020/09/picnic-ropa-trekking-mujer.jpg "Pantalón desmontable y cortavientos de Decathlon.")
 
 ## 10\. Tecnología
 
@@ -147,7 +147,7 @@ económicas en el mercado, pero merece la pena invertir algo más de dinero en u
 menos de gama media como este de [Olympus](https://amzn.to/37Md6h5) que puedes encontrar 
 en Amazon. 
 
-![Powerbank de Fnac y prismáticos de Amazon.](etheria-images/2020/09/powerbank-prismaticos.jpg "Powerbank de Fnac y prismáticos de Amazon.")
+![Powerbank de Fnac y prismáticos de Amazon.](https://fotos.etheriamagazine.com/2020/09/powerbank-prismaticos.jpg "Powerbank de Fnac y prismáticos de Amazon.")
 
 ### También te puede interesar:
 

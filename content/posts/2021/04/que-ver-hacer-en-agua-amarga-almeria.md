@@ -1,7 +1,7 @@
 ---
 title: "Agua Amarga, el mejor próximo verano de tu vida"
 date: 2021-04-28
-coverImage: etheria-images/2021/04/Agua-Amarga-playa.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/04/Agua-Amarga-playa.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -13,7 +13,7 @@ authors:
 
 La idílica estampa blanca del pueblo de Agua Amarga, su salvaje costa, la naturaleza que lo rodea y una gastronomía de kilómetro cero lo convierten en una de las joyas –aún por descubrir– de la costa almeriense. Conoce todo lo que puedes hacer en Agua Amarga y algunas excursiones interesantes por Cabo de Gata.
 
-![playas de agua amarga en Almeria](etheria-images/2021/04/Agua-Amarga-playa.jpg "Playa de Agua Amarga. © Marcus Ferrer.")
+![playas de agua amarga en Almeria](https://fotos.etheriamagazine.com/2021/04/Agua-Amarga-playa.jpg "Playa de Agua Amarga. © Marcus Ferrer.")
 
 De casitas blancas y construcciones características de los Campos de Níjar, como 
 preciosos aljibes y viejos cortijos restaurados, se forja, de cara al mar, la silueta de 
@@ -31,7 +31,7 @@ preciosa estampa de construcciones blancas con detalles azules, sus buganvillas
 invadiendo idílicos callejones repletos de tiendecitas, así como sus pitas y sus mil y 
 un cactus, harán de Agua Amarga el mejor próximo verano de tu vida. 
 
-![pitas en almeria](etheria-images/2021/04/siluetas-pitas.jpg "Siluetas de pitas al atardecer.")
+![pitas en almeria](https://fotos.etheriamagazine.com/2021/04/siluetas-pitas.jpg "Siluetas de pitas al atardecer.")
 
 ## Agua Amarga, un pueblito de pescadores
 
@@ -41,7 +41,7 @@ ido construyendo casitas y pequeñas edificaciones que se intercalan con un pais
 escarpados acantilados y hermosas calas, además de huertas creadas alrededor de pozos y 
 tierras de pastoreo. 
 
-![agua amarga pueblo de Cabo de Gata](etheria-images/2021/04/agua-amarga-pueblo.jpg "Conserva su imagen de pueblo de pescadores.")
+![agua amarga pueblo de Cabo de Gata](https://fotos.etheriamagazine.com/2021/04/agua-amarga-pueblo.jpg "Conserva su imagen de pueblo de pescadores.")
 
 Entre sus instalaciones hoteleras, merece la pena escoger entre aquellas que mantienen 
 el encanto y la serenidad del entorno, como el **El Tío Kiko**, un hotel _boutique_ en 
@@ -49,7 +49,7 @@ el que es posible empaparse de la increíble y singular naturaleza del Parque Na
 Cabo de Gata, además de enamorarse de los preciosos atardeceres sobre el mar desde 
 cualquiera de sus habitaciones. 
 
-![hotel el tio kiko agua amarga](etheria-images/2021/04/hotel-el-tio-kiko.jpg "© Hotel El Tío Kiko.")
+![hotel el tio kiko agua amarga](https://fotos.etheriamagazine.com/2021/04/hotel-el-tio-kiko.jpg "© Hotel El Tío Kiko.")
 
 ## Parque Natural de Cabo de Gata-Níjar
 
@@ -58,7 +58,7 @@ acantilada que no ha sufrido la más mínima degradación medioambiental, el **P
 de Gata-Níjar** ocupa parcialmente los términos municipales de Almería capital, Níjar y 
 Carboneras. 
 
-![playa escullos excursiones en Cabo de Gata](etheria-images/2021/04/almeria-cabo-playa-escullos.jpg "Playa de los Escullos o del Arco, en Cabo de Gata.")
+![playa escullos excursiones en Cabo de Gata](https://fotos.etheriamagazine.com/2021/04/almeria-cabo-playa-escullos.jpg "Playa de los Escullos o del Arco, en Cabo de Gata.")
 
 A lo largo y ancho de su terreno cuenta con salvajes acantilados con espectaculares 
 vistas, playas naturales paradisiacas, así como calas secretas a las que acceder con 
@@ -76,7 +76,7 @@ disponibles para todos los niveles, y llegar hasta alguno de sus miradores, como
 centenarios, cañaverales, rocas volcánicas y hasta fósiles marinos pueden verse a lo 
 largo de ellas, recalcando la aridez de este clima semiárido único en Europa. 
 
-![playa monsul almeria](etheria-images/2021/04/almeria-playa-monsul.jpg "Playa de Monsul, en el Parque Nacional de Cabo de Gata.")
+![playa monsul almeria](https://fotos.etheriamagazine.com/2021/04/almeria-playa-monsul.jpg "Playa de Monsul, en el Parque Nacional de Cabo de Gata.")
 
 ## Playas y calas cerca de Agua Amarga
 
@@ -98,7 +98,7 @@ Nudos](http://4nudosrestaurante.com/restaurante-4-nudos-san-jose/), en San José
 en pleno Cabo de Gata. Propuestas con las que deleitarse de la mejor manera del sabor de 
 Almería. 
 
-![excursion flamencos en cabo de gata](etheria-images/2021/04/cabo-de-gata-1649062_1920-900x600.jpg "Humedales donde se pueden ver flamencos en Cabo de Gata.")
+![excursion flamencos en cabo de gata](https://fotos.etheriamagazine.com/2021/04/cabo-de-gata-1649062_1920-900x600.jpg "Humedales donde se pueden ver flamencos en Cabo de Gata.")
 
 ## Excursiones desde Agua Amarga
 
@@ -109,7 +109,7 @@ Agua Amarga, permite acudir a tres puestos de observación de aves, desde los cu
 posible contemplar un total de 100 especies distintas. Durante los meses de verano la 
 colonia de flamencos alcanza su máximo número de ejemplares. 
 
-![mariposario nijar en cabo de gata](etheria-images/2021/04/mariposario-nijar-almeria.jpg "© Mariposario de Níjar, una visita ideal desde Cabo de Gata.")
+![mariposario nijar en cabo de gata](https://fotos.etheriamagazine.com/2021/04/mariposario-nijar-almeria.jpg "© Mariposario de Níjar, una visita ideal desde Cabo de Gata.")
 
 ### Mariposario de Níjar
 
@@ -126,7 +126,7 @@ paraje natural kárstico más extenso de la geografía española. En sus 2.375 h
 superficie se presentan numerosas cuevas y todo tipo de formaciones geológicas dignas de 
 ser descubiertas. 
 
-![bares de tapas, puerto, pescado frito, tomates raf](etheria-images/2020/01/ruta-bares-almeria-900x665.jpg "Ruta de los sabores por Almería. © Pepa García")
+![bares de tapas, puerto, pescado frito, tomates raf](https://fotos.etheriamagazine.com/2020/01/ruta-bares-almeria-900x665.jpg "Ruta de los sabores por Almería. © Pepa García")
 
 ### Otros viajes en Almería...
 

@@ -1,7 +1,7 @@
 ---
 title: "Descubre la vida de las mujeres de Madrid con una ruta turística"
 date: 2021-03-02
-coverImage: etheria-images/2021/03/Madrid-gran-via.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/Madrid-gran-via.jpg
 categories: 
   - organiza-tu-viaje
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 Madrid Destino ha lanzado '25 Visitas Originales por Madrid' para que aprovechemos esta ciudad sin apenas turistas que nos ha dejado la pandemia y la recorramos con guías oficiales por sólo 3 euros. Desde Etheria Magazine destacamos cuatro rutas realizadas desde un punto de vista femenino que nos han gustado especialmente, aunque en todas podrás encontrar un punto de vista distinto para mirar de nuevo tu ciudad.
 
-![turismo en Madrid](etheria-images/2021/03/Madrid-gran-via.jpg "La Gran Vía al atardecer. © Florian Wehde")
+![turismo en Madrid](https://fotos.etheriamagazine.com/2021/03/Madrid-gran-via.jpg "La Gran Vía al atardecer. © Florian Wehde")
 
 Una de las escasas ventajas que nos está dejando la falta de movilidad que tenemos 
 debido a la pandemia es poder redescubrir nuestros lugares de residencia. Si eres 
@@ -35,7 +35,7 @@ de las mujeres en el mundo de las letras desde el siglo XVI hasta nuestros días
 relacionando lugares con obras y textos que relataban cómo era la sociedad y el papel de 
 esas mujeres en cada uno de los distintos momentos históricos. 
 
-![visitas turísticas en Madrid](etheria-images/2021/03/Madrid-la-latina.jpg "Tejados de La Latina desde la calle Segovia. © Javier Sánchez/Madrid Destino")
+![visitas turísticas en Madrid](https://fotos.etheriamagazine.com/2021/03/Madrid-la-latina.jpg "Tejados de La Latina desde la calle Segovia. © Javier Sánchez/Madrid Destino")
 
 #### Las trabajadoras madrileñas y sus oficios
 
@@ -53,7 +53,7 @@ Ten también en tu lista el recorrido sobre _**La Latina y el museo de los Oríg
 que gira en torno a los valores representados por Beatriz Galindo que, conocida como ‘La 
 Latina’ por su conocimiento del latín, dio nombre a este barrio. 
 
-![visitas turísticas en Madrid](etheria-images/2021/03/Madrid-Barrio-de-Lavapies.jpg "Estación de metro de Lavapiés junto a la calle Argumosa. © Hiberus/Madrid Destino")
+![visitas turísticas en Madrid](https://fotos.etheriamagazine.com/2021/03/Madrid-Barrio-de-Lavapies.jpg "Estación de metro de Lavapiés junto a la calle Argumosa. © Hiberus/Madrid Destino")
 
 ## Muchas más rutas turísticas en Madrid
 
@@ -66,7 +66,7 @@ de Malasaña analizando esta singular etapa de la historia de Madrid mientras se
 alguno de los lugares más emblemáticos de los rodajes de las películas de Pedro 
 Almodóvar. 
 
-![arte en Madrid](etheria-images/2021/03/Madrid-atocha.jpg "Escultura de Antonio López en Atocha.")
+![arte en Madrid](https://fotos.etheriamagazine.com/2021/03/Madrid-atocha.jpg "Escultura de Antonio López en Atocha.")
 
 ### Rutas temáticas para todos
 
@@ -86,7 +86,7 @@ históricos con la ruta _Tiendas centenarias de Madrid_, ni descubrir todas las
 curiosidades sobre los alojamientos de la capital con el recorrido _De las posadas al 
 ‘gran lujo’_. 
 
-![ruta turistica por Madrid](etheria-images/2021/03/Madrid-posadas-cava-baja.jpg "Posada El León de Oro, en la Cava Baja. © SG")
+![ruta turistica por Madrid](https://fotos.etheriamagazine.com/2021/03/Madrid-posadas-cava-baja.jpg "Posada El León de Oro, en la Cava Baja. © SG")
 
 ## CONSEJOS ETHERIA
 
@@ -114,7 +114,7 @@ Precio: 3 euros por persona.
 
 Del 2 de marzo hasta el mes junio de 2021. 
 
-![Plaza mayor de Madrid](etheria-images/2021/03/Madrid-Plaza-Mayor.jpg "Plaza Mayor: Estatua ecuestre de Felipe III con Casa de la Panadería de fondo. © Paolo Giocoso/Madrid Destino")
+![Plaza mayor de Madrid](https://fotos.etheriamagazine.com/2021/03/Madrid-Plaza-Mayor.jpg "Plaza Mayor: Estatua ecuestre de Felipe III con Casa de la Panadería de fondo. © Paolo Giocoso/Madrid Destino")
 
 ### También te puede interesar:
 

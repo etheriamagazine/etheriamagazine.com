@@ -1,7 +1,7 @@
 ---
 title: "Llevar a Irán a otras mujeres, el sueño de Leti Lagarda"
 date: 2022-04-01
-coverImage: etheria-images/2022/03/iran-mujeres.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/03/iran-mujeres.jpg
 categories: 
   - mujeres-etheria
   - proyectos-con-alma
@@ -12,7 +12,7 @@ authors:
 
 Muchos proyectos se gestan en los despachos, pero otros tantos surgen como una necesidad natural tras una experiencia vivida. Ese es el caso de la iniciativa de Leti Lagarda, que comienza a organizar viajes para mujeres a Irán con el objetivo de eliminar los prejuicios por un país que la ha conquistado.
 
-![plano medio de leti lagarda en irán](etheria-images/2022/03/iran-mujeres.jpg "Leti Lagarda en Irán.")
+![plano medio de leti lagarda en irán](https://fotos.etheriamagazine.com/2022/03/iran-mujeres.jpg "Leti Lagarda en Irán.")
 
 “Treinta primaveras y unos cuantos años de mochilera en solitario” son dos rasgos que 
 Leti Lagarda remarca en su presentación cuando nos escribe a Etheria Magazine. También 
@@ -25,7 +25,7 @@ mujeres. Como en esta sección de “Proyectos con alma” queremos que cada emp
 tenga voz propia, a partir de aquí es la propia Leti Lagarda quien nos cuenta su 
 proyecto más inmediato. 
 
-![arquitectura de Irán](etheria-images/2022/03/que-ver-iran.jpg "En Irán se puede descubrir una arquitectura fascinante. © Leti Lagarda")
+![arquitectura de Irán](https://fotos.etheriamagazine.com/2022/03/que-ver-iran.jpg "En Irán se puede descubrir una arquitectura fascinante. © Leti Lagarda")
 
 ## Irán, un viaje cargado de experiencias
 
@@ -47,7 +47,7 @@ sus bazares, sus “salam” dándote la bienvenida al país, la gran mezcla cul
 existe a lo largo y ancho del estado y una infinidad de paisajes de postal. Tiene **las 
 mezquitas más hermosas que haya visto jamás**. 
 
-![Mezquita de Nasir-al-Mulk, la más bonita de Shiraz](etheria-images/2022/04/mezquita-iran.jpg "Mezquita de Nasir-al-Mulk, la más bonita de Shiraz. © Steven Su")
+![Mezquita de Nasir-al-Mulk, la más bonita de Shiraz](https://fotos.etheriamagazine.com/2022/04/mezquita-iran.jpg "Mezquita de Nasir-al-Mulk, la más bonita de Shiraz. © Steven Su")
 
 ## Objetivo: llevar a viajeras a Irán
 
@@ -67,7 +67,7 @@ abran los ojos sobre Irán y sobre esta fascinante zona del mundo. Al igual que 
 yo, y que me sirvió para después animarme a recorrer Líbano, Pakistán, Arabia Saudita y 
 Kurdistán. 
 
-![leti lagarda en una carretera de Irán](etheria-images/2022/03/ruta-iran.jpg "Viajar a Irán por libre permite elegir libremente tu itinerario. © Leti Lagarda")
+![leti lagarda en una carretera de Irán](https://fotos.etheriamagazine.com/2022/03/ruta-iran.jpg "Viajar a Irán por libre permite elegir libremente tu itinerario. © Leti Lagarda")
 
 ## Por qué mis viajes a Irán son diferentes
 
@@ -86,7 +86,7 @@ que se ha ido creando en los últimos años debido a las redes sociales. Quiero 
 chicas que me acompañen conecten con el viaje y que se olviden durante dos semanas del 
 mundo, que permanezcan en el momento presente de lo que Irán nos ponga en el camino. 
 
-![Paisaje rural de Irán.](etheria-images/2022/03/iran-rural.jpg "Paisaje rural de Irán. © Leti Lagarda")
+![Paisaje rural de Irán.](https://fotos.etheriamagazine.com/2022/03/iran-rural.jpg "Paisaje rural de Irán. © Leti Lagarda")
 
 Y hasta aquí el relato de Leti Lagarda, si estáis interesadas en los viajes que organiza 
 a Irán podéis contactar con ella a través de Instagram (@leti\_lagarda) o en [contact@letilagarda.com](mailto:contact@letilagarda.com) 

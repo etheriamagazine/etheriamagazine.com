@@ -1,7 +1,7 @@
 ---
 title: "8 consejos para viajar con niños a la Laponia Finlandesa"
 date: 2018-09-08
-coverImage: etheria-images/2018/04/Laponia-nina.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/04/Laponia-nina.jpg
 categories: 
   - consejos-practicos
   - viaje-en-familia
@@ -13,7 +13,7 @@ authors:
 
 La Laponia Finlandesa es un destino perfecto para viajar con niños y, siguiendo unas pautas muy fáciles, es una escapada muy cómoda para disfrutar con los más pequeños de la casa. En Etheria magazine hemos elaborado una lista con ocho consejos que facilitan la estancia para aprovechar al máximo los días que se pasen en este divertido destino.
 
-![viaje Finlandia familia niños](etheria-images/2018/04/Laponia-nina-1024x680.jpg "Los niños disfrutan cada instante en un viaje a Laponia. © Susana García.")
+![viaje Finlandia familia niños](https://fotos.etheriamagazine.com/2018/04/Laponia-nina-1024x680.jpg "Los niños disfrutan cada instante en un viaje a Laponia. © Susana García.")
 
 ## 1\. Cómo vestirse: imprescindible el mono térmico y unas buenas botas
 
@@ -28,7 +28,7 @@ jersey más, aunque no suele hacer falta. Dos pares de calcetines y dos pares de
 cuello. Recuerda llevar en la mochila calcetines y guantes de repuesto para los niños, 
 si se mojan hay que cambiarlos rápidamente para que no se queden fríos. 
 
-![Mujeres viajeras Laponia](etheria-images/2018/04/Pesca-en-el-hielo-en-Laponia-Etheriamagazine.jpg "Un mono de nieve protege contra el frío y permite disfrutar de las actividades. © Susana García.")
+![Mujeres viajeras Laponia](https://fotos.etheriamagazine.com/2018/04/Pesca-en-el-hielo-en-Laponia-Etheriamagazine.jpg "Un mono de nieve protege contra el frío y permite disfrutar de las actividades. © Susana García.")
 
 ## 2\. Comidas: aprovecha el desayuno
 
@@ -45,7 +45,7 @@ de más llevar algún paquete de galletas o fruta. Por la noche se puede disfrut
 algunos productos deliciosos, como el **salmón** cocinado lentamente con el humo de una 
 hoguera. 
 
-![viaje Finlandia gastronomía cocina familia](etheria-images/2018/04/Laponia-salmon-1024x768.jpg "Salmón cocinado junto al fuego. © Susana García.")
+![viaje Finlandia gastronomía cocina familia](https://fotos.etheriamagazine.com/2018/04/Laponia-salmon-1024x768.jpg "Salmón cocinado junto al fuego. © Susana García.")
 
 ## 3\. Viaje organizado: ¡no lo dejes para última hora!
 
@@ -59,7 +59,7 @@ como [Viaja con tu Hijo](https://www.viajacontuhijo.com/especial-laponia) especi
 en familia monoparentales o coger las excursiones sueltas (por ejemplo con [El Blog de 
 Finlandia](http://www.elblogdefinlandia.com)). 
 
-![Viaje Familia esquí de fondo deporte](etheria-images/2018/04/3-NUESTROS-TOP-LAPONIA-FOTO-3-IMG_1380-1024x768.jpg "Las actividades como el esquí de fondo es importante llevarlas reservadas con antelación. © Susana García.")
+![Viaje Familia esquí de fondo deporte](https://fotos.etheriamagazine.com/2018/04/3-NUESTROS-TOP-LAPONIA-FOTO-3-IMG_1380-1024x768.jpg "Las actividades como el esquí de fondo es importante llevarlas reservadas con antelación. © Susana García.")
 
 ## 4\. Sauna: una auténtica experiencia finlandesa
 
@@ -72,7 +72,7 @@ buena idea si vas a viajar a Laponia con niños es disfrutar de una **sauna en f
 aunque no es recomendable que los niños estén mucho tiempo dentro, les divertirá 
 asomarse y echar agua sobre las piedras calientes. 
 
-![viaje Finlandia sauna](etheria-images/2018/04/4-NUESTROS-TOP-LAPONIA-FOTO-4-PIXABAYbath-1317997-1024x683.jpg "Dedicar tiempo a la sauna es imprescindible en Laponia.")
+![viaje Finlandia sauna](https://fotos.etheriamagazine.com/2018/04/4-NUESTROS-TOP-LAPONIA-FOTO-4-PIXABAYbath-1317997-1024x683.jpg "Dedicar tiempo a la sauna es imprescindible en Laponia.")
 
 ## 5\. Alojamiento en cabañas
 
@@ -84,7 +84,7 @@ los mejores complejos de cabañas es [Rukan Salonki,](https://www.rukansalonki.f
 se encuentra en la localidad de Ruka. También hay otros complejos con cabañas adecuadas 
 para familias en localidades como Rovaniemi, Saariselka, Lousto o Iso Syöte. 
 
-![](etheria-images/2018/04/5-NUESTROS-TOP-LAPONIA-FOTO-5-1024x818.jpg "Una de las robustas cabañas del complejo de Rukan Salonki. © Susana García.")
+![](https://fotos.etheriamagazine.com/2018/04/5-NUESTROS-TOP-LAPONIA-FOTO-5-1024x818.jpg "Una de las robustas cabañas del complejo de Rukan Salonki. © Susana García.")
 
 ## 6\. Auroras boreales: mejor no obsesionarse
 
@@ -98,7 +98,7 @@ alojamientos como los de [Northern Lights Village](https://northernlightsvillage
 Son cabañas pequeñas pero tienen la opción de poner dos camas extra y hacer una 
 cuádruple. 
 
-![viaje Finlandia naturaleza familia](etheria-images/2018/04/6-NUESTROS-TOP-LAPONIA-FOTO-6-aurora-borealis-1156479-PIXABAY-1024x702.jpg "Las auroras boreales son un espectáculo natural casi mágico.")
+![viaje Finlandia naturaleza familia](https://fotos.etheriamagazine.com/2018/04/6-NUESTROS-TOP-LAPONIA-FOTO-6-aurora-borealis-1156479-PIXABAY-1024x702.jpg "Las auroras boreales son un espectáculo natural casi mágico.")
 
 ## 7\. Excursiones: imprescindibles que sean organizadas con guías
 
@@ -113,7 +113,7 @@ protegidos en un remolque que lleva el guía en su moto. Si os apuntáis a un pa
 trineos tirados por perros husky o renos van cómodamente en la cesta del trineo tapados 
 con unas mantas. 
 
-![viaje Finlandia niños familia](etheria-images/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7-1024x768.jpg "Una de las mejores experiencias en Laponia es un paseo en trineo tirado por perros husky. © Susana García.")
+![viaje Finlandia niños familia](https://fotos.etheriamagazine.com/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7-1024x768.jpg "Una de las mejores experiencias en Laponia es un paseo en trineo tirado por perros husky. © Susana García.")
 
 ## 8\. Papá Noel
 
@@ -128,7 +128,7 @@ viaje, escribir con tus hijos la carta para entregársela en mano… Y hay que t
 preparada la cámara de fotos, de vídeo y todo lo que haga falta para inmortalizar un 
 momento que nunca olvidarán. 
 
-![Visitar a Papá Noel en su cabaña en Laponia](etheria-images/2018/04/Cabaña-privada-de-Papa-Noel-Etheriamagazine.jpg "El encuentro con Papá Noel en su cabaña privada es el momento más especial de viaje. © Susana García.")
+![Visitar a Papá Noel en su cabaña en Laponia](https://fotos.etheriamagazine.com/2018/04/Cabaña-privada-de-Papa-Noel-Etheriamagazine.jpg "El encuentro con Papá Noel en su cabaña privada es el momento más especial de viaje. © Susana García.")
 
 ## También te puede interesar:
 

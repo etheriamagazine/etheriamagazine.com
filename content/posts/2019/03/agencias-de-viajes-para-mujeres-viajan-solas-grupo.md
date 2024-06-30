@@ -1,7 +1,7 @@
 ---
 title: "Agencias de viajes para viajar sola pero en grupo"
 date: 2019-03-08
-coverImage: etheria-images/2019/03/WOM-agencia-mujeres.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/WOM-agencia-mujeres.jpg
 categories: 
   - historias-en-femenino
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 ¿Por qué surgen las agencias de viajes para mujeres? ¿Tiene sentido esta especialización? ¿Existe demanda? ¿Cuáles son los destinos favoritos de las mujeres que viajan con ellas? Todas estas preguntas tienen respuestas razonadas por las principales empresas de este sector y os las contamos.
 
-![wom, ana blasco, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](etheria-images/2019/03/WOM-agencia-mujeres.jpg "Grupo de viajeras de WOM.")
+![wom, ana blasco, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](https://fotos.etheriamagazine.com/2019/03/WOM-agencia-mujeres.jpg "Grupo de viajeras de WOM.")
 
 Comenzaremos por las conclusiones para que no tengas que hacer una lectura precipitada 
 del artículo: a veces nos sentimos inseguras al viajar solas –y esa es la principal 
@@ -53,7 +53,7 @@ más habitual es a través de otras agencias o bien con receptivos en los destin
 visitan. Si bien, algunas como FOW diseñan sus propios viajes: "no le compramos rutas a 
 ninguna otra empresa", señala Fauveau. 
 
-![focus on women, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](etheria-images/2019/03/Focus-on-women.jpg "Alice Fauveau es la directora de Focus on Women (en el centro).")
+![focus on women, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](https://fotos.etheriamagazine.com/2019/03/Focus-on-women.jpg "Alice Fauveau es la directora de Focus on Women (en el centro).")
 
 ## Cómo surgen estas agencias especializadas
 
@@ -79,7 +79,7 @@ ya tiene una amplia comunidad de viajeras asiduas.
 > Tacones Viajeros e, incluso, para comunicarse a través de una red social como 
 > Trip4Girls. Todas ellas son razones más que justificadas para iniciarse en este negocio. 
 
-![travel with rose, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](etheria-images/2019/03/travel-with-rose-nepal.jpg "Grupo de viajeras con Rose Serrano (Izq.) en Nepal.")
+![travel with rose, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](https://fotos.etheriamagazine.com/2019/03/travel-with-rose-nepal.jpg "Grupo de viajeras con Rose Serrano (Izq.) en Nepal.")
 
 ## Viajeras de todas las edades
 
@@ -104,7 +104,7 @@ conocer exactamente el estatus económico de las clientas, se intuye, según nos
 algunas agencias, que su situación es desahogada. El nivel educativo no es homogéneo 
 pero, habitualmente, han cursado estudios universitarios. 
 
-![tacones viajeros, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](etheria-images/2019/03/Tacones-Viajeros-Santorini.jpg "Elma Sesma y Patricia Estévez, de Tacones Viajeros.")
+![tacones viajeros, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](https://fotos.etheriamagazine.com/2019/03/Tacones-Viajeros-Santorini.jpg "Elma Sesma y Patricia Estévez, de Tacones Viajeros.")
 
 ## ¿Ofrecen los mismos viajes todas las agencias de viajes para mujeres?
 
@@ -135,7 +135,7 @@ europeos solemos ofrecer experiencias particulares, de turismo comunitario o con
 población local muy enriquecedoras. Son actividades que nunca harías en tu día a día, 
 pero que son las que recuerdas con más intensidad y emoción". 
 
-![alice fauveau, focus on women, mujeres etheria](etheria-images/2018/09/Alice-fauveau-focus-women-etheria-e1551873109342.jpg "Alice Fauveau, fundadora de Focus on Women.")
+![alice fauveau, focus on women, mujeres etheria](https://fotos.etheriamagazine.com/2018/09/Alice-fauveau-focus-women-etheria-e1551873109342.jpg "Alice Fauveau, fundadora de Focus on Women.")
 
 ### Hacer amigas
 
@@ -164,7 +164,7 @@ empiecen a interactuar a través de whatsapp, mails etc. y puedan ver los perfil
 cada una antes de salir. El objetivo es crear una **red de mujeres viajeras**, que 
 vuelvan a repetir los viajes con nosotras y a diferentes destinos". 
 
-![ana blasco, WOM, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](etheria-images/2019/03/wom-agencia-viajes-mujeres.jpg "Grupo de viaje de WOM.")
+![ana blasco, WOM, agencia viajes mujeres, mujeres viajeras, viajar sola en grupo](https://fotos.etheriamagazine.com/2019/03/wom-agencia-viajes-mujeres.jpg "Grupo de viaje de WOM.")
 
 ## Destinos favoritos de las mujeres
 
@@ -196,7 +196,7 @@ través de su conocimiento, enriquecen el viaje una barbaridad".
 Uzbekistán/Kisguistán, Uganda o Etiopía. Y, en total, ofreceremos entre 35 y 40 destinos 
 de todo el mundo". 
 
-![agencia de viajes para mujeres, destinos para mujeres,](etheria-images/2019/03/viajes-mujeres-agencias.jpg "Los destinos más demandados son los asiáticos.")
+![agencia de viajes para mujeres, destinos para mujeres,](https://fotos.etheriamagazine.com/2019/03/viajes-mujeres-agencias.jpg "Los destinos más demandados son los asiáticos.")
 
 #### Travel with Rose
 

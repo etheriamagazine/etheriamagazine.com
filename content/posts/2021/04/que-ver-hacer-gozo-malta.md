@@ -1,7 +1,7 @@
 ---
-title: "Gozo, una isla donde querrás quedarte a vivir"
+title: "La isla de Gozo, la alternativa tranquila de Malta"
 date: 2021-04-29
-coverImage: etheria-images/2018/05/iglesia-ta-pinu-gozo.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/gozo-mujeres-viaje.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -16,10 +16,10 @@ familiares, cultivos ecológicos, paseos en barco y vida saludable es lo que enc
 en su territorio. Sigue leyendo para saber qué ver y hacer en Gozo, pero ¡cuidado! 
 porque corres el riesgo de querer hacer las maletas ya mismo. 
 
-![Vista del puerto de Gozo.](etheria-images/2018/05/gozo-mujeres-viaje.jpg "Vista del puerto de Gozo. © Etheria Magazine")
+![Vista del puerto de Gozo.](https://fotos.etheriamagazine.com/2018/05/gozo-mujeres-viaje.jpg "Vista del puerto de Gozo. © Etheria Magazine")
 
 ```
-Actualizado sept. de 2022
+Actualizado mayo. de 2024
 ```
 
 No es la isla más conocida del Mediterráneo y puede que ni tan siquiera hayas oído 
@@ -33,9 +33,6 @@ un combinado real, y que reserves 3 o 4 días para "gozar" (chiste fácil) de to
 ofrece Gozo. Eso es lo que hicimos nosotras y nos pareció sencillo, barato y mucho más 
 relajante. Te damos todos los detalles. 
 
-? No te pierdas este [artículo de 
-Malta](https://etheriamagazine.com/2019/11/19/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas/). 
-
 ## Cómo llegar a Gozo
 
 Gozo no tiene aeropuerto, por lo que tendrás que volar a Malta, donde **tomarás un 
@@ -46,7 +43,7 @@ para un pasajero (sin coche) está en torno a 5 euros. Aunque esta isla puede pa
 minúscula en el mapa –tiene 14 kilómetros de largo y unos 7 de ancho–, para disfrutar 
 sin prisas de todo lo que ofrece, es mejor tener claro qué ver y hacer en Gozo. 
 
-![Victoria, la histórica capital de la isla Gozo.](etheria-images/2018/05/victoria-que-ver-en-gozo.jpg "Victoria, la histórica capital de la isla Gozo. © Catalina Gonzalez")
+![Victoria, la histórica capital de la isla Gozo.](https://fotos.etheriamagazine.com/2018/05/victoria-que-ver-en-gozo.jpg "Victoria, la histórica capital de la isla Gozo. © Catalina Gonzalez")
 
 ## Qué ver en Gozo
 
@@ -58,7 +55,7 @@ Jubilee** (si el tiempo lo permite, en las mesas situadas a la entrada) para tom
 pulso a la ciudad. Si te apetece interactuar con la población local puedes continuar la 
 jornada paseando por el mercado It-Tokk y por la plaza central. 
 
-![Comienza el día con un buen desayuno en el Café Jubilee, en Victoria.](etheria-images/2018/05/3-Viaje-a-Gozo-y-Malta-Cafe-Jubile-1024x682.jpg "Comienza el día con un buen desayuno en el Café Jubilee, en Victoria. © Etheria Magazine")
+![Comienza el día con un buen desayuno en el Café Jubilee, en Victoria.](https://fotos.etheriamagazine.com/2018/05/3-Viaje-a-Gozo-y-Malta-Cafe-Jubile-1024x682.jpg "Comienza el día con un buen desayuno en el Café Jubilee, en Victoria. © Etheria Magazine")
 
 Tras la primera interacción local toca abstraerse paseando por la **Citadel**, el casco 
 histórico de Victoria, donde las construcciones de piedra amarilla caliza son una 
@@ -73,7 +70,7 @@ a civilizaciones pasadas que nos han dejado construcciones tan interesantes como
 ruinas de estos templos, que se mantienen en pie sin sujeción alguna, aún se puede 
 intuir la gran dimensión del complejo datado entre el 3600 y el 3200 a.C. 
 
-![Templos de Ggantija , Patrimonio de la Humanidad por la Unesco.](etheria-images/2018/05/7-Viaje-a-Gozo-y-Malta-Ruinas-Ggantija-e1554024216673.jpg "Templos de Ggantija , Patrimonio de la Humanidad por la Unesco. © Etheria Magazine")
+![Templos de Ggantija , Patrimonio de la Humanidad por la Unesco.](https://fotos.etheriamagazine.com/2018/05/7-Viaje-a-Gozo-y-Malta-Ruinas-Ggantija-e1554024216673.jpg "Templos de Ggantija , Patrimonio de la Humanidad por la Unesco. © Etheria Magazine")
 
 ### Gruta de Calipso
 
@@ -85,7 +82,7 @@ por lo que debió estar encantado. El contraste entre la arena, que lanza destel
 rojizos, y el mar turquesa es difícil de olvidar. No está de más darse un baño tras 
 visitar la gruta. 
 
-![Mirador sobre la gruta de Calipso.](etheria-images/2018/05/1-Viaje-a-Gozo-y-Malta-Gruta-Calipso-e1554024304324.jpg "Mirador sobre la gruta de Calipso. © Etheria Magazine")
+![Mirador sobre la gruta de Calipso.](https://fotos.etheriamagazine.com/2018/05/1-Viaje-a-Gozo-y-Malta-Gruta-Calipso-e1554024304324.jpg "Mirador sobre la gruta de Calipso. © Etheria Magazine")
 
 ### Salinas de Qbajjar
 
@@ -94,7 +91,7 @@ admirar los cubículos cuadrados de poca profundidad que crearon los romanos par
 el sodio del agua del mar. Es un lugar ideal para los amantes de la fotografía por todas 
 las perspectivas que se pueden localizar. 
 
-![Bonitas salinas romanas de la isla de Gozo.](etheria-images/2018/05/salinas-que-ver-gozo.jpg "Bonitas salinas romanas de la isla de Gozo. © Andrew Slifkin")
+![Bonitas salinas romanas de la isla de Gozo.](https://fotos.etheriamagazine.com/2018/05/salinas-que-ver-gozo.jpg "Bonitas salinas romanas de la isla de Gozo. © Andrew Slifkin")
 
 ### Grandes templos de Gozo
 
@@ -110,18 +107,18 @@ Xewkija, que imita a la veneciana Santa María de la Salud. En algunas de ellas 
 tendréis que cubrir los hombros si vais en tirantes (es más higiénico llevar el vuestro, 
 aunque también suele haber disponibles en la entrada). 
 
-![Basílica del Santuario Nacional de la Santísima Virgen de Ta ‘Pinu.](etheria-images/2018/05/iglesia-ta-pinu-gozo.jpg "Basílica del Santuario Nacional de la Santísima Virgen de Ta ‘Pinu. © Timofey Borozdin")
+![Basílica del Santuario Nacional de la Santísima Virgen de Ta ‘Pinu.](https://fotos.etheriamagazine.com/2018/05/iglesia-ta-pinu-gozo.jpg "Basílica del Santuario Nacional de la Santísima Virgen de Ta ‘Pinu. © Timofey Borozdin")
 
 ## Qué comer en Gozo
 
 No hay nada mejor que pasear para que se abra el apetito y poder disfrutar de los 
 manjares de la isla, donde el pescado es el protagonista. En restaurantes como el de 
-**Ta’ Rikardu**, en la capital, el dicho "del campo a la mesa" se cumple a rajatabla. Su 
-propietario dispone de huerto que le proporciona las verduras y de un rebaño de cabras 
-que le surte de leche para elaborar ricos quesos. Si algún cliente lo solicita no tiene 
-ningún problema en llevarte a ver la finca. 
+**Ta’ Rikardu**, en la capital, el dicho "del campo a la mesa" se cumple a rajatabla. 
+Dispone de huerto que le proporciona las verduras y de un rebaño de cabras que le surte 
+de leche para elaborar ricos quesos. Si algún cliente lo solicita no tiene ningún 
+problema en llevarle a ver la finca. 
 
-Para conocer in situ los **productos y cultivos gozitanos**, no hay nada mejor que 
+Para conocer _in situ_ los **productos y cultivos gozitanos**, no hay nada mejor que 
 visitar granjas ecológicas como la de Ta’ Mena Estate donde, además de hacer una visita 
 guiada para ver los viñedos, los olivos o las hortalizas, podrás comprar riquísimas 
 conservas. 
@@ -131,7 +128,7 @@ llevarte) licor de higo chumbo o de algarrobo. La gastronomía gozitana se nutre
 especialmente de lo que le regala la tierra y el mar: pescado, conejo, quesos, tomate, 
 etc. 
 
-![El pescado es una de las mejores elecciones en Gozo.](etheria-images/2018/05/10-Viaje-a-Gozo-y-Malta-Pescado-1024x682.jpg "El pescado es una de las mejores elecciones en Gozo.  © Etheria Magazine")
+![El pescado es una de las mejores elecciones en Gozo.](https://fotos.etheriamagazine.com/2018/05/10-Viaje-a-Gozo-y-Malta-Pescado-1024x682.jpg "El pescado es una de las mejores elecciones en Gozo.  © Etheria Magazine")
 
 ## Qué hacer en Gozo para divertirse
 
@@ -146,7 +143,7 @@ submarino. Aunque el número de viajeros que acude para hacer su bautizo submari
 elevado, hay otros que repiten para enfrentarse a la inmersión en el **Blue Hole** –un 
 profundo agujero que da miedo solo de oírlo–. 
 
-![Paseo en barco por la costa de Gozo.](etheria-images/2018/05/5-Viaje-a-Gozo-y-Malta-1024x682.jpg "Paseo en barco por la costa de Gozo. © Etheria Magazine")
+![Paseo en barco por la costa de Gozo.](https://fotos.etheriamagazine.com/2018/05/5-Viaje-a-Gozo-y-Malta-1024x682.jpg "Paseo en barco por la costa de Gozo. © Etheria Magazine")
 
 ### Playa o kayak, tú decides
 
@@ -158,7 +155,7 @@ El **kayaking** es muy sencillo y permite combinar la actividad con el desembarc
 distintos puntos de la costa para comer, descansar, darse un baño o, simplemente, tomar 
 un helado del “barco de los helados” (los hay en Blue Lagoon). 
 
-![Bellas aguas turquesas de la isla de Comino.](etheria-images/2018/05/viaje-comino.jpg "Bellas aguas turquesas de la isla de Comino. © Etheria Magazine")
+![Bellas aguas turquesas de la isla de Comino.](https://fotos.etheriamagazine.com/2018/05/viaje-comino.jpg "Bellas aguas turquesas de la isla de Comino. © Etheria Magazine")
 
 ## Excursión a la isla de Comino
 
@@ -179,9 +176,9 @@ moverte por la isla en libertad.
 
 Más información en [Turismo de Gozo.](https://www.visitgozo.com/) 
 
-![Cocina casera del restaurante Ta’ Rikardu.](etheria-images/2018/05/6-Viaje-a-Gozo-y-Malta-Riccardo-1024x682.jpg "Cocina casera del restaurante Ta’ Rikardu. © Etheria Magazine")
+![Cocina casera del restaurante Ta’ Rikardu.](https://fotos.etheriamagazine.com/2018/05/6-Viaje-a-Gozo-y-Malta-Riccardo-1024x682.jpg "Cocina casera del restaurante Ta’ Rikardu. © Etheria Magazine")
 
-### También te puede interesar...
+**También en Etheria Magazine** 
 
 [Ruta en coche con amigas a 
 Cerdeña](https://etheriamagazine.com/2018/09/14/viaje-chicas-isla-cerdena-italia/). 

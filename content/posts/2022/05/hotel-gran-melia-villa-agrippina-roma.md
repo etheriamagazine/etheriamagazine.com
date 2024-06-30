@@ -1,7 +1,7 @@
 ---
 title: "Gran Meliá Villa Agrippina, un oasis en el centro de Roma"
 date: 2022-05-30
-coverImage: etheria-images/2022/05/Villa-agripina-piscina.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/05/Villa-agripina-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 Roma siempre es un buen plan, así que si no has ido nunca o si vas a repetir en una ciudad donde es imposible que en un único viaje te dé tiempo a verlo todo, te recomendamos el Grand Meliá Villa Agrippina de cinco estrellas. Un auténtico remanso de paz en el centro de la ciudad, perfecto para combinar las visitas turísticas y el descanso.
 
-![Piscina del hotel Gran Meliá Villa Agrippina](etheria-images/2022/05/Villa-agripina-piscina.jpg "Piscina y hotel Gran Meliá Villa Agrippina.")
+![Piscina del hotel Gran Meliá Villa Agrippina](https://fotos.etheriamagazine.com/2022/05/Villa-agripina-piscina.jpg "Piscina y hotel Gran Meliá Villa Agrippina.")
 
 Roma es bulliciosa y caótica, llena de tráfico y con gente por todas partes. Pero hay un 
 lugar que permite que, tras disfrutar de esta preciosa ciudad que rebosa vida, nos 
@@ -46,7 +46,7 @@ RedLevel, Junior Suite Duplex RedLevel y Supreme RedLevel con terraza privada e
 hidromasaje. Además, el hotel tiene habitaciones familiares y Master Suite RedLevel de 
 uno o dos dormitorios. 
 
-![Habitación de lujo del hotel Gran Meliá Villa Agrippina de Roma](etheria-images/2022/05/villa-agripina-habitacion.jpg "Habitación del Gran Meliá Villa Agrippina.")
+![Habitación de lujo del hotel Gran Meliá Villa Agrippina de Roma](https://fotos.etheriamagazine.com/2022/05/villa-agripina-habitacion.jpg "Habitación del Gran Meliá Villa Agrippina.")
 
 Entre las **suites**, si de verdad quieres vivir la Ciudad Eterna a todo lujo, podrás 
 elegir entre la Suite Panorámica 360 vista de Roma RedLevel, la Suite Emperor Nero 
@@ -68,7 +68,7 @@ ejemplo, si eliges estas habitaciones Red Level tendrás a tu disposición la **
 Lounge**, con acceso a bebidas y aperitivos gratuitos durante gran parte del día en el 
 bar junto a la piscina. 
 
-![Habitación de lujo del Gran Meliá Villa Agrippina](etheria-images/2022/05/villa-agripina-decoracion-habitaciones.jpg "Detalles de decoración de las habitaciones del hotel.")
+![Habitación de lujo del Gran Meliá Villa Agrippina](https://fotos.etheriamagazine.com/2022/05/villa-agripina-decoracion-habitaciones.jpg "Detalles de decoración de las habitaciones del hotel.")
 
 Además, tendrás un detalle de bienvenida, un representante RedLevel disponible para 
 ayudarte en lo que necesites, asignación de la mejor habitación dentro de la categoría, 
@@ -84,7 +84,7 @@ Este año se ha incorporado al hotel, como chef ejecutivo, Luciano Monosilio, un
 cocinero que ha sido uno de los más jóvenes en recibir la estrella Michelin y que ha 
 renovado la propuesta gastronómica del hotel. 
 
-![Dos platos de un restaurante del Gran Meliá Villa Agrippina](etheria-images/2022/05/villa-agripina-gastronomia.jpg "Gastronomía en el Gran Meliá Villa Agrippina.")
+![Dos platos de un restaurante del Gran Meliá Villa Agrippina](https://fotos.etheriamagazine.com/2022/05/villa-agripina-gastronomia.jpg "Gastronomía en el Gran Meliá Villa Agrippina.")
 
 El hotel cuenta con dos espacios diferenciados para disfrutar de la gastronomía de 
 formas muy diferentes. En primer lugar está **Chef’s Table,** nuevo restaurante 
@@ -96,7 +96,7 @@ El otro espacio es el **Restaurante Gala & Pool Bar**, un agradable espacio acri
 con terraza (donde también se toma el desayuno) con una carta de platos ligeros 
 preparados con ingredientes frescos que, además, da servicio a la piscina. 
 
-![Jardín del hotel en el centro de Roma](etheria-images/2022/05/villa-agripina-bar-683x1024.jpg "Terraza del restaurante Gala.")
+![Jardín del hotel en el centro de Roma](https://fotos.etheriamagazine.com/2022/05/villa-agripina-bar-683x1024.jpg "Terraza del restaurante Gala.")
 
 ## El spa y mucho más
 
@@ -111,7 +111,7 @@ hotel cuenta con un moderno equipamiento y está abierto 24 horas, así que no h
 Si necesitas un entrenador personal, pregunta en el hotel y pondrán uno a tu 
 disposición. 
 
-![Piscina de este hotel situado en el centro de Roma](etheria-images/2022/05/villa-agripina-tumbonas.jpg "Tumbonas en la piscina del hotel Villa Agrippina.")
+![Piscina de este hotel situado en el centro de Roma](https://fotos.etheriamagazine.com/2022/05/villa-agripina-tumbonas.jpg "Tumbonas en la piscina del hotel Villa Agrippina.")
 
 La **piscina** es el espacio estrella de Gran Meliá Villa Agrippina, sobre todo en 
 verano. Es amplia, bonita y está rodeada de unas cómodas tumbonas donde cargar las pilas 

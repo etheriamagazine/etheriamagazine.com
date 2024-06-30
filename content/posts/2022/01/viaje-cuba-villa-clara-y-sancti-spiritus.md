@@ -1,7 +1,7 @@
 ---
 title: "Viaja al corazón de Cuba: Villa Clara y Sancti Spíritus"
 date: 2022-01-03
-coverImage: etheria-images/2020/07/Cuba-valle-ingenios.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/07/Cuba-valle-ingenios.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -13,7 +13,7 @@ authors:
 
 Donde se determinó la revolución cubana y donde Rosa María Coraje se reencontró con su amante. Te llevamos por las provincias de Villa Clara y Sancti Spíritus, un destino descubierto no hace mucho que ofrece todos los atractivos de Cuba en superlativo. Prepárate para enamorarte de los Cayos del Norte.
 
-![viajes a Cuba, Santa Clara, viajes al Caribe](etheria-images/2020/07/Cuba-valle-ingenios-900x565.jpg "Valle de los Ingenios, en la provincia de Sancti Spíritus.")
+![viajes a Cuba, Santa Clara, viajes al Caribe](https://fotos.etheriamagazine.com/2020/07/Cuba-valle-ingenios-900x565.jpg "Valle de los Ingenios, en la provincia de Sancti Spíritus.")
 
 Santa Clara, capital de la **provincia de Villa Clara**, vivió momentos trascendentales 
 cuando las tropas del Che tomaron la ciudad el 31 de diciembre de 1958 descarrilando un 
@@ -27,7 +27,7 @@ restos traídos de Bolivia. A pocos metros del mausoleo, en el **Parque Vidal**,
 entrar en los vagones del famoso tren y echar un vistazo a las fotos de los hermanos 
 Castro y de todos aquellos que participaron en la toma de Santa Clara. 
 
-![che guevara provincia de santa clara](etheria-images/2020/07/santa-clara-che-900x614.jpg "Vagón-Museo del tren blindado en el Parque Vidal de Santa Clara.")
+![che guevara provincia de santa clara](https://fotos.etheriamagazine.com/2020/07/santa-clara-che-900x614.jpg "Vagón-Museo del tren blindado en el Parque Vidal de Santa Clara.")
 
 ## Planes en la provincia de Villa Clara
 
@@ -38,7 +38,7 @@ poblado marinero de **Caibarién**, a través del famoso Pedraplén, una conexi�
 kilómetros que, enlazando el municipio de Caibarién con Cayo Santa María, les hizo 
 accesibles al resto de Cuba. 
 
-![cayo santa maria provincia de santa clara](etheria-images/2020/07/cuba-cayo-santa-maria-900x600.jpg "Flamencos en el cayo de Santa María.")
+![cayo santa maria provincia de santa clara](https://fotos.etheriamagazine.com/2020/07/cuba-cayo-santa-maria-900x600.jpg "Flamencos en el cayo de Santa María.")
 
 De ser una zona casi desconocida salpicada por aldeas de pescadores, tras la 
 construcción del Pedraplén se convirtió en uno de los paraísos del turismo cubano. Entre 
@@ -54,7 +54,7 @@ gran diversidad de especies submarinas que los convierten en spots idílicos par
 buceo y la fotografía submarina y que le ha llevado al grupo cubano La Gaviota a 
 poblarlos de establecimientos de categoría. 
 
-![plazas cubanas provincia de santa clara](etheria-images/2020/07/Santa-Clara-Cuba-plazas-900x600.jpg "El jolgorio está asegurado en las famosas plazas cubanas.")
+![plazas cubanas provincia de santa clara](https://fotos.etheriamagazine.com/2020/07/Santa-Clara-Cuba-plazas-900x600.jpg "El jolgorio está asegurado en las famosas plazas cubanas.")
 
 No se puede dejar la Cayería de la provincia de Villa Clara sin haber visitado alguna de 
 sus **plazas**, que a pesar de lo que indica su nombre, no son plazas en el sentido 
@@ -71,7 +71,7 @@ conoce por su alegría como ‘Ciudad de las parrandas’. Fue fundada por el ca
 Porcallo de Figueroa en 1515, y se convirtió en la octava villa española. Las fachadas 
 coloniales pintadas de colores hacen de ella una ciudad viva y con solera. 
 
-![san juan de los remedios](etheria-images/2020/07/Santa-Clara-san-juan-de-los-ingenios-900x581.jpg "San Juan de los Remedios o la 'Ciudad de las parrandas'.")
+![san juan de los remedios](https://fotos.etheriamagazine.com/2020/07/Santa-Clara-san-juan-de-los-ingenios-900x581.jpg "San Juan de los Remedios o la 'Ciudad de las parrandas'.")
 
 La iglesia Mayor San Juan Bautista, junto a la plaza central Isabel II, o el hotel Bauza 
 son parte del centro histórico que fue declarado Monumento Nacional en 1980. 
@@ -92,7 +92,7 @@ En el balneario de aguas mineromedicinales Hotel Hanabanilla esperan las barcas 
 llevan hasta el **restaurante Río Negro** para comer, a pie del agua, chancho con 
 verduras regadas con cerveza Bucanero, y de postre una deliciosa piña colada. 
 
-![Lago del Hanabanilla cuba](etheria-images/2020/07/Santa-Clara-lago-habanilla-900x600.jpg "Lago del Hanabanilla.")
+![Lago del Hanabanilla cuba](https://fotos.etheriamagazine.com/2020/07/Santa-Clara-lago-habanilla-900x600.jpg "Lago del Hanabanilla.")
 
 Vuelta a las lanchas para navegar por el **lago del Hanabanilla** que descubre la Cuba 
 selvática cuyo verdor se refleja en el agua. Al final de la travesía, a orillas del 
@@ -101,7 +101,7 @@ Natural de Topes de Collantes**, en la Sierra de Escambray, situada entre las pr
 centrales de Villa Clara, Sancti-Spíritus y Cienfuegos. Es una de las mejores 
 excursiones para realizar en la provincia de Villa Clara. 
 
-![Museo de Arte Cubano en Topes de Collantes](etheria-images/2020/07/Santa-Clara-Museo-arte-cubano-900x922.jpg "Museo de Arte Cubano en Topes de Collantes.")
+![Museo de Arte Cubano en Topes de Collantes](https://fotos.etheriamagazine.com/2020/07/Santa-Clara-Museo-arte-cubano-900x922.jpg "Museo de Arte Cubano en Topes de Collantes.")
 
 Dentro de la sierra es difícil distinguir un árbol de otro, las lianas se entremezclan 
 entre arbustos y plantas y el panorama es tan bello que estremece. Pero no es solo 
@@ -124,7 +124,7 @@ esencia de lo que fue. Sus huéspedes, sentados en mecedoras de rejillas y bajo 
 de su Torre Vigía que todo lo ve, esperan las viandas que salen a la mesa con productos 
 de la zona, al ritmo de las canciones y bailes tradicionales. 
 
-![manteles lino cuba](etheria-images/2020/07/Trinidad-Cuba-Hacienda-Manaca-900x612.jpg "Manteles de lino a las puertas de la Hacienda Manaca-Iznaga.")
+![manteles lino cuba](https://fotos.etheriamagazine.com/2020/07/Trinidad-Cuba-Hacienda-Manaca-900x612.jpg "Manteles de lino a las puertas de la Hacienda Manaca-Iznaga.")
 
 ### 2\. Palacios y museos de Trinidad
 
@@ -145,7 +145,7 @@ Se saborean platos típicos en tabernas populares o en restaurantes con aires
 centenarios, como la **Bodeguita del Medio**, refugio de Hemingway, al ritmo del son 
 cubano que nunca cesa en Cuba y que hace que las penas se lloren bailando. 
 
-![casa de la musica trinidad](etheria-images/2020/07/Trinidad-Cuba-casa-Musica-900x600.jpg "Casa de la Música en Trinidad.")
+![casa de la musica trinidad](https://fotos.etheriamagazine.com/2020/07/Trinidad-Cuba-casa-Musica-900x600.jpg "Casa de la Música en Trinidad.")
 
 ### 3\. Música y artesanía
 

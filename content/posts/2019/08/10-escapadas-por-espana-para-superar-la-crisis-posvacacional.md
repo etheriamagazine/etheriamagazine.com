@@ -1,7 +1,7 @@
 ---
 title: "10 escapadas por España para superar la crisis posvacacional"
 date: 2019-08-20
-coverImage: etheria-images/2019/05/viaje-marbella-plaza-naranjos.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/viaje-marbella-plaza-naranjos.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -14,7 +14,7 @@ Llega septiembre y con él la rutina laboral, la vuelta al cole y otras muchas c
 no apetecen nada de nada. Aquí te proponemos 10 escapadas por España para que la llamada 
 crisis posvacacional sea mucho más llevadera. 
 
-![mujer rubia tumbada](etheria-images/2019/08/crisis-posvacacional.jpg "Septiembre es un mes muy duro. © Kinga Cichewicz")
+![mujer rubia tumbada](https://fotos.etheriamagazine.com/2019/08/crisis-posvacacional.jpg "Septiembre es un mes muy duro. © Kinga Cichewicz")
 
 Reconozcamos que septiembre es un mes duro. Da igual que tus vacaciones hayan sido en 
 julio o en agosto, es en este mes cuando tomas conciencia de que el verano se ha 
@@ -38,7 +38,7 @@ que no puedes perderte.
 ✅ [Zaragoza bien vale un vermú torero… o 
 tres](https://etheriamagazine.com/2019/02/12/mejores-bares-viaje-zaragoza/) 
 
-![Calle Alfonso I de Zaragoza](etheria-images/2019/01/Zaragoza-Calle-Alfonso-e1565508832606.jpg "Calle Alfonso I.")
+![Calle Alfonso I de Zaragoza](https://fotos.etheriamagazine.com/2019/01/Zaragoza-Calle-Alfonso-e1565508832606.jpg "Calle Alfonso I.")
 
 ## 2\. Pueblos negros de Guadalajara
 
@@ -50,7 +50,7 @@ colaborador Pedro Grifol.
 ✅ [Respirar ‘a pulmón abierto’ en los Pueblos Negros de 
 Guadalajara](https://etheriamagazine.com/2019/05/06/ruta-en-coche-pueblos-negros-guadalajara/) 
 
-![Majaelrayo, pueblos negros de Guadalajara, escapadas por España](etheria-images/2019/05/viaje-pueblos-negros-Majaelrayo.jpg "Majaelrayo, población de la Ruta de los pueblos negros de Guadalajara. © Pedro Grifol")
+![Majaelrayo, pueblos negros de Guadalajara, escapadas por España](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Majaelrayo.jpg "Majaelrayo, población de la Ruta de los pueblos negros de Guadalajara. © Pedro Grifol")
 
 ## 3\. Marbella
 
@@ -62,7 +62,7 @@ para el disfrute y Rosa Marqués nos cuenta todos sus secretos.
 ✅ [Planes para exprimir un fin de semana en Marbella con 
 amigas](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/) 
 
-![Plaza de los Naranjos de Marbella.](etheria-images/2019/05/viaje-marbella-plaza-naranjos.jpg "Plaza de los Naranjos de Marbella. © Rosa Marqués")
+![Plaza de los Naranjos de Marbella.](https://fotos.etheriamagazine.com/2019/05/viaje-marbella-plaza-naranjos.jpg "Plaza de los Naranjos de Marbella. © Rosa Marqués")
 
 ## 4\. Sepúlveda y las hoces del Duratón
 
@@ -74,7 +74,7 @@ Una escapada perfecta para volver a disfrutar de unos días en familia.
 ✅ [Sepúlveda y las hoces del Duratón para toda la 
 familia](https://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/) 
 
-![niñas en la Ermita de San Frutos y hoces del Duratón.](etheria-images/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg "Ermita de San Frutos y hoces del Duratón. © SG")
+![niñas en la Ermita de San Frutos y hoces del Duratón.](https://fotos.etheriamagazine.com/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg "Ermita de San Frutos y hoces del Duratón. © SG")
 
 ## 5\. Bilbao
 
@@ -87,7 +87,7 @@ un viaje.
 ✅ [10 planes originales en Bilbao con 
 amigas](https://etheriamagazine.com/2020/09/09/10-planes-originales-en-bilbao-con-amigas/) 
 
-!['Maman' y el Guggenheim en Bilbao](etheria-images/2018/10/viaje-mujeres-bilbao-guggenheim-e1565260297397.jpg "'Maman' y el Guggenheim.")
+!['Maman' y el Guggenheim en Bilbao](https://fotos.etheriamagazine.com/2018/10/viaje-mujeres-bilbao-guggenheim-e1565260297397.jpg "'Maman' y el Guggenheim.")
 
 ## 6\. Sevilla
 
@@ -99,7 +99,7 @@ baños árabes. Macarena Escrivá nos desvela sus nuevas propuestas.
 ✅ [Sevilla, la escapada perfecta a la 
 andaluza](https://etheriamagazine.com/2019/02/04/viajar-con-amigas-sevilla/) 
 
-![Patio del palacio de las Dueñas en Sevilla](etheria-images/2019/01/viaje-sevilla-palacio-duenas.jpg "Patio del palacio de las Dueñas.")
+![Patio del palacio de las Dueñas en Sevilla](https://fotos.etheriamagazine.com/2019/01/viaje-sevilla-palacio-duenas.jpg "Patio del palacio de las Dueñas.")
 
 ## 7\. Escapada Castilla Termal
 
@@ -111,7 +111,7 @@ perfecto para risas y charlas con tus amigas.
 ✅ [Castilla Termal Valbuena, una escapada de relax en la Ribera del 
 Duero](https://etheriamagazine.com/2021/10/29/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero/) 
 
-![castilla termal burgo de osma](etheria-images/2019/07/viaje-burgo-osma-castilla-termal.jpg "Date un capricho en el balneario del hotel Castilla Termal Burgo de Osma. ©Castillla Termal")
+![castilla termal burgo de osma](https://fotos.etheriamagazine.com/2019/07/viaje-burgo-osma-castilla-termal.jpg "Date un capricho en el balneario del hotel Castilla Termal Burgo de Osma. ©Castillla Termal")
 
 ## 8\. Ruta del Vino de La Mancha
 
@@ -124,7 +124,7 @@ viñedos, molinos y ecos del Quijote a descubrir los secretos del vino. El perio
 ✅ [La Ruta del Vino de La Mancha en 
 coche](https://etheriamagazine.com/2019/03/20/ruta-del-vino-de-la-mancha/) 
 
-![molinos en Campo de Criptana.](etheria-images/2019/03/Campo-de-Criptana-molinos-Ruta-del-Vino-de-La-Mancha.jpg "Campo de Criptana. © Rutas del Vino de la Mancha.")
+![molinos en Campo de Criptana.](https://fotos.etheriamagazine.com/2019/03/Campo-de-Criptana-molinos-Ruta-del-Vino-de-La-Mancha.jpg "Campo de Criptana. © Rutas del Vino de la Mancha.")
 
 ## 9\. Cáceres
 
@@ -137,7 +137,7 @@ Artes Visuales F. Helga Alvear, muy recomendable.
 ✅ [Por qué viajar sola a Cáceres y cómo 
 disfrutarlo](https://etheriamagazine.com/2018/05/13/viajarsolacaceres/) 
 
-![escapadas por España, viajes de relax](etheria-images/2018/05/1-Viaje-Caceres-Pixabay1569100.jpg "Tejados del casco histórico de Cáceres.")
+![escapadas por España, viajes de relax](https://fotos.etheriamagazine.com/2018/05/1-Viaje-Caceres-Pixabay1569100.jpg "Tejados del casco histórico de Cáceres.")
 
 ## 10\. Las Merindades de Burgos
 
@@ -150,7 +150,7 @@ bien la zona y nos la cuenta de primera mano. ¿A que apetece?
 ✅ [Ruta para desconectar en Las Merindades de 
 Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/) 
 
-![ojo guarena, ruta merindades, viaje burgos](etheria-images/2019/05/ruta-merindades-ojo-guarena.jpg "Ojo Guareña es uno de los complejos kársticos más grandes del mundo. © KR")
+![ojo guarena, ruta merindades, viaje burgos](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-ojo-guarena.jpg "Ojo Guareña es uno de los complejos kársticos más grandes del mundo. © KR")
 
 ? **También te puede interesar:** 
 

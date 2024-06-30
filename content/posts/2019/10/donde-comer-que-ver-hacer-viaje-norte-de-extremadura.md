@@ -1,7 +1,7 @@
 ---
 title: "Gastronomía y arte en el norte de Extremadura"
 date: 2019-10-02
-coverImage: etheria-images/2019/09/viaje-caceres-restaurante-Versatil-en-Zarza-de-Granadilla.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/09/viaje-caceres-restaurante-Versatil-en-Zarza-de-Granadilla.jpg
 categories: 
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
@@ -12,7 +12,7 @@ authors:
 
 ¿Te apetece una escapada de fin de semana a Extremadura para visitar Cáceres, Plasencia y la comarca de Tierras de Granadilla? Te invitamos a sumergirte en la boyante cultura gastronómica y en los museos más originales con las siguientes recomendaciones.
 
-[![chef restaurante versatil, alex granadilla](etheria-images/2019/09/alex-chef-restaurate-Versatil.jpg "Álex, del restaurante Versátil.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/alex-chef-restaurate-versatil/)
+[![chef restaurante versatil, alex granadilla](https://fotos.etheriamagazine.com/2019/09/alex-chef-restaurate-Versatil.jpg "Álex, del restaurante Versátil.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/alex-chef-restaurate-versatil/)
 
 En este viaje a Extremadura, tomamos como punto de partida la ciudad de **Cáceres**, que 
 no solo puede presumir de tener uno de los conjuntos monumentales más sobresalientes de 
@@ -22,7 +22,7 @@ urbano de los siglos XIV al XVII. Entrar en los empedrados callejones de su alme
 medieval supone adentrarse en un escenario donde los perfiles de la historia se 
 confunden con la fantasía de las leyendas. 
 
-[![arco de la estrella, viaje a caceres](etheria-images/2019/09/viaje-caceres-arco-estrella-900x580.jpg "Arco de la Estrella, en Cáceres.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-arco-estrella/)
+[![arco de la estrella, viaje a caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-arco-estrella-900x580.jpg "Arco de la Estrella, en Cáceres.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-arco-estrella/)
 
 ## Atrio, el restaurante de Toño Pérez
 
@@ -33,7 +33,7 @@ restaurante. Se trata de [Atrio](http://restauranteatrio.com), el restaurante qu
 José inauguraron en 1990 extramuros, y que ahora se ha convertido en **‘el dos estrellas 
 Michelin” de Extremadura**. 
 
-[![viaje gastro caceres, restaurante atrio, chef tono perez](etheria-images/2019/09/viaje-caceres-restaurante-atrio-900x563.jpg "Restaurante Atrio y su chef, Toño Pérez, con el plato Binomio del Casar.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-restaurante-atrio/)
+[![viaje gastro caceres, restaurante atrio, chef tono perez](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-restaurante-atrio-900x563.jpg "Restaurante Atrio y su chef, Toño Pérez, con el plato Binomio del Casar.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-restaurante-atrio/)
 
 Como el lugar de nacimiento del **Toño Pérez** (el chef) es Casar de Cáceres (cuna de la 
 Torta) no puede faltar un plato, ya emblemático de su menú, en el que intervenga el 
@@ -41,7 +41,7 @@ queso de su pueblo, y al que llama **Binomio del Casar**, que consiste en Torta 
 texturas y a dos temperaturas (en helado y en crema), acompañada por un mini bizcocho de 
 aceite de oliva y té matcha… y pera, y membrillo. Espectacular creación. 
 
-![Ai Weiwei museo helga de alvear](etheria-images/2021/03/ai-wei-wei-museo-arte-helga-del-alvear.jpg "© Descending Light (2007), Ai Weiwei.")
+![Ai Weiwei museo helga de alvear](https://fotos.etheriamagazine.com/2021/03/ai-wei-wei-museo-arte-helga-del-alvear.jpg "© Descending Light (2007), Ai Weiwei.")
 
 ## Museo Helga de Alvear
 
@@ -52,7 +52,7 @@ Alvear](https://etheriamagazine.com/2021/03/03/helga-de-alvear-el-arte-es-un-der
 que custodia una colección de arte contemporáneo de artistas internacionales 
 desarrollada por la reconocida galerista. 
 
-[![los barruecos, viaje caceres](etheria-images/2019/09/viaje-caceres-Paisaje-de-los-Barruecos-900x598.jpg "Los Barruecos.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-paisaje-de-los-barruecos/)
+[![los barruecos, viaje caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Paisaje-de-los-Barruecos-900x598.jpg "Los Barruecos.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-paisaje-de-los-barruecos/)
 
 Entre sus níveas paredes nos abandonaremos al relax conceptual que nos preparará la 
 mente para viajar hasta el alucinante **paraje de Los Barruecos** –donde se rodó parte 
@@ -67,7 +67,7 @@ Vostell](http://museovostell.com), que exhibe el mundo mágico de un creador mul
 alemán que empleó su vida en mezclar todas las prácticas artísticas. Instalaciones de 
 arte contemporáneo que no dejan indiferente ni al más neófito. Inolvidable. 
 
-[![museo vostell, viaje caceres, arte en extremadura](etheria-images/2019/09/viaje-caceres-Museo-Vostell-675x1024.jpg "Museo Vostell")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-museo-vostell/)
+[![museo vostell, viaje caceres, arte en extremadura](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Museo-Vostell-675x1024.jpg "Museo Vostell")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-museo-vostell/)
 
 ## Casar de Cáceres
 
@@ -81,7 +81,7 @@ con la cocina vanguardista. Su saber culinario nos llega al paladar a través de
 tan emblemáticos como el Gazpacho de cerezas y helado de Torta; Solomillo de cerdo 
 relleno de trigueros y Torta; y su peculiar Cheescake ¡de torta! Memorable. 
 
-[![claudio vidal, chef caceres](etheria-images/2019/09/viaje-caceres-Claudio-Vidal-chef-de-Casa-Claudio-900x652.jpg "Chef Claudio Vidal, de Casa Vidal.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-claudio-vidal-chef-de-casa-claudio/)
+[![claudio vidal, chef caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Claudio-Vidal-chef-de-Casa-Claudio-900x652.jpg "Chef Claudio Vidal, de Casa Vidal.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-claudio-vidal-chef-de-casa-claudio/)
 
 > Se cumple este año el vigésimo aniversario de la DOP de la Torta del Casar, un buen 
 > momento para reconocer la creatividad de algunos cocineros extremeños que no paran de 
@@ -94,7 +94,7 @@ capital de los tres valles del norte extremeño: Ambroz, Jerte y La Vera. Recome
 pasar por lo menos una noche entre sus murallas. Su edificio más destacado es la 
 **Catedral** que, en realidad, son dos: la nueva y la vieja. 
 
-[![plasencia, ruta en caceres](etheria-images/2019/09/viaje-caceres-Plasencia-900x552.jpg "Plasencia")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-plasencia/)
+[![plasencia, ruta en caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Plasencia-900x552.jpg "Plasencia")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-plasencia/)
 
 Al salir del templo puedes ver la portada románica –única– de la **iglesia de San 
 Nicolás**, que casi está enfrente; y detrás se abre una pequeña plaza donde se ubica la 
@@ -123,7 +123,7 @@ volver al pueblo de su infancia.
 > En 2021, Versátil ha conseguido su primera estrella Michelin. No nos cabe duda, de que 
 > será la primera de alguna que otra más. 
 
-[![restaurante versatil, donde comer en granadilla](etheria-images/2019/09/viaje-caceres-restaurante-Versatil-en-Zarza-de-Granadilla-900x594.jpg "Álex (en la cocina), David (en la bodega) y José (en la sala), del restaurante Versátil. © P. Grifol")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-restaurante-versatil-en-zarza-de-granadilla/)
+[![restaurante versatil, donde comer en granadilla](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-restaurante-Versatil-en-Zarza-de-Granadilla-900x594.jpg "Álex (en la cocina), David (en la bodega) y José (en la sala), del restaurante Versátil. © P. Grifol")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-restaurante-versatil-en-zarza-de-granadilla/)
 
 La ilusión y el cariño depositado en el proyecto se palpan nada más cruzar el umbral del 
 restaurante. El espacio, equipado de mesas con la altura perfecta, sillas con 
@@ -133,7 +133,7 @@ sale por 52 euros (más maridaje con cinco vinos por 27 euros más). Sus platos 
 impecables y con una increíble materia prima. Pregunta por aquellos platos que incluyen 
 Torta del Casar. 
 
-[![villa de granadilla, viaje caceres](etheria-images/2019/09/viaje-caceres-Villa-de-Granadilla-900x598.jpg "Villa de Granadilla.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-villa-de-granadilla/)
+[![villa de granadilla, viaje caceres](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-Villa-de-Granadilla-900x598.jpg "Villa de Granadilla.")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-caceres-villa-de-granadilla/)
 
 > No te pierdas la visita a Granadilla, un verdadero ‘pueblo fantasma’ en el valle del 
 > Ambroz 
@@ -146,7 +146,7 @@ granada’ " (según explica la wiki). Sin embargo, una vez que fue reconquistad
 Granada andaluza, a la extremeña se le cambió el nombre por el topónimo Granadilla para 
 evitar confusiones. 
 
-[![granadina caceres](etheria-images/2019/09/viaje-pueblo-fantasma-Villa-de-Granadilla-900x658.jpg "Villa de Granadilla")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-pueblo-fantasma-villa-de-granadilla/)
+[![granadina caceres](https://fotos.etheriamagazine.com/2019/09/viaje-pueblo-fantasma-Villa-de-Granadilla-900x658.jpg "Villa de Granadilla")](https://etheriamagazine.com/2019/10/02/donde-comer-que-ver-hacer-viaje-norte-de-extremadura/viaje-pueblo-fantasma-villa-de-granadilla/)
 
 ### Un pueblo inundable en 1955...
 

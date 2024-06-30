@@ -1,7 +1,7 @@
 ---
 title: "Harry Potter ya tiene parque temático en Japón y es espectacular"
 date: 2023-06-19
-coverImage: etheria-images/2023/06/parque-Harry-Potter-japon.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/06/parque-Harry-Potter-japon.jpg
 categories: 
   - parques-ocio
   - planes-cultura-ocio
@@ -14,7 +14,7 @@ fabuloso parque de Harry Potter. Ha abierto sus puertas el 16 de junio y está d
 a sorprender a todos los fanáticos de esta popular saga. Te contamos cómo es y por qué 
 es interesante visitarlo si viajas a Tokio. 
 
-![Tren de Hogwarts Express traído de Londres.](etheria-images/2023/06/parque-Harry-Potter-japon.jpg "Tren de Hogwarts Express traído de Londres.")
+![Tren de Hogwarts Express traído de Londres.](https://fotos.etheriamagazine.com/2023/06/parque-Harry-Potter-japon.jpg "Tren de Hogwarts Express traído de Londres.")
 
 Si ya había infinidad de motivos para viajar a Tokio, ahora tenemos uno más: visitar el 
 nuevo parque temático de Harry Potter que se ha construido en un enorme parque del 
@@ -28,7 +28,7 @@ primero abrió sus puertas en Londres en 2012 y ya ha recibido más de 14 millon
 visitantes. Aunque el japonés sigue el modelo londinense, sus dimensiones son mayores y 
 tiene nuevas salas. 
 
-![Nuevo parque de Harry Potter en Japón.](etheria-images/2023/06/parque-making-of-Harry-Potter.jpg "Nuevo parque de Harry Potter en Japón.")
+![Nuevo parque de Harry Potter en Japón.](https://fotos.etheriamagazine.com/2023/06/parque-making-of-Harry-Potter.jpg "Nuevo parque de Harry Potter en Japón.")
 
 ## Pasear por los sets de rodaje
 
@@ -58,7 +58,7 @@ original fue tallada a mano por Pierre Bohanna de una sola pieza de madera. De l
 también se hizo un molde con el que realizar otra versión más adecuada para los efectos 
 especiales. 
 
-![Recreación de un set de rodaje.](etheria-images/2023/06/parque-Harry-Potter-sets-rodaje.jpg "Recreación de un set de rodaje.")
+![Recreación de un set de rodaje.](https://fotos.etheriamagazine.com/2023/06/parque-Harry-Potter-sets-rodaje.jpg "Recreación de un set de rodaje.")
 
 En el nuevo parque de Harry Potter en Japón tampoco hay que perderse el **Gabinete de la 
 memoria** que se encuentra escondido en la oficina de Dumbledore y donde se podrán ver 
@@ -83,7 +83,7 @@ Potter y el prisionero de Azkaban_ y decidió añadir a los uniformes escolares 
 túnicas con cuellos y capuchas del color de la casa para que cada estudiante pudiera 
 mostrar su orgullo por la misma. 
 
-![Recreaciones de escenarios de la saga de Harry Potter.](etheria-images/2023/06/parque-tokio-Harry-Potter.jpg "Recreaciones de escenarios de la saga de Harry Potter.")
+![Recreaciones de escenarios de la saga de Harry Potter.](https://fotos.etheriamagazine.com/2023/06/parque-tokio-Harry-Potter.jpg "Recreaciones de escenarios de la saga de Harry Potter.")
 
 ## Modelos a escala
 

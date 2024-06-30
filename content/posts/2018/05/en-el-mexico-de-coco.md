@@ -1,7 +1,7 @@
 ---
 title: "'Coco', una película que nos acerca a México y sus tradiciones"
 date: 2018-05-28
-coverImage: etheria-images/2018/05/5-1.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/5-1.jpg
 categories: 
   - viajes-cine
 authors: 
@@ -13,7 +13,7 @@ los lugares que han inspirado las localizaciones de la película de animación C
 ganadora de dos Óscar y que está inspirada en la gente, la cultura y las tradiciones de 
 este país. 
 
-![Guanajuato la película Coco invita a viajar a México](etheria-images/2018/05/Guanajuato.jpg "Guanajuato © Pixar")
+![Guanajuato la película Coco invita a viajar a México](https://fotos.etheriamagazine.com/2018/05/Guanajuato.jpg "Guanajuato © Pixar")
 
 Recorremos algunos de los lugares en México que han inspirado la película de 
 Disney-Pixar Coco, y que exalta la tradicional fiesta mexicana de **Día de Muertos**. 
@@ -23,7 +23,7 @@ investigación (así los llaman ellos). Entre 2011 y 2013 visitaron museos, merc
 plazas, talleres, iglesias, haciendas y cementerios en Ciudad de México, Oaxaca y 
 Guanajuato. 
 
-![Las escenas de la película Coco invitan a conocer la cultura de México](etheria-images/2018/05/5-2-1024x425.jpg "Escena de 'Coco' © Disney•Pixar. All Rights Reserved")
+![Las escenas de la película Coco invitan a conocer la cultura de México](https://fotos.etheriamagazine.com/2018/05/5-2-1024x425.jpg "Escena de 'Coco' © Disney•Pixar. All Rights Reserved")
 
 Además, aprovecharon su estancia en tierras mexicanas para pasar tiempo con familias de 
 Tlacolula, Tlalixtac, El Tule, San Marcos Tlapazola y Abasolo. Toda esa búsqueda de 
@@ -38,7 +38,7 @@ Precisamente, Coco se inicia con una secuencia que utiliza esta artesanía para 
 la historia sobre los antepasados del pequeño Miguel, un niño que sueña con ser cantante 
 y que ha nacido en una familia donde la música está prohibida. 
 
-![Escena de 'Coco' en la Tierra de los Muertos.](etheria-images/2018/05/8-1024x425.jpg "Escena de 'Coco' en la Tierra de los Muertos. © Disney•Pixar. All Rights Reserved")
+![Escena de 'Coco' en la Tierra de los Muertos.](https://fotos.etheriamagazine.com/2018/05/8-1024x425.jpg "Escena de 'Coco' en la Tierra de los Muertos. © Disney•Pixar. All Rights Reserved")
 
 ## La Tierra de los Vivos
 
@@ -50,7 +50,7 @@ México, con sus bulliciosas plazas centrales, los edificios de adobe y las call
 adoquinadas, parece muy real. Por eso el viajero que deambule por los **estados de 
 Michoacán y Oaxaca** encontrará territorios que le recordarán a este enclave. 
 
-![La película Coco invita a conocer las costumbres de México](etheria-images/2018/05/1.jpg "Película 'Coco'. © Disney•Pixar. All Rights Reserved")
+![La película Coco invita a conocer las costumbres de México](https://fotos.etheriamagazine.com/2018/05/1.jpg "Película 'Coco'. © Disney•Pixar. All Rights Reserved")
 
 Muchos de los lugares que en la película se ubican en Santa Cecilia sugieren sitios 
 reales. Por ejemplo, la tumba de Ernesto de la Cruz guarda muchas similitudes con la de 
@@ -62,7 +62,7 @@ también para recrear la de Ernesto de la Cruz que está en la plaza del pueblo 
 familia Rivera. Y el cementerio se inspiró –entre otros– en los de Tzintzuntzán y San 
 Andrés Mixquic. 
 
-![El Acueducto de la capital del estado de Michoacán, en Morelia, es uno de los escenarios de Coco](etheria-images/2018/05/5.jpg "Puente hacia el Mundo de los Muertos. © Disney•Pixar. All Rights Reserved")
+![El Acueducto de la capital del estado de Michoacán, en Morelia, es uno de los escenarios de Coco](https://fotos.etheriamagazine.com/2018/05/5.jpg "Puente hacia el Mundo de los Muertos. © Disney•Pixar. All Rights Reserved")
 
 ## La Tierra de los Muertos
 
@@ -81,7 +81,7 @@ encuentra a unos 40 kilómetros de la ciudad de México. Para el diseño vertica
 tierra los realizadores también se basaron en las ruinas de grandes plazas, pirámides y 
 tumbas del Monte Albán. 
 
-![Viajar en familia a los escenarios de Coco es una buena alternativa](etheria-images/2018/05/pelicula-Coco-calles-empedradas-1024x585.jpg "La música está presente durante toda la película. © Disney•Pixar. All Rights Reserved")
+![Viajar en familia a los escenarios de Coco es una buena alternativa](https://fotos.etheriamagazine.com/2018/05/pelicula-Coco-calles-empedradas-1024x585.jpg "La música está presente durante toda la película. © Disney•Pixar. All Rights Reserved")
 
 ## Referencias a Guanajuato y Ciudad de México
 
@@ -90,7 +90,7 @@ mencionar la **ciudad de Guanajuato**. En el mundo de los muertos hay edificacio
 vertical que recuerdan a las de esta capital colonial. También lo hacen los callejones 
 por los que vemos correr al pequeño Miguel. 
 
-![](etheria-images/2018/05/3.jpg "Grand Hotel")
+![](https://fotos.etheriamagazine.com/2018/05/3.jpg "Grand Hotel")
 
 No podemos dejar tampoco de mencionar que Marigold Grand Central Station, la estación 
 por la que salen los muertos para visitar la Tierra de los Vivos, tiene mucho del 
@@ -98,7 +98,7 @@ por la que salen los muertos para visitar la Tierra de los Vivos, tiene mucho de
 una estructura dorada de hierro fundido. Y para ver de dónde surge el techo acristalado 
 hay que visitar el **Grand Hotel**, también en Ciudad de México. 
 
-![Marigold Grand Central Station tiene mucho del Palacio de Correos de Ciudad de México](etheria-images/2018/05/7.jpg "Escena de la película 'Coco'. © Disney•Pixar. All Rights Reserved")
+![Marigold Grand Central Station tiene mucho del Palacio de Correos de Ciudad de México](https://fotos.etheriamagazine.com/2018/05/7.jpg "Escena de la película 'Coco'. © Disney•Pixar. All Rights Reserved")
 
 Fuera del mapa de la película, pero imprescindible para comprar (o al menos fotografiar) 
 una guitarra igual que la del pequeño Miguel, hay que marcar **Paracho**. Este 

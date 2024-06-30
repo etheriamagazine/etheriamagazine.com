@@ -1,7 +1,7 @@
 ---
 title: "Sigüenza: del pasado medieval a la Movida madrileña"
 date: 2020-12-14
-coverImage: etheria-images/2020/12/parador-de-siguenza.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/parador-de-siguenza.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Sigüenza se viste durante los últimos meses del año con mil tonos de ocre y se saborea con las delicias estacionales de la zona. En una escapada a esta ciudad de Guadalajara descubrirás un interesante patrimonio arquitectónico y una curiosa historia relacionada con la Movida madrileña. ¿Nos acompañas a descubrirla?
 
-![patio del parador de siguenza](etheria-images/2020/12/parador-de-siguenza.jpg "Patio del © Parador de Sigüenza.")
+![patio del parador de siguenza](https://fotos.etheriamagazine.com/2020/12/parador-de-siguenza.jpg "Patio del © Parador de Sigüenza.")
 
 En el kilómetro 104 de la A-2, si viajas de Madrid a Sigüenza, se deja la autopista para 
 entrar de lleno en el siempre bello paisaje seguntino. A los parches rojos, amarillos y 
@@ -37,7 +37,7 @@ debe mucho, casi todo, de la floreciente arquitectura del pueblo guadalajareño.
 castillo acoge un Parador Nacional, cuyo restaurante es famoso por su gastronomía 
 seguntina. 
 
-![terraza de parador de siguenza](etheria-images/2020/12/habitacion-parador-de-siguenza-1.jpg "Terraza de una habitación del © Parador de Sigüenza.")
+![terraza de parador de siguenza](https://fotos.etheriamagazine.com/2020/12/habitacion-parador-de-siguenza-1.jpg "Terraza de una habitación del © Parador de Sigüenza.")
 
 ## Un melancólico paseo por la Alameda
 
@@ -53,7 +53,7 @@ Dos de ellos son el [restaurante Sánchez](http://restaurante-sanchez.com/wordpr
 donde se puede tapear pero también comer sentado y por todo lo alto, y el **Bar 
 Tormes**, con una barra llena de pinchos y raciones. 
 
-![panoramica de siguenza](etheria-images/2020/12/Siguenza-panoramica.jpg "Panorámica de Sigüenza. © Malaya at Panoramio")
+![panoramica de siguenza](https://fotos.etheriamagazine.com/2020/12/Siguenza-panoramica.jpg "Panorámica de Sigüenza. © Malaya at Panoramio")
 
 El café hay que tomarlo en una **terraza de la Alameda** para aprovechar los últimos 
 rayos del sol, evocando a algunos de aquellos que la pasearon como [Pardo 
@@ -73,7 +73,7 @@ pasar un buen rato admirando la espectacular arquitectura renacentista del **Pal
 Municipal**, adornado con arcos conopiales y cortejado por palacetes blasonados de 
 glamorosas puertas y galerías, entre ellos la **Tesorería del Cabildo**. 
 
-![Arquitectura en Siguenza](etheria-images/2020/12/siguenza-catedral.jpg "Una de las fachadas de la Catedral de Santa María.")
+![Arquitectura en Siguenza](https://fotos.etheriamagazine.com/2020/12/siguenza-catedral.jpg "Una de las fachadas de la Catedral de Santa María.")
 
 La Plaza Mayor alberga la fachada sur de la **Catedral de Santa María** y da inicio a la 
 calle Mayor, que sube hasta el **Castillo**, hoy Parador Nacional. Es uno de los más 
@@ -88,7 +88,7 @@ La **Catedral de Santa María** es una joya que abarca diferentes estilos: renac
 plateresco, barroco, cisterciense… Su piedra rosada se dora con el sol haciendo del 
 conjunto arquitectónico que le rodea un auténtico espectáculo. 
 
-![](etheria-images/2020/12/Siguenza-catedral-techo.jpg "Interior de la Catedral de Sigüenza. © Diego Delso/CC-BY-SA")
+![](https://fotos.etheriamagazine.com/2020/12/Siguenza-catedral-techo.jpg "Interior de la Catedral de Sigüenza. © Diego Delso/CC-BY-SA")
 
 En su interior se encuentra la **escultura funeraria de su famoso Doncel**, aplaudida 
 por José Ortega y Gasset que la consideró como la estatua funeraria más bella de España. 
@@ -98,7 +98,7 @@ leyendo un libro en serena actitud representa a Martín Vázquez de Arce (1461-1
 un elogio a la belleza lírica y a la melancolía. Parece ser que fue encargo de los 
 padres del joven Martín que murió a temprana edad. 
 
-![interior catedral de Siguenza](etheria-images/2020/12/Siguenza-doncel.jpg "Escultura de El Doncel, en la Catedral de Sigüenza.")
+![interior catedral de Siguenza](https://fotos.etheriamagazine.com/2020/12/Siguenza-doncel.jpg "Escultura de El Doncel, en la Catedral de Sigüenza.")
 
 Otro tesoro de la catedral, quizás no tan celebrado como el Doncel pero de inigualable 
 belleza, es la **Sacristía Mayor o de las Cabezas**. Fue construida en 1561 por Alonso 
@@ -116,7 +116,7 @@ uno de los restaurantes más cotizados de Sigüenza que cuenta con un Sol Repsol
 protagonista es el paté de corzo con crema de cebolleta, pero también ofrece una serie 
 de delicias estacionales en un bello y cuidado marco. 
 
-![arquitectura en Siguenza](etheria-images/2020/12/Siguenza-Casa-Doncel.jpg "Casa de El Doncel. © Antonio López Negredo/Ayuntamiento de Sigüenza")
+![arquitectura en Siguenza](https://fotos.etheriamagazine.com/2020/12/Siguenza-Casa-Doncel.jpg "Casa de El Doncel. © Antonio López Negredo/Ayuntamiento de Sigüenza")
 
 ## ¡A comer! Entre harinosas y asados
 
@@ -130,7 +130,7 @@ Mayor](http://restaurantelacasa.com/wp), donde saborear verduras de la huerta, c
 cordero típicos. También otras especialidades como el revuelto de boletus, foie y 
 huevos, besugo escabechado a la antigua usanza, y postres de miel, mora y menta. 
 
-![gastronomia en siguenza](etheria-images/2020/12/Siguenza-restaurante-Patata-trufada-683x1024.jpg "Patata trufada del restaurante © El Doncel")
+![gastronomia en siguenza](https://fotos.etheriamagazine.com/2020/12/Siguenza-restaurante-Patata-trufada-683x1024.jpg "Patata trufada del restaurante © El Doncel")
 
 Un restaurante ineludible del legendario Paseo de la Alameda es [El 
 Doncel](http://eldoncel.com/) con una estrella Michelin y dos Soles Repsol, ubicado en 
@@ -138,7 +138,7 @@ una antigua fragua que más tarde fue fábrica de cacao. Dedicado a la hosteler�
 hace ya cuatro generaciones, hoy es un referente seguntino donde es altamente 
 aconsejable comer y hospedarse. 
 
-![restaurante parador de siguenza](etheria-images/2020/12/restaurante-parador-siguenza-1.jpg "Asado en el restaurante del © Parador de Sigüenza.")
+![restaurante parador de siguenza](https://fotos.etheriamagazine.com/2020/12/restaurante-parador-siguenza-1.jpg "Asado en el restaurante del © Parador de Sigüenza.")
 
 ## De Sigüenza a "la movida"
 
@@ -152,7 +152,7 @@ combinaba con copas y chuletillas a la parrilla.
 > Allí cantó sus coplas Alberto Pérez y otros amantes de una forma de vida que pronto se 
 > convertiría en mítica. 
 
-![via lactea madrid](etheria-images/2020/12/bar-via-Lactea.jpg "Interior del bar Vía Láctea, en Madrid. © URJCMultimedia3")
+![via lactea madrid](https://fotos.etheriamagazine.com/2020/12/bar-via-Lactea.jpg "Interior del bar Vía Láctea, en Madrid. © URJCMultimedia3")
 
 Dejando atrás Sigüenza y El Molino, Marcos trasladó su inquietud creativa al barrio 
 madrileño de Malasaña, a la [Vía Láctea](https://m.facebook.com/lavialacteabar/). Este 

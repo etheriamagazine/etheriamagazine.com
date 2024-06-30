@@ -1,7 +1,7 @@
 ---
 title: "Tres dulces navideños de Palma, recetas y consejos para hacerlos en casa"
 date: 2021-11-19
-coverImage: etheria-images/2021/11/Coca-Bamba-palma-mallorca.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/Coca-Bamba-palma-mallorca.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -15,7 +15,7 @@ coca de patata, una coca de anís y otra de turrón? Te contamos los secretos qu
 desvelado Lluís Pérez, un experto pastelero de Mallorca, pero no se lo cuentes a 
 nadie... 
 
-![cocas de turron, patata y anis](etheria-images/2021/11/coca-palma-mallorca.jpg "Chocolate con pequeñas cocas de patata, anís y turrón. © Etheria Mag.")
+![cocas de turron, patata y anis](https://fotos.etheriamagazine.com/2021/11/coca-palma-mallorca.jpg "Chocolate con pequeñas cocas de patata, anís y turrón. © Etheria Mag.")
 
 **Actualizado 11/2023** 
 
@@ -31,7 +31,7 @@ pueden mojar en chocolate o café). Los ingredientes son sencillos y responden a
 productos que tradicionalmente se encontraban en Baleares: almendras, cítricos, harina 
 de cereales... Toma buena nota. 
 
-![amasando coca de anis](etheria-images/2021/11/lluis-perez-coca-bamba-682x1024.jpg "Lluís Pérez amasando la coca de anís. © Etheria Mag.")
+![amasando coca de anis](https://fotos.etheriamagazine.com/2021/11/lluis-perez-coca-bamba-682x1024.jpg "Lluís Pérez amasando la coca de anís. © Etheria Mag.")
 
 ## Recetas de dulces y "quemullars" de Palma
 
@@ -46,7 +46,7 @@ pasas por su pastelería de Palma no dejes de probar sus elaboraciones, y si es 
 navideña, reserva uno de sus famosos roscones elaborados con masa madre y fermentados de 
 forma natural. 
 
-![coca bamba o patata dulce palma](etheria-images/2021/11/Coca-Bamba-palma-mallorca.jpg "Coca bamba o de patata, ideal para mojar en chocolate.")
+![coca bamba o patata dulce palma](https://fotos.etheriamagazine.com/2021/11/Coca-Bamba-palma-mallorca.jpg "Coca bamba o de patata, ideal para mojar en chocolate.")
 
 ### 1\. Receta de Coca Bamba o de patata
 
@@ -72,7 +72,7 @@ chocolate para mojar. Un truco para hacer que el chocolate sepa aún m´ás rico
 varios tipos de chocolate e infusionar la leche previamente con canela. Hay quien le 
 añade un toque de sal o de picante, pero es cuestión de gustos. 
 
-![coca de anis dulces navidenos de palma](etheria-images/2021/11/receta-Coca-de-Anis.jpg "Cocas de anís.")
+![coca de anis dulces navidenos de palma](https://fotos.etheriamagazine.com/2021/11/receta-Coca-de-Anis.jpg "Cocas de anís.")
 
 ### 2\. Receta de Coca de Anís o de Nadal 
 
@@ -97,7 +97,7 @@ horas, y divídela en porciones haciendo bolas del tamaño que quieras. Ahora s�
 queda precalentar el horno a 180ºC y meter las cocas durante unos 25 minutos. El azúcar 
 en polvo se le añade antes de servir. 
 
-![coca de turron palma de mallorca](etheria-images/2021/11/Coca-Torro.jpg "Coca de turrón, uno de los dulces navideños de Palma.")
+![coca de turron palma de mallorca](https://fotos.etheriamagazine.com/2021/11/Coca-Torro.jpg "Coca de turrón, uno de los dulces navideños de Palma.")
 
 ### 3\. Receta de Coca de Torró / Turrón
 

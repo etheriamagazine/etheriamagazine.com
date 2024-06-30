@@ -1,5 +1,5 @@
 import { createMailchimpClient } from "../mailchimp";
-import { envReader } from "../config";
+import { makeEnvReader } from "../config";
 import { NewsletterFormSchema, parse } from "../schemas";
 import { ResponseError, ValidationError } from "../errors";
 import { readRequestData, errorResponse, success } from "../http";
@@ -9,14 +9,14 @@ export async function onRequestPost({ request, env }) {
   try {
     const input = parse(NewsletterFormSchema, await readRequestData(request));
 
-    const envVar = envReader(env);
+    const readEnv = makeEnvReader(env);
 
     const api = createMailchimpClient({
-      dc: envVar("ETHERIA_MAILCHIMP_DC"),
-      api_key: envVar("ETHERIA_MAILCHIMP_APIKEY"),
+      dc: readEnv("ETHERIA_MAILCHIMP_DC"),
+      api_key: readEnv("ETHERIA_MAILCHIMP_APIKEY"),
     });
 
-    const list_id = envVar("ETHERIA_MAILCHIMP_DEFAULT_LIST_ID");
+    const list_id = readEnv("ETHERIA_MAILCHIMP_DEFAULT_LIST_ID");
 
     const result =
       await api.lists.setListMember(list_id, {

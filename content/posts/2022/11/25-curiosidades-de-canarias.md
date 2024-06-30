@@ -1,7 +1,7 @@
 ---
 title: "25 curiosidades de Canarias que te sorprenderán"
 date: 2022-11-18
-coverImage: etheria-images/2022/11/portada-islas-canarias.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -13,7 +13,7 @@ disfrutar durante todo el año. Pero también es un archipiélago variado, sorpr
 repleto de curiosidades. Como seguro que no sabes tanto de sus islas como crees, te 
 retamos a descubrir sus muchos secretos en tu próxima visita. 
 
-![Playa de Tenerife, en las islas Canarias.](etheria-images/2022/11/portada-islas-canarias-850x518.jpg "Playa de Tenerife, en las islas Canarias. © Iancu Voinovan")
+![Playa de Tenerife, en las islas Canarias.](https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias-850x518.jpg "Playa de Tenerife, en las islas Canarias. © Iancu Voinovan")
 
 Puede que hayas visitado muchas veces el archipiélago de las islas Canarias pero cada 
 una de sus islas guarda tantas peculiaridades que muchas curiosidades te habrán pasado 
@@ -31,7 +31,7 @@ uno de los atractivos de la isla en redes sociales. Están formados por algas ca
 que las corrientes marinas arrastran a las costas. No dejes de hacer una parada en la 
 playa del Bajo de la Burra, al norte de la isla. 
 
-![Playa de las Palomitas, en Fuerteventura.](etheria-images/2022/11/playa-palomitas-fuerteventura.jpg "Playa de las Palomitas, en Fuerteventura. © Freepik")
+![Playa de las Palomitas, en Fuerteventura.](https://fotos.etheriamagazine.com/2022/11/playa-palomitas-fuerteventura.jpg "Playa de las Palomitas, en Fuerteventura. © Freepik")
 
 ### Casa-museo de Unamuno
 
@@ -65,7 +65,7 @@ en 1987, forman parte del Parque Rural de Betancuria y están situadas en la peq
 aldea marinera de Ajuy, a unos 8 kilómetros de la localidad de Pájara. Hasta allí se 
 puede llegar en coche, por lo que es muy fácil organizar una excursión para visitarlas. 
 
-![Cuevas de Ajuy.](etheria-images/2022/11/Cuevas-Ajuy.jpg "Cuevas de Ajuy, en Fuerteventura. © Turismo de Canarias")
+![Cuevas de Ajuy.](https://fotos.etheriamagazine.com/2022/11/Cuevas-Ajuy.jpg "Cuevas de Ajuy, en Fuerteventura. © Turismo de Canarias")
 
 ## En Gran Canaria
 
@@ -79,7 +79,7 @@ Si te animas, tiene un total de 72 kilómetros y se puede hacer en sólo tres et
 ?No te pierdas el artículo: [Senderismo y baños de bosque en Gran 
 Canaria](https://etheriamagazine.com/2018/05/03/senderismo-gran-canaria-banos-de-bosque/). 
 
-![Maspalomas, en Gran Canaria.](etheria-images/2022/11/gran-canaria-maspalomas.jpg "Maspalomas, en Gran Canaria. © Hert Niks")
+![Maspalomas, en Gran Canaria.](https://fotos.etheriamagazine.com/2022/11/gran-canaria-maspalomas.jpg "Maspalomas, en Gran Canaria. © Hert Niks")
 
 ### El mejor vodka del mundo
 
@@ -97,7 +97,7 @@ del siglo XVI, flanqueada por la Catedral y las Casas Consistoriales, y el merca
 artesanía de los domingos que se sitúa en la plaza del Pilar Nuevo, junto a la simbólica 
 puerta verde de la Casa de Colón. 
 
-![Puerta verde de la Casa de Colón, en el barrio de Vegueta](etheria-images/2022/11/casa-colon-gran-canaria.jpg "Puerta verde de la Casa de Colón, en el barrio de Vegueta. © Turismo de Gran Ganaria")
+![Puerta verde de la Casa de Colón, en el barrio de Vegueta](https://fotos.etheriamagazine.com/2022/11/casa-colon-gran-canaria.jpg "Puerta verde de la Casa de Colón, en el barrio de Vegueta. © Turismo de Gran Ganaria")
 
 ### Maestros roneros en el Caribe
 
@@ -115,7 +115,7 @@ es que, en aquellos momentos, la flota pesquera japonesa tenía una buena base e
 lugar. En su carta encontrarás, además de especialidades niponas, alguna que otra 
 delicia local. 
 
-![El Bosque de Los Tilos fue la primera Reserva de la Biosfera en la isla.](etheria-images/2021/11/la-palma-excursion-tilos.jpg "El Bosque de Los Tilos fue la primera Reserva de la Biosfera en la isla. © K.R.")
+![El Bosque de Los Tilos fue la primera Reserva de la Biosfera en la isla.](https://fotos.etheriamagazine.com/2021/11/la-palma-excursion-tilos.jpg "El Bosque de Los Tilos fue la primera Reserva de la Biosfera en la isla. © K.R.")
 
 ## En La Palma
 
@@ -139,7 +139,7 @@ España, sino también de los más románticos. En sus 330 metros cuadrados los 
 encontrarán todo lo que necesitan para pasar unos días alejados de la rutina y con el 
 sonido del mar de fondo. 
 
-![Faro de Punta Cumplida, en la isla de La Palma.](etheria-images/2019/05/Rusticae-faro-punta-cumplida.jpg "Faro de Punta Cumplida, en la isla de La Palma.")
+![Faro de Punta Cumplida, en la isla de La Palma.](https://fotos.etheriamagazine.com/2019/05/Rusticae-faro-punta-cumplida.jpg "Faro de Punta Cumplida, en la isla de La Palma.")
 
 ### El vino de Shakespeare
 
@@ -163,7 +163,7 @@ caribeña no deja de sonar. Las calles O’Daly y Pérez de Brito, así como la 
 Marítima, soportan estoicamente a los empolvados y pasan algunos días hasta que los 
 adoquines recobran su estado original. 
 
-![Un instante capta el efecto visual de los polvos de talco suspendidos en el aire.](etheria-images/2020/01/la-palma-carnaval-indianos-polvos-plaza-900x675.jpg "Un instante capta el efecto visual de los polvos de talco suspendidos en el aire. © KR")
+![Un instante capta el efecto visual de los polvos de talco suspendidos en el aire.](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-polvos-plaza-900x675.jpg "Un instante capta el efecto visual de los polvos de talco suspendidos en el aire. © KR")
 
 ### Un museo en un barco
 
@@ -187,7 +187,7 @@ cuadrados sobre los que se levantan 25 cráteres que permanecen dormidos. Los as
 de la ESA acuden a Lanzarote no solo por estos paisajes “marcianos” sino también por las 
 diferentes etapas del vulcanismo que pueden verse en la isla. 
 
-![Paisaje del P.N. de Timanfaya.](etheria-images/2018/09/Timanfaya_Paisaje-Volcanico-1024x683.jpg "Paisaje del P.N. de Timanfaya.")
+![Paisaje del P.N. de Timanfaya.](https://fotos.etheriamagazine.com/2018/09/Timanfaya_Paisaje-Volcanico-1024x683.jpg "Paisaje del P.N. de Timanfaya.")
 
 ### Volcanes donde cocinar
 
@@ -200,7 +200,7 @@ aprovecha como horno-barbacoa para asar carnes y verduras mientras se disfruta d
 panorámica del parque. En el exterior se suele verter un poco de agua para comprobar 
 cómo este calor se convierte en un géiser, una columna de vapor y agua. 
 
-![Restaurante El Diablo, en el Parque Nacional de Timanfaya.](etheria-images/2022/11/lanzarote-restaurante-diablo-timanfaya.jpg "Restaurante El Diablo, en el Parque Nacional de Timanfaya.")
+![Restaurante El Diablo, en el Parque Nacional de Timanfaya.](https://fotos.etheriamagazine.com/2022/11/lanzarote-restaurante-diablo-timanfaya.jpg "Restaurante El Diablo, en el Parque Nacional de Timanfaya.")
 
 ### El paraíso de los cactus
 
@@ -212,7 +212,7 @@ económica de la isla, ya que alrededor de la cantera se situaba una gran planta
 tuneras para el cultivo de cochinilla, de donde se extraían tintes naturales que se 
 exportaban por Europa. Este fue el motor económico de Lanzarote en el siglo XX. 
 
-![Jardín de Cactus en Lanzarote.](etheria-images/2018/09/Lanzarote-Jardín-cactus-1024x683.jpg "Jardín de Cactus en Lanzarote.")
+![Jardín de Cactus en Lanzarote.](https://fotos.etheriamagazine.com/2018/09/Lanzarote-Jardín-cactus-1024x683.jpg "Jardín de Cactus en Lanzarote.")
 
 ### Viñedos cultivados en hoyos
 
@@ -223,7 +223,7 @@ sorprendente del paisaje, merece la pena visitar alguna bodega, como la de El Gr
 más antigua de Lanzarote, y realizar una cata para conocer su marcado sabor volcánico 
 mineral. No dejes de probar el vino realizado con Malvasía volcánica. 
 
-![Viñedos en La Geria, en Lanzarote.](etheria-images/2022/11/lanzarote-la-geria.jpg "Viñedos en La Geria, en Lanzarote. © Olha Krat")
+![Viñedos en La Geria, en Lanzarote.](https://fotos.etheriamagazine.com/2022/11/lanzarote-la-geria.jpg "Viñedos en La Geria, en Lanzarote. © Olha Krat")
 
 ### Alfombras de sal
 
@@ -236,7 +236,7 @@ de Lanzarote con la sal ha quedado una preciosa costumbre: realizar alfombras de
 las calles para la fiesta del Corpus Christi. Son auténticas obras de arte que no debes 
 perderte si visitas la isla en esas fechas. 
 
-![Salinas de Janubio en Lanzarote.](etheria-images/2022/11/lanzarote-salinas-janubio-1.jpg "Salinas de Janubio en Lanzarote.")
+![Salinas de Janubio en Lanzarote.](https://fotos.etheriamagazine.com/2022/11/lanzarote-salinas-janubio-1.jpg "Salinas de Janubio en Lanzarote.")
 
 ## En Tenerife
 
@@ -249,7 +249,7 @@ mundo “Whale Heritage Site”. Una buena manera de acercarse a estos animales 
 un velero o un catamarán y salir a navegar para verlos, siempre de forma sostenible y 
 responsable. 
 
-![Puerto y acantilado de Los Gigantes en Tenerife.](etheria-images/2021/08/puerto-gigantes-tenerife.jpg "Puerto y acantilado de Los Gigantes en Tenerife. © Etheria Mag.")
+![Puerto y acantilado de Los Gigantes en Tenerife.](https://fotos.etheriamagazine.com/2021/08/puerto-gigantes-tenerife.jpg "Puerto y acantilado de Los Gigantes en Tenerife. © Etheria Mag.")
 
 ### Comer como reyes en guachinches
 
@@ -259,7 +259,7 @@ pequeño local o en un guachinche como en un 3 estrellas Michelin. Conocer los
 ingredientes, las recetas tradicionales, degustar sabores locales y productos de 
 kilómetro cero se puede convertir en una experiencia inolvidable. 
 
-![papas arrugadas con mojo rojo y mojo verde](etheria-images/2022/11/canarias-papas-arrugadas.jpg "Las papas arrugadas con mojo no pueden faltar en tu viaje a Canarias.")
+![papas arrugadas con mojo rojo y mojo verde](https://fotos.etheriamagazine.com/2022/11/canarias-papas-arrugadas.jpg "Las papas arrugadas con mojo no pueden faltar en tu viaje a Canarias.")
 
 ### Doble Patrimonio de la Humanidad
 
@@ -268,7 +268,7 @@ Teide y la ciudad de San Cristóbal de La Laguna, no sólo porque ambos lugares 
 magníficos sino porque cuentan con el reconocimiento de la Unesco como Patrimonio de la 
 Humanidad. 
 
-![Paseo por las Cañadas del Teide](etheria-images/2020/02/Tenerife-canadas-Teide-900x600.jpg "Paseo por las Cañadas del Teide. © SG")
+![Paseo por las Cañadas del Teide](https://fotos.etheriamagazine.com/2020/02/Tenerife-canadas-Teide-900x600.jpg "Paseo por las Cañadas del Teide. © SG")
 
 ### Inspiración de Agatha Christie
 
@@ -282,7 +282,7 @@ islas Canarias.
 ?No te pierdas: [Descubre la dulzura de La Orotava 
 (Tenerife)](https://etheriamagazine.com/2020/06/20/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava/). 
 
-![Bello conjunto arquitectónico de La Orotava .](etheria-images/2020/06/orotava-iglesia-concepcion-900x625.jpg "Bello conjunto arquitectónico de La Orotava. © M. M.")
+![Bello conjunto arquitectónico de La Orotava .](https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion-900x625.jpg "Bello conjunto arquitectónico de La Orotava. © M. M.")
 
 ### Un drago gigantesco
 
@@ -294,4 +294,4 @@ estado de salud se cuida de forma permanente. Como curiosidad te contamos que en
 instaló en el interior del tronco un ventilador para facilitar la circulación del aire y 
 evitar la proliferación de hongos. 
 
-![Drago de Icod de los Vinos.](etheria-images/2022/11/Canarias-drago.jpg "Drago de Icod de los Vinos. © Etheria Magazine")
+![Drago de Icod de los Vinos.](https://fotos.etheriamagazine.com/2022/11/Canarias-drago.jpg "Drago de Icod de los Vinos. © Etheria Magazine")

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Meliá Sol y Nieve, un clásico para esquiar en Sierra Nevada"
 date: 2022-01-28
-coverImage: etheria-images/2022/01/Melia-Sol-y-Nieve-Yhi-Spa.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-Yhi-Spa.jpg
 categories: 
   - organiza-tu-viaje
   - experiencias-viajeras
@@ -13,7 +13,7 @@ authors:
 
 Disfrutar de la nieve es uno de los 'highlights' del invierno y si puedes hacerlo desde un hotel como el Meliá Sol y Nieve la experiencia mejora exponencialmente. Coge tus esquís o tu tabla de 'snow' y prepárate para pasar unos días perfectos en Sierra Nevada.
 
-![Yhi Spa del hotel Melia Sol y Nieve](etheria-images/2022/01/Melia-Sol-y-Nieve-Yhi-Spa.jpg "Yhi Spa del hotel Meliá Sol y Nieve.")
+![Yhi Spa del hotel Melia Sol y Nieve](https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-Yhi-Spa.jpg "Yhi Spa del hotel Meliá Sol y Nieve.")
 
 Uno de los planazos del invierno es realizar un viaje de esquí. España está llena de 
 estaciones estupendas, pero si quieres combinar una buena experiencia sobre la nieve y 
@@ -28,7 +28,7 @@ eso no significa que se haya quedado atrás, ha sabido renovarse con una atenci�
 primera, que alcanza sus cotas más altas con _The Leve_l (una sección del hotel con 
 servicio cinco estrellas) y en un maravilloso e inmenso spa de 2.500 metros cuadrados. 
 
-![Montanas de Sierra Nevada](etheria-images/2022/01/Melia-sol-y-nieve-sierra-nevada.jpg "Sierra Nevada.")
+![Montanas de Sierra Nevada](https://fotos.etheriamagazine.com/2022/01/Melia-sol-y-nieve-sierra-nevada.jpg "Sierra Nevada.")
 
 Uno de los principales alicientes del hotel es sin duda su excelente ubicación, **a tan 
 solo 100 metros de los principales remontes** y de las pistas de El Águila y El Río. 
@@ -45,7 +45,7 @@ habitaciones. Algunas de las ventajas son el acceso libre al Yhi Spa y un 10% de
 descuento en sus tratamientos, check-in personalizado o servicio de secretaría y 
 conserjería. 
 
-![Hall de la zona The Level del Meliá Sol y Nieve](etheria-images/2022/01/Melia-Sol-y-Nieve-The-Leve-Hall-691x1024.jpg "Hall de la zona The Level del Meliá Sol y Nieve.")
+![Hall de la zona The Level del Meliá Sol y Nieve](https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-The-Leve-Hall-691x1024.jpg "Hall de la zona The Level del Meliá Sol y Nieve.")
 
 Además, tendrás a tu disposición **The Level Lounge**, una sala de lo más acogedora con 
 conexión a internet que ofrece un buffet permanente de _snacks_ dulces y salados donde 
@@ -62,7 +62,7 @@ las **habitaciones Meliá** (que se pueden pedir con vistas a la montaña), las
 confortable) y las **habitaciones Premium**, con algo más de espacio. Y ten en cuenta 
 que existen numerosas habitaciones comunicadas que son perfectas para familias. 
 
-![Habitación The Level con vistas a la montaña](etheria-images/2022/01/Melia-Sol-Y-Nieve-The-Level-Deluxe-vista-montana.jpg "Habitación The Level con vistas a la montaña.")
+![Habitación The Level con vistas a la montaña](https://fotos.etheriamagazine.com/2022/01/Melia-Sol-Y-Nieve-The-Level-Deluxe-vista-montana.jpg "Habitación The Level con vistas a la montaña.")
 
 #### Habitaciones The Level
 
@@ -83,7 +83,7 @@ de oliva como para hacer una cata, zumos de mil frutas… Hay que tener cuidado 
 línea entre coger fuerzas para el esquí y no poder moverse por querer probar de todo es 
 muy delgada… 
 
-![Q Lounge del hotel Melia Sol y Nieve](etheria-images/2022/01/Melia-Sol-y-Nieve-Q-Lounge.jpg "Q Lounge.")
+![Q Lounge del hotel Melia Sol y Nieve](https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-Q-Lounge.jpg "Q Lounge.")
 
 Además, en el hotel podrás disfrutar durante todo el día de la **Q-Lounge**, una sala 
 con cómodos sillones donde se pueden tomar platos ligeros en un ambiente relajado, que 
@@ -99,7 +99,7 @@ rato en su circuito hidrotermal y en su sala de relajación, no dejes de darte e
 capricho de probar uno de sus tratamientos (cuenta con 7 cabinas, una de ellas para 
 parejas con hidromasaje privado). 
 
-![Sala de tratamientos para dos del Yhi Spa en el hotel Melia Sol y Nieve](etheria-images/2022/01/Melia-Sol-Y-Nieve-Yhi-sala.jpg "Sala de tratamientos para dos del Yhi Spa.")
+![Sala de tratamientos para dos del Yhi Spa en el hotel Melia Sol y Nieve](https://fotos.etheriamagazine.com/2022/01/Melia-Sol-Y-Nieve-Yhi-sala.jpg "Sala de tratamientos para dos del Yhi Spa.")
 
 Los más pequeños tienen disponible una **zona de spa infantil** con piscina y tobogán. 
 Eso sí, tienen que estar siempre acompañados por un adulto. 

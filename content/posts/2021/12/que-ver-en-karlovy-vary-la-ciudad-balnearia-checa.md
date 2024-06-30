@@ -1,7 +1,7 @@
 ---
 title: "Karlovy Vary, la ciudad balnearia checa que Goethe visitó 13 veces"
 date: 2021-12-09
-coverImage: etheria-images/2021/12/karlovy-vary-monumental.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/12/karlovy-vary-monumental.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 La belleza monumental y la oferta de ocio de Praga son el gran reclamo de Chequia, sin embargo a hora y media de la capital se encuentran ciudades como Karlovy Vary que ofrecen una experiencia tan completa que no querrás marcharte de allí. Si necesitas razones para elegir esta ciudad como primer o segundo destino sigue leyendo porque te daremos hasta quince.
 
-![karlovy vary vistas](etheria-images/2021/12/karlovy-vary-monumental.jpg "Panorámica de Karlovy Vary desde el Grandhotel Pupp. © P.G.")
+![karlovy vary vistas](https://fotos.etheriamagazine.com/2021/12/karlovy-vary-monumental.jpg "Panorámica de Karlovy Vary desde el Grandhotel Pupp. © P.G.")
 
 Cuando preparamos un viaje a la República Checa solemos tomar las distancias como factor 
 decisivo para organizar la agenda. Sin embargo, nuestra sugerencia es que también tengas 
@@ -39,7 +39,7 @@ de los que brota agua con distintas propiedades. En un primer momento ese agua s
 empleaba sólo para baños, pero desde el siglo XVI también se reconoció su valor como 
 bebida. Una terapia que Václav Payer describía ya en su libro en 1522. 
 
-![karlovy vary entre bosques](etheria-images/2021/12/karlovy-vary-chequia.jpg "La ciudad se encuentra rodeada de bosques. © P.G.")
+![karlovy vary entre bosques](https://fotos.etheriamagazine.com/2021/12/karlovy-vary-chequia.jpg "La ciudad se encuentra rodeada de bosques. © P.G.")
 
 ### La moda de los balnearios cambió la fisonomía de Karlovy Vary
 
@@ -60,7 +60,7 @@ se puede observar estuvo motivada por ambas circunstancias. En un paseo por la c
 descubrirás rasgos barrocos, clasicistas, imperiales o del Biedermeier. Y, también, 
 palacios, teatros, casinos, monumentales columnatas, hoteles históricos, balnearios... 
 
-![jarritas karlovy vary](etheria-images/2021/12/jarritas-karlovy-vary.jpg "Tu primera compra: la jarrita para beber el agua de las fuentes (se bebe por el extremo del asa). © P.G.")
+![jarritas karlovy vary](https://fotos.etheriamagazine.com/2021/12/jarritas-karlovy-vary.jpg "Tu primera compra: la jarrita para beber el agua de las fuentes (se bebe por el extremo del asa). © P.G.")
 
 ## 15 imprescindibles en Karlovy Vary para un día o para más
 
@@ -81,7 +81,7 @@ encuentra detrás del hotel Pupp, la localizarás en seguida. Este histórico fu
 construido en 1912 por la empresa Strubb – Peters de Suiza. Cerca del mismo, fíjate en 
 la capilla neogótica de Nuestra Señora. 
 
-![prado antiguo karlovy vary](etheria-images/2021/12/calles-karlovy-vary.jpg "Calle del Prado antiguo y mirador de Diana (sobre la arboleda). © P.G.")
+![prado antiguo karlovy vary](https://fotos.etheriamagazine.com/2021/12/calles-karlovy-vary.jpg "Calle del Prado antiguo y mirador de Diana (sobre la arboleda). © P.G.")
 
 ### 2\. Prado antiguo
 
@@ -99,7 +99,7 @@ se le asocia con muchos lugares como la histórica **cafetería Elefant**, la Ca
 Conejo Blanco, la Casa Mozart donde estuvo con su amante Charlotta von Stein o la **Casa 
 Strauss**, que sería una de sus últimas moradas. 
 
-![grand hotel pupp karlovy vary](etheria-images/2021/12/grandhotel-pupp.jpg "Grandhotel Pupp. © Pepa García")
+![grand hotel pupp karlovy vary](https://fotos.etheriamagazine.com/2021/12/grandhotel-pupp.jpg "Grandhotel Pupp. © Pepa García")
 
 ### 3\. Grandhotel Pupp
 
@@ -130,7 +130,7 @@ del telón pintado por Gustavo Klimt, que representa la Alegoría de las Artes. 
 renovado y merece una visita. [Resérvala](https://www.karlovyvary.cz/en/town-theatre) 
 con tiempo. 
 
-![geiser el hervidero karlovy vary](etheria-images/2021/12/geiser-el-hervidero.jpg "Géiser del Hervidero. © P.G.")
+![geiser el hervidero karlovy vary](https://fotos.etheriamagazine.com/2021/12/geiser-el-hervidero.jpg "Géiser del Hervidero. © P.G.")
 
 ### 5\. Columnata del Hervidero
 
@@ -143,7 +143,7 @@ y el agua mana a una temperatura de 72°C. En el interior de la columnata hay ci
 del manantial enfriadas artificialmente. Actualmente, al estar en renovación, el géiser 
 mana desde fuera de la instalación como se puede ver en la imagen superior. 
 
-![columnata mercado karlovy vary](etheria-images/2021/12/columnata-mercado-karlovy-vary.jpg "Columnata del Mercado (Karlovy Vary). © P.G.")
+![columnata mercado karlovy vary](https://fotos.etheriamagazine.com/2021/12/columnata-mercado-karlovy-vary.jpg "Columnata del Mercado (Karlovy Vary). © P.G.")
 
 ### 6\. Columnata del Mercado
 
@@ -156,7 +156,7 @@ del Hervidero_ (Adolf Zörkler). Allí mismo también se sitúa el **Manantial d
 que brota a 62°C. Todas las fuentes son potables pero es cierto que al estar a cierta 
 temperatura y con componentes minerales o metales el agua sabe un poco extraña. 
 
-![columnata molino karlovy vary](etheria-images/2021/12/columnata-molino.jpg "Columnata del Molino. © Pepa García")
+![columnata molino karlovy vary](https://fotos.etheriamagazine.com/2021/12/columnata-molino.jpg "Columnata del Molino. © Pepa García")
 
 ### 7\. Columnata del Molino o de Zítek
 
@@ -169,7 +169,7 @@ gustará, ya que es una construcción neorrenacentista con más de cien metros d
 Rusalka. Llaman la atención las 12 estatuas alegóricas de su terraza. El agua en este 
 lugar brota entre 56 y 65 ºC, en función de la fuente. 
 
-![columnata parque karlovy vary](etheria-images/2021/12/columnata-parque-karlovy-vary.jpg "Columnata del Parque, en Karlovy Vary. © P.G.")
+![columnata parque karlovy vary](https://fotos.etheriamagazine.com/2021/12/columnata-parque-karlovy-vary.jpg "Columnata del Parque, en Karlovy Vary. © P.G.")
 
 ### 8\. Columnata del Parque
 
@@ -180,7 +180,7 @@ figura de este animal. Antaño formaba parte del restaurante del parque, pero el
 fue desmontado en 1965. Tras beber de sus fuentes, pasea por este espacio verde lleno de 
 rincones con encanto. 
 
-![parque dvorak karlovy vary](etheria-images/2021/12/parque-dvorak-karlovy-vary.jpg "Parque de Dvořák, en Karlovy Vary. © P.G.")
+![parque dvorak karlovy vary](https://fotos.etheriamagazine.com/2021/12/parque-dvorak-karlovy-vary.jpg "Parque de Dvořák, en Karlovy Vary. © P.G.")
 
 ### 9\. Casas de la calle I. P. Pavlova
 
@@ -193,7 +193,7 @@ en 1711 de incógnito, como albañil, en la construcción de la casa del Pavo (l
 el hotel Astoria, números 21 y 23); y también la casa Pasteur (número 25), con una 
 fachada decorada con un mosaico modernista que representa la alegoría de la Balneología. 
 
-![iglesia santa maria magdalena en karlovy vary](etheria-images/2021/12/iglesia-karlovy-vary.jpg "Las torres del fondo corresponden a la iglesia de Santa María Magdalena. © P.G.")
+![iglesia santa maria magdalena en karlovy vary](https://fotos.etheriamagazine.com/2021/12/iglesia-karlovy-vary.jpg "Las torres del fondo corresponden a la iglesia de Santa María Magdalena. © P.G.")
 
 ### 10\. Iglesia de Santa María Magdalena
 
@@ -212,7 +212,7 @@ impacto que tuviste en Karlovy Vary. Y no sería de extrañar porque desde la le
 destaca por su monumentalidad, y llegas a dudar sobre si es un castillo o no. Fue 
 levantado en 1912 siguiendo un proyecto del arquitecto francés Ernest Hébrard. 
 
-![cafe hotel thermal karlovy vary](etheria-images/2021/12/cafe-hotel-thermal-731x1024.jpg "Café del hotel Thermal, en Karlovy Vary. © P.G.")
+![cafe hotel thermal karlovy vary](https://fotos.etheriamagazine.com/2021/12/cafe-hotel-thermal-731x1024.jpg "Café del hotel Thermal, en Karlovy Vary. © P.G.")
 
 ### 12\. Hotel Thermal y Festival de Cine
 
@@ -223,7 +223,7 @@ agua termal y la presencia de un auditorio donde se realiza el Festival Cinemato
 Internacional de Karlovy Vary. Entra a su café para curiosear, ver fotografías, caminar 
 por donde lo hacen grandes estrellas del celuloide y disfrutar de su ambiente retro. 
 
-![Museo Becherovka karlovy vary](etheria-images/2021/12/museo-becherovka.jpg "Bebidas para la cata en el Museo Becherovka. © P.G.")
+![Museo Becherovka karlovy vary](https://fotos.etheriamagazine.com/2021/12/museo-becherovka.jpg "Bebidas para la cata en el Museo Becherovka. © P.G.")
 
 ### 13\. Museo Becherovka
 
@@ -241,7 +241,7 @@ rusa ortodoxa de Pedro y Pablo. Es de estilo bizantino y fue edificada entre 189
 gracias a las aportaciones de la nobleza rusa, familias como la Romanov y otras que eran 
 asiduas de la ciudad balneario. 
 
-![fabrica moser karlovy vary](etheria-images/2021/12/fabrica-moser.jpg "Fábrica Moser. © P.G.")
+![fabrica moser karlovy vary](https://fotos.etheriamagazine.com/2021/12/fabrica-moser.jpg "Fábrica Moser. © P.G.")
 
 ### 15\. Fábrica Moser
 
@@ -253,7 +253,7 @@ realiza de forma guiada, podrás caminar por el taller para ver trabajar a los a
 y visitar el museo donde se exhiben piezas únicas. También hay tienda para llevarte 
 algún recuerdo. 
 
-![taller museo moser karlovy vary](etheria-images/2021/12/museo-moser.jpg "Museo y taller Moser. © P.G.")
+![taller museo moser karlovy vary](https://fotos.etheriamagazine.com/2021/12/museo-moser.jpg "Museo y taller Moser. © P.G.")
 
 ### Bonus: terapia termal
 
@@ -262,7 +262,7 @@ en cuenta que suelen estar indicados para fines terapéuticos, y no se parecen a
 urbanos. Lo habitual es pasar un control médico previo que establezca la terapia que te 
 irá mejor. 
 
-![spa publico karlovy vary](etheria-images/2021/12/spa-karlovy-vary-748x1024.jpg "Spa público en Karlovy Vary. © P.G.")
+![spa publico karlovy vary](https://fotos.etheriamagazine.com/2021/12/spa-karlovy-vary-748x1024.jpg "Spa público en Karlovy Vary. © P.G.")
 
 ### Guía de Karlovy Vary | Etheria Magazine
 

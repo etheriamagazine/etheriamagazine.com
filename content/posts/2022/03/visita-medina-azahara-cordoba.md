@@ -1,7 +1,7 @@
 ---
 title: "Visita de Medina Azahara, la excursión imprescindible en Córdoba"
 date: 2022-03-25
-coverImage: etheria-images/2022/03/medina-azahara-palacio.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/03/medina-azahara-palacio.jpg
 categories: 
   - consejos-practicos
   - exposiciones
@@ -16,7 +16,7 @@ testimonio de la grandeza del califato que fundo Abd al-Rahman III. Te contamos 
 forma de organizar la visita a este lugar imprescindible en Córdoba y los diez espacios 
 del complejo arqueológico que no puedes perderte. 
 
-![Dos personas frente a los arcos de la casa de Ya'far](etheria-images/2022/03/medina-azahara-palacio.jpg "Entrada de la casa de Ya'far en Medina Azahara. © Susana García")
+![Dos personas frente a los arcos de la casa de Ya'far](https://fotos.etheriamagazine.com/2022/03/medina-azahara-palacio.jpg "Entrada de la casa de Ya'far en Medina Azahara. © Susana García")
 
 Córdoba da para mucho, te diría que para lo que tú quieras y tantas veces como te 
 apetezca. Porque pasar un fin de semana en esta preciosa ciudad podría ser perfectamente 
@@ -27,8 +27,6 @@ para comprender un poco mejor la historia cordobesa y un testimonio inigualable 
 poderío de Al Ándalus. Aquí te contamos algunos de sus secretos y todo aquello que no 
 puedes perderte de este complejo arqueológico declarado Patrimonio de la Humanidad en 
 2018. 
-
-\[lwptoc\]
 
 ## Medina Azahara y su historia
 
@@ -46,7 +44,7 @@ destacaba el palacio sobre el resto de edificios.
 Lo que sí es verdad es que este gran proyecto arquitectónico se creó para engrandecer el 
 poder califal y no se escatimó en recursos. 
 
-![Arcos del edificio basilical.](etheria-images/2022/03/Medina-azahara-basilica.jpg "Arcos del edificio basilical. © SG")
+![Arcos del edificio basilical.](https://fotos.etheriamagazine.com/2022/03/Medina-azahara-basilica.jpg "Arcos del edificio basilical. © SG")
 
 Construida a ocho kilómetros al oeste de Córdoba, su historia fue efímera, de apenas 75 
 años. Abarcó desde 940 con los últimos veinte años del reinado del primer califa, los de 
@@ -58,13 +56,7 @@ principios del siglo XX cuando se comenzaron algunas excavaciones y, a día de h
 se ha excavado un diez por ciento de la superficie total del complejo palaciego, por lo 
 que es un yacimiento vivo del que todavía queda mucho por conocer. 
 
-## 10 lugares imprescindibles en la visita a Medina Azahara:
-
-[1\. Puerta Norte](#puerta-entrada). [2\. Edificio Basilical Superior](#basilica). [3\. 
-Calle en Rampa](#calle-acceso). [4\. Gran Pórtico y Plaza de Armas](#pórtico-arcos). [5\. 
-Caballerizas](#caballos). [6\. Mezquita](#mezquita). [7\. Jardines](#jardines). [8\. 
-Casa de Ya’far](#casa-Yafar). [9\. Casas de los sirvientes](#sirvientes). [10\. Edificio 
-superior](#guardia). 
+## 10 lugares imprescindibles en la visita a Medina Azahara
 
 ### Puerta Norte
 
@@ -75,7 +67,7 @@ Camino de los Nogales, el camino que se utilizaba para abastecer el palacio. El 
 este recinto era “en recodo” una solución habitual en la arquitectura militar árabe para 
 entrar en los recintos amurallados. 
 
-![Ruinas de Medina Azahara con los tres arcos al fondo](etheria-images/2022/03/Medina-Azahara-panoramica.jpg "Yacimiento de Medina Azahara visto desde la Puerta Norte. © SG")
+![Ruinas de Medina Azahara con los tres arcos al fondo](https://fotos.etheriamagazine.com/2022/03/Medina-Azahara-panoramica.jpg "Yacimiento de Medina Azahara visto desde la Puerta Norte. © SG")
 
 ### Edificio Basilical Superior
 
@@ -99,7 +91,7 @@ Azahara. En origen eran catorce arcos abiertos ubicados en el lado oeste de la p
 Armas, por donde que se accedía al Alcázar-palacio. Se construyó entre el reinado de Abd 
 Al-Rahman III y Al-Hakam II y sufrió posteriormente sucesivas reformas. 
 
-![Arcos en pie de lo que fue el gran pórtico de entrada a Medina Azahara](etheria-images/2022/03/Medina-Azahara-gran-portico.jpg "Gran Pórtico de entrada a Medina Azahara. © SG")
+![Arcos en pie de lo que fue el gran pórtico de entrada a Medina Azahara](https://fotos.etheriamagazine.com/2022/03/Medina-Azahara-gran-portico.jpg "Gran Pórtico de entrada a Medina Azahara. © SG")
 
 ### Caballerizas
 
@@ -107,7 +99,7 @@ En el estrecho pasillo que eran las caballerizas queda la estructura de un espac
 debió albergar unos 30 caballos al servicio de los altos funcionarios de palacio y un 
 pilón de agua de mármol orginal que ha sido restaurado. 
 
-![Caballerizas de Medina Azahara con pilón de mármol](etheria-images/2022/03/medina-azahara-caballerizas.jpg "Caballerizas. © SG")
+![Caballerizas de Medina Azahara con pilón de mármol](https://fotos.etheriamagazine.com/2022/03/medina-azahara-caballerizas.jpg "Caballerizas. © SG")
 
 ### Mezquita de Medina Azahara
 
@@ -117,7 +109,7 @@ se puede ver perfectamente su distribución con su patio y una sala de oración 
 naves. Estaba perfectamente orientada a La Meca y el califa llegaba al lugar que tenía 
 reservado en el oratorio a través de un pasadizo cubierto. 
 
-![Planta de la mezquita de Medina Azahara.](etheria-images/2022/03/medina-azahara-mezquita.jpg "Planta de la mezquita de Medina Azahara. © SG")
+![Planta de la mezquita de Medina Azahara.](https://fotos.etheriamagazine.com/2022/03/medina-azahara-mezquita.jpg "Planta de la mezquita de Medina Azahara. © SG")
 
 ### Jardines de Medina Azahara
 
@@ -135,7 +127,7 @@ identificado con su vivienda. Con planta basilical, se conservan algunos atauriq
 pavimento de mármol, además de tres preciosos arcos de entrada con decoración labrada en 
 piedra. 
 
-![Detalle de decoración en ataurique en Medina Azahara](etheria-images/2022/03/medina-azahara-detalle-ataurique.jpg "Ataurique en la casa de Ya'far. © SG")
+![Detalle de decoración en ataurique en Medina Azahara](https://fotos.etheriamagazine.com/2022/03/medina-azahara-detalle-ataurique.jpg "Ataurique en la casa de Ya'far. © SG")
 
 ### Casas de los sirvientes
 
@@ -144,7 +136,7 @@ sirvientes, donde además de vivir se preparaban los alimentos. Estas viviendas 
 organizaban en torno a un patio y se conserva un horno (que ha sido reconstruido). Se ha 
 identificado también la zona de letrinas y los almacenes. 
 
-![Horno de ladrillo reconstruido en Medina Azahara](etheria-images/2022/03/medina-azahara-horno.jpg "Horno reconstruido en las casas de los sirvientes. © SG")
+![Horno de ladrillo reconstruido en Medina Azahara](https://fotos.etheriamagazine.com/2022/03/medina-azahara-horno.jpg "Horno reconstruido en las casas de los sirvientes. © SG")
 
 ### Edificio superior
 
@@ -156,7 +148,7 @@ patio, y por su situación junto a la puerta Norte se piensa que pudo ser utiliz
 residencia de la guardia del palacio. En estos edificios coexistían dormitorios con 
 habitaciones dedicadas a la preparación de alimentos. 
 
-![Yacimiento arqueológico de Medina Azahara.](etheria-images/2022/03/medina-azahara-ruinas.jpg "Yacimiento arqueológico de Medina Azahara. © SG")
+![Yacimiento arqueológico de Medina Azahara.](https://fotos.etheriamagazine.com/2022/03/medina-azahara-ruinas.jpg "Yacimiento arqueológico de Medina Azahara. © SG")
 
 ## Cómo organizar la visita de Medina Azahara
 
@@ -195,7 +187,7 @@ nocturno](https://www.civitatis.com/es/cordoba/tour-nocturno-medina-azahara/?aid
 que tiene lugar en junio, julio y agosto. Estas excursiones incluyen el traslado al 
 yacimiento arqueológico desde una serie de puntos de encuentro en Córdoba. 
 
-![Jardines de Medina Azahara.](etheria-images/2022/03/medina-azahara-jardines.jpg "Jardines de Medina Azahara. © SG")
+![Jardines de Medina Azahara.](https://fotos.etheriamagazine.com/2022/03/medina-azahara-jardines.jpg "Jardines de Medina Azahara. © SG")
 
 **También te puede interesar:** 
 

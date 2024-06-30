@@ -1,7 +1,7 @@
 ---
 title: "Hotel Al Wathba, una cita con el lujo en Abu Dhabi"
 date: 2023-12-20
-coverImage: etheria-images/2023/12/hotel-Al-Wathba-abu-dhabi-piscina.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-abu-dhabi-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -15,7 +15,7 @@ donde el lujo envuelve cada instante de la estancia. Un lugar donde disfrutar de
 belleza y la serenidad del desierto en un entorno exclusivo para descansar y disfrutar 
 de las vacaciones al margen del mundo. 
 
-![entrada al hotel Al Wathba](etheria-images/2023/12/hotel-Al-Wathba-abu-dhabi-desert-camp.jpg "La ambientación de Al Wathba hace de este hotel un auténtico oasis.")
+![entrada al hotel Al Wathba](https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-abu-dhabi-desert-camp.jpg "La ambientación de Al Wathba hace de este hotel un auténtico oasis.")
 
 Hay hoteles pensados para evadirse del mundo y, sin duda, uno de ellos es **Al Wathba**, 
 que se asoma al desierto de Arabia ofreciendo maravillosos paisajes que se disfrutan 
@@ -36,7 +36,7 @@ detalles que las hacen tan atractivas. Se puede elegir entre la categoría **Sup
 piscina o al desierto). En cuanto a las **suites**, existen opciones de una o dos 
 habitaciones y algunas de ellas cuentan con piscina privada o jacuzzi. 
 
-![Habitación en el hotel Al Wathba.](etheria-images/2023/12/hotel-Al-Wathba-abu-dhabi-habitacion.jpg "Habitación en el hotel Al Wathba.")
+![Habitación en el hotel Al Wathba.](https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-abu-dhabi-habitacion.jpg "Habitación en el hotel Al Wathba.")
 
 Los que buscan más espacio encontrarán en las **villas** de Al Wathba el alojamiento 
 perfecto. Hay de uno, dos o tres dormitorios (The Royal Villa) y ofrecen a los clientes 
@@ -48,7 +48,7 @@ una villa de uno, además de un espacio llamado The Majilis, que aporta cien met
 cuadrados de acceso privado. Así se consigue una sensación de total independencia, 
 aunque con todos los servicios de este hotel de lujo. 
 
-![Villa con piscina del hotel Al Wathba.](etheria-images/2023/12/hotel-Al-Wathba-villa-exterior.jpg "Villa con piscina del hotel Al Wathba.")
+![Villa con piscina del hotel Al Wathba.](https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-villa-exterior.jpg "Villa con piscina del hotel Al Wathba.")
 
 ## Los restaurantes
 
@@ -62,7 +62,7 @@ terraza con vistas sobre el desierto y cocina de Oriente Medio, y es perfecto pa
 un cóctel o relajarse con una shisha. Y **Panache** es el bar de la piscina, donde se 
 puede tomar algo ligero durante el día y una agradable cena durante la noche. 
 
-![Mesas al aire libre en Panache, el restaurante de la piscina.](etheria-images/2023/12/hotel-Al-Wathba-restaurante.jpg "Mesas al aire libre en Panache, el restaurante de la piscina.")
+![Mesas al aire libre en Panache, el restaurante de la piscina.](https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-restaurante.jpg "Mesas al aire libre en Panache, el restaurante de la piscina.")
 
 ## Espacios del hotel
 
@@ -75,7 +75,7 @@ aporta su zona de relajación al aire libre, el _hammam_ turco tradicional o las
 sal. Incluso cuenta hasta con una cueva de nieve donde refrescarse en un agua helada en 
 pleno desierto. 
 
-![sala de tratamientos del spa Sarai](etheria-images/2023/12/hotel-Al-Wathba-abu-dhabi-spa.jpg "Spa Sarai.")
+![sala de tratamientos del spa Sarai](https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-abu-dhabi-spa.jpg "Spa Sarai.")
 
 En el hotel además es posible disfrutar de un completo **gimnasio** para mantenerse en 
 forma también durante las vacaciones. 

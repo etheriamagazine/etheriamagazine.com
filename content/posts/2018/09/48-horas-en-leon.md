@@ -1,7 +1,7 @@
 ---
 title: "Enamórate de León en sólo 48 horas"
 date: 2018-09-27
-coverImage: etheria-images/2018/09/Leon-calle-ancha.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -15,7 +15,7 @@ León es una ciudad sorprendente y moderna, cuya belleza se prolonga en el tiemp
 ideal para el errático rumbo del viajero. Te cautivará si viajas en pareja, con amigas o 
 sola. ¡Aquí van algunas pistas para que organices la visita a tu gusto! 
 
-![Calle Ancha, en el centro histórico de León.](etheria-images/2018/09/Leon-calle-ancha-1024x683.jpg "Calle Ancha, en el centro histórico de León.")
+![Calle Ancha, en el centro histórico de León.](https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha-1024x683.jpg "Calle Ancha, en el centro histórico de León.")
 
 Una de las mejores cosas de León es que se recorre a pie. Desde el centro histórico al 
 MUSAC se tarda menos de media hora. Si vas en coche, una buena opción es el aparcamiento 
@@ -32,7 +32,7 @@ hay que comprar la entrada premium. Hay también una visita teatralizada muy ent
 Si no tienes mucho tiempo, contempla su imponente aspecto exterior sentada en el banco 
 situado delante de la puerta principal, junto al propio Gaudí inmortalizado en bronce. 
 
-![Casa Botines (León).](etheria-images/2018/09/leon-casa-botines-1024x683.jpg "Casa Botines (León).")
+![Casa Botines (León).](https://fotos.etheriamagazine.com/2018/09/leon-casa-botines-1024x683.jpg "Casa Botines (León).")
 
 ### Palacio de los Guzmanes y alrededores
 
@@ -61,7 +61,7 @@ luce llena de andamios, pero una vez terminadas las obras de restauración se po
 contemplar de nuevo la fachada principal y la portada de la Virgen del Dado, la única 
 que conserva parte de la policromía original. 
 
-![Interior de la Catedral de León.](etheria-images/2018/09/leon-interior-catedral-1024x683.jpg "Interior de la Catedral de León.")
+![Interior de la Catedral de León.](https://fotos.etheriamagazine.com/2018/09/leon-interior-catedral-1024x683.jpg "Interior de la Catedral de León.")
 
 En las inmediaciones del templo se encuentra el **Museo Sierra-Pambley**, una buena 
 forma de entender cómo vivía a mediados del siglo XIX una familia burguesa ilustrada. A 
@@ -91,7 +91,7 @@ internet el programa de Cuarto Milenio en el que grabaron psicofonías para aver
 el fantasma del obispo Rodrigo de Vergara vagaba por allí. Lo único cierto son los 
 restos de huesos visibles en algunas de las paredes de la planta baja. 
 
-![Mercado en la Plaza Mayor (Izq.) y Plaza de la Catedral (Dcha.)](etheria-images/2018/09/leon-Plaza-mercado-catedral-1024x771.jpg "Mercado en la Plaza Mayor (Izq.) y Plaza de la Catedral (Dcha.)")
+![Mercado en la Plaza Mayor (Izq.) y Plaza de la Catedral (Dcha.)](https://fotos.etheriamagazine.com/2018/09/leon-Plaza-mercado-catedral-1024x771.jpg "Mercado en la Plaza Mayor (Izq.) y Plaza de la Catedral (Dcha.)")
 
 ### Plaza de Santa María del Grano
 
@@ -102,7 +102,7 @@ casas porticadas, la iglesia románica, la cruz de piedra y la fuente barroca cu
 columna representa la ciudad abrazada por dos ángeles que simbolizan los dos ríos que la 
 atraviesan: Bernesga y Torio. 
 
-![Plaza de Santa María del Grano (León).](etheria-images/2018/09/leon-Plaza-del-Grano-peregrinos.jpg "Plaza de Santa María del Grano (León).")
+![Plaza de Santa María del Grano (León).](https://fotos.etheriamagazine.com/2018/09/leon-Plaza-del-Grano-peregrinos.jpg "Plaza de Santa María del Grano (León).")
 
 Aunque no es un clásico, acércate a la muralla medieval (no confundir con la romana). 
 Hay un tramo largo en la calle de las Cercas y en la Avenida de la Independencia. 
@@ -118,7 +118,7 @@ modernos como: **Becook**, **LAV**, **Delirios** y **Cocinandos** (con una estre
 Michelin y un menú de 45 euros). Y si tienes ganas de marcha, en el Húmedo encontrarás 
 locales de copas con música hasta que el cuerpo aguante. 
 
-![Real Colegiata y Basílica de San Isidoro (León).](etheria-images/2018/09/leon-san-isidoro-1024x1024.jpg "Real Colegiata y Basílica de San Isidoro (León).")
+![Real Colegiata y Basílica de San Isidoro (León).](https://fotos.etheriamagazine.com/2018/09/leon-san-isidoro-1024x1024.jpg "Real Colegiata y Basílica de San Isidoro (León).")
 
 ## Domingo: León romano y moderno
 
@@ -131,7 +131,7 @@ por el cáliz. Conocido desde siempre como el cáliz de doña Urraca, dos histor
 leoneses aseguraron hace cuatro años que era el Santo Grial. Recientemente otros 
 investigadores lo han desmentido. 
 
-![Centro de Interpretación del León Romano (León).](etheria-images/2018/09/leon-centro-de-interpretacion-del-leon-romano-1024x683.jpg "Centro de Interpretación del León Romano (León).")
+![Centro de Interpretación del León Romano (León).](https://fotos.etheriamagazine.com/2018/09/leon-centro-de-interpretacion-del-leon-romano-1024x683.jpg "Centro de Interpretación del León Romano (León).")
 
 Una de las propuestas más desconocidas para los turistas es la del **Centro de 
 Interpretación del León Romano**, ubicado en la Casona de Puerta Castillo. 
@@ -140,7 +140,7 @@ guiada gratuita de dos horas y media de duración que permite visitar la **cript
 arqueológica de Puerta Obispo** (restos de las termas y de la Porta Principalis) y las 
 criptas arqueológicas de la calle Cascalería (restos del anfiteatro). 
 
-![Cripta arqueológica de Puerta del Obispo (León).](etheria-images/2018/09/leon-Cripta-Arqueologica-de-Puerta-Obispo-1024x683.jpg "Cripta arqueológica de Puerta del Obispo (León).")
+![Cripta arqueológica de Puerta del Obispo (León).](https://fotos.etheriamagazine.com/2018/09/leon-Cripta-Arqueologica-de-Puerta-Obispo-1024x683.jpg "Cripta arqueológica de Puerta del Obispo (León).")
 
 Para completar la visión del León romano pasea a la vera de una de las murallas más 
 antiguas de España. Las muestras mejor conservadas van desde la calle Ramón y Cajal (a 
@@ -152,7 +152,7 @@ Salazar y Torres de Omaña son lugares de referencia y están plagados de bares
 tradicionales. Mis preferidos: El Ribera (con su tapa de patatas y los mejillones en 
 salsa), El Patio, El Correo y Camarote Madrid. 
 
-![Parador de San Marcos (León).](etheria-images/2018/09/leon-parador-san-marcos-1024x683.jpg "Parador de San Marcos (León).")
+![Parador de San Marcos (León).](https://fotos.etheriamagazine.com/2018/09/leon-parador-san-marcos-1024x683.jpg "Parador de San Marcos (León).")
 
 Dedica el resto de la tarde a ver el **Parador de San Marcos**, uno de lo monumentos más 
 importantes del renacimiento. Nació como Casa de la Orden de Santiago en el siglo XVI, 
@@ -164,7 +164,7 @@ ilustrados](https://etheriamagazine.com/2020/12/22/parador-de-leon-hotel-romanti
 Después acércate a ver el **MUSAC**, cuya llamativa fachada hace referencia a las 
 vidrieras de la Catedral. 
 
-![MUSAC e interior del Presbiterio de la Catedral (León).](etheria-images/2018/09/leon-musac-catedral-1024x793.jpg "MUSAC e interior del Presbiterio de la Catedral (León).")
+![MUSAC e interior del Presbiterio de la Catedral (León).](https://fotos.etheriamagazine.com/2018/09/leon-musac-catedral-1024x793.jpg "MUSAC e interior del Presbiterio de la Catedral (León).")
 
 Seguro que a estas alturas del viaje ya te has convertido en una admiradora de mi ciudad 
 natal. Si no lo has hecho, te propongo **un final apoteósico al atardecer**. Regresa 

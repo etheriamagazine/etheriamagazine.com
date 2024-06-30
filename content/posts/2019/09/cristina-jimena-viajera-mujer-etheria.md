@@ -1,7 +1,7 @@
 ---
 title: "Cristina Jimena: \"En turismo puedo dar lo mejor de mí misma\""
 date: 2019-09-02
-coverImage: etheria-images/2019/09/cristina-jimena-Costa-Rica.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/09/cristina-jimena-Costa-Rica.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -15,7 +15,7 @@ es una perfecta embajadora y representante de la región de Baden-Wurtemberg (Al
 donde reside desde hace más de 20 años. Por su trayectoria y pasión por el oficio es una 
 de nuestras Mujeres Etheria. 
 
-![cristina jimena, viaje alemania](etheria-images/2019/08/2-cristina-jimena-heidelberg.jpg "Cristina J. en Heidelberg (Alemania).")
+![cristina jimena, viaje alemania](https://fotos.etheriamagazine.com/2019/08/2-cristina-jimena-heidelberg.jpg "Cristina J. en Heidelberg (Alemania).")
 
 La trayectoria de Cristina Jimena se podría describir de una forma fría y aséptica, pero 
 no se correspondería con la persona que hay detrás del desempeño de su profesión. Esta 
@@ -30,7 +30,7 @@ Bureau de **Friburgo**.
 > “Decidí dedicarme al turismo porque sabía que era el mundo en el que yo, con mi carácter 
 > abierto y comunicativo, podría dar lo mejor de mí misma y sería más feliz”. 
 
-![cristina jimena, viaje costa rica](etheria-images/2019/09/cristina-jimena-Costa-Rica.jpg "Viaje a Costa Rica.")
+![cristina jimena, viaje costa rica](https://fotos.etheriamagazine.com/2019/09/cristina-jimena-Costa-Rica.jpg "Viaje a Costa Rica.")
 
 Cristina se define como una mujer “vital, entusiasta, alegre y positiva, con muchas 
 ganas de disfrutar de la vida, de ser feliz y de hacer felices a quienes me rodean”. Y 
@@ -51,7 +51,7 @@ en realidad, es esa fuente y que si cierro los ojos sigue siendo enorme y maravi
 Vivir momentos especiales que llenen mi alma de felicidad y mi memoria de recuerdos 
 inolvidables, conocer otras culturas que abran mi mente, aprender, sentir, disfrutar... 
 
-![cristina jimena, mujer etheria, viajes para mujeres](etheria-images/2019/08/cristina-jimena-flores.jpg "En Stuttgart.")
+![cristina jimena, mujer etheria, viajes para mujeres](https://fotos.etheriamagazine.com/2019/08/cristina-jimena-flores.jpg "En Stuttgart.")
 
 **3\. ¿Qué consideras que te han aportado los viajes? ¿Por qué los aconsejarías?** 
 
@@ -81,7 +81,7 @@ Donde nos gustaba, nos quedábamos el tiempo que nos apetecía. Nos alojábamos 
 allí llaman “cabañas” (pequeños hoteles o apartamentos), y nunca tuvimos problemas para 
 encontrar habitación. Fue una experiencia maravillosa. ¡Pura vida! 
 
-![cristina jimena, mujer etheria, viajes para mujeres](etheria-images/2019/08/cristina-jimena-viajes.jpg "Viaje a Tailandia.")
+![cristina jimena, mujer etheria, viajes para mujeres](https://fotos.etheriamagazine.com/2019/08/cristina-jimena-viajes.jpg "Viaje a Tailandia.")
 
 **6\. ¿Cómo te entretienes en las esperas de los aeropuertos?** 
 
@@ -109,7 +109,7 @@ Mi último viaje fue a **Sri Lanka.** Lo que más me gustó fueron los paisajes,
 plantaciones de té, la infinita playa solitaria de Bentota, la comida... Y lo que menos 
 me gustó, el turismo de masas en los templos. 
 
-![sri lanka, viajes, cristina jimena](etheria-images/2019/09/cristina-jimena-Sri-Lanka.jpg "Viaje a Sri Lanka.")
+![sri lanka, viajes, cristina jimena](https://fotos.etheriamagazine.com/2019/09/cristina-jimena-Sri-Lanka.jpg "Viaje a Sri Lanka.")
 
 **9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera?** 
 
@@ -149,7 +149,7 @@ no son lo más divertido de los viajes. Pero jamás renunciaría a un viaje por 
 Intento llevarlo lo mejor posible, pensando durante la espera en la gran recompensa que 
 será la estancia en el destino elegido. 
 
-![cristina jimena, mujer etheria, viajes para mujeres](etheria-images/2019/08/1-Cristina-Jimena-Alemania.jpg "Junto al castillo Hohenzollern (Alemania).")
+![cristina jimena, mujer etheria, viajes para mujeres](https://fotos.etheriamagazine.com/2019/08/1-Cristina-Jimena-Alemania.jpg "Junto al castillo Hohenzollern (Alemania).")
 
 **13\. ¿Qué hotel te ha impresionado más y por qué?** 
 
@@ -163,7 +163,7 @@ la naturaleza, con piscinas naturales con cascadas y 100% ecológico.
 documentación. Y como hoy en día mi móvil es mi cámara de fotos, y me encanta hacer 
 fotos, tampoco puede faltar el móvil. 
 
-![cristina jimena, mujer etheria, viajes para mujeres](etheria-images/2019/08/cristina-jimena-nieve.jpg "Esquiando en el Monte Feldberg (Selva Negra)")
+![cristina jimena, mujer etheria, viajes para mujeres](https://fotos.etheriamagazine.com/2019/08/cristina-jimena-nieve.jpg "Esquiando en el Monte Feldberg (Selva Negra)")
 
 **15\. ¿Escribes un listado antes de hacer la maleta? ¿Cuáles son tus cinco 
 imprescindibles?** 

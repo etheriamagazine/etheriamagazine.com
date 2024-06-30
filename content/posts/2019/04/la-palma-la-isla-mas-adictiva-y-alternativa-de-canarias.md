@@ -1,7 +1,7 @@
 ---
 title: "Por qué no olvidarás jamás La Palma, la isla más adictiva y alternativa de Canarias"
 date: 2019-04-02
-coverImage: etheria-images/2019/03/viajar-sola-la-palma-mirador.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador.jpg
 categories: 
   - viajes-48-horas
   - viajes-ecoturismo
@@ -16,7 +16,7 @@ comprenden quienes han pisado sus volcanes y contemplado sus estrellas. Nos sobr
 razones para augurar que la Isla Bonita se convertirá en el destino de tu próxima 
 aventura con amigas. 
 
-![mujer en el Mirador de los Andenes.](etheria-images/2019/03/viajar-sola-la-palma-mirador.jpg "Mirador de los Andenes. © KR")
+![mujer en el Mirador de los Andenes.](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador.jpg "Mirador de los Andenes. © KR")
 
 Deberíamos advertir con un “¡Cuidado, spoiler!”, entramos en un territorio como La 
 Palma, capaz de concentrar en sus 47 kilómetros de largo y 29 de ancho, todas las 
@@ -37,7 +37,7 @@ Sus coloridas calles y sus **floridos balcones** denotan la personalidad del pue
 palmero; valiente por su herencia indígena, alegre por el sol del trópico y relajado por 
 su eterna primavera. 
 
-![Balcones históricos del paseo marítimo de Santa Cruz de La Palma](etheria-images/2019/03/viajar-sola-la-palma-balcones.jpg "Balcones históricos del paseo marítimo de Santa Cruz de La Palma. © KR")
+![Balcones históricos del paseo marítimo de Santa Cruz de La Palma](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-balcones.jpg "Balcones históricos del paseo marítimo de Santa Cruz de La Palma. © KR")
 
 Integrarse del todo en la idiosincrasia de la capital implica tomarse un Barraquito —un 
 cóctel de café muy preciado en Canarias— en el **Café Don Manue**l, dirigido por el 
@@ -52,7 +52,7 @@ Indianos se transforma en la Plaza de La Habana. Recuerda esta celebración, por
 una de las más divertidas de nuestro país y todavía es una gran desconocida para el gran 
 público peninsular. 
 
-![carnaval de Los Indianos en la isla de la Palma](etheria-images/2019/03/viajar-sola-la-palma-fiesta-indianos.jpg "Durante el día de Los Indianos se lanzan polvos de talco por toda la ciudad. © KR")
+![carnaval de Los Indianos en la isla de la Palma](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-fiesta-indianos.jpg "Durante el día de Los Indianos se lanzan polvos de talco por toda la ciudad. © KR")
 
 > Ya habíamos desvelado 'diez secretos para conocer La Palma' y ahora te proponemos estos 
 > planes ligados a su extraordinaria naturaleza, declarada Reserva Mundial de la Biosfera. 
@@ -68,7 +68,7 @@ inhóspitos. El sendero que parte del Centro de Visitantes serpentea por la boca
 metros de diámetro y ofrece una gran perspectiva del **Parque Natural de Cumbre Vieja**, 
 testigo de las últimas coladas volcánicas de España. 
 
-![Mirador del tubo volcánico Cueva de las Palomas](etheria-images/2019/03/viajar-sola-la-palma-tubo-volcanico.jpg "Más de mil kilómetros de senderos señalizados se dispersan por toda La Palma. Mirador del tubo volcánico Cueva de las Palomas. © KR")
+![Mirador del tubo volcánico Cueva de las Palomas](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-tubo-volcanico.jpg "Más de mil kilómetros de senderos señalizados se dispersan por toda La Palma. Mirador del tubo volcánico Cueva de las Palomas. © KR")
 
 El magma del Teneguía creó en 1971 la **playa de Echentive**, donde ya se producían 
 peregrinaciones hacia el manantial de Fuente Santa antes de este episodio volcánico. 
@@ -83,7 +83,7 @@ temático. La familia que lo dirige respeta tan rigurosamente la pulcritud del c
 —protegida por ley desde 1988—, que al anochecer cierra sus puertas para que las 
 estrellas sean las únicas protagonistas. 
 
-![salinas de fuencaliente en la palma](etheria-images/2019/03/viajar-sola-la-palma-salinas-fuencaliente.jpg "Imagina un atardecer en las Salinas de Fuencaliente con tus amigas mientras tomas una Isla Verde, una cerveza artesana de La Palma. © KR")
+![salinas de fuencaliente en la palma](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-salinas-fuencaliente.jpg "Imagina un atardecer en las Salinas de Fuencaliente con tus amigas mientras tomas una Isla Verde, una cerveza artesana de La Palma. © KR")
 
 ## Frikis del cielo
 
@@ -98,7 +98,7 @@ Un total de dieciséis **miradores astronómicos** se ubican en puntos estratég
 toda la isla y ayudan a comprender qué planetas y constelaciones se contemplan desde 
 esta parte del mundo. El Mirador del Jable es uno de ellos. 
 
-![Gran Telescopio Canarias](etheria-images/2019/03/viajar-sola-la-palma-mirador-telescopio-canarias.jpg "Gran Telescopio Canarias. © Toño González")
+![Gran Telescopio Canarias](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador-telescopio-canarias.jpg "Gran Telescopio Canarias. © Toño González")
 
 ## El pino canario, un superviviente
 
@@ -112,7 +112,7 @@ acuden al reclamo de alimento.
 > El interior del parque nacional alberga la ferruginosa y paradisíaca cascada de Colores 
 > a la que sólo es posible acceder a pie. 
 
-![hombre en el Parque Nacional de la Caldera de Taburiente](etheria-images/2019/03/viajar-sola-la-palma-taburiente.jpg "Ruta por el Parque Nacional de la Caldera de Taburiente. © KR")
+![hombre en el Parque Nacional de la Caldera de Taburiente](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-taburiente.jpg "Ruta por el Parque Nacional de la Caldera de Taburiente. © KR")
 
 ## El pueblo con más sol de Europa
 
@@ -125,7 +125,7 @@ la panorámica del **Mirador del Time**.
 Junto al coqueto casco histórico de Los Llanos, el chef Pedro Hernández rinde homenaje a 
 la cocina insular en su gastrobar **El Duende del Fuego**. 
 
-![El risotto de tuno indio del gastrobar El Duende del Fuego](etheria-images/2019/03/viajar-sola-la-palma-comer-risoto.jpg "El risotto de tuno indio –una variedad de higo chumbo de Canarias– del gastrobar El Duende del Fuego. © KR")
+![El risotto de tuno indio del gastrobar El Duende del Fuego](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-comer-risoto.jpg "El risotto de tuno indio –una variedad de higo chumbo de Canarias– del gastrobar El Duende del Fuego. © KR")
 
 ## Jungla canaria
 
@@ -138,7 +138,7 @@ protagonista una **cascada salvaje**.
 > Una interesante ruta de ocho kilómetros atraviesa trece túneles resbaladizos y varios 
 > diques volcánicos hasta llegar a los nacientes de Marcos y Cordero. 
 
-![mujer en la cascada salvaje en el Bosque de los Tilos.](etheria-images/2019/03/viajar-sola-la-palma-bosque-humedo.jpg "Cascada salvaje en el Bosque de los Tilos. © KR")
+![mujer en la cascada salvaje en el Bosque de los Tilos.](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-bosque-humedo.jpg "Cascada salvaje en el Bosque de los Tilos. © KR")
 
 En el paseo por la coqueta arquitectura de San Andrés –Declarada Conjunto Monumental 
 Artístico– se cruza la pequeña destilería de [Ron 
@@ -158,7 +158,7 @@ escaldón con aguacate y queso –gofio escaldado–, hasta los tradicionales po
 trigo blanco. Sus **albillos blancos** conservados en barricas de tea reciben especiales 
 reconocimientos. 
 
-![bodegeras de La Palma](etheria-images/2019/03/viajar-sola-la-palma-bodegueras-eufrosina-victoria.jpg "Las bodegueras de La Palma Eufrosina Pérez (Izq.) y Victoria Torres Pecis (Dcha.).")
+![bodegeras de La Palma](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-bodegueras-eufrosina-victoria.jpg "Las bodegueras de La Palma Eufrosina Pérez (Izq.) y Victoria Torres Pecis (Dcha.).")
 
 Al sur de La Palma, Victoria Torres Pecis capitanea la quinta generación de la **bodega 
 Juan Matías i Torres**, un legado familiar que hoy exporta sus vinos a todo el mundo. El 
@@ -189,7 +189,7 @@ isla. En el centro histórico de Santa Cruz, **El Hotelito** y **Hotel Holiday**
 estructura respeta la arquitectura tradicional insular, son dos buenas opciones para 
 sacarle el máximo partido a la capital. 
 
-![Caldera de Taburiente.](etheria-images/2019/04/La-palma-caldera-taburiente.jpg "Caldera de Taburiente.")
+![Caldera de Taburiente.](https://fotos.etheriamagazine.com/2019/04/La-palma-caldera-taburiente.jpg "Caldera de Taburiente.")
 
 ### Más información
 

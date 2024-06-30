@@ -1,7 +1,7 @@
 ---
 title: "Visita rápida al Museo Thyssen-Bornemisza: 15 obras fundamentales"
 date: 2022-10-14
-coverImage: etheria-images/2022/10/thyssen-habitacion-hotel.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/10/thyssen-habitacion-hotel.jpg
 categories: 
   - exposiciones
 authors: 
@@ -13,7 +13,7 @@ increíbles del mundo. Como no siempre se tiene el tiempo que se desea para visi
 museo, te proponemos una visita rápida deteniéndote en 15 de sus obras más importantes, 
 todas fundamentales para la Historia del Arte. 
 
-![entrada al Museo Thyssen de Madrid](etheria-images/2022/10/fachada-museo-thyssen.jpg "Fachada del Museo Thyssen-Bornemisza. © Pablo Casares")
+![entrada al Museo Thyssen de Madrid](https://fotos.etheriamagazine.com/2022/10/fachada-museo-thyssen.jpg "Fachada del Museo Thyssen-Bornemisza. © Pablo Casares")
 
 En ocasiones no tenemos todo el tiempo que nos gustaría cuando visitamos un museo. Si es 
 en una ciudad en la que estamos de viaje, normalmente tenemos que cuadrarla entre otras 
@@ -28,7 +28,7 @@ dedicadas a las interesantes exposiciones temporales que organiza el museo, sobr
 que merece la pena informarse antes de la visita ya que suelen ser una buena opción para 
 un recorrido corto. 
 
-![Sala del Museo Thyssen en Madrid](etheria-images/2022/10/museo-thyssen-sala32.jpg "Sala 32 del Museo Thyssen-Bornemisza, dedicada a los Expresionismos del siglo XX. © Hélène Desplechin")
+![Sala del Museo Thyssen en Madrid](https://fotos.etheriamagazine.com/2022/10/museo-thyssen-sala32.jpg "Sala 32 del Museo Thyssen-Bornemisza, dedicada a los Expresionismos del siglo XX. © Hélène Desplechin")
 
 Aquí proponemos una visita rápida al Museo Thyssen-Bornemisza que puedes realizar en 
 **una hora o hora y media**, aunque el tiempo que pases contemplando estas obras de arte 
@@ -50,7 +50,7 @@ de la pintura del _Trecento_ italiano: se tiende a un mayor naturalismo en las f
 la arquitectura forma parte fundamental de la obra (en este caso la de la ciudad de 
 Samaria) y hay un evidente carácter narrativo, propio de estas obras religiosas. 
 
-!['Cristo y la samaritana' de Duccio di Buoninsegna](etheria-images/2022/10/thyssen-cristo-samaritana-2.jpg "'Cristo y la samaritana' de Duccio di Buoninsegna.")
+!['Cristo y la samaritana' de Duccio di Buoninsegna](https://fotos.etheriamagazine.com/2022/10/thyssen-cristo-samaritana-2.jpg "'Cristo y la samaritana' de Duccio di Buoninsegna.")
 
 ? Toma nota: En 1771 el altar del que forma parte esta obra se desmembró. Algunas de sus 
 piezas pasaron a colecciones privadas como ésta que paso por varias manos antes de 
@@ -66,7 +66,7 @@ sociedad, en el que se combinan rasgos de la persona con elementos del retrato c
 que tanto gustaban a los artistas del Renacimiento, dando lugar a un retrato inexpresivo 
 de rasgos idealizados. 
 
-!['Retrato de Giovanna degli Albizzi' de Domenico Ghirladaio](etheria-images/2022/10/thyssen-retrato-giovanna-tornabuoni.jpg "'Retrato de Giovanna degli Albizzi' de Domenico Ghirladaio.")
+!['Retrato de Giovanna degli Albizzi' de Domenico Ghirladaio](https://fotos.etheriamagazine.com/2022/10/thyssen-retrato-giovanna-tornabuoni.jpg "'Retrato de Giovanna degli Albizzi' de Domenico Ghirladaio.")
 
 ? Toma nota: No te quedes solo en la contemplación del perfil de Giovanna degli Albizzi. 
 Presta atención a la hornacina situada detrás, con objetos personales como un broche y 
@@ -82,7 +82,7 @@ tiene constancia. Es una obra excepcional, en la que merece la pena detenerse a 
 los detalles tanto de la flora y fauna del paisaje como de los de los edificios que 
 aparecen representados. 
 
-!['Joven caballero en un paisaje' de Vittore Carpaccio](etheria-images/2022/10/thyssen-Vittore_Joven-caballero-en-un-paisaje_82-1935.3-2.jpg "'Joven caballero en un paisaje' de Vittore Carpaccio.")
+!['Joven caballero en un paisaje' de Vittore Carpaccio](https://fotos.etheriamagazine.com/2022/10/thyssen-Vittore_Joven-caballero-en-un-paisaje_82-1935.3-2.jpg "'Joven caballero en un paisaje' de Vittore Carpaccio.")
 
 ? Toma nota: Sobre la obra hay varias controversias. La primera fue la de del autor, ya 
 que fue erróneamente atribuida a Durero hasta 1919, y la segunda sobre la persona 
@@ -99,7 +99,7 @@ cuchillos, la espada y la palma, que aluden a su martirio). Esta pieza de finale
 XVI posee todo aquello que nos seduce de la obra de Caravaggio: el tratamiento dramático 
 de la luz y los volúmenes que dan lugar a los característicos claroscuros del pintor. 
 
-!['Santa Catalina de Alejandría' de Caravaggio](etheria-images/2022/10/thyssen-Santa-Catalina-de-Alejandría_81-1934.37_FOTOH_DespuesRest_0.jpg "'Santa Catalina de Alejandría' de Caravaggio.")
+!['Santa Catalina de Alejandría' de Caravaggio](https://fotos.etheriamagazine.com/2022/10/thyssen-Santa-Catalina-de-Alejandría_81-1934.37_FOTOH_DespuesRest_0.jpg "'Santa Catalina de Alejandría' de Caravaggio.")
 
 ? Toma nota: Como curiosidad, en este lienzo el foco de luz se encuentra a la derecha, 
 algo poco frecuente en el autor. Esto parece indicar que se creó teniendo en cuenta el 
@@ -117,7 +117,7 @@ Estas obras descriptivas de la ciudad fueron muy demandadas por los jóvenes nob
 europeos que realizaban en el siglo XVIII su Grand Tour por Europa como complemento a su 
 formación. 
 
-!['El Gran Canal desde San Vío', Venecia de Canaletto](etheria-images/2022/10/thyssen-gran-canal-desde-san-vio-venecia.jpg "'El Gran Canal desde San Vío', Venecia de Canaletto.")
+!['El Gran Canal desde San Vío', Venecia de Canaletto](https://fotos.etheriamagazine.com/2022/10/thyssen-gran-canal-desde-san-vio-venecia.jpg "'El Gran Canal desde San Vío', Venecia de Canaletto.")
 
 ?Toma nota: Es un cuadro lleno de detalles y merece la pena fijarse en algunos como la 
 mujer tendiendo la ropa en primer plano o en el deshollinador. 
@@ -129,7 +129,7 @@ genial Peter Paul Rubens, el pintor flamenco más importante y con el que el bar
 alcanzó sus mayores cotas. En cualquier caso, la obra muestra la maestría del artista en 
 su dominio del color y en su característico refinamiento. 
 
-!['Venus y Cupido' de Peter Paul Rubens](etheria-images/2022/10/thyssen-venus-cupido.jpg "'Venus y Cupido' de Peter Paul Rubens.")
+!['Venus y Cupido' de Peter Paul Rubens](https://fotos.etheriamagazine.com/2022/10/thyssen-venus-cupido.jpg "'Venus y Cupido' de Peter Paul Rubens.")
 
 ? Toma nota: Esta obra es una de las copias que el artista realizó de Tiziano. Hay que 
 prestar atención a dos detalles singulares: el brazalete de perlas y el anillo en el 
@@ -145,7 +145,7 @@ Tour por Europa mientras él vivía y pintaba en Roma. Muchos de sus cuadros est
 inspirados en las costas italianas y en éste destaca la composición romántica de la 
 escena y la utilización de la luz y el color. 
 
-![‘Mar en calma’ de Claude-Joseph Vernet](etheria-images/2022/10/thyssen-mar-calma.jpg "‘Mar en calma’ de Claude-Joseph Vernet.")
+![‘Mar en calma’ de Claude-Joseph Vernet](https://fotos.etheriamagazine.com/2022/10/thyssen-mar-calma.jpg "‘Mar en calma’ de Claude-Joseph Vernet.")
 
 ? Toma nota: Vernet pintaba en ocasiones cuadros en parejas, representando el mismo mar 
 con tormenta y en calma, y éste pertenece a una de estas parejas. El otro cuadro, que 
@@ -159,7 +159,7 @@ de tonos oscuros queda roto por la iluminación de la parte derecha de la cara y
 cadenas. Es un magnífico ejemplo del dominio del claroscuro del autor y de su capacidad 
 para transmitir sentimientos a través de expresiones sencillas. 
 
-!['Autorretrato con gorra y dos cadenas' de Rembrandt](etheria-images/2022/10/thyssen-autorretrato-gorra-dos-cadenas.jpg "'Autorretrato con gorra y dos cadenas' de Rembrandt.")
+!['Autorretrato con gorra y dos cadenas' de Rembrandt](https://fotos.etheriamagazine.com/2022/10/thyssen-autorretrato-gorra-dos-cadenas.jpg "'Autorretrato con gorra y dos cadenas' de Rembrandt.")
 
 ? Toma nota: Durante muchos años se dudó de la autoría de Rembrandt de esta tabla y 
 algunos autores determinaron que pertenecía a alguno de sus discípulos. Tras varios 
@@ -176,7 +176,7 @@ de movimiento de la obra. Detrás, varias bailarinas vestidas de naranja esperan
 turno. Es un instante fugaz de la realidad representada, el momento de una actuación en 
 el que no se ve al público. 
 
-!['Bailarina basculando (Bailarina verde)' de Edgar Degas](etheria-images/2022/10/thyssen-bailarina-basculando-bailarina-verde-573x1024.jpg "'Bailarina basculando (Bailarina verde)' de Edgar Degas.")
+!['Bailarina basculando (Bailarina verde)' de Edgar Degas](https://fotos.etheriamagazine.com/2022/10/thyssen-bailarina-basculando-bailarina-verde-573x1024.jpg "'Bailarina basculando (Bailarina verde)' de Edgar Degas.")
 
 ? Toma nota: para captar un momento concreto, Degas pintaba con sus habituales trazos 
 rápidos que son posibles gracias a la técnica de la pintura pastel. 
@@ -190,7 +190,7 @@ verdes para representar el paisaje de Les Vessenots, en las afueras de Auvers, c
 pincelada nerviosa con la que forma trazos repetitivos. Unos campos que le transmitían a 
 la vez sensación de libertad y de soledad y melancolía. 
 
-!['Les Vessenots en Auvers' de Vicent van Gogh](etheria-images/2022/10/thyssen-Vincent-van-gogh-Les-Vessenots-en-Auvers_559-1978.41_0.jpg "'Les Vessenots en Auvers' de Vicent van Gogh.")
+!['Les Vessenots en Auvers' de Vicent van Gogh](https://fotos.etheriamagazine.com/2022/10/thyssen-Vincent-van-gogh-Les-Vessenots-en-Auvers_559-1978.41_0.jpg "'Les Vessenots en Auvers' de Vicent van Gogh.")
 
 ? Toma nota: en sus últimos meses de vida Vicent van Gogh se instaló en Auvers-sur-Oise, 
 lugar elegido también por otros artistas contemporáneos. Aquí se dedicó a pintar sin 
@@ -206,7 +206,7 @@ composición, y utiliza la técnica puntillista que tanto le gustaba. El fauvism
 movimiento artístico de principios del siglo XX que bebía directamente de la influencia 
 de impresionistas y postimpresionista, aportando un toque provocador. 
 
-!['El puente de Waterloo' de André Derain](etheria-images/2022/10/thyssen-puente-waterloo.jpg "'El puente de Waterloo' de André Derain.")
+!['El puente de Waterloo' de André Derain](https://fotos.etheriamagazine.com/2022/10/thyssen-puente-waterloo.jpg "'El puente de Waterloo' de André Derain.")
 
 ? Toma nota: El pintor elige tonalidades frías para representar el clima londinenses. El 
 cuadro es una auténtica explosión de color, que sirve no tanto para plasmar la luz, sino 
@@ -221,7 +221,7 @@ y es símbolo de la armonía entre el mundo animal y el humano. Franz Marc asoci
 colores del cuadro significados simbólicos: el azul representa lo masculino e 
 intelectual y el amarillo lo femenino y sensual. 
 
-!['El sueño' de Franz Marc](etheria-images/2022/10/thyssen-sueno.jpg "'El sueño' de Franz Marc.")
+!['El sueño' de Franz Marc](https://fotos.etheriamagazine.com/2022/10/thyssen-sueno.jpg "'El sueño' de Franz Marc.")
 
 ? Toma nota: Franz Marc comenzó formando parte del grupo 'Der Blaue Reiter' junto con 
 Kandinsky pero, a diferencia de él, no rompió con la realidad visual. En su obra se 
@@ -237,7 +237,7 @@ paranoico-crítico’. El cuadro está lleno de símbolos, como la abeja que rep
 Virgen y la granada, símbolo de fertilidad. También aparece un elefante de largas patas 
 que se puede ver en otras obras del artista. 
 
-!['Sueño causado por el vuelo de una abeja alrededor de una granada un segundo antes de despertar' de Salvador Dalí](etheria-images/2022/10/thyssen-sueno-causado-vuelo-abeja-alrededor-granada-segundo-antes-despertar.jpg "'Sueño causado por el vuelo de una abeja alrededor de una granada un segundo antes de despertar' de Salvador Dalí.")
+!['Sueño causado por el vuelo de una abeja alrededor de una granada un segundo antes de despertar' de Salvador Dalí](https://fotos.etheriamagazine.com/2022/10/thyssen-sueno-causado-vuelo-abeja-alrededor-granada-segundo-antes-despertar.jpg "'Sueño causado por el vuelo de una abeja alrededor de una granada un segundo antes de despertar' de Salvador Dalí.")
 
 ? Toma nota: esta obra es una de las pocas que pintó Dalí en Estados Unidos, donde vivió 
 de 1941 a 1948. En este período se dedicó más a otras actividades relacionadas con el 
@@ -254,7 +254,7 @@ habitación de hotel de aspecto despersonalizado. A nivel compositivo, en el cua
 destaca la diagonal establecida por el borde de la cama y la iluminación artificial que 
 provoca un fuerte contraste de luces y sombras. 
 
-!['Habitación de hotel' de Edward Hopper](etheria-images/2022/10/thyssen-habitacion-hotel.jpg "'Habitación de hotel' de Edward Hopper. ©Herederos de Josephine Hopper /Cortesía de ARS (Artist Rights Society), VEGAP, Madrid")
+!['Habitación de hotel' de Edward Hopper](https://fotos.etheriamagazine.com/2022/10/thyssen-habitacion-hotel.jpg "'Habitación de hotel' de Edward Hopper. ©Herederos de Josephine Hopper /Cortesía de ARS (Artist Rights Society), VEGAP, Madrid")
 
 ? Toma nota: tanto el encuadre de la figura, que aparece con los pies cortados, como la 
 perspectiva ascendente llevan a ver una cierta influencia de algunos cuadros de Degas. 
@@ -268,7 +268,7 @@ imagen de esta mujer, que parece de cómic, está elaborada en colores primarios
 técnica de puntos benday. Destacan las gruesas líneas que delimitan los perfiles de la 
 joven, que contrastan con las fría cuadrícula de los azulejos del baño. 
 
-!['Mujer en el baño' de Roy Lichtenstein](etheria-images/2022/10/thyssen-mujer-bano.jpg "'Mujer en el baño' de Roy Lichtenstein.")
+!['Mujer en el baño' de Roy Lichtenstein](https://fotos.etheriamagazine.com/2022/10/thyssen-mujer-bano.jpg "'Mujer en el baño' de Roy Lichtenstein.")
 
 ? Toma nota: la técnica de los puntos benday que utiliza Lichtenstein es con la que se 
 imprimían los cómics del momento (él la realizaba a mano) y la utiliza como una forma de 

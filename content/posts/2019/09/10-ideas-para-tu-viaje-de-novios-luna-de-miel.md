@@ -1,7 +1,7 @@
 ---
 title: "10 ideas para tu viaje de novios"
 date: 2019-09-18
-coverImage: etheria-images/2019/09/luna-de-miel.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/09/luna-de-miel.jpg
 categories: 
   - viajes-romanticos
   - de-un-vistazo
@@ -16,7 +16,7 @@ destino del viaje de novios. En este artículo te damos diez ideas para que encu
 viaje de luna de miel, tanto si te gusta la naturaleza como si eres urbanita o prefieres 
 optar por lugares paradisiacos. ¿Con cuál te quedas? 
 
-![viajes de novios, lunas de miel, grandes viajes](etheria-images/2019/09/viajes-de-novios-900x599.jpg "¿Has elegido ya el destino de tu luna de miel? © Tatiana Gonzales")
+![viajes de novios, lunas de miel, grandes viajes](https://fotos.etheriamagazine.com/2019/09/viajes-de-novios-900x599.jpg "¿Has elegido ya el destino de tu luna de miel? © Tatiana Gonzales")
 
 ```
 Actualizado 3/2023
@@ -32,7 +32,7 @@ seleccionado diez de las que más triunfan entre las parejas de novios.
 
 ## 1\. Luna de miel en Tailandia
 
-![Mar de Andaman, viaje de novios, luna de miel](etheria-images/2018/05/7-Playa-desierta-mar-Andaman-1024x683.jpg "Playa desierta en el mar de Andaman. © SG")
+![Mar de Andaman, viaje de novios, luna de miel](https://fotos.etheriamagazine.com/2018/05/7-Playa-desierta-mar-Andaman-1024x683.jpg "Playa desierta en el mar de Andaman. © SG")
 
 Es uno de los destinos estrella para las lunas de miel. Combina cultura, playas y ese 
 punto exótico (pero cómodo) que hace a este destino tan atractivo. Lo ideal es realizar 
@@ -50,7 +50,7 @@ ideal para lunas de miel.
 
 ## 2\. Costa Rica para enamorados
 
-![](etheria-images/2018/05/Costa-Rica-Monteverde-hotel-El-Establo-1024x682.jpg "Vistas desde el hotel El Establo, en Monteverde. © SG")
+![](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Monteverde-hotel-El-Establo-1024x682.jpg "Vistas desde el hotel El Establo, en Monteverde. © SG")
 
 Los amantes de la naturaleza encontrarán en este país centroamericano su destino 
 perfecto. En un viaje de novios a [Costa Rica](https://www.visitcostarica.com/es) 
@@ -63,7 +63,7 @@ o Cahuita, una zona perfecta si sois amantes del surf.
 
 ## 3\. Costa Oeste de los Estados Unidos
 
-![](etheria-images/2019/09/viajes-novios-yosemite-900x733.jpg "Parque Nacional de Yosemite. © Hari Nandakumar")
+![](https://fotos.etheriamagazine.com/2019/09/viajes-novios-yosemite-900x733.jpg "Parque Nacional de Yosemite. © Hari Nandakumar")
 
 Un viaje para novios independientes, que disfrutan conduciendo por parajes perdidos sin 
 horarios ni reglas. En la [Costa Oeste de los Estados 
@@ -77,7 +77,7 @@ sus paisajes de película.
 
 ## 4\. Viaje de novios a Japón y Maldivas
 
-![viajes a Japon, viajes a Asia, cuando viajar a Japón](etheria-images/2019/06/Preparar-viaje-Japon-primavera.jpg "Camino del Filósofo en Kioto. © SG")
+![viajes a Japon, viajes a Asia, cuando viajar a Japón](https://fotos.etheriamagazine.com/2019/06/Preparar-viaje-Japon-primavera.jpg "Camino del Filósofo en Kioto. © SG")
 
 Aunque la distancia entre estos dos países asiáticos es de más de 7.500 kilómetros las 
 rutas aéreas han hecho que sea una de las combinaciones preferidas de los novios que 
@@ -93,7 +93,7 @@ miel](https://etheriamagazine.com/2021/03/23/guia-que-hacer-en-maldivas-buceo-su
 
 ## 5\. Safari en África y una isla del océano Índico
 
-![Elefante africano, Parque Nacional de Amboseli, Kenia, Africa](etheria-images/2018/10/elefantes-amboseli-viaje-mujeres-kenia-1024x498.jpg "Elefante en el Parque Nacional Amboseli (Kenia).")
+![Elefante africano, Parque Nacional de Amboseli, Kenia, Africa](https://fotos.etheriamagazine.com/2018/10/elefantes-amboseli-viaje-mujeres-kenia-1024x498.jpg "Elefante en el Parque Nacional Amboseli (Kenia).")
 
 El sueño de un safari en África puede cumplirse en una luna de miel. Podrás elegir entre 
 los destinos más habituales, como [Kenia](https://etheriamagazine.com/2018/10/25/10-flechazos-para-viajar-a-kenia/) 
@@ -110,7 +110,7 @@ allí) es digno de una luna de miel súper especial.
 
 ## 6\. Vietnam, un destino romántico
 
-![viajes de novios, lunas de miel, grandes viajes](etheria-images/2019/09/viajes-novios-vietnam-900x494.jpg "Paisaje de arrozales del norte de Vietnam. © Peter Hammer")
+![viajes de novios, lunas de miel, grandes viajes](https://fotos.etheriamagazine.com/2019/09/viajes-novios-vietnam-900x494.jpg "Paisaje de arrozales del norte de Vietnam. © Peter Hammer")
 
 Es el viaje para aquellas parejas que quieran descubrir una cultura diferente, que en 
 Vietnam sorprende nada más llegar al país. Los colores, los aromas, la gente... Todo 
@@ -123,7 +123,7 @@ que realice visitas en Vietnam y Camboya.
 
 ## 7\. Un clásico: Nueva York y Riviera Maya
 
-![Nueva York con niños](etheria-images/2018/05/2-Nueva-York-Central-Park-1024x680.jpg "Lago de Central Park, en Nueva York. © SG")
+![Nueva York con niños](https://fotos.etheriamagazine.com/2018/05/2-Nueva-York-Central-Park-1024x680.jpg "Lago de Central Park, en Nueva York. © SG")
 
 Es para muchos la combinación perfecta: unos días de ajetreo en [Nueva 
 York](https://etheriamagazine.com/2019/05/17/viaje-con-amigas-nueva-york-primavera/), la 
@@ -136,7 +136,7 @@ yacimiento de Cobá.
 
 ## 8\. Filipinas en pareja
 
-![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](etheria-images/2019/05/Filipinas-bohol-playa.jpg "Playa de la isla de Bohol.")
+![viajes a Filipinas, viajes de buceo, viajes en pareja, lunas de miel](https://fotos.etheriamagazine.com/2019/05/Filipinas-bohol-playa.jpg "Playa de la isla de Bohol.")
 
 Un destino menos masificado y que ofrece mucho para una luna de miel. [Filipinas](https://etheriamagazine.com/2019/06/07/viaje-parejas-luna-miel-boracay-bohol-filipinas/) 
 tiene más de 7.000 islas, pero puedes centrarte en Bohol y Boracay. En **Bohol** 
@@ -146,7 +146,7 @@ sus playas (como White Beach o Puka) y a la magia de sus noches.
 
 ## 9\. Nueva Zelanda y Polinesia
 
-![](etheria-images/2019/07/Nueva-Zelanda-lago-Tongariro.jpg "Lago Esmeralda en el Parque Nacional Tongariro. © Antony Pang")
+![](https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-lago-Tongariro.jpg "Lago Esmeralda en el Parque Nacional Tongariro. © Antony Pang")
 
 Si consigues agrupar suficientes días para viajar a nuestras antípodas no te 
 arrepentirás. [Nueva 
@@ -160,7 +160,7 @@ disfrute y el descanso.
 
 ## 10\. Bali, ideal para lunas de miel
 
-![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](etheria-images/2019/03/Bali-Ulun-Danu-Beratan-temple.jpg "Templos de Ulun Danu Beratan en Bali. © Sebastian Pena.")
+![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](https://fotos.etheriamagazine.com/2019/03/Bali-Ulun-Danu-Beratan-temple.jpg "Templos de Ulun Danu Beratan en Bali. © Sebastian Pena.")
 
 Esta pequeña isla asiática es **un destino perfecto para un viaje de novios** por varios 
 motivos. El primero, su excelente relación calidad-precio. Y el segundo porque ofrece en 

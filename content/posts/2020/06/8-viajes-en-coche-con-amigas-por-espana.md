@@ -1,7 +1,7 @@
 ---
 title: "8 'road trips' con amigas por España"
 date: 2020-06-22
-coverImage: etheria-images/2019/05/playas-cadaques-costa-brva.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/05/playas-cadaques-costa-brva.jpg
 categories: 
   - de-un-vistazo
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 Una de las mejores formas que puedes elegir este verano para reencontrarte con tus amigas es realizar un viaje en coche por España. Elegid una de estas 8 rutas que os proponemos y dejaos llevar por carreteras secundarias, con buena música y animada conversación mientras descubrís paisajes de fábula. ¿Plan o planazo?
 
-![casas blancas en Cadaqués](etheria-images/2019/05/playas-cadaques-costa-brva.jpg "Playa de Cadaqués (Costa Brava). © Félix Lorenzo")
+![casas blancas en Cadaqués](https://fotos.etheriamagazine.com/2019/05/playas-cadaques-costa-brva.jpg "Playa de Cadaqués (Costa Brava). © Félix Lorenzo")
 
 ## 1\. Costa Brava (Girona)
 
@@ -24,7 +24,7 @@ seis pueblos para que sea más fácil planificar el itinerario: Cadaqués, Port 
 Selva, Begur, Tossa de Mar, Calella de Palafrugell y Sant Martí d’Empúries. Uno de 
 nuestros viajes en coche por España preferidos. ¿A que apetece? 
 
-![Las Médulas aguardan a los pies de la Sierra de la Encina de la Lastra y de la gallega Sierra del Caurel](etheria-images/2020/04/viajar-sola-leon-medulas.jpg "Las Médulas aguardan a los pies de la Sierra de la Encina de la Lastra y de la gallega Sierra del Caurel (al fondo). © KR")
+![Las Médulas aguardan a los pies de la Sierra de la Encina de la Lastra y de la gallega Sierra del Caurel](https://fotos.etheriamagazine.com/2020/04/viajar-sola-leon-medulas.jpg "Las Médulas aguardan a los pies de la Sierra de la Encina de la Lastra y de la gallega Sierra del Caurel (al fondo). © KR")
 
 ## 2\. Las Médulas (El Bierzo, León)
 
@@ -37,7 +37,7 @@ descubriréis lagunas, podréis hacer senderismo y perderos entre bosques de cas
 alcornoques. Además de probar una gastronomía donde os sorprenderá el exquisito pulpo. 
 Un viaje para reencontrarse con la naturaleza. 
 
-![Interior de la iglesia de Santa Maria de Valverde, en Valderredible.](etheria-images/2019/08/santa-maria-valverde-valderredible-e1565600806387.jpg "Iglesia de Santa Maria de Valverde, en Valderredible.")
+![Interior de la iglesia de Santa Maria de Valverde, en Valderredible.](https://fotos.etheriamagazine.com/2019/08/santa-maria-valverde-valderredible-e1565600806387.jpg "Iglesia de Santa Maria de Valverde, en Valderredible.")
 
 ## 3\. Valderredible (Cantabria)
 
@@ -48,7 +48,7 @@ mejores enclaves románicos del mundo, y la ruta os llevará a descubrir ermitas
 tan bonitas como la de Santa María de Valverde y necrópolis como la de Santa María de 
 Peñota o la de San Pantaleón. 
 
-![Monumento en homenaje a la mujer vejeriega en Vejer de la Frontera.](etheria-images/2019/05/viaje-cadiz-mujer-tapada-vejer.jpg "Monumento en homenaje a la mujer vejeriega en Vejer de la Frontera. © K.R.")
+![Monumento en homenaje a la mujer vejeriega en Vejer de la Frontera.](https://fotos.etheriamagazine.com/2019/05/viaje-cadiz-mujer-tapada-vejer.jpg "Monumento en homenaje a la mujer vejeriega en Vejer de la Frontera. © K.R.")
 
 ## 4\. Cádiz y su legado andalusí
 
@@ -61,7 +61,7 @@ Frontera](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-
 Vejer de la Frontera o Tarifa para recoger la herencia que los árabes y bereberes 
 dejaron en la arquitectura y la gastronomía. 
 
-![Cascada de El Salt, en el Matarranya.](etheria-images/2019/06/viaje-matarranya-el-salt.jpg "El Salt en la comarca de Matarranya. © Carmen Giró")
+![Cascada de El Salt, en el Matarranya.](https://fotos.etheriamagazine.com/2019/06/viaje-matarranya-el-salt.jpg "El Salt en la comarca de Matarranya. © Carmen Giró")
 
 ## 5\. El Matarranya (Teruel)
 
@@ -72,7 +72,7 @@ disfrutar de lugares como las piscinas naturales de Beceite, recorrer la ruta de
 senderismo de El Parrizal o dejarse seducir por el encanto de pueblos como Valderrobres, 
 Calaceite o La Fresneda. Naturaleza en estado puro. 
 
-![Colorido mirador de Cómpeta con vistas a la Axarquía](etheria-images/2020/06/viajar-sola-axarquia-mirador-competa.jpg "Mirador de Cómpeta, en la Axarquía malagueña. © Cristina Fernández")
+![Colorido mirador de Cómpeta con vistas a la Axarquía](https://fotos.etheriamagazine.com/2020/06/viajar-sola-axarquia-mirador-competa.jpg "Mirador de Cómpeta, en la Axarquía malagueña. © Cristina Fernández")
 
 ## 6\. La Axarquía (Málaga)
 
@@ -83,7 +83,7 @@ que, partiendo de la turística Nerja, lleva a pueblos tan bonitos como Frigilia
 Cómpeta o Sedeña, rodeados de paisajes serranos, buena gastronomía y un ambiente de 
 pueblo de los de antes. 
 
-![Iglesia enclavada en la roca en Ojo Guareña.](etheria-images/2019/05/ruta-merindades-ojo-guarena.jpg "Ojo Guareña es uno de los complejos kársticos más grandes del mundo. © KR")
+![Iglesia enclavada en la roca en Ojo Guareña.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-ojo-guarena.jpg "Ojo Guareña es uno de los complejos kársticos más grandes del mundo. © KR")
 
 ## 7\. Las Merindades (Burgos)
 
@@ -95,7 +95,7 @@ por pueblos medievales como Oña, Frías o La Muela, grutas milenarias y cascada
 naturales tan impresionantes como el Salto del Nervión. No os perdáis **Ojo Guareña** ni 
 el Parque Natural de las Hoces del Alto Ebro y Rudrón. 
 
-![Garganta del Infierno](etheria-images/2020/06/garganta-infierno-los-pilones-caceres.jpg "Garganta de los Infiernos, en el Valle del Jerte.")
+![Garganta del Infierno](https://fotos.etheriamagazine.com/2020/06/garganta-infierno-los-pilones-caceres.jpg "Garganta de los Infiernos, en el Valle del Jerte.")
 
 ## 8\. Valle del Jerte (Cáceres)
 

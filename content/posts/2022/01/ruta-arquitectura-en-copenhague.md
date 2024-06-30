@@ -1,7 +1,7 @@
 ---
 title: "Copenhague, un viaje en el tiempo a través de su arquitectura"
 date: 2022-01-26
-coverImage: etheria-images/2022/01/SMK-museo-copenhague.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/01/SMK-museo-copenhague.jpg
 categories: 
   - planes-originales-para-mujeres
   - viajes-para-mujeres
@@ -13,7 +13,7 @@ Conocer la historia de Copenhague al mismo tiempo que sus joyas arquitectónicas
 icónicas nos permite disfrutar del pasado y casi del futuro. Después de este paseo por 
 la capital danesa, te prometemos que C4 se convertirá en un amigo íntimo. 
 
-![canales copenhague](etheria-images/2022/01/canales-copenhague.jpg "Canales de Copenhague. © Daniel Rasmussen/ Visit Copenhagen")
+![canales copenhague](https://fotos.etheriamagazine.com/2022/01/canales-copenhague.jpg "Canales de Copenhague. © Daniel Rasmussen/ Visit Copenhagen")
 
 La historia y la arquitectura se dan la mano en Copenhague, y ese es el eje que nos 
 hemos marcado para visitar la capital danesa. Volvamos por un momento a sus orígenes, 
@@ -26,7 +26,7 @@ mar–, nuevas islas, arquitecturas contemporáneas y apuestas transgresoras, es
 portuaria se ha convertido en un rincón donde los siglos se intercambian miradas y la 
 historia vibra en cualquier rincón. 
 
-![Castillo de Rosenborg en copenhague](etheria-images/2022/01/copenhague-castillo-rosenborg-768x1024.jpg "Castillo de Rosenborg. © Giuseppe Liverino/ Visit Copenhagen")
+![Castillo de Rosenborg en copenhague](https://fotos.etheriamagazine.com/2022/01/copenhague-castillo-rosenborg-768x1024.jpg "Castillo de Rosenborg. © Giuseppe Liverino/ Visit Copenhagen")
 
 ## El Copenhague de C4
 
@@ -51,7 +51,7 @@ título de observatorio astronómico más antiguo de Europa. Para llegar a él s
 ascender una (cómoda) rampa en espiral de 209 metros que conecta también con la vecina 
 **iglesia de la Trinidad** y con la biblioteca que se encuentra sobre sus bóvedas. 
 
-![Torre y observatorio de Rundetaarn](etheria-images/2022/01/copenhague-Rundetaarn.jpg "Torre y observatorio de Rundetaarn. © Daniel Rasmussen/ Visit Copenhagen")
+![Torre y observatorio de Rundetaarn](https://fotos.etheriamagazine.com/2022/01/copenhague-Rundetaarn.jpg "Torre y observatorio de Rundetaarn. © Daniel Rasmussen/ Visit Copenhagen")
 
 ### Palacio de Christianborg
 
@@ -64,7 +64,7 @@ que fue este rey quien hizo nacer ciudades hundiendo barcos, pues mandó zozobra
 nave para que a sus restos se unieran escombros y sobre ellos se levantase la isla de 
 **Cristiania,** hoy famosa por la colonia _hippy_ que se estableció allí en 1971. 
 
-![Christiansborg Palace en copenhague](etheria-images/2022/01/parlamento-copenhague.jpg "El palacio de Christiansborg, al fondo, alberga el Parlamento danés. © Caeca Copenhagen")
+![Christiansborg Palace en copenhague](https://fotos.etheriamagazine.com/2022/01/parlamento-copenhague.jpg "El palacio de Christiansborg, al fondo, alberga el Parlamento danés. © Caeca Copenhagen")
 
 ## El rey del comercio
 
@@ -76,7 +76,7 @@ como tantas en la ciudad) a dos aguas y jalonada por gabletes. Mágica e icónic
 estelar chapitel, rematado por una aguja de 54 metros de altura y formada por las colas 
 entrelazadas de cuatro dragones, se divisa desde lo lejos. 
 
-![](etheria-images/2022/01/bolsa-dinamarca.jpg "Edificio de la Bolsa de Copenhague. © Mahlum")
+![](https://fotos.etheriamagazine.com/2022/01/bolsa-dinamarca.jpg "Edificio de la Bolsa de Copenhague. © Mahlum")
 
 ### Nyhavn, siempre lleno de vida
 
@@ -88,7 +88,7 @@ pronto pasaría a convertirse en lugar de diversión de los comerciantes y los m
 que llegaban desde el mar. Zona de “mala reputación” hasta hace recientemente poco, las 
 casas se fueron cambiando de prostíbulos y tabernas a una postal de cuento. 
 
-![Nyhavn puerto de copenhague](etheria-images/2022/01/puerto-Nyhavn-copenhague.jpg "Puerto de Nyhavn. © Mellanie Gandø / Visit Copenhagen")
+![Nyhavn puerto de copenhague](https://fotos.etheriamagazine.com/2022/01/puerto-Nyhavn-copenhague.jpg "Puerto de Nyhavn. © Mellanie Gandø / Visit Copenhagen")
 
 ## La Copenhague parisina
 
@@ -111,7 +111,7 @@ poder. El interesante **palacio Thott** (en la actualidad la Embajada Francesa) 
 demuestra. También los imponentes **_Hotel D’Angleterre_** y el **_Teatro Det 
 Kongelige_**_._ 
 
-![Palacio de Amalienborg](etheria-images/2022/01/Amalienborg-copenhague.jpg "Palacio de Amalienborg. © Martin Heiberg /Visit Copenhagen")
+![Palacio de Amalienborg](https://fotos.etheriamagazine.com/2022/01/Amalienborg-copenhague.jpg "Palacio de Amalienborg. © Martin Heiberg /Visit Copenhagen")
 
 ### Amalienborg, el hogar de la casa real danesa
 
@@ -136,7 +136,7 @@ saltar al siglo XX para entender la “otra Copenhague”, esa que hace las deli
 amantes de la **arquitectura** y el diseño y que marca buena parte del urbanismo actual 
 de la ciudad. 
 
-![Statens Museum for Kuns de copenhague](etheria-images/2022/01/SMK-museo-copenhague.jpg "SMK, Statens Museum for Kunst. © Mellanie Gandø")
+![Statens Museum for Kuns de copenhague](https://fotos.etheriamagazine.com/2022/01/SMK-museo-copenhague.jpg "SMK, Statens Museum for Kunst. © Mellanie Gandø")
 
 Para entender la amalgama de formas dispares, disruptivas y mágicas que invaden la 
 ciudad, desde su icónico _Diamante Negro_ o la Ópera hay que retroceder a la década de 
@@ -154,7 +154,7 @@ fanáticos de la arquitectura y el diseño aún pueden alojarse en LA habitació
 que ha mantenido el estilo original de Jacobsen. Como alternativa, el vestíbulo aún 
 sigue mostrando las sillas _Swan_ y _Egg_. 
 
-![diamante negro copenhague](etheria-images/2022/01/copenhague-diamante-negro.jpg "El Diamante Negro es una extensión de la Royal Library. © Nicolai Perjesi/ Visit Copenhagen")
+![diamante negro copenhague](https://fotos.etheriamagazine.com/2022/01/copenhague-diamante-negro.jpg "El Diamante Negro es una extensión de la Royal Library. © Nicolai Perjesi/ Visit Copenhagen")
 
 Siguiendo la estela de Jacobsen nacería una generación de arquitectos que regalarían al 
 mundo joyas como la icónica Ópera de **Jørn Utzon** en Sydney, ahora Patrimonio de la 
@@ -177,7 +177,7 @@ hablando, especialmente viva, ese es **Ørestad**. Fue a finales de los noventa 
 comenzaron las construcciones en este sector de la isla de Amager en la que hoy 
 encontramos joyas de internacionales estudios como **Bjarke Ingels** (BIG), JDS o Plot. 
 
-![VM Mountain orestad copenhague](etheria-images/2022/01/vm-mountain-copenhague.jpg "VM Mountain, en Orestad City. © Martin Heiberg")
+![VM Mountain orestad copenhague](https://fotos.etheriamagazine.com/2022/01/vm-mountain-copenhague.jpg "VM Mountain, en Orestad City. © Martin Heiberg")
 
 ### VM Mountain
 
@@ -197,7 +197,7 @@ en el vibrante Ørestad. La guía [Mira Margaritha
 Cordsen](https://www.experiencecph.com/) ofrece visitas guiadas por la arquitectura del 
 barrio. 
 
-![CopenHill en copenhague](etheria-images/2022/01/Copenhague-copenhill.jpg "CopenHill. © Daniel Rasmussen/ Visit Copenhagen")
+![CopenHill en copenhague](https://fotos.etheriamagazine.com/2022/01/Copenhague-copenhill.jpg "CopenHill. © Daniel Rasmussen/ Visit Copenhagen")
 
 ## Un ejemplo de sostenibilidad
 
@@ -219,7 +219,7 @@ que ya hay? **_Copenhill_**, una incineradora en la que es posible esquiar sobre
 alfombra de suelo verde, muestra perfectamente este concepto de sostenibilidad 
 hedonística que, más pronto que tarde, traspasará fronteras. 
 
-![Portland Towers en Nordhav](etheria-images/2022/01/copenague-portland-towers.jpg "Portland Towers fue el primer edificio terminado del barrio de Århusgadekvarteret, en Nordhavn. © Daniel Rasmussen")
+![Portland Towers en Nordhav](https://fotos.etheriamagazine.com/2022/01/copenague-portland-towers.jpg "Portland Towers fue el primer edificio terminado del barrio de Århusgadekvarteret, en Nordhavn. © Daniel Rasmussen")
 
 Más información en [Turismo de Copenhague](https://www.visitcopenhagen.com/). 
 

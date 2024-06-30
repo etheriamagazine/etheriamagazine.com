@@ -1,7 +1,7 @@
 ---
 title: "Descubre el fascinante mundo del Atlas de los lugares literarios"
 date: 2018-08-15
-coverImage: etheria-images/2018/07/Atlas_de_los_lugares_literarios.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Atlas_de_los_lugares_literarios.jpg
 categories: 
   - libros-de-viajes
 authors: 
@@ -13,7 +13,7 @@ hecho de ser libro. Esta cuidada edición a dos tintas recoge los lugares (imagi
 no) de una serie de novelas elegidas por su autora Cris F. Oliver y que han sido 
 genialmente retratadas en las ilustraciones de Julio Fuentes. 
 
-![Interior del Atlas de los lugares literarios: Londres de Orwell](etheria-images/2018/07/Atlas-Lugares-literarios-Orwell-1984-1024x643.jpg "El Londres de '1984' de Georges Orwell (1949).")
+![Interior del Atlas de los lugares literarios: Londres de Orwell](https://fotos.etheriamagazine.com/2018/07/Atlas-Lugares-literarios-Orwell-1984-1024x643.jpg "El Londres de '1984' de Georges Orwell (1949).")
 
 Somos muchas para las que curiosear en librerías es una afición como otra cualquiera. Lo 
 bueno de estos “ratitos” es que se descubren tesoros inesperados, pequeñas joyas en 
@@ -52,7 +52,7 @@ de las moscas_ o el **Londres** de Sherlock Holmes. Y en cuanto a los olvidos, �
 no un Macondo tropical y caribeño al que acudir a cualquier edad para conocer a la 
 familia Buendía? 
 
-![Interior del Atlas de los lugares literarios: El mago de Oz](etheria-images/2018/07/Atlas-lugares-literarios-Oz-1024x642.jpg "'El Maravilloso mago de Oz' de L.F. Baum (1900).")
+![Interior del Atlas de los lugares literarios: El mago de Oz](https://fotos.etheriamagazine.com/2018/07/Atlas-lugares-literarios-Oz-1024x642.jpg "'El Maravilloso mago de Oz' de L.F. Baum (1900).")
 
 ## Volver a los libros leídos
 
@@ -63,7 +63,7 @@ el **Liliput** de _Los viajes de Gulliver_ o el **Londres** del _1984_ de George
 Orwell. Y, por supuesto, ofrece algunos lugares totalmente desconocidos a los que 
 asomarse, como la **Nueva Pekín** de _Cinder_ (¿de verdad una cenicienta ciborg?). 
 
-![Interior del Atlas de los lugares literarios](etheria-images/2018/07/Atlas-de-lugares-literarios-Nueva-Pekin-1024x641.jpg "Nueva Pekín de 'Cinder' de Marissa Meyer (2012).")
+![Interior del Atlas de los lugares literarios](https://fotos.etheriamagazine.com/2018/07/Atlas-de-lugares-literarios-Nueva-Pekin-1024x641.jpg "Nueva Pekín de 'Cinder' de Marissa Meyer (2012).")
 
 O al **Pueblo de Capricornio** de _Corazón de tinta_, al parecer lleno de villanos que 
 se han escapado de los libros. “Estos bandidos, que escaparon del séptimo capítulo de 
@@ -71,7 +71,7 @@ Corazón de tinta, se niegan en redondo a regresar a su historia, alegando que e
 atestada de hadas con voces agudas y duendes de piernas torcidas”. (_Atlas de los 
 lugares literarios_, Cris F. Oliver, 2018). 
 
-![Portada del Atlas de los lugares literarios](etheria-images/2018/07/Atlas_de_los_lugares_literarios-765x1024.jpg "Portada del Atlas de los lugares literarios.")
+![Portada del Atlas de los lugares literarios](https://fotos.etheriamagazine.com/2018/07/Atlas_de_los_lugares_literarios-765x1024.jpg "Portada del Atlas de los lugares literarios.")
 
 Libro: [Atlas de los lugares literarios](https://amzn.to/3P1Gcwo) Autora: Cris F. 
 Oliver. Ilustraciones: Julio Fuentes. Editorial: Montena. Precio: Versión Kindle desde 

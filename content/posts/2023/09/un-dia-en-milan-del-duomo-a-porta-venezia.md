@@ -1,7 +1,7 @@
 ---
 title: "Un día en Milán: del Duomo a Porta Venezia"
 date: 2023-09-29
-coverImage: etheria-images/2023/09/Milan-Liberty-Quartier-Casa-Galimbert.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/09/Milan-Liberty-Quartier-Casa-Galimbert.jpg
 categories: 
   - viajes-con-amigas
   - viajes-urbanos
@@ -16,7 +16,7 @@ el barrio Porta Venezia, a través de tiendas de moda y preciosas casas-museo. C
 broche inigualable: el Museo de Arte de la Fundación Luigi Rovati, inaugurado en 2022 y 
 que ofrece una colección deliciosa. ¿De verdad que te lo vas a perder? 
 
-![Vistas de Milán desde las terrazas del Duomo.](etheria-images/2023/09/Milan-Duomo-vistas-terraza.jpg "Vistas de Milán desde las terrazas del Duomo. © Marcello Pirovano")
+![Vistas de Milán desde las terrazas del Duomo.](https://fotos.etheriamagazine.com/2023/09/Milan-Duomo-vistas-terraza.jpg "Vistas de Milán desde las terrazas del Duomo. © Marcello Pirovano")
 
 Las ciudades italianas son perfectas para disfrutarlas despacio, siempre que se pueda 
 paseando, ya que el arte, las tiendas más 'chic' e incluso la gastronomía asalta a cada 
@@ -36,7 +36,7 @@ detalles de su interior, es imprescindible subir a sus terrazas: en lo alto, ent
 agujas de mármol blanco decoradas y las miles de estatuas, se puede disfrutar de una de 
 las vistas más impresionantes del perfil de la ciudad. 
 
-![Duomo de Milán.](etheria-images/2023/09/Milan-duomo.jpg "Duomo de Milán. © Enrico Freschi.")
+![Duomo de Milán.](https://fotos.etheriamagazine.com/2023/09/Milan-duomo.jpg "Duomo de Milán. © Enrico Freschi.")
 
 ## Piazza del Duomo: el Palazzo Reale y la Galería Vittorio Emanuele II
 
@@ -47,7 +47,7 @@ exposiciones (se espera con impaciencia la inauguración de las dedicadas a Mora
 Greco y Goya en octubre de 2023) y el **Museo del Novecento**, que exhibe importantes 
 colecciones de arte moderno y contemporáneo. 
 
-![Galerías Vittorio Emanuele.](etheria-images/2023/09/Milan-Galleria-Vittorio-Emanuele.jpg "Galerías Vittorio Emanuele. © Paolo Marchesi/dearmilano.it")
+![Galerías Vittorio Emanuele.](https://fotos.etheriamagazine.com/2023/09/Milan-Galleria-Vittorio-Emanuele.jpg "Galerías Vittorio Emanuele. © Paolo Marchesi/dearmilano.it")
 
 Por otro, la pintoresca **Galería Vittorio Emanuele II,** el centro comercial más 
 antiguo de Italia, diseñado por Giuseppe Mengoni entre 1865 y 1867, y que se lleva todas 
@@ -75,7 +75,7 @@ Manzoni, Via della Spiga y Corso Venezia**. Las calles que hay en su interior se
 convertido ya en el símbolo de la elegancia _Made in Italy,_ donde las grandes casas de 
 moda quieren tener al menos un escaparate. 
 
-![Patio típico en el Quadrilatero della Moda en Milán](etheria-images/2023/09/milan-Patio-Quadrilatero-della-Moda.jpg "Patio típico en el Quadrilatero della Moda. © @20regionsin2years.")
+![Patio típico en el Quadrilatero della Moda en Milán](https://fotos.etheriamagazine.com/2023/09/milan-Patio-Quadrilatero-della-Moda.jpg "Patio típico en el Quadrilatero della Moda. © @20regionsin2years.")
 
 Es aquí, a pocos minutos a pie del Duomo y de la Galería, donde se vienen a descubrir 
 las últimas colecciones y, si se presta atención, se pueden descubrir tiendas que venden 
@@ -117,7 +117,7 @@ Portaluppi, fue noticia por la presencia de una piscina privada en el jardín. C
 fue la primera de la ciudad después de la municipal, se representaba una nueva forma de 
 vivir el tiempo libre. 
 
-![Entrada y piscina de Villa Necchi en Milán](etheria-images/2023/09/Milan-Villa-Necchi-exterior.jpg "Entrada y piscina de Villa Necchi Campiglio. © Lorenzo Pesce/FAI.")
+![Entrada y piscina de Villa Necchi en Milán](https://fotos.etheriamagazine.com/2023/09/Milan-Villa-Necchi-exterior.jpg "Entrada y piscina de Villa Necchi Campiglio. © Lorenzo Pesce/FAI.")
 
 Es agradable hacer como los primeros huéspedes, detenerse en el bistró y disfrutar de un 
 café junto a la piscina. Después, hay que curiosear por el interior para dejarse 
@@ -142,7 +142,7 @@ pequeño jardín de rosas; **Casa Galimberti**, en la calle Malpighi, conocida p
 magnífica fachada completamente decorada; y **Casa Campanini**, en vía Vincenzo Bellini 
 11, en la que destaca su icónica puerta. 
 
-![Casa Galimberti en Milán.](etheria-images/2023/09/Milan-Liberty-Quartier-Casa-Galimbert.jpg "Casa Galimberti es una de las muestras de la arquitectura Liberty en Milán. © YesMilano.")
+![Casa Galimberti en Milán.](https://fotos.etheriamagazine.com/2023/09/Milan-Liberty-Quartier-Casa-Galimbert.jpg "Casa Galimberti es una de las muestras de la arquitectura Liberty en Milán. © YesMilano.")
 
 ### El Museo de Arte de la Fundación Luigi Rovati
 
@@ -155,7 +155,7 @@ obras maestras de autores como Lucio Fontana, Arturo Martini, Pablo Picasso y An
 Warhol. Un paseo por la historia del arte que traslada al visitante desde el mundo 
 etrusco al del arte contemporáneo. 
 
-![Sala Azul del Museo de Arte de la Fundación Luigi Rovati en Milán](etheria-images/2023/09/milan-Museo-Fondazione-Luigi-Rovati-sala-azul.jpg "Sala Azul del Museo de Arte de la Fundación Luigi Rovati. © Giovanni de Sandre per Fondazione Luigi Rovati.")
+![Sala Azul del Museo de Arte de la Fundación Luigi Rovati en Milán](https://fotos.etheriamagazine.com/2023/09/milan-Museo-Fondazione-Luigi-Rovati-sala-azul.jpg "Sala Azul del Museo de Arte de la Fundación Luigi Rovati. © Giovanni de Sandre per Fondazione Luigi Rovati.")
 
 Pero este museo tiene un aliciente más que llena de emoción la visita: recorrer las 
 **salas subterráneas**, diseñadas por Mario Cucinella, para recordar los túmulos 
@@ -168,7 +168,7 @@ contemporáneo. Un juego de reclamos y referencias cruzadas que continúa en la 
 noble, entre enormes espejos del siglo XVIII, puertas doradas, suelos de mármol y 
 chimeneas. 
 
-![Salas subterráneas del Museo Luigi Rovati.](etheria-images/2023/09/Milan-Museo-Arte-Fondazione-Luigi-Rovati.jpg "Salas subterráneas del Museo de la Fundación Luigi Rovati. © Giovanni de Sandre per Fondazione Luigi Rovati.")
+![Salas subterráneas del Museo Luigi Rovati.](https://fotos.etheriamagazine.com/2023/09/Milan-Museo-Arte-Fondazione-Luigi-Rovati.jpg "Salas subterráneas del Museo de la Fundación Luigi Rovati. © Giovanni de Sandre per Fondazione Luigi Rovati.")
 
 ### Una gastronomía de altura
 

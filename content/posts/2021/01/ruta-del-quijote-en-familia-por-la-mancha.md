@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Quijote, en familia por La Mancha"
 date: 2021-01-29
-coverImage: etheria-images/2021/01/Alcazar-de-San-Juan-atardecer-molinos.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/Alcazar-de-San-Juan-atardecer-molinos.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 Esta Ruta del Quijote en La Mancha te interesa si estás buscando una escapada cercana y divertida en familia. Recorrerás los escenarios del ingenioso hidalgo, varios pueblos con encanto, y además pasearás al aire libre. Y es un excelente recurso didáctico en una excursión con niños (pero esto no lo digas muy alto).
 
-![molinos de alcazar de san juan en ruta del quijote](etheria-images/2021/01/Alcazar-de-San-Juan-atardecer-molinos.jpg "Atardecer desde los molinos de Alcázar de San Juan.")
+![molinos de alcazar de san juan en ruta del quijote](https://fotos.etheriamagazine.com/2021/01/Alcazar-de-San-Juan-atardecer-molinos.jpg "Atardecer desde los molinos de Alcázar de San Juan.")
 
 La Mancha, aquel lugar del que Cervantes no quería acordarse, la cuna de Alonso Quijano 
 y el escenario de las aventuras y desventuras del ingenioso hidalgo Don Quijote de la 
@@ -32,7 +32,7 @@ les ocurre a sus héroes, puede ser una buena lección de vida. Les enseñará q
 contratiempos es lo habitual, pero que siempre hay que levantarse con ánimo para 
 emprender una nueva aventura. 
 
-![cervantes alcazar de san juan en ruta del quijote](etheria-images/2021/01/ruta-quijote-Alcazar-de-San-Juan.jpg "Escultura de Cervantes en Alcázar de San Juan.")
+![cervantes alcazar de san juan en ruta del quijote](https://fotos.etheriamagazine.com/2021/01/ruta-quijote-Alcazar-de-San-Juan.jpg "Escultura de Cervantes en Alcázar de San Juan.")
 
 ## Ruta del Quijote, 4 paradas básicas
 
@@ -55,7 +55,7 @@ hidalgos en los que se inspiró Cervantes. Cuenta con **material interactivo y
 manipulativo para los niños**, así que aquí se divertirán un rato. Entrada: 3,60 €/ 
 adultos, y menores de 12 años, gratis. 
 
-![museo casa del hidalgo alcazar de san juan](etheria-images/2021/01/museo-casa-del-hidalgo.jpg "Museo Casa del Hidalgo, en Alcázar de San Juan.")
+![museo casa del hidalgo alcazar de san juan](https://fotos.etheriamagazine.com/2021/01/museo-casa-del-hidalgo.jpg "Museo Casa del Hidalgo, en Alcázar de San Juan.")
 
 Otro espacio de interés es el [Museo 
 FORMMA](https://www.turismoalcazar.es/index.php/que-ver/museo-formma), situado en el 
@@ -70,7 +70,7 @@ llaman Rocinante, Fierabrás, Dulcinea y Barcelona. La entrada es gratuita si qu
 subir a verlos, dos de ellos están musealizados. Una vez al mes realizan **exhibiciones 
 de molienda**. 
 
-![cueva medrano ruta del quijote argamasilla alba](etheria-images/2021/01/Cueva-de-Medrano-Argamasilla.jpg "Cueva de Medrano, en Argamasilla de Alba.")
+![cueva medrano ruta del quijote argamasilla alba](https://fotos.etheriamagazine.com/2021/01/Cueva-de-Medrano-Argamasilla.jpg "Cueva de Medrano, en Argamasilla de Alba.")
 
 ### Argamasilla de Alba, ese lugar de la Mancha...
 
@@ -96,7 +96,7 @@ sus aventuras_. El mapa original fue dibujado en 1798 por Manuel Antonio Rodríg
 siguiendo las observaciones de Juan Antonio Pellicer, que era bibliotecario del rey y 
 miembro de la Real Academia de la Historia. 
 
-![castillo de penarroya argamasilla alba](etheria-images/2021/01/castillo-penarroya-argamasilla-alba.jpg "Castillo de Peñarroya, en Argamasilla de Alba.")
+![castillo de penarroya argamasilla alba](https://fotos.etheriamagazine.com/2021/01/castillo-penarroya-argamasilla-alba.jpg "Castillo de Peñarroya, en Argamasilla de Alba.")
 
 Como curiosidad se puede señalar que hubo un tiempo en el que muchos escritores, incluso 
 Benito Pérez Galdós, visitaron Argamasilla para averiguar qué tenía aquel lugar que 
@@ -111,7 +111,7 @@ Ruidera**, uno de los mayores humedales de España, que tiene un paisaje especta
 Está a unos 25 kilómetros por la CM-3115, y allí encontraréis merenderos para comer o 
 descansar. 
 
-![molinos de campo criptana ruta del quijote](etheria-images/2021/01/ruta-quijote-campo-criptana.jpg "Molinos de Campo de Criptana.")
+![molinos de campo criptana ruta del quijote](https://fotos.etheriamagazine.com/2021/01/ruta-quijote-campo-criptana.jpg "Molinos de Campo de Criptana.")
 
 ### Campo de Criptana y sus molinos
 
@@ -137,7 +137,7 @@ Criptana](https://etheriamagazine.com/2019/04/08/ruta-sara-montiel-campo-de-crip
 El precio de la entrada es de 2 € (adultos), de 1 € (niños de 6 a 12 años) y gratuita 
 para menores de 5 años. 
 
-![migas manchegas](etheria-images/2021/01/Migas-manchegas.jpg "Las migas manchegas con uvas es un plato que suele gustar a los niños.")
+![migas manchegas](https://fotos.etheriamagazine.com/2021/01/Migas-manchegas.jpg "Las migas manchegas con uvas es un plato que suele gustar a los niños.")
 
 En caso de que te interese, hay **visitas guiadas** (Tel. 926 56 22 31) y también se 
 realizan demostraciones de molienda, habitualmente los primeros domingos de mes, así que 
@@ -149,7 +149,7 @@ Seguro que ya habrás visto la imagen del monte nevado con los molinos tras el p
 Filomena, pero los atardeceres también resultan espectaculares, y se producen todos los 
 días. 
 
-![ruta del quijote en el toboso](etheria-images/2021/01/Ruta-quijote-El-Toboso.jpg "Plaza de El Toboso, con Dulcinea y el hidalgo Don Quijote.")
+![ruta del quijote en el toboso](https://fotos.etheriamagazine.com/2021/01/Ruta-quijote-El-Toboso.jpg "Plaza de El Toboso, con Dulcinea y el hidalgo Don Quijote.")
 
 ### El Toboso, el hogar de Dulcinea
 
@@ -173,7 +173,7 @@ literaria. La visita sirve para ver cómo eran estas viviendas, con sus corrales
 bodegas, etc. y los útiles de siglos pasados. Incluso hay una prensa de aceite con viga 
 de 15 metros. 
 
-![casa museo dulcinea el toboso](etheria-images/2021/01/casa-dulcinea-el-toboso.jpg "Museo Casa de Dulcinea, en El Toboso.")
+![casa museo dulcinea el toboso](https://fotos.etheriamagazine.com/2021/01/casa-dulcinea-el-toboso.jpg "Museo Casa de Dulcinea, en El Toboso.")
 
 Relacionado también con la temática de la ruta, está el [Museo 
 Cervantino](http://www.turismocastillalamancha.es/patrimonio/museo-cervantino-5961/descripcion/), 
@@ -188,7 +188,7 @@ Si necesitas datos prácticos, como alojamiento o restaurantes, podéis bucear u
 la [web de El País del Quijote](http://paisdelquijote.es). Nosotras no nos quedamos a 
 dormir por lo que no te podemos hacer una recomendación concreta. 
 
-![molinos de alcazar de san juan](etheria-images/2021/01/Molinos-alcazar-san-juan.jpg "Molinos de Alcázar de San Juan.")
+![molinos de alcazar de san juan](https://fotos.etheriamagazine.com/2021/01/Molinos-alcazar-san-juan.jpg "Molinos de Alcázar de San Juan.")
 
 ### Te puede interesar...
 

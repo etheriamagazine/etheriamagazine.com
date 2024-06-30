@@ -1,7 +1,7 @@
 ---
 title: "Bolivia bien vale un potosí, nueva etapa de Sania Jelic"
 date: 2023-03-13
-coverImage: etheria-images/2023/03/sania-sucre.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/03/sania-sucre.jpg
 categories: 
   - mujeres-que-inspiran
   - viajar-sola
@@ -16,7 +16,7 @@ administrativa, y La Paz, una gran urbe a tres mil quinientos metros de altura. 
 etapa donde se acerca a las tradiciones bolivianas y a mujeres empoderadas como las 
 cholitas luchadoras. Y, como siempre, nos lo cuenta en primera persona. 
 
-![panorámica de Sucre con Sania](etheria-images/2023/03/sania-sucre.jpg "Sania en Sucre. © Sania Jelic.")
+![panorámica de Sucre con Sania](https://fotos.etheriamagazine.com/2023/03/sania-sucre.jpg "Sania en Sucre. © Sania Jelic.")
 
 Después de varios días de travesía por el nevado Altiplano boliviano desde San Pedro de 
 Atacama, pasando por paisajes con lagunas coloradas y colonias de flamencos, grupos de 
@@ -40,7 +40,7 @@ prevé que la extracción se realice con métodos modernos (al aire libre). Supo
 renovación de la ciudad, aunque la extracción manual seguirá en el **Cerro Rico**. De 
 las aproximadamente 465 entradas a túneles en el cerro, ahora se usan unas 200. 
 
-![Torre de la catedral de Potosí](etheria-images/2023/03/sania-potosi-catedral.jpg "Torre de la catedral de Potosí. © SJ")
+![Torre de la catedral de Potosí](https://fotos.etheriamagazine.com/2023/03/sania-potosi-catedral.jpg "Torre de la catedral de Potosí. © SJ")
 
 ### El duro trabajo en la mina
 
@@ -61,7 +61,7 @@ apenas sueldos aceptables.
 Unos 8.000 mineros trabajan en la mina y es la principal fuente de ingresos de la 
 ciudad. La nueva mina no aportará mucho a esta mano de obra. 
 
-![Sania antes de entrar a la mina de Potosí y ofrendas el Día del Compadre](etheria-images/2023/03/sania-bolivia-potosi.jpg "Sania antes de entrar a la mina de Potosí y ofrendas el Día del Compadre. © SJ")
+![Sania antes de entrar a la mina de Potosí y ofrendas el Día del Compadre](https://fotos.etheriamagazine.com/2023/03/sania-bolivia-potosi.jpg "Sania antes de entrar a la mina de Potosí y ofrendas el Día del Compadre. © SJ")
 
 ### El Día del Compadre
 
@@ -115,7 +115,7 @@ constitucional y judicial, fue declarada Patrimonio de la Humanidad por la UNESC
 tiene unos 280.000 habitantes. A diferencia de Potosí, es elegante, limpia y está 
 cuidada. La herencia colonial luce y hay buenos restaurantes. 
 
-![Universidad de Simón Bolívar.](etheria-images/2023/03/sania-bolivia-sucre-universidad-simon-bolivar.jpg "Universidad Andina Simón Bolívar. © SJ")
+![Universidad de Simón Bolívar.](https://fotos.etheriamagazine.com/2023/03/sania-bolivia-sucre-universidad-simon-bolivar.jpg "Universidad Andina Simón Bolívar. © SJ")
 
 Alberga la Universidad Mayor Real y Pontificia de San Francisco Javier de Chuiquisaca, 
 que recibe al año 47.000 estudiantes que estudian 54 carreras en 16 facultades y que el 
@@ -170,7 +170,7 @@ explican parte de la cultura o comunidad social Aillu. En estas unidades sociale
 pretende conseguir el auto sustento, y los miembros tienen obligaciones recíprocas. En 
 este caso, Julia y Caso tenían la responsabilidad de ser consultores para parejas. 
 
-![Tejidos tradicionales de Bolivia](etheria-images/2023/03/sania-tarabuco-tejedoras.jpg "Tejidos y tejedoras en Tarabuco. © SJ")
+![Tejidos tradicionales de Bolivia](https://fotos.etheriamagazine.com/2023/03/sania-tarabuco-tejedoras.jpg "Tejidos y tejedoras en Tarabuco. © SJ")
 
 Un testimonio muy interesante y valioso, donde hablan de temas como que “la pareja, una 
 vez creada, debe hacerlo todo juntos. Las cosas se tienen que dialogar y sólo a través 
@@ -192,7 +192,7 @@ No pude ir a Oruro, pero me hago una idea a través del inicio del carnaval que 
 Sucre. El ambiente era tan alegre, las caras iluminadas de risas de los adultos y el 
 recuerdo de las caras y el pelo de los niños llenos de espuma me siguen haciendo reír. 
 
-![pasacalles en Sucre Bolivia](etheria-images/2023/03/sania-sucre-pasacalles.jpg "Carnaval en Sucre. © SJ")
+![pasacalles en Sucre Bolivia](https://fotos.etheriamagazine.com/2023/03/sania-sucre-pasacalles.jpg "Carnaval en Sucre. © SJ")
 
 Para ver una representación de la variedad de folclore de Bolivia fui al **espectáculo 
 Orígenes**. Durante la cena, que es opcional, en el podio actúan bailarines 
@@ -212,7 +212,7 @@ para divertir al público me sonaba, sinceramente, poco afortunado. No me gusta 
 violencia y mucho menos gratuita y, aún peor, entre mujeres. Pero si las cholitas lo 
 hacen, por algo es. Quería intentar entenderlo. 
 
-![Sania con la Cholitas Luchadoras en bolivia](etheria-images/2023/03/Sania-cholitas-luchadoras.jpg "Sania con las Cholitas Luchadoras. © SJ")
+![Sania con la Cholitas Luchadoras en bolivia](https://fotos.etheriamagazine.com/2023/03/Sania-cholitas-luchadoras.jpg "Sania con las Cholitas Luchadoras. © SJ")
 
 Pude grabar algunas entrevistas en las que explican las razones que las llevaron a la 
 práctica del deporte y a elegir una vida de luchadoras, entre ellas a la fundadora de la 
@@ -232,7 +232,7 @@ conectan la ciudad, y es limpio, ordenado y cómodo. Me gustó tanto que di la v
 veces (cada ronda es como dos horas y media). Además, brinda la oportunidad para hablar 
 con otros pasajeros. Me encantó. 
 
-![teleferico de La Paz](etheria-images/2023/03/sania-la-paz-teleferico.jpg "El teleférico de La Paz sobrevuela las casas que parecen a medio construir. © SJ")
+![teleferico de La Paz](https://fotos.etheriamagazine.com/2023/03/sania-la-paz-teleferico.jpg "El teleférico de La Paz sobrevuela las casas que parecen a medio construir. © SJ")
 
 La Paz tiene alrededor de un millón de habitantes y la ciudad que lo bordea en la cima, 
 El Alto, otro millón y medio de personas más. **El Alto** es conocido como el mercado 

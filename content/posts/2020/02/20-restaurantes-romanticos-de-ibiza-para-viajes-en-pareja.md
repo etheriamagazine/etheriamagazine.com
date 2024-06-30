@@ -1,7 +1,7 @@
 ---
 title: "20 restaurantes románticos de Ibiza para ir en pareja"
 date: 2020-02-14
-coverImage: etheria-images/2020/02/restaurantes-romanticos-la-torre-vistas.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/02/restaurantes-romanticos-la-torre-vistas.jpg
 categories: 
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
@@ -16,7 +16,7 @@ cena o comida en pareja. Nuestra siguiente selección incluye restaurantes romá
 todo tipo, desde un chiringuito rústico con vistas a Ibiza hasta el primer restaurante 
 de Ibiza con estrella Michelin. 
 
-![ibiza romantica, ibiza en pareja](etheria-images/2020/02/Ibiza-en-pareja-900x600.jpg "Ibiza es aún más romántica al caer el sol. © Vicent Marí/ Consell d'Eivissa")
+![ibiza romantica, ibiza en pareja](https://fotos.etheriamagazine.com/2020/02/Ibiza-en-pareja-900x600.jpg "Ibiza es aún más romántica al caer el sol. © Vicent Marí/ Consell d'Eivissa")
 
 Actualizado en julio 2023 
 
@@ -30,7 +30,7 @@ la isla es mejor reservar. Por eso hemos elaborado esta selección de **20**
 **restaurantes de Ibiza para ir en pareja**, para que tú sólo tengas que escoger 
 aquellos que mejor se ajusten a vuestros gusto y presupuesto. 
 
-![restaurante sa capella, restaurantes romanticos ibiza, ibiza romantica, ibiza en pareja](etheria-images/2020/02/restaurante-romantico-sa-capella-900x606.jpg "Restaurante Sa Capella. © Ritu/ S.Capella")
+![restaurante sa capella, restaurantes romanticos ibiza, ibiza romantica, ibiza en pareja](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-sa-capella-900x606.jpg "Restaurante Sa Capella. © Ritu/ S.Capella")
 
 ## Restaurantes de Ibiza altamente románticos
 
@@ -55,7 +55,7 @@ verano. Abierto de abril a octubre. Tel. 971 340 057
 
 \*Cerrado temporalmente (comprueba si ha abierto en la fecha de tu viaje) 
 
-![restaurante la luna nell orto, restaurante romantico ibiza, ibiza romantica, ibiza en pareja](etheria-images/2020/02/restaurante-romantico-ibiza-luna-nell-orto-900x600.jpg "© Restaurante La Luna nell'Orto (Ibiza).")
+![restaurante la luna nell orto, restaurante romantico ibiza, ibiza romantica, ibiza en pareja](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-luna-nell-orto-900x600.jpg "© Restaurante La Luna nell'Orto (Ibiza).")
 
 ### 3\. La Luna nell’Orto: romanticismo a la italiana
 
@@ -73,7 +73,7 @@ Situada en pleno paseo marítimo, su jardín es uno de los rincones más románt
 pueblo durante el verano. Encontrarás una cuidada cocina contemporánea y **música en 
 vivo** algunas noches de la semana. Abierto de abril a noviembre. Tel. 971 348 543 
 
-![restaurante villa mercedes, restaurantes romanticos ibiza, ibiza romantica, ibiza en pareja](etheria-images/2020/02/restaurante-romantico-ibiza-villa-mercedes-900x600.jpg "Restaurante Villa Mercedes. © Grupo Mambo")
+![restaurante villa mercedes, restaurantes romanticos ibiza, ibiza romantica, ibiza en pareja](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-villa-mercedes-900x600.jpg "Restaurante Villa Mercedes. © Grupo Mambo")
 
 ### 5\. El Corsario: con vistas al puerto
 
@@ -84,7 +84,7 @@ ofrece unas maravillosas vistas sobre el puerto de Ibiza y las colinas de los
 alrededores. ¿Un consejo? Antes de la cena no dejéis de dar un paseo por las murallas 
 para ver el atardecer. Abierto de abril a octubre. Tel. 691 697 690 
 
-![restaurante el corsario ibiza](etheria-images/2021/03/hotel-canonigo-corsario-restaurante.jpg "Terraza del El Corsario Restaurant & Terrace.")
+![restaurante el corsario ibiza](https://fotos.etheriamagazine.com/2021/03/hotel-canonigo-corsario-restaurante.jpg "Terraza del El Corsario Restaurant & Terrace.")
 
 ## Restaurantes de Ibiza para una cena mágica
 
@@ -98,7 +98,7 @@ destaca por su ubicación espectacular en una terraza natural con vistas al mar,
 calita de Sol d’en Serra, junto a Cala Llonga. Abierto de abril a octubre. Tel. 971 196 
 176 
 
-![Restaurante Amante, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](etheria-images/2020/02/restaurante-romantico-ibiza-Amante-900x601.jpg "Restaurante Amante. ©Tasya Menaker/ Amante")
+![Restaurante Amante, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-Amante-900x601.jpg "Restaurante Amante. ©Tasya Menaker/ Amante")
 
 ### 7\. Cala Xuclar: un chiringuito íntimo sin cobertura
 
@@ -125,7 +125,7 @@ incluye especialidades como 'Rodaballo asado sobre una crema de zanahorias y cí
 caramelizada al aroma de trufa blanca'. Un lugar perfecto para una cena inolvidable. 
 Abierto de abril a octubre. Tel. 971 344 321 
 
-![Restaurante Can Berri Vell, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](etheria-images/2020/02/restaurante-romantico-ibiza-can-berri-vell-900x623.jpg "© Restaurante Can Berri Vell (Ibiza).")
+![Restaurante Can Berri Vell, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-can-berri-vell-900x623.jpg "© Restaurante Can Berri Vell (Ibiza).")
 
 ### 10\. Cuatro Latas: un rincón romántico y sencillo
 
@@ -156,7 +156,7 @@ Torre](http://www.latorreibiza.com), ver atardecer con vistas al mar y **cenar a
 de las velas**. Las sesiones de Balearic Sound preparan el ambiente para una velada muy 
 romántica con sabores a cocina contemporánea. Tel. 971 342 271 
 
-![Terraza del Hostal La Torre, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](etheria-images/2020/02/restaurante-romantico-ibiza-hostal-la-torre-900x623.jpg "Terraza del Hostal La Torre. © Luanda Lopes/ H.L.T.")
+![Terraza del Hostal La Torre, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-hostal-la-torre-900x623.jpg "Terraza del Hostal La Torre. © Luanda Lopes/ H.L.T.")
 
 ### 13\. Sushiya Aoyama: cena japonesa para dos
 
@@ -179,7 +179,7 @@ Antonio para disfrutar en pareja de **excelente cocina ibicenca contemporánea**
 el verano, el agradable jardín de [Es Ventall](http://www.restauranteesventall.com) sí 
 que es perfecto para una velada con confidencias. Cervantes, 22. Tel. 699 846 854 
 
-![restaurante la paloma, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](etheria-images/2020/02/restaurante-ibiza-la-paloma-900x600.jpg "© Restaurante La Paloma (Ibiza).")
+![restaurante la paloma, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](https://fotos.etheriamagazine.com/2020/02/restaurante-ibiza-la-paloma-900x600.jpg "© Restaurante La Paloma (Ibiza).")
 
 ## Restaurantes de Ibiza para sorprender
 
@@ -203,7 +203,7 @@ mediterránea oriental** de su carta de mediodía también resulta perfecta para
 desayuno tardío de enamorados… [La Paloma Ibiza](http://palomaibiza.com) cierra en 
 enero. Tel. 971 325 543 
 
-![Restaurante La Escollera, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](etheria-images/2020/02/restaurante-romantico-ibiza-la-escollera-900x574.jpg "Restaurante La Escollera (Ibiza). © Luana Failla/ La Escollera")
+![Restaurante La Escollera, ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-la-escollera-900x574.jpg "Restaurante La Escollera (Ibiza). © Luana Failla/ La Escollera")
 
 ### 18\. La Escollera: paella para dos
 
@@ -220,7 +220,7 @@ Rafel es el complemento perfecto para su **alta cocina mediterránea contemporá
 toques orientales. ¡Seguro que [Es Clodenis](http://elclodenis.com) os sorprende! 
 Abierto de mayo a octubre. 
 
-![Restaurante La Oliva,ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](etheria-images/2020/02/restaurante-romantico-ibiza-La-Oliva-900x649.jpg "© Restaurante La Oliva (Ibiza).")
+![Restaurante La Oliva,ibiza romantica, ibiza en pareja, restaurantes romanticos ibiza](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-La-Oliva-900x649.jpg "© Restaurante La Oliva (Ibiza).")
 
 ### 20\. La Oliva: cocina francesa en el corazón de Dalt Vila
 

@@ -1,7 +1,7 @@
 ---
 title: "12 visitas esenciales en la Ruta del Vino de Arribes"
 date: 2023-06-12
-coverImage: etheria-images/2023/06/ruta-vino-arribes.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/06/ruta-vino-arribes.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -16,7 +16,7 @@ mejorar el presente de este territorio zamorano y salmantino. Entre bodegas y bu
 restaurantes también hay un buen abanico de visitas que os queremos recomendar para 
 completar esta agradable escapada. 
 
-![viñedo de la Ruta del Vino de Arribes](etheria-images/2023/06/ruta-vino-arribes.jpg "Ruta del Vino de Arribes. © Etheria M.")
+![viñedo de la Ruta del Vino de Arribes](https://fotos.etheriamagazine.com/2023/06/ruta-vino-arribes.jpg "Ruta del Vino de Arribes. © Etheria M.")
 
 En esa esquinita en la que Zamora y Salamanca se dan la mano mientras saludan a Portugal 
 se sitúa una tierra forjadora de carácter, de paisajes desafiantes, de naturaleza 
@@ -48,7 +48,7 @@ Entrar en este ultramarino es como hacerlo en un libro de historia pero con la v
 de poder llevarte artesanías, vinos, pasteles o incluso una olla ferroviaria. Tiene de 
 todo. 
 
-![Bodega subterránea de Fermoselle.](etheria-images/2023/06/bodega-fermoselle.jpg "Bodega subterránea de Fermoselle. © Etheria M.")
+![Bodega subterránea de Fermoselle.](https://fotos.etheriamagazine.com/2023/06/bodega-fermoselle.jpg "Bodega subterránea de Fermoselle. © Etheria M.")
 
 ## 2\. Dos bodegas de Fermoselle
 
@@ -65,7 +65,7 @@ danés que dejó una vida acomodada para instalarse aquí en 2016 e intentar ela
 el campo causan expectación entre los vecinos, pero sus vinos triunfan. La encontrarás 
 en calle Requejo, 170. 
 
-![Bodegas Pastrana, en Fermoselle.](etheria-images/2023/06/bodegas-pastrana.jpg "Bodegas Pastrana, en Fermoselle. © Etheria M.")
+![Bodegas Pastrana, en Fermoselle.](https://fotos.etheriamagazine.com/2023/06/bodegas-pastrana.jpg "Bodegas Pastrana, en Fermoselle. © Etheria M.")
 
 ## 3\. Crucero Ambiental Europarques por los cañones del Duero
 
@@ -81,7 +81,7 @@ regresar a la estación os ofrecerán una degustación de vinos generosos de Opo
 podréis ver cómo nadan las nutrias e incluso comprar algún recuerdo en la tienda, donde 
 existen productos de ambos lados de la frontera. 
 
-![Crucero ambiental Arribes.](etheria-images/2023/06/crucero-ambiental-arribes.jpg "Crucero ambiental Arribes. © Etheria M.")
+![Crucero ambiental Arribes.](https://fotos.etheriamagazine.com/2023/06/crucero-ambiental-arribes.jpg "Crucero ambiental Arribes. © Etheria M.")
 
 ## 4\. Bodega El Hato y el Garabato
 
@@ -95,7 +95,7 @@ algunos ecológicos, y de unos vinos que hablan de ellos mismos y de esta tierra
 Os proponemos reservar una visita a sus instalaciones y hacer una cata dirigida donde no 
 falten _Otro Cuento_, _Sin Blanca_, Ecléctico y _Buena Jera_. 
 
-![Vinos de la bodega El Hato y el Garabato, en la Ruta del Vino de Arribes](etheria-images/2023/06/bodega-hato-garabato.jpg "Vinos de la bodega El Hato y el Garabato. © Etheria M.")
+![Vinos de la bodega El Hato y el Garabato, en la Ruta del Vino de Arribes](https://fotos.etheriamagazine.com/2023/06/bodega-hato-garabato.jpg "Vinos de la bodega El Hato y el Garabato. © Etheria M.")
 
 ## 5\. Presa de la Almendra
 
@@ -112,7 +112,7 @@ Almendra (Salamanca) y a 7 de Cibanal (Zamora) y dispone de varios miradores des
 observarla con calma. Más información en este [artículo de El 
 Español](https://www.elespanol.com/castilla-y-leon/region/salamanca/20220719/salto-villarino-buena-dosis-ingenio-central-espana/687431652_0.html). 
 
-![Presa de la Almendra.](etheria-images/2023/06/presa-almendra.jpg "Presa de la Almendra. © Etheria M.")
+![Presa de la Almendra.](https://fotos.etheriamagazine.com/2023/06/presa-almendra.jpg "Presa de la Almendra. © Etheria M.")
 
 ## 6\. Villarino de los Aires y Ambasaguas (Salamanca)
 
@@ -145,7 +145,7 @@ vinos, desde los crianzas hasta los reservas, algunos con hasta 24 meses en barr
 llamará la atención el vino **Botón Real** reserva que cuenta con algunas ediciones de 
 lujo de las que os enamoraréis al instante. 
 
-![José Luis Flores, al frente de Viña Romana.](etheria-images/2023/06/bodegas-vina-romana-villarinos.jpg "José Luis Flores, al frente de Viña Romana. © Etheria M.")
+![José Luis Flores, al frente de Viña Romana.](https://fotos.etheriamagazine.com/2023/06/bodegas-vina-romana-villarinos.jpg "José Luis Flores, al frente de Viña Romana. © Etheria M.")
 
 ## 8\. Pozo de los Humos (Salamanca)
 
@@ -158,7 +158,7 @@ agua (por lo que se vería de manera cenital) y desde el otro se obtendría una 
 frontal. A nivel fotográfico, os recomendamos la segunda porque el acceso es muy 
 sencillo –el aparcamiento está a diez minutos a pie– y la panorámica es más impactante. 
 
-![Pozo de los Humos en la Ruta del Vino de Arribes de Duero](etheria-images/2023/06/arribes-pozo-humos.jpg "Pozo de los Humos. © Etheria M.")
+![Pozo de los Humos en la Ruta del Vino de Arribes de Duero](https://fotos.etheriamagazine.com/2023/06/arribes-pozo-humos.jpg "Pozo de los Humos. © Etheria M.")
 
 ## 9\. El “Uluru” de Arribes (Salamanca)
 
@@ -172,7 +172,7 @@ suelen aprovechar para ascender y llegar hasta la cima desde donde la panorámic
 entorno es magnífica. En lo más alto se pueden apreciar algunas hendiduras en las que 
 antaño se colocaba la cruz de mayo con la que se bendecían los campos y los pozos. 
 
-![Peña Gorda, en la Ruta del Vino de Arribes.](etheria-images/2023/06/uluru-pena-gorda-arribes.jpg "Peña Gorda, en la Ruta del Vino de Arribes. © Etheria M.")
+![Peña Gorda, en la Ruta del Vino de Arribes.](https://fotos.etheriamagazine.com/2023/06/uluru-pena-gorda-arribes.jpg "Peña Gorda, en la Ruta del Vino de Arribes. © Etheria M.")
 
 ## 10\. Mirador del Fraile en Aldeadávila
 
@@ -192,7 +192,7 @@ condiciones meteorológicas son adversas, se impide el paso y hay que hacerlo a 
 es más de 1,2 kilómetros pero con una pendiente pronunciada. Por si lo dudabas, es 
 gratuito. 
 
-![Mirador del Fraile, desde ese lugar se puede ver la presa de Aldeadávila y los impresionantes cañones del Duero.](etheria-images/2023/06/mirador-fraile-presa-aldeadavila.jpg "Desde el Mirador del Fraile se observa la presa de Aldeadávila y los cañones del río Duero. © Etheria M.")
+![Mirador del Fraile, desde ese lugar se puede ver la presa de Aldeadávila y los impresionantes cañones del Duero.](https://fotos.etheriamagazine.com/2023/06/mirador-fraile-presa-aldeadavila.jpg "Desde el Mirador del Fraile se observa la presa de Aldeadávila y los cañones del río Duero. © Etheria M.")
 
 ## 11\. San Felices de los Gallegos (Salamanca)
 
@@ -215,7 +215,7 @@ Apuntad también la _Ruta de las Fortificaciones_ que llega hasta la señorial C
 Rodrigo y el Fuerte de la Concepción e incluso traspasa la frontera para llegar a la 
 amurallada villa de Almeida y otras aldeas históricas. 
 
-![San Felices de los Gallegos, un bonito pueblo de la Ruta del Vino de Arribes del Duero](etheria-images/2023/06/san-felices-gallegos.jpg "San Felices de los Gallegos. © Etheria M.")
+![San Felices de los Gallegos, un bonito pueblo de la Ruta del Vino de Arribes del Duero](https://fotos.etheriamagazine.com/2023/06/san-felices-gallegos.jpg "San Felices de los Gallegos. © Etheria M.")
 
 ## 12\. Oleoturismo en Ahigal de los Aceiteros (Salamanca)
 
@@ -263,7 +263,7 @@ encantará. También cuenta con otros platos tradicionales. Tel. 679 995 602. Re
 jornadas especiales, como la cena a ciegas, porque están llenas de originalidad. Tel. 
 626 433 509. Plaza Castillo, s/n. Sobradillo. 
 
-![Teresa Cotorruelo en su cocina de Fornillos de Fermoselle](etheria-images/2023/04/teresa-arribes-duero.jpg "Teresa Cotorruelo, propietaria de la mermeladería Oh, saúco!")
+![Teresa Cotorruelo en su cocina de Fornillos de Fermoselle](https://fotos.etheriamagazine.com/2023/04/teresa-arribes-duero.jpg "Teresa Cotorruelo, propietaria de la mermeladería Oh, saúco!")
 
 ### Talleres y recuerdos gastronómicos
 

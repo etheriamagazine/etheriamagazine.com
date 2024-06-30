@@ -1,7 +1,7 @@
 ---
 title: "Anantara New York Palace, tu hotel de lujo en Budapest"
 date: 2022-12-09
-coverImage: etheria-images/2022/12/Anantara-budapest-fachada.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/12/Anantara-budapest-fachada.jpg
 categories: 
   - hoteles
 authors: 
@@ -13,7 +13,7 @@ precioso palacio de la Belle Époque con influencias del Renacimiento italiano, 
 Barroco, el Gótico y el _art nouveau_. Regálate la experiencia de disfrutar de una 
 ciudad llena de estilo alojándote en un hotel de lujo como éste. 
 
-![palacio del Anantara New York Palace de Budapest](etheria-images/2022/12/Anantara-budapest-fachada.jpg "Fachada del Anantara New York Palace de Budapest.")
+![palacio del Anantara New York Palace de Budapest](https://fotos.etheriamagazine.com/2022/12/Anantara-budapest-fachada.jpg "Fachada del Anantara New York Palace de Budapest.")
 
 Dormir en un edificio histórico siempre es un valor añadido en un viaje y si el destino 
 es Budapest, donde la elegancia emana de cada edificio de su casco histórico, te hará 
@@ -35,7 +35,7 @@ categorías para adaptarse a todo tipo de clientes. Todas decoradas en estilo cl
 toques modernos y vanguardistas, y con todas las comodidades de un hotel de cinco 
 estrellas. 
 
-![habitación de lujo del Anantara New York Palace.](etheria-images/2022/12/Anantara-Budapest-habitacion-estandar.jpg "Habitación del Anantara New York Palace.")
+![habitación de lujo del Anantara New York Palace.](https://fotos.etheriamagazine.com/2022/12/Anantara-Budapest-habitacion-estandar.jpg "Habitación del Anantara New York Palace.")
 
 Se puede escoger entre la Habitación Deluxe (estándar, con vistas a la ciudad o con 
 terraza) o la Habitación Premier, las dos categorías con preciosas bañeras de mármol, 
@@ -46,7 +46,7 @@ En cuanto a las suites, las dos **Presidential Suite** son las joyas del hotel. 
 espacios únicos, coloridos y lujosos en cada detalle, como sus lámparas de cristal de 
 Murano o su baño de mármol blanco con una bañera que quita el hipo. 
 
-![columnas y sala del Café New York](etheria-images/2022/12/Anantara-budapest-cafe.jpg "Café New York.")
+![columnas y sala del Café New York](https://fotos.etheriamagazine.com/2022/12/Anantara-budapest-cafe.jpg "Café New York.")
 
 ## Gastronomía en el Anantara New York Palace
 
@@ -59,7 +59,7 @@ de 24 quilates acompañado de postres de chocolate Valrhona por la tarde o una c
 la noche. Mientras tanto, no podrás dejar de admirar sus bonitas columnas, sus frescos y 
 sus lámparas de cristal. 
 
-![Desayuno en el Anantara New York Palace de Budapest.](etheria-images/2022/12/Anantara-Budapest-desayuno.jpg "Desayuno en el Anantara New York Palace de Budapest.")
+![Desayuno en el Anantara New York Palace de Budapest.](https://fotos.etheriamagazine.com/2022/12/Anantara-Budapest-desayuno.jpg "Desayuno en el Anantara New York Palace de Budapest.")
 
 Otro espacio singular, además del precioso lugar donde se sirve el desayuno, es **The 
 Poet Bar**. Sus sillones de cuero y decoración de roble han sido testigos de tertulias 
@@ -79,7 +79,7 @@ relajarse tras los largos paseos que merece esta ciudad. Su piscina climatizada,
 sauna, su baño de vapor y sus cuatro salas de tratamientos conseguirán que salgas como 
 nueva y preparada para volver a recorrer la ciudad. 
 
-![sala de tratamientos del Spa Anantara de budapest](etheria-images/2022/12/Anantara-budapest-spa.jpg "Spa Anantara en el Anantara New York Palace de Budapest.")
+![sala de tratamientos del Spa Anantara de budapest](https://fotos.etheriamagazine.com/2022/12/Anantara-budapest-spa.jpg "Spa Anantara en el Anantara New York Palace de Budapest.")
 
 Además, el hotel dispone de un completo **gimnasio**. Tiene todo tipo de máquinas e 
 instrumentos para mantenerte en forma durante tus vacaciones y puedes contar con un 

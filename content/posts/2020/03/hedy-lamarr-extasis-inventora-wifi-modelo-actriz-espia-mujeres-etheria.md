@@ -1,7 +1,7 @@
 ---
 title: "Hedy Lamarr, inventora del wifi y protagonista del primer orgasmo (fingido) del cine"
 date: 2020-03-30
-coverImage: etheria-images/2020/03/biografia-mujeres-inventoras-Hedy-Lamar.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/03/biografia-mujeres-inventoras-Hedy-Lamar.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -15,7 +15,7 @@ integral de mujer y… algo más: un orgasmo femenino. Aquellas escenas hicieron
 Hedy Lamarr. Todo ello, sin mencionar que fue la inventora de la tecnología wifi que tan 
 básica es hoy día. 
 
-![Hedy Lamarr](etheria-images/2020/03/biografia-mujeres-inventoras-Hedy-Lamar-900x501.jpg "Hedy Lamarr, inventora, modelo, actriz y espía.")
+![Hedy Lamarr](https://fotos.etheriamagazine.com/2020/03/biografia-mujeres-inventoras-Hedy-Lamar-900x501.jpg "Hedy Lamarr, inventora, modelo, actriz y espía.")
 
 Vayamos por partes: Eva Maria Kiesler nació en Viena en 1914. Nacionalidad: austríaca y 
 estadounidense. Altura: 1,70 m. Ocupación: inventora y modelo. Religión: atea. Hasta 
@@ -32,7 +32,7 @@ y logró convencer a su progenitor para matricularse en la escuela del prestigio
 director de escena **Max Reinhardt**, también nacido en la Viena del Imperio 
 Austrohúngaro. 
 
-![Cartel de la película 'Éxtasis' estrenada en 1933.](etheria-images/2020/03/Cartel-pelicula-extasis-1933-900x608.jpg "Cartel de la película 'Éxtasis' estrenada en 1933.")
+![Cartel de la película 'Éxtasis' estrenada en 1933.](https://fotos.etheriamagazine.com/2020/03/Cartel-pelicula-extasis-1933-900x608.jpg "Cartel de la película 'Éxtasis' estrenada en 1933.")
 
 ## Éxtasis: 5 páginas de guión, una hora y media de duración
 
@@ -48,7 +48,7 @@ juego de intenciones que hábilmente nos guía a la metáfora por la cual la muj
 el mando a distancia de las pasiones que, en la película, trasmite al hombre –¿Me 
 seguís?–. 
 
-![hedy lamarr en Extasis](etheria-images/2020/03/fotograma-pelicula-extasis-900x605.jpg "Fotograma de la película © 'Éxtasis'.")
+![hedy lamarr en Extasis](https://fotos.etheriamagazine.com/2020/03/fotograma-pelicula-extasis-900x605.jpg "Fotograma de la película © 'Éxtasis'.")
 
 En la escena clave de la película, Eva controla el timón de sus sentimientos y va, 
 segura de sí misma, al encuentro de su deseo carnal con un hombre. No aparece ningún 
@@ -72,7 +72,7 @@ aquello de: “El comunismo ateo es la causa de que muchos pueblos estén en pel
 caer de nuevo en una barbarie peor que aquella en la que se encontraba el mundo al 
 aparecer el Redentor”– **excomulgó al equipo de producción** al completo. 
 
-![escenas escandalosas pelicula extasis](etheria-images/2020/03/pelicula-extasis-900x460.jpg "Escenas "escandalosas" de © Éxtasis en 1933.")
+![escenas escandalosas pelicula extasis](https://fotos.etheriamagazine.com/2020/03/pelicula-extasis-900x460.jpg "Escenas "escandalosas" de © Éxtasis en 1933.")
 
 Mientras tanto, a todo esto, atraído por esta película, el magnate de la industria 
 armamentística, el nazi **Friedrich Mandl** arregló con sus padres un matrimonio de 
@@ -81,7 +81,7 @@ cinematográfica y cualquier otro tipo de actividad que no fuera la de simple mu
 florero de su marido. Hedy –todavía Eva Maria– calificó posteriormente ese episodio de 
 su vida como de auténtica esclavitud. 
 
-![fotograma extasis pelicula hedy lamarr](etheria-images/2020/03/fotograma-pelicula-extasis-1933-900x506.jpg "Uno de los fotogramas conflictivos de © 'Éxtasis' (1933).")
+![fotograma extasis pelicula hedy lamarr](https://fotos.etheriamagazine.com/2020/03/fotograma-pelicula-extasis-1933-900x506.jpg "Uno de los fotogramas conflictivos de © 'Éxtasis' (1933).")
 
 ## Una huida de cine
 
@@ -97,7 +97,7 @@ actriz. Al pisar tierra americana, ya tenía un contrato de siete años y un nue
 > El nombre Hedy Lamarr está inspirado en la actriz Barbara La Marr, antigua amante de 
 > Louis B. Mayer, que falleció en trágicas circunstancias. 
 
-![hedy lamarr en Sanson y Dalila](etheria-images/2020/03/escena-sanson-dalila-hedy-lamarr-900x655.jpg "Escena de '© Sansón y Dalila', película de 1949.")
+![hedy lamarr en Sanson y Dalila](https://fotos.etheriamagazine.com/2020/03/escena-sanson-dalila-hedy-lamarr-900x655.jpg "Escena de '© Sansón y Dalila', película de 1949.")
 
 Aquí empieza la historia feliz de la Lamarr. Se convirtió en una estrella de cine tras 
 debutar en **Argel** (1938), junto a Charles Boyer. Continuó su carrera cinematográfica 
@@ -117,7 +117,7 @@ Sin embargo, dicen, que su agudeza no funcionó cuando renunció a hacer pelícu
 **_Gaslight_** (en España _Luz que agoniza_) y, sobre todo, la emblemática 
 _**Casablanca**._ Nadie es perfecto. 
 
-![Carteles de películas interpretadas por Hedy Lamarr.](etheria-images/2020/03/carteles-peliculas-hedy-lamarr-900x459.jpg "Carteles de películas interpretadas por Hedy Lamarr.")
+![Carteles de películas interpretadas por Hedy Lamarr.](https://fotos.etheriamagazine.com/2020/03/carteles-peliculas-hedy-lamarr-900x459.jpg "Carteles de películas interpretadas por Hedy Lamarr.")
 
 ## Plan de venganza
 
@@ -128,7 +128,7 @@ los nazis, decidió poner a disposición del gobierno estadounidense toda la inf
 confidencial que poseía sobre las armas alemanas que obtuvo gracias a los contactos de 
 su exmarido (al que odiaba profundamente). 
 
-![Hedy Lamarr, inventora de la tecnologia WiFi](etheria-images/2020/03/Hedy-Lamarr-inventora-WIFI-900x422.jpg "Hedy Lamarr, inventora de la tecnología wifi. ©CC")
+![Hedy Lamarr, inventora de la tecnologia WiFi](https://fotos.etheriamagazine.com/2020/03/Hedy-Lamarr-inventora-WIFI-900x422.jpg "Hedy Lamarr, inventora de la tecnología wifi. ©CC")
 
 En aquel momento de la Segunda Guerra Mundial, los aliados tenían un problema con los 
 submarinos alemanes. Estos dirigían sus torpedos de una forma muy certera e imposible de 
@@ -154,7 +154,7 @@ frecuencia.
 > El día del nacimiento de Hedy Lamarr, 9 de noviembre, se celebra en todo el mundo el Día 
 > del Inventor, en su honor. 
 
-![hedy lamarr, mujer inventora wifi](etheria-images/2020/03/inventora-Hedy-Lamarr-WIFI-900x458.jpg "¿Alguien cree aún que la belleza está reñida con la inteligencia? ©CC")
+![hedy lamarr, mujer inventora wifi](https://fotos.etheriamagazine.com/2020/03/inventora-Hedy-Lamarr-WIFI-900x458.jpg "¿Alguien cree aún que la belleza está reñida con la inteligencia? ©CC")
 
 En 1998 la Electronic Frontier Foundation concedió a Hedy Lamarr y George Antheil el 
 **Premio Pionero**, un reconocimiento oficial por su fundamental contribución en el 

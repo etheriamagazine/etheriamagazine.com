@@ -1,7 +1,7 @@
 ---
 title: "Museo de las Relaciones Rotas, una sorpresa en Zagreb"
 date: 2018-10-27
-coverImage: etheria-images/2018/10/Museo-relaciones-rotas-zagreb-2.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-2.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
@@ -14,7 +14,7 @@ simbolizan la desaparición del amor, el alejamiento en las amistades o la trist
 una pérdida. Es un lugar donde depositar recuerdos dolorosos de lo que pudo ser y no 
 fue. 
 
-![Vestido de fiesta del Museo de las Relaciones rotas](etheria-images/2018/10/Museo-relaciones-rotas-zagreb-2-1024x682.jpg "Vestido de fiesta. © Mare Milin.")
+![Vestido de fiesta del Museo de las Relaciones rotas](https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-2-1024x682.jpg "Vestido de fiesta. © Mare Milin.")
 
 En un paseo por las calles de Zagreb puede pasar desapercibido, no cuenta con grandes 
 rótulos que lo anuncien y la capital croata ofrece otros muchos atractivos para el 
@@ -27,7 +27,7 @@ colección procede de donantes que, al depositar ese objeto que les recuerda a s
 relación, se liberan en parte de un pasado desagradable. Se podría incluso definir como 
 una terapia liberadora para ellos. 
 
-![Galleta de gengibre, 3 volúmenes de Proust y hacha del museo relaciones rotas de Zagreb](etheria-images/2018/10/Museo-relaciones-rotas-zagreb-1024x471.jpg "Galleta de gengibre, 3 volúmenes de Proust y hacha. © Ana Opalic")
+![Galleta de gengibre, 3 volúmenes de Proust y hacha del museo relaciones rotas de Zagreb](https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-1024x471.jpg "Galleta de gengibre, 3 volúmenes de Proust y hacha. © Ana Opalic")
 
 Es un museo para recorrerlo sin prisas, que invita a conocer y empatizar con las mil y 
 una historias que encierran sus paredes, algunas dramáticas y otras románticas pero 
@@ -39,7 +39,7 @@ que **le regaló a su novia un frisbee** por su segundo aniversario, que sus ‘
 acertadas ideas’ iban a ser del dominio público. En la web del museo puedes conocer 
 muchas otras anécdotas curiosas. 
 
-![Esposas  del museo relaciones rotas](etheria-images/2018/10/Museo-relaciones-rotas-zagreb-6-1024x541.jpg "Esposas. © Ana Opalic")
+![Esposas  del museo relaciones rotas](https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-6-1024x541.jpg "Esposas. © Ana Opalic")
 
 ## Quién lo ha creado y para qué
 
@@ -52,7 +52,7 @@ procede de la noción de que los objetos integran memorias y emociones” y pret
 “un espacio de memoria segura o recuerdo protegido para preservar el patrimonio material 
 e inmaterial de esas relaciones rotas”. 
 
-![zapato en el Museo de las Relaciones rotas](etheria-images/2018/10/Museo-relaciones-rotas-zagreb-5-1024x683.jpg "Este stiletto negro se corresponde con una dura historia de separación, prostitución, reencuentros... © Natasa Njegovanovic")
+![zapato en el Museo de las Relaciones rotas](https://fotos.etheriamagazine.com/2018/10/Museo-relaciones-rotas-zagreb-5-1024x683.jpg "Este stiletto negro se corresponde con una dura historia de separación, prostitución, reencuentros... © Natasa Njegovanovic")
 
 Este proyecto está dividido en tres partes: **‘Objetos y documentos’**, con sus mensajes 
 particulares que se exponen de forma física; **‘Recuerdos virtuales’**, donde los 

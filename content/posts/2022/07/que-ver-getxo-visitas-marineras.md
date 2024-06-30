@@ -1,7 +1,7 @@
 ---
 title: "Getxo, la escapada marinera con mejor rollo de Bizkaia"
 date: 2022-07-20
-coverImage: etheria-images/2022/07/Puerto-Viejo-de-Algorta.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/07/Puerto-Viejo-de-Algorta.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Respirar mirando al norte nos hace pensar en Getxo, una escapada perfecta desde Bilbao con amigas y un mirador privilegiado de la entrega a mar abierto de la ría del Nervión. Frente al puerto comercial más dinámico del Cantábrico se abre el estuario o Abra de Bilbao desvelando su ubicación y la conexión con la buena vida. Su orilla ya se puso de moda con los “baños de mar” hace siglo y medio, y hoy día sigue siendo una excepcional propuesta. Te contamos 10 imprescindibles en Getxo para tu próximo viaje.
 
-![Puerto Viejo de Algorta, uno de los imprescindibles de Getxo](etheria-images/2022/07/Puerto-Viejo-de-Algorta-749x1024.jpg "Puerto Viejo de Algorta.")
+![Puerto Viejo de Algorta, uno de los imprescindibles de Getxo](https://fotos.etheriamagazine.com/2022/07/Puerto-Viejo-de-Algorta-749x1024.jpg "Puerto Viejo de Algorta.")
 
 Es algo más que respirar aire puro. Alegría, vitalidad, luz… llegar a Getxo es 
 contagiarse de las ganas de vivir de su gente durante todo el año. Aunque en verano, 
@@ -25,7 +25,7 @@ señalando que hemos llegado a buen puerto. A partir de aquí, sólo tendrás qu
 nuestras diez sugerencias para que tu arribada te haga sentir bien nada más echar pie a 
 tierra. 
 
-![Barcos en el Puerto deportivo de Getxo.](etheria-images/2022/07/Puerto-deportivo-Getxo.jpg "Puerto deportivo de Getxo.")
+![Barcos en el Puerto deportivo de Getxo.](https://fotos.etheriamagazine.com/2022/07/Puerto-deportivo-Getxo.jpg "Puerto deportivo de Getxo.")
 
 ## 10 visitas imprescindibles en Getxo con vistas al Cantábrico
 
@@ -46,7 +46,7 @@ navegación a vela? En la web de Getxo Turismo encontraréis numerosas [propuest
 náuticas](https://www.getxo.eus/es/turismo/que-hacer/Getxo-costa) para disfrutar de la 
 costa. 
 
-![Edorta Arostegi, propietario de Marmitako Sailing.](etheria-images/2022/07/navegar-getxo-Marmitako-Sailing.jpg "Edorta Arostegi, propietario de Marmitako Sailing.")
+![Edorta Arostegi, propietario de Marmitako Sailing.](https://fotos.etheriamagazine.com/2022/07/navegar-getxo-Marmitako-Sailing.jpg "Edorta Arostegi, propietario de Marmitako Sailing.")
 
 ### 2\. Puente Bizkaia, un coloso industrial
 
@@ -67,7 +67,7 @@ unos 0,50 €.
 ?El 13 de julio fue su aniversario mundial pues cumplió 16 años desde que la Unesco lo 
 declaró Patrimonio de la Humanidad. 
 
-![Puente Bizkaia, una visita imprescindible en Getxo](etheria-images/2022/07/Puente-Bizkaia-getxo.jpg "Puente Bizkaia, uno de los imprescindibles de Getxo.")
+![Puente Bizkaia, una visita imprescindible en Getxo](https://fotos.etheriamagazine.com/2022/07/Puente-Bizkaia-getxo.jpg "Puente Bizkaia, uno de los imprescindibles de Getxo.")
 
 ### 3\. Homenaje frente al mar
 
@@ -82,7 +82,7 @@ desarrollo industrial. A la vez conservó el municipio de Getxo como orilla recr
 Para comprobar esta faceta no hay más que recorrer a pie Las Arenas y, como un vecino 
 más, disfrutar del paseo con vistas y ambiente marino. 
 
-![Monumento a Churruca y El hombre y el mar, en Las Arenas.](etheria-images/2022/07/Monumento-a-Churruca-getxo.jpg "Monumento a Churruca y El hombre y el mar, en Las Arenas.")
+![Monumento a Churruca y El hombre y el mar, en Las Arenas.](https://fotos.etheriamagazine.com/2022/07/Monumento-a-Churruca-getxo.jpg "Monumento a Churruca y El hombre y el mar, en Las Arenas.")
 
 ### 4\. Baños de mar, la mar de bien
 
@@ -99,7 +99,7 @@ en el paseo algunos notables edificios y palacetes, que han mantenido la estilos
 arquitectura de las viviendas estivales de aquellos primeros aficionados a la 
 talasoterapia, entre un animado ambiente comercial. 
 
-![Practicando vela frente a la avenida de las grandes villas de Getxo (Izq.) Casa Aitzgoyen (Dcha.)](etheria-images/2022/07/vela-villas-de-Getxo.jpg "Practicando vela frente a la avenida de las grandes villas de Getxo (Izq.) Casa Aitzgoyen (Dcha.)")
+![Practicando vela frente a la avenida de las grandes villas de Getxo (Izq.) Casa Aitzgoyen (Dcha.)](https://fotos.etheriamagazine.com/2022/07/vela-villas-de-Getxo.jpg "Practicando vela frente a la avenida de las grandes villas de Getxo (Izq.) Casa Aitzgoyen (Dcha.)")
 
 ### 5\. Arquitectura viva en Getxo
 
@@ -116,7 +116,7 @@ Al final del muelle asoma el **faro de Arriluze**, que es más bien una baliza q
 hace 119 años, indica el paso por las aguas más seguras, situadas a babor de dicha torre 
 de faro. 
 
-![Faro casa salvamento marino en el Muelle Arriluze](etheria-images/2022/07/Faro-casa-salvamento-getxo-683x1024.jpg "Faro casa salvamento marino en el Muelle Arriluze, en Getxo.")
+![Faro casa salvamento marino en el Muelle Arriluze](https://fotos.etheriamagazine.com/2022/07/Faro-casa-salvamento-getxo-683x1024.jpg "Faro casa salvamento marino en el Muelle Arriluze, en Getxo.")
 
 #### Galerías de Punta Begoña y Fuerte de La Galea
 
@@ -134,7 +134,7 @@ originariamente estuviera el faro de La Galea. Es donde asoma unas evocadoras ru
 que fuera **fuerte de La Galea**. Esta construcción militar con foso fue levantada hace 
 250 años para defensa de la navegación comercial por la ría. 
 
-![Playa de Ereaga, en Getxo, y antiguo balneario Igaretxe convertido en hotel.](etheria-images/2022/07/Playa-de-Ereaga-getxo.jpg "Playa de Ereaga y antiguo balneario Igaretxe convertido en hotel.")
+![Playa de Ereaga, en Getxo, y antiguo balneario Igaretxe convertido en hotel.](https://fotos.etheriamagazine.com/2022/07/Playa-de-Ereaga-getxo.jpg "Playa de Ereaga y antiguo balneario Igaretxe convertido en hotel.")
 
 ### 6\. A la playa de Getxo en metro desde Bilbao
 
@@ -145,7 +145,7 @@ de **playa de Las Arenas**. El disfrute del mar se desplazó a la **playa de Ere
 fina arena y protegida del viento noroeste, es donde el **balneario Igaretxe** se 
 convirtió en el epicentro del turismo de baños de mar. 
 
-![Playa de Arrigunaga y acantilados en Getxo](etheria-images/2022/07/Playa-de-Arrigunaga-getxo-670x1024.jpg "Playa de Arrigunaga, en Getxo.")
+![Playa de Arrigunaga y acantilados en Getxo](https://fotos.etheriamagazine.com/2022/07/Playa-de-Arrigunaga-getxo-670x1024.jpg "Playa de Arrigunaga, en Getxo.")
 
 En la actualidad, la **playa de Las Arenas sigue siendo un destino familiar** y 
 accesible al que puedes llegar incluso en metro. Los aficionados al _surf_ y al 
@@ -158,7 +158,7 @@ para encontrar la idónea según tus necesidades.
 que invita al baño y al paseo. En su zona de rocas, al pie del cantil, conseguirás tu 
 mejor selfi. 
 
-![Dos personas en bicicleta en el Paseo de La Galea en el](etheria-images/2022/07/Paseo-Galea-Sendero-del-flysch.jpg "Paseo de La Galea, un sendero sobre el flysch.")
+![Dos personas en bicicleta en el Paseo de La Galea en el](https://fotos.etheriamagazine.com/2022/07/Paseo-Galea-Sendero-del-flysch.jpg "Paseo de La Galea, un sendero sobre el flysch.")
 
 ### 7\. Enamoradas del puertito
 
@@ -180,7 +180,7 @@ permitieran identificar la peligrosa barra de arena de Portugalete. Pescadores q
 convertían en pilotos indispensables para que los grandes barcos llegaran a puerto con 
 éxito. 
 
-![Susana y Carlos propietarios del restaurante Goiezti. Sireno en el muelle. Plaza del Puerto Viejo de Algorta. Pescado fresco.](etheria-images/2022/07/restaurantes-pescado-puerto-getxo.jpg "Susana y Carlos, propietarios del restaurante Goiezti. Sireno en el Puerto Viejo. Plaza del Puerto Viejo de Algorta. Pescado fresco. (De Izq. a Dcha. y de Arr. a Ab.)")
+![Susana y Carlos propietarios del restaurante Goiezti. Sireno en el muelle. Plaza del Puerto Viejo de Algorta. Pescado fresco.](https://fotos.etheriamagazine.com/2022/07/restaurantes-pescado-puerto-getxo.jpg "Susana y Carlos, propietarios del restaurante Goiezti. Sireno en el Puerto Viejo. Plaza del Puerto Viejo de Algorta. Pescado fresco. (De Izq. a Dcha. y de Arr. a Ab.)")
 
 ### 8\. Mujeres de mar, una ruta autoguiada
 
@@ -203,7 +203,7 @@ Junto a los pocos restos que quedan de la ermita de San Nicolás de Bari, apenas
 fue reconvertido en escuela náutica ya en el siglo XIX y luego en "casa vecinal" pero su 
 ubicación sigue siendo el mejor reclamo. 
 
-![Flysch de Bizkaia, una visita imprescindible desde Getxo](etheria-images/2022/07/getxo-flysch-Bizkaia.jpg "Flysch de Bizkaia.")
+![Flysch de Bizkaia, una visita imprescindible desde Getxo](https://fotos.etheriamagazine.com/2022/07/getxo-flysch-Bizkaia.jpg "Flysch de Bizkaia.")
 
 ### 9\. El flysch de Bizkaia, un libro abierto
 
@@ -218,7 +218,7 @@ mar lo entenderás y casi sentirás que los estratos aún siguen vivos bajo tus 
 pocos lugares del mundo se puede contemplar la historia de la Tierra tan fácilmente y 
 además disfrutando de **uno de los paseos más espectaculares de Euskadi**. 
 
-![Surfista en la playa de Aizkorri, en Getxo.](etheria-images/2022/07/Surf-en-Aizkorri-getxo.jpg "Surf en la playa de Aizkorri, en Getxo.")
+![Surfista en la playa de Aizkorri, en Getxo.](https://fotos.etheriamagazine.com/2022/07/Surf-en-Aizkorri-getxo.jpg "Surf en la playa de Aizkorri, en Getxo.")
 
 ### 10\. Playa de Azkorri, un baño salvaje en Getxo
 
@@ -231,7 +231,7 @@ inferior. Una vez abajo, es momento de dejarte mecer por el oleaje, disfrutar en
 dunas, rocas y hasta césped para tumbarte al sol. Es frecuentada por **surfistas** que 
 se miden con su bravo oleaje que llega arrollador desde mar abierto. 
 
-![Bajada de los acantilados de Gorrondatxe hacia la playa de Azkorri.](etheria-images/2022/07/Bajada-Gorrondatxe-getxo.jpg "Bajada de los acantilados de Gorrondatxe hacia la playa de Azkorri.")
+![Bajada de los acantilados de Gorrondatxe hacia la playa de Azkorri.](https://fotos.etheriamagazine.com/2022/07/Bajada-Gorrondatxe-getxo.jpg "Bajada de los acantilados de Gorrondatxe hacia la playa de Azkorri.")
 
 Paseándola descubrirás un **clavo de oro** en la roca que indica que estás en uno de los 
 lugares del mundo con mayor valor en sus estratos geológicos. Las rocas que ves son 
@@ -244,9 +244,9 @@ mejor lugar del municipio para disfrutar tu momento _chill out_.
 Si necesitas más información para organizar tu viaje, consulta la completa web de [Turismo 
 de Getxo](https://www.getxo.eus/es/turismo/que-hacer). 
 
-![Logotipos de Gobierno Vasco.](etheria-images/2022/07/colaboradores-gobierno-vasco.jpg)
+![Logotipos de Gobierno Vasco.](https://fotos.etheriamagazine.com/2022/07/colaboradores-gobierno-vasco.jpg)
 
-![Atardecer desde La Galea, en Getxo](etheria-images/2022/07/Atardecer-La-Galea-getxo.jpg "Atardecer desde La Galea.")
+![Atardecer desde La Galea, en Getxo](https://fotos.etheriamagazine.com/2022/07/Atardecer-La-Galea-getxo.jpg "Atardecer desde La Galea.")
 
 ### También te puede interesar...
 

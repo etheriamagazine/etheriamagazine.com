@@ -1,7 +1,7 @@
 ---
 title: "Un fin de semana en la romántica Salzburgo invernal"
 date: 2019-12-02
-coverImage: etheria-images/2019/11/Salzburgo-Hohen-.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/11/Salzburgo-Hohen-.jpg
 categories: 
   - viajes-48-horas
   - viajes-romanticos
@@ -16,7 +16,7 @@ entremezclado con sus ya célebres atractivos culturales, arquitectónicos y nat
 configuran una escapada de fin de semana a Salzburgo en invierno perfecta para disfrutar 
 en pareja. 
 
-![Mercado de Navidad en Salzburgo](etheria-images/2019/11/Salzburgo-mercadillo-navidad-catedral-900x600.jpg "Mercadillo Christkindlmarkt junto a la catedral. © Österreich Werbung/ Bryan Reinhart")
+![Mercado de Navidad en Salzburgo](https://fotos.etheriamagazine.com/2019/11/Salzburgo-mercadillo-navidad-catedral-900x600.jpg "Mercadillo Christkindlmarkt junto a la catedral. © Österreich Werbung/ Bryan Reinhart")
 
 Visitar Salzburgo es como darse una vuelta por un gran museo al aire libre; es admirar 
 la increíble capacidad del hombre de engrandecer su ya de por si majestuoso paisaje 
@@ -29,7 +29,7 @@ Si viajas en verano no puedes perderte su célebre **Festival de Salzburgo**. Es
 de ópera, conciertos y teatro brilla también con exposiciones y eventos especiales 
 repartidos por todo el casco histórico. 
 
-![Mercadillo de Navidad en Salzburgo en invierno](etheria-images/2019/11/Salzburgo-mercadillo-900x480.jpg "Mercadillo en Salzburgo. © Tourismus Salzburg GmbH/Günter Breitegger")
+![Mercadillo de Navidad en Salzburgo en invierno](https://fotos.etheriamagazine.com/2019/11/Salzburgo-mercadillo-900x480.jpg "Mercadillo en Salzburgo. © Tourismus Salzburg GmbH/Günter Breitegger")
 
 Pero aún queda tiempo para eso. Primero hay que dar paso a los primeros copos de nieve y 
 a la magia que llega con ellos, porque en Salzburgo, las semanas de Adviento y la 
@@ -48,7 +48,7 @@ asadas y a vino caliente. El más romántico es el de la **Plaza Mirabell**; peq
 íntimo, está situado junto a los impresionantes jardines donde se rodó alguna que otra 
 escena de la película _Sonrisas y Lágrimas_. 
 
-![Mercadillo de Navidad en la plaza de la catedral](etheria-images/2019/11/Salzburgo-mercadillo-catedral-900x600.jpg "Mercadillo frente a la catedral. © Tourismus Salzburg GmbH/Wildbild")
+![Mercadillo de Navidad en la plaza de la catedral](https://fotos.etheriamagazine.com/2019/11/Salzburgo-mercadillo-catedral-900x600.jpg "Mercadillo frente a la catedral. © Tourismus Salzburg GmbH/Wildbild")
 
 > Si quieres disfrutar de la magia del Adviento con un calendario gigante y un bosque de 
 > cuento decorado con 13.000 adornos navideños de color rojo, debes dirigirte al sur de la 
@@ -62,7 +62,7 @@ ofrecen productos naturales, textiles, artesanías o irresistibles dulces, se su
 eventos culturales como lecturas navideñas para niños, desfiles tradicionales, 
 conciertos corales o visitas guiadas de Navidad, dejando una atmósfera única. 
 
-![Adornos navideños en Salzburgo](etheria-images/2019/11/Salzburgo-detalles-mercadillo-900x673.jpg "Detalles de los mercadillos de Salzburgo. © Österreich Werbung/Lisa Eiersebner")
+![Adornos navideños en Salzburgo](https://fotos.etheriamagazine.com/2019/11/Salzburgo-detalles-mercadillo-900x673.jpg "Detalles de los mercadillos de Salzburgo. © Österreich Werbung/Lisa Eiersebner")
 
 ## Paseando por el casco histórico
 
@@ -73,7 +73,7 @@ callejuelas que se abren en grandes plazas, se sucede un rosario de imponentes e
 construidos en tiempos de príncipes-arzobispos, cuya riqueza provenía de la industria de 
 la sal y de la extracción de piedras preciosas. 
 
-![Nieve en los tejados de Salzburgo](etheria-images/2019/11/Salzburgo-catedral-900x599.jpg "Catedral de Salzburgo. © Österreich Werbung/Lisa Eiersebner")
+![Nieve en los tejados de Salzburgo](https://fotos.etheriamagazine.com/2019/11/Salzburgo-catedral-900x599.jpg "Catedral de Salzburgo. © Österreich Werbung/Lisa Eiersebner")
 
 Las mañanas son para recorrer estas joyas. La majestuosa **Catedral** de Salzburgo de 
 estilo barroco y donde fue bautizado Wolfgang Amadeus Mozart; la **abadía de San 
@@ -83,7 +83,7 @@ Dietrich von Ratineau para su amante, la plebeya Salomé Alt, son algunas de los
 imprescindibles de la ciudad. Tanto como pasear por los jardines del mencionado palacio, 
 que en cualquier época del año constituyen un paseo híper-romántico. 
 
-![Palacio Mirabell](etheria-images/2019/11/Salzburgo-jardines-mirabell-900x599.jpg "Jardines del palacio Mirabell. © Tourismus Salzburg GmbH/ Günter Breitegger")
+![Palacio Mirabell](https://fotos.etheriamagazine.com/2019/11/Salzburgo-jardines-mirabell-900x599.jpg "Jardines del palacio Mirabell. © Tourismus Salzburg GmbH/ Günter Breitegger")
 
 ### Degusta Salzburgo
 
@@ -97,7 +97,7 @@ piedra del hotel y con mobiliario del siglo XVIII y recuerdos de la vida del gen
 musical, pásate por la plaza Alter Markt y toma una tarta Sacher en el legendario y 
 antiquísimo **Café Tomaselli**, abierto desde 1703. 
 
-![Restaurantes en Salzburgo](etheria-images/2019/11/Salzburgo-cafe-dulces-900x674.jpg "Preparación del Salzburger Nockerl. © ÖW/AMA/Christian Kremser, y Café Tomaselli. © Österreich Werbung/ Cătălin Georgescu")
+![Restaurantes en Salzburgo](https://fotos.etheriamagazine.com/2019/11/Salzburgo-cafe-dulces-900x674.jpg "Preparación del Salzburger Nockerl. © ÖW/AMA/Christian Kremser, y Café Tomaselli. © Österreich Werbung/ Cătălin Georgescu")
 
 Además de una exquisita cocina, con aires italianos y orientales y en la que destacan el 
 _Wienerschnitzel_ –un filete de ternera empanado y acompañado de patatas cocidas y salsa 
@@ -116,7 +116,7 @@ Hohensalzburg**, el emblema de la ciudad. Construida hacia el siglo XI por orden
 arzobispo Gebhard, es considerada la fortaleza de la Edad Media mejor conservada de 
 Europa Central. 
 
-![Panorámica de Salzburgo en invierno](etheria-images/2019/11/Salzburgo-Hohen--900x450.jpg "Vista de Salzburgo con la fortaleza Hohensalzburg al fondo. © Tourismus Salzburg GmbH/Günter Breitegger")
+![Panorámica de Salzburgo en invierno](https://fotos.etheriamagazine.com/2019/11/Salzburgo-Hohen--900x450.jpg "Vista de Salzburgo con la fortaleza Hohensalzburg al fondo. © Tourismus Salzburg GmbH/Günter Breitegger")
 
 Dentro de sus muros hay varios museos que invitan a un viaje al pasado y vestigios de la 
 ciudadela que se construyó como refugio de la población en caso de ataque. Desde las 
@@ -124,7 +124,7 @@ alturas del cerro en el que se erigió –hay un funicular para subir–, puede 
 unas de las panorámicas más espectaculares de la ciudad, además de las montañas que la 
 cobijan, como la mítica Untersberg, con casi 2.000 metros de altura. 
 
-![Nieve en Salzburgo desde el monte Mönchsberg.](etheria-images/2019/11/Salzburgo-monte-capuchinos-900x599.jpg "Vista de Salzburgo desde el monte Mönchsberg. © Tourismus Salzburg GmbH")
+![Nieve en Salzburgo desde el monte Mönchsberg.](https://fotos.etheriamagazine.com/2019/11/Salzburgo-monte-capuchinos-900x599.jpg "Vista de Salzburgo desde el monte Mönchsberg. © Tourismus Salzburg GmbH")
 
 El **Monte de los Capuchinos** es otra colina que no debes perderte. Desde el llamado 
 "púlpito", del monasterio de la misma orden, las vistas sobre los tejados de Salzburgo, 
@@ -143,7 +143,7 @@ museos, festivales e incluso con su propia fundación; hay conciertos y represen
 de obras todo el año, pero el culmen del Mozartismo llega al comienzo del año, con la 
 **Semana de Mozart**. 
 
-![Dulces Mozart en Salzburgo](etheria-images/2019/11/Salzburgo-Mozart-900x317.jpg "Monumento de Mozart en Salzburgo y dulces inspirados en el músico. © Tourismus Salzburg GmbH.")
+![Dulces Mozart en Salzburgo](https://fotos.etheriamagazine.com/2019/11/Salzburgo-Mozart-900x317.jpg "Monumento de Mozart en Salzburgo y dulces inspirados en el músico. © Tourismus Salzburg GmbH.")
 
 La ciudad entera se vuelca en esta celebración que en 2020 –de 23 de enero al 2 de 
 febrero– explorará la música que Mozart compuso para viento y metal, ofreciendo tres 

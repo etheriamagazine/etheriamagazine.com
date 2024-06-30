@@ -1,7 +1,7 @@
 ---
 title: "Aventura en Belmonte para toda la familia"
 date: 2019-09-09
-coverImage: etheria-images/2019/08/viaje-etheria-castillo-de-Belmonte-combate-medieval.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/08/viaje-etheria-castillo-de-Belmonte-combate-medieval.jpg
 categories: 
   - viajes-48-horas
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ las llanuras de la comarca castellano-manchega como lo hiciera Don Quijote, es d
 sin pisar el asfalto. Te contamos qué ver en Belmonte, un viaje apropiado tanto para 
 hacerlo con amigos como en familia. Tú eliges. 
 
-![Castillo de Belmonte al anochecer](etheria-images/2019/08/viaje-etheria-Castillo-de-Belmonte.jpg "Castillo de Belmonte. ©P.Grifol")
+![Castillo de Belmonte al anochecer](https://fotos.etheriamagazine.com/2019/08/viaje-etheria-Castillo-de-Belmonte.jpg "Castillo de Belmonte. ©P.Grifol")
 
 Considerado como **uno de los pueblos más bonitos de Castilla-La Mancha** y catalogado 
 Conjunto Histórico Artístico, la villa conquense de Belmonte empieza a destacar como 
@@ -28,7 +28,7 @@ pasado por las pertinentes etapas de monasterio, cuartel y cárcel, es larga y
 complicada; así que la resumiremos diciendo que su estilo es gótico-mudéjar, que su 
 construcción se inició en 1456 y que no se sabe cuándo finalizó. 
 
-![Vistas desde el castillo de Belmonte](etheria-images/2019/08/etheria-magazine-vistas-Castillo-de-Belmonte.jpg "Vistas de Belmonte desde su castillo. ©P.Grifol")
+![Vistas desde el castillo de Belmonte](https://fotos.etheriamagazine.com/2019/08/etheria-magazine-vistas-Castillo-de-Belmonte.jpg "Vistas de Belmonte desde su castillo. ©P.Grifol")
 
 Lo que nos conviene saber cómo visitantes es que después de muchos desafortunados 
 sucesos a través de siglos, la última fase de su reconstrucción se acabó en 2016. El 
@@ -37,7 +37,7 @@ Falcó**, que junto con el empeño del pueblo de Belmonte (hablar de dinero es d
 gusto) ha conseguido su rehabilitación, y ahora se encuentra en perfecto estado de 
 visita. 
 
-![Monumental aljibe del castillo de Belmonte.](etheria-images/2019/08/viaje-etheria-Castillo-de-Belmonte-Aljibe.jpg "Monumental aljibe del castillo de Belmonte. ©P.Grifol")
+![Monumental aljibe del castillo de Belmonte.](https://fotos.etheriamagazine.com/2019/08/viaje-etheria-Castillo-de-Belmonte-Aljibe.jpg "Monumental aljibe del castillo de Belmonte. ©P.Grifol")
 
 ## Visitas organizadas
 
@@ -52,7 +52,7 @@ es uno de los castillos mejor conservados y más importantes de España.
 > de Francia por su matrimonio con Napoleón III, empezó a restaurarlo y lo transformó en 
 > su residencia. 
 
-![Torneo medieval en Belmonte.](etheria-images/2019/08/viaje-etheria-castillo-de-Belmonte-combate-medieval.jpg "Torneo medieval en Belmonte. ©Castillo de Belmonte")
+![Torneo medieval en Belmonte.](https://fotos.etheriamagazine.com/2019/08/viaje-etheria-castillo-de-Belmonte-combate-medieval.jpg "Torneo medieval en Belmonte. ©Castillo de Belmonte")
 
 ## Combates medievales
 
@@ -62,7 +62,7 @@ los artefactos lanzapiedras del Medievo. El recinto, inaugurado en 2018, tiene 4
 máquinas de asedio a escala real, organizadas en cuatro sectores temáticos: Mundo 
 Cristiano, Mundo Musulmán, Mundo Oriental y Máquinas del Renacimiento. 
 
-![trebuchet park, castillo belmonte](etheria-images/2019/08/viaje-etheria-belmonte-trebuchet-park.jpg "Trebuchet Park. ©P.Grifol")
+![trebuchet park, castillo belmonte](https://fotos.etheriamagazine.com/2019/08/viaje-etheria-belmonte-trebuchet-park.jpg "Trebuchet Park. ©P.Grifol")
 
 Son piezas construidas bajo las directrices de **Rubén Sáez** (Historiador y Premio 
 Nacional de Defensa 2004), que recrean las auténticas piezas de los siglos V a XV. 
@@ -76,7 +76,7 @@ niños… o casi más de sus padres.
 Junto al parque hay una gran explanada habilitada para celebrar combates y torneos 
 medievales –allí se rodó la película El Cid–. 
 
-![Luchador con atuendo medieval combatiendo en Belmonte](etheria-images/2019/08/Combate-Medieval-belmonte-fechas.jpg "El combate medieval es un deporte federado. ©P.Grifol")
+![Luchador con atuendo medieval combatiendo en Belmonte](https://fotos.etheriamagazine.com/2019/08/Combate-Medieval-belmonte-fechas.jpg "El combate medieval es un deporte federado. ©P.Grifol")
 
 Los combates se pueden confundir con una teatralización, un juego o una batalla campal, 
 pero no es ninguna de estas tres cosas, sino que se trata de **un deporte federado** que 
@@ -94,7 +94,7 @@ dispone de **una halconera propia**. Conocer más sobre la educación ambiental 
 de la observación de las técnicas de vuelo y comportamiento de las aves rapaces resulta 
 una actividad muy interesante. 
 
-![Cetrería en el castillo de Belmonte.](etheria-images/2019/08/viaje-etheria-castillo-belmonte-cetreria.jpg "Cetrería en el castillo de Belmonte. ©Castillo de Belmonte")
+![Cetrería en el castillo de Belmonte.](https://fotos.etheriamagazine.com/2019/08/viaje-etheria-castillo-belmonte-cetreria.jpg "Cetrería en el castillo de Belmonte. ©Castillo de Belmonte")
 
 ## En bici, en quad o en buggy
 
@@ -105,7 +105,7 @@ sumamos la emoción que supone conducir un vehículo _off-road_, podemos pensar 
 cóctel muy atractivo que sumerge al visitante en una experiencia difícil de describir si 
 no la vives directamente allí. 
 
-![Buggy para excursiones en Belmonte](etheria-images/2019/08/etheria-magazine-Belmonte-Aventura.jpg "Excursión con Belmonte Aventura. ©P.Grifol")
+![Buggy para excursiones en Belmonte](https://fotos.etheriamagazine.com/2019/08/etheria-magazine-Belmonte-Aventura.jpg "Excursión con Belmonte Aventura. ©P.Grifol")
 
 Desde Belmonte podemos hacer **excursiones** con el aliciente de conducir un quad, un 
 buggy o recorrer en bicicleta de montaña las extensas llanuras de la comarca 
@@ -117,7 +117,7 @@ dentro una bodega en una visita guiada con cata comentada, son actividades susce
 de poder ser programadas si nos ponemos en manos de Antonio Abad, artífice y promotor de 
 la seductora idea (Tel. 670666744 y www.belmonteaventura.com) 
 
-![Quads en Belmonte](etheria-images/2019/08/etheria-magazine-Antonio-Abad-director-Belmonte-Aventura-.jpg "Antonio Abad con un grupo de Belmonte Aventura. ©P.Grifol")
+![Quads en Belmonte](https://fotos.etheriamagazine.com/2019/08/etheria-magazine-Antonio-Abad-director-Belmonte-Aventura-.jpg "Antonio Abad con un grupo de Belmonte Aventura. ©P.Grifol")
 
 ## …Y no te olvides de la Colegiata
 
@@ -129,7 +129,7 @@ primer coro historiado de España que tallaron en madera de nogal los maestros f
 Egas y Hanequín de Bruselas. Sobre la silla presidencial cuelga el lienzo del ‘Divino’, 
 de Luis Morales. 
 
-![Colegiata de San Bartolomé e imagen del Cristo de la columna.](etheria-images/2019/08/viaje-etheria-colegiata-de-San-Bartolome.jpg "Colegiata de San Bartolomé e imagen del Cristo de la columna. ©P.Grifol")
+![Colegiata de San Bartolomé e imagen del Cristo de la columna.](https://fotos.etheriamagazine.com/2019/08/viaje-etheria-colegiata-de-San-Bartolome.jpg "Colegiata de San Bartolomé e imagen del Cristo de la columna. ©P.Grifol")
 
 En su pila bautismal fue bautizado el poeta **fray Luis de León**; y sus retablos tienen 
 joyas escultóricas como ‘Jesús atado a la columna’ del maestro Salzillo y ‘Maria 
@@ -150,7 +150,7 @@ esplendente Sofía Loren en el papel de Doña Jimena ¡que no envejecía nunca!.
 toca el rol del mismísimo Cid Campeador (Charlton Heston), sueña que cabalgas en la 
 explanada del castillo montado en su legendario Babieca. Échale fantasía y valor. 
 
-![Foto de archivo del rodaje de El Cid en Belmonte.](etheria-images/2019/08/Rodaje-de-El-CID-en-Belmonte.jpg "Foto de archivo del rodaje de El Cid en Belmonte.")
+![Foto de archivo del rodaje de El Cid en Belmonte.](https://fotos.etheriamagazine.com/2019/08/Rodaje-de-El-CID-en-Belmonte.jpg "Foto de archivo del rodaje de El Cid en Belmonte.")
 
 En ese mismo lugar, con el castillo de fondo, se rodó toda una saga de películas sobre 
 el noble castellano Rodrigo Díaz de Vivar: _Las hijas del Cid,_ _La espada del Cid_, 
@@ -181,7 +181,7 @@ arquitectura, el **palacio del Infante Don Juan Manuel Hotel SPA** cuenta con
 habitaciones dotadas con todas las comodidades de un 4 estrellas, además de un 
 recomendable restaurante –**Los Alarifes**– y un spa. 
 
-![Hall del Hotel Palacio del Infante Don Juan Manuel.](etheria-images/2019/08/etheria-magazine-hotel-Palacio-del-Infante-Don-Juan-Manuel.jpg "Hotel Palacio del Infante Don Juan Manuel.")
+![Hall del Hotel Palacio del Infante Don Juan Manuel.](https://fotos.etheriamagazine.com/2019/08/etheria-magazine-hotel-Palacio-del-Infante-Don-Juan-Manuel.jpg "Hotel Palacio del Infante Don Juan Manuel.")
 
 ### Dónde comer
 
@@ -190,7 +190,7 @@ tradicionales como Morteruelo, Ajo Arriero, Perdiz escabechada y Gachas… pero 
 comas gachas si ha muerto algún vecino del pueblo. Se dice que si alguien la ha 
 ‘palmao’, ese día mete el dedo en el puchero. La tradición es la tradición. 
 
-![Perdiz escabechada del restaurante La Muralla.](etheria-images/2019/08/etheria-magazine-Restaurante-La-Muralla.jpg "Perdiz escabechada del restaurante La Muralla.")
+![Perdiz escabechada del restaurante La Muralla.](https://fotos.etheriamagazine.com/2019/08/etheria-magazine-Restaurante-La-Muralla.jpg "Perdiz escabechada del restaurante La Muralla.")
 
 ### Enoturismo
 
@@ -200,7 +200,7 @@ en una placentera jornada de enoturismo. Cultiva varias variedades, pero con la 
 Merlot ha conseguido uno de sus productos estrella: **Fata Morgana**, un vino dulce 
 natural envejecido entre 12 y 14 meses en fudres franceses. Enhorabuena. 
 
-![Carmen Fernández Montes, presidenta de bodegas MontReaga.](etheria-images/2019/08/etheria-magazine-Carmen-Fernandez-Montes-MontReaga.jpg "Carmen Fernández Montes, presidenta de bodegas MontReaga.")
+![Carmen Fernández Montes, presidenta de bodegas MontReaga.](https://fotos.etheriamagazine.com/2019/08/etheria-magazine-Carmen-Fernandez-Montes-MontReaga.jpg "Carmen Fernández Montes, presidenta de bodegas MontReaga.")
 
 ### Más información
 

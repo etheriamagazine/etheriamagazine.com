@@ -1,7 +1,7 @@
 ---
 title: "Suiza encumbra a las mujeres con su 100% Women"
 date: 2021-03-12
-coverImage: etheria-images/2021/03/viajes-mujeres-suiza.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/viajes-mujeres-suiza.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Si eres mujer y una de tus actividades favoritas es la escalada te animamos a participar en el ‘100% Women’, la nueva iniciativa de Suiza Turismo. El reto consiste en escalar los 48 cuatromiles suizos en 6 meses. Y si lo tuyo no es el deporte también encontrarás más de 200 propuestas creadas "por y para mujeres" con actividades de bienestar, cultura y yoga, entre otras.
 
-![cien por cien women reto mujeres suiza](etheria-images/2021/03/viajes-mujeres-suiza.jpg "Coronar los 48 cuatromiles suizos, un reto para mujeres. © Switzerland Tourism")
+![cien por cien women reto mujeres suiza](https://fotos.etheriamagazine.com/2021/03/viajes-mujeres-suiza.jpg "Coronar los 48 cuatromiles suizos, un reto para mujeres. © Switzerland Tourism")
 
 Las mujeres son cada vez más protagonistas de actividades, eventos y programas 
 turísticos por el mundo, y uno de ellos es el **“100% Women” suizo**. Esta nueva 
@@ -27,7 +27,7 @@ que se permitió el sufragio femenino en Suiza, y ya han pasado 150 años desde 
 británica Lucy Walker escaló el Cervino, fue la primera mujer en lograrlo. ¡Qué mejor 
 momento, por tanto, para que los deportes de alta montaña en Suiza tengan cara femenina! 
 
-![mujeres escaladoras en suiza](etheria-images/2021/03/100-por-100-women-suiza.jpg "Los equipos de cuerda deben estar formados únicamente por mujeres. © Switzerland Tourism")
+![mujeres escaladoras en suiza](https://fotos.etheriamagazine.com/2021/03/100-por-100-women-suiza.jpg "Los equipos de cuerda deben estar formados únicamente por mujeres. © Switzerland Tourism")
 
 ## En qué consiste el 100% Women
 
@@ -49,7 +49,7 @@ donde también se irán subiendo los selfis de las participantes en las distinta
 > “Suiza cuenta con más de 230 propuestas turísticas con enfoque femenino, además de guías 
 > que facilitan a todas las mujeres el formar parte de 100% Women” 
 
-![viajes de relax para mujeres en suiza](etheria-images/2021/03/yoga-viajes-mujeres-suiza.jpg "Más de 200 propuestas sólo para mujeres en Suiza. © Swiss Outdoorguide / Marina Grossrieder")
+![viajes de relax para mujeres en suiza](https://fotos.etheriamagazine.com/2021/03/yoga-viajes-mujeres-suiza.jpg "Más de 200 propuestas sólo para mujeres en Suiza. © Swiss Outdoorguide / Marina Grossrieder")
 
 ## Más propuestas turísticas para mujeres en Suiza
 
@@ -63,7 +63,7 @@ libre, experiencias de bienestar, mindfulness, yoga, cocina, rutas en moto... e,
 incluso, una excursión de altura de cinco días, en el macizo del Monte Rosa, de la 
 Escuela Alpina Mammut, con la alpinista y guía de montaña profesional Caro North. 
 
-![mujeres en visita cultural en suiza](etheria-images/2021/03/viajes-mujeres-cultura-suiza.jpg "Viajes culturales sólo para mujeres en Suiza. © Kunsthaus Zürich")
+![mujeres en visita cultural en suiza](https://fotos.etheriamagazine.com/2021/03/viajes-mujeres-cultura-suiza.jpg "Viajes culturales sólo para mujeres en Suiza. © Kunsthaus Zürich")
 
 ## El futuro del turismo se escribe en femenino
 
@@ -79,7 +79,7 @@ Turismo de Suiza también “ve un gran potencial en el sector de las actividade
 libre para atraer a las mujeres como nuevos huéspedes, y conquistar a las ya entusiastas 
 de estos deportes para practicar otras actividades”. 
 
-![spa y sauna para mujeres en suiza](etheria-images/2021/03/turismo-bienestar-mujeres-suiza.jpg "Propuestas de bienestar sólo para mujeres en Suiza. © Switzerland Tourism / Florence Gross")
+![spa y sauna para mujeres en suiza](https://fotos.etheriamagazine.com/2021/03/turismo-bienestar-mujeres-suiza.jpg "Propuestas de bienestar sólo para mujeres en Suiza. © Switzerland Tourism / Florence Gross")
 
 ### Más planes para mujeres...
 

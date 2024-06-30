@@ -1,7 +1,7 @@
 ---
 title: "Qué ver en Funchal, guía para 48 horas bien aprovechadas"
 date: 2022-08-08
-coverImage: etheria-images/2022/08/velero-por-Funchal.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/08/velero-por-Funchal.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -12,7 +12,7 @@ authors:
 
 Si has decidido pasar un fin de semana en Madeira, te recomendamos dedicar al menos 48 horas a recorrer su capital. En este artículo te contamos qué ver en Funchal para descubrir su perfil más auténtico, sitios de interés, museos, mercados, dónde comer... Sólo te podemos decir que te va a sorprender.
 
-![Dos mujeres en los Jardines Tropicales de Monte Palace, en Funchal.](etheria-images/2022/08/funchal-jardines-Monte-Palace.jpg "Jardines Tropicales de Monte Palace, en Funchal. © Pedro Grifol")
+![Dos mujeres en los Jardines Tropicales de Monte Palace, en Funchal.](https://fotos.etheriamagazine.com/2022/08/funchal-jardines-Monte-Palace.jpg "Jardines Tropicales de Monte Palace, en Funchal. © Pedro Grifol")
 
 Si planeas una escapada a Madeira para tener tu primer contacto con la isla, te 
 proponemos un recorrido por lo mejor de Funchal, su capital. No tiene por qué ser un 
@@ -51,7 +51,7 @@ de las casas ya que están pintadas y decoradas por artistas locales. No son gra
 son verdaderos cuadros que le dan un punto muy personal a la calle. De día, el ambiente 
 del barrio está animado… y de noche más. 
 
-![Rúa de Santa María, en la Zona Velha de Funchal.](etheria-images/2022/08/Funchal-zona-velha.jpg "Calle de Santa María, en la Zona Velha de Funchal. © Pedro Grifol")
+![Rúa de Santa María, en la Zona Velha de Funchal.](https://fotos.etheriamagazine.com/2022/08/Funchal-zona-velha.jpg "Calle de Santa María, en la Zona Velha de Funchal. © Pedro Grifol")
 
 ### 2\. Mercado dos Lavradores
 
@@ -69,7 +69,7 @@ el que nosotros conocemos por ese nombre); un animal que vive a 1.000 metros de
 profundidad atlántica y que es muy preciado en los fogones madeirenses. Hay que 
 probarlo. 
 
-![Mercado dos Lavradores con pescadero y floristera.](etheria-images/2022/08/Funchal-Mercado-dos-Lavradores-761x1024.jpg "Mercado dos Lavradores. © Pedro Grifol")
+![Mercado dos Lavradores con pescadero y floristera.](https://fotos.etheriamagazine.com/2022/08/Funchal-Mercado-dos-Lavradores-761x1024.jpg "Mercado dos Lavradores. © Pedro Grifol")
 
 ### 3\. Subir al Monte
 
@@ -85,7 +85,7 @@ tan raro que has visto en el Mercado de Lavradores. Se pide así: _Filete Espada
 com molho vinho e alhos acompañado com batata e legumes_ (15 €.). No pierdas la 
 oportunidad. 
 
-![Teleférico que sube hasta el barrio de Monte.](etheria-images/2022/08/Funchal-teleferico-al-monte.jpg "Teleférico que sube hasta el barrio de Monte. © Pedro Grifol")
+![Teleférico que sube hasta el barrio de Monte.](https://fotos.etheriamagazine.com/2022/08/Funchal-teleferico-al-monte.jpg "Teleférico que sube hasta el barrio de Monte. © Pedro Grifol")
 
 ### 4\. Los jardines de Monte Palace
 
@@ -99,7 +99,7 @@ puentes, cascadas, pagodas y estanque con carpas. Al final del recorrido encontr
 magnífica colección de minerales y un museo de arte africano (Paixáo Africana). No 
 tengas prisa. 
 
-![Jardines Tropicales de Monte Palace, en Funchal.](etheria-images/2022/08/Jardines-Tropicales-Monte-Palace.jpg "Jardines Tropicales de Monte Palace, en Funchal. © Pedro Grifol")
+![Jardines Tropicales de Monte Palace, en Funchal.](https://fotos.etheriamagazine.com/2022/08/Jardines-Tropicales-Monte-Palace.jpg "Jardines Tropicales de Monte Palace, en Funchal. © Pedro Grifol")
 
 ### 5\. Los carreiros do Monte
 
@@ -114,7 +114,7 @@ XIX, estos carros de mimbre eran utilizados por los comerciantes para descender 
 deprisa del Monte a la ciudad y transportar mejor sus mercancías. Ahora solo es una 
 atracción turística. 
 
-![Carreiros do Monte, una de las actividades más demandadas en Funchal.](etheria-images/2022/08/Funchal-Carreiros-do-Monte.jpg "Carreiros do Monte, una de las actividades más demandadas en Funchal. © Pedro Grifol")
+![Carreiros do Monte, una de las actividades más demandadas en Funchal.](https://fotos.etheriamagazine.com/2022/08/Funchal-Carreiros-do-Monte.jpg "Carreiros do Monte, una de las actividades más demandadas en Funchal. © Pedro Grifol")
 
 ### 6\. Paseo en barco privado
 
@@ -126,7 +126,7 @@ trata de una apacible travesía ‘a cámara lenta’ para que veas, además del
 sol va iluminando el perfil de la ciudad y cómo el verde de la montaña va cogiendo 
 color. Una verdadera navegación en yate de ricos. Eso sí: tendrás que madrugar. 
 
-![Paseo en velero por Funchal.](etheria-images/2022/08/velero-por-Funchal.jpg "Paseo en velero por Funchal. © Pedro Grifol")
+![Paseo en velero por Funchal.](https://fotos.etheriamagazine.com/2022/08/velero-por-Funchal.jpg "Paseo en velero por Funchal. © Pedro Grifol")
 
 ### 7\. Museo de Quinta das Cruzes
 
@@ -147,7 +147,7 @@ la mayor cantidad de oro de la isla ¡en forma de balón, botas y medallas! En l
 del museo no solo encontrarás camisetas y llaveros, también hay vino de Madeira ‘marca 
 Cristiano Ronaldo’. Inefable. 
 
-![Museo CR7 de Funchal.](etheria-images/2022/08/Funchal-Museo-CR7.jpg "Museo CR7 de Funchal. © Pedro Grifol")
+![Museo CR7 de Funchal.](https://fotos.etheriamagazine.com/2022/08/Funchal-Museo-CR7.jpg "Museo CR7 de Funchal. © Pedro Grifol")
 
 ### 9\. Vamos a la playa
 
@@ -160,7 +160,7 @@ Muchas playas cuentan con centro médico, guardería, vestuarios, bares y alguna
 para practicar deporte. Así que, si te apetece darte un baño en las fresquitas aguas del 
 Atlántico, también tienes la oportunidad. 
 
-![Playa de Funchal.](etheria-images/2022/08/Playa-de-Funchal.jpg "Playa de Funchal. © Pedro Grifol")
+![Playa de Funchal.](https://fotos.etheriamagazine.com/2022/08/Playa-de-Funchal.jpg "Playa de Funchal. © Pedro Grifol")
 
 ### 10\. El vino de Madeira
 
@@ -173,7 +173,7 @@ oportunidad de descubrir esta tradición enológica, además de poder degustar, 
 barriles centenarios, algunas de sus diferentes añadas. Disfrutarás de un rato realmente 
 agradable. Consulta su [web](http://blandyswinelodge.com) para saber los horarios. 
 
-![Calle comercial del Dr. Fernáo de Ornelas](etheria-images/2022/08/Funchal-Rua-Fernao-de-Ornelas.jpg "Calle comercial del Dr. Fernáo de Ornelas. © Pedro Grifol")
+![Calle comercial del Dr. Fernáo de Ornelas](https://fotos.etheriamagazine.com/2022/08/Funchal-Rua-Fernao-de-Ornelas.jpg "Calle comercial del Dr. Fernáo de Ornelas. © Pedro Grifol")
 
 ### 11\. Qué comprar en Funchal
 
@@ -191,7 +191,7 @@ El bordado artesanal de Funchal es algo único. Visita el [taller](http://bordal
 Bordal y conocerás una de las tradiciones más auténticas de Madeira. Igual compras unos 
 patucos. 
 
-![Patucos del taller de Bordal en Funchal.](etheria-images/2022/08/patucos-bordal-funchal.jpg "Patucos del taller de Bordal en Funchal. © Pedro Grifol")
+![Patucos del taller de Bordal en Funchal.](https://fotos.etheriamagazine.com/2022/08/patucos-bordal-funchal.jpg "Patucos del taller de Bordal en Funchal. © Pedro Grifol")
 
 ### 12\. Dónde comer en Funchal: 3 restaurantes de moda… ¡y 1 imprescindible!
 
@@ -205,7 +205,7 @@ Vine](http://hotelthevine.com), la experiencia de cenar en su elegante **restaur
 UVA**, situado en la planta 7ª, también te dejará un buen ‘sabor de boca’ (literal) del 
 viaje. Tú eliges. 
 
-![Aeropuerto Cristiano Ronaldo, en Funchal.](etheria-images/2022/08/aeropuerto-Cristiano-Ronaldo.jpg "Aeropuerto Cristiano Ronaldo, en Funchal. © Pedro Grifol")
+![Aeropuerto Cristiano Ronaldo, en Funchal.](https://fotos.etheriamagazine.com/2022/08/aeropuerto-Cristiano-Ronaldo.jpg "Aeropuerto Cristiano Ronaldo, en Funchal. © Pedro Grifol")
 
 ### Dudas frecuentes sobre Madeira
 

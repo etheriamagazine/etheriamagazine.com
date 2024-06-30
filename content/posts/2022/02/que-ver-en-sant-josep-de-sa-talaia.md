@@ -1,7 +1,7 @@
 ---
 title: "Sant Josep de sa Talaia, diez razones para visitar este rincón ibicenco"
 date: 2022-02-18
-coverImage: etheria-images/2022/02/Platges-de-Comte.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/02/Platges-de-Comte.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -12,7 +12,7 @@ authors:
 
 Practicar esnórquel junto a praderas de _Posidonia oceanica_, hacer una ruta senderista, visitar la cueva en la que se refugió Rafael Alberti, asistir a un concierto, recorrer un poblado fenicio... Te damos hasta 10 razones para incluir a Sant Josep de sa Talaia en tu próximo viaje a Ibiza.
 
-![playas de comte ibiza con amigas](etheria-images/2022/02/Platges-de-Comte.jpg "Playas de Comte.")
+![playas de comte ibiza con amigas](https://fotos.etheriamagazine.com/2022/02/Platges-de-Comte.jpg "Playas de Comte.")
 
 Con sus ochenta y cuatro kilómetros de costa, cuatrocientas hectáreas de salinas, rutas 
 senderistas, el monte más alto de Ibiza y una gastronomía para chuparse los dedos, Sant 
@@ -23,7 +23,7 @@ divertidas y descubrimientos históricos. ¿Estás preparada para descubrir Sant
 sa Talaia, el municipio más extenso de Ibiza? A continuación encontrarás una selección 
 de aquello que nos parece más relevante. 
 
-![Cala Tarida en Sant Josep de sa Talaia](etheria-images/2022/02/Cala-Tarida-ibiza.jpg "Cala Tarida, en Sant Josep de sa Talaia.")
+![Cala Tarida en Sant Josep de sa Talaia](https://fotos.etheriamagazine.com/2022/02/Cala-Tarida-ibiza.jpg "Cala Tarida, en Sant Josep de sa Talaia.")
 
 ## Qué visitar en Sant Josep de sa Talaia
 
@@ -60,7 +60,7 @@ platja d’en Bossa. Allí encontrarás un monolito y una placa que recuerdan su
 También se integra en una de las rutas senderistas que discurre por el Parque Natural de 
 ses Salines. 
 
-![Cueva donde se refugio Rafael Alberti en Ibiza](etheria-images/2022/02/Cueva-Alberti-ibiza.jpg "Cueva donde se refugió Rafael Alberti en Ibiza.")
+![Cueva donde se refugio Rafael Alberti en Ibiza](https://fotos.etheriamagazine.com/2022/02/Cueva-Alberti-ibiza.jpg "Cueva donde se refugió Rafael Alberti en Ibiza.")
 
 ### 2\. Las casas blancas de Sant Josep
 
@@ -70,7 +70,7 @@ de una bonita iglesia parroquial con un impresionante altar barroco de madera. Y
 quedas por la noche, no está de más que consultes su agenda cultural porque suele haber 
 buenos conciertos y eventos al aire libre. 
 
-![iglesia de sant josep en ibiza](etheria-images/2022/02/Iglesia-de-Sant-Josep-ibiza.jpg "Iglesia de Sant Josep.")
+![iglesia de sant josep en ibiza](https://fotos.etheriamagazine.com/2022/02/Iglesia-de-Sant-Josep-ibiza.jpg "Iglesia de Sant Josep.")
 
 ### 3\. Playas de Sant Josep de sa Talaia
 
@@ -85,7 +85,7 @@ concurrida.
 **• Cala d’Hort**. Cuenta con uno de los mejores miradores a los islotes des Vedrà y es 
 Vedranell. Es el espacio ideal para un baño. 
 
-![Playa de sa Caleta en Sant Josep de sa Talaia.](etheria-images/2022/02/Sa-Caleta-playa-ibiza.jpg "Playa de sa Caleta, en Sant Josep de sa Talaia.")
+![Playa de sa Caleta en Sant Josep de sa Talaia.](https://fotos.etheriamagazine.com/2022/02/Sa-Caleta-playa-ibiza.jpg "Playa de sa Caleta, en Sant Josep de sa Talaia.")
 
 **• Sa Caleta**. El vínculo con el mar de los isleños se aprecia en esta cala mejor que 
 en ningún otro lugar. Te encantarán sus típicas casetas-varadero. 
@@ -97,7 +97,7 @@ ses Bledes i s’Espartar.
 **• Cala Bassa**. Es una de las playas más familiares e irresistibles de Ibiza. Está 
 rodeada por un frondoso bosque de sabinas, pinos y tamarindos. 
 
-![esnorquel en playa bol nou de ibiza](etheria-images/2022/02/fotosub-Bol-Nou-ibiza.jpg "Esnórquel en Bol Nou.")
+![esnorquel en playa bol nou de ibiza](https://fotos.etheriamagazine.com/2022/02/fotosub-Bol-Nou-ibiza.jpg "Esnórquel en Bol Nou.")
 
 **• Y más playas.** La lista de arenales y calas es muy extensa, tanto como su oferta de 
 servicios: **Platja d’en Bossa** (una de las más largas y animadas de la isla), **es Bol 
@@ -105,7 +105,7 @@ Nou** (con sus espectaculares barrancos rojizos), **Cala Carbó**, **Cala Llentr
 Cala Molí** (rodeada de pinos y vegetación mediterránea), **Porroig, Cala Vedella** (una 
 auténtica piscina natural), **Cala Tarida**, etc. 
 
-![Torre des Carregador en Sant Josep de sa Talai](etheria-images/2022/02/Torre-des-Carregador-ibiza.jpg "Torre des Carregador, en Sant Josep de sa Talaia.")
+![Torre des Carregador en Sant Josep de sa Talai](https://fotos.etheriamagazine.com/2022/02/Torre-des-Carregador-ibiza.jpg "Torre des Carregador, en Sant Josep de sa Talaia.")
 
 ### 4\. Pedrera de Cala d’Hort
 
@@ -115,7 +115,7 @@ que se levantaron las murallas renacentistas de la ciudad de Ibiza, el recinto d
 Vila. La bajada hasta este enclave es exigente, y ha habido algún que otro accidente, 
 así que conviene ir bien preparado y tener precaución. 
 
-![cantera de la pedrera de cala dhort](etheria-images/2022/02/Sa-Pedrera-Cala-d-Hort-ibiza.jpg "Pedrera de Cala d'Hort.")
+![cantera de la pedrera de cala dhort](https://fotos.etheriamagazine.com/2022/02/Sa-Pedrera-Cala-d-Hort-ibiza.jpg "Pedrera de Cala d'Hort.")
 
 ### 5\. Parque Natural de ses Salines: playas y aves
 
@@ -127,7 +127,7 @@ especial relevancia para las aves y la fauna y flora marinas (incluidas las prad
 submarinas de _posidonia_). En este parque viven felices flamencos, zancudos y tarros 
 blancos, además de la endémica lagartija pitiusa. 
 
-![parque natural de ses salines ibiza](etheria-images/2022/02/Parque-Natural-de-ses-Salines.jpg "Parque Natural de ses Salines.")
+![parque natural de ses salines ibiza](https://fotos.etheriamagazine.com/2022/02/Parque-Natural-de-ses-Salines.jpg "Parque Natural de ses Salines.")
 
 ### 6\. Mercadillo de Platja d’en Bossa
 
@@ -136,7 +136,7 @@ d’en Bossa es toda una referencia. Hay que recorrer todos sus puestos. Además
 ventaja de que no hay que programar la visita porque se celebra a diario, desde media 
 tarde hasta media noche. Además de ropa, encontrarás artesanía y productos gourmet. 
 
-![mercadillo hippie de ibiza](etheria-images/2022/02/mercadillo-hippie-ibiza.jpg "Ibiza tiene una gran tradición de mercadillos hippies.")
+![mercadillo hippie de ibiza](https://fotos.etheriamagazine.com/2022/02/mercadillo-hippie-ibiza.jpg "Ibiza tiene una gran tradición de mercadillos hippies.")
 
 ### 7\. Miradores con historia
 
@@ -148,14 +148,14 @@ Torre d’en Rovira**. Fueron levantadas entre los siglos XVII y XVIII y son un
 emplazamiento ideal para quedarse embelesados con los más bellos atardeceres del 
 Mediterráneo. 
 
-![torre de ses portes en ibiza](etheria-images/2022/02/Torre-de-Ses-Portes.jpg "Torre de Ses Portes, en Ibiza.")
+![torre de ses portes en ibiza](https://fotos.etheriamagazine.com/2022/02/Torre-de-Ses-Portes.jpg "Torre de Ses Portes, en Ibiza.")
 
 Y para obtener panorámicas aún más inmensas hay que dirigirse al **monte de Sa Talaia**. 
 Con 475 metros de altura es el punto más alto de Ibiza. Resulta relativamente sencillo 
 llegar a su cima y se puede hacer por diferentes caminos, el más frecuentado sale de 
 Sant Josep y transcurre entre bosques de pinos y sabinas. 
 
-![atardecer desde sa talaia en ibiza](etheria-images/2022/02/Atardecer-en-Sa-Talaia-ibiza.jpg "Atardecer desde Sa Talaia, en Ibiza.")
+![atardecer desde sa talaia en ibiza](https://fotos.etheriamagazine.com/2022/02/Atardecer-en-Sa-Talaia-ibiza.jpg "Atardecer desde Sa Talaia, en Ibiza.")
 
 ### 8\. Mercat Ecològic
 
@@ -166,7 +166,7 @@ vez en cuando se organizan talleres para dar a conocer los viejos oficios y las
 tradiciones de la isla, como la elaboración de las dulces _orelletes_ o las hierbas 
 ibicencas, el licor por excelencia de las Pitiusas. 
 
-![Mercado Ecologico de Sant Josep de sa Talaia](etheria-images/2022/02/mercado-sant-josep-ibiza.jpg "Mercado Ecológico de Sant Josep de sa Talaia.")
+![Mercado Ecologico de Sant Josep de sa Talaia](https://fotos.etheriamagazine.com/2022/02/mercado-sant-josep-ibiza.jpg "Mercado Ecológico de Sant Josep de sa Talaia.")
 
 ### 9\. Islotes des Vedrà, es Vedranell y Ponent
 
@@ -175,7 +175,7 @@ indisoluble de la imagen más conocida de Ibiza. Aunque no está permitido desem
 ellos, sí te puedes aproximar en barco o en kayak. Estas grandes moles integran una 
 Reserva Natural que se completa con los _illots de Ponent_ (islotes de Poniente). 
 
-![cala dhor con es vedra al fondo](etheria-images/2022/02/Cala-dHort.jpg "Cala d'Hort con los islotes de Es Vedrà, es Vedranell y Ponent al fondo.")
+![cala dhor con es vedra al fondo](https://fotos.etheriamagazine.com/2022/02/Cala-dHort.jpg "Cala d'Hort con los islotes de Es Vedrà, es Vedranell y Ponent al fondo.")
 
 ### 10\. Poblado fenicio de Sa Caleta
 
@@ -189,7 +189,7 @@ restos de almacenes y hornos metalúrgicos. Este poblado forma parte de la decla
 Patrimonio de la Humanidad, junto con la Necrópolis de Puig des Molins, la ciudad 
 amurallada de Ibiza y las praderas de posidonia. 
 
-![Poblado fenicio de Sa Caleta](etheria-images/2022/02/poblado-fenicio-sa-caleta.jpg "Poblado fenicio de Sa Caleta. © Paul Hermans")
+![Poblado fenicio de Sa Caleta](https://fotos.etheriamagazine.com/2022/02/poblado-fenicio-sa-caleta.jpg "Poblado fenicio de Sa Caleta. © Paul Hermans")
 
 ### Bonus: Música en Sant Josep
 
@@ -200,7 +200,7 @@ los estudios, las salas de grabación y de ensayo, las tiendas especializadas...
 Asimismo, te sorprenderá la arquitectura y la programación del nuevo auditorio de Caló 
 de s’Oli. 
 
-![auditorio de Calo de s Oli](etheria-images/2022/02/Auditorio-Calo-de-sOli.jpg "Auditorio de Caló de s’Oli.")
+![auditorio de Calo de s Oli](https://fotos.etheriamagazine.com/2022/02/Auditorio-Calo-de-sOli.jpg "Auditorio de Caló de s’Oli.")
 
 \*Fotos cedidas por Sant Josep de sa Talaia. 
 

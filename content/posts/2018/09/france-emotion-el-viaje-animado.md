@@ -1,7 +1,7 @@
 ---
 title: "\"FRANCE eMOTION. El viaje animado\", una exposición interactiva en Madrid"
 date: 2018-09-22
-coverImage: etheria-images/2018/09/Schalliol_Chantilly_IMG_5410.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/Schalliol_Chantilly_IMG_5410.jpg
 categories: 
   - organiza-tu-viaje
   - exposiciones
@@ -13,7 +13,7 @@ La Fotografía y, en general, cualquier manifestación cultural pretende conecta
 personas y provocar emociones. En la exposición 'France e-motion, el viaje animado', 
 además de lograrlo, consigue sorprender y despertar la curiosidad del visitante. 
 
-![Lourde Segade Atout FranceFRANCE eMOTION El viaje animado](etheria-images/2018/09/SELvichy120817P_160_Bex_v2-1024x448.jpg "© Lourde Segade/ Atout France")
+![Lourde Segade Atout FranceFRANCE eMOTION El viaje animado](https://fotos.etheriamagazine.com/2018/09/SELvichy120817P_160_Bex_v2-1024x448.jpg "© Lourde Segade/ Atout France")
 
 La exposición '**FRANCE eMOTION. El viaje animado**' ha ido dejando una estela de éxitos 
 por aquellos lugares por donde ha pasado en su recorrido por el mundo. Ahora se expone 
@@ -35,7 +35,7 @@ española **Lourdes Segade**. En sus viajes por Francia captaron imágenes de ca
 parques; museos con exposiciones vanguardistas; ojivas de abadías y arcos de puentes, a 
 partir de las cuales se estructuró la actual muestra comisariada por Muriel Enjalran. 
 
-![lourdes segade, exposicion emotion atout france](etheria-images/2018/09/lourdes-segade.jpeg "Lourdes Segade ha publicado en medios como The New York Times o Chicago Tribune.")
+![lourdes segade, exposicion emotion atout france](https://fotos.etheriamagazine.com/2018/09/lourdes-segade.jpeg "Lourdes Segade ha publicado en medios como The New York Times o Chicago Tribune.")
 
 **La exposición se divide en cuatro grandes partes:** **'De un arco a otro…** Admiración 
 por la permanencia y la evolución de una forma arquitectónica simple como el arco', 
@@ -46,7 +46,7 @@ hoteles particulares, antiguos sitios industriales y construcciones de avant-gar
 **'Metamorfosis...** Fascinación por lugares donde la magia se revela gracias al talento 
 de los fotógrafos que los escenifican en una manera original'. 
 
-![FRANCE eMOTION El viaje animado](etheria-images/2018/09/Schalliol_Chantilly_IMG_5410-1024x448.jpg "Castillo de Chantilly. © David Schalliol/ Atout France")
+![FRANCE eMOTION El viaje animado](https://fotos.etheriamagazine.com/2018/09/Schalliol_Chantilly_IMG_5410-1024x448.jpg "Castillo de Chantilly. © David Schalliol/ Atout France")
 
 Los **35 dípticos** expuestos cobran vida gracias a la **realidad aumentada**, una 
 animación propuesta por **Julie Stephen Chheng y Thomas Pons** con el objetivo de 

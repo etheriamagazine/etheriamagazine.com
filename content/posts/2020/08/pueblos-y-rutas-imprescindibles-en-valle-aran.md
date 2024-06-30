@@ -1,7 +1,7 @@
 ---
 title: "Valle de Arán, organiza una ruta por sus pueblos y sendas imprescindibles"
 date: 2020-08-31
-coverImage: etheria-images/2020/08/que-ver-valle-aran-pueblos.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-pueblos.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 Viajamos a las entrañas de un valle con lengua de trovadores. Un maravilloso entorno geográfico cuyos rincones con encanto son perfectos para organizar mil y una escapadas. Acompáñanos a descubrir las rutas y pueblos imprescindibles del valle de Arán.
 
-![artiga de lin, valle de aran](etheria-images/2020/08/que-ver-valle-aran-Artiga-de-Lin.jpg "Espectacular imagen de la Artiga de Lin.")
+![artiga de lin, valle de aran](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-Artiga-de-Lin.jpg "Espectacular imagen de la Artiga de Lin.")
 
 Existen muchos lugares en España donde no existen las aglomeraciones, donde la 
 tranquilidad te atrapa desde el primer instante como si se tratara de una trampa bien 
@@ -27,14 +27,14 @@ Frontera histórica y natural con la vecina Francia con la que comparte miradore
 increíbles y a la que cede la custodia de las aguas del Garona que, tras avanzar por 
 Aquitania y fluir junto al Dordoña por la señorial Burdeos, desemboca en el Atlántico. 
 
-![rutas valle aran, otono valle aran](etheria-images/2020/08/que-ver-valle-aran-bosque-otono.jpg "El otoño es perfecto para recorrer los bosques araneses.")
+![rutas valle aran, otono valle aran](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-bosque-otono.jpg "El otoño es perfecto para recorrer los bosques araneses.")
 
 Una omnipresente naturaleza en la que cohabitan impresionantes cascadas, majestuosos 
 valles, montañas de infarto, frondosos bosques, verdes prados y coquetos pueblos, 
 adornado discretamente por un gentil patrimonio histórico que lo convierten en el 
 emplazamiento perfecto para disfrutar con amigas, en familia o con tu pareja. 
 
-![Circo glaciar de Colomers](etheria-images/2020/08/que-ver-valle-aran-circo-colomers.jpg "Circo glaciar de Colomérs.")
+![Circo glaciar de Colomers](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-circo-colomers.jpg "Circo glaciar de Colomérs.")
 
 Es el destino ideal para los amantes de la naturaleza y un santuario para los 
 senderistas. La comarca leridana ofrece infinidad de excursiones inolvidables que 
@@ -53,7 +53,7 @@ exento de dificultad, este itinerario con sus espectaculares vistas merece la pe
 > El circo glaciar de Saboredo o el lago de Liat destacan también en este amplio catálogo 
 > espléndido y natural. 
 
-![El lago de Liat](etheria-images/2020/08/que-ver-valle-aran-lago-de-Liat.jpg "Lago de Liat.")
+![El lago de Liat](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-lago-de-Liat.jpg "Lago de Liat.")
 
 ## Los Ojos del Diablo
 
@@ -65,7 +65,7 @@ Lin**. Es especialmente llamativo en los meses de primavera como consecuencia de
 licuación de los hielos. Un entorno muy bello donde se alternan barrancos, extensos 
 prados y frondosos bosques. 
 
-![Cascada Los Ojos del Diablo](etheria-images/2020/08/que-ver-valle-aran-Cascada-Los-Ojos-del-Diablo.jpg "Cascada de los Ojos del Diablo.")
+![Cascada Los Ojos del Diablo](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-Cascada-Los-Ojos-del-Diablo.jpg "Cascada de los Ojos del Diablo.")
 
 **El Garona** es uno de los grandes ríos de Europa Occidental. Su origen es español pero 
 la mayor parte de su vida transcurre por territorio francés hasta desembocar en el 
@@ -75,7 +75,7 @@ Maladeta, el circo de Saboredo y Pla de Beret. Sea cual sea el origen de sus agu
 buena opción es explorarlas todas y de paso descubrir algunos de los más bellos enclaves 
 que nos ofrecen estas latitudes. 
 
-![Saut Deth Pish, rutas valle de aran](etheria-images/2020/08/que-ver-valle-aran-cascada-del-Saut-Deth-Pish.jpg "Un festival de colores en la cascada del Saut Deth Pish.")
+![Saut Deth Pish, rutas valle de aran](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-cascada-del-Saut-Deth-Pish.jpg "Un festival de colores en la cascada del Saut Deth Pish.")
 
 ##### Bosques de ensueño en el Valle de Arán
 
@@ -90,7 +90,7 @@ El bosque de **Baricauba**, con singulares ejemplares de abetos, algunos sobrepa
 30 metros, o los pinos negros del **bosque de Montgarri** no os dejarán indiferente en 
 esta ruta por el valle de Arán. 
 
-![pueblo valle aran](etheria-images/2020/08/que-ver-valle-aran-pueblos.jpg "Encantadores pueblos y mucha naturaleza.")
+![pueblo valle aran](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-pueblos.jpg "Encantadores pueblos y mucha naturaleza.")
 
 ## Pueblos de altura
 
@@ -112,7 +112,7 @@ en una antigua fábrica de lana del XIX, el interesante **museo Etnográfico** u
 un edificio del XVII, así como diversas casas señoriales completan esta instructiva 
 jornada. 
 
-![Escena nocturna de Vielha, valle de aran](etheria-images/2020/08/que-ver-valle-aran-Vielha.jpg "Escena nocturna de Vielha.")
+![Escena nocturna de Vielha, valle de aran](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-Vielha.jpg "Escena nocturna de Vielha.")
 
 ### Arties
 
@@ -123,7 +123,7 @@ descubridor y gobernador de Las Californias. Su iglesia de Santa María (siglo X
 resultado de una amalgama de estilos en la que se superponen una magnífica torre gótica 
 sobre una nave de época románica que custodia diversos retablos barrocos. 
 
-![pueblo es bordes, valle aran](etheria-images/2020/08/que-ver-valle-aran-es-bordes.jpg "Es Bòrdes, uno de los encantadores pueblos del valle.")
+![pueblo es bordes, valle aran](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-es-bordes.jpg "Es Bòrdes, uno de los encantadores pueblos del valle.")
 
 ### Es Bòrdes
 
@@ -151,7 +151,7 @@ Si atravesamos el puente del Rey en la población de **Les** nos adentramos en t
 francés. Esta población fronteriza es famosa por sus aguas termales y por la producción 
 ecológica del caviar Nacarii, muy apreciado en todo el mundo. 
 
-![San Miguel de Vielha, valle de aran](etheria-images/2020/08/que-ver-valle-aran-San-Miguel-de-Vielha.jpg "San Miguel de Vielha.")
+![San Miguel de Vielha, valle de aran](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-San-Miguel-de-Vielha.jpg "San Miguel de Vielha.")
 
 ## Ruta de las iglesias románicas
 
@@ -172,7 +172,7 @@ Veamos otras joyas arquitectónicas de este devoto recorrido.
 Su portada románica de cuatro arcos de medio punto y su torre campanario de época más 
 tardía, legado gótico del XIV y XV, incitan a la observación y al recogimiento. 
 
-![vilamos, valle de aran](etheria-images/2020/08/que-ver-valle-aran-vilamos.jpg "Pueblo e iglesia románica de Vilamòs.")
+![vilamos, valle de aran](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-vilamos.jpg "Pueblo e iglesia románica de Vilamòs.")
 
 ### Santa María de Vilamòs
 
@@ -191,7 +191,7 @@ Todos los escenarios de este fascinante valle nos brindan poderosas razones para
 conocerlo y disfrutarlo. Sólo hay una condición: dejarse llevar y rendirse a la 
 contemplación. 
 
-![santa Eulalia de unha, valle de aran](etheria-images/2020/08/que-ver-valle-aran-Santa-Eularia-de-Unha.jpg "Postal de invierno de Santa Eulària de Unha y detalle del Pantocrátor interior.")
+![santa Eulalia de unha, valle de aran](https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-Santa-Eularia-de-Unha.jpg "Postal de invierno de Santa Eulària de Unha y detalle del Pantocrátor interior.")
 
 ###  CONSEJOS ETHERIA
 

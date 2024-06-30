@@ -1,7 +1,7 @@
 ---
 title: "Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de Cantabria"
 date: 2021-06-04
-coverImage: etheria-images/2021/06/cantabria-valdeolea-menhir.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/cantabria-valdeolea-menhir.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 Al sur de Cantabria se sitúan caminos ancestrales y chamánicos señalados por menhires, y también pueblos tranquilos que despiertan el apego a lo rural. En Etheria Magazine te proponemos un viaje diferente en el que descubrir, entre huellas megalíticas, el valle de Valdeolea.
 
-![ruta menhires de Valdeolea cantabria](etheria-images/2021/06/cantabria-valdeolea-menhir.jpg "Huellas prehistóricas en el valle de Valdeolea.")
+![ruta menhires de Valdeolea cantabria](https://fotos.etheriamagazine.com/2021/06/cantabria-valdeolea-menhir.jpg "Huellas prehistóricas en el valle de Valdeolea.")
 
 Cuántas veces has pensado en volver al campo? Bien, ha llegado el momento de hacerlo, y 
 en un lugar privilegiado: **Valdeolea**, al sur de Cantabria. Te proponemos 9 paradas 
@@ -26,7 +26,7 @@ Valdeolea se sitúa cerca de Reinosa, nada más abandonar el paisaje palentino, 
 localidades campurrianas de **Mataporquera** y **Olea.** Sigue leyendo porque te esperan 
 grandes sorpresas por el camino. 
 
-![menhires de valdeolea cantabria](etheria-images/2021/06/menhir-valdeolea.jpg "Valdeolea es el lugar de mayor concentración de menhires de Cantabria.")
+![menhires de valdeolea cantabria](https://fotos.etheriamagazine.com/2021/06/menhir-valdeolea.jpg "Valdeolea es el lugar de mayor concentración de menhires de Cantabria.")
 
 ## Rituales en el valle de Valdeolea
 
@@ -58,7 +58,7 @@ A la singularidad de ser el único de conglomerado –lo comprobarás por las pi
 incrustadas en la roca– suma su origen legendario porque el mítico forzudo lo lanzó 
 desde un otero a 2 kilómetros. 
 
-![orquideas salvajes valle valdeolea cantabria](etheria-images/2021/06/valdeolea-orquidea-salvaje-683x1024.jpg "Orquídeas salvajes en el valle de Valdeolea.")
+![orquideas salvajes valle valdeolea cantabria](https://fotos.etheriamagazine.com/2021/06/valdeolea-orquidea-salvaje-683x1024.jpg "Orquídeas salvajes en el valle de Valdeolea.")
 
 ### 2\. Rodéate de flores
 
@@ -70,7 +70,7 @@ o _lirones_, como los denominan en la zona. Busca la gran variedad de **orquíde
 silvestres primaverales y abraza el púrpura de los **jacintos** estrellados en los 
 hayedos. 
 
-![iglesia de Santa María la Mayor en Villacantid valdeolea](etheria-images/2021/06/valdeolea-iglesia-medieval-711x1024.jpg "Iglesia de Santa María la Mayor en Villacantid.")
+![iglesia de Santa María la Mayor en Villacantid valdeolea](https://fotos.etheriamagazine.com/2021/06/valdeolea-iglesia-medieval-711x1024.jpg "Iglesia de Santa María la Mayor en Villacantid.")
 
 ### 3\. Capta la onda medieval de Valdeolea
 
@@ -84,7 +84,7 @@ encantos de las iglesias de la zona. No has traspasado ninguna puerta mágica si
 has entrado al [Centro de Interpretación del 
 Románico](https://centros.culturadecantabria.com/romanico/)**.** 
 
-![calzada romana valle de valdeolea](etheria-images/2021/06/valle-valdeolea-agua-cantabria.jpg "Atrévete a cruzar la calzada romana.")
+![calzada romana valle de valdeolea](https://fotos.etheriamagazine.com/2021/06/valle-valdeolea-agua-cantabria.jpg "Atrévete a cruzar la calzada romana.")
 
 ### 4\. Sigue el rumor de agua
 
@@ -97,7 +97,7 @@ costa cántabra. Verás algunas piedras auténticas de la calzada romana sobre s
 arcos separados por un tajamar. Si te apetece seguir admirando puentes silenciados por 
 el paso del tiempo, los de **Santa Olalla** y **Casasola** también merecen visita. 
 
-![castillo de argueso en cantabria](etheria-images/2021/06/castillo-valdeolea.jpg "Castillo de Argüeso, en Valdeolea.")
+![castillo de argueso en cantabria](https://fotos.etheriamagazine.com/2021/06/castillo-valdeolea.jpg "Castillo de Argüeso, en Valdeolea.")
 
 ### 5\. Entra en el castillo de Argüeso
 
@@ -111,7 +111,7 @@ al público como [centro cultural.](https://www.castillodeargueso.com/) Desde me
 medievales a recreaciones históricas, conciertos y talleres de época hacen que nuestro 
 viaje se programe atento a su oferta turística. 
 
-![Molino La Vega  valdeolea cantabria](etheria-images/2021/06/valdeolea-molino-cantabria.jpg "Molino La Vega.")
+![Molino La Vega  valdeolea cantabria](https://fotos.etheriamagazine.com/2021/06/valdeolea-molino-cantabria.jpg "Molino La Vega.")
 
 ### 6\. Busca un molino y una cuchara en Valdeolea
 
@@ -127,7 +127,7 @@ Camesa](https://lacucharadelcamesa.wordpress.com/)[,](https://lacucharadelcamesa
 parada imprescindible para, al ritmo de la cuchara, probar guisos inolvidables como la 
 **olla ferroviaria**. 
 
-![iglesia santa olalla cantabria](etheria-images/2021/06/valdeolea-arte.jpg "Iglesia de Santa Olalla, en Valdeolea.")
+![iglesia santa olalla cantabria](https://fotos.etheriamagazine.com/2021/06/valdeolea-arte.jpg "Iglesia de Santa Olalla, en Valdeolea.")
 
 ### 7\. Descubre el arte mejor guardado
 
@@ -144,7 +144,7 @@ en **Las Henestrosas de las Quintanillas**, pero aquí más allá de motivos rel
 estelas medievales y en sus frescos no faltan detalles con guiños a lo popular, como un 
 músico tocando la vihuela. 
 
-![Torre de San Martin de Hoyos](etheria-images/2021/06/torre-valle-valdeolea-683x1024.jpg "Torre de San Martín de Hoyos.")
+![Torre de San Martin de Hoyos](https://fotos.etheriamagazine.com/2021/06/torre-valle-valdeolea-683x1024.jpg "Torre de San Martín de Hoyos.")
 
 ### 8\. Vigila desde la Torre de San Martín de Hoyos
 
@@ -153,7 +153,7 @@ de Hoyos**. Esta robusta fortificación medieval no solo vigilaba el valle, abar
 un vistazo junto a territorios vecinos desde su panorámica situación, sino que exigía el 
 pago de peaje a quien quisiera entrar en tierras cántabras. 
 
-![ciguenas en valle valdeolea cantabria](etheria-images/2021/06/valdeolea-cigueñas.jpg "Cigüeñas, compañeras inseparables de este paisaje.")
+![ciguenas en valle valdeolea cantabria](https://fotos.etheriamagazine.com/2021/06/valdeolea-cigueñas.jpg "Cigüeñas, compañeras inseparables de este paisaje.")
 
 ### 9\. Mira al cielo y admira las cigüeñas
 

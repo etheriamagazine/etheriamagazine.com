@@ -1,7 +1,7 @@
 ---
 title: "Las 5 escapadas familiares más leídas"
 date: 2018-12-29
-coverImage: etheria-images/2018/05/Costa-Rica-Volcan-Poas.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Volcan-Poas.jpg
 categories: 
   - viaje-en-familia
   - de-un-vistazo
@@ -28,7 +28,7 @@ viajar a Nueva York con
 niños](https://etheriamagazine.com/2018/07/28/consejos-para-viajar-en-familia-a-nueva-york/) 
 con sugerencias para hacer el viaje más fácil. 
 
-![](etheria-images/2018/05/5-Nueva-York-Top-of-the-Rock-1024x680.jpg)
+![](https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock-1024x680.jpg)
 
 ## 2\. Cantabria en familia
 
@@ -39,7 +39,7 @@ hacer en un viaje a Cantabria: el Parque Natural de Cabárceno, una visita a San
 de la Barqueira, el laberinto de Villa Presente, las playas de Suances y, por supuesto, 
 la Neocueva de Altamira. 
 
-![Playa suances viajes familia Cantabria](etheria-images/2018/07/playa-suances-1024x768-2.jpg "Playa de Suances (Cantabria)")
+![Playa suances viajes familia Cantabria](https://fotos.etheriamagazine.com/2018/07/playa-suances-1024x768-2.jpg "Playa de Suances (Cantabria)")
 
 ## 3\. Ruta en familia por Alsacia y Selva Negra
 
@@ -49,7 +49,7 @@ cinco o seis días, incluye la encantadora ciudad de Estrasburgo, la región vin
 Alsacia, con pueblos como Colmar o Riquewihr, la Selva Negra alemana y el divertido 
 parque de atracciones Europa Park. 
 
-![Viajes niños familia](etheria-images/2018/07/Selva-Negra-1024x682.jpg)
+![Viajes niños familia](https://fotos.etheriamagazine.com/2018/07/Selva-Negra-1024x682.jpg)
 
 ## 4\. Laponia finlandesa en familia.
 
@@ -65,7 +65,7 @@ finlandesa](https://etheriamagazine.com/2018/09/08/8-consejos-para-viajar-a-la-l
 y [Una maleta para 
 Laponia](https://etheriamagazine.com/2018/09/15/una-maleta-para-laponia-finlandesa/). 
 
-![Excursión trineo tirado por perros husky en Laponia](etheria-images/2018/04/Excursion-trineo-perros-husky-Etheriamagazine.jpg "Uno de los momentos más especiales de un viaje a Laponia es el paseo en trineos tirados por perros husky.")
+![Excursión trineo tirado por perros husky en Laponia](https://fotos.etheriamagazine.com/2018/04/Excursion-trineo-perros-husky-Etheriamagazine.jpg "Uno de los momentos más especiales de un viaje a Laponia es el paseo en trineos tirados por perros husky.")
 
 ## 5\. Costa Rica en familia
 
@@ -81,4 +81,4 @@ y [Una maleta para Costa
 Rica](https://etheriamagazine.com/2018/05/28/una-maleta-para-costa-rica/). ¡Lo pondrás 
 en tu lista de viajes! 
 
-![](etheria-images/2018/05/Costa-Rica-recogiendo-cafe-1024x683.jpg)
+![](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-recogiendo-cafe-1024x683.jpg)

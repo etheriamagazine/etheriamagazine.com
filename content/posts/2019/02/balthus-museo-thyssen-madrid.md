@@ -1,7 +1,7 @@
 ---
 title: "Balthus: Con él llegó el escándalo"
 date: 2019-02-27
-coverImage: etheria-images/2019/02/Therese-sonando-Balthus-Thyssen-Madrid.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/Therese-sonando-Balthus-Thyssen-Madrid.jpg
 categories: 
   - exposiciones
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ En el Museo Thyssen-Bornemisza de Madrid se exhibe una retrospectiva de Balthus
 figurativo que fue siempre a contracorriente. En algunos países, como Estados Unidos, 
 intentaron vetar algunas de sus obras pero ¿es para tanto? 
 
-\[caption id="attachment\_7762" align="aligncenter" width="900"\]![therese sonando, escandalo de balthus, exposiciones museo thyssen](etheria-images/2019/02/Balthus-Thyssen-Madrid.jpg "Therese soñando es una de las polémicas obras de Balthus.") ‘Thérèse soñando’ es una de las obras expuestas en la retrospectiva de Balthus. © Museo Thyssen-Bornemisza\[/caption\]
+\[caption id="attachment\_7762" align="aligncenter" width="900"\]![therese sonando, escandalo de balthus, exposiciones museo thyssen](https://fotos.etheriamagazine.com/2019/02/Balthus-Thyssen-Madrid.jpg "Therese soñando es una de las polémicas obras de Balthus.") ‘Thérèse soñando’ es una de las obras expuestas en la retrospectiva de Balthus. © Museo Thyssen-Bornemisza\[/caption\]
 
 Balthus fue un pintor que recurrió al estudio de grandes artistas del pasado como Caravaggio, Poussin o Coubert, conjugando la influencia temática de estos con elementos tomados de cuentos infantiles, como _Alicia en el País de las Maravillas,_ de Lewis Carrol, o personajes de los cuentos de Hoffmann (y sus niños desobedientes), creando composiciones en torno a la sexualidad que, desde su primera exposición individual en París (1934), se han visto envueltas en polémica. Aunque el artista no era muy dado a dar explicaciones sobre el tema, se sabe que por decisión suya (y desde aquella primera exposición) se mostraban cuadros de contenido erótico para **llamar la atención** de la opinión pública… Así que nadie se sorprenda si en los juicios de valor sobre su obra se trate el tema sexual como un aspecto importante a dilucidar; que, además, es el que le ha hecho más famoso.
 
@@ -22,13 +22,13 @@ Balthus fue un pintor que recurrió al estudio de grandes artistas del pasado co
 
 De entre los 47 cuadros que reúne la presente muestra, se encuentra **_Thérèse soñando_** (1938), el cuadro que retrata a una jovencita ensimismada en una postura que deja ver sus bragas… y abajo hay un gato bebiendo leche. Esta obra fue expuesta en noviembre de 2017 en el Metropolitan de Nueva York, donde la tribu puritana de la sociedad norteamericana quiso vetarla logrando reunir 12.000 individuos/as que firmaron un manifiesto bajo la acusación de ‘sexualidad infantil’. La petición fue rechazada por el museo, argumentando que **"el arte conlleva ambigüedad y múltiples perspectivas sobre el mundo"**.
 
-\[caption id="attachment\_7764" align="aligncenter" width="900"\]![therese sonando, escandalo de balthus, exposiciones museo thyssen](etheria-images/2019/02/Therese-sonando-Balthus-Thyssen-Madrid.jpg "Therese soñando, obra expuesta en el Museo Thyssen-Bornemisza") ‘Thérèse soñando’ (1938), obra expuesta en el Museo Thyssen-Bornemisza. © Pedro Grifol\[/caption\]
+\[caption id="attachment\_7764" align="aligncenter" width="900"\]![therese sonando, escandalo de balthus, exposiciones museo thyssen](https://fotos.etheriamagazine.com/2019/02/Therese-sonando-Balthus-Thyssen-Madrid.jpg "Therese soñando, obra expuesta en el Museo Thyssen-Bornemisza") ‘Thérèse soñando’ (1938), obra expuesta en el Museo Thyssen-Bornemisza. © Pedro Grifol\[/caption\]
 
 A la inauguración de la retrospectiva en Madrid asistió la viuda de Balthus, **Setsuko Klossowski de Rola**, a la que se le preguntó (repetidas veces) por el aspecto erótico en la obra de su marido. Setsuko dijo estar cansada de los que siempre quieren censurar algún cuadro del pintor –como 'Thérèse soñando'– y respondió a la audiencia con otra pregunta: “Yo les preguntaría a los cristianos ¿por qué les da tanto miedo el deseo? Hay personas que no saben ver el arte, pues bien, me da igual…”.
 
 La verdad es que dentro de las tradiciones cristianas el sexo de cualquier tipo, excepto para el propósito deliberado de la concepción, fue sentenciado de diversas maneras por los clérigos al uso –y al ‘abuso’– que puede causar ceguera, sordera y confusión mental, así como la condenación eterna. Corramos un estúpido velo (por inútil) a estas consideraciones religiosas y cuando estemos delante de un cuadro de Balthus, pensemos que afortunadamente su obra no ha sido quemada por ‘la Inquisición’ (la de antes y la actual) y pensemos que en la obra de Balthus el tema de la adolescencia tiene **un sentido más transcendental**.
 
-\[caption id="attachment\_7763" align="aligncenter" width="800"\]![habitacion turca de balthus, museo thyssen, obra polemica de balthus](etheria-images/2019/02/Habitacion-turca-Balthus-Thyssen-Madrid.jpg "La habitación turca forma parte de la muestra del Thyssen-Bornemisza") 'La habitación turca' forma parte de la muestra del Thyssen-Bornemisza. (1965 -1966) © Balthus.\[/caption\]
+\[caption id="attachment\_7763" align="aligncenter" width="800"\]![habitacion turca de balthus, museo thyssen, obra polemica de balthus](https://fotos.etheriamagazine.com/2019/02/Habitacion-turca-Balthus-Thyssen-Madrid.jpg "La habitación turca forma parte de la muestra del Thyssen-Bornemisza") 'La habitación turca' forma parte de la muestra del Thyssen-Bornemisza. (1965 -1966) © Balthus.\[/caption\]
 
 ## La luz que nace de la pintura de Balthus
 

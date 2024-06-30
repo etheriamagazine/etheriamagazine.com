@@ -1,7 +1,7 @@
 ---
 title: "Hotel Meliá Cala Galdana, tu punto de partida para recorrer Menorca"
 date: 2023-09-01
-coverImage: etheria-images/2023/08/menorca-Melia-Cala-Galdana-vista-general.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/08/menorca-Melia-Cala-Galdana-vista-general.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -16,7 +16,7 @@ nada mejor que alojarse en un cinco estrellas como el hotel Meliá Cala Galdana.
 sede perfecta tanto para un viaje en familia como si acudes a la isla en pareja o con 
 amigos. 
 
-![Vistas desde el Cape Nao Beach Club & Restaurant del Meliá Cala Galdana.](etheria-images/2023/08/Menorca-Melia-Cala-Galdana-Cape-Nao-Beach-Club.jpg "Vistas desde el Cape Nao Beach Club & Restaurant del Meliá Cala Galdana.")
+![Vistas desde el Cape Nao Beach Club & Restaurant del Meliá Cala Galdana.](https://fotos.etheriamagazine.com/2023/08/Menorca-Melia-Cala-Galdana-Cape-Nao-Beach-Club.jpg "Vistas desde el Cape Nao Beach Club & Restaurant del Meliá Cala Galdana.")
 
 Hay hoteles que te facilitan las vacaciones. Y esto va más allá de la calidad de sus 
 instalaciones y servicios, que en el caso del hotel de cinco estrellas Meliá Cala 
@@ -31,7 +31,7 @@ excelente lugar para hacer una excursión en barco por las calas del sur de la i
 para realizar un tramo de la ruta senderistas del **Camí de Cavalls** hasta la 
 maravillosa cala Macarella. 
 
-![panorámica de Cala Galdana](etheria-images/2023/08/menorca-Melia-Cala-Galdana-vista-general.jpg "Cala Galdana, con el hotel Meliá Cala Galdana en el centro.")
+![panorámica de Cala Galdana](https://fotos.etheriamagazine.com/2023/08/menorca-Melia-Cala-Galdana-vista-general.jpg "Cala Galdana, con el hotel Meliá Cala Galdana en el centro.")
 
 ## Las mejores vistas
 
@@ -57,7 +57,7 @@ habitación y un sofá cama pero también existe la opción de reservar una **ha
 Familiar Comunicada**, que tiene la ventaja de estar formada por dos habitaciones, cada 
 una con su baño. 
 
-![bañera en habitación del Meliá Cala Galdana.](etheria-images/2023/08/Menorca-Melia-Cala-Galdana-Suite-The-Level.jpg "Bañera con vistas en una de las Suites.")
+![bañera en habitación del Meliá Cala Galdana.](https://fotos.etheriamagazine.com/2023/08/Menorca-Melia-Cala-Galdana-Suite-The-Level.jpg "Bañera con vistas en una de las Suites.")
 
 ### Habitaciones The Level
 
@@ -79,7 +79,7 @@ platos a la carta que se convierte durante el resto del día en un lugar abierto
 reunión y descanso con bebidas incluidas y un completo aperitivo de 17 a 18 horas. Y lo 
 mejor, una piscina privada _infinity pool_ para mayores de 16 años con preciosas vistas. 
 
-![infinity pool del hotel Meliá Cala Galdana](etheria-images/2023/08/menorca-Melia-CalaGaldana-piscina-level.jpg "Piscina para las habitaciones The Level.")
+![infinity pool del hotel Meliá Cala Galdana](https://fotos.etheriamagazine.com/2023/08/menorca-Melia-CalaGaldana-piscina-level.jpg "Piscina para las habitaciones The Level.")
 
 ## Los restaurantes
 
@@ -99,7 +99,7 @@ Un restaurante italiano en un hotel tan adecuado para familias como éste es gar
 éxito. Aquí, **Cosa Nostra** ofrece una carta que combina platos tradicionales italianos 
 con otros más vanguardistas, tiene zona interior y una terraza con vistas maravillosas. 
 
-![Terraza del restaurante Cosa Nostra.](etheria-images/2023/08/Menorca-Melia-Cala-Galdana-Casa-Nostra-Restaurant-terrace-sunset.jpg "Terraza del restaurante Cosa Nostra.")
+![Terraza del restaurante Cosa Nostra.](https://fotos.etheriamagazine.com/2023/08/Menorca-Melia-Cala-Galdana-Casa-Nostra-Restaurant-terrace-sunset.jpg "Terraza del restaurante Cosa Nostra.")
 
 Junto a la salida a la playa está el **Cape Nao Beach Club & Restaurant**, el mejor 
 lugar para probar los arroces o las típicas y deliciosas langostas menorquinas en 
@@ -121,7 +121,7 @@ la entrada e incluye una piscina infantil y otra para todos los públicos. Los c
 que se alojen en las habitaciones The Level podrán utilizar además la piscina para 
 mayores de 16 años que se encuentra junto al restaurante Cape Nao, al lado de la playa. 
 
-![Zona exterior de gimnasio en el hotel Meliá Cala Galdana](etheria-images/2023/08/Menorca-Melia-Cala-Galdana-.exterior-gym.jpg "Zona exterior de gimnasio.")
+![Zona exterior de gimnasio en el hotel Meliá Cala Galdana](https://fotos.etheriamagazine.com/2023/08/Menorca-Melia-Cala-Galdana-.exterior-gym.jpg "Zona exterior de gimnasio.")
 
 Para hacer deporte, el Meliá Cala Galdana dispone de dos espacios: un **gimnasio** en el 
 interior con un completo equipamiento y una zona al aire libre, también perfectamente 
@@ -138,7 +138,7 @@ animadores, los personajes Willow, Holly y el Árbol de la Vida, que además les
 transmitirán valores como cuidar el medioambiente. Los más pequeños no querrán salir de 
 allí. 
 
-![Zona infantil Kidsdom del hotel Meliá Cala Galdana](etheria-images/2023/08/Menorca-Melia-Cala-Galdana-kidsdom.jpg "Zona infantil Kidsdom.")
+![Zona infantil Kidsdom del hotel Meliá Cala Galdana](https://fotos.etheriamagazine.com/2023/08/Menorca-Melia-Cala-Galdana-kidsdom.jpg "Zona infantil Kidsdom.")
 
 [Meliá Cala Galdana](https://www.melia.com/es/hoteles/espana/menorca/melia-cala-galdana) 
 Avda. de sa Punta, s/n. 07750 Cala Galdana. Tel. +34 971 15 45 45 

@@ -1,7 +1,7 @@
 ---
 title: "Viajes de novios por Europa: 10 propuestas para acertar seguro"
 date: 2021-11-19
-coverImage: etheria-images/2021/11/everton-vila-AsahNlC0VhQ-unsplash.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash.jpg
 categories: 
   - viajes-romanticos
   - de-un-vistazo
@@ -16,7 +16,7 @@ pero a menudo no hace falta irse muy lejos para disfrutar de lugares maravilloso
 de interés viajero. En este artículo os demostramos con solo 10 opciones (hay muchas 
 más) por qué Europa es perfecta para vuestro viaje de novios. 
 
-![Un viaje de novios por Europa es una excelente opción.](etheria-images/2021/11/everton-vila-AsahNlC0VhQ-unsplash-900x600.jpg "Un viaje de novios por Europa es una excelente opción.")
+![Un viaje de novios por Europa es una excelente opción.](https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash-900x600.jpg "Un viaje de novios por Europa es una excelente opción.")
 
 Un viaje de novios puede ser cómo tu quieras. Y si por motivos económicos, de tiempo, o, 
 incluso, por restricciones internacionales para viajar como las que estamos viviendo 
@@ -33,7 +33,7 @@ pusieron de moda destinos más lejanos. Pero aquí queremos poner en valor a est
 no tiene nada que envidiar a otros considerados más exóticos. Ofrece cultura y la 
 posibilidad de realizar un crucero entre islas maravillosas surcando un mar increíble. 
 
-![Santorini.](etheria-images/2021/11/viaje-mujeres-crucero-islas-griegas-Santorini-1024x681-1-900x599.jpg "Santorini. © Félix Lorenzo")
+![Santorini.](https://fotos.etheriamagazine.com/2021/11/viaje-mujeres-crucero-islas-griegas-Santorini-1024x681-1-900x599.jpg "Santorini. © Félix Lorenzo")
 
 Puedes elegir entre una ruta por Atenas y el Peloponeso, visitando lugares como Delfos, 
 Olimpia y Corintio; o un crucero por las Islas Griegas, en el que no pueden faltar 
@@ -56,7 +56,7 @@ para ver las auroras boreales? Existen varios alojamientos de este tipo, como la
 Buble del Nellim Hotel](https://nellim.fi/nellim/accommodation/aurora-bubble/) o las 
 habitaciones del hotel [Levin Iglut](https://leviniglut.net/). 
 
-![Aurora boreal en Laponia.](etheria-images/2021/11/6-NUESTROS-TOP-LAPONIA-FOTO-6-aurora-borealis-1156479-PIXABAY-900x617.jpg "Aurora boreal en Laponia.")
+![Aurora boreal en Laponia.](https://fotos.etheriamagazine.com/2021/11/6-NUESTROS-TOP-LAPONIA-FOTO-6-aurora-borealis-1156479-PIXABAY-900x617.jpg "Aurora boreal en Laponia.")
 
 En una luna de miel como ésta es fundamental reservar el alojamiento y las excursiones 
 con bastante antelación ya que hay mucha demanda, pero es un viaje que puede ser 
@@ -82,7 +82,7 @@ España. Además de recorrer localidades míticas como Niza, Antibes, Saint-Trop
 Cannes o el Principado de Mónaco, es posible disfrutar de sus playas y sus preciosos 
 jardines. 
 
-![Yates en Menton, en la Costa Azul.](etheria-images/2021/11/menton-costa-azul.jpg "Yates en Menton, en la Costa Azul.")
+![Yates en Menton, en la Costa Azul.](https://fotos.etheriamagazine.com/2021/11/menton-costa-azul.jpg "Yates en Menton, en la Costa Azul.")
 
 Eso sí, como en una luna de miel no conviene improvisar, trazad bien la ruta con 
 **Google Maps** y calculad las distancias para recorrer este destino con calma. También 
@@ -105,7 +105,7 @@ mejor es centrarse en **Reijavik, la parte sur de la isla**, que está llena de
 atractivos: el Parque Nacional de Thinkvellir, la zona geotermal de Geysir, la cascada 
 de Gullfoss, el Parque Nacional Skaftafell o la Laguna Azul. 
 
-![Cascada Seljalandsfoss.](etheria-images/2021/11/Islandia-cascada-seljalandsfoss.jpg "Cascada Seljalandsfoss.")
+![Cascada Seljalandsfoss.](https://fotos.etheriamagazine.com/2021/11/Islandia-cascada-seljalandsfoss.jpg "Cascada Seljalandsfoss.")
 
 En verano se puede visitar también el **norte de la isla**, con lugares como Akureyri y 
 la cascada de Godafoss y Husavik, desde donde vivir la increíble experiencia de avistar 
@@ -126,7 +126,7 @@ excelente gastronomía. Su capital, **Bari**, conserva un precioso casco histór
 ciudades como **Trani**, **Barletta** y **Ruvo** están llenas de sorpresas en forma de 
 estrechas callejuelas e imponentes monumentos. 
 
-![Alberobello es una parada imprescindible en un viaje por Apulia.](etheria-images/2021/11/que-ver-Alberobello-puglia.jpg "Alberobello es una parada imprescindible en un viaje por Apulia.")
+![Alberobello es una parada imprescindible en un viaje por Apulia.](https://fotos.etheriamagazine.com/2021/11/que-ver-Alberobello-puglia.jpg "Alberobello es una parada imprescindible en un viaje por Apulia.")
 
 Mención especial merece la localidad de **Alberobello**, con sus construcciones típicas 
 llamadas trullis y una historia llena de picaresca que merece la pena conocer. Y si no 
@@ -147,7 +147,7 @@ opción llena de interés y que cada vez gana más adeptos es pasar unos días e
 para conocer su capital y acudir a alguno de sus restaurantes de moda (no os perdáis [Maaemo](https://maaemo.no/)) 
 para después iniciar una ruta por los fiordos noruegos. 
 
-![Mirador sobre el fiordo de Geiranger.](etheria-images/2021/11/Fiordo-geiranger-Noruega-Etheria-14-900x598.jpg "Mirador sobre el fiordo de Geiranger. © Felix Lorenzo")
+![Mirador sobre el fiordo de Geiranger.](https://fotos.etheriamagazine.com/2021/11/Fiordo-geiranger-Noruega-Etheria-14-900x598.jpg "Mirador sobre el fiordo de Geiranger. © Felix Lorenzo")
 
 Podéis plantear el viaje de dos formas diferentes: en **crucero** (la mayoría de las 
 compañías de cruceros cuentan con rutas por los fiordos) o por vuestra cuenta con coche 
@@ -181,7 +181,7 @@ menos conocidas e igual de interesantes como Brac o Krk). El broche final tiene 
 la preciosa (y romántica) ciudad de **Dubrovnik**, con sus calles empedradas, sus 
 murallas y sus pequeños cafés escondidos. 
 
-![Sibenik desde el mar.](etheria-images/2021/11/viaje-croacia-sibenik.jpg "Sibenik desde el mar. © Sergii Gulenok")
+![Sibenik desde el mar.](https://fotos.etheriamagazine.com/2021/11/viaje-croacia-sibenik.jpg "Sibenik desde el mar. © Sergii Gulenok")
 
 Si queréis una luna de miel original y privada, tened muy en cuenta la opción de 
 **alquilar un barco con patrón** durante una semana para recorrer así el lado menos 
@@ -203,7 +203,7 @@ alquiler. No pueden faltar en ningún caso sus capitales, **Vilnius, Riga y Tall
 unas ciudades encantadoras con preciosos y coloridos cascos históricos con iglesias y 
 palacios. 
 
-![Tallin después del atardecer.](etheria-images/2021/11/tallin-republicas-balticas.jpg "Tallin después del atardecer.")
+![Tallin después del atardecer.](https://fotos.etheriamagazine.com/2021/11/tallin-republicas-balticas.jpg "Tallin después del atardecer.")
 
 Además, en **Lituania** no puede faltar una parada en Kaunas y el Parque Nacional 
 Neringa; en **Letonia** una visita al Parque Nacional de Gauja; y en **Estonia** la 
@@ -219,7 +219,7 @@ alquiler. Tenéis que incluir en el recorrido **Mdina**, que fue capital de Malt
 conserva un precioso aspecto fortificado, y el **Hipogeo de Hal Saflieni**, el único 
 templo subterráneo que se conserva en el mundo. 
 
-![Vista de Mdina.](etheria-images/2021/11/Malta-Mdina.jpg "Vista de Mdina. © VisitMalta")
+![Vista de Mdina.](https://fotos.etheriamagazine.com/2021/11/Malta-Mdina.jpg "Vista de Mdina. © VisitMalta")
 
 Además, las otras islas del archipiélago, **Gozo** y **Comino**, son perfectas para 
 hacer una excursión en la que desconectar de todo y disfrutar de un mar tan azul que no 
@@ -247,7 +247,7 @@ reducir los tiempos de transporte al máximo. Aunque, la verdad, las bellas regi
 checas, austriacas y húngaras que veréis a vuestro paso merecen ser contempladas 
 primeros desde una ventanilla. 
 
-![Perfil de Praga desde el Puente de Carlos.](etheria-images/2021/11/viaje-praga-puente-carlos-900x580.jpg "Perfil de Praga desde el Puente de Carlos.")
+![Perfil de Praga desde el Puente de Carlos.](https://fotos.etheriamagazine.com/2021/11/viaje-praga-puente-carlos-900x580.jpg "Perfil de Praga desde el Puente de Carlos.")
 
 ¿Otro aliciente de este viaje? La cultura, en forma de hitos arquitectónicos, museos, 
 exposiciones y conciertos. Imposible aburrirse en estas ciudades donde siempre se os 

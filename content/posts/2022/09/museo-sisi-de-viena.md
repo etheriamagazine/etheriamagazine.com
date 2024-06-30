@@ -1,7 +1,7 @@
 ---
 title: "Así es la verdadera historia de Sisi, y no es de cuento"
 date: 2022-09-07
-coverImage: etheria-images/2022/09/retrato-sisi-museo-viena.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/09/retrato-sisi-museo-viena.jpg
 categories: 
   - historias-en-femenino
   - exposiciones
@@ -16,7 +16,7 @@ el de su muerte a manos de un anarquista un 10 de septiembre de hace 125 años. 
 Museo Sisi de Viena puedes conocer más sobre su vida y observar sus vestidos y objetos 
 personales . 
 
-![Retratos del emperador Francisco José y de Sisi, pintados por F. X. Winterhalter en 1895.](etheria-images/2022/09/retrato-sisi-museo-viena.jpg "Retratos del emperador Francisco José y de Sisi, pintados por F. X. Winterhalter en 1895.")
+![Retratos del emperador Francisco José y de Sisi, pintados por F. X. Winterhalter en 1895.](https://fotos.etheriamagazine.com/2022/09/retrato-sisi-museo-viena.jpg "Retratos del emperador Francisco José y de Sisi, pintados por F. X. Winterhalter en 1895.")
 
 En las navidades de 1955 se estrenó en Viena “Sissi”, la célebre película dirigida por 
 Ernst Marischka, protagonizada por Romy Schneider y Karlheinz Böhm. La _première_ 
@@ -30,7 +30,7 @@ personaje mitificado, con una vida de ensueño, donde los avatares de la histori
 adornaban un argumento edulcorado, interpretado por personajes que parecían salidos de 
 la factoría Disney. Pero su biografía no fue precisamente un camino de rosas. 
 
-![Palacio de Schoenbrunn donde se sitúa el Museo de Sisi](etheria-images/2022/09/Museo-sisi-viena.jpg "El Sisi Museum de Viena es una visita imprescindible de la capital austriaca.")
+![Palacio de Schoenbrunn donde se sitúa el Museo de Sisi](https://fotos.etheriamagazine.com/2022/09/Museo-sisi-viena.jpg "El Sisi Museum de Viena es una visita imprescindible de la capital austriaca.")
 
 ## Sisi, días de hiel y rosas
 
@@ -55,7 +55,7 @@ lo pensó mucho, inmediatamente le propuso matrimonio. Ella fue la primera sorpr
 aunque sobrepasada por las circunstancias, no tuvo más remedio que aceptar, al fin y al 
 cabo nada se le podía negar al emperador de Austria. Su destino estaba sellado. 
 
-![Uno de los vestidos de la emperatriz en el Museo Sisi de Viena](etheria-images/2022/09/vestido-sisi-museo-viena.jpg "Una réplica de uno de los vestidos de la emperatriz Sisi.")
+![Uno de los vestidos de la emperatriz en el Museo Sisi de Viena](https://fotos.etheriamagazine.com/2022/09/vestido-sisi-museo-viena.jpg "Una réplica de uno de los vestidos de la emperatriz Sisi.")
 
 ## En la Corte de los Habsburgo
 
@@ -81,7 +81,7 @@ ideas liberales, aunque hay quien señala a los servicios secretos franceses com
 ejecutores del crimen. Completamente hundida abandonó Viena y a partir de entonces 
 vistió de riguroso luto. 
 
-![Una estatua de la emperatriz de Hermann Klotz preside la entrada al museo.](etheria-images/2022/09/escultura-sisi-museo-viena.jpg "Una estatua de la emperatriz Sisi, de Hermann Klotz, preside la entrada al museo.")
+![Una estatua de la emperatriz de Hermann Klotz preside la entrada al museo.](https://fotos.etheriamagazine.com/2022/09/escultura-sisi-museo-viena.jpg "Una estatua de la emperatriz Sisi, de Hermann Klotz, preside la entrada al museo.")
 
 ## Las rutinas de belleza de una _it girl_
 
@@ -101,7 +101,7 @@ carbohidratos. Aunque su debilidad por los dulces hace pensar que algún que otr
 caprichito posiblemente se diera, sobre todo si tenemos en cuenta la tradición pastelera 
 de la capital austriaca. 
 
-![Sala con vestidos en el Museo Sisi de Viena](etheria-images/2022/09/museo-viena-vestido-sisi.jpg "El Sisi Museum de Viena exibe cerca de 300 objetos personales de Sisi.")
+![Sala con vestidos en el Museo Sisi de Viena](https://fotos.etheriamagazine.com/2022/09/museo-viena-vestido-sisi.jpg "El Sisi Museum de Viena exibe cerca de 300 objetos personales de Sisi.")
 
 En su tocador nunca faltaba la _Crème à la Fraise_ de Guerlain. Su formulación 
 garantizaba la protección y la suavidad que su delicado cutis necesitaba. Además el 
@@ -114,7 +114,7 @@ diaria invertía alrededor de 3 horas y algunas más cada vez que se lavaba el p
 normalmente era 1 vez cada tres semanas. **Fanny Feifalik** fue su peluquera personal y 
 la creadora de los elaborados recogidos que lucía en público. 
 
-![Entrada del Museo Sisi.](etheria-images/2022/09/museo-sisi-viena-entrada.jpg "Entrada del Museo Sisi.")
+![Entrada del Museo Sisi.](https://fotos.etheriamagazine.com/2022/09/museo-sisi-viena-entrada.jpg "Entrada del Museo Sisi.")
 
 ## Muerte en Suiza
 

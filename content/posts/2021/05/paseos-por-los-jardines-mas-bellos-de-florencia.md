@@ -1,7 +1,7 @@
 ---
 title: "Nueve paseos a la italiana por los jardines más bellos de Florencia"
 date: 2021-05-21
-coverImage: etheria-images/2021/04/Jardin-Boboli-florencia.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/04/Jardin-Boboli-florencia.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -11,7 +11,7 @@ authors:
 
 El atractivo florentino no reside solo en sus impactantes museos, en sus monumentos o en su arquitectura renacentista, sino que también se exhibe en sus espléndidos espacios verdes. En este artículo encontrarás una selección de parques y jardines de Florencia que no te puedes perder en tu viaje.
 
-![boboli jardines de florencia](etheria-images/2021/04/jardin-boboli-florencia-1.jpg "Jardín de Boboli, en Florencia.")
+![boboli jardines de florencia](https://fotos.etheriamagazine.com/2021/04/jardin-boboli-florencia-1.jpg "Jardín de Boboli, en Florencia.")
 
 La región de Toscana posee alrededor de **160 jardines** abiertos al público, en villas, 
 museos, palacios…, donde la belleza artística, la cultura, la naturaleza y el patrimonio 
@@ -28,7 +28,7 @@ jardines históricos en villas, parques antiguos o de reciente creación, supone
 delicia para los sentidos, una fuente de cultura y una oportunidad para descansar en 
 remansos de tranquilidad y relax. 
 
-![escultura jardin boboli](etheria-images/2021/04/jardin-boboli-escultura.jpg "Las esculturas también forman parte de los jardines de Florencia.")
+![escultura jardin boboli](https://fotos.etheriamagazine.com/2021/04/jardin-boboli-escultura.jpg "Las esculturas también forman parte de los jardines de Florencia.")
 
 ## Villas y Jardines de los Medicis
 
@@ -51,7 +51,7 @@ se dedicarán al tiempo libre, a las artes y al conocimiento. Las Villas Medicea
 jardines representan un nuevo estilo de arquitectura que conecta, por primera vez, el 
 hábitat, los jardines y el ambiente rural, convirtiéndose en ejemplo para toda Europa. 
 
-![Villa medicea di Castello](etheria-images/2021/04/pintura-jardines-Castello-florencia.jpg "Villa medicea di Castello, del pintor Giusto Utens. © WC")
+![Villa medicea di Castello](https://fotos.etheriamagazine.com/2021/04/pintura-jardines-Castello-florencia.jpg "Villa medicea di Castello, del pintor Giusto Utens. © WC")
 
 ## Jardines de Florencia
 
@@ -82,7 +82,7 @@ Se pueden hacer a pie o en bicicleta y en pocos días. En estos paseos “a la i
 encontraréis, a la vez, relax, arte, naturaleza e historia, por lo que son altamente 
 recomendables, descubriendo, además, una faceta muy original de Florencia. 
 
-![Villa Medici Fiesole mejores jardines de florencia](etheria-images/2021/04/Villa-Medici-Fiesole.jpg "Villa Medici en Fiesole. © Wikimedia commons")
+![Villa Medici Fiesole mejores jardines de florencia](https://fotos.etheriamagazine.com/2021/04/Villa-Medici-Fiesole.jpg "Villa Medici en Fiesole. © Wikimedia commons")
 
 ## Ruta por 9 hermosos jardines de Florencia
 
@@ -103,7 +103,7 @@ visitar](http://www.fiesoleforyou.it/ville-e-giardini/).
 Visitas **con reserva** (en [annamarchimazzini@gmail.com](mailto:annamarchimazzini@gmail.com)) 
 ¿Dónde? Via Angelico, 2 – Fiesole (Florencia) 
 
-![Villa Castello jardines de florencia](etheria-images/2021/04/Villa-Castello-Florencia.jpg "Villa Castello. © Città Metropolitana di Firenze- ufficio Turismo")
+![Villa Castello jardines de florencia](https://fotos.etheriamagazine.com/2021/04/Villa-Castello-Florencia.jpg "Villa Castello. © Città Metropolitana di Firenze- ufficio Turismo")
 
 ### 2\. Villa Medicea de Castello
 
@@ -120,7 +120,7 @@ llamado mugherino, son dos pequeñas joyas.
 
 Precio: Entrada gratuita. ¿Dónde? Via di S. Michele a Castello, 47. 
 
-![Villa Medicea della Petraia](etheria-images/2021/04/Villa-Medicea-della-Petraia.jpg "Villa Medicea della Petraia. © Città Metropolitana di Firenze- ufficio Turismo")
+![Villa Medicea della Petraia](https://fotos.etheriamagazine.com/2021/04/Villa-Medicea-della-Petraia.jpg "Villa Medicea della Petraia. © Città Metropolitana di Firenze- ufficio Turismo")
 
 ### 3\. Villa Medicea de La Petraia
 
@@ -135,7 +135,7 @@ bello jardín.
 
 Precio: Entrada libre. ¿Dónde? Via Castello della Petraia, 40. 
 
-![jardines de florencia boboli](etheria-images/2021/04/Jardin-Boboli-florencia.jpg "Jardín Boboli y su villa. © Città Metropolitana di Firenze - Ufficio Turismo")
+![jardines de florencia boboli](https://fotos.etheriamagazine.com/2021/04/Jardin-Boboli-florencia.jpg "Jardín Boboli y su villa. © Città Metropolitana di Firenze - Ufficio Turismo")
 
 ### 4\. Jardín de Boboli
 
@@ -153,7 +153,7 @@ cada rincón del jardín es una auténtica maravilla.
 Precio: Con la tarifa del Jardín de Boboli se puede entrar en el Jardín de Villa 
 Bardini. ¿Dónde? Piazza de' Pitti, 1. 
 
-![bardini jardines de florencia](etheria-images/2021/04/Jardines-Bardini-Florencia.jpg "Jardines Bardini vistas sobre Florencia. © Città Metropolitana di Firenze - Ufficio Turismo.")
+![bardini jardines de florencia](https://fotos.etheriamagazine.com/2021/04/Jardines-Bardini-Florencia.jpg "Jardines Bardini vistas sobre Florencia. © Città Metropolitana di Firenze - Ufficio Turismo.")
 
 ### 5\. Jardín de Villa Bardini
 
@@ -163,7 +163,7 @@ la villa destaca por su **flora y vistas de la ciudad**.
 
 Precio: Entrada libre. ¿Dónde? Costa S. Giorgio, 2-4. 
 
-![Parque Cascine florencia](etheria-images/2021/04/Parque-Cascine-florencia.jpg "Parque Cascine. © Citta Metropolitana di Firenze- ufficio turismo.")
+![Parque Cascine florencia](https://fotos.etheriamagazine.com/2021/04/Parque-Cascine-florencia.jpg "Parque Cascine. © Citta Metropolitana di Firenze- ufficio turismo.")
 
 ### 6\. Parque delle Cascine
 
@@ -178,7 +178,7 @@ kilómetro de largo, donde comprar todo tipo de cosas.
 
 ¿Dónde? Piazzale delle Cascine, 7. 
 
-![jardin de las rosas de florencia](etheria-images/2021/04/Jardin-de-las-Rosas-florencia.jpg "Jardín de las Rosas. © Città Metropolitana di Firenze- ufficio Turismo")
+![jardin de las rosas de florencia](https://fotos.etheriamagazine.com/2021/04/Jardin-de-las-Rosas-florencia.jpg "Jardín de las Rosas. © Città Metropolitana di Firenze- ufficio Turismo")
 
 ### 7\. Jardín del Iris y Jardín de las Rosas
 
@@ -199,7 +199,7 @@ mayo, cuando el iris florece.
 
 Precio: Entrada gratuita. ¿Dónde? Plaza Michelangelo**.** 
 
-![jardin horticultura florencia](etheria-images/2021/04/Jardin-Horticultura-florencia.jpg "Jardín de la Horticultura. © Città Metropolitana di Firenze- ufficio Turismo.")
+![jardin horticultura florencia](https://fotos.etheriamagazine.com/2021/04/Jardin-Horticultura-florencia.jpg "Jardín de la Horticultura. © Città Metropolitana di Firenze- ufficio Turismo.")
 
 ### 8\. Jardín de la Horticultura y Orti del Parnaso
 
@@ -215,7 +215,7 @@ hacia el jardín de la Horticultura.
 
 ¿Dónde? Via Bolognese, 17. 
 
-![Villa Pratolino florencia](etheria-images/2021/04/Villa-Pratolino-florencia.jpg "Villa Pratolino. © Città Metropolitana di Firenze- ufficio Turismo")
+![Villa Pratolino florencia](https://fotos.etheriamagazine.com/2021/04/Villa-Pratolino-florencia.jpg "Villa Pratolino. © Città Metropolitana di Firenze- ufficio Turismo")
 
 ### 9\. Jardín Mediceo de Pratolino
 

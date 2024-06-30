@@ -1,7 +1,7 @@
 ---
 title: "Cómo cuidar tu salud íntima, consejos básicos y falsos mitos"
 date: 2023-07-05
-coverImage: etheria-images/2023/07/depilacion-playa.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/07/depilacion-playa.jpg
 categories: 
   - salud-bienestar-nutricion
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ del cuerpo. La hidratación o los ejercicios de suelo pélvico son hábitos salu
 podemos incorporar a nuestra rutina en tiempos en los que la depilación u operarse son 
 tendencia. 
 
-![Una naranja con forma de vagina para explicar la salud vaginal](etheria-images/2023/07/salud-vaginal.jpg "La importancia de la salud vaginal. © Alexander Grey")
+![Una naranja con forma de vagina para explicar la salud vaginal](https://fotos.etheriamagazine.com/2023/07/salud-vaginal.jpg "La importancia de la salud vaginal. © Alexander Grey")
 
 Frotar, pulir y dar cera… De una forma muy divertida y amena, la [ginecóloga Miriam Al 
 Adib](https://www.instagram.com/miriam_al_adib/) explica en los vídeos de sus redes 
@@ -34,7 +34,7 @@ la necesidad de disimular un olor corporal que, salvo que haya problemas de salu
 normal. Por eso es tan importante acudir solamente a expertos para validar la 
 información. 
 
-![Dos mujeres se hablan al oido](etheria-images/2023/07/consejos-suelo-pelvio.jpg "El cuidado genital sigue siendo tabú. © Katie Treadway")
+![Dos mujeres se hablan al oido](https://fotos.etheriamagazine.com/2023/07/consejos-suelo-pelvio.jpg "El cuidado genital sigue siendo tabú. © Katie Treadway")
 
 ## Una imagen vaginal que avergüenza
 
@@ -49,7 +49,7 @@ cualquier otra. Por eso hay que aprender a cuidarlos adecuadamente y sobre todo,
 dedicarles un rato de atención al día, como hacemos con el resto de nuestra higiene 
 personal. Pero sin pasarse. 
 
-![Hidratante vulvar de isdn](etheria-images/2023/07/hidratante-vulva.jpg "Hidratante vulvar de ISDN.")
+![Hidratante vulvar de isdn](https://fotos.etheriamagazine.com/2023/07/hidratante-vulva.jpg "Hidratante vulvar de ISDN.")
 
 ## Me tengo que hidratar la vulva igual que el codo
 
@@ -77,7 +77,7 @@ genitales y su cuerpo reacciona. Pero en todos hay un factor psicológico. “Bu
 armonizar porque la simetría es imposible, somos asimétricos”, explica Valerie Tasso. A 
 medida que envejecemos se produce el prolapso, que es la caída de los órganos internos. 
 
-![Mujer en la playa en bañador para mostrar que la depilación no es perjudicial.](etheria-images/2023/07/depilacion-playa.jpg "La depilación no es perjudicial. © Jakob Owens")
+![Mujer en la playa en bañador para mostrar que la depilación no es perjudicial.](https://fotos.etheriamagazine.com/2023/07/depilacion-playa.jpg "La depilación no es perjudicial. © Jakob Owens")
 
 ## Depilarse el vello púbico no aumenta el riesgo de infecciones de transmisión sexual
 
@@ -105,7 +105,7 @@ más nos vamos a aceptar”, dice. “Hay mujeres que se sienten empoderadas, po
 han explorado, aunque tienen una gran imagen de sí mismas y sin embargo, otras no se han 
 explorado y no tienen una buena autoimagen”. 
 
-![Bolas chinas de Lelo para fortalecer el suelo pélvico.](etheria-images/2023/07/bolas-chinas-ejercicios-kegel.jpg "Bolas de Lelo para fortalecer el suelo pélvico.")
+![Bolas chinas de Lelo para fortalecer el suelo pélvico.](https://fotos.etheriamagazine.com/2023/07/bolas-chinas-ejercicios-kegel.jpg "Bolas de Lelo para fortalecer el suelo pélvico.")
 
 ## Mejorar la salud del suelo pélvico facilita el orgasmo
 

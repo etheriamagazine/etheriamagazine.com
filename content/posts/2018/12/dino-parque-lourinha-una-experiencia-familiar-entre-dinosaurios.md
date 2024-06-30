@@ -1,7 +1,7 @@
 ---
 title: "Dino Parque Lourinhã, una experiencia familiar entre dinosaurios"
 date: 2018-12-20
-coverImage: etheria-images/2018/12/Dinoparque-lourinha-viajes-familias-5-e1561371638676.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-5-e1561371638676.jpg
 categories: 
   - viaje-en-familia
   - parques-ocio
@@ -15,7 +15,7 @@ Portugal, un espacio para aprender y divertirse al mismo tiempo. El extraordinar
 realismo de los dinosaurios colocados en su interior aseguran una vivencia excitante que 
 se complementa con talleres y exposiciones. 
 
-![entrada Dino Parque Lourinhã](etheria-images/2018/12/Dinoparque-lourinha-viajes-familias-1024x683.jpg "Entrada principal a Dino Parque Lourinhã.")
+![entrada Dino Parque Lourinhã](https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-1024x683.jpg "Entrada principal a Dino Parque Lourinhã.")
 
 Dino Parque Lourinhã ¿es un parque o un museo? Es una mezcla de ambos porque en las diez 
 hectáreas de terreno sobre las que se extiende hay lugar para todo. Ha sido concebido 
@@ -30,7 +30,7 @@ dinosaurios y de otros animales a escala real que causarán una sorpresa mayúsc
 más pequeños. Preparad la cámara porque muchos están situados junto al camino y os 
 podréis hacer fotos con ellos. 
 
-![dinosaurio en parque Lourinha](etheria-images/2018/12/Dinoparque-lourinha-viajes-familias-5-1024x683.jpg "Este espacio cuenta con 4 circuitos bien señalizados.")
+![dinosaurio en parque Lourinha](https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-5-1024x683.jpg "Este espacio cuenta con 4 circuitos bien señalizados.")
 
 Los modelos han sido construidos con un alto rigor científico y de acuerdo a los últimos 
 hallazgos realizados por paleontólogos de todo el mundo. Los que más os llamarán la 
@@ -48,7 +48,7 @@ número de hallazgos de hace unos 150 millones de años. Parece ser que esta zon
 delta del río no sólo servía para alimentarlos sino que también contaba con condiciones 
 óptimas de conservación de fósiles. 
 
-![reproducción de dinosaurio en el parque Lourinha](etheria-images/2018/12/Dinoparque-lourinha-viajes-familias-1-1024x683.jpg "Los dinosaurios son reproducciones fieles a la fisonomía que determinan los expertos.")
+![reproducción de dinosaurio en el parque Lourinha](https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-1-1024x683.jpg "Los dinosaurios son reproducciones fieles a la fisonomía que determinan los expertos.")
 
 Entre los descubrimientos más importantes en la región se encuentra uno de los mayores 
 nidos de dinosaurios del Jurásico, que contenía algunos de los embriones más antiguos 
@@ -61,7 +61,7 @@ creación tuvieron lugar en 2012 con otro espacio que tiene una iniciativa simil
 Alemania, [Dinosaurierpark Münchehagen](https://www.dinopark.de/), con quienes mantienen 
 acuerdos de colaboración. 
 
-![Sala de exposiciones de Dino Parque Lourinhã (Portugal).](etheria-images/2018/12/dinoparque-lourinha-portugal-1024x683.jpg "Sala de exposiciones de Dino Parque Lourinhã (Portugal).")
+![Sala de exposiciones de Dino Parque Lourinhã (Portugal).](https://fotos.etheriamagazine.com/2018/12/dinoparque-lourinha-portugal-1024x683.jpg "Sala de exposiciones de Dino Parque Lourinhã (Portugal).")
 
 ## Talleres en Dino Parque Lourinh**ã**
 
@@ -72,13 +72,13 @@ profesionales en el laboratorio a través de su pared de cristal. Podrán observ
 cómo preparan los huesos fosilizados hasta el montaje de un esqueleto completo. Más de 
 un niño tendrá clara su vocación al salir de Dino Parque. 
 
-![científica trabajando en parque Lourinha](etheria-images/2018/12/Dinoparque-lourinha-viajes-familias-2-1024x683.jpg "Laboratorio donde trabajan los profesionales e investigadores del parque.")
+![científica trabajando en parque Lourinha](https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-2-1024x683.jpg "Laboratorio donde trabajan los profesionales e investigadores del parque.")
 
 En los pabellones de actividades se desarrollan actividades para todas las edades 
 relacionadas con la paleontología. Es difícil decidirse entre la 'caza del tesoro', el 
 descubrimiento de fósiles, el reconocimiento de minerales o la pintura de dinosaurios. 
 
-![niños haciendo talleres en parque Lourinha](etheria-images/2018/12/Dinoparque-lourinha-viajes-familias-3-1024x683.jpg "Pabellón para la realización de talleres.")
+![niños haciendo talleres en parque Lourinha](https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-3-1024x683.jpg "Pabellón para la realización de talleres.")
 
 ## Restaurantes y áreas de descanso
 
@@ -88,7 +88,7 @@ menús que ofrecen en el restaurante o el bar. Los niños disfrutarán con los d
 nombres de muchos de ellos. Si os quedáis con ganas de llevaros algún recuerdo a casa, 
 en la tienda disponen de una amplia variedad de productos. 
 
-![mesas de pícnic en el parque Lourinha](etheria-images/2018/12/dinoparque-lourinha-1024x683.jpg "Zona de descanso y de pícnic del parque.")
+![mesas de pícnic en el parque Lourinha](https://fotos.etheriamagazine.com/2018/12/dinoparque-lourinha-1024x683.jpg "Zona de descanso y de pícnic del parque.")
 
 ## Preguntas frecuentes:
 

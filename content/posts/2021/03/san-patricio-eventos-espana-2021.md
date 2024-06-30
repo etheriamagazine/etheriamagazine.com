@@ -1,7 +1,7 @@
 ---
 title: "San Patricio, la gran fiesta irlandesa, se celebra en casa este año"
 date: 2021-03-17
-coverImage: etheria-images/2021/03/St-Patricks-Day-irlanda.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/03/St-Patricks-Day-irlanda.jpg
 categories: 
   - planes-cultura-ocio
 authors: 
@@ -13,7 +13,7 @@ en el Día de San Patricio, el color de la esperanza volverá a invadir el mundo
 marzo. Además de iluminar edificios, monumentos y otros lugares destacados, este año 
 ofrecerá un gran evento virtual desde tres pubs irlandeses y muchas sorpresas. 
 
-![fuente de cibeles en san patricio](etheria-images/2021/03/Fuente-de-Cibeles-san-patricio.jpg "Fuente de Cibeles (Madrid) iluminada en San Patricio.")
+![fuente de cibeles en san patricio](https://fotos.etheriamagazine.com/2021/03/Fuente-de-Cibeles-san-patricio.jpg "Fuente de Cibeles (Madrid) iluminada en San Patricio.")
 
 El Día de San Patricio se ha convertido en una fiesta que trasciende fronteras y llega a 
 casi todos los puntos del planeta. Esta popularidad no ha dejado de crecer gracias, en 
@@ -29,7 +29,7 @@ lazos históricos que se remontan a la época celta, a las fuertes vinculaciones
 relación al catolicismo, y a una historia común de emigrantes que debieron salir de sus 
 hogares. 
 
-![ciudad de las artes y las ciencias en san patricio](etheria-images/2021/03/Ciudad-de-las-Artes-y-las-Ciencias-san-patricio.jpg "Ciudad de las Artes y las Ciencias (Valencia) en San Patricio.")
+![ciudad de las artes y las ciencias en san patricio](https://fotos.etheriamagazine.com/2021/03/Ciudad-de-las-Artes-y-las-Ciencias-san-patricio.jpg "Ciudad de las Artes y las Ciencias (Valencia) en San Patricio.")
 
 ## 680 monumentos iluminados de verde por San Patricio
 
@@ -45,7 +45,7 @@ En el resto del mundo el color verde llegará a ciudades como Bruselas, Buenos A
 Francisco o Sidney, y a lugares tan icónicos como la Torre de Pisa, el London Eye, la 
 Fuente de la Palmera en Dubái y las Cataratas del Niágara. 
 
-![musica irlandesa dia de san patricio](etheria-images/2021/03/St-Patricks-Day-irlanda.jpg "La música y los bailes tradicionales son parte esencial de San Patricio.")
+![musica irlandesa dia de san patricio](https://fotos.etheriamagazine.com/2021/03/St-Patricks-Day-irlanda.jpg "La música y los bailes tradicionales son parte esencial de San Patricio.")
 
 ## Evento virtual de San Patricio
 
@@ -69,7 +69,7 @@ Liffey, y generando símbolos de la cultura musical y del baile tradicional en I
 Todo ello, con música de fondo de la compositora irlandesa **Eimear Noone** y su marido 
 **Craig Stuart Garfinkle**. 
 
-![san patricio eventos virtuales](etheria-images/2021/03/san-patricio-virtual.jpg "Este 2021 San Patricio se celebra en casa. © Adam Weldon")
+![san patricio eventos virtuales](https://fotos.etheriamagazine.com/2021/03/san-patricio-virtual.jpg "Este 2021 San Patricio se celebra en casa. © Adam Weldon")
 
 ## Curiosidades de San Patricio
 

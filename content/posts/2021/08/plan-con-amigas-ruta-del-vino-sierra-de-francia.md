@@ -1,7 +1,7 @@
 ---
 title: "Ruta del Vino de la Sierra de Francia, un brindis con amigas en Salamanca"
 date: 2021-08-11
-coverImage: etheria-images/2021/08/Mogarraz-Salamanca.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/08/Mogarraz-Salamanca.jpg
 categories: 
   - viajes-con-amigas
   - planes-originales-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Aún quedan escapadas cercanas y sorprendentes, como la Ruta del Vino de la Sierra de Francia, donde se combinan paisajes, pueblos encantadores, rutas naturales, buena gastronomía, y ¡cómo no! un buen número de bodegas. Este es uno de los planes con amigas en la provincia de Salamanca que no podrás rechazar.
 
-![Mogarraz ruta del vino sierra de francia](etheria-images/2021/08/mogarraz-paseo-ruta-sierra-francia-729x1024.jpg "Mogarraz forma parte de la Ruta del Vino de la Sierra de Francia. © Pepa G.")
+![Mogarraz ruta del vino sierra de francia](https://fotos.etheriamagazine.com/2021/08/mogarraz-paseo-ruta-sierra-francia-729x1024.jpg "Mogarraz forma parte de la Ruta del Vino de la Sierra de Francia. © Pepa G.")
 
 Si no eres de Castilla y León o muy amante de los vinos, puede que te cueste ubicar 
 dónde se encuentra la [Ruta del Vino de la Sierra de 
@@ -30,7 +30,7 @@ vinos elaborados con la variedad Rufete, que nos habla de pasado y presente, de 
 y de pasión por la tierra. Y aún quedarían argumentos para elegirlo como destino en 
 cualquier momento del año. 
 
-![Ruta del Vino de la Sierra de Francia](etheria-images/2021/08/ruta-vino-sierra-francia.jpg "Viñedos, pueblos, gastronomía y más en la Ruta del Vino de la Sierra de Francia. © Pepa G.")
+![Ruta del Vino de la Sierra de Francia](https://fotos.etheriamagazine.com/2021/08/ruta-vino-sierra-francia.jpg "Viñedos, pueblos, gastronomía y más en la Ruta del Vino de la Sierra de Francia. © Pepa G.")
 
 ##### "La Ruta del Vino de la Sierra de Francia fue galardonada con el Premio al Mejor Destino Enoturístico Responsable y Sostenible en 2020/1"
 
@@ -53,7 +53,7 @@ u otro. Un vino elaborado con la variedad autóctona Rufete y que forma parte de
 Sierra de Salamanca](https://www.dosierradesalamanca.es/es), creada en 2010 para 
 proteger su singularidad. 
 
-![retratos mogarraz ruta del vino sierra de francia](etheria-images/2021/08/caras-mogarraz.jpg "Retratos en Mogarraz. © P.G.")
+![retratos mogarraz ruta del vino sierra de francia](https://fotos.etheriamagazine.com/2021/08/caras-mogarraz.jpg "Retratos en Mogarraz. © P.G.")
 
 ### 1\. Mogarraz, mucho más que retratos
 
@@ -72,7 +72,7 @@ los entregó a Florencio Maíllo, artista local y profesor de la Universidad de 
 Maíllo decidió pintarlos y colocarlos en sus casas. ¿Cuántos retratos hay ahora? Nada 
 menos que 809, y parece que las peticiones de los vecinos aún no han parado.... 
 
-![bodega la zorra restaurante Mirasierra Mogarraz](etheria-images/2021/08/bodega-la-zorra-restaurante-mirasierra.jpg "Restaurante Mirasierra y bodega La Zorra. © Pepa G.")
+![bodega la zorra restaurante Mirasierra Mogarraz](https://fotos.etheriamagazine.com/2021/08/bodega-la-zorra-restaurante-mirasierra.jpg "Restaurante Mirasierra y bodega La Zorra. © Pepa G.")
 
 ##### En Mogarraz también encontrarás buena cocina y vinos
 
@@ -89,7 +89,7 @@ _chuletas de morucha_ son espectaculares. Justo detrás del restaurante se sitú
 La Zorra](https://www.vinoslazorra.es/), un espacio donde organizan visitas guiadas, 
 hacen catas y degustaciones. Su tienda es una gran tentación, estás avisada. 
 
-![visita guiada bodega cambrico](etheria-images/2021/08/bodega-cambrico-vino-sierra-francia.jpg "Fernando Maíllo, propietario de Bodega Cámbrico. © Pepa G.")
+![visita guiada bodega cambrico](https://fotos.etheriamagazine.com/2021/08/bodega-cambrico-vino-sierra-francia.jpg "Fernando Maíllo, propietario de Bodega Cámbrico. © Pepa G.")
 
 ### 2\. Paseo por los viñedos de Bodega Cámbrico
 
@@ -104,7 +104,7 @@ estética moderna (fue edificada en 2006), y la cata de algunos de sus vinos en 
 terraza donde los atardeceres se subliman. Allí mismo podrás comprar un vino para 
 llevarte a casa, ¿qué tal un Cámbrico Rufete? 
 
-![cata vinos bodega cambrico](etheria-images/2021/08/bodega-cambrico-cata.jpg "Cata de vinos en Bodega Cámbrico. © Pepa G.")
+![cata vinos bodega cambrico](https://fotos.etheriamagazine.com/2021/08/bodega-cambrico-cata.jpg "Cata de vinos en Bodega Cámbrico. © Pepa G.")
 
 ### 3\. Ruta senderista ‘Caminos de arte en la naturaleza’
 
@@ -124,7 +124,7 @@ mediante acertijos. Sin duda, su nombre está justificado. Nuestro consejo es ir
 calma y llevar un pequeño pícnic para degustar junto al río o en cualquier recodo que se 
 prefiera. 
 
-![camino de los prodigios sierra de francia](etheria-images/2021/08/camino-prodigios-salamanca.jpg "Camino de los Prodigios. © Pepa G.")
+![camino de los prodigios sierra de francia](https://fotos.etheriamagazine.com/2021/08/camino-prodigios-salamanca.jpg "Camino de los Prodigios. © Pepa G.")
 
 En la población de [Villanueva del Conde](https://www.villanuevadelconde.com/) continúa 
 visitando su casco histórico con la ermita del Humilladero, la iglesia de San Fabián y 
@@ -132,7 +132,7 @@ San Sebastián, los pilares... Sin olvidar el arte urbano con el que Pablo S. He
 ilumina alguno de sus muros con siluetas de árboles (también dentro del Camino de los 
 Prodigios). 
 
-![calles Miranda del Castanar ruta vino de la sierra de francia](etheria-images/2021/08/miranda-del-castanar-salamanca.jpg "Calles de Miranda del Castañar. © Pepa García")
+![calles Miranda del Castanar ruta vino de la sierra de francia](https://fotos.etheriamagazine.com/2021/08/miranda-del-castanar-salamanca.jpg "Calles de Miranda del Castañar. © Pepa García")
 
 ### 4\. Miranda del Castañar
 
@@ -152,7 +152,7 @@ Albada](https://goo.gl/maps/Qx1aYhy7dYewnZX17), donde Mónica y Félix, dos madr
 se enamoraron de la Sierra de Francia, te ofrecen ricas recetas basadas en los productos 
 locales y preparadas con todo mimo. 
 
-![cata aceites soleae plan amigas sierra de francia](etheria-images/2021/08/aceite-soleae-ruta-vino-sierra-francia.jpg "Paseo entre olivos y cata de aceites en Soleae. © Pepa G.")
+![cata aceites soleae plan amigas sierra de francia](https://fotos.etheriamagazine.com/2021/08/aceite-soleae-ruta-vino-sierra-francia.jpg "Paseo entre olivos y cata de aceites en Soleae. © Pepa G.")
 
 ### 5\. Cata de aceite en Soleae
 
@@ -171,7 +171,7 @@ hacen catas para conocer de cerca todo el complejo mundo del aceite de oliva. Ta
 puedes adquirir sus aceites a distancia, pero nuestra recomendación es que vivas la 
 experiencia completa. 
 
-![restaurante el papero sierra de francia](etheria-images/2021/08/restaurante-el-pipero-sierra-francia.jpg "Piscina natural y plato de garbanzos con almejas de El Pipero. © P.G.")
+![restaurante el papero sierra de francia](https://fotos.etheriamagazine.com/2021/08/restaurante-el-pipero-sierra-francia.jpg "Piscina natural y plato de garbanzos con almejas de El Pipero. © P.G.")
 
 ### 6\. Puentes del Alagón y comida en El Pipero  
 
@@ -186,7 +186,7 @@ cuchifrito, la trucha escabechada o la carrillera con Rufete. Y si te queda huec
 tomar un postre, el arroz con leche, el flan casero o la crema de fresas están 
 exquisitas. El restaurante está a dos kilómetros de Santibáñez de la Sierra. 
 
-![Joaquin berrocal lagares rupestres Salamanca](etheria-images/2021/08/ruta-lagares-salamanca.jpg "Joaquín Berrocal dentro de uno de los lagares rupestres que ha encontrado. © P.G.")
+![Joaquin berrocal lagares rupestres Salamanca](https://fotos.etheriamagazine.com/2021/08/ruta-lagares-salamanca.jpg "Joaquín Berrocal dentro de uno de los lagares rupestres que ha encontrado. © P.G.")
 
 ### 7\. Lagares rupestres San Esteban de la Sierra
 
@@ -205,7 +205,7 @@ lagares, hondonadas de grandes dimensiones sobre la roca donde se realizaba el v
 te interesa la experiencia completa, debes saber que hay opciones con cata de vinos y 
 degustación de ibéricos. 
 
-![bodega el abuelo flores](etheria-images/2021/08/bodega-abuelo-flores.jpg "Bodega y viñedos de El Abuelo Flores. © Pepa G.")
+![bodega el abuelo flores](https://fotos.etheriamagazine.com/2021/08/bodega-abuelo-flores.jpg "Bodega y viñedos de El Abuelo Flores. © Pepa G.")
 
 ### 8\. Atardecer en los viñedos de El Abuelo Flores
 
@@ -226,7 +226,7 @@ día en otro lugar especial, hay que dirigirse al **restaurante La Botica** dond
 nace en la cocina para preparar suculentos platos y guisos con sabor a la Ruta del Vino 
 Sierra de Francia. No declines probar sus carrilleras o su pulpo a la brasa. 
 
-![castillo Montemayor del rio](etheria-images/2021/08/restaurante-castillo-montemayor-rio.jpg "Restaurante Castillo de Montemayor del Río. © Pepa G.")
+![castillo Montemayor del rio](https://fotos.etheriamagazine.com/2021/08/restaurante-castillo-montemayor-rio.jpg "Restaurante Castillo de Montemayor del Río. © Pepa G.")
 
 ### 9\. Montemayor del Río
 
@@ -243,7 +243,7 @@ rutas senderistas. Y si no eres de caminar, al menos debes recorrer los metros q
 llevan hasta el puente medieval que cruza el río Cuerpo de Hombre y que observa en 
 verano cómo los vecinos entran y salen del agua alegremente para refrescarse. 
 
-![Montemayor del rio ruta del vino de la sierra de francia](etheria-images/2021/08/montemayor-del-rio.jpg "Vistas desde el castillo de Montemayor del Río. © Pepa G.")
+![Montemayor del rio ruta del vino de la sierra de francia](https://fotos.etheriamagazine.com/2021/08/montemayor-del-rio.jpg "Vistas desde el castillo de Montemayor del Río. © Pepa G.")
 
 La visita obligatoria aquí es el **castillo de San Vicente**, donde hacer una visita 
 guiada, subir a las almenas y terminar comiendo en el [restaurante Castillo de 
@@ -254,7 +254,7 @@ de farinato ‘Hergaer’ con miel y polen_, y _las Patatas revolconas, carpacci
 torreznos de panceta ibérica curada_. Y también otros más recientes como _la Terrina de 
 foie rellena de cerezas estofadas al Rufete_. 
 
-![meandro el melero ruta del vino de la sierra de francia](etheria-images/2021/08/meandro-el-melero.jpg "Un brindis con 'Cuarta Generación' en el meandro El Melero. © Pepa García")
+![meandro el melero ruta del vino de la sierra de francia](https://fotos.etheriamagazine.com/2021/08/meandro-el-melero.jpg "Un brindis con 'Cuarta Generación' en el meandro El Melero. © Pepa García")
 
 ### 10\. Mirador del meandro El Melero
 

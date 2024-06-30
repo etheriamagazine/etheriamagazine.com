@@ -1,7 +1,7 @@
 ---
 title: "Guía para no perderse en el 66 Festival de San Sebastián"
 date: 2018-08-09
-coverImage: etheria-images/2018/07/Cartel-seccion-oficinal-festival-cine-San-Sebastian.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Cartel-seccion-oficinal-festival-cine-San-Sebastian.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -17,7 +17,7 @@ año incluye una retrospectiva de una directora que merecería un puesto más de
 la historia del cine: la británica Muriel Box. A continuación tienes algunas 
 consideraciones y claves para entender y no perderte nada de esta gran cita cultural. 
 
-![fin de semana en San Sebastian](etheria-images/2018/07/san-sebastian-playa-concha.jpg "Playa de la Concha de San Sebastián.")
+![fin de semana en San Sebastian](https://fotos.etheriamagazine.com/2018/07/san-sebastian-playa-concha.jpg "Playa de la Concha de San Sebastián.")
 
 Lo primero que debes tener en cuenta para abordar el **Festival de San Sebastián** es 
 que hay diferentes secciones con distintas películas que acceden a ella, con jurados 
@@ -36,7 +36,7 @@ primeros o segundos largometrajes internacionales producidos en el último año.
 premio Kutxabank-New Directors. Estas películas optan también al Premio de la Juventud 
 que otorga un jurado de 300 jóvenes estudiantes (entre 18 y 25 años). 
 
-![arte ciudad evento](etheria-images/2018/07/Cartel-New-Directors-festival-cine-san-sebastian-736x1024.jpg)
+![arte ciudad evento](https://fotos.etheriamagazine.com/2018/07/Cartel-New-Directors-festival-cine-san-sebastian-736x1024.jpg)
 
 • **Horizontes Latinos**. Largometrajes producidos en el año de forma total o parcial en 
 América Latina, inéditos en España, dirigidos por cineastas latinos o con tema latinos. 
@@ -86,7 +86,7 @@ reloj)_, _The Passionate Stranger_, _The Truth About Women_, _The Beachcomber (E
 Vagabundo de las Islas)_ o _Too Young to Love_. Ganó un Oscar al mejor guión en 1946 por 
 _The Seventh Veil (El séptimo velo)_. 
 
-![retrospectiva arte ciudad](etheria-images/2018/07/Festival-cine-san-sebastian-Muriel-Box-801x1024.jpg "Muriel Box (1905-1991), escritora y directora de cine.")
+![retrospectiva arte ciudad](https://fotos.etheriamagazine.com/2018/07/Festival-cine-san-sebastian-Muriel-Box-801x1024.jpg "Muriel Box (1905-1991), escritora y directora de cine.")
 
 Si no puedes ir al Festival y te interesa la autora, su retrospectiva podrá verse en la 
 **Filmoteca Española en Madrid** y la **Filmoteca del Institud Valencià de Cultura** en 
@@ -102,7 +102,7 @@ realiza cada año en el Teatro Victoria Eugenia y, en esta ocasión, se proyecta
 película _Manbiki kazoku (Un asunto de familia)_ que recibió la Palma de Oro en el 
 pasado Festival de Cannes. 
 
-![arte ciudad Japon](etheria-images/2018/07/festival-cine-san-sebatian-premio-Donosti-Hirokazu-Kore-Eda-1024x543.jpg "Hirokazu Kore-eda, Premio Donostia.")
+![arte ciudad Japon](https://fotos.etheriamagazine.com/2018/07/festival-cine-san-sebatian-premio-Donosti-Hirokazu-Kore-Eda-1024x543.jpg "Hirokazu Kore-eda, Premio Donostia.")
 
 ## Cómo comprar las entradas
 

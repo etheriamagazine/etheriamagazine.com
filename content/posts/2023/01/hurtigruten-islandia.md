@@ -1,7 +1,7 @@
 ---
 title: "'Círculo de hielo y fuego', conoce la nueva ruta del Hurtigruten en Islandia"
 date: 2023-01-12
-coverImage: etheria-images/2023/01/Stykkisholmur-islandia.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/01/Stykkisholmur-islandia.jpg
 categories: 
   - planes-cultura-ocio
 authors: 
@@ -13,7 +13,7 @@ a la nueva ruta del Hurtigruten en este impresionante destino. El itinerario, de
 'Círculo de hielo y fuego', permitirá conocer su impactante naturaleza además de la 
 riqueza cultural que atesora alrededor de cada puerto. 
 
-![El MS Maud es el barco que realiza este crucero de Hurtigruten en Islandia.](etheria-images/2023/01/hurtigruten-maud-islandia.jpg "El MS Maud es el barco que realiza este crucero de © Hurtigruten en Islandia.")
+![El MS Maud es el barco que realiza este crucero de Hurtigruten en Islandia.](https://fotos.etheriamagazine.com/2023/01/hurtigruten-maud-islandia.jpg "El MS Maud es el barco que realiza este crucero de © Hurtigruten en Islandia.")
 
 El itinerario completo del 'Círculo de hielo y fuego', una nueva ruta del **Hurtigruten 
 en Islandia**, tiene una duración de 11 días y se realiza a bordo del MS Maud. Este 
@@ -25,14 +25,14 @@ aire libre, de una **sauna con vistas panorámicas** y, también, de interesante
 con un equipo de expedición o talleres con un fotógrafo especializado en naturaleza. 
 Emocionante, ¿verdad? 
 
-![Sauna del Maud, barco del Hurtigruten en Islandia.](etheria-images/2023/01/Sauna-MS-Maud.jpg "Sauna del Maud, barco del Hurtigruten en Islandia. © Óscar Farrera")
+![Sauna del Maud, barco del Hurtigruten en Islandia.](https://fotos.etheriamagazine.com/2023/01/Sauna-MS-Maud.jpg "Sauna del Maud, barco del Hurtigruten en Islandia. © Óscar Farrera")
 
 ## Cómo es la ruta del Hurtigruten en Islandia
 
 Aunque no describamos todo lo que ofrece esta nueva ruta en barco por Islandia, sí te 
 podemos comentar algunas de sus paradas esenciales y lo que puedes ver en ella. 
 
-![Cubierta de observación del Maud.](etheria-images/2023/01/cubierta-observacion-hurtigruten.jpg "Cubierta de observación del Maud. © Óscar Farrera")
+![Cubierta de observación del Maud.](https://fotos.etheriamagazine.com/2023/01/cubierta-observacion-hurtigruten.jpg "Cubierta de observación del Maud. © Óscar Farrera")
 
 ### Reykjavík
 
@@ -42,7 +42,7 @@ llegar o incluso permanecer los días previos. Además de descubrir la faceta cu
 gastronómica de la ciudad, es aconsejable comprar algún recuerdo de las tiendas de la 
 calle comercial de Laugavegur. 
 
-![Panorámica de Reykjavík, punto de partida del itinerario del Hurtigruten en Islandia.](etheria-images/2023/01/hurtigruten-islandia-reikjavik.jpg "Panorámica de Reykjavík, punto de partida del itinerario del Hurtigruten en Islandia.")
+![Panorámica de Reykjavík, punto de partida del itinerario del Hurtigruten en Islandia.](https://fotos.etheriamagazine.com/2023/01/hurtigruten-islandia-reikjavik.jpg "Panorámica de Reykjavík, punto de partida del itinerario del Hurtigruten en Islandia.")
 
 ### Stykkishólmur
 
@@ -54,7 +54,7 @@ por su variedad de paisajes volcánicos, se halla la playa de arena negra de
 **Djúpalónssandur** y los acantilados de basalto de **Lóndrangar**. Incluso es posible 
 llegar en un _snowcat_ a la cima del glaciar **Snæfellsjökull**. 
 
-![Stykkishólmur, uno de los puertos de la ruta del Hurtigruten.](etheria-images/2023/01/Stykkisholmur-islandia.jpg "Stykkishólmur, uno de los puertos de la ruta del Hurtigruten.")
+![Stykkishólmur, uno de los puertos de la ruta del Hurtigruten.](https://fotos.etheriamagazine.com/2023/01/Stykkisholmur-islandia.jpg "Stykkishólmur, uno de los puertos de la ruta del Hurtigruten.")
 
 ### Patreksfjörður
 
@@ -64,7 +64,7 @@ seis saltos de agua. De hecho, son las cataratas más grandes y espectaculares d
 Westfjords. Cerca de este puerto se sitúa también el acantilado con aves más grande de 
 Europa. 
 
-![Cascadas de Dynjandi.](etheria-images/2023/01/hurtigruten-islandia-Dynjandi-1.jpg "Cascadas de Dynjandi.")
+![Cascadas de Dynjandi.](https://fotos.etheriamagazine.com/2023/01/hurtigruten-islandia-Dynjandi-1.jpg "Cascadas de Dynjandi.")
 
 ### De Djúpavík a Akureyri
 
@@ -78,7 +78,7 @@ lares sino que hay paisajes capaces de dejarte con la boca abierta como **Goðaf
 Mývatn** cuyas aguas azules invitan a darse un chapuzón cuando las temperaturas lo 
 permiten. 
 
-![Lago Mývatn, una visita esencial en el itinerario de Hurtigruten en Islandia.](etheria-images/2023/01/hurtigruten-islandia-lago-Myvatn.jpg "Lago Mývatn, una visita esencial en el itinerario de Hurtigruten en Islandia.")
+![Lago Mývatn, una visita esencial en el itinerario de Hurtigruten en Islandia.](https://fotos.etheriamagazine.com/2023/01/hurtigruten-islandia-lago-Myvatn.jpg "Lago Mývatn, una visita esencial en el itinerario de Hurtigruten en Islandia.")
 
 ### Grímsey y Húsavík, frailecillos y ballenas
 
@@ -87,7 +87,7 @@ sino también participar en la Ceremonia del cruce del Círculo Ártico, saltand
 Todo ello sin olvidar que aquí también hay posibilidad de ver ballenas en Húsavík, uno 
 de los mejores lugares del mundo para observar estos grandes cetáceos. 
 
-![Frailecillo en el litoral de Islandia.](etheria-images/2023/01/hurtigruten-islandia-Grimsey.jpg "Frailecillo en el litoral de Islandia.")
+![Frailecillo en el litoral de Islandia.](https://fotos.etheriamagazine.com/2023/01/hurtigruten-islandia-Grimsey.jpg "Frailecillo en el litoral de Islandia.")
 
 ### Últimas etapas: Bakkagerði y Heimaey
 
@@ -95,7 +95,7 @@ La mayor distancia entre dos puertos se produce al final del recorrido entre Bak
 y Heimaey. En ambos lugares existen espacios para la exploración en la naturaleza y el 
 goce de los espacios culturales. 
 
-![Mapa ruta del Hurtigruten en Islandia.](etheria-images/2023/01/mapa-circulo-hielo-fuego-hurtigruten.jpg "Mapa de esta ruta del © Hurtigruten en Islandia.")
+![Mapa ruta del Hurtigruten en Islandia.](https://fotos.etheriamagazine.com/2023/01/mapa-circulo-hielo-fuego-hurtigruten.jpg "Mapa de esta ruta del © Hurtigruten en Islandia.")
 
 ## Cómo es el barco MS Maud que recorre la costa de Islandia
 
@@ -110,7 +110,7 @@ con ventana panorámica interior, el gimnasio, el jacuzzi al aire libre y una zo
 observación, que junto con el salón panorámico interior, permiten contemplar la belleza 
 del paisaje islandés. 
 
-![Buque Maud del Hurtigruten en Islandia.](etheria-images/2023/01/maud-hurtigruten.jpg "EL buque Maud realiza la ruta del © Hurtigruten en Islandia.")
+![Buque Maud del Hurtigruten en Islandia.](https://fotos.etheriamagazine.com/2023/01/maud-hurtigruten.jpg "EL buque Maud realiza la ruta del © Hurtigruten en Islandia.")
 
 Como parte de la apuesta por la sostenibilidad de Hurtigruten se está introduciendo 
 biodiesel en el MS Maud con el objetivo de eliminar las emisiones; el plástico de un 

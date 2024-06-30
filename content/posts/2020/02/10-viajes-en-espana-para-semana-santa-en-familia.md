@@ -1,7 +1,7 @@
 ---
 title: "10 viajes en España para una Semana Santa en familia"
 date: 2020-02-13
-coverImage: etheria-images/2019/09/Pontevedra-mirador-a-granxa.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/09/Pontevedra-mirador-a-granxa.jpg
 categories: 
   - viaje-en-familia
   - de-un-vistazo
@@ -16,7 +16,7 @@ permita desconectar. Aquí te proponemos diez viajes de Semana Santa en familia 
 España que puedes recorrer en coche sin depender de vuelos. La mayoría están en entornos 
 rurales donde disfrutar de sus enclaves naturales y pueblos históricos. 
 
-![Sepúlveda, villa de la provincia de Segovia.](etheria-images/2020/02/Sepulveda.jpg "Sepúlveda, villa de la provincia de Segovia.")
+![Sepúlveda, villa de la provincia de Segovia.](https://fotos.etheriamagazine.com/2020/02/Sepulveda.jpg "Sepúlveda, villa de la provincia de Segovia.")
 
 Con qué ganas cogemos siempre las vacaciones de Semana Santa que llegan tras semanas sin 
 apenas festivos desde la Navidad y con la promesa de mejor tiempo y más horas de sol. 
@@ -37,7 +37,7 @@ protagonista.
 ? [Sepúlveda y las hoces del Duratón, una escapada para toda la 
 familia.](https://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/) 
 
-![dos niñas en las hoces del Duratón](etheria-images/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg "Vistas de la ermita de San Frutos en Segovia. ©SG")
+![dos niñas en las hoces del Duratón](https://fotos.etheriamagazine.com/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg "Vistas de la ermita de San Frutos en Segovia. ©SG")
 
 ## Actividades con niños en Cádiz capital
 
@@ -50,7 +50,7 @@ por la bahía.
 ? [Cádiz capital con niños, 10 planes en 
 familia.](https://etheriamagazine.com/2019/10/17/10-planes-con-ninos-en-cadiz-capital/) 
 
-![Cámara oscura y vistas desde Torre Tavira en Cádiz](etheria-images/2019/10/Torre-Tavira-viaje-cadiz-familia-900x298.jpg "Cámara oscura y vistas desde Torre Tavira. ©Ayuntamiento de Cádiz.")
+![Cámara oscura y vistas desde Torre Tavira en Cádiz](https://fotos.etheriamagazine.com/2019/10/Torre-Tavira-viaje-cadiz-familia-900x298.jpg "Cámara oscura y vistas desde Torre Tavira. ©Ayuntamiento de Cádiz.")
 
 ## Los 10 mejores cañones del País Vasco. Paisajes secretos junto al agua
 
@@ -62,7 +62,7 @@ dificultad para familias andarinas (mejor sin carritos de bebé).
 ? [Paisajes del agua en los 10 mejores cañones del País 
 Vasco.](https://etheriamagazine.com/2019/04/09/viajes-naturaleza-mejores-canones-pais-vasco/) 
 
-![Senderismo en el Barranco río Ayuda (País Vasco).](etheria-images/2019/03/Viaje-pais-vasco-barranco-rio-ayuda-1024x656.jpg "Barranco río Ayuda (País Vasco).")
+![Senderismo en el Barranco río Ayuda (País Vasco).](https://fotos.etheriamagazine.com/2019/03/Viaje-pais-vasco-barranco-rio-ayuda-1024x656.jpg "Barranco río Ayuda (País Vasco).")
 
 ## Turismo industrial en Cataluña
 
@@ -75,7 +75,7 @@ Técnica de Terrasa.
 ? [Turismo industrial en Cataluña, viajar y aprender en 
 familia.](https://etheriamagazine.com/2019/11/29/turismo-rural-familiar-con-ninos-en-serrania-cuenca/) 
 
-![Minas de Bellmunt del Priorat](etheria-images/2019/12/turismo-industrial-mina-bellmunt-900x672.jpg "Minas de Bellmunt del Priorat. ©P.G.")
+![Minas de Bellmunt del Priorat](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-mina-bellmunt-900x672.jpg "Minas de Bellmunt del Priorat. ©P.G.")
 
 ## Turismo rural con niños en la Serranía Alta de Cuenca
 
@@ -88,7 +88,7 @@ para toda la familia.
 ? [Tres planes con niños en la Serranía Alta de 
 Cuenca.](https://etheriamagazine.com/2019/11/29/turismo-rural-familiar-con-ninos-en-serrania-cuenca/) 
 
-![niños en la ruta hoz de Beteta (Cuenca).](etheria-images/2019/11/cascadas-serrania-cuenca-900x664.jpg "Ruta hoz de Beteta (Cuenca). ©P.García")
+![niños en la ruta hoz de Beteta (Cuenca).](https://fotos.etheriamagazine.com/2019/11/cascadas-serrania-cuenca-900x664.jpg "Ruta hoz de Beteta (Cuenca). ©P.García")
 
 ## Planes con niños en la costa de Pontevedra
 
@@ -100,7 +100,7 @@ Cambados o contemplar los bonitos paisajes de la ruta de Pedras Negras.
 ? [8 planes con niños en la costa de 
 Pontevedra.](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/) 
 
-![niña en el Mirador de A Granxa con vistas al pueblo de Raxó y a las bateas de mejillones de la ría de Pontevedra.](etheria-images/2019/09/Pontevedra-mirador-a-granxa-900x600.jpg "Mirador de A Granxa con vistas al pueblo de Raxó y a las bateas de mejillones de la ría de Pontevedra. ©SG")
+![niña en el Mirador de A Granxa con vistas al pueblo de Raxó y a las bateas de mejillones de la ría de Pontevedra.](https://fotos.etheriamagazine.com/2019/09/Pontevedra-mirador-a-granxa-900x600.jpg "Mirador de A Granxa con vistas al pueblo de Raxó y a las bateas de mejillones de la ría de Pontevedra. ©SG")
 
 ## Los pueblos negros de Guadalajara
 
@@ -113,7 +113,7 @@ donde podrás disfrutar de largos paseos en familia.
 ? [Respirar 'a pulmón abierto' en los Pueblos Negros de 
 Guadalajara.](https://etheriamagazine.com/2019/05/06/ruta-en-coche-pueblos-negros-guadalajara/) 
 
-![Valverde de los Arroyos.](etheria-images/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg "Valverde de los Arroyos. ©Pedro Grifol")
+![Valverde de los Arroyos.](https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg "Valverde de los Arroyos. ©Pedro Grifol")
 
 ## Slowtravel en Almería
 
@@ -127,7 +127,7 @@ Garrutxa.
 ? [Qué ver en Almería para una escapada en clave 
 'slow'.](https://etheriamagazine.com/2021/04/17/que-ver-en-almeria-en-temporada-baja/) 
 
-![Isleta del Moro en el Parque Natural de Cabo de Gata](etheria-images/2018/11/Almeria-isleta-del-moro-1024x768.jpg "Isleta del Moro en el Parque Natural de Cabo de Gata (Almería).")
+![Isleta del Moro en el Parque Natural de Cabo de Gata](https://fotos.etheriamagazine.com/2018/11/Almeria-isleta-del-moro-1024x768.jpg "Isleta del Moro en el Parque Natural de Cabo de Gata (Almería).")
 
 ## El Matarranya, una joya desconocida entre el agua y la roca
 
@@ -141,7 +141,7 @@ pequeños.
 ? [La comarca del Matarranya, una joya entre tres 
 provincias.](https://etheriamagazine.com/2019/07/16/que-hacer-en-matarranya-piscinas-naturales-verano/) 
 
-![Cascada de El Salt en el Matarranya](etheria-images/2019/06/viaje-matarranya-el-salt.jpg "Cascada de El Salt. ©Comarca del Matarranya")
+![Cascada de El Salt en el Matarranya](https://fotos.etheriamagazine.com/2019/06/viaje-matarranya-el-salt.jpg "Cascada de El Salt. ©Comarca del Matarranya")
 
 ## Ruta por las Merindades (Burgos)
 
@@ -155,7 +155,7 @@ Ojo Guareña.
 ? [Ruta para desconectar en las Merindades de 
 Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/). 
 
-![Frías en Las Merindades.](etheria-images/2019/05/ruta-merindades-pueblo-frias.jpg "Frías, uno de los emblemas medievales de Las Merindades.")
+![Frías en Las Merindades.](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-pueblo-frias.jpg "Frías, uno de los emblemas medievales de Las Merindades.")
 
 **?** **También te puede interesar:** 
 

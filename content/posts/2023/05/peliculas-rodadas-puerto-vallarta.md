@@ -1,7 +1,7 @@
 ---
 title: "Puerto Vallarta de cine: de \"La noche de la iguana\" a \"Vacaciones en el mar\""
 date: 2023-05-22
-coverImage: etheria-images/2023/05/nuevo-vallarta-puerto.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/05/nuevo-vallarta-puerto.jpg
 categories: 
   - viajes-cine
 authors: 
@@ -14,7 +14,7 @@ Boat_) la convirtió en un sueño. Descubre las historias y secretos de estos ro
 cómo contribuyeron a que este paraíso mexicano sea hoy en día uno de los principales 
 focos turísticos del país. 
 
-![Puerto de Nuevo Vallarta](etheria-images/2023/05/nuevo-vallarta-puerto.jpg "Puerto de Nuevo Vallarta. © Taly Torres.")
+![Puerto de Nuevo Vallarta](https://fotos.etheriamagazine.com/2023/05/nuevo-vallarta-puerto.jpg "Puerto de Nuevo Vallarta. © Taly Torres.")
 
 Puerto Vallarta en los años sesenta era una pequeña población pesquera de Jalisco con 
 apenas 15.000 habitantes y de difícil acceso, situada entre el río Ameca, las montañas y 
@@ -57,7 +57,7 @@ tenía demasiadas ganas y estaba contenta con su dilatada vida de Madrid.
 artículo [Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
 ‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/). 
 
-![Richard Burton y Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon.](etheria-images/2023/05/puerto-vallarta-noche-iguana.jpg "Algunos de los protagonistas de "La noche de la iguana": Richard Burton con Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon. © Wikimedia Commons")
+![Richard Burton y Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon.](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-noche-iguana.jpg "Algunos de los protagonistas de "La noche de la iguana": Richard Burton con Elizabeth Taylor en una entrega de premios en Italia, Ava Gardner y Sue Lyon. © Wikimedia Commons")
 
 ### Que nos pille confesados…
 
@@ -72,7 +72,7 @@ chapadas en oro, "por si las moscas". Esas moscas nunca molestaron, todo lo cont
 El rodaje se llevó suavemente. Con Elizabeth Taylor incluida, que ya se había trasladado 
 a Mismaloya para no cortar su incipiente romance. 
 
-![Rocas frente a la playa de Mismaloya, en Puerto Vallarta](etheria-images/2023/05/puerto-vallarta-playa-mismaloya.jpg "Rocas frente a la playa de Mismaloya, en Puerto Vallarta. © Aliux Saavedra Cantellano")
+![Rocas frente a la playa de Mismaloya, en Puerto Vallarta](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-playa-mismaloya.jpg "Rocas frente a la playa de Mismaloya, en Puerto Vallarta. © Aliux Saavedra Cantellano")
 
 ### La Casa Kimberly
 
@@ -89,7 +89,7 @@ del Pacífico y en breve empezaron a construir donde antes no había infraestruc
 alguna. De hecho, alguien comentó que en Puerto Vallarta, en esos momentos, había más 
 reporteros que iguanas. 
 
-![Playa de las Caletas en Puerto Vallarta](etheria-images/2023/05/puerto-vallarta-playa-las-caletas.jpg "Playa de las Caletas en Puerto Vallarta. © Manena Munar")
+![Playa de las Caletas en Puerto Vallarta](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-playa-las-caletas.jpg "Playa de las Caletas en Puerto Vallarta. © Manena Munar")
 
 Tennessee Williams ayudó con el guion. El escritor había estado en México en tiempos de 
 la Segunda Guerra Mundial. La idea de la novela le vino al observar la indolencia de la 
@@ -110,7 +110,7 @@ dejaron de verlos como demonios para considerarlos amigos. Prueba de ello es la
 escultura levantada en honor a John Huston que se alza en el centro de la isla de Río 
 Cuale. 
 
-![Iguana en Puerto Vallarta](etheria-images/2023/05/puerto-vallarta-iguana.jpg "Iguana en Puerto Vallarta.")
+![Iguana en Puerto Vallarta](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-iguana.jpg "Iguana en Puerto Vallarta.")
 
 La misma Liz Taylor aseguró que en Puerto Vallarta encontró la felicidad y que había 
 estado más cómoda que en ningún otro lugar. Los lugareños verían a la sensual Sue Lyon 
@@ -140,7 +140,7 @@ pasaje en Los Ángeles y lo trasladaba a las playas del Pacífico de Puerto Vall
 paraíso que todo el mundo desde su sillón, frente a la tele, soñaba con conocer algún 
 día. La gente se enamoró de los cruceros y lo hizo también del océano Pacífico mexicano. 
 
-![Protagonistas de "Vacaciones en el mar".](etheria-images/2023/05/puerto-vallarta-love-boat-1977.jpg "Protagonistas de "Vacaciones en el mar". © Wikimedia Commons")
+![Protagonistas de "Vacaciones en el mar".](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-love-boat-1977.jpg "Protagonistas de "Vacaciones en el mar". © Wikimedia Commons")
 
 La serie no escatimaba en cuanto a su elenco y en algunos capítulos actuaron estrellas 
 de la categoría de Peter Lawford (_El día más largo_), Gene Kelly (_Bailando bajo la 
@@ -160,7 +160,7 @@ ir a tomar una copa a un club del malecón, City Dump, donde iba todo el mundo c
 zona empezaba a desarrollarse. Allí hizo realidad uno de los románticos capítulos de 
 _Love Boat_ conociendo a Coco Gil García y casándose con ella. 
 
-![Barco de cruceros frente a Puerto Vallarta](etheria-images/2023/05/puerto-vallarta-barco-cruceros.jpg "Barco de cruceros frente a Puerto Vallarta. © Alonso Reyes")
+![Barco de cruceros frente a Puerto Vallarta](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-barco-cruceros.jpg "Barco de cruceros frente a Puerto Vallarta. © Alonso Reyes")
 
 ## Qué hacer en Puerto Vallarta hoy día
 
@@ -172,7 +172,7 @@ con restaurantes exclusivos, como **Noroc** (www.norocpv.com), formado por pisci
 bordean las mesas frente al mar. Una buena actividad es hacer un tour gastronómico con 
 **Vallarta Food Tours** (www.vallartafoodtours.com). 
 
-![Restaurante Noroc en Puerto Vallarta](etheria-images/2023/05/puerto-vallarta-restaurante.jpg "Restaurante Noroc. © Manena Munar")
+![Restaurante Noroc en Puerto Vallarta](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-restaurante.jpg "Restaurante Noroc. © Manena Munar")
 
 ### Tres excursiones
 
@@ -181,7 +181,7 @@ diferentes como **Bucerías** o **Cruz de Huanacaxtla**, que tiene un puerto pre
 **Sayulita**, que se encuentra dentro de los Pueblos Mágicos de México y es un colorido 
 paraíso para los surfistas. 
 
-![mujer en planeta cacao en Puerto Vallarta](etheria-images/2023/05/puerto-vallarta-planeta-cacao.jpg "Planeta Cacao. © Manena Munar")
+![mujer en planeta cacao en Puerto Vallarta](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-planeta-cacao.jpg "Planeta Cacao. © Manena Munar")
 
 No dejes de probar el excelente cacao de **Planeta Cacao** y aprender lo mucho que ha 
 significado para el mundo, y sigue haciéndolo, el grano del cacao. 
@@ -192,7 +192,7 @@ Es ineludible conocer **Playa Marietas** (puedes hacerlo con Vallarta Adventures
 atravesar en un quad el puente colgante Jorullo o volar en tirolina por la jungla 
 (canopyriver.com). 
 
-![Esnórquel en Playa Marietas](etheria-images/2023/05/puerto-vallarta-riviera-nayarit-marietas.jpg "Esnórquel en Playa Marietas. © Manena Munar")
+![Esnórquel en Playa Marietas](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-riviera-nayarit-marietas.jpg "Esnórquel en Playa Marietas. © Manena Munar")
 
 ### Pasear por el parque
 
@@ -201,7 +201,7 @@ Azulejos, un auténtico despliegue de arte urbano al estilo Gaudí en la zona ro
 así nominada en honor al romance que allí tuvo lugar entre Liz Taylor y Dick Burton 
 mientras se rodaba _La noche de la iguana_. 
 
-![Parque Lázaro Cárdenas](etheria-images/2023/05/puerto-vallarta-parque-azulejos.jpg "Parque Lázaro Cárdenas. © Manena Munar")
+![Parque Lázaro Cárdenas](https://fotos.etheriamagazine.com/2023/05/puerto-vallarta-parque-azulejos.jpg "Parque Lázaro Cárdenas. © Manena Munar")
 
 ### Asistir a un espectáculo
 

@@ -1,7 +1,7 @@
 ---
 title: "12 visitas para triunfar en un fin de semana con amigas en Mánchester"
 date: 2019-12-30
-coverImage: etheria-images/2019/12/viaje-manchester.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/12/viaje-manchester.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -14,7 +14,7 @@ Museos y exposiciones gratuitas, numerosas tiendas para hacer variadísimas comp
 gastronomía internacional. Todo ello rodeado del ambiente cultural más vivo. ¿Estás 
 preparada para embarcar en un viaje con amigas rumbo a Mánchester? 
 
-![Manchester Ship Canal en Salford y Trafford](etheria-images/2019/12/viaje-manchester-900x584.jpg "Manchester Ship Canal en Salford y Trafford. © Julian Elliott/ Visit Britain")
+![Manchester Ship Canal en Salford y Trafford](https://fotos.etheriamagazine.com/2019/12/viaje-manchester-900x584.jpg "Manchester Ship Canal en Salford y Trafford. © Julian Elliott/ Visit Britain")
 
 Mánchester, situada al noroeste de Inglaterra, es una ciudad ideal para una **escapada 
 de fin de semana con amigas**, ya que está bien conectada mediante vuelos directos y muy 
@@ -31,7 +31,7 @@ la Revolución Industrial** convirtiéndose en una gran colmena obrera, motivo p
 la abeja es su símbolo. La **música y el fútbol** también la han hecho mundialmente 
 conocida, aficiones palpables en cualquiera de sus numerosos pubs. 
 
-![the midland en Mánchester](etheria-images/2019/12/viaje-mujeres-manchester-The-Midland-900x631.jpg "The Midland, la fachada más icónica de Mánchester. © Elena Ortega")
+![the midland en Mánchester](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-The-Midland-900x631.jpg "The Midland, la fachada más icónica de Mánchester. © Elena Ortega")
 
 Esa parte fundamental de la historia de Mánchester nos la cuentan sus molinos, sus 
 canales construidos para el transporte del carbón y, por supuesto, sus míticos edificios 
@@ -48,7 +48,7 @@ Memorial** y el edificio del **Ayuntamiento** con su imponente torre del Reloj, 
 por Alfred Waterhouse, el mismo arquitecto que esbozó el **hotel The Principal**, de 
 estilo neogótico victoriano. 
 
-![The Principal.](etheria-images/2019/12/viaje-mujeres-manchester-The-Principal.jpg "The Principal. © E.O.")
+![The Principal.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-The-Principal.jpg "The Principal. © E.O.")
 
 ### The Triangle
 
@@ -59,7 +59,7 @@ encuentra a dos pasos, se levantó en el siglo XIII, pero tuvo que ser reconstru
 la Segunda Guerra Mundial. En su interior se celebran todo tipo de eventos, desde 
 conciertos y espectáculos a mercadillos. 
 
-![mujeres en Mánchester](etheria-images/2019/12/viaje-mujeres-manchester-The-Triangle-900x675.jpg "The Triangle. © E.O.")
+![mujeres en Mánchester](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-The-Triangle-900x675.jpg "The Triangle. © E.O.")
 
 ### Royal Exchange
 
@@ -68,7 +68,7 @@ del algodón. Actualmente ha sido transformado en un singular teatro, sin telón
 que actúan populares artistas. De sus orígenes aún queda el panel en el que se fijaban 
 la cotización del algodón. 
 
-![Paneles de venta de algodón en el Royal Exchange](etheria-images/2019/12/viaje-mujeres-manchester-Royal-Exchange-900x675.jpg "Paneles de venta de algodón en el Royal Exchange. © E.O.")
+![Paneles de venta de algodón en el Royal Exchange](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-Royal-Exchange-900x675.jpg "Paneles de venta de algodón en el Royal Exchange. © E.O.")
 
 ### Museos de Mánchester
 
@@ -80,7 +80,7 @@ bibliotecas más famosas de la ciudad (Chetam's Library, la Biblioteca Central y
 Rylands) será indispensable también para palpar la cultura y viajar directamente al 
 **mundo de Harry Potter**. 
 
-![Castlefield](etheria-images/2019/12/viaje-mujeres-manchester-Castlefield-900x644.jpg "Castlefield. © E.O.")
+![Castlefield](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-Castlefield-900x644.jpg "Castlefield. © E.O.")
 
 ### Manchester Central Station
 
@@ -91,7 +91,7 @@ detenernos ante la **Torre Beetham**, un rascacielos de 46 plantas. La peculiar 
 su planta superior fue diseñada así por el arquitecto del edificio, Ian Simpson, para 
 convertirse en su hogar. 
 
-![exterior de Manchester Central Station](etheria-images/2019/12/viaje-mujeres-manchester-Central-Station-813x1024.jpg "Manchester Central Station. © E.O.")
+![exterior de Manchester Central Station](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-Central-Station-813x1024.jpg "Manchester Central Station. © E.O.")
 
 ### De marcha en Gay Village
 
@@ -100,7 +100,7 @@ desapareciendo para transformarse en **el lugar más marchoso de Mánchester**. 
 los bares y restaurantes gais son el punto de reunión para despedidas de solteros, 
 universitarios y celebraciones de todo tipo. 
 
-![locales de gay village en Mánchester](etheria-images/2019/12/viaje-mujeres-manchester-Gay-Village-900x620.jpg "Gay Village. Canal Street es la calle más viva de Mánchester. © E.O.")
+![locales de gay village en Mánchester](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-Gay-Village-900x620.jpg "Gay Village. Canal Street es la calle más viva de Mánchester. © E.O.")
 
 ### El barrio chino de Mánchester
 
@@ -109,7 +109,7 @@ nocturna en el barrio anterior, en Gay Village, pero también lo sentiremos en e
 chino, el **segundo más grande de Inglaterra** después del de Londres, y por el que hay 
 que pasar para hacerse una foto junto a su arco. 
 
-![barrio chino de manchester](etheria-images/2019/12/viaje-mujeres-manchester-chinatown-900x935.jpg "Entrada al barrio chino de Mánchester. © E.O.")
+![barrio chino de manchester](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-chinatown-900x935.jpg "Entrada al barrio chino de Mánchester. © E.O.")
 
 ### La pequeña Irlanda
 
@@ -126,7 +126,7 @@ Las maravillas de Mánchester también se pueden encontrar en zonas periféricas
 universitarios o **Salford Quays**, un barrio alternativo que fascina por su 
 arquitectura. 
 
-![puente de arquitectura moderna en Mánchester](etheria-images/2019/12/viaje-mujeres-manchester-The-Quays-900x635.jpg "The Quays. © E.O.")
+![puente de arquitectura moderna en Mánchester](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-The-Quays-900x635.jpg "The Quays. © E.O.")
 
 ### Restaurantes y festivales gastronómicos
 
@@ -138,7 +138,7 @@ hecho, Peter Street Kitchen ganó los British Restaurant Awards de 2019 en la ca
 “Mejor restaurante de lujo”. Ofrece una amplia carta de tapas que combina platos 
 japoneses y mexicanos. 
 
-![Grafitti Northern Quarter](etheria-images/2019/12/viaje-mujeres-manchester-Northern-Quarter-900x674.jpg "Northern Quarter. © E.O.")
+![Grafitti Northern Quarter](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-Northern-Quarter-900x674.jpg "Northern Quarter. © E.O.")
 
 ### Compras en Northern Quarter
 
@@ -153,7 +153,7 @@ comercial urbano más grande de Gran Bretaña.
 En Mánchester también hay cabida para turismo de relax y confort, concretamente en los 
 **baños victorianos** de la zona de **Chorlton-on-Medlock**. 
 
-![piano en el Hotel Edwardian](etheria-images/2019/12/viaje-mujeres-manchester-The-Edwuardian-Hotel-681x1024.jpg "© Hotel Edwardian.")
+![piano en el Hotel Edwardian](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-manchester-The-Edwuardian-Hotel-681x1024.jpg "© Hotel Edwardian.")
 
 ## Guía práctica de Mánchester
 

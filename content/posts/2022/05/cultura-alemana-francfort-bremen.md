@@ -1,7 +1,7 @@
 ---
 title: "Fráncfort y Bremen se asoman a Madrid para mostrar sus encantos"
 date: 2022-05-31
-coverImage: etheria-images/2022/05/Francfort-alemania.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/05/Francfort-alemania.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -11,7 +11,7 @@ authors:
 
 Las ciudades alemanas son garantía de unas vacaciones culturales llenas de contenido, y la iniciativa "German.Local.Culture", de la oficina de turismo de Alemania, facilita acercarse a Fráncfort y Bremen en tres lugares de la capital. ¡No te pierdas estos originales planes en Madrid para abrir boca antes del verano!
 
-![chica mirando Fráncfort en una ventana](etheria-images/2022/05/Francfort-alemania.jpg "No te pierdas Fráncfort en verano. © Visitfrankfurt/ David Vasicek")
+![chica mirando Fráncfort en una ventana](https://fotos.etheriamagazine.com/2022/05/Francfort-alemania.jpg "No te pierdas Fráncfort en verano. © Visitfrankfurt/ David Vasicek")
 
 Viajar a Alemania ofrece multitud de opciones para gozar de unas vacaciones diferentes: 
 ciudades históricas con unos cascos urbanos preciosos, frondosos parajes naturales, 
@@ -40,7 +40,7 @@ información](mailto:labicicletacafeeventos@gmail.com) sobre estos cursos con el
 
 ? Dónde: La Bicicleta. Plaza de San Ildefonso, 9. 
 
-![Café La Bicicleta.](etheria-images/2022/05/cafe-la-bicicleta.jpg "Café La Bicicleta.")
+![Café La Bicicleta.](https://fotos.etheriamagazine.com/2022/05/cafe-la-bicicleta.jpg "Café La Bicicleta.")
 
 ### Fox in a Box
 
@@ -54,7 +54,7 @@ colección. Esta experiencia se puede reservar en [www.foxinaboxmadrid.com](http
 
 ? Dónde: Fox in a Box. Calle Áncora, 12. 
 
-![cultura alemana en Madrid](etheria-images/2022/05/Fox-in-Box-Mastermind-Francfort.jpg "Escape Room en Fox in a Box.")
+![cultura alemana en Madrid](https://fotos.etheriamagazine.com/2022/05/Fox-in-Box-Mastermind-Francfort.jpg "Escape Room en Fox in a Box.")
 
 ### Bastardo Hostel
 
@@ -69,7 +69,7 @@ actividad es gratuita.
 
 ? Dónde: Bastardo Hostel. San Mateo, 3. 
 
-![gente bailando](etheria-images/2022/05/alemania-Swing-Bastardo.jpg "Clase de swing en Bastardo Hostel.")
+![gente bailando](https://fotos.etheriamagazine.com/2022/05/alemania-Swing-Bastardo.jpg "Clase de swing en Bastardo Hostel.")
 
 ### ¡ Y te puede tocar un viaje!
 

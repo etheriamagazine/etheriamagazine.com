@@ -1,7 +1,7 @@
 ---
 title: "9 exposiciones en Madrid para este otoño: te van a apetecer todas"
 date: 2022-09-09
-coverImage: etheria-images/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg
 categories: 
   - exposiciones
 authors: 
@@ -13,7 +13,7 @@ ciudades y para los propios madrileños que siempre están buscando nuevas propu
 disfrutar de su tiempo de ocio. Aquí te proponemos 9 exposiciones que puedes visitar 
 durante este otoño de 2022, para que vayas organizando tu agenda. 
 
-![fotografía de Frida Kalho](etheria-images/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg "Entrada a la exposición sobre Frida Kalho en © Casa de México.")
+![fotografía de Frida Kalho](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg "Entrada a la exposición sobre Frida Kalho en © Casa de México.")
 
 Uno de los alicientes que tiene la vuelta a la rutina de las grandes ciudades tras el 
 parón vacacional es la intensa vida cultural que en ellas se desarrolla. En este caso 
@@ -34,7 +34,7 @@ femenino de este apasionante periodo histórico a través de los objetos cotidia
 la vida funeraria. Además, podrás profundizar en la vida de alguna mujeres como Tiyi, 
 Nefertari, Nefertiti o Cleopatra VII. 
 
-![sala de la exposición Hijas del Nilo en el Palacio de Alhajas](etheria-images/2022/09/Hijas_del_Nilo-sarcofago.jpg "Sarcófago en la exposición 'Hijas del Nilo'.")
+![sala de la exposición Hijas del Nilo en el Palacio de Alhajas](https://fotos.etheriamagazine.com/2022/09/Hijas_del_Nilo-sarcofago.jpg "Sarcófago en la exposición 'Hijas del Nilo'.")
 
 Dónde: **Palacio de las Alhajas de Madrid**. Plaza de San Martín, 1. Cuándo: hasta el 31 
 de diciembre de 2022. Precio: 14 Euros la entrada general y 7 euros la entrada reducida. 
@@ -52,7 +52,7 @@ presenta ocho obras de la Vilcek Foundation de Nueva York acompañadas de cuadro
 colección permanente del museo que ponen en contexto el momento en el que surge esta 
 tendencia. 
 
-![obra de la exposicion los sincormistas del Museo Thyssen de Madrid](etheria-images/2022/09/exposiciones-madrid-sincromistas.jpg "'Contrastes simultáneos' de Sonia Delaunay, 1913. Museo Nacional Thyssen- Bornemisza, Madrid © Pracusa S.A.")
+![obra de la exposicion los sincormistas del Museo Thyssen de Madrid](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-sincromistas.jpg "'Contrastes simultáneos' de Sonia Delaunay, 1913. Museo Nacional Thyssen- Bornemisza, Madrid © Pracusa S.A.")
 
 Dónde: [Museo Thyssen-Bornemisza](https://www.museothyssen.org/) (salas 44 y 45). Paseo 
 del Prado, 8. Cuándo: hasta el 1 de noviembre de 2022. Precio: entrada única (museo 
@@ -88,7 +88,7 @@ colecciones privadas. Se articula en cuatro secciones (armonías en negro y gris
 simbólico; superficies negras y oscuras; y monocromías) que aportan una amplia visión de 
 la utilización de este color por Sorolla en retratos y paisajes. 
 
-![Cuadros de Sorolla en el Museo Sorolla de Madrid.](etheria-images/2022/09/exposiciones-madrid-sorolla-negro.jpg "Sala de la exposición 'Sorolla en negro' del © Museo Sorolla.")
+![Cuadros de Sorolla en el Museo Sorolla de Madrid.](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-sorolla-negro.jpg "Sala de la exposición 'Sorolla en negro' del © Museo Sorolla.")
 
 Dónde: **Museo Sorolla**. Pº General Martínez Campos, 37. Cuándo: hasta el 27 de 
 noviembre de 2022. Precio: 3 Euros la entrada general y 1,5 Euros la reducida. 
@@ -105,7 +105,7 @@ del arte y reflexionar sobre aspectos como la decadencia, la incertidumbre o la
 destrucción en obras realizadas a partir de objetos encontrados y de elementos como el 
 polvo o la sangre. 
 
-![Cuadro de la exposición de Peter Buggenhout en la Galería Galguera](etheria-images/2022/09/exposiciones-madrid-Buggenhout-683x1024.jpg "I am the Tablet # 6 © Peter Buggenhout. Fotógrafo: Dirk Pauwels Cortesía: Galería Hilario Galguera.")
+![Cuadro de la exposición de Peter Buggenhout en la Galería Galguera](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-Buggenhout-683x1024.jpg "I am the Tablet # 6 © Peter Buggenhout. Fotógrafo: Dirk Pauwels Cortesía: Galería Hilario Galguera.")
 
 Dónde: **Galería Hilario Galguera**. Calle Doctor Fourquet 12. Cuándo: hasta el 5 de 
 noviembre de 2022. Entrada libre. 
@@ -134,7 +134,7 @@ la teoría _queer_. Una exposición que pretende romper con la narrativa histór
 propuestas que espera el espectador para crear nuevos escenarios, volviendo a materiales 
 de épocas anteriores para recuperar lecturas marginadas e ignoradas. 
 
-![obra de la exposición del Palacio de Cristal del Retiro](etheria-images/2022/09/exposiciones-madrid-palacio-cristal.jpg "'No time' de Pauline Boudry y Renate Lorenz. © Museo Reina Sofía.")
+![obra de la exposición del Palacio de Cristal del Retiro](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-palacio-cristal.jpg "'No time' de Pauline Boudry y Renate Lorenz. © Museo Reina Sofía.")
 
 Dónde: **Palacio de Cristal**. Parque del Retiro. Cuándo: del 7 de octubre al 9 de abril 
 de 2023. Entrada libre. 
@@ -151,7 +151,7 @@ la tercera y cuarta salas están dedicadas a dos proyectos de Jean Cocteau en lo
 colaboraron los artistas: ‘Antigona’ (1922) y ‘El tren azul’ (1924). Esta exposición 
 reúne más de cien vestidos, óleos y dibujos de otras colecciones y museos. 
 
-!['Arlequín con espejo' y 'Vestido de día', obras de Picasso y Chanel.](etheria-images/2022/09/exposiciones-madrid-picasso-chanel.jpg "'Arlequín con espejo' de Pablo Picasso © Sucesión Pablo Picasso, VEGAP, Madrid, 2022, y 'Vestido de día' de Chanel © Kunstgewerbemuseum, Staaliche Museen zu Berlin.")
+!['Arlequín con espejo' y 'Vestido de día', obras de Picasso y Chanel.](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-picasso-chanel.jpg "'Arlequín con espejo' de Pablo Picasso © Sucesión Pablo Picasso, VEGAP, Madrid, 2022, y 'Vestido de día' de Chanel © Kunstgewerbemuseum, Staaliche Museen zu Berlin.")
 
 Dónde: **Museo Thyssen Bornemisza**. Paseo del Prado, 8. Planta baja. Cuándo: del 11 de 
 octubre de 2022 al 15 de enero de 2023. Precio: entrada única (museo +exposiciones) 13 

@@ -1,7 +1,7 @@
 ---
 title: "15 obras del Museo del Prado para una visita exprés"
 date: 2019-09-24
-coverImage: etheria-images/2019/09/museo-del-prado-Triptico-del-jardin-de-las-delicias.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Triptico-del-jardin-de-las-delicias.jpg
 categories: 
   - exposiciones
 authors: 
@@ -13,7 +13,7 @@ apretada en tu viaje, toma nota de las 15 obras imprescindibles que debes contem
 tu recorrido. Y un consejo extra: descárgate el plano al final del artículo (tus piernas 
 te lo agradecerán). 
 
-![Interior del Museo del Prado de Madrid](etheria-images/2019/09/museo-del-prado-900x425.jpg "© Museo del Prado.")
+![Interior del Museo del Prado de Madrid](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-900x425.jpg "© Museo del Prado.")
 
 Museos tan grandes, en todos los sentidos, como El Prado, el Louvre (París) o el 
 Hermitage (San Petersburgo) desbordan por sus dimensiones y el escaso tiempo con el que 
@@ -26,7 +26,7 @@ exposición temporal que se salga de la colección permanente y puedas añadir a
 Si tu viaje coincide con los días 21 a 23 de octubre de 2019, por ejemplo, tendrá lugar 
 el Congreso '_El edificio Villanueva: Historia revisada de una arquitectura de museo'._ 
 
-![La Cruxifixión, pintado por Juan de Flandes, obra imprescindible en el Museo del Prado.](etheria-images/2019/09/museo-del-prado-La-Crucifixion-900x643.jpg "La Cruxifixión. © Museo del Prado")
+![La Cruxifixión, pintado por Juan de Flandes, obra imprescindible en el Museo del Prado.](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-La-Crucifixion-900x643.jpg "La Cruxifixión. © Museo del Prado")
 
 ## 1\. La cruxifixión (Juan de Flandes)
 
@@ -34,7 +34,7 @@ Este pintor flamenco trabajó al servicio de Isabel la Católica hasta la muerte
 monarca. La tabla de La Cruxifixión (1509-1519) estaba destinada a ocupar la parte 
 central del retablo mayor de la catedral de Palencia. 
 
-![El caballero de la mano en el pecho, El Bosco, Museo del Prado](etheria-images/2019/09/museo-del-prado-El-caballero-de-la-mano-en-el-pecho.jpg "El caballero de la mano en el pecho. © Museo del Prado")
+![El caballero de la mano en el pecho, El Bosco, Museo del Prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-El-caballero-de-la-mano-en-el-pecho.jpg "El caballero de la mano en el pecho. © Museo del Prado")
 
 ## 2\. El caballero de la mano en el pecho (El Greco)
 
@@ -42,7 +42,7 @@ Esta obra pintada por El Greco hacia 1580 fue donada por la viuda del duque del 
 el lienzo más importante de la galería de retratos que tiene el Museo del Prado del 
 pintor cretense. 
 
-![Obra Las Meninas de Velázquez, en el Museo del Prado.](etheria-images/2019/09/museo-del-prado-Las-meninas.jpg "Las Meninas. © Museo del Prado")
+![Obra Las Meninas de Velázquez, en el Museo del Prado.](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Las-meninas.jpg "Las Meninas. © Museo del Prado")
 
 ## 3\. Las Meninas (Velázquez)
 
@@ -50,7 +50,7 @@ Este lienzo de gran tamaño (320,5 x 281,5 cm) es la obra más conocida de Velá
 pintada en 1656 y el escenario que refleja es el del Cuarto del Príncipe, en el Alcázar 
 de Madrid. 
 
-![El sueño de Jacob, en el Museo del Prado](etheria-images/2019/09/museo-del-prado-El-sueno-de-Jacob-900x677.jpg "El sueño de Jacob. © Museo del Prado")
+![El sueño de Jacob, en el Museo del Prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-El-sueno-de-Jacob-900x677.jpg "El sueño de Jacob. © Museo del Prado")
 
 ## 4\. El sueño de Jacob (Ribera)
 
@@ -58,7 +58,7 @@ José de Ribera es uno de los grandes pintores de mediados del siglo XVII. En es
 pintado en 1639 se representa una metáfora del libro del Génesis. En el mismo se observa 
 el sueño del patriarca Jacob. 
 
-![Los fusilamientos del 3 de mayo, pintura de Goya, expuesta en el Museo del Prado](etheria-images/2019/09/museo-del-prado-El-3-de-mayo-en-Madrid-Los-fusilamientos-900x696.jpg "Los fusilamientos. © Museo del Prado")
+![Los fusilamientos del 3 de mayo, pintura de Goya, expuesta en el Museo del Prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-El-3-de-mayo-en-Madrid-Los-fusilamientos-900x696.jpg "Los fusilamientos. © Museo del Prado")
 
 ## 5\. Los fusilamientos (Goya)
 
@@ -66,7 +66,7 @@ Esta sangrienta escena muestra las consecuencias del alzamiento del pueblo de Ma
 contra los franceses el 2 de mayo de 1808. Este óleo fue pintado por Francisco de Goya y 
 Lucientes en 1814. 
 
-![La Anunciacion, de Fra Angelico, obras del Museo del Prado](etheria-images/2019/09/museo-del-prado-La-Anunciacion-900x767.jpg "La Anunciación. © Museo del Prado")
+![La Anunciacion, de Fra Angelico, obras del Museo del Prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-La-Anunciacion-900x767.jpg "La Anunciación. © Museo del Prado")
 
 ## 6\. La Anunciación (Fra Angelico)
 
@@ -74,7 +74,7 @@ Su autor, Guido di Pietro, conocido como Fran Angelico (tras ser ordenado religi
 pintó esta obra para el convento de Santo Domingo en Fiésole. Fue pintado con témpera 
 sobre tabla de madera de chopo y mide 190,3x 191,5 cm. 
 
-![El Cardenal, pintor Rafael, obras museo del prado](etheria-images/2019/09/museo-del-prado-El-Cardenal.jpg "El Cardenal. © Museo del Prado")
+![El Cardenal, pintor Rafael, obras museo del prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-El-Cardenal.jpg "El Cardenal. © Museo del Prado")
 
 ## 7\. El Cardenal (Rafael)
 
@@ -82,14 +82,14 @@ Este lienzo muestra los magistrales trazos de Rafael, uno de los artistas más r
 del Alto Renacimiento en Italia. Fue pintado en torno a 1510-1511 y retrata a un 
 cardenal del que se desconoce con exactitud su nombre. 
 
-![carlos v en la batalla de muhlber, museo del prado, obras de tiziano](etheria-images/2019/09/museo-del-prado-Carlos-V-en-la-Batalla-de-Muhlberg-859x1024.jpg "Carlos V en la batalla de Mühlber. © Museo del Prado.")
+![carlos v en la batalla de muhlber, museo del prado, obras de tiziano](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Carlos-V-en-la-Batalla-de-Muhlberg-859x1024.jpg "Carlos V en la batalla de Mühlber. © Museo del Prado.")
 
 ## 8\. Carlos V en la batalla de Mühlber (Tiziano)
 
 Este retrato pintado por Vecellio di Gregorio Tiziano en 1548 pretende conmemorar la 
 victoria de Carlos V sobre la Liga de Smalkalda en Mühlberg el 24 de abril de 1547. 
 
-![la inmaculada concepcion, museo del prado, obras de tiepolo](etheria-images/2019/09/museo-del-prado-La-Inmaculada-Concepcion-557x1024.jpg "La Inmaculada Concepción. © Museo del Prado")
+![la inmaculada concepcion, museo del prado, obras de tiepolo](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-La-Inmaculada-Concepcion-557x1024.jpg "La Inmaculada Concepción. © Museo del Prado")
 
 ## 9\. La Inmaculada Concepción (Tiepolo)
 
@@ -97,7 +97,7 @@ victoria de Carlos V sobre la Liga de Smalkalda en Mühlberg el 24 de abril de 1
 destinada a lucir en la iglesia de San Pascual de Aranjuez. Este pintor era reconocido 
 en toda Europa por ser también un excelente dibujante y fresquista. 
 
-![el descendimiento, obra de van der weiden, museo del prado](etheria-images/2019/09/museo-del-prado-El-Descendimiento-900x714.jpg "El Descendimiento. © Museo del Prado")
+![el descendimiento, obra de van der weiden, museo del prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-El-Descendimiento-900x714.jpg "El Descendimiento. © Museo del Prado")
 
 ## 10\. El Descendimiento (Van der Weyden)
 
@@ -107,7 +107,7 @@ ballesteros, aunque terminó demolido a finales del siglo XVIII. La obra la comp
 de Hungría y fue de palacio en palacio hasta la capilla del Pardo de su sobrino Felipe 
 II. 
 
-![triptico del jardin de las delicias, pinturas del bosco, museo del prado](etheria-images/2019/09/museo-del-prado-Triptico-del-jardin-de-las-delicias-900x480.jpg "Tríptico del jardín de las delicias. © Museo del Prado")
+![triptico del jardin de las delicias, pinturas del bosco, museo del prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Triptico-del-jardin-de-las-delicias-900x480.jpg "Tríptico del jardín de las delicias. © Museo del Prado")
 
 ## 11\. Tríptico del jardín de las delicias (El Bosco)
 
@@ -117,7 +117,7 @@ recomendamos usar la audioguía o descargarte la app del museo, una de [las mejo
 de los museos 
 españoles](https://etheriamagazine.com/2019/01/05/10-apps-de-museos-espanoles/). 
 
-![Las tres gracias, obras de Rubens, que ver museo del prado](etheria-images/2019/09/museo-del-prado-Las-tres-Gracias.jpg "Las tres gracias. © Museo del Prado")
+![Las tres gracias, obras de Rubens, que ver museo del prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Las-tres-Gracias.jpg "Las tres gracias. © Museo del Prado")
 
 ## 12\. Las tres gracias (Rubens)
 
@@ -127,7 +127,7 @@ con ciervos al fondo, una guirnalda de flores y Cupido con una cornucopia. Pedro
 Rubens fue un pintor que logró destacar no sólo en la escena artística sino también en 
 las esferas social y cultural. 
 
-![autorretrato durero, obras museo del prado](etheria-images/2019/09/museo-del-prado-Autorretrato.jpg "Autorretrato. © Museo del Prado.")
+![autorretrato durero, obras museo del prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Autorretrato.jpg "Autorretrato. © Museo del Prado.")
 
 ## 13\. Autorretrato (Durero)
 
@@ -136,7 +136,7 @@ blanco y negro, una camisa con cenefa dorada y cordón de seda. El artista era h
 orfebre húngaro que había emigrado a Núremberg, por lo que tuvo el arte al alcance de la 
 mano desde pequeño. 
 
-![Judit en el banquete de Holofernes, obras de Rembrandt, museo del prado](etheria-images/2019/09/museo-del-prado-Judit-en-el-banquete-de-Holofernes-Artemisa-900x837.jpg "Judit en el banquete de Holofernes. © Museo del Prado")
+![Judit en el banquete de Holofernes, obras de Rembrandt, museo del prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Judit-en-el-banquete-de-Holofernes-Artemisa-900x837.jpg "Judit en el banquete de Holofernes. © Museo del Prado")
 
 ## 14\. Judit en el banquete de Holofernes (Rembrandt)
 
@@ -145,7 +145,7 @@ autoría, este cuadro se atribuye a Rembrandt. La obra forma parte de un grupo d
 alegorías personificadas que representan a mujeres y heroínas de la Antigüedad y del 
 Antiguo Testamento. Las pintó entre 1633 y 1635. 
 
-![Orestes y Pilades, Escuela de Pasiteles, escultura en el museo del prado](etheria-images/2019/09/museo-del-prado-Orestes-y-Pilades-o-Grupo-de-San-Ildefonso-708x1024.jpg "Orestes y Pílades. © Museo del Prado")
+![Orestes y Pilades, Escuela de Pasiteles, escultura en el museo del prado](https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Orestes-y-Pilades-o-Grupo-de-San-Ildefonso-708x1024.jpg "Orestes y Pílades. © Museo del Prado")
 
 ## 15\. Orestes y Pílades (Escuela de Pasiteles)
 

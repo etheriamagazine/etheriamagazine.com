@@ -1,7 +1,7 @@
 ---
 title: "Hoteles originales en Nantes, duerme dentro de una obra de arte"
 date: 2022-10-17
-coverImage: etheria-images/2022/10/Mercure-Nantes-Centre-Grand-Hotel.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/10/Mercure-Nantes-Centre-Grand-Hotel.jpg
 categories: 
   - hoteles
 authors: 
@@ -13,7 +13,7 @@ sus rincones. Este destino francés no sólo logra sacarte un "oooh" en sus monu
 calles sino que esa sorpresa se traslada también a las propuestas de alojamiento. Si te 
 gustan las experiencias diferentes, no te pierdas estos hoteles originales en Nantes. 
 
-![Dream Jungle, la creación de Makiko Furuichi en el hotel Amiral.](etheria-images/2022/10/makiko-furuichi-dream-jungle.jpg "Dream Jungle, la creación de Makiko Furuichi en el hotel Amiral. © Jean Dominique Billaud/ LVAN")
+![Dream Jungle, la creación de Makiko Furuichi en el hotel Amiral.](https://fotos.etheriamagazine.com/2022/10/makiko-furuichi-dream-jungle.jpg "Dream Jungle, la creación de Makiko Furuichi en el hotel Amiral. © Jean Dominique Billaud/ LVAN")
 
 La ciudad de Nantes y el arte forman un tándem que no se puede separar. Al pasear por 
 sus calles, las obras contemporáneas asaltan desde un espacio público repleto de 
@@ -39,7 +39,7 @@ habitación, Miranda #F98181, hace referencia a la protagonista femenina de _La
 tempestad_, de William Shakespeare, cuya fuerza de amor vence vanidades y luchas de 
 poder. 
 
-![Miranda#F98181, Chambre Mercure Nantes Centre Grand Hôtel,Le Voyage à Nantes 2018](etheria-images/2022/10/Mercure-Nantes-Centre-Grand-Hotel.jpg "Miranda#F98181, Mercure Nantes Centre Grand Hôtel. © J-D Billaud -LVAN")
+![Miranda#F98181, Chambre Mercure Nantes Centre Grand Hôtel,Le Voyage à Nantes 2018](https://fotos.etheriamagazine.com/2022/10/Mercure-Nantes-Centre-Grand-Hotel.jpg "Miranda#F98181, Mercure Nantes Centre Grand Hôtel. © J-D Billaud -LVAN")
 
 ### Amours: Le D'Ô, flotar en un barco
 
@@ -53,7 +53,7 @@ plantas flotando. En el interior, la sinfonía de formas y colores sigue por tod
 partes. Un espacio inusual y atípico, abierto hacia el exterior a través de grandes 
 ventanales, que ofrecen unas vistas singulares de la ciudad y del río Erdre. 
 
-![Barco hotel Amour - Péniche le D'Ô.](etheria-images/2022/10/hotel-barco-nantes-850x300.jpg "Amour - Péniche le D'Ô. © Jean-Dominique Billaud - LVAN, ADAGP 2019")
+![Barco hotel Amour - Péniche le D'Ô.](https://fotos.etheriamagazine.com/2022/10/hotel-barco-nantes-850x300.jpg "Amour - Péniche le D'Ô. © Jean-Dominique Billaud - LVAN, ADAGP 2019")
 
 ### Dream jungle, dormir en una acuarela
 
@@ -67,7 +67,7 @@ formas orgánicas y los colores vivos como maravillado por la profusión de los 
 La experiencia se culmina con una original edición de _A dream of them_ de Jon Chandler, 
 que evoca lo invisible, los fantasmas y los extraterrestres que ocupan nuestros sueños. 
 
-![Dream Jungle, Hotel Amiral.](etheria-images/2022/10/hotel-amiral-nantes-dream-jungle-850x579.jpg "Dream Jungle, Hotel Amiral. © Jean Dominique Billadu - LVAN")
+![Dream Jungle, Hotel Amiral.](https://fotos.etheriamagazine.com/2022/10/hotel-amiral-nantes-dream-jungle-850x579.jpg "Dream Jungle, Hotel Amiral. © Jean Dominique Billadu - LVAN")
 
 ### Micr’Home, belleza urbana
 
@@ -81,7 +81,7 @@ espacio optimizado y acogedor, cuya columna vertebral es la escalera de caracol 
 demuestra que la vida urbana se hace más fuera que dentro y que no necesitamos grandes 
 espacios para construir nuestros nidos. 
 
-![Myrtille Drouet, Micr'Home, rue du Puits d'argent, Nantes - Voyage à Nantes 2017](etheria-images/2022/10/hotel-nantes-Micr-Home-850x625.jpg "Micr'Home, en Nantes. © Philippe Piron - LVAN")
+![Myrtille Drouet, Micr'Home, rue du Puits d'argent, Nantes - Voyage à Nantes 2017](https://fotos.etheriamagazine.com/2022/10/hotel-nantes-Micr-Home-850x625.jpg "Micr'Home, en Nantes. © Philippe Piron - LVAN")
 
 ### Habitación 107, un invernadero zen
 
@@ -95,7 +95,7 @@ según la hora del día. Al atardecer, las rayas que proyecta la obra en la habi
 recuerdan a las rayas de las cebras presentes en la pared del bar del hotel. La 
 creatividad del artista ofrece una versión original de este clásico hotel. 
 
-![Chambre 107, en el hotel Océania.](etheria-images/2022/10/habitacion-107-hotel-de-france-850x570.jpg "Chambre 107, en el hotel Océania. © Jean Dominique Billaud - LVAN")
+![Chambre 107, en el hotel Océania.](https://fotos.etheriamagazine.com/2022/10/habitacion-107-hotel-de-france-850x570.jpg "Chambre 107, en el hotel Océania. © Jean Dominique Billaud - LVAN")
 
 ### Cellule Vitale, en el hotel Le Cambronne
 
@@ -110,7 +110,7 @@ de color negro y gris según sus necesidades. Gracias a este ambiente propicio p
 introspección, el artista nos invita a proyectar nuevos pensamientos y a cultivar la 
 imaginación. 
 
-![Hotel original en Nantes Le Cambronne](etheria-images/2022/10/hotel-nantes-cellule-vitale.jpg "Cellule Vitale en el Hotel Le Cambronne. © Jean Dominique Billaud - LVAN")
+![Hotel original en Nantes Le Cambronne](https://fotos.etheriamagazine.com/2022/10/hotel-nantes-cellule-vitale.jpg "Cellule Vitale en el Hotel Le Cambronne. © Jean Dominique Billaud - LVAN")
 
 **También te puede interesar...** 
 

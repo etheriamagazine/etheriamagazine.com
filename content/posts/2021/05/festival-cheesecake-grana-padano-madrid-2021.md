@@ -1,7 +1,7 @@
 ---
 title: "Un festival para los amantes de la tarta de queso en Madrid"
 date: 2021-05-01
-coverImage: etheria-images/2021/04/festival-cheesecake-madrid.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/04/festival-cheesecake-madrid.jpg
 categories: 
   - organiza-tu-viaje
   - mejores-restaurantes-gastronomia
@@ -11,7 +11,7 @@ authors:
 
 ¡Cómo nos gustan los festivales "comestibles"! Y si, además, su principal ingrediente es el queso, poco más podemos añadir. Durante el mes de mayo se celebra en Madrid la primera edición del ‘Festival de la cheesecake de Grana Padano’. Si te consideras quesera y amante del dulce, tienes que hacer una pequeña ruta por los cinco restaurantes que participan.
 
-![Festival de la cheesecake de Grana Padano](etheria-images/2021/04/festival-cheesecake-madrid.jpg "Festival de la cheesecake de Grana Padano. © Laura Ponts")
+![Festival de la cheesecake de Grana Padano](https://fotos.etheriamagazine.com/2021/04/festival-cheesecake-madrid.jpg "Festival de la cheesecake de Grana Padano. © Laura Ponts")
 
 Cuánto sabes de las _cheesecakes_? Parece un invento reciente, ¿verdad? Pues no, casi 
 todos los estudios sitúan sus orígenes en la **Antigua Grecia**. La tarta de queso, por 
@@ -40,7 +40,7 @@ probar los postres de tarta de queso que van a preparar algunos restaurantes par
 ocasión. Si viajas en otro momento, no descartes que los sigan incluyendo en sus cartas, 
 porque lo que funciona y agrada al comensal es fácil que se quede (para siempre). 
 
-![dop grana padano reserva](etheria-images/2021/04/grana-padano-reserva.jpg "DOP Grana Padano.")
+![dop grana padano reserva](https://fotos.etheriamagazine.com/2021/04/grana-padano-reserva.jpg "DOP Grana Padano.")
 
 Para preparar estas particulares cheesecakes, se ha elegido un **queso Grana Padano con 
 una maduración de más de 12 meses**, que aporta un sabor dulce y delicado. Este tipo de 
@@ -52,7 +52,7 @@ Po. Por si te lo estás preguntando, también es artesanal, libre de gluten y de
 (consulta nuestra [Ruta por el Madrid más libre de 
 gluten](https://etheriamagazine.com/2020/10/02/ruta-madrid-sin-gluten-mejores-restaurantes-pastelerias/)). 
 
-![tarta de queso madrid](etheria-images/2021/04/tarta-queso-madrid.jpg "Tarta de queso tradicional. © Yulia Khlebnikova")
+![tarta de queso madrid](https://fotos.etheriamagazine.com/2021/04/tarta-queso-madrid.jpg "Tarta de queso tradicional. © Yulia Khlebnikova")
 
 ## Cinco restaurantes donde tomar tarta de queso con Grana Padano
 
@@ -62,7 +62,7 @@ queso Grana Padano. ¿Estás dispuesta a probar las cinco tartas para comprobar 
 gusta más? Si lo haces en el mismo día (¿quizás es demasiado?), tendrás que pasear por 
 el barrio de Retiro, el barrio de Salamanca y la zona Centro para ir bajando calorías... 
 
-![Cheesecake de El Perro y la Galleta](etheria-images/2021/04/cheesecake-El-Perro-y-la-Galleta.jpg "Cheesecake de El Perro y la Galleta.")
+![Cheesecake de El Perro y la Galleta](https://fotos.etheriamagazine.com/2021/04/cheesecake-El-Perro-y-la-Galleta.jpg "Cheesecake de El Perro y la Galleta.")
 
 ### El Perro y La Galleta
 
@@ -73,7 +73,7 @@ propietario, los perros.
 
 Dirección: Claudio Coello, 1. 
 
-![Cheesecake de Don Giovanni](etheria-images/2021/04/cheesecake-Don-Giovanni.jpg "Cheesecake de Don Giovanni.")
+![Cheesecake de Don Giovanni](https://fotos.etheriamagazine.com/2021/04/cheesecake-Don-Giovanni.jpg "Cheesecake de Don Giovanni.")
 
 ### Don Giovanni
 
@@ -84,7 +84,7 @@ trufa. Tendrás que dejarte sorprender por su creación para el festival.
 
 Dirección: paseo de la Reina Cristina. 
 
-![cheesecake Inclan Brutal Bar](etheria-images/2021/04/tarta-queso-brutal-madrid.jpg "Cheesecake de Inclán Brutal Bar.")
+![cheesecake Inclan Brutal Bar](https://fotos.etheriamagazine.com/2021/04/tarta-queso-brutal-madrid.jpg "Cheesecake de Inclán Brutal Bar.")
 
 ### Inclán Brutal Bar
 
@@ -96,7 +96,7 @@ carta con referencias a Valle-Inclán.
 
 Dirección: callejón del Gato, 4. 
 
-![tarta Festival de la cheesecake de Grana Padano](etheria-images/2021/04/festival-cheesecake-grana-padano.jpg "Cheesecake de El Velázquez 17, para el Festival de la cheesecake de Grana Padano.")
+![tarta Festival de la cheesecake de Grana Padano](https://fotos.etheriamagazine.com/2021/04/festival-cheesecake-grana-padano.jpg "Cheesecake de El Velázquez 17, para el Festival de la cheesecake de Grana Padano.")
 
 ### El Velázquez 17
 
@@ -107,7 +107,7 @@ que no está lejos. No suena mal, ¿verdad?
 
 Dirección: Velázquez ,17. 
 
-![Cheesecake de oven mozzarella](etheria-images/2021/04/cheesecake-oven-Mozzarella.jpg "Cheesecake de Gran Vía 55.")
+![Cheesecake de oven mozzarella](https://fotos.etheriamagazine.com/2021/04/cheesecake-oven-Mozzarella.jpg "Cheesecake de Gran Vía 55.")
 
 ### Gran Vía 55 (Ôven Mozzarella)
 

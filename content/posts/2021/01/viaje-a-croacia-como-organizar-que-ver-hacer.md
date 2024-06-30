@@ -1,7 +1,7 @@
 ---
 title: "Croacia: consejos y visitas imprescindibles para tu primer viaje"
 date: 2021-01-22
-coverImage: etheria-images/2021/01/viaje-croacia-trogir.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/viaje-croacia-trogir.jpg
 categories: 
   - consejos-practicos
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 Croacia es un país que está en muchas agendas viajeras como una promesa de viaje perfecto. Combina esos aspectos que hacen que una escapada sea un éxito seguro: paisajes naturales, historia, arte, gastronomía y un mar tan transparente que parece ficticio. Aquí te damos algunos consejos para tu primer viaje a Croacia y te recomendamos aquellos lugares que no puedes perderte.
 
-![viajes a Croacia](etheria-images/2021/01/viaje-croacia-trogir.jpg "Paisaje cerca de Trogir. © Sergii Gulenok")
+![viajes a Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-trogir.jpg "Paisaje cerca de Trogir. © Sergii Gulenok")
 
 Es difícil no enamorarse de un país que ha sabido preservar su costa casi intacta y que 
 conserva orgulloso sus tradiciones. Un viaje a Croacia está lleno de ventajas. Y una de 
@@ -38,7 +38,7 @@ Istria). Muchas islas puedes verlas en el día, cogiendo un ferry por la mañana
 volviendo por la noche, pero si tienes tiempo, islas tan bonitas como **Hvar** merecen 
 dormir en ellas. 
 
-![viajes a Croacia](etheria-images/2021/01/viaje-croacia-hvar.jpg "Vista de la ciudad de Hvar, en la isla de Hvar, desde la fortaleza española. © Aleksandra Krasinska")
+![viajes a Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-hvar.jpg "Vista de la ciudad de Hvar, en la isla de Hvar, desde la fortaleza española. © Aleksandra Krasinska")
 
 Si vas a descansar en verano, ten en cuenta la opción de **alquilar un barco con 
 patrón** para recorrer la costa: te evitarás atascos y disfrutaras Croacia desde el mar, 
@@ -57,7 +57,7 @@ hoteles… para que solo tengas que preocuparte de disfrutar y conducir por el p
 viaje sale algo más caro, pero tienes la tranquilidad de ir respaldada por una agencia 
 que solucionará cualquier imprevisto. 
 
-![fin de semana en Zagreb](etheria-images/2021/01/viaje-croacia-zagreb-san-marcos.jpg "Iglesia de San Marcos en Zagreb.")
+![fin de semana en Zagreb](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-zagreb-san-marcos.jpg "Iglesia de San Marcos en Zagreb.")
 
 ## Lugares imprescindibles
 
@@ -84,7 +84,7 @@ siglo IV, el campanario de 60 metros de la catedral de St. Euphemia de Rovinj y 
 anfiteatro romano de Pula. Y, frente a las costas de Istria, el **archipiélago de 
 Brijuni**, perfecto para una excursión. 
 
-![viajes a Croacia](etheria-images/2021/01/viaje-croacia-Rovinj.jpg "Rovinj, en la península de Istria.")
+![viajes a Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-Rovinj.jpg "Rovinj, en la península de Istria.")
 
 ### Opatija
 
@@ -102,7 +102,7 @@ otros. El parque se puede visitar con unas cómodas pasarelas. Toda la informaci
 puedes consultar en el artículo [10 razones para visitar el P.N. de los Lagos de 
 Plitvice](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/). 
 
-![Parques nacionales de Croacia](etheria-images/2021/01/viaje-croacia-plitvice.jpg "Parque Nacional de los Lagos de Plitvice. © Mike Swigunski")
+![Parques nacionales de Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-plitvice.jpg "Parque Nacional de los Lagos de Plitvice. © Mike Swigunski")
 
 ### Zadar
 
@@ -122,7 +122,7 @@ Sibenik](https://etheriamagazine.com/2020/08/13/que-ver-hacer-sibenik-parque-krk
 Además, ofrece dos interesantes excursiones: la bella localidad de **Primosten** y el 
 **Parque Nacional de Krka**. 
 
-![cruceros en Croacia](etheria-images/2021/01/viaje-croacia-sibenik.jpg "Sibenik desde el mar. © Sergii Gulenok")
+![cruceros en Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-sibenik.jpg "Sibenik desde el mar. © Sergii Gulenok")
 
 ### Split
 
@@ -134,7 +134,7 @@ mausoleo de Diocleciano (hoy catedral), donde tendrás que subir a su campanario
 contemplar desde arriba la belleza del entorno. Es obligatorio visitar el subsuelo del 
 palacio y, fuera de la muralla, la Plaza Nacional. 
 
-![fin de semana en Split](etheria-images/2021/01/viaje-croacia-split.jpg "Músico en las calles de Split. © Partha Narasimhan")
+![fin de semana en Split](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-split.jpg "Músico en las calles de Split. © Partha Narasimhan")
 
 ### Trogir
 
@@ -155,7 +155,7 @@ costa. Son paradas obligadas la Stradun (la calle principal), las puertas de Pil
 Ploce, el Palacio del Rector o el convento franciscano, entre otros tesoros de su casco 
 histórico. Y, por supuesto, un paseo desde lo alto de sus murallas. 
 
-![fin de semana en Dubrovnik](etheria-images/2021/01/viaje-croacia-dubrovnik.jpg "Casco histórico de Dubronvik. © Matthias Mullie")
+![fin de semana en Dubrovnik](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-dubrovnik.jpg "Casco histórico de Dubronvik. © Matthias Mullie")
 
 ### Islas
 
@@ -170,7 +170,7 @@ Paraíso natural que guarda un parque nacional en su parte oeste. No te pierdas 
 Malo jezero (lago Pequeño) y Veliko jezero (lago Grande), unidos entre sí por canales 
 poco profundos cuyas aguas desembocan en el mar. 
 
-![viajes a Croacia](etheria-images/2021/01/viaje-croacia-mljet.jpg "Isla de Mljet. © Josh Berendes")
+![viajes a Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-mljet.jpg "Isla de Mljet. © Josh Berendes")
 
 ##### Desde Split:
 
@@ -182,7 +182,7 @@ que ofrece unas vistas preciosas. • **Brac**. Conocida por la playa más famos
 Croacia, la del cabo Zlatni rat (Cuerno de Oro), una de las pocas playas de arena del 
 país. 
 
-![islas de Croacia](etheria-images/2021/01/viaje-croacia-brac.jpg "Playa del cabo Zlatni rat en la isla de Brac.")
+![islas de Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-brac.jpg "Playa del cabo Zlatni rat en la isla de Brac.")
 
 ##### Desde Zadar:
 
@@ -194,7 +194,7 @@ para hacer una excursión en barco.
 • **Krk**. Con una bonita ciudad del mismo nombre y un paisaje natural casi intacto. • 
 **Losinj**. Un auténtico oasis con una frondosa vegetación. 
 
-![islas de Croacia](etheria-images/2021/01/viajes-croacia-Losinj.jpg "Losinj. © Ante Hamersmit")
+![islas de Croacia](https://fotos.etheriamagazine.com/2021/01/viajes-croacia-Losinj.jpg "Losinj. © Ante Hamersmit")
 
 ## Elige tu ruta en Croacia
 
@@ -202,7 +202,7 @@ Muchas veces cometemos el error de querer visitar un país europeo completo en c
 viaje. Europa está llena de regiones maravillosas a pocas horas de vuelo, si solo tienes 
 una semana (o menos) es mejor centrarse en una zona y recorrerla bien. 
 
-![viajes a Istria](etheria-images/2021/01/viaje-croacia-pula.jpg "Anfiteatro de Pula, en Istria. © Dimitry Anikin")
+![viajes a Istria](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-pula.jpg "Anfiteatro de Pula, en Istria. © Dimitry Anikin")
 
 En Croacia lo primero que tienes que decidir es si quieres visitar la zona norte (Zagreb 
 y la península de Istria) o el sur (Dalmacia). Su forma alargada en el sur hace que si 
@@ -230,7 +230,7 @@ sus islas: Brac, Hvar, Korcula y Mjet. Tendrás que ver la combinación de ferri
 hacia el sur, pasando por Istria, Opatija y desviarse al interior a los lagos de 
 Plitvice. Después Zadar, Split y Dubrovnik. Distancia total: 980 kilómetros. 
 
-![rutas por Croacia](etheria-images/2021/01/viaje-croacia-opatija.jpg "Opatija. © Danijel Durkovic")
+![rutas por Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-opatija.jpg "Opatija. © Danijel Durkovic")
 
 ## Selección de vuelos
 
@@ -243,7 +243,7 @@ o [Kayak](https://www.kayak.es/flights). Ten en cuenta lo que hemos comentado
 anteriormente: por la forma alargada de la parte sur del país, casi siempre la mejor 
 opción es entrar y salir por ciudades distintas. 
 
-![hoteles en Croacia](etheria-images/2021/01/viaje-croacia-hotel-zadar.jpg "Hotel en Zadar. © Bas Van Den Eijkhof")
+![hoteles en Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-hotel-zadar.jpg "Hotel en Zadar. © Bas Van Den Eijkhof")
 
 ## Elección de hoteles
 
@@ -258,7 +258,7 @@ En Croacia no hay apenas hoteles tipo _resort_. Si buscas hoteles de lujo de sol
 playa, la mejor zona es Dubrovnik y Cavtat, al sur de Dubrovnik, casi en la frontera con 
 Montenegro. 
 
-![parques nacionales de Croacia](etheria-images/2021/01/viaje-croacia-krk.jpg "Parque Nacional de Krk.")
+![parques nacionales de Croacia](https://fotos.etheriamagazine.com/2021/01/viaje-croacia-krk.jpg "Parque Nacional de Krk.")
 
 ## Consejos prácticos
 

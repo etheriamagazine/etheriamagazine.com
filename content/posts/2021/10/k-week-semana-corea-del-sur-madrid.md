@@ -1,7 +1,7 @@
 ---
 title: "Corea del Sur llega a Madrid con su K-Week"
 date: 2021-10-15
-coverImage: etheria-images/2021/10/Corea-del-sur-Callejon-Puigcerda.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/10/Corea-del-sur-Callejon-Puigcerda.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -11,7 +11,7 @@ authors:
 
 Del 14 al 21 de octubre, Madrid se va a llenar de eventos y actividades con los que nos sumergiremos en la cultura de Corea del Sur. Calles decoradas, talleres, bailes populares… Consulta la programación de la K-Week y acércate a disfrutar de este país asiático.
 
-![Callejón Puigcerdá con decoración surcoreana.](etheria-images/2021/10/Corea-del-sur-Callejon-Puigcerda.jpg "Callejón Puigcerdá con decoración surcoreana. © Turismo de Corea")
+![Callejón Puigcerdá con decoración surcoreana.](https://fotos.etheriamagazine.com/2021/10/Corea-del-sur-Callejon-Puigcerda.jpg "Callejón Puigcerdá con decoración surcoreana. © Turismo de Corea")
 
 Corea del Sur está de moda. Lo vemos en las pasiones que desatan en los jóvenes (y no 
 tan jóvenes) series de televisión como “El juego del calamar”, películas como 
@@ -30,7 +30,7 @@ parece un pedazo de una ciudad surcoreana con sus farolillos de colores. Es perf
 para hacerse unas fotos muy “instagrameables”. Un lugar así no podía faltar en la semana 
 de Corea del Sur en Madrid. 
 
-![Noodles fríos, típicos de la gastronomía de Corea del Sur.](etheria-images/2021/10/corea-del-sur-gastronomia.jpg "Noodles fríos, típicos de la gastronomía de Corea del Sur.")
+![Noodles fríos, típicos de la gastronomía de Corea del Sur.](https://fotos.etheriamagazine.com/2021/10/corea-del-sur-gastronomia.jpg "Noodles fríos, típicos de la gastronomía de Corea del Sur.")
 
 **2 El festival al aire libre From Korea to the Sky.** La plaza de Colón se transformará 
 el domingo 17 de octubre de 11 a 18 horas en el punto de encuentro de la semana de Corea 
@@ -48,7 +48,7 @@ contemporáneas inspiradas en una rama de la pintura coreana tradicional minhwa 
 **Galería Han-ul**. Además, una exposición de 50 fotografías brinda a los visitantes los 
 paisajes de Corea del Sur en el **espacio Kailani**. 
 
-![Puedes apuntarte a un taller de caligrafía de Corea del Sur.](etheria-images/2021/10/corea-del-sur-caligrafia.jpg "Puedes apuntarte a un taller de caligrafía de Corea del Sur.")
+![Puedes apuntarte a un taller de caligrafía de Corea del Sur.](https://fotos.etheriamagazine.com/2021/10/corea-del-sur-caligrafia.jpg "Puedes apuntarte a un taller de caligrafía de Corea del Sur.")
 
 **5 Talleres variados.** Se centran en tres áreas: gastronomía, belleza y caligrafía. 
 Tres aspectos claves de la cultura coreana. La cita con los **talleres de gastronomía** 
@@ -60,7 +60,7 @@ quieres es conocer de cerca una expresión tan importante de su cultura como es 
 **caligrafía**, no te puedes perder los talleres que se impartirán sobre esta materia 
 los días 15, 19 y 21 de octubre. 
 
-![La K-week trae exhibiciones de taekwondo a Madrid.](etheria-images/2021/10/corea-del-sur-taekwondo.jpg "La K-week trae exhibiciones de taekwondo a Madrid.")
+![La K-week trae exhibiciones de taekwondo a Madrid.](https://fotos.etheriamagazine.com/2021/10/corea-del-sur-taekwondo.jpg "La K-week trae exhibiciones de taekwondo a Madrid.")
 
 **6 Taekwondo, conoce su filosofía.** Es probablemente una de las principales 
 actividades por las que conocemos a Corea del Sur. Para saber más sobre este arte 
@@ -73,7 +73,7 @@ habrá exhibición de taekwondo el 17 de octubre a la plaza de Colón (en los pa
 piso de Madrid que se convertirá en una casa en este estilo durante estos días. Podrás 
 visitarla de 10 a 18 horas en la Costanilla de San Vicente, 5 (bajo). 
 
-![Trajes típicos coreanos.](etheria-images/2021/10/corea-del-sur-traje-tradicional.jpg "Trajes típicos coreanos.")
+![Trajes típicos coreanos.](https://fotos.etheriamagazine.com/2021/10/corea-del-sur-traje-tradicional.jpg "Trajes típicos coreanos.")
 
 Más información en [Semana de Corea del Sur en Madrid](https://k-week.com) y en [Turismo 
 de Corea del Sur](http://www.visitkorea.or.kr). 

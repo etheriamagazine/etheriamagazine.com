@@ -1,7 +1,7 @@
 ---
 title: "Si quieres a tu pareja no viajes a Bali"
 date: 2019-07-23
-coverImage: etheria-images/2019/07/viaje-bali-tanah-lot.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-bali-tanah-lot.jpg
 categories: 
   - viajes-romanticos
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ viajar allí para disfrutarlos en pareja, pero ¿conoces la leyenda que condenar
 relación si viajas a la isla? Te contamos los detalles por si estás planeando una luna 
 de miel en Bali. 
 
-![arrozales en Bali](etheria-images/2019/07/viaje-bali-arrozales.jpg "Uno de los trekkings más habituales en Bali es pasear entre los arrozales. ©PB")
+![arrozales en Bali](https://fotos.etheriamagazine.com/2019/07/viaje-bali-arrozales.jpg "Uno de los trekkings más habituales en Bali es pasear entre los arrozales. ©PB")
 
 Estás en plena fase de enamoramiento y llega el momento de decidir el destino para las 
 próximas vacaciones. Bali ronda entre los predilectos. Llevas tiempo viendo imágenes de 
@@ -29,7 +29,7 @@ separarse? Aunque en Europa no se conoce esta maldición, en los países asiáti
 muy extendida, y los más supersticiosos prefieren viajar allí con amigos o, al menos, 
 evitar cierto templo donde la maldición es mayor. 
 
-![calle pengliburan en isla bali](etheria-images/2019/07/viaje-bali-calle-penglipuran.jpg "Calle Pengliburan. ©Elena Ortega")
+![calle pengliburan en isla bali](https://fotos.etheriamagazine.com/2019/07/viaje-bali-calle-penglipuran.jpg "Calle Pengliburan. ©Elena Ortega")
 
 He viajado cuatro veces a Bali y la primera vez que escuché hablar sobre esta 
 superstición fue hace apenas unos meses a través de una amiga que acababa de 
@@ -58,7 +58,7 @@ esa de **esquivar las ofrendas de flores** que invaden los lugares sagrados para
 pisarlas. Una tarea imposible que, según los balineses, puede despertar el gran enfado 
 de los dioses. 
 
-![mujer haciendo una ofrenda en Bali](etheria-images/2019/07/viaje-bali-luna-miel.jpg "Bali es una isla con una cultura apasionante. ©PB")
+![mujer haciendo una ofrenda en Bali](https://fotos.etheriamagazine.com/2019/07/viaje-bali-luna-miel.jpg "Bali es una isla con una cultura apasionante. ©PB")
 
 La creencia que más cuesta aceptar es la que culpa a la romántica Bali de la separación 
 de todos los enamorados que la visitan.Son varias las versiones que se han extendido 
@@ -80,7 +80,7 @@ acontecimiento, **el príncipe decidió abandonar a la princesa** negándose a c
 ella. La princesa, desolada y avergonzada, lanzó una **maldición sobre todas las parejas 
 que visitaran Bali sin estar casadas**. 
 
-![Atardecer en el templo de Tanah Lot en Bali](etheria-images/2019/07/viaje-bali-tanah-lot.jpg "Atardecer en el templo de Tanah Lot. © Elena Ortega")
+![Atardecer en el templo de Tanah Lot en Bali](https://fotos.etheriamagazine.com/2019/07/viaje-bali-tanah-lot.jpg "Atardecer en el templo de Tanah Lot. © Elena Ortega")
 
 A 100 metros de la costa suroeste de Bali, el ‘**templo de la Tierra en el Mar**’ se 
 aposenta entre rocas que son cercadas por las olas cuando la marea sube. Tanah Lot fue 
@@ -100,7 +100,7 @@ claro qué es lo que encontraremos** en nuestro destino. Las expectativas son
 responsables de muchos desengaños, pudiendo arruinar las vacaciones, por lo que siempre 
 será bueno informarse bien sobre los verdaderos atractivos de la isla. 
 
-![Playa de Jimbaran en Bali](etheria-images/2019/07/viaje-bali-playa-jimbaran.jpg "Playa de Jimbaran. © Elena Ortega")
+![Playa de Jimbaran en Bali](https://fotos.etheriamagazine.com/2019/07/viaje-bali-playa-jimbaran.jpg "Playa de Jimbaran. © Elena Ortega")
 
 Son muchas las personas que viajan hasta Bali pensando que en ella encontrarán 
 paradisiacas playas. Aunque hay playas muy diversas, l**as más paradisiacas se localizan 
@@ -109,7 +109,7 @@ en las cercanas islas de Nusa Penida y Nusa Lembongan** o en alguna de las tres
 que Bali es mucho más que playas, tendremos asegurada la diversión, y por lo tanto la 
 felicidad en pareja. 
 
-![Atardecer desde las islas Gili](etheria-images/2019/07/islas-gili-air-bali.jpg "Atardecer desde las islas Gili. ©PB")
+![Atardecer desde las islas Gili](https://fotos.etheriamagazine.com/2019/07/islas-gili-air-bali.jpg "Atardecer desde las islas Gili. ©PB")
 
 Otra de las claves para un viaje feliz es el poder que tiene un mito para influenciar a 
 una pareja supersticiosa. **Si una relación ya se tambalea**, un viaje en el que 
@@ -122,7 +122,7 @@ alternativa puede ser visitar las islas vecinas mencionadas anteriormente y la c
 **Lombok**, una opción perfecta para aproximarse a la espectacularidad de Bali sin 
 pisarla. 
 
-![costa de Lombok](etheria-images/2019/07/lombok-luna-miel.jpg "Desde Bali se puede visitar Lombok. ©PB")
+![costa de Lombok](https://fotos.etheriamagazine.com/2019/07/lombok-luna-miel.jpg "Desde Bali se puede visitar Lombok. ©PB")
 
 Aquellos que se dejan guiar por las supersticiones en su justa medida será suficiente 
 con **que eviten Tanah Lot.** A cambio encontrarán numerosos templos dignos de una 

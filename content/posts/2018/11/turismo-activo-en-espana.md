@@ -1,7 +1,7 @@
 ---
 title: "Turismo activo en España, propuestas para deportistas"
 date: 2018-11-23
-coverImage: etheria-images/2018/11/viajes-mujeres-parque-alcornocales-senderismo.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-parque-alcornocales-senderismo.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -16,7 +16,7 @@ activo) la geografía española desde Galicia hasta Murcia y desde Cataluña has
 Islas Canarias. Y sin repetir actividad ni una sola vez. ¿No nos crees? Continúa leyendo 
 nuestras propuestas de turismo activo en España. 
 
-![Mujer mirando con prismáticos en el Parque de los Alcornocales](etheria-images/2018/11/viajes-mujeres-parque-alcornocales-senderismo-1024x570.jpg "Observación de aves en el Parque de los Alcornocales. ©K.U.")
+![Mujer mirando con prismáticos en el Parque de los Alcornocales](https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-parque-alcornocales-senderismo-1024x570.jpg "Observación de aves en el Parque de los Alcornocales. ©K.U.")
 
 En este artículo dirigido, sobre todo, a mujeres dinámicas comenzaremos ofreciendo 
 planes divertidos y activos en cuatro comunidades autónomas, las primeras de la lista en 
@@ -49,7 +49,7 @@ obligatorio ir acompañado de un guía a bordo de un vehículo 4x4. Existen vari
 ornitológicas específicas de la zona del estrecho de Gibraltar, de Doñana, del Parque 
 Natural Los Alcornocales y la Comarca de la Janda. 
 
-![descenso nocturno en tobogán en Panticosa](etheria-images/2018/11/toboganing-nocturno-aramon-1024x682.jpg "El toboganning es una de las experiencias que se pueden disfrutar en Formigal-Panticosa. Es un descenso nocturno en trineo por una pista de 2,5 km. © Aramon")
+![descenso nocturno en tobogán en Panticosa](https://fotos.etheriamagazine.com/2018/11/toboganing-nocturno-aramon-1024x682.jpg "El toboganning es una de las experiencias que se pueden disfrutar en Formigal-Panticosa. Es un descenso nocturno en trineo por una pista de 2,5 km. © Aramon")
 
 ## Aragón - Esquí
 
@@ -78,7 +78,7 @@ sumado a la iniciativa Ski Pirineos, un pase que permite esquiar indistintamente
 Candanchú, Astún, Cerler y Formigal-Panticosa un área monumental que en total suma más 
 de 390 kilómetros de pistas. 
 
-![Desfiladero de las Xanas, en Asturias](etheria-images/2018/11/viajes-mujeres-ruta-Desfiladero-Xanas-1024x683.jpg "Desfiladero de las Xanas, en Asturias. ©K.U.")
+![Desfiladero de las Xanas, en Asturias](https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-ruta-Desfiladero-Xanas-1024x683.jpg "Desfiladero de las Xanas, en Asturias. ©K.U.")
 
 ## Asturias - Senderismo
 
@@ -104,7 +104,7 @@ locomotoras pudieran circular por debajo de las montañas y por encima del río.
 vagonetas que lo usaron durante casi 90 años transportaban el hierro y el carbón que 
 extraían de las minas del Valle de Quirós. 
 
-![mujer a caballo en el Camí de Cavalls en Menorca](etheria-images/2018/11/viajes-mujeres-Menorca-Cami-Cavalls-1024x683.jpg "El Camí de Cavalls recorre la costa menorquina. ©K.U.")
+![mujer a caballo en el Camí de Cavalls en Menorca](https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-Menorca-Cami-Cavalls-1024x683.jpg "El Camí de Cavalls recorre la costa menorquina. ©K.U.")
 
 ## Baleares - Equitación en Menorca
 

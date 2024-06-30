@@ -1,7 +1,7 @@
 ---
 title: "El Ciclo de Grandes Autores e Intérpretes de la Música de Madrid 2020/21 se centra en el viaje y la vida"
 date: 2020-12-19
-coverImage: etheria-images/2020/12/Pianista-Judith-Jauregui.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/Pianista-Judith-Jauregui.jpg
 categories: 
   - planes-cultura-ocio
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 El Auditorio Nacional de Madrid acoge el XLVIII Ciclo de Grandes Autores e Intérpretes de la Música entre el 19 de diciembre 2020 y el 10 de junio de 2021. El lema de este ciclo, organizado por la Universidad Autónoma de Madrid, es 'El viaje y la vida', y promete ser uno de los más singulares de los últimos años.
 
-![Pianista judith Jauregui del Ciclo de Grandes Autores e Interpretes de la Musica](etheria-images/2020/12/Pianista-Judith-Jauregui.jpg "La pianista Judith Jáuregui tocará con la Orquesta de RTVE.")
+![Pianista judith Jauregui del Ciclo de Grandes Autores e Interpretes de la Musica](https://fotos.etheriamagazine.com/2020/12/Pianista-Judith-Jauregui.jpg "La pianista Judith Jáuregui tocará con la Orquesta de RTVE.")
 
 La Antártida, Viena, Praga, Venecia, Portugal, Rusia…. El **XLVIII Ciclo de Grandes 
 Autores e Intérpretes de la Música**, organizado por la Universidad Autónoma de Madrid 
@@ -24,7 +24,7 @@ en la música**, la recuperación del patrimonio musical español o la música e
 pero siempre **con el concepto del viaje como fuente de conocimiento y como metáfora de 
 la vida**. 
 
-![musica el misterio de la antartida Ciclo de Grandes Autores e Interpretes de la Musica](etheria-images/2020/12/El-misterio-de-la-Antartida-con-musica-de-Bach.jpg ""El misterio de la Antártida", con música de Bach. © Jerónimo López")
+![musica el misterio de la antartida Ciclo de Grandes Autores e Interpretes de la Musica](https://fotos.etheriamagazine.com/2020/12/El-misterio-de-la-Antartida-con-musica-de-Bach.jpg ""El misterio de la Antártida", con música de Bach. © Jerónimo López")
 
 ## De Norte a Sur y de Viena a Praga
 
@@ -34,7 +34,7 @@ Valiente, “Música por la Paz”, se encarga el Orfeón Donostiarra, con un **
 Norte a Sur**' (11 de febrero), que será un recorrido desde las obras rusas hasta los 
 grandes coros de las óperas italianas. 
 
-![trio la ritirata del Ciclo de Grandes Autores e Interpretes de la Musica](etheria-images/2020/12/La-Ritirata.jpg "El trío La Ritirata inaugura el ciclo el 19 de diciembre.")
+![trio la ritirata del Ciclo de Grandes Autores e Interpretes de la Musica](https://fotos.etheriamagazine.com/2020/12/La-Ritirata.jpg "El trío La Ritirata inaugura el ciclo el 19 de diciembre.")
 
 El **Quinteto de la Filarmónica de Berlín**, que pisa por primera vez el Auditorio, nos 
 acercará la música **'De Viena a Praga'** (6 de marzo) y la **Orquesta Barroca de 
@@ -43,7 +43,7 @@ Vivaldi** (13 de marzo). Por último, Os Músicos do Tejo ofrecerán un viaje en
 culto y lo popular, que irá de la música **barroca portuguesa al melancólico fado** (21 
 de mayo). 
 
-![quinteto filarmonica de berlin en la Ciclo de Musica e Interpretes de la UAM](etheria-images/2020/12/Quinteto-de-la-Filarmonica-de-Berlin.jpg "El Quinteto de la Filarmónica de Berlín nos llevará de Viena a Praga.")
+![quinteto filarmonica de berlin en la Ciclo de Musica e Interpretes de la UAM](https://fotos.etheriamagazine.com/2020/12/Quinteto-de-la-Filarmonica-de-Berlin.jpg "El Quinteto de la Filarmónica de Berlín nos llevará de Viena a Praga.")
 
 Dos proyectos marcarán el espacio escénico. Uno es el dedicado a la música de Bach con 
 Emilio Moreno y Aarón Zapico al clave, una reconstrucción de la música para viola del 
@@ -55,7 +55,7 @@ tarde de teatro con música en la radio y que reflejará la ficción sonora de l
 20-30, bajo la dirección y voz de **Laia Falcón**, con el locutor Martín Llade (11 de 
 abril). Y se escucharán, además, canciones cervantinas recuperadas para la ocasión. 
 
-![laia falcon en el Ciclo de Musica e Interpretes de la UAM](etheria-images/2020/12/Soprano-Laia-Falcon.jpg "La soprano Laia Falcón actuará el 11 de abril de 2021.")
+![laia falcon en el Ciclo de Musica e Interpretes de la UAM](https://fotos.etheriamagazine.com/2020/12/Soprano-Laia-Falcon.jpg "La soprano Laia Falcón actuará el 11 de abril de 2021.")
 
 ## Con acento español
 
@@ -68,7 +68,7 @@ compositor Lorenzo Palomo.
 > En total, nueve conciertos, cuatro en la sala sinfónica y cinco en la sala de cámara del 
 > Auditorio Nacional. Grandes artistas para un ciclo singular. 
 
-![guitarrista Pablo Sainz Villegas](etheria-images/2020/12/guitarrista-Pablo-Sainz-Villegas.jpg "El guitarrista Pablo Sáinz Villegas tocará el 24 de abril de 2021.")
+![guitarrista Pablo Sainz Villegas](https://fotos.etheriamagazine.com/2020/12/guitarrista-Pablo-Sainz-Villegas.jpg "El guitarrista Pablo Sáinz Villegas tocará el 24 de abril de 2021.")
 
 Para la responsable del Ciclo de Grandes Autores y directora del Centro Superior de 
 Investigación y Promoción de la Música (CSIPM) de la UAM, Begoña Lolo, con el concierto 
@@ -90,7 +90,7 @@ Ritirata,** una de las formaciones musicales más reconocidas de los últimos ti
 distinguida con el Premio Ojo Crítico, por su labor de investigación y difusión de la 
 música antigua. 
 
-![Cartel del Ciclo de Musica e Interpretes de la UAM](etheria-images/2020/12/Cartel-del-Ciclo-de-Musica-e-Interpretes-de-la-UAM.jpg "Cartel del Ciclo de Música e Intérpretes de la UAM.")
+![Cartel del Ciclo de Musica e Interpretes de la UAM](https://fotos.etheriamagazine.com/2020/12/Cartel-del-Ciclo-de-Musica-e-Interpretes-de-la-UAM.jpg "Cartel del Ciclo de Música e Intérpretes de la UAM.")
 
 Por otra parte, a lo largo de toda la temporada, el Ciclo de Grandes Autores e 
 Intérpretes de la Música de la UAM entregará a los músicos y asistentes a sus conciertos 

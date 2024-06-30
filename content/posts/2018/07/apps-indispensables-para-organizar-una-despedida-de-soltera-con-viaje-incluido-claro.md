@@ -1,7 +1,7 @@
 ---
 title: "Apps indispensables para organizar una despedida de soltera (con viaje incluido, claro)"
 date: 2018-07-20
-coverImage: etheria-images/2018/07/Despedida-de-soltera-moviles.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Despedida-de-soltera-moviles.jpg
 categories: 
   - consejos-practicos
   - organiza-tu-viaje
@@ -16,7 +16,7 @@ que todo fluya. Entonces, la realidad te da una bofetada y la mañana siguiente 
 con 386 mensajes sin leer, memes que no vienen a cuento y, sobre todo, cientos de pegas 
 y demasiados emoticonos. 
 
-![](etheria-images/2018/07/despedida-de-soltera-playa-1024x683.jpg "Atardecer en la playa")
+![](https://fotos.etheriamagazine.com/2018/07/despedida-de-soltera-playa-1024x683.jpg "Atardecer en la playa")
 
 Así comienza la historia de este cuento que parecía muy bonito cuando se planteaba en la 
 terraza de un bar, entre risas e imaginando sorpresas para la novia. Si el día D ha 
@@ -32,7 +32,7 @@ diferentes fechas para que los contactos invitados puedan indicar qué días les
 mejor, peor o regular. La elección del día por pacto, la democracia hecha aplicación. El 
 sueño de cualquier organizadora. 
 
-![tecnologia apps chicas boda](etheria-images/2018/07/Despedida-de-soltera-moviles-1024x683.jpg "Buscando planes para la despedida de soltera")
+![tecnologia apps chicas boda](https://fotos.etheriamagazine.com/2018/07/Despedida-de-soltera-moviles-1024x683.jpg "Buscando planes para la despedida de soltera")
 
 ## 2\. ¿Dónde vamos? La gran pregunta
 
@@ -42,7 +42,7 @@ destino es sorpresa para que la emoción no vaya dirigida solo a la novia, sino 
 grupo de la despedida. Las condiciones son guardar en la maleta tanto un bikini como un 
 abrigo y asumir que no controlaremos absolutamente todo. 
 
-![](etheria-images/2018/07/despedida-de-soltera-amigas-1024x682.jpg)
+![](https://fotos.etheriamagazine.com/2018/07/despedida-de-soltera-amigas-1024x682.jpg)
 
 ## 3\. ¿Dónde dormimos?
 
@@ -56,7 +56,7 @@ precio por una noche y vienen de perlas para las siestas diurnas. Las cadenas ho
 más importantes se suman a esta novedosa alternativa donde las viajeras priman la fiesta 
 sobre el descanso. 
 
-![playa apps chicas boda](etheria-images/2018/07/despedida-de-soltera-al-sol-1024x678.jpg "Si no quieres tener que recurrir a las siestas en la playa haz caso a nuestras propuestas para encontrar hotel.")
+![playa apps chicas boda](https://fotos.etheriamagazine.com/2018/07/despedida-de-soltera-al-sol-1024x678.jpg "Si no quieres tener que recurrir a las siestas en la playa haz caso a nuestras propuestas para encontrar hotel.")
 
 ## 4\. ¿Cuánto te debo? ¡Qué lío!
 
@@ -67,7 +67,7 @@ transferencias, malentendidos y deudas entre amigas. Y, por supuesto, **Bizum** 
 pagar al momento aunque no "lleves suelto". No sabemos cómo hemos podido vivir sin esta 
 app. 
 
-![](etheria-images/2018/07/app-despedida-soltera-organiza-1024x454.jpg)
+![](https://fotos.etheriamagazine.com/2018/07/app-despedida-soltera-organiza-1024x454.jpg)
 
 ## 5\. ¿Qué hacemos?
 
@@ -82,7 +82,7 @@ todo un arte, con **Fever** podréis estar al día de los eventos culturales,
 gastronómicos y nocturnos de la ciudad en la que os encontréis y elegir según lo que os 
 pida el cuerpo. 
 
-![planes chicas mujeres boda apps](etheria-images/2018/07/despedida-de-soltera-concierto-1024x640.jpg "Concierto")
+![planes chicas mujeres boda apps](https://fotos.etheriamagazine.com/2018/07/despedida-de-soltera-concierto-1024x640.jpg "Concierto")
 
 ### También te puede interesar...
 

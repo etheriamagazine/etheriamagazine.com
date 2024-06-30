@@ -1,7 +1,7 @@
 ---
 title: "Restaurantes peruanos en Madrid con el sello del chef Jhosef Arias"
 date: 2022-01-24
-coverImage: etheria-images/2022/01/Platos-Piscomar-Bravazo.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/01/Platos-Piscomar-Bravazo.jpg
 categories: 
   - viajes-con-amigas
   - organiza-tu-viaje
@@ -13,7 +13,7 @@ authors:
 
 En el escaparate gastronómico de la capital también tiene espacio la cocina de las tierras andinas y, además, ocupa un lugar muy destacado. Si buscas restaurantes peruanos en Madrid para ir con amigas, te recomendamos varios entre los que elegir, con distinta filosofía pero con la misma persona tras su propuesta culinaria: Jhosef Arias Salinas. Te contamos su historia y sus mejores propuestas culinarias.
 
-![cebiche de piscomar uno de los restaurantes peruanos en Madrid](etheria-images/2022/01/Platos-Piscomar-Cebiche.jpg "Cebiche de Piscomar.")
+![cebiche de piscomar uno de los restaurantes peruanos en Madrid](https://fotos.etheriamagazine.com/2022/01/Platos-Piscomar-Cebiche.jpg "Cebiche de Piscomar.")
 
 Entre los planes con amigas que más nos gustan en Etheria Magazine están aquellos que 
 comienzan en un restaurante donde experimentar juntas un auténtico tsunami de sabores. 
@@ -38,7 +38,7 @@ fábrica cercana... “Mi madre daba cien desayunos, cien comidas y otras tantas
 casa era casi como un restaurante. Desde los ocho años ayudaba a amasar por las noches, 
 mi madre me enseñaba y me gustaba...”, nos comentaba recientemente Jhosef. 
 
-![Chef Jhosef Arias Salinas propietario de restaurantes peruanos en Madrid](etheria-images/2022/01/Chef-Jhosef-Arias-Restaurantes-peruanos-Madrid.jpg "Chef Jhosef Arias Salinas en su restaurante Piscomar de Madrid.")
+![Chef Jhosef Arias Salinas propietario de restaurantes peruanos en Madrid](https://fotos.etheriamagazine.com/2022/01/Chef-Jhosef-Arias-Restaurantes-peruanos-Madrid.jpg "Chef Jhosef Arias Salinas en su restaurante Piscomar de Madrid.")
 
 Nacido, por tanto, en el seno de una familia de carácter humilde y residente en San Juan 
 de Lurigancho, en el extrarradio de Lima, este joven cocinero ha aprendido desde pequeño 
@@ -59,7 +59,7 @@ reconocimientos y premios no han dejado de llegar pero continúa siendo una pers
 sencilla, amable y cercana con la que da gusto hablar y que te cuente las maravillas de 
 su país en una _masterclass_ o un taller en su espacio BoldKitchen. 
 
-![restaurante peruano piscomar](etheria-images/2022/01/interior-Piscomar.jpg "Piscomar, un restaurante peruano muy recomendable en el centro de Madrid.")
+![restaurante peruano piscomar](https://fotos.etheriamagazine.com/2022/01/interior-Piscomar.jpg "Piscomar, un restaurante peruano muy recomendable en el centro de Madrid.")
 
 ## Restaurantes peruanos en Madrid con filosofía propia
 
@@ -71,7 +71,7 @@ pasado año, **Hasaku** y **ADN**, su apertura más reciente. Como si te decimos
 únicamente el nombre no sabrás cuál se ajusta mejor a tus gustos, te contamos a 
 continuación qué ofrecen algunos de ellos. 
 
-![plato de piscomar bravazo con langostinos](etheria-images/2022/01/Platos-Piscomar-Bravazo.jpg "Bravazo, plato de Piscomar.")
+![plato de piscomar bravazo con langostinos](https://fotos.etheriamagazine.com/2022/01/Platos-Piscomar-Bravazo.jpg "Bravazo, plato de Piscomar.")
 
 ### Piscomar, para amantes del cebiche
 
@@ -92,7 +92,7 @@ incluso regalar un bono en algún momento especial.
 
 Dónde: Carrera de San Francisco, 15. Madrid 
 
-![taller cocina peruana con jhosef arias madrid](etheria-images/2022/01/jhosef-arias-taller-cocina-792x1024.jpg "Jhosef Arias en un taller de cocina de Boldkitchen. © Pepa García")
+![taller cocina peruana con jhosef arias madrid](https://fotos.etheriamagazine.com/2022/01/jhosef-arias-taller-cocina-792x1024.jpg "Jhosef Arias en un taller de cocina de Boldkitchen. © Pepa García")
 
 ### Boldkitchen, una experiencia peruana en Madrid
 
@@ -105,7 +105,7 @@ año.
 
 Dónde: Carrera de San Francisco, 15. Madrid 
 
-![restaurante peruano callao 24 en madrid](etheria-images/2022/01/restaurante-peruano-Callao24.jpg "Restaurante peruano Callao 24.")
+![restaurante peruano callao 24 en madrid](https://fotos.etheriamagazine.com/2022/01/restaurante-peruano-Callao24.jpg "Restaurante peruano Callao 24.")
 
 ### Callao 24, cocina criolla
 
@@ -129,7 +129,7 @@ rellena, el cebiche y unos ricos cócteles a base de pisco.
 
 Dónde: Agastia, 76. Madrid 
 
-![uramaki acebichado del restaurante hasaku](etheria-images/2022/01/restaurante-peruano-hasaku-Uramaki-Acebichado.jpg "Uramaki acebichado del restaurante peruano Hasaku.")
+![uramaki acebichado del restaurante hasaku](https://fotos.etheriamagazine.com/2022/01/restaurante-peruano-hasaku-Uramaki-Acebichado.jpg "Uramaki acebichado del restaurante peruano Hasaku.")
 
 ### Hasaku, sabores nikkei-peruanos
 
@@ -144,7 +144,7 @@ los elementos en el plato.
 
 Dónde: María Tubau, 17. Madrid. 
 
-![carne a la brasa en restaurante peruano humo](etheria-images/2022/01/restaurante-peruano-madrid-humo.jpg "Carnes a la brasa y al carbón en el restaurante peruano Humo.")
+![carne a la brasa en restaurante peruano humo](https://fotos.etheriamagazine.com/2022/01/restaurante-peruano-madrid-humo.jpg "Carnes a la brasa y al carbón en el restaurante peruano Humo.")
 
 ### Humo, más que un pollo a la brasa
 
@@ -173,7 +173,7 @@ domicilio.
 
 Dónde: Calle del Monte Oliveti, 19. 
 
-![cebiche peruano de boldkitchen](etheria-images/2022/01/ceviche-peruano-adn-madrid.jpg "Cebiche peruano con leche de tigre que puedes tomar en ADN. © Pepa García")
+![cebiche peruano de boldkitchen](https://fotos.etheriamagazine.com/2022/01/ceviche-peruano-adn-madrid.jpg "Cebiche peruano con leche de tigre que puedes tomar en ADN. © Pepa García")
 
 ### ADN, junto al mercado de San Miguel
 
@@ -191,7 +191,7 @@ Esperamos haberte dado las pistas suficientes para elegir el restaurante que mej
 ajuste a tus gustos, y que la próxima vez que busques restaurantes peruanos en Madrid 
 para ir con amigas lo tengas un poquito más claro. 
 
-![platos de restaurantes peruanos en madrid](etheria-images/2022/01/platos-peruanos.jpg "Chicharrón y ají de gallina. © Pepa García/ Etheria Magazine")
+![platos de restaurantes peruanos en madrid](https://fotos.etheriamagazine.com/2022/01/platos-peruanos.jpg "Chicharrón y ají de gallina. © Pepa García/ Etheria Magazine")
 
 \*Fotografías cedidas por Grupo Jhosef Arias/ Etheria Magazine. 
 

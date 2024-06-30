@@ -1,7 +1,7 @@
 ---
 title: "Estambul romántico, qué ver en una escapada en pareja"
 date: 2018-05-03
-coverImage: etheria-images/2020/04/viaje-estambul.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-estambul.jpg
 categories: 
   - viajes-48-horas
   - viajes-romanticos
@@ -17,7 +17,7 @@ Esta increíble ciudad ofrece todo lo necesario para que una estancia corta se c
 en inolvidable: arte, historia, bulliciosos bazares, románticos rincones que miran al 
 Bósforo y una animada vida nocturna. 
 
-![Crucero por el Bósforo, un plan romántico en Estambul](etheria-images/2018/05/ESTAMBUL-BOSFORO-e1552469054616.jpg "Resérvate un atardecer para realizar un crucero por el Bósforo.")
+![Crucero por el Bósforo, un plan romántico en Estambul](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-BOSFORO-e1552469054616.jpg "Resérvate un atardecer para realizar un crucero por el Bósforo.")
 
 Bizancio, Constantinopla, Estambul… esta ciudad abruma con su historia desde su época de 
 colonia griega siete siglos antes de Cristo. Siempre en una encrucijada, entre Asia y 
@@ -42,7 +42,7 @@ muestra de su poderío. En una mañana se pueden descubrir tres de los lugares m
 emblemáticos: la **mágica mezquita de Shehzade** (o de Solimán), la primera mezquita 
 imperial, ubicada en una colina que da al Cuerno de Oro y al mar de Mármara. 
 
-![Interior del Palacio Topkapi.](etheria-images/2018/05/estambul-palacio-topkapi.jpg "Interior del Palacio Topkapi.")
+![Interior del Palacio Topkapi.](https://fotos.etheriamagazine.com/2018/05/estambul-palacio-topkapi.jpg "Interior del Palacio Topkapi.")
 
 ### Palacio de Topkapi
 
@@ -54,7 +54,7 @@ miniaturas y todo tipo de objetos. Un lugar mágico es el harén, espacio para i
 palaciegas durante siglos, lleno de bellos rincones, patios escondidos y estrechos 
 pasillos, donde transcurría la vida de la familia del sultán, eunucos y concubinas. 
 
-![Lámparas en el Gran Bazar de Estambul.](etheria-images/2018/05/ESTAMBUL-GRAN-BAZAR-ok-e1552469095852.jpg "El Gran Bazar de Estambul.")
+![Lámparas en el Gran Bazar de Estambul.](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-GRAN-BAZAR-ok-e1552469095852.jpg "El Gran Bazar de Estambul.")
 
 ### Cisterna Subterránea
 
@@ -79,7 +79,7 @@ de los lugares imprescindibles si visitas Estambul en pareja. Te enamorarán sus
 cúpulas y semicúpulas en forma de cascada, sus elegantes minaretes y sus paredes 
 cubiertas con bellos azulejos azules de Iznik. 
 
-![Interior de la Mezquita Azul (Estambul).](etheria-images/2018/05/ESTAMBUL-TECHO-MEZQUITA-AZUL-e1552469172292.jpg "Interior de la Mezquita Azul (Estambul). © SG")
+![Interior de la Mezquita Azul (Estambul).](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-TECHO-MEZQUITA-AZUL-e1552469172292.jpg "Interior de la Mezquita Azul (Estambul). © SG")
 
 ### Del hipódromo al crucero por el Bósforo
 
@@ -112,7 +112,7 @@ animamos a verlo en vivo y en directo.
 ? Si te interesa, [Civitatis tiene una propuesta por unos 30 
 euros](https://www.civitatis.com/es/estambul/espectaculo-derviches-girovagos/?aid=10211). 
 
-![Mercado de las Especias, unan visita romántica en Estambul](etheria-images/2018/05/ESTAMBUL-MERCADO-ESPECIAS-OK-e1552469237413.jpg "Mercado de las Especias (Estambul). © SG")
+![Mercado de las Especias, unan visita romántica en Estambul](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-MERCADO-ESPECIAS-OK-e1552469237413.jpg "Mercado de las Especias (Estambul). © SG")
 
 ## Qué mas ver en Estambul
 
@@ -122,7 +122,7 @@ Caddesi**, el bulevar comercial más importante de la ciudad. Después, a este l
 Bosforo se encuentra el **Palacio Dolmabahçe**, una muestra de todo tipo de excesos 
 arquitectónicos y decorativos de los últimos sultanes del XIX. 
 
-![Jardines del Palacio Dolmabahce.](etheria-images/2018/05/Estambul-palacio-dolmabahce.jpg "Jardines del Palacio Dolmabahce.")
+![Jardines del Palacio Dolmabahce.](https://fotos.etheriamagazine.com/2018/05/Estambul-palacio-dolmabahce.jpg "Jardines del Palacio Dolmabahce.")
 
 ## Consejos para visitar Estambul
 

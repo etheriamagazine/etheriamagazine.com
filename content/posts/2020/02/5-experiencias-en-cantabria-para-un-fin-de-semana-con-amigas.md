@@ -1,7 +1,7 @@
 ---
 title: "5 experiencias en Cantabria para un fin de semana con amigas"
 date: 2020-02-17
-coverImage: etheria-images/2020/02/piscina-termal-solares.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/02/piscina-termal-solares.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -12,7 +12,7 @@ authors:
 
 Cantabria es un destino que se presta a un viaje con amigas por muchas razones: está cerca, es barato y permite disfrutar de experiencias variadas. Estas vivencias, en forma de rutas, visitas o talleres, nos sirven, además, para conocer esta región cantábrica.
 
-![balneario de solares, spas cantabria](etheria-images/2020/02/piscina-termal-solares-900x607.jpg "© Castilla Termal Balneario de Solares.")
+![balneario de solares, spas cantabria](https://fotos.etheriamagazine.com/2020/02/piscina-termal-solares-900x607.jpg "© Castilla Termal Balneario de Solares.")
 
 ¡Por fin llegó ese viaje que haces con tus amigas dos veces al año! Esta vez os quedáis 
 en la Península y habéis decidido conocer un poco más el norte de España. Entre todo lo 
@@ -22,7 +22,7 @@ deportistas, culturetas, _foodies_ y las que siempre miran si el hotel tiene spa
 no te preocupes, porque habrá experiencias para cada una. Tú, mejor que nadie, sabes las 
 que serán más interesantes para ellas. 
 
-![sobaos joselin](etheria-images/2020/02/sobaos-joselin-900x632.jpg "Mª Ángeles Sainz y Laura Riva, 2ª y 3ª generación de Joselín.")
+![sobaos joselin](https://fotos.etheriamagazine.com/2020/02/sobaos-joselin-900x632.jpg "Mª Ángeles Sainz y Laura Riva, 2ª y 3ª generación de Joselín.")
 
 ## 1\. ¿Un curso de sobaos? ¿En serio?
 
@@ -42,7 +42,7 @@ Y la última novedad, ya con la tercera generación incorporada al negocio, ha s
 creación del Museo del Sobao, que se ha situado en sus nuevas instalaciones, donde 
 tienen también obrador, cafetería, tienda y talleres. 
 
-![taller sobaos joselin](etheria-images/2020/02/taller-sobaos-joselin-900x435.jpg "Taller de sobaos en Joselín.")
+![taller sobaos joselin](https://fotos.etheriamagazine.com/2020/02/taller-sobaos-joselin-900x435.jpg "Taller de sobaos en Joselín.")
 
 ¿Cuál es nuestra propuesta? Que asistas a un taller con Mariángeles en el que aprendas a 
 elaborar sobaos mientras esta experta repostera te cuenta mil anécdotas. Y mientras se 
@@ -54,7 +54,7 @@ Pasiegos.
 a domingo, duran 2 horas, y el precio para los adultos es de 20 € (10 € para los menores 
 de 14 años). Puedes reservar en el teléfono 942 590 268. 
 
-![ruta tunel engana, rutas cantabria](etheria-images/2020/02/ruta-tunel-engana-900x600.jpg "Inicio Túnel de la Engaña.")
+![ruta tunel engana, rutas cantabria](https://fotos.etheriamagazine.com/2020/02/ruta-tunel-engana-900x600.jpg "Inicio Túnel de la Engaña.")
 
 ## 2\. Ruta 'Túnel de la Engaña' en Vega del Pas
 
@@ -70,7 +70,7 @@ ferroviaria de mercancías que tenía intención de unir el puerto de Santander
 menos de 5 años, se prolongó tres veces más, entre 1941 y 1959. Y lo más desconcertante 
 es que nunca llegó a utilizarse. ¿Te suena? 
 
-![ruta tunel engana, ruta cantabria](etheria-images/2020/02/ruta-tunel-engana-senderismo-900x555.jpg "Es una ruta sencilla con muy poco desnivel.")
+![ruta tunel engana, ruta cantabria](https://fotos.etheriamagazine.com/2020/02/ruta-tunel-engana-senderismo-900x555.jpg "Es una ruta sencilla con muy poco desnivel.")
 
 Entre los miles de obreros que intervinieron en su construcción, también había 600 
 presos republicanos. Las malas condiciones de trabajo y la dificultad de la obra hizo 
@@ -79,7 +79,7 @@ completa la podéis leer en el libro 'Túnel de La Engaña', editado por [El Dia
 Montañés](https://www.eldiariomontanes.es/cantabria/secretos-tunel-engana-20191123214012-ntvo.html) 
 en 2019, y escrito por Teresa Cobo. 
 
-![ruta tunel engana, rutas cantabria](etheria-images/2020/02/paisaje-ruta-tunel-engana-900x527.jpg "Paisaje de la Ruta del Túnel de la Engaña.")
+![ruta tunel engana, rutas cantabria](https://fotos.etheriamagazine.com/2020/02/paisaje-ruta-tunel-engana-900x527.jpg "Paisaje de la Ruta del Túnel de la Engaña.")
 
 ### Ruta del Túnel de la Engaña
 
@@ -93,7 +93,7 @@ tiene al lado los barracones de los presos que trabajaban en el ferrocarril para
 sus penas) y, por último, el de la Engaña. Justo en la entrada se puede leer la placa 
 donde indica su longitud: 6.976 metros. 
 
-![ruta tunel engana, ruta senderismo cantabria](etheria-images/2020/02/paisaje-ruta-cantabria-900x640.jpg "Los riachuelos corren paralelos a la ruta en algunos tramos.")
+![ruta tunel engana, ruta senderismo cantabria](https://fotos.etheriamagazine.com/2020/02/paisaje-ruta-cantabria-900x640.jpg "Los riachuelos corren paralelos a la ruta en algunos tramos.")
 
 En este punto –y tras hacerte unas bonitas fotos junto a las cascadas del río Yera– ya 
 puedes dar la vuelta si no vas bien equipada con botas, chubasquero y linterna. En el 
@@ -109,7 +109,7 @@ botellas anuales. Ahora tienen una nave diez veces mayor y venden 250.000 botell
 año en más de 35 países. Aunque estos datos pueden asustar, ellos te reciben y te 
 muestran sus instalaciones como si fuese una ampliación de su casa. 
 
-![vermu siderit](etheria-images/2020/02/vermut-siderit-900x675.jpg "Rubén Leivas, uno de los dos fundadores de Siderit, sirve el vermut.")
+![vermu siderit](https://fotos.etheriamagazine.com/2020/02/vermut-siderit-900x675.jpg "Rubén Leivas, uno de los dos fundadores de Siderit, sirve el vermut.")
 
 Te sorprenderá ver, sobre todo, sus alambiques de vidrio, como los de los laboratorios, 
 y las muestras de botánicos que podrás ver y oler. Por supuesto, la visita termina con 
@@ -118,7 +118,7 @@ endémicos de Picos de Europa como la _Syderitis Hissopifolia_ o té del puerto 
 nombre). También elaboran vodka destilado, pero no a partir de patata, como es habitual, 
 sino del alcohol obtenido de la fermentación de los azúcares de la leche. 
 
-![ginebra siderit](etheria-images/2020/02/destileria-siderit-botanicos-900x667.jpg "En la visita se conocen los botánicos que intervienen en la ginebra.")
+![ginebra siderit](https://fotos.etheriamagazine.com/2020/02/destileria-siderit-botanicos-900x667.jpg "En la visita se conocen los botánicos que intervienen en la ginebra.")
 
 Tras la cata, podrás llevarte la ginebra que más te haya convencido, o su **vermú**, sin 
 azúcares añadidos y elaborado a partir de la uva Pedro Ximénez, macerado durante dos 
@@ -138,13 +138,13 @@ Liencres y la península de la Magdalena. Las imágenes que acompañan en la rut
 sacadas de una película, con agujas y fragmentos de formas inverosímiles emergiendo del 
 mar. Estas formas incluso tienen un nombre, se les llama 'urros'. 
 
-![costa quebrada, ruta por cantabria](etheria-images/2020/02/costa-quebrada-cantabria-900x606.jpg "Costa Quebrada (Cantabria).")
+![costa quebrada, ruta por cantabria](https://fotos.etheriamagazine.com/2020/02/costa-quebrada-cantabria-900x606.jpg "Costa Quebrada (Cantabria).")
 
 Aunque es aconsejable realizar algunos tramos caminando, en coche también puedes llegar 
 a diversos puntos que te regalarán unas bonitas panorámicas. Toma nota de las siguientes 
 playas y no dejes de ver ninguna de ellas: Covachos, La Arnía, Somocuevas y El Madero. 
 
-![balneario de solares, balnearios cantabria](etheria-images/2020/02/piscina-termal-solares-2-900x599.jpg "© Castilla Termal Balneario de Solares")
+![balneario de solares, balnearios cantabria](https://fotos.etheriamagazine.com/2020/02/piscina-termal-solares-2-900x599.jpg "© Castilla Termal Balneario de Solares")
 
 ## 5\. Tarde de relax en Castilla Termal Balneario de Solares
 
@@ -157,7 +157,7 @@ manantial de Fuencaliente–. Además de los habituales cuellos de cisne y baño
 burbujas puedes pasar un rato divertido en el río para nadar a contracorriente o en sus 
 piscinas de verano (si el tiempo lo permite). 
 
-![Balneario de Solares, castilla termal](etheria-images/2020/02/masajes-balneario-solares-900x599.jpg "Masajes en el © Castilla Termal Balneario de Solares")
+![Balneario de Solares, castilla termal](https://fotos.etheriamagazine.com/2020/02/masajes-balneario-solares-900x599.jpg "Masajes en el © Castilla Termal Balneario de Solares")
 
 Lo idóneo es completar la sesión de relax con algún tratamiento específico de su carta 
 termal. El masaje relax total de 55 minutos te sale por 65 €, pero hay muchos más, tanto 

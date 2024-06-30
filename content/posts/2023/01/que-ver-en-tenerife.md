@@ -1,7 +1,7 @@
 ---
 title: "Guía esencial de Tenerife: 15 imprescindibles en tus vacaciones"
 date: 2023-01-17
-coverImage: etheria-images/2023/01/beach-teresitas-tenerife-spain-scaled.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain-scaled.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -14,7 +14,7 @@ hace décadas, sus opciones de ocio van desde excursiones a la naturaleza hasta 
 vacaciones de descanso en hotel de todo incluido. Aquí te proponemos 15 lugares que 
 tienes que ver en Tenerife para unas vacaciones de lo más completas. 
 
-![Playa de Las Teresitas, en Santa Cruz de Tenerife.](etheria-images/2023/01/beach-teresitas-tenerife-spain-850x567.jpg "Playa de Las Teresitas, en Santa Cruz de Tenerife.")
+![Playa de Las Teresitas, en Santa Cruz de Tenerife.](https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain-850x567.jpg "Playa de Las Teresitas, en Santa Cruz de Tenerife.")
 
 La isla de Tenerife siempre es una promesa de buen clima y vacaciones perfectas. En esta 
 isla canaria puedes hacer de todo: elegir uno de los hoteles de sus costas y descansar o 
@@ -46,7 +46,7 @@ También merece la pena darse un paseo por el parque García Sanabria, que guard
 de la vegetación tropical de la isla, y por el Mercado de África, con una curiosa 
 arquitectura que recuerda al estilo marroquí. 
 
-![Iglesia de la Concepción en Santa Cruz de Tenerife.](etheria-images/2023/01/tenerife-santa-cruz-iglesia-concepcion.jpg "Iglesia de la Concepción en Santa Cruz de Tenerife.")
+![Iglesia de la Concepción en Santa Cruz de Tenerife.](https://fotos.etheriamagazine.com/2023/01/tenerife-santa-cruz-iglesia-concepcion.jpg "Iglesia de la Concepción en Santa Cruz de Tenerife.")
 
 #### San Cristóbal de La Laguna
 
@@ -58,7 +58,7 @@ edificios y casas señoriales son perfectas para un paseo. Alguno de sus lugares
 imprescindibles son la catedral de San Cristóbal, la iglesia de Nuestra Señora de la 
 Concepción, el Palacio Salazar y la plaza del Adelantado, céntrica y siempre animada. 
 
-![torre en San Cristóbal](etheria-images/2023/01/tenerife-laguna.jpg "San Cristóbal de La Laguna.")
+![torre en San Cristóbal](https://fotos.etheriamagazine.com/2023/01/tenerife-laguna.jpg "San Cristóbal de La Laguna.")
 
 #### La Orotava
 
@@ -71,7 +71,7 @@ de la Constitución. Aquí, en seguida, te llamará la atención el quiosco de m
 estilo neo-mudéjar y la iglesia de San Agustín, donde conviven mudéjar, barroco y 
 neoclásico. 
 
-![La Orotava.](etheria-images/2023/01/tenerife-orotava.jpg "La Orotava.")
+![La Orotava.](https://fotos.etheriamagazine.com/2023/01/tenerife-orotava.jpg "La Orotava.")
 
 Si hay un lugar en La Orotava que atrae todas las miradas ese es la **Casa de los 
 Balcones**, donde el buen hacer de los ebanistas canarios adquiere todo su esplendor. No 
@@ -90,7 +90,7 @@ arquitectura tradicional canaria de casas bajas con balcones y techos de madera.
 aquí una buena idea es acercarse a Garachico, en la costa, un pueblo con bonitas 
 piscinas naturales y arquitectura tradicional. 
 
-![Drago Milenario en Icod de los Vinos](etheria-images/2023/01/tenerife-icod-de-los-vinos-drago.jpg "Drago Milenario. © SG")
+![Drago Milenario en Icod de los Vinos](https://fotos.etheriamagazine.com/2023/01/tenerife-icod-de-los-vinos-drago.jpg "Drago Milenario. © SG")
 
 #### Candelaria
 
@@ -102,7 +102,7 @@ pastores guanches encuentran la talla de la virgen en lo que hoy es la ermita de
 Blas. No hay que perderse las esculturas de los Menceyes, los últimos nueve reyes 
 guanches, que eran hermanos. 
 
-![Basílica de La Candelaria.](etheria-images/2023/01/31192211_professional_resume.jpg "Basílica de Nuestra Señora de Candelaria.")
+![Basílica de La Candelaria.](https://fotos.etheriamagazine.com/2023/01/31192211_professional_resume.jpg "Basílica de Nuestra Señora de Candelaria.")
 
 ### Naturaleza en estado puro
 
@@ -126,7 +126,7 @@ rocoso y lunar ya es suficiente excusa para acudir a este Parque Nacional. Es
 imprescindible una parada frente al “dedo de Dios”, probablemente el lugar más 
 fotografiado del parque. 
 
-![Parque Nacional de las Cañadas del Teide](etheria-images/2023/01/Tenerife-canadas-teide-dedo-dios.jpg "El "dedo de Dios" en Las Cañadas del Teide. © SG")
+![Parque Nacional de las Cañadas del Teide](https://fotos.etheriamagazine.com/2023/01/Tenerife-canadas-teide-dedo-dios.jpg "El "dedo de Dios" en Las Cañadas del Teide. © SG")
 
 Ten en cuenta que vas a ascender unos cuantos metros, por lo que por muy buen tiempo que 
 haga en la costa te va a venir bien una chaqueta y un buen calzado para caminar por la 
@@ -151,7 +151,7 @@ desde miradores (un buen lugar es el Puerto de Santiago) como en barco, una excu
 perfecta que se pueden combinar con el avistamiento de cetáceos. Su fondo marino es 
 también un paraíso para los submarinistas por su poca profundidad y riqueza natural. 
 
-![Acantilados de Los Gigantes.](etheria-images/2023/01/tenerife-acantilados-gigantes.jpg "Acantilados de Los Gigantes.")
+![Acantilados de Los Gigantes.](https://fotos.etheriamagazine.com/2023/01/tenerife-acantilados-gigantes.jpg "Acantilados de Los Gigantes.")
 
 #### Parque Rural de Anaga
 
@@ -164,7 +164,7 @@ pierdas la ruta por el Bosque de los Enigmas). Y no olvides llevar el bañador p
 de las mejores formas con las que puedes terminar una ruta por este parque es dándote un 
 baño en una de sus coquetas calas. 
 
-![Parque Rural de Anaga.](etheria-images/2023/01/tenerife-anaga.jpg "Parque Rural de Anaga.")
+![Parque Rural de Anaga.](https://fotos.etheriamagazine.com/2023/01/tenerife-anaga.jpg "Parque Rural de Anaga.")
 
 ✅ [Excursión: Senderismo por el Parque Rural de 
 Anaga](https://www.civitatis.com/es/san-cristobal-de-la-laguna/senderismo-parque-rural-anaga/?aid=10211). 
@@ -176,7 +176,7 @@ excursión por el antes citado Parque Rural de Anaga, ya que se encuentran muy c
 una excelente opción para disfrutar del agua marina sin la bravura de esta parte de la 
 costa. Un lugar donde relajarse en total contacto con la naturaleza. 
 
-![Piscinas naturales de Punta del Hidalgo.](etheria-images/2023/01/tenerife-punta-hidalgo.jpg "Piscinas naturales de Punta del Hidalgo.")
+![Piscinas naturales de Punta del Hidalgo.](https://fotos.etheriamagazine.com/2023/01/tenerife-punta-hidalgo.jpg "Piscinas naturales de Punta del Hidalgo.")
 
 La localidad de **Punta del Hidalgo** es conocida por las preciosas vistas que ofrece 
 del Teide y su original faro no os dejará indiferente. Si vas a comer por la zona, la 
@@ -192,7 +192,7 @@ Tenerife. Es necesario sacar los permisos en la web del Barranco de Masca
 (caminobarrancodemasca.com) o contratar la excursión con una empresa local (más sencillo 
 ya que te facilitarán los traslados). 
 
-![Barranco de Masca.](etheria-images/2023/01/tenerife-canon-masca.jpg "Barranco de Masca.")
+![Barranco de Masca.](https://fotos.etheriamagazine.com/2023/01/tenerife-canon-masca.jpg "Barranco de Masca.")
 
 La ruta empieza en el pueblo de **Masca**, que cuenta con bonitos miradores, y después 
 se inicia el descenso hacia la playa a la que se llega tras tres horas de caminata entre 
@@ -210,7 +210,7 @@ impresionantes acantilados de Los Gigantes. Existen numerosas empresas que hacen
 excursiones desde Puerto Colón y hay distintos modelos de embarcaciones, desde grandes 
 catamaranes a yates privados. 
 
-![Delfines frente a Tenerife](etheria-images/2023/01/tenerife-avistamiento-delfines.jpg "Avistamiento de delfines en Tenerife.")
+![Delfines frente a Tenerife](https://fotos.etheriamagazine.com/2023/01/tenerife-avistamiento-delfines.jpg "Avistamiento de delfines en Tenerife.")
 
 Con Civitatis puedes elegir las siguientes excursiones: [Paseo en velero con 
 avistamiento de 
@@ -238,7 +238,7 @@ entradas online en la web del parque (loroparque.com) o a través de [Civitatis]
 Es muy recomendable contratar el Discovery Tour, que durante 90 minutos te descubre los 
 secretos del parque y da acceso a zonas privadas de acceso limitado. 
 
-![orca en Loro Parque en tenerife](etheria-images/2023/01/tenerife-loroparque-orcas.jpg "Las orcas son también protagonistas en Loro Parque. © EM")
+![orca en Loro Parque en tenerife](https://fotos.etheriamagazine.com/2023/01/tenerife-loroparque-orcas.jpg "Las orcas son también protagonistas en Loro Parque. © EM")
 
 #### Siam Park
 
@@ -251,7 +251,7 @@ acudir durante todo el año. Consulta en su web (siampark.net) los horarios y di
 tipos de entrada, es mejor comprarlas con antelación para evitar colas a la llegada. Y, 
 si quieres aprovechar el día al máximo, el ‘fast pass’ es una opción muy recomendable. 
 
-![Atracción de Siam Park.](etheria-images/2023/01/tenerife-siam-park.jpg "Atracción de Siam Park. © EM")
+![Atracción de Siam Park.](https://fotos.etheriamagazine.com/2023/01/tenerife-siam-park.jpg "Atracción de Siam Park. © EM")
 
 ### Playas para todos los gustos
 
@@ -272,7 +272,7 @@ cómodo, crema solar y gorra. Al final espera la **playa de la Tejita**, un enor
 con uno de los chiringuitos más famosos de la isla, El Pirata. El ambiente distendido y 
 el buen rollo están asegurados. 
 
-![La Montaña Roja, junto a la playa de El Médano.](etheria-images/2023/01/tenerife-montana-roja.jpg "La Montaña Roja, junto a la playa de El Médano.")
+![La Montaña Roja, junto a la playa de El Médano.](https://fotos.etheriamagazine.com/2023/01/tenerife-montana-roja.jpg "La Montaña Roja, junto a la playa de El Médano.")
 
 #### Playa del Duque
 
@@ -285,7 +285,7 @@ hacia el este, se llega a Puerto Colón y hacia el oeste a La Caleta. Muy cerca 
 centro comercial Plaza del Duque, con perfumerías y tiendas de lujo por si os queréis 
 dar un capricho. 
 
-![La Caleta.](etheria-images/2023/01/tenerife-la-caleta.jpg "La Caleta.")
+![La Caleta.](https://fotos.etheriamagazine.com/2023/01/tenerife-la-caleta.jpg "La Caleta.")
 
 ? **También te puede interesar:** 
 

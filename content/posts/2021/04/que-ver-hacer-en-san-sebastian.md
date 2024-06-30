@@ -1,7 +1,7 @@
 ---
 title: "Planes para un fin de semana en San Sebastián: seguro que no te aburres"
 date: 2021-04-01
-coverImage: etheria-images/2018/07/san-sebastian-playa-concha.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/san-sebastian-playa-concha.jpg
 categories: 
   - viajes-48-horas
   - planes-originales-para-mujeres
@@ -12,7 +12,7 @@ authors:
 
 Un fin de semana en San Sebastián da para mucho, sobre todo para que queden ganas de volver. Esta ciudad combina arte, arquitectura, gastronomía y unos alrededores perfectos para realizar excursiones. Además, estirar 48 horas en Donosti para que te dé tiempo a visitar la costa vasca de Guipúzcoa es sencillo ya que todo queda a mano.
 
-![San Sebastian 48horas fin de semana mujeres viajes](etheria-images/2018/04/San-Sebastian-paseo-de-la-Concha-Etheriamagazine.jpg "Paseo de la Concha de San Sebastián.")
+![San Sebastian 48horas fin de semana mujeres viajes](https://fotos.etheriamagazine.com/2018/04/San-Sebastian-paseo-de-la-Concha-Etheriamagazine.jpg "Paseo de la Concha de San Sebastián.")
 
 Es imposible que hayas visitado alguna vez San Sebastián y no tengas ganas de volver. Y, 
 si no lo conoces todavía, te estás perdiendo una de las ciudades más bonitas de España 
@@ -40,7 +40,7 @@ o [ruta en
 kayak](https://www.civitatis.com/es/hondarribia/tour-kayak-hondarribia/?aid=10211) (28 
 €). 
 
-![fin de semana en San Sebastian](etheria-images/2018/07/san-sebastian-hondarribia.jpg "Fachadas de Hondarribia. © Eric Prouzet")
+![fin de semana en San Sebastian](https://fotos.etheriamagazine.com/2018/07/san-sebastian-hondarribia.jpg "Fachadas de Hondarribia. © Eric Prouzet")
 
 Si la hora de comer te pilla en Hondarribia, dirígete a la [Hermandad de los 
 Pescadores](http://www.hermandaddepescadores.com), ya en la parte baja de la ciudad, que 
@@ -54,7 +54,7 @@ Antiguo.** Te sorprenderán decenas de rincones, el ambiente y, por supuesto, lo
 > oferta gastronómica de nivel concentrada en este pequeño formato. Algunos de los locales 
 > más conocidos son Gandarias, La Cepa, La Viña y Ganbara. 
 
-![San Sebastián 48horas fin de semana](etheria-images/2018/04/Tapas-en-San-Sebastian-Etheriamagazine-1024x682.jpg "Ir de pintxos en San Sebastián es obligatorio.")
+![San Sebastián 48horas fin de semana](https://fotos.etheriamagazine.com/2018/04/Tapas-en-San-Sebastian-Etheriamagazine-1024x682.jpg "Ir de pintxos en San Sebastián es obligatorio.")
 
 ## Excursión a Zumaia, Getaria y Zarautz desde San Sebastián
 
@@ -81,7 +81,7 @@ casarse). Las vistas de los acantilados y el mar cortan la respiración.
 ? [Excursión para ver los flysch de Zumaia en 
 barco](https://www.civitatis.com/es/guetaria/excursion-flysch-zumaya-barco/?aid=10211). 
 
-![48 horas Costa Vasca fin de semana](etheria-images/2018/04/Ermita-de-San-Telmo-Zumaia-Etheria-Magazine.jpg "Vista desde la ermita de San Telmo en Zumaia.")
+![48 horas Costa Vasca fin de semana](https://fotos.etheriamagazine.com/2018/04/Ermita-de-San-Telmo-Zumaia-Etheria-Magazine.jpg "Vista desde la ermita de San Telmo en Zumaia.")
 
 ### Qué ver en Getaria
 
@@ -93,7 +93,7 @@ puerto, la **iglesia gótica de San Salvador**, por su curioso suelo inclinado d
 la base rocosa. Desde aquí se puede ver el **monte de San Antón**, una pequeña península 
 conocida, por su forma, como “el ratón de Getaria”. 
 
-![costa vasca](etheria-images/2018/07/san-sebastian-zarautz.jpg "Imagen de Zarautz. © Carles Rabada")
+![costa vasca](https://fotos.etheriamagazine.com/2018/07/san-sebastian-zarautz.jpg "Imagen de Zarautz. © Carles Rabada")
 
 ### Qué ver en Zarautz
 
@@ -110,7 +110,7 @@ si se va con niños, se puede hacer una parada para que monten en alguna de las
 atracciones de este curioso parque de aire decadente y encantador. ¡No os perdáis la 
 montaña suiza! 
 
-![fin de semana en San Sebastian](etheria-images/2018/07/San-sebastian-peine-vientos.jpg "El Peine de los Vientos de Chillida, en Sebastián.")
+![fin de semana en San Sebastian](https://fotos.etheriamagazine.com/2018/07/San-sebastian-peine-vientos.jpg "El Peine de los Vientos de Chillida, en Sebastián.")
 
 ## Qué ver en San Sebastián en un día
 
@@ -130,7 +130,7 @@ jardines del **Palacio Miramar**, con excelentes vistas sobre la bahía de la Co
 Sebastián](https://www.civitatis.com/es/san-sebastian/tour-privado-san-sebastian/?aid=10211) 
 (precio grupo: 2 horas hasta 5 personas, 95 €). 
 
-![que ver en San Sebastian](etheria-images/2018/07/san-sebastian-plaza-constitucion.jpg "Plaza de la Constitución. © Ribeil Vicent")
+![que ver en San Sebastian](https://fotos.etheriamagazine.com/2018/07/san-sebastian-plaza-constitucion.jpg "Plaza de la Constitución. © Ribeil Vicent")
 
 La comida es un buen momento para elegir uno de los excelentes restaurantes 
 donostiarras. Nuestra sugerencia es el [restaurante 

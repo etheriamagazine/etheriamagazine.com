@@ -1,7 +1,7 @@
 ---
 title: "Cenas románticas y viajes para dos"
 date: 2019-02-08
-coverImage: etheria-images/2019/02/cena-romantica-dani-garcia.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/02/cena-romantica-dani-garcia.jpg
 categories: 
   - organiza-tu-viaje
   - viajes-romanticos
@@ -17,7 +17,7 @@ casi todas las propuestas que te recomendamos las puedes hacer en cualquier mome
 con menos corazones. Toma buena nota porque te pueden salvar un aniversario olvidado o 
 una celebración de cumpleaños. La cuestión es pasarlo bien, ¿no crees? 
 
-![cenas romanticas, dani garcia, restaurantes bibo](etheria-images/2019/02/cena-romantica-dani-garcia.jpg "cenas romanticas, bibo dani garcia")
+![cenas romanticas, dani garcia, restaurantes bibo](https://fotos.etheriamagazine.com/2019/02/cena-romantica-dani-garcia.jpg "cenas romanticas, bibo dani garcia")
 
 Ya sé que hay que quererse todo el año, que **San Valentín** es otro invento de “ese” 
 gran almacén que todos conocemos, que el amor no se demuestra (solo) con regalos… Pero 
@@ -31,7 +31,7 @@ estupendamente con algunos de estos **planes gastro** que te propongo. Porque ya
 14 de febrero no vamos a poder librarnos, al menos pasémoslo bien comidos y bebidos. El 
 amor lo ponéis vosotros, corazones. 
 
-![cenas romanticas, cenas en toledo, cenas originales, casa elena](etheria-images/2019/02/Casa-Elena-cena-romantica-1024x682.jpg "Cena sensorial Estímulo en Casa Elena (Toledo).")
+![cenas romanticas, cenas en toledo, cenas originales, casa elena](https://fotos.etheriamagazine.com/2019/02/Casa-Elena-cena-romantica-1024x682.jpg "Cena sensorial Estímulo en Casa Elena (Toledo).")
 
 ## 1\. Escapada sensorial en Toledo.
 
@@ -57,7 +57,7 @@ erizo, vieiras con mantequilla, lenguado con boletus o la sugerente costilla de 
 serán algunos de los platos que podrás disfrutar en el comedor de tu casa. Zalacaín 
 Catering. Tel. 915 614 840. 
 
-![cena romantica, cobo vintage, planes en pareja](etheria-images/2019/02/cena-romantica-cobo-vintage-1024x716.jpg "Restaurante Cobo Vintage. Molleja de ternera lacada, ajo negro, cremoso de zanahoria y lima.")
+![cena romantica, cobo vintage, planes en pareja](https://fotos.etheriamagazine.com/2019/02/cena-romantica-cobo-vintage-1024x716.jpg "Restaurante Cobo Vintage. Molleja de ternera lacada, ajo negro, cremoso de zanahoria y lima.")
 
 ## 3\. Pasaporte gastro con Dani García.
 
@@ -80,7 +80,7 @@ ya que su cocinero, Miguel Cobo, ha optado por cerrar el local y abrir otro, má
 informal, en el centro burgalés. Así que es un ahora o nunca. Cobo Vintage. Calle La 
 Merced, 19, Burgos. Tel. 947 027 581. 
 
-![regalos san valentin, regalos romanticos, estuches jerez frascos perfume](etheria-images/2019/02/regalos-san-valentin-vino-jerez-perfume-1024x681.jpg "Colección Roberto Amillo, vinos de Jerez en frasco de perfume.")
+![regalos san valentin, regalos romanticos, estuches jerez frascos perfume](https://fotos.etheriamagazine.com/2019/02/regalos-san-valentin-vino-jerez-perfume-1024x681.jpg "Colección Roberto Amillo, vinos de Jerez en frasco de perfume.")
 
 ## 5\. Un Jerez en frasco de perfume.
 
@@ -102,7 +102,7 @@ graduación exacta para disfrutarlo pero que no se te suba mucho a la cabeza, qu
 es plan. Tiene un PVP aproximado de 6,50 € y puedes comprarlo online en 
 www.tiendaartevino.com 
 
-![cena romantica, vinos originales](etheria-images/2019/02/cena-romantica-nina-de-mis-ojos-1024x847.jpg "No se puede decir más claro: “Eres la niña de mis ojos”.")
+![cena romantica, vinos originales](https://fotos.etheriamagazine.com/2019/02/cena-romantica-nina-de-mis-ojos-1024x847.jpg "No se puede decir más claro: “Eres la niña de mis ojos”.")
 
 ## 7\. Un mensaje en una botella.
 
@@ -122,7 +122,7 @@ potente y estructurado que va perfecto con pescados grasos y con todo tipo de ca
 rojas y postres de chocolate. Cuesta unos 32 € y lo podéis conseguir en 
 www.losadavinosdefinca.com 
 
-![regalo chocolate, regalos san valentin](etheria-images/2019/02/regalo-chocolate-san-valentin-1024x885.jpg "Tienes 3 líneas para escribir tu mensaje de amor.")
+![regalo chocolate, regalos san valentin](https://fotos.etheriamagazine.com/2019/02/regalo-chocolate-san-valentin-1024x885.jpg "Tienes 3 líneas para escribir tu mensaje de amor.")
 
 ## 9\. Chocolate con mucho amor.
 

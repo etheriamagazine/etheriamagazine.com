@@ -1,7 +1,7 @@
 ---
 title: "La abuelita mochilera: “Creo que el viajar es como una droga, que cuando la descubres no puedes prescindir de ella\""
 date: 2018-11-19
-coverImage: etheria-images/2018/11/Kandy-abuela-mochilera-8.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-8.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -16,7 +16,7 @@ los viajes no sabe de edades. Su vida dio un gran giro tras su jubilación: colg
 y decidió hacer realidad su sueño de dar la vuelta al mundo con 65 años. Y lo hizo, 
 además, en solitario. 
 
-![Kandy abuela mochilera, mujer etheria](etheria-images/2018/11/Kandy-abuela-mochilera-3.jpg "Kandy, la abuelita mochilera.")
+![Kandy abuela mochilera, mujer etheria](https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-3.jpg "Kandy, la abuelita mochilera.")
 
 El periplo viajero de Kandy alrededor del planeta comenzó en Argentina y continuó por 
 Centroamérica, Estados Unidos, Nueva Zelanda, Australia, Hong Kong, Vietnam, Camboya, 
@@ -38,7 +38,7 @@ ayer, y mañana será igual que hoy, rutas marcadas, caminos conocidos... Prefie
 haciendo yo el camino. Si me caigo me levanto pero es un camino desconocido y la 
 expectación de cómo será, me llena de adrenalina. 
 
-##### ![Kandy abuela mochilera, mujer etheria](etheria-images/2018/11/Kandy-abuela-mochilera-8.jpg "Los viajes de Kandy, la abuela mochilera.")
+##### ![Kandy abuela mochilera, mujer etheria](https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-8.jpg "Los viajes de Kandy, la abuela mochilera.")
 
 ### 3\. ¿Qué consideras que te han aportado los viajes? ¿Por qué los aconsejarías?
 
@@ -71,7 +71,7 @@ fotos, o si estoy muy cansada, busco un lugar apropiado y duermo un poquito. Per
 mayoría de las veces, encuentro a otros viajeros con los que intercambiamos información 
 sobre nuestros viajes. 
 
-![Kandy abuela mochilera, mujer etheria](etheria-images/2018/11/Kandy-abuela-mochilera-2.jpg "Los viajes de Kandy, la abuela mochilera.")
+![Kandy abuela mochilera, mujer etheria](https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-2.jpg "Los viajes de Kandy, la abuela mochilera.")
 
 ### 7\. ¿Cuál ha sido el mejor viaje de tu vida?
 
@@ -97,7 +97,7 @@ gustará su situación política actual, donde los Rohinyás tienen que huir a B
 
 Me adapto siempre a las comidas del lugar. 
 
-![Kandy abuela mochilera, mujer etheria](etheria-images/2018/11/Kandy-abuela-mochilera-viajera-etheria-1024x691.jpg "Los viajes de Kandy, la abuela mochilera.")
+![Kandy abuela mochilera, mujer etheria](https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-viajera-etheria-1024x691.jpg "Los viajes de Kandy, la abuela mochilera.")
 
 ### 11\. ¿En qué medio de transporte prefieres viajar?
 
@@ -108,7 +108,7 @@ los viajes se me hacen muy amenos.
 
 Una crema solar y una botella de agua mineral. 
 
-![Kandy abuela mochilera, mujer etheria](etheria-images/2018/11/Kandy-abuela-mochilera-6.jpg "Los viajes de Kandy, la abuela mochilera.")
+![Kandy abuela mochilera, mujer etheria](https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-6.jpg "Los viajes de Kandy, la abuela mochilera.")
 
 ##### 13\. ¿Escribes un listado antes de hacer la maleta?
 

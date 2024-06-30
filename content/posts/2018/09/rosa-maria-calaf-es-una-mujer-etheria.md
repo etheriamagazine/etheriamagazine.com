@@ -1,7 +1,7 @@
 ---
 title: "Rosa María Calaf nos descubre sus secretos viajeros"
 date: 2018-09-17
-coverImage: etheria-images/2018/09/Rosa-Maria-calaf-Mongolia.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Mongolia.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -16,7 +16,7 @@ las Mujeres Etheria que nos inspiran por su trayectoria de cuatro décadas en TV
 Aires, Roma, Viena, Hong Kong y Pekín. Se define a sí misma como inquieta, curiosa e 
 insaciable. 
 
-![Rosa María Calaf en Groenlandia (2014).](etheria-images/2018/09/Groenlandia-Rosa-Maria-calaf-1024x768.jpg "Rosa María Calaf en Groenlandia (2014).")
+![Rosa María Calaf en Groenlandia (2014).](https://fotos.etheriamagazine.com/2018/09/Groenlandia-Rosa-Maria-calaf-1024x768.jpg "Rosa María Calaf en Groenlandia (2014).")
 
 Rosa María estudió Derecho y Periodismo en Barcelona. Para lograr convertir su pasión en 
 una profesión (viajar y explicar a la gente cómo es el mundo) dedicó tiempo, desde la 
@@ -41,7 +41,7 @@ Polar Ártico**, en Suecia.
 La curiosidad. Ver lugares y conocer gentes. Alejarme de lo conocido y adentrarme en lo 
 ajeno 
 
-![Viaje a Mongolia en un vehículo todoterreno (2013).](etheria-images/2018/09/Rosa-Maria-calaf-Mongolia-1024x768.jpg "Viaje a Mongolia en un vehículo todoterreno (2013).")
+![Viaje a Mongolia en un vehículo todoterreno (2013).](https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Mongolia-1024x768.jpg "Viaje a Mongolia en un vehículo todoterreno (2013).")
 
 ### 3\. ¿Qué consideras que te han aportado los viajes? ¿Por qué los aconsejarías?
 
@@ -72,7 +72,7 @@ Fue el pasado diciembre y enero de 2017-18, **desde Barcelona a Senegal en mi To
 **Casamance**, las ciudades históricas del desierto en **Mauritania** y el sur de 
 **Marruecos**. Lo que menos: el cruce de fronteras con su burocracia y arbitrariedad. 
 
-![Rosa María Calaf con el alcalde de Lusaka, Zambia, durante un recorrido entre Barcelona y Ciudad del Cabo. (1973-74)](etheria-images/2018/09/Rosa-Maria-calaf-Con-el-alcalde-de-Lusaka-Zambia-Furgoneta-viaje-Barcelona-Ciudad-del-Cabo-Walbis-Bay-1024x696.jpg "Rosa María Calaf con el alcalde de Lusaka, Zambia, durante un recorrido entre Barcelona y Ciudad del Cabo. (1973-74)")
+![Rosa María Calaf con el alcalde de Lusaka, Zambia, durante un recorrido entre Barcelona y Ciudad del Cabo. (1973-74)](https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Con-el-alcalde-de-Lusaka-Zambia-Furgoneta-viaje-Barcelona-Ciudad-del-Cabo-Walbis-Bay-1024x696.jpg "Rosa María Calaf con el alcalde de Lusaka, Zambia, durante un recorrido entre Barcelona y Ciudad del Cabo. (1973-74)")
 
 ### 8\. ¿Cuál ha sido el viaje más singular que recuerdas?
 
@@ -87,7 +87,7 @@ Estados Unidos. Dos años después salimos de Barcelona con destino a Mongolia e
 travesía que duró cuatro meses. Y en 2014 atravesamos Estados Unidos, Alaska y Yukon 
 (Canadá) durante tres meses. 
 
-![Viaje a Arizona (2011-12)](etheria-images/2018/09/Rosa-Maria-calaf-La-Ola-Arizona-EEUU-1024x768.jpg "Viaje a Arizona (2011-12)")
+![Viaje a Arizona (2011-12)](https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-La-Ola-Arizona-EEUU-1024x768.jpg "Viaje a Arizona (2011-12)")
 
 ### 9\. ¿Qué tres viajes que hayas realizado recomendarías a cualquier mujer?
 
@@ -97,7 +97,7 @@ Para novatas: Japón, Nueva Zelanda y Argentina. Para viajadas: Irán, India y B
 
 Arabia Saudí, Yemen y Mozambique 
 
-![Viaje a Vanuatu (2006).](etheria-images/2018/09/Rosa-Maria-calaf-Vanuatu-1024x768.jpg "Viaje a Vanuatu (2006).")
+![Viaje a Vanuatu (2006).](https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Vanuatu-1024x768.jpg "Viaje a Vanuatu (2006).")
 
 ### 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato?
 
@@ -118,7 +118,7 @@ insólito y armonioso.
 Navaja multiusos, pañuelos, papel y bolis, un paraguas (sol y agua), gel desinfectante, 
 anti mosquitos y billetes pequeños de dólar. 
 
-![Viaje a Zaire en 1973.](etheria-images/2018/09/Rosa-Maria-calaf-Zaire-1024x748.jpg "Viaje a Zaire en 1973.")
+![Viaje a Zaire en 1973.](https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Zaire-1024x748.jpg "Viaje a Zaire en 1973.")
 
 ### 15\. ¿Haces un listado antes de hacer la maleta? ¿Cuáles son tus cinco imprescindibles?
 

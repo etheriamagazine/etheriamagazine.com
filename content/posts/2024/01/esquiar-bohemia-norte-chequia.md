@@ -1,7 +1,7 @@
 ---
 title: "Esquiar en Chequia a los pies de una nave espacial y otros planes especiales"
 date: 2024-01-09
-coverImage: etheria-images/2024/01/jested-liberec.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/01/jested-liberec.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -16,7 +16,7 @@ Bohemia también hay otras razones igual de divertidas. ¿Qué os parecería dor
 hotel con forma de nave espacial en la cumbre de un monte, realizar un taller de soplado 
 de cristal o descubrir el placer de bañarse en una tina de cerveza? 
 
-![Esquiar en Chequia a los pies de Ještěd.](etheria-images/2024/01/esqui-jested.jpg "Antena y hotel Ještěd © Karel Hubáček – heirs 1963")
+![Esquiar en Chequia a los pies de Ještěd.](https://fotos.etheriamagazine.com/2024/01/esqui-jested.jpg "Antena y hotel Ještěd © Karel Hubáček – heirs 1963")
 
 Todo el entorno de las Montañas Jizera (_Jizerské hory_) oculta un buen número de 
 sorpresas que se van descubriendo a cámara lenta, sobre todo si ha nevado y hay que 
@@ -36,7 +36,7 @@ carrera de esquí de fondo **Los 50 kilómetros de Jizerská**. No es necesario 
 profesional, pero sí estar dispuesta a pasar un buen rato con otros amantes del deporte 
 blanco. 
 
-![Esquí de fondo en Jizerske hory.](etheria-images/2024/01/Jizerske-hory.jpg "Esquí de fondo en Jizerská hory. © Swuerfel shutterstock")
+![Esquí de fondo en Jizerske hory.](https://fotos.etheriamagazine.com/2024/01/Jizerske-hory.jpg "Esquí de fondo en Jizerská hory. © Swuerfel shutterstock")
 
 No sólo los apasionados del esquí de fondo son bienvenidos en Chequia, también quienes 
 buscan la emoción de la modalidad alpina. Muy accesible y a pocos kilómetros de Liberec 
@@ -46,7 +46,7 @@ los más pequeños y también con un parque infantil en la nieve. Aunque el esqu
 invierno es el principal reclamo de esta zona, la región de Liberec tiene con otros 
 atractivos que os contamos a continuación. 
 
-![hotel y antena Ještěd](etheria-images/2024/01/jested-liberec-850x638.jpg "Ještěd. © Transmitter and hotel Ještěd Karel Hubáček – heirs 1963")
+![hotel y antena Ještěd](https://fotos.etheriamagazine.com/2024/01/jested-liberec-850x638.jpg "Ještěd. © Transmitter and hotel Ještěd Karel Hubáček – heirs 1963")
 
 ## Dormir en una nave espacial (o casi)
 
@@ -72,7 +72,7 @@ estrellas, sino porque sólo cuenta con 19 habitaciones. A la cima de la montañ
 torre se puede llegar desde Liberec a través de múltiples rutas de senderismo, en coche 
 o en teleférico. 
 
-![Habitación del hotel Jested.](etheria-images/2024/01/hotel-jested-habitacion.jpg "Habitación del hotel Ještěd. © alesjungmann.com")
+![Habitación del hotel Jested.](https://fotos.etheriamagazine.com/2024/01/hotel-jested-habitacion.jpg "Habitación del hotel Ještěd. © alesjungmann.com")
 
 ## Pasear por Liberec
 
@@ -88,7 +88,7 @@ ubicado en un palacio. Y si viajáis en familia, las exposiciones interactivas d
 Coeficiente de Inteligencia, el IQ park, y el zoológico de Liberec, que cría tigres 
 blancos, encantarán a los más jóvenes. 
 
-![Plaza principal de Liberec.](etheria-images/2024/01/liberec.jpg "Liberec. © Ladislav Renner")
+![Plaza principal de Liberec.](https://fotos.etheriamagazine.com/2024/01/liberec.jpg "Liberec. © Ladislav Renner")
 
 ## Crear una pieza de cristal soplado
 
@@ -109,7 +109,7 @@ desde elegir las formas y colores hasta dar forma a vuestra obra de arte. En est
 artículo podrás seguir leyendo más sobre las [propuestas en el Valle del 
 Cristal](https://etheriamagazine.com/2023/01/09/valle-cristal-republica-checa/). 
 
-![Factoría de cristal soplado Novosad a Syn](etheria-images/2024/01/Taller-Novosad-syn-667x1000.jpg "© Factoría de cristal soplado Novosad a Syn.")
+![Factoría de cristal soplado Novosad a Syn](https://fotos.etheriamagazine.com/2024/01/Taller-Novosad-syn-667x1000.jpg "© Factoría de cristal soplado Novosad a Syn.")
 
 ## Una jarra o un baño de cerveza
 
@@ -126,7 +126,7 @@ cerveza](https://www.sklarnaharrachov.cz/lazne/cenik), un tratamiento que no sol
 relajante sino que tiene beneficios para la piel debido a los ingredientes naturales 
 presentes en la bebida. 
 
-![Después de Esquiar en Chequia un baño de cerveza en un spa](etheria-images/2024/01/spa-cerveza-chequia.jpg "Los spas de cerveza son una modalidad que hay que probar en Chequia. © Petr Polák")
+![Después de Esquiar en Chequia un baño de cerveza en un spa](https://fotos.etheriamagazine.com/2024/01/spa-cerveza-chequia.jpg "Los spas de cerveza son una modalidad que hay que probar en Chequia. © Petr Polák")
 
 Y así, entre pistas de esquí, paisajes propios de cuentos de hadas, encantadores pueblos 
 que salpican los valles y la calidez de las fábricas de cristal, habréis descubierto uno 

@@ -1,7 +1,7 @@
 ---
 title: "Santiago de Chile y Atacama, nuevas etapas de Sania"
 date: 2023-02-27
-coverImage: etheria-images/2023/02/sania-desierto-atacama.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/02/sania-desierto-atacama.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -13,7 +13,7 @@ guarda recuerdos de su niñez y el desierto de Atacama desde donde emprende excu
 apasionantes al Valle de la Luna y los géiseres del Tatio. Y a pocas horas, tras la 
 frontera con Bolivia, descubre los maravillosos paisajes del Salar de Uyuni. 
 
-![Sania en el desierto de Atacama.](etheria-images/2023/02/sania-desierto-atacama.jpg "Sania en el desierto de Atacama. © Sania Jelic")
+![Sania en el desierto de Atacama.](https://fotos.etheriamagazine.com/2023/02/sania-desierto-atacama.jpg "Sania en el desierto de Atacama. © Sania Jelic")
 
 Santiago de Chile es la primera ciudad grande que piso desde hace dos meses. Y estoy 
 alojada en el centro de la ciudad, en casa de una compañera de viaje que conocí en la 
@@ -32,7 +32,7 @@ Recuerdo que me subía a ese árbol desde la terraza, comía las frutas y bajaba
 intentando no ser pillada… Y la casa era más pequeña de lo que la recordaba, me sentó 
 bien verla de nuevo. Nuestra familia pasó aquí, posiblemente, sus años más felices. 
 
-![murales en Santiago de chile](etheria-images/2023/02/santiago-chile-street-art.jpg "'Street art' en Santiago de Chile. © SJ")
+![murales en Santiago de chile](https://fotos.etheriamagazine.com/2023/02/santiago-chile-street-art.jpg "'Street art' en Santiago de Chile. © SJ")
 
 Recordaba a mis amigas de aquella época, dos niñas que vivían en la casa de enfrente. Y 
 como dicen por aquí “corto cuento”; pudimos reencontrarnos después de casi 60 años. Fue 
@@ -53,7 +53,7 @@ calle principal, hay una hilera de tiendas de campaña con inmigrantes y persona
 techo’. Se nota claramente que hay zonas de la ciudad donde no conviene caminar sola de 
 noche. 
 
-![Museo de la Memoria y los Derechos Humanos.](etheria-images/2023/02/santiago-chile-museo-memoria.jpg "Museo de la Memoria y los Derechos Humanos. © SJ")
+![Museo de la Memoria y los Derechos Humanos.](https://fotos.etheriamagazine.com/2023/02/santiago-chile-museo-memoria.jpg "Museo de la Memoria y los Derechos Humanos. © SJ")
 
 El **Museo de la Memoria y Derechos Humanos** expone algunos datos de los años sesenta 
 en adelante y el nuevo **Museo del Estallido Social** tiene objetos e imágenes de los 
@@ -66,7 +66,7 @@ resto de Chile no noté esta politización.
 > paseamos por la orilla del océano, viendo los pescadores y grupos de aves. La naturaleza 
 > siempre tiene una manera efectiva de relativizar los conflictos humanos. 
 
-![Sania Jelic frente a su colegio](etheria-images/2023/02/sania-colegio.jpg "Sania frente al colegio donde fue de niña con su foto escolar. © SJ")
+![Sania Jelic frente a su colegio](https://fotos.etheriamagazine.com/2023/02/sania-colegio.jpg "Sania frente al colegio donde fue de niña con su foto escolar. © SJ")
 
 ## San Pedro de Atacama
 
@@ -96,7 +96,7 @@ entrada, la disponibilidad de agua gratis para los clientes… Además de la pis
 las tumbonas, el jardín y el área nueva, llamada “El Refugio”, que realmente es un oasis 
 en el desierto. 
 
-![Hotel La casa de Don Tomás](etheria-images/2023/02/sania-casa-don-tomas.jpg "Hotel La casa de Don Tomás. © SJ")
+![Hotel La casa de Don Tomás](https://fotos.etheriamagazine.com/2023/02/sania-casa-don-tomas.jpg "Hotel La casa de Don Tomás. © SJ")
 
 Tuve la oportunidad de hablar con **Jorge Poblete**, dueño y actual gestor del hotel, 
 hijo del fundador. Su padre, Tomás Poblete, compró unas 10 hectáreas de terreno en San 
@@ -116,7 +116,7 @@ bienestar y a sus derechos, y esto se nota en el trato que reciben los clientes.
 pena no disfrutar de tal hospitalidad más tiempo porque, claro, estaba en el desierto de 
 Atacama y ¡había que explorarlo! 
 
-![Río Grande en Atacama Chile](etheria-images/2023/02/sania-excursion-rio-grande-chile.jpg "Excursión por río Grande, en Atacama. © SJ")
+![Río Grande en Atacama Chile](https://fotos.etheriamagazine.com/2023/02/sania-excursion-rio-grande-chile.jpg "Excursión por río Grande, en Atacama. © SJ")
 
 ## Qué visitar desde San Pedro de Atacama
 
@@ -140,7 +140,7 @@ del Tatio**, donde tuvimos la suerte de verlos primero cubiertos de una niebla e
 que le daba un aspecto fantasmagórico, y luego con sol, cuando se podían apreciar tanto 
 los géiseres como los volcanes. 
 
-![Géiseres del Tatio en Chile](etheria-images/2023/02/sania-geiser-tatio.jpg "Géiseres del Tatio. © SJ")
+![Géiseres del Tatio en Chile](https://fotos.etheriamagazine.com/2023/02/sania-geiser-tatio.jpg "Géiseres del Tatio. © SJ")
 
 ### El Valle de la Luna
 
@@ -159,7 +159,7 @@ parecido al de las lagunas. Los colores reflejan el azul del cielo y el hielo, j
 el verde y el amarillo de la vegetación, creando una mezcla exquisita de tonalidades. Un 
 paraíso para los fotógrafos. 
 
-![Piedras Rojas en Atacama](etheria-images/2023/02/sania-piedras-rojas.jpg "Paisaje de las Piedras Rojas. © SJ")
+![Piedras Rojas en Atacama](https://fotos.etheriamagazine.com/2023/02/sania-piedras-rojas.jpg "Paisaje de las Piedras Rojas. © SJ")
 
 ## Excursión al Salar de Uyuni, en Bolivia
 
@@ -193,7 +193,7 @@ irnos… pero la tormenta nos ahuyentó.
 Y llegados a Uyuni, un poblado en construcción y con calles de barro, nos dispersamos 
 como pudimos. Yo continué mi viaje en autobús a Potosí, el corazón minero de Bolivia. 
 
-![Sania a caballo en Atacama.](etheria-images/2023/02/sania-caballo-atacama.jpg "Sania a caballo en Atacama. © SJ")
+![Sania a caballo en Atacama.](https://fotos.etheriamagazine.com/2023/02/sania-caballo-atacama.jpg "Sania a caballo en Atacama. © SJ")
 
 ## Conclusiones
 

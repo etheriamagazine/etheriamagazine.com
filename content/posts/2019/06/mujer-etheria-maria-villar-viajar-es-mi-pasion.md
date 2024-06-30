@@ -1,7 +1,7 @@
 ---
 title: "María Villar: \"Viajar es mi pasión, lo que me dispara la adrenalina\""
 date: 2019-06-25
-coverImage: etheria-images/2019/06/viajate-el-mundo-maria-villar.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/viajate-el-mundo-maria-villar.jpg
 categories: 
   - mujeres-etheria
   - mujeres-que-inspiran
@@ -15,17 +15,17 @@ travel planner tras desempeñar durante muchos años puestos de responsabilidad 
 sector hotelero? María Villar nos cuenta sus motivaciones, retos y curiosidades 
 viajeras. 
 
-\[caption id="attachment\_10764" align="aligncenter" width="900"\]![viaje a butan, maria villar, viajate el mundo conmigo, mujer etheria](etheria-images/2019/06/viaje-bhutan.jpg "Viaje a Bután.") Viaje a Bután.\[/caption\]
+\[caption id="attachment\_10764" align="aligncenter" width="900"\]![viaje a butan, maria villar, viajate el mundo conmigo, mujer etheria](https://fotos.etheriamagazine.com/2019/06/viaje-bhutan.jpg "Viaje a Bután.") Viaje a Bután.\[/caption\]
 
 Licenciada en Derecho y con dos postgrados en 'Comunicación, Protocolo y RRPP' y 'Dirección de Hotelería', ésta es su carta de presentación formal, pero estos datos no aportan ninguna pista, más allá de la obvia, de quién es María Villar. Si revisamos su trayectoria, comienza a llegar la luz: ha realizado durante muchos años labores de responsabilidad en departamentos comerciales nacionales e internacionales en una larga lista de hoteles: Meliá Avenida América, Auditorium Madrid Hotel, Rafael Hoteles, Madrid Eurostars Tower, Meliá Madrid Princesa y Gran Meliá Don Pepe. Y ¿ahora qué? Esta mujer aventurera dejó la seguridad de una vida "de oficina" para dedicarse a su pasión: viajar. Una pasión que ha convertido en una forma de vida desde [Viája-te el mundo conmigo](http://viajateelmundoconmigo.com), desde donde propone viajar de una forma diferente con recorridos y experiencias a medida.
 
-\[caption id="attachment\_10766" align="aligncenter" width="900"\]![desierto gobi, maria villar, viajate el mundo conmigo, mujer etheria](etheria-images/2019/06/viaje-etheria-desierto-gobi.jpg "Desierto del Gobi (Mongolia).") Desierto del Gobi (Mongolia).\[/caption\]
+\[caption id="attachment\_10766" align="aligncenter" width="900"\]![desierto gobi, maria villar, viajate el mundo conmigo, mujer etheria](https://fotos.etheriamagazine.com/2019/06/viaje-etheria-desierto-gobi.jpg "Desierto del Gobi (Mongolia).") Desierto del Gobi (Mongolia).\[/caption\]
 
 María Villar nos cuenta que su objetivo en 'Viája-te el mundo conmigo' es diseñar propuestas para "viajar de una forma diferente a la tradicional. Son viajes gestionados por mí misma, en los que yo decido la ruta y lo que hacemos durante la misma. Nunca seguimos los circuitos tradicionales y vivimos experiencias durante el camino que no ofrecen las agencias convencionales. Animo a la gente a salir de su 'zona de confort' y venir conmigo a vivir una aventura que por ellas mismas nunca emprenderían".
 
 Aunque nació en Galicia, ha vivido en Madrid, Bangkok, Suiza y Marbella (donde reside ahora), lo que le ha aportado una visión del mundo más global. Su principal motivación al viajar es "conocer otras gentes y aprender de ellos, sentirme libre, conocerme mejor, salir de mi zona de confort y ver cuáles son mis límites, para no tener todo bajo control y poder probar mi capacidad de reacción. También viajo para desestructurar lo que el 'sistema' nos inculca, liberarme del estatismo de la vida porque vivimos secuestrados por el tiempo del mundo contemporáneo. En resumidas cuentas, viajo para ser mejor persona".
 
-\[caption id="attachment\_10765" align="aligncenter" width="900"\]![salar de uyuni, bolivia, maria villar, viajate el mundo](etheria-images/2019/06/viaje-bolvia-salar-uyuni.jpg "Salar de Uyuni (Bolivia).") Salar de Uyuni (Bolivia).\[/caption\]
+\[caption id="attachment\_10765" align="aligncenter" width="900"\]![salar de uyuni, bolivia, maria villar, viajate el mundo](https://fotos.etheriamagazine.com/2019/06/viaje-bolvia-salar-uyuni.jpg "Salar de Uyuni (Bolivia).") Salar de Uyuni (Bolivia).\[/caption\]
 
 A las mujeres que deseen emprender su camino en el campo turístico les recomienda que "no tengan miedo, ni para trabajar en esto ni para trabajar en cualquier otra cosa. Creo que el riesgo más importante es darte cuenta por el camino de que tu historia aún está por construirse y la única frontera que tendrás por delante es la que tú mismo te pongas".
 
@@ -47,7 +47,7 @@ Si tuviese que contestar sólo una cosa diría que viajar me ha hecho mejor pers
 
 A mi amiga del alma Sandra 'Tablita'. Nos hemos recorrido medio mundo y hemos vivido grandes aventuras juntas. Siempre tiene una sonrisa a pesar de los contratiempos, es generosa y nunca se cansa.
 
-\[caption id="attachment\_10773" align="aligncenter" width="900"\]![maria villar, viajate el mundo conmigo, mujer etheria](etheria-images/2019/06/viaje-maria-villar.jpg "Viajar te ayuda a ampliar tus límites personales.") Viajar te ayuda a ampliar tus límites personales.\[/caption\]
+\[caption id="attachment\_10773" align="aligncenter" width="900"\]![maria villar, viajate el mundo conmigo, mujer etheria](https://fotos.etheriamagazine.com/2019/06/viaje-maria-villar.jpg "Viajar te ayuda a ampliar tus límites personales.") Viajar te ayuda a ampliar tus límites personales.\[/caption\]
 
 5\. ¿Sueles planificar con antelación tus viajes o prefieres improvisar? 
 
@@ -68,7 +68,7 @@ Me entretiene muchísimo observar a la gente. Cómo actúan, sus reacciones, có
 
 Acabo de volver de **Myanmar**, un viaje que he hecho con un grupo de clientes y me ha gustado todo. Vimos el “otro Myanmar”.
 
-\[caption id="attachment\_10767" align="aligncenter" width="900"\]![papua nueva guinea, maria villar, viajate el mundo conmigo, mujer etheria](etheria-images/2019/06/viaje-etheria-maria-villar-viajate-conmigo.jpg "Viaje a Papúa Nueva Guinea y a Etiopía.") Viaje a Papúa Nueva Guinea y a Etiopía.\[/caption\]
+\[caption id="attachment\_10767" align="aligncenter" width="900"\]![papua nueva guinea, maria villar, viajate el mundo conmigo, mujer etheria](https://fotos.etheriamagazine.com/2019/06/viaje-etheria-maria-villar-viajate-conmigo.jpg "Viaje a Papúa Nueva Guinea y a Etiopía.") Viaje a Papúa Nueva Guinea y a Etiopía.\[/caption\]
 
 9\. ¿Qué tres viajes que hayas realizado recomendarías especialmente a una viajera? 
 
@@ -82,7 +82,7 @@ Mis tres destinos pendientes son **Antártida**, **Kamchatka** y [Nueva Zelanda]
 
 Me quedo con **Perú** y su ceviche.
 
-\[caption id="attachment\_10778" align="aligncenter" width="900"\]![viaje a peru, maria villar, viajate el mundo conmigo, mujer etheria](etheria-images/2019/06/viaje-peru-maria-villar.jpg "Viaje a Perú.") Viaje a Perú.\[/caption\]
+\[caption id="attachment\_10778" align="aligncenter" width="900"\]![viaje a peru, maria villar, viajate el mundo conmigo, mujer etheria](https://fotos.etheriamagazine.com/2019/06/viaje-peru-maria-villar.jpg "Viaje a Perú.") Viaje a Perú.\[/caption\]
 
 12\. ¿En qué medio de transporte prefieres viajar? 
 
@@ -92,7 +92,7 @@ Mi medio favorito para trasladarme es el tren.
 
 No me impresionan los hoteles, quizás porque he trabajado durante más de 10 años comercializando hoteles de lujo. El mejor “hotel” en el que me he quedado ha sido una Yurta de una familia de nómadas en el [desierto de Gobi (Mongolia)](https://etheriamagazine.com/2019/06/13/viajeras-aventureras-que-ver-mongolia/).
 
-\[caption id="attachment\_10768" align="aligncenter" width="900"\]![viaje mongolia, maria villar, viajate el mundo, mujer etheria](etheria-images/2019/06/viaje-etheria-mongolia.jpg "Yurta de una familia nómada de Mongolia.") Yurta de una familia nómada de Mongolia.\[/caption\]
+\[caption id="attachment\_10768" align="aligncenter" width="900"\]![viaje mongolia, maria villar, viajate el mundo, mujer etheria](https://fotos.etheriamagazine.com/2019/06/viaje-etheria-mongolia.jpg "Yurta de una familia nómada de Mongolia.") Yurta de una familia nómada de Mongolia.\[/caption\]
 
 14\. ¿Qué es lo que nunca falta en tu bolsa de mano? 
 

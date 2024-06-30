@@ -1,7 +1,7 @@
 ---
 title: "The Ritz-Carlton Abama, un hotel de lujo para alejarse del mundo en Tenerife"
 date: 2021-06-28
-coverImage: etheria-images/2021/06/hotel-abama-vistas.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/06/hotel-abama-vistas.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -11,7 +11,7 @@ authors:
 
 Se puede decir que un hotel es de auténtico lujo cuando, además de la calidad de servicio que se presupone a un cinco estrellas, es capaz de proporcionar ese bienestar que hace que que unas vacaciones sean inolvidables. Todo esto lo consigue The Ritz-Carlton Abama, que se convertirá en uno de tus lugares favoritos de la isla de Tenerife.
 
-![vistas del hotel Abama](etheria-images/2021/06/hotel-abama-vistas.jpg "The Ritz-Carlton Abama.")
+![vistas del hotel Abama](https://fotos.etheriamagazine.com/2021/06/hotel-abama-vistas.jpg "The Ritz-Carlton Abama.")
 
 El sur de Tenerife es siempre un destino perfecto. Y si te alojas en el **hotel The 
 Ritz-Carlton Abama** el éxito de tu viaje está asegurado, sea cual sea tu plan de viaje. 
@@ -27,7 +27,7 @@ Y, ¿has pensado en hacer una escapada tú sola para descansar y desconectar de 
 ten muy en cuenta a este hotel; te van a cuidar y mimar con todos los servicios de un 
 cinco estrellas y esa cortesía canaria que te envuelve como si estuvieras en casa. 
 
-![Lobby Bar del hotel Abama](etheria-images/2021/06/Lobby-Bar-Abama.jpg "Lobby Bar. © Matthew Shaw")
+![Lobby Bar del hotel Abama](https://fotos.etheriamagazine.com/2021/06/Lobby-Bar-Abama.jpg "Lobby Bar. © Matthew Shaw")
 
 Primero pongámonos en situación para ir comprobando por qué The Ritz-Carlton Abama es 
 siempre una buena elección. Imagínate un precioso hotel color albero, que contrasta con 
@@ -36,7 +36,7 @@ para unas vistas perfectas. Después de comprobar que se ha acertado con el empl
 donde pasar unos días de vacaciones, ya solo queda empezar a descubrir este hotel lleno 
 de rincones sorprendentes y bellos jardines. 
 
-![playa del hotel abama](etheria-images/2021/06/hotel-abama-playa.jpg "Playa del hotel The Ritz-Carlton Abama. © Matthew Shaw")
+![playa del hotel abama](https://fotos.etheriamagazine.com/2021/06/hotel-abama-playa.jpg "Playa del hotel The Ritz-Carlton Abama. © Matthew Shaw")
 
 Rápidamente comprobarás que la extensión del hotel permite bonitos paseos, algunos hasta 
 la misma playa, preciosa y protegida por un acantilado. Si viajas en familia, seguro que 
@@ -52,7 +52,7 @@ clientes. Eso sí, todas comparten una suave decoración en tonos neutros con de
 piezas como lámparas o cuadros que dan personalidad a las estancias; unos baños amplios 
 con todas las comodidades y unas camas de las que te va a costar salir por las mañanas. 
 
-![habitación del hotel Abama](etheria-images/2021/06/hotel-abama-suite.jpg "Suite de un dormitorio.")
+![habitación del hotel Abama](https://fotos.etheriamagazine.com/2021/06/hotel-abama-suite.jpg "Suite de un dormitorio.")
 
 Para los viajes en pareja, una opción muy tranquila es alojarse en la **zona de ‘solo 
 adultos’**, donde podrías escoger entre la Habitación Deluxe o la Suite de un 
@@ -62,7 +62,7 @@ Suite de un dormitorio, esta última perfecta si viajas en familia. Y, para un p
 privacidad en una zona muy tranquila, la mejor opción es **el área de Las Villas**, con 
 habitaciones Deluxe y Suites de un dormitorio. 
 
-![Piscina de la zona de Las Villas.](etheria-images/2021/06/hotel-abama-piscina-villas.jpg "Piscina de la zona de Las Villas.")
+![Piscina de la zona de Las Villas.](https://fotos.etheriamagazine.com/2021/06/hotel-abama-piscina-villas.jpg "Piscina de la zona de Las Villas.")
 
 Pero, si has decidido que sí o sí es el momento de tirar la casa por la ventana, The 
 Ritz-Carlton Abama cuenta con **tres lujosas suites**: la Suite Imperial (de 950 m2 y 
@@ -93,7 +93,7 @@ hoteles como el Wellington de Madrid. Ofrece una cocina japonesa llena de imagin
 fusión con productos españoles. Además, cuenta con unas excelentes vistas del resort y 
 del Atlántico. 
 
-![vistas del restaurante el Mirador](etheria-images/2021/06/Abama-El-Mirador.jpg "Restaurante El Mirador. © Roger Mendez")
+![vistas del restaurante el Mirador](https://fotos.etheriamagazine.com/2021/06/Abama-El-Mirador.jpg "Restaurante El Mirador. © Roger Mendez")
 
 El restaurante **El Mirador** traslada al norte de África con su decoración y se ubica 
 en un lugar privilegiado, en el mismo borde del acantilado. El chef César González ha 
@@ -109,7 +109,7 @@ Y Martín Berasategui vuelve a poner su toque en el restaurante el **Txoko** con
 propuesta de cocina tradicional vasca con toques de vanguardia. Se ubica en un bonito 
 emplazamiento junto a la piscina El Lago. 
 
-![Beach Club.](etheria-images/2021/06/Abama-Beach-Club.jpg "Beach Club.")
+![Beach Club.](https://fotos.etheriamagazine.com/2021/06/Abama-Beach-Club.jpg "Beach Club.")
 
 El **Beach Club** se convertirá en uno de tus rincones favoritos del hotel. Cuenta con 
 unas vistas preciosas y demuestra como el concepto de chiringuito no tiene por qué estar 
@@ -126,7 +126,7 @@ Duchas’. Un auténtico estímulo para los sentidos. Además, sauna, cabina de 
 circuito Kneipp que mejora la circulación gracias a la textura de la roca volcánica y 
 una piscina de hidroterapia y cromoterapia. 
 
-![The Ritz-Carlton Spa](etheria-images/2021/06/hotel-abama-spa.jpg "The Ritz-Carlton Spa.")
+![The Ritz-Carlton Spa](https://fotos.etheriamagazine.com/2021/06/hotel-abama-spa.jpg "The Ritz-Carlton Spa.")
 
 A esto se suma una **carta de tratamientos** basados en la naturaleza y en las 
 tradiciones locales entre los que te costará elegir. Y servicios de belleza como 
@@ -141,7 +141,7 @@ Abama, además, hacer deporte se convierte en un auténtico placer. Su Fitness C
 perfectamente equipado con equipos cardiovasculares y la terraza con bicicletas para 
 hacer spinning al aire libre es una apuesta imbatible. 
 
-![Piscina del hotel Abama.](etheria-images/2021/06/hotel-abama-piscina.jpg "Piscina del hotel Abama.")
+![Piscina del hotel Abama.](https://fotos.etheriamagazine.com/2021/06/hotel-abama-piscina.jpg "Piscina del hotel Abama.")
 
 Si te gusta salir a correr, el hotel está salpicado de bonitos senderos entre los 
 jardines botánicos y el campo de golf, por los que también podrás dar largos paseos. 

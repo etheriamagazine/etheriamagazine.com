@@ -1,7 +1,7 @@
 ---
 title: "Conca de Barberà, ¿te vienes a disfrutar de sus vinos?"
 date: 2022-06-01
-coverImage: etheria-images/2022/05/Mas-de-la-pansa-enologa.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/05/Mas-de-la-pansa-enologa.jpg
 categories: 
   - viajes-gastronomicos
   - mejores-restaurantes-gastronomia
@@ -12,7 +12,7 @@ authors:
 
 Si lo tuyo es el turismo 'gourmet' sin dejar de lado lo monumental, en la Denominación de Origen de la comarca de la Conca de Barberà encontrarás bodegas con vinos exquisitos y pueblos preciosos de la ruta del Císter. Un lugar perfecto para escaparse a disfrutar de la vida.
 
-![pueblo medieval y viñas](etheria-images/2022/05/Barbera-de-la-Conca.jpg "Barberà de la Conca y sus viñedos.")
+![pueblo medieval y viñas](https://fotos.etheriamagazine.com/2022/05/Barbera-de-la-Conca.jpg "Barberà de la Conca y sus viñedos.")
 
 En el **norte de Tarragona**, la Conca de Barberà es un pulmón verde flanqueado por los 
 ríos Francolí y su afluente, el Anguera. Aquí te encontrarás con un valle fluvial 
@@ -43,7 +43,7 @@ entre otras muchas actividades sociales que organizaban para el pueblo. Ahora el
 allí los facilísimos blancos y rosados (con o sin aguja) de Cava Portell o sus tintos 
 con crianza, todos ellos con vocación de que en sus botellas no quede ni una gota. 
 
-![torre de castillo en Cataluña](etheria-images/2022/05/Sede-DO-Conca-de-Barbera-1.jpg "Torre del Portal de San Antonio, sede de la DO Conca de Barberá.")
+![torre de castillo en Cataluña](https://fotos.etheriamagazine.com/2022/05/Sede-DO-Conca-de-Barbera-1.jpg "Torre del Portal de San Antonio, sede de la DO Conca de Barberá.")
 
 ### 2\. Pueblos y bodegas
 
@@ -68,7 +68,7 @@ Impresionan sus 12 torres, su maravilloso claustro, las cuidadas dependencias de
 de los monjes y los profanos, su sala de deliberaciones, el altar mayor o las tumbas 
 reales de los poderosos que querían ser enterrados más cerca del cielo. 
 
-![viñas en Monasterio de Poblet](etheria-images/2022/05/viñas-Monasterio-Poblet.jpg "Monasterio de Poblet.")
+![viñas en Monasterio de Poblet](https://fotos.etheriamagazine.com/2022/05/viñas-Monasterio-Poblet.jpg "Monasterio de Poblet.")
 
 Entre sus posesiones, se erige un palacio renacentista con varios archivos históricos 
 gestionados por el abad de turno. Y, cómo no, unos viñedos que permiten a la **bodega 
@@ -88,7 +88,7 @@ una coca salada que se hornea y va cubierta de escalivada (pimientos y berenjena
 asadas), o de cebolla o incluso de espinacas; así como quesos artesanos, embutidos como 
 la _secallona_ y butifarras blanca o negra. 
 
-![racimo de uvas en la viña](etheria-images/2022/05/cepa-de-trepat-Conca.jpg "La trepat es la uva con la que se hacen los vinos de la Conca de Barberá.")
+![racimo de uvas en la viña](https://fotos.etheriamagazine.com/2022/05/cepa-de-trepat-Conca.jpg "La trepat es la uva con la que se hacen los vinos de la Conca de Barberá.")
 
 Puedes **hacer un picnic** con todos estos aperitivos y maridarlos con los vinos de las 
 líneas Xipella o Únic de [Clos Montblanc](https://closmontblanc.com/), mientras haces 
@@ -106,7 +106,7 @@ tomillo", la "croqueta de calçots de Valls con romesco y mermelada de calçot",
 texturas de alcachofa", el "bacalao a la miel" y el "roast beef de presa ibérica a las 
 hierbas". 
 
-![gastronomía en Conca de Barberà](etheria-images/2022/05/el-moli-de-mallol.jpg "Platos de © El Molí de Mallol.")
+![gastronomía en Conca de Barberà](https://fotos.etheriamagazine.com/2022/05/el-moli-de-mallol.jpg "Platos de © El Molí de Mallol.")
 
 Alucinarás definitivamente con el pequeño tiramisú y el milhojas de orelleta con crema y 
 piñones si los maridas con el delicioso Domenio Trepat Dolç 2016. Este vino dulce es 
@@ -130,7 +130,7 @@ Pero hete aquí que, con la solidaridad de sus paisanos y los espontáneos que
 peregrinaron hasta allí para comprar sus botellas supervivientes, salvaron el vino del 
 fango que aún venden en la nueva y preciosa bodega. 
 
-![Celler Rendé Masdéu.](etheria-images/2022/05/celler-masdeu.jpg "Celler Rendé Masdéu.")
+![Celler Rendé Masdéu.](https://fotos.etheriamagazine.com/2022/05/celler-masdeu.jpg "Celler Rendé Masdéu.")
 
 La vida les compensó la desgracia con unas instalaciones que constan de una masía para 
 alojarse, una sala de cata en los lagares de una destiladora y una bodega con una 
@@ -152,7 +152,7 @@ cómo su hijo, desde el vivero de bodegueros y la lanzadera de Barberá de la Co
 se creó la primera cooperativa hace 125 años, va perfeccionando distintas líneas de 
 vinos. 
 
-![interior de una bodega de Conca de Barberà](etheria-images/2022/05/conca-barbera-vidbertus.jpg "Celler Vidbertus.")
+![interior de una bodega de Conca de Barberà](https://fotos.etheriamagazine.com/2022/05/conca-barbera-vidbertus.jpg "Celler Vidbertus.")
 
 Los puedes conocer en su espacio de catas dentro de una antigua bodega de 1960 que 
 llevan recuperando desde 2009 y les está quedando de ensueño. Te darán con generosidad 
@@ -168,7 +168,7 @@ cavas. Pero él se empeñó en demostrar que elaborarlo como tinto es posible y,
 2004, podemos gozar trepats tintos no solo de su bodega, como el 12@, sino de muchas 
 otras de las 24 que hay en la Conca. 
 
-![Celler Carles Andreu.](etheria-images/2022/05/Carles-Andreu-Cava.jpg "Celler Carles Andreu.")
+![Celler Carles Andreu.](https://fotos.etheriamagazine.com/2022/05/Carles-Andreu-Cava.jpg "Celler Carles Andreu.")
 
 Con viñedos viejos de 1700 en su haber, Andreu, desde la antigua cava debajo de su casa, 
 muestra su humildad: "el mérito es de los bisabuelos, que fueron los únicos que, después 
@@ -186,7 +186,7 @@ enóloga Inma Soler añadiendo el mosto congelado de la primera prensada en luga
 azúcares añadidos, lo cual le da la ese carácter tan especial que tiene todo lo que ella 
 crea. 
 
-![mujer con una copa de vino en un viñedo](etheria-images/2022/05/Mas-de-la-pansa-enologa.jpg "Imma Soler, enóloga de Mas de la Pansa. © Gilbert Bages")
+![mujer con una copa de vino en un viñedo](https://fotos.etheriamagazine.com/2022/05/Mas-de-la-pansa-enologa.jpg "Imma Soler, enóloga de Mas de la Pansa. © Gilbert Bages")
 
 ## Qué celebrar en la Conca de Barberà
 
@@ -201,7 +201,7 @@ marchas por los caminos del trepat y actividades infantiles y no te pierdas las
 degustaciones de otras bodegas de la DO como Cara Nord, Josep Foraster, Rosa María 
 Torres, Gerida Viticultors, Familia Torres, Molí dels Capellans y Vins de Pedra. 
 
-![monasterio en la ruta del císter](etheria-images/2022/05/Vallbona-ruta-cister.jpg "Monasterio cisterciense de Santa María de Vallbona. ©Jaume Boldu")
+![monasterio en la ruta del císter](https://fotos.etheriamagazine.com/2022/05/Vallbona-ruta-cister.jpg "Monasterio cisterciense de Santa María de Vallbona. ©Jaume Boldu")
 
 Para alojarte y tenerlo todo a mano, te recomendamos el [Hostal del 
 Seglar](https://www.hostaldelsenglar.com/), en L’Espluga de Francolí, no solo porque 

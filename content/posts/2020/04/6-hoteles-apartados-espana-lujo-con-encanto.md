@@ -1,7 +1,7 @@
 ---
 title: "Hoteles españoles donde no encontrarte con (casi) nadie"
 date: 2020-04-21
-coverImage: etheria-images/2019/07/Hotel-Alcuzcuz-panoramica.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/07/Hotel-Alcuzcuz-panoramica.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -17,7 +17,7 @@ desconectado del mundo un aliciente. En momentos en los que nos van avisando que
 nuestros primeros viajes tendremos que seguir guardando la distancia social, te 
 proponemos 6 hoteles en España donde te será difícil encontrarte con alguien. 
 
-![Granada olivos naturaleza relax](etheria-images/2018/08/La-Bobadilla-panoramica-1024x756.jpg "Imagen de La Bobadilla entre campos de olivos. © Barceló Hotel Group")
+![Granada olivos naturaleza relax](https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica-1024x756.jpg "Imagen de La Bobadilla entre campos de olivos. © Barceló Hotel Group")
 
 ## 1\. Hotel La Bobadilla (Loja, Granada)
 
@@ -30,7 +30,7 @@ aliciente a la altura de su gastronomía o su preciosa piscina. En cualquiera de
 excursiones que realices por sus alrededores te será muy difícil encontrarte con 
 alguien. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](etheria-images/2019/11/Le-Domaine-panoramica-900x600.jpg "Hotel Le Domaine. © Abadía Retuerta")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](https://fotos.etheriamagazine.com/2019/11/Le-Domaine-panoramica-900x600.jpg "Hotel Le Domaine. © Abadía Retuerta")
 
 ## 2\. Le Domaine de Abadía Retuerta (Sardón de Duero, Valladolid)
 
@@ -43,7 +43,7 @@ para conseguir unos vinos que se encuentran entre los mejores de España. Todo e
 ambiente de hotel de cinco estrellas con una gastronomía que cuenta con un restaurante 
 con una estrella Michelin y un spa del que no querrás salir. 
 
-![hoteles Rusticae, hoteles con encanto, escapadas románticas, viajes para dos](etheria-images/2020/01/rusticae-xuq-ruvira-ogof-900x602.jpg "Salón de la suite Ogof de Xuq Lomas de Ruvira. © Rusticae")
+![hoteles Rusticae, hoteles con encanto, escapadas románticas, viajes para dos](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-ogof-900x602.jpg "Salón de la suite Ogof de Xuq Lomas de Ruvira. © Rusticae")
 
 ## 3\. Hotel Xuq Lomas de Ruvira (La Manchuela, Albacete)
 
@@ -55,7 +55,7 @@ rocoso de la hoz del Júcar para ubicar sus ocho habitaciones. Con una filosofí
 slow’ y una apuesta por la sostenibilidad, un fin de semana en este hotel te asegura 
 privacidad y tranquilidad. 
 
-![Terraza de Son Penya Petit Hotel & Spa.](etheria-images/2019/08/Son-Penya-terraza-restaurante.jpg "Terraza de Son Penya Petit Hotel & Spa. © Rusticae")
+![Terraza de Son Penya Petit Hotel & Spa.](https://fotos.etheriamagazine.com/2019/08/Son-Penya-terraza-restaurante.jpg "Terraza de Son Penya Petit Hotel & Spa. © Rusticae")
 
 ## 4\. Son Penya Petit Hotel & Spa (San Lorenzo, Mallorca)
 
@@ -68,7 +68,7 @@ finca de más de doscientos mil metros cuadrados. Aquí seguro que disfrutarás 
 gastronomía, basada en productos de cercanía y 'kilómetro 0', su spa con vistas y una 
 piscina con un entorno que no puede ser más propicio para el descanso. 
 
-![Alcuzcuz Hotel Boutique.](etheria-images/2019/07/Hotel-Alcuzcuz-panoramica.jpg "Alcuzcuz Hotel Boutique. © Rusticae")
+![Alcuzcuz Hotel Boutique.](https://fotos.etheriamagazine.com/2019/07/Hotel-Alcuzcuz-panoramica.jpg "Alcuzcuz Hotel Boutique. © Rusticae")
 
 ## 5\. Alcuzcuz Hotel Boutique (Benahavís, Málaga)
 
@@ -80,7 +80,7 @@ de paz de seis habitaciones está lleno de rincones para esconderse con un libro
 en sus salones interiores (donde su exquisita decoración es uno de sus principales 
 alicientes) como en sus preciosos jardines. 
 
-![Hotel B&B Hacienda El Santiscal.](etheria-images/2019/04/El-Santiscal-general.jpg "Hotel B&B Hacienda El Santiscal. © Rusticae")
+![Hotel B&B Hacienda El Santiscal.](https://fotos.etheriamagazine.com/2019/04/El-Santiscal-general.jpg "Hotel B&B Hacienda El Santiscal. © Rusticae")
 
 ## 6\. Hotel B&B Hacienda El Santiscal (Arcos de la Frontera, Cádiz)
 

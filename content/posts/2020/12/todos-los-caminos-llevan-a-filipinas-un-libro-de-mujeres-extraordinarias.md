@@ -1,7 +1,7 @@
 ---
 title: "'Todos los caminos llevan a Filipinas', un libro de mujeres extraordinarias"
 date: 2020-12-11
-coverImage: etheria-images/2020/12/mujeres-filipinas-Anna-Balcells.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Anna-Balcells.jpg
 categories: 
   - libros-de-viajes
   - mujeres-etheria
@@ -13,7 +13,7 @@ authors:
 
 ##### ‘Todos los caminos llevan a Filipinas’ es el nuevo libro de Manena Munar, una recopilación de 20 historias de mujeres extraordinarias que han impulsado proyectos en el archipiélago filipino. En esta obra, publicada por ediciones Casiopea, se habla de solidaridad, superación, creatividad y perseverancia, valores esenciales para construir un mundo más justo.
 
-![manena munar, todos los caminos llevan a filipinas](etheria-images/2020/12/manena-munar-todos-los-caminos-llevan-a-filipinas.jpg "Manena Munar, autora de 'Todos los caminos llevan a Filipinas'.")
+![manena munar, todos los caminos llevan a filipinas](https://fotos.etheriamagazine.com/2020/12/manena-munar-todos-los-caminos-llevan-a-filipinas.jpg "Manena Munar, autora de 'Todos los caminos llevan a Filipinas'.")
 
 Los libros de [Manena 
 Munar,](https://etheriamagazine.com/2020/05/05/mujeres-viajeras-etheria-manena-munar/) 
@@ -40,7 +40,7 @@ que yo había vivido varios años en Filipinas e incluso había escrito la novel
 ficción histórica '**Y Soplará el Amijan**' sobre las islas. Acepté encantada el 
 encargo, y así comenzó la aventura. 
 
-![Anna Balcells fundadora de Kalipay](etheria-images/2020/12/mujeres-filipinas-Anna-Balcells.jpg "Anna Balcells fundadora de Kalipay, hogar para niños maltratados.")
+![Anna Balcells fundadora de Kalipay](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Anna-Balcells.jpg "Anna Balcells fundadora de Kalipay, hogar para niños maltratados.")
 
 #### 2\. Tu estancia y amistades en Filipinas han sido, por tanto, determinantes a la hora de afrontar la obra…
 
@@ -62,7 +62,7 @@ entrevistando y conociendo a las protagonistas.
 > Este grupo de mujeres juega un papel primordial en la sociedad sin hacer ningún alarde 
 > de ello, sin que nadie lo sepa. 
 
-![Nuria Diez, mujeres filipinas, solidariad, todos los caminos llevan a filipinas](etheria-images/2020/12/mujeres-filipinas-Nuria-Diez.jpg "Nuria Díez siempre soñó con lugares lejanos y su sueño se convirtió en realidad.")
+![Nuria Diez, mujeres filipinas, solidariad, todos los caminos llevan a filipinas](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Nuria-Diez.jpg "Nuria Díez siempre soñó con lugares lejanos y su sueño se convirtió en realidad.")
 
 #### 4\. ¿Cómo se seleccionaron las protagonistas y sus historias? ¿Se quedaron otras en el tintero?
 
@@ -83,7 +83,7 @@ algunas mujeres que dedican su tiempo a este menester. Las artistas también tie
 papel primordial denunciando y animando con su arte los puntos débiles y los fuertes de 
 la sociedad. 
 
-![Marilou Dillinger, Carolina Unzeta, todos los caminos llevan a filipinas](etheria-images/2020/12/mujeres-filipinas-Marilou-DIllinger-Carolina-Uzeta.jpg "Marilou Dillinger colabora en la isla de Mindanao con Médicos sin Fronteras, y Carolina Unzeta ha estado 7 años en varios proyectos por las laderas del volcán Mayón (Luzón).")
+![Marilou Dillinger, Carolina Unzeta, todos los caminos llevan a filipinas](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Marilou-DIllinger-Carolina-Uzeta.jpg "Marilou Dillinger colabora en la isla de Mindanao con Médicos sin Fronteras, y Carolina Unzeta ha estado 7 años en varios proyectos por las laderas del volcán Mayón (Luzón).")
 
 #### 5\. ¿Te costó mucho encontrar los perfiles más adecuados o contactar con ellas?
 
@@ -96,7 +96,7 @@ pandemia–.
 > Son personas maravillosas, acostumbradas a lidiar con lo imposible, con lo que su 
 > relación conmigo fue encantadora y su seriedad impecable. 
 
-![Valeria Cavestany, mujeres filipinas, pintura](etheria-images/2020/12/mujeres-filipinas-Valeria-Cavestany.jpg "Valeria Cavestany se vale de sus pinturas para poner su granito de arena en el cuidado sanitario de los artistas filipinos.")
+![Valeria Cavestany, mujeres filipinas, pintura](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Valeria-Cavestany.jpg "Valeria Cavestany se vale de sus pinturas para poner su granito de arena en el cuidado sanitario de los artistas filipinos.")
 
 #### 6\. ¿Cuánto tiempo has estado documentando el libro?
 
@@ -111,7 +111,7 @@ Festival Barcelona_, quien me ha hecho el enorme favor de prologar el libro. Lue
 bien sabéis, se paralizó todo. Aún así, seguí escribiendo, tiempo había, y fue en julio 
 cuando se retomó la actividad, finalizando los pormenores hace un mes. 
 
-![Camila Escat y Natalia Ferraren, Kalipay, todos los caminos llevan a filipinas](etheria-images/2020/12/mujeres-filipinas-Camila-Escat-y-natalia-Ferraren.jpg "Camila Escat y Natalia Ferraren viven en Madrid y cada verano lo pasan en la fundación negrense de Kalipay, ayudando a su fundadora Anna Balcells.")
+![Camila Escat y Natalia Ferraren, Kalipay, todos los caminos llevan a filipinas](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Camila-Escat-y-natalia-Ferraren.jpg "Camila Escat y Natalia Ferraren viven en Madrid y cada verano lo pasan en la fundación negrense de Kalipay, ayudando a su fundadora Anna Balcells.")
 
 #### 7\. ¿Crees que es necesario visibilizar la labor de la mujer en todos los ámbitos o en alguno en particular?
 
@@ -124,7 +124,7 @@ partido de la tierra. Cherrie nos cuenta como al participar en las reuniones de 
 agricultores (de toda la vida) la miraban como a una extraterrestre y tuvo que luchar 
 para afianzar su puesto en el Comité y en la Comunidad. 
 
-![teresa barroso, madre teresa de filipinas, mujeres filipinas](etheria-images/2020/12/mujeres-filipinas-Teresa-Barroso.jpg "Teresa Barroso voló de su Lisboa natal a Filipinas donde ha encontrado su lugar en el mundo.")
+![teresa barroso, madre teresa de filipinas, mujeres filipinas](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Teresa-Barroso.jpg "Teresa Barroso voló de su Lisboa natal a Filipinas donde ha encontrado su lugar en el mundo.")
 
 #### 8\. De todas las historias que narras, ¿cuáles son las tres que consideras más inspiradoras?
 
@@ -143,7 +143,7 @@ tela blanca donde los artistas de las tribus más perdidas de las islas vuelcan 
 creatividad**. Ella vuelve a la “civilización” para confeccionar modelos exclusivos, 
 espectaculares, de cuyas ganancias una buena parte revierte en el artista tribal. 
 
-![len cabili, mujeres filipinas,](etheria-images/2020/12/mujeres-filipinas-Len-Cabili-683x1024.jpg "Len Cabili va a las tribus con una tela en blanco que decoran los artistas tribales.")
+![len cabili, mujeres filipinas,](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Len-Cabili-683x1024.jpg "Len Cabili va a las tribus con una tela en blanco que decoran los artistas tribales.")
 
 Y, por último, **Anna Balcells** que creció entre Barcelona y la isla de Negros. Su 
 fundación negrense de **Kalipay** merece toda mi admiración y respeto. Lo que empezó 
@@ -161,7 +161,7 @@ serlo también**. Poco a poco se integran en sus vidas, agradeciendo esa amabili
 natural que les abre su casa y su familia, y logran que den pequeños pasos que van 
 cambiando la forma de enfocar su papel en la familia, en la sociedad. 
 
-![Marisa Gonzalez artista audiovisual, filipinas](etheria-images/2020/12/mujeres-filipinas-Marisa-Gonzalez.jpg "Marisa González, artista audiovisual y creadora del vídeo 'Ellas, filipinas sobre la emigración filipina en Hong Kong que los domingos toma, literalmente, la ciudad.")
+![Marisa Gonzalez artista audiovisual, filipinas](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Marisa-Gonzalez.jpg "Marisa González, artista audiovisual y creadora del vídeo 'Ellas, filipinas sobre la emigración filipina en Hong Kong que los domingos toma, literalmente, la ciudad.")
 
 #### 10\. ¿Cuál crees que ha sido, a nivel personal, la mayor enseñanza que has obtenido al preparar el libro?
 
@@ -173,7 +173,7 @@ una realidad paralela a la que la mayoría de las veces cerramos los ojos.
 > Observé cómo las veinte protagonistas del libro se sienten tranquilas y en armonía con 
 > la vida, sin ese famoso estrés que caracteriza a nuestro acelerado _sistema._ 
 
-![todos los caminos llevan a filipinas, ediciones casiopea, manena munar](etheria-images/2020/12/todos-los-caminos-llevan-a-filipinas-725x1024.jpg "'Todos los caminos llevan a Filipinas', de ediciones Casiopea.")
+![todos los caminos llevan a filipinas, ediciones casiopea, manena munar](https://fotos.etheriamagazine.com/2020/12/todos-los-caminos-llevan-a-filipinas-725x1024.jpg "'Todos los caminos llevan a Filipinas', de ediciones Casiopea.")
 
 #### 11\. Por último, ¿por qué aconsejarías a nuestras lectoras leer 'Todos los caminos llevan a Filipinas'?
 

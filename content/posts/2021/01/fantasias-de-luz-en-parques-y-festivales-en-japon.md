@@ -1,7 +1,7 @@
 ---
 title: "Cuatro fantasías lumínicas para alucinar en Japón"
 date: 2021-01-16
-coverImage: etheria-images/2021/01/japon-Huis-Ten-Bosh.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/01/japon-Huis-Ten-Bosh.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -11,7 +11,7 @@ authors:
 
 La iluminación de fantasía en Japón no se reduce únicamente a la época navideña, como en otros países, sino que se puede disfrutar hasta el mes de mayo. Además, existe cierta competencia entre las distintas regiones por lo que cada año los proyectos son más espectaculares. Descubre tres parques y un festival donde la magia se apodera de todos sus rincones.
 
-![Parque Floral Nabana no Sato](etheria-images/2021/01/Nabana-no-Sato-japon.jpg "Parque Floral Nabana no Sato. ©JNTO")
+![Parque Floral Nabana no Sato](https://fotos.etheriamagazine.com/2021/01/Nabana-no-Sato-japon.jpg "Parque Floral Nabana no Sato. ©JNTO")
 
 ## Parque Floral Nabana no Sato
 
@@ -24,7 +24,7 @@ rosas, azaleas o begonias. Además, brinda bonitas vistas desde la plataforma de
 observación del _Island Fuji Observatory_, a 45 metros de altura, la cual permite 
 contemplar la sutil combinación entre naturaleza e iluminación. 
 
-![Parque tematico Kingdom of Lights](etheria-images/2021/01/Huis-Ten-Bosh.jpg "Parque temático Kingdom of Lights.")
+![Parque tematico Kingdom of Lights](https://fotos.etheriamagazine.com/2021/01/Huis-Ten-Bosh.jpg "Parque temático Kingdom of Lights.")
 
 ## Parque temático Huis Ten Bosch
 
@@ -36,7 +36,7 @@ dispone de un suelo de cristal que refleja una cascada de luces y otras atraccio
 realidad virtual. Para iluminar las noches de invierno se llegan a emplear en el 
 complejo 13 millones de bombillas. 
 
-![Parque Floral Ashikaga Flower Fantasy](etheria-images/2021/01/Ashikaga-flower-park-illumination.jpg "Parque Floral Ashikaga Flower Fantasy.")
+![Parque Floral Ashikaga Flower Fantasy](https://fotos.etheriamagazine.com/2021/01/Ashikaga-flower-park-illumination.jpg "Parque Floral Ashikaga Flower Fantasy.")
 
 ## Parque Floral Ashikaga Flower Fantasy
 
@@ -48,7 +48,7 @@ representa las cuatro estaciones. Al pasear por sus senderos aparecen túneles d
 glorietas florales, trenes y estanques donde el agua crea un espejo de colores que 
 refleja la iluminación. 
 
-![Festival Yunishigawa Kamakura](etheria-images/2021/01/Kamura-Festival-japon.jpg "Festival Yunishigawa Kamakura. ©JNTO")
+![Festival Yunishigawa Kamakura](https://fotos.etheriamagazine.com/2021/01/Kamura-Festival-japon.jpg "Festival Yunishigawa Kamakura. ©JNTO")
 
 ## Festival Yunishigawa Kamakura 
 
@@ -60,7 +60,7 @@ riberas del río Zawaguchi con cientos de pequeños _kamakura_, unas estructuras
 iglús que, iluminadas por la noche, forjan una estampa inolvidable. Además, en su 
 interior incluso se puede disfrutar de una cena tradicional. 
 
-![Parque Floral Ashikaga Flower Fantasy](etheria-images/2021/01/Ashikaga-flower-park-illumination-5.jpg "Parque Floral Ashikaga Flower Fantasy.")
+![Parque Floral Ashikaga Flower Fantasy](https://fotos.etheriamagazine.com/2021/01/Ashikaga-flower-park-illumination-5.jpg "Parque Floral Ashikaga Flower Fantasy.")
 
 ### También te puede interesar...
 

@@ -1,7 +1,7 @@
 ---
 title: "Verona más allá de Julieta, descubre otras visitas esenciales"
 date: 2021-12-01
-coverImage: etheria-images/2021/11/piazza-delle-erbe-verona.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/piazza-delle-erbe-verona.jpg
 categories: 
   - viajes-con-amigas
 authors: 
@@ -14,7 +14,7 @@ Clásica: su Arena, del siglo I. Es un foco de cultura, compras, gastronomía y 
 social, así que sigue leyendo para no perderte las visitas imprescindibles en Verona (y 
 otras que también te van a gustar). 
 
-![atardecer en verona](etheria-images/2021/11/vista-verona.jpg "Panorámica de Verona al atardecer. © Alessandro Carrarini")
+![atardecer en verona](https://fotos.etheriamagazine.com/2021/11/vista-verona.jpg "Panorámica de Verona al atardecer. © Alessandro Carrarini")
 
 Dejemos las cosas claras desde el principio: por más que Romeo y Julieta sean los 
 principales imanes y la **Casa de Julieta una de las visitas imprescindibles en 
@@ -43,7 +43,7 @@ condición sexual acarician uno de los pechos de la estatua en bronce dedicada a
 Probablemente pasen por alto el hecho de que la historia entre Julieta y su amado Romeo 
 termina el uno en brazos de la otra, sí, pero sin vida ambos… 
 
-![balcon de julieta verona](etheria-images/2021/11/balcon-julieta-verona.jpg "Balcón de la supuesta casa de Julieta. © Alessandro Visentin")
+![balcon de julieta verona](https://fotos.etheriamagazine.com/2021/11/balcon-julieta-verona.jpg "Balcón de la supuesta casa de Julieta. © Alessandro Visentin")
 
 ### Catedral de Verona
 
@@ -55,7 +55,7 @@ fuego y hasta un terremoto. Impresionan tanto el exterior como el interior del t
 decorado con grandes trampantojos al fresco que confunden la percepción de campo visual 
 de quien la visita. 
 
-![arena visitas imprescindibles en Verona](etheria-images/2021/11/arena-verona.jpg "Arena de Verona. © Alessandro Carrarini")
+![arena visitas imprescindibles en Verona](https://fotos.etheriamagazine.com/2021/11/arena-verona.jpg "Arena de Verona. © Alessandro Carrarini")
 
 ### Arena de Verona y Piazza Brà
 
@@ -74,7 +74,7 @@ sus soportales habitados en tiempos por los mejores artesanos de Verona y cuyos 
 han adquirido hoy comerciantes de souvenirs, de productos gastronómicos y algún que otro 
 restaurante con terraza. 
 
-![piazza delle erbe verona](etheria-images/2021/11/piazza-delle-erbe-verona.jpg "La bonita Piazza delle Erbe, en Verona. © Fabio Tura")
+![piazza delle erbe verona](https://fotos.etheriamagazine.com/2021/11/piazza-delle-erbe-verona.jpg "La bonita Piazza delle Erbe, en Verona. © Fabio Tura")
 
 ### Piazza delle Erbe, ambiente universitario
 
@@ -96,7 +96,7 @@ en las plazas principales de Verona. Sobre todo en la **Piazza delle Erbe** (de 
 Hierbas), la más antigua de la ciudad, que ocupa la planta de lo que era el antiguo foro 
 romano y que, desde siempre, es el gran mercado popular. 
 
-![torre dei lamberti verona](etheria-images/2021/11/torre-lamberti-verona.jpg "Sube a la Torre Lamberti, con un mirador panorámico a más de 80 metros de altura. © Maria Julia Mello")
+![torre dei lamberti verona](https://fotos.etheriamagazine.com/2021/11/torre-lamberti-verona.jpg "Sube a la Torre Lamberti, con un mirador panorámico a más de 80 metros de altura. © Maria Julia Mello")
 
 ### Palacios de Verona
 
@@ -114,7 +114,7 @@ característicos balcones ajimezados (como el de la Casa de Julieta) y, por lo g
 con un patio distribuidor (_cortile_) intramuros diseñado para aislarse del bullicio 
 exterior. 
 
-![fachada verona](etheria-images/2021/11/verona-fachadas.jpg "Detalle de una bonita fachada de Verona. © Marcus Ganahl")
+![fachada verona](https://fotos.etheriamagazine.com/2021/11/verona-fachadas.jpg "Detalle de una bonita fachada de Verona. © Marcus Ganahl")
 
 Muchos de estos palacios son habitados por los descendientes de las grandes familias de 
 comerciantes y nobles que dieron relumbre a la ciudad en siglos pasados. Otros, con el 
@@ -124,7 +124,7 @@ instituciones culturales, administrativas, sociales y políticas de la ciudad. Y
 más se han transformado en negocios de hostelería, para atender las necesidades de una 
 población y de un turismo crecientes. 
 
-![nh palazzo verona](etheria-images/2021/11/NH-palazzo-verona.jpg "© NH Collection Palazzo Verona.")
+![nh palazzo verona](https://fotos.etheriamagazine.com/2021/11/NH-palazzo-verona.jpg "© NH Collection Palazzo Verona.")
 
 ### Comer o dormir en un palacio
 
@@ -137,7 +137,7 @@ Llegado el momento de reponer fuerzas tras las visitas imprescindibles en Verona
 las más diversas opciones gastronómicas: desde la típica _osteria_ donde degustar el 
 plato del día (fundamentalmente pasta) a restaurantes de altísimo nivel. 
 
-![Casa Perbellini verona](etheria-images/2021/11/casa-perbellini-683x1024.jpg "© Giancarlo Perbellini, de Casa Perbellini, en la piazza San Zeno (Verona).")
+![Casa Perbellini verona](https://fotos.etheriamagazine.com/2021/11/casa-perbellini-683x1024.jpg "© Giancarlo Perbellini, de Casa Perbellini, en la piazza San Zeno (Verona).")
 
 Entre estos últimos están **Il Desco** y **Casa Perbellini**; ambos reconocidos con 
 estrellas por la Guía Michelin y donde los fundamentos de las antiguas cocinas 
@@ -154,7 +154,7 @@ al descubrir el desfile de platos de auténtica gastronomía véneta que caracte
 local. Para añadir autenticidad a la carta, este restaurante incluye vinos, quesos y 
 embutidos de elaboración propia. 
 
-![pasteleria flego verona](etheria-images/2021/11/Flego-verona.jpg "Mostrador de Flego (Verona).")
+![pasteleria flego verona](https://fotos.etheriamagazine.com/2021/11/Flego-verona.jpg "Mostrador de Flego (Verona).")
 
 Por supuesto también ofrecen postres caseros, pero puestos a sugerir y teniendo en 
 cuenta la calidad y variedad de la pastelería italiana, por qué no probar los dulces 
@@ -163,7 +163,7 @@ más que agradable local situado en una de las calles peatonales del centro y cu
 vitrinas son una auténtica provocación a la que es casi imposible resistirse. De hecho, 
 mejor no resistirse. 
 
-![compras en verona](etheria-images/2021/11/compras-verona-683x1024.jpg "En las calles de Verona encontrarás encantadoras boutiques. © Tom Podmore")
+![compras en verona](https://fotos.etheriamagazine.com/2021/11/compras-verona-683x1024.jpg "En las calles de Verona encontrarás encantadoras boutiques. © Tom Podmore")
 
 ### De compras en Verona
 
@@ -175,7 +175,7 @@ Si eres aficionada a los comercios outlets, también encontrarás algunos con ma
 italianas a muy buen precio. Las compras en Verona están totalmente justificadas, y si 
 vas en torno a San Valentín los escaparates son auténticas obras artísticas. 
 
-![atardecer en verona](etheria-images/2021/11/torre-verona-683x1024.jpg "Atardecer en Verona. © Davide Goldin")
+![atardecer en verona](https://fotos.etheriamagazine.com/2021/11/torre-verona-683x1024.jpg "Atardecer en Verona. © Davide Goldin")
 
 ### El atardecer más romántico de Verona
 
@@ -194,7 +194,7 @@ toda Verona. Sin duda, es un buen lugar para despedirse de una ciudad romántica
 por más que Romeo y Julieta sean tan solo una (genial) invención literaria. Que no es 
 poco. 
 
-![castel san pietro verona](etheria-images/2021/11/castillo-san-pedro-verona.jpg "Castel de San Pietro, en Verona. © Alessandro Carrarini")
+![castel san pietro verona](https://fotos.etheriamagazine.com/2021/11/castillo-san-pedro-verona.jpg "Castel de San Pietro, en Verona. © Alessandro Carrarini")
 
 **También te puede interesar...** 
 

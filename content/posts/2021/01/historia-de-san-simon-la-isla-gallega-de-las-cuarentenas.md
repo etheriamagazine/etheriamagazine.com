@@ -1,7 +1,7 @@
 ---
 title: "Historia de la isla de San Simón, de lazareto a campo de concentración"
 date: 2021-01-04
-coverImage: etheria-images/2020/12/isla-pandemias-san-simon-jardines.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -16,7 +16,7 @@ cobijado a caballeros templarios, a marineros enfermos que regresaban de Améric
 campo de concentración, orfanato, y hoy debe su fama al Sinsal, un singular festival de 
 música. 
 
-![Escultura 'O ofrecemento da auga', de Sergio Portela, en un jardín de la isla de San Simón.](etheria-images/2020/12/isla-pandemias-san-simon-jardines.jpg "Escultura 'O ofrecemento da auga', de Sergio Portela, en un jardín de la isla de San Simón. © Kelu Robles")
+![Escultura 'O ofrecemento da auga', de Sergio Portela, en un jardín de la isla de San Simón.](https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg "Escultura 'O ofrecemento da auga', de Sergio Portela, en un jardín de la isla de San Simón. © Kelu Robles")
 
 Actualizado 12/2023 
 
@@ -37,7 +37,7 @@ libre**. La anécdota resume fortuitamente gran parte de su pasado.
 > Casi todas las personas que han vivido en San Simón permanecieron aisladas. Los motivos 
 > por los que lo hicieron marcaron la diferencia. 
 
-![Toda la isla de San Simón está flanqueada por grandes muros de piedra.](etheria-images/2020/12/vigo-isla-san-simon-muelle.jpg "Toda la isla de San Simón está flanqueada por grandes muros de piedra. © Kelu Robles")
+![Toda la isla de San Simón está flanqueada por grandes muros de piedra.](https://fotos.etheriamagazine.com/2020/12/vigo-isla-san-simon-muelle.jpg "Toda la isla de San Simón está flanqueada por grandes muros de piedra. © Kelu Robles")
 
 Los primeros habitantes que llegaron a San Simón para alejarse del resto del mundo 
 fueron los **monjes benedictinos** en el siglo X. El lugar era perfecto, garantizaba el 
@@ -54,7 +54,7 @@ encargo de la reina Isabel I de Inglaterra. Tras su derrota en la batalla de La 
 en 1589, Drake desembarcó en la ría con sed de venganza y **arrasó Vigo, Ons, las islas 
 Cíes, y también San Simón**. 
 
-![Cuadro: San Simón y San Antón sirvieron como escenario del enfrentamiento entre las coaliciones anglo-holandesa e hispano-francesa de la Batalla de Rande.](etheria-images/2020/12/isla-san-simon-batalla-rande.jpg "San Simón y San Antón sirvieron como escenario del enfrentamiento entre las coaliciones anglo-holandesa e hispano-francesa de la Batalla de Rande. © Ludolf Backhuysen, Royal Museums Greenwich")
+![Cuadro: San Simón y San Antón sirvieron como escenario del enfrentamiento entre las coaliciones anglo-holandesa e hispano-francesa de la Batalla de Rande.](https://fotos.etheriamagazine.com/2020/12/isla-san-simon-batalla-rande.jpg "San Simón y San Antón sirvieron como escenario del enfrentamiento entre las coaliciones anglo-holandesa e hispano-francesa de la Batalla de Rande. © Ludolf Backhuysen, Royal Museums Greenwich")
 
 Los vigueses tampoco olvidan la **Batalla de Rande** en 1702, cuando los navíos de la 
 Corona de Castilla, repletos de tesoros robados en Sudamérica, fueron abordados por los 
@@ -71,7 +71,7 @@ San Simón conmemora esta obra literaria.
 Los **recorridos guiados por San Simón y San Antón** incluyen traslados en ferry y una 
 visita previa al Museo Meirande. Más información en piratasdenabia.com (desde 18 euros) 
 
-![Cementerio del lazareto de San Simón.](etheria-images/2020/12/isla-san-simon-cementerio.jpg "Cementerio del lazareto de San Simón. © Kelu Robles")
+![Cementerio del lazareto de San Simón.](https://fotos.etheriamagazine.com/2020/12/isla-san-simon-cementerio.jpg "Cementerio del lazareto de San Simón. © Kelu Robles")
 
 ## Confinamiento en San Simón
 
@@ -85,7 +85,7 @@ lazareto limpio, en San Simón, y los enfermos en el lazareto sucio, en San Ant�
 > El puente de piedra que une las islas de San Simón y San Antón contiene puertas 
 > independientes que servían como protocolo sanitario. 
 
-![Vista de una de las puertas entre lazaretos de la isla de San Simón.](etheria-images/2020/12/isla-san-simon-puente.jpg "Vista de una de las puertas entre lazaretos de la isla de San Simón. © Kelu Robles")
+![Vista de una de las puertas entre lazaretos de la isla de San Simón.](https://fotos.etheriamagazine.com/2020/12/isla-san-simon-puente.jpg "Vista de una de las puertas entre lazaretos de la isla de San Simón. © Kelu Robles")
 
 ## Campo de concentración franquista
 
@@ -98,7 +98,7 @@ un accidente marítimo se llevó la vida de varios trabajadores de su guardia. A
 su cercanía a la playa de Cesantes, las fuertes corrientes marítimas complican la 
 llegada a la costa. 
 
-![Un pequeño cruceiro en el islote de O Cobreiro recuerda el hundimiento de la embarcación en la que viajaban los trabajadores del dictador.](etheria-images/2020/12/isla-san-simon-cruceiro.jpg "Un pequeño cruceiro en el islote de O Cobreiro recuerda el hundimiento de la embarcación en la que viajaban los trabajadores del dictador. © Kelu Robles")
+![Un pequeño cruceiro en el islote de O Cobreiro recuerda el hundimiento de la embarcación en la que viajaban los trabajadores del dictador.](https://fotos.etheriamagazine.com/2020/12/isla-san-simon-cruceiro.jpg "Un pequeño cruceiro en el islote de O Cobreiro recuerda el hundimiento de la embarcación en la que viajaban los trabajadores del dictador. © Kelu Robles")
 
 ## El cagarrón y el dragón
 
@@ -108,7 +108,7 @@ Cagarrón** es un gran váter al aire libre con acceso directo al mar. Un inodor
 no apto para tímidos que, sin embargo, cuenta con una ubicación ideal para los selfis en 
 pareja. 
 
-![El muelle del Cagarrón, el más escatológico de San Antón.](etheria-images/2020/12/isla-san-simon-cagarron.jpg "El muelle del Cagarrón, el más escatológico de San Antón. © Kelu Robles")
+![El muelle del Cagarrón, el más escatológico de San Antón.](https://fotos.etheriamagazine.com/2020/12/isla-san-simon-cagarron.jpg "El muelle del Cagarrón, el más escatológico de San Antón. © Kelu Robles")
 
 Dependiendo de a quién preguntes, obtendrás una versión diferente sobre la misteriosa 
 **puerta del Dragón**, una profunda cavidad excavada en la tierra y sellada por 
@@ -122,7 +122,7 @@ esta misteriosa puerta servía como vía de escape para los monjes que huían de
 piratas. La realidad es que el túnel fue **excavado por los presos políticos** para 
 canalizar el tratamiento de residuos. 
 
-![Vista de San Simón desde San Antón.](etheria-images/2020/12/isla-san-simon-lazareto-de-vigo.jpg "Vista de San Simón desde San Antón. © Kelu Robles")
+![Vista de San Simón desde San Antón.](https://fotos.etheriamagazine.com/2020/12/isla-san-simon-lazareto-de-vigo.jpg "Vista de San Simón desde San Antón. © Kelu Robles")
 
 ### Más pistas de la isla de San Simón
 

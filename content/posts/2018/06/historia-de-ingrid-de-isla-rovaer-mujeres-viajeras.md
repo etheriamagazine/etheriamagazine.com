@@ -1,7 +1,7 @@
 ---
 title: "Érase una vez un pescador noruego de ojos azul marino"
 date: 2018-06-04
-coverImage: etheria-images/2018/06/Noruega-Manena-Vista-general.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/06/Noruega-Manena-Vista-general.jpg
 categories: 
   - historias-en-femenino
 authors: 
@@ -11,7 +11,7 @@ authors:
 Esta historia, que tuvo lugar en Rovaer, una isla de los Fiordos noruegos, podría 
 comenzar así: "Érase una vez un pescador de ojos azul marino..." 
 
-![Historias de mujeres Ingrid del Hotel KulturHotel de Noruega](etheria-images/2018/06/1-Noruega-Manena-Munar-1024x683.jpg "Isla de Rovaer (Noruega).")
+![Historias de mujeres Ingrid del Hotel KulturHotel de Noruega](https://fotos.etheriamagazine.com/2018/06/1-Noruega-Manena-Munar-1024x683.jpg "Isla de Rovaer (Noruega).")
 
 Ingrid tiene el pelo blanco y los ojos azules y risueños. Es la 'matriarca' de la isla 
 de Rovaer, situada al noroeste de la ciudad de Haugesund en el condado de Rogaland, y la 
@@ -23,7 +23,7 @@ prácticas en la isla. La incipiente maestra se adaptó enseguida a la vida de l
 pescadores, le gustaba enseñar a sus niños y contemplar ese mar bravo y gris –“el mar de 
 verdad", dice Ingrid–, que a tantos hombres de Rovaer arrastró a sus aguas. 
 
-![Ingrid del Hotel Kultur -Hotell de la isla de Rovaer de Noruega](etheria-images/2018/06/2-Noruega-Manena-1024x709.jpg "Ingrid es la matriarca de la isla de Rovaer (Noruega)")
+![Ingrid del Hotel Kultur -Hotell de la isla de Rovaer de Noruega](https://fotos.etheriamagazine.com/2018/06/2-Noruega-Manena-1024x709.jpg "Ingrid es la matriarca de la isla de Rovaer (Noruega)")
 
 ## El naufragio de Rovaer
 
@@ -44,7 +44,7 @@ narración de su propia vida en el plató de la que fue su casa, no sin antes pa
 iglesia que, como en todas las sedes marineras de Noruega, la protagoniza un barco de 
 madera colgando del techo. 
 
-![En la isla de Rovaer se encuentra el Hotel Kultur -Hotell Noruega](etheria-images/2018/06/5-Rovaer-Noruega-1024x683.jpg "La luz de los fiordos noruegos crea escenarios mágicos")
+![En la isla de Rovaer se encuentra el Hotel Kultur -Hotell Noruega](https://fotos.etheriamagazine.com/2018/06/5-Rovaer-Noruega-1024x683.jpg "La luz de los fiordos noruegos crea escenarios mágicos")
 
 ## Los caprichos del destino
 
@@ -65,7 +65,7 @@ se embarcó en la aventura que supondría toda su vida.
 > Decidió compartir sus días con el marinero de los ojos azul marino, y vivió por siempre 
 > jamás en Rovaer con sus dos hijas, que ahora regentan un hotel a la orilla del mar. 
 
-![KulturHotell es el alojamiento regentado por Helga y Liv, las hijas de Ingrid, en la isla de Rovaer (Noruega)](etheria-images/2018/06/3-Rovaer-Noruega-Kultur-Hotel-1024x674.jpg "KulturHotell es el alojamiento regentado por Helga y Liv, las hijas de Ingrid, en la isla de Rovaer (Noruega).")
+![KulturHotell es el alojamiento regentado por Helga y Liv, las hijas de Ingrid, en la isla de Rovaer (Noruega)](https://fotos.etheriamagazine.com/2018/06/3-Rovaer-Noruega-Kultur-Hotel-1024x674.jpg "KulturHotell es el alojamiento regentado por Helga y Liv, las hijas de Ingrid, en la isla de Rovaer (Noruega).")
 
 ## Kultur-Hotell
 
@@ -82,7 +82,7 @@ desde Haugesund para disfrutar del marisco, la sopa de pescado y los postres de 
 Liv. Las isla de Rovaer, apenas a 25 minutos en ferry de la ciudad costera de Haugesund, 
 también ofrece muchas actividades culturales. 
 
-![Habitación del Hotel Kultur -Hotell, en la isla de Rovaer Noruega](etheria-images/2018/06/4-Rovaer-Noruega-Kultur-Hotel-1024x655.jpg "Las habitaciones están prácticamente integradas en el fiordo")
+![Habitación del Hotel Kultur -Hotell, en la isla de Rovaer Noruega](https://fotos.etheriamagazine.com/2018/06/4-Rovaer-Noruega-Kultur-Hotel-1024x655.jpg "Las habitaciones están prácticamente integradas en el fiordo")
 
 Los tiempos han cambiado, sigue sin haber coches, pero el ferry navega a Rovaer varias 
 veces al día y en él llegan el médico cuando hace falta, el sacerdote, algún que otro 

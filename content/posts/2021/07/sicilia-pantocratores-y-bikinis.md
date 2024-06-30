@@ -1,7 +1,7 @@
 ---
 title: "Ruta en coche por Sicilia, entre pantocrátores y bikinis"
 date: 2021-07-05
-coverImage: etheria-images/2021/07/sicilia-viaje.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/07/sicilia-viaje.jpg
 categories: 
   - viajes-para-mujeres
 authors: 
@@ -10,7 +10,7 @@ authors:
 
 En Sicilia, situada en una encrucijada del Mediterráneo, hicieron ‘escala’  las antiguas civilizaciones y todas ellas dejaron su huella… en la sabiduría popular, en las conductas sociales, en la gastronomía, y sobre todo ¡en el arte! Y gracias al arte podemos comprobar que el bikini no es tan reciente como imaginábamos (te lo contamos al final).
 
-![villa romana casale sicilia](etheria-images/2018/07/Bikinis-en-la-Villa-Romana-del-Casale-viajes-mujeres-sicilia-1024x460.jpg "Mosaicos de Villa Casale (Piazza Armerina, Sicilia). © Pedro Grifol")
+![villa romana casale sicilia](https://fotos.etheriamagazine.com/2018/07/Bikinis-en-la-Villa-Romana-del-Casale-viajes-mujeres-sicilia-1024x460.jpg "Mosaicos de Villa Casale (Piazza Armerina, Sicilia). © Pedro Grifol")
 
 Lo primero que sorprende nada más llegar al aeropuerto de Palermo, que lleva el nombre 
 de Falcone-Borsellino (en memoria de los dos jueces asesinados por la mafia a principios 
@@ -34,7 +34,7 @@ apropiados para conocer la gastronomía típica, la _street food_ está a la ord
 También hay que ver por dentro el **Teatro Massimo**, donde un tour guiado en español 
 nos recordará la secuencia final de la película _El Padrino III._ Muy recomendable. 
 
-![pantocrator monreale sicilia](etheria-images/2018/07/Monreale-El-pantocrator-de-la-catedral-viajes-mujeres-sicilia-1024x654.jpg "Pantocrátor de la Catedral de Monreale (Sicilia). © Pedro Grifol")
+![pantocrator monreale sicilia](https://fotos.etheriamagazine.com/2018/07/Monreale-El-pantocrator-de-la-catedral-viajes-mujeres-sicilia-1024x654.jpg "Pantocrátor de la Catedral de Monreale (Sicilia). © Pedro Grifol")
 
 ## Ruta de los Pantocrátores de Sicilia
 
@@ -57,7 +57,7 @@ las he contado… pero por ahí le anda). También destaca el **mosaico del baut
 Jesucristo**, en el que aparece desnudo entre las ondulantes aguas del Jordán circunfuso 
 por la mágica aureola divina. ¡Galáctico! 
 
-![capilla palatina palermo](etheria-images/2018/07/Capilla-Palatina-de-Palermo-viajes-mujeres-sicilia-1024x598.jpg "Mosaicos de la Capilla Palatina de Palermo. © Pedro Grifol")
+![capilla palatina palermo](https://fotos.etheriamagazine.com/2018/07/Capilla-Palatina-de-Palermo-viajes-mujeres-sicilia-1024x598.jpg "Mosaicos de la Capilla Palatina de Palermo. © Pedro Grifol")
 
 En **Cefalú**, a 67 km de Palermo, está el tercer pantocrátor importante… la tercera 
 mirada fulminante. Cada una de estas obras del arte medieval tiene un gran peso en la 
@@ -75,7 +75,7 @@ el **Caffé Duomo** en la plaza del pueblo e irnos a dormir… para afrontar, se
 sorpresa que nos aguarda (artísticamente hablando) en otro lugar de la isla. 
 Conduciremos desde Cefalú hasta el centro de Sicilia. 
 
-![playa cefalu viaje mujeres sicilia](etheria-images/2018/07/Palaya-de-Cefalu-mujeres-viaje-sicilia-1024x571.jpg "Playa de Cefalú (Sicilia). © Pedro Grifol")
+![playa cefalu viaje mujeres sicilia](https://fotos.etheriamagazine.com/2018/07/Palaya-de-Cefalu-mujeres-viaje-sicilia-1024x571.jpg "Playa de Cefalú (Sicilia). © Pedro Grifol")
 
 ## Villa Romana del Casale, el tesoro de Piazza Armerina
 
@@ -104,7 +104,7 @@ modernas por llevar bikini?
 
 Sorpresas nos da el viajar por el arte… sorpresas. 
 
-![viaje a sicilia](etheria-images/2021/07/sicilia-viaje.jpg "Sicilia.")
+![viaje a sicilia](https://fotos.etheriamagazine.com/2021/07/sicilia-viaje.jpg "Sicilia.")
 
 ### También te puede interesar...
 

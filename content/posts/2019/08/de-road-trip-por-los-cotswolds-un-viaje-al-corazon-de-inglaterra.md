@@ -1,7 +1,7 @@
 ---
 title: "De road trip por los Cotswolds, un viaje al corazón de Inglaterra"
 date: 2019-08-08
-coverImage: etheria-images/2019/06/viaje-mujeres-cotswolds.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-cotswolds.jpg
 categories: 
   - viajes-48-horas
   - viajes-con-amigas
@@ -20,7 +20,7 @@ Cotswolds, una pintoresca región conformada por los condados de Gloucestershire
 Wiltshire, Worcestershire, Warwickshire y Oxfordshire que hechiza a todo aquel que pone 
 el pie en ella. 
 
-![Casas típicas de los Cotswolds](etheria-images/2019/06/viaje-mujeres-Los-Cotswolds.jpg "Los Cotswolds. © Elena Ortega")
+![Casas típicas de los Cotswolds](https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-Los-Cotswolds.jpg "Los Cotswolds. © Elena Ortega")
 
 La esencia del lugar no reside solo en su belleza. El amplio bagaje cultural de las 
 ciudades que lo rodean (como **Oxford**, situada al este, y **Bath**, al suroeste) es un 
@@ -36,7 +36,7 @@ La arquitectura de los pueblos se compone de elegantes casitas de tejados en pic
 construidas en piedra caliza de tonos tostados, el material común de los Cotswolds. 
 Viviendas rodeadas de jardines, que nos sumergen en una vida de cuento. 
 
-![sendero en Cotswolds](etheria-images/2019/06/viaje-mujeres-cotswolds-senderismo.jpg "Una zona llena de senderos para el disfrute de todos. © E.Ortega")
+![sendero en Cotswolds](https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-cotswolds-senderismo.jpg "Una zona llena de senderos para el disfrute de todos. © E.Ortega")
 
 De estos pueblos parten numerosos **senderos que discurren entre bosques**, tierras de 
 cultivo y prados abiertos para el disfrute de cualquier amante de la naturaleza que 
@@ -53,7 +53,7 @@ vistas. Durante el verano, una zona de lagos ofrece refrescantes baños en su pr
 playa interior, entretenimiento que se complementa con una agenda de actividades 
 ecuestres. 
 
-![casas en Cotswolds](etheria-images/2019/06/viaje-mujeres-cotswolds.jpg "Cualquier época del año es perfecta para conocer el corazón de Inglaterra. © E.Ortega")
+![casas en Cotswolds](https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-cotswolds.jpg "Cualquier época del año es perfecta para conocer el corazón de Inglaterra. © E.Ortega")
 
 Todos estos atractivos se suman al hecho de poder degustar una gastronomía llena de 
 sabor de la mano de históricos pubs en los que mantener interesantes conversaciones con 
@@ -69,7 +69,7 @@ por carreteritas que zigzaguean entre bosques de hayas y prados de flores silves
 Cada pueblo premiará con maravillosas panorámicas, bonitos paseos y los mejores 
 descansos en sus coquetos establecimientos. 
 
-![ovejas pastando en los prados de los Cotswolds](etheria-images/2019/06/viaje-cotswolds-ovejas.jpg "Campos salpicados de ovejas melenudas. © E.Ortega")
+![ovejas pastando en los prados de los Cotswolds](https://fotos.etheriamagazine.com/2019/06/viaje-cotswolds-ovejas.jpg "Campos salpicados de ovejas melenudas. © E.Ortega")
 
 #### Una ruta desde el norte
 
@@ -79,7 +79,7 @@ ciudad donde nació William Shakespeare. La primera parada es el frecuentado pue
 como Barbour y Oxford Co. En la empinada calle del centro, High Street, ascenderemos 
 entre pubs y tiendecitas hasta la parte más alta, donde aguardan las casas más hermosas. 
 
-![El río Windrush en Bourton on the Water.](etheria-images/2019/06/viaje-cotswolds-rio-Windrush-en-Bourton-on-the-Water.jpg "El río Windrush en Bourton on the Water. © E.Ortega")
+![El río Windrush en Bourton on the Water.](https://fotos.etheriamagazine.com/2019/06/viaje-cotswolds-rio-Windrush-en-Bourton-on-the-Water.jpg "El río Windrush en Bourton on the Water. © E.Ortega")
 
 Seguimos la ruta entre caminos que serpentean por campos invadidos de ovejas melenudas 
 para llegar a **Bourton-on-the-Water**. Se trata del pueblo más pequeño de la región y 
@@ -88,7 +88,7 @@ y un té servidos en el jardín de [The Dial House](https://dialhousehotel.com/)
 agradable casa que ofrece alojamiento desde 1698. Muy cerca del hotel, [The Model 
 Village](http://themodelvillage.com) expone una réplica en miniatura del pueblo. 
 
-![The Dial House.](etheria-images/2019/06/viaje-mujeres-cotswolds-The-Dial-House.jpg "The Dial House. © E.Ortega")
+![The Dial House.](https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-cotswolds-The-Dial-House.jpg "The Dial House. © E.Ortega")
 
 La joya de Bourton-on-the-Water es el cristalino **río Windrush**, con puentecitos de 
 piedra y sauces llorones que acicalan el mágico entorno. No es de extrañar que sea de 
@@ -97,7 +97,7 @@ hacer picnics alrededor del río. Si continuamos junto al río, un sendero nos l
 hasta el hechizante pueblo de **Lower Slaughter**. A la entrada nos recibe un antiguo 
 molino de lo más fotogénico. 
 
-![molino en Lower Slaughter.](etheria-images/2019/06/viaje-mujeres-cotswolds-molino-Lower-Slaughter.jpg "Un molino nos recibe en Lower Slaughter. © E.Ortega")
+![molino en Lower Slaughter.](https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-cotswolds-molino-Lower-Slaughter.jpg "Un molino nos recibe en Lower Slaughter. © E.Ortega")
 
 > Desde Lower Slaughter también es posible caminar hasta Upper Slaughter, famoso por su 
 > iglesia St. Peters. 
@@ -114,7 +114,7 @@ A tan solo nueve minutos en coche, **Moreton-in-Marsh** es otra parada indispens
 nuestra ruta. Su tradición comercial, que se remonta nada menos que al siglo XIII, 
 también está muy latente, especialmente los martes cuando se montan más de 200 puestos. 
 
-![calle comercial en Moreton in Marsh](etheria-images/2019/06/viaje-mujeres-Moreton-in-Marsh.jpg "Moreton in Marsh. © E.Ortega")
+![calle comercial en Moreton in Marsh](https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-Moreton-in-Marsh.jpg "Moreton in Marsh. © E.Ortega")
 
 Nuestra ruta continúa hasta la famosa **torre del castillo de Broadway**, desde donde se 
 puede divisar Gales. También caminaremos por la calle principal, una de las más largas 
@@ -134,7 +134,7 @@ Burford o Bourton-on-the-Water. El centro de Chipping Campden está ocupado por 
 soportal con columnas donde, desde el siglo XVII, tiene lugar el mercado. A su alrededor 
 se reparten cafés llenos de vida y tabernas con solera escondidas en patios secretos. 
 
-![plaza en Chipping Campden](etheria-images/2019/06/viaje-mujeres-Chipping-Campden.jpg "Chipping Campden. © E.Ortega")
+![plaza en Chipping Campden](https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-Chipping-Campden.jpg "Chipping Campden. © E.Ortega")
 
 Campden fue precursor de la recuperación del trabajo artesano, algo que se puede 
 apreciar en el **museo de Court Barn** y en las tiendecitas de la calle principal Lower 
@@ -143,7 +143,7 @@ obligatoria. Desde allí podremos perdernos por caminos de infinitos prados y lo
 osados podrán avecinarse a hacer a pie el famoso sendero Cotswolds Way, que en 160 
 kilómetros lleva hasta la ciudad termal de Bath, Patrimonio de la Humanidad desde 1987. 
 
-![Iglesia St. James.](etheria-images/2019/06/viaje-mujeres-Iglesia-St-James.jpg "Iglesia St. James. © E.Ortega")
+![Iglesia St. James.](https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-Iglesia-St-James.jpg "Iglesia St. James. © E.Ortega")
 
 En el vecino y pequeño **Paxford**, [The Churchill Arms](https://www.churchillarms.co/) 
 nos deleitará con platos locales. 

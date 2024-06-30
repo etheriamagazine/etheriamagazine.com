@@ -1,7 +1,7 @@
 ---
 title: "Festival Actual: tu primera cita cultural del año es en Logroño"
 date: 2023-12-14
-coverImage: etheria-images/2023/12/festival-actual-Chica-Sobresalto.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/12/festival-actual-Chica-Sobresalto.jpg
 categories: 
   - organiza-tu-viaje
   - festivales
@@ -16,7 +16,7 @@ encuentro imprescindible para los amantes del arte, la música, el teatro y el c
 por supuesto, para los apasionados de la buena gastronomía porque, sin duda, es el mejor 
 complemento para una escapada a La Rioja. 
 
-![Chica sobresalto actuará en el Festival Actual 2024.](etheria-images/2023/12/festival-actual-Chica-Sobresalto.jpg "Chica sobresalto actuará en el Festival Actual 2024.")
+![Chica sobresalto actuará en el Festival Actual 2024.](https://fotos.etheriamagazine.com/2023/12/festival-actual-Chica-Sobresalto.jpg "Chica sobresalto actuará en el Festival Actual 2024.")
 
 Logroño inaugurará, recién comenzado el nuevo año, la temporada cultural de nuestro país 
 con su reconocido **Festival Actual**. Esta cita con la cultura se ha convertido en una 
@@ -38,7 +38,7 @@ llevan a cabo en ubicaciones especiales como [Bodegas
 Franco-Españolas](https://etheriamagazine.com/2023/06/26/bodegas-franco-espanolas-noches-vino-cine/), 
 La Gota de Leche, el Círculo Logroñés o el Cubo del Revellín, entre otras. 
 
-![Valeria Castro, que estuvo nominada en los Latin Grammy 2023, actuará en el Festival Actual.](etheria-images/2023/12/Valeria-Castro.jpg "Valeria Castro, que estuvo nominada en los Latin Grammy 2023, actuará en el Festival Actual.")
+![Valeria Castro, que estuvo nominada en los Latin Grammy 2023, actuará en el Festival Actual.](https://fotos.etheriamagazine.com/2023/12/Valeria-Castro.jpg "Valeria Castro, que estuvo nominada en los Latin Grammy 2023, actuará en el Festival Actual.")
 
 ## Por qué no debes perdértelo
 
@@ -60,7 +60,7 @@ teatro y el micro-teatro, exposiciones de fotografía, pintura, escultura, cómi
 familias también pueden participar en talleres donde los niños aprenderán a crear 
 panderetas, peces de papel y prismáticos a todo color. 
 
-![Lori Meyers actuará en el Festival Actual de Logroño.](etheria-images/2023/12/festival-actual-lori-meyers.jpg "Lori Meyers actuará en el Festival Actual de Logroño.")
+![Lori Meyers actuará en el Festival Actual de Logroño.](https://fotos.etheriamagazine.com/2023/12/festival-actual-lori-meyers.jpg "Lori Meyers actuará en el Festival Actual de Logroño.")
 
 ## Programa musical en la edición 2024
 
@@ -77,7 +77,7 @@ asesino**, **Lori Meyers** y **Ojete Calor** (4 de enero en Palacio de los Depor
 ✅ Si estáis interesados en asistir a los conciertos, existe la posibilidad de adquirir 
 entradas individuales de un día (27€) o bien abonos de dos días (52€). 
 
-![Mutagénicos actuará en las Bodegas Franco Españolas.](etheria-images/2023/12/festival-actual-Mutagenicos.jpg "Mutagénicos actuará en las Bodegas Franco Españolas de Logroño.")
+![Mutagénicos actuará en las Bodegas Franco Españolas.](https://fotos.etheriamagazine.com/2023/12/festival-actual-Mutagenicos.jpg "Mutagénicos actuará en las Bodegas Franco Españolas de Logroño.")
 
 ### Vermú Torero y Café Cantante
 
@@ -91,7 +91,7 @@ Ruiz y Alberto Moreno “El Cucharillas”. Dos horas más tarde, le llegará su
 música urbana en **La Gota de Leche**, con N de Nico, Maloa Brothers, Lena Makana, Low 
 Cost Trip, Rhá & Vieltán y Flaquito Apache. 
 
-![Alberto Moreno actuará en el Círculo Logroñés.](etheria-images/2023/12/festival-actual-Alberto-Moreno.jpg "Alberto Moreno actuará en el Círculo Logroñés.")
+![Alberto Moreno actuará en el Círculo Logroñés.](https://fotos.etheriamagazine.com/2023/12/festival-actual-Alberto-Moreno.jpg "Alberto Moreno actuará en el Círculo Logroñés.")
 
 ### Guerra de bandas y Actual Free Tour
 
@@ -101,7 +101,7 @@ y **Actual Free Tour** (6 enero). Este último consiste en una original **ruta t
 y cultural** organizada por Rioja Filarmonía que recorre espacios emblemáticos del 
 centro de Logroño con cuatro actuaciones de diversos formatos a lo largo del recorrido. 
 
-![En la Sala Negra se podrá presenciar Perséfone.](etheria-images/2023/12/festival-actual-Persefone.jpg "En la Sala Negra se podrá presenciar Perséfone.")
+![En la Sala Negra se podrá presenciar Perséfone.](https://fotos.etheriamagazine.com/2023/12/festival-actual-Persefone.jpg "En la Sala Negra se podrá presenciar Perséfone.")
 
 ## Teatro
 
@@ -120,7 +120,7 @@ solo una muestra de las obras que se podrán disfrutar durante estos días de fe
 que se completan con monólogos y espectáculos como _El Partido,_ _Perséfone_, 
 _Gilipollas al poder_, _Gervasio_ y _Blues & Roots_. 
 
-![La película 'La estrella azul' se proyectará en el Teatro Bretón.](etheria-images/2023/12/La-Estrella-Azul-850x356.jpg "La película 'La estrella azul' se proyectará en el Teatro Bretón.")
+![La película 'La estrella azul' se proyectará en el Teatro Bretón.](https://fotos.etheriamagazine.com/2023/12/La-Estrella-Azul-850x356.jpg "La película 'La estrella azul' se proyectará en el Teatro Bretón.")
 
 ## Cine europeo y cortos
 
@@ -131,7 +131,7 @@ ver _Bastarden_ (_The promise land_), _Le successeur_, _Puan_, _La estrella azul
 zone of interest_. Otras películas se exhibirán en horario matutino en la **Filmoteca 
 Rafael Azcona**, mientras que el certamen 'Sueños en Corto' será en el Café Bretón. 
 
-![Exposición 'Girls to the front', hasta el 18 de febrero de 2024.](etheria-images/2023/12/girls-to-front-logrono.jpg "Exposición 'Girls to the front', hasta el 18 de febrero de 2024.")
+![Exposición 'Girls to the front', hasta el 18 de febrero de 2024.](https://fotos.etheriamagazine.com/2023/12/girls-to-front-logrono.jpg "Exposición 'Girls to the front', hasta el 18 de febrero de 2024.")
 
 ## Exposiciones artísticas
 

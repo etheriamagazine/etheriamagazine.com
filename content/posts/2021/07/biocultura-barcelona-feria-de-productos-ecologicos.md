@@ -1,7 +1,7 @@
 ---
 title: "BioCultura, la feria de productos ecológicos y consumo responsable, vuelve a Barcelona"
 date: 2021-07-04
-coverImage: etheria-images/2021/07/biocultura-barcelona-cosmetica.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/07/biocultura-barcelona-cosmetica.jpg
 categories: 
   - planes-originales-para-mujeres
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 BioCultura regresa a Barcelona de forma presencial con más de 400 actividades y talleres de cosmética ecológica, de los cuales habrá 100 online. Una excelente oportunidad para reencontrarse con expositores, comer de forma saludable en un ambiente distendido y ampliar nuestros conocimientos en el sector bio. 
 
-![talleres biocultura](etheria-images/2021/07/biocultura-barcelona-demostracion.jpg "Demostración en Biocultura.")
+![talleres biocultura](https://fotos.etheriamagazine.com/2021/07/biocultura-barcelona-demostracion.jpg "Demostración en Biocultura.")
 
 BioCultura, la feria de productos ecológicos y consumo responsable, se celebrará del 8 
 al 11 de julio en el **Palau Sant Jordi** de Barcelona. Está previsto que en esta 27 
@@ -31,7 +31,7 @@ tres escuelas de hostelería. El maestro de ceremonia será **Xavier Pellicer**,
 del Año en Madrid Fusión y Premio al Mejor Restaurante de Verduras del Mundo en 2018 por 
 la We’re Smart Green Guide. 
 
-![angeles parra biocultura](etheria-images/2021/07/angelesparra-biocultura.jpg "Ángeles Parra, directora de Biocultura.")
+![angeles parra biocultura](https://fotos.etheriamagazine.com/2021/07/angelesparra-biocultura.jpg "Ángeles Parra, directora de Biocultura.")
 
 ## Una feria para recordar los orígenes
 
@@ -58,7 +58,7 @@ Ya sea política o económica.
 > alimentos ecológicos certificados alguna vez, un 47% los consume al menos una vez al mes 
 > y un 33% semanalmente. 
 
-![Moda sostenible en Biocultura.](etheria-images/2021/07/biocultura-compra-moda.jpg "Moda sostenible en Biocultura.")
+![Moda sostenible en Biocultura.](https://fotos.etheriamagazine.com/2021/07/biocultura-compra-moda.jpg "Moda sostenible en Biocultura.")
 
 ## Dónde se celebra Biocultura
 
@@ -69,7 +69,7 @@ la [compra anticipada de
 entradas](https://entradas.biocultura.org/bioculturabarcelona2021), que ya están a la 
 venta[.](https://entradas.biocultura.org/bioculturabarcelona2021) 
 
-![picnic en biocultura](etheria-images/2021/07/biocultura-picnic.jpg "Zona de picnic en Biocultura.")
+![picnic en biocultura](https://fotos.etheriamagazine.com/2021/07/biocultura-picnic.jpg "Zona de picnic en Biocultura.")
 
 ### También te puede interesar
 

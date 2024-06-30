@@ -1,7 +1,7 @@
 ---
 title: "31 escapadas para descubrir este otoño los paisajes del vino"
 date: 2020-09-07
-coverImage: etheria-images/2020/08/ruta-vino-penedes-Enoturismo.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/08/ruta-vino-penedes-Enoturismo.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 Aunque el enoturismo es, en sí mismo, un buen incentivo para lanzarse a recorrer los paisajes españoles, en esta ocasión os invitamos a descubrir la naturaleza que rodea las distintas rutas del vino establecidas. Te proponemos 31 escapadas de un día por todo el territorio para que, vivas donde vivas, descubras la belleza que tienes al lado de casa.
 
-![ruta vino penedes](etheria-images/2020/08/ruta-vino-penedes-Enoturismo.jpg "Enoturismo junto al mar, en la RV Penedés.")
+![ruta vino penedes](https://fotos.etheriamagazine.com/2020/08/ruta-vino-penedes-Enoturismo.jpg "Enoturismo junto al mar, en la RV Penedés.")
 
 Cualquier momento del año se presta a realizar pequeñas excursiones que aúnen un poco de 
 naturaleza, alguna caminata, rutas por pueblos que mantienen la misma impronta desde 
@@ -62,7 +62,7 @@ nuestros pies solo queda una enorme pared terrosa que flanquea el curso de un r�
 son los Cortados del Pisuerga, un paraje geológico, recorrido por una senda que brinda 
 los mejores atardeceres de Valladolid. 
 
-![cortados del pisuerga en ruta vino cigales](etheria-images/2020/08/ruta-vino-cigales-Cortados-del-Pisuerga.jpg "Cortados del Pisuerga, en la RV de Cigales. © Raúl G. Leralta")
+![cortados del pisuerga en ruta vino cigales](https://fotos.etheriamagazine.com/2020/08/ruta-vino-cigales-Cortados-del-Pisuerga.jpg "Cortados del Pisuerga, en la RV de Cigales. © Raúl G. Leralta")
 
 ### Arribes del Duero
 
@@ -91,7 +91,7 @@ cerca del monasterio de Piedra. Arroyos, cascadas, lagos, grutas y senderos en m
 una exuberante naturaleza forman el Parque Jardín Histórico de este antiguo cenobio. Sus 
 aguas proceden de 4 manantiales ubicados a tres metros de profundidad. 
 
-![lago en ruta vino Calatayud](etheria-images/2020/08/ruta-vino-calatayud-lago-espejo.jpg "Lago del Espejo en Monasterio de Piedra, en la Ruta del Vino Calatayud.")
+![lago en ruta vino Calatayud](https://fotos.etheriamagazine.com/2020/08/ruta-vino-calatayud-lago-espejo.jpg "Lago del Espejo en Monasterio de Piedra, en la Ruta del Vino Calatayud.")
 
 ### Playas del Penedès
 
@@ -120,7 +120,7 @@ o isla de San Sadurniño. Ese es el nombre de la torre (ya en ruinas) que se lev
 la Edad Media y que servía para avisar a la población de las incursiones vikingas. La 
 isla tiene hasta una pequeña playa donde, tal vez, puedas extender tu toalla... 
 
-![torre san sadurninoen  ruta vino rias baixas](etheria-images/2020/08/ruta-vino-rias-baixas-isla-San-Sadurnino.jpg "Torre de San Sadurniño, en la RV Rías Baixas. © Raúl Lorenzo")
+![torre san sadurninoen  ruta vino rias baixas](https://fotos.etheriamagazine.com/2020/08/ruta-vino-rias-baixas-isla-San-Sadurnino.jpg "Torre de San Sadurniño, en la RV Rías Baixas. © Raúl Lorenzo")
 
 ### Paseos en Toro
 
@@ -147,7 +147,7 @@ lo largo de siglos un estrecho, profundo y sinuoso cañón, conocido como el des
 de la Yecla. Unas pasarelas metálicas ancladas a las paredes de roca grisácea permiten 
 recorrerlo y admirar las pozas y las cascadas que se esconden en esta quebrada. 
 
-![Desfiladero de La Yecla en ruta vino arlanza](etheria-images/2020/08/ruta-vino-arlanza-desfiladero-de-La-Yecla.jpg "Desfiladero de la Yecla, en la RV Arlanza. © Juan Carlos Utiel")
+![Desfiladero de La Yecla en ruta vino arlanza](https://fotos.etheriamagazine.com/2020/08/ruta-vino-arlanza-desfiladero-de-La-Yecla.jpg "Desfiladero de la Yecla, en la RV Arlanza. © Juan Carlos Utiel")
 
 ### Sendero de la Ribera del Huerva
 
@@ -175,7 +175,7 @@ de la zona, como la que sale de Kripán y va hacia el alto del Avellanal, rodean
 mole rocosa que destaca entre los bosques de hayas, llamada Montorte. Caminando por la 
 cresta de la sierra llegaremos a la ermita rupestre de San Tirso. 
 
-![sierra tolono ruta vino rioja alavesa](etheria-images/2020/08/ruta-vino-rioja-alavesa-sierra-tolono.jpg "Sierra de Toloño, en la Ruta del Vino Rioja Alavesa.")
+![sierra tolono ruta vino rioja alavesa](https://fotos.etheriamagazine.com/2020/08/ruta-vino-rioja-alavesa-sierra-tolono.jpg "Sierra de Toloño, en la Ruta del Vino Rioja Alavesa.")
 
 ### Sierra de San Gervás
 
@@ -201,7 +201,7 @@ Con estos recorridos puedes conocer espacios naturales que van desde las riberas
 como el Ebro, el Oja y el Tirón, hasta bosques y zonas de monte cuando sigas algunos de 
 los que se adentran en el área de la Sierra de Cantabria. 
 
-![senderos del vino en ruta vino rioja alta](etheria-images/2020/08/ruta-vino-rioja-alta-senderos-vino.jpg "Senderos del vino en la Ruta del Vino Rioja Alta.")
+![senderos del vino en ruta vino rioja alta](https://fotos.etheriamagazine.com/2020/08/ruta-vino-rioja-alta-senderos-vino.jpg "Senderos del vino en la Ruta del Vino Rioja Alta.")
 
 ### Cañón del río Leza
 
@@ -214,7 +214,7 @@ encontrarás información sobre la formación geológica, la fauna y la flora de
 entorno, además de un mirador desde el que tendrás algunas de las mejores vistas. En 
 algunos puntos del itinerario también puedes bajar hasta el río. 
 
-![canon rio meza en ruta rioja oriental](etheria-images/2020/08/ruta-rioja-oriental-canon-Leza.jpg "Cañón del río Leza, en la Ruta del Vino Rioja Oriental.")
+![canon rio meza en ruta rioja oriental](https://fotos.etheriamagazine.com/2020/08/ruta-rioja-oriental-canon-Leza.jpg "Cañón del río Leza, en la Ruta del Vino Rioja Oriental.")
 
 ### Riberas de Castronuño
 
@@ -238,7 +238,7 @@ discurre entre robledales, campos de vides, olivares y bosques de alcornoques y
 madroños, y cruza puentes y pequeños cursos de agua. Las intervenciones artísticas que 
 encontrarás a lo largo del recorrido permiten una nueva lectura de ese paisaje. 
 
-![camino de los prodigios en sierra de Francia](etheria-images/2020/08/ruta-vino-sierra-francia-camino-prodigios.jpg "Camino de los Prodigios, en la RV de la Sierra de Francia.")
+![camino de los prodigios en sierra de Francia](https://fotos.etheriamagazine.com/2020/08/ruta-vino-sierra-francia-camino-prodigios.jpg "Camino de los Prodigios, en la RV de la Sierra de Francia.")
 
 ## Paseos por la mitad sur de España
 
@@ -261,7 +261,7 @@ Ronda, una garganta de 500 metros de longitud y 100 de profundidad, con una anch
 Caldera’. El río Guadalevín, que se desploma por una cascada de 35 metros, es el creador 
 de este espectáculo natural. 
 
-![tajo de ronda](etheria-images/2020/08/ruta-vino-ronda-tajo.jpg "Tajo de Ronda, en la Ruta del Vino Ronda y Málaga.")
+![tajo de ronda](https://fotos.etheriamagazine.com/2020/08/ruta-vino-ronda-tajo.jpg "Tajo de Ronda, en la Ruta del Vino Ronda y Málaga.")
 
 ### Lagunas del Sur de Córdoba
 
@@ -301,7 +301,7 @@ pinos siempre están presentes, pero también muchas otras especies botánicas. 
 paneles informativos describen la riqueza botánica, y aspectos relacionados con la 
 geología, la cultura local y la historia. 
 
-![paseo benisa en ruta vino alicante](etheria-images/2020/08/ruta-vino-alicante-paseo-benisa.jpg "Paseo ecológico de Benissa, en la Ruta del Vino Alicante. © Lars ter Meulen")
+![paseo benisa en ruta vino alicante](https://fotos.etheriamagazine.com/2020/08/ruta-vino-alicante-paseo-benisa.jpg "Paseo ecológico de Benissa, en la Ruta del Vino Alicante. © Lars ter Meulen")
 
 ### Paraje Natural El Peral
 
@@ -323,7 +323,7 @@ de pequeño recorrido que se extiende por toda ella. Alberga una extensa masa fo
 pino carrasco, además de diferentes árboles singulares, y es un buen lugar para observar 
 aves rapaces. 
 
-![Sierra de Santa Ana](etheria-images/2020/08/ruta-vino-jumilla-Paisaje-de-la-Buitrera.jpg "Paisaje de la Buitrera en la Sierra de Santa Ana. Ruta del Vino Jumilla.")
+![Sierra de Santa Ana](https://fotos.etheriamagazine.com/2020/08/ruta-vino-jumilla-Paisaje-de-la-Buitrera.jpg "Paisaje de la Buitrera en la Sierra de Santa Ana. Ruta del Vino Jumilla.")
 
 ### Monte Arabí
 
@@ -350,7 +350,7 @@ río, siguiendo los meandros encajonados entre farallones de roca caliza, u otro
 amplio que combina la parte superior de los cañones con los caminos que bajan hasta el 
 agua. 
 
-![rio jucar en Alarcon](etheria-images/2020/08/ruta-vino-manchuela-canon-jucar.jpg "Cañones del Júcar en Alarcón, en la Ruta del Vino Manchuela. © Juanjo Isidro")
+![rio jucar en Alarcon](https://fotos.etheriamagazine.com/2020/08/ruta-vino-manchuela-canon-jucar.jpg "Cañones del Júcar en Alarcón, en la Ruta del Vino Manchuela. © Juanjo Isidro")
 
 ### Hoces del río Cabriel
 

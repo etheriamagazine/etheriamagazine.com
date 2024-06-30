@@ -1,7 +1,7 @@
 ---
 title: "8 exposiciones en Madrid que no puedes perderte"
 date: 2021-05-27
-coverImage: etheria-images/2021/05/Venus-y-Adonis-el-prado.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/05/Venus-y-Adonis-el-prado.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
@@ -15,7 +15,7 @@ hemos seleccionado 8 exposiciones en Madrid que no puedes perderte esta primaver
 verano: arte contemporáneo, mitología, grandes mujeres… Busca un hueco en tu agenda y 
 regálate una tarde de hedonista contemplación del arte. 
 
-![cuadro exposición cuestión de ambiente](etheria-images/2021/05/exposiciones-madrid-cuestion-ambiente.jpg "'Cuestión de ambiente'. Antonio Juez Nieto. 'Heliogábalo', 1926. © Museo de Bellas Artes de Badajoz")
+![cuadro exposición cuestión de ambiente](https://fotos.etheriamagazine.com/2021/05/exposiciones-madrid-cuestion-ambiente.jpg "'Cuestión de ambiente'. Antonio Juez Nieto. 'Heliogábalo', 1926. © Museo de Bellas Artes de Badajoz")
 
 ## ‘Cuestión de ambiente’
 
@@ -33,7 +33,7 @@ puedes encontrar.
 Dónde: CentroCentro. Plaza de Cibeles, 1A. Cuándo: del 24 de junio al 24 de octubre de 
 2021. Precio: entrada gratuita. 
 
-![exposición museo Thyssen](etheria-images/2021/05/exposiciones-madrid-georgia-okeeffe.jpg "Serie I. Nº3, 1918. Georgia O'Keeffe. © Milwaukee Art Museum. VEGAP")
+![exposición museo Thyssen](https://fotos.etheriamagazine.com/2021/05/exposiciones-madrid-georgia-okeeffe.jpg "Serie I. Nº3, 1918. Georgia O'Keeffe. © Milwaukee Art Museum. VEGAP")
 
 ## ‘Georgia O’Keeffe’
 
@@ -51,7 +51,7 @@ Dónde: Museo Thyssen de Madrid. Paseo del Prado, 8. Cuándo: hasta el 8 de agos
 2021. Precio: 13 Euros (general) y 9 Euros (reducida). Gratuita para menores de 18 años 
 y otros colectivos (consultar). 
 
-![Emilia Pardo Bazán](etheria-images/2021/05/exposiciones-madrid-biblioteca-nacional-pardo-bazan.jpg "Exposición sobre Emilia Pardo Bazán en la Biblioteca Nacional. © BNE")
+![Emilia Pardo Bazán](https://fotos.etheriamagazine.com/2021/05/exposiciones-madrid-biblioteca-nacional-pardo-bazan.jpg "Exposición sobre Emilia Pardo Bazán en la Biblioteca Nacional. © BNE")
 
 ## ‘Emilia Pardo Bazán. El reto de la modernidad’
 
@@ -70,7 +70,7 @@ Dónde: Biblioteca Nacional. Sala Recoletos. Paseo de Recoletos, 20-22. Cuándo:
 junio al 26 de septiembre de 2021. Precio: gratuita y libre hasta completar aforo. Se 
 recomienda inscripción previa. 
 
-![exposición Caixaforum](etheria-images/2021/05/exposiciones-madrid-imagen-humana.jpg "'Indira Gandhi story scroll', Sobre 1985, Ajit Chitraker of Theakuachack, India / Retrato de una mujer, alrededor de 100-120 d.C., Saqqara, Egipto. © Trustees of the British Museum")
+![exposición Caixaforum](https://fotos.etheriamagazine.com/2021/05/exposiciones-madrid-imagen-humana.jpg "'Indira Gandhi story scroll', Sobre 1985, Ajit Chitraker of Theakuachack, India / Retrato de una mujer, alrededor de 100-120 d.C., Saqqara, Egipto. © Trustees of the British Museum")
 
 ## ‘La imagen humana. Arte, identidades y simbolismo’
 
@@ -87,7 +87,7 @@ son Henri Matisse, Koya Abe, David Oxtoby o David Hockney, entre otros.
 Dónde: CaixaForum Madrid. Paseo del Prado, 36. Cuándo: hasta el 16 de enero de 2022. 
 Precio: 6 Euros. Gratuita para menores de 16 años y clientes de Caixabank. 
 
-![venus y adonis tiziano museo del prado](etheria-images/2021/05/Venus-y-Adonis-el-prado.jpg "'Venus y Adonis', de Tiziano. © Museo del Prado")
+![venus y adonis tiziano museo del prado](https://fotos.etheriamagazine.com/2021/05/Venus-y-Adonis-el-prado.jpg "'Venus y Adonis', de Tiziano. © Museo del Prado")
 
 ## ‘Pasiones mitológicas: Tiziano, Veronese, Allori, Rubens, Ribera, Poussin, Van Dyck, Velázquez’
 
@@ -105,7 +105,7 @@ Dónde: Museo del Prado. Sala C (Edificio Los Jerónimos). Paseo del Prado. Cuá
 el 4 de julio de 2021. Precio: 15 Euros. Menores de 12 años gratis. Consultar horarios 
 gratutitos. 
 
-![exposiciones temporales en el reina sofia](etheria-images/2021/05/exposiciones-madrid-ida_applebroog.jpg "'Trinity Towers', 1982. Cortesía Ida Applebroog y Hauser & Wirth. © Alex Delfanne")
+![exposiciones temporales en el reina sofia](https://fotos.etheriamagazine.com/2021/05/exposiciones-madrid-ida_applebroog.jpg "'Trinity Towers', 1982. Cortesía Ida Applebroog y Hauser & Wirth. © Alex Delfanne")
 
 ## ‘Ida Applebroog. Marginalias’
 
@@ -123,7 +123,7 @@ Dónde: Museo Reina Sofia. Edificio Sabatini. 1ª Planta. Calle Santa Isabel, 52
 del 1 de junio al 27 de septiembre de 2021. Precio: 10 Euros. Consultar horarios de 
 entrada gratuitos. 
 
-![exposicion temporal museo sorolla](etheria-images/2021/05/exposiciones-madrid-museo-sorolla.jpg "Vista de la sala II desde la rotonda del salón. Lluís Casals. 2011-2019. © Museo Sorolla")
+![exposicion temporal museo sorolla](https://fotos.etheriamagazine.com/2021/05/exposiciones-madrid-museo-sorolla.jpg "Vista de la sala II desde la rotonda del salón. Lluís Casals. 2011-2019. © Museo Sorolla")
 
 ## ‘Poéticas de una casa. Fotografías de Lluís Casals’
 
@@ -138,7 +138,7 @@ forma, muestra la casa de Sorolla como un templo dedicado a la belleza y el arte
 Dónde: Museo Sorolla. Paseo del General Martínez Campos, 37. Cuándo: hasta el 20 de 
 junio de 2021. Precio: 3 Euros (entrada general), 1.5 Euros (entrada reducida). 
 
-![exposiciones en el retiro](etheria-images/2021/05/exposiciones-madrid-pep_agut.jpg "Vista de la exposición de Pep Agut. © Museo Reina Sofía")
+![exposiciones en el retiro](https://fotos.etheriamagazine.com/2021/05/exposiciones-madrid-pep_agut.jpg "Vista de la exposición de Pep Agut. © Museo Reina Sofía")
 
 ## ‘Pep Agut. Meridiano de Madrid: sueño y mentira’
 

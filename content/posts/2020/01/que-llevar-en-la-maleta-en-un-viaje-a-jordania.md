@@ -1,7 +1,7 @@
 ---
 title: "Qué llevar en la maleta en un viaje a Jordania"
 date: 2020-01-23
-coverImage: etheria-images/2020/01/consejos-maleta-viaje-jordania.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/01/consejos-maleta-viaje-jordania.jpg
 categories: 
   - organiza-tu-viaje
   - que-llevar-en-la-maleta
@@ -14,7 +14,7 @@ authors:
 porque te vamos a decir qué es lo que tienes que llevar obligatoriamente en la maleta y 
 esas otras cosas que, sin ser imprescindibles, te vendrán bien. 
 
-![Consejos para hacer la maleta en un viaje a Jordania.](etheria-images/2020/01/consejos-maleta-viaje-jordania-900x711.jpg "Consejos para hacer la maleta en un viaje a Jordania. © Alice Donovan")
+![Consejos para hacer la maleta en un viaje a Jordania.](https://fotos.etheriamagazine.com/2020/01/consejos-maleta-viaje-jordania-900x711.jpg "Consejos para hacer la maleta en un viaje a Jordania. © Alice Donovan")
 
 Viajar a Jordania es uno de esos sueños acariciados durante mucho tiempo por la mayoría 
 de los viajeros. Todos hemos imaginado qué sentiríamos al ver, tras atravesar el cañón 
@@ -50,7 +50,7 @@ que no te sude la espalda, pero son más rígidas. Salomon tiene varias propuest
 interesantes en Amazon a un precio razonable, como [esta de 10 
 litros](https://amzn.to/3VDuybc). 
 
-![Algunas opciones de mochilas para Jordania.](etheria-images/2020/01/mochilas-viaje-jordania-900x817.jpg "Algunas opciones de mochilas para Jordania.")
+![Algunas opciones de mochilas para Jordania.](https://fotos.etheriamagazine.com/2020/01/mochilas-viaje-jordania-900x817.jpg "Algunas opciones de mochilas para Jordania.")
 
 ## 2\. Calzados para caminata, ciudad y playa
 
@@ -62,7 +62,7 @@ para las caminatas, las segundas para Ammán y las últimas para duchas y mar Mu
 Merrel tiene muchos modelos que te pueden gustar, uno de ellos es [este que te 
 enlazamos](https://amzn.to/3VK18s1). 
 
-![Botas de senderismo o trekking y chanclas.](etheria-images/2020/01/calzado-viaje-jordania-900x483.jpg "Botas de senderismo o trekking y chanclas.")
+![Botas de senderismo o trekking y chanclas.](https://fotos.etheriamagazine.com/2020/01/calzado-viaje-jordania-900x483.jpg "Botas de senderismo o trekking y chanclas.")
 
 ##  3. Cortavientos, polar y pantalones
 
@@ -71,7 +71,7 @@ aconsejable es llevar un cortavientos y dos polares finos que nos podamos poner 
 de forma individual. Olvida el glamour por unos días y usa **pantalones de trekking** 
 (es suficiente con 2) que sean de fácil secado e incluso desmontables. 
 
-![En Decathlon encontrarás polares, cortavientos y pantalones a buen precio.](etheria-images/2020/01/polares-decatlon-900x845.jpg "En Decathlon encontrarás polares, cortavientos y pantalones a buen precio.")
+![En Decathlon encontrarás polares, cortavientos y pantalones a buen precio.](https://fotos.etheriamagazine.com/2020/01/polares-decatlon-900x845.jpg "En Decathlon encontrarás polares, cortavientos y pantalones a buen precio.")
 
 ## 4\. Camisetas, ropa interior y bañador
 
@@ -89,7 +89,7 @@ No olvides incluir un **bañador** para el mar Muerto. A ser posible, uno al que
 tengas mucho cariño porque te embadurnarás de barro y luego es difícil quitar el color 
 gris del mismo. 
 
-![Llevar sombrero o gorra es fundamental.](etheria-images/2020/01/equipaje-jordania-900x643.jpg "Llevar sombrero o gorra es fundamental.")
+![Llevar sombrero o gorra es fundamental.](https://fotos.etheriamagazine.com/2020/01/equipaje-jordania-900x643.jpg "Llevar sombrero o gorra es fundamental.")
 
 ## 5\. Gafas de sol, gorra y fular
 
@@ -108,7 +108,7 @@ el **saco de dormir** es fundamental. También es útil llevar [antifaz](https:/
 (para no despertarte al amanecer) y **tapones** para los oídos, porque los ronquidos de 
 los compañeros de aventura pueden impedirte descansar. 
 
-![Saco sábana y antifaces.](etheria-images/2020/01/saco-sabana-antifaces-jordania-900x494.jpg "Saco sábana y antifaces.")
+![Saco sábana y antifaces.](https://fotos.etheriamagazine.com/2020/01/saco-sabana-antifaces-jordania-900x494.jpg "Saco sábana y antifaces.")
 
 ## 7\. Neceser y botiquín de viaje
 
@@ -125,7 +125,7 @@ antidiarréico, vendas, esparadrapo, tiritas... Puedes comprar un [botiquín
 estándar](https://amzn.to/2NMqmFw) como el de la imagen (que sale por unos 18 €) y 
 completarlo con lo que precises. 
 
-![Botiquín de viaje con todo lo imprescindible](etheria-images/2020/01/botiquin-viaje-jordania-900x589.jpg "Botiquín de viaje con todo lo imprescindible, unos 18 €.")
+![Botiquín de viaje con todo lo imprescindible](https://fotos.etheriamagazine.com/2020/01/botiquin-viaje-jordania-900x589.jpg "Botiquín de viaje con todo lo imprescindible, unos 18 €.")
 
 ## 8\. Cámara de fotos, móvil, linterna y cargadores
 
@@ -145,7 +145,7 @@ Cada día necesitarás beber entre 2 y 3 litros de agua, llévate bolsas de hidr
 botellas rellenables (las de la imagen las venden en [Amazon por un precio entre 15 y 20 
 €](https://amzn.to/2RCJ57C)). 
 
-![Las botellas térmicas mantiene el agua fría.](etheria-images/2020/01/botellas-agua-viaje-deportes-900x446.jpg "Las botellas térmicas mantiene el agua fría.")
+![Las botellas térmicas mantiene el agua fría.](https://fotos.etheriamagazine.com/2020/01/botellas-agua-viaje-deportes-900x446.jpg "Las botellas térmicas mantiene el agua fría.")
 
 ## 10\. Seguro de viaje y dinero
 

@@ -1,7 +1,7 @@
 ---
 title: "Viaje con niños a Costa Rica: aventura en la naturaleza"
 date: 2021-04-20
-coverImage: etheria-images/2018/05/Costa-Rica-rana-e1551175328952.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-rana-e1551175328952.jpg
 categories: 
   - viajes-ecoturismo
   - viaje-en-familia
@@ -16,7 +16,7 @@ perfectos para que disfruten los más pequeños. Además, el país tico tiene ot
 ventajas: es seguro, cómodo y fácil, cualidades que ayudan mucho en los viajes en 
 familia. 
 
-![reserva privada Waterfalls Gardens Costa Rica](etheria-images/2018/05/Costa-Rica-Tucan-e1551175189452.jpg "En la reserva privada Waterfalls Gardens se puede interactuar con los tucanes. © Susana García.")
+![reserva privada Waterfalls Gardens Costa Rica](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Tucan-e1551175189452.jpg "En la reserva privada Waterfalls Gardens se puede interactuar con los tucanes. © Susana García.")
 
 ```
 Actualizado enero 2023
@@ -44,7 +44,7 @@ selvas y ríos, y los respetan con sus tiempos y su propia personalidad. Las vis
 en lugares auténticos, donde los animales los ves o no los ves en función de la suerte 
 que tengas; en la mayoría de los casos ni los invades, ni los molestas. 
 
-![Rana de ojos rojos Costa Rica viajes familia](etheria-images/2018/05/Costa-Rica-rana-e1551175328952.jpg "Rana de ojos rojos.")
+![Rana de ojos rojos Costa Rica viajes familia](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-rana-e1551175328952.jpg "Rana de ojos rojos.")
 
 La fauna es infinita. En Costa Rica las distintas especies te acompañan durante el viaje 
 y se hacen cotidianas: perezosos, colibríes, monos, mariposas, ranas diminutas, iguanas 
@@ -75,7 +75,7 @@ el Sendero de los Tucanes, el Mirador 1968 o en los Senderos del Silencio. Todos
 algo especial y diferente y permiten contemplar una gran variedad de vida silvestre y 
 formaciones de lava. 
 
-![Volcán Arenal Costa Rica en familia](etheria-images/2018/05/Costa-Rica-Volcan-Arenal-e1551175437172.jpg "Volcán Arenal.")
+![Volcán Arenal Costa Rica en familia](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Volcan-Arenal-e1551175437172.jpg "Volcán Arenal.")
 
 Otra de las visitas imprescindibles en un viaje con niños a Costa Rica, aunque sea sólo 
 en una parada en ruta, es el **Volcán Poas**. Ubicado entre paisajes tropicales que 
@@ -83,7 +83,7 @@ quitan la respiración, permite una auténtica clase de geología al permitir vi
 cráter activo del volcán desde un mirador que queda por encima del mismo. Impresionante 
 para pequeños y mayores. 
 
-![volcan Poas en Costa Rica](etheria-images/2018/05/Costa-Rica-crater-volcan-Poas-e1551175472897.jpg "Cráter del volcán Poas. © Susana García.")
+![volcan Poas en Costa Rica](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-crater-volcan-Poas-e1551175472897.jpg "Cráter del volcán Poas. © Susana García.")
 
 ## Tortuguero: el desove de las tortugas
 
@@ -95,7 +95,7 @@ de los monos aulladores. Ya en las lanchas, en las excursiones se descubren aves
 cocodrilos y monos de varios tipos. Una actividad que merece la pena vivir con los 
 pequeños la experiencia de surcar en kayak estos canales. 
 
-![lancha Tortuguero viajes  Costa Rica](etheria-images/2018/05/Costa-Rica-Tortuguero-lancha-e1551175529402.jpg "Lancha en los canales de Tortuguero. © Susana García.")
+![lancha Tortuguero viajes  Costa Rica](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Tortuguero-lancha-e1551175529402.jpg "Lancha en los canales de Tortuguero. © Susana García.")
 
 Si se viaja entre julio y octubre, una de las noches aporta el plato fuerte de la 
 estancia: ver el **desove de las tortugas en la playa**. La excursión en sí ya es una 
@@ -128,7 +128,7 @@ alguna corta donde si quieren se pueden tirar solos.
 ✅ [Excursiones y actividades en 
 Monteverde](https://www.civitatis.com/es/monteverde/?aid=10211). 
 
-![familia en tirolinas de Monteverde Costa Rica](etheria-images/2018/05/Costa-Rica-Monteverde-canopy.jpg "Los monitores acompañan a los niños en las tirolinas de Monteverde. © Susana García.")
+![familia en tirolinas de Monteverde Costa Rica](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Monteverde-canopy.jpg "Los monitores acompañan a los niños en las tirolinas de Monteverde. © Susana García.")
 
 El paseo por por los puentes colgantes (totalmente seguros) da una idea de las 
 dimensiones de este bosque lluvioso y es imprescindible en un viaje con niños a Costa 

@@ -1,7 +1,7 @@
 ---
 title: "Islas Seychelles, el nuevo paraíso para los viajeros españoles"
 date: 2020-11-16
-coverImage: etheria-images/2020/11/islas-seychelles-paraiso.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/11/islas-seychelles-paraiso.jpg
 categories: 
   - viajes-con-amigas
   - viajes-ecoturismo
@@ -12,7 +12,7 @@ authors:
 
 ##### Las islas Seychelles suenan a exotismo, a viaje de lujo, a capricho, a luna de miel, a playas interminables… pero ¿sabrías ubicarlas en un mapa, cómo llegar o qué moneda utilizan? Te ayudamos a preparar tu viaje ya que Seychelles admitirá viajeros españoles a partir del 25 de marzo de 2021 (previo PCR).
 
-![Palmeras y playa de isla de la digue](etheria-images/2020/11/seychelles-luna-miel.jpg "Paradisiaca imagen de La Digue. © Christian Cacciamani")
+![Palmeras y playa de isla de la digue](https://fotos.etheriamagazine.com/2020/11/seychelles-luna-miel.jpg "Paradisiaca imagen de La Digue. © Christian Cacciamani")
 
 El primer país exótico que visitas es como el primer amor o el primer beso, nunca se 
 olvida. Y eso me sucedió con las islas Seychelles. Este fue el primer destino 
@@ -25,7 +25,7 @@ arena finísima que parece polvo o el ritmo pausado de sus gentes. Lo que realme
 lugar seguro, fuera de este mundo, intocable, donde ningún problema o malestar emocional 
 puede traspasar su umbral. 
 
-![playa anse lazio de mahe en seychelles](etheria-images/2020/11/seychelles-mahe-Anse-Lazio.jpg "Playa de Anse Lazio, en Praslín. © Alin Meceanu")
+![playa anse lazio de mahe en seychelles](https://fotos.etheriamagazine.com/2020/11/seychelles-mahe-Anse-Lazio.jpg "Playa de Anse Lazio, en Praslín. © Alin Meceanu")
 
 Quienes ya han recorrido mucho mundo, o son un poco envidiosos, te dirán que prefieren 
 bucear en las Maldivas, que lo pasaron mejor en Bahamas, que las islas Filipinas son 
@@ -36,7 +36,7 @@ Aunque al final te daremos todos los datos prácticos de cómo llegar, su ubicac
 mapa, qué idioma hablan o su moneda oficial... comenzaremos hablándote de los atractivos 
 que más nos llamaron la atención. 
 
-![seychelles en el oceano indico](etheria-images/2020/11/seychelles-oceano-indico.jpg "Las Seychelles están en pleno océano Índico.")
+![seychelles en el oceano indico](https://fotos.etheriamagazine.com/2020/11/seychelles-oceano-indico.jpg "Las Seychelles están en pleno océano Índico.")
 
 ## 6 motivos para enamorarte de las Seychelles
 
@@ -55,7 +55,7 @@ vegetación frondosa, en **Praslín** encontrarás el Parque Natural Valle de Ma
 haya magníficas playas en las otras dos, sino porque aquí se encuentra la más popular 
 del planeta. 
 
-![atardecer en bel ombre isla de mahe](etheria-images/2020/11/seychelles-Bel-Ombre.jpg "Atardecer en Bel Ombre (Isla de Mahé, Seychelles). © Stephane Juban")
+![atardecer en bel ombre isla de mahe](https://fotos.etheriamagazine.com/2020/11/seychelles-Bel-Ombre.jpg "Atardecer en Bel Ombre (Isla de Mahé, Seychelles). © Stephane Juban")
 
 ### 2\. Victoria, la capital más pequeña del mundo
 
@@ -71,7 +71,7 @@ cargada de artesanía, cestas, pareos y especias. Y si tu visita coincide con la
 comer, también encontrarás puestos donde sirven un riquísimo pescado a la brasa con 
 salsas de sabores exóticos. 
 
-![belleza de la mujer se seychelles](etheria-images/2020/11/Seychelles-mujer-local-683x1024.jpg "Joven de Seychelles. © Dario Dido")
+![belleza de la mujer se seychelles](https://fotos.etheriamagazine.com/2020/11/Seychelles-mujer-local-683x1024.jpg "Joven de Seychelles. © Dario Dido")
 
 ### 3\. Source d'Argent, la playa más popular del planeta
 
@@ -84,7 +84,7 @@ salpicada por rocas graníticas rosadas que parecen haber sido cinceladas a mano
 escena es increíble, con un mar cálido y turquesa besando la orilla y la línea de 
 cocoteros custodiando la playa. Esta será tu foto con más ‘likes’. 
 
-![playa la digue mas famosa del mundo](etheria-images/2020/11/seychelles-playa-La-Digue.jpg "Playa Source d'Argent de La Digue. © Sebastien DJ")
+![playa la digue mas famosa del mundo](https://fotos.etheriamagazine.com/2020/11/seychelles-playa-La-Digue.jpg "Playa Source d'Argent de La Digue. © Sebastien DJ")
 
 ### 4\. El Jardín del Edén está en el Valle de Mai
 
@@ -93,7 +93,7 @@ visitar la Reserva Natural del Valle de Mai (Vallée de Mai). Este espacio tropi
 protegido por la Unesco, es un bosque primario de 19 hectáreas formado por palmeras 
 endémicas del archipiélago, que han sobrevivido desde la Prehistoria. 
 
-![rutas por naturaleza seychelles](etheria-images/2020/11/seychelles-naturaleza.jpg "En Seychelles, además de playas, también hay espacios naturales protegidos. © Dan Maisey")
+![rutas por naturaleza seychelles](https://fotos.etheriamagazine.com/2020/11/seychelles-naturaleza.jpg "En Seychelles, además de playas, también hay espacios naturales protegidos. © Dan Maisey")
 
 Entre esas palmeras hay una muy especial, la llamada **Coco de mer** (_Lodoicea 
 Maldivica_), que mide unos 14 metros y tiene un tronco de casi 6 metros de ancho. Y el 
@@ -102,7 +102,7 @@ Los guías te dicen que es el aparato reproductor femenino, ya que este es el Ja
 Edén, y que ¡esperes a ver el tamaño del masculino! Bromas aparte, es muy agradable 
 pasear por esta selva e ir atentos a los sonidos y a las aves que la habitan. 
 
-![semilla coco de mer](etheria-images/2020/11/praslin-coco-de-mer.jpg "Semilla de Coco de mer (Praslin, Seychelles).")
+![semilla coco de mer](https://fotos.etheriamagazine.com/2020/11/praslin-coco-de-mer.jpg "Semilla de Coco de mer (Praslin, Seychelles).")
 
 En Praslin puedes continuar la excursión visitando algunas playas tan espectaculares 
 como anse Lazio y anse Volbert, o navegar hasta el **islote Curieuse**, a un kilómetro, 
@@ -119,7 +119,7 @@ Nacional, para asegurar la conservación de las especies que viven allí. No só
 corales y peces de mil colores, sino también rayas, pequeños tiburones y pulpos. Es una 
 maravilla. 
 
-![nadar con tortugas marinas en seychelles](etheria-images/2020/11/tortuga-marina.jpg "Nadar con tortugas (a cierta distancia) es una experiencia inolvidable.")
+![nadar con tortugas marinas en seychelles](https://fotos.etheriamagazine.com/2020/11/tortuga-marina.jpg "Nadar con tortugas (a cierta distancia) es una experiencia inolvidable.")
 
 ## 6\. Tortugas gigantes, ranas minúsculas y murciélagos enormes
 
@@ -131,7 +131,7 @@ años. En Seychelles tienen su propio santuario en el atolón Aldabra, donde viv
 alejadas de los turistas, pero las puedes ver y acariciar en el islote Curieuse (a un 
 kilómetro de Praslín), donde hay una granja. 
 
-![tortuga gigante de seychelles](etheria-images/2020/11/seychelles-tortuga-gigante.jpg "Tortuga gigante de las islas Seychelles. © Dan Maisey")
+![tortuga gigante de seychelles](https://fotos.etheriamagazine.com/2020/11/seychelles-tortuga-gigante.jpg "Tortuga gigante de las islas Seychelles. © Dan Maisey")
 
 Para encontrar la rana Gardiner (_Sooglossus gardeneri_), la más minúscula del mundo, 
 hay que dirigirse al **Parque Nacional del Morne** (en Mahé). Eso sí, hay que estar muy 
@@ -143,7 +143,7 @@ Y, por último, el **murciélago** al que hacíamos alusión, es el _Pteropus
 seychellensis_, que se alimenta fundamentalmente de fruta. Verlo volar al anochecer, con 
 sus alas extendidas, es sobrecogedor. 
 
-![bat fruit o murcielago de la fruta en seychelles](etheria-images/2020/11/seychelles-Bat-fruit.jpg "Murciélago de la fruta, en Seychelles. © Andy Brunner")
+![bat fruit o murcielago de la fruta en seychelles](https://fotos.etheriamagazine.com/2020/11/seychelles-Bat-fruit.jpg "Murciélago de la fruta, en Seychelles. © Andy Brunner")
 
 Se podrían seguir contando muchas más curiosidades de las Seychelles, pero dejaremos que 
 tú misma descubras el resto de las sorpresas. 
@@ -176,7 +176,7 @@ inglés.
 La moneda de curso legal es la rupia de Seychelles. Para pequeñas compras conviene 
 llevar efectivo, pero en comercios de tamaño mediano aceptan tarjeta sin problema. 
 
-![rocas graniticas en las playas de seychelles](etheria-images/2020/11/seychelles-viajes.jpg "Las playas de Seychelles son todas dignas de postal.")
+![rocas graniticas en las playas de seychelles](https://fotos.etheriamagazine.com/2020/11/seychelles-viajes.jpg "Las playas de Seychelles son todas dignas de postal.")
 
 #### Cuál es el mejor momento para viajar a las Seychelles
 
@@ -199,7 +199,7 @@ doble, e incluso bungalows desde 75 €. En Booking encontrarás algunas opcione
 Lima (Mahé)](https://www.booking.com/hotel/sc/villa-lima.es.html) donde una semana para 
 2 personas te sale por unos 600 €. 
 
-![snorkel o buceo en las seychelles](etheria-images/2020/11/buceo-St-Annes-Seychelles.jpg "Pequeño tiburón rodeado de peces en la isla de St. Anne (Seychelles).")
+![snorkel o buceo en las seychelles](https://fotos.etheriamagazine.com/2020/11/buceo-St-Annes-Seychelles.jpg "Pequeño tiburón rodeado de peces en la isla de St. Anne (Seychelles).")
 
 #### ¿Se puede viajar ahora a Seychelles desde España?
 

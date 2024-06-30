@@ -1,7 +1,7 @@
 ---
 title: "Pano di pinti, el tejido sagrado de Guinea Bissau"
 date: 2020-10-15
-coverImage: etheria-images/2020/10/telares-etnias-guinea-bissau.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/telares-etnias-guinea-bissau.jpg
 categories: 
   - regalos-compras-viajeras
 authors: 
@@ -12,7 +12,7 @@ Existen tejidos con funciones protectoras y que actúan como un talismán durant
 existencia. Uno de ellos es el ‘pano de pinti’, una tela sagrada de Guinea Bissau que 
 elaboran de forma artesanal las etnias Pepel y Manjaka. 
 
-![tejido artesano de guinea bissau](etheria-images/2020/10/telares-etnias-guinea-bissau.jpg "Un tejido artesano con cualidades mágicas en Guinea Bissau.")
+![tejido artesano de guinea bissau](https://fotos.etheriamagazine.com/2020/10/telares-etnias-guinea-bissau.jpg "Un tejido artesano con cualidades mágicas en Guinea Bissau.")
 
 * * *
 
@@ -27,7 +27,7 @@ sari –aunque luego lo utilices para otra cosa–, bonitos manteles guatemaltec
 colores en el mercado de Chichicastenango o, incluso sin salir de España, las preciosas 
 'telas de lenguas' de [Teixits Vicens](https://www.teixitsvicens.com/es/) de Mallorca! 
 
-![pano de pinti tejido de guinea bissau](etheria-images/2020/10/tejido-pano-di-pinti.jpg "Existe muchos diseños y usos que le podrás dar a tu tela de pano de pinti.")
+![pano de pinti tejido de guinea bissau](https://fotos.etheriamagazine.com/2020/10/tejido-pano-di-pinti.jpg "Existe muchos diseños y usos que le podrás dar a tu tela de pano de pinti.")
 
 Esos tejidos que adquirimos en los viajes no son solo objetos de decoración o un 
 complemento personal sino que al ser artesanales llevan historias entretejidas entre los 
@@ -40,7 +40,7 @@ Dichas telas son elaboradas de forma artesanal por las **etnias Pepel y Manjaka*
 Guinea Bissau, desde hace muchas muchas generaciones y pretenden seguir haciéndolo en el 
 futuro. 
 
-![telar artesano en guinea bissau](etheria-images/2020/10/telares-orango-parque-hotel.jpg "Artesano tejiendo un 'pano de pinti' en Guinea Bissau.")
+![telar artesano en guinea bissau](https://fotos.etheriamagazine.com/2020/10/telares-orango-parque-hotel.jpg "Artesano tejiendo un 'pano de pinti' en Guinea Bissau.")
 
 ## Los pano di pinti, un talismán en Guinea Bissau
 
@@ -49,7 +49,7 @@ madera. Son los hombres de las etnias los encargados de realizar esta tarea, es 
 habitual en África que sean ellos, y no las mujeres, a diferencia de otros lugares del 
 mundo. 
 
-![pano de pinti tejido etnias guinea bissau](etheria-images/2020/10/tejido-pano-di-pinti-guinea.jpg "Bonitas telas de pano de pinti, en Guinea Bissau.")
+![pano de pinti tejido etnias guinea bissau](https://fotos.etheriamagazine.com/2020/10/tejido-pano-di-pinti-guinea.jpg "Bonitas telas de pano de pinti, en Guinea Bissau.")
 
 Al tejer estas telas los artesanos persiguen un doble objetivo: que sean **duraderas**, 
 para toda la vida, y que tenga una **función protectora** para quien lo lleva. Al ser 
@@ -66,7 +66,7 @@ protectora, como velo **en la boda**, como **capa en la vejez** y, por último, 
 su dueño en la tumba. De este modo, se cumplirá el ciclo completo del pano di pinti, 
 desde lo terrenal a lo más espiritual. 
 
-![pano de pinti un tejido sagrado en guinea bissau](etheria-images/2020/10/tejidos-guinea-bissau.jpg "El pano de pinti auténtico debe ser de algodón 100%.")
+![pano de pinti un tejido sagrado en guinea bissau](https://fotos.etheriamagazine.com/2020/10/tejidos-guinea-bissau.jpg "El pano de pinti auténtico debe ser de algodón 100%.")
 
 ## ¿Y dónde lo compramos?
 
@@ -77,7 +77,7 @@ algunos jóvenes tejedores están empezando a usar hilos sintéticos para abarat
 así que nuestra recomendación es que compruebes que es fibra de algodón 100%, o que te 
 dejes asesorar. 
 
-![telar de pano de pinti en guinea bissau](etheria-images/2020/10/telares-guinea-bissau-pano-de-pinti-683x1024.jpg "En los telares suelen trabajar hombres.")
+![telar de pano de pinti en guinea bissau](https://fotos.etheriamagazine.com/2020/10/telares-guinea-bissau-pano-de-pinti-683x1024.jpg "En los telares suelen trabajar hombres.")
 
 Si viajas hasta este país, los mejores asesores los encontrarás en **Orango Parque 
 Hotel**, un establecimiento que forma parte de un proyecto de cooperación al desarrollo, 

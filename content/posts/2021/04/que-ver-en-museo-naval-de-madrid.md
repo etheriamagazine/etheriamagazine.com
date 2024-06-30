@@ -1,7 +1,7 @@
 ---
 title: "Conoce el Museo Naval de Madrid y sus 10 piezas imprescindibles"
 date: 2021-04-30
-coverImage: etheria-images/2021/04/expediciones-museo-naval.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/04/expediciones-museo-naval.jpg
 categories: 
   - exposiciones
   - planes-cultura-ocio
@@ -12,7 +12,7 @@ authors:
 
 El Museo Naval de Madrid es uno de los espacios más grandes y completos de España dedicados al mundo de la navegación y a la historia naval española. En sus salas también se narran las principales expediciones y nos permite conocer diversos tipos de embarcaciones, instrumentos científicos, mapas y globos terráqueos.
 
-![entrada museo naval de madrid](etheria-images/2021/04/entrada-museo-naval-madrid.jpg "Hall de entrada al Museo Naval de Madrid. © Etheria M.")
+![entrada museo naval de madrid](https://fotos.etheriamagazine.com/2021/04/entrada-museo-naval-madrid.jpg "Hall de entrada al Museo Naval de Madrid. © Etheria M.")
 
 En una ciudad con una faceta cultural tan desarrollada como Madrid, con algunos de los 
 museos más relevantes del mundo, no es sencillo destacar. Ese puede que sea el motivo de 
@@ -31,7 +31,7 @@ pandemia, no se organizan visitas guiadas, pero **consulta en su web** cuando va
 visitarlo porque son gratuitas y se saca mucho más provecho al itinerario. Si vas con 
 niños, revisa también si hay en ese momento actividades organizadas. 
 
-![fachada museo naval de madrid](etheria-images/2021/04/fachada-museo-naval-madrid.jpg "Fachada del Museo Naval de Madrid. © Etheria Magazine")
+![fachada museo naval de madrid](https://fotos.etheriamagazine.com/2021/04/fachada-museo-naval-madrid.jpg "Fachada del Museo Naval de Madrid. © Etheria Magazine")
 
 ## Dónde está el Museo Naval de Madrid
 
@@ -46,7 +46,7 @@ Thyssen-Bornemisza, el Museo Reina Sofía y el CaixaForum Madrid, no está de m�
 añadas a tu plan de visitas el Museo Naval y el CentroCentro, con varios espacios 
 artísticos y situado en el Palacio de Cibeles. 
 
-![exploradores espanoles museo naval madrid](etheria-images/2021/04/visita-familiar-museo-naval-madrid.jpg "Exploradores y conquistas, una temática que encanta a los niños. © Etheria M.")
+![exploradores espanoles museo naval madrid](https://fotos.etheriamagazine.com/2021/04/visita-familiar-museo-naval-madrid.jpg "Exploradores y conquistas, una temática que encanta a los niños. © Etheria M.")
 
 ## Para qué edad está indicado este museo
 
@@ -63,7 +63,7 @@ globos terráqueos y lienzos con batallas navales.
 > ¿El Museo Naval es sólo para público infantil? Rotundamente, no. Es idóneo para todos 
 > los amantes de los barcos, la historia naval española y la Marina en general. 
 
-![sala permanente de museo naval](etheria-images/2021/04/exposicion-permanente-museo-naval-madrid.jpg "Sala "Donde nunca se pone el sol" del Museo Naval. © Etheria")
+![sala permanente de museo naval](https://fotos.etheriamagazine.com/2021/04/exposicion-permanente-museo-naval-madrid.jpg "Sala "Donde nunca se pone el sol" del Museo Naval. © Etheria")
 
 ## Qué se puede ver en el Museo Naval
 
@@ -82,7 +82,7 @@ astronomía histórica, hasta observar distintos tipos de armas o herramientas e
 en los barcos. Tampoco pasan por alto las expediciones, descubrimientos de los 
 navegantes españoles y retratos de personajes históricos, navegantes y monarcas. 
 
-![mapa juan de la cosa museo naval](etheria-images/2021/04/mapa-juan-cosa-america.jpg "Carta universal de Juan de la Cosa, el primer mapa donde se representa América. © Etheria")
+![mapa juan de la cosa museo naval](https://fotos.etheriamagazine.com/2021/04/mapa-juan-cosa-america.jpg "Carta universal de Juan de la Cosa, el primer mapa donde se representa América. © Etheria")
 
 Intercalados en el itinerario cronológico se sitúan unos **espacios monográficos** donde 
 se desarrollan temáticas concretas a partir de las propias colecciones del museo. 
@@ -94,7 +94,7 @@ recorrido cronológico. En esas amplias y luminosas estancias, que permiten admi
 belleza del edificio, se sitúan reproducciones a escala de barcos, maquetas, mascarones 
 de proa y otros objetos. 
 
-![barcos en museo naval madrid](etheria-images/2021/04/barcos-museo-naval-madrid.jpg "Espacio monográfico del Museo Naval. © Etheria M.")
+![barcos en museo naval madrid](https://fotos.etheriamagazine.com/2021/04/barcos-museo-naval-madrid.jpg "Espacio monográfico del Museo Naval. © Etheria M.")
 
 ## 10 piezas del Museo Naval
 
@@ -119,7 +119,7 @@ un conjunto instrumental náutico y topográfico. Fue fabricado en por Tobías V
 de la Contratación a cargo del impuesto de la “avería”, con el que la hacienda real 
 gravaba a los propietarios de las naos mercantes según el volumen de su carga. 
 
-![galeon flamenco museo naval](etheria-images/2021/04/galeon-flamenco-museo-naval.jpg "Galeón flamenco en el Museo Naval. © Etheria")
+![galeon flamenco museo naval](https://fotos.etheriamagazine.com/2021/04/galeon-flamenco-museo-naval.jpg "Galeón flamenco en el Museo Naval. © Etheria")
 
 **4\. Modelo de Galeón Flamenco** (año 1593). Sala 3. Es una de las pocas 
 representaciones del mundo de una embarcación del siglo XVI. 
@@ -132,7 +132,7 @@ solo se conserva la hoja. Te sorprenderá su gran dimensión.
 Rodríguez Losada, autor del reloj de la Puerta del Sol, cronometrista relojero de Marina 
 y de la cámara de la Reina. Las iniciales de su dueño están formada con diamantes. 
 
-![Reloj de bolsillo de Casto Mendez Nunez](etheria-images/2021/04/reloj-casto-mendez-museo-naval.jpg "Reloj de bolsillo de Casto Méndez Núñez. © Etheria")
+![Reloj de bolsillo de Casto Mendez Nunez](https://fotos.etheriamagazine.com/2021/04/reloj-casto-mendez-museo-naval.jpg "Reloj de bolsillo de Casto Méndez Núñez. © Etheria")
 
 **7\. Modelo de barco de flores (finales del siglo XVIII)**. Sala 5. Construido en 
 Cantón en época de la dinastía Qing. Fue tallado minuciosamente con abundantes elementos 
@@ -144,7 +144,7 @@ este lienzo, Rafael Monleón. Entre julio de 1873 y enero de 1874, la rebelión 
 pretendió instaurar el federalismo sin esperar al cambio de la Constitución. Proclamado 
 el cantón de Cádiz el 19 de julio, el brigadier Eguía sitió el arsenal de La Carraca. 
 
-![porcelana dinastia ming museo naval](etheria-images/2021/04/porcelana-ming-museo-naval-madrid.jpg "Sala con porcelana azul de la Dinastía Ming. © Etheria M.")
+![porcelana dinastia ming museo naval](https://fotos.etheriamagazine.com/2021/04/porcelana-ming-museo-naval-madrid.jpg "Sala con porcelana azul de la Dinastía Ming. © Etheria M.")
 
 #### En las salas monográficas
 
@@ -158,7 +158,7 @@ Ming.
 Fernando VII a Pedro de Lima, primer contramaestre de la Casa Real, tiene tres puentes y 
 112 cañones . 
 
-![camarote comandante fragata museo naval madrid](etheria-images/2021/04/sala-fragata-museo-naval.jpg "Sala "Almirante Julio Guillén Tato". Cámara del Comandante. © Etheria M.")
+![camarote comandante fragata museo naval madrid](https://fotos.etheriamagazine.com/2021/04/sala-fragata-museo-naval.jpg "Sala "Almirante Julio Guillén Tato". Cámara del Comandante. © Etheria M.")
 
 ### Consejos extra
 
@@ -170,7 +170,7 @@ Si vas en fin de semana procura llegar a primera hora porque el Museo Naval de M
 disfruta más en soledad y las colas que se acumulan a media mañana para entrar son 
 importantes. 
 
-![barcos a escala en museo naval](etheria-images/2021/04/salas-monograficas-museo-naval.jpg "Reproducción a escala de un barco, en el Museo Naval. © Etheria M.")
+![barcos a escala en museo naval](https://fotos.etheriamagazine.com/2021/04/salas-monograficas-museo-naval.jpg "Reproducción a escala de un barco, en el Museo Naval. © Etheria M.")
 
 ## La tienda del museo
 
@@ -178,7 +178,7 @@ Los amantes de los barcos y la navegación encontrarán en este lugar bastante
 documentación para saciar sus ansias de conocimientos. Los niños por su parte también 
 descubrirán manuales divertidos, juguetes y bonitos recuerdos. 
 
-![tienda museo naval madrid](etheria-images/2021/04/tienda-museo-naval-recuerdos.jpg "Tienda del Museo Naval de Madrid. © Etheria M.")
+![tienda museo naval madrid](https://fotos.etheriamagazine.com/2021/04/tienda-museo-naval-recuerdos.jpg "Tienda del Museo Naval de Madrid. © Etheria M.")
 
 ### Datos prácticos
 

@@ -1,7 +1,7 @@
 ---
 title: "De viaje a la Eurocopa en Alemania, mucho más que fútbol"
 date: 2024-04-18
-coverImage: etheria-images/2024/04/munich-eurocopa-Olympiapark.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/04/munich-eurocopa-Olympiapark.jpg
 categories: 
   - organiza-tu-viaje
   - experiencias-viajeras
@@ -16,7 +16,7 @@ este verano. En este artículo te contamos cómo lo puedes celebrar en las diez 
 anfitrionas, algunos eventos culturales en torno a la Eurocopa y el precioso lugar donde 
 se va a concentrar la selección española de fútbol. ¡Qué comience a rodar el balón! 
 
-![Red Bull Arena, en la ciudad de Leipzig](etheria-images/2024/04/Leipzig-Eurocopa-Red-Bull-Arena.jpg "Red Bull Arena, en la ciudad de Leipzig. © Leipzig Tourismus und Marketing GmbH/Philipp Kirschner.")
+![Red Bull Arena, en la ciudad de Leipzig](https://fotos.etheriamagazine.com/2024/04/Leipzig-Eurocopa-Red-Bull-Arena.jpg "Red Bull Arena, en la ciudad de Leipzig. © Leipzig Tourismus und Marketing GmbH/Philipp Kirschner.")
 
 Entre el 14 de junio y el 14 de julio las ciudades alemanas se van a volcar con la 
 celebración de la UEFA EURO 2024 que se celebrará en diez de sus ciudades. En total, 
@@ -36,7 +36,7 @@ campeonatos para niños y jóvenes. Durante el campeonato, siete ciudades tendr�
 _football-village_ con entretenimiento, grandes pantallas y espectáculos donde las 
 aficiones visitantes podrán convivir con la alemana, que vive intensamente este deporte. 
 
-![Ambiente frente a la Isla de los Museos en Berlín.](etheria-images/2024/04/Berlin-eurocopa-Bode-Museum.jpg "Ambiente frente a la Isla de los Museos en Berlín. © Francesco Carovillano/GNTB.")
+![Ambiente frente a la Isla de los Museos en Berlín.](https://fotos.etheriamagazine.com/2024/04/Berlin-eurocopa-Bode-Museum.jpg "Ambiente frente a la Isla de los Museos en Berlín. © Francesco Carovillano/GNTB.")
 
 ## Eventos en torno a la EURO 2024
 
@@ -80,7 +80,7 @@ mañana en el Mercado de pescado de Altona. La zona para los aficionados se esta
 en **Heiligengeistfeld** en el corazón del distrito de St. Pauli, con acceso gratuito, 
 proyección de los partidos y zona de entretenimiento en un club de playa. 
 
-![Elbphilharmonie en Hamburgo.](etheria-images/2024/04/Hamburg-eurocopa-Elbphilharmonie.jpg "Elbphilharmonie en Hamburgo. © Francesco Carovillano/GNTB.")
+![Elbphilharmonie en Hamburgo.](https://fotos.etheriamagazine.com/2024/04/Hamburg-eurocopa-Elbphilharmonie.jpg "Elbphilharmonie en Hamburgo. © Francesco Carovillano/GNTB.")
 
 ### Leipzig
 
@@ -107,7 +107,7 @@ obligatorio pedir una Kölsch, la cerveza típica de la ciudad. La zona preparad
 fans con la emisión de partidos y todo el entretenimiento se ubicará en **Heumarkt**, no 
 te la puedes perder para vivir la EURO 2024 con la intensidad que merece. 
 
-![Colonia con la catedral al fondo.](etheria-images/2024/04/colonia-eurocopa-catedral.jpg "Colonia con la catedral al fondo. © Udo Bernhart/GNTB.")
+![Colonia con la catedral al fondo.](https://fotos.etheriamagazine.com/2024/04/colonia-eurocopa-catedral.jpg "Colonia con la catedral al fondo. © Udo Bernhart/GNTB.")
 
 ### Gelsenkirchen
 
@@ -135,7 +135,7 @@ a esta ciudad durante las fechas de la Eurocopa, ten muy en cuenta que después 
 recorrer sus lugares emblemáticos, como la Torre del Rin, la Königsallee o el palacio de 
 Benrath puedes acercarte aquí a tomar algo y a disfrutar del ambiente. 
 
-![La orilla del Rin en Düsseldorf.](etheria-images/2024/04/Dusseldorf-eurocopa-orilla-rin.jpg "La orilla del Rin en Düsseldorf. © Francesco Carovillano/GNTB.")
+![La orilla del Rin en Düsseldorf.](https://fotos.etheriamagazine.com/2024/04/Dusseldorf-eurocopa-orilla-rin.jpg "La orilla del Rin en Düsseldorf. © Francesco Carovillano/GNTB.")
 
 ### Fráncfort
 
@@ -163,7 +163,7 @@ para contemplar las vistas y, por supuesto, una Stößchen (una caña de cerveza
 zona de Kreuzviertel. Si vas a hacer una excursión, una muy buena opción es la **Mina de 
 Zollverein**, en Essen, que fue la mayor mina de carbón del mundo. 
 
-![Museo Alemán del Fútbol](etheria-images/2024/04/Dortmund-eurocopa-museo-futbol.jpg "El Museo Alemán del Fútbol se encuentra en Dortmund. © DZT/Mark Wohlrab Fotodesign.")
+![Museo Alemán del Fútbol](https://fotos.etheriamagazine.com/2024/04/Dortmund-eurocopa-museo-futbol.jpg "El Museo Alemán del Fútbol se encuentra en Dortmund. © DZT/Mark Wohlrab Fotodesign.")
 
 ### Stuttgart
 
@@ -192,7 +192,7 @@ de sus museos, como al Museo Brandhorst, dedicado al arte contemporáneo. Y, por
 supuesto, en Múnich no puede faltar la cerveza acompañada de las salchichas de ternera 
 locales. 
 
-![Olympiapark en Múnich](etheria-images/2024/04/munich-eurocopa-Olympiapark.jpg "En Múnich la Fan Zone estará en Olympiapark. © Francesco Carovillano/GNTB.")
+![Olympiapark en Múnich](https://fotos.etheriamagazine.com/2024/04/munich-eurocopa-Olympiapark.jpg "En Múnich la Fan Zone estará en Olympiapark. © Francesco Carovillano/GNTB.")
 
 ## ¿Dónde se concentra España para la EURO 2024?
 

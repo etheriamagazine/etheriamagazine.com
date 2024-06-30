@@ -1,7 +1,7 @@
 ---
 title: "Cómo disfrutar de Menorca antes o después del verano"
 date: 2018-11-05
-coverImage: etheria-images/2018/10/puerto-ciudadela-menorca.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/10/puerto-ciudadela-menorca.jpg
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ del verano, cuando cierra sus puertas y casi cien mil personas abandonan sus pla
 rincones bañados por el mar. Presta atención porque en este artículo encontrarás 15 
 experiencias que se disfrutan más en Menorca en temporada baja. 
 
-![vistas puerto de mahon](etheria-images/2018/10/viaje-menorca-atardecer-mahon-1024x688.jpg "Atardecer en Mahón. ©P.G./Etheria")
+![vistas puerto de mahon](https://fotos.etheriamagazine.com/2018/10/viaje-menorca-atardecer-mahon-1024x688.jpg "Atardecer en Mahón. ©P.G./Etheria")
 
 **Actualizado en abril 2024** 
 
@@ -34,7 +34,7 @@ paisaje de la isla es posible en otoño o primavera. Pasear y pasar por el Faro 
 Favaritx, Cala Pregonda o Cala en Turqueta es obligado fuera de temporada. Y se puede 
 hacer caminando, en bicicleta… O a caballo. 
 
-![faro de favaritx en menorca](etheria-images/2018/10/Menorca-Faro-Favaritx-1024x682.jpg "Faro de Favaritx.")
+![faro de favaritx en menorca](https://fotos.etheriamagazine.com/2018/10/Menorca-Faro-Favaritx-1024x682.jpg "Faro de Favaritx.")
 
 ## 2\. Ve al sur de la isla
 
@@ -54,7 +54,7 @@ opciones. Su moda relajada se puede encontrar en los escaparates de las tiendas,
 de algunos de sus mejores productos gastronómicos, entre los que no puede faltar la 
 sobrasada entre otros embutidos. Y sus quesos. 
 
-![avarcas en menorca](etheria-images/2018/10/avarcas-Es-Fornels-1024x683.jpg "Las avarcas son el calzado tradicional de Menorca. ©P.G./Etheria Magazine")
+![avarcas en menorca](https://fotos.etheriamagazine.com/2018/10/avarcas-Es-Fornels-1024x683.jpg "Las avarcas son el calzado tradicional de Menorca. ©P.G./Etheria Magazine")
 
 ## 4\. Ciudadela sin gente
 
@@ -64,7 +64,7 @@ pequeños placeres que te puedes dar, con una chaqueta puesta. Si hace sol, sent
 los alrededores de su mercado y probar algo de la gastronomía local es casi obligatorio. 
 Imprescindible contemplar los palacios burgueses que salpican sus calles. 
 
-![catedral de ciudadela en menorca](etheria-images/2018/10/Catedral-ciudadela-1024x669.jpg "Catedral de Ciudadela. ©P.G./Etheria")
+![catedral de ciudadela en menorca](https://fotos.etheriamagazine.com/2018/10/Catedral-ciudadela-1024x669.jpg "Catedral de Ciudadela. ©P.G./Etheria")
 
 ## 5\. Un café en Es Castell
 
@@ -79,7 +79,7 @@ cuando hace sol y no hay demasiado viento. Observar el paisaje de la isla despu�
 visitar el santuario de la Virgen de Monte Toro invita a intentar adivinar la lejanía de 
 sus faros, observar sus fronteras, y comprobar la diversidad de la naturaleza… 
 
-![santuario monte toro](etheria-images/2018/10/Vsitas-monto-toro-menorca-1024x642.jpg "Vista desde el Monte Toro, junto al santuario, el punto más alto de la isla. ©P.G./Etheria")
+![santuario monte toro](https://fotos.etheriamagazine.com/2018/10/Vsitas-monto-toro-menorca-1024x642.jpg "Vista desde el Monte Toro, junto al santuario, el punto más alto de la isla. ©P.G./Etheria")
 
 ## 7\. Mediodía en Mahón
 
@@ -89,7 +89,7 @@ tarde. Raciones, pinchos, cervezas, vinos y pomada –ginebra local con limón�
 sábado. Primero, se pueden observar sus puestos de pescado y marisco y, después, uno se 
 puede animar a tomar algo al ritmo de la música. 
 
-![Dos imágenes de Mahón, el mercado del peix y un palacete](etheria-images/2018/10/Menorca-Mahon-1024x676.jpg "Mercat des Peix (Izq.) e imagen del centro de Mahón (Dcha.) ©Paloma Herce")
+![Dos imágenes de Mahón, el mercado del peix y un palacete](https://fotos.etheriamagazine.com/2018/10/Menorca-Mahon-1024x676.jpg "Mercat des Peix (Izq.) e imagen del centro de Mahón (Dcha.) ©Paloma Herce")
 
 ## 8\. Disfruta del Teatro Principal de Maó (Mahón)
 
@@ -106,7 +106,7 @@ gente, disfrutar de aquellas más desconocidas, es un requisito indiscutible. Pa
 que haya nadie por playas como **Son Bou**, **Platja St. Thomas y Binigaus,** **Cala 
 Tortuga**… Es una satisfacción que solo disfrutan los que viven en la isla todo el año. 
 
-![cala galdana](etheria-images/2018/10/Cala-Galdana-1024x657.jpg "Cala Galdana, una de las calas más conocidas (accesible en coche). ©P.G./Etheria")
+![cala galdana](https://fotos.etheriamagazine.com/2018/10/Cala-Galdana-1024x657.jpg "Cala Galdana, una de las calas más conocidas (accesible en coche). ©P.G./Etheria")
 
 ## 10\. Tomar fotografías
 
@@ -115,7 +115,7 @@ vacíos? ¿El puerto de Ciudadela solo con barcos? ¿La Cova d’en Xoroi sin ge
 fuera de temporada es el escenario perfecto para los amantes de la fotografía. Acércate 
 a todos aquellos lugares en los que los turistas te estropean la foto. 
 
-![puerto de ciudadela en menorca](etheria-images/2018/10/puerto-ciudadela-menorca-1024x639.jpg "Puerto de Ciudadela. ©P.G./Etheria")
+![puerto de ciudadela en menorca](https://fotos.etheriamagazine.com/2018/10/puerto-ciudadela-menorca-1024x639.jpg "Puerto de Ciudadela. ©P.G./Etheria")
 
 ## 11\. Visita Binibeca Nou
 
@@ -135,7 +135,7 @@ impresionante–, el poblado de Trepucó, el talayot de Torelló, la necrópolis
 Morell… Es imprescindible visitar alguno de estos rincones para entender la historia de 
 la isla. 
 
-![Las taulas son un elemento arquitectónico típico de la Prehistoria en Menorca](etheria-images/2018/10/Menorca-prehistoria-taula-1024x682.jpg "Las taulas son un elemento arquitectónico típico de la Prehistoria en Menorca.")
+![Las taulas son un elemento arquitectónico típico de la Prehistoria en Menorca](https://fotos.etheriamagazine.com/2018/10/Menorca-prehistoria-taula-1024x682.jpg "Las taulas son un elemento arquitectónico típico de la Prehistoria en Menorca.")
 
 ## 13\. Menorca, verde y azul: Es Grau
 
@@ -159,7 +159,7 @@ menorquina en mitad del campo, cerca de San Luis. Si está abierto **Paput**
 (paputmenorca.com), en Mahón, acércate a tomar una de sus hamburguesas. ¿Otra 
 recomendación? El restaurante de las **bodegas Binifadet** (binifadet.com). 
 
-![Plato del restaurante Pan y Vino, Y y hamburguesa de Paput](etheria-images/2018/10/Menorca-restaurantes-1024x672.jpg "Plato del restaurante Pan y Vino (Izq.) y hamburguesa de Paput (Dcha.). ©Paloma Herce")
+![Plato del restaurante Pan y Vino, Y y hamburguesa de Paput](https://fotos.etheriamagazine.com/2018/10/Menorca-restaurantes-1024x672.jpg "Plato del restaurante Pan y Vino (Izq.) y hamburguesa de Paput (Dcha.). ©Paloma Herce")
 
 ## 15\. Duerme en sus hoteles boutique o en el interior de la isla
 

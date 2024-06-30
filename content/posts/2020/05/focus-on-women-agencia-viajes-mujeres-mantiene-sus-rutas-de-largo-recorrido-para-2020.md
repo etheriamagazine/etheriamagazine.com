@@ -1,7 +1,7 @@
 ---
 title: "La agencia de viajes Focus on Women mantiene sus rutas de largo recorrido en 2020"
 date: 2020-05-22
-coverImage: etheria-images/2020/05/agencia-viajes-mujeres-fow.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-fow.jpg
 categories: 
   - mujeres-etheria
 authors: 
@@ -12,7 +12,7 @@ La agencia de viajes para mujeres Focus on Women, con Alice Fauveau al frente, c
 la estabilización del sector turístico y mantiene sus programas de largo recorrido a 
 destinos como Japón, Armenia, Vietnam, Sri Lanka, Irán y Madagascar. 
 
-![alice fauveau, focus on women, agencias de viajes para mujeres, destinos 2020](etheria-images/2020/05/Alice-Fauveau-agencia-mujeres-fow.jpg "Alice Fauveau, directora de Focus on Women.")
+![alice fauveau, focus on women, agencias de viajes para mujeres, destinos 2020](https://fotos.etheriamagazine.com/2020/05/Alice-Fauveau-agencia-mujeres-fow.jpg "Alice Fauveau, directora de Focus on Women.")
 
 Focus on Women, una de las empresas pioneras en el segmento de las agencias que 
 organizan viajes en grupo para mujeres, confía en la **experiencia** adquirida en la 
@@ -30,7 +30,7 @@ María Calaf'**, que había lanzado esta temporada, permanece en programación, 
 que otros destinos de larga distancia. Aunque quienes deseen permanecer en territorio 
 nacional también encontrarán alternativas más cercanas. 
 
-![Viajeras de Focus on Women](etheria-images/2020/05/agencia-viajes-mujeres-fow.jpg "Viajeras de Focus on Women.")
+![Viajeras de Focus on Women](https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-fow.jpg "Viajeras de Focus on Women.")
 
 ## Entrevista a Focus on Women, viajes organizados para mujeres
 
@@ -53,7 +53,7 @@ movimiento de viajes para mujeres intentando cambiar la mentalidad de las españ
 eran bastante reticentes a este tipo de viajes cuando los creé. Por lo tanto, esto es 
 **un reto más y una oportunidad** para mejorar las cosas. 
 
-![viajeras en sri lanka, viajeras, focus on women, viajes para mujeres sri lanka](etheria-images/2020/05/FOW-Sri-Lanka.jpg "Grupo de viajeras en Sri Lanka. © Focus on Women")
+![viajeras en sri lanka, viajeras, focus on women, viajes para mujeres sri lanka](https://fotos.etheriamagazine.com/2020/05/FOW-Sri-Lanka.jpg "Grupo de viajeras en Sri Lanka. © Focus on Women")
 
 ### 3\. ¿Consideráis suficientes los recursos estatales que se han ofrecido?
 
@@ -72,7 +72,7 @@ Hemos impulsado un producto que tenemos desde hace años pero que no habíamos t
 tiempo de darle la visibilidad que se merecía en España, y hemos creado un **código 
 FOW-COVID** ligado a nuestra RSC para nuestras viajeras. 
 
-![crucero mekong, vietnam](etheria-images/2019/09/paisaje-rio-vietnam-900x600.jpg "Paisaje fluvial en Vietnam. ©PB")
+![crucero mekong, vietnam](https://fotos.etheriamagazine.com/2019/09/paisaje-rio-vietnam-900x600.jpg "Paisaje fluvial en Vietnam. ©PB")
 
 ### 5\. ¿Qué destinos ofrecéis para el próximo verano?
 
@@ -92,7 +92,7 @@ Lanka, Irán, Madagascar) ya que pensamos que la situación se estabilizará.
 No creemos que cambie el perfil ya que tenemos clientas muy fidelizadas y de un target 
 muy concreto. 
 
-![focus on women, agencia viajeras, viajeras etheria](etheria-images/2020/05/fow-viajes-mujeres.jpg "Grupo de viajeras de Focus on Women.")
+![focus on women, agencia viajeras, viajeras etheria](https://fotos.etheriamagazine.com/2020/05/fow-viajes-mujeres.jpg "Grupo de viajeras de Focus on Women.")
 
 ### 8\. ¿Crees que esta pandemia alterará nuestro modo de viajar?
 

@@ -1,7 +1,7 @@
 ---
 title: "La “pasión india” de Anita Delgado: una vida de película"
 date: 2020-04-13
-coverImage: etheria-images/2020/04/boda-india.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/04/boda-india.jpg
 categories: 
   - historias-en-femenino
   - libros-de-viajes
@@ -12,7 +12,7 @@ authors:
 
 Érase una vez una joven nacida en Málaga que cambió su carrera de bailarina por la de princesa al casarse con el maharajá de Kapurthala, pero, al contrario de lo que ocurre en los cuentos, no vivieron felices ni comieron perdices para siempre... Os contamos la vida de la princesa india Anita Delgado, cuya biografía ha sido narrada en libros y películas.
 
-![Retrato de Anita Delgado.](etheria-images/2020/04/anita-delgado-retrato-900x680.jpg "Retrato de Anita Delgado. © Dominio público / Library of Congress, Washington")
+![Retrato de Anita Delgado.](https://fotos.etheriamagazine.com/2020/04/anita-delgado-retrato-900x680.jpg "Retrato de Anita Delgado. © Dominio público / Library of Congress, Washington")
 
 La vida de Anita Delgado, una joven malagueña de clase media que se convirtió en 
 princesa al casarse con un maharajá indio, no corresponde a ningún cuento de hadas ni a 
@@ -28,7 +28,7 @@ carroza real que el pueblo se limitaba a observar a pie de calle y desde los bal
 del centro de la ciudad. Allí, en medio del gentío, junto a la Puerta del Sol, estaba 
 con su familia la protagonista de esta exótica historia. 
 
-![El Maharajá de Kapurthala con su primera esposa.](etheria-images/2020/04/anita-delgado-majaraja.jpg "El Maharajá de Kapurthala con su primera esposa. Imagen del libro 'Anita Delgado, Maharaní de Kapurthala'.")
+![El Maharajá de Kapurthala con su primera esposa.](https://fotos.etheriamagazine.com/2020/04/anita-delgado-majaraja.jpg "El Maharajá de Kapurthala con su primera esposa. Imagen del libro 'Anita Delgado, Maharaní de Kapurthala'.")
 
 ## Con Pastora Imperio y La Fornarina
 
@@ -48,7 +48,7 @@ ahogos económicos al mando del Café La Castaña, donde la pequeña Anita habí
 su primeras dotes para el baile. Pero, finalmente, los padres de Anita declinaron el 
 ofrecimiento del príncipe. 
 
-![Imagen del libro 'Impressions de mes voyages aux Indes' (1915).](etheria-images/2020/04/anita-delgado-900x541.jpg "Imagen del libro 'Impressions de mes voyages aux Indes' (1915).")
+![Imagen del libro 'Impressions de mes voyages aux Indes' (1915).](https://fotos.etheriamagazine.com/2020/04/anita-delgado-900x541.jpg "Imagen del libro 'Impressions de mes voyages aux Indes' (1915).")
 
 ## La carta que redactó Valle-Inclán
 
@@ -64,7 +64,7 @@ natural, ninguna formación de princesa. Así que le tuvieron que poner institut
 refinar su educación y le enseñaron a vestirse y a peinarse. También aprendió idiomas a 
 marchas forzadas y con éxito. 
 
-![manos pintadas con henna](etheria-images/2020/04/boda-india-900x603.jpg "Anita se casó por el rito sij, con un sari de color grosella. © Marcus Lewis")
+![manos pintadas con henna](https://fotos.etheriamagazine.com/2020/04/boda-india-900x603.jpg "Anita se casó por el rito sij, con un sari de color grosella. © Marcus Lewis")
 
 ## 500 criados y 12 mansiones
 
@@ -85,7 +85,7 @@ _online_). En sus páginas recordaba que las fiestas de su boda fueron grandiosa
 los pobres del reino. Los elefantes enjaezados pasaron delante de la tribuna donde yo me 
 encontraba y la fiesta duró 10 días”. 
 
-![El maharajá de Kapurthala y Anita Delgado en una visita de estado](etheria-images/2020/04/foto-familiar-anita-delgado.jpg "El maharajá de Kapurthala y Anita Delgado en una visita de estado (1915). Imagen del libro 'Anita Delgado, Maharaní de Kapurthala'.")
+![El maharajá de Kapurthala y Anita Delgado en una visita de estado](https://fotos.etheriamagazine.com/2020/04/foto-familiar-anita-delgado.jpg "El maharajá de Kapurthala y Anita Delgado en una visita de estado (1915). Imagen del libro 'Anita Delgado, Maharaní de Kapurthala'.")
 
 ## Libre en un mundo de mujeres esclavas
 
@@ -106,7 +106,7 @@ que nadie las nuevas danzas, entre ellas el tango, y aunque su actitud era rompe
 siempre supo respetar las tradiciones, lo cual le permitió sobrevivir en aquella rancia 
 sociedad. 
 
-![Retrato de Anita Delgado](etheria-images/2020/04/anita-delgado-clan-marbella.jpg "Imagen del libro 'Anita Delgado, Maharaní de Kapurthala'.")
+![Retrato de Anita Delgado](https://fotos.etheriamagazine.com/2020/04/anita-delgado-clan-marbella.jpg "Imagen del libro 'Anita Delgado, Maharaní de Kapurthala'.")
 
 ## París, Málaga, Madrid…
 
@@ -117,7 +117,7 @@ le afectó profundamente. Y es que fue generoso con ella hasta el final de sus d
 su acuerdo de separación había incluido una cuantiosa pensión, la nacionalidad india y 
 su estatus de maharaní. 
 
-![Plaza de Cibeles de Madrid en los años 50.](etheria-images/2020/04/Plaza-de-Cibeles-madrid-anos-cincuenta-900x579.jpg "Plaza de Cibeles de Madrid en los años 50. © CC")
+![Plaza de Cibeles de Madrid en los años 50.](https://fotos.etheriamagazine.com/2020/04/Plaza-de-Cibeles-madrid-anos-cincuenta-900x579.jpg "Plaza de Cibeles de Madrid en los años 50. © CC")
 
 La biografía de Anita Delgado también está llena de lagunas y versiones contradictorias. 
 Hay quien dice que el motivo de su separación fue el descubrimiento de una nueva 
@@ -132,7 +132,7 @@ quien mantuvo un idilio que apenas duró unos meses. Hasta que llegó su último
 de **Ginés Rodríguez,** un hombre que se quedó viudo de una prima carnal suya y que 
 acabó redactando las últimas memorias de la ilustre malagueña. 
 
-![Retrato de Juan Belmonte pintado por Zuloaga en 1924.](etheria-images/2020/04/belmonte-retrato-zuloaga.jpg "Retrato de Juan Belmonte pintado por Zuloaga en 1924.")
+![Retrato de Juan Belmonte pintado por Zuloaga en 1924.](https://fotos.etheriamagazine.com/2020/04/belmonte-retrato-zuloaga.jpg "Retrato de Juan Belmonte pintado por Zuloaga en 1924.")
 
 Anita Delgado murió en Madrid en 1962 a causa de un problema de corazón. Tenía 72 años. 
 Su hijo falleció 20 años después en Nueva Delhi. Y a su muerte, casi todo su legado pasó 

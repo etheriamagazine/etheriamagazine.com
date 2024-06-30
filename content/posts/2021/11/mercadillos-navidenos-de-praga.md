@@ -1,7 +1,7 @@
 ---
 title: "Mercadillos navideños de Praga, una buena excusa para viajar a Chequia"
 date: 2021-11-10
-coverImage: etheria-images/2021/11/mercadillos-Praga.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/mercadillos-Praga.jpg
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
@@ -15,7 +15,7 @@ aromas y campanillas. Pero no sólo los praguenses celebran estas fechas sino qu
 Brno, Pilsen, Karlovy Vary, Kutná Hora o Český Krumlov también se organizan para pasarlo 
 bien en las fiestas navideñas. 
 
-![Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga.](etheria-images/2021/11/mercadillos-Praga.jpg "Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga. © Libor Svácek")
+![Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga.](https://fotos.etheriamagazine.com/2021/11/mercadillos-Praga.jpg "Mercadillo navideño de la Plaza de la Ciudad Vieja, en Praga. © Libor Svácek")
 
 **Actualizado 11/2023** 
 
@@ -27,7 +27,7 @@ visitantes. Estos son el **mercadillo de la Plaza de la Ciudad Vieja** (2 de dic
 de 2023 al 6 de enero de 2024) y el **mercadillo de la Plaza de la República** (2 al 30 
 de diciembre de 2023). 
 
-![Árbol de Navidad de Praga.](etheria-images/2021/11/mercados-navidad-Praga.jpg "Árbol de Navidad de Praga. © Julie Vrábelová")
+![Árbol de Navidad de Praga.](https://fotos.etheriamagazine.com/2021/11/mercados-navidad-Praga.jpg "Árbol de Navidad de Praga. © Julie Vrábelová")
 
 ## Qué hacer en los mercadillos navideños de Praga
 
@@ -40,7 +40,7 @@ probar algunas _delicatesen_ de estas fechas como los **trdelník**, un bizcocho
 en azúcar y canela; **medovina**, un tipo de ronmiel; o los más conocidos vinos (svařák) 
 o ponches calientes (punč). 
 
-![Ponche para entrar en calor, una bebida tradicional de estas fechas.](etheria-images/2020/11/ponche-caliente-republica-checa.jpg "Ponche para entrar en calor, una bebida tradicional de estas fechas. © Good Agency")
+![Ponche para entrar en calor, una bebida tradicional de estas fechas.](https://fotos.etheriamagazine.com/2020/11/ponche-caliente-republica-checa.jpg "Ponche para entrar en calor, una bebida tradicional de estas fechas. © Good Agency")
 
 ## Qué más hacer en Praga
 
@@ -70,7 +70,7 @@ vinos de las bodegas Lobkowicz. Un poco más allá también te esperan las bonit
 de Kutná Hora (83 km), Pilsen (95 km), Karlovy Vary (126 km), Český Krumlov (a 170 km) y 
 Brno (207 km). 
 
-![Mercadillo navideño de Pilsen.](etheria-images/2021/11/mercadillo-navidad-pilsen-chequia.jpg "Mercadillo navideño de Pilsen. © Libor Svácek")
+![Mercadillo navideño de Pilsen.](https://fotos.etheriamagazine.com/2021/11/mercadillo-navidad-pilsen-chequia.jpg "Mercadillo navideño de Pilsen. © Libor Svácek")
 
 ### Mercadillos de Pilsen
 
@@ -82,7 +82,7 @@ coros que amenizan el ambiente. Antes de marcharte acude a la catedral gótica d
 Bartolomé para asistir a algún concierto de Adviento o para subir a la torre y admirar 
 una preciosa panorámica navideña con todas las luces encendidas. 
 
-![Loket, un pueblo de cuento.](etheria-images/2021/11/navidad-Loket.jpg "Loket, un pueblo de cuento. © Ladislav Renner")
+![Loket, un pueblo de cuento.](https://fotos.etheriamagazine.com/2021/11/navidad-Loket.jpg "Loket, un pueblo de cuento. © Ladislav Renner")
 
 ### Mercadillos de Karlovy Vary
 
@@ -98,7 +98,7 @@ rellena de chocolate. Si no vas mal de tiempo, a menos de media hora está el **
 de Loket**, donde se organiza el segundo fin de semana de diciembre un taller para 
 aprender a decorar galletas de jengibre y hacer adornos de paja para el árbol. 
 
-![Vista de Český Krumlov con el castillo al fondo.](etheria-images/2021/11/Cesky-Krumlov-navidad-681x1024.jpg "Vista de Český Krumlov con el castillo al fondo. © Libor Svácek")
+![Vista de Český Krumlov con el castillo al fondo.](https://fotos.etheriamagazine.com/2021/11/Cesky-Krumlov-navidad-681x1024.jpg "Vista de Český Krumlov con el castillo al fondo. © Libor Svácek")
 
 ### Mercadillos navideños de Český Krumlov
 
@@ -113,7 +113,7 @@ Recuerda que la fiesta comienza el primer domingo de Adviento con el encendido d
 que lleva regalos a los niños, la recogida de cartas que los pequeños escriben al Niño 
 Jesús o el momento de llevar dulces a los osos del foso del castillo. 
 
-![Mercadillo navideño de Brno.](etheria-images/2021/11/mercadillo-navideno-brno-chequia.jpg "Mercadillo navideño de Brno. © Pavel Gabzyl")
+![Mercadillo navideño de Brno.](https://fotos.etheriamagazine.com/2021/11/mercadillo-navideno-brno-chequia.jpg "Mercadillo navideño de Brno. © Pavel Gabzyl")
 
 ### Mercadillos y música en Brno
 
@@ -126,7 +126,7 @@ donde se suelen colocar una gran variedad de puestos de comida. Si viajas con ni
 disfrutarán especialmente con el tranvía navideño que recorre el centro histórico, un 
 belén con más de cien esculturas de madera y un zoo en miniatura. 
 
-![No te pierdas la misa navideña de Jan Jakub Ryba en Kutná Hora.](etheria-images/2021/11/iglesia-misa-navidad-Kutna-Hora.jpg "No te pierdas la misa navideña de Jan Jakub Ryba en Kutná Hora. © Libor Svácek")
+![No te pierdas la misa navideña de Jan Jakub Ryba en Kutná Hora.](https://fotos.etheriamagazine.com/2021/11/iglesia-misa-navidad-Kutna-Hora.jpg "No te pierdas la misa navideña de Jan Jakub Ryba en Kutná Hora. © Libor Svácek")
 
 ### Kutná Hora, una ciudad Unesco pero también navideña
 

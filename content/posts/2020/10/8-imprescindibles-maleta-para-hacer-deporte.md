@@ -1,7 +1,7 @@
 ---
 title: "8 imprescindibles en tu maleta para hacer deporte cuando viajas"
 date: 2020-10-19
-coverImage: etheria-images/2020/10/viajar-deporte-mujer.jpg
+coverImage: https://fotos.etheriamagazine.com/2020/10/viajar-deporte-mujer.jpg
 categories: 
   - regalos-compras-viajeras
   - organiza-tu-viaje
@@ -16,7 +16,7 @@ alternativas para ponerte en forma en cualquier lugar. Aquí te damos 8 elemento
 podrás llevar en tu maleta para hacer deporte, sin ocupar apenas espacio, para que no 
 pierdas ni un solo día de entrenamiento. 
 
-![Mujer haciendo yoga](etheria-images/2020/10/viajar-deporte-mujer.jpg "No dejes de practicar deporte cuando viajas.")
+![Mujer haciendo yoga](https://fotos.etheriamagazine.com/2020/10/viajar-deporte-mujer.jpg "No dejes de practicar deporte cuando viajas.")
 
 Hoy en día tenemos muy presente lo de mantenernos en forma y, con lo que nos cuesta 
 durante todo el año, no queremos perder el ritmo ni en vacaciones. Aquí te damos 8 
@@ -34,7 +34,7 @@ tobillos en los que puedes elegir el peso que quieres gracias a sus barras
 independientes (como estos de [Amazon](https://amzn.to/3IIR3H8)) o por unas pequeñas 
 pesas como éstas, que puedes encontrar en [Decathlon](https://www.decathlon.es/es/p/mancuernas-vinilo-2-x-1kg-fitness-gym-pilates-nyamba-verde/_/R-p-130386?mc=8336571&c=VERDE). 
 
-![Pesas de Amazon y Decathlon.](etheria-images/2020/10/deporte-viajes-pesas-1.jpg "Pesas de Amazon y Decathlon.")
+![Pesas de Amazon y Decathlon.](https://fotos.etheriamagazine.com/2020/10/deporte-viajes-pesas-1.jpg "Pesas de Amazon y Decathlon.")
 
 ## 2\. Cinta elástica
 
@@ -42,7 +42,7 @@ Las cintas elásticas han cobrado una gran importancia en las rutinas deportivas
 perfectas para incluirlas en el equipaje ya que no abultan nada y permiten realizar 
 multitud de ejercicios y estiramientos, tanto de fitness como de yoga o pilates. 
 
-![Cintas elásticas para entrenamiento de Amazon y Decathlon.](etheria-images/2020/10/entrenamiento-cintas-elasticas.jpg "Cintas elásticas para entrenamiento de Amazon y Decathlon.")
+![Cintas elásticas para entrenamiento de Amazon y Decathlon.](https://fotos.etheriamagazine.com/2020/10/entrenamiento-cintas-elasticas.jpg "Cintas elásticas para entrenamiento de Amazon y Decathlon.")
 
 ## 3\. Reloj inteligente
 
@@ -51,7 +51,7 @@ deportivo y existen muchos modelos que combinan bien la estética con sus funcio
 muchas pensadas para las deportistas. Con ellos, además de monitorizar el sueño, tienes 
 información de la frecuencia cardiaca, control de calorías y podómetro. 
 
-![Smartwaches de mujer](etheria-images/2020/10/entrenamiento-relojes-inteligentes.jpg "Dos opciones de relojes inteligentes en Amazon.")
+![Smartwaches de mujer](https://fotos.etheriamagazine.com/2020/10/entrenamiento-relojes-inteligentes.jpg "Dos opciones de relojes inteligentes en Amazon.")
 
 ## 4\. Deportivas para running
 
@@ -65,7 +65,7 @@ Glyde](https://www.decathlon.es/es/p/zapatillas-running-mujer-asics-gel-glyde-4/
 para corredoras pronadoras (las que tienden a apoyar más la parte interior del pie) con 
 una excelente sujeción. 
 
-![Zapatilla de running de Asics Gel Glyde 3](etheria-images/2020/10/deporte-viajes-zapatillas-correr.jpg "Zapatilla de running de Asics Gel Glyde 3 disponible en Decathlon.")
+![Zapatilla de running de Asics Gel Glyde 3](https://fotos.etheriamagazine.com/2020/10/deporte-viajes-zapatillas-correr.jpg "Zapatilla de running de Asics Gel Glyde 3 disponible en Decathlon.")
 
 ## 5\. Sujetador deportivo
 
@@ -78,7 +78,7 @@ es perfecto para ejercicios de alto impacto y este [sujetador de
 running](https://www.decathlon.es/es/p/sujetador-de-running-clasico/_/R-p-308272?mc=8595393&c=NEGRO) 
 es adecuado si sales a correr. 
 
-![Sujetadores deportivos de Decathlon.](etheria-images/2020/10/deporte-viajes-sujetador-deportivo-comodo.jpg "Sujetadores deportivos de Decathlon.")
+![Sujetadores deportivos de Decathlon.](https://fotos.etheriamagazine.com/2020/10/deporte-viajes-sujetador-deportivo-comodo.jpg "Sujetadores deportivos de Decathlon.")
 
 ## 6\. Esterilla
 
@@ -89,7 +89,7 @@ transportarla. Otra opción algo más cara es la esterilla de Adidas, que puedes
 en El Corte Inglés. Y si viajas en avión y tienes poco espacio, este pequeño modelo de [Decathlon](https://www.decathlon.es/es/p/colchoneta-esterilla-pilates-mat-domyos-pequena-50-cm-x-39-cm-x-8-mm/_/R-p-303116?mc=8512036&c=GRIS) 
 te servirá para hacer algunos ejercicios sin apenas restar capacidad a tu maleta. 
 
-![Esterillas ligeras de Amazon y Decathlon.](etheria-images/2020/10/deporte-viajes-esterillas-1.jpg "Esterillas ligeras de Amazon y Decathlon.")
+![Esterillas ligeras de Amazon y Decathlon.](https://fotos.etheriamagazine.com/2020/10/deporte-viajes-esterillas-1.jpg "Esterillas ligeras de Amazon y Decathlon.")
 
 ## 7\. Gafas de sol deportivas
 
@@ -99,7 +99,7 @@ unos bonitos cristales de espejo verdes, y las de [Decathlon](https://www.decath
 naranjas. Nos encanta este modelo que propone [Amazon](https://amzn.to/34V24Rx) y que 
 está disponible en muchos colores. 
 
-![Gafas de sol deportivas](etheria-images/2020/10/deporte-viajes-gafas-sol.jpg "Gafas de sol de Decathlon y Amazon.")
+![Gafas de sol deportivas](https://fotos.etheriamagazine.com/2020/10/deporte-viajes-gafas-sol.jpg "Gafas de sol de Decathlon y Amazon.")
 
 ## 8\. Ropa deportiva
 
@@ -114,7 +114,7 @@ Corte Inglés. Y si lo que practicas es **yoga o pilates** en la habitación del
 del apartamento turístico, tendrás que llevar unos calcetines antideslizantes como los 
 que propone Decathlon. 
 
-![mallas, camiseta y pantalones para deporte](etheria-images/2020/10/deporte-viajar-ropa-mujer.jpg "Ropa deportiva perfecta para los viajes.")
+![mallas, camiseta y pantalones para deporte](https://fotos.etheriamagazine.com/2020/10/deporte-viajar-ropa-mujer.jpg "Ropa deportiva perfecta para los viajes.")
 
 © Fotografías de El Corte Inglés, Decathlon y Amazon. 
 

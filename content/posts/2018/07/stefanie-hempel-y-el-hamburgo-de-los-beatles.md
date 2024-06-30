@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Hempel te lleva por el Hamburgo de los Beatles"
 date: 2018-07-11
-coverImage: etheria-images/2018/07/Tour-hamburgo-los-beatles-5.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg
 categories: 
   - mujeres-que-inspiran
 authors: 
@@ -12,7 +12,7 @@ Stefanie era una niña de la Alemania del Este que vivía en Berlín cuando un s
 de cemento aún separaba las dos Alemanias. Al cumplir los nueve años su padre le regaló 
 un casete de los Beatles que cambiaría su vida para siempre. 
 
-![Stefanie Hempel guía con entusiasmo el tour del Hamburgo de los Beatles.](etheria-images/2018/07/Tour-hamburgo-los-beatles-5-1024x683.jpg "Stefanie Hempel guía con entusiasmo el tour del Hamburgo de los Beatles.")
+![Stefanie Hempel guía con entusiasmo el tour del Hamburgo de los Beatles.](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5-1024x683.jpg "Stefanie Hempel guía con entusiasmo el tour del Hamburgo de los Beatles.")
 
 Primero se enamoró de su música y luego lo hizo de John Lennon, a quien escribía 
 sentidas cartas de amor. Se aprendió las letras de sus canciones y también sus notas, se 
@@ -28,7 +28,7 @@ situados en el controvertido barrio de St. Pauli. Pues como diría el escritor M
 Lewisohn, considerado una autoridad en el rock inglés y especialmente en los Beatles ¡No 
 Hamburgo, no Beatles! 
 
-![En los 60, The Beatles tocaba en Grosse Freiheit 36](etheria-images/2018/07/Tour-hamburgo-los-beatles-1-1024x683.jpg "En los 60, The Beatles tocaba en Grosse Freiheit 36 (Hamburgo).")
+![En los 60, The Beatles tocaba en Grosse Freiheit 36](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-1-1024x683.jpg "En los 60, The Beatles tocaba en Grosse Freiheit 36 (Hamburgo).")
 
 ## Gracias al entusiasmo de Stefi
 
@@ -50,7 +50,7 @@ Lennon, Paul McCarteny, George Harrison y, también y ocasionalmente, Pete Best 
 Sutcliffe. Más tarde, se uniría el famoso y único Ringo Starr, que ya hacía sus pinitos 
 y ascendía escalones musicales en Hamburgo. 
 
-![Aún permanece algún cartel de "Prohibida la entrada a las mujeres".](etheria-images/2018/07/Tour-hamburgo-los-beatles-4-1024x503.jpg "Aún permanece algún cartel de "Prohibida la entrada a las mujeres".")
+![Aún permanece algún cartel de "Prohibida la entrada a las mujeres".](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-4-1024x503.jpg "Aún permanece algún cartel de "Prohibida la entrada a las mujeres".")
 
 ## Ruta de The Beatles en Hamburgo
 
@@ -67,7 +67,7 @@ Aunque, en realidad, surgió de la admiración por el corte de pelo afrancesado 
 fotógrafa Astrid Kirchherr, novia de Stuart Sutcliffe que, en ese tiempo y antes de su 
 prematura muerte, tocaba con los Beatles. 
 
-![El Club Indra es una parada obligada en el tour de los Beatles en Hamburgo.](etheria-images/2018/07/Tour-hamburgo-los-beatles-3-1024x799.jpg "El Club Indra es una parada obligada en el tour de los Beatles en Hamburgo.")
+![El Club Indra es una parada obligada en el tour de los Beatles en Hamburgo.](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-3-1024x799.jpg "El Club Indra es una parada obligada en el tour de los Beatles en Hamburgo.")
 
 Stefanie Hempel termina su recorrido por el apasionante mundo de los Beatles en 
 **Beatles Platz**, la plaza que Hamburgo dedica a la banda y donde se perfilan sus 

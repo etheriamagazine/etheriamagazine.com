@@ -1,7 +1,7 @@
 ---
 title: "Planes en Viena con amigas para vuestro uso y disfrute"
 date: 2022-07-07
-coverImage: etheria-images/2022/07/viena-Maria-Teresa-Platz.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/07/viena-Maria-Teresa-Platz.jpg
 categories: 
   - viajes-con-amigas
   - de-un-vistazo
@@ -13,7 +13,7 @@ authors:
 
 Ciudad cultural por excelencia, Viena conserva casi intacta su huella imperial. Pero la capital austriaca luce otra cara que merece la pena descubrir: la más verde, moderna y refrescante. Una ecléctica combinación que, sin duda, os sorprenderá si viajáis a Viena con amigas.
 
-![Maria Teresa Platz, una de las plazas más espectaculares de Viena](etheria-images/2022/07/viena-Maria-Teresa-Platz.jpg "Maria Teresa Platz, una de las plazas más espectaculares de Viena. © Yolanda Cardo")
+![Maria Teresa Platz, una de las plazas más espectaculares de Viena](https://fotos.etheriamagazine.com/2022/07/viena-Maria-Teresa-Platz.jpg "Maria Teresa Platz, una de las plazas más espectaculares de Viena. © Yolanda Cardo")
 
 En 2001 el centro histórico de Viena fue declarado Patrimonio de la Humanidad por la 
 Unesco. Sus impresionantes plazas y avenidas decoradas con monumentales palacios, 
@@ -32,7 +32,7 @@ conocida, moderna y desenfadada, que merece la pena explorar. Si queréis exprim
 máximo esta urbe imperial en vuestro viaje a Viena con amigas, seguid leyendo porque 
 aquí tenéis todas las claves para una escapada perfecta. 
 
-![Un barco navega por el Danubio a la altura de Viena.](etheria-images/2022/07/viena-crucero-danubio.jpg "Recorrer la ciudad en barco por el Danubio es una magnífica opción. © Yolanda Cardo")
+![Un barco navega por el Danubio a la altura de Viena.](https://fotos.etheriamagazine.com/2022/07/viena-crucero-danubio.jpg "Recorrer la ciudad en barco por el Danubio es una magnífica opción. © Yolanda Cardo")
 
 ## Qué ver en Viena con amigas, planes ideales para todas
 
@@ -48,7 +48,7 @@ Viena, varios museos, la Escuela Española de Equitación, la Biblioteca Naciona
 Austria o los aposentos privados de Francisco José y Sisi, la famosa emperatriz 
 interpretada en la gran pantalla por la inolvidable Romy Schneider. 
 
-![Edificio del palacio de Hofburg en Viena](etheria-images/2022/07/viena-Hofburg.jpg "El Hofburg alberga la estancias privadas de Sisi y Francisco José. © Yolanda Cardo")
+![Edificio del palacio de Hofburg en Viena](https://fotos.etheriamagazine.com/2022/07/viena-Hofburg.jpg "El Hofburg alberga la estancias privadas de Sisi y Francisco José. © Yolanda Cardo")
 
 Otros dos magníficos palacios de visita obligada son el de **Schönbrunn**, antigua 
 residencia de verano de los Habsburgo, uno de los edificios barrocos más hermosos de 
@@ -72,7 +72,7 @@ ciudad. Como también lo son los dulces que cautivaron a la mismísima Sisi de *
 ciudad, tocaron Mozart y Beethoven y en al **Café Museum** acudían Gustave Klimt y Oskar 
 Kokoschka. Os costará elegir entre tanta oferta. 
 
-![Dulces y chocolates en Viena](etheria-images/2022/07/Viena-chocolates.jpg "Viena es un paraíso para las más golosas. © Yolanda Cardo")
+![Dulces y chocolates en Viena](https://fotos.etheriamagazine.com/2022/07/Viena-chocolates.jpg "Viena es un paraíso para las más golosas. © Yolanda Cardo")
 
 ### 3\. Museos en los que te quedarías a vivir 
 
@@ -87,7 +87,7 @@ colección más importante de Egon Schiele; el Museo de Arte Moderno (**MUMOK**)
 santuario de arte de los siglos XX y XXI, con obras de Picasso, Warhol o Yoko Ono; y el 
 Centro de Arquitectura de Viena. 
 
-![Museo Albertina en Viena](etheria-images/2022/07/viena-museo-Albertina.jpg "El Albertina posee una de las colecciones gráficas más grandes del mundo. © Yolanda Cardo")
+![Museo Albertina en Viena](https://fotos.etheriamagazine.com/2022/07/viena-museo-Albertina.jpg "El Albertina posee una de las colecciones gráficas más grandes del mundo. © Yolanda Cardo")
 
 La oferta cultural es inmensa en toda la ciudad. Si queréis contemplar una de las 
 colecciones gráficas más valiosas del mundo, el Albertina es vuestro destino; las 
@@ -100,7 +100,7 @@ historia de la Tierra, entre ellos la Venus de Willendorf con más de 29.500 añ
 antigüedad; y no olvidéis visitar el **Museo Sisi** consagrado a la legendaria 
 emperatriz. 
 
-![Un paseo por la arquitectura de Viena](etheria-images/2022/07/viena-arquitectura.jpg "Si os gusta la arquitectura esta ciudad os encantará. © Yolanda Cardo")
+![Un paseo por la arquitectura de Viena](https://fotos.etheriamagazine.com/2022/07/viena-arquitectura.jpg "Si os gusta la arquitectura esta ciudad os encantará. © Yolanda Cardo")
 
 ### 4\. Parques de Viena, el descanso del viajero  
 
@@ -120,7 +120,7 @@ Prater**, uno de los favoritos de los vieneses para disfrutar de un relajante pa
 practicar deporte al aire libre junto a las aguas del Danubio; el **Stadtpark** (Parque 
 de la Ciudad) o el bellísimo **Volksgarten** con sus más de 3.000 rosales. 
 
-![Mozart en el parque Burggarten de Viena.](etheria-images/2022/07/viena-Mozart-Burggarten.jpg "Una estatua de Mozart en el Burggarten, uno de los hermosos jadines de la ciudad de Viena. © Yolanda Cardo")
+![Mozart en el parque Burggarten de Viena.](https://fotos.etheriamagazine.com/2022/07/viena-Mozart-Burggarten.jpg "Una estatua de Mozart en el Burggarten, uno de los hermosos jadines de la ciudad de Viena. © Yolanda Cardo")
 
 ### 5\. Asistir a un concierto en Viena, una ciudad con banda sonora
 
@@ -142,7 +142,7 @@ empiece el vals! se inaugura el **Vienna Opera Ball**.
 > lugares de residencia, sus locales habituales, sus monumentos y tumbas o los escenarios 
 > de sus triunfos 
 
-![Catedral de San Esteban en Stephansplatz](etheria-images/2022/07/viena-catedral-San-Esteban.jpg "La catedral de San Esteban en Stephansplatz, uno de lo iconos de la ciudad. © Yolanda Cardo")
+![Catedral de San Esteban en Stephansplatz](https://fotos.etheriamagazine.com/2022/07/viena-catedral-San-Esteban.jpg "La catedral de San Esteban en Stephansplatz, uno de lo iconos de la ciudad. © Yolanda Cardo")
 
 ### 6\. Las mejores vistas de Viena
 
@@ -166,7 +166,7 @@ películas como el clásico de Orson Wells, **_El tercer hombre_**. Esta enorme 
 de 62 metros de diámetro y 430 toneladas de peso, que acaba de cumplir 125 años, cuenta 
 con su propio museo y en sus icónicos vagones se pueden celebrar eventos. 
 
-![La noria gigante del Prater, vistas esenciales en un viaje a Viena con amigas](etheria-images/2022/07/viena-noria-Prater.jpg "La noria gigante del Prater con sus inconfundibles vagones rojos. © Yolanda Cardo")
+![La noria gigante del Prater, vistas esenciales en un viaje a Viena con amigas](https://fotos.etheriamagazine.com/2022/07/viena-noria-Prater.jpg "La noria gigante del Prater con sus inconfundibles vagones rojos. © Yolanda Cardo")
 
 ### 7\. Arquitectura moderna (sí, también tiene)
 
@@ -183,7 +183,7 @@ líneas depuradas. La parada de metro más cercana es Kaisermühlen (línea U1).
 excelente idea es regresar al centro caminando por un amplio paseo que atraviesa 
 numerosas zonas verdes mientras disfrutamos de las aguas del gran Danubio. 
 
-![Rascacielos para ver en un viaje a Viena con amigas](etheria-images/2022/07/Viena-rascacielos.jpg "Depurados rascacielos dibujan una Viena bien distinta. © Yolanda Cardo.jpg")
+![Rascacielos para ver en un viaje a Viena con amigas](https://fotos.etheriamagazine.com/2022/07/Viena-rascacielos.jpg "Depurados rascacielos dibujan una Viena bien distinta. © Yolanda Cardo.jpg")
 
 ### 8\. Relax junto al agua en Viena
 
@@ -196,7 +196,7 @@ praderas sombreadas, balnearios públicos o instalaciones deportivas, como el Ma
 Hofbauer, donde alquilan pequeñas embarcaciones para salir a navegar por sus aguas. El 
 lugar perfecto para disfrutar de los calurosos días de verano en la capital austriaca. 
 
-![El Alte Donau es una zona recreativa de gran belleza de Viena](etheria-images/2022/07/viena-Alte-Donau.jpg "El Alte Donau es una zona recreativa de gran belleza perfecta para los meses de verano. © Yolanda Cardo")
+![El Alte Donau es una zona recreativa de gran belleza de Viena](https://fotos.etheriamagazine.com/2022/07/viena-Alte-Donau.jpg "El Alte Donau es una zona recreativa de gran belleza perfecta para los meses de verano. © Yolanda Cardo")
 
 #### Guía de Viena con amigas | Consejos útiles
 

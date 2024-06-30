@@ -1,7 +1,7 @@
 ---
 title: "Mujeres de Tanzania, el turismo como herramienta de empoderamiento"
 date: 2022-03-07
-coverImage: etheria-images/2022/03/mujeres-tanzania-active-woman.jpg
+coverImage: https://fotos.etheriamagazine.com/2022/03/mujeres-tanzania-active-woman.jpg
 categories: 
   - historias-en-femenino
   - mujeres-etheria
@@ -17,7 +17,7 @@ con empresas turísticas como Active Woman sus roles están cambiando.
 
 **Autora: Ana Cortés, de Active Women** 
 
-![mujeres de tanzania saltan alegres con las deportistas de active woman](etheria-images/2022/03/mujeres-tanzania-active-woman.jpg "Equipo de mujeres de Tanzania que hicieron el sueño realidad.")
+![mujeres de tanzania saltan alegres con las deportistas de active woman](https://fotos.etheriamagazine.com/2022/03/mujeres-tanzania-active-woman.jpg "Equipo de mujeres de Tanzania que hicieron el sueño realidad.")
 
 Si ordenamos los países del mundo en función de su índice de desarrollo humano, Tanzania 
 se encuentra en el puesto 163 de un total de 189. Es un territorio pobre, con una gran 
@@ -33,7 +33,7 @@ llevar a cabo tareas domésticas. Y a la escasez de escuelas y a la carencia de
 infraestructuras para llegar hasta ellas, se suma la inseguridad derivada de las 
 agresiones que sufren en el camino. 
 
-![Ekeney Njau y Ana Cortés en Tanzania](etheria-images/2022/03/Ekeney-Njau-y-Ana-Cortes.jpg "Ekeney Njau y Ana Cortés.")
+![Ekeney Njau y Ana Cortés en Tanzania](https://fotos.etheriamagazine.com/2022/03/Ekeney-Njau-y-Ana-Cortes.jpg "Ekeney Njau y Ana Cortés.")
 
 ## El reto de ser porteadora en Tanzania
 
@@ -59,7 +59,7 @@ preguntan por dónde empezar o cómo conseguir el material necesario. Quiero cre
 comunidad para animar a más ya que hay muchas mujeres que se ven obligadas a casarse o a 
 prostituirse porque no tienen dinero”._ 
 
-![mujeres en bicicleta se dirigen al Kilimanjaro](etheria-images/2022/03/tanzania-viajes-mujeres.jpg "De camino al techo de África.")
+![mujeres en bicicleta se dirigen al Kilimanjaro](https://fotos.etheriamagazine.com/2022/03/tanzania-viajes-mujeres.jpg "De camino al techo de África.")
 
 ## 'La magia del Kilimanjaro' de Active Woman
 
@@ -75,7 +75,7 @@ es **facilitar bicicletas a las niñas** de las aldeas circundantes al Kilimanja
 así puedan recorrer los kilómetros que les separan de la escuela de forma segura, rápida 
 y saludable. 
 
-![mujeres en plena ascensión al kilimanjaro y equipo posando ante la cámara](etheria-images/2022/03/aventura-mujeres-Kilimanjaro.jpg "Ascensión al Kilimanjaro.")
+![mujeres en plena ascensión al kilimanjaro y equipo posando ante la cámara](https://fotos.etheriamagazine.com/2022/03/aventura-mujeres-Kilimanjaro.jpg "Ascensión al Kilimanjaro.")
 
 ## Combatir la desigualdad en Tanzania
 
@@ -94,7 +94,7 @@ mujeres y sus familias. Empoderando a las mujeres empoderamos a nuestra sociedad
 África_**, consiguió que el 41,17% del equipo local que nos acompañase en enero del 2022 
 a la cima fueran **mujeres de las aldeas del Kilimanjaro**. 
 
-![mujeres españolas y tanzanas preparadas para subir al kilimanjaro](etheria-images/2022/03/mujeres-espanolas-y-tanzanas.jpg "Equipo de mujeres españolas y tanzanas.")
+![mujeres españolas y tanzanas preparadas para subir al kilimanjaro](https://fotos.etheriamagazine.com/2022/03/mujeres-espanolas-y-tanzanas.jpg "Equipo de mujeres españolas y tanzanas.")
 
 La aventura puede convertirse en una **herramienta para que las mujeres trabajen como 
 guías, porteadoras o asistentes**, para conseguir un salario justo y equitativo con un 
@@ -107,7 +107,7 @@ labor en la igualdad de género y empoderamiento femenino siendo una de las 10 f
 elegidas entre más de 400 proyectos internacionales por el Observatorio del Turismo del 
 Futuro. 
 
-![niñas con sus velos en tanzania sonríen con sus bicicletas](etheria-images/2022/03/bici-ninas-tanzania.jpg "Niñas tanzanas con las bicicletas repartidas en algunas escuelas.")
+![niñas con sus velos en tanzania sonríen con sus bicicletas](https://fotos.etheriamagazine.com/2022/03/bici-ninas-tanzania.jpg "Niñas tanzanas con las bicicletas repartidas en algunas escuelas.")
 
 ## El proyecto solidario Bike4Girls
 
@@ -130,7 +130,7 @@ mantenimiento de bicicletas. Entre sus objetivos está el de generar un impacto 
 positivo a través del programa **_Bike4girls,_** cuya misión es facilitar bicicletas 
 para ir al cole. 
 
-![grupo de la escuela de secundaria TPC a las afueras de Moshi, en la región del Kilimanjaro](etheria-images/2022/03/foto-grupo-tanzania.jpg "Grupo participante en el simposio realizado en la escuela TPC.")
+![grupo de la escuela de secundaria TPC a las afueras de Moshi, en la región del Kilimanjaro](https://fotos.etheriamagazine.com/2022/03/foto-grupo-tanzania.jpg "Grupo participante en el simposio realizado en la escuela TPC.")
 
 ### La bicicleta como motor de cambio
 
@@ -147,7 +147,7 @@ piezas. Pero si se gestiona bien, **una bicicleta en Tanzania es motor de cambio
 revolución**, una herramienta para que las niñas tengan acceso a la educación y por 
 tanto a la posibilidad de crear un futuro mejor, para ellas, su comunidad y su país. 
 
-![un grupo de niñas de Tanzania posa con una sonrisa con sus bicicletas](etheria-images/2022/03/bicicletas-ninas-tanzania.jpg "Un grupo de niñas tanzanas posan felices con sus bicicletas.")
+![un grupo de niñas de Tanzania posa con una sonrisa con sus bicicletas](https://fotos.etheriamagazine.com/2022/03/bicicletas-ninas-tanzania.jpg "Un grupo de niñas tanzanas posan felices con sus bicicletas.")
 
 ## ¿Qué más se puede hacer en Tanzania?
 
@@ -181,7 +181,7 @@ ha significado.
 
 ### Sobre Ana Cortés
 
-![ana cortes subida en una bicicleta](etheria-images/2022/03/Ana-Cortes-active-women.jpg "ana cortés de active woman")
+![ana cortes subida en una bicicleta](https://fotos.etheriamagazine.com/2022/03/Ana-Cortes-active-women.jpg "ana cortés de active woman")
 
 Apasionada de la montaña, la aventura y el deporte ha decidido vivir “hacia lo salvaje”, 
 en conexión con la naturaleza, de forma sencilla, respetuosa y minimalista. En Active 

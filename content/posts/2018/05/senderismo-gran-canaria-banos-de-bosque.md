@@ -1,7 +1,7 @@
 ---
 title: "Senderismo y baños de bosque en Gran Canaria"
 date: 2018-05-03
-coverImage: etheria-images/2018/05/gran-canaria-bosque.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/05/gran-canaria-bosque.jpg
 categories: 
   - viajar-sola
 authors: 
@@ -13,7 +13,7 @@ vivimos en el centro de la península, vemos las islas Canarias como una vía de
 cuanto se presenta la ocasión. Esta vez nos vamos a Gran Canaria pero no para descubrir 
 su universo marino, sino para caminar por el escarpado interior de la isla. 
 
-![viaje aventura, gran canaria, caminatas gran canaria](etheria-images/2018/05/gran-canaria-bosque.jpg "Paisaje de Gran Canaria.")
+![viaje aventura, gran canaria, caminatas gran canaria](https://fotos.etheriamagazine.com/2018/05/gran-canaria-bosque.jpg "Paisaje de Gran Canaria.")
 
 Millones de años de intensa actividad volcánica han modelado Gran Canaria dotándola de 
 esos paisajes quemados y singulares que son tan característicos. Las últimas erupciones 
@@ -34,7 +34,7 @@ decaisnei_) o el incienso canario (_Artemisa canariensis_) además del exuberant
 termófilo (con sus acebuches, lentiscos y almácigos) ¡e incluso huertas! que pueblan el 
 fondo de la caldera. 
 
-![caldera bandama, viaje gran canaria](etheria-images/2018/05/Gran-Canaria-Caldera-de-Bandama-1024x683.jpg "La caldera del extinto volcán Bandama es una de las mayores de Gran Canaria.")
+![caldera bandama, viaje gran canaria](https://fotos.etheriamagazine.com/2018/05/Gran-Canaria-Caldera-de-Bandama-1024x683.jpg "La caldera del extinto volcán Bandama es una de las mayores de Gran Canaria.")
 
 ## Las cumbres más altas
 
@@ -51,7 +51,7 @@ de Tejeda pasando por la Degollada de Las Palomas (8,2 km); la **Ruta 11**, que 
 Cruz de Tejeda al Cruce del Aserrador pasando por el Roque Nublo (11 km); o la **Ruta 
 15** que desciende desde la Degollada Becerra hasta pueblo de Tejeda (6,2 km). 
 
-![tejeda, ruta gran canaria, deporte gran canaria](etheria-images/2018/05/Gran-Canaria-Tejeda-1024x683.jpg "La población de Tejeda es un rincón perfecto para reponerse de la actividad física.")
+![tejeda, ruta gran canaria, deporte gran canaria](https://fotos.etheriamagazine.com/2018/05/Gran-Canaria-Tejeda-1024x683.jpg "La población de Tejeda es un rincón perfecto para reponerse de la actividad física.")
 
 ## Camino de Santiago en Gran Canaria
 
@@ -62,7 +62,7 @@ cubrir a pie esta distancia da derecho a obtener el **jubileo compostelano** igu
 si se hubiera andado alguno de los caminos peninsulares hasta el sepulcro del apóstol. 
 Si nos animamos, son tres etapas y un total de 72 kilómetros. 
 
-![Viaje de Aventura a Gran Canaria población de Temises](etheria-images/2018/05/Gran-Canaria-Temisas.jpg "El caserío de Temises, al fondo, ha sido reconocido por su valor arquitectónico rural.")
+![Viaje de Aventura a Gran Canaria población de Temises](https://fotos.etheriamagazine.com/2018/05/Gran-Canaria-Temisas.jpg "El caserío de Temises, al fondo, ha sido reconocido por su valor arquitectónico rural.")
 
 ## Baños de bosque con Juanate Gil
 

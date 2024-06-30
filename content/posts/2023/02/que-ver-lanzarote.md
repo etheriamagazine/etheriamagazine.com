@@ -1,7 +1,7 @@
 ---
 title: "Guía de Lanzarote: 15 lugares imprescindibles para perderte por la isla"
 date: 2023-02-08
-coverImage: etheria-images/2023/02/lanzarote-vistas.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/02/lanzarote-vistas.jpg
 categories: 
   - de-un-vistazo
 authors: 
@@ -12,7 +12,7 @@ La isla de Lanzarote está llena de paisajes únicos, de esos que atrapan y te h
 querer volver una y otra vez. En este artículo te contamos qué ver en Lanzarote 
 centrándonos en 15 lugares imprescindibles que no pueden faltar cuando visites la isla. 
 
-![Paisaje de Lanzarote.](etheria-images/2023/02/lanzarote-vistas.jpg "Paisaje de Lanzarote.")
+![Paisaje de Lanzarote.](https://fotos.etheriamagazine.com/2023/02/lanzarote-vistas.jpg "Paisaje de Lanzarote.")
 
 Lanzarote es un lugar perfecto para unas vacaciones en cualquier momento del año. A su 
 clima benigno de temperaturas suaves se suma un paisaje impactante que te acompaña 
@@ -41,7 +41,7 @@ circular de seis metros de diámetro rodeada por un muro de piedra que la proteg
 vientos alisios. La uva es la **malvasía volcánica**, endémica de la isla, y su vendimia 
 es la primera de Europa ya que comienza durante el mes de julio. 
 
-![Viñedos de La Geria en Lanzarote](etheria-images/2023/02/Lanzarote-vinedos-geria.jpg "Viñedos de La Geria.")
+![Viñedos de La Geria en Lanzarote](https://fotos.etheriamagazine.com/2023/02/Lanzarote-vinedos-geria.jpg "Viñedos de La Geria.")
 
 Existen 18 bodegas adscritas al consejo regulador y la más antigua (fundada en 1755) es 
 la de su vino más famoso, **El Grifo**. Se puede visitar, alberga también un Museo del 
@@ -63,7 +63,7 @@ al auditorio. En su laguna hay 77 especies endémicas entre las que destaca el c
 ciego, en peligro de extinción. Es un lugar perfecto para recorrer con calma y tomar 
 algo en su agradable restaurante. 
 
-![Piscina de los Jameos del Agua en Lanzarote](etheria-images/2023/02/lanzarote-jameos-agua.jpg "Piscina de los Jameos del Agua.")
+![Piscina de los Jameos del Agua en Lanzarote](https://fotos.etheriamagazine.com/2023/02/lanzarote-jameos-agua.jpg "Piscina de los Jameos del Agua.")
 
 ### Las Salinas de Janubio
 
@@ -76,7 +76,7 @@ alrededor muy interesante. Puedes recorrerla con la [Visita guiada de las Salina
 Janubio](https://www.civitatis.com/es/yaiza/visita-guiada-salinas-janubio/?aid=10211) de 
 Civitatis. 
 
-![Salinas de Janubio.](etheria-images/2023/02/lanzarote-salinas-janubio.jpg "Salinas de Janubio.")
+![Salinas de Janubio.](https://fotos.etheriamagazine.com/2023/02/lanzarote-salinas-janubio.jpg "Salinas de Janubio.")
 
 Además, de la producción de sal surgió una de las costumbres más bonitas y retratadas de 
 Lanzarote: las **alfombras de sal tintada** que se realizan por las calles durante la 
@@ -91,7 +91,7 @@ No te pierdas su molino de gofio, uno de los pocos que quedan en pie en la isla,
 aprovecha para conocer la curiosa cría de la cochinilla, un insecto que se utilizaba 
 como colorante natural para tejidos y alimentos. 
 
-![El Jardín de Cactus de César Manrique.](etheria-images/2023/02/Lanzarote-jardin-cactus.jpg "El Jardín de Cactus de César Manrique.")
+![El Jardín de Cactus de César Manrique.](https://fotos.etheriamagazine.com/2023/02/Lanzarote-jardin-cactus.jpg "El Jardín de Cactus de César Manrique.")
 
 ## Naturaleza
 
@@ -115,7 +115,7 @@ profundidad y el pozo que se realizó para dejar salir el calor se ha convertido
 original horno natural. También pueden hacerse algunas **rutas de senderismo** como la 
 que propone [Civitatis](https://www.civitatis.com/es/tinajo/senderismo-parque-natural-volcanes/?aid=10211). 
 
-![autobus en el Parque Nacional de Timanfaya.](etheria-images/2023/02/Lanzarote-timanfaya.jpg "Paisaje del Parque Nacional de Timanfaya.")
+![autobus en el Parque Nacional de Timanfaya.](https://fotos.etheriamagazine.com/2023/02/Lanzarote-timanfaya.jpg "Paisaje del Parque Nacional de Timanfaya.")
 
 ### El Charco de los Clicos
 
@@ -127,7 +127,7 @@ que está prohibido el baño al encontrase en una zona protegida. Se encuentra a
 minutos de **El Golfo**, una localidad pesquera reluciente por el blanco de sus casas 
 donde merece la pena pararse a degustar un buen pescado en alguno de sus restaurantes. 
 
-![El Charco de los Clicos.](etheria-images/2023/02/lanzarote-laguna-verde.jpg "El Charco de los Clicos.")
+![El Charco de los Clicos.](https://fotos.etheriamagazine.com/2023/02/lanzarote-laguna-verde.jpg "El Charco de los Clicos.")
 
 ### La Cueva de los Verdes
 
@@ -139,7 +139,7 @@ Túnel de la Atlántida. Podrás admirar algunos de sus jameos –como el que se
 puerta de entrada– y no dejes de realizar una visita guiada que recorre un kilómetro de 
 las cuevas y que está lleno de sorpresas. 
 
-![La Cueva de los Verdes.](etheria-images/2023/02/lanzarote-cueva-verdes.jpg "La Cueva de los Verdes. © Jorge Fernández Salas.")
+![La Cueva de los Verdes.](https://fotos.etheriamagazine.com/2023/02/lanzarote-cueva-verdes.jpg "La Cueva de los Verdes. © Jorge Fernández Salas.")
 
 ### El Archipiélago de Chinijo
 
@@ -149,7 +149,7 @@ a la isla, perfectamente integrado en el paisaje. Su isla principal, **La Gracio
 la más conocida, ya que el resto son pequeñas islas e islotes deshabitados. El conjunto 
 forma la reserva marina más grande de la Unión Europea. 
 
-![Isla de La Graciosa](etheria-images/2023/02/lanzarote-chinijo-archipelago.jpg "Archipiélago de Chinijo.")
+![Isla de La Graciosa](https://fotos.etheriamagazine.com/2023/02/lanzarote-chinijo-archipelago.jpg "Archipiélago de Chinijo.")
 
 **Visitar La Graciosa** siempre es una buena idea en un viaje a Lanzarote, solo tendrás 
 que acercarte a **Puerto de Órzola** y coger un ferry que te llevará a Caleta del Sebo 
@@ -178,7 +178,7 @@ con puertas y ventanas de colores: verdes en los pueblos de interior y azules en
 costeros. El blanco inmaculado de sus casas contrasta con la tierra oscura y volcánica 
 que lo rodea, procedente de las erupciones del siglo XVIII. 
 
-![Casas blancas de Yaiza](etheria-images/2023/02/Lanzarote-Yaiza.jpg "Yaiza.")
+![Casas blancas de Yaiza](https://fotos.etheriamagazine.com/2023/02/Lanzarote-Yaiza.jpg "Yaiza.")
 
 ### La Villa de Teguise
 
@@ -192,7 +192,7 @@ para no perderte nada). Si no sabes qué día ir, elige el domingo, ya que por l
 se celebra el mercadillo más grande y animado de toda la isla: artesanía, productos 
 ecológicos, ropa… Un lugar perfecto para llevarse un recuerdo de la isla. 
 
-![Iglesia de Nuestra Señora de Guadalupe en Villa de Teguise.](etheria-images/2023/02/lanzarote-teguise.jpg "Iglesia de Nuestra Señora de Guadalupe en Villa de Teguise.")
+![Iglesia de Nuestra Señora de Guadalupe en Villa de Teguise.](https://fotos.etheriamagazine.com/2023/02/lanzarote-teguise.jpg "Iglesia de Nuestra Señora de Guadalupe en Villa de Teguise.")
 
 A un cuarto de hora en coche se encuentra **Costa Teguise**, uno de los lugares 
 preferidos por los viajeros que visitan la isla para alojarse por su amplia oferta 
@@ -214,7 +214,7 @@ es un buen lugar para acercarse a su figura y descubrir cómo vivió y trabajó 
 últimos años a través de sus objetos personales y en un entorno donde encontró la paz y 
 el contacto con la naturaleza que tanto buscaba. 
 
-![Casa-Museo Jorge Manrique en Lanzarote](etheria-images/2023/02/lanzarote-Casa-Museo-Cesar-Manrique.jpg "Casa-Museo Jorge Manrique.")
+![Casa-Museo Jorge Manrique en Lanzarote](https://fotos.etheriamagazine.com/2023/02/lanzarote-Casa-Museo-Cesar-Manrique.jpg "Casa-Museo Jorge Manrique.")
 
 ### Casa José Saramago
 
@@ -242,7 +242,7 @@ pena tomar algo en su cantina y en su restaurante, y degustar así platos locale
 guisados con mimo. También pararse a comprar algún recuerdo en su tienda. No te pierdas 
 tampoco la original escultura a la Fecundidad. 
 
-![Casa-Museo del Campesino en Lanzarote](etheria-images/2023/02/lanzarote-museo-Campesino.jpg "Casa-Museo del Campesino.")
+![Casa-Museo del Campesino en Lanzarote](https://fotos.etheriamagazine.com/2023/02/lanzarote-museo-Campesino.jpg "Casa-Museo del Campesino.")
 
 ## Playas
 
@@ -261,7 +261,7 @@ Lanzarote. Es un lugar muy animado, donde se puede disfrutar de restaurantes y b
 copas. Nos gusta por su bonito paseo marítimo, el fácil acceso a sus playas y porque es 
 un lugar perfecto para tomar como punto de partida para recorrer la isla. 
 
-![Playa Blanca en Lanzarote](etheria-images/2023/02/lanzarote-playa-blanca.jpg "Playa Blanca. © Jorge Fernández Salas.")
+![Playa Blanca en Lanzarote](https://fotos.etheriamagazine.com/2023/02/lanzarote-playa-blanca.jpg "Playa Blanca. © Jorge Fernández Salas.")
 
 ### Punta del Papagayo
 
@@ -271,7 +271,7 @@ Eso sí, tendrás que pagar para acudir ya que se encuentra en el **Monumento Na
 los Ajaches**, un pequeño inconveniente que se compensa con lo bien cuidado que está el 
 entorno y la tranquilidad de sus playas de poco oleaje. 
 
-![Playa del Pozo en Punta Papagayo.](etheria-images/2023/02/lanzarote-playa-pozo-costa-papagayo.jpg "Playa del Pozo en Punta Papagayo.")
+![Playa del Pozo en Punta Papagayo.](https://fotos.etheriamagazine.com/2023/02/lanzarote-playa-pozo-costa-papagayo.jpg "Playa del Pozo en Punta Papagayo.")
 
 Su playa más famosa es **playa Papagayo**, con forma de media luna, a la que se 
 desciende por una escalera desde los acantilados y que ofrece una arena dorada. En lo 
@@ -294,7 +294,7 @@ rodeada de un paisaje de imponentes acantilados, son únicos. En la pequeña loc
 **Caleta de Famara** podrás hacer una parada y disfrutar del excelente pescado en alguno 
 de sus restaurantes. 
 
-![Playa de Famara en Lanzarote](etheria-images/2023/02/lanzarote-playa-famara.jpg "Playa de Famara.")
+![Playa de Famara en Lanzarote](https://fotos.etheriamagazine.com/2023/02/lanzarote-playa-famara.jpg "Playa de Famara.")
 
 También te puede interesar: 
 

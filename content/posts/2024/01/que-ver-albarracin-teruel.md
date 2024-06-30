@@ -1,7 +1,7 @@
 ---
 title: "Secretos de Albarracín, el pueblo más bonito de Teruel"
 date: 2024-01-19
-coverImage: etheria-images/2024/01/albarracin-pueblo-teruel.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/01/albarracin-pueblo-teruel.jpg
 categories: 
   - viajes-con-amigas
   - viaje-en-familia
@@ -17,7 +17,7 @@ funde con el entorno de la Sierra de Albarracín, tiene buena culpa de tanto atr
 pero también se debe al rico patrimonio que guarda en su trazado medieval y a sus 
 gentes, empeñadas en mantener su esencia rural. 
 
-![Panorámica del pueblo de Albarracín.](etheria-images/2024/01/albarracin-pueblo-teruel-850x568.jpg "Panorámica del pueblo de Albarracín.")
+![Panorámica del pueblo de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-pueblo-teruel-850x568.jpg "Panorámica del pueblo de Albarracín.")
 
 Algo más de treinta minutos se necesitan para llegar a Albarracín desde la ciudad de 
 Teruel, un tiempo breve que apenas nos prepara para la belleza que luce incluso en la 
@@ -40,7 +40,7 @@ Si puedes, haz noche en la localidad porque es la única manera de contemplar la
 creas que lo has visto todo, continúa para descubrir también los encantos rurales de la 
 **Sierra de Albarracín**. 
 
-![Murallas de Albarracín.](etheria-images/2024/01/albarracin-murallas-850x370.jpg "Murallas de Albarracín.")
+![Murallas de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-murallas-850x370.jpg "Murallas de Albarracín.")
 
 ## Visitas imprescindibles en Albarracín
 
@@ -59,7 +59,7 @@ poderío inexpugnable. El paseo por las calles de Albarracín es una atractiva r
 para conocer la historia acumulada entre sus muros desde hace más de mil años y que la 
 distinguió como primer conjunto monumental de Aragón hace 63 años. 
 
-![Panorámica de Albarracín.](etheria-images/2024/01/albarracin-medina.jpg "Panorámica de Albarracín.")
+![Panorámica de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-medina.jpg "Panorámica de Albarracín.")
 
 ### Una catedral y un palacio
 
@@ -79,7 +79,7 @@ y actualmente está destinado a actividades culturales y formativas. En su inter
 resalta una espectacular escalera con pasamanos de forja, capilla propia y un austero 
 claustro que conecta con la catedral. 
 
-![Catedral de Albarracín.](etheria-images/2024/01/albarracin-catedral-721x1000.jpg "Catedral de Albarracín.")
+![Catedral de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-catedral-721x1000.jpg "Catedral de Albarracín.")
 
 ### Miradores
 
@@ -91,7 +91,7 @@ detenerse como el mirador que está **frente a la catedral** o el porticado que 
 **entre la Plaza Mayor y el Ayuntamiento**. Se asoman sobre el núcleo y el valle en cuyo 
 fondo discurre el río Guadalaviar con un enorme meandro que abraza a Albarracín. 
 
-![Vista aérea de Albarracín.](etheria-images/2024/01/albarracin-foto-aerea.jpg "Vista aérea de Albarracín.")
+![Vista aérea de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-foto-aerea.jpg "Vista aérea de Albarracín.")
 
 ### Arco de Medina y casa de la Julianeta
 
@@ -130,7 +130,7 @@ productores locales. Entre ellos, **Quesos Sierra Albarracín** (quesodealbarrac
 los más premiados de Aragón, que acumulan reconocimientos de prestigio internacional, 
 junto a la mejor selección de productos aragoneses. 
 
-![Sierra de Albarracín](etheria-images/2024/01/sierra-albarracin.jpg "Sierra de Albarracín.")
+![Sierra de Albarracín](https://fotos.etheriamagazine.com/2024/01/sierra-albarracin.jpg "Sierra de Albarracín.")
 
 ## Por la Sierra de Albarracín
 
@@ -150,7 +150,7 @@ talladas en la misma roca del barranco. El **Centro de Interpretación del Acued
 en Gea de Albarracín (geadealbarracin.org), es el mejor lugar para entender tan 
 fascinante construcción romana. 
 
-![Directorio para hacer excursiones en Albarracín](etheria-images/2024/01/pinares-sierra-albarracin.jpg "Allrededor de Albarracín se pueden hacer excursiones.")
+![Directorio para hacer excursiones en Albarracín](https://fotos.etheriamagazine.com/2024/01/pinares-sierra-albarracin.jpg "Allrededor de Albarracín se pueden hacer excursiones.")
 
 ### Un paisaje de pinares
 
@@ -168,7 +168,7 @@ rupestres** que albergan en sus zonas más abrigadas, realizadas entre hace 12.0
 forman parte del valioso patrimonio de pinturas prehistóricas del **arco rupestre 
 levantino** y están incluidas en la Lista de Patrimonio Mundial de la Unesco. 
 
-![Pinturas rupestres en la Sierra de Albarracín.](etheria-images/2024/01/sierra-albarracin-pinturas-rupestres.jpg "Pinturas rupestres en la Sierra de Albarracín.")
+![Pinturas rupestres en la Sierra de Albarracín.](https://fotos.etheriamagazine.com/2024/01/sierra-albarracin-pinturas-rupestres.jpg "Pinturas rupestres en la Sierra de Albarracín.")
 
 ### Un río de piedras
 
@@ -180,7 +180,7 @@ ruta, además de **águilas reales,** **ciervos y corzos**, pintorescos **ríos 
 como los que caracterizan los paisajes naturales de **Orihuela del Tremedal**, que son 
 fruto de la acción del hielo. 
 
-![Vista aérea del Río de Piedras.](etheria-images/2024/01/albarracin-rio-piedras.jpg "Vista aérea de un río de piedras.")
+![Vista aérea del Río de Piedras.](https://fotos.etheriamagazine.com/2024/01/albarracin-rio-piedras.jpg "Vista aérea de un río de piedras.")
 
 ### Ródenas, el pueblo más rojo
 
@@ -197,7 +197,7 @@ un techo mudéjar y enterramientos celtibéricos en sus cimientos, y para subir 
 **castillo** para ver el paisaje. De camino, prestad atención a los **grabados 
 pastoriles** situados en las rocas de rodeno del camino. 
 
-![Pueblo de Ródenas, en Teruel.](etheria-images/2024/01/rodenas-teruel.jpg "Pueblo de Ródenas, en Teruel.")
+![Pueblo de Ródenas, en Teruel.](https://fotos.etheriamagazine.com/2024/01/rodenas-teruel.jpg "Pueblo de Ródenas, en Teruel.")
 
 **También te puede interesar...** 
 

@@ -1,7 +1,7 @@
 ---
 title: "The Westin Turtle Bay Resort & Spa, Mauritius, descanso de lujo en Isla Mauricio"
 date: 2024-01-02
-coverImage: etheria-images/2024/01/mauricio-westin-turtle-bay-vista-aerea.jpg
+coverImage: https://fotos.etheriamagazine.com/2024/01/mauricio-westin-turtle-bay-vista-aerea.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -15,7 +15,7 @@ exuberantes paisajes y a hoteles de lujo como The Westin Turtle Bay Resort & Spa
 Mauritius que dan la opción de disfrutarla con todas las comodidades y las mejores 
 instalaciones. 
 
-![playa y piscina de The Westin Turtle Bay Resort & Spa, Mauritius.](etheria-images/2024/01/mauricio-westin-turtle-bay-vista-aerea.jpg "The Westin Turtle Bay Resort & Spa, Mauritius.")
+![playa y piscina de The Westin Turtle Bay Resort & Spa, Mauritius.](https://fotos.etheriamagazine.com/2024/01/mauricio-westin-turtle-bay-vista-aerea.jpg "The Westin Turtle Bay Resort & Spa, Mauritius.")
 
 Isla Mauricio es siempre promesa de vacaciones de ensueño, de esas que se recuerdan 
 siempre por habernos hecho sentir, por unos días, en el mismísimo paraíso. Y para 
@@ -32,7 +32,7 @@ de alimentos cultivados de forma orgánica, con un huerto propio que ofrece mult
 frutas y verduras, y que realiza iniciativas como los lunes sin carne para contribuir a 
 la reducción de las emisiones de gases de efecto invernadero. 
 
-![Playa de The Westin Turtle Bay Resort & Spa, Mauritius.](etheria-images/2024/01/mauricio-westin-turtle-bay-playa.jpg "Playa de The Westin Turtle Bay Resort & Spa, Mauritius.")
+![Playa de The Westin Turtle Bay Resort & Spa, Mauritius.](https://fotos.etheriamagazine.com/2024/01/mauricio-westin-turtle-bay-playa.jpg "Playa de The Westin Turtle Bay Resort & Spa, Mauritius.")
 
 ## Las habitaciones
 
@@ -44,7 +44,7 @@ de habitaciones 24 horas, ducha y bañera separadas o cafetera. Podrás elegir e
 Junior Suite (con cama King Size o con dos camas Queen Size), la Turtle Bay Junior 
 Suite, la Heavenly Junior Suite y la Heavenly Family Suite, la más grande de todas. 
 
-![habitación de The Westin Turtle Bay Resort & Spa](etheria-images/2024/01/mauricio-westin-turtle-bay-King-Sea-View-Junior-Suite.jpg "Junior Suite con vistas al mar.")
+![habitación de The Westin Turtle Bay Resort & Spa](https://fotos.etheriamagazine.com/2024/01/mauricio-westin-turtle-bay-King-Sea-View-Junior-Suite.jpg "Junior Suite con vistas al mar.")
 
 Si se busca aún más espacio, el hotel cuenta con unas suites con zona de estar y 
 preciosas y amplias terrazas que son una excelente alternativa de alojamiento. Entre 
@@ -69,7 +69,7 @@ llena las noches de sabores indios en un bonito espacio junto a la piscina;
 Asia; y **Fusion**, un espacio sofisticado con diferentes especialidades donde podrás 
 tomar un excelente sushi. 
 
-![Restaurante Mystique en The Westin Turtle Bay Resort & Spa Mauritius](etheria-images/2024/01/Mauricio-westin-turtle-bay-Mystique-Bar.jpg "Restaurante Mystique.")
+![Restaurante Mystique en The Westin Turtle Bay Resort & Spa Mauritius](https://fotos.etheriamagazine.com/2024/01/Mauricio-westin-turtle-bay-Mystique-Bar.jpg "Restaurante Mystique.")
 
 Otro de los lugares de este hotel de isla Mauricio donde seguro que pasas muy buenos 
 ratos es **The Retreat Bar**, abierto durante todo el día, que ofrece bebidas y cócteles 
@@ -84,7 +84,7 @@ salir a correr con el programa **RunWESTIN** por los senderos habilitados de 1,4
 kilómetros (que también son perfectos para caminar). Además, dos pistas de tenis en un 
 precioso entorno te harán disfrutar como nunca de este deporte. 
 
-![Pistas de tenis de The Westin Turtle Bay Resort & Spa, Mauritius.](etheria-images/2024/01/mauricio-westin-turtle-bay-pistas-tenis.jpg "Pistas de tenis de The Westin Turtle Bay Resort & Spa, Mauritius.")
+![Pistas de tenis de The Westin Turtle Bay Resort & Spa, Mauritius.](https://fotos.etheriamagazine.com/2024/01/mauricio-westin-turtle-bay-pistas-tenis.jpg "Pistas de tenis de The Westin Turtle Bay Resort & Spa, Mauritius.")
 
 Las amantes del mar encontrarán en el **Centro de deportes acuáticos** de la playa el 
 lugar donde aventurarse con actividades como el kayak, los paseos en barco con fondo de 

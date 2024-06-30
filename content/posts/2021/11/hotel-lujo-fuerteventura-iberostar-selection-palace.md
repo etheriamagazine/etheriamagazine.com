@@ -1,7 +1,7 @@
 ---
 title: "Iberostar Selection Fuerteventura Palace, tu hotel de lujo en Fuerteventura"
 date: 2021-11-11
-coverImage: etheria-images/2021/11/Iberostar-fuerteventura-piscina.jpg
+coverImage: https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-piscina.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -12,7 +12,7 @@ authors:
 
 La idea de hacer una escapada a Fuerteventura a un hotel de cinco estrellas es imposible que no te apetezca. Hemos elegido el Iberostar Selection Fuerteventura Palace por su ubicación, sus acogedoras habitaciones y por la garantía de calidad de la marca Iberostar. ¿Te vienes?
 
-![Piscina del hotel Iberostar Selection Fuerteventura Palace.](etheria-images/2021/11/Iberostar-fuerteventura-piscina-edited.jpg "Piscina del hotel Iberostar Selection Fuerteventura Palace.")
+![Piscina del hotel Iberostar Selection Fuerteventura Palace.](https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-piscina-edited.jpg "Piscina del hotel Iberostar Selection Fuerteventura Palace.")
 
 Imagínate paseando en una de las playas más bonitas de España, la de Jandía, en el sur 
 de la isla canaria de Fuerteventura; y terminar tu recorrido en un hotel de cinco 
@@ -27,7 +27,7 @@ para los deportes acuáticos, es uno de los alicientes del hotel. También lo so
 piscinas, una de ellas climatizada, y la posibilidad de elegir el régimen de _Todo 
 Incluido_, que simplifica muchísimo la organización de las vacaciones. 
 
-![Camas balinesas disponibles para los clientes que eligen la opción Star System.](etheria-images/2021/11/Iberostar-fuerteventura-cama-balinesa.jpg "Camas balinesas disponibles para los clientes que eligen la opción Star System.")
+![Camas balinesas disponibles para los clientes que eligen la opción Star System.](https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-cama-balinesa.jpg "Camas balinesas disponibles para los clientes que eligen la opción Star System.")
 
 ## Las habitaciones
 
@@ -38,7 +38,7 @@ vistas. Podrás elegir entre varias categorías: habitaciones dobles, suites, ju
 suites y habitaciones accesibles, con todas las comodidades de un hotel de esta 
 categoría. 
 
-![Habitación doble con vistas al mar.](etheria-images/2021/11/Iberostar-fuerteventura-doble-vista-mar.jpg "Habitación doble con vistas al mar.")
+![Habitación doble con vistas al mar.](https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-doble-vista-mar.jpg "Habitación doble con vistas al mar.")
 
 Si quieres un plus de lujo y atención, no dudes en reservar la opción **Star Prestige**, 
 que te permitirá alojarte en unas habitaciones muy especiales con ventajas como una 
@@ -57,7 +57,7 @@ además de unas excelentes vistas de la playa, presenta una propuesta gastronóm
 ecléctica que va de Japón a las islas Canarias. Además, el restaurante **La Palapa** es 
 perfecto para tomar algo más informal y ligero junto a la piscina. 
 
-![Restaurante Teppanyaki.](etheria-images/2021/11/Iberostar-fuerteventura-teppanyaki-edited.jpg "Restaurante Teppanyaki.")
+![Restaurante Teppanyaki.](https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-teppanyaki-edited.jpg "Restaurante Teppanyaki.")
 
 Los momentos de relax toman la forma más perfecta en el **Bar El Faro** y en **Bar Fin 
 de Siglo** donde disfrutar de un cóctel mientras se charla. Este es uno de esos ratitos 
@@ -76,7 +76,7 @@ gracias al **programa Star Fit & Fun**, que ofrece clases colectivas de todo tip
 aeróbic a aqua cycling o tenis. También tendrás a tu disposición una **sala de fitness** 
 con todo el equipamiento necesario para mantener la forma. 
 
-![Zona de aguas del Spa Sensations.](etheria-images/2021/11/Iberostar-fuerteventura-spa.jpg "Zona de aguas del Spa Sensations.")
+![Zona de aguas del Spa Sensations.](https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-spa.jpg "Zona de aguas del Spa Sensations.")
 
 Si te van más los **deportes acuáticos**, ten en cuenta que esta playa es perfecta para 
 su práctica y, además, el hotel cuenta con una escuela de buceo en sus instalaciones. Y, 

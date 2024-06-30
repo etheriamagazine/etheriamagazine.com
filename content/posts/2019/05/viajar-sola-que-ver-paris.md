@@ -1,7 +1,7 @@
 ---
 title: "Qué hacer en París si viajas sola"
 date: 2019-05-15
-coverImage: etheria-images/2019/04/Viajar-sola-Paris.jpg
+coverImage: https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg
 categories: 
   - viajes-48-horas
   - viajes-para-mujeres
@@ -14,7 +14,7 @@ La mundialmente conocida como “Ciudad del Amor” también es el destino ideal
 querernos mucho… a nosotras mismas. París es un buen destino para iniciarse en el arte 
 de viajar sola, aunque si lo haces acompañada esta guía te servirá igualmente. 
 
-![viajar sola paris](etheria-images/2019/04/Viajar-sola-Paris.jpg "Viajar sola a París. © Artem/ Adobe Stock")
+![viajar sola paris](https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg "Viajar sola a París. © Artem/ Adobe Stock")
 
 No voy a preguntar el motivo, la decisión está tomada y quieres realizar un viaje sola. 
 Quizá sea el primero al que te enfrentas sin compañía, quizá seas ya toda una experta en 
@@ -31,7 +31,7 @@ segura de que las vivencias que tengas en este viaje las recordarás toda tu vid
 en cualquier momento podrás volver a ellas y sonreír pensando para ti misma: “Siempre me 
 quedará París”. 
 
-![El río Sena y la Torre Eiffel](etheria-images/2019/04/viajar-sola-paris-torre-eiffel.jpg "Primera visita: la Torre Eiffel. © Ekaterina_belova/ Adobe Stock")
+![El río Sena y la Torre Eiffel](https://fotos.etheriamagazine.com/2019/04/viajar-sola-paris-torre-eiffel.jpg "Primera visita: la Torre Eiffel. © Ekaterina_belova/ Adobe Stock")
 
 ## Pasear por París
 
@@ -55,7 +55,7 @@ emergencia, pero prescinde de Google Maps, de consultar cualquier duda y de esta
 pendiente de las noticias ajenas. Invertir en pequeños paseos en soledad, saboreando 
 cada momento y empapándoos del ambiente, enriquecerá muchísimo la experiencia. 
 
-![Musée de l’Orangerie en París](etheria-images/2019/04/paris-museo-orangerie.jpg "Musée de l’Orangerie. © Daniel Thierry/ Paris Tourist Office")
+![Musée de l’Orangerie en París](https://fotos.etheriamagazine.com/2019/04/paris-museo-orangerie.jpg "Musée de l’Orangerie. © Daniel Thierry/ Paris Tourist Office")
 
 ## El Louvre (y otros museos) “a medida”
 
@@ -74,7 +74,7 @@ más serenas y tranquilas para continuar con nuestro viaje, así como los museos
 artistas. Comprometida con el arte, la capital francesa ofrece además numerosas 
 exposiciones temporales que potencian la parte cultural de nuestro viaje. 
 
-![Cafe des Deux Moulins en París](etheria-images/2019/04/Viaje-paris-Cafe-des-Deux-Moulins.jpg "Café des Deux Moulins. © David Lefranc/ Paris Tourist")
+![Cafe des Deux Moulins en París](https://fotos.etheriamagazine.com/2019/04/Viaje-paris-Cafe-des-Deux-Moulins.jpg "Café des Deux Moulins. © David Lefranc/ Paris Tourist")
 
 ## Un café a lo Carrie Bradshaw
 
@@ -92,7 +92,7 @@ más de **Amélie**, apunta el **Cafe des Deux Moulins**, en el barrio de Montma
 hace referencia al Moulin Rouge y al Moulin de la Galette y fue un escenario importante 
 en la película. 
 
-![Perfumería Caron en la Avenida Montaigne de París](etheria-images/2019/04/compras-paris-campos-eliseos.jpg "Perfumería Caron en la Avenida Montaigne. © Stéphanie Rivoal/ Paris Tourist Office")
+![Perfumería Caron en la Avenida Montaigne de París](https://fotos.etheriamagazine.com/2019/04/compras-paris-campos-eliseos.jpg "Perfumería Caron en la Avenida Montaigne. © Stéphanie Rivoal/ Paris Tourist Office")
 
 ## Un capricho en los Campos Elíseos
 
@@ -103,7 +103,7 @@ que mimar tu piel. Tendrás todo el tiempo del mundo para mirar, decidirte, comp
 incluso dejar que te atiendan como una auténtica reina. Ya que vas a hacer esa 
 inversión, que sea por todo lo alto. 
 
-![Librería Artazart, en el canal Saint-Martin](etheria-images/2019/04/viaje-paris-libreria-artazar.jpg "Librería Artazart, en el canal Saint-Martin. © Jacques Lebar/ Paris Tourist Office")
+![Librería Artazart, en el canal Saint-Martin](https://fotos.etheriamagazine.com/2019/04/viaje-paris-libreria-artazar.jpg "Librería Artazart, en el canal Saint-Martin. © Jacques Lebar/ Paris Tourist Office")
 
 ## Sumérgete entre libros
 
@@ -116,7 +116,7 @@ en **L’Arnaqueur**; la interesante recopilación de libros y revistas de dise�
 de **Artazart**; o **Assouline**, una de las casas editoras más exclusivas del mundo en 
 la que se rinde un cariñoso homenaje al papel. 
 
-![quesos en el Marché Mouffetard](etheria-images/2019/04/viaje-paris-quesos.jpg "Marché Mouffetard. © Amélie Dupont/ Paris Tourist Office")
+![quesos en el Marché Mouffetard](https://fotos.etheriamagazine.com/2019/04/viaje-paris-quesos.jpg "Marché Mouffetard. © Amélie Dupont/ Paris Tourist Office")
 
 ## Tus quesos favoritos en la habitación
 
@@ -129,7 +129,7 @@ realizar esta pequeña compra y llevárnosla al hotel. Aquí encontraréis la me
 selección de quesos y productos de charcutería, frutería y verdulería, así como 
 productos dulces y otros caprichos culinarios. 
 
-![Place Saint Andre des Arts](etheria-images/2019/04/viaje-paris-barrio-latino.jpg "Place Saint-André des Arts. © Jacques Lebar/ Paris Tourist Office")
+![Place Saint Andre des Arts](https://fotos.etheriamagazine.com/2019/04/viaje-paris-barrio-latino.jpg "Place Saint-André des Arts. © Jacques Lebar/ Paris Tourist Office")
 
 ## De noche por el Barrio Latino
 

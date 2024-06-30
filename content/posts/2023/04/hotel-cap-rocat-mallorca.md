@@ -1,7 +1,7 @@
 ---
 title: "Hotel Cap Rocat, exclusividad en la costa mallorquina"
 date: 2023-04-12
-coverImage: etheria-images/2023/04/cap-rocat-habitacion-centinela.jpg
+coverImage: https://fotos.etheriamagazine.com/2023/04/cap-rocat-habitacion-centinela.jpg
 categories: 
   - organiza-tu-viaje
   - hoteles
@@ -15,7 +15,7 @@ de alojarte unos días en este hotel de lujo de Mallorca y vivirás la isla de u
 diferente. Este establecimiento es un auténtico castillo donde es posible disfrutar del 
 silencio incluso en los meses de temporada alta. 
 
-![Entrada del hotel Cap Rocat](etheria-images/2023/04/Cap-Rocat-entrada.jpg "Entrada del hotel Cap Rocat.")
+![Entrada del hotel Cap Rocat](https://fotos.etheriamagazine.com/2023/04/Cap-Rocat-entrada.jpg "Entrada del hotel Cap Rocat.")
 
 Nos encantan los lugares singulares, sobre todo si se pueden disfrutar desde dentro, 
 alojándonos en ellos. Sin duda, la mejor forma de vivirlos en primera persona para que 
@@ -34,7 +34,7 @@ Unión Europea de Patrimonio Cultural/Europa Nostra, entre otros.
 Y después, hay que señalar que Cap Rocat es sinónimo de lujo y exclusividad en Mallorca, 
 tanto por su ubicación como por los servicios que ofrece a sus huéspedes. 
 
-![Suite El Cabo del hotel Cap Rocat](etheria-images/2023/04/cap-rocat-Suite-El-Cabo.jpg "Suite El Cabo: los tonos naturales predominan en la decoración del hotel.")
+![Suite El Cabo del hotel Cap Rocat](https://fotos.etheriamagazine.com/2023/04/cap-rocat-Suite-El-Cabo.jpg "Suite El Cabo: los tonos naturales predominan en la decoración del hotel.")
 
 ## Entorno de lujo en Mallorca
 
@@ -61,7 +61,7 @@ escritorio y una butaca de lectura. Y las habitaciones **Centinela** han sido ex
 en la roca donde antiguamente estaban los cañones, cuentan con piscina privada y son un 
 alojamiento absolutamente único y singular. 
 
-![habitación con vistas al Mediterráneo del hotel Cap Rocat](etheria-images/2023/04/cap-rocat-habitacion-centinela.jpg "Habitación Centinela, excavada en la roca.")
+![habitación con vistas al Mediterráneo del hotel Cap Rocat](https://fotos.etheriamagazine.com/2023/04/cap-rocat-habitacion-centinela.jpg "Habitación Centinela, excavada en la roca.")
 
 En cuanto a las suites, las **Suites Cap Rocat** ocupan las troneras de la antigua 
 fortaleza y sus gazebos ofrecen una vista espectacular. Además de la cómoda cama King 
@@ -87,7 +87,7 @@ elección, pero también del entorno (en lo que fue el comedor de las tropas en 
 y otoño y en la azotea en verano), creado por detalles como sus manteles de lino y su 
 porcelana. 
 
-![Sea Club del hotel Cap Rocat.](etheria-images/2023/04/cap-rocat-Sea-Club.jpg "Sea Club del hotel Cap Rocat.")
+![Sea Club del hotel Cap Rocat.](https://fotos.etheriamagazine.com/2023/04/cap-rocat-Sea-Club.jpg "Sea Club del hotel Cap Rocat.")
 
 El **Sea Club** merece la pena ya solo por sus vistas sobre el mar. Además, presenta una 
 carta sencilla y apetecible basada en arroces, carnes y pescados a la parrilla y 
@@ -108,7 +108,7 @@ Además, el spa utiliza las prestigiosas **líneas de cosmética natural** Osteo
 Comfort Zone, con ingredientes naturales. No dejes de darte algún masaje con **técnicas 
 filipinas o tailandesas** que te trasladarán al instante a Asia. 
 
-![Piscina del spa del hotel Cap Rocat.](etheria-images/2023/04/Cap-Rocat-spa.jpg "Piscina del spa del hotel Cap Rocat.")
+![Piscina del spa del hotel Cap Rocat.](https://fotos.etheriamagazine.com/2023/04/Cap-Rocat-spa.jpg "Piscina del spa del hotel Cap Rocat.")
 
 ## Experiencias únicas
 

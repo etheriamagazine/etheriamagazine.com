@@ -1,7 +1,7 @@
 ---
 title: "Barceló Monasterio de Boltaña, un hotel para desconectar"
 date: 2018-04-13
-coverImage: etheria-images/2018/04/Barcelo-Boltaña-4.jpg
+coverImage: https://fotos.etheriamagazine.com/2018/04/Barcelo-Boltaña-4.jpg
 categories: 
   - hoteles
 authors: 
@@ -14,7 +14,7 @@ de Boltaña, se dan las tres condiciones: está en un monasterio del siglo XVII,
 en los Pirineos y a solo siete kilómetros de algunas localizaciones de la película _Bajo 
 la piel del lobo_. 
 
-![Así, sí, vamos a desconectar en el hotel Barceló Monasterio de Boltaña.](etheria-images/2018/04/Barcelo-Boltaña-3-1024x684.jpg "Así, sí, vamos a desconectar en el hotel Barceló Monasterio de Boltaña.")
+![Así, sí, vamos a desconectar en el hotel Barceló Monasterio de Boltaña.](https://fotos.etheriamagazine.com/2018/04/Barcelo-Boltaña-3-1024x684.jpg "Así, sí, vamos a desconectar en el hotel Barceló Monasterio de Boltaña.")
 
 Si buscas un hotel de montaña donde desconectar, lo has encontrado y se llama **Barceló 
 Monasterio de Boltaña**. Con sus 96 habitaciones y 40 villas, un spa con vistas al río 
@@ -30,7 +30,7 @@ practicar escalada y esquí de fondo (en invierno). Si los deportes no son tu fu
 existen poblaciones que bien merecen una visita como Boltaña, **Aínsa**, **Torla**, 
 **Broto**, **Fanlo** y **Nerin**. 
 
-![Barceló Monasterio de Boltaña.](etheria-images/2018/11/Barcelo-Boltana-1024x683.jpg "Barceló Monasterio de Boltaña.")
+![Barceló Monasterio de Boltaña.](https://fotos.etheriamagazine.com/2018/11/Barcelo-Boltana-1024x683.jpg "Barceló Monasterio de Boltaña.")
 
 ## El entorno de película del Barceló Monasterio de Boltaña
 
@@ -40,7 +40,7 @@ localizaciones. Entre los huéspedes se encontraban Mario Casas, Irene Escolar, 
 Díaz, Kandido Uranga y Josean Bengoetxea. Caminar por este pueblo abandonado te ayudará 
 a rememorar algunas escenas del filme. 
 
-![El hotel Barceló Monasterio de Boltaña se encuentra rodeado de impresionantes montañas.](etheria-images/2018/04/Barcelo-Boltaña-7-1024x684.jpg "El hotel Barceló Monasterio de Boltaña se encuentra rodeado de impresionantes montañas.")
+![El hotel Barceló Monasterio de Boltaña se encuentra rodeado de impresionantes montañas.](https://fotos.etheriamagazine.com/2018/04/Barcelo-Boltaña-7-1024x684.jpg "El hotel Barceló Monasterio de Boltaña se encuentra rodeado de impresionantes montañas.")
 
 ## Una zona de relax de lujo
 
@@ -54,7 +54,7 @@ sensoriales con aromaterapia, el recorrido de lluvias de Ordesa y la zona de cam
 calefactadas con pulverización de aromas. Los niños entre 2 y 12 años también tienen 
 reservado un espacio de tiempo al día para su disfrute. 
 
-![El spa del hotel Barceló Monasterio de Boltaña está casi integrado en la naturaleza.](etheria-images/2018/04/Barcelo-Boltaña-4-1024x683.jpg "El spa del hotel Barceló Monasterio de Boltaña está casi integrado en la naturaleza.")
+![El spa del hotel Barceló Monasterio de Boltaña está casi integrado en la naturaleza.](https://fotos.etheriamagazine.com/2018/04/Barcelo-Boltaña-4-1024x683.jpg "El spa del hotel Barceló Monasterio de Boltaña está casi integrado en la naturaleza.")
 
 **Barceló Monasterio de Boltaña** 
 
