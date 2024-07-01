@@ -13,7 +13,6 @@ jobs:
       - uses: superfly/flyctl-actions/setup-flyctl@master
       - run: | 
           flyctl deploy --remote-only \
-            --build-secret HUGO_IMGPROXY_SALT=${{ secrets.HUGO_IMGPROXY_SALT }} \
-            --build-secret HUGO_IMGPROXY_KEY=${{ secrets.HUGO_IMGPROXY_KEY }}
+            --build-secret HUGO_IMGPROXY_SALT=${{ secrets.HUGO_IMGPROXY_SALT }} HUGO_IMGPROXY_KEY=${{ secrets.HUGO_IMGPROXY_KEY }}
         env:
           FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
