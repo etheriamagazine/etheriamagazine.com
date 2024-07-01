@@ -1,0 +1,27 @@
+# flyctl launch added from .gitignore
+# OS files
+**/.DS_Store
+**/Thumbs.db
+
+# hugo build
+**/public
+**/resources/_gen
+
+# hugo executables, if present
+**/hugo.exe
+**/hugo.darwin
+**/hugo.linux
+
+# hugo temp lock file
+**/.hugo_build.lock
+
+# npm 
+**/node_modules
+
+# cloudflare secrets
+**/.dev.vars
+**/.wrangler
+
+# frontmatter extension?
+**/.frontmatter
+fly.toml
