@@ -4,7 +4,7 @@ COPY . /src
 
 RUN --mount=type=secret,id=HUGO_IMGPROXY_KEY --mount=type=secret,id=HUGO_IMGPROXY_SALT \
     HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
-    hugo --minify --enableGitInfo \
+    hugo --minify --enableGitInfoee
 
 # final caddy image
 FROM caddy:2.8.4-alpine
