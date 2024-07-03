@@ -1,5 +1,5 @@
 ---
-title: "Escapada con amigas a Collioure y su Costa Bermeja 2"
+title: "Escapada con amigas a Collioure y su Costa Bermeja"
 date: 2024-06-07
 coverImage: https://fotos.etheriamagazine.com/2024/06/Collioure-bahia.jpg
 categories: 

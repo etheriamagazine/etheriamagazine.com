@@ -1,6 +1,6 @@
 ---
 title: "Viñedos con sabor a mar, primer tramo del Grand Tour de Cataluña"
-date: 2021-11-12
+date: 2024-06-27
 coverImage: https://fotos.etheriamagazine.com/2021/11/bici-grand-tour-catalunya.jpg
 categories: 
   - viajes-con-amigas
@@ -15,6 +15,8 @@ que se divide esta ruta en coche hemos elegido el primero: "Viñedos con sabor a
 que incluye cultura, gastronomía, arte y deportes activos. 
 
 ![abadia montserrat](https://fotos.etheriamagazine.com/2021/11/abadia-montserrat.jpg "Entorno de la abadía de Montserrat. © PG")
+
+Actualizado junio 2024 
 
 Descubrir los secretos de Cataluña por carreteras secundarias disfrutando de una 
 conducción pausada, de buena música y mejor compañía ya tiene nombre, se llama "**Grand 
@@ -194,13 +196,19 @@ faltarían interesantes hitos por conocer como la **Ruta del Císter** y las **b
 romanas de Tarragona**. Sube al coche y busca nuevas pistas musicales. ¿Conoces a Pau 
 Casals? Puede ser un buen compañero de viaje para seguir gozando del camino... 
 
-**También te puede interesar...** 
+## Viaje sonoro con Radio Viajera
+
+**Continúa conociendo el Gran Tour de Cataluña** en formato sonoro a través de los 
+podcast de Radio Viajera. Aprender y disfrutar está a sólo un click, y lo puedes hacer 
+en cualquier momento y lugar. A continuación te invitamos a escuchar el podcast dedicado 
+al **Delta del Ebro. Tramo de Lleida y Tarragona** con consejos y curiosidades. 
+
+[![Podcast grand tour catalunya](https://fotos.etheriamagazine.com/2021/11/Grand-tour-cataluna-850x320.jpg)](https://radioviajera.com/el-delta-del-ebro-tramo-tarragona-lleida/)
+
+**También en Etheria Magazine** 
 
 [Descubre estos 8 lugares secretos de Cataluña que deberías 
-conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/) 
+conocer](https://etheriamagazine.com/2021/02/22/lugares-secretos-de-cataluna-que-visitar/). 
 
-[10 rincones de Lleida que te 
-sorprenderán](https://etheriamagazine.com/2018/10/10/10-rincones-de-lleida-que-te-sorprenderan/) 
-
-[Experiencias que sólo puedes vivir en el Pallars Jussà 
-(Lleida)](https://etheriamagazine.com/2021/06/09/8-experiencias-en-el-pallars-jussa-excursiones-en-lleida/)
+[Ruta en coche por el Pirineo y las Tierras de 
+Lleida](https://etheriamagazine.com/2022/02/07/ruta-en-coche-pirineo-tierras-lleida/).

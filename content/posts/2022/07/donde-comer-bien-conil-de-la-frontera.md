@@ -89,21 +89,16 @@ Dónde: playa de La Fontanilla. Tel. 956 441 130, más info en lafontanilla.com
 
 ![Coquinas y ortiguillas del Bar Juan María, un restaurante donde comer bien en Conil.](https://fotos.etheriamagazine.com/2022/07/bar-juan-maria-conil.jpg "Coquinas y ortiguillas del Bar Juan María, en Conil. © Etheria Magazine")
 
-### 4\. Bar Juan María
+### 4\. Restaurante Puerta Cai (antiguo Bar Juan María)
 
 No está a pie de playa pero desde su terraza se ve la línea azul del Atlántico y los 
-tejados del pueblo. Este es otro de los restaurantes donde comer bien en Conil y que 
-tiene solera ya que lo abrió Juan María Ramírez en 1958. Hoy día es su hijo, Juan María 
-y su mujer Loli Alba quienes lo regentan. Está situado en la ‘Puerta Cai’, el barrio de 
-Pescadores, y sigue conservando la impronta sencilla que siempre lo ha caracterizado. Lo 
-que sí ha cambiado en los últimos años es su terraza situada al fondo del bar, más 
-arreglada y que regala bonitos atardeceres (no está climatizada). No olvides pedir mesa 
-junto a las ventanas. ¿Qué pedir aquí? Resulta difícil elegir porque todo está 
-delicioso. Algunos platos típicos que son valores seguros son las coquinas, el atún 
-encebollado, la corvina, las ortiguillas... Sus recetas de atún con toque creativo nos 
-han gustado menos. 
+tejados del pueblo. Este es otro de los restaurantes donde comer bien en Conil. El 
+antiguo bar Juan María ha cambiado de dueños pero sigue ofreciendo una cocina 
+excepcional. Algunos platos típicos que son valores seguros son las coquinas, el atún 
+encebollado, la corvina, las ortiguillas... Los mismos propietarios cuentan con otros 
+dos locales a pocos metros, ideales para tapear o tomar unas raciones. 
 
-Dónde: c/ Cádiz, 32. Tel. 956 440 178, más info. CERRADO DESDE 2023 
+Dónde: c/ Cádiz, 32. 
 
 ![Tartar de atún rojo de la Venta Melchor.](https://fotos.etheriamagazine.com/2018/06/tartar-ruta-del-atun.jpg "Tartar de atún rojo de la Venta Melchor. © Etheria Magazine")
 
@@ -271,16 +266,17 @@ el presupuesto: **20\. Bar Los Hermanitos**. Muy buena relación calidad-precio,
 calle Román Ruiz. **21\. Bar Ligero**. Buen surtido de tapas y raciones, poquitas mesas, 
 en la calle Cádiz. **22\. Titus**. Buenas tapas y pescaíto frito a un precio módico en 
 la calle Ortega y Gasset, 1. **23\. Cervecería Los Tres Hermanos**. Local agradable y 
-carta de tapas muy amplia, en la calle Enólogos, 6. **24\. La Peña**. Bueno y barato, en 
-la calle Virgen de la Luz, 14**.** **25.** **El Pincho**. Excelente relación calidad 
-precio, en la calle La Cepa. **26\. El Paso, cervecería y tapas**. Con una terraza 
-amplia, carta de tapas y raciones, en la calle Los Barrios, 28. **27\. La Fábrica**. Bar 
-tradicional. Buenos montaditos y tapas, en la Plaza de Santa Catalina, 3 (frente a la 
-torre de Guzmán). **28\. Chozo El Cai (conocido como El Bernabéu**) Está en pleno paseo 
-marítimo y se caracteriza por sus sardinas asadas y sus buenos precios. \* Si te quieres 
-llevar la comida a casa, uno de los lugares clásicos es **Freiduría Zapola** (Pascual 
-Junquera, 18), un sitio pequeño donde saben cómo agradar al cliente, incluso le ponen 
-una caña para que la espera se haga más corta. 
+carta de tapas muy amplia, en Enólogos, 6. **24\. La Peña**. Bueno y barato, en la calle 
+Virgen de la Luz, 14**.** **25.** **El Pincho**. Excelente relación calidad precio, en 
+la calle La Cepa. **26\. El Paso, cervecería y tapas**. Con una terraza amplia, carta de 
+tapas y raciones, en la calle Los Barrios, 28. **27\. La Fábrica**. Bar tradicional. 
+Buenos montaditos y tapas, en la Plaza de Santa Catalina, 3 (frente a la torre de 
+Guzmán). **28\. Chozo El Cai (conocido como El Bernabéu**) Está en pleno paseo marítimo 
+y se caracteriza por sus sardinas asadas y buenos precios. 
+
+Si te quieres llevar la comida a casa, uno de los lugares clásicos es **Freiduría 
+Zapola** (Pascual Junquera, 18), un sitio pequeño donde saben cómo agradar al cliente, 
+incluso le ponen una caña para que la espera se haga más corta. 
 
 ## Más sitios en Conil donde desayunar o merendar bien
 
@@ -302,7 +298,7 @@ calle Solera, 4); y, entre otros, **Más que cajas** (desde las 7, en calle Gonz
 Sánchez Fuentes, 15). Si quieres **comprar churros**, el lugar más tradicional es el 
 quiosco situado cerca del Arco de la Villa. 
 
-?Si visitas Conil en verano, un clásico para desayunar es el **chiringuito El Roqueo**. 
+Si visitas Conil en verano, un clásico para desayunar es el **chiringuito El Roqueo**. 
 Suele tener hasta cola para sentarse con las maravillosas vistas de la playa El Roqueo. 
 
 ![Ricos pasteles de Canela & Miel, en Conil.](https://fotos.etheriamagazine.com/2022/07/pasteleria-canela-miel-conil.jpg "Pastelería Canela&Miel, en Conil. © Etheria Magazine")

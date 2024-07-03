@@ -11,7 +11,11 @@ authors:
   - Rosa Marqués
 ---
 
-Está claro que la opción de viajar en autocaravana este verano se perfila como una de las más seguras. Hacerlo a través de refrescantes paisajes de la costa o de montaña es un sueño. Imagínate amanecer en un lugar único, en silencio, o ver una puesta de sol con una botella de vino.
+Está claro que la opción de viajar en autocaravana este verano se perfila como una de 
+las más seguras y hacerlo a través de refrescantes paisajes de la costa o de montaña es 
+un sueño. Imagínate amanecer en un lugar único, en silencio, o ver una puesta de sol con 
+una botella de vino. Para ponerte los dientes largos te proponemos cinco rutas en 
+autocarvana por España que te van a encantar. 
 
 ![caravana, ruta espana, organizar viaje caravana](https://fotos.etheriamagazine.com/2020/07/ruta-viaje-caravanas-900x600.jpg "Una caravana es una casa con las vistas que tú elijas. © Alice Hartrick")
 
@@ -25,13 +29,17 @@ de Semana Santa o alargando los puentes de mayo.
 Si tienes que alquilar una autocaravana hay que planteárselo con tiempo, ya que en 
 verano suele colgar el cartel de "completo" desde principios de julio hasta septiembre. 
 Te recomendamos que te descargues también **una serie de apps** que te salvarán la vida 
-en más de una ocasión. Toma nota: ? Para saber dónde están las áreas de descanso para 
-autocaravanas, los cámpings y los aparcamientos: **AutoC en Ruta** y **Campercontact**. 
-? Para tener en cuenta la distancia a la que estará la próxima gasolinera: **GasAll**. ? 
-Para planificar rutas **Google Maps** y **ruta.ate**. ? Para elegir alojamiento en ruta: 
-**CampingES** y la **app Autocaravanas**. ?Por último, no te olvides de consultar las 
-apps de la predicción del tiempo y otras para compartir comentarios y recomendaciones de 
-lugares para acampar o aparcar: **Park4night**. 
+en más de una ocasión. Toma nota: 
+
+- Para saber dónde están las áreas de descanso para autocaravanas, los cámpings y los aparcamientos: **AutoC en Ruta** y **Campercontact**.
+
+- Para tener en cuenta la distancia a la que estará la próxima gasolinera: **GasAll**.
+
+- Para planificar rutas **Google Maps** y **ruta.ate**.
+
+- Para elegir alojamiento en ruta: **CampingES** y la **app Autocaravanas**.
+
+- Por último, no te olvides de consultar las apps de la predicción del tiempo y otras para compartir comentarios y recomendaciones de lugares para acampar o aparcar: **Park4night**.
 
 ![biarritz, caravanas, ruta espana, viajes en coche](https://fotos.etheriamagazine.com/2020/07/ruta-caravana-biarritz-900x600.jpg "Biarritz. © Toa Heftiba")
 
@@ -57,10 +65,8 @@ gastronomía; seguido de **Mundaka**, un pequeño pueblo en el interior de la es
 **Reserva de la Biosfera del Urdaibai,** donde el surf es más que una práctica 
 deportiva. También pasaremos por **Lekeitio**, un pueblecito pesquero famoso durante 
 siglos por sus pescadores de ballenas, y con el encanto de encontrarse junto a la 
-desembocadura del río Lea. Si el cuerpo os pide ciudad, [Bilbao](http://etheriamagazine.com/2019/12/23/finde-bilbao-con-amigas-mejores-restaurantes/) 
-queda a menos de una hora y [San 
-Sebastián,](http://etheriamagazine.com/2019/11/08/de-pintxos-por-san-sebastian-y-la-costa-de-guipuzcoa-escapada-con-amigas/) 
-a una hora y 20 minutos. 
+desembocadura del río Lea. Si el cuerpo os pide ciudad, **Bilbao** queda a menos de una 
+hora y **San Sebastián**, a una hora y 20 minutos. 
 
 ![cudillero, Asturias, viaje espana, autocaravana, caravana](https://fotos.etheriamagazine.com/2020/07/viaje-caravana-cudillero-900x675.jpg "Cudillero (Asturias). © Miguel Ángel Sanz")
 
@@ -135,8 +141,7 @@ idioma propio, el ansotano. Otro de los puntos clave del Valle del Tena es **Pan
 En el Pirineo Aragonés también hallamos el **Cañón de Añisclo**, el cual nos brinda una 
 gran oferta de flora y fauna, así como grandes joyas geológicas. Otros parajes perfectos 
 para visitar en familia son las Aguas Tuertas, del Valle de Guarrinza, el **Parque 
-Nacional de Ordesa y Monte Perdido** o los [Miradores de San Juan de la 
-Peña](http://etheriamagazine.com/2019/04/28/mejores-paisajes-instagram-espana/). 
+Nacional de Ordesa y Monte Perdido** o los Miradores de San Juan de la Peña. 
 
 ### Ruta 5: La Galicia verde que se asoma al mar
 
@@ -155,10 +160,10 @@ mano. En **Viveiro**, la calle Pastor Díaz o calle de abajo es el lugar al que 
 ir para tapear y chatear (pero de tomar chatos). Y en **Rinlo**, en la **cofradía de 
 pescadores** preparan un arroz con bogavante que no hay que dejar pasar. 
 
-## ✅ Sigue leyendo... Andalucía en autocaravana
+**También te puede interesar:** 
 
-?? [Ruta en autocaravana por la Subbética Cordobesa (nuevas zonas para pernoctar 
+[Ruta en autocaravana por la Subbética Cordobesa (nuevas zonas para pernoctar 
 gratis).](https://etheriamagazine.com/2022/03/23/ruta-autocaravana-en-cordoba/) 
 
-?? [Andalucía en autocaravana y consejos útiles para 
+[Andalucía en autocaravana y consejos útiles para 
 novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/).

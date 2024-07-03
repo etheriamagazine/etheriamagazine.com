@@ -34,7 +34,9 @@ se arruga menos. Las de [American Tourister](https://amzn.to/430eJ35) son resist
 se pueden comprar en Amazon en varios colores. Pero si vas a realizar una ruta por Cuba 
 en autobús es mejor llevar una maleta blanda, que se amolde bien a los maleteros. Las de [Eastpak](https://amzn.to/48ugWoC) 
 son muy cómodas, resistentes y se abren a la mitad, lo que facilita repartir y colocar 
-bien la ropa y los accesorios. 
+bien la ropa y los accesorios. Y Si lleváis equipo fotográfico, esta [mochila de 
+Amazon](https://amzn.to/4eLEdXj) no os vendrá nada mal porque es discreta y con buen 
+tamaño. 
 
 ![Maleta de American Tourister y de Eastpak](https://fotos.etheriamagazine.com/2024/02/cuba-maletas.jpg "Maleta de American Tourister y de Eastpak, disponibles en Amazon.")
 
@@ -57,7 +59,10 @@ tambiénsuelen tener la opción de lavar la ropa.
 Lo que seguro no puede faltar es tu **equipamiento para la playa**, es casi imposible 
 viajar a Cuba y no disfrutar de alguna de ellas: bikinis, bañadores, pareos y vestidos 
 ligeros. Puedes optar por un modelo de [toalla-pareo](https://amzn.to/3wyXOss), muy 
-prácticos para viaje. 
+prácticos para viaje. Los sombreros necesitarían un apartado para ellos solos porque son 
+imprescindibles. Allí puedes comprar alguno de paja pero también te puedes llevar una 
+gorro o uno plegable con solapa para no quemarte el cuello si haces excursiones. Este [sombrero 
+marinero de Amazon](https://amzn.to/4bpw6x0) tiene muy buena pinta y es unisex. 
 
 ![Vestido estampado toalla-pareo](https://fotos.etheriamagazine.com/2024/02/cuba-maleta-ropa.jpg "Vestido estampado toalla-pareo, puedes comprarlos en Amazon.")
 
