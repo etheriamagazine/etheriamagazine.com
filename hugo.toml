@@ -75,7 +75,7 @@ summaryLength = 20
   [params.hugoEtheria]
     [params.hugoEtheria.subscribeForm]
       action = "/newsletter"  
-  
+    
 
   [params.subscribe]
     action = "/newsletter"
