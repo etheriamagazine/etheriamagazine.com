@@ -1,15 +1,16 @@
 {
   "dependencies": {
-    "@mailchimp/mailchimp_marketing": "^3.0.80",
-    "valibot": "^0.30.0",
-    "wrangler": "^3.53.0",
-    "zod": "^3.23.4"
+    "hono": "^4.6.2",
+    "valibot": "^0.42.1"
   },
   "scripts": {
+    "build": "HUGO_MODULE_WORKSPACE=hugo.work hugo --cleanDestinationDir --ignoreCache",
     "dev": "HUGO_MODULE_WORKSPACE=hugo.work hugo server --cleanDestinationDir --ignoreCache",
-    "preview": "concurrently \"npm run dev\" \"wrangler pages dev --live-reload true\""
+    "serve": "bun run --hot src/index.ts",
+    "preview": "concurrently \"bun run dev\" \"bun serve\""
   },
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "@types/bun": "latest",
+    "concurrently": "^9.0.1"
   }
 }

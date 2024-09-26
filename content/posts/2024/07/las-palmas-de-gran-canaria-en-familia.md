@@ -5,6 +5,8 @@ coverImage: https://fotos.etheriamagazine.com/2024/06/gran-canaria-Playa-Las-Can
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
+destinations:
+  - Isla Mauricio
 authors: 
   - Redacción Etheria
 ---

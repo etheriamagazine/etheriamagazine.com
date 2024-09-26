@@ -1,7 +1,7 @@
 # hugo build stage
 FROM hugomods/hugo:latest AS hugo
 COPY . /src
-
+    
 RUN \ 
     --mount=type=secret,id=HUGO_IMGPROXY_KEY \
     --mount=type=secret,id=HUGO_IMGPROXY_SALT \

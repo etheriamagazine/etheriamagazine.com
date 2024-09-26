@@ -9,6 +9,8 @@ removePathAccents = true
 # on a sentence
 summaryLength = 20
 
+[outputs]
+  home = ["html", "json"]
 [taxonomies]
   category = 'categories'
   author = 'authors'
@@ -72,11 +74,11 @@ summaryLength = 20
 
   [params.hugoEtheria]
     [params.hugoEtheria.subscribeForm]
-      action = "/app/newsletter/subscribe"
+      action = "/newsletter"  
   
 
   [params.subscribe]
-    action = "/app/newsletter/subscribe"
+    action = "/newsletter"
     [[params.subscribe.lists]]
       id = "3yExM8x4"
       label = "Newsletter"
