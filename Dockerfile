@@ -1,7 +1,12 @@
-# hugo build stage
+# ==============================================================================
+# hugo site build
+# See https://docker.hugomods.com/docs/introduction/
+
 FROM hugomods/hugo:latest AS hugo
+
 COPY . /src
-    
+
+# run hugo passing secrets
 RUN \ 
     --mount=type=secret,id=HUGO_IMGPROXY_KEY \
     --mount=type=secret,id=HUGO_IMGPROXY_SALT \
@@ -9,11 +14,23 @@ RUN \
     HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
     hugo --minify --enableGitInfo
 
-# final caddy image
-FROM caddy:2.8.4-alpine
+# ==============================================================================
+# final image 
+FROM oven/bun:latest
+
+# copy bun app
+COPY package.json ./
+COPY bun.lockb ./
+COPY src ./src
+
+RUN bun install
+
+# set
+ENV PORT=8080
 
 # copy hugo output
-COPY --from=hugo /src/public /usr/share/caddy
+COPY --from=hugo /src/public ./public
 
-# copy caddy configuration
-COPY Caddyfile /etc/caddy/Caddyfile
+ENTRYPOINT ["bun", "run", "src/index.ts"]
+
+EXPOSE 8080
