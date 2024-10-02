@@ -14,7 +14,7 @@ const app = new Hono();
 app.use('/*', serveStatic({ root: './public' }));
 app.route('/newsletter', newsletter);
 
-console.log(`Listening on http://??:${port}`);
+console.log(`Listening on http://localhost:${port}`);
 console.log('Press Ctrl+C to stop');
 
 export default {

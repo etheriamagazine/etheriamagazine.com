@@ -7,7 +7,8 @@
     "build": "HUGO_MODULE_WORKSPACE=hugo.work hugo --cleanDestinationDir --ignoreCache",
     "dev": "HUGO_MODULE_WORKSPACE=hugo.work hugo server --cleanDestinationDir --ignoreCache",
     "serve": "bun run --hot src/index.ts",
-    "preview": "concurrently \"bun run dev\" \"bun serve\""
+    "preview": "bun scripts/preview.sh",
+    "preview:browser": "xdg-open http://localhost:1313"
   },
   "devDependencies": {
     "@types/bun": "latest",

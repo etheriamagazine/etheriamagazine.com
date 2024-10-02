@@ -14,16 +14,9 @@ hugo.linux
 # hugo temp lock file
 .hugo_build.lock
 
-# npm 
+# npm packages 
 node_modules
 
-# cloudflare secrets
-.dev.vars
-.wrangler
-
-# frontmatter extension?
-.frontmatter
-
-# env var
+# env vars, secrets
 .env
-.env.test
+.env.local

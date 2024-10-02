@@ -38,7 +38,7 @@ esas que no se olvidan.
 
 ![Champán en zona de las hamacas y camas balinesas de Lobster Club.](https://fotos.etheriamagazine.com/2024/06/lobster-club-mallorca-champan.jpg "Champán en zona de las hamacas y camas balinesas de Lobster Club.")
 
-## Gastronomía de altura en Lobster Restaurant
+## Gastronomía de altura en Lobster Restauranta
 
 El Lobster Restaurant es una cita imprescindible este verano tanto si decides quedarte a 
 pasar el día en este club con vistas al mar como si solamente quieres disfrutar de su 
@@ -58,7 +58,7 @@ mantequilla de ajo y canónigos).
 
 ## La Cantina Lobster
 
-En Lobster Club también hay un espacio para quienes se acercan a pasear a Puerto Portals 
+En Lobster Club también hay un espacio para quienes, se acercan a pasear a Puerto Portals 
 o dejan aquí sus barcos y quieren tomar algo ligero y vivir en primera persona el 
 ambiente tan especial que se crea al atardecer: la Cantina Lobster. Aquí, en un espacio 
 con vistas estupendas y largas mesas blancas, se pueden degustar algunos platos ligeros 

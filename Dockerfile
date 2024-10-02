@@ -21,7 +21,7 @@ FROM oven/bun:latest
 # copy bun app
 COPY package.json ./
 COPY bun.lockb ./
-COPY src ./src
+COPY backend ./src
 
 RUN bun install
 
@@ -31,6 +31,6 @@ ENV PORT=8080
 # copy hugo output
 COPY --from=hugo /src/public ./public
 
-ENTRYPOINT ["bun", "run", "src/index.ts"]
+ENTRYPOINT ["bun", "run", "backend/index.ts"]
 
 EXPOSE 8080
