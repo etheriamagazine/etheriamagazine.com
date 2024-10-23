@@ -6,6 +6,9 @@ FROM hugomods/hugo:latest AS hugo
 
 COPY . /src
 
+# install dev dependencies
+RUN npm install
+
 # run hugo passing secrets
 RUN \
     --mount=type=secret,id=HUGO_IMGPROXY_KEY \
