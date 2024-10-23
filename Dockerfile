@@ -7,7 +7,7 @@ FROM hugomods/hugo:latest AS hugo
 COPY . /src
 
 # run hugo passing secrets
-RUN \ 
+RUN \
     --mount=type=secret,id=HUGO_IMGPROXY_KEY \
     --mount=type=secret,id=HUGO_IMGPROXY_SALT \
     HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" \
@@ -15,13 +15,13 @@ RUN \
     hugo --minify --enableGitInfo
 
 # ==============================================================================
-# final image 
+# final image
 FROM oven/bun:latest
 
 # copy bun app
 COPY package.json ./
 COPY bun.lockb ./
-COPY backend ./src
+COPY backend ./backend
 
 RUN bun install
 
