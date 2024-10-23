@@ -15,7 +15,7 @@ RUN \
     --mount=type=secret,id=HUGO_IMGPROXY_SALT \
     HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" \
     HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
-    hugo --minify --enableGitInfo --disableCache
+    hugo --minify --enableGitInfo --ignoreCache
 
 # ==============================================================================
 # final image
