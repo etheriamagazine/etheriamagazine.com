@@ -1,0 +1,64 @@
+
+[content]
+  defaultCoverImage = "https://placehold.co/1200x900"
+  deafutlAuthor = "??"
+
+# seo
+[metadata]
+  description = "1ª revista de viajes española para mujeres que les apasiona viajar"
+  titleFormat = "%s — %s"
+  author = "Etheria Magazine"
+  twitter = "etheriamagazine"
+  image = "logo-que-seguro-que-no-existe.svg"
+  author_urls = [
+    "https://www.facebook.com/etheriamagazine/",
+    "https://twitter.com/etheriamagazine",
+    "https://www.instagram.com/etheriamagazine/",
+    "https://www.pinterest.es/etheriamagazine/",
+    "https://github.com/etheriamagazine   ",
+  ]
+
+# advertising
+[publi]
+  items = ["publi/2023-polonia", "publi/2024-biofest", "publi/2022-getxo"]
+
+[imgproxy]
+  enabled = true
+  host = "https://imgp.etheriamagazine.com/"
+  sourceStyle = "plain"
+
+  [imgproxy.responsive]
+    defaultSize = 900
+    responsiveSizes = [600, 900, 1200]
+    processingOptions = "rs:fit:%s"
+    format = "avif"
+
+
+[plausible]
+  enable = true
+  domain = "etheriamagazine-com.fly.dev"
+
+  proxy = true
+  proxyPath = "/eu-compliance"
+
+  [plausible.optional]
+    local = true
+    fileDownloads = true
+    outboundLinks = true
+    error404 = true
+    customEvents = true
+
+[hugoEtheria]
+  [hugoEtheria.subscribeForm]
+    action = "/newsletter"
+
+[subscribe]
+  action = "/newsletter"
+  [[subscribe.lists]]
+    id = "3yExM8x4"
+    label = "Newsletter"
+
+
+  [[subscribe.lists]]
+    id = "3yExM8x4"
+    label = "Marketing"

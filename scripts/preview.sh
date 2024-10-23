@@ -1,3 +1,6 @@
 #!/bin/bash
 # build hugo
-hugo serve --cleanDestinationDir
+
+
+HUGO_MODULE_WORKSPACE=hugo.work hugo
+bun --watch run ./backend/index.ts

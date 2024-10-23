@@ -1,5 +1,11 @@
-go 1.21.6
+go 1.23.1
 
 use .
-use ../hugo-etheria
 use ../hugo-mod-jslibs/minisearch
+use ../hugo-modules/imgproxy
+use ../hugo-modules/sky-theme
+use ../hugo-modules/seo-tools/json-ld
+use ../hugo-modules/seo-tools/basic-seo
+use ../hugo-modules/seo-tools/plausible-analytics
+
+

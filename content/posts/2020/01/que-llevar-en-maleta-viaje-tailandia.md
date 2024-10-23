@@ -180,8 +180,6 @@ mercados](https://etheriamagazine.com/2021/01/08/chiang-mai-explora-en-3-dias-la
 [Planes en Phuket con amigas dispuestas a 
 divertirse](https://etheriamagazine.com/2019/06/26/que-ver-en-phuket-tailandia-sola-o-con-amigas/) 
 
-<script type="text/javascript"><br /> var uri = 
+<script type="text/javascript"> var uri = 
 'https://impfr.tradedoubler.com/imp?type(img)g(23930018)a(3132464)' + new String 
-(Math.random()).substring (2, 11);<br /> document.write('<a 
-href="https://clk.tradedoubler.com/click?p=281568&a=3132464&g=23930018" 
-target="_BLANK"><img src="'+uri+'" border=0></a>');<br /></script>
+(Math.random()).substring (2, 11); document.write('<a href="https://clk.tradedoubler.com/click?p=281568&a=3132464&g=23930018" target="_BLANK"><img src="'+uri+'" border=0></a>');</script>

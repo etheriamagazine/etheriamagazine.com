@@ -1,0 +1,69 @@
+baseURL = "https://etheriamagazine-com.fly.dev/"
+title = "Etheria Magazine"
+defaultContentLanguage = "es"
+
+removePathAccents = true
+summaryLength = 20
+
+
+[build]
+  [build.buildStats]
+    enable = true
+
+  [[build.cachebusters]]
+    source = "layouts/.*"
+    target = "css"
+
+  [[build.cachebusters]]
+    source = "assets/js/.*"
+    target = "css"
+
+[outputs]
+  home = ["html", "json"]
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
+
+[permalinks]
+  [permalinks.page]
+    posts = "/:year/:month/:day/:filename"
+
+  [permalinks.section]
+    posts = "/articulos"
+
+  [permalinks.taxonomy]
+    categories = "/categorias"
+    authors = "/autores"
+
+  [permalinks.term]
+    categories = "/categorias/:slug/"
+    authors = "/autores/:slug"
+
+[pagination]
+  disableAliases = false
+  pagerSize = 20
+  path = "page"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github-ascii"
+      wrapStandAloneImageWithinParagraph = false
+
+[minify]
+  disableJS = false
+  disableJSON = true
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepComments = true
+      keepWhitespace = true
+      keepQuotes = true
+[module]
+  [[module.imports]]
+    path = "github.com/etheriamagazine/hugo-modules/sky-theme"

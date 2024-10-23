@@ -3,15 +3,17 @@
     "hono": "^4.6.2",
     "valibot": "^0.42.1"
   },
-  "scripts": {
-    "build": "HUGO_MODULE_WORKSPACE=hugo.work hugo --cleanDestinationDir --ignoreCache",
-    "dev": "HUGO_MODULE_WORKSPACE=hugo.work hugo server --cleanDestinationDir --ignoreCache",
-    "serve": "bun run --hot src/index.ts",
-    "preview": "bun scripts/preview.sh",
-    "preview:browser": "xdg-open http://localhost:1313"
-  },
   "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0-alpha.26",
+    "@tailwindcss/typography": "^0.5.15",
     "@types/bun": "latest",
-    "concurrently": "^9.0.1"
+    "concurrently": "^9.0.1",
+    "prettier": "^3.3.3",
+    "tailwindcss": "^4.0.0-alpha.26"
+  },
+  "scripts": {
+    "dev": "bun scripts/dev.sh",
+    "preview": "bun scripts/preview.sh"
+
   }
 }
