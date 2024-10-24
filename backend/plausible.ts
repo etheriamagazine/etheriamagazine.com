@@ -21,6 +21,7 @@ app.get('/js/:script', (c) => {
 // proxy event api
 app.post('/api/event', async (c) => {
   const info = getConnInfo(c);
+  console.log(`[plausible event]: ${JSON.stringify(info)}`);
 
   const req = new Request('https://plausible.io/api/event', {
     method: 'post',
