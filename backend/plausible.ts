@@ -20,16 +20,25 @@ app.get('/js/:script', (c) => {
 
 // proxy event api
 app.post('/api/event', async (c) => {
-  const info = getConnInfo(c);
-  console.log(`[plausible event]: ${JSON.stringify(info)}`);
+  const remoteAddress =
+    c.req.header('Fly-Client-IP') ||
+    c.req.header('CF-Connecting-IP') ||
+    getConnInfo(c).remote.address;
+
+  let headers: Record<string, string> = {
+    'User-Agent': c.req.header('User-Agent') ?? '',
+    'Content-Type': 'application/json',
+  };
+
+  if (remoteAddress) {
+    headers = { ...headers, 'X-Forwarded-For': remoteAddress };
+  }
+
+  console.log(`[plausible event]: ${JSON.stringify(headers)}`);
 
   const req = new Request('https://plausible.io/api/event', {
     method: 'post',
-    headers: {
-      'User-Agent': c.req.header('User-Agent') ?? '',
-      'X-Forwarded-For': info.remote.address ?? '',
-      'Content-Type': 'application/json',
-    },
+    headers: headers,
     body: await c.req.text(),
   });
 
