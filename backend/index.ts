@@ -1,6 +1,6 @@
 import { Hono } from 'hono';
 import { serveStatic } from 'hono/bun';
-import { reverseProxyToPlausible } from './plausible';
+import { plausibleProxy } from './plausible';
 import newsletter from './newsletter';
 
 // allow ctrl+c to shut down container
@@ -16,7 +16,7 @@ const app = new Hono();
 app.use('/*', serveStatic({ root: './public' }));
 
 // Setup proxy for plausible.io
-app.route('/eu-compliance', reverseProxyToPlausible);
+app.route('/proxyjs', plausibleProxy);
 
 // Backend functions
 app.route('/newsletter', newsletter);

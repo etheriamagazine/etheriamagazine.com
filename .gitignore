@@ -2,19 +2,13 @@
 .DS_Store
 Thumbs.db
 
-# hugo build
+# hugo output & temp files
 public
 resources/_gen
-
-# hugo executables, if present
-hugo.exe
-hugo.darwin
-hugo.linux
-
-# hugo temp lock file
 .hugo_build.lock
+hugo_stats.json
 
-# npm packages 
+# npm packages
 node_modules
 
 # env vars, secrets

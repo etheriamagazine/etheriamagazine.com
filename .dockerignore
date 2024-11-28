@@ -5,20 +5,12 @@
 # hugo build
 **/public
 **/resources/_gen
-
-# hugo executables, if present
-**/hugo.exe
-**/hugo.darwin
-**/hugo.linux
-
-# hugo temp lock file
 **/.hugo_build.lock
 
-# npm packages 
+# npm packages
 **/node_modules
 
 # env vars and secrets
 **/.dev.vars
-
-# frontmatter extension?
-fly.toml
+**/.env
+**/.env.local

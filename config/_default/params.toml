@@ -22,6 +22,20 @@
 [publi]
   items = ["publi/2023-polonia", "publi/2024-biofest", "publi/2022-getxo"]
 
+[ads]
+  section = "publicidad"
+  [ads.placement]
+    side = [
+      "2023-polonia",
+      "2024-biofest"
+    ]
+    before = [
+    ]
+    inside = [
+    ]
+    after = []
+
+
 [imgproxy]
   enabled = true
   host = "https://imgp.etheriamagazine.com/"
@@ -39,7 +53,7 @@
   domain = "etheriamagazine-com.fly.dev"
 
   proxy = true
-  proxyPath = "/eu-compliance"
+  proxyPath = "/proxyjs"
 
   [plausible.optional]
     local = true

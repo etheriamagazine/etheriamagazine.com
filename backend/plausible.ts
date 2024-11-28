@@ -3,38 +3,47 @@ import { getConnInfo } from 'hono/bun';
 
 const app = new Hono();
 
+/*
+  Middelware to remove Content-Enconding header. As fetch() api decodes the
+  content automatically and responses are proxied back downstream, remove the
+  content encoding header and let the hosting platform like Cloudflare, Fly.io and
+  others re-encode as they see fit.
+
+  See https://github.com/sveltejs/kit/issues/12197
+*/
 app.use(async (c, next) => {
   await next();
-
-  // as we are proxying responses from fetch() remove content-enconding header
-  // as fetch will always automatically decode the responses.
-  // See https://github.com/sveltejs/kit/issues/12197
   c.header('Content-Encoding', undefined);
 });
 
-// proxy script
+/*
+  proxy Plausible's tracking script
+*/
 app.get('/js/:script', (c) => {
   const script = c.req.param('script');
   return fetch(`https://plausible.io/js/${script}`);
 });
 
-// proxy event api
+/*
+  proxy requests to event api
+*/
 app.post('/api/event', async (c) => {
-  const remoteAddress =
-    c.req.header('Fly-Client-IP') ||
-    c.req.header('CF-Connecting-IP') ||
-    getConnInfo(c).remote.address;
-
+  // See https://plausible.io/docs/events-api#request-headers
+  // for required headers to send
   let headers: Record<string, string> = {
     'User-Agent': c.req.header('User-Agent') ?? '',
     'Content-Type': 'application/json',
   };
 
+  // retrieve remote address from hosting HTTP headers or bun's getConnInfo helper
+  const remoteAddress =
+    c.req.header('Fly-Client-IP') ||
+    c.req.header('CF-Connecting-IP') ||
+    getConnInfo(c).remote.address;
+
   if (remoteAddress) {
     headers = { ...headers, 'X-Forwarded-For': remoteAddress };
   }
-
-  console.log(`[plausible event]: ${JSON.stringify(headers)}`);
 
   const req = new Request('https://plausible.io/api/event', {
     method: 'post',
@@ -42,7 +51,7 @@ app.post('/api/event', async (c) => {
     body: await c.req.text(),
   });
 
-  return await fetch(req);
+  return fetch(req);
 });
 
-export { app as reverseProxyToPlausible };
+export { app as plausibleProxy };
