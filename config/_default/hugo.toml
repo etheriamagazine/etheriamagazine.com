@@ -6,6 +6,12 @@ removePathAccents = true
 summaryLength = 20
 
 
+[build]
+  # this is necessary in production so that hugo_stats.json is picked by tailwindcss
+  [build.buildStats]
+    enable = true
+
+
 [outputs]
   home = ["html", "json"]
 
