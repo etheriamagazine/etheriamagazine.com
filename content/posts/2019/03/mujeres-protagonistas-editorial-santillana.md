@@ -61,7 +61,3 @@ No hay mejor manera de percibir las cosas que con ejemplos prácticos. Aquí te 
 ##### **'Mujeres protagonistas'**. En la web [www.mujeresprotagonistas.santillana.com](http://mujeresprotagonistas.santillana.com/) se pueden consultar las ‘Vidas de Mujeres’ y ‘La voz de las Mujeres’.
 
 ##### La colección de libros ‘El papel de las mujeres’ se puede encontrar en las principales librerías y en venta online:
-
-<iframe style="width: 120px; height: 240px;" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&amp;t=etheriamagazi-21&amp;m=amazon&amp;o=30&amp;p=8&amp;l=as1&amp;IS1=1&amp;npa=1&amp;asins=8414108393&amp;linkId=4e2f0407e3066a6778d585379c43e2c9&amp;bc1=ffffff&amp;lt1=_top&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-<iframe style="width: 120px; height: 240px;" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=etheriamagazi-21&amp;m=amazon&amp;o=30&amp;p=8&amp;l=as1&amp;IS1=1&amp;npa=1&amp;asins=8414108342&amp;linkId=e2143b7d6e7a544691f0cb37c0df0f5d&amp;bc1=ffffff&amp;lt1=_top&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>

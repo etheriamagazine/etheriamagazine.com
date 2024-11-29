@@ -183,6 +183,4 @@ derivaron en una trayectoria dura pero satisfactoria para los demás y para ella
 
 ##### Dónde comprarlo
 
-El libro se puede adquirir en versión digital o edición impresa. 
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=etheriamagazi-21&amp;language=es_ES&amp;o=30&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B08P4QYJSG&amp;linkId=ee5bef9d79931fa109af1bc306d920f3" frameborder="0"></iframe>
+El libro se puede adquirir en versión digital o edición impresa.

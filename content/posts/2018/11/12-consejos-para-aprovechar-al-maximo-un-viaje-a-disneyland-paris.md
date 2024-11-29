@@ -168,10 +168,4 @@ online.
 niños](https://etheriamagazine.com/2018/07/09/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia/) 
 
 [Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
-viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/) 
-
-<script type="text/javascript"><br /> var uri = 
-'https://impes.tradedoubler.com/imp?type(iframe)g(23570076)a(3132464)' + new String 
-(Math.random()).substring (2, 11);<br /> document.write('<iframe src="'+uri +'" 
-width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" 
-scrolling="no"></iframe>');<br /></script>
+viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/)

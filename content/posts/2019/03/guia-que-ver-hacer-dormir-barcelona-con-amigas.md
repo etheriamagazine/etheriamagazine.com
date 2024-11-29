@@ -277,10 +277,6 @@ apartamentos con todas las comodidades.
 
 **Fotografías: © Félix Lorenzo.** 
 
-<script>function loadScript(url, callback){var script=document.createElement('script'); script.type='text/javascript'; if (script.readyState){script.onreadystatechange=function(){if (script.readyState=='loaded' || script.readyState=='complete'){script.onreadystatechange=null; callback();}};}else{script.onload=function(){callback();};}script.src=url; document.getElementsByTagName('head')[0].appendChild(script);}loadScript('https://cdn.civitatis.com/js/vendor/iframeResizer.min.js', function(){iFrameResize({checkOrigin:false,initCallback:function(iframe){setTimeout(function(){var resizeEvent = window.document.createEvent('UIEvents'); resizeEvent.initUIEvent('resize', true, false, window, 0); iframe.dispatchEvent(resizeEvent);});}})})</script>
-
-<iframe class="civitatis-iframe" src="https://www.civitatis.com/widget-activities/?affiliated=10211&amp;display=compact&amp;cant=2&amp;lang=es&amp;currency=EUR&amp;destination=35&amp;width=100%" width="100%" height="150" frameborder="0"></iframe>
-
 ### También te puede interesar:
 
 [10 planes originales para hacer con amigas en 
