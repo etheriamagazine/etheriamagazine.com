@@ -13,7 +13,7 @@ hotel Six Senses Douro Valley puede ser lo que necesitas. Sus retiros espiritual
 dirigidos por expertos y son un gran regalo para ti misma o para alguien especial que 
 creas que los necesita. 
 
-![Six Senses Douro Valley, un universo para los amantes del vino](https://fotos.etheriamagazine.com/2022/11/vendimia-six-sense-douro-valley-850x567.jpg "El entorno del hotel forma parte de la experiencia.")
+![Six Senses Douro Valley, un universo para los amantes del vino](https://fotos.etheriamagazine.com/2022/11/vendimia-six-sense-douro-valley.jpg "El entorno del hotel forma parte de la experiencia.")
 
 Los retiros espirituales vuelven a ser tendencia y una de las herramientas más eficaces 
 para reequilibrar cuerpo y mente. Si, además, ese reseteo se produce guiado por 

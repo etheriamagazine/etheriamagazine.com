@@ -38,7 +38,7 @@ sobre todo, diversión. Porque de eso se trata, de viajar, descubrir, socializar
 una semana increíble en compañía de otras mujeres que pasarán, en sólo unos días, de ser 
 unas desconocidas a cómplices de risas y de algún que otro secreto. 
 
-![Paseando por Blowing Rocks Preserve, una reserva natural de Florida](https://fotos.etheriamagazine.com/2022/03/The-Nature-Conservancy-Blowing-Rocks-Preserve-683x1024.jpg "Paseando por Blowing Rocks Preserve, una reserva natural de Florida.")
+![Paseando por Blowing Rocks Preserve, una reserva natural de Florida](https://fotos.etheriamagazine.com/2022/03/The-Nature-Conservancy-Blowing-Rocks-Preserve.jpg "Paseando por Blowing Rocks Preserve, una reserva natural de Florida.")
 
 ### 1\. Pasear en yate o catamarán
 
@@ -49,7 +49,7 @@ yate o un catamarán? Ver como el sol tiñe de color rojizo el _skyline_ de Miam
 mejor manera de inaugurar este viaje donde las mujeres somos las protagonistas, ¿no 
 crees? 
 
-![Durante el viaje a Miami de Semana Santa también hay tiempo para el relax](https://fotos.etheriamagazine.com/2022/03/viaje-amigas-miami-730x1024.jpg "Durante el viaje a Miami de Semana Santa también hay tiempo para el relax.")
+![Durante el viaje a Miami de Semana Santa también hay tiempo para el relax](https://fotos.etheriamagazine.com/2022/03/viaje-amigas-miami.jpg "Durante el viaje a Miami de Semana Santa también hay tiempo para el relax.")
 
 ### 2\. Visitar Miami con Zihara
 
@@ -100,7 +100,7 @@ universo. ¿Qué te parecería una sesión de yoga al atardecer para dar la bien
 luna llena? Este tipo de eventos se realizan en el complejo Deering Estate, frente a la 
 Bahía Vizcaína, sólo una vez al mes, y coincide con el viaje a Miami. 
 
-![practicaras yoga en este viaje a miami](https://fotos.etheriamagazine.com/2022/03/yoga-naturaleza-miami-683x1024.jpg "El yoga y la meditación son actividades que benefician a tu salud.")
+![practicaras yoga en este viaje a miami](https://fotos.etheriamagazine.com/2022/03/yoga-naturaleza-miami.jpg "El yoga y la meditación son actividades que benefician a tu salud.")
 
 Como en todos los viajes organizados contarás con algún tiempo libre por lo que, si eres 
 aficionada al cine, te animamos a buscar las localizaciones de alguna de tus películas 

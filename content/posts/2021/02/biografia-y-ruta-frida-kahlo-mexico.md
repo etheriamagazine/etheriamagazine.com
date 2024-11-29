@@ -13,7 +13,7 @@ Convertida en icono feminista, la artista mexicana Frida Kahlo reflejó en su ob
 pictórica tanto sus pasiones como su soledad e infortunios. Recorremos los escenarios de 
 su vida, aquellos que la marcaron como mujer y como artista. 
 
-![Frida en un banco blanc](https://fotos.etheriamagazine.com/2021/02/Frida-en-un-banco-blanco-714x1024.jpg "Frida en un banco blanco. © Nickolas Muray Photo Archives")
+![Frida en un banco blanc](https://fotos.etheriamagazine.com/2021/02/Frida-en-un-banco-blanco.jpg "Frida en un banco blanco. © Nickolas Muray Photo Archives")
 
 Nacida en Coyoacán (México) en 1907, Frida Kahlo es seguramente la artista mexicana más 
 conocida en el mundo. Transgresora, revolucionaria y apasionada, vivió con intensidad 
@@ -126,7 +126,7 @@ exposiciones colectivas en el Museo de Arte Moderno de Nueva York, en el Institu
 Arte Contemporáneo de Boston y en el Museo de Arte de Filadelfia, entre otras 
 instituciones. 
 
-![Retrato de Luther Burbank](https://fotos.etheriamagazine.com/2021/02/Frida-Kahlo-retrato-Luther-Burbank-722x1024.jpg "Retrato de Luther Burbank, 1931. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2020 Banco de México Diego Rivera Frida Kahlo Museums Trust, México DF ARS, New York")
+![Retrato de Luther Burbank](https://fotos.etheriamagazine.com/2021/02/Frida-Kahlo-retrato-Luther-Burbank.jpg "Retrato de Luther Burbank, 1931. Colección Museo Dolores Olmedo, Xochimilco, Mexico © 2020 Banco de México Diego Rivera Frida Kahlo Museums Trust, México DF ARS, New York")
 
 ## Los días finales de un mito
 

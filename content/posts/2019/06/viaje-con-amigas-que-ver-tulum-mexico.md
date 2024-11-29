@@ -143,7 +143,7 @@ frenético de este pueblo bohemio y singular.
 
 ¿Necesitáis más razones para empezar a planear el viaje? 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 yacimientos arqueológicos de México que no puedes 
 perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/) 

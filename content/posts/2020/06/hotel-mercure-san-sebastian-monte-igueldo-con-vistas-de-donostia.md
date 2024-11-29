@@ -134,7 +134,7 @@ Precio de habitación doble desde 120 Euros.
 
 © Fotografías cedidas por Accor Hotels. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Planes para un fin de semana en San Sebastián: seguro que no te 
 aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/) 

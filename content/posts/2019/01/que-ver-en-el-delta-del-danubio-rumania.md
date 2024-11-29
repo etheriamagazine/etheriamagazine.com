@@ -15,7 +15,7 @@ Rumanía para descubrir un universo acuático de canales y lagos, rodeados de es
 sobrevolado por miles de aves. Seas como seas, hay un motivo para viajar a este rincón 
 de Rumanía. 
 
-![Atardecer en el Delta del Danubio (Rumanía).](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-1024x521.jpg "Atardecer en el Delta del Danubio (Rumanía).")
+![Atardecer en el Delta del Danubio (Rumanía).](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio.jpg "Atardecer en el Delta del Danubio (Rumanía).")
 
 ## 1\. Vivir una aventura
 
@@ -29,7 +29,7 @@ contemplar **la puesta de sol más hermosa**, la que baña a todo un continente,
 el territorio más oriental del mismo, pues en la ribera izquierda del río contemplas 
 Ucrania. 
 
-![En el hotel Última Frontiera descubrirás la auténtica hospitalidad.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-tulcea-delta-danubio-1024x657.jpg "En el hotel Última Frontiera descubrirás la auténtica hospitalidad.")
+![En el hotel Última Frontiera descubrirás la auténtica hospitalidad.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-tulcea-delta-danubio.jpg "En el hotel Última Frontiera descubrirás la auténtica hospitalidad.")
 
 ## 2\. Por placer hedonista
 
@@ -44,7 +44,7 @@ singulares de fauna obtenidas en nuestros paseos a pie. Aunque también podemos 
 la reserva natural en nuestro vehículo ecológico, ya que cada habitación dispone de un 
 carrito eléctrico de golf para desplazarse libremente. 
 
-![El Delta del Danubio es el privilegiado refugio de más de 300 especies de aves.](https://fotos.etheriamagazine.com/2019/01/viajes-mujeres-delta-danubio-ornitologia-1024x683.jpg "El Delta del Danubio es el privilegiado refugio de más de 300 especies de aves.")
+![El Delta del Danubio es el privilegiado refugio de más de 300 especies de aves.](https://fotos.etheriamagazine.com/2019/01/viajes-mujeres-delta-danubio-ornitologia.jpg "El Delta del Danubio es el privilegiado refugio de más de 300 especies de aves.")
 
 ## 3\. Por amor a las aves
 
@@ -59,7 +59,7 @@ en los diferentes hábitats de la reserva te permitirán disfrutar de una situac
 privilegiada, pues podrás espiar a cualquier ave al natural sin que perciban tu 
 presencia. 
 
-![Interior de la iglesia ortodoxa de Rosetti (Rumanía).](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-iglesia-1024x683.jpg "Interior de la iglesia ortodoxa de Rosetti (Rumanía).")
+![Interior de la iglesia ortodoxa de Rosetti (Rumanía).](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-iglesia.jpg "Interior de la iglesia ortodoxa de Rosetti (Rumanía).")
 
 ## 4\. Por sus iglesias ortodoxas
 
@@ -78,7 +78,7 @@ viejos edificios, el faro y su iglesia. En las inmediaciones de la reserva, en l
 comunidad de C.A. Rosetti, se engloban cinco pueblos auténticamente rurales y con 
 llamativas iglesias ortodoxas. 
 
-![El chacal dorado es uno de los animales que se pueden ver en el Delta del Danubio.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-chacal-1024x670.jpg "El chacal dorado es uno de los animales que se pueden ver en el Delta del Danubio.")
+![El chacal dorado es uno de los animales que se pueden ver en el Delta del Danubio.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-chacal.jpg "El chacal dorado es uno de los animales que se pueden ver en el Delta del Danubio.")
 
 ## 5\. Para avistar al chacal dorado
 
@@ -91,7 +91,7 @@ permanecen junto a sus progenitores, desde los escondites preparados o durante n
 paseos por la reserva natural. Aunque es un carnívoro de comportamiento agresivo se 
 cuidará bien de mantenerse alejado de tu paso. 
 
-![Esta gran estepa se transforma con las crecidas del río.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-estepa-1024x683.jpg "Esta gran estepa se transforma con las crecidas del río.")
+![Esta gran estepa se transforma con las crecidas del río.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-estepa.jpg "Esta gran estepa se transforma con las crecidas del río.")
 
 ## 6\. Para recorrer la estepa
 
@@ -106,7 +106,7 @@ antigua de Rumanía y el origen de la protección del Delta del Danubio. Lo conv
 pasarelas), algunas de sus especies vegetales mediterráneas y la presencia de aves como 
 el cernícalo patirrojo y el pigargo europeo. 
 
-![Los cisnes viven en armonía en el Delta del Danubio.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-cisnes-1024x1024.jpg "Los cisnes viven en armonía en el Delta del Danubio.")
+![Los cisnes viven en armonía en el Delta del Danubio.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-cisnes.jpg "Los cisnes viven en armonía en el Delta del Danubio.")
 
 ## 7\. Para despertar tu lado romántico
 
@@ -117,7 +117,7 @@ vida**. Te enamorás de decenas de postales como aquella donde se ven los pescad
 entre redes con sus alargadas barcas tradicionales de madera, de la ternura con la que 
 las aves cuidan a sus crías o la complicidad que muestran en pareja. 
 
-![La mejor forma de conocer el entorno de los canales y ríos es a bordo de un barco.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-canal-1024x639.jpg "La mejor forma de conocer el entorno de los canales y ríos es a bordo de un barco.")
+![La mejor forma de conocer el entorno de los canales y ríos es a bordo de un barco.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-canal.jpg "La mejor forma de conocer el entorno de los canales y ríos es a bordo de un barco.")
 
 ## 8\. Para explorar por los canales
 
@@ -130,7 +130,7 @@ vegetación acuática de las orillas o la pradera que crece en zonas de inundaci
 islas flotantes contribuyen a crear ese aspecto salvaje y tan auténtico que te hará 
 querer adentrarte un poco más hasta encontrar las orillas abiertas de playas y dunas. 
 
-![En este lugar se encuentran los últimos caballos salvajes del continente.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-caballos-1024x683.jpg "En este lugar se encuentran los últimos caballos salvajes del continente.")
+![En este lugar se encuentran los últimos caballos salvajes del continente.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-caballos.jpg "En este lugar se encuentran los últimos caballos salvajes del continente.")
 
 ## 9\. Para ver caballos salvajes
 
@@ -146,7 +146,7 @@ la vacunación y control de la fertilidad de los animales, ha logrado la sosteni
 de los caballos salvajes y su contribución a la biodiversidad del Delta, además de esa 
 sensación salvaje y romántica que transmiten a su paso. 
 
-![Las granjas que encuentres en tu viaje te darán la oportunidad de conocer a los vecinos del lugar.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-granja-1024x683.jpg "Las granjas que encuentres en tu viaje te darán la oportunidad de conocer a los vecinos del lugar.")
+![Las granjas que encuentres en tu viaje te darán la oportunidad de conocer a los vecinos del lugar.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-rumania-delta-danubio-granja.jpg "Las granjas que encuentres en tu viaje te darán la oportunidad de conocer a los vecinos del lugar.")
 
 ## 10\. Para conocer la forma de vida local
 

@@ -15,7 +15,7 @@ José y la belleza de las cercanas playas del Caribe. En este paraíso podrás c
 Marielos Corea, Mayra Gayle y Andrea Sánchez, tres grandes mujeres expertas en 
 artesanía, cultura y hostelería. 
 
-![Playa y chiringuito de Puerto Viejo, en Costa Rica.](https://fotos.etheriamagazine.com/2022/09/Puerto-Viejo-costa-rica.jpg "Animado ambiente de Puerto Viejo, en Costa Rica.")
+![Playa y chiringuito de Puerto Viejo, en Costa Rica.](https://fotos.etheriamagazine.com/2022/09/Puerto-Viejo-costa-rica.jpg "Animado ambiente de Puerto Viejo, en Costa Rica. © Turismo de Costa Rica")
 
 Si tuviésemos que hallar un nexo común entre las mujeres emprendedoras de Costa Rica, 
 más allá de la fortaleza y pasión por su país, este sería la creatividad. Ese deseo de 
@@ -29,7 +29,7 @@ elegido tres con un fuerte vínculo con el turismo.
 
 ## Mujeres que se atrevieron a soñar en Costa Rica
 
-![Marielos Corea, artesana de Costa Rica.](https://fotos.etheriamagazine.com/2022/09/Marielos-Corea-costa-rica.jpg "Marielos Corea, artesana de Costa Rica.")
+![Marielos Corea, artesana de Costa Rica.](https://fotos.etheriamagazine.com/2022/09/Marielos-Corea-costa-rica.jpg "Marielos Corea, artesana de Costa Rica. © Turismo de Costa Rica")
 
 ### Marielos Corea, artesana
 
@@ -46,7 +46,7 @@ talleres del ICT (Instituto Costarricense de Turismo) de Artesanías con Identid
 independencia económica es indispensable para el empoderamiento femenino, sea cual sea 
 el tamaño de la comunidad donde se viva. Ella misma nos lo cuenta en este [vídeo](https://www.youtube.com/watch?v=3cbGajK5cOk&list=PL4pQXgPNDyY3jBc-6KiTlv-oKnRrteDhH&index=11). 
 
-![Mayra Gayle trabajo en el Teatro Nacional de San José (Costa Rica).](https://fotos.etheriamagazine.com/2022/09/Mayra-Gayle-683x1024.jpg "Mayra Gayle trabaja en el Teatro Nacional de San José (Costa Rica).")
+![Mayra Gayle trabajo en el Teatro Nacional de San José (Costa Rica).](https://fotos.etheriamagazine.com/2022/09/Mayra-Gayle.jpg "Mayra Gayle trabaja en el Teatro Nacional de San José. © Turismo de Costa Rica")
 
 ### Mayra Gayle, gestión en el Teatro Nacional
 
@@ -60,7 +60,7 @@ contacto con la gente... extranjeros, nacionales, jóvenes, niños, adultos, may
 mayor deseo es que la gente quiera al Teatro Nacional como ella lo quiere. No te pierdas 
 las presentación de Mayra en este [vídeo](https://www.youtube.com/watch?v=PhD9qRsxe4U&list=PL4pQXgPNDyY3jBc-6KiTlv-oKnRrteDhH&index=13). 
 
-![Andrea Sánchez, propietaria de Faith Glamping Dome.](https://fotos.etheriamagazine.com/2022/09/Andrea-Sanchez-faith-glamping-costarica.jpg "Andrea Sánchez, propietaria de Faith Glamping Dome.")
+![Andrea Sánchez, propietaria de Faith Glamping Dome.](https://fotos.etheriamagazine.com/2022/09/Andrea-Sanchez-faith-glamping-costarica.jpg "Andrea Sánchez, propietaria de Faith Glamping Dome. © Turismo de Costa Rica")
 
 ### Andrea Sánchez, el sueño de ser astronauta
 
@@ -77,7 +77,7 @@ le gustaría ser recordada como una mujer que quería “impulsar la economía y
 otras mujeres a través del ejemplo, que es como mejor se enseña, que sí se puede soñar”. 
 Puedes conocer a Andrea en este [vídeo](https://www.youtube.com/watch?v=E0a2moyi3GI&list=PL4pQXgPNDyY3jBc-6KiTlv-oKnRrteDhH&index=12). 
 
-![Techo del Teatro Nacional de San José](https://fotos.etheriamagazine.com/2022/09/Teatro-Nacional-San-Jose.jpg "Teatro Nacional, en San José.")
+![Techo del Teatro Nacional de San José](https://fotos.etheriamagazine.com/2022/09/Teatro-Nacional-San-Jose.jpg "Teatro Nacional, en San José. © Turismo de Costa Rica")
 
 ## Del Valle Central de Costa Rica a las playas del Caribe
 
@@ -88,7 +88,7 @@ por San José y terminando en las paradisiacas playas del entorno de Puerto Viej
 costa caribeña. De este modo no sólo es posible recorrer sus principales hitos 
 turísticos sino conocer a nuestras tres protagonistas. 
 
-![Museos Nacional y de Jade (Izq.) Restaurante Furca y grafiti. (Dcha.)](https://fotos.etheriamagazine.com/2022/09/fotos-san-jose-costa-rica.jpg "Museos Nacional y de Jade (Izq.) Restaurante Furca y grafiti. (Dcha.)")
+![Museos Nacional y de Jade (Izq.) Restaurante Furca y grafiti. (Dcha.)](https://fotos.etheriamagazine.com/2022/09/fotos-san-jose-costa-rica.jpg "Museos Nacional y de Jade (Izq.) Restaurante Furca y grafiti. (Dcha.) © Turismo de Costa Rica")
 
 ### 1\. San José, la dinámica capital de Costa Rica
 
@@ -101,7 +101,7 @@ de Oro Precolombino, y el monumental **Teatro Nacional**, donde trabaja **Mayra 
 Lleno de color y sabores se encuentra el **Mercado Central**, donde los alimentos, las 
 especias y las flores parecen competir para mostrar la tonalidad más viva. 
 
-![Mercado Central de San José.](https://fotos.etheriamagazine.com/2022/09/San-Jose-Central-Market.jpg "Mercado Central de San José.")
+![Mercado Central de San José.](https://fotos.etheriamagazine.com/2022/09/San-Jose-Central-Market.jpg "Mercado Central de San José. © Turismo de Costa Rica")
 
 Y no olvidéis incluir en el recorrido el **Museo del Jade**, el Parque Morazán, corazón 
 de la vida social en el siglo XIX, el Museo de Arte y Diseño Contemporáneo, la Casa 
@@ -110,7 +110,7 @@ decirlo, pero siempre hay que dejar momentos libres para degustar la cocina de
 restaurantes tan afamados como **Silvestre** y **Sikwa**, apegados a la tierra en sus 
 productos y recetas. 
 
-![Tucán de Costa Rica](https://fotos.etheriamagazine.com/2022/09/tucan-valle-central-costa-rica-683x1024.jpg "La observación de aves es una de las actividades ideales en el Valle Central de Costa Rica.")
+![Tucán de Costa Rica](https://fotos.etheriamagazine.com/2022/09/tucan-valle-central-costa-rica.jpg "La observación de aves es una de las actividades ideales en el Valle Central de Costa Rica. © Turismo de Costa Rica")
 
 ### Naturaleza del Valle Central
 
@@ -129,7 +129,7 @@ del volcán resulta curioso observar campos de cultivo, tanto de fresas como de 
 ornamentales, además del Museo de los Volcanes. Hay una zona con aparcamiento donde 
 podrás dejar el coche, una cafetería y la casa del guardabosques. 
 
-![Cráter con lago del volcán Irazu](https://fotos.etheriamagazine.com/2022/09/volcan-Irazu-Costa-Rica.jpg "Volcán Irazu, en el Valle Central de Costa Rica.")
+![Cráter con lago del volcán Irazu](https://fotos.etheriamagazine.com/2022/09/volcan-Irazu-Costa-Rica.jpg "Volcán Irazu, en el Valle Central de Costa Rica. © Cedida por Turismo de Costa Rica")
 
 #### 3\. Valle de Santa María de Dota y Valle de Copey
 
@@ -143,7 +143,7 @@ Copey, a más de 1.800 metros de altitud, porque aparte de sus vistas de infarto
 posible hacer senderismo, montar a caballo, pescar, hacer mil fotos y observar un buen 
 número de aves. 
 
-![Valle de Orosi, en el Valle Central de Costa Rica](https://fotos.etheriamagazine.com/2022/09/Costa-Rica-Valle-de-Orosi.jpg "Valle de Orosi.")
+![Valle de Orosi, en el Valle Central de Costa Rica](https://fotos.etheriamagazine.com/2022/09/Costa-Rica-Valle-de-Orosi.jpg "Valle de Orosi. © Turismo de Costa Rica")
 
 #### 4\. Valle de Orosi
 
@@ -155,7 +155,7 @@ es muy pintoresco y cuenta con algunas visitas de interés como la iglesia y el 
 Colonial, que edificó la orden franciscana a mediados del siglo XVIII. Declarada 
 Monumento Nacional en 1985, es una de las pocas construcciones coloniales de esa época. 
 
-![El quetzal una de las vidas exóticas que se pueden ver en Costa Rica.](https://fotos.etheriamagazine.com/2022/09/Quetzal-costa-rica-715x1024.jpg "El quetzal es una de las vidas exóticas que se pueden ver en Costa Rica.")
+![El quetzal una de las vidas exóticas que se pueden ver en Costa Rica.](https://fotos.etheriamagazine.com/2022/09/Quetzal-costa-rica.jpg "El quetzal es una de las vidas exóticas que se pueden ver en Costa Rica. © Turismo de Costa Rica")
 
 #### 5\. Cerro de la Muerte y San Gerardo de Dota
 
@@ -171,7 +171,7 @@ una pequeña población accesible desde el Cerro de la Muerte donde pernoctar en
 entorno selvático y gozar de caminatas tan agradables como la que lleva a las cataratas 
 del río Savegre. 
 
-![Exuberante vegetación con cascada en el Cerro de la Muerte](https://fotos.etheriamagazine.com/2022/09/cerro-muerte-costa-rica.jpg "Cerro de la Muerte, en el Valle Central de Costa Rica.")
+![Exuberante vegetación con cascada en el Cerro de la Muerte](https://fotos.etheriamagazine.com/2022/09/cerro-muerte-costa-rica.jpg "Cerro de la Muerte, en el Valle Central de Costa Rica. © Turismo de Costa Rica")
 
 ### Un paseo histórico y cultural
 
@@ -185,7 +185,7 @@ Fue declarada Monumento Nacional en 1920 y es una parada ineludible cuando se re
 algún circuito por el Valle del Reventazón. Es ideal para tomar fotografías o incluso 
 hacer un pícnic en sus jardines. 
 
-![Ruinas de la iglesia de Ujarrás.](https://fotos.etheriamagazine.com/2022/09/ruinas-ujarras-costa-rica.jpg "Ruinas de la iglesia de Ujarrás.")
+![Ruinas de la iglesia de Ujarrás.](https://fotos.etheriamagazine.com/2022/09/ruinas-ujarras-costa-rica.jpg "Ruinas de la iglesia de Ujarrás. © Turismo de Costa Rica")
 
 #### 7\. Ciudad de Cartago
 
@@ -199,7 +199,7 @@ recomendamos conocer otro, el de Santiago Apóstol, que no quiso el destino que 
 llegara a consagrar. Tres veces lo intentaron terminar y otras tantas lo tumbó un 
 terremoto. 
 
-![Basílica de los Ángeles, en Cartago, Costa Rica](https://fotos.etheriamagazine.com/2022/09/basilica-angeles-cartago.jpg "Basílica de los Ángeles, en Cartago.")
+![Basílica de los Ángeles, en Cartago, Costa Rica](https://fotos.etheriamagazine.com/2022/09/basilica-angeles-cartago.jpg "Basílica de los Ángeles, en Cartago. © Turismo de Costa Rica")
 
 #### 8. Ciudad de Turrialba
 
@@ -211,7 +211,7 @@ para adquirir piezas artesanales de madera (hay excelentes talladores), probar e
 artesanal de La Suiza, Aquiares o Turrialba y realizar actividades de rafting por los 
 ríos Pacuare y Reventazón. 
 
-![Rafting en el entorno de Turrialba, en el Valle Central de Costa Rica.](https://fotos.etheriamagazine.com/2022/09/rafting-turrialba-costa-rica.jpg "Rafting en el entorno de Turrialba, en el Valle Central de Costa Rica.")
+![Rafting en el entorno de Turrialba, en el Valle Central de Costa Rica.](https://fotos.etheriamagazine.com/2022/09/rafting-turrialba-costa-rica.jpg "Rafting en el entorno de Turrialba, en el Valle Central de Costa Rica. © Turismo de Costa Rica")
 
 #### 9\. Ciudad de Puriscal
 
@@ -223,7 +223,7 @@ plantaciones de tabaco y descubrir los secretos de la elaboración de los puros.
 habéis quedado con ganas de naturaleza, no dejéis de acercaros al Parque Nacional La 
 Cangreja. 
 
-![Playa de Cocles, en el Refugio Nacional de Vida Silvestre de Gandoca.](https://fotos.etheriamagazine.com/2022/09/playa-cocles-gandoca.jpg "Playa de Cocles, en el Refugio Nacional de Vida Silvestre de Gandoca.")
+![Playa de Cocles, en el Refugio Nacional de Vida Silvestre de Gandoca.](https://fotos.etheriamagazine.com/2022/09/playa-cocles-gandoca.jpg "Playa de Cocles, en el Refugio Nacional de Vida Silvestre de Gandoca. © Turismo de Costa Rica")
 
 ### Inspiración y relax entre la selva y la playa
 

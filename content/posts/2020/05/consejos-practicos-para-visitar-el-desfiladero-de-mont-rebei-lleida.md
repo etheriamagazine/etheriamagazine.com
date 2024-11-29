@@ -60,7 +60,7 @@ es, sino que estas tierras fueron cubiertas de agua por decisión del hombre. La
 estampas que se crean con las plantas emergiendo del agua te tendrán entretenida un rato 
 haciendo fotos antes de continuar. 
 
-![Primer puente colgante del sendero del congost de Mont-rebei.](https://fotos.etheriamagazine.com/2020/05/excursion-mont-rebei-puente-colgante-900x582.jpg "Primer puente colgante del sendero del congost de Mont-rebei. © Pepa García")
+![Primer puente colgante del sendero del congost de Mont-rebei.](https://fotos.etheriamagazine.com/2020/05/excursion-mont-rebei-puente-colgante.jpg "Primer puente colgante del sendero del congost de Mont-rebei. © Pepa García")
 
 ### Un puente de vértigo
 

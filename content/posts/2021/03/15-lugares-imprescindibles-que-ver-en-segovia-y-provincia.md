@@ -62,7 +62,7 @@ un edificio propio de un cuento de hadas que fue durante siglos fortaleza de los
 monarcas castellanos. Y aunque resulte difícil escapar del influjo de estos monumentos, 
 Segovia ofrece mucho más, basta pasear por sus calles y disfrutarla. 
 
-? [Freetour por 
+📌 [Freetour por 
 Segovia](https://www.civitatis.com/es/segovia/free-tour-segovia/?aid=10211) o [Visita 
 guiada por Segovia, Alcázar y 
 Catedral](https://www.civitatis.com/es/segovia/visita-guiada-segovia-catedral/?aid=10211). 
@@ -76,7 +76,7 @@ Delimitándola en uno de sus extremos, la catedral de Nuestra Señora de la Asun
 San Frutos, conocida como la Dama de las Catedrales. Construida entre los siglos XVI y 
 XVIII, su estilo está catalogado como gótico tardío. 
 
-?**Dónde comer en Segovia:** [Los tres tenores del cochinillo, una historia de amor 
+📌**Dónde comer en Segovia:** [Los tres tenores del cochinillo, una historia de amor 
 correspondido.](https://etheriamagazine.com/2020/12/01/mejores-restaurantes-para-comer-cochinillo-en-segovia/) 
 
 ![panoramica del acueducto romano de segovia](https://fotos.etheriamagazine.com/2021/03/segovia-acueducto-romano.jpg "Acueducto romano de Segovia. © Dip. Prov. de Segovia")
@@ -116,7 +116,7 @@ Galería de las Estatuas, la Sala Japonesa, el Salón de Lacas, el museo de Tapi
 Real Colegiata en cuya capilla descansan los restos de Felipe V y los de su esposa 
 Isabel de Farnesio. 
 
-?[Freetour por los Jardines de la Granja de San 
+📌[Freetour por los Jardines de la Granja de San 
 Ildefonso](https://www.civitatis.com/es/real-sitio-de-san-ildefonso/free-tour-jardines-palacio-la-granja/?aid=10211) 
 o [Visita guiada por el palacio y sus 
 jardines](https://www.civitatis.com/es/real-sitio-de-san-ildefonso/?aid=10211) (unos 20 
@@ -186,7 +186,7 @@ Natural de las Hoces del río Duratón**. Apenas quedan vestigios de lo que debi
 construcción monástica del siglo XII. Suficiente para contemplar al atardecer la puesta 
 de sol desde el espolón que se abre hacia la garganta. 
 
-? [Tour en kayak por las Hoces del 
+📌 [Tour en kayak por las Hoces del 
 Duratón](https://www.civitatis.com/es/fuenterrebollo/tour-kayak-hoces-duraton/?aid=10211) 
 (27 €) 
 
@@ -270,7 +270,7 @@ muralla, se encuentra la antigua cárcel con sus sorprendentes celdas de madera.
 también por su gastronomía tradicional segoviana es habitual que los domingos sus 
 restaurantes estén repletos. No olvidéis reservar. 
 
-? [Tour privado por Pedraza para 
+📌 [Tour privado por Pedraza para 
 grupos](https://www.civitatis.com/es/pedraza/tour-privado-pedraza/?aid=10211), hasta 4 
 personas 90 €, luego sube un poco. 
 
@@ -303,7 +303,7 @@ Plaza Mayor porticada, la ermita de San Nicolás, la iglesia de Santa María la 
 palacio del obispo Vellosillo o la casa-palacio de María Eugenia de Montijo que la noble 
 usaba para reposar de sus viajes entre Madrid y París. 
 
-? [Tour privado por 
+📌 [Tour privado por 
 Ayllón](https://www.civitatis.com/es/ayllon/tour-privado-ayllon/?aid=10211). 
 
 ![el muyo pueblo negro de segovia](https://fotos.etheriamagazine.com/2021/03/segovia-pueblo-El-Muyo.jpg "El Muyo debe su tonalidad al tono oscuro de las pizarras. © Turismo Diputación de Segovia")
@@ -324,8 +324,8 @@ y Martín Muñoz de Ayllón, amarillos. Para gustos ya sabéis lo que dicen.
 
 ![cochinillo restaurante jose maria](https://fotos.etheriamagazine.com/2020/11/restaurante-jose-maria-segovia.jpg "Cochinillo deshuesado y vino Pago de Carraovejas del © restaurante José María (Segovia).")
 
-? [11 escapadas de un día a 100 km o más de 
+📌 [11 escapadas de un día a 100 km o más de 
 Madrid](https://etheriamagazine.com/2020/06/02/11-escapadas-cercanas-a-dos-horas-de-madrid/). 
 
-? [Sepulveda y las hoces del Duratón, una escapada para toda la 
+📌 [Sepulveda y las hoces del Duratón, una escapada para toda la 
 familia.](https://etheriamagazine.com/2019/07/11/sepulveda-y-las-hoces-del-duraton-viaje-en-familia/)

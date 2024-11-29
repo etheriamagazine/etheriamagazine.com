@@ -14,7 +14,7 @@ authors:
 Todavía quedan oasis donde no llegan los _wasaps_ en cadena de Nochevieja, los memes 
 tras el discurso del Rey, ni las llamadas de trabajo. Y benditos sean. 
 
-![vacaciones sin cobertura, navidad sin movil, viajes sin internet](https://fotos.etheriamagazine.com/2018/12/pueblos-sin-internet-1-1024x683.jpg "Lugares donde desconectar del teléfono.")
+![vacaciones sin cobertura, navidad sin movil, viajes sin internet](https://fotos.etheriamagazine.com/2018/12/pueblos-sin-internet-1.jpg "Lugares donde desconectar del teléfono.")
 
 Pero, si una vez en ellos la necesidad digital aprieta, quizá tengas que buscarte la 
 vida y subirte a una piedra para poder tener contacto con el resto del mundo. O 
@@ -35,7 +35,7 @@ y, por supuesto, olvidarse del teléfono móvil.
 > El Desierto de Tabernas revive su gloria cinematográfica gracias a los poblados del 
 > oeste que recrean filmes como ‘Por un puñado de dólares’ o ‘La muerte tenía un precio’. 
 
-![Representación de un western en el Oasys MiniHollywood (Almería).](https://fotos.etheriamagazine.com/2018/12/Oasys-MiniHollywood-Almeria-1024x730.jpg "Representación de un western en el Oasys MiniHollywood (Almería). © Joaquín Luján")
+![Representación de un western en el Oasys MiniHollywood (Almería).](https://fotos.etheriamagazine.com/2018/12/Oasys-MiniHollywood-Almeria.jpg "Representación de un western en el Oasys MiniHollywood (Almería). © Joaquín Luján")
 
 ## Los abrigos rupestres de Tormón
 
@@ -48,7 +48,7 @@ del Pozo… Pero si quieres usar el teléfono móvil, tendrás que dar un paseo 
 sus paisajes hasta que los dioses prehistóricos —y las antenas— te brinden alguna raya 
 de cobertura. 
 
-![Tormón conserva restos de un castillo del siglo XII.](https://fotos.etheriamagazine.com/2018/12/Castillo-Tormon-etheria-magazine-1024x731.jpg "Tormón conserva restos de un castillo del siglo XII. © Lourdes Casas")
+![Tormón conserva restos de un castillo del siglo XII.](https://fotos.etheriamagazine.com/2018/12/Castillo-Tormon-etheria-magazine.jpg "Tormón conserva restos de un castillo del siglo XII. © Lourdes Casas")
 
 ## Para hacer llamadas, súbete a una piedra
 
@@ -69,7 +69,7 @@ innovador concepto educativo, propio de los cánones de la Institución Libre de
 Enseñanza. Si viajas en familia, el alojamiento **La Casita del Árbol** contiene en su 
 interior un gran parque de juegos para los más pequeños. 
 
-![Un vecino busca cobertura sobre ‘La Piedra’, en Soto de Sajambre (León).](https://fotos.etheriamagazine.com/2018/12/Soto-de-sajambre-etheria-magazine-1024x560.jpg "Un vecino busca cobertura sobre ‘La Piedra’, en Soto de Sajambre (León). © Juan M. Blanco Vega")
+![Un vecino busca cobertura sobre ‘La Piedra’, en Soto de Sajambre (León).](https://fotos.etheriamagazine.com/2018/12/Soto-de-sajambre-etheria-magazine.jpg "Un vecino busca cobertura sobre ‘La Piedra’, en Soto de Sajambre (León). © Juan M. Blanco Vega")
 
 ## Una remota aldea junto al Monte Perdido
 
@@ -94,7 +94,7 @@ a la perfección con nuestro objetivo. Esta fortaleza medieval, enclavada en ple
 de los Ancares, en Lugo, protagoniza leyendas propias de las tierras gallegas, como la 
 tenebrosa historia de Aldara, la _Mujer Cierva_. 
 
-![Castillo medieval de Doiras (Lugo).](https://fotos.etheriamagazine.com/2018/12/castillo-doiras-etheria-magazine-1024x768.jpg "Castillo medieval de Doiras (Lugo). © Fundaciòn Xosé Soto de Fiòn")
+![Castillo medieval de Doiras (Lugo).](https://fotos.etheriamagazine.com/2018/12/castillo-doiras-etheria-magazine.jpg "Castillo medieval de Doiras (Lugo). © Fundaciòn Xosé Soto de Fiòn")
 
 Cada vez escuchamos menos "El usuario al que llama está fuera de cobertura", por eso 
 agradecemos la existencia de estos recónditos lugares. Siempre nos quedarán los pueblos. 

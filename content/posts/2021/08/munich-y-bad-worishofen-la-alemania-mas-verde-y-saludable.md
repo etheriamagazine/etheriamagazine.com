@@ -12,7 +12,7 @@ authors:
 
 Recorrer Múnich en bicicleta para conocer el entorno de su río, sus bosques y jardines es perfecto, pero también es conveniente ir más allá y visitar la ciudad balneario de Bad Wörishofen. Allí vivió Sebastian Kneipp, el "Médico del agua", conocido por sus innovadoras terapias. ¿Estás preparada para descubrir la Alemania más verde y saludable en estas dos ciudades?
 
-![Kupark Bad Worishofen](https://fotos.etheriamagazine.com/2021/07/alemania-kupark-bad-worishofen-900x620.jpg "El bucólico Kurpark en Bad Wörishofen parece un cuadro impresionista. © Manena Munar")
+![Kupark Bad Worishofen](https://fotos.etheriamagazine.com/2021/07/alemania-kupark-bad-worishofen.jpg "El bucólico Kurpark en Bad Wörishofen parece un cuadro impresionista. © Manena Munar")
 
 Una forma estupenda de conocer la Alemania más saludable es pedaleando a orillas del río 
 Isar, que nace en los Alpes Austriacos y desemboca en el Danubio, pasando antes por el 
@@ -98,7 +98,7 @@ de altura, la casa de té donde se celebra su ceremonia y un **templo griego** d
 lo alto de la colina desde donde ver la magnitud del parque con las cúpulas de la ciudad 
 sobresaliendo. 
 
-![Surfeando en el Eisbach munich](https://fotos.etheriamagazine.com/2021/08/munich-surf-jardin-ingles-649x1024.jpg "Surfeando en el Eisbach (afluente del Isar) en el Jardín Inglés, centro de Múnich. © M.M.")
+![Surfeando en el Eisbach munich](https://fotos.etheriamagazine.com/2021/08/munich-surf-jardin-ingles.jpg "Surfeando en el Eisbach (afluente del Isar) en el Jardín Inglés, centro de Múnich. © M.M.")
 
 #### Surfeando en el centro de la _city_
 

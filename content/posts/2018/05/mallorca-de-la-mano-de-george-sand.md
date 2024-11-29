@@ -119,7 +119,7 @@ se puede rastrear el influjo que le dejó su estancia en la misma. Y Chopin tamb
 sacar fuerzas de su deteriorado estado físico para componer buena parte de sus preludios 
 y algunas polonesas, mazurcas y sonatas. 
 
-![Calles de Valldemossa](https://fotos.etheriamagazine.com/2018/05/Valldemossa-683x1024.jpg "Una bonita postal de Valldemossa.")
+![Calles de Valldemossa](https://fotos.etheriamagazine.com/2018/05/Valldemossa.jpg "Una bonita postal de Valldemossa.")
 
 ## Un viaje romántico
 

@@ -16,7 +16,7 @@ su marido Danny. Como lo está a los descendientes de la dinastía Rozvi, habita
 genuinos de la reserva Hwange hasta 1928, fecha en la que se declaró parque nacional y 
 los Rozvi se trasladaron a Nambya King, donde viven actualmente. 
 
-![Elizabeth Pasalk](https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria-1024x688.jpg "Elizabeth Pasalk, una vida unida a Zimbabue.")
+![Elizabeth Pasalk](https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria.jpg "Elizabeth Pasalk, una vida unida a Zimbabue.")
 
 El **Parque Nacional de Hwange** está considerado como la reserva más grande de Zimbabue 
 con 14.600 km2. Posee una excepcional biodiversidad paisajística con escenarios que 
@@ -45,7 +45,7 @@ se encaminó a construir un par de alojamientos en 2010, uno al borde de la lagu
 los elefantes presidenciales de Zimbabue, únicos en su especie, repostan y beben y otro 
 a orillas del Parque Nacional Hwange. 
 
-![trabajadora de lodge Gwango Heritage Resort](https://fotos.etheriamagazine.com/2018/12/Zimbabue-Gwango-Heritage-Resort-1024x686.jpg "La vida transcurre tranquila en el lodge Gwango Heritage Resort, de Zimbabue.")
+![trabajadora de lodge Gwango Heritage Resort](https://fotos.etheriamagazine.com/2018/12/Zimbabue-Gwango-Heritage-Resort.jpg "La vida transcurre tranquila en el lodge Gwango Heritage Resort, de Zimbabue.")
 
 La historia de las dos propiedades –**Gwango Heritage Resort**, con 8 habitaciones, y 
 **Gwango Elephant Lodge**, con 20– es genuina. Habla de Zimbabue como lo hacen sus muros 
@@ -56,7 +56,7 @@ del lago donde beben los elefantes. Caminas entre sonidos inquietantes y una osc
 que todo lo agazapa y que se vuelve aun más excitante a la hora de volver, envueltos en 
 la espesura, a bordo del todoterreno hasta la otra propiedad, Gwango Heritage Resort. 
 
-![coche de safari en Zimbabue](https://fotos.etheriamagazine.com/2018/12/mujeres-en-safari-de-zimbabue-1024x668.jpg "Safari en Zimbabue.")
+![coche de safari en Zimbabue](https://fotos.etheriamagazine.com/2018/12/mujeres-en-safari-de-zimbabue.jpg "Safari en Zimbabue.")
 
 En la noche acechan decenas de ojos brillantes y una serie de sonidos que es imposible 
 descifrar quién los produce ni de dónde vienen... a pesar de que Elizabeth asegura que 
@@ -79,7 +79,7 @@ entre las que pone orden, si fuera necesario. Su complicidad, dice Elizabeth, es
 imprescindible para cualquier iniciativa zimbabuense, que una vez obtenida dura para el 
 resto de los días. 
 
-![cama y plato de lodge Gwango Heritage Resort](https://fotos.etheriamagazine.com/2018/12/Zimbabue-Gwango-Heritage-Resort-2-1024x763.jpg "Un interior sencillo pero confortable el del lodge Gwango Heritage Resort.")
+![cama y plato de lodge Gwango Heritage Resort](https://fotos.etheriamagazine.com/2018/12/Zimbabue-Gwango-Heritage-Resort-2.jpg "Un interior sencillo pero confortable el del lodge Gwango Heritage Resort.")
 
 ## Amanecer en Gwango Heritage Lodge
 
@@ -94,7 +94,7 @@ fuerza les viene de su agrupación familiar. Los elefantes presidenciales, prota
 de la fauna de Zimbabue, se cruzan solemnemente por el camino y los impalas aparecen por 
 doquier. 
 
-![Gwango Elephant Lodge](https://fotos.etheriamagazine.com/2018/12/Gwango-Elephant-Lodge-1024x666.jpg "Gwango Elephant Lodge.")
+![Gwango Elephant Lodge](https://fotos.etheriamagazine.com/2018/12/Gwango-Elephant-Lodge.jpg "Gwango Elephant Lodge.")
 
 El punto azul en el matorral no es otro que el tucán pequeño azul, símbolo de Uganda, y 
 el trino del llamado _go away_ hace pensar en los depredadores que no tardan en aparecer 
@@ -108,7 +108,7 @@ El cielo se vuelve rojo como solo en África sabe hacerlo. Es el momento de enma
 contraluz de la acacia, algún perfil bonito y autóctono y quién sabe si la silueta de 
 ese elefante o jirafa que han tenido a bien cruzase delante del astro solar. 
 
-![Silueta de una acacia al atardecer y un león africano.](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-zimbabue-1024x376.jpg "Silueta de una acacia al atardecer y un león africano.")
+![Silueta de una acacia al atardecer y un león africano.](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-zimbabue.jpg "Silueta de una acacia al atardecer y un león africano.")
 
 ## Proyectos y experiencias de Gwango
 
@@ -121,7 +121,7 @@ Nambya, sus casas, artesanía e incluso se imparten _forums_ en los que particip
 _chiefs_. Safaris a la puesta de sol, safaris de noche, a pie, e incluso bodas a la 
 manera africana son algunas de las experiencias que se pueden vivir en Gwango. 
 
-![mujer con telas típicas de Zimbabue](https://fotos.etheriamagazine.com/2018/12/artesania-zimbabue-mujeres-viajes-1024x762.jpg "Así de coloridas son las telas de Zimbabue. ¡Querrás llevártelas todas!")
+![mujer con telas típicas de Zimbabue](https://fotos.etheriamagazine.com/2018/12/artesania-zimbabue-mujeres-viajes.jpg "Así de coloridas son las telas de Zimbabue. ¡Querrás llevártelas todas!")
 
 > El dinero físico prácticamente no existe más que como souvenir para los turistas. Los 
 > locales funcionan con unas curiosas tarjetas de crédito que consiguen en cualquier 
@@ -161,7 +161,7 @@ solar.
 
 [Turismo de Zimbabue](http://www.zimbabwetourism.net/) 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Sudáfrica, un destino con hoteles fuera de 
 cobertura](https://etheriamagazine.com/2019/12/11/planes-para-desconectar-en-sudafrica/) 

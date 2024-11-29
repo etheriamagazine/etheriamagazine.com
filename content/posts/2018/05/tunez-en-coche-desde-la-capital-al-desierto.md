@@ -24,7 +24,7 @@ desde la capital hasta Tozeur, una ciudad del desierto. A continuación, describ
 las **etapas principales** que debes tener en cuenta en este v**iaje a Túnez con 
 amigas** (aunque deja un par de días que te den margen a la improvisación). 
 
-![Tienda de libros del zoco de tunez](https://fotos.etheriamagazine.com/2018/05/Medina-Túnez-librería-1024x717.jpg "En el zoco de la medina de Túnez se pueden adquirir productos muy variados.")
+![Tienda de libros del zoco de tunez](https://fotos.etheriamagazine.com/2018/05/Medina-Túnez-librería.jpg "En el zoco de la medina de Túnez se pueden adquirir productos muy variados.")
 
 ## Día 1. Túnez o Tunicia, la capital
 

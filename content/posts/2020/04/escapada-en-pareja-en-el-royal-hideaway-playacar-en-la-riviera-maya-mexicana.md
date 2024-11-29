@@ -16,7 +16,7 @@ adultos en la paradisíaca costa de Playa del Carmen, en la Riviera Maya mexican
 todo lo que puedas desear para esa escapada romántica que tan bien sienta al menos una 
 vez al año. 
 
-![Royal Hideaway Playacar Adults only](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-vista-general-900x505.jpg "Vista del Royal Hideaway Playacar Adults only.")
+![Royal Hideaway Playacar Adults only](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-vista-general.jpg "Vista del Royal Hideaway Playacar Adults only.")
 
 México es un país donde podrías viajar decenas de veces sin cansarte. Los viajeros que 
 se acercan hasta este país suelen tener dos motivaciones, la cultural y la de descanso. 
@@ -39,7 +39,7 @@ Relax Pool** (cerca de las piscinas) o **Luxury Sunrise** (cerca del mar). Todas
 con bonitos muebles de caoba, bañera de hidromasaje, pantalla LED, cafetera, minibar, 
 Wifi… y todos los servicios que corresponden a un hotel de cinco estrellas. 
 
-![habitación del Royal Hideaway Playacar](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-habitacion-900x601.jpg "Habitación Luxury.")
+![habitación del Royal Hideaway Playacar](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-habitacion.jpg "Habitación Luxury.")
 
 Si queréis daros un capricho, elige alguna de sus suites: la espaciosa **Suite Ocean 
 View** (de dos pisos) está llena de rincones con encanto; la **Royal Casita** cuenta con 
@@ -54,7 +54,7 @@ necesites salir del hotel si no lo deseas. Cuenta con el **servicio de Todo Incl
 tan popular en el Caribe que aquí viene arropado por la calidad de sus seis restaurantes 
 y tres bares, en los que podrás disfrutar de comidas y bebidas de forma ilimitada. 
 
-![Restaurante Spices del Royal Hideaway Playacar](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-gastronomia-900x601.jpg "Restaurante Spices.")
+![Restaurante Spices del Royal Hideaway Playacar](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-gastronomia.jpg "Restaurante Spices.")
 
 **Spices** es el restaurante de estilo mexicano con vistas al mar que puedes disfrutar 
 en del desayuno, comida y cena. 
@@ -65,7 +65,7 @@ degustación de nueve platos (con maridaje de vinos) en la que el Chef Ejecutivo
 equipo van explicando las técnicas de cada plato mientras se ve la cocina a través de un 
 gran cristal y de cámaras de vídeo. 
 
-![Restaurante The Deck junto a la playa](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-restaurante-playa-900x601.jpg "Restaurante The Deck.")
+![Restaurante The Deck junto a la playa](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-restaurante-playa.jpg "Restaurante The Deck.")
 
 **Palazzo** está dedicado a la gastronomía italiana y **Azia Avant Thai** a la asiática, 
 con especial atención a los platos tailandeses. **The Grill** está reservado para la 
@@ -84,7 +84,7 @@ tranquilos paseos. Tiene **seis piscinas**, que incluyen tres de relajación y u
 _infinity pool_ con cascada y unas vistas increíbles de la playa. Para descansar, puedes 
 optar por las camas balinesas o las tumbonas de la terraza solarium. 
 
-![Infinity Pool del Royal Hideaway Playacar](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-piscina-infinita-900x601.jpg "'Infinity pool' frente a la playa.")
+![Infinity Pool del Royal Hideaway Playacar](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-piscina-infinita.jpg "'Infinity pool' frente a la playa.")
 
 Pero uno de los mayores atractivos del hotel es su **playa**, ubicada junto a las 
 piscinas, donde podréis pasar el rato leyendo en una tumbona, practicando algún deporte 
@@ -93,7 +93,7 @@ o bañándote en el mar. Si te gustan las actividades acuáticas, el hotel dispo
 obtener los certificados de buceo. Si sois más de deportes en tierra firme, seguro que 
 preferís sus **pistas de tenis** o el cercano **campo de golf** (a 3 kilómetros). 
 
-![Cama balinesa en la playa.](https://fotos.etheriamagazine.com/2020/03/Resort-hideaway-playacar-playa-900x601.jpg "Cama balinesa en la playa.")
+![Cama balinesa en la playa.](https://fotos.etheriamagazine.com/2020/03/Resort-hideaway-playacar-playa.jpg "Cama balinesa en la playa.")
 
 ## El Spa The Retreat
 
@@ -103,7 +103,7 @@ vivir en el hotel. Podrás elegir entre gran variedad de tratamientos y masajes 
 más diversas técnicas. Con la opción de recibir el masaje en pareja y convertirlo en una 
 experiencia única, ¿qué os parece un masaje al lado del mar? 
 
-![Sala del spa The Retreat.](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-spa-900x601.jpg "Sala del spa The Retreat.")
+![Sala del spa The Retreat.](https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-spa.jpg "Sala del spa The Retreat.")
 
 [Royal Hideaway Playacar - Adults 
 only](https://www.barcelo.com/es/royal-hideaway/hoteles/mexico/riviera-maya/royal-hideaway-playacar/#servicios) 
@@ -112,7 +112,7 @@ Lote Hotelero No. 6, Desarrollo. 77710 Playacar , Playa del Carmen. Quintana Roo
 
 Fotografías © Barceló Hotel Group 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Qué ver en Riviera 
 Nayarit](http://etheriamagazine.com/2020/02/21/viaje-con-amigas-mexico-que-ver-en-riviera-nayarit/) 

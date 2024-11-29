@@ -156,7 +156,7 @@ que no hay que renunciar. Se tiene constancia de que ya en el siglo XVI se elabo
 la isla, aunque seguro que no había la variedad de hoy día: lisa (sin relleno), con 
 cabello de ángel, nata, trufa... e incluso con sobrasada. 
 
-?Si te va el dulce, en este artículo te damos la [receta para hacer una coca de patata, 
+📍Si te va el dulce, en este artículo te damos la [receta para hacer una coca de patata, 
 una coca de anís y otra de 
 turrón](https://etheriamagazine.com/2021/11/19/recetas-cocas-patata-anis-turron-de-palma/). 
 
@@ -197,7 +197,7 @@ los controles del aeropuerto. En este artículo te hablábamos de una interesant
 del vino 
 mallorquina](https://etheriamagazine.com/2018/07/26/ruta-del-vino-binissalem-viaje-mallorca-interior/). 
 
-![Mujer vino Enoturismo Binissalem Mallorca](https://fotos.etheriamagazine.com/2018/07/Mujer-vino-Enoturismo-Binissalem-Mallorca-Torres-1024x683.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
+![Mujer vino Enoturismo Binissalem Mallorca](https://fotos.etheriamagazine.com/2018/07/Mujer-vino-Enoturismo-Binissalem-Mallorca-Torres.jpg "© CRDO Binissalem (Mallorca)/ M.Torres")
 
 Si además de qué comprar en Mallorca te interesa conocer propuestas turísticas de 
 interés, no te pierdas estos artículos: 

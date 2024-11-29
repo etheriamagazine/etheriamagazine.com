@@ -57,7 +57,7 @@ oficialmente ha sido el Camino de Santiago marítimo, del que ya te hablamos en 
 artículo: [Camino de Santiago por la Ría de Muros-Noia, una aventura a toda 
 vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/). 
 
-![viaje ninos paris, que hacer en disneyland, diversion en disneyland](https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-7-1024x683.jpg "Disneyland Paris.")
+![viaje ninos paris, que hacer en disneyland, diversion en disneyland](https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-7.jpg "Disneyland Paris.")
 
 ## 4\. Bailar con un Mickey Mouse treintañero
 
@@ -108,7 +108,7 @@ aluminio traslúcido. En tu visita no te pierdas la obra más icónica de Edvard
 Grito_, cuyas tres versiones se exponen en una misma sala como parte de la colección 
 permanente. 
 
-? Si es tu primera visita, sigue leyendo: [Oslo: Qué ver en una primera 
+📌 Si es tu primera visita, sigue leyendo: [Oslo: Qué ver en una primera 
 visita.](https://etheriamagazine.com/2020/01/24/viajes-con-amigas-que-ver-y-hacer-en-oslo/) 
 
 ![gran telescopio canaras, estrellas la palma, astroturismo](https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador-telescopio-canarias.jpg "Gran Telescopio Canarias. © Toño González")
@@ -125,7 +125,7 @@ de nubes, y esto fue lo que te contamos: [10 poderosas razones para viajar a La 
 ninguna es el 
 volcán).](https://etheriamagazine.com/2021/11/15/10-razones-para-visitar-la-palma/) 
 
-![agra india](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Agra-2-900x601.jpg "Taj Mahal, en India. © Juan Carlos Muñpz")
+![agra india](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Agra-2.jpg "Taj Mahal, en India. © Juan Carlos Muñpz")
 
 ## 9\. Brindar por la independencia de la India
 
@@ -138,7 +138,7 @@ India cuando se es
 mujer](https://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/). ¿Estás 
 dispuesta a brindar el próximo verano en este país? 
 
-![museo corpus, viaje leiden](https://fotos.etheriamagazine.com/2019/11/viaje-leiden-museo-corpus-900x634.jpg "Museo Corpus, en Leiden. © P.Grifol")
+![museo corpus, viaje leiden](https://fotos.etheriamagazine.com/2019/11/viaje-leiden-museo-corpus.jpg "Museo Corpus, en Leiden. © P.Grifol")
 
 ## 10\. Descubrir la faceta científica de Leiden
 
@@ -150,7 +150,7 @@ esta ciudad de Países Bajos ha sido reconocida como **Capital Europea de la Cie
 Durante todo el año se realizarán actividades, exposiciones, congresos y decenas de 
 eventos de gran interés. 
 
-![olvera. pueblos blancos cadiz, pueblos mas bonitos españa](https://fotos.etheriamagazine.com/2018/10/Olvera-pueblos-blancos-683x1024.jpg "Bajada del castillo de Olvera, Cádiz. © Etheria Magazine")
+![olvera. pueblos blancos cadiz, pueblos mas bonitos españa](https://fotos.etheriamagazine.com/2018/10/Olvera-pueblos-blancos.jpg "Bajada del castillo de Olvera, Cádiz. © Etheria Magazine")
 
 ## 11\. Comprobar la belleza de Olvera
 

@@ -25,7 +25,7 @@ aguas termales que cuentan con propiedades mineromedicinales, fomentar el empleo
 zona de influencia, dotar a cada hotel de excelentes restaurantes y por integrar, en la 
 medida de los posible, propuestas para mayores y para familias. 
 
-?Ubicación: Castilla Termal Monasterio de Valbuena se encuentra a 35 km de Valladolid y 
+📍Ubicación: Castilla Termal Monasterio de Valbuena se encuentra a 35 km de Valladolid y 
 180 de Madrid. 
 
 ![Claustro del siglo XII del Castilla Termal Monasterio de Valbuena.](https://fotos.etheriamagazine.com/2018/09/monasterio-valbuena-claustro-1-e1565250450685.jpg "Claustro del siglo XII del Castilla Termal Monasterio de Valbuena.")

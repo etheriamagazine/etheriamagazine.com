@@ -48,8 +48,8 @@ No dejes de pasarte tampoco por la James Joyce Tower, el Pub Davy Byrnes, el Tri
 College y la University College de Dublín (estos dos últimos acogerán del 12 al 18 de 
 junio el 28º Simposio Internacional James Joyce). 
 
-? En la plataforma [Ulysses 100](https://ulysses100.ie/) se compartirá información sobre 
-todos los eventos internacionales del centenario (presencial y online) 
+📌 En la plataforma [Ulysses 100](https://ulysses100.ie/) se compartirá información 
+sobre todos los eventos internacionales del centenario (presencial y online) 
 
 ![Museo de la Literatura de Irlanda o MoLI](https://fotos.etheriamagazine.com/2021/06/museo-literatura-dublin-ruta-ulises.jpg "Museo de la Literatura de Irlanda o MoLI. © T. Irlanda")
 
@@ -123,7 +123,7 @@ melodía que Leopold Bloom interpretaba en el libro como un “dingdón, dingdó
 ‘Ulises’ menciona: “El sonido del repiqueteo de las horas nocturnas por el carillón de 
 la iglesia de Saint George”. 
 
-![Cementerio de Glasnevin](https://fotos.etheriamagazine.com/2021/06/Glasnevin-Cemetery-Dublin-900x600.jpg "Cementerio de Glasnevin, en Dublín. © Turismo de Irlanda")
+![Cementerio de Glasnevin](https://fotos.etheriamagazine.com/2021/06/Glasnevin-Cemetery-Dublin.jpg "Cementerio de Glasnevin, en Dublín. © Turismo de Irlanda")
 
 ### 3\. Cementerio de Glasnevin
 

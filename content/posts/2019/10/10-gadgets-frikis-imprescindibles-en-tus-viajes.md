@@ -14,7 +14,7 @@ Llámalo gadget, invento, ideaza…en esta selección te presentamos lo último 
 viajar sea un placer desde que sales hasta que vuelves a casa. 10 gadgets 
 imprescindibles para viajes que harán que te plantees cómo no los has utilizado antes. 
 
-## ![maleta mujer viajera, gadgets de viaje](https://fotos.etheriamagazine.com/2019/10/gadget-equipaje-mujer-viajera-900x596.jpg "gadgets de viaje")
+## ![maleta mujer viajera, gadgets de viaje](https://fotos.etheriamagazine.com/2019/10/gadget-equipaje-mujer-viajera.jpg "gadgets de viaje")
 
 ## 1\. Sujetador con secreto
 
@@ -24,7 +24,7 @@ Bra](https://www.thetravelbra.com) puedes encontrarlos con diseños convencional
 modelos playeros -muy útiles para las festivaleras-. ¡Tienen espacio hasta para meter el 
 pintalabios! 
 
-![Sujetador de viaje](https://fotos.etheriamagazine.com/2019/10/sujetador-viaje-bolsillos-secretos-900x358.jpg "Sujetador de viaje. © Travel Bra")
+![Sujetador de viaje](https://fotos.etheriamagazine.com/2019/10/sujetador-viaje-bolsillos-secretos.jpg "Sujetador de viaje. © Travel Bra")
 
 ## 2\. Jabón en láminas
 
@@ -33,7 +33,7 @@ jabón](https://amzn.to/2N9KZub). Y en general, en muchos baños que encuentres 
 viaje. Lo único que necesitas es impregnarlas con un poco de agua. Huelen bien, ocupan 
 poco y son económicas. 
 
-![jabon barato de viaje](https://fotos.etheriamagazine.com/2019/10/jabon-barato-viaje-higiene-900x446.jpg "Higiene rápida en tus viajes. © Sodial/ Amazon")
+![jabon barato de viaje](https://fotos.etheriamagazine.com/2019/10/jabon-barato-viaje-higiene.jpg "Higiene rápida en tus viajes. © Sodial/ Amazon")
 
 ## 3\. Organizadores de maletas
 
@@ -50,7 +50,7 @@ impecables y sin arrugas. También hay [organizadores de
 maletas](https://amzn.to/2BEopVe) que además de ordenar, sirven para ahorrar espacio 
 pues tienen un efecto compresor. 
 
-![organizadores baratos maletas](https://fotos.etheriamagazine.com/2019/10/organizador-barato-maleta-900x458.jpg "Organizadores de maleta.")
+![organizadores baratos maletas](https://fotos.etheriamagazine.com/2019/10/organizador-barato-maleta.jpg "Organizadores de maleta.")
 
 ## 4\. Candado TSA
 
@@ -63,7 +63,7 @@ que lleves o incluso rajar la maleta sin compensación alguna. Los [candados
 TSA](https://amzn.to/3fIlgeh) solo se pueden abrir con una llave universal de las 
 autoridades aeroportuarias. 
 
-![candado para maleta rojo](https://fotos.etheriamagazine.com/2019/10/candado-tsa-615x1024.jpg "Candado TSA de Amazon.")
+![candado para maleta rojo](https://fotos.etheriamagazine.com/2019/10/candado-tsa.jpg "Candado TSA de Amazon.")
 
 ## 5\. Mochila antirrobo Bobby
 
@@ -85,7 +85,7 @@ ni cuando estás dormida, con esta otra [almohada BCOZZY](https://amzn.to/2JgrTS
 soporte para el mentón, conseguirás que la cabeza no se vaya para delante con cada 
 sueño. 
 
-![Almohadas de viaje](https://fotos.etheriamagazine.com/2019/10/almohadas-cuello-viaje-avion-900x297.jpg "Almohadas de viaje.")
+![Almohadas de viaje](https://fotos.etheriamagazine.com/2019/10/almohadas-cuello-viaje-avion.jpg "Almohadas de viaje.")
 
 ## 7\. Antifaz
 
@@ -100,7 +100,7 @@ lechuga. En este caso te recomendamos [este antifaz](https://amzn.to/2ByHqZ8) qu
 incluye tapones para los oídos y, además, una máscara de gel refrescante que evitará 
 migrañas, ojeras… 
 
-![antifaz viaje relajante](https://fotos.etheriamagazine.com/2019/10/antifaces-terapia-viajes-900x458.jpg "Antifaces relajantes.")
+![antifaz viaje relajante](https://fotos.etheriamagazine.com/2019/10/antifaces-terapia-viajes.jpg "Antifaces relajantes.")
 
 ## 8\. Siempre enchufada
 
@@ -110,7 +110,7 @@ USB –válido para iOS, Android y Samsung– podrás cargarlos rápidamente y a
 Además, viene con adaptadores para los enchufes de más de 150 países. [Multipuerto de 
 viaje en Amazon](https://amzn.to/2JgIuVT). 
 
-![Enchufe multipuerto](https://fotos.etheriamagazine.com/2019/10/enchufe-viaje-multipuerto-900x900.jpg "Cargador usb multipuerto para viajes.")
+![Enchufe multipuerto](https://fotos.etheriamagazine.com/2019/10/enchufe-viaje-multipuerto.jpg "Cargador usb multipuerto para viajes.")
 
 ## 9\. Lavadora de viajes Scrubba
 
@@ -121,7 +121,7 @@ fácil de utilizar que te sorprenderá no haber descubierto antes este gadget pa
 Su precio, desde 48 €, merece la pena por la comodidad de olvidarse de frotar en lavabos 
 y fregaderos. 
 
-![lavadora de viaje.](https://fotos.etheriamagazine.com/2019/10/lavadora-scrubba-viaje-900x618.jpg "Lavadora Scrubba de viaje.")
+![lavadora de viaje.](https://fotos.etheriamagazine.com/2019/10/lavadora-scrubba-viaje.jpg "Lavadora Scrubba de viaje.")
 
 ## 10\. Selfie drone
 

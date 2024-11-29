@@ -14,7 +14,7 @@ Retiro. Con esta exposición de Petrit Halilaj, el Museo Nacional Centro de Arte
 Sofía retoma sus actividades artísticas. La muestra estará abierta al público hasta el 
 28 de febrero de 2021. 
 
-![Exposición de Petrit Halilaj en el Palacio de Cristal (Madrid).](https://fotos.etheriamagazine.com/2020/07/flores-gigantes-el-retiro-900x896.jpg "Exposición de Petrit Halilaj en el Palacio de Cristal (Madrid).")
+![Exposición de Petrit Halilaj en el Palacio de Cristal (Madrid).](https://fotos.etheriamagazine.com/2020/07/flores-gigantes-el-retiro.jpg "Exposición de Petrit Halilaj en el Palacio de Cristal (Madrid).")
 
 El Palacio de Cristal del parque del Retiro se ha llenado de flores, de hermandad y de 
 buenos deseos gracias a la nueva exposición del artista kosovar **Petrit Halilaj**. A 
@@ -34,7 +34,7 @@ la 6ª Bienal de Berlín (2010) y en la 15ª Bienal de Lyon (2019). A pesar de s
 su trabajo ya ha sido mostrado en museos y centros de arte como Hangar Bicocca (Milán, 
 2015), Bundeskunsthalle (Bonn, 2015) o New Museum (Nueva York, 2017). 
 
-![Exposición 'A un cuervo y los huracanes que, desde lugares desconocidos, traen de vuelta olores de humanos enamorados'.](https://fotos.etheriamagazine.com/2020/07/petrit-halilaj-reina-sofia-900x881.jpg "Exposición 'A un cuervo y los huracanes que, desde lugares desconocidos, traen de vuelta olores de humanos enamorados'.")
+![Exposición 'A un cuervo y los huracanes que, desde lugares desconocidos, traen de vuelta olores de humanos enamorados'.](https://fotos.etheriamagazine.com/2020/07/petrit-halilaj-reina-sofia.jpg "Exposición 'A un cuervo y los huracanes que, desde lugares desconocidos, traen de vuelta olores de humanos enamorados'.")
 
 ## A un cuervo y los huracanes…
 
@@ -57,7 +57,7 @@ El artista ha encontrado inspiración en el ritual de apareamiento de los
 objetos de mucho color para atraer a sus parejas. Son algo así como grandes nidos donde 
 buscan un refugio donde sentirse seguros y formar una familia. 
 
-![Nueva exposición el Palacio de Cristal del Parque del Retiro (Madrid).](https://fotos.etheriamagazine.com/2020/07/flores-reina-sofia-petrit-halilaj-900x599.jpg "Nueva exposición el Palacio de Cristal del Parque del Retiro (Madrid).")
+![Nueva exposición el Palacio de Cristal del Parque del Retiro (Madrid).](https://fotos.etheriamagazine.com/2020/07/flores-reina-sofia-petrit-halilaj.jpg "Nueva exposición el Palacio de Cristal del Parque del Retiro (Madrid).")
 
 En esta instalación también se puede apreciar la obra _**History of a Hug**_ en la que 
 un cuervo blanco antropomórfico sostiene un trozo de madera. Esta pieza alude a un 
@@ -89,7 +89,7 @@ tratar el Palacio de Cristal como un lugar de celebración del amor”, “y en 
 proyecto incluía una performance simbólica simulando una unión matrimonial entre Álvaro 
 y yo”. 
 
-![Flores gigantes en el Palacio de Cristal de Madrid.](https://fotos.etheriamagazine.com/2020/07/palacio-cristal-madrid-900x851.jpg "Flores gigantes en el Palacio de Cristal de Madrid.")
+![Flores gigantes en el Palacio de Cristal de Madrid.](https://fotos.etheriamagazine.com/2020/07/palacio-cristal-madrid.jpg "Flores gigantes en el Palacio de Cristal de Madrid.")
 
 ## Metáfora de la libertad
 

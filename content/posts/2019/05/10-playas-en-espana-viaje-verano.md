@@ -16,7 +16,7 @@ Cada vez queda menos para las vacaciones y ¿a quién no le apetece la imagen de
 perfecta donde desconectar de todo? Para ir abriendo boca hemos seleccionado 10 playas 
 españolas donde seguro que te gustaría estar ahora mismo. 
 
-![playas de España, viajes en verano, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/playas-espana-zahora-cadiz-900x688.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
+![playas de España, viajes en verano, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/playas-espana-zahora-cadiz.jpg "Playa de Zahora (Cádiz). © Vidar Nordli Mathisen")
 
 En España si tenemos algo de lo que presumir es de nuestras playas. En el último informe 
 de la Asociación de Educación Ambiental y del Consumidor (Adeac) España ocupaba el 
@@ -96,7 +96,7 @@ rodea y por lo recogida y tranquila que es. Además, ofrece una puesta de sol in
 Eso sí, no olvides llevar bebida y provisiones porque te querrás quedar todo el día y no 
 hay chiringuitos cerca. 
 
-?[Zambúllete en la mejor guía de playas de 
+📍[Zambúllete en la mejor guía de playas de 
 Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/). 
 
 ## 8\. Playa de San Antonio (Llanes, Asturias)
@@ -109,7 +109,7 @@ y en calma. El acceso es sencillo, se llega caminando desde Cuevas del Mar (5 mi
 su condición de playa salvaje hace que no haya ningún servicio, así que llévate todo lo 
 que vayas a necesitar. 
 
-?[Asturias con amigas, visitas imprescindibles en una ruta en 
+📍[Asturias con amigas, visitas imprescindibles en una ruta en 
 coche](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindible/). 
 
 ## 9\. Playa de Langre (Cantabria)

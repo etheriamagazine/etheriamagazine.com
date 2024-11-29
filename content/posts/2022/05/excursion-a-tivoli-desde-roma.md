@@ -189,7 +189,7 @@ pasarelas y caminos hacen del entorno un lugar perfecto para el paseo que ya sed
 los artistas y nobles europeos del siglo XIX que lo incluían en el Gran Tour que 
 realizaban por Italia. 
 
-![Naturaleza en Tivoli](https://fotos.etheriamagazine.com/2022/05/tivoli-villa-gregoriana-576x1024.jpg "Cascada en Villa Gregoriana. © John Rodenn")
+![Naturaleza en Tivoli](https://fotos.etheriamagazine.com/2022/05/tivoli-villa-gregoriana.jpg "Cascada en Villa Gregoriana. © John Rodenn")
 
 En este entorno se puede también contemplar algunos de los restos romanos que salieron a 
 la luz cuando se realizaron las obras, como la villa del cónsul romano Manlio Vopisco, y 

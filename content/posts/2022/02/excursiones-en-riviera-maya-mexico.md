@@ -160,7 +160,7 @@ y por su increíble fondo marino, que incluye un Museo Subacuático de Arte. Y l
 **Holbox** pertenece a la reserva ecológica Yum Balam; es la más bohemia y ecológica, un 
 lugar donde no hay ni calles asfaltadas. Te encantará. 
 
-![Isla de Holbox.](https://fotos.etheriamagazine.com/2022/01/Riviera-Maya-Holbox-900x600.jpg "Isla de Holbox. © David Santiago.")
+![Isla de Holbox.](https://fotos.etheriamagazine.com/2022/01/Riviera-Maya-Holbox.jpg "Isla de Holbox. © David Santiago.")
 
 Estas islas no se encuentran cerca entre sí, por lo que son excursiones independientes: 
 Isla Mujeres está frente a Cancún, Cozumel frente a Playa del Carmen y Holbox en la 

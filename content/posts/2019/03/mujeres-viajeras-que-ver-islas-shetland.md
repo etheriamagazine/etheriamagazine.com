@@ -18,7 +18,7 @@ no te pierdas ninguno de sus paisajes porque esconden un exclusivo encanto escoc
 Sigue leyendo porque te damos 10 pistas para no perderte lo imprescindible en estas 
 islas. 
 
-![mujer en las islas shetland de escocia](https://fotos.etheriamagazine.com/2019/03/que-ver-islas-shetland-1024x682.jpg "Los paisajes de las islas Shetland son únicos.")
+![mujer en las islas shetland de escocia](https://fotos.etheriamagazine.com/2019/03/que-ver-islas-shetland.jpg "Los paisajes de las islas Shetland son únicos.")
 
 Las islas Shetland son uno de los rincones más desconocidos de Europa. Un archipiélago 
 de paisajes impresionantes, vida rural de lo más auténtica y un paraíso para los amantes 
@@ -196,7 +196,7 @@ menhir cuando alcances **Stone of the Ripples** y para poner el broche a tu esta
 la isla, observa las colonias de aves marinas y los simpáticos payasos del mar, los 
 frailecillos que, con su colorido pico, no te cansarás de observar. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Admira cinco de los mejores jardines de Gran 
 Bretaña](https://etheriamagazine.com/2021/04/22/los-mejores-jardines-de-gran-bretana/) 

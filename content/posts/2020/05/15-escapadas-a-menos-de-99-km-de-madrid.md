@@ -17,7 +17,7 @@ Ideales para ir y volver en el mismo día desde Madrid y en formato lista de la 
 Estas quince escapadas cercanas a la capital española te ayudarán a familiarizarte de 
 nuevo con el concepto ‘viajar’. 
 
-![Jardines Chinescos de Aranjuez.](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez-900x675.jpg "Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
+![Jardines Chinescos de Aranjuez.](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg "Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
 
 **Actualizado en abril de 2024** 
 
@@ -70,7 +70,7 @@ torre y una torre sin iglesia', y su lema turístico reza: 'Chinchón: plaza, an
 mesón', ecuación a la que añadimos sus **ajos**, de reconocida calidad en esta zona de 
 Madrid. 
 
-![Plaza de Chinchón y puesto de almendras y ajos.](https://fotos.etheriamagazine.com/2020/05/viaje-madrid-chinchon-900x480.jpg "Plaza de Chinchón y puesto de almendras y ajos. © Kelu Robles")
+![Plaza de Chinchón y puesto de almendras y ajos.](https://fotos.etheriamagazine.com/2020/05/viaje-madrid-chinchon.jpg "Plaza de Chinchón y puesto de almendras y ajos. © Kelu Robles")
 
 ## 5\. Aranjuez (Madrid), a 50 km
 

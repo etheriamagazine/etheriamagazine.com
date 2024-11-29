@@ -45,7 +45,7 @@ Pedra](https://goo.gl/maps/hHJWz7JnAEtDqNjBA) sirve grandes dosis de marisco en 
 blanquiazul **vajilla de Santa Clara**, mientras la ‘carne o caldeiro’ triunfa en su 
 reverso cárnico. 
 
-?¿Te apetece hacer un free tour en Vigo? [Apúntate](https://www.civitatis.com/es/vigo/free-tour-vigo/?aid=10211) 
+📌¿Te apetece hacer un free tour en Vigo? [Apúntate](https://www.civitatis.com/es/vigo/free-tour-vigo/?aid=10211) 
 aquí. 
 
 ![taberna a mina en vigo](https://fotos.etheriamagazine.com/2020/11/Vigo-taberna-a-mina.jpg "Exterior de © Taberna A Mina, en la rúa San Vicente.")
@@ -76,7 +76,7 @@ embargo, en la localidad de **Arcade**, a 20 kilómetros de Vigo, este marisco s
 representa un importante capítulo de su tradición comercial. De hecho, Arcade exporta 
 ostras conservadas en escabeche desde la época del Imperio romano. 
 
-![mural ostreira de a pedra](https://fotos.etheriamagazine.com/2020/11/vigo-grafiti-ostreira-671x1024.jpg "Isabel, la última ostreira de A Pedra, un mural de © Mon Devane en la calle Bueu (barrio de Coia).")
+![mural ostreira de a pedra](https://fotos.etheriamagazine.com/2020/11/vigo-grafiti-ostreira.jpg "Isabel, la última ostreira de A Pedra, un mural de © Mon Devane en la calle Bueu (barrio de Coia).")
 
 (Aquí encontrarás un [Mapa del Casco 
 Vello](https://www.google.es/maps/@42.2391338,-8.7268135,17z?shorturl=1) para que te 
@@ -168,8 +168,8 @@ Luis](https://www.tripadvisor.es/Restaurant_Review-g1078787-d3179197-Reviews-Res
 en Vilaboa, que cosechó tantos éxitos en su etapa como loureiro, que hoy en día se 
 dedica por completo a la hostelería. 
 
-? Si vas a las Rías Baixas en familia, apunta estos [ocho divertidos planes con niños en 
-la Costa de 
+📌 Si vas a las Rías Baixas en familia, apunta estos [ocho divertidos planes con niños 
+en la Costa de 
 Pontevedra](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/). 
 
 ![cocido en un furancho de vigo](https://fotos.etheriamagazine.com/2020/11/viaje-vigo-cocido-en-san-blas.jpg "Así son las raciones de cocido de los furanchos. © Turismo de Vigo")
@@ -243,13 +243,13 @@ Vigo](https://www.google.es/maps/@42.2134894,-8.8206151,12z) para que te oriente
 
 ##### Visitas guiadas y excursiones en Vigo
 
-? [Freetour de los misterios y leyendas de 
+📌 [Freetour de los misterios y leyendas de 
 Vigo](https://www.civitatis.com/es/vigo/free-tour-misterios-leyendas/?aid=10211). 
 
-?[Freetour noctuno por 
+📌[Freetour noctuno por 
 Vigo](https://www.civitatis.com/es/vigo/free-tour-nocturno-vigo/?aid=10211). 
 
-?[Freetour de la movida 
+📌[Freetour de la movida 
 viguesa](https://www.civitatis.com/es/vigo/free-tour-movida-viguesa/?aid=10211). 
 
 ✅ [Excursión a las Islas Cíes desde 

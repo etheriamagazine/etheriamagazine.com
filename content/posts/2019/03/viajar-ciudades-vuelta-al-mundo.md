@@ -29,7 +29,7 @@ vuelo. Combina un patrimonio artístico inigualable con la animada vida de sus z
 mercados, y excelentes restaurantes. No te pierdas la Mezquita Azul, Santa Sofía, el 
 Gran Bazar y el Bazar de las Especias. 
 
-?Sigue con los [mejores planes en 
+📍Sigue con los [mejores planes en 
 Estambu](https://etheriamagazine.com/2018/05/03/fin-de-semana-romantico-en-estambul/)l. 
 
 ## 2\. Dubái (Emiratos Árabes)
@@ -40,7 +40,7 @@ Al Arab. Un lugar donde es imposible aburrirse gracias a sus parques temáticos,
 espectáculos, compras y, por supuesto, a la experiencia de disfrutar de un día en el 
 desierto. 
 
-?No te pierdas este artículo de [Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/). 
+📍No te pierdas este artículo de [Dubái](https://etheriamagazine.com/2019/05/31/como-aprovechar-una-escala-en-dubai/). 
 
 ![Panorámica de Dubái](https://fotos.etheriamagazine.com/2019/03/Dubai.jpg "Dubái. ©Jeshoots.com.")
 
@@ -52,7 +52,7 @@ tradicionales, como el de las Mujeres o el nocturno de Temple Street. En Hong Ko
 imprescindible subir a **The Peak** para ver sus rascacielos con perspectiva y pasear 
 por el paseo marítimo Tsim Sha Tsui. 
 
-?No te pierdas las [visitas básicas en Honk 
+📍No te pierdas las [visitas básicas en Honk 
 Kong](https://etheriamagazine.com/2019/09/06/que-ver-hacer-dos-dias-en-hong-kong/). 
 
 ![Vista de Hong Kong, una ciudad esencial en una vuelta al mundo](https://fotos.etheriamagazine.com/2019/03/hong-kong.jpg "Vista de Hong Kong desde The Peak. © Pauline Mae de Leon.")
@@ -73,7 +73,7 @@ más encantadores del Sudeste Asiático: la isla de Bali. Podrás disfrutar tant
 naturaleza del interior de la isla en lugares como Ubud, con sus famosas terrazas 
 escalonadas, como de sus excelentes y animadas playas. 
 
-?No te pierdas las razones por las que no deberías [viajar a Bali durante la luna de 
+📍No te pierdas las razones por las que no deberías [viajar a Bali durante la luna de 
 miel](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/). 
 
 ![Templos de Ulun Danu Beratan en Bali.](https://fotos.etheriamagazine.com/2019/03/Bali-Ulun-Danu-Beratan-temple.jpg "Templos de Ulun Danu Beratan en Bali. © Sebastian Pena.")
@@ -85,7 +85,7 @@ Un lugar donde combinar lugares emblemáticos como el famoso edificio de la Ópe
 mercado de pescado con excelentes playas como la de Bondi o Palm Beach. No te pierdas 
 una excursión por el Parque Nacional Sydney Harbour y la vida nocturna de la ciudad. 
 
-?No te pierdas este artículo de [Australia](https://etheriamagazine.com/2019/03/07/revista-viajes-que-ver-australia/). 
+📍No te pierdas este artículo de [Australia](https://etheriamagazine.com/2019/03/07/revista-viajes-que-ver-australia/). 
 
 ![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](https://fotos.etheriamagazine.com/2019/03/Sidney-opera.jpg "Edificio de la Opera en Sidney. © Keith Zhu.")
 
@@ -96,7 +96,7 @@ del ambiente de Auckland podrás realizar excursiones a la naturaleza que la rod
 ellas, subir al monte Edén, explorar las islas del golfo Hauraki o descubrir la cultura 
 maorí en el bosque Hunua Rangers & Falls. 
 
-?No te pierdas este artículo de [Nueva 
+📍No te pierdas este artículo de [Nueva 
 Zelanda](https://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/). 
 
 ![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](https://fotos.etheriamagazine.com/2019/03/auckland.jpg "Auckland. © Henry-McIntosh.")
@@ -109,7 +109,7 @@ verde intenso con altas cataratas y su capital, Papeete, siempre animada. Tiene 
 estupendas pero si decides quedarte unos cuantos días por la zona merece la pena 
 acercarse a alguna de las paradisíacas islas de Bora Bora o Moorea. 
 
-?No te pierdas este artículo de [Polinesia](https://etheriamagazine.com/2019/01/08/la-perla-negra-de-polinesia/). 
+📍No te pierdas este artículo de [Polinesia](https://etheriamagazine.com/2019/01/08/la-perla-negra-de-polinesia/). 
 
 ![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](https://fotos.etheriamagazine.com/2019/03/bora-bora.jpg "Hotel en Bora Bora.")
 
@@ -119,7 +119,7 @@ De vuelta al mundo occidental, no podía faltar una parada en San Francisco con 
 icónico Golden Gate y sus típicos tranvías. Disfruta de su animada vida cultural y no te 
 pierdas una visita a la isla de Alcatraz, a Chinatown y al Fisherman’s Wharf. 
 
-?No te pierdas este artículo de [San 
+📍No te pierdas este artículo de [San 
 Francisco](https://etheriamagazine.com/2021/04/09/10-visitas-imprescindibles-en-san-francisco/). 
 
 ![qué ver en San Francisco](https://fotos.etheriamagazine.com/2018/07/viaje-san-francisco-Golden-Gate-Bridge.jpg "Golden Gate visto desde Baker Beach (Presidio). ©SFTravel Association")
@@ -132,7 +132,7 @@ días: arquitectura, museos, espectáculos, compras… Si no puedes estar mucho 
 céntrate en visitar el Museo de Historia Natural, el MoMA (Museo de Arte Moderno), subir 
 al Rockefeller Center y un paseo por Central Park. 
 
-?No te pierdas los [mejores miradores de Nueva 
+📍No te pierdas los [mejores miradores de Nueva 
 York](https://etheriamagazine.com/2020/02/24/los-mejores-miradores-de-nueva-york-gratis-de-pago/). 
 
 ![vuelta al mundo, escalas en grandes ciudades, viaje con amigas, escapada romántica](https://fotos.etheriamagazine.com/2018/05/Nueva-York-puente-de-Brooklin.jpg "Golden Gate en Nueva York.")

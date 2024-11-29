@@ -30,7 +30,7 @@ personalidad fuerte y la determinación de Ada Coleman hicieron que se convirtie
 **la primera _barmaid_ de la historia** y una de las grandes referentes del mundo 
 coctelero. 
 
-![imagenes del hotel Savoy](https://fotos.etheriamagazine.com/2020/04/Hotel-Savoy-Londres-900x506.jpg "© Imágenes del archivo del hotel Savoy.")
+![imagenes del hotel Savoy](https://fotos.etheriamagazine.com/2020/04/Hotel-Savoy-Londres.jpg "© Imágenes del archivo del hotel Savoy.")
 
 ## El Hanky Panky de Ada Coleman
 
@@ -52,7 +52,7 @@ bartender_ del American Bar gracias a su peculiar profesionalidad ¡y talento!
 
 > Su carisma la llevó a convertirse en la primera mujer barman de aquellos tiempos. 
 
-![Charles Henry Hawtrey, Marlene Dietrich, Marilyn Monroe y Charles Chaplin](https://fotos.etheriamagazine.com/2020/04/clientes-hotel-savoy-ada-coleman-900x591.jpg "Charles Henry Hawtrey, Marlene Dietrich, Marilyn Monroe y Charles Chaplin. © CC")
+![Charles Henry Hawtrey, Marlene Dietrich, Marilyn Monroe y Charles Chaplin](https://fotos.etheriamagazine.com/2020/04/clientes-hotel-savoy-ada-coleman.jpg "Charles Henry Hawtrey, Marlene Dietrich, Marilyn Monroe y Charles Chaplin. © CC")
 
 ### La creación del 'Hanky Panky'
 

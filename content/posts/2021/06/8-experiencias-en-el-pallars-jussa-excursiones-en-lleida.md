@@ -187,7 +187,7 @@ Además del paisaje de roca y agua, fíjate en la flora y fauna, ya que en este 
 crecen plantas como la corona de rey o la oreja de oso, y habitan animales como la 
 nutria, el alimoche, el quebrantahuesos y más de cien especies de mariposas. 
 
-? Consulta todos los datos prácticos en este enlace para [hacer la caminata del 
+📌 Consulta todos los datos prácticos en este enlace para [hacer la caminata del 
 desfiladero de 
 Mont-Rebei.](https://etheriamagazine.com/2020/05/13/consejos-practicos-para-visitar-el-desfiladero-de-mont-rebei-lleida/) 
 

@@ -17,7 +17,7 @@ de Diciembre y las vacaciones de Navidad son un momento perfecto para realizarlo
 te contamos que 7 excursiones no puedes perderte en Laponia para que tu viaje sea todo 
 un éxito. 
 
-![aurora boreal y paisaje nevado](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-aurora-boreal-900x673.jpg "Aurora boreal en Laponia (© Lucas Marcomini) y paisaje nevado (© Joakim Honkasa)")
+![aurora boreal y paisaje nevado](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-aurora-boreal.jpg "Aurora boreal en Laponia (© Lucas Marcomini) y paisaje nevado (© Joakim Honkasa)")
 
 Imagínate un paisaje infinito teñido de blanco, excursiones en la nieve y conocer al 
 mismísimo Papá Noel. Y con un poco de suerte, podrás ver una aurora boreal. Prepara tu 
@@ -45,7 +45,7 @@ De día permiten contemplar el paisaje mientras se disfruta con la emoción de c
 estos vehículos y de noche, con un poco de suerte, te llevan a parajes donde contemplar 
 un bella aurora boreal. 
 
-![Excursión en motonieve en Laponia](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-motonieve-900x600.jpg "Excursión en motonieve.")
+![Excursión en motonieve en Laponia](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-motonieve.jpg "Excursión en motonieve.")
 
 ### 2\. Visitar una granja de renos
 
@@ -56,7 +56,7 @@ cómo se les cuida, y podrás disfrutar de un cómodo paseo en un trineo tirado 
 simpáticos animales. Lo mejor es combinar este paseo con una comida en la granja para 
 probar las especialidades laponas como la sopa de salmón o el reno estofado. 
 
-![Paseo en trineo tirado por renos.](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-paseo-renos-900x416.jpg "Paseo en trineo tirado por renos. © Judith Prins/© Joao Monteiro)")
+![Paseo en trineo tirado por renos.](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-paseo-renos.jpg "Paseo en trineo tirado por renos. © Judith Prins/© Joao Monteiro)")
 
 ### 3\. Conocer a Papá Noel
 
@@ -66,7 +66,7 @@ podrán dejar su carta en persona al mismísimo Papá Noel. Todo el complejo mer
 paseo para detenerse en sus tiendas y su oficina postal; y para dejarse convencer por 
 los elfos y vivir una experiencia única en todos los rincones de esta aldea. 
 
-![Papá Noel con un elfo en la Aldea Santa Claus.](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-aldea-santa-claus-900x600.jpg "Papá Noel con un elfo en la Aldea Santa Claus. © Aldea Santa Claus.")
+![Papá Noel con un elfo en la Aldea Santa Claus.](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-aldea-santa-claus.jpg "Papá Noel con un elfo en la Aldea Santa Claus. © Aldea Santa Claus.")
 
 Si no te alojas cerca de Rovaniemi existe la posibilidad de visitar a Papá Noel en su 
 cabaña privada una experiencia memorable para los viajes en familia, donde tendrás una 
@@ -82,7 +82,7 @@ que permite un contacto total y directo con la naturaleza. Los perros reciben an
 por iniciar la ruta y, una vez en marcha, sólo hay espacio para escuchar sus jadeos, 
 concentrarse en la conducción del trineo y disfrutar de un paisaje maravilloso. 
 
-![Perro husky esperando para salir a correr.](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-perro-husky-900x742.jpg "Perro husky esperando para salir a correr. © Jeremy Stenuit")
+![Perro husky esperando para salir a correr.](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-perro-husky.jpg "Perro husky esperando para salir a correr. © Jeremy Stenuit")
 
 ### 5\. Visitar el Museo Arktikum (Rovaniemi)
 
@@ -93,7 +93,7 @@ condiciones de vida del Círculo Polar Ártico y las transformaciones de la regi
 cambio climático. Además de su colección permanente, siempre cuenta con interesantes 
 exposiciones temporales para completar la visita. 
 
-![Interior del Museo Artikum.](https://fotos.etheriamagazine.com/2019/10/laponia-politours-museo-artktikum-900x603.jpg "Interior del © Museo Artikum.")
+![Interior del Museo Artikum.](https://fotos.etheriamagazine.com/2019/10/laponia-politours-museo-artktikum.jpg "Interior del © Museo Artikum.")
 
 ### 6\. Conducir un kart sobre el hielo
 
@@ -115,7 +115,7 @@ encuentran, entre otros, el oso polar, el búho de las nieves, el zorro polar o 
 siberiano. Cuenta con programas de protección de los animales y para el cuidado de 
 animales heridos. Una visita perfecta para los viajes en familia a Laponia. 
 
-![zorro polar en el Wildlife Park de Ranua en Laponia](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-Ranua-wildlife-park-900x600.jpg "El zorro polar es una de las especies que se puede ver el Wildlife Park de Ranua.")
+![zorro polar en el Wildlife Park de Ranua en Laponia](https://fotos.etheriamagazine.com/2019/10/Laponia-Politours-Ranua-wildlife-park.jpg "El zorro polar es una de las especies que se puede ver el Wildlife Park de Ranua.")
 
 ## Consejos Etheria
 
@@ -138,7 +138,7 @@ vas con el seguro de viajes combinados que te protege ante imprevistos en destin
 todo queda coordinado, incluso el traje térmico que te suministran al principio del 
 viaje. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [8 consejos para viajar con niños a la Laponia 
 Finlandesa](https://etheriamagazine.com/2018/09/08/8-consejos-para-viajar-a-la-laponia-finlandesa-con-ninos/) 

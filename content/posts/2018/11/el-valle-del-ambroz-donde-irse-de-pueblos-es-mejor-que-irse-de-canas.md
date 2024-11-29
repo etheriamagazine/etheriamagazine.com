@@ -13,7 +13,7 @@ Reserva algún fin de semana para disfrutar de los pueblos, rutas, paisajes y bu
 gastronomía del Valle de Ambroz una zona perfecta para visitar con los colores del 
 otoño. 
 
-![senderismo en el valle de Ambroz](https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz-1024x681.jpg "Disfruta del otoño en el Valle del Ambroz. © DIVA")
+![senderismo en el valle de Ambroz](https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz.jpg "Disfruta del otoño en el Valle del Ambroz. © DIVA")
 
 El otoño es el momento ideal para visitar el valle de Ambroz y recorrer los increíbles 
 paisajes que alberga Cáceres en este privilegiado rincón. Aunque si esta fecha no cuadra 
@@ -43,7 +43,7 @@ ciertas dolencias y paliar el estrés. Elegantes casonas y mansiones de estilo _
 > Tan importantes son sus aguas que en junio, cada año, los vecinos de Baños celebran el 
 > Termarium, la fiesta que da la bienvenida a la temporada termal. 
 
-![toro de piedra en Segura del Toro](https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz-segura-del-toro-1024x684.jpg "Segura del Toro tiene a este icónico animal en el centro del pueblo. © Visit Ambroz")
+![toro de piedra en Segura del Toro](https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz-segura-del-toro.jpg "Segura del Toro tiene a este icónico animal en el centro del pueblo. © Visit Ambroz")
 
 ## Un toro y un castillo en Segura del Toro
 
@@ -52,7 +52,7 @@ celta —de origen romano en realidad— lo rodean edificios con grandes sillare
 una construcción muy popular en la zona. Además, este pueblo mira al resto del valle 
 desde su propio **castillo templario**. 
 
-![mujer haciendo una foto en otoño en el valle de Ambroz](https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz-senderismo-1024x680.jpg "Practicar senderismo en otoño es uno de los grandes placeres en el Valle del Ambroz. © DIVA")
+![mujer haciendo una foto en otoño en el valle de Ambroz](https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-ambroz-senderismo.jpg "Practicar senderismo en otoño es uno de los grandes placeres en el Valle del Ambroz. © DIVA")
 
 ## Caminatas en el Valle del Ambroz
 
@@ -71,7 +71,7 @@ Gargantilla hacia el valle del Jerte y llega hasta el puerto de Honduras. Por el
 nos cruzaremos con grandes cultivos de cerezos, ciruelos y con bosques de castaños, 
 abedules y acebos. 
 
-![bolsa de pimentón de Extremadura](https://fotos.etheriamagazine.com/2018/11/pimenton-viaje-con-amigas-valle-ambroz-1024x681.jpg "Pimentón, uno de los mejores recuerdos gastronómicos del valle. © Visit Ambroz")
+![bolsa de pimentón de Extremadura](https://fotos.etheriamagazine.com/2018/11/pimenton-viaje-con-amigas-valle-ambroz.jpg "Pimentón, uno de los mejores recuerdos gastronómicos del valle. © Visit Ambroz")
 
 ## Tapeo en Aldeanueva del Camino
 

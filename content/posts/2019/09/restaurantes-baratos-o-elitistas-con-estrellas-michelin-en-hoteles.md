@@ -19,7 +19,7 @@ Magazine 10 hoteles cuyos restaurantes han sido galardonados con alguna prestigi
 estrella Michelin. Seguro que no puedes esperar para planear tu próxima 
 ‘gastro-escapada’. 
 
-\[caption id="attachment\_12536" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/hoteles-con-restaurante-michelin-900x585.jpg "Hotel Castell Son Claret, en Mallorca. Su restaurante Zaranda tiene dos estrellas Michelin.") Hotel Castell Son Claret, en Mallorca. Su restaurante Zaranda tiene dos estrellas Michelin.\[/caption\]
+\[caption id="attachment\_12536" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/hoteles-con-restaurante-michelin.jpg "Hotel Castell Son Claret, en Mallorca. Su restaurante Zaranda tiene dos estrellas Michelin.") Hotel Castell Son Claret, en Mallorca. Su restaurante Zaranda tiene dos estrellas Michelin.\[/caption\]
 
 Hasta hace muy poco pensar en comer bien en un hotel era casi una utopía. La restauración, en muchos casos, era un tema secundario que se solucionaba con una cocina para “cubrir expediente”. Sin embargo, el panorama ha cambiado sustancialmente. El viajero desea no solo dormir bien, sino vivir una experiencia completa, en la que la comida sea una parte esencial. Así, de ser un servicio más para conseguir una calificación acorde a la deseada, los restaurantes de hotel se han convertido en parte clave a la hora de escoger uno u otro alojamiento, o, como en el caso de los hoteles que os recomendamos, en un destino por sí mismos.
 
@@ -33,7 +33,7 @@ Hoteles “gastroestrellados” que no solo encontraremos en los grandes cinco e
 
 #### 1\. Hotel y restaurante Akelarre (San Sebastián).
 
-\[caption id="attachment\_12524" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/1-Akelarre-san-Sebastian-900x314.jpg "Exterior del hotel Akelarre e 'Infusión de caldo verde, cigala y rape ahumado', uno de los platos de su restaurante.") Hotel Akelarre e 'Infusión de caldo verde, cigala y rape ahumado'.\[/caption\]
+\[caption id="attachment\_12524" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/1-Akelarre-san-Sebastian.jpg "Exterior del hotel Akelarre e 'Infusión de caldo verde, cigala y rape ahumado', uno de los platos de su restaurante.") Hotel Akelarre e 'Infusión de caldo verde, cigala y rape ahumado'.\[/caption\]
 
 Pedro Subijana decidió elevar al máximo la experiencia de comer en su tres estrellas Michelin y creó un hotel _ad oc_, un cinco estrellas que hace que la experiencia sea completa, maravillosa y única. Situado a poco más de diez minutos en coche de San Sebastián, nos encontramos con [Akelarre](https://akelarre.net/), una joya arquitectónica y gastronómica que engloba la posibilidad de dormir en una de sus suites, con vistas a la costa vasco-francesa, con el disfrute de la cocina de **Subijana**, una maravillosa muestra de cocina de autor con férreas bases vascas.
 
@@ -45,7 +45,7 @@ Señalar también que es un hotel y restaurante “no recomendado para niños”
 
 #### 2\. Hotel Echaurren y Restaurante El Portal (La Rioja).
 
-\[caption id="attachment\_12526" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/2-Echaurren-Pais-Vasco-900x300.jpg "Francis Paniego con su equipo en el restaurante El Portal del hotel Echaurren y plato con la trucha como ingrediente principal de su menú.") Francis Paniego con su equipo y plato con la trucha como ingrediente principal de su menú.\[/caption\]
+\[caption id="attachment\_12526" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/2-Echaurren-Pais-Vasco.jpg "Francis Paniego con su equipo en el restaurante El Portal del hotel Echaurren y plato con la trucha como ingrediente principal de su menú.") Francis Paniego con su equipo y plato con la trucha como ingrediente principal de su menú.\[/caption\]
 
 La familia Paniego lleva a cargo de esta antigua “parada de postas” ya cinco generaciones. El [hotel Echaurren](https://echaurren.com) lugar donde desde siempre se ha dado de comer excepcionalmente. Actualmente y tras una reciente reforma, es un hotel boutique perteneciente a la prestigiosa **cadena Relais & Châteaux**, con 21 habitaciones y 3 suites, donde vivir con lujo pero sin perder la sencillez y autenticidad propias de este coqueto rincón riojano, Ezcaray, un precioso pueblo que enamora a primera vista.
 
@@ -55,7 +55,7 @@ Cuenta con dos restaurantes: **Tradición**, donde se vive la cocina familiar m�
 
 #### 3\. Castell Son Claret y restaurante Zaranda (Mallorca).
 
-\[caption id="attachment\_12527" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/3-hotel-castell-son-claret-zaranda-900x669.jpg "Plato S´Àmfora, All i Pebre de pulpo y patata de uno de los menús de Zaranda y Fernando Pérez Arellano.") Plato 'S´Àmfora, All i Pebre de pulpo y patata' de uno de los menús de Zaranda y Fernando Pérez Arellano.\[/caption\]
+\[caption id="attachment\_12527" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/3-hotel-castell-son-claret-zaranda.jpg "Plato S´Àmfora, All i Pebre de pulpo y patata de uno de los menús de Zaranda y Fernando Pérez Arellano.") Plato 'S´Àmfora, All i Pebre de pulpo y patata' de uno de los menús de Zaranda y Fernando Pérez Arellano.\[/caption\]
 
 [Castell Son Claret](https://castellsonclaret.com/es/) es una de las fincas privadas más grandes y exclusivas de Mallorca, un antiguo castillo medieval reconvertido en hotel de máximo lujo. Situada en el corazón de la Sierra de Tramuntana, forma parte de The Leading Hotels of the World, la prestigiosa organización que aglutina a los mejores hoteles del mundo. Esta maravilla inmersa en la naturaleza mallorquina cuenta además, con el único restaurante con dos estrellas Michelin de Baleares, el [Zaranda](https://zaranda.es).
 
@@ -65,7 +65,7 @@ Al frente encontramos a **Fernando Pérez Arellano** quien, tras conseguir la es
 
 #### 4\. The Cookbook Hotel y restaurante Beat (Calpe, Alicante).
 
-\[caption id="attachment\_12528" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/4-cook-book-hotel-restaurante-beat-900x483.jpg "Fotografía del cocinero José Manuel Miguel y plato llamado Guisantes del Maresme con gamba blanca, consomé y blanquet del menú del restaurante Beat.") Fotografía del cocinero José Manuel Miguel y plato llamado 'Guisantes del Maresme con gamba blanca, consomé y blanquet' del menú del restaurante Beat.\[/caption\]
+\[caption id="attachment\_12528" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/4-cook-book-hotel-restaurante-beat.jpg "Fotografía del cocinero José Manuel Miguel y plato llamado Guisantes del Maresme con gamba blanca, consomé y blanquet del menú del restaurante Beat.") Fotografía del cocinero José Manuel Miguel y plato llamado 'Guisantes del Maresme con gamba blanca, consomé y blanquet' del menú del restaurante Beat.\[/caption\]
 
 “Gastro Boutique Hotel”. Bajo este lema nace [The Cookbook](http://www.thecookbookhotel.com), un hotel que, desde sus inicios, ha considerado la gastronomía parte fundamental de su oferta. Así, la idea es que sus huéspedes vivan experiencias completas, entre las que se incluyen clases de cocina a cargo de prestigiosos cocineros. Cuenta con tres espacios gastronómicos, uno de ellos, [Beat](https://thecookbookhotel.com/restaurante-beat), con una estrella Michelin.
 
@@ -75,7 +75,7 @@ Al cargo encontramos al chef **José Manuel Miguel**, un cocinero curtido en los
 
 #### 5\. Hotel Mandarin Oriental Barcelona y Restaurante Moments (Barcelona).
 
-\[caption id="attachment\_12529" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/5-Mandarin-oriental-barcelona-900x315.jpg "Restaurante Moments del hotel Mandarin Oriental Barcelona: 'Bacallà a la Santpolenca' y sala del restaurante.") Restaurante Moments del hotel Mandarin Oriental Barcelona: 'Bacallà a la Santpolenca 'y sala del restaurante.\[/caption\]
+\[caption id="attachment\_12529" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/5-Mandarin-oriental-barcelona.jpg "Restaurante Moments del hotel Mandarin Oriental Barcelona: 'Bacallà a la Santpolenca' y sala del restaurante.") Restaurante Moments del hotel Mandarin Oriental Barcelona: 'Bacallà a la Santpolenca 'y sala del restaurante.\[/caption\]
 
 Situado en el Passeig de Grácia, ese maravilloso reducto de edificios modernistas en el que encontramos las tiendas y hoteles más sofisticados de Barcelona, el [Mandarin](https://www.mandarinoriental.es/barcelona/passeig-de-gracia/luxury-hotel) es una “joya” diseñada por la interiorista Patricia Urquiola y uno de los espacios más ensoñadores en los que he estado. Premiado en el 2019 como el Mejor Hotel de Barcelona en el Travel + Leisure–World’s Best Awards y con la máxima calificación en la prestigiosa Forbes Star Awards, es un habitual en las listas de los Mejores Hoteles del Mundo, tanto por sus habitaciones, con quizá las mejores vistas de Barcelona, como por sus instalaciones, entre las que destaca su spa.
 
@@ -85,7 +85,7 @@ Si a ello le sumamos sus **cinco espacios gastronómicos**, “tocados” por la
 
 #### 6\. Hotel  y restaurante Molino de Alcuneza (Sigüenza, Guadalajara).
 
-\[caption id="attachment\_12530" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/6-Molino-de-Alcuneza-900x298.jpg "La gastronomía de Samuel Moreno es uno de los alicientes para visitar el hotel Molino de Alcuneza.") La gastronomía de Samuel Moreno es uno de los alicientes para visitar el hotel Molino de Alcuneza.\[/caption\]
+\[caption id="attachment\_12530" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/6-Molino-de-Alcuneza.jpg "La gastronomía de Samuel Moreno es uno de los alicientes para visitar el hotel Molino de Alcuneza.") La gastronomía de Samuel Moreno es uno de los alicientes para visitar el hotel Molino de Alcuneza.\[/caption\]
 
 El pequeño hotel de cuatro estrellas [Molino de Alcuneza](http://www.molinodealcuneza.com), situado a las afueras de la medieval Sigüenza, es un Relais & Chateâux que ocupa un antiguo molino del siglo XIV. Rehabilitado con mucho gusto, es un reducto de tranquilidad y, claro está, de la mejor gastronomía. Para ello cuentan con un coqueto huerto del que su chef, **Samuel Moreno**, se abastece, para crear una cocina con una fuerte base en los productos de la tierra y en la cocina tradicional de Guadalajara, pero con un giro siempre creativo y de fusión, que ha sido merecedora de una estrella Michelin.
 
@@ -93,7 +93,7 @@ Ejemplo de ello son esos divertidos “guiños” a la infancia en sus entrantes
 
 #### 7\. Hotel y restaurante El Doncel (Sigüenza, Guadalajara).
 
-\[caption id="attachment\_12531" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/7-hotel-restaurante-El-Doncel-900x404.jpg "'Patata trufada con huevo de corral sin estrellar', sala del restaurante de El Doncel y 'Vieira el Doncel'.") 'Patata trufada con huevo de corral sin estrellar', sala del restaurante de El Doncel y 'Vieira el Doncel'.\[/caption\]
+\[caption id="attachment\_12531" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/7-hotel-restaurante-El-Doncel.jpg "'Patata trufada con huevo de corral sin estrellar', sala del restaurante de El Doncel y 'Vieira el Doncel'.") 'Patata trufada con huevo de corral sin estrellar', sala del restaurante de El Doncel y 'Vieira el Doncel'.\[/caption\]
 
 Si algo nos queda claro al visitar Sigüenza, al margen de su belleza medieval, es que no nos va a costar nada comer maravillosamente. Y es que, a pesar de su pequeño tamaño, atesora dos restaurantes con estrella Michelin, el anteriormente mencionado y el [Doncel](http://www.eldoncel.com/hotel.html), que fue la punta de lanza de la revolución gastronómica en Guadalajara, siendo el primero en ser “estrellado” en toda la provincia.
 
@@ -103,7 +103,7 @@ Al frente encontramos a los **hermanos Pérez**: Enrique, a cargo de la cocina, 
 
 #### 8\. Hotel Único Madrid y restaurante Ramón Freixa Madrid (Madrid).
 
-\[caption id="attachment\_12532" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/8-Hotel-Unico-ramon-freixa-900x635.jpg "Ramón Freixa en acción y salón de su restaurante en el hotel Único de Madrid.") Ramón Freixa en acción y salón de su restaurante en el hotel Único de Madrid.\[/caption\]
+\[caption id="attachment\_12532" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/8-Hotel-Unico-ramon-freixa.jpg "Ramón Freixa en acción y salón de su restaurante en el hotel Único de Madrid.") Ramón Freixa en acción y salón de su restaurante en el hotel Único de Madrid.\[/caption\]
 
 Este antiguo palacete del XIX, “escondido” en plena milla de oro madrileña, es uno de esos secretos que compartimos los madrileños solo con nuestros mejores amigos. El [hotel Único Madrid](https://www.unicohotelmadrid.com) es un espacio de paz y tranquilidad en una de las zonas más bonitas y burguesas de Madrid, con un precioso jardín donde tomar el _brunch_ los domingos envueltos en ese lujo “discreto” que tanto nos gusta…
 
@@ -111,7 +111,7 @@ Y además, tienen el restaurante [Ramón Freixa Madrid](https://www.ramonfreixam
 
 #### 9\. Hotel Urban Madrid y restaurante Cebo (Madrid).
 
-\[caption id="attachment\_12533" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/9-Hotel-Urban-Cebo-900x315.jpg "'Boquerón' y sala del restaurante Cebo, ubicado en el hotel Urban de Madrid.") 'Boquerón' y sala del restaurante Cebo, ubicado en el hotel Urban de Madrid.\[/caption\]
+\[caption id="attachment\_12533" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/9-Hotel-Urban-Cebo.jpg "'Boquerón' y sala del restaurante Cebo, ubicado en el hotel Urban de Madrid.") 'Boquerón' y sala del restaurante Cebo, ubicado en el hotel Urban de Madrid.\[/caption\]
 
 Situado en una de las calles más emblemáticas de Madrid, en la Carrera de San Jerónimo, en pleno triángulo Prado-Thyssen-Reina Sofía,el [hotel Urban](https://www.hotelurban.com/#!es/) es un modernísimo hotel “Gran Lujo” con un diseño muy cuidado estilo _Art Decó_, lleno de obras de arte y múltiples espacios donde comer muy bien. Desde el Glass Mar asesorado por **Ángel León**, una barra “marina” con algunos de los platos más emblemáticos del “chef del mar”, hasta [Cebo](https://www.cebomadrid.com), el restaurante con el que han conseguido en la última edición de la Guía Michelin una estrella.
 
@@ -119,7 +119,7 @@ Hay que agradecérselo a las grandes maneras de **Aurelio Morales**, un chef sin
 
 #### 10\. Hotel Wellington Madrid y restaurante Kabuki (Madrid).
 
-\[caption id="attachment\_12534" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/10-wellington-kabuki-madrid-900x411.jpg "Exterior del hotel Wellington (Madrid) y plato de niguiris de su restaurante Kabuki.") Exterior del hotel Wellington (Madrid) y plato de niguiris de su restaurante Kabuki.\[/caption\]
+\[caption id="attachment\_12534" align="aligncenter" width="900"\]![hoteles con encanto, viajes de fin de semana, hoteles gastronómicos, escapadas en pareja](https://fotos.etheriamagazine.com/2019/09/10-wellington-kabuki-madrid.jpg "Exterior del hotel Wellington (Madrid) y plato de niguiris de su restaurante Kabuki.") Exterior del hotel Wellington (Madrid) y plato de niguiris de su restaurante Kabuki.\[/caption\]
 
 El [hotel Wellington Madrid](https://www.hotel-wellington.com/es) un extraordinario ejemplo de cómo uno de los hoteles clásicos madrileños se puede adaptar a los nuevos tiempos sin perder ni un ápice de su clase, en este caso, el impecable _british style_ que lo define. Así, desde hace más o menos un año, podemos disfrutar de su azotea, donde encontramos el mayor huerto urbano del mundo, además de unas espectaculares vistas. Desde hace muy poco, la azotea sirve de escenario a las **“Huerto Experiencias”**, que comprenden desde clases magistrales de cocina y actividades en las que interactuar con la misma, hasta la posibilidad de crear tu propio menú con ayuda del chef en modo “txoco” u optar por menús creados exprofeso por el chef para cada ocasión.
 

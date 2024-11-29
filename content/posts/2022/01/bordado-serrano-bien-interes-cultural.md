@@ -44,7 +44,7 @@ estas labores no caigan en el olvido existen cursos de formación y talleres de
 salvaguarda impartidos por grupos como la **Asociación de Mujeres Artesanas de la Sierra 
 de Francia** y la organización [Red Arrayán](https://red-arrayan.com/). 
 
-![pez bordado serrano](https://fotos.etheriamagazine.com/2022/01/pez-bordado-serrano-768x1024.jpg "Detalle de un pez en un bordado serrano. © Pepa García")
+![pez bordado serrano](https://fotos.etheriamagazine.com/2022/01/pez-bordado-serrano.jpg "Detalle de un pez en un bordado serrano. © Pepa García")
 
 ## Bordado serrano, unas notas básicas
 
@@ -64,7 +64,7 @@ vegetal lleno de ramajes por todos lados y la profusión de cenefas y grecas con
 se rellenan los espacios en blanco. Otros rasgos del Bordado serrano son la ausencia de 
 figuras humanas y de motivos geométricos. 
 
-![bodega calixto bordado serrano](https://fotos.etheriamagazine.com/2022/01/calixto-bordado-serrano-775x1024.jpg "El bordado serrano, también presente en las etiquetas del vino. © Pepa García")
+![bodega calixto bordado serrano](https://fotos.etheriamagazine.com/2022/01/calixto-bordado-serrano.jpg "El bordado serrano, también presente en las etiquetas del vino. © Pepa García")
 
 ## Mogarraz y La Alberca, centros del bordado serrano
 
@@ -88,7 +88,7 @@ sumando algún color salmón debido a la influencia de la escuela vecina. Estas
 diferencias permiten conocer, con cierta precisión, si un bordado procede de una u otra 
 escuela. 
 
-![pueblo la alberca salamanca](https://fotos.etheriamagazine.com/2022/01/La-Alberca-783x1024.jpg "Bonito casco antiguo de La Alberca. © Diputación de Salamanca")
+![pueblo la alberca salamanca](https://fotos.etheriamagazine.com/2022/01/La-Alberca.jpg "Bonito casco antiguo de La Alberca. © Diputación de Salamanca")
 
 Otro dato interesante es el **lenguaje de los colores** empleados, ya que los tejidos 
 bordados en azul se empleaban para amortajar a los difuntos, mientras que los rojos se 
@@ -112,7 +112,7 @@ zoomorfos, y las mangas de las camisas galanas, especialmente las femeninas. A m
 del siglo XX, se incorporan nuevos colores: malvas, morados, verde hierba, azul cobalto, 
 amarillo dorado, rojo fuego y el salmón. 
 
-![gallo bordado serrano](https://fotos.etheriamagazine.com/2022/01/gallo-bordado-serrano-712x1024.jpg "Detalle de un bordado serrano con alegre colorido. © Pepa García")
+![gallo bordado serrano](https://fotos.etheriamagazine.com/2022/01/gallo-bordado-serrano.jpg "Detalle de un bordado serrano con alegre colorido. © Pepa García")
 
 ### Animales y vegetales
 
@@ -162,11 +162,11 @@ visita a la comarca de la Sierra de Francia.
 
 ### También te puede interesar...
 
-?[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
+📍[Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
 Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/). 
 
-?[El Camino de Hierro, kilómetros de magia entre puentes y túneles en 
+📍[El Camino de Hierro, kilómetros de magia entre puentes y túneles en 
 Salamanca](https://etheriamagazine.com/2021/10/03/recorrido-del-camino-de-hierro-salamanca/), 
 
-?[Mogarraz se retrata, así es el pueblo de las 800 
+📍[Mogarraz se retrata, así es el pueblo de las 800 
 caras](https://etheriamagazine.com/2019/10/07/que-ver-en-mogarraz-pueblo-de-retratos-salamanca/).

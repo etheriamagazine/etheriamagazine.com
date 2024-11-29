@@ -16,7 +16,7 @@ capital, Murcia, ofrece playas, monumentos, historia y parajes maridados con nue
 propuestas gastronómicas y una completa oferta para el paladar. No olvides que fue 
 Capital Española de la Gastronomía hace unos años. 
 
-![Tapeo junto al mar en Collados Beach, Murcia.](https://fotos.etheriamagazine.com/2021/07/Collados-Beach-murcia-683x1024.jpg "Tapeo junto al mar en © Collados Beach, Murcia.")
+![Tapeo junto al mar en Collados Beach, Murcia.](https://fotos.etheriamagazine.com/2021/07/Collados-Beach-murcia.jpg "Tapeo junto al mar en © Collados Beach, Murcia.")
 
 **Actualizado 10/2023** 
 
@@ -64,7 +64,7 @@ opción.
 
 **Dirección:** calle Pintor Villacís, 3. **Horario**: de 09:00 a 00:00h. 
 
-![hojaldre willy factory murcia](https://fotos.etheriamagazine.com/2021/07/hojaldre-willy-factory-683x1024.jpg "© Hojaldre de Willy Factory.")
+![hojaldre willy factory murcia](https://fotos.etheriamagazine.com/2021/07/hojaldre-willy-factory.jpg "© Hojaldre de Willy Factory.")
 
 ### Probar el pastel murciano más gourmet
 
@@ -180,7 +180,7 @@ los amantes de la arquitectura. ¿Quién no quiere bañarse con una vista donde 
 confluye con el espacio protegido de las Salinas y Arenales de San Pedro del Pinatar con 
 un icono arquitectónico de aspecto futurista? 
 
-**Dirección:** La Manga - Urb. Veneciola s/n. San Javier. ? Confirma apertura en 
+**Dirección:** La Manga - Urb. Veneciola s/n. San Javier. 📌 Confirma apertura en 
 colladosbeach.com 
 
 **Otros planes con amigas** 

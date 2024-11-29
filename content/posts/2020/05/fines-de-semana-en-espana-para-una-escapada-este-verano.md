@@ -13,7 +13,7 @@ authors:
 
 En verano una excelente alternativa para ir anticipando las vacaciones son las escapadas de fin de semana. Aquí te proponemos 8 lugares en España donde podrás desconectar en un par de días. ¡Date un capricho!
 
-![Barcos en Bermejo](https://fotos.etheriamagazine.com/2020/03/viaje-bizkaia-ver-ballenas-900x600.jpg "Puerto de Bermeo.")
+![Barcos en Bermejo](https://fotos.etheriamagazine.com/2020/03/viaje-bizkaia-ver-ballenas.jpg "Puerto de Bermeo.")
 
 En España gozamos de veranos largos, donde el buen tiempo abarca muchos meses que se 
 traducen un montón de fines de semana perfectos para escaparse a descansar mientras 
@@ -34,10 +34,10 @@ verano y su capital también tiene mucho que ofrecer. En la ciudad de Almería e
 historia, arquitectura y una gastronomía en forma de tapas que hará que quieras 
 continuar con el aperitivo hasta el atardecer. 
 
-? [Almería, una capital mucho más guapa de lo que 
+📍 [Almería, una capital mucho más guapa de lo que 
 piensas](https://etheriamagazine.com/2020/01/10/48-horas-con-amigas-en-almeria-capital-que-ver-y-donde-tapear/). 
 
-![Palmeras en la plaza de la catedral de Almería](https://fotos.etheriamagazine.com/2020/01/Almeria-Plaza-Catedral-900x607.jpg "Plaza de la Catedral de Almería. © P.G.")
+![Palmeras en la plaza de la catedral de Almería](https://fotos.etheriamagazine.com/2020/01/Almeria-Plaza-Catedral.jpg "Plaza de la Catedral de Almería. © P.G.")
 
 ### 2\. Cantabria
 
@@ -46,10 +46,10 @@ te proponemos cinco experiencias originales para que no os aburráis ni un minut
 fin de semana. ¿Qué te parecen un curso para elaborar sobaos, una cata de ginebras y una 
 tarde de relax en un balneario? 
 
-? [5 experiencias en Cantabria para un fin de semanas con 
+📍 [5 experiencias en Cantabria para un fin de semanas con 
 amigas](https://etheriamagazine.com/2020/02/17/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas/). 
 
-![taller sobaos joselin](https://fotos.etheriamagazine.com/2020/02/taller-sobaos-joselin-900x435.jpg "Taller de sobaos en Joselín (Cantabria). © PG")
+![taller sobaos joselin](https://fotos.etheriamagazine.com/2020/02/taller-sobaos-joselin.jpg "Taller de sobaos en Joselín (Cantabria). © PG")
 
 ### 3\. Teruel
 
@@ -59,10 +59,10 @@ combinar lo cultural con lo gastronómico. A Teruel se la conoce como la Ciudad 
 dejar de disfrutar de sus bares y restaurantes y, si te interesa la astronomía, visitar 
 la sede del Centro de Estudios de Física del Cosmos. 
 
-? [48 horas en Teruel, ciudad de arte y 
+📍 [48 horas en Teruel, ciudad de arte y 
 gastronomía](https://etheriamagazine.com/2020/02/10/viajes-romanticos-que-ver-donde-comer-teruel/). 
 
-![Escalinata mudéjar en Teruel](https://fotos.etheriamagazine.com/2020/01/Teruel-escalinata-900x600.jpg "Escalinata neomudéjar de Teruel.")
+![Escalinata mudéjar en Teruel](https://fotos.etheriamagazine.com/2020/01/Teruel-escalinata.jpg "Escalinata neomudéjar de Teruel.")
 
 ### 4\. Golfo de Bizkaia
 
@@ -73,10 +73,10 @@ ya que ofrece una experiencia única: avistar cetáceos muy cerca de la costa. U
 actividad estupenda para disfrutar en fin de semana y que se puede combinar con la 
 animada ciudad marinera de Bermeo, una excelente lugar para tomar unos pintxos. 
 
-? [Avistar cetáceos en la costa vasca, una experiencia 
+📍 [Avistar cetáceos en la costa vasca, una experiencia 
 inolvidable](https://etheriamagazine.com/2020/04/20/avistamiento-cetaceos-bizkaia-vizcaya-pais-vasco/). 
 
-![Delfines en el golfo de Vizcaya](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines-900x576.jpg "Cetáceos en el golfo de Bizkaia.")
+![Delfines en el golfo de Vizcaya](https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines.jpg "Cetáceos en el golfo de Bizkaia.")
 
 ### 5\. El Bierzo
 
@@ -86,10 +86,10 @@ con actividades como visitar minas de carbón y localidades como Torre del Bierz
 Facundo, un lugar que ha sabido reinventarse para evitar el despoblamiento y ofrece 
 todos los servicios necesarios para disfrutar de la naturaleza que le rodea. 
 
-? [De la memoria minera de Torre del Bierzo al ‘milagro’ de San 
+📍 [De la memoria minera de Torre del Bierzo al ‘milagro’ de San 
 Facundo](https://etheriamagazine.com/2020/01/27/turismo-rural-leon-torre-del-bierzo-y-san-facundo/). 
 
-![san facundo entre montañas](https://fotos.etheriamagazine.com/2020/01/Leon-pueblo-San-Facundo-900x600.jpg "San Facundo, el pueblo más bonito de León. © Pedro Grifol")
+![san facundo entre montañas](https://fotos.etheriamagazine.com/2020/01/Leon-pueblo-San-Facundo.jpg "San Facundo, el pueblo más bonito de León. © Pedro Grifol")
 
 ### 6\. Ruta del vino de Cigales
 
@@ -100,10 +100,10 @@ Fuensaldaña o el Castillo Encantado, y degustar la deliciosa gastronomía de la
 basada en el lechazo, además de poder probar productos locales como la miel y el 
 chocolate. 
 
-? [Ruta del vino de Cigales, 10 razones para brindar como los Reyes 
+📍 [Ruta del vino de Cigales, 10 razones para brindar como los Reyes 
 Católicos](https://etheriamagazine.com/2020/01/07/viaje-con-amigas-ruta-del-vino-cigales/). 
 
-![Vino rosado de Cigales](https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-portada-900x646.jpg "Brindemos por la Ruta del vino Cigales. © Kelu Robles")
+![Vino rosado de Cigales](https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-portada.jpg "Brindemos por la Ruta del vino Cigales. © Kelu Robles")
 
 ### 7\. Marina Alta: Dénia y Jávea
 
@@ -114,7 +114,7 @@ escondidas y restaurantes donde degustar la famosa [gamba
 roja](http://etheriamagazine.com/2019/07/02/mejores-restaurantes-gamba-roja-blanca-palamos-cambrils-valencia-almeria-huelva/) 
 de la zona. 
 
-? [Planes en Dénia y Jávea para mujeres 
+📍 [Planes en Dénia y Jávea para mujeres 
 sibaritas](https://etheriamagazine.com/2021/04/03/que-hacer-donde-comer-con-amigas-denia-javea/). 
 
 ![Cala en la Marina Alta](https://fotos.etheriamagazine.com/2019/08/viaje-denia-javea-Cabo-de-la-fontana.jpg "Cabo de la Fontana. ©M.E.")
@@ -127,7 +127,7 @@ el Pico Urbión, la Laguna Negra o el cañón del río Lobos harán que te apart
 durante un fin de semana. Además, podrás visitar castillos, ermitas y pueblos con 
 encanto. ¿Se puede pedir más? 
 
-? [Ocho razones para visitar Soria con 
+📍 [Ocho razones para visitar Soria con 
 amigas](https://etheriamagazine.com/2019/08/12/ocho-razones-para-viajar-a-soria-con-amigas/). 
 
 ![Laguna Negra de Soria](https://fotos.etheriamagazine.com/2019/07/viaje-soria-laguna-negra.jpg "Laguna Negra (Soria).")

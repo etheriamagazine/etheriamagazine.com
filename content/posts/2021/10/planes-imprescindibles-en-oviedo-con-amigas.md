@@ -53,7 +53,7 @@ edificar la iglesia dedicada a El Salvador, al trasladar la Corte a Oviedo.
 Posteriormente, ya en el siglo XIII, se construyó la actual Catedral sobre estas 
 edificaciones. 
 
-![La estatua de La Regenta frente a la catedral.](https://fotos.etheriamagazine.com/2021/09/oviedo-catedral-regenta-683x1024.jpg "La estatua de La Regenta frente a la catedral.")
+![La estatua de La Regenta frente a la catedral.](https://fotos.etheriamagazine.com/2021/09/oviedo-catedral-regenta.jpg "La estatua de La Regenta frente a la catedral.")
 
 ### 2\. Centro de la capital
 
@@ -214,7 +214,7 @@ descubrir un poco más esta faceta de Oviedo.
 Primero, visitando el **Teatro Campoamor** (fundado en 1892), donde se organizan visitas 
 teatralizadas o acudiendo, si es temporada, a alguno de sus espectáculos de ópera. 
 
-![Teatro Campoamor.](https://fotos.etheriamagazine.com/2021/09/Teatro-Campoamor-wikimedia-commons-900x640.jpg "Teatro Campoamor. © Wikimedia Commons")
+![Teatro Campoamor.](https://fotos.etheriamagazine.com/2021/09/Teatro-Campoamor-wikimedia-commons.jpg "Teatro Campoamor. © Wikimedia Commons")
 
 Después, es visita ineludible ir al **Hotel La Reconquista** (un 5 estrellas de la 
 cadena Eurostars). Está lleno de tradición, lujo y nobleza con 300 años de historia, 

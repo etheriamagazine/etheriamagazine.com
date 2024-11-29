@@ -28,7 +28,7 @@ el activismo político que la caracterizó durante buena parte del siglo XX y pr
 del XXI. Si quieres saber qué hacer en Bolonia sigue leyendo porque con estos planes que 
 te proponemos conocerás facetas muy variadas de la ciudad. 
 
-?No te pierdas: [Viaje con amigas a Bolonia: 10 planes imbatibles en 
+📌No te pierdas: [Viaje con amigas a Bolonia: 10 planes imbatibles en 
 Italia](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/). 
 
 ![impresionante plano aereo de bolonia](https://fotos.etheriamagazine.com/2022/02/Plano-aereo-bolonia.jpg "Vista aérea de Bolonia.")

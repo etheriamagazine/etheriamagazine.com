@@ -141,7 +141,8 @@ los viñedos y pueblos de la Ribera del Duero.
 
 ![bodega tresmano ribera del duero](https://fotos.etheriamagazine.com/2021/10/bodega-tresmano-valladolid.jpg "Bodega Tr3smano. © P.G.")
 
-? Consulta también este artículo: [Ruta por Ribera del Duero: de bodega en bodega por la 
+📌 Consulta también este artículo: [Ruta por Ribera del Duero: de bodega en bodega por 
+la 
 N-122.](https://etheriamagazine.com/2018/05/21/ruta-del-vino-ribera-del-duero-valladolid/) 
 
 ### Vuelo en globo sobre la Ribera del Duero
@@ -163,7 +164,7 @@ cuyos coloridos globos pilotados por Roberto Pérez son ya un clásico del paisa
 castellanoleonés. Consulta salidas o experiencias personalizadas en el hotel o en la web 
 de esta empresa. 
 
-? Si quieres conocer más detalles sobre los vuelos en globo y posibles destinos, no te 
+📌 Si quieres conocer más detalles sobre los vuelos en globo y posibles destinos, no te 
 pierdas este artículo: [Volar en globo en España, el mejor regalo para espíritus 
 aventureros](https://etheriamagazine.com/2020/07/07/vuelos-en-globo-en-espana-regalo-viajero/). 
 

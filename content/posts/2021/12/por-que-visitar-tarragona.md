@@ -65,7 +65,7 @@ A las afueras encontrarás el imponente **Acueducto romano,** con 27 metros de a
 Conocer su patrimonio romano es suficiente motivo para visitar Tarragona durante un fin 
 de semana, pero hay muchos más. 
 
-![escultura romulo remo tarragona](https://fotos.etheriamagazine.com/2021/12/paseo-arqueologico-tarragona-685x1024.jpg "Escultura de Rómulo y Remo, en el Paseo Arqueológico de Tarragona. © Alberich F. / Tarragona Turisme")
+![escultura romulo remo tarragona](https://fotos.etheriamagazine.com/2021/12/paseo-arqueologico-tarragona.jpg "Escultura de Rómulo y Remo, en el Paseo Arqueológico de Tarragona. © Alberich F. / Tarragona Turisme")
 
 ## 2\. Ver la colección del Museo Arqueológico de Tarragona
 

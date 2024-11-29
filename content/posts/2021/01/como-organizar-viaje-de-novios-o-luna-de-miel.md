@@ -184,7 +184,7 @@ reservados. Siempre es bueno tener una idea de dónde parar a comer o dónde dar
 capricho de una cena romántica antes de llegar al destino. Y si ves que es un sitio muy 
 demandado, mejor llevar las reservas hechas para evitarse el cartel de completo. 
 
-? **También te puede interesar...** 
+📌 **También te puede interesar...** 
 
 [10 ideas para tu viaje de 
 novios.](https://etheriamagazine.com/2019/09/18/10-ideas-para-tu-viaje-de-novios-luna-de-miel/) 

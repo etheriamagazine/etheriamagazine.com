@@ -60,7 +60,7 @@ reconoceremos por sus vestidos de colores vivos y un tocado que simula los **cue
 una vaca**, alrededor de la cual gira su economía y que aún hoy día se las continúa 
 considerando sagradas. 
 
-![Niño de la etnia de los Hereros.](https://fotos.etheriamagazine.com/2023/06/tribu-hereros-Namibia-850x565.jpg "Niño de la etnia de los Hereros. © C. Candel")
+![Niño de la etnia de los Hereros.](https://fotos.etheriamagazine.com/2023/06/tribu-hereros-Namibia.jpg "Niño de la etnia de los Hereros. © C. Candel")
 
 ## La tierra de los himbas
 
@@ -84,7 +84,7 @@ Angola y tienen un precioso baobab en mitad de la caída. Aquí hay varios _camp
 y hoteles que se encuentran en la orilla del río Kunene, frente a las cascadas y en los 
 alrededores hay muchos poblados de himbas que se pueden visitar. 
 
-![Epupa Falls o Cataratas de Epupa, una visita básica si te animas a viajar sola a Namibia.](https://fotos.etheriamagazine.com/2023/06/Epupa-falls-Namibia-682x1024.jpg "Epupa Falls, en Namibia. © C. Candel")
+![Epupa Falls o Cataratas de Epupa, una visita básica si te animas a viajar sola a Namibia.](https://fotos.etheriamagazine.com/2023/06/Epupa-falls-Namibia.jpg "Epupa Falls, en Namibia. © C. Candel")
 
 ## Yacimiento Twyfelfontein 534
 
@@ -99,7 +99,7 @@ conocer cómo viven en la actualidad los habitantes de esta zona tan extrema del
 escuchar su lengua con los diferentes chasquidos y sonidos que intercalan con otros 
 fonemas, de lo más curioso. 
 
-![Yacimiento Twyfelfontein 534, esencial si vas a viajar sola a Namibia.](https://fotos.etheriamagazine.com/2023/06/Yacimiento-Twyfelfontein-Namibia-850x567.jpg "Yacimiento Twyfelfontein 534, esencial si vas a viajar sola a Namibia.")
+![Yacimiento Twyfelfontein 534, esencial si vas a viajar sola a Namibia.](https://fotos.etheriamagazine.com/2023/06/Yacimiento-Twyfelfontein-Namibia.jpg "Yacimiento Twyfelfontein 534, esencial si vas a viajar sola a Namibia.")
 
 ## Costa de los Esqueletos
 

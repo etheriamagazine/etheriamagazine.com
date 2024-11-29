@@ -105,7 +105,7 @@ del arte y reflexionar sobre aspectos como la decadencia, la incertidumbre o la
 destrucción en obras realizadas a partir de objetos encontrados y de elementos como el 
 polvo o la sangre. 
 
-![Cuadro de la exposición de Peter Buggenhout en la Galería Galguera](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-Buggenhout-683x1024.jpg "I am the Tablet # 6 © Peter Buggenhout. Fotógrafo: Dirk Pauwels Cortesía: Galería Hilario Galguera.")
+![Cuadro de la exposición de Peter Buggenhout en la Galería Galguera](https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-Buggenhout.jpg "I am the Tablet # 6 © Peter Buggenhout. Fotógrafo: Dirk Pauwels Cortesía: Galería Hilario Galguera.")
 
 Dónde: **Galería Hilario Galguera**. Calle Doctor Fourquet 12. Cuándo: hasta el 5 de 
 noviembre de 2022. Entrada libre. 

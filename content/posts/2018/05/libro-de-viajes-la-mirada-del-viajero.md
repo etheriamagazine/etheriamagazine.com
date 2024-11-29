@@ -11,7 +11,7 @@ authors:
 Sergi Latorre, además de contar sus andanzas por el mundo con un buen manejo de la 
 pluma, convierte al viajero que todos llevamos dentro en su compañero de aventuras. 
 
-![La mirada del viajero, un libro de Sergi La Torre, editorial Desnivel](https://fotos.etheriamagazine.com/2018/05/la-mirada-del-viajero-683x1024.jpg "Un libro para grandes viajeros.")
+![La mirada del viajero, un libro de Sergi La Torre, editorial Desnivel](https://fotos.etheriamagazine.com/2018/05/la-mirada-del-viajero.jpg "Un libro para grandes viajeros.")
 
 Cuando un autor escribe el libro que le gustaría leer, el éxito está casi asegurado 
 porque, probablemente, otros lectores buscan lo mismo y aún no lo han encontrado. 

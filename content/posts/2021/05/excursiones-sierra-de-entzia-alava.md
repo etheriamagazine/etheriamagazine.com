@@ -21,7 +21,7 @@ caminos entre antiguas tierras de vascones y visigodos. En pleno camino composte
 desde su casco medieval de fachadas blasonadas, es una base ideal de la Llanada Alavesa 
 para realizar algunas **excursiones por la Sierra de Entzia**. 
 
-![iglesia de santa maria camino de santiago salvatierra](https://fotos.etheriamagazine.com/2021/05/iglesia-santa-maria-camino-santiago-683x1024.jpg "La iglesia de Santa María, en Salvatierra, en pleno Camino de Santiago.")
+![iglesia de santa maria camino de santiago salvatierra](https://fotos.etheriamagazine.com/2021/05/iglesia-santa-maria-camino-santiago.jpg "La iglesia de Santa María, en Salvatierra, en pleno Camino de Santiago.")
 
 ## 1\. Desde el Mediterráneo a Compostela
 
@@ -34,7 +34,7 @@ de Baiona, llega a través de Guipúzcoa. Desde Salvatierra continúan juntos, t
 hace mil años, en un único sendero que atraviesa tierras palentinas y leonesas. ¡Anímate 
 a realizar un tramo de este camino, la longitud la decides tú! 
 
-![Laberinto entre las calizas de Katarri y Arno excursiones en la sierra de entzia](https://fotos.etheriamagazine.com/2021/05/laberinto-calizas-Katarri-Arno-683x1024.jpg "Laberinto entre las calizas de Katarri y Arno, en la sierra de Entzia.")
+![Laberinto entre las calizas de Katarri y Arno excursiones en la sierra de entzia](https://fotos.etheriamagazine.com/2021/05/laberinto-calizas-Katarri-Arno.jpg "Laberinto entre las calizas de Katarri y Arno, en la sierra de Entzia.")
 
 ## 2\. Descubre laberintos pétreos en el bosque
 
@@ -53,7 +53,7 @@ una catedral de árboles, la diversión está asegurada. Olvídate del GPS y dé
 por su fantasioso aspecto cubierto de musgo. Esta es otra de las excursiones por la 
 Sierra de Entzia desde Salvatierra que no te debes perder. 
 
-![Salvatierra partida de excursiones de la sierra de entzia](https://fotos.etheriamagazine.com/2021/05/salvatierra-alava-683x1024.jpg "Colorida imagen de Salvatierra.")
+![Salvatierra partida de excursiones de la sierra de entzia](https://fotos.etheriamagazine.com/2021/05/salvatierra-alava.jpg "Colorida imagen de Salvatierra.")
 
 ## 3\. Salvatierra, parada y fonda
 
@@ -115,7 +115,7 @@ Aitzkomendi**. En este lugar de enterramiento, de bella silueta con sus enormes 
 piedra, incluso se han hallado restos funerarios, y botones de la casaca de un soldado 
 napoleónico. 
 
-![Cascada de Toberia excursiones en la sierra de entzia](https://fotos.etheriamagazine.com/2021/05/cascada-toberia-mas-bonita-alava-683x1024.jpg "Cascada de Toberia, en un impactante entorno natural.")
+![Cascada de Toberia excursiones en la sierra de entzia](https://fotos.etheriamagazine.com/2021/05/cascada-toberia-mas-bonita-alava.jpg "Cascada de Toberia, en un impactante entorno natural.")
 
 ## 6\. Cascada de Toberia, el rincón más hermoso de Álava
 
@@ -126,7 +126,7 @@ que, junto al río, entre hayas y robles centenarios, lleva al nacimiento del mi
 Allí, la roca de toba calcárea origina unas llamativas cascadas que se desprenden en 
 infinitos hilos de agua en época de lluvias. 
 
-![excursiones en la sierra de entzia robles centenarios](https://fotos.etheriamagazine.com/2021/05/robles-sierra-entzia-708x1024.jpg "Robledal centenario entre los pueblos de Muniain y Okariz.")
+![excursiones en la sierra de entzia robles centenarios](https://fotos.etheriamagazine.com/2021/05/robles-sierra-entzia.jpg "Robledal centenario entre los pueblos de Muniain y Okariz.")
 
 ## 7\. Bosque medieval a la vista
 

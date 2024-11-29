@@ -150,7 +150,7 @@ acción expectorante ayudando a limpiar las vías respiratorias, eliminar las fl
 mucosidad. El Consejo Superior de Investigaciones Científicas ha identificado el cloruro 
 sódico (SAL) como agente biocida eficaz contra SARS-CoV-2. 
 
-? **También te puede interesar...** 
+📌 **También te puede interesar...** 
 
 [Barra libre de ansiolíticos y antidepresivos, ¿se medicalizan los problemas 
 sociales?](https://etheriamagazine.com/2021/04/14/ansioliticos-y-antidepresivos-no-resuelven-los-problemas/) 

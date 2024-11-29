@@ -11,7 +11,7 @@ authors:
 
 La isla de Pag es uno de esos destinos de Croacia que queda grabado para siempre en la memoria por su historia, cultura y gastronomía. Además de por la fiesta, ¡por algo la llaman la Ibiza del Adriático! En este artículo te hablamos de sus productos más emblemáticos para que le des gusto también al paladar.
 
-![Propietaria de la Quesería GlIgora.](https://fotos.etheriamagazine.com/2018/08/quesos-pag-croacia-1024x683.jpg "Quesería GlIgora. © Pepa García")
+![Propietaria de la Quesería GlIgora.](https://fotos.etheriamagazine.com/2018/08/quesos-pag-croacia.jpg "Quesería GlIgora. © Pepa García")
 
 ```
 Actualizado mayo 2022.

@@ -188,7 +188,7 @@ que saben a gloria.
 Puedes seguir informándote con las [audioguías](http://audioguia.baeza.net/indexes.html?google=es#menu_20) 
 de Turismo de Baeza. 
 
-?**No te pierdas este artículo para continuar el viaje:** [Guía esencial de Úbeda para 
+📍**No te pierdas este artículo para continuar el viaje:** [Guía esencial de Úbeda para 
 un fin de semana histórico](https://etheriamagazine.com/2022/11/08/que-ver-ubeda/). 
 
 ![Iglesia de San Pablo en Baeza](https://fotos.etheriamagazine.com/2022/11/baeza-iglesia-san-pablo.jpg "Iglesia de San Pablo.")

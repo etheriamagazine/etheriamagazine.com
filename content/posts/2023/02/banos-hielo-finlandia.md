@@ -13,7 +13,7 @@ ciertas cosas por primera vez. Porque… ¿conoces la sensación de bañarte en 
 hielo? Te contamos los beneficios de sumergirte en agua helada y cómo iniciarte en esta 
 práctica tan de moda. 
 
-![El agujero que se hace en el hielo para darse un baño helado se llama "avanto".](https://fotos.etheriamagazine.com/2023/02/finlandia-agujero-hielo-641x1024.jpg "Elina Mäkinen a punto de darse un baño en agua helada. © Taneli Kantanen")
+![El agujero que se hace en el hielo para darse un baño helado se llama "avanto".](https://fotos.etheriamagazine.com/2023/02/finlandia-agujero-hielo.jpg "Elina Mäkinen a punto de darse un baño en agua helada. © Taneli Kantanen")
 
 Si eres una viajera que siempre está dispuesta a vivir nuevas sensaciones y te pones a 
 prueba en cada destino que visitas, te gustará conocer la experiencia de **bañarte en 
@@ -21,7 +21,7 @@ mitad del hielo en Finlandia**. Aunque pueda parecer un poco desconcertante, es 
 práctica habitual en el norte de Europa y que genera grandes beneficios físicos y 
 mentales. ¿Te animarías? 
 
-?**No te pierdas:** [7 excursiones ideales en la Laponia 
+**No te pierdas:** [7 excursiones ideales en la Laponia 
 finlandesa](https://etheriamagazine.com/2019/10/31/siete-excursiones-en-laponia-finlandesa/). 
 
 ## Un baño helado en Finlandia
@@ -44,7 +44,7 @@ competiciones desde 1989 con profesionales de alto nivel. Y, como curiosidad, te
 contamos que se sabe que ya en el siglo XVII existían aficionados a sumergirse en agua 
 helada. 
 
-![Nadadoras saltan alegres en el hielo de Finlandia](https://fotos.etheriamagazine.com/2023/02/finlandia-nadar-hielo-850x567.jpg "Más de 700.000 personas nadan durante el invierno en Finlandia.")
+![Nadadoras saltan alegres en el hielo de Finlandia](https://fotos.etheriamagazine.com/2023/02/finlandia-nadar-hielo.jpg "Más de 700.000 personas nadan durante el invierno en Finlandia.")
 
 ## Elina Mäkinen, una nadadora que bate récords
 
@@ -55,9 +55,9 @@ día a día. En algunos de sus vídeos podrás ver cómo se cortan grandes pieza
 para crear piscinas en las que nadar en mitad de un paisaje helado. Esta finlandesa es 
 también la protagonista del documental ‘**_Kylmä_**’ (_Into the cold_), en el que se 
 destacan los beneficios del frío y los entrenamientos de esta nadadora para batir 
-récords. Lo puedes ver en Arte.tv 
+récords. 
 
-![Una piscina perfecta para nadar en aguas heladas en Isokenkäisten klubi.](https://fotos.etheriamagazine.com/2023/02/piscina-hielo-finlandia-768x1024.jpg "Una piscina perfecta para nadar en aguas heladas en Isokenkäisten Klubi. © IKK")
+![Una piscina perfecta para nadar en aguas heladas en Isokenkäisten klubi.](https://fotos.etheriamagazine.com/2023/02/piscina-hielo-finlandia.jpg "Una piscina perfecta para nadar en aguas heladas en Isokenkäisten Klubi. © IKK")
 
 ### Dónde nadar en hielo en Finlandia
 
@@ -65,26 +65,26 @@ No hay nadie mejor que la nadadora **Elina Mäkinen** para recomendar los mejore
 donde bañarte en el hielo en Finlandia. Estos son sus sitios favoritos para disfrutar de 
 la experiencia: 
 
-?Natación invernal en Helsinki: En la capital finlandesa está **Löyly**, un buen sitio 
+• Natación invernal en Helsinki: En la capital finlandesa está **Löyly**, un buen sitio 
 para hacer unos largos a pocos grados sobre cero y terminar en una sauna cercana. 
 
-?Al estilo más natural en el **Fell Centre Kiilopää**, en Laponia. La nadadora sugiere 
+• Al estilo más natural en el **Fell Centre Kiilopää**, en Laponia. La nadadora sugiere 
 un arroyo perfecto para sumergirse en este sitio. Además, la experiencia se puede 
 completar con una sauna de humo que está al lado. 
 
-?Contraste frío-calor: a Elina Mäkinen le encanta un lugar llamado **Arctic Sauna 
+• Contraste frío-calor: a Elina Mäkinen le encanta un lugar llamado **Arctic Sauna 
 World** situado en su lugar de residencia, Muonio. Junto al lago Jerisjärvi se puede 
 vivir la sensación de tomar un baño y una sauna en un paisaje típico finlandés. 
 
-?**Club de natación Osos Polares** de Joensuu, al este de Finlandia. Cuenta con dos 
+• **Club de natación Osos Polares** de Joensuu, al este de Finlandia. Cuenta con dos 
 grandes saunas para entrar en calor tras la actividad. 
 
-?Experiencia completa de lujo. Un lugar espectacular donde disfrutar tanto de estancia 
+• Experiencia completa de lujo. Un lugar espectacular donde disfrutar tanto de estancia 
 como de baño en hielo y sauna es en el **lodge Isokenkäisten Klubi** (www.ikk.fi), en el 
 entorno del lago Heikinjärvi. Está situado cerca de Kuusamo y allí se grabó parte del 
 documental que hemos comentado, "Into de Cold". 
 
-![Artic Sauna World, uno de los mejores lugares para bañarte en hielo en Finlandia.](https://fotos.etheriamagazine.com/2023/02/finlandia-Arctic-sauna-world-768x1024.jpg "Artic Sauna World, uno de los mejores lugares para bañarte en hielo en Finlandia.")
+![Artic Sauna World, uno de los mejores lugares para bañarte en hielo en Finlandia.](https://fotos.etheriamagazine.com/2023/02/finlandia-Arctic-sauna-world.jpg "Artic Sauna World, uno de los mejores lugares para bañarte en hielo en Finlandia.")
 
 ## Por qué sumergirte en agua helada
 
@@ -116,4 +116,12 @@ recomendado. Y dos consejos más: mucho cuidado con los resbalones, ten en cuent
 estás sobre hielo antes de sumergirte, y asegúrate de tener cerca algún lugar donde 
 secarte y entrar en calor a posteriori. Si es una sauna, mejor. Quien lo prueba, repite, 
 así que ¡anímate! Más información en la [web oficial de Turismo de 
-Finlandia](https://finland.fi/).
+Finlandia](https://finland.fi/). 
+
+**También te puede interesar:** 
+
+[Qué hacer en Finlandia en invierno lejos de Papá 
+Noel](https://etheriamagazine.com/2023/10/24/que-hacer-en-finlandia-en-invierno/) 
+
+[Mujeres artistas Suomi y Sami en 
+Finlandia](https://etheriamagazine.com/2019/07/01/viaje-finlandia-mujeres-artistas-suomi-y-sami/)

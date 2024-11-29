@@ -86,7 +86,7 @@ No olvida tampoco los viajes familiares o cómo desplazarse con las mascotas. Lo
 disfrutar. Precio: [desde 10,44 € en versión digital, y 17,10 € en 
 papel](https://amzn.to/3BmDmsn). 
 
-![manada editorial oberon](https://fotos.etheriamagazine.com/2021/07/libro-manada-oberon-717x1024.jpg "'Manada', editado por Oberon.")
+![manada editorial oberon](https://fotos.etheriamagazine.com/2021/07/libro-manada-oberon.jpg "'Manada', editado por Oberon.")
 
 ### 6\. Manada. Cómo unirnos, liberar nuestro poder...
 
@@ -127,7 +127,7 @@ profesional como Pedro Pardo dispuesto a llevarlos por las carreteras más bonit
 España. Con estos tres libros para el verano 2021 tendrás cubierta buena parte de tus 
 viajes del año. 
 
-![como alimentar a un dictador oberon](https://fotos.etheriamagazine.com/2021/07/como-alimentar-a-un-dictador-649x1024.jpg "'Cómo alimentar a un dictador', de la editorial Oberon.")
+![como alimentar a un dictador oberon](https://fotos.etheriamagazine.com/2021/07/como-alimentar-a-un-dictador.jpg "'Cómo alimentar a un dictador', de la editorial Oberon.")
 
 ### 9\. Cómo alimentar a un dictador
 

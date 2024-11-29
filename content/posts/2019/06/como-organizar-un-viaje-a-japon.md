@@ -79,7 +79,7 @@ en el que puedes realizar un viaje ¡adelante!
 
 ![Libro para niños sobre Japón](https://fotos.etheriamagazine.com/2019/06/Japon-Banzai.jpg)
 
-![Libro sobre Japón](https://fotos.etheriamagazine.com/2019/06/Asi-es-Japon-224x300.jpg "Así es Japón.")
+![Libro sobre Japón](https://fotos.etheriamagazine.com/2019/06/Asi-es-Japon.jpg "Así es Japón.")
 
 Un destino tan rico culturalmente y tan distinto a todo lo que conocemos hay que 
 prepararlo con calma y dedicar tiempo a leer sobre su historia, su cultura y sus 

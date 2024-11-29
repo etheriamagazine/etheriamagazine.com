@@ -14,7 +14,7 @@ este artículo te hablamos de este apasionante artista y del legado que dejó en
 sus propias palabras, “el lugar más bello de la Tierra”. ¿Estás preparada para comprobar 
 que no exageraba? 
 
-![César Manrique posa con una de sus obras.](https://fotos.etheriamagazine.com/2019/09/Cesar-Manrique-lanzarote-900x641.jpg "César Manrique posa con una de sus obras.")
+![César Manrique posa con una de sus obras.](https://fotos.etheriamagazine.com/2019/09/Cesar-Manrique-lanzarote.jpg "César Manrique posa con una de sus obras.")
 
 La figura de César Manrique está tan unida a Lanzarote que resultaría casi imposible 
 disociarla de esta isla canaria que tanto amó. A pesar de que nos dejó en 1992, su 
@@ -31,7 +31,7 @@ de una familia de clase media –padre, representante comercial en el sector ali
 abuelo, notario–, participó en la Guerra Civil española y, aunque empezó a estudiar 
 Arquitectura Técnica en Tenerife, terminó haciendo Bellas Artes en Madrid. 
 
-![Lienzo de César Manrique.](https://fotos.etheriamagazine.com/2019/09/cesar-manrique-pintura-lanzarote-900x811.jpg "Lienzo de César Manrique.")
+![Lienzo de César Manrique.](https://fotos.etheriamagazine.com/2019/09/cesar-manrique-pintura-lanzarote.jpg "Lienzo de César Manrique.")
 
 ### Manrique en Nueva York
 
@@ -46,7 +46,7 @@ hombre en N.Y. es como una rata. El hombre no fue creado para esta artificialida
 una imperiosa necesidad de volver a la tierra. Palparla, olerla. Esto es lo que siento”. 
 Y esa nostalgia impulsó la vuelta a **Lanzarote**. 
 
-![Móvil de César Manrique.](https://fotos.etheriamagazine.com/2019/09/moviles-manrique-lanzarote-900x586.jpg "Móvil de César Manrique, un juguete del viento.")
+![Móvil de César Manrique.](https://fotos.etheriamagazine.com/2019/09/moviles-manrique-lanzarote.jpg "Móvil de César Manrique, un juguete del viento.")
 
 ### Decidido a proporcionar belleza a Lanzarote
 
@@ -63,7 +63,7 @@ accidente automovilístico pero su obra continúa mostrando su magia al público
 Hechas las presentaciones, conozcámosle un poco mejor a través de su obra 
 arquitectónica, pictórica y escultórica. 
 
-![César Manrique en el Jardín de Cactus.](https://fotos.etheriamagazine.com/2019/09/Cesar-Manrique-jardin-cactus-900x601.jpg "César Manrique en el Jardín de Cactus.")
+![César Manrique en el Jardín de Cactus.](https://fotos.etheriamagazine.com/2019/09/Cesar-Manrique-jardin-cactus.jpg "César Manrique en el Jardín de Cactus.")
 
 ## Ruta de Manrique en Lanzarote
 
@@ -87,7 +87,7 @@ museo, además, se puede ver una muestra de su obra.
 > “El sentido más sabio es rodear de la mayor belleza, en el mejor sentido de la palabra, 
 > el entorno donde el hombre habita” (Manrique, 1973) 
 
-![Jameos del Agua.](https://fotos.etheriamagazine.com/2019/09/ruta-manrique-jameos-del-agua-900x596.jpg "© Jameos del Agua.")
+![Jameos del Agua.](https://fotos.etheriamagazine.com/2019/09/ruta-manrique-jameos-del-agua.jpg "© Jameos del Agua.")
 
 ### 2\. Jameos del Agua (1968)
 
@@ -97,7 +97,7 @@ construir varios espacios donde el basalto, el agua y las formas se combinan
 armónicamente. En las instalaciones hay un bar, un restaurante y un auditorio donde se 
 realizan espectáculos. 
 
-![Diablo del Parque Nacional de Timanfaya.](https://fotos.etheriamagazine.com/2019/09/lanzarote-timanfaya-900x625.jpg "Parque Nacional de Timanfaya.")
+![Diablo del Parque Nacional de Timanfaya.](https://fotos.etheriamagazine.com/2019/09/lanzarote-timanfaya.jpg "Parque Nacional de Timanfaya.")
 
 ### 3\. Ruta de los volcanes y asador El Diablo (1970)
 
@@ -108,7 +108,7 @@ las entrañas de la Tierra (a casi 300ºC). Pero la experiencia no termina en el
 sino que continúa en la **Ruta de los Volcanes**, donde la naturaleza es la gran 
 protagonista. 
 
-![Mirador del Río, una visita imprescindible en la ruta de Manrique en Lanzarote](https://fotos.etheriamagazine.com/2019/09/ruta-manrique-lanzarote-mirador-rio-900x585.jpg "© Mirador del Río.")
+![Mirador del Río, una visita imprescindible en la ruta de Manrique en Lanzarote](https://fotos.etheriamagazine.com/2019/09/ruta-manrique-lanzarote-mirador-rio.jpg "© Mirador del Río.")
 
 ### 4\. Mirador del Río (1973)
 
@@ -120,7 +120,7 @@ con la colaboración del arquitecto Eduardo Cáceres y **Jesús Soto**, un desta
 artista que también cuenta con intervenciones propias tan importantes como la **Cueva 
 Verde**. 
 
-![Jardín de Cactus.](https://fotos.etheriamagazine.com/2019/09/Ruta-manrique-jardin-cactus-683x1024.jpg "© Jardín de Cactus.")
+![Jardín de Cactus.](https://fotos.etheriamagazine.com/2019/09/Ruta-manrique-jardin-cactus.jpg "© Jardín de Cactus.")
 
 ### 5\. Jardín de Cactus (1990)
 
@@ -131,7 +131,7 @@ Fíjate en el molino, en él se molía millo en el siglo XIX; y es uno de los po
 quedan en la isla. Cuenta con un bar donde tomar algo (tienen hamburguesa de cactus, 
 claro) y una tienda de recuerdos. 
 
-![Casa Museo del Campesino, una visita en la ruta Manrique](https://fotos.etheriamagazine.com/2019/09/ruta-manrique-lanzarote-monumentoCampesino-900x545.jpg "© Casa-museo del Campesino.")
+![Casa Museo del Campesino, una visita en la ruta Manrique](https://fotos.etheriamagazine.com/2019/09/ruta-manrique-lanzarote-monumentoCampesino.jpg "© Casa-museo del Campesino.")
 
 ### 6\. Casa-museo del Campesino.
 
@@ -140,14 +140,14 @@ labriegos de la isla que tanto esfuerzo realizan para obtener frutos de una tier
 difícil de cultivar. En la casa-museo se aprende sobre agricultura, artesanía, 
 gastronomía y arquitectura de la tierra. No te pierdas el **monumento a la Fecundidad**. 
 
-![Escultura a la Fecundidad en la Casa-museo del Campesino.](https://fotos.etheriamagazine.com/2019/09/ruta-manrique-lanzarote-escultura-fertilidad-900x600.jpg "Escultura a la Fecundidad en la Casa-museo del Campesino.")
+![Escultura a la Fecundidad en la Casa-museo del Campesino.](https://fotos.etheriamagazine.com/2019/09/ruta-manrique-lanzarote-escultura-fertilidad.jpg "Escultura a la Fecundidad en la Casa-museo del Campesino.")
 
 La **cantina y el restaurante** son muy recomendables para probar la cocina local 
 elaborada con ingredientes de la isla. Y para comprar algún recuerdo, acércate al 
 mercado sostenible. Incluso tendrás la oportunidad de apuntarte a algún taller para 
 aprender a hacer mojo, queso, cestos, alfarería, etc. 
 
-![Taller de Manrique en la Casa-museo de la Haría.](https://fotos.etheriamagazine.com/2019/09/Casa-Museo-Cesar-Manrique-Haria-900x600.jpg "Taller de Manrique en la © Casa-museo de la Haría.")
+![Taller de Manrique en la Casa-museo de la Haría.](https://fotos.etheriamagazine.com/2019/09/Casa-Museo-Cesar-Manrique-Haria.jpg "Taller de Manrique en la © Casa-museo de la Haría.")
 
 ### 7\. Casa-museo César Manrique (Haría)
 
@@ -157,7 +157,7 @@ agrícola y la adaptó a las comodidades actuales. En este lugar vivió hasta 19
 Posteriormente, se abrió al público y ahora puedes conocer el espacio donde vivió y 
 trabajó durante sus últimos años. 
 
-![Casa-Museo César Manrique en Haría.](https://fotos.etheriamagazine.com/2019/09/lanzarote-Casa-Museo-Cesar-Manrique-Haria-900x599.jpg "© Casa-Museo César Manrique en Haría.")
+![Casa-Museo César Manrique en Haría.](https://fotos.etheriamagazine.com/2019/09/lanzarote-Casa-Museo-Cesar-Manrique-Haria.jpg "© Casa-Museo César Manrique en Haría.")
 
 **En otras islas** también dejó su huella: en Tenerife, en la Costa Martiánez (Puerto de 
 la Cruz); en La Gomera, en el mirador de El Palmarejo; y en El Hierro, en el mirador de 

@@ -15,7 +15,7 @@ monumentos históricos que son un referente como el Castillo de Javier y el Mona
 Leyre, además de otros sitios secretos que te desvelaremos en el artículo. Esta es, sin 
 duda, una ruta perfecta para los amantes de la historia y la cultura. 
 
-![Vistas desde Gallipienzo.](https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo-850x625.jpg "Vistas desde Gallipienzo. © Pepa G./ Etheria Magazine")
+![Vistas desde Gallipienzo.](https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo.jpg "Vistas desde Gallipienzo. © Pepa G./ Etheria Magazine")
 
 Navarra es naturaleza y gastronomía, en mayúsculas, pero también historia y cultura, 
 aunque a veces queden ocultas en los recodos menos transitados del camino. En una 

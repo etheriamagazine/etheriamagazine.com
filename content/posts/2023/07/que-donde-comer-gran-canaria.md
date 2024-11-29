@@ -205,7 +205,7 @@ grancanaria más inesperada.
 
 Más información en [Turismo de Gran Canaria](http://www.grancanaria.com/turismo). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Senderismo y baños de bosque en Gran 
 Canaria](https://etheriamagazine.com/2018/05/03/senderismo-gran-canaria-banos-de-bosque/) 

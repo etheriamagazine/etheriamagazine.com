@@ -11,7 +11,7 @@ authors:
 
 Polifenoles. Es la palabra mágica. Estos componentes naturales de la uva son una de las armas más utilizadas en la lucha contra los temibles radicales libres. Ellos ha convertido a la viña y sus “derivados” en una de las bases más potentes del enoturismo de salud y de toda una cosmética _antiaging_ con el vino, la uva, e incluso la vid, como protagonistas. Os recomendamos diez hoteles, bodegas y spas donde disfrutar de una escapada con amigas en torno a la vinoterapia.
 
-![masaje relax vinoterapia descanso](https://fotos.etheriamagazine.com/2018/10/LA-GUARDIA-UVAS-HELADAS-1024x789.jpg "Tratamiento con uvas heladas en el hotel La Guardia.")
+![masaje relax vinoterapia descanso](https://fotos.etheriamagazine.com/2018/10/LA-GUARDIA-UVAS-HELADAS.jpg "Tratamiento con uvas heladas en el hotel La Guardia.")
 
 Escudo frente a los problemas de corazón, poderoso activo anticancerígeno, freno 
 antiarrugas… Tantos beneficios se nos prometen que puede llegar a sonarnos a la misma 
@@ -35,7 +35,7 @@ colesterol bueno y disminuye el malo, rebaja el nivel de insulina y aumenta el d
 estrógenos, entre otras propiedades benéficas para la salud (la famosa "paradoja 
 francesa" lo sacó a la luz). 
 
-![relax spa descanso viñedos viaje](https://fotos.etheriamagazine.com/2018/10/Uvas-vinoterapia-1024x683.jpg "Racimos de uva antes de la vendimia.")
+![relax spa descanso viñedos viaje](https://fotos.etheriamagazine.com/2018/10/Uvas-vinoterapia.jpg "Racimos de uva antes de la vendimia.")
 
 ## Los superpoderes de la uva
 
@@ -63,7 +63,7 @@ polifenoles previenen el envejecimiento de la piel, la hidratan y la reafirman,
 estimulan la producción de colágeno, favorecen la microcirculación y tonifican los 
 músculos. 
 
-![spa vino vinoterapia relax viaje](https://fotos.etheriamagazine.com/2018/10/Peralada-tratamiento-1024x682.jpg "Tratamiento en el hotel Peralada.")
+![spa vino vinoterapia relax viaje](https://fotos.etheriamagazine.com/2018/10/Peralada-tratamiento.jpg "Tratamiento en el hotel Peralada.")
 
 ### La cosmética del vino
 
@@ -82,7 +82,7 @@ de un momento de armonía total con el entorno. Esa sensación donde mejor va a
 conseguirse, sin duda, es en alguno de los **Hoteles del Vino**, enclavados a pie de 
 viña. Y el otoño es un momento maravilloso para descubrirlos. 
 
-![spa vinoterapia bodegas hoteles vino](https://fotos.etheriamagazine.com/2018/10/vinedos-1024x682.jpg "Los viñedos en otoño son un espectáculo de color.")
+![spa vinoterapia bodegas hoteles vino](https://fotos.etheriamagazine.com/2018/10/vinedos.jpg "Los viñedos en otoño son un espectáculo de color.")
 
 ## Top ten de hoteles con vinoterapia
 
@@ -115,7 +115,7 @@ espacio integrador de hotel, bodega y restaurante entre olivos y viñas. Situado
 paraje realmente especial, en plena Sierra del Moncalvillo, merece la pena acercarse y 
 disfrutar de este lugar al margen de las prisas. 
 
-![Vinoterapia salud relax](https://fotos.etheriamagazine.com/2018/10/FINCA-ARANDINOS-SPA-Y-VIÑEDOS-1024x683.jpg "Viñedos y exterior del Spa en la Finca Los Arandinos.")
+![Vinoterapia salud relax](https://fotos.etheriamagazine.com/2018/10/FINCA-ARANDINOS-SPA-Y-VIÑEDOS.jpg "Viñedos y exterior del Spa en la Finca Los Arandinos.")
 
 ### 3\. Hotel Villa de La Guardia (La Guardia)
 
@@ -129,7 +129,7 @@ pintxo a base de caviar de vino y foie. Me encanta que todo sea muy natural y ar
 congelan sus propias uvas para hacer masajes relajantes, elaboran sus propias pindas a 
 base de hollejos, pepitas y aceite… 
 
-![relax vinoterapia descanso relax](https://fotos.etheriamagazine.com/2018/10/LA-GUARDIA-MASAJE-EXFOLIANTE-1024x683.jpg "Masaje exfoliante en el hotel La Guardia.")
+![relax vinoterapia descanso relax](https://fotos.etheriamagazine.com/2018/10/LA-GUARDIA-MASAJE-EXFOLIANTE.jpg "Masaje exfoliante en el hotel La Guardia.")
 
 ### D.O. Ribera del Duero (Valladolid)
 
@@ -144,7 +144,7 @@ que incluye **masaje con aceite de pepita de uva** para aliviar lesiones, exfoli
 extracto de este fruto para que nuestra piel luzca libre de impurezas, envoltura en vino 
 para hidratar y jacuzzi privado a la uva negra. 
 
-![vinoterapia relax descanso viaje](https://fotos.etheriamagazine.com/2018/10/BODEGA-ARZUAGA-1024x531.jpg "Tratamientos de vinoterapia en el hotel-bodega Arzuaga.")
+![vinoterapia relax descanso viaje](https://fotos.etheriamagazine.com/2018/10/BODEGA-ARZUAGA.jpg "Tratamientos de vinoterapia en el hotel-bodega Arzuaga.")
 
 ### 5\. Hotel Spa La Vida (Aldeayuso)
 
@@ -193,7 +193,7 @@ y cuenta con su propia línea cosmética de vino. El [Peralada Wine &
 Spa](http://www.hotelperalada.com/es/wine-and-spa/) propone experiencias individuales, 
 para grupos o en pareja. 
 
-![vinoterapia terapias vino bodegas relax](https://fotos.etheriamagazine.com/2018/10/Peralada-spa-1024x683.jpg "Spa del hotel Peralada.")
+![vinoterapia terapias vino bodegas relax](https://fotos.etheriamagazine.com/2018/10/Peralada-spa.jpg "Spa del hotel Peralada.")
 
 ## Vinoterapia en la D.O. Ribeiro
 

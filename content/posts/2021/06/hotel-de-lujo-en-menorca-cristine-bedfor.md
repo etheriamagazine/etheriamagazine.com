@@ -83,7 +83,7 @@ algo en un ambiente que no puede ser más tranquilo. Y, si no puedes dejar el de
 en vacaciones, Cristine Bedfor cuenta con un pequeño **gimnasio** para no perder la 
 forma donde, además, puedes solicitar un _personal trainer_. 
 
-![hotel de lujo en Menorca](https://fotos.etheriamagazine.com/2021/06/cristine-bedfor-decoracion-detalle-683x1024.jpg "Detalle de la decoración de Cristine Bedfor.")
+![hotel de lujo en Menorca](https://fotos.etheriamagazine.com/2021/06/cristine-bedfor-decoracion-detalle.jpg "Detalle de la decoración de Cristine Bedfor.")
 
 [Cristine Bedfor Guest Houses](https://cristinebedforhotel.com/es) Precio de la 
 habitación doble para dos personas desde 139 Euros. Carrer de la Infanta, 17. Mahón 

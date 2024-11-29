@@ -114,7 +114,7 @@ ataviado con unos castizos mantones, una falda larga de volantes, una pañoleta 
 cabeza (optativo) y unos clavelillos en el pelo ( obligatorio). Todo cuenta en el 
 ritual. 
 
-![ritual alfileres verbena de san antonio](https://fotos.etheriamagazine.com/2021/06/Modistillas-y-Alfileres-verbena-san-antonio-693x1024.jpg "Cada alfiler que se pinche en tu mano corresponde a un novio. © Ayto. de Madrid")
+![ritual alfileres verbena de san antonio](https://fotos.etheriamagazine.com/2021/06/Modistillas-y-Alfileres-verbena-san-antonio.jpg "Cada alfiler que se pinche en tu mano corresponde a un novio. © Ayto. de Madrid")
 
 ##### "Los alfileres que se queden pinchados en la mano corresponden a los novios que tendrás durante los próximos 12 meses"
 

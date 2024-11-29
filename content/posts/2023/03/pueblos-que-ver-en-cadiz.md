@@ -137,8 +137,8 @@ Pericón](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-venta-perico
 3. [Dónde comer bien en Conil de la 
 Frontera.](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
 
-?**NO TE PIERDAS tampoco sus Jornadas del Atún en mayo y junio.** [Ruta del Atún Rojo de 
-Cádiz, de Conil a Tarifa por la orilla del 
+📍**NO TE PIERDAS tampoco sus Jornadas del Atún en mayo y junio.** [Ruta del Atún Rojo 
+de Cádiz, de Conil a Tarifa por la orilla del 
 mar](https://etheriamagazine.com/2018/06/12/ruta-del-atun-rojo-en-cadiz/) 
 
 ![Panorámica de Conil desde la playa de los Bateles.](https://fotos.etheriamagazine.com/2022/07/playa-bateles-conil.jpg "Vista de Conil desde la playa de Los Bateles. © Etheria Magazine")
@@ -161,7 +161,7 @@ donde te contamos qué hacer en este pueblo para descubrir su lado más auténti
 bien](https://etheriamagazine.com/2021/07/26/restaurantes-en-el-palmar-cadiz-para-comer-muy-bien/) 
 en el que encontrarás las mejores referencias gastronómicas junto a su playa. 
 
-![Vista panorámica de Vejer de la Frontera.](https://fotos.etheriamagazine.com/2020/08/vejer-panoramica-900x476.jpg "Vista panorámica de Vejer de la Frontera. © Etheria Magazine")
+![Vista panorámica de Vejer de la Frontera.](https://fotos.etheriamagazine.com/2020/08/vejer-panoramica.jpg "Vista panorámica de Vejer de la Frontera. © Etheria Magazine")
 
 ### Barbate (y Zahara de los Atunes)
 
@@ -176,7 +176,7 @@ al municipio, y las de **Caños de Meca**. Su entorno natural, con los pinares d
 Breña, son también todo un espectáculo digno de recorrerse a pie por el borde de los 
 acantilados. 
 
-![Playa de Zahara de los Atunes.](https://fotos.etheriamagazine.com/2018/06/playa-de-zahara-de-los-atunes-ruta-del-atun-1024x682.jpg "Zahara de los Atunes. © Etheria Magazine")
+![Playa de Zahara de los Atunes.](https://fotos.etheriamagazine.com/2018/06/playa-de-zahara-de-los-atunes-ruta-del-atun.jpg "Zahara de los Atunes. © Etheria Magazine")
 
 ### Tarifa
 
@@ -197,7 +197,7 @@ surf](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amigas
 (Bolonia, 
 Cádiz)](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
 
-![Ruinas de Baelo Claudia, en Tarifa, un lugar que hay que ver en Cádiz provincia](https://fotos.etheriamagazine.com/2020/06/tarifa-Baelo-Claudia-900x600.jpg "Ruinas de Baelo Claudia, en Tarifa. © Etheria Magazine")
+![Ruinas de Baelo Claudia, en Tarifa, un lugar que hay que ver en Cádiz provincia](https://fotos.etheriamagazine.com/2020/06/tarifa-Baelo-Claudia.jpg "Ruinas de Baelo Claudia, en Tarifa. © Etheria Magazine")
 
 ## Qué ver en el interior de la provincia de Cádiz
 
@@ -217,7 +217,7 @@ Lola Flores), bodegas y trabancos.
 **VISITAS IMPRESCINDIBLES EN:** [Viaje con amigas a Jerez, el arte del buen 
 vivir](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-con-amigas/). 
 
-![Interior del magnífico Palacio del Virrey Laserna, en Jerez.](https://fotos.etheriamagazine.com/2020/06/palacio-virrey-jerez-900x600.jpg "Interior del magnífico Palacio del Virrey Laserna, en Jerez. © Turismo de Jerez")
+![Interior del magnífico Palacio del Virrey Laserna, en Jerez.](https://fotos.etheriamagazine.com/2020/06/palacio-virrey-jerez.jpg "Interior del magnífico Palacio del Virrey Laserna, en Jerez. © Turismo de Jerez")
 
 ### Medina Sidonia
 

@@ -10,7 +10,7 @@ authors:
 
 A la marginación que sufren las personas con problemas de salud mental hay que sumarle el efecto de la pandemia sobre este tipo de trastornos. Pero no sólo este tipo de enfermos están entre los grupos de riesgo, las mujeres también se ven sometidas a condiciones sociales adversas. Ellas son las que asumen una mayor responsabilidad en situaciones de crisis, y también sobre las que más violencia se ha ejercido.
 
-![salud mental mujeres pandemia](https://fotos.etheriamagazine.com/2021/10/salud-mental-pandemia-mujeres-744x1024.jpg "La salud mental, una afectada invisible durante la pandemia. © Önder Örtel")
+![salud mental mujeres pandemia](https://fotos.etheriamagazine.com/2021/10/salud-mental-pandemia-mujeres.jpg "La salud mental, una afectada invisible durante la pandemia. © Önder Örtel")
 
 Quién no ha sentido miedo, quién no ha llorado durante esta pandemia, quién no se ha 
 sentido culpable de no contagiarse?” La pregunta se la hace Roberto José Sánchez 

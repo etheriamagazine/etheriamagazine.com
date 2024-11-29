@@ -17,6 +17,8 @@ Y si viajas a Innsbruck con amigas, mejor que mejor.
 
 ![Maria-Theresien Strasse, la fisonomía de Innsbruck en una sola imagen](https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg "Maria-Theresien Strasse, la fisonomía de Innsbruck en una sola imagen. © Alícia Bea")
 
+Actualizado 9/2024 
+
 Convencer a tu _troupe_ no resultará complicado: háblales de naturaleza, arte, tradición 
 y vanguardia, de paseos en bici a la vera del río Inn, de la magia de Swarovski y de 
 delicatesen que dejan muy buen sabor de boca. Plantéales, además, conocer **uno de los 
@@ -57,7 +59,7 @@ los Alpes como telón de fondo. Fíjate en las cúpulas verdes que despuntan en 
 _skyline._ Son las del **Hofburg**, el suntuoso Palacio Imperial que cobija entre sus 
 muros las estancias de la emperatriz Elisabeth, más conocida como "Sisi". 
 
-✅ **No te pierdas:** [Así es la verdadera historia de Sisi, y no es de 
+**No te pierdas:** [Así es la verdadera historia de Sisi, y no es de 
 cuento](https://etheriamagazine.com/2022/09/07/museo-sisi-de-viena/). 
 
 ![Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial](https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Hofburg.jpg "Uno de los salones barrocos más bellos de Austria está en el Palacio Imperial.")
@@ -128,9 +130,9 @@ esposa plebeya de los cotilleos de la corte. Aquí vivió en secreto su romance 
 mecenas renacentista y también reunió sus colecciones de armaduras, obras de arte y 
 retratos creando, sin pretenderlo, el "primer museo del mundo" (Schlossstrasse, 20). 
 
-?[Entradas al palacio 
+[Entradas al palacio 
 Ambras](https://www.civitatis.com/es/innsbruck/entrada-palacio-ambras/?aid=10211): desde 
-12 €. 
+14 €. 
 
 ![El castillo de Ambras es uno de los monumentos más destacados de Innsbruck](https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Ambras.jpg "El castillo de Ambras es uno de los monumentos más destacados de Innsbruck. © Alícia Bea")
 
@@ -144,8 +146,8 @@ Innsbruck finaliza disfrutando de unas panorámicas de escándalo que abarcan lo
 majestuosos picos del parque natural Kawwendel -el más grande de Austria- y la capital 
 que parece emerger entre un mar de montañas. 
 
-?[Entrada al teleférico 
-Nordkette](https://www.civitatis.com/es/innsbruck/entrada-teleferico-nordkette/). 44 €, 
+[Entrada al teleférico 
+Nordkette](https://www.civitatis.com/es/innsbruck/entrada-teleferico-nordkette/). 47 €, 
 consulta descuentos. 
 
 ![Subiendo a la cordillera Nordkette, la cima de Innsbruck](https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Nordkette.jpg "Subiendo a la cordillera Nordkette, la cima de Innsbruck. © Alícia Bea")
@@ -158,7 +160,7 @@ de las atracciones más visitadas de Austria. Y no es para menos. Recorrer este 
 de fantasía, ideado por el artista multimedia André Heller para celebrar el centenario 
 de esta conocida firma de diseño de joyas, es sorprenderte a cada paso. 
 
-?[Entrada al Museo 
+[Entrada al Museo 
 Swarovski](https://www.civitatis.com/es/innsbruck/entrada-museo-swarovski/?aid=10211), 
 desde 23 €. Consulta descuentos. 
 
@@ -213,9 +215,9 @@ Con la **Innsbruck Card**, válida para 24, 48 o 72 horas, tendrás entrada libr
 principales atracciones turísticas de la ciudad y podrás usar gratis el transporte 
 público, los funiculares y el autobús Sightseer Hop on-Hop off. 
 
-?[Aquí puedes comprar la 
+[Aquí puedes comprar la 
 tarjeta](https://www.civitatis.com/es/innsbruck/innsbruck-card/?aid=10211) que te dará 
-acceso a más de 20 monumentos y descuentos interesantes: desde 53 €. Consulta precios 
+acceso a más de 20 monumentos y descuentos interesantes: desde 59 €. Consulta precios 
 para niños, estudiantes, jubilados, etc. 
 
 Ni se te ocurra comprar agua. De las fuentes públicas mana agua cristalina de manantial 
@@ -227,7 +229,7 @@ que hace que hidratarte sea un auténtico placer.
 
 [Turismo de Austria](https://www.austria.info/es). 
 
-✅ **Sigue leyendo sobre Austria** 
+**También en Etheria Magazine** 
 
 1.[Burgenland, el estado más desconocido y soleado de 
 Austria](https://etheriamagazine.com/2022/08/01/que-ver-burgenland-austria/). 

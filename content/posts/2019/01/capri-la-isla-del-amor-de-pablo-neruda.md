@@ -14,7 +14,7 @@ poemarios más famosos: 'Los versos del capitán'. Os invitamos a viajar solas o
 amigas a esta isla mediterránea recordando su apasionada (y clandestina) historia de 
 amor con Matilde Urrutia. 
 
-![Marina Pequeña de Capri.](https://fotos.etheriamagazine.com/2019/01/viaje-capri-900x675.jpg "Marina Pequeña de Capri. © Martyna Bober")
+![Marina Pequeña de Capri.](https://fotos.etheriamagazine.com/2019/01/viaje-capri.jpg "Marina Pequeña de Capri. © Martyna Bober")
 
 **Actualizado en 2024** 
 
@@ -31,7 +31,7 @@ detenido y deportado, pues ésa era la intención del Gobierno de Roma, presiona
 grupos conservadores que no querían en su territorio a un hombre de ideas comunistas, 
 por muy sabio que éste fuera. 
 
-![Matilde Urrutia y Pablo Neruda en Capri.](https://fotos.etheriamagazine.com/2019/01/matilde-urrutia-amor-neruda-capri-1024x619.jpg "Matilde Urrutia y Pablo Neruda en Capri. © Archivo Fundación Pablo Neruda")
+![Matilde Urrutia y Pablo Neruda en Capri.](https://fotos.etheriamagazine.com/2019/01/matilde-urrutia-amor-neruda-capri.jpg "Matilde Urrutia y Pablo Neruda en Capri. © Archivo Fundación Pablo Neruda")
 
 ## Neruda en Capri con Matilde Urrutia
 
@@ -54,7 +54,7 @@ Así que, cuando el poeta-capitán terminó sus versos tórridos y encendidos de
 dispuso a publicarlos, pero lo hizo como “Anónimo” porque no quería ofender a su esposa 
 legítima, la pintora argentina Delia del Carril. 
 
-![Farallones de Capri.](https://fotos.etheriamagazine.com/2019/01/neruda-capri-1024x576.jpg "Farallones de Capri.")
+![Farallones de Capri.](https://fotos.etheriamagazine.com/2019/01/neruda-capri.jpg "Farallones de Capri.")
 
 El poemario, dividido en siete partes, se publicó pronto, el 8 de julio de 1952, y se 
 editaron sólo 44 ejemplares que salieron de la imprenta Arte Tipográfico de Nápoles, con 
@@ -65,7 +65,7 @@ que había escrito para ella un ex combatiente republicano de la Guerra Civil es
 Evidentemente, aquella carta preliminar fue un invento más de Neruda para no molestar a 
 su todavía esposa. 
 
-![La pareja en Capri.](https://fotos.etheriamagazine.com/2019/01/Neruda-matilde-urrutia-capri-1024x759.jpg "La pareja en Capri. © Archivo Fundación Neruda.")
+![La pareja en Capri.](https://fotos.etheriamagazine.com/2019/01/Neruda-matilde-urrutia-capri.jpg "La pareja en Capri. © Archivo Fundación Neruda.")
 
 ## Un poemario sin firma
 
@@ -83,7 +83,7 @@ pasar 10 años hasta que Neruda reconoció finalmente la autoría de aquellos ve
 > que ató mis manos en los años sonoros, fue para mí durante 18 años una ejemplar 
 > compañera”, dejó escrito Pablo Neruda. 
 
-![Jardines de Augusto, en Capri.](https://fotos.etheriamagazine.com/2019/01/neruda-capri-5-1024x682.jpg "Jardines de Augusto, en Capri. © Gary Along")
+![Jardines de Augusto, en Capri.](https://fotos.etheriamagazine.com/2019/01/neruda-capri-5.jpg "Jardines de Augusto, en Capri. © Gary Along")
 
 ## Capri era tan bella como hoy
 

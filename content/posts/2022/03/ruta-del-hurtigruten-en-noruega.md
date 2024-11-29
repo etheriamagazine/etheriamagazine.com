@@ -114,7 +114,7 @@ Seguirá la escala en **Tromsø**, ciudad que fue el punto base de numerosas exp
 polares. Allí tendrás la oportunidad de hacer una excursión con **trineos tirados por 
 perros** para gozar del paisaje de las mesetas nevadas. 
 
-![pescador de bacalao de las islas lofoten](https://fotos.etheriamagazine.com/2022/02/Bacalao-en-las-Islas-Lofoten-714x1024.jpg "Pescador con un bacalao en las islas Lofoten. © Pedro Grifol")
+![pescador de bacalao de las islas lofoten](https://fotos.etheriamagazine.com/2022/02/Bacalao-en-las-Islas-Lofoten.jpg "Pescador con un bacalao en las islas Lofoten. © Pedro Grifol")
 
 ### Pesca del cangrejo real en Kirkenes
 
@@ -166,7 +166,7 @@ Manual (no auto). Apertura: Lo más bajo posible. No flash.
 ✅ Y lo más importante: Antes de ver las auroras boreales a través del objetivo de la 
 cámara, vive la experiencia de contemplar su belleza con los ojos y el corazón. 
 
-![Mujer junto a la Catedral de Nidaros, en Trondheim.](https://fotos.etheriamagazine.com/2022/02/mujer-Trondheim-690x1024.jpg "Mujer junto a la Catedral de Nidaros, en Trondheim. © Pedro Grifol")
+![Mujer junto a la Catedral de Nidaros, en Trondheim.](https://fotos.etheriamagazine.com/2022/02/mujer-Trondheim.jpg "Mujer junto a la Catedral de Nidaros, en Trondheim. © Pedro Grifol")
 
 ### ¿Se puede hacer el viaje de Hurtigruten todo el año?
 

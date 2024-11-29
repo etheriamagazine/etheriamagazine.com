@@ -17,7 +17,7 @@ con cine de autor e independiente regada por buen vino y final con forma de espi
 la ciudad del Pisuerga ya lo tienen todo preparado para ser la capital de los cinéfilos 
 y aquí te detallamos el guión para no perderte nada de la Seminci 2019. 
 
-![El Teatro Calderón es la sede principal de la © Seminci de Valladolid.](https://fotos.etheriamagazine.com/2019/10/valladolid-teatro-calderon-seminci-900x606.jpg "El Teatro Calderón es la sede principal de la © Seminci de Valladolid.")
+![El Teatro Calderón es la sede principal de la © Seminci de Valladolid.](https://fotos.etheriamagazine.com/2019/10/valladolid-teatro-calderon-seminci.jpg "El Teatro Calderón es la sede principal de la © Seminci de Valladolid.")
 
 ¿Qué tienen en común _Thelma & Louise_ y _La Naranja Mecánica_? Que en algún momento de 
 la historia pasaron por la Seminci. Porque este festival del Séptimo Arte lleva mucho 
@@ -28,7 +28,7 @@ películas que vas a oír hablar en los próximos meses y seguramente años. Ade
 hacer una escapada de película con vinos y gastronomía top: ¡pocos festivales dan tanto 
 de sí! 
 
-![© 'Adam', de Maryam Touzani, es una de las películas dirigidas por mujeres que participan en la Sección Oficial.](https://fotos.etheriamagazine.com/2019/10/adam-seminci-valladolid-900x506.jpg "© 'Adam', de Maryam Touzani, es una de las películas dirigidas por mujeres que participan en la Sección Oficial.")
+![© 'Adam', de Maryam Touzani, es una de las películas dirigidas por mujeres que participan en la Sección Oficial.](https://fotos.etheriamagazine.com/2019/10/adam-seminci-valladolid.jpg "© 'Adam', de Maryam Touzani, es una de las películas dirigidas por mujeres que participan en la Sección Oficial.")
 
 ## Nuevas directoras de cine
 
@@ -52,7 +52,7 @@ perdonas una buena peli sin una copa en la mano, tu sección es **Cine y Vino**.
 hay espacio para los documentales y los cortos, la semana de la Seminci son siete días 
 de cine para todos los gustos y formatos. 
 
-![Plaza de Zorrilla. Aprovecha tu viaje para conocer Valladolid.](https://fotos.etheriamagazine.com/2019/10/valladolid-Plaza-Zorilla-900x586.jpg "Plaza de Zorrilla. Aprovecha tu viaje para conocer Valladolid. ©M.G.")
+![Plaza de Zorrilla. Aprovecha tu viaje para conocer Valladolid.](https://fotos.etheriamagazine.com/2019/10/valladolid-Plaza-Zorilla.jpg "Plaza de Zorrilla. Aprovecha tu viaje para conocer Valladolid. ©M.G.")
 
 ## Dónde ver las películas de la Seminci
 
@@ -67,7 +67,7 @@ disfrutar de la Seminci y de sus actividades paralelas son el **auditorio Miguel
 Delibes** (avenida Nuestra Señora del Prado, 2) o el **LAVA** –Laboratorio de las Artes 
 de Valladolid– (paseo Zorrilla, 101). 
 
-![Teatros Carrión y Zorrilla, subsedes de la Seminci. (Valladolid).](https://fotos.etheriamagazine.com/2019/10/valladolid-Teatro-Carrion-teatro-zorrilla-900x620.jpg "Teatros Carrión y Zorrilla, subsedes de la Seminci. (Valladolid). © M.G.")
+![Teatros Carrión y Zorrilla, subsedes de la Seminci. (Valladolid).](https://fotos.etheriamagazine.com/2019/10/valladolid-Teatro-Carrion-teatro-zorrilla.jpg "Teatros Carrión y Zorrilla, subsedes de la Seminci. (Valladolid). © M.G.")
 
 Te recomendamos que estés muy atenta a la web de la Seminci para comprar los abonos –con 
 precios que varían según el número de películas que quieras ver o de los horarios que 
@@ -78,7 +78,7 @@ las taquillas de las distintas salas. ¡No seas de dejarlo para última hora! Se
 con facilidad y es fácil que te quedes con las ganas si no has comprado la entrada con 
 un poco de antelación. 
 
-![Un descanso entre proyecciones de la Seminci.](https://fotos.etheriamagazine.com/2019/10/valladolid-seminci-teatro-calderon-900x557.jpg "Un descanso entre proyecciones de la © Seminci.")
+![Un descanso entre proyecciones de la Seminci.](https://fotos.etheriamagazine.com/2019/10/valladolid-seminci-teatro-calderon.jpg "Un descanso entre proyecciones de la © Seminci.")
 
 ## Restaurantes donde comer y tomar una copa
 
@@ -91,7 +91,7 @@ de la Torre, 4). Hay quien dice que es un pecado capital irse de Valladolid sin 
 por el **restaurante Jero** (calle Correos, 11), su cocina en miniatura en forma de 
 pinchos es un imprescindible. 
 
-![Restaurante La Pera Limonera.](https://fotos.etheriamagazine.com/2019/09/Valladolid-La-Pera-Limonera-900x604.jpg "Restaurante La Pera Limonera. ©M.G.")
+![Restaurante La Pera Limonera.](https://fotos.etheriamagazine.com/2019/09/Valladolid-La-Pera-Limonera.jpg "Restaurante La Pera Limonera. ©M.G.")
 
 Entre peli y peli hay tiempo de sobra para dejarse tentar por uno de las **estrellas de 
 la gastronomía pucelana:** el lechazo. En forma de pincho en El Claustro (calle 
@@ -114,7 +114,7 @@ ese ambiente cultureta de los cafés de tertulia. Lo mismo en el Café del Norte
 Mayor, 11). Para copas más bailadas, lo ideal es ir a la zona de San Miguel o la de Coca 
 para probar a ver qué bar –de los tantos que hay– nos gusta más para cerrar la noche. 
 
-![Café bar El Minuto y Café del Norte.](https://fotos.etheriamagazine.com/2019/09/valladolid-cafe-del-norte-el-minuto-900x335.jpg "Café bar El Minuto y Café del Norte. © M.G.")
+![Café bar El Minuto y Café del Norte.](https://fotos.etheriamagazine.com/2019/09/valladolid-cafe-del-norte-el-minuto.jpg "Café bar El Minuto y Café del Norte. © M.G.")
 
 ## Hoteles donde dormir de cine en Valladolid
 
@@ -123,7 +123,7 @@ La mayoría de los hoteles están situados en el centro, por lo que son ideales 
 olvidarse del coche mientras estés en Valladolid. Eso sí, suelen ser de tamaño 
 _boutique_, por lo que ¡no dejes la reserva del alojamiento para el último momento! 
 
-![Hotel Meliá Recoletos (Valladolid).](https://fotos.etheriamagazine.com/2019/09/valladolid-hotel-Melia-Recoletos-900x675.jpg "Hotel Meliá Recoletos (Valladolid). © M.G.")
+![Hotel Meliá Recoletos (Valladolid).](https://fotos.etheriamagazine.com/2019/09/valladolid-hotel-Melia-Recoletos.jpg "Hotel Meliá Recoletos (Valladolid). © M.G.")
 
 Zenit El Coloquio es un hotel muy coqueto en la plaza de la Universidad, para estar en 
 todo el meollo. El Meliá Recoletos (calle Acera Recoletos, 13) te queda a un paso del 

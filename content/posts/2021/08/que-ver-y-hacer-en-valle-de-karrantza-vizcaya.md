@@ -37,7 +37,7 @@ tres aguas para favorecer la existencia de amplias balconadas en la fachada. Goz
 las mejores vistas del anfiteatro de montañas y verdor que cierra el valle donde 
 comprobamos que esto es el auténtico turismo rural. 
 
-![cueva pozalagua en valle de karrantza](https://fotos.etheriamagazine.com/2021/08/cueva-pozalagua-vizcaya-683x1024.jpg "Espectaculares formaciones en la cueva de Pozalagua.")
+![cueva pozalagua en valle de karrantza](https://fotos.etheriamagazine.com/2021/08/cueva-pozalagua-vizcaya.jpg "Espectaculares formaciones en la cueva de Pozalagua.")
 
 ## Cueva de Pozalagua, una puerta a Versalles
 
@@ -51,7 +51,7 @@ longitud y una bóveda que alcanza 17 metros de altura. Esta sala, por su vistos
 geológica de estalactitas y estalagmitas, se denominó Sala Versalles. Buen comienzo para 
 una aventura familiar por el valle de Karrantza. 
 
-![dolomias fuera de la cueva pozalagua](https://fotos.etheriamagazine.com/2021/08/dolomita-valle-karrantza-683x1024.jpg "Bonito entorno en el exterior de la cueva de Pozalagua.")
+![dolomias fuera de la cueva pozalagua](https://fotos.etheriamagazine.com/2021/08/dolomita-valle-karrantza.jpg "Bonito entorno en el exterior de la cueva de Pozalagua.")
 
 ## Experiencias en la cueva y su entorno
 
@@ -109,7 +109,7 @@ valle de Karrantza como desde Trucios-Turtzioz, también dentro del parque y sep
 por un cordal montañoso donde destaca en el macizo de **Los Jorrios** con sus quebrados 
 relieves, y el pico más sobresaliente, el **monte Armañón**. 
 
-![karpin fauna zoo en palacio indianos](https://fotos.etheriamagazine.com/2021/08/karpin-fauna-691x1024.jpg "Karpin Fauna, centro de recuperación de animales en un palacio de indianos.")
+![karpin fauna zoo en palacio indianos](https://fotos.etheriamagazine.com/2021/08/karpin-fauna.jpg "Karpin Fauna, centro de recuperación de animales en un palacio de indianos.")
 
 ## Linces y panteras en el valle de Karrantza
 
@@ -138,7 +138,7 @@ Chavarri de la Herrera**. Con la fortuna que hizo en Puerto Rico favoreció que 
 de ferrocarril Bilbao-Santander pasara por el valle e incluso levantó una segunda 
 iglesia de San Andrés en el barrio de Biáñez. 
 
-![frescos en la iglesia de san andres](https://fotos.etheriamagazine.com/2021/08/retablo-iglesia-san-andres-683x1024.jpg "Pinturas de finales del siglo XV en la iglesia de San Andrés.")
+![frescos en la iglesia de san andres](https://fotos.etheriamagazine.com/2021/08/retablo-iglesia-san-andres.jpg "Pinturas de finales del siglo XV en la iglesia de San Andrés.")
 
 ## Frescos en un panteón
 
@@ -158,7 +158,7 @@ el esfuerzo económico que los vecinos hicieron por su iglesia. Es recomendable 
 visita guiada a la vieja iglesia que te asomará, a su vez, a un museo sobre la historia 
 y valores naturales del valle. 
 
-![rutas por el valle de karrantza](https://fotos.etheriamagazine.com/2021/08/sendas-valle-karrantza-683x1024.jpg "Las rutas naturales son otro de los atractivos de la zona.")
+![rutas por el valle de karrantza](https://fotos.etheriamagazine.com/2021/08/sendas-valle-karrantza.jpg "Las rutas naturales son otro de los atractivos de la zona.")
 
 ## Sendas por el mar
 

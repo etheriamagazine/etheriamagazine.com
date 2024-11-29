@@ -12,7 +12,7 @@ authors:
 
 Érase una vez una joven nacida en Málaga que cambió su carrera de bailarina por la de princesa al casarse con el maharajá de Kapurthala, pero, al contrario de lo que ocurre en los cuentos, no vivieron felices ni comieron perdices para siempre... Os contamos la vida de la princesa india Anita Delgado, cuya biografía ha sido narrada en libros y películas.
 
-![Retrato de Anita Delgado.](https://fotos.etheriamagazine.com/2020/04/anita-delgado-retrato-900x680.jpg "Retrato de Anita Delgado. © Dominio público / Library of Congress, Washington")
+![Retrato de Anita Delgado.](https://fotos.etheriamagazine.com/2020/04/anita-delgado-retrato.jpg "Retrato de Anita Delgado. © Dominio público / Library of Congress, Washington")
 
 La vida de Anita Delgado, una joven malagueña de clase media que se convirtió en 
 princesa al casarse con un maharajá indio, no corresponde a ningún cuento de hadas ni a 
@@ -48,7 +48,7 @@ ahogos económicos al mando del Café La Castaña, donde la pequeña Anita habí
 su primeras dotes para el baile. Pero, finalmente, los padres de Anita declinaron el 
 ofrecimiento del príncipe. 
 
-![Imagen del libro 'Impressions de mes voyages aux Indes' (1915).](https://fotos.etheriamagazine.com/2020/04/anita-delgado-900x541.jpg "Imagen del libro 'Impressions de mes voyages aux Indes' (1915).")
+![Imagen del libro 'Impressions de mes voyages aux Indes' (1915).](https://fotos.etheriamagazine.com/2020/04/anita-delgado.jpg "Imagen del libro 'Impressions de mes voyages aux Indes' (1915).")
 
 ## La carta que redactó Valle-Inclán
 
@@ -64,7 +64,7 @@ natural, ninguna formación de princesa. Así que le tuvieron que poner institut
 refinar su educación y le enseñaron a vestirse y a peinarse. También aprendió idiomas a 
 marchas forzadas y con éxito. 
 
-![manos pintadas con henna](https://fotos.etheriamagazine.com/2020/04/boda-india-900x603.jpg "Anita se casó por el rito sij, con un sari de color grosella. © Marcus Lewis")
+![manos pintadas con henna](https://fotos.etheriamagazine.com/2020/04/boda-india.jpg "Anita se casó por el rito sij, con un sari de color grosella. © Marcus Lewis")
 
 ## 500 criados y 12 mansiones
 
@@ -117,7 +117,7 @@ le afectó profundamente. Y es que fue generoso con ella hasta el final de sus d
 su acuerdo de separación había incluido una cuantiosa pensión, la nacionalidad india y 
 su estatus de maharaní. 
 
-![Plaza de Cibeles de Madrid en los años 50.](https://fotos.etheriamagazine.com/2020/04/Plaza-de-Cibeles-madrid-anos-cincuenta-900x579.jpg "Plaza de Cibeles de Madrid en los años 50. © CC")
+![Plaza de Cibeles de Madrid en los años 50.](https://fotos.etheriamagazine.com/2020/04/Plaza-de-Cibeles-madrid-anos-cincuenta.jpg "Plaza de Cibeles de Madrid en los años 50. © CC")
 
 La biografía de Anita Delgado también está llena de lagunas y versiones contradictorias. 
 Hay quien dice que el motivo de su separación fue el descubrimiento de una nueva 

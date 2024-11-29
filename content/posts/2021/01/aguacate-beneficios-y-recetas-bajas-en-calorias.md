@@ -82,7 +82,7 @@ aguacate al día no te hará subir de peso si controlas no pasarte de una ingest
 de calorías (unas 2.200 en el caso de una mujer adulta, de entre 18 y 30 años, con una 
 actividad física media). 
 
-![desayuno saludable con aguacate](https://fotos.etheriamagazine.com/2021/01/tostadas-saludables-aguacate-742x1024.jpg "Desayuno saludable. © Luisa Brimble")
+![desayuno saludable con aguacate](https://fotos.etheriamagazine.com/2021/01/tostadas-saludables-aguacate.jpg "Desayuno saludable. © Luisa Brimble")
 
 ## Recetas con aguacate, ricas y bajas en calorías
 
@@ -99,7 +99,7 @@ aguacates no están en su punto, no los metas en el frigorífico porque se corta
 proceso de maduración, déjalos unos días en un lugar cálido (a 15-20 ºC) y mejor a 
 oscuras. 
 
-![tostada de aguacate y huevo frito](https://fotos.etheriamagazine.com/2021/01/tostada-aguacate-huevo-801x1024.jpg "Tosta de aguacate y huevo frito. © Alison Marras")
+![tostada de aguacate y huevo frito](https://fotos.etheriamagazine.com/2021/01/tostada-aguacate-huevo.jpg "Tosta de aguacate y huevo frito. © Alison Marras")
 
 ### Tostadas con aguacate, un desayuno ligero y completo
 

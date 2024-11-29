@@ -70,7 +70,7 @@ entran y salen de los pequeños monasterios que la rodean y, también, se toman 
 los cafés. Las cafeterías y bares circundantes suelen tener terrazas que se convierten 
 en maravillosos miradores de todo el conjunto. 
 
-![bhaktapur viaje mujeres a nepal](https://fotos.etheriamagazine.com/2018/11/Bhaktapur-viaje-mujeres-ninos-1024x684.jpg "Una madre y su hijo asisten con sus mejores galas a un ritual en Bhaktapur. ©P.G.")
+![bhaktapur viaje mujeres a nepal](https://fotos.etheriamagazine.com/2018/11/Bhaktapur-viaje-mujeres-ninos.jpg "Una madre y su hijo asisten con sus mejores galas a un ritual en Bhaktapur. ©P.G.")
 
 ## Bhaktapur, ciudad de rituales
 
@@ -113,7 +113,7 @@ por los hindúes. Sin embargo, sí está permitida la asistencia a las cremacion
 realizan a lo largo de este afluente del Ganges. Desde unas concurridas escalinatas, 
 situadas frente al ghat de las cremaciones, se puede observar todo el proceso. 
 
-![Rito funerario en Pashupatinath, la'Ciudad de los muertos'](https://fotos.etheriamagazine.com/2018/11/Pashupatinath-1024x684.jpg "Rito funerario en Pashupatinath, la 'Ciudad de los muertos'. ©P.G.")
+![Rito funerario en Pashupatinath, la'Ciudad de los muertos'](https://fotos.etheriamagazine.com/2018/11/Pashupatinath.jpg "Rito funerario en Pashupatinath, la 'Ciudad de los muertos'. ©P.G.")
 
 ### Un viaje hacia la muerte
 
@@ -180,7 +180,7 @@ cinco estrellas es uno de los mejores hoteles de la ciudad. Dispone de piscina y
 Himalaya Nagarkot](http://www.clubhimalaya.com/). Situado a poca distancia de Bhaktapur 
 y con unas vistas excelentes del Himalaya. 
 
-? [Recomendaciones del Ministerio de Asuntos 
+📌 [Recomendaciones del Ministerio de Asuntos 
 Exteriores](http://www.exteriores.gob.es/Portal/es/ServiciosAlCiudadano/SiViajasAlExtranjero/Paginas/DetalleRecomendacion.aspx?IdP=132). 
 
 ### También te puede interesar....

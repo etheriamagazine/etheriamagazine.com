@@ -64,7 +64,7 @@ por la mitad (milagrosamente no pudieron). También hay una pintura que muestra 
 pasiega, la única persona que muere en los murales (pregunta a tu guía por qué), y el 
 archivo documental de la Merindad. 
 
-? ¿Dónde? Ojo Guareña (Merindad de Sotoscueva), reserva en su web. 
+📍 ¿Dónde? Ojo Guareña (Merindad de Sotoscueva), reserva en su web. 
 
 ![Sima Dolencias, en la cueva Palomera. Visita obligada en la ruta del Burgos subterráneo.](https://fotos.etheriamagazine.com/2022/06/cueva-palomera-sima-dolencia.jpg "Sima Dolencias, en la cueva Palomera. © Pepa García")
 
@@ -92,7 +92,7 @@ Para tomar nota: No se permite la entrada a menores de 12 años, entre 12 y 16 s
 acompañado de un adulto y hasta los 18 se precisa autorización paterna. Tampoco es 
 aconsejable para embarazadas, claustrofóbicos o personas con problemas de movilidad. 
 
-? ¿Dónde? Ojo Guareña (Merindad de Sotoscueva). Reserva en la web de Cueva Palomera. 
+📍 ¿Dónde? Ojo Guareña (Merindad de Sotoscueva). Reserva en la web de Cueva Palomera. 
 
 ![Visitantes en el interior de la cueva de Fuentemolinos](https://fotos.etheriamagazine.com/2022/06/cueva-fuentemolinos.jpg "Recorrido por el interior de la cueva de Fuentemolinos.")
 
@@ -122,7 +122,7 @@ subir a los otros dos. ¿Qué veras durante la actividad? Cascadas, ríos subter
 gours, coladas, excéntricas y numerosos estalactitas y estalagmitas. ¿Te animas a ser 
 espeleóloga por un día? 
 
-? ¿Dónde? Puras de Villafranca (Belorado). Reserva en la [web](http://beloaventura.org/) 
+📍 ¿Dónde? Puras de Villafranca (Belorado). Reserva en la [web](http://beloaventura.org/) 
 de Beloaventura. 
 
 ### 3\. Complejo minero de Puras de Villafranca
@@ -147,7 +147,7 @@ disfrutar del entorno de la Sierra de la Demanda. La mina está rodeada de bonit
 bosques, riachuelos e incluso alguna necrópolis. Si vas en verano, es un lugar ideal 
 para hacer un pícnic. 
 
-?¿Dónde? Puras de Villafranca (Belorado). Reserva en la web de Beloaventura. 
+📍¿Dónde? Puras de Villafranca (Belorado). Reserva en la web de Beloaventura. 
 
 ![Interior de la Mina Esperanza, ruta de Burgos subterráneo.](https://fotos.etheriamagazine.com/2022/06/mina-esperanza-atapuerca.jpg "Mina Esperanza, en Olmos de Atapuerca. © Pepa García")
 
@@ -180,7 +180,7 @@ Por último, un espacio que te sorprenderá es la Gran Caverna, la sala de distr
 la mina, donde se ha situado un interesante Museo de los Minerales. El único de esta 
 tipología en Europa ubicado “dentro de un mineral”, una montaña de hierro. 
 
-? ¿Dónde? Olmos de Atapuerca. Reservas en la web de Mina Esperanza. 
+📍 ¿Dónde? Olmos de Atapuerca. Reservas en la web de Mina Esperanza. 
 
 ![Interior de la cantera de Burgos](https://fotos.etheriamagazine.com/2022/06/canteras-burgos-subterraneo.jpg "De esta galería salió la piedra para construir la Catedral de Burgos. © P.G.")
 
@@ -206,11 +206,11 @@ demandado para eventos y conciertos.
 A pocos minutos en coche de esta cantera se sitúa la de El Pozo, que se ha mantenido tal 
 cual estaba cuando era explotada y donde incluso podrás emular a los canteros y tratar 
 de picar roca (no es fácil). Si te apetece conocer más detalles, sigue leyendo este 
-artículo donde te contamos todo lo necesario para hacer la visita: ? [“Canteras de 
+artículo donde te contamos todo lo necesario para hacer la visita: 📍 [“Canteras de 
 Hontoria, Cubillo y Tornadijo, una visita a los orígenes de la Catedral de 
 Burgos”](https://etheriamagazine.com/2021/08/30/visita-las-canteras-de-hontoria-cubillo-y-la-catedral-de-burgos/). 
 
-?¿Dónde? Tornadijo, Cubillo del Campo y Hontoria de la Cantera. Reservas en la Web de 
+📍¿Dónde? Tornadijo, Cubillo del Campo y Hontoria de la Cantera. Reservas en la Web de 
 Patrimonio de la Luz. 
 
 ### Más información de Burgos

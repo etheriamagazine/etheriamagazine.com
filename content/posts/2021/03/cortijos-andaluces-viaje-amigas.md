@@ -143,7 +143,7 @@ andaluzas.
 
 **Más información en hotelcortijobravo.com** 
 
-![Cortijo Santa Clara, en Carmona (Sevilla).](https://fotos.etheriamagazine.com/2021/03/cortijo-santa-clara-entrada-1024x683-1-900x600.jpg "© Cortijo Santa Clara, en Carmona (Sevilla).")
+![Cortijo Santa Clara, en Carmona (Sevilla).](https://fotos.etheriamagazine.com/2021/03/cortijo-santa-clara-entrada-1024x683-1.jpg "© Cortijo Santa Clara, en Carmona (Sevilla).")
 
 ## Cortijo Santa Clara (Carmona, Sevilla)
 

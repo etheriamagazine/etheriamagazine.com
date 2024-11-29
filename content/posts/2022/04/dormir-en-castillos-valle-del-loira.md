@@ -54,7 +54,7 @@ Algunas excursiones que puedes realizar en los alrededores son al precioso puebl
 Charte-sur-le-Loir, donde te va a costar salir de sus tiendas de decoración y 
 antigüedades, y al bosque de Bercé, perfecto para un paseo en bicicleta. 
 
-? [Castillo de Grand-Lucé](https://chateaugrandluce.com/). 
+📍 [Castillo de Grand-Lucé](https://chateaugrandluce.com/). 
 
 ## 2\. El castillo de la Flocellière
 
@@ -79,7 +79,7 @@ Una de las ventajas de este hotel es su ubicación, a tan solo ocho kilómetros 
 temático de la historia [Puy du Fou](https://www.puydufou.com/france/es). También esta 
 cerca de la maravillosa ciudad de Nantes. 
 
-? [Castillo de Flocellière](https://www.chateaudelaflocelliere.com/). 
+📍 [Castillo de Flocellière](https://www.chateaudelaflocelliere.com/). 
 
 ## 3\. El castillo de Craon
 
@@ -108,7 +108,7 @@ du chateau de Craon (para 15 personas), La Orangerie (para 15 personas) o Le Fou
 Este castillo es una sede perfecta para recorrer los alrededores y descubrir ciudades 
 tan interesantes como Angers, Rennes o Nantes. 
 
-? [Castillo de Craon](https://chateaudecraon.fr/). 
+📍 [Castillo de Craon](https://chateaudecraon.fr/). 
 
 ## 4\. El castillo de Noirieux
 
@@ -136,7 +136,7 @@ al entorno natural, perfectos para desconectar.
 Este castillo se encuentra a tan solo 20 kilómetros de Angers, por lo que es perfecto 
 para visitar esta ciudad y sus alrededores. 
 
-? [Castillo de Noirieux](https://www.chateaudenoirieux.com/fr/). 
+📍 [Castillo de Noirieux](https://www.chateaudenoirieux.com/fr/). 
 
 ### También te puede interesar:
 

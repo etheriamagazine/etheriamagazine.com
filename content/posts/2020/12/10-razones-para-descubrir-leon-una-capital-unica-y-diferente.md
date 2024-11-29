@@ -11,7 +11,7 @@ authors:
 
 Sentirse como Indiana Jones en busca del Santo Grial, adentrarse en la _Pulchra Leonina_, contemplar la obra más sorprendente de Gaudí o tomarse un vino leonés con un peregrino. Te damos diez motivos por los que León es una ciudad única (y tan adictiva como sus tapas). 
 
-![catedral de leon capital](https://fotos.etheriamagazine.com/2020/12/catedral-leon-869x1024.jpg "Catedral de León. © Kelu Robles")
+![catedral de leon capital](https://fotos.etheriamagazine.com/2020/12/catedral-leon.jpg "Catedral de León. © Kelu Robles")
 
 ## 1\. La belleza hipnotizante de la catedral de León
 
@@ -129,7 +129,7 @@ Magia](https://festivalvivelamagia.es/), este año con especiales medidas de seg
 Durante esos días, cualquier cosa es posible en las calles de León y la ilusión de los 
 más pequeños se convierte en lo más importante. 
 
-![parador de leon](https://fotos.etheriamagazine.com/2020/12/parador-leon-renovado-683x1024.jpg "Interior del recién renovado Parador de León. © Paradores")
+![parador de leon](https://fotos.etheriamagazine.com/2020/12/parador-leon-renovado.jpg "Interior del recién renovado Parador de León. © Paradores")
 
 ## 8\. Dormir como un peregrino de lujo
 

@@ -40,7 +40,7 @@ ballenas. Os damos más información en nuestro reportaje [Bazaruto, el archipi�
 Mozambique que te 
 enamorará](https://etheriamagazine.com/2019/08/21/que-ver-hacer-en-archipielago-de-bazaruto-mozambique/). 
 
-![Swayambhunath o templo de los Monos, en Katmandú.](https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Katmandu-nepal-900x591.jpg "Swayambhunath o templo de los Monos, en Katmandú. ©P.G.")
+![Swayambhunath o templo de los Monos, en Katmandú.](https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Katmandu-nepal.jpg "Swayambhunath o templo de los Monos, en Katmandú. ©P.G.")
 
 ## Nepal, un viaje de novios original
 
@@ -91,7 +91,7 @@ No os perdáis el artículo [Crucero por los fiordos y canales de la Patagonia
 chilena](https://etheriamagazine.com/2019/03/22/viajar-sola-crucero-fiordos-canales-patagonia-chile/) 
 para ver alguna de las paradas imprescindibles. 
 
-![Catarata de Gullfoss en islandia destino para viajes de novios originales](https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-gullfoss-catarata-islandia-731x1024.jpg "Catarata de Gullfoss, en Islandia. © Khamkéo Vilaysing")
+![Catarata de Gullfoss en islandia destino para viajes de novios originales](https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-gullfoss-catarata-islandia.jpg "Catarata de Gullfoss, en Islandia. © Khamkéo Vilaysing")
 
 ## Islandia entre arrumacos
 
@@ -104,7 +104,7 @@ todas tan espectaculares que os costará elegir la ruta. Para inspiraros os deja
 nuestro artículo [Círculo Dorado de Islandia en coche, 7 paradas para una ruta 
 perfecta](https://etheriamagazine.com/2021/12/27/imprescindibles-circulo-dorado-islandia/). 
 
-![Templo en Luang Prabang en Laos un destino de viajes de novios originales](https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Luang-Prabang-palacio-real-900x600.jpg "Templo en Luang Prabang, en Laos.")
+![Templo en Luang Prabang en Laos un destino de viajes de novios originales](https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Luang-Prabang-palacio-real.jpg "Templo en Luang Prabang, en Laos.")
 
 ## Laos y Camboya
 

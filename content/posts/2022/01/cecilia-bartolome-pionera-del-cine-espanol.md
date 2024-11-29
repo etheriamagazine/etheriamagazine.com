@@ -33,7 +33,7 @@ rodadas, únicamente), que habla abiertamente sobre los obstáculos de la mujer 
 siglo XX, desde la falta de libertades propias de la época, hasta las limitaciones a la 
 hora de disfrutar de la sexualidad o recurrir el aborto. 
 
-![Cecilia Bartolome](https://fotos.etheriamagazine.com/2022/01/Cecilia-Bartolome-directora-cine-730x1024.jpg "Cecilia Bartolomé.")
+![Cecilia Bartolome](https://fotos.etheriamagazine.com/2022/01/Cecilia-Bartolome-directora-cine.jpg "Cecilia Bartolomé.")
 
 Cecilia Bartolomé, ha desarrollado su carrera en el **cine documental y publicitario**, 
 creando una obra fílmica feminista, moderna y divertida. Fue pionera al abordar en sus 
@@ -54,7 +54,7 @@ condicionado de por vida. Es allí, en la antigua colonia española de Fernando 
 comienza a actuar y a dirigir representaciones teatrales en su colegio y posteriormente, 
 en la Escuela Superior Indígena. 
 
-![vamonos barbara pelicula de cecilia bartolome](https://fotos.etheriamagazine.com/2022/01/pelicula-Vamonos-Barbara-693x1024.jpg "'¡Vámonos, Bárbara!' (1978) fue el primer largometraje de Cecilia Bartolomé.")
+![vamonos barbara pelicula de cecilia bartolome](https://fotos.etheriamagazine.com/2022/01/pelicula-Vamonos-Barbara.jpg "'¡Vámonos, Bárbara!' (1978) fue el primer largometraje de Cecilia Bartolomé.")
 
 Ya en España, Cecilia Bartolomé abandona sus estudios de Ciencias Económicas para 
 formarse en la Escuela Oficial de Cine en Madrid, donde se diplomó en 1969, con el 
@@ -75,7 +75,7 @@ largometraje **_Lejos de África_** donde narra sus vivencias de infancia en la 
 colonia española. En 2005 rueda para la serie de televisión Cuéntame el capítulo 
 documental «**_Especial Carrero Blanco: el comienzo del fin_**». 
 
-![cecilia bartolome en los premios feroz](https://fotos.etheriamagazine.com/2022/01/Cecilia-Bartolome-premios-Feroz-683x1024.jpg "Cecilia Bartolomé, Premio Feroz de Honor en 2022. © Daniel Marcos")
+![cecilia bartolome en los premios feroz](https://fotos.etheriamagazine.com/2022/01/Cecilia-Bartolome-premios-Feroz.jpg "Cecilia Bartolomé, Premio Feroz de Honor en 2022. © Daniel Marcos")
 
 ## Galardonada en los Premios Feroz
 
@@ -167,7 +167,7 @@ está venciendo poco a poco, afortunadamente. Yo siempre he vivido desde el cole
 Guinea, y luego en la Escuela de Cine de Madrid, en franca minoría como mujer. Pero, 
 eso, ya no es así. 
 
-![cartel pelicula lejos de africa](https://fotos.etheriamagazine.com/2022/01/pelicula-Lejos-de-Africa-693x1024.jpg "Cartel de la película 'Lejos de África'.")
+![cartel pelicula lejos de africa](https://fotos.etheriamagazine.com/2022/01/pelicula-Lejos-de-Africa.jpg "Cartel de la película 'Lejos de África'.")
 
 ##### ¿Qué representa África para usted?
 

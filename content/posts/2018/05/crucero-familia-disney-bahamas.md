@@ -14,7 +14,7 @@ de crucero es el que todos conocemos, pero estas islas aportan un punto de exoti
 playa que combina perfectamente con los gustos de los niños. Y, si les sumas los 
 personajes Disney, son sus vacaciones perfectas. 
 
-![Barco de Disney Cruise Line en Bahamas](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-barco-1024x611.jpg "Barco de Disney Cruise Line.")
+![Barco de Disney Cruise Line en Bahamas](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-barco.jpg "Barco de Disney Cruise Line.")
 
 La temática Disney es una apuesta segura para los viajes en familia. Al final, casi sin 
 quererlo, te atrapa y acabas haciéndote una foto con Mickey y Rapunzel aunque antes 
@@ -26,7 +26,7 @@ informa de los lugares y horario donde se van a encontrar para que se pase quien
 hacerse las fotos (y con los niños vas). Si por el contrario buscas desconectar y vivir 
 la experiencia habitual de un crucero, también es posible. 
 
-![Mickey en el Caribe](https://fotos.etheriamagazine.com/2018/05/Bahamas-crucero-Disney-Mickey-683x1024.jpg "Mickey Mouse en Bahamas.")
+![Mickey en el Caribe](https://fotos.etheriamagazine.com/2018/05/Bahamas-crucero-Disney-Mickey.jpg "Mickey Mouse en Bahamas.")
 
 Son cruceros pensados para los más pequeños pero también para que disfrute toda la 
 familia, incluso cuentan con una parte sólo para adultos. Tienen tantas actividades que 
@@ -49,7 +49,7 @@ como dar de comer a las mantas-rayas o dar un paseo en bicicleta. Aunque descans
 una de sus tumbonas frente al mar trasparente, mientras los niños juegan con la arena, 
 es una muy buena opción. 
 
-![niños jugando en Castaway Cay en Bahamas](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-Castaway-Cay-1024x683.jpg "Playa de la isla privada Castaway Cay. © SG")
+![niños jugando en Castaway Cay en Bahamas](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-Castaway-Cay.jpg "Playa de la isla privada Castaway Cay. © SG")
 
 ## Nassau, la capital del archipiélago
 
@@ -73,7 +73,7 @@ un lugar tremendamente animado y bullicioso, lleno de tiendas y restaurantes. Me
 pena realizar el [City tour](http://www.trolleytours.com) en un curioso autobús de 
 madera abierto para descubrir la curiosa arquitectura de la ciudad. 
 
-![barcos en el puerto de Key West](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-Key-West-1024x683.jpg "Puerto de Key West. © SG")
+![barcos en el puerto de Key West](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-Key-West.jpg "Puerto de Key West. © SG")
 
 ## CONSEJOS ETHERIA
 
@@ -101,9 +101,9 @@ adultos).
 maletas preparadas por la noche. Si no te quieres perder el espectáculo final, que suele 
 ser especial, conviene ir cerrando el equipaje con tiempo. 
 
-![Playa de Castaway Cay con crucero Disney](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-mantas-en-Castaway-Cay-1024x683.jpg "Mantas-rayas en Castaway Cay. © SG")
+![Playa de Castaway Cay con crucero Disney](https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-mantas-en-Castaway-Cay.jpg "Mantas-rayas en Castaway Cay. © SG")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Tips imprescindibles para organizar tu primer viaje en 
 crucero](https://etheriamagazine.com/2021/02/25/como-organizar-viaje-en-crucero-puertos-excursiones/) 

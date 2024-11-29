@@ -24,12 +24,11 @@ Barcelona que se alargan hasta 2021 y que seguro te enamorarán.
 
 ## Tàpies a los 30
 
-La [Fundación Antoni Tàpies](https://fundaciotapies.org/es/exposicio/tapies-als-30/) 
-acaba de cumplir 30 años y, por eso, han querido mostrar en una exposición las obras que 
-el artista catalán realizó cuando tenía justo esa edad. 'Tàpies a los 30' se centra por 
-tanto, en el decenio comprendido entre los años 1953 y 1963, seguramente el periodo más 
-fructífero y dinámico de su trayectoria, ya que fue entonces cuando alcanzó la madurez 
-con la creación de sus “pinturas matéricas”. 
+La acaba de cumplir 30 años y, por eso, han querido mostrar en una exposición las obras 
+que el artista catalán realizó cuando tenía justo esa edad. 'Tàpies a los 30' se centra 
+por tanto, en el decenio comprendido entre los años 1953 y 1963, seguramente el periodo 
+más fructífero y dinámico de su trayectoria, ya que fue entonces cuando alcanzó la 
+madurez con la creación de sus “pinturas matéricas”. 
 
 En la exposición hay muchas obras desconocidas para el gran público, ya que la mayoría 
 procede de colecciones particulares. Son piezas de textura densa y que tienen una 
@@ -129,7 +128,7 @@ familia, sus escenarios favoritos… Son imágenes que hablan de su vida como si
 parte de un diario personal que jalona acontecimientos de su biografía y que basculan 
 entre lo personal y lo profesional. 
 
-![carlos saura, exposicion de barcelona](https://fotos.etheriamagazine.com/2020/12/Carlos-Saura-descanso-en-el-rodaje-692x1024.jpg "© Carlos Saura, descanso en el rodaje de 'Ana y los lobos'. Madrid, 1972.")
+![carlos saura, exposicion de barcelona](https://fotos.etheriamagazine.com/2020/12/Carlos-Saura-descanso-en-el-rodaje.jpg "© Carlos Saura, descanso en el rodaje de 'Ana y los lobos'. Madrid, 1972.")
 
 Por eso, la muestra se estructura en cuatro ámbitos cronológicos: “Primer laboratorio”, 
 con su obra más temprana de los últimos años 40, donde utiliza como modelos a su propia 

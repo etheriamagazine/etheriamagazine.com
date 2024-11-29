@@ -2,7 +2,6 @@
 title: "Río de Janeiro, una \"cidade maravilhosa\" para viajar con amigas"
 date: 2024-06-29
 coverImage: https://fotos.etheriamagazine.com/2024/06/viaje-amigas-rio-janeiro.jpg
-coverImageAlt: "vamos las amigas a río!"  
 categories: 
   - viajes-con-amigas
   - viajes-para-mujeres
@@ -17,7 +16,7 @@ disfrutarla en todo su esplendor.
 
 **Texto y fotos: Cris Aizpeolea** 
 
-![Grupo de amigas en Río de Janeiro](https://fotos.etheriamagazine.com/2024/06/viaje-amigas-rio-janeiro-850x638.jpg "Viajar con amigas, la mejor terapia en todas las circunstancias. © Cris A.")
+![Grupo de amigas en Río de Janeiro](https://fotos.etheriamagazine.com/2024/06/viaje-amigas-rio-janeiro.jpg "Viajar con amigas, la mejor terapia en todas las circunstancias. © Cris A.")
 
 En un grupo de 10 amigas se puede pintar el mundo entero. Está la que adora la playa y 
 la que huye del sol, la aventurera, la sociable que habla con todos, la que observa 
@@ -39,7 +38,7 @@ teléfono móvil y los efectos personales. En siete millones de habitantes, por 
 que hay oportunistas. Para evitar disgustos, es recomendable dejar el pasaporte dentro 
 de la maleta hasta el día del regreso. No hace falta llevarlo por la calle. 
 
-![Panorámica de Río de Janeiro.](https://fotos.etheriamagazine.com/2024/06/que-hacer-rio-janeiro-850x582.jpg "Panorámica de Río de Janeiro. © Mike Swigunski")
+![Panorámica de Río de Janeiro.](https://fotos.etheriamagazine.com/2024/06/que-hacer-rio-janeiro.jpg "Panorámica de Río de Janeiro. © Mike Swigunski")
 
 ## Primeras pistas
 
@@ -58,7 +57,7 @@ Para tener algunos reales en el bolsillo, hay que concurrir a una casa de cambio
 caso sí, hay que llevar documento), o bien a los hoteles de categoría donde ofrecen un 
 cambio algo menor, similar al del aeropuerto. 
 
-![La bicicleta es una alternativa ecológica para recorrer Río de Janeiro.](https://fotos.etheriamagazine.com/2024/06/bicicletas-rio-janeiro-750x1000.jpg "La bicicleta es una alternativa ecológica para recorrer Río de Janeiro. © Cris A.")
+![La bicicleta es una alternativa ecológica para recorrer Río de Janeiro.](https://fotos.etheriamagazine.com/2024/06/bicicletas-rio-janeiro.jpg "La bicicleta es una alternativa ecológica para recorrer Río de Janeiro. © Cris A.")
 
 ### Uber o transporte público
 
@@ -82,7 +81,7 @@ que son de color naranja, como el banco que las auspicia. Para inscribirse en el
 hay que bajar la aplicación y ejercitar la paciencia. El trámite suele ser muy 
 fastidioso pero la recompensa vale la pena. Recordad cancelar la renovación automática. 
 
-![Souvenirs en la tienda del Cristo Redentor. “Yo estuve ahí”.](https://fotos.etheriamagazine.com/2024/06/cristo-redentor-brasil-850x657.jpg "Souvenirs del Cristo Redentor. © Cris A.")
+![Souvenirs en la tienda del Cristo Redentor. “Yo estuve ahí”.](https://fotos.etheriamagazine.com/2024/06/cristo-redentor-brasil.jpg "Souvenirs del Cristo Redentor. © Cris A.")
 
 ## Río de Janeiro, un destino maravilla
 
@@ -96,7 +95,7 @@ Río de Janeiro es una ciudad inagotable y admite varios viajes en la vida. Para
 debutantes y las iniciadas, va esta lista caprichosa e inacabada de programas con 
 satisfacción garantizada. 
 
-![La rambla de Copacabana con sus diseños en ondas](https://fotos.etheriamagazine.com/2024/06/calle-ipanema-rio-janeiro-850x557.jpg "La rambla de Copacabana con sus diseños en ondas, un icono de la ciudad. © Luis Diego Aguilar")
+![La rambla de Copacabana con sus diseños en ondas](https://fotos.etheriamagazine.com/2024/06/calle-ipanema-rio-janeiro.jpg "La rambla de Copacabana con sus diseños en ondas, un icono de la ciudad. © Luis Diego Aguilar")
 
 ## Qué hacer en Río de Janeiro
 
@@ -111,7 +110,7 @@ Leme, Barra da Tijuca, cada una con su propio dibujo, proponiendo otra lectura d
 cartografía. La ecléctica primera línea de edificios de la costanera se acompaña en la 
 playa con bares al paso, chiringuitos y restaurantes para todo tipo de bolsillos. 
 
-![Trenecito al Corcovado.](https://fotos.etheriamagazine.com/2024/06/tren-corcovado-750x1000.jpg "Trenecito al Corcovado. © Cris A.")
+![Trenecito al Corcovado.](https://fotos.etheriamagazine.com/2024/06/tren-corcovado.jpg "Trenecito al Corcovado. © Cris A.")
 
 ### El Cristo Redentor y el Pan de Azúcar
 
@@ -122,7 +121,7 @@ dos tramos en teleférico para llegar al tope del peñasco, símbolo carioca que
 bahía de Guanabara. Ideal llegar por la tarde para disfrutar de la puesta del sol y las 
 primeras luces de la noche con un rico trago. 
 
-![Museo del Mañana, diseñado por Santiago Calatrava.](https://fotos.etheriamagazine.com/2024/06/museo-calatrava-rio-janeiro-850x638.jpg "Museo del Mañana, diseñado por Santiago Calatrava. © Cris A.")
+![Museo del Mañana, diseñado por Santiago Calatrava.](https://fotos.etheriamagazine.com/2024/06/museo-calatrava-rio-janeiro.jpg "Museo del Mañana, diseñado por Santiago Calatrava. © Cris A.")
 
 ### Doblete de museos
 
@@ -136,7 +135,7 @@ de olas los edificios de un antiguo palacete con la ex estación de autobuses, a
 conectados por una pasarela. Sus exposiciones también exploran la lectura transversal de 
 una ciudad que sabe de expectativas, desafíos y conflictos. 
 
-![Museo de Arte en Río de Janeiro.](https://fotos.etheriamagazine.com/2024/06/carteles-rio-janeiro-850x638.jpg "Museo de Arte en Río de Janeiro. © Cris A.")
+![Museo de Arte en Río de Janeiro.](https://fotos.etheriamagazine.com/2024/06/carteles-rio-janeiro.jpg "Museo de Arte en Río de Janeiro. © Cris A.")
 
 ### Ferry a Niteroi
 
@@ -149,7 +148,7 @@ aeropuerto de cabotaje Santos Dumont. No dejéis de hacer esta experiencia. Del 
 lado, en Niteroi, la parada obligada es el **Museo de Arte Contemporáneo**, creación de 
 Oscar Niemeyer, un magnífico “plato volador” asomado al precipicio. Lunes cerrado. 
 
-![Irresistible en la playa, choclo con manteca y sal.](https://fotos.etheriamagazine.com/2024/06/heladero-rio-janeiro-850x638.jpg "Irresistible en la playa, choclo con manteca y sal. © Cris A.")
+![Irresistible en la playa, choclo con manteca y sal.](https://fotos.etheriamagazine.com/2024/06/heladero-rio-janeiro.jpg "Irresistible en la playa, choclo con manteca y sal. © Cris A.")
 
 ### Música ao vivo
 
@@ -163,7 +162,7 @@ músicos de gran nivel se juntan a tocar y a cantar. El público se sirve una ce
 los disfruta parado en la vereda. Se aplaude castañeteando los dedos para no molestar a 
 los vecinos. 
 
-![Iglesia de la Candelaria .](https://fotos.etheriamagazine.com/2024/06/iglesia-candelaria-rio-janeiro-846x1000.jpg "Iglesia de la Candelaria. © Cris A.")
+![Iglesia de la Candelaria .](https://fotos.etheriamagazine.com/2024/06/iglesia-candelaria-rio-janeiro.jpg "Iglesia de la Candelaria. © Cris A.")
 
 ### Candelaria, Cinelandia y los teatros
 
@@ -175,7 +174,7 @@ los edificios del Ayuntamiento, la Biblioteca y el Teatro Municipal. Vale la pen
 dedicarle una tarde. Explorar con anticipación la cartelera de espectáculos. Suele haber 
 excelentes propuestas a muy buen precio. 
 
-![El sombrero puede ser el mejor souvenir, y el más práctico, en Río.](https://fotos.etheriamagazine.com/2024/06/museo-rio-janeiro-850x586.jpg "El sombrero puede ser el mejor souvenir, y el más práctico, en Río. © Cris A.")
+![El sombrero puede ser el mejor souvenir, y el más práctico, en Río.](https://fotos.etheriamagazine.com/2024/06/museo-rio-janeiro.jpg "El sombrero puede ser el mejor souvenir, y el más práctico, en Río. © Cris A.")
 
 ### Bondinho a Santa Teresa
 
@@ -188,7 +187,7 @@ Arcos de Lapa y se interna en el morro. El último servicio sale a las 16. Se pu
 regresar en el tranvía con el mismo boleto o bajar caminando hasta Lapa. Para más 
 seguridad, emprender la vuelta antes que anochezca. 
 
-![Con precaución, Río de Janeiro también se disfruta en un viaje con amigas.](https://fotos.etheriamagazine.com/2024/06/mujeres-viaje-rio-janeiro-850x638.jpg "Con precaución, Río de Janeiro también se disfruta en un viaje con amigas. © Cris A.")
+![Con precaución, Río de Janeiro también se disfruta en un viaje con amigas.](https://fotos.etheriamagazine.com/2024/06/mujeres-viaje-rio-janeiro.jpg "Con precaución, Río de Janeiro también se disfruta en un viaje con amigas. © Cris A.")
 
 ### Almoço na favela (almuerzo en la favela de Vidigal)
 

@@ -28,7 +28,7 @@ viajar a Nueva York con
 niños](https://etheriamagazine.com/2018/07/28/consejos-para-viajar-en-familia-a-nueva-york/) 
 con sugerencias para hacer el viaje más fácil. 
 
-![](https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock-1024x680.jpg)
+![](https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock.jpg)
 
 ## 2\. Cantabria en familia
 
@@ -49,7 +49,7 @@ cinco o seis días, incluye la encantadora ciudad de Estrasburgo, la región vin
 Alsacia, con pueblos como Colmar o Riquewihr, la Selva Negra alemana y el divertido 
 parque de atracciones Europa Park. 
 
-![Viajes niños familia](https://fotos.etheriamagazine.com/2018/07/Selva-Negra-1024x682.jpg)
+![Viajes niños familia](https://fotos.etheriamagazine.com/2018/07/Selva-Negra.jpg)
 
 ## 4\. Laponia finlandesa en familia.
 
@@ -81,4 +81,4 @@ y [Una maleta para Costa
 Rica](https://etheriamagazine.com/2018/05/28/una-maleta-para-costa-rica/). ¡Lo pondrás 
 en tu lista de viajes! 
 
-![](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-recogiendo-cafe-1024x683.jpg)
+![](https://fotos.etheriamagazine.com/2018/05/Costa-Rica-recogiendo-cafe.jpg)

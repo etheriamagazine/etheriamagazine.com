@@ -65,7 +65,7 @@ de edición limitada en la [web de la bodega](https://vinogaleria.com/) por sól
 (envío incluido) o una caja con 6 botellas por 29 euros. Si lo adquieres presencialmente 
 en su propia vinoteca incluso sale por algo menos. 
 
-![Estuche de regalo de Vino Diamante](https://fotos.etheriamagazine.com/2022/04/vino-diamante-537x1024.jpg "Caja de regalo con dos vinos Diamante.")
+![Estuche de regalo de Vino Diamante](https://fotos.etheriamagazine.com/2022/04/vino-diamante.jpg "Caja de regalo con dos vinos Diamante.")
 
 ### 4\. Un viaje al pasado en Puy du Fou
 
@@ -95,7 +95,7 @@ protectora de la piel otorgando una gran inmunidad. El set incluye **un serum y 
 esencia** y está pensado para pieles maduras. Lo puedes pedir en [Amazon](https://amzn.to/3LbWJJx) 
 y se lo entregan a ella misma en casa. 
 
-![Cofre INFINITY Care System de Mádara.](https://fotos.etheriamagazine.com/2022/04/cosmetica-madres-viajeras-876x1024.jpg "Cofre INFINITY Care System de Mádara.")
+![Cofre INFINITY Care System de Mádara.](https://fotos.etheriamagazine.com/2022/04/cosmetica-madres-viajeras.jpg "Cofre INFINITY Care System de Mádara.")
 
 ### 6\. Desconexión rural en 3, 2, 1
 
@@ -150,7 +150,7 @@ kit para que pueda traspasar pequeñas cantidades a botes de tamaño reducido. E
 encontrarás seis [atomizadores recargables](https://amzn.to/3MJUgq7) por menos de 10 
 euros. 
 
-![Perfumes de viaje de Coco Mademoiselle para madres viajeras](https://fotos.etheriamagazine.com/2022/04/coco-chanel-perfume-viaje-689x1024.jpg "Perfumes de viaje de Coco Mademoiselle.")
+![Perfumes de viaje de Coco Mademoiselle para madres viajeras](https://fotos.etheriamagazine.com/2022/04/coco-chanel-perfume-viaje.jpg "Perfumes de viaje de Coco Mademoiselle.")
 
 ### 10\. Una estancia en Paradores
 

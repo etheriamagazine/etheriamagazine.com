@@ -14,7 +14,7 @@ Los viajes se disfrutan antes, durante y después del viaje. En Etheria Magazine
 te queremos ayudar en la etapa previa, así que te recomendamos películas y libros con 
 los que preparar y documentar tu viaje a República Checa de forma amena desde casa. 
 
-![Libros y películas para preparar tu viaje soñado a Chequia.](https://fotos.etheriamagazine.com/2020/03/preparar-viaje-chequia-900x600.jpg "Libros y películas para preparar tu viaje soñado a Chequia.")
+![Libros y películas para preparar tu viaje soñado a Chequia.](https://fotos.etheriamagazine.com/2020/03/preparar-viaje-chequia.jpg "Libros y películas para preparar tu viaje soñado a Chequia.")
 
 Los escenarios de películas son, en muchas ocasiones, el aliciente que necesitamos para 
 querer conocer un destino. Otras veces, son los libros los que nos empujan a visitar en 
@@ -24,7 +24,7 @@ más del desarrollo del mismo. Queremos ayudarte, precisamente, en ese “trabaj
 ofrecerte la documentación audiovisual y literaria para preparar tu próximo viaje a 
 República Checa. 
 
-![Parque Natural de la Suiza de Bohemia.](https://fotos.etheriamagazine.com/2020/03/Suiza-de-Bohemia-900x597.jpg "Parque Natural de la Suiza de Bohemia. @Vaclav Sojka")
+![Parque Natural de la Suiza de Bohemia.](https://fotos.etheriamagazine.com/2020/03/Suiza-de-Bohemia.jpg "Parque Natural de la Suiza de Bohemia. @Vaclav Sojka")
 
 ## Chequia en el cine
 
@@ -44,7 +44,7 @@ aquellas escenas simulaba que era Moscú. _En otras películas como_ **_Oliver T
 de Roman Polanski, y **_Los Borgia_**, de Antonio Hernández, se emplearon los estudios 
 praguenses de Barrandov. 
 
-![Panorámica de Český Krumlov.](https://fotos.etheriamagazine.com/2020/03/Cesky-Krumlov-900x468.jpg "Český Krumlov. © Ales Motejl")
+![Panorámica de Český Krumlov.](https://fotos.etheriamagazine.com/2020/03/Cesky-Krumlov.jpg "Český Krumlov. © Ales Motejl")
 
 ### 'Hostel'
 
@@ -59,7 +59,7 @@ Parte de este filme, protagonizado por Hugh Jackman, se rodó en el **Castillo
 Pernštejn**, una fortaleza rodeada de densos bosques. Lo puedes ver actualmente en 
 Netflix. 
 
-![Castillo Pernštejn entre bosques](https://fotos.etheriamagazine.com/2020/03/castillo-Pernstejn-900x622.jpg "Castillo Pernštejn. © Ladislav Renner")
+![Castillo Pernštejn entre bosques](https://fotos.etheriamagazine.com/2020/03/castillo-Pernstejn.jpg "Castillo Pernštejn. © Ladislav Renner")
 
 ### 'Amadeus'
 
@@ -76,7 +76,7 @@ filme de 2006. Esta fortaleza fue la propiedad más querida del archiduque Franc
 Fernando de Austria-Este, el heredero del trono del Imperio Austro-Húngaro. Se puede ver 
 en Amazon Prime Video. 
 
-![Castillo Konopiště en otoño](https://fotos.etheriamagazine.com/2020/03/castillo-Konopiste-900x670.jpg "Castillo Konopiště. © Libor Svacek")
+![Castillo Konopiště en otoño](https://fotos.etheriamagazine.com/2020/03/castillo-Konopiste.jpg "Castillo Konopiště. © Libor Svacek")
 
 ### 'Carnival Row'
 
@@ -89,7 +89,7 @@ La encontrarás en Amazon Prime Vídeo.
 En ambas series tendrás la oportunidad de ver el Castillo Bouzov, que fue edificado 
 entre los siglos XIII y XIV, y que se encuentra en el corazón de los bosques moravos. 
 
-![Karlovy Vary, peliculas rodadas en chequia](https://fotos.etheriamagazine.com/2020/03/Karlovy-Vary-900x544.jpg "Karlovy Vary. © Ladislav Renner")
+![Karlovy Vary, peliculas rodadas en chequia](https://fotos.etheriamagazine.com/2020/03/Karlovy-Vary.jpg "Karlovy Vary. © Ladislav Renner")
 
 ### '007 Casino Royale'
 
@@ -104,7 +104,7 @@ Basada en el conocido libro de Milán Kundera, nos lleva a reflexionar sobre el 
 humano en la bonita capital checa. La encontrarás on line, ya que no está en las 
 plataformas más conocidas. 
 
-![praga, viaje chequia, peliculas rodadas en chequia](https://fotos.etheriamagazine.com/2020/03/viaje-literario-praga-900x600.jpg "Praga. © Michal Vitásek")
+![praga, viaje chequia, peliculas rodadas en chequia](https://fotos.etheriamagazine.com/2020/03/viaje-literario-praga.jpg "Praga. © Michal Vitásek")
 
 ## Chequia en la Literatura
 
@@ -119,7 +119,7 @@ de República Checa:
 Su temática nos lleva a conocer la situación de los judíos alemanes en Checoslovaquia 
 tras la Segunda Guerra Mundial. [19,95 € en Amazon](https://amzn.to/2QZ8qJs). 
 
-![La historia de Chequia a través de la literatura.](https://fotos.etheriamagazine.com/2020/03/libros-checos-1-900x914.jpg "La historia de Chequia a través de la literatura.")
+![La historia de Chequia a través de la literatura.](https://fotos.etheriamagazine.com/2020/03/libros-checos-1.jpg "La historia de Chequia a través de la literatura.")
 
 ### 'Los dulces de mi infancia', de Dominika Dery
 
@@ -137,7 +137,7 @@ Primavera de Praga. [Desde 18 € en Amazon](https://amzn.to/3407cmj).
 Está considerado un manifiesto de la disidencia en varios países comunistas. [Desde 11 € 
 en Amazon](https://amzn.to/39zKEKA). 
 
-![Libros trenes rigurosamente vigilados, El poder de los sin poder y Misiones nocturnas](https://fotos.etheriamagazine.com/2020/03/libros-checos-portadas-2-900x936.jpg "Historia, humor y manifiestos.")
+![Libros trenes rigurosamente vigilados, El poder de los sin poder y Misiones nocturnas](https://fotos.etheriamagazine.com/2020/03/libros-checos-portadas-2.jpg "Historia, humor y manifiestos.")
 
 ### 'Misiones Nocturnas', de Jáchym Topol
 
@@ -170,7 +170,7 @@ absurdos momentos te sacarán más de una sonrisa.
 Muy premiado dentro y fuera de las fronteras checas. Entretenido y con un trasfondo de 
 crítica sociopolítica. 
 
-![libros de chequia](https://fotos.etheriamagazine.com/2020/03/libros-viaje-republica-checa-900x844.jpg "Libros de intriga, basados en leyendas o con trasfondo actual.")
+![libros de chequia](https://fotos.etheriamagazine.com/2020/03/libros-viaje-republica-checa.jpg "Libros de intriga, basados en leyendas o con trasfondo actual.")
 
 ### 'El Golem', de Gustav Meyrink.
 
@@ -200,7 +200,7 @@ Existen diversas guías de viajes tanto de Praga como de todo el país en el mer
 la imagen puedes ver las del grupo editorial Anaya Touring. [Desde 12 € en 
 Amazon](https://amzn.to/3atNCS5). 
 
-![Guias de viajes a Praga, guia Republica Checa](https://fotos.etheriamagazine.com/2020/03/guias-viaje-praga-chequia-900x535.jpg "Guías de viajes a Praga y a República Checa.")
+![Guias de viajes a Praga, guia Republica Checa](https://fotos.etheriamagazine.com/2020/03/guias-viaje-praga-chequia.jpg "Guías de viajes a Praga y a República Checa.")
 
 Si necesitas más información, continúa leyendo alguno de estos artículos ya publicados o 
 consulta la [web oficial de Turismo de República 

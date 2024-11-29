@@ -16,7 +16,7 @@ confirman estas cualidades y, también, indican que es una persona reflexiva y c
 gran espíritu viajero. 
 
 ![eugenia fierros mujer 
-etheria](https://fotos.etheriamagazine.com/2018/07/Eugenia-Fierros-mujer-etheria-playa-1024x655.jpg) 
+etheria](https://fotos.etheriamagazine.com/2018/07/Eugenia-Fierros-mujer-etheria-playa.jpg) 
 
 Eugenia comenzó a trabajar desde muy joven vinculada al sector turístico y su 
 trayectoria profesional la ha llevado a conocer este mundo desde diferentes 
@@ -62,7 +62,7 @@ ciertos aspectos que durante el resto del año tengo un poco olvidados. Viajar m
 sentirme más viva y mientras viajo soy la mejor versión de mí misma. 
 
 ![eugenia fierros mujer etheria 
-magazine](https://fotos.etheriamagazine.com/2018/07/eugenia-fierros-mujeres-etheria-1024x681.jpg) 
+magazine](https://fotos.etheriamagazine.com/2018/07/eugenia-fierros-mujeres-etheria.jpg) 
 
 ### 4\. Si pudieses elegir un compañero de viaje (real o de ficción). ¿Quién sería y por qué?
 
@@ -111,7 +111,7 @@ Japón. ¡Destacaría todo lo que no es sushi! Antes de viajar allí era una gra
 de la gastronomía japonesa. 
 
 ![eugenia fierros mujer 
-etheria](https://fotos.etheriamagazine.com/2018/07/Eugenia-fierros-mujer-etheria-magazine-1024x647.jpg) 
+etheria](https://fotos.etheriamagazine.com/2018/07/Eugenia-fierros-mujer-etheria-magazine.jpg) 
 
 ### 11\. ¿En qué medio de transporte prefieres viajar?
 

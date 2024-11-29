@@ -46,7 +46,7 @@ entrada es gratuita y el resto de las entradas al recinto cuestan desde 5 libras
 Aparte, muchas actividades llevan un precio aparte que se puede también pagar y reservar 
 a través de la web. 
 
-![Puestos y noria gigante de © Winter Wonderland.](https://fotos.etheriamagazine.com/2023/11/Londres-navidad-Hyde-Park-Winter-Wonderland-668x1000.jpg "Puestos y noria gigante de © Winter Wonderland.")
+![Puestos y noria gigante de © Winter Wonderland.](https://fotos.etheriamagazine.com/2023/11/Londres-navidad-Hyde-Park-Winter-Wonderland.jpg "Puestos y noria gigante de © Winter Wonderland.")
 
 ## Wishmas at Wembley
 
@@ -134,7 +134,7 @@ una decoración navideña con mucho estilo que incluye un precioso árbol.
 
 ![Mercado de Navidad de Leicester Square.](https://fotos.etheriamagazine.com/2023/11/londres-navidad-leicester-square.jpg "Mercado de Navidad de Leicester Square. © Philippe Oursel")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Dónde tomar el té en Londres en lugares muy 
 originales](https://etheriamagazine.com/2023/03/15/tomar-te-londres/) 

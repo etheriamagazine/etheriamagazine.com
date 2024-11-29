@@ -161,7 +161,7 @@ final perfecto para cerrar un bonito viaje en coche por las Highlands? ¿O quiz�
 prefieres continuar ruta hacia las Islas Shetland? Si es así, no te pierdas nuestras 
 pistas para conocer estas remotas islas de Escocia. 
 
-? **No te pierdas:** [Ruta por las Islas 
+📌 **No te pierdas:** [Ruta por las Islas 
 Shetland](https://etheriamagazine.com/2019/03/21/mujeres-viajeras-que-ver-islas-shetland/). 
 
 ## Guía Tierras Altas | Etheria Magazine

@@ -12,7 +12,7 @@ authors:
 
 ¿Sabías que en 1626 un grupo de holandeses emigrados a América fundaron una colonia a la que llamaron New Amsterdam? Pues ese fue el comienzo de la historia de New York y por ende la del barrio de Harlem. Hoy viajamos al Haarlem original.
 
-![Calle típica de Haarlem](https://fotos.etheriamagazine.com/2018/12/Amsterdam-Haarlem-viajes-con-amigas-1024x653.jpg "La mejor manera de moverse por Haarlem es en bicicleta o a pie.")
+![Calle típica de Haarlem](https://fotos.etheriamagazine.com/2018/12/Amsterdam-Haarlem-viajes-con-amigas.jpg "La mejor manera de moverse por Haarlem es en bicicleta o a pie.")
 
 El **‘verdadero’ Haarlem** –con dos aes– es una población que se encuentra a 20 
 kilómetros de Ámsterdam, lo que significa que es muy fácil llegar a ella en tren desde 
@@ -32,14 +32,14 @@ edificios de los que querrás hacer fotos son los de estilo medieval, ya que muc
 ellos conservan las clásicas fachadas de gabletes (esos elegantes remates triangulares 
 que coronan algunos edificios de estilo gótico). 
 
-![puente en el puerto de Haarlem](https://fotos.etheriamagazine.com/2018/12/haarlem-Puente-Grave-Stenen-1024x663.jpg "El Puente Gravestenenbrug cruza el río Sparne, en Haarlem (Holanda).")
+![puente en el puerto de Haarlem](https://fotos.etheriamagazine.com/2018/12/haarlem-Puente-Grave-Stenen.jpg "El Puente Gravestenenbrug cruza el río Sparne, en Haarlem (Holanda).")
 
 La calle frente a la estación, **Kruisstraat** (ancha, larga y recta), te conduce a la 
 **Grote Markt** (Plaza Mayor), desde donde se extiende el entramado de callejuelas del 
 casco antiguo, adoquinadas, llenas de encanto ¡y sin coches! y donde se ubican muchos 
 coquetos restaurantes… de esos que encienden velitas a la hora de cenar. 
 
-![museo teylers en Haarlem](https://fotos.etheriamagazine.com/2018/12/Haarlem-Teylers-Museum-que-ver-1024x680.jpg "Fachada del Teylers Museum (Haarlem).")
+![museo teylers en Haarlem](https://fotos.etheriamagazine.com/2018/12/Haarlem-Teylers-Museum-que-ver.jpg "Fachada del Teylers Museum (Haarlem).")
 
 ## El museo de las maravillas
 
@@ -57,7 +57,7 @@ dibujo.
 
 > Por cierto, para Einstein, el Teylers era uno de sus museos favoritos. 
 
-![Obras del Museo Frans Hals](https://fotos.etheriamagazine.com/2018/12/Museos-haarlem-etheria-magazine-1024x708.jpg "Museo Frans Hals, Teylers Museum: Sala Aquarellenzaal, Museo Frans Hals: 'Un monje y una monja', de Cornelis Van Haarlem y 'Latido de corazón', de Nan Goldin. (de Izq. a Dcha. y de Arr. a Ab.)")
+![Obras del Museo Frans Hals](https://fotos.etheriamagazine.com/2018/12/Museos-haarlem-etheria-magazine.jpg "Museo Frans Hals, Teylers Museum: Sala Aquarellenzaal, Museo Frans Hals: 'Un monje y una monja', de Cornelis Van Haarlem y 'Latido de corazón', de Nan Goldin. (de Izq. a Dcha. y de Arr. a Ab.)")
 
 ### Museo Frans Hals
 
@@ -88,7 +88,7 @@ enviudaban con más de 60 años**. Y digo mujeres porque **las viudas sabían vi
 solas**, mientras que los viudos necesitaban a ‘alguien’ para que les cocinara y lavara 
 la ropa… ¡algunos todavía lo necesitan hoy en día! 
 
-![Hofje en Haarlem](https://fotos.etheriamagazine.com/2018/12/Amsterdam-haarlem-Hofje-1024x680.jpg "Los hofje son grupos de casas que acogían a viudas de más de 60 años.")
+![Hofje en Haarlem](https://fotos.etheriamagazine.com/2018/12/Amsterdam-haarlem-Hofje.jpg "Los hofje son grupos de casas que acogían a viudas de más de 60 años.")
 
 El situado en la calle Wijde Appelaarsteeg se cree que es el más antiguo de Holanda 
 (data de 1395) y consta de 24 casas adosadas construidas en torno a un patio interior 
@@ -109,7 +109,7 @@ un lugar de paso turístico, aunque para algunas personas es incomprensible como
 convivir una zona de industria sexual con los vecinos que nada tienen que ver con el 
 ‘negocio’. 
 
-![barrio rojo en haarlem](https://fotos.etheriamagazine.com/2018/12/haarlem-holanda-Torniquete-barrio-rojo-1024x559.jpg "Torniquete de entrada a 'la calle de las vitrinas'', en Haarlem.")
+![barrio rojo en haarlem](https://fotos.etheriamagazine.com/2018/12/haarlem-holanda-Torniquete-barrio-rojo.jpg "Torniquete de entrada a 'la calle de las vitrinas'', en Haarlem.")
 
 Pero en Haarlem para acceder a ‘la calle de las vitrinas’ se tiene que pasar –previo 
 pago de 1 €– por un torniquete (pintado de rojo fuego) que parece un instrumento de 
@@ -132,7 +132,7 @@ todo el mundo conocido, incluido el lejano Oriente. Muchos años después, la gl
 cervecera llegó a su fin, y, en 1916, la última fábrica de cerveza de Haarlem cerró sus 
 puertas. 
 
-![cervecerias en Harleem](https://fotos.etheriamagazine.com/2018/12/Cervecería-Jopen-mercado-grote-markt-1024x319.jpg "Cervecería Jopen y Mercado en la Grote Markt.")
+![cervecerias en Harleem](https://fotos.etheriamagazine.com/2018/12/Cervecería-Jopen-mercado-grote-markt.jpg "Cervecería Jopen y Mercado en la Grote Markt.")
 
 En 1994, se creó la Sociedad Cervecera de Haarlem y buscó recetas antiguas para elaborar 
 una cerveza con carácter propio. El resultado fue la **Jopen Hoppenbier**, según una 
@@ -151,7 +151,7 @@ que tienen en Holanda desde hace ¡por lo menos! medio siglo. Este cronista recu
 haber saltado de emoción asistiendo a los conciertos de grupos rock en el _Paradiso_ de 
 Ámsterdam, una iglesia desacralizada que aun perdura como templo de la música pop. 
 
-![bares en Haarlem](https://fotos.etheriamagazine.com/2018/12/Haarlen-noche-salir-amigas-holanda-1024x689.jpg "Ambiente nocturno en Haarlem (Holanda).")
+![bares en Haarlem](https://fotos.etheriamagazine.com/2018/12/Haarlen-noche-salir-amigas-holanda.jpg "Ambiente nocturno en Haarlem (Holanda).")
 
 Y respecto a los restaurantes con velita, el [Dodici](http://dodici.nl) es muy buena 
 opción. Sus dueños, el entusiasta dúo Micha y Erik, junto al chef Mitchell, practican 
@@ -172,7 +172,7 @@ online).
 centro y rodeado de bares y restaurantes. También en el centro está el [Ambassador City 
 Centre Hotel](http://galahotels.com), un poco más económico. 
 
-![Hotel Ambassador](https://fotos.etheriamagazine.com/2018/12/Hotel-Ambassador-haarlem-holanda-1024x662.jpg "Hotel Ambassador.")
+![Hotel Ambassador](https://fotos.etheriamagazine.com/2018/12/Hotel-Ambassador-haarlem-holanda.jpg "Hotel Ambassador.")
 
 #### Más información
 

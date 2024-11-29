@@ -89,7 +89,7 @@ Por cierto, mejor evitar el sábado por la tarde, es el momento que eligen los
 neoyorkinos, además de los turistas, para comprar, y son muchos. Es imposible transitar 
 por Times Square en este momento. 
 
-![Calle de Nueva York](https://fotos.etheriamagazine.com/2018/05/3-Nueva-York-noche-1024x683.jpg "Luces de Nueva York.")
+![Calle de Nueva York](https://fotos.etheriamagazine.com/2018/05/3-Nueva-York-noche.jpg "Luces de Nueva York.")
 
 ## 5\. Insiste con los taxis
 
@@ -110,7 +110,7 @@ cualidades que no son muy cómodas para ir con los más pequeños. Cada uno debe
 si es fundamental en su visita. Tened en cuenta que el mejor momento es el domingo, que 
 hay menos gente. En hora punta y con carrito, olvídalo. 
 
-###### ![](https://fotos.etheriamagazine.com/2018/05/6-Nueva-York-Metro-1024x684.jpg)
+###### ![](https://fotos.etheriamagazine.com/2018/05/6-Nueva-York-Metro.jpg)
 
 ## 7\. Carrito para niños sí o sí
 
@@ -147,7 +147,7 @@ problemas. Con los niños se disfruta más de las pequeñas cosas y si queda alg
 por ver o alguna actividad por hacer siempre será un buen motivo para regresar a Nueva 
 York. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Viaje a Nueva York con niños: 8 planes que no puedes 
 perderte](https://etheriamagazine.com/2018/07/23/8-planes-con-ninos-en-nueva-york/) 

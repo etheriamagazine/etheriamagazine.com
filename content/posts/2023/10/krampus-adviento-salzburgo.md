@@ -143,7 +143,7 @@ _Sonrisas y Lágrimas_, ahora puedes incorporar a los krampus como parte de las
 tradiciones de esta ciudad y otro motivo más para visitarla durante el Adviento. ✅ **Más 
 información**: [Tourismus Salzburg](http://www.salzburg.info). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Un fin de semana en la romántica Salzburgo 
 invernal](https://etheriamagazine.com/2019/12/02/48-horas-en-salzburgo-invernal-mercadillos-navidenos-escapada-romantica/) 

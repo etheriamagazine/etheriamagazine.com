@@ -127,7 +127,7 @@ habilita un sendero alternativo para continuar la ruta.
 Aunque la ruta del Camino de Hierro se puede hacer durante todo el año, es cierto que 
 las estaciones más agradables, en cuanto a temperatura, son el otoño y la primavera. 
 
-![mapa camino de hierro salamanca](https://fotos.etheriamagazine.com/2021/10/Mapa-Camino-de-Hierro-717x1024.jpg "? Descarga el mapa del Camino de Hierro para tenerlo offline.")
+![mapa camino de hierro salamanca](https://fotos.etheriamagazine.com/2021/10/Mapa-Camino-de-Hierro.jpg "📌 Descarga el mapa del Camino de Hierro para tenerlo offline.")
 
 ## Más datos de interés
 

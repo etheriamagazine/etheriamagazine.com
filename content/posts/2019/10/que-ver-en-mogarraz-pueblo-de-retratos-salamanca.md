@@ -14,7 +14,7 @@ Sentirse observado forma parte del juego en el pueblo salmantino de Mogarraz, do
 inmensos retratos callejeros despiertan la intriga de todo el mundo. ¿Qué opinas del 
 resultado?, ¿entrañable o inquietante? 
 
-![Plaza de la Torre del Campanil en Mogarraz](https://fotos.etheriamagazine.com/2019/09/mogarraz-portada-900x640.jpg "Plaza de la Torre del Campanil (s.XVII), una antigua torre vigía de defensa militar. ©KR")
+![Plaza de la Torre del Campanil en Mogarraz](https://fotos.etheriamagazine.com/2019/09/mogarraz-portada.jpg "Plaza de la Torre del Campanil (s.XVII), una antigua torre vigía de defensa militar. ©KR")
 
 La instauración del Documento Nacional de Identidad en España —el DNI— provocó 
 situaciones peculiares en aldeas como **Mogarraz**. Era el año 1967 y los vecinos del 
@@ -34,7 +34,7 @@ No te pierdas... [La Ruta del Vino de la Sierra de Francia, un viaje ideal para 
 con amigas o con quien 
 quieras.](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/) 
 
-![Cada retrato lleva inscrito el nombre del protagonista.](https://fotos.etheriamagazine.com/2019/09/mogarraz-cerca-900x641.jpg "Cada retrato lleva inscrito el nombre del protagonista. ©KR")
+![Cada retrato lleva inscrito el nombre del protagonista.](https://fotos.etheriamagazine.com/2019/09/mogarraz-cerca.jpg "Cada retrato lleva inscrito el nombre del protagonista. ©KR")
 
 Halladas en una vieja **caja de puros**, hace diez años reaparecieron en un cajón todas 
 esas fotografías, casi como una revelación —nunca mejor dicho—. Al encontrarlas, se 
@@ -57,7 +57,7 @@ los vecinos se niegan a retirar las obras de sus casas.
 
 > Los retratos han pasado a formar parte del ADN de Mogarraz. 
 
-![Encontrarás 14 fuentes repartidas por toda la villa que datan desde el año 1600.](https://fotos.etheriamagazine.com/2019/09/mogarraz-fuente-900x636.jpg "Encontrarás 14 fuentes repartidas por toda la villa que datan desde el año 1600. ©KR")
+![Encontrarás 14 fuentes repartidas por toda la villa que datan desde el año 1600.](https://fotos.etheriamagazine.com/2019/09/mogarraz-fuente.jpg "Encontrarás 14 fuentes repartidas por toda la villa que datan desde el año 1600. ©KR")
 
 ## Te proponemos un juego
 
@@ -69,7 +69,7 @@ mucho más guapa”, comenta jocosamente una de las vecinas que, descontenta con
 decidió retirarlo de su fachada. Toda una excepción en un pueblo orgulloso con esta 
 iniciativa. 
 
-![Santiago Pacho, vecino de Mogarraz, posa junto a su retrato.](https://fotos.etheriamagazine.com/2019/09/Mogarraz-vecino-900x606.jpg "Santiago Pacho, vecino de Mogarraz, posa junto a su retrato. ©KR")
+![Santiago Pacho, vecino de Mogarraz, posa junto a su retrato.](https://fotos.etheriamagazine.com/2019/09/Mogarraz-vecino.jpg "Santiago Pacho, vecino de Mogarraz, posa junto a su retrato. ©KR")
 
 La colección se ha ampliado desde los 388 retratos iniciales hasta los más de 800 con 
 los que cuenta en la actualidad. En el Museo Etnográfico de Castilla y León, en Zamora, 
@@ -81,7 +81,7 @@ son los cicerones, quienes cuentan el proyecto y lo ponen en valor”.
 > editorial Delirio. Se puede adquirir en cualquier local comercial de la zona y contiene 
 > cromos con las imágenes de los vecinos. 
 
-![Todo el pueblo respeta la arquitectura tradicional.](https://fotos.etheriamagazine.com/2019/09/mogarraz-general-900x655.jpg "Todo el pueblo respeta la arquitectura tradicional. ©KR")
+![Todo el pueblo respeta la arquitectura tradicional.](https://fotos.etheriamagazine.com/2019/09/mogarraz-general.jpg "Todo el pueblo respeta la arquitectura tradicional. ©KR")
 
 ## Impasible al tiempo
 
@@ -93,7 +93,7 @@ actualidad. Los **galos** repoblaron la zona en el siglo XI —de ahí lo de **S
 Francia**— para servirse de su rica naturaleza, tan frondosa y fluvial, repleta de 
 regueros, riachuelos y de **neveros** que aguantan los embates del calor cada verano. 
 
-![Una vecina de Candelario asoma por su batipuerta.](https://fotos.etheriamagazine.com/2019/09/mogarraz-batiperta-candelario-900x645.jpg "Una vecina de Candelario asoma por su batipuerta. ©KR")
+![Una vecina de Candelario asoma por su batipuerta.](https://fotos.etheriamagazine.com/2019/09/mogarraz-batiperta-candelario.jpg "Una vecina de Candelario asoma por su batipuerta. ©KR")
 
 No hay frío salmantino que valga gracias a la invención de las **batipuertas**, uno de 
 los símbolos etnográficos de la zona, así como del pueblo de **Candelario**, otra parada 
@@ -111,7 +111,7 @@ El **Museo Etnográfico** —la Casa de las Artesanías— de Mogarraz repasa la
 los modos de vida de la zona, marcados por el encuentro de **arrieros** que se dirigían 
 a Andalucía y a tierras portuguesas mientras transportaban cerámica y lino. 
 
-![Reunión y juegos en la plaza de la Torre del Campanil.](https://fotos.etheriamagazine.com/2019/09/mogarraz-plaza-900x656.jpg "Reunión y juegos en la plaza de la Torre del Campanil. ©KR")
+![Reunión y juegos en la plaza de la Torre del Campanil.](https://fotos.etheriamagazine.com/2019/09/mogarraz-plaza.jpg "Reunión y juegos en la plaza de la Torre del Campanil. ©KR")
 
 ## Ya de paso…
 
@@ -127,7 +127,7 @@ una de las plazas de toros más antiguas de España.
 > Apodada La Ancianita, su coso taurino data del siglo XVII y llama la atención por su 
 > construcción en grandes sillares de piedra. 
 
-![patatas meneas con pimenton, mogarraz, retratos pueblo salamanca](https://fotos.etheriamagazine.com/2019/09/mogarraz-patatas-meneas-900x601.jpg "El pimentón es un ingrediente crucial en las 'patatas meneás'. ©KR")
+![patatas meneas con pimenton, mogarraz, retratos pueblo salamanca](https://fotos.etheriamagazine.com/2019/09/mogarraz-patatas-meneas.jpg "El pimentón es un ingrediente crucial en las 'patatas meneás'. ©KR")
 
 ## Una gastronomía ‘meneá’
 

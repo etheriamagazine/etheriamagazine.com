@@ -13,7 +13,7 @@ lujo a sus escapadas: el Fairmont Tazi Palace, un hotel de cinco estrellas que o
 antiguo palacio y en el que se ha cuidado con mimo cada detalle. Una excelente opción si 
 estás planeando un fin de semana romántico para los próximos meses. 
 
-![Vistas de Tánger desde el Fairmont Tazi Palace.](https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza-850x567.jpg "Terraza con vistas en una de las habitaciones del Fairmont Tazi Palace.")
+![Vistas de Tánger desde el Fairmont Tazi Palace.](https://fotos.etheriamagazine.com/2022/11/Fairmont-Tazi-Palace-Junior-Suite-Terraza.jpg "Terraza con vistas en una de las habitaciones del Fairmont Tazi Palace.")
 
 Tánger es una ciudad perfecta para visitar durante todo el año. Aquí se puede disfrutar 
 de un clima agradable constante y de ese toque exótico que aporta **Marruecos** y al que 
@@ -28,8 +28,9 @@ veinte del pasado siglo para ser la residencia del consejero del rey. Destacan s
 vistas, ya que ofrecen por una parte una bonita panorámica sobre la Ciudad Vieja de 
 Tánger y por otra los bosques que rodean la ciudad. 
 
-? **No te pierdas este artículo:** [Tánger, ¿qué tiene su medina que encandiló a Matisse 
-y a Carmina Ordóñez?](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/) 
+📌 **No te pierdas este artículo:** [Tánger, ¿qué tiene su medina que encandiló a 
+Matisse y a Carmina 
+Ordóñez?](https://etheriamagazine.com/2022/08/16/que-ver-tanger-con-amigas/) 
 
 ![decoración con mármol en el hotel de lujo de Fairmont en Tánger](https://fotos.etheriamagazine.com/2022/11/fairmont-tazi-palace-pasillo.jpg "Uno de los pasillos del Fairmont Tazi Palace.")
 
@@ -122,7 +123,7 @@ fin de semana romántico o con amigas.
 Jamaa Mokrae Quartier Boubana, Tánger, Marruecos. Tel. +05 39 37 89 89. Fotografías 
 cedidas por © Fairmont Hotels & Resort. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Marrakech con amigas, visitas para un fin de semana 
 intenso](https://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/) 

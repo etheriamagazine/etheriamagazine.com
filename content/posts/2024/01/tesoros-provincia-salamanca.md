@@ -85,7 +85,7 @@ Interpretación y un área infantil, la isla también se convierte en un lugar i
 pasear con las mascotas. Si queréis conocer la única localidad con una isla pública 
 debéis dirigiros a **Santa Marta de Tormes**. 
 
-![Isla del Soto, en Salamanca](https://fotos.etheriamagazine.com/2024/01/salamanca-Isla-Soto-850x638.jpg "Isla del Soto.")
+![Isla del Soto, en Salamanca](https://fotos.etheriamagazine.com/2024/01/salamanca-Isla-Soto.jpg "Isla del Soto.")
 
 ## Pozo de los Humos, un sorprendente salto de agua
 

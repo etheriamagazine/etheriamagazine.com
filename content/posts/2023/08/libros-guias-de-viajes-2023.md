@@ -55,7 +55,7 @@ profundizar con otra guía según sea el lugar elegido. Además, la tienes en [K
 menos de 10 euros](https://amzn.to/3OOLSt3) y en papel por unos 26 euros (la edición es 
 muy bonita). 
 
-![Guía de viaje Los grandes viajes de Lonely Planet](https://fotos.etheriamagazine.com/2023/08/grandes-viajes-lonely-780x1024.jpg "Los grandes viajes de Lonely Planet.")
+![Guía de viaje Los grandes viajes de Lonely Planet](https://fotos.etheriamagazine.com/2023/08/grandes-viajes-lonely.jpg "Los grandes viajes de Lonely Planet.")
 
 ## La trilogía de la Patagonia
 
@@ -68,7 +68,7 @@ páginas ya han conquistado a miles de lectores. Lo puedes adquirir en [Kindle p
 de 10 euros](https://amzn.to/3s5N9TI) y [en versión papel por unos 29 
 euros](https://amzn.to/455os8m). 
 
-![Thriller La trilogía de la Patagonia](https://fotos.etheriamagazine.com/2023/08/trilogia-patagonia-683x1024.jpg "La trilogía de la Patagonia.")
+![Thriller La trilogía de la Patagonia](https://fotos.etheriamagazine.com/2023/08/trilogia-patagonia.jpg "La trilogía de la Patagonia.")
 
 ## Animales invisibles
 
@@ -82,7 +82,7 @@ aporta mucho conocimiento tanto de animales extintos como de algunos que resulta
 encontrar. Ideal para todas las edades. En [Amazon lo encontrarás por unos 28 
 euros](https://amzn.to/3Kzd3Wn). 
 
-![Portada del Libro Animales Invisibles](https://fotos.etheriamagazine.com/2023/08/animales-invisibles-700x1024.jpg "Animales Invisibles.")
+![Portada del Libro Animales Invisibles](https://fotos.etheriamagazine.com/2023/08/animales-invisibles.jpg "Animales Invisibles.")
 
 ## La playa de los ahogados
 
@@ -97,7 +97,7 @@ El autor falleció en 2022 con sólo 51 años pero nos dejó también otras gran
 merecen un hueco en tu librería: _Ojos de agua_ y _El último barco._ En [versión Kindle 
 por menos de 10 euros](https://amzn.to/45s0e86). 
 
-![Portada del libro La playa de los ahogados](https://fotos.etheriamagazine.com/2023/08/playa-ahogados-domingo-villar-674x1024.jpg "La playa de los ahogados.")
+![Portada del libro La playa de los ahogados](https://fotos.etheriamagazine.com/2023/08/playa-ahogados-domingo-villar.jpg "La playa de los ahogados.")
 
 ## Últimos días en Berlín
 
@@ -109,7 +109,7 @@ página. Sin duda, te hará reflexionar sobre la resistencia en circunstancias e
 En [versión Kindle por unos 9 euros](https://amzn.to/4570Ct9), también hay edición 
 impresa. 
 
-![Portada del libro Últimos días en Berlín](https://fotos.etheriamagazine.com/2023/08/ultimos-dias-berlin-664x1024.jpg "Últimos días en Berlín.")
+![Portada del libro Últimos días en Berlín](https://fotos.etheriamagazine.com/2023/08/ultimos-dias-berlin.jpg "Últimos días en Berlín.")
 
 ## Guinea
 
@@ -120,7 +120,7 @@ profesiones. Todas esas experiencias le han servido para tejer las emocionantes
 historias que narra en lugares exóticos. Si te enganchas a su prosa, además de [Guinea](https://amzn.to/3qlguJv) 
 cuenta con una decena más de novelas. Consulta en Amazon o en librerías. 
 
-![Portada del libro Guinea](https://fotos.etheriamagazine.com/2023/08/guinea-libro-gamboa-683x1024.jpg "Guinea.")
+![Portada del libro Guinea](https://fotos.etheriamagazine.com/2023/08/guinea-libro-gamboa.jpg "Guinea.")
 
 ## Manual para viajar a Japón y no morir en el intento
 
@@ -147,7 +147,7 @@ compartir sus impresiones en diez cartas mientras la ilustradora Patricia Bolañ
 la nota visual a su relato. Un bonito regalo para los enamorados de Estados Unidos. En [Amazon 
 sale por unos 28 euros](https://amzn.to/3KEwf5b). 
 
-![Cartas desde Massachusetts.](https://fotos.etheriamagazine.com/2023/08/cartas-massachusetts-659x1024.jpg "Cartas desde Massachusetts.")
+![Cartas desde Massachusetts.](https://fotos.etheriamagazine.com/2023/08/cartas-massachusetts.jpg "Cartas desde Massachusetts.")
 
 **Recomendaciones de las lectoras...** 
 

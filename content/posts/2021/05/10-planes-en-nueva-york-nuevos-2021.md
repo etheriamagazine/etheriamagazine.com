@@ -84,7 +84,7 @@ se inaugura su primera tienda oficial, Harry Potter Nueva York, en el distrito F
 Allí encontrarás la mayor selección del mundo de productos de _Harry Potter y Animales 
 Fantásticos_, además de 15 áreas temáticas, exposiciones interactivas y fotografías. 
 
-![restaurantes planes en nueva york](https://fotos.etheriamagazine.com/2021/05/nuevo-restaurante-nueva-york-683x1024.jpg "En Nueva York puedes encontrar todo tipo de gastronomía. © Mgg Vitchakorn")
+![restaurantes planes en nueva york](https://fotos.etheriamagazine.com/2021/05/nuevo-restaurante-nueva-york.jpg "En Nueva York puedes encontrar todo tipo de gastronomía. © Mgg Vitchakorn")
 
 ## 6\. Disfruta en la mesa
 

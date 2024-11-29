@@ -35,7 +35,7 @@ trazan el _skyline_ de la ciudad. Lo mejor es hacer la visita al atardecer porqu
 descubrirás iluminados los monumentos emblemáticos de Sevilla y podrás hartarte de hacer 
 fotos con la luz más apropiada. 
 
-? **Más propuestas divertidas:** 
+📍 **Más propuestas divertidas:** 
 
 • [Free tour en 
 Sevilla](https://www.civitatis.com/es/sevilla/visita-guiada-sevilla/?aid=10211) de dos 
@@ -157,7 +157,7 @@ de autobuses que en poco más de una hora te llevan hasta destinos como Conil de
 Frontera, Vejer, Barbate, etc. Si te decides a hacer alguna excursión no dejes de 
 consultar esta guía: 
 
-?[](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/)[La mejor guía de 
+📍[](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/)[La mejor guía de 
 Cádiz provincia para organizar tu 
 viaje](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/). 
 

@@ -31,7 +31,7 @@ pueden mojar en chocolate o café). Los ingredientes son sencillos y responden a
 productos que tradicionalmente se encontraban en Baleares: almendras, cítricos, harina 
 de cereales... Toma buena nota. 
 
-![amasando coca de anis](https://fotos.etheriamagazine.com/2021/11/lluis-perez-coca-bamba-682x1024.jpg "Lluís Pérez amasando la coca de anís. © Etheria Mag.")
+![amasando coca de anis](https://fotos.etheriamagazine.com/2021/11/lluis-perez-coca-bamba.jpg "Lluís Pérez amasando la coca de anís. © Etheria Mag.")
 
 ## Recetas de dulces y "quemullars" de Palma
 

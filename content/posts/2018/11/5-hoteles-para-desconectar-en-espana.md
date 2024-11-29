@@ -15,7 +15,7 @@ Cualquier momento del año es bueno para buscar unos momentos de relax y descone
 Para ello, no hace falta irse a tierras lejanas y en este artículo te presentamos 5 
 hoteles para desconectar perfectos para retirarte a descansar y coger fuerzas. 
 
-![Terraza de una habitación del hotel Bahía del Duque.](https://fotos.etheriamagazine.com/2019/01/hotel-bahia-del-duque-habitacion-1024x683.jpg "Terraza de una habitación del hotel © Bahía del Duque.")
+![Terraza de una habitación del hotel Bahía del Duque.](https://fotos.etheriamagazine.com/2019/01/hotel-bahia-del-duque-habitacion.jpg "Terraza de una habitación del hotel © Bahía del Duque.")
 
 Hay momentos durante el año en los que de repente te das cuenta de que necesitas un 
 respiro. Viajar siempre es una opción excelente para romper las rutinas, y no siempre 
@@ -36,12 +36,12 @@ de vida urbano. Fue galardonado con el premio al ‘Mejor Alojamiento Enoturíst
 IV edición de los Premios [Rutas del Vino de 
 España](https://www.wineroutesofspain.com/). 
 
-![Claustro del Castillo Termal Monasterio de Valbuena](https://fotos.etheriamagazine.com/2018/09/monasterio-valbuena-claustro-1-1024x681.jpg "Claustro del © Castillo Termal Monasterio de Valbuena.")
+![Claustro del Castillo Termal Monasterio de Valbuena](https://fotos.etheriamagazine.com/2018/09/monasterio-valbuena-claustro-1.jpg "Claustro del © Castillo Termal Monasterio de Valbuena.")
 
 ✅ No te pierdas el artículo [Escapada para chicas en el Castillo Termal Monasterio de 
 Valbuena](https://etheriamagazine.com/2018/09/06/escapada-para-chicas-en-castilla-termal-monasterio-de-valbuena/). 
 
-? Más información en: [Castilla Termal Monasterio de 
+📍 Más información en: [Castilla Termal Monasterio de 
 Valbuena](https://www.castillatermal.com/hoteles/monasterio-de-valbuena/). 
 
 ## 2\. Hotel Bahía del Duque (Tenerife)
@@ -54,12 +54,12 @@ que incluye el delicioso espacio del Thai Room Plaza, especializado en terapias
 asiáticas. Idóneo para disfrutar de unos días en pareja o en familia en cualquier 
 momento del año, pero sobre todo en los duros inviernos peninsulares. 
 
-![piscina del spa del hotel Bahía del Duque](https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque-1024x668.jpg "Bahía Wellness Retreat del hotel © Bahía del Duque.")
+![piscina del spa del hotel Bahía del Duque](https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque.jpg "Bahía Wellness Retreat del hotel © Bahía del Duque.")
 
 ✅ No te pierdas el artículo [Hotel Bahía del Duque, desconexión en 
 Tenerife](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/). 
 
-? Más información en: [hotel Bahía del 
+📍 Más información en: [hotel Bahía del 
 Duque](https://thetaishotels.com/bahia-del-duque/es/). 
 
 ## 3\. Barceló Monasterio de Boltaña (Huesca)
@@ -71,12 +71,12 @@ invierno, sobre todo del esquí de fondo, o visitar las poblaciones cercanas, co
 Boltaña, Aínsa, Torla o Broto. Cuenta con un precioso spa con vistas al río Ara donde 
 desconectar en su circuito termal o con uno de sus masajes. 
 
-![pasillo del hotel Barceló Monasterio de Boltaña](https://fotos.etheriamagazine.com/2018/11/Barcelo-Boltana-1024x683.jpg "Rincón del hotel © Barceló Monasterio de Boltaña.")
+![pasillo del hotel Barceló Monasterio de Boltaña](https://fotos.etheriamagazine.com/2018/11/Barcelo-Boltana.jpg "Rincón del hotel © Barceló Monasterio de Boltaña.")
 
 ✅ No te pierdas el artículo [Barceló Monasterio de Boltaña, un hotel para 
 desconectar](https://etheriamagazine.com/2018/04/13/barcelo-monasterio-de-boltana-un-hotel-de-pelicula-en-huesca/). 
 
-? Más información en: [Barceló Monasterio de 
+📍 Más información en: [Barceló Monasterio de 
 Boltaña](https://www.barcelo.com/es/barcelo-hotels/hoteles/espana/huesca/barcelo-monasterio-de-boltana/). 
 
 ## 4\. Sport Hotel Hermitage & Spa (Andorra)
@@ -90,13 +90,13 @@ Spa**, es espectacular (sobre todo su zona al aire libre que también se puede d
 en invierno). No olvides que también disfrutarás con la calidad de su cocina en varios 
 restaurantes dirigidos por chefs con Estrella Michelin. 
 
-![Piscina exterior del spa del hotel Sport Hotel Hermitage & Spa durante el invierno](https://fotos.etheriamagazine.com/2018/10/hermitage-spa-invierno-1024x659.jpg "Piscina exterior del spa del © Sport Hotel Hermitage & Spa durante el invierno.")
+![Piscina exterior del spa del hotel Sport Hotel Hermitage & Spa durante el invierno](https://fotos.etheriamagazine.com/2018/10/hermitage-spa-invierno.jpg "Piscina exterior del spa del © Sport Hotel Hermitage & Spa durante el invierno.")
 
 ✅ No te pierdas el artículo [Sport Hotel Hermitage & Spa o cómo disfrutar del esquí a 
 otro 
 nivel](https://etheriamagazine.com/2018/11/01/sport-hotel-hermitage-spa-esquiar-en-andorra/). 
 
-? Más información en: [Sport Hotel Hermitage & 
+📍 Más información en: [Sport Hotel Hermitage & 
 Spa](https://www.hotelhermitage.sporthotels.ad). 
 
 ## 5\. Parador de Cangas de Onís (Asturias)
@@ -108,15 +108,15 @@ donde dedicarse a la lectura o, simplemente, donde deleitarse contemplando la
 arquitectura del claustro. Y seguro que la cocina de Azucena Sánchez en el restaurante 
 Especia te devuelve a la vida con sus guisos asturianos. 
 
-![parador cangas de onis, biblioteca parador, viaje asturias](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-primera-planta-1024x683.jpg "Parador de Cangas de Onís (Asturias).")
+![parador cangas de onis, biblioteca parador, viaje asturias](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-primera-planta.jpg "Parador de Cangas de Onís (Asturias).")
 
 ✅ No te pierdas el artículo [Parador de Cangas de Onis, un hotel digno de 
 reyes](https://etheriamagazine.com/2018/10/14/parador-de-cangas-de-onis-hotel-lujo-asturias/). 
 
-? Más información en: [Parador de Cangas de 
+📍 Más información en: [Parador de Cangas de 
 Onís](https://www.parador.es/es/paradores/parador-de-cangas-de-onis?utm_source=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordecangasdeonis&utm_term=organico&utm_content=ficha). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Hoteles románticos en España, ni muy caros ni muy 
 baratos](https://etheriamagazine.com/2023/02/06/hoteles-romanticos-espana-precio-medio/) 

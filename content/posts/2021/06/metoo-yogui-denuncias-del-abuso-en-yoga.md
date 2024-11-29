@@ -162,7 +162,7 @@ ahora. “Con frecuencia el ambiente no era todo lo espiritual que uno esperaba�
 confiesa. Gopala, profesor de yoga Sivananda, va más allá: “no hay escuela de yoga en 
 que no haya habido ningún caso de denuncias en los orígenes”. 
 
-![metoo yogui y buenas practicas yoga](https://fotos.etheriamagazine.com/2021/06/abusos-yoga-683x1024.jpg "En el mundo del yoga predominan las buenas prácticas. © Rima Kruciene")
+![metoo yogui y buenas practicas yoga](https://fotos.etheriamagazine.com/2021/06/abusos-yoga.jpg "En el mundo del yoga predominan las buenas prácticas. © Rima Kruciene")
 
 ## “En el mundo del yoga predomina lo bueno”
 

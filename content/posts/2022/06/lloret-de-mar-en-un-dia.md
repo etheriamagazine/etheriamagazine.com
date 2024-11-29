@@ -40,7 +40,7 @@ escalinatas. Descubrir paseando este laberinto interno salpicado de fuentes, esc
 e, incluso, un lago es uno de los placeres que puedes experimentar si visitas Lloret de 
 Mar en un día. 
 
-?¿Dónde están los Jardines de Santa Clotilde? Entre la cala Boadella y la playa de 
+📌¿Dónde están los Jardines de Santa Clotilde? Entre la cala Boadella y la playa de 
 Fenals. 
 
 ![Bonitos jardines de Santa Clotilde, una visita básica para conocer Lloret de Mar en un día](https://fotos.etheriamagazine.com/2022/06/Jardines-Santa-Clotilde.jpg "Bonitos jardines de Santa Clotilde. © OT Lloret de Mar")
@@ -56,11 +56,11 @@ modernistas, comenzando por la preciosa puerta de entrada. Hoy día funciona com
 **casa-museo** que se puede visitar para conocer elementos comunes en este tipo de 
 edificaciones. 
 
-? Para conocer la historia de los indianos puedes acercarte al **Museo del Mar**, 
+📌 Para conocer la historia de los indianos puedes acercarte al **Museo del Mar**, 
 también ubicado en el casco antiguo, o apuntarte a las visitas guiadas que organiza la 
 oficina de turismo de Lloret. 
 
-![Casa de Font, una residencia de indianos en Lloret de Mar.](https://fotos.etheriamagazine.com/2022/06/lloret-mar-Can-Font-676x1024.jpg "Casa de Font, una residencia de indianos de la localidad. © OT Lloret de Mar")
+![Casa de Font, una residencia de indianos en Lloret de Mar.](https://fotos.etheriamagazine.com/2022/06/lloret-mar-Can-Font.jpg "Casa de Font, una residencia de indianos de la localidad. © OT Lloret de Mar")
 
 ### 3\. Recorrer el Camino de Ronda de Lloret de Mar
 
@@ -90,7 +90,7 @@ la web European Best Destination).
 
 ![Playa de arena dorada de Lloret de Mar.](https://fotos.etheriamagazine.com/2022/06/Playa-Lloret-mar.jpg "Playa de arena dorada de Lloret de Mar.")
 
-? Si vas con niños apunta estas propuestas: Parque acuático Water World, los mini club 
+📌 Si vas con niños apunta estas propuestas: Parque acuático Water World, los mini club 
 de la playa de Lloret y Fenals o apuntarles a una yincana en los jardines de Santa 
 Clotilde. 
 
@@ -105,7 +105,7 @@ al mismo haciendo el camino de ronda que comienza en Sa Caleta y sigue direcció
 Este año 2022 abrirá sus puertas tras una remodelación que ha adaptado sus instalaciones 
 para acoger un museo privado sobre la sostenibilidad. Estamos deseando conocerlo. 
 
-? Si te gusta la historia no dejes de visitar también el **castillo de Sant Joan**, una 
+📌 Si te gusta la historia no dejes de visitar también el **castillo de Sant Joan**, una 
 torre medieval del siglo XI que brinda bonitas panorámicas desde su ubicación sobre los 
 acantilados. 
 

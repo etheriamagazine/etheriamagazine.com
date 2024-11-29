@@ -74,7 +74,7 @@ responsables del montaje todo ese deseo de modernidad ocultaba “una idiosincra
 patria, chusquera, mentirosa, donde la picaresca y la horterez del nuevo rico brillaban 
 por doquier”. 
 
-![Bibiana Fernandez en la gran tourne madrid](https://fotos.etheriamagazine.com/2020/11/la-ultima-tourne-bibiana-fernandez-683x1024.jpg "Bibiana Fernández en 'La gran tourné'.")
+![Bibiana Fernandez en la gran tourne madrid](https://fotos.etheriamagazine.com/2020/11/la-ultima-tourne-bibiana-fernandez.jpg "Bibiana Fernández en 'La gran tourné'.")
 
 Hay un punto de melancolía en “La última tourné”, pero también hay muchas risas. El 
 personaje que interpreta **Mario Vaquerizo** se presenta como Enzo Marini, un coreógrafo 

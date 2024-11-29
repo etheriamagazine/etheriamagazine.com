@@ -30,7 +30,7 @@ divertidos **planes familiares en Getxo** donde el estrés y la rutina estén pr
 no os perdáis las siguientes recomendaciones porque las hay para todos los gustos y 
 edades. 
 
-![Paseo en bicicleta en Getxo.](https://fotos.etheriamagazine.com/2023/05/ruta-bicicleta-getxo-619x1024.jpg "Paseo en bicicleta en Getxo.")
+![Paseo en bicicleta en Getxo.](https://fotos.etheriamagazine.com/2023/05/ruta-bicicleta-getxo.jpg "Paseo en bicicleta en Getxo.")
 
 ## ✅ Visitas esenciales en Getxo
 
@@ -55,7 +55,7 @@ impresionantes vistas.
 
 ![Barquilla colgante del Puente Bizkaia de Getxo](https://fotos.etheriamagazine.com/2023/05/getxo-Puente-Bizkaia.jpg "Barquilla colgante del Puente Bizkaia.")
 
-? Los más tranquilos pueden optar por cruzar la ría a bordo del **gasolino**, un 
+📌 Los más tranquilos pueden optar por cruzar la ría a bordo del **gasolino**, un 
 pintoresco barco que por 0,50 € –y en apenas unos minutos– conecta con la orilla de 
 Portugalete. Cuando lleguéis al centro de la ría podréis **conseguir la mejor foto del 
 puente**. Si lleváis mascota, también es bienvenida a bordo. 
@@ -84,7 +84,7 @@ gratuitos que ofrece se encuentra una yincana autoguiada. Juegos y actividades q
 harán conocer a fondo el humedal y a habitantes tan singulares como las mariposas que 
 revolotean en las riberas. 
 
-**? No dejéis de consultar la** [agenda 
+**📌 No dejéis de consultar la** [agenda 
 mensual](http://www.ingurumenaretoagetxo.eus/ver-todas-las-actividades/) donde se 
 incluye: caminar a ciegas por la naturaleza, hacer juguetes de reciclaje, crear tu 
 propio florero y hasta que tu bebé dé sus primeros pasos en el campo. Reservad con 
@@ -276,7 +276,7 @@ lado más abierto al mar junto a la playa de Gorrondatxe/Aizkorri. Disponen de b
 eléctricas e infantiles, triciclos y bicis familiares. Toda una oferta para que el viaje 
 sea mucho más eco y sostenible. 
 
-![Bicicleta en la playa de Las Arenas de Getxo](https://fotos.etheriamagazine.com/2023/05/bici-getxo-660x1024.jpg "Entre los planes familiares en Getxo se encuentran las rutas en bicicleta.")
+![Bicicleta en la playa de Las Arenas de Getxo](https://fotos.etheriamagazine.com/2023/05/bici-getxo.jpg "Entre los planes familiares en Getxo se encuentran las rutas en bicicleta.")
 
 ### 13\. Caminatas con misterios
 
@@ -288,7 +288,7 @@ enigmas](https://www.getxo.eus/es/turismo/que-hacer/getxo-magicfly), en Getxo te
 reto “MagicFly Experience” para darle a la imaginación. Todo empieza leyendo un código 
 QR y el resto es ponerse a caminar e investigar. 
 
-? Si queréis conocer el Getxo más señorial hay que caminar (2,5 kilómetros) por los 
+📌 Si queréis conocer el Getxo más señorial hay que caminar (2,5 kilómetros) por los 
 **muelles de Las Arenas y Arriluze** y fijarse en los paneles que señalan las grandes 
 villas de aquellos primeros veraneantes que venían a tomar baños de mar. 
 
@@ -352,12 +352,12 @@ cambiadores en los baños, tronas, vajilla y raciones infantiles. En algunos, co
 La Ola,](https://www.laolagetxo.com/) situado frente a la **playa de Ereaga**, incluso 
 aceptan mascotas. 
 
-? Combinad las actividades familiares con una comida en el restaurante [](https://fangalokastyle.com/)[Fangaloka 
+📌 Combinad las actividades familiares con una comida en el restaurante [](https://fangalokastyle.com/)[Fangaloka 
 Style](https://fangalokastyle.com/). Apenas a 500 metros de la **playa de 
 Gorrondatxe/Azkorri**, os esperan sus mesas distribuidas para acomodar grupos y con área 
 de juegos. 
 
-? Saborear el placer del buen comer, al estilo vasco, también es posible en familia, 
+📌 Saborear el placer del buen comer, al estilo vasco, también es posible en familia, 
 basta con visitar los restaurantes del [Club Euskadi 
 Gastronomika.](https://www.getxo.eus/es/turismo/que-hacer/euskadi-gastronomika) 
 
@@ -368,7 +368,7 @@ saciar el apetito de toda la familia. A pequeños bocados y con la esencia de la
 gastronomía vasca harán que todos los miembros del grupo se enamoren de los alimentos de 
 proximidad, frescos y con elaboraciones tradicionales o creativas. 
 
-![pintxo y caracolillos de Getxo](https://fotos.etheriamagazine.com/2023/03/pintxo-getxo-683x1024.jpg "Un pintxo para saborear la buena vida de Getxo.")
+![pintxo y caracolillos de Getxo](https://fotos.etheriamagazine.com/2023/03/pintxo-getxo.jpg "Un pintxo para saborear la buena vida de Getxo.")
 
 ### 21\. Tomar un helado o un pastel
 
@@ -399,11 +399,11 @@ barreras de seguridad para las camas... Tampoco pondrán pega al entrar al resta
 solicitar un menú y espacio infantil. Y en sus jardines gozan de un área segura de 
 recreo. 
 
-? Si preferís estar a vuestro aire para dormir y comer, los apartamentos turísticos son 
+📌 Si preferís estar a vuestro aire para dormir y comer, los apartamentos turísticos son 
 el destino perfecto. A un paso del **Puente Bizkaia**, se encuentran los [apartamentos 
 Kai.](https://www.apartamentoskai.es/) 
 
-? Junto a la **playa de Ereaga,** el [hotel Petit Palace 
+📌 Junto a la **playa de Ereaga,** el [hotel Petit Palace 
 Tamarises](https://www.petitpalacetamarises.com/es/) ofrece habitaciones para cuatro 
 personas con literas y apartamentos que aceptan incluso mascotas. 
 

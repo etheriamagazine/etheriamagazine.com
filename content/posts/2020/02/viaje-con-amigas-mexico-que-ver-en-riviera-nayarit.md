@@ -13,7 +13,7 @@ authors:
 
 La costa del Pacífico de Riviera Nayarit ofrece un tipo de exclusividad que no está basada en el lujo material sino en vivencias y entornos únicos. Descubre sus playas vírgenes recortadas por cerros selváticos y con olas que invitan a surfear, misteriosos manglares, comidas bajo palapas con vistas al mar y pueblos mágicos, que oscilan entre la elegancia y la bohemia. Acompáñanos a este México tan especial con tus mejores amigas y pásalo “padrísimo”.
 
-![Planeta Cacao en Riviera Nayarit](https://fotos.etheriamagazine.com/2020/02/riviera-nayarit-900x601.jpg "Mina Ibarra y Laura Aguilar, de Planeta Cacao.")
+![Planeta Cacao en Riviera Nayarit](https://fotos.etheriamagazine.com/2020/02/riviera-nayarit.jpg "Mina Ibarra y Laura Aguilar, de Planeta Cacao.")
 
 ## 1\. La ruta clara y el cacao amargo
 
@@ -29,7 +29,7 @@ sus propios árboles, extraen semillas de cacao y elaboran chocolate con sus vis
 No dudes de que te contagiarán el amor por un alimento tan valioso, que los mayas 
 servían en vasijas de oro, y que llegó a ser moneda de cambio. 
 
-![Playa Escondida, Islas Marietas](https://fotos.etheriamagazine.com/2020/02/islas-marietas-mexico-900x542.jpg "Playa Escondida, en Islas Marietas.")
+![Playa Escondida, Islas Marietas](https://fotos.etheriamagazine.com/2020/02/islas-marietas-mexico.jpg "Playa Escondida, en Islas Marietas.")
 
 ## 2\. La playa más secreta, en islas Marietas
 
@@ -48,7 +48,7 @@ las islas Larga y Redonda, y sus valiosos arrecifes. Son frecuentadas por las ba
 jorobadas en invierno y por colonias de aves marinas, una de ellas el pájaro bobo de 
 patas azules que nos observa cuando pasamos bajo los cantiles. 
 
-![Sayulita, en Riviera Nayarit](https://fotos.etheriamagazine.com/2020/02/sayulita-691x1024.jpg "Sayulita, en Riviera Nayarit.")
+![Sayulita, en Riviera Nayarit](https://fotos.etheriamagazine.com/2020/02/sayulita.jpg "Sayulita, en Riviera Nayarit.")
 
 ## 3\. Sayulita, bajo los Ojos de Dios
 
@@ -64,7 +64,7 @@ comienza, y colgarlo de sus calles. Las ganas de caminar bajo la protección de 
 dioses por Sayulita, un pueblo mágico de México por su colorista ambiente, son 
 inmediatas. 
 
-![Sara Kaminshine, directora de la fundacion Entreamigos](https://fotos.etheriamagazine.com/2020/02/Sara-Kaminshine-don-pancho-900x601.jpg "Sara Kaminshine, directora de la fundación Entreamigos.")
+![Sara Kaminshine, directora de la fundacion Entreamigos](https://fotos.etheriamagazine.com/2020/02/Sara-Kaminshine-don-pancho.jpg "Sara Kaminshine, directora de la fundación Entreamigos.")
 
 ## 4\. Una comunidad con estrella, San Pancho
 
@@ -84,7 +84,7 @@ Entreamigos**. En las bodegas de una vieja fábrica de lácteos iniciaron su com
 social que ha convertido a San Pancho en el **primer destino cultural playero de 
 México**. 
 
-![erik saracho, alianza jaguar](https://fotos.etheriamagazine.com/2020/02/Erik-Saracho-alianza-jaguar-900x607.jpg "Erik Saracho, de Alianza Jaguar.")
+![erik saracho, alianza jaguar](https://fotos.etheriamagazine.com/2020/02/Erik-Saracho-alianza-jaguar.jpg "Erik Saracho, de Alianza Jaguar.")
 
 ## 5\. El amigo de los jaguares
 
@@ -97,7 +97,7 @@ su bandera al mando de esta asociación que busca implicar al mundo rural en la
 en la Reserva de la Biosfera Sierra de Vallejo, que llega hasta San Pancho, apuntan que 
 esos 22 años de trabajo comunitario han ayudado al mayor felino de las selvas mexicanas. 
 
-![galeria tanana, riviera nayarit](https://fotos.etheriamagazine.com/2020/02/Galeria-Tanana-riviera-nayarit-900x677.jpg "Galería Tanana.")
+![galeria tanana, riviera nayarit](https://fotos.etheriamagazine.com/2020/02/Galeria-Tanana-riviera-nayarit.jpg "Galería Tanana.")
 
 ## 6\. Mirada huichol, viaje de color
 
@@ -110,7 +110,7 @@ trabajo de estambre y cuentas de vidrio, o los trajes tradicionales masculinos b
 pero decorados alegremente con diseños simétricos mientras entras a un más allá de 
 creencias animistas y saberes ancestrales. 
 
-![Ecohotel Maraica, en Riviera Nayarit](https://fotos.etheriamagazine.com/2020/02/ecohotel-maraica-riviera-nayarit-900x600.jpg "Ecohotel Maraica, en Riviera Nayarit.")
+![Ecohotel Maraica, en Riviera Nayarit](https://fotos.etheriamagazine.com/2020/02/ecohotel-maraica-riviera-nayarit.jpg "Ecohotel Maraica, en Riviera Nayarit.")
 
 ## 7\. Ecología del Pacífico al dormir
 
@@ -126,7 +126,7 @@ reciclados de su construcción o el concienzudo aprovechamiento del agua y sus p
 solares, además de su maravillosa comida que te roba cualquier asomo de cansancio o mal 
 humor. 
 
-![Costa de Riviera Nayari](https://fotos.etheriamagazine.com/2020/02/miradores-pacifico-riviera-nayarit-775x1024.jpg "Costa de Riviera Nayarit.")
+![Costa de Riviera Nayari](https://fotos.etheriamagazine.com/2020/02/miradores-pacifico-riviera-nayarit.jpg "Costa de Riviera Nayarit.")
 
 ## 8\. Miradores al Pacífico para ti
 
@@ -141,7 +141,7 @@ donde hacerte salir de la selva para tener una visión de vértigo sobre el océ
 abarcar kilómetros de playas solitarias solo para ti frente a las que soplan las 
 ballenas jorobadas. 
 
-![Parque Nacional La Tovara](https://fotos.etheriamagazine.com/2020/02/parque-nacional-la-tovara-900x307.jpg "Parque Nacional La Tovara.")
+![Parque Nacional La Tovara](https://fotos.etheriamagazine.com/2020/02/parque-nacional-la-tovara.jpg "Parque Nacional La Tovara.")
 
 ## 9\. En el reino de las aves, La Tovara
 
@@ -156,7 +156,7 @@ acompañada de **Francisco García**, uno de los mejores ornitólogos del lugar.
 surfista hace más de una década y acabó convertido en experto guía ornitológico al 
 frente de [Safari San Blas](https://es-la.facebook.com/Safarisanblas/). 
 
-![chef Betty Vazquez](https://fotos.etheriamagazine.com/2020/02/betty-vazquez-riviera-nayarit-734x1024.jpg "La chef Betty Vázquez está al frente del restaurante El Delfín.")
+![chef Betty Vazquez](https://fotos.etheriamagazine.com/2020/02/betty-vazquez-riviera-nayarit.jpg "La chef Betty Vázquez está al frente del restaurante El Delfín.")
 
 ## 10\. La maga de los pucheros mexicanos
 

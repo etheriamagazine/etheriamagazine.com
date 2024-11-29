@@ -62,7 +62,7 @@ o de una sabrosa e instructiva cata de quesos de la mano de Neus y Guillem, art�
 **Som Formatgers**, un original proyecto que pone en valor la labor de las queserías de 
 la zona y promueve el consumo de quesos catalanes de calidad. 
 
-![Eugenia de Mas Generos., en la Costa Brava](https://fotos.etheriamagazine.com/2023/12/Eugenia-Mas-Generos-850x567.jpg "Eugenia, propietaria de Mas Generós. © Yolanda Cardo")
+![Eugenia de Mas Generos., en la Costa Brava](https://fotos.etheriamagazine.com/2023/12/Eugenia-Mas-Generos.jpg "Eugenia, propietaria de Mas Generós. © Yolanda Cardo")
 
 ## Mas Generós, experiencias transformadoras y el paisaje en el plato
 

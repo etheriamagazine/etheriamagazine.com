@@ -78,7 +78,7 @@ en carnes y pescados locales que provienen de una red de pequeños productores. 
 ‘Street Food’, que ofrece una cocina ligera con pescados a la parrilla, mariscos, cuscús 
 vegetariano… 
 
-![gastronomía en La Sultana](https://fotos.etheriamagazine.com/2019/02/La-Sultana-gastro-1024x765.jpg "La gastronomía del hotel es un aliciente más para alojarse en él.")
+![gastronomía en La Sultana](https://fotos.etheriamagazine.com/2019/02/La-Sultana-gastro.jpg "La gastronomía del hotel es un aliciente más para alojarse en él.")
 
 **La Table de La Sultana** es el restaurante que abre para las cenas más delicadas y 
 románticas, que se celebran también en la terraza en verano (en invierno en el patio), y 
@@ -110,7 +110,7 @@ Marrakech. Pertenece a Small Luxury Hotels of the World.
 
 Fotografías cedidas por La Sultana Marrakech. 
 
-? **También te puede interesar:** 
+📍 **También te puede interesar:** 
 
 [Marrakech con amigas, visitas para un fin de semana 
 intenso](https://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/) 

@@ -269,7 +269,7 @@ relacionados con la naturaleza del Parque Natural.
 Consulta toda la información turística, actualizada y oficial en [Turismo de 
 Zamora](https://www.turismoenzamora.es/). 
 
-? **Sigue leyendo en Etheria Magazine...** 
+📌 **Sigue leyendo en Etheria Magazine...** 
 
 [De tapinas por León: el secreto mejor guardado de la capital del Santo 
 Grial](https://etheriamagazine.com/2021/09/09/ruta-para-comer-bien-en-leon-capital/).

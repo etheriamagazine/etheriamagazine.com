@@ -222,7 +222,7 @@ sola mañana a esta sala.
 
 ### ¿Cuánto cuestan las entradas y dónde comprarlas?
 
-La entrada general cuesta **17 Euros** (gratis para menores de 18 años y menores de 26 
+La entrada general cuesta **22 Euros** (gratis para menores de 18 años y menores de 26 
 años residentes en el Espacio Económico Europeo). Es gratis el primer viernes de cada 
 mes a partir de las 18 h (excepto en julio y agosto) y el 14 de julio (Fiesta Nacional 
 Francesa). Lo mejor para evitar largas filas es comprar las entradas online a través de 
@@ -231,8 +231,9 @@ se va sin entrada. Si vas con guía turístico no tendrás que esperar.
 
 ### ¿Qué horario tiene el Museo del Louvre?
 
-El museo abre de 9 a 18 h, excepto los viernes que permanece abierto hasta las 21.45 h. 
-Cierra los martes. 
+El museo abre de 9 a 18 h (lunes, jueves, sábado y domingo). De 9 a 21 horas (miércoles 
+y viernes). Cierra los martes. La última admisión es 1 horas antes del cierre. Se 
+desalojan las salas 30 minutos antes del cierre. 
 
 ### ¿Cómo recorrer el museo?
 
@@ -248,7 +249,7 @@ horas de duración.
 
 ### ¿Se puede alquilar una audioguía?
 
-Sí, se pagan en la taquilla y se recogen en la planta -1. Son Nintendo DS XL y cuestan 5 
+Sí, se pagan en la taquilla y se recogen en la planta -1. Son Nintendo DS XL y cuestan 6 
 Euros. 
 
 ### ¿Qué otras obras puedo incluir en la visita?
@@ -264,7 +265,7 @@ infinita.
 En la web del museo, [Museo del Louvre](https://www.louvre.fr/es), encontrarás toda la 
 información que precisas para preparar tu visita a esta pinacoteca a fondo. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [París con amigas, diez planes para una escapada 
 perfecta](https://etheriamagazine.com/2023/06/16/planes-paris-con-amigas/) 

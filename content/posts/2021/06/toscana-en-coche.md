@@ -85,7 +85,7 @@ su **cripta**, recientemente descubiertos y que se pueden visitar. Imprescindibl
 > detenerse en lugares como la Loggia della Mercanzia, del siglo XIII, o el Palazzo 
 > Tolomei es obligatorio.. 
 
-![Toscana en coche plaza Siena Palio](https://fotos.etheriamagazine.com/2018/05/TOSCANA-SIENA-PIAZZA-DEI-CAMPO-1024x683.jpg "Piazza dei Campo, Siena. © SG")
+![Toscana en coche plaza Siena Palio](https://fotos.etheriamagazine.com/2018/05/TOSCANA-SIENA-PIAZZA-DEI-CAMPO.jpg "Piazza dei Campo, Siena. © SG")
 
 ## Volterra, San Gimignano y Monteriggioni
 

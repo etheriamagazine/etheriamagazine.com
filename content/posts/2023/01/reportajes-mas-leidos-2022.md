@@ -79,7 +79,7 @@ llenos de vanguardia. Este artículo es una auténtica guía que va desde los re
 de toda la vida hasta los más nuevos, pasando por bares de tapas, locales donde 
 desayunar de diez y pastelerías. Y os aseguramos que lo conocemos muy bien. 
 
-![pescado frito en la Venta Pericón](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-venta-pericon-conil-850x562.jpg "Fritura de la Venta Pericón, en Conil. © Pepa García")
+![pescado frito en la Venta Pericón](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-venta-pericon-conil.jpg "Fritura de la Venta Pericón, en Conil. © Pepa García")
 
 ✅ [Dónde comer bien en Conil de la Frontera, bares y restaurantes 
 recomendados](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-frontera/) 
@@ -94,7 +94,7 @@ la Torre de Guzmán el Bueno, el Barrio de los Pescadores, las plazas de España
 Villa y La Chanca. Y otros lugares perfectos para un paseo son el puerto pesquero, los 
 alrededores de la torre de Castilnovo y la ruta por los miradores. 
 
-![estatua en la plaza de españa de Conil con la puerta de la villa al fondo](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-plaza-espana-conil-850x638.jpg "Plaza de España de Conil. © Pepa García")
+![estatua en la plaza de españa de Conil con la puerta de la villa al fondo](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-plaza-espana-conil.jpg "Plaza de España de Conil. © Pepa García")
 
 ✅ [15 visitas que hacer en Conil y ninguna es una 
 playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/) 
@@ -108,7 +108,7 @@ con los itinerarios guiados y libres y una ruta por el pueblo de Aitona. Todo ap
 con las bonitas fotos de Juan Carlos Muñoz. Además, nos cuenta otros imprescindibles de 
 la zona por si queremos completar el viaje o visitamos la zona en otra época del año. 
 
-![Flores de los melocotoneros de Aitona.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-Fruiturismo-lleida-850x567.jpg "Flores de los melocotoneros de Aitona.")
+![Flores de los melocotoneros de Aitona.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-Fruiturismo-lleida.jpg "Flores de los melocotoneros de Aitona.")
 
 ✅ [Aitona en flor, un anuncio ‘rosa’ a las afueras de 
 Lleida](https://etheriamagazine.com/2022/02/24/viaje-floracion-melocotoneros-aitona-lleida/) 
@@ -124,7 +124,7 @@ Martinica, Mongolia… Hay viajes culturales y otros que incluyen playas poco co
 para descansar después del ajetreo de la boda. El mundo es muy diverso para tener que 
 ceñirse siempre a lo convencional. 
 
-![pareja descansando en la montaña](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-viajes-novios-originales-pareja-850x567.jpg "No renuncies a tu luna de miel soñada.")
+![pareja descansando en la montaña](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-viajes-novios-originales-pareja.jpg "No renuncies a tu luna de miel soñada.")
 
 ✅ [10 viajes de novios originales para huir de lo 
 convencional](https://etheriamagazine.com/2022/02/09/viajes-de-novios-originales-2022/) 
@@ -139,7 +139,7 @@ colaboradora que además de viajar sola por el mundo es experta en gastronomía 
 enología. Su selección incluye referencias concretas de restaurantes fuera del 
 ‘postureo’ de la isla, muchos de ellos liderados por mujeres. 
 
-![Sara Valls, del restaurante Janis, en Formentera.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-formentera-sara-valls-850x567.jpg "Sara Valls, del restaurante Janis, en Formentera.")
+![Sara Valls, del restaurante Janis, en Formentera.](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-formentera-sara-valls.jpg "Sara Valls, del restaurante Janis, en Formentera.")
 
 ✅ [Dónde comer en Formentera sin perder de vista la mano 
 femenina](https://etheriamagazine.com/2022/07/27/mejores-restaurantes-formentera/) 
@@ -154,7 +154,7 @@ comunidad china que allí vive. Por este motivo está considerado el Chinatown d
 así que no dudes en acercarte a los restaurantes chinos recomendados en el artículo 
 porque son realmente auténticos. 
 
-![platos del hot pot de Mr. Doulao](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-mrdoulao-hotpot-usera-850x629.jpg "© Mr. Doulao, un restaurante hot pot de Usera.")
+![platos del hot pot de Mr. Doulao](https://fotos.etheriamagazine.com/2023/01/mas-leidos-2022-mrdoulao-hotpot-usera.jpg "© Mr. Doulao, un restaurante hot pot de Usera.")
 
 ✅ [Ruta turístico-gastronómica por el Chinatown 
 madrileño](https://etheriamagazine.com/2022/02/11/ruta-turistica-usera-chinatown-madrileno/) 

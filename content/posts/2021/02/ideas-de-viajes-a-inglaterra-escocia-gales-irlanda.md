@@ -37,7 +37,7 @@ de sus melancólicos e infinitos paisajes, lugares como Fort William, Inverness 
 lago Ness y hasta el tren de Harry Potter. Es la primera de nuestras propuestas de 
 viajes al Reino Unido. 
 
-? [Highlands o Tierras Altas de Escocia, una guía básica para recorrerlas a 
+📍 [Highlands o Tierras Altas de Escocia, una guía básica para recorrerlas a 
 pie](https://etheriamagazine.com/2020/09/10/mejor-ruta-3-dias-highlands-tierras-altas-escocia/). 
 
 ![Castillo en el lago Ness](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-escocia-castillo-Urquhart-lago-Ness.jpg "Castillo de Urquhart en el lago Ness. © Robin Canfield")
@@ -51,7 +51,7 @@ escapada, y si te organizas bien te dará tiempo a todo. Desde un paseo por el b
 chino o por ‘la pequeña Irlanda’ hasta una noche de marcha en Gay Village o una tarde en 
 un spa victoriano. 
 
-? [12 visitas para triunfar en un fin de semana con amigas en 
+📍 [12 visitas para triunfar en un fin de semana con amigas en 
 Mánchester](https://etheriamagazine.com/2019/12/30/12-visitas-para-fin-de-semana-en-manchester-con-amigas/). 
 
 ![salir por la noche en reino unido](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-manchester.jpg "The Triangle, en Mánchester. © Elena Ortega")
@@ -65,7 +65,7 @@ costa galesa entre pueblos llenos de encanto, acantilados y playas desiertas. No
 perdáis una parada a la hora del té en alguno de los _tea-rooms_ cercanos a la capilla 
 de St. Govan’s, emparedada entre los acantilados del Parque Nacional de Pembrokeshire. 
 
-? [Ruta en coche con amigas en 
+📍 [Ruta en coche con amigas en 
 Gales](https://etheriamagazine.com/2019/08/23/viajar-con-amigas-ruta-coche-gales/). 
 
 ![playa en Gales](https://fotos.etheriamagazine.com/2020/12/8-viajes-reino-unido-Gales-playa-Baranfundle.jpg "Playa de Baranfundle, en Gales, una de las más bellas del Reino Unido. © Manena Munar")
@@ -79,7 +79,7 @@ tradición pesquera, que se muestra en los puertos de pueblos como Looe, Fowey o
 y en su gastronomía. No te pierdas Saint Ives, que pasó de ser puerto sardinero a ciudad 
 de artistas, ni sus preciosas y cambiantes playas, siempre a merced de las mareas. 
 
-? [Cornualles, ruta por la costa inglesa tocada por el 
+📍 [Cornualles, ruta por la costa inglesa tocada por el 
 sol](https://etheriamagazine.com/2019/07/10/viaje-que-hacer-ruta-cornualles-cornwall-inglaterra/). 
 
 ![Pueblo de Cornualles](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-cornualles-bahia-ives.jpg "Bahía de Saint Ives, en Cornualles. © Kris Ubach")
@@ -94,7 +94,7 @@ de aves marinas, sus construcciones prehistóricas y el verde de la isla Fetlar.
 además, podrás ir a avistar ballenas, visitar una destilería y, sobre todo, disfrutar de 
 la vida tranquila de estas pequeñas islas. 
 
-? [Islas Shetland, un paraíso en el Atlántico 
+📍 [Islas Shetland, un paraíso en el Atlántico 
 Norte](https://etheriamagazine.com/2019/03/21/mujeres-viajeras-que-ver-islas-shetland/). 
 
 ![Paisaje en las islas Shetland](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-islas-shetland.jpg "Broch de la isla de Mousa (Islas Shetland).")
@@ -109,7 +109,7 @@ perfecta para ir de compras, Bourton-on-the-Water o Lower Slaughter. No puedes p
 Chipping Campden, una joyita menos concurrida que los anteriores, ni Castle Combe, 
 considerado el pueblo más bonito de Inglaterra. 
 
-? [De 'road trip' por los Cotswolds, un viaje al corazón de 
+📍 [De 'road trip' por los Cotswolds, un viaje al corazón de 
 Inglaterra](https://etheriamagazine.com/2019/08/08/de-road-trip-por-los-cotswolds-un-viaje-al-corazon-de-inglaterra/). 
 
 ![Casas típicas en Cotswolds](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-Cotswolds.jpg "Los Cotswolds. © Elena Ortega")
@@ -127,7 +127,7 @@ en el Parque Forestal de Glenariff, y también contemplar el puente de Garrick-a
 Además, es obligatorio visitar la Calzada del Gigante, que es probablemente la mayor 
 atracción turística de Irlanda del Norte, y las mágicas ruinas del castillo de Dunluce. 
 
-? [Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
+📍 [Irlanda del Norte: 6 visitas imprescindibles y 2 lugares 
 secretos](https://etheriamagazine.com/2021/05/31/8-visitas-increibles-en-irlanda-del-norte/). 
 
 ![Puente colgante en Irlanda del Norte](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-irlanda-norte-puente.jpg "Puente de Carrick-a-Rede. © Pepa. G./ Etheria Magazine")
@@ -147,10 +147,10 @@ inolvidables](https://etheriamagazine.com/2020/12/11/diez-peliculas-rodadas-en-l
 Seguro que en 2021 encontrarás algún motivo para escaparte a esta ciudad y convertir 
 este viaje en una de tus escapadas a Gran Bretaña. 
 
-? [48 horas en 
+📍 [48 horas en 
 Londres](https://etheriamagazine.com/2018/09/13/visitas-imprescindibles-fin-de-semana-londres/). 
 
-? [Escapada para dos a Londres: 8 planes fuera de lo 
+📍 [Escapada para dos a Londres: 8 planes fuera de lo 
 común](https://etheriamagazine.com/2020/01/09/planes-romanticos-hotel-para-parejas-londres/). 
 
 ![Cabina y taxi de Londres](https://fotos.etheriamagazine.com/2020/12/viajes-reino-unido-Londres-taxi-y-cabina.jpg "Las célebres cabinas londinenses y sus también conocidos taxis en los que casi se puede entrar de pie.")

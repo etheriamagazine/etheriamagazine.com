@@ -84,8 +84,8 @@ Paseo por la Mola, un carpaccio de higo, helado de pino, granizado de higo, pur�
 menta y lima y cáscara de lima que te transporta a esa colina de la isla con todos los 
 aromas del bosque. 
 
-?No dejes de probar su coctelería de autor de Lucas Knibbs en **The Sky Cocktail Club**, 
-mientras escuchas a los músicos en directo al anochecer. 
+📍No dejes de probar su coctelería de autor de Lucas Knibbs en **The Sky Cocktail 
+Club**, mientras escuchas a los músicos en directo al anochecer. 
 
 ### 3\. Fandango Formentera
 

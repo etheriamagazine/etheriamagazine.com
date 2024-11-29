@@ -33,7 +33,7 @@ europeas. Después, seguro que te animas a destinos más lejanos donde también 
 **viajar con niños** sin ningún problema. **Tailandia**, **Japón** o **Costa Rica** son 
 solo algunos entre una casi infinita lista. 
 
-![Senderismo en Agualva en Terceira](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-terceira-Senderismo-BAIAS-DA-ALGUALVA-2-1024x683-1-900x600.jpg "Ruta de senderismo de Baias da Agualva (Terceira, Azores). © SG")
+![Senderismo en Agualva en Terceira](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-terceira-Senderismo-BAIAS-DA-ALGUALVA-2-1024x683-1.jpg "Ruta de senderismo de Baias da Agualva (Terceira, Azores). © SG")
 
 Lo primero que deberías tener en cuenta es que en un viaje con niños (sobre todo si son 
 muy pequeños) es mejor llevarlo todo bastante organizado y previsto, aunque después 
@@ -210,7 +210,7 @@ Gruta do Natal. Tampoco la excursión estrella en Terceira: una salida en barco 
 rápida para ver de cerca a los delfines que rodean la isla y, si hay suerte, a alguna 
 ballena. 
 
-![Viajes a Azores con niños](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-terceira-900x600.jpg "Avistamiento de cetáceos en Terceira. © SG")
+![Viajes a Azores con niños](https://fotos.etheriamagazine.com/2021/01/viajar-ninos-europa-terceira.jpg "Avistamiento de cetáceos en Terceira. © SG")
 
 ### Alsacia y Selva Negra, paisajes de cuento
 

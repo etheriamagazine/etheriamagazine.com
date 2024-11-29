@@ -38,7 +38,7 @@ pescadora o _arrantzale_, en la vecina torre de Ercilla se aloja el [Museo del
 Pescador](https://bizkaikoa.bizkaia.eus/detalleContenido.asp?id=52&t=1), una visita 
 cultural imprescindible para prendarse del estrecho vínculo de los vascos con el mar. 
 
-![remeros en el cabo de ogono de urdaibai](https://fotos.etheriamagazine.com/2021/02/urdaibai-cabo-ogono-677x1024.jpg "Cabo Ogoño desde el mar.")
+![remeros en el cabo de ogono de urdaibai](https://fotos.etheriamagazine.com/2021/02/urdaibai-cabo-ogono.jpg "Cabo Ogoño desde el mar.")
 
 ## Cabo Ogoño, las mejores panorámicas
 
@@ -98,7 +98,7 @@ dramáticamente su historia. Como sabrás, lo inmortalizó genialmente Pablo Pic
 'Guernica'](https://www.museoreinasofia.es/coleccion/obra/guernica), ahora en el Museo 
 Reina Sofía de Madrid. 
 
-![arbol de guernica](https://fotos.etheriamagazine.com/2021/02/urdaibai-guernica-arbol-656x1024.jpg "Roble de Gernika Lumo, símbolo del pueblo vasco.")
+![arbol de guernica](https://fotos.etheriamagazine.com/2021/02/urdaibai-guernica-arbol.jpg "Roble de Gernika Lumo, símbolo del pueblo vasco.")
 
 Es recomendable seguir el **Itinerario de la Memoria**, como es conocida la ruta urbana 
 autoguiada (con plano) que facilitan en la [oficina de turismo de Gernika 
@@ -112,7 +112,7 @@ Moore. También de interés es el [Museo de la Paz](https://www.museodelapaz.org
 **plaza de los Fueros**, cuyo lema _“renunciar a olvidar, renunciar a la venganza”_ deja 
 claro el compromiso del municipio con una cultura pacífica y por los derechos humanos. 
 
-![queso en el mercado de gernika](https://fotos.etheriamagazine.com/2021/02/urdaibai-mercado-guernica-quesos-682x1024.jpg "El queso es uno de los productos estrella del mercado semanal de Gernika.")
+![queso en el mercado de gernika](https://fotos.etheriamagazine.com/2021/02/urdaibai-mercado-guernica-quesos.jpg "El queso es uno de los productos estrella del mercado semanal de Gernika.")
 
 ## Mercado de Gernika, donde molan los lunes
 

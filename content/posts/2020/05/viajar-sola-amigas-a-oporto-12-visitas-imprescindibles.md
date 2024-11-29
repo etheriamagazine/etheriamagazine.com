@@ -16,7 +16,7 @@ encanta la ciudad de Oporto. Aunque es un destino donde podríamos pasar una sem
 cansarnos, concentraremos las visitas que se pueden hacer en Oporto con amigas o con 
 quien quieras. 
 
-![Vistas de Oporto.](https://fotos.etheriamagazine.com/2020/05/oporto-con-amigas-850x478.jpg "Vistas de Oporto. © Pedro Cunha")
+![Vistas de Oporto.](https://fotos.etheriamagazine.com/2020/05/oporto-con-amigas.jpg "Vistas de Oporto. © Pedro Cunha")
 
 **Actualizado 9/2023** 
 
@@ -38,7 +38,7 @@ Paseos por la ribera del Duero, museos, estaciones de tren, visita a bodegas, li
 de cuento, pequeñas galerías de arte... hay mucho que hacer y que ver en Oporto y te lo 
 resumimos en sólo 12 visitas recomendadas. 
 
-![estacion sao bento, viaje a oporto](https://fotos.etheriamagazine.com/2020/04/estacion-sao-bento-oporto-900x659.jpg "Estación de São Bento. © Etheria Magazine")
+![estacion sao bento, viaje a oporto](https://fotos.etheriamagazine.com/2020/04/estacion-sao-bento-oporto.jpg "Estación de São Bento. © Etheria Magazine")
 
 ### 1\. Estación de tren de São Bento
 
@@ -63,7 +63,7 @@ pena entrar para admirar también el museo con su tesoro y ver su precioso claus
 historiados azulejos. El palacio Episcopal también forma parte del conjunto. Y no muy 
 lejos se halla la **Iglesia de San Lorenzo dos Grilos**, por si te sobra algo de tiempo. 
 
-![Atardece sobre La Ribeira (visto desde Vila Nova de Gaia).](https://fotos.etheriamagazine.com/2020/04/atardecer-ribeira-porto-900x600.jpg "Atardece sobre La Ribeira (visto desde Vila Nova de Gaia). © Piñero Amerio")
+![Atardece sobre La Ribeira (visto desde Vila Nova de Gaia).](https://fotos.etheriamagazine.com/2020/04/atardecer-ribeira-porto.jpg "Atardece sobre La Ribeira (visto desde Vila Nova de Gaia). © Piñero Amerio")
 
 ### 3\. Un paseo por La Ribeira
 
@@ -76,7 +76,7 @@ venir de autóctonos y turistas. Al caer el sol es un lugar idóneo para caminar
 ver cómo el cielo se tiñe de tonalidades rojizas y la ciudad enciende poco a poco sus 
 farolas. 
 
-![Un paseo por los callejones de La Ribeira.](https://fotos.etheriamagazine.com/2020/04/Calles-ribeira-oporto-900x675.jpg "Un paseo por los callejones de La Ribeira. © Etheria Magazine")
+![Un paseo por los callejones de La Ribeira.](https://fotos.etheriamagazine.com/2020/04/Calles-ribeira-oporto.jpg "Un paseo por los callejones de La Ribeira. © Etheria Magazine")
 
 Anímate a entrar por los pequeños callejones que salen de esta avenida fluvial y que se 
 introducen en un barrio que parece anclado en el Medievo, no te faltarán pintorescas 
@@ -93,7 +93,7 @@ desde Vila Nova de
 Gaia](https://www.civitatis.com/es/oporto/crucero-seis-puentes-gaia/?aid=10211) (15 €). 
 Existen descuentos y gratuidades para niños. 
 
-![La Ribeira y barcos que recorren el río Duero.](https://fotos.etheriamagazine.com/2020/04/vistas-oporto-puente-uis-I-900x675.jpg "La Ribeira y barcos que recorren el río Duero. © Etheria Magazine")
+![La Ribeira y barcos que recorren el río Duero.](https://fotos.etheriamagazine.com/2020/04/vistas-oporto-puente-uis-I.jpg "La Ribeira y barcos que recorren el río Duero. © Etheria Magazine")
 
 ### 5\. Bodegas en Vila Nova de Gaia
 
@@ -129,7 +129,7 @@ de cegarte con sus brillos, recorre también el museo y las catacumbas.
 El **Palacio de la Bolsa** se encuentra justo al lado y también es muy bonito, acércate 
 a verlo, y si puedes, haz la visita guiada. 
 
-![Tranvía de Oporto.](https://fotos.etheriamagazine.com/2020/04/tranvia-oporto-900x571.jpg "Tranvía de Oporto. © Ricardo Resende")
+![Tranvía de Oporto.](https://fotos.etheriamagazine.com/2020/04/tranvia-oporto.jpg "Tranvía de Oporto. © Ricardo Resende")
 
 ### 7\. Un paseo en tranvía
 
@@ -141,7 +141,7 @@ la **línea 18** lleva hasta las playas de Foz de Douro; y la **línea 22**, que
 entre los barrios de Batalha y Carmo, es la más turística. En Oporto también hay metro y 
 bus urbano, por lo que ésta es sólo la opción romántica. 
 
-![Librería Lello, conocida por su relación con la saga de Harry Potter.](https://fotos.etheriamagazine.com/2020/04/libreria-lello-harry-potter-oporto-900x601.jpg "Librería Lello, conocida por su relación con la saga de Harry Potter. © Ivo Rainha")
+![Librería Lello, conocida por su relación con la saga de Harry Potter.](https://fotos.etheriamagazine.com/2020/04/libreria-lello-harry-potter-oporto.jpg "Librería Lello, conocida por su relación con la saga de Harry Potter. © Ivo Rainha")
 
 ### 8\. Librería Lello
 
@@ -164,7 +164,7 @@ prefieres algo más tranquilo, prueba con [una noche de
 fados](https://www.civitatis.com/es/oporto/espectaculo-fado-ideal-clube/?aid=10211) (19 
 €). 
 
-![Atardecer en Oporto con el Puente Luis I a la derecha de la imagen.](https://fotos.etheriamagazine.com/2020/04/miradores-oporto-puente-luis-I-900x386.jpg "Atardecer en Oporto con el Puente Luis I a la derecha de la imagen. © Daniel Sessler")
+![Atardecer en Oporto con el Puente Luis I a la derecha de la imagen.](https://fotos.etheriamagazine.com/2020/04/miradores-oporto-puente-luis-I.jpg "Atardecer en Oporto con el Puente Luis I a la derecha de la imagen. © Daniel Sessler")
 
 ### 9\. Torre de los Clérigos y otros miradores de Oporto
 
@@ -181,7 +181,7 @@ Centro de Fotografía Portugués; o bien subir al segundo nivel del **Puente de 
 junto a la Ribeira, desde donde se pueden admirar las dos orillas del Duero (Oporto y 
 Vila Nova de Gaia). 
 
-![Además del museo y el parque, no olvides visitar la Villa Serralve, un ejemplo de Art Déco de los años 30.](https://fotos.etheriamagazine.com/2020/04/villa-serralves-oporto-900x638.jpg "Además del museo y el parque, no olvides visitar la Villa Serralve, un ejemplo de Art Déco de los años 30. © Pedro de Sousa")
+![Además del museo y el parque, no olvides visitar la Villa Serralve, un ejemplo de Art Déco de los años 30.](https://fotos.etheriamagazine.com/2020/04/villa-serralves-oporto.jpg "Además del museo y el parque, no olvides visitar la Villa Serralve, un ejemplo de Art Déco de los años 30. © Pedro de Sousa")
 
 ### 10\. Museo de Arte Contemporáneo de Serralves
 
@@ -199,7 +199,7 @@ es el más antiguo de Portugal y está situado en el Palacio dos Carrancas. Cerc
 mismo se sitúan los **Jardines del Palacio de Cristal**, un auténtico pulmón verde que 
 regala también bonitas vistas. 
 
-![Casa de la Música de Oporto.](https://fotos.etheriamagazine.com/2020/04/casa-musica-oporto-viajar-sola-900x473.jpg "Casa de la Música de Oporto. © Filipe Sousa")
+![Casa de la Música de Oporto.](https://fotos.etheriamagazine.com/2020/04/casa-musica-oporto-viajar-sola.jpg "Casa de la Música de Oporto. © Filipe Sousa")
 
 ### 11\. Casa de la Música
 
@@ -212,7 +212,7 @@ o electrónica. Consulta su programación porque asistir a algún concierto pued
 experiencia inolvidable. Si no coincide con tu visita, trata al menos de comer en su 
 restaurante. 
 
-![Café Majestic de Oporto.](https://fotos.etheriamagazine.com/2020/04/cafe-majestic-oporto-900x335.jpg "Café Majestic de Oporto.")
+![Café Majestic de Oporto.](https://fotos.etheriamagazine.com/2020/04/cafe-majestic-oporto.jpg "Café Majestic de Oporto.")
 
 ### 12\. Café Majestic
 
@@ -241,7 +241,7 @@ escuela de vino, tiendas y galerías de exposiciones. Y de visita obligada tambi
 se conserva una bonita capilla del arquitecto Nicolau Nasoni. En dicho museo se hace un 
 repaso a la industria textil en Portugal y se da a conocer la moda portuguesa. 
 
-?No te pierdas: [WOW Oporto, el mayor barrio gastronómico y cultural de 
+📍No te pierdas: [WOW Oporto, el mayor barrio gastronómico y cultural de 
 Portugal](https://etheriamagazine.com/2022/03/14/wow-oporto-barrio-gastronomico-cultural/). 
 
 ### Para tomar nota si viajas sola a Oporto

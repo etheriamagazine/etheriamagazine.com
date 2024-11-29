@@ -13,7 +13,7 @@ se quiere permanecer en la comunidad o alejarse de sus normas (patriarcales). Co
 hay verdades absolutas, viajamos a Pensilvania para conocer de primera mano su historia 
 y cómo viven las mujeres amish. 
 
-![Jóvenes amish con sus tocados de color blanco.](https://fotos.etheriamagazine.com/2019/02/mujeres-amish-etheria-magazine-1024x713.jpg "Jóvenes amish con sus tocados de color blanco.")
+![Jóvenes amish con sus tocados de color blanco.](https://fotos.etheriamagazine.com/2019/02/mujeres-amish-etheria-magazine.jpg "Jóvenes amish con sus tocados de color blanco.")
 
 Actualizado 3/2024 
 
@@ -54,7 +54,7 @@ en su comunidad. Una comunidad en la que lo normal es ayudarse, a levantar una c
 hacer los muebles (los Amish son excelentes carpinteros) e incluso a sufragar los 
 gastos, médicos o de otra índole, que un miembro de la comunidad necesite. 
 
-![La comunidad Amish no permite la introducción de técnicas avanzadas en el campo.](https://fotos.etheriamagazine.com/2019/02/viaje-pais-amish-1024x505.jpg "La comunidad Amish no permite la introducción de técnicas avanzadas en el campo.")
+![La comunidad Amish no permite la introducción de técnicas avanzadas en el campo.](https://fotos.etheriamagazine.com/2019/02/viaje-pais-amish.jpg "La comunidad Amish no permite la introducción de técnicas avanzadas en el campo.")
 
 ### Prohibido cortarse el cabello
 
@@ -157,7 +157,7 @@ está llena de alicientes. Y evoca a la modelo Kate Stoltzfus, Stoltz (apellido
 artístico) que abandonó sus raíces amish y vive en Nueva York donde tiene una marca de 
 ropa propia, gracias a lo mucho que cosió en su hogar. 
 
-![Coche de caballos típico de los Amish.](https://fotos.etheriamagazine.com/2019/02/mujeres-amish-pensilvania-1024x679.jpg "Coche de caballos típico de los Amish.")
+![Coche de caballos típico de los Amish.](https://fotos.etheriamagazine.com/2019/02/mujeres-amish-pensilvania.jpg "Coche de caballos típico de los Amish.")
 
 ### El 90% de los jóvenes vuelven a la comunidad amish
 

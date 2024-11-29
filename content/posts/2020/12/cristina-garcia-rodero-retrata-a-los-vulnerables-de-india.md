@@ -15,7 +15,7 @@ de mujeres y de otros seres vulnerables de la India. Ellas representan la espera
 la transformación social que necesita el país. Estará en CaixaForum Sevilla hasta el 25 
 de enero de 2021. 
 
-![tierra de suenos expo de garcia rodero](https://fotos.etheriamagazine.com/2020/12/tierra-suenos-garcia-rodero-1-683x1024.jpg "Exposición 'Tierra de sueños'. © García Rodero")
+![tierra de suenos expo de garcia rodero](https://fotos.etheriamagazine.com/2020/12/tierra-suenos-garcia-rodero-1.jpg "Exposición 'Tierra de sueños'. © García Rodero")
 
 Decir que ‘Tierra de sueños’ es una exposición fotográfica compuesta por imágenes 
 tomadas por una mujer que retrata la realidad de otras mujeres y seres vulnerables en la 
@@ -74,7 +74,7 @@ mujeres maltratadas, cooperativas de autosuficiencia, asistencia sanitaria en to
 hogares, suministro de agua en cada aldea, miles de viviendas dignas. En la India, ya no 
 la tierra olvidada, sino un referente, **un depósito de la esperanza**”. 
 
-![teatro para ninas en india tierra de suenos](https://fotos.etheriamagazine.com/2020/12/tierra-suenos-garcia-rodero-2-683x1024.jpg "Tejasre y Prameela, de 12 y 10 años, actuando tras finalizar las manifestaciones del Día de la Mujer. El teatro es una herramienta educativa muy poderosa: en este caso la obra pretende concienciar a la población acerca del problema de los abortos selectivos por razón de género.")
+![teatro para ninas en india tierra de suenos](https://fotos.etheriamagazine.com/2020/12/tierra-suenos-garcia-rodero-2.jpg "Tejasre y Prameela, de 12 y 10 años, actuando tras finalizar las manifestaciones del Día de la Mujer. El teatro es una herramienta educativa muy poderosa: en este caso la obra pretende concienciar a la población acerca del problema de los abortos selectivos por razón de género.")
 
 Rivas también relata la admiración que le producen las imágenes de García Rodero, a las 
 que califica de auténticos imanes para el espectador. “No sabemos cómo lo ha hecho. 

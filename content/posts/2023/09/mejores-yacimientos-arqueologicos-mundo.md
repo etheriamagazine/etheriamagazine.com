@@ -54,7 +54,7 @@ mejor representa cómo las raíces de la selva han invadido los templos); **Bayo
 sus famosas torres con caras talladas); y **Bantay Srei** (el templo de las mujeres, 
 realizado en arenisca rosa). 
 
-? Excursiones organizadas: [Tour privado por Angkor con guía en 
+📍 Excursiones organizadas: [Tour privado por Angkor con guía en 
 español.](https://www.civitatis.com/es/siem-reap/tour-privado-angkor-wat/?aid=10211) [Templos 
 de Angkor al amanecer o al 
 atardecer.](https://www.civitatis.com/es/siem-reap/templos-angkor-amanecer-atardecer/?aid=10211) 
@@ -87,7 +87,7 @@ templos a primera hora, justo antes de amanecer.
 ✅ Para seguir leyendo: [Cómo y por qué organizar una visita a Abu 
 Simbel](https://etheriamagazine.com/2023/06/30/como-organizar-una-visita-a-abu-simbel/). 
 
-? Excursiones organizadas: [Excursión a Abu 
+📍 Excursiones organizadas: [Excursión a Abu 
 Simbel.](https://www.civitatis.com/es/asuan/excursion-abu-simbel/?aid=10211) [Excursión 
 de dos días a Abu 
 Simbel.](https://www.civitatis.com/es/asuan/tour-abu-simbel-2-dias/?aid=10211) 
@@ -117,7 +117,7 @@ la **Pequeña Petra** (muy recomendable) será mejor dedicarle dos días.
 ✅ Para seguir leyendo: [Jordania, visitas y consejos imprescindibles para tu primer 
 viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/). 
 
-? Excursiones organizadas: [Tour por 
+📍 Excursiones organizadas: [Tour por 
 Petra.](https://www.civitatis.com/es/petra/tour-petra/?aid=10211) 
 
 ## Machu Picchu
@@ -139,7 +139,7 @@ por la **ruta del Camino del Inca** (sólo si estás muy en forma). Si llegas po
 carretera o en tren lo harás hasta el pueblo de **Aguas Calientes**, desde donde se 
 llega al yacimiento caminando (la subida es dura) o en los autobuses oficiales. 
 
-? Excursiones organizadas: [Excursión a Machu 
+📍 Excursiones organizadas: [Excursión a Machu 
 Picchu.](https://www.civitatis.com/es/cusco/excursion-machu-picchu/?aid=10211) [Excursión 
 de dos días a Machu 
 Picchu.](https://www.civitatis.com/es/cusco/excursion-2-dias-machu-picchu/?aid=10211) 
@@ -165,7 +165,7 @@ un día completo para recorrerlo a conciencia y no perderte nada.
 ✅ Para seguir leyendo sobre la zona: [10 excursiones para descubrir la Riviera 
 Maya](https://etheriamagazine.com/2022/02/01/excursiones-en-riviera-maya-mexico/) 
 
-? Visitas organizadas: [Tour privado por Chichén 
+📍 Visitas organizadas: [Tour privado por Chichén 
 Itzá.](https://www.civitatis.com/es/chichen-itza/tour-privado-chichen-itza/?aid=10211) 
 
 ## Borobudur
@@ -188,7 +188,7 @@ las agujas del reloj nivel a nivel hasta alcanzar la estupa central que represen
 **Nirvana**. Las vistas desde arriba son increíbles. La visita se puede completar con la 
 de los **templos menores Pawon y Mendut** situados en los alrededores. 
 
-? Excursiones organizadas: [Excursión privada a Borobudur + trekking hasta el templo 
+📍 Excursiones organizadas: [Excursión privada a Borobudur + trekking hasta el templo 
 Selogriyo.](https://www.civitatis.com/es/yogyakarta/excursion-borobudur-trekking-selogriyo/?aid=10211) 
 
 ## Isla de Pascua
@@ -210,7 +210,7 @@ cantera de la que se extraían y donde permanece el más grande de todos y que n
 despegado de la roca. ✅ Para seguir leyendo: [Isla de Pascua, el misterio de los moáis y 
 su ‘mana’.](https://etheriamagazine.com/2019/02/15/viaje-misterios-isla-pascua/) 
 
-? Excursiones organizadas: [Tour por la isla de Pascua y la playa de 
+📍 Excursiones organizadas: [Tour por la isla de Pascua y la playa de 
 Anakena.](https://www.civitatis.com/es/isla-de-pascua/tour-isla-de-pascua-anakena/?aid=10211) 
 
 ## Coliseo de Roma
@@ -233,7 +233,7 @@ los espectáculos.
 ✅ Para seguir leyendo: [15 lugares imprescindibles que ver en 
 Roma](https://etheriamagazine.com/2022/07/11/15-lugares-imprescindibles-que-ver-en-roma/). 
 
-? Excursiones organizadas: [Visita guiada por el 
+📍 Excursiones organizadas: [Visita guiada por el 
 Coliseo.](https://www.civitatis.com/es/roma/visita-guiada-coliseo/?aid=10211) 
 
 ## Templos de Bagán
@@ -255,7 +255,7 @@ con un guía especializado para no perderse los lugares más importantes y merec
 alquilar una bicicleta (puede ser eléctrica si no quieres dar muchos pedales) para 
 disfrutar del entorno con calma. 
 
-? Excursiones organizadas: [Visita guiada por los templos de 
+📍 Excursiones organizadas: [Visita guiada por los templos de 
 Bagan.](https://www.civitatis.com/es/bagan/visita-guiada-templos-bagan/?aid=10211) 
 
 ## Partenón
@@ -277,10 +277,10 @@ otros espacios de interés como el teatro de Dionisio) y subir por los senderos 
 escaleras marcados. Algunas de sus piezas principales se conservan en el **Museo de la 
 Acrópolis**, situado a un kilómetro del recinto. 
 
-? Excursiones organizadas: [Entrada a la Acrópolis de 
+📍 Excursiones organizadas: [Entrada a la Acrópolis de 
 Atenas.](https://www.civitatis.com/es/atenas/entrada-acropolis-atenas/?aid=10211) 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 yacimientos arqueológicos en América Latina que tienes que 
 conocer](https://etheriamagazine.com/2019/05/29/10-yacimientos-arqueologicos-america-latina/) 

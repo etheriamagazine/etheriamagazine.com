@@ -88,7 +88,7 @@ extraños' es un engaño”.
 Para conocerlas mejor puedes seguirlas en [A bordo del 
 mundo](https://abordodelmundo.com/). 
 
-![Marta Insausti motera madrilena](https://fotos.etheriamagazine.com/2021/05/marta-insausti-lamotera-683x1024.jpg "Marta Insausti se lanzó a recorrer el mundo en moto sola.")
+![Marta Insausti motera madrilena](https://fotos.etheriamagazine.com/2021/05/marta-insausti-lamotera.jpg "Marta Insausti se lanzó a recorrer el mundo en moto sola.")
 
 ### Marta Insausti: "que me quiten lo bailao"
 

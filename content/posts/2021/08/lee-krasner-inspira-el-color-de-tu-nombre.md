@@ -106,7 +106,7 @@ China y África, que antes eran la periferia total, y ahora tienen la oportunida
 generar interés. Estamos en camino de llegar a una equidad razonable. El canon ha 
 funcionado durante siglos, pero ya no. 
 
-![el color de tu nombre libro lee krasner](https://fotos.etheriamagazine.com/2021/07/el-color-de-tu-nombre-1-676x1024.jpg "'El color de tu nombre'.")
+![el color de tu nombre libro lee krasner](https://fotos.etheriamagazine.com/2021/07/el-color-de-tu-nombre-1.jpg "'El color de tu nombre'.")
 
 ##### 6\. La novela es también un canto de amor a Nueva York.
 

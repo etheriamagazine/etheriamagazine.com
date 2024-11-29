@@ -78,7 +78,7 @@ Esto lo podemos apreciar en la sección “Exteriores”, con cuadros como “Ve
 (1919-1920), de Max Pechstein; “Puente en la marisma” (1910), de Emil Nolde, o “Fábrica 
 de ladrillos” (1907), de Erich Heckel. 
 
-![joven pareja emil nolde en museo thyssen](https://fotos.etheriamagazine.com/2020/10/Joven-pareja-de-Emil-Nolde-706x1024.jpg "Joven pareja, hacia 1931-1935. Emil Nolde. © Thyssen B. Collections")
+![joven pareja emil nolde en museo thyssen](https://fotos.etheriamagazine.com/2020/10/Joven-pareja-de-Emil-Nolde.jpg "Joven pareja, hacia 1931-1935. Emil Nolde. © Thyssen B. Collections")
 
 ## De Gauguin a Van Gogh, inspiradores del expresionismo alemán
 

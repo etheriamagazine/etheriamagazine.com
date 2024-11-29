@@ -123,7 +123,7 @@ más la vida cultural de la ciudad: el maravilloso **Jardín de Invierno del Con
 las Ursulinas**, una joya del modernismo del año 1900 donde este arte se fusiona con el 
 gótico creando un espacio lleno de magia. 
 
-![Jardín de invierno del convento de las Ursulinas.](https://fotos.etheriamagazine.com/2024/03/exposiciones-flandes-jardin-invierno-convento-ursulinas-667x1000.jpg "Jardín de invierno del convento de las Ursulinas. © Visit Mechelen/Koen Broos.")
+![Jardín de invierno del convento de las Ursulinas.](https://fotos.etheriamagazine.com/2024/03/exposiciones-flandes-jardin-invierno-convento-ursulinas.jpg "Jardín de invierno del convento de las Ursulinas. © Visit Mechelen/Koen Broos.")
 
 ## Exposición ‘Margarita, la hija del emperador. Entre el poder y la imagen’ en Oudenaarde
 

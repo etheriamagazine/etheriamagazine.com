@@ -124,7 +124,7 @@ hacer reservas y, a la vez, me molestaba muchísimo tener que atar de una manera
 contundente mi viaje, sin saber qué lugar me gustaría más y dónde quería o no extender 
 la estancia. 
 
-![Sania Jelic en el aeropuerto](https://fotos.etheriamagazine.com/2022/12/Sania-aeropuerto-655x1024.jpg "¿Me acompañáis en esta aventura?")
+![Sania Jelic en el aeropuerto](https://fotos.etheriamagazine.com/2022/12/Sania-aeropuerto.jpg "¿Me acompañáis en esta aventura?")
 
 ### La importancia de la logística
 
@@ -142,7 +142,7 @@ Con todo hecho, o anotado en la lista de cosas por hacer, me senté al portátil
 billetes y reservé alojamiento para los primeros 45 días. ¿Queréis saber cómo me fue? Os 
 lo cuento en la próxima entrega. 
 
-? Sigue el día a día de Sania Jelic en su perfil de [Instagram](https://www.instagram.com/sania.jelic/). 
+📌 Sigue el día a día de Sania Jelic en su perfil de [Instagram](https://www.instagram.com/sania.jelic/). 
 
 Fotografías cedidas por Sania Jelic. 
 

@@ -15,7 +15,7 @@ propuestas originales dentro de la extensa oferta que hay en España. De la mano
 Rusticae nos sumergimos en el ambiente ‘slow’ de este complejo rural situado en unas 
 cuevas de la comarca de La Manchuela, entre Albacete y Cuenca. 
 
-![Suite en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-ogof-900x602.jpg "Salón de la suite Ogof.")
+![Suite en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-ogof.jpg "Salón de la suite Ogof.")
 
 Si tienes la idea preconcebida de que sólo puedes deslumbrarte con grandes hoteles de 
 lujo en ciudades de moda o en playas de ensueño te la vamos a cambiar ahora mismo. Nadie 
@@ -24,7 +24,7 @@ paisajística, se encuentra una de las propuestas de alojamiento más innovadora
 sorprendentes de los últimos tiempos: el **complejo Xuq Lomas de Ruvira**, situado en 
 Jorquera (Albacete). 
 
-![Habitación en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-detalle-tha-900x413.jpg "Detalle de decoración de la suite Tha.")
+![Habitación en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-detalle-tha.jpg "Detalle de decoración de la suite Tha.")
 
 Aquí, el gusto por los pequeños detalles se detecta en cada rincón, en cada pieza, y el 
 servicio exclusivo y dedicado te hace sentir especial. Un lugar donde vivir la 
@@ -35,7 +35,7 @@ Júcar**, aprovechan de forma natural sus recovecos. Son sostenibles y ecológic
 mantener de forma natural, gracias a su orientación al sur, una temperatura entre 18 y 
 20 grados. 
 
-![Dormitorio en  en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-dormitorio-900x602.jpg "Dormitorio de la suite Ogof.")
+![Dormitorio en  en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-dormitorio.jpg "Dormitorio de la suite Ogof.")
 
 ## Los alojamientos
 
@@ -46,7 +46,7 @@ que combina tradición y vanguardia. Los ecos de tiempos pasados, que se remonta
 arte, el diseño y la artesanía en cada uno de sus espacios, todos diferentes y cada uno 
 con su propia historia. 
 
-![Dormitorio en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-rovira-coba-900x602.jpg "Dormitorio de la suite Coba.")
+![Dormitorio en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-rovira-coba.jpg "Dormitorio de la suite Coba.")
 
 La suite premium **Ogof**, de dos plantas, cuenta con jacuzzi privado integrado en un 
 recoveco de la montaña y una terraza privada con barbacoa; en la suite premium **Cova** 
@@ -57,7 +57,7 @@ tatami; la suite premium **Höhle** cuenta con un dormitorio tallado íntegramen
 montaña… Será muy difícil elegir cual es tu rincón preferido para disfrutar durante un 
 fin de semana. 
 
-![Cocina de suite en  en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-hohgle-685x1024.jpg "Cocina de la suite Höhle.")
+![Cocina de suite en  en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-hohgle.jpg "Cocina de la suite Höhle.")
 
 ## Servicios
 
@@ -67,7 +67,7 @@ puntos de interés de los alrededores para realizar una excursión. Además, cue
 servicio de alquiler de bicicletas, perfectas para moverse por este entorno natural. Y 
 en verano se puede disfrutar de una pequeña piscina balinesa llena de encanto. 
 
-![Terraza y jacuzzi de suite en  en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-jacuzzi-tha-900x467.jpg "Jacuzzi exterior de la suite Tha.")
+![Terraza y jacuzzi de suite en  en Xuq Lomas de Ruvira](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-jacuzzi-tha.jpg "Jacuzzi exterior de la suite Tha.")
 
 Si eres aficionado a los deportes de aventura, éste es tu lugar. Además, podrán 
 organizarte actividades tan diversas como rafting, paseos en piraguas, paintball, paseos 
@@ -79,7 +79,7 @@ Fotografías: © Rusticae
 (Albacete). Tel. Central de reservas Rusticae: 914 879 017. **Consulta otros hoteles con 
 encanto en Rusticae.** 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [13 excursiones en Cuenca para descubrir los tesoros de la 
 provincia](https://etheriamagazine.com/2020/06/04/viajes-por-espana-descubre-las-mejores-excursiones-en-la-provincia-de-cuenca/) 

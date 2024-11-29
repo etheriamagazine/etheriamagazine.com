@@ -126,7 +126,7 @@ un gran libro: [_El bar americano en
 España_](https://euvs-vintage-cocktail-books.cld.bz/1927-El-Bar-Americano-en-Espana-by-Pedro-Chicote), 
 publicado por primera vez en 1927 y reeditado hace pocos años. 
 
-![el bar americano en espana de chicote](https://fotos.etheriamagazine.com/2020/11/bar-americano-chicote-678x1024.jpg "'El bar americano en España', de Pedro Chicote.")
+![el bar americano en espana de chicote](https://fotos.etheriamagazine.com/2020/11/bar-americano-chicote.jpg "'El bar americano en España', de Pedro Chicote.")
 
 ## Libros modernos de cócteles
 
@@ -156,7 +156,7 @@ nuevas mixturas para reivindicar los cócteles clásicos de las grandes glorias 
 saber qué beben las nuevas generaciones. Un libro aleccionador con el que se aprende 
 mucho. 
 
-![Jorge Restrepo y libro se mezcla en espanol](https://fotos.etheriamagazine.com/2020/11/se-mezcla-en-espanol-George-Restrepo-752x1024.jpg "George Restrepo y su libro 'Se mezcla en español'. © Pedro Grifol")
+![Jorge Restrepo y libro se mezcla en espanol](https://fotos.etheriamagazine.com/2020/11/se-mezcla-en-espanol-George-Restrepo.jpg "George Restrepo y su libro 'Se mezcla en español'. © Pedro Grifol")
 
 ## Nuevos libros de cócteles
 
@@ -180,7 +180,7 @@ _La vuelta al mundo en 80 bebidas_ (2020) es una recopilación de bebibles de to
 tiempos a cargo de Jules Gaubert-Turpin y Adrien Grant Smith Bianchi. Fue editada por 
 Cinco Tintas. 
 
-![la vuelta al mundo en ochenta bebidas](https://fotos.etheriamagazine.com/2020/11/La-vuelta-al-mundo-en-80-bebidas-729x1024.jpg "'La vuelta al mundo en 80 bebidas'.")
+![la vuelta al mundo en ochenta bebidas](https://fotos.etheriamagazine.com/2020/11/La-vuelta-al-mundo-en-80-bebidas.jpg "'La vuelta al mundo en 80 bebidas'.")
 
 Detrás de cada bebida alcohólica está la historia de un pueblo, una región y un contexto 
 social y económico. Al degustar cada espíritu alcohólico viajamos en el tiempo, 

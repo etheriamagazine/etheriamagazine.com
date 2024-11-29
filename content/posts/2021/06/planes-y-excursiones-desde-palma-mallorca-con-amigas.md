@@ -141,7 +141,7 @@ lugares y sale por poco más de 50 euros.
 
 ![trenes en Mallorca](https://fotos.etheriamagazine.com/2021/05/mallorca-amigas-tren-soller.jpg "El tren de Sóller por la sierra de Tramontana. © Tren de Sóller")
 
-? **Si viajas a Palma con amigas también te puede interesar:** 
+📌 **Si viajas a Palma con amigas también te puede interesar:** 
 
 [¿Qué tiene Deià que enamora a ricos y 
 famosos?](https://etheriamagazine.com/2020/08/28/que-hacer-en-deia-famosos-de-mallorca/) 

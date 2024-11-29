@@ -97,7 +97,7 @@ gustará su situación política actual, donde los Rohinyás tienen que huir a B
 
 Me adapto siempre a las comidas del lugar. 
 
-![Kandy abuela mochilera, mujer etheria](https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-viajera-etheria-1024x691.jpg "Los viajes de Kandy, la abuela mochilera.")
+![Kandy abuela mochilera, mujer etheria](https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-viajera-etheria.jpg "Los viajes de Kandy, la abuela mochilera.")
 
 ### 11\. ¿En qué medio de transporte prefieres viajar?
 

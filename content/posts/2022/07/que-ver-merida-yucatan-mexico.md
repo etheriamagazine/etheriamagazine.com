@@ -14,7 +14,7 @@ Clásica y moderna, Mérida, la capital del estado de Yucatán, ofrece la escala
 
 _**Por Cris Aizpeolea**_ 
 
-![Calles de Mérida, Yucatán (México).](https://fotos.etheriamagazine.com/2022/07/calles-merida-yucatan-678x1024.jpg "Calles de Mérida, Yucatán (México). © Matt Hanns Schroeter")
+![Calles de Mérida, Yucatán (México).](https://fotos.etheriamagazine.com/2022/07/calles-merida-yucatan.jpg "Calles de Mérida, Yucatán (México). © Matt Hanns Schroeter")
 
 Calzado cómodo, agua envasada, sombrero y protector solar, son el equipo básico para 
 explorar Mérida. A 300 kilómetros por autopista de la frenética Cancún, la **capital del 
@@ -159,7 +159,7 @@ aleros y frentes de la mayoría de los edificios. Para rendirse ante la belleza 
 detalles, la **pirámide del Adivino**, el cuadrángulo de las Monjas, la casa de las 
 Tortugas, el palacio del Emperador y la plaza de los Pájaros. 
 
-?Abre de lunes a lunes, de 8 a 17 horas, entrada a 500 MXN (23 €). De noche, ofrece un 
+📍Abre de lunes a lunes, de 8 a 17 horas, entrada a 500 MXN (23 €). De noche, ofrece un 
 espectáculo de luz y sonido (640 MXN, unos 30 €). 
 
 ![Playa de la ciudad de Progreso en Yucatán, México](https://fotos.etheriamagazine.com/2022/07/playas-progreso-yucatan.jpg "Las playas de Progreso están a sólo 30 km de Mérida. © Cris Aizpeolea")

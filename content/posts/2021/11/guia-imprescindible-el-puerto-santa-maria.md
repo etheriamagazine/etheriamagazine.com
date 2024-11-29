@@ -28,7 +28,7 @@ todas las gamas de rojos y ocres. En esta **guía de El Puerto de Santa María**
 daremos muchos datos prácticos pero también tiene cabida el romanticismo, estás 
 avisada... 
 
-![plaza de espana el puerto cadiz](https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria-900x464.jpg "Plaza de España, en El Puerto de Santa María.")
+![plaza de espana el puerto cadiz](https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria.jpg "Plaza de España, en El Puerto de Santa María.")
 
 ## Adiós al vaporcito, hola a la modernidad
 
@@ -158,7 +158,7 @@ pena probar su _poor boy de gambones_, su bocata de calamares y el de costillas,
 ellos servidos en los increíbles y crujientes molletes artesanos que elaboran en el 
 **Molino de Abajo** de la serrana y gaditana localidad de El Bosque. 
 
-![puerto sherry el puerto de santa maria](https://fotos.etheriamagazine.com/2021/10/puerto-sherry-702x1024.jpg "Puerto Sherry, una de las zonas más glamurosas de El Puerto de Santa María.")
+![puerto sherry el puerto de santa maria](https://fotos.etheriamagazine.com/2021/10/puerto-sherry.jpg "Puerto Sherry, una de las zonas más glamurosas de El Puerto de Santa María.")
 
 ## Largas noches portuenses
 
@@ -175,7 +175,7 @@ portuense, que tiene otra delegación en Jerez. Muy cerca está la sala **Mucho 
 musical; y también el bar de copas **Royal** (Plaza de las Galeras Reales), siempre muy 
 animado. 
 
-![yacimiento dona blanca](https://fotos.etheriamagazine.com/2021/10/Yacimiento-de-Dona-Blanca-683x1024.jpg "Yacimiento arqueológico de Doña Blanca, con el puente de La Pepa al fondo.")
+![yacimiento dona blanca](https://fotos.etheriamagazine.com/2021/10/Yacimiento-de-Dona-Blanca.jpg "Yacimiento arqueológico de Doña Blanca, con el puente de La Pepa al fondo.")
 
 ## Riquezas patrimoniales y en la copa
 

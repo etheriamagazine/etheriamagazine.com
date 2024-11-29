@@ -14,7 +14,7 @@ hace décadas, sus opciones de ocio van desde excursiones a la naturaleza hasta 
 vacaciones de descanso en hotel de todo incluido. Aquí te proponemos 15 lugares que 
 tienes que ver en Tenerife para unas vacaciones de lo más completas. 
 
-![Playa de Las Teresitas, en Santa Cruz de Tenerife.](https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain-850x567.jpg "Playa de Las Teresitas, en Santa Cruz de Tenerife.")
+![Playa de Las Teresitas, en Santa Cruz de Tenerife.](https://fotos.etheriamagazine.com/2023/01/beach-teresitas-tenerife-spain.jpg "Playa de Las Teresitas, en Santa Cruz de Tenerife.")
 
 La isla de Tenerife siempre es una promesa de buen clima y vacaciones perfectas. En esta 
 isla canaria puedes hacer de todo: elegir uno de los hoteles de sus costas y descansar o 
@@ -287,7 +287,7 @@ dar un capricho.
 
 ![La Caleta.](https://fotos.etheriamagazine.com/2023/01/tenerife-la-caleta.jpg "La Caleta.")
 
-? **También te puede interesar:** 
+📍 **También te puede interesar:** 
 
 [10 planes para un viaje a Tenerife con 
 amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/) 

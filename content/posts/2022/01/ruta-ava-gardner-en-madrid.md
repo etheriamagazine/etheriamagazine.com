@@ -50,7 +50,7 @@ obligaban a cumplir con el arquetipo de la mujer tentadora. De hecho, en 1957 ro
 contrato con la Metro Goldwyn Mayer. En Madrid encontró las pasiones de su vida: los 
 toros, el flamenco, el whisky barato, las noches de juerga y también amores... 
 
-?Sigue leyendo para conocer los lugares que más frecuentaba y anímate a hacer la 
+📍Sigue leyendo para conocer los lugares que más frecuentaba y anímate a hacer la 
 auténtica **Ruta de Ava Gardner en Madrid**. 
 
 ![museo chicote ruta ava gardner en madrid](https://fotos.etheriamagazine.com/2022/01/museo-chico-ava-gardner.jpg "Museo Chicote. © Pedro Grifol")
@@ -230,11 +230,11 @@ pdf](https://www.esmadrid.com/sites/default/files/elmadriddeava.pdf).
 Si quieres saber más sobre Ava Gardner y sacar tus propias conclusiones, te recomendamos 
 tres libros y tres películas: 
 
-? Libros: **_Beberse la vida: Ava Gardner en España_**, de Marcos Ordóñez (Ed. Aguilar, 
+📌 Libros: **_Beberse la vida: Ava Gardner en España_**, de Marcos Ordóñez (Ed. Aguilar, 
 2004) **_Ava Gardner. Una diosa con pies de barro_**, de Lee [Server](https://quelibroleo.com/autores/server-lee) 
 (Ed. T&B, 2012) _**Ava en la noche**, de_ Manuel Vicent (Ed. Alfaguara, 2020) 
 
-? Películas: **Pandora y el holandés errante** (Albert Lewin, 1951) **Mogambo** (John 
+📌 Películas: **Pandora y el holandés errante** (Albert Lewin, 1951) **Mogambo** (John 
 Ford, 1953) **55 días en Pekín** (Nicholas Ray, 1963) 
 
 ![carteles de peliculas de ava gardner](https://fotos.etheriamagazine.com/2022/01/carteles-ava-gardner.jpg "Carteles de películas de Ava Gardner.")

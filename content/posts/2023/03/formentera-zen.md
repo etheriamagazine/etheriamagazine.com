@@ -124,8 +124,6 @@ de este apartado serán **Anna Estapé** (IG: pediatra.annaestape), la psicólog
 **Carmen Esteban** (IG: mipsicologainfantil) y **Raquel López** (mamifit.es), licenciada 
 en Ciencias de la Actividad Física y el Deporte. 
 
-![Familia junto al mar turquesa de Formentera](https://fotos.etheriamagazine.com/2023/03/formentera-zen-kids-families.jpg "Formentera Zen Kids & Families, un incentivo para viajar a la isla balear.")
-
 Por supuesto, en el Formentera Zen Kids & Families no se han olvidado de planificar 
 actividades y talleres para disfrutar juntos. El aprendizaje en familia no sólo es 
 divertido sino que afianza los lazos entre padres e hijos. 

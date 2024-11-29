@@ -261,7 +261,7 @@ igualdad de género.
 bolivianas me cansó. No tuve mal de altura ni nada de eso, pero sí es raro tener la 
 actividad física limitada por falta de aire. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Santiago de Chile y Atacama, nuevas etapas de 
 Sania](https://etheriamagazine.com/2023/02/27/ruta-santiago-atacama-uyuni/) 

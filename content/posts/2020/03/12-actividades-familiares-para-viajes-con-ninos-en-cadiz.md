@@ -15,7 +15,7 @@ niños suele tener una duración mínima de 5 días, os vamos a recomendar algun
 actividades y lugares que merece la pena conocer con los más pequeños (y los que no lo 
 son tanto). 
 
-![Playa Fuente del Gallo (Conil).](https://fotos.etheriamagazine.com/2020/03/playa-familiar-conil-900x600.jpg "Playa Fuente del Gallo (Conil). © Etheria Magazine")
+![Playa Fuente del Gallo (Conil).](https://fotos.etheriamagazine.com/2020/03/playa-familiar-conil.jpg "Playa Fuente del Gallo (Conil). © Etheria Magazine")
 
 **Actualizado 30 de julio 2023** 
 
@@ -30,7 +30,7 @@ que oferta. Si vas a Chiclana, la **playa de la Barrosa** sería la más adecuad
 Conil destacan las **playas de los Bateles y La Fontanilla**, con bandera azul. Vejer 
 brinda la **playa del Palmar**, amplia y con buenos chiringuitos casi a pie de playa. 
 
-?**Y si veraneas en Conil (o cerca):** [10 excursiones ideales desde Conil de la 
+📍**Y si veraneas en Conil (o cerca):** [10 excursiones ideales desde Conil de la 
 Frontera](https://etheriamagazine.com/2023/08/02/mejores-excursiones-desde-conil/) 
 
 La **playa de Zahara de los Atunes** también es estupenda, al igual que las Caños de 
@@ -69,7 +69,7 @@ El [autobús
 turístico](https://www.civitatis.com/es/cadiz/autobus-turistico-cadiz/?aid=10211) sale 
 por 24,99 € y es una buena opción cuando estéis cansados. 
 
-![El bautizo submarino es adecuado para niños y adultos.](https://fotos.etheriamagazine.com/2020/03/bautizo-submarinismo-cadiz-900x600.jpg "El bautizo submarino es adecuado para niños y adultos.")
+![El bautizo submarino es adecuado para niños y adultos.](https://fotos.etheriamagazine.com/2020/03/bautizo-submarinismo-cadiz.jpg "El bautizo submarino es adecuado para niños y adultos.")
 
 ## 3\. Bautizo submarino
 
@@ -82,7 +82,7 @@ salir desde 60 €/ bautizo. Además, los mayores también se pueden apuntar par
 PADI. Ten en cuenta que según la normativa, los pequeños no pueden hacer inmersiones en 
 alta mar por lo que el bautizo es en una piscina. 
 
-![Setenil de las bodegas, ruta pueblos blancos, sierra de cadiz](https://fotos.etheriamagazine.com/2018/10/1-Setenil-de-las-bodegas-pueblos-blancos-cadiz-1024x701.jpg "Setenil de las Bodegas (Cádiz). © Etheria Magazine")
+![Setenil de las bodegas, ruta pueblos blancos, sierra de cadiz](https://fotos.etheriamagazine.com/2018/10/1-Setenil-de-las-bodegas-pueblos-blancos-cadiz.jpg "Setenil de las Bodegas (Cádiz). © Etheria Magazine")
 
 ## 4\. Ruta por los pueblos blancos
 
@@ -104,7 +104,7 @@ no llevas coche, puedes apuntarte a una [Excursión a los Pueblos
 Blancos](https://www.civitatis.com/es/cadiz/excursion-pueblos-blancos/?aid=10211) por 
 unos 65 €. 
 
-![Ruinas de Baelo Claudia ruta del atun tarifa](https://fotos.etheriamagazine.com/2018/06/ruina-de-baelo-claudia-tarifa-ruta-del-atun-1024x683.jpg "Baelo Claudia se encuentra junto a una hermosa ensenada donde disfrutar de un día de playa. © Etheria Magazine")
+![Ruinas de Baelo Claudia ruta del atun tarifa](https://fotos.etheriamagazine.com/2018/06/ruina-de-baelo-claudia-tarifa-ruta-del-atun.jpg "Baelo Claudia se encuentra junto a una hermosa ensenada donde disfrutar de un día de playa. © Etheria Magazine")
 
 ## 5\. Ruinas de Baelo Claudia
 
@@ -117,7 +117,7 @@ que es fácil moverse por libre (aunque lo idóneo sería hacer una visita guiad
 gratuita para ciudadanos de la UE. Durante los meses estivales se suelen programar obras 
 en el teatro romano, reserva con antelación. 
 
-? NO TE LO PIERDAS: [Cómo visitar las ruinas romanas de Baelo 
+📌 NO TE LO PIERDAS: [Cómo visitar las ruinas romanas de Baelo 
 Claudia](http://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
 
 ![organizar viaje australia, australia para mujeres](https://fotos.etheriamagazine.com/2019/02/australia-viaje-surf.jpg "El surf es una de las actividad más divertidas en la playa.")
@@ -140,7 +140,7 @@ Escuela de Surf & Camp, entre otras.
 
 Precios desde 25 €/ clase de 2 horas. Una semana, a partir de 140 €. 
 
-![parques acuaticos cadiz](https://fotos.etheriamagazine.com/2020/03/parque-acuatico-cadiz-900x610.jpg "Los parques acuáticos son siempre una opción en verano.")
+![parques acuaticos cadiz](https://fotos.etheriamagazine.com/2020/03/parque-acuatico-cadiz.jpg "Los parques acuáticos son siempre una opción en verano.")
 
 ## 7\. Parques acuáticos
 
@@ -155,7 +155,7 @@ el [Bahía Park](https://www.bahiapark.com/) (Algeciras).
 Otra propuesta que está bien, pero más lejos, es [Isla 
 Mágica](https://www.islamagica.es/), en Sevilla. Desde 20 €. 
 
-![vejer de la frontera, viaje familia cadiz](https://fotos.etheriamagazine.com/2020/03/vejer-900x600.jpg "Vejer de la Frontera. © Etheria Magazine")
+![vejer de la frontera, viaje familia cadiz](https://fotos.etheriamagazine.com/2020/03/vejer.jpg "Vejer de la Frontera. © Etheria Magazine")
 
 ## 8.  Vejer de la Frontera con niños
 
@@ -169,10 +169,10 @@ están los paseos en burro, las visitas teatralizadas de las Marimantas, y visit
 molinos de viento. También dispone de un [freetour](https://www.civitatis.com/es/vejer-de-la-frontera/?aid=10211) 
 por si prefieres hacer la visita guiada. 
 
-? NO TE LO PIERDAS: [10 actividades imprescindibles en Vejer de la 
+📌 NO TE LO PIERDAS: [10 actividades imprescindibles en Vejer de la 
 Frontera](https://etheriamagazine.com/2020/08/11/10-actividades-vejer-de-la-frontera-que-ver-hacer/). 
 
-![taller hacer pan, molinos el bosque](https://fotos.etheriamagazine.com/2020/03/molino-taller-pan-el-bosque-900x684.jpg "© Molino de Abajo (El Bosque).")
+![taller hacer pan, molinos el bosque](https://fotos.etheriamagazine.com/2020/03/molino-taller-pan-el-bosque.jpg "© Molino de Abajo (El Bosque).")
 
 ## 9\. Hacer pan y recolectar miel
 
@@ -184,7 +184,7 @@ del pan, desde la molienda del trigo hasta la cocción en el horno. Luego se lle
 pan recién hecho. La visita del museo, instalado en el molino, con el taller incluido 
 cuesta solo 10 € por persona. 
 
-![museo miel, visita colmenas, jerez, visitas familiares](https://fotos.etheriamagazine.com/2020/03/miel-rancho-cortesano-900x602.jpg "Actividad con colmenas en © Rancho Cortesano.")
+![museo miel, visita colmenas, jerez, visitas familiares](https://fotos.etheriamagazine.com/2020/03/miel-rancho-cortesano.jpg "Actividad con colmenas en © Rancho Cortesano.")
 
 Para saborear la miel tendremos que ir a **Jerez de la Frontera** donde se encuentra [Rancho 
 Cortesano](https://www.ranchocortesano.net/talleres.php), que tiene más de 2.000 
@@ -193,7 +193,7 @@ importancia de las abejas, de la polinización y los distintos tipos de mieles. 
 talleres suelen incluir: visita a las colmenas, catas de miel y polen, envasado y 
 elaboración de velas, entre otras actividades. 
 
-![monos de gibraltar, viajes en familia](https://fotos.etheriamagazine.com/2018/05/Monos-Gibraltar-1-1024x656.jpg "Cuidado con los macacos, no son animales domésticos. © Etheria Magazine")
+![monos de gibraltar, viajes en familia](https://fotos.etheriamagazine.com/2018/05/Monos-Gibraltar-1.jpg "Cuidado con los macacos, no son animales domésticos. © Etheria Magazine")
 
 ## 10\. Excursión a Gibraltar con niños
 
@@ -211,7 +211,7 @@ familia](http://etheriamagazine.com/2018/05/21/gibraltar-una-escapada-en-familia
 tu hijo, también necesitarás una autorización firmada por sus padres y sellada por la 
 Guardia Civil. 
 
-![delfines estrecho gibraltar, viaje con ninos cadiz](https://fotos.etheriamagazine.com/2020/03/delfin-mular-estrecho-gibraltar-900x526.jpg "El delfín mular es una de las especies que se pueden ver en el estrecho de Gibraltar.")
+![delfines estrecho gibraltar, viaje con ninos cadiz](https://fotos.etheriamagazine.com/2020/03/delfin-mular-estrecho-gibraltar.jpg "El delfín mular es una de las especies que se pueden ver en el estrecho de Gibraltar.")
 
 ## 11\. Avistamiento de cetáceos
 
@@ -222,7 +222,7 @@ empresa **Turmares** (www.turmares.com) que se encuentra en Tarifa. Precios de l
 de 2 horas: de 1 a 5 años (15 €), de 6 a 14 años (30 €), adultos (45 €). Salidas 
 estándar a las 12 y a las 16 horas. 
 
-![sancti petri, paseo en barco](https://fotos.etheriamagazine.com/2020/03/Playa-sancti-petri-900x619.jpg "Castillo de Sancti Petri. © Etheria Magazine")
+![sancti petri, paseo en barco](https://fotos.etheriamagazine.com/2020/03/Playa-sancti-petri.jpg "Castillo de Sancti Petri. © Etheria Magazine")
 
 ## 12\. Paseos en barco
 

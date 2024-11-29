@@ -55,7 +55,7 @@ cultiva desde antiguo y el pimiento morrón es uno de los productos estrella que
 tomar tanto asado como frito. ¿Qué te parece una ensalada de estos dos productos aliñada 
 con una vinagreta y coronada con un crujiente de cecina? ¿A que apetece? 
 
-![Chorizos leoneses.](https://fotos.etheriamagazine.com/2021/07/Leon-Chorizo-683x1024.jpg "Chorizos leoneses.")
+![Chorizos leoneses.](https://fotos.etheriamagazine.com/2021/07/Leon-Chorizo.jpg "Chorizos leoneses.")
 
 ## Embutidos
 

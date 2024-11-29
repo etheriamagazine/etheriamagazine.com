@@ -14,7 +14,7 @@ Si no habías escuchado hablar de estas dos regiones navarricas repletas de bosq
 cascadas y pueblos bonitos marcados por la historia, en Etheria Magazine te damos ocho 
 razones para que las descubras en un viaje que conquistará a toda la familia. 
 
-![nacedero de urederra navarra](https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra-768x1024.jpg "El río Urederra rinde honor a su nombre en euskera, que significa ‘agua hermosa’. © KR")
+![nacedero de urederra navarra](https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra.jpg "El río Urederra rinde honor a su nombre en euskera, que significa ‘agua hermosa’. © KR")
 
 A medio camino entre las cumbres del Pirineo navarro y la aridez de la Ribera, en la 
 Zona Media navarra, la merindad **Tierra Estella-Lizarraldea** acoge en su seno las 

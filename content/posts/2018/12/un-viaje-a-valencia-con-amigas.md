@@ -15,7 +15,7 @@ grados, seguro que correrás a preguntarnos dónde. En Valencia. La capital del 
 de las bondades de una climatología envidiable y un tamaño perfecto para tu próxima 
 escapada con amigas. 
 
-![Palau Alameda, un imprescindible de la noche en Valencia.](https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda-1024x580.jpg "Palau Alameda, un imprescindible de la noche en Valencia.")
+![Palau Alameda, un imprescindible de la noche en Valencia.](https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda.jpg "Palau Alameda, un imprescindible de la noche en Valencia.")
 
 Manga corta en diciembre? ¿Pasear junto al mar en invierno? ¡Sí! Y además disfrutar de 
 una ciudad vibrante, divertida, accesible y gastronómicamente deliciosa. Coge a tus 
@@ -99,7 +99,7 @@ la calle Pelayo. Las berenjenas con salsa Yu Xiang de **Min Dou**, las empanadil
 plancha de **Casa Wei Wei (**restauranteweiwei.com) o los noodles con algas, espinacas y 
 caldo de panceta de **Felisano**, son algunos de los favoritos del barrio. 
 
-![Pollo Chongqing, de Casa Weiwei. Mercado de Colón y Xian Mian de Felisano](https://fotos.etheriamagazine.com/2018/11/comer-en-valencia-1024x774.jpg "Pollo Chongqing, de Casa Weiwei (Izq.). Mercado de Colón (Dcha. Arr.) y Xian Mian de Felisano (Dcha. Ab.)")
+![Pollo Chongqing, de Casa Weiwei. Mercado de Colón y Xian Mian de Felisano](https://fotos.etheriamagazine.com/2018/11/comer-en-valencia.jpg "Pollo Chongqing, de Casa Weiwei (Izq.). Mercado de Colón (Dcha. Arr.) y Xian Mian de Felisano (Dcha. Ab.)")
 
 Para bajar tanta delicia gastronómica, te proponemos un paseo por el centro de la 
 ciudad, un poco de **_shopping_ por la calle Colón** y una visita al **mercado de 

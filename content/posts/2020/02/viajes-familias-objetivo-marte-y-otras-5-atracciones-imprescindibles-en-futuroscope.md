@@ -16,7 +16,7 @@ Astronomía y a la aventura: pisar Marte. Esta atracción en forma de montaña r
 primera del parque de estas características, se suma a las cuarenta que ya tiene 
 disponibles para toda la familia. 
 
-![objetivo marte, futuroscope 2020](https://fotos.etheriamagazine.com/2020/02/Futuroscope-objetivo-marte-900x600.jpg "Objetivo Marte, la nueva atracción de Futuroscope en 2020. © Calune, Glory Paris, D LAMING, AEROPHILE - Futuroscope")
+![objetivo marte, futuroscope 2020](https://fotos.etheriamagazine.com/2020/02/Futuroscope-objetivo-marte.jpg "Objetivo Marte, la nueva atracción de Futuroscope en 2020. © Calune, Glory Paris, D LAMING, AEROPHILE - Futuroscope")
 
 Un parque de las dimensiones de Futuroscope requiere de una buena planificación, sobre 
 todo si se viaja con niños pequeños, pero de eso ya os hemos hablado ([10 consejos para 
@@ -41,7 +41,7 @@ electromagnéticas y erupciones solares con velocidades de hasta 55 km/hora. Y n
 olvidemos, que todo ello en una montaña rusa que entra y sale del pabellón de la 
 atracción y con fuego _indoor_. 
 
-![objetivo marte, futuroscope](https://fotos.etheriamagazine.com/2020/02/Objetivo-Marte-montana-rusa-900x728.jpg "Montaña rusa de Objetivo Marte. © Glory Paris - Futuroscope")
+![objetivo marte, futuroscope](https://fotos.etheriamagazine.com/2020/02/Objetivo-Marte-montana-rusa.jpg "Montaña rusa de Objetivo Marte. © Glory Paris - Futuroscope")
 
 ### Futurópolis, la ciudad de los niños
 
@@ -53,7 +53,7 @@ admirados. ¡Quién no querría ser bombero y tener a su disposición grandes ma
 agua! O bien, entrar en la **Academia Salvavidas** o ser aprendiz de piloto. Hay 21 
 atracciones repartidas en tres hectáreas de terreno para disfrutar todos juntos. 
 
-![futuropolis, futuroscope](https://fotos.etheriamagazine.com/2020/02/Academia-Salvavidas-Futuropolis-900x600.jpg "Academia de Salvamento de Futurópolis. © Christophe BENE/Brune/D LAMING, Architecte/Futuroscope")
+![futuropolis, futuroscope](https://fotos.etheriamagazine.com/2020/02/Academia-Salvavidas-Futuropolis.jpg "Academia de Salvamento de Futurópolis. © Christophe BENE/Brune/D LAMING, Architecte/Futuroscope")
 
 ### El Viaje Extraordinario
 
@@ -64,7 +64,7 @@ viajes de Phileas Fogg alrededor del mundo, por lo que recorrerás el planeta si
 un pájaro. Algunos efectos muy bien logrados son el aroma a curry al sobrevolar la India 
 o el frío al pasar por las cordilleras nevadas. 
 
-![viaje extraordinario, parque futuroscope](https://fotos.etheriamagazine.com/2020/02/futuroscope-el-viaje-extraordinario-900x600.jpg "El Viaje Extraordinario de Futuroscope. © Futuroscope/Cube Creative/Brune/B.Comtesse")
+![viaje extraordinario, parque futuroscope](https://fotos.etheriamagazine.com/2020/02/futuroscope-el-viaje-extraordinario.jpg "El Viaje Extraordinario de Futuroscope. © Futuroscope/Cube Creative/Brune/B.Comtesse")
 
 ### La máquina del tiempo de los Rabbids
 
@@ -73,7 +73,7 @@ llevando unas gafas 3D– recorren distintos escenarios de la historia. Los efec
 especiales introducen a los niños de una forma divertida en cinco épocas distintas como 
 la Grecia Antigua, el Lejano Oeste y la era espacial. 
 
-![maquina del tiempo de los rabbids, futuroscope](https://fotos.etheriamagazine.com/2020/02/futuroscope-Maquina-del-tiempo-900x546.jpg "La Máquina del Tiempo de los Rabbids. © JL AUDY-O HERAL/FUTUROSCOPE/Lapins Crétins TM & © /Ubisoft")
+![maquina del tiempo de los rabbids, futuroscope](https://fotos.etheriamagazine.com/2020/02/futuroscope-Maquina-del-tiempo.jpg "La Máquina del Tiempo de los Rabbids. © JL AUDY-O HERAL/FUTUROSCOPE/Lapins Crétins TM & © /Ubisoft")
 
 ### Baila con robots
 
@@ -84,7 +84,7 @@ abrocharte con seguridad se moverá al ritmo de la música del Dj Martin Solveig
 intensidad de este "baile", a 7 metros de altura, la eliges tú mismo, hay tres niveles, 
 desde el más suave al más intenso. Los adolescentes son los que más disfrutarán. 
 
-![baila con robots, futuroscope](https://fotos.etheriamagazine.com/2020/02/futuroscope-baila-con-robots-900x544.jpg "Baila con robots. © ACI (JL AUDY-F JUILLE)/Kuka/BCBG/FUTUROSCOPE")
+![baila con robots, futuroscope](https://fotos.etheriamagazine.com/2020/02/futuroscope-baila-con-robots.jpg "Baila con robots. © ACI (JL AUDY-F JUILLE)/Kuka/BCBG/FUTUROSCOPE")
 
 ### Arthur, la aventura en 4D
 
@@ -99,7 +99,7 @@ proyecta la de '**Thomas Pesquet**', que tiene una duración de 25 minutos y te 
 en la vida de este astronauta francés, desde sus entrenamientos hasta la vida a bordo de 
 la nave. 
 
-![Thomas Pesquet, una mirada al universo](https://fotos.etheriamagazine.com/2020/02/thomas-Pesquet-futuroscope-900x647.jpg "Thomas Pesquet, una mirada al universo. © ESA/NASA")
+![Thomas Pesquet, una mirada al universo](https://fotos.etheriamagazine.com/2020/02/thomas-Pesquet-futuroscope.jpg "Thomas Pesquet, una mirada al universo. © ESA/NASA")
 
 Hay muchas otras atracciones interesantes pero una que consideramos imprescindible, 
 sobre todo para adultos, es '**Ojos que no ven**'. Se paga aparte de la entrada del 
@@ -111,7 +111,7 @@ en el Himalaya o pasar por un pantano. El dinero recaudado se destina a la **Ass
 Paul Guinot**. Este año cumple su 15 aniversario, y ya han pasado por ella 1,5 millones 
 de visitantes solidarios. 
 
-![aerobar futuroscope, bares futuroscope](https://fotos.etheriamagazine.com/2020/02/aerobar-futuroscope-900x707.jpg "Aerobar de Futuroscope. © JL AUDY/Aircopter/AEROPHILE/D LAMING, Architecte/FUTUROSCOPE")
+![aerobar futuroscope, bares futuroscope](https://fotos.etheriamagazine.com/2020/02/aerobar-futuroscope.jpg "Aerobar de Futuroscope. © JL AUDY/Aircopter/AEROPHILE/D LAMING, Architecte/FUTUROSCOPE")
 
 ## Dónde comer en Futuroscope
 
@@ -137,7 +137,7 @@ En el entorno de Futuroscope encontrarás **10 hoteles** desde los que podrás l
 parque en menos de 10 minutos a pie. Uno de ellos, además, el **Hotel Du Futuroscope** 
 (de una estrella) tiene acceso directo a través de una pasarela peatonal. 
 
-![vista nocturna futuroscope, donde dormir futuroscope](https://fotos.etheriamagazine.com/2020/02/futuropolis-Vista-nocturna-900x591.jpg "Vista nocturna. © Futuroscope/JL Audy")
+![vista nocturna futuroscope, donde dormir futuroscope](https://fotos.etheriamagazine.com/2020/02/futuropolis-Vista-nocturna.jpg "Vista nocturna. © Futuroscope/JL Audy")
 
 ## Más recomendaciones
 

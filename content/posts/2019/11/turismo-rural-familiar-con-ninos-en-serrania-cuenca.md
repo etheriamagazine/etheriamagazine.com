@@ -13,7 +13,7 @@ Escapar del medio urbano para adentrarse en la naturaleza es una de las opciones
 interesantes para un viaje en familia. En Etheria Magazine te proponemos la Serranía de 
 Cuenca como un plan ideal con niños y te sugerimos 3 excursiones imprescindibles. 
 
-![Ruta senderista por la hoz de Beteta](https://fotos.etheriamagazine.com/2019/11/ruta-senderista-hoz-beteta-900x650.jpg "Ruta senderista por la hoz de Beteta. © Pepa García")
+![Ruta senderista por la hoz de Beteta](https://fotos.etheriamagazine.com/2019/11/ruta-senderista-hoz-beteta.jpg "Ruta senderista por la hoz de Beteta. © Pepa García")
 
 Hemos elegido la Serranía de Cuenca como un destino ideal para disfrutar de un fin de 
 semana en familia por su situación céntrica desde diversos puntos del país, su entorno 
@@ -33,7 +33,7 @@ cuando el tiempo lo permite se pueden hacer buenos asados, el parque infantil y 
 cercana piscina natural adaptada para el baño. En invierno, suele nevar en la zona pero 
 las cabañas tienen calefacción y la imagen sigue siendo ideal. 
 
-![el llano de los conejos, ruta cuenca, turismo rural serrania cuenca](https://fotos.etheriamagazine.com/2019/11/alojamiento-rural-familias-cuenca-900x692.jpg "Cabaña de El Llano de los Conejos. © P.G.")
+![el llano de los conejos, ruta cuenca, turismo rural serrania cuenca](https://fotos.etheriamagazine.com/2019/11/alojamiento-rural-familias-cuenca.jpg "Cabaña de El Llano de los Conejos. © P.G.")
 
 ## Qué actividades hacer con niños en la Serranía de Cuenca
 
@@ -44,13 +44,13 @@ medio día o bien llevar un picnic y parar a comer en alguno de los merenderos s
 en el entorno. Busca en tu GPS o Google Maps: Área recreativa Fuente de los Tilos (Km 46 
 de la CM-210), a unos 2 km de Puente Vadillos. 
 
-?**¿Qué es la hoz de Beteta?** Es un cañón labrado por el río Guadiela al atravesar un 
+📌**¿Qué es la hoz de Beteta?** Es un cañón labrado por el río Guadiela al atravesar un 
 macizo de rocas carbonatadas. Algunos tramos son muy sinuosos debido a que el agua sólo 
 ha logrado excavar las rocas más blandas en ciertas zonas. Además de la hoz en sí, que 
 fue declarada Monumento Natural, es muy llamativo el bosque de ribera, con árboles poco 
 frecuentes en la provincia conquense, heredero de los antiguos bosques eurosiberianos. 
 
-![ruta serrania conquense](https://fotos.etheriamagazine.com/2019/11/hoz-beteta-cuenca-900x662.jpg "Cañón del río Guadiela (Cuenca). ©P.G.")
+![ruta serrania conquense](https://fotos.etheriamagazine.com/2019/11/hoz-beteta-cuenca.jpg "Cañón del río Guadiela (Cuenca). ©P.G.")
 
 #### Ruta completa: 6 kilómetros
 
@@ -61,7 +61,7 @@ ibérica. Es aconsejable llevar prismáticos para observar los buitres leonados 
 aves como alimoches, águilas culebreras, búhos reales, mirlos acuáticos, azores, 
 alcotanes y gavilanes. 
 
-![sendero botanico, hoz beteta, ruta natural cuenca](https://fotos.etheriamagazine.com/2019/11/hoz-beteta-cuenca-1-900x643.jpg "Sendero botánico de la hoz de Beteta (Cuenca). © P.G.")
+![sendero botanico, hoz beteta, ruta natural cuenca](https://fotos.etheriamagazine.com/2019/11/hoz-beteta-cuenca-1.jpg "Sendero botánico de la hoz de Beteta (Cuenca). © P.G.")
 
 #### Opciones en la ruta de la hoz del río Beteta
 
@@ -79,7 +79,7 @@ Distancia: 2.600 metros. Duración: 1,5 horas. Dificultad: baja
 En el camino se puede ver la represa de los Tilos, la Cueva de la Ramera y la cueva del 
 Armentero. Distancia: 1.600 metros. En el último tramo hay un desnivel más fuerte. 
 
-![ruta beteta, cueva ramera](https://fotos.etheriamagazine.com/2019/11/ruta-beteta-cueva-ramera-900x736.jpg "Susurrar a los árboles o convertirse en espeleólogos. Diversión asegurada para los niños. ©P.G.")
+![ruta beteta, cueva ramera](https://fotos.etheriamagazine.com/2019/11/ruta-beteta-cueva-ramera.jpg "Susurrar a los árboles o convertirse en espeleólogos. Diversión asegurada para los niños. ©P.G.")
 
 ##### Visita a la cueva de la Ramera
 
@@ -92,7 +92,7 @@ al caminar por el suelo húmedo. No abren todo el año y, a veces, está en mant
 por lo que es aconsejable consultarlo antes en la web del [Ayuntamiento](http://aytobeteta.es/mis-encantos/cueva-de-la-ramera-2/). 
 El precio para los adultos es de 5 euros y los niños hasta los 7 años pasan gratis. 
 
-![cueva ramera, hoz beteta cuenca](https://fotos.etheriamagazine.com/2019/11/cueva-ramera-guia-900x320.jpg "Cueva de la Ramera (hoz de Beteta). ©P.G.")
+![cueva ramera, hoz beteta cuenca](https://fotos.etheriamagazine.com/2019/11/cueva-ramera-guia.jpg "Cueva de la Ramera (hoz de Beteta). ©P.G.")
 
 Esta gruta estuvo ocupada por humanos desde el Neolítico hasta hace unos 400 años. 
 También fue aprovechada posteriormente por los pastores para cobijar el rebaño. En el 
@@ -106,7 +106,7 @@ Observa también el techo y las paredes para ver el murciélago grande de herrad
 península ibérica. Las vistas de la hoz de Beteta desde la entrada de la gruta son 
 impresionantes por lo que merece la pena subir aunque no se vaya a entrar. 
 
-![nacimiento rio cuervo](https://fotos.etheriamagazine.com/2019/11/nacimiento-rio-cuervo-900x600.jpg "Nacimiento río Cuervo. © PixB")
+![nacimiento rio cuervo](https://fotos.etheriamagazine.com/2019/11/nacimiento-rio-cuervo.jpg "Nacimiento río Cuervo. © PixB")
 
 ### Nacimiento del río Cuervo
 
@@ -120,7 +120,7 @@ diversos tipos de aves, ardillas rojas, musgaño de cabrera y, quién sabe, si t
 algún gato montés. Lo que sí que verás seguro son pinares, acebos, tilos y arces, además 
 de al menos 19 especies de orquídeas, entre ellas la escasa _Ophrys insectifera_. 
 
-![merendero rio cuervo](https://fotos.etheriamagazine.com/2019/11/merendero-rio-cuervo-900x675.jpg "Merendero junto al parking del Nacimiento del Río Cuervo.")
+![merendero rio cuervo](https://fotos.etheriamagazine.com/2019/11/merendero-rio-cuervo.jpg "Merendero junto al parking del Nacimiento del Río Cuervo.")
 
 #### 3 senderos en el Nacimiento del río Cuervo
 
@@ -134,7 +134,7 @@ frío y el suelo resbala.
 En Vega del Codorno se encuentra el centro de interpretación Nacimiento del Río Cuervo 
 (en la Casa de la Herrería), por si queréis ir más documentados. 
 
-![Señalización del sendero La Turbera.](https://fotos.etheriamagazine.com/2019/11/sendero-la-turbera-cuenca-900x688.jpg "Señalización del sendero La Turbera. ©P.G.")
+![Señalización del sendero La Turbera.](https://fotos.etheriamagazine.com/2019/11/sendero-la-turbera-cuenca.jpg "Señalización del sendero La Turbera. ©P.G.")
 
 ### Parque Cinegético del Hosquillo
 

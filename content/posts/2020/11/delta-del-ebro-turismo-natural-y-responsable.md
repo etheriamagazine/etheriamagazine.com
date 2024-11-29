@@ -34,7 +34,7 @@ plantas y las aves que nidifican en la arena. Recorremos 4 kilómetros, atravesa
 del Delta del Ebro,** cierra la bahía que, en la orilla opuesta, es contorneada por los 
 arrozales de la localidad de **Deltebre**. 
 
-![punta del fangar en delta del ebro](https://fotos.etheriamagazine.com/2020/11/delta-del-ebro-el-fangar-683x1024.jpg "Península del Fangar.")
+![punta del fangar en delta del ebro](https://fotos.etheriamagazine.com/2020/11/delta-del-ebro-el-fangar.jpg "Península del Fangar.")
 
 ## Bahía de Els Alfacs, flamencos y ostras en el Delta del Ebro
 
@@ -68,7 +68,7 @@ refugiándose de los rigores invernales. Abarca las enormes dimensiones de la ba
 subiendo a la torre de observación frente a la casa. También es recomendable catar los 
 arroces, esos que estos días vemos recogiendo a los agricultores locales. 
 
-![arroz del restaurante l estany](https://fotos.etheriamagazine.com/2020/11/delta-ebro-laguna-Encanyssada-paella-683x1024.jpg "Restaurante L'Estany, en Tierras del Ebro.")
+![arroz del restaurante l estany](https://fotos.etheriamagazine.com/2020/11/delta-ebro-laguna-Encanyssada-paella.jpg "Restaurante L'Estany, en Tierras del Ebro.")
 
 Las infinitas combinaciones arroceras del saber culinario deltaico despiertan apetito 
 con las recetas del [restaurante Casa de Fusta](https://restaurantcasadefusta.com/es/). 
@@ -76,7 +76,7 @@ Después, para bajar la comida, un **paseo en piragua o en carro** nos llevan po
 caminos por el corazón del Delta. Lo más divertido es perchar, al estilo tradicional, en 
 barca de madera o pontona con la que se transportaba el arroz. 
 
-![salicornia laguna tancada en terres del ebre](https://fotos.etheriamagazine.com/2020/11/del-ebro-tancada-salicornia-683x1024.jpg "Salicornia de la laguna de la Tancada.")
+![salicornia laguna tancada en terres del ebre](https://fotos.etheriamagazine.com/2020/11/del-ebro-tancada-salicornia.jpg "Salicornia de la laguna de la Tancada.")
 
 ## Laguna de la Tancada, otoño en rojo
 
@@ -123,7 +123,7 @@ Por el contrario, es la biodiversidad del Delta la que dispone, en la reserva na
 de un agua excelente y un magnífico entorno paisajístico. De este modo se mejora la 
 calidad ambiental, el futuro de las aves y la vida de los habitantes del Delta. 
 
-![finca de arroz riet vell terres del ebre](https://fotos.etheriamagazine.com/2020/11/delta-ebro-arroz-697x1024.jpg "Finca de arroz ecológico Riet Vell.")
+![finca de arroz riet vell terres del ebre](https://fotos.etheriamagazine.com/2020/11/delta-ebro-arroz.jpg "Finca de arroz ecológico Riet Vell.")
 
 ## Río arriba hasta Tortosa
 

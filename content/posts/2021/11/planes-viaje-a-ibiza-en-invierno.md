@@ -58,7 +58,7 @@ son pocos los restaurantes costeros que permanecen **abiertos durante la tempora
 baja**. Toma nota de algunos ejemplos: **La Escollera**, **Port Balansat**, **Sa 
 Caleta**, **Can Pujol**, **The Boat House**, **Yemanjá** y **Cala Martina**. 
 
-![Restaurante La Escollera, restaurantes romanticos ibiza](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-la-escollera-900x574.jpg "Restaurante La Escollera (Ibiza). © Luana Failla/ La Escollera")
+![Restaurante La Escollera, restaurantes romanticos ibiza](https://fotos.etheriamagazine.com/2020/02/restaurante-romantico-ibiza-la-escollera.jpg "Restaurante La Escollera (Ibiza). © Luana Failla/ La Escollera")
 
 ### 2\. Descubrir valles escondidos
 

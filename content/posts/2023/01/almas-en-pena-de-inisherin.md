@@ -14,7 +14,7 @@ presumir de haber acogido rodajes de gran éxito como 'Juego de tronos' o 'Las c
 Inisherin” y sus escenarios llevan al espectador hasta dos islas: Achill e Inis Mór (la 
 mayor de las islas de Aran). 
 
-![Colin Farrell en la película 'Almas en pena de Inisherin'.](https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin-1-850x478.jpg "Colin Farrell en la película 'Almas en pena de Inisherin'. © Jonathan Hession/ 2022 20th Century Studios All Rights Reserved.")
+![Colin Farrell en la película 'Almas en pena de Inisherin'.](https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin-1.jpg "Colin Farrell en la película 'Almas en pena de Inisherin'. © Jonathan Hession/ 2022 20th Century Studios All Rights Reserved.")
 
 No es la primera vez que os hablamos en Etheria Magazine de Irlanda ni de cine, ya que 
 conjuntamente forman un tándem difícil de igualar. Cómo resistirse a recorrer algunos 
@@ -34,7 +34,7 @@ tres galardones en los pasados **Globos de Oro** de 2023 a _Mejor Comedia_, _Mej
 Guion_ y _Mejor Actor de comedia o musical_ para Colin Farrell, y recibió en el 
 **Festival de Venecia** una ovación del público de trece minutos. 
 
-![Los protagonistas en 'Almas en pena en Inisherin'](https://fotos.etheriamagazine.com/2023/01/Almas-pena-Inisherin-irlanda-850x478.jpg "Los protagonistas en 'Almas en pena en Inisherin'. © Jonathan Hession/ Searchlight Pictures/ 2022 20th Century Studios All Rights Reserved.")
+![Los protagonistas en 'Almas en pena en Inisherin'](https://fotos.etheriamagazine.com/2023/01/Almas-pena-Inisherin-irlanda.jpg "Los protagonistas en 'Almas en pena en Inisherin'. © Jonathan Hession/ Searchlight Pictures/ 2022 20th Century Studios All Rights Reserved.")
 
 ## Camino de los Oscar
 
@@ -45,7 +45,7 @@ Montaje_, _Mejor Guion Original_ y _Mejor Banda Sonora_). Para saber si triunfa,
 habrá que esperar al 13 de marzo pero se estrena en cines el 3 de febrero, por lo que 
 podremos juzgar por nosotros mismos antes de esa fecha. 
 
-![Colin Farrell y Brendan Gleeson en Almas en pena de Inisherin](https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin-850x354.jpg "Colin Farrell y Brendan Gleeson en 'Almas en pena de Inisherin'. © Searchlight Pictures/ 2022 20th Century Studios All Rights Reserved.")
+![Colin Farrell y Brendan Gleeson en Almas en pena de Inisherin](https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin.jpg "Colin Farrell y Brendan Gleeson en 'Almas en pena de Inisherin'. © Searchlight Pictures/ 2022 20th Century Studios All Rights Reserved.")
 
 ## La película y el reparto
 
@@ -65,7 +65,7 @@ recuerdos de infancia del director, hijo de inmigrantes, que volvía cada verano
 aquella tierra donde el tiempo parecía transcurrir a otro ritmo y lo genuino de carácter 
 local permanece hasta ahora. 
 
-![Dún Eochla, en Inishmore, en las islas de Aran. Escenario de la película Almas en pena de Inisherin](https://fotos.etheriamagazine.com/2023/01/Dun-eochla-Inishmore-islas-aran-850x638.jpg "Dún Eochla, en Inishmore, en las islas de Aran.")
+![Dún Eochla, en Inishmore, en las islas de Aran. Escenario de la película Almas en pena de Inisherin](https://fotos.etheriamagazine.com/2023/01/Dun-eochla-Inishmore-islas-aran.jpg "Dún Eochla, en Inishmore, en las islas de Aran.")
 
 ## Localizaciones de 'Almas en pena de Inisherin'
 
@@ -88,7 +88,7 @@ Tomad también nota del **fuerte Dún Aonghasa** (Dun Aengus), levantado hace un
 mil años, y las extensas ruinas monásticas del siglo VIII de Na Seacht dTeampaíll (Las 
 Siete Iglesias), envueltas en un aura mística. 
 
-![Isla de Achill, en el condado de Mayo](https://fotos.etheriamagazine.com/2023/01/isla-achill-irlanda-850x638.jpg "Isla de Achill, en el condado de Mayo. © Rizby Mazumder")
+![Isla de Achill, en el condado de Mayo](https://fotos.etheriamagazine.com/2023/01/isla-achill-irlanda.jpg "Isla de Achill, en el condado de Mayo. © Rizby Mazumder")
 
 ### Isla de Achill: acantilados y la energía del mar
 

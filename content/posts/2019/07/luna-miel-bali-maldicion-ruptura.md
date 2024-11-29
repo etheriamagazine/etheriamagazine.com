@@ -134,7 +134,7 @@ Asiático y es el lugar elegido por numerosas parejas para comprometerse, casars
 viajar en su luna de miel. Una isla para enamorarse y enamorar que nadie debería evitar. 
 ¿Quién sabe? Tal vez aquí encuentres al amor de tu vida. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Planes para aprovechar bien tres días en 
 Bangkok](https://etheriamagazine.com/2021/05/29/tres-dias-en-bangkok-que-hacer/) 

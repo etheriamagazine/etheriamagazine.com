@@ -75,7 +75,7 @@ general.
 > polémica notable en todo el mundo. Polémica que, por otra parte –es innegable–, revela 
 > que la llaga del sexismo está siempre abierta a pesar de los avances sociales. 
 
-![la vida de adele test de bechdel](https://fotos.etheriamagazine.com/2021/01/la-vida-de-adele-839x1024.jpg "La vida de Adèle pasaría el test de Bechdel.")
+![la vida de adele test de bechdel](https://fotos.etheriamagazine.com/2021/01/la-vida-de-adele.jpg "La vida de Adèle pasaría el test de Bechdel.")
 
 #### Consideraciones de los detractores
 
@@ -115,7 +115,7 @@ población, deberíamos estar igual de representadas en la pantalla. Algo que no
 demasiadas veces, y que se explica, en parte, porque la mayoría de los productores, 
 guionistas y directores son hombres. 
 
-![cartel pelicula las ninas](https://fotos.etheriamagazine.com/2021/01/Cartel-Las-Ninas-716x1024.jpg "Cartel de la película 'Las niñas'.")
+![cartel pelicula las ninas](https://fotos.etheriamagazine.com/2021/01/Cartel-Las-Ninas.jpg "Cartel de la película 'Las niñas'.")
 
 ## ¿Quién aprueba y quién no?
 
@@ -141,7 +141,7 @@ gala Céline Sciamma o, y esto es sorprendente, la segunda parte de la trilogía
 Padrino_, donde hay un diálogo entre Connie Corleone y su madre, sin referencia alguna a 
 hombres. 
 
-![la boda de rosa text bechdel](https://fotos.etheriamagazine.com/2021/01/La-boda-de-Rosa_Natxo-Martínez-900x600.jpg "Fotograma de 'La boda de Rosa'. © Natxo Martínez")
+![la boda de rosa text bechdel](https://fotos.etheriamagazine.com/2021/01/La-boda-de-Rosa_Natxo-Martínez.jpg "Fotograma de 'La boda de Rosa'. © Natxo Martínez")
 
 ## El cine español: un asunto de hombres con reflejos de esperanza
 
@@ -162,7 +162,7 @@ de las palabras_ y en 2018 con _La librería_. Aunque, paradójicamente, no sign
 todas pasaran todos los requisitos para aprobar el test de Bechdel, lo que abundaría en 
 los argumentos de los detractores. 
 
-![cartel invisibles test bechdel](https://fotos.etheriamagazine.com/2021/01/Cartel-Invisibles-717x1024.jpg "Cartel de la película 'Invisibles'.")
+![cartel invisibles test bechdel](https://fotos.etheriamagazine.com/2021/01/Cartel-Invisibles.jpg "Cartel de la película 'Invisibles'.")
 
 #### ¿Aprueban el test las películas de 2020?
 

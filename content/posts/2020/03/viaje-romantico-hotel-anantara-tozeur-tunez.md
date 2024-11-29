@@ -15,7 +15,7 @@ Anantara Tozeur Resort, en Túnez, situado frente a las dunas del desierto del S
 viaje para darse un capricho de lujo y disfrutar de la tranquilidad, del paisaje y de 
 las excelentes instalaciones de este hotel. 
 
-![Jardín del Anantara Tozeur Resort.](https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-900x600.jpg "Jardín del Anantara Tozeur Resort.")
+![Jardín del Anantara Tozeur Resort.](https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur.jpg "Jardín del Anantara Tozeur Resort.")
 
 El desierto proporciona esa sensación de paz y desconexión tan difícil de encontrar hoy 
 en día. Si además puedes disfrutarlo en un hotel como el **Anantara Tozeur Resort**, 
@@ -28,7 +28,7 @@ palacio y en casa.
 Para que la experiencia de lujo sea completa, podéis solicitar un traslado privado desde 
 el aeropuerto de Tozeur, a tan solo quince minutos del resort. 
 
-![hall del Anantara Tozeur Resort](https://fotos.etheriamagazine.com/2020/03/Hotel-Anantara-Tozeur-Lobby-900x520.jpg "Amplio hall del hotel.")
+![hall del Anantara Tozeur Resort](https://fotos.etheriamagazine.com/2020/03/Hotel-Anantara-Tozeur-Lobby.jpg "Amplio hall del hotel.")
 
 ## Las habitaciones
 
@@ -38,14 +38,14 @@ Sahara** y las **villas de uno o dos dormitorios**. Si quieres darte un capricho
 dudes en elegir una con piscina privada. Descubrirás así uno de los rincones más 
 impactantes del hotel, sobre todo por el paisaje que las rodea. 
 
-![Habitación Sahara Deluxe del Anantara Tozeur](https://fotos.etheriamagazine.com/2020/03/Hotel-Anantara-Tozeur-Sahara-Deluxe-Room-900x600.jpg "Habitación Sahara Deluxe.")
+![Habitación Sahara Deluxe del Anantara Tozeur](https://fotos.etheriamagazine.com/2020/03/Hotel-Anantara-Tozeur-Sahara-Deluxe-Room.jpg "Habitación Sahara Deluxe.")
 
 Todas son amplias, con terraza a ras del suelo, y están decoradas en tonos neutros que 
 combinan a la perfección con los colores arena del paisaje. Las villas son especialmente 
 amplias, con grandes ventanales abiertos a las dunas que permiten sentirlas como una 
 extensión del propio jardín. 
 
-![Terraza de la habitación Deluxe Sahara.](https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-Deluxe-Room-900x600.jpg "Terraza de la habitación Deluxe Sahara.")
+![Terraza de la habitación Deluxe Sahara.](https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-Deluxe-Room.jpg "Terraza de la habitación Deluxe Sahara.")
 
 Cuenta con Wifi gratuito, cafetera, ducha y bañera independientes y todos los servicios 
 de un hotel Anantara de cinco estrellas. Las villas de dos dormitorios disponen, además, 
@@ -62,14 +62,14 @@ dejarte seducir por las **Arabian Nights** celebradas en el zoco del resort, don
 podrás degustar una excelente cena con productos tradicionales mientras curioseas entre 
 las piezas de los artesanos árabes y disfrutas con los espectáculos. 
 
-![Restaurante Mekong del Anantara Tozeur Resort](https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-Mekong-Restaurant-900x600.jpg "Restaurante Mekong.")
+![Restaurante Mekong del Anantara Tozeur Resort](https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-Mekong-Restaurant.jpg "Restaurante Mekong.")
 
 Para un momento más informal, puedes disfrutar de **Oasis**, restaurante que ofrece 
 comida ligera junto a la piscina, de un té en el **Lobby Lounge** o de un licor en 
 **Whiskeypedia**. Y, por supuesto, con la opción de disfrutar de la mejor gastronomía en 
 tu habitación: desayuno en la cama, una barbacoa privada… ¿Se puede pedir más? 
 
-![Cena en el desierto](https://fotos.etheriamagazine.com/2020/03/Hotel-Anantara-Tozeur-Dining-by-Design-900x630.jpg "Dining by Design en el desierto.")
+![Cena en el desierto](https://fotos.etheriamagazine.com/2020/03/Hotel-Anantara-Tozeur-Dining-by-Design.jpg "Dining by Design en el desierto.")
 
 Si buscas un momento romántico, déjate seducir por **Dining by Design**, una alternativa 
 con la que disfrutar de una cena privada en medio del desierto o en una terraza en una 
@@ -87,7 +87,7 @@ disfrutarás tanto en un día de relax como a la vuelta de tus excursiones. El h
 dispone de tres (una para adultos, una familiar y una para niños) y no hay nada como 
 tomar un cóctel después de un refrescante baño. 
 
-![Piscina privada en el desierto](https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-One-Bedroom-Pool-Villa-900x564.jpg "Piscina privada de una de las Villas.")
+![Piscina privada en el desierto](https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-One-Bedroom-Pool-Villa.jpg "Piscina privada de una de las Villas.")
 
 Si no puedes renunciar al ejercicio, seguro que encuentras un hueco para entrenarte en 
 el **gimnasio** o pasar un rato jugando al **tenis** en sus pistas. También cuenta con 
@@ -112,7 +112,7 @@ abandonados** de Chebika, Tamerza y Mides, cerca de los cuales encontrarás una 
 en la roca con el agua más transparente que puedas imaginar. Además, no te pierdas la 
 **Medina de Tozeur**, con su bonita arquitectura de ladrillo y sus puertas de colores. 
 
-![Medina de Tozeur](https://fotos.etheriamagazine.com/2020/03/Hotel-Anantara-Tozeur-Medina-900x673.jpg "Medina de Tozeur.")
+![Medina de Tozeur](https://fotos.etheriamagazine.com/2020/03/Hotel-Anantara-Tozeur-Medina.jpg "Medina de Tozeur.")
 
 Y, por supuesto, tienes que explorar las dunas del desierto que ofrece experiencias 
 inigualables como conducir quads por las dunas, recorrerlas en 4x4 o dar un paseo en 
@@ -124,7 +124,7 @@ Euros.
 
 **Fotografías cedidas por Anantara Resorts.** 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Ruta en coche a Túnez, de la capital al 
 desierto.](http://etheriamagazine.com/2018/05/14/tunez-en-coche-desde-la-capital-al-desierto/)

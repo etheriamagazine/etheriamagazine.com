@@ -15,7 +15,7 @@ el paisaje del viñedo se vuelve misterioso entre la niebla y las primeras escar
 invierno. Para que disfrutes de este entorno mágico, te invitamos a recorrer La Rioja 
 Baja para conocer su riqueza natural, histórica y gastronómica. 
 
-![vinas la rioja, paisaje la rioja baja](https://fotos.etheriamagazine.com/2019/12/paisaje-la-rioja-baja-900x547.jpg "Paisaje de viñedos en La Rioja. ©RVRO")
+![vinas la rioja, paisaje la rioja baja](https://fotos.etheriamagazine.com/2019/12/paisaje-la-rioja-baja.jpg "Paisaje de viñedos en La Rioja. ©RVRO")
 
 Si hay una tierra con nombre de vino, esa es **La Rioja**. Pero, en esta ocasión, la 
 vamos a dejar dormir para descubrir otros aspectos más desconocidos. Viajamos desde 
@@ -30,7 +30,7 @@ Verde brillante de campos de olivos que en el invierno vibran en su actividad
 recolectora. Y siempre al fondo, la **Sierra de Yerga**, estribación del Sistema 
 Ibérico, protegiendo la tierra. 
 
-![vinedos en invierno, paisaje la rioja baja](https://fotos.etheriamagazine.com/2019/12/vinos-la-rioja-herce-prejano-900x600.jpg "Viñedos en invierno. ©RVRO")
+![vinedos en invierno, paisaje la rioja baja](https://fotos.etheriamagazine.com/2019/12/vinos-la-rioja-herce-prejano.jpg "Viñedos en invierno. ©RVRO")
 
 Si eres aficionado a descubrir cómo se elaboran los productos agroalimentarios podrás 
 disfrutar de las **visitas a las almazaras** para aprender **los secretos del aceite de 
@@ -39,7 +39,7 @@ que, en La Rioja, se ampara, como el vino, bajo una figura de protección como e
 Denominación de Origen. La **Almazara ecológica Isul** de Alfaro o el **Trujal 5 
 Valles** de Arnedo tienen sus puertas abiertas para que las visites. 
 
-![aceite de la rioja](https://fotos.etheriamagazine.com/2019/12/aceite-la-rioja-900x602.jpg "La Rioja también es tierra de aceites. ©RVRO")
+![aceite de la rioja](https://fotos.etheriamagazine.com/2019/12/aceite-la-rioja.jpg "La Rioja también es tierra de aceites. ©RVRO")
 
 ✅ **Planes en la Rioja Baja:** 
 
@@ -52,7 +52,7 @@ reconocidos y reconocibles son los “fardelejos” de Arnedo y Quel. Se trata d
 elaborado a partir de un hojaldre muy fino cortado en rectángulos y relleno de una 
 mezcla de almendra molida, huevo, ralladura de limón y azúcar. 
 
-![fardelejos de la rioja baja](https://fotos.etheriamagazine.com/2019/12/fardelejos-la-rioja-900x318.jpg "¿Un recuerdo gastronómico? Los fardelejos. ©RVRO")
+![fardelejos de la rioja baja](https://fotos.etheriamagazine.com/2019/12/fardelejos-la-rioja.jpg "¿Un recuerdo gastronómico? Los fardelejos. ©RVRO")
 
 ## Fungiturismo en Pradejón: visita los cultivos de champiñón
 
@@ -64,7 +64,7 @@ están muy ligados porque ambos necesitan de la oscuridad, el silencio y una tem
 adecuada. De hecho, en buena medida, el cultivo del champiñón fue la oportunidad para el 
 aprovechamiento de las cuevas que iban abandonando los productores de vino. 
 
-![fungiturismo en la rioja](https://fotos.etheriamagazine.com/2019/12/la-rioja-coger-setas-en-familia-900x600.jpg "El Fungiturismo también es cosa de niños. ©RVRO")
+![fungiturismo en la rioja](https://fotos.etheriamagazine.com/2019/12/la-rioja-coger-setas-en-familia.jpg "El Fungiturismo también es cosa de niños. ©RVRO")
 
 ## Con niños: Ruta de los dinosaurios en La Rioja
 
@@ -74,7 +74,7 @@ del país en este tipo de excavaciones al aire libre. Los más pequeños desarro
 fantasía, sintiéndose paleontólogos por un día y recreando la vida de los animales que 
 poblaron la Tierra en el Mesozoico, hace 240 millones de años. 
 
-![niño tocando huella de dinosaurio en Barranco Perdido](https://fotos.etheriamagazine.com/2019/12/Barranco-Perdido-dinosaurios-900x599.jpg "Icnita en Barranco Perdido. © La Rioja Turismo")
+![niño tocando huella de dinosaurio en Barranco Perdido](https://fotos.etheriamagazine.com/2019/12/Barranco-Perdido-dinosaurios.jpg "Icnita en Barranco Perdido. © La Rioja Turismo")
 
 Entre Aguilar del Río Alhama, Cornago, Préjano, Peroblasco, Munilla o Enciso, tienes 
 donde elegir, puesto que La Rioja en aquel periodo se encontraba sumergida bajo el mar y 
@@ -82,7 +82,7 @@ sus tierras formaban un extenso delta donde habitaban los dinosaurios. En **Igea
 además, podréis descubrir más curiosidades de estos grandes saurios en el Centro de 
 Interpretación Paleontológico (dinosaurios-igea.com). 
 
-![cueva de los cien pilares](https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-cueva-cien-pilares-arnedo-900x600.jpg "Cueva de los Cien Pilares. ©RVRO")
+![cueva de los cien pilares](https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-cueva-cien-pilares-arnedo.jpg "Cueva de los Cien Pilares. ©RVRO")
 
 ## Cuevas que cuentan secretos en el Valle del Cidacos
 
@@ -95,14 +95,14 @@ la fachada constituyen una estampa reconocible. Uno de los mejores ejemplos es l
 inseguridad en los valles, ante los ataques enemigos, obligaba a los habitantes a buscar 
 refugio en lugares más altos y seguros. 
 
-![yacimiento contrebia leucade](https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-contrebia-leucade-900x600.jpg "Yacimiento de Contrebia Leucade. ©RVRO")
+![yacimiento contrebia leucade](https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-contrebia-leucade.jpg "Yacimiento de Contrebia Leucade. ©RVRO")
 
 Muy probablemente también, en determinados momentos históricos, sirvieron de refugio a 
 los monjes y anacoretas. Otro de los hitos imprescindibles en esta tierra es la visita 
 al **yacimiento arqueológico de Contrebia Leucade**, una ciudad celtíbera, muy 
 importante en su tiempo, ubicada en Aguilar de Río Alhama. 
 
-![naturaleza en rioja baja](https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-panoramica-naturaleza-900x583.jpg "Panorámica de La Rioja Baja. ©RVRO")
+![naturaleza en rioja baja](https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-panoramica-naturaleza.jpg "Panorámica de La Rioja Baja. ©RVRO")
 
 ## Rutas y miradores de La Rioja Baja
 
@@ -122,7 +122,7 @@ brindar en las grandes ocasiones con un cava diferente en **Bodegas Benito Escud
 elaboran de forma artesanal lo que ellos llaman el concepto de lo eterno: "una copa de 
 vino llena de burbujas". 
 
-![viajes la rioja, la rioja baja, vista de arnedillo](https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-arnedillo-900x606.jpg "Arnedillo. ©RVRO")
+![viajes la rioja, la rioja baja, vista de arnedillo](https://fotos.etheriamagazine.com/2019/12/viaje-la-rioja-arnedillo.jpg "Arnedillo. ©RVRO")
 
 ## Dónde dormir y outlet de calzado en La Rioja
 
@@ -142,7 +142,7 @@ estación del año.
 
 \*Imágenes cedidas por Ruta del Vino de Rioja Oriental. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Escapada al valle secreto de Ocón, un pellizco de La Toscana en La 
 Rioja](https://etheriamagazine.com/2020/10/26/viaje-la-rioja-vendimia-valle-de-ocon/) 

@@ -145,7 +145,7 @@ Avda. de sa Punta, s/n. 07750 Cala Galdana. Tel. +34 971 15 45 45
 
 © Fotografías cedidas por Meliá Hotels & Resort. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Playas de Menorca, la guía más completa que 
 encontrarás](https://etheriamagazine.com/2020/08/14/guia-mejores-playas-calas-menorca/) 

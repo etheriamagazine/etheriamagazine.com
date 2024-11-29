@@ -214,7 +214,7 @@ descansar, pasear por las playas y empaparse del mundo Jurásico (aquí se rodó
 Park'). Me encantó y me hubiera quedado un mes. Galápagos es un universo en sí, ha sido 
 un privilegio haber podido visitarlo. 
 
-? **A tener en cuenta:** al estar en el ecuador, el sol aquí es muy fuerte. De hecho, 
+📍 **A tener en cuenta:** al estar en el ecuador, el sol aquí es muy fuerte. De hecho, 
 los locales que trabajan al sol van tapados prácticamente desde los pies hasta las 
 cejas. Sin protección te puedes quemar en sólo 15 minutos. ✅ **Lo que aprendí:** A no 
 temer tanto a los tiburones y que los de punta blanca son, además de curiosos, más bien 
@@ -222,7 +222,7 @@ tímidos.
 
 ✅ **Lo que no aprendí:** A sacar fotos de la comida antes de comenzar a comer. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Bolivia bien vale un potosí, nueva etapa de Sania 
 Jelic](https://etheriamagazine.com/2023/03/13/itinerario-bolivia-sania-jelic/) 

@@ -97,7 +97,7 @@ pedirla.
 
 ![Crema con escabeche de bonito, en el Restaurante UVA del hotel The Vine de Funchal.](https://fotos.etheriamagazine.com/2022/08/madeira-Crema-de-ajo.jpg "Crema con escabeche de bonito, en el Restaurante UVA del hotel The Vine de Funchal. © Pedro Grifol")
 
-? **Recomendación Etheria Magazine**. No te pierdas la ‘Crema de puerros con tosta de 
+📌 **Recomendación Etheria Magazine**. No te pierdas la ‘Crema de puerros con tosta de 
 atún escabechado’, un guiño al clasicismo francés recreado por Thomas Faudry, el chef 
 ejecutivo del restaurante UVA del Hotel The Vine, de Funchal. De estrella Michelin… que 
 aunque no la tiene ¡se la merece! 
@@ -113,15 +113,15 @@ con una variedad de patata llamada _semilha_ aunque, en la práctica, todas las 
 se llaman _semilhas_ porque esta era la palabra que figuraba en los sacos de patatas 
 cuando se introdujeron en la isla ¡una curiosidad viajera más! 
 
-? Normalmente se sirve para acompañar un plato principal, bien sea carne o pescado, pero 
-puede comerse perfectamente solo. 
+📌 Normalmente se sirve para acompañar un plato principal, bien sea carne o pescado, 
+pero puede comerse perfectamente solo. 
 
 #### Lapas a la parrilla
 
 En Madeira, las lapas se sirven a la parrilla en una sartén caliente aderezadas con 
 mantequilla, limón y ajo. Sabor intenso ¡para mojar el bolo do caco! 
 
-![Lapas a la parrilla con bolo de caco al fondo.](https://fotos.etheriamagazine.com/2022/08/comida-madeira-Lapas-a-la-parrilla-677x1024.jpg "Lapas a la parrilla con bolo de caco al fondo. © Pedro Grifol")
+![Lapas a la parrilla con bolo de caco al fondo.](https://fotos.etheriamagazine.com/2022/08/comida-madeira-Lapas-a-la-parrilla.jpg "Lapas a la parrilla con bolo de caco al fondo. © Pedro Grifol")
 
 #### Espetada en pau de lauro
 
@@ -220,13 +220,13 @@ año, durante la recolección de la caña de azúcar. Con su ron agrícola **Tri
 Teixeira**, el autor que firma estos consejos gastronómicos ha elaborado una de las 
 múltiples maneras de hacer La Poncha. 
 
-? En este [vídeo podrás aprender a hacer La Poncha Regional en Grifols Bar, un canal 
+📌 En este [vídeo podrás aprender a hacer La Poncha Regional en Grifols Bar, un canal 
 especializado en cócteles de YouTube](https://www.youtube.com/watch?v=0uhwnenKHCo). (⬅️ 
 haz clic en este enlace) 
 
-![Vídeo para aprender a hacer la Poncha típica de Madeira.](https://fotos.etheriamagazine.com/2022/08/portada-poncha-900x527.jpg "La Poncha típica de Madeira en Grifol's Bar, canal de cócteles en YouTube.")
+![Vídeo para aprender a hacer la Poncha típica de Madeira.](https://fotos.etheriamagazine.com/2022/08/portada-poncha.jpg "La Poncha típica de Madeira en Grifol's Bar, canal de cócteles en YouTube.")
 
-?Más información en la [web oficial de Turismo de 
+📍Más información en la [web oficial de Turismo de 
 Madeira](https://www.visitmadeira.com/). 
 
 ### Sigue leyendo sobre Madeira

@@ -21,8 +21,8 @@ demanda de autocaravanas es tan alta que a última hora es poco probable hallar 
 necesitamos a un precio normal. Así que te sugerimos darle la vuelta al proceso, y 
 comenzar alquilando la autocaravana. 
 
-??**No te pierdas**: [Ruta en autocaravana por la Subbética Cordobesa (nuevas zonas para 
-pernoctar 
+📌📌**No te pierdas**: [Ruta en autocaravana por la Subbética Cordobesa (nuevas zonas 
+para pernoctar 
 gratis).](https://etheriamagazine.com/2022/03/23/ruta-autocaravana-en-cordoba/) 
 
 ## ¿Cómo y dónde alquilar una autocaravana?
@@ -188,7 +188,7 @@ todo el año), desde donde te puedes mover a pie o en transporte público. Con e
 alojamiento solucionado, sólo tendrás que preocuparte de elegir el orden en el que 
 realizar las visitas esenciales. 
 
-![alhambra](https://fotos.etheriamagazine.com/2020/05/granada-mujeres-alhambra-1-900x588.jpg "Alhambra (Granada). © Austin Gardner")
+![alhambra](https://fotos.etheriamagazine.com/2020/05/granada-mujeres-alhambra-1.jpg "Alhambra (Granada). © Austin Gardner")
 
 ¿Qué ver en Granada? La única visita que no podrás improvisar es la de La Alhambra y los 
 Jardines del Generalife (reserva entradas y [visita 
@@ -201,7 +201,7 @@ de las Ciencias Andalucía-Granada, y si te gusta comer bien consulta en esta [g
 buenos restaurantes de 
 Granada](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/). 
 
-![isleta del moro en almeria](https://fotos.etheriamagazine.com/2020/06/almeria-isleta-del-moro-900x635.jpg "Isleta del Moro, en Almería.")
+![isleta del moro en almeria](https://fotos.etheriamagazine.com/2020/06/almeria-isleta-del-moro.jpg "Isleta del Moro, en Almería.")
 
 ### 5\. Almería en autocaravana
 

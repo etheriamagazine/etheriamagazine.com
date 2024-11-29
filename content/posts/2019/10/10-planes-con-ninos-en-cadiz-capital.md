@@ -31,7 +31,7 @@ del Títere](https://turismo.cadiz.es/es/rutas-y-visitas-en-cadiz/museo-del-t%C3
 en la bóveda de Santa Elena. El primero es interesante pero el segundo es, realmente, 
 más adecuado para ir con niños. 
 
-![Puertecitas del Museo del Títere para un viaje a Cádiz con niños](https://fotos.etheriamagazine.com/2019/10/puerta-museo-titeres-900x675.jpg "Puertecitas del Museo del Títere (Cádiz). © P.G.")
+![Puertecitas del Museo del Títere para un viaje a Cádiz con niños](https://fotos.etheriamagazine.com/2019/10/puerta-museo-titeres.jpg "Puertecitas del Museo del Títere (Cádiz). © P.G.")
 
 En este espacio se documenta históricamente **el mundo de los títeres y los 
 titiriteros**. En la exposición permanente hay **más de 500 elementos**, 350 de los 
@@ -48,13 +48,13 @@ interesante, no te lo pierdas!
 
 **Horarios**: De martes a domingos, de 10 a 21 horas. **Precio**: Gratuito. 
 
-?Infórmate del [Freetour por 
+📍Infórmate del [Freetour por 
 Cádiz](https://www.civitatis.com/es/cadiz/free-tour-cadiz/?aid=10211) o de una 
 interesante [visita 
 guiada](https://www.civitatis.com/es/cadiz/visita-guiada-cadiz/?aid=10211) (10 €) para 
 familiarizarte con la ciudad. 
 
-?[Tour 
+📍[Tour 
 teatralizado](https://www.civitatis.com/es/cadiz/tour-teatralizado-cadiz/?aid=10211) por 
 Cádiz, divertido y didáctico. 
 
@@ -220,7 +220,7 @@ opción es realizar el recorrido que lleva hasta el **castillo de Sancti Petri y
 Parque Natural Bahía de Cádiz**. En este caso, el barco sale del puerto de Sancti Petri 
 (en el término de Chiclana de la Frontera). 
 
-?Muy recomendable: Ver el [atardecer desde un 
+📍Muy recomendable: Ver el [atardecer desde un 
 barco](https://www.civitatis.com/es/sancti-petri/paseo-barco-atardecer/?aid=10211) en 
 Sancti Petri. 
 

@@ -146,7 +146,7 @@ seductor barrio de Santa Cruz.
 
 **Más información:** [Turismo de Sevilla](https://visitasevilla.es) 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 planes originales con amigas en 
 Sevilla](https://etheriamagazine.com/2020/09/28/10-mejores-planes-en-sevilla-con-amigas-o-pareja/) 

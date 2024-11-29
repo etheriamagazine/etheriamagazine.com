@@ -111,7 +111,7 @@ la iglesia de San Salvador y la parroquia de San Pedro. Los aficionados al astro
 tampoco pueden perderse la experiencia de **observar las estrellas** en el entorno de la 
 ermita de Nuestra Señora de la Peña, a unos kilómetros de Gallipienzo. 
 
-![Gallipienzo y su entorno, en Navarra.](https://fotos.etheriamagazine.com/2024/02/gallipienzo-navarra-850x638.jpg "Gallipienzo y su entorno. © Pepa García/Etheria Magazine")
+![Gallipienzo y su entorno, en Navarra.](https://fotos.etheriamagazine.com/2024/02/gallipienzo-navarra.jpg "Gallipienzo y su entorno. © Pepa García/Etheria Magazine")
 
 Si os gusta la historia, otra visita de interés es el [yacimiento de Santa Criz de 
 Eslava](https://www.santacrizdeeslava.com/), a sólo 12 kilómetros del hotel, que es la 

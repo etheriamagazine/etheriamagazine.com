@@ -45,7 +45,7 @@ habitaciones. Algunas de las ventajas son el acceso libre al Yhi Spa y un 10% de
 descuento en sus tratamientos, check-in personalizado o servicio de secretaría y 
 conserjería. 
 
-![Hall de la zona The Level del Meliá Sol y Nieve](https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-The-Leve-Hall-691x1024.jpg "Hall de la zona The Level del Meliá Sol y Nieve.")
+![Hall de la zona The Level del Meliá Sol y Nieve](https://fotos.etheriamagazine.com/2022/01/Melia-Sol-y-Nieve-The-Leve-Hall.jpg "Hall de la zona The Level del Meliá Sol y Nieve.")
 
 Además, tendrás a tu disposición **The Level Lounge**, una sala de lo más acogedora con 
 conexión a internet que ofrece un buffet permanente de _snacks_ dulces y salados donde 

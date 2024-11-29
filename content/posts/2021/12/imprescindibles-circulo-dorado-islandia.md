@@ -46,7 +46,7 @@ entre las placas tectónicas de EuroAsia y América, que dividen el país. Debes
 Islandia es el único lugar del mundo donde observar la Dorsal Mesoatlántica sobre el 
 nivel del mar. 
 
-![esnorquel en silfra circulo dorado de islandia](https://fotos.etheriamagazine.com/2021/12/islandia-Snorkelling-Silfra-683x1024.jpg "Snorkel en Silfra, Islandia. © Marina Paul")
+![esnorquel en silfra circulo dorado de islandia](https://fotos.etheriamagazine.com/2021/12/islandia-Snorkelling-Silfra.jpg "Snorkel en Silfra, Islandia. © Marina Paul")
 
 Entre las empresas que ofrecen el tour de _snorkelling_ y buceo en Silfra podemos 
 encontrar: Freedive, Troll, Dive, Artic Adventures, Iceland Dive Expeditions, etc. Los 
@@ -89,7 +89,7 @@ Debido a su espectacularidad, tanto por la altura como por la cantidad de agua q
 expulsa en cada una de sus erupciones, decenas de turistas se reúnen para fotografiarlo 
 durante su explosión cada 5 o 10 minutos. 
 
-![Catarata de Gullfoss circulo dorado de islandia](https://fotos.etheriamagazine.com/2021/12/gullfoss-catarata-islandia-731x1024.jpg "Catarata de Gullfoss. © Khamkéo Vilaysing")
+![Catarata de Gullfoss circulo dorado de islandia](https://fotos.etheriamagazine.com/2021/12/gullfoss-catarata-islandia.jpg "Catarata de Gullfoss. © Khamkéo Vilaysing")
 
 ### 4\. Gullfoss, una espectacular catarata
 

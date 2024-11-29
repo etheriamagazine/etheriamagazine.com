@@ -15,7 +15,7 @@ resulta complicado decidir qué museos son prioritarios. Entre ellos, hay dos qu
 sido recientemente renovados: el Museo de Viena y la Kunst Haus, que están en el pódium 
 de los imprescindibles de la capital austriaca. 
 
-![Gustav Klimt es uno de los artistas presentes en el Museo de Viena.](https://fotos.etheriamagazine.com/2024/05/Klimt-Museo-Viena-850x482.jpg "Gustav Klimt es uno de los artistas presentes en el Museo de Viena. © Yolanda Cardo")
+![Gustav Klimt es uno de los artistas presentes en el Museo de Viena.](https://fotos.etheriamagazine.com/2024/05/Klimt-Museo-Viena.jpg "Gustav Klimt es uno de los artistas presentes en el Museo de Viena. © Yolanda Cardo")
 
 Viena cuenta con **más de 100 museos**. El [Museo 
 Sisi](https://etheriamagazine.com/2022/09/07/museo-sisi-de-viena/) consagrado a la 
@@ -27,7 +27,7 @@ espacios consagrados, reconocidos mundialmente. Pero existen otros igualmente
 imprescindibles. Os contamos por qué el nuevo **Museo de Viena** (Wien Museum) y la 
 **Kunst Haus** no deben faltar en vuestra lista. 
 
-![Retrato de María Teresa de Austria en el Museo de Viena.](https://fotos.etheriamagazine.com/2024/05/Retrato-Maria-Teresa-Austria-Museo-Viena-850x587.jpg "Retrato de María Teresa de Austria en el Museo de Viena. © Yolanda Cardo")
+![Retrato de María Teresa de Austria en el Museo de Viena.](https://fotos.etheriamagazine.com/2024/05/Retrato-Maria-Teresa-Austria-Museo-Viena.jpg "Retrato de María Teresa de Austria en el Museo de Viena. © Yolanda Cardo")
 
 ## Wien Museum, una fascinante crónica de la ciudad imperial
 
@@ -41,7 +41,7 @@ en los primeros asentamientos de hace unos 8.000 años, hasta nuestros días. Y 
 desde todos los ámbitos posibles: el arqueológico, el político, el social, el 
 urbanístico y, por supuesto, el artístico y cultural. 
 
-![El vestíbulo central del Museo de Viena contiene las obras más grandes.](https://fotos.etheriamagazine.com/2024/05/vestibulo-museo-viena-850x567.jpg "El vestíbulo central del Museo de Viena contiene las obras más grandes. © Yolanda Cardo")
+![El vestíbulo central del Museo de Viena contiene las obras más grandes.](https://fotos.etheriamagazine.com/2024/05/vestibulo-museo-viena.jpg "El vestíbulo central del Museo de Viena contiene las obras más grandes. © Yolanda Cardo")
 
 Un total de **1.700 objetos** distribuidos en tres plantas y 3.300 m2 configuran la 
 muestra permanente y gratuita para todo el mundo 'Viena. Mi historia'. El antiguo atrio 
@@ -53,7 +53,7 @@ techo; una extraordinaria maqueta de la catedral de San Esteban emerge desde el 
 piso y las esculturas originales de la fuente Donnerbrunnen vigilan majestuosas la 
 brillante puesta en escena. 
 
-![El Museo de Viena documenta la historia de Viena desde sus orígenes](https://fotos.etheriamagazine.com/2024/05/museo-viena-850x567.jpg "El Museo de Viena documenta la historia de Viena desde sus orígenes. © Yolanda Cardo")
+![El Museo de Viena documenta la historia de Viena desde sus orígenes](https://fotos.etheriamagazine.com/2024/05/museo-viena.jpg "El Museo de Viena documenta la historia de Viena desde sus orígenes. © Yolanda Cardo")
 
 ### Imprescindibles en el museo
 
@@ -64,7 +64,7 @@ del periodo _fin de siècle_ como Gustav Klimt y Egon Schiele. Muy interesante t
 ámbito dedicado a la **Red Vienna**, el que ahonda en el oscuro periodo de la ocupación 
 alemana durante la Segunda Guerra Mundial o los dedicados al diseño y al urbanismo. 
 
-![Vistas desde la cafetería de la última planta del Museo de Viena en la Karlsplatz.](https://fotos.etheriamagazine.com/2024/05/Vistas-cafeteria-Museo-Viena-850x567.jpg "Vistas desde la cafetería de la última planta del Museo de Viena en la Karlsplatz. © Yolanda Cardo")
+![Vistas desde la cafetería de la última planta del Museo de Viena en la Karlsplatz.](https://fotos.etheriamagazine.com/2024/05/Vistas-cafeteria-Museo-Viena.jpg "Vistas desde la cafetería de la última planta del Museo de Viena en la Karlsplatz. © Yolanda Cardo")
 
 ### Comer en el museo
 
@@ -75,7 +75,7 @@ planta, perfecto para tomarse un respiro con unas vistas impagables a la ciudad.
 
 Wien Museum. Karlsplatz 8. 1040, Viena. 
 
-![Fachada de la Kunst Haus, el museo fundado por el artista vienés Friedensreich Hundertwasser.](https://fotos.etheriamagazine.com/2024/05/viena-Fachada-Kunst-Haus-850x567.jpg "Fachada de la Kunst Haus, el museo fundado por Friedensreich Hundertwasser. © Yolanda Cardo")
+![Fachada de la Kunst Haus, el museo fundado por el artista vienés Friedensreich Hundertwasser.](https://fotos.etheriamagazine.com/2024/05/viena-Fachada-Kunst-Haus.jpg "Fachada de la Kunst Haus, el museo fundado por Friedensreich Hundertwasser. © Yolanda Cardo")
 
 ## Kunst Haus Wien, una oda a la sostenibilidad
 
@@ -92,7 +92,7 @@ defendió. Tanto es así que esta coherencia, trasladada también al programa ex
 la institución, lo hicieron merecedor en 2018 del distintivo medioambiental de Austria 
 convirtiéndose así en el **primer museo ecológico del país.** 
 
-![Patio interior del Kunst Haus, uno de los museos de Viena de visita obligada.](https://fotos.etheriamagazine.com/2024/05/viena-Patio-Kunst-Haus-850x567.jpg "Patio interior del Kunst Haus. © Yolanda Cardo")
+![Patio interior del Kunst Haus, uno de los museos de Viena de visita obligada.](https://fotos.etheriamagazine.com/2024/05/viena-Patio-Kunst-Haus.jpg "Patio interior del Kunst Haus. © Yolanda Cardo")
 
 ### Las plantas, una constante en la fachada y el interior
 
@@ -106,7 +106,7 @@ del propio Hundertwasser, una suerte de catálogo de su visionaria filosofía ec
 conformado por obra pictórica y gráfica, tapices, objetos o maquetas de proyectos 
 arquitectónicos como el del pueblo termal de Bad Blumau a las afueras de Viena. 
 
-![Rodrigo Arteaga, exposición temporal en el Kunst Haus de Viena.](https://fotos.etheriamagazine.com/2024/05/Rodrigo-Arteaga-Kunst-Haus-Viena-850x548.jpg "Rodrigo Arteaga es uno de los participantes es la exposición temporal "Into the Woods" en el Kunst Haus de Viena. © Yolanda Cardo")
+![Rodrigo Arteaga, exposición temporal en el Kunst Haus de Viena.](https://fotos.etheriamagazine.com/2024/05/Rodrigo-Arteaga-Kunst-Haus-Viena.jpg "Rodrigo Arteaga es uno de los participantes es la exposición temporal "Into the Woods" en el Kunst Haus de Viena. © Yolanda Cardo")
 
 La última planta alberga las exposiciones temporales. La muestra colectiva **Into the 
 Woods** (hasta el próximo 11 de agosto), enmarcada en la Bienal del Clima de Viena, 

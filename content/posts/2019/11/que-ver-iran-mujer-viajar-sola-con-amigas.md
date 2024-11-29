@@ -43,7 +43,7 @@ instalaciones, te fascinará con su gran colección formada por notables piezas 
 que inicias un viaje por la larga historia de Persia como buen aperitivo de la 
 diversidad cultural que te espera. 
 
-![Shah Mosqu en iran](https://fotos.etheriamagazine.com/2019/10/viaje-iran-isfahan-2-683x1024.jpg "Mezquita de Shah, en Isfahan.")
+![Shah Mosqu en iran](https://fotos.etheriamagazine.com/2019/10/viaje-iran-isfahan-2.jpg "Mezquita de Shah, en Isfahan.")
 
 ## Isfahan, los azules más hermosos del mundo
 
@@ -69,7 +69,7 @@ Pol donde, entre sus varios niveles, se reúnen grupos y parejas haciendo que la
 sea contagiosa alrededor de una canción surgida espontáneamente o de una animada 
 conversación. 
 
-![interior catedral isfahan](https://fotos.etheriamagazine.com/2019/10/catedral-isfaham-3-727x1024.jpg "Catedral de Isfahan.")
+![interior catedral isfahan](https://fotos.etheriamagazine.com/2019/10/catedral-isfaham-3.jpg "Catedral de Isfahan.")
 
 ## El refugio armenio, catedral Isfahan
 
@@ -85,7 +85,7 @@ impulsó la diáspora armenia a través de los más de 700 manuscritos que guard
 remontándose hasta el medievo. Incluso verás la prensa con la que se elaboró el primer 
 libro impreso en Irán. 
 
-![mujeres frente a la Mezquita de Jame](https://fotos.etheriamagazine.com/2019/10/Yazd-ruta-caravanas-seda-4-683x1024.jpg "Mezquita de Jame, en Yazd.")
+![mujeres frente a la Mezquita de Jame](https://fotos.etheriamagazine.com/2019/10/Yazd-ruta-caravanas-seda-4.jpg "Mezquita de Jame, en Yazd.")
 
 ## Yazd, zafiro en la Ruta de la seda
 
@@ -107,7 +107,7 @@ decoraciones e intrincadas caligrafías. Imagínate qué sentían las gentes del
 divisar este bello faro en medio de la aridez. No dejes de visitar la cercana 
 **biblioteca Vasiri** y admirar su gran colección de libros del Corán manuscritos. 
 
-![torres del silencio en Yazd](https://fotos.etheriamagazine.com/2019/10/viaje-iran-zoroastrismo-5-900x601.jpg "Torres del Silencio de Yazd.")
+![torres del silencio en Yazd](https://fotos.etheriamagazine.com/2019/10/viaje-iran-zoroastrismo-5.jpg "Torres del Silencio de Yazd.")
 
 ## Silencio, se adora al fuego: el zoroastrismo
 
@@ -129,7 +129,7 @@ cerros, a las afueras de Yazd, se ven las dependencias donde los familiares del 
 permanecían en silencio hasta que el cuerpo, con su descomposición, entraba en la 
 eternidad. 
 
-![relieve de persepolis](https://fotos.etheriamagazine.com/2019/10/viaje-iran-persepolis-6bis-707x1024.jpg "Detalle en Persépolis.")
+![relieve de persepolis](https://fotos.etheriamagazine.com/2019/10/viaje-iran-persepolis-6bis.jpg "Detalle en Persépolis.")
 
 ## Persépolis, la huella legendaria
 
@@ -149,7 +149,7 @@ Alejandro Magno cuando apenas habían pasado dos siglos desde que se iniciara la
 construcción de esta remota capital ceremonial a donde acudía la familia real con la 
 llegada de la primavera. 
 
-![jardines eram en shiraz](https://fotos.etheriamagazine.com/2019/10/viaje-iran-jardines-7-900x533.jpg "Jardines de Eram, en Shiraz.")
+![jardines eram en shiraz](https://fotos.etheriamagazine.com/2019/10/viaje-iran-jardines-7.jpg "Jardines de Eram, en Shiraz.")
 
 ## Irán, donde se inventaron los jardines
 
@@ -170,7 +170,7 @@ sentir la sombra y la frescura, evocando el estado de hallarse en un verdadero o
 Los primeros habitantes iraníes también lo debían saber pues en Kashan se descubrió el 
 primer asentamiento prehistórico del país. 
 
-![mezquita nasir al mulk en iran](https://fotos.etheriamagazine.com/2019/10/viaje-iran-mujeres-shiraz-8-683x1024.jpg "Mezquita de Nasir al-Mulk, en Shiraz.")
+![mezquita nasir al mulk en iran](https://fotos.etheriamagazine.com/2019/10/viaje-iran-mujeres-shiraz-8.jpg "Mezquita de Nasir al-Mulk, en Shiraz.")
 
 ## Shiraz, tiempo de rosas y vino
 
@@ -192,7 +192,7 @@ Qashqai. Antes de partir, llévate las palabras más hermosas en la **tumba del 
 Hafez**, un poeta sufí y cortesano que amó la vida en Shiraz y cuyos poemas declaman sus 
 seguidores en su tumba. 
 
-![Tumba de Cyrus el Grande, Pasargadae](https://fotos.etheriamagazine.com/2019/10/viaje-iran-pasargada-9-680x1024.jpg "Tumba de Ciro el Grande. Pasargada.")
+![Tumba de Cyrus el Grande, Pasargadae](https://fotos.etheriamagazine.com/2019/10/viaje-iran-pasargada-9.jpg "Tumba de Ciro el Grande. Pasargada.")
 
 ## Donde comenzó la civilización persa, Pasargada
 
@@ -210,7 +210,7 @@ derechos humanos que se conoce. Ahora entenderás por qué la tumba de Ciro el G
 situada en su antigua capital, con sus grandes piedras y su sencilla apariencia, solo 
 puede acoger el respeto a un gran hombre capaz de concebir el primer gran imperio persa. 
 
-![Fatima Masumeh shrine en Qom](https://fotos.etheriamagazine.com/2019/10/viaje-iran-qom-ciudad-santa-10-683x1024.jpg "Santuario de Fátima Masumeh, en Qom.")
+![Fatima Masumeh shrine en Qom](https://fotos.etheriamagazine.com/2019/10/viaje-iran-qom-ciudad-santa-10.jpg "Santuario de Fátima Masumeh, en Qom.")
 
 ## Qom, la ciudad santa alrededor de una mujer
 
@@ -231,7 +231,7 @@ enterrada donde estuvo el jardín de Babolan. El lugar, para aquellos que no pue
 peregrinar hasta Meca, es también aceptado como una de las ocho puertas del paraíso a 
 las que un musulmán debe peregrinar al menos una vez en su vida. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Jordania, visitas y consejos imprescindibles para tu primer 
 viaje](https://etheriamagazine.com/2020/12/18/jordania-visitas-imprescindibles-y-consejos-si-viajas-sola/) 

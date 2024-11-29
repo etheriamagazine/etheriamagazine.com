@@ -1,5 +1,5 @@
 ---
-title: "¿Tienes 6 días para hacer la Ruta del románico en Vall de Boí?"
+title: "Itinerario de 6 días para hacer la Ruta del románico en Vall de Boí"
 date: 2020-02-28
 coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Barruera.jpg
 categories: 
@@ -10,11 +10,17 @@ authors:
   - Firmas invitadas
 ---
 
-Recorrer esta ruta del románico en Vall de Boí, de pueblo en pueblo, en familia es uno de esos planes que debería estar en la agenda de todos lo que tenéis niños en vuestro entorno. Sólo hay que reservar 6 días y muchas ganas de pasarlo bien descubriendo pueblos de postal y el románico más impresionante que hayáis visto nunca. ¿Alguien se apunta a esta ruta por el Pirineo Catalán?
+Recorrer esta ruta del románico en Vall de Boí, de pueblo en pueblo, en familia es uno 
+de esos planes que debería estar en la agenda de todos lo que tenéis niños en vuestro 
+entorno. Sólo hay que reservar 6 días y muchas ganas de pasarlo bien descubriendo 
+pueblos de postal y el románico más impresionante que hayáis visto nunca. ¿Alguien se 
+apunta a esta ruta por el Pirineo Catalán? 
 
 **Por Cecilia Lorenzo** 
 
-![barruera ruta romanico en vall de boi](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Barruera-900x600.jpg "Barruera, inicio de esta ruta en familia por el Vall de Boí. © Cecilia Lorenzo")
+![Barruera, inicio de esta ruta en familia por el Vall de Boí.](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Barruera.jpg "Barruera, inicio de esta ruta en familia por el Vall de Boí. © Cecilia Lorenzo")
+
+Actualizado 9/2024 
 
 No hace falta ir muy lejos para vivir **una gran aventura en familia**. Esta ruta invita 
 a preparar una mochila con lo indispensable, calzarse las botas de montaña y andar por 
@@ -29,9 +35,9 @@ detenido.
 > El objetivo es simple: disfrutar de un tiempo de calidad en familia entre naturaleza y 
 > arte. Muchas veces, lo más sencillo es lo que más nos enriquece. 
 
-![iglesia sant feliu ruta romanico en vall de boi](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-iglesia-Barruera-900x600.jpg "Iglesia de Sant Feliu, en Barruera. © Cecilia Lorenzo")
+![Iglesia de Sant Feliu, en Barruera.](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-iglesia-Barruera.jpg "Iglesia de Sant Feliu, en Barruera. © Cecilia Lorenzo")
 
-## Primer día en ruta del Vall de Boí. De Barruera a Durro
+## 1er día: De Barruera a Durro
 
 Parece que **Barruera**, la primera población que encontramos al llegar al valle, haya 
 sido construida expresamente para darnos la bienvenida: casas de piedra, calles 
@@ -52,9 +58,9 @@ tardaríamos 1 h 30 min. En familia, y teniendo en cuenta distracciones, fotogra
 paradas para comer, beber, etc. se puede tardar unas 3 horas. Las caras de ilusión de 
 los pequeños al llegar al pueblo caminando no tienen precio. Primera etapa superada. 
 
-![barruera de durro](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-barruera-durro-900x671.jpg "Camino de Barruera a Durro. © Cecilia Lorenzo")
+![Camino de Barruera a Durro.](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-barruera-durro.jpg "Camino de Barruera a Durro. © Cecilia Lorenzo")
 
-#### Iglesia de la Natividad de Durro
+### Iglesia de la Natividad de Durro
 
 En el pueblo, lleno de casas de piedra con tejados de pizarra, algunas con magníficos 
 pórticos, se puede visitar el interior de la **iglesia románica de la Natividad** **de 
@@ -66,9 +72,9 @@ se cogían dos “barretinas” (gorro típico). En una se ponían papeles con l
 los solteros y en otra los de las solteras. Después se aparejaban los nombres y las 
 parejas salían hasta el día de Reyes, el 6 de enero. 
 
-![durro rutas en familia](https://fotos.etheriamagazine.com/2020/02/ruta-valle-boi-Durro-900x600.jpg "Callejeando en Durro. © Cecilia Lorenzo")
+![Callejeando en Durro.](https://fotos.etheriamagazine.com/2020/02/ruta-valle-boi-Durro.jpg "Callejeando en Durro. © Cecilia Lorenzo")
 
-#### Ermita de Sant Quirc
+### Ermita de Sant Quirc
 
 Una vez instalados en alguna de las casas rurales u hostales del pueblo, por la tarde se 
 puede hacer una pequeña caminata de 30 minutos (1,7 km) hasta la diminuta y fotogénica 
@@ -76,9 +82,9 @@ puede hacer una pequeña caminata de 30 minutos (1,7 km) hasta la diminuta y fot
 lo es por su arquitectura y la localización, en un cerro desde el cual se contempla gran 
 parte del valle. 
 
-![Ermita de Sant Quirce de Durro  ruta romanico en vall de boi](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Sant-quirc-de-Durro-900x626.jpg "Ermita de Sant Quirc de Durro. © Cecilia Lorenzo")
+![Ermita de Sant Quirc de Durro.](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Sant-quirc-de-Durro.jpg "Ermita de Sant Quirc de Durro. © Cecilia Lorenzo")
 
-## Segundo día. De Durro a Boí
+## 2º día: De Durro a Boí
 
 La segunda etapa nos lleva de Durro a **Boí**. La excursión transcurre por el antiguo 
 sendero que comunicaba los pueblos de Durro y Boí, llamado “**Camino del Pago**”. En 
@@ -86,9 +92,9 @@ unas dos horas y media a ritmo familiar (1 hora 15 min al ritmo “oficial”) e
 superar los 3,40 km entre bosques y prados de alta montaña y un espectacular talud que 
 deja boquiabiertos a los infantes. 
 
-![ruta romanico lleida durro y boi](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Durro-Boi-900x600.jpg "Camino de Durro a Boí. © Cecilia Lorenzo")
+![Camino de Durro a Boí.](https://fotos.etheriamagazine.com/2020/02/viaje-familia-valle-boi-Durro-Boi.jpg "Camino de Durro a Boí. © Cecilia Lorenzo")
 
-#### Iglesia de Sant Joan
+### Iglesia de Sant Joan
 
 En Boí se puede comer en alguno de sus restaurantes y visitar la **iglesia de Sant 
 Joan**, que permite subir a su campanario. En su interior destaca el conjunto de 
@@ -99,9 +105,9 @@ de todos los fragmentos de pintura mural conservados actualmente en Barcelona, e
 **MNAC** (Museu Nacional d’Art de Catalunya). En Boí se puede cenar y dormir en alguno 
 de sus restaurantes, casas rurales y hoteles. 
 
-![ruta entre durro y boi](https://fotos.etheriamagazine.com/2020/02/ruta-familia-Durro-Boi-900x690.jpg "Ruta con niños entre Durro y Boi. © Cecilia Lorenzo")
+![Ruta con niños entre Durro y Boi.](https://fotos.etheriamagazine.com/2020/02/ruta-familia-Durro-Boi.jpg "Ruta con niños entre Durro y Boi. © Cecilia Lorenzo")
 
-## Tercer día. De Boí a Taüll
+## 3º día: De Boí a Taüll
 
 Tan solo un kilómetro separa las poblaciones de Boí y Taüll, dos de las más bonitas del 
 valle. Aunque es un sendero que va subiendo (tiene 110 metros de desnivel), no es 
@@ -110,7 +116,7 @@ quedarse una jornada entera y visitar el pueblo sin prisas, especialmente sus do
 iglesias románicas: **Santa María** y **Sant Climent**. Es imposible no enamorarse de 
 esta ruta del románico en Vall de Boí con tan magnos exponentes. 
 
-#### Iglesia de Sant Climent
+### Iglesia de Sant Climent
 
 En Sant Climent se puede subir a su esbelto campanario de 25 metros de altura y 
 contemplar el interior de la iglesia. Hoy, las pinturas murales que la decoraban cobran 
@@ -120,47 +126,46 @@ con las pinturas que quedan en la misma iglesia, así como la reproducción de l
 interpretación del conjunto pictórico completo, tal como debía de ser el año de su 
 consagración, el 1123. 
 
-![iglesia de Sant Climent de Taull  ruta romanico en vall de boi](https://fotos.etheriamagazine.com/2020/02/viaje-familia-Taull.jpg "Iglesia de Sant Climent de Taüll. © Cecilia Lorenzo")
+![Iglesia de Sant Climent de Taüll.](https://fotos.etheriamagazine.com/2020/02/viaje-familia-Taull.jpg "Iglesia de Sant Climent de Taüll. © Cecilia Lorenzo")
 
-## Cuarto día en ruta Vall de Boí. De Taüll a Erill la Vall
+## 4º día: De Taüll a Erill la Vall
 
 Despertamos en Taüll para volver a hacer la excursión hasta Boí, hoy de bajada y luego 
 **de Boí a Erill la Vall**. En media hora caminando por un agradable sendero que 
 atraviesa un bosque de ribera se llega a **Erill la Vall**, un pueblo donde se pueden 
-visitar la **iglesia de Santa Eulàlia** y el [Centro de Interpretación del Románico del 
-Vall de Boí](http://www.centreromanic.com/es). Al moverse por esta zona, el viajero 
-tiene la sensación de estar dentro de un parque temático dedicado al románico donde en 
-pocos kilómetros hay espectaculares campanarios desafiando las leyes de la naturaleza. 
+visitar la **iglesia de Santa Eulàlia** y el Centro de Interpretación del Románico del 
+Vall de Boí. Al moverse por esta zona, el viajero tiene la sensación de estar dentro de 
+un parque temático dedicado al románico donde en pocos kilómetros hay espectaculares 
+campanarios desafiando las leyes de la naturaleza. 
 
 > Dicen que los tres grandes campanarios de Erill, Boí y Taüll fueron construidos 
 > siguiendo una imaginaria línea recta, puesto que formaban parte de sistema defensivo del 
 > valle. Menos comprobable es la tradición que dice que si prolongamos esta línea hacia el 
 > este, llegaría a Roma. ¿Quién sabe? 
 
-![Erill la Vall  ruta romanico en vall de boi](https://fotos.etheriamagazine.com/2020/02/viaje-familia-Erill-la-Vall-749x1024.jpg "Frente a la iglesia de Santa Eulàlia, en Erill la Vall. © Cecilia Lorenzo")
+![Erill la Vall  ruta romanico en vall de boi](https://fotos.etheriamagazine.com/2020/02/viaje-familia-Erill-la-Vall.jpg "Frente a la iglesia de Santa Eulàlia, en Erill la Vall. © Cecilia Lorenzo")
 
-## Quinto día. De Erill la Vall a Caldes de Boí
+## 5º día: De Erill la Vall a Caldes de Boí
 
 Después de dormir en alguna de las casas rurales o hoteles de Erill la Vall, emprendemos 
 el quinto día de marcha. La ruta que va **de Erill la Vall a Caldes de Boí** es la más 
 exigente y larga de todas, ya que recorre 4,75 km y tiene un desnivel de 200 metros. Es 
 un itinerario señalizado que va siguiendo el río y luego se adentra en el bosque hasta 
-llegar al **balneario de Caldes de Boí**. Es una recorrido que suele hacerse en 2 horas, 
-pero que en familia puede llevarnos 3 horas y media aproximadamente o un poco más si 
-decidimos darnos algún chapuzón en el río o detenernos a coger fresas silvestres. 
+llegar al **balneario de Caldes de Boí** (caldesdeboi.com). Es una recorrido que suele 
+hacerse en 2 horas, pero que en familia puede llevarnos 3 horas y media aproximadamente 
+o un poco más si decidimos darnos algún chapuzón en el río o detenernos a coger fresas 
+silvestres. 
 
-![rio valle boi, ruta familias valle boi, rutas en familia, valle de boi, ruta romanico lleida](https://fotos.etheriamagazine.com/2020/02/valle-boi-familias-rio-900x599.jpg "Si hace buen tiempo, un baño en el río es casi obligatorio. © Cecilia Lorenzo")
-
-#### Dormir en un balneario
+![rio valle boi, ruta familias valle boi, rutas en familia, valle de boi, ruta romanico lleida](https://fotos.etheriamagazine.com/2020/02/valle-boi-familias-rio.jpg "Si hace buen tiempo, un baño en el río es casi obligatorio. © Cecilia Lorenzo")
 
 Una vez en el balneario, que también funciona como hotel, podemos alojarnos en una de 
 sus habitaciones y disfrutar de un merecido premio en el circuito de aguas termales. 
 Este balneario forma parte del **Libro Guinness de los Récords** por ser “el mayor 
 balneario de España” tanto por su número de fuentes como por su capacidad. 
 
-![viajes familias, valle boi, ruta romanico,](https://fotos.etheriamagazine.com/2020/02/Viaje-familia-Erill-la-Vall-Caldes-Boi-900x553.jpg "Sendero de Erill la Val a Caldes de Boí. © Cecilia Lorenzo")
+![viajes familias, valle boi, ruta romanico,](https://fotos.etheriamagazine.com/2020/02/Viaje-familia-Erill-la-Vall-Caldes-Boi.jpg "Sendero de Erill la Val a Caldes de Boí. © Cecilia Lorenzo")
 
-## Sexto día en ruta del Vall de Boí. De Caldes de Boí a Barruera
+## 6º día: De Caldes de Boí a Barruera
 
 La última etapa de **ruta del románico en Vall de Boí** nos lleva de vuelta al punto de 
 inicio, el pueblo de Barruera. La primera parte transcurre por el mismo camino del día 
@@ -169,7 +174,7 @@ camino al borde del río llamado “Camino del agua”. Es un tramo largo, de un
 muy llano y agradable, ideal para repasar el viaje por los pueblos del valle y comentar 
 todas las experiencias vividas en familia. 
 
-### También te puede interesar en Lleida
+**También en Etheria Magazine** 
 
 [Pueblos y rutas imprescindibles en el Valle de Arán 
 (Lleida)](https://etheriamagazine.com/2020/08/31/pueblos-y-rutas-imprescindibles-en-valle-aran/). 

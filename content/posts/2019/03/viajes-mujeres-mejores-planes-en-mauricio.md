@@ -23,7 +23,7 @@ placer al archipiélago de las Islas Mascareñas. Por lo tanto, podemos confiar 
 en su criterio. Estos son los diez rincones y actividades que recomienda que no nos 
 perdamos en estas islas enclavadas en el océano Índico. 
 
-?Anterior entrevista: [Mar Sánchez Villalta: “Trato de hacer de la vida la mejor 
+📌Anterior entrevista: [Mar Sánchez Villalta: “Trato de hacer de la vida la mejor 
 aventura”](https://etheriamagazine.com/2018/10/01/mar-sanchez-villalta-air-mauritius/). 
 
 ## 1\. Parasailing en la isla de los Ciervos

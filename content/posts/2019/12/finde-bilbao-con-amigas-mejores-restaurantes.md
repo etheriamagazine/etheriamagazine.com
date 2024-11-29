@@ -14,7 +14,7 @@ es casi obligatorio. Esta escapada que te proponemos en Etheria Magazine, será 
 las que recordaréis durante años. Toma nota de los mejores restaurantes de Bilbao y 
 conoce quién está al frente de los mismos. ¡Que aproveche! 
 
-![restaurante mina](https://fotos.etheriamagazine.com/2019/12/Restaurante-Mina-Espacio-900x599.jpg "Cocina y sala del © Restaurante Mina.")
+![restaurante mina](https://fotos.etheriamagazine.com/2019/12/Restaurante-Mina-Espacio.jpg "Cocina y sala del © Restaurante Mina.")
 
 Toda ruta gastronómica por una ciudad debería comenzar en un mercado, y la nuestra no 
 iba a ser menos. La capital de Vizcaya tiene a orillas del río Nervión un enorme “barco 
@@ -32,7 +32,7 @@ Después de caer en la tentación de probar en uno de los locales una de **esas 
 acompañadas de un vermut** o una cervecita, es imposible que no se nos abra el apetito 
 con esta visita, así que vamos a ponerle remedio. 
 
-![mercado de la ribera, mercado de bilbao](https://fotos.etheriamagazine.com/2019/12/mercado-bilbao-900x607.jpg "Mercado de la Ribera (Bilbao). ©PB")
+![mercado de la ribera, mercado de bilbao](https://fotos.etheriamagazine.com/2019/12/mercado-bilbao.jpg "Mercado de la Ribera (Bilbao). ©PB")
 
 ## Entre pintxos y casas de comidas
 
@@ -68,7 +68,7 @@ convierten en recetas innovadoras, creativas y muy personales. El carácter prop
 Margen (restaurantealmargen.com) es lo que hace tan especial este pequeño rincón 
 bilbaíno que, además, suma una relación calidad-precio difícil de superar. 
 
-![la despensa de etxanobe, fernando y mikel chefs](https://fotos.etheriamagazine.com/2019/12/fernando-mikel-despensa-etxanobe-900x664.jpg "Fernando y Mikel de La Despensa de Etxanobe.")
+![la despensa de etxanobe, fernando y mikel chefs](https://fotos.etheriamagazine.com/2019/12/fernando-mikel-despensa-etxanobe.jpg "Fernando y Mikel de La Despensa de Etxanobe.")
 
 ### La Despensa de Etxanobe
 
@@ -83,7 +83,7 @@ disponibles en su espacio gastronómico, El Atelier). Guisos, pescados del día,
 brasas brindan placer y disfrute a las visitas. Un plan amigable y relajado que se 
 complementa con una bodega de excepción. 
 
-![la despensa de etxanobe, tortellini bilbao](https://fotos.etheriamagazine.com/2019/12/La-Despensa-de-Etxanobe-Tortellini-de-remolacha-con-trufa-900x600.jpg "Tortellini de remolacha con trufa de ©'La Despensa de Etxanobe'.")
+![la despensa de etxanobe, tortellini bilbao](https://fotos.etheriamagazine.com/2019/12/La-Despensa-de-Etxanobe-Tortellini-de-remolacha-con-trufa.jpg "Tortellini de remolacha con trufa de ©'La Despensa de Etxanobe'.")
 
 ## Alta cocina con 1 estrella Michelin en Bilbao
 
@@ -98,7 +98,7 @@ la cocina vizcaína cuyo secreto reside en el éxito de lo cotidiano. El nuevo l
 supone un espacio más íntimo y acogedor, invita a olvidarse del mundo por un ratito 
 mientras dejamos bailar a nuestro paladar. 
 
-![el atelier de etxanobe en bilbao](https://fotos.etheriamagazine.com/2019/12/El-Atelier-de-Etxanobe-900x626.jpg "Tarta de zanahoria y ensaladilla rusa (Izq.) y El Atelier de Etxanobe (Dcha.)")
+![el atelier de etxanobe en bilbao](https://fotos.etheriamagazine.com/2019/12/El-Atelier-de-Etxanobe.jpg "Tarta de zanahoria y ensaladilla rusa (Izq.) y El Atelier de Etxanobe (Dcha.)")
 
 ### Restaurante Nerua
 
@@ -110,7 +110,7 @@ cada temporada se trabaja con antelación para ofrecer un menú con el que sabor
 experiencia gastronómica y cultural; una cocina local que nace en las huertas, en el mar 
 y en las granjas, tratada y presentada con una delicadeza y una elegancia inigualables. 
 
-![Restaurante Nerua de Bilbao](https://fotos.etheriamagazine.com/2019/12/restaurante-Nerua-bilbao-900x677.jpg "© Restaurante Nerua de Bilbao.")
+![Restaurante Nerua de Bilbao](https://fotos.etheriamagazine.com/2019/12/restaurante-Nerua-bilbao.jpg "© Restaurante Nerua de Bilbao.")
 
 ### Restaurante Mina
 
@@ -123,7 +123,7 @@ comensales platos de proporciones armoniosas con los que se consigue un equilibr
 perfecto. Atendiendo al género disponible cada día, sus efímeros menús hacen la 
 propuesta de Garrido aún más interesante. 
 
-![chef alvaro garrido del restaurante mina](https://fotos.etheriamagazine.com/2019/11/Restaurante-Mina-chef-Alvaro-Garrido-900x586.jpg "Chef Álvaro Garrido y varios platos del © Restaurante Mina.")
+![chef alvaro garrido del restaurante mina](https://fotos.etheriamagazine.com/2019/11/Restaurante-Mina-chef-Alvaro-Garrido.jpg "Chef Álvaro Garrido y varios platos del © Restaurante Mina.")
 
 ## Guía práctica de Bilbao
 
@@ -134,7 +134,7 @@ tanto en avión o tren como por carretera. La ciudad permite moverse andando o e
 tranvía, por lo que prescindir del vehículo propio durante el fin de semana aquí es una 
 buena idea. 
 
-![abel corral, restaurante beltz, gran hotel domine](https://fotos.etheriamagazine.com/2019/12/Gran-Hotel-Domine-Abel-Corral-900x555.jpg "Abel Corral, del restaurante Beltz (Gran Hotel Domine).")
+![abel corral, restaurante beltz, gran hotel domine](https://fotos.etheriamagazine.com/2019/12/Gran-Hotel-Domine-Abel-Corral.jpg "Abel Corral, del restaurante Beltz (Gran Hotel Domine).")
 
 ### Dónde dormir
 
@@ -162,7 +162,7 @@ haberos llevado en la maleta un par de ellos.
 [Bilbao Turismo](http://bilbaoturismo.net/) y [Turismo 
 Euskadi](https://turismo.euskadi.eus/es) 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 planes originales en Bilbao con 
 amigas](https://etheriamagazine.com/2020/09/09/10-planes-originales-en-bilbao-con-amigas/) 

@@ -16,7 +16,7 @@ plantaciones de mimbre madurando al sol es la culpable de transformar los alrede
 pueblos alcarreños y serranos en un panorama tan ordenado como hipnótico. Prepárate, vas 
 a entrar en uno de los mejores paisajes colorados del mundo. 
 
-![La poesía del paisaje se manifiesta en la Ruta del Mimbre de Cuenca.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-apertura-900x601.jpg "La poesía del paisaje se manifiesta en la Ruta del Mimbre de Cuenca.")
+![La poesía del paisaje se manifiesta en la Ruta del Mimbre de Cuenca.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-apertura.jpg "La poesía del paisaje se manifiesta en la Ruta del Mimbre de Cuenca.")
 
 (Actualizado 27/12/22) 
 
@@ -45,7 +45,7 @@ del Consistorio– y las casas de la Inquisición. En el camino seguro que algun
 alfarería, principal actividad artesana de la localidad que tuvo hasta 40 alfareros, nos 
 hace detenernos. 
 
-![Recogida del mimbre y yemas de una rama de los mismos.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-manos-900x672.jpg "Recogida del mimbre y yemas de una rama de los mismos.")
+![Recogida del mimbre y yemas de una rama de los mismos.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-manos.jpg "Recogida del mimbre y yemas de una rama de los mismos.")
 
 ## Artesanos del mimbre
 
@@ -63,7 +63,7 @@ claustro gótico, o el convento de San Miguel de la Victoria, que al llegar nos 
 no solo con la devoción que levanta su Santo Cristo de la Caridad entre los vecinos sino 
 por su decoración barroca. 
 
-![Río Escabas, a su paso por Priego.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-rio-escabas-900x601.jpg "Río Escabas, a su paso por Priego.")
+![Río Escabas, a su paso por Priego.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-rio-escabas.jpg "Río Escabas, a su paso por Priego.")
 
 ## El estrecho de Priego
 
@@ -90,7 +90,7 @@ cuando sus varas, reunidas en haces a modo de grandes conos, permanecen de pie s
 mientras su corteza va oscureciéndose hasta el momento de ser peladas para así lograr la 
 característica fibra vegetal con la que trabajar artesanalmente. 
 
-![Zona del Tobar (Cuenca).](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-el-tobar-900x601.jpg "Zona del Tobar (Cuenca).")
+![Zona del Tobar (Cuenca).](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-el-tobar.jpg "Zona del Tobar (Cuenca).")
 
 El camino se estrecha junto al río Escabas, y entre los pinares, para llegar al pasaje 
 conocido como la **Puerta del Infierno**. Después de atravesar sus túneles llegamos a 
@@ -110,7 +110,7 @@ a lo largo de 9,3 kilómetros entre bosque de galería y pinares, hasta la Ceja 
 Tragavivos, un mirador natural con vistas a un hermoso pasaje natural por donde discurre 
 encajado el río Guadiela. 
 
-![mimbreras, mimbre, cuenca](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-paisaje-2-900x900.jpg "Paisaje de mimbreras.")
+![mimbreras, mimbre, cuenca](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-paisaje-2.jpg "Paisaje de mimbreras.")
 
 ## Ríos bravos de la serranía
 
@@ -144,7 +144,7 @@ refleja la importancia que el lugar tuvo en la vía de comunicación entre Molin
 Aragón y Cuenca. Los restos de su muralla descienden hacia el pueblo como única señal de 
 que hace mil años este muro lo envolvía dejando dos puertas de acceso a la villa. 
 
-![Laguna del Tobar (Cuenca).](https://fotos.etheriamagazine.com/2020/01/laguna-tobar-ruta-mimbre-900x601.jpg "Laguna del Tobar (Cuenca).")
+![Laguna del Tobar (Cuenca).](https://fotos.etheriamagazine.com/2020/01/laguna-tobar-ruta-mimbre.jpg "Laguna del Tobar (Cuenca).")
 
 ## Las lagunas del Tobar
 
@@ -167,7 +167,7 @@ llevarás un agua excelente, la de Beteta. Estas en tierra de aguas con ricas pr
 minerales y de cuyo beneficio te puedes impregnar acudiendo al **balneario de Solán de 
 Cabras**. 
 
-![haces mimbres, mimbres cuenca](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-haces-900x601.jpg "Haces de mimbres.")
+![haces mimbres, mimbres cuenca](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-haces.jpg "Haces de mimbres.")
 
 ## Manojos de mimbre en forma de piras
 
@@ -184,7 +184,7 @@ El uso del plástico y la fabricación de cestos de manera industrial no lo han 
 desaparecer pero es cierto que la demanda ha disminuido notablemente pues estas piezas 
 como sillones, cestos y baúles solo poseen un uso ornamental. 
 
-![El color del mimbre va cambiando con el paso del tiempo.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-haces-naranjas-683x1024.jpg "El color del mimbre va cambiando con el paso del tiempo.")
+![El color del mimbre va cambiando con el paso del tiempo.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-haces-naranjas.jpg "El color del mimbre va cambiando con el paso del tiempo.")
 
 ## Villaconejos de Trabaque
 
@@ -204,7 +204,7 @@ habitado por una tribu bereber y, tras la conquista cristiana en el Medievo, sob
 que fuera su mezquita se erigió la actual iglesia de la Asunción que aúna estilos 
 románico y gótico. 
 
-![Detalle de ramas de mimbre.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-detalle-900x601.jpg "Detalle de ramas de mimbre.")
+![Detalle de ramas de mimbre.](https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-detalle.jpg "Detalle de ramas de mimbre.")
 
 ## Valdeolivas
 

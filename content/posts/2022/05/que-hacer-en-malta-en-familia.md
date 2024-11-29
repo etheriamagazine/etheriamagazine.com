@@ -97,7 +97,7 @@ la costa y se visitan **seis grutas marinas** en cuyo interior el agua es de col
 eléctrico, de ahí el nombre de Blue Grotto. A los niños les parecerá algo mágico (y a 
 los mayores, también). Más información en su [web](https://www.bluegrottomalta.com.mt/). 
 
-![Ruinas de Ggantija](https://fotos.etheriamagazine.com/2018/05/7-Viaje-a-Gozo-y-Malta-Ruinas-Ggantija-1024x682.jpg "Ruinas de Ggantija. © Pepa García")
+![Ruinas de Ggantija](https://fotos.etheriamagazine.com/2018/05/7-Viaje-a-Gozo-y-Malta-Ruinas-Ggantija.jpg "Ruinas de Ggantija. © Pepa García")
 
 ### 5\. Templos megalíticos
 
@@ -127,7 +127,7 @@ de color rojizo. Para comer te recomendamos optar por alguna de las eco-granjas
 repartidas por la isla, que te mostrarán sus cultivos, y, además, ofrecen almuerzos y 
 productos ecológicos. 
 
-![Mirador sobre la Gruta de Calipso, en la isla de Gozo.](https://fotos.etheriamagazine.com/2018/05/1-Viaje-a-Gozo-y-Malta-Gruta-Calipso-1024x682.jpg "Mirador sobre la Gruta de Calipso, en la isla de Gozo. © Pepa García")
+![Mirador sobre la Gruta de Calipso, en la isla de Gozo.](https://fotos.etheriamagazine.com/2018/05/1-Viaje-a-Gozo-y-Malta-Gruta-Calipso.jpg "Mirador sobre la Gruta de Calipso, en la isla de Gozo. © Pepa García")
 
 ### 7\. Un baño en la Laguna Azul de Comino
 
@@ -168,7 +168,7 @@ albergan un amplísimo patrimonio. Pero si estas urbes te llevan al pasado con s
 mirarlas, **Mdina** es una auténtica locura por la belleza de su casco histórico. Y, más 
 aún, si se recorre de noche e iluminada con antorchas. 
 
-? Te puede interesar: un [freetour que realiza la visita 
+📌 Te puede interesar: un [freetour que realiza la visita 
 nocturna](https://www.civitatis.com/es/la-valeta/tour-nocturno-malta/?aid=10211) a Mdina 
 y a Rabat (infórmate porque merece la pena), y otro [Freetour por La 
 Valetta](https://www.civitatis.com/es/la-valeta/free-tour-valeta/?aid=10211). 

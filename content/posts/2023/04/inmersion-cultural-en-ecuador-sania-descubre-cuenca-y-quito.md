@@ -198,7 +198,7 @@ sus peculiaridades al respecto y se diferencia en el trato hacia la mujer.
 lo quiero cortar ya” y entrar en la primera peluquería que veo. El corte actual es de 
 Cuenca y tardaré, por lo menos, unos dos meses en recuperar algo de mi melena blanca. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Islas Galápagos, consejos de Sania para visitar el paraíso 
 perdido](https://etheriamagazine.com/2023/04/09/como-viajar-islas-galapagos/) 

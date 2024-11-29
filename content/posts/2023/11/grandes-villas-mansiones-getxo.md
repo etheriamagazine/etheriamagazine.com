@@ -38,7 +38,7 @@ importantes del país, sino que también poseían una alta influencia en la esfe
 y social. El historiador Raymond Carr acertaba de pleno cuando señalaba que “los hombres 
 realmente ricos de España a partir de 1900, con pocas excepciones, eran vascos”. 
 
-![Imagen histórica de Getxo](https://fotos.etheriamagazine.com/2023/11/getxo-belle-epoque-850x476.jpg "Los días dorados de Getxo. © Archivo Biblioteca municipal de Getxo")
+![Imagen histórica de Getxo](https://fotos.etheriamagazine.com/2023/11/getxo-belle-epoque.jpg "Los días dorados de Getxo. © Archivo Biblioteca municipal de Getxo")
 
 ### El sueño de Máximo Aguirre
 
@@ -117,7 +117,7 @@ podemos describir todos los palacetes del itinerario, pero en la web de la ofici
 turismo os podéis [descargar una publicación en pdf dedicada a las 
 villas](https://www.getxo.eus/DocsPublic/turismo/Grandes_Villas_Getxo.pdf). 
 
-![Monumento a Churruca, en Getxo.](https://fotos.etheriamagazine.com/2023/11/getxo-monumento-Churruca-667x1000.jpg "Monumento a Evaristo Churruca, en Getxo.")
+![Monumento a Churruca, en Getxo.](https://fotos.etheriamagazine.com/2023/11/getxo-monumento-Churruca.jpg "Monumento a Evaristo Churruca, en Getxo.")
 
 ### Monumento a Evaristo Churruca
 
@@ -150,7 +150,7 @@ balneario, apenas quedan unos restos originales de decoración modernista donde 
 leer “Villa C”. En torno a la estación balneario también se situaba **Amandrerena**, una 
 villa cuyos volúmenes no pasan desapercibidos. 
 
-![Hotel Embarcadero, en el Muelle de las Arenas (Getxo).](https://fotos.etheriamagazine.com/2023/11/getxo-ruta-villas-850x567.jpg "Hotel Embarcadero, en el Muelle de las Arenas (Getxo).")
+![Hotel Embarcadero, en el Muelle de las Arenas (Getxo).](https://fotos.etheriamagazine.com/2023/11/getxo-ruta-villas.jpg "Hotel Embarcadero, en el Muelle de las Arenas (Getxo).")
 
 Antes de llegar a la playa de la Bola observaréis otras villas como **Itsas Begi** 
 (1927), de estilo regionalista neovasco, y **Bidearte** (1927), del mismo estilo, pero 
@@ -170,7 +170,7 @@ arquitecto Manuel María Smith se inspiró en la sencillez de las _cottages_ ing
 aunque con las reformas se ha ido “barroquizando”. Tras esta primera vivienda, llegaron 
 otros dos “Ciscos” (1948 y 1955) proyectados por Eugenio Aguinaga. 
 
-![Muelle de Arriluze, en el barrio de Neguri](https://fotos.etheriamagazine.com/2023/11/getxo-paseo-villas-850x567.jpg "Muelle de Arriluze, en el barrio de Neguri (Getxo).")
+![Muelle de Arriluze, en el barrio de Neguri](https://fotos.etheriamagazine.com/2023/11/getxo-paseo-villas.jpg "Muelle de Arriluze, en el barrio de Neguri (Getxo).")
 
 ### Muelle de Arriluze
 
@@ -208,7 +208,7 @@ empresario y político, que os sonará porque fundó Iberia, los Altos del Duero
 construcción del submarino E-1 y de un transbordador aéreo en las cataratas del Niágara. 
 Una persona inquieta donde las haya. 
 
-![Base de Salvamento Marítimo de Getxo.](https://fotos.etheriamagazine.com/2023/11/Getxo-Arriluze-850x553.jpg "Base de Salvamento Marítimo de Getxo.")
+![Base de Salvamento Marítimo de Getxo.](https://fotos.etheriamagazine.com/2023/11/Getxo-Arriluze.jpg "Base de Salvamento Marítimo de Getxo.")
 
 Las Galerías de Punta Begoña son las únicas abiertas al público del **Paseo de las 
 Grandes Villas de Getxo**. Se pueden visitar de forma autoguiada, a través de paneles, o [guiada 

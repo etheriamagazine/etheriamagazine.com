@@ -48,7 +48,7 @@ el boca a boca a lo largo de los años. Aquí os vamos a contar algunos de sus r
 más emblemáticos y también, por qué no, algunas leyendas y supersticiones de las que no 
 pueden faltar en ningún templo. 
 
-![Detalle del Transparente de Narciso Tomé.](https://fotos.etheriamagazine.com/2022/01/catedral-toledo-transparente-683x1024.jpg "Detalle del Transparente de Narciso Tomé.")
+![Detalle del Transparente de Narciso Tomé.](https://fotos.etheriamagazine.com/2022/01/catedral-toledo-transparente.jpg "Detalle del Transparente de Narciso Tomé.")
 
 ## 10 detalles de la catedral de Toledo:
 
@@ -96,7 +96,7 @@ bañada en oro y, en el siglo XVIII, una peana que sustenta la obra. No es de ex
 que, con este peso, tenga que desmontarse para salir de la sala en la procesión del día 
 de Corpus Christi. 
 
-![Porta Cirio Pascual.](https://fotos.etheriamagazine.com/2022/01/Catedral-toledo-portacirios-686x1024.jpg "Porta Cirio Pascual. © SG")
+![Porta Cirio Pascual.](https://fotos.etheriamagazine.com/2022/01/Catedral-toledo-portacirios.jpg "Porta Cirio Pascual. © SG")
 
 ### Porta Cirio Pascual
 
@@ -183,7 +183,7 @@ rito tan particular no se perdiera. Y todavía se puede escuchar a diario a las 
 > La misa mozárabe, una forma diferente de acercarse en soledad a este edificio a primera 
 > hora de la mañana y disfrutar de este rito único en el mundo. 
 
-![Puerta del Reloj.](https://fotos.etheriamagazine.com/2022/01/catedral-toledo-puerta-reloj-629x1024.jpg "Puerta del Reloj de la catedral de Toledo.")
+![Puerta del Reloj.](https://fotos.etheriamagazine.com/2022/01/catedral-toledo-puerta-reloj.jpg "Puerta del Reloj de la catedral de Toledo.")
 
 ### Un reloj con una manilla
 

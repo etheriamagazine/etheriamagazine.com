@@ -14,7 +14,7 @@ Nacional de Corcovado, un territorio que te invitamos a conocer para descubrir g
 dosis de naturaleza, interesantes pueblos indígenas y sorprendentes tesoros 
 precolombinos. 
 
-![Eides Fletes, una emprendedora enamorada de la Península de Osa.](https://fotos.etheriamagazine.com/2022/11/Eida-Fletes-costa-rica-850x594.jpg "Eides Fletes, una emprendedora enamorada de la Península de Osa.")
+![Eides Fletes, una emprendedora enamorada de la Península de Osa.](https://fotos.etheriamagazine.com/2022/11/Eida-Fletes-costa-rica.jpg "Eides Fletes, una emprendedora enamorada de la Península de Osa.")
 
 Hablar de Costa Rica es hacerlo de naturaleza, biodiversidad, ecoturismo, deportes 
 activos, y gente hospitalaria en todos sus rincones. También en el Pacífico sur, donde 
@@ -45,7 +45,7 @@ incide en la necesidad de educarse e informar, ya que “Jacana destaca por hace
 turismo educativo y cada día debe enseñar a ser mejores: mejores personas, mejores 
 turistas y mejores ciudadanos”. 
 
-![Eida Fletes ofrece al viajero dos recorridos con toque educativo.](https://fotos.etheriamagazine.com/2022/11/eida-fletes-jacana-rey-tours-850x594.jpg "Eida Fletes ofrece al viajero dos recorridos con toque educativo.")
+![Eida Fletes ofrece al viajero dos recorridos con toque educativo.](https://fotos.etheriamagazine.com/2022/11/eida-fletes-jacana-rey-tours.jpg "Eida Fletes ofrece al viajero dos recorridos con toque educativo.")
 
 Una buena manera de apoyar su labor es realizando el “**Tour del palmito**” y el “**Tour 
 nocturno de insectos en Caminos de Osa**”, organizados por [Jacana Rey 
@@ -61,7 +61,7 @@ sus parques naturales, las zonas playeras y sus 6 distritos (Ciudad Cortés, Pal
 Sierpe, Piedras Blancas, Bahía Ballena y Bahía Drake Osa, de la provincia de 
 Puntarenas). 
 
-![Vista aérea de la bahía de Drake.](https://fotos.etheriamagazine.com/2022/11/peninsula-Osa-Bahia-Drake-850x589.jpg "Vista aérea de la bahía de Drake.")
+![Vista aérea de la bahía de Drake.](https://fotos.etheriamagazine.com/2022/11/peninsula-Osa-Bahia-Drake.jpg "Vista aérea de la bahía de Drake.")
 
 ### 1\. Recorrer el Parque Nacional de Corcovado
 
@@ -91,7 +91,7 @@ botella, la mantarraya, distintas especies de tortugas y el tiburón martillo. T
 cuenta con unos bonitos arrecifes de coral en torno a isla Ballena, ubicada a dos 
 kilómetros de la costa. 
 
-![Avistamiento de cetáceos y tortuga marina en el entorno de la Península de Osa.](https://fotos.etheriamagazine.com/2022/11/cetaceos-peninsula-osa-costarica-850x532.jpg "Avistamiento de cetáceos y tortuga marina en el entorno de la Península de Osa.")
+![Avistamiento de cetáceos y tortuga marina en el entorno de la Península de Osa.](https://fotos.etheriamagazine.com/2022/11/cetaceos-peninsula-osa-costarica.jpg "Avistamiento de cetáceos y tortuga marina en el entorno de la Península de Osa.")
 
 ### 3\. Observar las esferas de piedras del Diquís
 
@@ -106,7 +106,7 @@ de un emplazamiento o un dirigente. Un buen lugar para contemplarlas es el **Sit
 Finca 6**, donde se encuentran en su emplazamiento original y muestran diferentes 
 disposiciones y tamaños. 
 
-![Piedras del Diquís, en la Península de Osa, en Costa Rica.](https://fotos.etheriamagazine.com/2022/11/esferas-850x510.jpg "Esferas de piedras del Diquís.")
+![Piedras del Diquís, en la Península de Osa, en Costa Rica.](https://fotos.etheriamagazine.com/2022/11/esferas.jpg "Esferas de piedras del Diquís.")
 
 ### 4\. Saborear la cocina costarricense
 
@@ -148,7 +148,7 @@ en una edificación típica de este pueblo donde se exhiben las técnicas natura
 utilizadas en su artesanía; y el **Museo Comunitario Indígena de Terraba** que muestra 
 los modos de vida tradicionales de esta cultura. 
 
-![En la Península de Osa viven varios grupos indígenas.](https://fotos.etheriamagazine.com/2022/11/Gente-Caminos-de-Osa-Aguas-Ricas-850x567.jpg "En la Península de Osa viven varios grupos indígenas.")
+![En la Península de Osa viven varios grupos indígenas.](https://fotos.etheriamagazine.com/2022/11/Gente-Caminos-de-Osa-Aguas-Ricas.jpg "En la Península de Osa viven varios grupos indígenas.")
 
 ### 7\. Observar la naturaleza
 

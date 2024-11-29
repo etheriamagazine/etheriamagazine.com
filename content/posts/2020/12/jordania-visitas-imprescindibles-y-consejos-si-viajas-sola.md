@@ -147,7 +147,7 @@ los tropiezos del animal. El Monasterio está menos concurrido e incluso puedes 
 “té con vistas” en las cafeterías frente a su fachada. Las fotos también es aconsejable 
 hacerlas desde las alturas, hay un corto sendero para llegar al punto ideal. 
 
-![monasterio de petra, imprescindibles de Jordania](https://fotos.etheriamagazine.com/2020/12/Jordania-monasterio-de-petra-696x1024.jpg "El Monasterio de Petra desde la cafetería de enfrente. © Etheria M.")
+![monasterio de petra, imprescindibles de Jordania](https://fotos.etheriamagazine.com/2020/12/Jordania-monasterio-de-petra.jpg "El Monasterio de Petra desde la cafetería de enfrente. © Etheria M.")
 
 ### Más visitas en Petra
 

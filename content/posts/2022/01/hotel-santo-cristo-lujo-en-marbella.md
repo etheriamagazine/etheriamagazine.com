@@ -29,7 +29,7 @@ edificio que acogía a los comerciantes mientras se desplazaban de un lugar a ot
 sus mercancías. De esta manera el aspecto de su patio toma forma gracias a las galerías 
 balconadas con jardineras y persianas de esparto que le dan un toque único y especial. 
 
-![Patio del hotel Santo Cristo](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-Patio-683x1024.jpg "Patio del hotel.")
+![Patio del hotel Santo Cristo](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-Patio.jpg "Patio del hotel.")
 
 Este patio será sin duda uno de los rincones del hotel que más te van a gustar, ya que 
 guarda todo el encanto de los patios andaluces, con una pequeña fuente y dos preciosos 
@@ -45,7 +45,7 @@ Bespoke”**, un departamento encargado de adaptar a cada persona la experiencia
 disfrutar Marbella según sus gustos y preferencias: una visita guiada privada por la 
 ciudad, el alquiler de un barco para recorrer el Mediterráneo… 
 
-![Fachada del hotel Santo Cristo.](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-exterior-683x1024.jpg "Fachada del hotel Santo Cristo.")
+![Fachada del hotel Santo Cristo.](https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-exterior.jpg "Fachada del hotel Santo Cristo.")
 
 ## Las habitaciones del hotel Santo Cristo
 

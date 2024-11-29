@@ -104,7 +104,7 @@ el burro, logrando una casa sin vigas, sin columnas y sin tabiques. El techo de 
 habitaciones se abrían al cielo (lumbreras), que proporcionaban iluminación y 
 ventilación. 
 
-![silo colorao madridejos toledo](https://fotos.etheriamagazine.com/2021/09/Silo-del-Colorao-2-674x1024.jpg "Silo del Colorao, en Madridejos (Toledo). © P. Grifol")
+![silo colorao madridejos toledo](https://fotos.etheriamagazine.com/2021/09/Silo-del-Colorao-2.jpg "Silo del Colorao, en Madridejos (Toledo). © P. Grifol")
 
 ### Silos excavados en la tierra
 

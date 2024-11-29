@@ -77,8 +77,8 @@ que opte por el vuelo (sigo sin facturar equipaje, voy con maleta de cabina y un
 mochila; y sí, es complicado y lo comentaré en otro artículo). Me gustó mucho el pueblo 
 y toda la experiencia alrededor. 
 
-? **Muy seguro para una viajera sola**, cómodo por su variedad de restaurantes y bares y 
-con una gran diversidad de viajeros dispuestos a compartir experiencias e información. 
+📌 **Muy seguro para una viajera sola**, cómodo por su variedad de restaurantes y bares 
+y con una gran diversidad de viajeros dispuestos a compartir experiencias e información. 
 
 ### La Casa de Don Tomás
 
@@ -206,5 +206,5 @@ impresionante, me cuesta bajar la cámara. Es como que tengo que seguir sacando 
 para comprender esa grandeza del entorno…. Y luego hay que hacer edición de esas fotos… 
 o comprar más espacio de almacenamiento. 
 
-? **También te puede interesar** leer en el enlace las crónicas de viaje de [Sania 
+📌 **También te puede interesar** leer en el enlace las crónicas de viaje de [Sania 
 Jelic](https://etheriamagazine.com/author/sania-jelic/).

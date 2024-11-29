@@ -15,7 +15,7 @@ a dar 10 pasos sostenibles para visitar el pueblo que marca el fin de la ría de
 Nervión. Desde movernos en bici o consumir productos de proximidad hasta elegir arenales 
 sin barreras, su compromiso con el futuro es una tentación. 
 
-![Acantilados de Arrigunaga y molino Aixerrota, en Getxo.](https://fotos.etheriamagazine.com/2022/08/Getxo-acantilados-de-Arrigunaga-673x1024.jpg "Acantilados de Arrigunaga y molino Aixerrota, en Getxo.")
+![Acantilados de Arrigunaga y molino Aixerrota, en Getxo.](https://fotos.etheriamagazine.com/2022/08/Getxo-acantilados-de-Arrigunaga.jpg "Acantilados de Arrigunaga y molino Aixerrota, en Getxo.")
 
 No sabes qué tipo de viajera eres hasta que empiezas a probar otras maneras de conocer 
 un destino. Incluye en tu lista de experiencias viajeras moverte con medios afines al 
@@ -49,7 +49,7 @@ Baja de la bici cuando desees, haz una foto única o admira sin prisas los palac
 las bonitas viviendas levantadas hace más de un siglo, cuando la burguesía industrial 
 bilbaína puso de moda Getxo como lugar de veraneo. 
 
-? Un itinerario recomendable es recorrer en bici el paseo marítimo (por el bidegorri) 
+📌 Un itinerario recomendable es recorrer en bici el paseo marítimo (por el bidegorri) 
 que es plano, desde el Puente Bizkaia hasta la playa de Ereaga, y luego subir 
 cómodamente con la bici en ascensor hasta Algorta (llega a la avenida Basagoiti). La 
 cabina tiene aire acondicionado y el precio es únicamente de 0,20 euros (0,18 con 
@@ -131,7 +131,7 @@ halla en la **calle Torrene**. A su larga historia para mejorar la vida de la ge
 que es uno de los pocos edificios de hormigón de la localidad suma el haber sido refugio 
 durante la guerra civil española. 
 
-![Una pareja pasea entre los restaurantes de Puerto Viejo](https://fotos.etheriamagazine.com/2022/08/restaurantes-Puerto-Viejo-getxo-667x1024.jpg "No te pierdas los restaurantes de Puerto Viejo.")
+![Una pareja pasea entre los restaurantes de Puerto Viejo](https://fotos.etheriamagazine.com/2022/08/restaurantes-Puerto-Viejo-getxo.jpg "No te pierdas los restaurantes de Puerto Viejo.")
 
 ### Amar la tierra a pie, Amalurra
 
@@ -213,7 +213,7 @@ teatralizada](https://www.getxo.eus/es/turismo/que-hacer/Visitaguiada-camino-rea
 desvela el porqué de una **casa encantada** en uno de los espacios urbanos más bonitos 
 de Getxo. 
 
-![Ventana de un palacete de la Avenida Basagoiti.](https://fotos.etheriamagazine.com/2022/08/palacete-Avenida-Basagoiti-683x1024.jpg "Ventana de un palacete de la Avenida Basagoiti.")
+![Ventana de un palacete de la Avenida Basagoiti.](https://fotos.etheriamagazine.com/2022/08/palacete-Avenida-Basagoiti.jpg "Ventana de un palacete de la Avenida Basagoiti.")
 
 ### Playa para todas (y todos)
 
@@ -229,9 +229,9 @@ y **Arrigunaga**) que el turismo en Getxo se mueve con otra onda.
 
 ![Ereaga, una playa sin barreras de Getxo.](https://fotos.etheriamagazine.com/2022/08/Playa-Ereaga-sin-barreras.jpg "Ereaga, una playa sin barreras de Getxo.")
 
-? Desde junio hasta septiembre, la playa de Ereaga cuenta con aparcamiento controlado de 
-10 a 20 horas pero se puede dejar el vehículo durante bastante tiempo mientras te das un 
-chapuzón (0,75 €/ hora). 
+📌 Desde junio hasta septiembre, la playa de Ereaga cuenta con aparcamiento controlado 
+de 10 a 20 horas pero se puede dejar el vehículo durante bastante tiempo mientras te das 
+un chapuzón (0,75 €/ hora). 
 
 Más información en [Turismo de Getxo](https://www.getxo.eus/es/turismo/descubre-getxo/). 
 

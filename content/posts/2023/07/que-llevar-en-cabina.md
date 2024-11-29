@@ -107,7 +107,7 @@ resecan la piel. Recuerda las normas sobre los tamaños permitidos: botes de 100
 menos y cuya suma total no sobrepase el litro. [El pack de 3 de la imagen inferior sale 
 desde 15 euros en Amazon](https://amzn.to/44kKG6c). 
 
-?Si crees que lo puedes necesitar, incluye tampones, compresas, copa menstrual o lo que 
+📍Si crees que lo puedes necesitar, incluye tampones, compresas, copa menstrual o lo que 
 suelas usar. A veces es complicado encontrarlos en algunos países. 
 
 ![Pack de 3 bolsas transparentes con cremallera.](https://fotos.etheriamagazine.com/2023/07/neceser-viaje-transparente.jpg "Pack de 3 bolsas transparentes con cremallera.")

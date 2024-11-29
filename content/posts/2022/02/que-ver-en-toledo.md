@@ -31,7 +31,7 @@ que nos depara esta preciosa población. Si quieres sacar el máximo provecho y 
 como nunca de vuestro viaje, seguid leyendo y tomad nota porque en este artículo os 
 contamos todo lo necesario para descubrir a fondo la histórica capital. 
 
-? Para situaros en la ciudad podéis realizar un **freetour por Toledo**. [Resérvalo](https://www.civitatis.com/es/toledo/free-tour-toledo/?aid=10211), 
+📌 Para situaros en la ciudad podéis realizar un **freetour por Toledo**. [Resérvalo](https://www.civitatis.com/es/toledo/free-tour-toledo/?aid=10211), 
 no se cobra cancelación si cambiáis de idea a última hora. 
 
 ![entrada monumental de toledo](https://fotos.etheriamagazine.com/2022/02/Toledo-entrada-monumental.jpg "Una de las entradas de Toledo más espectaculares. © Yolanda Cardo")
@@ -130,14 +130,14 @@ ejemplo de arquitectura hidráulica de época islámica del siglo X-XI. Se encue
 en una tienda de _souvenirs_ de la céntrica calle Trinidad, 5. Sus amables propietarios 
 te explicarán su historia y podréis verlo tan solo comprando algún bonito recuerdo. 
 
-? Tour nocturno por el Toledo misterioso. Muy recomendable. Precio: unos 12 €. [Resérvalo 
+📌 Tour nocturno por el Toledo misterioso. Muy recomendable. Precio: unos 12 €. [Resérvalo 
 en este enlace](https://www.civitatis.com/es/toledo/tour-toledo-misterioso/?aid=10211) 
 (no se cobra cancelación). 
 
 ### La Catedral Primada de Toledo
 
 Este espléndido edificio de estilo gótico es, quizás, uno de los lugares que hay que ver 
-en Toledo (y en condiciones). ? Por su envergadura e importancia, la [Catedral 
+en Toledo (y en condiciones). 📌 Por su envergadura e importancia, la [Catedral 
 Primada](https://etheriamagazine.com/2022/01/19/que-ver-en-catedral-de-toledo/) tiene 
 **un artículo propio** donde se detalla todo lo que debéis saber antes de visitarla. 
 Aquí os adelantamos algunas curiosidades. Su portada más antigua luce uno de los pocos 
@@ -146,10 +146,10 @@ en su interior la campana más grande de toda España, conocida popularmente com
 “Campana Gorda” y sus muros conservan multitud de reliquias, entre ellas un brazo de 
 Santa Lucía, el Arca del Santísimo Sacramento o el relicario de la Santa Espina. 
 
-?Consejo para ahorrar: la **Toledo Card** incluye la visita a la Catedral y a otros 
+📌Consejo para ahorrar: la **Toledo Card** incluye la visita a la Catedral y a otros 
 monumentos, y un tour a pie. Además, no hay que hacer cola para realizar las visitas. 
 
-![catedral primada imprescindible que ver en toledo](https://fotos.etheriamagazine.com/2022/02/toledo-Catedral-900x433.jpg "La Catedral Primada de Toledo, una de las visitas imprescindibles. © Yolanda Cardo")
+![catedral primada imprescindible que ver en toledo](https://fotos.etheriamagazine.com/2022/02/toledo-Catedral.jpg "La Catedral Primada de Toledo, una de las visitas imprescindibles. © Yolanda Cardo")
 
 ### Tres culturas de Toledo
 
@@ -166,10 +166,11 @@ mañana; **Santa María la Blanca**, una sinagoga igualmente bella aunque de dim
 más modestas o la **Casa del Judío**. La Red de Juderías ofrece información detallada 
 para conocer en profundidad la valiosa herencia sefardí en estas tierras castellanas. 
 
-? Visita guiada por el Toledo de las tres culturas. Precio: unos 12 €. [Reservas en este 
+📌 Visita guiada por el Toledo de las tres culturas. Precio: unos 12 €. [Reservas en 
+este 
 enlace](https://www.civitatis.com/es/toledo/visita-toledo-tres-culturas/?aid=10211). 
 
-![juderia un basico que ver en toledo](https://fotos.etheriamagazine.com/2022/02/toledo-juderia-744x1024.jpg "La Judería desde el puente de San Martín. © Yolanda Cardo")
+![juderia un basico que ver en toledo](https://fotos.etheriamagazine.com/2022/02/toledo-juderia.jpg "La Judería desde el puente de San Martín. © Yolanda Cardo")
 
 #### Legado musulmán
 
@@ -181,7 +182,7 @@ VI, los **baños árabes**, la antigua **Mezquita del Salvador** o el Palacio de
 (palaciodegaliana.es), una preciosa joya arquitectónica construida en el siglo XI bajo 
 el mandato del rey Al-Mamún, también fueron levantadas bajo su influencia. 
 
-![sinagoga del transito otro basico que ver en toledo](https://fotos.etheriamagazine.com/2022/02/sinagoga-transito-900x674.jpg "La sinagoga del Tránsito, sede del Museo Sefardí de Toledo. © Yolanda Cardo")
+![sinagoga del transito otro basico que ver en toledo](https://fotos.etheriamagazine.com/2022/02/sinagoga-transito.jpg "La sinagoga del Tránsito, sede del Museo Sefardí de Toledo. © Yolanda Cardo")
 
 #### Monumentos cristianos
 
@@ -236,10 +237,10 @@ protagonista. Cuatro poblados de época, mesones, cantinas, talleres y divertida
 actividades para sumergirse en un apasionante viaje en el tiempo. Totalmente 
 recomendable y para todos los públicos. 
 
-? ¿Por qué puede interesarte conocer Puy du Fou? [15 razones para visitar Puy du Fou 
+📌 ¿Por qué puede interesarte conocer Puy du Fou? [15 razones para visitar Puy du Fou 
 Toledo](https://etheriamagazine.com/2022/04/06/15-razones-para-visitar-puy-du-fou-toledo-en-2022/) 
 
-?Entrada de Puy du Fou Toledo de adulto desde 29 €. [Consulta 
+📌Entrada de Puy du Fou Toledo de adulto desde 29 €. [Consulta 
 disponibilidad](https://www.civitatis.com/es/toledo/entrada-puy-du-fou/?aid=10211). 
 
 ![espectaculo el sueno de toledo en puy du fou](https://fotos.etheriamagazine.com/2022/02/Puy-du-Fou-España.jpg "Espectáculo 'El sueño de Toledo', en Puy du Fou.")
@@ -262,7 +263,7 @@ clásico de la alta gastronomía en un ambiente entrañable.
 
 No te pierdas este artículo: . 
 
-? [10 grandes restaurantes para saborear lo mejor de 
+📌 [10 grandes restaurantes para saborear lo mejor de 
 Toledo](https://etheriamagazine.com/2020/11/03/comer-en-toledo-mejores-restaurantes-bares-tapas/). 
 
 ### Visitas guiadas en Toledo

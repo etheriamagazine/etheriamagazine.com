@@ -14,7 +14,7 @@ Si eres un apasionado de la serie 'Juego de Tronos' te gustará conocer algunos 
 escenarios en Irlanda del Norte. Aunque son muchos más, aquí encontrarás 10 
 localizaciones que no te puedes perder. 
 
-![La puerta nº10 de Juego de Tronos se encuentra en el Dark Horse Coffee House de Belfast.](https://fotos.etheriamagazine.com/2018/05/1-Puerta-Belfast-Juego-de-Tronos-Irlanda-Norte-1024x670.jpg "La puerta nº10 de Juego de Tronos se encuentra en el Dark Horse Coffee House de Belfast.")
+![La puerta nº10 de Juego de Tronos se encuentra en el Dark Horse Coffee House de Belfast.](https://fotos.etheriamagazine.com/2018/05/1-Puerta-Belfast-Juego-de-Tronos-Irlanda-Norte.jpg "La puerta nº10 de Juego de Tronos se encuentra en el Dark Horse Coffee House de Belfast.")
 
 ## 1\. Puerta nº 10 en Belfast
 
@@ -29,7 +29,7 @@ Belfast, para visitar el Centro Interactivo Titanic, que sorprende tanto por la
 arquitectura como por sus exposiciones, y para pasear, de viernes a domingo, entre los 
 puestos del St. George’s Market. 
 
-![En Tollymore Forest Park se rodó la escena de los caminantes blancos de la serie Juego de Tronos.](https://fotos.etheriamagazine.com/2018/05/2-Tollymore-Forest-Park-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "En Tollymore Forest Park se rodó la escena de los caminantes blancos de la serie Juego de Tronos.")
+![En Tollymore Forest Park se rodó la escena de los caminantes blancos de la serie Juego de Tronos.](https://fotos.etheriamagazine.com/2018/05/2-Tollymore-Forest-Park-Juego-de-Tronos-Irlanda-Norte.jpg "En Tollymore Forest Park se rodó la escena de los caminantes blancos de la serie Juego de Tronos.")
 
 ## 2\. Tollymore Forest Park (condado de Down)
 
@@ -40,7 +40,7 @@ sentir como un pequeño elfo del bosque. Los riachuelos, cruzados por puentes de
 también contribuyen a forjar una imagen bucólica. No suele estar muy concurrido, por lo 
 que es fácil rememorar escenas como la del encuentro de los Stark con los lobos. 
 
-![En Castle Ward, donde se situaba la casa de los Stark, tiene su sede Winterfell Tours.](https://fotos.etheriamagazine.com/2018/05/3-Castle-Ward-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "En Castle Ward, donde se situaba la casa de los Stark, tiene su sede Winterfell Tours.")
+![En Castle Ward, donde se situaba la casa de los Stark, tiene su sede Winterfell Tours.](https://fotos.etheriamagazine.com/2018/05/3-Castle-Ward-Juego-de-Tronos-Irlanda-Norte.jpg "En Castle Ward, donde se situaba la casa de los Stark, tiene su sede Winterfell Tours.")
 
 ## 3\. Vive la experiencia Winterfell en Castle Ward
 
@@ -53,7 +53,7 @@ en su iPad. En este lugar tiene la sede Winterfell Tours, que es la empresa que 
 proporciona esta divertida experiencia. Incluso organizan cenas basadas en la serie. ¿Te 
 atreves a probar una copa de hidromiel? 
 
-![Montanas de mourne en irlanda](https://fotos.etheriamagazine.com/2018/05/4-Montañas-Mourne-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "Montañas del Mourne.")
+![Montanas de mourne en irlanda](https://fotos.etheriamagazine.com/2018/05/4-Montañas-Mourne-Juego-de-Tronos-Irlanda-Norte.jpg "Montañas del Mourne.")
 
 ## 4\. Montañas y valles de Mourne
 
@@ -68,7 +68,7 @@ Te llamará la atención la presencia de un muro de piedra que se extiende duran
 No es muy alto por lo que las vistas las tienes aseguradas. Localiza en el mapa el Valle 
 del Silencio (Silent Valley) y su embalse y acércate para pasear por su perímetro. 
 
-![En Cushendun Caves se rodó una impactante escena con Melisandre.](https://fotos.etheriamagazine.com/2018/05/5-Cueva-Cushendun-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "En Cushendun Caves se rodó una impactante escena con Melisandre.")
+![En Cushendun Caves se rodó una impactante escena con Melisandre.](https://fotos.etheriamagazine.com/2018/05/5-Cueva-Cushendun-Juego-de-Tronos-Irlanda-Norte.jpg "En Cushendun Caves se rodó una impactante escena con Melisandre.")
 
 ## 5\. Cushendun Caves (condado de Antrim)
 
@@ -79,7 +79,7 @@ para que la sitúes mejor. Aunque a la ruta de Juego de Tronos no le aporte much
 merece la pena acercarse porque es una valiosa formación geológica creada durante 400 
 millones de años. 
 
-![En el puerto de Ballintoy se localizan las Islas del Hierro.](https://fotos.etheriamagazine.com/2018/05/6-Puerto-de-Balintoy-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "En el puerto de Ballintoy se localizan las Islas del Hierro.")
+![En el puerto de Ballintoy se localizan las Islas del Hierro.](https://fotos.etheriamagazine.com/2018/05/6-Puerto-de-Balintoy-Juego-de-Tronos-Irlanda-Norte.jpg "En el puerto de Ballintoy se localizan las Islas del Hierro.")
 
 ## 6\. Puerto de Ballintoy (condado de Antrim)
 
@@ -90,7 +90,7 @@ fácil conseguir la frialdad que transmiten las **Islas del Hierro**. A unos 20
 kilómetros, en la bahía de Murlough, se rodó la escena en la que Theon cabalga a caballo 
 con su hermana Yara. 
 
-![Dark Hedges es uno de los escenarios más reconocibles en Irlanda del Norte.](https://fotos.etheriamagazine.com/2018/05/7-Dark-Hedges-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "Dark Hedges es uno de los escenarios más reconocibles en Irlanda del Norte.")
+![Dark Hedges es uno de los escenarios más reconocibles en Irlanda del Norte.](https://fotos.etheriamagazine.com/2018/05/7-Dark-Hedges-Juego-de-Tronos-Irlanda-Norte.jpg "Dark Hedges es uno de los escenarios más reconocibles en Irlanda del Norte.")
 
 ## 7\. Dark Hedges (condado de Antrim)
 
@@ -103,7 +103,7 @@ Programa tu GPS con la población de Armoy como referencia ya que no es tan senc
 encontrar el lugar. La atmósfera es mágica en cualquier momento, pero al atardecer, 
 cuando la luz es más cálida, resulta inolvidable. 
 
-![Escenario de Juego de Tronos: Playa de Portstewart](https://fotos.etheriamagazine.com/2018/05/8-Portstewart-Strand-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "Jaime Lannister y Bronn acuden a la playa de Portstewart para ir a los Jardines del Agua.")
+![Escenario de Juego de Tronos: Playa de Portstewart](https://fotos.etheriamagazine.com/2018/05/8-Portstewart-Strand-Juego-de-Tronos-Irlanda-Norte.jpg "Jaime Lannister y Bronn acuden a la playa de Portstewart para ir a los Jardines del Agua.")
 
 ## 8\. Playa Portstewart (condado de Derry-Londonderry)
 
@@ -113,7 +113,7 @@ contra algunos Dornish y, también, porque sus kilómetros de arena invitan al p
 el tiempo lo permite, llévate un picnic y disfruta de la brisa del mar. En verano suele 
 estar concurrida pero el resto del año apenas encontrarás visitantes. 
 
-![Templo de Mussenden, viaje al escenario de Juego de Tronos](https://fotos.etheriamagazine.com/2018/05/9-Temple-09-1024x683.jpg "Templo de Mussenden (O.T. Irlanda)")
+![Templo de Mussenden, viaje al escenario de Juego de Tronos](https://fotos.etheriamagazine.com/2018/05/9-Temple-09.jpg "Templo de Mussenden (O.T. Irlanda)")
 
 ## 9\. Downhill Strand y el templo de Mussenden
 
@@ -126,7 +126,7 @@ Es un buen lugar para tomar un respiro, ya que puedes comer en algún restaurant
 a la playa. No olvides los horarios de comida británicos si no quieres ayunar de forma 
 involuntaria. 
 
-![Calzada del Gigante, visita obligatoria en Irlanda del Norte](https://fotos.etheriamagazine.com/2018/05/10-Calzada-del-Gigante-Juego-de-Tronos-Irlanda-Norte-1024x661.jpg "Los 40.000 pilares octogonales de origen volcánico de la Calzada del Gigante justifican su visita.")
+![Calzada del Gigante, visita obligatoria en Irlanda del Norte](https://fotos.etheriamagazine.com/2018/05/10-Calzada-del-Gigante-Juego-de-Tronos-Irlanda-Norte.jpg "Los 40.000 pilares octogonales de origen volcánico de la Calzada del Gigante justifican su visita.")
 
 ## 10\. Calzada del Gigante
 

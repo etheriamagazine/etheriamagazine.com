@@ -151,7 +151,7 @@ recuerdos imborrables. Y, si quieres disfrutar de la riqueza humana de la regió
 atraviesa el río en la barca tradicional de madera o mokoro y camina hasta un pueblo 
 tribal de la orilla namibia del río. 
 
-![Lodge en Botsuana.](https://fotos.etheriamagazine.com/2018/11/lodges-Bostsuana-viaje-mujeres-africa-1024x683.jpg "Lodge en Botsuana.")
+![Lodge en Botsuana.](https://fotos.etheriamagazine.com/2018/11/lodges-Bostsuana-viaje-mujeres-africa.jpg "Lodge en Botsuana.")
 
 ## 10\. Relax en un lodge
 
@@ -166,7 +166,7 @@ acampar por nuestra cuenta. Destacan por su compromiso en favor de la conservaci
 parque y, por la noche, ofrecen una excitante vivencia con los sonidos de la fauna 
 africana a nuestro alrededor. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Kenia, 10 experiencias que nunca 
 olvidarás](https://etheriamagazine.com/2018/10/25/10-flechazos-para-viajar-a-kenia/) 

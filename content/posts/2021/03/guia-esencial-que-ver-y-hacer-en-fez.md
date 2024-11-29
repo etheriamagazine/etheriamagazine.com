@@ -95,7 +95,7 @@ Otras madrazas que se pueden visitar son la de **Bou Inania**, de una gran belle
 sus paredes de estuco y madera tallada, y la de **es-Seffarin**, que fue la primera 
 escuela coránica fundada por los mariníes en Marruecos. 
 
-![Madrasa el Attarin en fez](https://fotos.etheriamagazine.com/2021/03/fez-madrasa-el-Attarin-683x1024.jpg "Madraza o Medersa el-Attarin. © Etheria Mag.")
+![Madrasa el Attarin en fez](https://fotos.etheriamagazine.com/2021/03/fez-madrasa-el-Attarin.jpg "Madraza o Medersa el-Attarin. © Etheria Mag.")
 
 ### Zoco de Fez y barrio de curtidores
 
@@ -222,15 +222,15 @@ Dos días en Fez te brindan el tiempo justo para disfrutar del ambiente de la ci
 realizar algunas visitas a mezquitas o palacios e ir de compras a los zocos. Si te 
 quedas un día más también podrías hacer una excursión a los alrededores. 
 
-##### ?Excursiones baratas en y desde Fez...
+##### 📍Excursiones baratas en y desde Fez...
 
-? [Free Tour en Fez](https://www.civitatis.com/es/fez/free-tour-fez/?aid=10211). ? [Visita 
+📌 [Free Tour en Fez](https://www.civitatis.com/es/fez/free-tour-fez/?aid=10211). 📌 [Visita 
 guiada por la medina de 
-Fez](https://www.civitatis.com/es/fez/visita-guiada-fez/?aid=10211). Grupo: 65 euros. ? [Tour 
+Fez](https://www.civitatis.com/es/fez/visita-guiada-fez/?aid=10211). Grupo: 65 euros. 📌 [Tour 
 gastronómico en Fez](https://www.civitatis.com/es/fez/tour-gastronomico-fez/?aid=10211). 
-? [Excursión privada a Volúbilis, Mulay Idrís y 
+📌 [Excursión privada a Volúbilis, Mulay Idrís y 
 Meknes](https://www.civitatis.com/es/fez/excursion-volubilis-mulay-idris-meknes/?aid=10211). 
-Grupo (hasta 4 personas): 100 € ? [Traslados desde el aeropuerto a 
+Grupo (hasta 4 personas): 100 € 📌 [Traslados desde el aeropuerto a 
 Fez](https://www.civitatis.com/es/fez/traslados/?aid=10211): turismo con 4 plazas, 25 
 euros. 
 

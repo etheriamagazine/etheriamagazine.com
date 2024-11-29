@@ -90,7 +90,7 @@ forma física. © Fotografías cedidas por Anantara Hotels, Resorts & Spas [Anan
 York Palace](https://www.anantara.com/es/new-york-palace-budapest) Erzsébet krt. 9-11, 
 Budapest. Tel. +34 911224186 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Budapest con amigas, imprescindibles para un fin de 
 semana](https://etheriamagazine.com/2019/10/25/que-ver-viaje-amigas-budapest-en-3-dias/) 

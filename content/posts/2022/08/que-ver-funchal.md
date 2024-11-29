@@ -69,7 +69,7 @@ el que nosotros conocemos por ese nombre); un animal que vive a 1.000 metros de
 profundidad atlántica y que es muy preciado en los fogones madeirenses. Hay que 
 probarlo. 
 
-![Mercado dos Lavradores con pescadero y floristera.](https://fotos.etheriamagazine.com/2022/08/Funchal-Mercado-dos-Lavradores-761x1024.jpg "Mercado dos Lavradores. © Pedro Grifol")
+![Mercado dos Lavradores con pescadero y floristera.](https://fotos.etheriamagazine.com/2022/08/Funchal-Mercado-dos-Lavradores.jpg "Mercado dos Lavradores. © Pedro Grifol")
 
 ### 3\. Subir al Monte
 
@@ -238,8 +238,8 @@ quieres hacer una excursión a Porto Santo es recomendable alargar la estancia a
 
 ### Más Madeira en Etheria Magazine
 
-? [Madeira con amigas, 10 experiencias para una escapada 
+📍 [Madeira con amigas, 10 experiencias para una escapada 
 corta](https://etheriamagazine.com/2019/04/19/viajar-con-amigas-que-ver-madeira/). 
 
-?[Porto Santo, la isla 
+📍[Porto Santo, la isla 
 tranquila](https://etheriamagazine.com/2019/02/05/que-ver-porto-santo-madeira/).

@@ -11,7 +11,7 @@ authors:
 
 Llega la temporada blanca y, más allá de las excelentes estaciones nacionales, os queremos invitar a soñar con algunos de los enclaves internacionales más espectaculares para realizar el deporte rey del invierno: el esquí. Pistas interminables, paisajes de cuento, atardeceres mágicos y unas vistas para recordar siempre. Elevamos las vacaciones de invierno al máximo nivel para hacer de ellas el viaje más especial del año.
 
-\[caption id="attachment\_5847" align="aligncenter" width="1024"\]![mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Narvikfjellet-mujeres-esqui-1024x576.jpg "Estación de Narvikfjellet, en el Círculo Polar Ártico (Noruega).") Estación de Narvikfjellet, en el Círculo Polar Ártico (Noruega).\[/caption\]
+\[caption id="attachment\_5847" align="aligncenter" width="1024"\]![mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Narvikfjellet-mujeres-esqui.jpg "Estación de Narvikfjellet, en el Círculo Polar Ártico (Noruega).") Estación de Narvikfjellet, en el Círculo Polar Ártico (Noruega).\[/caption\]
 
 ##### Vail, Colorado (Estados Unidos)
 
@@ -19,7 +19,7 @@ Coronada como la más grande de Estados Unidos, esta estación de esquí situada
 
 **• Vuelos.** Para llegar hasta Vail hay que volar al aeropuerto regional del Condado de Eagle (EGE) o al aeropuerto internacional de Denver (DEN). Las dos opciones cuentan con servicio de vuelos directos desde numerosas ciudades nacionales e internacionales. **• Más información** en [estación de Vail.](https://www.vail.com/)
 
-\[caption id="attachment\_5834" align="aligncenter" width="1024"\]![mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Vail-mujeres-esqui-1024x669.jpg "Estación de Vail, en Colorado (USA).") Estación de Vail, en Colorado (USA).\[/caption\]
+\[caption id="attachment\_5834" align="aligncenter" width="1024"\]![mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Vail-mujeres-esqui.jpg "Estación de Vail, en Colorado (USA).") Estación de Vail, en Colorado (USA).\[/caption\]
 
 ##### Aspen Snowmass, Colorado (Estados Unidos)
 
@@ -27,7 +27,7 @@ Cuatro estaciones en una conforman este fabuloso complejo de esquí ubicado en e
 
 **• Vuelos.** Para llegar hasta Aspen es necesario volar al aeropuerto de Denver (DEN) y ahí alquilar un coche para recorrer unos 168 kilómetros hasta la estación. El trayecto es una auténtica maravilla, por lo que merece la pena realizarlo con tiempo para ir disfrutando de alguna parada. **• Más información** en [estación de Aspen.](https://www.aspensnowmass.com/)
 
-\[caption id="attachment\_5836" align="aligncenter" width="1024"\]![mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Aspen-Snowmass-mujeres-esqui-1024x683.jpg "Estación de Aspen, en Colorado (Estados Unidos).") Estación de Aspen, en Colorado (Estados Unidos).\[/caption\]
+\[caption id="attachment\_5836" align="aligncenter" width="1024"\]![mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Aspen-Snowmass-mujeres-esqui.jpg "Estación de Aspen, en Colorado (Estados Unidos).") Estación de Aspen, en Colorado (Estados Unidos).\[/caption\]
 
 ##### Whistler Blackcomb, Columbia Británica (Canadá)
 
@@ -35,7 +35,7 @@ Entre los robustos macizos de Whistler y Blackcomb se encuentra esta estación d
 
 **• Vuelos**. Para llegar hasta Whistler Blackcomb se debe volar hasta el aeropuerto internacional de Vancouver (YVR). Desde ahí, son necesarias dos horas de coche por la Carretera 99, también conocida como la Carretera del Mar al Cielo, que nos llevará hasta la misma estación. **• Más información** en [estación de Whistler](https://www.whistlerblackcomb.com/).
 
-\[caption id="attachment\_5837" align="aligncenter" width="1024"\]![mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Whistler-mujeres-esqui-3-1024x683.jpg "Estación de Whistler y Blackcomb, en Columbia Británica (Canadá).") Estación de Whistler y Blackcomb, en Columbia Británica (Canadá).\[/caption\]
+\[caption id="attachment\_5837" align="aligncenter" width="1024"\]![mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Whistler-mujeres-esqui-3.jpg "Estación de Whistler y Blackcomb, en Columbia Británica (Canadá).") Estación de Whistler y Blackcomb, en Columbia Británica (Canadá).\[/caption\]
 
 ##### Chamonix (Francia)
 
@@ -43,7 +43,7 @@ Si hay algo que hace especial a Chamonix es **la impactante presencia del Mont B
 
 **• Vuelos.** Para llegar hasta Chamonix hay que volar al aeropuerto internacional de Ginebra (GVA), situado a unos 100 kilómetros por autopista de la estación, trayecto que podemos realizar tanto en coche como en ferrocarril. **• Más información** en [estación de Chamonix](https://www.chamonix.com/).
 
-\[caption id="attachment\_5838" align="aligncenter" width="1024"\]![esquiar en Chamonix, mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Chamonix-mujeres-esqui-1024x577.jpg "Estación de Chamonix (Francia).") Estación de Chamonix (Francia).\[/caption\]
+\[caption id="attachment\_5838" align="aligncenter" width="1024"\]![esquiar en Chamonix, mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Chamonix-mujeres-esqui.jpg "Estación de Chamonix (Francia).") Estación de Chamonix (Francia).\[/caption\]
 
 ##### Val d’Isère (Francia)
 
@@ -51,7 +51,7 @@ Está considerada como una de las estaciones reinas de esquí y, junto a su veci
 
 **• Vuelos.** Para llegar hasta Val d’Isère se puede volar hasta el aeropuerto internacional de Ginebra (GVA), que se encuentra a unos 233 kilómetros. Otra opción es hacerlo en tren hasta la estación de Bourg-St-Maurice, a unos 30 kilómetros. Con cualquiera de las dos opciones hay disponibilidad de coger un _shuttle_ directo hasta la estación. **• Más información** en [estación Val d'Isère](https://www.valdisere.com/).
 
-\[caption id="attachment\_5839" align="aligncenter" width="1024"\]![esquiar en Val disere, mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Val-dIsere-mujeres-esqui-4-1024x683.jpg "Estación de Val d’Isère (Francia).") Estación de Val d’Isère (Francia).\[/caption\]
+\[caption id="attachment\_5839" align="aligncenter" width="1024"\]![esquiar en Val disere, mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Val-dIsere-mujeres-esqui-4.jpg "Estación de Val d’Isère (Francia).") Estación de Val d’Isère (Francia).\[/caption\]
 
 ##### Zermatt - Matterhorn (Suiza)
 
@@ -59,7 +59,7 @@ Convertido en un destino de ensueño tanto para amantes del esquí como de la na
 
 **• Vuelos.** Desde los aeropuertos internacionales de Ginebra (GVA) y Zurich (ZRH) se puede llegar en tren hasta Zermatt con los ferricarriles de la SBB, realizando un solo transbordo en Visp. La duración del viaje es de unas tres horas y media. **• Más información** en [estación de Zermatt](https://www.zermatt.ch/es/Zermatt-Matterhorn).
 
-\[caption id="attachment\_5840" align="aligncenter" width="1024"\]![esquiar en zermatt, mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Zermatt-Matterhorn-mujeres-esqui-2-1024x683.jpg "Estación de Zermatt – Matterhorn (Suiza).") Estación de Zermatt – Matterhorn (Suiza).\[/caption\]
+\[caption id="attachment\_5840" align="aligncenter" width="1024"\]![esquiar en zermatt, mejores estaciones esqui del mundo, viajes de esqui para mujeres](https://fotos.etheriamagazine.com/2018/12/Zermatt-Matterhorn-mujeres-esqui-2.jpg "Estación de Zermatt – Matterhorn (Suiza).") Estación de Zermatt – Matterhorn (Suiza).\[/caption\]
 
 ##### Narvikfjellet (Noruega)
 

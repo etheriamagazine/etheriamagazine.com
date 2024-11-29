@@ -181,7 +181,7 @@ la casa es sede del Ayuntamiento. Se trata de un edificio muy elegante, con escu
 esquinados y balcones decorados con motivos barrocos, con un interior espectacular de 
 azulejería sevillana y talaverana y columnas romanas en mármol. 
 
-![Teatro Carolina Coronado, en Almendralejo.](https://fotos.etheriamagazine.com/2022/05/almendralejo-Teatro-Carolina-827x1024.jpg "Teatro Carolina Coronado, en Almendralejo.")
+![Teatro Carolina Coronado, en Almendralejo.](https://fotos.etheriamagazine.com/2022/05/almendralejo-Teatro-Carolina.jpg "Teatro Carolina Coronado, en Almendralejo.")
 
 ##### Teatro Carolina Coronado
 
@@ -257,7 +257,7 @@ el siglo XV, la botica de la ciudad para convertirse, tiempo después, en despac
 aguardiente. No te pierdas tampoco la **Puerta de Jerez**, un paso con arcos con 
 hermosos blasones heráldicos e imágenes de los santos patronos del gremio de zapateros. 
 
-![Convento de Santa Clara, en Zafra.](https://fotos.etheriamagazine.com/2022/05/zafra-Convento-de-Santa-Clara-799x1024.jpg "Convento de Santa Clara, en Zafra.")
+![Convento de Santa Clara, en Zafra.](https://fotos.etheriamagazine.com/2022/05/zafra-Convento-de-Santa-Clara.jpg "Convento de Santa Clara, en Zafra.")
 
 ##### Convento de Santa Clara
 

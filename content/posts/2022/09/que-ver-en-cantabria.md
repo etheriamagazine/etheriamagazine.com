@@ -64,7 +64,7 @@ tentadora invitación hasta avistar el **cabo Mayor** a mar abierto.
 
 ![Palacio de la Magdalena y faro al fondo, en la bahía de Santander.](https://fotos.etheriamagazine.com/2022/09/santander-palacio-de-la-Magdalena.jpg "Palacio de la Magdalena y faro al fondo, en la bahía de Santander.")
 
-? Lee este artículo [si quieres conocer más planes en 
+📌 Lee este artículo [si quieres conocer más planes en 
 Santander](https://etheriamagazine.com/2020/09/23/que-ver-y-mejores-restaurantes-de-santander/). 
 
 ## Los pueblos más bonitos de Cantabria (costa y montaña)
@@ -107,10 +107,10 @@ un Bien de Interés Cultural. De tradición es el buen hacer de sus habitantes c
 madera, sobre todo para elaborar las típicas **_albarcas_** o zuecos de madera de una 
 sola pieza que son decorados con motivos característicos del pueblo. 
 
-? La vista más espectacular del pueblo, en la misma carretera CA-182 por la que se llega 
-a él, es desde el **mirador de la Asomada del Rivero**. Al final del verano coincidirás 
-con la **Pasá de Carmona**, desfile de ganado local, en su mayoría de raza tudanca, que 
-regresa de los puertos de montaña. 
+📌 La vista más espectacular del pueblo, en la misma carretera CA-182 por la que se 
+llega a él, es desde el **mirador de la Asomada del Rivero**. Al final del verano 
+coincidirás con la **Pasá de Carmona**, desfile de ganado local, en su mayoría de raza 
+tudanca, que regresa de los puertos de montaña. 
 
 ![Panorámica de Carmona, uno de los pueblos más bonitos de Cantabria.](https://fotos.etheriamagazine.com/2022/09/Cantabria-Carmona.jpg "Panorámica de Carmona, uno de los pueblos más bonitos de Cantabria.")
 
@@ -123,7 +123,7 @@ fue declarado conjunto histórico-artístico. Entre sus casas montañesas todav�
 entrar al bar del pueblo o a la casa del artesano y finalmente sucumbir al aroma del 
 **cocido montañés**, el plato cántabro más típico. 
 
-? Aprovecha que estás rodeada de **los mejores bosques de Cantabria** para admirarlos. 
+📌 Aprovecha que estás rodeada de **los mejores bosques de Cantabria** para admirarlos. 
 Ascendiendo por la carretera CA-280 llegarás al **mirador de la Cardosa** y su 
 panorámica verde de impresión. Incluso podrás escuchar la berrea en otoño. 
 
@@ -139,7 +139,7 @@ por la que deambular admirando su arquitectura, pues está colmada de casonas y 
 gracias a los indianos y notables hidalgos oriundos. Cumpliendo la tradición, el paseo 
 acaba con el famoso **chocolate con churros** local. 
 
-? El periodo más opulento lo vivió la villa gracias a la **Real Fábrica de Cañones**, 
+📌 El periodo más opulento lo vivió la villa gracias a la **Real Fábrica de Cañones**, 
 primera industria española de altos hornos. Situada en el **barrio de la Cavada,** solo 
 conserva su portada conocida como el **Arco de Carlos III**. Te acordarás de ella si 
 visitas los [lugares imprescindibles de 
@@ -158,7 +158,7 @@ años, hombres paleolíticos que pintaron la cercana **cueva de Altamira**. Sus
 representaciones rupestres son de las más valiosas del mundo por sus magníficos bisontes 
 y ciervos policromados. 
 
-? **Visita gratis la cueva de Altamira sábado por la tarde o domingos**. Resto de la 
+📌 **Visita gratis la cueva de Altamira sábado por la tarde o domingos**. Resto de la 
 semana (3 €). Lunes cerrado. 
 
 ![Santillana del Mar es uno de los pueblos más bonitos de Cantabria](https://fotos.etheriamagazine.com/2022/09/Santillana-del-Mar.jpg "Santillana del Mar, en Cantabria.")
@@ -180,7 +180,7 @@ viñedo) o **Tama** donde se halla el centro de interpretación del parque. Un a
 **Potes**, la capital lebaniega, para tomar fuerzas con los **_quesucos_** lebaniegos, 
 orujo o un buen **cocido lebaniego** antes de ascender a la montaña. 
 
-? El [teleférico de Fuente 
+📌 El [teleférico de Fuente 
 Dé](https://cantur.com/instalaciones/5-teleferico-de-fuente-de) da la excepcional 
 oportunidad de situarnos a 1.823 metros de altitud en los Picos de Europa. Desde su 
 estación del **mirador del Cable** podemos iniciar diversas rutas montañeras como los 
@@ -202,12 +202,12 @@ visitas recomendadas en el artículo: [Valle de Valdeolea, 9 rituales para descu
 esencia de 
 Cantabria](https://etheriamagazine.com/2021/06/04/que-ver-en-valle-de-valdeolea-cantabria/)). 
 
-? Otro gran secreto de Cantabria es **Valderredible**, valle de famosas patatas e 
+📌 Otro gran secreto de Cantabria es **Valderredible**, valle de famosas patatas e 
 increíbles ermitas rupestres (un lugar del que también te hemos hablado anteriormente: 
 "[10 poderosas razones para visitar 
 Valderredible](https://etheriamagazine.com/2019/08/26/que-ver-valderredible-cantabria/)"). 
 
-? Al **visitar Julióbriga** entra en el **museo Domus**, una reconstrucción de la 
+📌 Al **visitar Julióbriga** entra en el **museo Domus**, una reconstrucción de la 
 vivienda romana de una familia de clase media-alta conocida como Casa de los Morillos. 
 Además, goza de una panorámica magnífica del **embalse del Ebro**. 
 
@@ -237,7 +237,7 @@ salvaje que acabará atrapando a los mayores. Gracias a su geología kárstica �
 antigua mina de hierro romana– se crearon recintos seminaturales de roca rojiza donde se 
 hallan animales de todo el mundo. 
 
-?Precio desde 20 € adultos y 10 € niños. 
+📍Precio desde 20 € adultos y 10 € niños. 
 
 ![Jirafas en el parque de la naturaleza de Cabárceno](https://fotos.etheriamagazine.com/2022/09/jirafas-cabarceno.jpg "Parque de la naturaleza de Cabárceno.")
 
@@ -264,7 +264,7 @@ la amplia ensenada a la que se asoma la ciudad de Santander. Es una **playa frec
 por surfistas** y por aquellos que, tras un baño de mar, buscan su gastronomía marinera 
 protagonizada por las **populares sardinas**. 
 
-? Deja el coche y haz como los santanderinos tomando la famosa **_pedreñera_** o [barco 
+📌 Deja el coche y haz como los santanderinos tomando la famosa **_pedreñera_** o [barco 
 de línea regular para ir a la playa de 
 Somo](https://www.losreginas.com/paseos-en-barco-por-la-bahia-de-santander-con-escala-en-pedrena-y-somo/horarios-y-tarifas-viaje-pedrena-somo/). 
 Precio ida, 3.10 €; ida y vuelta, 5.50 €. 

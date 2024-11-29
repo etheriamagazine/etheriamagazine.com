@@ -94,7 +94,7 @@ estanque, además de sorprendentes columnas, pilares y pórticos con arcadas de 
 > frutales y el de las flores se confunden y crean la atmósfera propicia para disfrutar de 
 > unas estupendas vistas sobre el Albayzín y La Alhambra. 
 
-![Estanque del palacio Dar Al-Horra (Granada).](https://fotos.etheriamagazine.com/2018/10/granada-Dar-Al-Horra-1024x768.jpg "Estanque del palacio Dar Al-Horra (Granada).")
+![Estanque del palacio Dar Al-Horra (Granada).](https://fotos.etheriamagazine.com/2018/10/granada-Dar-Al-Horra.jpg "Estanque del palacio Dar Al-Horra (Granada).")
 
 ### Palacio de Dar al-Horra
 
@@ -113,7 +113,7 @@ trasladado y reconstruido. Al final del sendero de entrada se levanta el edifici
 una bonita portada manierista y distribución en torno a un patio. Estancias como el 
 Salón de Embajadores y la Sala del Balcón rezuman lujo y elegancia. 
 
-![Cúpula del Bañuelo (Granada).](https://fotos.etheriamagazine.com/2018/10/el-banuelo-granada-1024x768.jpg "Cúpula del Bañuelo (Granada).")
+![Cúpula del Bañuelo (Granada).](https://fotos.etheriamagazine.com/2018/10/el-banuelo-granada.jpg "Cúpula del Bañuelo (Granada).")
 
 ### Aljibe El Bañuelo
 
@@ -127,7 +127,7 @@ _tepydarium_ y _caldarium_), con bóvedas de cañón agujereadas con tragaluces 
 estrella, permiten fantasear durante un momento y retrotraerse diez siglos atrás en sólo 
 unos segundos. 
 
-![Fuente de la Amapola (Granada).](https://fotos.etheriamagazine.com/2018/10/fuente-amapola-albaicin-granada-1024x768.jpg "Fuente de la Amapola (Granada).")
+![Fuente de la Amapola (Granada).](https://fotos.etheriamagazine.com/2018/10/fuente-amapola-albaicin-granada.jpg "Fuente de la Amapola (Granada).")
 
 Si los baños públicos eran un importante centro social, **los aljibes** realizaban una 
 función pública imprescindible ya que abastecían a la población de agua potable. Estos 
@@ -152,11 +152,11 @@ ofrecen algunas de ellas, como la **iglesia mudéjar de San Nicolás**, para sub
 campanario. Con las campanas como únicas compañeras, se disfruta durante unos instantes 
 del silencio y del aire que penetra por los ventanales. 
 
-? Toma nota de la **iglesia de San Miguel Bajo** –con buenas vistas de La Alhambra y un 
+📌 Toma nota de la **iglesia de San Miguel Bajo** –con buenas vistas de La Alhambra y un 
 aljibe del siglo XIII– y **la de San Salvador** –con una vinculación muy directa con los 
 moriscos–. 
 
-![Iglesia de San Nicolás (Granada).](https://fotos.etheriamagazine.com/2018/10/iglesia-san-nicolas-granada-1024x768.jpg "Iglesia de San Nicolás (Granada).")
+![Iglesia de San Nicolás (Granada).](https://fotos.etheriamagazine.com/2018/10/iglesia-san-nicolas-granada.jpg "Iglesia de San Nicolás (Granada).")
 
 ### Monasterio de Santa Isabel la Real
 
@@ -185,7 +185,7 @@ debe contemplar, al menos, los Palacios Nazaríes: el palacio de Mexuar, el de C
 el de los Leones, considerado la cumbre del arte nazarí, donde se encuentra la fuente de 
 los leones. 
 
-![Jardines del Generalife, contiguos a la Alhambra.](https://fotos.etheriamagazine.com/2018/09/Granada-Generalife-1024x688.jpg "Jardines del Generalife, contiguos a la Alhambra.")
+![Jardines del Generalife, contiguos a la Alhambra.](https://fotos.etheriamagazine.com/2018/09/Granada-Generalife.jpg "Jardines del Generalife, contiguos a la Alhambra.")
 
 Visitar La Alhambra va más allá de una simple aproximación cultural, representa una 
 auténtica experiencia para los sentidos donde confluye el murmullo de las fuentes en los 
@@ -193,7 +193,7 @@ jardines, los juegos de luces y sombras y la prolífica ornamentación árabe. C
 suprema belleza y delicadeza del arte y con una imagen impactante de calles retorcidas y 
 misteriosas en el Albayzín, decimos adiós a Granada. 
 
-?**Imprescindible:** [10 consejos para triunfar en tu visita a la 
+📌**Imprescindible:** [10 consejos para triunfar en tu visita a la 
 Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/) 
 
 ![mirador sacromonte, vistas de la alhambra, atardecer alhambra, atardecer granada](https://fotos.etheriamagazine.com/2020/05/atardecer-sacromonte-granada.jpg "Mirador del Sacromonte, menos masificado que el de San Nicolás. © Victoriano Izquierdo")
@@ -213,5 +213,5 @@ ni los guiris, ni los puestos, ni los artistas improvisados logran restar magia 
 panorámica. Existen otros menos conocidos para disfrutar del ocaso en soledad como el 
 mirador de **San Cristóbal** o el del **Sacromonte**. 
 
-?Para comer bien en Granada, no te pierdas: [Granada, el privilegio de la buena 
+📍Para comer bien en Granada, no te pierdas: [Granada, el privilegio de la buena 
 mesa](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/).

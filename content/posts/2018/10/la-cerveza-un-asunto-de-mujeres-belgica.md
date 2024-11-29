@@ -16,7 +16,7 @@ pan fermentaba en la quietud del agua, y que si se llevaba a ebullición se conv
 un líquido amarillento, fácil de beber y que daba alegría. Descubre por qué la cerveza 
 es un asunto de mujeres en Bélgica. 
 
-![mujer besando un vaso de cerveza](https://fotos.etheriamagazine.com/2018/09/Cerveza-te-quiero-1024x676.jpg "La cerveza es una bebida de mujeres.")
+![mujer besando un vaso de cerveza](https://fotos.etheriamagazine.com/2018/09/Cerveza-te-quiero.jpg "La cerveza es una bebida de mujeres.")
 
 Existen referencias históricas de que en la antigua Mesopotamia ya se producía cerveza, 
 ya que se han encontrado recetas para la elaboración de tan excelso bebible espumoso en 
@@ -35,7 +35,7 @@ cuenta la apasionada zitóloga –los egipcios llamaban _zythum_ (vino de cebada
 cerveza–, sommelier y ‘nariz de oro’ Sofie Vanrafelghem en su libro '_Cerveza en manos 
 de mujeres_'. 
 
-![Vistas de Malinas desde la torre de San Rumoldo.](https://fotos.etheriamagazine.com/2018/09/Malinas-desde-la-torre-de-San-Rumoldo-1024x640.jpg "Vistas de Malinas desde la torre de San Rumoldo.")
+![Vistas de Malinas desde la torre de San Rumoldo.](https://fotos.etheriamagazine.com/2018/09/Malinas-desde-la-torre-de-San-Rumoldo.jpg "Vistas de Malinas desde la torre de San Rumoldo.")
 
 ¿Y qué relación tiene la antigua Mesopotamia con Malinas? Pues que si **las antiguas 
 féminas babilónicas fueron las pioneras en fabricar tan sobresaliente líquido**, 
@@ -63,7 +63,7 @@ mucho, pero que poco a poco fue aceptándose hasta convertirse en la bebida de m
 que, gracias a un monarca de 15 años tenemos cañitas de cerveza en España (¡gracias 
 rey!). 
 
-![mujer con cerveza en Malinas](https://fotos.etheriamagazine.com/2018/09/Cerveceria-De-Ryck-1024x625.jpg "Cervecería De Ryck (Herzele, cerca de Gante).")
+![mujer con cerveza en Malinas](https://fotos.etheriamagazine.com/2018/09/Cerveceria-De-Ryck.jpg "Cervecería De Ryck (Herzele, cerca de Gante).")
 
 ## Un paseo guiado
 
@@ -80,7 +80,7 @@ disfrutar de la vista y la puesta de sol junto a la última tapa-bapa. Tened en 
 que ideas preconcebidas como que la cerveza engorda, desaparecerán durante la 
 degustación. 
 
-![Annick De Spleter con una cerveza](https://fotos.etheriamagazine.com/2018/09/Annick-De-Spleter-de-Cerveza-Gruut-674x1024.jpg "Annick De Spleter, creadora de la cerveza Gruut (sin lúpulo).")
+![Annick De Spleter con una cerveza](https://fotos.etheriamagazine.com/2018/09/Annick-De-Spleter-de-Cerveza-Gruut.jpg "Annick De Spleter, creadora de la cerveza Gruut (sin lúpulo).")
 
 ## Cerveza en Gante y Lovaina
 
@@ -93,7 +93,7 @@ También cerca de **Gante** se encuentra la pequeña localidad de **Herzele** y 
 De Ryck, cervecería gobernada por mujeres desde hace 15 años y que ya tiene sucesión 
 femenina asegurada. 
 
-![mujeres tomando cerveza](https://fotos.etheriamagazine.com/2018/09/Cerveceria-De-Ryck-belgica-1024x631.jpg "Cervecería De Ryck, gobernada por mujeres desde hace 15 años.")
+![mujeres tomando cerveza](https://fotos.etheriamagazine.com/2018/09/Cerveceria-De-Ryck-belgica.jpg "Cervecería De Ryck, gobernada por mujeres desde hace 15 años.")
 
 A 25 km de Malinas se encuentra **Lovaina**, una ciudad que presume de tener la barra de 
 bar más larga del mundo, aunque en realidad es una plaza, Oude Markt. Es como un gran 
@@ -109,7 +109,7 @@ Turismo de Malinas: [Visit Mechelen](https://visit.mechelen.be/es). Contacto par
 guiado: Hallestraat 6, Malinas Tel. +32 70 22 00 08 (visit@mechelen.be) [Turismo de 
 Flandes](http://www.visitflanders.com/es/). 
 
-**?** **También te puede interesar:** 
+**📌** **También te puede interesar:** 
 
 [8 planes que no puedes perderte en Bruselas y 
 Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/) 

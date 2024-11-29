@@ -12,7 +12,7 @@ authors:
 
 El abulense Valle del Tiétar goza de pueblos mágicos y de un clima mediterráneo perfecto para escapar del frío y del ruido. Si estás buscando un buen lugar donde desconectar o hacer una escapada con tus amigas, lo has encontrado. Prepárate para recorrer Sotillo de la Adrada, La Adrada y Piedralaves.
 
-![la adrada, valle del tietar, avila, excursiones](https://fotos.etheriamagazine.com/2020/08/calles-la-adrada-900x675.jpg "Casco histórico de La Adrada, al fondo una vivienda de 1783. © Etheria Magazine")
+![la adrada, valle del tietar, avila, excursiones](https://fotos.etheriamagazine.com/2020/08/calles-la-adrada.jpg "Casco histórico de La Adrada, al fondo una vivienda de 1783. © Etheria Magazine")
 
 El [Valle del Tiétar](https://www.valledeltietar.net/), a unos 80 kilómetros de Madrid 
 –y muy cercano a Extremadura y a Toledo– es uno de esos lugares a los que merece la pena 
@@ -28,7 +28,7 @@ Son muchos los pueblos que conforman este valle: Candeleda, Arenas de San Pedro,
 Bernardo, Casavieja… Pero en este caso nos vamos a centrar en los tres que se encuentran 
 más cerca de Madrid: Sotillo de la Adrada, La Adrada y, en particular, Piedralaves. 
 
-![sotillo, iglesia, valle tietar, excursion avila](https://fotos.etheriamagazine.com/2020/08/iglesia-sotillo-valle-tietar-900x567.jpg "Bonitas vidrieras de la iglesia parroquial de la Santísima Trinidad (Sotillo). © Etheria Magazine")
+![sotillo, iglesia, valle tietar, excursion avila](https://fotos.etheriamagazine.com/2020/08/iglesia-sotillo-valle-tietar.jpg "Bonitas vidrieras de la iglesia parroquial de la Santísima Trinidad (Sotillo). © Etheria Magazine")
 
 ### Sotillo de la Adrada
 
@@ -40,7 +40,7 @@ arquitectura religiosa de estos pueblos nos traslada fácilmente a otras épocas
 alrededores, las urbanizaciones no paran de crecer con casitas que tienen piscinas 
 perfectas para pasar unos días de descanso. 
 
-![castillo la adrada, valle del tietar, avila, viajar por espana](https://fotos.etheriamagazine.com/2020/08/castillo-adrada-900x675.jpg "Entrada del castillo de La Adrada. © Etheria Magazine")
+![castillo la adrada, valle del tietar, avila, viajar por espana](https://fotos.etheriamagazine.com/2020/08/castillo-adrada.jpg "Entrada del castillo de La Adrada. © Etheria Magazine")
 
 ### La Adrada
 
@@ -50,7 +50,7 @@ pequeña villa desde lo alto del cerro del Torrejón, por lo que es imposible pe
 aunque para eso haya que alejarse de la carretera principal. Como apunte importante, 
 perteneció a Álvaro de Luna. 
 
-![castillo la adrada, valle del tietar, rutas avila, viajar por espana](https://fotos.etheriamagazine.com/2020/08/valle-tietar-castillo-adrada-900x684.jpg "Interior del castillo de La Adrada. © Etheria Magazine")
+![castillo la adrada, valle del tietar, rutas avila, viajar por espana](https://fotos.etheriamagazine.com/2020/08/valle-tietar-castillo-adrada.jpg "Interior del castillo de La Adrada. © Etheria Magazine")
 
 Si nos perdemos por el centro siempre podemos disfrutar de la **iglesia de El Salvador** 
 y de la **ermita de la Virgen de la Yedra**, de la época del castillo. En el paseo no 
@@ -72,7 +72,7 @@ Piedralaves. Por eso esta zona es una buena escapada para chicas, porque si no q
 disfrutar del campo de manera literal, este lugar puede trasladarnos a esa vida de 
 pueblo de una manera muy personal. 
 
-![iglesia, piedralaves, rutas avila, valle tietar](https://fotos.etheriamagazine.com/2020/08/iglesia-san-antonio-piedralaves-900x648.jpg "Iglesia de San Antonio de Padua, en Piedralaves. © Etheria Magazine")
+![iglesia, piedralaves, rutas avila, valle tietar](https://fotos.etheriamagazine.com/2020/08/iglesia-san-antonio-piedralaves.jpg "Iglesia de San Antonio de Padua, en Piedralaves. © Etheria Magazine")
 
 El casco histórico es de los más cuidados del valle y puede ser la tercera parada. 
 Caminando por su trazado irregular y sus calles empedradas llegaremos a la **iglesia de 
@@ -83,7 +83,7 @@ capitaneada por la famosa Torre del Reloj. Sus calles también han sido escenari
 películas –Carmen Sevilla paseó por sus calles– y Camilo José Cela le dedicó unas líneas 
 en su libro _Judíos, Moros y Cristianos_. 
 
-![piedralaves, valle del tietar, avila](https://fotos.etheriamagazine.com/2020/08/cruz-enamorados-piedralaves-900x603.jpg "Cruz de los Enamorados y torre con reloj de Piedralaves. © Etheria Magazine")
+![piedralaves, valle del tietar, avila](https://fotos.etheriamagazine.com/2020/08/cruz-enamorados-piedralaves.jpg "Cruz de los Enamorados y torre con reloj de Piedralaves. © Etheria Magazine")
 
 Pasear por este pueblo abulense es una delicia: encontraremos casitas con grandes vallas 
 de madera de roble y granito, y multitud de geranios en las mejores, y en el resto, ropa 
@@ -116,7 +116,7 @@ la zona. Si se puede, mejor elegir una de las mesitas de la terraza cercanas al 
 Sentado con tu refrigerio tienes unas vistas que te permiten observar la arquitectura de 
 este pueblo. 
 
-![la bodeguilla, piedralaves, valle del tietar, ruta avila](https://fotos.etheriamagazine.com/2020/08/la-bodeguilla-piedralaves-900x488.jpg "La Bodeguilla y algunos de sus platos estrella. © Etheria Magazine")
+![la bodeguilla, piedralaves, valle del tietar, ruta avila](https://fotos.etheriamagazine.com/2020/08/la-bodeguilla-piedralaves.jpg "La Bodeguilla y algunos de sus platos estrella. © Etheria Magazine")
 
 Si hay más hambre, la siguiente parada es **La Trastienda**, un acogedor restaurante que 
 parece sacado de Chueca o Las Salesas y que ha sido colocado en la mitad de una de las 

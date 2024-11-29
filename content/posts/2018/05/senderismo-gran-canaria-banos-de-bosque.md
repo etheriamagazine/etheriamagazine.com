@@ -34,7 +34,7 @@ decaisnei_) o el incienso canario (_Artemisa canariensis_) además del exuberant
 termófilo (con sus acebuches, lentiscos y almácigos) ¡e incluso huertas! que pueblan el 
 fondo de la caldera. 
 
-![caldera bandama, viaje gran canaria](https://fotos.etheriamagazine.com/2018/05/Gran-Canaria-Caldera-de-Bandama-1024x683.jpg "La caldera del extinto volcán Bandama es una de las mayores de Gran Canaria.")
+![caldera bandama, viaje gran canaria](https://fotos.etheriamagazine.com/2018/05/Gran-Canaria-Caldera-de-Bandama.jpg "La caldera del extinto volcán Bandama es una de las mayores de Gran Canaria.")
 
 ## Las cumbres más altas
 
@@ -51,7 +51,7 @@ de Tejeda pasando por la Degollada de Las Palomas (8,2 km); la **Ruta 11**, que 
 Cruz de Tejeda al Cruce del Aserrador pasando por el Roque Nublo (11 km); o la **Ruta 
 15** que desciende desde la Degollada Becerra hasta pueblo de Tejeda (6,2 km). 
 
-![tejeda, ruta gran canaria, deporte gran canaria](https://fotos.etheriamagazine.com/2018/05/Gran-Canaria-Tejeda-1024x683.jpg "La población de Tejeda es un rincón perfecto para reponerse de la actividad física.")
+![tejeda, ruta gran canaria, deporte gran canaria](https://fotos.etheriamagazine.com/2018/05/Gran-Canaria-Tejeda.jpg "La población de Tejeda es un rincón perfecto para reponerse de la actividad física.")
 
 ## Camino de Santiago en Gran Canaria
 

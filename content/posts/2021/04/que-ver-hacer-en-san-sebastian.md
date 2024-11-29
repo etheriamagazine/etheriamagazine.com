@@ -35,7 +35,7 @@ escaleras. Una vez arriba, merece la pena caminar por sus callejuelas de piedra.
 zona destaca la Plaza de Armas con la **iglesia de Santa María de la Asunción y del 
 Manzano** y el **Palacio de Carlos V**. 
 
-? Visitas guiadas en [Hondarribia](https://www.civitatis.com/es/hondarribia/tour-privado-hondarribia/?aid=10211) 
+📌 Visitas guiadas en [Hondarribia](https://www.civitatis.com/es/hondarribia/tour-privado-hondarribia/?aid=10211) 
 o [ruta en 
 kayak](https://www.civitatis.com/es/hondarribia/tour-kayak-hondarribia/?aid=10211) (28 
 €). 
@@ -54,7 +54,7 @@ Antiguo.** Te sorprenderán decenas de rincones, el ambiente y, por supuesto, lo
 > oferta gastronómica de nivel concentrada en este pequeño formato. Algunos de los locales 
 > más conocidos son Gandarias, La Cepa, La Viña y Ganbara. 
 
-![San Sebastián 48horas fin de semana](https://fotos.etheriamagazine.com/2018/04/Tapas-en-San-Sebastian-Etheriamagazine-1024x682.jpg "Ir de pintxos en San Sebastián es obligatorio.")
+![San Sebastián 48horas fin de semana](https://fotos.etheriamagazine.com/2018/04/Tapas-en-San-Sebastian-Etheriamagazine.jpg "Ir de pintxos en San Sebastián es obligatorio.")
 
 ## Excursión a Zumaia, Getaria y Zarautz desde San Sebastián
 
@@ -78,7 +78,7 @@ un paseo hasta la **ermita de San Telmo**, que ya era un lugar idílico antes de
 fiebre de _Ocho apellidos vascos_ (fue el lugar elegido por los protagonistas para 
 casarse). Las vistas de los acantilados y el mar cortan la respiración. 
 
-? [Excursión para ver los flysch de Zumaia en 
+📌 [Excursión para ver los flysch de Zumaia en 
 barco](https://www.civitatis.com/es/guetaria/excursion-flysch-zumaya-barco/?aid=10211). 
 
 ![48 horas Costa Vasca fin de semana](https://fotos.etheriamagazine.com/2018/04/Ermita-de-San-Telmo-Zumaia-Etheria-Magazine.jpg "Vista desde la ermita de San Telmo en Zumaia.")
@@ -126,7 +126,7 @@ lugares como el **Kursaal**, el **Ayuntamiento**, la **Plaza de la Constitución
 viaja con niños, son muy recomendables el [Aquarium](http://aquariumss.com) y los 
 jardines del **Palacio Miramar**, con excelentes vistas sobre la bahía de la Concha. 
 
-? [Tour privado por San 
+📌 [Tour privado por San 
 Sebastián](https://www.civitatis.com/es/san-sebastian/tour-privado-san-sebastian/?aid=10211) 
 (precio grupo: 2 horas hasta 5 personas, 95 €). 
 
@@ -137,11 +137,11 @@ donostiarras. Nuestra sugerencia es el [restaurante
 Bokado](http://www.bokadomikelsantamaria.com) del chef Mikel Santamaría, situado sobre 
 el Aquarium. 
 
-? [FREE TOUR en San 
+📌 [FREE TOUR en San 
 Sebastián](https://www.civitatis.com/es/san-sebastian/free-tour-san-sebastian/?aid=10211). 
 Pagas lo que quieras al final de la visita. 
 
-? [FREE TOUR de la Belle 
+📌 [FREE TOUR de la Belle 
 Époque](https://www.civitatis.com/es/san-sebastian/free-tour-belle-epoque/?aid=10211) en 
 San Sebastián. 
 

@@ -282,6 +282,6 @@ www.lafaya.es
 
 [Ruta del Vino de Arribes](https://rutadelvinoarribes.com/). 
 
-**?Consulta la ruta mencionada en este mapa:** 
+**📍Consulta la ruta mencionada en este mapa:** 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xVeqBD9vBZj1BJBhdZZRZAOooSk0JjE&amp;hl=es&amp;ehbc=2E312F" width="320" height="240"></iframe>

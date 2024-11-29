@@ -13,7 +13,7 @@ authors:
 
 Si te gusta la naturaleza, sientes pasión por la belleza de las mariposas monarca y eres un enamorada de México, este es tu viaje. Al estado de Michoacán, situado en la costa oeste, llegan en invierno, cada año, millones de estos lepidópteros para hibernar y aparearse. ¿Preparada para esta explosión de color y de vida que da paz y mucha calma?
 
-![Mariposas monarca, viaje a michoacan, mariposas en mejico](https://fotos.etheriamagazine.com/2018/12/Mariposas-Monarca-Michoacan-1024x685.jpg "Las mariposas monarca cuando están inmóviles se mimetizan con el entorno.")
+![Mariposas monarca, viaje a michoacan, mariposas en mejico](https://fotos.etheriamagazine.com/2018/12/Mariposas-Monarca-Michoacan.jpg "Las mariposas monarca cuando están inmóviles se mimetizan con el entorno.")
 
 Imagínate un bosque de pinos y oyameles alfombrado de serpentinas naranjas, negras y 
 blancas. Según salen los primeros rayos del sol esas ficticias hojas otoñales cobran 
@@ -30,7 +30,7 @@ meses (sus congéneres tienen ciclos vitales de 24 días). Quizás por eso nos r
 fascinante, como ya lo fue para los sabios prehispánicos. Nos conquista por su belleza, 
 colorido y por contribuir al equilibrio ecológico. 
 
-![Mariposas monarca, viaje a michoacan, mariposas en mejico](https://fotos.etheriamagazine.com/2018/12/Viaje-mexico-mariposas-monarca-1024x685.jpg "Mariposas monarca.")
+![Mariposas monarca, viaje a michoacan, mariposas en mejico](https://fotos.etheriamagazine.com/2018/12/Viaje-mexico-mariposas-monarca.jpg "Mariposas monarca.")
 
 > Si te estás planteando si es un viaje para hacer con niños, no lo dudes. Es una 
 > maravillosa forma de educarles en el respeto y cuidado del medio ambiente en un entorno 
@@ -41,7 +41,7 @@ mariposa monarca que se encuentran en la **Reserva de la Biosfera Mariposa Monar
 ubicada entre los estados de México y Michoacán. Hasta aquí llegan cada año alrededor de 
 60 millones de estos lepidópteros. 
 
-![Mariposas monarca, viaje a michoacan, mariposas en mejico](https://fotos.etheriamagazine.com/2018/12/viaje-mexico-mariposas-1024x673.jpg "Visitantes en Michoacán rodeados de mariposas.")
+![Mariposas monarca, viaje a michoacan, mariposas en mejico](https://fotos.etheriamagazine.com/2018/12/viaje-mexico-mariposas.jpg "Visitantes en Michoacán rodeados de mariposas.")
 
 ## Inmersión total en Michoacán
 
@@ -71,7 +71,7 @@ Después de esa visión inolvidable toca reponer fuerzas. A la salida del santua
 varios restaurantes en la plaza donde **probar las corundas** (un tamal típico 
 michoacano), la barbacoa de res, el mole, el pescado empapelado y las zarzamoras. 
 
-![viaje a michoacan, morelia, mexico](https://fotos.etheriamagazine.com/2018/12/morelia-mexico-1024x768.jpg "Arquitectura de Morelia (México)")
+![viaje a michoacan, morelia, mexico](https://fotos.etheriamagazine.com/2018/12/morelia-mexico.jpg "Arquitectura de Morelia (México)")
 
 Pero no sólo puede Michoacán presumir de mariposas a raudales. Ni de haber servido de 
 inspiración para crear algunos escenarios que aparecen en la [película Coco de 

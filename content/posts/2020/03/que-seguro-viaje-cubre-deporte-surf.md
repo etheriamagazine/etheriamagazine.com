@@ -12,7 +12,7 @@ authors:
 imprescindibles? Te aclaramos estas dudas en el siguiente artículo. Después de leerlo, 
 valora por ti misma si te interesa un seguro de viajes con cobertura deportiva. 
 
-![viajes de surf, seguros deportivos](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-surf-900x605.jpg "Los viajes para practicar surf son cada vez más populares. © PB")
+![viajes de surf, seguros deportivos](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-surf.jpg "Los viajes para practicar surf son cada vez más populares. © PB")
 
 El tiempo pasa a un segundo plano cuando cabalgas sobre las olas o te deslizas en un 
 tubo infinito imitando a la australiana Stephanie Gilmore, seis veces campeona del mundo 
@@ -26,7 +26,7 @@ propios códigos. Algunos que se deben tener en cuenta cuando se está empezando
 robar la ola ni interferir si otro surfista ya está en ella, atar bien la tabla para no 
 herir a los bañistas y untar la tabla siempre con parafina para no deslizarte. 
 
-![surf en espana, seguro deporte surf](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-surf-australia-900x600.jpg "Tanto España como Portugal cuenta con excelentes destinos surferos. © P.B.")
+![surf en espana, seguro deporte surf](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-surf-australia.jpg "Tanto España como Portugal cuenta con excelentes destinos surferos. © P.B.")
 
 ## Destinos donde practicar surf en España y en el extranjero
 
@@ -47,7 +47,7 @@ Bárbara), Malibu Pier (Malibu), San Onofre Beach (San Onofre) y Black’s Beach
 Diego). En muchas de estas playas podrás comprobar que algunas _celebrities_ americanas 
 también se apuntan a este deporte. 
 
-![seguros deportivos, vacaciones surf](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-deportivo-900x583.jpg "California y Australia, los dos destinos surferos más deseados. © P.B.")
+![seguros deportivos, vacaciones surf](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-deportivo.jpg "California y Australia, los dos destinos surferos más deseados. © P.B.")
 
 Pero si hay un destino que marca un antes y un después es **Australia**. En este país, 
 el surf casi forma parte del ADN de los _aussies_. Si has decidido dar el salto y 
@@ -60,7 +60,7 @@ Estos viajes que un surfista debe realizar, al menos una vez en la vida, precisa
 organización exhaustiva y de un presupuesto elevado. Por lo tanto, es conveniente 
 asegurarse de tener bajo control cualquier circunstancia adversa que pueda sobrevenir. 
 
-![Seguros deportivos, viajes surf](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-surf-1-900x587.jpg "Aprovecha las vacaciones para practicar surf. © P.B.")
+![Seguros deportivos, viajes surf](https://fotos.etheriamagazine.com/2020/03/seguro-viaje-surf-1.jpg "Aprovecha las vacaciones para practicar surf. © P.B.")
 
 ## Qué coberturas te dan las aseguradora de viajes
 

@@ -165,7 +165,7 @@ barraquitos y cafés de España –así lo reconoció [The
 Guardian](https://www.theguardian.com/travel/2017/jan/18/spain-best-coffee-canary-island-la-palma-rayco-rodriguez) 
 en 2017–. 
 
-![barraquito cafe multicolor la palma](https://fotos.etheriamagazine.com/2021/11/cafe-don-manuel-la-palma-678x1024.jpg "El barraquito incluye leche condensada, Licor 43, café expreso, crema de leche, canela y limón. Federico prepara uno en el Café Don Manuel de la Calle Real. © K.R.")
+![barraquito cafe multicolor la palma](https://fotos.etheriamagazine.com/2021/11/cafe-don-manuel-la-palma.jpg "El barraquito incluye leche condensada, Licor 43, café expreso, crema de leche, canela y limón. Federico prepara uno en el Café Don Manuel de la Calle Real. © K.R.")
 
 ## 9\. Fumarse un puro y beber ron con esencia cubana
 

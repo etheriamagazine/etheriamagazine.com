@@ -12,7 +12,7 @@ authors:
 
 La región portuguesa de Algarve es una apuesta segura para las vacaciones. Y si además te alojas en un hotel como el Tivoli Carvoerio Algarve Resort, de cinco estrellas, tienes garantizada una estancia de lujo en la que disfrutarás del mar, el paisaje y la gastronomía.
 
-![Piscina del hotel Tivoli Carvoeiro sobre los acantilados](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoerio-piscina-900x600.jpg "Piscina del Tivoli Carvoeiro Resort.")
+![Piscina del hotel Tivoli Carvoeiro sobre los acantilados](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoerio-piscina.jpg "Piscina del Tivoli Carvoeiro Resort.")
 
 El recientemente renovado hotel Tivoli Carvoeiro Algarve Resort, ubicado en el 
 **acantilado de Vale Covo** y a tan solo diez minutos de la villa marinera de Carvoeiro, 
@@ -39,13 +39,13 @@ confortables camas, acceso gratis a Internet, caja fuerte y cafetera Nespresso. 
 puedes darte un capricho, son muy recomendables las habitaciones que miran al mar, las 
 vistas son de escándalo. 
 
-![Junior Suite Premium con vistas al mar.](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-junior-suite-premium-900x591.jpg "Junior Suite Premium con vistas al mar.")
+![Junior Suite Premium con vistas al mar.](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-junior-suite-premium.jpg "Junior Suite Premium con vistas al mar.")
 
 Si buscas algo más, en la **Junior Suite Premium** y en la **Suite Carvoeiro** tendrás 
 unos alojamientos exclusivos donde las vistas al acantilado y la suave decoración harán 
 que te quieras quedar a vivir. 
 
-![Suite Carvoeiro.](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-suite-vista-mar-900x600.jpg "Suite Carvoeiro.")
+![Suite Carvoeiro.](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-suite-vista-mar.jpg "Suite Carvoeiro.")
 
 ## Gastronomía
 
@@ -58,7 +58,7 @@ cerdo confitada y puré de coliflor' o el 'Risotto de coco y lima con tempura de
 y salsa de soja'. Tendrás la opción de elegir entre el precioso salón o la terraza y te 
 quedarás sorprendida por su excelente carta de vinos. 
 
-![Restaurante The One y uno de sus postres](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoerio-restaurante-the-one-900x415.jpg "Restaurante The One.")
+![Restaurante The One y uno de sus postres](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoerio-restaurante-the-one.jpg "Restaurante The One.")
 
 **Med Food & Wine** es el espacio para disfrutar del pescado y el marisco fresco 
 acompañados de un buen vino, y es el lugar donde se toma también el desayuno buffet. El 
@@ -71,7 +71,7 @@ mejores sitios del hotel para contemplar la puesta de sol con un cóctel en la m
 **Turquoise Bar**, junto a la piscina, es el lugar ideal para tomar algo mientras se 
 pone el sol. 
 
-![Terraza del Bar Azur con vistas al mar y la piscina](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-bar-azur-900x600.jpg "Terraza del Bar Azur.")
+![Terraza del Bar Azur con vistas al mar y la piscina](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-bar-azur.jpg "Terraza del Bar Azur.")
 
 Pero, sin duda, uno de los rincones más especiales del hotel es el **Sky Bar 
 Carvoeiro**, en la azotea del hotel, un animado lugar donde tomar uno de los cócteles 
@@ -79,7 +79,7 @@ diseñados por Rafael Silva (ganador nacional del premio Bacardi Legacy) mientra
 contempla el infinito océano Atlántico. Este año cuenta con un nuevo espacio, el 
 Pierre-Jouet Champagne Bar. 
 
-![Sky Bar Carvoeiro al atardecer](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-sky-bar-900x600.jpg "Sky Bar Carvoeiro.")
+![Sky Bar Carvoeiro al atardecer](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-sky-bar.jpg "Sky Bar Carvoeiro.")
 
 ## Déjate mimar en sus instalaciones
 
@@ -90,7 +90,7 @@ Si no puedes pasar sin hacer ejercicio ni en vacaciones, seguro que visitarás e
 **Tivoli Shape**, el nuevo gimnasio del hotel donde el equipo de entrenadores personales 
 podrán diseñar un programa a medida de tus gustos. 
 
-![zona de descanso del Tivoli Spa Carvoeiro.](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-spa-900x600.jpg "Tivoli Spa Carvoeiro.")
+![zona de descanso del Tivoli Spa Carvoeiro.](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-spa.jpg "Tivoli Spa Carvoeiro.")
 
 No querrás salir del spa de lujo **Tivoli Spa Carvoeiro**. Aquí todo está preparado para 
 que desconectes: desde la suave decoración hasta la amplia gama de tratamientos, es 
@@ -112,7 +112,7 @@ tanto si viajas en pareja como si haces una escapada en familia. Deporte con un
 entrenador personal, rutas guiadas por la zona, planes para hacer con niños… sólo tienes 
 que imaginar y pondrán los medios para que puedas cumplir tus deseos. 
 
-![Cueva Benagil en la ruta dos Sete Vales Suspensos.](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-carvoeiro-cueva-benagil-900x513.jpg "Cueva Benagil en la ruta dos Sete Vales Suspensos.")
+![Cueva Benagil en la ruta dos Sete Vales Suspensos.](https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-carvoeiro-cueva-benagil.jpg "Cueva Benagil en la ruta dos Sete Vales Suspensos.")
 
 Una de las zonas más bonitas de los alrededores es el **Itinerario dos Sete Vales 
 Suspensos**, y en el hotel se organiza una ruta guiada por estos acantilados que termina 

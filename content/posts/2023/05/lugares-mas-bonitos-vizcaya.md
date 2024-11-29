@@ -114,7 +114,7 @@ y caminar por el parque. Después sólo queda hacerse una foto junto al nombre d
 en grandes letras rojas y admirar la escultura llamada Aterpe (La Huella), realizada en 
 honor a los soldados vascos o gudaris que lucharon en la guerra civil española. 
 
-![Puente Bizkaia.](https://fotos.etheriamagazine.com/2023/05/puente-bizkaia-683x1024.jpg "Puente Bizkaia. © David Vives")
+![Puente Bizkaia.](https://fotos.etheriamagazine.com/2023/05/puente-bizkaia.jpg "Puente Bizkaia. © David Vives")
 
 ### 3\. Puente Bizkaia
 
@@ -157,7 +157,7 @@ la ría asoma la isla de Izaro y hacia levante, cerrando la ría, se divisa la m
 valores naturales que sus gentes han sabido mantener junto a formas de vida 
 tradicionales y una ancestral cultura apegada a sus paisajes marítimos y terrestres. 
 
-![remeros en el cabo de ogono de urdaibai](https://fotos.etheriamagazine.com/2021/02/urdaibai-cabo-ogono-677x1024.jpg "Cabo de Ogoño desde el mar. © Juan Carlos Muñoz")
+![remeros en el cabo de ogono de urdaibai](https://fotos.etheriamagazine.com/2021/02/urdaibai-cabo-ogono.jpg "Cabo de Ogoño desde el mar. © Juan Carlos Muñoz")
 
 ### 6\. San Juan de Gaztelugatxe
 
@@ -216,7 +216,7 @@ pues se halla en el parque natural de Armañón. Más información en cuevadepoz
 ✅ No te pierdas: [Valle de Karrantza, 10 experiencias rurales y genuinas en 
 Vizcaya](https://etheriamagazine.com/2021/08/18/que-ver-y-hacer-en-valle-de-karrantza-vizcaya/). 
 
-![Bonito entorno de la cueva de Pozalagua.](https://fotos.etheriamagazine.com/2021/08/dolomita-valle-karrantza-683x1024.jpg "Bonito entorno de la cueva de Pozalagua. © Juan Carlos Muñoz")
+![Bonito entorno de la cueva de Pozalagua.](https://fotos.etheriamagazine.com/2021/08/dolomita-valle-karrantza.jpg "Bonito entorno de la cueva de Pozalagua. © Juan Carlos Muñoz")
 
 ### 9\. Monte Gorbeia
 
@@ -229,7 +229,7 @@ pastoriles o txabolas y pastos con vacas y caballos se hace una ruta hasta encon
 pronunciada pendiente final hasta la cumbre. Las vistas en días despejados, desde uno de 
 los lugares que tocan el cielo en Bizkaia, compensan el esfuerzo. 
 
-![Desfiladero de Atxarte, en el Parque Natural Urkiola.](https://fotos.etheriamagazine.com/2019/03/viaje-pais-vasco-desfiladero-atxarte-689x1024.jpg "Desfiladero de Atxarte, en el Parque Natural Urkiola.")
+![Desfiladero de Atxarte, en el Parque Natural Urkiola.](https://fotos.etheriamagazine.com/2019/03/viaje-pais-vasco-desfiladero-atxarte.jpg "Desfiladero de Atxarte, en el Parque Natural Urkiola.")
 
 ### 10\. Monte Urkiola
 

@@ -17,7 +17,7 @@ generación de mujeres luchadoras y silenciosas que afrontaron la posguerra con 
 dignidad que les dejaron. No se nos ocurre mejor forma de celebrar el Día de la Mujer 
 que acercar a nuestras lectoras este homenaje. 
 
-![portada libro](https://fotos.etheriamagazine.com/2021/03/libro-Nietas-de-la-Memoria-673x1024.jpg "Libro 'Nietas de la memoria' de la editorial Bala Perdida.")
+![portada libro](https://fotos.etheriamagazine.com/2021/03/libro-Nietas-de-la-Memoria.jpg "Libro 'Nietas de la memoria' de la editorial Bala Perdida.")
 
 El libro de ensayo _Nietas de la memoria_ no habla de mujeres oficialmente relevantes de 
 la sociedad, de grandes descubridoras o de eminentes intelectuales, sino de heroínas 

@@ -77,7 +77,7 @@ algunos jóvenes tejedores están empezando a usar hilos sintéticos para abarat
 así que nuestra recomendación es que compruebes que es fibra de algodón 100%, o que te 
 dejes asesorar. 
 
-![telar de pano de pinti en guinea bissau](https://fotos.etheriamagazine.com/2020/10/telares-guinea-bissau-pano-de-pinti-683x1024.jpg "En los telares suelen trabajar hombres.")
+![telar de pano de pinti en guinea bissau](https://fotos.etheriamagazine.com/2020/10/telares-guinea-bissau-pano-de-pinti.jpg "En los telares suelen trabajar hombres.")
 
 Si viajas hasta este país, los mejores asesores los encontrarás en **Orango Parque 
 Hotel**, un establecimiento que forma parte de un proyecto de cooperación al desarrollo, 

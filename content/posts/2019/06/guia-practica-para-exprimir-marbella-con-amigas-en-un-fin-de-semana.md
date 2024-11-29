@@ -76,7 +76,7 @@ cita la Marbella más genuina, la de los marbelleros. Su tabernero, Francis Guzm
 querido por todo el mundo y por su local pasa la vida cultural de la ciudad de forma 
 desenfada e informal. 
 
-![calle tipica de Andalucia](https://fotos.etheriamagazine.com/2019/06/marbella-calle-casco-historico-683x1024.jpg "Calle del Casco Histórico de Marbella.")
+![calle tipica de Andalucia](https://fotos.etheriamagazine.com/2019/06/marbella-calle-casco-historico.jpg "Calle del Casco Histórico de Marbella.")
 
 ## Comer o cenar en los sitios de moda de Marbella
 

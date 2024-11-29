@@ -15,7 +15,7 @@ kársticos de montañas y sus idílicos ríos con cormoranes que pescan plácida
 lugar que aún está muy cerca de la naturaleza y que se ha librado de los abusos de la 
 modernidad. En Etheria Magazine te mostramos la otra cara de la Nueva China. 
 
-![Pescando con cormoranes en el río Li (Xing Ping).](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-pescador-900x600.jpg "Pescando con cormoranes en el río Li (Xing Ping). © David Santiago")
+![Pescando con cormoranes en el río Li (Xing Ping).](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-pescador.jpg "Pescando con cormoranes en el río Li (Xing Ping). © David Santiago")
 
 Las quietas aguas matinales del **río Li** reflejan el cielo y las verdes montañas. 
 Desde mi barca, remonto el Lijiang –jiang significa río–, que atraviesa durante su 
@@ -44,7 +44,7 @@ buscas tranquilidad, mejor dirígete directamente a la encantadora población de
 **Yangshuo**, o a las pequeñas aldeas de **Xingping** o **Yangdi**, y piérdete entre los 
 arrozales y los tramos del río a los que no llegan los autocares de los turistas. 
 
-![Los niños juegan en la orilla del río Li.](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-rio-li-1-900x600.jpg "Los niños juegan en la orilla del río Li. © D.S.")
+![Los niños juegan en la orilla del río Li.](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-rio-li-1.jpg "Los niños juegan en la orilla del río Li. © D.S.")
 
 ## El ocaso, el mejor momento del día
 
@@ -69,7 +69,7 @@ de explicar la apariencia de estos mogotes que forman el paisaje cotidiano. Pero
 geólogos dicen que las caprichosas formas de sus colinas se deben a que hace 300 
 millones de años esa región era parte del fondo marino. 
 
-![Viviendas tradicionales de la aldea de pescadores de Xingping.](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-xingping-900x600.jpg "Viviendas tradicionales de la aldea de pescadores de Xingping. © D.S.")
+![Viviendas tradicionales de la aldea de pescadores de Xingping.](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-xingping.jpg "Viviendas tradicionales de la aldea de pescadores de Xingping. © D.S.")
 
 ## Espectáculos nocturnos
 
@@ -82,7 +82,7 @@ escenario el río Li y doce colinas de fondo– basada en una antigua película 
 ‘Sanjie Liu’, que describe la vida cotidiana de los pescadores y lugareños de la región. 
 ¡No te lo pierdas! 
 
-![Senderistas en los bancales de arroz de la Columna del Dragón.](https://fotos.etheriamagazine.com/2019/12/viaje-china-senderismo-colinas-guangxi-900x600.jpg "Senderistas en los bancales de arroz de la Columna del Dragón. © D.S.")
+![Senderistas en los bancales de arroz de la Columna del Dragón.](https://fotos.etheriamagazine.com/2019/12/viaje-china-senderismo-colinas-guangxi.jpg "Senderistas en los bancales de arroz de la Columna del Dragón. © D.S.")
 
 ## El arroz de la Columna del Dragón
 
@@ -96,7 +96,7 @@ de la sabiduría y el trabajo conjunto de las minorías étnicas Zhuang y Yao, q
 adaptar estos terrenos montañosos y agrestes para el cultivo de arroz mediante el 
 sistema de terrazas. 
 
-![Panorámica de los arrozales.](https://fotos.etheriamagazine.com/2019/12/viaje-china-arrozales-guangxi-900x600.jpg "Panorámica de los arrozales. ©D.S.")
+![Panorámica de los arrozales.](https://fotos.etheriamagazine.com/2019/12/viaje-china-arrozales-guangxi.jpg "Panorámica de los arrozales. ©D.S.")
 
 ## Aldea de Ping'an
 
@@ -110,7 +110,7 @@ cual varios senderos de losas de piedra conducen al pueblo.
 > Ping’an no tiene calles, ni coches, ni bicis, por lo que todo es transportado a la 
 > espalda por la población local siguiendo los caminos empedrados. 
 
-![Mujeres yao recogiéndose el pelo (Guangxi).](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-mujeres-yao-683x1024.jpg "Mujeres yao recogiéndose el pelo (Guangxi). © D.S.")
+![Mujeres yao recogiéndose el pelo (Guangxi).](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-mujeres-yao.jpg "Mujeres yao recogiéndose el pelo (Guangxi). © D.S.")
 
 ## Las mujeres yao y su larguísimo pelo
 
@@ -123,7 +123,7 @@ terreno, dibujan un panorama de ensueño. Un paisaje armónico que todavía no h
 trastocado por el progreso de las ciudades. Confiemos en que los grandes desafíos de la 
 China del siglo XXI no impongan grandes cambios en el remoto y Gran Sur. 
 
-![Un vecino de Zhong-liu en la puerta de su casa.](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-Zhong-li-900x600.jpg "Un vecino de Zhong-liu en la puerta de su casa. © D.S.")
+![Un vecino de Zhong-liu en la puerta de su casa.](https://fotos.etheriamagazine.com/2019/12/viaje-china-guangxi-Zhong-li.jpg "Un vecino de Zhong-liu en la puerta de su casa. © D.S.")
 
 ## Guía de viaje de Guangxi | Etheria Magazine
 

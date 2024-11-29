@@ -33,7 +33,7 @@ barroco. Pasear por el Patio de los Naranjos y bajo sus arcos bicolores o sorpre
 con el altar mayor o la capilla real serán solo algunas de las experiencias que podréis 
 tener en este gran templo. 
 
-![Capilla Real de la mezquita-catedral de Córdoba.](https://fotos.etheriamagazine.com/2021/08/cordoba-capilla-real-mezquita-681x1024.jpg "Capilla Real de la mezquita-catedral de Córdoba.")
+![Capilla Real de la mezquita-catedral de Córdoba.](https://fotos.etheriamagazine.com/2021/08/cordoba-capilla-real-mezquita.jpg "Capilla Real de la mezquita-catedral de Córdoba.")
 
 Una muy buena opción para visitarla, o revisitarla, es hacer la visita nocturna **“El 
 Alma de Córdoba”** donde la luz, el sonido y la imagen consiguen crear una atmósfera que 
@@ -111,7 +111,7 @@ hecho, los veréis mucho más tranquilas fuera de temporada. Una foto bonita de 
 de este viaje a Córdoba con amigas podría ser en la **Calleja de las Flores**, con la 
 torre de la catedral al fondo. 
 
-![Patio cordobés.](https://fotos.etheriamagazine.com/2021/08/Cordoba-Patio-Cordobes-683x1024.jpg "Patio cordobés. © Turismo de Andalucía")
+![Patio cordobés.](https://fotos.etheriamagazine.com/2021/08/Cordoba-Patio-Cordobes.jpg "Patio cordobés. © Turismo de Andalucía")
 
 Podéis consultar los que están abiertos en la [página web de Turismo de 
 Córdoba](https://www.turismodecordoba.org/visitar-patios-de-cordoba-1) o apuntaros a una [visita 

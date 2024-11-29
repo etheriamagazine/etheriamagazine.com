@@ -23,7 +23,7 @@ de los tópicos, has llegado al artículo adecuado. Por supuesto, visitaremos al
 sus lugares emblemáticos como el Big Ben o el London Eye (Ojo de Londres), tiendas de 
 diseño de toda la vida, restaurantes de moda y barrios a la última. Comenzamos. 
 
-?[Freetour por el Londres 
+📍[Freetour por el Londres 
 imprescindible](https://www.civitatis.com/es/londres/free-tour-londres/?aid=10211) para 
 ubicarse nada más llegar. Tiene una duración de tres horas y es español. 
 
@@ -62,7 +62,7 @@ de Londres. Al lado del Puente del Milenio, la **Tate Modern** (un lugar ideal p
 tomar el _lunch_) se codea con uno de los teatros más antiguos de Londres, **The 
 Globe**, donde Shakespeare representó varias de sus obras. 
 
-?[Entradas para el London 
+📍[Entradas para el London 
 Eye](https://www.civitatis.com/es/londres/entradas-london-eye/): 39 euros. 
 
 ![El Palacio de Westminster alberga la torre del célebre reloj que tiene una campana llamada Big Ben.](https://fotos.etheriamagazine.com/2018/08/Londres-Big-Ben.jpg "El Palacio de Westminster alberga la torre del célebre reloj que tiene una campana llamada Big Ben.")
@@ -136,7 +136,7 @@ y albergues para gente joven.
 Sí, diríamos que imprescindible. La **Oyster Travelcard** se puede comprar en 
 visitbritainshop.com y sirve para metro y autobús. 
 
-?[Autobuses turísticos Big 
+📍[Autobuses turísticos Big 
 Bus](https://www.civitatis.com/es/londres/autobus-turistico-londres/?aid=10211) durante 
 1 o 2 días bajando y subiendo cuando quieras. 
 

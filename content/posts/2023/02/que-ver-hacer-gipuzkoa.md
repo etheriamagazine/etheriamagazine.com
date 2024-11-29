@@ -85,7 +85,7 @@ las reinas españolas.
 
 ### Con vistas a la playa
 
-? Busca el puente Kursaal, donde las aguas del río Urumea y el océano se encuentran. 
+📌 Busca el puente Kursaal, donde las aguas del río Urumea y el océano se encuentran. 
 Aquí comienza la _Ruta de las Estrellas_, pues es la misma que frecuentan los artistas 
 durante el Festival Internacional de Cine. Frente al mar verás el Palacio de Congresos, 
 diseñado por Moneo, y apenas a unos metros del puente reconocerás el teatro Victoria 
@@ -103,7 +103,7 @@ las últimas ballenas capturadas en estas aguas.
 
 ![Aquarium de San Sebastián, si vas con niños lo tienes que ver en Gipuzkoa](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-san-sebastian-Aquarium.jpg "Aquarium de San Sebastián. © Basquetour.")
 
-? Ascender al monte Igueldo puede hacerse a pie o en coche pero lo más encantador es 
+📌 Ascender al monte Igueldo puede hacerse a pie o en coche pero lo más encantador es 
 hacerlo por el funicular que lleva en funcionamiento desde el año 1912. En su cumbre hay 
 que llenarse con las vistas urbanas y la costa para acabar disfrutando como una niña en 
 su decimonónico **parque de atracciones** (monteigueldo.es). 
@@ -129,7 +129,7 @@ sorpresa a nuestro paso.
 
 ![Minas de Arditurri.](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-Arditurri.jpg "Minas de Arditurri. © Basquetour")
 
-? Si necesitas un poco de aire libre recorre la **Vía Verde de Arditurri** a pie o en 
+📌 Si necesitas un poco de aire libre recorre la **Vía Verde de Arditurri** a pie o en 
 bici. Sigue el trazado del ferrocarril que llevaba los minerales en explotación hasta la 
 bahía de Pasaia. Incluso puedes subir al **Tren Verde** para llegar como una auténtica 
 minera. Incluye parada en el **Centro de Interpretación Geológica Luberri** 
@@ -149,7 +149,7 @@ hacer fuego.
 
 ![Ekainberri, uno de los lugares originales que hay que ver en Gipuzkoa](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-centro-interpretacion-ekain.jpg "Centro de Interpretación de Ekain. © Basquetour.")
 
-? La [visita se realiza guiada en la neocueva 
+📌 La [visita se realiza guiada en la neocueva 
 Ekainberri.](https://www.ekainberri.eus/visitas-y-venta-de-entradas/) Se trata de una 
 magnífica réplica donde sentirás el viaje en el tiempo y las emociones que te provoca 
 esta cueva declarada Patrimonio de Humanidad por la Unesco. 
@@ -167,7 +167,7 @@ de Pasaia rumbo a Europa.
 
 ![Minas de Azpeia.](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-Zerain-minas-Aizpea.jpg "Minas de Azpeia. © Edaki/CC 4.0")
 
-? Las visitas guiadas de la mina e instalaciones anejas a la extracción del mineral en 
+📌 Las visitas guiadas de la mina e instalaciones anejas a la extracción del mineral en 
 la Montaña del Hierro las organiza la [oficina de Turismo de 
 Zerain](https://goierriturismo.com/pueblos/zerain#punto-de-informacion-a) los sábados, 
 domingos y festivos desde abril hasta octubre salvo que vayas en grupo. 
@@ -207,7 +207,7 @@ Si te gusta caminar, toma el **sendero de la Bahía**. A lo largo de 14 kilómet
 recorrerás las tres ciudades (Hendaya, Irún y Hondarribia), que contornean la bahía y 
 habrás pisado dos países. 
 
-? No te pierdas: Artículo de la [costa del monte Jaizkibel con nuestras ocho 
+📌 No te pierdas: Artículo de la [costa del monte Jaizkibel con nuestras ocho 
 pasiones.](https://etheriamagazine.com/2020/09/08/que-ver-guipuzcoa-jaizkibel-hondarribia-pasaia/) 
 
 ![Fachadas de Hondarribia, una preciosa ciudad que hay que ver en Gipuzkoa](https://fotos.etheriamagazine.com/2018/07/san-sebastian-hondarribia.jpg "Fachadas de Hondarribia. © Eric Prouzet")
@@ -224,7 +224,7 @@ productos del mar recién capturados. Su vinculación con la tierra la probarás
 _txakoli_, un vino blanco y joven que madura gracias a la influencia marina del 
 Cantábrico y sus fríos vientos. 
 
-? Sobre una colina, abarcando las vistas de la villa marinera, el espacio destinado a 
+📌 Sobre una colina, abarcando las vistas de la villa marinera, el espacio destinado a 
 uno de los más admirados hijos de la localidad, **Cristóbal Balenciaga Museoa** 
 (cristobalbalenciagamuseoa.com), nos lleva por un mar de tejidos, volúmenes y colores a 
 través del universo del gran genio de la alta costura. Este espacio cultura es una cita 
@@ -241,13 +241,13 @@ astilleros donde se armaron algunas de las embarcaciones que más historia han d
 navegación española. Siguiendo la calle con más tipismo del pueblo encontrarás la **casa 
 museo de Víctor Hugo** donde residió durante su exilio. 
 
-? En la orilla opuesta de la bahía de Pasaia hay que cruzar para llegar hasta **Pasaia 
+📌 En la orilla opuesta de la bahía de Pasaia hay que cruzar para llegar hasta **Pasaia 
 San Juan** (Pasai Donibane) y encontrar ese espíritu emprendedor de los marinos vascos 
 en el **astillero Albaola** (www.albaola.com/es), donde se está reproduciendo la nao San 
 Juan. Una nave de madera del siglo XVI y primera embarcación comercial de la localidad 
 que, cargada de aceite de ballena, se hundió en aguas del estrecho de Bering. 
 
-![vista de pasaia san juan](https://fotos.etheriamagazine.com/2020/08/pasaia-san-juan-900x626.jpg "Pasaia San Juan.")
+![vista de pasaia san juan](https://fotos.etheriamagazine.com/2020/08/pasaia-san-juan.jpg "Pasaia San Juan.")
 
 ### Zarautz
 
@@ -261,7 +261,7 @@ hasta la vecina localidad de Getaria, pues solo la separan 4 kilómetros.
 
 ![Casetas en la Playa de Zarautz, las tienes que ver en Gipuzkoa](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-Zarautz.jpg "Playa de Zarautz. © Basquetour")
 
-? Antes de partir de la localidad donde se armó la nao Victoria, que daría la primera 
+📌 Antes de partir de la localidad donde se armó la nao Victoria, que daría la primera 
 vuelta al mundo comandada por Fernando Magallanes y en la que regresó Juan Sebastián 
 Elcano a España, admira la **Torre Luzea**, magnífica torre vigía gótica que prevenía de 
 ataques por el mar. Después asciende hasta la **ermita de Santa Bárbara**. Entre viñedos 
@@ -295,10 +295,11 @@ que son la huella de sus primeros pastores prehistóricos.
 
 ![Mujer con cabras en el Monte Aizkorri en Guipúzcoa](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-ascenso-monte-aizkorri.jpg "Ascenso al monte Aizkorri.")
 
-? Apenas a media hora de San Sebastián se llega a **Beasain**. Es la capital del Goierri 
-y donde, además de probar la sidra, alubias o mermeladas de la tierra es posible viajar 
-hasta el Medievo. Para ello, tendrás que entrar al molino hidráulico en funcionamiento 
-situado en el **barrio de Igartza**, junto a la ferrería y palacio del mismo nombre. 
+📌 Apenas a media hora de San Sebastián se llega a **Beasain**. Es la capital del 
+Goierri y donde, además de probar la sidra, alubias o mermeladas de la tierra es posible 
+viajar hasta el Medievo. Para ello, tendrás que entrar al molino hidráulico en 
+funcionamiento situado en el **barrio de Igartza**, junto a la ferrería y palacio del 
+mismo nombre. 
 
 ### Pagoeta
 
@@ -309,7 +310,7 @@ hayas, antaño podadas para la obtención de carbón vegetal, con sus ramas como
 candelabros, son uno de los paseos más atractivos desde casi cualquiera de los once 
 barrios de **Aia**, el municipio que abarca estas montañas. 
 
-? Acude al [Centro de Interpretación del Parque Natural de 
+📌 Acude al [Centro de Interpretación del Parque Natural de 
 Pagoeta,](https://www.gipuzkoanatura.eus/es/parketxes/iturraran) situado en un bonito 
 caserío del siglo XVIII. Está en **Iturraran** y aquí se pueden conocer los valores 
 naturales y culturales de la zona. Además los más pequeños pueden disfrutar de un 
@@ -327,7 +328,7 @@ caracteriza sus agrestes acantilados o _flysch_, a lo largo de 13 kilómetros, p
 
 ![Flysch de la costa vasca, naturaleza en estado puro que hay que ver en Gipuzkoa](https://fotos.etheriamagazine.com/2023/02/guipuzcoa-acantilados-flysch.jpg "Flysch de la costa vasca. © Basquetour.")
 
-? Desde la ermita dedicada al patrón de los navegantes, **San Telmo**, en Zumaia se 
+📌 Desde la ermita dedicada al patrón de los navegantes, **San Telmo**, en Zumaia se 
 obtiene una espectacular panorámica de costa tan agreste y extraordinaria. En el **Museo 
 Nautilus** o **Centro de Interpretación Geológica** en Mutriku podrás seguir los 
 acontecimientos que, en millones de años, han hecho tan valioso este litoral. 
@@ -342,7 +343,7 @@ vuelos transcontinentales entre Europa y África.
 
 ![Desembocadura del Bidasoa.](https://fotos.etheriamagazine.com/2023/02/guizpuzcoa-vista-bahia-txingudi-desembocadura-bidasoa.jpg "Desembocadura del Bidasoa.")
 
-? El **parque ecológico Plaiaundi,** con su mezcla de agua dulce y salada y sus 
+📌 El **parque ecológico Plaiaundi,** con su mezcla de agua dulce y salada y sus 
 observatorios sobre la marisma, es garantía de observar el ajetreo de aves que lo 
 frecuentan a lo largo de sus 2 kilómetros de itinerarios; además organiza visitas 
 guiadas cada sábado. 
@@ -357,13 +358,13 @@ paso marino. No menos vistoso resulta el **faro de Getaria**, ubicado sobre el c
 monte de San Antón. Hasta la misma ciudad de San Sebastián ilumina sus noches con los 
 faros de la **isla de Santa Clara** y de **Igueldo**. 
 
-? El que más nos ha gustado y que tienes que ver en Gipuzkoa es el de **Higuer**, el más 
-oriental. Tiene un bonito estilo neoclásico sobre los acantilados de Jaizkibel. También 
-resulta un privilegiado mirador donde cruzar los dedos y apostarse a ver ballenas y a 
-las numerosas aves que pasan durante las migraciones. Así como a las aves marinas que, 
-en los temporales invernales, se refugian acercándose a la costa. 
+📌 El que más nos ha gustado y que tienes que ver en Gipuzkoa es el de **Higuer**, el 
+más oriental. Tiene un bonito estilo neoclásico sobre los acantilados de Jaizkibel. 
+También resulta un privilegiado mirador donde cruzar los dedos y apostarse a ver 
+ballenas y a las numerosas aves que pasan durante las migraciones. Así como a las aves 
+marinas que, en los temporales invernales, se refugian acercándose a la costa. 
 
-? **También te puede interesar:** 
+📍 **También te puede interesar:** 
 
 [Planes para un fin de semana en San Sebastián: seguro que no te 
 aburres](https://etheriamagazine.com/2021/04/01/que-ver-hacer-en-san-sebastian/) 

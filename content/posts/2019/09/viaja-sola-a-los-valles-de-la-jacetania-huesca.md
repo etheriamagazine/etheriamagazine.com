@@ -15,7 +15,9 @@ boquiabierta a cada paso. Este puede ser un buen destino para viajar sola, ya qu
 las actividades que te proponemos y la rica gastronomía del lugar no echarás de menos a 
 nadie. Te contamos qué ver en los valles de la Jacetania para que no te pierdas nada. 
 
-![Monasterio de Siresa.](https://fotos.etheriamagazine.com/2019/09/Jacetania-Siresa-900x600.jpg "Monasterio de Siresa.")
+![Monasterio de Siresa.](https://fotos.etheriamagazine.com/2019/09/Jacetania-Siresa.jpg "Monasterio de Siresa.")
+
+Actualizado en octubre de 2024 
 
 El Pirineo aragonés tiene valles imponentes e infinitas localizaciones que ofrecen 
 visitas teatralizadas y actividades –como el parapente o las tirolinas– para disfrutar, 
@@ -30,10 +32,8 @@ francés con Navarra. Nos vamos de ruta, ¿te apuntas?
 La capital del valle del río Aragón es Jaca donde, por supuesto, hay de todo y más, 
 desde hoteles con solera hasta boutiques, restaurantes y bares de tapas para pasarte una 
 semana sin repetir. El **Bachimala**, hermano del famoso Marboré, prepara pinchos y 
-hamburguesas muy ricos, así como el **Tannat**, donde también están muy buenas las tapas 
-y sus originales raciones. Y si te apetece ternera pirenaica, dirígete al **mesón asador 
-El Pajar**, poco turístico y, por lo tanto, más económico. Si tu presupuesto es 
-reducido, apunta el albergue Hostel Jaca, que tiene habitaciones reformadas a precios 
+hamburguesas muy ricos. Si tu presupuesto es reducido, apunta el albergue [Hostel 
+Jaca](https://www.alberguejaca.es/), que tiene habitaciones reformadas a precios 
 asequibles. 
 
 ## Joyas arquitectónicas de Jaca
@@ -70,7 +70,7 @@ la historia, la ubicación y las energías e insonorizaciones extrañas que han 
 todo tipo de expertos científicos en ese pequeño espacio plantado en medio de otras 
 cuatro ermitas a las que él, ajado y vivido, apunta en el horizonte. 
 
-![Ermita de San Adrián de Sasabe.](https://fotos.etheriamagazine.com/2019/09/Jacetania-adrian-sasabe-900x600.jpg "Ermita de San Adrián de Sasabe.")
+![Ermita de San Adrián de Sasabe.](https://fotos.etheriamagazine.com/2019/09/Jacetania-adrian-sasabe.jpg "Ermita de San Adrián de Sasabe.")
 
 ### Ermitas de San Adrián de Sasabe y de la Virgen de Iguacel
 
@@ -100,7 +100,7 @@ finales de agosto. Aunque tampoco estaría mal hacer las visitas en Halloween, q
 preparan una edición especial más terrorífica. Al salir, camina hasta el coqueto casco 
 viejo del pueblo. 
 
-[![Interior de la Cueva de las Güixas en la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-guixas-900x473.jpg "Interior de la Cueva de las Güixas.")](http://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/jacetania-guixas/)
+[![Interior de la Cueva de las Güixas en la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-guixas.jpg "Interior de la Cueva de las Güixas.")](http://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/jacetania-guixas/)
 
 ## Canfranc, la historia de una estación
 
@@ -112,7 +112,7 @@ por esta estación fluía todo el tráfico de mercancías y de personas hasta qu
 guerras estúpidas que han asolado nuestro continente la dejaron en el abandono. La buena 
 noticia es que su admirable edificio sigue en pie, y está siendo reconvertido en hotel. 
 
-![Estación de Canfranc.](https://fotos.etheriamagazine.com/2019/09/Jacetania-estacion-canfranc-900x600.jpg "Estación de Canfranc.")
+![Estación de Canfranc.](https://fotos.etheriamagazine.com/2019/09/Jacetania-estacion-canfranc.jpg "Estación de Canfranc.")
 
 ## Candanchú y Astún, tocando Francia
 
@@ -145,7 +145,7 @@ escribo este reportaje con las vistas del pueblo a la luz de la luna cenando un 
 de jabalí' con un **Edra** (bodega-edra.com) de Ayerbe, una sincera bodega de Huesca que 
 merece la pena acercarte a conocer. 
 
-![Monasterio de San Juan de la Peña en la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-San-Juan-de-la-Peña-900x600.jpg "Monasterio de San Juan de la Peña.")
+![Monasterio de San Juan de la Peña en la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-San-Juan-de-la-Peña.jpg "Monasterio de San Juan de la Peña.")
 
 ## Valles de Hecho, de Ansó y de Zuriza
 
@@ -159,7 +159,7 @@ precipicios hasta llegar a los imponentes valles occidentales de nuevo, desde Gu
 hasta Aguas Tuertas, y, si vas con energía, pasión, agua y víveres, patear para 
 contemplar la zona megalítica y el ibon de Estanés. 
 
-![Hecho, pueblo de la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-hecho-900x600.jpg "Imagen del bonito pueblo de Hecho.")
+![Hecho, pueblo de la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-hecho.jpg "Imagen del bonito pueblo de Hecho.")
 
 ### Valle de Ansó
 
@@ -172,7 +172,7 @@ torreta, con exposiciones de los vecinos, su iglesia y sus casas indianas. Disfr
 su gastronomía y de vinos diferentes en bares como el Maiberal y el Berari, una gozada 
 que denota la influencia vasca. 
 
-![Ansó, pueblo de la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-Anso-900x600.jpg "Ansó, declarado uno de los 'Pueblos más bonitos de España'.")
+![Ansó, pueblo de la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-Anso.jpg "Ansó, declarado uno de los 'Pueblos más bonitos de España'.")
 
 ### Valle de Zuriza
 
@@ -181,7 +181,7 @@ Biniés,** hacia el sur, son alucinantes. Este último, con el castillo que coro
 pueblo de **Biniés,** ya te aboca a Berdún, (en la carretera hacia Huesca o Pamplona), 
 el punto de salida de esta Jacetania a la que, sin duda alguna, querrás regresar. 
 
-![Foz de Binies.](https://fotos.etheriamagazine.com/2019/09/Jacetania-foz-binies-900x600.jpg "Foz de Binies.")
+![Foz de Binies.](https://fotos.etheriamagazine.com/2019/09/Jacetania-foz-binies.jpg "Foz de Binies.")
 
 Todas las fotografías publicadas en este artículo son © Archivo DGA y Comarca de la 
 Jacetania. 

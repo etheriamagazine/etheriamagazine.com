@@ -51,7 +51,7 @@ resto de la isla.
 ◼️No os perdáis: [Qué ver en Funchal, guía para 48 horas bien 
 aprovechadas](https://etheriamagazine.com/2022/08/08/que-ver-funchal/). 
 
-![Puertas pintadas de Funchal](https://fotos.etheriamagazine.com/2024/02/Funchal-Puertas-pintadas-676x1000.jpg "Puertas pintadas de Funchal. © Pepa García")
+![Puertas pintadas de Funchal](https://fotos.etheriamagazine.com/2024/02/Funchal-Puertas-pintadas.jpg "Puertas pintadas de Funchal. © Pepa García")
 
 ## Tirarse en un cesto
 

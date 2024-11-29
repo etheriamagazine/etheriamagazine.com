@@ -181,7 +181,7 @@ Es interesante, si viajas por tu cuenta, contratar un seguro de viajes. Si lo ha
 Intermundial desde este enlace tendrás un [descuento de un 10% sobre el precio 
 final](https://www.intermundial.es/afiliados/seguros-de-viaje?tduid=ffe016af24240d209d907c9872dd27dc&utm_source=Tradedoubler&utm_medium=1&utm_campaign=General&utm_content=3132464&utm_term=23930012). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
 viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/) 

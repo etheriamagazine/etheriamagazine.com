@@ -11,7 +11,7 @@ authors:
 
 Un viaje por el norte de Kenia, lejos de todos y de todo, por el paisaje que arropó la cuna de la Humanidad y por el paisanaje de las etnias que lo habitan... desde el principio. Esta aventura por el lago Turkana no te dejará indiferente, viaja sola o con quieras pero elige bien la compañía, hay destinos que no son para todo el mundo.
 
-![mujeres sambur, viaje lago turkana](https://fotos.etheriamagazine.com/2020/01/Danza-de-mujeres-samburu-900x571.jpg "Mujeres samburu danzando. © Pedro Grifol")
+![mujeres sambur, viaje lago turkana](https://fotos.etheriamagazine.com/2020/01/Danza-de-mujeres-samburu.jpg "Mujeres samburu danzando. © Pedro Grifol")
 
 Sólo cuando pisas esta tierra vieja, comprendes por qué has venido a este inhóspito 
 lugar del planeta africano; porque solamente aquí, en estos lugares que bordean el lago 
@@ -23,7 +23,7 @@ muerte.
 > Aquí, quizá, encontraremos un halo de nuestra esencia, que por leve que sea, siempre 
 > resultará emocionante... tal vez iniciático. 
 
-![lago turkana, viaje a kenia](https://fotos.etheriamagazine.com/2020/01/kenia-escena-africana-900x598.jpg "Una escena habitual en África. © P.Grifol")
+![lago turkana, viaje a kenia](https://fotos.etheriamagazine.com/2020/01/kenia-escena-africana.jpg "Una escena habitual en África. © P.Grifol")
 
 Las crónicas antropológicas cuentan que nuestros ancestros, el _homo sapiens_ y el _homo 
 erectus_, compartieron zona y período (medio millón de años) por estas latitudes, aunque 
@@ -36,7 +36,7 @@ El norte de Kenia, es el país de las tribus **turkana, samburu, rendille, gabbr
 que junto a leones, jirafas, hipopótamos y cocodrilos, nacen, viven y mueren en el ciclo 
 permanente de la existencia, como en el principio de los tiempos. 
 
-![nairobi, lago turkana](https://fotos.etheriamagazine.com/2020/01/Nairobi-900x559.jpg "Para la mayoría de viajeros, Nairobi es la puerta de África. © P. Grifol")
+![nairobi, lago turkana](https://fotos.etheriamagazine.com/2020/01/Nairobi.jpg "Para la mayoría de viajeros, Nairobi es la puerta de África. © P. Grifol")
 
 ## Cómo llegar al lago Turkana, nuestro destino
 
@@ -50,7 +50,7 @@ tráfico; pero tenemos suerte porque nosotros salimos de la ciudad y no entramos
 cruzan camiones que llevan su caja de carga atestada de jornaleros tiesos, de pie… y 
 apretados como manojos de espárragos. Van a Nairobi ¡la ciudad de las oportunidades! 
 
-![viaje a largo turkana, como llegar a turkana](https://fotos.etheriamagazine.com/2020/01/como-llegar-turkana-900x648.jpg "Carretera del norte, paso del Ecuador e Isiolo. © P.Grifol")
+![viaje a largo turkana, como llegar a turkana](https://fotos.etheriamagazine.com/2020/01/como-llegar-turkana.jpg "Carretera del norte, paso del Ecuador e Isiolo. © P.Grifol")
 
 Nosotros vamos en dirección contraria, hacia el norte, y solo parando para repostar y 
 para aprovisionarnos de agua. Atravesamos el paso del Ecuador africano, **Nanyuki**, y 
@@ -67,7 +67,7 @@ La meta es llegar hasta el lago Turkana, que con 250 kilómetros de largo y una
 superficie de 6.000 kilómetros cuadrados, señala el final del trayecto para los safaris 
 al norte del país. 
 
-![pescador lago turkana](https://fotos.etheriamagazine.com/2020/01/lago-turkana-Barca-de-pesca-900x598.jpg "Pescador en el lago Turkana. © Pedro Grifol")
+![pescador lago turkana](https://fotos.etheriamagazine.com/2020/01/lago-turkana-Barca-de-pesca.jpg "Pescador en el lago Turkana. © Pedro Grifol")
 
 ## Las tribus del lago Turkana
 
@@ -82,7 +82,7 @@ lógica, de llevarse solo para unos lo que les pertenece por ley divina a todos.
 > El ganado, elemento de subsistencia para estos pueblos, pasa de mano en mano de todas 
 > las maneras imaginables. 
 
-![mujeres samburu, viaje kenia](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-samburu-900x628.jpg "Mujeres samburu. © P.Grifol")
+![mujeres samburu, viaje kenia](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-samburu.jpg "Mujeres samburu. © P.Grifol")
 
 ### • Los samburu.
 
@@ -90,7 +90,7 @@ Los poblados **samburu** son lo primero que vemos. Los cuellos rodeados de color
 collares que lucen sus mujeres constituyen uno de los mayores atractivos estéticos del 
 viaje. 
 
-![jovenes rendille](https://fotos.etheriamagazine.com/2020/01/jovenes-rendille-900x648.jpg "Jóvenes rendille. © Pedro Grifol")
+![jovenes rendille](https://fotos.etheriamagazine.com/2020/01/jovenes-rendille.jpg "Jóvenes rendille. © Pedro Grifol")
 
 ### • Los rendille.
 
@@ -102,7 +102,7 @@ Llegamos al **poblado de Kargi**, el asentamiento más importante de esta etnia.
 chozas están construidas con un armazón de flexibles palos anudados con cuerda vegetal y 
 con un techo de piel de camello. 
 
-![mujeres turkanas, viaje kenia, lago turkana](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-turkanas-900x630.jpg "Mujeres turkana. © P. Grifol")
+![mujeres turkanas, viaje kenia, lago turkana](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-turkanas.jpg "Mujeres turkana. © P. Grifol")
 
 ### • Los turkana.
 
@@ -115,7 +115,7 @@ también visten una piel anudada al hombro y van provistos de lanza –afilada, 
 cuidadosamente protegida con una capucha– y escudo fabricado con piel de hipopótamo… y 
 que se ven en algunas tiendas de antigüedades de Nairobi. 
 
-![etnia turkana, viaje kenia](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-joven-turkana-681x1024.jpg "Joven turkana con sus tocados. © P. Grifol")
+![etnia turkana, viaje kenia](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-joven-turkana.jpg "Joven turkana con sus tocados. © P. Grifol")
 
 ### • Los gabbra.
 
@@ -129,7 +129,7 @@ aquí esta gente? Y la respuesta puede que sea en lo práctico: que hay agua, un
 de templado líquido; y en lo poético: que de noche, el fulgor de las estrellas nos 
 dictan un camino iluminado hacia el infinito. Paz. 
 
-![poblado gabbra, viaje a kenia](https://fotos.etheriamagazine.com/2020/01/Poblado-gabbra-Kalacha-900x579.jpg "Poblado gabbra. © P.Grifol")
+![poblado gabbra, viaje a kenia](https://fotos.etheriamagazine.com/2020/01/Poblado-gabbra-Kalacha.jpg "Poblado gabbra. © P.Grifol")
 
 Allí, en el lago Turkana, el sol atiza duro. El paisaje es árido, sujeto a los rigores 
 de la intemperie. La vida podría decirse que se limita a las especies más resistentes, a 
@@ -144,7 +144,7 @@ viaje se da por concluido; siempre tenemos que cerrar el libro de la aventura, y
 Cuando volvamos del Turkana nos volveremos a preguntar ¿por qué hemos ido allí? Pero 
 estaremos deseando volver. 
 
-![mujeres gabbra, viaje kenia](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Kalacha-mujeres-gabbra-900x557.jpg "Mujeres gabbra bailando en su campamento de Kalacha. © P.Grifol")
+![mujeres gabbra, viaje kenia](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Kalacha-mujeres-gabbra.jpg "Mujeres gabbra bailando en su campamento de Kalacha. © P.Grifol")
 
 ### Guía de Kenia | Etheria Magazine
 

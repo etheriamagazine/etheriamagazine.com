@@ -68,7 +68,7 @@ mientras se disfruta del ambiente y de algún que otro pasacalle donde la músic
 está presente. Imposible no moverse al ritmo que marcan las gaitas y los tambores del 
 grupo Gálata. 
 
-![La emoción está asegurada en Alcalá de Henares.](https://fotos.etheriamagazine.com/2023/04/complutum-renacida-alcala-850x567.jpg "La emoción está asegurada en Alcalá de Henares.")
+![La emoción está asegurada en Alcalá de Henares.](https://fotos.etheriamagazine.com/2023/04/complutum-renacida-alcala.jpg "La emoción está asegurada en Alcalá de Henares.")
 
 ### Gran Circus Máximus
 
@@ -85,12 +85,12 @@ abajo, aporta una nota de dramatismo a la escena. Una interesante oportunidad de
 la experiencia de un circo romano en vivo con sus combates de gladiadores, saltos de 
 aros de fuego, lanzamiento de jabalinas y carreras de cuadrigas. 
 
-?La calidad del espectáculo está garantizada por la **compañía Legend Especialistas** 
+📍La calidad del espectáculo está garantizada por la **compañía Legend Especialistas** 
 (legendespecialistas.com), expertos de prestigio en la recreación histórica y en los 
 eventos temáticos. Las **entradas** se pueden comprar en **Musical Sport** 
 (musicalsport.com) o en **entradas.com** 
 
-![El Gran Circus Maximus es el gran espectáculo de Complutum Renacida.](https://fotos.etheriamagazine.com/2023/04/gran-circus-maximus-alcala-850x567.jpg "El Gran Circus Maximus es el gran espectáculo de Complutum Renacida.")
+![El Gran Circus Maximus es el gran espectáculo de Complutum Renacida.](https://fotos.etheriamagazine.com/2023/04/gran-circus-maximus-alcala.jpg "El Gran Circus Maximus es el gran espectáculo de Complutum Renacida.")
 
 ### Talleres y animaciones en la calle  
 
@@ -133,7 +133,8 @@ el parking de la antigua fábrica de GAL, que está a sólo unos 3 o 4 minutos a
 Huerta Arzobispal. Una vez allí, basta seguir el sonido de la música y la decoración 
 para localizar Complutum Renacida. 
 
-?Otra opción es llegar cómodamente en **tren** con Renfe, estación de Alcalá de Henares. 
+📍Otra opción es llegar cómodamente en **tren** con Renfe, estación de Alcalá de 
+Henares. 
 
 **4\. ¿Habrá recreaciones históricas?** Sí, habrá varias en distintos puntos de la 
 ciudad, pero el Mercado Romano, el Gran Circus Maximus y los campamentos están en la 

@@ -19,7 +19,7 @@ de Viena con vuestras mejores amigas, explorando el Freihausviertel, el
 Karmeliterviertel y el Sonnwendviertel, tres sorprendentes grätzel (barrios) con pocos 
 turistas y muchas razones para querer, irremediablemente, vivir en ellos. 
 
-![Manuela Torres con sus deliciosos bombones veganos y kosher, perfecto para un viaje a viena con amigas](https://fotos.etheriamagazine.com/2024/04/viena-Manuela-Torres-850x604.jpg "Manuela Torres con sus deliciosos bombones veganos y kosher. © Yolanda Cardo")
+![Manuela Torres con sus deliciosos bombones veganos y kosher, perfecto para un viaje a viena con amigas](https://fotos.etheriamagazine.com/2024/04/viena-Manuela-Torres.jpg "Manuela Torres con sus deliciosos bombones veganos y kosher. © Yolanda Cardo")
 
 Viena tiene un total de 23 distritos conformados a su vez por distintos grätzel, cada 
 uno con su historia e identidad. El primer distrito, el **Innere Stadt**, es el que 
@@ -54,7 +54,7 @@ galerías de arte, coquetas negocios de moda y decoración y pequeñas salas de 
 vuestro uso y 
 disfrute](https://etheriamagazine.com/2022/07/07/que-hacer-en-viena-con-amigas/). 
 
-![Un pequeño cine de barrio del Freihausviertel.](https://fotos.etheriamagazine.com/2024/04/viena-cine-Freihausviertel-850x559.jpg "Un pequeño cine de barrio del Freihausviertel. © Yolanda Cardo")
+![Un pequeño cine de barrio del Freihausviertel.](https://fotos.etheriamagazine.com/2024/04/viena-cine-Freihausviertel.jpg "Un pequeño cine de barrio del Freihausviertel. © Yolanda Cardo")
 
 ### Porcelana fina (y adictiva) y una mujer con una misión
 
@@ -68,7 +68,7 @@ exterior. Las delicadas formas y la gama de colores de sus colecciones son senci
 irresistibles, tanto que se han convertido en clásicos que sus clientes no dejan de 
 pedir. 
 
-![Sandra Haischbeger crea delicadas piezas y vajillas de porcelana. Una tienda ideal para un viaje a viena con amigas](https://fotos.etheriamagazine.com/2024/04/viena-Sandra-Haischbeger-667x1000.jpg "Sandra Haischbeger crea delicadas piezas y vajillas de porcelana. © Yolanda C.")
+![Sandra Haischbeger crea delicadas piezas y vajillas de porcelana. Una tienda ideal para un viaje a viena con amigas](https://fotos.etheriamagazine.com/2024/04/viena-Sandra-Haischbeger.jpg "Sandra Haischbeger crea delicadas piezas y vajillas de porcelana. © Yolanda C.")
 
 No lejos de allí, en un pequeño local de la Kettenbrückengasse, **Susa Kreuzberger** 
 diseña y confecciona su propia línea de ropa, _Madame with a mission_, exclusivamente 
@@ -76,7 +76,7 @@ con tejidos naturales. Prendas únicas, sofisticadas y minimalistas, de gran cal
 cierta pátina punki, reminiscencia de su pasado transgresor, rebelde e inconformista. 
 Una gran dama con una gran misión: “Mantenlo simple y sofisticado”. 
 
-![La diseñadora Susa Kreuzberge](https://fotos.etheriamagazine.com/2024/04/viena-diseaadora-Susa-Kreuzberger-850x549.jpg "La diseñadora Susa Kreuzberger, una Madame with a mission. © Yolanda Cardo")
+![La diseñadora Susa Kreuzberge](https://fotos.etheriamagazine.com/2024/04/viena-diseaadora-Susa-Kreuzberger.jpg "La diseñadora Susa Kreuzberger, una Madame with a mission. © Yolanda Cardo")
 
 ### Apuntes gastronómicos
 
@@ -91,7 +91,7 @@ tienda-restaurante **Meinklang Hofladen**, en Margaretenstrasse 58. El local se 
 mayormente de productos (carnes, frutas, verduras, productos lácteos o embutidos) de la 
 granja Meinklang, en Neusiedl am See, en el cercano estado de Burgenland. 
 
-![Vollpension, un acogedor café del Freihausviertel perfecto para un viaje a viena con amigas](https://fotos.etheriamagazine.com/2024/04/viena-Vollpension-850x582.jpg "Vollpension, un acogedor café del Freihausviertel. © Yolanda Cardo")
+![Vollpension, un acogedor café del Freihausviertel perfecto para un viaje a viena con amigas](https://fotos.etheriamagazine.com/2024/04/viena-Vollpension.jpg "Vollpension, un acogedor café del Freihausviertel. © Yolanda Cardo")
 
 ## Karmeliterviertel, un crisol cultural
 
@@ -106,7 +106,7 @@ donde estaban las sinagogas que fueron destruidas en aquellos trágicos sucesos.
 toda esta red de memoria colectiva florecen **coloridos murales** que artistas 
 grafiteros imprimen en los edificios durante el festival de Street art Calle Libre. 
 
-![Mural de Cesar Bahamonte en el Karmeliterviertel.](https://fotos.etheriamagazine.com/2024/04/viena-Mural-Cesa-Bahamonte-Karmeliterviertel-850x567.jpg "Mural de César Bahamonte en el Karmeliterviertel. © Yolanda Cardo")
+![Mural de Cesar Bahamonte en el Karmeliterviertel.](https://fotos.etheriamagazine.com/2024/04/viena-Mural-Cesa-Bahamonte-Karmeliterviertel.jpg "Mural de César Bahamonte en el Karmeliterviertel. © Yolanda Cardo")
 
 ### Vino, chocolates y un mercado con mucho ambiente
 
@@ -119,7 +119,7 @@ faltan referencias españolas de Vilafranca del Penedès o Toledo. La empresaria
 cofundadora de **Female Wine Collectivo**, una red de mujeres vinculadas al vino nacido 
 de la necesidad de crear un espacio seguro y tener visibilidad. 
 
-![Claire Yuna es la propietaria de Vinifero Weinbar, un local ideal para un viaje a viena con amigas](https://fotos.etheriamagazine.com/2024/04/viena-Claire-Yuna-Wine-Collective-850x567.jpg "Claire Yuna es la propietaria de Vinifero Weinbar y cofundadora del Female Wine Collective. © Yolanda Cardo")
+![Claire Yuna es la propietaria de Vinifero Weinbar, un local ideal para un viaje a viena con amigas](https://fotos.etheriamagazine.com/2024/04/viena-Claire-Yuna-Wine-Collective.jpg "Claire Yuna es la propietaria de Vinifero Weinbar y cofundadora del Female Wine Collective. © Yolanda Cardo")
 
 El Karmelitermarkt es el corazón del barrio. En esta animada plaza encontraréis 
 variopintos puestos con frutas, flores, quesos, embutidos o verduras, pero también un 
@@ -131,7 +131,7 @@ cemento armado, construidas en la Segunda Guerra Mundial como defensa antiaérea
 forman parte de estos bellos jardines, que se encuentran entre los más antiguos de la 
 ciudad. 
 
-![El Karmelitermarkt es el corazón del barrio judío.](https://fotos.etheriamagazine.com/2024/04/viena-Karmelitermarkt-850x551.jpg "El Karmelitermarkt es el corazón del barrio judío. © Yolanda Cardo")
+![El Karmelitermarkt es el corazón del barrio judío.](https://fotos.etheriamagazine.com/2024/04/viena-Karmelitermarkt.jpg "El Karmelitermarkt es el corazón del barrio judío. © Yolanda Cardo")
 
 ## Sonnwendviertel, el barrio de futuro y de los proyectos colaborativos
 
@@ -143,7 +143,7 @@ histórica pasión por la cultura de los vieneses pero desde un perspectiva demo
 alejada de los grandes salones. Y lo hace desde el **Belvedere 21**, la sede de arte 
 austriaco contemporáneo del palacio del mismo nombre. 
 
-![Christiane Erharter, curadora del Belvedere 21.](https://fotos.etheriamagazine.com/2024/04/viena-Christiane-Erharter-Belvedere-850x567.jpg "Christiane Erharter, curadora del Belvedere 21. © Yolanda Cardo")
+![Christiane Erharter, curadora del Belvedere 21.](https://fotos.etheriamagazine.com/2024/04/viena-Christiane-Erharter-Belvedere.jpg "Christiane Erharter, curadora del Belvedere 21. © Yolanda Cardo")
 
 El museo se encuentra muy próximo al **Sonnwendviertel**, un barrio que comenzó a 
 construirse a principios del siglo XXI sobre una antigua zona ferroviaria. Ahora es un 
@@ -152,7 +152,7 @@ vecinales entre los que destaca el Gleis 21, un edificio de viviendas que tambi�
 espacio comunitario y cultural donde se imparten talleres, cursos de cocina o se 
 celebran conciertos. 
 
-![Zonas verdes del barrio Sonnwendviertel.](https://fotos.etheriamagazine.com/2024/04/viena-zona-verdes-Sonnwendviertel-850x567.jpg "Zonas verdes del barrio Sonnwendviertel. © Yolanda Cardo")
+![Zonas verdes del barrio Sonnwendviertel.](https://fotos.etheriamagazine.com/2024/04/viena-zona-verdes-Sonnwendviertel.jpg "Zonas verdes del barrio Sonnwendviertel. © Yolanda Cardo")
 
 ### Un alojamiento original y una gran zona verde
 
@@ -168,7 +168,7 @@ modernos bloques de edificios y aderezado con instalaciones deportivas, zonas
 infantiles, cafeterías y terrazas donde disfrutar del _skyline_ de la Viena más 
 futurista. 
 
-![Daniela Gegenbauer en una de las habitaciones de Wiener Gastezimmer.](https://fotos.etheriamagazine.com/2024/04/Daniela-Gegenbauer-en-una-de-las-habitaciones-de-Wiener-Gastezimmer-©-Yolanda-Cardo-850x567.jpg "Daniela Gegenbauer en una de las habitaciones de Wiener Gastezimmer. © Yolanda Cardo")
+![Daniela Gegenbauer en una de las habitaciones de Wiener Gastezimmer.](https://fotos.etheriamagazine.com/2024/04/Daniela-Gegenbauer-en-una-de-las-habitaciones-de-Wiener-Gastezimmer-©-Yolanda-Cardo.jpg "Daniela Gegenbauer en una de las habitaciones de Wiener Gastezimmer. © Yolanda Cardo")
 
 ## Guía práctica Etheria Magazine
 

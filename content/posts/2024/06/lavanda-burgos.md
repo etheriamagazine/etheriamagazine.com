@@ -15,7 +15,7 @@ otros rincones en la geografía nacional donde su color teñirá tu mirada de vi
 eres de las que huyen de las multitudes, este año acércate a los campos de lavanda de 
 Burgos, en el entorno de los pintorescos pueblos de Caleruega y Cilleruelo de Arriba. 
 
-![Campos de lavanda de Caleruega al anochecer.](https://fotos.etheriamagazine.com/2024/06/Caleruega-campos-lavanda-850x567.jpg "Campos de lavanda de Caleruega al anochecer.")
+![Campos de lavanda de Caleruega al anochecer.](https://fotos.etheriamagazine.com/2024/06/Caleruega-campos-lavanda.jpg "Campos de lavanda de Caleruega al anochecer.")
 
 Las citas florales se han puesto de moda en los últimos años y todas asumimos que 
 visitaremos, entre la muchedumbre, preciosos campos de lavanda, de cerezos, 
@@ -34,7 +34,7 @@ que tendrá lugar en Caleruega aprovechando el reclamo de la floración de la la
 te viene mejor acudir el 3 y 4 de agosto, la **Fiesta de la Cosecha de la Lavanda** será 
 en Cilleruelo. 
 
-![Amanecer en los campos de lavanda de Caleruega](https://fotos.etheriamagazine.com/2024/06/Campos-lavanda-Caleruega-850x567.jpg "El amanecer y el atardecer son los momentos más agradables para visitar los campos de lavanda de Caleruega.")
+![Amanecer en los campos de lavanda de Caleruega](https://fotos.etheriamagazine.com/2024/06/Campos-lavanda-Caleruega.jpg "El amanecer y el atardecer son los momentos más agradables para visitar los campos de lavanda de Caleruega.")
 
 ## Caleruega, uno de ‘Los pueblos más bonitos de España’
 
@@ -63,7 +63,7 @@ Los amantes del enoturismo encontrarán buen vino y grandes bodegas, muchas de e
 encanto tradicional. La preferida de muchos es una cueva-bodega horadada en la roca por 
 los romanos, en el despoblado San Martín de Bañuelos. 
 
-![Vista de Caleruega desde los campos de lavanda.](https://fotos.etheriamagazine.com/2024/06/Vistas-Caleruega-lavanda-850x567.jpg "Vista de Caleruega desde los campos de lavanda.")
+![Vista de Caleruega desde los campos de lavanda.](https://fotos.etheriamagazine.com/2024/06/Vistas-Caleruega-lavanda.jpg "Vista de Caleruega desde los campos de lavanda.")
 
 ### Eventos y festivales en Caleruega
 
@@ -85,7 +85,7 @@ La inmersión en los campos de lavanda será total, ya que los asistentes podrá
 sesiones de fotografía especializadas para aprender a sacar el máximo partido a la 
 belleza de la floración. 
 
-![Paseo entre las hileras de lavanda.](https://fotos.etheriamagazine.com/2024/06/aire-arlanza-lavanda-850x543.jpg "Paseo entre las hileras de lavanda. © Aire de Arlanza")
+![Paseo entre las hileras de lavanda.](https://fotos.etheriamagazine.com/2024/06/aire-arlanza-lavanda.jpg "Paseo entre las hileras de lavanda. © Aire de Arlanza")
 
 ## Cilleruelo de Arriba, relax entre la lavanda
 
@@ -105,7 +105,7 @@ la lavanda como protagonista y escenario. Desde sesiones de yoga entre lavandas 
 julio y 3, 10 y 17 de agosto) a un taller de fotografía infantil (20 y 27 de julio) o 
 simplemente un paseo para perderse entre las infinitas hileras de flores. 
 
-![Talleres con lavanda en Cilleruelo.](https://fotos.etheriamagazine.com/2024/06/Talleres-lavanda-Aire-Arlanza-850x638.jpg "Talleres con lavanda en Cilleruelo. © Aire de Arlanza")
+![Talleres con lavanda en Cilleruelo.](https://fotos.etheriamagazine.com/2024/06/Talleres-lavanda-Aire-Arlanza.jpg "Talleres con lavanda en Cilleruelo. © Aire de Arlanza")
 
 ### Fiesta de la Cosecha de la Lavanda
 
@@ -124,7 +124,7 @@ hidratantes, perfumes, jabones… Todas las actividades requieren de reserva pre
 609 923 363. Reducir el estrés y la ansiedad entre los campos de lavanda de [Burgos](https://turismoburgos.org/) 
 nunca ha sido tan agradable, ¿no crees? 
 
-![Visita a la destilería Aromáticas Cynol.](https://fotos.etheriamagazine.com/2024/06/visita-aromaticas-cynol-850x500.jpg "Visita a la destilería Aromáticas Cynol.")
+![Visita a la destilería Aromáticas Cynol.](https://fotos.etheriamagazine.com/2024/06/visita-aromaticas-cynol.jpg "Visita a la destilería Aromáticas Cynol.")
 
 **También en Etheria Magazine** 
 

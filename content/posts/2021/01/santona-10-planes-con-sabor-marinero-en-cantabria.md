@@ -56,7 +56,7 @@ baluarte litoral, entre los mejores del país, recorriendo su interior de piedra
 sillería distribuido alrededor de un gran patio, pues se ha reconvertido en centro 
 cultural. 
 
-![Santoña goza de una gran tradición conservera.](https://fotos.etheriamagazine.com/2021/01/conservas-santona-656x1024.jpg "Santoña goza de una gran tradición conservera.")
+![Santoña goza de una gran tradición conservera.](https://fotos.etheriamagazine.com/2021/01/conservas-santona.jpg "Santoña goza de una gran tradición conservera.")
 
 ## 3\. La gran vía santoñesa
 
@@ -80,7 +80,7 @@ plena de la bahía y de la marisma. El edificio en su interior invita a conocer 
 valores naturales, pues acoge el **Centro de Interpretación de las Marismas de Santoña, 
 Victoria y Joyel.** 
 
-![monumento juan de la cosa](https://fotos.etheriamagazine.com/2021/01/marino-san-juan-de-la-cosa-santona-681x1024.jpg "Monumento al marino Juan de la Cosa.")
+![monumento juan de la cosa](https://fotos.etheriamagazine.com/2021/01/marino-san-juan-de-la-cosa-santona.jpg "Monumento al marino Juan de la Cosa.")
 
 ## 5\. El marino más famoso
 
@@ -111,7 +111,7 @@ título **‘En memoria 8-7-36’**. No obstante, en las inmediaciones de este �
 un local comercial recuerda con un azul brillante y gaviotas en vuelo el **alma 
 marinera** que guía la historia santoñesa. 
 
-![La anchoa, el producto más valorado de Santoña.](https://fotos.etheriamagazine.com/2021/01/anchoa-artesanal-santona-cantabria-683x1024.jpg "La anchoa, el producto más valorado de Santoña.")
+![La anchoa, el producto más valorado de Santoña.](https://fotos.etheriamagazine.com/2021/01/anchoa-artesanal-santona-cantabria.jpg "La anchoa, el producto más valorado de Santoña.")
 
 ## 7\. A la rica anchoa de Santoña
 

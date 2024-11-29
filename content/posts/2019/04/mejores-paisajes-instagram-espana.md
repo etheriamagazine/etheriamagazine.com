@@ -16,7 +16,7 @@ original o quieres sorprender a tus seguidores de Instagram. Digamos que los 'li
 cualquiera de estos 7 mágicos parajes, que se encuentran entre los mejores paisajes de 
 España, están asegurados. 
 
-![mujer caminando en las Bardenas reales](https://fotos.etheriamagazine.com/2019/04/bardenas-reales-navarra-chica-683x1024.jpg "Paseo por el singular paisaje de las Bardenas Reales en Navarra.")
+![mujer caminando en las Bardenas reales](https://fotos.etheriamagazine.com/2019/04/bardenas-reales-navarra-chica.jpg "Paseo por el singular paisaje de las Bardenas Reales en Navarra.")
 
 Si te gusta la fotografía –o te estás comenzando a aficionar gracias a las aplicaciones 
 móviles–, te sugerimos que visites estos paisajes a distintas horas del día e incluso en 
@@ -112,7 +112,7 @@ oxígeno. Una circunstancia que incluso ha estudiado la NASA.
 
 ![minas riotinto](https://fotos.etheriamagazine.com/2019/04/huelva-riotinto.jpg "Minas de Riotinto. © Fotolia Premium/ Adobe Stock")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Qué ver en España, 12 guías básicas para tus 
 vacaciones](https://etheriamagazine.com/2023/04/04/guias-que-ver-espana/) 

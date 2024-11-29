@@ -52,8 +52,8 @@ Samaria) y hay un evidente carácter narrativo, propio de estas obras religiosas
 
 !['Cristo y la samaritana' de Duccio di Buoninsegna](https://fotos.etheriamagazine.com/2022/10/thyssen-cristo-samaritana-2.jpg "'Cristo y la samaritana' de Duccio di Buoninsegna.")
 
-? Toma nota: En 1771 el altar del que forma parte esta obra se desmembró. Algunas de sus 
-piezas pasaron a colecciones privadas como ésta que paso por varias manos antes de 
+📌 Toma nota: En 1771 el altar del que forma parte esta obra se desmembró. Algunas de 
+sus piezas pasaron a colecciones privadas como ésta que paso por varias manos antes de 
 llegar al museo Thyssen-Bornemisza. 
 
 ### 'Retrato de Giovanna degli Albizzi' de Domenico Ghirladaio (1489-1490)
@@ -68,9 +68,9 @@ de rasgos idealizados.
 
 !['Retrato de Giovanna degli Albizzi' de Domenico Ghirladaio](https://fotos.etheriamagazine.com/2022/10/thyssen-retrato-giovanna-tornabuoni.jpg "'Retrato de Giovanna degli Albizzi' de Domenico Ghirladaio.")
 
-? Toma nota: No te quedes solo en la contemplación del perfil de Giovanna degli Albizzi. 
-Presta atención a la hornacina situada detrás, con objetos personales como un broche y 
-un libro que hacen alusión a sus gustos. 
+📌 Toma nota: No te quedes solo en la contemplación del perfil de Giovanna degli 
+Albizzi. Presta atención a la hornacina situada detrás, con objetos personales como un 
+broche y un libro que hacen alusión a sus gustos. 
 
 ### 'Joven caballero en un paisaje' de Vittore Carpaccio (hacia 1505)
 
@@ -84,7 +84,7 @@ aparecen representados.
 
 !['Joven caballero en un paisaje' de Vittore Carpaccio](https://fotos.etheriamagazine.com/2022/10/thyssen-Vittore_Joven-caballero-en-un-paisaje_82-1935.3-2.jpg "'Joven caballero en un paisaje' de Vittore Carpaccio.")
 
-? Toma nota: Sobre la obra hay varias controversias. La primera fue la de del autor, ya 
+📌 Toma nota: Sobre la obra hay varias controversias. La primera fue la de del autor, ya 
 que fue erróneamente atribuida a Durero hasta 1919, y la segunda sobre la persona 
 retratada. Existen diversas teorías, la última de ellas apunta al militar veneciano 
 Marco Gabriel. 
@@ -101,7 +101,7 @@ de la luz y los volúmenes que dan lugar a los característicos claroscuros del 
 
 !['Santa Catalina de Alejandría' de Caravaggio](https://fotos.etheriamagazine.com/2022/10/thyssen-Santa-Catalina-de-Alejandría_81-1934.37_FOTOH_DespuesRest_0.jpg "'Santa Catalina de Alejandría' de Caravaggio.")
 
-? Toma nota: Como curiosidad, en este lienzo el foco de luz se encuentra a la derecha, 
+📌 Toma nota: Como curiosidad, en este lienzo el foco de luz se encuentra a la derecha, 
 algo poco frecuente en el autor. Esto parece indicar que se creó teniendo en cuenta el 
 lugar donde iba a estar expuesta. 
 
@@ -119,7 +119,7 @@ formación.
 
 !['El Gran Canal desde San Vío', Venecia de Canaletto](https://fotos.etheriamagazine.com/2022/10/thyssen-gran-canal-desde-san-vio-venecia.jpg "'El Gran Canal desde San Vío', Venecia de Canaletto.")
 
-?Toma nota: Es un cuadro lleno de detalles y merece la pena fijarse en algunos como la 
+📌Toma nota: Es un cuadro lleno de detalles y merece la pena fijarse en algunos como la 
 mujer tendiendo la ropa en primer plano o en el deshollinador. 
 
 ### 'Venus y Cupido' de Peter Paul Rubens (hacia 1606-1611)
@@ -131,7 +131,7 @@ su dominio del color y en su característico refinamiento.
 
 !['Venus y Cupido' de Peter Paul Rubens](https://fotos.etheriamagazine.com/2022/10/thyssen-venus-cupido.jpg "'Venus y Cupido' de Peter Paul Rubens.")
 
-? Toma nota: Esta obra es una de las copias que el artista realizó de Tiziano. Hay que 
+📌 Toma nota: Esta obra es una de las copias que el artista realizó de Tiziano. Hay que 
 prestar atención a dos detalles singulares: el brazalete de perlas y el anillo en el 
 meñique de la Venus representada, que también estaban en la obra de Tiziano. 
 
@@ -147,7 +147,7 @@ escena y la utilización de la luz y el color.
 
 ![‘Mar en calma’ de Claude-Joseph Vernet](https://fotos.etheriamagazine.com/2022/10/thyssen-mar-calma.jpg "‘Mar en calma’ de Claude-Joseph Vernet.")
 
-? Toma nota: Vernet pintaba en ocasiones cuadros en parejas, representando el mismo mar 
+📌 Toma nota: Vernet pintaba en ocasiones cuadros en parejas, representando el mismo mar 
 con tormenta y en calma, y éste pertenece a una de estas parejas. El otro cuadro, que 
 también es de la colección, no está expuesto en este momento. 
 
@@ -161,7 +161,7 @@ para transmitir sentimientos a través de expresiones sencillas.
 
 !['Autorretrato con gorra y dos cadenas' de Rembrandt](https://fotos.etheriamagazine.com/2022/10/thyssen-autorretrato-gorra-dos-cadenas.jpg "'Autorretrato con gorra y dos cadenas' de Rembrandt.")
 
-? Toma nota: Durante muchos años se dudó de la autoría de Rembrandt de esta tabla y 
+📌 Toma nota: Durante muchos años se dudó de la autoría de Rembrandt de esta tabla y 
 algunos autores determinaron que pertenecía a alguno de sus discípulos. Tras varios 
 análisis la obra se ha atribuido definitivamente al genial pintor holandés. 
 
@@ -176,9 +176,9 @@ de movimiento de la obra. Detrás, varias bailarinas vestidas de naranja esperan
 turno. Es un instante fugaz de la realidad representada, el momento de una actuación en 
 el que no se ve al público. 
 
-!['Bailarina basculando (Bailarina verde)' de Edgar Degas](https://fotos.etheriamagazine.com/2022/10/thyssen-bailarina-basculando-bailarina-verde-573x1024.jpg "'Bailarina basculando (Bailarina verde)' de Edgar Degas.")
+!['Bailarina basculando (Bailarina verde)' de Edgar Degas](https://fotos.etheriamagazine.com/2022/10/thyssen-bailarina-basculando-bailarina-verde.jpg "'Bailarina basculando (Bailarina verde)' de Edgar Degas.")
 
-? Toma nota: para captar un momento concreto, Degas pintaba con sus habituales trazos 
+📌 Toma nota: para captar un momento concreto, Degas pintaba con sus habituales trazos 
 rápidos que son posibles gracias a la técnica de la pintura pastel. 
 
 ### 'Les Vessenots en Auvers' de Vicent van Gogh (1890)
@@ -192,9 +192,9 @@ la vez sensación de libertad y de soledad y melancolía.
 
 !['Les Vessenots en Auvers' de Vicent van Gogh](https://fotos.etheriamagazine.com/2022/10/thyssen-Vincent-van-gogh-Les-Vessenots-en-Auvers_559-1978.41_0.jpg "'Les Vessenots en Auvers' de Vicent van Gogh.")
 
-? Toma nota: en sus últimos meses de vida Vicent van Gogh se instaló en Auvers-sur-Oise, 
-lugar elegido también por otros artistas contemporáneos. Aquí se dedicó a pintar sin 
-descanso los paisajes que le rodeaban. 
+📌 Toma nota: en sus últimos meses de vida Vicent van Gogh se instaló en 
+Auvers-sur-Oise, lugar elegido también por otros artistas contemporáneos. Aquí se dedicó 
+a pintar sin descanso los paisajes que le rodeaban. 
 
 ### 'El puente de Waterloo' de André Derain (1906)
 
@@ -208,9 +208,9 @@ de impresionistas y postimpresionista, aportando un toque provocador.
 
 !['El puente de Waterloo' de André Derain](https://fotos.etheriamagazine.com/2022/10/thyssen-puente-waterloo.jpg "'El puente de Waterloo' de André Derain.")
 
-? Toma nota: El pintor elige tonalidades frías para representar el clima londinenses. El 
-cuadro es una auténtica explosión de color, que sirve no tanto para plasmar la luz, sino 
-para reflejar las emociones. 
+📌 Toma nota: El pintor elige tonalidades frías para representar el clima londinenses. 
+El cuadro es una auténtica explosión de color, que sirve no tanto para plasmar la luz, 
+sino para reflejar las emociones. 
 
 ### 'El sueño' de Franz Marc (1912)
 
@@ -223,7 +223,7 @@ intelectual y el amarillo lo femenino y sensual.
 
 !['El sueño' de Franz Marc](https://fotos.etheriamagazine.com/2022/10/thyssen-sueno.jpg "'El sueño' de Franz Marc.")
 
-? Toma nota: Franz Marc comenzó formando parte del grupo 'Der Blaue Reiter' junto con 
+📌 Toma nota: Franz Marc comenzó formando parte del grupo 'Der Blaue Reiter' junto con 
 Kandinsky pero, a diferencia de él, no rompió con la realidad visual. En su obra se 
 puede ver también la influencia de los futuristas italianos y de Paul Gauguin. 
 
@@ -239,9 +239,9 @@ que se puede ver en otras obras del artista.
 
 !['Sueño causado por el vuelo de una abeja alrededor de una granada un segundo antes de despertar' de Salvador Dalí](https://fotos.etheriamagazine.com/2022/10/thyssen-sueno-causado-vuelo-abeja-alrededor-granada-segundo-antes-despertar.jpg "'Sueño causado por el vuelo de una abeja alrededor de una granada un segundo antes de despertar' de Salvador Dalí.")
 
-? Toma nota: esta obra es una de las pocas que pintó Dalí en Estados Unidos, donde vivió 
-de 1941 a 1948. En este período se dedicó más a otras actividades relacionadas con el 
-mundo del cine y la publicidad. 
+📌 Toma nota: esta obra es una de las pocas que pintó Dalí en Estados Unidos, donde 
+vivió de 1941 a 1948. En este período se dedicó más a otras actividades relacionadas con 
+el mundo del cine y la publicidad. 
 
 ### 'Habitación de hotel' de Edward Hopper (1931)
 
@@ -256,7 +256,7 @@ provoca un fuerte contraste de luces y sombras.
 
 !['Habitación de hotel' de Edward Hopper](https://fotos.etheriamagazine.com/2022/10/thyssen-habitacion-hotel.jpg "'Habitación de hotel' de Edward Hopper. ©Herederos de Josephine Hopper /Cortesía de ARS (Artist Rights Society), VEGAP, Madrid")
 
-? Toma nota: tanto el encuadre de la figura, que aparece con los pies cortados, como la 
+📌 Toma nota: tanto el encuadre de la figura, que aparece con los pies cortados, como la 
 perspectiva ascendente llevan a ver una cierta influencia de algunos cuadros de Degas. 
 ¿Recuerdas la ‘Bailarina basculando’ de la que hemos hablado antes? 
 
@@ -270,7 +270,7 @@ joven, que contrastan con las fría cuadrícula de los azulejos del baño.
 
 !['Mujer en el baño' de Roy Lichtenstein](https://fotos.etheriamagazine.com/2022/10/thyssen-mujer-bano.jpg "'Mujer en el baño' de Roy Lichtenstein.")
 
-? Toma nota: la técnica de los puntos benday que utiliza Lichtenstein es con la que se 
+📌 Toma nota: la técnica de los puntos benday que utiliza Lichtenstein es con la que se 
 imprimían los cómics del momento (él la realizaba a mano) y la utiliza como una forma de 
 rebelarse contra las formas y texturas de sus predecesores abstractos. 
 
@@ -308,7 +308,7 @@ a 16 h.
 
 En la web del [Museo Thyssen-Bornemisza](https://www.museothyssen.org/). 
 
-? **También te puede interesar:** 
+📍 **También te puede interesar:** 
 
 [10 apps de museos que deberías 
 descargarte](https://etheriamagazine.com/2019/01/05/10-apps-de-museos-espanoles/) 

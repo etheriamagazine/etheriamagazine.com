@@ -152,7 +152,7 @@ símbolo de la barbarie de la guerra civil española.
 
 Fotografías cedidas por [www.universolorca.com](http://www.universolorca.com) 
 
-?**También te puede interesar...** 
+📍**También te puede interesar...** 
 
 [Recorrido cultural por el Albaicín y La 
 Alhambra](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/). 
@@ -166,7 +166,7 @@ familia](https://etheriamagazine.com/2020/11/22/tadeo-jones-ruta-de-cine-en-gran
 [Cómo visitar La 
 Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/). 
 
-?**Visitas guiadas en Granada** 
+📍**Visitas guiadas en Granada** 
 
 Si es la primera vez que visitas Granada te pueden interesar estas visitas: [Free tour 
 nocturno en 

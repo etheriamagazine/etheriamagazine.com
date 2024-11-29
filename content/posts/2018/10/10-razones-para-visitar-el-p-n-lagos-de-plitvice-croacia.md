@@ -35,7 +35,7 @@ visitar tanto si se viaja a **Zagreb** como si te alojas en las preciosas ciudad
 **Zadar**, Split o **Sibenik**, en la Dalmacia Central. Si haces clic en los enlaces 
 tendrás de un vistazo todo lo que te puedes encontrar en estos lugares. 
 
-![Otoño en los Lagos de Plitvice.](https://fotos.etheriamagazine.com/2018/10/lagos-de-plitvice-croacia-1024x683.jpg "Otoño en los Lagos de Plitvice.")
+![Otoño en los Lagos de Plitvice.](https://fotos.etheriamagazine.com/2018/10/lagos-de-plitvice-croacia.jpg "Otoño en los Lagos de Plitvice.")
 
 ## 2\. Tiene 16 lagos comunicados entre sí
 
@@ -47,7 +47,7 @@ Aunque se visite en varios ocasiones este lugar nunca veremos el mismo parque ni
 mismos lagos. Los colores de la primavera, del verano, del otoño o el invierno, se 
 reflejan en las masas lacustres creando imágenes totalmente oníricas. 
 
-![parque nacional lagos plitvice](https://fotos.etheriamagazine.com/2018/10/plitvicka-jezera-1024x683.jpg "16 lagos a distintas alturas y comunicados entre sí.")
+![parque nacional lagos plitvice](https://fotos.etheriamagazine.com/2018/10/plitvicka-jezera.jpg "16 lagos a distintas alturas y comunicados entre sí.")
 
 ## 3\. Porque puedes caminar sobre el agua
 
@@ -56,7 +56,7 @@ entorno sin dañarlo. En este parque se puede caminar "sobre el agua" o entre lo
 gracias a las pasarelas que atraviesan el parque y que permiten cruzar de una orilla a 
 otra o pasear por senderos entre bosques de pinos, hayas y abetos. 
 
-![Pasarelas en el P.N. Lagos de Plitvice.](https://fotos.etheriamagazine.com/2018/10/Pasarelas-plitvice-croacia-1024x683.jpg "Pasarelas en el P.N. Lagos de Plitvice.")
+![Pasarelas en el P.N. Lagos de Plitvice.](https://fotos.etheriamagazine.com/2018/10/Pasarelas-plitvice-croacia.jpg "Pasarelas en el P.N. Lagos de Plitvice.")
 
 ## 4\. Porque se puede conocer a pie, en tren o en barco
 
@@ -64,7 +64,7 @@ No es frecuente visitar parques donde se facilitan algunos traslados en tren pan
 o en barcos eléctricos. Merece la pena subir a los mismo no sólo para aliviar el 
 esfuerzo en los paseos sino también para disfrutar de nuevas perspectivas. 
 
-![Barco eléctrico en el P.N. de Plitvice (Croacia).](https://fotos.etheriamagazine.com/2018/10/barco-plitvice-croacia-1024x683.jpg "Barco eléctrico en el P.N. de Plitvice (Croacia).")
+![Barco eléctrico en el P.N. de Plitvice (Croacia).](https://fotos.etheriamagazine.com/2018/10/barco-plitvice-croacia.jpg "Barco eléctrico en el P.N. de Plitvice (Croacia).")
 
 ## 5\. Por sus leyendas oscuras
 
@@ -74,7 +74,7 @@ lagos en función de quienes se han ahogado en ellos. De este modo, encontramos 
 del Gitano, el de la Abuela, el del Pastor y el de las Cabras. En este último, que 
 corresponde con el lago mayor, dicen que perecieron 30 cabras que huían de los lobos. 
 
-![pasarela en el parque plitvice](https://fotos.etheriamagazine.com/2018/10/bosque-plitvicka-jezera-1024x683.jpg "Rincones misteriosos en el parque.")
+![pasarela en el parque plitvice](https://fotos.etheriamagazine.com/2018/10/bosque-plitvicka-jezera.jpg "Rincones misteriosos en el parque.")
 
 ## 6\. Por sus impresionantes cascadas
 
@@ -82,7 +82,7 @@ Cuenta con cataratas de todos los tamaños, desde algunas pequeñas que son casi
 hasta altas y estruendosas. En algunas de ellas el sendero transcurre por detrás, 
 salpica un poco pero merece mucho la pena. 
 
-![parque lagos de plitvice](https://fotos.etheriamagazine.com/2018/10/cascadas-lagos-plitvice-1024x683.jpg "Vista de las cascadas desde un plano superior.")
+![parque lagos de plitvice](https://fotos.etheriamagazine.com/2018/10/cascadas-lagos-plitvice.jpg "Vista de las cascadas desde un plano superior.")
 
 ## 7\. Por su fauna
 
@@ -91,7 +91,7 @@ variedad de fauna (más de 259 especies). Entre ellas se encuentran unos 140 tip
 (algunas rapaces), mariposas (el 30% de todas las de Croacia viven aquí), peces en los 
 lagos (truchas, sobre todo), insectos, lagartos, ciervos y, también, osos y lobos. 
 
-![aves en el parque nacional de los lagos de plitvice](https://fotos.etheriamagazine.com/2018/10/fauna-plitvicka-jezera-1024x683.jpg "En este espacio viven más de 140 tipos de aves.")
+![aves en el parque nacional de los lagos de plitvice](https://fotos.etheriamagazine.com/2018/10/fauna-plitvicka-jezera.jpg "En este espacio viven más de 140 tipos de aves.")
 
 ## 8\. Por su variedad de flora
 
@@ -103,7 +103,7 @@ _Helleborus multifidus,_ el clavel croata o _Dianthus croaticus_ y la _Coridalis
 solida_. Si bien, las que realmente reclamarán nuestra atención serán las orquídeas 
 salvajes y las plantas carnívoras. 
 
-![flora de lagos de plitvice, viaje a croacia](https://fotos.etheriamagazine.com/2018/10/Plitvice-croacia-plitvicka-jezera-1024x683.jpg "El 30% de la flora croata se encuentra en el P.N. Lagos de Plitvice.")
+![flora de lagos de plitvice, viaje a croacia](https://fotos.etheriamagazine.com/2018/10/Plitvice-croacia-plitvicka-jezera.jpg "El 30% de la flora croata se encuentra en el P.N. Lagos de Plitvice.")
 
 ## 9\. Por su belleza en otoño
 
@@ -111,7 +111,7 @@ En la estación otoñal se puede disfrutar de este espacio casi en completa sole
 Recorrer sus senderos solos o con una visita guiada es una forma de entrar en comunión 
 con una naturaleza que muestra sus mejores galas cromáticas en estas fechas. 
 
-![cascada en los lagos de plitvice](https://fotos.etheriamagazine.com/2018/10/lagos-plitvice-croacia-1024x683.jpg "La naturaleza viste sus mejores galas en otoño.")
+![cascada en los lagos de plitvice](https://fotos.etheriamagazine.com/2018/10/lagos-plitvice-croacia.jpg "La naturaleza viste sus mejores galas en otoño.")
 
 ##  10. Porque puedes dormir en el parque
 
@@ -136,7 +136,7 @@ Trogir](https://www.civitatis.com/es/trogir/excursion-lagos-plitvice/?aid=10211)
 
 Fotos: © JU NP Plitvička jezera/ Pepa García 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Croacia: consejos y visitas imprescindibles para tu primer 
 viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/) 

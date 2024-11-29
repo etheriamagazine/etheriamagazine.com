@@ -109,7 +109,7 @@ ciudades más verdes de toda Austria. Casi la mitad de su superficie son espacio
 naturales. Recorrer sus jardines imperiales y parques públicos nos brinda una 
 sorprendente alternativa para conocerla. 
 
-?Nuestro consejo: dejaos seducir por la magnificencia de los jardines barrocos del 
+📍Nuestro consejo: dejaos seducir por la magnificencia de los jardines barrocos del 
 **palacio Schönbrunn** con sus largas avenidas de verdes setos, decoradas con estatuas y 
 fuentes; los del **Belvedere**, creados hacia el 1700 por el príncipe Eugenio de Saboya, 
 uno de los más importantes de Europa, o el **Augarten**, uno de los parques públicos más 
@@ -200,7 +200,7 @@ lugar perfecto para disfrutar de los calurosos días de verano en la capital aus
 
 #### Guía de Viena con amigas | Consejos útiles
 
-##### ?¿Dónde dormir en Viena?
+##### 📍¿Dónde dormir en Viena?
 
 La oferta hotelera en Viena es amplísima. Si vais a Viena con amigas podéis alojaros por 
 ejemplo en el confortable [ARCOTEL Kaiserwasser](https://kaiserwasser.arcotel.com/en/) 
@@ -210,7 +210,7 @@ más céntrico, junto al Barrio de los Museos se encuentra el [Hotel
 Gilbert](https://www.hotel-gilbert.at/), un cuatro estrellas familiar con habitaciones 
 desde 115 €. 
 
-##### ?¿Dónde comer en Viena?
+##### 📍¿Dónde comer en Viena?
 
 Por todo el centro de Viena encontraréis supermercados donde adquirir platos preparados, 
 fruta, bocadillos, ensaladas y bebidas. También podéis recargar pilas en alguno de sus 
@@ -218,12 +218,12 @@ cafés o disfrutar de la variada oferta gastronómica por ejemplo en el **Reznic
 cocina tradicional vienesa, con un toque de modernidad; o en el **Jola**, un restaurante 
 exclusivamente vegano que elabora sus platos con productos regionales y de temporada. 
 
-##### ?¿Cómo moverse en Viena?
+##### 📍¿Cómo moverse en Viena?
 
 Lo más recomendable es adquirir la **Vienna City Card** (desde 17 €) con la que podréis 
 viajar gratis en el trasporte público y obtener descuentos en museos y atracciones. 
 
-##### ?¿Dónde informarte de más datos prácticos para un viaje a Viena?
+##### 📍¿Dónde informarte de más datos prácticos para un viaje a Viena?
 
 Cualquier información necesaria para planificar vuestro viaje la encontraréis en la [web](https://www.wien.info/es) 
 oficial de **Turismo de Viena.** 

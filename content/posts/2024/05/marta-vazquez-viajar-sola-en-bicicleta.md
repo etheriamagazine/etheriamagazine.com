@@ -16,7 +16,7 @@ En esta sección de 'Proyectos con alma' narra en primera persona sus motivacion
 viajar de esta manera, y desde Etheria Magazine también os animamos a buscar las 
 vuestras. 
 
-![Marta Vázquez en bicicleta en uno de sus viajes.](https://fotos.etheriamagazine.com/2024/05/Marta-Vazquez-etheria-magazine-850x383.jpg "Marta Vázquez en uno de sus viajes.")
+![Marta Vázquez en bicicleta en uno de sus viajes.](https://fotos.etheriamagazine.com/2024/05/Marta-Vazquez-etheria-magazine.jpg "Marta Vázquez en uno de sus viajes.")
 
 Hasta el año 2015, tenía una vida de lo más normal, pero, después de pensarlo muchas 
 veces, decidí dejarlo todo y lanzarme a dar la vuelta al mundo en solitario. Tras las 
@@ -33,7 +33,7 @@ viaje, ya que me permitían conocer verdaderamente la cultura de los sitios visi
 **Once meses** después este periplo acabó de manera inesperada y con muchos países aún 
 en el tintero, pero de manera feliz. 
 
-![Marta Vázquez participa en las Jornadas iati de los Grandes Viajes 2024.](https://fotos.etheriamagazine.com/2024/05/Marta-Vazquez-etheria-magazine-3-850x567.jpg "Marta Vázquez participa en las Jornadas iati de los grandes viajes 2024.")
+![Marta Vázquez participa en las Jornadas iati de los Grandes Viajes 2024.](https://fotos.etheriamagazine.com/2024/05/Marta-Vazquez-etheria-magazine-3.jpg "Marta Vázquez participa en las Jornadas iati de los grandes viajes 2024.")
 
 ## Sin billete de vuelta
 
@@ -47,7 +47,7 @@ vez más lento, más conectado a la tierra, más sostenible y respetuoso con el
 medioambiente. Estando en Nueva Zelanda decidí que mi siguiente gran viaje sería en 
 bicicleta. 
 
-![Marta Vázquez en Estambul.](https://fotos.etheriamagazine.com/2024/05/marta-vazquez-viaje-bicicleta-666x1000.jpg "Marta Vázquez en Estambul.")
+![Marta Vázquez en Estambul.](https://fotos.etheriamagazine.com/2024/05/marta-vazquez-viaje-bicicleta.jpg "Marta Vázquez en Estambul.")
 
 ## ¡Por Piñones!, 8.000 km en bici para recaudar fondos
 
@@ -69,7 +69,7 @@ Durante ese tiempo pedaleé con calor y con frío y, aunque mi idea inicial era 
 la mayoría de las noches acabé siendo invitada a dormir en los sitios más variopintos, 
 desde escuelas a estaciones de bomberos y de un taller mecánico a un convento. 
 
-![Viajar en sola y en bicicleta, dos retos más que interesantes.](https://fotos.etheriamagazine.com/2024/05/Marta-vazquez-etheriamagazine-850x566.jpg "Viajar en sola y en bicicleta, dos retos más que interesantes.")
+![Viajar en sola y en bicicleta, dos retos más que interesantes.](https://fotos.etheriamagazine.com/2024/05/Marta-vazquez-etheriamagazine.jpg "Viajar en sola y en bicicleta, dos retos más que interesantes.")
 
 Fueron ocho meses en los que me enamoré perdidamente del viaje en bicicleta. La 
 velocidad más lenta, el esfuerzo físico que requiere, el contacto continuo con la 

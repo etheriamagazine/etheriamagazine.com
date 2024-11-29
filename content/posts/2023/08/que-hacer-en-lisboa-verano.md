@@ -133,7 +133,7 @@ Y si eres más de centros comerciales, acércate al **Centro Vasco da Gama**, **
 do Chiado** o al colosal **Colombo Shopping Centre**. Ninguno de ellos te dejará 
 indiferente. 
 
-![Tienda de libros de segunda mano en Lisboa](https://fotos.etheriamagazine.com/2023/08/tienda-lisboa-683x1024.jpg "En las tiendas de segunda mano de Lisboa se encuentran auténticas joyas. © Jean Carlo Eme")
+![Tienda de libros de segunda mano en Lisboa](https://fotos.etheriamagazine.com/2023/08/tienda-lisboa.jpg "En las tiendas de segunda mano de Lisboa se encuentran auténticas joyas. © Jean Carlo Eme")
 
 **También en Etheria Magazine:** 
 

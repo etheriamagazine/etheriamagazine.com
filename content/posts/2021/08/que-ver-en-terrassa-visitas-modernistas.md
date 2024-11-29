@@ -1,5 +1,5 @@
 ---
-title: "Modernismo en Terrassa, tres visitas que te sorprenderán"
+title: "Tres visitas modernistas en Terrassa que justifican una escapada"
 date: 2021-08-20
 coverImage: https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg
 categories: 
@@ -10,9 +10,15 @@ authors:
   - Pepa G. Marín
 ---
 
-Si eres una enamorada del Modernismo y quieres ampliar el círculo de visitas desde Barcelona, sigue leyendo para descubrir tres imprescindibles que tienes que ver en Terrassa. Allí te esperan la Masía Freixa, el 'Vapor Aymerich, Amat y Jover' (antigua fábrica convertida en museo) y la Casa Alegre de Sagrera, que no son de Gaudí ni falta que les hace.
+Si eres una enamorada del Modernismo y quieres ampliar el círculo de visitas desde 
+Barcelona, sigue leyendo para descubrir tres imprescindibles que tienes que ver en 
+Terrassa. Allí te esperan la Masía Freixa, el 'Vapor Aymerich, Amat y Jover' (antigua 
+fábrica convertida en museo) y la Casa Alegre de Sagrera, que no son de Gaudí ni falta 
+que les hace. 
 
 ![masia freixa terrassa barcelona](https://fotos.etheriamagazine.com/2021/08/masia-freixa-modernismo.jpg "Masía Freixa, en Terrassa. © Pepa García")
+
+Actualizado 8/2024 
 
 Probablemente no has escuchado hablar de la Masía Freixa, del 'Vapor Aymerich, Amat y 
 Jover' o de la Casa Alegre de Sagrera, e incluso iríamos más allá, ¿serías capaz de 
@@ -35,7 +41,7 @@ a finales del siglo XIX. Tampoco podemos dejar de destacar la figura de Lluís M
 un arquitecto que trabajó durante más de cuarenta años aportando su particular sello a 
 esta ciudad. 
 
-![masia freixa monumento que ver en terrassa](https://fotos.etheriamagazine.com/2021/08/masia-freixa-entrada-712x1024.jpg "Fachada principal de la Masía Freixa, en Terrassa. © Pepa García")
+![masia freixa monumento que ver en terrassa](https://fotos.etheriamagazine.com/2021/08/masia-freixa-entrada.jpg "Fachada principal de la Masía Freixa, en Terrassa. © Pepa García")
 
 ## La Masía Freixa
 
@@ -55,7 +61,7 @@ alguna pista del uso para el que fue concebido? Sí, claro, una de ellas son las
 ventanitas que están junto al suelo, por ahí se debía introducir el carbón a la 
 carbonera. 
 
-![minarete de la masia freixa](https://fotos.etheriamagazine.com/2021/08/masia-torre-freixa-683x1024.jpg "Minarete de la Masia Freixa. © Pepa García")
+![minarete de la masia freixa](https://fotos.etheriamagazine.com/2021/08/masia-torre-freixa.jpg "Minarete de la Masia Freixa. © Pepa García")
 
 Si desde lejos ya se intuye la influencia de Gaudí en la Masía Freixa, según te acercas 
 la primera impresión se confirma. Arcos, bóvedas, muros blancos (para ocultar el 
@@ -101,7 +107,7 @@ para elaborar los estampados de los tejidos.
 
 ![interior museo ciencia y tecnologia de terrassa](https://fotos.etheriamagazine.com/2021/08/mujeres-vapor-aymerich-terrassa.jpg "Interior y obreras del Vapor Aymerich, Amat y Jover, en Terrassa. © Pepa García")
 
-##### Descubre los usos y costumbres en las fábrica en el siglo XIX
+### Descubre los usos y costumbres en las fábrica en el siglo XIX
 
 Fíjate en las fotografías de los trabajadores y trabajadoras en sus puestos de trabajo, 
 el tipo de vestimenta que usaban, las frases que se exhibían por los espacios comunes 
@@ -126,8 +132,6 @@ del Museu](https://laterrassa.es/) a tomar algo o a comer porque desde su terraz
 divisan los tejados de la fábrica. Es un excelente lugar para hacerse una foto y también 
 para quedarse embelesado con las líneas de su cubierta. No está de más consultar en el 
 museo si tienen programadas visitas para caminar sobre las mismas. 
-
-Precios y horarios en este [enlace](https://visitaterrassa.cat/es/mnactec-2/). 
 
 ![Interior de la Casa Alegra de Sagrera](https://fotos.etheriamagazine.com/2021/08/Casa-Alegre-de-Sagrera-Terrassa-1.jpg "Interior de la Casa Alegre de Sagrera. © CC")
 
@@ -156,8 +160,6 @@ burguesa donde se mezclan distintas corrientes modernistas. En el comedor, por e
 se sitúan unas pinturas de Alexandre de Riquer, y en otras estancias colecciones de arte 
 oriental de Salvans, pinturas de Martínez Lozano, dibujos de Mateu Avellaneda, etc. 
 
-Precios y horarios en este [enlace](https://visitaterrassa.cat/es/casa-alegre-de-sagrera/). 
-
 ![Sala Salvans en la Casa Alegre de Sagrera](https://fotos.etheriamagazine.com/2021/08/sala-Salvans-casa-alegre-terrassa.jpg "Sala Salvans en la Casa Alegre de Sagrera. © CC")
 
 ## Más cosas que ver en Terrassa: el Mercado
@@ -168,30 +170,26 @@ arquitectura del hierro y que fue inaugurado en 1908. Los arquitectos responsabl
 esta gran obra fueron Antoni Pascual y Melcior Vinyals. Pasa al interior porque merece 
 la pena. 
 
-Si te quedas con ganas de seguir visitando lugares con rasgos modernistas, realiza [una 
-visita guiada](https://visitaterrassa.cat/es/un-paseo-por-el-modernismo-industrial/) que 
-te llevará por los principales sitios que tienes que ver en Terrassa. Algunos acogen 
-ahora restaurantes, tiendas o incluso dependencias municipales. Y si acudes a la ciudad 
-durante la [Feria 
+Si te quedas con ganas de seguir visitando lugares con rasgos modernistas, realiza una 
+visita guiada que te llevará por los principales sitios que tienes que ver en Terrassa. 
+Algunos acogen ahora restaurantes, tiendas o incluso dependencias municipales. Y si 
+acudes a la ciudad durante la [Feria 
 Modernista](https://www.femturisme.cat/es/agenda/feria-modernista-de-terraza), el 
 espectáculo con recreaciones y trajes de época es aún más sorprendente. 
 
-#### Barcelona Pass Modernista
+## Barcelona Pass Modernista
 
 Este bono incluye visitas a edificios modernistas tanto de Barcelona como de otras 
 ciudades cercanas, por lo que resulta muy conveniente: 
 
 **Barcelona**: Casa Amatller, Casa de les Punxes, Casa Vicens de Gaudí, Sant Pau Recinte 
 Modernista, Palau de la Música Catalana, Palauet Casades, Biblioteca Arús, Palau Baró de 
-Quadras, Casa Rocamora y Casa Felip. ? **Terrassa** (mNACTEC (Museo de la ciencia y la 
+Quadras, Casa Rocamora y Casa Felip. 📌 **Terrassa** (mNACTEC (Museo de la ciencia y la 
 técnica de Catalunya) y Casa Alegre de Sagrera. **Sitges**: Museo del Cau Ferrat y Museo 
 de MariCel. **Canet de Mar**: Casa Museu Domènech i Montaner. **Mataró**: Casa Coll i 
 Regàs. 
 
-? [Reserva tu BONO 
-modernista](https://www.civitatis.com/es/barcelona/barcelona-pass-modernista/?aid=10211). 
-
-### Sigue leyendo
+**También en Etheria Magazine** 
 
 [La cuna del Modernismo está en 
 Mataró](https://etheriamagazine.com/2020/10/14/excursion-desde-barcelona-modernismo-mataro/). 

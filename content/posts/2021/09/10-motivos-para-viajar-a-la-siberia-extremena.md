@@ -73,7 +73,7 @@ Peñas** (Helechosa de los Montes, apartamentoshelechosa.es) y desayunar a la ma
 siguiente unas contundentes **migas siberianas** con tasajo, pimientos secos fritos y 
 miel de la comarca. 
 
-![observacion aves siberia extremena](https://fotos.etheriamagazine.com/2021/09/observar-aves-Reserva-Biosfera-La-Siberia-683x1024.jpg "Observar aves, una actividad para toda la familia en la Reserva de la Biosfera La Siberia")
+![observacion aves siberia extremena](https://fotos.etheriamagazine.com/2021/09/observar-aves-Reserva-Biosfera-La-Siberia.jpg "Observar aves, una actividad para toda la familia en la Reserva de la Biosfera La Siberia")
 
 ### 4\. Observar aves
 
@@ -107,7 +107,7 @@ típica de sus once municipios.
 
 ![miel de la siberia extremena](https://fotos.etheriamagazine.com/2021/09/miel-Reserva-Biosfera-La-Siberia.jpg "La Siberia extremeña es uno de los mayores lugares de producción de miel.")
 
-? Restaurantes y direcciones de interés: en **Herrera del Duque** se encuentra _La 
+📌 Restaurantes y direcciones de interés: en **Herrera del Duque** se encuentra _La 
 Marina_ (con un solete Repsol), el _Mesón la Quinta Rueda_ con un rico escarapuche, el 
 menú del día del _restaurante Carlos I_ y los churros “regordos” de la _churrerría Since 
 1996_. No te marches sin probar las sepulturas, magdalenas de cajón o chaquetías de _La 

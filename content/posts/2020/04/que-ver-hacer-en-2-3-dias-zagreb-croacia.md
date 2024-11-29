@@ -13,7 +13,7 @@ authors:
 
 Si te gusta coleccionar capitales europeas, te invitamos a ampliar tu trayectoria viajera visitando la capital de Croacia. Reserva un fin de semana y sigue este listado con los imprescindibles en Zagreb para sacarle el máximo partido a tu tiempo. Es una ciudad universitaria, cultural, y con mucha vida que te sorprenderá.
 
-![Calle Tkalciceva la mas bonita de zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-croacia-zagreb-tkalciceva-street-900x590.jpg "Calle Tkalciceva, una de las más bonitas y vibrantes de Zagreb. © J.Duval/ Turismo Zagreb")
+![Calle Tkalciceva la mas bonita de zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-croacia-zagreb-tkalciceva-street.jpg "Calle Tkalciceva, una de las más bonitas y vibrantes de Zagreb. © J.Duval/ Turismo Zagreb")
 
 ```
 Actualizado febrero 2022
@@ -29,7 +29,7 @@ un buen punto de llegada para recorrer el resto del país. Si decides dar el sal
 Croacia durante dos o tres días hay algunas visitas imprescindibles en Zagreb que merece 
 la pena que tengas en cuenta. Te contamos nuestras diez favoritas. 
 
-![Catedral de Zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-vista-catedral-900x583.jpg "Vista de la Catedral de Zagreb desde la Ciudad Alta. © M. Gaaparovi/ Turismo Zagreb")
+![Catedral de Zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-vista-catedral.jpg "Vista de la Catedral de Zagreb desde la Ciudad Alta. © M. Gaaparovi/ Turismo Zagreb")
 
 ## Qué ver y hacer en Zagreb en 3 días
 
@@ -63,7 +63,7 @@ frente, tendrás la impresión de que la torre de la derecha es más alta que la
 izquierda, pero es una ilusión óptica, ya que Bollé quiso imitar la simetría de la 
 naturaleza. 
 
-![interior de la catedral zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-interior-catedral-900x600.jpg "Interior de la Catedral de Zagreb. © M. Vrdoljak/ Turismo Zagreb")
+![interior de la catedral zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-interior-catedral.jpg "Interior de la Catedral de Zagreb. © M. Vrdoljak/ Turismo Zagreb")
 
 ## 2\. Plaza e iglesia de San Marcos
 
@@ -77,11 +77,11 @@ por la presencia en el tejado del escudo de Croacia (con Dalmacia y Eslavonia) y
 izquierda el escudo de Zagreb. En su interior llaman la atención sus bóvedas, frescos y 
 cristaleras. 
 
-![iglesia de san marcos en zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-iglesia-san-marcos-853x1024.jpg "Iglesia de San Marcos. © T. Klopan/ Turismo Zagreb")
+![iglesia de san marcos en zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-iglesia-san-marcos.jpg "Iglesia de San Marcos. © T. Klopan/ Turismo Zagreb")
 
 ## 3\. Museo de las Relaciones Rotas y otras extravagancias
 
-Cerca de la plaza anterior se encuentra el ? [Museo de las Relaciones 
+Cerca de la plaza anterior se encuentra el 📌 [Museo de las Relaciones 
 Rotas,](http://etheriamagazine.com/2018/10/27/museo-de-las-relaciones-rotas-zagreb/) del 
 que ya os hablamos en otro artículo (haz clic en el link anterior), donde se exhiben 
 piezas donadas por corazones rotos y amantes despechados. Tiene una pequeña cafetería y 
@@ -95,7 +95,7 @@ de Arte Naif Croata](http://www.hmnu.hr/), el [Museo de la Ciudad](http://www.mg
 el [Museo de Artes y Manualidades](https://www.muo.hr/), el [Museo 
 Mimara](http://www.mimara.hr/) y el Museo Contemporáneo. 
 
-![museo relaciones rotas en zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-museo-relaciones-rotas-900x856.jpg "Museo de las Relaciones Rotas. © D. Rostuhar/ Turismo Zagreb")
+![museo relaciones rotas en zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-museo-relaciones-rotas.jpg "Museo de las Relaciones Rotas. © D. Rostuhar/ Turismo Zagreb")
 
 ## 4\. Las horas a cañonazos
 
@@ -106,7 +106,7 @@ que formaba parte del antiguo sistema defensivo, es del siglo XII y lleva cumpli
 esta función desde hace más de un siglo. Se puede subir para admirar la panorámica de la 
 ciudad. 
 
-![torre de Lotrscak en zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-torre-lotrscak-900x601.jpg "Torre de Lotrscak. © M. Mihaljevi/ Turismo Zagreb")
+![torre de Lotrscak en zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-torre-lotrscak.jpg "Torre de Lotrscak. © M. Mihaljevi/ Turismo Zagreb")
 
 ## 5\. Subir al funicular más corto del mundo
 
@@ -118,7 +118,7 @@ Lisboa, olvídalo, este funicular tiene un recorrido tan reducido que está cons
 dejes de usarlo para llegar desde la Ciudad Baja (está junto a la comercial calle Ilica) 
 a la Ciudad Alta. 
 
-![funicular de zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-funicular-900x600.jpg "Funicular de Zagreb. © M. Vrdoljak/ Turismo Zagreb")
+![funicular de zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-funicular.jpg "Funicular de Zagreb. © M. Vrdoljak/ Turismo Zagreb")
 
 ## 6\. Mercados al aire libre
 
@@ -130,7 +130,7 @@ Plaza Británica** o al de **Herlic** (un rastro en toda regla donde practicar e
 del regateo). Si vas en época navideña, te sorprenderá también su Mercado de Adviento, 
 una auténtica maravilla. 
 
-![mercado dolac imprescindible en zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-mercado-aire-libre-dolac-900x600.jpg "Mercado de Dolac. © J. Duval/ Turismo Zagreb")
+![mercado dolac imprescindible en zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-mercado-aire-libre-dolac.jpg "Mercado de Dolac. © J. Duval/ Turismo Zagreb")
 
 ## 7\. Tomar café como un croata
 
@@ -142,7 +142,7 @@ sol (si lo hay), charlando con los amigos y saboreando su taza de café. ¿Hay m
 manera de empezar el día? Tenemos que confesar que esta es una de las cosas 
 imprescindibles en Zagreb que más hemos disfrutado. 
 
-![calle Tkalciceva ideal para compras](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-calle-tkalciceva-683x1024.jpg "La calle Tkalciceva, ideal para tomar algo o ir de compras. © J. Duval/ Turismo Zagreb")
+![calle Tkalciceva ideal para compras](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-calle-tkalciceva.jpg "La calle Tkalciceva, ideal para tomar algo o ir de compras. © J. Duval/ Turismo Zagreb")
 
 ## 8\. Compras en Zagreb
 
@@ -158,7 +158,7 @@ Entre los recuerdos más comunes que se suelen comprar en Zagreb están las corb
 plumas estilográficas y algunos dulces como las galletas de pimienta. Como estás viendo, 
 imprescindibles en Zagreb hay muchos pero también hay que dejar hueco para el capricho. 
 
-![galletas de gengibre tipicas de croacia](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-compras-galletas-900x537.jpg "Galletas de gengibre y pimienta. © CroChef/ Turismo Zagreb")
+![galletas de gengibre tipicas de croacia](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-compras-galletas.jpg "Galletas de gengibre y pimienta. © CroChef/ Turismo Zagreb")
 
 ## 9\. Descansar entre árboles y flores
 
@@ -169,7 +169,7 @@ uno de los más bonitos; la **Herradura Verde**, situada en la parte baja de la 
 que está formada por avenidas ajardinadas, instituciones culturales y edificios 
 palaciegos; y el **Jardín Botánico de Zagreb**, muy bien cuidado. 
 
-![Parque Maksimir de zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-parque-maksimir-900x600.jpg "Parque Maksimir. © D. Rostuhar/ Turismo Zagreb")
+![Parque Maksimir de zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-parque-maksimir.jpg "Parque Maksimir. © D. Rostuhar/ Turismo Zagreb")
 
 ## 10\. Cementerio de Mirogoj
 
@@ -184,7 +184,7 @@ Tudjman. En este enlace encontrarás un [listado amplio de personajes
 famosos](https://cemeteriesroute.eu/cemetery-poi.aspx?t=1166) que yacen en este 
 cementerio. 
 
-![mirogoj cementerio zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-que-ver-mirogoj-cementerio-900x600.jpg "Cementerio de Mirogoj. © M. Vrdoljak/ Turismo Zagreb")
+![mirogoj cementerio zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-zagreb-que-ver-mirogoj-cementerio.jpg "Cementerio de Mirogoj. © M. Vrdoljak/ Turismo Zagreb")
 
 ### Guía de Zagreb | Etheria Magazine
 

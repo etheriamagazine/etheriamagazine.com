@@ -82,7 +82,7 @@ funcionará como centro de interpretación y de recepción de visitantes. Habrá
 Alrededor del pueblo, donde crecen las viñas sobre el suelo de pedrusco, se sitúa el 
 **barrio de las bodegas**, donde los frailes descubrieron que aquellas cuevas excavadas 
 en la roca eran idóneas para la elaboración de vino. Una de ellas alberga la bodega 
-subterránea de [Ernesto Palacio](https://www.ernestodelpalacio.com/), una joya que 
+subterránea de [Ernesto del Palacio](https://www.ernestodelpalacio.com/), una joya que 
 transmite historia y solera y donde se sitúa un lagar con una viga de unos dos mil años. 
 Ahora se usa principalmente para visitas y catas pero es un placer disfrutar de este 
 espacio milenario. Prueba los vinos tintos jóvenes y crianzas de Ernesto Palacio, te 
@@ -109,7 +109,7 @@ XIII, esculpida en piedra y policromada. Otros conjuntos que merece la pena llev
 agenda son las construcciones mudéjares de San Lorenzo el Real, San Salvador de los 
 Caballeros y la iglesia del Santo Sepulcro; cenobios como el Real Monasterio del Sancti 
 Spiritus; palacios y casonas, algunas visitables; y la plaza de toros (una joya de la 
-que te hablamos en este artículo). 
+que te hablamos en este [artículo](https://etheriamagazine.com/2022/05/17/pueblos-ruta-del-duero/)). 
 
 ![Calle y Colegiata de Toro.](https://fotos.etheriamagazine.com/2022/09/colegiata-toro.jpg "Calle y Colegiata de Toro. © P. García")
 
@@ -124,10 +124,9 @@ peras al vino... Sus propietarios, César y Eliana, son argentinos y ofrecen lo 
 la tierra zamorana aunque en algunos platos incorporan productos propios de su tierra. 
 Es uno de esos lugares en los que siempre apetece repetir. 
 
-- ![César Ferrada y Eliana Leguizamon están al frente de Doña Negra.](https://fotos.etheriamagazine.com/2022/09/dona-negra-restaurante-toro.jpg)
-    
-- ![Rabo de toro y peras al vino tinto de Doña Negra.](https://fotos.etheriamagazine.com/2022/09/rabo-toro-peras-vino.jpg)
-    
+![César Ferrada y Eliana Leguizamon están al frente de Doña Negra.](https://fotos.etheriamagazine.com/2022/09/dona-negra-restaurante-toro.jpg)
+
+![Rabo de toro y peras al vino tinto de Doña Negra.](https://fotos.etheriamagazine.com/2022/09/rabo-toro-peras-vino.jpg)
 
 Una versión más clásica es la que ofrece la **Taberna Malaspina**, situada en la parte 
 trasera del hotel Juan II. Puede ser el restaurante con las mejores vistas de Toro, lo 
@@ -187,7 +186,7 @@ asegurada– pero en pocos minutos se llega a cualquier punto de la ruta. No dej
 realizar una visita con degustación en su moderna bodega, situada a pocos metros del 
 hotel. 
 
-![María Alfonso es la enóloga de Finca Volvoreta.](https://fotos.etheriamagazine.com/2022/09/maria-finca-volvoreta-709x1024.jpg "María Alfonso es la enóloga de Finca Volvoreta. © Pepa García")
+![María Alfonso es la enóloga de Finca Volvoreta.](https://fotos.etheriamagazine.com/2022/09/maria-finca-volvoreta.jpg "María Alfonso es la enóloga de Finca Volvoreta. © Pepa García")
 
 ### 6\. Ver atardecer desde la Finca Volvoreta
 
@@ -241,9 +240,9 @@ crianza, donde duermen 2.500 barricas, y una cata de vino con una tapa.
 Así, entre vinos, paseos, pueblos, comidas, tradiciones... puede transcurrir un 
 sorprendente fin de semana en la Ruta del Vino de Toro. 
 
-? Más información en [Rutas del Vino de Toro](https://www.rutavinotoro.com/). 
+Más información en [Rutas del Vino de Toro](https://www.rutavinotoro.com/). 
 
-### Otras Rutas del Vino de España
+**Otras Rutas del Vino de España** 
 
 [Ruta del Vino de la Sierra de Francia, un brindis con amigas en 
 Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/). 

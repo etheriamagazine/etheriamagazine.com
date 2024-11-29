@@ -109,7 +109,7 @@ bajo el agua. ¿Solución? Controlar el estado de la marea o refugiarse en veran
 urbanización Fuente del Gallo también está el **restaurante El Marinero**, uno de los 
 clásicos conileños. 
 
-![cala del aceite de conil](https://fotos.etheriamagazine.com/2021/01/cala-del-aceite-playa-conil-851x1024.jpg "Cala del Aceite (Conil). © Etheria M.")
+![cala del aceite de conil](https://fotos.etheriamagazine.com/2021/01/cala-del-aceite-playa-conil.jpg "Cala del Aceite (Conil). © Etheria M.")
 
 ## Las mejores calas de Conil cuando sopla viento de levante
 
@@ -184,7 +184,7 @@ Pequeña, con arena y acceso cómodo a través de escaleras de piedra. No dispon
 pasarela que enlace la carretera con la cala pero se puede utilizar el acceso de la cala 
 anterior si llegas en coche. 
 
-![cala el frailecillo conil de la frontera](https://fotos.etheriamagazine.com/2021/01/cala-el-frailecillo-roche-conil-900x675.jpg "Cala El Frailecillo (Conil de la Frontera). © Etheria M.")
+![cala el frailecillo conil de la frontera](https://fotos.etheriamagazine.com/2021/01/cala-el-frailecillo-roche-conil.jpg "Cala El Frailecillo (Conil de la Frontera). © Etheria M.")
 
 ### Cala El Frailecillo
 

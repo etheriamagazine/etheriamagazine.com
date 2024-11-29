@@ -17,7 +17,7 @@ grandes mujeres viajeras de la historia.
 
 **Por Sandra Ferrer, periodista y escritora.** 
 
-![imagen genérica de mujeres viajeras en la historia](https://fotos.etheriamagazine.com/2022/03/mujeres-viajeras-historia-683x1024.jpg "Los viajes eran un auténtico desafío para la mujer de los siglos pasados.")
+![imagen genérica de mujeres viajeras en la historia](https://fotos.etheriamagazine.com/2022/03/mujeres-viajeras-historia.jpg "Los viajes eran un auténtico desafío para la mujer de los siglos pasados.")
 
 Las sociedades patriarcales han relegado a lo largo de los siglos a las mujeres a vivir 
 en un espacio privado. En el entorno doméstico, su vida se circunscribía al hogar y 

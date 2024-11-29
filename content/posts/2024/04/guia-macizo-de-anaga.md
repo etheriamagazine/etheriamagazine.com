@@ -216,7 +216,7 @@ que podéis contemplar en el [museo de Naturaleza y
 Arqueología](https://www.museosdetenerife.org/muna-museo-de-naturaleza-y-arqueologia/) 
 de Santa Cruz de Tenerife. 
 
-![En el mercado se comprueba la riqueza de Anaga.](https://fotos.etheriamagazine.com/2023/12/mercado-Anaga-716x1000.jpg "En el Mercado de Tegueste se comprueba la riqueza de Anaga. © Mar Ramírez")
+![En el mercado se comprueba la riqueza de Anaga.](https://fotos.etheriamagazine.com/2023/12/mercado-Anaga.jpg "En el Mercado de Tegueste se comprueba la riqueza de Anaga. © Mar Ramírez")
 
 ## Día de mercado y bodega
 

@@ -46,7 +46,7 @@ los más pequeños y también con un parque infantil en la nieve. Aunque el esqu
 invierno es el principal reclamo de esta zona, la región de Liberec tiene con otros 
 atractivos que os contamos a continuación. 
 
-![hotel y antena Ještěd](https://fotos.etheriamagazine.com/2024/01/jested-liberec-850x638.jpg "Ještěd. © Transmitter and hotel Ještěd Karel Hubáček – heirs 1963")
+![hotel y antena Ještěd](https://fotos.etheriamagazine.com/2024/01/jested-liberec.jpg "Ještěd. © Transmitter and hotel Ještěd Karel Hubáček – heirs 1963")
 
 ## Dormir en una nave espacial (o casi)
 
@@ -109,7 +109,7 @@ desde elegir las formas y colores hasta dar forma a vuestra obra de arte. En est
 artículo podrás seguir leyendo más sobre las [propuestas en el Valle del 
 Cristal](https://etheriamagazine.com/2023/01/09/valle-cristal-republica-checa/). 
 
-![Factoría de cristal soplado Novosad a Syn](https://fotos.etheriamagazine.com/2024/01/Taller-Novosad-syn-667x1000.jpg "© Factoría de cristal soplado Novosad a Syn.")
+![Factoría de cristal soplado Novosad a Syn](https://fotos.etheriamagazine.com/2024/01/Taller-Novosad-syn.jpg "© Factoría de cristal soplado Novosad a Syn.")
 
 ## Una jarra o un baño de cerveza
 

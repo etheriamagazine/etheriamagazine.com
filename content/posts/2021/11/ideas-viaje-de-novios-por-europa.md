@@ -16,7 +16,7 @@ pero a menudo no hace falta irse muy lejos para disfrutar de lugares maravilloso
 de interés viajero. En este artículo os demostramos con solo 10 opciones (hay muchas 
 más) por qué Europa es perfecta para vuestro viaje de novios. 
 
-![Un viaje de novios por Europa es una excelente opción.](https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash-900x600.jpg "Un viaje de novios por Europa es una excelente opción.")
+![Un viaje de novios por Europa es una excelente opción.](https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash.jpg "Un viaje de novios por Europa es una excelente opción.")
 
 Un viaje de novios puede ser cómo tu quieras. Y si por motivos económicos, de tiempo, o, 
 incluso, por restricciones internacionales para viajar como las que estamos viviendo 
@@ -33,7 +33,7 @@ pusieron de moda destinos más lejanos. Pero aquí queremos poner en valor a est
 no tiene nada que envidiar a otros considerados más exóticos. Ofrece cultura y la 
 posibilidad de realizar un crucero entre islas maravillosas surcando un mar increíble. 
 
-![Santorini.](https://fotos.etheriamagazine.com/2021/11/viaje-mujeres-crucero-islas-griegas-Santorini-1024x681-1-900x599.jpg "Santorini. © Félix Lorenzo")
+![Santorini.](https://fotos.etheriamagazine.com/2021/11/viaje-mujeres-crucero-islas-griegas-Santorini-1024x681-1.jpg "Santorini. © Félix Lorenzo")
 
 Puedes elegir entre una ruta por Atenas y el Peloponeso, visitando lugares como Delfos, 
 Olimpia y Corintio; o un crucero por las Islas Griegas, en el que no pueden faltar 
@@ -42,7 +42,7 @@ irresistible. También puedes dedicar unos días a la maravillosa isla de Creta 
 ahora de moda gracias a la serie de televisión “Los Durrell”. Las Islas Griegas ofrecen 
 tantos viajes que os costará decidiros. 
 
-? [Crucero por las Islas 
+📌 [Crucero por las Islas 
 Griegas](https://etheriamagazine.com/2019/01/03/que-visitar-crucero-por-islas-griegas/) 
 
 ## Laponia: blanca luna de miel
@@ -56,7 +56,7 @@ para ver las auroras boreales? Existen varios alojamientos de este tipo, como la
 Buble del Nellim Hotel](https://nellim.fi/nellim/accommodation/aurora-bubble/) o las 
 habitaciones del hotel [Levin Iglut](https://leviniglut.net/). 
 
-![Aurora boreal en Laponia.](https://fotos.etheriamagazine.com/2021/11/6-NUESTROS-TOP-LAPONIA-FOTO-6-aurora-borealis-1156479-PIXABAY-900x617.jpg "Aurora boreal en Laponia.")
+![Aurora boreal en Laponia.](https://fotos.etheriamagazine.com/2021/11/6-NUESTROS-TOP-LAPONIA-FOTO-6-aurora-borealis-1156479-PIXABAY.jpg "Aurora boreal en Laponia.")
 
 En una luna de miel como ésta es fundamental reservar el alojamiento y las excursiones 
 con bastante antelación ya que hay mucha demanda, pero es un viaje que puede ser 
@@ -67,10 +67,10 @@ directamente. Además, aunque este viaje se suele asociar a las vacaciones de Na
 el factor “Papá Noel”, la nieve suele durar hasta principios de abril, por lo que es 
 perfecto para las bodas de los primeros meses del año. 
 
-? [7 excursiones que no puedes perderte en la Laponia 
+📌 [7 excursiones que no puedes perderte en la Laponia 
 finlandesa](https://etheriamagazine.com/2019/10/31/siete-excursiones-en-laponia-finlandesa/) 
 
-? [Una maleta para… Laponia 
+📌 [Una maleta para… Laponia 
 finlandesa](https://etheriamagazine.com/2018/09/15/una-maleta-para-laponia-finlandesa/) 
 
 ## Costa Azul, glamur, flores y playas de foto
@@ -93,7 +93,7 @@ poner un buen broche al viaje podéis realizar una excursión en barco o daros e
 recorrer el Mediterráneo en una excursión en un yate privado y recorrer la Costa Azul 
 como auténticas ‘celebrities’. 
 
-? [Ruta por los jardines y perfumes de la Costa 
+📌 [Ruta por los jardines y perfumes de la Costa 
 Azul](https://etheriamagazine.com/2021/07/07/ruta-de-los-jardines-costa-azul-francia/) 
 
 ## Islandia: naturaleza en estado puro
@@ -113,7 +113,7 @@ ballenas en este agitado mar. Nuestra recomendación es dedicar un par de días 
 capital e iniciar después una ruta en coche de alquiler a vuestro aire para disfrutar de 
 este país en total libertad. 
 
-? [Viaje por el sur de Islandia, la isla del 
+📌 [Viaje por el sur de Islandia, la isla del 
 desafío](https://etheriamagazine.com/2021/03/25/que-ver-sur-islandia-consejos-practicos/) 
 
 ## Sur de Italia: romanticismo en Apulia
@@ -133,10 +133,10 @@ llamadas trullis y una historia llena de picaresca que merece la pena conocer. Y
 queréis renunciar a la playa en vuestro viaje de novios por Europa, os encantarán las de 
 Salento o las de Bari. 
 
-? [Esto es lo que ocurrirá si haces un viaje romántico a 
+📌 [Esto es lo que ocurrirá si haces un viaje romántico a 
 Apulia](https://etheriamagazine.com/2019/11/25/que-ver-hacer-viaje-romantico-apulia-italia/) 
 
-? [Secretos de Alberobello, un ‘pícaro’ pueblo italiano de 
+📌 [Secretos de Alberobello, un ‘pícaro’ pueblo italiano de 
 Puglia](https://etheriamagazine.com/2019/04/15/que-ver-alberobello-italia-unesco/) 
 
 ## Noruega: Oslo y los fiordos
@@ -147,7 +147,7 @@ opción llena de interés y que cada vez gana más adeptos es pasar unos días e
 para conocer su capital y acudir a alguno de sus restaurantes de moda (no os perdáis [Maaemo](https://maaemo.no/)) 
 para después iniciar una ruta por los fiordos noruegos. 
 
-![Mirador sobre el fiordo de Geiranger.](https://fotos.etheriamagazine.com/2021/11/Fiordo-geiranger-Noruega-Etheria-14-900x598.jpg "Mirador sobre el fiordo de Geiranger. © Felix Lorenzo")
+![Mirador sobre el fiordo de Geiranger.](https://fotos.etheriamagazine.com/2021/11/Fiordo-geiranger-Noruega-Etheria-14.jpg "Mirador sobre el fiordo de Geiranger. © Felix Lorenzo")
 
 Podéis plantear el viaje de dos formas diferentes: en **crucero** (la mayoría de las 
 compañías de cruceros cuentan con rutas por los fiordos) o por vuestra cuenta con coche 
@@ -162,10 +162,10 @@ Noruega](https://etheriamagazine.com/2020/08/18/prepara-tu-viaje-libros-series-d
 con recomendaciones de películas y libros sobre este país. Además, en Etheria Magazine 
 nos fascina tanto Noruega que le hemos dedicado varios artículos: 
 
-? [Recorre las 3 capitales de Noruega: Trondheim, Bergen y 
+📌 [Recorre las 3 capitales de Noruega: Trondheim, Bergen y 
 Oslo](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/) 
 
-? [11 razones por las que deberías viajar a 
+📌 [11 razones por las que deberías viajar a 
 Noruega](https://etheriamagazine.com/2018/12/13/razones-para-viajar-a-noruega/) 
 
 ## Croacia: la costa y sus islas
@@ -188,10 +188,10 @@ Si queréis una luna de miel original y privada, tened muy en cuenta la opción 
 concurrido de sus islas y descubrir calas desiertas y escondidas bañadas por un mar tan 
 transparente que no parece real. 
 
-? [Croacia: consejos y visitas imprescindibles para tu primer 
+📌 [Croacia: consejos y visitas imprescindibles para tu primer 
 viaje](https://etheriamagazine.com/2021/01/22/viaje-a-croacia-como-organizar-que-ver-hacer/) 
 
-? [10 razones para visitar en otoño el Parque Nacional Lagos de Plitvice 
+📌 [10 razones para visitar en otoño el Parque Nacional Lagos de Plitvice 
 (Croacia)](https://etheriamagazine.com/2018/10/05/10-razones-para-visitar-el-p-n-lagos-de-plitvice-croacia/) 
 
 ## Repúblicas Bálticas: una ruta por Estonia, Letonia y Lituania
@@ -228,10 +228,10 @@ podréis recorrer algunos célebres escenarios de producciones como 'Juego de Tr
 'Gladiator' o 'Troya', ya os lo contamos en nuestro artículo [Malta, el Hollywood 
 Mediterráneo](https://etheriamagazine.com/2019/06/14/viajes-cine-malta-hollywood-mediterraneo/). 
 
-? [Planes en Malta, un destino mediterráneo que nunca 
+📌 [Planes en Malta, un destino mediterráneo que nunca 
 defrauda](https://etheriamagazine.com/2019/11/19/que-ver-hacer-malta-gozo-comino-5-dias-con-amigas/) 
 
-? [La isla de Gozo, un lugar donde querrás quedarte a 
+📌 [La isla de Gozo, un lugar donde querrás quedarte a 
 vivir](https://etheriamagazine.com/2021/04/29/que-ver-hacer-gozo-malta/) 
 
 ## Centroeuropa: grandeza imperial en Praga, Viena y Budapest
@@ -247,7 +247,7 @@ reducir los tiempos de transporte al máximo. Aunque, la verdad, las bellas regi
 checas, austriacas y húngaras que veréis a vuestro paso merecen ser contempladas 
 primeros desde una ventanilla. 
 
-![Perfil de Praga desde el Puente de Carlos.](https://fotos.etheriamagazine.com/2021/11/viaje-praga-puente-carlos-900x580.jpg "Perfil de Praga desde el Puente de Carlos.")
+![Perfil de Praga desde el Puente de Carlos.](https://fotos.etheriamagazine.com/2021/11/viaje-praga-puente-carlos.jpg "Perfil de Praga desde el Puente de Carlos.")
 
 ¿Otro aliciente de este viaje? La cultura, en forma de hitos arquitectónicos, museos, 
 exposiciones y conciertos. Imposible aburrirse en estas ciudades donde siempre se os 
@@ -255,11 +255,11 @@ hará corta vuestra estancia. Y si queréis un toque de lujo, encontraréis prec
 hoteles históricos de cinco estrellas y restaurantes gourmet para celebrar como se 
 merece vuestra luna de miel. 
 
-? [48 horas en… Praga para cosechar el 
+📌 [48 horas en… Praga para cosechar el 
 otoño](https://etheriamagazine.com/2019/09/16/que-hacer-ver-2-dias-en-praga-museos-festivales/) 
 
-? [Karlovy Vary, Mariánské Lázně y Františkovy Lázně, el Triángulo balneario 
+📌 [Karlovy Vary, Mariánské Lázně y Františkovy Lázně, el Triángulo balneario 
 checo.](https://etheriamagazine.com/2021/08/13/balnearios-republica-checa-karlovy-vary-marianske-frantiskovy/) 
 
-? [No te pierdas el renovado Matild Palace, tu hotel de lujo en 
+📌 [No te pierdas el renovado Matild Palace, tu hotel de lujo en 
 Budapest](https://etheriamagazine.com/2021/08/16/hotel-de-lujo-en-budapest-matild-palace/)

@@ -16,7 +16,7 @@ gastronómicamente y, de paso, conocer ciudades y regiones que merecen una ruta.
 que algunas apetezcan más en verano y otras en invierno pero eso lo dejamos a tu 
 elección. 
 
-![escapadas fin de semana, escapadas con chicas](https://fotos.etheriamagazine.com/2019/02/Viajes-amigas-1024x814.jpg)
+![escapadas fin de semana, escapadas con chicas](https://fotos.etheriamagazine.com/2019/02/Viajes-amigas.jpg)
 
 Cuando está a punto de acabar el año solemos hacer recuento de todo lo que hemos hecho 
 y, sobre todo, de aquello que nos ha faltado por hacer. Si estás en este punto, seguro 
@@ -51,7 +51,7 @@ sierra homónima.
 
 ## 3\. San Sebastián de pintxos
 
-![pintxos en San Sebastián, viaje a la costa vasca, fin de semana en Donosti](https://fotos.etheriamagazine.com/2019/10/San-Sebastian-ambiente-Gros-900x600.jpg "Ambiente en el barrio de Gros. © DSST")
+![pintxos en San Sebastián, viaje a la costa vasca, fin de semana en Donosti](https://fotos.etheriamagazine.com/2019/10/San-Sebastian-ambiente-Gros.jpg "Ambiente en el barrio de Gros. © DSST")
 
 San Sebastián es una ciudad perfecta para hacer una escapada cualquier fin de semana del 
 año. Además de paisajes maravillosos, ofrece una oferta gastronómica difícil de superar, 
@@ -75,7 +75,7 @@ alistada) además de su exquisita gamba blanca.
 
 ## 5\. Norte de Extremadura
 
-![viaje gastro caceres, restaurante atrio, chef tono perez](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-restaurante-atrio-900x563.jpg "Restaurante Atrio (Cáceres) y su chef, Toño Pérez, con el plato Binomio del Casar. © P.Grifol")
+![viaje gastro caceres, restaurante atrio, chef tono perez](https://fotos.etheriamagazine.com/2019/09/viaje-caceres-restaurante-atrio.jpg "Restaurante Atrio (Cáceres) y su chef, Toño Pérez, con el plato Binomio del Casar. © P.Grifol")
 
 En Cáceres o Plasencia no sabes si te gusta más su gastronomía o su increíble patrimonio 
 artístico. En nuestro [viaje gastro por el norte de 
@@ -86,7 +86,7 @@ para descubrir todos los matices de la gastronomía extremeña.
 
 ## 6\. Pamplona entre pintxos y cultura
 
-![viajar sola a Pamplona, fin de semana en Pamplona, ruta de pintxos](https://fotos.etheriamagazine.com/2019/11/Pamplona-Plaza-del-Castillo-900x505.jpg "Plaza del Castillo. ©Turismo Navarra")
+![viajar sola a Pamplona, fin de semana en Pamplona, ruta de pintxos](https://fotos.etheriamagazine.com/2019/11/Pamplona-Plaza-del-Castillo.jpg "Plaza del Castillo. ©Turismo Navarra")
 
 [Pamplona es un destino excelente para viajar sola o con 
 amigas](https://etheriamagazine.com/2019/11/15/que-ver-y-donde-comer-pintxos-con-amigas-en-pamplona/) 

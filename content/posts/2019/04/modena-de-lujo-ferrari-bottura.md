@@ -197,7 +197,7 @@ alguna _acetaia_ (destilerías de aceto balsamico) visitas a la Casa Museo Enzo 
 Museo Ferrari de Maranello, almorzar en un restaurante típico, y la experiencia de 
 conducir en el Autódromo (info@modenatur.it). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Viaje con amigas a Bolonia: 10 planes imbatibles en 
 Italia](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/) 

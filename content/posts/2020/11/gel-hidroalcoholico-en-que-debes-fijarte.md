@@ -115,7 +115,7 @@ Sorbate, Sodium Benzoate. **Aroma**: 5 distintos, todos suaves. **Textura**: Lí
 de los beneficios se destina a proyectos sostenibles en África. **Puede mejorar**: el 
 precio, es elevado para su tamaño. 
 
-![gel higienizante la chinata](https://fotos.etheriamagazine.com/2020/11/gel-higienizante-la-chinata-670x1024.jpg "Geles higienizantes (©) La Chinata.")
+![gel higienizante la chinata](https://fotos.etheriamagazine.com/2020/11/gel-higienizante-la-chinata.jpg "Geles higienizantes (©) La Chinata.")
 
 ### Gel higienizante hidroalcohólico La Chinata
 

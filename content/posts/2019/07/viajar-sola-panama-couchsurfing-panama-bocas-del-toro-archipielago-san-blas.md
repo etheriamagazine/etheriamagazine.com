@@ -141,7 +141,7 @@ manglares donde retozan los perezosos son tan peculiares como las ranas rojas de
 **isla Cayo Zapatilla**, famosa desde hace años porque se grabó allí una edición de 
 _Supervivientes_. ¡Haz el lagarto allí al sol como uno de ellos! 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Costa Rica: de ‘la aventura quetzal’ a la nouvelle 
 cuisine](https://etheriamagazine.com/2021/12/17/ruta-quetzal-costa-rica/) 

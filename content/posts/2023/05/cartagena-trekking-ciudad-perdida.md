@@ -166,7 +166,7 @@ pilares necesarios para obtener la prosperidad de todos.
 
 ✅ **Lo que no aprendí:** A acostarme pronto. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Bogotá y Medellín, consejos básicos de Sania para 
 visitarlas](https://etheriamagazine.com/2023/05/03/viajar-sola-bogota-medellin/) 

@@ -15,7 +15,7 @@ a decir que las posibilidades de acertar con algunas de estas 11 obras son muy a
 ¿Por qué? Porque todas ellas nos aportan conocimiento en diversos campos (mujeres, 
 viajes, fotografía, cocina o música) y detrás hay grandes profesionales. 
 
-![Libros para el verano](https://fotos.etheriamagazine.com/2019/12/libros-regalos-mujeres-viajeras-900x598.jpg)
+![Libros para el verano](https://fotos.etheriamagazine.com/2019/12/libros-regalos-mujeres-viajeras.jpg)
 
 ## 1\. Hablemos de nosotras.
 
@@ -47,7 +47,7 @@ Editorial: Fórcola ediciones. Precio: 28,50 €. Lo venden en la [web de Fórco
 ediciones](http://forcolaediciones.com/producto/tocala-otra-vez-sam/), en librerías y 
 también en [Amazon](https://amzn.to/38S96rc) (27,07 €). 
 
-![libros para mujeres, libros regalo mujeres, libros recomendados 2019, carlos de hita](https://fotos.etheriamagazine.com/2019/09/Anaya-touring-bosques-900x678.jpg "Viaje visual y sonoro por los bosques de España. © Anaya Touring.")
+![libros para mujeres, libros regalo mujeres, libros recomendados 2019, carlos de hita](https://fotos.etheriamagazine.com/2019/09/Anaya-touring-bosques.jpg "Viaje visual y sonoro por los bosques de España. © Anaya Touring.")
 
 ## 3\. Viaje visual y sonoro por los bosques de España.
 
@@ -110,7 +110,7 @@ campos que resultan imprescindibles.
 Editorial: PhotoClub Precio: 22,50 €. En librerías y en [Amazon (21,37 
 €)](https://www.amazon.es/gp/offer-listing/8441541337/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8441541337&linkCode=am2&tag=etheriamagazi-21&linkId=74265221a2cbe459b73e2523648944db). 
 
-![libro de fotografia, viajeras victorianas, viajeras por los mares del sur, libros para mujeres, libros regalo mujeres, libros recomendados 2019](https://fotos.etheriamagazine.com/2019/12/libro-tino-soriano-Viajeras-por-los-mares-del-sur-900x632.jpg "Fotografía y viajes, un tándem perfecto.")
+![libro de fotografia, viajeras victorianas, viajeras por los mares del sur, libros para mujeres, libros regalo mujeres, libros recomendados 2019](https://fotos.etheriamagazine.com/2019/12/libro-tino-soriano-Viajeras-por-los-mares-del-sur.jpg "Fotografía y viajes, un tándem perfecto.")
 
 ## 7\. Viajeras por los Mares del Sur.
 
@@ -126,7 +126,7 @@ Sur](https://etheriamagazine.com/2019/12/21/libro-viajeras-por-los-mares-del-sur
 Editorial: Casiopea. Precio: En versión Kindle [desde 8,54 en 
 Amazon](https://www.amazon.es/gp/offer-listing/B07RCCVV7K/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07RCCVV7K&linkCode=am2&tag=etheriamagazi-21&linkId=718f27077ab7e465bdf9962b8d3dfac4). 
 
-![mujeres en la ciencia, mujeres en el deporte, libros para mujeres, libros regalo mujeres, libros recomendados 2019](https://fotos.etheriamagazine.com/2019/12/libros-recomendados-100-mujeres-900x648.jpg "100 mujeres imprescindibles en la ciencia y en el deporte.")
+![mujeres en la ciencia, mujeres en el deporte, libros para mujeres, libros regalo mujeres, libros recomendados 2019](https://fotos.etheriamagazine.com/2019/12/libros-recomendados-100-mujeres.jpg "100 mujeres imprescindibles en la ciencia y en el deporte.")
 
 ## 8\. 100 mujeres.
 
@@ -144,7 +144,7 @@ individual por 25 € (en Amazon, 23,75€).
 
 Editorial: Nørdicalibros. Precio: 50 €. 
 
-![portada grandes mujeres artistas, editorial phaidon](https://fotos.etheriamagazine.com/2019/11/Portada-libro-grandes-mujeres-artistas-900x660.jpg "Portada 'Grandes mujeres artistas'.")
+![portada grandes mujeres artistas, editorial phaidon](https://fotos.etheriamagazine.com/2019/11/Portada-libro-grandes-mujeres-artistas.jpg "Portada 'Grandes mujeres artistas'.")
 
 ## 9\. Grandes mujeres artistas.
 

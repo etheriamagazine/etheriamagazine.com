@@ -201,7 +201,7 @@ poco. Tanto quisieron los colombianos exportar el mejor café del mundo, que ell
 quedaron con el de peor calidad durante años. Esta realidad ya forma parte del pasado y 
 hoy encontrarás café excelente en todo el país. 
 
-? Si eres amante del café y de la naturaleza, te encantará nuestra [ruta por el Eje 
+📌 Si eres amante del café y de la naturaleza, te encantará nuestra [ruta por el Eje 
 Cafetero](http://etheriamagazine.com/2019/01/28/viajar-sola-al-eje-cafetero-colombia/). 
 
 ![Momento de la cata de café molecular del Café San Alberto.](https://fotos.etheriamagazine.com/2020/03/viaje-bogota-cafe.jpg "Momento de la cata de café molecular del Café San Alberto. © Procolombia")

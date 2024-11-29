@@ -137,7 +137,7 @@ Llegado el momento de reponer fuerzas tras las visitas imprescindibles en Verona
 las más diversas opciones gastronómicas: desde la típica _osteria_ donde degustar el 
 plato del día (fundamentalmente pasta) a restaurantes de altísimo nivel. 
 
-![Casa Perbellini verona](https://fotos.etheriamagazine.com/2021/11/casa-perbellini-683x1024.jpg "© Giancarlo Perbellini, de Casa Perbellini, en la piazza San Zeno (Verona).")
+![Casa Perbellini verona](https://fotos.etheriamagazine.com/2021/11/casa-perbellini.jpg "© Giancarlo Perbellini, de Casa Perbellini, en la piazza San Zeno (Verona).")
 
 Entre estos últimos están **Il Desco** y **Casa Perbellini**; ambos reconocidos con 
 estrellas por la Guía Michelin y donde los fundamentos de las antiguas cocinas 
@@ -163,7 +163,7 @@ más que agradable local situado en una de las calles peatonales del centro y cu
 vitrinas son una auténtica provocación a la que es casi imposible resistirse. De hecho, 
 mejor no resistirse. 
 
-![compras en verona](https://fotos.etheriamagazine.com/2021/11/compras-verona-683x1024.jpg "En las calles de Verona encontrarás encantadoras boutiques. © Tom Podmore")
+![compras en verona](https://fotos.etheriamagazine.com/2021/11/compras-verona.jpg "En las calles de Verona encontrarás encantadoras boutiques. © Tom Podmore")
 
 ### De compras en Verona
 
@@ -175,7 +175,7 @@ Si eres aficionada a los comercios outlets, también encontrarás algunos con ma
 italianas a muy buen precio. Las compras en Verona están totalmente justificadas, y si 
 vas en torno a San Valentín los escaparates son auténticas obras artísticas. 
 
-![atardecer en verona](https://fotos.etheriamagazine.com/2021/11/torre-verona-683x1024.jpg "Atardecer en Verona. © Davide Goldin")
+![atardecer en verona](https://fotos.etheriamagazine.com/2021/11/torre-verona.jpg "Atardecer en Verona. © Davide Goldin")
 
 ### El atardecer más romántico de Verona
 

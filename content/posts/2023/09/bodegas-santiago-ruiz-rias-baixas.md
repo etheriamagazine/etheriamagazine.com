@@ -34,7 +34,7 @@ en la que se volcó en cuerpo y alma. Con una curiosidad innata y una pasión fu
 serie por los vinos de su tierra, decidió investigar para mejorarlos e incluso introdujo 
 innovaciones como el frío y los depósitos de acero inoxidable en su proceso. 
 
-?Si quieres saber más sobre este visionario, [sigue leyendo este artículo de El 
+📍Si quieres saber más sobre este visionario, [sigue leyendo este artículo de El 
 Español](https://www.elespanol.com/cocinillas/vinos/20230831/santiago-ruiz-bodeguero-rias-baixas-profeta-tierra/789921091_0.html). 
 
 De aquellos comienzos y de su empuje en el nacimiento de la Denominación de Origen Rías 
@@ -44,7 +44,7 @@ del espíritu creativo de su padre y es ella que guarda sus historias y las ané
 también forman parte de su legado. Aunque de ello también se encargan las **etiquetas de 
 los vinos**, las cuales reflejan momentos familiares inolvidables. 
 
-![Viñedos de la Bodega Santiago Ruiz.](https://fotos.etheriamagazine.com/2023/09/vinedo-santiago-ruiz-850x644.jpg "Viñedos de la Bodega Santiago Ruiz.")
+![Viñedos de la Bodega Santiago Ruiz.](https://fotos.etheriamagazine.com/2023/09/vinedo-santiago-ruiz.jpg "Viñedos de la Bodega Santiago Ruiz.")
 
 ## Los vinos
 
@@ -71,7 +71,7 @@ celebración, la bodega de San Miguel de Tabagón. Su padre, que en esas fechas 
 algún diseño de etiqueta para su vino y no encontraba ninguno que le convenciera, cuando 
 lo vio supo que ese dibujo era el que quería. 
 
-![Etiqueta del vino Santiago Ruiz.](https://fotos.etheriamagazine.com/2023/09/santiago-ruiz-etiqueta-625x1024.jpg "Etiqueta del vino Santiago Ruiz.")
+![Etiqueta del vino Santiago Ruiz.](https://fotos.etheriamagazine.com/2023/09/santiago-ruiz-etiqueta.jpg "Etiqueta del vino Santiago Ruiz.")
 
 **Nota de cata** 
 

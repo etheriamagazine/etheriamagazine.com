@@ -174,7 +174,7 @@ parque y el desayuno. Puedes elegir entre el **Legoland Pirate Island Hotel** o 
 
 [Oficina de Turismo de Alemania](https://www.germany.travel/es/index.html). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Viajar con niños por Europa: consejos y propuestas para acertar en tu primer 
 viaje](https://etheriamagazine.com/2021/02/02/viajar-con-ninos-por-europa-consejos-y-propuestas/) 

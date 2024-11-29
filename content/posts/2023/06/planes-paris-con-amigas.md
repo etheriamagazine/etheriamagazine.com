@@ -52,7 +52,7 @@ _macarons_. Un caprichito de esos que se merece París.
 
 ![La Torre Eiffel desde el Trocadero.](https://fotos.etheriamagazine.com/2023/06/paris-amigas-torre-eiffel.jpg "La Torre Eiffel desde el Trocadero. © SG")
 
-? No te pierdas las vistas de la Torre Eiffel desde **Trocadero**, sobre todo al 
+📍 No te pierdas las vistas de la Torre Eiffel desde **Trocadero**, sobre todo al 
 anochecer cuando se puede disfrutar de las 20.000 luces que centellean cada hora 
 tiñéndola de dorado. 
 
@@ -96,7 +96,7 @@ gratuita y ofrece otra de esas vistas de París desde las alturas que tanto nos 
 
 ![Cúpula de las Galerías Lafayette](https://fotos.etheriamagazine.com/2023/06/paris-amigas-galerias-lafayette.jpg "Cúpula de las Galerías Lafayette. © SG")
 
-? Otra galerías preciosas son los de **La Samaritaine**, cerca del Museo del Louvre. 
+📍 Otra galerías preciosas son los de **La Samaritaine**, cerca del Museo del Louvre. 
 
 ## Visitar el Palais Garnier
 
@@ -133,7 +133,7 @@ podéis acercar si tenéis tiempo suficiente.
 
 ![Jardín de Luxemburgo](https://fotos.etheriamagazine.com/2023/06/Paris-amigas-jardin-luxemburgo.jpg "Jardín de Luxemburgo. © SG")
 
-? Si queréis explorar el barrio más a fondo, son imprescindibles las **iglesias de 
+📍 Si queréis explorar el barrio más a fondo, son imprescindibles las **iglesias de 
 St-Sulpice y de St. Germain-des-Pres** y algunos de los cafés más emblemáticos, como el 
 Café de Flore o Les Deux Magots. 
 
@@ -179,7 +179,7 @@ cena.
 
 ![Barcos para turistas en el Sena.](https://fotos.etheriamagazine.com/2023/06/paris-amigas-sena.jpg "Barcos para turistas en el Sena. © SG")
 
-? Si no tenéis mucho tiempo y no os queréis perder la perspectiva desde el río, una 
+📍 Si no tenéis mucho tiempo y no os queréis perder la perspectiva desde el río, una 
 buena opción es utilizar los [Batobus](https://www.civitatis.com/es/paris/barco-turistico-paris/?aid=10211), 
 que funcionan como un autobús fluvial del que puedes subir y bajar en distintas paradas. 
 
@@ -198,7 +198,7 @@ de este precioso espacio tan querido por los parisinos.
 
 ![Gente tomando el sol en el Jardín de las Tullerías](https://fotos.etheriamagazine.com/2023/06/paris-amigas-tullerias.jpg "Descanso en el Jardín de las Tullerías. © SG")
 
-? Si tenéis tiempo, acercaos al **Museo de l’Orangerie**, ubicado en un antiguo 
+📍 Si tenéis tiempo, acercaos al **Museo de l’Orangerie**, ubicado en un antiguo 
 invernadero de naranjos. Aquí se encuentra la serie de _Nenúfares_ de Monet, además de 
 otras obras de artistas como Modigliani, Picasso o Renoir. 
 
@@ -275,7 +275,7 @@ divertida de almorzar mientras se descansa al aire libre.
 
 ![heladería Berthillon](https://fotos.etheriamagazine.com/2023/06/paris-amigas-berthillon.jpg "No os podéis perder un helado en Berthillon. © Alfonso Fernández-Pacheco")
 
-? Para tomar el que es probablemente el mejor helado de París buscad la marca 
+📍 Para tomar el que es probablemente el mejor helado de París buscad la marca 
 **Berthillon**. Una de sus cafeterías se encuentra en la isla de St. Louis, justo al 
 lado del Pont St. Louis. Sus tartas son también estupendas y tiene una terraza ideal 
 para detenerse a merendar y coger fuerzas. 
@@ -294,7 +294,7 @@ estaciones o en los estancos.
 **Más información en:** [París je t’aime](https://es.parisinfo.com/) [A Tout 
 France](https://www.france.fr/es) 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Planes en París si viajas 
 sola](https://etheriamagazine.com/2019/05/15/viajar-sola-que-ver-paris/) 

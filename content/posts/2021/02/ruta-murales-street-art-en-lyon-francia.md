@@ -11,7 +11,7 @@ authors:
 
 Lyon es una ciudad dinámica que se nutre de sus tradiciones pero que no renuncia a modernos museos ni a sorprendentes muestras de _street art_ a través de enormes murales tamaño XXL. Configurada a escala humana y con un inmenso patrimonio, esta urbe representa, ante todo, el arte de vivir a la francesa.
 
-![foto nocturna de lyon](https://fotos.etheriamagazine.com/2021/01/viaje-lyon-748x1024.jpg "Panorámica nocturna de Lyon. © Tristan Deschamps/ Turismo Lyon")
+![foto nocturna de lyon](https://fotos.etheriamagazine.com/2021/01/viaje-lyon.jpg "Panorámica nocturna de Lyon. © Tristan Deschamps/ Turismo Lyon")
 
 Situado en un enclave excepcional con los dos ríos, Ródano (uno de los más grandes de 
 Francia) y Saona, Lyon ha sabido, a lo largo del tiempo, cultivar, conservar y 
@@ -40,7 +40,7 @@ de Fourvière, la Presquîle (“Casi isla”, situada entre los dos ríos) y la
 aúnan diferentes épocas históricas en muy poco espacio, algo que justifica su nominación 
 como Patrimonio de la Humanidad. 
 
-![museo de las confluences de lyon](https://fotos.etheriamagazine.com/2021/01/Musee-des-Confluences-Lyon-694x1024.jpg "Museo de las Confluences sobre Historia Natural y Antropología. © France Lucas")
+![museo de las confluences de lyon](https://fotos.etheriamagazine.com/2021/01/Musee-des-Confluences-Lyon.jpg "Museo de las Confluences sobre Historia Natural y Antropología. © France Lucas")
 
 Muchos rankings turísticos certifican que Lyon es uno de los destinos favoritos de los 
 turistas internacionales. Posicionado, dentro de las Mejores Ciudades del mundo por 
@@ -86,7 +86,7 @@ soberbio Museo de los Tejidos (Musée des Tissus).
 
 ¿Dónde? _36 Boulevard des Canuts (esquina con la calle Denfert-Rochereau)._ 
 
-![fresco de los lioneses en lyon](https://fotos.etheriamagazine.com/2021/01/Muro-des-lyonnais-en-lyon-683x1024.jpg "Fresco de los Lyoneses. © Franck Chapolard / Turismo Lyon")
+![fresco de los lioneses en lyon](https://fotos.etheriamagazine.com/2021/01/Muro-des-lyonnais-en-lyon.jpg "Fresco de los Lyoneses. © Franck Chapolard / Turismo Lyon")
 
 ### 2\. Fresco de los Lioneses
 
@@ -125,7 +125,7 @@ podremos recordar.
 
 ¿Dónde? _4 Place Gabriel Péri_ 
 
-![fresco lumiere mural de lyon](https://fotos.etheriamagazine.com/2021/01/frescos-Lumiere-lyon-681x1024.jpg "Fresco Lumière: Lyon en 2046. © CitéCréation")
+![fresco lumiere mural de lyon](https://fotos.etheriamagazine.com/2021/01/frescos-Lumiere-lyon.jpg "Fresco Lumière: Lyon en 2046. © CitéCréation")
 
 ### 5\. Fresco Lumière: Lyon en 2046
 
@@ -191,7 +191,7 @@ cuenta la historia de Paul Bocuse. Se recomienda visitarlo de noche porque se il
 
 #### Frescos de la Tres torres de Babel
 
-![frescos de Shanghai en Lyon](https://fotos.etheriamagazine.com/2021/01/Fresco-de-Shanghai-lyon-742x1024.jpg "Frescos de Shanghai, en Lyon. © CitéCréation")
+![frescos de Shanghai en Lyon](https://fotos.etheriamagazine.com/2021/01/Fresco-de-Shanghai-lyon.jpg "Frescos de Shanghai, en Lyon. © CitéCréation")
 
 #### Murales de Shanghai
 

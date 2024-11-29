@@ -12,7 +12,7 @@ authors:
 
 Arte, cultura, historia, jazz y una gastronomía exquisita son la carta de presentación de Cracovia. En el sudeste de Polonia, entre la zona montañosa de los Tatra y las grandes llanuras, esta ciudad se presenta como una de las escapadas más completas del país. Sigue leyendo porque te contamos las visitas esenciales para enamorarte de Cracovia.
 
-![Plaza del Mercado (Cracovia).](https://fotos.etheriamagazine.com/2018/07/Plaza-mercado-cracovia-fin-de-semana-1024x768.jpg "Plaza del Mercado (Cracovia).")
+![Plaza del Mercado (Cracovia).](https://fotos.etheriamagazine.com/2018/07/Plaza-mercado-cracovia-fin-de-semana.jpg "Plaza del Mercado (Cracovia).")
 
 Un caudaloso río, el Vístula, el amparo de sus colinas, la fertilidad de los valles y 
 los bosques frondosos. ¿Qué mejor enclave para establecer una ciudad? Así lo pensó el 
@@ -41,7 +41,7 @@ planta baja está poblada por coloridas **tiendas de artesanía**. En el interio
 **comprar ámbar polaco**, tallas de madera de los vecinos montañeses, cerámica floreada, 
 gorros y guantes de piel. 
 
-![Interior de la Lonja de los Paños, visita imprescindible en Cracovia](https://fotos.etheriamagazine.com/2018/07/Interior-de-la-Lonja-de-los-Panos-en-la-Plaza-del-Mercado-repleto-de-tiendas-de-ambar-cristal-tallas-de-madera-y-piel-1024x683.jpg "Interior de la Lonja de los Paños (Cracovia). ©M.Munar")
+![Interior de la Lonja de los Paños, visita imprescindible en Cracovia](https://fotos.etheriamagazine.com/2018/07/Interior-de-la-Lonja-de-los-Panos-en-la-Plaza-del-Mercado-repleto-de-tiendas-de-ambar-cristal-tallas-de-madera-y-piel.jpg "Interior de la Lonja de los Paños (Cracovia). ©M.Munar")
 
 Se acerca el mediodía, momento en que del campanario de la iglesia de la **Basílica de 
 Santa María**, en una esquina de la plaza, sigue saliendo puntualmente un trompetista 
@@ -64,7 +64,7 @@ Estanislao**, sita también en la colina de Wawel, receptáculo durante siglos d
 coronaciones y los enterramientos de los reyes polacos. Su campana Zygmunt sigue tañendo 
 en las ocasiones excepcionales de la vida del país. 
 
-![El castillo de Vawel y la Catedral de San Estanislao son los edificios icónicos de Cracovia.](https://fotos.etheriamagazine.com/2018/07/Catedral-Cracovia-1024x682.jpg "El castillo de Vawel y la Catedral de San Estanislao son los edificios icónicos de Cracovia.")
+![El castillo de Vawel y la Catedral de San Estanislao son los edificios icónicos de Cracovia.](https://fotos.etheriamagazine.com/2018/07/Catedral-Cracovia.jpg "El castillo de Vawel y la Catedral de San Estanislao son los edificios icónicos de Cracovia.")
 
 Allí podrás saludar a la escultura del famoso dragón Smok y ver el cauce del Vístula que 
 rodea la fortaleza. Al caer la tarde se puede dar un paseo por la **Plaza Szeroka**, en 
@@ -87,7 +87,7 @@ construcción y destrucción humanas. Hoy **Auschwitz** rinde homenaje al horror
 gran comunidad judía que vivía en Cracovia y que fue deportada al campo de exterminio 
 donde la mayoría murió en condiciones infrahumanas. 
 
-![Auschwitz, una visita al terror.](https://fotos.etheriamagazine.com/2018/07/birkenau-402324_1920-1024x685.jpg "Auschwitz, una visita al terror.")
+![Auschwitz, una visita al terror.](https://fotos.etheriamagazine.com/2018/07/birkenau-402324_1920.jpg "Auschwitz, una visita al terror.")
 
 ### Minas de sal de Wieliczka
 
@@ -97,7 +97,7 @@ metros de profundidad y con 300 kilómetros de longitud, estas minas de sal expl
 desde el siglo XIII para extraer sal de mesa cobijan hoy esculturas salinas, 
 candelabros, imágenes y la iglesia de San Kinga. 
 
-![Minas de Sal de Wieliczka, una visita imprescindible en Cracovia](https://fotos.etheriamagazine.com/2018/07/Iglesia-de-Santa-King-hecha-con-sal-dentro-de-las-minas-de-sal-de-Wieliczka-1024x683.jpg "Minas de Sal de Wieliczka. ©M.Munar")
+![Minas de Sal de Wieliczka, una visita imprescindible en Cracovia](https://fotos.etheriamagazine.com/2018/07/Iglesia-de-Santa-King-hecha-con-sal-dentro-de-las-minas-de-sal-de-Wieliczka.jpg "Minas de Sal de Wieliczka. ©M.Munar")
 
 Un lugar aconsejable para cenar es [Kogel Mogel](https://kogel-mogel.pl/), nombre de un 
 revitalizador grog polaco. El restaurante pertenece a la nueva escena gastronómica de 
@@ -107,7 +107,7 @@ murales acompañan a una carta en la que al conejo en salsa de eneldo se le llam
 _Soldado Rojo_, también sirven _Arenque Revolucionario_ y a la tarta pavlova con cerezas 
 rojas se le denomina _La Joven del Tractor_... 
 
-![Stalowe Magnolie, el club de moda en Cracovia.](https://fotos.etheriamagazine.com/2018/07/El-Club-de-moda-en-la-noche-cracoviana-Stalowe-Magnolie-1024x768.jpg "Stalowe Magnolie, el club de moda en Cracovia. ©M.Munar")
+![Stalowe Magnolie, el club de moda en Cracovia.](https://fotos.etheriamagazine.com/2018/07/El-Club-de-moda-en-la-noche-cracoviana-Stalowe-Magnolie.jpg "Stalowe Magnolie, el club de moda en Cracovia. ©M.Munar")
 
 Y, para terminar la noche, nada mejor que escuchar música en vivo en un ambiente 
 distendido en un recoveco de la Plaza del Mercado. Es un placer disfrutar de **Stalowe 

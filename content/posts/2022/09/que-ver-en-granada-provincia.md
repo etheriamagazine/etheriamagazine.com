@@ -1,5 +1,5 @@
 ---
-title: "15 lugares imprescindibles en Granada, una provincia de belleza descomunal"
+title: "15 imprescindibles de la provincia de Granada para un viaje bien organizado"
 date: 2022-09-30
 coverImage: https://fotos.etheriamagazine.com/2022/09/granada-parque-Sierra-Nevada.jpg
 categories: 
@@ -45,7 +45,7 @@ zona de tapeo del centro hasta sus edificios religiosos, pasando por sus museos,
 y miradores. No olvides, eso sí, que no te puedes marchar de la ciudad sin visitar la 
 Alhambra y el Generalife. 
 
-**NO TE PIERDAS**:**** [Granada con amigas: cultura, diversión y mucho 
+**No te pierdas**:**** [Granada con amigas: cultura, diversión y mucho 
 arte](https://etheriamagazine.com/2022/06/16/granada-con-amigas/). 
 
 ![Jardines del Generalife.](https://fotos.etheriamagazine.com/2022/09/granada-generalife.jpg "Jardines del Generalife.")
@@ -75,7 +75,7 @@ Es aquí donde se halla el Mirador de San Nicolás, que regala una vista formida
 mágica de la Alhambra. El Sacromonte, conocido mundialmente por sus cuevas, es el gran 
 territorio de la vida gitana y flamenca. 
 
-?**No te pierdas:** [El Albaicín y La Alhambra, dos visitas ineludibles en 
+**No te pierdas:** [El Albaicín y La Alhambra, dos visitas ineludibles en 
 Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/). 
 
 ![Barrio de Sacromonte, de casas blancas y calles empinadas.](https://fotos.etheriamagazine.com/2022/09/granada-Sacromonte.jpg "Barrio de Sacromonte.")
@@ -101,7 +101,7 @@ municipales de Granada. Y la que fue la casa de los García Lorca alberga los mu
 cuadros y enseres de la vivienda, así como dibujos, poemas y objetos de uso cotidiano 
 del autor de _Yerma_ y _Doña Rosita la soltera_. 
 
-?**No te pierdas**: [Ruta de Lorca en Granada, un paseo por sus lugares más 
+**No te pierdas**: [Ruta de Lorca en Granada, un paseo por sus lugares más 
 íntimos](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/). 
 
 ![Huerta de San Vicente, hogar de Federico García Lorca.](https://fotos.etheriamagazine.com/2022/09/granada-Huerta-de-San-Vicente.jpg "Huerta de San Vicente, hogar de Federico García Lorca.")
@@ -115,7 +115,7 @@ Real, que también ofrecen unas panorámicas de vértigo de las cúpulas y torre
 cristianas. Y desde el de San Cristóbal, se divisan las cumbres de Sierra Nevada, la 
 vega y las murallas árabes. Todo en un solo golpe de pestañas. 
 
-?**Si vas en familia:** [Tadeo Jones en Granada, un viaje de cine en 
+**Si vas en familia:** [Tadeo Jones en Granada, un viaje de cine en 
 familia](https://etheriamagazine.com/2020/11/22/tadeo-jones-ruta-de-cine-en-granada/). 
 
 ![Mirador de San Nicolás con vista a la Alhambra desde el Albaicín.](https://fotos.etheriamagazine.com/2022/09/granada-Mirador-San-Nicolas.jpg "Mirador de San Nicolás, en el Albaicín.")

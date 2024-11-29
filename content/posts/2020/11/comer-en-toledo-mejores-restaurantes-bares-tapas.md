@@ -182,7 +182,7 @@ agradable, con barra, varios saloncitos y una gran terraza todo el año, lo que 
 llaman el “jardín”, que es en realidad un precioso patio interior lleno de encanto. 
 Calle Tendillas, 3. Tel. 925 225 925 
 
-![alfileritos bar de tapas](https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-Alfileritos24-900x600.jpg "Tapas en el restaurante © Alfileritos 24")
+![alfileritos bar de tapas](https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-Alfileritos24.jpg "Tapas en el restaurante © Alfileritos 24")
 
 ### 7\. Alfileritos 24
 

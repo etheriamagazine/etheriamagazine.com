@@ -131,7 +131,7 @@ Contamos entre nuestras firmas colaboradoras con la psicóloga y sexóloga Ana S
 las tertulias en calidad de moderadoras, como hemos mencionado anteriormente, y con las 
 que es un lujo poder contar. 
 
-? **Greta Libros con Garbo está recomendado por Etheria Magazine** como un Proyecto con 
+📌 **Greta Libros con Garbo está recomendado por Etheria Magazine** como un Proyecto con 
 Alma. Si queréis conocer más a fondo este nuevo modelo de suscripción y club de lectura, 
 sólo tenéis que entrar en su web [www.gretalibroscongarbo.com](https://gretalibroscongarbo.com/) 
 y seguirles la pista. No os defraudará. 

@@ -161,5 +161,5 @@ Fotos: Cedidas por Turismo de Castelló.
 Si te quedas un día más en Castellón de la Plana, toma nota de esta actividad tan 
 original como divertida, a pesar del madrugón. 
 
-?[Pescaturismo en Castellón, un plan original para hacer con amigas o en 
+📍[Pescaturismo en Castellón, un plan original para hacer con amigas o en 
 familia](https://etheriamagazine.com/2021/01/12/pescaturismo-en-castellon-plan-original-familias-amigos/)

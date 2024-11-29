@@ -45,7 +45,7 @@ acantilados bajos. Y al este destacan las playas de **Es Pujols**, **Sa Roqueta*
 **Ses Platgetes**, esta última más al sur. También hay coquetas calas como **Caló d'es 
 Mort** o **Es Caló de Sant Agustí**. Os van a encantar todas. 
 
-?**No te pierdas:** [La mejor guía de playas de 
+📍**No te pierdas:** [La mejor guía de playas de 
 Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-playas-formentera/). 
 
 ## Ver amanecer y atardecer

@@ -189,7 +189,7 @@ que funcionan muy bien.
 
 ![Rupias de Indonesia.](https://fotos.etheriamagazine.com/2023/06/maleta-bali-rupias-indonesias.jpg "Rupias de Indonesia.")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Si quieres a tu pareja no viajes a 
 Bali](https://etheriamagazine.com/2019/07/23/luna-miel-bali-maldicion-ruptura/) 

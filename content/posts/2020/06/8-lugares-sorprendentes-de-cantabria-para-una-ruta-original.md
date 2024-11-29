@@ -211,8 +211,8 @@ sobaos**, con el que terminar la visita.
 
 ### Más de Cantabria en Etheria Magazine
 
-?[Actividades con amigas en 
+📍[Actividades con amigas en 
 Cantabria](http://etheriamagazine.com/2020/02/17/5-experiencias-en-cantabria-para-un-fin-de-semana-con-amigas/). 
 
-?[Cantabria en 
+📍[Cantabria en 
 familia](http://etheriamagazine.com/2018/07/13/cantabria-viaje-en-familia/).

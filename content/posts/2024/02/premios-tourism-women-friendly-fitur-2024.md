@@ -15,7 +15,7 @@ La entidad Mujeres para el Diálogo y la Educación entregó un año más sus Pr
 de los lavaderos’, creada por la Asociación de Mujeres El Castañar, de Mecina Bombarón, 
 en la categoría de Destino, y Etheria Magazine en la de Experiencia. 
 
-![Foto de familia de MDE, jurado y premiados.](https://fotos.etheriamagazine.com/2024/02/premio-women-tourism-friendly-2024-etheria-850x567.jpg "Foto de familia de MDE, jurado y premiados. © MDE")
+![Foto de familia de MDE, jurado y premiados.](https://fotos.etheriamagazine.com/2024/02/premio-women-tourism-friendly-2024-etheria.jpg "Foto de familia de MDE, jurado y premiados. © MDE")
 
 No podría haber un marco más adecuado para hacer entrega de los V Premios Tourism Women 
 Friendly, creados por la organización de [Mujeres para el Diálogo y la 
@@ -59,7 +59,7 @@ llevado a seleccionar la Etheria Magazine como la candidata perfecta en la categ
 miembro del Jurado, entregó dicho galardón a Pepa García y Susana García, fundadoras de 
 Etheria Magazine. 
 
-![Asociación de Mujeres El Castañar, de Mecina Bombarón.](https://fotos.etheriamagazine.com/2024/02/ruta-lavaderos-850x567.jpg "Asociación de Mujeres El Castañar, de Mecina Bombarón. © Alpujarradelasierra.es")
+![Asociación de Mujeres El Castañar, de Mecina Bombarón.](https://fotos.etheriamagazine.com/2024/02/ruta-lavaderos.jpg "Asociación de Mujeres El Castañar, de Mecina Bombarón. © Alpujarradelasierra.es")
 
 ## Ruta de los Lavaderos, Premio Tourism Women Friendly al Mejor Destino
 

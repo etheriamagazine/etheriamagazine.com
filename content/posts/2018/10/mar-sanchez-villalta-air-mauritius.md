@@ -23,7 +23,7 @@ Mis primeros recuerdos son las vacaciones de verano a Guardamar del Segura (Alic
 
 Fue a **Mali donde estuve con mi mejor amiga, Julia Higueras,** directora de la revista _Anoche tuve un sueño_. Fue transformador para ambas y toda una aventura. Allí me di cuenta de que, a pesar de las diferencias entre su gente y nosotras, había muchas más cosas que nos acercaban de las que nos separaban. **Viajar nos aporta muchas enseñanzas y nos abre el corazón.**
 
-\[caption id="attachment\_3863" align="aligncenter" width="1024"\]![mar sanchez villalta air mauritius](https://fotos.etheriamagazine.com/2018/09/Mar-sanchez-primeros-viajes-1024x542.jpg) (Izq.) Voluntariado en Etiopía con las Misioneras de la Caridad de la Madre Teresa de Calcuta. (Dcha.) Mali.\[/caption\]
+\[caption id="attachment\_3863" align="aligncenter" width="1024"\]![mar sanchez villalta air mauritius](https://fotos.etheriamagazine.com/2018/09/Mar-sanchez-primeros-viajes.jpg) (Izq.) Voluntariado en Etiopía con las Misioneras de la Caridad de la Madre Teresa de Calcuta. (Dcha.) Mali.\[/caption\]
 
 ##### 3\. ¿Cuál es tu principal motivación al viajar?
 
@@ -39,7 +39,7 @@ Viajar me ha aportado una visión del mundo diferente, me ha enriquecido, me ha 
 
 **Mi hijo David**. Llevamos viajando 25 años (los que tiene) y es un regalo seguir disfrutando de su compañía. Creo que he sabido inculcarle la importancia de ser una persona viajada y lo que conlleva.
 
-\[caption id="attachment\_3840" align="aligncenter" width="745"\]![mar sanchez villalta mujer etheria air mauritius](https://fotos.etheriamagazine.com/2018/09/mar-air-mauritius-mujer-etheria-3-745x1024.jpg) Mar Sánchez Villalta con su hijo David en Agra (India, 2018).\[/caption\]
+\[caption id="attachment\_3840" align="aligncenter" width="745"\]![mar sanchez villalta mujer etheria air mauritius](https://fotos.etheriamagazine.com/2018/09/mar-air-mauritius-mujer-etheria-3.jpg) Mar Sánchez Villalta con su hijo David en Agra (India, 2018).\[/caption\]
 
 ##### 6\. ¿Sueles planificar con antelación tus viajes o prefieres improvisar?
 
@@ -77,7 +77,7 @@ Para largas distancia, sin duda el avión, pero también en coche porque me da l
 
 Después de tantos años viajando, tanto por trabajo como por placer, son muchos los hoteles que me han hecho volver para experimentar de nuevo la experiencia. Sin duda, mi preferido es el [hotel Shangri-La de Isla Mauricio](http://www.shangri-la.com/mauritius/shangrila/) frente a las maravillosas islas de los Ciervos y Mangenie, este último es un islote privado exclusivo para sus clientes. Me impresiona sobre todo la naturaleza, ese mar azul turquesa difícil de olvidar.
 
-\[caption id="attachment\_3867" align="aligncenter" width="1024"\]![Shangri La de Isla Mauricio](https://fotos.etheriamagazine.com/2018/09/Beach-Villa-Living-Room-mauricio-1024x683.jpg) © Hotel Shangri-La de Isla Mauricio\[/caption\]
+\[caption id="attachment\_3867" align="aligncenter" width="1024"\]![Shangri La de Isla Mauricio](https://fotos.etheriamagazine.com/2018/09/Beach-Villa-Living-Room-mauricio.jpg) © Hotel Shangri-La de Isla Mauricio\[/caption\]
 
 ##### 14\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 

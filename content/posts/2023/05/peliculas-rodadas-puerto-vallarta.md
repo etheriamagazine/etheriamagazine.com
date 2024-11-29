@@ -53,7 +53,7 @@ entonces quemaba las noches madrileñas. A esta ciudad tuvieron que viajar los m
 Huston y Stark para convencerla de actuar en la película, ya que ella en un principio no 
 tenía demasiadas ganas y estaba contenta con su dilatada vida de Madrid. 
 
-?Puedes conocer más sobre la intensa vida de **Ava Gardner en Madrid** en nuestro 
+📍Puedes conocer más sobre la intensa vida de **Ava Gardner en Madrid** en nuestro 
 artículo [Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer 
 ‘alfa’](https://etheriamagazine.com/2022/01/12/ruta-ava-gardner-en-madrid/). 
 
@@ -96,7 +96,7 @@ la Segunda Guerra Mundial. La idea de la novela le vino al observar la indolenci
 gente en las playas tropicales mexicanas que vivía la vida relajadamente y se evadía de 
 cualquier problema que no fuera su propia existencia. 
 
-?**Un detalle para cinéfilos**: John Huston consideró oportuno rodar _La noche de la 
+📍**Un detalle para cinéfilos**: John Huston consideró oportuno rodar _La noche de la 
 iguana_ en blanco y negro para que el color exuberante del trópico no quitará 
 protagonismo a la profundidad de la historia. 
 
@@ -216,7 +216,7 @@ saludando a un tigre feroz o pilotando un avión.
 
 **Turismo de Riviera Nayarit**: www.rivieranayarit.com 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 yacimientos arqueológicos de México que no puedes 
 perderte](https://etheriamagazine.com/2021/03/30/mejores-yacimientos-arqueologicos-mexico/) 

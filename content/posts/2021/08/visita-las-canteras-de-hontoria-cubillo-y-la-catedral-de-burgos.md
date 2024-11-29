@@ -141,7 +141,7 @@ la puerta de Santa María, la Casa del Cordón, la iglesia de Nuestra Señora de
 el Hospital del Rey, y, por supuesto, el monasterio de las Huelgas y la Catedral de 
 Santa María de Burgos. 
 
-![respiradero galeria el pozo hontoria](https://fotos.etheriamagazine.com/2021/08/galeria-el-pozo-683x1024.jpg "Respiradero de la galería El Pozo, en las canteras de Hontoria, Cubillo y Tornadijo. © Pepa García")
+![respiradero galeria el pozo hontoria](https://fotos.etheriamagazine.com/2021/08/galeria-el-pozo.jpg "Respiradero de la galería El Pozo, en las canteras de Hontoria, Cubillo y Tornadijo. © Pepa García")
 
 ## Catedral de Burgos, una joya gótica con 800 años
 
@@ -191,7 +191,7 @@ De martes a domingo: a las 10, 12 y 17 horas. Precio: adultos, 10 €, y niños 
 años, 5 €. Reservas en [Patrimonio de la Luz](http://www.patrimoniodelaluz.com/). Cómo 
 llegar: Abre este enlace de [Google 
 Maps](https://www.google.com/maps/dir//Patrimonio+de+la+Luz+Conjunto+Monumental+Crtra.+Nacional,+234+km.+475+09351+Hontoria+de+la+Cantera+Burgos/@42.1708452,-3.6336156,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0xd45dd062fd43995:0xcdcb2d03306d4026!2m2!1d-3.6336156!2d42.1708452). 
-? Recomendaciones en el interior de las canteras de Hontoria, Cubillo y Tornadijo: ropa 
+📌 Recomendaciones en el interior de las canteras de Hontoria, Cubillo y Tornadijo: ropa 
 de abrigo y calzado deportivo. 
 
 ![escalera dorada catedral de burgos](https://fotos.etheriamagazine.com/2021/08/catedral-burgos-escaleras.jpg "Escalera dorada de la Catedral de Burgos. © Pepa García")
@@ -212,20 +212,20 @@ pena admirar las 120 obras que han llegado de catedrales de toda España.
 
 ##### Rutas en Burgos
 
-? Si eres aficionado a la fotografía, existe una ruta de miradores en Burgos que también 
-ofrece interesantes puntos de vista. [Descarga el 
+📌 Si eres aficionado a la fotografía, existe una ruta de miradores en Burgos que 
+también ofrece interesantes puntos de vista. [Descarga el 
 pdf](https://www.miradorescatedraldeburgos.es/media/4tjftf4x/miradorescatedraldeburgos.pdf). 
 
-? [Free tour en 
+📌 [Free tour en 
 Burgos](https://www.civitatis.com/es/burgos/free-tour-burgos/?aid=10211). 
 
 ##### Misterios en la cantera de Hontoria, Cubillo y Tornadijo y en Burgos capital
 
-? Descubre los misterios y energías sobrenaturales de estas canteras en Cuarto Milenio, 
+📌 Descubre los misterios y energías sobrenaturales de estas canteras en Cuarto Milenio, 
 el [programa de Iker 
 Jiménez](https://www.cuatro.com/cuarto-milenio/programas/temporada-09/t09xp43/Misterio-Polvorin-Hontoria_2_1823355034.html). 
 
-? Realiza una [visita guiada por el Burgos más 
+📌 Realiza una [visita guiada por el Burgos más 
 enigmático](https://www.civitatis.com/es/burgos/tour-misterios-leyendas/?aid=10211) con 
 Civitatis. Consulta fechas de realización. 
 

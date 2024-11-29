@@ -96,7 +96,7 @@ El otro espacio es el **Restaurante Gala & Pool Bar**, un agradable espacio acri
 con terraza (donde también se toma el desayuno) con una carta de platos ligeros 
 preparados con ingredientes frescos que, además, da servicio a la piscina. 
 
-![Jardín del hotel en el centro de Roma](https://fotos.etheriamagazine.com/2022/05/villa-agripina-bar-683x1024.jpg "Terraza del restaurante Gala.")
+![Jardín del hotel en el centro de Roma](https://fotos.etheriamagazine.com/2022/05/villa-agripina-bar.jpg "Terraza del restaurante Gala.")
 
 ## El spa y mucho más
 

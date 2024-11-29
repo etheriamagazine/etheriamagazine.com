@@ -15,7 +15,7 @@ capital, un poco de puntillas para centrarnos en el resto del país. Si te está
 preguntando si merece la pena detenerse más de un día en esta ciudad, te confirmamos que 
 sí. Si quieres saber todo lo que tienes que ver en Taipéi, sigue leyendo... 
 
-![Vistas desde el Grand Hotel de Taipéi.](https://fotos.etheriamagazine.com/2019/12/vistas-taipei-desde-grand-hotel-900x594.jpg "Vistas desde el Grand Hotel de Taipéi.  © Pepa García")
+![Vistas desde el Grand Hotel de Taipéi.](https://fotos.etheriamagazine.com/2019/12/vistas-taipei-desde-grand-hotel.jpg "Vistas desde el Grand Hotel de Taipéi.  © Pepa García")
 
 Si eres de los que has reservado una sola noche en la capital de Taiwán y quieres ver el 
 máximo posible en 24 o 48 horas sigue leyendo porque vamos a concentrar lo más 
@@ -37,7 +37,7 @@ ofrece bellísimas panorámicas de la ciudad desde las terrazas de las habitacio
 Cuenta también con numerosos restaurantes, tiendas y unos preciosos jardines donde 
 pasear. 
 
-![Fachada principal del Grand Hotel de Taipéi.](https://fotos.etheriamagazine.com/2019/12/Grand-Hotel-Taipei-900x549.jpg "Fachada principal del Grand Hotel de Taipéi. © P.G.")
+![Fachada principal del Grand Hotel de Taipéi.](https://fotos.etheriamagazine.com/2019/12/Grand-Hotel-Taipei.jpg "Fachada principal del Grand Hotel de Taipéi. © P.G.")
 
 ## Qué ver y hacer en Taipéi en un día
 
@@ -46,7 +46,7 @@ recorrido turístico que contemple tanto los espacios y monumentos más tradicio
 aquellos más vanguardistas. Y, por supuesto, hay que reservar tiempo para el capítulo 
 gastronómico y de compras porque merece mucho la pena. 
 
-![Este rascacielos, el Taipéi 101, alcanza 508 metros de altura.](https://fotos.etheriamagazine.com/2019/12/Taipei-Torre-101-683x1024.jpg "Este rascacielos, el Taipéi 101, alcanza 508 metros de altura. © P.G.")
+![Este rascacielos, el Taipéi 101, alcanza 508 metros de altura.](https://fotos.etheriamagazine.com/2019/12/Taipei-Torre-101.jpg "Este rascacielos, el Taipéi 101, alcanza 508 metros de altura. © P.G.")
 
 ### 1\. Rascacielo Taipéi 101
 
@@ -63,7 +63,7 @@ con la perfección, ya que si la centena se relaciona con esta cualidad, ¡el 10
 sobrepasa! También es el número del distrito donde se sitúa, y evoca a los números 
 binarios, que en un país tan tecnológico tiene su importancia. 
 
-![Museo Nacional del Palacio, en Taipéi.](https://fotos.etheriamagazine.com/2019/12/Museo-Nacional-del-Palacio-Taipei-900x610.jpg "Museo Nacional del Palacio, en Taipéi. © P.G.")
+![Museo Nacional del Palacio, en Taipéi.](https://fotos.etheriamagazine.com/2019/12/Museo-Nacional-del-Palacio-Taipei.jpg "Museo Nacional del Palacio, en Taipéi. © P.G.")
 
 ### 2\. Museo Nacional del Palacio
 
@@ -74,7 +74,7 @@ mejores obras artísticas chinas, ya que los disidentes con el régimen chino se
 trajeron a Taiwán al huir del país. Las piezas que se consideran imprescindibles, en las 
 que siempre habrá cola, son realmente interesantes. 
 
-![col de jadeita y agata con forma de carne de cerdo](https://fotos.etheriamagazine.com/2019/12/Museo-Nacional-del-Palacio-Taipei-col-900x617.jpg "Obras estelares del Museo Nacional del Palacio, en Taipéi. © P. García")
+![col de jadeita y agata con forma de carne de cerdo](https://fotos.etheriamagazine.com/2019/12/Museo-Nacional-del-Palacio-Taipei-col.jpg "Obras estelares del Museo Nacional del Palacio, en Taipéi. © P. García")
 
 Una de ellas, consideraba _la Mona Lisa_ del museo, es la **col de jadeíta**, que parece 
 que formaba parte de la dote que llevó al palacio la concubina del emperador Kuang-hsu 
@@ -85,7 +85,7 @@ frita de cerdo (dinastía Ching), y una vasija de bronce con miles de inscripcio
 reproducciones para que los invidentes las puedan tocar. Por último, reserva también un 
 poco de tiempo para pasear por sus jardines que ocupan casi dos hectáreas. 
 
-![Templo de Bao An (Taipéi).](https://fotos.etheriamagazine.com/2019/12/Taipei-Templo-Bao-An-900x554.jpg "Templo de Bao An (Taipéi). © P.G.")
+![Templo de Bao An (Taipéi).](https://fotos.etheriamagazine.com/2019/12/Taipei-Templo-Bao-An.jpg "Templo de Bao An (Taipéi). © P.G.")
 
 ### 3\. Templos de Taipéi: Lungshan y Baoan
 
@@ -101,14 +101,14 @@ estancias con los distintos dioses y diosas, las figuras de dragones en los aler
 farolillos rojos y las preciosas orquídeas naturales. Enfrente del templo de Baoan se 
 sitúa un agradable jardín con estanque, es un lugar tranquilo donde recuperar fuerzas. 
 
-![Detalles del alero del templo de Bao An.](https://fotos.etheriamagazine.com/2019/12/Taipei-Templo-Bao-dragones-900x601.jpg "Detalles del alero del templo de Bao An. © P.G.")
+![Detalles del alero del templo de Bao An.](https://fotos.etheriamagazine.com/2019/12/Taipei-Templo-Bao-dragones.jpg "Detalles del alero del templo de Bao An. © P.G.")
 
 Si eres admiradora de las enseñanzas de Confucio, también puedes acercarte a su templo. 
 Es un lugar que nada tiene que ver con los anteriores, ya que el maestro se oponía a la 
 idolatría y a los lujos. Aún hoy día, los estudiantes antes de realizar sus exámenes se 
 acercan allí para pedir un poco de sabiduría. 
 
-![Memorial de Chiang Kai Shek](https://fotos.etheriamagazine.com/2019/12/Memorial-Chiang-Kai-Shek-900x596.jpg "Memorial de Chiang Kai Shek. © Pixabay")
+![Memorial de Chiang Kai Shek](https://fotos.etheriamagazine.com/2019/12/Memorial-Chiang-Kai-Shek.jpg "Memorial de Chiang Kai Shek. © Pixabay")
 
 ### 4\. Cambio de guardia en el Chiang Kai Shek
 
@@ -122,7 +122,7 @@ En su interior alberga varias salas conmemorativas, expositivas y de conciertos.
 tienes mucho tiempo, es interesante ir, al menos, a ver el cambio de guardia que se hace 
 cada hora hasta las 6 de la tarde. 
 
-![Atardecer desde Elephant Mountain](https://fotos.etheriamagazine.com/2019/12/atardecer-elephant-mountain-900x600.jpg "Atardecer desde Elephant Mountain. © Jack Brind")
+![Atardecer desde Elephant Mountain](https://fotos.etheriamagazine.com/2019/12/atardecer-elephant-mountain.jpg "Atardecer desde Elephant Mountain. © Jack Brind")
 
 ### 5\. Atardecer desde Elephant Mountain (Xiangshan)
 
@@ -132,7 +132,7 @@ escaleras que llevan a la cumbre sin agotarse. A la base del monte se puede lleg
 andando desde la torre Taipéi 101 en unos 15 minutos, pero cuenta con otros 20 minutos o 
 algo más para llegar a la cima. 
 
-![Ambiente del mercado nocturno de Shilin.](https://fotos.etheriamagazine.com/2019/12/Mercado-nocturno-Shilin-Taipei-900x625.jpg "Ambiente del mercado nocturno de Shilin. © P.G.")
+![Ambiente del mercado nocturno de Shilin.](https://fotos.etheriamagazine.com/2019/12/Mercado-nocturno-Shilin-Taipei.jpg "Ambiente del mercado nocturno de Shilin. © P.G.")
 
 ### 6\. Mercados nocturnos de Taipéi: Shilin Night Market
 
@@ -145,7 +145,7 @@ Son los lugares idóneos para los viajeros deseosos de probar la cocina local. U
 históricos y más grandes es el **Shilin Night Market** que permanece en activo desde 
 1909. 
 
-![toda la familia se divierte en el mercado nocturno de Shilin.](https://fotos.etheriamagazine.com/2019/12/Mercado-nocturno-Shilin-Taipei-familia-677x1024.jpg "Toda la familia se divierte en el mercado nocturno de Shilin. © P.G.")
+![toda la familia se divierte en el mercado nocturno de Shilin.](https://fotos.etheriamagazine.com/2019/12/Mercado-nocturno-Shilin-Taipei-familia.jpg "Toda la familia se divierte en el mercado nocturno de Shilin. © P.G.")
 
 ### 7\. Ximending, el barrio de las compras de Taipéi
 
@@ -155,7 +155,7 @@ variedad de artilugios electrónicos a buen precio. No es la panacea, pero los p
 móviles, ordenadores, discos duros, etc. resultan ventajosos respecto a los precios 
 españoles. 
 
-![Ximending (Taipéi).](https://fotos.etheriamagazine.com/2019/12/taipei-ximending-900x675.jpg "Ximending (Taipéi). © Pixabay")
+![Ximending (Taipéi).](https://fotos.etheriamagazine.com/2019/12/taipei-ximending.jpg "Ximending (Taipéi). © Pixabay")
 
 ### 8\. Memorial de Sun Yat-sen
 
@@ -166,7 +166,7 @@ histórica, además de algunas muestras temporales de artistas nacionales e
 internacionales. Es un buen lugar para descansar y disfrutar con la imagen de las 
 flores, de su lago con nenúfares, de los sauces y del puente de Xiang Shan. 
 
-![Deliciosos dumplings del restaurante Din Tai Fung de Taipéi.](https://fotos.etheriamagazine.com/2019/12/Restaurante-Din-Tai-Fung-Taipei-900x546.jpg "Deliciosos dumplings del restaurante Din Tai Fung de Taipéi. © P.G.")
+![Deliciosos dumplings del restaurante Din Tai Fung de Taipéi.](https://fotos.etheriamagazine.com/2019/12/Restaurante-Din-Tai-Fung-Taipei.jpg "Deliciosos dumplings del restaurante Din Tai Fung de Taipéi. © P.G.")
 
 ### 9\. Din Tai Fung: restaurante imprescindible en Taipéi
 
@@ -178,7 +178,7 @@ exitosos en Hong Kong, Australia, Tailandia, etc. La cocina está a la vista y s
 _dumplings_ son toda una leyenda, muy merecida, por cierto. Déjate aconsejar porque toda 
 la carta es fantástica. 
 
-![Cambio de guardia.](https://fotos.etheriamagazine.com/2019/12/taipei-cambio-guardia-900x600.jpg "Cambio de guardia. ©Pixabay")
+![Cambio de guardia.](https://fotos.etheriamagazine.com/2019/12/taipei-cambio-guardia.jpg "Cambio de guardia. ©Pixabay")
 
 ### 10\. Santuario de los Mártires Nacionales
 

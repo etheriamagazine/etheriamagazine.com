@@ -49,7 +49,7 @@ Ubicada en la parte sudoriental de Francia, todo en ella parece girar en torno a
 de la uva. Destaca su **Ciudad del Vino** y en 2022 ha sido nombrada capital del Smart 
 Tourism. 
 
-?No te pierdas: [La Ciudad del Vino, visita obligada en 
+📌No te pierdas: [La Ciudad del Vino, visita obligada en 
 Burdeos](https://etheriamagazine.com/2018/12/12/la-ciudad-del-vino-visita-obligada-en-burdeos/). 
 
 Merece la pena acercarse a conocer sus viñedos eco-responsables. Uno de los más 
@@ -147,7 +147,7 @@ pequeños enfocadas en el mundo natural.
 
 ![Angers iluminada](https://fotos.etheriamagazine.com/2022/10/francia-angers.jpg "Vista del puente de Verdun en Angers por la noche.")
 
-? **También te puede interesar:** 
+📍 **También te puede interesar:** 
 
 [Marsella, guía para un fin de semana cultural y 
 hedonista](https://etheriamagazine.com/2020/07/10/viajar-sola-amigas-marsella-que-ver-hacer/) 

@@ -93,7 +93,7 @@ cuantos selfis.
 
 Precio: desde 61 libras (sin champán). 
 
-![Mesa preparada en el hotel boutique Franklin.](https://fotos.etheriamagazine.com/2023/03/tomar-te-hotel-franklin-londres-850x531.jpg "Mesa preparada en el © hotel boutique Franklin.")
+![Mesa preparada en el hotel boutique Franklin.](https://fotos.etheriamagazine.com/2023/03/tomar-te-hotel-franklin-londres.jpg "Mesa preparada en el © hotel boutique Franklin.")
 
 ## The Franklin
 

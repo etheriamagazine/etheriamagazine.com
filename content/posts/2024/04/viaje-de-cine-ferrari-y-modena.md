@@ -15,7 +15,7 @@ es a la ciudad italiana de Módena y se pueden conocer los lugares "vividos" por
 protagonistas de la película "Ferrari", Penélope Cruz y Adam Driver, es algo imposible 
 de rechazar. 
 
-![Coche deportivo en Módena durante el Motor Valley Fest.](https://fotos.etheriamagazine.com/2024/04/Modena-Motor-Valley-Fest-850x528.jpg "Módena durante el Motor Valley Fest. © Pedro Grifol")
+![Coche deportivo en Módena durante el Motor Valley Fest.](https://fotos.etheriamagazine.com/2024/04/Modena-Motor-Valley-Fest.jpg "Módena durante el Motor Valley Fest. © Pedro Grifol")
 
 La película ‘Ferrari’, estrenada en España en febrero de 2024, se ha convertido en una 
 de las más taquilleras del año; en parte porque la vida del piloto y fundador de la 
@@ -29,7 +29,7 @@ estas contradicciones, lo que le hacen humano”. Nadie quería meter el bistur�
 privada, hasta que lo hizo el escritor Brock Yates, autor de la biografía ‘Enzo Ferrari: 
 El hombre y la máquina’ (1991), libro en el que está basada la película de Mann. 
 
-![Cartel de la película Ferrari.](https://fotos.etheriamagazine.com/2024/04/Cartel-Pelicula-ferrari-850x478.jpg "Cartel de la película Ferrari, dirigida por Michael Mann y protagonizada, entre otros, por Penélope Cruz.")
+![Cartel de la película Ferrari.](https://fotos.etheriamagazine.com/2024/04/Cartel-Pelicula-ferrari.jpg "Cartel de la película Ferrari, dirigida por Michael Mann y protagonizada, entre otros, por Penélope Cruz.")
 
 ## El biopic de Enzo Ferrari
 
@@ -55,7 +55,7 @@ la marca y competir con sus coches. Ahí empieza su actividad como piloto de car
 Después, Ferrari pidió a Alfa Romeo que le permitiera convertirse en un vendedor de la 
 marca. En esta actividad Ferrari conoció a Laura Garello, con quien se casó en 1923. 
 
-![Fotografía de Enzo Ferrari](https://fotos.etheriamagazine.com/2024/04/modena-foto-Enzo-Ferrari-850x628.jpg "Enzo Ferrari. © Pedro Grifol")
+![Fotografía de Enzo Ferrari](https://fotos.etheriamagazine.com/2024/04/modena-foto-Enzo-Ferrari.jpg "Enzo Ferrari. © Pedro Grifol")
 
 ### Odios y dramas familiares
 
@@ -77,7 +77,7 @@ patriarca fallece en 1988 a los 90 años, y la propiedad de la marca Ferrari pas
 90% del grupo Fiat y 10% de Piero Ferrari. Ahora, la familia, que ya no es secreta, 
 continúa… 
 
-![Despacho de Enzo Ferrari con la foto de su hijo Dino.](https://fotos.etheriamagazine.com/2024/04/modena-Despacho-Enzo-Ferrari-850x521.jpg "Despacho de Enzo Ferrari con la foto de su hijo Dino. © Pedro Grifol.")
+![Despacho de Enzo Ferrari con la foto de su hijo Dino.](https://fotos.etheriamagazine.com/2024/04/modena-Despacho-Enzo-Ferrari.jpg "Despacho de Enzo Ferrari con la foto de su hijo Dino. © Pedro Grifol.")
 
 ## El tour guiado de Ferrari en Módena
 
@@ -90,7 +90,7 @@ de la Unesco. Su museo más notorio es el Palacio del siglo XVIII que alberga la
 **Galería Estense**, con obras de Tintoretto y un busto de Bernini. Hasta aquí una 
 sucinta exposición de la ciudad… para centrarnos en el tour guiado. 
 
-![Peluquería Bottega del Barbiere.](https://fotos.etheriamagazine.com/2024/04/Modena-Peluqueria-Bottega-Barbiere-850x552.jpg "Peluquería Bottega del Barbiere. © Pedro Grifol")
+![Peluquería Bottega del Barbiere.](https://fotos.etheriamagazine.com/2024/04/Modena-Peluqueria-Bottega-Barbiere.jpg "Peluquería Bottega del Barbiere. © Pedro Grifol")
 
 ### Lugares favoritos de Enzo Ferrari
 
@@ -108,7 +108,7 @@ Pavarotti-Freni**, donde se han rodado las escenas de ópera; y **La Bottega del
 Barbiere**, la barbería del Corso Canalgrande, donde el nieto del barbero que afeitaba 
 diariamente a Enzo, ha heredado la peluquería (el corte de pelo cuesta ahora a 25€). 
 
-![Mercado Albinelli, en Módena](https://fotos.etheriamagazine.com/2024/04/Modena-Mercado-Albinelli-850x576.jpg "Mercado Albinelli. © Pedro Grifol")
+![Mercado Albinelli, en Módena](https://fotos.etheriamagazine.com/2024/04/Modena-Mercado-Albinelli.jpg "Mercado Albinelli. © Pedro Grifol")
 
 ### Mercado Albinelli
 

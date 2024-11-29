@@ -81,7 +81,7 @@ tumbonas acompañada de un libro o buena música.
 km 18. Albons (Girona). Tel. +34 972 765 727 Precio desde 81 Euros la noche en 
 habitación doble. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Empordà, busca la esencia mediterránea en la Costa 
 Brava](https://etheriamagazine.com/2020/08/21/10-planes-comarca-ampurdan-costa-brava/) 

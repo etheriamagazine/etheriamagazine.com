@@ -44,7 +44,7 @@ surrealista** concebida por el genio creador de Dalí. Todos los detalles fueron
 diseñados por él siguiendo un peculiar transcurso desde sus inicios hasta el final de su 
 vida, porque allí también se encuentra el **mausoleo** en el que descansan sus restos. 
 
-![torre galatea visita imprescindible triangulo daliniano](https://fotos.etheriamagazine.com/2021/03/Figueres-Torre-Galatea-del-Museo-Dali-666x1024.jpg "Torre Galatea del Museo Dalí en Figueres. © Pedro Grifol")
+![torre galatea visita imprescindible triangulo daliniano](https://fotos.etheriamagazine.com/2021/03/Figueres-Torre-Galatea-del-Museo-Dali.jpg "Torre Galatea del Museo Dalí en Figueres. © Pedro Grifol")
 
 Así, el recorrido visual se transforma en una suerte de viaje escenográfico por un mundo 
 surreal de montajes ópticos, como el sofá-labios de la **sala Mae West**; o los 
@@ -57,7 +57,7 @@ todo.
 
 > “La única diferencia entre un loco y yo es que yo no estoy loco”. _Salvador Dalí_ 
 
-![El taxi lluvioso y la reina Ester museo dali figueres](https://fotos.etheriamagazine.com/2021/03/axi-lluvioso-y-reina-Ester-736x1024.jpg "'El taxi lluvioso y la reina Ester'. © Pedro Grifol")
+![El taxi lluvioso y la reina Ester museo dali figueres](https://fotos.etheriamagazine.com/2021/03/axi-lluvioso-y-reina-Ester.jpg "'El taxi lluvioso y la reina Ester'. © Pedro Grifol")
 
 ## Cadaqués, segundo vértice del Triángulo daliniano
 
@@ -97,7 +97,7 @@ lugareños. Y la estatua de Dalí, que lo preside todo: _“Aquí he creado mi p
 descubierto mi amor, pintado mi obra, edificado mi casa. Soy inseparable de este cielo, 
 de este mar, de estas rocas. Ligado por siempre a Portlligat.”._ 
 
-? [Tour de Dalí por 
+📌 [Tour de Dalí por 
 Cadaqués](https://www.civitatis.com/es/cadaques/tour-dali-cadaques/?aid=10211) (desde 16 
 €). 
 
@@ -155,9 +155,9 @@ ilustre figura de su ciudadano más emblemático.
 
 ##### 2 rutas guiadas de Civitatis con Dalí como protagonista
 
-? [Museo de Dalí, Cadaqués y Cabo de 
+📌 [Museo de Dalí, Cadaqués y Cabo de 
 Creus](https://www.civitatis.com/es/gerona/tour-dali-figueras-cadaques-cabo-creus/?aid=10211), 
-con transporte, visitas, catas y degustaciones. ? [Tour por Girona y Museo Dalí de 
+con transporte, visitas, catas y degustaciones. 📌 [Tour por Girona y Museo Dalí de 
 Figueres](https://www.civitatis.com/es/gerona/excursion-museo-dali-figueras/?aid=10211). 
 Excursión de 8 horas. 
 

@@ -32,7 +32,7 @@ multicultural). La pastelería se ubica en el número **82 de Golborne Road**. E
 primeros minutos de la cinta podemos disfrutar de unas maravillosas vistas del 
 **Victoria Embankment** y del **Golden Jubilee Bridge**. 
 
-![pasteleria en notting hill filme rodado en londres](https://fotos.etheriamagazine.com/2020/12/Una-pasteleria-en-Notting-Hill-cartel-717x1024.jpg "Cartel de 'Una pastelería en Notting Hill'.")
+![pasteleria en notting hill filme rodado en londres](https://fotos.etheriamagazine.com/2020/12/Una-pasteleria-en-Notting-Hill-cartel.jpg "Cartel de 'Una pastelería en Notting Hill'.")
 
 ## 2\. Love Actually
 

@@ -15,7 +15,7 @@ pero los niños disfrutan y aprenden en este lugar sobre un periodo importante e
 historia de España. El Muelle de las Carabelas de La Rábida (Huelva), combinado con el 
 cercano monasterio de La Rábida, es una visita didáctica ideal para toda la familia. 
 
-![muelle carabelas huelva descubrimiento america](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunto-1024x683.jpg "Muelle de las Carabelas en La Rábida (Huelva).")
+![muelle carabelas huelva descubrimiento america](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunto.jpg "Muelle de las Carabelas en La Rábida (Huelva).")
 
 Actualizado 2023 
 
@@ -44,7 +44,7 @@ el día 3 de agosto de 1990 los tres barcos iniciaron desde Palos de la Frontera
 travesía por puertos españoles y europeos, finalizando su periplo en la Exposición 
 Universal de Sevilla de 1992. 
 
-![Figura de Cristóbal Colón en el interior de una nave.](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-Colon-1024x684.jpg "Figura de Cristóbal Colón en el interior de una nave.")
+![Figura de Cristóbal Colón en el interior de una nave.](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-Colon.jpg "Figura de Cristóbal Colón en el interior de una nave.")
 
 Una vez culminado este primer objetivo, la Sociedad Estatal Quinto Centenario alcanzó un 
 acuerdo con la Diputación Provincial de Huelva para varar estas naves en Huelva, origen 
@@ -61,7 +61,7 @@ interpretación y una dársena semicircular de 11.500 m2 donde están fondeadas 
 A su alrededor se han recreado escenas inspiradas en el siglo XV tanto de este lado del 
 Atlántico como de América. 
 
-![Muelle de las Carabelas en La Rábida (Huelva).](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-familia-1024x683.jpg "Muelle de las Carabelas en La Rábida (Huelva).")
+![Muelle de las Carabelas en La Rábida (Huelva).](https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-familia.jpg "Muelle de las Carabelas en La Rábida (Huelva).")
 
 Lo idóneo es comenzar la visita en el **centro de interpretación viendo un documental** 
 (se proyecta a las horas en punto) y curioseando en la exposición de los objetos 
@@ -69,7 +69,7 @@ relacionados con el descubrimiento. A continuación, se puede salir al exterior 
 subir a los barcos, a los que se puede acceder libremente, y que están tematizados con 
 figuras y elementos propios de la época. 
 
-![Los niños pueden convertirse en marineros del Descubrimiento.](https://fotos.etheriamagazine.com/2018/09/muelle-carabelas-huelva-1024x705.jpg "Los niños pueden convertirse en marineros del Descubrimiento.")
+![Los niños pueden convertirse en marineros del Descubrimiento.](https://fotos.etheriamagazine.com/2018/09/muelle-carabelas-huelva.jpg "Los niños pueden convertirse en marineros del Descubrimiento.")
 
 ## El monasterio de la Rábida
 
@@ -82,7 +82,7 @@ gestaron los acuerdos por los que obtuvo el favor de la reina Isabel la Católic
 visita muy interesante donde cabe detenerse en los documentos y pinturas expuestos para 
 contextualizar la aventura del famoso navegante. 
 
-![cristobal colon monasterio rabida huelva descubrimiento america](https://fotos.etheriamagazine.com/2018/09/Huelva-Monasterio-La-Rabida-1024x683.jpg "Exterior del Monasterio de La Rábida (Huelva).")
+![cristobal colon monasterio rabida huelva descubrimiento america](https://fotos.etheriamagazine.com/2018/09/Huelva-Monasterio-La-Rabida.jpg "Exterior del Monasterio de La Rábida (Huelva).")
 
 En este lugar, por donde también pasaron Hernán Cortés, Gonzalo de Sandoval y Francisco 
 Pizarro, se halla enterrado Martín Alonso Pinzón, que murió al regresar del primer viaje 

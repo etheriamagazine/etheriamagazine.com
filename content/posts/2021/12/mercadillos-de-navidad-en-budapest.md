@@ -124,7 +124,7 @@ el ambiente se acerca a cero grados, la imagen no puede ser más misteriosa.
 ✅ Aquí puedes adquirir tu [entrada al balneario 
 Széchenyi](https://www.civitatis.com/es/budapest/entrada-balneario-szechenyi/?aid=10211). 
 
-![ajedrez Balneario Szechenyi ajedrez](https://fotos.etheriamagazine.com/2021/12/ajedrez-balnerario-budapest-589x1024.jpg "Jugando al ajedrez en el Balneario Széchenyi. © Pepa García")
+![ajedrez Balneario Szechenyi ajedrez](https://fotos.etheriamagazine.com/2021/12/ajedrez-balnerario-budapest.jpg "Jugando al ajedrez en el Balneario Széchenyi. © Pepa García")
 
 #### Qué llevar al balneario y otras dudas
 
@@ -219,7 +219,7 @@ Toma nota también del **restaurante Első Pesti Rétesház – Strudel House**
 como dulces. Incluso podrás ver a los cocineros elaborar una masa elástica y finísima 
 con la que elaborarán las recetas. 
 
-![cafe nueva york navidad en budapest](https://fotos.etheriamagazine.com/2021/12/cafe-nueva-york-budapest-630x1024.jpg "Café Nueva York, en Budapest. ©Pepa García")
+![cafe nueva york navidad en budapest](https://fotos.etheriamagazine.com/2021/12/cafe-nueva-york-budapest.jpg "Café Nueva York, en Budapest. ©Pepa García")
 
 ### Cafés históricos de Budapest
 

@@ -144,7 +144,7 @@ anteriores dulces que hemos propuesto.
 
 ¿Te atreverás a hacer alguna de estas recetas o las intentarás todas? 
 
-? **También te puede interesar...** 
+📌 **También te puede interesar...** 
 
 [Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos de la cocina 
 marroquí](https://etheriamagazine.com/2021/02/04/najat-libro-cocina-marroqui-chef-najat-kaanache/). 

@@ -31,7 +31,7 @@ esnórquel. Una vez allí, disfrutaréis de sus playas y su coqueto pueblo. Si b
 restaurante para probar el ‘caldero’, el plato típico, podéis acercaros al **Restaurante 
 Gloria**. 
 
-? Ideas: [Ferry a la isla de 
+📌 Ideas: [Ferry a la isla de 
 Tabarca](https://www.civitatis.com/es/alicante/ferry-isla-tabarca/?aid=10211) y [Excursión 
 en barco a Tabarca con una actividad de 
 snorkel](https://www.civitatis.com/es/santa-pola/excursion-tabarca-snorkel/?aid=10211). 

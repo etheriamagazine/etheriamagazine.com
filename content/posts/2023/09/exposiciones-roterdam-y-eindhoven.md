@@ -26,10 +26,10 @@ todos los niveles. En esta ocasión, te invitamos a descubrir las atractivas ciu
 una escapada a Loon op Zand donde se encuentra **Efteling**, el parque temático más 
 grande del país y también el más mágico. 
 
-?No te pierdas: [Qué ver en Ámsterdam en sólo dos 
+📍No te pierdas: [Qué ver en Ámsterdam en sólo dos 
 días](https://etheriamagazine.com/2019/04/11/viajar-sola-que-ver-hacer-dormir-amsterdam/). 
 
-![Parque Efteling.](https://fotos.etheriamagazine.com/2023/09/efteling-holanda-850x478.jpg "© Parque Efteling.")
+![Parque Efteling.](https://fotos.etheriamagazine.com/2023/09/efteling-holanda.jpg "© Parque Efteling.")
 
 ## Exposiciones en Róterdam
 
@@ -41,7 +41,7 @@ vestida con pantalón de deporte. Ha sido esculpida por el artista inglés Thoma
 y donada por la fundación Droom en Daad. Si la quieres ver sólo tendrás que dirigirte a 
 la Estación Central de Rotterdam (Stationplein). 
 
-![Escultura Moments Contained, frente a la Central Station.](https://fotos.etheriamagazine.com/2023/09/escultura-gigante-rotterdam-850x529.jpg "Escultura Moments Contained, frente a la Central Station. © Iris van den Broek")
+![Escultura Moments Contained, frente a la Central Station.](https://fotos.etheriamagazine.com/2023/09/escultura-gigante-rotterdam.jpg "Escultura Moments Contained, frente a la Central Station. © Iris van den Broek")
 
 ### 1\. Ai WeiWei en el Kunsthal Rotterdam
 
@@ -65,7 +65,7 @@ personalidad de una artista joven, pero muy consciente de sí misma, que se empa
 movimiento contracultural PROVO (de "provocación") y la cultura imperante en aquellos 
 años. 
 
-![Yayoi Kusama](https://fotos.etheriamagazine.com/2023/09/Yayoi-Kusama-850x567.jpg "Yayoi Kusama, Polka Dot Love Room in Galerij Orez, Den Haag, 1967. © Harrie Verstappen")
+![Yayoi Kusama](https://fotos.etheriamagazine.com/2023/09/Yayoi-Kusama.jpg "Yayoi Kusama, Polka Dot Love Room in Galerij Orez, Den Haag, 1967. © Harrie Verstappen")
 
 ### 3\. Arte en tiempos de guerra en el Depot del Boijmans Van Beuningen
 
@@ -95,7 +95,7 @@ Boijmans Van Beuningen. Este acogedor hotel boutique está ubicado en un edifici
 monumental de estilo Bauhaus y dispone de 20 habitaciones y suites, un gran ático, 
 restaurante, bar de cócteles y una terraza cubierta. Seguro que te va a gustar. 
 
-![Interior del hotel Morgan & Mees.](https://fotos.etheriamagazine.com/2023/09/Morgan-Mees-roterdam-850x567.jpg "Interior del hotel Morgan & Mees.")
+![Interior del hotel Morgan & Mees.](https://fotos.etheriamagazine.com/2023/09/Morgan-Mees-roterdam.jpg "Interior del hotel Morgan & Mees.")
 
 ✅ Te puede interesar: [10 planes en Róterdam con amigas para un fin de semana 
 movido](https://etheriamagazine.com/2021/05/15/que-ver-roterdam-eurovision-viaje-con-amigas/). 
@@ -146,7 +146,7 @@ o qué determina la función de un objeto. Una muestra que cuestiona la función
 y el papel que juegan los museos. Más información en la [web oficial de Van 
 Abbemuseum](https://vanabbemuseum.nl/en). 
 
-![Museo Van Abbemuseum, en eindhoven](https://fotos.etheriamagazine.com/2023/09/Van-Abbemuseum-850x519.jpg "© Museo Van Abbemuseum.")
+![Museo Van Abbemuseum, en eindhoven](https://fotos.etheriamagazine.com/2023/09/Van-Abbemuseum.jpg "© Museo Van Abbemuseum.")
 
 #### 3\. Centro de Eindhoven
 
@@ -172,7 +172,7 @@ ecosistema creativo que alberga más de 250 emprendedores. Este espacio de
 experimentación y espíritu creativo abre sus puertas a los visitantes durante la Semana 
 del Diseño de Eindhoven. 
 
-![Sectie C, ruta del arte de eindhoven](https://fotos.etheriamagazine.com/2023/09/Sectie-C_foto-Max-Kneefel-850x567.jpg "Sectie C. © Max Kneefel")
+![Sectie C, ruta del arte de eindhoven](https://fotos.etheriamagazine.com/2023/09/Sectie-C_foto-Max-Kneefel.jpg "Sectie C. © Max Kneefel")
 
 #### 6\. Plan B
 
@@ -189,7 +189,7 @@ proyecto de recuperación económica tras la Segunda Guerra Mundial y alberga va
 estudios y talleres. Entre ellos, Studio van der Zandt, Vij5, HeyHeydeHaas y el Atelier 
 NL, emplazado en una iglesia. 
 
-![Hallenweg, ruta del arte en Eindhoven](https://fotos.etheriamagazine.com/2023/09/Hallenweg_foto-NickBookelaar-850x567.jpg "Hallenweg. © NickBookelaar")
+![Hallenweg, ruta del arte en Eindhoven](https://fotos.etheriamagazine.com/2023/09/Hallenweg_foto-NickBookelaar.jpg "Hallenweg. © NickBookelaar")
 
 #### 8\. Fuutlaan
 

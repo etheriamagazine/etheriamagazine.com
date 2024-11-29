@@ -23,7 +23,7 @@ investigación (así los llaman ellos). Entre 2011 y 2013 visitaron museos, merc
 plazas, talleres, iglesias, haciendas y cementerios en Ciudad de México, Oaxaca y 
 Guanajuato. 
 
-![Las escenas de la película Coco invitan a conocer la cultura de México](https://fotos.etheriamagazine.com/2018/05/5-2-1024x425.jpg "Escena de 'Coco' © Disney•Pixar. All Rights Reserved")
+![Las escenas de la película Coco invitan a conocer la cultura de México](https://fotos.etheriamagazine.com/2018/05/5-2.jpg "Escena de 'Coco' © Disney•Pixar. All Rights Reserved")
 
 Además, aprovecharon su estancia en tierras mexicanas para pasar tiempo con familias de 
 Tlacolula, Tlalixtac, El Tule, San Marcos Tlapazola y Abasolo. Toda esa búsqueda de 
@@ -38,7 +38,7 @@ Precisamente, Coco se inicia con una secuencia que utiliza esta artesanía para 
 la historia sobre los antepasados del pequeño Miguel, un niño que sueña con ser cantante 
 y que ha nacido en una familia donde la música está prohibida. 
 
-![Escena de 'Coco' en la Tierra de los Muertos.](https://fotos.etheriamagazine.com/2018/05/8-1024x425.jpg "Escena de 'Coco' en la Tierra de los Muertos. © Disney•Pixar. All Rights Reserved")
+![Escena de 'Coco' en la Tierra de los Muertos.](https://fotos.etheriamagazine.com/2018/05/8.jpg "Escena de 'Coco' en la Tierra de los Muertos. © Disney•Pixar. All Rights Reserved")
 
 ## La Tierra de los Vivos
 
@@ -81,7 +81,7 @@ encuentra a unos 40 kilómetros de la ciudad de México. Para el diseño vertica
 tierra los realizadores también se basaron en las ruinas de grandes plazas, pirámides y 
 tumbas del Monte Albán. 
 
-![Viajar en familia a los escenarios de Coco es una buena alternativa](https://fotos.etheriamagazine.com/2018/05/pelicula-Coco-calles-empedradas-1024x585.jpg "La música está presente durante toda la película. © Disney•Pixar. All Rights Reserved")
+![Viajar en familia a los escenarios de Coco es una buena alternativa](https://fotos.etheriamagazine.com/2018/05/pelicula-Coco-calles-empedradas.jpg "La música está presente durante toda la película. © Disney•Pixar. All Rights Reserved")
 
 ## Referencias a Guanajuato y Ciudad de México
 

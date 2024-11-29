@@ -55,7 +55,7 @@ Jubilee** (si el tiempo lo permite, en las mesas situadas a la entrada) para tom
 pulso a la ciudad. Si te apetece interactuar con la población local puedes continuar la 
 jornada paseando por el mercado It-Tokk y por la plaza central. 
 
-![Comienza el día con un buen desayuno en el Café Jubilee, en Victoria.](https://fotos.etheriamagazine.com/2018/05/3-Viaje-a-Gozo-y-Malta-Cafe-Jubile-1024x682.jpg "Comienza el día con un buen desayuno en el Café Jubilee, en Victoria. © Etheria Magazine")
+![Comienza el día con un buen desayuno en el Café Jubilee, en Victoria.](https://fotos.etheriamagazine.com/2018/05/3-Viaje-a-Gozo-y-Malta-Cafe-Jubile.jpg "Comienza el día con un buen desayuno en el Café Jubilee, en Victoria. © Etheria Magazine")
 
 Tras la primera interacción local toca abstraerse paseando por la **Citadel**, el casco 
 histórico de Victoria, donde las construcciones de piedra amarilla caliza son una 
@@ -128,7 +128,7 @@ llevarte) licor de higo chumbo o de algarrobo. La gastronomía gozitana se nutre
 especialmente de lo que le regala la tierra y el mar: pescado, conejo, quesos, tomate, 
 etc. 
 
-![El pescado es una de las mejores elecciones en Gozo.](https://fotos.etheriamagazine.com/2018/05/10-Viaje-a-Gozo-y-Malta-Pescado-1024x682.jpg "El pescado es una de las mejores elecciones en Gozo.  © Etheria Magazine")
+![El pescado es una de las mejores elecciones en Gozo.](https://fotos.etheriamagazine.com/2018/05/10-Viaje-a-Gozo-y-Malta-Pescado.jpg "El pescado es una de las mejores elecciones en Gozo.  © Etheria Magazine")
 
 ## Qué hacer en Gozo para divertirse
 
@@ -143,7 +143,7 @@ submarino. Aunque el número de viajeros que acude para hacer su bautizo submari
 elevado, hay otros que repiten para enfrentarse a la inmersión en el **Blue Hole** –un 
 profundo agujero que da miedo solo de oírlo–. 
 
-![Paseo en barco por la costa de Gozo.](https://fotos.etheriamagazine.com/2018/05/5-Viaje-a-Gozo-y-Malta-1024x682.jpg "Paseo en barco por la costa de Gozo. © Etheria Magazine")
+![Paseo en barco por la costa de Gozo.](https://fotos.etheriamagazine.com/2018/05/5-Viaje-a-Gozo-y-Malta.jpg "Paseo en barco por la costa de Gozo. © Etheria Magazine")
 
 ### Playa o kayak, tú decides
 
@@ -176,7 +176,7 @@ moverte por la isla en libertad.
 
 Más información en [Turismo de Gozo.](https://www.visitgozo.com/) 
 
-![Cocina casera del restaurante Ta’ Rikardu.](https://fotos.etheriamagazine.com/2018/05/6-Viaje-a-Gozo-y-Malta-Riccardo-1024x682.jpg "Cocina casera del restaurante Ta’ Rikardu. © Etheria Magazine")
+![Cocina casera del restaurante Ta’ Rikardu.](https://fotos.etheriamagazine.com/2018/05/6-Viaje-a-Gozo-y-Malta-Riccardo.jpg "Cocina casera del restaurante Ta’ Rikardu. © Etheria Magazine")
 
 **También en Etheria Magazine** 
 

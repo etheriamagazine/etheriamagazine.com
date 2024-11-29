@@ -39,7 +39,7 @@ otros los aspectos que atrapan al visitante: la sencillez de sus gentes, sus cas
 colores –que recuerdan a la Nueva Inglaterra de la época victoriana– y su sabor 
 marinero. 
 
-![que hacer en bahamas Dunmore Town](https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-Boogie-1024x726.jpg "En Dunmore Town la vida transcurre a la velocidad de los buggies. © Etheria Magazine")
+![que hacer en bahamas Dunmore Town](https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-Boogie.jpg "En Dunmore Town la vida transcurre a la velocidad de los buggies. © Etheria Magazine")
 
 #### En buggie por Dunmore Town
 
@@ -58,7 +58,7 @@ disfrutarás de las vistas sino también de la rica cocina que ofrecen. Uno de e
 **Pink Sands Resort** que ofrece recetas locales e internacionales en medio de un 
 frondoso jardín. 
 
-![Pink Sand Beach visita obligada en Harbour Island para mujeres que viajan solas](https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-1024x706.jpg "Pink Sand Beach, en Harbour Island, lanza destellos rosas al amanecer. © Etheria Magazine")
+![Pink Sand Beach visita obligada en Harbour Island para mujeres que viajan solas](https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas.jpg "Pink Sand Beach, en Harbour Island, lanza destellos rosas al amanecer. © Etheria Magazine")
 
 #### Pide unas conchas fritas en un quiosco
 
@@ -90,7 +90,7 @@ la villa desde el agua. Es una población tranquila y con casitas de colores. No
 difícil fantasear con la posibilidad de ser el privilegiado propietario de cualquiera de 
 ellas. 
 
-![excursion en bahamas](https://fotos.etheriamagazine.com/2018/05/1-Viaje-Islas-Bahamas-1024x644.jpg "Excursiones marítimas en Bahamas.")
+![excursion en bahamas](https://fotos.etheriamagazine.com/2018/05/1-Viaje-Islas-Bahamas.jpg "Excursiones marítimas en Bahamas.")
 
 ### Conoce las playas de los cayos
 

@@ -60,7 +60,7 @@ curiosa forma de su pináculo central. Fue obra del escultor Anton Pilgram y se 
 que cuando estaba terminando el trabajo decidieron no pagarle lo acordado. Él se vengó 
 dando una curiosa y poco ortodoxa forma torcida a este elemento del portal. 
 
-![Entrada al Antiguo Ayuntamiento de Brno](https://fotos.etheriamagazine.com/2022/08/brno-antiguo-ayuntamiento-610x1024.jpg "Portal gótico del Antiguo Ayuntamiento. © S.G.")
+![Entrada al Antiguo Ayuntamiento de Brno](https://fotos.etheriamagazine.com/2022/08/brno-antiguo-ayuntamiento.jpg "Portal gótico del Antiguo Ayuntamiento. © S.G.")
 
 ### 3\. Un dragón que no lo es
 
@@ -103,7 +103,8 @@ suenan las campanas para anunciar el falso mediodía a las once de la mañana, u
 de cristal recorre todo el mecanismo del reloj y sale por uno de sus cuatro orificios 
 inferiores. 
 
-? En una placa al lado del reloj viene explicada la curiosa forma de leer en él la hora. 
+📍 En una placa al lado del reloj viene explicada la curiosa forma de leer en él la 
+hora. 
 
 ![Reloj astronómico de Brno](https://fotos.etheriamagazine.com/2022/08/brno-plaza-libertad.jpg "Plaza de la Libertad con el Reloj Astronómico. © S.G.")
 
@@ -149,10 +150,10 @@ compartida). También hay salas para eventos y conciertos.
 
 ![estancias del bunker 10-Z de Brno](https://fotos.etheriamagazine.com/2022/08/brno-bunker.jpg "Interior del Búnker 10-Z. © SG")
 
-? La visita guiada tiene una hora de duración, cuesta 240 Coronas y se realiza en grupos 
-reducidos de máximo diez personas. Se puede realizar una visita sin guía por 150 Coronas 
-siguiendo un mapa en inglés. Lo mejor es reservar online las entradas en la [web del 
-Bunker 10-Z](https://10-z.cz/en/online-rezervace/). 
+📍 La visita guiada tiene una hora de duración, cuesta 240 Coronas y se realiza en 
+grupos reducidos de máximo diez personas. Se puede realizar una visita sin guía por 150 
+Coronas siguiendo un mapa en inglés. Lo mejor es reservar online las entradas en la [web 
+del Bunker 10-Z](https://10-z.cz/en/online-rezervace/). 
 
 ### 9\. Castillo de Špilberk
 
@@ -175,7 +176,7 @@ la arquitectura y el diseño de interiores.
 
 ![Villa Tugendhat en Brno](https://fotos.etheriamagazine.com/2022/08/Brno-villa-tungedhat.jpg "Villa Tugendhat. © David Zidlicky")
 
-? Existen dos tipos de visita, una de la casa desde el exterior y otra que incluye el 
+📍 Existen dos tipos de visita, una de la casa desde el exterior y otra que incluye el 
 interior. Para las dos es imprescindible reservar con bastante tiempo en la [web de 
 Villa Tugendhat](https://www.tugendhat.eu/) ya que las plazas son muy limitadas. 
 

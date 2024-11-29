@@ -175,7 +175,7 @@ bueno?](https://etheriamagazine.com/2020/11/24/comer-en-vigo-mejores-restaurante
 
 ![plato de nécoras en Vigo](https://fotos.etheriamagazine.com/2021/04/viaje-con-madres-vigo.jpg "Restaurante Bao, en Vigo. © J.L. Migueláñez y F. Abente")
 
-? **Más ideas de viajes con tu madre...** 
+📌 **Más ideas de viajes con tu madre...** 
 
 [10 escapadas para descubrir nuevos tesoros en 
 Andalucía](https://etheriamagazine.com/2020/11/06/10-escapadas-fin-de-semana-andalucia/) 

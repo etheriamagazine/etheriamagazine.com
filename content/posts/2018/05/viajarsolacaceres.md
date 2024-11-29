@@ -12,7 +12,7 @@ Existen determinados lugares en los que viajar sola es todo un placer. Cáceres 
 ellos, y seguramente se encuentre entre los mejores para inaugurar nuestro currículum de 
 escapadas en solitario. 
 
-![Tocar el pie de la estatua de San Pedro de Alcántara dicen que trae suerte.](https://fotos.etheriamagazine.com/2018/05/7-Viaje-Caceres-Suerte-1024x686.jpg "Tocar el pie de la estatua de San Pedro de Alcántara dicen que trae suerte.")
+![Tocar el pie de la estatua de San Pedro de Alcántara dicen que trae suerte.](https://fotos.etheriamagazine.com/2018/05/7-Viaje-Caceres-Suerte.jpg "Tocar el pie de la estatua de San Pedro de Alcántara dicen que trae suerte.")
 
 Para los cacereños los cambios de estacionalidad forman parte de su rutina, pero para 
 los foráneos el acercarse a esta joya histórica en distintos momentos del año –e incluso 
@@ -30,7 +30,7 @@ sosiego. Es el momento de reflexionar antes del comienzo del nuevo curso, una br
 oportunidad de perderse por la capital sin sudores ni paraguas. ¿Con qué estación os 
 quedáis? 
 
-![Miradores de Cáceres.](https://fotos.etheriamagazine.com/2018/05/1-Viaje-Caceres-Pixabay1569100-1024x659.jpg "Desde los miradores no sólo apreciarás la belleza del conjunto desde los tejados, también te admirará la presencia de numerosas aves.")
+![Miradores de Cáceres.](https://fotos.etheriamagazine.com/2018/05/1-Viaje-Caceres-Pixabay1569100.jpg "Desde los miradores no sólo apreciarás la belleza del conjunto desde los tejados, también te admirará la presencia de numerosas aves.")
 
 ## Auténtica como ella sola
 
@@ -46,7 +46,7 @@ musulmanes) y por las circunstancias que, a través de los siglos, le tocó vivi
 > tomada conciencia de las dimensiones urbanas, y de vuestra ubicación, es el momento de 
 > fijarse en todos los detalles que adornan a esta vieja dama. 
 
-![Viajes de mujeres en solitario a Cáceres](https://fotos.etheriamagazine.com/2018/05/2-Viaje-Caceres-calle-amargura-1024x685.jpg "La Casa de los Carvajal, del siglo XV, cuenta con elementos góticos y renacentistas.")
+![Viajes de mujeres en solitario a Cáceres](https://fotos.etheriamagazine.com/2018/05/2-Viaje-Caceres-calle-amargura.jpg "La Casa de los Carvajal, del siglo XV, cuenta con elementos góticos y renacentistas.")
 
 ## Una joya amurallada
 
@@ -66,7 +66,7 @@ que desvela el civil, con las casas-fortaleza (las construcciones propias de las
 ciudades de frontera). Entre ellas, el **palacio de los Golfines de Abajo** y el de los 
 **Golfines de Arriba**. 
 
-![Aljibe del Palacio de las Veletas](https://fotos.etheriamagazine.com/2018/05/6-Viaje-Caceres-aljibe-1024x685.jpg "En el aljibe del Palacio de las Veletas se almacenaba agua para la vivienda.")
+![Aljibe del Palacio de las Veletas](https://fotos.etheriamagazine.com/2018/05/6-Viaje-Caceres-aljibe.jpg "En el aljibe del Palacio de las Veletas se almacenaba agua para la vivienda.")
 
 ## Adarves y Barrio Judío de Cáceres
 

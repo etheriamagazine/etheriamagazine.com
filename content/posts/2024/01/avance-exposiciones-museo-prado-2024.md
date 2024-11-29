@@ -40,7 +40,7 @@ su originalidad y maestría.
 
 **Cuándo:** de marzo a junio de 2024. 
 
-![Reproducción del 'Bodegón con limones, naranjas y una rosa’ de Francisco de Zurbarán.](https://fotos.etheriamagazine.com/2024/01/Zurbaran-bodegon-850x471.jpg "Reproducción del 'Bodegón con limones, naranjas y una rosa’ de Francisco de Zurbarán. © CC")
+![Reproducción del 'Bodegón con limones, naranjas y una rosa’ de Francisco de Zurbarán.](https://fotos.etheriamagazine.com/2024/01/Zurbaran-bodegon.jpg "Reproducción del 'Bodegón con limones, naranjas y una rosa’ de Francisco de Zurbarán. © CC")
 
 ## Arte y transformaciones sociales en España (1885-1910)
 

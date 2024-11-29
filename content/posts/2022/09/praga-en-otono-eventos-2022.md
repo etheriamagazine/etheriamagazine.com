@@ -40,7 +40,7 @@ También existe una entrada especial, Signal Plus, que permite visitar 6 instala
 exclusivas cuantas veces se quiera y, de ese modo, los usuarios pueden mostrar su apoyo 
 a los artistas del festival. Algunas proyecciones os dejarán sin palabras. 
 
-![Pieza de Nonna Lorenz para el Designblok.](https://fotos.etheriamagazine.com/2022/09/designblok-praga-678x1024.jpg "Pieza de Nonna Lorenz para el Designblok. © Jaro")
+![Pieza de Nonna Lorenz para el Designblok.](https://fotos.etheriamagazine.com/2022/09/designblok-praga.jpg "Pieza de Nonna Lorenz para el Designblok. © Jaro")
 
 ## Designblok de Praga
 
@@ -103,5 +103,5 @@ de las voces y la maestría con los instrumentos de los mejores músicos checos 
 internacionales. Además, con un incentivo añadido: visitar el bellísimo entorno de 
 Lednice-Valtice, declarado Patrimonio de la Humanidad por la Unesco. 
 
-? **No te pierdas:** [Qué ver en Brno: una escapada muy ‘chic’ a 
+📌 **No te pierdas:** [Qué ver en Brno: una escapada muy ‘chic’ a 
 Chequia](https://etheriamagazine.com/2022/08/26/que-ver-brno-chequia/)

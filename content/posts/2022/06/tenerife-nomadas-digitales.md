@@ -39,7 +39,7 @@ descubrir que ese recuadro añadido en la parte inferior de todos los mapas del 
 iba a ser el lugar que me inspiraría a crear mi proyecto empresarial y donde me sentiría 
 como en casa. 
 
-![Judit Sánchez, fundadora de Calma Studio y diseñadora gráfica junto al mar](https://fotos.etheriamagazine.com/2022/05/nomada-digital-tenerife-683x1024.jpg "Judit, fundadora de Calma Studio y diseñadora gráfica. © Silvia Gil-Roldán")
+![Judit Sánchez, fundadora de Calma Studio y diseñadora gráfica junto al mar](https://fotos.etheriamagazine.com/2022/05/nomada-digital-tenerife.jpg "Judit, fundadora de Calma Studio y diseñadora gráfica. © Silvia Gil-Roldán")
 
 ## El ritmo canario, un son que enamora
 
@@ -171,7 +171,7 @@ nuestra vida” y esto es lo que me ha dado y me sigue dando esta islita. Quién
 Tenerife también puede ser el desencadenante que estás buscando para mejorar tu calidad 
 de vida y elegir cómo quieres vivirla. ¿Te llama la aventura? 
 
-![Judit Sánchez, de Calma Studio](https://fotos.etheriamagazine.com/2022/05/Judit-Sanchez-Calma-Studio-741x1024.jpg)
+![Judit Sánchez, de Calma Studio](https://fotos.etheriamagazine.com/2022/05/Judit-Sanchez-Calma-Studio.jpg)
 
 Autora: Judit Sánchez Torner (Calma Studio) 
 

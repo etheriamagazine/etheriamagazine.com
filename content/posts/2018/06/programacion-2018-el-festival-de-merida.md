@@ -86,7 +86,7 @@ Frías, Pablo Romo, Raquel Bravo y Eva Marciel, entre otros. Todos persiguen con
 al exigente público que acude, no importa el calor ni la lejanía, a disfrutar de grandes 
 representaciones en el magnífico escenario romano de Mérida. 
 
-![Actores del Festival Internacional de Teatro Clásico de Mérida 2018](https://fotos.etheriamagazine.com/2018/06/Mosaico-Actores-Nuevos-585x1024.jpg "Actores que participan en el Festival Internacional de Teatro Clásico de Mérida 2018")
+![Actores del Festival Internacional de Teatro Clásico de Mérida 2018](https://fotos.etheriamagazine.com/2018/06/Mosaico-Actores-Nuevos.jpg "Actores que participan en el Festival Internacional de Teatro Clásico de Mérida 2018")
 
 Las entradas se pueden adquirir por Internet, a través de la web del festival, o en el 
 portal entradas.com. Además, es posible hacer la compra por teléfono, marcando el número 

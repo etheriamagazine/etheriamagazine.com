@@ -130,7 +130,7 @@ Mayor](http://restaurantelacasa.com/wp), donde saborear verduras de la huerta, c
 cordero típicos. También otras especialidades como el revuelto de boletus, foie y 
 huevos, besugo escabechado a la antigua usanza, y postres de miel, mora y menta. 
 
-![gastronomia en siguenza](https://fotos.etheriamagazine.com/2020/12/Siguenza-restaurante-Patata-trufada-683x1024.jpg "Patata trufada del restaurante © El Doncel")
+![gastronomia en siguenza](https://fotos.etheriamagazine.com/2020/12/Siguenza-restaurante-Patata-trufada.jpg "Patata trufada del restaurante © El Doncel")
 
 Un restaurante ineludible del legendario Paseo de la Alameda es [El 
 Doncel](http://eldoncel.com/) con una estrella Michelin y dos Soles Repsol, ubicado en 

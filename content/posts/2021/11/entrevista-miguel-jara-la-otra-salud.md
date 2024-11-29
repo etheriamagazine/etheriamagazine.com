@@ -33,7 +33,7 @@ naturaleza de que el modelo no funciona y lo ideal sería encaminarnos hacia un 
 hacia una economía no enfocada en el productivismo, el producto interior bruto o el 
 crecimiento. 
 
-![La otra salud La epidemia silenciada de la mala medicina](https://fotos.etheriamagazine.com/2021/11/Portada-La-otra-salud-619x1024.jpg "La otra salud. La epidemia silenciada de la mala medicina.")
+![La otra salud La epidemia silenciada de la mala medicina](https://fotos.etheriamagazine.com/2021/11/Portada-La-otra-salud.jpg "La otra salud. La epidemia silenciada de la mala medicina.")
 
 ##### En plena pandemia, ¿se hace más necesario que nunca parar?
 

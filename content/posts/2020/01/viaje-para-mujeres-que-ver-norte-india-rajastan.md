@@ -12,7 +12,7 @@ authors:
 
 Viajar al norte de India, a las puertas del desierto del Thar, es entrar en un universo de color brillante. Sobresale no solo por el tono de sus edificios, que van del rojo de la arenisca hasta el blanco de sus mármoles, sino por la amalgama colorida de los saris de las mujeres rajastaníes. Descubre las alegres pinceladas de estas diez paradas del Rajastán.
 
-![Tienda de telas en India](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-varanasi-2-900x610.jpg "No te prives del capricho de llevarte un recuerdo de India.")
+![Tienda de telas en India](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-varanasi-2.jpg "No te prives del capricho de llevarte un recuerdo de India.")
 
 ## 10 visitas imprescindibles en el Norte de la India
 
@@ -33,7 +33,7 @@ de India, el mejor monumento colonial, un gran arco cuyo césped se vuelve famil
 caer la tarde. Observa la simpatía que tu presencia suscita entre los enormes ojos 
 oscuros locales. 
 
-![Dos mujeres se asoman a una ventana de un tren en el Norte de la India](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Delhi-1-634x1024.jpg "Delhi es una parada fundamental en un viaje a India.")
+![Dos mujeres se asoman a una ventana de un tren en el Norte de la India](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Delhi-1.jpg "Delhi es una parada fundamental en un viaje a India.")
 
 ### 2\. Culto al amor en Agra
 
@@ -48,7 +48,7 @@ orillas del río Yamuna, se reunieron después de que el emperador pasara diez a
 prisionero en el fuerte de Agra –arrestado por la ambición de sus hijos–, desde donde 
 añoraba el eterno reencuentro con su amada. 
 
-![El Taj Mahal es el monumento funerario que hizo el sultán Shah Jahan para su esposa favorita.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Agra-1-900x651.jpg "El Taj Mahal es el monumento funerario que hizo el sultán Shah Jahan para su esposa favorita.")
+![El Taj Mahal es el monumento funerario que hizo el sultán Shah Jahan para su esposa favorita.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Agra-1.jpg "El Taj Mahal es el monumento funerario que hizo el sultán Shah Jahan para su esposa favorita.")
 
 ### 3\. Jaipur, la ciudad de color chicle
 
@@ -67,7 +67,7 @@ la hospitalidad rosa. A 10 kilómetros de Jaipur, el **Fuerte Amber** es el conj
 palaciego fortificado de roja arenisca y mármol blanco desde donde se gobernó el 
 Rajastán durante 700 años hasta que el joven emperador Jai Singh II fundó Jaipur. 
 
-![Maravilloso Palacio de los Vientos de Jaipur.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Jaipur-1-900x583.jpg "Maravilloso Palacio de los Vientos de Jaipur.")
+![Maravilloso Palacio de los Vientos de Jaipur.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Jaipur-1.jpg "Maravilloso Palacio de los Vientos de Jaipur.")
 
 ### 4\. Ajmar, los colores del tiempo
 
@@ -87,7 +87,7 @@ domo blanco al pie de la montaña o bien seguir a los miles de peregrinos que ca
 hacia **Ajmer Sharif Dargah**, la tumba del persa Moinuddin Chishti, hombre santo para 
 musulmanes e hinduistas. 
 
-![Ajmer Sharif Dargah, la tumba del persa Moinuddin Chishti, recibe miles de peregrinos a diario.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-ajmer-1-683x1024.jpg "Ajmer Sharif Dargah, la tumba del persa Moinuddin Chishti, recibe miles de peregrinos a diario.")
+![Ajmer Sharif Dargah, la tumba del persa Moinuddin Chishti, recibe miles de peregrinos a diario.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-ajmer-1.jpg "Ajmer Sharif Dargah, la tumba del persa Moinuddin Chishti, recibe miles de peregrinos a diario.")
 
 ### 5\. Pushkar, el lago azul de Brahma
 
@@ -101,7 +101,7 @@ las ciudades más antiguas del continente en un destino 'boho chic'. Asomarse al
 durante el amanecer, desde alguno de sus 52 ghats, contagia la espiritualidad de los 
 peregrinos durante su baño para purificar pecados. 
 
-![Lago azul de Brahma, en Puskhar.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-pushkar-2-900x601.jpg "Lago azul de Brahma, en Puskhar.")
+![Lago azul de Brahma, en Puskhar.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-pushkar-2.jpg "Lago azul de Brahma, en Puskhar.")
 
 ### 6\. Abhaneri, la ciudad del resplandor
 
@@ -119,7 +119,7 @@ simpático **dios Ganesh**. El elefante es patrono de artes y ciencias y una de 
 deidades más populares y queridas entre los hinduistas por ser símbolo de abundancia y 
 allanador de obstáculos. 
 
-![Pozo escalonado o baori de Abhaneri.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-abhaneri-2-683x1024.jpg "Pozo escalonado o baori de Abhaneri.")
+![Pozo escalonado o baori de Abhaneri.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-abhaneri-2.jpg "Pozo escalonado o baori de Abhaneri.")
 
 ### 7\. Fatehpur Sikri, el rojizo de los mogoles
 
@@ -134,7 +134,7 @@ destinado a la diversión de las mujeres donde escuchaba música y se veían dan
 el estanque. Sus cinco pisos abiertos hacen la función de una torre de viento donde 
 circulaba la brisa como un aire acondicionado natural. 
 
-![Panch Mahal, palacete de aire budista destinado a la diversión de las mujeres.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-fatehpur-sikri-900x579.jpg "Panch Mahal, palacete de aire budista destinado a la diversión de las mujeres.")
+![Panch Mahal, palacete de aire budista destinado a la diversión de las mujeres.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-fatehpur-sikri.jpg "Panch Mahal, palacete de aire budista destinado a la diversión de las mujeres.")
 
 ### 8\. Khajuraho, el color de Eros
 
@@ -162,7 +162,7 @@ envuelve hasta la confluencia de los ríos Ken y Khudar donde se encuentra el [s
 del amenazado cocodrilo del Ganges o gavial. Con sus 6 metros de longitud es 
 inconfundible por su largo hocico y sus ojos saltones. 
 
-![Gargantas de Raneh.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-raneh-2-900x601.jpg "Gargantas de Raneh.")
+![Gargantas de Raneh.](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-raneh-2.jpg "Gargantas de Raneh.")
 
 ### 10\. Varanasi, matices de luz y vida
 
@@ -176,7 +176,7 @@ de cada atardecer en honor de la personificación del río, la diosa madre o Maa
 Respira, toma un tradicional té –o _chai–_ y vuelve al mundanal trajín, que estás en la 
 ciudad donde se fabrica la mejor seda. 
 
-![Varanasi al atardecer, en el Norte de la India](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-varanasi-1-900x601.jpg "Disfruta de la preciosa luz de Varanasi.")
+![Varanasi al atardecer, en el Norte de la India](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-varanasi-1.jpg "Disfruta de la preciosa luz de Varanasi.")
 
 ### También te puede interesar de la India
 

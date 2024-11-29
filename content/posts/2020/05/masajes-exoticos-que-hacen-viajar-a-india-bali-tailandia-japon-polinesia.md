@@ -13,7 +13,7 @@ masaje. Sobre todo, cuando nos trasladamos a destinos con una larga tradición c
 Tailandia, Bali, la India, Japón o Polinesia. Te contamos en qué consisten algunos de 
 los masajes exóticos más populares: tailandés, shiatsu, balinés, lomi lomi y ayurvédico. 
 
-![masaje con aceite](https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines-900x600.jpg "En algunos masajes el aceite es fundamental. © Alan Caishan")
+![masaje con aceite](https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines.jpg "En algunos masajes el aceite es fundamental. © Alan Caishan")
 
 A todos nos ha pasado cuando hemos acudido a un spa o a un balneario que nos hemos 
 quedado bloqueados al ver la carta de masajes. Suele haber tantos y con nombres tan 
@@ -39,7 +39,7 @@ hay muchos profesionales que se siguen formando en ellos. Uno de los más presti
 el **Wat Pho de Bangkok**, así que no te extrañe cuando la masajista (la mayoría son 
 mujeres) te comente que ha aprendido allí. 
 
-![masaje de manos](https://fotos.etheriamagazine.com/2020/05/como-es-masaje-tailandes-900x634.jpg "El masaje tailandés se suele dar vestido con ropa transpirable.")
+![masaje de manos](https://fotos.etheriamagazine.com/2020/05/como-es-masaje-tailandes.jpg "El masaje tailandés se suele dar vestido con ropa transpirable.")
 
 Existen varias modalidades pero el **masaje thai clásico** se hace tumbado en un futón y 
 vestido con ropa cómoda y transpirable que facilitan en el centro de bienestar. El 
@@ -64,7 +64,7 @@ puedes esta tumbada o sentada, con ropa o sin ella. En muchos aeropuertos te ofr
 este servicio. Aprovecha la ocasión porque es estupendo para relajar la espalda y el 
 cuello tras muchas horas de vuelo. 
 
-![Masaje en la cabeza](https://fotos.etheriamagazine.com/2020/05/masaje-shiatsu-900x600.jpg "El shiatsu se puede hacer sentado o tumbado en un futón.")
+![Masaje en la cabeza](https://fotos.etheriamagazine.com/2020/05/masaje-shiatsu.jpg "El shiatsu se puede hacer sentado o tumbado en un futón.")
 
 ## Masaje balinés
 
@@ -78,7 +78,7 @@ conocimiento adquirido en las relaciones establecidas desde hace siglos con la I
 (Ayurveda) y China (medicina tradicional y equilibrio de los 5 elementos: agua, fuego, 
 aire, tierra y éter). 
 
-![masaje a cuatro manos](https://fotos.etheriamagazine.com/2020/05/masaje-balines-900x600.jpg "Masaje balinés, perfecto para armonizar cuerpo y mente.")
+![masaje a cuatro manos](https://fotos.etheriamagazine.com/2020/05/masaje-balines.jpg "Masaje balinés, perfecto para armonizar cuerpo y mente.")
 
 Esta técnica es idónea para la **relajación muscular, equilibrar el estado de ánimo y 
 aliviar el estrés**. Como se suele cuidar mucho la atmósfera –con música suave y 
@@ -92,7 +92,7 @@ Huna. Es tradición que en estas islas forme parte del ritual en los momentos cl
 la vida: nacimiento, adolescencia, matrimonio y embarazo. Su nombre, que significa 
 “manos amorosas”, corrobora que esté tan ligado a la familia. 
 
-![Masaje en la cabeza](https://fotos.etheriamagazine.com/2020/05/masaje-lomi-lomi-900x598.jpg "El masaje Lomi Lomi era una técnica que se aplicaba en familia.")
+![Masaje en la cabeza](https://fotos.etheriamagazine.com/2020/05/masaje-lomi-lomi.jpg "El masaje Lomi Lomi era una técnica que se aplicaba en familia.")
 
 Si tienes la oportunidad de recibir este masaje en Polinesia, comprobarás que allí se 
 envuelve de una gran mística, con palabras sagradas que se susurran al oído e incluso 
@@ -117,7 +117,7 @@ través del empleo de **aceites esenciales calientes**, que se extienden por tod
 cuerpo. Los extractos de las plantas que componen el aceite contribuyen a nutrir la 
 piel, prevenir el envejecimiento y eliminar las toxinas. 
 
-![Cuenco ayurveda con aceite](https://fotos.etheriamagazine.com/2020/05/masaje-ayurveda-900x600.jpg "Esos finos hilos de aceite del masaje ayurvédico producen una relajante sensación.")
+![Cuenco ayurveda con aceite](https://fotos.etheriamagazine.com/2020/05/masaje-ayurveda.jpg "Esos finos hilos de aceite del masaje ayurvédico producen una relajante sensación.")
 
 Una faceta que nos encanta de los masajes ayurvédicos, además del empleo de aceites, es 
 que son personalizados. Es decir, antes de empezar te realizarán un test en el que, 
@@ -131,7 +131,7 @@ circulatorio.
 Aún quedan otros muchos masajes y rituales de bienestar, pero de ellos, os hablaremos en 
 otro momento. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Dónde desconectar en la Toscana, conoce sus mejores 
 termas](https://etheriamagazine.com/2022/11/03/turismo-termal-toscana-italia/) 

@@ -14,13 +14,13 @@ tiempo de ocio cuando no se puede salir de casa. Conoce más a fondo las colecci
 estos 5 museos y realiza algunas de sus actividades didácticas. En Etheria Magazine te 
 proponemos combatir el aislamiento ocasionado por el coronavirus con mucho arte. 
 
-\[caption id="attachment\_16971" align="aligncenter" width="900"\]![museos espanoles, visitas virtuales, coronavirus](https://fotos.etheriamagazine.com/2020/03/Museo-visita-virtual-coronavirus-900x676.jpg "Visitas virtuales a museos, un buen entretenimiento.") Visitas virtuales a museos, un buen entretenimiento. © Goran Ivos\[/caption\]
+\[caption id="attachment\_16971" align="aligncenter" width="900"\]![museos espanoles, visitas virtuales, coronavirus](https://fotos.etheriamagazine.com/2020/03/Museo-visita-virtual-coronavirus.jpg "Visitas virtuales a museos, un buen entretenimiento.") Visitas virtuales a museos, un buen entretenimiento. © Goran Ivos\[/caption\]
 
 Disfrutar del arte desde casa, sin que importe el lugar de residencia, nunca ha sido tan fácil como en esta sociedad tan tecnológica en la que vivimos. Esa es una gran ventaja en los tiempos que corren en los que, debido al coronavirus, nos vemos obligados a permanecer mucho tiempo en nuestras viviendas. La cultura en general, y los museos en particular, se han volcado para ofrecer estrategias y herramientas para hacer más llevaderos los días de confinamiento.
 
 En Etheria Magazine hemos reseñado las programaciones que ofrecen 5 grandes museos españoles para daros opciones que se adapten a vuestros gustos y preferencias. A continuación encontrarás unas breves indicaciones para que sepas qué es lo que ofrecen cada uno de ellos. Disfrútalas y que la cuarentena sea lo más llevadera posible.
 
-\[caption id="attachment\_16965" align="aligncenter" width="900"\]![museo reina sofia, programa especial coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-reina-sofia-coronavirus-900x584.jpg "Museo Nacional Centro de Arte Reina Sofía.") © Museo Nacional Centro de Arte Reina Sofía.\[/caption\]
+\[caption id="attachment\_16965" align="aligncenter" width="900"\]![museo reina sofia, programa especial coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-reina-sofia-coronavirus.jpg "Museo Nacional Centro de Arte Reina Sofía.") © Museo Nacional Centro de Arte Reina Sofía.\[/caption\]
 
 ## 1\. Museo Reina Sofía
 
@@ -32,7 +32,7 @@ Este museo madrileño pone a disposición del público una gran cantidad de mate
 
 Otro espacio digno de mención es el microsite [Repensar Guernica](https://guernica.museoreinasofia.es/), donde se ofrecen imágenes muy detalladas que serían imperceptibles para el ojo humano. Sigue estando online su programación de exposiciones, la visita virtual de las obras y el resultado de algunas investigaciones como la de “[Fuera del canon. Los artistas pop en la colección](https://www.museoreinasofia.es/obra-destacada/fuera-canon-artistas-pop)”, llevada a cabo por Isabel Tejeda.
 
-\[caption id="attachment\_16962" align="aligncenter" width="900"\]![museo arqueologico nacional, programas coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-arqueologico-coronavirus-900x608.jpg "Museo Arqueológico Nacional.") © Museo Arqueológico Nacional.\[/caption\]
+\[caption id="attachment\_16962" align="aligncenter" width="900"\]![museo arqueologico nacional, programas coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-arqueologico-coronavirus.jpg "Museo Arqueológico Nacional.") © Museo Arqueológico Nacional.\[/caption\]
 
 ## 2\. Museo Arqueológico Nacional
 
@@ -40,7 +40,7 @@ Si aún no conoces este museo, ahora es el momento de acercarse aunque sea en la
 
 Existen, asimismo, **cinco recorridos temáticos** para quienes prefieran ser guiados por el museo. Estos recorridos son: 'Piezas imprescindibles', 'Arqueología de la muerte', 'Museo en femenino', 'Historia de la conservación y la restauración', y 'Música en el museo'.
 
-\[caption id="attachment\_16964" align="aligncenter" width="900"\]![museo del prado, visitas virtuales, programa especial coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-del-prado-coronavirus-900x555.jpg "Museo del Prado") © Museo del Prado\[/caption\]
+\[caption id="attachment\_16964" align="aligncenter" width="900"\]![museo del prado, visitas virtuales, programa especial coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-del-prado-coronavirus.jpg "Museo del Prado") © Museo del Prado\[/caption\]
 
 ## 3\. Museo del Prado
 
@@ -54,7 +54,7 @@ En la iniciativa “[El Prado Contigo](https://www.museodelprado.es/)” encontr
 - Voces del Prado. El día a día del museo a través de la experiencia en primera persona.
 - El Prado efímero.
 
-\[caption id="attachment\_16966" align="aligncenter" width="900"\]![museo thyssen bornemisza, visita virtual rembrand, programa coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-thyssen-coronavirus-900x559.jpg "Museo Nacional Thyssen Bornemisza") © Museo Nacional Thyssen Bornemisza\[/caption\]
+\[caption id="attachment\_16966" align="aligncenter" width="900"\]![museo thyssen bornemisza, visita virtual rembrand, programa coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-thyssen-coronavirus.jpg "Museo Nacional Thyssen Bornemisza") © Museo Nacional Thyssen Bornemisza\[/caption\]
 
 ## 4\. Museo Nacional Thyssen-Bornemisza
 
@@ -64,7 +64,7 @@ Aunque, para quien no esté familiarizado, su versión de 360º marea un poco al
 
 No te pierdas la exposición [Rembrand y el retrato en Amsterdam](https://static.museothyssen.org/microsites/exposiciones/2020/Rembrandt/index.htm). Dedica primero 3 minutos y medio a un vídeo introductorio, y luego sumérgente en el _microsite_ preparado para caminar por las distintas salas de la muestra deteniéndote en las obras. Si haces clic en las mismas se amplía la información. Para quienes no puedan leer bien los rótulos, existen la opción de escucharlo con un audio.
 
-\[caption id="attachment\_16963" align="aligncenter" width="900"\]![museo cerralbo, visita virtual, programa especial coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-cerralbo-coronavirus-900x735.jpg "Museo Cerralbo.") © Museo Cerralbo.\[/caption\]
+\[caption id="attachment\_16963" align="aligncenter" width="900"\]![museo cerralbo, visita virtual, programa especial coronavirus](https://fotos.etheriamagazine.com/2020/03/museo-cerralbo-coronavirus.jpg "Museo Cerralbo.") © Museo Cerralbo.\[/caption\]
 
 ## 5\. Museo Cerralbo
 

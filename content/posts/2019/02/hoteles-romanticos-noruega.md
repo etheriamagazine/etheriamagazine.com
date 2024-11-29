@@ -22,7 +22,7 @@ En [Noruega](https://etheriamagazine.com/2018/12/13/razones-para-viajar-a-norueg
 
 Los noruegos han recopilado 6 lugares o entornos que consideran ideales para practicar sexo. Y la OMS asegura que **el sexo es fuente de salud**. Como seguro que sois tan rigurosas como nosotras, os invitamos a comprobarlo liberando endorfinas. ¡Quién no querría estar sano! Sigue leyendo y elige qué estilo de alojamiento va más con tu personalidad.
 
-\[caption id="attachment\_7432" align="aligncenter" width="1024"\]![Juvet Landscape Hotel, hoteles romanticos noruega](https://fotos.etheriamagazine.com/2019/02/noruega-hotel-romantico-Juvet-1024x681.jpg "Hotel paisajístico Juvet.") Hotel paisajístico Juvet. © Tina Stafrèn/ Visitnorway.com\[/caption\]
+\[caption id="attachment\_7432" align="aligncenter" width="1024"\]![Juvet Landscape Hotel, hoteles romanticos noruega](https://fotos.etheriamagazine.com/2019/02/noruega-hotel-romantico-Juvet.jpg "Hotel paisajístico Juvet.") Hotel paisajístico Juvet. © Tina Stafrèn/ Visitnorway.com\[/caption\]
 
 ## 1\. Salvaje como un vikingo.
 
@@ -46,7 +46,7 @@ Si estás cansada de dormir, es un decir, en los lugares de siempre, en Noruega 
 
 Si te gustaba ir de acampada pero se te ha pasado la edad (o las ganas) de dormir en el suelo, tienes una buena alternativa en el '[glamping](https://www.visitnorway.es/search/?q=glamping&searchLabel=&premiumPartners=)'. Esta opción de alojamiento te ofrece la ventaja de estar en plena naturaleza pero con camas confortables, techos acristalados para no perderte las estrellas (o auroras boreales), chimenea...
 
-\[caption id="attachment\_7433" align="aligncenter" width="1024"\]![alojamientos romanticos en noruega](https://fotos.etheriamagazine.com/2019/02/noruega-hoteles-romanticos-bosques-1024x685.jpg "Si piensas que la acampada libre está sobrevalorada, elige el glamping.") Si piensas que la acampada libre está sobrevalorada, elige el glamping. © CH-Visitnorway.com\[/caption\]
+\[caption id="attachment\_7433" align="aligncenter" width="1024"\]![alojamientos romanticos en noruega](https://fotos.etheriamagazine.com/2019/02/noruega-hoteles-romanticos-bosques.jpg "Si piensas que la acampada libre está sobrevalorada, elige el glamping.") Si piensas que la acampada libre está sobrevalorada, elige el glamping. © CH-Visitnorway.com\[/caption\]
 
 ## 5\. Persiguiendo trolls.
 

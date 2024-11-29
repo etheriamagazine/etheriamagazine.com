@@ -12,7 +12,7 @@ Las condiciones de la cabina de un avión no son las mejores para la piel pero c
 sencillos gestos y la ayuda de la bendita cosmética podemos conseguir incluso comenzar 
 las vacaciones con buena cara desde el primer instante. 
 
-![Una viajera camina por el aeropuerto con una bolsa.](https://fotos.etheriamagazine.com/2018/06/neceser-para-avion-mujer-aerpuerto-1024x683.jpg "la piel se apaga tras los vuelos largos")
+![Una viajera camina por el aeropuerto con una bolsa.](https://fotos.etheriamagazine.com/2018/06/neceser-para-avion-mujer-aerpuerto.jpg "la piel se apaga tras los vuelos largos")
 
 Se considera que el **jet lag** aparece si cruzamos más de cinco zonas horarias. Algunos 
 consejos para combatirlo son descansar todo lo que se pueda los días previos y al llegar 

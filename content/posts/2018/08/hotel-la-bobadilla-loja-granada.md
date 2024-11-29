@@ -116,7 +116,7 @@ Categoría: 5 estrellas Lujo. Tarifas: desde 272 Euros la habitación doble por 
 Dirección: Finca La Bobadilla. Loja, Granada. Contacto: Tel. +34 958 321 861. Fotos: © 
 Barceló Hotels Group. 
 
-? **También te puede interesar** 
+📌 **También te puede interesar** 
 
 [Cortijos andaluces para dar la bienvenida a la 
 primavera](https://etheriamagazine.com/2021/03/16/cortijos-andaluces-viaje-amigas/) 

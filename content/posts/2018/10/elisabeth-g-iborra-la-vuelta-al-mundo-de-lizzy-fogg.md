@@ -73,7 +73,7 @@ Avión, de todas todas, y porque no existe el teletransporte. Detesto los autobu
 
 El **Península** de Bangkok, por derecho. Cinco estrellas con todas las de la ley, el trato que recibí, desde la bienvenida al pequeño apartamento en el que me alojaron, con esos _petit four_ deliciosos; pasando por el spa en el que me dieron un masaje durante horas, hasta el desayuno en el bufé y la cena tailandesa de lujo. Era tan magnífico todo, con ese elegante alarde de lujo asiático, que me costaba salir de allí para ver la capital; pero me esforcé y me la pateé como una jabata, por supuesto.
 
-\[caption id="attachment\_4685" align="aligncenter" width="1024"\]![hoteles lujo mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Spa-Reception-Peninsula-Bangkok-1024x770.jpg "Recepción del Spa del hotel Peninsula de Bangkok.") Recepción del spa del hotel Peninsula de Bangkok. ©The Peninsula Hotels.\[/caption\]
+\[caption id="attachment\_4685" align="aligncenter" width="1024"\]![hoteles lujo mujeres viajeras](https://fotos.etheriamagazine.com/2018/10/Spa-Reception-Peninsula-Bangkok.jpg "Recepción del Spa del hotel Peninsula de Bangkok.") Recepción del spa del hotel Peninsula de Bangkok. ©The Peninsula Hotels.\[/caption\]
 
 ##### 14\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 

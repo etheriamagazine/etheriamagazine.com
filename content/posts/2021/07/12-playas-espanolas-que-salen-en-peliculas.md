@@ -110,7 +110,7 @@ adaptación de la obra del gaditano **Manuel de Falla**: **_El Amor Brujo_**; y 
 **_Manolete_**, la película protagonizada por Adrien Brody y Penélope Cruz, aunque en 
 esta última se inmortalizó simulando que era una plaza mexicana. 
 
-![007 y alatriste peliculas rodadas en la caleta](https://fotos.etheriamagazine.com/2021/07/playa-la-caleta-Muere-otro-dia-900x361.jpg "'Alatriste' y '007: Muere otro día' rodaron escenas en La Caleta (Cádiz). © Danjaq, Llc and United Artists corporation")
+![007 y alatriste peliculas rodadas en la caleta](https://fotos.etheriamagazine.com/2021/07/playa-la-caleta-Muere-otro-dia.jpg "'Alatriste' y '007: Muere otro día' rodaron escenas en La Caleta (Cádiz). © Danjaq, Llc and United Artists corporation")
 
 ## 7\. Playa de Ses Illetes (Formentera)
 

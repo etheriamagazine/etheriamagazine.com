@@ -105,16 +105,16 @@ Italia.
 
 ## Datos de interés
 
-?**¿Dónde es la exposición Magister Raffaello y hasta cuándo está abierta?** En el 
+📍**¿Dónde es la exposición Magister Raffaello y hasta cuándo está abierta?** En el 
 Instituto Italiano de Cultura de Madrid, Palacio de Abrantes, situado en la calle Mayor, 
 número 86. Estaciones de Metro más cercanas: Sol y Ópera. Permanecerá abierta hasta el 
 15 de enero de 2023. 
 
-?**¿Cuál es el horario?** El horario de apertura de la exposición Magister Raffaello es 
+📍**¿Cuál es el horario?** El horario de apertura de la exposición Magister Raffaello es 
 de martes a viernes: de 12.00 a 20.00 horas. Los sábados de 12.00 a 19.00 horas. Los 
 festivos permanecerá cerrada. 
 
-?**¿Cuánto cuesta entrar en la exposición Magister Raffaello?** La entrada es 
+📍**¿Cuánto cuesta entrar en la exposición Magister Raffaello?** La entrada es 
 **gratuita**, no hay que pagar para disfrutar de esta muestra dedicada al maestro del 
 Renacimiento italiano. Si quieres ir en grupo y sois más de 15 personas es aconsejable 
 comunicarlo previamente en este mail secrdir.iicmadrid@esteri.it. 

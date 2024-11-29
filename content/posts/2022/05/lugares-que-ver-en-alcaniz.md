@@ -29,7 +29,7 @@ iniciarte al _karting_, motocross y autocross.
 De todo esto y de mucho más te hablamos en este artículo donde, a través de diversas 
 paradas, conocerás todo lo que hay que ver en Alcañiz en una escapada de fin de semana. 
 
-![Patio de armas del castillo de Calatravos, en Alcañiz.](https://fotos.etheriamagazine.com/2022/05/Patio-de-armas-castillo-de-Calatravos-Alcaniz-683x1024.jpg "Patio de armas del castillo de Calatravos, en Alcañiz.")
+![Patio de armas del castillo de Calatravos, en Alcañiz.](https://fotos.etheriamagazine.com/2022/05/Patio-de-armas-castillo-de-Calatravos-Alcaniz.jpg "Patio de armas del castillo de Calatravos, en Alcañiz.")
 
 ## Qué ver en Alcañiz, 8 secretos para descubrir
 
@@ -52,7 +52,7 @@ interior alberga una fascinante sorpresa. Basta con traspasar la bella portada r
 de la **iglesia de Santa María Magdalena** o capilla del castillo para vernos rodeadas 
 de extraordinarias pinturas murales realizadas hace 800 años. 
 
-![Patio de armas y ermita de Santa Magdalena en el castillo de Calatravos, en Alcañiz.](https://fotos.etheriamagazine.com/2022/05/Patio-de-armas-y-ermita-castillo-de-Calatravos-Alcaniz-683x1024.jpg "Patio de armas y ermita de Santa Magdalena en el castillo de Calatravos, en Alcañiz.")
+![Patio de armas y ermita de Santa Magdalena en el castillo de Calatravos, en Alcañiz.](https://fotos.etheriamagazine.com/2022/05/Patio-de-armas-y-ermita-castillo-de-Calatravos-Alcaniz.jpg "Patio de armas y ermita de Santa Magdalena en el castillo de Calatravos, en Alcañiz.")
 
 ### 2\. La historia ante tus ojos
 
@@ -71,7 +71,7 @@ otro lugar imprescindible que hay que ver en Alcañiz. Representa una experienci
 caballo entre la creatividad y la magia, con un plus de diversión asegurada para 
 pequeños y mayores. 
 
-![Pinturas góticas del castillo de Calatravos, en Alcañiz.](https://fotos.etheriamagazine.com/2022/05/Pinturas-goticas-castillo-Alcaniz-683x1024.jpg "Pinturas góticas del castillo de Calatravos, en Alcañiz.")
+![Pinturas góticas del castillo de Calatravos, en Alcañiz.](https://fotos.etheriamagazine.com/2022/05/Pinturas-goticas-castillo-Alcaniz.jpg "Pinturas góticas del castillo de Calatravos, en Alcañiz.")
 
 ### 3\. Alcañiz, un escenario de película
 
@@ -111,7 +111,7 @@ arcos trataban con aceite, lana, azafrán, seda en rama y trigo que dieron el es
 la ciudad. Ese trajín mercantil aún tiene huella en su ambiente urbano, ya que a la 
 ciudad es donde acuden de compras los vecinos de la comarca periódicamente. 
 
-![Pasadizos situados bajo la Lonja de Alcañiz.](https://fotos.etheriamagazine.com/2022/05/Pasadizos-Lonja-Alcaniz-683x1024.jpg "Pasadizos situados bajo la Lonja de Alcañiz.")
+![Pasadizos situados bajo la Lonja de Alcañiz.](https://fotos.etheriamagazine.com/2022/05/Pasadizos-Lonja-Alcaniz.jpg "Pasadizos situados bajo la Lonja de Alcañiz.")
 
 #### Una bodega bajo la Lonja
 
@@ -152,7 +152,7 @@ bóvedas de frío** rehabilitadas y accesibles, magníficamente documentadas e i
 trazan **una ruta única** a nivel europeo que ha merecido su reciente declaración como 
 Bien de Interés Cultural. 
 
-![Interior de la Bóveda de frío del pueblo de Belmonte de San José.](https://fotos.etheriamagazine.com/2022/05/Boveda-de-frio-Belmonte-683x1024.jpg "Bóveda de frío del pueblo de Belmonte de San José.")
+![Interior de la Bóveda de frío del pueblo de Belmonte de San José.](https://fotos.etheriamagazine.com/2022/05/Boveda-de-frio-Belmonte.jpg "Bóveda de frío del pueblo de Belmonte de San José.")
 
 ### 7\. Pueblos de cuento y antidespoblación: Belmonte de San José y Aguaviva
 

@@ -33,7 +33,7 @@ llevará por la exposición través de un vídeo en Facebook Live. Tras la visit
 experta en arte Frederica Van Dam quien responderá a las preguntas en una sesión de 
 preguntas y respuestas en vivo. También podrás verlo en la página de YouTube de Flandes. 
 
-![visitas virtuales museos flandes, van eyck](https://fotos.etheriamagazine.com/2020/04/Van-Eyck-visitas-virtuales-900x514.jpg "Visitas virtuales a la exposición 'Van Eyck, una revolución óptica'.")
+![visitas virtuales museos flandes, van eyck](https://fotos.etheriamagazine.com/2020/04/Van-Eyck-visitas-virtuales.jpg "Visitas virtuales a la exposición 'Van Eyck, una revolución óptica'.")
 
 ## 2\. Visitas virtuales a monumentos en Egipto
 
@@ -45,7 +45,7 @@ sociales, donde también se añade el enlace para la misma. Ya puedes conocer la
 Menna, un enterramiento de un alto funcionario de Egipto en la antigua Tebas, la Tumba 
 de la reina Meresankh III, la mezquita-madrassa del Sultán Barquq y el Monasterio Rojo. 
 
-![visitas virtuales a monumentos egipcios](https://fotos.etheriamagazine.com/2020/04/visita-virtual-museos-egipto-900x475.jpg "Visitas virtuales a monumentos egipcios.")
+![visitas virtuales a monumentos egipcios](https://fotos.etheriamagazine.com/2020/04/visita-virtual-museos-egipto.jpg "Visitas virtuales a monumentos egipcios.")
 
 ## 3\. Museo del Prado
 
@@ -58,7 +58,7 @@ explicación de Sabina Seupham Spalding, una obra de Federico de Madrazo (1846) 
 comentarios de Javier Barón, Jefe del Área de Conservación de Pintura del Siglo XIX del 
 Museo Nacional del Prado. 
 
-![museo del prado, visitas virtuales](https://fotos.etheriamagazine.com/2020/04/museo-el-prado-900x516.jpg "Obra comentada: 'Sabina Seupham Spalding'. © Museo del Prado")
+![museo del prado, visitas virtuales](https://fotos.etheriamagazine.com/2020/04/museo-el-prado.jpg "Obra comentada: 'Sabina Seupham Spalding'. © Museo del Prado")
 
 ## 4\. Museos Vaticanos (Ciudad del Vaticano)
 
@@ -68,7 +68,7 @@ de esa escultura que te encanta. Encontrarás visitas virtuales al Museo Pío Cl
 el Museo Chiaramonti, el Brazo Nuevo, la Capilla Sixtina, las Estancias de Rafael, la 
 Capilla Nicolina y a la Sala de los Claroscuros. 
 
-![museos vaticanos, visitas virtuales](https://fotos.etheriamagazine.com/2020/04/museos-vaticanos-900x445.jpg "Visitas virtuales a los Museos Vaticanos.")
+![museos vaticanos, visitas virtuales](https://fotos.etheriamagazine.com/2020/04/museos-vaticanos.jpg "Visitas virtuales a los Museos Vaticanos.")
 
 ## 5\. Museo del Louvre (París, Francia)
 
@@ -77,4 +77,4 @@ posibilidad de realizar visitas online a la exposición The Advent of the Artist
 Petite Galerie, y a la Colección de Antigüedades Egipcias. Sin olvidar la posibilidad de 
 recorrer la construcción medieval del museo y la Galerie d'Apollon. 
 
-![museo del louvre, visitas virtuales cuarentena](https://fotos.etheriamagazine.com/2020/04/visita-virtual-louvre-900x563.jpg "Visitas virtuales al Museo del Louvre (París).")
+![museo del louvre, visitas virtuales cuarentena](https://fotos.etheriamagazine.com/2020/04/visita-virtual-louvre.jpg "Visitas virtuales al Museo del Louvre (París).")

@@ -61,7 +61,7 @@ Central. En 2016 se contabilizaron 578 individuos salvajes en la parte polaca de
 Bialowieza y unos 500 en el sector bielorruso del parque. Pero eso es, tristemente, todo 
 lo que queda de ellos. 
 
-![Huellas sobre la nieve en el Parque Natural de Bialowieza.](https://fotos.etheriamagazine.com/2019/01/Bialowieza-huella-1024x682.jpg "Huellas sobre la nieve en el Parque Natural de Bialowieza. © Kris Ubach")
+![Huellas sobre la nieve en el Parque Natural de Bialowieza.](https://fotos.etheriamagazine.com/2019/01/Bialowieza-huella.jpg "Huellas sobre la nieve en el Parque Natural de Bialowieza. © Kris Ubach")
 
 Tras varias horas caminando y acechando entre hielo, niebla y árboles totémicos, 
 avistamos un nutrido grupo de hembras pastando bajo unas coníferas. Están demasiado 

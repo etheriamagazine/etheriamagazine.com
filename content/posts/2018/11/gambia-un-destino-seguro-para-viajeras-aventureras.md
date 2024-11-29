@@ -56,7 +56,7 @@ los mínimos de confort occidentales: ducha con agua caliente, aire acondicionad
 terraza para tomarte un gin-tonic. Si, por el contrario, tu plan es más aventurero… 
 también tendrás otras actividades y visitas recomendables. 
 
-![En la laguna de Kachikally hay como cocodrilos como el de la imagen.](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Cocodrilos-de-Kachikally-740x1024.jpg "En la laguna de Kachikally hay como cocodrilos como el de la imagen.")
+![En la laguna de Kachikally hay como cocodrilos como el de la imagen.](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Cocodrilos-de-Kachikally.jpg "En la laguna de Kachikally hay como cocodrilos como el de la imagen.")
 
 ## Qué ver y hacer en Gambia
 
@@ -155,7 +155,7 @@ chimpancés en plena libertad, millones de aves cruzando el espacio infinito… 
 vivir esta auténtica experiencia gambiana habrá que plantearse otro viaje. El país es 
 pequeño, pero grande en propuestas turísticas. 
 
-![Músicos de Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Actuación-en-el-Poco-Loco-de-Banjul-1024x588.jpg "Actuación en el 'Poco Loco' de Banjul.")
+![Músicos de Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-Actuación-en-el-Poco-Loco-de-Banjul.jpg "Actuación en el 'Poco Loco' de Banjul.")
 
 ### Turismo sexual en Gambia
 

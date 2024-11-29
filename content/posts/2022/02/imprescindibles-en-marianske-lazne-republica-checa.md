@@ -43,7 +43,7 @@ vainilla.](#obleas-marianske-lazne) **5️⃣** [Un baño romano en el hotel Nov
 Lázně](#bano-romano-marianske). **6️⃣** [Iglesia ortodoxa rusa de San 
 Vladimiro](#iglesia-rusa-marianske). **7️⃣** [Dónde comer en Mariánské 
 Lázně](#restaurantes-marianske-lazne). **8️⃣** [Piscina Lido](#piscina-lido). **9️⃣** [Visitar 
-Kladska.](#excursion-kladska) **?** [Excursiones desde Mariánské 
+Kladska.](#excursion-kladska) **🔟** [Excursiones desde Mariánské 
 Lázně](#excursion-karlovy-vary). 
 
 ![marianske lazne una ciudad rodeada de bosques](https://fotos.etheriamagazine.com/2022/02/marianske-lazne-bosques.jpg "Mariánské Lázně, una ciudad rodeada de bosques. © Pepa García")
@@ -85,7 +85,7 @@ Si en tu viaje a las visitas arquitectónicas le añades algún paseo por sus cu
 parques y una excursión a los alrededores tendrás una escapada termal perfecta como 
 complemento a una escapada a Praga. 
 
-![parque y jardin de marianske lazne](https://fotos.etheriamagazine.com/2022/02/parque-marianske-lazne-otono-703x1024.jpg "Uno de los bucólicos rincones de Mariánské Lázně. © Pepa García")
+![parque y jardin de marianske lazne](https://fotos.etheriamagazine.com/2022/02/parque-marianske-lazne-otono.jpg "Uno de los bucólicos rincones de Mariánské Lázně. © Pepa García")
 
 ## Qué ver y hacer en Mariánské Lázně
 
@@ -96,7 +96,7 @@ media hora más. Si te levantas temprano, es incluso una excursión factible par
 día. A continuación te contamos en formato lista qué ver y hacer en Mariánské Lázně para 
 que no pierdas ni un minuto más. 
 
-![columnata termal de marianske lazne](https://fotos.etheriamagazine.com/2022/02/columnata-principal-703x1024.jpg "Columnata Principal de Mariánské Lázně. © Pepa García")
+![columnata termal de marianske lazne](https://fotos.etheriamagazine.com/2022/02/columnata-principal.jpg "Columnata Principal de Mariánské Lázně. © Pepa García")
 
 ### 1\. Beber agua de una fuente termal
 
@@ -167,7 +167,7 @@ atrás, con pasillos jalonados por salas de tratamientos, suntuosos salones, y u
 romano** con unas bonitas columnas donde dejarte acariciar por estas aguas mágicas y 
 curativas. 
 
-![Iglesia ortodoxa rusa de San Vladimiro](https://fotos.etheriamagazine.com/2022/02/iglesia-ortodoxa-marianske-lazne-743x1024.jpg "Iglesia ortodoxa rusa de San Vladimiro. © Pepa García")
+![Iglesia ortodoxa rusa de San Vladimiro](https://fotos.etheriamagazine.com/2022/02/iglesia-ortodoxa-marianske-lazne.jpg "Iglesia ortodoxa rusa de San Vladimiro. © Pepa García")
 
 ### 6\. Conocer la iglesia ortodoxa rusa de San Vladimiro
 

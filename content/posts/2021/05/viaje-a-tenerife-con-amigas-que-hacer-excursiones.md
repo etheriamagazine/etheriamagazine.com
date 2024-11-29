@@ -42,7 +42,7 @@ es la **Cofradía de la Punta**, un lugar con excelente pescado. Y, si os gustan
 calamares, son la especialidad de **Casa Doris**, un local sencillo pero lleno de 
 encanto local. 
 
-![piscinas naturales en Tenerife](https://fotos.etheriamagazine.com/2021/05/tenerife-con-amiga-punta-del-hidalgo-683x1024.jpg "Piscinas naturales en Punta del Hidalgo. © Tobias Ziegler")
+![piscinas naturales en Tenerife](https://fotos.etheriamagazine.com/2021/05/tenerife-con-amiga-punta-del-hidalgo.jpg "Piscinas naturales en Punta del Hidalgo. © Tobias Ziegler")
 
 ## 3\. El Médano: una jornada de playa y surf
 
@@ -124,7 +124,7 @@ Templanza', que ya se puede ver en Prime Video. ¡No te la pierdas!
 Uno de los atractivos de zona sur y oeste de Tenerife es la posibilidad de ver delfines 
 y ballenas, una excusa perfecta para pasar un día navegando. Además, esta costa guarda 
 espacios naturales impresionantes como los acantilados de Los Gigantes. Podéis contratar 
-alguna de las excursiones que organiza ? Civitatis: la [excursión a Masca y Los 
+alguna de las excursiones que organiza 📌 Civitatis: la [excursión a Masca y Los 
 Gigantes](https://www.civitatis.com/es/tenerife/excursion-masca-gigantes/?aid=10211) o 
 el [Paseo en Catamarán con avistamiento de 
 cetáceos](https://www.civitatis.com/es/tenerife/paseo-velero-avistamiento-cetaceos/?aid=10211) 
@@ -186,7 +186,7 @@ contábamos en el artículo [Efigenia la de Las Hayas y la cocina que hechizó a
 Merkel en La 
 Gomera](https://etheriamagazine.com/2021/01/06/casa-efigenia-mejor-restaurante-vegetariano-la-gomera/). 
 
-? También podéis contratar una [excursión organizada a La Gomera con 
+📌 También podéis contratar una [excursión organizada a La Gomera con 
 Civitatis](https://www.civitatis.com/es/tenerife/excursion-la-gomera/?aid=10211), con el 
 ferry, un tour por la isla y el almuerzo incluidos. 
 

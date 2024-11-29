@@ -171,7 +171,7 @@ de comida casera, en temporada alta es mejor reservar. También puedes acercarte
 restaurantes de **Torrijos** como El Borbollón Torrijos; o en **La Puebla de Montalbán** 
 al Asador El Nogal o al Restaurante Antonio. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Visita de la catedral de Toledo: 10 detalles que no puedes 
 perderte](https://etheriamagazine.com/2022/01/19/que-ver-en-catedral-de-toledo/) 

@@ -13,7 +13,7 @@ aliciente más para los visitantes. Su importancia es tal que este año 2023 ha 
 declarado el Año de la Sauna en este país. Hacemos un breve repaso de los tipos de 
 saunas más habituales. 
 
-![Dos mujeres pasean entre iglus sauna en Estonia](https://fotos.etheriamagazine.com/2023/02/saunas-iglu-850x354.jpg "Saunas en iglús en Estonia.")
+![Dos mujeres pasean entre iglus sauna en Estonia](https://fotos.etheriamagazine.com/2023/02/saunas-iglu.jpg "Saunas en iglús en Estonia.")
 
 La distancia que nos separa de un destino no se mide en horas de vuelo sino en las 
 similitudes o diferencias respecto a nuestro lugar de procedencia. Por este motivo, 
@@ -63,7 +63,7 @@ se pueden encontrar en diversos puntos del país, desde las islas hasta la zona 
 Uno de los espacios más curiosos para disfrutarlas es el **Parque de los Iglús de 
 Tallin**. 
 
-![Iglupark conjunto de iglus sauna en Estonia](https://fotos.etheriamagazine.com/2023/02/Iglupark-saunas-estonia-850x567.jpg "Parque de los Iglús en Tallin. © Visit Estonia")
+![Iglupark conjunto de iglus sauna en Estonia](https://fotos.etheriamagazine.com/2023/02/Iglupark-saunas-estonia.jpg "Parque de los Iglús en Tallin. © Visit Estonia")
 
 ### Sauna flotante
 

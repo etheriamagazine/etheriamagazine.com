@@ -16,7 +16,7 @@ decisión y también para conocer a otras mujeres que ya disfrutan de esa manera
 se ha organizado el I Encuentro de Viajeras 2.0: Objetivo Viajar Sola. Toma nota: 17 de 
 mayo en Madrid, habrá charlas, bailes y risas. 
 
-![Mujer viajando sola por la India](https://fotos.etheriamagazine.com/2024/05/mujer-viaja-sola-850x567.jpg "Viajar sola una modalidad tan válida como otra cualquiera. © Ibrahim Rifath")
+![Mujer viajando sola por la India](https://fotos.etheriamagazine.com/2024/05/mujer-viaja-sola.jpg "Viajar sola una modalidad tan válida como otra cualquiera. © Ibrahim Rifath")
 
 Hablar de viajes y experiencias personales con el objetivo de normalizar la opción de 
 viajar solas, compartir un rato divertido con otras mujeres e incluso bailar ritmos 
@@ -48,7 +48,7 @@ alas](https://www.instagram.com/viajarsolatedaalas/), han organizado este evento
 que las asistentes perderán los miedos, resolverán dudas, se sentirán comprendidas, 
 compartirán vivencias y tendrán la oportunidad de crear comunidad. 
 
-![Viajar sola aporta seguridad en uno mismo.](https://fotos.etheriamagazine.com/2024/05/mujer-viajar-sola-850x612.jpg "Viajar sola aporta seguridad en uno mismo. © Steven Aguilar")
+![Viajar sola aporta seguridad en uno mismo.](https://fotos.etheriamagazine.com/2024/05/mujer-viajar-sola.jpg "Viajar sola aporta seguridad en uno mismo. © Steven Aguilar")
 
 ## Dónde y cómo será el evento
 

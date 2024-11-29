@@ -12,7 +12,7 @@ authors:
 
 Viajar a Cádiz siempre apetece y si el plan incluye el resort de lujo de cinco estrellas Royal Hideaway Sancti Petri se convierte en perfecto. Disfruta de una escapada en pareja o en familia a este rincón de la Costa de la Luz y disfruta de las preciosas puestas de sol de la playa de la Barrosa.
 
-![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-piscinas-900x602.jpg "Panorámica del hotel.")
+![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-piscinas.jpg "Panorámica del hotel.")
 
 Refugiarse unos días en este hotel para descansar y disfrutar de la bonita costa 
 gaditana es algo a lo que podemos denominar ‘planazo’. El entorno de este hotel de 
@@ -21,7 +21,7 @@ en 35.000 metros cuadrados de jardines y lagos naturales. Sin olvidar, sus cinco
 piscinas exteriores, todas con zona de hidromasaje, numerosos restaurantes y lugares 
 originales llenos de encanto. ¿Se puede pedir más? 
 
-![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-siddharta-900x601.jpg "Siddharta Lounge, un original espacio en el hotel.")
+![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-siddharta.jpg "Siddharta Lounge, un original espacio en el hotel.")
 
 Y, por su situación, es un lugar perfecto para recorrer la zona y descubrir la [Ruta de 
 los Pueblos 
@@ -44,7 +44,7 @@ balcones: Vista Jardín, Vista Mar Lateral o Vista Mar Frontal. Si viajas en fam
 mejor opción es una **habitación Familiar**, que se consigue al conectar dos 
 habitaciones Deluxe y donde se pueden alojar hasta seis personas. 
 
-![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sacti-petri-habitacion-lateral-vista-mar-900x601.jpg "Habitación Deluxe Vista Mar Lateral.")
+![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sacti-petri-habitacion-lateral-vista-mar.jpg "Habitación Deluxe Vista Mar Lateral.")
 
 Si buscas tener un 'plus' de lujo y confort, no dudes en darte un capricho con una de 
 sus suites. Podrás elegir entre la **Suite Africana** (con una decoración que traslada a 
@@ -57,7 +57,7 @@ dos dormitorios y una terraza de 200 metros cuadrados).
 > Todas las suites cuentan con hidromasaje en la terraza y la posibilidad de ver cada día 
 > una bonita puesta de sol. 
 
-![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sacti-petri-suite-presidencial-900x710.jpg "Terraza de la Suite Presidencial.")
+![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sacti-petri-suite-presidencial.jpg "Terraza de la Suite Presidencial.")
 
 ## Restaurantes para todos los gustos
 
@@ -71,7 +71,7 @@ además de deliciosos platos como el 'tataki de atún con teriyaki' o el 'tiradi
 con esfera de yuzu', para venir a conocerlo. No lo dudes y atrévete con sus menús 
 emocionales que maridan gastronomía, vinos, música y cultura. 
 
-![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-restaurante-atunante-900x600.jpg "Restaurante Atunante.")
+![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-restaurante-atunante.jpg "Restaurante Atunante.")
 
 También podrás disfrutar del **restaurante Buffet Almadraba**, frente a la piscina 
 principal, donde la cocina local e internacional se completa con un Vital Corner con 
@@ -82,7 +82,7 @@ que el restaurante **Beach Club La Bahía** o la **Zumería**, donde además pod
 deliciosos zumos y _smoothies_. Para cenar, si te gusta la carne y el pescado a la 
 brasa, tu elección tiene que ser el restaurante **La Brasería**. 
 
-![Viajes a Cadiz, hoteles de lujo, escapadas a la playa, hoteles familiares cadiz](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-terraza-piscina-900x604.jpg "Restaurante Beach Club La Bahía.")
+![Viajes a Cadiz, hoteles de lujo, escapadas a la playa, hoteles familiares cadiz](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-terraza-piscina.jpg "Restaurante Beach Club La Bahía.")
 
 Y para concluir la noche, puedes quedarte en el hotel y disfrutar de **The Dublin Bay**, 
 un auténtico bar irlandés con bolera, dardos y billar americano donde podrás seguir los 
@@ -90,7 +90,7 @@ principales acontecimientos deportivos. O si buscas algo más exótico, nada com
 **Siddharta Lounge**, donde además de disfrutar de la música del DJ podrás probar los 
 exquisitos platos de cocina asiática del Café Saigón de Madrid. 
 
-![Viajes a Cadiz, hoteles de lujo, escapadas a la playa, hoteles familiares cadiz](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-bolera-900x523.jpg "Pub The Dublin Bay.")
+![Viajes a Cadiz, hoteles de lujo, escapadas a la playa, hoteles familiares cadiz](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-bolera.jpg "Pub The Dublin Bay.")
 
 ## El spa más grande de Andalucía
 
@@ -101,7 +101,7 @@ el descanso y el disfrute. Cuenta con **circuito de hidroterapia de dos plantas*
 piscina climatizada, 8 lujosas spa suites, gimnasio, una zona de estética y una extensa 
 carta de tratamientos. 
 
-![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-spa-900x601.jpg "Circuito de hidroterapia del spa del Royal Hideaway Sancti Petri.")
+![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-spa.jpg "Circuito de hidroterapia del spa del Royal Hideaway Sancti Petri.")
 
 Además, se puede disfrutar del **Sky Wellness Terrace**, un espacio al aire libre donde 
 disfrutar de tratamientos de la medicina tradicional china y vivir un auténtico momento 
@@ -117,7 +117,7 @@ en la que acompañarás al cocinero al mercado a comprar los productos y elabora
 delicioso menú andaluz que podrás degustar después. Y, por último, ¿qué te parece un 
 paseo a caballo por la **playa de la Barrosa** al atardecer? 
 
-![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-masaje-900x600.jpg "Masaje en la Sky Wellness Terrace.")
+![Viajes a Cadiz, hoteles de lujo, escapadas a la playa](https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-masaje.jpg "Masaje en la Sky Wellness Terrace.")
 
 [Royal Hideaway Sancti 
 Petri](https://www.barcelo.com/es-es/royal-hideaway-sancti-petri/) Urbanización Loma de 

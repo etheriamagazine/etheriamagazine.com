@@ -12,7 +12,7 @@ authors:
 
 El nuevo Museo de Arte Contemporáneo Helga de Alvear nos ha recordado que existen mujeres singulares que contribuyen, sin hacer mucho ruido, a crear un mundo mejor. Desde Etheria Magazine queremos destacar la figura de la coleccionista y galerista alemana Helga de Alvear, cuyo sueño de extender el arte a todos los segmentos, se ha visto cumplido con este centro de arte de Cáceres.
 
-![museo de arte contemporaneo helga de alvear](https://fotos.etheriamagazine.com/2021/03/Helga-de-Alvear-732x1024.jpg "Helga de Alvear fue una de las impulsoras de la creación de ARCO. © Luis Asín")
+![museo de arte contemporaneo helga de alvear](https://fotos.etheriamagazine.com/2021/03/Helga-de-Alvear.jpg "Helga de Alvear fue una de las impulsoras de la creación de ARCO. © Luis Asín")
 
 El nuevo Museo de Arte Contemporáneo Helga de Alvear, que se ha inaugurado en Cáceres a 
 finales de febrero, es la nueva “visita obligada” en Extremadura para los amantes del 

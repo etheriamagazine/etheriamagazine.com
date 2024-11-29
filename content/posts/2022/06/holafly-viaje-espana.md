@@ -12,7 +12,7 @@ authors:
 
 Un viaje a España puede ser un sueño cumplido, incluso marcar un antes y un después en nuestra vida; por ese motivo, llevar controlados todos los detalles para que sea un éxito es algo obligado. Uno de ellos, la conexión en el destino, es de los más fáciles de resolver con la eSIM de Holafly. Te contamos en qué consiste, dónde comprar la esim y cómo conectarte nada más aterrizar.
 
-![Código QR para conseguir la eSIM Holafly.](https://fotos.etheriamagazine.com/2022/06/esim-holafly-espana-685x1024.jpg "Código QR para conseguir la eSIM Holafly. © Viajes Globetrotter")
+![Código QR para conseguir la eSIM Holafly.](https://fotos.etheriamagazine.com/2022/06/esim-holafly-espana.jpg "Código QR para conseguir la eSIM Holafly. © Viajes Globetrotter")
 
 Viajar a España para disfrutar de su cultura, sus paisajes y su exquisita gastronomía es 
 uno de los sueños que se deben cumplir al menos una vez en la vida. Para que esa 
@@ -52,7 +52,7 @@ experiencia sin miedo a conectarse por error y a que llegasen facturas desorbita
 día, ya disfrutan de la **eSIM HolaFly más de 100.000 viajeros** y se pueden adquirir 
 sims y esims para más de 60 países. 
 
-![Un joven sostiene un móvil con el código QR de la esim de Holafly](https://fotos.etheriamagazine.com/2022/06/comprar-esim-espana-879x1024.jpg "Comprar y activar la eSIM Holafly es sumamente sencillo. © Camallerys Vlogs")
+![Un joven sostiene un móvil con el código QR de la esim de Holafly](https://fotos.etheriamagazine.com/2022/06/comprar-esim-espana.jpg "Comprar y activar la eSIM Holafly es sumamente sencillo. © Camallerys Vlogs")
 
 ## La eSIM para viajeros en España
 
@@ -94,7 +94,7 @@ necesitas tener una **buena conexión a Internet al instalar la eSIM**. Si puede
 antes de salir de casa con tu red privada, mejor. Si no puede ser, busca un lugar donde 
 la conexión sea buena. 
 
-? Un dato que te puede interesar es que aunque esta esim internacional sólo se pueda 
+📌 Un dato que te puede interesar es que aunque esta esim internacional sólo se pueda 
 usar en un teléfono, puedes compartir los datos con tu familia o compañeros de viaje. 
 
 ![Viajeras comprando su tarjeta prepago para viajar.](https://fotos.etheriamagazine.com/2022/06/viajeras-compran-tarjeta-prepago.jpg "Viajeras preparando sus escapadas. © Surface")
@@ -166,6 +166,6 @@ puedes realizar esas llamadas a través de Whatsapp o Skype. En caso de que nece
 disponer de un número español, lo más recomendable es adquirir una SIM española al 
 aterrizar en nuestro país. 
 
-? **Un consejo extra:** Si te vas a mover tanto dentro de España como en Europa, te 
+📌 **Un consejo extra:** Si te vas a mover tanto dentro de España como en Europa, te 
 interesa adquirir la **eSIM Europa de Holafly**, ya que así podrás usarla en distintos 
 destinos en lugar de comprar una en cada lugar.

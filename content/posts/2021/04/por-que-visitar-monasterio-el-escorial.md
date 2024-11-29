@@ -236,4 +236,4 @@ Madrid](https://etheriamagazine.com/2020/05/20/15-escapadas-a-menos-de-99-km-de-
 [Sierra del Rincón, una bonita escapada a los pueblos y hayedos de 
 Madrid](https://etheriamagazine.com/2020/09/15/pueblos-mas-bonitos-y-rutas-en-sierra-del-rincon-madrid/) 
 
-![jardines chinescos, excursion aranjuez](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez-900x675.jpg "Otras visitas en Madrid: Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
+![jardines chinescos, excursion aranjuez](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg "Otras visitas en Madrid: Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")

@@ -26,7 +26,7 @@ mar–, nuevas islas, arquitecturas contemporáneas y apuestas transgresoras, es
 portuaria se ha convertido en un rincón donde los siglos se intercambian miradas y la 
 historia vibra en cualquier rincón. 
 
-![Castillo de Rosenborg en copenhague](https://fotos.etheriamagazine.com/2022/01/copenhague-castillo-rosenborg-768x1024.jpg "Castillo de Rosenborg. © Giuseppe Liverino/ Visit Copenhagen")
+![Castillo de Rosenborg en copenhague](https://fotos.etheriamagazine.com/2022/01/copenhague-castillo-rosenborg.jpg "Castillo de Rosenborg. © Giuseppe Liverino/ Visit Copenhagen")
 
 ## El Copenhague de C4
 

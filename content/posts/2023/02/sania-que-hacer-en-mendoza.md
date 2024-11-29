@@ -91,7 +91,7 @@ tiempo. Además, lo quise hacer junto con una nueva amiga de Mendoza, que tambi�
 más de 65 años. Así que nos dispusimos a mostrar que la edad no tiene por qué ser una 
 limitación para saltar al vacío y volar. 
 
-?Lo hicimos con la empresa [Andusfly](https://andusfly.com.ar/?gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RlOT_NygEH0-D3XGuTJdD3VvtnaNyqOw0REaAnLhEALw_wcB), 
+📍Lo hicimos con la empresa [Andusfly](https://andusfly.com.ar/?gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RlOT_NygEH0-D3XGuTJdD3VvtnaNyqOw0REaAnLhEALw_wcB), 
 que lleva facilitando el vuelo por los aires de Mendoza desde hace dieciséis años. Saben 
 lo que hacen. Conocen los vientos, tienen buen equipo y son profesionales del aire. 
 
@@ -111,7 +111,7 @@ Me quedé con ganas de seguir volando, apoyada en el piloto profesional, balance
 el aire, riendo, viendo el paisaje… Por un momento pude ser pájaro. Me siento 
 enormemente agradecida por ello. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 01.[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
 Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/). 

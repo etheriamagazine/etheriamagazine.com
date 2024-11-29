@@ -71,7 +71,7 @@ camino a una nueva vida.
 
 ![Convento de San Francisco.](https://fotos.etheriamagazine.com/2022/12/pontevedra-convento-san-francisco.jpg "Convento de San Francisco.")
 
-? Separando las rías de Pontevedra y Vigo se extiende la **península do Morrazo**. En 
+📍 Separando las rías de Pontevedra y Vigo se extiende la **península do Morrazo**. En 
 ella se encuentra el pueblo de **Marín** con uno de los puertos más activos de Galicia y 
 uno de los cuatros menhires o pedrafitas de Pontevedra. No menos atractivo a nivel 
 marinero es Bueu, donde incluso te puedes asomar al trajín diario de su lonja. No dejes 
@@ -107,7 +107,7 @@ color azul caribeño de sus aguas.
 
 ![Islas Cíes, unas de las más bonitas de Pontevedra.](https://fotos.etheriamagazine.com/2022/12/islas-Cies.jpg "Islas Cíes, unas de las más bonitas de Pontevedra.")
 
-? Si viajas en temporada alta (desde principios de julio hasta el 15 de septiembre) 
+📍 Si viajas en temporada alta (desde principios de julio hasta el 15 de septiembre) 
 tienes que solicitar una autorización de visita de la Xunta de Galicia. Si vas a 
 acampar, es el propio camping quien la tramita. Después ya puedes contratar tu billete a 
 las islas Cíes. (Puedes reservar aquí el [billete del barco desde 
@@ -131,12 +131,12 @@ millar de vecinos distribuidos en nueve aldeas.
 
 ![Faro de la isla de Ons, Pontevedra](https://fotos.etheriamagazine.com/2022/12/faro-ons.jpg "Faro de Ons.")
 
-?Camina por la meseta de tojos y brezo que tapiza el altiplano de la isla, mientras las 
+📍Camina por la meseta de tojos y brezo que tapiza el altiplano de la isla, mientras las 
 gaviotas patiamarillas y cormoranes moñudos acompañan tus pasos para llegar al faro. 
 Ubicado en el Alto do Cucorno, con sus 128 metros de elevación, marca la zona más alta 
 de la isla. 
 
-?De vuelta a la costa peninsular pontevedresa acércate a **Sanxenxo** para conocer la 
+📍De vuelta a la costa peninsular pontevedresa acércate a **Sanxenxo** para conocer la 
 localidad más popular de veraneo gallega. Su epicentro estival es la playa de Silgar. 
 Más conocida como playa de Sanxenxo, con sus 800 metros, es recorrida por el paseo 
 marítimo que es punto de encuentro de la vida nocturna veraniega. 
@@ -212,7 +212,7 @@ varas para hacer muebles, cestos y objetos cotidianos. En **el Ensanche**, zona 
 surgida de la pujanza de la industria conservera, la esencia urbanística son las 
 abiertas avenidas y los edificios modernistas. 
 
-?Imposible marcharse sin una foto en lugares donde quedan los vigueses, junto a **la 
+📍Imposible marcharse sin una foto en lugares donde quedan los vigueses, junto a **la 
 Farola** o **el Sireno**, las esculturas que marcan los extremos de la calle Príncipe, 
 la vía comercial peatonal más animada de Vigo. Junto a los jardines de Montero Ríos, 
 donde también hay un magnífico conjunto de esculturas al pie de la ría conocidas como 
@@ -221,7 +221,7 @@ sobre tentáculos de pulpo, un mundo de viajes se despliega recordando sus novel
 aventura. El escritor francés es especialmente querido en la ciudad, ya que la mencionó 
 en uno de los capítulos de su novela _20.000 leguas de viaje submarino_. 
 
-? Abarca de un vistazo la ciudad, su fachada marítima y la ría desde alguno de los 
+📍 Abarca de un vistazo la ciudad, su fachada marítima y la ría desde alguno de los 
 miradores urbanos de los montes O Castro y A Guía. 
 
 ✅ No dejes de comprobar por qué [Vigo está tan 
@@ -248,11 +248,11 @@ entre cascadas.
 
 ![Desembocadura del río Miño.](https://fotos.etheriamagazine.com/2022/12/Baixo-Mino-pontevedra.jpg "Desembocadura del río Miño.")
 
-?**A Guarda**, en la misma desembocadura del Miño, vive apegada a la vida en el agua, ya 
-sea con barcos en alta mar o pescando en el río. Sobre las últimas aguas del Miño navega 
-el trasbordador que conecta con Caminha. Localidad fronteriza portuguesa donde tomar un 
-café, entre el azul de los bellos azulejos portugueses, antes de emprender el regreso a 
-la orilla española. 
+📍**A Guarda**, en la misma desembocadura del Miño, vive apegada a la vida en el agua, 
+ya sea con barcos en alta mar o pescando en el río. Sobre las últimas aguas del Miño 
+navega el trasbordador que conecta con Caminha. Localidad fronteriza portuguesa donde 
+tomar un café, entre el azul de los bellos azulejos portugueses, antes de emprender el 
+regreso a la orilla española. 
 
 ### Pazos y camelias
 
@@ -311,13 +311,13 @@ vistas privilegiadas hacia la desembocadura del Miño, que alcanzan hasta la ori
 portuguesa para después perderse en el infinito azul del Atlántico. Su ocupación, hace 
 2.100 años, la demuestran los petroglifos grabados en las rocas a su alrededor. 
 
-?En el monte de Santa Trega, en la cumbre de San Francisco, es recomendable acudir a la 
+📍En el monte de Santa Trega, en la cumbre de San Francisco, es recomendable acudir a la 
 popular **ermita de Santa Trega**. Hay quien asegura que la devoción por la santa se 
 debe a Egeria, la primera viajera española y en cuyo honor se nombró a [Etheria 
 magazine](https://etheriamagazine.com/2018/06/12/etheria-la-primera-viajera/) (toda su 
 historia en el anterior link). 
 
-? El acceso al monte de Santa Trega en vehículo privado cuesta 3 € el coche y 1,5 € por 
+📍 El acceso al monte de Santa Trega en vehículo privado cuesta 3 € el coche y 1,5 € por 
 adulto. Niños 1 €. La tarifa incluye la visita al MASAT (museo Arqueológico de Santa 
 Trega). Las visitas guiadas para grupos (mínimo 12 personas) cuestan 5 € por persona. El 
 Patronato Municipal Monte Trega también organiza visitas guiadas gratuitas con horario 
@@ -334,7 +334,7 @@ fuertes creencias paganas. Próximo al templo se localiza una misteriosa losa gr
 grabada con una serpiente de 2 metros desde los más remotos tiempos de la cultura 
 castreña. 
 
-? La serpiente es un animal mágico para los celtas y símbolo de la fertilidad. Las 
+📍 La serpiente es un animal mágico para los celtas y símbolo de la fertilidad. Las 
 parejas que deseen tener hijos, han de acudir al lugar de la **Pedra da Serpe** durante 
 la noche de San Juan para hacer el culto de la fecundidad ofrendando leche al reptil. El 
 entorno del castro, Campo Lameiro, situado en el valle del río Lérez, reúne uno de los 
@@ -381,7 +381,7 @@ comercial portuario adonde acudían incluso pueblos mediterráneos como fenicios
 púnicos. Sus tres recintos aprovechan la geografía del monte para levantar una gran 
 estructura defensiva. 
 
-? Visitar los cercanos **petroglifos de Os Ballotes**, en la parroquia de Bamio, es 
+📍 Visitar los cercanos **petroglifos de Os Ballotes**, en la parroquia de Bamio, es 
 contemplar una invocación a la buena caza mediante grabados de caballos, serpientes e 
 infinidad de ciervos en movimiento. Algunos aparecen detenidos, casi como posando para 
 ser inmortalizados por un artista de la Edad del Bronce. 
@@ -399,6 +399,6 @@ arqueológicas se han encontrado, sobre todo elaboradas en cerámica, añadiendo
 valiosa información sobre el comercio que mantuvo con otros pueblos, incluso 
 mediterráneos, con los que llegaron a comerciar. 
 
-![Monte o Castro, en Ribadumia.](https://fotos.etheriamagazine.com/2022/12/Monte-O-Castro-850x568.jpg "Monte o Castro, en Ribadumia.")
+![Monte o Castro, en Ribadumia.](https://fotos.etheriamagazine.com/2022/12/Monte-O-Castro.jpg "Monte o Castro, en Ribadumia.")
 
 \*Fotografías cedidas por Turismo de Rías Baixas/ Diputación de Pontevedra

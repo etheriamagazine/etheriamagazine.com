@@ -13,7 +13,7 @@ De entre el interesante panorama expositivo que siempre ofrece Madrid, en la Sal
 Recoletos de la Fundación MAPFRE se exhibe una de las muestras claves para comprender 
 varios aspectos del arte de principios del siglo XX. 
 
-\[caption id="attachment\_7303" align="aligncenter" width="990"\]![Fundacion MAPFRE, exposicion de chagall a malevich](https://fotos.etheriamagazine.com/2019/02/exposicion-madrid-Marc-Chagall-990x1024.jpg "The Promenade, de Marc Chagall.") The Promenade (1917–18), Marc Chagall. © Marc Chagall.\[/caption\]
+\[caption id="attachment\_7303" align="aligncenter" width="990"\]![Fundacion MAPFRE, exposicion de chagall a malevich](https://fotos.etheriamagazine.com/2019/02/exposicion-madrid-Marc-Chagall.jpg "The Promenade, de Marc Chagall.") The Promenade (1917–18), Marc Chagall. © Marc Chagall.\[/caption\]
 
 La exposición [_De Chagall a Malévich: el arte en revolución_](http://exposiciones.fundacionmapfre.org/elarteenrevolucion) aborda aquel arte del siglo XX –que luego se llamaría ‘arte abstracto’– y quiénes fueron sus creadores en el momento previo a la Revolución de Octubre de 1917. En aquellos primigenios años del siglo que empezaba, Rusia se consolida como uno de los centros de la vanguardia artística, y de allí surgirían algunas de las propuestas más radicales y revolucionarias del arte moderno.
 
@@ -21,7 +21,7 @@ La exposición, que reúne más de 90 obras y 23 publicaciones, tiene como figur
 
 > Las mujeres pintan en igualdad de condiciones y con la misma presencia e importancia que los hombres. Una experiencia de feminización de las artes que tardaría años en repetirse.
 
-\[caption id="attachment\_7301" align="aligncenter" width="1024"\]![Fundacion MAPFRE, exposicion de chagall a malevich](https://fotos.etheriamagazine.com/2019/02/exposicion-madrid-Alexandra-Exter-Lioubov-Popova-1024x655.jpg "Obras de Alexandra Exter y de Lioubov Popova.") Obras de Alexandra Exter y de Lioubov Popova.\[/caption\]
+\[caption id="attachment\_7301" align="aligncenter" width="1024"\]![Fundacion MAPFRE, exposicion de chagall a malevich](https://fotos.etheriamagazine.com/2019/02/exposicion-madrid-Alexandra-Exter-Lioubov-Popova.jpg "Obras de Alexandra Exter y de Lioubov Popova.") Obras de Alexandra Exter y de Lioubov Popova.\[/caption\]
 
 En otro artículo reciente –refiriéndome a un tema diferente (aunque también en torno al arte)– traje a colación una mala práctica del [Ministro de Cultura francés André Malraux](https://etheriamagazine.com/2019/01/17/que-ver-angkor-bailarinas-robadas/); pues bien, hoy quiero felicitarle por una frase suya que pronunció en 1939: “El arte no es sumisión, sino conquista”. Y eso es exactamente lo que hicieron los artistas rusos de aquella época. Creadoras como Liubov Popova, Nadiezhda Udaltsova, Alexandra Exter o Varvara Stepánova; y creadores como Alexandr Ródchenko, Alexéi Jawlensky, Pável Filónov o El Lisitski **ayudaron a liberar a la pintura de caballete** de las clásicas coordenadas establecidas desde hacía siglos y a centrarse en los medios puramente pictóricos por su significado no mimético.
 

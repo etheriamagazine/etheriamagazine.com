@@ -182,7 +182,7 @@ _**Bajo un cielo azul cobalto**_. Louisa Waugh. Ediciones B, 2006. Relato de las
 vivencias de la escritora, que dejó su vida occidental para vivir trabajando como 
 profesora en un pequeño pueblo mongol. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Descubre Guangxi, la otra cara de la Nueva 
 China](https://etheriamagazine.com/2019/12/27/que-hacer-en-guangxi-viaja-sola-china/) 

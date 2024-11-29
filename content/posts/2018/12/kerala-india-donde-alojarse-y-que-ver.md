@@ -16,7 +16,7 @@ Ayurveda, está regada por ríos, lagos y lagunas, perfilada por blancas playas 
 de frondosas colinas y valles. Algunos de sus hoteles nos servirán como hilo conductor 
 de este viaje. 
 
-![Mujeres sonriendo en la playa de Marari en Mararikulam](https://fotos.etheriamagazine.com/2018/11/Kerala-india-844-1024x683.jpg "La playa de Marari en Mararikulam, junto a la que se ubica Marari Beach Resort, está en el mar Arábigo.")
+![Mujeres sonriendo en la playa de Marari en Mararikulam](https://fotos.etheriamagazine.com/2018/11/Kerala-india-844.jpg "La playa de Marari en Mararikulam, junto a la que se ubica Marari Beach Resort, está en el mar Arábigo.")
 
 Una buena manera de adentrarse en el corazón de Kerala es alojándose en los **hoteles 
 CGH Earth**. Para entender lo que supone vivir la experiencia en los mismos hay que 
@@ -47,7 +47,7 @@ de pesca chinas**. El testimonio de su colonización por los portugueses desde q
 de Gama desembarcó en su bahía en 1498, holandeses e ingleses, está presente en la 
 arquitectura de Fort Cochín. 
 
-![redes chinas de pesca en fort cochin](https://fotos.etheriamagazine.com/2018/11/redes-chinas-pesca-fort-cochin-8774-1024x639.jpg "Redes chinas de pesca en Fort Cochín.")
+![redes chinas de pesca en fort cochin](https://fotos.etheriamagazine.com/2018/11/redes-chinas-pesca-fort-cochin-8774.jpg "Redes chinas de pesca en Fort Cochín.")
 
 Las plantaciones de caucho sangrando goma y las de té, donde las mujeres cortan su 
 preciada hoja, se suceden a ambos lados del camino hasta terminar en el **vergel de 
@@ -75,7 +75,7 @@ Mannan** que guarda la sabiduría ancestral a la hora de colocar el _elephant gr
 cubre los techos. El papel de periódico y bolsas se recicla en tarjetones, sobres y 
 cartas dentro del establecimiento. 
 
-![Enorme arbol en Spice Village uno de los mejores alojamientos de Kerala](https://fotos.etheriamagazine.com/2018/11/Spice-Village-9542-1024x681.jpg "Spice Village Resort.")
+![Enorme arbol en Spice Village uno de los mejores alojamientos de Kerala](https://fotos.etheriamagazine.com/2018/11/Spice-Village-9542.jpg "Spice Village Resort.")
 
 La propiedad es un vergel por el que se salpica la flora local con árboles por donde 
 trepan los monos. Nuez moscada, sándalo, teca, ylang ylang, papaya, cedro rojo, cerezo, 
@@ -99,7 +99,7 @@ tigres](https://www.keralatourism.org/spanish/destination/periyar-tiger-reserve-
 que obliga a un intrépido paseo entre bambúes gigantescos, enormes y negras ardillas 
 autóctonas y ¡cuidado! sanguijuelas que hacen sangrías sin haberlas solicitado. 
 
-![Mujer paseando en el Coconut Lagoon CGH Earth Resort en Kumarakom](https://fotos.etheriamagazine.com/2018/11/Coconut-Lagoon-0280-1024x683.jpg "Coconut Lagoon Resort, en Kumarakom.")
+![Mujer paseando en el Coconut Lagoon CGH Earth Resort en Kumarakom](https://fotos.etheriamagazine.com/2018/11/Coconut-Lagoon-0280.jpg "Coconut Lagoon Resort, en Kumarakom.")
 
 ### Coconut Lagoon Resort
 
@@ -111,7 +111,7 @@ llega a la recepción de madera, donde al son de la flauta espera una comitiva. 
 túnicas blancas y ellas con saris preciosos, sonrisas, flores y manos que se ofrecen 
 para desembarcar. 
 
-![Coconut Lagoon Resort](https://fotos.etheriamagazine.com/2018/11/Coconut-Lagoon-0268-1024x683.jpg "Coconut Lagoon Resort.")
+![Coconut Lagoon Resort](https://fotos.etheriamagazine.com/2018/11/Coconut-Lagoon-0268.jpg "Coconut Lagoon Resort.")
 
 En la recepción hay un altarcillo, un estanque lleno de flores y unas sillas coloniales 
 desde donde observar los canales, la flora y animales que rodean el mundo onírico de 
@@ -121,7 +121,7 @@ que surcan lentamente las aguas del Vembanad. Puentes de madera cruzan los mucho
 canales de la propiedad. A su lado, un ternerillo mamando de su madre y una oveja que se 
 cruza por el camino. 
 
-![Barco navegando en los backwaters de Kerala.](https://fotos.etheriamagazine.com/2018/11/backwaters-Kerala-0422-1024x683.jpg "El lago Vembanad es el corazón de las backwaters de Kerala.")
+![Barco navegando en los backwaters de Kerala.](https://fotos.etheriamagazine.com/2018/11/backwaters-Kerala-0422.jpg "El lago Vembanad es el corazón de las backwaters de Kerala.")
 
 Entre la vegetación tropical se adivinan las casonas de Coconut Lagoon rescatadas de las 
 antiguas Tharavad. Viejas mansiones habitadas antaño por la nobleza que, desmanteladas 
@@ -137,7 +137,7 @@ de las _backwaters_ cocinado con arte y cariño.
 > Imprescindible la excursión en uno de los barcos-casa para conocer los entresijos de las 
 > _backwaters_, su gente y su forma de vida. 
 
-![Un abuelo paseando con su nieto en Kerala.](https://fotos.etheriamagazine.com/2018/11/lago-Vembanad-0501-1024x683.jpg "Gente de Kerala.")
+![Un abuelo paseando con su nieto en Kerala.](https://fotos.etheriamagazine.com/2018/11/lago-Vembanad-0501.jpg "Gente de Kerala.")
 
 ### Marari Beach Resort
 
@@ -149,7 +149,7 @@ pescadores locales, imitando su estilo y carácter. Su faceta gastronómica emul
 **restaurante Chakara** la cocina local que tiene como base el pescado y marisco, 
 aderezada por los vegetales orgánicos de su granja. 
 
-![Marari Beach Resort, alojamiento en Kerala](https://fotos.etheriamagazine.com/2018/11/Marari-Beach-Resort-0582-1024x683.jpg "Instalaciones del Marari Beach Resort.")
+![Marari Beach Resort, alojamiento en Kerala](https://fotos.etheriamagazine.com/2018/11/Marari-Beach-Resort-0582.jpg "Instalaciones del Marari Beach Resort.")
 
 El ver caer la lluvia a raudales despierta los sentidos y más cuando estando en la 
 espléndida piscina de agua salada, un círculo iris que raramente se ve, aparece en el 
@@ -158,7 +158,7 @@ vuelven de la pesca y, al mando del Capitán y al son de un monótono salmo, sub
 a la playa y descargan su botín. Después lo venderán al resort, mientras al fondo de la 
 playa sus colegas reparan las redes para la siguiente jornada. 
 
-![Pescador sonriendo en la playa de Marai, en Mararikulam](https://fotos.etheriamagazine.com/2018/11/playa-marari-kerala-645-1024x683.jpg "Pescador en la playa de Marari en Mararikulam, junto al Marari Beach Resort.")
+![Pescador sonriendo en la playa de Marai, en Mararikulam](https://fotos.etheriamagazine.com/2018/11/playa-marari-kerala-645.jpg "Pescador en la playa de Marari en Mararikulam, junto al Marari Beach Resort.")
 
 ### Ayurveda
 
@@ -198,7 +198,7 @@ etnias como la de Manam.
 [Hoteles CGH Earth](https://www.cghearth.com/) [Turismo de 
 Kerala](http://www.keralatourism.org/spanish/) 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Qué ver en el norte de India: 10 colores del 
 Rajastán](https://etheriamagazine.com/2020/01/29/viaje-para-mujeres-que-ver-norte-india-rajastan/) 

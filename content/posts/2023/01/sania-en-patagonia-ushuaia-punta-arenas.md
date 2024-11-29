@@ -191,7 +191,7 @@ muy bonito poder dar una segunda oportunidad a los animales abandonados.
 ✅ **Lo que no aprendí:** a irme a la cama antes de medianoche. Sigo necesitando ese 
 tiempo en la noche para procesar las impresiones del día… 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 **Viaje de Sania 1.** [Viajar sola por el mundo tras la jubilación, el nuevo plan de 
 vida de Sania 

@@ -143,7 +143,7 @@ a una zona de juegos y a un mirador con suelo y paredes de cristal. Ese es el lu
 hacerte la mejor foto del viaje, casi suspendida en el aire y con las montañas y el 
 cielo al fondo. 
 
-?No te despistes si quieres bajar en teleférico, ya que cierra temprano y tendrás que 
+📍No te despistes si quieres bajar en teleférico, ya que cierra temprano y tendrás que 
 bajar caminando por la montaña (no es tan complicado). 
 
 ![Sendero de Valaška.](https://fotos.etheriamagazine.com/2023/08/sendero-valaska-moravia.jpg "Sendero de Valaška. © Pepa García")

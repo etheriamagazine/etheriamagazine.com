@@ -107,11 +107,11 @@ Oudheden de Leiden.
 
 ## Información práctica exposición 'Hijas del Nilo':
 
-? **¿Dónde?** Palacio de las Alhajas de Madrid. Plaza de San Martín, 1. ? **¿Cuánto 
-cuesta?** La entrada general tiene un precio 14 euros y la reducida 7 euros. ? **¿Qué 
+📍 **¿Dónde?** Palacio de las Alhajas de Madrid. Plaza de San Martín, 1. 📍 **¿Cuánto 
+cuesta?** La entrada general tiene un precio 14 euros y la reducida 7 euros. 📍 **¿Qué 
 horario tiene?** La exposición Hijas del Nilo se puede visitar de lunes a domingo de 10 
-a 21 horas. ? **¿Hasta cuando puedo visitar la exposición?** Esta exposición se 
-celebrará hasta el 31 de diciembre de 2022. ?**¿Quién organiza la exposición?** La 
+a 21 horas. 📍 **¿Hasta cuando puedo visitar la exposición?** Esta exposición se 
+celebrará hasta el 31 de diciembre de 2022. 📍**¿Quién organiza la exposición?** La 
 exposición ha sido organizada por el Grupo EULEN a través de EULEN Art, su división 
 especializada en arte y patrimonio. Ha sido comisariada por Esther Pons, arqueóloga, 
 conservadora-jefa del Departamento de Antigüedades egipcias y Oriente Próximo del Museo 

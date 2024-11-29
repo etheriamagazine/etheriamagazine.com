@@ -22,7 +22,7 @@ culturales con otros que aseguren unas horas de diversión para que el viaje sea
 seleccionado diez lugares y actividades perfectos para hacer con adolescentes en Madrid. 
 Apúntatelos todos que seguro que triunfas. 
 
-?**No te pierdas:** [Complutum Renacida, Alcalá de Henares se transforma en Roma en el 
+📍**No te pierdas:** [Complutum Renacida, Alcalá de Henares se transforma en Roma en el 
 puente de 
 mayo](https://etheriamagazine.com/2023/04/14/complutum-renacida-alcala-de-henares/). 
 
@@ -164,7 +164,7 @@ Lost Pyramid VR lleva al mundo del Antiguo Egipto; y la segunda, Beyond Medusa�
 VR, está ambientada en la Grecia del siglo V a.C. Las dos están ambientadas en el juego 
 Assassin’s Creed, así que el éxito entre el público adolescente está asegurado. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 tabernas históricas de Madrid donde tomar el 
 vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 

@@ -94,7 +94,7 @@ pagar para obtener el favor del apóstol. Eso es, al menos, lo que nos decimos c
 navegación deja de ser relajante y las olas desafían a un velero que se nos antoja 
 frágil a pesar de no serlo. 
 
-![camino de santiago en velero desde vigo](https://fotos.etheriamagazine.com/2021/07/camino-santiago-maritimo-sailway-714x1024.jpg "Miguel, patrón del velero, subiendo las defensas. © Pepa G.")
+![camino de santiago en velero desde vigo](https://fotos.etheriamagazine.com/2021/07/camino-santiago-maritimo-sailway.jpg "Miguel, patrón del velero, subiendo las defensas. © Pepa G.")
 
 Como ya te hemos comentado, la aventura comienza en Vigo donde embarcas con tu mejor 
 sonrisa, y una mochila llena de biodraminas, chubasqueros y polares. Recuerda que el 
@@ -188,7 +188,7 @@ Todo en este antiguo estanco convertido en tienda de ultramarinos gourmet es ape
 pero lo que no estaría de más sería pedirle que te manden el paquete a casa porque te 
 llevarías la tienda entera… 
 
-![estanco de urdilde camino santiago](https://fotos.etheriamagazine.com/2021/07/estanco-urdilde-camino-santiago-714x1024.jpg "Vanessa Chico en la puerta de A Tenda do Camiño, antiguo estanco de Urdilde. © Pepa G.")
+![estanco de urdilde camino santiago](https://fotos.etheriamagazine.com/2021/07/estanco-urdilde-camino-santiago.jpg "Vanessa Chico en la puerta de A Tenda do Camiño, antiguo estanco de Urdilde. © Pepa G.")
 
 ### Bertamiráns, el Camino a pie
 
@@ -223,7 +223,7 @@ pedir el favor del santo. ¡Buen camino!
 
 **Sailway**. Distintas opciones de travesías jacobeas en sailway.es 
 
-![pulpo en las islas cies](https://fotos.etheriamagazine.com/2021/07/pulpo-galicia-camping-islas-cies-831x1024.jpg "Delicioso pulpo en el restaurante del camping de las Islas Cíes. © Pepa García")
+![pulpo en las islas cies](https://fotos.etheriamagazine.com/2021/07/pulpo-galicia-camping-islas-cies.jpg "Delicioso pulpo en el restaurante del camping de las Islas Cíes. © Pepa García")
 
 ### También en Galicia...
 

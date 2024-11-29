@@ -72,7 +72,7 @@ Hemos impulsado un producto que tenemos desde hace años pero que no habíamos t
 tiempo de darle la visibilidad que se merecía en España, y hemos creado un **código 
 FOW-COVID** ligado a nuestra RSC para nuestras viajeras. 
 
-![crucero mekong, vietnam](https://fotos.etheriamagazine.com/2019/09/paisaje-rio-vietnam-900x600.jpg "Paisaje fluvial en Vietnam. ©PB")
+![crucero mekong, vietnam](https://fotos.etheriamagazine.com/2019/09/paisaje-rio-vietnam.jpg "Paisaje fluvial en Vietnam. ©PB")
 
 ### 5\. ¿Qué destinos ofrecéis para el próximo verano?
 

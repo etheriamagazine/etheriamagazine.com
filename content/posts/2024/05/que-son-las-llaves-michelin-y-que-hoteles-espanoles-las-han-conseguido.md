@@ -14,7 +14,7 @@ restauración, este 2024 se han creado las Llaves Michelin, un galardón especí
 la hostelería. Os contamos cuáles son los hoteles españoles que han recibido tres, dos y 
 una llaves. 
 
-![Comedor del restaurante del hotel Atrio.](https://fotos.etheriamagazine.com/2020/03/caceres-hotel-atrio-900x669.jpg "Comedor del restaurante del (©) hotel Atrio.")
+![Comedor del restaurante del hotel Atrio.](https://fotos.etheriamagazine.com/2020/03/caceres-hotel-atrio.jpg "Comedor del restaurante del (©) hotel Atrio.")
 
 Desde hace unos días, disponemos de un nuevo sello de calidad y garantía en el sector 
 hostelero. Son las nuevas **Llaves Michelin**, que se otorgan a quienes cumplen con los 
@@ -34,7 +34,7 @@ los talentosos profesionales que trabajan en ellos. A través de las plataformas
 digitales de la guía, los viajeros pueden filtrar su búsqueda y reservar dichos hoteles 
 para disfrutar de estancias que esperamos sean inolvidables". 
 
-![Refectorio de Abadía Retuerta Le Domaine.](https://fotos.etheriamagazine.com/2019/11/Le-domaine-Refectorio-900x599.jpg "Refectorio de Abadía Retuerta Le Domaine.")
+![Refectorio de Abadía Retuerta Le Domaine.](https://fotos.etheriamagazine.com/2019/11/Le-domaine-Refectorio.jpg "Refectorio de Abadía Retuerta Le Domaine.")
 
 ## Hoteles con 3 Llaves Michelin en España
 
@@ -89,7 +89,7 @@ cuenta con una gran variedad de restaurantes y bares, incluyendo Deessa, dirigid
 chef Quique Dacosta y premiado con dos estrellas Michelin. Además, recientemente ha 
 inaugurado un lujoso complejo de fitness y bienestar. 
 
-![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-RitzPalm-Court-900x677.jpg "Zona del restaurante Palm Court bajo la restaurada cúpula de cristal.")
+![viajes de lujo, escapadas a Madrid, hoteles cinco estrellas](https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-RitzPalm-Court.jpg "Zona del restaurante Palm Court bajo la restaurada cúpula de cristal.")
 
 ## 12 hoteles con dos Llaves Michelin
 
@@ -123,7 +123,7 @@ exclusiva. Y del sur a Girona, donde os sorprenderá esta masía del siglo XVIII
 alberga el **Mas de Torrent Hotel & Spa**, ya que brinda un estilo clásico con 
 antigüedades y preciosas alfombras. 
 
-![Hotel de lujo María Cristina, en San Sebastián](https://fotos.etheriamagazine.com/2021/07/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight-900x506.jpg "© Hotel María Cristina.")
+![Hotel de lujo María Cristina, en San Sebastián](https://fotos.etheriamagazine.com/2021/07/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight.jpg "© Hotel María Cristina.")
 
 ## 80 hoteles con una Llave Michelin
 

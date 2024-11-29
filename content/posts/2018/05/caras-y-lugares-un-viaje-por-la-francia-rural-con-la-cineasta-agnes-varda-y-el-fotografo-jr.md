@@ -11,7 +11,7 @@ authors:
 Si eres aficionada al cine documental te va a encantar 'Caras y lugares'. En este 
 artículo repasamos algunos de los lugares que aparecen en esta road movie francesa. 
 
-![El documental Caras y lugares realiza una road movie por la Francia rural](https://fotos.etheriamagazine.com/2018/05/Visages_villages-1-1024x683.jpg "El documental Caras y lugares realiza una road movie por la Francia rural.")
+![El documental Caras y lugares realiza una road movie por la Francia rural](https://fotos.etheriamagazine.com/2018/05/Visages_villages-1.jpg "El documental Caras y lugares realiza una road movie por la Francia rural.")
 
 Hay una manera de viajar inspirada por las películas y las series que cada vez está más 
 de moda. Se trata del **turismo cinematográfico** que se centra en visitar las 
@@ -24,7 +24,7 @@ retrato vitalista en el que dos artistas extraordinarios: la veterana directora 
 Varda y el icónico **muralista y fotógrafo JR**, se unen en un viaje a través de la 
 Francia rural, basado en el azar y la creatividad. 
 
-![Agnès y JR recorren los pueblos franceses con una furgoneta-fotomatón](https://fotos.etheriamagazine.com/2018/05/Visages-Villages-1024x576.jpg "Agnès y JR recorren los pueblos franceses con una furgoneta-fotomatón")
+![Agnès y JR recorren los pueblos franceses con una furgoneta-fotomatón](https://fotos.etheriamagazine.com/2018/05/Visages-Villages.jpg "Agnès y JR recorren los pueblos franceses con una furgoneta-fotomatón")
 
 ## Estructura de road movie
 
@@ -49,7 +49,7 @@ lugares– la **calle Daguerre de París** (donde vive la realizadora), **Chére
 pequeño pueblo del Val-d'Oise y la población de **Bruay-la-Buissière**, donde 
 conoceremos a la última habitante de un barrio de casas mineras que quieren derribar. 
 
-![Documental Caras y Lugares.](https://fotos.etheriamagazine.com/2018/05/CARTEL_caras_y_lugares-717x1024.jpg "Documental Caras y Lugares.")
+![Documental Caras y Lugares.](https://fotos.etheriamagazine.com/2018/05/CARTEL_caras_y_lugares.jpg "Documental Caras y Lugares.")
 
 También nos enseña la fábrica química del pueblo de **Château-Arnoux-Saint-Auban** 
 (situado en el departamento de Alpes-de-Haute-Provence) y el pueblo de **Bonnieux** 

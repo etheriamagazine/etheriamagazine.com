@@ -186,7 +186,7 @@ Medinaceli. Otra muy buena opción es acercarse a [Sigüenza](https://etheriamag
 (a 60 km) y alojarse en el **maravilloso Molino de Alcuneza**, que cuenta con un 
 restaurante con una estrella Michelin que dirige el chef Samuel Moreno. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Respirar ‘a pulmón abierto’ en los Pueblos Negros de 
 Guadalajara](https://etheriamagazine.com/2019/05/06/ruta-en-coche-pueblos-negros-guadalajara/) 

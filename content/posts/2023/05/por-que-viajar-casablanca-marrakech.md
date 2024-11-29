@@ -141,7 +141,7 @@ En Marrakech, uno de los destinos turísticos más demandados del país, los con
 también son evidentes si se compara la medina, en el interior de la muralla, con la 
 exclusividad de los barrios residenciales que acogen lujosas viviendas y hoteles. 
 
-![jemaa el fna, viaje mujeres a marrakech, que ver en marrakech](https://fotos.etheriamagazine.com/2018/12/plaza-marrakech-viaje-mujeres-1024x682.jpg "Plaza Jemaa El Fna (Marrakech).")
+![jemaa el fna, viaje mujeres a marrakech, que ver en marrakech](https://fotos.etheriamagazine.com/2018/12/plaza-marrakech-viaje-mujeres.jpg "Plaza Jemaa El Fna (Marrakech).")
 
 ## Plaza de Jemaa el Fna
 
@@ -194,7 +194,7 @@ sultán Saadí Ahmed al-Mansur para celebrar la victoria sobre los portugueses e
 XVI; el **Museo Dar Si Said**, situado en la increíble residencia de Si Saïd B. Moussa; 
 y las **Tumbas saadíes**, donde está enterrado el sultán Ahmad al-Mansur y su familia. 
 
-![Museo Dar Si Said, en Marrakech.](https://fotos.etheriamagazine.com/2023/05/Museo-Dar-Si-Said-850x279.jpg "Museo Dar Si Said, en Marrakech. © Pepa García")
+![Museo Dar Si Said, en Marrakech.](https://fotos.etheriamagazine.com/2023/05/Museo-Dar-Si-Said.jpg "Museo Dar Si Said, en Marrakech. © Pepa García")
 
 Para terminar de forjarte una imagen completa de la ciudad debes conocer el **barrio de 
 Gueliz**, que corresponde al centro colonial nacido más allá de la medina, y también el 

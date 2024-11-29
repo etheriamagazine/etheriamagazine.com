@@ -156,7 +156,7 @@ de tiempo.
 ✅ **Lo que sé es que si yo a mis casi 67 años he podido hacer este viaje, ¡tú también 
 puedes! Gracias por acompañarme.** 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Descubre las 3 visitas esenciales en Guatemala que aconseja Sania 
 Jelic](https://etheriamagazine.com/2023/05/31/3-visitas-imprescindibles-guatemala/) 

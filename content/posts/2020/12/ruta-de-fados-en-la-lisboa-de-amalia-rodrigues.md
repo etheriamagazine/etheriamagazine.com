@@ -207,7 +207,7 @@ da Universidade de Coimbra. Era la primera mujer en Portugal que recibía tal ho
 **Más información** de la capital portuguesa en [Visit 
 Lisboa](https://www.visitlisboa.com/es). 
 
-? **También te puede interesar...** 
+📌 **También te puede interesar...** 
 
 [12 miradores para exprimir 
 Lisboa](https://etheriamagazine.com/2018/10/30/12-miradores-para-exprimir-lisboa/). 

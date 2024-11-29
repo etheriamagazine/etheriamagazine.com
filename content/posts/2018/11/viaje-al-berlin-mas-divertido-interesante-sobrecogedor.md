@@ -169,7 +169,7 @@ una plaza donde por la noche entran en juego un sinfín de colores e iluminacion
 único edificio que sobrevivió a tales bombardeos fue el Weinhaus Huth, que hoy conserva 
 en su interior el [restaurante Lutter & Wegner](http://www.l-w-berlin.de/). 
 
-![en que ver en berlin, viajes mujeres berlin](https://fotos.etheriamagazine.com/2018/11/Berlin-viaje-mujeres-CLARCHENS-BALLHAUS-12-821x1024.jpg "Local de los años veinte ‘Clärchens Ballhaus’, Bernd Schönberger.")
+![en que ver en berlin, viajes mujeres berlin](https://fotos.etheriamagazine.com/2018/11/Berlin-viaje-mujeres-CLARCHENS-BALLHAUS-12.jpg "Local de los años veinte ‘Clärchens Ballhaus’, Bernd Schönberger.")
 
 ## ‘Belle Époque’ en pleno barrio judío
 

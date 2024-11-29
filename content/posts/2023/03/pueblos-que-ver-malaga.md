@@ -72,7 +72,7 @@ Banderas que ha llegado a Málaga para revolucionar y animar aún más su vida c
 ✅ **Excursión organizada:** [Tour de Málaga al completo con 
 entradas](https://www.civitatis.com/es/malaga/tour-malaga-completo/?aid=10211). 
 
-? **Para saber más:** [Málaga con amigas, el fin de semana que os 
+📍 **Para saber más:** [Málaga con amigas, el fin de semana que os 
 merecéis](https://etheriamagazine.com/2021/05/03/fin-de-semana-con-amigas-en-malaga/) 
 
 ## Pueblos de la costa de Málaga
@@ -97,7 +97,7 @@ Niña del Pisto, La Polaca, el Bar Fiesta (en el mercado) o el Bar del Estrecho.
 que también cae alguna compra en sus bonitas tiendas de ropa y complementos llenos de 
 color. 
 
-![yates en puerto Banús](https://fotos.etheriamagazine.com/2023/03/malaga-puerto-banus-850x567.jpg "Puerto Banús.")
+![yates en puerto Banús](https://fotos.etheriamagazine.com/2023/03/malaga-puerto-banus.jpg "Puerto Banús.")
 
 Para disfrutar al borde del mar, puedes elegir algún chiringuito como La Milla Marbella 
 o Trocadero Beach o uno de sus _beach club_, siempre animados en verano. Nikki Beach, 
@@ -111,7 +111,7 @@ Marbella](https://www.civitatis.com/es/marbella/free-tour-marbella/?aid=10211) /
 en barco privado por Puerto 
 Banús](https://www.civitatis.com/es/puerto-banus/paseo-barco-privado-puerto-banus/?aid=10211). 
 
-? **Para saber más:** [Planes para exprimir un fin de semana en Marbella con 
+📍 **Para saber más:** [Planes para exprimir un fin de semana en Marbella con 
 amigas](https://etheriamagazine.com/2019/06/11/guia-practica-para-exprimir-marbella-con-amigas-en-un-fin-de-semana/) 
 
 ### Torremolinos
@@ -133,7 +133,7 @@ del Agua**, que une la Senda Litoral con la Gran Senda de Málaga. No hay que ol
 el agua fue un elemento indispensable para las tradicionales plantaciones de caña de 
 azúcar de la zona. 
 
-? **Excursiones organizadas:** [Free tour por 
+📍 **Excursiones organizadas:** [Free tour por 
 Torremolinos](https://www.civitatis.com/es/torremolinos/visita-guiada-torremolinos/?aid=10211) 
 / [Excursión en bicicleta eléctrica por 
 Torremolinos](https://www.civitatis.com/es/torremolinos/tour-bicicleta-electrica-torremolinos/?aid=10211). 
@@ -239,7 +239,7 @@ de la tierra.
 ✅ **Excursión organizada:** [Free tour por 
 Ronda](https://www.civitatis.com/es/ronda/free-tour-ronda/?aid=10211). 
 
-? **Para saber más sobre Ronda:** [Ronda con amigas, pistas para gozar al 
+📍 **Para saber más sobre Ronda:** [Ronda con amigas, pistas para gozar al 
 máximo](https://etheriamagazine.com/2021/11/23/planes-en-ronda-con-amigas/) / [Escapada 
 a la Ronda más literaria, romántica y 
 monumental](https://etheriamagazine.com/2019/04/16/ronda-escapada-con-amigas/). 
@@ -266,7 +266,7 @@ cristiana.
 Frigiliana](https://www.civitatis.com/es/frigiliana/free-tour-frigiliana/?aid=10211) / [Excursión 
 a Frigiliana](https://www.civitatis.com/es/nerja/excursion-frigiliana/?aid=10211). 
 
-? **Para saber más sobre Frigiliana:** [Un día en Frigiliana, uno de los pueblos más 
+📍 **Para saber más sobre Frigiliana:** [Un día en Frigiliana, uno de los pueblos más 
 bonitos de 
 Málaga](https://etheriamagazine.com/2021/12/15/que-ver-excursion-a-frigiliana/) 
 
@@ -285,7 +285,7 @@ macetas; o **Sedella**, con su famosa Casa Torreón.
 Otro de los atractivos de la zona es el **embalse de La Viñuela**, un lugar lleno de paz 
 en medio de la montaña perfecto para desconectar del bullicio de la costa. 
 
-? **Para saber más sobre la Axarquía:** [Road trip por la Axarquía 
+📍 **Para saber más sobre la Axarquía:** [Road trip por la Axarquía 
 malagueña](https://etheriamagazine.com/2020/06/19/road-trip-viajar-sola-amigas-mejor-ruta-axarquia-malaga/) 
 
 ### Antequera
@@ -364,7 +364,7 @@ especies de plantas y cactus de distintos lugares del mundo.
 ✅ **Excursión organizada:** [Senderismo por el Parque Nacional Sierra de las 
 Nieves](https://www.civitatis.com/es/tolox/senderismo-sierra-nieves/?aid=10211). 
 
-? **Para saber más:** [Parque Nacional Sierra de las Nieves, una nueva estrella brilla 
+📍 **Para saber más:** [Parque Nacional Sierra de las Nieves, una nueva estrella brilla 
 en 
 Málaga](https://etheriamagazine.com/2021/06/26/revista-viajes-que-ver-parque-sierra-de-nieves/). 
 

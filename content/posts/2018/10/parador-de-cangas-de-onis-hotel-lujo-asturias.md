@@ -15,7 +15,7 @@ de la red, el de Gredos. En este tiempo la cartera de hoteles se ha multiplicado
 casi llegan a un centenar. Entre ellos, uno que destaca por su historia, entorno natural 
 e impecable servicio es el Parador de Cangas de Onís. 
 
-![Planta baja del claustro del Parador de Cangas de Onís.](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-claustro-1024x683.jpg "Planta baja del claustro del Parador de Cangas de Onís.")
+![Planta baja del claustro del Parador de Cangas de Onís.](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-claustro.jpg "Planta baja del claustro del Parador de Cangas de Onís.")
 
 El Parador de Cangas de Onís es un fascinante hotel que ocupa el antiguo monasterio de 
 San Pedro de Villanueva, uno de los edificios históricos más emblemáticos de Asturias. 
@@ -28,7 +28,7 @@ aunque, con el paso del tiempo, gran parte de su estructura original se ha perdi
 destacan los hermosos adornos de las reformas barrocas que se llevaron a cabo en épocas 
 posteriores. 
 
-![Panorámica del parador Cangas de Onís.](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-panoramica-1024x416.jpg "Panorámica del parador Cangas de Onís.")
+![Panorámica del parador Cangas de Onís.](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-panoramica.jpg "Panorámica del parador Cangas de Onís.")
 
 Tras un período de abandono en el siglo XIX, este lugar histórico fue cuidadosamente 
 restaurado y reabierto como alojamiento en 1998, convirtiéndose en el encantador Parador 
@@ -36,12 +36,12 @@ de Cangas de Onís. Conmemorando 25 años desde su apertura como hotel, esta joy
 arquitectónica nos ofrece una experiencia única que combina el legado histórico de 
 Asturias con todas las comodidades modernas. 
 
-?**Curiosidad**: Uno de los elementos más alabados del edificio son los capiteles 
+📍**Curiosidad**: Uno de los elementos más alabados del edificio son los capiteles 
 historiados de su portada románica, sobre todo las escenas que cuentan la despedida de 
 Favila (hijo de don Pelayo y segundo rey de Asturias, entre 737 y 739) de su esposa y su 
 posterior muerte por el ataque de un oso. 
 
-![Capiteles historiados en la portada de la iglesia del monasterio de San Pedro de Villanueva.](https://fotos.etheriamagazine.com/2018/10/Parador-cangas-onis-detalle-capiteles-favila-1024x683.jpg "Capiteles historiados en la portada de la iglesia del monasterio de San Pedro de Villanueva.")
+![Capiteles historiados en la portada de la iglesia del monasterio de San Pedro de Villanueva.](https://fotos.etheriamagazine.com/2018/10/Parador-cangas-onis-detalle-capiteles-favila.jpg "Capiteles historiados en la portada de la iglesia del monasterio de San Pedro de Villanueva.")
 
 ## Un remanso de paz
 
@@ -54,7 +54,7 @@ de ellos vecinos de localidades cercanas, te harán sentir como en casa. Y, si v
 niños, seguro que os proponen algún divertido juego de misterio para tenerlos 
 entretenidos. 
 
-![Planta superior con una pequeña biblioteca y rincones para sentarse.](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-planta-superior-1024x600.jpg "Planta superior con una pequeña biblioteca y rincones para sentarse.")
+![Planta superior con una pequeña biblioteca y rincones para sentarse.](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-planta-superior.jpg "Planta superior con una pequeña biblioteca y rincones para sentarse.")
 
 ## La cocina del parador
 
@@ -62,7 +62,7 @@ La fama de los restaurantes de los paradores se puede considerar bien merecida, 
 demuestra el del Parador de Cangas de Onís, donde no faltan los guisos con raíces 
 asturianas. 
 
-![Borona (o boroña), un pan de maíz relleno de carnes, chorizo y panceta.](https://fotos.etheriamagazine.com/2018/10/Azucena-sanchez-borona-parador-1024x722.jpg "Borona (o boroña), un pan de maíz relleno de carnes, chorizo y panceta.")
+![Borona (o boroña), un pan de maíz relleno de carnes, chorizo y panceta.](https://fotos.etheriamagazine.com/2018/10/Azucena-sanchez-borona-parador.jpg "Borona (o boroña), un pan de maíz relleno de carnes, chorizo y panceta.")
 
 En la cocina del parador se preparan con cariño fabadas y verdinas del huerto, boronas 
 (masa de maíz con un contundente relleno de chorizos y carnes variadas), jugosa ternera 
@@ -72,7 +72,7 @@ queso también están de suerte, ya que este parador cuenta con un **_Cheesebar_
 se pueden degustar decenas de ellos, además de la posibilidad de asistir a catas y 
 talleres. 
 
-![gastronomia asturiana en parador, parador cangas de onis, viaje asturias](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-restaurante-1024x262.jpg "Arroz con leche caramelizado, fabada asturiana, tronco de solomillo ibérico con salsa de queso.")
+![gastronomia asturiana en parador, parador cangas de onis, viaje asturias](https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-restaurante.jpg "Arroz con leche caramelizado, fabada asturiana, tronco de solomillo ibérico con salsa de queso.")
 
 ## Excursiones desde el parador
 
@@ -86,7 +86,7 @@ celebra la Fiesta del Asturcón donde intentan domarlos en la Majada de Espinere
 visitas **Cabrales** para probar el famoso queso e ir a su museo, o bien optas por 
 conocer la **Cueva de Tito Bustillo**? 
 
-?**No te pierdas:** [Asturias con amigas, visitas imprescindibles en una ruta en 
+📍**No te pierdas:** [Asturias con amigas, visitas imprescindibles en una ruta en 
 coche](https://etheriamagazine.com/2022/01/17/asturias-en-coche-guia-imprescindible/). 
 
 Y para terminar un intenso día de actividades, no existe un plan mejor que relajarte en 

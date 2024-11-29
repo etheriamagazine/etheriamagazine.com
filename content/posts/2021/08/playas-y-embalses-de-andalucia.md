@@ -249,7 +249,7 @@ Artículo elaborado con la colaboración de la Junta de Andalucía.
 
 ![](https://fotos.etheriamagazine.com/2021/07/Andalucia-turismo.png)
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Conoce las 15 playas y calas más deseadas de 
 Conil](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/) 

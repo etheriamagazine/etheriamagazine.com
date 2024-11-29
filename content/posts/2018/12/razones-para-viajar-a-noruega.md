@@ -18,7 +18,7 @@ viajar hasta allí (más pronto que tarde).
 
 **Fotografías: Félix Lorenzo** 
 
-![Impresionantes vistas desde el mirador de Utsikten.](https://fotos.etheriamagazine.com/2018/11/Mirador-Ulsikten-Noruega-Etheria-3-1024x624.jpg "Impresionantes vistas desde el mirador de Utsikten.")
+![Impresionantes vistas desde el mirador de Utsikten.](https://fotos.etheriamagazine.com/2018/11/Mirador-Ulsikten-Noruega-Etheria-3.jpg "Impresionantes vistas desde el mirador de Utsikten.")
 
 Pretender conocer Noruega de una sola sentada es muy ambicioso, pues la distancia entre 
 el norte y el sur es inmensa –a no ser que dispongas de un par de meses para dedicarlos 
@@ -39,7 +39,7 @@ la fachada marítima. A la hora de comer es habitual acercarse hasta el el
 obtener una vista general de la ciudad y las siete montañas que la rodean se puede 
 ascender con el funicular hasta la cima del monte Fløyen. 
 
-![Bergen, una de las ciudades más hermosas de Noruega.](https://fotos.etheriamagazine.com/2018/11/Bergen-Noruega-Etheria-13-1024x680.jpg "Bergen, una de las ciudades más hermosas de Noruega.")
+![Bergen, una de las ciudades más hermosas de Noruega.](https://fotos.etheriamagazine.com/2018/11/Bergen-Noruega-Etheria-13.jpg "Bergen, una de las ciudades más hermosas de Noruega.")
 
 ## Edificios singulares de Noruega
 
@@ -51,7 +51,7 @@ derribadas. La **iglesia de Hopperstad**, en Vik, es una de las 28 que quedan en
 Noruega. Edificada hacia el año 1130, aunque reconstruida en gran parte en el siglo XIX, 
 está considerada una de las más bellas del país y se puede visitar. 
 
-![La iglesia de madera de Hopperstad es una de las 28 de este tipo que quedan en el país.](https://fotos.etheriamagazine.com/2018/11/Iglesia-Hopperstad-Noruega-Etheria-1-1024x684.jpg "La iglesia de madera de Hopperstad es una de las 28 de este tipo que quedan en el país.")
+![La iglesia de madera de Hopperstad es una de las 28 de este tipo que quedan en el país.](https://fotos.etheriamagazine.com/2018/11/Iglesia-Hopperstad-Noruega-Etheria-1.jpg "La iglesia de madera de Hopperstad es una de las 28 de este tipo que quedan en el país.")
 
 ## Balestrand, despliegue de belleza natural
 
@@ -62,7 +62,7 @@ punto de partida excelente para hacer excursiones que nos permiten entrar en con
 con la naturaleza, ya sea haciendo _trekking_ por los alrededores o navegando por el 
 fiordo en kayak o barco. 
 
-![El hotel Kviknes está situado en Balestrand.](https://fotos.etheriamagazine.com/2018/11/Hotel-Kuiknes-Balestrand-Noruega-Etheria-2-1024x683.jpg "El hotel Kviknes está situado en Balestrand.")
+![El hotel Kviknes está situado en Balestrand.](https://fotos.etheriamagazine.com/2018/11/Hotel-Kuiknes-Balestrand-Noruega-Etheria-2.jpg "El hotel Kviknes está situado en Balestrand.")
 
 ## Gaularfjellet, cascadas y miradores sin igual
 
@@ -84,7 +84,7 @@ desemboca en un pequeño lago a 346 metros sobre el nivel del mar. Puesto que es
 constante movimiento, el tamaño del glaciar varia dependiendo del momento en el que 
 vayamos, pero siempre es espectacular. 
 
-![Naturaleza en estado puro en el glaciar de Briksdalsbreen.](https://fotos.etheriamagazine.com/2018/11/Briksdalsbreen-Noruega-Etheria-5-1024x684.jpg "Naturaleza en estado puro en el glaciar de Briksdalsbreen.")
+![Naturaleza en estado puro en el glaciar de Briksdalsbreen.](https://fotos.etheriamagazine.com/2018/11/Briksdalsbreen-Noruega-Etheria-5.jpg "Naturaleza en estado puro en el glaciar de Briksdalsbreen.")
 
 ## Del fiordo al cielo en 5 minutos
 
@@ -97,7 +97,7 @@ aquí también parte una vía ferrata para los más aventureros. El precio de es
 no es precisamente económico (unos 55 euros por persona, aunque hay ofertas para 
 familias), pero la experiencia merece la pena. 
 
-![Estas son las vistas que se obtienen al ascender en el Loen Skylift.](https://fotos.etheriamagazine.com/2018/11/Loen-Skylift-Noruega-Etheria-6-1024x683.jpg "Estas son las vistas que se obtienen al ascender en el Loen Skylift.")
+![Estas son las vistas que se obtienen al ascender en el Loen Skylift.](https://fotos.etheriamagazine.com/2018/11/Loen-Skylift-Noruega-Etheria-6.jpg "Estas son las vistas que se obtienen al ascender en el Loen Skylift.")
 
 ## La escalera de los trolls
 
@@ -110,7 +110,7 @@ Desde lo alto del mirador uno se da cuenta de la magnitud de esta carretera que 
 construyó en los años 30 y que es el preámbulo perfecto para otra de las maravillas 
 naturales noruegas más famosas, el **fiordo Geiranger.** 
 
-![Mirador en Trollstiegen.](https://fotos.etheriamagazine.com/2018/11/mirador-en-Trollstiegen-Noruega-Etheria-7-1024x683.jpg "Mirador en Trollstiegen.")
+![Mirador en Trollstiegen.](https://fotos.etheriamagazine.com/2018/11/mirador-en-Trollstiegen-Noruega-Etheria-7.jpg "Mirador en Trollstiegen.")
 
 ## Crucero por el fiordo Geiranger
 
@@ -122,7 +122,7 @@ crea arcoíris sin parar y que nos recuerda lo pequeños que somos ante la grand
 naturaleza. Te proponemos un juego: intenta descubrir la forma de botella de una 
 conocida marca de ginebra que se esconde en una de las cascadas. 
 
-![Mirador sobre el fiordo de Geiranger.](https://fotos.etheriamagazine.com/2018/11/Fiordo-geiranger-Noruega-Etheria-14-1024x680.jpg "Mirador sobre el fiordo de Geiranger.")
+![Mirador sobre el fiordo de Geiranger.](https://fotos.etheriamagazine.com/2018/11/Fiordo-geiranger-Noruega-Etheria-14.jpg "Mirador sobre el fiordo de Geiranger.")
 
 ## Un poco de cultura
 
@@ -135,7 +135,7 @@ interior de una de las casas que incluye el mobiliario original, como si sus
 propietarios fueran a volver en cualquier momento. En el Krona se hace un repaso muy 
 ameno por la historia y cultura noruegas. 
 
-![El Romsdalmuseum, o Krona, muestra cómo eran las viviendas en siglos pasados.](https://fotos.etheriamagazine.com/2018/11/Romsdal-Musseum-Krona-Noruega-Etheria-8-1024x748.jpg "El Romsdalmuseum, o Krona, muestra cómo eran las viviendas en siglos pasados.")
+![El Romsdalmuseum, o Krona, muestra cómo eran las viviendas en siglos pasados.](https://fotos.etheriamagazine.com/2018/11/Romsdal-Musseum-Krona-Noruega-Etheria-8.jpg "El Romsdalmuseum, o Krona, muestra cómo eran las viviendas en siglos pasados.")
 
 ## Un capricho, alojarse en una isla
 
@@ -149,7 +149,7 @@ ubicadas en las casas de pescadores originales del siglo XVIII que han sido
 cuidadosamente rehabilitadas. No hay que perderse las puestas de sol, tan bellas que 
 cualquier descripción se queda corta. 
 
-![La Carretera del Atlántico, la ruta panorámica más espectacular de Noruega.](https://fotos.etheriamagazine.com/2018/11/Carretera-del-Atlantico-Noruega-Etheria-11-1024x683.jpg "La Carretera del Atlántico, la ruta panorámica más espectacular de Noruega.")
+![La Carretera del Atlántico, la ruta panorámica más espectacular de Noruega.](https://fotos.etheriamagazine.com/2018/11/Carretera-del-Atlantico-Noruega-Etheria-11.jpg "La Carretera del Atlántico, la ruta panorámica más espectacular de Noruega.")
 
 ## Noruega para foodies
 
@@ -162,7 +162,7 @@ parece una copia del Kit Kat, pero acaba de ganarle un pleito al gigante aliment
 admite que el Kvikk Lunsj surgió antes y que la receta es diferente –y según los 
 noruegos, mejor–. 
 
-![La minúscula isla de Haholmen se ha reconvertido en un pintoresco hotel.](https://fotos.etheriamagazine.com/2018/11/haholmen-Noruega-Etheria-12-1024x684.jpg "La minúscula isla de Haholmen se ha reconvertido en un pintoresco hotel.")
+![La minúscula isla de Haholmen se ha reconvertido en un pintoresco hotel.](https://fotos.etheriamagazine.com/2018/11/haholmen-Noruega-Etheria-12.jpg "La minúscula isla de Haholmen se ha reconvertido en un pintoresco hotel.")
 
 ## Guía Noruega | Etheria Magazine
 

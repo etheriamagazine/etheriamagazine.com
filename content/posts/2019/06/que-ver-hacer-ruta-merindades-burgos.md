@@ -161,10 +161,10 @@ horas en llegar al Salto del Nervión, la primera parada del viaje.
 
 ##### Dónde comer en las Merindades de Burgos
 
-? En **Espinosa de los Monteros**. Conoce el ambiente recio y castellano de la buena 
-cocina de la [Posada Real Torre Berrueza](http://www.torreberrueza.es/). ? En **Oña**. 
+📌 En **Espinosa de los Monteros**. Conoce el ambiente recio y castellano de la buena 
+cocina de la [Posada Real Torre Berrueza](http://www.torreberrueza.es/). 📌 En **Oña**. 
 Sorprendente fusión de gastronomía burgalesa y senegalesa en [Blanco y 
-negro](http://www.samablancoynegro.com/). ? En **Villarcayo**. Una buena ocasión para 
+negro](http://www.samablancoynegro.com/). 📌 En **Villarcayo**. Una buena ocasión para 
 detenerse en esta localidad y disfrutar de un buen lechazo y morcilla de arroz en [El 
 Cid](https://www.hoteljimena.es/cidppal.htm). 
 

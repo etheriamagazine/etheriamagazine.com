@@ -80,7 +80,7 @@ Ejemplos de ello se ven en **Villa Czerwony Dwor**, donde vivieron los composito
 Arthur Rubinstein y Karol Szymanowski, entre otros muchos que visitaron o se alojaron en 
 la solariega mansión que hoy alberga un centro de arte local. 
 
-![Capilla de Jaszczrurówka.](https://fotos.etheriamagazine.com/2021/01/zakopane-capilla-jaszczurowka-768x1024.jpg "Capilla de Jaszczrurówka.")
+![Capilla de Jaszczrurówka.](https://fotos.etheriamagazine.com/2021/01/zakopane-capilla-jaszczurowka.jpg "Capilla de Jaszczrurówka.")
 
 #### Más arquitectura de madera de Zakopane
 

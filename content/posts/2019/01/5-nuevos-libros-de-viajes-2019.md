@@ -27,7 +27,7 @@ gustará especialmente a los amantes de la literatura de viajes porque se descri
 los paisajes que encuentra como las comunidades que va conociendo en su periplo. 
 Editorial Volcano. 
 
-![60 grados norte, libros de viajes](https://fotos.etheriamagazine.com/2019/01/60-grados-norte-1024x774.jpg "Libro 60 grados norte de la editorial Volcano.")
+![60 grados norte, libros de viajes](https://fotos.etheriamagazine.com/2019/01/60-grados-norte.jpg "Libro 60 grados norte de la editorial Volcano.")
 
 ## 2\. Mujeres en el deporte o en la ciencia
 
@@ -41,7 +41,7 @@ anterior, _**Mujeres en la ciencia**_, trata de rendir homenaje a esas mujeres a
 que han tenido que luchar el doble para ocupar el lugar que merecen. Editorial Nórdica 
 Libros. Puedes comprarlos directamente en los enlaces de los libros. 
 
-![mujeres en el deporte, libro mujeres](https://fotos.etheriamagazine.com/2019/01/mujeres-en-el-deporte-1024x481.jpg)
+![mujeres en el deporte, libro mujeres](https://fotos.etheriamagazine.com/2019/01/mujeres-en-el-deporte.jpg)
 
 ## 3\. Las rosas del sur
 
@@ -52,7 +52,7 @@ comunidades situadas en la mitad sur de la península (desde Madrid hasta Andalu
 Baleares y Canarias. No se trata de una guía arquitectónica ni histórica es un libro 
 para disfrutar llevando como compañero de viaje a Llamazares. Editorial Alfaguara. 
 
-![las rosas del sur, libros de viajes llamazares](https://fotos.etheriamagazine.com/2019/01/las-rosas-del-sur-llamazares-1024x871.jpg "Libro Las rosas del sur, de la editorial Alfaguara.")
+![las rosas del sur, libros de viajes llamazares](https://fotos.etheriamagazine.com/2019/01/las-rosas-del-sur-llamazares.jpg "Libro Las rosas del sur, de la editorial Alfaguara.")
 
 ## 4\. Heridas del viento. Crónicas armenias.
 
@@ -73,4 +73,4 @@ realiza Moret parte de Zanzíbar; continúa por Tanzania, donde se produjo el fa
 encuentro entre Stanley y Livingstone; llega hasta Uganda, origen del Nilo; sigue por 
 Kenia y finaliza con el relato de la colonización del Congo. Ediciones Península. 
 
-![tras los pasos de livingstone, libros de viajes de xavier moret](https://fotos.etheriamagazine.com/2019/01/tras-los-pasos-de-livingstone-1024x791.jpg "Tras los pasos de Livingstones es un libro de Península.")
+![tras los pasos de livingstone, libros de viajes de xavier moret](https://fotos.etheriamagazine.com/2019/01/tras-los-pasos-de-livingstone.jpg "Tras los pasos de Livingstones es un libro de Península.")

@@ -87,7 +87,7 @@ de años asoma como el **árbol más viejo de Asturias** y de los más longevos 
 continente. Envuelto de calma bajo su sombra, proyectada desde 13 metros de altura, se 
 respira sosiego. 
 
-![ciervo en asturias](https://fotos.etheriamagazine.com/2021/07/fauna-parque-las-ubinas-la-mesa-683x1024.jpg "Ciervo común en el Parque Natural Las Ubiñas-La Mesa (Asturias).")
+![ciervo en asturias](https://fotos.etheriamagazine.com/2021/07/fauna-parque-las-ubinas-la-mesa.jpg "Ciervo común en el Parque Natural Las Ubiñas-La Mesa (Asturias).")
 
 ## Quién vive ahí, la fauna de Las Ubiñas
 

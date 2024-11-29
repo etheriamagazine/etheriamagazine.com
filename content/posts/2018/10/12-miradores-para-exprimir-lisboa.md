@@ -129,7 +129,7 @@ descubrimientos, y también la de Nuno Álvares Pereira, líder de la independen
 portuguesa durante la Edad Media. El acceso al edificio se encuentra en la rua Augusta, 
 y la visita se completa con una exposición sobre la historia del monumento. 
 
-![miradores de lisboa, elevador de santa justa, que ver en Lisboa](https://fotos.etheriamagazine.com/2018/10/9-Santa-Justa-632x1024.jpg "Elevador de Santa Justa (Lisboa).")
+![miradores de lisboa, elevador de santa justa, que ver en Lisboa](https://fotos.etheriamagazine.com/2018/10/9-Santa-Justa.jpg "Elevador de Santa Justa (Lisboa).")
 
 ## 9\. Elevador de Santa Justa
 

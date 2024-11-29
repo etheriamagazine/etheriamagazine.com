@@ -15,7 +15,7 @@ Hemos recopilado siete exposiciones temporales en España de esas que sería un 
 
 El día a día nos puede y demasiado a menudo no nos da tiempo a cumplir con citas culturales que nos apetecen mucho pero para las que no encontramos el momento. Aquí te recordamos siete exposiciones temporales de las imprescindibles, que están en sus últimos días, para que las marques ya en tu agenda.
 
-![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Museos-1024x538.jpg "Exposición.")
+![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Museos.jpg "Exposición.")
 
 ##### ['Beckmann. Figuras del exilio'](https://www.museothyssen.org/exposiciones/beckmann-figuras-exilio). Museo Thyssen-Bornemisza de Madrid. Hasta el 27 de enero.
 
@@ -31,7 +31,7 @@ Horario: de martes a viernes y domingo de 10 a 19 h. Sábado de 10 a 21 h. Tarif
 
 Horario: todos los días de 10 a 18 h. Tarifa general: 6,5 Euros.
 
-\[caption id="attachment\_6671" align="aligncenter" width="1024"\]![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Museo-Picasso-Malaga-1024x849.jpg "'Bodegón con jarra, vaso y naranja' de Pablo Picasso. © FABA Foto: Marc Domage. © Sucesión Pablo Picasso, VEGAP, Madrid, 2018.") 'Bodegón con jarra, vaso y naranja' de Pablo Picasso. © FABA Foto: Marc Domage. © Sucesión Pablo Picasso, VEGAP, Madrid, 2018.\[/caption\]
+\[caption id="attachment\_6671" align="aligncenter" width="1024"\]![Escapadas con amigas, viajes de fin de semana, arte, cultura, museos](https://fotos.etheriamagazine.com/2019/01/Museo-Picasso-Malaga.jpg "'Bodegón con jarra, vaso y naranja' de Pablo Picasso. © FABA Foto: Marc Domage. © Sucesión Pablo Picasso, VEGAP, Madrid, 2018.") 'Bodegón con jarra, vaso y naranja' de Pablo Picasso. © FABA Foto: Marc Domage. © Sucesión Pablo Picasso, VEGAP, Madrid, 2018.\[/caption\]
 
 ##### ['Tamara de Lemkicka. Reina del Art Decó'](http://www.tamaradelempicka.es). Palacio de Gaviria (Madrid). Hasta el 24 de febrero.
 
@@ -39,7 +39,7 @@ Un recorrido por más de 200 piezas para mostrar la obra tan personal de esta ar
 
 Horario: de domingos a jueves de 10 a 20 h. Viernes y sábados de 10 a 21 h. Tarifa general: 13 Euros.
 
-\[caption id="attachment\_6670" align="aligncenter" width="1024"\]![Museos, planes con amigas, escapadas de fin de semana, cultura, arte](https://fotos.etheriamagazine.com/2019/01/Exposición-Tamara-de-Lempicka-1024x683.jpg "Exposición Tamara de Lempicka. Reina del Art Déco.") Exposición 'Tamara de Lempicka. Reina del Art Déco'. ©Jesús Varillas.\[/caption\]
+\[caption id="attachment\_6670" align="aligncenter" width="1024"\]![Museos, planes con amigas, escapadas de fin de semana, cultura, arte](https://fotos.etheriamagazine.com/2019/01/Exposición-Tamara-de-Lempicka.jpg "Exposición Tamara de Lempicka. Reina del Art Déco.") Exposición 'Tamara de Lempicka. Reina del Art Déco'. ©Jesús Varillas.\[/caption\]
 
 ##### ['Cristina Iglesias. ENTRESPACIOS'](https://www.centrobotin.org/exposicion/cristina-iglesias-espacios/). Centro Botín de Santander. Hasta el 3 de marzo.
 
@@ -71,4 +71,4 @@ Horario: de martes a domingo de 10 a 20 h. Tarifa general: 16 Euros.
 
 Horario: de lunes a sábado de 10 a 20 horas. Domingos y festivos de 11 a 14 h. Tarifa general: 5 Euros. (50% de descuento para clientes de Caixabank).
 
-\[caption id="attachment\_6691" align="aligncenter" width="1024"\]![Museos, arte, cultura viajes con amigas, viajes de fin de semana, exposiciones](https://fotos.etheriamagazine.com/2019/01/Caixaforum-Grecia-1024x609.jpg "Bloque de un friso con una batalla entre griegos y amazones.") Bloque de un friso con una batalla entre griegos y amazones. Hallado en Mausoleo de Halicarnaso, actual Turquía. © The Trustees of the British Museum.\[/caption\]
+\[caption id="attachment\_6691" align="aligncenter" width="1024"\]![Museos, arte, cultura viajes con amigas, viajes de fin de semana, exposiciones](https://fotos.etheriamagazine.com/2019/01/Caixaforum-Grecia.jpg "Bloque de un friso con una batalla entre griegos y amazones.") Bloque de un friso con una batalla entre griegos y amazones. Hallado en Mausoleo de Halicarnaso, actual Turquía. © The Trustees of the British Museum.\[/caption\]

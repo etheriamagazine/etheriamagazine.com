@@ -31,7 +31,7 @@ interpelar al público, para motivarlo a reflexionar sobre el viaje de su propia
 si se da el caso, animarlo a tomar una mochila, un par de botas y llegar por sí mismo a 
 Santiago. 
 
-![cartel pelicula o apostolo de santiago](https://fotos.etheriamagazine.com/2021/02/camino-santiago-O-apostolo-691x1024.jpg "Cartel de la película 'O Apóstolo'.")
+![cartel pelicula o apostolo de santiago](https://fotos.etheriamagazine.com/2021/02/camino-santiago-O-apostolo.jpg "Cartel de la película 'O Apóstolo'.")
 
 ## O Apóstolo, 2012
 

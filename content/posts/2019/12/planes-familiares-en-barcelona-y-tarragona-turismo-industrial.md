@@ -14,7 +14,7 @@ un destino cuya infraestructura y personal esté preparado para ello. En Etheria
 viajamos a Cataluña para conocer parte de su extenso patrimonio industrial y su 
 adaptación al turismo familiar y educativo. Os contamos nuestros hallazgos... 
 
-![mina eugenia, turismo industrial](https://fotos.etheriamagazine.com/2019/12/mina-bellmunt-cataluna-900x586.jpg "Interior de la Mina Eugenia. ©P.G.")
+![mina eugenia, turismo industrial](https://fotos.etheriamagazine.com/2019/12/mina-bellmunt-cataluna.jpg "Interior de la Mina Eugenia. ©P.G.")
 
 El turismo educativo se suele asociar a viajes de fin de curso y a campamentos de 
 idiomas; sin embargo, nuestra propuesta es que aprovechemos nuestros viajes con niños 
@@ -40,7 +40,7 @@ planta de la mina Eugenia, a 35 metros de profundidad, para recorrer 700 metros 
 galerías. Recordemos que esta mina tiene unos 14 km de galerías subterráneas y que 
 alcancan hasta 620 metros de profundidad. 
 
-![Minas de Bellmunt del Priorat](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-mina-bellmunt-900x672.jpg "Minas de Bellmunt del Priorat. ©P.G.")
+![Minas de Bellmunt del Priorat](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-mina-bellmunt.jpg "Minas de Bellmunt del Priorat. ©P.G.")
 
 En la visita, siempre guiada, se incide en la características del yacimiento, los 
 métodos de búsqueda y extracción del mineral, y las tareas de los mineros (muy creíbles 
@@ -48,10 +48,10 @@ porque existen figuras representadas). Aunque a los mayores nos sorprenda, hay m
 niños que al salir de esta visita querrán ser mineros. También es cierto, que el mineral 
 que ellos querrían encontrar no sería plomo sino oro... (tontos no son). 
 
-?¿Dónde están las **Minas de Bellmunt del Priorat**? Ctra. de la Mina, s/n. Bellmunt del 
-Priorat. Tarragona. 
+📍¿Dónde están las **Minas de Bellmunt del Priorat**? Ctra. de la Mina, s/n. Bellmunt 
+del Priorat. Tarragona. 
 
-![museo ferrocarril cataluna, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/museo-tren-mora-la-nova-900x600.jpg "Museo del Ferrocarril en Móra la Nova. ©P.G.")
+![museo ferrocarril cataluna, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/museo-tren-mora-la-nova.jpg "Museo del Ferrocarril en Móra la Nova. ©P.G.")
 
 ## 2\. Museo del Ferrocarril en Móra la Nova
 
@@ -67,7 +67,7 @@ conocer las antiguas instalaciones, ver algunas exposiciones, maquinaria, el pue
 giratorio e, incluso, dar un paseo en ‘el Tro’ (la vagoneta) que va enganchada a 
 **Memé**, la locomotora. 
 
-![museo del tren mora la nova, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/museo-locomotoras-mora-la-nova-900x570.jpg "Cochera de trenes turísticos históricos. © P.G.")
+![museo del tren mora la nova, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/museo-locomotoras-mora-la-nova.jpg "Cochera de trenes turísticos históricos. © P.G.")
 
 Asimismo, cuenta con una cochera de trenes turísticos históricos donde se reforman 
 colosales locomotoras y trenes traídos desde puntos lejanos. Es una visita sorprendente, 
@@ -75,9 +75,9 @@ guiada por entusiastas voluntarios de la 'Associació per a la Preservació del 
 Ferroviari i Industrial' que lo gestiona. Subir y bajar de los trenes gustará tanto a 
 los niños como a los padres. 
 
-?¿Dónde? Estación de Móra la Nova. Móra la Nova 
+📍¿Dónde? Estación de Móra la Nova. Móra la Nova 
 
-![chocolates simol coll, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-chocolates-coll-900x600.jpg "Tienda de la Fábrica de chocolate Simon Coll. ©P.G.")
+![chocolates simol coll, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-chocolates-coll.jpg "Tienda de la Fábrica de chocolate Simon Coll. ©P.G.")
 
 ## 3\. Fábrica de chocolate Simon Coll
 
@@ -99,9 +99,9 @@ producción de la fábrica y se catan distintos tipos de chocolate.
 supuesto, pasar por la tienda y comprar alguno (o varios) de los productos de chocolate 
 que venden. Hay degustación de casi todo, así que ojo con los niños más golosos... 
 
-?¿Dónde? San Pedro, 37. Sant Sadurní d'Anoia. Barcelona. 
+📍¿Dónde? San Pedro, 37. Sant Sadurní d'Anoia. Barcelona. 
 
-![Museo Nacional de la Ciencia y tecnologia, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/turismo-industria-museo-ciencia-terrassa-900x600.jpg "Museo Nacional de la Ciencia y la Tecnología. ©P.G.")
+![Museo Nacional de la Ciencia y tecnologia, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/turismo-industria-museo-ciencia-terrassa.jpg "Museo Nacional de la Ciencia y la Tecnología. ©P.G.")
 
 ## 4\. Museu Nacional de la Ciència i la Tècnica
 
@@ -120,9 +120,9 @@ vais con niños, quizás puedan apuntarse a alguna actividad mientras los demás
 gusto de pasear por aquella época fabril que tanto marcó la revolución industrial. En 
 vacaciones escolares suelen ofrecer una programación especial, consúltala en su web. 
 
-?¿Dónde? Rambla d'Ègara, 270. Terrassa, Barcelona. 
+📍¿Dónde? Rambla d'Ègara, 270. Terrassa, Barcelona. 
 
-![masia freixa, viaje familiar en terrassa, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-familiar-masia-freixa-900x672.jpg "Masía Freixa, en Terrassa. ©P.G.")
+![masia freixa, viaje familiar en terrassa, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-familiar-masia-freixa.jpg "Masía Freixa, en Terrassa. ©P.G.")
 
 ## 5\. Masía Freixa
 
@@ -146,9 +146,9 @@ este estilo en Terrassa, que son muchos y muy llamativos. Sigue leyendo: [Modern
 Terrassa, tres visitas que te 
 sorprenderán](https://etheriamagazine.com/2021/08/20/que-ver-en-terrassa-visitas-modernistas/). 
 
-?¿Dónde? Parque de Sant Jordi. Pl. Freixa i Argemí, 11. Terrassa, Barcelona. 
+📍¿Dónde? Parque de Sant Jordi. Pl. Freixa i Argemí, 11. Terrassa, Barcelona. 
 
-![taller vitral joan serra, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/joan-serra-el-arte-del-vitral-900x624.jpg "Taller de Joan Serra en Sabadell. ©P.G.")
+![taller vitral joan serra, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/joan-serra-el-arte-del-vitral.jpg "Taller de Joan Serra en Sabadell. ©P.G.")
 
 ## 6\. Taller de vidrieras en Sabadell
 
@@ -165,10 +165,10 @@ Para organizarlo de una forma individual, lo mejor es contactar directamente con
 es quien mejor puede aconsejaros sobre la duración adecuada. En su web tenéis toda la 
 información. 
 
-?¿Dónde? Carrer de Sant Feliu, 1. Sabadell. Barcelona. Precio: en función de la visita 
+📍¿Dónde? Carrer de Sant Feliu, 1. Sabadell. Barcelona. Precio: en función de la visita 
 guiada y del taller elegido. 
 
-![rutas bicicleta en el penedes, rutas vino penedes, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/ruta-bicicleta-camino-del-vino-900x600.jpg "Ruta en bicicleta por la carretera del Vino del Penedés. ©P.G.")
+![rutas bicicleta en el penedes, rutas vino penedes, turismo industrial, turismo familiar en Cataluna](https://fotos.etheriamagazine.com/2019/12/ruta-bicicleta-camino-del-vino.jpg "Ruta en bicicleta por la carretera del Vino del Penedés. ©P.G.")
 
 ## 7\. Ruta en bici por el Penedès
 
@@ -180,7 +180,7 @@ con solera. Hay varias empresas que alquilan bicicletas y podéis parar en el ca
 Sant Martí Sarroca, el VINSEUM, el centro histórico de Vilafranca del Penedès, Santa 
 Maria dels Horts, Museo de Arqueología de Cataluña de Olèrdola, etc. 
 
-![bodega pares balta, ruta bicicleta penedes, turismo familiar en barcelona, turismo industria cataluna](https://fotos.etheriamagazine.com/2019/12/bodega-pares-alta-900x600.jpg "Esta es la zona más antigua de la bodega Parés Baltà. ©P.G.")
+![bodega pares balta, ruta bicicleta penedes, turismo familiar en barcelona, turismo industria cataluna](https://fotos.etheriamagazine.com/2019/12/bodega-pares-alta.jpg "Esta es la zona más antigua de la bodega Parés Baltà. ©P.G.")
 
 Y, por supuesto, se finaliza en una bodega. La opción que probamos nosotros fue la [bodega 
 familiar Parés Baltà](https://paresbalta.com/), muy reconocida porque cultiva viñedos de 
@@ -198,7 +198,7 @@ de la XATIC, aunque se trata de industria viva, es decir, centros en activo. Aun
 las tres intervengan bebidas, en casi todas existen actividades alternativas para las 
 familias. 
 
-![celler masroig, rutas del vino, turismo industrial cataluna](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-celler-mas-roig-900x600.jpg "Celler Masroig, un gran ejemplo de cooperativismo. ©P.G.")
+![celler masroig, rutas del vino, turismo industrial cataluna](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-celler-mas-roig.jpg "Celler Masroig, un gran ejemplo de cooperativismo. ©P.G.")
 
 ### Celler Masroig
 
@@ -212,7 +212,7 @@ ampliar la actividad con un paseo por los viñedos.
 
 ¿Dónde? Passeig de l’Arbre, 3. El Masroig. Tarragona. 
 
-![cava vilarnau, ruta industrial catalunya, ruta cataluna, turismo familiar en barcelona](https://fotos.etheriamagazine.com/2019/12/turismo-industria-cava-vilarnau-900x657.jpg "Bodega de Cavas Vilarnau. ©P.G.")
+![cava vilarnau, ruta industrial catalunya, ruta cataluna, turismo familiar en barcelona](https://fotos.etheriamagazine.com/2019/12/turismo-industria-cava-vilarnau.jpg "Bodega de Cavas Vilarnau. ©P.G.")
 
 ### Caves Vilarnau
 
@@ -225,7 +225,7 @@ catarán mosto y harán un taller de manualidades.
 
 ¿Dónde? Ctra. d'Espiells km 1,4. Finca Can Petit. Sant Sadurní d'Anoia. Barcelona. 
 
-![cerveceria la sitgetana, cerveza artesana en sitges, turismo industrial](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-la-sitgetana-720x1024.jpg "La Sitgetana, elaboración de cerveza artesanal. ©P.G.")
+![cerveceria la sitgetana, cerveza artesana en sitges, turismo industrial](https://fotos.etheriamagazine.com/2019/12/turismo-industrial-la-sitgetana.jpg "La Sitgetana, elaboración de cerveza artesanal. ©P.G.")
 
 ### Cervezas artesanas
 

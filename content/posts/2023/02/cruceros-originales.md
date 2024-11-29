@@ -68,7 +68,7 @@ cubierta, el viaje quedará como un recuerdo imborrable.
 
 ![Barco de Navimag por los fiordos chilenos.](https://fotos.etheriamagazine.com/2023/02/Cruceros-originales-Navimag.jpg "Barco de © Navimag por los fiordos chilenos.")
 
-?Infórmate en [Crucero por los fiordos y canales de la Patagonia 
+📍Infórmate en [Crucero por los fiordos y canales de la Patagonia 
 chilena](https://etheriamagazine.com/2019/03/22/viajar-sola-crucero-fiordos-canales-patagonia-chile/) 
 
 ## Crucero por Alaska
@@ -101,7 +101,7 @@ de la isla desde su salón panorámico.
 
 ![Barco MS Maud de Hurtigruten](https://fotos.etheriamagazine.com/2023/02/cruceros-originales-maud-hurtigruten.jpg "Barco de © Hurtigruten por Islandia.")
 
-?Te lo contamos en este artículo: [‘Círculo de hielo y fuego’, conoce la nueva ruta del 
+📍Te lo contamos en este artículo: [‘Círculo de hielo y fuego’, conoce la nueva ruta del 
 Hurtigruten en Islandia](https://etheriamagazine.com/2023/01/12/hurtigruten-islandia/) 
 
 ## Crucero por Seychelles
@@ -141,7 +141,7 @@ camarotes dobles), por lo que la experiencia a bordo se personaliza al máximo y
 pueden elegir actividades complementarias que van desde sesiones de yoga por la mañana 
 hasta clases de cocina local. 
 
-?Puedes conocer nuestra experiencia en el barco en este artículo: [Crucero por el 
+📍Puedes conocer nuestra experiencia en el barco en este artículo: [Crucero por el 
 Mekong. Vietnam y Camboya a través del río de la 
 vida](https://etheriamagazine.com/2019/09/13/crucero-por-el-mekong-excursiones-vietnam-y-camboya/) 
 
@@ -193,7 +193,7 @@ en la agencia **Mundomar** (mundomarcruceros.com).
 
 ![Barco SeaDream un crucero original con parada en Bonifacio](https://fotos.etheriamagazine.com/2023/02/cruceros-originales-seabourn-bonifacio.jpg "Barco SeaDream de la naviera de lujo MSC Grand Europa © Seabourn en Bonifacio (Francia).")
 
-? **Además de cruceros originales también te puede interesar...** 
+📌 **Además de cruceros originales también te puede interesar...** 
 
 [Tips imprescindibles para organizar tu primer viaje en 
 crucero](https://etheriamagazine.com/2021/02/25/como-organizar-viaje-en-crucero-puertos-excursiones/) 

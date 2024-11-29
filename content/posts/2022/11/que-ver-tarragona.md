@@ -38,7 +38,7 @@ admirar uno de sus destinos icónicos, el anfiteatro romano, sin dar un paseo tr
 por la Rambla Nova o disfrutar del barrio de pescadores del Serrallo. Así que ponte en 
 marcha y sumérgete en una ciudad moderna, abierta y acogedora, y sobre todo, monumental. 
 
-?No te pierdas: [10 buenas razones para escaparse a la antigua 
+📌No te pierdas: [10 buenas razones para escaparse a la antigua 
 Tarraco](https://etheriamagazine.com/2021/12/29/por-que-visitar-tarragona/). 
 
 ![Casa salas, una construcción modernista de Tarragona.](https://fotos.etheriamagazine.com/2022/11/Tarragona-casa_salas.jpg "Casa salas, una construcción modernista de Tarragona.")
@@ -185,7 +185,7 @@ aquellos viajeros que aman la tranquilidad y la calma en plena naturaleza. Adem�
 muchas las actividades que se pueden hacer, desde navegar a bordo de un laúd turístico 
 hasta dar un paseo en piragua o aprender a recolectar arroz. 
 
-![Paseo en barca por el Delta del Ebro.](https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro-850x570.jpg "Paseo en barca por el Delta del Ebro. © Terres de l'Ebre")
+![Paseo en barca por el Delta del Ebro.](https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro.jpg "Paseo en barca por el Delta del Ebro. © Terres de l'Ebre")
 
 ### Priorat
 
@@ -197,7 +197,7 @@ por los restos de su castillo musulmán. Y si te apasiona el vino, hay una Ruta 
 Bodegas que tiene parada, entre otras, en la cooperativa de Falset, la bodega Cornudella 
 de Montsant o la Bodega Joan Ametller. 
 
-![Paisaje vinícola del Priorat, en Costa Daurada.](https://fotos.etheriamagazine.com/2022/11/paisaje-vinicola-priorat-850x510.jpg "Paisaje vinícola del Priorat. © Costa Daurada/ Joan Capdevila")
+![Paisaje vinícola del Priorat, en Costa Daurada.](https://fotos.etheriamagazine.com/2022/11/paisaje-vinicola-priorat.jpg "Paisaje vinícola del Priorat. © Costa Daurada/ Joan Capdevila")
 
 ## Otros lugares para disfrutar
 
@@ -210,7 +210,7 @@ hora de darte un chapuzón y disfrutar del sol y la arena a placer. ¿Quieres qu
 algunas? Ahí van: Cala Fonda, Cala Jovera, Cala Penya Tallada, Playa El Dorado, Playa 
 del Castillo, Cala Forn… 
 
-![Playas de Riumar, snorkel en L'Ametla de Mar, cala Llenya y playas de Les Cases d'Alcanar.](https://fotos.etheriamagazine.com/2022/11/tarragona-Playas-delta-ebro-850x556.jpg "Playas de Riumar, snorkel en L'Ametla de Mar, cala Llenya y playas de Les Cases d'Alcanar. © Terres de l'Ebre")
+![Playas de Riumar, snorkel en L'Ametla de Mar, cala Llenya y playas de Les Cases d'Alcanar.](https://fotos.etheriamagazine.com/2022/11/tarragona-Playas-delta-ebro.jpg "Playas de Riumar, snorkel en L'Ametla de Mar, cala Llenya y playas de Les Cases d'Alcanar. © Terres de l'Ebre")
 
 ### PortAventura World
 
@@ -224,7 +224,7 @@ temático de España y el tercero de Europa. Además de todas las atracciones, s
 complementa con una amplia gama de restaurantes y tiendas. Una despedida de adrenalina 
 para poner el broche final a nuestra escapada turística por la provincia de Tarragona. 
 
-? Si haces un viaje a Cataluña con niños toma nota también de las actividades de este 
+📌 Si haces un viaje a Cataluña con niños toma nota también de las actividades de este 
 artículo: [Turismo industrial en Cataluña, viajar y aprender en 
 familia](https://etheriamagazine.com/2019/12/18/planes-familiares-en-barcelona-y-tarragona-turismo-industrial/). 
 

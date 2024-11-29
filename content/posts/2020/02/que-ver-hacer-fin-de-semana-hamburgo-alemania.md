@@ -18,7 +18,7 @@ nocturna, presume de ser la puerta del mundo gracias a su activo puerto, el más
 del país. En Etheria Magazine te proponemos conocer en un fin de semana su lado más 
 canalla. 
 
-![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-canales-900x600.jpg "Canales de Hamburgo.")
+![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-canales.jpg "Canales de Hamburgo.")
 
 Que esta ciudad vive de cara al agua no es ningún secreto. Solo hace falta pasear 
 durante unos minutos por su centro histórico en tu fin de semana en Hamburgo; el mismo 
@@ -31,7 +31,7 @@ halla en torno a dos lagos artificiales y **posee toda una red de canales** que 
 expanden por la ciudad evocando paisajes que, irremediablemente, recuerdan a Ámsterdam o 
 Venecia. 
 
-![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-Fleetschlossschen-900x460.jpg "Rincón en HafenCity. © Andreas Vallbracht/GNTB")
+![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-Fleetschlossschen.jpg "Rincón en HafenCity. © Andreas Vallbracht/GNTB")
 
 Es precisamente esa apertura al mar lo que le ha facilitado servir de base en el 
 comercio con el resto del mundo durante toda su historia. Algo que ya desde la Edad 
@@ -49,7 +49,7 @@ fueres, haz lo que vieres”—. Así nos animamos a descubrir las entrañas de 
 lo hacen sus moradores: ya sea a pie o en bicicleta, lo que está claro es que esta urbe 
 invita al paseo. 
 
-![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-ayuntamiento-900x900.jpg "Ayuntamiento. © Ralf Brunner/DZT")
+![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-ayuntamiento.jpg "Ayuntamiento. © Ralf Brunner/DZT")
 
 Es precisamente en su zona más antigua donde se hallan la mayor parte de las 
 instituciones municipales y comerciales de la ciudad, como por ejemplo, **el 
@@ -77,7 +77,7 @@ peculiar ascensor de cristal**, como a los restos de la iglesia. Estos permanece
 quedaron tras el conflicto a modo conmemorativo para que nadie, absolutamente nadie, 
 olvide lo que entonces ocurrió. 
 
-![](https://fotos.etheriamagazine.com/2020/02/Hamburgo-Chilenhaus-900x600.jpg "El curioso edificio Chilehaus. © Ralf Brunner/GNTB")
+![](https://fotos.etheriamagazine.com/2020/02/Hamburgo-Chilenhaus.jpg "El curioso edificio Chilehaus. © Ralf Brunner/GNTB")
 
 El **Chilehaus**, un original edificio del 1924 cuya estructura rompió con las bases de 
 la arquitectura de la época, es otra parada imprescindible en la ruta. 
@@ -91,7 +91,7 @@ mismos que en el pasado **sirvieron de almacenes para gran parte del comercio** 
 llegaba desde los lugares más recónditos del mundo, es fotogénico hasta decir basta. No 
 en vano, la Unesco lo declaró **Patrimonio de la Humanidad.** 
 
-![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-calle-Speicherstadt-900x600.jpg "Edificio en Speicherstadt.")
+![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-calle-Speicherstadt.jpg "Edificio en Speicherstadt.")
 
 Construidos a finales del siglo XIX y principios del XX, se trataba del **último enclave 
 libre de impuestos para la mercancía** antes de que se adentrara en territorio alemán. 
@@ -102,7 +102,7 @@ Miniatur-Wunderland**, uno de los más visitados —si no el que más— de todo
 Además de con restaurantes de la talla de [The Table](https://thetable-hamburg.de/), el 
 **tres estrellas Michelin de Kevin Fehling**: absolutamente imprescindible. 
 
-![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-Elbphilarmonie-900x596.jpg "El edificio Elbphilarmonie, el nuevo icono de Hamburgo.")
+![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-Elbphilarmonie.jpg "El edificio Elbphilarmonie, el nuevo icono de Hamburgo.")
 
 ### Elbphilarmonie y el Túnel del Elba
 
@@ -121,7 +121,7 @@ ascensores permiten el acceso a los coches, aunque también las bicicletas y los
 pueden cruzar por él. Ya solo las vistas del _skyline_ de la ciudad desde el otro lado 
 del río hacen que el paseo merezca la pena. 
 
-![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-tunel-Elba-900x709.jpg "Túnel del Elba. © Sid Saxena")
+![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-tunel-Elba.jpg "Túnel del Elba. © Sid Saxena")
 
 ## St. Pauli: diversión asegurada
 
@@ -131,7 +131,7 @@ cuestión es que todo ese movimiento gamberro, en la mejor de sus acepciones, se
 concentró durante siglos en **el barrio de St. Pauli**: allí se sabe a qué hora se 
 llega, pero nunca cuándo se sale. 
 
-![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-puerto-900x600.jpg "Animadas terrazas en St. Pauli.")
+![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-puerto.jpg "Animadas terrazas en St. Pauli.")
 
 Y lo explicamos: la cantidad de bares, restaurantes, teatros musicales, clubs y 
 discotecas que hay repartidos por sus calles es tal, que lo normal será querer 
@@ -140,7 +140,7 @@ barrio rojo hamburgués por excelencia** —con Heberstrasse a la cabeza, una ca
 se ejerce la prostitución de manera legal— hacen de St. Pauli la zona más animada de la 
 ciudad. 
 
-![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-Reeerbahn-900x675.jpg "Reeperbahn, El Barrio Rojo de Hamburgo.")
+![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-Reeerbahn.jpg "Reeperbahn, El Barrio Rojo de Hamburgo.")
 
 ### Los Beatles por Hamburgo
 
@@ -167,7 +167,7 @@ La completa radiografía de la ciudad debe pasar por conocer su puerto, escudri�
 se quiere, en **excursiones en barco que llevan a navegar el Elba** de arriba abajo 
 entre inmensas grúas de carga y aún más inmensos navíos. 
 
-![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-puerto-atardecer-900x600.jpg "Puerto de Hamburgo.")
+![Escapada a Hamburgo, viajes a Alemania, fin de semana en Europa, City break](https://fotos.etheriamagazine.com/2020/02/Hamburgo-puerto-atardecer.jpg "Puerto de Hamburgo.")
 
 Con un tráfico de **casi 13 mil barcos al año**, el puerto ha sido siempre pieza clave 
 en la evolución de Hamburgo. De hecho, no solo es el más grande del país: también el 

@@ -26,7 +26,7 @@ Aquí se encuentra el Princesa Yaiza Suite Hotel Resort, un **hotel de cinco est
 lujo** ubicado frente al mar y que con su imagen de pueblo colonial de blanco reluciente 
 y sus jardines tropicales encaja perfectamente en este bonito rincón de Lanzarote. 
 
-![Piscinas del Princesa Yaiza de la zona principal.](https://fotos.etheriamagazine.com/2023/07/hotel-princesa-yaiza-piscinas-576x1024.jpg "Piscinas del hotel de la zona principal.")
+![Piscinas del Princesa Yaiza de la zona principal.](https://fotos.etheriamagazine.com/2023/07/hotel-princesa-yaiza-piscinas.jpg "Piscinas del hotel de la zona principal.")
 
 ## Instalaciones de lujo
 
@@ -137,7 +137,7 @@ deportes y juegos acuáticos. Te será muy difícil sacar de aquí a los niños.
 22, Playa Blanca. Tel. 928 519 300 / 928 519 206. Fotografías cedidas por © Princesa 
 Yaiza Suite Hotel Resort. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Guía de Lanzarote: 15 lugares imprescindibles para perderte por la 
 isla](https://etheriamagazine.com/2023/02/08/que-ver-lanzarote/) 

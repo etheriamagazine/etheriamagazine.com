@@ -38,7 +38,7 @@ parte del "testimonio global que ofrece de todo tipo de mujeres, condición, raz
 localización geográfica y edad". Todo ello, centrado en el poder de imágenes impactantes 
 e idóneas para contar historias. 
 
-![Amy Toensing mujeres en india](https://fotos.etheriamagazine.com/2020/03/women-india-NationalGeographic-900x600.jpg "Mujeres indias en el Holi. © Amy Toensing (2016).")
+![Amy Toensing mujeres en india](https://fotos.etheriamagazine.com/2020/03/women-india-NationalGeographic.jpg "Mujeres indias en el Holi. © Amy Toensing (2016).")
 
 ## Historias de mujeres
 
@@ -75,7 +75,7 @@ se puede ver a dos jóvenes vestidas con trajes tradicionales. Y una de las más
 recientes, casi un siglo después, de 2018, es de Nichole Sobecki y muestra a una 
 corredora keniata bailando con estudiantes de una escuela que ella misma ha fundado. 
 
-![Dos artistas se pintan los labios bajo el agua en Wakulla Springs WOMEN un siglo de cambio](https://fotos.etheriamagazine.com/2020/03/Women-National-Geographic-900x667.jpg "Dos artistas se pintan los labios bajo el agua en Wakulla Springs. © J. Baylor Roberts (1944)")
+![Dos artistas se pintan los labios bajo el agua en Wakulla Springs WOMEN un siglo de cambio](https://fotos.etheriamagazine.com/2020/03/Women-National-Geographic.jpg "Dos artistas se pintan los labios bajo el agua en Wakulla Springs. © J. Baylor Roberts (1944)")
 
 Entre los autores seleccionados hay más hombres que mujeres, aunque, como señala la 
 comisaria, el foco no está en los autores sino en las protagonistas de la fotografía. 
@@ -107,7 +107,7 @@ posguerra, la revista retomó perspectivas más domésticas. Las mujeres sonrier
 décadas más hasta los 70, con la llegada de una fotografía que captaba una imagen de la 
 vida sin adornos”. 
 
-![Cartel de la exposicion WOMEN un siglo de cambio](https://fotos.etheriamagazine.com/2020/03/expo-women-madrid-coac-724x1024.jpg "Cartel de la exposición WOMEN.")
+![Cartel de la exposicion WOMEN un siglo de cambio](https://fotos.etheriamagazine.com/2020/03/expo-women-madrid-coac.jpg "Cartel de la exposición WOMEN.")
 
 ## Por qué visitar WOMEN
 

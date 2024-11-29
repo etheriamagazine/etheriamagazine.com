@@ -11,7 +11,7 @@ authors:
 
 La elección de un buen hotel determina, en muchas ocasiones, la experiencia en el destino elegido. Con el Iberostar Grand Perast la percepción y el disfrute de unas vacaciones en Montenegro están más que aseguradas.
 
-![Iberostar perast montenegro vistas](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-montenegro-restaurante-1024x658.jpg "Desayuno con vistas en el Iberostar Grand Perast.")
+![Iberostar perast montenegro vistas](https://fotos.etheriamagazine.com/2018/08/iberostar-perast-montenegro-restaurante.jpg "Desayuno con vistas en el Iberostar Grand Perast.")
 
 En destinos como Montenegro la elección del alojamiento pueden determinar en gran parte 
 la percepción del destino, así que te recomendamos elegir uno que cuenta con todas las 

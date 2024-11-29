@@ -9,7 +9,11 @@ authors:
   - Redacción Etheria
 ---
 
-Ya estamos pensando en los viajes de verano, y consultando aquellos países sin cuarentena desde España. Una labor que habrá que seguir haciendo según se acerquen las ansiadas vacaciones, ya que la situación es tan cambiante que elegir un destino no está exento de riesgos. De momento, quédate con estos 11 destinos exóticos que apuntan a protocolos sencillos de cumplir.
+Ya estamos pensando en los viajes de verano, y consultando aquellos países sin 
+cuarentena desde España. Una labor que habrá que seguir haciendo según se acerquen las 
+ansiadas vacaciones, ya que la situación es tan cambiante que elegir un destino no está 
+exento de riesgos. De momento, quédate con estos 11 destinos exóticos que apuntan a 
+protocolos sencillos de cumplir. 
 
 ![maldivas entre paises sin cuarentena desde España](https://fotos.etheriamagazine.com/2021/04/maldivas-viaje-sin-cuarentena.jpg "Maldivas, uno de los países sin cuarentena desde España. © Ishan")
 
@@ -52,7 +56,7 @@ comprobante de alojamiento.
 Sigue leyendo [cómo organizar un viaje a 
 Seychelles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/). 
 
-![tren de sri lanka paises sin cuarenta desde espana](https://fotos.etheriamagazine.com/2021/04/tren-azul-sri-lanka-683x1024.jpg "Famoso tren del té en Sri Lanka. © Gemma Fjam")
+![tren de sri lanka paises sin cuarenta desde espana](https://fotos.etheriamagazine.com/2021/04/tren-azul-sri-lanka.jpg "Famoso tren del té en Sri Lanka. © Gemma Fjam")
 
 ## Sri Lanka
 
@@ -76,7 +80,7 @@ horas antes de la llegada, el resultado negativo de la prueba en el formulario o
 de aduana e inmigración. Al llegar, los pasajeros deben reconfirmar con una prueba 
 rápida de antígenos la validez de su prueba PCR negativa. 
 
-![viaje bahamas desde espana](https://fotos.etheriamagazine.com/2021/04/viaje-bahamas-desde-espana-701x1024.jpg "Vista aérea de Coco Cay, en Bahamas. © Adam Gonzales")
+![viaje bahamas desde espana](https://fotos.etheriamagazine.com/2021/04/viaje-bahamas-desde-espana.jpg "Vista aérea de Coco Cay, en Bahamas. © Adam Gonzales")
 
 ## Bahamas
 
@@ -88,7 +92,7 @@ seguro de viaje para COVID-19.
 Sigue leyendo sobre [Qué ver en 
 Bahamas](https://etheriamagazine.com/2018/08/14/viajar-sola-a-islas-bahamas/). 
 
-![burj khalifa en dubai](https://fotos.etheriamagazine.com/2021/04/viaje-dubai-desde-espana-681x1024.jpg "Burj Khalifa, en Dubái. © Toa Heftiba")
+![burj khalifa en dubai](https://fotos.etheriamagazine.com/2021/04/viaje-dubai-desde-espana.jpg "Burj Khalifa, en Dubái. © Toa Heftiba")
 
 ## Emiratos Árabes Unidos
 
@@ -112,7 +116,7 @@ viaje antes de la salida. Los pasajeros, sujetos a exámenes médicos a su llega
 contar con un **test de antígenos negativo** o un resultado de prueba de PCR negativo, 
 realizados como máximo tres días antes de la salida del primer tramo del viaje. 
 
-![viaje republica dominicana](https://fotos.etheriamagazine.com/2018/05/3-Republica-Dominicana-Sur-7-1024x612.jpg "Costa de Punta Cana, en República Dominicana. © Etheria Magazine")
+![viaje republica dominicana](https://fotos.etheriamagazine.com/2018/05/3-Republica-Dominicana-Sur-7.jpg "Costa de Punta Cana, en República Dominicana. © Etheria Magazine")
 
 ## República Dominicana
 

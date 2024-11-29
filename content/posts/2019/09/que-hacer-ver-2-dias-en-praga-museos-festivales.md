@@ -15,7 +15,7 @@ panorama cultural europeo. Callejea y siente su ambiente porque consigue seducir
 cualquier viajera. Esta escapada urbana, entre el arte y la vida praguenses, finaliza 
 con la alegría de la vendimia en Chequia. ¿Puede haber mejor broche final al verano? 
 
-![Muro de John Lennon, en Praga.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-muro-john-lennon-900x601.jpg "Muro de John Lennon, en Praga.")
+![Muro de John Lennon, en Praga.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-muro-john-lennon.jpg "Muro de John Lennon, en Praga.")
 
 Praga posee el tamaño perfecto para disfrutarla sin agobios en dos días. Al llegar, 
 familiarízate con la **Plaza de la Ciudad Vieja** porque se convertirá en el centro de 
@@ -24,21 +24,21 @@ encuentro urbano por excelencia. Esta es una función que ha desempeñado a la p
 desde el Medievo. Es la luz que te recompensa cuando llegas por las angostas calles que 
 la rodean. 
 
-![Plaza de la Ciudad Vieja de Praga.](https://fotos.etheriamagazine.com/2019/09/old-town-praga-900x601.jpg "Plaza de la Ciudad Vieja.")
+![Plaza de la Ciudad Vieja de Praga.](https://fotos.etheriamagazine.com/2019/09/old-town-praga.jpg "Plaza de la Ciudad Vieja.")
 
 Busca el **Reloj Astronómico** a las horas en punto, está en los bajos del edificio más 
 popular, el **Ayuntamiento**. Y cada vez que da la hora, entre las nueve de la mañana y 
 de la noche, admira el pintoresco desfile de esculturas de los apóstoles en madera que 
 surge de su carrillón. 
 
-![Reloj astronómico de Praga.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-reloj-astronomico-900x601.jpg "Reloj astronómico de Praga.")
+![Reloj astronómico de Praga.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-reloj-astronomico.jpg "Reloj astronómico de Praga.")
 
 Desde el imponente monumento central al **reformista religioso Jan Hus**, camina sin 
 rumbo por el amplio espacio de la plaza, no podrás dejar de admirar las **viviendas 
 renacentistas** con bellas fachadas cubiertas de estucos con leyendas mitológicas y 
 bíblicas, te harán sentir que te has colado en un cuento. 
 
-![Iglesia de Nuestra Señora de Týn, en la Plaza de la Ciudad Vieja.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-iglesia-tyn-683x1024.jpg "Iglesia de Nuestra Señora de Týn, en la Plaza de la Ciudad Vieja.")
+![Iglesia de Nuestra Señora de Týn, en la Plaza de la Ciudad Vieja.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-iglesia-tyn.jpg "Iglesia de Nuestra Señora de Týn, en la Plaza de la Ciudad Vieja.")
 
 ## Tentaciones irresistibles
 
@@ -50,7 +50,7 @@ dentro del panorama urbano. Salta a la vista la profusión decorativa barroca de
 galería puedes asomarte a Asia por la notable colección artística que alberga de este 
 continente. 
 
-![Calle Karlova.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-calle-karlova-900x596.jpg "Calle Karlova.")
+![Calle Karlova.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-calle-karlova.jpg "Calle Karlova.")
 
 Sin darte cuenta, te sentirás atraída por la **Casa del Minuto**, donde vivió **Franz 
 Kafka**. Es fácilmente reconocible por el león que asoma en su esquina y los bonitos 
@@ -71,7 +71,7 @@ en el escudo checo.
 > La leyenda dice que cuando murió el noble su espada quedó emparedada en uno de los 
 > pilares del puente y que resurgirá para aniquilar a los enemigos de su patria. 
 
-![Perfil de Praga desde el Puente de Carlos.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-puente-carlos-900x580.jpg "Perfil de Praga desde el Puente de Carlos.")
+![Perfil de Praga desde el Puente de Carlos.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-puente-carlos.jpg "Perfil de Praga desde el Puente de Carlos.")
 
 No obstante, donde se congrega más gente es ante la imagen de **San Juan de 
 Nepomuceno**, santo muy popular entre los pobres. Lo reconocerás porque está coronado 
@@ -83,7 +83,7 @@ Entre las luces de la noche, el puente iluminado se muestra más bello en sus ca
 años de historia, los que le convierten en el monumento más antiguo de la ciudad. Aunque 
 para iluminación que te dejará boquiabierta, está el Festival Signal. 
 
-![Signal Festival.](https://fotos.etheriamagazine.com/2019/09/etheria-magazine-signal-festival-900x406.jpg "© Signal Festival.")
+![Signal Festival.](https://fotos.etheriamagazine.com/2019/09/etheria-magazine-signal-festival.jpg "© Signal Festival.")
 
 Con su creatividad hacen arte con la luz y, para lograrlo, la noche es su mejor aliado. 
 Para encontrarlos sigue las rutas urbanas que te proponen. No solo tendrás una visión de 
@@ -102,7 +102,7 @@ y sube los 287 escalones que por una angosta escalera de caracol te hacen tocar 
 sobre los 90 metros de su torre. A tus pies quedará un laberinto de pináculos y 
 arbotantes enmarcando la vista más espectacular de la ciudad. 
 
-![Castillo de Praga desde el Puente de Carlos.](https://fotos.etheriamagazine.com/2019/09/praga-desde-puente-carlos-900x600.jpg "Castillo de Praga desde el Puente de Carlos.")
+![Castillo de Praga desde el Puente de Carlos.](https://fotos.etheriamagazine.com/2019/09/praga-desde-puente-carlos.jpg "Castillo de Praga desde el Puente de Carlos.")
 
 Recorriendo la enorme fortaleza de origen medieval que fuera hogar de los reyes de 
 Bohemia busca la fachada rojiza de la **basílica de San Jorge** y aunque te llame la 
@@ -120,7 +120,7 @@ inmersión entre una de las mayores selecciones de diseño europeo. Las obras de
 diseñadores y sus aplicaciones a la moda transforman la ciudad y sus espacios de arte 
 como las galerías, tiendas y salas de exposiciones. 
 
-![© Festival Designblok en Praga](https://fotos.etheriamagazine.com/2019/09/etheria-magazine-designblok-900x609.jpg "© Festival Designblok.")
+![© Festival Designblok en Praga](https://fotos.etheriamagazine.com/2019/09/etheria-magazine-designblok.jpg "© Festival Designblok.")
 
 ## Bienvenido, otoño
 
@@ -136,7 +136,7 @@ Wenceslao**. Puedes caminar entre las viñas de las variedades Pinot noir y Ries
 caracterizan sus vinos y que puedes degustar en el **restaurante Villa Richter**, 
 situado en lo más íntimo del viñedo con vistas a la ciudad. 
 
-![Viñedo de St. Wenceslao, en el castillo de Praga.](https://fotos.etheriamagazine.com/2019/09/vinos-castillo-praga-679x1024.jpg "Viñedo de St. Wenceslao, en el castillo de Praga.")
+![Viñedo de St. Wenceslao, en el castillo de Praga.](https://fotos.etheriamagazine.com/2019/09/vinos-castillo-praga.jpg "Viñedo de St. Wenceslao, en el castillo de Praga.")
 
 Si tu visita coincide con **mediados de septiembre** estás de suerte si te gusta conocer 
 la cultura de un pueblo a través de los productos de la tierra. El festival del Vino del 
@@ -154,7 +154,7 @@ música y los espectáculos. Se pueden ver bailarines y personajes de época ves
 ropajes góticos junto a faquires, magos y teatro de calle que celebran la recogida de la 
 uva. 
 
-![Capilla del castillo de Karlstejn](https://fotos.etheriamagazine.com/2019/09/viaje-praga-castillo-Karlstejn-900x630.jpg "Capilla del castillo de Karlstejn.")
+![Capilla del castillo de Karlstejn](https://fotos.etheriamagazine.com/2019/09/viaje-praga-castillo-Karlstejn.jpg "Capilla del castillo de Karlstejn.")
 
 ## Esos momentos bohemios
 
@@ -176,7 +176,7 @@ más alta el **Museo Nacional** guarda lo más destacable de la historia de la c
 sus tradiciones, siendo su estrella museística una magnífica maqueta de la Ciudad Vieja, 
 el Barrio Pequeño y el Castillo. 
 
-![Sinagoga española en el barrio judío de Praga](https://fotos.etheriamagazine.com/2019/09/viaje-praga-Spanish-Synagogue-900x559.jpg "Sinagoga española en el barrio judío.")
+![Sinagoga española en el barrio judío de Praga](https://fotos.etheriamagazine.com/2019/09/viaje-praga-Spanish-Synagogue.jpg "Sinagoga española en el barrio judío.")
 
 ## De estilo rebelde: la Casa Danzante
 
@@ -189,7 +189,7 @@ una visión aérea de la **Praga modernista**. El cubismo checo queda excelentem
 representado en la **Casa de la Virgen Negra**, un edificio de comienzos de los años 20 
 convertido en museo de Artes Aplicadas. 
 
-![Casa Danzante.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-Dancing-House-900x600.jpg "Casa Danzante.")
+![Casa Danzante.](https://fotos.etheriamagazine.com/2019/09/viaje-praga-Dancing-House.jpg "Casa Danzante.")
 
 En contraste, acércate a la **Casa Danzante**, dos torres de cristal y hormigón que 
 parecen bailar con las luces convirtiéndose en uno de los más emblemáticos edificios de 
@@ -200,7 +200,7 @@ uno de los mejores emblemas urbanos de la **Praga moderna**. Si te fijas en el p
 neorrenacentista del **Teatro Nacional**, su brillo inconfundible no te cegará sino que 
 te demostrará por qué es conocido como la "Casa del Oro". 
 
-![Escultura de David Cerny, una de las visitas que tienes que hacer en Praga](https://fotos.etheriamagazine.com/2019/09/viaje-praga-Cerny-Sculpture-900x601.jpg "Escultura de David Cerny.")
+![Escultura de David Cerny, una de las visitas que tienes que hacer en Praga](https://fotos.etheriamagazine.com/2019/09/viaje-praga-Cerny-Sculpture.jpg "Escultura de David Cerny.")
 
 Los escaparates de Praga son una odisea que te atrapará entre los mil reflejos del 
 cristal, un trabajo artesanal que da fama merecida a la ciudad. Las marionetas son, sin 

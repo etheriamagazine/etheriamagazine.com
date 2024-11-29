@@ -49,7 +49,7 @@ puente, de campo en campo. Los "campos" son las plazas abiertas de Venecia, luga
 encuentro, de niños jugando, de terrazas donde tomar un aperitivo, en sustitución de 
 unos parques imposibles en un ordenamiento urbano como el veneciano. 
 
-![canales de Venecia](https://fotos.etheriamagazine.com/2022/06/venecia-gondolas-643x1024.jpg "Góndolas en los canales del barrio de San Marco. © S.G./ Etheria Magazine")
+![canales de Venecia](https://fotos.etheriamagazine.com/2022/06/venecia-gondolas.jpg "Góndolas en los canales del barrio de San Marco. © S.G./ Etheria Magazine")
 
 Y, entre calles y campos, los siempre presentes canales, con las puertas de las casas 
 asomando al agua y los amarres por todas partes. Puedes llegar a pensar que **un paseo 

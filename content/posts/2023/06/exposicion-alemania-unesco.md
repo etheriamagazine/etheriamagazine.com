@@ -92,7 +92,7 @@ Turismo](https://www.germany.travel/es/campana/bien-patrimonio-de-la-humanidad/i
 ha creado ocho rutas para todos los públicos con itinerarios definidos y consejos de 
 viaje. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Descubre Hamburgo en 48 horas, la Alemania más 
 canalla](https://etheriamagazine.com/2020/02/24/que-ver-hacer-fin-de-semana-hamburgo-alemania/) 

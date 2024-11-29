@@ -64,7 +64,7 @@ una ofrenda anual, a través de sus instituciones, que consistía en un cirio de
 arroba y dos hachas de cera. Este regalo debía realizarse en fechas próximas a la 
 festividad de San Isidoro (26 de abril). 
 
-![batalla dialectica fiesta de las cabezadas](https://fotos.etheriamagazine.com/2021/04/las-cabezadas-claustro-colegiada-san-isidoro-699x1024.jpg "En el claustro de la colegiata de San Isidoro se suele producir la batalla dialéctica.")
+![batalla dialectica fiesta de las cabezadas](https://fotos.etheriamagazine.com/2021/04/las-cabezadas-claustro-colegiada-san-isidoro.jpg "En el claustro de la colegiata de San Isidoro se suele producir la batalla dialéctica.")
 
 ### Ceremonia de entrega de la ofrenda
 

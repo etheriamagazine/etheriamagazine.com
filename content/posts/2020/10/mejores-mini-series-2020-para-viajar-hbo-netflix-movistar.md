@@ -48,7 +48,7 @@ de esta sociedad, lo es también por la historia, la factura y una protagonista 
 Haas) que con gestos contenidos es capaz de transmitir grandes emociones. No te la 
 pierdes bajo ningún concepto. Duración: 4 episodios de 55 minutos. 
 
-![Las dos hermanas protagonistas de 'Vida Perfecta'.](https://fotos.etheriamagazine.com/2020/10/series-viajar-vida-perfecta-900x506.jpg "Las dos hermanas protagonistas de 'Vida Perfecta'. © Movistar+")
+![Las dos hermanas protagonistas de 'Vida Perfecta'.](https://fotos.etheriamagazine.com/2020/10/series-viajar-vida-perfecta.jpg "Las dos hermanas protagonistas de 'Vida Perfecta'. © Movistar+")
 
 ## 4\. Vida perfecta (Movistar+)
 

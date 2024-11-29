@@ -30,7 +30,7 @@ Elma Sesma, cofundadora de la agencia, nos ha respondido a un serie de preguntas
 la situación que han vivido hasta ahora y cómo afrontan el presente y futuro de los 
 viajes. 
 
-![Grupo de la agencia Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/agencia-tacones-viajeros-900x998.jpg "Grupo de la agencia Tacones Viajeros.")
+![Grupo de la agencia Tacones Viajeros.](https://fotos.etheriamagazine.com/2020/06/agencia-tacones-viajeros.jpg "Grupo de la agencia Tacones Viajeros.")
 
 ## Entrevista de Tacones Viajeros, una agencia de viajes para mujeres
 

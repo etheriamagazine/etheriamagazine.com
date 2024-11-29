@@ -111,7 +111,7 @@ E Coast Rd, Anse Royale, Seychelles. Tel. +248 439 7800
 
 © Fotografías cedidas por Marriot Bonvoy. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Islas Seychelles, el nuevo paraíso para los viajeros 
 españoles](https://etheriamagazine.com/2020/11/16/islas-seychelles-un-viaje-de-lujo-al-paraiso/) 

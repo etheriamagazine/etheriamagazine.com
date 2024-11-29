@@ -21,7 +21,7 @@ diseño y de la moda**, y dispone de exclusivas tiendas en el Paseo de Gracia, e
 Avenida del Portal de L’Angel, el Carrer de la Princessa y Carrer de l’Argenteria. No 
 olvides tampoco, calles como Dels Tallers, cerca de Las Ramblas. 
 
-![compras ibiza](https://fotos.etheriamagazine.com/2018/05/Ibiza-COMPRAS_MARINA_consell-1024x770.jpg "© Turismo de Ibiza.")
+![compras ibiza](https://fotos.etheriamagazine.com/2018/05/Ibiza-COMPRAS_MARINA_consell.jpg "© Turismo de Ibiza.")
 
 ## 2\. Ibiza
 
@@ -34,7 +34,7 @@ visitar este paraíso balear. Otro destino de compras en las islas Baleares es
 Formentera, no te pierdas el artículo: [¿Te vienes de compras a 
 Formentera?](https://etheriamagazine.com/2018/07/06/de-compras-en-formentera/) 
 
-![las setas el mejor mirador de sevilla](https://fotos.etheriamagazine.com/2020/09/viaje-original-las-setas-sevilla-900x479.jpg "Las Setas, una de las construcciones más vanguardistas de Sevilla.")
+![las setas el mejor mirador de sevilla](https://fotos.etheriamagazine.com/2020/09/viaje-original-las-setas-sevilla.jpg "Las Setas, una de las construcciones más vanguardistas de Sevilla.")
 
 ## 3\. Sevilla
 
@@ -57,7 +57,7 @@ todo, en Gran Vía y Preciados. El domingo deberías visitar el mercado callejer
 castizo: **El Rastro;** y el finde que toque, el [Mercado de 
 Motores](https://mercadodemotores.es/). 
 
-![viajes de compras viena](https://fotos.etheriamagazine.com/2021/09/viajes-compras-viena-683x1024.jpg "Calle comercial de Viena. © Philipp Lublasser")
+![viajes de compras viena](https://fotos.etheriamagazine.com/2021/09/viajes-compras-viena.jpg "Calle comercial de Viena. © Philipp Lublasser")
 
 ## 5\. Viena
 
@@ -104,7 +104,7 @@ escaparates ya puede ser considerado visita turística. Otras calles comerciales
 conviene apuntar: Vía Torino, Corso Buenos Aires, Porta Ticine… además del Serravalle 
 Outlet, donde se pueden ahorrar unos cuantos euros. 
 
-![Calle Tkalciceva, viaje zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-croacia-zagreb-tkalciceva-street-900x590.jpg "Calle Tkalciceva, ideal para comprar recuerdos en Zagreb. © J.Duval/ Turismo Zagreb")
+![Calle Tkalciceva, viaje zagreb](https://fotos.etheriamagazine.com/2020/04/viaje-croacia-zagreb-tkalciceva-street.jpg "Calle Tkalciceva, ideal para comprar recuerdos en Zagreb. © J.Duval/ Turismo Zagreb")
 
 ## 9\. Zagreb
 

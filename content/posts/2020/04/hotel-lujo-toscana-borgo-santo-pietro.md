@@ -12,7 +12,7 @@ authors:
 
 Hay lugares que siempre son un buen plan y uno de ellos es la región italiana de Toscana. Y no puede haber mejor lugar como base para recorrerla que el hotel Borgo Santo Pietro, un cinco estrellas lujo lleno de encanto y perfecto para una escapada en pareja o para un viaje en familia.
 
-![vista general del hotel Borgo Santo Pietro](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Prieto-900x506.jpg "Hotel Borgo Santo Pietro.")
+![vista general del hotel Borgo Santo Pietro](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Prieto.jpg "Hotel Borgo Santo Pietro.")
 
 La región italiana de Toscana evoca amplios paisajes de colinas ondulantes y pueblos 
 medievales por los que parece no haber pasado el tiempo. Pero, además, ofrece uno de los 
@@ -20,7 +20,7 @@ placeres que mejor responden a ese _dolce far niente_ que tanto nos gusta: aloja
 un borgo o villa tradicional. Aquí te enseñamos uno de los más bonitos que puedas 
 encontrar, el Borgo Santo Pietro. Y será muy difícil que no te quieras quedar a vivir. 
 
-![El Lemon Garden es uno de los Jardines del Borgo Santo Pietro.](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Prieto-Lemon-tree-terrace-900x600.jpg "El Lemon Garden es uno de los Jardines del Borgo Santo Pietro.")
+![El Lemon Garden es uno de los Jardines del Borgo Santo Pietro.](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Prieto-Lemon-tree-terrace.jpg "El Lemon Garden es uno de los Jardines del Borgo Santo Pietro.")
 
 El Borgo Santo Pietro se encuentra en las afueras de una localidad diminuta de Toscana 
 llamada Palazzeto, en medio de campos de cultivo y paisajes sin fin, a cuarenta minutos 
@@ -36,7 +36,7 @@ empeño los daneses Jeanette y Claus Thottrup, y hoy se ha convertido en un rema
 paz con unos jardines de los más bonitos que vas a ver en tu vida, con más de 300.000 
 flores, árboles y arbustos organizados con un cuidado diseño. 
 
-![Gallinas y abejas en el Borgo Santo Pietro](https://fotos.etheriamagazine.com/2020/03/Borgo-santo-Prieto-granja-900x675.jpg "Detalles de la granja del Borgo.")
+![Gallinas y abejas en el Borgo Santo Pietro](https://fotos.etheriamagazine.com/2020/03/Borgo-santo-Prieto-granja.jpg "Detalles de la granja del Borgo.")
 
 ## Habitaciones y suites
 
@@ -51,14 +51,14 @@ dependencias que se sitúan en bonitos edificios alrededor del mismo. Las ocho
 **habitaciones y suites de la villa**, se ubican en la casa principal (del siglo XIII) y 
 lucen pinturas originales, muebles con historia y unas tapicerías espectaculares. 
 
-![Santo Pietro Grand Suite.](https://fotos.etheriamagazine.com/2020/03/Borgo-santo-pietro-suite-900x600.jpg "Santo Pietro Grand Suite.")
+![Santo Pietro Grand Suite.](https://fotos.etheriamagazine.com/2020/03/Borgo-santo-pietro-suite.jpg "Santo Pietro Grand Suite.")
 
 Las **suites con jardín** son perfectas para los que quieren disfrutar de las flores y 
 naturaleza en un jardín privado; y las **villas Máximo Aislamiento** se encuentran 
 escondidas en los jardines, perfectas para los que quieren privacidad y alejarse de todo 
 (algunas cuentan incluso con piscina privada). 
 
-![baño en  la suite Dina Ferri Garden.](https://fotos.etheriamagazine.com/2020/03/Hotel-borgo-santo-pietro-bano-900x601.jpg "Dina Ferri Garden Suite.")
+![baño en  la suite Dina Ferri Garden.](https://fotos.etheriamagazine.com/2020/03/Hotel-borgo-santo-pietro-bano.jpg "Dina Ferri Garden Suite.")
 
 ## Gastronomía para recordar
 
@@ -68,7 +68,7 @@ decidido hacer de sus restaurantes una excusa más para no salir del hotel. Con 
 garantía de calidad y sabor que aportan los ingredientes que proceden de la granja y los 
 huertos del hotel. 
 
-![Cocina en el Borgo Santo Pietro](https://fotos.etheriamagazine.com/2020/03/Borgo-santo-prieto-desayuno-900x600.jpg "Desayuno en el Borgo Santo Pietro.")
+![Cocina en el Borgo Santo Pietro](https://fotos.etheriamagazine.com/2020/03/Borgo-santo-prieto-desayuno.jpg "Desayuno en el Borgo Santo Pietro.")
 
 Todo comienza con el **desayuno**, que podrás tomarlo en una de las salas más bonitas y 
 auténticas del borgo, junto a la cocina. Te recibe un buffet de dulces y mermeladas 
@@ -80,14 +80,14 @@ El **restaurante Meo Modo**, con una estrella Michelin, ofrece unos platos tan
 sorprendentes y con una presentación tan cuidada que no podrás evitar hacerles una foto 
 ante de probarlos. Podrás elegir entre uno de sus menús degustación o cenar a la carta. 
 
-![Platos del restaurante Meo Modo.](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Prieto-restaurante-platos-900x307.jpg "Platos del restaurante Meo Modo.")
+![Platos del restaurante Meo Modo.](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Prieto-restaurante-platos.jpg "Platos del restaurante Meo Modo.")
 
 Una opción mas informal es la **trattoria Sull’Albero**, un lugar mágico, con un enorme 
 árbol en el centro del restaurante. Ofrece deliciosos platos de cocina moderna, además 
 de pasta fresca, pizzas, pescado y carne a la parrilla. Además, en su barra podrás 
 disfrutar durante todo el día de un vino o un cóctel. 
 
-![Restaurante Sull'Albero con un árbol en su interior](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Pietro-TRATTORIA-SULLALBERO-900x601.jpg "Restaurante Sull'Albero.")
+![Restaurante Sull'Albero con un árbol en su interior](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Pietro-TRATTORIA-SULLALBERO.jpg "Restaurante Sull'Albero.")
 
 ## Deja que te cuiden en el Spa
 
@@ -100,7 +100,7 @@ preferido. Ya sólo queda dejarse llevar y disfrutar del momento en total tranqu
 Si lo deseas y el tiempo acompaña, podrás disfrutar del **masaje al aire libre** en las 
 camas de terapia del jardín. 
 
-![Masaje en el jardín.](https://fotos.etheriamagazine.com/2020/03/borgo-santo-prieto-masaje-900x600.jpg "Masaje en el jardín.")
+![Masaje en el jardín.](https://fotos.etheriamagazine.com/2020/03/borgo-santo-prieto-masaje.jpg "Masaje en el jardín.")
 
 Borgo Santo Pietro ha creado una **línea de cosméticos naturales** llamada 'Seed to 
 Skin' con ingredientes como la leche de oveja y la miel, utilizados tradicionalmente en 
@@ -117,7 +117,7 @@ en aquellos momentos en los que desees algo de actividad. Además, no querrás p
 **piscina**, rodeada de jardines y con unos paisajes increíbles sobre los campos de 
 Toscana. 
 
-![Piscina de Borgo Santo Pietro.](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Prieto-piscina-900x601.jpg "Piscina de Borgo Santo Pietro.")
+![Piscina de Borgo Santo Pietro.](https://fotos.etheriamagazine.com/2020/03/Borgo-Santo-Prieto-piscina.jpg "Piscina de Borgo Santo Pietro.")
 
 Uno de sus lugares más emblemáticos es [Borgo Cooking 
 School](https://www.borgocookingschool.com/en/), con multitud de cursos y talleres de 

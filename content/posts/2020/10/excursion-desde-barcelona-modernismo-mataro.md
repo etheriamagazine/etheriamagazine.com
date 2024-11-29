@@ -22,7 +22,7 @@ primeras obras modernistas. Y muchas de ellas están a un paso de la ciudad cond
 **comarca del Maresme**, por lo que una excursión a Mataró es un plan perfecto desde 
 Barcelona. 
 
-![detalle casa coll i regas de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-detalle-683x1024.jpg "Bonitos detalles modernistas de la Casa Coll i Regàs, en Mataró.")
+![detalle casa coll i regas de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-detalle.jpg "Bonitos detalles modernistas de la Casa Coll i Regàs, en Mataró.")
 
 Mosaicos de mil colores, cerámica decorativa, hierro forjado, muebles de diseños 
 sinuosos, vitrales emploma­dos... el **Modernismo** de finales del XIX y principios del 
@@ -55,7 +55,7 @@ interior, las obras de grandes artistas de la segunda mitad del siglo XX (entre 
 se cuentan Guinovart, Tàpies, Miró o Picasso) se arropan bajo unos muy gaudinianos y 
 arcos parabólicos que serían clave en muchas de sus obras posteriores. 
 
-![casa coll i regas casa modernista de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-rejas-683x1024.jpg "Casa Coll i Regàs, casa burguesa de Mataró diseñada por Cadafalch.")
+![casa coll i regas casa modernista de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-rejas.jpg "Casa Coll i Regàs, casa burguesa de Mataró diseñada por Cadafalch.")
 
 ## Modernismo municipal
 
@@ -116,7 +116,7 @@ Finalmente, también **Alella**, célebre por sus vinos de la D.O. Alella y la D
 conserva muchos edificios modernistas, entre ellos el de la Sociedad Cooperativa Alella, 
 de 1904, considerada una de las _catedrales del vino_ de Cataluña. 
 
-![interior casa coll i regas de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-decoracion-683x1024.jpg "Casa Coll i Regás, una visita imprescindible en Mataró.")
+![interior casa coll i regas de mataro](https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-decoracion.jpg "Casa Coll i Regás, una visita imprescindible en Mataró.")
 
 ### CONSEJOS ETHERIA
 

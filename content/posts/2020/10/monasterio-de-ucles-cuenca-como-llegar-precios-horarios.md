@@ -88,7 +88,7 @@ evocación de las aventuras y gestas de los caballeros de Santiago, pero tambié
 sensaciones y sentimientos de soledad, nostalgia, miedo y fascinación que tuvieron al 
 surcar los mares. 
 
-![conciertos en monasterio de ucles cuenca](https://fotos.etheriamagazine.com/2020/10/musica-re-nacimiento-ucles-683x1024.jpg "Concierto de música clásica en el monasterio de Uclés. © Jesús Varillas/ FFN")
+![conciertos en monasterio de ucles cuenca](https://fotos.etheriamagazine.com/2020/10/musica-re-nacimiento-ucles.jpg "Concierto de música clásica en el monasterio de Uclés. © Jesús Varillas/ FFN")
 
 Otra de las iniciativas culturales que coincidirán con la exposición “Marco y luz en 
 constante cambio” es la programación de “conciertos expandidos”, que permitirán al 

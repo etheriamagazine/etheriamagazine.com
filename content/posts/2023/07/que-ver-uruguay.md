@@ -14,7 +14,7 @@ Te invitamos a descubrir buenas razones para incluir este destino en tu agenda d
 pendientes. Sigue leyendo si quieres saber qué ver en Uruguay y conocer algunos de sus 
 atractivos. 
 
-![Contraste arquitectónico en Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo-850x599.jpg "Contraste arquitectónico en Montevideo. © Etheria Magazine")
+![Contraste arquitectónico en Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo.jpg "Contraste arquitectónico en Montevideo. © Etheria Magazine")
 
 Reconócelo, si no tienes lazos con personas uruguayas y no eres un viajero empedernido, 
 puede que aún no te hayas planteado Uruguay como tu próximo destino. A pesar de que es 
@@ -65,7 +65,7 @@ superior–; y otra es **Linardi y Risso**, de la que el propio Pablo Neruda dir
 delicia aunque no nos llevemos casi nada!”. Sobre sus estantes se agolpan decenas de 
 tesoros latinoamericanos. 
 
-![Estadio Centenario, en Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-estadio-centenario-683x1024.jpg "Estadio Centenario, en Montevideo. © Etheria Mag.")
+![Estadio Centenario, en Montevideo.](https://fotos.etheriamagazine.com/2023/07/Montevideo-estadio-centenario.jpg "Estadio Centenario, en Montevideo. © Etheria Mag.")
 
 Antes de dejar Montevideo –teniendo en cuenta la devoción de los uruguayos al fútbol y a 
 “la celeste” (su selección)– se debe conocer el **estadio Centenario**. Inaugurado en 

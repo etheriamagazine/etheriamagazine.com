@@ -157,11 +157,11 @@ corto todo el año… y que lo ha conseguido.
 
 Entre hippies y lugareños anda el juego. 
 
-? **Más información** 
+📌 **Más información** 
 
 Oficina de Turismo de Santa Eulària: www.santaeulariaibiza.travel 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Ibiza en invierno también merece una 
 escapada](https://etheriamagazine.com/2021/11/05/planes-viaje-a-ibiza-en-invierno/) 

@@ -1,5 +1,5 @@
 ---
-title: "10 excursiones ideales desde Conil de la Frontera"
+title: "Pueblos bonitos cerca de Conil y otras excursiones"
 date: 2023-08-02
 coverImage: https://fotos.etheriamagazine.com/2023/08/playa-roche-conil.jpg
 categories: 
@@ -48,9 +48,7 @@ Frontera.](https://etheriamagazine.com/2022/07/22/donde-comer-bien-conil-de-la-f
 
 ![Playa de Roche, en Conil de la Frontera.](https://fotos.etheriamagazine.com/2023/08/playa-roche-conil.jpg "Playa de Roche, en Conil de la Frontera.")
 
-## Pueblos que visitar desde Conil y otras excursiones
-
-### Vejer de la Frontera
+## Vejer de la Frontera
 
 A sólo 18 kilómetros de Conil, se encuentra, encaramado a una colina, el bellísimo 
 núcleo urbano de Vejer de la Frontera. Con sus calles adoquinadas, casas encaladas y 
@@ -70,7 +68,7 @@ bien](https://etheriamagazine.com/2021/07/26/restaurantes-en-el-palmar-cadiz-par
 
 ![Calle con macetas en Vejer](https://fotos.etheriamagazine.com/2023/07/excursion-vejer-cadiz.jpg "Calle de Vejer. © Etheria Mag.")
 
-### Barbate
+## Barbate
 
 Siguiendo la línea de costa, a 24 kilómetros de Conil en dirección a Málaga, se llega a 
 Barbate, un pueblo de tradición pesquera que ofrece la oportunidad de sumergirse en la 
@@ -90,9 +88,9 @@ Puedes terminar el día en **Zahara de los Atunes**, una villa que, a pesar de h
 crecido con numerosas urbanizaciones y chalets, sigue brindando una buena experiencia en 
 su amplia playa y en sus restaurantes. 
 
-![La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate](https://fotos.etheriamagazine.com/2018/06/playa-yerbabuena-barbate-ruta-del-atun-1024x682.jpg "La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate. © Etheria Mag.")
+![La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate](https://fotos.etheriamagazine.com/2018/06/playa-yerbabuena-barbate-ruta-del-atun.jpg "La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate. © Etheria Mag.")
 
-### Tarifa
+## Tarifa
 
 Para los amantes del _windsurf_ y el _kitesurf_, Tarifa es el paraíso. Esta animada 
 ciudad costera, a 65 kilómetros de Conil, atrae cada año a miles de deportistas que 
@@ -105,9 +103,9 @@ Bueno, un atractivo ambiente bohemio y playas espectaculares.
 baño en la playa de 
 Bolonia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
 
-![Vista de Tarifa desde el castillo de Guzmán el Bueno](https://fotos.etheriamagazine.com/2020/06/tarifa-pueblo-900x611.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
+![Vista de Tarifa desde el castillo de Guzmán el Bueno](https://fotos.etheriamagazine.com/2020/06/tarifa-pueblo.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
 
-### Setenil de las Bodegas
+## Setenil de las Bodegas
 
 Para visitar este pueblo blanco, a 160 kilómetros de Conil, casi en el límite con la 
 provincia de Málaga (muy cerca de Ronda), toca madrugar para aprovechar la jornada al 
@@ -120,7 +118,7 @@ Bodegas](https://etheriamagazine.com/2022/07/22/que-ver-setenil-de-las-bodegas/)
 
 ![Panorámica de Setenil de las Bodegas.](https://fotos.etheriamagazine.com/2022/07/Setenil-panoramica.jpg "Panorámica de Setenil de las Bodegas. © S.G.")
 
-### Chiclana
+## Chiclana
 
 Las excursiones desde Conil también se pueden hacer en dirección oeste, hacia Cádiz 
 capital. En este caso, la primera ciudad que aparece en la línea de costa es Chiclana, a 
@@ -137,7 +135,7 @@ planazo, ¿verdad?
 
 ![Playa de Sancti Petri con la isla al fondo.](https://fotos.etheriamagazine.com/2023/03/Chiclana-Sancti-Petri.jpg "Playa de Sancti Petri con la isla al fondo.")
 
-### Cádiz capital
+## Cádiz capital
 
 Otra de las excursiones desde Conil que siempre triunfan es la que lleva a Cádiz 
 capital, una ciudad situada en una pequeña península que atrapa por su ambiente 
@@ -154,7 +152,7 @@ andalusí](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en
 
 ![Playa de la Caleta, en Cádiz capital.](https://fotos.etheriamagazine.com/2023/03/que-ver-cadiz-la-caleta.jpg "Playa de la Caleta, en Cádiz capital.")
 
-### El Puerto de Santa María y Jerez
+## El Puerto de Santa María y Jerez
 
 Para los amantes del vino, dos excursiones desde Conil que merecen la pena son El Puerto 
 de Santa María y Jerez de la Frontera. Por sus dimensiones y atractivos incluso puedes 
@@ -167,9 +165,9 @@ vino](https://etheriamagazine.com/2021/11/01/guia-imprescindible-el-puerto-santa
 [Viaje con amigas a Jerez, el arte del buen 
 vivir](https://etheriamagazine.com/2020/06/10/viajes-por-espana-jerez-sola-o-con-amigas/). 
 
-![plaza de espana el puerto cadiz](https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria-900x464.jpg "Plaza de España, en El Puerto de Santa María.")
+![plaza de espana el puerto cadiz](https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria.jpg "Plaza de España, en El Puerto de Santa María.")
 
-### Sanlúcar de Barrameda
+## Sanlúcar de Barrameda
 
 Sanlúcar de Barrameda es otra joya costera que también hay que valorar entre las 
 excursiones desde Conil. Esta ciudad histórica y marinera brinda una rica tradición 
@@ -191,7 +189,7 @@ Barrameda](https://etheriamagazine.com/2022/05/11/donde-comer-sanlucar-de-barram
 
 ![Langostinos de Sanlúcar de Barrameda.](https://fotos.etheriamagazine.com/2022/01/langostino-sanlucar-cadiz.jpg "Langostinos de Sanlúcar de Barrameda. © Turismo Andaluz")
 
-### Arcos de la Frontera
+## Arcos de la Frontera
 
 Viajando tierra adentro desde Conil, a unos 80 kilómetros, llegarás a Arcos de la 
 Frontera, un pueblo blanco encaramado a un acantilado rocoso que ofrece vistas 
@@ -204,7 +202,7 @@ Cádiz](https://etheriamagazine.com/2018/11/02/ruta-por-los-pueblos-blancos-de-c
 
 ![Arcos de la Frontera, puerta de entrada a los pueblos blancos](https://fotos.etheriamagazine.com/2023/08/excursion-arcos-frontera.jpg "Arcos de la Frontera. © Turismo Andaluz")
 
-### Tánger
+## Tánger
 
 Si buscas una experiencia internacional, una de las excursiones desde Conil más 
 habituales es a Tánger. A esta ciudad marroquí, situada en la costa norte de África, se 

@@ -22,7 +22,7 @@ había conseguido convertirse en una de las 131 mujeres _Master of Wine_ que exi
 todo el mundo, la primera española en conseguirlo, me pareció una de las mejores 
 noticias de todos los tiempos. 
 
-![Almudena Alberca](https://fotos.etheriamagazine.com/2018/10/AlmudenaAlberca_WINEMAKER_VINAMAYOR-1-1024x683.jpg "Almudena Alberca es la primera mujer Master of Wine española.")
+![Almudena Alberca](https://fotos.etheriamagazine.com/2018/10/AlmudenaAlberca_WINEMAKER_VINAMAYOR-1.jpg "Almudena Alberca es la primera mujer Master of Wine española.")
 
 Aunque, siendo realistas, si echamos un vistazo a su currículum, no debería extrañarnos. 
 Y es que a esta **licenciada en Enología y diplomada en Ingeniería Técnica Agrícola**, 
@@ -56,7 +56,7 @@ para entrenar el reconocimiento y análisis de vino. Por otro lado, también tuv
 preparar una parte teórica en base a los 5 exámenes con revistas internacionales, 
 publicaciones, libros, etc. 
 
-![Uvas en un viñedo](https://fotos.etheriamagazine.com/2018/10/uvas-1024x768.jpg "Uvas en un viñedo.")
+![Uvas en un viñedo](https://fotos.etheriamagazine.com/2018/10/uvas.jpg "Uvas en un viñedo.")
 
 ### ¿Qué supone para usted el ser una de las de las 380 personas que tienen este título a nivel mundial? ¿Y ser una de las 131 mujeres MW?
 
@@ -76,7 +76,7 @@ Tendremos que descubrirlo juntos, lo que sí que imagino –y espero– es que r
 carrera y afiance mi trayectoria. También espero seguir cumpliendo sueños elaborando 
 vinos maravillosos de Castilla y León y España. 
 
-![imágenes de Almudena Alberca](https://fotos.etheriamagazine.com/2018/10/fotos-almudena-alberca-1024x749.jpg "Almudena Alberca está licenciada en Enología y diplomada en Ingeniería Técnica Agrícola.")
+![imágenes de Almudena Alberca](https://fotos.etheriamagazine.com/2018/10/fotos-almudena-alberca.jpg "Almudena Alberca está licenciada en Enología y diplomada en Ingeniería Técnica Agrícola.")
 
 ### En unos días, participará en unas charlas con otros MW, enólogos y prescriptores. La suya tratará sobre la dicotomía "Natural versus Tecnología". ¿Puede adelantarnos su posición al respecto?
 
@@ -105,7 +105,7 @@ empresa.
 Feliz, haciendo muchos vinos, algunos de ellos propios, sobre todo de guarda, que me 
 encantan. También ayudando a mejorar proyectos de vino y viajando. 
 
-![Viñedo](https://fotos.etheriamagazine.com/2018/10/vinas-en-otono-1024x684.jpg "Viñedo.")
+![Viñedo](https://fotos.etheriamagazine.com/2018/10/vinas-en-otono.jpg "Viñedo.")
 
 ### ¿Y el sector del vino? ¿Y España?
 
@@ -120,7 +120,7 @@ El cambio climático y la adaptación del sector, la comunicación del país y l
 profesionalización constante, realizando una formación del sector y del consumidor, para 
 que pueda evolucionar conjuntamente con el negocio del vino. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Ruta del Vino de Arribes, energía femenina de alto 
 voltaje](https://etheriamagazine.com/2023/04/19/ruta-del-vino-de-arribes/) 

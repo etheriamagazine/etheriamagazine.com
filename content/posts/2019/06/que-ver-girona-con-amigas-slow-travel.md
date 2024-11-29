@@ -168,7 +168,7 @@ gerundés a través de una experiencia natural que te reconecta con tu lado más
 
 ![bosque de La Garrotxa](https://fotos.etheriamagazine.com/2019/06/viaje-girona-banos-bosque.jpg "Baños de bosque.")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Empordà, busca la esencia mediterránea en la Costa 
 Brava](https://etheriamagazine.com/2020/08/21/10-planes-comarca-ampurdan-costa-brava/) 

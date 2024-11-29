@@ -12,7 +12,7 @@ authors:
 
 Aún quedan escapadas cercanas y sorprendentes, como la Ruta del Vino de la Sierra de Francia, donde se combinan paisajes, pueblos encantadores, rutas naturales, buena gastronomía, y ¡cómo no! un buen número de bodegas. Este es uno de los planes con amigas en la provincia de Salamanca que no podrás rechazar.
 
-![Mogarraz ruta del vino sierra de francia](https://fotos.etheriamagazine.com/2021/08/mogarraz-paseo-ruta-sierra-francia-729x1024.jpg "Mogarraz forma parte de la Ruta del Vino de la Sierra de Francia. © Pepa G.")
+![Mogarraz ruta del vino sierra de francia](https://fotos.etheriamagazine.com/2021/08/mogarraz-paseo-ruta-sierra-francia.jpg "Mogarraz forma parte de la Ruta del Vino de la Sierra de Francia. © Pepa G.")
 
 Si no eres de Castilla y León o muy amante de los vinos, puede que te cueste ubicar 
 dónde se encuentra la [Ruta del Vino de la Sierra de 

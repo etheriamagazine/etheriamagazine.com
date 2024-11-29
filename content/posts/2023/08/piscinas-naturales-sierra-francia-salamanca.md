@@ -15,7 +15,7 @@ apetecibles en Salamanca son las pozas, ríos y piscinas naturales de la Sierra 
 Francia. Esta tierra rica en cultura, naturaleza, gastronomía y vinos, es también un 
 planazo para una escapada de interior en verano. 
 
-![Piscina natural de Montemayor del Río.](https://fotos.etheriamagazine.com/2023/08/piscina-natural-montemayor-rio-salamanca-850x638.jpg "Piscina natural de Montemayor del Río. © Pepa García")
+![Piscina natural de Montemayor del Río.](https://fotos.etheriamagazine.com/2023/08/piscina-natural-montemayor-rio-salamanca.jpg "Piscina natural de Montemayor del Río. © Pepa García")
 
 Para enamorarse de la Sierra de Francia basta dejarse llevar por sus carreteras 
 secundarias y darse el capricho de parar en cada uno de sus quince pueblos o en sus 
@@ -26,7 +26,7 @@ forjando parajes de gran belleza. Algunos de éstos se sitúan en entornos donde
 merenderos e incluso servicio de restaurante, una ocasión excepcional para degustar la 
 sabrosa cocina serrana y sus vinos realizados con la uva autóctona, la rufete. 
 
-?**No te pierdas el artículo:** [Ruta del Vino de la Sierra de Francia, un brindis con 
+📍**No te pierdas el artículo:** [Ruta del Vino de la Sierra de Francia, un brindis con 
 amigas en 
 Salamanca](https://etheriamagazine.com/2021/08/11/plan-con-amigas-ruta-del-vino-sierra-de-francia/). 
 
@@ -73,7 +73,7 @@ alquilar una embarcación. Y para recuperar fuerzas, nada mejor que probar las d
 caseras que preparan en el restaurante y el chiringuito. Este es uno de esos lugares que 
 pocos conocen fuera de la región. 
 
-?No dejes de explorar el entorno porque casi en cada recodo se descubren sorpresas como 
+📍No dejes de explorar el entorno porque casi en cada recodo se descubren sorpresas como 
 las pozas naturales del río Batuecas (entre el monasterio del Santo Desierto de San José 
 y el canchal de las Cabras Pintadas), entre las cuales destaca el **Charco del Rey**. 
 

@@ -157,7 +157,7 @@ y la emoción, en concreto las conectadas con sentimientos de empatía, mostraro
 de sangre sustancialmente mayor en comparación con las áreas cerebrales observadas en 
 individuos con baja sensibilidad. 
 
-![libro el don de la sensibilidad para pas](https://fotos.etheriamagazine.com/2020/11/don-sensibilidad-elaine-aron-683x1024.jpg "'El don de la sensibilidad', de Elaine Aron.")
+![libro el don de la sensibilidad para pas](https://fotos.etheriamagazine.com/2020/11/don-sensibilidad-elaine-aron.jpg "'El don de la sensibilidad', de Elaine Aron.")
 
 Si quieres saber más sobre las Personas Altamente Sensibles, puedes seguir los trabajos 
 de Elaine Aron, que ya describió la alta sensibilidad en 1995. Esta psicóloga, que 

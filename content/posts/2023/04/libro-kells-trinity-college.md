@@ -109,7 +109,7 @@ agenda musical del campus entre el 26 de junio y el 2 de julio. Este verano actu
 bandas tan renombradas como _Texas_, _The War on Drugs_ o _Madness_ y no tendréis ni que 
 salir del recinto de la universidad para disfrutar de su música. Planazo. 
 
-? **También os puede interesar...** 
+📌 **También os puede interesar...** 
 
 [Viaja sola o con amigas a Dublín, un plan 
 perfecto](https://etheriamagazine.com/2020/03/09/viaje-sola-con-amigas-que-ver-en-dublin/) 

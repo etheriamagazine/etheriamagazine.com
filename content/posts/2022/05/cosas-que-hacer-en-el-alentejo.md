@@ -126,7 +126,7 @@ región tienes un buen número de opciones tanto a pie como en bicicleta. Durant
 primavera es un placer recorrer el Camino Histórico, por el interior, o el Camino de los 
 Pescadores por la costa. 
 
-? En este artículo de la “[Ruta Vicentina, senderismo en Alentejo y 
+📌 En este artículo de la “[Ruta Vicentina, senderismo en Alentejo y 
 Algarve](https://etheriamagazine.com/2018/07/25/ruta-vicentina-en-alentejo-y-algarve-mujeres-aventura-portugal/)” 
 te los ampliamos con detalle. 
 
@@ -140,7 +140,7 @@ que no te acerques no te darás cuenta de la pasión con la que elaboran sus vin
 Anímate a realizar una visita guiada con cata para conocer los ricos vinos alentejanos. 
 No te pierdas las vistas desde su azotea ni los ricos productos gourmet de su tienda. 
 
-![Vinos de la bodega Adega Mayor.](https://fotos.etheriamagazine.com/2018/11/adega-mayor-bodega-alentejo-1024x648.jpg "Vinos de la bodega Adega Mayor. © Etheria Magazine")
+![Vinos de la bodega Adega Mayor.](https://fotos.etheriamagazine.com/2018/11/adega-mayor-bodega-alentejo.jpg "Vinos de la bodega Adega Mayor. © Etheria Magazine")
 
 ### 10\. Probar el arroz de Alcácer do Sal
 

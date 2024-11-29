@@ -12,7 +12,7 @@ authors:
 
 India es uno de los destinos más sorprendentes que una mujer puede visitar durante su vida. Con más de 1.240 millones de habitantes y una sociedad bastante conservadora, este viaje, ya sea sola o en compañía, debe planearse a conciencia para evitar situaciones incómodas para las viajeras. La precaución y estar preparada para lidiar con cualquier situación son las claves para disfrutar, de forma tranquila y segura, de uno de esos países que no dejan indiferente.
 
-![mujer india haciendo cerámica](https://fotos.etheriamagazine.com/2018/10/viajes-mujeres-india-artesania-1024x732.jpg "Mujer en un puesto de artesanía en India.")
+![mujer india haciendo cerámica](https://fotos.etheriamagazine.com/2018/10/viajes-mujeres-india-artesania.jpg "Mujer en un puesto de artesanía en India.")
 
 No es sencillo ser mujer en India y, por esta misma razón, no es sencillo ser viajera en 
 India. El segundo país más poblado del mundo ofrece bullicio, pobreza, sufrimiento, 
@@ -57,7 +57,7 @@ triángulo dorado de India–, a la que podrían añadirse Varanasi (Benarés) y
 tenéis más tiempo o volvéis a India, no olvidéis Jodhpur, Udaipur, Goa, Allepey, Kochin 
 y la grandiosa Bombay. 
 
-![niña india con vaca](https://fotos.etheriamagazine.com/2018/10/viaje-mujeres-delhi-1024x582.jpg "Calles de Delhi (India).")
+![niña india con vaca](https://fotos.etheriamagazine.com/2018/10/viaje-mujeres-delhi.jpg "Calles de Delhi (India).")
 
 #### Ciudades del norte de la India
 
@@ -81,7 +81,7 @@ Otra enriquecedora experiencia en Delhi es asistir al comedor comunitario del **
 de Sij**, al que acuden miles de personas cada día para recibir un almuerzo elaborado 
 por voluntarios. 
 
-![terrazas del palacio de Jaipur](https://fotos.etheriamagazine.com/2018/10/jaipur-viaje-mujeres-india-1024x682.jpg "A Jaipur se le conoce como 'la ciudad rosa'.")
+![terrazas del palacio de Jaipur](https://fotos.etheriamagazine.com/2018/10/jaipur-viaje-mujeres-india.jpg "A Jaipur se le conoce como 'la ciudad rosa'.")
 
 ##### Jaipur
 
@@ -95,7 +95,7 @@ compras, como coloridas babuchas, pequeñas joyas, perfumes, saris y otros tejid
 ensueño. Tampoco perdáis la oportunidad de pasar una tarde viendo una auténtica película 
 de Bollywood en el precioso cine Raj Mandir. 
 
-![fuente del Taj Mahal](https://fotos.etheriamagazine.com/2018/10/viajes-india-mujeres-taj-mahal-1024x610.jpg "El Taj Mahal es uno de los monumentos más visitados del mundo.")
+![fuente del Taj Mahal](https://fotos.etheriamagazine.com/2018/10/viajes-india-mujeres-taj-mahal.jpg "El Taj Mahal es uno de los monumentos más visitados del mundo.")
 
 ##### Agra
 
@@ -112,7 +112,7 @@ Otra parada imprescindible es la antigua ciudad mogol de **Fatehpur Sikri**, a l
 afueras de Agra. Estas construcciones fueron la capital de este imperio durante 14 años 
 (entre 1571 y 1585), formando un bello ejemplo de ciudad amurallada. 
 
-![mujeres en Benarés](https://fotos.etheriamagazine.com/2018/10/ganges-varanasi-mujeres-india-1024x682.jpg "Ritual en Varanasi o Benarés, en India.")
+![mujeres en Benarés](https://fotos.etheriamagazine.com/2018/10/ganges-varanasi-mujeres-india.jpg "Ritual en Varanasi o Benarés, en India.")
 
 ##### Varanasi
 
@@ -122,7 +122,7 @@ los rituales funerarios tan característicos del país. Asistir a una de estas c
 sagradas es una experiencia tan fascinante como enriquecedora con la que acercarse aún 
 más a la cultura, la historia y las tradiciones del país. 
 
-![templo Bada Bagh al atardecer en Jaisalmer.](https://fotos.etheriamagazine.com/2018/10/viaje-mujeres-bada-bagh-jaisalmer-1024x682.jpg "Bada Bagh es una de las excursiones recomendables desde Jaisalmer.")
+![templo Bada Bagh al atardecer en Jaisalmer.](https://fotos.etheriamagazine.com/2018/10/viaje-mujeres-bada-bagh-jaisalmer.jpg "Bada Bagh es una de las excursiones recomendables desde Jaisalmer.")
 
 ##### Jaisalmer
 
@@ -152,7 +152,7 @@ justo. Como ventaja para las féminas, existen algunos **vagones habilitados sol
 mujeres**, una muy buena opción si queremos viajar más tranquilas y evitar miradas 
 descaradas y manoseos innecesarios. 
 
-![hombre con turbante sij asomado en un tren en India](https://fotos.etheriamagazine.com/2018/10/trenes-india-viajes-1024x695.jpg "Tren en la India.")
+![hombre con turbante sij asomado en un tren en India](https://fotos.etheriamagazine.com/2018/10/trenes-india-viajes.jpg "Tren en la India.")
 
 #### Viajar en tours o grupos organizados
 

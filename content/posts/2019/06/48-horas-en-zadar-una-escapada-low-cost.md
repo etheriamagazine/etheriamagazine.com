@@ -146,7 +146,7 @@ Trata de que te asignen una habitación con ventanas a la iglesia de San Donato.
 hotel al órgano del mar tardas menos de 10 minutos y está junto a una calle comercial 
 muy animada. Hab. compartida desde 16 €. 
 
-#### ? Consejos para viajar a Croacia
+#### 📌 Consejos para viajar a Croacia
 
 1\. No necesitas visado si tienes pasaporte de algún país de la UE. 2\. Puedes conducir 
 en Croacia con tu permiso español. 3\. La tarjeta sanitaria de la UE es válida. 4\. Es 

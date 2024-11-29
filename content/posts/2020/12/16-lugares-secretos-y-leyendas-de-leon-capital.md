@@ -123,7 +123,7 @@ deambula el **fantasma de un conde** que habitó en el castillo y que se ocupaba
 defensa de las murallas de León. Dicen que todavía se escuchan los murmullos que salen 
 del alma en pena de este aristócrata. 
 
-![tapeo en leon, taberna benito](https://fotos.etheriamagazine.com/2020/12/Leon-vino-cecina-683x1024.jpg "El buen tapeo en León no es ningún secreto. © Ayto. de León")
+![tapeo en leon, taberna benito](https://fotos.etheriamagazine.com/2020/12/Leon-vino-cecina.jpg "El buen tapeo en León no es ningún secreto. © Ayto. de León")
 
 ## 9\. Barrio Romántico de León
 

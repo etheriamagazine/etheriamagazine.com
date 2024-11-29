@@ -11,7 +11,7 @@ authors:
 
 De risa fácil, curiosa, inquieta y con ese brillo en los ojos de las personas apasionadas que se enfrentan a la vida con ilusión y con la mente abierta. Ángeles Alonso-Misol, responsable de comunicación de la 'Oficina de Turismo de Bélgica: Flandes y Bruselas' en España, se dedica desde hace más de 20 años al mundo de los viajes y tiene mucho que contarnos.
 
-![Ángeles Alonso-Misol frente a un edificio](https://fotos.etheriamagazine.com/2018/12/Angeles-alonso-Mexico-1024x754.jpg "Ángeles Alonso-Misol en un viaje a México.")
+![Ángeles Alonso-Misol frente a un edificio](https://fotos.etheriamagazine.com/2018/12/Angeles-alonso-Mexico.jpg "Ángeles Alonso-Misol en un viaje a México.")
 
 Formada en _Marketing y Comunicación aplicados al turismo y al patrimonio cultural_, 
 dirigió su carrera hacia el sector turístico desde sus inicios. Sus raíces belgas 
@@ -45,7 +45,7 @@ hacer realidad los viajes con los que sueñan sin buscar excusas para posponerlo
 esto no me refiero solo a viajes exóticos, lejanos o costosos. Incluso la escapada más 
 corta vale la pena, todos los destinos tienen algo que ofrecer. 
 
-![Ángeles Alonso-Misol en Tailandia](https://fotos.etheriamagazine.com/2018/12/angeles-alonso-tailandia-1024x568.jpg "Ángeles Alonso-Misol en un viaje a Tailandia.")
+![Ángeles Alonso-Misol en Tailandia](https://fotos.etheriamagazine.com/2018/12/angeles-alonso-tailandia.jpg "Ángeles Alonso-Misol en un viaje a Tailandia.")
 
 ##### 4\. Si pudieses elegir un compañero de viaje. ¿Quién sería y por qué?
 
@@ -80,7 +80,7 @@ miro las pantallas para descubrir otros destinos y comprobar el estado de mi vue
 Qué difícil pregunta, todos los viajes que he hecho me han parecido maravillosos. El 
 mejor viaje de mi vida es, entonces, mi vida ¡que los contiene todos! 
 
-![Ángeles Alonso-Mison durante un viaje a China.](https://fotos.etheriamagazine.com/2018/12/Angeles-alonso-Shanghai-1024x751.jpg "Ángeles Alonso-Misol en un viaje a Shanghai.")
+![Ángeles Alonso-Mison durante un viaje a China.](https://fotos.etheriamagazine.com/2018/12/Angeles-alonso-Shanghai.jpg "Ángeles Alonso-Misol en un viaje a Shanghai.")
 
 ##### 8\. ¿Y tu último viaje? ¿Qué es lo que más y lo que menos te ha gustado de ese destino?
 
@@ -110,7 +110,7 @@ salsa huancaína, la alta cocina de **México**, la riqueza de la gastronomía j
 Recuerdo un viaje en el que iba con dolor de estómago, pero eso no fue impedimento para 
 comerla, ¡qué delicia en días de frío! 
 
-![Plato de tallarines, soja y gambas](https://fotos.etheriamagazine.com/2018/12/pad-thai-tailandia-1024x682.jpg "Uno de los platos favoritos de Ángeles Alonso-Misol es el pad thai.")
+![Plato de tallarines, soja y gambas](https://fotos.etheriamagazine.com/2018/12/pad-thai-tailandia.jpg "Uno de los platos favoritos de Ángeles Alonso-Misol es el pad thai.")
 
 > “Disfruto mucho descubriendo la gastronomía local de los sitios a los que viajo, incluso 
 > cuando no tenga idea de qué estoy comiendo, como me ha pasado algunas veces en China” 
@@ -133,7 +133,7 @@ Libro, bolígrafo, papel, cámara de fotos, guía, mapa, _kleenex_, teléfono, c
 las direcciones de personas queridas a las que siempre envío postales cuando estoy de 
 viaje. 
 
-![Ángeles Alonso-Misol en un viaje África](https://fotos.etheriamagazine.com/2018/12/angeles-alonso-sudafrica-1-1024x702.jpg "Ángeles Alonso-Misol en un viaje a Sudáfrica.")
+![Ángeles Alonso-Misol en un viaje África](https://fotos.etheriamagazine.com/2018/12/angeles-alonso-sudafrica-1.jpg "Ángeles Alonso-Misol en un viaje a Sudáfrica.")
 
 ##### 15\. ¿Escribes un listado antes de hacer la maleta? ¿Cuáles son tus cinco imprescindibles?
 

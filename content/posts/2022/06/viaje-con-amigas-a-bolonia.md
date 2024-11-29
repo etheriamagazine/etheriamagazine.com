@@ -132,7 +132,7 @@ escuela de helado en el mundo y punto de referencia del sector heladero. Los cur
 imparten en varios idiomas por instructores que se encuentran entre los mejores del 
 mundo. Puedes consultar fechas y precios en [www.gelatouniversity.com](http://www.gelatouniversity.com) 
 
-![helados en Bolonia](https://fotos.etheriamagazine.com/2022/06/helado-Carpigiani-Gelato-683x1024.jpg "Helados en la Universidad de Carpigiani Gelato. © Carpigiani Gelato Museum")
+![helados en Bolonia](https://fotos.etheriamagazine.com/2022/06/helado-Carpigiani-Gelato.jpg "Helados en la Universidad de Carpigiani Gelato. © Carpigiani Gelato Museum")
 
 ### 8\. No puede faltar un mercadillo
 

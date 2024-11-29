@@ -27,7 +27,7 @@ las dos experiencias. Eso sí, es obligatorio que te asomes a la Garganta de Dia
 parte más caudalosa) y que te subas a una de las lanchas que te acercan a la base de la 
 catarata. La experiencia es indescriptible pero... ¡prepárate para mojarte! 
 
-![Cascadas en África](https://fotos.etheriamagazine.com/2020/11/cataras-victoria-683x1024.jpg "Cataratas Victoria. © Jason Zhao")
+![Cascadas en África](https://fotos.etheriamagazine.com/2020/11/cataras-victoria.jpg "Cataratas Victoria. © Jason Zhao")
 
 ## 2\. Cataratas Victoria
 

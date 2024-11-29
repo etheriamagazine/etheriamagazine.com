@@ -35,7 +35,7 @@ escarpa del Niágara; el condado del Príncipe Eduardo; Niagara-on-the-Lake y lo
 llaman zonas emergentes que incluyen viñedos cerca de Long Point; los huertos de Oak 
 Ridges Moraine (al norte de Toronto), Georgian Bay y las colinas de Northumberland. 
 
-![cataratas niagara, enoturismo en niagara, viajes de vinos canada](https://fotos.etheriamagazine.com/2018/11/cataratas-niagara-canada-etheria-1024x666.jpg "¿Qué te parece combinar una visita a las cataratas del Niágara con catas de icewine en algunas bodegas?")
+![cataratas niagara, enoturismo en niagara, viajes de vinos canada](https://fotos.etheriamagazine.com/2018/11/cataratas-niagara-canada-etheria.jpg "¿Qué te parece combinar una visita a las cataratas del Niágara con catas de icewine en algunas bodegas?")
 
 ## Enoturismo en Niagara-on-the-Lake
 

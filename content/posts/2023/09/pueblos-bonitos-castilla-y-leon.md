@@ -119,7 +119,7 @@ atractivo que distingue a Urueña de otros pueblos castellanos es que es una de 
 bibliófilos. No te pierdas tampoco el **Centro e-LEA Miguel Delibes** y sus curiosos 
 museos. 
 
-![castillo uruena, villa del libro, escapadas valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-villa-del-libro-castillo-valladolid-900x605.jpg "Panorámica con el castillo de Urueña al fondo. © Pedro Grifol")
+![castillo uruena, villa del libro, escapadas valladolid](https://fotos.etheriamagazine.com/2020/05/Uruena-villa-del-libro-castillo-valladolid.jpg "Panorámica con el castillo de Urueña al fondo. © Pedro Grifol")
 
 ✅ [Conoce Urueña, un pueblo ‘de libro’ en 
 Valladolid](https://etheriamagazine.com/2020/05/22/viajes-por-espana-uruena-un-pueblo-de-libro-en-valladolid/) 
@@ -205,7 +205,7 @@ vistas espectaculares de los alrededores. Y para dar un paseo, nada como acercar
 
 ![Calle de Calatañazor.](https://fotos.etheriamagazine.com/2023/09/calatanazor-soria.jpg "Calle de Calatañazor.")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Ruta del lechazo: los mejores asadores de Castilla y 
 León](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/) 

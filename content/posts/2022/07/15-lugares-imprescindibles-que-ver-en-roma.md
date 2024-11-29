@@ -97,16 +97,16 @@ artista Rafael.
 
 ![Cúpula del Pateón de Roma un lugar imprescindible de Roma](https://fotos.etheriamagazine.com/2022/07/Roma-panteon.jpg "Interior del Panteón de Roma. © SG")
 
-? **Entradas**: existen entradas conjuntas al Coliseo, Foro Romano, Palatino y Museos 
+📍 **Entradas**: existen entradas conjuntas al Coliseo, Foro Romano, Palatino y Museos 
 Capitolinos y hay que comprarlas en la web del **Parco Archeologico del Colosseo** 
 (parcocolosseo.it), donde también podrás descargar mapas con rutas turísticas para 
 aprovechar el tiempo. La entrada al Panteón es gratuita y no se puede reservar, no hay 
 más remedio que hacer la fila. 
 
-? **Nota gastro**: a medio camino entre la zona del Coliseo y el Foro Romano y el centro 
-de Roma se encuentra uno de los restaurantes con mejores pizzas de Roma, la Pizzeria 
-Emma (ww.emmapizzeria.com), una institución local y uno de los pocos lugares donde 
-podrás comer buena pizza en una mesa, ya que lo habitual es venderla para llevar. 
+📌 **Nota gastro**: a medio camino entre la zona del Coliseo y el Foro Romano y el 
+centro de Roma se encuentra uno de los restaurantes con mejores pizzas de Roma, la 
+Pizzeria Emma (ww.emmapizzeria.com), una institución local y uno de los pocos lugares 
+donde podrás comer buena pizza en una mesa, ya que lo habitual es venderla para llevar. 
 Imprescindible reservar. 
 
 ### Roma Cristiana
@@ -136,7 +136,7 @@ cripta de Veneranda, el Hipogeo de los Flavios o el cubículo de Orfeo. Son tan 
 que los arqueólogos desistieron en sus intentos de trasladarlos a los museos ya que se 
 deshacían casi solo con tocarlos. 
 
-? **Sugerencia**: puedes visitar también las **Catacumbas de San Calixto**, la más 
+📍 **Sugerencia**: puedes visitar también las **Catacumbas de San Calixto**, la más 
 cercana a Roma y la más antigua. Aquí fueron enterrados los primeros papas de Roma. No 
 te pierdas la Cripta de los Papas y la Cripta de Santa Cecilia. 
 
@@ -195,7 +195,7 @@ alquilar allí mismo una bicicleta para recorrerlo.
 
 ![parque de villa Borghese en primavera](https://fotos.etheriamagazine.com/2022/07/Roma-villa-borghese.jpg "Paseo en Villa Borghese. © SG")
 
-? **Nota gastro**: el centro de Roma está lleno de restaurantes, algunos demasiado 
+📌 **Nota gastro**: el centro de Roma está lleno de restaurantes, algunos demasiado 
 enfocados a los turistas. Si quieres comer bien de verdad y no equivocarte y no te 
 importa gastar un poco más, tienes que reservar en **Life** (www.ristorantelife.com). Te 
 aseguramos que no te arrepentirás. 
@@ -239,11 +239,11 @@ Paola, del siglo XVIII. Además de la iglesia de San Pietro in Montorio.
 
 ![Perfil de Roma](https://fotos.etheriamagazine.com/2022/07/Roma-Giannicolo-vistas.jpg "Vistas desde el mirador del Gianicolo. © SG")
 
-? **Idea en el Trastevere**: si tienes tiempo acércate a la **iglesia de San Francesco a 
-Ripa** que guarda una obra maravillosa de Bernini, el 'Éxtasis de la beata Ludovica 
+📍 **Idea en el Trastevere**: si tienes tiempo acércate a la **iglesia de San Francesco 
+a Ripa** que guarda una obra maravillosa de Bernini, el 'Éxtasis de la beata Ludovica 
 Albertoni'. 
 
-? **Nota Gastro**: la oferta de restaurantes en el Trastevere es casi infinita. Dos 
+📌 **Nota Gastro**: la oferta de restaurantes en el Trastevere es casi infinita. Dos 
 apuestas seguras son la **Taverna Trilussa** (tavernatrilussa.com), con una excelente 
 pasta, y la **Enoteca Ferrara** (enotecaferrara.com), con propuestas originales en su 
 carta. 
@@ -285,7 +285,7 @@ capilla barroca y la capilla gregoriana, son algunos de sus rincones de parada o
 
 ![El Vaticano](https://fotos.etheriamagazine.com/2022/07/Roma-cupula-san-pedro.jpg "Cúpula de San Pedro desde los Museos Vaticanos. © SG")
 
-?**Consejo**: merece la pena apuntarse a alguna de las visitas guiadas que se realizan 
+📍**Consejo**: merece la pena apuntarse a alguna de las visitas guiadas que se realizan 
 en distintos idiomas a varias horas del día o al menos hacerse con una audioguía para 
 aprovechar la visita (la puedes recoger tras los controles de seguridad). Es 
 **imprescindible hacer la fila** para entrar pero, aunque parezca larga, va rápido. 
@@ -310,14 +310,14 @@ por el río de gente, hacerse a un lado y detenerse a contemplar todos los detal
 puedas en el techo y las paredes. Todas las pinturas muestran la similitud entre la vida 
 de Moisés y la de Jesucristo y muestran en imágenes la historia de la Salvación narrada 
 en la Biblia. Tienes que dedicar un rato a observar la pared principal, con la obra el 
-Juicio Final, y el techo, ambos elementos con pinturas de Miguel Ángel. ? **Nota 
+Juicio Final, y el techo, ambos elementos con pinturas de Miguel Ángel. 📌 **Nota 
 gastro**: si llevas varios días en Roma y estás cansada de tanta pasta y pizza, acércate 
 al **restaurante Re-Bio** (rebio.it) en el Vaticano. Podrás comer algo ligero, saludable 
 y a buen precio. 
 
 #### Guía de viaje y dudas frecuentes para un viaje a Roma
 
-##### ? ¿Cómo organizar un viaje a Roma?
+##### 📍 ¿Cómo organizar un viaje a Roma?
 
 La mejor manera de moverse por Roma es caminando para no perderse nada. Así que lo más 
 conveniente es organizar el viaje a Roma dividiendo la ciudad por zonas y dedicar un día 
@@ -327,7 +327,7 @@ cuenta que a **Villa Borghese** tendrás que dedicarle al menos un par de horas 
 **Catacumbas** otras dos horas (para llegar a ellas la mejor opción es un taxi o una 
 visita organizada) 
 
-##### ? ¿Dónde me puedo alojar en Roma?
+##### 📍 ¿Dónde me puedo alojar en Roma?
 
 La oferta hotelera en Roma es enorme. Hay hoteles de todas las categorías y también 
 apartamentos turísticos. Lo mejor es alojarse en el centro para no tener que perder 
@@ -337,7 +337,7 @@ Agripina](https://etheriamagazine.com/2022/05/30/hotel-gran-melia-villa-agrippin
 un hotel de cinco estrellas con piscina en un entorno muy tranquilo y a un paso del 
 centro. 
 
-##### ?¿Cómo visitar Roma?
+##### 📍¿Cómo visitar Roma?
 
 En una ciudad como Roma es casi fundamental realizar algunas visitas con guías 
 turísticos para que te ayuden a comprender su densa historia. Puedes preguntar en el 

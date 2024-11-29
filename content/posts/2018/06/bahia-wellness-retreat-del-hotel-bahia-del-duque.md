@@ -13,7 +13,7 @@ bienestar que puedas encontrar en un establecimiento hotelero: el Bahía Wellnes
 Retreat. En el mismo, ofrece numerosos rincones donde el descanso y el _relax_ se 
 alcanzan sin darte cuenta**. 
 
-![piscina del Spa del hotel Bahía del duque en Tenerife](https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque-1024x668.jpg "Spa del hotel Bahía del Duque.")
+![piscina del Spa del hotel Bahía del duque en Tenerife](https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque.jpg "Spa del hotel Bahía del Duque.")
 
 El hotel Bahía del Duque (5\*GL) celebra su 30 aniversario en 2023. Estas tres décadas 
 le han dado “solera” y han forjado una identidad propia difícilmente superable por los 
@@ -32,13 +32,13 @@ y 2 VIP suites. Estas dos últimas son espacios muy especiales donde se pueden r
 tratamientos en pareja en total intimidad, con un patio privado, zona de relax y bañeras 
 para tratamientos a medida. 
 
-![Cabina privada del spa del hotel Bahía del Duque](https://fotos.etheriamagazine.com/2018/06/Suite-privada-Bahiadelduque-1024x682.jpg "Suite privada para tratamientos en pareja.")
+![Cabina privada del spa del hotel Bahía del Duque](https://fotos.etheriamagazine.com/2018/06/Suite-privada-Bahiadelduque.jpg "Suite privada para tratamientos en pareja.")
 
 Los tratamientos se realizan bajo la marca **Natura Bissé**, que cuenta con una 
 selección de ingredientes de alta calidad y concentración que combinan la innovación 
 tecnológica con terapias tradicionales de diferentes culturas. 
 
-![masaje con piedras calientes](https://fotos.etheriamagazine.com/2018/06/Spa-Tratamientos-Bahiadelduque-1024x683.jpg "Relax en el spa del hotel Bahía del Duque.")
+![masaje con piedras calientes](https://fotos.etheriamagazine.com/2018/06/Spa-Tratamientos-Bahiadelduque.jpg "Relax en el spa del hotel Bahía del Duque.")
 
 La amplitud de este espacio le permite disponer de un **área de fitness**, una zona de 
 **fisioterapia** y un completo y agradable **circuito termal al aire libre** con agua 
@@ -56,7 +56,7 @@ disfrutar de un exclusivo circuito spa, el **Thai Tonic Buffet** (con menú de a
 y tés frutales) y la sala de meditación **Kuti Area**, donde los sonidos de los cuencos 
 tibetanos y las flautas ayudan a encontrar la paz interior. 
 
-![Cabina del Thai Room Spa.](https://fotos.etheriamagazine.com/2018/06/Thai-Room-Spa-Bahiadelduque-1024x680.jpg "Cabina del Thai Room Spa.")
+![Cabina del Thai Room Spa.](https://fotos.etheriamagazine.com/2018/06/Thai-Room-Spa-Bahiadelduque.jpg "Cabina del Thai Room Spa.")
 
 ## Fitness Centre
 
@@ -65,7 +65,7 @@ vacaciones con el ejercicio físico. Cuenta con un programa de clases de Yoga y 
 una zona para la práctica de Kinesis, una técnica que permite realizar ejercicio 
 mediante un complejo sistema de poleas y cables. 
 
-![maquina de pilates en el Bahía del Duque](https://fotos.etheriamagazine.com/2018/06/Bahia-Wellness-Retreat-Pilates-1-1024x684.jpg "Pilates en el Bahía Wellness Retreat.")
+![maquina de pilates en el Bahía del Duque](https://fotos.etheriamagazine.com/2018/06/Bahia-Wellness-Retreat-Pilates-1.jpg "Pilates en el Bahía Wellness Retreat.")
 
 ## Área de fisioterapia
 
@@ -81,7 +81,7 @@ Para aquellos que quieran dedicar el día a cuidarse, nada mejor que combinar al
 tratamiento en el Bahía Wellness Retreat con una comida en el Garden Café. Este 
 restaurante ofrece una selección de platos saludables, tés y zumos naturales. 
 
-![zona exterior del spa del bahía del Duque](https://fotos.etheriamagazine.com/2018/06/Spa-Cabinas-Exteriores-Bahiadelduque-1024x683.jpg "Cabinas exteriores del Bahía Wellness Retreat")
+![zona exterior del spa del bahía del Duque](https://fotos.etheriamagazine.com/2018/06/Spa-Cabinas-Exteriores-Bahiadelduque.jpg "Cabinas exteriores del Bahía Wellness Retreat")
 
 [Hotel Bahía del Duque (5\*GL)](https://thetaishotels.com/bahia-del-duque/) 
 
@@ -91,7 +91,7 @@ Teléfono: +34 922 746 900
 
 A 15 km del Aeropuerto del sur Reina Sofía. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Hotel Bahía del Duque, desconexión en 
 Tenerife](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/) 

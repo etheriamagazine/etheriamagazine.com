@@ -15,7 +15,7 @@ con música en la calle, paseos y festivales en este rincón de Baden-Wurtemberg
 leyendo porque te contaremos lo esencial que tienes que ver en Heidelberg en sólo 10 
 planes. 
 
-![Paseo por la ribera del río Neckar.](https://fotos.etheriamagazine.com/2020/06/Heidelberg-paseo-neckar-703x1024.jpg "Paseo por la ribera del río Neckar. © Etheria Magazine")
+![Paseo por la ribera del río Neckar.](https://fotos.etheriamagazine.com/2020/06/Heidelberg-paseo-neckar.jpg "Paseo por la ribera del río Neckar. © Etheria Magazine")
 
 Es Heidelberg una ciudad histórica? Sí. ¿Tiene un amplio patrimonio monumental? También. 
 Sin embargo, cuando pasa cierto tiempo desde que la has visitado, los recuerdos más 

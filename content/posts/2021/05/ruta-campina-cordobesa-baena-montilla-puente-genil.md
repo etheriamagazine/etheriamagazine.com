@@ -25,7 +25,7 @@ En estos meses de exultante primavera, tenemos las mismas horas de luz que de os
 así que gozamos de más tiempo para respirar el aire libre campestre. Es un buen momento 
 para perdernos entre los viñedos y olivares de la campiña cordobesa. 
 
-![calles de baena campina cordobesa](https://fotos.etheriamagazine.com/2021/05/viaje-baena-cordoba-729x1024.jpg "Calles de Baena. © P. Grifol")
+![calles de baena campina cordobesa](https://fotos.etheriamagazine.com/2021/05/viaje-baena-cordoba.jpg "Calles de Baena. © P. Grifol")
 
 Los lugares que proponemos visitar en esta ocasión, aparte de las visitas a lo más 
 sobresaliente de cada pueblo –incluida la notoria gastronomía de la zona: alcachofas, 
@@ -62,7 +62,7 @@ que ofrece un paseo por tres mil años de historia que nos muestra cómo vivían
 pobladores de Iponoba, ciudad ibérica citada por Plinio el Viejo, que nos deparará 
 innumerables sorpresas. 
 
-![Parque Arqueologico Torreparedones  campina cordobesa](https://fotos.etheriamagazine.com/2021/05/Baena-Parque-Arqueologico-Torreparedones-739x1024.jpg "Parque Arqueológico Torreparedones, en Baena. © Pedro Grifol")
+![Parque Arqueologico Torreparedones  campina cordobesa](https://fotos.etheriamagazine.com/2021/05/Baena-Parque-Arqueologico-Torreparedones.jpg "Parque Arqueológico Torreparedones, en Baena. © Pedro Grifol")
 
 #### Excursión a la Cueva del Yeso
 
@@ -91,7 +91,7 @@ rubí oscuro, de cuyo origen cuentan las crónicas que la cepa fue traída por u
 de los Tercios de Flandes llamado Peter Siemens (en su versión germánica), que con el 
 tiempo se transformó en Pedro Ximénez. 
 
-![fino de montilla moriles cordoba](https://fotos.etheriamagazine.com/2021/05/vino-fino-cordoba-678x1024.jpg "Fino servido con jarra de metal. © P. Grifol")
+![fino de montilla moriles cordoba](https://fotos.etheriamagazine.com/2021/05/vino-fino-cordoba.jpg "Fino servido con jarra de metal. © P. Grifol")
 
 #### Casa del Inca Garcilaso de la Vega
 
@@ -120,7 +120,7 @@ lugar que merece en la Historia del Arte. Sin duda, cuando contemples su magníf
 trabajo, valorarás con justicia la magnitud de su legado. Un descubrimiento, una grata 
 sorpresa y un gran placer para la vista. 
 
-![viajes puente genil](https://fotos.etheriamagazine.com/2021/05/viaje-cordoba-Puente-Genil-669x1024.jpg "Puente Genil. © P. Grifol")
+![viajes puente genil](https://fotos.etheriamagazine.com/2021/05/viaje-cordoba-Puente-Genil.jpg "Puente Genil. © P. Grifol")
 
 ## Puente Genil, pura tradición
 

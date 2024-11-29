@@ -62,14 +62,14 @@ En estas tierras atlánticas, la variada gama de vinos del Loira es el aderezo p
 que nunca debe faltar en la mesa. Aquí tenéis una **pequeña guía de restaurantes** para 
 disfrutar de este sublime maridaje: 
 
-?Comer rodeadas de los **viñedos del Auberge de la Gaillotière** 
+📍Comer rodeadas de los **viñedos del Auberge de la Gaillotière** 
 (www.auberge-la-gaillotiere.fr), en Château-Thébaud. Cocina casera elaborada con mucho 
 mimo y productos locales y de temporada. 
 
-?Disfrutar de un tranquilo almuerzo en el **restaurante-bistró** **Les Terrases de Bel 
+📍Disfrutar de un tranquilo almuerzo en el **restaurante-bistró** **Les Terrases de Bel 
 Air**, en Vair-sur-Loire (www.terrassedebelair.com). 
 
-?Saborear la gastronomía tradicional de la zona en el **restaurante-brasería** **La 
+📍Saborear la gastronomía tradicional de la zona en el **restaurante-brasería** **La 
 Citadelle de Le Champalud** (www.lechampalud.com), que también disponen de alojamiento, 
 en Orée-d’Anjou. 
 
@@ -154,7 +154,7 @@ propuestas.
 La fórmula es tan sencilla como brillante. Tan solo tendréis que llevar calzado cómodo y 
 seguir la línea verde para disfrutar de un viaje extraordinario. 
 
-?No te pierdas: [Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio 
+📍No te pierdas: [Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio 
 Verne](https://etheriamagazine.com/2019/08/29/que-ver-hacer-en-nantes-la-ciudad-francesa-creativa/). 
 
 ![La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas.](https://fotos.etheriamagazine.com/2023/07/escultura-Xu-Zhen.jpg "La escultura del artista conceptual Xu Zhen, European Thousand-Arms Classical Sculpture, es una de las más fotografiadas de Nantes. © Yolanda Cardo")
@@ -219,7 +219,7 @@ comercial cubierta del XIX, de nueve metros de desnivel, que comunica este barri
 del antiguo puerto. El techo de cristal, la espléndida escalera y las preciosas tiendas 
 os encantarán. 
 
-![El pasaje Pommeraye es una bellísima galería de techo e cristal](https://fotos.etheriamagazine.com/2023/07/Pommeraye-nantes-683x1024.jpg "El pasaje Pommeraye es una bellísima galería de techo e cristal del siglo XIX. © Yolanda Cardo")
+![El pasaje Pommeraye es una bellísima galería de techo e cristal](https://fotos.etheriamagazine.com/2023/07/Pommeraye-nantes.jpg "El pasaje Pommeraye es una bellísima galería de techo e cristal del siglo XIX. © Yolanda Cardo")
 
 ### Las Máquinas de la Isla, los extraños habitantes del barrio de la creación
 
@@ -291,7 +291,7 @@ salida.
 Si os gusta la decoración, en el centro de Nantes se ubica uno de los tres hoteles que 
 **Maisons du Monde** tiene en Francia (nantes.maisonsdumondehotel.com). 
 
-?No te pierdas: [Hoteles originales en Nantes, duerme dentro de una obra de 
+📍No te pierdas: [Hoteles originales en Nantes, duerme dentro de una obra de 
 arte](https://etheriamagazine.com/2022/10/17/hoteles-originales-nantes/). 
 
 ### Dónde comer

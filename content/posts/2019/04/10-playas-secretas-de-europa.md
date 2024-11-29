@@ -117,7 +117,7 @@ Jónico.
 
 ![Playa de Myrtos en la isla de Kefalonia.](https://fotos.etheriamagazine.com/2019/03/Playas-Europa-Myrtos-Beach-kefalonia-Grecia.jpg "Playa de Myrtos en la isla de Kefalonia. © George Prentzas")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 playas en España para disfrutar del 
 verano](https://etheriamagazine.com/2020/06/03/10-playas-en-espana-para-este-verano/) 

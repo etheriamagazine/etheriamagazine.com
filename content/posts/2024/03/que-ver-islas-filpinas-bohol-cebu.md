@@ -18,7 +18,7 @@ de extinción como el “tarsius o tarsero”. El legado español en Bohol y Ceb
 increíbles playas y los fondos marinos de Filipinas son, además, el complemento 
 perfecto. 
 
-![El tarsius o tarsero filipino es uno de los primates más pequeños del mundo.](https://fotos.etheriamagazine.com/2024/03/tarsius-isla-bohol-850x507.jpg "El tarsius o tarsero filipino es uno de los primates más pequeños del mundo y lo puedes ver en Bohol.")
+![El tarsius o tarsero filipino es uno de los primates más pequeños del mundo.](https://fotos.etheriamagazine.com/2024/03/tarsius-isla-bohol.jpg "El tarsius o tarsero filipino es uno de los primates más pequeños del mundo y lo puedes ver en Bohol.")
 
 Aunque pequeña, **Bohol** es la décima isla en cuanto a tamaño del conjunto insular de 
 Filipinas. No es la más conocida ni la más visitada pero no por falta de atractivos. 
@@ -57,7 +57,7 @@ tecnológicos propicia que sus ratos de ocio se comparta con los vecinos.
 Bohol](https://www.civitatis.com/es/bohol/tour-privado-bohol/?aid=10211) que recorre los 
 mayores atractivos desde 150 €. 
 
-![Chocolate Hills, una de las maravillas de la isla de Bohol.](https://fotos.etheriamagazine.com/2024/03/isla-bohol-chocolate-hills-850x566.jpg "Chocolate Hills, una de las maravillas de la isla de Bohol. © Julian Paolo")
+![Chocolate Hills, una de las maravillas de la isla de Bohol.](https://fotos.etheriamagazine.com/2024/03/isla-bohol-chocolate-hills.jpg "Chocolate Hills, una de las maravillas de la isla de Bohol. © Julian Paolo")
 
 ## Maravillas de Bohol
 
@@ -94,7 +94,7 @@ Este cauce de aguas tranquilas, que se halla a 21 kilómetros de **Tagbilaran**,
 admirar la naturaleza que se acurruca a ambas orillas. Los paseos en bote motorizados 
 suelen finalizar en las cataratas **Tontonan**. 
 
-![Excursión en barco por el río Loboc, en Bohol.](https://fotos.etheriamagazine.com/2024/03/excursion-rio-loboc-filipinas-850x567.jpg "Excursión en barco por el río Loboc, en Bohol. © Aldrino")
+![Excursión en barco por el río Loboc, en Bohol.](https://fotos.etheriamagazine.com/2024/03/excursion-rio-loboc-filipinas.jpg "Excursión en barco por el río Loboc, en Bohol. © Aldrino")
 
 Algunos de los mejores fondos submarinos de Bohol se encuentran en la **isla de 
 Pamilacan**, donde la transparencia del agua permite ver sin dificultad bonitos corales 
@@ -117,7 +117,7 @@ los que suele ocupar la población local hasta los grandes resorts donde la clie
 internacional se olvida del resto del mundo desde las grandes piscinas y los 
 restaurantes de cocina internacional. 
 
-![Alona Beach, una de las playas más bonitas de Panglao.](https://fotos.etheriamagazine.com/2024/03/panglao-alona-beach-850x478.jpg "Alona Beach, una de las playas más bonitas de Panglao. © Eduardo Casajús Gorostiaga")
+![Alona Beach, una de las playas más bonitas de Panglao.](https://fotos.etheriamagazine.com/2024/03/panglao-alona-beach.jpg "Alona Beach, una de las playas más bonitas de Panglao. © Eduardo Casajús Gorostiaga")
 
 ## Excursiones desde Bohol
 
@@ -145,7 +145,7 @@ El fuerte fue baluarte de los libertadores filipinos en 1898, durante la guerra 
 Independencia contra los españoles. Actualmente es un parque histórico cuyos antiguos 
 barracones forman parte del Museo Nacional. 
 
-![Fuerte de San Pedro, en la isla de Cebú.](https://fotos.etheriamagazine.com/2024/03/fuerte-san-pedro-cebu-667x1000.jpg "Fuerte de San Pedro, en la isla de Cebú. © Hitoshi Namura")
+![Fuerte de San Pedro, en la isla de Cebú.](https://fotos.etheriamagazine.com/2024/03/fuerte-san-pedro-cebu.jpg "Fuerte de San Pedro, en la isla de Cebú. © Hitoshi Namura")
 
 Si disponéis de tiempo es recomendable visitar el [Museo Casa 
 Gorordo](https://www.casagorordomuseum.org/), residencia del primer obispo de la isla. 

@@ -120,7 +120,7 @@ más asilvestrados. No te pierdas el Jardín de la Isla, con sus fuentes de pied
 esculturas de mármol, el Jardín del Parterre, el Jardín del Príncipe, de gran tamaño, la 
 Casa del Labrador o el Museo de Falúas. 
 
-![jardines chinescos, excursion aranjuez](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez-900x675.jpg "Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
+![jardines chinescos, excursion aranjuez](https://fotos.etheriamagazine.com/2020/05/excursion-aranjuez.jpg "Jardines Chinescos de Aranjuez. © Miguel Ángel Sanz")
 
 ### Dónde comer en Aranjuez con niños
 

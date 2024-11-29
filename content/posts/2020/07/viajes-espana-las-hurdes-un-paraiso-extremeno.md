@@ -1,5 +1,5 @@
 ---
-title: "Las Hurdes, un paraíso extremeño suspendido en el tiempo"
+title: "Las Hurdes, un paraíso extremeño que huye de estereotipos"
 date: 2020-07-21
 coverImage: https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas.jpg
 categories: 
@@ -10,9 +10,15 @@ authors:
   - Yolanda Cardo
 ---
 
-Alejarnos del estrés en busca de la tranquilidad suele ser el objetivo cuando planificamos nuestras vacaciones. Pongamos rumbo a Las Hurdes, un lugar que huye de los estereotipos. También de la prescrita fama que alcanzó tras el controvertido documental de Luis Buñuel 'Tierra sin pan', para asomarnos a estas tierras extremeñas atípicas y emocionantes.
+Alejarnos del estrés en busca de la tranquilidad suele ser el objetivo cuando 
+planificamos nuestras vacaciones. Pongamos rumbo a Las Hurdes, un lugar que huye de los 
+estereotipos. También de la prescrita fama que alcanzó tras el controvertido documental 
+de Luis Buñuel 'Tierra sin pan', para asomarnos a estas tierras extremeñas atípicas y 
+emocionantes. 
 
-![viaje Extremadura, comarca las hurdes](https://fotos.etheriamagazine.com/2020/07/viaje-extremadura-Las-Hurdes-900x675.jpg "Son muchos los ríos que atraviesan la comarca de Las Hurdes. © Yolanda Cardo")
+![viaje Extremadura, comarca las hurdes](https://fotos.etheriamagazine.com/2020/07/viaje-extremadura-Las-Hurdes.jpg "Son muchos los ríos que atraviesan la comarca de Las Hurdes. © Yolanda Cardo")
+
+Actualizado 9/2024 
 
 La primera sensación que se percibe cuando nos adentramos en el territorio extremeño de 
 **Las Hurdes** es de absoluta extrañeza. Ante un horizonte insólito, nos invade cierta 
@@ -43,14 +49,7 @@ estos singulares parajes. Como siempre, nuestras preferencias pautarán las elec
 Pero hay lugares imprescindibles que bien merecen nuestra atención, ideales para 
 reencontrarse con la naturaleza. 
 
-##### Índice de viaje de Las Hurdes
-
-1️⃣ [Meandro Melero](#meandro-melero). 2️⃣ [Chorro de la Meancera](#chorro-meancera). 
-3️⃣ [Volcán de El Gasco](#volcan-gasco). 4️⃣ [Rutas reales de Alfonso 
-XIII.](#rutas-reales) 5️⃣ [Piscinas naturales de Las Hurdes](#piscinas-hurdes). 6️⃣ [Pueblos 
-y tradición](#pueblos-hurdes). 7️⃣ [Guía práctica de Las Hurdes](#guia-hurdes). 
-
-![meandro de Melero, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-meandro-de-Melero-1-900x629.jpg "El meandro de Melero visto desde el mirador de la Antigua. © Yolanda Cardo")
+![meandro de Melero, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-meandro-de-Melero-1.jpg "El meandro de Melero visto desde el mirador de la Antigua. © Yolanda Cardo")
 
 ### Meandro de Melero
 
@@ -76,7 +75,7 @@ merece una excursión, especialmente en primavera cuando el caudal se supone má
 abundante. Un espectacular salto de agua de unos 100 metros al que se accede desde el 
 mismo pueblo por un camino transitable. 
 
-![volcan el gasco, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Volcan-de-El-Gasco-1-900x505.jpg "El enigmático Volcán de El Gasco. © Sabores Hurdanos")
+![volcan el gasco, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Volcan-de-El-Gasco-1.jpg "El enigmático Volcán de El Gasco. © Sabores Hurdanos")
 
 ### Volcán de El Gasco
 
@@ -91,18 +90,16 @@ petroglifos** que bien merecen una excursión. Estas figuras son frecuentes en t
 comarca y podemos observarlos por ejemplo en la Miacera, la Peña del Molde, el Tesito de 
 los Cuchillos, Las Herraduras, el Riscal o en las Erías. 
 
-![Las Hurdes, petroglifos](https://fotos.etheriamagazine.com/2020/07/las-hurdes-petroglifos-900x675.jpg "Los petroglifos son muy habituales en la zona. © Yolanda Cardo")
+![Las Hurdes, petroglifos](https://fotos.etheriamagazine.com/2020/07/las-hurdes-petroglifos.jpg "Los petroglifos son muy habituales en la zona. © Yolanda Cardo")
 
 ## Rutas muy “reales”, las visitas de Alfonso XIII
 
-Resultan especialmente interesantes las rutas que rememoran la [histórica visita de 
-Alfonso XIII en junio de 
-1922](http://www.mancomunidadhurdes.org/index.php?opcion=ruta26). Excelentes para 
-conocer de una manera más íntima y cercana estas desconocidas tierras. Arquitectura 
-tradicional y espléndidos miradores que se asoman al huidizo confín de sierras 
-infinitas. El monarca quiso comprobar _in situ_ las condiciones de vida de los hurdanos, 
-alertado por las informaciones proporcionadas por el reputado Gregorio Marañón que, 
-además, era su médico personal. 
+Resultan especialmente interesantes las rutas que rememoran la histórica visita de 
+Alfonso XIII en junio de 1922. Excelentes para conocer de una manera más íntima y 
+cercana estas desconocidas tierras. Arquitectura tradicional y espléndidos miradores que 
+se asoman al huidizo confín de sierras infinitas. El monarca quiso comprobar _in situ_ 
+las condiciones de vida de los hurdanos, alertado por las informaciones proporcionadas 
+por el reputado Gregorio Marañón que, además, era su médico personal. 
 
 Uno de los itinerarios parte de **Casar de Palomero**, donde se encuentra la casa de 
 **Acacio Terrón**, el lugar donde pernoctó el soberano y que se conserva intacto hasta 
@@ -114,7 +111,7 @@ Fragosa, el Gasco, Casares de las Hurdes (conocido como “el balcón de las Hur
 gracias a sus extraordinarias vistas de la Mancomunidad), Ladrillar y, finalmente, **Las 
 Mestas**. 
 
-![las mestas, Las Hurdes, Etheria magazine](https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas-900x598.jpg "Las Mestas rodeado de naturaleza. © Sabores Hurdanos")
+![las mestas, Las Hurdes, Etheria magazine](https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas.jpg "Las Mestas rodeado de naturaleza. © Sabores Hurdanos")
 
 Otro, ideal para una larga caminata, es el que comienza en **Riomalo de Arriba** para 
 finalizar tras 8 km de distancia en **Casares de Las Hurdes**. Espléndidos miradores, 
@@ -128,7 +125,7 @@ chapuzón cuando el calor aprieta. Una de las más populares se encuentra en la 
 de Pinofranqueado, conocida como **Charco Morisco**, formada por las aguas del río Los 
 Ángeles. 
 
-![Charco del Chorrituelo, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Charco-del-Chorrituelo-de-Ovejuela-900x506.jpg "Refrescante imagen del Charco del Chorrituelo de Ovejuela. © Sabores Hurdanos")
+![Charco del Chorrituelo, Las Hurdes, viaje extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Charco-del-Chorrituelo-de-Ovejuela.jpg "Refrescante imagen del Charco del Chorrituelo de Ovejuela. © Sabores Hurdanos")
 
 En la represa que forma el río Ladrillar, en el límite con la provincia de Salamanca, se 
 encuentra el **Charco de la Olla**. Se trata de una zona de baños perfectamente 
@@ -159,7 +156,7 @@ polémico documental del cineasta calandino **Luis Buñuel**.
 > Pueblos como Fragosa o Martilandrán despliegan todo su encanto suspendidos en rocosos 
 > bancales. Otros como Caminomorisco o Casar de Palomero exhiben una blanca arquitectura. 
 
-#### Centros de Interpretación de Las Hurdes y de la Casa Hurdana
+### Centros de Interpretación de Las Hurdes y de la Casa Hurdana
 
 Dejamos atrás los tópicos para adentrarnos en un **mundo rústico pero cercano, afable y 
 muy hermoso**. Pueblos y pequeños museos temáticos ejercerán de guías. Por ejemplo en 
@@ -170,9 +167,9 @@ arquitectura de la zona, en la localidad de **El Gasco** se ubica el **Centro de
 Interpretación de la Casa Hurdana,** con didácticas explicaciones de estos sencillos 
 habitáculos de pizarra y mampostería de su tradicional arquitectura negra. 
 
-![El Gasco, Aceitunilla, las hurdes](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Callejuelas-de-El-Gasco-1-900x515.jpg "Callejuelas de El Gasco y Aceitunilla. © Sabores Hurdanos")
+![El Gasco, Aceitunilla, las hurdes](https://fotos.etheriamagazine.com/2020/07/las-hurdes-Callejuelas-de-El-Gasco-1.jpg "Callejuelas de El Gasco y Aceitunilla. © Sabores Hurdanos")
 
-#### Centro de Interpretación del Agua y del Medio Ambiente
+### Centro de Interpretación del Agua y del Medio Ambiente
 
 Pocas veces reparamos en cómo la orografía y características de los suelos determinan la 
 economía y forma de vida de una población. Muchas pistas acerca de este estrecho vínculo 
@@ -183,7 +180,7 @@ Caminomorisco podemos adquirir artesanía elaborada con materiales propios de la
 como madera o piedra, dulces típicos como la perrunillas, miel o floretas y el popular 
 vino de pitarra. 
 
-#### Centros de Interpretación de la Miel y del Olivo
+### Centros de Interpretación de la Miel y del Olivo
 
 El Centro de **Interpretación de la Miel** en Ovejuela y el **Centro de Interpretación 
 del Olivo** en Casar de Palomero nos acercan a dos de los productos más típicos del 
@@ -194,46 +191,41 @@ dulces tradicionales.
 > peces o sus populares patatas meneás. Una gastronomía que bebe de sus raíces y que 
 > ofrece a sus visitantes mucho más que pan. 
 
-![Las Hurdes, paisajes extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-extremadura-900x636.jpg "Los paisajes y colores hurdanos nos sorprenden con su belleza. © Yolanda Cardo")
+![Las Hurdes, paisajes extremadura](https://fotos.etheriamagazine.com/2020/07/las-hurdes-extremadura.jpg "Los paisajes y colores hurdanos nos sorprenden con su belleza. © Yolanda Cardo")
 
-### Guía de Las Hurdes | Etheria Magazine
+## Guía de Las Hurdes | Etheria Magazine
 
 Organiza un divertido _road-trip_ con tus amigas o en familia y ¡a disfrutar! Es muy 
 **importante** **comprobar que el vehículo tiene suficiente combustible** ya que hay 
 pocas gasolineras en la zona. 
 
-##### Dónde dormir en Las Hurdes
+**Dónde dormir** 
 
-• Los alojamientos bioclimáticos [Akassa](http://www.akassahurdes.com/1-comunes/1-akassa-) 
-os encantarán por su diseño, ubicación y prestaciones. Además organizan numerosas 
-actividades para hacer vuestra estancia realmente única. Ecoturismo de 4 estrellas en 
-Pinofranqueado. 
+Los **alojamientos bioclimáticos Akassa** (akassahurdes.com) os encantarán por su 
+diseño, ubicación y prestaciones. Además organizan numerosas actividades para hacer 
+vuestra estancia realmente única. Ecoturismo de 4 estrellas en Pinofranqueado. 
 
-• [La Alquería de Hurdes](http://www.alqueriadehurdes.com/apartamentos.php), en el 
-pueblecito de Horcajo, dos encantadoras casitas, con unas espectaculares vistas al valle 
-del río Horcajo. 
+**La Alquería de Hurdes** (alqueriadehurdes.com), en el pueblecito de Horcajo, dos 
+encantadoras casitas, con unas espectaculares vistas al valle del río Horcajo. 
 
-##### Dónde comer en Las Hurdes
+**Dónde comer** 
 
 Para disfrutar de la gastronomía os recomendamos el restaurante [La 
-Meancera](https://es-es.facebook.com/RestauranteCafeteriaMeancera/) en El Gasco; [La 
-Posada del Casar](https://laposadadelcasar.es/restaurante/#.Xvm5Si0RGRs) en Casar de 
-Palomero; [restaurante El Abuelo](https://es-es.facebook.com/hostalelabuelo/) en 
-Caminomorisco y [restaurante El 
-Puente](https://www.hotelelpuentelashurdes.es/restaurante/) en Pinofranqueado. 
+Meancera](https://www.facebook.com/lameancera/) en El Gasco; **La Posada del Casar** 
+(laposadadelcasar.es) en Casar de Palomero; **restaurante El Abuelo** en Caminomorisco y 
+**restaurante El Puente** (hotelelpuentelashurdes.es) en Pinofranqueado. 
 
-##### Qué hacer
+**Qué hacer** 
 
-En [Sabores Hurdanos](https://www.saboreshurdanos.com/) te darán más de 100 razones para 
-visitar la comarca y organizan rutas y actividades. Y si sois aventureras contactar con [Bikes 
-at Forest](https://www.bikesatforest.com/) expertos en Turismo Activo. 
+En **Sabores Hurdanos** (saboreshurdanos.com) te darán más de 100 razones para visitar 
+la comarca y organizan rutas y actividades. Y si sois aventureras contactar con **Bikes 
+at Forest** (bikesatforest.com) expertos en Turismo Activo. 
 
-Más información 
+**Más información** 
 
-[Turismo de la Mancomunidad de Las 
-Hurdes](http://www.mancomunidadhurdes.org/index.php?opcion=turismo) 
+[Turismo de la Mancomunidad de Las Hurdes](https://www.mancomunidadhurdes.es/) 
 
-### También en Extremadura...
+**También en Extremadura...** 
 
 [Elige uno de estos 10 motivos para viajar a La Siberia 
 extremeña](https://etheriamagazine.com/2021/09/26/10-motivos-para-viajar-a-la-siberia-extremena/). 

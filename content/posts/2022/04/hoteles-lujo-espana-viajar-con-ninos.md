@@ -15,7 +15,7 @@ authors:
 
 Cuando se viaja en familia uno de los aspectos que más tenemos que cuidar en la organización del viaje es el alojamiento. En este artículo te proponemos 8 hoteles en España en los que no está reñida la calidad con su perfil familiar. ¡Tenlos muy en cuenta para tu próxima escapada con niños!
 
-![Niños jugando con un ajedrez gigante](https://fotos.etheriamagazine.com/2022/04/hotel-bahia-del-duque-ninos-900x600.jpg "Ajedrez gigante del hotel © Bahía del Duque, en el sur de Tenerife.")
+![Niños jugando con un ajedrez gigante](https://fotos.etheriamagazine.com/2022/04/hotel-bahia-del-duque-ninos.jpg "Ajedrez gigante del hotel © Bahía del Duque, en el sur de Tenerife.")
 
 Se puede viajar en familia de muchas formas, y, como no es necesario identificar el 
 viaje familiar con “viaje de batalla”, te damos 8 propuestas de hoteles de lujo en 
@@ -48,7 +48,7 @@ mientras los niños disfrutan del **Barcy Club** (el club infantil del hotel), l
 podrán disfrutar del spa más grande de Andalucía. Es uno de los mejores hoteles en 
 España para viajar con niños. 
 
-? [Royal Hideaway Sancti Petri, un hotel para disfrutar de la Costa de la 
+📍 [Royal Hideaway Sancti Petri, un hotel para disfrutar de la Costa de la 
 Luz.](https://etheriamagazine.com/2020/05/21/hotel-lujo-costa-cadiz-royal-hideaway-sancti-petri/) 
 
 ![Piscinas del hotel Royal Hideaway Sancti Petri](https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg "Piscinas del © Royal Hideaway Sancti Petri.")
@@ -67,10 +67,10 @@ numerosas habitaciones comunicadas y suites, un Kids Club con actividades para t
 edades, pistas de tenis y pádel, mesa de ping pong, un ajedrez gigante y unas bonitas 
 piscinas. ¡Y la playa está justo enfrente! 
 
-? [Bahía del Duque, desconexión en 
+📍 [Bahía del Duque, desconexión en 
 Tenerife](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/). 
 
-![Edificios del hotel bahía del Duque con el mar al fondo](https://fotos.etheriamagazine.com/2022/04/Hoteles-familia-Bahia-del-Duque-general-900x496.jpg "Hotel © Bahía del Duque.")
+![Edificios del hotel bahía del Duque con el mar al fondo](https://fotos.etheriamagazine.com/2022/04/Hoteles-familia-Bahia-del-Duque-general.jpg "Hotel © Bahía del Duque.")
 
 ## 3\. La Bobadilla, a Royal Hideaway Hotel
 
@@ -84,7 +84,7 @@ es un punto de partido magnífico para excursiones tan interesantes como el Torc
 Antequera o a la misma ciudad de Antequera, con sus monumentos megalíticos y su 
 castillo, o a la ciudad de Málaga. 
 
-? [La Bobadilla, uno de los hoteles más bonitos del 
+📍 [La Bobadilla, uno de los hoteles más bonitos del 
 mundo](https://etheriamagazine.com/2018/08/23/hotel-la-bobadilla-loja-granada/). 
 
 ![Hotel La Bobadilla rodeado de campos de olivos](https://fotos.etheriamagazine.com/2022/04/hotel-familia-La-Bobadilla-panoramica.jpg "La Bobadilla, a Royal Hideaway Hotel. © Barceló Group.")
@@ -100,7 +100,7 @@ está cerca del centro y permite una zona extensa para juegos en la playa. Cuent
 habitaciones familiares, unas piscinas preciosas y un spa con zona interior y exterior 
 que hará las delicias de los mayores. 
 
-?[Las Arenas Balneario & Resort, un hotel de lujo en Valencia hecho para 
+📍[Las Arenas Balneario & Resort, un hotel de lujo en Valencia hecho para 
 disfrutar](https://etheriamagazine.com/2021/04/08/hotel-lujo-valencia-las-arenas-balneario-resort/). 
 
 ![Piscina del hotel Las Arenas Balneario & Resort.](https://fotos.etheriamagazine.com/2022/04/hotel-familia-las-arenas-piscina.jpg "Piscina del hotel Las Arenas Balneario & Resort. © Hoteles Santos.")
@@ -137,7 +137,7 @@ club infantil, campos de fútbol, campo de golf de 18 hoyos, un huerto ecológic
 el hotel cuenta con la opción de alojamiento en Todo Incluido, que es perfecta y muy 
 cómoda cuando se viaja en familia. 
 
-? [Barceló Montecastillo Golf & Sport Resort, un hotel de lujo en Jerez para toda la 
+📍 [Barceló Montecastillo Golf & Sport Resort, un hotel de lujo en Jerez para toda la 
 familia](https://etheriamagazine.com/2020/06/11/hotel-barcelo-montecastillo-golf-jerez-familias/). 
 
 ![Piscina para niños con toboganes  del Barceló Montecastillo.](https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Barcelo-Montecastillo-piscina-ninos.jpg "Piscina para niños del Barceló Montecastillo Golf & Sports Resort. © Barceló Group.")
@@ -155,7 +155,7 @@ un capricho en el spa. Además, desde aquí se pueden hacer excursiones perfecta
 familias, como visitar el Parque Nacional de Doñana o el [Muelle de las 
 Carabelas](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/muelle-de-las-carabelas). 
 
-? [Puerto Antilla Grand Hotel, un oasis en la costa de 
+📍 [Puerto Antilla Grand Hotel, un oasis en la costa de 
 Huelva](https://etheriamagazine.com/2021/06/03/puerto-antilla-grand-hotel-costa-huelva-familias/). 
 
 ![Piscinas y playa del © Puerto Antilla Grand Hotel.](https://fotos.etheriamagazine.com/2022/04/hoteles-familia-puerto-antilla-grand-hotel.jpg "Piscinas y playa del © Puerto Antilla Grand Hotel.")
@@ -174,7 +174,7 @@ las piscinas y los variados restaurantes. Sin olvidar todas las excursiones que 
 maravillosa isla ofrece, desde una visita a los cercanos acantilados de Los Gigantes 
 hasta la subida al Parque Nacional del Teide. 
 
-? [The Ritz-Carlton Abama, un hotel de lujo para alejarse del mundo en 
+📍 [The Ritz-Carlton Abama, un hotel de lujo para alejarse del mundo en 
 Tenerife](https://etheriamagazine.com/2021/06/28/the-ritz-carlton-abama-hotel-de-lujo-tenerife/). 
 
 ![Imagen del hotel The Ritz-Carlton Abama con el mar y la Gomera al fondo](https://fotos.etheriamagazine.com/2022/04/hotel-familia-abama-vistas.jpg "Imagen del hotel © The Ritz-Carlton Abama con el mar y la Gomera al fondo.")

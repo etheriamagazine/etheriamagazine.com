@@ -34,7 +34,7 @@ Chinatown o las casas tradicionales de Georgetown. Y, por supuesto, las visitas
 imprescindibles: el Capitolio, la estatua de Abraham Lincoln y los museos de 
 Smithsonian. Ten muy en cuenta a esta ciudad en tu próximo viaje a Estados a Unidos. 
 
-![North Beach barrio italiano de San Francisco](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-North-Beach-san-francisco-900x553.jpg "North Beach, el barrio italiano de San Francisco. © 2010 Scott Chernis Ph.")
+![North Beach barrio italiano de San Francisco](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-North-Beach-san-francisco.jpg "North Beach, el barrio italiano de San Francisco. © 2010 Scott Chernis Ph.")
 
 ## San Francisco
 
@@ -49,7 +49,7 @@ hacer un pícnic en Alamo Square frente a las famosas Painted Ladies (unas casas
 de bonitos colores), descubrir máscaras africanas en The Young Museum o perderte por 
 North Beach, el barrio italiano? 
 
-![Padel surf en Arizona viajes a estados unidos](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-arizona-padel-surf-900x600.jpg "Padel surf en Arizona. © Kris Ubach")
+![Padel surf en Arizona viajes a estados unidos](https://fotos.etheriamagazine.com/2021/10/viajes-estados-unidos-arizona-padel-surf.jpg "Padel surf en Arizona. © Kris Ubach")
 
 ## Arizona
 

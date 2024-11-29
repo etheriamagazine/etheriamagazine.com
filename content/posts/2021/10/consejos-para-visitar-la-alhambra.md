@@ -1,5 +1,5 @@
 ---
-title: "10 consejos para triunfar en tu visita a la Alhambra"
+title: "Cómo visitar la Alhambra, 10 consejos a tener en cuenta"
 date: 2021-10-25
 coverImage: https://fotos.etheriamagazine.com/2021/10/la-alhambra-patio-de-los-arrayanes-1.jpg
 categories: 
@@ -16,6 +16,8 @@ perderse ninguno de sus rincones más emblemáticos. Aquí te damos 10 consejos 
 esta experiencia sea todo un éxito y ocupe un lugar de honor en tu memoria. 
 
 ![La Alhambra vista desde los jardines del Generalife.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-desde-generalife.jpg "La Alhambra vista desde los jardines del Generalife. © Susana García")
+
+Actualizado 9/2024 
 
 Hay lugares tan especiales que merecen una cierta planificación viajera para poder 
 aprovechar al máximo cada minuto de la visita. La Alhambra es uno de ellos, y su 
@@ -66,7 +68,7 @@ acuden allí y ofrecen las visitas guiadas _in situ_.
 
 ![Detalle del Palacio de Comares.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-detalle-palacio-comares.jpg "Detalle del Palacio de Comares. © SG")
 
-? También puedes apuntarte a una [visita organizada por Civitatis a la Alhambra y los 
+📌 También puedes apuntarte a una [visita organizada por Civitatis a la Alhambra y los 
 Palacios 
 Nazaríes](https://www.civitatis.com/es/granada/visita-guiada-alhambra/?aid=10211). 
 
@@ -151,7 +153,7 @@ al mirador. Si está abierta, sus vistas son también increíbles.
 
 ![Vista al atardecer de la Alhambra desde el Albaicín.](https://fotos.etheriamagazine.com/2021/10/la-alhambra-vista-albaicin-atardecer.jpg "Vista al atardecer de la Alhambra desde el Albaicín.")
 
-? Otra buena opción es reservar en alguno de los restaurantes ubicados en cármenes en 
+📌 Otra buena opción es reservar en alguno de los restaurantes ubicados en cármenes en 
 este mismo barrio. Podrás cenar mientras contemplas la Alhambra iluminada, merece la 
 pena. Algunas direcciones son el Carmen del Agua, el Carmen de Aben Humeya, El Trillo, 
 Las Tomasas o Estrella de San Nicolás (propiedad de la familia Morente). 
@@ -206,7 +208,7 @@ mientras se contempla una de las mejores puestas de sol de Granada.
 
 ![Lobby del hotel Alhambra Palace](https://fotos.etheriamagazine.com/2021/08/alhambra-palace-lobby.jpg "Lobby del hotel © Alhambra Palace.")
 
-? **Más artículos para preparar tu viaje a Granada:** 
+📌 **Más artículos para preparar tu viaje a Granada:** 
 
 [Visita cultural al Albaicín y La Alhambra de 
 Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/) 

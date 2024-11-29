@@ -31,7 +31,7 @@ de Poznan, en una mansión de quinientos años donde Sofía aprendió a amar la 
 de la tierra polaca. En 1984, el hogar de los Lutoslawski se transformó en el **Museo de 
 la Naturaleza**. 
 
-![Polonia poetisa mujeres Etheria](https://fotos.etheriamagazine.com/2018/09/Sofia-Casanova-Poznan-1024x683.jpg "Panorámica de Poznan.")
+![Polonia poetisa mujeres Etheria](https://fotos.etheriamagazine.com/2018/09/Sofia-Casanova-Poznan.jpg "Panorámica de Poznan.")
 
 ## Sofía, partícipe de momentos claves en la historia europea
 
@@ -70,7 +70,7 @@ Sofía. Le apasionaron tanto que viajó a Polonia, visitó a la familia y escrib
 sobre su vida. Marcos Gallego llevó la vida de Sofía al cine con la **película 
 documental _A maleta de Sofía_**. 
 
-![Polonia Sofia Casanova poetisa mujeres Etheria](https://fotos.etheriamagazine.com/2018/09/casas-Poznan-1024x683.jpg "Casas barrocas del casco antiguo de Poznan.")
+![Polonia Sofia Casanova poetisa mujeres Etheria](https://fotos.etheriamagazine.com/2018/09/casas-Poznan.jpg "Casas barrocas del casco antiguo de Poznan.")
 
 ## “Babunita” escribió hasta el final
 
@@ -108,7 +108,7 @@ su vida que él tuvo el privilegio de compartir. Es entrañable observar entre l
 y antiguos objetos de la casa, una figura de “Sargadelos” que evoca la “Saudade” que 
 Sofía siempre guardó por su Galicia natal. 
 
-![mujeres Etheria poetisa literatura](https://fotos.etheriamagazine.com/2018/09/casa-Sofia-Casanova-Poznan-1024x683.jpg "Casa de Sofía Casanova en Poznan.")
+![mujeres Etheria poetisa literatura](https://fotos.etheriamagazine.com/2018/09/casa-Sofia-Casanova-Poznan.jpg "Casa de Sofía Casanova en Poznan.")
 
 ## Poznan hasta el final
 
@@ -119,7 +119,7 @@ un **casco antiguo bellísimo**, historia legendaria y ambiente cautivador. Est�
 orillas del **río Varta** y tiene un lago, el **Malta**, donde se celebran regatas de 
 remo. 
 
-![Polonia mujeres Etheria](https://fotos.etheriamagazine.com/2018/09/Poznan-vista-Ayuntamiento-1024x683.jpg "Vista de Poznan desde la torre del Ayuntamiento.")
+![Polonia mujeres Etheria](https://fotos.etheriamagazine.com/2018/09/Poznan-vista-Ayuntamiento.jpg "Vista de Poznan desde la torre del Ayuntamiento.")
 
 En el **cementerio de Poznan** reposa Sofía Casanova de Lutoslawski, rodeada de los 
 suyos, entre los que se encuentra Josefa López, la campesina gallega que siempre la 

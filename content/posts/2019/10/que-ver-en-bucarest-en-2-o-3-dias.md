@@ -31,7 +31,7 @@ Y sabemos que un fin de semana nunca es suficiente, pero vamos a hacer lo posibl
 exprimir esta escapada de fin de semana en una de las ciudades que mejor recuerdo me ha 
 dejado a lo largo de mi currículum viajero. 
 
-![Monumento Alas dedicado a los combatientes de la resistencia anticomunista.](https://fotos.etheriamagazine.com/2019/10/bucarest-monumento-alas-900x549.jpg "Monumento Alas dedicado a los combatientes de la resistencia anticomunista. © P.B.")
+![Monumento Alas dedicado a los combatientes de la resistencia anticomunista.](https://fotos.etheriamagazine.com/2019/10/bucarest-monumento-alas.jpg "Monumento Alas dedicado a los combatientes de la resistencia anticomunista. © P.B.")
 
 ## Qué hacer en Bucarest en tres días
 
@@ -47,7 +47,7 @@ Pentágono estadounidense–, debe su nombre a todas las veces que el pueblo rum
 contra las penurias y censuras de del dictador Ceaucescu, régimen que se extinguió en 
 1989 dando paso a la democracia. 
 
-![Palacio del Parlamento.](https://fotos.etheriamagazine.com/2019/10/bucarest-palacio-parlamento-900x600.jpg "Palacio del Parlamento. © P.B.")
+![Palacio del Parlamento.](https://fotos.etheriamagazine.com/2019/10/bucarest-palacio-parlamento.jpg "Palacio del Parlamento. © P.B.")
 
 En medio de la plaza se encuentra el memorial dedicado a los fallecidos durante los 
 últimos días de dictadura, un obelisco en el que están inscritos los nombres de cada uno 
@@ -55,7 +55,7 @@ de ellos. Y rodeando el espacio, además del expalacio presidencial se encuentra
 **Museo de Arte de Rumanía**, la iglesia Kretzulescu y la **biblioteca de la Universidad 
 de Bucarest**. 
 
-![Magnífico edificio de la biblioteca de la Universidad de Bucarest.](https://fotos.etheriamagazine.com/2019/10/bucarest-biblioteca-universidad-900x619.jpg "Magnífico edificio de la biblioteca de la Universidad de Bucarest. © Hari Nandakumar/ Unsplash")
+![Magnífico edificio de la biblioteca de la Universidad de Bucarest.](https://fotos.etheriamagazine.com/2019/10/bucarest-biblioteca-universidad.jpg "Magnífico edificio de la biblioteca de la Universidad de Bucarest. © Hari Nandakumar/ Unsplash")
 
 ### Sábado: casco antiguo de Bucarest
 
@@ -65,7 +65,7 @@ Curtea Veche**, y la **iglesia ortodoxa de Stavropoleos**. Con tranquilidad, pod
 continuar la ruta por las calles de Bucarest mientras observamos edificios de la talla 
 del **Museo de Historia Nacional** o el Banco Nacional Rumano. 
 
-![Monasterio Stavropoleos, en el centro de Bucarest.](https://fotos.etheriamagazine.com/2019/10/bucarest-Monasterio-Stavropoleos-900x569.jpg "Monasterio Stavropoleos, en el centro de Bucarest. ©P.B.")
+![Monasterio Stavropoleos, en el centro de Bucarest.](https://fotos.etheriamagazine.com/2019/10/bucarest-Monasterio-Stavropoleos.jpg "Monasterio Stavropoleos, en el centro de Bucarest. ©P.B.")
 
 #### Librería Carusel
 
@@ -76,7 +76,7 @@ encontrar en Instagram. Además de ser un punto de venta de diferentes obras, es
 dedicada a la dinamización cultural, lo que la convierte en otro edificio encargado de 
 impulsar el conocimiento y el arte. 
 
-![libreria carusel, mejores librerias del mundo, bucarest](https://fotos.etheriamagazine.com/2019/10/bucarest-libreria-carusel-900x675.jpg "Librería Carusel. © Marius George Oprea/ Unsplash")
+![libreria carusel, mejores librerias del mundo, bucarest](https://fotos.etheriamagazine.com/2019/10/bucarest-libreria-carusel.jpg "Librería Carusel. © Marius George Oprea/ Unsplash")
 
 Para aprovechar el tiempo, podéis picar algo por el camino o acercaros a alguna de las 
 múltiples ferias o mercados gastronómicos que Bucarest organiza muchos fines de semana. 
@@ -89,12 +89,12 @@ rincón mágico de Bucarest.
 Remataremos el día con un relajante paseo por el **parque de Izvor**, muy animado los 
 días soleados y con las mejores vistas del palacio. 
 
-? Para cenar nos quedamos en **Caru’ Cu Bere**, uno de los restaurantes más emblemáticos 
-de la capital rumana, tanto por su inmenso espacio de estilo gótico como por la 
-gastronomía tradicional que proponen en su carta. No olvidéis acompañar la comanda con 
-una auténtica cerveza. 
+📌 Para cenar nos quedamos en **Caru’ Cu Bere**, uno de los restaurantes más 
+emblemáticos de la capital rumana, tanto por su inmenso espacio de estilo gótico como 
+por la gastronomía tradicional que proponen en su carta. No olvidéis acompañar la 
+comanda con una auténtica cerveza. 
 
-![arco triunfo bucares, que ver en bucarest](https://fotos.etheriamagazine.com/2019/10/bucarest-arco-del-triunfo-900x626.jpg "Arco del Triunfo de Bucarest. ©P.B.")
+![arco triunfo bucares, que ver en bucarest](https://fotos.etheriamagazine.com/2019/10/bucarest-arco-del-triunfo.jpg "Arco del Triunfo de Bucarest. ©P.B.")
 
 ### Domingo: Ateneo, Museo Nacional y Ópera
 
@@ -111,7 +111,7 @@ del Patrimonio Europeo.
 Continuamos hasta el **Museo Nacional de Arte de Rumanía** (www.mnar.arts.ro), al que 
 merece la pena acceder para admirar obras de artistas como El Greco, Picasso o Matisse. 
 
-![centro bucarest, viajes mujeres paris](https://fotos.etheriamagazine.com/2019/10/centro-bucarest-900x600.jpg "Centro histórico de Bucarest. © Hari Nandakumar/ Unsplash")
+![centro bucarest, viajes mujeres paris](https://fotos.etheriamagazine.com/2019/10/centro-bucarest.jpg "Centro histórico de Bucarest. © Hari Nandakumar/ Unsplash")
 
 Si queremos seguir con la jornada artística, os propongo reservar mesa en **Casa Capsa** 
 (www.capsa.ro), una confitería con más de 160 años de historia, todo un recorrido que le 
@@ -144,12 +144,12 @@ que van desde precios muy ajustados a experiencias únicas y exclusivas.
 
 ### No dejes de…
 
-?Darte un **paseo nocturno por Strada Lipscani**, un callejón en el que encontrar 
+📍Darte un **paseo nocturno por Strada Lipscani**, un callejón en el que encontrar 
 ambiente de fiesta todos los días de la semana. Aquí confluyen diferentes bares y 
 pequeñas discotecas que convierten la calle en una fiesta de lo más divertida y 
 variopinta. 
 
-?Continúa viaje: [Cómo convertir una ruta en coche por Rumanía de 7 días en un viaje 
+📍Continúa viaje: [Cómo convertir una ruta en coche por Rumanía de 7 días en un viaje 
 inolvidable](https://etheriamagazine.com/2019/08/02/como-organizar-ruta-coche-rumania-con-amigos/) 
 
 ### Más información

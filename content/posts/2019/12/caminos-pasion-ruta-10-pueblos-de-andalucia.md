@@ -15,7 +15,7 @@ de su Semana Santa, pero también hemos de reconocer que en Etheria Magazine esa
 admiración es compartida con las mujeres que hemos conocido en este viaje. Sigue leyendo 
 y juzga por ti misma… 
 
-![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-de-pasion-carmona-1-900x601.jpg "Carmona.")
+![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-de-pasion-carmona-1.jpg "Carmona.")
 
 ## Caminos de Pasión de mano de sus mujeres
 
@@ -38,7 +38,7 @@ impresionante iglesia de artesonado mudéjar. No dejes de catar su exquisito ace
 oliva, exportado desde tiempos romanos, o asomarte a la panorámica de 360 grados desde 
 la Torre del Oro de su alcázar. 
 
-![utrera, caminos de pasion](https://fotos.etheriamagazine.com/2019/12/calles-utrera-etheria-magazine-900x691.jpg "Una bella estampa de Utrera.")
+![utrera, caminos de pasion](https://fotos.etheriamagazine.com/2019/12/calles-utrera-etheria-magazine.jpg "Una bella estampa de Utrera.")
 
 ### 2\. Pepa y Rosa, las campaneras de Utrera
 
@@ -51,7 +51,7 @@ nosotras nos dejamos llevar por otro sonido, el de las **campanas**. Su repique 
 el lenguaje más popular de la localidad y hoy se mantiene vivo gracias a la **asociación 
 de campaneros de Utrera**. 
 
-![Campanas de Utrera](https://fotos.etheriamagazine.com/2019/12/campanas-utrera-683x1024.jpg "Campanas de Utrera.")
+![Campanas de Utrera](https://fotos.etheriamagazine.com/2019/12/campanas-utrera.jpg "Campanas de Utrera.")
 
 Ya no se oye el toque de queda, aquel que indicaba el cierre de la muralla, ni suena 
 raudo el tañido que llamaba a los vecinos para sofocar un incendio. Aun así, entre los 
@@ -64,7 +64,7 @@ campanas legendarias como ‘Alegría’, la más joven y pizpireta en sus sonid
 una de las más antiguas de España, fundida en 1493, que aún voltea y se balancea en la 
 torre de la iglesia de Santiago el Mayor. 
 
-![osuna](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-osuna-683x1024.jpg "Convento de la Encarnación, en Osuna.")
+![osuna](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-osuna.jpg "Convento de la Encarnación, en Osuna.")
 
 ### 3\. Monjas apasionadas del turismo, Osuna
 
@@ -76,7 +76,7 @@ Osuna también suena a **Universidad**, pues posee la decimotercera fundada en E
 una de las que dio más brillo al Siglo de Oro español gracias a sus estudios de 
 teología. 
 
-![pasteles monjas de osuna](https://fotos.etheriamagazine.com/2019/12/monjas-osuna-dulces-900x539.jpg "Monjas de Osuna en su obrador.")
+![pasteles monjas de osuna](https://fotos.etheriamagazine.com/2019/12/monjas-osuna-dulces.jpg "Monjas de Osuna en su obrador.")
 
 Después de deambular por la belleza renacentista del sevillano núcleo urbano, declarado 
 conjunto histórico artístico, y por la extraordinaria colección de arte religioso de la 
@@ -87,7 +87,7 @@ Las **monjas pioneras del turismo de arte sacro**, dispuesto en varias salas alr
 del claustro, lograron hacer de la visita turística una manera de subsistencia más que 
 espiritual. 
 
-![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-ecija-4-900x672.jpg "Iglesia de San Juan y escultura de la 'Amazona herida', en Écija.")
+![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-ecija-4.jpg "Iglesia de San Juan y escultura de la 'Amazona herida', en Écija.")
 
 ### 4\. Ecija, una amazona
 
@@ -107,7 +107,7 @@ originariamente policromadas, exhibe lo que más nos ha cautivado de esta excepc
 ciudad barroca rica en artesanía: la fortaleza mítica de las amazonas que montaban a 
 caballo al tiempo que disparaban con maestría su arco. 
 
-![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-lucena-alfarera-5-900x601.jpg "María Granados es la única mujer en Lucena que trabaja el barro local.")
+![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-lucena-alfarera-5.jpg "María Granados es la única mujer en Lucena que trabaja el barro local.")
 
 ### 5\. Lucena, alfarera tenías que ser
 
@@ -118,7 +118,7 @@ y teatralizaciones, recorre su necrópolis judía, la mayor de la península y d
 símbolos hebraicos que se esconden en su trazado urbano como los ‘siete brazos del 
 Moral’ que da nombre a su castillo. 
 
-![lucena, caminos de pasion](https://fotos.etheriamagazine.com/2019/12/lucena-cupula-900x601.jpg "La cerámica ocupa muchos monumentos de Lucena.")
+![lucena, caminos de pasion](https://fotos.etheriamagazine.com/2019/12/lucena-cupula.jpg "La cerámica ocupa muchos monumentos de Lucena.")
 
 Después sigue la imponencia barroca de las calles de la cordobesa localidad hasta 
 descubrir el barro, humilde material que llevó a Lucena a ser una ciudad volcada en la 
@@ -128,7 +128,7 @@ de mujer, las de **María Granados**. No solo recae en ella la responsabilidad d
 generaciones familiares con las manos en el torno, sino la tradición artesana de Lucena, 
 pues **es la única alfarera que trabaja el barro local**. 
 
-![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-puente-genil-6-900x601.jpg "Villa romana de Fuente Álamo, en los alrededores de Puente Genil.")
+![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-puente-genil-6.jpg "Villa romana de Fuente Álamo, en los alrededores de Puente Genil.")
 
 ### 6\. Puente Genil, la alegría de las mujeres
 
@@ -147,7 +147,7 @@ que te quedas buen rato atrapada admirando el mosaico de las Tres Gracias. Son A
 Eufrosine y Talía, seres mitológicos desnudos que representan la belleza, el hechizo y 
 la alegría. 
 
-![bodega de puente genil](https://fotos.etheriamagazine.com/2019/12/bodega-puente-genil-900x601.jpg "Es obligado degustar un Montilla-Moriles al pasar por Puente Genil.")
+![bodega de puente genil](https://fotos.etheriamagazine.com/2019/12/bodega-puente-genil.jpg "Es obligado degustar un Montilla-Moriles al pasar por Puente Genil.")
 
 Placeres de la vida que podemos continuar disfrutando en Puente Genil al catar su famoso 
 **membrillo**. Típico fruto de otoño que, en manos de mujeres, **las membrilleras**, se 
@@ -156,7 +156,7 @@ reservar para visitar una **bodega centenaria** y paladear los diversos matices 
 y la tierra atrapados en una sola variedad de uva protagonista de la denominación 
 Montilla-Moriles. 
 
-![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-cabra-7-900x601.jpg "Romería de la Virgen de la Sierra en el monte Picacho.")
+![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-cabra-7.jpg "Romería de la Virgen de la Sierra en el monte Picacho.")
 
 ### 7\. Cabra, la vizcondesa querida
 
@@ -168,7 +168,7 @@ protagonice con sus fósiles y facilidad de pulido edificios de interés mundial
 palacio real segoviano de San Ildefonso, el monasterio de Guadalupe, el museo Británico 
 de Londres o las cortes federales de Nueva York, entre otros muchos. 
 
-![Entorno natural de Cabra](https://fotos.etheriamagazine.com/2019/12/cabra-etheria-magazine-900x601.jpg "Entorno natural de Cabra.")
+![Entorno natural de Cabra](https://fotos.etheriamagazine.com/2019/12/cabra-etheria-magazine.jpg "Entorno natural de Cabra.")
 
 Asciende hasta las murallas y asómate desde el **castillo árabe** y, si llegas en mayo, 
 mira como deslumbra el barrio del Cerro, con sus calles encaladas y sus balcones 
@@ -184,7 +184,7 @@ construyendo viviendas y fundando un colegio para niños pobres, además de arre
 ermita para alegría de sus vecinos. Yace en el cementerio local en un extraordinario 
 mausoleo diseñado por Mariano Benlliure. 
 
-![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-priego-cordoba-8-691x1024.jpg "Priego de Córdoba.")
+![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-priego-cordoba-8.jpg "Priego de Córdoba.")
 
 ### 8\. Priego de Córdoba, la Aurora y sus campanilleros
 
@@ -201,7 +201,7 @@ tipismo de las vías floridas del **barrio de la Villa** que envuelven al templo
 macetas cuelgan con esmero siempre salpicadas de flores que como afirmaba Gloria Fuertes 
 “me parecen de mentira tantas flores de verdad”. 
 
-![flores en priego de cordoba](https://fotos.etheriamagazine.com/2019/12/priego-de-cordoba-etheria-magazine-900x550.jpg "Las flores llenan las calles de Priego de Córdoba.")
+![flores en priego de cordoba](https://fotos.etheriamagazine.com/2019/12/priego-de-cordoba-etheria-magazine.jpg "Las flores llenan las calles de Priego de Córdoba.")
 
 Recorre la **antigua medina** y desembocarás en el balcón del Adarve donde, con las 
 huertas a tus pies, verás **un atardecer inolvidable** desde uno de los más bellos 
@@ -212,7 +212,7 @@ medianoche del sábado para encontrarte con “los auroros”, **campanilleros d
 de la Asunción** que, vestidos de forma similar a los tunos y con cánticos, recaudan 
 durante la noche e inspiran el dicho popular “pides más que los hermanos de la Aurora”. 
 
-![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-baena-9bis-900x601.jpg "Baena.")
+![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-baena-9bis.jpg "Baena.")
 
 ### 9\. Baena, la cruz de las buenas mujeres
 
@@ -226,7 +226,7 @@ kilómetros de la **ciudad de Baena** en una tumba de un religioso hispanorroman
 crismón en su círculo aúna las creencias del medievo europeo con las influencias 
 espirituales de Oriente como el culto a Mitra de los persas y el judaísmo. 
 
-![Leona de Baena](https://fotos.etheriamagazine.com/2019/12/leona-baena-900x601.jpg "Leona de Baena.")
+![Leona de Baena](https://fotos.etheriamagazine.com/2019/12/leona-baena.jpg "Leona de Baena.")
 
 No son hallazgos arqueológicos lo que falta en Baena, basta con dirigirse a la **Casa de 
 la Tercia** –donde se recogían los diezmos- convertida en **museo Histórico y 
@@ -240,7 +240,7 @@ Antes de partir, saborea la tradición olivarera del municipio catando su aceite
 de oliva. Con denominación de origen de Baena se elabora exclusivamente con la variedad 
 picudo, la que mejor se adapta desde tiempos prerromanos al territorio. 
 
-## ![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-alcala-real-cerveza-mariloli-10-900x601.jpg)
+## ![Viajes a Andalucía, rutas con encanto, viajes con amigas](https://fotos.etheriamagazine.com/2019/12/caminos-pasion-alcala-real-cerveza-mariloli-10.jpg)
 
 ### 10\. Alcalá la Real, Mariloli fue la primera de Andalucía
 

@@ -55,7 +55,7 @@ viajan hacia el estrecho de Gibraltar para pasar al mar Mediterráneo y desovar 
 mayo y junio. Es una especie longeva, que puede vivir unos veinte años, y de gran 
 tamaño, ya que puede medir hasta tres metros y pesar unos 250 kilos en su edad adulta. 
 
-![sashimi de atún](https://fotos.etheriamagazine.com/2023/10/sashimi-atun-cadiz-667x1000.jpg "El sashimi de atún saca todo el sabor de cortes como la ventresca.")
+![sashimi de atún](https://fotos.etheriamagazine.com/2023/10/sashimi-atun-cadiz.jpg "El sashimi de atún saca todo el sabor de cortes como la ventresca.")
 
 ## Cómo se pesca el atún rojo
 
@@ -171,7 +171,7 @@ atún_, tomate semi-seco, pesto de pistacho y parmesano gratinado; en **Casa Jua
 delicioso el _Tataki de atún rojo sobre ajoblanco de mango_; y en **Nacarum** su 
 _Ronqueo de atún crudo_ permite probar cuatro especialidades en un solo plato. 
 
-![Volcano Roll de tartar de atún en el restaurante El Alferez.](https://fotos.etheriamagazine.com/2023/10/atun-Restaurante-El-Alferez-volcano-roll-667x1000.jpg "Volcano Roll de tartar de atún en el restaurante © El Alférez.")
+![Volcano Roll de tartar de atún en el restaurante El Alferez.](https://fotos.etheriamagazine.com/2023/10/atun-Restaurante-El-Alferez-volcano-roll.jpg "Volcano Roll de tartar de atún en el restaurante © El Alférez.")
 
 ### Barbate
 
@@ -205,7 +205,7 @@ atún resalta en platos como su _Ensalada templada de atún_ o la _Degustación 
 estilos_. También puedes acercarte a **El Ancla**, para probar su degustación de atún 
 rojo; o la taberna **El Lola Tarifa**, perfecta para tapear con platos de atún. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [La mejor guía de Cádiz provincia para organizar tu 
 viaje](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 

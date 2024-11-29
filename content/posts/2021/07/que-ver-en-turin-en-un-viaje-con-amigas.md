@@ -17,7 +17,7 @@ más elegantes de Italia. Siéntete cien por cien turinesa siguiendo nuestros pa
 este año visitas Turín con amigas para asistir al Festival de Eurovisión, guarda esta 
 guía a buen recaudo. 
 
-![Panorámica desde el mirador Monte dei Cappuccini.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-portada-etheria-900x673.jpg "Panorámica desde el mirador Monte dei Cappuccini. © Kelu Robles")
+![Panorámica desde el mirador Monte dei Cappuccini.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-portada-etheria.jpg "Panorámica desde el mirador Monte dei Cappuccini. © Kelu Robles")
 
 ‘Mires donde mires, esta ciudad no tiene horizonte’, asegura una vecina del barrio **Cit 
 Turin** mientras señala los Alpes, siempre presentes en el _skyline_ turinés. Y me 
@@ -44,7 +44,7 @@ Fiorio** representa una parada clásica de la bohemia turinesa. Es ideal para pr
 _Gianduiotto_, su bombón más célebre, ¡fíjate en su curiosa forma de barco invertido! El 
 elegante **Caffè Mulassano** presume, además, de haber inventado el pan de molde. 
 
-![Una de las (muchas) perspectivas de la Piazza Castello, un lugar esencial si viajas a Turín con amigas](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-castello-900x600.jpg "Una de las (muchas) perspectivas de la Piazza Castello. ©KR")
+![Una de las (muchas) perspectivas de la Piazza Castello, un lugar esencial si viajas a Turín con amigas](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-castello.jpg "Una de las (muchas) perspectivas de la Piazza Castello. ©KR")
 
 Comenzamos a diseccionar Torino por su corazón en la **Piazza Castello**, donde la 
 familia Saboya ubicó su centro de administración. Conviene agudizar la vista y prestar 
@@ -53,7 +53,7 @@ detalle. En el centro, se eleva el **Palacio Madama** (siglo XIII), cuya sala de
 se transformó en una de las cámaras del Parlamento italiano. Algunos vestigios todavía 
 recuerdan que Turín fue la primera capital de Italia en 1861. 
 
-![La Piazza Castello en el siglo XIX.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-castello-antigua-900x633.jpg "La Piazza Castello en el siglo XIX.")
+![La Piazza Castello en el siglo XIX.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-castello-antigua.jpg "La Piazza Castello en el siglo XIX.")
 
 En la retaguardia del **castillo medieval** que da nombre a la plaza, un grupo de 
 estatuas de bronce homenajea a los caídos en la Primera Guerra Mundial. Quizá nuestra 
@@ -68,7 +68,7 @@ estimulantes de la ciudad, imprescindible en un viaje a Turín con amigas.
 > La frontera entre la magia negra y la magia blanca que supuestamente impregnan Turín 
 > también divide, de forma alegórica, la Piazza Castello. 
 
-![Pequeños puestos de librerías bajo los soportales turineses.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-soportales-900x675.jpg "Pequeños puestos de librerías bajo los soportales turineses. ©KR")
+![Pequeños puestos de librerías bajo los soportales turineses.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-soportales.jpg "Pequeños puestos de librerías bajo los soportales turineses. ©KR")
 
 ## Cobijadas en los soportales
 
@@ -83,7 +83,7 @@ de la Sábana Santa que se esconde en una de sus fachadas. En este punto del rec
 resulta interesante realizar una parada gastronómica en la **Galería Comercial de San 
 Federico**. Su elegante estilo _Art Decó_ revive los locos años veinte. 
 
-![Interior de la Galería de San Federico.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-galeria-900x675.jpg "Interior de la Galería de San Federico. ©KR")
+![Interior de la Galería de San Federico.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-galeria.jpg "Interior de la Galería de San Federico. ©KR")
 
 > Para supersticiosos: los turineses aseguran que pisar el toro de bronce de la Piazza San 
 > Carlo da buena suerte. 
@@ -114,7 +114,7 @@ dragón, de ahí el nombre de Torino.
 
 > La ciudad está repleta de pequeñas fuentes con la figura de un torete del que mana agua. 
 
-![El Mercado de Porta Palazzo monta y desmonta sus tenderetes a diario.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-mercado-900x675.jpg "El Mercado de Porta Palazzo monta y desmonta sus tenderetes a diario. ©KR")
+![El Mercado de Porta Palazzo monta y desmonta sus tenderetes a diario.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-mercado.jpg "El Mercado de Porta Palazzo monta y desmonta sus tenderetes a diario. ©KR")
 
 Los comerciantes europeos que llegaban a la ciudad atravesaban la puerta romana **Porta 
 Palatina**, que sigue ejerciendo de acceso —aunque más bien simbólico— a la faceta más 
@@ -129,7 +129,7 @@ ambiente moderno donde treintañeros disfrutan de vermús, **Spritz** y música 
 > Valenza](https://www.facebook.com/pages/category/Diner/Trattoria-Valenza-117539951637619/) 
 > es un clásico gastronómico. 
 
-![En la Piazza San Giovanni se concentran Il Duomo y las ruinas romanas de la antigua Augusta Taurinorum.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-duomo-900x675.jpg "En la Piazza San Giovanni se concentran Il Duomo y las ruinas romanas de la antigua Augusta Taurinorum. ©KR")
+![En la Piazza San Giovanni se concentran Il Duomo y las ruinas romanas de la antigua Augusta Taurinorum.](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-duomo.jpg "En la Piazza San Giovanni se concentran Il Duomo y las ruinas romanas de la antigua Augusta Taurinorum. ©KR")
 
 ## La Sábana Santa
 
@@ -138,7 +138,7 @@ de Turín pueden decidir cuándo se exhibe al público. Normalmente, la Sábana 
 expone en la catedral de **San Giovanni** cada Año Santo Jacobeo. El **Museo della 
 Sindone** explica profusamente todo lo que le concierne a través de una réplica exacta. 
 
-![Interior del Museo Egizio de Turín](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-egipcio-900x624.jpg "Interior del Museo Egizio de Turín. ©KR")
+![Interior del Museo Egizio de Turín](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-egipcio.jpg "Interior del Museo Egizio de Turín. ©KR")
 
 ## Museos entre la pasión y lo lúdico
 
@@ -181,7 +181,7 @@ tradicionales piamonteses con un toque actual. De la sobremesa se encarga **Gori
 con sus cócteles tropicales, y el club **Astoria** pone la música hasta altas horas —su 
 sótano esconde una pequeña sala de conciertos—. 
 
-![La tradicional salsa bagnacauda mezcla anchoas y ajo e invita a mojar un poco de pan](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-platos-salsa-900x675.jpg "La tradicional salsa bagnacauda mezcla anchoas y ajo e invita a mojar un poco de pan. ©KR")
+![La tradicional salsa bagnacauda mezcla anchoas y ajo e invita a mojar un poco de pan](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-platos-salsa.jpg "La tradicional salsa bagnacauda mezcla anchoas y ajo e invita a mojar un poco de pan. ©KR")
 
 ## Guía de viaje de Turín
 
@@ -206,7 +206,7 @@ estación de tren.
 
 **Más información** **en** [Turismo de Italia](https://www.italia.it/es) (ENIT) 
 
-? **¿Sabías que** la empresa de alquiler de casas de vacaciones **Belvilla** ha 
+📌 **¿Sabías que** la empresa de alquiler de casas de vacaciones **Belvilla** ha 
 realizado un estudio donde indica que un viaje de fin de semana a Turín para asistir al 
 **Festival de Eurovisión** puede salir por 2.577 €? Y si ya te quedas una semana... 
 ¡ascendería a más de 9.000 €! Si tienes curiosidad por saber los precios de entradas, 

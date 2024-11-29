@@ -16,7 +16,7 @@ por Unicef en 2007 que la reconoció como Ciudad Amiga de la Infancia debido a s
 abanico de propuestas lúdicas y culturales. Te proponemos los mejores planes con niños 
 en Barcelona para descubrirla en familia. 
 
-![paseo en barco por Barcelona](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-golondrinas-1024x683.jpg "Las Golondrinas son las embarcaciones históricas que navegan por la costa barcelonesa.")
+![paseo en barco por Barcelona](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-golondrinas.jpg "Las Golondrinas son las embarcaciones históricas que navegan por la costa barcelonesa.")
 
 Barcelona siempre es un buen plan, viajes con quien viajes, pero si decides hacerlo en 
 familia te va a faltar tiempo para realizar todas las propuestas que te va a ofrecer la 
@@ -32,7 +32,7 @@ través de los relieves, gárgolas y esculturas que salpican los edificios. Juga
 niños a buscar calaveras, caballeros, dragones y animales en sus calles, edificios y 
 plazas. 
 
-![puerto de Barcelona](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-maremagnum-1024x684.jpg "Maremagnum, la zona más nueva del puerto de Barcelona.")
+![puerto de Barcelona](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-maremagnum.jpg "Maremagnum, la zona más nueva del puerto de Barcelona.")
 
 Después, callejead por **el Born** (donde se celebraban las justas medievales), entrad 
 en la magnífica Santa María del Mar (echa un vistazo a nuestro reportaje sobre _[La 
@@ -44,7 +44,7 @@ Ildefonso Falcones) y acercaos hasta el **Port Vell** (puerto viejo) y el
 Batlló**, para llegar hasta el **Barrio de Gracia**, auténtico, con encanto y lleno de 
 tiendecitas y restaurantes originales. ¡Y todavía os quedará mucho por ver! 
 
-![Terraza de La Pedrera (Barcelona).](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-Terraza-Pedrera-1024x683.jpg "Terraza de La Pedrera (Barcelona).")
+![Terraza de La Pedrera (Barcelona).](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-Terraza-Pedrera.jpg "Terraza de La Pedrera (Barcelona).")
 
 ## La Ciudad Condal por tierra, mar y aire
 
@@ -73,7 +73,7 @@ con animales domésticos, así como un delfinario y zonas de juego para los niñ
 mejor es su ubicación, al lado del parque de la Ciutadella, que cuenta con amplias zonas 
 verdes para hacer picnic y una ludoteca. 
 
-![peces en el aquarium de Barcelona](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-aquarium-1024x663.jpg "El Aquarium de Barcelona es una de las visitas favoritas de los niños.")
+![peces en el aquarium de Barcelona](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-aquarium.jpg "El Aquarium de Barcelona es una de las visitas favoritas de los niños.")
 
 ### El Aquàrium
 
@@ -120,7 +120,7 @@ fines de semana hay talleres muy interesantes, pero conviene comprar las entrada
 antelación porque se acaban rápidamente. Los clientes de La Caixa entran gratis al 
 museo. 
 
-![niñas en el Museo del Chocolate](https://fotos.etheriamagazine.com/2018/10/viaje-familiar-taller-museo-chocolate-1024x797.jpg "Un taller en el Museo del Chocolate, una de las actividades más divertidas.")
+![niñas en el Museo del Chocolate](https://fotos.etheriamagazine.com/2018/10/viaje-familiar-taller-museo-chocolate.jpg "Un taller en el Museo del Chocolate, una de las actividades más divertidas.")
 
 ### Museo del Chocolate
 
@@ -162,7 +162,7 @@ de los numerosos equipamientos culturales y de ocio a los que da acceso, gratis 
 precio reducido. Además, incluye el tren al aeropuerto y el transporte público de la 
 ciudad (TMB). 
 
-![Parque de la Ciudadela (Barcelona).](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-Parque-de-la-Ciudadela-1024x658.jpg "Parque de la Ciudadela (Barcelona).")
+![Parque de la Ciudadela (Barcelona).](https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-Parque-de-la-Ciudadela.jpg "Parque de la Ciudadela (Barcelona).")
 
 ## Parques donde los niños se divertirán
 
@@ -205,7 +205,7 @@ Lo que inicialmente Gaudí proyectó como **una ciudad-jardín al estilo inglés
 acabado siendo el parque más singular de Barcelona y uno de sus símbolos, declarado 
 Patrimonio Mundial de la Humanidad por la Unesco. 
 
-![Puerto de Barcelona desde Montjuic](https://fotos.etheriamagazine.com/2018/10/viaje-familias-Mirador-de-Montjuic-1024x683.jpg "Mirador de Montjuic (Barcelona).")
+![Puerto de Barcelona desde Montjuic](https://fotos.etheriamagazine.com/2018/10/viaje-familias-Mirador-de-Montjuic.jpg "Mirador de Montjuic (Barcelona).")
 
 ## Meriendas de lujo
 
@@ -226,7 +226,7 @@ como krönuts, cookies, chökanias, patatas chips con chocolates, trufas…ç
 servidos con esmero, así como auténticas empanadas argentinas, pasteles caseros y las 
 tardes de los fines de semana, música en directo. 
 
-![terraza de bar el convent](https://fotos.etheriamagazine.com/2018/10/viajes-con-ninos-barcelona-Bar-El-Covent-738x1024.jpg "Bar El Convent, una referencia para ir con niños en Barcelona.")
+![terraza de bar el convent](https://fotos.etheriamagazine.com/2018/10/viajes-con-ninos-barcelona-Bar-El-Covent.jpg "Bar El Convent, una referencia para ir con niños en Barcelona.")
 
 Pero si prefieres lo tradicional, en las **granjas La Pallaresa** o **Dulcinea** (ambas 
 en la calle Petritxol) encontrarás el chocolate a la taza de toda la vida, con churros, 
@@ -256,7 +256,7 @@ Diagonal 201.
 
 Fotos: Félix Lorenzo 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 planes originales para hacer con amigas en 
 Barcelona](https://etheriamagazine.com/2021/03/10/10-planes-originales-con-amigas-en-barcelona/) 

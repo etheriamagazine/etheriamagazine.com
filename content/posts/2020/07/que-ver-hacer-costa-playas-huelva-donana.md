@@ -13,7 +13,7 @@ authors:
 
 La luz de la costa onubense, entre la desembocadura de los ríos Guadalquivir y Odiel, nos promete caminos de arena y agua inexplorados, que invitan a soñar con los ojos abiertos. Te invitamos a recorrer Doñana y las playas más hermosas y salvajes de Huelva.
 
-![marismas Huelva, Guadalquivir, viaje playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-marismas-3-900x618.jpg "Barcos en Punta Umbría, al abrigo de las marismas del río Odiel.")
+![marismas Huelva, Guadalquivir, viaje playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-marismas-3.jpg "Barcos en Punta Umbría, al abrigo de las marismas del río Odiel.")
 
 Justo en ese instante en el que ves al gran río del sur, el **Guadalquivir**, hacerse a 
 la mar en su gran estuario, a caballo entre Cádiz y Huelva, la luz atlántica te contagia 
@@ -25,7 +25,7 @@ playas de Huelva y el sol serán compañeros de viaje por la costa onubense. Has
 a Palos de la Frontera, donde las **marismas del río Odiel**, mecidas por las mareas, 
 perfilan un paisaje cambiante entre islas de horizonte azul y mar. 
 
-![dunas, donana, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-2-900x600.jpg "Dunas del Parque Nacional Doñana.")
+![dunas, donana, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-2.jpg "Dunas del Parque Nacional Doñana.")
 
 ## En busca de la Atlántida
 
@@ -47,7 +47,7 @@ entre sus arenas y zonas marismeñas los restos de la misteriosa **Atlántida**.
 de una civilización mítica de cuya ubicación poco más se sabe que su situación más allá 
 de las columnas de Hércules. 
 
-![playa huelva, dunas torre higuera, matalascanas](https://fotos.etheriamagazine.com/2020/06/Huelva-parque-donada-900x672.jpg "Pinares y dunas fósiles en playa Torre de la Higuera.")
+![playa huelva, dunas torre higuera, matalascanas](https://fotos.etheriamagazine.com/2020/06/Huelva-parque-donada.jpg "Pinares y dunas fósiles en playa Torre de la Higuera.")
 
 La localidad de Matalascañas se conoce también como Torre de la Higuera. El motivo es 
 que era una de las defensas militares del litoral que Felipe II mandó construir ante las 
@@ -57,7 +57,7 @@ caído, a 50 metros de la orilla en la **playa de la Torre de la Higuera**. Junt
 años. Hoy sus vestigios añaden encanto playero y ensoñaciones ante las que apostarse al 
 sol. 
 
-![playa de Castilla, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-5-900x600.jpg "Playa de Castilla (Huelva).")
+![playa de Castilla, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-5.jpg "Playa de Castilla (Huelva).")
 
 El olor del salitre y la brisa son la bienvenida a los 5,5 kilómetros de la tranquila 
 **playa de Matalascañas**. Dorada y de fina arena da paso a unas aguas cristalinas en 
@@ -71,7 +71,7 @@ castellana. Conecta con el municipio de Mazagón a través de **20 kilómetros d
 urbanizar**. Es el baluarte de la esencia de un litoral virgen y la invitación perfecta 
 para perderse por las playas de Huelva. 
 
-![dunas fosiles, playa huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-8-900x600.jpg "Acantilados de dunas fósiles del Asperillo.")
+![dunas fosiles, playa huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-8.jpg "Acantilados de dunas fósiles del Asperillo.")
 
 ## Por amor a la arena
 
@@ -88,7 +88,7 @@ este acantilado de arena blanquecina de un centenar de metros. Espera al atardec
 disfrutarlo a placer. Los matices ocres y anaranjados surgen cuando el sol desciende en 
 el horizonte sobre las arenas fosilizadas, mezcladas con arcilla. 
 
-![playa, costa Huelva, torre del loro](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-4-900x600.jpg "Ruinas de la Torre del Loro.")
+![playa, costa Huelva, torre del loro](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-4.jpg "Ruinas de la Torre del Loro.")
 
 ## Gran evasión en las playas de Huelva
 
@@ -108,7 +108,7 @@ bordear sus instalaciones para acceder a la playa debes mantenerte alejada. Por 
 más recomendable hacerlo desde las playas colindantes para evitar las restricciones de 
 paso. 
 
-![playa arenosillo, mejores playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-6-900x600.jpg "Atardecer en playa del Arenosillo.")
+![playa arenosillo, mejores playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-6.jpg "Atardecer en playa del Arenosillo.")
 
 El paseo tiene una gran recompensa, disfrutar de una playa casi en exclusiva, por lo que 
 es también una de las favoritas para el nudismo. Práctica de baño que puedes hacer 
@@ -129,7 +129,7 @@ onubenses procedentes de Moguer y Palos de la Frontera. Urbana y con las arenas 
 doradas de la zona, es una cita ineludible para el paseo durante la bajamar. En este 
 momento descubre su muy extensa franja litoral. 
 
-![rio tinto, marismas odiel, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-marismas-4-900x632.jpg "Desembocadura del río Tinto en las marismas del Odiel.")
+![rio tinto, marismas odiel, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-marismas-4.jpg "Desembocadura del río Tinto en las marismas del Odiel.")
 
 ## Donde el río me lleve: marismas del Odiel y río Tinto
 
@@ -143,7 +143,7 @@ aves, como **las vistosas espátulas**, son sus más privilegiados visitantes. S
 en invierno, ya que aquí encuentran un cálido refugio y un lugar de descanso en sus 
 viajes de migración. 
 
-![marismas odiel, huelva, playas](https://fotos.etheriamagazine.com/2020/06/Huelva-marismas-guadiana-900x600.jpg "Explotación salinera en las marismas del Odiel.")
+![marismas odiel, huelva, playas](https://fotos.etheriamagazine.com/2020/06/Huelva-marismas-guadiana.jpg "Explotación salinera en las marismas del Odiel.")
 
 > No podemos terminar esta escapada sin ir río arriba para admirar el cauce fluvial más 
 > fotogénico y extraordinario de la geografía ibérica. Sus aguas rojizas identifican al 
@@ -157,7 +157,7 @@ mineral. Incluso la NASA ha estudiado sus peculiares bacterias, capaces de vivir
 medio tan singular, para analizar organismos que pueden vivir en condiciones similares 
 en Marte. 
 
-![rio tinto, viaje Huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-rio-tinto-2-900x601.jpg "Así es el sorprendente color del agua del río Tinto.")
+![rio tinto, viaje Huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-rio-tinto-2.jpg "Así es el sorprendente color del agua del río Tinto.")
 
 ### Guía de viaje | Etheria Magazine
 

@@ -56,7 +56,7 @@ original todos los secretos del majestuoso templo gótico y de sus fascinantes v
 12 años. ¡Los peques no van a necesitar ni a papá ni a mamá en este "viaje de León en 
 familia" para conocer a fondo la Pulchra Leonina! 
 
-?**No te pierdas:** [16 secretos que desconoces de la milenaria ciudad de 
+📍**No te pierdas:** [16 secretos que desconoces de la milenaria ciudad de 
 León](https://etheriamagazine.com/2020/12/16/16-lugares-secretos-y-leyendas-de-leon-capital/). 
 
 ![talleres ninos casa botines leon](https://fotos.etheriamagazine.com/2021/06/taller-ninos-casa-botines-leon.jpg "Actividad para niños en la © Casa Botines de León.")
@@ -157,7 +157,7 @@ los mayores) y para los niños: corto de mosto o butano (una gaseosa de naranja)
 bebida llegará la tapa y empezaréis a entender por qué en la ciudad gusta tanto el 
 “alterne”. 
 
-?**No te pierdas:** [Ruta gastronómica por 
+📍**No te pierdas:** [Ruta gastronómica por 
 León](https://etheriamagazine.com/2021/09/09/ruta-para-comer-bien-en-leon-capital/). 
 
 ![cueva de valporquero planes en familia en leon](https://fotos.etheriamagazine.com/2021/06/cueva-valporquero-planes-leon-familia.jpg "Cueva de Valporquero, en la provincia de León. © Diputación de León")

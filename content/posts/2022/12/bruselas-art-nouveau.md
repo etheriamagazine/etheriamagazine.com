@@ -37,9 +37,9 @@ En su primera planta se podrá visitar una exposición temporal sobre el **Art N
 belga**, donde estarán representados los arquitectos modernistas Paul Hankar, Gustave 
 Serrurier-Bovy y Henry van de Velde. 
 
-?Dónde: Avenue de la Jonction, 1. 1060 Saint-Gilles. 
+📍Dónde: Avenue de la Jonction, 1. 1060 Saint-Gilles. 
 
-![Escaleras interiores de la Casa Hannon, en Bruselas](https://fotos.etheriamagazine.com/2022/12/Hotel-Hannon-681x1024.jpg "Casa Hannon. © Visit Brussels/Jean-Paul Remy.")
+![Escaleras interiores de la Casa Hannon, en Bruselas](https://fotos.etheriamagazine.com/2022/12/Hotel-Hannon.jpg "Casa Hannon. © Visit Brussels/Jean-Paul Remy.")
 
 ### Museo de Arte e Historia en Wolfers
 
@@ -49,7 +49,7 @@ Nouveau** a partir del otoño de 2023. Además de dos nuevas salas, se mostrará
 lugares indispensables como el famoso **Jardín de invierno**, un espacio cubierto con 
 cristaleras a modo de invernadero, diseñado por Victor Horta. 
 
-?Dónde: Parc du Cinquantenaire, 10. 1000 Brussels 
+📍Dónde: Parc du Cinquantenaire, 10. 1000 Brussels 
 
 ![Museo de Arte e Historia-Tienda de los hermanos Wolfers, en  Brussels](https://fotos.etheriamagazine.com/2022/12/museo-historia-arte-bruselas.jpg "Museo de Arte e Historia-antigua joyería de los hermanos Wolfers. © Visit Brussels")
 
@@ -67,9 +67,9 @@ Los viajeros también podrán visitar la antigua oficina de Edmond Van Eetvelde 
 conocer el Art Nouveau bruselense a través de una exposición que recorre los principales 
 momentos de este movimiento. 
 
-?Dónde: Avenue Palmerston, 4. 1000 Brussels 
+📍Dónde: Avenue Palmerston, 4. 1000 Brussels 
 
-![Fachada art nouveau de la Casa van Eetvelde](https://fotos.etheriamagazine.com/2022/12/van-eetvelde-house-850x543.jpg "Casa van Eetvelde. © Visit Brussels")
+![Fachada art nouveau de la Casa van Eetvelde](https://fotos.etheriamagazine.com/2022/12/van-eetvelde-house.jpg "Casa van Eetvelde. © Visit Brussels")
 
 ## Festivales del Art Nouveau
 
@@ -124,9 +124,9 @@ Además, se iluminará, en colaboración con Sibelga, las fachadas de cinco edif
 emblemáticos del Art Nouveau: la Casa Solvay, la Casa Hannon, el Museo Horta, la Casa 
 Cauchie y la Casa Van Eetvelde. 
 
-![Casa Solvay.](https://fotos.etheriamagazine.com/2022/12/casa-solvay-bruselas-850x568.jpg "Casa Solvay. © Visit Brussels")
+![Casa Solvay.](https://fotos.etheriamagazine.com/2022/12/casa-solvay-bruselas.jpg "Casa Solvay. © Visit Brussels")
 
-? Más información en Turismo de Bruselas. 
+📌 Más información en Turismo de Bruselas. 
 
 **También te puede interesar...** 
 

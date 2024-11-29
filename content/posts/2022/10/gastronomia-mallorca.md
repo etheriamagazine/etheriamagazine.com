@@ -225,7 +225,7 @@ simpático **Mini Bar**.
 
 ![camarero sujetando pescados en Villa Luisa en Mallorca](https://fotos.etheriamagazine.com/2022/10/mallorca-villa-luisa.jpg "Pescados de primera en © Villa Luisa.")
 
-? Para darte un homenaje de sibaritismo máximo, escoge, sin ninguna duda, el antiguo 
+📌 Para darte un homenaje de sibaritismo máximo, escoge, sin ninguna duda, el antiguo 
 palacete de **Villa Luisa**, conservado desde 1923 y restaurado con un gusto 
 espectacular. Déjate llevar por el arte del chef Lluis Got, que domina la técnica 
 francesa dándole saborazo, pero respetando el producto de kilómetro cero en su máxima 

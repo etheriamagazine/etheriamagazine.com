@@ -12,7 +12,7 @@ authors:
 
 Practicar submarinismo es una experiencia emocionante pero para llegar a tener esa vivencia hay que comenzar dando un primer paso: un bautismo de buceo. Este puede puede convertirse en el gran motivo de un viaje o en una experiencia más por sólo unos 60 €. Te contamos en qué consiste y dónde hacerlo.
 
-![Dos personas practican buceo](https://fotos.etheriamagazine.com/2020/07/bautismo-buceo-espana-900x675.jpg "Bautismo de buceo. ©Li Yang")
+![Dos personas practican buceo](https://fotos.etheriamagazine.com/2020/07/bautismo-buceo-espana.jpg "Bautismo de buceo. ©Li Yang")
 
 El interior del océano siempre se nos ha mostrado como un lugar enigmático, a pesar de 
 que los documentales nos han acercado su biodiversidad desde hace mucho tiempo. Gracias 
@@ -34,7 +34,7 @@ cuenta de que lo más difícil, casi siempre, es algo que parecía tan fácil co
 y ponerse el neopreno... Aprender a respirar es cuestión de calma y de tiempo, 
 exclusivamente. 
 
-![Un niño practica snorkel en Menorca, el primer paso para un bautismo de buceo](https://fotos.etheriamagazine.com/2020/07/bautismo-buceo-ninos-900x600.jpg "Bautizo buceo para niños. © Nick Sarvari")
+![Un niño practica snorkel en Menorca, el primer paso para un bautismo de buceo](https://fotos.etheriamagazine.com/2020/07/bautismo-buceo-ninos.jpg "Bautizo buceo para niños. © Nick Sarvari")
 
 ## Bautizo de buceo para niños
 
@@ -47,7 +47,7 @@ si quieren salir a mar abierto. ¿Qué es lo que más agobia a los niños? Respi
 exclusivamente por boca, el peso de la botella y que se le nublen las gafas o se llenen 
 de agua, así que alértalos antes de que empiecen la actividad. 
 
-![Una submarinistas se encuentra rodeada de peces](https://fotos.etheriamagazine.com/2020/07/buceo-empresas-bautizo-900x675.jpg "El litoral español cuenta con decenas de empresas que se dedican al buceo.")
+![Una submarinistas se encuentra rodeada de peces](https://fotos.etheriamagazine.com/2020/07/buceo-empresas-bautizo.jpg "El litoral español cuenta con decenas de empresas que se dedican al buceo.")
 
 ## Dónde hacer un bautismo de buceo en España
 
@@ -69,7 +69,7 @@ conveniente subir a un avión o ascender a gran altura antes de 24 horas. La eda
 para el bautizo de buceo es de 8 años. Precio del [bautismo de buceo en 
 Menorca](https://www.civitatis.com/es/menorca/bautismo-buceo-menorca/?aid=10211): 75 €. 
 
-![Las aguas transparentes de Menorca se prestan a un bautismo de buceo](https://fotos.etheriamagazine.com/2020/07/buceo-menorca-900x619.jpg "Las transparentes aguas de Menorca son ideales para el buceo. © Natalia Ponce")
+![Las aguas transparentes de Menorca se prestan a un bautismo de buceo](https://fotos.etheriamagazine.com/2020/07/buceo-menorca.jpg "Las transparentes aguas de Menorca son ideales para el buceo. © Natalia Ponce")
 
 ### Bautismo de buceo en Tenerife
 
@@ -87,15 +87,15 @@ o dos días después. Precio del [bautismo de buceo en Las Galletas
 (Tenerife](https://www.civitatis.com/es/tenerife/bautismo-buceo-tenerife/?aid=10211)): 
 79 €. 
 
-?[Bautismo de buceo en Los 
+📍[Bautismo de buceo en Los 
 Cristianos](https://www.civitatis.com/es/los-cristianos/bautismo-buceo-cristianos/?aid=10211). 
 Desde 59 €. 
 
-?[Bautismo de buceo en Costa 
+📍[Bautismo de buceo en Costa 
 Adeje](https://www.civitatis.com/es/costa-adeje/bautismo-buceo-costa-adeje/?aid=10211). 
 Desde 55 €. 
 
-![Tortuga boba en Tenerife.](https://fotos.etheriamagazine.com/2020/07/tortuga-buceo-tenerife-900x577.jpg "Tortuga boba en Tenerife. © Pablo Valerio")
+![Tortuga boba en Tenerife.](https://fotos.etheriamagazine.com/2020/07/tortuga-buceo-tenerife.jpg "Tortuga boba en Tenerife. © Pablo Valerio")
 
 ### Bautismo de buceo en Jávea
 
@@ -107,7 +107,7 @@ Precio del [bautizo submarino en
 Jávea](https://www.civitatis.com/es/javea/bautismo-buceo-javea/?aid=10211) desde 65 € 
 (edad mínima, 10 años) 
 
-![Costa de Jávea.](https://fotos.etheriamagazine.com/2020/07/costa-javea-buceo-900x600.jpg "Costa de Jávea. © Dominique Devroye")
+![Costa de Jávea.](https://fotos.etheriamagazine.com/2020/07/costa-javea-buceo.jpg "Costa de Jávea. © Dominique Devroye")
 
 ### Bautismo de buceo en Almuñécar
 
@@ -124,7 +124,7 @@ Precio del [bautizo de buceo en
 Almuñecar](https://www.civitatis.com/es/almunecar/bautismo-buceo-almunecar/?aid=10211): 
 60 € (edad mínima, 14 años) 
 
-![Amanecer en Almuñécar (Granada)](https://fotos.etheriamagazine.com/2020/07/almunecar-amanecer-buceo-900x506.jpg "Amanecer en Almuñécar (Granada). © Daroca 30")
+![Amanecer en Almuñécar (Granada)](https://fotos.etheriamagazine.com/2020/07/almunecar-amanecer-buceo.jpg "Amanecer en Almuñécar (Granada). © Daroca 30")
 
 ### Bautismo de buceo en Cambrils
 
@@ -141,11 +141,11 @@ Si te animas, reserva dos horas de tus vacaciones y realiza este [bautismo de bu
 Cambrils](https://www.civitatis.com/es/cambrils/bautismo-buceo-cambrils/?aid=10211) por 
 sólo 65 € (edad mínima, 14 años) 
 
-?Otra opción: [Bautismo de buceo en 
+📍Otra opción: [Bautismo de buceo en 
 Tarragona](https://www.civitatis.com/es/tarragona/bautismo-buceo-tarragona/?aid=10211), 
 desde 60 €. 
 
-![Puerto de Cambrils.](https://fotos.etheriamagazine.com/2020/07/cambrils-puerto-900x600.jpg "Puerto de Cambrils. © Litoral Costa Dorada")
+![Puerto de Cambrils.](https://fotos.etheriamagazine.com/2020/07/cambrils-puerto.jpg "Puerto de Cambrils. © Litoral Costa Dorada")
 
 ### Bautismo de buceo en Ceuta
 
@@ -161,14 +161,14 @@ Ceuta](https://www.civitatis.com/es/ceuta/bautismo-buceo-ceuta/?aid=10211) desde
 
 ### Otros lugares para hacer bautismos de buceo:
 
-?[Bautismo de buceo en La Restinga (El 
+📍[Bautismo de buceo en La Restinga (El 
 Hierro)](https://www.civitatis.com/es/la-restinga/bautismo-buceo-hierro/?aid=10211). 
 Desde 63 €. 
 
-?[Bautismo de buceo en 
+📍[Bautismo de buceo en 
 Foz](https://www.civitatis.com/es/foz/bautismo-buceo-foz/?aid=10211) (Lugo). Desde 65 €. 
 
-?[Bautismo de buceo en Las 
+📍[Bautismo de buceo en Las 
 Negras](https://www.civitatis.com/es/negras/bautismo-buceo-las-negras/?aid=10211) 
 (Almería). Desde 75 €. 
 

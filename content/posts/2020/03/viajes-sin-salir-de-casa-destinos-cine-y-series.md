@@ -13,7 +13,7 @@ authors:
 
 ¿Eres cinéfila o seriéfila? ¿O quizá las dos cosas? Si, además, eres viajera no te pierdas este artículo donde te proponemos nueve destinos que podrás recorrer a través de los ojos de tus personajes favoritos. ¿Te vienes?
 
-![protagonistas de Foodie Love](https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love-900x889.jpg "Cartel de 'Foodie Love'. ©HBO")
+![protagonistas de Foodie Love](https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love.jpg "Cartel de 'Foodie Love'. ©HBO")
 
 ## 1\. ‘Foodie Love’ en Barcelona
 
@@ -26,7 +26,7 @@ apetece tanto probar alguno de los platos y cócteles que salen reflejados, y qu
 también protagonistas, como visitar Barcelona, uno de los principales destinos de cine y 
 series de España. 
 
-![cartel de La Casa de Papel](https://fotos.etheriamagazine.com/2019/09/viajes-la-casa-de-papel-900x439.jpg "Personajes de la 3ª Temporada de 'La Casa de Papel'. © Netflix")
+![cartel de La Casa de Papel](https://fotos.etheriamagazine.com/2019/09/viajes-la-casa-de-papel.jpg "Personajes de la 3ª Temporada de 'La Casa de Papel'. © Netflix")
 
 ## 2\. ‘La Casa de Papel’
 
@@ -84,7 +84,7 @@ después de que se rodara la famosa película _El Lago Azul?_ Y las fans de Tom 
 podrán recordar escenas de su película _Cocktail_ en las cataratas Reach o en Dragon 
 Bay. 
 
-![actores de Mary Poppins en Londres](https://fotos.etheriamagazine.com/2019/01/viajes-cine-mary-poppins-londres-1024x683.jpg "Escena de 'El regreso de Mary Poppins'. © Disney Enterprises")
+![actores de Mary Poppins en Londres](https://fotos.etheriamagazine.com/2019/01/viajes-cine-mary-poppins-londres.jpg "Escena de 'El regreso de Mary Poppins'. © Disney Enterprises")
 
 ## 7\. El Londres de Mary Poppins
 
@@ -95,7 +95,7 @@ el Royal Exchange o el barrio de Westminster son sólo algunas de las localizaci
 la película _El regreso de Mary Poppins_ que te proponíamos anteriormente en este 
 artículo de [Londres](https://etheriamagazine.com/2019/01/22/viajes-cine-londres-de-mary-poppins/). 
 
-![bosque de Tollymore con guía](https://fotos.etheriamagazine.com/2018/05/2-Tollymore-Forest-Park-Juego-de-Tronos-Irlanda-Norte-1024x684.jpg "En Tollymore Forest Park se rodó la escena de los caminantes blancos de la serie 'Juego de Tronos'. © PG")
+![bosque de Tollymore con guía](https://fotos.etheriamagazine.com/2018/05/2-Tollymore-Forest-Park-Juego-de-Tronos-Irlanda-Norte.jpg "En Tollymore Forest Park se rodó la escena de los caminantes blancos de la serie 'Juego de Tronos'. © PG")
 
 ## 8\. 'Juego de Tronos' en Irlanda del Norte
 
@@ -107,7 +107,7 @@ podía ser menos y cuenta con escenarios tan representativos de la serie como To
 Forest Park (el Bosque Encantado en la serie), Castle Ward como la casa de los Stark o 
 Cushendun Caves donde se rodó una impactante escena con Melisandre. 
 
-![escena de serie en la catedral del Mar](https://fotos.etheriamagazine.com/2018/07/Catedral-del-mar-ruta-de-cine-684x1024.jpg "'La Catedral del Mar'. ©")
+![escena de serie en la catedral del Mar](https://fotos.etheriamagazine.com/2018/07/Catedral-del-mar-ruta-de-cine.jpg "'La Catedral del Mar'. ©")
 
 ## 9\. 'La Catedral del Mar' y 'Los herederos de la Tierra'
 

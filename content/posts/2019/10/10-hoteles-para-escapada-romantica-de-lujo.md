@@ -37,7 +37,7 @@ artesanía tradicional costarricense y de las villas con piscina privada.
 ✅ No te pierdas la reseña del [Hotel Nayara Spring en Etheria 
 Magazine](https://etheriamagazine.com/2021/05/23/hotel-nayara-springs-costa-rica/). 
 
-![Piscina del hotel Nayara Springs.](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-PISCINA-1024x683.jpg "Piscina del hotel Nayara Springs. © SG")
+![Piscina del hotel Nayara Springs.](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-PISCINA.jpg "Piscina del hotel Nayara Springs. © SG")
 
 ## 2\. La Domaine (Sardón de Duero, Valladolid)
 
@@ -52,7 +52,7 @@ por los bonitos paisajes de viñedos que le rodean.
 ✅ Sigue leyendo: [Fin de semana romántico en Le Domaine, el hotel de la bodega Abadía 
 Retuerta](https://etheriamagazine.com/2019/11/13/viajes-romanticos-hotel-le-domaine-abadia-retuerta-valladolid/). 
 
-![Vendimia en la bodega Abadía Retuerta con el hotel La Domaine al fondo.](https://fotos.etheriamagazine.com/2019/10/hotel-la-domaine-900x604.jpg "Vendimia en la bodega Abadía Retuerta con el hotel La Domaine al fondo. © SG")
+![Vendimia en la bodega Abadía Retuerta con el hotel La Domaine al fondo.](https://fotos.etheriamagazine.com/2019/10/hotel-la-domaine.jpg "Vendimia en la bodega Abadía Retuerta con el hotel La Domaine al fondo. © SG")
 
 ## 3\. Rayavadee (Krabi, Tailandia)
 
@@ -70,7 +70,7 @@ descubrir lugares como las islas Phi Phi o la isla de James Bond.
 ✅ [Te contamos nuestra visita al hotel 
 Rayavadee](https://etheriamagazine.com/2018/05/25/hotel-rayavadee-vivir-la-naturaleza/). 
 
-![Villa con vistas al mar en el hotel Rayavadee.](https://fotos.etheriamagazine.com/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor-1024x530.jpg "Villa con vistas al mar en el © hotel Rayavadee.")
+![Villa con vistas al mar en el hotel Rayavadee.](https://fotos.etheriamagazine.com/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor.jpg "Villa con vistas al mar en el © hotel Rayavadee.")
 
 ## 4\. La Sultana (Marrakech, Marruecos)
 
@@ -95,7 +95,7 @@ por una playa bañada por un mar transparente como pocos. Un lugar que parece cr
 alejarse del mundo. **En 2024 abrirá totalmente renovado como Four Seasons Resort 
 Mallorca at Formentor.** 
 
-![Vista del antiguo hotel Formentor, en Mallorca](https://fotos.etheriamagazine.com/2018/07/hotel-formentor-paisaje-1024x683.jpg "Vista del hotel Formentor.")
+![Vista del antiguo hotel Formentor, en Mallorca](https://fotos.etheriamagazine.com/2018/07/hotel-formentor-paisaje.jpg "Vista del hotel Formentor.")
 
 ## 6\. Çırağan Palace Kempinski (Estambul, Turquía)
 
@@ -127,7 +127,7 @@ descansar en sus camas balinesas junto a la piscina.
 ✅ Sigue leyendo sobre [hotel Bahía del 
 Duque.](https://etheriamagazine.com/2019/01/11/donde-dormir-tenerife-hotel-bahia-del-duque/) 
 
-![hoteles con encanto, Tenerife, Islas Canarias, viajes en familia, viaja sola](https://fotos.etheriamagazine.com/2019/01/Hotel-Bahia-del-Duque-general-1024x564.jpg "Vista general del pueblo canario que forma el hotel © Bahía del Duque.")
+![hoteles con encanto, Tenerife, Islas Canarias, viajes en familia, viaja sola](https://fotos.etheriamagazine.com/2019/01/Hotel-Bahia-del-Duque-general.jpg "Vista general del pueblo canario que forma el hotel © Bahía del Duque.")
 
 ## 8\. Belmond Reid’s Palace (Madeira, Portugal)
 
@@ -141,7 +141,7 @@ hora del té, todo un ritual al más puro estilo 'british'.
 ✅ Sigue leyendo sobre el hotel [Belmond Reid's 
 Palace](https://etheriamagazine.com/2018/12/29/belmond-reids-palace-el-mejor-hotel-de-madeira/). 
 
-![Piscina del Belmond Reid's Palace de Madeira.](https://fotos.etheriamagazine.com/2018/12/piscina-reids-palace-1024x698.jpg "Piscina del Belmond Reid's Palace de Madeira. ©PG")
+![Piscina del Belmond Reid's Palace de Madeira.](https://fotos.etheriamagazine.com/2018/12/piscina-reids-palace.jpg "Piscina del Belmond Reid's Palace de Madeira. ©PG")
 
 ## 9\. La Bobadilla (Loja, Granada)
 
@@ -156,7 +156,7 @@ aceite o aceitunas y disfruta con su gastronomía.
 ✅ Sigue leyendo sobre el [hotel La 
 Bobadilla.](https://etheriamagazine.com/2018/08/23/hotel-la-bobadilla-loja-granada/) 
 
-![Panorámica del hotel La Bobadilla.](https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica-1024x756.jpg "Hotel La Bobadilla entre campos de olivos. © Barceló Hotels Group")
+![Panorámica del hotel La Bobadilla.](https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica.jpg "Hotel La Bobadilla entre campos de olivos. © Barceló Hotels Group")
 
 ## 10\. Hotel Fregate Island Private (isla Fregate, Seychelles)
 
@@ -167,4 +167,4 @@ Cuenta con sólo 16 villas privadas, algunas con una _infinity pool_ sobre el oc
 quita el hipo, y su trato no puede ser más cuidado y detallista. Lo único que no nos 
 gusta de este hotel es su precio (a partir de 4.500 euros la noche, todo incluido). 
 
-![Infinity Pool de una de las villas del hotel Fregate Private Island.](https://fotos.etheriamagazine.com/2019/10/hotel-fregate-private-island-900x675.jpg "Infinity Pool de una de las villas del hotel Fregate Private Island.")
+![Infinity Pool de una de las villas del hotel Fregate Private Island.](https://fotos.etheriamagazine.com/2019/10/hotel-fregate-private-island.jpg "Infinity Pool de una de las villas del hotel Fregate Private Island.")

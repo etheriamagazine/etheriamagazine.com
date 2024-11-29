@@ -12,7 +12,7 @@ authors:
 
 Es una jungla de asfalto, es cierto, poblada por corbatas, zapatos de tacón y maletines. Pero la diversión también está servida a orillas del río Potomac, donde se sitúa The Wharf, en los encantadores barrios históricos y en el National Mall, donde sigue dominando la cultura y el color verde. Sigue nuestros consejos para disfrutar de un inolvidable viaje a Washington DC con amigas.
 
-![chocolateria harper macaw, que ver Washington, viaje amigas Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-waterfront-chocolateria-Harper-Macaw-900x600.jpg "Chocolatería Harper Macaw, en el Waterfront de Washington. © Kris Ubach")
+![chocolateria harper macaw, que ver Washington, viaje amigas Washington](https://fotos.etheriamagazine.com/2020/02/viaje-whasington-waterfront-chocolateria-Harper-Macaw.jpg "Chocolatería Harper Macaw, en el Waterfront de Washington. © Kris Ubach")
 
 ## Qué ver en Washington DC
 

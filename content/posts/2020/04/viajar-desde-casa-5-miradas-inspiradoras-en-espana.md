@@ -43,7 +43,7 @@ pueblos opta por [San Millán de la Cogolla](http://monasteriodesanmillan.com/),
 monasterios de Suso y Yuso todo comenzó para una lengua común, pues es donde se guarda 
 el primer documento escrito en castellano. 
 
-![monegros desde el aire](https://fotos.etheriamagazine.com/2020/04/monegros-desde-aire-683x1024.jpg "Monegros desde el aire.")
+![monegros desde el aire](https://fotos.etheriamagazine.com/2020/04/monegros-desde-aire.jpg "Monegros desde el aire.")
 
 ## 3\. Los Monegros, una estepa para perderse
 
@@ -58,7 +58,7 @@ Desde el aire, atrapadas en la singularidad de su aridez, nos hemos prendado de 
 curvilíneos diseños que los agricultores** hacen en su paisaje para abarcar cualquier 
 porción del terreno en la que extender cultivos de trigo y cebada. 
 
-![valles pasiegos cantabria](https://fotos.etheriamagazine.com/2020/04/valles-pasiegos-desde-aire-682x1024.jpg "Valles Pasiegos desde el aire.")
+![valles pasiegos cantabria](https://fotos.etheriamagazine.com/2020/04/valles-pasiegos-desde-aire.jpg "Valles Pasiegos desde el aire.")
 
 ## 4\. Rural sin filtros, territorio pasiego
 
@@ -74,7 +74,7 @@ cuevas paleolíticas de [Puente
 Viesgo](https://cuevas.culturadecantabria.com/el-castillo/). El Castillo y Las Monedas 
 te sorprenderán con su arte rupestre, entre los más fascinantes del Cantábrico. 
 
-![vinedos la geria lanzarote](https://fotos.etheriamagazine.com/2020/04/la-geria-lanzarote-682x1024.jpg "Viñedos de La Geria, en Lanzarote, desde el aire.")
+![vinedos la geria lanzarote](https://fotos.etheriamagazine.com/2020/04/la-geria-lanzarote.jpg "Viñedos de La Geria, en Lanzarote, desde el aire.")
 
 ## 5\. Las uvas del volcán, La Geria
 

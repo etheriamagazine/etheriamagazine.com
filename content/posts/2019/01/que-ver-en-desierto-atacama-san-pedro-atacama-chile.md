@@ -16,7 +16,7 @@ chileno por muchas razones que ya sabéis quienes la habéis visitado y que las 
 entenderéis tras leer este artículo. También nos hemos propuesto descubrir por qué no 
 existe la negatividad en el desierto de Atacama, el más árido del planeta. 
 
-![Paisaje del desierto de Atacama con montañas y lagos.](https://fotos.etheriamagazine.com/2018/12/viajera-sola-en-atacama-chile-Etheria-magazine-1-1024x654.jpg "Paisaje del desierto de Atacama. © Kelu Robles")
+![Paisaje del desierto de Atacama con montañas y lagos.](https://fotos.etheriamagazine.com/2018/12/viajera-sola-en-atacama-chile-Etheria-magazine-1.jpg "Paisaje del desierto de Atacama. © Kelu Robles")
 
 Dicen que el cobre y el cuarzo que hay en el **desierto de Atacama** son los 
 responsables del espíritu afable de su gente y, quizá porque la naturaleza es sabia, ha 
@@ -25,7 +25,7 @@ habitantes. Viajeras de todo el mundo eligen esta aldea del Norte Grande de Chil
 Pedro de Atacama, para conocer en solitario su paisaje lunar, los volcanes que le 
 rodean, sus géiseres y sus salares. 
 
-![Viajera sola en el Desierto de Atacama.](https://fotos.etheriamagazine.com/2018/12/viajera-sola-en-atacama-chile-Etheria-magazine-1024x682.jpg "Viajera sola en el Desierto de Atacama. © Kelu Robles")
+![Viajera sola en el Desierto de Atacama.](https://fotos.etheriamagazine.com/2018/12/viajera-sola-en-atacama-chile-Etheria-magazine.jpg "Viajera sola en el Desierto de Atacama. © Kelu Robles")
 
 ## Cómo es San Pedro de Atacama
 
@@ -36,7 +36,7 @@ pueblo también convive con nuestro mundo globalizado. El ambiente relajado de l
 junto a la **iglesia de San Pedro** invita a descansar de los intensos tours, a charlar 
 y a tomarse relajadamente un pisco en alguna de sus terrazas. 
 
-![Las casas de San Pedro de Atacama están construidas con adobe.](https://fotos.etheriamagazine.com/2018/12/San-Pedro-Atacama-viajera-sola-en-atacama-chile-Etheria-magazine-1024x783.jpg "Las casas de San Pedro de Atacama están construidas con adobe.")
+![Las casas de San Pedro de Atacama están construidas con adobe.](https://fotos.etheriamagazine.com/2018/12/San-Pedro-Atacama-viajera-sola-en-atacama-chile-Etheria-magazine.jpg "Las casas de San Pedro de Atacama están construidas con adobe.")
 
 ## Cultura y artesanía
 
@@ -53,7 +53,7 @@ transporte de ganado desde Argentina hasta las instalaciones salitreras del desi
 > en la isla Ogigia, engatusado por el embrujo de Calipso y perdiendo la noción del 
 > tiempo. Cualquier viajero desearía ampliar su estancia en este lugar. 
 
-![Géiseres en el Desierto de Atacama.](https://fotos.etheriamagazine.com/2018/12/geiseres-viajera-sola-en-atacama-chile-Etheria-magazine-1024x748.jpg "Géiseres en el Desierto de Atacama. © Kelu Robles")
+![Géiseres en el Desierto de Atacama.](https://fotos.etheriamagazine.com/2018/12/geiseres-viajera-sola-en-atacama-chile-Etheria-magazine.jpg "Géiseres en el Desierto de Atacama. © Kelu Robles")
 
 ## Qué hacer desde San Pedro de Atacama
 
@@ -73,14 +73,14 @@ fenómeno, porque “gracias al contraste térmico del frío exterior y a las ro
 calientes del interior con el río subterráneo, se producen estas impresionantes 
 ebulliciones”. 
 
-![Hernán Hurtado es guía turístico especializado en los Géiseres del Tatio.](https://fotos.etheriamagazine.com/2018/12/Hernan-viajera-sola-en-atacama-chile-Etheria-magazine-1024x683.jpg "Hernán Hurtado es guía turístico especializado en los Géiseres del Tatio. © Kelu Robles")
+![Hernán Hurtado es guía turístico especializado en los Géiseres del Tatio.](https://fotos.etheriamagazine.com/2018/12/Hernan-viajera-sola-en-atacama-chile-Etheria-magazine.jpg "Hernán Hurtado es guía turístico especializado en los Géiseres del Tatio. © Kelu Robles")
 
 Disfrutar de un café caliente mientras se observa el esoterismo de los géiseres es una 
 experiencia que toda persona debería poder experimentar, al menos una vez en la vida. En 
 el camino de vuelta hacia San Pedro de Atacama se pasean vicuñas, guanacos, chinchillas, 
 flamencos y gaviotas andinas en libertad. 
 
-![Valle de la Luna, en el Desierto de Atacama (Chile).](https://fotos.etheriamagazine.com/2018/12/Valle-de-la-luna-atacama-chile-Etheria-magazine-1024x686.jpg "Valle de la Luna, en el Desierto de Atacama (Chile).")
+![Valle de la Luna, en el Desierto de Atacama (Chile).](https://fotos.etheriamagazine.com/2018/12/Valle-de-la-luna-atacama-chile-Etheria-magazine.jpg "Valle de la Luna, en el Desierto de Atacama (Chile).")
 
 ### Valle de la Luna
 
@@ -91,7 +91,7 @@ valle. La luz del atardecer imprime de tonos violáceos el impresionante **volc�
 Licancabur** y sus casi 6 mil metros de altura. Ese es el mejor momento del día para 
 llegar a esta parte de la Reserva Nacional Los Flamencos. 
 
-![Volcán Licancabur, en el desierto de Atacama.](https://fotos.etheriamagazine.com/2018/12/Licancabur-viajera-sola-en-atacama-chile-Etheria-magazine-1024x605.jpg "Volcán Licancabur, en el desierto de Atacama.")
+![Volcán Licancabur, en el desierto de Atacama.](https://fotos.etheriamagazine.com/2018/12/Licancabur-viajera-sola-en-atacama-chile-Etheria-magazine.jpg "Volcán Licancabur, en el desierto de Atacama.")
 
 ### Fortaleza de Pucará de Quitor
 
@@ -102,7 +102,7 @@ defensivo de sus laberínticas construcciones de adobe. Las **formaciones circul
 la cercana Tulor** recuerdan la ciudad que fue hace tres mil años. Sus restos se han 
 conservado gracias a que fue sepultada por la arena. 
 
-![Alma es el mayor observatorio astronómico del mundo.](https://fotos.etheriamagazine.com/2018/12/alma-viajera-sola-en-atacama-chile-Etheria-magazine-1024x384.jpg "Alma es el mayor observatorio astronómico del mundo.")
+![Alma es el mayor observatorio astronómico del mundo.](https://fotos.etheriamagazine.com/2018/12/alma-viajera-sola-en-atacama-chile-Etheria-magazine.jpg "Alma es el mayor observatorio astronómico del mundo.")
 
 ### Observatorio astronómico
 
@@ -112,7 +112,7 @@ preciso reservar con mucha antelación. Para observar de noche las estrellas de 
 cielo tan limpio, en San Pedro de Atacama se organizan diariamente **tours astronómicos 
 con telescopios**, dirigidos por guías especializados en la materia. 
 
-![Debido a su alta salinidad se puede flotar en la laguna Cejar.](https://fotos.etheriamagazine.com/2018/12/Laguna-cejar-viajera-sola-en-atacama-chile-Etheria-magazine-1024x687.jpg "Debido a su alta salinidad se puede flotar en la laguna Cejar.")
+![Debido a su alta salinidad se puede flotar en la laguna Cejar.](https://fotos.etheriamagazine.com/2018/12/Laguna-cejar-viajera-sola-en-atacama-chile-Etheria-magazine.jpg "Debido a su alta salinidad se puede flotar en la laguna Cejar.")
 
 ### Laguna Cejar
 
@@ -122,7 +122,7 @@ tener que preocuparse por nadar. Siempre se está a flote sobre sus aguas color 
 hacia los tres metros de caída libre que separan el borde del pozo de los **Ojos del 
 Salar.** Hay quien asegura que la profundidad de sus aguas es infinita. 
 
-![Ojos del Salar. ¿Te atreverías a saltar?](https://fotos.etheriamagazine.com/2018/12/Ojos-del-salar-viajera-sola-en-atacama-chile-Etheria-magazine-1024x373.jpg "Ojos del Salar. ¿Te atreverías a saltar?")
+![Ojos del Salar. ¿Te atreverías a saltar?](https://fotos.etheriamagazine.com/2018/12/Ojos-del-salar-viajera-sola-en-atacama-chile-Etheria-magazine.jpg "Ojos del Salar. ¿Te atreverías a saltar?")
 
 ### Guía de viaje | San Pedro de Atacama
 
@@ -146,8 +146,8 @@ Desde San Pedro de Atacama se organizan **excursiones de tres días para visitar
 en Bolivia**. Se trata del mayor desierto de sal del mundo y los reflejos que se 
 producen en su superficie enmarcan una imagen casi onírica. 
 
-?La página oficial Chile Travel contiene información práctica y recomendaciones en torno 
-a muchos aspectos de este viaje. 
+📍La página oficial Chile Travel contiene información práctica y recomendaciones en 
+torno a muchos aspectos de este viaje. 
 
 ### También en Chile...
 

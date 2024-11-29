@@ -30,7 +30,7 @@ entorno también cinco estrellas. Todo envuelto en el ambiente de hospitalidad,
 tranquilidad y sonrisas que emanan del personal que atiende el hotel, al más puro estilo 
 del afable carácter tico. 
 
-![Nayara Springs in love Costa Rica viajes](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-PISCINA-1024x683.jpg "Piscina del hotel Nayara Springs.")
+![Nayara Springs in love Costa Rica viajes](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-PISCINA.jpg "Piscina del hotel Nayara Springs.")
 
 ## Rincones gastronómicos del hotel Nayara Springs
 
@@ -47,7 +47,7 @@ colorido donde las sillas y las mesas están pintadas a mano por miembros de la 
 indígena Maleku. **Nostalgia Wine & Tapas Bar**, un lugar donde degustar los mejores 
 vinos y que cuenta con un cuidado menú de maridaje. 
 
-![Nayara Springs naturaleza lujo Costa Rica](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-SPRINGS-TERRAZA-1024x683.jpg "El hotel Nayara Springs está lleno de rincones con encanto.")
+![Nayara Springs naturaleza lujo Costa Rica](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-SPRINGS-TERRAZA.jpg "El hotel Nayara Springs está lleno de rincones con encanto.")
 
 ## El Spa de Nayara Springs
 
@@ -59,7 +59,7 @@ volcánico o pasta de chocolate, además de masajes terapéuticos. También se p
 disfrutar de **clases de yoga** en un pabellón situado en un entorno idílico exclusivo 
 para esta actividad y del **gimnasio** con vistas. 
 
-![Nayara Springs Romántico lujo Costa Rica](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-SPRINGS-SALA-683x1024.jpg "El hotel Nayara Springs está lleno de rincones románticos.")
+![Nayara Springs Romántico lujo Costa Rica](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-SPRINGS-SALA.jpg "El hotel Nayara Springs está lleno de rincones románticos.")
 
 ## Las Villas Springs
 
@@ -71,7 +71,7 @@ dominan la madera y la piedra autóctona. Y, para que la estancia sea más cómo
 hotel pone a disposición del cliente un asistente personal que le ayuda en todo lo que 
 necesite. 
 
-![Villa romántica Costa Rica lujo viajes](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-SPRINGS-VILLA-1024x683.jpg "Habitación del Nayara Springs.")
+![Villa romántica Costa Rica lujo viajes](https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-SPRINGS-VILLA.jpg "Habitación del Nayara Springs.")
 
 ##### Nayara Springs
 

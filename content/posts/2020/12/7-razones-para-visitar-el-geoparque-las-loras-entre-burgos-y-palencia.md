@@ -87,7 +87,7 @@ No dejes de colarte en las películas basadas en la obra de Delibes visitando el
 de Interpretación del valle de Sedano Miguel Delibes. Además, así conocerás todo el 
 patrimonio, principalmente románico, que guardan los 17 pueblos del valle. 
 
-![las tuerces, geoparque las loras](https://fotos.etheriamagazine.com/2020/12/palencia-piedras-las-tuerces-683x1024.jpg "Las Tuerces, visita imprescindible en Palencia.")
+![las tuerces, geoparque las loras](https://fotos.etheriamagazine.com/2020/12/palencia-piedras-las-tuerces.jpg "Las Tuerces, visita imprescindible en Palencia.")
 
 ## 5\. Las Tuerces, fantasía en Palencia
 

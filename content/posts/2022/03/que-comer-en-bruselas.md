@@ -50,7 +50,7 @@ Gerbaud](https://www.chocolatsgerbaud.be/workshop/) en su establecimiento (adult
 €; niños, 15 €). Lo hemos hecho y es muy recomendable (probad a ponerle sal a los 
 bombones). 
 
-![maestra chocolatera rellenando bombonera](https://fotos.etheriamagazine.com/2022/03/bombones-bruselas-683x1024.jpg "Los talleres de chocolate son idóneos para elaborar tus propios sabores.")
+![maestra chocolatera rellenando bombonera](https://fotos.etheriamagazine.com/2022/03/bombones-bruselas.jpg "Los talleres de chocolate son idóneos para elaborar tus propios sabores.")
 
 En Laurent Gerbaud podrás comprar ricos bombones y chocolates pero también puedes 
 hacerlo en las preciosas **Galerías Reales de Saint Hubert** donde hay tiendas de 
@@ -66,7 +66,7 @@ Y si os quedáis con ganas de saber más, visitad los museos [Belgian Chocolate
 Village](https://www.belgianchocolatevillage.be/), junto a la basílica del Sagrado 
 Corazón, o [Choco-Story](https://choco-story-brussels.be/), cerca de la Grand Place. 
 
-? Otra propuesta curiosa es el [maridaje de chocolate con 
+📌 Otra propuesta curiosa es el [maridaje de chocolate con 
 cerveza](https://es.conceptchocolate.eu/en-IRS.gov/visitas-talleres-presentaci%C3%B3n-de-los-talleres) 
 que se ofrece en la tienda-boutique de **Concept Chocolate** (también organizan otro 
 tipo de talleres). Os sorprenderá. 
@@ -101,7 +101,7 @@ Algunas visitas relacionadas con la cerveza que te pueden interesar son el **Mus
 Schaerbeek** y la fábrica de cervezas más antigua de Bruselas, la [Brasserie 
 Cantillon](https://www.cantillon.be/?lang=en). 
 
-? Y para conocer esta bebida desde otra perspectiva, ¿qué os parece una experiencia 
+📌 Y para conocer esta bebida desde otra perspectiva, ¿qué os parece una experiencia 
 relajante en el [Good Beer Spa](https://goodbeerspa.com/)? Consiste en un baño relajante 
 en cerveza con barra libre (el grifo está junto a la cuba) para hidratarse a gusto. Si 
 vais cuatro personas, la experiencia saldría por un total de 199 €. 
@@ -116,7 +116,7 @@ habitual es pedirlas en un cucurucho –en alguno de sus más de cuatro mil loca
 disfrutando de las mismas mientras se pasea por la ciudad. Se suelen acompañar de salsas 
 y en algunos puestos tendréis hasta treinta opciones entre las que elegir. 
 
-? La importancia que se da a las patatas fritas es de tal nivel que incluso cuentan con 
+📌 La importancia que se da a las patatas fritas es de tal nivel que incluso cuentan con 
 su propio museo, [Home Frit' Home](http://www.homefrithome.com/). 
 
 ![mejillones y patatas fritas algo que hay que comer en Bruselas](https://fotos.etheriamagazine.com/2022/03/mejillones-patatas-fritas-belgica.jpg "Mejillones y patatas fritas, una combinación perfecta.")
@@ -129,7 +129,7 @@ blanco y apio (además de cebolla, ajo y perejil). Y si a alguna del grupo no le
 los mejillones, también puede pedir un rico _steak tartare_ de ternera azul belga o un 
 estofado de ternera. 
 
-? Hay restaurantes históricos como [Chez Leon](https://chezleon.be/en/) y [Grimbergen 
+📌 Hay restaurantes históricos como [Chez Leon](https://chezleon.be/en/) y [Grimbergen 
 Café](http://www.grimbergencafe.be/en/cafe) donde degustar este manjar en un ambiente de 
 otra época. 
 

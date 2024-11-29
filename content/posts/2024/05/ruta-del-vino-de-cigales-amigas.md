@@ -18,7 +18,7 @@ aventura, el arte, la gastronomía o, simplemente, de los vinos rosados y claret
 soléis viajar en pareja o en familia, estas tierras de Cigales también son para 
 vosotras. 
 
-![Mural de Manuel Sierra en Mucientes.](https://fotos.etheriamagazine.com/2024/05/murales-mucientes-850x581.jpg "Mural de Manuel Sierra en Mucientes. © Pepa García")
+![Mural de Manuel Sierra en Mucientes.](https://fotos.etheriamagazine.com/2024/05/murales-mucientes.jpg "Mural de Manuel Sierra en Mucientes. © Pepa García")
 
 Cuando parece que todo está descubierto y que para sorprender al viajero son necesarios 
 grandes y novedosos alardes arquitectónicos, mucho arte conceptual, platos elaborados 
@@ -42,7 +42,7 @@ sus vecinos casi se disculpan por no tener, aparentemente, muchas visitas monume
 Lo que para ellos son pocas, para nosotras son tesoros en forma de templos, castillos o 
 bodegas. Para un solo fin de semana os recomendamos tres: Mucientes, Cigales y Dueñas. 
 
-![Mural visto desde la Bodega Aula de Interpretación](https://fotos.etheriamagazine.com/2024/05/mucientes-bodega-mural-750x1000.jpg "Mural visto desde la Bodega Aula de Interpretación. © Pepa García")
+![Mural visto desde la Bodega Aula de Interpretación](https://fotos.etheriamagazine.com/2024/05/mucientes-bodega-mural.jpg "Mural visto desde la Bodega Aula de Interpretación. © Pepa García")
 
 ### Mucientes
 
@@ -68,7 +68,7 @@ este tipo, os parecerá de otro mundo. El paseo se puede completar con el **Aula
 Paco Díez**, una eminencia en cultura musical ibérica y sefardí, y con la iglesia de San 
 Pedro. 
 
-![Detalle del barrio de bodegas subterráneas de Mucientes.](https://fotos.etheriamagazine.com/2024/05/barrio-bodegas-mucientes-1-850x638.jpg "Detalle del barrio de bodegas subterráneas de Mucientes. © Pepa García")
+![Detalle del barrio de bodegas subterráneas de Mucientes.](https://fotos.etheriamagazine.com/2024/05/barrio-bodegas-mucientes-1.jpg "Detalle del barrio de bodegas subterráneas de Mucientes. © Pepa García")
 
 #### Visita a una bodega en Mucientes
 
@@ -81,7 +81,7 @@ pero también hacen blancos y tintos). Os recomendamos hacer la visita guiada (p
 reserva) y catar su Salvueros rosado y su Salvueros Garnacha Gris. Si lo pedís en 
 cualquier bar o restaurante de Valladolid también lo tendrán. 
 
-![Vinos rosados de la Bodega Salvueros, en Mucientes.](https://fotos.etheriamagazine.com/2024/05/vinos-rosados-salvueros-cigales-750x1000.jpg "Vinos rosados de la Bodega Salvueros, en Mucientes. © Pepa García")
+![Vinos rosados de la Bodega Salvueros, en Mucientes.](https://fotos.etheriamagazine.com/2024/05/vinos-rosados-salvueros-cigales.jpg "Vinos rosados de la Bodega Salvueros, en Mucientes. © Pepa García")
 
 ### Cigales
 
@@ -100,7 +100,7 @@ especiadas morcillas son uno de los mejores productos gourmet que os podéis aut
 el pueblo, la oficina de turismo organiza el itinerario “Descubre Cigales, cuna del 
 clarete”, consulta horarios. 
 
-![Iglesia de Santiago de Cigales.](https://fotos.etheriamagazine.com/2024/05/iglesia-cigales-750x1000.jpg "Iglesia de Santiago de Cigales. © Pepa García")
+![Iglesia de Santiago de Cigales.](https://fotos.etheriamagazine.com/2024/05/iglesia-cigales.jpg "Iglesia de Santiago de Cigales. © Pepa García")
 
 ### Dueñas
 
@@ -126,7 +126,7 @@ centro de interpretación y por una casa cueva. Valentín Rincón, en la fotogra
 muy comprometido con el proyecto y no ceja en su empeño de recuperar la memoria 
 etnográfica del lugar. 
 
-![](https://fotos.etheriamagazine.com/2024/05/cuevas-bodegas-duenas-850x638.jpg "Valentín Rincón, de la ABCD, contando los secretos de las Bodegas y Cuevas de Dueñas. © Pepa García")
+![](https://fotos.etheriamagazine.com/2024/05/cuevas-bodegas-duenas.jpg "Valentín Rincón, de la ABCD, contando los secretos de las Bodegas y Cuevas de Dueñas. © Pepa García")
 
 #### Visita a una bodega en Dueñas
 
@@ -141,7 +141,7 @@ una de las visitas obligadas de la Ruta del Vino de Cigales, no olvidéis reserv
 previamente. Además, luego podéis continuar el paseo por el barrio de bodegas del Cerro 
 del Castillo, que es uno de las tres de este tipo con los que cuenta Dueñas. 
 
-![Amada de Salas en su bodega.](https://fotos.etheriamagazine.com/2024/05/amada-de-salas-850x604.jpg "Amada de Salas en su bodega. © Pepa García")
+![Amada de Salas en su bodega.](https://fotos.etheriamagazine.com/2024/05/amada-de-salas.jpg "Amada de Salas en su bodega. © Pepa García")
 
 ## Dos castillos de la Ruta del Vino Cigales
 
@@ -156,7 +156,7 @@ torres circulares en las esquinas y una inmensa torre del Homenaje. Conviene ded
 tiempo a recorrer todos sus espacios, exposiciones incluidas, y subir a la torre. Se 
 cuenta que en este castillo pasaron los Reyes Católicos su luna de miel. 
 
-![Castillo de Fuensaldaña, en la Ruta del Vino Cigales](https://fotos.etheriamagazine.com/2024/05/ruta-vino-cigales-castillo-fuensaldana-850x567.jpg "Castillo de Fuensaldaña. © Pepa García")
+![Castillo de Fuensaldaña, en la Ruta del Vino Cigales](https://fotos.etheriamagazine.com/2024/05/ruta-vino-cigales-castillo-fuensaldana.jpg "Castillo de Fuensaldaña. © Pepa García")
 
 Y de Fuensaldaña, iremos a Trigueros donde se sitúa el famoso **Castillo Encantado** 
 (elcastilloencantado.es), una construcción del siglo XIV tematizada por Juan Villa, 
@@ -165,7 +165,7 @@ uno de los lugares favoritos del público familiar, ya que los diversos espacios
 castillo acogen exposiciones llenas de fantasía que recuerdan a Harry Potter, Juego de 
 tronos, Superhéroes, etc... 
 
-![Detalle del interior del Castillo Encantado de Trigueros.](https://fotos.etheriamagazine.com/2024/05/castillo-encantado-trigueros-850x638.jpg "Detalle del interior del Castillo Encantado de Trigueros. © Pepa García")
+![Detalle del interior del Castillo Encantado de Trigueros.](https://fotos.etheriamagazine.com/2024/05/castillo-encantado-trigueros.jpg "Detalle del interior del Castillo Encantado de Trigueros. © Pepa García")
 
 ### Visita a una bodega en Trigueros del Valle
 
@@ -181,7 +181,7 @@ baladí sino que al beberlo estaremos disfrutando “del fruto del esfuerzo de m
 generaciones por mantener el patrimonio vegetal, el terruño y la diversidad 
 arquitectónica”. 
 
-![Juan Carlos Prieto Tovar en el interior de la Bodega Histórica bajo focos de color rosa.](https://fotos.etheriamagazine.com/2024/05/bodega-tovar-trigueros-681x1000.jpg "Juan Carlos Prieto Tovar en la Bodega Histórica bajo focos de color rosa. © Pepa García")
+![Juan Carlos Prieto Tovar en el interior de la Bodega Histórica bajo focos de color rosa.](https://fotos.etheriamagazine.com/2024/05/bodega-tovar-trigueros.jpg "Juan Carlos Prieto Tovar en la Bodega Histórica bajo focos de color rosa. © Pepa García")
 
 A sólo cinco kilómetros de Trigueros es recomendable terminar el viaje visitando la 
 **Bodegas Protos Cigales** (bodegasprotos.com), situada a las afueras de Cubillas de 

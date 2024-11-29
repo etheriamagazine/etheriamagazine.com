@@ -42,7 +42,7 @@ la ciudad. Por aquí entraba antiguamente una lengua de agua que rodeaba al casc
 histórico, elevado y protegido por una muralla árabe de la que aún hoy quedan algunos 
 vestigios y tres puertas: Porta da Praça, Porta de Norte y Porta de Santa Ana. 
 
-![Calle del casco histórico de Albufeira.](https://fotos.etheriamagazine.com/2023/12/albufeira-calle-casco-historico-667x1000.jpg "Calle del casco histórico de Albufeira. © Susana García")
+![Calle del casco histórico de Albufeira.](https://fotos.etheriamagazine.com/2023/12/albufeira-calle-casco-historico.jpg "Calle del casco histórico de Albufeira. © Susana García")
 
 Cuando ascendemos para perdernos por sus callejuelas de blanco reluciente, con un 
 urbanismo que delata su pasado islámico, pocos detalles hacen pensar en la destrucción 

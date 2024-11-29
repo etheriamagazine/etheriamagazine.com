@@ -56,7 +56,7 @@ El mejor viaje de mi vida ha sido el más aventurero, quizás por ello ha sido e
 
 Una vez en Kigoma, y ante la apertura de la frontera de Burundi en una tregua durante la guerra, pasamos a pie la frontera para dirigirnos a este país; desde allí cruzamos **Ruanda** y llegamos a **Uganda**, el último país que visitamos en ese viaje… fue toda una aventura.
 
-\[caption id="attachment\_7195" align="aligncenter" width="1024"\]![rose serrano, travel with rose, agencias de viajes para mujeres](https://fotos.etheriamagazine.com/2019/02/rose-serrano-china-1024x707.jpg "Rose Serrano, de Travel with Rose, en China.") Rose Serrano, de Travel with Rose, en China.\[/caption\]
+\[caption id="attachment\_7195" align="aligncenter" width="1024"\]![rose serrano, travel with rose, agencias de viajes para mujeres](https://fotos.etheriamagazine.com/2019/02/rose-serrano-china.jpg "Rose Serrano, de Travel with Rose, en China.") Rose Serrano, de Travel with Rose, en China.\[/caption\]
 
 ##### 8\. ¿Y tu último viaje? ¿Qué es lo que más y lo que menos te ha gustado?
 
@@ -72,7 +72,7 @@ Lo primero que recomendaría es que en alguna ocasión de sus vidas viajen solas
 
 El primero en la lista es **Argentina**, al que ya llevo años queriendo ir; el segundo es el **Delta del Okavango**, **Namibia** y **Bostwana**, que englobaría en un solo viaje. EL último y más especial para mí está en nuestras antípodas y se llama **Niue**, una pequeña isla cerca de [Nueva Zelanda](https://etheriamagazine.com/2018/08/21/nueva-zelanda-en-autocaravana/) que tiene la peculiaridad de acuñar su propia moneda. Este sería el viaje de mi vida.
 
-\[caption id="attachment\_7198" align="aligncenter" width="1024"\]![travel with rose, delta del okavango, viajes para mujeres](https://fotos.etheriamagazine.com/2019/02/delta-okavango-viajes-mujeres-1024x682.jpg "El Delta del Okavango es uno de sus destinos soñados.") El Delta del Okavango es uno de sus destinos soñados.\[/caption\]
+\[caption id="attachment\_7198" align="aligncenter" width="1024"\]![travel with rose, delta del okavango, viajes para mujeres](https://fotos.etheriamagazine.com/2019/02/delta-okavango-viajes-mujeres.jpg "El Delta del Okavango es uno de sus destinos soñados.") El Delta del Okavango es uno de sus destinos soñados.\[/caption\]
 
 ##### 11\. ¿Qué país te ha ganado con su gastronomía? ¿Destacarías algún plato o producto?
 
@@ -86,7 +86,7 @@ Sin dudarlo, en **tren**. Para mí es el medio más eficiente para llegar a todo
 
 No soy amante de las grandes cadenas de hoteles ni de grandes complejos hoteleros, y sí de otros pequeños o medianos donde te tratan como si estuvieras en casa. Mi hotel elegido sería el [Hotel Century en Tualatin](https://www.thecenturyhotel.com/es-es), Portland (en el estado de Oregón), donde he tenido la suerte de alojarme multitud de veces. En este establecimiento he tenido un trato como en pocos, y siempre se han preocupado mucho por mí y por los compañeros que, en alguna ocasión, han viajado allí conmigo.
 
-\[caption id="attachment\_7200" align="aligncenter" width="1024"\]![Hotel Century](https://fotos.etheriamagazine.com/2019/02/Hotel-Century-1024x685.jpg "Hotel Century en Tualatin (Portland).") © Hotel Century en Tualatin (Portland).\[/caption\]
+\[caption id="attachment\_7200" align="aligncenter" width="1024"\]![Hotel Century](https://fotos.etheriamagazine.com/2019/02/Hotel-Century.jpg "Hotel Century en Tualatin (Portland).") © Hotel Century en Tualatin (Portland).\[/caption\]
 
 ##### 14\. ¿Qué es lo que nunca falta en tu bolsa de mano?
 

@@ -16,7 +16,7 @@ dos! Si tu madre es de las que les gusta salir con sus amigas, tomar un buen vin
 organiza escapadas todo el tiempo y se ríe hasta de su sombra, tenemos para ella más de 
 un regalo original para el Día de la Madre. 
 
-![vino diamante regalo original para el dia de la madre](https://fotos.etheriamagazine.com/2021/04/vino-diamante-dia-madre-859x1024.jpg "Pack Diamante para el Día de la Madre.")
+![vino diamante regalo original para el dia de la madre](https://fotos.etheriamagazine.com/2021/04/vino-diamante-dia-madre.jpg "Pack Diamante para el Día de la Madre.")
 
 Si buscas un regalo original para el Día de la Madre, sigue leyendo porque hemos 
 seleccionado diez detalles pensados especialmente para ellas. Encontrarás ediciones 
@@ -81,7 +81,7 @@ risas al ir tan conjuntada (o puede que le encante). Hay diversos estampados, de
 modelo Andalucía, con unas alegres rosas rojas, hasta otros con elefantes, galgos, 
 hormigas, estilo Versalles o chinescos. Los precios están entre 46 y 52 € (el conjunto). 
 
-![insumisas regalo original dia de la madre](https://fotos.etheriamagazine.com/2021/04/insumisas-libro-feminista-691x1024.jpg "Libro Insumisas. Ed. Principal")
+![insumisas regalo original dia de la madre](https://fotos.etheriamagazine.com/2021/04/insumisas-libro-feminista.jpg "Libro Insumisas. Ed. Principal")
 
 ## 5\. Libros para madres rebeldes
 

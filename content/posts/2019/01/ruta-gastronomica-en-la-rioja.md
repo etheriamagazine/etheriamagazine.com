@@ -77,7 +77,7 @@ cuidadosa cuando ha alcanzado su grado de humedad óptimo. Por esa razón disfru
 una exquisita fineza en los platos de caparrones, guisados con tocino, chorizo y un 
 refrito de ajo, cebolla y pimentón. 
 
-![ruta gastronomica la rioja, platos tipicos en la rioja](https://fotos.etheriamagazine.com/2019/01/Caparrones-anguiano-la-rioja-1024x630.jpg "Caparrones de Anguiano.")
+![ruta gastronomica la rioja, platos tipicos en la rioja](https://fotos.etheriamagazine.com/2019/01/Caparrones-anguiano-la-rioja.jpg "Caparrones de Anguiano.")
 
 El cultivo de esta legumbre entró en decadencia hace unos decenios pero, gracias a la 
 iniciativa de un Grupo de Acción Local, se inició un proyecto de recuperación para 
@@ -93,7 +93,7 @@ propio paisaje. Nos desplazamos ahora a la zona de la Rioja Media y los Valles d
 Cidacos y el Alhama para contemplar un horizonte cuajado de **viñedos**, sí, pero 
 también de **olivos y almendros**. 
 
-![Olivos y viñedos en la Rioja Media.](https://fotos.etheriamagazine.com/2019/01/viaje-rioja-Vinedos-y-olivos-1024x659.jpg "Olivos y viñedos en la Rioja Media. © Carmen B.")
+![Olivos y viñedos en la Rioja Media.](https://fotos.etheriamagazine.com/2019/01/viaje-rioja-Vinedos-y-olivos.jpg "Olivos y viñedos en la Rioja Media. © Carmen B.")
 
 La Rioja más mediterránea, situada en la mitad oriental, produce un **aceite de oliva** 
 (aceitedelarioja.com/es) reconocido y amparado por la D.O.P. que, sobre todo, trabaja 
@@ -105,7 +105,7 @@ a su fragante degustación sobre rebanadas de pan tostado. Entre las más céleb
 durante los tres primeros meses del año, podemos citar las de Calahorra, Arnedo, Préjano 
 o Santa Eulalia Bajera. 
 
-![Cañón de Leza, en La Rioja](https://fotos.etheriamagazine.com/2019/01/viaje-la-rioja-Cañon-Leza-1024x643.jpg "Cañón de Leza. © Asociación Altura")
+![Cañón de Leza, en La Rioja](https://fotos.etheriamagazine.com/2019/01/viaje-la-rioja-Cañon-Leza.jpg "Cañón de Leza. © Asociación Altura")
 
 ## Sierra de Cameros: el queso
 
@@ -124,7 +124,7 @@ naturaleza. En Ortigosa de Cameros podremos, además, contemplar las cuevas, una
 **espectaculares muestras de estalactitas**, estalacmitas y otras formaciones calizas 
 que el tiempo se ha encargado de construir con eterna paciencia. 
 
-![quesos de cameros, ruta gastronomica la rioja, platos tipicos en la rioja](https://fotos.etheriamagazine.com/2019/01/viaje-rioja-quesos-los-cameros-1024x665.jpg "Quesos cameranos, fresco y curado. © Quesos Los Cameros.")
+![quesos de cameros, ruta gastronomica la rioja, platos tipicos en la rioja](https://fotos.etheriamagazine.com/2019/01/viaje-rioja-quesos-los-cameros.jpg "Quesos cameranos, fresco y curado. © Quesos Los Cameros.")
 
 La ganadería y la trashumancia tuvieron su razón de ser hasta el siglo XX en estos 
 rincones serranos. De aquella tradición se conserva, amparado también por una **D.O.P. 
@@ -150,7 +150,7 @@ medieval. Situadas en la zona norte de las cumbres de la sierra de Moncalvillo, 
 pueden **visitar cinco neveras de forma troncocónica**. También pueden observarse restos 
 de carboneras cerca de las cañadas de trashumancia que rodean la zona. 
 
-![Los hayedos lucen espectaculares en otoño.](https://fotos.etheriamagazine.com/2019/01/viaje-rioja-Sierra-1024x494.jpg "Los hayedos lucen espectaculares en otoño. © Carmen B.")
+![Los hayedos lucen espectaculares en otoño.](https://fotos.etheriamagazine.com/2019/01/viaje-rioja-Sierra.jpg "Los hayedos lucen espectaculares en otoño. © Carmen B.")
 
 Las neveras, excavadas en la tierra, estaban recubiertas de piedra seca y se tapaban con 
 una cubierta. El uso de la nieve con fines terapéuticos y domésticos para la 
@@ -162,7 +162,7 @@ Y si queremos terminar estos días de recorrido de una forma muy dulce, en el mi
 término municipal de Sojuela podremos acercarnos a conocer un proyecto joven que 
 recupera una de las tradiciones más singulares del mundo del vino en la región. 
 
-![Miguel Martínez ha logrado recuperar la tradición del vino Supurao.](https://fotos.etheriamagazine.com/2019/01/viaje-la-rioja-vino-supurao-ojuel-1024x681.jpg "Miguel Martínez ha logrado recuperar la tradición del vino Supurao. © Ojuel.")
+![Miguel Martínez ha logrado recuperar la tradición del vino Supurao.](https://fotos.etheriamagazine.com/2019/01/viaje-la-rioja-vino-supurao-ojuel.jpg "Miguel Martínez ha logrado recuperar la tradición del vino Supurao. © Ojuel.")
 
 ### La elaboración del vino Supurao
 
@@ -182,7 +182,7 @@ pasificarlas en las colgaderas aireadas de las casas, para que hiciese efecto el
 del tiempo y la deshidratación, consiguiendo así la materia prima para elaborar un vino 
 de dulzor natural. 
 
-![vino supurao, ruta gastronomica la rioja, platos tipicos en la rioja](https://fotos.etheriamagazine.com/2019/01/viaje-la-rioja-supurao-ojuel-1024x683.jpg "Racimos de uva colgados para el secado. © Ojuel.")
+![vino supurao, ruta gastronomica la rioja, platos tipicos en la rioja](https://fotos.etheriamagazine.com/2019/01/viaje-la-rioja-supurao-ojuel.jpg "Racimos de uva colgados para el secado. © Ojuel.")
 
 > Si este es un proyecto que muchos considerarían “romántico”, aún lo es más por el hecho 
 > de que Miguel ha decidido etiquetar todos sus vinos con imágenes de mariposas. Y no es 

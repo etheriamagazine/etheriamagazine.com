@@ -17,7 +17,7 @@ Viajar a Centroeuropa en invierno es un placer. Vale, hace frío y anochece pron
 los adornos y el aroma del vino caliente? Te ayudamos a organizar un fin de semana para 
 conocer los mercados de Navidad de Zúrich. 
 
-![Vista desde el puente Rathaus Brücke en Zúrich](https://fotos.etheriamagazine.com/2018/10/Zurich-vista-desde-el-río-1024x683.jpg "Vista desde el puente Rathaus Brücke. ©Switzerland Tourism/Christof Sonderegger")
+![Vista desde el puente Rathaus Brücke en Zúrich](https://fotos.etheriamagazine.com/2018/10/Zurich-vista-desde-el-río.jpg "Vista desde el puente Rathaus Brücke. ©Switzerland Tourism/Christof Sonderegger")
 
 Suiza es uno de los mejores destinos para disfrutar de un **fin de semana en la época 
 del Adviento** (periodo que incluye las cuatro semanas con los cuatro domingos antes de 
@@ -35,7 +35,7 @@ la ciudad huele a vino caliente (el famoso Glühwein), garrapiñadas y dulces na
 Seguro que nada más llegar los pasos te lleva a la **Bahnhofstrasse**, la arteria 
 principal de la ciudad llena de tiendas, luces y puestos. 
 
-![La Bahnhofstrasse de Zúrich en Navidad](https://fotos.etheriamagazine.com/2018/10/Zurich-Bahnhofstrasse-navidad-1024x683.jpg "La Bahnhofstrasse en Navidad. ©Switzerland Tourism/Ivo Scholz")
+![La Bahnhofstrasse de Zúrich en Navidad](https://fotos.etheriamagazine.com/2018/10/Zurich-Bahnhofstrasse-navidad.jpg "La Bahnhofstrasse en Navidad. ©Switzerland Tourism/Ivo Scholz")
 
 La animación se concentra en torno al río Limmat, que es la zona que también ocupa su 
 casco histórico. A un lado, a un paso de la Bahnhofstrasse, el mercado de la 
@@ -60,7 +60,7 @@ de Navidad cubierto más grande de Europa**. Es una excelente opción si aprieta
 aparece la lluvia. Está ubicado en la **Estación Central** y cuenta con puestos de 
 artesanía donde comprar los mejores adornos para la casa y el árbol de Navidad. 
 
-![Puesto de decoración navideña en la Estación Central.](https://fotos.etheriamagazine.com/2018/10/Zurich-mercado-Estacion-Central-1024x726.jpg "Puesto de decoración navideña en la Estación Central. ©SG.")
+![Puesto de decoración navideña en la Estación Central.](https://fotos.etheriamagazine.com/2018/10/Zurich-mercado-Estacion-Central.jpg "Puesto de decoración navideña en la Estación Central. ©SG.")
 
 Para cenar, hay que introducirse en la gastronomía suiza con una _fondue_. Una opción 
 que no defrauda es [Le Dézaley](https://le-dezaley.ch) en Römergasse (una pequeña calle 
@@ -77,7 +77,7 @@ cubierto de madera merecería la pena. Este puente del siglo XIV, conocido como 
 restaurado. Su techo de madera es precioso y guarda pinturas renacentistas del siglo 
 XVII que cuentan historias de la ciudad. 
 
-![Lucerna, con el puente y la Torre del Agua](https://fotos.etheriamagazine.com/2018/10/Lucerna-navidad-1024x517.jpg "Lucerna, con el puente y la Torre del Agua. ©STST-STTP.")
+![Lucerna, con el puente y la Torre del Agua](https://fotos.etheriamagazine.com/2018/10/Lucerna-navidad.jpg "Lucerna, con el puente y la Torre del Agua. ©STST-STTP.")
 
 Pero aquí no terminan las propuestas, el casco antiguo de Zúrich muestra lugares 
 encantadores como la **Kapellplatz**, plaza que alberga la fuente Fritschi que 
@@ -102,7 +102,7 @@ nueve metros de diámetro. Después, hay que detenerse a admirar la **Fraumünst
 bonita plaza de Münsterhof, con una afilada aguja en su torre y bellos vitrales de 
 Chagall y Giancometti. 
 
-![Zúrich, con la Grossmünster y la Fraumünster.](https://fotos.etheriamagazine.com/2018/10/Zurich-panoramica-1024x395.jpg "Panorámica de Zúrich, con la Grossmünster y la Fraumünster. ©swiss-image.ch/Jan Geerk")
+![Zúrich, con la Grossmünster y la Fraumünster.](https://fotos.etheriamagazine.com/2018/10/Zurich-panoramica.jpg "Panorámica de Zúrich, con la Grossmünster y la Fraumünster. ©swiss-image.ch/Jan Geerk")
 
 Si esta noche se quiere descansar de las delicias suizas, una muy buena opción es volver 
 a cruzar el río para cenar en el restaurante italiano **Santa Lucía**. 
@@ -117,7 +117,7 @@ y deambular entre los puestos para hacer las últimas compras antes de las fiest
 para comer, una de las mejores vistas de la ciudad la ofrece el **Julius Verne Panoramic 
 Bar** (www.jules-verne.ch). 
 
-![Puesto con imágenes de San Nicolás](https://fotos.etheriamagazine.com/2018/10/Zurich-puesto-mercadillo-1024x711.jpg "Puesto con imágenes de San Nicolás. © Susana García")
+![Puesto con imágenes de San Nicolás](https://fotos.etheriamagazine.com/2018/10/Zurich-puesto-mercadillo.jpg "Puesto con imágenes de San Nicolás. © Susana García")
 
 ## Recomendaciones en Zúrich
 
@@ -141,7 +141,7 @@ frente a la Estación Central.
 Más información en la [Oficina de Turismo de 
 Suiza](https://www.myswitzerland.com/es/destinos/regiones/regiones-suisa-zuerich-region.html). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 ciudades con mercadillos navideños para contagiarse del espíritu de la 
 Navidad](https://etheriamagazine.com/2021/10/14/10-ciudades-con-mercadillos-para-contagiarse-del-espiritu-navideno/) 

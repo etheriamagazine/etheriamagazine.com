@@ -17,7 +17,7 @@ enamoró que regresó 8 veces más. El evento, que este año se centra en la rep
 cinematográfica de la ciudad, incluye una exposición, degustaciones gastronómicas, 
 proyecciones cinematográficas y visitas guiadas. 
 
-![Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.](https://fotos.etheriamagazine.com/2018/11/Festival-cine-pamplona-1024x716.jpg "Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.")
+![Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.](https://fotos.etheriamagazine.com/2018/11/Festival-cine-pamplona.jpg "Cartel del Festival e imagen de Hemingway con Lady Duff Twysden y tres amigos más.")
 
 Difícilmente los sanfermines serían tan universales si Ernest Hemingway no se hubiera 
 apasionado tanto con esta fiesta y hubiera escrito su novela **_Fiesta_**. O quizás sí. 

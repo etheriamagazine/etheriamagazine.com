@@ -142,7 +142,7 @@ prestigiosos.
 Más información: [Turismo de 
 Noruega.](http://www.visitnorway.es/que-hacer-en-noruega/saborea-noruega) 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Trondheim, Bergen y Oslo, las 3 capitales de 
 Noruega](https://etheriamagazine.com/2020/01/24/que-ver-en-noruega-trondheim-bergen-y-oslo/) 

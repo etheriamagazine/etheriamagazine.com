@@ -168,7 +168,7 @@ Los curtidores de la zona, conscientes del fuerte olor del cuero, tuvieron la id
 perfumarlo, cultivando rosas y jazmines que alimentaron los alambiques de los primeros 
 perfumistas. 
 
-![Jardines del MIP](https://fotos.etheriamagazine.com/2021/07/Costa-Azul-Jardin-de-MIP-Grasse-683x1024.jpg "Jardín del Museo Internacional de la Perfumería. © Camille Moirenc")
+![Jardines del MIP](https://fotos.etheriamagazine.com/2021/07/Costa-Azul-Jardin-de-MIP-Grasse.jpg "Jardín del Museo Internacional de la Perfumería. © Camille Moirenc")
 
 Con la competencia de París en el XIX, los perfumistas de Grasse se especializan en la 
 materia prima, convirtiéndose en el primer productor mundial en flores para perfumes. En 

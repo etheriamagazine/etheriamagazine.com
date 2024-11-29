@@ -123,7 +123,7 @@ en varios tamaños.
 
 ![maleta azul de Samsonite de plastico reciclado](https://fotos.etheriamagazine.com/2019/06/maleta-sostenible-samsonite.jpg "Modelo ecosostenible de Samsonite que se puede comprar en © Amazon.")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Qué llevar en cabina en un vuelo largo, 12 elementos 
 básicos](https://etheriamagazine.com/2023/07/14/que-llevar-en-cabina/) 

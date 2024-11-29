@@ -128,7 +128,7 @@ Blava - Mallorca. Tel. (+34) 971 74 78 78.
 
 © Fotografías cedidas por Cap Rocat. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Qué hacer en Palma de Mallorca: compras, mercados y 
 arte](https://etheriamagazine.com/2019/08/01/24-horas-palma-mallorca-arte-compras-mercados/) 

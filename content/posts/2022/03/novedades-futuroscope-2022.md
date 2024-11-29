@@ -20,9 +20,9 @@ a ser menos. Si aún no lo has visitado y no formas parte de los 58 millones de 
 que se han emocionado en este parque temático, ve reservando fechas porque ya está 
 abierto y te esperan grandes novedades. En esta ocasión, nos centraremos en las nuevas 
 experiencias porque en anteriores ocasiones ya te hemos contado todos los trucos para 
-sacarle partido y las experiencias más divertidas (?[10 consejos para aprovechar una 
+sacarle partido y las experiencias más divertidas (📍[10 consejos para aprovechar una 
 visita a Futuroscope](https://etheriamagazine.com/2018/08/24/10-consejos-futuroscope/) y 
-?[Objetivo Marte y otras 5 atracciones imprescindibles en 
+📍[Objetivo Marte y otras 5 atracciones imprescindibles en 
 Futuroscope](https://etheriamagazine.com/2020/02/20/viajes-familias-objetivo-marte-y-otras-5-atracciones-imprescindibles-en-futuroscope/)). 
 
 ## Por qué visitar Futuroscope en 2022
@@ -65,7 +65,7 @@ proyecciones sobre grandes pantallas de agua que te dejarán sin palabras. Su ca
 ha sido reconocida con el premio Brass Ring Award al _Espectáculo multimedia de mayor 
 creatividad_. Además, está incluido en la entrada. 
 
-? Toma nota también, si vas a partir del verano, de que se instala en el L'Arena 
+📌 Toma nota también, si vas a partir del verano, de que se instala en el L'Arena 
 Futuroscope el espectáculo **Slava's Snowshow** con divertidas y conmovedoras historias 
 de payasos. Tendrá lugar todos los días del 12 de julio al 28 de agosto de 2022. No está 
 incluido en la entrada general. 
@@ -118,21 +118,21 @@ un tren hasta Poitiers.
 
 ### Guía Futuroscope | Etheria Magazine
 
-##### ?¿Cuáles son las fechas de apertura y horarios de Futuroscope?
+##### 📍¿Cuáles son las fechas de apertura y horarios de Futuroscope?
 
 \-Abre todos los días entre el 5 de febrero y el 11 de septiembre. \-De jueves a 
 domingo, del 15 de septiembre al 21 de octubre. \-Del 21 de octubre al 6 de noviembre 
 (fiesta de Todos los Santos). \-Del 11 de noviembre al 2 de enero de 2023, durante los 
 fines de semana, fiestas, etc. Comprobad fechas concretas en la web del parque. 
 
-##### ?¿Cuánto cuestan las entradas de Futuroscope?
+##### 📍¿Cuánto cuestan las entradas de Futuroscope?
 
 Las entradas de un día para adultos tienen un precio desde 38 euros + gastos de gestión 
 (a partir de 13 años). Los niños menos de 5 años no pagan entrada. También existen 
 paquetes de 2 días de visita con una noche de alojamiento y desayuno desde 53,50 
 euros/adulto y día. 
 
-##### ?¿Cuánto tiempo se tarda en ver Futuroscope?
+##### 📍¿Cuánto tiempo se tarda en ver Futuroscope?
 
 El tiempo mínimo que necesitas para recorrer, entrar en las atracciones, disfrutar de la 
 restauración y de los espectáculos es de una jornada desde primera a última hora. Hay 

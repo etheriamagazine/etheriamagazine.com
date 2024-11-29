@@ -14,7 +14,7 @@ authors:
 
 Si tenéis espíritu marinero, buscáis una experiencia diferente, didáctica y divertida junto a genuinos “lobos de mar”, tomad nota, echad una camiseta de rayas y protección solar a vuestra maleta. ¡Zarpamos para pescar en la Costa de Azahar!
 
-![pescaturismo en castellon, que hacer en castellon](https://fotos.etheriamagazine.com/2020/05/viaje-con-ninos-castellon-pescaturismo-900x600.jpg "La actividad de Pescaturismo es una experiencia real que se aleja de cualquier "turistada". © M. Antolí")
+![pescaturismo en castellon, que hacer en castellon](https://fotos.etheriamagazine.com/2020/05/viaje-con-ninos-castellon-pescaturismo.jpg "La actividad de Pescaturismo es una experiencia real que se aleja de cualquier "turistada". © M. Antolí")
 
 ¿Qué os parece si comenzamos este viaje por el final? Imaginaos en cualquiera de los 
 numerosos restaurantes que existen en España, hay muchos donde elegir. Una **cena con 
@@ -27,7 +27,7 @@ ejemplo, los pescados y mariscos con los que se elaboran estas suculentas receta
 estamos a punto de compartir. Pues si además de unas _foodies_ entusiastas sois curiosas 
 aventureras esta actividad os encantará. 
 
-![barco pescaturismo en castellon](https://fotos.etheriamagazine.com/2020/05/amanecer-pescaturismo-900x795.jpg "Amanece en el Mediterráneo. © Yolanda Cardo")
+![barco pescaturismo en castellon](https://fotos.etheriamagazine.com/2020/05/amanecer-pescaturismo.jpg "Amanece en el Mediterráneo. © Yolanda Cardo")
 
 ### Pescaturismo en Castellón, un plan muy madrugador
 
@@ -52,7 +52,7 @@ que hoy nos llevarán hacia los caladeros del sur, frente a las costas del litor
 valenciano. Lentamente nos alejamos dejando atrás las tenues luces del puerto, avanzando 
 mar adentro rodeados de la más absoluta oscuridad. 
 
-![actvidades pescaturismo castellon](https://fotos.etheriamagazine.com/2020/05/dia-pesca-turismo-900x323.jpg "Una jornada de pesca en 'El Paraíso'. © Yolanda Cardo")
+![actvidades pescaturismo castellon](https://fotos.etheriamagazine.com/2020/05/dia-pesca-turismo.jpg "Una jornada de pesca en 'El Paraíso'. © Yolanda Cardo")
 
 Aún faltan horas para atisbar la salida del sol. Momentos en los que no hay nada, 
 absolutamente nada que hacer… Así que se impone matar el tiempo por ejemplo desayunando 
@@ -74,7 +74,7 @@ Paraíso** se refuerza con grumetes ocasionales, los turistas. Es una buena form
 a conocer la cultura y tradición marinera en un sector muy amenazado y, además, de 
 mejorar las duras condiciones de vida aportando unos ingresos extras. 
 
-![marineros de pescaturismo castellon](https://fotos.etheriamagazine.com/2020/05/pescaturismo-lanzar-redes-900x606.jpg "Preparando las redes para lanzarlas. © Yolanda Cardo")
+![marineros de pescaturismo castellon](https://fotos.etheriamagazine.com/2020/05/pescaturismo-lanzar-redes.jpg "Preparando las redes para lanzarlas. © Yolanda Cardo")
 
 ## ¡A pescar!
 
@@ -98,7 +98,7 @@ mano, exactamente lo mismo que me pasa a mí cuando me asomo a la nevera… pura
 lo remata diciéndote que “en el mar no hay pescado malo, solo hay que saber cocinarlo”, 
 pues será eso. 
 
-![comida en barco pescaturismo castellon](https://fotos.etheriamagazine.com/2020/05/viaje-amigas-castellon-pescaturismo-barco-paraiso-900x601.jpg "Javier, el cocinero, prepara deliciosos guisos. © Yolanda Cardo")
+![comida en barco pescaturismo castellon](https://fotos.etheriamagazine.com/2020/05/viaje-amigas-castellon-pescaturismo-barco-paraiso.jpg "Javier, el cocinero, prepara deliciosos guisos. © Yolanda Cardo")
 
 > Y aquí seguimos acunados por el persistente vaivén de las aguas y el constante run run 
 > de los motores. 
@@ -115,7 +115,7 @@ _sepionet de la punxa_, gambas, _gatet_, cigalas, pulpos, bacaladillas, rapes, m
 y una especie lamentablemente demasiado habitual y que no corre peligro de extinción: 
 plásticos, una lástima. 
 
-![turismo de pescad en castellon](https://fotos.etheriamagazine.com/2020/05/viaje-con-hijos-castellon-pescar-900x595.jpg "Tras la captura se procede a la clasificación por talla y especie. © Yolanda Cardo")
+![turismo de pescad en castellon](https://fotos.etheriamagazine.com/2020/05/viaje-con-hijos-castellon-pescar.jpg "Tras la captura se procede a la clasificación por talla y especie. © Yolanda Cardo")
 
 A continuación se clasifica por especie y talla, una labor que hacen casi con los ojos 
 cerrados. Colocarlos en bandejas cubiertas de hielo para guardarlos en cámaras 
@@ -128,7 +128,7 @@ que no os preocupéis si se os ha escapado algo en el primer lance porque de nue
 comenzará el espectáculo, misma precisión, misma coreografía, ¿misma recompensa? A ver 
 si hay suerte. 
 
-![pescar en castellon](https://fotos.etheriamagazine.com/2020/05/viaje-amigas-castellon-navegar-barco-900x295.jpg "Una jornada inolvidable a bordo de 'El Paraíso'. © Yolanda Cardo")
+![pescar en castellon](https://fotos.etheriamagazine.com/2020/05/viaje-amigas-castellon-navegar-barco.jpg "Una jornada inolvidable a bordo de 'El Paraíso'. © Yolanda Cardo")
 
 #### Termina una intensa jornada de pescaturismo
 
@@ -145,7 +145,7 @@ minutos, estará lista para ser subastada, no sin cierto secretismo, y siempre a
 en el interior de la lonja. “El lunes es el mejor día, luego va bajando y el viernes se 
 paga muy mal”. 
 
-![lonja castellon pescaturismo en familia,](https://fotos.etheriamagazine.com/2020/05/viaje-amigas-castellon-pescaturismo-lonja-900x567.jpg "La lonja, última parada de un viaje inolvidable. © Manel Antolí")
+![lonja castellon pescaturismo en familia,](https://fotos.etheriamagazine.com/2020/05/viaje-amigas-castellon-pescaturismo-lonja.jpg "La lonja, última parada de un viaje inolvidable. © Manel Antolí")
 
 ## Y volvemos al restaurante donde iniciamos el viaje
 

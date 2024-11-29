@@ -139,7 +139,7 @@ ve a las terminales de autobuses a preguntar qué compañías van a Salento, hay
 competencia importante y podrás elegir según te convenga su frecuencia, comodidad y 
 diferencia de precios. 
 
-![Mirador en Salento del eje cafetero](https://fotos.etheriamagazine.com/2019/01/Salento-paisaje-1024x275.jpg "Paisaje que rodea Salento.")
+![Mirador en Salento del eje cafetero](https://fotos.etheriamagazine.com/2019/01/Salento-paisaje.jpg "Paisaje que rodea Salento.")
 
 ##### Dónde alojarse
 

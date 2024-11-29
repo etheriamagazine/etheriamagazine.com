@@ -17,7 +17,7 @@ desconectado del mundo un aliciente. En momentos en los que nos van avisando que
 nuestros primeros viajes tendremos que seguir guardando la distancia social, te 
 proponemos 6 hoteles en España donde te será difícil encontrarte con alguien. 
 
-![Granada olivos naturaleza relax](https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica-1024x756.jpg "Imagen de La Bobadilla entre campos de olivos. © Barceló Hotel Group")
+![Granada olivos naturaleza relax](https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica.jpg "Imagen de La Bobadilla entre campos de olivos. © Barceló Hotel Group")
 
 ## 1\. Hotel La Bobadilla (Loja, Granada)
 
@@ -30,7 +30,7 @@ aliciente a la altura de su gastronomía o su preciosa piscina. En cualquiera de
 excursiones que realices por sus alrededores te será muy difícil encontrarte con 
 alguien. 
 
-![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](https://fotos.etheriamagazine.com/2019/11/Le-Domaine-panoramica-900x600.jpg "Hotel Le Domaine. © Abadía Retuerta")
+![bodega Abadía Retuerta, escapada en pareja, fin de semana romántico](https://fotos.etheriamagazine.com/2019/11/Le-Domaine-panoramica.jpg "Hotel Le Domaine. © Abadía Retuerta")
 
 ## 2\. Le Domaine de Abadía Retuerta (Sardón de Duero, Valladolid)
 
@@ -43,7 +43,7 @@ para conseguir unos vinos que se encuentran entre los mejores de España. Todo e
 ambiente de hotel de cinco estrellas con una gastronomía que cuenta con un restaurante 
 con una estrella Michelin y un spa del que no querrás salir. 
 
-![hoteles Rusticae, hoteles con encanto, escapadas románticas, viajes para dos](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-ogof-900x602.jpg "Salón de la suite Ogof de Xuq Lomas de Ruvira. © Rusticae")
+![hoteles Rusticae, hoteles con encanto, escapadas románticas, viajes para dos](https://fotos.etheriamagazine.com/2020/01/rusticae-xuq-ruvira-ogof.jpg "Salón de la suite Ogof de Xuq Lomas de Ruvira. © Rusticae")
 
 ## 3\. Hotel Xuq Lomas de Ruvira (La Manchuela, Albacete)
 

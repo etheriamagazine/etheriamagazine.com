@@ -1,5 +1,5 @@
 ---
-title: "Descubre la isla de Ons y disfruta del Caribe en España"
+title: "La isla de Ons o cómo disfrutar del Caribe sin salir de España"
 date: 2020-08-06
 coverImage: https://fotos.etheriamagazine.com/2020/08/viaje-galicia-isla-ons-1.jpg
 categories: 
@@ -10,11 +10,16 @@ authors:
   - Firmas invitadas
 ---
 
-Ons es una isla gallega, declarada Patrimonio Natural, cuyo entorno salvaje es idóneo para los amantes de la naturaleza. Debido a sus playas de arena blanca y mar azul la comparan con una isla caribeña pero puedes disfrutar de la misma sin salir de España. ¿Nos acompañas a descubrirla?
+Ons es una isla gallega, declarada Patrimonio Natural, cuyo entorno salvaje es idóneo 
+para los amantes de la naturaleza. Debido a sus playas de arena blanca y mar azul la 
+comparan con una isla caribeña pero puedes disfrutar de la misma sin salir de España. 
+¿Nos acompañas a descubrirla? 
 
-**Por Ana Veiga.** 
+**Por Ana Veiga** 
 
-![Ons, un paraíso poco masificado.](https://fotos.etheriamagazine.com/2020/08/viaje-galicia-isla-ons-1-900x675.jpg "Ons, un paraíso poco masificado. © Piratas de Nabia")
+![Ons, un paraíso poco masificado.](https://fotos.etheriamagazine.com/2020/08/viaje-galicia-isla-ons-1.jpg "Ons, un paraíso poco masificado. © Piratas de Nabia")
+
+Actualizado 09/24 
 
 Seguro que no es la primera vez que escuchas que Galicia es un **paraíso natural** donde 
 verde y azul se mezclan como un cóctel fresco que tomas en un caluroso día de verano. 
@@ -61,7 +66,7 @@ esta gran ‘roca’ en medio de la ría. A esas dos se suma la propia Susi que 
 pero sigue yendo diariamente, allí no sólo tiene sus raíces sino su presente y futuro 
 profesional. 
 
-![Acantilados de la isla de Ons.](https://fotos.etheriamagazine.com/2020/08/isla-ons-atlanticas-galicia-900x675.jpg "Isla de Ons. © Xunta de Galicia")
+![Acantilados de la isla de Ons.](https://fotos.etheriamagazine.com/2020/08/isla-ons-atlanticas-galicia.jpg "Isla de Ons. © Xunta de Galicia")
 
 Podemos decir que **Susi es una de las mujeres de Ons**. Y no es de extrañar en una 
 cultura matriarcal como la gallega donde madres y abuelas vertebran las familias y las 
@@ -70,7 +75,7 @@ seis años, cuando empezó su etapa escolar y se mudaron a Bueu porque en Ons no
 colegio. “Nos fuimos pero todos los veranos y fechas de fiesta me iba para la isla”, 
 reconoce, “siempre he estado muy unida a ella”. 
 
-#### Una isla de turismo sostenible
+### Una isla de turismo sostenible
 
 Por esa unión, decidió allá por el año 1998 ayudar a que más gente llegara a ella y 
 potenciar así su atractivo en el mundo, facilitando una forma de vida para los 
@@ -97,7 +102,7 @@ isla”, menos transitada y con preciosos paisajes naturales.
 > de información donde te explicarán qué puedes ver en la isla. Pero te adelantamos cinco 
 > cosas que no te puedes perder. 
 
-![Buraco do Inferno, un lugar envuelto en leyendas.](https://fotos.etheriamagazine.com/2020/08/isla-ons-OBurato-900x598.jpg "Buraco do Inferno, un lugar envuelto en leyendas. © Xunta de Galicia")
+![Buraco do Inferno, un lugar envuelto en leyendas.](https://fotos.etheriamagazine.com/2020/08/isla-ons-OBurato.jpg "Buraco do Inferno, un lugar envuelto en leyendas. © Xunta de Galicia")
 
 ### 1\. Buraco do inferno
 
@@ -167,7 +172,7 @@ Tras el mirador, bordearemos la costa occidental hasta alcanzar nuestro destino 
 podrás ver los acantilados y bocas de entrada a la furnas o cuevas marinas en la cara 
 oeste de la isla. 
 
-![Contorno rocoso de Ons.](https://fotos.etheriamagazine.com/2020/08/isla-ons-excursion-galicia-900x675.jpg "Contorno rocoso de Ons. © Xunta de Galicia")
+![Contorno rocoso de Ons.](https://fotos.etheriamagazine.com/2020/08/isla-ons-excursion-galicia.jpg "Contorno rocoso de Ons. © Xunta de Galicia")
 
 ### 5\. Playa de Melide
 
@@ -186,7 +191,7 @@ rocas por lo que tiene menos oleaje) o la de **Canexol** (al lado del pueblo que
 su mismo nombre, y se accede a ella por una cuesta que desciende del camino principal 
 con salida desde el pueblo de O Curro). 
 
-[![Fenómeno del mar de Ardara.](https://fotos.etheriamagazine.com/2020/08/mar-ardara-galicia-900x500.jpg)](https://www.lavozdegalicia.es/video/sociedad/2017/06/30/espectaculo-mar-ardora/0031_2017065489455053001.htm)
+[![Fenómeno del mar de Ardara.](https://fotos.etheriamagazine.com/2020/08/mar-ardara-galicia.jpg)](https://www.lavozdegalicia.es/video/sociedad/2017/06/30/espectaculo-mar-ardora/0031_2017065489455053001.htm)
 
 ## El mar de Ardora y otros atractivos naturales
 
@@ -218,11 +223,11 @@ das Illas Atlánticas ha sido galardonado con el Sello ‘Starlight’, que lo c
 destino de interés para la observación de astronómica. La **naviera Piratas de Nabia** 
 organiza actividades Starlight con opción de alojamiento en la propia Isla. 
 
-![No te marches de Galicia sin probar el pulpo.](https://fotos.etheriamagazine.com/2020/08/pulpo-galicia-900x600.jpg "No te marches de Galicia sin probar el pulpo.")
+![No te marches de Galicia sin probar el pulpo.](https://fotos.etheriamagazine.com/2020/08/pulpo-galicia.jpg "No te marches de Galicia sin probar el pulpo.")
 
-### Guía de Ons | Etheria Magazine
+## Guía de Ons | Etheria Magazine
 
-##### Cómo llegar a Ons
+**Cómo llegar a Ons** 
 
 Antes de comprar tu billete de barco o reservar alojamiento, debes solicitar la [autorización 
 de visita o estancia](https://autorizacionillasatlanticas.xunta.gal/illasr/inicio) ya 
@@ -233,33 +238,33 @@ dependiendo de la naviera. [Puedes reservar en
 Civitatis](https://www.civitatis.com/es/portonovo/barco-isla-ons/?aid=10211) o en [Piratas 
 de Nabia](https://www.piratasdenabia.com/tour/barco-isla-de-ons/). 
 
-##### Dónde dormir en Ons
+**Dónde dormir en Ons** 
 
-Puedes alojarte en la **Pensión Casa Acuña**, a pocos metros del puerto y de la playa de 
-As Dornas. Es un establecimiento de dos estrellas, que cuenta con habitaciones dobles de 
-categoría superior. 
+Puedes alojarte en la [Pensión Casa Acuña](https://www.isladeons.net/es/restaurante/), a 
+pocos metros del puerto y de la playa de As Dornas. Es un establecimiento de dos 
+estrellas, que cuenta con habitaciones dobles de categoría superior. 
 
 Otra opción de estancia es el [camping](http://campingisladeons.com), que es el primero 
 autosostenible de Galicia y cuenta con zona Glamping. Solo hay 200 plazas y mucha 
 demanda por lo que es interesante reservar con antelación ya que en verano suele estar 
 lleno. La reserva debe hacerse en el link anterior. 
 
-##### Dónde comer en Ons
+**Dónde comer en Ons** 
 
 No te vayas sin probar el pulpo _á feira_ de Ons. Puedes degustarlo en Bueu o en Ons, en 
 el **restaurante Casa Acuña** o el **bar O Pirata**. 
 
-##### Excursiones en la isla de Ons
+**Excursiones en la isla de Ons** 
 
 Si quieres hacer rutas por la isla, ten en cuenta que su duración es de casi dos horas 
 aunque no son caminos de alta dificultad. Puedes ver las rutas y reservar una guía en 
 **Piratas de Nabia**. 
 
-##### Más información
+**Más información** 
 
 [Isla de](http://www.isladeons.net/) [Ons](http://www.isladeons.net/). 
 
-### También te puede interesar:
+**También te puede interesar:** 
 
 [8 planes con niños en la costa de 
 Pontevedra](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/) 

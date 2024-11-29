@@ -16,7 +16,7 @@ años por Movistar+ en nuestra isla más meridional, nos ha atrapado. Entre las 
 de la investigación de un asesinato nos desvela a poquitos, con el ritmo cambiante de 
 cada capítulo, los encantos de la isla más radical del archipiélago. 
 
-![Sabina en El Hierro.](https://fotos.etheriamagazine.com/2019/09/El-hierro-sabina-canarias-900x684.jpg "Sabina en El Hierro.")
+![Sabina en El Hierro.](https://fotos.etheriamagazine.com/2019/09/El-hierro-sabina-canarias.jpg "Sabina en El Hierro.")
 
 Es la más remota y, a la vez, la más joven de las islas Canarias; por ello, las rocas 
 volcánicas componen su abrupto paisaje formando imponentes acantilados, a la vez que 
@@ -34,7 +34,7 @@ registró su última erupción volcánica. Fue frente al paraíso para buceo y p
 pescador de La Restinga, al sur de la isla. Aunque la actividad volcánica se mantuvo 
 submarina a punto estuvo de cambiar la geografía herreña. 
 
-![Restaurante del mirador La Pena, mirador de los Boscos](https://fotos.etheriamagazine.com/2019/09/El-hierro-Mirador-los-Bascos-mirador-la-pena-900x326.jpg "Restaurante del mirador La Peña y mirador de los Boscos.")
+![Restaurante del mirador La Pena, mirador de los Boscos](https://fotos.etheriamagazine.com/2019/09/El-hierro-Mirador-los-Bascos-mirador-la-pena.jpg "Restaurante del mirador La Peña y mirador de los Boscos.")
 
 ## Sin aliento al borde del viejo volcán
 
@@ -48,7 +48,7 @@ que muestra El Golfo, anfiteatro natural rodeado de riscos, desde el mirador de 
 Otra perspectiva frecuente de la producción televisiva ya que es donde se reúnen los 
 amigos del fallecido. 
 
-? En el lugar, el [artista canario César 
+📌 En el lugar, el [artista canario César 
 Manrique](http://etheriamagazine.com/2019/09/10/cesar-manrique-ruta-en-lanzarote/) 
 realizó una intervención inspirada en la arquitectura canaria. El edificio, a 645 metros 
 sobre el mar, rinde **homenaje a la tierra** rodeado de espacios al aire libre en varios 
@@ -56,7 +56,7 @@ niveles, como las viviendas herreñas, y de la vegetación autóctona. Se destin
 **restaurante Mirador de la Peña** donde degustar la **gastronomía canaria** de la mano 
 de jóvenes restauradores isleños. 
 
-![Tabaibas y sabinas en El Hierro.](https://fotos.etheriamagazine.com/2019/10/el-hierro-Tabaibas-sabinas-900x679.jpg "Tabaibas y sabinas en El Hierro.")
+![Tabaibas y sabinas en El Hierro.](https://fotos.etheriamagazine.com/2019/10/el-hierro-Tabaibas-sabinas.jpg "Tabaibas y sabinas en El Hierro.")
 
 ## Al pie del Malpaso
 
@@ -71,7 +71,7 @@ humedad que acarrean los vientos alisios, quedan prendidas entre ramas y hojas
 descargando su codiciada agua en pequeñas gotas que se deslizan por la superficie 
 vegetal. 
 
-![Iglesia de Valverde (El Hierro).](https://fotos.etheriamagazine.com/2019/10/el-hierro-iglesia-valverde-900x587.jpg "Iglesia de Valverde (El Hierro).")
+![Iglesia de Valverde (El Hierro).](https://fotos.etheriamagazine.com/2019/10/el-hierro-iglesia-valverde.jpg "Iglesia de Valverde (El Hierro).")
 
 ## Valverde, sin semáforos ni ascensores
 
@@ -90,7 +90,7 @@ visita al juzgado, del que ha sido nombrada titular, al extrañarse también de 
 poseen, para qué si las construcciones son casas terreras –viviendas tradicionales- o no 
 sobrepasan las tres plantas. 
 
-![Océano Atlántico en El Hierro.](https://fotos.etheriamagazine.com/2019/10/el-hierro-atlantico-900x656.jpg "Océano Atlántico en El Hierro.")
+![Océano Atlántico en El Hierro.](https://fotos.etheriamagazine.com/2019/10/el-hierro-atlantico.jpg "Océano Atlántico en El Hierro.")
 
 ## El Atlántico omnipresente en la serie Hierro
 
@@ -109,7 +109,7 @@ argumento de la serie. Hasta la orilla nos acercamos por uno de los parajes lito
 más hermosos como es la **playa de El Verodal**. Con sus arenas rojizas contrastando con 
 la espuma blanca del oleaje, es el escenario elegido para la aparición del cadáver. 
 
-![Laurisilva y bosque de fayal en El Hierro.](https://fotos.etheriamagazine.com/2019/10/el-hierro-laurisilva-900x685.jpg "Laurisilva y bosque de fayal en El Hierro.")
+![Laurisilva y bosque de fayal en El Hierro.](https://fotos.etheriamagazine.com/2019/10/el-hierro-laurisilva.jpg "Laurisilva y bosque de fayal en El Hierro.")
 
 ## Donde nace la bruma
 
@@ -127,7 +127,7 @@ retener las nubes se contempla en el **mirador de la Llanía** donde un gran bre
 base limpia de vegetación colecta esa lluvia horizontal condensándola en su base para 
 alimento de una fuente. 
 
-![Pardelas en El Hierro.](https://fotos.etheriamagazine.com/2019/10/el-hierro-pardelas-900x600.jpg "Pardelas en El Hierro.")
+![Pardelas en El Hierro.](https://fotos.etheriamagazine.com/2019/10/el-hierro-pardelas.jpg "Pardelas en El Hierro.")
 
 ## El canto de las pardela
 
@@ -143,7 +143,7 @@ ciudadanía para colaborar en su protección. No solo la contaminación lumínic
 luna llena despistan a los jóvenes inexpertos que vuelan hacia el interior cayendo en 
 tierra, de donde son incapaces de despegar. 
 
-![Mirador del valle del Golfo (El Hierro).](https://fotos.etheriamagazine.com/2019/10/el-hierro-vista-el-golfo-900x665.jpg "Mirador del valle del Golfo (El Hierro).")
+![Mirador del valle del Golfo (El Hierro).](https://fotos.etheriamagazine.com/2019/10/el-hierro-vista-el-golfo.jpg "Mirador del valle del Golfo (El Hierro).")
 
 ## Una montaña roja que suena
 
@@ -156,7 +156,7 @@ contemporánea al templo y cuya ubicación fue elegida para que la comunicación
 de las campanas llegase a todos los vecinos del municipio de Frontera. Es a su vez un 
 **mirador del valle del Golfo** que quita el aliento. 
 
-![Lagarto gigante de El Hierro y Golfo de Roques Salmor.](https://fotos.etheriamagazine.com/2019/10/el-hierro-Golfo-Roques-Salmor-lagarto-900x313.jpg "Lagarto gigante de El Hierro y Golfo de Roques Salmor.")
+![Lagarto gigante de El Hierro y Golfo de Roques Salmor.](https://fotos.etheriamagazine.com/2019/10/el-hierro-Golfo-Roques-Salmor-lagarto.jpg "Lagarto gigante de El Hierro y Golfo de Roques Salmor.")
 
 ## El lagarto más grande y el hotel más pequeño
 
@@ -182,7 +182,7 @@ como reserva natural integral por sus aves marinas, así como por la antigua pre
 este lagarto. En el **Ecomuseo de Guinea** se está reintroduciendo y criando en 
 cautividad, ya que es **el lagarto más amenazado de nuestro continente**. 
 
-![Lava solidificada en Los Lajiares (El Hierro).](https://fotos.etheriamagazine.com/2019/10/el-hierro-Los-Lajiares-900x685.jpg "Lava solidificada en Los Lajiares (El Hierro).")
+![Lava solidificada en Los Lajiares (El Hierro).](https://fotos.etheriamagazine.com/2019/10/el-hierro-Los-Lajiares.jpg "Lava solidificada en Los Lajiares (El Hierro).")
 
 ## Última mirada sostenible
 
@@ -200,7 +200,7 @@ por ser autosuficiente por su energía renovable, se la llevaba el **Roque de la
 Bonanza**, un dique volcánico al este insular en la zona de **Las Playas** y uno de sus 
 más preciosos símbolos naturales. 
 
-![Roque de la Bonanza (El Hierro).](https://fotos.etheriamagazine.com/2019/10/el-hierro-roques-900x674.jpg "Roque de la Bonanza (El Hierro).")
+![Roque de la Bonanza (El Hierro).](https://fotos.etheriamagazine.com/2019/10/el-hierro-roques.jpg "Roque de la Bonanza (El Hierro).")
 
 ## Más viajes en Canarias
 

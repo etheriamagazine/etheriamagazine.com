@@ -120,7 +120,7 @@ afrocubana yoruba de los santeros.
 
 !["Almendrón" en La Habana, frente al Floridita.](https://fotos.etheriamagazine.com/2019/07/La-Habana-coche.jpg ""Almendrón" en La Habana, frente al Floridita. © David Braud")
 
-? Un clásico de la calle habanera es la reunión de hombres arreglando un **almendrón** 
+📌 Un clásico de la calle habanera es la reunión de hombres arreglando un **almendrón** 
 con piezas de aquí de allá, mimándolo con la misma pasión que harían con sus gallos de 
 pelea, a la par que opinan sobre la conveniencia de recomponer su viejo Cadillac con el 
 motor de un Fiat desahuciado, la bomba del Mercedes, el tubo de escape del Volkswagen o 

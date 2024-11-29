@@ -39,7 +39,7 @@ barrio rojo de Bombay**. No menos interesante fue su siguiente proyecto document
 libro incluido, que daba a conocer la labor de las **misioneras de la Caridad de la 
 Madre Teresa de Calcuta**. 
 
-![Tiny vestida para Halloween](https://fotos.etheriamagazine.com/2021/04/Mary-Ellen-Mark-tiny-Halloween-1983-692x1024.jpg "Tiny vestida para Halloween. Seattle, Washington, Estados Unidos, 1983. © Mary Ellen Mark")
+![Tiny vestida para Halloween](https://fotos.etheriamagazine.com/2021/04/Mary-Ellen-Mark-tiny-Halloween-1983.jpg "Tiny vestida para Halloween. Seattle, Washington, Estados Unidos, 1983. © Mary Ellen Mark")
 
 Dos películas y dos libros fueron necesarios para narrar la **vida de Erin Blackwell** 
 ("Tiny"), una joven adicta a las drogas con una complicada situación familiar (madre de 
@@ -79,7 +79,7 @@ Catalunya](https://www.filmoteca.cat/web/es/node/43630) donde se proyectan dos
 documentales dirigidos por Martin Bell, el marido de la fotógrafa, y protagonizados por 
 Erin Blackwell. 
 
-![Mary Ellen  mark](https://fotos.etheriamagazine.com/2021/04/Mary-Ellen-fotografa-americana-705x1024.jpg "Mary Ellen Mark con su Leica en Central Park. 1970. Fotógrafo desconocido.")
+![Mary Ellen  mark](https://fotos.etheriamagazine.com/2021/04/Mary-Ellen-fotografa-americana.jpg "Mary Ellen Mark con su Leica en Central Park. 1970. Fotógrafo desconocido.")
 
 ### Te puede interesar en Cataluña...
 

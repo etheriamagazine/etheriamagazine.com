@@ -91,7 +91,7 @@ la derecha.
 Si puedes entrar en el santuario principal verás la estatua muy venerada de un Buda de 
 pie. En el conjunto hay más capillas y pabellones interesantes. Abre de 8 a 17 horas. 
 
-![Wat Phan Tao en Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phan-Tao-683x1024.jpg "Wat Phan Tao, en Chiang Mai (templo de madera en segundo plano). © Etheria Magazine")
+![Wat Phan Tao en Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phan-Tao.jpg "Wat Phan Tao, en Chiang Mai (templo de madera en segundo plano). © Etheria Magazine")
 
 #### • Wat Phan Tao
 
@@ -123,7 +123,7 @@ XIV (y más de 20 metros de altura) rodeado de parasoles de color de oro que se 
 en el siglo XVI. Entra en los templos, asiste a alguna ceremonia, admira las panorámicas 
 y siente la espiritualidad que emana de este místico lugar. 
 
-![Wat Phra That Doi Suthep en Chiang mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Doi-Suthep-templos-683x1024.jpg "Wat Phra That Doi Suthep, en Chiang Mai. © Etheria M.")
+![Wat Phra That Doi Suthep en Chiang mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Doi-Suthep-templos.jpg "Wat Phra That Doi Suthep, en Chiang Mai. © Etheria M.")
 
 ## Los mejores mercados nocturnos
 
@@ -180,7 +180,7 @@ el que dudarás si has viajado a Europa sin darte cuenta. Lo presentan como un l
 seguro para turistas y está a pocos minutos del mercado anterior, por si tienes 
 curiosidad... 
 
-![centro masajes de Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-masajes-oasis-spa-683x1024.jpg "Centro de masajes Oassis Spa de Chiang Mai. © Etheria M.")
+![centro masajes de Chiang Mai](https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-masajes-oasis-spa.jpg "Centro de masajes Oassis Spa de Chiang Mai. © Etheria M.")
 
 ## Un masaje tailandés en Chiang Mai
 
@@ -193,7 +193,7 @@ bastante prolongados (incluso dos horas y media), por lo que te recomendamos res
 una tarde para no ir con prisas. Aunque en la calle encuentres masajes desde 3 euros, te 
 aseguramos que los 30-40 euros que inviertas aquí merecen la pena. 
 
-![Parque Histórico Si Satchanalai](https://fotos.etheriamagazine.com/2021/01/Si-Satchanalai-Wat-Chang-Lom-683x1024.jpg "Parque Histórico Si Satchanalai. © Etheria M.")
+![Parque Histórico Si Satchanalai](https://fotos.etheriamagazine.com/2021/01/Si-Satchanalai-Wat-Chang-Lom.jpg "Parque Histórico Si Satchanalai. © Etheria M.")
 
 ## Excursiones desde Chiang Mai
 

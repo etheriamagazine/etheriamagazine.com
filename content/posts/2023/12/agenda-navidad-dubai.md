@@ -16,7 +16,7 @@ que mejor. Así que vamos a repasar la agenda navideña de Dubái para descubrir
 puedes hacer en esta época del año en una de las ciudades con mayor oferta de ocio del 
 mundo y, además, con temperaturas más que agradables. Esta ciudad te va a sorprender. 
 
-![Celebración del Año Nuevo frente al Burj Khalifa en Dubai](https://fotos.etheriamagazine.com/2023/12/dubai-burj-khalifa-ano-nuevo-667x1000.jpg "Celebración del Año Nuevo frente al Burj Khalifa. © Turismo de Dubái.")
+![Celebración del Año Nuevo frente al Burj Khalifa en Dubai](https://fotos.etheriamagazine.com/2023/12/dubai-burj-khalifa-ano-nuevo.jpg "Celebración del Año Nuevo frente al Burj Khalifa. © Turismo de Dubái.")
 
 No todas las Navidades tienen que ser blancas. Los viajes a lugares cálidos en esta 
 época del año son un chute de energía y vitamina D que cargan las pilas para muchos 
@@ -132,7 +132,7 @@ Julien’s Holiday Stomp; en **Legoland** se ha ubicado un enorme calendario de 
 lleno de regalos; y **Riverland** permite vivir encuentros con Papá Noel y hay un montón 
 de escenarios navideños donde querrás hacerte una foto. 
 
-![familia en el parque IMG Worlds of Adventures](https://fotos.etheriamagazine.com/2023/12/dubai-navidad-IMG-WORLDS-OF-ADVENTURES-667x1000.jpg "Ambientación navideña en © IMG Worlds of Adventures.")
+![familia en el parque IMG Worlds of Adventures](https://fotos.etheriamagazine.com/2023/12/dubai-navidad-IMG-WORLDS-OF-ADVENTURES.jpg "Ambientación navideña en © IMG Worlds of Adventures.")
 
 **También te puede interesar:** 
 

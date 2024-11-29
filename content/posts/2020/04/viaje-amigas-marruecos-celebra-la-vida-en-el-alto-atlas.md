@@ -11,7 +11,7 @@ authors:
 
 Marruecos siempre ha estado ahí para brindarnos un choque cultural a menos de dos horas de avión, pero lejos de sus alocadas medinas, zocos y viejos ciclomotores, existe un Marruecos rural, bereber y montañoso al que vamos a poner cara en esta ruta. ¿Nos acompañas a conocer el Alto Atlas marroquí?
 
-![Ait Benhaddou, declarada Patrimonio de la Humanidad por la Unesco.](https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marruecos-900x651.jpg "Ait Benhaddou, declarada Patrimonio de la Humanidad por la Unesco. © Kelu Robles")
+![Ait Benhaddou, declarada Patrimonio de la Humanidad por la Unesco.](https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marruecos.jpg "Ait Benhaddou, declarada Patrimonio de la Humanidad por la Unesco. © Kelu Robles")
 
 Obedeciendo a esa imagen de bazar en el que podríamos encontrar de todo, Marrakech tiene 
 a su alcance un sinfín de atractivos, de ahí que la escojamos como **campo base** para 
@@ -29,7 +29,7 @@ Considerado uno de los **aeropuertos** más bellos del mundo, la imagen de la te
 el bullicio pegajoso de la **medina** —el barrio más antiguo de la ciudad— se encargará 
 de hacerlo muy pronto. 
 
-![Atardecer en la Plaza de Jemaa el Fna desde la terraza de ‘Le grand balcon du café glacier’.](https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marrakech-jema-el-fna-900x675.jpg "Atardecer en la Plaza de Jemaa el Fna desde la terraza de ‘Le grand balcon du café glacier’. © K.Robles")
+![Atardecer en la Plaza de Jemaa el Fna desde la terraza de ‘Le grand balcon du café glacier’.](https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marrakech-jema-el-fna.jpg "Atardecer en la Plaza de Jemaa el Fna desde la terraza de ‘Le grand balcon du café glacier’. © K.Robles")
 
 ## Experiencias al amanecer
 
@@ -54,13 +54,13 @@ La inmejorable ubicación de **Le grand balcon du café glacier**, que combina l
 clientela turista con la local, regala una de las panorámicas más bucólicas de la plaza 
 de **Jemaa el Fna**, con la silueta de la mezquita de **Koutoubia** al suroeste. 
 
-? **Un consejo previo:** creemos que lo mejor para vivir cien por cien esta aventura es 
+📌 **Un consejo previo:** creemos que lo mejor para vivir cien por cien esta aventura es 
 contratar los servicios de un conductor con automóvil. Aunque la ruta por el **Camino 
 12** —la Nacional 9 en Google Maps— no transita por dunas como en el Sáhara, las 
 continuas obras y el estilo de conducción marroquí suponen una preocupación extra que 
 creemos que es mejor ahorrarse. 
 
-![Este es el punto (a 2.260 metros) de máxima altura de Tizi n'Tichka, el más alto del norte de África.](https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marruecos-atlas-900x675.jpg "Este es el punto (a 2.260 metros) de máxima altura de Tizi n'Tichka, el más alto del norte de África. © K. Robles")
+![Este es el punto (a 2.260 metros) de máxima altura de Tizi n'Tichka, el más alto del norte de África.](https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marruecos-atlas.jpg "Este es el punto (a 2.260 metros) de máxima altura de Tizi n'Tichka, el más alto del norte de África. © K. Robles")
 
 Al encuentro con nuestro guía, una puntiaguda capucha asoma a lo lejos de la medina. 
 Pertenece a la **chilaba** de **pelo de cabra** que cubre la cabeza de **Lahcen 
@@ -80,7 +80,7 @@ al menos tres días.
 > Según la doctrina islámica, Alá puede reencarnarse en un extranjero, de ahí que reciban 
 > tan cordialmente a los foráneos. 
 
-![Un vecino sonríe ante el objetivo de nuestra cámara.](https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marruecos-retrato-900x675.jpg "Un vecino sonríe ante el objetivo de nuestra cámara. © K. Robles")
+![Un vecino sonríe ante el objetivo de nuestra cámara.](https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marruecos-retrato.jpg "Un vecino sonríe ante el objetivo de nuestra cámara. © K. Robles")
 
 La mayoría de marroquíes responderán gustosamente a nuestras preguntas e **inquietudes** 
 —valga la generalización—, sobre todo si las cuestiones no abordan **política** o 
@@ -89,7 +89,7 @@ monarquía. Lahcen cumple el estereotipo y, mientras conduce hacia el celebérri
 desde los manzanos y los **almendros en flor** en los valles, hasta la aridez rojiza de 
 unos promontorios montañosos nutridos de minerales. 
 
-![Té con hierbabuena frente a la garganta Ait Barka.](https://fotos.etheriamagazine.com/2020/04/viaje-marruecos-mirador-ait-barka-900x613.jpg "Té con hierbabuena frente a la garganta Ait Barka. © K.Robles")
+![Té con hierbabuena frente a la garganta Ait Barka.](https://fotos.etheriamagazine.com/2020/04/viaje-marruecos-mirador-ait-barka.jpg "Té con hierbabuena frente a la garganta Ait Barka. © K.Robles")
 
 Entre curvas, barrancos y ventas ambulantes de **cerámica** del sur, la primera parada 
 de la ruta ofrece un **desayuno tradicional** frente a la garganta del mirador del 
@@ -97,7 +97,7 @@ de la ruta ofrece un **desayuno tradicional** frente a la garganta del mirador d
 diferencia de que estos riscos arcillosos no han sido modificados por la mano del 
 hombre. 
 
-![Las aceitunas aliñadas acompañan cualquier comida, incluso durante el desayuno.](https://fotos.etheriamagazine.com/2020/04/viaje-marruecos-mujeres-desayuno-900x675.jpg "Las aceitunas aliñadas acompañan cualquier comida, incluso durante el desayuno. © K. Robles")
+![Las aceitunas aliñadas acompañan cualquier comida, incluso durante el desayuno.](https://fotos.etheriamagazine.com/2020/04/viaje-marruecos-mujeres-desayuno.jpg "Las aceitunas aliñadas acompañan cualquier comida, incluso durante el desayuno. © K. Robles")
 
 La **‘madfouna’**, una empanada bereber rellena de tomate, cebolla y carne, protagoniza 
 la versión salada del desayuno tradicional marroquí. Los pastores suelen acompañarla con 
@@ -124,7 +124,7 @@ elabora y para adquirir alguno de esos productos tan preciados por la industria
 > sufrido durante siglos una gran estigmatización. El pastoreo de cabras y dromedarios 
 > representa actualmente su principal actividad. 
 
-![Acceso a una de las naves del Atlas Film Studio](https://fotos.etheriamagazine.com/2020/04/viaje-marruecos-atlas-studio-900x618.jpg "Acceso a una de las naves del Atlas Film Studio. © K. Robles")
+![Acceso a una de las naves del Atlas Film Studio](https://fotos.etheriamagazine.com/2020/04/viaje-marruecos-atlas-studio.jpg "Acceso a una de las naves del Atlas Film Studio. © K. Robles")
 
 ## Hollywood marroquí
 
@@ -144,7 +144,7 @@ cinéfilos, amantes de estos trampantojos de **cartón piedra**.
 > una secuencia de ‘Astérix & Obélix: Misión Cleopatra’, aunque en este caso, la pantalla 
 > de cine será tu teléfono móvil. 
 
-![rodaje juego de tronos marruecos, estudios de cine marruecos](https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-marruecos-atlas-studio-got-900x466.jpg "Un grupo de turistas se acerca al decorado donde se rodó Juego de Tronos. © K.Robles")
+![rodaje juego de tronos marruecos, estudios de cine marruecos](https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-marruecos-atlas-studio-got.jpg "Un grupo de turistas se acerca al decorado donde se rodó Juego de Tronos. © K.Robles")
 
 ## Pequeños imperios
 
@@ -175,7 +175,7 @@ La solitaria **carretera P1506** escribe parte del camino de vuelta hacia Marrak
 durante 70 kilómetros. A nuestro paso por sus aldeas, algunos niños se acercan para 
 saludarnos, sabedores de que el turista suele ir acompañado de algún regalo. 
 
-![Los pueblos del Valle de Ounila se mimetizan con sus cobrizas gargantas.](https://fotos.etheriamagazine.com/2020/04/viaje-marruecos-mujeres-ruta-roja-900x675.jpg "Los pueblos del Valle de Ounila se mimetizan con sus cobrizas gargantas. © K. Robles")
+![Los pueblos del Valle de Ounila se mimetizan con sus cobrizas gargantas.](https://fotos.etheriamagazine.com/2020/04/viaje-marruecos-mujeres-ruta-roja.jpg "Los pueblos del Valle de Ounila se mimetizan con sus cobrizas gargantas. © K. Robles")
 
 #### Guía Marruecos | Dudas frecuentes
 

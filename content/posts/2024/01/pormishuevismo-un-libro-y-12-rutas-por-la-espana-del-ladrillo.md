@@ -86,7 +86,7 @@ la que Harley hablará de dinastías arruinadas, especulación, ladrillo... Se h
 caminando desde Nuevos Ministerios hasta Plaza de Castilla (2,3 km) en una 1 hora y 40 
 minutos. 
 
-![Erik Harley, autor de Pormishuevismo.](https://fotos.etheriamagazine.com/2024/01/pormishuevismo-erik-halley-737x1000.jpg "Erik Harley, autor de Pormishuevismo. © Anaya Touring")
+![Erik Harley, autor de Pormishuevismo.](https://fotos.etheriamagazine.com/2024/01/pormishuevismo-erik-halley.jpg "Erik Harley, autor de Pormishuevismo. © Anaya Touring")
 
 ### Barcelona y Valencia
 

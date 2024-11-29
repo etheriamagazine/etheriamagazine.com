@@ -143,7 +143,7 @@ tela blanca donde los artistas de las tribus más perdidas de las islas vuelcan 
 creatividad**. Ella vuelve a la “civilización” para confeccionar modelos exclusivos, 
 espectaculares, de cuyas ganancias una buena parte revierte en el artista tribal. 
 
-![len cabili, mujeres filipinas,](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Len-Cabili-683x1024.jpg "Len Cabili va a las tribus con una tela en blanco que decoran los artistas tribales.")
+![len cabili, mujeres filipinas,](https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Len-Cabili.jpg "Len Cabili va a las tribus con una tela en blanco que decoran los artistas tribales.")
 
 Y, por último, **Anna Balcells** que creció entre Barcelona y la isla de Negros. Su 
 fundación negrense de **Kalipay** merece toda mi admiración y respeto. Lo que empezó 
@@ -173,7 +173,7 @@ una realidad paralela a la que la mayoría de las veces cerramos los ojos.
 > Observé cómo las veinte protagonistas del libro se sienten tranquilas y en armonía con 
 > la vida, sin ese famoso estrés que caracteriza a nuestro acelerado _sistema._ 
 
-![todos los caminos llevan a filipinas, ediciones casiopea, manena munar](https://fotos.etheriamagazine.com/2020/12/todos-los-caminos-llevan-a-filipinas-725x1024.jpg "'Todos los caminos llevan a Filipinas', de ediciones Casiopea.")
+![todos los caminos llevan a filipinas, ediciones casiopea, manena munar](https://fotos.etheriamagazine.com/2020/12/todos-los-caminos-llevan-a-filipinas.jpg "'Todos los caminos llevan a Filipinas', de ediciones Casiopea.")
 
 #### 11\. Por último, ¿por qué aconsejarías a nuestras lectoras leer 'Todos los caminos llevan a Filipinas'?
 

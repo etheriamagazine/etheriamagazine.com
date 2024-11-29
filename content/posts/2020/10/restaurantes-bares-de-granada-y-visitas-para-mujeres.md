@@ -114,7 +114,7 @@ artificios pero en los que se pueden reconocer influencias árabes, judías y cr
 Una cocina muy en la línea actual de fusionar sabores y de lograr texturas y 
 presentaciones originales. 
 
-![chef y sumiller de restaurante farala](https://fotos.etheriamagazine.com/2020/10/restaurante-farala-granada-cocinero-683x1024.jpg "Javier Feixas, en los fogones, y Lidia Outeda como sumiller. © Restaurante Faralá.")
+![chef y sumiller de restaurante farala](https://fotos.etheriamagazine.com/2020/10/restaurante-farala-granada-cocinero.jpg "Javier Feixas, en los fogones, y Lidia Outeda como sumiller. © Restaurante Faralá.")
 
 Una propuesta sorprendente es la del [restaurante 
 Faralá](https://restaurantefarala.com), cuya cocina parte, como otras muchas en la 
@@ -170,7 +170,7 @@ de la primera regente del reino nazarí, **Fatima Bint al-Hamar**. O el palacio 
 al-Horra, construido por orden de **Aixa**, la madre del último rey nazarí, Boabdil, 
 tras ser repudiada por su marido, Muley Hacén. 
 
-![la alhambra de granada](https://fotos.etheriamagazine.com/2020/10/la-alhambra-granada-683x1024.jpg "Fátima Bint al-Hamar influyó en la decoración de La Alhambra. © Klaur Kreuer")
+![la alhambra de granada](https://fotos.etheriamagazine.com/2020/10/la-alhambra-granada.jpg "Fátima Bint al-Hamar influyó en la decoración de La Alhambra. © Klaur Kreuer")
 
 También en forma literaria como la obra de **Ana Caro Mallén de Soto**, que presumió, 
 allá por el Siglo de Oro de nuestras letras (siglo XVI), de ser la primera mujer que 

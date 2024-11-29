@@ -198,12 +198,13 @@ Casals? Puede ser un buen compañero de viaje para seguir gozando del camino...
 
 ## Viaje sonoro con Radio Viajera
 
-**Continúa conociendo el Gran Tour de Cataluña** en formato sonoro a través de los 
-podcast de Radio Viajera. Aprender y disfrutar está a sólo un click, y lo puedes hacer 
-en cualquier momento y lugar. A continuación te invitamos a escuchar el podcast dedicado 
-al **Delta del Ebro. Tramo de Lleida y Tarragona** con consejos y curiosidades. 
+**Continúa conociendo el Grand Tour de Cataluña** en formato sonoro a través de los 
+podcast de Radio Viajera. Aprender y disfrutar está a sólo un clic, y lo puedes hacer en 
+cualquier momento y lugar. A continuación te invitamos a escuchar el podcast dedicado al 
+**Delta del Ebro. Tramo de Lleida y Tarragona** con consejos y curiosidades. Haz clic en 
+la siguiente imagen. 
 
-[![Podcast grand tour catalunya](https://fotos.etheriamagazine.com/2021/11/Grand-tour-cataluna-850x320.jpg)](https://radioviajera.com/el-delta-del-ebro-tramo-tarragona-lleida/)
+[![Podcast grand tour catalunya](https://fotos.etheriamagazine.com/2021/11/Grand-tour-cataluna.jpg)](https://radioviajera.com/el-delta-del-ebro-tramo-tarragona-lleida/)
 
 **También en Etheria Magazine** 
 

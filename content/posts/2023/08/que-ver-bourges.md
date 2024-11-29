@@ -37,7 +37,7 @@ pertenece al proceloso mundo del misterio, que no del turismo. Todo esto para
 contextualizar una ciudad que, aunque en nuestros días cuenta con menos de **65.000 
 habitantes**, tuvo notable poderío como punto urbano del país vecino. 
 
-![El encanto nocturno de Les Nuits Lumiere, en Bourges.](https://fotos.etheriamagazine.com/2023/08/bourges-les-nuits-lumiere-2-669x1024.jpg "El encanto nocturno de Les Nuits Lumière, en Bourges. © Pedro Grifol")
+![El encanto nocturno de Les Nuits Lumiere, en Bourges.](https://fotos.etheriamagazine.com/2023/08/bourges-les-nuits-lumiere-2.jpg "El encanto nocturno de Les Nuits Lumière, en Bourges. © Pedro Grifol")
 
 ## Un casco antiguo impecable
 

@@ -21,7 +21,7 @@ Partimos de la ciudad argentina más austral. Ushuaia se puso un apellido de lo 
 
 Entre el colorido de sus casas más viejas de madera, buscamos el puerto donde embarcamos a **la exploración de la Patagonia**. Soltamos amarras con la emoción de alcanzar el estrecho situado al final del continente americano que **Fernando de Magallanes** surcó en su expedición de 3 años. En noviembre de 2020 se cumplirán **500 años del inicio de aquella aventura** que demostró la esfericidad de la Tierra.
 
-\[caption id="attachment\_16788" align="aligncenter" width="900"\]![adan oteiza, fareros, magallanes, viajes patagonia argentina, patagonia chilena](https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-chilena-cabo-hornos-900x600.jpg "Adán Otaiza es el farero del fin de mundo.") Adán Otaiza es el farero del fin de mundo.\[/caption\]
+\[caption id="attachment\_16788" align="aligncenter" width="900"\]![adan oteiza, fareros, magallanes, viajes patagonia argentina, patagonia chilena](https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-chilena-cabo-hornos.jpg "Adán Otaiza es el farero del fin de mundo.") Adán Otaiza es el farero del fin de mundo.\[/caption\]
 
 ## 2\. Cabo de Hornos, echar el ancla más austral
 

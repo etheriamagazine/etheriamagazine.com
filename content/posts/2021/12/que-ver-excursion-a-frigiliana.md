@@ -52,7 +52,7 @@ se puede visitar, pero merece la pena acercarse a ver el edificio, ya que ocupa 
 **Palacio Renacentista de los Condes de Frigiliana**. Es un punto de partida perfecto 
 para iniciar el paseo por la villa. 
 
-![Uno de los adarves de Frigiliana.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-adarve-683x1024.jpg "Uno de los adarves de Frigiliana. © SG")
+![Uno de los adarves de Frigiliana.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-adarve.jpg "Uno de los adarves de Frigiliana. © SG")
 
 ### De la calle Real a la calle Alta
 
@@ -107,7 +107,7 @@ poco más allá se ubica la sencilla y resplandeciente **ermita del Ecce Homo**,
 XVIII, conocida como la de El Santo Cristo, que es muy importante para los habitantes de 
 Frigiliana. 
 
-![Callejón del Peñón, uno de los más pintorescos de la localidad.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-callejon-del-penon-576x1024.jpg "Callejón del Peñón, uno de los más pintorescos de la localidad. © Fran Fernández")
+![Callejón del Peñón, uno de los más pintorescos de la localidad.](https://fotos.etheriamagazine.com/2021/12/Frigiliana-callejon-del-penon.jpg "Callejón del Peñón, uno de los más pintorescos de la localidad. © Fran Fernández")
 
 ### Plaza de la Fuente Vieja
 

@@ -97,7 +97,7 @@ De la plaza de Andalucía sale la empinada calle Herrería, considerada una de l
 bonitas de Andalucía. Estrecha, escalonada, decorada con rejas y macetas y protegida en 
 parte por las rocas, tiene hasta un “rincón del beso”. No podrás resistirte a una foto. 
 
-![calle típica de Setenil de las Bodegas cubierta en parte por la piedra](https://fotos.etheriamagazine.com/2022/07/Setenil-calle-683x1024.jpg "La calle Herrería, una de las más bonitas de Setenil. © SG/ Etheria Magazine")
+![calle típica de Setenil de las Bodegas cubierta en parte por la piedra](https://fotos.etheriamagazine.com/2022/07/Setenil-calle.jpg "La calle Herrería, una de las más bonitas de Setenil. © SG/ Etheria Magazine")
 
 ### 7\. Calle Cuevas de la Sombra
 

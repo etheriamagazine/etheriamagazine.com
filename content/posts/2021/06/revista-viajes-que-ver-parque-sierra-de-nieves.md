@@ -195,7 +195,7 @@ Mora i Bravard](https://www.cactuscasarabonela.es/), en el pueblo de Casarabonel
 gracias a la benignidad climatológica acumula 2.200 especies de cactus y plantas del 
 mundo. 
 
-![atardecer, sierra de las nieves, malaga](https://fotos.etheriamagazine.com/2019/02/puesta-sol-sierra-nieves-1024x682.jpg "Atardecer en la Sierra de las Nieves (Málaga).")
+![atardecer, sierra de las nieves, malaga](https://fotos.etheriamagazine.com/2019/02/puesta-sol-sierra-nieves.jpg "Atardecer en la Sierra de las Nieves (Málaga).")
 
 ## 10\. Con vistas a la puesta del sol
 

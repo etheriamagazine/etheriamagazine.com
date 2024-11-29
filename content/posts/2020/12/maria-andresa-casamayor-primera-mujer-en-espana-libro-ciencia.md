@@ -164,7 +164,7 @@ evento mostró, mediante ponencias y conferencias virtuales, la vida y la obra d
 pionera zaragozana. Se reivindica así su huella histórica en el contexto de la sociedad 
 de la época. 
 
-![Reedición del 'Tyrocinio Arithmetico' con ilustración de David Guirao.](https://fotos.etheriamagazine.com/2020/12/reedición-Tyrocinio-Arithmetico-757x1024.jpg "Reedición del 'Tyrocinio Arithmetico' con ilustración de David Guirao.")
+![Reedición del 'Tyrocinio Arithmetico' con ilustración de David Guirao.](https://fotos.etheriamagazine.com/2020/12/reedición-Tyrocinio-Arithmetico.jpg "Reedición del 'Tyrocinio Arithmetico' con ilustración de David Guirao.")
 
 Además, ha sido la ocasión ideal para presentar la **primera reedición**, hasta el 
 momento, de su histórica obra _Tyrocinio Arithmetico, instrucción de las quatro reglas 

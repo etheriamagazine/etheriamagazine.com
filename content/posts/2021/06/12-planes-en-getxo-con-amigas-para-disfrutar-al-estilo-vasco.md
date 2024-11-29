@@ -105,7 +105,7 @@ entre finales del siglo XIX y principios del XX. Hay un recorrido autoguiado com
 por 29 paneles interpretativos que ilustran sobre los estilos de moda y los arquitectos 
 más célebres del momento. 
 
-![carolinas de getxo](https://fotos.etheriamagazine.com/2021/06/bollos-carolinas-getxo-835x1024.jpg "Carolinas y bollos de mantequilla de Getxo.")
+![carolinas de getxo](https://fotos.etheriamagazine.com/2021/06/bollos-carolinas-getxo.jpg "Carolinas y bollos de mantequilla de Getxo.")
 
 ### 6\. Comprar los productos “gourmet” de la tierra
 

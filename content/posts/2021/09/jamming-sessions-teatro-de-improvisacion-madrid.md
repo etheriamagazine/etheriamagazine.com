@@ -11,7 +11,7 @@ authors:
 
 Si hay algo que ha puesto de manifiesto la pandemia es que necesitamos a los otros. A medida que superamos la Covid-19, surge la imperiosa necesidad de volver a pertenecer a algo. Las _Jamming sessions_ son uno de esos espectáculos que nos permiten volver a estar presentes. Jamming es una compañía de teatro, pero también es una escuela de improvisación y, sobre todo, es una gran familia en la que el público es cocreador de la función. Que suba el telón.
 
-![jamming teatro improvisacion](https://fotos.etheriamagazine.com/2021/09/teatro-improvisacion-jamming-753x1024.jpg "Jamming, teatro de improvisación y escuela.")
+![jamming teatro improvisacion](https://fotos.etheriamagazine.com/2021/09/teatro-improvisacion-jamming.jpg "Jamming, teatro de improvisación y escuela.")
 
 _**\-Me han hablado de un teatro de improvisación, un espectáculo, se llama Jamming. ¿Tú 
 crees que podría ir?” \- “Oye, esto está lleno de grillos”. \- “No son grillos tío, son 

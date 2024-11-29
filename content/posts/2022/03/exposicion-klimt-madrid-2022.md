@@ -94,7 +94,7 @@ Klimt y los dibujos (croquis y dibujos menos conocidos del artista) y La etapa d
 (una explosión de oro con algunas de las obras más famosas del pintor). Tras este 
 momento tan relajante puedes salir de la sala para continuar el recorrido. 
 
-![flores en la sala de inmersion de klimt en matadero](https://fotos.etheriamagazine.com/2022/03/primavera-klimt-madrid-900x615.jpg "Primavera de Klimt. © Etheria Magazine")
+![flores en la sala de inmersion de klimt en matadero](https://fotos.etheriamagazine.com/2022/03/primavera-klimt-madrid.jpg "Primavera de Klimt. © Etheria Magazine")
 
 ### 3\. Colorea y hazte una foto
 

@@ -114,7 +114,7 @@ Barcelona, que tendrá lugar en octubre, estate atenta a otras jornadas similare
 realizarán esta primavera de 2024: el 17 de mayo en Barcelona, y el 24 del mismo mes en 
 Valencia. 
 
-![María Grau, participante del Encuentro de Mujeres Viajeras.](https://fotos.etheriamagazine.com/2024/03/maria-grau-mujeres-viajeras-850x572.jpg "María Grau, participante del Encuentro de Mujeres Viajeras.")
+![María Grau, participante del Encuentro de Mujeres Viajeras.](https://fotos.etheriamagazine.com/2024/03/maria-grau-mujeres-viajeras.jpg "María Grau, participante del Encuentro de Mujeres Viajeras.")
 
 ## Oikocredit, finanzas éticas para lograr un mundo más equitativo
 

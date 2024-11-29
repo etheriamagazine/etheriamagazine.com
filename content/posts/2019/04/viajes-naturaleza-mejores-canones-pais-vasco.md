@@ -13,7 +13,7 @@ authors:
 
 La naturaleza vasca es una fuente inagotable de rutas de senderismo. En este caso te proponemos 10 rutas por los cañones del País Vasco, para que descubras alguno de sus paisajes de agua más sorprendentes y desconocidos.
 
-![ruta senderismo pais vasco, ecoturismo](https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco-1024x683.jpg "Cañón de Sobrón.")
+![ruta senderismo pais vasco, ecoturismo](https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg "Cañón de Sobrón.")
 
 Caminar es una necesidad vital para una viajera, una forma de saciar sus ansias de 
 descubrimiento. Echemos pie a la senda para recorrer, junto a las montañas, paisajes 

@@ -13,7 +13,7 @@ durante 400 años, hasta 1999 cuando fue devuelta a China. Desde entonces funcio
 una región administrativa especial (RAE) y disfruta de 50 años de transición política. 
 La fusión y la convivencia de la cultura de estos dos países es su principal atractivo. 
 
-![iglesia de san pablo en macao](https://fotos.etheriamagazine.com/2018/04/1-MACAO-1024x640.jpg "Novios con la iglesia de San Pablo al fondo.")
+![iglesia de san pablo en macao](https://fotos.etheriamagazine.com/2018/04/1-MACAO.jpg "Novios con la iglesia de San Pablo al fondo.")
 
 ## 1\. Raíces portuguesas
 

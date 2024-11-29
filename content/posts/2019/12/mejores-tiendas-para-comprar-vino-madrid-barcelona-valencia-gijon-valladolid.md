@@ -16,7 +16,7 @@ anfitriona o invitada más aclamada. Elige una de estas tiendas de vinos en Madr
 Barcelona, Valencia, Gijón, Valladolid, o bien una tienda online, y les dejarás con la 
 boca abierta. 
 
-![copas de vino en decoración navideña](https://fotos.etheriamagazine.com/2019/12/vinotecas-navidad-900x596.jpg "El vino es fundamental en las cenas navideñas. © Element5 Digital")
+![copas de vino en decoración navideña](https://fotos.etheriamagazine.com/2019/12/vinotecas-navidad.jpg "El vino es fundamental en las cenas navideñas. © Element5 Digital")
 
 ¿Cuántas veces nos hemos quedado en blanco a la hora de ir a comprar los vinos para las 
 celebraciones navideñas o para un aniversario especial? ¿Dónde los compro? ¿Y qué 
@@ -32,7 +32,7 @@ bolsillos. También referencias de vinos que armonizan con los _best sellers_ de
 comidas de estas fiestas y algunos 'vinazos', esos que se convierten en protagonistas y 
 eclipsan al pavo (asado) de tu cuñado. 
 
-![vinos de lujo en Madrid](https://fotos.etheriamagazine.com/2019/12/Enopata-vinos-900x669.jpg "Vinos en © Enópata.")
+![vinos de lujo en Madrid](https://fotos.etheriamagazine.com/2019/12/Enopata-vinos.jpg "Vinos en © Enópata.")
 
 Un consejo para estas grandes comidas con bastantes comensales. Siempre que podáis optar 
 por el **formato mágnum**, hacedlo. El mágnum es una botella con el doble de capacidad 
@@ -56,7 +56,7 @@ que no hay que olvidar sus orígenes). Personalmente, te animo a que pases por l
 y te dejes asesorar. Tienen un equipo excepcional, capitaneado por uno de los mejores 
 sumilleres de España, Juan Antonio Herreros. 
 
-![Colección LAVINIA 20 Aniversario.](https://fotos.etheriamagazine.com/2019/12/vinotecas-lavinia-coleccion-900x600.jpg "Colección LAVINIA 20 Aniversario. © Lavinia")
+![Colección LAVINIA 20 Aniversario.](https://fotos.etheriamagazine.com/2019/12/vinotecas-lavinia-coleccion.jpg "Colección LAVINIA 20 Aniversario. © Lavinia")
 
 **Dónde está**: C/ Ortega y Gasset, 16. 
 
@@ -74,7 +74,7 @@ diferentes espacios: un restaurante centrado en producciones locales, un bar de 
 una sala para catas, conferencias… Un lugar excepcional para los que disfrutamos de los 
 vinos diferentes. 
 
-![Vinos en Monvinic Store](https://fotos.etheriamagazine.com/2019/12/vinotecas-monvinic-900x507.jpg "Vinos en © Monvinic Store")
+![Vinos en Monvinic Store](https://fotos.etheriamagazine.com/2019/12/vinotecas-monvinic.jpg "Vinos en © Monvinic Store")
 
 **Qué compro**: Todas sus bodegas tienen una historia que contar. En esta ocasión, yo 
 elijo el **Frisach Sang de Corb**, un garnacha de Terra Alta elaborado con “viñas en 
@@ -102,7 +102,7 @@ os recomiendo encarecidamente una visita a su establecimiento. Están especializ
 vinos franceses de Borgoña, Burdeos, Champagne, Loira y Ródano, y cuentan con más de 
 4.500 referencias de todo el mundo. 
 
-![Tienda vinos de Enopata](https://fotos.etheriamagazine.com/2019/12/vinotecas-enopata-900x415.jpg "Tienda de vinos © Enopata")
+![Tienda vinos de Enopata](https://fotos.etheriamagazine.com/2019/12/vinotecas-enopata.jpg "Tienda de vinos © Enopata")
 
 **Qué compro**: Entre sus “bestsellers” navideños no podía faltar un champagne, como el 
 **Fromentin-Leclapart Grand Cru**, pero yo apostaría también por un vino de su tierra, 
@@ -125,7 +125,7 @@ una moderna web de venta de vinos. Son, además, distribuidora y su pasión por 
 les ha llevado a seguir “vivos” a través de UMAMI, su aula de formación, donde organizan 
 cursos de cata, eventos, etc. 
 
-![Tienda Coalla en Gijón.](https://fotos.etheriamagazine.com/2019/12/vinotecas-coalla-900x600.jpg "Tienda Coalla en Gijón. © Coalla")
+![Tienda Coalla en Gijón.](https://fotos.etheriamagazine.com/2019/12/vinotecas-coalla.jpg "Tienda Coalla en Gijón. © Coalla")
 
 **Dónde está**: En Gijón en C/ San Antonio, 8 y C/ Santa Elena, 11. en Oviedo en C/ 
 Asturias, 14. 
@@ -140,7 +140,7 @@ y mucho cariño al contarte cada etiqueta. Se han hecho imprescindibles en Pucel
 solo para comprar ese vino especial, sino por sus comidas y cenas armonizadas con 
 productos _gourmet_, una experiencia muy especial que de verdad merece la pena. 
 
-![vinos en Tienda Señorita Malauva.](https://fotos.etheriamagazine.com/2019/12/vinotecas-malauva-900x600.jpg "Tienda © Señorita Malauva.")
+![vinos en Tienda Señorita Malauva.](https://fotos.etheriamagazine.com/2019/12/vinotecas-malauva.jpg "Tienda © Señorita Malauva.")
 
 **Qué compro**: Por ejemplo, en las navidades pasadas compré dos tintos con los que 
 cautivé (y sorprendí, esto último cada vez es más difícil) a mi familia política. La 
@@ -179,7 +179,7 @@ moda. En mi opinión, un regalo inmejorable para estas navidades. Por ejemplo, y
 regalaría un **Fernando de Castilla Antique Oloroso** (95 Puntos Parker), perfecto para 
 acompañar unos quesos o para tomar solo, con unas almendras tostadas. 
 
-![mujeres brindando con vino](https://fotos.etheriamagazine.com/2019/12/vinotecas-brindis-900x600.jpg "Brindis navideño. © Kelsey Chance")
+![mujeres brindando con vino](https://fotos.etheriamagazine.com/2019/12/vinotecas-brindis.jpg "Brindis navideño. © Kelsey Chance")
 
 ### Vinissimus
 

@@ -12,7 +12,7 @@ La Ruta del Comunismo en Chequia es la mejor manera de conocer este período his
 que existen numerosas huellas que aún se pueden visitar: campos de trabajo, museos, 
 torres de vigilancia, aduanas y pasos fronterizos. 
 
-![museo del comunismo, ruta praga](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Museo-del-Comunismo-1-900x600.jpg "Museo del Comunismo (Praga).")
+![museo del comunismo, ruta praga](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Museo-del-Comunismo-1.jpg "Museo del Comunismo (Praga).")
 
 Una buena manera de brindar por la democracia es recordando el período de opresión que 
 se ha dejado atrás y recorriendo sus lugares claves. Si viajáis a la República Checa y 
@@ -46,7 +46,7 @@ secreta y la StB (agencia de inteligencia de Checoslovaquia), la censura, los
 tribunales, etc. También se incluye información sobre los campos de trabajo de la era 
 Estalinista. 
 
-![Museo del Comunismo praga](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Museo-del-Comunismo-900x586.jpg "Museo del Comunismo. © D. Kyndrová")
+![Museo del Comunismo praga](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Museo-del-Comunismo.jpg "Museo del Comunismo. © D. Kyndrová")
 
 ### 2\. Museo de la Guerra Fría
 
@@ -60,7 +60,7 @@ exactamente, también les permitía espiar las llamadas de los clientes occident
 establecimiento. La tecnología empleada, el cableado y algunas recreaciones sitúan al 
 viajero sin dificultad en este lugar. 
 
-![catedral san nicolas praga](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-iglesia-san-nicolas-900x561.jpg "Cúpula y torre de la Iglesia de San Nicolás. © Polina Podlesnaya")
+![catedral san nicolas praga](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-iglesia-san-nicolas.jpg "Cúpula y torre de la Iglesia de San Nicolás. © Polina Podlesnaya")
 
 ### 3\. Torre de vigilancia de la policía secreta
 
@@ -70,7 +70,7 @@ liquidar a los adversarios del régimen comunista. Para llegar al punto más alt
 misma se han de subir 215 peldaños. Una vez arriba, la panorámica tiene premio porque se 
 puede observar el barrio, donde se ubicaban las embajadas de los países occidentales. 
 
-![telon de acero brno, museo brno](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Telon-de-Acero-de-Satov-Museo-Tecnico-de-Brno-900x600.jpg "Museo Técnico de Brno.")
+![telon de acero brno, museo brno](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Telon-de-Acero-de-Satov-Museo-Tecnico-de-Brno.jpg "Museo Técnico de Brno.")
 
 ### 4\. El infierno de Jáchymov
 
@@ -113,7 +113,7 @@ La zona exterior, donde se sitúan muestras de alambradas y otros elementos fron
 se complementan con exposiciones que divulgan el desarrollo del control fronterizo 
 checo. 
 
-![Ostrava Vitkovice](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Ostrava-Vitkovice-900x441.jpg "Ostrava Vítkovice. ©UPVISION.")
+![Ostrava Vitkovice](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-Ostrava-Vitkovice.jpg "Ostrava Vítkovice. ©UPVISION.")
 
 ### 7\. Siderurgia de Vítkovice (Ostrava)
 
@@ -135,7 +135,7 @@ guardia fronteriza y el importante papel que representó entre 1951 y 1989, un p
 con un estricto control de las zonas interestatales. Situado, además, en un edificio de 
 la antigua aduana, es el único del país dedicado a esta temática. 
 
-![Museo Skoda.](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-skoda-Museum-900x601.jpg "Museo Skoda.")
+![Museo Skoda.](https://fotos.etheriamagazine.com/2019/11/ruta-chequia-skoda-Museum.jpg "Museo Skoda.")
 
 ### 9\. Museo Škoda (Mladá Boleslav)
 

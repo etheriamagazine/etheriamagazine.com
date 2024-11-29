@@ -16,7 +16,7 @@ porque en Madrid hay mucha gente, pero casi casi. Hay tantas rutas de cañas com
 madrileños y como gato se nace, pero el gato también se hace, sólo podemos pretender dar 
 una visión personal de algunos lugares imprescindibles en el centro de la capital. 
 
-![edificios, bares, ciudad, escapada urbana](https://fotos.etheriamagazine.com/2018/12/Madrid-ruta-de-tapas-1024x701.jpg "Fachadas del centro de Madrid.")
+![edificios, bares, ciudad, escapada urbana](https://fotos.etheriamagazine.com/2018/12/Madrid-ruta-de-tapas.jpg "Fachadas del centro de Madrid.")
 
 ```
 Actualizado abril 2024
@@ -32,7 +32,7 @@ que da igual cuántas veces hayas probado en tu vida porque lo seguirás pidiend
 Comenzamos este recorrido por barras históricas, azulejos pintados e, incluso, 
 servilletas en el suelo. Porque en Madrid todavía se puede seguir siendo “cañí”. 
 
-![cerveza bien tirada en madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-ruta-tapas-dos-cervezas-1024x682.jpg "Si encuentras un bar donde tiren bien las cañas, no lo dejes nunca.")
+![cerveza bien tirada en madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-ruta-tapas-dos-cervezas.jpg "Si encuentras un bar donde tiren bien las cañas, no lo dejes nunca.")
 
 ## Por el barrio de los Austrias
 
@@ -48,7 +48,7 @@ canapé de cabrales batido, “chori”, pescaditos o tortilla. Y si lo acompañ
 de sidra mejor (si decides quedarte a comer no te pierdas su fabada y sus fabes con 
 almejas). 
 
-![ruta gastronomica, de cañas por Madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-canas-el-neru-1024x683.jpg "En El Ñeru destaca la calidad de sus productos asturianos.")
+![ruta gastronomica, de cañas por Madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-canas-el-neru.jpg "En El Ñeru destaca la calidad de sus productos asturianos.")
 
 Después, sube hasta la calle Mayor y, al lado de la Plaza Mayor, se sitúa el famoso [Mercado 
 de San Miguel](http://mercadodesanmiguel.es). Su principal problema es que está siempre 
@@ -60,7 +60,7 @@ de esos que si eres madrileño y no lo conoces mal vas: **Casa Paco**
 (www.casapaco1933.es), un local de toda la vida, abierto en 1933 en Puerta Cerrada, 
 donde tienes que probar sí o sí el taco de chicharrones o el de queso azul. 
 
-![casa paco ruta de tapas por madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-canas-casa-paco-1024x692.jpg "Casa Paco lleva despachando vinos y cañas desde 1933.")
+![casa paco ruta de tapas por madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-canas-casa-paco.jpg "Casa Paco lleva despachando vinos y cañas desde 1933.")
 
 Y para terminar el periplo por la zona, nada mejor que **La Casa del Abuelo** 
 (lacasadelabuelo.es), con varios locales en Madrid. En el de la calle Toledo, casi al 
@@ -78,7 +78,7 @@ disfrute, la conversación y las risas de esas que sólo salen en los bares. Un 
 perfecto para comenzar es la taberna **DisTinto**, un coqueto y desenfadado bar con 
 buena oferta de raciones. 
 
-![cerveceria cervantes ruta de tapas por Madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-canas-cervantes-1024x600.jpg "Cervecería Cervantes.")
+![cerveceria cervantes ruta de tapas por Madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-canas-cervantes.jpg "Cervecería Cervantes.")
 
 Sigue por el **Cervantes**, una cervecería de cañas bien tiradas que, aunque siempre 
 parezca llena al final se encuentra sitio (como en tantas de Madrid). Prueba sus tostas, 
@@ -91,7 +91,7 @@ verla, un lugar donde se lleva tirando cerveza desde 1908. Acódate en la barra 
 puedes) y pide alguna de sus sencillas tapas (no te pierdas la gilda) o uno de sus 
 canapés para acompañar al dorado elemento. 
 
-![la dolores ruta de tapas por Madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-canas-la-dolores-1024x683.jpg "Las gildas y las cañas bien tiradas son dos especialidades de La Dolores.")
+![la dolores ruta de tapas por Madrid](https://fotos.etheriamagazine.com/2018/12/Madrid-canas-la-dolores.jpg "Las gildas y las cañas bien tiradas son dos especialidades de La Dolores.")
 
 **Sigue leyendo sobre Madrid...** 
 

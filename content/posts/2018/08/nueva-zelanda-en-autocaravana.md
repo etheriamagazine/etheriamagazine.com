@@ -244,7 +244,7 @@ Sobre **climatología**, rutas, consejos, alojamiento y otros consejos para prep
 vuestro viaje a Nueva Zelanda en autocaravana en [100% Pure New 
 Zealand](https://www.newzealand.com/int/). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Viaja sola a Nueva Zelanda y disfruta de la naturaleza haciendo 
 trekking](https://etheriamagazine.com/2019/08/28/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking/) 

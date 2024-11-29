@@ -12,7 +12,7 @@ El Museo MAS de Amberes (Bélgica) dedica una retrospectiva a la pintora flamenc
 Michaelina Wautier, una de las más influyentes artistas del barroco. Os invitamos a 
 reflexionar sobre el grito de guerra: ‘más mujeres artistas y menos musas’. 
 
-![El 'Cortejo de Baco', de Michaelina Wautier.](https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco-1024x715.jpg "El 'Cortejo de Baco', de Michaelina Wautier.")
+![El 'Cortejo de Baco', de Michaelina Wautier.](https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg "El 'Cortejo de Baco', de Michaelina Wautier.")
 
 Dar importancia al papel que la mujer tiene en la Historia del Arte como creadora no es 
 solo una acción reivindicatoria –que en lenguaje jurídico no sería más que ‘el derecho a 
@@ -65,7 +65,7 @@ cuadro, la artista se autorretrató como Judith y se venga de su agresor sexual,
 retratándole como Holofernes. Le llevó a un juicio por violación y fue desterrado. Es, 
 para muchos, **la primera pintora feminista de la Historia**. 
 
-![Autorretrato de Michaelina Wautier.](https://fotos.etheriamagazine.com/2018/07/Michaelina-Autorretrato-Museo-MAS-1-1024x661.jpg "Autorretrato de Michaelina Wautier.")
+![Autorretrato de Michaelina Wautier.](https://fotos.etheriamagazine.com/2018/07/Michaelina-Autorretrato-Museo-MAS-1.jpg "Autorretrato de Michaelina Wautier.")
 
 ## ¿Quién fue La Michaelina?
 
@@ -91,7 +91,7 @@ borrachos. Ella es la única del grupo que mira al espectador a los ojos. Mírel
 esté delante del cuadro… y no se esconda. Admírela y saque las conclusiones que se le 
 ocurra… Huelga decir que el tema puede levantar todo tipo de comentarios. 
 
-![Banderolas a la entrada del MAS (Amberes, Bélgica).](https://fotos.etheriamagazine.com/2018/07/Amberes-Museo-MAS-Expo-Michaelina-1024x680.jpg "Banderolas a la entrada del MAS (Amberes, Bélgica).")
+![Banderolas a la entrada del MAS (Amberes, Bélgica).](https://fotos.etheriamagazine.com/2018/07/Amberes-Museo-MAS-Expo-Michaelina.jpg "Banderolas a la entrada del MAS (Amberes, Bélgica).")
 
 Por otra parte es bastante increíble que una mujer del siglo XVII estuviera tan 
 liberada, mientras que en la época de Facebook se censuren imágenes que contienen pechos 

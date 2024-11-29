@@ -38,7 +38,7 @@ jornada por el Parque Nacional Tongariro. Sigue leyendo el artículo completo de
 sola a Nueva 
 Zelanda](https://etheriamagazine.com/2019/08/28/viaja-sola-a-nueva-zelanda-y-disfruta-de-la-naturaleza-trekking/). 
 
-![Barca en el lago Atitlán.](https://fotos.etheriamagazine.com/2020/01/Guatemala-lago-atitlan-flores-900x600.jpg "Barca en el lago Atitlán.")
+![Barca en el lago Atitlán.](https://fotos.etheriamagazine.com/2020/01/Guatemala-lago-atitlan-flores.jpg "Barca en el lago Atitlán.")
 
 ## 3\. Lago Atitlán (Guatemala)
 
@@ -49,7 +49,7 @@ Atitlán o San Pedro La Laguna y no sabrás cual de estos pueblos te gusta más.
 leyendo el artículo completo de [Viajar sola a Guatemala (lago 
 Atitlán)](https://etheriamagazine.com/2020/01/17/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala/). 
 
-![Elefantes en Sri Lanka.](https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-2-1024x682.jpg "Elefantes en Sri Lanka. © David Santiago")
+![Elefantes en Sri Lanka.](https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-2.jpg "Elefantes en Sri Lanka. © David Santiago")
 
 ## 4\. Sri Lanka
 
@@ -71,7 +71,7 @@ Central de los Andes colombianos, ni el Parque Nacional del Café, en Montenegro
 leyendo el artículo completo de [Viajar sola a Colombia (Eje 
 Cafetero)](https://etheriamagazine.com/2019/01/28/viajar-sola-al-eje-cafetero-colombia/). 
 
-![Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi).](https://fotos.etheriamagazine.com/2019/12/viaje-china-senderismo-colinas-guangxi-900x600.jpg "Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi). © David Santiago")
+![Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi).](https://fotos.etheriamagazine.com/2019/12/viaje-china-senderismo-colinas-guangxi.jpg "Senderistas en los bancales de arroz de la Columna del Dragón (Guangxi). © David Santiago")
 
 ## 6\. Guangxi (China)
 

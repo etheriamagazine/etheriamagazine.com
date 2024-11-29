@@ -189,7 +189,7 @@ más alta de Europa, que alcanza una aceleración de 180 km/h en sólo cinco seg
 sumar adrenalina, hay que subirse también a la **Torre de caída libre**, otra atracción 
 de altura en este parque. 
 
-![Red Force en Ferrari Land](https://fotos.etheriamagazine.com/2023/08/port-aventura-ferrari-montana-rusa-683x1024.jpg "Red Force, la montaña rusa con más adrenalina de Ferrari Land.")
+![Red Force en Ferrari Land](https://fotos.etheriamagazine.com/2023/08/port-aventura-ferrari-montana-rusa.jpg "Red Force, la montaña rusa con más adrenalina de Ferrari Land.")
 
 Ferrari Land cuenta también con una **zona de atracciones infantiles**, todas 
 ambientadas en el mundo Ferrari, y dos atracciones de realidad virtual. Dos espacios 
@@ -206,7 +206,7 @@ de varias atracciones aptas para todos los públicos, cuenta con una extensa zon
 infantil al aire libre, otra cubierta y una playa artificial. Si quieres adrenalina, el 
 **Ciclón Tropical**, un tobogán con cien metros de altura, es tu atracción. 
 
-![Atracción de agua en Caribe Aquatic Park.](https://fotos.etheriamagazine.com/2023/08/port-aventura-caribe-aquapark-683x1024.jpg "Atracción de agua en Caribe Aquatic Park.")
+![Atracción de agua en Caribe Aquatic Park.](https://fotos.etheriamagazine.com/2023/08/port-aventura-caribe-aquapark.jpg "Atracción de agua en Caribe Aquatic Park.")
 
 ## ¿Qué espectáculos se pueden ver en PortAventura Park?
 
@@ -297,7 +297,7 @@ y los hoteles.
 
 © Fotografías cedidas por PORT AVENTURA ENTERTAINMENT, S.A. U. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Los 10 mejores parques de atracciones de Europa para visitar con 
 niños](https://etheriamagazine.com/2018/07/09/los-10-mejores-parques-de-atracciones-de-europa-para-visitar-con-familia/) 

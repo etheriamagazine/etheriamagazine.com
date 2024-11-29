@@ -38,7 +38,7 @@ Cushendun**, que aunque tienen 400 millones de años de años se hicieron famosa
 aparecer en una escena de Juego de Tronos® en la que Melisandre da a luz a la sombra. 
 Aparca en una urbanización cercana y acércate caminando. 
 
-?No te pierdas: [Ruta de Juego de Tronos en Irlanda del 
+📍No te pierdas: [Ruta de Juego de Tronos en Irlanda del 
 Norte](https://etheriamagazine.com/2018/07/02/juego-de-tronos-en-irlanda-del-norte/). 
 
 ![Playa de Cushendun en Irlanda](https://fotos.etheriamagazine.com/2023/07/playa-Cushendun-juego-tronos-irlanda.jpg "Playa de Cushendun, localización de Juego de Tronos. © Stefan Schnebelt/ Turismo de Irlanda")
@@ -105,7 +105,7 @@ decir, zona de protección del gaélico irlandés. Visitar esta tierra de pastor
 pescadores en el **oeste de Irlanda** es zambullirse en las tradiciones más ancestrales 
 del país. 
 
-?No te pierdas: [‘Almas en pena de Inisherin’, paisajes de cine en 
+📍No te pierdas: [‘Almas en pena de Inisherin’, paisajes de cine en 
 Irlanda](https://etheriamagazine.com/2023/01/30/almas-en-pena-de-inisherin/) 
 
 ![Playa de Keem Bay, Achill Island, en el condado de Mayo.](https://fotos.etheriamagazine.com/2023/07/playa-Keem-Bay-Ireland.jpg "Playa de Keem Bay, en el condado de Mayo. © Failte Ireland")
@@ -120,7 +120,7 @@ pena acercarse a Roundstone, un pueblecito costero donde compartir un rato con l
 población local mientras se degusta el pescado más fresco que puedas imaginar con una 
 rica cerveza irlandesa. 
 
-?No te marches de la zona sin visitar el **taller de Malachy Kearns** que está situado 
+📍No te marches de la zona sin visitar el **taller de Malachy Kearns** que está situado 
 en un antiguo monasterio franciscano. Este artesano lleva más de 45 años fabricando 
 bodhráns, los tradicionales tambores irlandeses. 
 

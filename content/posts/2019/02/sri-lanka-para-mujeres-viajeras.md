@@ -12,7 +12,7 @@ authors:
 
 Considerada por muchos como uno de los grandes paraísos naturales del mundo, Sri Lanka despliega un manto verde bajo el que se ocultan, entre otros animales, tigres, cocodrilos, pavos reales y los habitantes más ilustres de la antigua Ceilán: los elefantes.
 
-![Viaje de mujeres, elefantes en Sri Lanza](https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-2-1024x682.jpg "Safari para ver elefantes en Sri Lanka.")
+![Viaje de mujeres, elefantes en Sri Lanza](https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-2.jpg "Safari para ver elefantes en Sri Lanka.")
 
 Un viaje a Sri Lanka, la gran isla con forma de lágrima situada frente a India, nos 
 depara momentos muy emocionantes y algunos sueños cumplidos. Y en Etheria Magazine no 

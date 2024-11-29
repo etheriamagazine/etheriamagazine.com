@@ -73,7 +73,7 @@ podrás elegir platos como el salmorejo, la mazamorra (crema fría típica de la
 base de almendras), la carne de monte con aroma de Sierra Morena o la carrillada en 
 salsa. 
 
-? Los postres son todos apetecibles, pero te recomendamos que pruebes algún día el 
+📌 Los postres son todos apetecibles, pero te recomendamos que pruebes algún día el 
 tarrito de yogur con frutos rojos regado con miel de Adamuz, para degustar así este 
 dorado elemento también típico de la zona. 
 
@@ -88,7 +88,7 @@ se contemplan las luces del atardecer sobre la dehesa cordobesa. Además, para l
 aperitivos o para ese momento que apetece picar algo, en todas las habitaciones tienes a 
 tu disposición distintas conservas y snacks de calidad. 
 
-?No te pierdas: [Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de 
+📌No te pierdas: [Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de 
 Andalucía](https://etheriamagazine.com/2022/01/11/ruta-del-vino-montilla-moriles-20-aniversario/). 
 
 ![Copa de vino y aperitivo en una terraza de la cabaña de lujo](https://fotos.etheriamagazine.com/2022/06/la-dehesa-experiences-vino.jpg "Aperitivo en el glamping de La Dehesa Experiences.")
@@ -137,7 +137,7 @@ inolvidable.
 
 [![imagen para ver un vídeo de La Dehesa Experiences.](https://fotos.etheriamagazine.com/2022/06/video-dehesa-glamping.jpg)](https://www.youtube.com/watch?v=8xXie0lNjok)
 
-? **La Dehesa Experiences forma parte del Club de selección de alojamientos con encanto 
+📌 **La Dehesa Experiences forma parte del Club de selección de alojamientos con encanto 
 Rusticae.** 
 
 Carretera de Adamuz-Villanueva de Córdoba s/n (a 5,5 km de Adamuz). Habitación para dos 

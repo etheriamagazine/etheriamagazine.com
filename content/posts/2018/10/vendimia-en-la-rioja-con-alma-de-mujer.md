@@ -13,7 +13,7 @@ este, toda la franja norte de la región vive en estas semanas de otoño una act
 frenética. La vendimia, el momento más esperado del año, ya está aquí y todo el mundo se 
 afana en las labores propias. Las mujeres también. 
 
-![Viñedos en otoño de la Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/2-la-rioja-vinedos-otono-bodega-bohedal-1024x707.jpg "Viñedos en otoño de la (©) Bodega Bohedal.")
+![Viñedos en otoño de la Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/2-la-rioja-vinedos-otono-bodega-bohedal.jpg "Viñedos en otoño de la (©) Bodega Bohedal.")
 
 Cuando se conduce en esta época por carreteras comarcales no es extraño que el ritmo de 
 los pequeños tractores con remolques cargados de uvas obligue, en cierta manera, a 
@@ -56,7 +56,7 @@ perseverantes y apasionadas por la cultura del vino. No es pequeño su esfuerzo 
 abrirse camino en un entorno ciertamente conservador y tradicional. Por ser pioneras, 
 precisamente ellas serán nuestra referencia. 
 
-![Fe, Blanca y Leyre regentan la Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/1-bodega-bohedal-vino-flores-1024x683.jpg "Fe, Blanca y Leyre regentan la (©) Bodega Bohedal.")
+![Fe, Blanca y Leyre regentan la Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/1-bodega-bohedal-vino-flores.jpg "Fe, Blanca y Leyre regentan la (©) Bodega Bohedal.")
 
 ## Fe, Blanca y Leyre, de la Bodega Bohedal
 
@@ -75,7 +75,7 @@ de vino y chocolate” o de “vino y aceite”. En Semana Santa, la actividad �
 rosquillas” y , en la primavera , la “cata de vino y flores”, con ocasión del Día de la 
 Madre. 
 
-![Visita sensorial a la Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/4-visita-sensorial-bodega-bohedal-1024x576.jpg "Visita sensorial a la (©) Bodega Bohedal.")
+![Visita sensorial a la Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/4-visita-sensorial-bodega-bohedal.jpg "Visita sensorial a la (©) Bodega Bohedal.")
 
 En esta época de vendimias, **Bohedal** desarrolla dos actividades específicas : **“La 
 vendimia en familia”**, donde todos juntos realizan la cosecha manual en el viñedo, el 
@@ -85,7 +85,7 @@ estación es **“la cata de uvas”**, en la que se aprende a distinguir las fo
 sabores y texturas de las variedades más conocidas de la Rioja: la Viura, Malvasía, 
 Tempranillo, Garnacha y Graciano. 
 
-![Vendimia en familia en Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/3-vendimias-en-familia-bodega-bohedal-1024x778.jpg "Vendimia en familia en (©) Bodega Bohedal.")
+![Vendimia en familia en Bodega Bohedal.](https://fotos.etheriamagazine.com/2018/10/3-vendimias-en-familia-bodega-bohedal.jpg "Vendimia en familia en (©) Bodega Bohedal.")
 
 Aprovechando que estamos en la localidad de Cuzcurrita de Río Tirón, podremos dar **un 
 paseo por el municipio**, que cuenta con un casco histórico muy rico en casonas y 
@@ -97,7 +97,7 @@ España, **Casalarreina** donde la visita al Monasterio de la Piedad nos permiti
 conocer un bellísimo conjunto de estilo Reyes Católicos o el municipio de **Briñas** que 
 abraza al río Ebro en un paseo reposado por su orilla. 
 
-![Bodega Conde de los Andes (La Rioja).](https://fotos.etheriamagazine.com/2018/10/bodega-conde-de-los-andes-1024x683.jpg "© Bodega Conde de los Andes (La Rioja).")
+![Bodega Conde de los Andes (La Rioja).](https://fotos.etheriamagazine.com/2018/10/bodega-conde-de-los-andes.jpg "© Bodega Conde de los Andes (La Rioja).")
 
 ## Cristina Hernando, de la Bodega Conde de los Andes
 
@@ -109,7 +109,7 @@ tierra que se remonta al siglo XV y XVI. Sin duda, uno de los patrimonios viníc
 La Rioja más impresionantes y que alcanza una longitud de algo más de un kilómetro 
 lineal. 
 
-![Cristina Hernando y Calao Los Candiles, de la Bodega Conde de los Andes.](https://fotos.etheriamagazine.com/2018/10/calao-los-candiles-conde-de-los-andes-1024x409.jpg "Cristina Hernando y Calao Los Candiles, de la (©) Bodega Conde de los Andes.")
+![Cristina Hernando y Calao Los Candiles, de la Bodega Conde de los Andes.](https://fotos.etheriamagazine.com/2018/10/calao-los-candiles-conde-de-los-andes.jpg "Cristina Hernando y Calao Los Candiles, de la (©) Bodega Conde de los Andes.")
 
 Un auténtico viaje al pasado de la cultura del vino en la región, que también quisieron 
 conocer en su momento escritores célebres como **Ernest Hemingway** o **Joaquín Belda**. 
@@ -122,7 +122,7 @@ acogida y valoración de los visitantes.
 > personalizado y acogedor en sus visitas, recibió uno de los premios más prestigiosos que 
 > existen en enoturismo: El premio Best of Internacional de las Great Wine Capitals. 
 
-![San Vicente de la Sonsierra (La Rioja).](https://fotos.etheriamagazine.com/2018/10/San-Vicente-Sonsierra-1024x726.jpg "San Vicente de la Sonsierra (La Rioja). © Carmen B.")
+![San Vicente de la Sonsierra (La Rioja).](https://fotos.etheriamagazine.com/2018/10/San-Vicente-Sonsierra.jpg "San Vicente de la Sonsierra (La Rioja). © Carmen B.")
 
 Desde Ollauri, podemos aprovechar para acercarnos a dos municipios cercanos que tienen 
 una gran importancia histórica y paisajística en la zona. Se trata de **Briones** y 
@@ -138,7 +138,7 @@ los meandros cultivados de viñedos más bonitos del río Ebro. Si disponéis de
 horas más, es también muy interesante la visita del **Museo de la Cultura del Vino 
 Vivanco**, reconocido por la Unesco en 2007 como el mejor en el mundo. 
 
-![Museo de la Cultura del Vino Vivanco.](https://fotos.etheriamagazine.com/2018/10/Museo-Vivanco-y-Briones-1024x707.jpg "Museo de la Cultura del Vino Vivanco. © Carmen B.")
+![Museo de la Cultura del Vino Vivanco.](https://fotos.etheriamagazine.com/2018/10/Museo-Vivanco-y-Briones.jpg "Museo de la Cultura del Vino Vivanco. © Carmen B.")
 
 En San Vicente de la Sonsierra, la subida al recinto del **Castillo y la iglesia de 
 Santa María la Mayor** nos permitirá contemplar todo el paisaje del viñedo que tapiza la 
@@ -168,7 +168,7 @@ profesional de Marta para darnos a conocer las características de los vinos de 
 > referencia para las nuevas generaciones de mujeres que quieren acercarse a la cultura 
 > del vino haciendo de ello su profesión. 
 
-![Hotel Arrope (La Rioja).](https://fotos.etheriamagazine.com/2018/10/hotel-arrope-panoramica-1024x292.jpg "© Hotel Arrope (La Rioja).")
+![Hotel Arrope (La Rioja).](https://fotos.etheriamagazine.com/2018/10/hotel-arrope-panoramica.jpg "© Hotel Arrope (La Rioja).")
 
 ## Ana Monge, del Hotel Arrope
 
@@ -182,7 +182,7 @@ que trabajaba en el campo de sol a sol. Con esa misma dedicación que requiere l
 elaboración del arrope, **Ana Monge, propietaria y directora del hotel**, recibe siempre 
 en su casa. 
 
-![Ana Monge, directora del Hotel Arrope (La Rioja).](https://fotos.etheriamagazine.com/2018/10/ana-monge-hotel-arrope-898x1024.jpg "© Ana Monge, directora del Hotel Arrope (La Rioja).")
+![Ana Monge, directora del Hotel Arrope (La Rioja).](https://fotos.etheriamagazine.com/2018/10/ana-monge-hotel-arrope.jpg "© Ana Monge, directora del Hotel Arrope (La Rioja).")
 
 En ella no falta una parra en el porche, bajo la que tomarse un refrigerio antes de 
 descansar. En su restaurante podréis también tener la oportunidad de probar un **menú 

@@ -14,7 +14,7 @@ capitales sudamericanas de Lima, Bogotá y Santiago de Chile. Aquí te contamos 
 AC Hotel Lima Miraflores es una excelente opción para iniciar o terminar un viaje por 
 Perú. 
 
-![Fachada del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC_Lima-fachada-Miraflores-900x600.jpg "Fachada del AC Lima Miraflores.")
+![Fachada del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC_Lima-fachada-Miraflores.jpg "Fachada del AC Lima Miraflores.")
 
 El **AC Hotel Lima Miraflores** se encuentra en uno de los barrios más exclusivos de 
 Lima, Miraflores, donde además de disfrutar de sus excelentes vistas al mar estás a un 
@@ -22,7 +22,7 @@ paso del famoso centro comercial Larcomar y del Parque Kennedy, uno de los más 
 de la capital. Sin duda, un inmejorable punto de partida para iniciar un viaje con 
 amigas por Perú y descubrir los secretos de su historia, paisajes y gastronomía. 
 
-![Lounge Bar del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC-Lima-Lounge-bar-900x600.jpg "Lounge Bar.")
+![Lounge Bar del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC-Lima-Lounge-bar.jpg "Lounge Bar.")
 
 ## Habitaciones
 
@@ -33,7 +33,7 @@ moderna y confortable, y cuenta con todos los servicios de un hotel de esta cate
 Entre ellas, servicio de habitaciones 24 horas, aire acondicionado, agua embotellada de 
 cortesía, secador, minibar, servicio de café y té… y unas camas extremadamente cómodas. 
 
-![Habitación doble con vistas al mar del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC-Lima-Habitación-con-vista-al-mar-900x600.jpg "Habitación doble con vistas al mar.")
+![Habitación doble con vistas al mar del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC-Lima-Habitación-con-vista-al-mar.jpg "Habitación doble con vistas al mar.")
 
 > Las no fumadoras están de suerte, ya que es un hotel 100% libre de humo. 
 
@@ -49,7 +49,7 @@ con vistas al océano, que de la mano del chef Rafael Piqueras centra su propues
 gastronómica en la materia prima autóctona; y el **AC Lounge**, con una carta basada en 
 tapas y raciones españolas. 
 
-![Restaurante Insumo, en la terraza del AC Lima Miraflores.](https://fotos.etheriamagazine.com/2020/02/AC-Lima-Insumo-Rooftop-900x600.jpg "Restaurante Insumo, en la terraza del AC Lima Miraflores.")
+![Restaurante Insumo, en la terraza del AC Lima Miraflores.](https://fotos.etheriamagazine.com/2020/02/AC-Lima-Insumo-Rooftop.jpg "Restaurante Insumo, en la terraza del AC Lima Miraflores.")
 
 ## Servicios y ventajas del hotel
 
@@ -58,7 +58,7 @@ suerte, ya que cuenta con un moderno **gimnasio** en el que podrás correr en la
 montar en bicicleta estática frente a unos grandes ventanales, mientras miras el 
 _skyline_ de Lima. 
 
-![Gimnasio del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC-Lima-gimnasio-900x601.jpg "Gimnasio.")
+![Gimnasio del AC Lima Miraflores](https://fotos.etheriamagazine.com/2020/02/AC-Lima-gimnasio.jpg "Gimnasio.")
 
 AC Marriot ofrece numerosas ventajas para sus clientes. En el AC Hotel Lima Miraflores 
 puedes descargarte una aplicación para tener a mano toda la información del mismo y 
@@ -72,7 +72,7 @@ Malecón de la Reserva 729, Lima. Perú. Tel. +51 1 5969480 Precio habitación d
 
 Fotografías cedias por ©AC Marriot. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Un viaje apasionante con amigas por el sur de 
 Perú](https://etheriamagazine.com/2019/11/01/mujeres-que-viajan-solas-amigas-peru/) 

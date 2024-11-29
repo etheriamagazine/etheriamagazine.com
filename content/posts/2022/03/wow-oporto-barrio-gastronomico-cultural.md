@@ -89,7 +89,7 @@ la uva, del vino y de todo aquello que lo rodea. En algunas salas se ha tratado 
 sea una experiencia didáctica, visual e interactiva con experiencias divertidas como 
 averiguar qué variedad de uva serías en función de tus gustos. 
 
-![Una uva diseccionada en el museo de la experiencia del vino](https://fotos.etheriamagazine.com/2022/03/museo-vino-wow-880x1024.jpg "La Experiencia del Vino, el principal museo de WOW.")
+![Una uva diseccionada en el museo de la experiencia del vino](https://fotos.etheriamagazine.com/2022/03/museo-vino-wow.jpg "La Experiencia del Vino, el principal museo de WOW.")
 
 #### La Colección Bridge
 
@@ -143,7 +143,7 @@ chocolatero, que controla todo el proceso –desde el origen del cacao hasta la 
 este chocolate cuenta con garantía de calidad. En la salida del espacio se sitúa una 
 preciosa cafetería donde merendar o tomar un chocolate caliente. 
 
-? La cata de chocolate sale por 14 euros, y el taller ‘Chocolatinhos’ (para niños desde 
+📌 La cata de chocolate sale por 14 euros, y el taller ‘Chocolatinhos’ (para niños desde 
 4 años) por 20 euros. 
 
 ![burbuja para sentir el aroma del chocolate y espacio audiovisual](https://fotos.etheriamagazine.com/2022/03/museo-chocolate-wow.jpg "Museo del Chocolate. © Pepa García")
@@ -173,7 +173,7 @@ previo, puedes escoger el más adecuado para ti, con o sin maridaje. Tras el mis
 volverás a mirar de la misma manera un vino de Oporto. Además, existe la opción de 
 ampliar la actividad con visitas a los viñedos, cenas maridadas, etc. 
 
-? **Taller de cata de vinos**: Desmitificando el vino de Oporto: 30 euros. Combinación 
+📌 **Taller de cata de vinos**: Desmitificando el vino de Oporto: 30 euros. Combinación 
 de vino y chocolate: 35 euros. Existen muchas más propuestas en torno al vino. 
 
 ![mujer con cinco copas de vino en un taller de cata en WOW Oporto](https://fotos.etheriamagazine.com/2022/03/cata-escuela-vino-wow.jpg "Taller de cata en la Escuela del Vino.")
@@ -192,7 +192,7 @@ En este barrio cultural y gastronómico de Oporto también encontrarás tiendas 
 museo donde darte el capricho de comprar recuerdos, pero reserva tiempo para curiosear 
 en sus **boutiques con firma portuguesa**. 
 
-![vestido de lana amarillo del Museo de la Moda y el Textil](https://fotos.etheriamagazine.com/2022/03/20201203_WOW_LR-13-900x600.jpg "Museo de la Moda y el Textil.")
+![vestido de lana amarillo del Museo de la Moda y el Textil](https://fotos.etheriamagazine.com/2022/03/20201203_WOW_LR-13.jpg "Museo de la Moda y el Textil.")
 
 ### 7\. Por puro placer hedonista
 

@@ -149,7 +149,7 @@ prima del bosque.
 
 Cuando comenzaron, hacían solo jabones pero el grupo creció a más de 100 personas así 
 que se dividieron y especializaron. Un grupo sigue con jabones y el otro con cosméticos 
-y champús. Todo es orgánico, incluso el embalaje. ?Les sugerimos que modifiquen el 
+y champús. Todo es orgánico, incluso el embalaje. 📍Les sugerimos que modifiquen el 
 envase de los productos de 120ml a 100ml para que la gente pueda comprarlo y llevarlo en 
 el avión. 
 
@@ -228,7 +228,7 @@ por cierto.
 
 © Fotografías cedidas por Sania Jelic. 
 
-? **Sigue las entregas anteriores de Sania Jelic:** 
+📌 **Sigue las entregas anteriores de Sania Jelic:** 
 
 [Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
 Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/) 

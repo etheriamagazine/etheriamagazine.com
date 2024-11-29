@@ -45,7 +45,7 @@ seducidos por sus platos de cuchara y los **guisos tradicionales costarricenses*
 mejor manera de conocer ese cariño que pone en cada receta es incluir su local en tu 
 próximo viaje a Sarapiquí para apoyar de esta manera a esta emprendedora y a su familia. 
 
-? Puedes escuchar su testimonio en este [vídeo](https://youtu.be/LCjLo3exIEQ). 
+📌 Puedes escuchar su testimonio en este [vídeo](https://youtu.be/LCjLo3exIEQ). 
 
 ![Gallo pinto, plato tradicional de Costa Rica.](https://fotos.etheriamagazine.com/2022/08/costa-rica-gallo-pinto.jpg "Gallo pinto, plato tradicional de Costa Rica.")
 
@@ -65,7 +65,7 @@ confiesa que las que más gustan son el ceviche de palmito, la lasaña de palmit
 de palmito. Pero son muchas más las que se pueden probar en su restaurante, una 
 excelente excusa para incluir esta parada en una ruta por Costa Rica. 
 
-? Puedes escuchar su testimonio en este [vídeo](https://youtu.be/uMvNHSe-Wqo). 
+📌 Puedes escuchar su testimonio en este [vídeo](https://youtu.be/uMvNHSe-Wqo). 
 
 ![María Luz Jiménez, fundadora de Palmitour](https://fotos.etheriamagazine.com/2022/08/Maria-Luz-Jimenez-Palmitour.jpg "María Luz Jiménez, fundadora de Palmitour.")
 
@@ -159,7 +159,7 @@ recorridos con calma y los ojos bien abiertos para no perder detalle. Dos de las
 importantes son el **Parque Nacional de Braulio Carrillo** y la **Estación Biológica La 
 Selva**, de las que ya os hemos hablado. 
 
-![Plantación de café en Costa Rica.](https://fotos.etheriamagazine.com/2022/08/Costa-rica-Central-Valley-plantacion-cafe-683x1024.jpg "Plantación de café en Costa Rica.")
+![Plantación de café en Costa Rica.](https://fotos.etheriamagazine.com/2022/08/Costa-rica-Central-Valley-plantacion-cafe.jpg "Plantación de café en Costa Rica.")
 
 ### 3\. Disfruta con el avistamiento de aves
 

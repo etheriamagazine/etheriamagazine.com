@@ -92,7 +92,7 @@ desnivel de más del 25%, y otra pista de menor pendiente de 100 metros de largo
 ancho, ideal para los no iniciados. Además, y debido a la situación causada por la 
 Covid-19, ha reducido sus tarifas. 
 
-![jamming teatro improvisacion](https://fotos.etheriamagazine.com/2021/09/teatro-improvisacion-jamming-753x1024.jpg "Jamming, teatro de improvisación y escuela.")
+![jamming teatro improvisacion](https://fotos.etheriamagazine.com/2021/09/teatro-improvisacion-jamming.jpg "Jamming, teatro de improvisación y escuela.")
 
 ## 6\. La vida es puro teatro
 
@@ -129,7 +129,7 @@ Vía Madrid, nos sorprende con su nuevo ‘crystal dining’, una estructura de 
 resguarda de la lluvia, además de contar con velas de sombra que se han instalado para 
 mantener una temperatura agradable en los meses de más calor. 
 
-![masaje bailines, masaje tailandes,](https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines-900x600.jpg "En algunos masajes el aceite es fundamental. © Alan Caishan")
+![masaje bailines, masaje tailandes,](https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines.jpg "En algunos masajes el aceite es fundamental. © Alan Caishan")
 
 ## 9\. Una tarde de spa y masajes
 

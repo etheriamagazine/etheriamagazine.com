@@ -62,7 +62,7 @@ primavera en la isla de Mallorca.
 Cuándo: 10 y 11 de mayo. Dónde: Antiguo Aquapark de Calvià (Mallorca). Precio: 75 Euros 
 (pase de 2 días). Pase VIP de 2 días 165 Euros. Más información: Mallorca Live Festival. 
 
-![Música, viajes con amigas, escapadas, viaje fin de semana, festivales musica 2019](https://fotos.etheriamagazine.com/2019/02/Festivales-vetusta-morla-Calvia-1024x512.jpg "Vetusta Morla, uno de los grupos más presentes en los festivales, estará también en el © Mallorca Live Festival de este año.")
+![Música, viajes con amigas, escapadas, viaje fin de semana, festivales musica 2019](https://fotos.etheriamagazine.com/2019/02/Festivales-vetusta-morla-Calvia.jpg "Vetusta Morla, uno de los grupos más presentes en los festivales, estará también en el © Mallorca Live Festival de este año.")
 
 ## 4\. Interestelar Sevilla
 
@@ -77,7 +77,7 @@ Cuándo: 24 y 25 de mayo. Dónde: en los jardines del CAAC (Centro Andaluz de Ar
 Contemporáneo) en la Isla de la Cartuja (Sevilla). Precio: Abono de 2 días 50 Euros. Más 
 información: Interestelar Sevilla. 
 
-![viaje con amigas, escapadas, viajes de fin de semana, festivales musica 2019](https://fotos.etheriamagazine.com/2019/02/Festivales-cartel-interestelar-1024x525.jpg "El © Interestelar Sevilla se presenta este año con importantes figuras del panorama musical.")
+![viaje con amigas, escapadas, viajes de fin de semana, festivales musica 2019](https://fotos.etheriamagazine.com/2019/02/Festivales-cartel-interestelar.jpg "El © Interestelar Sevilla se presenta este año con importantes figuras del panorama musical.")
 
 ## 5\. Warm up Estrella de Levante (Murcia)
 

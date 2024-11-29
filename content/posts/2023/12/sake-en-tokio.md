@@ -27,7 +27,7 @@ de la minuciosa combinación de dos elementos esenciales de máxima calidad: arr
 Si la gastronomía ocupa un lugar de honor en vuestros viajes, esta **ruta del sake en 
 Tokio** es perfecta para vosotras. 
 
-![Sake japonés.](https://fotos.etheriamagazine.com/2023/12/sake-japones-850x444.jpg "Sake japonés. © ngd3")
+![Sake japonés.](https://fotos.etheriamagazine.com/2023/12/sake-japones.jpg "Sake japonés. © ngd3")
 
 ## Agua y arroz, el milagro del sake
 

@@ -32,7 +32,7 @@ organizado, se puso a unir recuerdos de infancia con ficciones protagonizadas po
 mafiosos. De ese cóctel literario nació un éxito universal: **_The Godfather_ (_El 
 Padrino_)**. 
 
-![libro el padrino de mario puzo](https://fotos.etheriamagazine.com/2022/02/libro-el-padrino-675x1024.jpg)
+![libro el padrino de mario puzo](https://fotos.etheriamagazine.com/2022/02/libro-el-padrino.jpg)
 
 ##### El libro _El Padrino_ fue uno de los bestsellers más vendidos en su día.
 

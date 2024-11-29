@@ -30,7 +30,7 @@ Manuelas** o a la **Venta Piñero** para tomar un abundante y económico menú d
 visitas de interés (con mapa 
 incluido).](https://etheriamagazine.com/2023/03/06/pueblos-que-ver-en-cadiz/) 
 
-![El Palmar de Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-el-palmar-900x663.jpg "Luces tras la caída del sol en El Palmar. © SG")
+![El Palmar de Vejer](https://fotos.etheriamagazine.com/2020/08/vejer-el-palmar.jpg "Luces tras la caída del sol en El Palmar. © SG")
 
 Pero también puedes darte un homenaje de buena cocina. Solo tienes que acercarte a uno 
 de los restaurantes de la playa del Palmar. Algunos de ellos se han convertido en 

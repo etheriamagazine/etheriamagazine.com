@@ -74,7 +74,7 @@ La novena etapa nos lleva a la **iglesia de la Concepción**, en el barrio de Sa
 donde en 1963 se celebró el bautizo de Rosario Flores, que tuvo como padrinos a Antonio 
 el Bailarín y a Carmen Sevilla. 
 
-![Cartel de la ruta de Lola Flores.](https://fotos.etheriamagazine.com/2024/04/ruta-lola-flores-cartel-718x1000.jpg "Cartel de la ruta de Lola Flores. © Ayuntamiento de Madrid")
+![Cartel de la ruta de Lola Flores.](https://fotos.etheriamagazine.com/2024/04/ruta-lola-flores-cartel.jpg "Cartel de la ruta de Lola Flores. © Ayuntamiento de Madrid")
 
 ## Restaurantes famosos y la deuda con Hacienda
 

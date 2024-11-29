@@ -15,7 +15,7 @@ tan divertida es el gran plan del año, pero para que todo salga a pedir de boca
 organizarlo bien y conocer los usos y costumbres carnavalescos. Sigue leyendo para no 
 dar mucho la nota. 
 
-![carnaval de cadiz](https://fotos.etheriamagazine.com/2020/01/agrupacion-carnaval-900x506.jpg "Carnaval de Cádiz. © Ayto. Cádiz")
+![carnaval de cadiz](https://fotos.etheriamagazine.com/2020/01/agrupacion-carnaval.jpg "Carnaval de Cádiz. © Ayto. Cádiz")
 
 El Carnaval de Cádiz es la fiesta más importante de esta maravillosa ciudad. Un festejo 
 que llega hasta el último rincón de sus barrios, gracias a la implicación de la mayoría 
@@ -34,7 +34,7 @@ carnavalescas en las principales plazas de la ciudad. Encuentros gastronómicos 
 suelen estar abiertos al público general, pero el pistoletazo oficial lo marcan las 
 eliminatorias en el Gran Teatro Falla. 
 
-![carnaval de cadiz,](https://fotos.etheriamagazine.com/2020/01/Carnaval-Cadiz-6-900x571.jpg "Carnaval de Cádiz. ©P.T.Cádiz")
+![carnaval de cadiz,](https://fotos.etheriamagazine.com/2020/01/Carnaval-Cadiz-6.jpg "Carnaval de Cádiz. ©P.T.Cádiz")
 
 ## El concurso en el Gran Teatro Falla
 
@@ -54,7 +54,7 @@ fundamental del espectáculo: cantando los estribillos, aclamando las mejores ac
 y también silbando y protestando a aquellas que no alcanzan la calidad que merece este 
 concurso. En definitiva, tratando de influir en la decisión del jurado oficial. 
 
-![carnaval cadiz](https://fotos.etheriamagazine.com/2020/01/carnaval-calle-900x600.jpg "El Carnaval de Cádiz se vive en la calle. © Ayto. Cádiz")
+![carnaval cadiz](https://fotos.etheriamagazine.com/2020/01/carnaval-calle.jpg "El Carnaval de Cádiz se vive en la calle. © Ayto. Cádiz")
 
 ## ¿El Carnaval? En la calle, por supuesto
 
@@ -78,7 +78,7 @@ Además, durante esa semana tienen lugar varias cabalgatas (generales e infantil
 todo el centro histórico y también en la avenida de Andalucía (más allá de Puertas de 
 Tierra). 
 
-![carnaval de cadiz](https://fotos.etheriamagazine.com/2020/01/Carnaval-Cadiz-5-900x576.jpg "Carnaval de Cádiz. © P.T. Cádiz")
+![carnaval de cadiz](https://fotos.etheriamagazine.com/2020/01/Carnaval-Cadiz-5.jpg "Carnaval de Cádiz. © P.T. Cádiz")
 
 ## La fundamental participación de “las ilegales”
 
@@ -96,7 +96,7 @@ Plaza del Palillero, callejuelas del barrio del Pópulo, barrio de La Viña…
 > (especial foco siempre en políticos locales y nacionales), acontecimientos sociales y 
 > costumbres, siempre desde el punto de vista del humor. 
 
-![chirigotas, comparsas, carnaval de cadiz](https://fotos.etheriamagazine.com/2020/01/carnaval-cadiz-2-900x619.jpg "Las letras de las agrupaciones se caracterizan por la crítica y el humor.")
+![chirigotas, comparsas, carnaval de cadiz](https://fotos.etheriamagazine.com/2020/01/carnaval-cadiz-2.jpg "Las letras de las agrupaciones se caracterizan por la crítica y el humor.")
 
 No solo hay chirigotas ilegales por las calles de la ciudad, también es habitual ver 
 tríos, cuartetos y algunos romanceros. Estos últimos suponen una de las particularidades 
@@ -107,7 +107,7 @@ acompañados de un panel en el que aparecen dibujos de los hechos que se narran.
 En esta modalidad destacan las creaciones de Ana López, componente a su vez de la 
 compañía escénica Las Chirigóticas, junto a Pepa Rus. 
 
-![carnaval de cadiz](https://fotos.etheriamagazine.com/2020/01/Carnaval-cadiz-1-900x602.jpg "El concurso de agrupaciones es una parte fundamental del Carnaval de Cádiz. ©P.T.Cádiz")
+![carnaval de cadiz](https://fotos.etheriamagazine.com/2020/01/Carnaval-cadiz-1.jpg "El concurso de agrupaciones es una parte fundamental del Carnaval de Cádiz. ©P.T.Cádiz")
 
 ## Carnaval de Cádiz en femenino
 

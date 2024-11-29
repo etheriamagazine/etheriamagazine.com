@@ -70,7 +70,7 @@ erupciones del siglo XVIII, que se hallan alineados en fila, como si la Naturale
 hubiera jugado a trazar líneas y figuras, a veces perfectamente simétricas, en un lienzo 
 infinito. 
 
-![Parque Nacional de Timanfaya uno de los planes en lanzarote con amigas](https://fotos.etheriamagazine.com/2018/09/Timanfaya_Paisaje-Volcanico-1024x683.jpg "Paisaje volcánico en el Parque Nacional de Timanfaya.")
+![Parque Nacional de Timanfaya uno de los planes en lanzarote con amigas](https://fotos.etheriamagazine.com/2018/09/Timanfaya_Paisaje-Volcanico.jpg "Paisaje volcánico en el Parque Nacional de Timanfaya.")
 
 El **padre Cubelo**, párroco de la localidad de Yaiza, dejó testimonio escrito de la 
 erupción que, entre 1730 y 1736, dejó de piedra gran parte del territorio de la isla: 
@@ -124,7 +124,7 @@ cueva cuenta con, al menos, 16 jameos, uno de los cuales constituye su puerta de
 entrada. Los más famosos son el Jameo Chico, el Jameo Grande y el Jameo de la Cazuela. 
 Todo un monumento natural que, desde 1964, se muestra en todo su esplendor. 
 
-![jardin de cactus un plan en lanzarote con amigas](https://fotos.etheriamagazine.com/2018/09/Lanzarote-Jardín-cactus-1024x683.jpg "Jardín de Cactus, en Lanzarote. © CACT Lanzarote.")
+![jardin de cactus un plan en lanzarote con amigas](https://fotos.etheriamagazine.com/2018/09/Lanzarote-Jardín-cactus.jpg "Jardín de Cactus, en Lanzarote. © CACT Lanzarote.")
 
 ### 5\. Pasea entre plantas en el Jardín de Cactus
 
@@ -147,7 +147,7 @@ diseñando y modificando como si dispusiera de un pincel con toda la gama de col
 reflejos. Se trata de una vieja explotación salinera creada en 1895 y que en la 
 actualidad ofrece uno de los paisajes más singulares de la isla. 
 
-![playa de famara plan en lanzarote](https://fotos.etheriamagazine.com/2018/09/Playas-Teguise-Famara-Lanzarote-1024x682.jpg "Playa Famara en Teguise.")
+![playa de famara plan en lanzarote](https://fotos.etheriamagazine.com/2018/09/Playas-Teguise-Famara-Lanzarote.jpg "Playa Famara en Teguise.")
 
 ### 7\. Asómate a los miradores de Lanzarote
 

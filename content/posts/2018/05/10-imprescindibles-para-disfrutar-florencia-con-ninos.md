@@ -31,7 +31,7 @@ frescos del Juicio Final del interior de la cúpula y por las vistas de toda la 
 que se contemplan desde el exterior. Un actividad imprescindible si se visita Florencia 
 con niños. 
 
-![escaleras del Duomo](https://fotos.etheriamagazine.com/2018/05/1-FLORENCIA-CON-NINOS-SUBIDA-AL-DUOMO-1024x683.jpg "Escaleras para subir a lo alto del Duomo. © Susana García.")
+![escaleras del Duomo](https://fotos.etheriamagazine.com/2018/05/1-FLORENCIA-CON-NINOS-SUBIDA-AL-DUOMO.jpg "Escaleras para subir a lo alto del Duomo. © Susana García.")
 
 ## 2\. Museo Leonardo da Vinci
 
@@ -43,7 +43,7 @@ verlo todo con tranquilidad y probar todos los inventos disponibles. Por cierto,
 perdáis la tienda del museo, podréis encontrar libros sobre este genial personaje 
 histórico adaptados a los más pequeños. 
 
-![niña en el Museo de Leonardo da Vinci en Florencia](https://fotos.etheriamagazine.com/2018/05/2-FLORENCIA-CON-NINOS-MUSEO-LEONARDO-683x1024.jpg "Museo Leonardo da Vinci © SG")
+![niña en el Museo de Leonardo da Vinci en Florencia](https://fotos.etheriamagazine.com/2018/05/2-FLORENCIA-CON-NINOS-MUSEO-LEONARDO.jpg "Museo Leonardo da Vinci © SG")
 
 ## 3\. Tocar al 'porcellino'
 
@@ -52,9 +52,9 @@ de la fuente, seguro que volverás a Florencia. Se encuentra en la Plaza del Mer
 Nuevo. Así que ya sabes, si te ha gustado la ciudad lo suficiente para querer volver, 
 que seguro que te pasa, no dejes de seguir este ritual. 
 
-![Niña con il porcellino en Florencia](https://fotos.etheriamagazine.com/2018/05/3-FLORENCIA-CON-NINOS-PORCELLINO-683x1024.jpg "Hay que seguir la tradición de tocar la 'porcellino'. © SG")
+![Niña con il porcellino en Florencia](https://fotos.etheriamagazine.com/2018/05/3-FLORENCIA-CON-NINOS-PORCELLINO.jpg "Hay que seguir la tradición de tocar la 'porcellino'. © SG")
 
-? Te vamos ya dando las pistas en el reportaje [15 ideas para disfrutar Florencia una 
+📌 Te vamos ya dando las pistas en el reportaje [15 ideas para disfrutar Florencia una 
 segunda 
 vez](https://etheriamagazine.com/2018/09/21/15-ideas-para-disfrutar-de-florencia-por-segunda-vez/). 
 
@@ -68,7 +68,7 @@ para pasar un rato entretenido con los niños y descubrir los secretos de la hel
 tradicional. Se pueden contratar con distintas agencias y en la heladería Perché No!… 
 que lleva en manos de la misma familia desde hace años. 
 
-![Clase de helados en Florencia](https://fotos.etheriamagazine.com/2018/05/5-FLORENCIA-CON-NINOS-CLASE-DE-HELADOS-1024x683.jpg "Clase para hacer helados en Perché No!... © SG")
+![Clase de helados en Florencia](https://fotos.etheriamagazine.com/2018/05/5-FLORENCIA-CON-NINOS-CLASE-DE-HELADOS.jpg "Clase para hacer helados en Perché No!... © SG")
 
 ## 5\. Probar sí o sí una pizza
 
@@ -77,7 +77,7 @@ las delicias de pequeños y mayores en cualquier momento y en cualquier lugar. P
 sentaros cómodamente en cualquier restaurante a degustarla, aparece en todas las cartas, 
 o tomar una porción para comerla por la calle. 
 
-![pizzas en Florencia](https://fotos.etheriamagazine.com/2018/05/6-FLORENCIA-CON-NINOS-PIZZA-1024x683.jpg "Las pizzerías se encuentran por todas partes en Florencia. © Susana García.")
+![pizzas en Florencia](https://fotos.etheriamagazine.com/2018/05/6-FLORENCIA-CON-NINOS-PIZZA.jpg "Las pizzerías se encuentran por todas partes en Florencia. © Susana García.")
 
 ## 6\. Una representación de títeres
 
@@ -87,7 +87,7 @@ y poéticos espectáculos de títeres que dejan a los niños embobados. Una buen
 para acercarles a este precioso puente donde los mayores disfrutaran con su apariencia 
 medieval y sus pequeñas tiendas tradicionales, la mayoría joyerías. 
 
-![Representación de títeres en el Ponte Vecchio.](https://fotos.etheriamagazine.com/2018/05/7-FLORENCIA-CON-NINOS-TITERES-1024x683.jpg "Representación de títeres en el Ponte Vecchio. © Susana García.")
+![Representación de títeres en el Ponte Vecchio.](https://fotos.etheriamagazine.com/2018/05/7-FLORENCIA-CON-NINOS-TITERES.jpg "Representación de títeres en el Ponte Vecchio. © Susana García.")
 
 ## 7. ¿Unos dulces florentinos?
 
@@ -97,7 +97,7 @@ conocidas son el **Caffè Gilli** o el **Caffe Concerto Paszkowski**, las dos en
 Piazza della Reppublica. Seguro que repetís la merienda todos los días porque no sabréis 
 elegir sólo un dulce en la primera visita. 
 
-![Dulces en el Caffè Gilli.](https://fotos.etheriamagazine.com/2018/05/8-FLORENCIA-CON-NINOS-DULCES-1024x683.jpg "Dulces en el Caffè Gilli. © Susana García.")
+![Dulces en el Caffè Gilli.](https://fotos.etheriamagazine.com/2018/05/8-FLORENCIA-CON-NINOS-DULCES.jpg "Dulces en el Caffè Gilli. © Susana García.")
 
 ## 8\. Subir en el tiovivo
 
@@ -117,7 +117,7 @@ marco perfecto para un rato de juegos y volteretas que podréis combinar con la 
 al precioso Duomo. Lo mejor es comprar las entradas con antelación en la web oficial, 
 existen varios tipos según los edificios que queráis visitar. 
 
-![niñas frente al baptisterio del Duomo de Pisa](https://fotos.etheriamagazine.com/2018/05/10-FLORENCIA-CON-NINOS-PISA-683x1024.jpg "Excursión a Pisa. ©Susana García.")
+![niñas frente al baptisterio del Duomo de Pisa](https://fotos.etheriamagazine.com/2018/05/10-FLORENCIA-CON-NINOS-PISA.jpg "Excursión a Pisa. ©Susana García.")
 
 ## 10\. Búsqueda del tesoro en la Galería de los Uffizi
 
@@ -129,11 +129,11 @@ calma de las obras de arte. Las entradas generales las podéis comprar en la **w
 Gallerie degli Uffizi**, existen entradas combinadas para ver también el Palacio y el 
 precioso Giardino di Boboli. 
 
-![niños en la Galería de los Uffizi.](https://fotos.etheriamagazine.com/2018/05/11-FLORENCIA-CON-NINOS-GALERIA-DE-LOS-UFFIZI-1024x768.jpg "Galería de los Uffizi. © Susana García.")
+![niños en la Galería de los Uffizi.](https://fotos.etheriamagazine.com/2018/05/11-FLORENCIA-CON-NINOS-GALERIA-DE-LOS-UFFIZI.jpg "Galería de los Uffizi. © Susana García.")
 
 Más información: [Turismo oficial de Florencia](https://www.feelflorence.it/). 
 
-? **Más artículos sobre Florencia:** 
+📌 **Más artículos sobre Florencia:** 
 
 [Aprovecha a tope un fin de semana en 
 Florencia](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia-fin-de-semana-que-ver-hacer/) 

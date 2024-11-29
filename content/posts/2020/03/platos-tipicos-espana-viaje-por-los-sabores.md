@@ -15,7 +15,7 @@ cocinados por ti mismo. Viaja mentalmente durante una semana a través de estas 
 recetas: fabada, salmorejo, paella, cocido, migas, lechazo y pulpo. El menú hoy lo 
 eliges tú. 
 
-![Mujer cocinando en el horno](https://fotos.etheriamagazine.com/2020/03/cocinera-900x600.jpg "Descubre el placer de cocinar.")
+![Mujer cocinando en el horno](https://fotos.etheriamagazine.com/2020/03/cocinera.jpg "Descubre el placer de cocinar.")
 
 Hoy día es inconcebible un viaje en el que no esté presente la gastronomía. A veces 
 incluso es el motivo principal para elegir un destino en lugar de otro. Ya sea para 
@@ -81,7 +81,7 @@ ya que sólo hay que colocar el cordero en la bandeja tras frotarlo con ajo y po
 manteca y sal. Y, después, meterlo en el horno... Aunque lo mejor es que veas el vídeo, 
 porque cada cocinero tiene sus truquillos. Haz clic en la imagen. 
 
-[![lechazo castilla y leon](https://fotos.etheriamagazine.com/2020/03/lechazo-rico-900x505.jpg "Lechazo con receta de Javier Romero.")](https://www.youtube.com/watch?v=6QIdvGfF3F0)
+[![lechazo castilla y leon](https://fotos.etheriamagazine.com/2020/03/lechazo-rico.jpg "Lechazo con receta de Javier Romero.")](https://www.youtube.com/watch?v=6QIdvGfF3F0)
 
 ## Pulpo a la gallega
 
@@ -124,7 +124,7 @@ gustos. Si lo prefieres, hazla de verdura, de marisco o de lo que tengas, no te 
 Y mejor no la llames "paella" sino "arroz con cosas", por si acaso... Haz clic en la 
 imagen. 
 
-[![paella valenciana](https://fotos.etheriamagazine.com/2020/03/receta-paella-valenciana-900x496.jpg "Receta del canal Paellas y cocina valencianas.")](https://www.youtube.com/watch?v=zrSyyNugKYo)
+[![paella valenciana](https://fotos.etheriamagazine.com/2020/03/receta-paella-valenciana.jpg "Receta del canal Paellas y cocina valencianas.")](https://www.youtube.com/watch?v=zrSyyNugKYo)
 
 ## Migas
 
@@ -137,7 +137,7 @@ explican muy bien.
 
 [![migas extremenas](https://fotos.etheriamagazine.com/2020/03/migas-extremenas.jpg "Receta de migas extremeñas del canal Andalucía videorecetas.")](https://www.youtube.com/watch?v=LV1sKYMHMTQ)
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Qué comer en Madeira, la isla de las 
 nubes](https://etheriamagazine.com/2022/08/30/que-comer-en-madeira/). 

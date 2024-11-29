@@ -77,7 +77,7 @@ habitaciones más especiales son las tres **Junior Suite Históricas con Alma**,
 podrás sentirte como en un auténtico palacio ya que están decoradas con frescos que 
 recrean momentos históricos y con ornamentos originales del palacio. 
 
-?Si viajas en familia pregunta por las **habitaciones comunicadas**; o por la 
+📌Si viajas en familia pregunta por las **habitaciones comunicadas**; o por la 
 posibilidad de habilitar las habitaciones Deluxe para tres ocupantes o las Junior Suite 
 para cuatro. 
 

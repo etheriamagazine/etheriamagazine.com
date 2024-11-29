@@ -81,7 +81,7 @@ es un artículo que incluye actividades con las que podréis exprimir al máximo
 escapada: desde clases de cocina y catas de cerveza hasta surf, yoga y paseos en barco. 
 Tendréis donde elegir para dar contenido a un fin de semana de diez. 
 
-![Catedral de Málaga](https://fotos.etheriamagazine.com/2021/08/Malaga-catedral-900x600.jpg "La catedral de Málaga, conocida como “La Manquita”.")
+![Catedral de Málaga](https://fotos.etheriamagazine.com/2021/08/Malaga-catedral.jpg "La catedral de Málaga, conocida como “La Manquita”.")
 
 ## Málaga
 
@@ -132,7 +132,7 @@ perderos (el mercado gastronómico del edificio de Correos es parada obligada), 
 bici y lugares perfectos para inmortalizar esas fotos que quedarán para siempre en el 
 recuerdo, como los preciosos atardeceres en el Paseo del Malecón. 
 
-![Calle de Mogarraz](https://fotos.etheriamagazine.com/2021/08/mogarraz-paseo-ruta-sierra-francia-1-729x1024.jpg "Mogarraz forma parte de la Ruta del Vino de la Sierra de Francia. © Pepa G.")
+![Calle de Mogarraz](https://fotos.etheriamagazine.com/2021/08/mogarraz-paseo-ruta-sierra-francia-1.jpg "Mogarraz forma parte de la Ruta del Vino de la Sierra de Francia. © Pepa G.")
 
 ## Sierra de Francia
 

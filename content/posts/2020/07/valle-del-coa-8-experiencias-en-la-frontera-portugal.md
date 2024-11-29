@@ -15,7 +15,7 @@ mundo, la que marca el río Côa, y un puñado de aldeas históricas cargadas de
 Además, habrá momentos en los que te sientas en un safari africano. ¿Nos acompañas a 
 recorrer esta línea fronteriza olvidada? 
 
-![ruta valle coa, aldeas historicas, rutas Portugal](https://fotos.etheriamagazine.com/2020/07/ruta-aldeas-historicas-portugal-900x601.jpg "Mafalda Nicolau de Almeida y Joao, propietarios de Fly Camp.")
+![ruta valle coa, aldeas historicas, rutas Portugal](https://fotos.etheriamagazine.com/2020/07/ruta-aldeas-historicas-portugal.jpg "Mafalda Nicolau de Almeida y Joao, propietarios de Fly Camp.")
 
 En un momento en el que los límites entre países se perciben un poco más, partimos a 
 explorar una de las más misteriosas y desdibujadas líneas fronterizas europeas: el valle 
@@ -29,7 +29,7 @@ curso del río Côa, y seguimos rumbo norte, hasta que entrega sus aguas al Duer
 camino define un mapa punteado de fortalezas, un mundo rural cuyas gentes no desean 
 olvidar aquella antigua y olvidada frontera. 
 
-![puente sequeiros, sabugal, aldeas historicas, valle del coa, portugal](https://fotos.etheriamagazine.com/2020/07/puente-sequeiros-sabugal-900x599.jpg "Puente de Sequeiros, en Sabugal.")
+![puente sequeiros, sabugal, aldeas historicas, valle del coa, portugal](https://fotos.etheriamagazine.com/2020/07/puente-sequeiros-sabugal.jpg "Puente de Sequeiros, en Sabugal.")
 
 ## Tierra prometida del lince ibérico
 
@@ -44,7 +44,7 @@ mediterráneo. Las huellas de la vieja frontera surgen en el **puente de Sequeir
 fortificación medieval vigilaba el tránsito por la calzada que conectaba **Pinhel** y 
 **Castelo Rodrigo** mientras que en su torre se cobraba el peaje de paso. 
 
-![ruta valle coa, aldeas historicas, portugal](https://fotos.etheriamagazine.com/2020/07/ruta-rio-coa-portugal-900x601.jpg "Indicaciones de rutas en El Valle del Coa.")
+![ruta valle coa, aldeas historicas, portugal](https://fotos.etheriamagazine.com/2020/07/ruta-rio-coa-portugal.jpg "Indicaciones de rutas en El Valle del Coa.")
 
 ## Pueblos de frontera
 
@@ -57,7 +57,7 @@ fortaleza ovalada, entre las más imponentes del Côa, conserva extramuros de la
 la torre del Homenaje, así como las ruinas de la **iglesia románica de Santa María do 
 Castelo**. 
 
-![Reserva de Faia Brava, rutas rio coa, portugal](https://fotos.etheriamagazine.com/2020/07/rutas-portugal-faia-brava-900x600.jpg "Reserva de Faia Brava.")
+![Reserva de Faia Brava, rutas rio coa, portugal](https://fotos.etheriamagazine.com/2020/07/rutas-portugal-faia-brava.jpg "Reserva de Faia Brava.")
 
 ## Faia Brava, territorio de antaño
 
@@ -73,7 +73,7 @@ directas de esos grandes bóvidos que habrás visto en pinturas prehistóricas d
 continente. Estas serían descendientes de los uros o ancestrales bóvidos que camparon en 
 Europa. 
 
-![caballos, portugal, faia brava](https://fotos.etheriamagazine.com/2020/07/safari-caballos-portugal-900x600.jpg "Caballos de la raza sorraia, en libertad.")
+![caballos, portugal, faia brava](https://fotos.etheriamagazine.com/2020/07/safari-caballos-portugal.jpg "Caballos de la raza sorraia, en libertad.")
 
 ## Un safari con final feliz
 
@@ -93,7 +93,7 @@ prepárate porque tu jornada de safari no ha terminado. Desde tu veranda sus noc
 estrelladas te pertenecen, incluso desde la cama si decides dejar abierta la lona 
 frontal. 
 
-![Star Camp, Faia Brava, rutas portugal](https://fotos.etheriamagazine.com/2020/07/aldeas-historicas-glamping-900x571.jpg "Star Camp, en Faia Brava.")
+![Star Camp, Faia Brava, rutas portugal](https://fotos.etheriamagazine.com/2020/07/aldeas-historicas-glamping.jpg "Star Camp, en Faia Brava.")
 
 ## Aldeas históricas de cuento
 
@@ -112,7 +112,7 @@ tiradores de las puertas llamarán tu atención. Umbral adentro quedan incluso l
 pequeños espacios de culto que los judíos de Sefarad, huidos de las persecuciones 
 religiosas, crearon en lo más secreto de sus viviendas. 
 
-![villa de Castelo Mendo, ruta portugal, valle del coa, aldeas historicas](https://fotos.etheriamagazine.com/2020/07/aldeas-portugal-valle-coa-900x601.jpg "Villa de Castelo Mendo.")
+![villa de Castelo Mendo, ruta portugal, valle del coa, aldeas historicas](https://fotos.etheriamagazine.com/2020/07/aldeas-portugal-valle-coa.jpg "Villa de Castelo Mendo.")
 
 ## Gran Ruta del Côa, sendas para no perderse
 
@@ -126,7 +126,7 @@ de Ribeira do Piscos, con la humildad de los paisajes agrícolas con sus almendr
 olivos, viejas casonas abandonadas, palomares y los corros circulares que abrigan los 
 árboles de la dureza climatológica. 
 
-![ruta del coa, rutas en bicicleta, senderismo portugal](https://fotos.etheriamagazine.com/2020/07/ruta-coa-portugal-900x601.jpg "Gran ruta del Côa, 222 km para recorrer en bici o a pie.")
+![ruta del coa, rutas en bicicleta, senderismo portugal](https://fotos.etheriamagazine.com/2020/07/ruta-coa-portugal.jpg "Gran ruta del Côa, 222 km para recorrer en bici o a pie.")
 
 ## Un panorama ancestral
 
@@ -145,7 +145,7 @@ que la zona estuvo habitada durante 25.000 años, en continuidad, por neardental
 sapiens. Fueron nuestros ancestros quienes crearon estas formidables manifestaciones 
 artísticas que hoy atestiguan su forma de vida. 
 
-![arte rupestre, valle del coa, arqueologia portugal](https://fotos.etheriamagazine.com/2020/07/portugal-unesco-penascosa-900x601.jpg "Arte rupestre en el Valle del Côa.")
+![arte rupestre, valle del coa, arqueologia portugal](https://fotos.etheriamagazine.com/2020/07/portugal-unesco-penascosa.jpg "Arte rupestre en el Valle del Côa.")
 
 ## Wellington sí estuvo aquí
 
@@ -156,7 +156,7 @@ entre roquedos del río Côa con el Duero. Estos paisajes vieron la presencia de
 Wellington que utilizó el obstáculo fluvial como barrera defensiva ante el avance del 
 ejército francés en la Guerra de la Independencia española. 
 
-![glamping, valle coa, rutas portugal](https://fotos.etheriamagazine.com/2020/07/pueblos-frontera-portugal-faia-brava-900x601.jpg "Glamping junto al río Côa.")
+![glamping, valle coa, rutas portugal](https://fotos.etheriamagazine.com/2020/07/pueblos-frontera-portugal-faia-brava.jpg "Glamping junto al río Côa.")
 
 Hoy nos detenemos entre sus ordenados viñedos para practicar **glamping con vistas a los 
 cultivos y el río**. Porque el camping con _glamour_ resulta prometedor ante la 

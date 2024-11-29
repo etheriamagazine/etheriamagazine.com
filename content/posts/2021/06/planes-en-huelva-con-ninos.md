@@ -33,7 +33,7 @@ réplicas de la Niña, la Pinta y la Santa María (en realidad dos carabelas y u
 realizaron para conmemorar el 500 aniversario de la llegada de los españoles a América y 
 hoy forman parte de un Centro de Interpretación del Descubrimiento. 
 
-![barcos del muelle de las Carabelas](https://fotos.etheriamagazine.com/2018/09/muelle-carabelas-huelva-1024x705.jpg "Muelle de las Carabelas © PGM")
+![barcos del muelle de las Carabelas](https://fotos.etheriamagazine.com/2018/09/muelle-carabelas-huelva.jpg "Muelle de las Carabelas © PGM")
 
 Se puede subir a ellas para ver de cerca los aparejos marineros, bajar a la bodega y 
 conocer el modo de vida en estas embarcaciones. La excursión se puede completar con una 
@@ -116,7 +116,7 @@ Castilla, que conecta con Mazagón a través de 20 kilómetros de arena sin urba
 playa del Arenosillo, la playa del Asperillo o la playa de la Estrella, con sus dunas en 
 movimiento. 
 
-![playa del asperillo, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-7-900x596.jpg "Playa del Asperillo (Huelva).")
+![playa del asperillo, playas huelva](https://fotos.etheriamagazine.com/2020/06/Huelva-playas-7.jpg "Playa del Asperillo (Huelva).")
 
 ## Visitar la ciudad de Huelva
 

@@ -37,7 +37,7 @@ acertijos) y unas vistas magníficas de la ciudad desde su esfera superior.
 
 ![Atomium de Bruselas.](https://fotos.etheriamagazine.com/2022/11/Flandes-Atomium-Bruselas.jpg "Atomium de Bruselas. © alexandrelaurent.com/Gaëtan")
 
-? Dirección: Place de l'Atomium 1, Bruselas. 
+📌 Dirección: Place de l'Atomium 1, Bruselas. 
 
 ### Centro Belga del Cómic
 
@@ -53,7 +53,7 @@ auténticas joyas.
 
 ![Salas del museo del Cómic de Bruselas](https://fotos.etheriamagazine.com/2022/11/Bruselas-museo-comic.jpg "Museo del Cómic. © Visit Brussels/Jean-Paul Remy.")
 
-? Dirección: 20 rue des Sables, Bruselas. 
+📌 Dirección: 20 rue des Sables, Bruselas. 
 
 ## Gante
 
@@ -71,7 +71,7 @@ para hacer con ellos.
 
 ![niño en el museo STAM de Gante en Flandes](https://fotos.etheriamagazine.com/2022/11/Flandes-STAM.jpg "Museo STAM de Gante.")
 
-? Dirección: Bijlokesite, Godshuizenlaan, 2. 
+📌 Dirección: Bijlokesite, Godshuizenlaan, 2. 
 
 ### GUM
 
@@ -84,7 +84,7 @@ para visitar con adolescentes.
 
 ![actividades para familias en el GUM de Gante](https://fotos.etheriamagazine.com/2022/11/Flandes-GUM.jpg "Familia en el GUM de Gante. © Martin Corlazzoli.")
 
-? Dirección: Ledeganckstraat 35, Gante. 
+📌 Dirección: Ledeganckstraat 35, Gante. 
 
 ## Brujas
 
@@ -99,7 +99,7 @@ supuesto, el gusto, probando algunos productos elaborados por el museo.
 
 ![Huevo y conejo de pascua de chocolate en Brujas](https://fotos.etheriamagazine.com/2022/11/Flandes-museo-chocolate.jpg "Sala del Museo de Chocolate © Choco Factory.")
 
-? Dirección: Wijnzakstraat, 2 (Sint-Jansplein), Brujas. 
+📌 Dirección: Wijnzakstraat, 2 (Sint-Jansplein), Brujas. 
 
 ### Sound Factory
 
@@ -113,7 +113,7 @@ sonoros. ¡Y no te pierdas las vistas! Son increíbles.
 
 ![Familia en la actividad interactiva Sound Factory en Brujas Flandes](https://fotos.etheriamagazine.com/2022/11/Flandes-sound-factory.jpg "Saund Factory en Brujas. © Jan D'Hondt")
 
-? Dirección: 't Zand 34, Brujas. 
+📌 Dirección: 't Zand 34, Brujas. 
 
 ## Amberes
 
@@ -130,7 +130,7 @@ que ofrece de la ciudad desde su décima planta.
 
 ![Edificio del MAS de Amberes.](https://fotos.etheriamagazine.com/2022/11/Flandes-Museo-Mam-Amberes.jpg "Edificio del MAS de Amberes.")
 
-? Dirección: Hanzestedenplaats, 1. Amberes. 
+📌 Dirección: Hanzestedenplaats, 1. Amberes. 
 
 ### Plopsa Station
 
@@ -142,7 +142,7 @@ encontrarás también restaurantes y tiendas para pasar un rato de lo más compl
 
 ![Salas de juegos en el Plopsa de Amberes Flandes](https://fotos.etheriamagazine.com/2022/11/Flandes-Comic-Station-Amberes.jpg "Interior de © Plopsa Comic Station en Amberes.")
 
-? Dirección: Estación Plopsa Amberes, Mediaplein, Amberes. 
+📌 Dirección: Estación Plopsa Amberes, Mediaplein, Amberes. 
 
 ## Malinas
 
@@ -158,7 +158,7 @@ rodar una bicicleta sobre un cable.
 
 ![Experimento con sonido en Technopolis en Flandes](https://fotos.etheriamagazine.com/2022/11/Flandes-Technopolis-Malinas.jpg "Actividad en Technopolis en Malinas.")
 
-? Dirección: Technologielaan en Mechelenechnologielaan, Malinas. 
+📌 Dirección: Technologielaan en Mechelenechnologielaan, Malinas. 
 
 ## Tongeren
 
@@ -174,11 +174,11 @@ extenso distrito romano y cómo se vivía en ella. Es muy recomendable utilizar 
 
 ![actores en Museo Gallo-Romano de Tongeren](https://fotos.etheriamagazine.com/2022/11/Flandes-museo-galo-romano.jpg "Teatralización en el Museo Gallo-Romano. © Toerisme Tongeren")
 
-? Dirección: Kielenstraat 15, Tongeren. 
+📌 Dirección: Kielenstraat 15, Tongeren. 
 
 Fotografías cedidas por Turismo de Flandes. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [8 planes que no puedes perderte en Bruselas y 
 Flandes](https://etheriamagazine.com/2021/03/12/que-ver-hacer-otros-planes-en-bruselas-y-flandes/) 

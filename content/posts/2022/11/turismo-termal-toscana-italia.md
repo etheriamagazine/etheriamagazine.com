@@ -74,7 +74,7 @@ temperaturas oscilan entre los 28 y los 34°C. Incluso los vapores que se inhala
 lugar son beneficiosos y terapéuticos para el organismo. En este espléndido balneario 
 termal, la salud y el bienestar van de la mano. 
 
-? Más información en [www.grottagiustispa.com](http://www.grottagiustispa.com) 
+📍 Más información en [www.grottagiustispa.com](http://www.grottagiustispa.com) 
 
 ![Termas Grotta Giusti en Monsummano](https://fotos.etheriamagazine.com/2022/10/toscana-Monsummano.jpg "Termas Grotta Giusti en Monsummano. © Archivo Toscana Promozione Turistica by Nicola Santini")
 
@@ -95,7 +95,7 @@ ciudad de Pisa con su famosa torre inclinada. En Bagni di Pisa nada resulta coti
 cada detalle es simplemente extraordinario. Es comprensible que sea miembro de The 
 Leading Hotels of The World y de Traveller Made. 
 
-? Más información en [www.bagnidipisa.com](http://www.bagnidipisa.com) 
+📍 Más información en [www.bagnidipisa.com](http://www.bagnidipisa.com) 
 
 ![Bagni di Pisa.](https://fotos.etheriamagazine.com/2022/10/toscana-Bagni-di-Pisa.jpg "Bagni di Pisa. © Archivo Toscana Promozione Turistica by Nicola Santini")
 
@@ -118,7 +118,7 @@ inhalatorios y de balneoterapia, además de otros de bienestar y belleza. En la 
 spa, encontrarás una extensa variedad de terapias naturales y el mejor tratamiento para 
 una completa puesta a punto. 
 
-? Más información en [www.termediventurina.it](http://www.termediventurina.it) 
+📍 Más información en [www.termediventurina.it](http://www.termediventurina.it) 
 
 ### Termas de Sassetta, un baño de bosque real
 
@@ -142,7 +142,7 @@ kilómetro cero y sus propuestas de tratamientos holísticos. La armonía de los
 y su aplicación terapéutica proporcionan profundos beneficios para la salud del cuerpo y 
 la mente. 
 
-? Más información en [www.lacerretaterme.it](http://www.lacerretaterme.it) 
+📍 Más información en [www.lacerretaterme.it](http://www.lacerretaterme.it) 
 
 ![Terme di Sassetta, en La Cerreta.](https://fotos.etheriamagazine.com/2022/10/toscana-La-Cerreta.jpg "Terme di Sassetta, en La Cerreta. © Archivo Toscana Promozione Turistica by Nicola Santini")
 
@@ -163,7 +163,7 @@ en el spa. Tampoco hay que buscar alojamiento o restaurante donde comer porque o
 habitaciones alrededor de la fuente termal y una cocina elaborada con productos frescos 
 de temporada. 
 
-? Más información en [www.termedisorano.it](http://www.termedisorano.it) 
+📍 Más información en [www.termedisorano.it](http://www.termedisorano.it) 
 
 ![Termas de Sorano turismo termal en la toscana](https://fotos.etheriamagazine.com/2022/10/toscana-termas-Sorano.jpg "Termas de Sorano. © Archivo Toscana Promozione Turistica by Nicola Santini")
 
@@ -193,7 +193,7 @@ demasiado para gozar de sus mimadas recetas. Y si te gusta jugar al golf, dispon
 campo de 18 hoyos. Sin duda, un verdadero refugio donde rezuma la elegancia y la 
 exclusividad. 
 
-? Más información en [www.termedisaturnia.it](http://www.termedisaturnia.it) 
+📍 Más información en [www.termedisaturnia.it](http://www.termedisaturnia.it) 
 
 **Más información en:** 
 

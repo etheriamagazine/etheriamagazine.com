@@ -20,7 +20,7 @@ de Castilla-La Mancha que son una maravilla. Esta comunidad autónoma merece, si
 la pena tanto por su historia como por sus parajes naturales. Echa un vistazo a nuestra 
 lista, seguro que te surge alguna idea para tu próxima escapada. 
 
-![Sigüenza.](https://fotos.etheriamagazine.com/2023/11/siguenza-castilla-la-mancha-850x567.jpg "Sigüenza.")
+![Sigüenza.](https://fotos.etheriamagazine.com/2023/11/siguenza-castilla-la-mancha.jpg "Sigüenza.")
 
 Las listas de "pueblos bonitos" sirven sobre todo para poner la miel en los labios con 
 la promesa de futuras escapadas, de esas que siempre apetecen para romper la rutina del 
@@ -189,7 +189,7 @@ de las visitas que no puedes perderte.
 
 ![Alcalá del Júcar.](https://fotos.etheriamagazine.com/2023/11/alcala-del-jucar-castilla-la-mancha.jpg "Alcalá del Júcar.")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 pueblos bonitos de Galicia que no puedes 
 perderte](https://etheriamagazine.com/2023/09/22/pueblos-bonitos-galicia/) 

@@ -112,7 +112,7 @@ encuentras un plan divertido que también puedes disfrutar este 2024.
 ✅ [Qué hacer con amigas en Madrid este otoño e 
 invierno](https://etheriamagazine.com/2023/09/07/que-hacer-con-amigas-madrid-otono/) 
 
-![Terraza de Casa Suecia, en Madrid](https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia-850x584.jpg "Terraza de Casa Suecia, en Madrid. © Etheria Magazine")
+![Terraza de Casa Suecia, en Madrid](https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia.jpg "Terraza de Casa Suecia, en Madrid. © Etheria Magazine")
 
 ## 10 excursiones desde Conil de la Frontera
 

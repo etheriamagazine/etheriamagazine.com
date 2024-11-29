@@ -5,8 +5,6 @@ coverImage: https://fotos.etheriamagazine.com/2024/06/gran-canaria-Playa-Las-Can
 categories: 
   - viaje-en-familia
   - viajes-para-mujeres
-destinations:
-  - Isla Mauricio
 authors: 
   - Redacción Etheria
 ---
@@ -16,7 +14,7 @@ para disfrutar de unas vacaciones en familia. Su reducido tamaño, su amplia ofe
 cultural y su ambiente tranquilo la convierten en el campamento base perfecto para 
 descubrir la ciudad y el resto de la isla en familia. 
 
-![Playa de Las Canteras con niños bañándose al atardecer.](https://fotos.etheriamagazine.com/2024/06/gran-canaria-Playa-Las-Canteras-850x566.jpg "Playa de Las Canteras al atardecer. © Nacho González/ LPAvisit")
+![Playa de Las Canteras con niños bañándose al atardecer.](https://fotos.etheriamagazine.com/2024/06/gran-canaria-Playa-Las-Canteras.jpg "Playa de Las Canteras al atardecer. © Nacho González/ LPAvisit")
 
 Viajar a Gran Canaria con niños es una decisión que solo puede traeros alegrías, gracias 
 al tamaño de la isla, la diversidad de paisajes y la variedad de actividades 
@@ -26,7 +24,7 @@ todo un universo por descubrir. Si es vuestro primer viaje a la isla o la primer
 Las Palmas de Gran Canaria con niños, este pequeño listado de seis opciones os será muy 
 útil. 
 
-![Panorámica de Las Palmas de Gran Canaria.](https://fotos.etheriamagazine.com/2024/06/las-palmas-gran-canaria-850x566.jpg "Vista de Las Palmas de Gran Canaria. © Nacho González")
+![Panorámica de Las Palmas de Gran Canaria.](https://fotos.etheriamagazine.com/2024/06/las-palmas-gran-canaria.jpg "Vista de Las Palmas de Gran Canaria. © Nacho González")
 
 ## Museo Elder de la Ciencia y la Tecnología
 
@@ -39,7 +37,7 @@ formato y otra para conferencias. Ubicado en el muelle de Santa Catalina, en un 
 de la antigua naviera británica Elder Dempster Lines Ltd., el museo abarca diversas 
 disciplinas como Matemáticas, Física, Biología, Informática, Ingeniería y Arte. 
 
-![Panorámica de la playa de Las Canteras.](https://fotos.etheriamagazine.com/2024/06/gran-canaria-Las-Canteras-850x566.jpg "Panorámica de la playa de Las Canteras. © Nacho González")
+![Panorámica de la playa de Las Canteras.](https://fotos.etheriamagazine.com/2024/06/gran-canaria-Las-Canteras.jpg "Panorámica de la playa de Las Canteras. © Nacho González")
 
 ## Playa de Las Canteras
 
@@ -64,7 +62,7 @@ pararán de preguntar sobre las momias y esqueletos de los aborígenes. Comproba
 de vuestro viaje, ya que un domingo al mes se organizan visitas temáticas familiares, 
 teatralizadas, con talleres, cuentacuentos y juegos de pistas. 
 
-![Ruta infantil "¡Nos atacan los piratas".](https://fotos.etheriamagazine.com/2024/06/ninos-piratas-gran-canaria-850x888.jpg "Ruta infantil "¡Nos atacan los piratas".")
+![Ruta infantil "¡Nos atacan los piratas".](https://fotos.etheriamagazine.com/2024/06/ninos-piratas-gran-canaria.jpg "Ruta infantil "¡Nos atacan los piratas".")
 
 ## Jardín Canario
 
@@ -76,7 +74,7 @@ Verde). En este frondoso espacio verde, que alberga una impresionante colección
 plantas endémicas de Canarias y otras especies exóticas del planeta, los niños 
 aprenderán sobre la flora y la fauna mientras disfrutan de un agradable paseo. 
 
-![Casa de Colón, en Vegueta.](https://fotos.etheriamagazine.com/2024/06/Casa-Colon-gran-canaria-850x566.jpg "Casa de Colón, en Vegueta. © Nacho González/ LPAvisit")
+![Casa de Colón, en Vegueta.](https://fotos.etheriamagazine.com/2024/06/Casa-Colon-gran-canaria.jpg "Casa de Colón, en Vegueta. © Nacho González/ LPAvisit")
 
 ## La Casa de Colón
 
@@ -89,7 +87,7 @@ antes de seguir hasta América. Aunque los más pequeños quizás no comprendan 
 lecciones de historia, disfrutarán observando las réplicas de las embarcaciones de Colón 
 y participando en actividades interactivas diseñadas para ellos. 
 
-![Vegueta desde el Teatro Pérez Galdós.](https://fotos.etheriamagazine.com/2024/06/Vegueta-palmas-gran-canaria-850x566.jpg "Vegueta desde el Teatro Pérez Galdós. © Nacho González")
+![Vegueta desde el Teatro Pérez Galdós.](https://fotos.etheriamagazine.com/2024/06/Vegueta-palmas-gran-canaria.jpg "Vegueta desde el Teatro Pérez Galdós. © Nacho González")
 
 ## Clases de surf en Las Palmas de Gran Canaria
 

@@ -152,7 +152,7 @@ Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-bur
 
 ![ojo guarena, ruta merindades, viaje burgos](https://fotos.etheriamagazine.com/2019/05/ruta-merindades-ojo-guarena.jpg "Ojo Guareña es uno de los complejos kársticos más grandes del mundo. © KR")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [9 viajes en coche para recorrer 
 Europa](https://etheriamagazine.com/2020/03/23/road-trips-por-europa-verano-viajes-en-coche/) 

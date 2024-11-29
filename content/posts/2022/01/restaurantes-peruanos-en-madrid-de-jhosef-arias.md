@@ -92,7 +92,7 @@ incluso regalar un bono en algún momento especial.
 
 Dónde: Carrera de San Francisco, 15. Madrid 
 
-![taller cocina peruana con jhosef arias madrid](https://fotos.etheriamagazine.com/2022/01/jhosef-arias-taller-cocina-792x1024.jpg "Jhosef Arias en un taller de cocina de Boldkitchen. © Pepa García")
+![taller cocina peruana con jhosef arias madrid](https://fotos.etheriamagazine.com/2022/01/jhosef-arias-taller-cocina.jpg "Jhosef Arias en un taller de cocina de Boldkitchen. © Pepa García")
 
 ### Boldkitchen, una experiencia peruana en Madrid
 

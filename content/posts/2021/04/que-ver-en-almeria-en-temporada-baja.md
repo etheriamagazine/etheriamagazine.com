@@ -42,7 +42,7 @@ tarde en el puerto, a esta hora ya habrás comido en algún restaurante cercano.
 interesante asistir por dos motivos: por su ambiente, amable y accesible, y por la 
 cantidad de pescado fresco que pasa por allí en un momento. 
 
-![Subasta de pescado en La Garrucha.](https://fotos.etheriamagazine.com/2018/11/Almeria-subasta-Garrucha-1024x682.jpg "Subasta de pescado en La Garrucha. © SG")
+![Subasta de pescado en La Garrucha.](https://fotos.etheriamagazine.com/2018/11/Almeria-subasta-Garrucha.jpg "Subasta de pescado en La Garrucha. © SG")
 
 Puedes acercarte antes de la subasta a las cajas para ver los diversos tipos que 
 ofertan, hablar con los pescadores y los compradores (sobre todo, restaurantes) y 
@@ -61,7 +61,7 @@ recorría el desierto de Tabernas hasta todo tipo de producciones publicitarias.
 espacio natural merece una visita, que tiene que ser organizada porque no se puede 
 recorrer por tu cuenta. 
 
-![Ruta en 4x4 en el desierto de Tabernas.](https://fotos.etheriamagazine.com/2018/11/Almeria-ruta-desierto-tabernas-1024x682.jpg "Ruta en 4x4 en el desierto de Tabernas. © SG")
+![Ruta en 4x4 en el desierto de Tabernas.](https://fotos.etheriamagazine.com/2018/11/Almeria-ruta-desierto-tabernas.jpg "Ruta en 4x4 en el desierto de Tabernas. © SG")
 
 La mejor opción es contratar una excursión con una empresa local como **Malcamino’s**, 
 que te llevará en sus 4x4 y te contarán, además de la singularidad geológica de esta 
@@ -76,7 +76,7 @@ rodó en esta zona (y que todavía se siguen utilizando para rodajes). Es un sit
 divertido, con espectáculos de can-can, _shows_ de pistoleros y decenas de lugares donde 
 hacerse una foto. 
 
-![Escenarios de películas de Fort Bravo.](https://fotos.etheriamagazine.com/2018/11/Almeria-fort-bravo-1024x576.jpg "Escenarios de películas de Fort Bravo.")
+![Escenarios de películas de Fort Bravo.](https://fotos.etheriamagazine.com/2018/11/Almeria-fort-bravo.jpg "Escenarios de películas de Fort Bravo.")
 
 Si decides comer por la zona, una buena opción es el **restaurante Las Eras**, que 
 combina platos tradicionales de la zona con apuestas más vanguardistas. 
@@ -155,7 +155,7 @@ o el parque de Nicolás Salmerón. Fuera del centro, es imprescindible acercarse
 **Alcazaba** que mandó construir Abd-al Rahman III y que, después de La Alhambra, es la 
 construcción musulmana más grande de España. 
 
-![Alcazaba de Almería.](https://fotos.etheriamagazine.com/2018/11/Almeria-alcazaba-1024x627.jpg "Alcazaba de Almería.")
+![Alcazaba de Almería.](https://fotos.etheriamagazine.com/2018/11/Almeria-alcazaba.jpg "Alcazaba de Almería.")
 
 Una curiosa visita que muestra detalles de una historia no tan lejana es a los 
 **refugios de la Guerra Civil**, que se construyeron en 1938 para que la población 

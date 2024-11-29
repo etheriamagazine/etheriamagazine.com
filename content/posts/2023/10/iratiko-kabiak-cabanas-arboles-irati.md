@@ -122,7 +122,7 @@ de dormir en una cabaña en un árbol que ofrece las mismas comodidades que un h
 Cómo llegar al complejo: [Google 
 Maps](https://www.google.com/maps/dir/Iratiko+Kabiak,+989669,+-1.223924,+Carr.+del+Irati,+42,+31670+Orbaiceta,+Navarra/@42.988689,-1.2261463,761m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0xd50cda4e623529f:0xdb87c5dd0ea99092!2m2!1d-1.2239455!2d42.9896886?entry=ttu). 
 
-? **También te puede interesar...** 
+📌 **También te puede interesar...** 
 
 [Descubre a qué sabe Navarra a través de estas rutas 
 gastronómicas](https://etheriamagazine.com/2023/05/08/rutas-gastronomia-navarra/). 

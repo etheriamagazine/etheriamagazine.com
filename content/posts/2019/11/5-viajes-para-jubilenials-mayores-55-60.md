@@ -11,7 +11,7 @@ authors:
 Si tienes tiempo libre, estás en plena forma, te gusta conocer otros lugares y puedes 
 hacerlo... sigue leyendo porque te damos cinco ideas para jubilados con ganas de viajar. 
 
-![viajes mayores de 55](https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas-900x600.jpg "© Priscilla Du Preez")
+![viajes mayores de 55](https://fotos.etheriamagazine.com/2019/11/chicas-viaje-risas.jpg "© Priscilla Du Preez")
 
 Si ya te has jubilado o tienes tiempo para viajar aunque sigas trabajando, felicidades, 
 ha llegado el momento de que te diviertas. El nuevo término "jubilenials" hace 
@@ -28,11 +28,11 @@ que os podrán ayudar a organizarlos).
 Estos destinos no son nada arriesgados, no son caros y hay una oferta enorme en cuanto a 
 billetes de avión, hoteles y agencias de viajes. 
 
-? No te pierdas los viajes de Sania Jelic: [Viajar sola por el mundo tras la jubilación, 
-el nuevo plan de vida de Sania 
+📌 No te pierdas los viajes de Sania Jelic: [Viajar sola por el mundo tras la 
+jubilación, el nuevo plan de vida de Sania 
 Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/). 
 
-![cadiz, viajes mas de 60 anos en espana](https://fotos.etheriamagazine.com/2019/11/cadiz-viaje-mas-60-900x587.jpg "Playa de la Caleta (Cádiz). © Jorge Fernández Salas/ Unsplash")
+![cadiz, viajes mas de 60 anos en espana](https://fotos.etheriamagazine.com/2019/11/cadiz-viaje-mas-60.jpg "Playa de la Caleta (Cádiz). © Jorge Fernández Salas/ Unsplash")
 
 ## 1\. Un paseo por Cádiz
 
@@ -52,7 +52,7 @@ casi a cualquier lugar. Si sólo vas a quedarte un fin de semana, alójate en el
 muévete andando. El [Parador de Cádiz](https://paradores.es/es/parador-de-cadiz), por 
 ejemplo, es una buena opción porque tiene descuentos para mayores de 55. 
 
-![florencia, viajes mas de 55 anos](https://fotos.etheriamagazine.com/2019/11/florencia-viajes-mas-55-683x1024.jpg "Florencia. © Alex Azabache on Unsplash")
+![florencia, viajes mas de 55 anos](https://fotos.etheriamagazine.com/2019/11/florencia-viajes-mas-55.jpg "Florencia. © Alex Azabache on Unsplash")
 
 ## 2\. Florencia artística
 
@@ -67,7 +67,7 @@ vez](http://etheriamagazine.com/2018/09/21/15-ideas-para-disfrutar-de-florencia-
 Si buscas algo organizado, Viajes El Corte Ingles suele tener opciones para mayores de 
 60 años y viajes para jubilados. 
 
-![viajes marruecos mayores 60](https://fotos.etheriamagazine.com/2019/11/marrakech-viajes-mayores-55-900x627.jpg "Jardín Majorelle, en Marrakech. © Zoltan Tasi/ Unsplash")
+![viajes marruecos mayores 60](https://fotos.etheriamagazine.com/2019/11/marrakech-viajes-mayores-55.jpg "Jardín Majorelle, en Marrakech. © Zoltan Tasi/ Unsplash")
 
 ## 3\. Marrakech
 
@@ -89,7 +89,7 @@ amigas](http://etheriamagazine.com/2018/12/27/viaje-de-amigas-a-marrakech/).
 
 Encontrarás diversos combinados de Marruecos en Transrutas para mayores de 55 años. 
 
-![viaje tailandia mas de 60 anos](https://fotos.etheriamagazine.com/2019/11/tailandia-Chiang-Mai-Wat-Chedi-Luang-900x574.jpg "Templo Wat Chedi Luang, en Chiang Mai. © P.G.")
+![viaje tailandia mas de 60 anos](https://fotos.etheriamagazine.com/2019/11/tailandia-Chiang-Mai-Wat-Chedi-Luang.jpg "Templo Wat Chedi Luang, en Chiang Mai. © P.G.")
 
 ## 4\. A Tailandia sin prisas
 
@@ -105,7 +105,7 @@ amigas](http://etheriamagazine.com/2019/06/26/que-ver-en-phuket-tailandia-sola-o
 o con quien quieras y [Viaje a Bangkok en clave 
 ‘foodie’](http://etheriamagazine.com/2019/10/23/viaje-con-amigas-tailandia-donde-comer-bangkok/). 
 
-![Puente de Manhattan, viajes mayores de 60 a nueva york](https://fotos.etheriamagazine.com/2019/11/viaje-nueva-york-mayores-55-900x628.jpg "Puente de Manhattan (Nueva York). © Pedro Lastra / Unsplash")
+![Puente de Manhattan, viajes mayores de 60 a nueva york](https://fotos.etheriamagazine.com/2019/11/viaje-nueva-york-mayores-55.jpg "Puente de Manhattan (Nueva York). © Pedro Lastra / Unsplash")
 
 ## 5\. Nueva York, ¿por qué no?
 

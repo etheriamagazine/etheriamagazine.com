@@ -39,7 +39,7 @@ recorridos descienden hasta la **Colegiata de Santa Juliana**. Es el edificio m�
 importante, cuya iglesia románica y su delicioso claustro merecen una visita. No dejes 
 de detenerte en su interior para admirar los ornamentados relieves de sus capiteles. 
 
-![Capitel del claustro de la Colegiata de Santa Juliana (Santillana del Mar).](https://fotos.etheriamagazine.com/2018/07/Santillana-del-mar-colegiata-768x1024.jpg "Capitel del claustro de la Colegiata de Santa Juliana (Santillana del Mar). © SG")
+![Capitel del claustro de la Colegiata de Santa Juliana (Santillana del Mar).](https://fotos.etheriamagazine.com/2018/07/Santillana-del-mar-colegiata.jpg "Capitel del claustro de la Colegiata de Santa Juliana (Santillana del Mar). © SG")
 
 ### 2\. Cuevas de Altamira
 
@@ -66,7 +66,7 @@ sobrecoger y emocionar**. Merece la pena detenerse en el Museo para ver un víde
 que se explica cómo se llevó a cabo la construcción de esta Neocueva; un hito casi tan 
 sorprendente como la cueva misma. 
 
-![Bisontes de la Neocueva de Altamira (Cantabria).](https://fotos.etheriamagazine.com/2018/07/altamira-bisontes-1024x683.jpg "Bisontes de la Neocueva de Altamira (Cantabria).")
+![Bisontes de la Neocueva de Altamira (Cantabria).](https://fotos.etheriamagazine.com/2018/07/altamira-bisontes.jpg "Bisontes de la Neocueva de Altamira (Cantabria).")
 
 ### 3\. Suances, día de playa
 
@@ -80,7 +80,7 @@ en algún restaurante del paseo marítimo, como **El Marinero**
 (restauranteelmarinero.com). Aquí es aconsejable degustar pescado y, concretamente, la 
 especialidad local: las rabas de calamar. 
 
-![Playa de Suances (Cantabria).](https://fotos.etheriamagazine.com/2018/07/Suances-1024x683.jpg "Playa de Suances (Cantabria).")
+![Playa de Suances (Cantabria).](https://fotos.etheriamagazine.com/2018/07/Suances.jpg "Playa de Suances (Cantabria).")
 
 ### 4\. Laberinto de Villa Presente
 
@@ -90,7 +90,7 @@ por la tarde) es el laberinto de Villa Presente (reserva previamente en la web).
 tardar más de una hora en salir**. Es una buena manera de pasar un buen rato con los 
 niños a los que les encanta esta aventura. Más info en www.laberintodevillapresente.es 
 
-![Laberinto de Villapresente.](https://fotos.etheriamagazine.com/2020/06/laberinto-villapresente-cantabria-900x685.jpg "© Laberinto de Villapresente.")
+![Laberinto de Villapresente.](https://fotos.etheriamagazine.com/2020/06/laberinto-villapresente-cantabria.jpg "© Laberinto de Villapresente.")
 
 ### 5\. San Vicente de la Barquera
 
@@ -102,7 +102,7 @@ Oyambte, los arenales de Merón y la ría de San Vicente. Aunque una de sus imá
 icónicas es la del **Puente de la Maza**, que con sus 32 ojos era uno de los más largos 
 de España cuando se construyó en el siglo XV. 
 
-![San Vicente de la Barquera (Cantabria).](https://fotos.etheriamagazine.com/2018/07/san-vicente-de-la-barquera-1024x683.jpg "San Vicente de la Barquera (Cantabria).")
+![San Vicente de la Barquera (Cantabria).](https://fotos.etheriamagazine.com/2018/07/san-vicente-de-la-barquera.jpg "San Vicente de la Barquera (Cantabria).")
 
 ### 6\. Parque de Cabárceno con niños
 
@@ -112,7 +112,7 @@ encuentran en un régimen de semilibertad, por lo que es imprescindible ir con c
 moverse por los más de 20 kilómetros de carreteras que recorren el parque. De esta 
 manera no solo se disfruta de los animales sino también de los maravillosos paisajes. 
 
-![Dando de comer a los elefantes en la Visita Salvaje de Cabárceno (Cantabria).](https://fotos.etheriamagazine.com/2018/07/cabarceno-elefantes-1024x988.jpg "Dando de comer a los elefantes en la Visita Salvaje de Cabárceno (Cantabria). © SG")
+![Dando de comer a los elefantes en la Visita Salvaje de Cabárceno (Cantabria).](https://fotos.etheriamagazine.com/2018/07/cabarceno-elefantes.jpg "Dando de comer a los elefantes en la Visita Salvaje de Cabárceno (Cantabria). © SG")
 
 Una opción interesante (y no precisamente barata) si se viaja a Cantabria en familia es 
 realizar la **Visita Salvaje**, en la que un guía del parque te lleva en su jeep para 
@@ -135,7 +135,7 @@ sonidos transportan durante una hora a un lugar mágico. El entorno es, como cas
 cualquier paisaje cántabro, de cine y la cueva cuenta con algunos servicios como 
 cafetería, consigna o tienda de recuerdos para hacer más cómoda la visita. 
 
-![Vista desde el coche dentro del recinto de los osos en la Visita Salvaje de Cabárceno](https://fotos.etheriamagazine.com/2018/07/cabarceno-osos-1024x683.jpg "Vista desde el coche dentro del recinto de los osos en la Visita Salvaje de Cabárceno. © SG")
+![Vista desde el coche dentro del recinto de los osos en la Visita Salvaje de Cabárceno](https://fotos.etheriamagazine.com/2018/07/cabarceno-osos.jpg "Vista desde el coche dentro del recinto de los osos en la Visita Salvaje de Cabárceno. © SG")
 
 ### Consejos necesarios para viajar a Cantabria con niños
 

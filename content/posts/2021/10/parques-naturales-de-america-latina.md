@@ -38,7 +38,7 @@ singular y único oasis en medio de este desierto de sal.
 
 ![Salar de Uyuni.](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-Salar-Uyuni.jpg "Salar de Uyuni, en Bolivia.")
 
-? Civitatis te propone una [excursión al Salar de 
+📌 Civitatis te propone una [excursión al Salar de 
 Uyuni](https://www.civitatis.com/es/uyuni/excursion-salar-uyuni/?aid=10211). 
 
 ## Perito Moreno (Argentina)
@@ -59,7 +59,8 @@ que en ocasiones se acompañan de pequeños desprendimientos. Y, la tercera, rea
 pequeño trekking sobre el hielo, la mejor forma de descubrir un paisaje que puede 
 engañarnos y parecer uniforme cuando está lleno de detalles. 
 
-? Puedes visitar este glaciar con Civitatis con el [paseo en barco por el glaciar Perito 
+📌 Puedes visitar este glaciar con Civitatis con el [paseo en barco por el glaciar 
+Perito 
 Moreno](https://www.civitatis.com/es/el-calafate/barco-glaciar-perito-moreno/?aid=10211) 
 o haciendo [senderismo por el glaciar Perito 
 Moreno](https://www.civitatis.com/es/el-calafate/senderismo-glaciar-perito-moreno/?aid=10211). 
@@ -78,7 +79,7 @@ Santarém o Monte Alegro. ¿Te atreves a pescar pirañas?
 
 ![Río Amazonas.](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-Amazonas.jpg "Río Amazonas. © Isaac Quesada")
 
-? Con Civitatis puedes realizar una [ruta de 5 días por el Amazonas desde Manaos hasta 
+📌 Con Civitatis puedes realizar una [ruta de 5 días por el Amazonas desde Manaos hasta 
 Belém](https://www.civitatis.com/es/manaos/crucero-5-dias-rio-amazonas/?aid=10211) o un [tour 
 por el río Amazonas](https://www.civitatis.com/es/manaos/tour-rio-amazonas/?aid=10211). 
 
@@ -112,7 +113,7 @@ al menos 24 horas antes de la llegada.
 
 ![Torres del Paine.](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-torres-del-paine.jpg "Torres del Paine. © Snowscat")
 
-? Civitatis te propone un [trekking por Torres del 
+📌 Civitatis te propone un [trekking por Torres del 
 Paine](https://www.civitatis.com/es/puerto-natales/trekking-torres-paine/?aid=10211) o 
 una [excursión al Parque Nacional Torres del 
 Paine](https://www.civitatis.com/es/punta-arenas/excursion-parque-torres-paine/?aid=10211). 
@@ -130,7 +131,7 @@ síntomas, aunque la altura no afecta a todas las personas.
 
 ![Valle del Colca.](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-valle-colca.jpg "Valle del Colca. © Jean Vella")
 
-? Civitatis cuenta con distintas excursiones como un [tour de dos días al valle del 
+📌 Civitatis cuenta con distintas excursiones como un [tour de dos días al valle del 
 Colca y a la Cruz del 
 Cóndor](https://www.civitatis.com/es/arequipa/tour-2-dias-valle-colca-cruz-condor/?aid=10211), 
 un [trekking de 2 o 3 días por el valle del 
@@ -152,7 +153,7 @@ Cañaveral, uno de los mejores alojamientos del parque.
 
 ![Parque de Tayrona.](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-tayrona.jpg "Parque de Tayrona.")
 
-? Con Civitatis puedes realizar una [excursión al Parque 
+📌 Con Civitatis puedes realizar una [excursión al Parque 
 Tayrona](https://www.civitatis.com/es/santa-marta/excursion-parque-tayrona/?aid=10211) 
 desde Santa Marta. 
 
@@ -170,7 +171,7 @@ ofreciendo paisajes de infarto.
 
 ![Cañón del Sumidero](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-canon-sumidero.jpg "Cañón del Sumidero. © Gabriel Tovar")
 
-? Civitatis te propone una [excursión al Cañón del 
+📌 Civitatis te propone una [excursión al Cañón del 
 Sumidero](https://www.civitatis.com/es/san-cristobal-casas/excursion-canon-sumidero/?aid=10211) 
 o una [visita a los miradores del cañón del Sumidero, Zoomat y Cristo de 
 Chiapas](https://www.civitatis.com/es/tuxtla-gutierrez/canon-sumidero-zoomat-cristo-chiapas/?aid=10211). 
@@ -194,8 +195,8 @@ paseo en helicóptero para ver toda la extensión y forma de las cataratas es un
 experiencia única. Para terminar, nada como ir a los miradores del lado brasileño, que 
 dan una perspectiva más amplia de esta impresionante caída de agua. 
 
-? Con Civitatis puedes realizar un paseo en helicóptero por las cataratas de Iguazú, una [excursión 
-a las cataratas de 
+📌 Con Civitatis puedes realizar un paseo en helicóptero por las cataratas de Iguazú, 
+una [excursión a las cataratas de 
 Iguazú](https://www.civitatis.com/es/puerto-iguazu/tour-cataratas-iguazu-brasil//?aid=10211) 
 y un [tour al lado brasileño de las 
 cataratas](https://www.civitatis.com/es/puerto-iguazu/tour-cataratas-iguazu-brasil//?aid=10211) 
@@ -213,7 +214,7 @@ precioso lugar que permite además acercarse a la cultura guatemalteca más trad
 
 ![Lago Atitlán.](https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-lago-atitlan.jpg "Lago Atitlán. © Alexander Schimmeck")
 
-? Civitatis propone un [tour de 2 días por Chichicastenango y el lago 
+📌 Civitatis propone un [tour de 2 días por Chichicastenango y el lago 
 Atitlán](https://www.civitatis.com/es/ciudad-de-guatemala/tour-2-dias-lago-atitlan-chichicastenango/?aid=10211). 
 
 ✅ **También te puede interesar**: 

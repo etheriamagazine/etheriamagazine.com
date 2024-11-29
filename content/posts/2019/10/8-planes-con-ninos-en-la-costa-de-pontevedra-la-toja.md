@@ -1,5 +1,5 @@
 ---
-title: "8 planes con niños en la costa de Pontevedra"
+title: "La costa de Pontevedra con niños, ocho planes para el verano"
 date: 2019-10-01
 coverImage: https://fotos.etheriamagazine.com/2019/09/Pontevedra-mirador-a-granxa.jpg
 categories: 
@@ -17,7 +17,9 @@ Pontevedra se descubre como un lugar perfecto para viajar con niños: pueblos de
 actividades en el mar, buena gastronomía y un clima con el que siempre apetece estar 
 activo. ¿Qué más se puede pedir? 
 
-[![Vistas de la ría de Pontevedra](https://fotos.etheriamagazine.com/2019/09/Pontevedra-mirador-a-granxa-900x600.jpg "Mirador de A Granxa con vistas al pueblo de Raxó y a las bateas de mejillones de la ría de Pontevedra")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/pontevedra-mirador-a-granxa/)
+[![Vistas de la ría de Pontevedra](https://fotos.etheriamagazine.com/2019/09/Pontevedra-mirador-a-granxa.jpg "Mirador de A Granxa con vistas al pueblo de Raxó y a las bateas de mejillones de la ría de Pontevedra")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/pontevedra-mirador-a-granxa/)
+
+**Actualizado julio 2024** 
 
 Cuando viajas con niños necesitas buscar destinos que conjuguen varias facetas. Tienen 
 que ser lugares accesibles, fáciles en cuanto al transporte, donde la oferta de 
@@ -25,18 +27,9 @@ actividades para toda la familia sea variada y equilibrada, ya que es importante
 disfruten tanto los niños como los mayores. La costa de Pontevedra reúne todos estos 
 factores, además de los bonitos paisajes de las rías y una gastronomía insuperable. 
 
-## Planes con niños en la costa de Pontevedra:
+[![Niños mariscando en Cambados](https://fotos.etheriamagazine.com/2019/09/pontevedra-cambados-mariscadoras.jpg "Recogiendo almejas con las mariscadoras en la costa de Cambados")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/pontevedra-cambados-mariscadoras/)
 
-[1\. Acompañar a las mariscadoras de Cambados](#Mariscadoras-Cambados). [2\. Visitar el 
-puerto de Tragove](#Puerto-Tragove). [3\. Excursión a las islas Cíes](#Islas-Cíes). [4\. 
-Paseo por Pedras Negras en O Grove](#Pedras-Negras). [5\. Visitar el pueblo de 
-Combarro](#Combarro). [6\. Bañarse en la playa de La Lanzada](#La-Lanzada). [7\. Pasear 
-por la isla de La Toja](#La-Toja). [8\. Visitar Santiago de 
-Compostela](#Santiago-Compostela). 
-
-### 1\. Acompañar a las mariscadoras de Cambados
-
-[![Niños mariscando en Cambados](https://fotos.etheriamagazine.com/2019/09/pontevedra-cambados-mariscadoras-900x600.jpg "Recogiendo almejas con las mariscadoras en la costa de Cambados")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/pontevedra-cambados-mariscadoras/)
+## 1\. Acompañar a las mariscadoras de Cambados
 
 El bonito y siempre apetecible pueblo de **Cambados** ofrece, además de un casco 
 histórico que merece un paseo y unos bares donde probar exquisitas empanadas, una 
@@ -52,9 +45,9 @@ Las visitas las organiza [Guimatur](https://guimatur.org/es/) (Asociación Cultu
 ‘Mulleres do mar de Cambados’), formada en su mayoría por las propias mariscadoras, que 
 trabajan para difundir la cultura marinera. 
 
-### 2\. Visitar el puerto de Tragove
+[![Barco de pesca en Tragove](https://fotos.etheriamagazine.com/2019/09/pontevedra-tragove-redeiras.jpg "Redeiras reparando las redes en el puerto de Tragove.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/pontevedra-tragove-redeiras/)
 
-[![Barco de pesca en Tragove](https://fotos.etheriamagazine.com/2019/09/pontevedra-tragove-redeiras-900x600.jpg "Redeiras reparando las redes en el puerto de Tragove.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/pontevedra-tragove-redeiras/)
+## 2\. Visitar el puerto de Tragove
 
 Los puertos pesqueros siempre ofrecen una visita interesante para los más pequeños: 
 barcos de colores, redes por el suelo, gente trabajando y limpiando los barcos… 
@@ -65,9 +58,9 @@ experiencias que no tienen precio: sentaros con las _redeiras_ mientras reparan 
 redes y, además de ver cómo hacen su trabajo, escuchar sus historias. Podéis combinar 
 esta actividad con la de acompañar a las mariscadoras el mismo día. 
 
-### 3\. Excursión a las islas Cíes
+[![Islas Cíes](https://fotos.etheriamagazine.com/2019/09/islas-cies.jpg "Vista de las islas Cíes con la Praia de Rodas al fondo.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/islas-cies-2/)
 
-[![Islas Cíes](https://fotos.etheriamagazine.com/2019/09/islas-cies-900x675.jpg "Vista de las islas Cíes con la Praia de Rodas al fondo.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/islas-cies-2/)
+## 3\. Excursión a las islas Cíes
 
 Es una visita imprescindible si pasas unos días en Pontevedra. Según donde estés alojado 
 podrás elegir entre los barcos que realizan la travesía desde Vigo o coger una lancha 
@@ -83,13 +76,13 @@ bonitas del mundo.
 Si no llevas picnic (que es una excelente opción) tendrás que comer en uno de los tres 
 restaurantes que hay en Cíes y, como no reservan, lo mejor es hacerlo pronto para evitar 
 las esperas. Ten en cuenta que el número de personas que pueden visitar las islas Cíes 
-cada día es limitado y hay que obtener una [autorización](https://autorizacionillasatlanticas.xunta.gal/illasr/inicio?lang=es) 
-antes de comprar los billetes de los barcos. También necesitarás autorización si vas a 
-pasar la noche en el camping que hay en las islas. 
+cada día es limitado y hay que obtener una autorización antes de comprar los billetes de 
+los barcos. También necesitarás autorización si vas a pasar la noche en el camping que 
+hay en las islas. Consíguela aquí: autorizacionillasatlanticas.xunta.gal 
 
-### 4\. Paseo por Pedras Negras en O Grove
+[![Senderismo en O Grove](https://fotos.etheriamagazine.com/2019/09/ogrove-ruta-pedras-negras.jpg "Mirador en la ruta de las Pedras Negras.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/ogrove-ruta-pedras-negras/)
 
-[![Senderismo en O Grove](https://fotos.etheriamagazine.com/2019/09/ogrove-ruta-pedras-negras-900x587.jpg "Mirador en la ruta de las Pedras Negras.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/ogrove-ruta-pedras-negras/)
+## 4\. Paseo por Pedras Negras en O Grove
 
 El paseo por la **ruta de las Pedras Negras**, en la península de O Grove, debería ser 
 obligatorio para todos los que visiten Pontevedra. Es cómodo, gracias a las pasarelas de 
@@ -102,9 +95,9 @@ con dos esculturas: una dedicada a las mujeres gallegas y otra a las personas qu
 llegaron de todas partes a ayudar en la recogida de chapapote tras el desastre del 
 Prestige. 
 
-### 5\. Visitar el pueblo de Combarro
+[![Ría de Pontevedra](https://fotos.etheriamagazine.com/2019/09/pontevedra-ria-combarro.jpg "Horreo en Combarro frente a la ría de Pontevedra.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/pontevedra-ria-combarro/)
 
-[![Ría de Pontevedra](https://fotos.etheriamagazine.com/2019/09/pontevedra-ria-combarro-900x600.jpg "Horreo en Combarro frente a la ría de Pontevedra.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/pontevedra-ria-combarro/)
+## 5\. Visitar el pueblo de Combarro
 
 Es uno de los pueblos más bonitos de Galicia, conocido por sus hórreos y sus cruceiros. 
 El lugar más animado es la plaza da Chousa, situada entre la villa antigua y el puerto 
@@ -118,12 +111,11 @@ recuerdos y licores, hasta llegar a la Praia de Pinela, desde donde tendrás una
 preciosa de los hórreos que se sitúan en primera línea de costa y que parecen estar 
 directamente sobre le mar. Es un buen lugar donde quedarse a comer, ya que hay muchos 
 bares y restaurantes, como el [Bar 
-Pedramar](https://www.facebook.com/pg/barpedramar/posts/) (con una maravillosa terraza) 
-o la [Tapería Rúa 19](https://taperiarua19.negocio.site). 
+Pedramar](https://www.facebook.com/pg/barpedramar/posts/) (con una maravillosa terraza). 
 
-### 6\. Bañarse en la playa de La Lanzada
+[![Ruta Pedras Negras](https://fotos.etheriamagazine.com/2019/09/playa-lanzada.jpg "Playa de la Lanzada, al fondo, vista desde la ruta de las Pedras Negras.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/playa-lanzada/)
 
-[![Ruta Pedras Negras](https://fotos.etheriamagazine.com/2019/09/playa-lanzada-900x574.jpg "Playa de la Lanzada, al fondo, vista desde la ruta de las Pedras Negras.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/playa-lanzada/)
+## 6\. Bañarse en la playa de La Lanzada
 
 La capacidad para recibir gente de este enorme arenal ya se vislumbra en el tamaño de 
 sus aparcamientos, pero es tan grande que es complicado sentirse agobiado por la gente. 
@@ -132,12 +124,12 @@ la provincia, y es perfecta para pasar una jornada de playa en uno de esos días
 que aparecen en Galicia. Una vez que llegas a la arena, te das cuenta rápidamente de las 
 posibilidades que ofrece para los más pequeños: desde juegos en la arena (consulta las [mareas](http://www.aemet.es/es/eltiempo/prediccion/playas/a-lanzada-3602201) 
 y acude en la bajamar, la playa es inmensa) hasta un rato de pelea con las olas. También 
-puedes apuntarles a una clase de surf en la [Escuela Prado Surf A 
-Lanzada](https://pradosurfescola.com/escuela-surf-a-lanzada/). 
+puedes apuntarles a una clase de surf en la **Escuela Prado Surf A Lanzada** 
+(pradosurfescola.com). 
 
-### 7\. Pasear por la isla de La Toja
+[![Ermita de las Conchas en La Toja](https://fotos.etheriamagazine.com/2019/09/isla-toja-ermita-conchas.jpg "Ermita de San Sebastián, conocida como la de las Conchas, en la isla de La Toja.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/isla-toja-ermita-conchas/)
 
-[![Ermita de las Conchas en La Toja](https://fotos.etheriamagazine.com/2019/09/isla-toja-ermita-conchas-900x483.jpg "Ermita de San Sebastián, conocida como la de las Conchas, en la isla de La Toja.")](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/isla-toja-ermita-conchas/)
+## 7\. Pasear por la isla de La Toja
 
 La isla de La Toja es perfecta para un paseo, ya que en realidad es un gran espacio 
 residencial muy tranquilo en cualquier momento del año. Podrás detenerte en los puestos 
@@ -150,13 +142,12 @@ A nivel arquitectónico, te sorprenderá la **ermita de San Sebastián**, conoci
 de las Conchas, ya que fue recubierta por conchas de vieiras en la remodelación que 
 vivió en el siglo XIX para protegerla de la humedad (como cotilleo, aquí se casó Mariano 
 Rajoy en 1996). No te pierdas su paseo marítimo y el bonito puente que une la isla con 
-la península de O Grove. Puedes dar una vuela por la isla de La Toja en el [tren 
-turístico](https://www.crucerosdoulla.com/es/activities/turitren-la-toja/) que sale 
-frente al centro comercial, un plan perfecto para hacer con niños. 
+la península de O Grove. Puedes dar una vuela por la isla de La Toja en el **tren 
+turístico** que sale frente al centro comercial, un plan perfecto para hacer con niños. 
 
-### 8\. Visitar Santiago de Compostela
+[![viajes en familia, viajes con niños, rutas en Galicia, actividades en Pontevedra](https://fotos.etheriamagazine.com/2019/09/santiago-compostela.jpg)](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/santiago-compostela/)
 
-[![viajes en familia, viajes con niños, rutas en Galicia, actividades en Pontevedra](https://fotos.etheriamagazine.com/2019/09/santiago-compostela-900x717.jpg)](https://etheriamagazine.com/2019/10/01/8-planes-con-ninos-en-la-costa-de-pontevedra-la-toja/santiago-compostela/)
+## 8\. Visitar Santiago de Compostela
 
 La siempre concurrida Santiago de Compostela merece un paseo con los más pequeños. La 
 inmensa **plaza del Obradoiro** es uno de esos lugares, sobre todo en verano, donde no 
@@ -164,21 +155,19 @@ sabes muy bien a donde dirigir la vista, entre tanto grupo de peregrinos variopi
 turistas y fachadas monumentales. Es imprescindible pararse a contemplar la fachada del 
 Obradorio y el interior de la catedral (la entrada es gratuita), aunque si quieres 
 abrazar al santo tendrás que hacer la inevitable cola. Si quieres una clase añadida de 
-Historia, reserva a través de la página [web de la 
-catedral](https://entradas.catedraldesantiago.es/es-ES/informacion-recinto/2/portico-gloria) 
-la visita guiada para contemplar el maravilloso Pórtico de la Gloria. 
+Historia, reserva a través de la página web de la catedral la visita guiada para 
+contemplar el maravilloso Pórtico de la Gloria. 
 
 Después, callejea por el centro histórico de Santiago descubriendo estrechas calles, 
 soportales y plazas deliciosas (como la praza de Fonseca), que al ser una zona peatonal 
 es perfecta para moverse con los más pequeños. No te pierdas el renovado **mercado de 
 Abastos**, que se ha convertido en un espacio perfecto para tapear o comer de forma 
 informal en sus puestos. Si buscas un parque donde 'desfogar' un rato a los niños, 
-puedes acudir al céntrico [Parque de la Alameda](http://www.parquealamedasantiago.com) 
-(a diez minutos caminando desde la Catedral), creado en el siglo XIX y que ofrece 
-bonitas vistas de la ciudad, además de un entramado de senderos, fuentes y estanques 
-perfecto para pasar un rato en familia. 
+puedes acudir al céntrico **Parque de la Alameda** (a diez minutos caminando desde la 
+Catedral), creado en el siglo XIX y que ofrece bonitas vistas de la ciudad, además de un 
+entramado de senderos, fuentes y estanques perfecto para pasar un rato en familia. 
 
-## También te puede interesar:
+**También en Etheria Magazine** 
 
 [Camino de Santiago por la Ría de Muros-Noia, una aventura a toda 
 vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/) 

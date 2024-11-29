@@ -79,7 +79,7 @@ fachada tiene numerosos elementos decorativos y una de sus puertas da a la plaza
 Mayo, cuyo nombre rinde homenaje a la fecha en que el Mercado Central sufrió un duro 
 bombardeo durante la Guerra Civil, en 1938. 
 
-![Fachada con un joven sentado en una mesa del Mercado Central de Alicante.](https://fotos.etheriamagazine.com/2022/08/alicante-mercado-central-634x1024.jpg "Mercado Central de Alicante.")
+![Fachada con un joven sentado en una mesa del Mercado Central de Alicante.](https://fotos.etheriamagazine.com/2022/08/alicante-mercado-central.jpg "Mercado Central de Alicante.")
 
 #### Plaza del Ayuntamiento
 
@@ -91,10 +91,10 @@ comienza la barandilla de la escalera principal se encuentra la “**cota cero**
 de referencia desde el que se midió la altura sobre el nivel del mar de todos los puntos 
 de España. 
 
-? La plaza del Ayuntamiento constituye el epicentro de la vida social y cultural de 
+📌 La plaza del Ayuntamiento constituye el epicentro de la vida social y cultural de 
 Alicante. 
 
-![Vista nocturna del Ayuntamiento de Alicante.](https://fotos.etheriamagazine.com/2022/08/ayuntamiento-alicante-704x1024.jpg "Vista nocturna del Ayuntamiento.")
+![Vista nocturna del Ayuntamiento de Alicante.](https://fotos.etheriamagazine.com/2022/08/ayuntamiento-alicante.jpg "Vista nocturna del Ayuntamiento.")
 
 #### Parque La Ereta
 
@@ -230,7 +230,7 @@ refugio para los piratas berberiscos y hoy la zona amurallada de su núcleo urba
 sido declarado Conjunto Histórico Artístico y Bien de Interés Cultural. Un final de lujo 
 y aventuras para una escapada turística por Alicante. 
 
-? [Reserva tu Ferry a 
+📌 [Reserva tu Ferry a 
 Tabarca](https://www.civitatis.com/es/alicante/ferry-isla-tabarca/?aid=10211), [una 
 excursión en barco con una actividad de 
 snorkel](https://www.civitatis.com/es/santa-pola/excursion-tabarca-snorkel/?aid=10211) o 

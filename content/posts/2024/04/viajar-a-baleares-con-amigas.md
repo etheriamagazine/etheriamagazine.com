@@ -14,7 +14,7 @@ el puente de mayo, pero también pueden convertirse en un conjunto para explorar
 unas vacaciones más prolongadas. Hacer una escapada a las islas Baleares con amigas es 
 un plan muy agradecido, cercano y repleto de actividades variadas. 
 
-![Catedral de Palma, en la isla de Mallorca.](https://fotos.etheriamagazine.com/2024/04/catedral-mallorca-850x567.jpg "Catedral de Palma, en la isla de Mallorca. © David Vives")
+![Catedral de Palma, en la isla de Mallorca.](https://fotos.etheriamagazine.com/2024/04/catedral-mallorca.jpg "Catedral de Palma, en la isla de Mallorca. © David Vives")
 
 En Etheria Magazine hemos recorrido las islas Baleares de arriba abajo durante muchos 
 años, cada isla nos ha sorprendido e invitado a regresar una vez más para seguir 
@@ -54,7 +54,7 @@ Formentera](https://etheriamagazine.com/2020/04/15/viajar-con-amigas-mejores-pla
 barco](https://www.civitatis.com/es/formentera/barco-calas-formentera/?aid=10211) de 4h 
 30min por las calas de Formentera por 72 €. 
 
-![Calle con tiendas en Ibiza](https://fotos.etheriamagazine.com/2024/04/calles-ibiza-con-amigas-750x1000.jpg "La capital ibicenca es un pequeño paraíso para ir de compras. © Belinda Fewings")
+![Calle con tiendas en Ibiza](https://fotos.etheriamagazine.com/2024/04/calles-ibiza-con-amigas.jpg "La capital ibicenca es un pequeño paraíso para ir de compras. © Belinda Fewings")
 
 ## Creando recuerdos inolvidables en Ibiza
 
@@ -79,7 +79,7 @@ amigas](https://etheriamagazine.com/2018/06/25/viaje-a-ibiza-con-amigas/).
 capital](https://www.civitatis.com/es/ibiza-ciudad/free-tour-ibiza/?aid=10211) con 
 Civitatis. 
 
-![Excursión en barco en Menorca.](https://fotos.etheriamagazine.com/2024/04/barco-amigas-menorca-737x1000.jpg "Excursión en barco en Menorca. © Pelayo Arbués")
+![Excursión en barco en Menorca.](https://fotos.etheriamagazine.com/2024/04/barco-amigas-menorca.jpg "Excursión en barco en Menorca. © Pelayo Arbués")
 
 ## Menorca, la isla de la cultura
 
@@ -113,7 +113,7 @@ por las calas en
 barco](https://www.civitatis.com/es/ciudadela/paseo-barco-menorca/?aid=10211) por 35 €, 
 kayak, snorkel y otras actividades. 
 
-![Vista aérea de Mallorca.](https://fotos.etheriamagazine.com/2024/04/vista-aerea-mallorca-850x638.jpg "Vista aérea de Mallorca. © Farid Askerov")
+![Vista aérea de Mallorca.](https://fotos.etheriamagazine.com/2024/04/vista-aerea-mallorca.jpg "Vista aérea de Mallorca. © Farid Askerov")
 
 ## Explorando Mallorca con amigas
 

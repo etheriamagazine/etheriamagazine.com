@@ -15,7 +15,7 @@ todo un abanico de posibilidades para disfrutar de un viaje a Cuba con amigas. E
 artículo encontrarás unas pinceladas de todo lo que puedes hacer para convertirlo en 
 inolvidable. 
 
-![Una calle de La Habana con un coche típico de Cuba](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-habana-1-1024x674.jpg "La arquitectura destartalada y los coches antiguos americanos son la seña de identidad de La Habana.")
+![Una calle de La Habana con un coche típico de Cuba](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-habana-1.jpg "La arquitectura destartalada y los coches antiguos americanos son la seña de identidad de La Habana.")
 
 La historia de la República de Cuba es, quizá, una de las más particulares que podemos 
 contar, y bien merece la pena estudiarla antes de realizar nuestro viaje. Tras la 
@@ -33,7 +33,7 @@ festivo y musical que se crea en cualquier rincón. Por estos motivos –y much�
 se trata de **la elección perfecta para ese viaje con amigas** con el que tanto habéis 
 soñado. 
 
-![Una preciosa playa caribeña con palmeras ideal para disfrutar de Cuba con amigas](https://fotos.etheriamagazine.com/2019/01/cuba-1092372_1280-1024x685.jpg "Las mejores playas de Cuba se encuentran en los cayos.")
+![Una preciosa playa caribeña con palmeras ideal para disfrutar de Cuba con amigas](https://fotos.etheriamagazine.com/2019/01/cuba-1092372_1280.jpg "Las mejores playas de Cuba se encuentran en los cayos.")
 
 ## ¿Qué ver en Cuba con amigas?
 
@@ -57,7 +57,7 @@ mágica. Nostálgica, seductora, bucólica. Todos tenemos una palabra que descri
 perfección ese primer contacto con una de las ciudades más llamativas y especiales del 
 mundo. 
 
-![El Capitolio Nacional de Cuba es su edificio más significativo.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-capitolio-1024x682.jpg "El Capitolio Nacional de Cuba es su edificio más significativo.")
+![El Capitolio Nacional de Cuba es su edificio más significativo.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-capitolio.jpg "El Capitolio Nacional de Cuba es su edificio más significativo.")
 
 ### Atardeceres desde el Malecón
 
@@ -73,7 +73,7 @@ También merece la pena realizar una visita al mítico Hotel Nacional de Cuba, d
 Memoria del Mundo por la Unesco. Aquí podéis disfrutar de unas vistas fantásticas desde 
 su terraza mientras tomáis un mojito o una piña colada al son de sus melodías. 
 
-![Fachadas de colores de La Habana](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-habana-1024x682.jpg "El colorido de las fachadas es una constante en esta isla.")
+![Fachadas de colores de La Habana](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-habana.jpg "El colorido de las fachadas es una constante en esta isla.")
 
 No os perdáis los mágicos atardeceres en el malecón viendo cómo los pescadores entran y 
 salen del agua; deambular por la **Plaza de Armas** en busca de libros antiguos sobre la 
@@ -86,7 +86,7 @@ callejeras que podréis ver al anochecer.
 > Música, baile, mojitos y mucho son os esperan al caer la noche, y os aseguro que son los 
 > planes más auténticos y divertidos. 
 
-![Músicos callejeros en La Habana](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-musica-habana-1024x682.jpg "La música callejera es la banda sonora de todos los viajes a Cuba.")
+![Músicos callejeros en La Habana](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-musica-habana.jpg "La música callejera es la banda sonora de todos los viajes a Cuba.")
 
 Si podéis alargar la estancia, acercaros un día a visitar la **región de Viñales**, con 
 sus preciosas casas de madera de estilo colonial, sus jardines botánicos y una 
@@ -102,7 +102,7 @@ la sensación de habernos detenido en el tiempo, un tiempo de vías adoquinadas 
 pintorescas construcciones de colores que se convierten en el escenario perfecto de 
 cualquier fotografía. 
 
-![Trinidad es una de las ciudades coloniales de Cuba](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-trinidad-1024x682.jpg "Trinidad es una de las hermosas ciudades de Cuba.")
+![Trinidad es una de las ciudades coloniales de Cuba](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-trinidad.jpg "Trinidad es una de las hermosas ciudades de Cuba.")
 
 Nada como perderse por sus calles, adentrarse en el bullicio de la Plaza Mayor, visitar 
 la catedral de la Santísima Trinidad y la iglesia de San Francisco, y empaparse de arte 
@@ -111,7 +111,7 @@ en los museos Románico y de Arquitectura Colonial. No dejéis de tomar una cerv
 
 > Para comer, el restaurante San José es de los más reconocidos de la zona. 
 
-? **¿Cómo llegar a Trinidad?** La manera más rápida y sencilla desde La Habana es 
+📌 **¿Cómo llegar a Trinidad?** La manera más rápida y sencilla desde La Habana es 
 alquilar un taxi (unas 4 horas de trayecto y 100 euros) o realizar el trayecto en 
 autobús desde la estación (aproximadamente 6 horas de trayecto y 22 euros por persona). 
 
@@ -127,16 +127,16 @@ por la noche. Durante el día, nada como dejarse llevar por el Paseo del Prado, 
 principal, hasta el **parque José Martí** y descubrir allí el Palacio Ferrer o la 
 catedral de la Purísima Concepción. 
 
-![Fachadas de Cuba con aires decadentes](https://fotos.etheriamagazine.com/2019/01/cuba-133489_1280-1024x688.jpg "El aire decadente de Cuba enamora.")
+![Fachadas de Cuba con aires decadentes](https://fotos.etheriamagazine.com/2019/01/cuba-133489_1280.jpg "El aire decadente de Cuba enamora.")
 
-? **¿Cómo llegar a Bahía Cochinos?** La mejor opción es hacer una parada en la ruta La 
+📌 **¿Cómo llegar a Bahía Cochinos?** La mejor opción es hacer una parada en la ruta La 
 Habana - Trinidad. A Bahía de Cochinos se le reconoce el valor de su naturaleza intacta 
 y la belleza de sus playas: Girón y Playa Larga. Sus aguas transparentes y tranquilas, 
 así como sus arenas blancas y finas, permiten darnos un chapuzón relajado mientras 
 admiramos el paisaje. Otro de los atractivos de la zona es la **Ciénaga de Zapata**, 
 perfecta para los amantes de las aves. 
 
-![Playas de arena blanca y agua turquesa de Cayo Coco](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-playas-1024x654.jpg "En Cayo Coco el mar es más turquesa y la arena más blanca.")
+![Playas de arena blanca y agua turquesa de Cayo Coco](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-playas.jpg "En Cayo Coco el mar es más turquesa y la arena más blanca.")
 
 ### Cayos cubanos
 
@@ -153,7 +153,7 @@ de arenas blancas, aguas turquesas y mucho coral. Los paseos al amanecer o conte
 puesta de sol en las rocas sobre el mar es una experiencia tan enriquecedora como 
 inolvidable. 
 
-![Recorrer la isla en catamarán siempre es buena idea.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-cayo-coco-1024x576.jpg "Disfruta de la oferta náutica de Cuba.")
+![Recorrer la isla en catamarán siempre es buena idea.](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-cayo-coco.jpg "Disfruta de la oferta náutica de Cuba.")
 
 El pequeño **Cayo Iguana** es mi elección caribeña, uno de los territorios más 
 selváticos del conjunto de islas. Al carecer de infraestructuras destinadas a los 
@@ -205,7 +205,7 @@ Cuba_.
 
 **Más información** para tu viaje a Cuba con amigas en la página web de Turismo en Cuba. 
 
-? **Sigue leyendo sobre Cuba:** 
+📌 **Sigue leyendo sobre Cuba:** 
 
 [Viaja al corazón de Cuba: Villa Clara y Sancti 
 Spíritus](https://etheriamagazine.com/2022/01/03/viaje-cuba-villa-clara-y-sancti-spiritus/). 

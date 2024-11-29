@@ -30,7 +30,7 @@ por la impresión instantánea. Esta [Polaroid Pop 2.0](https://amzn.to/3P22eNv)
 compañera perfecta de viaje, y un complemento estupendo para compaginar con las cámaras 
 tradicionales y los móviles, ya que traslada los recuerdos al papel en un instante. 
 
-![impresora polariod portatil](https://fotos.etheriamagazine.com/2020/04/regalos-madre-polaroid-900x904.jpg "Polaroid Pop 2.0.")
+![impresora polariod portatil](https://fotos.etheriamagazine.com/2020/04/regalos-madre-polaroid.jpg "Polaroid Pop 2.0.")
 
 ### 2\. Libro electrónico
 
@@ -49,7 +49,7 @@ frioleras. Este pequeño y cómodo gadget, además de calentarte las manos, perm
 el móvil ya que funciona como una batería externa. No abulta nada y podrás llevarlo a 
 los viajes de esquí o a los que te lleven a visitar los mercadillos navideños europeos. 
 
-![calentador de manos eléctrico](https://fotos.etheriamagazine.com/2020/04/regalos-madre-calentador-manos-848x1024.jpg "Calentador de manos Awroutdoor.")
+![calentador de manos eléctrico](https://fotos.etheriamagazine.com/2020/04/regalos-madre-calentador-manos.jpg "Calentador de manos Awroutdoor.")
 
 ### 4\. Reloj de actividad
 
@@ -60,7 +60,7 @@ contador de la calorías es un buen aliado para justificar esos pequeños capric
 gastronómicos que dan la felicidad en un viaje. Este reloj, además, monitoriza el sueño 
 y puedes mojarlo sin problema ya que es resistente al agua. 
 
-![reloj inteligente](https://fotos.etheriamagazine.com/2020/04/regalos-madre-reloj-actividad-893x1024.jpg "Reloj actividad Yonmig.")
+![reloj inteligente](https://fotos.etheriamagazine.com/2020/04/regalos-madre-reloj-actividad.jpg "Reloj actividad Yonmig.")
 
 ### 5\. Plancha de pelo de viaje
 
@@ -91,7 +91,7 @@ inalámbricos](https://amzn.to/3Sl5gxc) como estos podrás hacerlo cómodamente,
 tendrás que preocuparte de que estén siempre cargados. Dispondrás de 5 horas seguidas de 
 audio más 25 horas de carga que proporciona la caja. 
 
-![auriculares blancos](https://fotos.etheriamagazine.com/2020/04/auriculares-inalambricos-633x1024.jpg "Auriculares inalámbricos disponibles en Amazon.")
+![auriculares blancos](https://fotos.etheriamagazine.com/2020/04/auriculares-inalambricos.jpg "Auriculares inalámbricos disponibles en Amazon.")
 
 ### 8\. Almohada de masaje
 
@@ -101,7 +101,7 @@ doloridas, una buena compañera de viaje es una [almohada de
 masaje](https://amzn.to/2Y2oazL), no abulta apenas y se agradece unos minutos de relax 
 con un masaje en la zona dolorida. Ésta además incluye función calor. 
 
-![almohada portatil para viaje](https://fotos.etheriamagazine.com/2020/04/regalos-madre-almohada-masaje-900x650.jpg "Almohada de masaje.")
+![almohada portatil para viaje](https://fotos.etheriamagazine.com/2020/04/regalos-madre-almohada-masaje.jpg "Almohada de masaje.")
 
 ### 9\. Altavoz de viaje
 

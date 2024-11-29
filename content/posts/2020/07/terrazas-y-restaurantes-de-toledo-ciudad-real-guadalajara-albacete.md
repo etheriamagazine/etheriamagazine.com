@@ -12,7 +12,7 @@ authors:
 
 Las terrazas son tan valoradas en el litoral como en las comunidades del interior de España. Demos un paseo por Castilla-La Mancha para destacar aquellos restaurantes donde es un placer disfrutar del fresco de la noche mientras se degustan los exquisitos sabores de la tierra.
 
-![mesa del cigarral Santa Maria](https://fotos.etheriamagazine.com/2020/07/terraza-verano-Adolfo-Cigarral-Santa-Maria-900x600.jpg "Cigarral de Santa María, en Toledo.")
+![mesa del cigarral Santa Maria](https://fotos.etheriamagazine.com/2020/07/terraza-verano-Adolfo-Cigarral-Santa-Maria.jpg "Cigarral de Santa María, en Toledo.")
 
 La belleza de la noche, con su manto de estrellas, no es un privilegio exclusivo de la 
 costa. Es más, en algunos lugares del interior es donde mejor se pueden observar las 
@@ -28,7 +28,7 @@ vista a los excelentes chefs que ostentan estrellas Michelin en Castilla-La Manc
 son muchos, y que se agrupan bajo la marca oficial de ‘**Raíz Culinaria Castilla-La 
 Mancha**’. 
 
-![jardín del cigarral del angel custodio en toledo](https://fotos.etheriamagazine.com/2020/07/terraza-verano-Cigarral-del-angel-Ivan-Cerdeno-900x558.jpg "Cigarral del Ángel Custodio, en Toledo.")
+![jardín del cigarral del angel custodio en toledo](https://fotos.etheriamagazine.com/2020/07/terraza-verano-Cigarral-del-angel-Ivan-Cerdeno.jpg "Cigarral del Ángel Custodio, en Toledo.")
 
 ## Toledo, siempre bajo el foco
 
@@ -45,7 +45,7 @@ compartir. Entre sus propuestas están la croqueta ganadora de Madrid Fusión 20
 lubina frita con mojo rojo. Desde su terraza se pueden admirar unas bonitas vistas de la 
 ciudad. 
 
-![terraza del cigarral de las mercedes en toledo](https://fotos.etheriamagazine.com/2020/07/terraza-verano-Cigarral-de-las-Mercedes--900x600.jpg "Terraza del Cigarral de las Mercedes, en Toledo.")
+![terraza del cigarral de las mercedes en toledo](https://fotos.etheriamagazine.com/2020/07/terraza-verano-Cigarral-de-las-Mercedes-.jpg "Terraza del Cigarral de las Mercedes, en Toledo.")
 
 Otro cigarral con un increíble mirador es el **Cigarral de Las Mercedes**, donde Javier 
 Medina también ha puesto en la carta diversos platos basados en recetas regionales para 
@@ -54,7 +54,7 @@ mencionar a Adolfo Muñoz, uno de los nombres obligados de la gastronomía en la
 toledana. Para la estación estival, su mejor opción se encuentra en los **Viñedos 
 Cigarral de Santa María**, donde da igual lo que pidas porque siempre acertarás. 
 
-![jardín del cigarral de Santa Maria](https://fotos.etheriamagazine.com/2020/07/terraza-verano-adolfo-cigarral-Santa-Maria-2-900x599.jpg "Viñedos Cigarral de Santa María.")
+![jardín del cigarral de Santa Maria](https://fotos.etheriamagazine.com/2020/07/terraza-verano-adolfo-cigarral-Santa-Maria-2.jpg "Viñedos Cigarral de Santa María.")
 
 Para tomar una copa o un cóctel, o para cenar, es muy recomendable acudir a **la azotea 
 del Hotel Carlos V**. Las luces doradas del atardecer son ideales para inmortalizar tu 
@@ -66,7 +66,7 @@ castellanomanchegos que ofrecen durante estos meses. Por último, también se ha
 esta enumeración el **Hotel Cigarral El Bosque**, a unos minutos en coche del casco 
 histórico, cuya terraza ofrece vistas tanto del río Tajo como de la capital. 
 
-![Azotea del Hotel Carlos V, de Toledo.](https://fotos.etheriamagazine.com/2020/07/Terraza-verano-hotel-Carlos-V-900x600.jpg "Azotea del Hotel Carlos V, de Toledo.")
+![Azotea del Hotel Carlos V, de Toledo.](https://fotos.etheriamagazine.com/2020/07/Terraza-verano-hotel-Carlos-V.jpg "Azotea del Hotel Carlos V, de Toledo.")
 
 ## Terrazas en Guadalajara
 
@@ -84,7 +84,7 @@ Repsol. Este restaurante, situado en Marchamalo, ofrece una rica cocina fusión 
 terraza rodeada de plantas. Más tradicional es la histórica **Casa del Doncel**, en la 
 preciosa ciudad de Sigüenza, que este año ha estrenado **Nöla, su nueva terraza**. 
 
-![terraza Nöla en Sigüenza](https://fotos.etheriamagazine.com/2020/07/terraza-verano-Restaurante-Nola-900x600.jpg "Terraza Nöla, en Sigüenza.")
+![terraza Nöla en Sigüenza](https://fotos.etheriamagazine.com/2020/07/terraza-verano-Restaurante-Nola.jpg "Terraza Nöla, en Sigüenza.")
 
 ## Molinos y terrazas en Ciudad Real
 
@@ -98,7 +98,7 @@ Los amantes de la pizza pueden desplazarse a la capital provincial para conocer 
 reconocida **pizzería Marquinetti** que, por supuesto, también dispone de una amplia 
 terraza. 
 
-![Terraza del restaurante Las Musas, en Campo de Criptana.](https://fotos.etheriamagazine.com/2020/07/terrazas-verano-Las-Musas-900x600.jpg "Terraza del restaurante Las Musas, en Campo de Criptana.")
+![Terraza del restaurante Las Musas, en Campo de Criptana.](https://fotos.etheriamagazine.com/2020/07/terrazas-verano-Las-Musas.jpg "Terraza del restaurante Las Musas, en Campo de Criptana.")
 
 ## Albacete, la más desconocida
 

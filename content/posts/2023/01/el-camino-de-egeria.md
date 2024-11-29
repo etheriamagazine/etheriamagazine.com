@@ -84,7 +84,7 @@ y bulliciosa, con tiendas de artesanía y restaurantes muy gratos. Cerca queda
 **Maqueronte**, la montaña-fortaleza de Herodes donde estuvo preso y fue decapitado Juan 
 el Bautista. 
 
-![Detalles de las iglesias de San Jorge y San Juan en Madaba.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-iglesias-san-juan-jorge-850x275.jpg "Detalles de las iglesias de San Jorge y San Juan, en Madaba. © Carlos Pascual")
+![Detalles de las iglesias de San Jorge y San Juan en Madaba.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-iglesias-san-juan-jorge.jpg "Detalles de las iglesias de San Jorge y San Juan, en Madaba. © Carlos Pascual")
 
 ### El Monte Nebo y las Fuentes de Moisés
 
@@ -103,7 +103,7 @@ varios lugares, según la Biblia). Están en la vaguada, a tiro de piedra, y las
 autoridades jordanas **proyectan levantar allí un centro religioso y logístico** que 
 potencie la ruta. 
 
-![Iglesia del Monte Nebo, en el camino de Egeria](https://fotos.etheriamagazine.com/2023/01/camino-egeria-iglesia-del-Monte-Nebo-850x444.jpg "Iglesia del Monte Nebo. © Carlos Pascual")
+![Iglesia del Monte Nebo, en el camino de Egeria](https://fotos.etheriamagazine.com/2023/01/camino-egeria-iglesia-del-Monte-Nebo.jpg "Iglesia del Monte Nebo. © Carlos Pascual")
 
 ### Betania, el Jordán y las aguas del bautismo
 
@@ -121,7 +121,7 @@ una estructura techada que hace las veces de templo. Más cerca de la orilla, la
 ortodoxa de San Juan, de cúpula dorada, luce en su interior pinturas alusivas al lugar 
 –y vende frasquitos con agua del Jordán para bautizar o bendecir–. 
 
-![El Camino de Egeria discurre junto al lugar donde fue bautizado Jesucristo.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-rio-jordan-627x1024.jpg "El Camino de Egeria discurre junto al lugar donde dicen que fue bautizado Jesucristo. © Carlos Pascual")
+![El Camino de Egeria discurre junto al lugar donde fue bautizado Jesucristo.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-rio-jordan.jpg "El Camino de Egeria discurre junto al lugar donde dicen que fue bautizado Jesucristo. © Carlos Pascual")
 
 El río se estrecha entre cañaverales y arbustos, y es frontera: la orilla opuesta, a 
 escasos quince metros, es ya territorio israelí. Con soldados apostados en las gradas e 
@@ -130,7 +130,7 @@ profundo, a veces en grupo y con túnicas blancas, entonando cánticos y oracion
 mientras un sacerdote renueva el rito bautismal. **El Camino de Egeria** se deberá 
 prolongar, a partir de aquí, por tierras de Israel, hasta llegar a **Jerusalén**. 
 
-![Iglesia del Santo Sepulcro, continuación del Camino de Egeria.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-iglesia-Santo-Sepulcro-714x1024.jpg "Iglesia del Santo Sepulcro, continuación del Camino de Egeria. © Carlos Pascual")
+![Iglesia del Santo Sepulcro, continuación del Camino de Egeria.](https://fotos.etheriamagazine.com/2023/01/camino-egeria-iglesia-Santo-Sepulcro.jpg "Iglesia del Santo Sepulcro, continuación del Camino de Egeria. © Carlos Pascual")
 
 De Jerusalén partió Egeria de regreso a casa, por las mismas vías “oficiales” por las 
 que había venido. Al llegar a Constantinopla, escribió a sus nobles amigas (“_dominae et 
@@ -139,7 +139,7 @@ lo permitían”, visitar aún otros lugares santos, como el _martyrium_ (basíl
 Juan en **Éfeso**. No sabemos si llevó a cabo su propósito. Ni siquiera sabemos si llegó 
 a regresar a su patria. 
 
-![Inauguración del Camino de Egeria, Carlos Pascual, embajador Miguel de Lucas y guía Oscar Kosebye](https://fotos.etheriamagazine.com/2023/01/Camino-Egeria-Carlos-Pascual-850x401.jpg "Inauguración del Camino de Egeria, Carlos Pascual, embajador Miguel de Lucas y guía Oscar Kosebye (de Izq. a Dcha.).")
+![Inauguración del Camino de Egeria, Carlos Pascual, embajador Miguel de Lucas y guía Oscar Kosebye](https://fotos.etheriamagazine.com/2023/01/Camino-Egeria-Carlos-Pascual.jpg "Inauguración del Camino de Egeria, Carlos Pascual, embajador Miguel de Lucas y guía Oscar Kosebye (de Izq. a Dcha.).")
 
 **Autor:** 
 

@@ -47,9 +47,9 @@ casas. También dispone de zonas comunes _chill out_ con sillones, columpios, ba
 Muy cerca se encuentra el Área recreativa Playas Blancas, una zona con piscinas 
 naturales para refrescarse en verano. 
 
-?Más información en glampingtheteepee.com 
+📍Más información en glampingtheteepee.com 
 
-![Glamping The Teepee, en la Sierra de Gredos (Ávila).](https://fotos.etheriamagazine.com/2023/02/teepee-avila-768x1024.jpg "© Glamping The Teepee, en la Sierra de Gredos (Ávila).")
+![Glamping The Teepee, en la Sierra de Gredos (Ávila).](https://fotos.etheriamagazine.com/2023/02/teepee-avila.jpg "© Glamping The Teepee, en la Sierra de Gredos (Ávila).")
 
 ### Hotel Miluna, en Toledo
 
@@ -63,7 +63,7 @@ para ver las estrellas. Podrás elegir entre: Lunas de Júpiter (30 m2), Lunas d
 estancia, te animamos a visitar su entorno donde se sitúan castillos tan bonitos como el 
 de Maqueda. 
 
-?Más información en miluna.es 
+📍Más información en miluna.es 
 
 ![Hotel burbuja Mi Luna, uno de los más románticos de Toledo](https://fotos.etheriamagazine.com/2023/02/hotel-romantico-mi-luna.jpg "© Hotel burbuja Mi Luna.")
 
@@ -78,7 +78,7 @@ Madrid. En sus alrededores se pueden emprender rutas senderistas por el Parque N
 del Alto Tajo, tanto a pie como en bicicleta. Tampoco se encuentran lejos las bonitas 
 ciudades de Sigüenza, Medinaceli o Atienza. 
 
-?Más información en losanades.com 
+📍Más información en losanades.com 
 
 ![Habitación de hotel Los Ánades.](https://fotos.etheriamagazine.com/2022/04/Los-Anades-hotel-guadalajara.jpg "Habitación de hotel Los Ánades.")
 
@@ -95,7 +95,7 @@ balneario con una sala privada que emula a la capilla de San Pedro. No olvides r
 en su magnífico restaurante. Y si quieres complementar la escapada, en el entorno 
 encontrarás un buen número de bodegas. 
 
-?Más información de [Castilla Termal 
+📍Más información de [Castilla Termal 
 Valbuena](https://etheriamagazine.com/2021/10/29/castilla-termal-valbuena-escapada-de-relax-en-la-ribera-del-duero/). 
 
 ![Sala de contrastes Capilla de San Pedro, en Monasterio de Valbuena, el hotel más romántico de Valladolid](https://fotos.etheriamagazine.com/2021/10/circuito-de-contrastes-monasterio-valbuena.jpg "Sala de contrastes Capilla de San Pedro. © CT Monasterio de Valbuena")
@@ -113,7 +113,7 @@ la cabaña y ponen a tu disposición una extensa carta en la que elegir el almue
 cena. La experiencia se puede completar con cata de vinos o un masaje en la propia 
 cabaña. No se puede pedir más. 
 
-?Más información de [La 
+📍Más información de [La 
 Dehesa](https://etheriamagazine.com/2022/06/10/la-dehesa-experience-cordoba/). 
 
 ![Cabaña tipo glamping en La Dehesa Experience.](https://fotos.etheriamagazine.com/2022/06/dehesa-experience-glamping.jpg "Cabaña tipo glamping en © La Dehesa Experience.")
@@ -132,7 +132,7 @@ visitar la isla para descubrir su increíble belleza (consulta aquí los [Impres
 de La 
 Palma](https://etheriamagazine.com/2021/04/05/10-secretos-para-conocer-la-isla-de-la-palma/)). 
 
-?Más información en [Floatel](https://floatel.de/es/hideaways/faro-punta-cumplida). 
+📍Más información en [Floatel](https://floatel.de/es/hideaways/faro-punta-cumplida). 
 
 ![Faro de Punta Cumplida, en la isla de La Palma, uno de los hoteles más románticos de Canarias](https://fotos.etheriamagazine.com/2019/05/Rusticae-faro-punta-cumplida-patio.jpg "Faro de Punta Cumplida, en la isla de La Palma.")
 
@@ -149,9 +149,9 @@ blanca gallega. Completa tu estancia con una ruta por las bellezas de Pontevedra
 que te hablamos en este artículo: [Guía esencial de Pontevedra: ciudades, islas, castros 
 y rutas mágicas](https://etheriamagazine.com/2022/12/14/que-ver-pontevedra/). 
 
-?Más información en paradores.es/es/parador-de-cambados 
+📍Más información en paradores.es/es/parador-de-cambados 
 
-![Parador de Cambados, uno de los hoteles románticos en España](https://fotos.etheriamagazine.com/2023/02/Parador-cambados-hotel-romantico-850x567.jpg "© Parador de Cambados.")
+![Parador de Cambados, uno de los hoteles románticos en España](https://fotos.etheriamagazine.com/2023/02/Parador-cambados-hotel-romantico.jpg "© Parador de Cambados.")
 
 ### Hotel Villa Rosario, en Asturias
 
@@ -164,7 +164,7 @@ amantes de los deportes náuticos. Cuenta con su propio restaurante, el **Ayalga
 ofrece deliciosos menús degustación y se ha convertido en toda una referencia en la 
 costa cantábrica. 
 
-?Más información de [Villa 
+📍Más información de [Villa 
 Rosario.](https://etheriamagazine.com/2021/07/20/hotel-villa-rosario-palacio-ribadesella/) 
 
 ![Hotel Villa Rosario, en Ribadesella.](https://fotos.etheriamagazine.com/2021/07/hotel-villa-rosario-asturias.jpg "© Hotel Villa Rosario, en Ribadesella.")
@@ -180,10 +180,10 @@ entorno: La Marina, Guadalupe, Getaria, Pasajes, Jaizkibel, Baluarte de la Reina
 Belharra o Peñas de Aia. Además, en el mismo hotel disponen de spa y de un afamado 
 restaurante donde degustar la mejor cocina vasca de autor. 
 
-?Más información de [Villa 
+📍Más información de [Villa 
 Magalean](https://etheriamagazine.com/2019/12/03/hotel-villa-magalean-spa-restaurante-en-hondarribia/). 
 
-![Cada detalle está cuidadosamente pensado en Villa Magalean.](https://fotos.etheriamagazine.com/2019/11/villa-magalean-hotel-salon-900x600.jpg "Cada detalle está cuidadosamente pensado en © Villa Magalean.")
+![Cada detalle está cuidadosamente pensado en Villa Magalean.](https://fotos.etheriamagazine.com/2019/11/villa-magalean-hotel-salon.jpg "Cada detalle está cuidadosamente pensado en © Villa Magalean.")
 
 ### Angelats Hotel Rusticae, en Girona
 
@@ -197,7 +197,7 @@ ecológicos a la carta. La escapada se puede completar con una caminata por el m
 **bosque de Angelats**, una rica cena en el restaurante La Santa y la observación de 
 estrellas desde el mismo alojamiento, dada la escasa contaminación lumínica del lugar. 
 
-?Más información en angelats.es o en rusticae.es 
+📍Más información en angelats.es o en rusticae.es 
 
 ![Angelats Hotel Rusticae, hotel romántico de Girona](https://fotos.etheriamagazine.com/2023/02/Angelats-hotel-romantico-girona.jpg "© Angelats Hotel Rusticae")
 

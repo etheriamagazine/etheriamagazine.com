@@ -13,7 +13,7 @@ reformar sus instalaciones. A todo esto, debemos añadirle que está bien comuni
 el aeropuerto y que puede satisfacer tanto al público familiar como al de negocios. En 
 resumidas cuentas, el Novotel Madrid Center es una buena elección en la capital. 
 
-![Desayunos saludables en Novotel Madrid Center](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-3-1024x683.jpg "Los días comienzan en Novotel Madrid Center con un buen desayuno.")
+![Desayunos saludables en Novotel Madrid Center](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-3.jpg "Los días comienzan en Novotel Madrid Center con un buen desayuno.")
 
 Este hotel despierta expectación desde el primer momento. Los accesos de entrada se 
 encuentran decorados con **murales de _street art_** de grandes dimensiones donde se 
@@ -21,7 +21,7 @@ representan lugares muy reconocibles de Madrid, como Gran Vía y la plaza de Cal
 arte urbano continua con la recreación de un bosque formado por árboles de acero con una 
 copa vegetal en tonos verdes y paredes cubiertas de vegetación. 
 
-![Murales street art Novotel Madrid Center](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-7-1024x683.jpg "Murales de street art reciben al huésped.")
+![Murales street art Novotel Madrid Center](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-7.jpg "Murales de street art reciben al huésped.")
 
 La relación del establecimiento con la capital madrileña continua en el interior, ya que 
 en las habitaciones también se han añadido obras de arte relacionadas con la ciudad. 
@@ -35,7 +35,7 @@ comida a la habitación sólo con un mensaje**, usar un **móvil sin recargo** e
 mientras practica turismo por la capital o realizar una _check out express_, sin esperar 
 a que le atiendan en recepción. 
 
-![Habitación del Novotel Madrid Center negocios y turismo familiar](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-1-1024x683.jpg "Habitación standard del Novotel Madrid Center.")
+![Habitación del Novotel Madrid Center negocios y turismo familiar](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-1.jpg "Habitación standard del Novotel Madrid Center.")
 
 Dentro de sus instalaciones hay espacio para todo: un **restaurante**, un **EatBar**, un 
 **Kid Corner** en la planta baja, un vídeo wall y un amplio parking. Las empresas 
@@ -48,7 +48,7 @@ comunes como un **Fitness center**, que abre las 24 horas; una preciosa **terraz
 desde la que se puede ver atardecer; una **piscina** exterior (abierta del 1 de junio al 
 30 de septiembre), **solárium** y tres salas de eventos. 
 
-![piscina atardecer terrazas del Novotel Madrid Center](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-2-1024x683.jpg "La piscina se encuentra en la terraza del hotel.")
+![piscina atardecer terrazas del Novotel Madrid Center](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-2.jpg "La piscina se encuentra en la terraza del hotel.")
 
 En este Novotel, como hemos podido comprobar, hay espacio para todo, también para hacer 
 realidad la filosofía de la marca que insiste en que "vivas todas tus vidas al máximo". 
@@ -61,7 +61,7 @@ junto a la piscina... Hacer confluir ocio, deporte, negocio, gastronomía y fami
 (alojamiento y desayuno gratuito para 2 niños hasta 16 años cuando comparten la 
 habitación con sus padres) en el centro de Madrid es sencillo (y económico). 
 
-![salas reuniones Novotel Madrid Center](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-6-1024x683.jpg "Sala de reunión del Novotel Madrid Center.")
+![salas reuniones Novotel Madrid Center](https://fotos.etheriamagazine.com/2018/07/Hotel-novotel-madrid-center-6.jpg "Sala de reunión del Novotel Madrid Center.")
 
 ## Visitas desde el Novotel Madrid Center
 

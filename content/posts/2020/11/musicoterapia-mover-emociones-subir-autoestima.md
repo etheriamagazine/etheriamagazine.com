@@ -104,7 +104,7 @@ arreglan las músicas”, explica Conxita Bentz. Se trata de un “camino para a
 se pone música y otras no, pero la musicoterapia abarca el silencio, la armonía, el 
 sonido, las formas musicales…” 
 
-![musicoterapeutas](https://fotos.etheriamagazine.com/2020/11/musica-piano-terapia-690x1024.jpg "Para beneficiarse de la musicoterapia no hace falta disponer de grandes habilidades musicales. © Rukma Pratista")
+![musicoterapeutas](https://fotos.etheriamagazine.com/2020/11/musica-piano-terapia.jpg "Para beneficiarse de la musicoterapia no hace falta disponer de grandes habilidades musicales. © Rukma Pratista")
 
 Lo importante es que para beneficiarse de la musicoterapia no hace falta disponer de 
 habilidades musicales especiales. Tampoco quien la recibe tiene por qué saber música. La 
@@ -131,7 +131,7 @@ se utilizan todos los elementos de la música para que los enfermos expresen sus
 emociones y puedan manipular objetos en su vida cotidiana, que vean que pueden 
 controlar, a través del ritmo y de tocar instrumentos adecuados a cada situación. 
 
-![terapia musical](https://fotos.etheriamagazine.com/2020/11/terapia-escuchar-musica-892x1024.jpg "Escuchar música también forma parte de la terapia. © Engin Akyurt")
+![terapia musical](https://fotos.etheriamagazine.com/2020/11/terapia-escuchar-musica.jpg "Escuchar música también forma parte de la terapia. © Engin Akyurt")
 
 En el ámbito de la salud se trabaja en equipos interdisciplinares, en colaboración con 
 el equipo médico. “Hay que saber lo que haces y conocer la historia médica y musical de 

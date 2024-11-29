@@ -19,7 +19,7 @@ estrellas Michelin, sorprende a cuantos se acercan a sus restaurantes en Madrid,
 Marbella y Doha. No te hablaremos en esta reseña de estos locales ni de su elegante 
 Brasserie en el hotel Four Seasons madrileño. En esta ocasión, sólo necesitas un vestido 
 veraniego y unas chanclas porque nos vamos a la playa de Valdevaqueros, en Tarifa, para 
-disfrutar de la versión más informal de este cocinero. ? No te pierdas esta [guía de 
+disfrutar de la versión más informal de este cocinero. 📌 No te pierdas esta [guía de 
 Tarifa](https://etheriamagazine.com/2020/07/06/viajes-por-espana-tarifa-con-amigas-aires-de-windsurf/) 
 o esta [ruta por la provincia de 
 Cádiz](https://etheriamagazine.com/2019/05/20/viajar-con-amigas-que-hacer-en-cadiz/)) 

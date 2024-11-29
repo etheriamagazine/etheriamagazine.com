@@ -16,7 +16,7 @@ enamorarás de sus castillos medievales y de sus callejuelas con altares, y tend
 tiempo para descubrir las reliquias de ¿Papá Noel? en Bari. Te contamos qué ver en 
 Apulia para que no te pierdas nada. 
 
-![Piazza Mercantile, Bari](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-portada-900x675.jpg "Piazza Mercantile, Bari. © Kelu Robles")
+![Piazza Mercantile, Bari](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-portada.jpg "Piazza Mercantile, Bari. © Kelu Robles")
 
 El tacón de la bota de Italia, en una península dentro de otra península, es capaz de 
 reunir todos los **tópicos italianos**: los pulleses son fanfarrones, abiertos, 
@@ -34,7 +34,7 @@ baila al son de la **tarantela**, el ritmo sinuoso de la danza más popular de I
 puntillas e imitando a una tarántula, nos moveremos por la sorprendente Puglia (Apulia 
 en castellano), una joya viajera _slow_ todavía desapercibida para el gran público. 
 
-![Acceso a la Catedral de San Sabino, en Bari.](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-bari-catedral-900x675.jpg "Acceso a la Catedral de San Sabino, en Bari. © KR")
+![Acceso a la Catedral de San Sabino, en Bari.](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-bari-catedral.jpg "Acceso a la Catedral de San Sabino, en Bari. © KR")
 
 ## Encontrarás a Papá Noel
 
@@ -48,7 +48,7 @@ Sabino** y la pulcritud de la **Basilica di San Nicola**, un valioso centro de
 peregrinación para ortodoxos que acuden a encontrarse con las reliquias de **San 
 Nicolás**, el santo en el que se basa el mito de Papá Noel. 
 
-![basilica de san nicolas en Apulia](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-san-nicolas-900x675.jpg "Atardecer junto a la basílica de San Nicolás. ©KR")
+![basilica de san nicolas en Apulia](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-san-nicolas.jpg "Atardecer junto a la basílica de San Nicolás. ©KR")
 
 ## Amarás a Federico II sobre todas las cosas
 
@@ -59,7 +59,7 @@ poesía a las batallas, Federico II reformó y construyó nada menos que ciento 
 castillos en toda Apulia y Basilicata. El **Castel del Monte** es uno de los monumentos 
 más misteriosos de todo el país. La razón por la que lo construyó todavía es un enigma. 
 
-![castel del monte en Apulia](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-castel-exterior-900x630.jpg "Castel del Monte, Patrimonio Mundial de la Unesco desde 1996. ©KR")
+![castel del monte en Apulia](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-castel-exterior.jpg "Castel del Monte, Patrimonio Mundial de la Unesco desde 1996. ©KR")
 
 Tiene forma de **corona**, no es una fortaleza defensiva y, aunque el Castel del Monte 
 fue elevado sobre la **meseta de Murgia**, el lugar en el que se encuentra tampoco 
@@ -85,7 +85,7 @@ lomos de un delfín. Los desvencijados palacetes encalados que se yerguen junto 
 de Trani albergan coquetas _osterias_, _trattorias_ y _ristorantes_ cuya especialidad 
 son los mariscos de la zona. Date un capricho en **La Locanda della Via Larga**. 
 
-![Trani enPuglia.](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-trani-puerto-900x652.jpg "Trani es una de las ciudades más elegantes de Puglia. ©KR")
+![Trani enPuglia.](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-trani-puerto.jpg "Trani es una de las ciudades más elegantes de Puglia. ©KR")
 
 Federico II también ordenó construir el **Castillo Svevo de Trani**, que llama la 
 atención por su imponente ubicación junto al mar. Su estructura ha sufrido diversas 
@@ -104,7 +104,7 @@ que viajaba el botín naufragó. La corriente arrastró la estatua hasta la cost
 para descubrir las cámaras oscuras de su castillo, donde se produce un interesante juego 
 de sonidos y ecos. 
 
-![Plaza del Ayuntamiento, Ruvo di Puglia](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-ruvo-900x636.jpg "Plaza del Ayuntamiento en Ruvo di Puglia. ©KR")
+![Plaza del Ayuntamiento, Ruvo di Puglia](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-ruvo.jpg "Plaza del Ayuntamiento en Ruvo di Puglia. ©KR")
 
 ### Ruvo
 
@@ -118,7 +118,7 @@ enriquecido el arte de Apulia.
 > Por Puglia han pasado griegos, bizantinos, normandos, suevos, angevinos y aragoneses 
 > (los de la Corona de Aragón). 
 
-![Talos Festival](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-festival-talos-900x636.jpg "Un momento del Talos Festival. ©KR")
+![Talos Festival](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-festival-talos.jpg "Un momento del Talos Festival. ©KR")
 
 ## Participarás en la cultura en todas sus formas
 
@@ -140,7 +140,7 @@ callejera dirigido por Tommaso Scarimbolo y donde participan adolescentes de la 
 que tocan marimbas, vibráfonos, baterías y todo tipo de instrumentos creados con 
 material reciclado. 
 
-![cavatelli alle frutti di mare, gastronomia puglia](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-cavatelli-900x630.jpg "Deliciosos 'Cavatelli alle frutti di mare'. ©KR")
+![cavatelli alle frutti di mare, gastronomia puglia](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-cavatelli.jpg "Deliciosos 'Cavatelli alle frutti di mare'. ©KR")
 
 ## Comerás orejas y caballitos (y te encantarán)
 
@@ -156,7 +156,7 @@ _frutti di mare_.
 > Jamás verás a un italiano añadir queso parmesano a un plato de pasta con pescado o 
 > mariscos. 
 
-![playas de Bari](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-playa-900x675.jpg "En Bari, la capital de Puglia, también existen playas paradisíacas. ©KR")
+![playas de Bari](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-playa.jpg "En Bari, la capital de Puglia, también existen playas paradisíacas. ©KR")
 
 ## Guardarás el secreto de sus playas
 
@@ -198,7 +198,7 @@ referencias a la gastronomía tradicional pullesa.
 Pregunta por las _orecchiette alle cime di rapa_, la pasta de orejitas con grelos es el 
 plato más representativo de la región. 
 
-![](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-panoramica-bari-900x570.jpg "Skyline de Bari. ©KR")
+![](https://fotos.etheriamagazine.com/2019/11/viaje-puglia-panoramica-bari.jpg "Skyline de Bari. ©KR")
 
 ### Toma buena nota
 
@@ -216,7 +216,7 @@ de la Humanidad por la **UNESCO**.
 [Turismo de Italia 
 (ENIT)](http://www.italia.it/es/descubre-italia/apulia.html?no_cache=1&h=puglia) 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Caótica Nápoles: 48 horas en la ciudad más canalla de 
 Italia](https://etheriamagazine.com/2020/09/04/que-ver-en-napoles-en-fin-de-semana/) 

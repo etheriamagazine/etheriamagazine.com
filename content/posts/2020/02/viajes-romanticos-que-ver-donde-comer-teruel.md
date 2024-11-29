@@ -13,7 +13,7 @@ authors:
 Elisabeth G. Iborra, como buena aragonesa, nos cuenta sus lugares favoritos de Teruel y 
 dónde degustar sus sabores más auténticos. Arte y gastronomía se dan la mano. 
 
-![Escalinata neomudéjar de Teruel.](https://fotos.etheriamagazine.com/2020/01/Teruel-escalinata-900x600.jpg "Escalinata neomudéjar de Teruel.")
+![Escalinata neomudéjar de Teruel.](https://fotos.etheriamagazine.com/2020/01/Teruel-escalinata.jpg "Escalinata neomudéjar de Teruel.")
 
 No, no me he apuntado al carro del #YovoyaTeruel. Este lema, que surgió como reacción 
 ante el "boicot" a la abandonada provincia aragonesa, lo tuvo que gritar la plataforma 
@@ -28,7 +28,7 @@ cámara.
 En este artículo te contaremos qué ver en Teruel y sus restaurantes más recomendables. 
 Toma nota. 
 
-![Interior de la iglesia de San Pedro, en Teruel](https://fotos.etheriamagazine.com/2020/01/Teruel-Iglesia-San-Pedro-900x599.jpg "Iglesia de San Pedro. © Turismo de Teruel.")
+![Interior de la iglesia de San Pedro, en Teruel](https://fotos.etheriamagazine.com/2020/01/Teruel-Iglesia-San-Pedro.jpg "Iglesia de San Pedro. © Turismo de Teruel.")
 
 Cuentan que aquella estrella solo es una más de las millones que pueblan su firmamento 
 nocturno, por eso Teruel alberga la sede del **Centro de Estudios de Física del 
@@ -46,7 +46,7 @@ el amor de la mujer mora que les gustaba a ambos. Quien edificara la más bella 
 tiempo podría desposarla pero, cuando la fueron a lucir en público, Omar vio que la 
 torre de San Martín se le había torcido, así que subió y se precipitó al vacío. 
 
-![Torre de San Martín.](https://fotos.etheriamagazine.com/2020/01/Teruel-torres-900x635.jpg "Torre de San Martín. © Turismo de Teruel y Torre de El Salvador.")
+![Torre de San Martín.](https://fotos.etheriamagazine.com/2020/01/Teruel-torres.jpg "Torre de San Martín. © Turismo de Teruel y Torre de El Salvador.")
 
 Abdalá se quedó con Zoraida, y desde su **torre de El Salvador** se puede aprender todo 
 sobre la arquitectura mudéjar, el único tipo de arte exclusivamente español cuyo máximo 
@@ -62,7 +62,7 @@ mozárabe: mudéjar es el musulmán que vivió en el territorio cristiano de la 
 Ibérica durante la Reconquista, y mozárabe es el cristiano que vivió en territorio 
 musulmán. Morisco es el musulmán que residía en España cuando acabó la Reconquista. 
 
-![Catedral de Teruel.](https://fotos.etheriamagazine.com/2020/01/Teruel-catedral-809x1024.jpg "Catedral de Teruel.")
+![Catedral de Teruel.](https://fotos.etheriamagazine.com/2020/01/Teruel-catedral.jpg "Catedral de Teruel.")
 
 Pues bien, los mozárabes reivindicaron que podían construir, con materiales pobres como 
 yeso, madera y arcilla, virguerías arquitectónicas de tanta belleza o más que con la 
@@ -83,7 +83,7 @@ son quienes dan nombre a la Ciudad del Amor, a pesar de que los muy desdichados 
 llegaron a besarse, como se puede ver en la representación anual de las Bodas de Isabel 
 y en las figuras de sus tumbas, que no alcanzan a tocarse. 
 
-![Los Amantes de Teruel.](https://fotos.etheriamagazine.com/2020/01/Teruel-amantes-900x675.jpg "Los Amantes de Teruel.")
+![Los Amantes de Teruel.](https://fotos.etheriamagazine.com/2020/01/Teruel-amantes.jpg "Los Amantes de Teruel.")
 
 Por cierto, sus momias se conservan bastante bien para las vueltas que han dado en los 
 últimos siglos, pues han estado incluso a la intemperie y en vertical en el claustro de 
@@ -114,7 +114,7 @@ comer al **restaurante Método** (restaurantemetodo.es), con sus exquisitas carn
 distintas partes del atún, entre otras delicias creativas que te dejarán el paladar al 
 borde del llanto. 
 
-![Una cita gastronómica obligada, el Restaurante Método.](https://fotos.etheriamagazine.com/2020/02/restaurante-metodo-teruel-900x348.jpg "Una cita gastronómica obligada. © Restaurante Método.")
+![Una cita gastronómica obligada, el Restaurante Método.](https://fotos.etheriamagazine.com/2020/02/restaurante-metodo-teruel.jpg "Una cita gastronómica obligada. © Restaurante Método.")
 
 Si quieres hacer _shopping_ de productos autóctonos, pasa por la tienda _delicatessen_ 
 de la plaza del Torico a comprarte una paletilla de la **D.O. Jamón de Teruel**, 

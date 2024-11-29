@@ -123,7 +123,7 @@ Plaza de Celenque, 2. Madrid. Tel. +34 91 954 54 20
 
 © Fotografías cedidas por EDITION Hotels. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 tabernas históricas de Madrid donde tomar el 
 vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 

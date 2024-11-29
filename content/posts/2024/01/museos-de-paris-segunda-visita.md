@@ -78,7 +78,7 @@ te pierdas tampoco las obras de arte de este artista ubicadas en el jardín.
 Horario: de 10 a 18.30 h (lunes cerrado). Entradas al [Museo 
 Rodin](https://www.civitatis.com/es/paris/entrada-museo-rodin/?aid=10211). 
 
-!['El pensador' de Rodin en el Museo Rodin](https://fotos.etheriamagazine.com/2024/01/paris-musee-rodin-667x1000.jpg "'El pensador' de Rodin. © Richard Hedrick.")
+!['El pensador' de Rodin en el Museo Rodin](https://fotos.etheriamagazine.com/2024/01/paris-musee-rodin.jpg "'El pensador' de Rodin. © Richard Hedrick.")
 
 ## Museo Quai Branly-Jacques Chirac
 

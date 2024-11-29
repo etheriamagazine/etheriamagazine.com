@@ -18,7 +18,7 @@ en Kioto? ¿Hago una excursión a Hiroshima, Nara u Osaka? Hasta que decidas qu�
 hacerlo, te asaltarán multitud de dudas. Ya tienes los hoteles, pero ahora ¿qué y dónde 
 voy a comer allí? 
 
-![Restaurante Sushi Iwa.](https://fotos.etheriamagazine.com/2018/10/viaje-japon-Sushi-Iwa-1024x768.jpg "Restaurante Sushi Iwa.")
+![Restaurante Sushi Iwa.](https://fotos.etheriamagazine.com/2018/10/viaje-japon-Sushi-Iwa.jpg "Restaurante Sushi Iwa.")
 
 Teniendo en cuenta que es uno de los países más poblados del mundo –la capital ya tiene 
 9,2 millones de habitantes– imagina el número de restaurantes que puede haber. Sólo te 
@@ -27,7 +27,7 @@ decimos que **en Tokio, hay más de 20.000**. Ante tales números, la tarea de e
 estado en el país y lo hemos recorrido de norte a sur y de este a oeste y esto es lo que 
 te podemos contar en Etheria Magazine... ¿Nos comemos Japón? 
 
-![Escena callejera y un aperitivo de takoyaki.](https://fotos.etheriamagazine.com/2018/10/Comida-callejera-japon-1024x667.jpg "Escena callejera y un aperitivo de takoyaki.")
+![Escena callejera y un aperitivo de takoyaki.](https://fotos.etheriamagazine.com/2018/10/Comida-callejera-japon.jpg "Escena callejera y un aperitivo de takoyaki.")
 
 > Partamos de la base de que la cocina japonesa es harto conocida alrededor del mundo. De 
 > una u otra forma, han llegado hasta nosotros sus ingredientes y formas de prepararlos. 
@@ -43,7 +43,7 @@ más altas esferas sociales. Pero hoy en día vivimos en tiempos de globalizaci�
 podemos acceder a aquello que está al alcance de nuestra mano y no hay más restricciones 
 que las que dictan tus propios gustos. 
 
-![sashimi de atún](https://fotos.etheriamagazine.com/2018/10/viaje-japon-Sushi-Iwa-1-931x1024.jpg "El restaurante Sushi Iwa es uno de los mejores de Tokio.")
+![sashimi de atún](https://fotos.etheriamagazine.com/2018/10/viaje-japon-Sushi-Iwa-1.jpg "El restaurante Sushi Iwa es uno de los mejores de Tokio.")
 
 ## Qué comer en Japón, platos esenciales
 
@@ -72,7 +72,7 @@ para nosotros.
 Tokio**, tres de los mejores restaurantes en los que cambiar para siempre tu percepción 
 sobre el sushi. 
 
-![La sopa ramen lleva distintas carnes, huevo cocido, bambú y fideos, entre otros ingredientes.](https://fotos.etheriamagazine.com/2018/10/viaje-japon-Ramen-1024x768.jpg "La sopa ramen lleva distintas carnes, huevo cocido, bambú y fideos, entre otros ingredientes.")
+![La sopa ramen lleva distintas carnes, huevo cocido, bambú y fideos, entre otros ingredientes.](https://fotos.etheriamagazine.com/2018/10/viaje-japon-Ramen.jpg "La sopa ramen lleva distintas carnes, huevo cocido, bambú y fideos, entre otros ingredientes.")
 
 ### El ramen, la sopa más popular
 
@@ -86,7 +86,7 @@ Ello ha hecho que sea uno de sus platos más populares.
 expendedora –algunos de ellos hasta con estrella Michelin– hasta sitios especializados 
 como **Nagi**, en Tokio, en la curiosa zona del Goden Gai o **Inoichi** en Kioto. 
 
-![Tempura, en Endo Yasaka; carne de kobe; y Sushi, en So Masa.](https://fotos.etheriamagazine.com/2018/10/Tempura-Endo-Yasaka-sushi-so-masa-kobe-1024x690.jpg "Tempura, en Endo Yasaka; carne de kobe; y Sushi, en So Masa.")
+![Tempura, en Endo Yasaka; carne de kobe; y Sushi, en So Masa.](https://fotos.etheriamagazine.com/2018/10/Tempura-Endo-Yasaka-sushi-so-masa-kobe.jpg "Tempura, en Endo Yasaka; carne de kobe; y Sushi, en So Masa.")
 
 ### Carne de wagyu para las más carnívoras
 
@@ -99,7 +99,7 @@ uno de los mejores sitios en los que hacerlo.
 Hyogo, podrás paladear diferentes cortes de kobe A4 o A5 que se diferencian en su 
 infiltración de grasa y marmoleado. ¡Una verdadera delicia! 
 
-![Tempura y fideos de Japón](https://fotos.etheriamagazine.com/2018/10/viaje-japon-Soba-y-tempura-819x1024.jpg "En la cocina japonesa no faltan los fideos soba ni la tempura.")
+![Tempura y fideos de Japón](https://fotos.etheriamagazine.com/2018/10/viaje-japon-Soba-y-tempura.jpg "En la cocina japonesa no faltan los fideos soba ni la tempura.")
 
 ### Las tempuras tienen raíces portuguesas
 

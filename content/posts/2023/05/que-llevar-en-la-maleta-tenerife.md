@@ -162,7 +162,7 @@ a la isla de Tenerife](https://amzn.to/423iOl9)_, de Anaya, son una buena elecci
 
 ![Guías de viaje de Tenerife.](https://fotos.etheriamagazine.com/2023/05/tenerife-guias-viaje.jpg "Guías de viaje de Tenerife.")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Guía esencial de Tenerife: 15 imprescindibles en tus 
 vacaciones](https://etheriamagazine.com/2023/01/18/que-ver-en-tenerife/) 

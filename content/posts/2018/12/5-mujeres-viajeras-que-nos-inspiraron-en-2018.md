@@ -23,13 +23,13 @@ Tanto nos inspiró su historia que ha dado nombre a esta revista de viajes dirig
 
 En este artículo sobre [George Sand](https://etheriamagazine.com/2018/05/16/mallorca-de-la-mano-de-george-sand/) nuestra colaboradora Pilar Ortega nos mostró el perfil de esta escritora parisina del siglo XIX que vivió en la isla con su pareja Frederic Chopin entre 1838-1839. George Sand escribió _Un invierno en Mallorca_, un libro donde deja constancia de los paisajes de la isla y de los mallorquines, de los que no pareció entender sus costumbres.
 
-![](https://fotos.etheriamagazine.com/2018/05/George-Sand-y-Mallorca-767x1024.jpg)
+![](https://fotos.etheriamagazine.com/2018/05/George-Sand-y-Mallorca.jpg)
 
 ##### [3\. Stepanie Hempel y el Hamburgo de los Beatles.](https://etheriamagazine.com/2018/07/11/stefanie-hempel-y-el-hamburgo-de-los-beatles/)
 
 Esta entusiasta alemana ha conseguido contagiar a cientos de personas su amor por los Beatles y su música a través del [Tour Stefaine Hempel](https://etheriamagazine.com/2018/07/11/stefanie-hempel-y-el-hamburgo-de-los-beatles/) con el que ilustra sobre los comienzos de la banda británica en Hamburgo. Nuestra colaboradora Manena Munar nos trajo el perfil de esta divertida mujer que realiza esta visita guiada por la ciudad ukelele en mano.
 
-\[caption id="attachment\_2204" align="aligncenter" width="1024"\]![Tour hamburgo the beatles](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5-1024x683.jpg) Stefanie Hempel realiza el tour del Hamburgo de los Beatles.\[/caption\]
+\[caption id="attachment\_2204" align="aligncenter" width="1024"\]![Tour hamburgo the beatles](https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg) Stefanie Hempel realiza el tour del Hamburgo de los Beatles.\[/caption\]
 
 ##### [4\. Sofía Casanova, una poetisa gallega en Polonia](https://etheriamagazine.com/2018/09/10/la-poetisa-sofia-casanova-una-gallega-en-polonia/)
 
@@ -41,4 +41,4 @@ Nos ganó esta historia en cuanto llegó a nuestras manos. Por valiente, por cul
 
 Una historia de esas que te demuestran que no puedes hacer planes a largo plazo y que la vida te puede sorprender con un cambio de rumbo. [Elisabeth Pasalk](https://etheriamagazine.com/2018/12/10/elizabeth-pasalk-y-gwango-en-el-p-n-de-hwange-zimbabue/), de padre alemán y madre zimbabuense, dejó su cómoda vida en Estados Unidos para cumplir una promesa que hizo a su madre: hacerse cargo de los elefantes que vivían en Gwango. Será difícil que no te conmueva esta historia.
 
-\[caption id="attachment\_5754" align="aligncenter" width="1024"\]![](https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria-1024x688.jpg) Elizabeth, del lodge de Zimbabue.\[/caption\]
+\[caption id="attachment\_5754" align="aligncenter" width="1024"\]![](https://fotos.etheriamagazine.com/2018/12/Elizabet-lodge-zinbabue-mujer-etheria.jpg) Elizabeth, del lodge de Zimbabue.\[/caption\]

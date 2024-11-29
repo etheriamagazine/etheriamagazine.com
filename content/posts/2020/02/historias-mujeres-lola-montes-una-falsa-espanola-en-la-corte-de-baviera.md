@@ -16,7 +16,7 @@ biografía, fue mucho más que una ambiciosa cortesana. Estamos ante una mujer i
 su tiempo (Grange, Irlanda, 1821 – Nueva York, 1861) que se puso el mundo por montera y 
 lo recorrió en busca de sus sueños. 
 
-![Lola Montes, Luis I de Baviera](https://fotos.etheriamagazine.com/2020/01/lola-montez-ludwig-bavaria-900x583.jpg "Lola Montes y Luis I de Baviera.")
+![Lola Montes, Luis I de Baviera](https://fotos.etheriamagazine.com/2020/01/lola-montez-ludwig-bavaria.jpg "Lola Montes y Luis I de Baviera.")
 
 Cruzó el mundo de punta a punta en solitario, actuó en los más importantes teatros de 
 Europa y Estados Unidos, se inventó la nacionalidad española para bailar flamenco en 
@@ -40,7 +40,7 @@ bailarina de flamenco y se inventó el nombre de Lola Montes para triunfar en lo
 escenarios del mundo, desde el Bolshoi de Moscú hasta la Ópera de Múnich, en un momento 
 en que el exotismo de España estaba de moda. 
 
-![Acuarela de Lola Montes](https://fotos.etheriamagazine.com/2020/01/Lola-Montez-ballet-666x1024.jpg "Lola Montes logró triunfar en escenarios de todo el mundo.")
+![Acuarela de Lola Montes](https://fotos.etheriamagazine.com/2020/01/Lola-Montez-ballet.jpg "Lola Montes logró triunfar en escenarios de todo el mundo.")
 
 ## Siempre a contracorriente
 
@@ -78,7 +78,7 @@ Este último, con quien mantuvo una breve relación sentimental, le puso en cont
 otra mujer pasional, George Sand, que por entonces vivía un romance con el compositor 
 Chopin. 
 
-![palacio ninfas en munich](https://fotos.etheriamagazine.com/2020/01/palacio-ninfas-munich-900x526.jpg "Palacio de verano de Nymphenburg (Múnich).")
+![palacio ninfas en munich](https://fotos.etheriamagazine.com/2020/01/palacio-ninfas-munich.jpg "Palacio de verano de Nymphenburg (Múnich).")
 
 ## Un monarca depuesto
 
@@ -135,7 +135,7 @@ de la Historia, que fue, por cierto, un auténtico best-seller: '[Las artes de l
 belleza'](https://play.google.com/store/books/author?id=Lola+MONTEZ+%28Countess+von+Landsfeld.%29) 
 **o consejos de tocados de la condesa de Landsfeld**'. 
 
-![puente de Brooklyn](https://fotos.etheriamagazine.com/2020/01/puente-brooklyn-900x598.jpg "La tumba de Lola Montes se puede visitar en un cementerio de Brooklyn (Nueva York).")
+![puente de Brooklyn](https://fotos.etheriamagazine.com/2020/01/puente-brooklyn.jpg "La tumba de Lola Montes se puede visitar en un cementerio de Brooklyn (Nueva York).")
 
 ## Pobre, sola y en la calle
 

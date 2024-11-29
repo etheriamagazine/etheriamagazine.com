@@ -43,11 +43,11 @@ mismísimo Tajo, se plantearon serios problemas de financiación. Finalmente a f
 construcción fascinante, que ha sido plató cinematográfico, prisión, mesón y en la 
 actualidad un centro de interpretación sobre su fascinante historia. 
 
-? [Free tour por Ronda](https://www.civitatis.com/es/ronda/free-tour-ronda/?aid=10211) 
+📌 [Free tour por Ronda](https://www.civitatis.com/es/ronda/free-tour-ronda/?aid=10211) 
 para situarte antes de recorrerlo por tu cuenta. 
 
-? [Visita guiada](https://www.civitatis.com/es/ronda/visita-guiada-ronda/?aid=10211) por 
-Ronda con los lugares más emblemáticos (10 €). 
+📌 [Visita guiada](https://www.civitatis.com/es/ronda/visita-guiada-ronda/?aid=10211) 
+por Ronda con los lugares más emblemáticos (10 €). 
 
 ## Ronda. Algo viejo
 

@@ -59,7 +59,7 @@ aseguramos que descubrirás algo nuevo donde detener la mirada. Aquí todas las
 habitaciones y suites tienen vistas al mar. En esta zona podrás escoger alojarte entre 
 las Deluxe Rooms, las Executives Suites y las Prince Suites. 
 
-![Galería en la zona de Arabian Court.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Arabian-Court-Grand-Gallery-683x1024.jpg "Galería en la zona de Arabian Court.")
+![Galería en la zona de Arabian Court.](https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Arabian-Court-Grand-Gallery.jpg "Galería en la zona de Arabian Court.")
 
 #### Residence & Spa
 

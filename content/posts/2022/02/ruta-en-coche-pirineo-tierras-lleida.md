@@ -1,5 +1,5 @@
 ---
-title: "Ruta en coche por el Pirineo y las Tierras de Lleida"
+title: "Grand Tour de Cataluña por el Pirineo y las Tierras de Lleida"
 date: 2022-02-07
 coverImage: https://fotos.etheriamagazine.com/2022/02/Grand-Tour-de-Catalunya-lleida.jpg
 categories: 
@@ -13,6 +13,8 @@ oferta cultural y de “acción”. ¿Te apetece conocer los lugares más emblem
 noroeste catalán? Aquí encontrarás un recorrido muy completo con sus paradas detalladas. 
 
 ![Coche del Grand Tour de Catalunya en Tierras de Lleida](https://fotos.etheriamagazine.com/2022/02/Grand-Tour-de-Catalunya-lleida.jpg "El Grand Tour de Catalunya transcurre por carreteras secundarias. © Pedro Grifol")
+
+Actualizado en julio 2024 
 
 La naturaleza en estado puro salpicada de pueblos con encanto y hoteles con ambiente 
 familiar donde reina la gastronomía tradicional son dos de los sellos de identidad de 
@@ -46,7 +48,7 @@ saqueo y ruina, ahora se encuentra ya ¡por fin! rehabilitada. Destaca el bellí
 **claustro gótico** de proporciones gigantescas, desde el que se accede al campanario 
 por una escalera de caracol. 
 
-![la seu vella catedral de lleida](https://fotos.etheriamagazine.com/2022/02/lleida-La-Seu-Vella-718x1024.jpg "La Seu Vella, de Lleida. © Pedro Grifol")
+![la seu vella catedral de lleida](https://fotos.etheriamagazine.com/2022/02/lleida-La-Seu-Vella.jpg "La Seu Vella, de Lleida. © Pedro Grifol")
 
 Consagrada en 1287, en esta catedral se celebró la boda, de gran repercusión histórica 
 para Cataluña, entre el conde Ramón Berenguer IV de Barcelona y Petronila de Aragón, 
@@ -101,7 +103,7 @@ presbiterio del ábside central a la iglesia de St. Climent de Taüll, con la fi
 mayestática del Pantocrátor presidiendo la coreografía celestial… Puede que os sintáis 
 transportados a otra dimensión. 
 
-![parque nacional aiguestortes de lleida](https://fotos.etheriamagazine.com/2022/02/vistas-Parque-Nacional-Aiguestortes-744x1024.jpg "Parque Nacional de Aigüestortes y Estany de St. Maurici. © Pedro Grifol")
+![parque nacional aiguestortes de lleida](https://fotos.etheriamagazine.com/2022/02/vistas-Parque-Nacional-Aiguestortes.jpg "Parque Nacional de Aigüestortes y Estany de St. Maurici. © Pedro Grifol")
 
 ## Parque Nacional de Aigüestortes y Estany de St. Maurici
 
@@ -122,7 +124,7 @@ pegada al curso del torrente (con cascadas y pozas) que pasa por el Salt de l’
 En resumen: un ‘baño de bosque’ reconfortante en un entorno privilegiado en armonía con 
 los sentidos. 
 
-![viella pueblo del valle de aran en lleida](https://fotos.etheriamagazine.com/2022/02/Viella-Val-de-Aran-712x1024.jpg "Viella, un bonito pueblo del Val d'Aran. © Turismo Cataluña")
+![viella pueblo del valle de aran en lleida](https://fotos.etheriamagazine.com/2022/02/Viella-Val-de-Aran.jpg "Viella, un bonito pueblo del Val d'Aran. © Turismo Cataluña")
 
 ## Viella y otros pueblecitos
 
@@ -188,7 +190,18 @@ pensar en cerrar el bucle viajero volviendo al punto de partida: Lleida.
 
 ![Grafiti en pueblo baro](https://fotos.etheriamagazine.com/2022/02/Baro-grand-tour-catalunya.jpg ""Que només els petons ens tapin la boca", grafiti en el pueblo de Baro. © Pedro Grifol")
 
-## Guía exprés de la Ruta en coche por el Pirineo y las Tierras de Lleida
+## Viaje sonoro con Radio Viajera
+
+**Continúa conociendo el Grand Tour de Cataluña** en formato sonoro a través de los 
+podcast de Radio Viajera. Aprender y disfrutar está a sólo un clic, y lo puedes hacer en 
+cualquier momento y lugar. A continuación te invitamos a escuchar el podcast más 
+sabroso: "**Un viaje, muchos caminos**" dedicado a los productos gastronómicos más 
+emblemáticos de los cinco tramos del Grand Tour de Cataluña. Haz clic en la siguiente 
+imagen. 
+
+[![Programa de Radio Viajera dedicado a la gastronomia del Grand Tour en Etheria Magazine](https://fotos.etheriamagazine.com/2022/02/radio-viajera-gastro-grand-tour.jpg)](https://radioviajera.com/un-viaje,-muchos-caminos.-ep---01/)
+
+## Guía del Pirineo y las Tierras de Lleida
 
 ### Gastronomía leridana
 
@@ -224,10 +237,7 @@ Pessets, en Sort; y Can Mariano, en Baro.
 
 No tendrás problema para encontrar alojamiento en el transcurso de esta ruta en coche 
 por el Pirineo y Tierras de Lleida. Echa un vistazo a los siguientes establecimientos: 
-
-**Taüll (Vall de Boí)**: Hotel Rantiner. 
-
-**(Val d’Aran)**: Hotel Albares. 
+En **Taüll (Vall de Boí)**, el Hotel Rantiner, y en **Val d’Aran**, el Hotel Albares. 
 
 Más información en [Grand Tour de 
 Catalunya](http://www.grandtourcatalunya.com/?lang=es). 

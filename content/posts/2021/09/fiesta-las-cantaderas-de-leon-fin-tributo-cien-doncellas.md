@@ -16,7 +16,7 @@ musulmanes con la que se acabó con el tributo de las cien doncellas. El 2 de oc
 tienes una cita en León para vivir esta fiesta de Interés Turístico Regional en primera 
 persona. 
 
-![sotadera y doncellas las cantaderas leon](https://fotos.etheriamagazine.com/2021/09/doncellas-fiesta-cantaderas-705x1024.jpg "La sotadera encabeza el desfile de las jóvenes doncellas.")
+![sotadera y doncellas las cantaderas leon](https://fotos.etheriamagazine.com/2021/09/doncellas-fiesta-cantaderas.jpg "La sotadera encabeza el desfile de las jóvenes doncellas.")
 
 León se llena de música, color, danza y fuego cada año para celebrar la **Fiesta de las 
 Cantaderas**. Cuando el otoño recién se ha posado por estas tierras de carácter firme y 

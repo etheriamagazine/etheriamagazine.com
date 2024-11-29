@@ -42,7 +42,7 @@ convierten en los protagonistas del viaje. Estarás deseando coger las gafas y e
 para hacer esnórquel frente a tu habitación. Por no hablar de la excursiones para bucear 
 y ver todo tipo de especies marinas. 
 
-? Si te gustan los deportes activos sigue leyendo ['Maldivas, ¿quién dijo luna de 
+📌 Si te gustan los deportes activos sigue leyendo ['Maldivas, ¿quién dijo luna de 
 miel?'](https://etheriamagazine.com/2018/10/16/islas-maldivas-lunas-de-miel-y-deportes-activos-para-mujeres/) 
 
 ## Las villas
@@ -164,7 +164,7 @@ que ofrece un programa de actividades de lo más completo para que no se aburran
 momento. Incluso pueden cenar en el club mientras tú disfrutas de una cena con adultos 
 en el restaurante que elijas. 
 
-![Burbuja para la Dream Eclipse Experience](https://fotos.etheriamagazine.com/2020/09/burbujas-finolhu-maldivas-900x600.jpg "Burbuja para la Dream Eclipse Experience.")
+![Burbuja para la Dream Eclipse Experience](https://fotos.etheriamagazine.com/2020/09/burbujas-finolhu-maldivas.jpg "Burbuja para la Dream Eclipse Experience.")
 
 ### Una experiencia romántica
 

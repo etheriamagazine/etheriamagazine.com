@@ -58,7 +58,7 @@ A la singularidad de ser el único de conglomerado –lo comprobarás por las pi
 incrustadas en la roca– suma su origen legendario porque el mítico forzudo lo lanzó 
 desde un otero a 2 kilómetros. 
 
-![orquideas salvajes valle valdeolea cantabria](https://fotos.etheriamagazine.com/2021/06/valdeolea-orquidea-salvaje-683x1024.jpg "Orquídeas salvajes en el valle de Valdeolea.")
+![orquideas salvajes valle valdeolea cantabria](https://fotos.etheriamagazine.com/2021/06/valdeolea-orquidea-salvaje.jpg "Orquídeas salvajes en el valle de Valdeolea.")
 
 ### 2\. Rodéate de flores
 
@@ -70,7 +70,7 @@ o _lirones_, como los denominan en la zona. Busca la gran variedad de **orquíde
 silvestres primaverales y abraza el púrpura de los **jacintos** estrellados en los 
 hayedos. 
 
-![iglesia de Santa María la Mayor en Villacantid valdeolea](https://fotos.etheriamagazine.com/2021/06/valdeolea-iglesia-medieval-711x1024.jpg "Iglesia de Santa María la Mayor en Villacantid.")
+![iglesia de Santa María la Mayor en Villacantid valdeolea](https://fotos.etheriamagazine.com/2021/06/valdeolea-iglesia-medieval.jpg "Iglesia de Santa María la Mayor en Villacantid.")
 
 ### 3\. Capta la onda medieval de Valdeolea
 
@@ -144,7 +144,7 @@ en **Las Henestrosas de las Quintanillas**, pero aquí más allá de motivos rel
 estelas medievales y en sus frescos no faltan detalles con guiños a lo popular, como un 
 músico tocando la vihuela. 
 
-![Torre de San Martin de Hoyos](https://fotos.etheriamagazine.com/2021/06/torre-valle-valdeolea-683x1024.jpg "Torre de San Martín de Hoyos.")
+![Torre de San Martin de Hoyos](https://fotos.etheriamagazine.com/2021/06/torre-valle-valdeolea.jpg "Torre de San Martín de Hoyos.")
 
 ### 8\. Vigila desde la Torre de San Martín de Hoyos
 

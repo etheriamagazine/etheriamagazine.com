@@ -104,7 +104,7 @@ Católicos**, entre muchos otros cuadros de gran valor que custodian las religio
 agustinas residentes aquí actualmente y que proceden, en gran parte, del convento de 
 Extramuros. Esta visita es imprescindible en Madrigal de las Altas Torres. 
 
-? Visitas guiadas por la congregación (información en oficina de turismo): de martes a 
+📌 Visitas guiadas por la congregación (información en oficina de turismo): de martes a 
 sábado Mañanas: 11.30 horas. Tardes: 16 y 17 horas. Domingos y festivos Mañanas: 11.45 
 horas. Tardes: 16 y 17 horas. (Lunes cerrado). 
 
@@ -123,9 +123,9 @@ se casaron en esta iglesia, **donde bautizaron a su hija Isabel la Católica**. 
 el imponente artesonado mudéjar, la conservación del retablo principal, así como los 
 cristos de pasta de caña de maíz traídos expresamente de México. 
 
-? Visitas guiadas previo aviso a voluntarias. De martes a sábado. Mañanas: 12.15 y 13.15 
-horas. Tardes: 18.30 horas. Domingos y festivos. Mañanas: 12.45 a 13.45 horas. Tardes: 
-18.00 horas (lunes cerrado). 
+📌 Visitas guiadas previo aviso a voluntarias. De martes a sábado. Mañanas: 12.15 y 
+13.15 horas. Tardes: 18.30 horas. Domingos y festivos. Mañanas: 12.45 a 13.45 horas. 
+Tardes: 18.00 horas (lunes cerrado). 
 
 ![iglesia san nicolas de bari](https://fotos.etheriamagazine.com/2022/02/Iglesia-San-Nicolas-de-Bari.jpg "Iglesia de San Nicolás Bari. © Carmen Pineda")
 
@@ -152,8 +152,8 @@ Gracia y la muralla. En la capilla, se encuentra la imagen más venerada de la v
 _Santísimo Cristo de las Injurias_. El real Hospital está también en las **_Rutas de 
 Isabel La Católica y de Don Vasco de Quiroga_**. 
 
-? Horarios Oficina de Turismo: de martes a sábado. Mañanas: de 10 a 14 horas. Tardes: de 
-16 a 19 horas. Domingos Mañanas: de 10 a 14 horas. Domingos tarde y lunes cerrado. 
+📌 Horarios Oficina de Turismo: de martes a sábado. Mañanas: de 10 a 14 horas. Tardes: 
+de 16 a 19 horas. Domingos Mañanas: de 10 a 14 horas. Domingos tarde y lunes cerrado. 
 Martes sólo grupos concertados previamente. 
 
 ![escultura isabel la catolica en madrigal de las altas torres](https://fotos.etheriamagazine.com/2022/02/Isabel-catolica-madrigal.jpg "Isabel la Católica, en Madrigal de las Altas Torres.")
@@ -169,7 +169,7 @@ hoy el claustro abierto es utilizado para la realización de recitales de poesí
 teatrales, y otros eventos culturales de la localidad en los meses de verano. La visita 
 está integrada en la _**Ruta de Isabel La Católica**_. 
 
-? Visitas guiadas previa cita con la Oficina de Turismo. 
+📌 Visitas guiadas previa cita con la Oficina de Turismo. 
 
 ![convento extramuros de madrigal](https://fotos.etheriamagazine.com/2022/02/Convento-de-extramuros-de-Madrigal.jpg "Convento situado a extramuros de Madrigal de las Altas Torres. © Tatavasco Imágenes.")
 
@@ -184,7 +184,7 @@ Vino de Rueda**_. La visita, organizada por la Oficina de Turismo, incluye la pr
 de un audiovisual y una degustación en la sala habilitada para ello. Vale la pena 
 visitar esta bodega en tu excursión a Madrigal de las Altas Torres. 
 
-? Visitas concertadas a través de la Oficina de Turismo. 
+📌 Visitas concertadas a través de la Oficina de Turismo. 
 
 ![interior bodega de los frailes](https://fotos.etheriamagazine.com/2022/02/Interior-de-la-Bodega-de-los-Frailes.jpg "Interior de la Bodega de los Frailes. © Carmen Pineda")
 
@@ -213,9 +213,9 @@ llegado a la Segunda Audiencia o en viajar a España –su último viaje cumplid
 años, un anciano para la época, para defender su proyecto–. No hay que perderse su 
 legado en este museo que resulta muy entretenido. 
 
-? Las visitas se conciertan en la Oficina de Turismo. 
+📌 Las visitas se conciertan en la Oficina de Turismo. 
 
-![bodega de los frailes Madrigal de las Altas Torres](https://fotos.etheriamagazine.com/2022/02/madrigal-Bodega-de-los-Frailes-897x1024.jpg "Bodega de los Frailes. © Carmen Pineda")
+![bodega de los frailes Madrigal de las Altas Torres](https://fotos.etheriamagazine.com/2022/02/madrigal-Bodega-de-los-Frailes.jpg "Bodega de los Frailes. © Carmen Pineda")
 
 ### 9\. Centro de Interpretación de la Naturaleza de la comarca de La Moraña
 

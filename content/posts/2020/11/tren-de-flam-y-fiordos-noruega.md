@@ -150,7 +150,7 @@ tren hay que hacerlo por la mañana porque oscurece muy pronto.
 Más información y reservas en [Norways 
 best](https://www.norwaysbest.com/es/el-tren-de-flam/viaje-de-ida-y-vuelta-con-el-tren-de-flam/). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [11 razones por las que deberías viajar a 
 Noruega](https://etheriamagazine.com/2018/12/13/razones-para-viajar-a-noruega/) 

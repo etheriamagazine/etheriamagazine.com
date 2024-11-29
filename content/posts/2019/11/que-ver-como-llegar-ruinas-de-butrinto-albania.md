@@ -14,7 +14,7 @@ negar. Pero es precisamente allí, entre hermosas calas de azules turquesas y
 chiringuitos a pie de orilla, donde se alzan las ruinas de Butrinto. Este **complejo 
 arqueológico es** el más visitado del país. 
 
-![Teatro de las ruinas de Butrinto.](https://fotos.etheriamagazine.com/2019/11/ruinas-butrinto-albania-900x614.jpg "Teatro de las ruinas de Butrinto. ©PB")
+![Teatro de las ruinas de Butrinto.](https://fotos.etheriamagazine.com/2019/11/ruinas-butrinto-albania.jpg "Teatro de las ruinas de Butrinto. ©PB")
 
 En paralelo a la costa y frente al perfil de la **vecina isla de Corfú**, la carretera 
 que recorre los escasos cinco kilómetros que separan la turística ciudad de **Ksamil** 
@@ -27,7 +27,7 @@ destacable. El porqué, te lo decimos en cifras: más de 800 especies de plantas
 especies de aves, 105 especies de peces y hasta 39 especies de mamíferos pueblan el 
 espacio. No está nada mal, ¿no crees? 
 
-![Entrada al teatro de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-entrada-a-teatro-butrinto-900x600.jpg "Entrada al teatro de Butrinto (Albania).")
+![Entrada al teatro de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-entrada-a-teatro-butrinto.jpg "Entrada al teatro de Butrinto (Albania).")
 
 ## Por qué visitar las ruinas de Butrinto
 
@@ -44,7 +44,7 @@ Maria Ugolini. Aquello duró una década, hasta finales de 1940, y fue tras la I
 Mundial que el trabajo se retomó, aunque en esta ocasión a manos del Centro Albanés de 
 Arqueología, que continúa trabajando el terreno a día de hoy. 
 
-![Torre veneciana de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-torre-veneciana-Butrinto-900x600.jpg "Torre veneciana de Butrinto (Albania).")
+![Torre veneciana de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-torre-veneciana-Butrinto.jpg "Torre veneciana de Butrinto (Albania).")
 
 ## Cómo visitar las ruinas
 
@@ -67,7 +67,7 @@ de ahí que unos y otros se disputaran su posesión continuamente. Precisamente 
 posible contemplarlas en el **Museo de la Ciudad Antigua**, en el castillo del siglo 
 XIII que corona el complejo. Su visita, por cierto, es todo un _must_. 
 
-![Teatro de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-Teatro-Butrinto-900x600.jpg "Teatro de Butrinto (Albania). ©Cristina Fernández")
+![Teatro de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-Teatro-Butrinto.jpg "Teatro de Butrinto (Albania). ©Cristina Fernández")
 
 ### El teatro griego de Butrinto
 
@@ -91,7 +91,7 @@ que algunos restos de la muralla defensiva que en su día protegió la ciudad.
 Precisamente una de sus puertas, la que daba acceso al lago Butrinto, se ha conservado 
 hasta la actualidad. 
 
-![Baptisterio del siglo VI, de las ruinas de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-ruinas-butrinto-Baptisterio-siglo-VI-900x600.jpg "Baptisterio del siglo VI, de las ruinas de Butrinto (Albania). ©C.F.")
+![Baptisterio del siglo VI, de las ruinas de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-ruinas-butrinto-Baptisterio-siglo-VI.jpg "Baptisterio del siglo VI, de las ruinas de Butrinto (Albania). ©C.F.")
 
 ### Termas, villas, puentes
 
@@ -115,7 +115,7 @@ solo podrás contemplar una fotografía en el museo, ya que el original se halla
 de arena para evitar así su deterioro-. Dicen, por cierto, que se trató del segundo 
 baptisterio más grande al este de Roma después de Santa Sofía. Ahí es nada. 
 
-![Gran Basílica de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-gran-basilica-butrinto-900x600.jpg "Gran Basílica de Butrinto (Albania). ©C.F.")
+![Gran Basílica de Butrinto (Albania).](https://fotos.etheriamagazine.com/2019/11/albania-gran-basilica-butrinto.jpg "Gran Basílica de Butrinto (Albania). ©C.F.")
 
 ### Gran Basílica
 
@@ -133,7 +133,7 @@ día significó Butrinto. Atraviesa la **famosa Puerta del León**, uno de los e
 lugar, y alcanza la zona más alta de la colina: aquella donde se situó en el pasado la 
 **mítica Acrópolis**. 
 
-![Vistas del lago de Butrinto.](https://fotos.etheriamagazine.com/2019/11/albania-vistas-del-Lago-Butrinto-900x600.jpg "Vistas del lago de Butrinto. © C.F.")
+![Vistas del lago de Butrinto.](https://fotos.etheriamagazine.com/2019/11/albania-vistas-del-Lago-Butrinto.jpg "Vistas del lago de Butrinto. © C.F.")
 
 Una vez arriba, tocará respirar hondo. Quizás se trate de la zona más impersonal: junto 
 al castillo del siglo XIII que alberga el museo se encuentra una cafetería, los baños 

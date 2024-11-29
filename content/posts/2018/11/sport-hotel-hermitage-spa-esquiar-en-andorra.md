@@ -15,7 +15,7 @@ seguro que todas son buenas. Pero reconozcámoslo, si puedes hacerlo en un hotel
 donde cuidan de cada pequeño detalle que rodea a este deporte y a tu estancia y, además, 
 cuenta con un spa increíble, ¿te lo vas a negar? 
 
-![Exterior del Sport Hotel Hermitage & Spa.](https://fotos.etheriamagazine.com/2018/10/hermitage-exterior-invierno-1024x682.jpg "Exterior del Sport Hotel Hermitage & Spa.")
+![Exterior del Sport Hotel Hermitage & Spa.](https://fotos.etheriamagazine.com/2018/10/hermitage-exterior-invierno.jpg "Exterior del Sport Hotel Hermitage & Spa.")
 
 El esquí es un deporte que lleva asociado un aura de esfuerzo y sufrimiento que suele 
 compensarse con el placer de deslizarse por la nieve entre paisajes increíbles a la vez 
@@ -30,7 +30,7 @@ los deportes de invierno. Además, si te toca acompañar en un viaje de esquí p
 esquiadora, te aseguro que no te importará que todos suban a las pistas de Granvalira 
 mientras te quedas disfrutando de sus instalaciones. 
 
-![Una de las piscinas del Sport Wellness Mountain Spa.](https://fotos.etheriamagazine.com/2018/10/hermitage-spa-1024x748.jpg "Una de las piscinas del Sport Wellness Mountain Spa.")
+![Una de las piscinas del Sport Wellness Mountain Spa.](https://fotos.etheriamagazine.com/2018/10/hermitage-spa.jpg "Una de las piscinas del Sport Wellness Mountain Spa.")
 
 ## Un recibimiento de lujo
 
@@ -53,7 +53,7 @@ en forma de “u” rodeada de pequeños rincones con sillones donde sentarse a 
 descansar. Cualquier espacio del hotel invita a coger un libro para disfrutar de la 
 lectura. 
 
-![Bar del Sport Hotel Hermitage & Spa](https://fotos.etheriamagazine.com/2018/10/hermitage-glassbar-1024x681.jpg "Barra del Glassbar 1.850.")
+![Bar del Sport Hotel Hermitage & Spa](https://fotos.etheriamagazine.com/2018/10/hermitage-glassbar.jpg "Barra del Glassbar 1.850.")
 
 ## Las habitaciones del Sport Hotel Hermitage & Spa
 
@@ -67,7 +67,7 @@ Residences](https://www.hmrandorra.com/es/inicio/), unas preciosas residencias d
 reciente construcción con capacidad de dos a dieciséis personas con todos los servicios 
 del hotel, para los que busquen aún más privacidad. 
 
-![Junior Suite Premium](https://fotos.etheriamagazine.com/2018/10/herrmitage-junior-suite_premium-1024x682.jpg "Junior Suite Premium.")
+![Junior Suite Premium](https://fotos.etheriamagazine.com/2018/10/herrmitage-junior-suite_premium.jpg "Junior Suite Premium.")
 
 ## Todo es cómodo en este hotel
 
@@ -89,7 +89,7 @@ que aúnan a la perfección tradición y vanguardia en el caso de los restaurant
 dirigidos por Francis Paniego y con una carta de alta cocina japonesa en el caso del Koy 
 Hermitage. 
 
-![Rincón del restaurante Origen en el hotel Hermitage de Soldeu](https://fotos.etheriamagazine.com/2018/10/hermitage-restaurante-origen-1024x683.jpg "Rincón del restaurante Origen.")
+![Rincón del restaurante Origen en el hotel Hermitage de Soldeu](https://fotos.etheriamagazine.com/2018/10/hermitage-restaurante-origen.jpg "Rincón del restaurante Origen.")
 
 Además podrás degustar las especialidades del restaurante **Sol i Neu Club Hermitage**, 
 con magníficas vistas del valle de Soldeu; de los restaurantes con propuestas italianas 
@@ -98,7 +98,7 @@ del **Glassbar 1.850** y de **The Villager Tapas & Wine**, un animado pub con m�
 vivo. Y hay que mencionar el bufé de desayuno sí o sí, perfecto para coger energía antes 
 de subir a las pistas, y tan bien surtido y decorado que dan ganas de hacerle fotos. 
 
-![Detalle del bufé de desayuno del Hermitage Soldeu en Andorra](https://fotos.etheriamagazine.com/2018/10/hermitage-buffet-desayuno-1024x504.jpg "Detalle del bufé de desayuno.")
+![Detalle del bufé de desayuno del Hermitage Soldeu en Andorra](https://fotos.etheriamagazine.com/2018/10/hermitage-buffet-desayuno.jpg "Detalle del bufé de desayuno.")
 
 ## Sport Wellness Mountain Spa
 
@@ -116,7 +116,7 @@ Además, este spa cuenta con un amplio abanico de propuestas para el cuidado y e
 disfrute: tratamientos de belleza, relajantes, deportivos, estimulantes… Será difícil 
 elegir entre tantas opciones. 
 
-![Sport Hotel Hermitage & Spa](https://fotos.etheriamagazine.com/2018/10/hermitage-spa-invierno-1024x659.jpg "Jacuzzi exterior del Sport Wellness Mountain Spa, con vista a las pistas de Granvalira.")
+![Sport Hotel Hermitage & Spa](https://fotos.etheriamagazine.com/2018/10/hermitage-spa-invierno.jpg "Jacuzzi exterior del Sport Wellness Mountain Spa, con vista a las pistas de Granvalira.")
 
 [Sport Hotel Hermitage & Spa](https://www.hotelhermitage.sporthotels.ad) Carretera 
 General s/n. Soldeu. Andorra. Tel. +376 870 550 Precio desde 275 Euros la noche en 
@@ -124,7 +124,7 @@ habitación doble.
 
 Fotos: Sport Hotel Hermitage & Spa. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Planes en la nieve para mujeres que no 
 esquían](https://etheriamagazine.com/2019/01/02/planes-en-la-nieve-para-mujeres-que-no-esquian/) 

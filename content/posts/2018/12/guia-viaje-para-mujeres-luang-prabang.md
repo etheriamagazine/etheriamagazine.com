@@ -15,7 +15,7 @@ Luang Prabang, la capital de Laos, sigue siendo uno de los destinos más éticos
 la concurrida y atractiva zona de Indochina. Es un lugar perfecto para viajar con amigas 
 o en pareja, pero en eso no entramos, la compañía la eliges tú... 
 
-![La sonrisa es seña de identidad de la población de Luang Prabang.](https://fotos.etheriamagazine.com/2018/12/luang-prabang-monjes-1024x683.jpg "La sonrisa es seña de identidad de la población de Luang Prabang.")
+![La sonrisa es seña de identidad de la población de Luang Prabang.](https://fotos.etheriamagazine.com/2018/12/luang-prabang-monjes.jpg "La sonrisa es seña de identidad de la población de Luang Prabang.")
 
 ```
 Actualizado 1/2024.
@@ -42,7 +42,7 @@ localiza el **hotel Mekong River View** (mekongriverview.com), que regala desde 
 habitación unas vistas espectaculares, y la oficina de la entidad Patrimonio Mundial de 
 la Unesco. 
 
-![Luang Prabang con las montañas al fondo.](https://fotos.etheriamagazine.com/2018/12/Luang-Prabang-1024x631.jpg "Luang Prabang con las montañas al fondo.")
+![Luang Prabang con las montañas al fondo.](https://fotos.etheriamagazine.com/2018/12/Luang-Prabang.jpg "Luang Prabang con las montañas al fondo.")
 
 ## Templo tras templo
 
@@ -51,7 +51,7 @@ te den ganas de convertirte al budismo. Uno de ellos es el **Wat Xieng Thong**, 
 decoraciones doradas, coloridas y brillantes, y pinturas que simbolizan escenas 
 históricas o realistas realizadas por los propios monjes. 
 
-![Templo Wat Xieng Thong.](https://fotos.etheriamagazine.com/2018/12/Luang-Prabang-wat-xieng-thong-1024x575.jpg "Templo Wat Xieng Thong.")
+![Templo Wat Xieng Thong.](https://fotos.etheriamagazine.com/2018/12/Luang-Prabang-wat-xieng-thong.jpg "Templo Wat Xieng Thong.")
 
 No te puedes perder ningún templo, ni mucho menos el **Wat Wisunalat**, datado en 1513, 
 porque además es una buena manera de conocer cómo viven los monjes budistas, vestidos 
@@ -83,7 +83,7 @@ un estanque privado y un spa. También podrás ver los mercados donde compran lo
 con sus frutas, verduras y carnes, además de bolsitas de champú y jabón líquido muy 
 útiles para una viajera. 
 
-![Alquilar una bicicleta es una excelente opción para recorrer Luang Prabang y los alrededores.](https://fotos.etheriamagazine.com/2018/12/luang-prabang-bicicletas-1024x683.jpg "Alquilar una bicicleta es una excelente opción para recorrer Luang Prabang y los alrededores.")
+![Alquilar una bicicleta es una excelente opción para recorrer Luang Prabang y los alrededores.](https://fotos.etheriamagazine.com/2018/12/luang-prabang-bicicletas.jpg "Alquilar una bicicleta es una excelente opción para recorrer Luang Prabang y los alrededores.")
 
 Cruzando el puente viejo, disfrutarás de unas vistas espectaculares cuando te dirijas a 
 los **templos Phon Song y Pa Khaa**, que se muestran elevados y brillantes en medio del 
@@ -101,7 +101,7 @@ conocer la cueva con las figuras sagradas y las escaleras con pasamanos de drago
 dorados y plateados que abocan a la huella de Buda, una de las cuatro existentes en 
 Laos. 
 
-![Templo en el Palacio Real de Luang Prabang.](https://fotos.etheriamagazine.com/2018/12/Luang-Prabang-palacio-real-1024x683.jpg "Templo en el Palacio Real de Luang Prabang.")
+![Templo en el Palacio Real de Luang Prabang.](https://fotos.etheriamagazine.com/2018/12/Luang-Prabang-palacio-real.jpg "Templo en el Palacio Real de Luang Prabang.")
 
 Comprueba los horarios del museo del **Palacio Real** para acudir antes del atardecer, 
 ya que en las terrazas del Mekong se contempla el ocaso como en ningún sitio, incluso 
@@ -125,7 +125,7 @@ suele incluir la **cascada de Kuang Si**, cuyo nacimiento es impresionante. Por 
 noche, puedes relajarte en la zona de marcha, en la animada calle **Chao Sisuphon**, que 
 cuenta con bares que te gustarán. 
 
-![Cascada Kuang Si, en los alrededores de Luang Prabang.](https://fotos.etheriamagazine.com/2018/12/luang-prabang-cascada-1024x683.jpg "Cascada Kuang Si, en los alrededores de Luang Prabang.")
+![Cascada Kuang Si, en los alrededores de Luang Prabang.](https://fotos.etheriamagazine.com/2018/12/luang-prabang-cascada.jpg "Cascada Kuang Si, en los alrededores de Luang Prabang.")
 
 Otra excursión atractiva por la zona es la de los **establos de los elefantes**, donde 
 los turistas pueden observarlos, darles de comer unas bananitas e incluso montar en 
@@ -148,7 +148,7 @@ Si te atreves, pon el despertador a las 5.40 h para ver a la gente en fila ofrec
 comida a los monjes budistas, que para la población autóctona es tan simbólico como 
 ganarse el cielo con su generosidad. 
 
-![Cada mañana los monjes salen a pedir limosna y tiñen de naranja las calles de Luang Prabang.](https://fotos.etheriamagazine.com/2018/12/luang-prabag-monjes-limosna-1024x575.jpg "Cada mañana los monjes salen a pedir limosna y tiñen de naranja las calles de Luang Prabang.")
+![Cada mañana los monjes salen a pedir limosna y tiñen de naranja las calles de Luang Prabang.](https://fotos.etheriamagazine.com/2018/12/luang-prabag-monjes-limosna.jpg "Cada mañana los monjes salen a pedir limosna y tiñen de naranja las calles de Luang Prabang.")
 
 **También te puede interesar:** 
 

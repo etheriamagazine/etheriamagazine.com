@@ -18,7 +18,7 @@ la historia, el patrimonio jesuita y los paisajes serranos. Hermanado culturalme
 el Camino de Santiago de Compostela, el Camino de Brochero es una experiencia 
 recomendable y enriquecedora. 
 
-![Camino de Brochero](https://fotos.etheriamagazine.com/2024/03/camino-brochero-850x592.jpg "El Camino de Brochero está hermanado con el Camino de Santiago. © Cris Aizpeolea")
+![Camino de Brochero](https://fotos.etheriamagazine.com/2024/03/camino-brochero.jpg "El Camino de Brochero está hermanado con el Camino de Santiago. © Cris Aizpeolea")
 
 De sotana, poncho y sombrero, a lomo de una mula y con un cigarro en la boca, la imagen 
 más difundida de **José Gabriel del Rosario Brochero** (1840-1914), considerado el 
@@ -43,7 +43,7 @@ a caminar tiene mucho que aprender de Santiago de Compostela, pero no le faltan
 atractivos, historias, patrimonio y belleza, y hasta cuenta con un **Pasaporte del 
 Peregrino** para sellar el paso por los circuitos. 
 
-![Foto obligada junto al indicador del Camino de Santiago.](https://fotos.etheriamagazine.com/2024/03/camino-brochero-peregrina-812x1000.jpg "Foto obligada junto al indicador del Camino de Santiago. © Cris Aizpeolea")
+![Foto obligada junto al indicador del Camino de Santiago.](https://fotos.etheriamagazine.com/2024/03/camino-brochero-peregrina.jpg "Foto obligada junto al indicador del Camino de Santiago. © Cris Aizpeolea")
 
 ## Peregrina en acción, en Córdoba (Argentina)
 
@@ -65,7 +65,7 @@ por allí como capellán de coro cuando Córdoba sucumbía ante una epidemia de 
 diezmó a su población y él tenía que salir a llevar asistencia a los enfermos y los 
 presos. 
 
-![Catedral de Córdoba (Argentina).](https://fotos.etheriamagazine.com/2024/04/catedral-cordoba-argentina-850x591.jpg "Catedral de Córdoba (Argentina). © Cris Aizpeolea")
+![Catedral de Córdoba (Argentina).](https://fotos.etheriamagazine.com/2024/04/catedral-cordoba-argentina.jpg "Catedral de Córdoba (Argentina). © Cris Aizpeolea")
 
 ## De ronda por la Manzana Jesuita con Kuki Peralta
 
@@ -88,7 +88,7 @@ el circuito brocheriano de la ciudad Capital con una parada imperdible en el Ins
 de las Hermanas Esclavas, en barrio General Paz, a 25 cuadras del Centro que bien pueden 
 hacerse caminando. 
 
-![Elsa Guzmán, de la congregación de las Hermanas Esclavas.](https://fotos.etheriamagazine.com/2024/03/elsa-guzman-camino-brochero-850x600.jpg "Elsa Guzmán, de la congregación de las Hermanas Esclavas. © Cris Aizpeolea")
+![Elsa Guzmán, de la congregación de las Hermanas Esclavas.](https://fotos.etheriamagazine.com/2024/03/elsa-guzman-camino-brochero.jpg "Elsa Guzmán, de la congregación de las Hermanas Esclavas. © Cris Aizpeolea")
 
 ## Elsa Guzmán, recuerdos de primera mano
 
@@ -110,7 +110,7 @@ Cura. Todos lo querían mucho en la región, porque era un hacedor”, resume.
 lepra. Era también una monjita de las Esclavas que se llamaba Margarita Palacio”, dice 
 con el recuerdo intacto. 
 
-![Rosana Montano, presidenta de la Asociación Amigos del Camino de Santiago en Argentina.](https://fotos.etheriamagazine.com/2024/03/rosana-montano-asociacion-camino-brochero-850x535.jpg "Presidenta de la Asociación Amigos del Camino de Santiago en Argentina. © Cris A.")
+![Rosana Montano, presidenta de la Asociación Amigos del Camino de Santiago en Argentina.](https://fotos.etheriamagazine.com/2024/03/rosana-montano-asociacion-camino-brochero.jpg "Presidenta de la Asociación Amigos del Camino de Santiago en Argentina. © Cris A.")
 
 ## Rosana Montano: "el paisaje tiene una riqueza sin igual"
 
@@ -141,7 +141,7 @@ de la Capital, en Villa Santa Rosa, su ciudad natal, donde se puede visitar la C
 Museo, la iglesia que conserva la pila bautismal tallada en piedra de sapo y un memorial 
 que lo recuerda de niño en el paraje Carreta Quemada. 
 
-![Peregrino en el Camino de Brochero.](https://fotos.etheriamagazine.com/2024/03/peregrino-camino-brochero-850x531.jpg "Peregrino en el Camino de Brochero. © Cris Aizpeolea")
+![Peregrino en el Camino de Brochero.](https://fotos.etheriamagazine.com/2024/03/peregrino-camino-brochero.jpg "Peregrino en el Camino de Brochero. © Cris Aizpeolea")
 
 ## "Brochero le dio valor a la mujer" señala Mariela Villareal
 

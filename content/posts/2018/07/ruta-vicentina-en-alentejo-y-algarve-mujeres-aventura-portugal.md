@@ -11,7 +11,7 @@ authors:
 
 ¿Estás buscando rutas senderistas en Alentejo o en el Algarve? Te proponemos la Ruta Vicentina en sus dos vertientes: el Camino de los Pescadores y el Camino Histórico para conocer tanto el interior como la costa. Un plan perfecto para disfrutar con amigas o en soledad.
 
-![Ruta aventura alentejo algarve mujeres](https://fotos.etheriamagazine.com/2018/07/Ruta-vicentina-viajes-de-aventura-mujeres-1024x683.jpg "Caminata en la Ruta Vicentina (Portugal). © Kris Ubach")
+![Ruta aventura alentejo algarve mujeres](https://fotos.etheriamagazine.com/2018/07/Ruta-vicentina-viajes-de-aventura-mujeres.jpg "Caminata en la Ruta Vicentina (Portugal). © Kris Ubach")
 
 El Alentejo son dehesas y campos de maíz. Son monasterios templarios y ciudades árabes. 
 Dulces conventuales, carne de cerdo ibérico y vino con Denominación de Origen. Y costa, 
@@ -33,7 +33,7 @@ forma. O “a la informal”, con calma, buscando los tramos más pintorescos, r
 unos cuantos kilómetros y tumbándonos a la bartola cuando nos apetezca, sin estar 
 pendiente de tener que completar cada etapa. 
 
-![Cabo Sardao Ruta Vicentina viaje aventura Portugal](https://fotos.etheriamagazine.com/2018/07/Cabo-Sardao-viajes-aventura-mujeres-1-1024x683.jpg "Cabo Sardao (Ruta Vicentina, Portugal). © Kris Ubach")
+![Cabo Sardao Ruta Vicentina viaje aventura Portugal](https://fotos.etheriamagazine.com/2018/07/Cabo-Sardao-viajes-aventura-mujeres-1.jpg "Cabo Sardao (Ruta Vicentina, Portugal). © Kris Ubach")
 
 ## 2 rutas senderistas por el Alentejo y el Algarve
 
@@ -62,7 +62,7 @@ terreno es arena de playa. ¡Uf! La parte positiva: los paisajes son de impacto 
 total suma menos kilómetros —125 divididos en 5 etapas— así que es más asequible si 
 disponemos de poco tiempo. Las marcas que debemos seguir aquí son azules y verdes. 
 
-![ruta vicentina viajes aventura mujeres](https://fotos.etheriamagazine.com/2018/07/Ruta-vicentina-camino-historico-mujeres-1024x683.jpg "Camino Histórico de la Ruta Vicentina. © Kris Ubach")
+![ruta vicentina viajes aventura mujeres](https://fotos.etheriamagazine.com/2018/07/Ruta-vicentina-camino-historico-mujeres.jpg "Camino Histórico de la Ruta Vicentina. © Kris Ubach")
 
 ## Pueblos en la ruta
 
@@ -85,7 +85,7 @@ en mayúsculas en esta zona son las **playas**. Y si están flanqueadas por un a
 coronado por un faro, mejor que mejor. Las noches de cañas y pescado asado a pie de 
 arena en esta zona tendrían que ser Patrimonio de la Humanidad. 
 
-![ruta vicentina porto viajes de aventura mujeres](https://fotos.etheriamagazine.com/2018/07/Porto-Covo-ruta-costa-vicentina-viajes-mujeres-1024x683.jpg "Porto Covo, una de las paradas de la ruta. © Kris Ubach")
+![ruta vicentina porto viajes de aventura mujeres](https://fotos.etheriamagazine.com/2018/07/Porto-Covo-ruta-costa-vicentina-viajes-mujeres.jpg "Porto Covo, una de las paradas de la ruta. © Kris Ubach")
 
 ## Senderos circulares para ir con más calma
 

@@ -36,7 +36,7 @@ ha sido uno de los preferidos y no nos extraña, porque está lleno de pistas y 
 secretos para disfrutar a tope de la Costa de la Luz. Por supuesto, con las 
 imprescindibles pistas de los restaurantes y chiringuitos de moda. 
 
-![Caldera de Taburiente en la isla de La Palma.](https://fotos.etheriamagazine.com/2021/12/La-Palma-Viajes-mujeres-etheria-mar-nubes-1024x683-1-900x600.jpg "Caldera de Taburiente en la isla de La Palma.")
+![Caldera de Taburiente en la isla de La Palma.](https://fotos.etheriamagazine.com/2021/12/La-Palma-Viajes-mujeres-etheria-mar-nubes-1024x683-1.jpg "Caldera de Taburiente en la isla de La Palma.")
 
 ## 10 secretos que deberías conocer de la isla de La Palma
 

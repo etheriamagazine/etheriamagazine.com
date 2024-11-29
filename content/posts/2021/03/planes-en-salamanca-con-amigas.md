@@ -324,7 +324,7 @@ por sus rincones, será siempre toda una experiencia.
 [Free tour monumental por 
 Salamanca](https://www.civitatis.com/es/salamanca/free-tour-salamanca/?aid=10211). 
 
-![escuelas pias de salamanca](https://fotos.etheriamagazine.com/2018/05/6-Viajar-sola-a-Salamanca-1024x642.jpg "Cúpula de la catedral desde el patio de las Viejas Escuelas. © Etheria Magazine")
+![escuelas pias de salamanca](https://fotos.etheriamagazine.com/2018/05/6-Viajar-sola-a-Salamanca.jpg "Cúpula de la catedral desde el patio de las Viejas Escuelas. © Etheria Magazine")
 
 **Otras escapadas con amigas en Castilla y León** 
 

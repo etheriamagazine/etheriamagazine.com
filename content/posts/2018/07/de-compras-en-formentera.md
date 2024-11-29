@@ -77,7 +77,7 @@ original, realizado por artesanos certificados y, en su mayoría, inspirado en l
 Otras paradas obligadas en El Pilar de la Mola es la **joyería Majoral**, donde puedes 
 encontrar las originales y elegantes piezas diseñadas por Enric Majoral y su equipo. 
 
-![mujer en la playa en Formentera](https://fotos.etheriamagazine.com/2018/07/formentera-pixabay-1024x683.jpg "Playa y compras, una buena combinación en Formentera. ©Pixabay")
+![mujer en la playa en Formentera](https://fotos.etheriamagazine.com/2018/07/formentera-pixabay.jpg "Playa y compras, una buena combinación en Formentera. ©Pixabay")
 
 ## Más compras en Formentera
 
@@ -94,7 +94,7 @@ siguiendo el proceso artesanal.
 ¿Tu tienda favorita de Formentera no aparece en nuestra selección? Si es así, no dudes 
 en compartirla con todas nosotras. Las mejores direcciones se merecen el boca a boca… 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Dónde comer bien en Formentera sin perder de vista la mano 
 femenina](https://etheriamagazine.com/2022/07/27/mejores-restaurantes-formentera/) 

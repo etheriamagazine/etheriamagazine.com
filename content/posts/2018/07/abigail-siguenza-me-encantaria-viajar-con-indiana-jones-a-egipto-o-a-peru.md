@@ -13,7 +13,7 @@ Directora de Marketing Internacional de Madrid Destino. También, una de las Muj
 Etheria que destacamos por su vinculación y buen hacer en el mundo de la promoción 
 turística. 
 
-![Abigail Sigüenza directora de Marketing de Destino Madrid](https://fotos.etheriamagazine.com/2018/07/Abigail-Sigueza-turismo-nueva-york-872x1024.jpg "Abigail Sigüenza.")
+![Abigail Sigüenza directora de Marketing de Destino Madrid](https://fotos.etheriamagazine.com/2018/07/Abigail-Sigueza-turismo-nueva-york.jpg "Abigail Sigüenza.")
 
 Su trayectoria en el sector turístico comenzó hace unas dos décadas, casi por 
 casualidad, ya que su conocimiento de la lengua china le llevó a ser seleccionada para 
@@ -44,7 +44,7 @@ era a lo grande.
 
 Conocer lugares donde sentirme libre y conocer a gente maravillosa por el camino. 
 
-![Abigail Sigüenza posa en la montaña.](https://fotos.etheriamagazine.com/2018/07/Abigail-siguenza-mujer-etheria-1024x686.jpg "Abigail Sigüenza, representante de Turismo de Nueva York en España")
+![Abigail Sigüenza posa en la montaña.](https://fotos.etheriamagazine.com/2018/07/Abigail-siguenza-mujer-etheria.jpg "Abigail Sigüenza, representante de Turismo de Nueva York en España")
 
 ### 3\. ¿Qué te han aportado los viajes?
 
@@ -62,7 +62,7 @@ Creo que hacer **un viaje con Indiana Jones por Egipto o Perú** sería algo mem
 Descubrir lugares secretos, aprender de todos sus conocimientos como arqueólogo y tener 
 siempre un punto de aventura fascinante en el viaje. 
 
-![Abigail Sigüenza con una cámara de fotos en uno de sus viajes.](https://fotos.etheriamagazine.com/2018/07/Abigail-camino-a-Misahualli-1024x685.jpg "Abigail Sigüenza, directora general para España y Portugal de Aviareps.")
+![Abigail Sigüenza con una cámara de fotos en uno de sus viajes.](https://fotos.etheriamagazine.com/2018/07/Abigail-camino-a-Misahualli.jpg "Abigail Sigüenza, directora general para España y Portugal de Aviareps.")
 
 ### 5\. ¿Sueles planificar tus viajes?
 
@@ -106,7 +106,7 @@ personas que cocinan allí han traído sus recetas de toda la vida y las hacen c
 país de origen. Me encantan los platos especiados y con salsas que salen de los _food 
 carts_ y que no sabes muy bien cuántos ingredientes diferentes estás probando. 
 
-![Abigail Sigüenza en Nueva York](https://fotos.etheriamagazine.com/2018/07/Abigail-Siguenza-mujer-etheria-murales-764x1024.jpg "Abigal Sigüenza, de aviareps, considera destacable la gastronomía de Nueva York")
+![Abigail Sigüenza en Nueva York](https://fotos.etheriamagazine.com/2018/07/Abigail-Siguenza-mujer-etheria-murales.jpg "Abigal Sigüenza, de aviareps, considera destacable la gastronomía de Nueva York")
 
 ### 11\. Medio de transporte favorito.
 
@@ -136,7 +136,7 @@ Me gusta mucho comprar comida o ingredientes cuando viajo. Lo más exótico creo
 sido **unos aperitivos japoneses** de trozos desecados de diferentes pescados, calamares 
 y crustáceos. 
 
-**?También te puede interesar...** 
+**📍También te puede interesar...** 
 
 [Tres mujeres polacas que han hecho del mundo un lugar 
 mejor](https://etheriamagazine.com/2023/03/08/mujeres-polacas-fama-universal/). 

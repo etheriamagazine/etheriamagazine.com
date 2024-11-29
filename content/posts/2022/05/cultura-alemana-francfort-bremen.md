@@ -38,7 +38,7 @@ preparar este delicioso producto. Puedes pedir [más
 información](mailto:labicicletacafeeventos@gmail.com) sobre estos cursos con el asunto 
 “Talleres de café de Bremen”. 
 
-? Dónde: La Bicicleta. Plaza de San Ildefonso, 9. 
+📍 Dónde: La Bicicleta. Plaza de San Ildefonso, 9. 
 
 ![Café La Bicicleta.](https://fotos.etheriamagazine.com/2022/05/cafe-la-bicicleta.jpg "Café La Bicicleta.")
 
@@ -52,7 +52,7 @@ entrar en la cámara de seguridad de uno de los museos más importantes de la ci
 alemana, el Museo Stadël, donde el objetivo es hacerse con alguna de las obras de su 
 colección. Esta experiencia se puede reservar en [www.foxinaboxmadrid.com](http://www.foxinaboxmadrid.com) 
 
-? Dónde: Fox in a Box. Calle Áncora, 12. 
+📍 Dónde: Fox in a Box. Calle Áncora, 12. 
 
 ![cultura alemana en Madrid](https://fotos.etheriamagazine.com/2022/05/Fox-in-Box-Mastermind-Francfort.jpg "Escape Room en Fox in a Box.")
 
@@ -67,7 +67,7 @@ Project** impartirá dos clases en el _hall_ del hostel: el domingo 12 de junio 
 y el 26 de junio individual; y después de la clase se podrá seguir bailando. La 
 actividad es gratuita. 
 
-? Dónde: Bastardo Hostel. San Mateo, 3. 
+📍 Dónde: Bastardo Hostel. San Mateo, 3. 
 
 ![gente bailando](https://fotos.etheriamagazine.com/2022/05/alemania-Swing-Bastardo.jpg "Clase de swing en Bastardo Hostel.")
 

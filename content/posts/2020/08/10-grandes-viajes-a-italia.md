@@ -12,7 +12,7 @@ authors:
 
 Italia es uno de esos países con los que es muy fácil tener un flechazo inmediato y caer de forma inevitable en el enamoramiento más absoluto. Y una vez hecho el primer viaje, sólo quieres volver y volver. Aquí te dejamos 11 ideas de posibles escapadas con las que seguro que aciertas si estás pensando en visitar este bello país mediterráneo.
 
-![valle de la Toscana](https://fotos.etheriamagazine.com/2020/03/Paisajes-valle-Orcia-900x675.jpg "Valle de Orcia (Italia). © Luca Micheli")
+![valle de la Toscana](https://fotos.etheriamagazine.com/2020/03/Paisajes-valle-Orcia.jpg "Valle de Orcia (Italia). © Luca Micheli")
 
 ## 11 viajes a Italia:
 
@@ -29,7 +29,7 @@ ambiente universitario muy animado y una gastronomía llena de productos icónic
 podrás tomar por fin en su lugar de origen. Ten muy en en cuenta este destino si estás 
 buscando un plan para viajar con tus amigas. 
 
-?[Viaje con amigas a Bolonia: 10 planes imbatibles en 
+📍[Viaje con amigas a Bolonia: 10 planes imbatibles en 
 Italia](https://etheriamagazine.com/2022/06/10/viaje-con-amigas-a-bolonia/). 
 
 ![puestos de gastronomía en Bolonia](https://fotos.etheriamagazine.com/2022/06/Quadrilatero-Bolonia.jpg "Cuadrilátero de Bolonia. © Bologna Welcome")
@@ -42,10 +42,10 @@ la gastronomía y la hora del vermú que nos hermana para siempre. No os perdái
 Egizio, el Museo Nazionale del Cine o la preciosa Galería de San Federico. Querréis 
 volver seguro. 
 
-? [Turín con amigas: viaja a la ciudad más supersticiosa de 
+📍 [Turín con amigas: viaja a la ciudad más supersticiosa de 
 Italia](https://etheriamagazine.com/2021/07/16/que-ver-en-turin-en-un-viaje-con-amigas/). 
 
-![soportales de turin](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-soportales-900x675.jpg "Pequeños puestos de librerías bajo los soportales turineses. ©KR")
+![soportales de turin](https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-soportales.jpg "Pequeños puestos de librerías bajo los soportales turineses. ©KR")
 
 ### 3\. Apulia
 
@@ -54,7 +54,7 @@ primera opción, pero si alguien te sugiere el viaje, apúntate de inmediato. En
 'slow travel' es obligatorio, así que prepárate para recorrer bellas carreteras 
 secundarias en busca de castillos y playas perfectas. 
 
-? [Esto es lo que ocurrirá si haces un viaje romántico a 
+📍 [Esto es lo que ocurrirá si haces un viaje romántico a 
 Apulia](https://etheriamagazine.com/2019/11/25/que-ver-hacer-viaje-romantico-apulia-italia/). 
 
 ![trulli típicos de Alberobello](https://fotos.etheriamagazine.com/2019/04/que-ver-Alberobello-trulis.jpg "Alberobello está situado en la región de Apulia. © Menchu Redondo")
@@ -64,7 +64,7 @@ la Italia más auténtica y tradiciones como la _pizzica_ (un baile contra el es
 intercambio de pecados por olivos. Te encantará la arquitectura de los trullis, sus 
 construcciones tradicionales. 
 
-? [Secretos de Alberobello, un 'picaro' pueblo italiano de 
+📍 [Secretos de Alberobello, un 'picaro' pueblo italiano de 
 Puglia](https://etheriamagazine.com/2019/04/15/que-ver-alberobello-italia-unesco/). 
 
 ### 4\. Cerdeña
@@ -75,10 +75,10 @@ carreteras que llevan a bonitas playas, restos arqueológicos y pueblos llenos d
 encanto. Como no son excluyentes, alquila un coche con tus amigas y recorre esta 
 maravillosa isla de mar casi transparente y déjate atrapar por sus paisajes. 
 
-? [Ruta en coche por Cerdeña, un plan 
+📍 [Ruta en coche por Cerdeña, un plan 
 irrechazable](https://etheriamagazine.com/2018/09/14/viaje-chicas-isla-cerdena-italia/). 
 
-![playa en Cerdeña](https://fotos.etheriamagazine.com/2018/09/viaje-La-Pelosa-Stintino-Sardegna-1024x683.jpg "La Pelosa en Stintino (Cerdeña).")
+![playa en Cerdeña](https://fotos.etheriamagazine.com/2018/09/viaje-La-Pelosa-Stintino-Sardegna.jpg "La Pelosa en Stintino (Cerdeña).")
 
 ### 5\. Cinque Terre
 
@@ -89,7 +89,7 @@ mar, ferrocarril e, incluso, bellos caminos para rutas de senderismo, así que e
 perfecto para ir con amigas y dejarse llevar por sus bellos paisajes y su gastronomía. 
 ¡No olvides la cámara de fotos! 
 
-? [Cinque Terre, los cinco pueblos más bonitos de 
+📍 [Cinque Terre, los cinco pueblos más bonitos de 
 Liguria](https://etheriamagazine.com/2020/06/04/ruta-que-ver-cinque-terre-italia-con-amigas/). 
 
 ![casas de colores de Vernazza](https://fotos.etheriamagazine.com/2019/07/vernazza-cinque-terre.jpg "Vernazza, en Cinque Terre, con su fortificación medieval.")
@@ -104,13 +104,13 @@ Por no hablar de las plazas e iglesias que sorprenden a cada paso. Y los helados
 los helados! Además, es un destino perfecto para [viajar en 
 familia](http://etheriamagazine.com/2018/05/17/10-imprescindibles-para-disfrutar-florencia-con-ninos/). 
 
-? [Aprovecha a tope un fin de semana en 
+📍 [Aprovecha a tope un fin de semana en 
 Florencia](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia-fin-de-semana-que-ver-hacer/). 
 
-? [15 ideas para disfrutar de Florencia una segunda 
+📍 [15 ideas para disfrutar de Florencia una segunda 
 vez](https://etheriamagazine.com/2018/09/21/15-ideas-para-disfrutar-de-florencia-por-segunda-vez/). 
 
-![Ponte Vecchio de Florencia](https://fotos.etheriamagazine.com/2018/05/TOSCANA-FLORENCIA-PONTE-VECCHIO-6-1024x683.jpg "El Ponte Vecchio en Florencia.")
+![Ponte Vecchio de Florencia](https://fotos.etheriamagazine.com/2018/05/TOSCANA-FLORENCIA-PONTE-VECCHIO-6.jpg "El Ponte Vecchio en Florencia.")
 
 ### 7\. La Toscana
 
@@ -121,13 +121,13 @@ pequeños pueblos medievales de Volterra, San Gimignano, Montepulciano, Montalci
 Pienza, entre otros muchos. ¡Antes de volver ya estarás pensando en la próxima escapada 
 a la Toscana! 
 
-? [Ruta en coche para recorrer la Toscana en 7 
+📍 [Ruta en coche para recorrer la Toscana en 7 
 días](https://etheriamagazine.com/2021/06/01/toscana-en-coche/). 
 
-? [¿Por qué Lucca es una parada obligada en la 
+📍 [¿Por qué Lucca es una parada obligada en la 
 Toscana?](https://etheriamagazine.com/2019/02/18/que-ver-en-lucca/) 
 
-![La Toscana](https://fotos.etheriamagazine.com/2018/05/TOSCANA-PAISAJE-1024x681.jpg "Paisaje de la Toscana.")
+![La Toscana](https://fotos.etheriamagazine.com/2018/05/TOSCANA-PAISAJE.jpg "Paisaje de la Toscana.")
 
 ### 8\. Capri
 
@@ -137,10 +137,10 @@ isla mediterránea donde escribió _Los versos del capitán_. Un lugar donde hoy
 cientos de turistas atraídos por sus bellos paisajes de acantilados y sus elegantes 
 villas. 
 
-? [Capri, la isla del amor de Pablo Neruda y Matilde 
+📍 [Capri, la isla del amor de Pablo Neruda y Matilde 
 Urrutia](https://etheriamagazine.com/2019/01/15/capri-la-isla-del-amor-de-pablo-neruda/). 
 
-![Jardines de Augusto](https://fotos.etheriamagazine.com/2019/01/neruda-capri-5-1024x682.jpg "Jardines de Augusto, en Capri. © Gary Along")
+![Jardines de Augusto](https://fotos.etheriamagazine.com/2019/01/neruda-capri-5.jpg "Jardines de Augusto, en Capri. © Gary Along")
 
 ### 9\. Milán
 
@@ -151,10 +151,10 @@ Dante y recorrer la famosa (y preciosa) Galleria de Vitorio Emanuele II. Y, por 
 poco, recorrer uno de los barrios dedicados a la moda más famosos del mundo. ¿De verdad 
 te lo vas a perder? 
 
-? [Qué ver en Milán en un fin de 
+📍 [Qué ver en Milán en un fin de 
 semana](https://etheriamagazine.com/2018/12/21/que-ver-en-milan-en-48-horas/). 
 
-![Duomo de Milán](https://fotos.etheriamagazine.com/2018/12/Milan-duomo-fachada-1024x682.jpg "Fachada del Duomo de Milán.")
+![Duomo de Milán](https://fotos.etheriamagazine.com/2018/12/Milan-duomo-fachada.jpg "Fachada del Duomo de Milán.")
 
 ### 10\. Roma
 
@@ -164,10 +164,10 @@ coquetos hoteles en el centro, un casi inabarcable centro histórico para recorr
 restaurantes donde pasar inolvidables momentos. En este reportaje te damos algunas 
 claves para que el viaje sea un éxito. 
 
-? [Roma, la escapada con amigas que 
+📍 [Roma, la escapada con amigas que 
 necesitas](https://etheriamagazine.com/2018/10/31/fin-de-semana-en-roma-con-amigas/). 
 
-![foro romano](https://fotos.etheriamagazine.com/2018/10/Roma-con-amigas-foro-romano-1024x768.jpg "El Foro romano es una visita imprescindible en Roma.")
+![foro romano](https://fotos.etheriamagazine.com/2018/10/Roma-con-amigas-foro-romano.jpg "El Foro romano es una visita imprescindible en Roma.")
 
 ### 11\. Sicilia
 
@@ -176,10 +176,10 @@ Sicilia puedes aprender _in situ_ de antiguas civilizaciones, visitar ciudades l
 arte y llegar hasta un volcán en activo, el Etna. Si viajas en verano, tiene unas playas 
 estupendas y su gastronomía te encantará. Poco más se puede pedir a un viaje. 
 
-? [Ruta en coche por Sicilia, entre pantocrátores y 
+📍 [Ruta en coche por Sicilia, entre pantocrátores y 
 bikinis](https://etheriamagazine.com/2021/07/05/sicilia-pantocratores-y-bikinis/). 
 
-![playa de Sicilia](https://fotos.etheriamagazine.com/2018/07/Palaya-de-Cefalu-mujeres-viaje-sicilia-1024x571.jpg "Playa de Cefalú (Sicilia).")
+![playa de Sicilia](https://fotos.etheriamagazine.com/2018/07/Palaya-de-Cefalu-mujeres-viaje-sicilia.jpg "Playa de Cefalú (Sicilia).")
 
 ## También te puede interesar:
 

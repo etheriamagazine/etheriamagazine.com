@@ -93,7 +93,7 @@ una delicia. Y en cuanto a la naturaleza, además de las excelentes playas, hay 
 ✅ **Guía Etheria:** [Guía esencial de Tarragona, pueblos y rutas que 
 enamoran.](https://etheriamagazine.com/2022/11/23/que-ver-tarragona/) 
 
-![Paseo en barca por el Delta del Ebro.](https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro-850x570.jpg "Paseo en barca por el Delta del Ebro. © Terres de l’Ebre")
+![Paseo en barca por el Delta del Ebro.](https://fotos.etheriamagazine.com/2022/11/tarragona-delta-del-Ebro.jpg "Paseo en barca por el Delta del Ebro. © Terres de l’Ebre")
 
 ## Gipuzkoa
 
@@ -138,7 +138,7 @@ lugares que hay que ver en España.
 ✅ **Guía Etheria:** [15 lugares imprescindibles en A Coruña que miran al 
 mar.](https://etheriamagazine.com/2022/09/23/que-ver-a-coruna/) 
 
-![Torre de Hercules](https://fotos.etheriamagazine.com/2020/06/La-coruna-torre-hercules-900x600.jpg "La Torre de Hércules en A Coruña. © SG")
+![Torre de Hercules](https://fotos.etheriamagazine.com/2020/06/La-coruna-torre-hercules.jpg "La Torre de Hércules en A Coruña. © SG")
 
 ## Pontevedra
 

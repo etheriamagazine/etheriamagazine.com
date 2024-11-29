@@ -12,7 +12,7 @@ authors:
 
 Los amantes de la cocina están de enhorabuena porque Planeta Gastro acaba de publicar NAJAT, un libro en el que la afamada chef Najat Kaanache nos lleva de viaje por los sabores de Marruecos y nos enseña a preparar recetas tradicionales. Y, entre plato y plato, también se revela la mujer que se oculta tras el delantal, fuerte y luchadora, que siempre se atrevió "a soñar a lo grande”.
 
-![Najat Kaanache con una langosta](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-chef-nur-683x1024.jpg "Najat Kaanache, una chef vascomarroquí que ha roto moldes.")
+![Najat Kaanache con una langosta](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-chef-nur.jpg "Najat Kaanache, una chef vascomarroquí que ha roto moldes.")
 
 ‘NAJAT. Recetas y relatos fascinantes para descubrir la magia de Marruecos’ es más que 
 un libro de cocina o una guía por los sabores marroquíes, es un relato íntimo que nos 
@@ -29,7 +29,7 @@ sabores y aromas de los platos la trasladaban a la tierra de sus padres. Ellos p
 de pueblecitos de las montañas del Atlas y cuando visitaban a los familiares en verano 
 volvían cargados de especias, nueces, almendras y flores. 
 
-![Najat Kaanache en marruecos](https://fotos.etheriamagazine.com/2021/02/Najat-chef-marruecos-683x1024.jpg "La chef ha encontrado en Marruecos su lugar en el mundo.")
+![Najat Kaanache en marruecos](https://fotos.etheriamagazine.com/2021/02/Najat-chef-marruecos.jpg "La chef ha encontrado en Marruecos su lugar en el mundo.")
 
 ## Pan con legumbres en el recreo
 
@@ -48,7 +48,7 @@ compartía con todo el barrio, y de las flores que cultivaba siempre ofrecía la
 parte a los vecinos. «¿Por qué haces eso?», le pregunté en una ocasión cuando era niña. 
 «Venimos de fuera. Tenemos que esforzarnos un poco más», respondió mi madre”. 
 
-![Najat Kaanache en el puerto](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-puerto-683x1024.jpg "Najat Kaanache se ha formado en 5 restaurantes con 3 estrellas Michelin.")
+![Najat Kaanache en el puerto](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-puerto.jpg "Najat Kaanache se ha formado en 5 restaurantes con 3 estrellas Michelin.")
 
 ## Najat Kaanache: “Todo empezó con un sueño. Yo me atrevo a soñar a lo grande”
 
@@ -66,7 +66,7 @@ en teatro, que era para lo que se había formado, no terminaba de convencerla. A
 le importó rescatar los sabores de Marruecos, que guardaba en su memoria, para lanzarse 
 a preparar aperitivos para eventos. 
 
-![Najat Kaanache en mercado de pescado](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-mercado-pescado-683x1024.jpg "Visitar los mercados es imprescindible para la chef.")
+![Najat Kaanache en mercado de pescado](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-mercado-pescado.jpg "Visitar los mercados es imprescindible para la chef.")
 
 A partir de ese momento, todo fue un viaje vertiginoso hacia el aprendizaje, quería 
 saberlo todo de la cocina profesional. Amplió conocimientos con reconocidos chefs como 
@@ -124,7 +124,7 @@ previo por el mercado para conseguir algunos ingredientes que puede que no tenga
 casa. Te dejamos aquí dos recetas, a modo de muestra, para que compruebes que están 
 explicadas de una forma sencilla. 
 
-![rosquillas marroquies en libro najat](https://fotos.etheriamagazine.com/2021/02/Najat-libro-cocina-rosquillas-707x1024.jpg "Rosquillas marroquíes (Sfenj).")
+![rosquillas marroquies en libro najat](https://fotos.etheriamagazine.com/2021/02/Najat-libro-cocina-rosquillas.jpg "Rosquillas marroquíes (Sfenj).")
 
 #### Rosquillas marroquíes (Sfenj)
 
@@ -147,7 +147,7 @@ que salga un agujero en el medio.
 Fríe las rosquillas 2 o 3 minutos por cada lado en el aceite caliente hasta que estén 
 doradas. Se sirven con azúcar o miel. 
 
-![Najat Kaanache con limones](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache-683x1024.jpg "Najat Kaanache posa entre limoneros.")
+![Najat Kaanache con limones](https://fotos.etheriamagazine.com/2021/02/Najat-Kaanache.jpg "Najat Kaanache posa entre limoneros.")
 
 #### Limones en salmuera
 

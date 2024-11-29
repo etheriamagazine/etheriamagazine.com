@@ -40,7 +40,7 @@ Palo Verde que terminan con un almuerzo que también es preparado por ellos con 
 colaboración de productores locales que ofrecen materias primas de primera calidad. De 
 esta forma ayudan a que otras familias se vean beneficiadas de la llegada del turismo. 
 
-![mujer empresaria de Costa Rica](https://fotos.etheriamagazine.com/2022/10/guanacaste-dalila-683x1024.jpg "Dalila Cascante, empresaria turística de Costa Rica.")
+![mujer empresaria de Costa Rica](https://fotos.etheriamagazine.com/2022/10/guanacaste-dalila.jpg "Dalila Cascante, empresaria turística de Costa Rica.")
 
 Dalila tuvo que apostar por la creatividad para crear una empresa como ésta con pocos 
 recursos y piensa que esa creatividad es precisamente el secreto de su éxito. Para ella 
@@ -49,7 +49,7 @@ nos visitan y de la cultura de otros países, y eso enriquece”. ¿Qué más se
 de **una mujer emprendedora** que prefiere tratar a los visitantes como amigos antes que 
 como clientes? 
 
-? Puedes conocer su testimonio en este [vídeo](https://www.youtube.com/watch?v=39wJQYs1ito). 
+📌 Puedes conocer su testimonio en este [vídeo](https://www.youtube.com/watch?v=39wJQYs1ito). 
 
 ### Santos Girón, cocinera
 
@@ -63,7 +63,7 @@ participan en la elaboración de los platillos, y asegura que el plato que más 
 gustar es el arroz con pollo. Una auténtica representante de la cocina tradicional 
 guanacasteca que podrás conocer en tu viaje a Guanacaste. 
 
-? Puede conocer su testimonio en este [vídeo](https://www.youtube.com/watch?v=6CqsqW5DGMw). 
+📌 Puede conocer su testimonio en este [vídeo](https://www.youtube.com/watch?v=6CqsqW5DGMw). 
 
 ![mujer cocinera de Costa Rica](https://fotos.etheriamagazine.com/2022/10/Guanacaste-Antonina.jpg "Santos Girón, cocinera de "las mujeres del maíz" de Guanacaste.")
 
@@ -202,7 +202,7 @@ conocedoras de su tierra, son las protagonistas.
 Te llevarán de su mano, te mostrarán sus tradiciones, sus formas de vida para que vivas 
 tu viaje como una experiencia única y exclusiva. 
 
-?Más información de Guanacaste en [Turismo de Costa 
+📍Más información de Guanacaste en [Turismo de Costa 
 Rica](https://www.visitcostarica.com/es). 
 
 **Más temas de Costa Rica:** 

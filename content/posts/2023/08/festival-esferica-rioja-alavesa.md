@@ -65,7 +65,7 @@ Esférica Rioja Alavesa es mucho más que un simple festival; es una oportunidad
 descubrir una tierra llena de historia, cultura y sabores únicos. Si buscas un plan 
 diferente para este verano, este festival te va a interesar. 
 
-?Puedes ampliar información en la [web oficial del Festival Esférica Rioja 
+📍Puedes ampliar información en la [web oficial del Festival Esférica Rioja 
 Alavesa](https://esfericariojaalavesa.com/) y también reservar tus entradas. 
 
 **También te puedes interesar...** 

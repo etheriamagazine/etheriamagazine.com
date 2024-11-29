@@ -13,7 +13,7 @@ authors:
 Ya ha llegado el momento de revisar el fondo de tu mueble-bar para gastar esas 
 botellitas olvidadas y hacer cócteles que hagan más llevaderas las noches en casa. 
 
-![hacer cocteles, cocteles faciles, cocteles en casa](https://fotos.etheriamagazine.com/2020/04/mejores-cocteles-en-casa-900x600.jpg "Un cóctel y un buen libro, no se necesita más para pasar una tarde o una noche de cine. © Hanny Naibaho")
+![hacer cocteles, cocteles faciles, cocteles en casa](https://fotos.etheriamagazine.com/2020/04/mejores-cocteles-en-casa.jpg "Un cóctel y un buen libro, no se necesita más para pasar una tarde o una noche de cine. © Hanny Naibaho")
 
 El cuento que vas a leer a continuación puede que te sirva para que reflexiones, sentado 
 en el sofá de tu casa, en lo que te gustaría beber hoy –así de claro (_carpe diem_)–. 
@@ -39,7 +39,7 @@ grabar una frase para que me inspire en los momentos más desesperados. Una fras
 ayude cuando me sienta perdido”. Y los sabios del reino se pusieron a pensar las frases 
 más eruditas… Pero, finalmente, ninguna convenció al rey. 
 
-![hacer cocteles, cocteles faciles, cocteles en casa](https://fotos.etheriamagazine.com/2020/04/cocteles-colores-900x542.jpg "Atrévete a preparar uno de estos cócteles en casa.")
+![hacer cocteles, cocteles faciles, cocteles en casa](https://fotos.etheriamagazine.com/2020/04/cocteles-colores.jpg "Atrévete a preparar uno de estos cócteles en casa.")
 
 Como suele ocurrir en los cuentos, apareció, de no se sabe dónde, un anciano que 
 transmitía seguridad y sabiduría; y le dijo al rey: “Ha llegado a mis oídos que busca 
@@ -63,7 +63,7 @@ perdieron en el bosque… Y sucedió que aquella situación pasó, y el rey se s
 > vamos a estar bien y a su vez no siempre vamos a estar mal. Nada es eterno, nada dura 
 > para siempre… 
 
-![cocteles dry martini, coctel luxo, hacer cocteles, cocteles faciles, cocteles en casa](https://fotos.etheriamagazine.com/2020/04/dry-martini-luxo-900x643.jpg "Dry Martini y Luxo. © Pedro Grifol")
+![cocteles dry martini, coctel luxo, hacer cocteles, cocteles faciles, cocteles en casa](https://fotos.etheriamagazine.com/2020/04/dry-martini-luxo.jpg "Dry Martini y Luxo. © Pedro Grifol")
 
 ## Los cócteles de la Cuarentena
 
@@ -88,7 +88,7 @@ de la Cuarentena’. En el [canal de Youtube Grifol's
 Bar](https://www.youtube.com/channel/UCe8MEF-1HQZsq_LzGsIs8nw?view_as=subscriber) puedes 
 seguir instrucciones para elaborar algunos cócteles clásicos. 
 
-[![canal youtube cocteles](https://fotos.etheriamagazine.com/2020/04/youtube-grifols-bar-900x569.jpg "Canal Grifol's Bar para aprender a hacer cócteles.")](https://youtu.be/FkY00iU7f0o)
+[![canal youtube cocteles](https://fotos.etheriamagazine.com/2020/04/youtube-grifols-bar.jpg "Canal Grifol's Bar para aprender a hacer cócteles.")](https://youtu.be/FkY00iU7f0o)
 
 En Grifol's Bar también encontrarás cócteles tradicionales como **Dry Martini** (ginebra 
 y vermú blanco) y su variante Vodkatini (vodka y vermú blanco); Manhattan (vermú rojo, 
@@ -107,7 +107,7 @@ adelante para visitar alguna tienda de licores más especializada. Tampoco te ro
 cabeza para hacerlo con las medidas exactas, porque la mayoría de los _barmans_ 
 profesionales no admiten como cócteles clásicos más allá de una docena. Improvisa. Crea. 
 
-![vodkatini, bartender](https://fotos.etheriamagazine.com/2020/04/bartender-coctel-vodkatini-900x644.jpg "Los cócteles son bebidas de culto. A la dcha., un Vodkatini.© P.Grifol")
+![vodkatini, bartender](https://fotos.etheriamagazine.com/2020/04/bartender-coctel-vodkatini.jpg "Los cócteles son bebidas de culto. A la dcha., un Vodkatini.© P.Grifol")
 
 Estos ‘**Cócteles de la Cuarentena’** que hoy sugerimos no son más que una fórmula 
 abierta para que cualquiera de nosotros/as, seres irremediablemente mortales, podamos 
@@ -116,7 +116,7 @@ cuarentena.
 
 > “El bar es un ejercicio de soledad, es una ceremonia" (Luis Buñuel) 
 
-![hacer cocteles, cocteles faciles, cocteles en casa](https://fotos.etheriamagazine.com/2020/04/coctel-manhattan-900x633.jpg "Improvisa con las bebidas que tengas. Manhattan (Izq.). © P. Grifol")
+![hacer cocteles, cocteles faciles, cocteles en casa](https://fotos.etheriamagazine.com/2020/04/coctel-manhattan.jpg "Improvisa con las bebidas que tengas. Manhattan (Izq.). © P. Grifol")
 
 ## Proceder con el ritual
 
@@ -135,7 +135,7 @@ _‘Shaken, not stirred’_ (y así practicas inglés)–. Y lo sirves en copa _
 _twist_ de limón”. Seguidamente, te pones a la labor. O una foto (insisto, según las 
 preferencias) de **Marilyn Monroe** en la película ‘Con faldas y a lo loco’. 
 
-![Marilyn Monroe en la película © 'Con faldas y a lo loco'.](https://fotos.etheriamagazine.com/2020/04/Marilyn-Monroe-en-Con-faldas-y-a-lo-loco-900x609.jpg "Marilyn Monroe en la película © 'Con faldas y a lo loco'.")
+![Marilyn Monroe en la película © 'Con faldas y a lo loco'.](https://fotos.etheriamagazine.com/2020/04/Marilyn-Monroe-en-Con-faldas-y-a-lo-loco.jpg "Marilyn Monroe en la película © 'Con faldas y a lo loco'.")
 
 ¿Recuerdas con qué facilidad improvisaba la rubia atómica unos _manhattans_? ¡Lo agita 
 en una bolsa de agua caliente! Así que lo importante es el buen humor. Te dispones a ver 
@@ -151,7 +151,7 @@ instalarse; y busca –seguro que lo encontrarás– una de esas barras de bar _
 se veían en las películas sesenteras, con luz y espejos. Hazle sitio en un rincón de tu 
 casa, tus familiares y amigos te lo agradecerán. 
 
-![Cóctel de champán de la película © 'Casablanca'.](https://fotos.etheriamagazine.com/2020/04/Coctel-de-Champan-Casablanca-900x644.jpg "Cóctel de champán de la película © 'Casablanca'.")
+![Cóctel de champán de la película © 'Casablanca'.](https://fotos.etheriamagazine.com/2020/04/Coctel-de-Champan-Casablanca.jpg "Cóctel de champán de la película © 'Casablanca'.")
 
 Cuando acabe toda esta pesadilla del COVID-19, lo vas a celebrar con un **Classic 
 Champagne Cocktail**, el cóctel con el que brindan, mirándose a los ojos, Rick (Humphrey 

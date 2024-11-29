@@ -170,26 +170,26 @@ sus colores, sus emociones y su dolor en el lienzo.
 
 ### Guía de viajes | Gabriele Münter en Murnau
 
-#### ?Cómo llegar a Murnau
+#### 📍Cómo llegar a Murnau
 
 Entre otras líneas aéreas, Iberia cuenta con vuelos directos a Múnich. Desde la estación 
 central de Múnich se puede tomar el tren y en una hora se llega a Murnau. Alquilar un 
 coche en el aeropuerto te ofrece la libertad de recorrer la Tierra Azul sin estar 
 pendientes de los horarios del transporte público. 
 
-#### ?Dónde dormir en Murnau
+#### 📍Dónde dormir en Murnau
 
 El **hotel Angerbräu** se encuentra en una antigua casona en el centro del pueblo. Es un 
 alojamiento agradable y cómodo en Murnau donde quedarse a dormir para recorrer la 
 población en un fin de semana. 
 
-#### ?Dónde comer en Murnau
+#### 📍Dónde comer en Murnau
 
 La calle **Untermarkt**, la principal del pueblo, está poblada de bares y restaurantes 
 donde degustar un buen menú alemán. El restaurante del **hotel Angerbräu** es altamente 
 aconsejable y, además, tiene menús vegetarianos. 
 
-?Más información en [Turismo de Murnau](https://www.tourismus.murnau.de/) o en [Turismo 
+📍Más información en [Turismo de Murnau](https://www.tourismus.murnau.de/) o en [Turismo 
 de Alemania](https://www.germany.travel/es/home.html). 
 
 #### También te puede interesar en Alemania

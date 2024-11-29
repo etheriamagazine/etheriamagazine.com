@@ -13,7 +13,7 @@ buenas vibraciones que parece que lo único que hay que meter en el equipaje son
 ganas de pasarlo bien. Aún así, si eres de hacer listados, te vendrán bien estos básicos 
 que es conveniente llevar en la maleta a Punta Cana. ¡Comprueba si te falta algo! 
 
-![Una viajera entra en el mar con un bañador y un sombrero](https://fotos.etheriamagazine.com/2023/04/amigas-punta-cana-683x1024.jpg "En Punta Cana hay básicos como bañador, gafas de sol y sombrero que no debes olvidar. © Chelsea Gates")
+![Una viajera entra en el mar con un bañador y un sombrero](https://fotos.etheriamagazine.com/2023/04/amigas-punta-cana.jpg "En Punta Cana hay básicos como bañador, gafas de sol y sombrero que no debes olvidar. © Chelsea Gates")
 
 Hay destinos con los que solemos emocionarnos más que con otros, a nosotras nos ocurre 
 con las islas, nos encantan y tratamos de cuidar todos los detalles para que esos días 
@@ -137,7 +137,7 @@ Y para cuidar la piel después de tomar el sol, un producto que funciona muy bie
 de Lancaster](https://amzn.to/3ZAS9Lg) porque te prolonga el bronceado. Lo puedes pedir 
 online por unos 15 euros. 
 
-![Protector solar facial Heliocare, absorción inmediata.](https://fotos.etheriamagazine.com/2023/04/protector-solar-cara-751x1024.jpg "Protector solar facial, absorción inmediata.")
+![Protector solar facial Heliocare, absorción inmediata.](https://fotos.etheriamagazine.com/2023/04/protector-solar-cara.jpg "Protector solar facial, absorción inmediata.")
 
 ## Repelente
 

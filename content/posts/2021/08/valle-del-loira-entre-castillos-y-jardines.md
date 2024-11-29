@@ -105,7 +105,7 @@ dejando ver, entre la cornamenta, un gran crucifijo resaltado por luminosos rayo
 Seguidamente, se escuchó una voz: “Huberto, si no llevas una vida santa, irás al 
 infierno”. Final imprevisible. 
 
-?Ad: Entradas al castillo de Chambord. [Reservas](https://www.civitatis.com/es/chambord/entrada-castillo-chambord/?aid=10211). 
+📌Ad: Entradas al castillo de Chambord. [Reservas](https://www.civitatis.com/es/chambord/entrada-castillo-chambord/?aid=10211). 
 
 ![sala de casa del castillo de chambord](https://fotos.etheriamagazine.com/2021/08/valle-loira-Castillo-de-Chambord-Sala-de-caza.jpg "Sala de Caza del castillo de Chambord. © Pedro Grifol")
 
@@ -123,7 +123,7 @@ Cuando os cuenten las guerras de religión que tuvieron lugar en Amboise, no pod
 apartar la mirada de la gran muralla, porque allí fueron colgados ‘los malos’ para que 
 sirvieran de ejemplo. 
 
-?Ad: Paseo en globo por el Valle del Loira desde Amboise, una experiencia inolvidable. [Info 
+📌Ad: Paseo en globo por el Valle del Loira desde Amboise, una experiencia inolvidable. [Info 
 y precios](https://www.civitatis.com/es/amboise/paseo-globo-valle-loira/?aid=10211). 
 
 ![Castillo de Amboise](https://fotos.etheriamagazine.com/2021/08/Castillo-de-Amboise-Foto©Pedro-Grifol.jpg "Castillo de Amboise. © Pedro Grifol")

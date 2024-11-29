@@ -26,7 +26,7 @@ seleccionar **32 obras** a través de las cuales se destaca el papel de aquellas
 que **promocionaron, coleccionaron e inspiraron** algunas de las obras de arte más 
 emblemáticas de El Prado. 
 
-![La reina Isabel de Valois pintada por Juan Pantoja de la Cruz](https://fotos.etheriamagazine.com/2022/12/isabel-valois-708x1024.jpg "La reina Isabel de Valois pintada por Juan Pantoja de la Cruz (según modelo de Sofonisba Anguissola). © Museo del Prado")
+![La reina Isabel de Valois pintada por Juan Pantoja de la Cruz](https://fotos.etheriamagazine.com/2022/12/isabel-valois.jpg "La reina Isabel de Valois pintada por Juan Pantoja de la Cruz (según modelo de Sofonisba Anguissola). © Museo del Prado")
 
 ## Por qué es interesante el itinerario
 
@@ -105,12 +105,12 @@ Cuándo: Del 14 de diciembre de 2022 al 9 de abril de 2023.
 
 Dónde: Museo del Prado (Paseo del Prado, Madrid). 
 
-?Antes de acudir a la exposición es conveniente ver algunos vídeos: [Promotoras 
+📌Antes de acudir a la exposición es conveniente ver algunos vídeos: [Promotoras 
 artísticas en El Prado](https://youtu.be/r06qPaVe6XI), [María de 
 Hungría](https://youtu.be/XxwTNBBj9OY) e [Isabel Clara 
 Eugenia](https://youtu.be/zgBQPAf1LoE). 
 
-?Aprovecha la visita también para disfrutar de la exposición ["Retratos de Joaquín 
+📌Aprovecha la visita también para disfrutar de la exposición ["Retratos de Joaquín 
 Sorolla 
 (1863-1923)"](https://www.museodelprado.es/actualidad/exposicion/retratos-de-joaquin-sorolla-1863-1923-en-el-museo/2f9c9749-54a2-b25b-4afb-932e76fdb8cf) 
 que estará en el Museo del Prado hasta el 18 de junio de 2023. 

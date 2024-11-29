@@ -37,7 +37,7 @@ pergaminos medievales en una biblioteca de Arezzo (Italia). Eran unas hojas inse
 dentro de un tratado de patrística que nada tenía que ver con aquel viaje, _itinerarium_ 
 o _peregrinatio_. 
 
-![mapa de egeria primera viajera espanola](https://fotos.etheriamagazine.com/2018/06/mapa-tierra-santa-1024x793.jpg "Este mapa de 1585 en xilografía apareció en un libro de viaje de Heinrich Bünting (1545-1606).")
+![mapa de egeria primera viajera espanola](https://fotos.etheriamagazine.com/2018/06/mapa-tierra-santa.jpg "Este mapa de 1585 en xilografía apareció en un libro de viaje de Heinrich Bünting (1545-1606).")
 
 ## Quién fue Egeria
 
@@ -67,7 +67,7 @@ es que se trataba de una **dama de la alta sociedad romana**; era una moda entre
 aquellas matronas hacer esa peregrinación y seguirle la corriente a la madre del 
 emperador. 
 
-![Frescos romanos la Villa de los Misterios](https://fotos.etheriamagazine.com/2018/06/Villa-misterios-pompeya-1024x514.jpg "Frescos decorativos de la Villa de los Misterios de Pompeya.")
+![Frescos romanos la Villa de los Misterios](https://fotos.etheriamagazine.com/2018/06/Villa-misterios-pompeya.jpg "Frescos decorativos de la Villa de los Misterios de Pompeya.")
 
 Ese estatus explica que pudiera viajar sola, pero acompañada por un séquito de personas 
 al que, circunstancialmente, se unían incluso obispos de los lugares que visitaba. O 

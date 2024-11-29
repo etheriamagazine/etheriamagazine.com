@@ -14,7 +14,7 @@ transcurre entre San Sebastián y Santiago de Compostela (o vicecersa) tiene un 
 17.800 euros. ¿Merece la pena? Depende de los gustos y el bolsillo. Os damos todos los 
 datos para que lo valoréis vosotras mismas. 
 
-![Vagón panorámico de El Transcantábrico.](https://fotos.etheriamagazine.com/2024/04/vagon-panoramico-transcantabrico-850x565.jpg "Vagón panorámico de El Transcantábrico.© Patier/ Renfe")
+![Vagón panorámico de El Transcantábrico.](https://fotos.etheriamagazine.com/2024/04/vagon-panoramico-transcantabrico.jpg "Vagón panorámico de El Transcantábrico.© Patier/ Renfe")
 
 Una temporada más, el tren Transcantábrico Gran Lujo vuelve a ponerse en marcha y muchas 
 os estaréis planteando si es una buena opción para vuestras vacaciones. Sin duda, es una 
@@ -38,7 +38,7 @@ el antiguo tren de pasajeros que circulaba diariamente entre León y Bilbao por 
 histórica línea de La Robla. Un trayecto creado para transportar carbón de las cuencas 
 leonesas y palentinas hasta las factorías siderúrgicas de Bilbao. 
 
-![Panorámica de El Transcantábrico Gran Lujo a su paso por la ría de Navia.](https://fotos.etheriamagazine.com/2024/04/Tren-Transcantabrico-GL-850x567.jpg "Panorámica de El Transcantábrico Gran Lujo a su paso por la ría de Navia. © Renfe")
+![Panorámica de El Transcantábrico Gran Lujo a su paso por la ría de Navia.](https://fotos.etheriamagazine.com/2024/04/Tren-Transcantabrico-GL.jpg "Panorámica de El Transcantábrico Gran Lujo a su paso por la ría de Navia. © Renfe")
 
 ### De dónde han salido sus bonitos vagones
 
@@ -63,7 +63,7 @@ la composición, amplitud y decoración, mientras el Clásico tenía 27 habitaci
 Gran Lujo disponía de 14 suites con salón privado, dormitorio con cama de matrimonio y 
 cuarto de baño completo. 
 
-![Suite del Transcantábrico Gran Lujo.](https://fotos.etheriamagazine.com/2024/04/suite-transcantabrico-850x570.jpg "Suite del Transcantábrico Gran Lujo. © Patier/ Renfe")
+![Suite del Transcantábrico Gran Lujo.](https://fotos.etheriamagazine.com/2024/04/suite-transcantabrico.jpg "Suite del Transcantábrico Gran Lujo. © Patier/ Renfe")
 
 ## Itinerario y precio de El Transcantábrico Gran Lujo
 
@@ -89,7 +89,7 @@ seleccionados en las ciudades del recorrido, excursiones y visitas guiadas, entr
 monumentos y espectáculos, actividades a bordo, guía multilingüe durante todo el 
 recorrido y autobuses para desplazamientos. 
 
-![Coche restaurante de El Transcantábrico Gran lujo](https://fotos.etheriamagazine.com/2024/04/transcantbrico-coche-restaurante-850x555.jpg "Coche restaurante del tren. © Patier/ Renfe")
+![Coche restaurante de El Transcantábrico Gran lujo](https://fotos.etheriamagazine.com/2024/04/transcantbrico-coche-restaurante.jpg "Coche restaurante del tren. © Patier/ Renfe")
 
 ## Cómo es hoy día el tren
 
@@ -105,7 +105,7 @@ Las **zonas comunes** se distribuyen en un confortable comedor, en el que los vi
 toman el desayuno y degustan los platos que se elaboran en la propia cocina del tren, un 
 **Salón Pub** donde cada noche se ofrece música en directo y un **coche Bar**. 
 
-![Suite con dos camas en el Transcantábrico.](https://fotos.etheriamagazine.com/2024/04/habitacion-doble-transcantabrico-850x556.jpg "Suite con dos camas en el Transcantábrico. © Patier/ Renfe")
+![Suite con dos camas en el Transcantábrico.](https://fotos.etheriamagazine.com/2024/04/habitacion-doble-transcantabrico.jpg "Suite con dos camas en el Transcantábrico. © Patier/ Renfe")
 
 ## Qué nos gusta de El Transcantábrico
 

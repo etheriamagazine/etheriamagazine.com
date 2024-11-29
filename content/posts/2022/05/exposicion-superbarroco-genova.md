@@ -57,25 +57,25 @@ los tejidos o la cerámica.
 
 ### Algunas de las principales citas son:
 
-? **Museo dell’Accademia Ligustica di Belle Arti**. Para ver la obra de Orazio de 
+📍 **Museo dell’Accademia Ligustica di Belle Arti**. Para ver la obra de Orazio de 
 Ferrari. 
 
-? **Museo di Strada Nouva**. Con obras de los pintores Assereto y De Ferrari, además de 
+📍 **Museo di Strada Nouva**. Con obras de los pintores Assereto y De Ferrari, además de 
 la exposición Superbe Maioliche, una reconstrucción de las vajillas barrocas. 
 
-? **Galerías Nacionales del Palacio Spinola**. Con pinturas de Giovan Battista 
+📍 **Galerías Nacionales del Palacio Spinola**. Con pinturas de Giovan Battista 
 Castiglione il Grechetto. 
 
-? **Museo Diocesano**. El lugar para ver los suntuosos tejidos genoveses del barroco. 
+📍 **Museo Diocesano**. El lugar para ver los suntuosos tejidos genoveses del barroco. 
 
 ![escultura barroca](https://fotos.etheriamagazine.com/2022/05/Superbarroco-Palazzo-Reale.jpg "Escultura de Filippo Parodi en el Palazzo Reale. © ENIT")
 
-? **Museo di Palazzo Reale**. Con esculturas de Filippo Parodi. 
+📍 **Museo di Palazzo Reale**. Con esculturas de Filippo Parodi. 
 
-? **El Albergo dei Poveri**. Aquí todas las miradas se las lleva la Virgen de mármol de 
+📍 **El Albergo dei Poveri**. Aquí todas las miradas se las lleva la Virgen de mármol de 
 Pierre Puget. 
 
-? **El Palacio Nicolisio Lomellino**. Aquí no te puedes perder las estatuas de mármol 
+📍 **El Palacio Nicolisio Lomellino**. Aquí no te puedes perder las estatuas de mármol 
 del jardín de Domenico Parodi. 
 
 ## Y más eventos

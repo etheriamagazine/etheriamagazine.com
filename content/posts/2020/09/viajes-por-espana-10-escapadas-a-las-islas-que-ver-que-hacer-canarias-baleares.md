@@ -16,7 +16,7 @@ muy marcada y, en su interior, cada isla tiene su propia personalidad, que manif
 sus paisajes, folclore y gastronomía. Te animamos a descubrirlas con estas 10 escapadas 
 perfectas para realizar todo el año y con quien quieras. 
 
-![mar de Ibiza en cala Conta](https://fotos.etheriamagazine.com/2018/05/Ibiza-cala-conta_NC_2-1024x768.jpg "Cala Conta en Ibiza.")
+![mar de Ibiza en cala Conta](https://fotos.etheriamagazine.com/2018/05/Ibiza-cala-conta_NC_2.jpg "Cala Conta en Ibiza.")
 
 Cuando llega el momento de elegir el destino de las vacaciones hay que tener muy en 
 cuenta a las islas españolas. Los viajes a Baleares y Canarias son siempre un buen plan: 

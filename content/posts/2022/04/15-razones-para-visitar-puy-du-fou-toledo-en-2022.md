@@ -193,13 +193,13 @@ ocurre un marco mejor cerca de Toledo.
 
 ## Guía básica para visitar Puy du Fou Toledo
 
-### ? ¿Cómo llegar a Puy du Fou España?
+### 📌 ¿Cómo llegar a Puy du Fou España?
 
 Llegar a Puy du Fou es sencillo porque está a las afueras de Toledo. Debes seguir la CM 
 40 y tomar la salida 13. Desde la capital toledana sólo tardarás 8 minutos, y si vas 
 desde Madrid, unos 55 minutos. 
 
-### ? ¿Dónde comprar y cuál es el precio de las entradas para Puy du Fou?
+### 📌 ¿Dónde comprar y cuál es el precio de las entradas para Puy du Fou?
 
 Aunque en Puy du Fou hay taquillas, es recomendable [reservar las 
 entradas](https://www.puydufou.com/espana/es/calendario-y-horarios) con bastante 
@@ -216,7 +216,7 @@ confírmalo en su web.
 
 \*Existe la posibilidad de adquirir tarjetas regalo (desde 28 €). 
 
-### ? ¿Cómo organizar bien el día?
+### 📌 ¿Cómo organizar bien el día?
 
 La mejor forma de no perderse nada en Puy du Fou es organizándose muy bien. Nada más 
 llegar, coge en la entrada el impreso con los horarios de los espectáculos. En función 
@@ -227,7 +227,7 @@ después de lo habitual para no tener que hacer colas.
 iPhone](https://apps.apple.com/fr/app/puy-du-fou-espa%C3%B1a/id1474259491) o para [Android](https://play.google.com/store/apps/details?id=es.puydufou.espana&hl=en_US) 
 (hay wifi gratis en Puy du Fou). 
 
-### ? ¿Cuál es el mejor espectáculo de Puy du Fou Toledo?
+### 📌 ¿Cuál es el mejor espectáculo de Puy du Fou Toledo?
 
 Todos los espectáculos son sorprendentes pero los que se llevan más ovaciones son '**El 
 sueño de Toledo**' (es nocturno, no está incluido en la entrada general y tiene una 

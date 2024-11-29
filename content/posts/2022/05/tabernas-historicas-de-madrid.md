@@ -179,7 +179,7 @@ sus cañas bien tiradas y por sus canapés sencillos pero efectivos, a base de s
 embutidos. Y tienen unas gildas estupendas, el pincho perfecto para acompañar una 
 cerveza. 
 
-![camarero en bar centenario de Madrid](https://fotos.etheriamagazine.com/2022/05/Madrid-la-dolores-900x600.jpg "La cerveza bien tirada es una seña de identidad de La Dolores. © SG")
+![camarero en bar centenario de Madrid](https://fotos.etheriamagazine.com/2022/05/Madrid-la-dolores.jpg "La cerveza bien tirada es una seña de identidad de La Dolores. © SG")
 
 Además, es una de las tabernas históricas de Madrid más bonitas, tanto en su exterior, 
 con una fachada decorada con pequeñas teselas, como el interior con una barra de mármol 

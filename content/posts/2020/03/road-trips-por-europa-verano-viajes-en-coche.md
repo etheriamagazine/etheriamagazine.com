@@ -57,7 +57,7 @@ fortaleza. Desde aquí, puedes continuar por Sighişoara, Cluj-Napoca, Sibiu, Cu
 Argeș y Pitești hasta llegar de nuevo a Bucarest. Habrás visitado preciosas ciudades y 
 recorrido algunas de las carreteras más bonitas de Europa. 
 
-![Selva Negra Alemania niños viajes familia](https://fotos.etheriamagazine.com/2018/07/Cataratas-Triberg-bosque-1024x683.jpg "Bosque junto a las cataratas de Triberg, en Selva Negra. © SG")
+![Selva Negra Alemania niños viajes familia](https://fotos.etheriamagazine.com/2018/07/Cataratas-Triberg-bosque.jpg "Bosque junto a las cataratas de Triberg, en Selva Negra. © SG")
 
 ## 4\. Ruta en coche en familia por Alsacia y Selva Negra
 
@@ -70,7 +70,7 @@ cascadas de Triberg, conocerán un enorme reloj de cuco que ocupa una casa enter
 disfrutarán con la visita estrella del viaje, **Europa Park**, uno de los mejores 
 parques de atracciones de Europa. 
 
-![viaje mujeres cerdena playas costa esmeralda](https://fotos.etheriamagazine.com/2018/09/viaje-cerdena-Cala-Corsara-en-La-Magdalena-Costa-Esmeralda-1024x768.jpg "Cala Corsara, en el archipiélago de La Magdalena (Cedeña). © ENIT")
+![viaje mujeres cerdena playas costa esmeralda](https://fotos.etheriamagazine.com/2018/09/viaje-cerdena-Cala-Corsara-en-La-Magdalena-Costa-Esmeralda.jpg "Cala Corsara, en el archipiélago de La Magdalena (Cedeña). © ENIT")
 
 ## 5\. Ruta en coche con amigas en Cerdeña
 
@@ -83,7 +83,7 @@ ferry. También tienes la opción de recorrer ciudades como Cagliari, Alghero u 
 restos arqueológicos, fortalezas, calas… En este artículo te damos pistas para 
 planificar uno de los viajes en coche por Europa más interesantes que puedes realizar. 
 
-![](https://fotos.etheriamagazine.com/2018/05/TOSCANA-VOLTERRA-3-1024x683.jpg "Volterra, uno de los pueblos que hay que visitar en la Toscana. © SG")
+![](https://fotos.etheriamagazine.com/2018/05/TOSCANA-VOLTERRA-3.jpg "Volterra, uno de los pueblos que hay que visitar en la Toscana. © SG")
 
 ## 6\. Ruta en coche por la Toscana
 

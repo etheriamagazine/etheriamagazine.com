@@ -64,10 +64,10 @@ Aunque las calles, plazas e iglesias de Fermoselle merecen una parada, también 
 recordar las ruinas del **castillo de Doña Urraca**, otra mujer de armas tomar que tuvo 
 a bien retirarse a esta fortaleza al anularse su matrimonio con Fernando II de León. 
 
-?No os vayáis sin brindar en las **bodegas Pastrana** (calle Rumia) que están alojadas 
+📍No os vayáis sin brindar en las **bodegas Pastrana** (calle Rumia) que están alojadas 
 en una cueva del siglo XVIII y que organizan interesantes catas en su interior. 
 
-?Y si queréis conocer otra bodega curiosa, pasad por **Frontío**. Al frente de la misma 
+📍Y si queréis conocer otra bodega curiosa, pasad por **Frontío**. Al frente de la misma 
 se encuentra un simpático danés, Thyge, que dejó su país natal en 2016 persiguiendo un 
 sueño. Ese sueño tiene forma de cepas viejas y de vinos naturales con una mínima 
 intervención. Sus viñas poco accesibles, con un rendimiento reducido y escasa 
@@ -171,9 +171,9 @@ como los tamaños de las piezas o su maduración. Sólo os podemos hacer un apun
 os gusta el queso de leche cruda de oveja o la crema de queso no podréis resistir la 
 tentación de llevaros alguna pieza de La Faya o Fariza. 
 
-?La **experiencia turística** en esta quesería familiar incluye la visita al rebaño, ver 
-cómo ordeñan las ovejas –si coincide el horario– y una explicación de la elaboración de 
-los quesos. 
+📍La **experiencia turística** en esta quesería familiar incluye la visita al rebaño, 
+ver cómo ordeñan las ovejas –si coincide el horario– y una explicación de la elaboración 
+de los quesos. 
 
 ![Ángeles Santos, de la quesería La Faya (Fariza).](https://fotos.etheriamagazine.com/2023/04/angeles-queseria-faya-fariza.jpg "Ángeles, de la quesería La Faya (Fariza). © Pepa García")
 
@@ -189,7 +189,7 @@ el propio río, además de incluir matices didácticos explicando el trabajo de
 conservación de esos ecosistemas. La mejor manera de comprender la dimensión de este 
 proyecto es navegando y sintiendo la grandeza de este entorno transfronterizo. 
 
-![Susana G. Bonnail contando los proyectos ambientales que se llevan a cabo.](https://fotos.etheriamagazine.com/2023/04/susana-cruceros-arribes-850x491.jpg "Susana G. Bonnail contando los proyectos ambientales que se llevan a cabo. © P.G.")
+![Susana G. Bonnail contando los proyectos ambientales que se llevan a cabo.](https://fotos.etheriamagazine.com/2023/04/susana-cruceros-arribes.jpg "Susana G. Bonnail contando los proyectos ambientales que se llevan a cabo. © P.G.")
 
 Mientras el barco panorámico se desliza entre los cañones del Duero, los pasajeros 
 escuchan las explicaciones sobre el entorno natural, las aves y el modo de vida. Durante 
@@ -201,7 +201,7 @@ frontera, grandes vinos, españoles y portugueses, e incluso grifos de vino a li
 disposición del turista. En la [web de Europarques](https://www.europarques.com/) se 
 puede reservar plaza para este crucero que parte de Miranda do Douro. 
 
-![Crucero ambiental Europarques.](https://fotos.etheriamagazine.com/2023/04/Crucero-ambiental-Europarques-684x1024.jpg "© Crucero Ambiental Europarques.")
+![Crucero ambiental Europarques.](https://fotos.etheriamagazine.com/2023/04/Crucero-ambiental-Europarques.jpg "© Crucero Ambiental Europarques.")
 
 ### Liliana, "la xefa" de El Hato y el Garabato
 
@@ -261,11 +261,11 @@ la que destaca su torre del Homenaje, y un Museo del Aceite que es un auténtico
 Otra localidad de interés es **Villarino de los Aires** donde se sitúa la **Bodega Viña 
 Romana** (España, 50), que también organiza visitas guiadas. 
 
-?Si sois más de naturaleza, estaréis de enhorabuena porque allí se encuentran espacios 
+📍Si sois más de naturaleza, estaréis de enhorabuena porque allí se encuentran espacios 
 naturales de belleza apabullante como la cascada del **Pozo de los Humos** (en Masueco) 
 o el impactante **Mirador del Fraile**, en Aldeadávila de la Ribera. 
 
-?Y, por supuesto, hay que hacer alguna parada para recuperar fuerzas en los 
+📍Y, por supuesto, hay que hacer alguna parada para recuperar fuerzas en los 
 **restaurantes Santa Cruz** (Masueco), donde los sabores tradicionales os dejarán el 
 mejor sabor de boca, y **La Tinaja**, en el pueblo de Sobradillo. 
 

@@ -17,7 +17,7 @@ funde con el entorno de la Sierra de Albarracín, tiene buena culpa de tanto atr
 pero también se debe al rico patrimonio que guarda en su trazado medieval y a sus 
 gentes, empeñadas en mantener su esencia rural. 
 
-![Panorámica del pueblo de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-pueblo-teruel-850x568.jpg "Panorámica del pueblo de Albarracín.")
+![Panorámica del pueblo de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-pueblo-teruel.jpg "Panorámica del pueblo de Albarracín.")
 
 Algo más de treinta minutos se necesitan para llegar a Albarracín desde la ciudad de 
 Teruel, un tiempo breve que apenas nos prepara para la belleza que luce incluso en la 
@@ -40,7 +40,7 @@ Si puedes, haz noche en la localidad porque es la única manera de contemplar la
 creas que lo has visto todo, continúa para descubrir también los encantos rurales de la 
 **Sierra de Albarracín**. 
 
-![Murallas de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-murallas-850x370.jpg "Murallas de Albarracín.")
+![Murallas de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-murallas.jpg "Murallas de Albarracín.")
 
 ## Visitas imprescindibles en Albarracín
 
@@ -79,7 +79,7 @@ y actualmente está destinado a actividades culturales y formativas. En su inter
 resalta una espectacular escalera con pasamanos de forja, capilla propia y un austero 
 claustro que conecta con la catedral. 
 
-![Catedral de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-catedral-721x1000.jpg "Catedral de Albarracín.")
+![Catedral de Albarracín.](https://fotos.etheriamagazine.com/2024/01/albarracin-catedral.jpg "Catedral de Albarracín.")
 
 ### Miradores
 

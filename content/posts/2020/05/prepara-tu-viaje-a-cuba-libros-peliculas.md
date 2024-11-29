@@ -13,7 +13,7 @@ authors:
 
 Uno de los placeres que proporciona preparar un viaje es poder acercarse lentamente al destino a través de libros y películas. Aquí te recomendamos algunos títulos imprescindibles para acercarte a Cuba y, especialmente, a la fotogénica ciudad de La Habana.
 
-![coche clásico en Cuba](https://fotos.etheriamagazine.com/2020/04/Cuba-la-habana-calle-900x600.jpg "Calle de La Habana. © Alexander Kunze")
+![coche clásico en Cuba](https://fotos.etheriamagazine.com/2020/04/Cuba-la-habana-calle.jpg "Calle de La Habana. © Alexander Kunze")
 
 Cuba es uno de esos países que tienen tanta personalidad que las experiencias que allí 
 vivas serán únicas, y esa forma de ser diferente a todo se ha trasladado también a 
@@ -38,7 +38,7 @@ después por escritor y homosexual, y su posterior exilio. Además, tiene el ali
 estar protagonizada por Javier Bardem, que obtuvo una nominación a Mejor Actor en los 
 Oscar del año 2000. 
 
-![Casa popular en La Habana.](https://fotos.etheriamagazine.com/2020/04/Cuba-casa-popular-900x600.jpg "Casa popular en La Habana. © Florian Wehdeiq")
+![Casa popular en La Habana.](https://fotos.etheriamagazine.com/2020/04/Cuba-casa-popular.jpg "Casa popular en La Habana. © Florian Wehdeiq")
 
 #### • ’Suite Habana’
 
@@ -54,7 +54,7 @@ locales tan populares como Jorge Perugorría y Mirtha Ibarra. Narra las peripeci
 singular cortejo fúnebre y las personas que se cruzan en su camino, mostrando la 
 particular forma de ver el mundo de los cubanos. 
 
-![trompetista en La Habana](https://fotos.etheriamagazine.com/2020/04/cuba-trompetista-900x600.jpg "Músico en La Habana. © Jessica Knowlden")
+![trompetista en La Habana](https://fotos.etheriamagazine.com/2020/04/cuba-trompetista.jpg "Músico en La Habana. © Jessica Knowlden")
 
 #### • ‘Habana Blues’
 
@@ -69,7 +69,7 @@ Con el más puro estilo de comedia española, esta película de Fernando Colomo 
 protagonista a La Habana donde se suceden todo tipo de enredos. Un acercamiento ligero y 
 divertido a la ciudad. 
 
-![casas de colores en La Habana](https://fotos.etheriamagazine.com/2020/04/La-habana-casas-colores-900x600.jpg "Casas recién pintadas en La Habana.")
+![casas de colores en La Habana](https://fotos.etheriamagazine.com/2020/04/La-habana-casas-colores.jpg "Casas recién pintadas en La Habana.")
 
 #### • ‘Últimos días en La Habana’
 
@@ -84,7 +84,7 @@ antiguo club ‘Buena Vista Social Club’ cincuenta años después de su cierre
 en el que se reúnen para grabar juntos un álbum. Un recorrido por sus vidas con 
 fragmentos de los conciertos que dieron en Ámsterdam y Nueva York. 
 
-![músicos callejeros en Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-musicos-900x796.jpg "La música forma parte del día a día de Cuba. © Florian Wehdeiq")
+![músicos callejeros en Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-musicos.jpg "La música forma parte del día a día de Cuba. © Florian Wehdeiq")
 
 #### • ‘Lista de espera’
 
@@ -92,7 +92,7 @@ Una divertida comedia cubana del año 2000 que narra las vicisitudes de un grupo
 pasajeros atrapados en una terminal de autobuses. Es un magnífico retrato del espíritu 
 cubano, capaz de sacar lo bueno de casi cualquier situación. 
 
-![Gente en El Malecón](https://fotos.etheriamagazine.com/2020/04/Cuba-malecon-900x600.jpg "El Malecón de La Habana.")
+![Gente en El Malecón](https://fotos.etheriamagazine.com/2020/04/Cuba-malecon.jpg "El Malecón de La Habana.")
 
 #### • ‘Siete días en La Habana’
 
@@ -111,7 +111,7 @@ condición de homosexual, escritor y activista. También retrata sus años de ex
 Estados Unidos hasta que, enfermo de SIDA, acabó con su vida. En [Amazon](https://amzn.to/2Y8r0mL) 
 en versión Kindle y en tapa blanda. 
 
-![libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-libros-1-900x714.jpg "Un libro autobiográfico y un recorrido sobre la noche de La Habana.")
+![libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-libros-1.jpg "Un libro autobiográfico y un recorrido sobre la noche de La Habana.")
 
 #### • ‘Teoría y práctica de La Habana’ de Rubén Gallo
 
@@ -128,7 +128,7 @@ la sexualidad y multitud de alusiones cinematográficas. La prosa de Cabrera Inf
 entrever su sentido del humor y ese gusto por el preciosismo del lenguaje que le 
 caracteriza. 
 
-![tres libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-libros-2-900x933.jpg "Diferentes visiones de la vida en Cuba.")
+![tres libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-libros-2.jpg "Diferentes visiones de la vida en Cuba.")
 
 #### • ‘Trilogía sucia de La Habana’ de Pedro Juan Gutiérrez
 
@@ -144,7 +144,7 @@ kilómetros del autor, desde Santiago de Cuba hacia la parte occidental de la is
 contando Cuba desde dentro a través de las voces de los propios cubanos. Puedes 
 comprarlo online en la librería [Altaïr](https://www.altair.es/es/libro/cuba-mas-alla-de-fidel-9-heterodoxos-altair_109209). 
 
-![libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-libros-3-900x685.jpg "Novela y ensayo sobre Cuba.")
+![libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/cuba-libros-3.jpg "Novela y ensayo sobre Cuba.")
 
 #### • ‘Cuba en la encrucijada’ de varios autores
 
@@ -158,7 +158,7 @@ Una novela que recorre sesenta años de la vida de su protagonista, una mujer cu
 los que se ven reflejados los acontecimientos fundamentales de la historia de la isla en 
 el siglo XX. Disponible en [Amazon](https://amzn.to/2YaqDYI). 
 
-![libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/libros-viaje-cuba-900x677.jpg "'Una casa en Amargura' y 'La isla de los ingenios'.")
+![libros sobre Cuba](https://fotos.etheriamagazine.com/2020/04/libros-viaje-cuba.jpg "'Una casa en Amargura' y 'La isla de los ingenios'.")
 
 #### • 'Una casa en Amargura', de Elisa Vázquez de Gey.
 
@@ -181,7 +181,7 @@ posible muerte de Fidel, no lo pudo hacer, lo que sí logró es reunir sus viven
 subrealistas en esta obra. Se puede [comprar en Amazon](https://amzn.to/3aQCM89) en 
 papel desde unos 17 € y en versión Kindle desde unos 6 €. 
 
-![Guías de viaje sobre Cuba.](https://fotos.etheriamagazine.com/2020/04/cuba-guias-viaje-900x519.jpg "Guías de viaje sobre Cuba.")
+![Guías de viaje sobre Cuba.](https://fotos.etheriamagazine.com/2020/04/cuba-guias-viaje.jpg "Guías de viaje sobre Cuba.")
 
 Guías de viaje a Cuba: 
 

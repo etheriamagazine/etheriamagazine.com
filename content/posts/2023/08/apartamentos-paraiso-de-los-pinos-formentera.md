@@ -88,7 +88,7 @@ Francisco Javier, Formentera. Tel. +34 971 322 613.
 
 © Fotografías cedidas por Paraíso de los Pinos 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Formentera con amigas, planes imprescindibles para una escapada 
 perfecta](https://etheriamagazine.com/2023/04/24/formentera-con-amigas/) 

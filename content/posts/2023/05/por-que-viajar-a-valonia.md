@@ -34,7 +34,7 @@ increíbles de la ciudad y a la que se puede subir en teleférico. Con 500 metro
 galerías subterráneas restauradas, narra dos mil años de historia urbana y militar 
 europea. Además, sus jardines son perfectos para dar un paseo. 
 
-![Cisne frente a la ciudad de Namur](https://fotos.etheriamagazine.com/2023/05/Valonia-ciudadela-Namur-683x1024.jpg "Ciudadela de Namur. © WBT/Dominik Ketz.")
+![Cisne frente a la ciudad de Namur](https://fotos.etheriamagazine.com/2023/05/Valonia-ciudadela-Namur.jpg "Ciudadela de Namur. © WBT/Dominik Ketz.")
 
 Ya en la ciudad, no te puedes perder la place du Marché aux Légumes, la catedral 
 Saint-Aubain o el campanario. Otro lugar muy especial es la zona de los muelles, donde 
@@ -98,7 +98,7 @@ su centro histórico entre antiguas casas de piedra. No olvides dar una vuelta p
 Parque de Les Tapiaires, con árboles podados formando originales esculturas, ni por la 
 peña de Omalius con su fuente de agua. 
 
-![Calle de Durbuy.](https://fotos.etheriamagazine.com/2023/05/Valonia-Durbuy-649x1024.jpg "Calle de Durbuy. © WBT/Dominik Ketz.")
+![Calle de Durbuy.](https://fotos.etheriamagazine.com/2023/05/Valonia-Durbuy.jpg "Calle de Durbuy. © WBT/Dominik Ketz.")
 
 ## Hacer una ruta en bicicleta por Bouillon
 
@@ -124,7 +124,7 @@ medieval hasta convertirse en una casa de campo. El interior conserva unas bonit
 estancias decoradas con muebles de época y en el exterior el invernadero, construido en 
 1830, es una parada obligada. 
 
-![Castillo de Baloeil.](https://fotos.etheriamagazine.com/2023/05/valonia-castillo-de-Beloeil-680x1024.jpg "Castillo de Baloeil. © WBT/J.P. Remy")
+![Castillo de Baloeil.](https://fotos.etheriamagazine.com/2023/05/valonia-castillo-de-Beloeil.jpg "Castillo de Baloeil. © WBT/J.P. Remy")
 
 ## Guía práctica de Valonia
 
@@ -162,7 +162,7 @@ señalado ocho, pero el viaje te puede llevar también a lugares tan interesante
 Lieja, Spa, Waterloo o Rochefort. Lo mejor es entrar en la [web de Turismo de 
 Valonia](https://visitwallonia.es/) y organizar la ruta según tus intereses. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Bruselas, capital del Art Nouveau en 
 2023](https://etheriamagazine.com/2022/12/23/bruselas-art-nouveau/) 

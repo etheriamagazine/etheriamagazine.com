@@ -65,7 +65,7 @@ paisajes de arrozales escalonados de Ubud perfectos para una foto y cobrar entra
 el acceso. Y alrededor de esto, se crea una exitosa experiencia turística que antes no 
 existía. 
 
-![fotos en](https://fotos.etheriamagazine.com/2023/07/bali-columpios-aloha-ubud-850x564.jpg "Fotos en los famosos columpios de Ubud. © Susana García")
+![fotos en](https://fotos.etheriamagazine.com/2023/07/bali-columpios-aloha-ubud.jpg "Fotos en los famosos columpios de Ubud. © Susana García")
 
 ✅ La entrada cuesta 400.000 rupias y puedes además **alquilar un vaporoso vestido de 
 raso** (otra opción es llevarte el vestido más chic de tu maleta) y te ofrecen la 
@@ -192,7 +192,7 @@ bañarte con ellos subida a horcajadas en su lomo o simplemente dejar que te abr
 su trompa o te coloquen una corona de flores. En la reserva insisten en que todo lo 
 aprenden a base de repetición y no se utiliza ningún tipo de violencia con ellos. 
 
-![Fotos con elefantes en Mason Elephant Park & Lodge](https://fotos.etheriamagazine.com/2023/07/bali-reserva-elefantes-fotos-parejas-850x613.jpg "Fotos con elefantes en Mason Elephant Park & Lodge. © SG")
+![Fotos con elefantes en Mason Elephant Park & Lodge](https://fotos.etheriamagazine.com/2023/07/bali-reserva-elefantes-fotos-parejas.jpg "Fotos con elefantes en Mason Elephant Park & Lodge. © SG")
 
 ## Información práctica
 

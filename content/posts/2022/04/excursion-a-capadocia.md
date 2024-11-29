@@ -41,7 +41,7 @@ ciudades subterráneas como **Kaymaklı, Derinkuyu, Özkonak, Mazi y Tatlarin**,
 para proteger a la población de los invasores. A veces tendrás la sensación de que estás 
 en otro planeta. 
 
-? Si te gusta ir con guía, hay una excursión por el Sur de Capadocia por unos 55 euros. [Infórmate](https://www.civitatis.com/es/capadocia/tour-sur-capadocia/?aid=10211). 
+📌 Si te gusta ir con guía, hay una excursión por el Sur de Capadocia por unos 55 euros. [Infórmate](https://www.civitatis.com/es/capadocia/tour-sur-capadocia/?aid=10211). 
 
 ![Una mujer observa el paisaje desde un globo aerostático en Capadocia](https://fotos.etheriamagazine.com/2022/04/vuelo-globo-capadocia.jpg "Sobrevolar en globo la Capadocia es una experiencia inolvidable. © Jeison Higuita")
 
@@ -100,15 +100,15 @@ primeros habitantes, asirios, hititas, frigios, helenos, romanos, bizantinos, ad
 cristianos y musulmanes. Se cree que las iglesias de Kılıçlar, Karanlık y Tokalı fueron 
 usadas como necrópolis por los habitantes de Avanos durante la época romana. 
 
-? **Museum Pass Cappadocia**. Bono que incluye la entrada a más de [10 museos de 
+📌 **Museum Pass Cappadocia**. Bono que incluye la entrada a más de [10 museos de 
 Capadocia](https://muze.gov.tr/urun-detay?CatalogNo=WEB-MSP01-19-008) y con una validez 
 de tres días. Precio: 230 TL 
 
-? **Tour guiado por el Norte de Capadocia** desde 55 euros (con entrada incluida al 
+📌 **Tour guiado por el Norte de Capadocia** desde 55 euros (con entrada incluida al 
 Museo, visita a un taller de cerámica, etc.). [Infórmate 
 aquí.](https://www.civitatis.com/es/capadocia/tour-norte-capadocia/?aid=10211) 
 
-![Iglesia tallada en la roca en Pasabag.](https://fotos.etheriamagazine.com/2022/04/pasabag-kilisesi-capadocia-680x1024.jpg "Iglesia tallada en la roca en Pasabag.")
+![Iglesia tallada en la roca en Pasabag.](https://fotos.etheriamagazine.com/2022/04/pasabag-kilisesi-capadocia.jpg "Iglesia tallada en la roca en Pasabag.")
 
 ### 6\. Comprar cerámica turca
 
@@ -154,7 +154,7 @@ en cuenta que hay dos aeropuertos en Estambul (Ataturk y Sabiha gokcen) y otros 
 Capadocia (Kayseri y Nevsehir). Consulta opciones y precios en [Skyscanner](https://www.skyscanner.es/rutas-aereas/ista/asr/estambul-a-kayseri.html) 
 o en otro comparador de confianza. 
 
-? Los traslados desde el aeropuerto al hotel se pueden [reservar 
+📌 Los traslados desde el aeropuerto al hotel se pueden [reservar 
 previamente](https://www.civitatis.com/es/capadocia/traslados/?aid=10211). 
 
 ##### Cuál es la mejor época para viajar a Capadocia
@@ -171,12 +171,12 @@ Si no quieres preocuparte de nada, y no eres especialmente aventurera, nuestra
 recomendación es que optes por excursiones guiadas en Capadocia. Son baratas y sólo 
 tienes que centrarte en disfrutar del destino. Algunas propuestas son: 
 
-? Capadocia al completo en 2 días (120 euros). Incluye recogida en el hotel, transporte 
+📌 Capadocia al completo en 2 días (120 euros). Incluye recogida en el hotel, transporte 
 en minibús, entradas, comidas, tour en jeep y guía en español. Y se puede cancelar hasta 
 48 horas antes. [Infórmate 
 aquí.](https://www.civitatis.com/es/capadocia/capadocia-completo-2-dias/?aid=10211) 
 
-? Excursión de 4 días a Capadocia con visitas a Ankara, Saratli, Uçhisar y el Valle del 
+📌 Excursión de 4 días a Capadocia con visitas a Ankara, Saratli, Uçhisar y el Valle del 
 Göreme. [Infórmate de lo que 
 incluye](https://www.civitatis.com/es/estambul/excursion-capadocia-4-dias/?aid=10211). 
 

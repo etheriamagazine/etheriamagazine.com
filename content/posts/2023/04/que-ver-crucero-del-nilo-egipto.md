@@ -94,7 +94,7 @@ honor de Ptah y Jonsu). También ha pasado por varias ampliaciones desde el Impe
 Medio. El tiempo quedará detenido cuando pasees entre su mar de columnas, en la que es 
 probablemente la sala hipóstila más grandiosa que contemplarás jamás. 
 
-![Columnas de la sala hipóstila del templo de Karnak.](https://fotos.etheriamagazine.com/2023/04/crucero-nilo-templo-karnak-luxor-columnas-683x1024.jpg "Columnas de la sala hipóstila del templo de Karnak. © Susana García/ Etheria Magazine")
+![Columnas de la sala hipóstila del templo de Karnak.](https://fotos.etheriamagazine.com/2023/04/crucero-nilo-templo-karnak-luxor-columnas.jpg "Columnas de la sala hipóstila del templo de Karnak. © Susana García/ Etheria Magazine")
 
 ### Las necrópolis: las tumbas escondidas de la orilla oeste
 
@@ -282,7 +282,7 @@ rudimentarias que suponemos que tenían? Es un placer viajar a un país donde ha
 preguntas que certezas y la imaginación tiene espacio para ayudar a reconstruir una 
 historia tan apasionante como la del Antiguo Egipto. 
 
-![Nubio en el Templo de Isis en Filae.](https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-templo-filae-nubio-664x1024.jpg "Nubio en el Templo de Isis en Filae. © Susana García/ Etheria Magazine")
+![Nubio en el Templo de Isis en Filae.](https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-templo-filae-nubio.jpg "Nubio en el Templo de Isis en Filae. © Susana García/ Etheria Magazine")
 
 ## Guía práctica para hacer un buen crucero por el Nilo
 

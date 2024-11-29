@@ -52,7 +52,7 @@ aquí una civilización donde la cultura, la arquitectura y el paisajismo fueron
 protagonistas. Llevad cámaras de fotos y móviles cargados porque no dejaréis de 
 encontrar rincones para inmortalizar. 
 
-?No te pierdas: [10 consejos para triunfar en tu visita a La 
+📍No te pierdas: [10 consejos para triunfar en tu visita a La 
 Alhambra](https://etheriamagazine.com/2021/10/25/consejos-para-visitar-la-alhambra/). 
 
 ### 2\. Recorrido por el Albaicín
@@ -75,7 +75,7 @@ Otros lugares a los que acercaros en el Albaicín son el **Palacio de los Córdo
 con "v") o los baños de [El 
 Bañuelo](https://www.alhambra-patronato.es/descubrir/monumentos-andalusies/el-banuelo). 
 
-?No te pierdas: [El Albaicín y La Alhambra, dos visitas ineludibles en 
+📍No te pierdas: [El Albaicín y La Alhambra, dos visitas ineludibles en 
 Granada](https://etheriamagazine.com/2020/05/29/48-horas-en-el-albayzin-y-la-alhambra/). 
 
 ### 3\. Un baño en un hammam
@@ -105,7 +105,7 @@ en animadas tertulias.
 
 ![museo Federico García Lorca en Granada](https://fotos.etheriamagazine.com/2022/06/Granada-Lorca-museo.jpg "Centro cultural Federico García Lorca. © Universo Lorca")
 
-?No te pierdas: [Ruta de Lorca en Granada, un paseo por sus rincones más 
+📍No te pierdas: [Ruta de Lorca en Granada, un paseo por sus rincones más 
 íntimos](https://etheriamagazine.com/2020/10/07/ruta-cultural-granada-de-garcia-lorca/). 
 
 ### 5\. De tapas por Granada
@@ -123,7 +123,7 @@ Pero si queréis almuerzo y cena de mesa y mantel para degustar la sabrosa gastr
 granadina, podéis acudir a restaurantes como [Faralá](https://restaurantefarala.com/), [Damasqueros](https://damasqueros.com/) 
 o **Cunini**. 
 
-?No te pierdas: [Granada, el privilegio de la buena 
+📍No te pierdas: [Granada, el privilegio de la buena 
 mesa](https://etheriamagazine.com/2020/10/30/restaurantes-bares-de-granada-y-visitas-para-mujeres/). 
 
 ### 6\. El barrio de Sacromonte
@@ -201,7 +201,8 @@ vuestros pies desde uno de los mejores miradores de la ciudad.
 
 ![Granada al anochecer](https://fotos.etheriamagazine.com/2022/06/granada-Alhambra-palace.jpg "Imagen nocturna del © Alhambra Palace.")
 
-? No te pierdas: [Hotel Alhambra Palace, tres curiosidades que tienes que saber antes de 
+📍 No te pierdas: [Hotel Alhambra Palace, tres curiosidades que tienes que saber antes 
+de 
 alojarte](https://etheriamagazine.com/2021/09/02/curiosidades-hotel-alhambra-palace/). 
 
 ### Más viajes con amigas en Andalucía:

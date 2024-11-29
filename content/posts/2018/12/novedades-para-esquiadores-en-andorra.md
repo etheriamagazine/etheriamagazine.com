@@ -12,7 +12,7 @@ Las que disfrutáis con los deportes blancos ya podéis empezar a desempolvar lo
 porque ha comenzado la temporada en Andorra. Os contamos las novedades de Vallnord 
 Ordino-Arcalís, Vallnord Pal-Arinsal y Grandvalira. 
 
-![novedades esqui andorra, temporada 2019 esqui andorra](https://fotos.etheriamagazine.com/2018/12/raquetas-mujer-andorra-1024x577.jpg)
+![novedades esqui andorra, temporada 2019 esqui andorra](https://fotos.etheriamagazine.com/2018/12/raquetas-mujer-andorra.jpg)
 
 Con más de 300 kilómetros de pistas, Andorra es uno de los destinos europeos de esquí 
 más cercanos con pistas para todos los niveles y una amplia oferta complementaria para 
@@ -36,7 +36,7 @@ nieve enlazados en cadena. Otra opción es el **Tubby**, una actividad que permi
 deslizarse por la montaña con un flotador gigante en Grandvalira. ¿Si nos divertimos con 
 los 'donuts' en los parques acuáticos por qué no hacerlo en la montaña? 
 
-![novedades esqui andorra, temporada 2019 esqui andorra](https://fotos.etheriamagazine.com/2018/12/esqui-en-andorra-1024x765.jpg)
+![novedades esqui andorra, temporada 2019 esqui andorra](https://fotos.etheriamagazine.com/2018/12/esqui-en-andorra.jpg)
 
 ## Reponer energías
 
@@ -44,7 +44,7 @@ A la oferta culinaria habitual en Grandvalira, este año se suma un _food truck_
 picoteo, productos a la plancha, cervezas selectas y salmones ahumados de Carpier 
 acompañados de cava (especial para las más sibaritas), entre otras opciones. 
 
-![esquiar en andorra, cenas en restaurant hotel iglu](https://fotos.etheriamagazine.com/2018/12/restaurante-hotel-iglu-interior-1024x683.jpg "© Restaurante Hotel Iglú (Andorra)")
+![esquiar en andorra, cenas en restaurant hotel iglu](https://fotos.etheriamagazine.com/2018/12/restaurante-hotel-iglu-interior.jpg "© Restaurante Hotel Iglú (Andorra)")
 
 Como experiencia te recomendamos cenar en el **Restaurante Hotel Iglú**, un espacio 
 totalmente construido con hielo desde donde podrás admirar las estrellas. Como novedad 
@@ -52,7 +52,7 @@ en Vallnord se estrena esta temporada el **edificio del Coll de la Botella** en 
 incorpora a las cenas habituales otras temáticas con actividades especiales: clases de 
 yoga, noches de luna llena... 
 
-![novedades esqui andorra, temporada 2019 esqui andorra](https://fotos.etheriamagazine.com/2018/12/esqui-mujeres-andorra-1024x683.jpg)
+![novedades esqui andorra, temporada 2019 esqui andorra](https://fotos.etheriamagazine.com/2018/12/esqui-mujeres-andorra.jpg)
 
 ## Y después de cenar, ¿cuál es el plan?
 

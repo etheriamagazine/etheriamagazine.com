@@ -14,7 +14,7 @@ Miami es un lugar donde es difícil aburrirse con los más pequeños ya que est�
 posibilidades de ocio para toda la familia. Aquí te contamos 7 planes que no puedes 
 perderte en un viaje con niños a Miami. 
 
-![Miami en familia](https://fotos.etheriamagazine.com/2018/05/Miami-Beach-1024x683.jpg "Playa de Miami Beach. © SG")
+![Miami en familia](https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg "Playa de Miami Beach. © SG")
 
 El mejor lugar para descubrir Miami en un viaje en familia es South Beach, que 
 representa la imagen que todos tenemos en la mente de esta ciudad de sol y palmeras. Sus 
@@ -46,7 +46,7 @@ apartamentos de lujo donde viven las hermanas Williams, la casa de Versace (dond
 asesinado) o la famosa casa del icono de la ciudad, Don Jonhson (Miami Vice), son 
 inevitables. 
 
-![Little Havanna en Miami](https://fotos.etheriamagazine.com/2018/05/Miami-Little-Havanna-1024x683.jpg "'La Esquina de la Fama', uno de los lugares donde tomar algo en Little Havana. © SG")
+![Little Havanna en Miami](https://fotos.etheriamagazine.com/2018/05/Miami-Little-Havanna.jpg "'La Esquina de la Fama', uno de los lugares donde tomar algo en Little Havana. © SG")
 
 ### Little Havana.
 
@@ -71,7 +71,7 @@ pena. Se ven algunos cocodrilos, sobre todo pequeños, y después hay un itinera
 minizoo especializado en estos animales. La experiencia es divertida y apta para un 
 viaje con niños a Miami. Se tarda unos 40-50 minutos desde Miami Beach. 
 
-![Miami familia tour viaje niños barca](https://fotos.etheriamagazine.com/2018/05/Miami-Everglades-1024x682.jpg "Paseo en lancha de hélice en los Everglades")
+![Miami familia tour viaje niños barca](https://fotos.etheriamagazine.com/2018/05/Miami-Everglades.jpg "Paseo en lancha de hélice en los Everglades")
 
 ### Acudir a un partido de la NBA.
 
@@ -105,7 +105,7 @@ dos habitaciones y dos baños. Es un hotel con mucha historia, que mantiene el e
 Decó. Las zonas comunes no son muy grandes, como en la mayoría de hoteles de la zona, 
 pero cuenta con una agradable piscina y dos restaurantes. 
 
-![Miami en familia](https://fotos.etheriamagazine.com/2018/05/Miami-Beach-Art-Deco-1024x799.jpg "Edificio At Decó en Miami Beach.")
+![Miami en familia](https://fotos.etheriamagazine.com/2018/05/Miami-Beach-Art-Deco.jpg "Edificio At Decó en Miami Beach.")
 
 ### Cómo moverse por Miami
 

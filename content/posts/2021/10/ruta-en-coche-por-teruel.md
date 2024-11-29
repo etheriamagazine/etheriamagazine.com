@@ -38,7 +38,7 @@ mercedarios han encontrado en el cielo más que sosiego espiritual– como desde
 El Cabrero**, un alojamiento en finca tradicional tachonado de estrellas. O, incluso, 
 desde un balneario por el que definitivamente entramos en **El Paraíso**. 
 
-![Bóveda del frío, en Belmonte de San José.](https://fotos.etheriamagazine.com/2021/10/Boveda-del-frio-Belmonte-de-San-Jose-683x1024.jpg "Bóveda del frío, en Belmonte de San José.")
+![Bóveda del frío, en Belmonte de San José.](https://fotos.etheriamagazine.com/2021/10/Boveda-del-frio-Belmonte-de-San-Jose.jpg "Bóveda del frío, en Belmonte de San José.")
 
 ## Pueblos donde escuchar el tiempo
 
@@ -70,14 +70,14 @@ originales formaciones rocosas del Rincón del Gorgo. Cuidado, comienza una llam
 irresistible por las sendas. Algunas tan emocionantes como el **parrizal de Beceite**, 
 archiconocido por su angosto pasaje de pasarelas sobre el río. 
 
-![Rincón del Gorgo en el barranco de Valdoria.](https://fotos.etheriamagazine.com/2021/10/Rincon-del-Gorgo-en-barranco-de-Valdoria-683x1024.jpg "Rincón del Gorgo en el barranco de Valdoria.")
+![Rincón del Gorgo en el barranco de Valdoria.](https://fotos.etheriamagazine.com/2021/10/Rincon-del-Gorgo-en-barranco-de-Valdoria.jpg "Rincón del Gorgo en el barranco de Valdoria.")
 
 Durante esta ruta en coche por Teruel surgirán muchos senderos de pequeño recorrido bien 
 señalizados. Invitan a sumergirse cada día en el paisaje y sus ritmos agrícolas. Como la 
 vieja senda que, desde el enrocado pueblo de **Fórnoles**, entre olivares, almendros y 
 viñedos, va a la ermita de Montserrate donde mora la Virgen capaz de atraer el agua. 
 
-![Museo Minero de Escucha.](https://fotos.etheriamagazine.com/2021/10/Museo-Minero-Escucha-683x1024.jpg "Museo Minero de Escucha.")
+![Museo Minero de Escucha.](https://fotos.etheriamagazine.com/2021/10/Museo-Minero-Escucha.jpg "Museo Minero de Escucha.")
 
 ## Aventurarse bajo tierra
 
@@ -195,7 +195,7 @@ definitivamente querrás que el tiempo se detenga. Al igual que en **El Gaiter**
 casa con interés turístico industrial en Aguaviva que homenajea a un emprendedor 
 comerciante con un alojamiento cautivador. 
 
-![Puente medieval y puerta de San Roque, en Valderrobres.](https://fotos.etheriamagazine.com/2021/10/Puente-medieval-y-puerta-de-San-Roque-Valderrobres-683x1024.jpg "Puente medieval y puerta de San Roque, en Valderrobres.")
+![Puente medieval y puerta de San Roque, en Valderrobres.](https://fotos.etheriamagazine.com/2021/10/Puente-medieval-y-puerta-de-San-Roque-Valderrobres.jpg "Puente medieval y puerta de San Roque, en Valderrobres.")
 
 En el entramado medieval de Valderrobres, el **hotel El Castell**, en uno de los 
 edificios más antiguos, no solo ofrece un bocado tradicional sino descanso con vistas al 
@@ -212,7 +212,7 @@ arte cristiano e islámico en la arquitectura turolense. Su magia está en la pl
 de sus materiales humildes como el yeso, el ladrillo y las brillantes cerámicas 
 vidriadas con esmaltes verdes y blancos que encienden su brillo bajo el sol. 
 
-![Detalle de la torre mudéjar de El Salvador, en Teruel.](https://fotos.etheriamagazine.com/2021/10/Detalles-Torre-mudejar-El-Salvador-Teruel-639x1024.jpg "Detalle de la torre mudéjar de El Salvador, en Teruel.")
+![Detalle de la torre mudéjar de El Salvador, en Teruel.](https://fotos.etheriamagazine.com/2021/10/Detalles-Torre-mudejar-El-Salvador-Teruel.jpg "Detalle de la torre mudéjar de El Salvador, en Teruel.")
 
 Pero, para disfrutarlo plenamente, es inevitable que acabes en la ciudad de Teruel. El 
 mudéjar la convirtió en Patrimonio de la Humanidad, y no hay duda de los motivos si 
@@ -223,7 +223,7 @@ un animado ambiente urbano a cualquier hora, bajo sus edificios modernistas y al
 de la pequeña estatua del toro o _torico_ con una estrella que fundamenta el legendario 
 asentamiento de la ciudad. 
 
-![Monumento al Torico, en Teruel.](https://fotos.etheriamagazine.com/2021/10/Monumento-al-Torico-Teruel-683x1024.jpg "Monumento al Torico, en Teruel.")
+![Monumento al Torico, en Teruel.](https://fotos.etheriamagazine.com/2021/10/Monumento-al-Torico-Teruel.jpg "Monumento al Torico, en Teruel.")
 
 Más información en [Turismo de Teruel](https://www.sienteteruel.es/). 
 

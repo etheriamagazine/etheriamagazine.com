@@ -34,7 +34,7 @@ almendros y cereales en cultivo ecológico que recrecen la finca hasta las 800 h
 divisamos un valle tranquilo de perfiles ondulados por colinas y pueblos prendidos de 
 las laderas al más puro estilo de la Toscana. 
 
-![vista aerea vendimia la rioja](https://fotos.etheriamagazine.com/2020/10/Etheria-magazine-La-Rioja-vendimia-682x1024.jpg "La vendimia vista desde el aire en La Rioja.")
+![vista aerea vendimia la rioja](https://fotos.etheriamagazine.com/2020/10/Etheria-magazine-La-Rioja-vendimia.jpg "La vendimia vista desde el aire en La Rioja.")
 
 ## A vendimiar por un día
 
@@ -106,7 +106,7 @@ En **Las Ruedas de Ocón** podrás dormir en la plaza del pueblo frente a la igl
 quedas en **Casa Gassedat**, una vivienda tradicional del siglo XIX con un aire popular 
 al que contribuye su esmerada decoración con artesanía riojana. 
 
-![bodegas casa la rad en la rioja](https://fotos.etheriamagazine.com/2020/10/Etheria-magazine-La-Rioja-bodega-casa-la-rad-683x1024.jpg "Bodegas Casa La Rad.")
+![bodegas casa la rad en la rioja](https://fotos.etheriamagazine.com/2020/10/Etheria-magazine-La-Rioja-bodega-casa-la-rad.jpg "Bodegas Casa La Rad.")
 
 ## Un camino entre cipreses 
 

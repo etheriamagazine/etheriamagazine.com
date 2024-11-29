@@ -15,7 +15,7 @@ aun contando con todos los requisitos para atraer al público más diverso, cuid
 experiencias de quienes viajan a Ibiza con niños. Os contamos algunos motivos para 
 elegir su entorno en vuestras próximas vacaciones. 
 
-![Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.](https://fotos.etheriamagazine.com/2024/03/ibiza-granja-familiar-850x567.jpg "Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.")
+![Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.](https://fotos.etheriamagazine.com/2024/03/ibiza-granja-familiar.jpg "Las visitas a ecogranjas son ideales para los viajes en familia a Ibiza.")
 
 Las islas Baleares son un acierto durante todo el año para los viajes en familia porque 
 disponen de una oferta turística tan amplia que siempre se encuentra un hotel donde 
@@ -96,7 +96,7 @@ Museo de Etnografía de Ibiza. La mecánica es muy sencilla, sólo hay que segui
 indicaciones de un duende (o famelier) durante tres kilómetros e ir descubriendo las 
 curiosidades del municipio y de la isla. 
 
-![La Ruta del Río, en Santa Eulària del Río, es ideal para hacer con niños.](https://fotos.etheriamagazine.com/2024/03/ibiza-paseo-del-rio-850x567.jpg "La Ruta del Río, en Santa Eulària del Río, es ideal para hacer con niños.")
+![La Ruta del Río, en Santa Eulària del Río, es ideal para hacer con niños.](https://fotos.etheriamagazine.com/2024/03/ibiza-paseo-del-rio.jpg "La Ruta del Río, en Santa Eulària del Río, es ideal para hacer con niños.")
 
 ### Por el Festival de Teatro Familiar Barruguet
 

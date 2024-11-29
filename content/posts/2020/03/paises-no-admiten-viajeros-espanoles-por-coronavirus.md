@@ -15,7 +15,7 @@ que desplazarte obligatoriamente consulta antes este listado para saber qué pa�
 aceptan viajeros españoles o les mantienen en cuarentena debido al coronavirus. No te 
 arriesgues. 
 
-\[caption id="attachment\_16921" align="aligncenter" width="900"\]![viajes coronavirus](https://fotos.etheriamagazine.com/2020/03/viajes-coronavirus-900x600.jpg) Con las manos muy limpias, sigamos soñando con viajar.\[/caption\]
+\[caption id="attachment\_16921" align="aligncenter" width="900"\]![viajes coronavirus](https://fotos.etheriamagazine.com/2020/03/viajes-coronavirus.jpg) Con las manos muy limpias, sigamos soñando con viajar.\[/caption\]
 
 Aunque parezca un mal sueño, en muchos destinos habitualmente receptores de turismo los viajeros de algunos países como España no son bienvenidos. Debido a la expansión, que ha alcanzado nivel de pandemia según la OMS, del Covid-19 cualquier precaución es poca para tratar de controlarlo. Aunque para muchos lugares esta situación supone un total descalabro económico, debe prevalecer la seguridad sanitaria de los ciudadanos.
 

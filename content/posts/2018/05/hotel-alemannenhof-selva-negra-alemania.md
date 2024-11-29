@@ -12,7 +12,7 @@ Un entorno de ensueño, unas instalaciones magníficas y una entrañable histori
 en su trayectoria al hotel Alemannenhof, un cuatro estrellas ubicado junto al lago 
 Titisee, en la Alta Selva Negra de Alemania. 
 
-![Desayunar con estas vistas al lago Titisee es inaugurar el día a lo grande.](https://fotos.etheriamagazine.com/2018/05/1-Selva-Negra-Hotel-Alemannenhof-1024x576.jpg "Desayunar con estas vistas al lago Titisee es inaugurar el día a lo grande.")
+![Desayunar con estas vistas al lago Titisee es inaugurar el día a lo grande.](https://fotos.etheriamagazine.com/2018/05/1-Selva-Negra-Hotel-Alemannenhof.jpg "Desayunar con estas vistas al lago Titisee es inaugurar el día a lo grande.")
 
 Este alojamiento es el sueño hecho realidad de Ursula y Klaus Drubba, cuyo primer 
 contacto con el mundo turístico fue como vendedores de salchichas en un modesto quiosco 
@@ -22,7 +22,7 @@ lago donde levantarían su vivienda. Antes de comenzar la construcción, y tras 
 reflexionar, llegaron a la conclusión de que debían compartir este bello entorno con el 
 resto del mundo y decidieron embarcarse en un proyecto más ambicioso: un hotel. 
 
-![Los propietarios del hotel Alemannenhof comenzaron con un puesto de salchichas.](https://fotos.etheriamagazine.com/2018/05/5-Selva-Negra-Hotel-Alemannenhof-1024x576.jpg "Los propietarios del hotel Alemannenhof comenzaron con un puesto de salchichas.")
+![Los propietarios del hotel Alemannenhof comenzaron con un puesto de salchichas.](https://fotos.etheriamagazine.com/2018/05/5-Selva-Negra-Hotel-Alemannenhof.jpg "Los propietarios del hotel Alemannenhof comenzaron con un puesto de salchichas.")
 
 Es muy loable que esta familia, sencilla y sin conocimientos de arquitectura, decidiese 
 levantar un hotel que recogiese la tendencia constructora original de la Selva Negra. 
@@ -41,7 +41,7 @@ la decoración, terrazas abiertas... Para familias o grupos grandes disponen, a 
 distancia del edificio principal, de amplios y cómodos apartamentos (se pueden ver en su 
 web). 
 
-![Todas las habitaciones tienen vinculación con el lago: vistas, decoración...](https://fotos.etheriamagazine.com/2018/05/3-Selva-Negra-Hotel-Alemannenhof-1024x576.jpg "Todas las habitaciones tienen vinculación con el lago: vistas, decoración...")
+![Todas las habitaciones tienen vinculación con el lago: vistas, decoración...](https://fotos.etheriamagazine.com/2018/05/3-Selva-Negra-Hotel-Alemannenhof.jpg "Todas las habitaciones tienen vinculación con el lago: vistas, decoración...")
 
 ## Una terraza con vistas
 

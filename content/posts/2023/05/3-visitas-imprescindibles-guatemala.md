@@ -233,7 +233,7 @@ desarrolla la región. Ojalá sepan mantener el equilibrio.
 
 Más información en [INGUAT](https://inguat.gob.gt/). 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [](https://etheriamagazine.com/2021/02/20/viajar-sola-que-ver-hacer-en-lago-atitlan-guatemala/)[Viajar 
 sola al lago Atitlán, una aventura fascinante en busca de las raíces 

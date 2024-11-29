@@ -14,7 +14,7 @@ La cantidad de pintas de Guinness que llenan a diario las barras de los pubs irl
 baten su récord en San Patricio pero si no puedes viajar en marzo... ¡Dublín está 
 abierto todo el año! 
 
-![Temple Bar dublin](https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin-900x600.jpg "Temple Bar de Dublín. © Rob Durston/ Turismo Irlanda")
+![Temple Bar dublin](https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin.jpg "Temple Bar de Dublín. © Rob Durston/ Turismo Irlanda")
 
 En un viaje con amigas a Dublín descubrirás cómo los escanciadores dublineses gozan de 
 un talento especial a la hora de conseguir que el líquido oscuro emane al ritmo 

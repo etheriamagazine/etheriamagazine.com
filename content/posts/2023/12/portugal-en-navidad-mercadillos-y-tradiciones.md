@@ -126,7 +126,7 @@ ofrece una completa programación donde no falta la música tradicional. Además
 aprovechar para conocer su Geoparque y las Pasarelas da Paiva, un puente colgante que os 
 dejará boquiabiertas. 
 
-![Papa Noel en la Vila Natal de Óbidos.](https://fotos.etheriamagazine.com/2023/12/Portugal-centro-obidos-Vila-Natal-850x565.jpg "Papá Noel en la Vila Natal de Óbidos. © Región Centro de Portugal")
+![Papa Noel en la Vila Natal de Óbidos.](https://fotos.etheriamagazine.com/2023/12/Portugal-centro-obidos-Vila-Natal.jpg "Papá Noel en la Vila Natal de Óbidos. © Región Centro de Portugal")
 
 ### Óbidos y la región Centro de Portugal
 
@@ -140,7 +140,7 @@ murallas y bares con encanto. Además, hasta finales de mes se puede visitar su 
 Natal](https://obidosvilanatal.pt/) con la granja de Papá Noel, el bar de hielo, el 
 mercado y decenas de actividades para hacer con niños. 
 
-![Vila Natal de Óbidos.](https://fotos.etheriamagazine.com/2023/12/Portugal-centro-obidos-Vila-Natal-1-850x565.jpg "Vila Natal de Óbidos. © Región Centro de Portugal")
+![Vila Natal de Óbidos.](https://fotos.etheriamagazine.com/2023/12/Portugal-centro-obidos-Vila-Natal-1.jpg "Vila Natal de Óbidos. © Región Centro de Portugal")
 
 También hay otras ciudades perfectas para ampliar la escapada por la Región Centro como 
 **Águeda**, reconocida por contar con el Papá Noel más grande del mundo y también con el 

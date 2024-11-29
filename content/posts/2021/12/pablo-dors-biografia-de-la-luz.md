@@ -22,7 +22,7 @@ Taller de Editores y Vocento en Madrid. Allí nos ha invitado a “escuchar el s
 silencio”. Si no pudiste acudir, te contamos de forma sucinta algunas de sus 
 reflexiones. 
 
-![nostalgia de silencio pablo dors](https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash-900x576.jpg ""Tenemos nostalgia de silencio". © Kristina Flour")
+![nostalgia de silencio pablo dors](https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash.jpg ""Tenemos nostalgia de silencio". © Kristina Flour")
 
 ### Pablo d'Ors: "El silencio permite escuchar el verdadero sonido del mundo"
 

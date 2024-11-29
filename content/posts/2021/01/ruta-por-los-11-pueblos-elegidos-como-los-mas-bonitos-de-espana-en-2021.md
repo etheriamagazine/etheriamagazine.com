@@ -117,7 +117,7 @@ de Oficios y sus bonitas balconadas con arcos. Si te coincide la hora de comer, 
 por los asados y las chuletas de cordero. Y si eres golosa, pide los repápalos, un dulce 
 parecido a los pestiños y preparado con vino y canela. 
 
-![valverde de la vera pueblo bonito de caceres](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-valverde-736x1024.jpg "Valverde de la Vera (Cáceres).")
+![valverde de la vera pueblo bonito de caceres](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-valverde.jpg "Valverde de la Vera (Cáceres).")
 
 ## 6\. Valverde de la Vera (Cáceres)
 
@@ -191,7 +191,7 @@ al aire libre, con más de 120 obras de arte contemporáneo. En cuanto a sus pla
 tradicionales, prueba la sopa de tomate o el gazpacho caliente (te sorprenderá, no se 
 parece nada al gazpacho tradicional andaluz. 
 
-![garachico pueblo mas bonito tenerife](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-Garachico-681x1024.jpg "Garachico (Tenerife).")
+![garachico pueblo mas bonito tenerife](https://fotos.etheriamagazine.com/2021/01/pueblo-mas-bonito-Garachico.jpg "Garachico (Tenerife).")
 
 ## 11\. Garachico (Tenerife)
 

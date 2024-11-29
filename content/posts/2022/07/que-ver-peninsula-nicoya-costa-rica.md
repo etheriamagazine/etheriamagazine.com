@@ -25,7 +25,7 @@ relajantes como el yoga. En este artículo te proponemos un viaje a Costa Rica q
 sale de los circuitos habituales, donde descubrirás la belleza de la Península de 
 Nicoya, rincones repletos de magia y exclusivos hoteles boutiques. 
 
-![Ruth Guevara en su taller de la Península de Nicoya.](https://fotos.etheriamagazine.com/2022/07/ruth-guevara-artesana-699x1024.jpg "Ruth Guevara en su taller de la Península de Nicoya.")
+![Ruth Guevara en su taller de la Península de Nicoya.](https://fotos.etheriamagazine.com/2022/07/ruth-guevara-artesana.jpg "Ruth Guevara en su taller de la Península de Nicoya.")
 
 ## Ruth Guevara, artesana de La Choreja
 
@@ -130,10 +130,10 @@ romántica luna de miel.
 
 ![Playa Tambor, en la Península de Nicoya](https://fotos.etheriamagazine.com/2022/07/costa-rica-playa-Tambor.jpg "Playa Tambor, en la Península de Nicoya (Costa Rica). © Joan Vendrell")
 
-?**2 pistas secretas:** Cerca de la playa de Montezuma está la playa Cabuya, desde donde 
-podrás llegar caminando hasta la isla Cabuya cuando baja la marea. En esa isla se sitúa 
-un **cementerio indígena** precolombino que aún sigue en activo. Y otra visita, a sólo 
-10 km de Montezuma, puede ser a **Playa Tambor**, en Bahía Ballena, un espacio de 
+📍**2 pistas secretas:** Cerca de la playa de Montezuma está la playa Cabuya, desde 
+donde podrás llegar caminando hasta la isla Cabuya cuando baja la marea. En esa isla se 
+sitúa un **cementerio indígena** precolombino que aún sigue en activo. Y otra visita, a 
+sólo 10 km de Montezuma, puede ser a **Playa Tambor**, en Bahía Ballena, un espacio de 
 naturaleza abrumadora. 
 
 ### 4\. Enamorarte de playas de belleza salvaje: Malpaís y Carmen
@@ -162,7 +162,7 @@ y una soledad abrumadoras.
 
 ![Playa virgen del Refugio Nacional de Vida Silvestre Curú](https://fotos.etheriamagazine.com/2022/07/costa-rica-Curu.jpg "Refugio Nacional de Vida Silvestre Curú. © Joan Vendrell")
 
-?Si eres una enamorada de la vida natural, toma nota también del: 
+📍Si eres una enamorada de la vida natural, toma nota también del: 
 
 • **Refugio Nacional de Vida Silvestre Curú**, que se extiende desde Punta Quesera hasta 
 Punta Curú. El paisaje formado por manglares y bosques de transición tropical seco a 
@@ -238,7 +238,7 @@ promueven el consumo responsable, trabajando por el **empoderamiento de la mujer
 formación profesional (ODS 5). Esta agencia promociona el turismo rural sostenible en 
 cualquier continente pero poniendo el centro, sobre todo, en la mujer rural. 
 
-?Más información sobre la Península de Nicoya en [Turismo 
+📍Más información sobre la Península de Nicoya en [Turismo 
 d](https://www.visitcostarica.com/es)[e](https://www.visitcostarica.com/es) [Costa 
 Rica](https://www.visitcostarica.com/es)**.** 
 

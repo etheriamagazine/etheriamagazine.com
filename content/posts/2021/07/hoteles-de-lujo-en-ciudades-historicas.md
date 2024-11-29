@@ -97,7 +97,7 @@ lugares favoritos del hotel son las terrazas de sus Suites (si puedes date el ca
 de alojarte en una); y la preciosa barra del Mandarin Bar & Bistro, perfecta para tomar 
 un cóctel después de una jornada de arte y compras por la ciudad. 
 
-![plaza athenee en Paris](https://fotos.etheriamagazine.com/2021/07/HPA-Cour-Jardin-4-HR-by-StudiodesFleurs-900x600.jpg "El jardín secreto de Plaza Athénee. Un precioso vergel en medio del hotel. © Studio des Fleurs")
+![plaza athenee en Paris](https://fotos.etheriamagazine.com/2021/07/HPA-Cour-Jardin-4-HR-by-StudiodesFleurs.jpg "El jardín secreto de Plaza Athénee. Un precioso vergel en medio del hotel. © Studio des Fleurs")
 
 ## Plaza Athénée en París
 
@@ -113,7 +113,7 @@ además del majestuoso hall, son el versátil **La Cour Jardin**, un patio-jard�
 que puedes desde tomar algo en verano hasta patinar sobre hielo en invierno; y La 
 Galerie, un espacio de amplios ventanales perfecto para tomar el té. 
 
-![Hotel María Cristina](https://fotos.etheriamagazine.com/2021/07/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight-900x506.jpg "© Hotel María Cristina.")
+![Hotel María Cristina](https://fotos.etheriamagazine.com/2021/07/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight.jpg "© Hotel María Cristina.")
 
 ## Hotel María Cristina en San Sebastián
 

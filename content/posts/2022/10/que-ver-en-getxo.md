@@ -13,7 +13,7 @@ atractivos turísticos tan espectacular. Es uno de esos “place to be” del no
 para disfrutar y volver, porque siempre nos deja con ganas de más. Te vamos a desvelar 
 los 15 lugares imprescindibles de Getxo con un toque cultural. 
 
-![GetxoFolk, una de las citas imprescindibles en Getxo.](https://fotos.etheriamagazine.com/2022/10/getxo-folk-850x527.jpg "GetxoFolk, una de las citas imprescindibles en Getxo.")
+![GetxoFolk, una de las citas imprescindibles en Getxo.](https://fotos.etheriamagazine.com/2022/10/getxo-folk.jpg "GetxoFolk, una de las citas imprescindibles en Getxo.")
 
 Getxo es un destino que uno no puede perderse por nada del mundo en una escapada 
 turística por el País Vasco. A sus increíbles acantilados hay que sumar unas playas que 
@@ -84,7 +84,7 @@ que recuerda las obras de Gustave Eiffel, aunque es obra de Alberto de Palacio. 
 cuenta con un ascensor panorámico que conduce hasta una pasarela peatonal que tiene unas 
 vistas extraordinarias. 
 
-![Subiendo al Puente Bizkaia.](https://fotos.etheriamagazine.com/2022/10/getxo-puente-bizkaia-683x1024.jpg "Subiendo al Puente Bizkaia, un prodigio de la ingeniería.")
+![Subiendo al Puente Bizkaia.](https://fotos.etheriamagazine.com/2022/10/getxo-puente-bizkaia.jpg "Subiendo al Puente Bizkaia, un prodigio de la ingeniería.")
 
 ### 2\. Monumento a Evaristo de Churruca
 
@@ -167,7 +167,7 @@ emblemáticos de Getxo como el Puerto Viejo o sus palacios.
 ¡Atención! Si lo tuyo es escribir, aprovecha y participa en el Concurso de Novela Corta 
 Ramiro Pinilla que se convoca todos los años. 
 
-![Ruta de Ramiro Pinilla.](https://fotos.etheriamagazine.com/2022/10/Getxo-Ramiro-Pilla-659x1024.jpg "Ruta de Ramiro Pinilla en Getxo.")
+![Ruta de Ramiro Pinilla.](https://fotos.etheriamagazine.com/2022/10/Getxo-Ramiro-Pilla.jpg "Ruta de Ramiro Pinilla en Getxo.")
 
 ### 8\. Galerías de Punta Begoña
 
@@ -245,7 +245,7 @@ encuentro multicultural para disfrutar del sonido procedente de distintas parte 
 mundo. Hace unos años se rindió homenaje al gran compositor de tango **Astor Piazzolla** 
 en su centenario. 
 
-![Festival de Folk de Getxo.](https://fotos.etheriamagazine.com/2022/10/folk-getxo-681x1024.jpg "Festival de Folk de Getxo.")
+![Festival de Folk de Getxo.](https://fotos.etheriamagazine.com/2022/10/folk-getxo.jpg "Festival de Folk de Getxo.")
 
 ### 14\. Salón del Cómic de Getxo
 
@@ -255,7 +255,7 @@ la creación en el universo de la historieta. En años anteriores, el Aula de Cu
 Romo acogió un diverso programa de actividades, en el que no faltaron turnos de firmas, 
 charlas, mesas redondas, talleres, presentaciones, etc. 
 
-![El lago', espectáculo de danza de la compañía LaMov](https://fotos.etheriamagazine.com/2022/10/lamov-el-lago-getxo-850x567.jpg "'El lago', espectáculo de danza de la compañía LaMov. © Enrique Fantova")
+![El lago', espectáculo de danza de la compañía LaMov](https://fotos.etheriamagazine.com/2022/10/lamov-el-lago-getxo.jpg "'El lago', espectáculo de danza de la compañía LaMov. © Enrique Fantova")
 
 ### 15\. Jornadas de Artes Escénicas
 

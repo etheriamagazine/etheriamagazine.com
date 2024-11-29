@@ -212,7 +212,7 @@ impacto que tuviste en Karlovy Vary. Y no sería de extrañar porque desde la le
 destaca por su monumentalidad, y llegas a dudar sobre si es un castillo o no. Fue 
 levantado en 1912 siguiendo un proyecto del arquitecto francés Ernest Hébrard. 
 
-![cafe hotel thermal karlovy vary](https://fotos.etheriamagazine.com/2021/12/cafe-hotel-thermal-731x1024.jpg "Café del hotel Thermal, en Karlovy Vary. © P.G.")
+![cafe hotel thermal karlovy vary](https://fotos.etheriamagazine.com/2021/12/cafe-hotel-thermal.jpg "Café del hotel Thermal, en Karlovy Vary. © P.G.")
 
 ### 12\. Hotel Thermal y Festival de Cine
 
@@ -262,7 +262,7 @@ en cuenta que suelen estar indicados para fines terapéuticos, y no se parecen a
 urbanos. Lo habitual es pasar un control médico previo que establezca la terapia que te 
 irá mejor. 
 
-![spa publico karlovy vary](https://fotos.etheriamagazine.com/2021/12/spa-karlovy-vary-748x1024.jpg "Spa público en Karlovy Vary. © P.G.")
+![spa publico karlovy vary](https://fotos.etheriamagazine.com/2021/12/spa-karlovy-vary.jpg "Spa público en Karlovy Vary. © P.G.")
 
 ### Guía de Karlovy Vary | Etheria Magazine
 

@@ -192,5 +192,5 @@ de Burgos](https://etheriamagazine.com/2022/06/24/burgos-subterraneo/). Garantiz
 
 **Fundación Princesa Kristina** (fundacionprincesakristina.com) 
 
-?Libros: [La flor del norte](https://amzn.to/3SK7MQv), de Espido Freire y [Viaje a Al 
+📍Libros: [La flor del norte](https://amzn.to/3SK7MQv), de Espido Freire y [Viaje a Al 
 Ándalus](https://amzn.to/46gmIJq), de Per Erik Borge.

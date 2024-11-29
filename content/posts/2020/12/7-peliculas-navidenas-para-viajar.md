@@ -35,7 +35,7 @@ Londres, **Brydges Place**, que une St. Martin' Lane con Bedfordbury. Y también
 el mercado multicultural de **Leather Lane Market**, donde es posible realizar un viaje 
 culinario a través de los puestos de comidas de diferentes países del mundo. 
 
-![peliculas navidenas safari en navidad](https://fotos.etheriamagazine.com/2020/12/peli-netflix-Safari-en-Navidad-691x1024.jpg "'Safari en Navidad', la puedes ver en Netflix. © Ilze Kitshoff/ Netflix")
+![peliculas navidenas safari en navidad](https://fotos.etheriamagazine.com/2020/12/peli-netflix-Safari-en-Navidad.jpg "'Safari en Navidad', la puedes ver en Netflix. © Ilze Kitshoff/ Netflix")
 
 ## 2\. A Zambia y Sudáfrica con 'Safari por Navidad' (2019)
 

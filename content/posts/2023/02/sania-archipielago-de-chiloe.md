@@ -35,7 +35,7 @@ el centro de la isla.
 
 ![Sania con sus compañeros de viaje en Chiloé.](https://fotos.etheriamagazine.com/2023/01/sania-chiloe-companeros-viaje.jpg "Sania (dcha.) con sus compañeros de viaje. © SJ")
 
-? El trayecto es de unas tres horas y media desde Puerto Montt (incluidos el los quince 
+📌 El trayecto es de unas tres horas y media desde Puerto Montt (incluidos el los quince 
 minutos de ferry). El barco sale cada cinco minutos y el pasaje con coche sale por unos 
 13 euros. En unos 4 días se puede recorrer la isla Grande de Chiloé, la mayor del 
 archipiélago de Chiloé. 
@@ -70,7 +70,7 @@ donde se prohíbe incluso la venta de productos extranjeros (¡gran idea!). Y en
 mercados preparan, además, un rico ceviche de salmón con gambas y moluscos, que se vende 
 en envases a partir de 3€. 
 
-? Aunque cuenta con una buena conexión de autobuses locales por la isla de Chiloé, el 
+📌 Aunque cuenta con una buena conexión de autobuses locales por la isla de Chiloé, el 
 desplazamiento en coche es más práctico. 
 
 ![mercado de artesanía en Chiloé](https://fotos.etheriamagazine.com/2023/01/sania-chiloe-artesanas.jpg "Artesanas en Chiloé. © SJ")
@@ -170,7 +170,7 @@ había algo de conexión (velocidad de bajada como 1MB y de subida 0,7MB) y en e
 planificar las siguientes etapas del camino. Para un viaje de 5 meses, no se puede 
 planificar todo con antelación. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 01\. [El Amazonas: nueva etapa de Sania Jelic en 
 Sudamérica](https://etheriamagazine.com/2022/12/24/sania-jelic-amazonas/). 

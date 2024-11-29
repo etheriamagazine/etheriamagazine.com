@@ -107,7 +107,7 @@ Habitación doble para dos personas desde 473 Euros (precio aproximado). Direcci
 
 Fotografías cedidas por el hotel Çirağan Palace Kempinski de Estambul. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Fin de semana en Estambul, un plan para dos 
 imbatible](https://etheriamagazine.com/2018/05/03/fin-de-semana-romantico-en-estambul/) 

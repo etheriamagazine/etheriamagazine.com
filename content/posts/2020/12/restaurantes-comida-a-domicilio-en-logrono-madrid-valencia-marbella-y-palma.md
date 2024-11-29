@@ -42,7 +42,7 @@ de Gárate). Además, dispone de menús especiales navideños.
 Disfrutar de la sabrosa cocina de este chef argentino es tan fácil como [entrar en su 
 web](https://www.juancarlosferrando.com/) o enviar un whatsapp al Tel. 649 977 575. 
 
-![comida japonesa a domicilio madrid](https://fotos.etheriamagazine.com/2020/12/Sergio-Monterde-Sr-Ito-Lab-en-Casa-714x1024.jpg "Sergio Monterde © Sr. Ito Lab en Casa.")
+![comida japonesa a domicilio madrid](https://fotos.etheriamagazine.com/2020/12/Sergio-Monterde-Sr-Ito-Lab-en-Casa.jpg "Sergio Monterde © Sr. Ito Lab en Casa.")
 
 ## 2\. Madrid. Showcooking de cocina japonesa con Sr. Ito Lab
 
@@ -68,7 +68,7 @@ o llamando al 638 628 586.
 Si prefieres visitar sus restaurantes puedes dirigirte a la calle Pelayo, 60 o a 
 Trafalgar, 7 (Madrid). 
 
-![comida para llevar en restaurante mallorca](https://fotos.etheriamagazine.com/2020/12/restaurante-botanico-mallorca-745x1024.jpg "© Restaurante Botànic, del hotel Can Bordoy (Palma de Mallorca9.")
+![comida para llevar en restaurante mallorca](https://fotos.etheriamagazine.com/2020/12/restaurante-botanico-mallorca.jpg "© Restaurante Botànic, del hotel Can Bordoy (Palma de Mallorca9.")
 
 ## 3\. Mallorca con glamour. Del restaurante Botànic a casa 
 

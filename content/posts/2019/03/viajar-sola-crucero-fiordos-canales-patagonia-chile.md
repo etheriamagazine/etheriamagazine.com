@@ -158,7 +158,7 @@ cabina compartida (4 días y 3 noches cada trayecto).
 
 Fotografías cedidas por Navimag. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Valparaíso, una bonita ruta de street art en la ciudad chilena del 
 arcoíris](https://etheriamagazine.com/2020/01/20/que-ver-en-valparaiso-ruta-grafitis-chile/) 

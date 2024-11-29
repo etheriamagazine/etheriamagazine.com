@@ -136,7 +136,7 @@ hay módulos dobles para parejas que deseen vivir la experiencia del hotel cáps
 mejor: hay **opción de siesta, con tres horas a elegir en la franja de la tarde**. En 
 breve, extenderán su propuesta a Barcelona, Madrid y Sevilla. 
 
-![la despensa de etxanobe, tortellini bilbao](https://fotos.etheriamagazine.com/2019/12/La-Despensa-de-Etxanobe-Tortellini-de-remolacha-con-trufa-900x600.jpg "Tortellini de remolacha con trufa de 'La despensa del Etxanobe'.")
+![la despensa de etxanobe, tortellini bilbao](https://fotos.etheriamagazine.com/2019/12/La-Despensa-de-Etxanobe-Tortellini-de-remolacha-con-trufa.jpg "Tortellini de remolacha con trufa de 'La despensa del Etxanobe'.")
 
 ## 9\. La despensa del Etxanobe
 

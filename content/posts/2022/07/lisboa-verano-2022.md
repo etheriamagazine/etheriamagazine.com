@@ -32,7 +32,7 @@ en un festival para los que disfrutan de la música sin estridencias, en pequeñ
 y cerca de los artistas. Tiene lugar en la localidad de Cascais y estarán presentes 
 figuras de la talla de Paul Anka, Diana Krall o Jorge Ben Jor. 
 
-? Información y entradas en EDP CoolJazz. 
+📍 Información y entradas en EDP CoolJazz. 
 
 ### 2\. Festival de Almada. Del 4 al 18 de julio
 
@@ -43,7 +43,7 @@ con un animado calendario de eventos en el que es fácil encontrar cada día alg
 interesante. Además, tendrán lugar exposiciones, coloquios, actuaciones musicales y 
 mucho más. 
 
-? Más información en [Festival de Almada](https://festival.ctalmada.pt/). 
+📍 Más información en [Festival de Almada](https://festival.ctalmada.pt/). 
 
 ![Escenario de festival Nos Alive en Lisboa](https://fotos.etheriamagazine.com/2022/06/Lisboa-NOS-Alive.jpg "Festival Nos Alive.")
 
@@ -55,7 +55,7 @@ mejor cartel de Portugal. Este año con grupos como The Strokes, Metallica, Flor
 The Machine e Imagine Dragons que van acompañados de un plantel de grupos musicales de 
 primera. 
 
-? Información y entradas en [NOS Alive](https://nosalive.com/). 
+📍 Información y entradas en [NOS Alive](https://nosalive.com/). 
 
 ### 4\. Super Bock Super Rock. Del 14 al 16 de julio
 
@@ -65,7 +65,7 @@ Con el aliciente de que este año se celebra en la playa de Meco, en Assimbra, a
 40 kilómetros de Lisboa. Consulta su extenso cartel concentrado en tres días, seguro que 
 te encanta. 
 
-? Información en [Super Bock Super Rock](https://www.superbocksuperrock.pt/). 
+📍 Información en [Super Bock Super Rock](https://www.superbocksuperrock.pt/). 
 
 ![Cartel del Opera Fest de Lisboa.](https://fotos.etheriamagazine.com/2022/06/Lisboa-opera-fest.jpg "Cartel del Opera Fest de Lisboa.")
 
@@ -78,7 +78,7 @@ De hecho hay propuestas de ópera para niños, como _Jeremias Fisher_ de Isabell
 Aboulker, o clases de canto para aficionados. Las funciones tendrán lugar en el jardín 
 del Museo Nacional de Arte Antiguo. 
 
-? Información y entradas en [OperaFest](https://www.operafestlisboa.com/pt/). 
+📍 Información y entradas en [OperaFest](https://www.operafestlisboa.com/pt/). 
 
 ### 6\. Jazz em Agosto. Del 30 de julio al 7 de agosto
 
@@ -88,7 +88,7 @@ suenan hoy Chicago, Lisboa y Nueva York de la mano de artistas como Internationa
 Anthem, Carlos “Zingaro” o Ava Mendoza. Disfrutar de alguno de sus conciertos es un 
 auténtico lujo si pasas unos días de verano en Lisboa. 
 
-? Información y entradas en [Jazz em Agosto](https://gulbenkian.pt/jazzemagosto/). 
+📍 Información y entradas en [Jazz em Agosto](https://gulbenkian.pt/jazzemagosto/). 
 
 ![Cartel de Jazz em Agosto en Lisboa.](https://fotos.etheriamagazine.com/2022/06/Lisboa-Jazz-em-Agosto.jpg "Cartel de Jazz em Agosto en Lisboa.")
 
@@ -100,7 +100,7 @@ portugueses, mercados de artesanía y la procesión de Nuestra Señora de los Na
 día 18 de agosto. Si viajas en familia consulta la programación, ya que hay también 
 conciertos para niños. 
 
-? Más información en Festas do Mar. 
+📍 Más información en Festas do Mar. 
 
 ### 8\. Kalorama. 1 al 3 de septiembre
 
@@ -109,7 +109,7 @@ el indie y la música electrónica. Con artistas como Arctic Monkeys, James Blak
 Chemical Brothers o Peaches. Un festival con la filosofía del disfrutar del momento y 
 sentir la música como se merece. 
 
-? Más información en [Kalorama](https://meokalorama.pt/). 
+📍 Más información en [Kalorama](https://meokalorama.pt/). 
 
 ![Cine en Lisboa](https://fotos.etheriamagazine.com/2022/06/Lisboa-Motelx.jpg "Cine de terror en el Festival MOTELx.")
 
@@ -121,7 +121,7 @@ Cinema São Jorge de la Avenida da Liberdade. Una muestra que va más allá de p
 convencionales, ya que presenta cortometrajes experimentales y está dedicado a las 
 narrativas alternativas. 
 
-? Más información en [MOTELx](https://www.motelx.org/). 
+📍 Más información en [MOTELx](https://www.motelx.org/). 
 
 Fotografías cedidas por Turismo de Lisboa. 
 

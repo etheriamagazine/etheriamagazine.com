@@ -29,7 +29,7 @@ casi al 50%, tanto en el terreno profesional como en el personal. Y cuando las c
 le iban bien, siempre encontraba remedio para sus males en los coches. Pero, eso sí, no 
 le valía cualquiera. 
 
-![plaza de Lucca con terrazas para comer](https://fotos.etheriamagazine.com/2019/02/Lucca-piazza-Anfiteatro-1024x683.jpg "La Piazza dell'Anfiteatro (Lucca) es una de las más animadas. © S.G.")
+![plaza de Lucca con terrazas para comer](https://fotos.etheriamagazine.com/2019/02/Lucca-piazza-Anfiteatro.jpg "La Piazza dell'Anfiteatro (Lucca) es una de las más animadas. © S.G.")
 
 ## El último modelo
 

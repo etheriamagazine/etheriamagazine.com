@@ -125,7 +125,7 @@ en Baños de la Encina (Jaén), donde practicar piragüismo. Una ruta en kayak m
 es la que te lleva hasta el poblado de Peñalosa, que pertenece a la época del Argar y 
 tiene más de 4.000 años de antigüedad. 
 
-![balneario carratraca andalucia](https://fotos.etheriamagazine.com/2021/07/Carratraca-Balneario-andalucia-671x1024.jpg "Balneario de Carratraca. © Turismo Andalucía")
+![balneario carratraca andalucia](https://fotos.etheriamagazine.com/2021/07/Carratraca-Balneario-andalucia.jpg "Balneario de Carratraca. © Turismo Andalucía")
 
 ### 6\. Relájate en un balneario
 

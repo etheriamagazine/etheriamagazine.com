@@ -71,7 +71,7 @@ cargada de artesanía, cestas, pareos y especias. Y si tu visita coincide con la
 comer, también encontrarás puestos donde sirven un riquísimo pescado a la brasa con 
 salsas de sabores exóticos. 
 
-![belleza de la mujer se seychelles](https://fotos.etheriamagazine.com/2020/11/Seychelles-mujer-local-683x1024.jpg "Joven de Seychelles. © Dario Dido")
+![belleza de la mujer se seychelles](https://fotos.etheriamagazine.com/2020/11/Seychelles-mujer-local.jpg "Joven de Seychelles. © Dario Dido")
 
 ### 3\. Source d'Argent, la playa más popular del planeta
 

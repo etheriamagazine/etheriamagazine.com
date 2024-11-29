@@ -252,7 +252,7 @@ Mosa son impresionantes.
 En el [bistro de la Abadía de Villers](https://villers.be/fr/bistro-abbaye). Una carta 
 sencilla pero ideal tras finalizar la visita por el complejo abacial. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [8 razones por las que te va a apetecer viajar a 
 Valonia](https://etheriamagazine.com/2023/05/16/por-que-viajar-a-valonia/) 

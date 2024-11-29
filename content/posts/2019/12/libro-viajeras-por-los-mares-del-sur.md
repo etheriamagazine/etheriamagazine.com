@@ -11,7 +11,7 @@ authors:
 
 Pilar Tejera saca a la luz en 'Viajeras por los Mares del Sur' apasionantes historias de trotamundos. El deseo de aventura es el gran incentivo que mueve a numerosas mujeres a recorrer el mundo desafiando todo tipo de contratiempos. Conocer sus vidas no solo sacia nuestra curiosidad sino que nos impulsa a explorar otros lugares del planeta.
 
-![Viajeras por los mares del sur](https://fotos.etheriamagazine.com/2019/12/viajeras-mares-sur-libro-900x621.jpg "Viajeras por los Mares del Sur (editorial Casiopea).")
+![Viajeras por los mares del sur](https://fotos.etheriamagazine.com/2019/12/viajeras-mares-sur-libro.jpg "Viajeras por los Mares del Sur (editorial Casiopea).")
 
 El libro de Pilar Tejera, **_Viajeras por los Mares del Sur_**, sigue la línea de sus 
 obras anteriores y profundiza en los viajes y aventuras vividos por mujeres de todo el 
@@ -47,7 +47,7 @@ duda nos habrían comido!". Sus testimonios y publicaciones son de gran valor ya
 ayudan a conformar una visión del mundo captada en primera persona y desde una óptica 
 femenina. 
 
-![Fanny Stevenson](https://fotos.etheriamagazine.com/2019/12/fanny-stevenson-900x506.jpg "Fanny Stevenson. © Robert L. Stevenson Museum")
+![Fanny Stevenson](https://fotos.etheriamagazine.com/2019/12/fanny-stevenson.jpg "Fanny Stevenson. © Robert L. Stevenson Museum")
 
 #### Fanny Stevenson
 
@@ -82,7 +82,7 @@ crónicas en _The Times_ y en _Sydney Morning Herald_, que se quedó a vivir all
 Sin duda, conocer sus historias es esa pequeña dosis de inspiración y empuje que nos 
 ayuda a lanzarnos a conocer mundo y a viajar solas, ¿por qué, no? 
 
-![viajeras por los mares del sur, libros de viajes de mujeres](https://fotos.etheriamagazine.com/2019/12/viajeras-mares-del-sur-pilar-tejera-795x1024.jpg "Viajeras por los mares del Sur")
+![viajeras por los mares del sur, libros de viajes de mujeres](https://fotos.etheriamagazine.com/2019/12/viajeras-mares-del-sur-pilar-tejera.jpg "Viajeras por los mares del Sur")
 
 Comienza a leer esta y otras obras: 
 

@@ -168,7 +168,7 @@ global, que la va disecando año tras año). Eso sí, el momento estelar del dí
 natural, un verdadero placer, ideal para quitarse el polvo de encima y cambiar de 
 temperatura corporal. 
 
-### ?Excursiones de Civitatis si vas a viajar sola al Salar de Uyuni
+### 📍Excursiones de Civitatis si vas a viajar sola al Salar de Uyuni
 
 3 días por el Salar de Uyuni y sus desiertos desde 219 €. [Más 
 info](https://www.civitatis.com/es/uyuni/3-dias-salar-uyuni-desiertos/?aid=10211). 

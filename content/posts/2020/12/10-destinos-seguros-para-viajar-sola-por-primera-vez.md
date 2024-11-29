@@ -111,7 +111,7 @@ atrapándote.
 
 Recomendado por Eva Madruga, especializada en Turismo de Cine. 
 
-![La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos).](https://fotos.etheriamagazine.com/2018/12/Cite-du-Vin-Credit-Arnaud-Bertrande_format_1600x900-1024x576.jpg "La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos). © Arnaud Bertrande")
+![La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos).](https://fotos.etheriamagazine.com/2018/12/Cite-du-Vin-Credit-Arnaud-Bertrande_format_1600x900.jpg "La Ciudad del Vino se alza junto al río Garona con una arquitectura sorprendente (Burdeos). © Arnaud Bertrande")
 
 ## 6\. Burdeos, viaja en solitario a la Ciudad del Vino
 
@@ -155,7 +155,7 @@ desviven por agradar, y la facilidad de las comunicaciones para moverse por el p
 
 Recomendado por Pepa García, periodista de viajes y directora editorial de Etheria M. 
 
-![Mirador de Oporto.](https://fotos.etheriamagazine.com/2020/04/mirador-oporto-900x675.jpg "Mirador de Oporto. © Etheria Magazine")
+![Mirador de Oporto.](https://fotos.etheriamagazine.com/2020/04/mirador-oporto.jpg "Mirador de Oporto. © Etheria Magazine")
 
 ## 8\. Oporto, bohemia y acogedora
 

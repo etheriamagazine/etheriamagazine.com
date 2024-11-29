@@ -170,7 +170,7 @@ saben lo que se pierden!
 
 [www.toledo-turismo.com](http://www.toledo-turismo.com) 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Toledo en un fin de semana, claves para aprovecharlo al 
 máximo](https://etheriamagazine.com/2022/02/28/que-ver-en-toledo/) 

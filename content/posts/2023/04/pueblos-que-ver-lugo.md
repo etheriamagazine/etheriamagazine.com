@@ -50,7 +50,7 @@ centenar de metros de largo e incluso acoge una alameda. De la parte más antigu
 soportales, bajo los mismos, en la zona conocida como el Cantón, se toma el mejor 
 aperitivo de Lugo y también el pulso cotidiano de la capital. 
 
-![Catedral de Santa María, en Lugo.](https://fotos.etheriamagazine.com/2023/03/catedral-lugo-684x1024.jpg "Catedral de Santa María, en Lugo.")
+![Catedral de Santa María, en Lugo.](https://fotos.etheriamagazine.com/2023/03/catedral-lugo.jpg "Catedral de Santa María, en Lugo.")
 
 ### No te pierdas en Lugo
 
@@ -303,7 +303,7 @@ Al salir del pueblo, sube al alto de San Roque, donde se ubica el **monumento al
 Peregrino**. No importa si no estás haciendo el Camino, a buen seguro la fuerza que 
 transmite la escultura te incentiva a iniciarlo. 
 
-![Playa de las Catedrales, en Lugo.](https://fotos.etheriamagazine.com/2023/03/playa-catedrales-lugo-703x1024.jpg "Playa de las Catedrales, en Lugo. © M. Studio")
+![Playa de las Catedrales, en Lugo.](https://fotos.etheriamagazine.com/2023/03/playa-catedrales-lugo.jpg "Playa de las Catedrales, en Lugo. © M. Studio")
 
 ### Ribadeo
 

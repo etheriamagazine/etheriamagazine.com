@@ -16,7 +16,7 @@ una escapada familiar a la nieve, pero… ¿y si alguien del grupo no puede esqu
 quiere? ¡No hay problema! Os contamos planes en la nieve que se puede realizar sin 
 ponerse los esquíes. 
 
-![trineo tirado por perros, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Trineos-perros-nieve-1024x552.jpg "Trineo tirado por perros.")
+![trineo tirado por perros, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Trineos-perros-nieve.jpg "Trineo tirado por perros.")
 
 Cada vez son más, mejores y más variadas las opciones de ocio para pasar el día a lo 
 grande mientras los demás se deslizan por las pistas. Ya no es necesario quedarse en el 
@@ -56,7 +56,7 @@ aún más bucólico.
 
 ¿Dónde? En el **Valle de Arán** (www.visitvaldaran.com/cat/trineo-a-caballo). 
 
-![motos de nieve en espana, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Motos-nieve-1024x683.jpg "A toda velocidad en moto de nieve, una alternativa al esquí.")
+![motos de nieve en espana, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Motos-nieve.jpg "A toda velocidad en moto de nieve, una alternativa al esquí.")
 
 ### Motos de nieve
 
@@ -100,7 +100,7 @@ artístico, ballet y galas temáticas.
 
 ¿Dónde? En el Valle de Arán (**Palacio de Hielo**, www.palaidegeu.com). 
 
-![rafael hoteles huesca, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Spa-Rafael-Hoteles-Pleta-1024x683.jpg "Spa de Rafael Hoteles by La Pleta (Huesca).")
+![rafael hoteles huesca, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Spa-Rafael-Hoteles-Pleta.jpg "Spa de Rafael Hoteles by La Pleta (Huesca).")
 
 ## Planes de bienestar fuera de pistas
 
@@ -135,7 +135,7 @@ el cuerpo.
 
 ¿Dónde? En **Caldea** (www.caldea.com), Andorra. 
 
-![caldea, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Caldea-1024x682.jpg "En Caldea se pueden recibir masajes y otros tratamientos (Andorra).")
+![caldea, nieve sin esquiar, que hacer en la nieva si no esquias](https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-Caldea.jpg "En Caldea se pueden recibir masajes y otros tratamientos (Andorra).")
 
 ## Planes culturales
 

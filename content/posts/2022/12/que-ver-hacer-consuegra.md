@@ -79,7 +79,7 @@ humano. Una majestuosa obra de ingeniería que sorprende a todo el que se acerca
 Consuegra. Cerca de allí, el alfar (un horno romano y otro árabe). Algunas 
 investigaciones también indican que un circo romano ocupaba esas tierras siglos atrás. 
 
-?En la [web](https://consuegra.es/) de Turismo de Consuegra encontrarás más 
+📌En la [web](https://consuegra.es/) de Turismo de Consuegra encontrarás más 
 recomendaciones. 
 
 ![Interior del castillo de Consuegra.](https://fotos.etheriamagazine.com/2022/12/interior-castillo-consuegra.jpg "Interior del castillo de Consuegra.")
@@ -103,7 +103,7 @@ Como tampoco olvidarás los sabores del restaurante **El Retorno**
 caldereta de cordero, versionados con el toque diferencial de la mano del **chef Pedro 
 Rodríguez**. 
 
-?Y si te quieres quedar a dormir, puedes hacerlo en el hotel rural **La vida de antes** 
+📌Y si te quieres quedar a dormir, puedes hacerlo en el hotel rural **La vida de antes** 
 (www.lavidadeantes.com), una casona del siglo XIX donde encontrarás todas las 
 comodidades para disfrutar de un fin de semana por tierras manchegas. 
 

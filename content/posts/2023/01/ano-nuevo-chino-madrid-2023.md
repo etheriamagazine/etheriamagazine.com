@@ -14,7 +14,7 @@ la luz habituales de Usera, se suman este 2023 más exposiciones, talleres, mesa
 redondas, un juego de escape y un mercado de primavera. ¿Estás preparada para festejar 
 la llegada del Año del Conejo? 
 
-![Festival de la Luz, uno de los eventos para la celebración del Año Nuevo Chino en Madrid.](https://fotos.etheriamagazine.com/2023/01/usera-festival-luz-850x479.jpg "Festival de la Luz, uno de los eventos más animados del Año Nuevo Chino en Madrid.")
+![Festival de la Luz, uno de los eventos para la celebración del Año Nuevo Chino en Madrid.](https://fotos.etheriamagazine.com/2023/01/usera-festival-luz.jpg "Festival de la Luz, uno de los eventos más animados del Año Nuevo Chino en Madrid.")
 
 El barrio de Usera vuelve a centralizar los festejos del Año Nuevo en Madrid. Aunque la 
 llegada del Año del Conejo tiene lugar el 22 de enero, antes y después de esa fecha se 

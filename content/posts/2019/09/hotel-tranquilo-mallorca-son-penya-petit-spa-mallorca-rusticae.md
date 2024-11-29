@@ -111,7 +111,7 @@ Camino de Son Berga, finca Son Penya. San Lorenzo, Mallorca.
 
 Tel. +34 971 59 97 51 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 secretos ‘gastro’ que deberías conocer de 
 Mallorca](https://etheriamagazine.com/2022/10/25/gastronomia-mallorca/) 

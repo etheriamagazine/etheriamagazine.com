@@ -15,7 +15,7 @@ dónde comer en Getxo sino a empaparte de la esencia de sus tiendas, mercados, b
 populares y personas más queridas ligadas a la gastronomía y al vino. Este año te 
 mereces unas vacaciones exquisitas en Getxo... y lo sabes. 
 
-![Un bonito rincón del Puerto Viejo de Getxo.](https://fotos.etheriamagazine.com/2023/03/getxo-puerto-viejo-850x478.jpg "Un bonito rincón del Puerto Viejo de Getxo.")
+![Un bonito rincón del Puerto Viejo de Getxo.](https://fotos.etheriamagazine.com/2023/03/getxo-puerto-viejo.jpg "Un bonito rincón del Puerto Viejo de Getxo.")
 
 Quien se ha asomado a la ría del Nervión sabe dónde reside la buena vida. Basta con 
 recalar en la orilla derecha del estuario del río, frente al mar y al Abra o puerto de 
@@ -52,7 +52,7 @@ abrigo litoral conocido cariñosamente, como “el puertito”. Donde amarraban 
 sus capturas cada jornada, surgieron elaboraciones sencillas que dan identidad marinera 
 a la villa como el marmitako, almejas a la marinera o txipirones en su tinta. 
 
-![pintxo y caracolillos de Getxo](https://fotos.etheriamagazine.com/2023/03/pintxo-getxo-683x1024.jpg "Un pintxo para saborear la buena vida de Getxo.")
+![pintxo y caracolillos de Getxo](https://fotos.etheriamagazine.com/2023/03/pintxo-getxo.jpg "Un pintxo para saborear la buena vida de Getxo.")
 
 ✅ **Sabías que...** en Getxo nació el popular **kalimotxo**, una bebida que combina vino 
 tinto y refresco de cola. Adquirió su denominación getxotarra durante unas fiestas de 
@@ -115,7 +115,7 @@ los sentidos en apenas un bocado. La capacidad de trabajo y el respeto por la tr
 salta a la vista ante el universo de texturas, sabores y colores de los **bares de 
 pintxos de Getxo**. 
 
-![Pintxo de bacalao en el Puerto Viejo de Algorta, un buen lugar donde comer en Getxo](https://fotos.etheriamagazine.com/2023/03/Pintxo-Puerto-Viejo-Algorta-596x1024.jpg "Pintxo de bacalao en el Puerto Viejo de Algorta.")
+![Pintxo de bacalao en el Puerto Viejo de Algorta, un buen lugar donde comer en Getxo](https://fotos.etheriamagazine.com/2023/03/Pintxo-Puerto-Viejo-Algorta.jpg "Pintxo de bacalao en el Puerto Viejo de Algorta.")
 
 ### Las gildas
 
@@ -203,7 +203,7 @@ Santa en la **carnicería Gabiria** (Andikoetxe Kalea, 22, Getxo). Un negocio fa
 –con Aritza y su hermano Mikel al mando– donde a los buenos cortes de ternera añaden 
 dulzura con su textura suave y un dulce gusto. 
 
-![Detalle de las deliciosas torrijas o tostadas de carnaval de la carnicería Gabiria.](https://fotos.etheriamagazine.com/2023/03/torrijas-getxo-803x1024.jpg "Detalle de las deliciosas torrijas o tostadas de carnaval de la carnicería Gabiria.")
+![Detalle de las deliciosas torrijas o tostadas de carnaval de la carnicería Gabiria.](https://fotos.etheriamagazine.com/2023/03/torrijas-getxo.jpg "Detalle de las deliciosas torrijas o tostadas de carnaval de la carnicería Gabiria.")
 
 ## 6\. Getxo se paladea en femenino
 
@@ -224,7 +224,7 @@ mejor lugar del mundo donde extender el mantel. Con su sapiencia culinaria consi
 los sabores de su tierra sean su mejor refugio y también una increíble terapia para 
 seguir comiéndose la vida con muchas ganas. 
 
-![Almudena Gandarias, ganadora de la edición abuelos de Masterchef.](https://fotos.etheriamagazine.com/2023/03/almudena-gandarias-getxo-694x1024.jpg "Almudena Gandarias, ganadora de la edición abuelos de Masterchef.")
+![Almudena Gandarias, ganadora de la edición abuelos de Masterchef.](https://fotos.etheriamagazine.com/2023/03/almudena-gandarias-getxo.jpg "Almudena Gandarias, ganadora de la edición abuelos de Masterchef.")
 
 ### Olalla, la maga que hace hablar al vino
 
@@ -233,9 +233,10 @@ el alma de un vino y hacerla tan sugerente que sin haber probado una gota sepas 
 caldo te habla y es la elección perfecta que estabas buscando para disfrutar a tu modo, 
 como recuerdo o para agasajar. Ella es Olalla Elorriaga y como tercera generación en el 
 negocio familiar de productos avícolas, carnes, conservas y ultramarinos, fue creciendo 
-de manera orgánica como [La Granja Selección](https://lagranjaseleccion.es/). Situado en 
-Las Arenas, se ha convertido en sus 60 años de andadura en uno de los mejores 
-establecimientos gourmet del municipio. 
+de manera orgánica como La Granja Selección. Situado en Las Arenas, se convirtió en sus 
+60 años de andadura en uno de los mejores establecimientos gourmet del municipio. 
+**\*Desafortunadamente**, el establecimiento cerró en septiembre de 2023 
+(Actualización). 
 
 El deseo de Olalla de conocer los vinos y darles más presencia en el negocio familiar la 
 llevó a cultivar su agudeza y memoria olfativa formándose en el primer curso de 
@@ -243,8 +244,7 @@ sumillers de Bizkaia. Una satisfacción que la elevó hasta ser subcampeona en e
 Nariz de Oro 2012 y Mejor Sumiller 2014. Una mujer joven interesada en algo más que 
 ofrecer recomendaciones y que desea convertirse en **la voz de cada vino**. A través de 
 sus presentaciones, el vino habla y cuenta historias únicas sobre el territorio y los 
-aromas de la tierra y del aire que ha atrapado hasta llegar a la botella que ahora 
-tenemos entre las manos y que nos desvela, gracias a su experiencia, el alma de un vino. 
+aromas de la tierra y del aire que ha atrapado hasta llegar a la botella. 
 
 ![Olalla Elorriaga, contadora de vinos de Getxo](https://fotos.etheriamagazine.com/2023/03/Olalla-Elorriaga-getxo.jpg "Olalla Elorriaga, contadora de vinos.")
 
@@ -315,15 +315,13 @@ jornada.
 
 ![Concurso de Marmitako en Getxo](https://fotos.etheriamagazine.com/2023/03/concurso-marmitako-getxo.jpg "Concurso de Marmitako, en Getxo.")
 
-?La alimentación sostenible ha llegado para quedarse en Getxo gracias a la buena 
-respuesta que está teniendo entre los [establecimientos de alimentación 
-sostenible](https://www.getxo.eus/DocsPublic/2022/ALIMENTACION_SALUDABLE/ALIMENTACION_SOSTENIBLE_tabla.pdf). 
-La sostenibilidad es uno de los mejores emblemas para un municipio saludable. 
-Comprometido con que el producto de proximidad y temporada sea el origen de una 
-alimentación alejada del despilfarro y más vinculada a conceptos como la salud y la 
-ecología. 
+📍La alimentación sostenible ha llegado para quedarse en Getxo gracias a la buena 
+respuesta que está teniendo entre los establecimientos de alimentación sostenible. La 
+sostenibilidad es uno de los mejores emblemas para un municipio saludable. Comprometido 
+con que el producto de proximidad y temporada sea el origen de una alimentación alejada 
+del despilfarro y más vinculada a conceptos como la salud y la ecología. 
 
-**No te pierdas...** 
+**También en Etheria Magazine** 
 
 [Descubre el Getxo más cultural, 15 lugares imprescindibles en tu 
 agenda](https://etheriamagazine.com/2022/10/10/que-ver-en-getxo/). 

@@ -49,7 +49,7 @@ decoración hasta la carta y, por supuesto, los cócteles.
 **Nitty Gritty**: Calle Doctor Fleming 51, Madrid. Tel. 91 434 73 33, 
 www.nitty-gritty.es Precio medio: 35-40 Euros por persona. 
 
-![interior del restaurante madrileño Nitty Gritty](https://fotos.etheriamagazine.com/2018/11/NITTY-GRITTY-900x600.jpg "Sala de © Nitty Gritty")
+![interior del restaurante madrileño Nitty Gritty](https://fotos.etheriamagazine.com/2018/11/NITTY-GRITTY.jpg "Sala de © Nitty Gritty")
 
 ## 2\. Habanera
 
@@ -81,7 +81,7 @@ renuncias a probar una carne que emociona.
 **Sagardi Castellana**: Paseo de la Castellana, 13. Tel. 913 086 281. Precio medio: 
 35-45 Euros. 
 
-![plato con cuatro pinchos del restaurante sagardi Castellana en madrid](https://fotos.etheriamagazine.com/2018/10/Cenar-con-amigas-Sagardi-pintxos-1024x682.jpg "Pintxos en Sagardi Castellana. ©Sagardi")
+![plato con cuatro pinchos del restaurante sagardi Castellana en madrid](https://fotos.etheriamagazine.com/2018/10/Cenar-con-amigas-Sagardi-pintxos.jpg "Pintxos en Sagardi Castellana. ©Sagardi")
 
 ## 4\. Tepic
 
@@ -95,7 +95,7 @@ porque es todo tan apetecible que cuesta elegir.
 
 **Tepic:** calle Ayala, 14. Tel. 915 220 850, www.tepic.es Precio medio: 30-40 Euros. 
 
-![cuatro tacos del restaurante tepic](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-tepic-taco-camaron-1024x682.jpg "Tacos al pastor del restaurante Tepic. ©Tepic.")
+![cuatro tacos del restaurante tepic](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-tepic-taco-camaron.jpg "Tacos al pastor del restaurante Tepic. ©Tepic.")
 
 ## 5\. Pink Monkey
 
@@ -125,7 +125,7 @@ salones.
 
 **Le Cocó Madrid:** calle Barbieri, 15. Tel. 915 219 955. Precio medio: 25-30 Euros. 
 
-![interior con mucha luz natural de la sala de Le Cocó en Madrid](https://fotos.etheriamagazine.com/2018/11/restaurantes-amigas-madrid-lecoco-1024x683.jpg "Acogedora sala de Le Cocó. ©Le Cocó.")
+![interior con mucha luz natural de la sala de Le Cocó en Madrid](https://fotos.etheriamagazine.com/2018/11/restaurantes-amigas-madrid-lecoco.jpg "Acogedora sala de Le Cocó. ©Le Cocó.")
 
 ## 7\. Umiko
 
@@ -153,7 +153,7 @@ gusta: por su **cocina de temporada** y porque de vez en cuando merece la pena d
 **Lakasa:** Plaza del Descubridor Diego de Ordás, 1. Tel. 915 338 715/626 933 081, 
 www.lakasa.es Precio medio: 30-40 Euros. 
 
-![manitas de cerdo del restaurante lakasa de madrid](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-lakasa-manitas-1024x682.jpg "Manitas del restaurante Lakasa. ©Lakasa")
+![manitas de cerdo del restaurante lakasa de madrid](https://fotos.etheriamagazine.com/2018/10/cenar-con-amigas-lakasa-manitas.jpg "Manitas del restaurante Lakasa. ©Lakasa")
 
 ## 9\. Arallo Taberna
 

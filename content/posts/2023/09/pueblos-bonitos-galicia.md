@@ -62,7 +62,7 @@ alta, con unas vistas impresionantes de la ría de Arousa. Merece la pena acerca
 antiguo Pazo de Bazán, hoy **Parador de Cambados**, una casa solariega del siglo XVII 
 donde se come de lujo. 
 
-![Parador de Cambados](https://fotos.etheriamagazine.com/2023/02/Parador-cambados-hotel-romantico-850x567.jpg "Parador de Cambados. © Paradores.")
+![Parador de Cambados](https://fotos.etheriamagazine.com/2023/02/Parador-cambados-hotel-romantico.jpg "Parador de Cambados. © Paradores.")
 
 ## Allariz
 
@@ -163,7 +163,7 @@ Catedrales**.
 
 [Turismo de Galicia](https://www.turismo.gal/inicio). 
 
-? **Para seguir leyendo...** 
+📌 **Para seguir leyendo...** 
 
 [Descubre la belleza de la provincia de Lugo en 15 
 paradas](https://etheriamagazine.com/2023/04/06/pueblos-que-ver-lugo/) 

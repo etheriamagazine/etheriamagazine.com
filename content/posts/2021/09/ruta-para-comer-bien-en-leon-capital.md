@@ -134,7 +134,7 @@ leonesa. Y no, ¡no se trata de una bombona de butano! Su nombre hace referencia
 refresco de naranja que lo compone, y es una opción muy frecuente entre el público 
 infantil. 
 
-![El Barrio Húmedo se encuentra dentro del casco histórico de León.](https://fotos.etheriamagazine.com/2021/06/Calle-leon-683x1024.jpg "El Barrio Húmedo se encuentra dentro del casco histórico de León. © Kelu Robles")
+![El Barrio Húmedo se encuentra dentro del casco histórico de León.](https://fotos.etheriamagazine.com/2021/06/Calle-leon.jpg "El Barrio Húmedo se encuentra dentro del casco histórico de León. © Kelu Robles")
 
 ## De la limonada al León
 

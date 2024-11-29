@@ -61,12 +61,12 @@ imprescindible de horizonte abierto.
 
 ![fachada del ayuntamiento de A Coruña](https://fotos.etheriamagazine.com/2022/09/coruna-ayuntamiento.jpg "Ayuntamiento de A Coruña. © SG")
 
-? Imprescindible que tienes que ver en A Coruña: la **Torre de Hércules**. Puedes llegar 
-en bus (líneas 3, 3A y 5). Entrada general 3 €. A su lado se halla el parque Escultórico 
-y la Rosa de los Vientos, un monumento dedicado a los 7 pueblos celtas de los que forma 
-parte Galicia. 
+📌 Imprescindible que tienes que ver en A Coruña: la **Torre de Hércules**. Puedes 
+llegar en bus (líneas 3, 3A y 5). Entrada general 3 €. A su lado se halla el parque 
+Escultórico y la Rosa de los Vientos, un monumento dedicado a los 7 pueblos celtas de 
+los que forma parte Galicia. 
 
-? Dedica parte de tu tiempo coruñés a los **museos científicos interactivos de A 
+📌 Dedica parte de tu tiempo coruñés a los **museos científicos interactivos de A 
 Coruña** (Casa das Ciencias, Domus y Aquarium Finisterrae). Son una divertida manera de 
 conocer el mundo en que vivimos a través de la ciencia. Todos son fascinantes por sus 
 contenidos, pero el Domus, con su forma de vela de barco diseñada por el arquitecto 
@@ -118,7 +118,7 @@ artísticas.
 
 ![Ría de Ferrol en A Coruña](https://fotos.etheriamagazine.com/2022/09/a-coruna-ria-ferrol.jpg "Ría de Ferrol.")
 
-? Imprescindible que tienes que ver en A Coruña: el pueblo de **Redes**, en la vecina 
+📌 Imprescindible que tienes que ver en A Coruña: el pueblo de **Redes**, en la vecina 
 ría de Ares. Esta localidad expone su esencia marinera en las viviendas cuyos porches 
 servían de embarcadero al borde del mar. Estrecha vinculación que también exhibe 
 **Ares** en el vivo colorido de sus casas de pescadores y en el exotismo transoceánico 
@@ -136,7 +136,7 @@ encendidas en su cumbre para orientar la navegación.
 
 ![Altar Ara Solis.](https://fotos.etheriamagazine.com/2022/09/coruna-aras-solis.jpg "Altar Ara Solis.")
 
-? Si como a nosotras te fascinan los paisajes agrestes de la Costa da Morte, sigue **O 
+📌 Si como a nosotras te fascinan los paisajes agrestes de la Costa da Morte, sigue **O 
 Camiño dos Faros**. Es otro lugar imprescindible que ver en A Coruña y discurre a lo 
 largo de 200 kilómetros por las 8 etapas que conectan Fisterra con Malpica sin perder de 
 vista el océano. 
@@ -152,13 +152,13 @@ mariscos con vistas al mar. También es atractiva la localidad medieval de **Noi
 popularmente conocida como el puerto de Santiago o la pequeña Compostela por su cercanía 
 a la ciudad de peregrinación. 
 
-?No te pierdas este artículo: [Camino de Santiago por la Ría de Muros-Noia, una aventura 
-a toda 
+📌No te pierdas este artículo: [Camino de Santiago por la Ría de Muros-Noia, una 
+aventura a toda 
 vela](https://etheriamagazine.com/2021/07/14/camino-de-santiago-ria-de-muros-noia-en-velero/). 
 
 ![hombre pescando en Noia](https://fotos.etheriamagazine.com/2022/09/a-coruna-noia.jpg "Acantilados en Noia.")
 
-? Antes de partir busca la **playa de As Furnas** en Porto de Son, a ver si recuerdas 
+📌 Antes de partir busca la **playa de As Furnas** en Porto de Son, a ver si recuerdas 
 alguna de las escenas que aquí rodó Amenábar en su película Mar adentro. 
 
 ### Pueblos bonitos de A Coruña con sabor a mar
@@ -196,7 +196,7 @@ atardeceres desde el cabo Vilán.
 
 ![faro al atardecer en Camariñas en A Coruña](https://fotos.etheriamagazine.com/2022/09/coruna-camarinas.jpg "Faro del cabo Vilán, en Camariñas.")
 
-? Imprescindible que tienes que ver en A Coruña: el faro del cabo Vilán es sede del 
+📌 Imprescindible que tienes que ver en A Coruña: el faro del cabo Vilán es sede del 
 **Centro de Interpretación de naufragios, faros y señales marítimas**. Señala el 
 comienzo de la trágica ruta de los Naufragios que indica los barcos hundidos en tan 
 peligrosa costa. 
@@ -232,7 +232,7 @@ de pecado.
 
 ![casas de Muxía por la noche](https://fotos.etheriamagazine.com/2022/09/coruna-muxia.jpg "Muxía al atardecer.")
 
-? Muy cerca, en el acantilado de Pedro da Boia, se halla el **monumento A Ferida** (la 
+📌 Muy cerca, en el acantilado de Pedro da Boia, se halla el **monumento A Ferida** (la 
 herida), levantado en homenaje a la huella negra que dejó el petrolero Prestige en 2002 
 al partirse en dos frente a la costa de Muxía. 
 
@@ -283,7 +283,7 @@ dulce de Vixán y la salada de Carregal, constituye un parque natural.
 
 ![pasarela en las dunas de Corrubedo en A Coruña](https://fotos.etheriamagazine.com/2022/09/dunas-corrubedo.jpg "Acceso a las dunas de Corrubedo.")
 
-? Date un baño en alguna de sus dos playas consecutivas, tienes 3 kilómetros para 
+📌 Date un baño en alguna de sus dos playas consecutivas, tienes 3 kilómetros para 
 perderte. De sus itinerarios y riqueza natural puedes informarte en el centro de 
 interpretación conocido como **Casa da Costa** que se encuentra en O Vilar. Y para verla 
 al completo asciende al mirador de Pedra da Ra, donde abarcarás incluso hasta las islas 

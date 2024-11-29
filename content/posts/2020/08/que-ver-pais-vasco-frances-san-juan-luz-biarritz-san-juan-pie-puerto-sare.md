@@ -62,7 +62,7 @@ río Nivelle para comer en la vecina localidad de Ciboure el plato típico de la
 sopa de pescado Ttoro con verduras y mariscos que la dueña de **Chez Margot** guisa como 
 nadie. 
 
-![Grand Hotel Thalasso Spa](https://fotos.etheriamagazine.com/2020/07/grand-hotel-san-juan-luz-900x569.jpg "© Grand Hôtel Thalasso & Spa.")
+![Grand Hotel Thalasso Spa](https://fotos.etheriamagazine.com/2020/07/grand-hotel-san-juan-luz.jpg "© Grand Hôtel Thalasso & Spa.")
 
 ### Historias de San Juan de Luz
 
@@ -85,7 +85,7 @@ San Juan de Luz, al lado del puerto pesquero.
 Tras este paseo dejaremos esta antigua aldea de pescadores, cuya leyenda ballenera le 
 viene de las enseñanzas vikingas de antaño, allá por los siglos VIII y IX. 
 
-![casa en Sare en el País VAsco Francés](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-Sare-900x864.jpg "Palacetes de arquitectura vasca pueblan el bello paraje de Sare. © M.Munar")
+![casa en Sare en el País VAsco Francés](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-Sare.jpg "Palacetes de arquitectura vasca pueblan el bello paraje de Sare. © M.Munar")
 
 ## Sare. Un pueblito aquí y otro allá
 
@@ -101,7 +101,7 @@ frontón correspondiente; el regio cementerio de la iglesia repleto de estelas (
 los muertos) vascas ‘hilarriak’ cuya forma simboliza la tierra y la luna; casonas 
 solariegas de los siglos XV y XVI; y hasta el lavadero municipal. 
 
-![Salón de Hotel Arraya en Sare](https://fotos.etheriamagazine.com/2020/07/viaje-Sare-hotel-arraya-900x600.jpg "El Hotel Arraya en Sare es un lugar acogedor y hospitalario donde se come de maravilla. © M. Munar")
+![Salón de Hotel Arraya en Sare](https://fotos.etheriamagazine.com/2020/07/viaje-Sare-hotel-arraya.jpg "El Hotel Arraya en Sare es un lugar acogedor y hospitalario donde se come de maravilla. © M. Munar")
 
 ### Fiesta de la Asunción
 
@@ -130,7 +130,7 @@ apenas coches, hasta llegar al siguiente destino montañero **San Juan a Pie de 
 Punto estratégico entre España y Francia, también es paso del Camino de Santiago justo 
 antes de cruzar Los Pirineos a _pie del puerto_ de Roncesvalles, como su nombre indica. 
 
-![rio en San Juan a Pie de Puerto](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-San-Juan-a-Pie-de-Puerto-900x600.jpg "Al pueblo montañés de San Juan a Pie de Puerto le atraviesa el río Nive. © M. Munar")
+![rio en San Juan a Pie de Puerto](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-San-Juan-a-Pie-de-Puerto.jpg "Al pueblo montañés de San Juan a Pie de Puerto le atraviesa el río Nive. © M. Munar")
 
 El río Nive, atravesado por el _Pont Neuf_, cruza con garbo el centro del pueblo, cuya 
 calle principal, matizada por casas antiguas con vivos postigos rojos, sube por la Rue 
@@ -144,7 +144,7 @@ construyó en señal de agradecimiento por su sonada victoria de las Navas de To
 
 Si es lunes, el mercado local se llenará de productos frescos y atractivos. 
 
-![Espeleta](https://fotos.etheriamagazine.com/2020/07/viaje-mujeres-etheria-Espeleta-900x613.jpg "Espeleta. © M. Munar")
+![Espeleta](https://fotos.etheriamagazine.com/2020/07/viaje-mujeres-etheria-Espeleta.jpg "Espeleta. © M. Munar")
 
 ## Espeleta. El pueblo de los pimientos
 
@@ -168,7 +168,7 @@ vasco franceses, no llevan algún aderezo que contenga algo de pimiento de Espel
 avivar el guiso. Por último, si quieres comer productos estacionales cocinados con 
 maestría, acude al **restaurante Choko Ona**, situado en una pintoresca casa del pueblo. 
 
-![faro de Biarritz](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-faro-Biarritz-900x600.jpg "El faro de Biarritz, en Pointe Saint-Martin, está catalogado como monumento histórico. © M.Munar")
+![faro de Biarritz](https://fotos.etheriamagazine.com/2020/07/viaje-etheria-faro-Biarritz.jpg "El faro de Biarritz, en Pointe Saint-Martin, está catalogado como monumento histórico. © M.Munar")
 
 ## Biarritz. Surf, juego, historia, y mucho más…
 
@@ -180,7 +180,7 @@ que estaba loco por ella y le daba gusto en todo, insistió en construir un pala
 fuera su residencia –y sirviera para acoger a la corte–, en el lugar con las mejores 
 vistas de Biarritz. 
 
-![playa de biarritz](https://fotos.etheriamagazine.com/2020/07/viaje-mujeres-Biarritz-900x603.jpg "La Grande Plage de Biarritz, Capital Europea del Surf. © M. Munar")
+![playa de biarritz](https://fotos.etheriamagazine.com/2020/07/viaje-mujeres-Biarritz.jpg "La Grande Plage de Biarritz, Capital Europea del Surf. © M. Munar")
 
 Lo que en principio fue Villa Eugenia, se convirtió en un lugar al que acudían 
 personalidades como la reina Isabel II de España, el príncipe Walewski, hijo de Napoleón 
@@ -189,7 +189,7 @@ convirtió en el **Hôtel du Palais**, desde donde se observa la Grande Plage, u
 ensenada para los surferos que llegan atraídos por el apelativo de _Capital Europea del 
 Surf._ 
 
-![Paseo marítimo de Biarritz](https://fotos.etheriamagazine.com/2020/07/que-ver-casino-Biarritz-900x600.jpg "Panorámica de la Grande Plage de Biarritz con el Casino Barriere y el Hôtel du Palais. © M.Munar")
+![Paseo marítimo de Biarritz](https://fotos.etheriamagazine.com/2020/07/que-ver-casino-Biarritz.jpg "Panorámica de la Grande Plage de Biarritz con el Casino Barriere y el Hôtel du Palais. © M.Munar")
 
 ### De compras por Biarritz
 

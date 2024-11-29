@@ -12,7 +12,7 @@ authors:
 
 Respirar mirando al norte nos hace pensar en Getxo, una escapada perfecta desde Bilbao con amigas y un mirador privilegiado de la entrega a mar abierto de la ría del Nervión. Frente al puerto comercial más dinámico del Cantábrico se abre el estuario o Abra de Bilbao desvelando su ubicación y la conexión con la buena vida. Su orilla ya se puso de moda con los “baños de mar” hace siglo y medio, y hoy día sigue siendo una excepcional propuesta. Te contamos 10 imprescindibles en Getxo para tu próximo viaje.
 
-![Puerto Viejo de Algorta, uno de los imprescindibles de Getxo](https://fotos.etheriamagazine.com/2022/07/Puerto-Viejo-de-Algorta-749x1024.jpg "Puerto Viejo de Algorta.")
+![Puerto Viejo de Algorta, uno de los imprescindibles de Getxo](https://fotos.etheriamagazine.com/2022/07/Puerto-Viejo-de-Algorta.jpg "Puerto Viejo de Algorta.")
 
 Es algo más que respirar aire puro. Alegría, vitalidad, luz… llegar a Getxo es 
 contagiarse de las ganas de vivir de su gente durante todo el año. Aunque en verano, 
@@ -64,7 +64,7 @@ audioguía (castellano, euskera, inglés y francés por 2,5 €) para conocer to
 detalles. O bien, cruzar en la barquilla, ideal para los que tienen vértigo, por sólo 
 unos 0,50 €. 
 
-?El 13 de julio fue su aniversario mundial pues cumplió 16 años desde que la Unesco lo 
+📍El 13 de julio fue su aniversario mundial pues cumplió 16 años desde que la Unesco lo 
 declaró Patrimonio de la Humanidad. 
 
 ![Puente Bizkaia, una visita imprescindible en Getxo](https://fotos.etheriamagazine.com/2022/07/Puente-Bizkaia-getxo.jpg "Puente Bizkaia, uno de los imprescindibles de Getxo.")
@@ -116,7 +116,7 @@ Al final del muelle asoma el **faro de Arriluze**, que es más bien una baliza q
 hace 119 años, indica el paso por las aguas más seguras, situadas a babor de dicha torre 
 de faro. 
 
-![Faro casa salvamento marino en el Muelle Arriluze](https://fotos.etheriamagazine.com/2022/07/Faro-casa-salvamento-getxo-683x1024.jpg "Faro casa salvamento marino en el Muelle Arriluze, en Getxo.")
+![Faro casa salvamento marino en el Muelle Arriluze](https://fotos.etheriamagazine.com/2022/07/Faro-casa-salvamento-getxo.jpg "Faro casa salvamento marino en el Muelle Arriluze, en Getxo.")
 
 #### Galerías de Punta Begoña y Fuerte de La Galea
 
@@ -145,7 +145,7 @@ de **playa de Las Arenas**. El disfrute del mar se desplazó a la **playa de Ere
 fina arena y protegida del viento noroeste, es donde el **balneario Igaretxe** se 
 convirtió en el epicentro del turismo de baños de mar. 
 
-![Playa de Arrigunaga y acantilados en Getxo](https://fotos.etheriamagazine.com/2022/07/Playa-de-Arrigunaga-getxo-670x1024.jpg "Playa de Arrigunaga, en Getxo.")
+![Playa de Arrigunaga y acantilados en Getxo](https://fotos.etheriamagazine.com/2022/07/Playa-de-Arrigunaga-getxo.jpg "Playa de Arrigunaga, en Getxo.")
 
 En la actualidad, la **playa de Las Arenas sigue siendo un destino familiar** y 
 accesible al que puedes llegar incluso en metro. Los aficionados al _surf_ y al 
@@ -154,7 +154,7 @@ en la **playa de Gorrondatxe-Azkorri** y en la **playa de Barinatxe**, que inclu
 conoce con el sobrenombre de "La Salvaje". Consulta otras opciones de playas en este [link](https://www.getxo.eus/es/turismo/que-ver/playas-getxo) 
 para encontrar la idónea según tus necesidades. 
 
-?También imponente y bajo los acantilados de La Galea queda la **playa de Arrigunaga** 
+📍También imponente y bajo los acantilados de La Galea queda la **playa de Arrigunaga** 
 que invita al baño y al paseo. En su zona de rocas, al pie del cantil, conseguirás tu 
 mejor selfi. 
 

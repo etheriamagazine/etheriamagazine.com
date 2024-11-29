@@ -17,7 +17,7 @@ para ponerse "ya" en marcha. Rodeada de un mar de viñas, esta población de Ciu
 promete una experiencia festiva a la altura de tus expectativas. Sigue leyendo para 
 descubrir otros motivos más para hacer una excursión a Socuéllamos. 
 
-![Casa de la Encomienda, en Socuéllamos.](https://fotos.etheriamagazine.com/2024/04/socuellamos-casa-encomienda-850x565.jpg "Casa de la Encomienda, en Socuéllamos.")
+![Casa de la Encomienda, en Socuéllamos.](https://fotos.etheriamagazine.com/2024/04/socuellamos-casa-encomienda.jpg "Casa de la Encomienda, en Socuéllamos.")
 
 El mar de viñas que rodea la población de Socuéllamos, con una extensión de 27.000 
 hectáreas, ya nos da una pista sobre una de sus grandes atracciones turísticas. Con poco 
@@ -41,7 +41,7 @@ momento en una gran fuente de recursos. Un dato curioso es que por cada vecino h
 campos de fútbol de viñedos. Pocos lugares más idóneos que este para introducirse en el 
 mundo del vino a través de cursos de cata. 
 
-![Bodegas Cristo de la Vega, en Socuéllamos.](https://fotos.etheriamagazine.com/2024/05/socuellamos-bodegas-crisve-714x1000.jpg "Bodegas Cristo de la Vega, en Socuéllamos.")
+![Bodegas Cristo de la Vega, en Socuéllamos.](https://fotos.etheriamagazine.com/2024/05/socuellamos-bodegas-crisve.jpg "Bodegas Cristo de la Vega, en Socuéllamos.")
 
 Actualmente en Socuéllamos existen **15 bodegas**, algunas centenarias y otras con una 
 impronta vanguardista, y en ellas se elaboran buenos vinos que también han sido muy 
@@ -63,7 +63,7 @@ atardecer la panorámica es mágica.
 Además de las exposiciones, el museo organiza catas, talleres y actividades durante todo 
 el año, también para familias con niños. 
 
-![Museo Torre del Vino de Socuéllamos.](https://fotos.etheriamagazine.com/2024/05/socuellamos-Museo-Torre-del-Vino-667x1000.jpg "Museo Torre del Vino de Socuéllamos.")
+![Museo Torre del Vino de Socuéllamos.](https://fotos.etheriamagazine.com/2024/05/socuellamos-Museo-Torre-del-Vino.jpg "Museo Torre del Vino de Socuéllamos.")
 
 ## Fiestas populares de Socuéllamos
 
@@ -74,7 +74,7 @@ de San Isidro**. Sin embargo, hay otra gran cita en el calendario festivo que me
 visita: la **Feria de Todos Los Santos**, declarada hace poco Fiesta de Interés 
 Turístico Regional. 
 
-![Fiesta de las Cruces de Mayo](https://fotos.etheriamagazine.com/2024/05/socuellamos-Cruces-Mayo-850x694.jpg "Fiesta de las Cruces de Mayo, una buena excusa para visitar Socuéllamos.")
+![Fiesta de las Cruces de Mayo](https://fotos.etheriamagazine.com/2024/05/socuellamos-Cruces-Mayo.jpg "Fiesta de las Cruces de Mayo, una buena excusa para visitar Socuéllamos.")
 
 ### Las Cruces de Mayo
 
@@ -97,7 +97,7 @@ disfrutar de la música y el baile, además de saborear algunos platos típicos 
 gachas, las migas, el gazpacho, el pisto e incluso alguna caldereta de cordero. Eso sí, 
 todo ello acompañado de los mejores vinos locales. 
 
-![Iglesia de Nuestra Señora de la Asunción, una de las más bonitas de Socuéllamos.](https://fotos.etheriamagazine.com/2024/05/Iglesia-Nuestra-Senora-Asuncion-667x1000.jpg "Iglesia de Nuestra Señora de la Asunción.")
+![Iglesia de Nuestra Señora de la Asunción, una de las más bonitas de Socuéllamos.](https://fotos.etheriamagazine.com/2024/05/Iglesia-Nuestra-Senora-Asuncion.jpg "Iglesia de Nuestra Señora de la Asunción.")
 
 ### La Feria de Todos Los Santos de Socuéllamos
 

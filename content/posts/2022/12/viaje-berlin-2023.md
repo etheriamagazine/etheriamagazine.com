@@ -14,7 +14,7 @@ alemana tiene tanto que ofrecer que siempre apetece revisitar sus clásicos y co
 novedades. En esta ocasión te invitamos a descubrir sus últimos hoteles, restaurantes, 
 museos y espacios de bienestar. 
 
-![Un paseo en bicicleta por East Side Gallery, en Berlín.](https://fotos.etheriamagazine.com/2022/12/East-Side-Gallery-850x568.jpg "East Side Gallery. © Visit Berlín/ Philip Koschel")
+![Un paseo en bicicleta por East Side Gallery, en Berlín.](https://fotos.etheriamagazine.com/2022/12/East-Side-Gallery.jpg "East Side Gallery. © Visit Berlín/ Philip Koschel")
 
 No es la primera vez que recorremos Berlín, pero esta ciudad se transforma tan 
 rápidamente que a veces cuesta reconocer alguno de sus distritos. En anteriores 
@@ -37,7 +37,7 @@ En primer lugar está el **hotel Luc,** que transmite la elegancia y glamour de 
 herencia prusiana en sus 70 habitaciones y 22 suites. Además, se encuentra ubicado en 
 Gendarmenmarkt, una de las plazas más bonitas de la ciudad. 
 
-![Lobby del hotel Luc, en Berlín.](https://fotos.etheriamagazine.com/2022/12/lobby-hotel-luc-berlin-850x567.jpg "Lobby del hotel Luc, en Berlín. © NH Autograph Collection")
+![Lobby del hotel Luc, en Berlín.](https://fotos.etheriamagazine.com/2022/12/lobby-hotel-luc-berlin.jpg "Lobby del hotel Luc, en Berlín. © NH Autograph Collection")
 
 ### Greet Berlin Alexanderplatz
 
@@ -69,7 +69,7 @@ donde tienen cabida tanto las especialidades alemanas como la cocina internacion
 algunos platos pensados para compartir, algo que nos encanta. El ambiente tiene el toque 
 elegante que le otorga la antigua sala Emperador del Grand Hotel Esplanade. 
 
-![Lujoso interior del restaurante Frederick's de Berlín.](https://fotos.etheriamagazine.com/2022/12/restaurant-frederick-berlin-850x567.jpg "© Restaurante Frederick's de Berlín.")
+![Lujoso interior del restaurante Frederick's de Berlín.](https://fotos.etheriamagazine.com/2022/12/restaurant-frederick-berlin.jpg "© Restaurante Frederick's de Berlín.")
 
 ### Wilhelm
 
@@ -79,7 +79,7 @@ este restaurante nos gusta su concepto de alta cocina con precios asumibles, sus
 preciosos interiores y una carta que va cambiando y que incluye platos acordes con la 
 exposición del momento. 
 
-![El restaurant Wilhelm triunfa con su cocina franco-germana a la carta.](https://fotos.etheriamagazine.com/2022/12/restaurante-wilhelm-850x567.jpg "El restaurant Wilhelm triunfa con su cocina franco-germana a la carta.")
+![El restaurant Wilhelm triunfa con su cocina franco-germana a la carta.](https://fotos.etheriamagazine.com/2022/12/restaurante-wilhelm.jpg "El restaurant Wilhelm triunfa con su cocina franco-germana a la carta.")
 
 ### Lovis
 
@@ -135,7 +135,7 @@ Una vez que tenemos el alojamiento, las comidas y el bienestar resueltos, te pro
 un poco de vida cultural. Entre las novedades que trae 2023 en Berlín hemos elegido dos 
 que nos parecen especiales. 
 
-![Museo de la Guerra Fría de Berlín.](https://fotos.etheriamagazine.com/2022/12/museo-guerra-fria-berlin-850x376.jpg "© Museo de la Guerra Fría de Berlín.")
+![Museo de la Guerra Fría de Berlín.](https://fotos.etheriamagazine.com/2022/12/museo-guerra-fria-berlin.jpg "© Museo de la Guerra Fría de Berlín.")
 
 ### Museo de la Guerra Fría
 

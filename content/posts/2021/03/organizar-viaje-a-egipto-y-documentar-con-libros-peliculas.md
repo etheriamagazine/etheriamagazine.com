@@ -69,7 +69,7 @@ de personajes y situaciones peculiares que transcurren en torno a este edificio 
 existe en realidad). De casi tres horas de duración, tuvo un gran éxito en este país y 
 refleja los cambios producidos en El Cairo a lo lago del siglo XX 
 
-![películas actuales sobre Egipto](https://fotos.etheriamagazine.com/2021/02/Egipto-peliculas-El-Cairo-678-691x1024.jpg "Cartel de la película 'El Cairo 678'.")
+![películas actuales sobre Egipto](https://fotos.etheriamagazine.com/2021/02/Egipto-peliculas-El-Cairo-678.jpg "Cartel de la película 'El Cairo 678'.")
 
 ### El Cairo 678 (2010)
 

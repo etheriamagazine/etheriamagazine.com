@@ -19,7 +19,7 @@ diez razones por las que merece la pena visitar esta preciosa isla.
 
 **Fotografías: Félix Lorenzo.** 
 
-![Anses d'Arlet.](https://fotos.etheriamagazine.com/2019/09/Martinica-Anses-dArlet-900x599.jpg "Anses d'Arlet.")
+![Anses d'Arlet.](https://fotos.etheriamagazine.com/2019/09/Martinica-Anses-dArlet.jpg "Anses d'Arlet.")
 
 Actualizado 05/2023 
 
@@ -156,7 +156,7 @@ el lugar perfecto para ver una preciosa puesta de sol. Si además tienes suerte,
 posible que avistes alguna de las tortugas marinas que suelen acercarse a la costa. No 
 te olvides del equipo de snorkel ¡lo aprovecharás! 
 
-![Playa de arena negra Ante Ceron.](https://fotos.etheriamagazine.com/2019/09/Martinica-anse-Ceron-900x599.jpg "Playa de arena negra Ante Ceron.")
+![Playa de arena negra Ante Ceron.](https://fotos.etheriamagazine.com/2019/09/Martinica-anse-Ceron.jpg "Playa de arena negra Ante Ceron.")
 
 ### Ansé Cerón
 

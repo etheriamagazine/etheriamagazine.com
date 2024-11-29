@@ -57,11 +57,11 @@ hoy en día puede recorrerse un kilómetro de ellos para conocer su estructura, 
 enfermería, la sala de juegos de los niños y ver alguna de las inscripciones que se 
 conservan en las paredes. 
 
-? [Free Tour por 
+📍 [Free Tour por 
 Almería](https://www.civitatis.com/es/almeria/free-tour-almeria/?aid=10211), para tomar 
 el pulso a la ciudad. 
 
-?Si te gusta la historia, no te pierdas el [Tour por los refugios de la Guerra 
+📍Si te gusta la historia, no te pierdas el [Tour por los refugios de la Guerra 
 Civil](https://www.civitatis.com/es/almeria/tour-refugios-guerra-civil/?aid=10211). 
 
 ## Pueblos con encanto
@@ -207,7 +207,7 @@ playa de Las Salinas. Tras el ascenso, se llega a este mirador que ofrece unas v
 preciosas del **arrecife de las Sirenas**, formado por chimeneas volcánicas. Este es uno 
 de los mejores lugares del parque para contemplar la puesta de sol. 
 
-? [Excursión al Parque Natural Cabo de 
+📍 [Excursión al Parque Natural Cabo de 
 Gata-Níjar](https://www.civitatis.com/es/almeria/excursion-cabo-gata/?aid=10211). 
 
 ![Playa de Mónsul, en el Parque Natural Cabo de Gata-Níjar](https://fotos.etheriamagazine.com/2023/06/Almeria-playa-monsul.jpg "Playa de Mónsul, en el Parque Natural Cabo de Gata-Níjar. © Turismo de Andalucía.")
@@ -258,7 +258,7 @@ se celebran espectáculos con cowboys y se puede ver un zoo con algunos animales
 te podrás disfrazar con atuendos típicos de los _western_. Una experiencia muy divertida 
 si viajas en familia o con un grupo de amigos. 
 
-? [Excursión a Tabernas y Fort 
+📍 [Excursión a Tabernas y Fort 
 Bravo](https://www.civitatis.com/es/almeria/excursion-desierto-tabernas/?aid=10211). 
 
 ### Cuevas de Sorbas
@@ -276,7 +276,7 @@ Para las más aventureras, en estas cuevas se pueden organizar también **espele
 **espeleología**, que permiten adentrarse aún más en las profundidades de la cueva y 
 explorar sus rincones más ocultos. 
 
-? [Espeleología en las Cuevas de 
+📍 [Espeleología en las Cuevas de 
 Sorbas](https://www.civitatis.com/es/almeria/espeleologia-cuevas-sorbas/?aid=10211). 
 
 ### Parque Natural de Sierra-María Los Vélez
@@ -299,7 +299,7 @@ que alberga un castillo renacentista, la iglesia de Santiago y la Casa de los Ar
 **Vélez-Rubio**, con su bonita iglesia de la Encarnación y la animada plaza de la 
 Constitución. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Planes en Almería para una escapada en clave 
 slow](https://etheriamagazine.com/2021/04/17/que-ver-en-almeria-en-temporada-baja/) 

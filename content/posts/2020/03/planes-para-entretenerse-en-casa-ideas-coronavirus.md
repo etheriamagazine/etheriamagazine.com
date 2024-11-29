@@ -14,7 +14,7 @@ Cuando se deja de saber en qué día se vive, comenzamos a tener un problema. De
 Etheria Magazine te animamos a que introduzcas en tus rutinas algunas actividades 
 diferentes los fines de semana. Aquí te comentamos 10 propuestas sencillas. 
 
-![planes casa coronavirus](https://fotos.etheriamagazine.com/2020/03/planes-coronavirus-en-casa-900x599.jpg "Planes para el fin de semana. © Rebe Pascual/ Unsplash")
+![planes casa coronavirus](https://fotos.etheriamagazine.com/2020/03/planes-coronavirus-en-casa.jpg "Planes para el fin de semana. © Rebe Pascual/ Unsplash")
 
 A estas alturas seguramente hayas pasado por todos los estados de ánimo y hayas 
 intentado seguir las decenas de recomendaciones que surgen de organizaciones, medios, 
@@ -24,7 +24,7 @@ Etheria Magazine practicamos la terapia viajera y tratamos de centrarnos en dest
 actividades que nos gustaría conocer o realizar... pero ahora no te hablaremos de eso 
 sino de lo que haremos este fin de semana (y no ordenaremos armarios). 
 
-![gimnasia en casa](https://fotos.etheriamagazine.com/2020/03/deporte-casa-coronavirus-900x600.jpg "Gimnasio, pilates o yoga, cualquier actividad viene bien. © Rawan Yasser")
+![gimnasia en casa](https://fotos.etheriamagazine.com/2020/03/deporte-casa-coronavirus.jpg "Gimnasio, pilates o yoga, cualquier actividad viene bien. © Rawan Yasser")
 
 Índice 
 
@@ -47,7 +47,7 @@ Fitboxing](https://www.youtube.com/channel/UCJ3rQKWlrY41swbN5mSLiMA), [Gym
 Virtual](https://www.youtube.com/user/gymvirtual) o [Deportes 
 Uncomo](https://www.youtube.com/channel/UCKk_D7EWit8HUmM3l-49UqQ) (ejercicio y pilates). 
 
-![comidas en casa,](https://fotos.etheriamagazine.com/2020/03/comidas-coronavirus-900x600.jpg "Un desayuno de capricho. © Ellena McGuinness.")
+![comidas en casa,](https://fotos.etheriamagazine.com/2020/03/comidas-coronavirus.jpg "Un desayuno de capricho. © Ellena McGuinness.")
 
 ## 2\. Un desayuno o una comida de capricho
 
@@ -61,7 +61,7 @@ especial? Anímate y prepara esa paella o ese lechazo que te sale tan bien. En e
 artículo os dábamos algunas [ideas de recetas tradicionales 
 españolas](https://etheriamagazine.com/2020/03/25/platos-tipicos-espana-viaje-por-los-sabores/). 
 
-![ritual belleza en casa](https://fotos.etheriamagazine.com/2020/03/ritua-belleza-casa-900x600.jpg "Ritual de belleza en casa. © Noah Buscher")
+![ritual belleza en casa](https://fotos.etheriamagazine.com/2020/03/ritua-belleza-casa.jpg "Ritual de belleza en casa. © Noah Buscher")
 
 ## 3\. Ritual de belleza y baño relajante
 
@@ -82,7 +82,7 @@ descargar. Si, aún así, eres incapaz de concentrarte, prueba con [guías de
 viajes](https://etheriamagazine.com/2019/12/24/10-libros-recomendados-para-regalar-mujeres-viajeras/) 
 y de curiosidades, hay muchas. También los audiolibros son una buena idea. 
 
-![museos espanoles, visitas virtuales, coronavirus](https://fotos.etheriamagazine.com/2020/03/Museo-visita-virtual-coronavirus-900x676.jpg "Visitas virtuales a museos, un buen entretenimiento. © Goran Ivos")
+![museos espanoles, visitas virtuales, coronavirus](https://fotos.etheriamagazine.com/2020/03/Museo-visita-virtual-coronavirus.jpg "Visitas virtuales a museos, un buen entretenimiento. © Goran Ivos")
 
 ## 5\. Ir de museos
 
@@ -94,7 +94,7 @@ Bornemisza](https://etheriamagazine.com/2020/03/16/visitas-virtuales-museos-espa
 El Prado, [El Louvre](https://www.louvre.fr/en/visites-en-ligne) o la [National 
 Gallery](https://www.nationalgallery.org.uk/visiting/virtual-tours). 
 
-![opera online, entretenimiento coronavirus](https://fotos.etheriamagazine.com/2020/03/siegried-opera-met-900x521.jpg "Siegfried, una de las óperas que se han transmitido en el © Metropolitan Opera de Nueva York.")
+![opera online, entretenimiento coronavirus](https://fotos.etheriamagazine.com/2020/03/siegried-opera-met.jpg "Siegfried, una de las óperas que se han transmitido en el © Metropolitan Opera de Nueva York.")
 
 ## 6\. Un concierto o una ópera
 
@@ -125,7 +125,7 @@ Grifol, [Grifol's Bar,](https://www.youtube.com/channel/UCe8MEF-1HQZsq_LzGsIs8nw
 encontrarás algunas indicaciones útiles para que salgan bien los Manhattan, Rob Roy y 
 Pisco sour, entre otros. 
 
-![bailar en casa, cursos baile casa](https://fotos.etheriamagazine.com/2020/03/baile-en-casa-900x600.jpg "Baila en casa. © Juan Camino Navia")
+![bailar en casa, cursos baile casa](https://fotos.etheriamagazine.com/2020/03/baile-en-casa.jpg "Baila en casa. © Juan Camino Navia")
 
 ## 9\. Baila en casa
 
@@ -137,7 +137,7 @@ o [swing](https://www.youtube.com/watch?v=BWYjAxdLAFY)). Si estás acompañado p
 aún más divertido, pero no renuncies a bailar si estás sola. Y si prefieres tocar un 
 instrumento en lugar de mover el esqueleto, no te cortes. 
 
-![socializar, aplicaciones hablar internet](https://fotos.etheriamagazine.com/2020/03/llamada-grupal-coronavirus-900x600.jpg "Socializar a través de las nuevas tecnologías. © Brooke Cagle")
+![socializar, aplicaciones hablar internet](https://fotos.etheriamagazine.com/2020/03/llamada-grupal-coronavirus.jpg "Socializar a través de las nuevas tecnologías. © Brooke Cagle")
 
 ## 10\. Organiza una llamada grupal
 

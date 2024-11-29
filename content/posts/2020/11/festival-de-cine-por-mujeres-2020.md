@@ -11,7 +11,7 @@ authors:
 
 El Festival de Cine por Mujeres acoge hasta el 15 de noviembre las películas más singulares dirigidas por mujeres de Alemania, Chile, Corea del Sur o Finlandia. Aquí encontrarás un listado de los filmes que se proyectarán en el Cine Estudio del Círculo de Bellas Artes de Madrid.
 
-![festival 2020 de cine por mujeres](https://fotos.etheriamagazine.com/2020/11/cartel-cine-por-mujeres-743x1024.jpg "Cartel Festival Internacional de Cine por Mujeres.")
+![festival 2020 de cine por mujeres](https://fotos.etheriamagazine.com/2020/11/cartel-cine-por-mujeres.jpg "Cartel Festival Internacional de Cine por Mujeres.")
 
 Hasta el 15 de noviembre, se celebra en Madrid el III Festival de Cine por Mujeres, un 
 escaparate que mostrará algunos de los mejores largometrajes hechos por el colectivo 
@@ -30,7 +30,7 @@ proyecciones en la Sala Berlanga de la Fundación SGAE, Casa Árabe, Centro Come
 Palacio de Hielo, Instituto Goethe, Instituto Francés, Cineteca Madrid, Sala Equis, 
 Academia de las Artes y las Ciencias Cinematográficas y la Sala La Morada. 
 
-![pelicula nevia festival cine por mujeres 2020](https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-Nevia-Cartel-722x1024.jpg "Cartel de la película 'Nevia' (Italia).")
+![pelicula nevia festival cine por mujeres 2020](https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-Nevia-Cartel.jpg "Cartel de la película 'Nevia' (Italia).")
 
 ## Películas 'Sección Competitiva' del Festival de Cine por Mujeres
 

@@ -50,7 +50,7 @@ se despidió del mundo real, con 88 años.
 > años 50 escapándose a las tabernas del Barrio Chino, algo inaudito para una chica de 
 > familia burguesa como ella. 
 
-![Plaza de Cataluña, en Barcelona.](https://fotos.etheriamagazine.com/2020/06/barcelona-plaza-cataluna-900x600.jpg "Plaza de Cataluña, en Barcelona.")
+![Plaza de Cataluña, en Barcelona.](https://fotos.etheriamagazine.com/2020/06/barcelona-plaza-cataluna.jpg "Plaza de Cataluña, en Barcelona.")
 
 Y eso lo combinaba con sus visitas al **Hotel Ritz**, donde asistía a fiestas y puestas 
 de largo de sus amigas y donde también recibió el **Premio Nadal en el año 1959** por su 
@@ -95,14 +95,14 @@ que se entra y se sale muchas veces al día.
 > reloj, mientras que los hombres lo hacían en el sentido contrario”, recordaba. Era la 
 > forma de tropezarse con la mirada de la persona deseada. 
 
-![Plaza Mayor Viaje para mujeres en Salamaca](https://fotos.etheriamagazine.com/2018/05/2-Viajar-sola-a-Salamanca-1024x627.jpg "La Plaza Mayor es un buen lugar para tomar el pulso a Salamanca.")
+![Plaza Mayor Viaje para mujeres en Salamaca](https://fotos.etheriamagazine.com/2018/05/2-Viajar-sola-a-Salamanca.jpg "La Plaza Mayor es un buen lugar para tomar el pulso a Salamanca.")
 
 Carmen Martín Gaite sentía fascinación por esos **conventos de la calle de las Úrsulas** 
 donde nunca se podía entrar… “y por las callecitas en torno a San Esteban, al **Patio de 
 Escuelas**, a la **Torre del Clavero**, por donde se deambulaba como fuera de tiempo, 
 sin que los ojos dieran abasto para ver ni la imaginación para evocar”. 
 
-![Cúpula de la catedral desde el patio de las Viejas Escuelas.](https://fotos.etheriamagazine.com/2018/05/6-Viajar-sola-a-Salamanca-1024x642.jpg "Cúpula de la catedral desde el patio de las Viejas Escuelas.")
+![Cúpula de la catedral desde el patio de las Viejas Escuelas.](https://fotos.etheriamagazine.com/2018/05/6-Viajar-sola-a-Salamanca.jpg "Cúpula de la catedral desde el patio de las Viejas Escuelas.")
 
 Carmen Martín Gaite, ella lo decía, aprendió en Salamanca a andar por andar, a caminar 
 sin prisa, trenzando la mirada con el paso. “Salamanca despierta al ritmo de mis pasos y 
@@ -127,7 +127,7 @@ otros aragoneses ilustres, como Luis Buñuel o Ramón J. Sender. La casualidad q
 después de ser alumna en este centro de Zaragoza, volviera como maestra a las mismas 
 aulas donde ella había asimilado velozmente sus conocimientos. 
 
-![Catedral de Zaragoza.](https://fotos.etheriamagazine.com/2020/06/catedral-zaragoza-900x600.jpg "Catedral de Zaragoza. © Koalakoker")
+![Catedral de Zaragoza.](https://fotos.etheriamagazine.com/2020/06/catedral-zaragoza.jpg "Catedral de Zaragoza. © Koalakoker")
 
 María Moliner combinaba en Zaragoza sus estudios universitarios con su formación como 
 **filóloga y lexicógrafa en el Estudio de Filología de Aragón**, donde aprendió un 
@@ -138,7 +138,7 @@ por ella misma**, con sus sinónimos, frases hechas, pronunciaciones y familias 
 palabras. Hasta que ganó las oposiciones al Cuerpo Facultativo de Archiveros y fue 
 destinada al Archivo General de Simancas. 
 
-![Biblioteca de María Moliner (Zaragoza) y busto en Paniza, su lugar de nacimiento.](https://fotos.etheriamagazine.com/2020/06/Biblioteca-Maria-moliner-busto-900x585.jpg "Biblioteca de María Moliner (Zaragoza) y busto en Paniza, su lugar de nacimiento. © Wikimedia")
+![Biblioteca de María Moliner (Zaragoza) y busto en Paniza, su lugar de nacimiento.](https://fotos.etheriamagazine.com/2020/06/Biblioteca-Maria-moliner-busto.jpg "Biblioteca de María Moliner (Zaragoza) y busto en Paniza, su lugar de nacimiento. © Wikimedia")
 
 En la actualidad, una céntrica calle, **un instituto de educación secundaria y dos 
 bibliotecas** (la del Campus Universitario y la de la plaza de San Agustín) llevan en 

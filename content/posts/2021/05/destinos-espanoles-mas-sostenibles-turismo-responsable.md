@@ -35,7 +35,7 @@ también por la enorme cantidad de especies que viven bajo el mar. Por todo ello
 Formentera es uno de los destinos mundiales más apetecibles para bucear –tanto para 
 iniciarse como para los que lo practican con frecuencia–. 
 
-![playa llevant, formentera](https://fotos.etheriamagazine.com/2020/04/formentera-playa-llevant-900x600.jpg "Playa de Llevant (Formentera).")
+![playa llevant, formentera](https://fotos.etheriamagazine.com/2020/04/formentera-playa-llevant.jpg "Playa de Llevant (Formentera).")
 
 Otra opción para recorrer **la isla en clave sostenible** es disfrutar de sus 
 itinerarios ornitológicos a pie o en bicicleta a lo largo de 4,3 kilómetros, mientras 

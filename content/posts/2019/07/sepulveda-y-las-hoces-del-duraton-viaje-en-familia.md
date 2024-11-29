@@ -1,5 +1,5 @@
 ---
-title: "Sepúlveda y las hoces del Duratón para toda la familia"
+title: "Sepúlveda y las hoces del Duratón, una escapada para toda la familia"
 date: 2019-07-11
 coverImage: https://fotos.etheriamagazine.com/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg
 categories: 
@@ -47,8 +47,7 @@ leonados, de los que también podrás ver sus buitreras.
 
 Si vas en barca de pedales, puedes parar en cualquier parte del río y darte un chapuzón, 
 en verano se agradece y los niños disfrutarán a lo grande. En las piraguas el problema 
-es que es más difícil subirse después, pero si el calor aprieta siempre puedes 
-intentarlo. 
+es que es algo más difícil subirse después, pero con un poco de agilidad se consigue. 
 
 ![Niña en una barca a pedales en el río Duratón](https://fotos.etheriamagazine.com/2019/06/sepulveda-duraton-barca.jpg "El Duratón desde el tobogán de una barca a pedales. © Susana García")
 
@@ -63,7 +62,7 @@ con los buitres sobrevolándolas también son una postal que querrás tener en t
 
 ![Ermita de San Frutos](https://fotos.etheriamagazine.com/2019/06/sepulveda-duraton-san-frutos.jpg "Ermita de San Frutos. © Susana García")
 
-## Sepúlveda
+## Sepúlveda, joya del románico
 
 Si no conoces la villa medieval de Sepúlveda te estás perdiendo uno de esos pueblos que 
 salen en las listas de ‘pueblos más bonitos de España’ con todo el derecho. Encaramado a 
@@ -88,7 +87,7 @@ y un lugar donde puedes alargar el aperitivo casi hasta el infinito.
 
 ![Sepúlveda al atardecer](https://fotos.etheriamagazine.com/2019/06/Sepulveda-duraton-atardecer.jpg "Sepúlveda al atardecer. © Susana García")
 
-### Paseos en los alrededores
+## Paseos en los alrededores de Sepúlveda
 
 Dar un paseo por el campo por la calzada romana hasta la **Puerta de la Fuerza** 
 (saliendo desde la iglesia de la Virgen de la Peña) es una excelente opción para 
@@ -124,8 +123,9 @@ delicioso menú con productos de la zona.
 
 ![Hotel Molino Grande del Duratón y río Duratón](https://fotos.etheriamagazine.com/2019/06/sepulveda-duraton-molino.jpg "Hotel Molino Grande del Duratón. © SG")
 
-En Sepúlveda, puedes elegir entre sus hoteles, como el **Hotel Rural Vado del Duratón** 
-(vadodelduraton.) o alguna de sus casas rurales 
+En Sepúlveda, una opción excelente es la preciosa **Posada de San Millán** 
+(posadasanmillan.com). También puedes elegir entre sus hoteles, como el **Hotel Rural 
+Vado del Duratón** (vadodelduraton.com) o alguna de sus casas rurales 
 
 ### Dónde comer
 
@@ -135,8 +135,7 @@ lechazo](http://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechaz
 o El Figón de Ismael. Eso sí, reserva con tiempo. Para tomar el aperitivo, es 
 obligatoria una parada en La Cocina de Paulino para probar sus pinchos y, para merendar, 
 no podrás evitar pecar con las pastas tradicionales y las tortas de nueces de la 
-pastelería El Castillo, en la Plaza Mayor. Para una cena informal con los niños en 
-Sepúlveda una buena elección es Samoa, donde podras pedir raciones y sandwiches. 
+**pastelería El Castillo**, en la Plaza Mayor. 
 
 ### Cómo organizar la ruta
 
@@ -152,14 +151,10 @@ el resto del tiempo para disfrutar de esta villa medieval.
 
 Hay varias empresas que se dedican a organizar **rutas por las hoces del Duratón**, a 
 alquilar piraguas o barcas a pedales, como Canoas Duratón, Naturaltur, Duraventour o 
-Bocanada Duratón. Y, a partir de 8 años, incluso se puede practicar [barranquismo en las 
-hoces del 
-Duratón](https://www.civitatis.com/es/somosierra/barranquismo-rio-duraton/?aid=10211) 
-(reserva esta excursión con Civitatis a través del link). 
+Bocanada Duratón. 
 
 En Sepúlveda es interesante sumarse a una visita guiada-teatralizada de **Sepúlveda 
-Viva** (Sepulvedaviva.es), cuentan con cuatro rutas diferentes y son perfectas también 
-para los más pequeños. 
+Viva** (sepulvedaviva.es), perfecta también para los más pequeños. 
 
 La **Cueva de los Enebralejos** (cuevadelosenebralejos.es) puede visitarse todo el año 
 (en verano con un horario más amplio). Todas las visitas son guiadas y duran unos 45 
@@ -171,11 +166,11 @@ Es probable que tu visita a esta villa coincida con alguna de las fiestas que ce
 que son muchas. La Fiesta de los Fueros (en julio), la Misa de Minerva, el Diablillo (en 
 agosto) y las fiestas populares de los distintos barrios dedicadas a sus patrones. 
 
-### Más información
+**Más información:** 
 
 Más información en la Oficina de Turismo de Sepúlveda (turismodesepulveda.es). 
 
-**?** **También te puede interesar:** 
+**También te puede interesar:** 
 
 [Razones, si es que las necesitas, por las que deberías planear ya una escapada por la 
 provincia de 

@@ -14,7 +14,7 @@ authors:
 evadirte en alguno de sus interesantes museos, también para que hagas una escapada con 
 la mejor de las compañías: tu madre. 
 
-![Anochece sobre los canales de Amsterdam.](https://fotos.etheriamagazine.com/2018/09/viajar-amsterdam-1024x683.jpg "Anochece sobre los canales de Amsterdam.")
+![Anochece sobre los canales de Amsterdam.](https://fotos.etheriamagazine.com/2018/09/viajar-amsterdam.jpg "Anochece sobre los canales de Amsterdam.")
 
 Perderse entre sus mercados de flores y terminar comprando un saquito de bulbos de 
 tulipanes para llevarse a casa, asistir a alguna de sus innumerables -e irresistibles- 
@@ -28,7 +28,7 @@ alternativos de lo más interesantes y variopintos. Una oferta que, sea o no vue
 primera vez en la ciudad, os invitará a volver para continuar descubriendo todo lo que 
 tiene para ofrecernos. 
 
-?Comienza tu estancia con un [freetour en 
+📍Comienza tu estancia con un [freetour en 
 Ámsterdam](https://www.civitatis.com/es/amsterdam/visita-guiada-amsterdam/?aid=10211). 
 
 ## Qué hacer en Ámsterdam en tres días con tu madre
@@ -43,7 +43,7 @@ irnos a la cama con el estómago vacío. Para la primera noche en Ámsterdam os 
 encontréis propuestas muy interesantes y sabrosas. Antes de iros a dormir, acercaos a 
 dar un paseo tranquilo por el famoso Barrio Rojo, tan icónico como animado. 
 
-![Restaurante Van’t Spit.](https://fotos.etheriamagazine.com/2018/09/Vantspit-amsterdam-1024x730.jpg "© Restaurante Van’t Spit.")
+![Restaurante Van’t Spit.](https://fotos.etheriamagazine.com/2018/09/Vantspit-amsterdam.jpg "© Restaurante Van’t Spit.")
 
 ### Segundo día
 
@@ -63,14 +63,14 @@ pioneros y protagonistas de diferentes movimientos artísticos. Hay propuestas p
 los gustos, por lo que de vosotras dependerá escoger entre un museo u otro, o combinar 
 la visita con varios de ellos. 
 
-?[Visita guiada al Museo Van 
+📍[Visita guiada al Museo Van 
 Gogh](https://www.civitatis.com/es/amsterdam/visita-museo-van-gogh/?aid=10211) (en 
 español). 
 
-?[Entrada al Rijksmuseum con crucero por los 
+📍[Entrada al Rijksmuseum con crucero por los 
 canales](https://www.civitatis.com/es/amsterdam/entrada-rijksmuseum-crucero-canales/?aid=10211). 
 
-![El Museo Moco fue creado por Lionel y Kim Logchies, quienes ya tenían una galería de arte moderno.](https://fotos.etheriamagazine.com/2018/09/museo-moco-1024x576.jpg "El (©) Museo Moco fue creado por Lionel y Kim Logchies, quienes ya tenían una galería de arte moderno.")
+![El Museo Moco fue creado por Lionel y Kim Logchies, quienes ya tenían una galería de arte moderno.](https://fotos.etheriamagazine.com/2018/09/museo-moco.jpg "El (©) Museo Moco fue creado por Lionel y Kim Logchies, quienes ya tenían una galería de arte moderno.")
 
 #### Paseo por el parque Vondelpark
 
@@ -79,7 +79,7 @@ bicicletas y pedalear por la ciudad hasta llegar al **parque Vondelpark**. Esta 
 explanada de naturaleza es uno de los rincones favoritos de los holandeses, que acuden 
 aquí para disfrutar del buen tiempo haciendo deporte o degustando un exquisito picnic. 
 
-![Vondelpark, viaje amsterdam](https://fotos.etheriamagazine.com/2018/09/Villa-at-the-Vondelpark-Koen-Smilde-Photography-Rechtenvrij-1-1024x684.jpg "Villa de Vondelpark, en Amsterdam. © Koen Smilde Photography/ OT Amsterdam")
+![Vondelpark, viaje amsterdam](https://fotos.etheriamagazine.com/2018/09/Villa-at-the-Vondelpark-Koen-Smilde-Photography-Rechtenvrij-1.jpg "Villa de Vondelpark, en Amsterdam. © Koen Smilde Photography/ OT Amsterdam")
 
 #### De compras en Ámsterdam
 
@@ -115,7 +115,7 @@ despediros de la ciudad degustando un completo _brunch_ en **Bakers & Roasters**
 carta encontraréis _bowls_, huevos, _pancakes_, ensaladas, sándwiches y muchas otras 
 delicias irresistibles para volverse a casa también con el estómago contento. 
 
-?[Crucero por los canales con cena de 
+📍[Crucero por los canales con cena de 
 lujo](https://www.civitatis.com/es/amsterdam/crucero-cena-amsterdam/?aid=10211). Precio: 
 79 €. 
 
@@ -131,10 +131,10 @@ e infinidad de encantadores rincones por descubrir, supone una bocanada de aire 
 tranquilidad ideal para rematar con una merienda en alguno de los cafés que encontraréis 
 por el camino. 
 
-? [Reserva una excursión a Volendam, Marken, Edam y Zaanse 
+📍 [Reserva una excursión a Volendam, Marken, Edam y Zaanse 
 Schans](https://www.civitatis.com/es/amsterdam/excursion-zaanse-schans-volendam-marken/?aid=10211). 
 
-![Zaanse Schans, un pueblecito con molinos.](https://fotos.etheriamagazine.com/2018/09/Zaanse-Schans-1024x681.jpg "Zaanse Schans, un pueblecito con molinos.")
+![Zaanse Schans, un pueblecito con molinos.](https://fotos.etheriamagazine.com/2018/09/Zaanse-Schans.jpg "Zaanse Schans, un pueblecito con molinos.")
 
 Podemos llegar hasta allí fácilmente en autobús (línea 391 desde la Estación Central / 
 40min) o en tren (estación Zaandijk – Zaanse Schans desde la Estación Central / 17 min + 
@@ -150,7 +150,7 @@ capital holandesa no es barato. Un buen ejemplo de este tipo de alojamiento es e
 CC, situado en pleno centro, a escasos metros de la Estación Central y a las puertas del 
 famoso y turístico Barrio Rojo. 
 
-![W Amsterdam Hotel.](https://fotos.etheriamagazine.com/2018/09/Hotel-w-amsterdam-1024x576.jpg "© W Amsterdam Hotel.")
+![W Amsterdam Hotel.](https://fotos.etheriamagazine.com/2018/09/Hotel-w-amsterdam.jpg "© W Amsterdam Hotel.")
 
 En contrapartida, Ámsterdam presenta grandes hoteles en los que el espacio es un punto 
 importante de su lujosa oferta. El **W Amsterdam Hotel** es uno de los más atractivos 
@@ -159,7 +159,7 @@ de ocio, bienestar y gastronomía. Está dividido en dos edificios emblemáticos
 ciudad, situados a pocos pasos de la Plaza Dam y el Palacio Real, motivo por el cual el 
 hotel conserva detalles históricos que se han querido mantener inalterados. 
 
-![Lot Sixty One, uno de los cafés de moda en Amsterdam.](https://fotos.etheriamagazine.com/2018/09/Lot-Sixty-One-Kinkerstraat-Koen-Smilde-Photography-Rechtenvrij-1024x684.jpg "Lot Sixty One, uno de los cafés de moda en Amsterdam.  © Koen Smilde Photography/OT Amsterdam")
+![Lot Sixty One, uno de los cafés de moda en Amsterdam.](https://fotos.etheriamagazine.com/2018/09/Lot-Sixty-One-Kinkerstraat-Koen-Smilde-Photography-Rechtenvrij.jpg "Lot Sixty One, uno de los cafés de moda en Amsterdam.  © Koen Smilde Photography/OT Amsterdam")
 
 ### Guía práctica de Ámsterdam
 

@@ -114,7 +114,7 @@ Nacional y de la Reserva Natural está el asentamiento Lago Puelo. Los primeros
 pobladores de finales de siglo XIX eran chilenos en busca de pastos para el ganado. Hoy 
 lo habitan unas 10.000 personas, pero es notable el crecimiento urbanístico. 
 
-? Unas 20.000 personas visitan anualmente el Parque Nacional Lago Puelo. No obstante, 
+📌 Unas 20.000 personas visitan anualmente el Parque Nacional Lago Puelo. No obstante, 
 hay mucho espacio casi virgen en torno al río Azul y al lago Epuyén. Además de rutas de 
 _trekking_. 
 
@@ -195,7 +195,7 @@ deseo captarlo con la cámara para poder compartirlo con los que no lo conocen. 
 puede. Es demasiado grande, o yo no sé hacerlo… Hay que venir a verlo con tus propios 
 ojos. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 01.[Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 
 Jelic](https://etheriamagazine.com/2022/12/13/sania-jelic-viajar-sola-mas-65/). 

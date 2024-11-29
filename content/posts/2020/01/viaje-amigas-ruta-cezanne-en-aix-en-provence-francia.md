@@ -12,7 +12,7 @@ authors:
 
 A solo 30 km de Marsella se encuentra Aix-en-Provence, la ciudad que vio nacer y también morir a Paul Cézanne, el genial pintor francés considerado precursor de vanguardias pictóricas. En Etheria Magazine nos adentramos en los principales espacios que formaron parte de la vida del artista. Anímate a realizar esta escapada 'a la francesa' con tus mejores amigas.
 
-![Bastide du Jas de Bouffan](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-Bastide-du-Jas-de-Bouffan-900x580.jpg "Bastide du Jas de Bouffan. © S. Spiteri")
+![Bastide du Jas de Bouffan](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-Bastide-du-Jas-de-Bouffan.jpg "Bastide du Jas de Bouffan. © S. Spiteri")
 
 Todo parecía indicar que el 19 de enero de 1839 sería un día más en la apacible 
 **Aix-en-Provence**. Sin embargo, como bien saben, el destino es caprichoso y tenía 
@@ -53,7 +53,7 @@ residencia en un gran lienzo donde plasmó 12 composiciones de gran formato. Act
 se encuentra cerrada al público. Tras una profunda rehabilitación reabrirá sus puertas 
 en 2021 como un espacio cultural consagrado a su figura. 
 
-![Atelier de Cézanne.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-Atelier-Cezanne-900x311.jpg "Atelier de Cézanne. ©Yolanda Cardo")
+![Atelier de Cézanne.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-Atelier-Cezanne.jpg "Atelier de Cézanne. ©Yolanda Cardo")
 
 ### El Atelier Cézanne
 
@@ -82,7 +82,7 @@ Provenza. Ese legado cultural desbordante, convierte un simple paseo por sus cal
 una lección de historia, pero para imbuirnos de un arte pleno deberemos atravesar las 
 puertas de sus reputados museos. 
 
-![Tres imágenes del Hôtel du Caumont.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-Hotel-du-Caumon-900x398.jpg "Hôtel du Caumont. ©Yolanda Cardo")
+![Tres imágenes del Hôtel du Caumont.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-Hotel-du-Caumon.jpg "Hôtel du Caumont. ©Yolanda Cardo")
 
 ### L’Hôtel de Caumont Centre d’Art
 
@@ -98,7 +98,7 @@ Sorolla**. También merece la pena visitar el _Hôtel,_ recorrer sus espléndido
 refinados salones y almorzar en su cafetería mientras disfrutamos de unas impagables 
 vistas a los jardines franceses. 
 
-![Interior del museo Granet XXe.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-museo-Granet-900x613.jpg "Interior del museo Granet XXe. © J.C. Carbonne")
+![Interior del museo Granet XXe.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-museo-Granet.jpg "Interior del museo Granet XXe. © J.C. Carbonne")
 
 ### Museo Granet XXe
 
@@ -113,7 +113,7 @@ convierten este espacio de más de 4.000 m2 en una joya. Desde el 17 de abril al
 septiembre se podrá ver la exposición **‘Faraón, Osiris y la momia: el Antiguo 
 Egipto’.** 
 
-![Pabellón Vendôme.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-pabellon-vendome-900x508.jpg "Pabellón Vendôme. © Yolanda Cardo")
+![Pabellón Vendôme.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-pabellon-vendome.jpg "Pabellón Vendôme. © Yolanda Cardo")
 
 ### Pabellón Vendôme
 
@@ -131,7 +131,7 @@ internamiento y deportación reconvertido en museo de Ciencias e Historia y la [
 Vasarely](https://www.fondationvasarely.org/), con una arquitectura inspirada en la 
 _Bauhaus,_ dan las últimas pinceladas a este recorrido cultural. 
 
-![Fundación Vasarely.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-fundacion-Vasarely-900x563.jpg "Fundación Vasarely. © G. Cambreleng")
+![Fundación Vasarely.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-fundacion-Vasarely.jpg "Fundación Vasarely. © G. Cambreleng")
 
 ## De las fuentes y los mercados
 
@@ -144,7 +144,7 @@ Y XVIII,** es uno de sus focos más vibrantes. A lo largo de sus 440 metros, div
 fuentes adornan su recorrido: la **fuente del Rey Renato** y la de aguas termales 
 conocida como **“la del Musgo”**, entre otras. 
 
-![Frutas, flores, artesanía y jabones se pueden adquirir en los mercados de la ciudad.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-mercados-francia-900x372.jpg "Frutas, flores, artesanía y jabones se pueden adquirir en los mercados de la ciudad. ©Yolanda Cardo")
+![Frutas, flores, artesanía y jabones se pueden adquirir en los mercados de la ciudad.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-mercados-francia.jpg "Frutas, flores, artesanía y jabones se pueden adquirir en los mercados de la ciudad. ©Yolanda Cardo")
 
 Los días de [mercado](https://www.aixenprovencetourism.com/es/vivir/mercados-del-centro/), 
 prácticamente todos, _Aix-en-Provence_ se inunda de coloridos puestos colmados de 
@@ -157,7 +157,7 @@ Los Mártires de la Resistencia y contemplar la **catedral de St-Sauveur** y su 
 claustro o el antiguo **palacio del Arzobispado**, que acoge el actual **museo de 
 Tapices.** 
 
-![La torre del reloj junto al ayuntamiento de Aix-en-Provence.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-torre-junto-ayuntamiento-900x464.jpg "La torre del reloj junto al ayuntamiento de Aix-en-Provence. © Yolanda Cardo")
+![La torre del reloj junto al ayuntamiento de Aix-en-Provence.](https://fotos.etheriamagazine.com/2019/12/etheria-magazine-torre-junto-ayuntamiento.jpg "La torre del reloj junto al ayuntamiento de Aix-en-Provence. © Yolanda Cardo")
 
 Hay tanto por ver que agradecerán hacer una pausa para relajarse. Es la ocasión perfecta 
 para conocer las [termas romanas de Sextius](https://www.thermes-sextius.com/). Un 

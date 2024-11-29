@@ -98,7 +98,7 @@ rellena de chocolate. Si no vas mal de tiempo, a menos de media hora está el **
 de Loket**, donde se organiza el segundo fin de semana de diciembre un taller para 
 aprender a decorar galletas de jengibre y hacer adornos de paja para el árbol. 
 
-![Vista de Český Krumlov con el castillo al fondo.](https://fotos.etheriamagazine.com/2021/11/Cesky-Krumlov-navidad-681x1024.jpg "Vista de Český Krumlov con el castillo al fondo. © Libor Svácek")
+![Vista de Český Krumlov con el castillo al fondo.](https://fotos.etheriamagazine.com/2021/11/Cesky-Krumlov-navidad.jpg "Vista de Český Krumlov con el castillo al fondo. © Libor Svácek")
 
 ### Mercadillos navideños de Český Krumlov
 

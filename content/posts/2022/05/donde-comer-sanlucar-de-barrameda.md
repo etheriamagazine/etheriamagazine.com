@@ -78,7 +78,7 @@ Medina Sidonia, como Madre de Dios o Regina Coeli. Algunas de las delicias son l
 yemas, el tocino de cielo, los pestiños, las cocadas y las **alpisteras**, un dulce 
 típico de la localidad que seguro te llevas de vuelta a casa como recuerdo gastronómico. 
 
-? Y si lo que te gusta es un buen helado artesanal, tienes una cita en La Ibense Bornay 
+📌 Y si lo que te gusta es un buen helado artesanal, tienes una cita en La Ibense Bornay 
 (laibense1892.com) y **Helados Toni** (heladostoni.es). 
 
 ## Ruta gastronómica por Sanlúcar de Barrameda

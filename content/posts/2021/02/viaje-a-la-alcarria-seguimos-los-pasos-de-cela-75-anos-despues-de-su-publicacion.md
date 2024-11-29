@@ -88,7 +88,7 @@ albarda lleva cosido un papel que dice: Cógeme, que mi amo ha muerto”. Poco d
 descubre, “erizadas, violentas, las Tetas de Viana” y, aunque hay senderos que conducen 
 hasta la cima, el escritor declinó la invitación. 
 
-![cascadas de Trillo viaje a la alcarria](https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-Cascada-Trillo-730x1024.jpg "Una de. las pequeñas cascadas del río Cifuentes, en Trillo.")
+![cascadas de Trillo viaje a la alcarria](https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-Cascada-Trillo.jpg "Una de. las pequeñas cascadas del río Cifuentes, en Trillo.")
 
 Después de pasar La Puerta y el río Solana por uno de los puentes medievales más 
 emblemáticos de la Alcarria, Cela llega a **Budia**, “un pueblo grande con casas 
@@ -109,7 +109,7 @@ Monsalud, de la orden del Císter, fundado a finales del siglo XII y que hoy se 
 prácticamene en ruinas. Y, antes de llegar a Pastrana, uno de los destinos estrella de 
 la ruta, hay que pasar, es obligado, por el animado y rico pueblo de **Sacedón**. 
 
-![princesa de eboli en pastrana](https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-Princesa-de-eboli-en-el-Palacio-Ducal-de-Pastrana-709x1024.jpg "Retrato de la Princesa de Éboli en el Palacio Ducal de Pastrana.")
+![princesa de eboli en pastrana](https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-Princesa-de-eboli-en-el-Palacio-Ducal-de-Pastrana.jpg "Retrato de la Princesa de Éboli en el Palacio Ducal de Pastrana.")
 
 Regada por el río Arles, la monumental **Pastrana** tiene un trazado medieval y una 
 historia que está ligada a la de nombres tan imprescindibles como la princesa de Éboli, 

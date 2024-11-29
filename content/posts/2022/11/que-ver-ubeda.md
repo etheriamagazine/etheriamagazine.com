@@ -35,14 +35,14 @@ Antonio Machado hasta reyes, como Carlos I de España. Representante de la arqui
 privada y el poder civil, la ciudad del Renacimiento andaluz está salpicada de numerosos 
 encantos. Sigue leyendo para conocer todo lo que tienes que ver en Úbeda. 
 
-? Para empezar el viaje, un freetour por Úbeda 
+📌 Para empezar el viaje, un freetour por Úbeda 
 ([reservar](https://www.civitatis.com/es/ubeda/free-tour-ubeda/)) puede serte de ayuda o 
 el [tour por la ciudad con 
 entradas](https://www.civitatis.com/es/ubeda/visita-guiada-ubeda/?aid=10211) incluidas 
 desde 14 €. Y si vas en familia, no te pierdas la [visita 
 teatralizada](https://www.civitatis.com/es/ubeda/tour-teatralizado-ubeda/?aid=10211). 
 
-? Opción doble: Visitas a Úbeda y Baeza con entradas incluidas (24 €). [Reserva con 
+📌 Opción doble: Visitas a Úbeda y Baeza con entradas incluidas (24 €). [Reserva con 
 antelación](https://www.civitatis.com/es/ubeda/oferta-ubeda-baeza-completo/?aid=10211). 
 
 ### Plaza Vázquez Molina
@@ -112,7 +112,7 @@ históricas de la cultura judaica, esta sinagoga acoge conciertos de música sef
 festivales de música medieval, presentaciones de libros y otros actos relacionados con 
 la cultura judía. 
 
-?En la sinagoga del Agua se puede hacer una visita guiada al interior 
+📌En la sinagoga del Agua se puede hacer una visita guiada al interior 
 (sinagogadelagua.com). También es posible realizar un [tour completo por la 
 Judería](https://www.civitatis.com/es/ubeda/tour-juderia-ubeda/?aid=10211) por unos 12 
 €, imprescindible para entender los pormenores de esta comunidad. 
@@ -132,7 +132,7 @@ biblioteca, que cuenta con un archivero al cuidado de más de 14.000 documentos,
 los cuales hay incunables del siglo XV, gulas papales, manuscritos del Corán y biblias 
 chinas y hebreas. 
 
-?Visita guiada al **Palacio Vela de Cobos** de Civitatis ([reserva 
+📌Visita guiada al **Palacio Vela de Cobos** de Civitatis ([reserva 
 aquí](https://www.civitatis.com/es/ubeda/visita-palacio-vela-cobos/?aid=10211)). 
 
 ![Detalle de la esquina del palacio Vela de Cobos.](https://fotos.etheriamagazine.com/2022/11/ubeda-palacio-vela-cobos.jpg "Detalle de la esquina del palacio Vela de Cobos. © Luis Rogelio HM")
@@ -166,7 +166,7 @@ Cristo, donde se encuentra el **Centro de Interpretación de la Muralla de Úbed
 aquellos que quieran saber más sobre el pasado defensivo de la ciudad, pueden visitar el 
 Museo Arqueológico de la Casa Mudéjar. 
 
-? Puedes reservar visitas guiadas en viveubeda.es 
+📌 Puedes reservar visitas guiadas en viveubeda.es 
 
 ![Puerta de Granada en la muralla de Úbeda.](https://fotos.etheriamagazine.com/2022/11/ubeda-muralla-puerta-granada.jpg "Puerta de Granada en la muralla de Úbeda. © Jorge Fdez. Salas")
 
@@ -183,7 +183,7 @@ actividades. En las visitas, donde se muestran los resultados de las catas arque
 realizadas en su interior, se pueden admirar también las pinturas murales de los 
 artistas que la utilizaron como taller y el techo de alfarje, de época mudéjar. 
 
-? Aquí puedes reservar una [visita 
+📌 Aquí puedes reservar una [visita 
 guiada](https://www.civitatis.com/es/ubeda/visita-iglesia-san-lorenzo/?aid=10211) por la 
 iglesia de San Lorenzo. 
 
@@ -202,7 +202,7 @@ los más representativos es la **Alfarería Pablo Tito** (pablotito.es), donde n
 talleres, sino también un museo donde descubrir la historia y las curiosidades de este 
 oficio, y el papel de la familia Tito en él durante generaciones. 
 
-?Visita guiada por el Museo y alfarería de Pablo Tito ([Reserva con 
+📌Visita guiada por el Museo y alfarería de Pablo Tito ([Reserva con 
 antelación](https://www.civitatis.com/es/ubeda/visita-museo-alfareria-taller-ceramica/?aid=10211)). 
 
 ![Museo alfarería Pablo Tito, en Úbeda](https://fotos.etheriamagazine.com/2022/11/ubeda-museo-alfareria-tito.jpg "Museo alfarería Pablo Tito.")
@@ -248,7 +248,7 @@ mucho más. Visitar un olivar, hacer una cata y descubrir algunos de sus usos es
 la oferta turística que se puede disfrutar dentro de la **Casa de la Tercia**, un 
 edificio del siglo XVII donde se recaudaba antaño el impuesto de la Iglesia. 
 
-?Reserva tu [visita guiada al Centro de Interpretación 
+📌Reserva tu [visita guiada al Centro de Interpretación 
 Olivar](https://www.civitatis.com/es/ubeda/visita-centro-intrepretacion-olivar-cata-aceite/?aid=10211) 
 por unos 15 €. 
 

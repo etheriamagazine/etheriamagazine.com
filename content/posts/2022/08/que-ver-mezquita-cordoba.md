@@ -161,7 +161,7 @@ ciudad y marca el perfil de la ciudad de Córdoba con sus 54 metros de altura. E
 compendio de estilos arquitectónicos derivado de la intervención de varios arquitectos y 
 destacan sus conocidas campanas, cada una con un nombre, que siguen tocando cada día. 
 
-![Alminar campanario de la mezquita de Córdoba](https://fotos.etheriamagazine.com/2022/08/mezquita-cordoba-torre-alminar-683x1024.jpg "Torre-campanario y Patio de los Naranjos. © SG")
+![Alminar campanario de la mezquita de Córdoba](https://fotos.etheriamagazine.com/2022/08/mezquita-cordoba-torre-alminar.jpg "Torre-campanario y Patio de los Naranjos. © SG")
 
 ## Preguntas frecuentes
 

@@ -99,7 +99,7 @@ Calle Lomo Machin 66. Isla de La Palma (Tenerife). Tel. Central de reservas Rust
 
 **Consulta otros hoteles con encanto en Rusticae.** 
 
-? **Sigue leyendo sobre La Palma:** 
+📌 **Sigue leyendo sobre La Palma:** 
 
 [10 lugares imprescindibles en La 
 Palma.](https://etheriamagazine.com/2018/09/19/10-secretos-para-conocer-la-isla-de-la-palma/) 

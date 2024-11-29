@@ -10,18 +10,22 @@ authors:
   - Kelu Robles
 ---
 
-Las relaciones entre vecinos, ya se sabe, encierran 'amorodios' ancestrales. Los piques entre pueblos, provincias y comarcas fronterizas sólo se dejan atrás en contadas ocasiones. Como ésta, porque cuando se trata de custodiar la joya montañosa que cántabros, asturianos y leoneses comparten, la cosa cambia. Ahí todos sacan pecho por el tesoro en común.
+Las relaciones entre vecinos, ya se sabe, encierran 'amorodios' ancestrales. Los piques 
+entre pueblos, provincias y comarcas fronterizas sólo se dejan atrás en contadas 
+ocasiones. Como ésta, porque cuando se trata de custodiar la joya montañosa que 
+cántabros, asturianos y leoneses comparten, la cosa cambia. Ahí todos sacan pecho por el 
+tesoro en común. 
 
-![mirador de fuente picos de europa](https://fotos.etheriamagazine.com/2018/10/Mirador-de-fuente-de-cantabria-699x1024.jpg "Mirador de Fuente Dé. © Turismo de Cantabria. (Cantur S.A.)")
+![mirador de fuente picos de europa](https://fotos.etheriamagazine.com/2018/10/Mirador-de-fuente-de-cantabria.jpg "Mirador de Fuente Dé. © Turismo de Cantabria. (Cantur S.A.)")
 
 Ya ha pasado más de un siglo desde que Picos de Europa fuese declarado Parque Nacional 
 por el rey Alfonso XIII, y en Etheria Magazine hemos comprobado que este espacio natural 
 sigue en plena forma recorriendo su impresionante orografía. Decidir cuál de los cinco 
 rincones que te recomendamos es el más atractivo te lo dejamos a ti. 
 
-> ⚠️ Advertencia: este artículo sobre Picos de Europa puede producir quesoadicción 
+⚠️ Advertencia: este artículo sobre Picos de Europa puede producir quesoadicción. 
 
-![ruta del cares en picos de europa](https://fotos.etheriamagazine.com/2018/10/RUTA-DEL-CARES-768x1024.jpg "Ruta del Cares. © Kelu Robles.")
+![ruta del cares en picos de europa](https://fotos.etheriamagazine.com/2018/10/RUTA-DEL-CARES.jpg "Ruta del Cares. © Kelu Robles.")
 
 ## 1\. Ruta del Cares, la Garganta Divina
 
@@ -38,12 +42,12 @@ Paseando desde el pueblo de Caín apreciarás la parte más mítica de la Gargan
 así que no es necesario que hagas el camino al completo para ver lo más impactante. Si 
 aún así haces todo el itinerario y te crees muy fuerte, es que todavía no has probado 
 **el queso de Valdeón**. No te dejes engañar por su dócil apariencia porque el untable 
-no deja títere con cabeza, es un fuerte entre los quesos más fuertes. En las [Queserías 
-Picos de Europa](http://www.quesospicosdeeuropa.com/), los hermanos Tomás y Javier 
-Alonso elaboran tarros de este tipo de queso desde hace más de 35 años, y sus productos 
-cuentan con diversos premios gastronómicos nacionales e internacionales. 
+no deja títere con cabeza, es un fuerte entre los quesos más fuertes. En las **Queserías 
+Picos de Europa** (quesospicosdeeuropa.com), los hermanos Tomás y Javier Alonso elaboran 
+tarros de este tipo de queso desde hace más de 35 años, y sus productos cuentan con 
+diversos premios gastronómicos nacionales e internacionales. 
 
-![naranjo de bulnes picos de europa](https://fotos.etheriamagazine.com/2018/10/Naranjo-de-Bulnes-Pico-Urriellu-1024x683.jpg "Naranjo de Bulnes. Pico de Urriellu. © Manuel S.Calvo/ Turismo de Asturias")
+![naranjo de bulnes picos de europa](https://fotos.etheriamagazine.com/2018/10/Naranjo-de-Bulnes-Pico-Urriellu.jpg "Naranjo de Bulnes. Pico de Urriellu. © Manuel S.Calvo/ Turismo de Asturias")
 
 ## 2\. Naranjo de Bulnes, el Picu Urriellu de Cabrales
 
@@ -52,19 +56,18 @@ puntiagudo, producto de más de 300 millones de años de plegamientos, glaciacio
 formaciones kársticas. Decenas de escaladores se preparan en la base para empotrar pies 
 y manos en las arrugas de las caras del Urriellu. Y eso que no es tan fácil contemplar 
 de cerca la mole. Llegar al pueblo de **Bulnes** sólo es posible a pie a través de 
-varias rutas de senderismo, o bien en el [funicular](https://www.alsa.es/nuestros-destinos/regionales/asturias/funicular-de-bulnes) 
-que sale de Puente Poncebos. Eso sí, no te olvides de que estamos en Cabrales y ¡sería 
-un delito irse de aquí sin probar su popular [queso](http://www.quesocabrales.org/)! 
-Como en Etheria Magazine somos gente legal y no nos gusta delinquir, te animamos a 
-probarlo en las tabernas del concejo. Lo puedes acompañar por un buen pedazo de pan de 
-escanda, un cereal típico del centro de Asturias cuyo cultivo se ha recuperado. 
+varias rutas de senderismo, o bien en el funicular que sale de Puente Poncebos. Eso sí, 
+no te olvides de que estamos en Cabrales y ¡sería un delito irse de aquí sin probar su 
+popular queso! Como en Etheria Magazine somos gente legal y no nos gusta delinquir, te 
+animamos a probarlo en las tabernas del concejo. Lo puedes acompañar por un buen pedazo 
+de pan de escanda, un cereal típico del centro de Asturias cuyo cultivo se ha 
+recuperado. 
 
-![Fuente De cantabria](https://fotos.etheriamagazine.com/2018/10/Fuente-de-viajes-etheria-1024x665.jpg "Fuente Dé. © Turismo de Cantabria (Cantur S.A.)")
+![Fuente De cantabria](https://fotos.etheriamagazine.com/2018/10/Fuente-de-viajes-etheria.jpg "Fuente Dé. © Turismo de Cantabria (Cantur S.A.)")
 
 ## 3\. Fuente Dé, el balcón de Cantabria
 
-Superar el vértigo que da subir en el [teleférico de Fuente 
-Dé](https://cantur.com/instalaciones/5-teleferico-de-fuente-de) tiene un premio a la 
+Superar el vértigo que da subir en el **teleférico de Fuente Dé** tiene un premio a la 
 altura, porque allí arriba, al filo del mirador, la panorámica también nos regala una 
 lección de geografía. Es todo un placer jugar a identificar el Macizo central de los 
 Picos, el Coriscao a la cabeza, Peña Sagra o la Montaña Palentina. La estación superior, 
@@ -77,11 +80,10 @@ cruzarte con los compañeros de viaje más salvajes del parque nacional: águila
 buitres, alimoches, quebrantahuesos, rebecos, jabalíes, corzos y, con mucha, mucha 
 suerte, hasta algún oso pardo. Prometemos que después de tanto esfuerzo te recuperarás 
 convenientemente si pruebas las “barritas energéticas” cántabras, como son el cocido 
-lebaniego, el queso de Tresviso y, de postre, la torrija de sobao. En la carta del [Parador 
-de Fuente Dé](http://www.parador.es/es/paradores/parador-de-fuente-de) nunca faltan 
-estas opciones. 
+lebaniego, el queso de Tresviso y, de postre, la torrija de sobao. En la carta del 
+Parador de Fuente Dé nunca faltan estas opciones. 
 
-![lagos de covadonga asturias](https://fotos.etheriamagazine.com/2018/10/LAGOS-DE-COVADONGA-1024x683.jpg "Lagos de Covadonga (Asturias).")
+![lagos de covadonga asturias](https://fotos.etheriamagazine.com/2018/10/LAGOS-DE-COVADONGA.jpg "Lagos de Covadonga (Asturias).")
 
 ## 4\. Lagos de Covadonga
 
@@ -99,7 +101,7 @@ salvajes —en peligro de extinción—, robles, hayas, fresnos, castaños, enci
 orquídeas. Recuerda que el parque es Reserva de la Biosfera, por lo que en temporada 
 alta el acceso a los lagos sólo es posible en transporte público. 
 
-![puente romano cangas de onis asturias](https://fotos.etheriamagazine.com/2018/10/Cangas-de-Onis-Puente-Romano-1024x750.jpg "Puente Romano (Cangas de Onís). © Ayuntamiento de Cangas de Onís")
+![puente romano cangas de onis asturias](https://fotos.etheriamagazine.com/2018/10/Cangas-de-Onis-Puente-Romano.jpg "Puente Romano (Cangas de Onís). © Ayuntamiento de Cangas de Onís")
 
 ## 5\. Cangas de Onís, el peso de la historia
 
@@ -117,7 +119,7 @@ papilas gustativas que ni sabíamos que existían. Su mantecosidad, el gusto a a
 con un toque picante y su particular ahumado en las cabañas de los pastores, lo hacen 
 realmente único. 
 
-### También te puede interesar...
+**También en Etheria Magazine** 
 
 [Lugares sorprendentes de Cantabria que aún no 
 conoces](https://etheriamagazine.com/2020/06/05/8-lugares-sorprendentes-de-cantabria-para-una-ruta-original/). 

@@ -1,5 +1,5 @@
 ---
-title: "Laponia con niños: un viaje irrepetible"
+title: "Laponia con niños, un viaje irrepetible"
 date: 2018-09-07
 coverImage: https://fotos.etheriamagazine.com/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7.jpg
 categories: 
@@ -16,6 +16,8 @@ mismísimo Papá Noel. No te pierdas un viaje a Laponia con niños ¡será inolv
 
 ![cabaña en la Laponia finlandesa](https://fotos.etheriamagazine.com/2018/04/cabaña-privada-Papá-Noel-e1568538731813.jpg "Paisaje desde la cabaña privada de Papá Noel. © Susana García.")
 
+Actualizado en septiembre de 2024. 
+
 Uno de los mejores viajes en familia por Europa que se puede hacer con niños es visitar 
 la Laponia finlandesa en invierno, cuando se instala el llamado _kaamos_, la 
 prácticamente ausencia de luz solar al no remontar apenas el sol el horizonte. Es un 
@@ -27,8 +29,8 @@ estamos acostumbrados.
 
 ## 1\. Pesca en un lago helado
 
-Esta sencilla actividad perfecta para un viaje a Laponia con niños permite disfrutar de 
-un paisaje único, como todos los que acompañarán en estos días. Un pescador local 
+Esta sencilla actividad, perfecta para un viaje a Laponia con niños permite disfrutar de 
+un paisaje único, como todos los que acompañarán durante el viaje. Un pescador local 
 explica cómo se usan las cañas de pesca, en un momento hace un agujero en el hielo… y a 
 esperar. No siempre se tiene suerte, pero a los más pequeños les encanta la actividad. 
 Normalmente suele ir acompañada de una **comida en una típica kota** (tienda de campaña 
@@ -99,14 +101,13 @@ perfectamente señalizadas por niveles.
 
 Si hay algo que no puedes perderte en un viaje a Laponia con niños es visitar a Papá 
 Noel. Dependiendo de donde estén ubicadas las cabañas en las que te alojes, a Papá Noel 
-se le puede ver en la [Aldea Santa Claus](https://santaclausvillage.info/es/) u 
-organizar una visita privada en su cabaña. La primera opción es la más habitual y 
-permite conocer el complejo turístico de la Aldea Santa Claus (Rovaniemi), con la Casa 
-de Papá Noel (donde entregarle en persona la carta), tiendas, la Oficina Postal, la 
-exposición de la Casa de la Navidad y el Santa Park, un mundo de fantasía dentro de una 
-cueva. Para los que quieran realizar una total inmersión en este mundo mágico, la Aldea 
-Santa Claus cuenta también con cabañas y se organizan actividades con motonieve, perros 
-husky y renos. 
+se le puede ver en la Aldea Santa Claus (santaclausvillage.info) u organizar una visita 
+privada en su cabaña. La primera opción es la más habitual y permite conocer el complejo 
+turístico de la **Aldea Santa Claus** (Rovaniemi), con la Casa de Papá Noel (donde 
+entregarle en persona la carta), tiendas, la Oficina Postal, la exposición de la Casa de 
+la Navidad y el Santa Park, un mundo de fantasía dentro de una cueva. Para los que 
+quieran realizar una total inmersión en este mundo mágico, la Aldea Santa Claus cuenta 
+también con cabañas y se organizan actividades con motonieve, perros husky y renos. 
 
 Si el alojamiento está alejado de Rovaniemi, la otra opción es **visitar a Santa Claus 
 en su cabaña privada**, una actividad perfecta si se viaja en grupo. Permite pasar el 
@@ -125,8 +126,8 @@ Laponia en sus viajes. Si vas por tu cuenta tendrás que hacer una pequeña esca
 Rovaniemi y es importante que lleves contratadas con antelación las excursiones, la 
 demanda es muy alta en invierno. 
 
-Existen numerosos **complejos de cabañas**, uno de los mejores es [Rukan 
-Salonki](http://www.rukansalonki.fi), cerca de la estación de esquí de Ruka. 
+Existen numerosos **complejos de cabañas**, uno de los mejores es **Rukan Salonki** 
+(rukansalonki.fi), cerca de la estación de esquí de Ruka. 
 
 Si viajas en familia es importante que tengas en cuenta aspectos sobre el **tipo de 
 vestimenta** apropiada o las mejores actividades para los más pequeños. 

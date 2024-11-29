@@ -14,7 +14,7 @@ expediciones y la búsqueda de un auténtico espíritu nómada ese es África. A
 dejamos cinco propuestas de viajes a África para distintos tipos de viajera o para 
 distintos momentos de la vida. Tú eliges. 
 
-![Flamencos en lago Nakuru (Kenia)](https://fotos.etheriamagazine.com/2018/10/flamencos-lago-nakuru-viajes-mujeres-1024x643.jpg "Flamencos en lago Nakuru (Kenia).")
+![Flamencos en lago Nakuru (Kenia)](https://fotos.etheriamagazine.com/2018/10/flamencos-lago-nakuru-viajes-mujeres.jpg "Flamencos en lago Nakuru (Kenia).")
 
 El continente africano sigue siendo el gran desconocido, un lugar donde es posible 
 añadir a los viajes ese aire de expedición que los hace más auténticos. Si eres amante 
@@ -75,9 +75,9 @@ ofrece lugares como la laguna de cocodrilos de Kachikally, las ruinas de Fort Ja
 Tanje Village Museum (para conocer la cultura tribal del país). ¡Déjate, también, 
 sorprender por su gastronomía! 
 
-![mujeres en Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-1024x732.jpg "La cocina de Ida Cham. © Pedro Grifol")
+![mujeres en Gambia](https://fotos.etheriamagazine.com/2018/10/viaje-gambia-La-cocina-de-Ida-Cham.jpg "La cocina de Ida Cham. © Pedro Grifol")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [El desierto costero de Sudáfrica florece en 
 verano](https://etheriamagazine.com/2023/07/12/ruta-costera-sudafrica/) 

@@ -38,7 +38,7 @@ taller de reparación de material surfista. Con el tiempo, su establecimiento se
 convertido en un punto de encuentro fundamental para los amantes de este deporte en 
 Tenerife. 
 
-![El museo del surf acoge piezas de todo el mundo.](https://fotos.etheriamagazine.com/2023/03/capilla-surf-tenerife-tato-dionis-683x1024.jpg "El museo acoge piezas de todo el mundo.")
+![El museo del surf acoge piezas de todo el mundo.](https://fotos.etheriamagazine.com/2023/03/capilla-surf-tenerife-tato-dionis.jpg "El museo acoge piezas de todo el mundo.")
 
 Lo más curioso es que Tato Dionis no llegó a Canarias ligero de equipaje sino que 
 llevaba consigo un bueno número de piezas relacionadas con el surf que había reunido a 
@@ -50,7 +50,7 @@ participado en muestras temporales, para él era necesario encontrar un espacio 
 pudiese acoger la colección de forma permanente. Para ello, Tato solicitó a las 
 autoridades un espacio donde exhibirlas, de manera organizada, al público. 
 
-![Entrada de la Capilla del Surf, en la ermita del Gran Poder de Dios de Bajamar.](https://fotos.etheriamagazine.com/2023/03/capilla-surf-tenerife-683x1024.jpg "Entrada de la Capilla del Surf, en la ermita del Gran Poder de Dios de Bajamar.")
+![Entrada de la Capilla del Surf, en la ermita del Gran Poder de Dios de Bajamar.](https://fotos.etheriamagazine.com/2023/03/capilla-surf-tenerife.jpg "Entrada de la Capilla del Surf, en la ermita del Gran Poder de Dios de Bajamar.")
 
 ## Qué se puede ver en la Capilla del surf
 

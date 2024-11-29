@@ -68,7 +68,7 @@ Murciélagos.
 
 ![vista del pueblo de Doña Mencia desde un monte](https://fotos.etheriamagazine.com/2022/03/dona-mencia-panoramica.jpg "Panorámica de Doña Mencía desde un punto elevado.")
 
-?**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Doña Mencía?** 
+📍**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Doña Mencía?** 
 
 El área de caravanas se sitúa junto a la estación de la Vía Verde y al lado del Centro 
 Cicloturista. Es exclusiva para furgonetas, caravanas y autocaravanas, y cuenta con 50 
@@ -96,7 +96,7 @@ Andalucía.
 
 ![ciclista en la vida verde de cabra durante una ruta en autocaravana por la Subbética Cordobesa](https://fotos.etheriamagazine.com/2022/03/Cicloturismo-cabra.jpg "Cicloturismo en Cabra.")
 
-?**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Cabra?** 
+📍**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Cabra?** 
 
 Cabra ofrece dos áreas para caravanas AC. La primera está próxima a la estación de 
 autobuses y tiene 10 plazas. La segunda, que tiene 27 plazas, está en el Paraje Natural 
@@ -142,7 +142,7 @@ Juan’es,](https://restaurante-gastrobar-juanes.es/) con el chef Juan Antonio C
 al frente de los fogones. Sus recetas tradicionales o con toque creativo te van a 
 encantar. 
 
-?**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Rute?** 
+📍**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Rute?** 
 
 El área de caravanas de Rute es gratuita y se halla junto a dos de los senderos más 
 bonitos de la comarca: el sendero del Pinar de Rute y el de la Sierra Alta. 
@@ -180,7 +180,7 @@ Castro, da una vuelta a los platos tradicionales.
 
 ![un joven se dispone a cruzar un rio en carcabuey](https://fotos.etheriamagazine.com/2022/03/ruta-carcabuey.jpg "El entorno de Carcabuey es ideal para realizar rutas naturales.")
 
-?**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Carcabuey?** 
+📍**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Carcabuey?** 
 
 La zona de descanso para **autocaravanas de Carcabuey es gratuita** y está pensada para 
 paradas por un tiempo inferior a 72 horas. Se sitúa junto al Centro Cicloturista de 
@@ -227,19 +227,19 @@ oliva**, no dudes en llevártelo.
 
 ![aceite con denominacion de origen priego de cordoba](https://fotos.etheriamagazine.com/2022/03/aceite-priego-cordoba.jpg "El aceite de oliva de Priego de Córdoba es un ingrediente fundamental en cualquier plato.")
 
-?**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Priego de Córdoba?** 
+📍**¿Dónde está el área de estacionamiento de autocaravanas (AC) de Priego de Córdoba?** 
 
 En Priego de Córdoba también encontrarás una buena zona para pernoctar en caravana, muy 
 tranquila y en un bonito parque. Está a un cuarto de hora del centro histórico del 
 pueblo. Es pública y se puede permanecer un máximo de 48 horas. 
 
-?Si necesitas más información sobre estos pueblos o las **áreas de descanso de 
+📍Si necesitas más información sobre estos pueblos o las **áreas de descanso de 
 autocaravanas en la Subbética Cordobesa**, no dejes de consultar en este [enlace](https://turismodelasubbetica.es/organiza-tu-viaje/guia-practica). 
 
 **\*Fotografías** cedidas por la Mancomunidad Subbética y los pueblos mencionados en los 
 pies de foto. 
 
-? **Sigue leyendo en Etheria Magazine** 
+📌 **Sigue leyendo en Etheria Magazine** 
 
 [Andalucía en autocaravana y consejos prácticos para 
 novatos](https://etheriamagazine.com/2021/04/07/consejos-rutas-andalucia-en-autocaravana/). 

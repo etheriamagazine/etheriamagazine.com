@@ -120,7 +120,7 @@ solo una muestra de las obras que se podrán disfrutar durante estos días de fe
 que se completan con monólogos y espectáculos como _El Partido,_ _Perséfone_, 
 _Gilipollas al poder_, _Gervasio_ y _Blues & Roots_. 
 
-![La película 'La estrella azul' se proyectará en el Teatro Bretón.](https://fotos.etheriamagazine.com/2023/12/La-Estrella-Azul-850x356.jpg "La película 'La estrella azul' se proyectará en el Teatro Bretón.")
+![La película 'La estrella azul' se proyectará en el Teatro Bretón.](https://fotos.etheriamagazine.com/2023/12/La-Estrella-Azul.jpg "La película 'La estrella azul' se proyectará en el Teatro Bretón.")
 
 ## Cine europeo y cortos
 

@@ -168,7 +168,7 @@ mayoría a pie de playa) es buena opción para alojarse. La mayoría tienen rest
 con parrillas al aire libre donde preparan todo tipo de pescado fresco en los que podrás 
 comer sin necesidad de estar alojada. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Viajar sola, destinos donde es seguro hacer una 
 escapada](https://etheriamagazine.com/2020/08/12/viaja-sola-paises-mas-seguros-para-mujeres/) 

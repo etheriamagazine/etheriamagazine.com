@@ -67,7 +67,7 @@ a las pacientes a cuidar sus genitales, por eso es importante que los ginecólog
 mensajes claros. “No podemos desperdiciar ni un minuto en enseñar los cuidados 
 genitales”. 
 
-?Algunas marcas como ISDN cuentan con productos específicos de **hidratación vulvar.** 
+📍Algunas marcas como ISDN cuentan con productos específicos de **hidratación vulvar.** 
 Incluso lo puedes [pedir por Amazon](https://amzn.to/3NTX8UD) por unos 11 euros. Sin 
 embargo, cuando esos cuidados se llevan al extremo pueden llegar hasta el quirófano. Una 
 de las “modas” es operarse los genitales por estética. “Se opera más la vagina porque 
@@ -121,7 +121,7 @@ y, además, al mejorar la salud del suelo pélvico, se facilita el orgasmo. El s
 pélvico no sólo es importante en la vejez o después del parto, sino también para las 
 relaciones sexuales. 
 
-?Las [bolas vaginales con distintos pesos](https://amzn.to/46x4pAP) ayudan a fortalecer 
+📍Las [bolas vaginales con distintos pesos](https://amzn.to/46x4pAP) ayudan a fortalecer 
 los músculos vaginales. Se pueden adquirir en Amazon desde unos 50 €. 
 
 ### Relajación y tensión

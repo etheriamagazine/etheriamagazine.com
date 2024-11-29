@@ -193,7 +193,7 @@ través de la Fundación Oso Pardo (fundacionosopardo.org); y el Ecomuseo de Som
 (www.somiedo.es), en Veigas, donde se puede aprovechar para ver cómo se construían las 
 casas de teito de escoba. 
 
-?También se pueden hacer rutas de **senderismo por el Parque Nacional de Muniellos**, 
+📌También se pueden hacer rutas de **senderismo por el Parque Nacional de Muniellos**, 
 Reserva de la Biosfera, pero allí no hay osos. 
 
 **4\. ¿En qué lugar interesa dormir si se hace la ruta de los osos pardos de Asturias?** 

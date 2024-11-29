@@ -17,7 +17,7 @@ valorando recorrer la República Checa en coche durante una semana en vuestras p
 vacaciones, os interesa este artículo donde os contamos itinerarios y consejos 
 prácticos. 
 
-![Pareja en Český Krumlov, en una parada de una ruta en coche en Chequia](https://fotos.etheriamagazine.com/2024/05/ruta-coche-cesky-krumlov-850x568.jpg "En Chequia encontrarás pueblos encantadores en todas sus regiones. © Unreal Visual")
+![Pareja en Český Krumlov, en una parada de una ruta en coche en Chequia](https://fotos.etheriamagazine.com/2024/05/ruta-coche-cesky-krumlov.jpg "En Chequia encontrarás pueblos encantadores en todas sus regiones. © Unreal Visual")
 
 Recorrer Chequia en coche es una de las modalidades que gana cada año más adeptos a la 
 hora de conocer este país centroeuropeo, así que os vamos a proponer un itinerario fácil 
@@ -37,7 +37,7 @@ extra para acercarse al impresionante castillo **Karlštejn**, el campo de conce
 de **Terezín** o hacer una ruta senderista por el bellísimo **Parque Nacional Paraíso de 
 Bohemia**, a poco más de una hora desde Praga. 
 
-![Praga es una ciudad muy verde y perfecta para recorrer en verano.](https://fotos.etheriamagazine.com/2024/05/praga-verano-850x478.jpg "Praga es una ciudad muy verde y perfecta para recorrer en verano. © Pyty/shutterstock.com")
+![Praga es una ciudad muy verde y perfecta para recorrer en verano.](https://fotos.etheriamagazine.com/2024/05/praga-verano.jpg "Praga es una ciudad muy verde y perfecta para recorrer en verano. © Pyty/shutterstock.com")
 
 ## Días 2º y 3º. Triángulo termal de Karlovy Vary
 
@@ -74,7 +74,7 @@ de Chequia, sólo detrás de las Joyas de la Corona, y que guarda una curiosa hi
 detrás (os la cuentan en este [artículo de Radio Praga 
 Internacional](https://espanol.radio.cz/la-rocambolesca-historia-del-relicario-de-san-mauro-8550453)). 
 
-![Arquitectura de Mariánské Lázně.](https://fotos.etheriamagazine.com/2024/05/marianske-lazne-850x538.jpg "Arquitectura de Mariánské Lázně. © Borisb17 / Shutterstock.com")
+![Arquitectura de Mariánské Lázně.](https://fotos.etheriamagazine.com/2024/05/marianske-lazne.jpg "Arquitectura de Mariánské Lázně. © Borisb17 / Shutterstock.com")
 
 ## Día 4º. De cervezas en Pilsen
 
@@ -86,7 +86,7 @@ dejarse llevar por sus calles para conocer el Museo de Marionetas o las casas
 funcionalistas diseñadas por Adolf Loos. Aquí os podéis quedar a dormir o bien pasar el 
 día y luego continuar el camino hacia Bohemia del Sur. 
 
-![Grupo de amigos tomando cervezas en Chequia.](https://fotos.etheriamagazine.com/2024/05/cervezas-pilsen-chequia-850x567.jpg "De cervezas en Chequia. © Unreal Visual s.r.o.")
+![Grupo de amigos tomando cervezas en Chequia.](https://fotos.etheriamagazine.com/2024/05/cervezas-pilsen-chequia.jpg "De cervezas en Chequia. © Unreal Visual s.r.o.")
 
 ## Días 5º a 7º. Bohemia del Sur: castillos y Český Krumlov
 
@@ -103,7 +103,7 @@ más bello meandro del río Moldava. Ya en el camino de vuelta podéis parar en 
 Budějovice**, la capital de Bohemia del Sur, una ciudad preciosa donde pasar la mañana 
 antes de regresar a Praga. 
 
-![Castillo de Hluboká nad Vltavou, visita esencial en una ruta por Chequia en coche](https://fotos.etheriamagazine.com/2024/05/Hluboka-nad-Vltavou-850x565.jpg "Castillo de Hluboká nad Vltavou, en Bohemia del Sur. © Zuzana Reifová")
+![Castillo de Hluboká nad Vltavou, visita esencial en una ruta por Chequia en coche](https://fotos.etheriamagazine.com/2024/05/Hluboka-nad-Vltavou.jpg "Castillo de Hluboká nad Vltavou, en Bohemia del Sur. © Zuzana Reifová")
 
 Recomendación: Si en lugar de una semana podéis estirar las vacaciones hasta completar 
 10 o 12 días, la ruta puede seguir por Telč, Třebíč, Mikulov, el recinto 

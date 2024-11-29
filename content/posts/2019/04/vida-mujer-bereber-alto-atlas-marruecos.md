@@ -218,7 +218,7 @@ potabilizadoras de agua –por si acaso se termina el agua potable– y una bols
 secos, dátiles e higos que tienen un efecto mágico cuando el cansancio de la caminata 
 arrecia. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Casablanca y Marrakech, una escapada esencial (y a precio 
 asequible)](https://etheriamagazine.com/2023/05/04/por-que-viajar-casablanca-marrakech/) 

@@ -69,7 +69,7 @@ autóctona y cafés que sirven el clásico café turco… con sus misteriosos po
 adivinatorios. Te podrías pasar deambulando por ahí todo el día, pero deja tiempo para 
 descubrir el ‘Mercado 1932’. 
 
-![Caravansar otomano Büyuk Han en Nicosia](https://fotos.etheriamagazine.com/2023/03/Chipre-Lefkosia-Caravansar-850x567.jpg "Caravansar otomano Büyuk Han. © PG")
+![Caravansar otomano Büyuk Han en Nicosia](https://fotos.etheriamagazine.com/2023/03/Chipre-Lefkosia-Caravansar.jpg "Caravansar otomano Büyuk Han. © PG")
 
 Abandonamos la capital para adentrarnos de lleno en la zona turca, donde la cordillera 
 montañosa de Pentadaktylos nos saluda con la representación de la bandera turca en la 

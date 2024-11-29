@@ -24,7 +24,7 @@ En este [ENLACE te contamos las nuevas exposiciones de Madrid para este otoño 2
 TE LAS 
 PIERDAS.](https://etheriamagazine.com/2020/10/13/10-exposiciones-en-madrid-para-otono-2020/) 
 
-\[caption id="attachment\_15528" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-Madrid-biblioteca-nacional-900x611.jpg "Mapa de la Biblioteca Nacional.") Mapa de la Biblioteca Nacional. © BNE\[/caption\]
+\[caption id="attachment\_15528" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-Madrid-biblioteca-nacional.jpg "Mapa de la Biblioteca Nacional.") Mapa de la Biblioteca Nacional. © BNE\[/caption\]
 
 ## 1\. 'Una vuelta al mundo en la BNE'.
 
@@ -40,7 +40,7 @@ Nacional de España.
 - Dónde: Biblioteca Nacional de España (Antesala del Salón General). Pº de Recoletos, 20-22. Gratuita.
 - Cuándo: Hasta 24 de julio de 2020.
 
-\[caption id="attachment\_15530" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-madrid-museo-traje-900x457.jpg "Televisor Teléavia Panoramic 111 (1957) y Seat-600 D.") Televisor Teléavia Panoramic 111 (1957) y Seat-600 D. © Museo del Traje.\[/caption\]
+\[caption id="attachment\_15530" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-madrid-museo-traje.jpg "Televisor Teléavia Panoramic 111 (1957) y Seat-600 D.") Televisor Teléavia Panoramic 111 (1957) y Seat-600 D. © Museo del Traje.\[/caption\]
 
 ## 2\. 'Abierto por diseño...'. Museo del Traje.
 
@@ -55,7 +55,7 @@ diseño en la época de la apertura a Europa que fueron los años 60.
 - Dónde: Museo del Traje. Av. Juan de Herrera, 2. Entrada gratuita.
 - Cúando: del 4 de febrero al 22 de marzo de 2020.
 
-\[caption id="attachment\_15529" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-Madrid-Lazaro-Galdiano-900x678.jpg "'La Mujer de Lot' de la exposición de Javier Viver.") 'La Mujer de Lot' de la exposición de Javier Viver. © Museo Lázaro Galdiano\[/caption\]
+\[caption id="attachment\_15529" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-Madrid-Lazaro-Galdiano.jpg "'La Mujer de Lot' de la exposición de Javier Viver.") 'La Mujer de Lot' de la exposición de Javier Viver. © Museo Lázaro Galdiano\[/caption\]
 
 ## 3\. 'Javier Viver. Museo de Pasiones'. Museo Lázaro Galdiano.
 
@@ -71,7 +71,7 @@ autor instalará una _site specific_ llamada _Un corazón que late_.
 - Dónde: Museo Lázaro Galdiano. Serrano, 122. Entrada general: 7 €.
 - Cuándo: del 6 de febrero al 4 de mayo de 2020.
 
-\[caption id="attachment\_15533" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-temporales-madrid-vampiros-900x426.jpg "El infierno de Dante Alighieri./Nosferatu el vampiro, 1922.") El infierno de Dante Alighieri. © Biblioteca Nacional de Francia/Nosferatu el vampiro, 1922. Cortesía de Friedrich-Wilhelm-Murnau-Stiftung.\[/caption\]
+\[caption id="attachment\_15533" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-temporales-madrid-vampiros.jpg "El infierno de Dante Alighieri./Nosferatu el vampiro, 1922.") El infierno de Dante Alighieri. © Biblioteca Nacional de Francia/Nosferatu el vampiro, 1922. Cortesía de Friedrich-Wilhelm-Murnau-Stiftung.\[/caption\]
 
 ## 4\. 'Vampiros. La evolución del mito'. CaixaForum Madrid.
 
@@ -86,7 +86,7 @@ de Goya.
 - Dónde: Caixa Forum. Pº del Prado, 36. Entrada: 6 €.
 - Cuándo: del 14 de febrero al 7 de junio de 2020.
 
-\[caption id="attachment\_15531" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-Madrid-Rembrandt-900x584.jpg "Retrato de un joven caballero de Rembrandt y Niño jugando al golf en la playa de Van Der Helst.") Retrato de un joven caballero de Rembrandt y Niño jugando al golf en la playa de Van Der Helst. © Museo Thyssen-Bornemisza.\[/caption\]
+\[caption id="attachment\_15531" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-Madrid-Rembrandt.jpg "Retrato de un joven caballero de Rembrandt y Niño jugando al golf en la playa de Van Der Helst.") Retrato de un joven caballero de Rembrandt y Niño jugando al golf en la playa de Van Der Helst. © Museo Thyssen-Bornemisza.\[/caption\]
 
 ## 5\. 'Rembrandt y el retrato en Ámsterdam 1590-1670'. Museo Thyssen-Bornemisza.
 
@@ -115,7 +115,7 @@ obras partiendo de las estrategias de este pensador.
 - Dónde: Espacio Fundación Telefónica (planta 3). Calle Fuencarral, 3. Madrid. Gratuita.
 - Cuándo: del 24 de marzo al 30 de agosto de 2020.
 
-\[caption id="attachment\_15568" align="aligncenter" width="756"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/exposicones-madrid-museo-prado-756x1024.jpg "La infanta Paz de Borbón' de Franz-Seraph von Lenbach.") La infanta Paz de Borbón' de Franz-Seraph von Lenbach. © Museo Nacional de Prado.\[/caption\]
+\[caption id="attachment\_15568" align="aligncenter" width="756"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/exposicones-madrid-museo-prado.jpg "La infanta Paz de Borbón' de Franz-Seraph von Lenbach.") La infanta Paz de Borbón' de Franz-Seraph von Lenbach. © Museo Nacional de Prado.\[/caption\]
 
 ## 7\. 'Las invitadas. Fragmentos sobre mujeres, ideología...'. Museo Nacional del Prado.
 
@@ -130,7 +130,7 @@ de artes plásticas realizadas por mujeres.
 - Dónde: Museo del Prado (salas A y B, edificio Jerónimos). Pº del Prado, s/n. Entrada general: 15 €.
 - Cuándo: Ampliada hasta el 14 de marzo de 2021.
 
-\[caption id="attachment\_15570" align="aligncenter" width="819"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/exposiciones-madrid-sorolla-maria-819x1024.jpg "'María la guapa', Joaquín Sorolla Bastida.") 'María la guapa', Joaquín Sorolla Bastida. © Museo Sorolla\[/caption\]
+\[caption id="attachment\_15570" align="aligncenter" width="819"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/exposiciones-madrid-sorolla-maria.jpg "'María la guapa', Joaquín Sorolla Bastida.") 'María la guapa', Joaquín Sorolla Bastida. © Museo Sorolla\[/caption\]
 
 ## 8\. 'Sorolla Femenino Plural'. Museo Sorolla.
 
@@ -144,7 +144,7 @@ Plural'](https://etheriamagazine.com/2020/09/25/sorolla-femenino-plural-nueva-ex
 - Dónde: Museo Sorolla. General Martínez Campos, 37. Entrada: 3 €.
 - Cuándo: Ampliada hasta el 10/01/2021.
 
-\[caption id="attachment\_15567" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/exposiciones-Madrid-Thyssen-alex-katz-900x597.jpg "'Blue Umbrella' de Alex Katz.") 'Blue Umbrella' de Alex Katz. © 2019 Alex Katz/ARS, New York\[/caption\]
+\[caption id="attachment\_15567" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/exposiciones-Madrid-Thyssen-alex-katz.jpg "'Blue Umbrella' de Alex Katz.") 'Blue Umbrella' de Alex Katz. © 2019 Alex Katz/ARS, New York\[/caption\]
 
 ## 9\. 'Alex Katz'. Museo Thyssen-Bornemisza.
 
@@ -158,7 +158,7 @@ habituales: retratos, flores y paisajes de vivos colores.
 - Dónde: Museo Thyssen-Bornemisza. Pº del Prado, 8. Entrada general: 13 €.
 - Cuándo: del 23 de junio al 4 de octubre de 2020.
 
-\[caption id="attachment\_15532" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-Madrid-surrealismo-900x341.jpg "Studio65. Boca, 1970./La pipa, c. 1960.") Studio65. Boca, 1970. © Vitra Design Museum./Jürgen Hans./Aldo Tura. La pipa, c. 1960. © Vitra Design Museum/Andreas Sütterlin.\[/caption\]
+\[caption id="attachment\_15532" align="aligncenter" width="900"\]![Exposiciones en Madrid, turismo cultural, arte en Madrid](https://fotos.etheriamagazine.com/2020/01/Exposiciones-Madrid-surrealismo.jpg "Studio65. Boca, 1970./La pipa, c. 1960.") Studio65. Boca, 1970. © Vitra Design Museum./Jürgen Hans./Aldo Tura. La pipa, c. 1960. © Vitra Design Museum/Andreas Sütterlin.\[/caption\]
 
 ## 10\. 'Objetos de deseo. Surrealismo y diseño 1924-2020'. Caixaforum Madrid.
 

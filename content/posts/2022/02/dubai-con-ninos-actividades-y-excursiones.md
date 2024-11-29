@@ -134,7 +134,7 @@ Subir al [Burj Khalifa](https://www.burjkhalifa.ae/en/), la torre más alta del 
 recepción, en Dubai Mall, empieza la experiencia y, antes de subir al ascensor, veréis 
 carteles explicativos de la construcción y una maqueta de este impresionante edificio. 
 
-![Burj Khalifa, el edificio más alto del mundo.](https://fotos.etheriamagazine.com/2022/02/Dubai-the-burj-khalifa-683x1024.jpg "Burj Khalifa, el edificio más alto del mundo.")
+![Burj Khalifa, el edificio más alto del mundo.](https://fotos.etheriamagazine.com/2022/02/Dubai-the-burj-khalifa.jpg "Burj Khalifa, el edificio más alto del mundo.")
 
 Existen tres tipos de entrada: la que sube hasta la planta 125, a 456 metros (desde 159 
 AED); la **Burj Khalifa Sky**, que te lleva hasta la plata 154, con una terraza exterior 

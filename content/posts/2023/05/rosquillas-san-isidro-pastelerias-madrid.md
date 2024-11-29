@@ -68,7 +68,7 @@ obrador trabaja todos los días para que no falte de nada en los mostradores y s
 cargo de la familia Leal, la misma que fundó este negocio, que ya va por su tercera 
 generación. 
 
-![Rosquillas de violeta en El Pozo](https://fotos.etheriamagazine.com/2023/05/el-pozo-rosquillas-violeta-681x1024.jpg "Rosquillas de violeta en El Pozo.")
+![Rosquillas de violeta en El Pozo](https://fotos.etheriamagazine.com/2023/05/el-pozo-rosquillas-violeta.jpg "Rosquillas de violeta en El Pozo.")
 
 Son míticos sus roscones de reyes, disponibles durante todo el año, y para Madridulce 
 aporta la **rosquilla de violeta**, un sabor que no puede ser más madrileño. Merece la 
@@ -109,7 +109,7 @@ elementos originales de mobiliario como las recetas tradicionales, sumándole nu
 propuestas dulces en forma de hojaldres, trufas y bombones. Para Madridulce aportarán 
 unas **rosquillas de pistacho y sal** que no pueden ser más apetecibles. 
 
-![Rosquillas de pistacho y sal en La Duquesita](https://fotos.etheriamagazine.com/2023/05/MADRIDULCE-rosquillas-LA-DUQUESITA-683x1024.jpg "Rosquillas de pistacho y sal en La Duquesita.")
+![Rosquillas de pistacho y sal en La Duquesita](https://fotos.etheriamagazine.com/2023/05/MADRIDULCE-rosquillas-LA-DUQUESITA.jpg "Rosquillas de pistacho y sal en La Duquesita.")
 
 ## Guía práctica de Madridulce 2023
 
@@ -134,7 +134,7 @@ apetecibles.
 
 © Fotografías cedidas por Balboa Comunicacion. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [10 tabernas históricas de Madrid donde tomar el 
 vermú](https://etheriamagazine.com/2022/05/20/tabernas-historicas-de-madrid/) 

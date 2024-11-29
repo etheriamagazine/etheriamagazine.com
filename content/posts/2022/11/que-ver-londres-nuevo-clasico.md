@@ -132,7 +132,7 @@ el paraíso para quienes adoran llenar su armario de prendas con historia. El co
 Descubrir los mejores puestos en **The Vintage Market** y disfrutar de una comida en 
 alguna de las casas de curry que se encuentran por la zona. 
 
-![Brick Lane, un lugar imprescindible que ver en Londres](https://fotos.etheriamagazine.com/2022/11/brick-lane-londres-683x1024.jpg "Brick Lane. © Samuel Regan-Asante ")
+![Brick Lane, un lugar imprescindible que ver en Londres](https://fotos.etheriamagazine.com/2022/11/brick-lane-londres.jpg "Brick Lane. © Samuel Regan-Asante ")
 
 ## Visitar The British Museum
 

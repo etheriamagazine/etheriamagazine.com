@@ -16,7 +16,7 @@ neceseres de viaje son una de las piezas esenciales de nuestro equipaje y se deb
 elegir con cuidado. En Etheria magazine hemos seleccionado 7 marcas que te pueden 
 resultar muy útiles a la hora de viajar. 
 
-![neceser blanco con productos para viaje](https://fotos.etheriamagazine.com/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space-850x567.jpg "Es fundamental encontrar el neceser perfecto para cada tipo de viaje.")
+![neceser blanco con productos para viaje](https://fotos.etheriamagazine.com/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space.jpg "Es fundamental encontrar el neceser perfecto para cada tipo de viaje.")
 
 ## 1\. Pepe Jeans
 
@@ -26,7 +26,7 @@ neceser de Pepe Jeans, disponible en [Amazon](https://amzn.to/3RKahhR), que tien
 tamaño estupendo para llevar todos los productos de aseo y que se puede enganchar en el 
 tirador de la maleta. 
 
-![neceser rosa de viaje](https://fotos.etheriamagazine.com/2019/10/neceser-viaje-pepe-jeans-850x341.jpg "Neceser duro de Pepe Jeans disponible en Amazon.")
+![neceser rosa de viaje](https://fotos.etheriamagazine.com/2019/10/neceser-viaje-pepe-jeans.jpg "Neceser duro de Pepe Jeans disponible en Amazon.")
 
 ## 2\. Neceser Cosmolite de Samsonite
 
@@ -34,7 +34,7 @@ Esta reputada marca de equipaje, ofrece neceseres a juego con sus maletas de dif
 tamaños. Nos ha encantado por su capacidad el **modelo C-Lite Toilet Kit**. Está 
 disponible en los colores off-white, midnight blue y chili red. 
 
-![neceser rojo de viaje](https://fotos.etheriamagazine.com/2019/10/neceser-samsonite-850x562.jpg "Neceser de viaje de © Samsonite.")
+![neceser rojo de viaje](https://fotos.etheriamagazine.com/2019/10/neceser-samsonite.jpg "Neceser de viaje de © Samsonite.")
 
 ## 3\. Mr Wonderful
 
@@ -43,7 +43,7 @@ regalo en nuestra vida. Sus mensajes son tan optimistas que ¡cómo resistirse a
 un neceser que llevarás tan a menudo! Nos encanta este que incluye tres neceseres en uno 
 y está disponible en [Amazon](https://amzn.to/3RFoXyx). 
 
-![tres neceseres en uno](https://fotos.etheriamagazine.com/2019/10/51w2mi9QhtL._AC_UY695_-850x525.jpg "Neceser de viaje de Mr. Wonderful disponible en Amazon.")
+![tres neceseres en uno](https://fotos.etheriamagazine.com/2019/10/51w2mi9QhtL._AC_UY695_.jpg "Neceser de viaje de Mr. Wonderful disponible en Amazon.")
 
 ## 4\. Rituals, neceser y productos
 
@@ -80,7 +80,7 @@ los envases de los golpes que recibirán cuando los metas en la maleta. Es imper
 lavable y tiene una altura de unos 20 cm. En Amazon puedes encontrar un [pack de 2 
 bolsas GCOA](https://amzn.to/2op7XFh). Se puede elegir entre azul/rojo o rosa/verde. 
 
-![bolsas de aseo de viajes roja y azul](https://fotos.etheriamagazine.com/2019/10/bolsa-aseo-circular-900x568.jpg "Bolsa organizadora o neceser de viaje cilíndrico.")
+![bolsas de aseo de viajes roja y azul](https://fotos.etheriamagazine.com/2019/10/bolsa-aseo-circular.jpg "Bolsa organizadora o neceser de viaje cilíndrico.")
 
 ## También te puede interesar:
 

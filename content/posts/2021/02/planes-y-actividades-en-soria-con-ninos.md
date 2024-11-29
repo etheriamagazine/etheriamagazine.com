@@ -121,7 +121,7 @@ madera por doquier para los niños. Y si te quedas a comer, te recomendamos el [
 El Palomar](http://www.elpalomarrestaurante.com/), situado en un antiguo palomar, donde 
 sirven una riquísima comida casera. 
 
-![Calatañazor, uno de los pueblos más bonitos de Soria.](https://fotos.etheriamagazine.com/2021/02/soria-con-ninos-calatanazor-717x1024.jpg "Calatañazor, uno de los pueblos más bonitos de Soria. © Etheria Magazine")
+![Calatañazor, uno de los pueblos más bonitos de Soria.](https://fotos.etheriamagazine.com/2021/02/soria-con-ninos-calatanazor.jpg "Calatañazor, uno de los pueblos más bonitos de Soria. © Etheria Magazine")
 
 ## 6\. Observar las estrellas en Borobia
 

@@ -17,7 +17,7 @@ se une ese ambiente navideño que invita a deambular por sus mercadillos para co
 algún adorno o probar un vino caliente. Te llevamos a diez ciudades con mercadillos 
 navideños con los que no podrás resistirte al espíritu navideño. 
 
-![Luces navideñas](https://fotos.etheriamagazine.com/2018/10/mercados-navidenos-1024x683.jpg "Luces de Navidad.")
+![Luces navideñas](https://fotos.etheriamagazine.com/2018/10/mercados-navidenos.jpg "Luces de Navidad.")
 
 En Centroeuropa saben mucho de Navidad, villancicos y dulces de esta época del año y 
 parece que todo gira en torno a preparar este momento. Todos los pueblos y ciudades 
@@ -37,9 +37,9 @@ que se caracteriza por ofrecer productos artesanos; y el del **Palacio Belvedere
 se emplaza en un ambiente imperial: la antigua residencia de verano del Príncipe Eugenio 
 de Saboya. 
 
-? Más información en la Oficina de Turismo de Austria. 
+📌 Más información en la Oficina de Turismo de Austria. 
 
-![Ayuntamiento de Viena por la noche](https://fotos.etheriamagazine.com/2018/10/Viena-ayuntamiento-1024x682.jpg "Ayuntamiento de Viena.")
+![Ayuntamiento de Viena por la noche](https://fotos.etheriamagazine.com/2018/10/Viena-ayuntamiento.jpg "Ayuntamiento de Viena.")
 
 ## 2\. Más de 60 mercadillos tradicionales en Berlín
 
@@ -52,9 +52,9 @@ hielo; el mercadillo de Navidad cultural en la calle **Wilmersdorfer Strasse**; 
 Alexanderstrasse y la plaza Alexanderplatz; y el mercadillo navideño (**Berliner 
 Weihnachtszeit**) frente al Ayuntamiento Rojo. 
 
-**?** Más información en la Oficina de Turismo de Berlín. 
+**📌** Más información en la Oficina de Turismo de Berlín. 
 
-![Puestos del mercado de Navidad de Berlín](https://fotos.etheriamagazine.com/2018/10/berlin-1024x683.jpg "Mercado de Navidad en Berlín.")
+![Puestos del mercado de Navidad de Berlín](https://fotos.etheriamagazine.com/2018/10/berlin.jpg "Mercado de Navidad en Berlín.")
 
 ## 3\. Muestra de nacimientos en Núremberg
 
@@ -67,9 +67,9 @@ hermanadas que transporta a otros lugares del mundo), la Navidad infantil en la 
 **Hans-Sachs-Platz** y la casa de las estrellas (Sternenhaus) en el **monasterio 
 Katharinenkloster**. 
 
-? Más información en la Oficina de Turismo de Alemania (www.germany.travel/es). 
+📌 Más información en la Oficina de Turismo de Alemania (www.germany.travel/es). 
 
-![Adornos de Navidad en Nuremberg](https://fotos.etheriamagazine.com/2018/10/Nuremberg-christmas-market-1024x683.jpg "Decoración en un puesto del mercado de Navidad de Núremberg.")
+![Adornos de Navidad en Nuremberg](https://fotos.etheriamagazine.com/2018/10/Nuremberg-christmas-market.jpg "Decoración en un puesto del mercado de Navidad de Núremberg.")
 
 ## 4\. Compra adornos navideños en Praga
 
@@ -82,9 +82,9 @@ acompañados por un rico programa cultural y en ellos prima la artesanía en mad
 (marionetas y juguetes) y bellos adornos navideños elaborados con cristal, además de las 
 típicas coronas de Adviento y figuras hechas con hojas de maíz. 
 
-? Más información en la Oficina de Turismo de la República Checa. 
+📌 Más información en la Oficina de Turismo de la República Checa. 
 
-![Mercado Navidad en Praga República Checa](https://fotos.etheriamagazine.com/2018/10/Praga-navidad-1024x707.jpg "Mercado de Navidad en Praga. © Oficina de Turismo República Checa/Martin Marat")
+![Mercado Navidad en Praga República Checa](https://fotos.etheriamagazine.com/2018/10/Praga-navidad.jpg "Mercado de Navidad en Praga. © Oficina de Turismo República Checa/Martin Marat")
 
 ## 5\. Toma ponche de vino en los mercadillos navideños de Budapest
 
@@ -97,9 +97,9 @@ frutas o crema de vainilla, para colgar en el árbol) y los famosos _strudels_. 
 más popular es el ponche caliente de vino con especias (_forralt bor_), servido en una 
 taza especial que el visitante puede llevarse como recuerdo. 
 
-? Más información en la Oficina de Turismo de Budapest. 
+📌 Más información en la Oficina de Turismo de Budapest. 
 
-![Puesto del mercadillo de Navidad de Budapest](https://fotos.etheriamagazine.com/2018/10/Budapest-Navidad-1024x683.jpg "Puesto del mercado de Navidad de Budapest. © O.T. Budapest")
+![Puesto del mercadillo de Navidad de Budapest](https://fotos.etheriamagazine.com/2018/10/Budapest-Navidad.jpg "Puesto del mercado de Navidad de Budapest. © O.T. Budapest")
 
 ## 6\. Disfruta con los coros navideños en Zúrich
 
@@ -114,9 +114,9 @@ hielo para niños y mayores. Además Zúrich cuenta con un enorme y bonito merca
 en la **Estación Central**, muy apetecible si hace mucho frío o llueve. Una de las 
 mejores ciudades para adentrarse en el mundo de los mercadillos navideños de Suiza. 
 
-? Más información en la Oficina de Turismo de Suiza. 
+📌 Más información en la Oficina de Turismo de Suiza. 
 
-![Árbol de Navidad y mercadillo en la estación Central de Zúrich](https://fotos.etheriamagazine.com/2018/10/Zurich-estacion-central-1-1024x683.jpg "Mercado de la Estación Central de Zúrich. © Switzerland Tourism/Ivo Scholz.")
+![Árbol de Navidad y mercadillo en la estación Central de Zúrich](https://fotos.etheriamagazine.com/2018/10/Zurich-estacion-central-1.jpg "Mercado de la Estación Central de Zúrich. © Switzerland Tourism/Ivo Scholz.")
 
 ## 7\. Sorprendentes espectáculos de luces en Bruselas
 
@@ -126,9 +126,9 @@ Saint-Catherine, la Grand Place y el Marché au Poisson**. Unas 250 casetas dond
 degustar vino caliente y las famosas cervezas belgas acompañadas de los dulces típicos, 
 que se acompañan de una pista de patinaje, desfiles y un gran espectáculo de luces. 
 
-? Más información en Visit Flanders (visitflanders.com/es). 
+📌 Más información en Visit Flanders (visitflanders.com/es). 
 
-![Iluminación navideña en la Grand Place de Bruselas](https://fotos.etheriamagazine.com/2018/10/Bruselas-Navidad-1024x684.jpg "Mercado de Navidad en Bruselas. © Visit Brussels/Eric Danhier.")
+![Iluminación navideña en la Grand Place de Bruselas](https://fotos.etheriamagazine.com/2018/10/Bruselas-Navidad.jpg "Mercado de Navidad en Bruselas. © Visit Brussels/Eric Danhier.")
 
 ## 8\. Todo a lo grande en la Navidad de Londres
 
@@ -142,9 +142,9 @@ adornos navideños. Además, se puede disfrutar de mercados navideños en **Gree
 **Southbank** (a orillas del Tamesis), en la zona de **London Brigde**, en **Leicester 
 Square** o en el barrio de **Chelsea**, en la Duke of York Square. 
 
-? Más información en Visit Britain (visitbritain.com/es). 
+📌 Más información en Visit Britain (visitbritain.com/es). 
 
-![Pista de patinaje en Winter Wonderland en Hyde Park en Londres](https://fotos.etheriamagazine.com/2018/10/Londres-winterwonderland-1024x683.jpg "Pista de patinaje en Winter Wonderland en Hyde Park. © Visit England/Daniela Luquini.")
+![Pista de patinaje en Winter Wonderland en Hyde Park en Londres](https://fotos.etheriamagazine.com/2018/10/Londres-winterwonderland.jpg "Pista de patinaje en Winter Wonderland en Hyde Park. © Visit England/Daniela Luquini.")
 
 ## 9\. Tradiciones centenarias en Dresde (Alemania)
 
@@ -163,9 +163,9 @@ estrellas de Adviento de Herrnhut. El centro de atención del mercadillo es la *
 navideña de los montes Metálicos** de 14 metros. Una de las ciudades con mercadillos 
 navideños más originales de Alemania. 
 
-? Más información en la Oficina de Turismo de Alemania. 
+📌 Más información en la Oficina de Turismo de Alemania. 
 
-![Árbol y atracciones del mercado de navidad de Dresde](https://fotos.etheriamagazine.com/2018/10/DRESDE-1024x683.jpg "Mercado de Navidad en Dresde.")
+![Árbol y atracciones del mercado de navidad de Dresde](https://fotos.etheriamagazine.com/2018/10/DRESDE.jpg "Mercado de Navidad en Dresde.")
 
 ## 10\. Los árboles de Navidad de Tallin (Estonia)
 
@@ -177,11 +177,11 @@ en 1441 un soltero comerciante bailó junto a las jóvenes locales alrededor de 
 al que prendieron fuego, iniciando así la tradición de la iluminación de los árboles 
 durante la Navidad. 
 
-? Más información en Visit Tallin. 
+📌 Más información en Visit Tallin. 
 
-![Mercado de navidad de Tallin por la noche](https://fotos.etheriamagazine.com/2018/10/tallin-mercado-1024x683.jpg "Mercado de Navidad de Tallin. © Visit Tallin/Paul Kuimet.")
+![Mercado de navidad de Tallin por la noche](https://fotos.etheriamagazine.com/2018/10/tallin-mercado.jpg "Mercado de Navidad de Tallin. © Visit Tallin/Paul Kuimet.")
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Alemania vive, saborea y disfruta de la 
 Navidad](https://etheriamagazine.com/2020/11/30/alemania-en-navidad-tradiciones-y-adviento/) 

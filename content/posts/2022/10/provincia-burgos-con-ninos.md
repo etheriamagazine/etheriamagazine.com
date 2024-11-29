@@ -79,9 +79,9 @@ España. La historia de este lugar cambió para siempre a las 11:45 horas del 6 
 de 1964. Del pozo de Ayoluengo comenzó a aflorar petróleo... y lo estuvo haciendo hasta 
 enero de 2017. Aunque ahora no está en activo, sí que se puede visitar el museo para 
 aprender cómo se origina y los productos derivados del mismo, que son muchos más de los 
-que pensamos... ? No dejéis de visitar el cercano **Geoparque de Las Loras**, del que os 
-hablamos extensamente en el artículo: [Geoparque Las Loras, una cita sorprendente entre 
-Burgos y 
+que pensamos... 📌 No dejéis de visitar el cercano **Geoparque de Las Loras**, del que 
+os hablamos extensamente en el artículo: [Geoparque Las Loras, una cita sorprendente 
+entre Burgos y 
 Palencia](https://etheriamagazine.com/2020/12/23/7-razones-para-visitar-el-geoparque-las-loras-entre-burgos-y-palencia/) 
 
 ![Museo del Petróleo de Burgos.](https://fotos.etheriamagazine.com/2022/10/Museo-del-petroleo-burgos.jpg "Museo del Petróleo de Burgos.")
@@ -98,7 +98,7 @@ minero a mediados del siglo XIX. En la penumbra de la mina se pueden ver las
 herramientas, empujar una vagoneta, sentir la humedad del interior... Podéis reservar la 
 visita en minasdepuras.com 
 
-? Si el mundo bajo tierra os atrae, en este artículo encontraréis diversas propuestas: [Burgos 
+📌 Si el mundo bajo tierra os atrae, en este artículo encontraréis diversas propuestas: [Burgos 
 subterráneo, planes alucinantes en cuevas, minas y canteras para este 
 verano](https://etheriamagazine.com/2022/06/24/burgos-subterraneo/). 
 
@@ -118,10 +118,10 @@ se pueden descargar para no perderse nada por el camino (Rutas: La Engaña, Ojo 
 Botánica, Senderos del Tiempo, Historias del Sur). Allí mismo encontraréis una cafetería 
 con bonitas vistas. 
 
-?**No te pierdas:** [Ruta para desconectar en Las Merindades de 
+📌**No te pierdas:** [Ruta para desconectar en Las Merindades de 
 Burgos](https://etheriamagazine.com/2019/06/04/que-ver-hacer-ruta-merindades-burgos/). 
 
-![Parque de aventuras Valterria.](https://fotos.etheriamagazine.com/2022/10/Valterria-parque-aventuras-850x346.jpg "Parque de aventuras Valterria.")
+![Parque de aventuras Valterria.](https://fotos.etheriamagazine.com/2022/10/Valterria-parque-aventuras.jpg "Parque de aventuras Valterria.")
 
 ### 6\. Un paseo en barco por el Canal de Castilla
 
@@ -235,6 +235,6 @@ entre ellas están las cataratas de Orbaneja del Castillo que están en el mismo
 Otras interesantes, aunque hay muchísimas, son las del pueblo de Tobera y las cascadas 
 de La Mea (cerca de Quintanilla de Valdebodres). 
 
-?**Suscríbete** a nuestra [Newsletter](https://etheriamagazine.com/contacto-etheriamagazine/) 
+📍**Suscríbete** a nuestra [Newsletter](https://etheriamagazine.com/contacto-etheriamagazine/) 
 para recibir en tu buzón semanalmente propuestas de viajes en familia, con amigas, en 
 pareja o sola.

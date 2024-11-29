@@ -11,7 +11,7 @@ authors:
 Marina Paul nos cuenta su confinamiento y los atractivos turísticos de El Salvador, el 
 destino que estaba recorriendo en esos momentos. 
 
-![Iglesia de Panchimalco.](https://fotos.etheriamagazine.com/2020/03/viajar-sola-Iglesia-Panchimalco-900x601.jpg "Iglesia de Panchimalco. © O.T. El Salvador")
+![Iglesia de Panchimalco.](https://fotos.etheriamagazine.com/2020/03/viajar-sola-Iglesia-Panchimalco.jpg "Iglesia de Panchimalco. © O.T. El Salvador")
 
 El pulgarcito de América”, como también se conoce a El Salvador, se ha convertido en un 
 ejemplo a seguir entre los países de la América Latina, y del mundo, en cuanto a las 
@@ -37,7 +37,7 @@ aeropuerto para vuelos de pasajeros.
 > Todas estas medidas han conseguido que El Salvador se convierta en uno de los países más 
 > seguros de la América Latina en la actual lucha contra el coronavirus. 
 
-![El Salvador cuenta con buenas olas para surfear.](https://fotos.etheriamagazine.com/2020/03/el-salvador-surf-playa-900x600.jpg "El Salvador cuenta con buenas olas para surfear. © O.T. El Salvador")
+![El Salvador cuenta con buenas olas para surfear.](https://fotos.etheriamagazine.com/2020/03/el-salvador-surf-playa.jpg "El Salvador cuenta con buenas olas para surfear. © O.T. El Salvador")
 
 Sin embargo, preocupados por su devenir y tras cancelar la celebración del **Campeonato 
 Mundial de Surf,** que pretendía dar a conocer sus playas al mundo, el gobierno 
@@ -69,7 +69,7 @@ relajándome en las playas del Atlántico y realizando un voluntariado en un hos
 me encontré con otros 5 europeos y un estadounidense también “atrapados” por la 
 situación que el mundo entero parecía vivir. 
 
-![La playa del Tunco se encuentra a solo media hora de San Salvador.](https://fotos.etheriamagazine.com/2020/03/el-salvador-playa-El-tunco-900x599.jpg "La playa del Tunco se encuentra a solo media hora de San Salvador. © O.T. El Salvador")
+![La playa del Tunco se encuentra a solo media hora de San Salvador.](https://fotos.etheriamagazine.com/2020/03/el-salvador-playa-El-tunco.jpg "La playa del Tunco se encuentra a solo media hora de San Salvador. © O.T. El Salvador")
 
 Hoy en día, tras más de **una semana de encierro y 25 días más por delante**, agradezco 
 no haber podido cruzar la frontera, poder pasar la cuarentena en un lugar en el que 
@@ -86,7 +86,7 @@ clases de español, que esas sí, corren a mi cargo.
 > Un encierro donde todos hemos intentado que se convierta en un ejemplo de buena 
 > convivencia y trabajo en equipo. 
 
-![Ruta de los volcanes en El Salvador.](https://fotos.etheriamagazine.com/2020/03/ruta-volcanes-el-salvador-900x816.jpg "Ruta de los volcanes en El Salvador. ©OT El Salvador")
+![Ruta de los volcanes en El Salvador.](https://fotos.etheriamagazine.com/2020/03/ruta-volcanes-el-salvador.jpg "Ruta de los volcanes en El Salvador. ©OT El Salvador")
 
 ## Qué ver en El Salvador
 
@@ -99,7 +99,7 @@ activos hoy en día. Entre los más populares, constantemente monitorizados por 
 vulcanólogos ante peligro de posibles erupciones, podemos visitar el volcán de Izalco, 
 Ilopango, Pacayal, Coatepeque, San Vicente, San Miguel o el de Boquerón. 
 
-![Volcán Llamatepec o de Santa Ana.](https://fotos.etheriamagazine.com/2020/03/volcan-Ilamatepec-Santa-Ana-900x568.jpg "Volcán Llamatepec o de Santa Ana. © O.T. El Salvador")
+![Volcán Llamatepec o de Santa Ana.](https://fotos.etheriamagazine.com/2020/03/volcan-Ilamatepec-Santa-Ana.jpg "Volcán Llamatepec o de Santa Ana. © O.T. El Salvador")
 
 > El ascenso de 1,5 horas al volcán de Santa Ana o Ilamatepec (en lengua indígena 
 > Náhuatl), también activo, sigue siendo uno de los más populares entre los turistas. 
@@ -108,7 +108,7 @@ Con vistas al vecino Izalco, el lago Coatepeque y al océano Pacífico, en el in
 su cráter, de 1 km de diámetro y unos 300 m de profundidad, se encuentra una laguna 
 sulfurosa con activas fumarolas que lo convierten en el más “instagramable” del país. 
 
-![Ruta de las Flores.](https://fotos.etheriamagazine.com/2020/03/ruta-flores-el-salvador-900x600.jpg "Ruta de las Flores. © O.T. El Salvador")
+![Ruta de las Flores.](https://fotos.etheriamagazine.com/2020/03/ruta-flores-el-salvador.jpg "Ruta de las Flores. © O.T. El Salvador")
 
 ### Ruta de las Flores
 
@@ -140,7 +140,7 @@ municipio apartado en las montañas que alberga el **Museo de la Revolución Sal
 donde excombatientes realizan tours guiados por antiguas trincheras y lugares de gran 
 importancia histórica, mientras comparten anécdotas en primera persona. 
 
-![El añil, una técnica de teñido precolombina, es una de las actividades que identifican a El Salvador.](https://fotos.etheriamagazine.com/2020/03/el-salvador-Anil-900x600.jpg "El añil, una técnica de teñido precolombina, es una de las actividades que identifican a El Salvador. © O.T. ElSalvador")
+![El añil, una técnica de teñido precolombina, es una de las actividades que identifican a El Salvador.](https://fotos.etheriamagazine.com/2020/03/el-salvador-Anil.jpg "El añil, una técnica de teñido precolombina, es una de las actividades que identifican a El Salvador. © O.T. ElSalvador")
 
 ### Lago Coatepeque
 
@@ -162,7 +162,7 @@ abarrotadas de mercados callejeros a ambos lados o su nueva área destinada a lo
 comerciales, embajadas y, en definitiva, a la élite del país, la también llamada “zona 
 rosa”. 
 
-![Centro histórico de San Salvador.](https://fotos.etheriamagazine.com/2020/03/centro-historico-san-salvador-900x781.jpg "Centro histórico de San Salvador. © O.T. El Salvador")
+![Centro histórico de San Salvador.](https://fotos.etheriamagazine.com/2020/03/centro-historico-san-salvador.jpg "Centro histórico de San Salvador. © O.T. El Salvador")
 
 Aunque algunos viajeros decidan dedicarle únicamente la últimas horas antes de abandonar 
 el país o tras su llegada a éste, San Salvador comienza a afianzarse como destino 
@@ -175,7 +175,7 @@ ciudad son: la **Catedral de San Salvador** y su **Cripta a Monseñor Romero**, 
 de **El Salvador del Mundo**, el **Palacio Nacional** y al **Teatro Nacional**, que es, 
 a su vez, el teatro más antiguo de todo Centroamérica. 
 
-![Tumba de Monseñor en San Salvador.](https://fotos.etheriamagazine.com/2020/03/ruta-tumba-monsenor-san-salvador-900x675.jpg "Tumba de Monseñor en San Salvador. © O.T. El Salvador")
+![Tumba de Monseñor en San Salvador.](https://fotos.etheriamagazine.com/2020/03/ruta-tumba-monsenor-san-salvador.jpg "Tumba de Monseñor en San Salvador. © O.T. El Salvador")
 
 En definitiva, San Salvador es una ciudad que está dando pasos agigantados para 
 modernizarse, que se activa tras la salida del sol y parece no cesar su actividad hasta 

@@ -189,7 +189,7 @@ hoteleras, sería buen momento para viajar. En la Oficina de Turismo nos dijeron
 Jueves Santo se celebra un rito religioso ancestral cuyo nombre es ‘La Misa del 
 Infierno’… con ese título ¡yo no me lo perdería! 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Planes divertidos para practicar un turismo sostenible en 
 Francia](https://etheriamagazine.com/2022/10/28/turismo-sostenible-francia/) 

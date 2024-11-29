@@ -1,5 +1,5 @@
 ---
-title: "15 ideas para disfrutar de Florencia por segunda vez"
+title: "15 ideas para disfrutar de Florencia por segunda vez con tus mejores amigas"
 date: 2018-09-21
 coverImage: https://fotos.etheriamagazine.com/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg
 categories: 
@@ -11,15 +11,21 @@ authors:
   - Nuria Cortés
 ---
 
-Si no deseas volver a Florencia, no frotes el hocico de Il Porcellino. Es un aviso. Existe una tradición que cuenta que quien acaricia el morro de esta escultura de bronce situada en la logia del Mercado Nuevo tiene asegurado el regreso a la ciudad.
+Si no deseas volver a Florencia, no frotes el hocico de Il Porcellino. Es un aviso. 
+Existe una tradición que cuenta que quien acaricia el morro de esta escultura de bronce 
+situada en la logia del Mercado Nuevo tiene asegurado el regreso a la ciudad. Pero como 
+sabemos que no vas a poder resistirte, aquí van 15 ideas y lugares con los que seguro 
+que aciertas si viajas a Florencia con tus amigas por segunda vez. 
 
 ![Ponte Vecchio](https://fotos.etheriamagazine.com/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg "Ponte Vecchio (Florencia). © Enit/ Turismo Italiano")
+
+Actualizado septiembre de 2024. 
 
 Por tres veces la autora de este artículo acarició la escultura y por tres veces 
 recorrió de nuevo las calles de esta maravillosa ciudad italiana. Y aún queda pendiente 
 el cuarto regreso, que seguro llegará porque Il Porcellino nunca falla… Si tú también 
 frotaste su hocico, toma nota de nuestras 15 ideas para **disfrutar de Florencia por 
-segunda vez** (o tercera, o cuarta…) 
+segunda vez** (o tercera, o cuarta…). 
 
 ## 15 lugares para visitar Florencia por segunda vez:
 
@@ -38,9 +44,7 @@ una valiosa muestra de arte religioso y unas excelentes vistas sobre la ciudad.
 Es el mayor mercado de abastos cubierto de Europa y merece una visita aunque sólo sea 
 para echar un vistazo a su arquitectura de cristal, hierro y piedra. Si hay hambre, 
 imprescindible acercarse hasta **Da Nerbone**, un clásico del mercado que ofrece comida 
-sencilla y barata. 
-
-> Su bocadillo de lampredotto es todo un clásico. 
+sencilla y barata. Su bocadillo de _lampredotto_ es todo un clásico. 
 
 ![puesto de trufas del mercado de Florencia](https://fotos.etheriamagazine.com/2018/09/Florencia-mercado-nuria-cortes-e1552121832663.jpg "Mercado de Florencia. © Nuria Cortés.")
 
@@ -89,7 +93,7 @@ del mundo de los instrumentos usados por el científico Galileo Galilei, que inc
 telescopios, la lente con la que descubrió los satélites de Júpiter, un termoscopio e 
 incluso su dedo corazón. En total, ¡más de 5.000 utensilios para gusto de los curiosos 
 de las ciencias matemáticas, físicas y químicas! Una buena visita se se viaja a 
-Florencia con niños. 
+Florencia con niños, aunque también se puede disfrutar en una tarde con amigas. 
 
 ![puesto de bocadillos y delicatessen All Antico Vinaio en Florencia](https://fotos.etheriamagazine.com/2018/09/Florencia-all-antico-vinaio-e1552121942711.jpg "No te pierdas los bocadillos de © All'antico Vinaio.")
 
@@ -101,10 +105,10 @@ y otros productos toscanos se pueden comprar en Pegna (Via dello studio 8r), fun
 
 ### 9\. Desgastar los zapatos en el Museo Ferragamo
 
-Más de 10.000 modelos de zapatos conforman los fondos de esta exclusiva colección del [Museo 
-Ferragamo](http://ferragamo.com) sobre el trabajo del conocido zapatero Salvatore 
-Ferragamo. Las exhibiciones abiertas al público son temáticas, de periodicidad anual y 
-en cada ocasión exhiben una selección de piezas bajo una temática en particular. 
+Más de 10.000 modelos de zapatos conforman los fondos de esta exclusiva colección del 
+**Museo Ferragamo** (museo.ferragamo.com) sobre el trabajo del conocido zapatero 
+Salvatore Ferragamo. Las exhibiciones abiertas al público son temáticas, de periodicidad 
+anual y en cada ocasión exhiben una selección de piezas bajo una temática en particular. 
 
 ![zapatos del museo ferragamo](https://fotos.etheriamagazine.com/2018/09/Florencia-museo-ferragamo-e1552121977863.jpg "En el © Museo Ferragamo se guardan más de 10.000 pares de zapatos.")
 
@@ -119,11 +123,11 @@ y el **Museo de la Plata** completan su oferta cultural.
 ### 11\. Conocer el arte de la perfumería
 
 En la calle Via de Bardi, al otro lado del río Arno y con unas privilegiadas vistas 
-sobre el Duomo, se encuentra el taller del [perfumista Lorenzo 
-Villoresi](http://www.lorenzovilloresi.it), un espacio íntimo e inspirador al que se 
-puede entrar mediante cita previa y que permite conocer los secretos de los aromas y la 
-alquimia. Sus equilibradas composiciones se pueden oler y comprar en la tienda-boutique 
-situada en el mismo edificio del taller. 
+sobre el Duomo, se encuentra el taller del perfumista **Lorenzo Villoresi** 
+(lorenzovilloresi.it), un espacio íntimo e inspirador al que se puede entrar mediante 
+cita previa y que permite conocer los secretos de los aromas y la alquimia. Sus 
+equilibradas composiciones se pueden oler y comprar en la tienda-boutique situada en el 
+mismo edificio del taller. 
 
 ![muestras de fragancias en la perfumería Lorenzo Villoresi](https://fotos.etheriamagazine.com/2018/09/Florencia-perfumeria-lorenzo-villoresi-e1552122007321.jpg "© Perfumería Lorenzo Villoresi (Florencia).")
 
@@ -153,18 +157,18 @@ los números contienen un apéndice especial en inglés con lo más destacado de
 Ya lo sabes, para volver a Florencia sólo hay que tocar el hocico del célebre Porcellino 
 de la Piazza del Mercato Nuovo. Fácil, ¿verdad? 
 
-## CONSEJOS ETHERIA
+## Consejos prácticos
 
 No te pierdas los **bocadillos de All’Amtico Vinaio**, con fama de ser los mejores de 
-Florencia (Via dei Neri, 74/R) 
+Florencia (Via dei Neri, 74/R). 
 
-En el [hotel boutique Firenze Number Nine](http://firenzenumbernine.com) encontrarás 
+En el **hotel boutique Firenze Number Nine** (firenzenumbernine.com) encontrarás 
 habitaciones de lujo y un _spa_ donde relajarte tras el intenso paseo. 
 
 El último fin de semana de cada mes se celebra en Piazza dei Compi, en el barrio de 
 Sant’Ambrogio, **un popular mercadillo de antigüedades**. 
 
-## También te puede interesar:
+**También te puede interesar:** 
 
 [Aprovecha a tope un fin de semana en 
 Florencia](https://etheriamagazine.com/2018/05/16/48-horas-en-florencia-fin-de-semana-que-ver-hacer/) 

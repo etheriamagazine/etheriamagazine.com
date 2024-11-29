@@ -15,7 +15,7 @@ siglo IV que inspira el nombre de nuestro medio, de Etheria Magazine. Es obra de
 artista portuguesa de mayor proyección internacional, Joana Vasconcelos, de 47 años, y 
 forma parte de la exposición "Joana Vasconcelos. Soy tu espejo". 
 
-![exposicion joana vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/exposicion-Egeria-vasconcelos-guggenheim-1024x750.jpg "Egeria, una obra realizada por la artista portuguesa Joana Vasconcelos.")
+![exposicion joana vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/exposicion-Egeria-vasconcelos-guggenheim.jpg "Egeria, una obra realizada por la artista portuguesa Joana Vasconcelos.")
 
 Egeria ocupa el atrio del museo vasco. Es una figura gigantesca que tiene un peso de dos 
 toneladas y cuya estructura hinchable está recubierta de tejidos de ganchillo de todos 
@@ -38,7 +38,7 @@ propósitos es luchar contra las desigualdades. “Hasta que las mujeres tengan 
 derechos, yo seré feminista”, afirma esta ex karateca, que llegó a cinturón negro de 
 segundo Dan y que ahora sacude conciencias con su poética y llamativa visión del mundo. 
 
-![soy tu espejo exposicion joana vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/Soy-tu-espejo-vasconcelos-guggenheim-bilbao-1024x768.jpg "'Soy tu espejo', una gran máscara veneciana formada por espejos. (2018)")
+![soy tu espejo exposicion joana vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/Soy-tu-espejo-vasconcelos-guggenheim-bilbao.jpg "'Soy tu espejo', una gran máscara veneciana formada por espejos. (2018)")
 
 ‘Egeria’ ha sido concebida expresamente por esta artista portuguesa, nacida en París en 
 1971, para el espacio del Guggenheim que sirve de antesala a las singulares piezas de 
@@ -64,7 +64,7 @@ medicinas, urinarios, duchas, teléfonos y hasta coches.
 
 > ###### El objetivo es hacer una lectura directa y humorística del mundo para explicar las contradicciones de nuestra sociedad. Siempre de forma abierta, nunca dogmática.
 
-![marilyn exposicion joana vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/Marilyn-vasconcelos-guggenheim-bilbao-1024x768.jpg "'Marilyn', zapatos creados a partir de tapas y ollas de acero inoxidable. (2011)")
+![marilyn exposicion joana vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/Marilyn-vasconcelos-guggenheim-bilbao.jpg "'Marilyn', zapatos creados a partir de tapas y ollas de acero inoxidable. (2011)")
 
 ## Ollas de acero y planchas de vapor
 
@@ -79,7 +79,7 @@ confeccionada con cajas de medicamentos, ‘**Burka**’ (2002), ‘**La novia**
 (2014-2016), un enorme revólver realizado con teléfonos de baquelita que emite una 
 particular sinfonía electroacústica a partir de los timbres de los teléfonos. 
 
-![exposicion vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/Obras-vasconcelos-guggenheim-1024x353.jpg "'Corazón independiente rojo' (2005). 'Cama Valium' (1998). 'La Novia' (2001-2005).")
+![exposicion vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/Obras-vasconcelos-guggenheim.jpg "'Corazón independiente rojo' (2005). 'Cama Valium' (1998). 'La Novia' (2001-2005).")
 
 ## Vasos de whisky por diamantes
 
@@ -89,7 +89,7 @@ doradas de automóviles de lujo que se remata con una pirámide invertida formad
 vasos de whisky que representa un diamante gigantesco. Esta pieza, al igual que ‘**Gallo 
 Pop**’ (2016) se ubica en el exterior del museo. 
 
-![lilicoptere exposicion joana vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/Lilicoptere-vasconcelos-guggenheim-bilbao-1024x768.jpg "'Lilicoptère', obra de Joana Vasconcelos.")
+![lilicoptere exposicion joana vasconcelos guggenheim bilbao](https://fotos.etheriamagazine.com/2018/08/Lilicoptere-vasconcelos-guggenheim-bilbao.jpg "'Lilicoptère', obra de Joana Vasconcelos.")
 
 Sus trabajos tienen tanta complejidad que una de las obras de la exposición ha llegado 
 con retraso. Se trata de ‘**Lilicoptère**’, un helicóptero dorado diseñado con **miles 

@@ -68,7 +68,7 @@ familias** durante las disputas sangrientas que tuvieron lugar en estas comunida
 lugar de confiar la defensa de un pueblo a una gran fortaleza o castillo, cada familia 
 de esvanos construyó su propia torre al lado de su casa. 
 
-![camino del trekking a Ushguli](https://fotos.etheriamagazine.com/2021/02/georgia-paisaje-adishi-683x1024.jpg "Las flores son las protagonistas en buena parte del trekking a Ushguli. © G. Martínez")
+![camino del trekking a Ushguli](https://fotos.etheriamagazine.com/2021/02/georgia-paisaje-adishi.jpg "Las flores son las protagonistas en buena parte del trekking a Ushguli. © G. Martínez")
 
 ## Trekking a Ushguli, en Mestia comienza la caminata
 
@@ -98,7 +98,7 @@ lenta vida que parecen tener.
 > nos lleva por un maravilloso entorno natural de barrancos, valles alpinos y un telón de 
 > fondo formado por majestuosas montañas cubiertas de nieve. 
 
-![torre de svanetia en georgia](https://fotos.etheriamagazine.com/2021/02/georgia-torres-adishi-683x1024.jpg "Torres de Adishi. En la región de Svanetia se pueden contar hasta 175 torres. © G. Martínez")
+![torre de svanetia en georgia](https://fotos.etheriamagazine.com/2021/02/georgia-torres-adishi.jpg "Torres de Adishi. En la región de Svanetia se pueden contar hasta 175 torres. © G. Martínez")
 
 ## Adishi, una preciosa aldea de montaña
 
@@ -155,7 +155,7 @@ hasta esta aldea perdida rodeada de leyendas, disfrutando de idílicos paisajes,
 pocas cosas más placenteras que sentarse a ver la puesta de sol, que aquí en Ushguli 
 siempre es mágica. 
 
-![Sola Anatomia de un viaje en tren a Tbilisi](https://fotos.etheriamagazine.com/2021/02/viajar-sola-georgia-683x1024.jpg)
+![Sola Anatomia de un viaje en tren a Tbilisi](https://fotos.etheriamagazine.com/2021/02/viajar-sola-georgia.jpg)
 
 Autora de la ruta: **Gracia Martínez**. Sigue sus aventuras en [Instagram](https://www.instagram.com/livinglavidageorgia/) 
 y en su blog [Living la vida Georgia](http://living-la-vida-georgia.com/). Puedes 

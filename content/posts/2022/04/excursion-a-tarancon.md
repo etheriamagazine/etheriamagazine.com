@@ -44,7 +44,7 @@ almacén de grano donde se guardaba cereal para paliar los años de mala cosecha
 **santuario de Nuestra Señora Virgen de Riánsares**, patrona del lugar**,** situado a 3 
 kilómetros de Tarancón. 
 
-![Interior del elegante restaurante Essentia de Tarancón](https://fotos.etheriamagazine.com/2022/04/Restaurante-essentia-683x1024.jpg "© Restaurante Essentia, en Tarancón.")
+![Interior del elegante restaurante Essentia de Tarancón](https://fotos.etheriamagazine.com/2022/04/Restaurante-essentia.jpg "© Restaurante Essentia, en Tarancón.")
 
 ## Dónde comer en Tarancón el mejor chuletón del mundo
 
@@ -99,7 +99,7 @@ iglesia de estilo herreriano o la impresionante escalera barroca presidida por u
 lienzo del apóstol Santiago obra de Antonio González Ruiz, pintor de cámara de Fernando 
 VI. 
 
-? Además de centro espiritual y de condensar siglos de arte e historia, **el monasterio 
+📌 Además de centro espiritual y de condensar siglos de arte e historia, **el monasterio 
 de Uclés** ofrece un atractivo programa de eventos y actividades culturales como 
 concursos literarios, exposiciones, conciertos y conferencias en un enclave único. 
 

@@ -174,7 +174,7 @@ online en una web del [Ministerio de Asuntos
 Exteriores](https://www.visa2egypt.gov.eg/eVisa/Home) de Egipto (si eliges esta vía hay 
 que solicitarlo al menos una semana antes de viajar). 
 
-![Guías de viaje de Egipto.](https://fotos.etheriamagazine.com/2023/01/Egipto-guias-viaje-850x469.jpg "Guías de viaje de Egipto.")
+![Guías de viaje de Egipto.](https://fotos.etheriamagazine.com/2023/01/Egipto-guias-viaje.jpg "Guías de viaje de Egipto.")
 
 Egipto es uno de esos destinos donde merece la pena documentarse y leer sobre el destino 
 antes de viajar, ya que es tanta la información histórica que vas a recibir durante el 

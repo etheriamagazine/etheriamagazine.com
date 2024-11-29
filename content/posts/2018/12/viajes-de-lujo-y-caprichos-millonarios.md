@@ -14,7 +14,7 @@ comenzar a gastar ese dinero que te ha caído del cielo? Muchos estudios indican
 que mayor felicidad proporciona a las mujeres es viajar. Así que te damos algunas ideas 
 por si te quedas bloqueada por la emoción. 
 
-![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/polinesia-etheria-magazine-1024x679.jpg "Relájate en la Polinesia Francesa.")
+![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/polinesia-etheria-magazine.jpg "Relájate en la Polinesia Francesa.")
 
 Algunos estudios indican que lo que proporciona a las mujeres mayor felicidad es viajar 
 (por encima de casarse, practicar sexo o tener hijos), así que te proponemos que 
@@ -31,7 +31,7 @@ Pascua) y sigue por Polinesia Francesa, Nueva Caledonia, Nueva Zelanda, Australi
 Indonesia y Singapur. El precio por persona es desde 9.425 euros, ¿a cuántos amigos te 
 vas a llevar? 
 
-![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/crucero-etheria-magazine-1024x534.jpg "Desconectar en un crucero.")
+![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/crucero-etheria-magazine.jpg "Desconectar en un crucero.")
 
 ## 2\. En un avión privado como las jequesas.
 
@@ -59,7 +59,7 @@ turísticos de Renfe: el **Al Ándalus y el Transcantábrico**, uno recorre el s
 otro el norte del país. Una suite deluxe durante una semana te sale por más de 4.000 
 euros por persona. 
 
-![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/tren-lujo-japones-1024x684.jpg "© Tren Suite Shiki Shima.")
+![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/tren-lujo-japones.jpg "© Tren Suite Shiki Shima.")
 
 ## 4\. Déjate mimar en el hotel de tus sueños.
 
@@ -75,7 +75,7 @@ increíble [Plaza
 Athénée](https://etheriamagazine.com/2018/11/21/plaza-athenee-un-hotel-de-ensueno-en-paris/), 
 en París, del que ya te hemos hablado en otras ocasiones. 
 
-![Poseidon Undersea Resort, viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/Poseidon-Undersea-Resort-1024x387.jpg "© Poseidon Undersea Resort.")
+![Poseidon Undersea Resort, viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad](https://fotos.etheriamagazine.com/2018/12/Poseidon-Undersea-Resort.jpg "© Poseidon Undersea Resort.")
 
 ## 6\. Pon un yate de megalujo en tu vida.
 
@@ -88,7 +88,7 @@ amigos. Otra opción, pero tendrás que esperar a 2020, es el Azora, el primer y
 **The Ritz-Carlton Yatch Collection**, que contará con suites de hasta 102 m2. El 
 recorrido lo eliges tú: Caribe, Mediterráneo o Norte de Europa. 
 
-![Azora yate de The Ritz Carlton Yatch Collection, yates de lujo, viajes exclusivos, viajes de lujo](https://fotos.etheriamagazine.com/2018/12/yate-lujo-etheria-magazine-1024x576.jpeg "Azora es el primer yate de The Ritz-Carlton Yatch Collection.")
+![Azora yate de The Ritz Carlton Yatch Collection, yates de lujo, viajes exclusivos, viajes de lujo](https://fotos.etheriamagazine.com/2018/12/yate-lujo-etheria-magazine.jpeg "Azora es el primer yate de The Ritz-Carlton Yatch Collection.")
 
 ## 7\. Una isla para ti sola (o casi).
 
@@ -104,7 +104,7 @@ Mención especial merece **Fregate Island Private**, en las Seychelles, una isla
 santuario de animales con 16 villas privadas con piscina (la noche en una villa cuesta a 
 partir de 5.160 Euros y puedes alquilar la isla completa). 
 
-![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad, cayo espanto, islas privadas en belice](https://fotos.etheriamagazine.com/2018/12/Isla-CayoEspanto-Belize-1-1024x680.jpg "Cayo Espanto, en Belice.")
+![viajes de lujo, viajes exclusivos, viajes para millonarios, ganar Gordo de Navidad, cayo espanto, islas privadas en belice](https://fotos.etheriamagazine.com/2018/12/Isla-CayoEspanto-Belize-1.jpg "Cayo Espanto, en Belice.")
 
 ## 8\. Codearte con ricos y famosos.
 
@@ -120,7 +120,7 @@ el jugador dejó una generosa propina de 20.000 €, así que lo debieron de tra
 bien. En Italia hay decenas de rincones exclusivos pero puedes empezar por la **Costa 
 Esmeralda**, en Cerdeña, y la **isla de Capri**, refugio de famosos desde hace décadas. 
 
-![lujo en capri, viajes de lujo, escapadas para millonarios, viajar con el gordo de navidad](https://fotos.etheriamagazine.com/2018/12/capri-viajes-lujo-1024x620.jpg "Viaje de lujo a Capri.")
+![lujo en capri, viajes de lujo, escapadas para millonarios, viajar con el gordo de navidad](https://fotos.etheriamagazine.com/2018/12/capri-viajes-lujo.jpg "Viaje de lujo a Capri.")
 
 Y si necesitas ayuda para elegir destino existen multitud de agencias que te 
 personalizan el programa según tus gustos. Entre otras, **Made for Spain**, **Madrid & 

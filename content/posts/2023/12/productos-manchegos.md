@@ -17,7 +17,7 @@ mundial o un Gran Baco de Oro? Y, por supuesto, disfrutar del sabor de galardona
 quesos y AOVEs. No os perdáis esta selección que se convertirá en vuestra próxima lista 
 de la compra. 
 
-![Siempre es buen momento para un brindis](https://fotos.etheriamagazine.com/2023/12/productos-manchegos-cena-navidad-850x815.jpg "Siempre es buen momento para un brindis. © Krakenimages en Unsplash")
+![Siempre es buen momento para un brindis](https://fotos.etheriamagazine.com/2023/12/productos-manchegos-cena-navidad.jpg "Siempre es buen momento para un brindis. © Krakenimages en Unsplash")
 
 Las rutas enoturísticas siempre sorprenden con propuestas atractivas para disfrutar 
 tanto _in situ_ como al volver a casa. Entre esos productos que siempre son bien 
@@ -41,7 +41,7 @@ Artesano de La Jaraba** recibió la Medalla de Oro, por lo que ha sido reconocid
 obtuvo la Medalla de Plata. Dos quesos manchegos perfectos para compartir en familia o 
 con los mejores amigos. Precio: pieza de 1 kg, menos de 25 euros. 
 
-![Queso manchego de la Finca La Jaraba.](https://fotos.etheriamagazine.com/2023/12/queso-manchego-finca-la-jaraba-850x425.jpg "Queso manchego de la Finca La Jaraba.")
+![Queso manchego de la Finca La Jaraba.](https://fotos.etheriamagazine.com/2023/12/queso-manchego-finca-la-jaraba.jpg "Queso manchego de la Finca La Jaraba.")
 
 ## Aceites de oliva virgen extra
 
@@ -87,7 +87,7 @@ los **Medianiles, de Bodegas El Progreso**. Esta apuesta vegana obtuvo dos medal
 oro en los International Organic Awards 2023. Una propuesta sostenible que merece un 
 hueco en nuestra mesa y que no llega a 6 euros. 
 
-![Medianiles, de Bodegas El Progreso.](https://fotos.etheriamagazine.com/2023/12/vino-medianiles-850x732.jpg "Medianiles, de Bodegas El Progreso.")
+![Medianiles, de Bodegas El Progreso.](https://fotos.etheriamagazine.com/2023/12/vino-medianiles.jpg "Medianiles, de Bodegas El Progreso.")
 
 ## Yugo Tinto Joven, Bacchus de Oro 2023
 
@@ -123,7 +123,7 @@ de 210 vinos y 66 bodegas. Este certamen en la región con el mayor viñedo del 
 resalta la excelencia del vino blanco en una tierra marcada por la tradición de 
 tinajería ancestral y vastos viñedos. 
 
-![Laminio Gewurztraminer.](https://fotos.etheriamagazine.com/2023/12/vino-Laminio-Gewurztraminer-850x478.jpg "Laminio Gewurztraminer.")
+![Laminio Gewurztraminer.](https://fotos.etheriamagazine.com/2023/12/vino-Laminio-Gewurztraminer.jpg "Laminio Gewurztraminer.")
 
 ## Los premiados Tomillar
 

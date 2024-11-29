@@ -207,7 +207,7 @@ edificios).
 Cruzando la Vía Laietana, a la altura de la plaza Sant Jaume, entraréis en el **barrio 
 medieval de El Born**. Si seguís la calle Argenteria iréis a parar directamente a la 
 **basílica de Santa María del Mar**, la famosa "Catedral del mar" de Ildefonso Falcones 
-(no te pierdas nuestro artículo ? [Viajes de cine: 8 localizaciones de La Catedral del 
+(no te pierdas nuestro artículo 📍 [Viajes de cine: 8 localizaciones de La Catedral del 
 Mar](https://etheriamagazine.com/2018/08/01/turismo-de-cine-catedral-del-mar/)). Desde 
 aquí es aconsejable dejarse guiar por el instinto, pero no podéis prescindir del Paseo 
 del Born (lugar en el que antaño se celebraban las justas), la calle de la Princesa o la 
@@ -231,7 +231,7 @@ la guinda final a un fantástico viaje con amigas.
 
 ### CONSEJOS ETHERIA - PREGUNTAS FRECUENTES
 
-#### ? ¿Cómo moverse por Barcelona?
+#### 📍 ¿Cómo moverse por Barcelona?
 
 La [Hola Barcelona Travel 
 Card](https://www.holabarcelona.com/es/tickets/hola-bcn-barcelona-travel-card) permite 
@@ -247,7 +247,7 @@ Para haceros una idea de la ciudad podéis coger el autobús turístico ([Barcel
 Tour](https://barcelona.city-tour.com/es)), que cuenta con dos recorridos y tiene la 
 opción de _hop on-hop off_ (subir y bajar siempre que queráis). 
 
-#### ? ¿Cu´áles son los mejores lugares para hacer fotos de Instagram?
+#### 📍 ¿Cu´áles son los mejores lugares para hacer fotos de Instagram?
 
 Si sois instagramers no os podéis perder el [Museo de las 
 Ilusiones](https://bigfunmuseum.com/), recién inaugurado y único en España. En él 
@@ -259,7 +259,7 @@ durante semanas!
 
 ![edificios emblemáticos del Modernismo](https://fotos.etheriamagazine.com/2019/03/Barcelona-modernismo-sagrada-familia.jpg "Modernismo en Barcelona.")
 
-#### ? ¿Dónde alojarse?
+#### 📍 ¿Dónde alojarse?
 
 El [Hotel Casa Fuster](https://www.hotelcasafuster.com/) es una buena opción por su 
 excelente ubicación en Diagonal con Paseo de Gracia (colindando con el barrio de Gracia) 

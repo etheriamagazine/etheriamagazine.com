@@ -14,7 +14,7 @@ largamente acariciado. Como viajeras que queremos llevar bien planificado todos 
 detalles, también debemos tener en cuenta qué vamos a necesitar en una maleta para 
 viajar a la India, sobre todo en lo que a vestimenta se refiere. 
 
-![maleta con fular y camara de fotos](https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india-1024x682.jpg "Planifica tu maleta a la India con tiempo suficiente para que no te falte de nada.")
+![maleta con fular y camara de fotos](https://fotos.etheriamagazine.com/2018/10/maleta-viaje-india.jpg "Planifica tu maleta a la India con tiempo suficiente para que no te falte de nada.")
 
 Una vez leído el anterior artículo ✅ '[Viajar sola o con amigas a 
 India](http://etheriamagazine.com/2018/10/19/viajar-sola-o-con-amigas-a-india/)', el 
@@ -32,7 +32,7 @@ pantalones sueltos son las mejores opciones–.
 Un **Chubasquero** es una prenda indispensable para la época de Monzón (de finales de 
 julio a principios de octubre). 
 
-![mujer con chubasquero amarillo](https://fotos.etheriamagazine.com/2018/10/chubasquero-hm-683x1024.jpg "Chubasquero H&M.")
+![mujer con chubasquero amarillo](https://fotos.etheriamagazine.com/2018/10/chubasquero-hm.jpg "Chubasquero H&M.")
 
 ## Complementos
 
@@ -51,7 +51,7 @@ Debido a la suciedad de las calles y a la cantidad de desperdicios que hay en el
 es buena idea caminar con calzado abierto. Además, no olvides llevar **chanclas** para 
 las duchas y la playa, en caso de que vayáis a un destino de costa. 
 
-![Chanclas Reef.](https://fotos.etheriamagazine.com/2018/10/chanclas-reef-1024x351.jpg "Chanclas Reef.")
+![Chanclas Reef.](https://fotos.etheriamagazine.com/2018/10/chanclas-reef.jpg "Chanclas Reef.")
 
 ## Botiquín
 
@@ -84,7 +84,7 @@ electrónico, aún mejor.
 En cuanto al dinero, puedes llevar **dinero en metálico** para cambiar a rupias, la 
 moneda nacional, o sacar dinero en los cajeros con tu tarjeta de crédito. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [La “pasión india” de Anita Delgado: una vida de 
 película](https://etheriamagazine.com/2020/04/13/la-pasion-india-de-anita-delgado-libros-viajes/) 

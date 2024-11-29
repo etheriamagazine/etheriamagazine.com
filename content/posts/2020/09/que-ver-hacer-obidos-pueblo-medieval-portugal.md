@@ -12,7 +12,7 @@ authors:
 
 Esta villa encaramada en una colina, rodeada de murallas y atravesada por calles sinuosas puede convertirse en el destino de tu próxima escapada. Óbidos no sólo es uno de los pueblos medievales más bonitos de Portugal sino que oculta curiosas historias y las librerías más originales del mundo. ¿No nos crees? Te contamos todo lo que puedes ver y hacer en Óbidos.
 
-![Panorámica de Óbidos desde la muralla](https://fotos.etheriamagazine.com/2020/09/obidos-villa-medieval-900x600.jpg "Panorámica de Óbidos desde la muralla. © Etheria Magazine")
+![Panorámica de Óbidos desde la muralla](https://fotos.etheriamagazine.com/2020/09/obidos-villa-medieval.jpg "Panorámica de Óbidos desde la muralla. © Etheria Magazine")
 
 Del pueblo de Óbidos, en la región Centro de Portugal, nos gusta todo. La panorámica 
 general desde su muralla es suficiente para enamorarte en solo unos segundos. Inicia la 

@@ -45,7 +45,7 @@ que hay que pasar sí o sí. Al terminar la noche, si el tiempo acompaña, puede
 algo en la terraza _chill-out_ del **Alcazaba Premium Hostel** y disfrutar de las 
 bonitas vistas de la Alcazaba y el castillo iluminados. 
 
-![viaje con amigas, fin de semana, viaje de chicas, Andalucia](https://fotos.etheriamagazine.com/2018/11/Malaga-museo-Picasso-teatro-romano-1024x743.jpg "Vista del Museo Picasso y el Teatro Romano desde la Alcazaba. Foto: Eduardo Grund © Museo Picasso Málaga.")
+![viaje con amigas, fin de semana, viaje de chicas, Andalucia](https://fotos.etheriamagazine.com/2018/11/Malaga-museo-Picasso-teatro-romano.jpg "Vista del Museo Picasso y el Teatro Romano desde la Alcazaba. Foto: Eduardo Grund © Museo Picasso Málaga.")
 
 ## Sábado de museos, hamman y lo que surja
 
@@ -55,7 +55,7 @@ fortaleza que remodelaron los musulmanes en el siglo XI. Destaca por sus tres ci
 de murallas, la torre del Homenaje y tres palacios. A sus pies, merece la pena detenerse 
 para contemplar el **Teatro Romano** del siglo I d.C. 
 
-![viaje con amigas, viaje de chicas, Andalucia, fin de semana](https://fotos.etheriamagazine.com/2018/11/Malaga-catedral-1024x682.jpg "La catedral de Málaga, conocida como "La Manquita".")
+![viaje con amigas, viaje de chicas, Andalucia, fin de semana](https://fotos.etheriamagazine.com/2018/11/Malaga-catedral.jpg "La catedral de Málaga, conocida como "La Manquita".")
 
 La siguiente parada puede ser la **Catedral**, conocida como “la Manquita” al quedarse 
 sin una de las dos torres proyectadas. Mezcla de estilos (se comenzó en 1518 y tardó 
@@ -68,7 +68,7 @@ malagueño permite recorrer desde su momento de aprendizaje y sus grandes apuest
 estilísticas, como el cubismo, hasta su reinterpretación de los grandes maestros. Una 
 joya. 
 
-![viaje con amigas, fin de semana, Andalucia, viaje de chicas](https://fotos.etheriamagazine.com/2018/11/Malaga-museo-Picasso-patio-central-1024x847.jpg "Patio central del Museo Picasso Málaga. Foto: Eduardo Grund © Museo Picasso Málaga.")
+![viaje con amigas, fin de semana, Andalucia, viaje de chicas](https://fotos.etheriamagazine.com/2018/11/Malaga-museo-Picasso-patio-central.jpg "Patio central del Museo Picasso Málaga. Foto: Eduardo Grund © Museo Picasso Málaga.")
 
 Para comer, Málaga está llena de opciones, una puede ser **Garum**, frente al Teatro 
 Romano, con una extensa carta a buen precio y perfecta para compartir. 
@@ -91,7 +91,7 @@ disfrutar tranquilamente del ambiente de Málaga y sus espacios abiertos. Un lug
 merece un paseo tranquilo es la zona de la **Alameda Principal**, donde se alojó la 
 burguesía comercial malagueña y que deja bonitos edificios de los siglos XVIII y el XIX. 
 
-![](https://fotos.etheriamagazine.com/2018/11/Malaga-puerto-1024x577.jpg "Paseo frente al puerto de Málaga.")
+![](https://fotos.etheriamagazine.com/2018/11/Malaga-puerto.jpg "Paseo frente al puerto de Málaga.")
 
 Tras la plaza de la Marina, la zona arbolada continúa en el **Paseo del Parque**, 
 situado entre el puerto y el perfil de la Alcazaba. Este jardín de más de treinta mil 
@@ -100,7 +100,7 @@ un vanguardista paseo que acaba en **El Cubo**, colorida estructura que da entra
 **Centre Pompidou de Málaga**. Es otro de los referentes culturales de la ciudad, en 
 este caso de Arte Contemporáneo. 
 
-![viaje con amigas, viaje de chicas, fin de semana, Andalucia](https://fotos.etheriamagazine.com/2018/11/Malaga-centro-pompidou-1024x614.jpg "El Cubo, cara visible del Centre Poumpidour Málaga.")
+![viaje con amigas, viaje de chicas, fin de semana, Andalucia](https://fotos.etheriamagazine.com/2018/11/Malaga-centro-pompidou.jpg "El Cubo, cara visible del Centre Poumpidour Málaga.")
 
 Y los pies seguirán solos para asomarse al mar en la conocida playa de **La Malagueta** 
 donde los días soleados de invierno cargan las pilas como nada. Puedes tomar el 
@@ -108,7 +108,7 @@ aperitivo y comer en alguno de sus chiringuitos para probar los deliciosos espet
 sardinas mientras miras al mar. ¿Puede haber un broche mejor a un fin de semana en 
 Málaga con amigas? 
 
-![fin de semana, viaje con amigas, viajes de chicas](https://fotos.etheriamagazine.com/2018/11/Malaga-espetos-1024x681.jpg "Deliciosos espetos malagueños.")
+![fin de semana, viaje con amigas, viajes de chicas](https://fotos.etheriamagazine.com/2018/11/Malaga-espetos.jpg "Deliciosos espetos malagueños.")
 
 ### CONSEJOS ETHERIA
 

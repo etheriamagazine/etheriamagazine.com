@@ -117,7 +117,7 @@ del pasado siglo, y que parecían cajas de zapatos puestas una encima de otra, h
 por un lavado de cara y ahora resultan hasta ligeramente habitables. El paisaje 
 arquitectónico, con sus transformaciones, vuelve a cautivarnos. 
 
-![Entrada a la Exposición de Marina Abramovic.](https://fotos.etheriamagazine.com/2022/06/portada-kaunas-capital-cultura-900x506.jpg "Exposición de Marina Abramovic. © Pedro Grifol")
+![Entrada a la Exposición de Marina Abramovic.](https://fotos.etheriamagazine.com/2022/06/portada-kaunas-capital-cultura.jpg "Exposición de Marina Abramovic. © Pedro Grifol")
 
 ## Guía de viaje de Kaunas | Etheria Magazine
 

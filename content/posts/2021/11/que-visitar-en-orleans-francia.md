@@ -46,7 +46,7 @@ Seis siglos después, Orleans, corazón geográfico de Francia, es la capital de
 **Región Centro-Valle del Loira**, y punto de partida de la ruta de los famosos 
 castillos del Valle del Loira. 
 
-? No te pierdas un [paseo globo sobrevolando los castillos del Valle del 
+📌 No te pierdas un [paseo globo sobrevolando los castillos del Valle del 
 Loira](https://www.civitatis.com/es/amboise/paseo-globo-valle-loira/?aid=10211). Una 
 experiencia inolvidable. 
 

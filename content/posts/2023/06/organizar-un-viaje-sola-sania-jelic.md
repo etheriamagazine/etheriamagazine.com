@@ -69,7 +69,7 @@ viajeros independientes sugiero hacer las **reservas de los alojamientos de las 
 semanas y vuelos**, si procede, antes del inicio del viaje. Es una buena ayuda para 
 entrar en la dinámica del viaje. 
 
-? Como consejo, es importante mirar los **festivos del destino** porque afectará la 
+📍 Como consejo, es importante mirar los **festivos del destino** porque afectará la 
 disponibilidad de alojamiento y las aglomeraciones en atracciones turísticas. 
 
 ![mujer con mapas, gorro y mochila escribiendo en un cuaderno](https://fotos.etheriamagazine.com/2023/06/sania-viajar-sola-planificar-viaje.jpg "Planificar un viaje es la primera forma de comenzar a vivirlo.")
@@ -176,7 +176,7 @@ cargar con demasiado por el peso. Un cargador de pared múltiple es muy útil po
 rapidez y eficacia de carga. También lleva un adaptador de corriente y no olvides unas 
 fotos de carné por si las necesitas para algún trámite administrativo. 
 
-? **Un truco:** ¡Yo siempre llevo un calzador para evitar desatar las zapatillas! 
+📍 **Un truco:** ¡Yo siempre llevo un calzador para evitar desatar las zapatillas! 
 
 ### La seguridad
 
@@ -280,7 +280,7 @@ este viaje a América Latina y ¡hasta la próxima aventura! En unos meses, Áfr
 
 ![mujer escuchando música al atardecer](https://fotos.etheriamagazine.com/2023/06/sania-viajar-sola-musica.jpg "La música siempre es una buena compañía en un viaje.")
 
-? **Puedes ver en Etheria Magazine las diferentes etapas del viaje de Sania Jelic. 
+📌 **Puedes ver en Etheria Magazine las diferentes etapas del viaje de Sania Jelic. 
 Algunas son:** 
 
 [Viajar sola por el mundo tras la jubilación, el nuevo plan de vida de Sania 

@@ -13,7 +13,7 @@ conocéis un poco, sabéis que odio esas distinciones sexistas, que nos etiqueta
 hecho de ser mujer, en ese perfil “bajo” de consumo de vinos facilitos, cuquis, para 
 chicas. Hoy te hablo de Izadi Larrosa. 
 
-![Vino Rosado para mujeres Izadi Larrosa 2017](https://fotos.etheriamagazine.com/2018/05/VINO-IZADI-LARROSA-mujeres-1024x945.jpg "Vino Rosado para mujeres Izadi Larrosa 2017")
+![Vino Rosado para mujeres Izadi Larrosa 2017](https://fotos.etheriamagazine.com/2018/05/VINO-IZADI-LARROSA-mujeres.jpg "Vino Rosado para mujeres Izadi Larrosa 2017")
 
 Creo firmemente que los gustos en el mundo del vino no están determinados por colores o 
 sexo, sino por cultura y memoria en el paladar. Y que los rosados son unos vinos 

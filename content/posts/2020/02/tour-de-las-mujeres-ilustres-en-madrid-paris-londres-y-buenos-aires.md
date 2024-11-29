@@ -14,7 +14,7 @@ El Tour de las Mujeres Ilustres en Madrid y en otras capitales del mundo brinda 
 excelente oportunidad para conocer y valorar el papel que la mujer ha tenido en la 
 historia. 
 
-![Centro de Madrid](https://fotos.etheriamagazine.com/2020/02/tour-mujeres-madrid-900x600.jpg "Centro de Madrid. © Florian Wehde")
+![Centro de Madrid](https://fotos.etheriamagazine.com/2020/02/tour-mujeres-madrid.jpg "Centro de Madrid. © Florian Wehde")
 
 Entre las rutas turísticas que han comenzado a organizarse para dar **visibilidad a la 
 mujer** las hay de todo tipo, porque las mujeres no eran solo las esposas de políticos, 
@@ -32,7 +32,7 @@ Braganza o María de Maeztu. El discurso se realiza en un tranquilo paseo por la
 Santa Ana, el Congreso de los Diputados, el Paseo del Prado y la Plaza del Rey, entre 
 otras calles y plazas madrileñas. 
 
-![tour mujeres madrid, viajar sola madrid](https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-madrid-900x600.jpg "Detalle de la Plaza Mayor de Madrid. © Yuni Martín")
+![tour mujeres madrid, viajar sola madrid](https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-madrid.jpg "Detalle de la Plaza Mayor de Madrid. © Yuni Martín")
 
 Las curiosidades sobre estas féminas te sorprenderán, ¡y mucho! Puede que incluso no 
 conozcas a algunas como [Sofonisba de 
@@ -45,13 +45,13 @@ Zayas** (cuyos escritos fueron prohibidos por la Inquisición en el siglo XVI) o
 **Gloria Fuertes,** que contribuyó a través de la Literatura a luchar contra las 
 tradiciones establecidas. 
 
-?[Freetour de las mujeres ilustres de 
+📍[Freetour de las mujeres ilustres de 
 Madrid](https://www.civitatis.com/es/madrid/free-tour-mujeres-madrid/?aid=10211). 
 
 En otros lugares del mundo también se han organizado tours similares que os detallamos a 
 continuación. 
 
-![tour mujeres londres, civitatis](https://fotos.etheriamagazine.com/2020/02/ruta-mujeres-londres-civitatis-900x619.jpg "Tour Mujeres en Londres. © David Mark")
+![tour mujeres londres, civitatis](https://fotos.etheriamagazine.com/2020/02/ruta-mujeres-londres-civitatis.jpg "Tour Mujeres en Londres. © David Mark")
 
 ## Tour de las Mujeres Ilustres en Londres
 
@@ -69,10 +69,10 @@ El Tour de las Mujeres Ilustres en Londres parte de Green Park, sigue por el Pal
 Buckingham, recorre los jardines de Victoria Tower y Downing Street, entre otros 
 lugares. 
 
-?Más información del [Tour de las Mujeres Ilustres de 
+📍Más información del [Tour de las Mujeres Ilustres de 
 Londres](https://www.civitatis.com/es/londres/tour-mujeres-ilustres/?aid=10211). 
 
-![visitas guiadas paris, visitas mujeres civitatis](https://fotos.etheriamagazine.com/2020/02/visitas-mujeres-paris-900x599.jpg "Museo del Louvre.")
+![visitas guiadas paris, visitas mujeres civitatis](https://fotos.etheriamagazine.com/2020/02/visitas-mujeres-paris.jpg "Museo del Louvre.")
 
 ## Tour de las Mujeres Ilustres en París
 
@@ -86,9 +86,9 @@ reseñas en los libros de texto, de la científica Marie Curie (la primera mujer
 obtuvo el Premio Nobel), de Simone Veil (abogada y superviviente del Holocausto), de 
 Simone de Beauvoir, de María Antonieta o de la diseñadora Coco Chanel? 
 
-?Actualmente, la visita guiada no está en activo. 
+📍Actualmente, la visita guiada no está en activo. 
 
-![tour mujeres argentinas, visitas civitatis](https://fotos.etheriamagazine.com/2020/02/tour-mujeres-argentinas-civitatis-900x581.jpg "Casa Rosada de Buenos Aires. © Claudio Bianchi")
+![tour mujeres argentinas, visitas civitatis](https://fotos.etheriamagazine.com/2020/02/tour-mujeres-argentinas-civitatis.jpg "Casa Rosada de Buenos Aires. © Claudio Bianchi")
 
 ## Tour de las Mujeres Ilustres en Buenos Aires
 

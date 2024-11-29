@@ -28,7 +28,7 @@ sus principales monumentos ya transmiten romanticismo. Prepárate para disfrutar
 calles, mezquita, palacios y bazares aunque, si puedes alargar la estancia, **Estambul 
 es una de las mejores ciudades del mundo para, simplemente, estar**. 
 
-?Si es la primera vez en Estambul, os puede interesar reservar un freetour para poder 
+📌Si es la primera vez en Estambul, os puede interesar reservar un freetour para poder 
 moveros después con más soltura. Civitatis los tiene en español. [Consulta sus 
 horarios](https://www.civitatis.com/es/estambul/free-tour-estambul/?aid=10211). 
 
@@ -92,7 +92,7 @@ belleza de los paisajes que ofrece. Reserva una tarde para gozar del atardecer d
 cubierta de un barco. Palacios, fortalezas, puentes y dos mundos, Asia y Europa, se 
 asomarán ante tus ojos. 
 
-?Consulta precios del [crucero por el Bósforo al 
+📌Consulta precios del [crucero por el Bósforo al 
 atardecer](https://www.civitatis.com/es/estambul/crucero-bosforo-atardecer/?aid=10211). 
 Suele haber ofertas. 
 
@@ -109,7 +109,7 @@ Por último, también te puede interesar acudir a un espectáculo tradicional de
 Giróvagos. Puede parecer una turistada pero realmente es una danza muy sorprendente. Te 
 animamos a verlo en vivo y en directo. 
 
-? Si te interesa, [Civitatis tiene una propuesta por unos 30 
+📌 Si te interesa, [Civitatis tiene una propuesta por unos 30 
 euros](https://www.civitatis.com/es/estambul/espectaculo-derviches-girovagos/?aid=10211). 
 
 ![Mercado de las Especias, unan visita romántica en Estambul](https://fotos.etheriamagazine.com/2018/05/ESTAMBUL-MERCADO-ESPECIAS-OK-e1552469237413.jpg "Mercado de las Especias (Estambul). © SG")

@@ -198,7 +198,7 @@ tortilla cómo quiere y cuándo quiere. Un ejemplo claro de _win-win_ para todos
 
 • En el local “Pampa” encontrarás música en vivo y ambiente local. 
 
-? **También te puede interesar:** 
+📌 **También te puede interesar:** 
 
 [Sania en Patagonia (parte 1): Ushuaia y Punta 
 Arenas](https://etheriamagazine.com/2023/01/10/sania-en-patagonia-ushuaia-punta-arenas/) 

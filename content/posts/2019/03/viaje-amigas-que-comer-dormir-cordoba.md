@@ -46,7 +46,7 @@ realizar también si haces un viaje en familia (menores de 10 años, gratis) y l
 carro de bebé. [Resérvalo con 
 antelación](https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-cordoba/?aid=10211). 
 
-?NO te pierdas: [Qué ver en la Mezquita de 
+📍NO te pierdas: [Qué ver en la Mezquita de 
 Córdoba](https://etheriamagazine.com/2022/08/12/que-ver-mezquita-cordoba/). 
 
 ![mezquita de cordoba](https://fotos.etheriamagazine.com/2019/03/Mezquita-de-Cordoba.jpg "Interior de la mezquita-catedral de Córdoba.")

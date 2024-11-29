@@ -28,9 +28,9 @@ exhaustas desde el primer día. Por este motivo, os vamos a recomendar algunas
 actividades que consideramos imprescindibles en Vitoria pero también otras que se pueden 
 dejar para un segundo viaje. Por supuesto, vuestros gustos y energía son los que mandan. 
 
-? [Freetour en Vitoria](https://www.civitatis.com/es/vitoria/free-tour-vitoria/), ideal 
+[Freetour en Vitoria](https://www.civitatis.com/es/vitoria/free-tour-vitoria/), ideal 
 para situarse el primer día, o [visita 
-guiada](https://www.civitatis.com/es/vitoria/visita-guiada-vitoria/?aid=10211) (8 €). 
+guiada](https://www.civitatis.com/es/vitoria/visita-guiada-vitoria/?aid=10211) (10 €). 
 
 ![catedral de santa maria vitoria](https://fotos.etheriamagazine.com/2021/09/catedral-vitoria.jpg "Catedral de Santa María. © Diputación Foral de Álava")
 
@@ -47,11 +47,11 @@ tierra_.
 Dos recomendaciones especiales en la catedral podrían ser admirar la panorámica desde su 
 torre, la más alta de la ciudad, y presenciar el espectáculo multimedia que permite 
 contemplar la evolución del Pórtico de la luz a lo largo de los años. Reserva tu visita 
-en la [web oficial](https://www.catedralvitoria.eus/es/reservas/) desde 8,50 euros 
-(10,50 € con torre). 
+en la [web oficial](https://www.catedralvitoria.eus/es/reservas/) por 9 euros (11 € con 
+torre incluida). 
 
-? [Tour literario por 
-Vitoria](https://www.civitatis.com/es/vitoria/tour-literario-vitoria/?aid=10211) (10€) 
+Anímate a hacer este interesante [Tour literario por 
+Vitoria](https://www.civitatis.com/es/vitoria/tour-literario-vitoria/?aid=10211) (12 €) 
 
 ![detalle mural vitoria con amigas](https://fotos.etheriamagazine.com/2021/09/mural-vitoria.jpg "Detalle de mural 'El triunfo de Vitoria'. © Etheria Mag.")
 
@@ -61,13 +61,11 @@ Alternar las visitas de interior con los paseos hará más ameno este viaje a Vi
 amigas porque invita a palpar el ambiente local, además de la calidad del _street art_ 
 de la capital alavesa. Seáis o no aficionadas a los grafitis, la ruta de los murales de 
 esta ciudad os va a sorprender por su simbología y por la belleza de los mismos. Los 
-podéis admirar en una [visita 
-guiada](https://www.civitatis.com/es/vitoria/tour-arte-urbano-vitoria/?aid=10211) 
-(resérvala con antelación) o bien siguiendo la ruta por vuestra cuenta (ubicaciones en [google 
-maps](https://www.google.com/maps/d/u/0/viewer?mid=1ArGXCgWUBMWkn5Gw75zd0kLHgko&ll=42.85149045362411%2C-2.679801750000015&z=15)) 
-y leyendo la historia de cada obra. 
+podéis admirar en estas ubicaciones de [google 
+maps](https://www.google.com/maps/d/u/0/viewer?mid=1ArGXCgWUBMWkn5Gw75zd0kLHgko&ll=42.85149045362411%2C-2.679801750000015&z=15). 
+Cada uno dispone de una leyenda para conocer su historia. 
 
-? No te pierdas el artículo: [10 fachadas básicas en la Ruta de los Murales de 
+No te pierdas el artículo: [10 fachadas básicas en la Ruta de los Murales de 
 Vitoria](https://etheriamagazine.com/2019/11/21/ruta-murales-en-vitoria-10-grafitis-imprescindibles/). 
 
 ![casa del cordon vitoria](https://fotos.etheriamagazine.com/2021/09/casa-cordon-vitoria.jpg "Cúpula estrellada en la Casa del Cordón (Vitoria). © Etheria Magazine")
@@ -111,20 +109,20 @@ por anfibios, aves acuáticas, etc. Previamente, diríamos que es obligatorio en
 
 Si hay algo que nos maravilla de esta ciudad es su capacidad para sorprender en el 
 terreno cultural, ya que brinda un abanico capaz de satisfacer a todo tipo de 
-preferencias. En caso de que os guste el arte moderno, tenéis una cita en [ARTIUM](https://artium.eus/es/), 
+preferencias. En caso de que os guste el arte moderno, tenéis una cita en **ARTIUM**, 
 que dispone de una colección de más de 3.000 piezas tanto de artistas vascos como del 
-resto del país. Si sois más tradicionales, está el [BIBAT](https://fourniermuseoabibat.eus/es/) 
-(‘dos en uno’ en euskera), en el palacio de Bendaña, un complejo de dos museos que 
-alberga el de Arqueología de Álava y el Fournier de Naipes. Este último muestra la mejor 
-colección de naipes del mundo, además de estar en un bonito edificio con algunos 
-elementos góticos y una preciosa bóveda estrellada. 
+resto del país. Si sois más tradicionales, está el **BIBAT** (‘dos en uno’ en euskera), 
+en el palacio de Bendaña, un complejo de dos museos que alberga el de Arqueología de 
+Álava y el Fournier de Naipes. Este último muestra la mejor colección de naipes del 
+mundo, además de estar en un bonito edificio con algunos elementos góticos y una 
+preciosa bóveda estrellada. 
 
 ![artium arte moderno vitoria](https://fotos.etheriamagazine.com/2021/09/Artium-museo-moderna.jpg "Interior del © ARTIUM.")
 
 No olvidéis fijaros en las matrices que empleó Heraclio Fournier, inventor de la baraja 
-española. Por último, también merece una visita el [Museo de Bellas Artes de 
-Álava](https://arteederrenmuseoa.eus/es/), tanto por el edificio que lo alberga como por 
-su excelente colección de arte español de los siglos XVIII-XIX. 
+española. Por último, también merece una visita el **Museo de Bellas Artes de Álava**, 
+tanto por el edificio que lo alberga como por su excelente colección de arte español de 
+los siglos XVIII-XIX. 
 
 ![plaza virgen blanca vitoria](https://fotos.etheriamagazine.com/2021/09/plaza-virgen-blanca-vitoria.jpg "Plaza de la Virgen Blanca. © Diputación Foral de Álava")
 
@@ -155,22 +153,20 @@ primeros sábados de cada mes en el casco antiguo), son algunas de las práctica
 pueden faltar en una escapada. La forma más económica de probar distintas elaboraciones 
 es el pintxo-pote donde por muy poco podéis tomar una bebida y un pintxo (habitualmente 
 de 7 a 11 de la noche y algunos días de la semana). Entre los bares y restaurantes donde 
-sirven buenos pintxos están [Sagartoki](https://www.sagartoki.com/), [Perretxico](https://perretxico.es/), 
-[Toloño](https://www.tolonobar.com/) y el **bar Deportivo Alavés**. Si queréis probar el 
-Pintxo de Oro de Álava 2021 tenéis que dirigiros al **bar Waska** y pedir su ‘Km0’, 
-creado por Carlos Dávalos y Eduardo Ragazzi. 
+sirven buenos pintxos están **Sagartoki** (sagartoki.com), **Perretxico** 
+(perretxico.es), **Toloño** (tolonobar.com) y el **bar Deportivo Alavés**. Si queréis 
+probar el Pintxo de Oro de Álava 2021 tenéis que dirigiros al **bar Waska** y pedir su 
+‘Km0’, creado por Carlos Dávalos y Eduardo Ragazzi. 
 
-Y si hay mucho que celebrar, quizás es el momento de darse un homenaje en lugares como [Zabala](https://restaurantezabala.es/), 
-[Zaldiaran](https://www.restaurantezaldiaran.com/), [El 
-Clarete](http://elclareterestaurante.com/), [El 
-Portalón](https://www.restauranteelportalon.com/), [Kaskagorri](http://kaskagorri.com/)... 
-Para terminar la noche, podéis pasar por el **Bar So Wood** (calle de Postas, 28) para 
-tomar una copa antes de volver al hotel. 
+Y si hay mucho que celebrar, quizás es el momento de darse un homenaje en lugares como 
+**Zabala**, **Zaldiaran**, **El Clarete**, **El Portalón**, **Kaskagorri**... Para 
+terminar la noche, podéis pasar por el **Bar So Wood** (calle de Postas, 28) para tomar 
+una copa antes de volver al hotel. 
 
-? [Tour de pintxos por Vitoria con visita 
+[Tour de pintxos por Vitoria con visita 
 guiada](https://www.civitatis.com/es/vitoria/tour-pinchos-vitoria/?aid=10211). 
 
-![muralla vitoria con amigas](https://fotos.etheriamagazine.com/2021/09/vitoria-muralla-681x1024.jpg "Muralla de Vitoria. © Etheria Magazine")
+![muralla vitoria con amigas](https://fotos.etheriamagazine.com/2021/09/vitoria-muralla.jpg "Muralla de Vitoria. © Etheria Magazine")
 
 ## 9\. Las murallas de Vitoria
 
@@ -183,7 +179,6 @@ llegar](https://www.google.com/maps/place/Muralla+Villa+Suso+y+Nevera/@42.847698
 al que se le ha añadido una estructura de madera para ganar la altura perdida. Se puede 
 caminar por esta pasarela que sigue el antiguo camino de ronda y desde donde se obtienen 
 bonitas vistas. El proyecto incluso ganó una mención en los Premios Europa Nostra. 
-Puedes ver algunas imágenes en este [vídeo](https://www.youtube.com/watch?v=O-oKHhXwEc4&t=45s). 
 
 De la segunda muralla (siglo XIII) quedan algunos elementos medievales, para verlos 
 dirígete hacia la iglesia de San Pedro ([cómo 
@@ -193,7 +188,7 @@ que se levantó sobre un antiguo templo adosado al muro.
 No dejes tampoco de pasear por el **Jardín de la Muralla**, donde se sitúa el mural ‘La 
 noche más corta’, o de conocer la nevera Olave (que proporcionaba el hielo a Vitoria). 
 
-![jardin muralla vitoria](https://fotos.etheriamagazine.com/2021/09/jardin-muralla-vitoria-707x1024.jpg "Jardín de la Muralla con mural. © Etheria Magazine")
+![jardin muralla vitoria](https://fotos.etheriamagazine.com/2021/09/jardin-muralla-vitoria.jpg "Jardín de la Muralla con mural. © Etheria Magazine")
 
 ## 10\. Parque de la Florida
 
@@ -223,15 +218,15 @@ Laguardia, y **Marqués de Riscal** (50 km), cuya estructura de titanio y acero 
 por Frank O’Gehry no necesita presentación, en Elciego. Ambas cuentan con catas y 
 visitas guiadas. 
 
-![salinas anana vitoria](https://fotos.etheriamagazine.com/2021/09/salinas-anana-vitoria-683x1024.jpg "© Salinas de Añana/ Diputación Foral de Álava")
+![salinas anana vitoria](https://fotos.etheriamagazine.com/2021/09/salinas-anana-vitoria.jpg "© Salinas de Añana/ Diputación Foral de Álava")
 
-### Otras visitas guiadas en Vitoria
+**Otras visitas guiadas en Vitoria** 
 
-? [Visita guiada por la Vitoria más 
-misteriosa](https://www.civitatis.com/es/vitoria/tour-misterios-leyendas-vitoria/?aid=10211). 
+**[Visita guiada por la Vitoria más 
+misteriosa](https://www.civitatis.com/es/vitoria/tour-misterios-leyendas-vitoria/?aid=10211).** 
 
-? [Freetour por los misterios y leyendas de 
-Vitoria](https://www.civitatis.com/es/vitoria/free-tour-misterios-leyendas/?aid=10211). 
+**[Freetour por los misterios y leyendas de 
+Vitoria](https://www.civitatis.com/es/vitoria/free-tour-misterios-leyendas/?aid=10211).** 
 
 ### También te puede interesar…
 

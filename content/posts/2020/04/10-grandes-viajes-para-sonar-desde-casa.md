@@ -23,7 +23,7 @@ Australia](https://etheriamagazine.com/2019/03/07/revista-viajes-que-ver-austral
 para no perder el tiempo y [consejos](https://etheriamagazine.com/2019/03/07/7-consejos-para-viajar-a-australia/) 
 que ten vendrán muy bien para planificar tu viaje. 
 
-![Oryx en Namibia.](https://fotos.etheriamagazine.com/2019/09/oryx-6-900x600.jpg "Oryx en Namibia.")
+![Oryx en Namibia.](https://fotos.etheriamagazine.com/2019/09/oryx-6.jpg "Oryx en Namibia.")
 
 ## 2\. Namibia
 
@@ -33,7 +33,7 @@ desierto del Namib o la playa de los elefantes. Un viaje para **mujeres aventure
 donde descubrirás pinturas rupestres, enormes dunas de arena rojiza, estrechos cañones 
 como el de Sesriem y colonias de pelícanos y lobos marinos. 
 
-![Plaza Durbar de Patan (Nepal).](https://fotos.etheriamagazine.com/2018/11/plaza-durbar-patan-nepal-1024x684.jpg "Plaza Durbar de Patan (Nepal). ©P.G.")
+![Plaza Durbar de Patan (Nepal).](https://fotos.etheriamagazine.com/2018/11/plaza-durbar-patan-nepal.jpg "Plaza Durbar de Patan (Nepal). ©P.G.")
 
 ## 3\. Valle de Katmandú (Nepal)
 
@@ -44,7 +44,7 @@ Katmandú](https://etheriamagazine.com/2018/11/28/5-dias-en-nepal-que-ver-en-el-
 proponemos conocer sus tres ciudades más importantes (Katmandú, Bhaktapur y Patan) que 
 concentran siete monumentos declarados Patrimonio de la Humanidad por la Unesco. 
 
-![Artist’s Palette y Zabriskie Point, uno de los paisajes más sorprendentes del oeste americano.](https://fotos.etheriamagazine.com/2019/06/3-viaje-california-Artist-Palette-1024x1024.jpg "Artist’s Palette y Zabriskie Point, uno de los paisajes más sorprendentes del oeste americano.")
+![Artist’s Palette y Zabriskie Point, uno de los paisajes más sorprendentes del oeste americano.](https://fotos.etheriamagazine.com/2019/06/3-viaje-california-Artist-Palette.jpg "Artist’s Palette y Zabriskie Point, uno de los paisajes más sorprendentes del oeste americano.")
 
 ## 4\. Oeste Americano
 
@@ -55,7 +55,7 @@ americano](https://etheriamagazine.com/2019/07/18/ruta-california-por-el-lejano-
 os proponemos paisajes desiertos como Death Valley, el desierto de Mojave o las colinas 
 de Alabama, y lugares increíbles como Mono Lake o el cañón Red Rock. 
 
-![Glaciar Pía, en la Patagonia.](https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-chilena-glaciar-pia-900x600.jpg "Glaciar Pía, en la Patagonia.")
+![Glaciar Pía, en la Patagonia.](https://fotos.etheriamagazine.com/2020/03/viaje-patagonia-chilena-glaciar-pia.jpg "Glaciar Pía, en la Patagonia.")
 
 ## 5\. Patagonia (Argentina y Chile)
 
@@ -67,7 +67,7 @@ Magallanes](https://etheriamagazine.com/2020/03/17/viaje-mujeres-crucero-patagon
 está lleno de postales del fin del mundo como Ushuaia, el Cabo de Hornos, el paso de 
 Drake o la maravillosa avenida de los Glaciares mostrada desde la baranda de un crucero. 
 
-![Mujeres turkanas.](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-turkanas-900x630.jpg "Mujeres turkanas. © P. Grifol")
+![Mujeres turkanas.](https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-turkanas.jpg "Mujeres turkanas. © P. Grifol")
 
 ## 6\. Lago Turkana (Kenia)
 
@@ -90,7 +90,7 @@ de Gengis Khan recorriendo paisajes de estepa y taiga que parecen de otro mundo.
 descubrir lugares apenas visitados como el lago Khovsgol, lago Terkhiin Tsagaan Nuur o 
 el desierto del Gobi. 
 
-![Mercadillo de Cuzco.](https://fotos.etheriamagazine.com/2019/10/peru-mercados-cuzco-900x600.jpg "Mercadillo de Cuzco. © Willian Justen de Vasconcellos")
+![Mercadillo de Cuzco.](https://fotos.etheriamagazine.com/2019/10/peru-mercados-cuzco.jpg "Mercadillo de Cuzco. © Willian Justen de Vasconcellos")
 
 ## 8\. Sur de Perú
 
@@ -101,7 +101,7 @@ acercamos, desde la imprescindible capital Lima, las enigmáticas líneas de Naz
 veces fotografiado Machu Picchu, los tesoros coloniales de Cuzco y el lago navegable más 
 alto del mundo, el lago Titicaca. 
 
-![Maravilloso Palacio de los Vientos de Jaipur (India).](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Jaipur-1-900x583.jpg "Maravilloso Palacio de los Vientos de Jaipur (India).")
+![Maravilloso Palacio de los Vientos de Jaipur (India).](https://fotos.etheriamagazine.com/2020/01/viaje-mujeres-india-Jaipur-1.jpg "Maravilloso Palacio de los Vientos de Jaipur (India).")
 
 ## 9\. Rajastán (India)
 

@@ -80,7 +80,7 @@ degustación de **Casa Pedro**, que fue el ganador del Concurso Nacional de Tapa
 Valladolid, entre otros muchos concursos a nivel regional. Un café con cava y tarta 
 casera en el **Café Nolasco** de la plaza homónima se impone. 
 
-![viaje con amigas, 48 horas en Zaragoza, viaje gastronómico](https://fotos.etheriamagazine.com/2019/01/Zaragoza-casa-pedro-1024x683.jpg "'Trucha Pyrinea marinada en jugo especiado de remolacha' del menú degustación de © Casa Pedro.")
+![viaje con amigas, 48 horas en Zaragoza, viaje gastronómico](https://fotos.etheriamagazine.com/2019/01/Zaragoza-casa-pedro.jpg "'Trucha Pyrinea marinada en jugo especiado de remolacha' del menú degustación de © Casa Pedro.")
 
 ##### Bienvenida al 'tardeo'
 
@@ -147,7 +147,7 @@ Fernando el Católico, Isabel la Católica… Vete fijando en las fachadas, porq
 que no, pero algunas te sorprenderán. Lo importante está a la izquierda, en el parque 
 Grande o José Antonio Labordeta, nuestro poeta y político más querido. 
 
-![viaje con amigas, 48 horas en Zaragoza, turismo gastronómico](https://fotos.etheriamagazine.com/2019/01/Zaragoza-tapas-1024x576.jpg "Barra de El Descorche. © Elisabeth G. Iborra")
+![viaje con amigas, 48 horas en Zaragoza, turismo gastronómico](https://fotos.etheriamagazine.com/2019/01/Zaragoza-tapas.jpg "Barra de El Descorche. © Elisabeth G. Iborra")
 
 El vermú, por supuesto, en **El Bandido** ¡qué tapas! De ahí, damos un pequeño rodeo al 
 estadio de fútbol de la Romareda para llegar al [Descorche](https://eldescorchezgz.es/), 

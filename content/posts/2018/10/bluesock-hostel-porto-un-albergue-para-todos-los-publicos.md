@@ -14,7 +14,7 @@ authors:
 precio ajustado, con un ambiente dinámico y donde puedas estar tan relajada como en 
 casa? Existe y se llama Bluesock Hostel Porto. ACTUALMENTE ESTÁ CERRADO. 
 
-![](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-1024x683.jpg "tranvia en oporto, viaje a oporto, albergue oporto")
+![](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto.jpg "tranvia en oporto, viaje a oporto, albergue oporto")
 
 El [Bluesock Hostel Porto](http://www.bluesockhostels.com), perteneciente a la cadena 
 Bluesock Hostels (del grupo gallego Carrís Hoteles), es uno de los alojamientos que han 
@@ -25,7 +25,7 @@ Ribeira, lo convierten en un campo base perfecto para moverse a pie por casi tod
 ciudad. Y, si se quieren hacer excursiones a localidades cercanas, la estación de tren 
 de San Bento se encuentra a diez minutos andando. 
 
-![alojamiento barato oporto, hostel oporto, albergue oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-zona-comun-1024x684.jpg "Uno de los rincones de esparcimiento del Bluesock Hostel Porto.")
+![alojamiento barato oporto, hostel oporto, albergue oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-zona-comun.jpg "Uno de los rincones de esparcimiento del Bluesock Hostel Porto.")
 
 ## Luz y grandes espacios
 
@@ -37,7 +37,7 @@ se distribuyen las habitaciones. Se ha respetado la arquitectura y la estructura
 original del edificio, al tiempo que se ha potenciado la visibilidad de elementos como 
 la piedra, el hierro y las vigas de madera del techo. 
 
-![albergue en oporto, hotel barato, hostel oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-literas-1024x684.jpg "Puedes decir compartir habitación o no hacerlo.")
+![albergue en oporto, hotel barato, hostel oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-literas.jpg "Puedes decir compartir habitación o no hacerlo.")
 
 ## Habitaciones comunes o dobles
 
@@ -51,7 +51,7 @@ y con un espacio para guardar los objetos personales. Si **viajas en familia** l
 tendrás muy fácil porque puedes elegir un espacio de cuatro o seis camas y gozarás de 
 total privacidad. 
 
-![comedor bluesock hostel porto, albergue oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-comedor-cocina-1024x684.jpg "Comedor y cocina de Bluesock Hostel Porto.")
+![comedor bluesock hostel porto, albergue oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-comedor-cocina.jpg "Comedor y cocina de Bluesock Hostel Porto.")
 
 ## Espacios del albergue para compartir
 
@@ -67,7 +67,7 @@ paso, interactuar con los compañeros de alojamiento. Es un auténtico privilegi
 conocer el ambiente nocturno con personas locales que conocen a la perfección Oporto y 
 te pueden llevar a los establecimientos más recomendados. 
 
-![visitas a bodegas en oporto, con amigos en oporto, albergue en oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-ribeira-bodegas-1024x683.jpg "En Vila Nova de Gaia se pueden visitar casi todas las bodegas.")
+![visitas a bodegas en oporto, con amigos en oporto, albergue en oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-ribeira-bodegas.jpg "En Vila Nova de Gaia se pueden visitar casi todas las bodegas.")
 
 ## Visita alguna bodega
 
@@ -89,7 +89,7 @@ Para comer no es necesario ir muy lejos, unas plantas más abajo se encuentra **
 Gaia**, un restaurante donde sirven platos portugueses maridados, con la orientación del 
 afamado Chef Miguel Castro Silva (menú para dos desde 42 euros). 
 
-![estaciones oporto, albergue oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-estacion-tren-1024x683.jpg "Preciosa estación de tren de Sao Bento.")
+![estaciones oporto, albergue oporto](https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-estacion-tren.jpg "Preciosa estación de tren de Sao Bento.")
 
 Si en lugar de Oporto, tu destino es Lisboa o Madrid, también podrás encontrar allí un 
 albergue de esta cadena con los mismos estándares. 

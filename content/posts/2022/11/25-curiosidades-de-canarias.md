@@ -13,7 +13,7 @@ disfrutar durante todo el año. Pero también es un archipiélago variado, sorpr
 repleto de curiosidades. Como seguro que no sabes tanto de sus islas como crees, te 
 retamos a descubrir sus muchos secretos en tu próxima visita. 
 
-![Playa de Tenerife, en las islas Canarias.](https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias-850x518.jpg "Playa de Tenerife, en las islas Canarias. © Iancu Voinovan")
+![Playa de Tenerife, en las islas Canarias.](https://fotos.etheriamagazine.com/2022/11/portada-islas-canarias.jpg "Playa de Tenerife, en las islas Canarias. © Iancu Voinovan")
 
 Puede que hayas visitado muchas veces el archipiélago de las islas Canarias pero cada 
 una de sus islas guarda tantas peculiaridades que muchas curiosidades te habrán pasado 
@@ -76,7 +76,7 @@ senderismo entre Maspalomas y la parroquia de Santiago de los Caballeros, en Gá
 Aunque no llega a Santiago de Compostela, da derecho a obtener el jubileo compostelano. 
 Si te animas, tiene un total de 72 kilómetros y se puede hacer en sólo tres etapas. 
 
-?No te pierdas el artículo: [Senderismo y baños de bosque en Gran 
+📌No te pierdas el artículo: [Senderismo y baños de bosque en Gran 
 Canaria](https://etheriamagazine.com/2018/05/03/senderismo-gran-canaria-banos-de-bosque/). 
 
 ![Maspalomas, en Gran Canaria.](https://fotos.etheriamagazine.com/2022/11/gran-canaria-maspalomas.jpg "Maspalomas, en Gran Canaria. © Hert Niks")
@@ -163,7 +163,7 @@ caribeña no deja de sonar. Las calles O’Daly y Pérez de Brito, así como la 
 Marítima, soportan estoicamente a los empolvados y pasan algunos días hasta que los 
 adoquines recobran su estado original. 
 
-![Un instante capta el efecto visual de los polvos de talco suspendidos en el aire.](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-polvos-plaza-900x675.jpg "Un instante capta el efecto visual de los polvos de talco suspendidos en el aire. © KR")
+![Un instante capta el efecto visual de los polvos de talco suspendidos en el aire.](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-polvos-plaza.jpg "Un instante capta el efecto visual de los polvos de talco suspendidos en el aire. © KR")
 
 ### Un museo en un barco
 
@@ -187,7 +187,7 @@ cuadrados sobre los que se levantan 25 cráteres que permanecen dormidos. Los as
 de la ESA acuden a Lanzarote no solo por estos paisajes “marcianos” sino también por las 
 diferentes etapas del vulcanismo que pueden verse en la isla. 
 
-![Paisaje del P.N. de Timanfaya.](https://fotos.etheriamagazine.com/2018/09/Timanfaya_Paisaje-Volcanico-1024x683.jpg "Paisaje del P.N. de Timanfaya.")
+![Paisaje del P.N. de Timanfaya.](https://fotos.etheriamagazine.com/2018/09/Timanfaya_Paisaje-Volcanico.jpg "Paisaje del P.N. de Timanfaya.")
 
 ### Volcanes donde cocinar
 
@@ -212,7 +212,7 @@ económica de la isla, ya que alrededor de la cantera se situaba una gran planta
 tuneras para el cultivo de cochinilla, de donde se extraían tintes naturales que se 
 exportaban por Europa. Este fue el motor económico de Lanzarote en el siglo XX. 
 
-![Jardín de Cactus en Lanzarote.](https://fotos.etheriamagazine.com/2018/09/Lanzarote-Jardín-cactus-1024x683.jpg "Jardín de Cactus en Lanzarote.")
+![Jardín de Cactus en Lanzarote.](https://fotos.etheriamagazine.com/2018/09/Lanzarote-Jardín-cactus.jpg "Jardín de Cactus en Lanzarote.")
 
 ### Viñedos cultivados en hoyos
 
@@ -268,7 +268,7 @@ Teide y la ciudad de San Cristóbal de La Laguna, no sólo porque ambos lugares 
 magníficos sino porque cuentan con el reconocimiento de la Unesco como Patrimonio de la 
 Humanidad. 
 
-![Paseo por las Cañadas del Teide](https://fotos.etheriamagazine.com/2020/02/Tenerife-canadas-Teide-900x600.jpg "Paseo por las Cañadas del Teide. © SG")
+![Paseo por las Cañadas del Teide](https://fotos.etheriamagazine.com/2020/02/Tenerife-canadas-Teide.jpg "Paseo por las Cañadas del Teide. © SG")
 
 ### Inspiración de Agatha Christie
 
@@ -279,10 +279,10 @@ y durante su estancia escribió _El enigmático Mr. Quin_. Hacía solo unos mese
 marido la había abandonado y la escritora buscaba reposo para aliviar su tristeza en las 
 islas Canarias. 
 
-?No te pierdas: [Descubre la dulzura de La Orotava 
+📌No te pierdas: [Descubre la dulzura de La Orotava 
 (Tenerife)](https://etheriamagazine.com/2020/06/20/viajes-por-espana-que-ver-y-hacer-en-2-dias-en-la-orotava/). 
 
-![Bello conjunto arquitectónico de La Orotava .](https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion-900x625.jpg "Bello conjunto arquitectónico de La Orotava. © M. M.")
+![Bello conjunto arquitectónico de La Orotava .](https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion.jpg "Bello conjunto arquitectónico de La Orotava. © M. M.")
 
 ### Un drago gigantesco
 

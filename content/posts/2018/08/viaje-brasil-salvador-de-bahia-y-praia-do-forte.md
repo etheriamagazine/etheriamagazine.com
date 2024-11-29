@@ -43,7 +43,7 @@ Salvador llegaban los esclavos traídos del golfo de Guinea y de las costas ango
 para trabajar en los campos de caña de azúcar. Su presencia se percibe en la cultura, la 
 gastronomía y en la fusión religiosa. 
 
-![Plaza da Sé, con la iglesia de San Francisco al fondo.](https://fotos.etheriamagazine.com/2018/08/iglesia-salvador-bahia-viaje-brasil-1024x696.jpg "Plaza da Sé, con la iglesia de San Francisco al fondo. ©PG")
+![Plaza da Sé, con la iglesia de San Francisco al fondo.](https://fotos.etheriamagazine.com/2018/08/iglesia-salvador-bahia-viaje-brasil.jpg "Plaza da Sé, con la iglesia de San Francisco al fondo. ©PG")
 
 ## Iglesia y convento de San Francisco
 
@@ -65,7 +65,7 @@ esperar a que se caiga sola. Os las ofrecerán en muchos sitios, pero donde alca
 máxima expresión es en el **templo do Senhor do Bonfim** (a pesar de estar un poco 
 alejado del centro es uno de los más visitados). 
 
-![Baiana en la puerta de un restaurante de Salvador de Bahía.](https://fotos.etheriamagazine.com/2018/08/Baiana-Pelourinho-Salvador-839x1024.jpg "Baiana en la puerta de un restaurante de Salvador de Bahía. P.G.")
+![Baiana en la puerta de un restaurante de Salvador de Bahía.](https://fotos.etheriamagazine.com/2018/08/Baiana-Pelourinho-Salvador.jpg "Baiana en la puerta de un restaurante de Salvador de Bahía. P.G.")
 
 ## Baianas y acarajés
 

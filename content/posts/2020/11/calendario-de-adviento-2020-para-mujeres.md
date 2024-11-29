@@ -102,7 +102,7 @@ tratamiento, como un gel de ducha de verbena, una leche de cuerpo de almendra o 
 crema confort ligera de karité. Todos apetecen y son perfectos para llevar en el bolso. 
 Precio: 59 Euros. 
 
-![Calendarios de Adviento dulces](https://fotos.etheriamagazine.com/2020/11/calendario-adviento-lindt-883x1024.jpg "Delicioso calendario de Adviento de © Lindt.")
+![Calendarios de Adviento dulces](https://fotos.etheriamagazine.com/2020/11/calendario-adviento-lindt.jpg "Delicioso calendario de Adviento de © Lindt.")
 
 ## Chocolate con Lindt Lindor
 

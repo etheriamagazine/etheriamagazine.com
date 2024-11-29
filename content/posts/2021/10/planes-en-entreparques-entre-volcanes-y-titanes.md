@@ -52,7 +52,7 @@ observar cómo se formaron los volcanes durante el Plioceno y Pleistoceno hace m
 millón de años. No se lo cuentes a nadie pero, si todo va bien, esta zona podría ser 
 reconocida como geoparque en 2023. 
 
-? No olvides llevar el móvil con batería porque allí es posible observar la actividad 
+📌 No olvides llevar el móvil con batería porque allí es posible observar la actividad 
 volcánica, a través de realidad aumentada, capturando los códigos QR de los paneles 
 explicativos. 
 
@@ -71,14 +71,14 @@ terminarla. En el camino irás viendo formaciones columnares de cuarcitas, cruci
 vegetación de ribera, tejos, abedules, etc. Es un paseo de sólo 3 kilómetros (ida) y con 
 una dificultad baja. 
 
-? Descárgate este [pdf de la ruta del Boquerón del 
+📌 Descárgate este [pdf de la ruta del Boquerón del 
 Estena](https://areasprotegidas.castillalamancha.es/sites/areasprotegidas.castillalamancha.es/files/sendero-documentos/boqueron-estena_tcm7-280138.pdf) 
 con información y un pequeño plano. 
 
-? Si quieres quedarte a dormir cerca del Parque de Cabañeros, la [casa rural El Boquerón 
-de Estena](http://www.boquerondestena.com/bde/), con un excelente museo geológico 
-privado, te puede interesar. Tiene 7 habitaciones, zonas comunes y piscina. Se alquila 
-de forma completa. 
+📌 Si quieres quedarte a dormir cerca del Parque de Cabañeros, la [casa rural El 
+Boquerón de Estena](http://www.boquerondestena.com/bde/), con un excelente museo 
+geológico privado, te puede interesar. Tiene 7 habitaciones, zonas comunes y piscina. Se 
+alquila de forma completa. 
 
 ![ruta batalla alarcos comarca entreparques](https://fotos.etheriamagazine.com/2021/10/ruta-batalla-alarcos.jpg "Una de las paradas de la ruta de la Batalla de Alarcos (Poblete). © P.G.")
 
@@ -96,10 +96,10 @@ ruinas del castillo desde donde se obtiene una impresionante panorámica. Puedes
 visita por libre o apuntarte a una [guiada en el 
 Ayuntamiento](https://poblete.es/ruta-informacion-reservas). 
 
-? Si está abierta, no dejes de entrar en la ermita de Nuestra Señora de Alarcos, una 
+📌 Si está abierta, no dejes de entrar en la ermita de Nuestra Señora de Alarcos, una 
 auténtica belleza. 
 
-![vuelo globo ciudad real](https://fotos.etheriamagazine.com/2021/10/vuelo-globo-entreparques-748x1024.jpg "Vuelo en globo por el Campo de Calatrava. © P.G.")
+![vuelo globo ciudad real](https://fotos.etheriamagazine.com/2021/10/vuelo-globo-entreparques.jpg "Vuelo en globo por el Campo de Calatrava. © P.G.")
 
 ### 4\. Volar en globo por el Campo de Calatrava  
 
@@ -164,11 +164,11 @@ sale del centro de visitantes Casa Palillos, y tiene una duración de 3 horas en
 se recorren unos 30 kilómetros. En el transcurso de la misma se visitan lugares como el 
 molino del Brezoso, la raña del Peral o la solana del macizo del Chorito. 
 
-? Para reservar la actividad contacta con [Aventuras 
+📌 Para reservar la actividad contacta con [Aventuras 
 Cabañeros](https://aventurascabaneros.com/tours/rutas-4x4-en-p-n-cabaneros/). No olvides 
 llevar calzado cómodo, agua, gorra y prismáticos. 
 
-![silo malagon grafitis](https://fotos.etheriamagazine.com/2021/10/silo-titan-malagon-737x1024.jpg "Silo de Malagón, en la ruta de los Titanes de Ciudad Real. © P.G.")
+![silo malagon grafitis](https://fotos.etheriamagazine.com/2021/10/silo-titan-malagon.jpg "Silo de Malagón, en la ruta de los Titanes de Ciudad Real. © P.G.")
 
 ### 8\. Grafitis titánicos en la comarca de Entreparques
 

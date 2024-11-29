@@ -63,7 +63,7 @@ todo tuviera sentido y darles el valor que se merecen, se ha recurrido a experto
 arte para crear un formato expositivo con sentido y que haga que los huéspedes se 
 sientan como en un auténtico museo. 
 
-![paradores historicos](https://fotos.etheriamagazine.com/2020/12/Parador-Leon-descendimiento-683x1024.jpg "Relieve de 'El Descendimiento' de Juan de Juni.")
+![paradores historicos](https://fotos.etheriamagazine.com/2020/12/Parador-Leon-descendimiento.jpg "Relieve de 'El Descendimiento' de Juan de Juni.")
 
 Entre las obras del Renacimiento, destaca el **relieve del Descendimiento** y el altar 
 de El Nacimiento de Cristo, además de la sillería del coro de la iglesia y el artesonado 

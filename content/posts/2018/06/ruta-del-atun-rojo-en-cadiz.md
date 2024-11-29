@@ -48,7 +48,7 @@ atardecer), y pasear por el laberinto de calles del Barrio de los Pescadores. Al
 sus arterias, como la calle Cádiz, con sus bares, restaurantes, tiendas de artesanía y 
 heladerías están animadas durante todo el día. 
 
-?No te pierdas: [15 visitas imprescindibles en Conil gratis y ninguna es una 
+📌No te pierdas: [15 visitas imprescindibles en Conil gratis y ninguna es una 
 playa](https://etheriamagazine.com/2022/04/13/guia-de-conil-visitas-gratuitas/). 
 
 ### Playas de Conil
@@ -63,7 +63,8 @@ que parte del faro y que ofrece unas bonitas vistas. Frente al muelle yacen tumb
 centenares de anclas utilizadas en la almadraba y un bar (El Tergal), que puede pasar 
 desapercibido pero donde se degusta excelente pescado y paellas. 
 
-?No te pierdas: [Descubre las 15 mejores playas y calas de Conil (cómo llegar y fotos de 
+📌No te pierdas: [Descubre las 15 mejores playas y calas de Conil (cómo llegar y fotos 
+de 
 todas)](https://etheriamagazine.com/2021/02/05/mejores-playas-y-calas-de-conil-de-la-frontera/). 
 
 ![Cocina de Casa Francisco, en Conil de la Frontera](https://fotos.etheriamagazine.com/2018/06/casa-francisco-ruta-del-atun-conil-e1649843735505.jpg "Casa Francisco La Fontanilla dispone de una amplia carta de atún durante todo el año.")
@@ -92,7 +93,7 @@ una finca dedicada al turismo rural. Y, justo antes de llegar a la población, a
 para darte un baño en la playa de la Yerbabuena, rodeada de dunas y vegetación de 
 litoral. 
 
-![La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate](https://fotos.etheriamagazine.com/2018/06/playa-yerbabuena-barbate-ruta-del-atun-1024x682.jpg "Playa de la Yerbabuena, en el Parque Natural Marismas del Barbate.")
+![La playa de la Yerbabuena, en el Parque Natural Marismas del Barbate](https://fotos.etheriamagazine.com/2018/06/playa-yerbabuena-barbate-ruta-del-atun.jpg "Playa de la Yerbabuena, en el Parque Natural Marismas del Barbate.")
 
 ### De la playa a la conservera
 
@@ -105,9 +106,9 @@ Chanca**). Una visita guiada en la **empresa Herpac** (con 'ronqueo' o despiece
 incluido) terminará de desvelarte los secretos de los túnidos. En este polígono venden 
 al público final así que no dejes de adquirir la riquísima mojama de Barbate. 
 
-![Empleado de Herpac cortando atún](https://fotos.etheriamagazine.com/2018/06/conservas-herpac-barbate-ruta-del-atun-894x1024.jpg "La empresa Herpac organiza visitas guiadas a sus instalaciones en Barbate. © Pepa García")
+![Empleado de Herpac cortando atún](https://fotos.etheriamagazine.com/2018/06/conservas-herpac-barbate-ruta-del-atun.jpg "La empresa Herpac organiza visitas guiadas a sus instalaciones en Barbate. © Pepa García")
 
-? Entre los establecimientos que incluyen el atún en su carta destaca el afamado 
+📌 Entre los establecimientos que incluyen el atún en su carta destaca el afamado 
 restaurante El Campero (reserva con antelación) que ofrece una cocina enraizada con la 
 tradición gastronómica barbateña pero con el toque peculiar de Pepe Melero, su chef. 
 
@@ -123,7 +124,7 @@ también, la fotografía de un atún de unos 800 kg junto a un pescador al que t
 altura. Otro reputado local es el **Restaurante Antonio**, donde puedes probar sus 
 _delicatessen_ en pequeñas porciones. 
 
-![Zahara de los Atunes ruta del atún](https://fotos.etheriamagazine.com/2018/06/playa-de-zahara-de-los-atunes-ruta-del-atun-1024x682.jpg "Barcas en la arena en Zahara de los Atunes.")
+![Zahara de los Atunes ruta del atún](https://fotos.etheriamagazine.com/2018/06/playa-de-zahara-de-los-atunes-ruta-del-atun.jpg "Barcas en la arena en Zahara de los Atunes.")
 
 Sus playas de aguas color azul-turquesa y la buena infraestructura turística (hoteles, 
 urbanizaciones de apartamentos y restaurantes) atraen cada verano a miles de viajeros 
@@ -138,7 +139,7 @@ rojo. Antes de llegar al municipio es conveniente que realices dos paradas en el
 estrellas son los profesionales del _kitesurfing_ (un deporte que, junto al _surf_ y al 
 _windsurf_, también se practica en la playa de Los Lances). 
 
-![Ruinas de Baelo Claudia ruta del atún tarifa](https://fotos.etheriamagazine.com/2018/06/ruina-de-baelo-claudia-tarifa-ruta-del-atun-1024x683.jpg "Baelo Claudia se encuentra junto a la playa de Bolonia.")
+![Ruinas de Baelo Claudia ruta del atún tarifa](https://fotos.etheriamagazine.com/2018/06/ruina-de-baelo-claudia-tarifa-ruta-del-atun.jpg "Baelo Claudia se encuentra junto a la playa de Bolonia.")
 
 ### La ciudad romana de Baelo Claudia
 
@@ -152,10 +153,10 @@ el archivo, mercado, teatro, termas, acueductos, etc. Y, también, un espacio de
 las salazones, ya que desde aquí se enviaba atún y _garum_ (salsa preparada a partir de 
 las vísceras de este pez, entre otros elementos) a las colonias romanas. 
 
-?No te pierdas la [mejor guía para visitar Baelo 
+📌No te pierdas la [mejor guía para visitar Baelo 
 Claudia](https://etheriamagazine.com/2019/08/22/guia-que-ver-ruinas-romanas-baelo-claudia-playa-bolonia/). 
 
-![Vista de Tarifa desde el castillo de Guzmán el Bueno](https://fotos.etheriamagazine.com/2020/06/tarifa-pueblo-900x611.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
+![Vista de Tarifa desde el castillo de Guzmán el Bueno](https://fotos.etheriamagazine.com/2020/06/tarifa-pueblo.jpg "Vista de Tarifa desde el castillo de Guzmán el Bueno. © Etheria Magazine")
 
 ### Un paseo por Tarifa
 
@@ -183,10 +184,10 @@ prima.
 ## Cuándo es la Ruta del Atún Rojo 2023
 
 Las **Jornadas de la Ruta del Atún** **2023** se celebrarán entre mayo y junio e 
-incluyen concursos, eventos y decenas de actividades ligadas a este producto. ?Conil de 
-la Frontera. Del 5 de mayo al 4 de junio de 2023. ?Zahara de los Atunes. Del 16 al 21 de 
-mayo de 2023. ?Semana Gastronómica del Atún de Barbate. Del 26 de abril al 1 de mayo de 
-2023. ?Tarifa. Del 26 de mayo al 4 de junio de 2023. 
+incluyen concursos, eventos y decenas de actividades ligadas a este producto. 📍Conil de 
+la Frontera. Del 5 de mayo al 4 de junio de 2023. 📍Zahara de los Atunes. Del 16 al 21 
+de mayo de 2023. 📍Semana Gastronómica del Atún de Barbate. Del 26 de abril al 1 de mayo 
+de 2023. 📍Tarifa. Del 26 de mayo al 4 de junio de 2023. 
 
 Durante el resto del año, la gastronomía se concentra en bares y restaurantes deseosos 
 de ofrecer los mejores bocados al comensal.

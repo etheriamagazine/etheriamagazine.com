@@ -48,7 +48,7 @@ valiosos escritos sugiere que no.
 > Actualmente, los rollos bíblicos del mar Muerto se conservan en el Museo de Israel, en 
 > Jerusalén, aunque los expuestos al público son una copia. 
 
-? **Consejo**: Compensa la intensidad histórica de la visita a Qumrán con una parada 
+📌 **Consejo**: Compensa la intensidad histórica de la visita a Qumrán con una parada 
 posterior en el centro de visitantes de [Ahava](https://goo.gl/maps/jaztq499yPHokKGm8), 
 a pocos kilómetros de las ruinas esenias. **Ahava** es la firma cosmética más reconocida 
 de Israel y se produce con elementos naturales del mar Muerto. Sus cremas, exfoliantes y 

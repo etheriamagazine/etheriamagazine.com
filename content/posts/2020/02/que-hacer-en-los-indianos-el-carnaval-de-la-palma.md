@@ -11,7 +11,7 @@ authors:
 
 Un día al año, Santa Cruz de La Palma baila al son de La Habana, sus vecinos fuman puros, beben más ron del que acostumbran y entrenan un falso acento caribeño. ‘¿Cómo está, mi amol?’, repiten mientras lanzan al aire polvos de talco y billetes. Todo forma parte de la pantomima de Carnaval de los Indianos. Es la forma que tienen de reírse de un fenómeno social que vivió La Palma a finales del siglo XIX, cuando sus emigrantes retornados de Cuba presumían de una riqueza que no tenían.
 
-![carnaval indianos, la palma, fiestas en la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-portada-900x677.jpg "Los Indianos es la fiesta perfecta para reírse y disfrutar con amigas. © Kelu Robles")
+![carnaval indianos, la palma, fiestas en la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-portada.jpg "Los Indianos es la fiesta perfecta para reírse y disfrutar con amigas. © Kelu Robles")
 
 Mientras el foco mediático se dirige a Cádiz y Tenerife durante el carnaval, La Palma 
 –‘**La Isla Bonita**’, pero no la de Madonna como alguna gente cree– celebra una 
@@ -22,7 +22,7 @@ nadie altere la esencia de Los Indianos.
 Te contamos todos los secretos de Los Indianos para que la disfrutes con amigas, en 
 familia o sola. ¿Calará en ti el misterioso ‘efecto La Palma’? 
 
-![carnaval indianos, fiestas de la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-perfil-900x675.jpg "Los participantes cuidan cada detalle de la indumentaria indiana. © KR")
+![carnaval indianos, fiestas de la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-perfil.jpg "Los participantes cuidan cada detalle de la indumentaria indiana. © KR")
 
 ## Los Palma, una mezcla explosiva
 
@@ -47,7 +47,7 @@ dinamizaron la economía de la isla.
 > Sin embargo, otros vecinos volvieron de su exilio caribeño con una mano delante y otra 
 > detrás. 
 
-![carnaval indianos, la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-condecorado-900x674.jpg "Este vecino viste traje de lino, condecoraciones, sombrero de paja y una banda azul celeste, a juego con los colores de la isla. © KR")
+![carnaval indianos, la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-condecorado.jpg "Este vecino viste traje de lino, condecoraciones, sombrero de paja y una banda azul celeste, a juego con los colores de la isla. © KR")
 
 Aquellos palmeros que no triunfaron económicamente al otro lado del _Charco_ prefirieron 
 disfrazar su ‘fracaso’ vistiendo elegantes ropajes de **lino blanco**, luciendo 
@@ -59,7 +59,7 @@ Palma desde los **años veinte**, pero no fue hasta el año 1966 cuando la imita
 **indiano aparentón** se llevó a cabo, por **primera vez** y por iniciativa de los 
 vecinos Yolanda Cabrera y Alfredo Pérez Díaz, durante el carnaval. 
 
-![carnaval la palma, carnaval de los indianos](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-sidecar-900x675.jpg "La Placeta de Borrero es uno de los escenarios más coquetos y antiguos de la Santa Cruz de la Palma. © KR")
+![carnaval la palma, carnaval de los indianos](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-sidecar.jpg "La Placeta de Borrero es uno de los escenarios más coquetos y antiguos de la Santa Cruz de la Palma. © KR")
 
 > A partir de entonces, cada lunes de carnaval, los palmeros se disfrazan de Indianos para 
 > recordar jocosamente a aquellos emigrantes retornados. 
@@ -85,7 +85,7 @@ iglesia de El Salvador. Sosó, año tras año, no puede contener su emoción. Ll
 veintisiete carnavales encarnando con orgullo el papel de ‘**La Negra Tomasa**’, que 
 simboliza la inmigración de cubanos que vivió la isla. 
 
-![carnaval indianos, carnaval la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-cubanas-900x675.jpg "A ‘La Negra Tomasa’ le salen imitadores por toda la isla. © KR")
+![carnaval indianos, carnaval la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-cubanas.jpg "A ‘La Negra Tomasa’ le salen imitadores por toda la isla. © KR")
 
 Es sumamente importante la teatralización de todo el suceso: ‘La Negra Tomasa’ 
 desembarca en el puerto de Santa Cruz y hace ver a todo el mundo que viene de Cuba tras 
@@ -111,7 +111,7 @@ dejar la cámara fotográfica en casa para disfrutar ‘analógicamente’ la fi
 antaño, sin preocuparte por mostrar al mundo lo bien que te lo estás pasando. Quizá este 
 sea uno de los secretos de la autenticidad de Los Indianos. 
 
-![carnaval indianos, carnaval la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-polvos-amarillos-900x675.jpg "Un momento de reposo durante la batalla campal de polvos de talco. © KR")
+![carnaval indianos, carnaval la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-polvos-amarillos.jpg "Un momento de reposo durante la batalla campal de polvos de talco. © KR")
 
 > El origen del uso de polvos de talco en las fiestas canarias no es baladí, aunque sí un 
 > misterio. 
@@ -122,7 +122,7 @@ que se encuentran a su paso con **polvos de tocador**”. Otras historias cuenta
 navío repleto de **harina** apareció varado en el puerto de Santa Cruz y que en él se 
 adentraron multitud de niños para jugar durante días, comenzando así esta tradición. 
 
-![carnaval indianos, carnaval la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-polvos-plaza-900x675.jpg "Un instante capta el efecto visual de los polvos de talco suspendidos en el aire. © KR")
+![carnaval indianos, carnaval la palma](https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-polvos-plaza.jpg "Un instante capta el efecto visual de los polvos de talco suspendidos en el aire. © KR")
 
 El **desfile de las cinco de la tarde** inicia la mayor representación colectiva con la 
 aparición de cañones gigantes que expulsan –cómo no– más polvos de talco y enormes 

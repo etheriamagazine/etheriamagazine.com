@@ -12,7 +12,7 @@ authors:
 
 Viajar en moto siguiendo las recomendaciones de Alicia Sornosa en 'Toda aventura comienza con un sí', una obra publicada por Anaya Touring, es ahora más sencillo y seguro. Esta guía es uno de los imprescindibles para quienes se inician en los viajes en moto y también para los que buscan inspiración.
 
-![alicia sornosa libro de vajes en moto](https://fotos.etheriamagazine.com/2021/03/libro-toda-aventura-comienza-con-un-si-768x1024.jpg "Alicia Sornosa posa con su libro. © Refresco.TV")
+![alicia sornosa libro de vajes en moto](https://fotos.etheriamagazine.com/2021/03/libro-toda-aventura-comienza-con-un-si.jpg "Alicia Sornosa posa con su libro. © Refresco.TV")
 
 Los amantes de las dos ruedas y de emplear la moto como medio para viajar están de 
 enhorabuena, ya que encontrarán en "Toda aventura comienza con un sí" las 
@@ -119,7 +119,7 @@ personal y viajera.
 
 ### ¿Estás pensando en comenzar tu aventura?
 
-![libro viajar en moto alicia sornosa](https://fotos.etheriamagazine.com/2021/03/libro-viajar-moto-alicia-sornosa-746x1024.jpg "Toda aventura comienza con un sí, de Alicia Sornosa.")
+![libro viajar en moto alicia sornosa](https://fotos.etheriamagazine.com/2021/03/libro-viajar-moto-alicia-sornosa.jpg "Toda aventura comienza con un sí, de Alicia Sornosa.")
 
 Editorial: Anaya Touring Colección: Guías Singulares Tamaño: 19x23,50 cm Edición: 
 Rústica Precio: 22,90 € 

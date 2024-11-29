@@ -99,7 +99,7 @@ esta última, se pueden reconocer perfectamente los chozos circulares de piedra 
 de paisajes de acantilados. Un _photocall_ habitual es la figura de piedra donde Rey 
 entrenaba, que se puede ver a la derecha de la escalinata de subida al monasterio. 
 
-![Escena de la película Rogue One.](https://fotos.etheriamagazine.com/2019/09/rey-skellig-michael-900x543.jpg "©LucasFilm.")
+![Escena de la película Rogue One.](https://fotos.etheriamagazine.com/2019/09/rey-skellig-michael.jpg "©LucasFilm.")
 
 Otras zonas de los condados de Cork y de Kerry también aparecen en el último filme, ya 
 que el equipo se quedó totalmente prendado por la belleza del condado. La acogida 

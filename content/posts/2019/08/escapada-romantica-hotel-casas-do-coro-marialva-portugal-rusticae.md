@@ -110,7 +110,7 @@ Tel. Central de reservas Rusticae: 914 879 017.
 
 **Consulta otros hoteles con encanto en Rusticae.** 
 
-**? También te puede interesar:** 
+**📌 También te puede interesar:** 
 
 [Valle del Côa. 8 experiencias en el corazón de 
 Portugal](https://etheriamagazine.com/2020/07/17/valle-del-coa-8-experiencias-en-la-frontera-portugal/) 

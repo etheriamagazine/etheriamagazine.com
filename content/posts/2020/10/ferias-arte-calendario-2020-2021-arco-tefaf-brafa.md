@@ -42,7 +42,7 @@ lugar a mediados de marzo en la ciudad de Maastricht (Países Bajos), la próxim
 se celebrará como feria presencial del **31 de mayo al 6 de junio de 2021**, con dos 
 jornadas de preinauguración el 29 y el 30 de mayo de 2021. 
 
-![demo half-chair de sam maloof en la feria tefaf](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-Demo-Half-chair-de-Sam-Maloof-683x1024.jpg "Obra: Demo Half-chair de Sam Maloof. Feria TEFAF.")
+![demo half-chair de sam maloof en la feria tefaf](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-Demo-Half-chair-de-Sam-Maloof.jpg "Obra: Demo Half-chair de Sam Maloof. Feria TEFAF.")
 
 A principios de 2016 la TEFAF inauguró su versión neoyorkina para acoger dos ferias de 
 arte anuales en el Park Avenue Armory: **TEFAF New York Fall** y **TEFAF New York 
@@ -52,7 +52,7 @@ extendiéndose por la primera y la segunda planta de los salones de época del A
 instaurando así una feria de una profundidad y un impacto sin precedentes en la ciudad 
 de Nueva York. 
 
-![Lucas Cranach El Viejo en feria tefaf](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-Lucas-Cranach-El-Viejo-661x1024.jpg "Obra de Lucas Cranach El Viejo. Feria TEFAF")
+![Lucas Cranach El Viejo en feria tefaf](https://fotos.etheriamagazine.com/2020/10/feria-arte-tefaf-Lucas-Cranach-El-Viejo.jpg "Obra de Lucas Cranach El Viejo. Feria TEFAF")
 
 Este año, todo ha cambiado; la edición de [TEFAF New York se celebrará 
 online](https://www.tefaf.com/) durante los días del 1 al 4 de noviembre de 2020. Los 
@@ -146,7 +146,7 @@ garantías de éxito comercial para las galerías participantes en unas fechas e
 con ello el encuentro directo con galerías, coleccionistas y profesionales de todo el 
 mundo. 
 
-![visitante feria arco de madrid](https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-2020-expositores-765x1024.jpg "Visitante en ARCOMadrid, la mayor Feria de Arte Contemporáneo de España. © Pedro Grifol")
+![visitante feria arco de madrid](https://fotos.etheriamagazine.com/2020/10/feria-arte-arco-madrid-2020-expositores.jpg "Visitante en ARCOMadrid, la mayor Feria de Arte Contemporáneo de España. © Pedro Grifol")
 
 En esta decisión ha tenido un peso especial la celebración del **40ª Aniversario de la 
 Feria**, una edición que se está proyectando de forma especial con un programa de amplia 

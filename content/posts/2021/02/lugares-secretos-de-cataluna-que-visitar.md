@@ -25,7 +25,7 @@ numerosos rincones imprescindibles que se extienden a lo largo y ancho de las cu
 provincias catalanas sino otros sorprendentes destinos a los que dirigirse cuando se 
 desea viajar fuera de ruta. ¡_Bon viatge!_ 
 
-![Santuario de Montgrony uno de los lugares secretos de Cataluña](https://fotos.etheriamagazine.com/2021/02/cataluna-secreta-Santuario-de-Montgrony-745x1024.jpg "Santuario de Montgrony. © Turismo Cataluña")
+![Santuario de Montgrony uno de los lugares secretos de Cataluña](https://fotos.etheriamagazine.com/2021/02/cataluna-secreta-Santuario-de-Montgrony.jpg "Santuario de Montgrony. © Turismo Cataluña")
 
 ## 1\. Santuario de Montgrony: huye del mundanal ruido
 
@@ -38,7 +38,7 @@ acercarte a la iglesia románica de Sant Pere de Montgrony y guárdate tiempo pa
 sentarte en la terraza de la hospedería-restaurante a disfrutar sin prisas de las 
 vistas. 
 
-![Camino horadado en la roca en Mont-rebei.](https://fotos.etheriamagazine.com/2020/05/mont-rebei-gr1-900x601.jpg "Camino horadado en la roca en Mont-rebei. © Pepa García")
+![Camino horadado en la roca en Mont-rebei.](https://fotos.etheriamagazine.com/2020/05/mont-rebei-gr1.jpg "Camino horadado en la roca en Mont-rebei. © Pepa García")
 
 ## 2\. Desfiladero del Mont-rebei: un paseo lleno de asombro
 
@@ -76,7 +76,7 @@ calle de Sant Pau, que transcurre junto a la N-II. Allí se encuentra una de la 
 más populares de la provincia, **l’Espinaler**, donde es obligatorio tomarse su famoso 
 vermut acompañado de una lata de conservas. 
 
-![giralda de l arboç](https://fotos.etheriamagazine.com/2021/02/giralda-l-arboc-catalunya-736x1024.jpg "Giralda de L'Arboç. © Oficina de Turisme de l'Arboç")
+![giralda de l arboç](https://fotos.etheriamagazine.com/2021/02/giralda-l-arboc-catalunya.jpg "Giralda de L'Arboç. © Oficina de Turisme de l'Arboç")
 
 ## 4\. L’Arboç/Arbós: el pueblo de la otra Giralda
 

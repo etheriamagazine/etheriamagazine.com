@@ -12,7 +12,7 @@ authors:
 
 Cada 19 de octubre, Día Internacional de la Lucha contra el Cáncer de Mama, el mundo se llena de grandes lazos rosas y afloran muchas emociones, sobre todo en aquellas personas que han perdido a un ser querido debido a esta enfermedad, que la padecen en ese momento o que la han superado. Este año llegamos a esa fecha con una nueva herramienta de prevención: ‘Te invito a un mojito’, un libro escrito por Paka Díaz y Mabel Lozano.
 
-![libro te invito a un mojito cancer de mama](https://fotos.etheriamagazine.com/2021/10/te-invito-a-un-mojito-668x1024.jpg "'Te invito a un mojito', un libro que aborda el cáncer de mama.")
+![libro te invito a un mojito cancer de mama](https://fotos.etheriamagazine.com/2021/10/te-invito-a-un-mojito.jpg "'Te invito a un mojito', un libro que aborda el cáncer de mama.")
 
 Una de las grandes cuentas pendientes en nuestro país, y en muchos otros, es la 
 prevención en materia de salud; en pocas ocasiones se toman medidas para mantenernos 

@@ -11,7 +11,7 @@ authors:
 
 Si este año el sur de Portugal vuelve a estar en tu punto de mira, sigue leyendo porque hemos elaborado un listado de 18 experiencias si viajas sola al Algarve. Además, han sido recomendadas por Fátima Catarina, vicepresidenta de Turismo de Algarve. ¡Qué más se puede pedir!
 
-![mujeres viajeras, viajar sola, Algarve, portugal](https://fotos.etheriamagazine.com/2020/07/viajar-sola-mujer-algarve-900x598.jpg "Viajar sola al Algarve. © Euamo Brasil")
+![mujeres viajeras, viajar sola, Algarve, portugal](https://fotos.etheriamagazine.com/2020/07/viajar-sola-mujer-algarve.jpg "Viajar sola al Algarve. © Euamo Brasil")
 
 El conocimiento local no sólo debe ser valorado por el viajero sino que tendría que 
 alcanzar el rango de “sagrado”, ya que nadie, por muchas veces que haya visitado un 
@@ -28,7 +28,7 @@ define un poquito de este destino que va más allá de sus [sorprendentes
 playas](https://etheriamagazine.com/2020/06/19/viajar-sola-playas-tranquilas-para-disfrutar-del-algarve/) 
 (de las que ya os hemos hablado). 
 
-![buceo, viajeras, viajar sola, algarve, portugal](https://fotos.etheriamagazine.com/2020/07/viajar-sola-algarve-Ilha-Deserta-900x661.jpg "La Ilha Deserta, en Algarve, es un buen lugar para iniciarse en el buceo.")
+![buceo, viajeras, viajar sola, algarve, portugal](https://fotos.etheriamagazine.com/2020/07/viajar-sola-algarve-Ilha-Deserta.jpg "La Ilha Deserta, en Algarve, es un buen lugar para iniciarse en el buceo.")
 
 ## Experiencias para viajeras en el Algarve 
 
@@ -51,7 +51,7 @@ al encuentro lugares sorprendentes como las cuevas de Benagil, la capilla Senhor
 Rocha, el pueblo pesquero de Ferragudo, el faro de Alfanzina y el arenal de Cova 
 Redonda, Carvoeiro y Albandeira. 
 
-![ruta siete vales suspensos, viajar sola, mujeres viajeras](https://fotos.etheriamagazine.com/2020/07/viajar-sola-7-Vales-Suspensos-900x675.jpg "Una ruta por estos acantilados es una experiencia inolvidable.")
+![ruta siete vales suspensos, viajar sola, mujeres viajeras](https://fotos.etheriamagazine.com/2020/07/viajar-sola-7-Vales-Suspensos.jpg "Una ruta por estos acantilados es una experiencia inolvidable.")
 
 ### 3. Dormir en un barco
 
@@ -72,7 +72,7 @@ Cuenta con cinco exposiciones a través de las cuales se perciben las huellas de
 pueblos que pasaron por allí, a veces talladas en piedra y otras como pinturas u objetos 
 procedentes de asentamientos romanos o islámicos. 
 
-![museo de faro, algarve, viajar sola](https://fotos.etheriamagazine.com/2020/07/viajar-sola-algarve-Museu-Faro-900x601.jpg "No te pierdas el Museo de Faro (Algarve).")
+![museo de faro, algarve, viajar sola](https://fotos.etheriamagazine.com/2020/07/viajar-sola-algarve-Museu-Faro.jpg "No te pierdas el Museo de Faro (Algarve).")
 
 ### 6\. Relájate en un spa termal
 
@@ -88,7 +88,7 @@ probar el **dom-rodrigo**, el **doce fino** (mazapán) con forma y colores de fr
 otros ricos pasteles del Algarve. Sin duda, esta es una de las experiencias si viajas 
 sola al Algarve que no se puede rechazar (y si viajas acompañada, ¡tampoco!) 
 
-![dom Rodrigo, dulces, algarve, viajar sola](https://fotos.etheriamagazine.com/2020/07/viajar-sola-algarve-Dom-Rodrigo-900x676.jpg "Un dom-rodrigo, una maravilla dulce. © Hélio Ramos")
+![dom Rodrigo, dulces, algarve, viajar sola](https://fotos.etheriamagazine.com/2020/07/viajar-sola-algarve-Dom-Rodrigo.jpg "Un dom-rodrigo, una maravilla dulce. © Hélio Ramos")
 
 ### 8\. Prueba los vinos locales
 
@@ -137,7 +137,7 @@ una cataplana (un tipo de olla portuguesa). Te animamos a que te apuntes a un **
 de cocina con cataplana** y amplíes tus conocimientos. Tu estómago y tu círculo más 
 cercano te agradecerán el conocimiento adquirido. 
 
-![cataplana, cocina portuguesa, algarve, viajar sola](https://fotos.etheriamagazine.com/2020/07/viajar-sola-portugal-Cataplana-900x600.jpg "Taller de cocina con cataplana. © Carlos Vidigal")
+![cataplana, cocina portuguesa, algarve, viajar sola](https://fotos.etheriamagazine.com/2020/07/viajar-sola-portugal-Cataplana.jpg "Taller de cocina con cataplana. © Carlos Vidigal")
 
 ### 14\. Un paseo para identificar aves
 

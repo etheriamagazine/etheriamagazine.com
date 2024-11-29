@@ -13,13 +13,13 @@ authors:
 
 Menorca es una invitación permanente al descanso y al relax y esa es su imagen más conocida. Es, además, uno de los destinos familiares más consolidados de Baleares. Pero, ¿y si a nosotras lo que nos gusta son los deportes activos y las rutas naturales? Menorca también ofrece muchas posibilidades para viajar con amigas en plan activo. ¡Os enumeramos unas cuantas!
 
-\[caption id="attachment\_6849" align="aligncenter" width="1024"\]![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-senderismo-1024x766.jpg "Menorca es una isla perfecta para practicar senderismo.") Menorca es una isla perfecta para practicar senderismo.\[/caption\]
+\[caption id="attachment\_6849" align="aligncenter" width="1024"\]![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-senderismo.jpg "Menorca es una isla perfecta para practicar senderismo.") Menorca es una isla perfecta para practicar senderismo.\[/caption\]
 
 Casi el 70 por ciento del territorio de [Menorca](http://www.menorca.es) está protegido, así que atrévete a ponerte en forma en este territorio de calas de arena blanca y aguas turquesa. Su imagen de marca está ligada a la naturaleza, la calma, la paz, el amor, la filosofía “slow”… y, a partir de ahora, también al deporte. La razón es que tres de sus “hijos” más sobresalientes se han hecho embajadores de la isla y están dispuestos a darlo todo para divulgar sus fortalezas como **destino turístico deportivo**. Se trata de **Gemma Triay**, jugadora de pádel campeona del mundo con la Selección Española; **Sergio Llull,** jugador del Real Madrid Baloncesto; y **Albert Torres**, campeón del mundo y europeo de ciclismo en pista. Los tres acaban de presentar Menorca como “la isla del deporte”.
 
 Y es que estamos ante un espacio ideal para la práctica deportiva, no sólo por su valioso patrimonio natural, declarado **Reserva de la Biosfera** hace 26 años, sino porque cuenta con un gran potencial en eventos deportivos de renombre. Este año, además, a la larga lista de maratones, “trails”, carreras ciclistas y regatas, se suma un evento de primera categoría que se celebrará en los próximos cuatro años en la isla: el **World Padel Tour**.
 
-\[caption id="attachment\_6845" align="aligncenter" width="1024"\]![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-Mapi-Majo-Sanchez-Alayeto-Finales-Lugo-Open-2018-World-Padel-Tour-1024x708.jpg "Mapi Majo Sánchez Alayeto. Finales Lugo Open 2018 - World Padel Tour.") Mapi Majo Sánchez Alayeto. Finales Lugo Open 2018 - World Padel Tour.\[/caption\]
+\[caption id="attachment\_6845" align="aligncenter" width="1024"\]![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-Mapi-Majo-Sanchez-Alayeto-Finales-Lugo-Open-2018-World-Padel-Tour.jpg "Mapi Majo Sánchez Alayeto. Finales Lugo Open 2018 - World Padel Tour.") Mapi Majo Sánchez Alayeto. Finales Lugo Open 2018 - World Padel Tour.\[/caption\]
 
 ##### Un calendario muy movido
 
@@ -27,7 +27,7 @@ A lo largo del año, Menorca da la bienvenida a centenares de deportistas llegad
 
 > Evidentemente, la isla da para la práctica deportiva y para mucho más, debido a las grandes oportunidades que ofrece al viajero. Sus calas y playas vírgenes son uno de sus grandes atractivos, pero no hay que olvidar tampoco su gastronomía, su artesanía o sus propuestas culturales ligadas a una historia milenaria por la que han desfilado grandes civilizaciones.
 
-##### ![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-natacion-1024x684.jpg "Competición de natación en Menorca.")
+##### ![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-natacion.jpg "Competición de natación en Menorca.")
 
 ##### Menorca: entre lagunas y barrancos
 
@@ -37,7 +37,7 @@ La **playa más conocida de Menorca es Son Bou**, pero su gran tamaño (2,5 kil�
 
 > La playa virgen más demandada es Cala Pregonda, pero hay otras muchas rivales que le hacen competencia, como Cavalleria, Cala Pilar, Cala Tortuga, Binigaus o Arenal de Son Saura
 
-\[caption id="attachment\_6844" align="aligncenter" width="1024"\]![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-JordiSaragossa-1024x683.jpg "Recorrer el perímetro de la isla en bicicleta también es hacer turismo.") Volta a Menorca en BTT. © Jordi Saragossa\[/caption\]
+\[caption id="attachment\_6844" align="aligncenter" width="1024"\]![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-JordiSaragossa.jpg "Recorrer el perímetro de la isla en bicicleta también es hacer turismo.") Volta a Menorca en BTT. © Jordi Saragossa\[/caption\]
 
 ##### El Camí de Cavalls, un camino que da la vuelta a la isla
 
@@ -45,7 +45,7 @@ Una forma muy recomendable para descubrir Menorca es seguir el **Camí de Cavall
 
 Las autoridades turísticas de la isla lo tienen claro y están poniendo todo su esfuerzo en gritarlo a los cuatro vientos. **Menorca es un destino inmejorable para la práctica del deporte al aire libre**. Hay propuestas para disfrutar con el kayak y acceder a rincones escondidos del litoral; con el submarinismo y la vela –hay cursos adaptados a cada nivel en el puerto de Maó y en la bahía de Fornells-, con el windsurf, el stand up paddle, el senderismo, el “trail running”, el golf, las rutas ecuestres, etc.
 
-\[caption id="attachment\_6847" align="aligncenter" width="1024"\]![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-mercado-1024x687.jpg "No te pierdas los mercados de Menorca.") No te pierdas los mercados de Menorca.\[/caption\]
+\[caption id="attachment\_6847" align="aligncenter" width="1024"\]![viaje deportivo, viaje menorca, rutas activas en menorca](https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-mercado.jpg "No te pierdas los mercados de Menorca.") No te pierdas los mercados de Menorca.\[/caption\]
 
 ##### Paseos en Menorca con menos adrenalina
 
