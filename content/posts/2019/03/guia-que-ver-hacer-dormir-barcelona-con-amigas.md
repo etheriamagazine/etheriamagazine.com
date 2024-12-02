@@ -277,6 +277,10 @@ apartamentos con todas las comodidades.
 
 **Fotografías: © Félix Lorenzo.** 
 
+<!--
+<iframe class="civitatis-iframe" src="https://www.civitatis.com/widget-activities/?affiliated=10211&amp;display=compact&amp;cant=2&amp;lang=es&amp;currency=EUR&amp;destination=35&amp;width=100%" width="100%" height="150" frameborder="0"></iframe>
+-->
+
 ### También te puede interesar:
 
 [10 planes originales para hacer con amigas en 

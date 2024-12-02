@@ -97,4 +97,8 @@ albergue de esta cadena con los mismos estándares.
 Bluesock Hostel Porto 
 
 Categoría: hostel Dirección: São João, 40. Oporto. Reservas: Tel. +351 22 766 4171 
-Fotos: ©Bluesock Hostel Porto
+Fotos: ©Bluesock Hostel Porto 
+
+<!--
+<iframe class="civitatis-iframe" style="max-width: 100%;" src="https://www.civitatis.com/widget-activities/?affiliated=10211&amp;display=compact&amp;cant=2&amp;lang=es&amp;currency=EUR&amp;destination=25&amp;width=100%&amp;removeBackground=1" width="100%" height="150" frameborder="0" data-maxwidth="100%"></iframe>
+-->
