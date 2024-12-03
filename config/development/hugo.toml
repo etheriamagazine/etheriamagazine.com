@@ -1,5 +1,8 @@
 [build]
 
+  [build.buildStats]
+    enable = true
+
   [[build.cachebusters]]
     source = "layouts/.*"
     target = "css"
