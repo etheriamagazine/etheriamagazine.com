@@ -2,12 +2,12 @@
 # hugo site build
 # See https://docker.hugomods.com/docs/introduction/
 
-FROM hugomods/hugo:go AS hugo
+FROM hugomods/hugo:go AS hugo # alpine derivative
 
 ARG BUN_VERSION=1.0.15
 
 # Install Bun in the specified version
-RUN apt update && apt install -y bash curl unzip && \
+RUN apk update && apk --no-cache add bash curl unzip  && \
  curl https://bun.sh/install | bash -s -- bun-v${BUN_VERSION}
 
 ENV PATH="${PATH}:/root/.bun/bin"
