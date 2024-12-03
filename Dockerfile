@@ -2,12 +2,21 @@
 # hugo site build
 # See https://docker.hugomods.com/docs/introduction/
 
-FROM hugomods/hugo:latest AS hugo
+FROM hugomods/hugo:go AS hugo
 
+ARG BUN_VERSION=1.0.15
+
+# Install Bun in the specified version
+RUN apt update && apt install -y bash curl unzip && \
+ curl https://bun.sh/install | bash -s -- bun-v${BUN_VERSION}
+
+ENV PATH="${PATH}:/root/.bun/bin"
+
+# copy source
 COPY . /src
 
-# install dev dependencies
-RUN npm install
+RUN bun install --frozen-lockfile
+
 
 # run hugo passing secrets
 RUN \
@@ -15,7 +24,17 @@ RUN \
     --mount=type=secret,id=HUGO_IMGPROXY_SALT \
     HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" \
     HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
-    hugo --minify --enableGitInfo --ignoreCache
+    hugo --minify --enableGitInfo
+
+# create index
+RUN bun run pagefind
+
+RUN \
+    --mount=type=secret,id=HUGO_IMGPROXY_KEY \
+    --mount=type=secret,id=HUGO_IMGPROXY_SALT \
+    HUGO_IMGPROXY_KEY="$(cat /run/secrets/HUGO_IMGPROXY_KEY)" \
+    HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
+    hugo --minify --enableGitInfo
 
 # ==============================================================================
 # final image

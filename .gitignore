@@ -8,6 +8,9 @@ resources/_gen
 .hugo_build.lock
 hugo_stats.json
 
+# pagefind output
+static/pagefind
+
 # npm packages
 node_modules
 
