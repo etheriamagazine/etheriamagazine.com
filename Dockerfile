@@ -2,21 +2,20 @@
 # hugo site build
 # See https://docker.hugomods.com/docs/introduction/
 
-FROM hugomods/hugo:go AS hugo # alpine derivative
+# Alpine Linux based image
+FROM hugomods/hugo:latest AS hugo
 
-ARG BUN_VERSION=1.0.15
-
-# Install Bun in the specified version
+# install bun
 RUN apk update && apk --no-cache add bash curl unzip  && \
- curl https://bun.sh/install | bash -s -- bun-v${BUN_VERSION}
+ curl https://bun.sh/install | bash
 
 ENV PATH="${PATH}:/root/.bun/bin"
 
 # copy source
 COPY . /src
 
+# install deps
 RUN bun install --frozen-lockfile
-
 
 # run hugo passing secrets
 RUN \
@@ -26,9 +25,10 @@ RUN \
     HUGO_IMGPROXY_SALT="$(cat /run/secrets/HUGO_IMGPROXY_SALT)" \
     hugo --minify --enableGitInfo
 
-# create index
+# build pagefind index
 RUN bun run pagefind
 
+# rerun hugo to include built index
 RUN \
     --mount=type=secret,id=HUGO_IMGPROXY_KEY \
     --mount=type=secret,id=HUGO_IMGPROXY_SALT \
@@ -38,6 +38,7 @@ RUN \
 
 # ==============================================================================
 # final image
+
 FROM oven/bun:latest
 
 # copy bun app
