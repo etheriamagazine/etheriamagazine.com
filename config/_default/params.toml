@@ -19,16 +19,8 @@
   ]
 
 # advertising
-[publi]
-  items = ["publi/2023-polonia", "publi/2024-biofest", "publi/2022-getxo"]
-
 [ads]
-  section = "publicidad"
-  [ads.placement]
-    side = ["2023-polonia", "2024-biofest"]
-    before = []
-    inside = []
-    after = []
+  adsSection = "publi"
 
 
 [imgproxy]
