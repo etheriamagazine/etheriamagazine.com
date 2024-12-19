@@ -175,10 +175,10 @@ Chambord](https://www.civitatis.com/es/chambord/entrada-castillo-chambord/?aid=1
 ### Guía Valle del Loira en coche| Etheria Magazine
 
 Si tienes más días y no quieres ver sólo castillos, puedes combinar una ruta por el 
-Valle del Loira con una estancia en [París](http://etheriamagazine.com/2018/08/02/viaje-de-compras-le-marais-paris/), 
-una visita a [Futuroscope](http://etheriamagazine.com/2018/08/24/10-consejos-futuroscope/) 
+Valle del Loira con una estancia en [París](https://etheriamagazine.com/2018/08/02/viaje-de-compras-le-marais-paris/), 
+una visita a [Futuroscope](https://etheriamagazine.com/2018/08/24/10-consejos-futuroscope/) 
 o unos días en [La 
-Rochelle](http://etheriamagazine.com/2018/09/18/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re/). 
+Rochelle](https://etheriamagazine.com/2018/09/18/guia-de-fin-de-semana-en-la-rochelle-y-la-isla-de-re/). 
 
 Para alojarte en Amboise hay hoteles con encanto que ocupan antiguos palacios y casas 
 señoriales. Uno muy recomendable es le [Manoir 

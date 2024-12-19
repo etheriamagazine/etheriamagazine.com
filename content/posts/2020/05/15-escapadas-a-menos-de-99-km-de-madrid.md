@@ -176,7 +176,7 @@ más viejo de Madrid, o **Las Presillas**, ideales para refrescarse en verano.
 La ciudad de **Segovia** se encuentra a 96 km de Madrid, a 30 minutos en tren. Alberga 
 el **acueducto romano** más famoso del mundo. Su esbelta figura se compone por grandes 
 sillares de piedra que no precisan de material que los una. En el imaginario colectivo, 
-la silueta del [Alcázar](http://etheriamagazine.com/2020/03/11/que-ver-interior-precio-entradas-del-alcazar-de-segovia/) 
+la silueta del [Alcázar](https://etheriamagazine.com/2020/03/11/que-ver-interior-precio-entradas-del-alcazar-de-segovia/) 
 de Segovia recuerda al castillo de la Cenicienta de **Walt Disney** y es uno de los 
 monumentos más visitados de España. No te vayas de la ciudad sin probar el cochinillo de 
 Cándido o el de José María. 

@@ -1,5 +1,5 @@
 ---
-title: "Alemania vive, saborea y disfruta de la Navidad"
+title: "Descubre las tradiciones navideñas de Alemania"
 date: 2020-11-30
 coverImage: https://fotos.etheriamagazine.com/2020/11/alemania-navidad-pastas.jpg
 categories: 
@@ -9,9 +9,15 @@ authors:
   - Redacción Etheria
 ---
 
-La Navidad en Alemania no es solo un periodo del año, es un sentimiento capaz de llenar todos los rincones y vestirlo de luces, ilusión, aromas y música. Aunque no haya mercadillos este 2020, los hogares alemanes seguirán fieles a unas tradiciones centenarias que se siguen perpetuando de padres a hijos.
+La Navidad en Alemania no es solo un periodo del año, es un sentimiento capaz de llenar 
+todos los rincones y vestirlo de luces, ilusión, aromas y música. Los hogares alemanes 
+siguen fieles a unas tradiciones centenarias que se siguen perpetuando de padres a 
+hijos, y la mejor manera de conocer ese sentimiento es visitar sus ciudades y 
+mercadillos en el bonito periodo de Adviento. 
 
 ![galletas de navidad en alemania](https://fotos.etheriamagazine.com/2020/11/alemania-navidad-pastas.jpg "Preparando galletas navideñas. © GNTB/ Getty Images/ GMVozd")
+
+**Actualizado 12/2024** 
 
 Cada país conserva en la memoria colectiva un puñado de tradiciones que es legado de 
 generación en generación, a veces de una forma íntegra y otras con pequeñas matizaciones 

@@ -100,7 +100,7 @@ finales de agosto. Aunque tampoco estaría mal hacer las visitas en Halloween, q
 preparan una edición especial más terrorífica. Al salir, camina hasta el coqueto casco 
 viejo del pueblo. 
 
-[![Interior de la Cueva de las Güixas en la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-guixas.jpg "Interior de la Cueva de las Güixas.")](http://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/jacetania-guixas/)
+[![Interior de la Cueva de las Güixas en la Jacetania](https://fotos.etheriamagazine.com/2019/09/Jacetania-guixas.jpg "Interior de la Cueva de las Güixas.")](https://etheriamagazine.com/2019/09/25/viaja-sola-a-los-valles-de-la-jacetania-huesca/jacetania-guixas/)
 
 ## Canfranc, la historia de una estación
 

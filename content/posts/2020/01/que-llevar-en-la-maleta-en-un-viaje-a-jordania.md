@@ -113,7 +113,7 @@ los compañeros de aventura pueden impedirte descansar.
 ## 7\. Neceser y botiquín de viaje
 
 En el [neceser de 
-viaje](http://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/) 
+viaje](https://etheriamagazine.com/2019/10/10/10-neceseres-viaje-o-regalos-para-mujeres-viajeras/) 
 debes incluir gel-champú de baño (los hay en láminas), crema hidratante y bálsamo 
 labial. Si vas a necesitar tampones es mejor que te los lleves porque resulta difícil 
 encontrarlos. También son fundamentales: protector solar, spray antimosquitos, toallitas 

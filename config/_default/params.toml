@@ -25,14 +25,9 @@
 [ads]
   section = "publicidad"
   [ads.placement]
-    side = [
-      "2023-polonia",
-      "2024-biofest"
-    ]
-    before = [
-    ]
-    inside = [
-    ]
+    side = ["2023-polonia", "2024-biofest"]
+    before = []
+    inside = []
     after = []
 
 
@@ -76,3 +71,37 @@
   [[subscribe.lists]]
     id = "3yExM8x4"
     label = "Marketing"
+
+
+[navigation]
+  travelInterests = [
+    "viajar-sola",
+    "viajes-con-amigas",
+    "viajes-romanticos",
+    "viaje-en-familia",
+    "viajes-urbanos",
+    "viajes-cine",
+    "viajes-ecoturismo",
+    "viajes-gastronomicos",
+  ]
+
+  travelPlanning = [
+    "mejores-restaurantes-gastronomia",
+    "hoteles",
+    "bienestar-belleza",
+    "experiencias-viajeras",
+    "regalos-compras-viajeras",
+    "que-llevar-en-la-maleta",
+    "mi-peor-viaje",
+  ]
+
+  plansAndCulture = [
+    "planes-originales-para-mujeres",
+    "exposiciones",
+    "festivales",
+    "libros-de-viajes",
+    "parques-ocio",
+    "visitas-guiadas",
+    "de-un-vistazo",
+    "viajes-48-horas",
+  ]

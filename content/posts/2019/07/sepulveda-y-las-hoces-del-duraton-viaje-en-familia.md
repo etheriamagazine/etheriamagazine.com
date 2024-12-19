@@ -131,7 +131,7 @@ Vado del Duratón** (vadodelduraton.com) o alguna de sus casas rurales
 
 Sepúlveda es conocida por sus excelentes asadores de lechazo. Acertarás seguro con El 
 Fogón de Tinín (uno de nuestros asadores elegidos en la [ruta del 
-lechazo](http://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/)) 
+lechazo](https://etheriamagazine.com/2019/04/25/viajar-con-amigas-ruta-del-lechazo-mejores-asadores-castilla-y-leon/)) 
 o El Figón de Ismael. Eso sí, reserva con tiempo. Para tomar el aperitivo, es 
 obligatoria una parada en La Cocina de Paulino para probar sus pinchos y, para merendar, 
 no podrás evitar pecar con las pastas tradicionales y las tortas de nueces de la 
