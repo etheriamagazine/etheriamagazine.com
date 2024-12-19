@@ -63,5 +63,5 @@ La distribución, modificación, cesión o comunicación pública de los conteni
 
 ## Copyright
 
-Copyright 2018-2024 Marakanda Comunicación, S.L.  
+Copyright 2018-2025 Marakanda Comunicación, S.L.  
 Todos los derechos reservados.
