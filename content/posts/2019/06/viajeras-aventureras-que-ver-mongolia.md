@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Paisano-en-
 categories: 
   - viajar-sola
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Ana Vara y David Santiago
 ---

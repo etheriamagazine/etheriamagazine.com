@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-nueva-york
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

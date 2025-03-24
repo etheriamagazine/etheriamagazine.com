@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/12/Molino-castillo-consuegra.
 categories: 
   - viajar-en-familia
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

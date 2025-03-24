@@ -4,6 +4,8 @@ date: 2023-09-20
 coverImage: https://fotos.etheriamagazine.com/2023/09/praga-otono.jpg
 categories: 
   - ocio
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

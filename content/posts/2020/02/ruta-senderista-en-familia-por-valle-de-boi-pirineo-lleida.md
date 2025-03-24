@@ -6,7 +6,7 @@ categories:
   - viajar-en-familia
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Firmas invitadas
 ---

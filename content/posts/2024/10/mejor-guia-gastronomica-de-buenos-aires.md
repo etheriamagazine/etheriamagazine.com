@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2024/10/buenos-aires-restaurante-t
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Elisabeth G. Iborra
 ---

@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2021/06/verbena-de-san-antonio-mad
 categories: 
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Carmen Pineda
 ---

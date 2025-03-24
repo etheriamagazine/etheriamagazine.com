@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/07/Apertura-Jordania-cine-Wad
 categories: 
   - viajar-con-amigas
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Eva Madruga
 ---

@@ -5,6 +5,8 @@ coverImage: https://fotos.etheriamagazine.com/2019/03/Estambul-La-Mequita-Azul.j
 categories: 
   - inspiración
   - ocio
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

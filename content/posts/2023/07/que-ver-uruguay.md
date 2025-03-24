@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo.j
 categories: 
   - viajar-con-amigas
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

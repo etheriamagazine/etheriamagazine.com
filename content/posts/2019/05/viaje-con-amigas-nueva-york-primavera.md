@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/05/Nueva-York-primavera-Centr
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Macarena Escrivá
 ---

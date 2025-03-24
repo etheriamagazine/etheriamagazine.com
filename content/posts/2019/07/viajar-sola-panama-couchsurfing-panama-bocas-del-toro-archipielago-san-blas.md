@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/06/Panama-San-Blas-isla-diabl
 categories: 
   - viajar-sola
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Elisabeth G. Iborra
 ---

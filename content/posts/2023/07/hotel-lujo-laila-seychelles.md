@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2023/06/laila-Seychelles-Senior-Su
 categories: 
   - hoteles
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

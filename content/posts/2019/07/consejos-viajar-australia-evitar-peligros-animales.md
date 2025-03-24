@@ -7,7 +7,7 @@ categories:
   - inspiración
   - ocio
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Elisabeth G. Iborra
 ---

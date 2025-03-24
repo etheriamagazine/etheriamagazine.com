@@ -6,7 +6,7 @@ categories:
   - inspiración
   - ocio
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Susana García
 ---

@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/10/viaje-amigas-tailandia-Coc
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/06/Tulum-con-amigas-barca.jpg
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Macarena Escrivá
 ---

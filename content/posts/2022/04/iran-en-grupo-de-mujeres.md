@@ -6,7 +6,7 @@ categories:
   - mujeres-top
   - proyectos
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

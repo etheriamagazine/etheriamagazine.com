@@ -3,7 +3,7 @@ title: "Cómo disfrutar de Brasil sin mitos ni prejuicios"
 date: 2018-11-26
 coverImage: https://fotos.etheriamagazine.com/2018/11/Brasil-cristo-redentor.jpg
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Elisabeth G. Iborra
 ---

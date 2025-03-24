@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-puglia-trani-puerto.
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Kelu Robles
 ---

@@ -6,7 +6,7 @@ categories:
   - historias
   - cultura
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pilar Ortega
 ---

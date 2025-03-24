@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/11/Le-domaine-Desayuno-Jardí
 categories: 
   - hoteles
 destino: 
-  - España
+  - Mundo
 authors: 
   - Susana García
 ---

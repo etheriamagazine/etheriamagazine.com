@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/07/Abigail-Siguenza-mujer-eth
 categories: 
   - mujeres-top
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

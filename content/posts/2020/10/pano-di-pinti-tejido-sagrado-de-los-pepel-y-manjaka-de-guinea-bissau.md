@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2020/10/telares-etnias-guinea-biss
 categories: 
   - compras
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

@@ -4,7 +4,7 @@ date: 2019-10-17
 categories: 
   - sorteos
 destino: 
-  - España
+  - Mundo
 authors: 
   - Etheria Magazine
 ---

@@ -3,7 +3,7 @@ title: "Chipre, descubre el misterio de su zona turca"
 date: 2023-03-17
 coverImage: https://fotos.etheriamagazine.com/2023/03/Chipre-Ruinas-de-Salamina.jpg
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

@@ -6,7 +6,7 @@ categories:
   - viajar-con-amigas
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

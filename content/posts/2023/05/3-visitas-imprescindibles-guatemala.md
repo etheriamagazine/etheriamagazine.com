@@ -6,7 +6,7 @@ categories:
   - viajar-sola
   - historias
 destino: 
-  - España
+  - Mundo
 authors: 
   - Sania Jelic
 ---

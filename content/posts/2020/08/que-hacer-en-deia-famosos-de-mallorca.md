@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2020/08/que-ver-deia-mallorca.jpg
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

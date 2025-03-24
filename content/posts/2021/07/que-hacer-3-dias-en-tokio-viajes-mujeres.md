@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2021/07/tokio-japon.jpg
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Susana García
 ---

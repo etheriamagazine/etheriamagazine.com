@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/04/viaje-armenia-templo-garni
 categories: 
   - inspiración
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Juan Carlos y Mar
 ---

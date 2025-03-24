@@ -3,7 +3,7 @@ title: "Camino de Santiago por la Ría de Muros-Noia, una aventura a toda vela"
 date: 2021-07-14
 coverImage: https://fotos.etheriamagazine.com/2021/07/camino-santiago-ria-muros-noia-velero.jpg
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

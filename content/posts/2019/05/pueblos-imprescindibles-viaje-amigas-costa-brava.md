@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/05/Calella-de-Palafrugel-viaj
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Yvonne Solé
 ---

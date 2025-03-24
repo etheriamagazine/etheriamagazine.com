@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2024/10/peregrino-pedrafita.jpg
 categories: 
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

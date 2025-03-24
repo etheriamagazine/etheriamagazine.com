@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/04/Chef-Esperanza-Lithgow.jpg
 categories: 
   - gourmet
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

@@ -7,7 +7,7 @@ categories:
   - cultura
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

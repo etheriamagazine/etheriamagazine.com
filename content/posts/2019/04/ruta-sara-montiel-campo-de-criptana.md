@@ -17,14 +17,14 @@ gastronómicos y en las huellas que nos dejó la diva del cuplé.
 
 ![Museo de Sara Montiel en Campo de Criptana.](https://fotos.etheriamagazine.com/2019/04/Sara-montiel-campo-criptana.jpg "Museo de Sara Montiel en Campo de Criptana.")
 
-\*Actualizado en enero de 2023. 
+\*Actualizado en 2025 
 
-Ya van ocho años sin escuchar su paladeado “Pe-ro-qué-in-ven-to-es-es-to”, sin oírle 
-relatar, por millonésima vez, cómo enseñó a Marlon Brando a hacer unos **huevos con 
-puntilla**. Y si el show televisivo lo requería, se remangaba ante las cámaras, cortaba 
-unos ajos manchegos y los ponía a chisporrotear sobre una sartén con aceite (_Con las 
-Manos en la Masa_, TVE, 1987), demostrando que ser diva no está reñido con que manos y 
-sortijas te huelan a ajo durante el resto del día. 
+Ya van casi doce años sin escuchar su paladeado “Pe-ro-qué-in-ven-to-es-es-to”, sin 
+oírle relatar, por millonésima vez, cómo enseñó a Marlon Brando a hacer unos **huevos 
+con puntilla**. Y si el show televisivo lo requería, se remangaba ante las cámaras, 
+cortaba unos ajos manchegos y los ponía a chisporrotear sobre una sartén con aceite 
+(_Con las Manos en la Masa_, TVE, 1987), demostrando que ser diva no está reñido con que 
+manos y sortijas te huelan a ajo durante el resto del día. 
 
 **Sara Montiel** reunía muchas de las condiciones que marcan la diferencia entre una 
 artista y un mito, pero quizá —y sobre todo— encarnó esa ambivalencia entre lo divino 
@@ -55,7 +55,7 @@ la cultura nipona**.
 > La ruta País del Quijote nos introduce en los escenarios reales por los que caminaba 
 > nuestro personaje de ficción cervantino más universal. 
 
-![La cantante Rosalía ha protagonizado uno de sus videoclips entre los molinos de Campo de Criptana.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-molinos.jpg "La cantante Rosalía ha protagonizado uno de sus videoclips entre los molinos de Campo de Criptana. © K.R.")
+![La cantante Rosalía ha protagonizado uno de sus videoclips entre los molinos de Campo de Criptana.](https://fotos.etheriamagazine.com/2019/04/campo-criptana-molinos.jpg "La cantante Rosalía ha grabado uno de sus videoclips entre los molinos de Campo de Criptana. © K.R.")
 
 Una vez al mes, las aspas y los engranajes del Burleta se ponen de nuevo en 
 funcionamiento para ilustrar cómo se efectuaba la **molienda tradicional de trigo y 

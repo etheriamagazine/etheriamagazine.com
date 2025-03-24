@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/08/iberostar-perast-montenegr
 categories: 
   - hoteles
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

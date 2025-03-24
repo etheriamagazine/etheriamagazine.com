@@ -6,7 +6,7 @@ categories:
   - viajar-con-amigas
   - inspiración
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

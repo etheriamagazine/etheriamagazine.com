@@ -4,6 +4,8 @@ date: 2019-03-05
 coverImage: https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg
 categories: 
   - hoteles
+destino: 
+  - Mundo
 authors: 
   - Susana García
 ---

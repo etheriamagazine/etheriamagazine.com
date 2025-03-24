@@ -4,6 +4,8 @@ date: 2019-08-28
 coverImage: https://fotos.etheriamagazine.com/2019/07/Nueva-Zelanda-lago-Tongariro.jpg
 categories: 
   - viajar-sola
+destino: 
+  - Mundo
 authors: 
   - Elisabeth G. Iborra
 ---

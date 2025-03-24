@@ -5,6 +5,8 @@ coverImage: https://fotos.etheriamagazine.com/2022/05/mdjem-baile-africa-Bonaber
 categories: 
   - mujeres-top
   - proyectos
+destino: 
+  - Mundo
 authors: 
   - Firmas invitadas
 ---

@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/10/ganges-varanasi-mujeres-in
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Cristina R. Bareño
 ---

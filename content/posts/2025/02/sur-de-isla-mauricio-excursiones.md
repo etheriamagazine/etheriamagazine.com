@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2025/02/isla-mauricio-mar.jpg
 categories: 
   - viajar-en-pareja
 destino: 
-  - España
+  - Mundo
 authors: 
   - Susana García
 ---

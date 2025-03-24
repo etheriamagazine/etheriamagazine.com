@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/12/sudafrica-Elandsberg.jpg
 categories: 
   - hoteles
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

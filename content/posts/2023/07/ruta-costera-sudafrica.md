@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2023/07/desierto-sudafrica-flores-
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Juan Carlos y Mar
 ---

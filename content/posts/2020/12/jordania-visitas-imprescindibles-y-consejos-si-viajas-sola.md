@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2020/12/viajar-sola-jordania-tesor
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

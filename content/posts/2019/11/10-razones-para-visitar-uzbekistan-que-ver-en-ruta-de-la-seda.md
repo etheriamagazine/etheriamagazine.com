@@ -6,7 +6,7 @@ categories:
   - inspiración
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Ana Vara y David Santiago
 ---

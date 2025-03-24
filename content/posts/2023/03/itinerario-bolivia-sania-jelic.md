@@ -6,7 +6,7 @@ categories:
   - viajar-sola
   - mujeres-top
 destino: 
-  - España
+  - Mundo
 authors: 
   - Sania Jelic
 ---

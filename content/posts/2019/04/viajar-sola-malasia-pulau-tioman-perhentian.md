@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/04/Malasia-puerto-isla-Perhen
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Ana Vara y David Santiago
 ---

@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2024/04/nueva-york-harlem-casas.jp
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Susana García
 ---

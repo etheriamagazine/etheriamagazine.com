@@ -3,7 +3,7 @@ title: "Dos días en El Cairo, entre la historia y el caos"
 date: 2023-08-16
 coverImage: https://fotos.etheriamagazine.com/2023/08/egipto-cairo-piramides-kefren-chicas.jpg
 destino: 
-  - España
+  - Mundo
 authors: 
   - Susana García
 ---

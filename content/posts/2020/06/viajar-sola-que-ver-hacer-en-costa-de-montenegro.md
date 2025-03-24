@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2020/06/Montenegro-Sveti-Stefan-ma
 categories: 
   - viajar-sola
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Marina Paul
 ---

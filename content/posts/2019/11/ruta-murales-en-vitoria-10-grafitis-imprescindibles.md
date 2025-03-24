@@ -7,7 +7,7 @@ categories:
   - inspiración
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Juan Carlos y Mar
 ---

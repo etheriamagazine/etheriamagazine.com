@@ -3,7 +3,7 @@ title: "Tiébélé, el pueblo burkinés pintado sólo por mujeres"
 date: 2022-04-11
 coverImage: https://fotos.etheriamagazine.com/2022/04/tiebele-calles-Burkina-Faso.jpg
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

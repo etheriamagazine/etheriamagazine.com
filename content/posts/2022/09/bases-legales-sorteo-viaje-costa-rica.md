@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/09/playa-cocles-gandoca.jpg
 categories: 
   - sorteos
 destino: 
-  - España
+  - Mundo
 authors: 
   - Etheria Magazine
 ---

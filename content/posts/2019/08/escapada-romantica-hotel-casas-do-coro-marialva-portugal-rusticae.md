@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/07/Casas-do-coro-piscina.jpg
 categories: 
   - hoteles
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

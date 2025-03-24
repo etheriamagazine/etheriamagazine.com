@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-K
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

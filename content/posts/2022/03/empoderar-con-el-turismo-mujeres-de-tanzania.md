@@ -7,7 +7,7 @@ categories:
   - mujeres-top
   - proyectos
 destino: 
-  - España
+  - Mundo
 authors: 
   - Firmas invitadas
 ---

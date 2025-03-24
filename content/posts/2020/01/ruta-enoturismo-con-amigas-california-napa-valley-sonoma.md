@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/12/bodegas-california-Francis
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

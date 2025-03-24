@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-man
 categories: 
   - viajar-en-familia
 destino: 
-  - España
+  - Mundo
 authors: 
   - Susana García
 ---

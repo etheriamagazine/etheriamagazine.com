@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/04/Rep-Dominicana-Bayahibe.jp
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

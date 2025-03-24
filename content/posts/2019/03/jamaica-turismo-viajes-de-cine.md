@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/03/jamaica-mujeres-viajeras.j
 categories: 
   - viajar-con-amigas
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Eva Madruga
 ---

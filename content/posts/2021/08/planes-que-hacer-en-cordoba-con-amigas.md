@@ -12,7 +12,10 @@ authors:
   - Redacción Etheria
 ---
 
-La ciudad de Córdoba tiene que ser una de tus primeras opciones si estás planeando una escapada con amigas. Lo tiene todo: arte, cultura, gastronomía y es muy accesible gracias al AVE. Aquí te damos diez planes para ayudarte a planificar un fin de semana o un puente que será memorable.
+La ciudad de Córdoba tiene que ser una de tus primeras opciones si estás planeando una 
+escapada con amigas. Lo tiene todo: arte, cultura, gastronomía y es muy accesible 
+gracias al AVE. Aquí te damos diez planes para ayudarte a planificar un fin de semana o 
+un puente que será memorable. 
 
 ![El Puente Romano de Córdoba al atardecer.](https://fotos.etheriamagazine.com/2021/08/cordoba-puente.jpg "El Puente Romano de Córdoba al atardecer.")
 
@@ -64,7 +67,8 @@ En la [web del Alcázar](https://alcazardelosreyescristianos.cordoba.es/?id=3) s
 encuentran disponibles los horarios y precios. También podéis reservar una [visita 
 guiada con 
 Civitatis](https://www.civitatis.com/es/cordoba/visita-guiada-alcazar-cordoba/?aid=10211), 
-perfecta para descubrir todas las leyendas que rodean a este lugar lleno de historia. 
+perfecta para descubrir todas las leyendas que rodean a este lugar lleno de historia. O 
+combinar en una misma visita la Mezquita y el Alcázar, también con [Civitatis](https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-alcazar/?aid=10211). 
 
 ## Una excursión a Medina Azahara
 
@@ -117,7 +121,9 @@ torre de la catedral al fondo.
 Podéis consultar los que están abiertos en la [página web de Turismo de 
 Córdoba](https://www.turismodecordoba.org/visitar-patios-de-cordoba-1) o apuntaros a una [visita 
 guiada por los 
-patios](https://www.civitatis.com/es/cordoba/visita-guiada-patios-cordoba/?aid=10211). 
+patios](https://www.civitatis.com/es/cordoba/visita-guiada-patios-cordoba/?aid=10211) o [comprar 
+la entrada](https://www.civitatis.com/es/cordoba/entrada-patios-cordoba/?aid=10211) para 
+verlos a vuestro aire. 
 
 ## Una visita del Palacio de Viana
 
@@ -192,7 +198,7 @@ Córdoba](https://www.civitatis.com/es/cordoba/espectaculo-flamenco/?aid=10211).
 
 ![Flamenco en Córdoba](https://fotos.etheriamagazine.com/2021/08/cordoba-flamenco.jpg "En Córdoba no te puedes perder un espectáculo de flamenco.")
 
-### Más viajes con amigas en Etheria Magazine
+**Más viajes con amigas en Etheria Magazine:** 
 
 [10 planes para un viaje a Tenerife con 
 amigas](https://etheriamagazine.com/2021/05/17/viaje-a-tenerife-con-amigas-que-hacer-excursiones/) 

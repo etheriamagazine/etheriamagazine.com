@@ -6,7 +6,7 @@ categories:
   - viajar-en-familia
   - inspiración
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Susana García
 ---

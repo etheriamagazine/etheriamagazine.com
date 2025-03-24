@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/03/miami-The-Nature-Conservan
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

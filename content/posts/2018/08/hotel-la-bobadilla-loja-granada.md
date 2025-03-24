@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica.jp
 categories: 
   - hoteles
 destino: 
-  - España
+  - Mundo
 authors: 
   - Susana García
 ---

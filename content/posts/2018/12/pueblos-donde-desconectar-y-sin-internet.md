@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/12/Viu-de-linas-etheria-magaz
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Kelu Robles
 ---

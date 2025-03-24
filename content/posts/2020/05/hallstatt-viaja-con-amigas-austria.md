@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2020/05/Hallstatt-iglesia-embarcad
 categories: 
   - viajar-en-pareja
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Elena Ortega
 ---

@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/07/cinque-terre.jpg
 categories: 
   - viajar-con-amigas
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

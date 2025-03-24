@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2021/04/Barcelo-bavaro-palace-play
 categories: 
   - hoteles
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

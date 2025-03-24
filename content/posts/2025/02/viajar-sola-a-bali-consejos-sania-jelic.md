@@ -6,7 +6,7 @@ categories:
   - historias
   - mujeres-top
 destino: 
-  - España
+  - Mundo
 authors: 
   - Sania Jelic
 ---

@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/05/5-1.jpg
 categories: 
   - inspiración
 destino: 
-  - España
+  - Mundo
 authors: 
   - Eva Madruga
 ---

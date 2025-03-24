@@ -6,7 +6,7 @@ categories:
   - inspiración
   - qué-llevar-en-la-maleta
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

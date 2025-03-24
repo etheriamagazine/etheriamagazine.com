@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2021/07/hotel-villa-rosario-palaci
 categories: 
   - hoteles
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

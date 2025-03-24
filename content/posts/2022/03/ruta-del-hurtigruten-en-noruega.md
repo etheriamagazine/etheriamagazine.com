@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/02/noruega-El-Expreso-del-Lit
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

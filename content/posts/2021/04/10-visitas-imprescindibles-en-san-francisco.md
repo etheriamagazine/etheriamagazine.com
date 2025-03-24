@@ -7,7 +7,7 @@ categories:
   - inspiración
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

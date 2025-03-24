@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/03/crucero-patagonia-chile.jp
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Elisabeth G. Iborra
 ---

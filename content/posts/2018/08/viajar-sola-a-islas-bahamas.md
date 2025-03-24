@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-faro-l
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

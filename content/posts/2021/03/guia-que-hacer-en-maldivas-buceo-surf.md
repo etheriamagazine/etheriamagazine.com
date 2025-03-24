@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/10/Maldivas-playa.jpg
 categories: 
   - viajar-en-familia
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Kris Ubach
 ---

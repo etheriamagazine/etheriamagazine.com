@@ -6,7 +6,7 @@ categories:
   - cultura
   - mujeres-top
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

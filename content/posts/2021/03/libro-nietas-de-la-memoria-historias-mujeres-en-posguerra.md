@@ -8,7 +8,7 @@ categories:
   - mujeres-top
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Carmen Pineda
 ---

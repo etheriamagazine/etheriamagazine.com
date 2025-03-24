@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/08/Villa-padierna-piscina.jpg
 categories: 
   - hoteles
 destino: 
-  - España
+  - Mundo
 authors: 
   - Susana García
 ---

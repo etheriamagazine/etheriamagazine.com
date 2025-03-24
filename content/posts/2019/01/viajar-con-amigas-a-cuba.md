@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-cuba-cayo-co
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Cristina R. Bareño
 ---

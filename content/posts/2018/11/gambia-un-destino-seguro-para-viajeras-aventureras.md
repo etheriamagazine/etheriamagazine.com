@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/10/viaje-gambia-La-cocina-de-
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

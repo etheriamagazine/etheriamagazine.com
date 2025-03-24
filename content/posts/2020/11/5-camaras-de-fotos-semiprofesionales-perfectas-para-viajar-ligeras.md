@@ -4,6 +4,8 @@ date: 2020-11-25
 coverImage: https://fotos.etheriamagazine.com/2020/11/camara-foto-viajes.jpg
 categories: 
   - compras
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

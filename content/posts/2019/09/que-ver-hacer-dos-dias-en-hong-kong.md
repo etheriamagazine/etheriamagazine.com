@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2019/08/shangay-tang-hong-kong-e15
 categories: 
   - viajar-con-amigas
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Manena Munar
 ---

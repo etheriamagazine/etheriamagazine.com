@@ -6,7 +6,7 @@ categories:
   - viajar-en-pareja
   - gourmet
 destino: 
-  - España
+  - Mundo
 authors: 
   - Vanesa Viñolo
 ---

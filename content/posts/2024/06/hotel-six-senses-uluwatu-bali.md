@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2024/06/six-senses-uluwatu-piscina
 categories: 
   - hoteles
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Susana García
 ---

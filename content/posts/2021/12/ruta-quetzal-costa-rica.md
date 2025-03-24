@@ -6,7 +6,7 @@ categories:
   - viajar-en-familia
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

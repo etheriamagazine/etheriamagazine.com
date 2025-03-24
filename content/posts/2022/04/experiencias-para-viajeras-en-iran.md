@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/04/Iran-Mausoleo-Hilal-ibn-Al
 categories: 
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Ana Vara y David Santiago
 ---

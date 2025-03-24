@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2025/02/viaje-furgoneta-asia.jpeg
 categories: 
   - viajar-en-pareja
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Firmas invitadas
 ---

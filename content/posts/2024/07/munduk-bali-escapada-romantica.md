@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2024/07/bali-arrozales-Jatiluwih.j
 categories: 
   - viajar-en-pareja
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Susana García
 ---

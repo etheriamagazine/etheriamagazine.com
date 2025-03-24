@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2023/02/tokio-friki.jpg
 categories: 
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Susana García
 ---

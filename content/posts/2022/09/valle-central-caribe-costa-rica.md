@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/09/Puerto-Viejo-costa-rica.jp
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

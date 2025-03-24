@@ -6,7 +6,7 @@ categories:
   - viajar-en-pareja
   - ocio
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Susana García
 ---

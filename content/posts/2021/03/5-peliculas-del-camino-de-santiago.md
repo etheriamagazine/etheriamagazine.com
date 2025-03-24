@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2021/02/camino-santiago-fotograma-
 categories: 
   - inspiración
 destino: 
-  - España
+  - Mundo
 authors: 
   - Eva Madruga
 ---

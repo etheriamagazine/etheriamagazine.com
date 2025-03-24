@@ -6,7 +6,7 @@ categories:
   - viajar-con-amigas
   - viajar-sola
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

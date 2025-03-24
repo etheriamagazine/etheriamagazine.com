@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/11/Bonifacio-castillo.jpg
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

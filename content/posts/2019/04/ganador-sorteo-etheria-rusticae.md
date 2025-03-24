@@ -3,7 +3,7 @@ title: "El Sorteo Etheria-Rusticae ya tiene ganador"
 date: 2019-04-09
 coverImage: https://fotos.etheriamagazine.com/2019/04/sorte-etheria-rusticae.jpg
 destino: 
-  - España
+  - Mundo
 authors: 
   - Etheria Magazine
 ---

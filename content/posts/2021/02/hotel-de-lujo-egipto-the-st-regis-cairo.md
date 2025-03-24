@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2021/02/hotel-st-regis-cairo-escal
 categories: 
   - hoteles
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

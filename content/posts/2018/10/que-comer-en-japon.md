@@ -6,7 +6,7 @@ categories:
   - viajar-sola
   - gourmet
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Macarena Escrivá
 ---

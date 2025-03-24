@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-rana-e155117532
 categories: 
   - viajar-en-familia
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Susana García
 ---

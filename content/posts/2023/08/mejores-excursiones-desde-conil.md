@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2023/08/playa-roche-conil.jpg
 categories: 
   - viajar-con-amigas
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

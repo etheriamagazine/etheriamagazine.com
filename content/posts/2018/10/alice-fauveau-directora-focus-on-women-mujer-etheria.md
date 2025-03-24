@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/09/Alice-Fauveau-Women-Etheri
 categories: 
   - mujeres-top
 destino: 
-  - España
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

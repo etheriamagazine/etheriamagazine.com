@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2018/11/viaje-con-amigas-valle-amb
 categories: 
   - ocio
 destino: 
-  - España
+  - Mundo
 authors: 
   - Kelu Robles
 ---

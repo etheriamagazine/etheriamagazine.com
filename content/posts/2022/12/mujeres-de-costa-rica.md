@@ -5,7 +5,7 @@ coverImage: https://fotos.etheriamagazine.com/2022/12/costa-rica-mujeres-bahia-d
 categories: 
   - historias
 destino: 
-  - Europa
+  - Mundo
 authors: 
   - Redacción Etheria
 ---
