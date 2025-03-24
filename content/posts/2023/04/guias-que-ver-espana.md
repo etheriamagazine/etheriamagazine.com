@@ -3,7 +3,9 @@ title: "Qué ver en España, 12 guías básicas para tus vacaciones"
 date: 2023-04-04
 coverImage: https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg
 categories: 
-  - de-un-vistazo
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,7 +3,9 @@ title: "Exposición “Mediterráneo” en el museo Carmen Thyssen de Málaga"
 date: 2018-06-25
 coverImage: https://fotos.etheriamagazine.com/2018/06/Joaquim-Sunyer-expo-Mediterraneo.jpg
 categories: 
-  - exposiciones
+  - cultura
+destino: 
+  - España
 authors: 
   - Susana García
 ---

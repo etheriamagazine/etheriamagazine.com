@@ -3,10 +3,9 @@ title: "Ruta del Vino Cigales, descubre que la felicidad puede ser de color rosa
 date: 2024-05-27
 coverImage: https://fotos.etheriamagazine.com/2024/05/mural-mucientes-1.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

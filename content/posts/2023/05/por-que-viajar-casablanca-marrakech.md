@@ -3,7 +3,9 @@ title: "Casablanca y Marrakech,  una escapada esencial (y a precio asequible)"
 date: 2023-05-04
 coverImage: https://fotos.etheriamagazine.com/2023/05/zapatillas-zoco-marrakech.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

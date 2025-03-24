@@ -3,10 +3,10 @@ title: "Las Ubiñas, vive nueve experiencias en territorio del oso pardo"
 date: 2021-07-21
 coverImage: https://fotos.etheriamagazine.com/2021/07/capilla-santa-maria-bermiego.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

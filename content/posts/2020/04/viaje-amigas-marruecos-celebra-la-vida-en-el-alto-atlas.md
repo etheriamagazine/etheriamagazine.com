@@ -3,8 +3,9 @@ title: "Cómo celebrar la vida en el Alto Atlas marroquí"
 date: 2020-04-08
 coverImage: https://fotos.etheriamagazine.com/2020/04/ruta-mujeres-marruecos.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

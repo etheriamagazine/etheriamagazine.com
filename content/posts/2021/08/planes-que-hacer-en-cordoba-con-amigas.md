@@ -3,10 +3,11 @@ title: "Córdoba con amigas: 10 planes para una escapada perfecta"
 date: 2021-08-25
 coverImage: https://fotos.etheriamagazine.com/2021/08/cordoba-alcazar-reyes-cristianos.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

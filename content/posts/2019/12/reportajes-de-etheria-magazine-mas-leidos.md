@@ -3,9 +3,10 @@ title: "Los 10 reportajes de Etheria Magazine más leídos en 2019"
 date: 2019-12-31
 coverImage: https://fotos.etheriamagazine.com/2018/09/Florencia-pixabay.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

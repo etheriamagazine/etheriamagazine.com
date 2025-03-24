@@ -3,10 +3,9 @@ title: "Menorca, la isla del deporte (también)"
 date: 2019-01-24
 coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-menorca-senderismo.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

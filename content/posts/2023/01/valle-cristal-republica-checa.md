@@ -3,7 +3,9 @@ title: "El Valle del Cristal, descubre la magia del norte de Bohemia"
 date: 2023-01-09
 coverImage: https://fotos.etheriamagazine.com/2023/01/museo-valle-cristal-chequia.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

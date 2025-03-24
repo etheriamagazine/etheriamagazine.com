@@ -3,10 +3,9 @@ title: "15 ideas para disfrutar de Florencia por segunda vez con tus mejores ami
 date: 2018-09-21
 coverImage: https://fotos.etheriamagazine.com/2018/09/Ponte-Vecchio-Florencia-Toscana-e1552121783379.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Nuria Cortés
 ---

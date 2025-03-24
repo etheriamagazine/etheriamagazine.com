@@ -2,8 +2,8 @@
 title: "10 estaciones de esquí en España donde estirar el presupuesto al máximo"
 date: 2021-11-25
 coverImage: https://fotos.etheriamagazine.com/2021/11/estaciones-esqui-baratas.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

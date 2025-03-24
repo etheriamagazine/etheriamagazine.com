@@ -3,9 +3,9 @@ title: "Cultura, naturaleza y mucho estilo en un fin de semana en Zúrich con am
 date: 2024-09-27
 coverImage: https://fotos.etheriamagazine.com/2024/09/zurich-rio-limmat.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

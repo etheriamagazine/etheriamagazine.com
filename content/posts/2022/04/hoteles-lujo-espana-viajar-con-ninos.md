@@ -3,12 +3,12 @@ title: "8 hoteles de lujo en España para viajar con niños"
 date: 2022-04-08
 coverImage: https://fotos.etheriamagazine.com/2022/04/hoteles-famila-Royal-hideaway-sancti-petri-piscinas.jpg
 categories: 
-  - organiza-tu-viaje
-  - viaje-en-familia
+  - viajar-en-familia
   - hoteles
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

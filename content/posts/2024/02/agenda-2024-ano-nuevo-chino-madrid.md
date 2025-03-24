@@ -3,7 +3,9 @@ title: "Cómo celebrar el Año Nuevo Chino en Madrid este 2024"
 date: 2024-02-08
 coverImage: https://fotos.etheriamagazine.com/2024/02/Nuevo-Ano-Chino-2024.jpg
 categories: 
-  - festivales
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

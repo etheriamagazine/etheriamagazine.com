@@ -3,7 +3,9 @@ title: "Dónde desconectar en la Toscana, conoce sus mejores termas"
 date: 2022-11-03
 coverImage: https://fotos.etheriamagazine.com/2022/10/Toscana-terme-sensoriali-di-Chianciano.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

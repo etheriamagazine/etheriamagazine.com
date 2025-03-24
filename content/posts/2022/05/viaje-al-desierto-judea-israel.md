@@ -3,8 +3,9 @@ title: "Por qué el desierto de Judea es la aventura con amigas que necesitas"
 date: 2022-05-09
 coverImage: https://fotos.etheriamagazine.com/2022/05/viaje-mujeres-desierto-israel.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

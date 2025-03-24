@@ -3,7 +3,9 @@ title: "10 complementos y juegos de playa para disfrutar en familia"
 date: 2020-06-09
 coverImage: https://fotos.etheriamagazine.com/2020/06/complementos-playa-familia.jpg
 categories: 
-  - regalos-compras-viajeras
+  - compras
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

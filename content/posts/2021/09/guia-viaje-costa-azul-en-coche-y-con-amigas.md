@@ -3,9 +3,9 @@ title: "Ruta por la Costa Azul en coche y con amigas"
 date: 2021-09-03
 coverImage: https://fotos.etheriamagazine.com/2021/08/Cannes-Le-Suquet.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

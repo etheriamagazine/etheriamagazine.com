@@ -3,11 +3,11 @@ title: "Hoteles españoles donde no encontrarte con (casi) nadie"
 date: 2020-04-21
 coverImage: https://fotos.etheriamagazine.com/2019/07/Hotel-Alcuzcuz-panoramica.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

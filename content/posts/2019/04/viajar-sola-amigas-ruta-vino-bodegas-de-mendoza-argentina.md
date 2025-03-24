@@ -3,9 +3,9 @@ title: "Ruta en autobús por las bodegas de Mendoza (Argentina)"
 date: 2019-04-26
 coverImage: https://fotos.etheriamagazine.com/2019/04/Mendoza-bodega-Cruzat.jpg
 categories: 
-  - viajes-gastronomicos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Elisabeth G. Iborra
 ---

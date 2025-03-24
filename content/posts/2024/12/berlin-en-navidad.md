@@ -3,9 +3,10 @@ title: "Berlín en Navidad: mercadillos, imprescindibles y planes alternativos"
 date: 2024-12-10
 coverImage: https://fotos.etheriamagazine.com/2024/12/berlin-Lucia.jpeg
 categories: 
-  - viajes-con-amigas
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Alicia Bea
 ---

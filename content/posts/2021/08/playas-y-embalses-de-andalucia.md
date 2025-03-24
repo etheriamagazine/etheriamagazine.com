@@ -3,10 +3,11 @@ title: "15 playas y embalses de Andalucía para refrescarse en verano"
 date: 2021-08-10
 coverImage: https://fotos.etheriamagazine.com/2021/08/Andalucia-Cala-Rijana.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

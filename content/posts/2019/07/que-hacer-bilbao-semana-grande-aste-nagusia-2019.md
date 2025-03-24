@@ -3,8 +3,9 @@ title: "Disfruta de Aste Nagusia, la Semana Grande de Bilbao"
 date: 2019-07-29
 coverImage: https://fotos.etheriamagazine.com/2019/07/Bilbao-semana-grande-diversion-e1563519727502.jpg
 categories: 
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

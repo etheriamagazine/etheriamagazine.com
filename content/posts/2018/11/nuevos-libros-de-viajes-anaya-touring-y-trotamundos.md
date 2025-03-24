@@ -3,7 +3,9 @@ title: "Anaya Touring y Trotamundos editan cinco nuevas ventanas al mundo"
 date: 2018-11-29
 coverImage: https://fotos.etheriamagazine.com/2018/11/guias-viaje-anaya.jpg
 categories: 
-  - libros-de-viajes
+  - cultura
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

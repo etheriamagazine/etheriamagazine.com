@@ -3,10 +3,9 @@ title: "Planes en Dénia y Jávea para mujeres sibaritas"
 date: 2021-04-03
 coverImage: https://fotos.etheriamagazine.com/2019/08/lasiesta-01.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Macarena Escrivá
 ---

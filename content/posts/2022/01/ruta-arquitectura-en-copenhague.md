@@ -2,9 +2,8 @@
 title: "Copenhague, un viaje en el tiempo a través de su arquitectura"
 date: 2022-01-26
 coverImage: https://fotos.etheriamagazine.com/2022/01/SMK-museo-copenhague.jpg
-categories: 
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Cynthia Martín
 ---

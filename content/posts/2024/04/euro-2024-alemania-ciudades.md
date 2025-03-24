@@ -3,10 +3,10 @@ title: "De viaje a la Eurocopa en Alemania, mucho más que fútbol"
 date: 2024-04-18
 coverImage: https://fotos.etheriamagazine.com/2024/04/munich-eurocopa-Olympiapark.jpg
 categories: 
-  - organiza-tu-viaje
-  - experiencias-viajeras
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-sola
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

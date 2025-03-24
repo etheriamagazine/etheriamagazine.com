@@ -3,7 +3,9 @@ title: "Viaje con niños a Terceira: aventura entre las flores"
 date: 2018-06-20
 coverImage: https://fotos.etheriamagazine.com/2018/05/Terceira-Senderismo-BAIAS-DA-AGUALVA-3.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Susana García
 ---

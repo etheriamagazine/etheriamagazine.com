@@ -3,7 +3,9 @@ title: "5 excursiones básicas con niños en Madrid"
 date: 2023-03-24
 coverImage: https://fotos.etheriamagazine.com/2023/03/casita-principe-escorial.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

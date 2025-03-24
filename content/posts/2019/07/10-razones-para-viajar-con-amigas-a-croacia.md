@@ -3,8 +3,9 @@ title: "Croacia con amigas, 10 razones para hacer \"ya\" las maletas"
 date: 2019-07-17
 coverImage: https://fotos.etheriamagazine.com/2019/07/Croacia-makarska-riviera.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

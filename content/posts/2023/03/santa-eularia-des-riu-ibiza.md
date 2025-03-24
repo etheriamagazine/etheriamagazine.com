@@ -3,8 +3,9 @@ title: "Santa Eulària des Riu, el municipio de Ibiza más ‘hippy-sostenible�
 date: 2023-03-03
 coverImage: https://fotos.etheriamagazine.com/2023/03/Ibiza-Playa-SEstañol-columpio.jpg
 categories: 
-  - viajes-con-amigas
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

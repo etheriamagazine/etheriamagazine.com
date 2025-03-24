@@ -3,9 +3,10 @@ title: "¿Por qué Lucca es una parada obligada en la Toscana?"
 date: 2019-02-18
 coverImage: https://fotos.etheriamagazine.com/2019/02/Lucca-catedral-e1550913127169.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

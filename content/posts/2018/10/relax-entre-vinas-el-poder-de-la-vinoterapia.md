@@ -3,8 +3,9 @@ title: "Disfruta con amigas de la vinoterapia en estos 10 hoteles, bodegas y spa
 date: 2018-10-26
 coverImage: https://fotos.etheriamagazine.com/2018/10/Peralada-tratamiento-e1573376870965.jpg
 categories: 
-  - bienestar-belleza
-  - organiza-tu-viaje
+  - bienestar
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

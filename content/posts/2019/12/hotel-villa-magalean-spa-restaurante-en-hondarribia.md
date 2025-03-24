@@ -3,10 +3,10 @@ title: "Hotel Villa Magalean, el abrazo de Hondarribia"
 date: 2019-12-03
 coverImage: https://fotos.etheriamagazine.com/2019/11/hotel-magalean-recepcion.jpg
 categories: 
-  - viajes-con-amigas
-  - organiza-tu-viaje
+  - viajar-con-amigas
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,10 +3,10 @@ title: "Bali, diez lugares que van directos a Instagram y TikTok"
 date: 2023-07-26
 coverImage: https://fotos.etheriamagazine.com/2023/07/foto-ubud-arrozales-columpio.jpg
 categories: 
-  - consejos-practicos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

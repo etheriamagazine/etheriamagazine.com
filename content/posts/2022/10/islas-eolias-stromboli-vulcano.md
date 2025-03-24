@@ -3,7 +3,9 @@ title: "Volcanes de pasión, una ruta por las islas Eolias"
 date: 2022-10-12
 coverImage: https://fotos.etheriamagazine.com/2022/10/Vulcano-islas-eolias.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

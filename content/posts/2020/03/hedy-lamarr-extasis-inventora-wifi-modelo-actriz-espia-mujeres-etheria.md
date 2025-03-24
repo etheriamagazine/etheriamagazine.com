@@ -3,9 +3,10 @@ title: "Hedy Lamarr, inventora del wifi y protagonista del primer orgasmo (fingi
 date: 2020-03-30
 coverImage: https://fotos.etheriamagazine.com/2020/03/biografia-mujeres-inventoras-Hedy-Lamar.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---
@@ -154,7 +155,7 @@ frecuencia.
 > El día del nacimiento de Hedy Lamarr, 9 de noviembre, se celebra en todo el mundo el Día 
 > del Inventor, en su honor. 
 
-![hedy lamarr, mujer inventora wifi](https://fotos.etheriamagazine.com/2020/03/inventora-Hedy-Lamarr-WIFI.jpg "¿Alguien cree aún que la belleza está reñida con la inteligencia? ©CC")
+![hedy lamarr, mujer inventora wifi](https://fotos.etheriamagazine.com/2020/03/inventora-Hedy-Lamarr-WIFI.jpg "Hedy Lamarr fue inventora, modelo, actriz y espía. © CC")
 
 En 1998 la Electronic Frontier Foundation concedió a Hedy Lamarr y George Antheil el 
 **Premio Pionero**, un reconocimiento oficial por su fundamental contribución en el 
@@ -169,7 +170,7 @@ modelo, actriz y espía**.
 La historia de Hedy Lamarr, ejemplo de valentía y genialidad, se merecía ocupar la 
 atención de Etheria Magazine… ¿O no? 
 
-📌 **También te puede interesar:** 
+**También te puede interesar:** 
 
 [María Andresa Casamayor, la aragonesa que soñaba con 
 números](https://etheriamagazine.com/2020/12/21/maria-andresa-casamayor-primera-mujer-en-espana-libro-ciencia/) 

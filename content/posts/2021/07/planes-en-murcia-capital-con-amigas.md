@@ -3,10 +3,10 @@ title: "Planes para comerte Murcia con amigas"
 date: 2021-07-29
 coverImage: https://fotos.etheriamagazine.com/2021/07/Mercado-de-Correos-murcia.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Cynthia Martín
 ---

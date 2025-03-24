@@ -3,9 +3,9 @@ title: "Viajes de cine: el Londres de Mary Poppins"
 date: 2019-01-22
 coverImage: https://fotos.etheriamagazine.com/2019/01/viajes-cine-regreso-mary-poppins.jpg
 categories: 
-  - viajes-cine
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Eva Madruga
 ---

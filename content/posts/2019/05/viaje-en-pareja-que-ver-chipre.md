@@ -3,8 +3,9 @@ title: "Secretos de Chipre, visitas esenciales en un viaje lleno de historia y s
 date: 2019-05-22
 coverImage: https://fotos.etheriamagazine.com/2019/05/Chipre-Kourion.jpg
 categories: 
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

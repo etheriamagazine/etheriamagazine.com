@@ -3,8 +3,9 @@ title: "Bourges será una de las Capitales Europeas de la Cultura 2028"
 date: 2023-08-11
 coverImage: https://fotos.etheriamagazine.com/2023/08/Bourges-pareja-francia.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

@@ -3,8 +3,9 @@ title: "Son Penya Petit Hotel & Spa, un rincón secreto en Mallorca"
 date: 2019-09-04
 coverImage: https://fotos.etheriamagazine.com/2019/08/Son-Penya-piscina-aina-suite.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

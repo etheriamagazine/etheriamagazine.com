@@ -3,7 +3,9 @@ title: "Karlovy Vary, la ciudad balnearia checa que Goethe visitó 13 veces"
 date: 2021-12-09
 coverImage: https://fotos.etheriamagazine.com/2021/12/karlovy-vary-monumental.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

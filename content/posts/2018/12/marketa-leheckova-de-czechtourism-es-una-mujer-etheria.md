@@ -3,8 +3,9 @@ title: "Markéta Lehečková: \"Viajar te hace establecer nuevos límites de sup
 date: 2018-12-03
 coverImage: https://fotos.etheriamagazine.com/2018/11/Marketa-Cesky-Krumlov-mujer-etheria-1.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

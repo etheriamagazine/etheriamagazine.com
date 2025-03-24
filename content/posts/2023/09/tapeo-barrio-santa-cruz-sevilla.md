@@ -3,10 +3,9 @@ title: "Bares, terrazas y restaurantes de alta cocina en el sevillano Barrio de 
 date: 2023-09-04
 coverImage: https://fotos.etheriamagazine.com/2023/08/sevilla-cafe-santa-cruz-Local.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Alfredo G. Reyes
 ---

@@ -3,7 +3,9 @@ title: "Dónde tomar el té en Londres en lugares muy originales"
 date: 2023-03-15
 coverImage: https://fotos.etheriamagazine.com/2023/03/peter-pan-tomar-te-londres.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

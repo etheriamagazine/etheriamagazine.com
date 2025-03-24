@@ -3,8 +3,9 @@ title: "Planes para disfrutar de Extremadura en otoño con tu familia"
 date: 2024-11-11
 coverImage: https://fotos.etheriamagazine.com/2024/11/extremadura-valle-ambroz-paraguas.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

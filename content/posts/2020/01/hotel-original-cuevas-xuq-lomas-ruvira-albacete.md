@@ -3,9 +3,9 @@ title: "Duerme de lujo en Xuq Lomas de Ruvira, un hotel-cueva de La Manchuela"
 date: 2020-01-08
 coverImage: https://fotos.etheriamagazine.com/2020/01/Rusticae-xuq-ruvira-rincon.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

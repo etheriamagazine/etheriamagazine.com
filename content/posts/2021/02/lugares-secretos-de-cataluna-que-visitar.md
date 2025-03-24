@@ -3,8 +3,9 @@ title: "Descubre estos 8 lugares secretos de Cataluña que deberías conocer"
 date: 2021-02-22
 coverImage: https://fotos.etheriamagazine.com/2021/02/catalunya-secreta-larboc-iglesia-Entranyes.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Nuria Cortés
 ---

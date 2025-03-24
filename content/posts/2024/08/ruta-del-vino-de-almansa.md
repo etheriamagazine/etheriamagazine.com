@@ -3,9 +3,10 @@ title: "Guía para recorrer la Ruta del Vino de Almansa: entre viñedos, histori
 date: 2024-08-27
 coverImage: https://fotos.etheriamagazine.com/2024/08/cooperativa-alpera-etheria.jpg
 categories: 
-  - viajes-con-amigas
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

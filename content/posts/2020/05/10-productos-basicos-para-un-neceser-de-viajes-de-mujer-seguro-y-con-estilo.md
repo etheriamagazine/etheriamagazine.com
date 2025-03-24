@@ -2,8 +2,8 @@
 title: "10 productos para un neceser de viaje seguro y con estilo"
 date: 2020-05-25
 coverImage: https://fotos.etheriamagazine.com/2020/05/neceser-de-viaje-mujer.jpg
-categories: 
-  - organiza-tu-viaje
+destino: 
+  - Europa
 authors: 
   - Rebeca Ávila
 ---

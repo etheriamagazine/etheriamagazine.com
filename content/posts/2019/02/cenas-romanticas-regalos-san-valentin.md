@@ -3,11 +3,10 @@ title: "Cenas románticas y viajes para dos"
 date: 2019-02-08
 coverImage: https://fotos.etheriamagazine.com/2019/02/cena-romantica-dani-garcia.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-romanticos
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - gourmet
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

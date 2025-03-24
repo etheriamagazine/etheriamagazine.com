@@ -3,8 +3,10 @@ title: "Fiesta benéfica Focus on Women"
 date: 2019-11-03
 coverImage: https://fotos.etheriamagazine.com/2019/11/Fiesta-Solidaria-FOW-1.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

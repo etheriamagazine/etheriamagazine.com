@@ -3,9 +3,9 @@ title: "Siéntete como una reina en el hotel Pestana Palace Lisboa"
 date: 2020-04-28
 coverImage: https://fotos.etheriamagazine.com/2020/04/pestana-palace-lisboa-jardines.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

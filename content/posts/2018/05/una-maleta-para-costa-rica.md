@@ -3,7 +3,9 @@ title: "Una maleta para... Costa Rica"
 date: 2018-05-28
 coverImage: https://fotos.etheriamagazine.com/2018/05/costa-rica-maleta-puente-colgante.jpg
 categories: 
-  - que-llevar-en-la-maleta
+  - qué-llevar-en-la-maleta
+destino: 
+  - Mundo
 authors: 
   - Susana García
 ---

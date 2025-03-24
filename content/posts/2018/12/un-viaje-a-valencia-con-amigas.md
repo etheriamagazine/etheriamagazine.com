@@ -3,9 +3,9 @@ title: "Escapada a Valencia con amigas en invierno"
 date: 2018-12-04
 coverImage: https://fotos.etheriamagazine.com/2018/11/valencia-con-amigas-Palau-Alameda.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Macarena Escrivá
 ---

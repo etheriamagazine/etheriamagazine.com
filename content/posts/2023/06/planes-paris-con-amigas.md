@@ -3,9 +3,9 @@ title: "París con amigas, diez planes para una escapada perfecta"
 date: 2023-06-16
 coverImage: https://fotos.etheriamagazine.com/2023/06/paris-amigas-tullerias.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

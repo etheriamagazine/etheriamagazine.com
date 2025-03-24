@@ -3,8 +3,9 @@ title: "La cuna del Modernismo está en Mataró"
 date: 2020-10-14
 coverImage: https://fotos.etheriamagazine.com/2020/10/viaje-mataro-modernismo-Casa-Coll-i-Regas-interior.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Kris Ubach
 ---

@@ -3,9 +3,9 @@ title: "Teruel, pistas para descubrir su arte y mejores restaurantes"
 date: 2020-02-10
 coverImage: https://fotos.etheriamagazine.com/2020/02/restaurante-metodo-teruel-1.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

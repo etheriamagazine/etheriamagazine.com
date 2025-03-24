@@ -3,11 +3,10 @@ title: "Planes para exprimir un fin de semana en Marbella con amigas"
 date: 2019-06-11
 coverImage: https://fotos.etheriamagazine.com/2019/05/viaje-marbella-la-Plaza.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Rosa Marqués
 ---

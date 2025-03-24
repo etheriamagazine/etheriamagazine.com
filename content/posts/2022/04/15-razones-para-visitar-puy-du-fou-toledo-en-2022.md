@@ -3,7 +3,9 @@ title: "15 razones para visitar Puy du Fou Toledo"
 date: 2022-04-06
 coverImage: https://fotos.etheriamagazine.com/2022/04/Puy-du-Fou-Sueno-de-Toledo.jpg
 categories: 
-  - parques-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,7 +3,9 @@ title: "Caras y lugares, una road movie por la Francia rural"
 date: 2018-05-28
 coverImage: https://fotos.etheriamagazine.com/2018/05/CARTEL_caras_y_lugares.jpg
 categories: 
-  - viajes-cine
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Eva Madruga
 ---

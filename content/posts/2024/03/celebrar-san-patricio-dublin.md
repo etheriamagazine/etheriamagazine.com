@@ -3,9 +3,9 @@ title: "Irlanda brinda con Guinness en San Patricio y también durante todo el a
 date: 2024-03-15
 coverImage: https://fotos.etheriamagazine.com/2020/02/Temple-Bar-Dublin.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

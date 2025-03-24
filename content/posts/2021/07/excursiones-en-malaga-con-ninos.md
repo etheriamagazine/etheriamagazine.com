@@ -3,8 +3,10 @@ title: "8 excursiones en Málaga para hacer con niños"
 date: 2021-07-12
 coverImage: https://fotos.etheriamagazine.com/2021/07/Malaga-ninos-teleferico.jpg
 categories: 
-  - viaje-en-familia
-  - de-un-vistazo
+  - viajar-en-familia
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

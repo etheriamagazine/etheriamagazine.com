@@ -3,8 +3,10 @@ title: "Dónde comer bien en Conil de la Frontera, bares y restaurantes recomend
 date: 2022-07-22
 coverImage: https://fotos.etheriamagazine.com/2022/07/venta-pericon-conil.jpg
 categories: 
-  - viajes-con-amigas
-  - mejores-restaurantes-gastronomia
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

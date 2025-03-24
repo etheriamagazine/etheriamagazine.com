@@ -3,10 +3,10 @@ title: "Vuelve la ilusión de viajar, vuelven las Jornadas IATI de los Grandes V
 date: 2021-05-25
 coverImage: https://fotos.etheriamagazine.com/2021/05/cartel-iatiJGV-2021.jpg
 categories: 
-  - viajes-con-amigas
-  - mujeres-etheria
-  - viajes-para-mujeres
   - viajar-sola
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

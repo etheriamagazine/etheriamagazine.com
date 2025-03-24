@@ -3,10 +3,10 @@ title: "Madeira con amigas, 10 experiencias para una escapada corta"
 date: 2019-04-19
 coverImage: https://fotos.etheriamagazine.com/2019/04/madeira-Pico-do-Areeiro.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - viajes-para-mujeres
   - viajar-sola
+  - inspiración
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

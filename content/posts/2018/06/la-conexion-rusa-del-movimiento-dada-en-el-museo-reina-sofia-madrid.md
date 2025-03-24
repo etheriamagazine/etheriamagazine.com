@@ -3,7 +3,9 @@ title: "La conexión rusa del movimiento Dadá, en el Museo Reina Sofía (Madrid
 date: 2018-06-11
 coverImage: https://fotos.etheriamagazine.com/2018/06/Dada-ruso-Museo-Reina-Sofia-VARVARA-STEPANOVA.jpg
 categories: 
-  - exposiciones
+  - cultura
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

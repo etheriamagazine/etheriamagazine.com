@@ -3,9 +3,9 @@ title: "María Villar: \"Viajar es mi pasión, lo que me dispara la adrenalina\"
 date: 2019-06-25
 coverImage: https://fotos.etheriamagazine.com/2019/06/viajate-el-mundo-maria-villar.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

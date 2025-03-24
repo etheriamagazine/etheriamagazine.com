@@ -3,8 +3,9 @@ title: "Los tajinastes en flor, el gran espectáculo natural de Tenerife"
 date: 2019-05-14
 coverImage: https://fotos.etheriamagazine.com/2019/05/Tenerife-parque-teide-tajinaste-artistica-e1557138323667.jpg
 categories: 
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

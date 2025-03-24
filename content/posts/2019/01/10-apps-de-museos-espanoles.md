@@ -3,8 +3,9 @@ title: "10 apps de museos que deberías descargarte"
 date: 2019-01-05
 coverImage: https://fotos.etheriamagazine.com/2019/01/museos.jpg
 categories: 
-  - organiza-tu-viaje
-  - exposiciones
+  - cultura
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

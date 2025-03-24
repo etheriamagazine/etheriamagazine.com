@@ -3,9 +3,9 @@ title: "Barrios de Nueva York: del góspel de Harlem al arte urbano del Bronx y 
 date: 2024-04-08
 coverImage: https://fotos.etheriamagazine.com/2024/04/nueva-york-harlem-casas.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Susana García
 ---

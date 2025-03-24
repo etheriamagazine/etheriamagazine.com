@@ -3,8 +3,9 @@ title: "Por qué viajar a las Baleares con amigas en el puente de mayo"
 date: 2024-04-22
 coverImage: https://fotos.etheriamagazine.com/2024/04/formentera-viaje-amigas.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

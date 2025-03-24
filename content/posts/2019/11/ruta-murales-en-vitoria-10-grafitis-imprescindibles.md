@@ -3,10 +3,11 @@ title: "10 fachadas básicas en la Ruta de los Murales de Vitoria"
 date: 2019-11-21
 coverImage: https://fotos.etheriamagazine.com/2019/11/Vitoria-ciudad-medieval.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-sola
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

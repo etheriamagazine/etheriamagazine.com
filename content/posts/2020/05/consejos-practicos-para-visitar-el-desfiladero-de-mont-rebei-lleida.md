@@ -3,9 +3,9 @@ title: "Consejos prácticos para visitar el desfiladero o congost de Mont-rebei 
 date: 2020-05-13
 coverImage: https://fotos.etheriamagazine.com/2020/05/mont-rebei-gr1.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

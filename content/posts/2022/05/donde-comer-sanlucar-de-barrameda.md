@@ -3,10 +3,10 @@ title: "¿Nos comemos y bebemos Sanlúcar de Barrameda?"
 date: 2022-05-11
 coverImage: https://fotos.etheriamagazine.com/2022/05/sanlucar-langostinos.jpg
 categories: 
-  - organiza-tu-viaje
-  - experiencias-viajeras
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

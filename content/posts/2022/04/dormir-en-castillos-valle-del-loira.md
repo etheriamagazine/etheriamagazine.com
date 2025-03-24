@@ -3,9 +3,9 @@ title: "Dormir en un castillo en el valle del Loira: 4 propuestas imbatibles"
 date: 2022-04-15
 coverImage: https://fotos.etheriamagazine.com/2022/04/castillo-grand-luce-suite.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

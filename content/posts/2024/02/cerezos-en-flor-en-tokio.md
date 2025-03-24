@@ -3,13 +3,11 @@ title: "Dónde y cuándo ver los cerezos en flor en Tokio"
 date: 2024-02-13
 coverImage: https://fotos.etheriamagazine.com/2024/02/tokio-cerezos-Chidorigafuchi.jpg
 categories: 
-  - organiza-tu-viaje
-  - experiencias-viajeras
-  - parques-ocio
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
-  - visitas-guiadas
+  - viajar-sola
+  - inspiración
+  - ocio
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

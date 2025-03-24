@@ -3,9 +3,11 @@ title: "Marta Vázquez, un viaje \"por piñones\" en bici que duró 8 meses"
 date: 2024-05-31
 coverImage: https://fotos.etheriamagazine.com/2024/05/Marta-Vazquez-etheria-magazine.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - proyectos-con-alma
+  - historias
+  - mujeres-top
+  - proyectos
+destino: 
+  - España
 authors: 
   - Firmas invitadas
 ---

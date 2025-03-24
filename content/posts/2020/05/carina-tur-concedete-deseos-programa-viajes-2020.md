@@ -3,7 +3,9 @@ title: "'Concédete Deseos' adapta sus viajes para verano con más experiencias 
 date: 2020-05-19
 coverImage: https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-valle-del-loira.jpg
 categories: 
-  - historias-en-femenino
+  - historias
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

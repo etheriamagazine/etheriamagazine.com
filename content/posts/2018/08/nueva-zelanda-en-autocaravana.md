@@ -3,11 +3,11 @@ title: "Cómo organizar un viaje a Nueva Zelanda en autocaravana"
 date: 2018-08-21
 coverImage: https://fotos.etheriamagazine.com/2018/08/viaje-nueva-zelanda-caravana-Hobbiton.jpg
 categories: 
-  - viajes-con-amigas
-  - consejos-practicos
-  - viajes-ecoturismo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Cristina R. Bareño
 ---

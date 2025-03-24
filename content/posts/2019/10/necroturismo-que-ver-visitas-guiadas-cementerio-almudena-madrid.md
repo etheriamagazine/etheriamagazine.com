@@ -3,10 +3,9 @@ title: "Pasear entre tumbas en Madrid: claves del necroturismo en el cementerio 
 date: 2019-10-30
 coverImage: https://fotos.etheriamagazine.com/2019/10/cementerio-almudena-tetas-desnudo.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

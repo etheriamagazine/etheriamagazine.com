@@ -3,8 +3,9 @@ title: "Qué ver y hacer en un viaje en familia por Holanda"
 date: 2018-08-10
 coverImage: https://fotos.etheriamagazine.com/2018/05/Holanda-Madurodam-e1558171413662.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

@@ -3,8 +3,9 @@ title: "Diez destinos para viajar sola recomendados por periodistas de viajes"
 date: 2020-12-17
 coverImage: https://fotos.etheriamagazine.com/2020/12/viajar-sola-azores.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

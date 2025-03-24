@@ -3,9 +3,9 @@ title: "La isla de Ons o cómo disfrutar del Caribe sin salir de España"
 date: 2020-08-06
 coverImage: https://fotos.etheriamagazine.com/2020/08/viaje-galicia-isla-ons-1.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Firmas invitadas
 ---

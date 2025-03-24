@@ -3,9 +3,9 @@ title: "Miami con niños: 7 planes para viajar en familia"
 date: 2018-05-09
 coverImage: https://fotos.etheriamagazine.com/2018/05/Miami-Beach.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Susana García
 ---

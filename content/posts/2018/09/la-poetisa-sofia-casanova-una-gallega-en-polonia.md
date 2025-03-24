@@ -3,9 +3,10 @@ title: "Sofía Casanova, una poetisa gallega en Polonia"
 date: 2018-09-10
 coverImage: https://fotos.etheriamagazine.com/2018/09/Sofia-Casanova-Poznan.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - historias
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

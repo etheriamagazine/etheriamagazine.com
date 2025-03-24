@@ -3,8 +3,10 @@ title: "Descubre las 3 visitas esenciales en Guatemala que aconseja Sania Jelic"
 date: 2023-05-31
 coverImage: https://fotos.etheriamagazine.com/2023/05/sania-guatemala-lago-atitlan-puerto.jpg
 categories: 
-  - historias-en-femenino
   - viajar-sola
+  - historias
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

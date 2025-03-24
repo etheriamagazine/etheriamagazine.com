@@ -1,7 +1,7 @@
 ---
-title: "Viajo sola"
+title: "Viajar sola"
 slug: viajar-sola
-description: "La sección de Viajar Sola de Etheria Magazine incluye artículos de destinos y numerosas recomendaciones prácticas para mujeres que viajan en solitario."
+description: "Explora el mundo por tu cuenta: consejos, seguridad y empoderamiento para las mujeres viajeras solas."
 ---
 
 

@@ -3,9 +3,10 @@ title: "Andanzas de Ava Gardner en Madrid, descubre la ruta de una mujer ‘alfa
 date: 2022-01-12
 coverImage: https://fotos.etheriamagazine.com/2022/01/hotel-intercontinental-hilton-gardner.jpg
 categories: 
-  - viajes-con-amigas
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

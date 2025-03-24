@@ -3,8 +3,9 @@ title: "Formentera con amigas, planes imprescindibles para una escapada perfecta
 date: 2023-04-24
 coverImage: https://fotos.etheriamagazine.com/2023/04/Formentera-Es-Calo-des-Mort.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

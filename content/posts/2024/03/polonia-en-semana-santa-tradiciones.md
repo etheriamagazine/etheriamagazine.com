@@ -3,10 +3,9 @@ title: "Polonia en Semana Santa, sus tradiciones más originales"
 date: 2024-03-04
 coverImage: https://fotos.etheriamagazine.com/2024/02/polonia-semana-santa-domingo-de-ramos-ninas.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

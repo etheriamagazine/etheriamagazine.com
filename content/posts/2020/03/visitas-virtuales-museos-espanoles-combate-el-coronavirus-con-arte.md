@@ -3,8 +3,10 @@ title: "Visitas virtuales a museos, combate el coronavirus con arte"
 date: 2020-03-16
 coverImage: https://fotos.etheriamagazine.com/2020/03/Museo-visita-virtual-coronavirus.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

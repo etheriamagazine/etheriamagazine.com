@@ -3,7 +3,9 @@ title: "Praga en otoño, 3 citas en torno al diseño y el arte"
 date: 2022-09-27
 coverImage: https://fotos.etheriamagazine.com/2022/09/designblok-praga.jpg
 categories: 
-  - exposiciones
+  - cultura
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

@@ -3,7 +3,9 @@ title: "La provincia de Burgos con niños, planes rurales y activos en familia"
 date: 2022-10-05
 coverImage: https://fotos.etheriamagazine.com/2022/10/Museo-del-petroleo-burgos.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

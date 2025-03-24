@@ -3,8 +3,9 @@ title: "El Bordado serrano, próximo Bien de Interés Cultural Inmaterial"
 date: 2022-01-14
 coverImage: https://fotos.etheriamagazine.com/2022/01/bordado-serrano-sierra-francia-1.jpg
 categories: 
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

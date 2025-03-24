@@ -3,8 +3,9 @@ title: "Ruta por los mejores faros de Cantabria"
 date: 2020-05-18
 coverImage: https://fotos.etheriamagazine.com/2020/04/faro-punta-silla-san-vicente.jpg
 categories: 
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

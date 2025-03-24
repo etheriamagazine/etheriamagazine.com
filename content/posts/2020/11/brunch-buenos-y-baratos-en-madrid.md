@@ -3,9 +3,10 @@ title: "8 brunch en Madrid a muy buen precio para disfrutar del domingo"
 date: 2020-11-13
 coverImage: https://fotos.etheriamagazine.com/2020/11/brunch-madrid.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

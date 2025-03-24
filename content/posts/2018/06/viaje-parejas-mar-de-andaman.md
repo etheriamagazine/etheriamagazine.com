@@ -3,7 +3,9 @@ title: "10 imágenes para enamorarse del mar de Andamán"
 date: 2018-06-16
 coverImage: https://fotos.etheriamagazine.com/2018/05/9-Playa-mar-de-Andaman-e1560153714626.jpg
 categories: 
-  - de-un-vistazo
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

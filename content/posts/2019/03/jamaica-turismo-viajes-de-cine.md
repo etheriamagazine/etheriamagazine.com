@@ -3,9 +3,9 @@ title: "Jamaica, plató de cine: del Agente 007 al Lago Azul"
 date: 2019-03-15
 coverImage: https://fotos.etheriamagazine.com/2019/03/jamaica-mujeres-viajeras.jpg
 categories: 
-  - viajes-cine
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Eva Madruga
 ---

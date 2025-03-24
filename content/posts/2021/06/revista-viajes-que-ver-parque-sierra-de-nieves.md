@@ -3,10 +3,11 @@ title: "Parque Nacional Sierra de las Nieves, una nueva estrella brilla en Mála
 date: 2021-06-26
 coverImage: https://fotos.etheriamagazine.com/2019/02/puesta-sol-sierra-nieves.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-ecoturismo
-  - de-un-vistazo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - viajar-en-familia
+  - inspiración
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

@@ -3,9 +3,9 @@ title: "8 pasiones al pie del monte Jaizkibel en la costa de Guipúzcoa"
 date: 2020-09-08
 coverImage: https://fotos.etheriamagazine.com/2020/08/faro-cabo-higuer.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

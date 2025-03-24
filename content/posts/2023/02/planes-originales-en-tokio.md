@@ -3,7 +3,9 @@ title: "10 planes originales en Tokio: saca tu lado más friki"
 date: 2023-02-13
 coverImage: https://fotos.etheriamagazine.com/2023/02/tokio-friki.jpg
 categories: 
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

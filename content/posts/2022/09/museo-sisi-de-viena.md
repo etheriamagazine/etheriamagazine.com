@@ -3,8 +3,10 @@ title: "Así es la verdadera historia de Sisi, y no es de cuento"
 date: 2022-09-07
 coverImage: https://fotos.etheriamagazine.com/2022/09/retrato-sisi-museo-viena.jpg
 categories: 
-  - historias-en-femenino
-  - exposiciones
+  - historias
+  - cultura
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

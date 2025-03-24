@@ -3,8 +3,9 @@ title: "Por qué deberías viajar a la Costa Brava con niños"
 date: 2023-11-06
 coverImage: https://fotos.etheriamagazine.com/2023/11/viaje-familia-ripoll.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,12 +3,11 @@ title: "10 viajes de novios originales para huir de lo convencional"
 date: 2022-02-09
 coverImage: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-pareja.jpg
 categories: 
-  - consejos-practicos
-  - viajes-romanticos
-  - de-un-vistazo
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

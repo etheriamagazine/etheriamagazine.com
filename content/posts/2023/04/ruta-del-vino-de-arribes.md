@@ -3,7 +3,9 @@ title: "Ruta del Vino de Arribes, energía femenina de alto voltaje"
 date: 2023-04-19
 coverImage: https://fotos.etheriamagazine.com/2023/04/Hato-Garabato-zamora.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

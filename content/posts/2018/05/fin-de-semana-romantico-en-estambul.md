@@ -3,11 +3,10 @@ title: "Estambul romántico, qué ver en una escapada en pareja"
 date: 2018-05-03
 coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-estambul.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-romanticos
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

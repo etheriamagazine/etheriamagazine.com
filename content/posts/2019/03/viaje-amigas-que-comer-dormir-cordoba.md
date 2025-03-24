@@ -3,10 +3,9 @@ title: "Córdoba, maridaje ideal entre historia y gastronomía"
 date: 2019-03-25
 coverImage: https://fotos.etheriamagazine.com/2019/03/Cordoba-restaurante-Recomiendo.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-romanticos
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Macarena Escrivá
 ---

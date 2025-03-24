@@ -3,8 +3,9 @@ title: "Cabo de Creus, 10 pisadas 'slow' frente al Mediterráneo"
 date: 2019-06-17
 coverImage: https://fotos.etheriamagazine.com/2019/06/Viaje-girona-medieval-e1559737808621.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

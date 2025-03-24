@@ -3,7 +3,9 @@ title: "Museos en Flandes para visitar con niños"
 date: 2022-11-21
 coverImage: https://fotos.etheriamagazine.com/2022/11/Flandes-Atomium-Bruselas.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

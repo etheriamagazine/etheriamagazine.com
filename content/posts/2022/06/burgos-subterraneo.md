@@ -3,9 +3,9 @@ title: "Burgos subterráneo, planes alucinantes en cuevas, minas y canteras para
 date: 2022-06-24
 coverImage: https://fotos.etheriamagazine.com/2022/06/burgos-cueva-fuentemolinos.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

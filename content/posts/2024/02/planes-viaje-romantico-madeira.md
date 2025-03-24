@@ -3,8 +3,9 @@ title: "Planes originales en un viaje romántico a Madeira"
 date: 2024-02-02
 coverImage: https://fotos.etheriamagazine.com/2024/02/Madeira-arco-iris.jpg
 categories: 
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

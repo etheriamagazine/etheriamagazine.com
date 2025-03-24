@@ -3,8 +3,10 @@ title: "La agencia WOM Viajes apuesta escapadas nacionales"
 date: 2020-05-25
 coverImage: https://fotos.etheriamagazine.com/2020/05/wom-agencia-viajes-mujeres.jpg
 categories: 
-  - historias-en-femenino
   - viajar-sola
+  - historias
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

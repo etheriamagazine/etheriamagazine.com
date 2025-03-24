@@ -3,9 +3,9 @@ title: "Las Hurdes, un paraíso extremeño que huye de estereotipos"
 date: 2020-07-21
 coverImage: https://fotos.etheriamagazine.com/2020/07/las-hurdes-las-Mestas.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

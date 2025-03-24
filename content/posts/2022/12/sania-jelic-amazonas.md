@@ -4,6 +4,8 @@ date: 2022-12-24
 coverImage: https://fotos.etheriamagazine.com/2022/12/Sania-amazonas-tribus.jpg
 categories: 
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Sania Jelic
 ---

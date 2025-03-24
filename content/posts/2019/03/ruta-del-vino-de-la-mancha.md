@@ -3,9 +3,10 @@ title: "La Ruta del Vino de La Mancha en coche"
 date: 2019-03-20
 coverImage: https://fotos.etheriamagazine.com/2019/03/ruta-del-vino-la-mancha.jpg
 categories: 
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Firmas invitadas
 ---

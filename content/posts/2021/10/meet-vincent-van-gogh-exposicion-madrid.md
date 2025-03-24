@@ -3,10 +3,10 @@ title: "Meet Vincent van Gogh: la exhibición que te acerca la vida del genial p
 date: 2021-10-01
 coverImage: https://fotos.etheriamagazine.com/2021/09/meet-vicent-van-gogh-habitacion.jpg
 categories: 
-  - exposiciones
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

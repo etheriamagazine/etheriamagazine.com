@@ -2,8 +2,8 @@
 title: "Grandvoyage.com lanza su primer ranking"
 date: 2019-04-12
 coverImage: https://fotos.etheriamagazine.com/2019/04/grandes-viajes-vietnam.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,9 +3,10 @@ title: "Por qué no olvidarás jamás La Palma, la isla más adictiva y alternat
 date: 2019-04-02
 coverImage: https://fotos.etheriamagazine.com/2019/03/viajar-sola-la-palma-mirador.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

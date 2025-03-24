@@ -3,7 +3,9 @@ title: "Menstruar, una cuestión de derechos humanos"
 date: 2021-05-13
 coverImage: https://fotos.etheriamagazine.com/2021/05/higiene-menstrual-plan-internacional.jpg
 categories: 
-  - salud-bienestar-nutricion
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

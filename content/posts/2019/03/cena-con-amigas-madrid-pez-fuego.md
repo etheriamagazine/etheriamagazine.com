@@ -3,9 +3,9 @@ title: "Pez Fuego, el poder de la brasa"
 date: 2019-03-23
 coverImage: https://fotos.etheriamagazine.com/2019/03/restaurante-pez-fuego-pulpo-brasa.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

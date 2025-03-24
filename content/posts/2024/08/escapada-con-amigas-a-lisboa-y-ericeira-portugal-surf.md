@@ -3,8 +3,9 @@ title: "Lisboa y Ericeira, un plan de amigas para amantes del surf y el buen com
 date: 2024-08-08
 coverImage: https://fotos.etheriamagazine.com/2020/03/Ericeira-surf.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Ana María Pareja
 ---

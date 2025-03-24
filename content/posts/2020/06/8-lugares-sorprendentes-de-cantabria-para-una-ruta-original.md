@@ -3,9 +3,9 @@ title: "Lugares sorprendentes de Cantabria que aún no conoces"
 date: 2020-06-05
 coverImage: https://fotos.etheriamagazine.com/2020/06/viaje-bosque-secuoyas-cantabria.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

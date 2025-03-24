@@ -3,9 +3,9 @@ title: "Hotel Torre del Marqués, tu oasis de lujo en la comarca de Matarraña"
 date: 2021-12-28
 coverImage: https://fotos.etheriamagazine.com/2021/12/Torre-Marques-piscina.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

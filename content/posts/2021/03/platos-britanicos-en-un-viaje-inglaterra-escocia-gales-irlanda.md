@@ -3,7 +3,9 @@ title: "¿Es tan aburrida la comida de Gran Bretaña como dicen?"
 date: 2021-03-11
 coverImage: https://fotos.etheriamagazine.com/2021/03/inglaterra-roast-beef.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

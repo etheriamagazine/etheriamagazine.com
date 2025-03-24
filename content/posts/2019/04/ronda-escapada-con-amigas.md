@@ -3,9 +3,9 @@ title: "Escapada a la Ronda más literaria, romántica y monumental"
 date: 2019-04-16
 coverImage: https://fotos.etheriamagazine.com/2019/04/Ronda-mirador.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

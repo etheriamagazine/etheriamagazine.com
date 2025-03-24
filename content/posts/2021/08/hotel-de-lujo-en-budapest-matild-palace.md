@@ -3,9 +3,9 @@ title: "No te pierdas el renovado Matild Palace, tu hotel de lujo en Budapest"
 date: 2021-08-16
 coverImage: https://fotos.etheriamagazine.com/2021/08/Matild-Palace-exterior-Budapest.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

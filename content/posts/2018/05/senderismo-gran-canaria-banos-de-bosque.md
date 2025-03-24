@@ -4,6 +4,8 @@ date: 2018-05-03
 coverImage: https://fotos.etheriamagazine.com/2018/05/gran-canaria-bosque.jpg
 categories: 
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Kris Ubach
 ---

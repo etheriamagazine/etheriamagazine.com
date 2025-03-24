@@ -3,9 +3,9 @@ title: "El Alcázar de Segovia, prepara la visita a este castillo de cuento de h
 date: 2020-03-11
 coverImage: https://fotos.etheriamagazine.com/2020/03/sala-reyes-alcazar-segovia.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
-  - visitas-guiadas
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,9 +3,9 @@ title: "Esquiar en Chequia a los pies de una nave espacial y otros planes especi
 date: 2024-01-09
 coverImage: https://fotos.etheriamagazine.com/2024/01/jested-liberec.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

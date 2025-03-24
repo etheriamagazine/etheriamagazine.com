@@ -3,8 +3,9 @@ title: "Hotel Bahía del Duque, desconexión en Tenerife"
 date: 2019-01-11
 coverImage: https://fotos.etheriamagazine.com/2019/01/hotel-bahia-del-duque-habitacion.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Susana García
 ---

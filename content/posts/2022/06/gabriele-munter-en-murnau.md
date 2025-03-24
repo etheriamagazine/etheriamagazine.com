@@ -3,9 +3,9 @@ title: "Murnau, el pueblo alemán que enamoró a la artista Gabriele Münter"
 date: 2022-06-14
 coverImage: https://fotos.etheriamagazine.com/2022/06/plaza-Murnau-alemania.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

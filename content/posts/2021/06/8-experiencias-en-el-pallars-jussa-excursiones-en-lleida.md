@@ -3,9 +3,9 @@ title: "8 experiencias que sólo puedes vivir en el Pallars Jussà (Lleida)"
 date: 2021-06-09
 coverImage: https://fotos.etheriamagazine.com/2021/06/ruta-embalse-centelles.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

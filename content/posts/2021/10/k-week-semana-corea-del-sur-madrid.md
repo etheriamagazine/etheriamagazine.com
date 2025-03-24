@@ -3,8 +3,9 @@ title: "Corea del Sur llega a Madrid con su K-Week"
 date: 2021-10-15
 coverImage: https://fotos.etheriamagazine.com/2021/10/Corea-del-sur-Callejon-Puigcerda.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

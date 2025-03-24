@@ -3,9 +3,9 @@ title: "Hotel Barceló Bávaro Palace, date un capricho cinco estrellas en Repú
 date: 2021-04-26
 coverImage: https://fotos.etheriamagazine.com/2021/04/Barcelo-bavaro-palace-playa.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

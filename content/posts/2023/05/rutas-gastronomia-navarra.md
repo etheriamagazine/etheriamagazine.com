@@ -3,8 +3,10 @@ title: "Descubre a qué sabe Navarra a través de estas rutas gastronómicas"
 date: 2023-05-08
 coverImage: https://fotos.etheriamagazine.com/2023/05/navarra-ruta-northern-spain-travel.jpg
 categories: 
-  - viajes-con-amigas
-  - mejores-restaurantes-gastronomia
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

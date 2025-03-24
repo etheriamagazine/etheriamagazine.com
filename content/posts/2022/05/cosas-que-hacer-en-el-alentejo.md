@@ -3,9 +3,9 @@ title: "10 cosas que sólo puedes hacer en el Alentejo (y que no te esperas)"
 date: 2022-05-05
 coverImage: https://fotos.etheriamagazine.com/2022/05/palafitos-carrasqueira.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

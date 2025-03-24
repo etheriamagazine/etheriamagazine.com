@@ -3,7 +3,9 @@ title: "Pobreza y analfabetismo menstrual, asignaturas pendientes en el Día de 
 date: 2022-05-27
 coverImage: https://fotos.etheriamagazine.com/2022/05/dia-higiene-menstrual.jpg
 categories: 
-  - salud-bienestar-nutricion
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

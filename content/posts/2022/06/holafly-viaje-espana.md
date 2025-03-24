@@ -3,9 +3,9 @@ title: "Conoce la eSIM de Holafly para viajar a España"
 date: 2022-06-17
 coverImage: https://fotos.etheriamagazine.com/2022/06/tarjeta-prepago-holafly.jpg
 categories: 
-  - consejos-practicos
-  - organiza-tu-viaje
-  - viajes-para-mujeres
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

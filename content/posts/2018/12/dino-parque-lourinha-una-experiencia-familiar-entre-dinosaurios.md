@@ -3,9 +3,10 @@ title: "Dino Parque Lourinhã, una experiencia familiar entre dinosaurios"
 date: 2018-12-20
 coverImage: https://fotos.etheriamagazine.com/2018/12/Dinoparque-lourinha-viajes-familias-5-e1561371638676.jpg
 categories: 
-  - viaje-en-familia
-  - parques-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

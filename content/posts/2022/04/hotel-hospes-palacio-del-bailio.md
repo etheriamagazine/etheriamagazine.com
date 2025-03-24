@@ -3,9 +3,9 @@ title: "Hospes Palacio del Bailío, un hotel lleno de historia en Córdoba"
 date: 2022-04-29
 coverImage: https://fotos.etheriamagazine.com/2022/04/palacio-bailio-Suite-Al-Andalus.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Susana García
 ---

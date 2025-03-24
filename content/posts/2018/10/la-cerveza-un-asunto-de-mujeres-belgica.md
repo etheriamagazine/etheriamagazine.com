@@ -3,9 +3,10 @@ title: "Descubre en Bélgica por qué la cerveza es un asunto de mujeres"
 date: 2018-10-02
 coverImage: https://fotos.etheriamagazine.com/2018/09/Cerveza-te-quiero.jpg
 categories: 
-  - viajes-gastronomicos
-  - historias-en-femenino
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - historias
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

@@ -3,11 +3,10 @@ title: "Excursión a las Barrancas de Burujón"
 date: 2023-10-20
 coverImage: https://fotos.etheriamagazine.com/2023/10/barrancas-burujon-vistas.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

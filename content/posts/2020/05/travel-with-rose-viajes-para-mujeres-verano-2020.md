@@ -3,9 +3,11 @@ title: "‘Travel with Rose’ adapta sus viajes para hacerlos más seguros"
 date: 2020-05-27
 coverImage: https://fotos.etheriamagazine.com/2020/05/travel-with-rose-mujeres.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
   - viajar-sola
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

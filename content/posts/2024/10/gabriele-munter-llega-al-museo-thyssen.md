@@ -3,9 +3,10 @@ title: "Gabriele Münter llega al Museo Thyssen: primera gran retrospectiva de l
 date: 2024-10-16
 coverImage: https://fotos.etheriamagazine.com/2024/10/portada-gabriele-munter-thyssen.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

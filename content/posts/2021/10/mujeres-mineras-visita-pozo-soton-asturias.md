@@ -3,9 +3,9 @@ title: "¿Qué papel jugaron las mujeres mineras asturianas? Bajamos al Pozo Sot
 date: 2021-10-20
 coverImage: https://fotos.etheriamagazine.com/2021/10/galeria-mina-asturias.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

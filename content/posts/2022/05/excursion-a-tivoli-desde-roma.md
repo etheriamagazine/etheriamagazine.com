@@ -2,8 +2,8 @@
 title: "Excursión a Tívoli: un plan perfecto desde Roma"
 date: 2022-05-06
 coverImage: https://fotos.etheriamagazine.com/2022/05/Tivoli-villa-dell-este.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

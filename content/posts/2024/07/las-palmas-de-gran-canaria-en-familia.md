@@ -3,8 +3,9 @@ title: "Las Palmas de Gran Canaria con niños, diversión asegurada"
 date: 2024-07-01
 coverImage: https://fotos.etheriamagazine.com/2024/06/gran-canaria-Playa-Las-Canteras.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

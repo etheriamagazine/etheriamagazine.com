@@ -3,9 +3,9 @@ title: "10 productos manchegos de calidad que alegran tu mesa por pocos euros"
 date: 2023-12-22
 coverImage: https://fotos.etheriamagazine.com/2023/12/productos-manchegos-cena-navidad.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,8 +3,9 @@ title: "Jamming sessions, un espectáculo donde la clave está en la improvisaci
 date: 2021-09-30
 coverImage: https://fotos.etheriamagazine.com/2021/09/portada-jamming.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

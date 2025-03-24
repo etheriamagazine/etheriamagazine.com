@@ -3,9 +3,9 @@ title: "Tánger, ¿qué tiene su medina que encandiló a Matisse y a Carmina Ord
 date: 2022-08-16
 coverImage: https://fotos.etheriamagazine.com/2022/08/tanger-mirador-bonito.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

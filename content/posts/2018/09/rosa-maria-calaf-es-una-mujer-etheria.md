@@ -3,9 +3,9 @@ title: "Rosa María Calaf nos descubre sus secretos viajeros"
 date: 2018-09-17
 coverImage: https://fotos.etheriamagazine.com/2018/09/Rosa-Maria-calaf-Mongolia.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Eva Madruga
 ---

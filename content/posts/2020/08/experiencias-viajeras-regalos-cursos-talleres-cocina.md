@@ -3,9 +3,10 @@ title: "Viaja a través de la gastronomía: cursos y talleres de cocina regional
 date: 2020-08-25
 coverImage: https://fotos.etheriamagazine.com/2020/08/gastronomia-espana-boqueria-barcelona.jpg
 categories: 
-  - organiza-tu-viaje
-  - experiencias-viajeras
-  - planes-cultura-ocio
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

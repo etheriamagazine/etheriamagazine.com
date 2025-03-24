@@ -3,7 +3,9 @@ title: "Magister Raffaello, una exposición inmersiva con entrada libre en Madri
 date: 2022-10-31
 coverImage: https://fotos.etheriamagazine.com/2022/10/Rafael-exposicion-madrid.jpg
 categories: 
-  - exposiciones
+  - cultura
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,8 +3,9 @@ title: "10 exposiciones en Madrid para ver en otoño de 2024"
 date: 2024-10-23
 coverImage: https://fotos.etheriamagazine.com/2024/10/exposiciones-madrid-otono-casa-mexico-coleccion-blastein-mujer.jpg
 categories: 
-  - exposiciones
-  - viajes-para-mujeres
+  - cultura
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

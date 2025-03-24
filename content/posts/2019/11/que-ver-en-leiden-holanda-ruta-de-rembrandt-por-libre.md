@@ -3,9 +3,10 @@ title: "Qué ver en Leiden, la cuna de Rembrandt"
 date: 2019-11-14
 coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-Leiden-terrazas.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

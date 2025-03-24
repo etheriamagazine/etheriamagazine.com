@@ -3,7 +3,9 @@ title: "San Marco: no te pierdas ningún detalle del corazón de Venecia"
 date: 2022-06-09
 coverImage: https://fotos.etheriamagazine.com/2022/06/venecia-gondola-gran-canal.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Susana García
 ---

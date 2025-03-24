@@ -3,9 +3,9 @@ title: "Macizo de Anaga, los secretos del Tenerife más rural"
 date: 2024-04-10
 coverImage: https://fotos.etheriamagazine.com/2023/12/macizo-anaga-tenerife.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

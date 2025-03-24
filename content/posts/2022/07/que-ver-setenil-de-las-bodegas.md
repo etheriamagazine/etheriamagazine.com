@@ -3,9 +3,10 @@ title: "Excursión a Setenil de las Bodegas: qué ver en este precioso pueblo bl
 date: 2022-07-22
 coverImage: https://fotos.etheriamagazine.com/2022/07/Setenil-cuevas-sombra.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - España
 authors: 
   - Susana García
 ---

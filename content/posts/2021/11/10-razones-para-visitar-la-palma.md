@@ -3,9 +3,9 @@ title: "10 poderosas razones para viajar a La Palma (y ninguna es el volcán)"
 date: 2021-11-15
 coverImage: https://fotos.etheriamagazine.com/2021/11/viaje-la-palma-canarias.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

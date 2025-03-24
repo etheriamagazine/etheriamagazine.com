@@ -3,9 +3,9 @@ title: "Mariánské Lázně, el retiro termal checo que mereces"
 date: 2022-02-03
 coverImage: https://fotos.etheriamagazine.com/2022/02/hotel-novo-lazne.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

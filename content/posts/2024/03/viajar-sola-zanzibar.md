@@ -3,10 +3,10 @@ title: "Consejos básicos de Sania Jelic si viajas sola a Zanzíbar"
 date: 2024-03-15
 coverImage: https://fotos.etheriamagazine.com/2024/03/sania-zanzibar-mujeres-playa-paje.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
   - viajar-sola
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

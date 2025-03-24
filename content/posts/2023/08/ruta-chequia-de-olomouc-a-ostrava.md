@@ -3,8 +3,9 @@ title: "De Praga a Moravia, una ruta sorprendente en Chequia"
 date: 2023-08-25
 coverImage: https://fotos.etheriamagazine.com/2023/08/stramberk-pueblo-chequia.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

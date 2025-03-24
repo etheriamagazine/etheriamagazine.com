@@ -2,8 +2,8 @@
 title: "Arte a raudales en Bruselas: las mejores exposiciones 2019-2020"
 date: 2019-12-10
 coverImage: https://fotos.etheriamagazine.com/2019/12/expo-bruselas-dali-magritte.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

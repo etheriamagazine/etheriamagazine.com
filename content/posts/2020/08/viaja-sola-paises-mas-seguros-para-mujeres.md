@@ -3,9 +3,10 @@ title: "Viajar sola, destinos donde es seguro hacer una escapada"
 date: 2020-08-12
 coverImage: https://fotos.etheriamagazine.com/2020/07/viajar-sola-inca-trail.jpg
 categories: 
-  - consejos-practicos
-  - viajes-para-mujeres
   - viajar-sola
+  - inspiración
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

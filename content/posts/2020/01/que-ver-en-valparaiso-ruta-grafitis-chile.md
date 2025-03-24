@@ -3,7 +3,9 @@ title: "Valparaíso, una bonita ruta de street art en la ciudad chilena del arco
 date: 2020-01-20
 coverImage: https://fotos.etheriamagazine.com/2019/12/Valpariso-street-art-los-cerros.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Firmas invitadas
 ---

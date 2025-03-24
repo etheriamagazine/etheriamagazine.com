@@ -3,10 +3,10 @@ title: "Planes divertidos en la Ribeira Sacra para descubrir sus secretos"
 date: 2021-06-17
 coverImage: https://fotos.etheriamagazine.com/2021/06/que-hacer-en-ribeira-sacra.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Cynthia Martín
 ---

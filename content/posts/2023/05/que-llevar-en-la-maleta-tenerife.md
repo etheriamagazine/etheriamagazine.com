@@ -3,7 +3,9 @@ title: "Qué llevar en la maleta en un viaje a Tenerife"
 date: 2023-05-26
 coverImage: https://fotos.etheriamagazine.com/2023/05/tenerife-playa-medano.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

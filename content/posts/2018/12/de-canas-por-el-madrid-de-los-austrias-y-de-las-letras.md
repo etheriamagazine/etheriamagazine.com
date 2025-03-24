@@ -3,10 +3,11 @@ title: "De cañas en Madrid: ruta por el barrio de los Austrias y por el de las 
 date: 2018-12-28
 coverImage: https://fotos.etheriamagazine.com/2018/12/Madrid-canas-taberna-la-daniela.jpg
 categories: 
-  - consejos-practicos
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - planes-cultura-ocio
+  - inspiración
+  - gourmet
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

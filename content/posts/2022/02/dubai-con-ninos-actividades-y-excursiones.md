@@ -3,11 +3,11 @@ title: "Dubái con niños: 8 actividades para disfrutar en familia y una novedad
 date: 2022-02-25
 coverImage: https://fotos.etheriamagazine.com/2022/02/Dubai-museo-del-futuro.jpg
 categories: 
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

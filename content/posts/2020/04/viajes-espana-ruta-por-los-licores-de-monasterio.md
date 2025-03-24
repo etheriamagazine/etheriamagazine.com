@@ -3,10 +3,10 @@ title: "Ruta por los licores de monasterio"
 date: 2020-04-29
 coverImage: https://fotos.etheriamagazine.com/2020/04/monasterio-leyre.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

@@ -3,8 +3,9 @@ title: "Países donde los viajeros españoles no son (ahora) bienvenidos por el 
 date: 2020-03-12
 coverImage: https://fotos.etheriamagazine.com/2020/03/viajes-coronavirus.jpg
 categories: 
-  - consejos-practicos
-  - viajes-para-mujeres
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,10 +3,9 @@ title: "Descubre los secretos de Orleans, la ciudad que pudo reinar"
 date: 2021-11-09
 coverImage: https://fotos.etheriamagazine.com/2021/11/Fin-de-semana-Orleans-RueJeanne-dArc.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

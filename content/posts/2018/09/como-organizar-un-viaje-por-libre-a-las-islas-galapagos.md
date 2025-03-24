@@ -3,9 +3,10 @@ title: "Qué debes tener en cuenta para viajar a Galápagos"
 date: 2018-09-29
 coverImage: https://fotos.etheriamagazine.com/2018/09/tortuga-islas-galapagos.jpg
 categories: 
-  - consejos-practicos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

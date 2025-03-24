@@ -3,7 +3,9 @@ title: "Descubre la quintaesencia de las islas Canarias"
 date: 2022-11-26
 coverImage: https://fotos.etheriamagazine.com/2022/11/pico-las-nieves-gran-canaria.jpg
 categories: 
-  - de-un-vistazo
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

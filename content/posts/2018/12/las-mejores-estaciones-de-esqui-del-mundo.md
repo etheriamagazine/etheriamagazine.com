@@ -3,8 +3,9 @@ title: "Cumple tu sueño de esquiar en las mejores estaciones del mundo"
 date: 2018-12-14
 coverImage: https://fotos.etheriamagazine.com/2018/12/Aspen-Snowmass-mujeres-esqui.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Cristina R. Bareño
 ---

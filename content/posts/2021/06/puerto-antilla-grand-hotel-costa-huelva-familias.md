@@ -3,9 +3,10 @@ title: "Puerto Antilla Grand Hotel, un oasis en la costa de Huelva"
 date: 2021-06-03
 coverImage: https://fotos.etheriamagazine.com/2021/06/puerto-antilla-grand-hotel-noche.jpg
 categories: 
-  - organiza-tu-viaje
-  - viaje-en-familia
+  - viajar-en-familia
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

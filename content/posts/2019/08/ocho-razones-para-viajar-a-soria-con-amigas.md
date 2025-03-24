@@ -3,10 +3,9 @@ title: "Ocho razones para visitar Soria con amigas este otoño"
 date: 2019-08-12
 coverImage: https://fotos.etheriamagazine.com/2021/02/laguna-negra-en-soria.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

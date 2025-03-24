@@ -3,9 +3,9 @@ title: "Qué hacer en Sopot, la ciudad balneario más glamurosa de Polonia"
 date: 2020-12-25
 coverImage: https://fotos.etheriamagazine.com/2020/12/sopot-muelle.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

@@ -3,9 +3,10 @@ title: "Hoteles con mucho Arte"
 date: 2018-09-12
 coverImage: https://fotos.etheriamagazine.com/2018/09/Lobby-Gallery-hotel-pavilions-madrid.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - exposiciones
+  - cultura
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

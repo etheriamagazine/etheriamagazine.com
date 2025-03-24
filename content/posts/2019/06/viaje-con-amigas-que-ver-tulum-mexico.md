@@ -3,8 +3,9 @@ title: "Un viaje con amigas a Tulum, el último paraíso mexicano"
 date: 2019-06-19
 coverImage: https://fotos.etheriamagazine.com/2019/06/Tulum-con-amigas-barca.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Macarena Escrivá
 ---

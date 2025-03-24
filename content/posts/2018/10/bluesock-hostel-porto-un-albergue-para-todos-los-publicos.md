@@ -3,9 +3,10 @@ title: "Bluesock Hostel Porto, un albergue para todos los públicos"
 date: 2018-10-18
 coverImage: https://fotos.etheriamagazine.com/2018/10/Blue-sock-hostel-oporto-literas.jpg
 categories: 
-  - organiza-tu-viaje
-  - hoteles
   - viajar-sola
+  - hoteles
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

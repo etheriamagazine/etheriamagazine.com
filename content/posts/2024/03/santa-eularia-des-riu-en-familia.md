@@ -3,8 +3,9 @@ title: "Santa Eulària des Riu o cómo disfrutar de Ibiza en familia"
 date: 2024-03-20
 coverImage: https://fotos.etheriamagazine.com/2024/03/ibiza-ruta-senderista-caballo.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

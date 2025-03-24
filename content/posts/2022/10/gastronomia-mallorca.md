@@ -3,7 +3,9 @@ title: "10 secretos ‘gastro’ que deberías conocer de Mallorca"
 date: 2022-10-25
 coverImage: https://fotos.etheriamagazine.com/2022/10/Mallorca-THE-MERCHANT-tuetano.jpg
 categories: 
-  - de-un-vistazo
+  - inspiración
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

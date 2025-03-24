@@ -3,9 +3,9 @@ title: "Hotel Santo Cristo, el lujo discreto de los pequeños detalles"
 date: 2022-01-10
 coverImage: https://fotos.etheriamagazine.com/2022/01/Hotel-Santo-Cristo-terraza.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

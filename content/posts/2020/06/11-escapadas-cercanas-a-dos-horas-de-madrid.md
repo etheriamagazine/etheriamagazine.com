@@ -3,12 +3,11 @@ title: "11 excursiones desde Madrid a 100 km o poco más"
 date: 2020-06-02
 coverImage: https://fotos.etheriamagazine.com/2020/05/viaje-barrancas.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
   - viajar-sola
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

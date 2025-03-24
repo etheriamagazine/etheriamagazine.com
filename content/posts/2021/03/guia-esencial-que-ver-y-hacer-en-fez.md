@@ -3,8 +3,9 @@ title: "Guía esencial de Fez, la capital espiritual de Marruecos"
 date: 2021-03-18
 coverImage: https://fotos.etheriamagazine.com/2021/03/fez-atardecer-marruecos.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

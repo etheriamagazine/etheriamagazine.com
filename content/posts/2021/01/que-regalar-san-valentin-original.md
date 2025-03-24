@@ -3,8 +3,9 @@ title: "Cómo celebrar San Valentín de una forma diferente"
 date: 2021-01-28
 coverImage: https://fotos.etheriamagazine.com/2021/01/san-valentin-THE-ORGANIC-SPA.jpg
 categories: 
-  - regalos-compras-viajeras
-  - organiza-tu-viaje
+  - compras
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

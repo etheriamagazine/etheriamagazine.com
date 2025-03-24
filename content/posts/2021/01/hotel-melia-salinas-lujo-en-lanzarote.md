@@ -3,9 +3,9 @@ title: "Escapada al renovado hotel Meliá Salinas de Lanzarote"
 date: 2021-01-07
 coverImage: https://fotos.etheriamagazine.com/2021/01/hotel-melia-salinas-piscina.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

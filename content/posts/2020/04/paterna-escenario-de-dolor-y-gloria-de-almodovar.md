@@ -3,9 +3,9 @@ title: "Paterna, escenario de ‘Dolor y gloria’ de Almodóvar"
 date: 2020-04-06
 coverImage: https://fotos.etheriamagazine.com/2020/03/turismo-cine-almodovar-paterna.jpg
 categories: 
-  - viajes-cine
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Eva Madruga
 ---

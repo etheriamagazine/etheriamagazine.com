@@ -3,8 +3,9 @@ title: "Belmond Reid's Palace, el hotel más exclusivo de Madeira"
 date: 2018-12-29
 coverImage: https://fotos.etheriamagazine.com/2018/12/hotel-reids-palace-madeira.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

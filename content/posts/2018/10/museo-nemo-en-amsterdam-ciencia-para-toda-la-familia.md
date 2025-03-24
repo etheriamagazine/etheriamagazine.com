@@ -3,8 +3,9 @@ title: "Museo NEMO en Ámsterdam, ciencia al alcance de la mano"
 date: 2018-10-06
 coverImage: https://fotos.etheriamagazine.com/2018/09/museo-nemo-tesla-e1669709939123.jpg
 categories: 
-  - organiza-tu-viaje
-  - exposiciones
+  - cultura
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

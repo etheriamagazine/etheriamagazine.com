@@ -3,10 +3,10 @@ title: "Escapada en pareja al Royal Hideaway Playacar en la Riviera Maya mexican
 date: 2020-04-07
 coverImage: https://fotos.etheriamagazine.com/2020/03/Royal-hideaway-playacar-piscina-infinita.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-romanticos
+  - viajar-en-pareja
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

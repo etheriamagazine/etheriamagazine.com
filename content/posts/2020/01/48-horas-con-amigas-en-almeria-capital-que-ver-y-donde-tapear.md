@@ -3,10 +3,9 @@ title: "Qué hacer en Almería en un viaje con amigas"
 date: 2020-01-10
 coverImage: https://fotos.etheriamagazine.com/2020/01/Almeria-Mercado-Central.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

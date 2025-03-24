@@ -3,9 +3,9 @@ title: "5 experiencias en Cantabria para un fin de semana con amigas"
 date: 2020-02-17
 coverImage: https://fotos.etheriamagazine.com/2020/02/piscina-termal-solares.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,8 +3,10 @@ title: "10 lugares del mundo para escapar de la Navidad"
 date: 2018-11-13
 coverImage: https://fotos.etheriamagazine.com/2018/11/playa-huir-navidad.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

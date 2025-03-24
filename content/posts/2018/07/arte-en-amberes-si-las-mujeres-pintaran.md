@@ -2,8 +2,8 @@
 title: "Arte en Amberes. Si las mujeres pintaran..."
 date: 2018-07-05
 coverImage: https://fotos.etheriamagazine.com/2018/07/Michaelina-Cortejo-de-Baco.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

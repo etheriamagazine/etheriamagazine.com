@@ -4,6 +4,8 @@ date: 2022-11-04
 coverImage: https://fotos.etheriamagazine.com/2022/11/hotel-six-senses-douro-valley.jpg
 categories: 
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

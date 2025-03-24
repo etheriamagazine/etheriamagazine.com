@@ -4,6 +4,8 @@ date: 2018-04-13
 coverImage: https://fotos.etheriamagazine.com/2018/04/Barcelo-Boltaña-4.jpg
 categories: 
   - hoteles
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

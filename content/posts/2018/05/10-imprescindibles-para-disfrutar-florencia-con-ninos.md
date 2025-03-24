@@ -3,8 +3,10 @@ title: "Florencia con niños, 10 actividades divertidas en la ciudad"
 date: 2018-05-17
 coverImage: https://fotos.etheriamagazine.com/2018/05/11-FLORENCIA-CON-NINOS-GALERIA-DE-LOS-UFFIZI-e1581094872695.jpg
 categories: 
-  - viaje-en-familia
-  - de-un-vistazo
+  - viajar-en-familia
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

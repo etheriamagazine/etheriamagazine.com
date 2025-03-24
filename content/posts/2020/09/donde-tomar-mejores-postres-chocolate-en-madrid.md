@@ -3,9 +3,9 @@ title: "Postres de chocolate con efecto terapéutico en Madrid"
 date: 2020-09-11
 coverImage: https://fotos.etheriamagazine.com/2020/09/restaurante-santita-helado-chocolate-metate-baja.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

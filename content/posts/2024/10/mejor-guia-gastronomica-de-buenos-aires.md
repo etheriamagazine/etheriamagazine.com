@@ -3,9 +3,9 @@ title: "La mejor guía gastronómica de Buenos Aires para mujeres que viajan sol
 date: 2024-10-09
 coverImage: https://fotos.etheriamagazine.com/2024/10/buenos-aires-restaurante-trescha.jpg
 categories: 
-  - viajes-urbanos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

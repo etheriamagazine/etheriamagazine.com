@@ -3,9 +3,9 @@ title: "10 películas rodadas en Jordania que no te puedes perder"
 date: 2019-08-06
 coverImage: https://fotos.etheriamagazine.com/2019/07/Apertura-Jordania-cine-Wadi-Rum.jpg
 categories: 
-  - viajes-cine
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Eva Madruga
 ---

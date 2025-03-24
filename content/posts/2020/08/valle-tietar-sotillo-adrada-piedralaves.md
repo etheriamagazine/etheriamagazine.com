@@ -3,9 +3,9 @@ title: "El Valle del Tiétar, la Marbella de interior"
 date: 2020-08-19
 coverImage: https://fotos.etheriamagazine.com/2020/08/castillo-adrada.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Paloma Herce
 ---

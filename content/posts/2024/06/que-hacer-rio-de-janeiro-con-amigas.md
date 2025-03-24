@@ -3,8 +3,9 @@ title: "Río de Janeiro, una \"cidade maravilhosa\" para viajar con amigas"
 date: 2024-06-29
 coverImage: https://fotos.etheriamagazine.com/2024/06/viaje-amigas-rio-janeiro.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Cris Aizpeolea
 ---

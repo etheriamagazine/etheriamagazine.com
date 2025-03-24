@@ -1,20 +1,20 @@
 ---
-title: "Kristina de Noruega en Covarrubias, del misterio a la eternidad"
+title: "Conoce la historia de Kristina de Noruega, la princesa nórdica que yace en Covarrubias"
 date: 2023-11-20
 coverImage: https://fotos.etheriamagazine.com/2023/11/calle-covarrubia.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---
 
-Covarrubias, en la lista de los “pueblos más bonitos de España”, siempre es un planazo 
-de fin de semana, pero aún más si le sumamos la curiosa historia de la princesa Kristina 
-de Noruega. En esta villa burgalesa os esperan su reposo eterno, la capilla de San Olav, 
-levantada por expreso deseo de la noble nórdica, y un buen número de visitas de interés. 
-¿Os lo vais a perder? 
+Visitar Covarrubias, en la Lista de los Pueblos más bonitos de España, siempre es un 
+planazo de fin de semana, pero aún más si le sumamos la curiosa historia de la princesa 
+Kristina de Noruega. En esta villa burgalesa os esperan su tumba, la capilla de San 
+Olav, levantada por expreso deseo de la noble nórdica, y un buen número de visitas de 
+interés. 
 
 ![Covarrubias, uno de los pueblos más bonitos de España.](https://fotos.etheriamagazine.com/2023/11/covarrubias.jpg "Covarrubias, uno de los pueblos más bonitos de España. © Etheria Magazine")
 
@@ -51,7 +51,7 @@ y se había quedado impresionado por su belleza. Sin embargo, Kristina le rechaz
 que por la diferencia de edad o porque la alianza hubiese resultado menos ventajosa. Eso 
 nunca lo sabremos... 
 
-### Princesa busca esposo
+## Casada en Valladolid pero residente en Sevilla
 
 Ya en tierras castellanas, el siguiente paso fue elegir al futuro esposo entre los 
 hermanos de Alfonso X, una quiniela que se redujo por diversos motivos a **dos 
@@ -63,7 +63,7 @@ Covarrubias y era arzobispo de Sevilla, tuvo que ser dispensado de sus deberes
 eclesiásticos. La pareja contrajo matrimonio el 31 de marzo de 1258 en la Colegiata de 
 Santa María de Valladolid y se establecieron en Sevilla. 
 
-La existencia de Kristina, dicen que marcada por la nostalgia, fue efímera ya que 
+La existencia de Kristina, dicen que **marcada por la nostalgia**, fue efímera ya que 
 falleció en 1262, sólo cuatro años después de su llegada y sin dejar descendencia. Se 
 rumorea que su enfermedad y la dificultad para adaptarse al clima sevillano 
 contribuyeron a su prematura partida. En 1265, Felipe contrajo matrimonio con Leonor 
@@ -80,8 +80,8 @@ estudiaba los sepulcros de la Colegiata de Covarrubias, descubrió en uno de ell
 restos momificados de una mujer elegantemente vestida. Su cabellera rubia y una estatura 
 superior a la media castellana llamaron su atención. Los versos de amor hallados en el 
 interior del sepulcro y escritos por Felipe –recordemos que había sido abad de ese 
-templo– no dejaron lugar a dudas: era Kristina. Hoy día, cuando las chicas solteras 
-visitan su tumba tocan la campana del claustro porque dice la leyenda que así 
+templo– no dejaron lugar a dudas: era Kristina. Hoy día, cuando las **chicas solteras 
+visitan su tumba tocan la campana del claustro** porque dice la leyenda que así 
 encontrarán el amor que a la princesa le fue negado. 
 
 ![Colegiata de Covarrubias.](https://fotos.etheriamagazine.com/2023/11/colegiata-covarrubias.jpg "Colegiata de Covarrubias. © Etheria Mag.")
@@ -186,11 +186,10 @@ Y así, entre visitas, paseos, recuerdos de Kristina de Noruega y algún que otr
 rosado de la **D.O. de Arlanza** habréis pasado un fin de semana inolvidable en la [provincia 
 de Burgos](https://etheriamagazine.com/2022/06/24/burgos-subterraneo/). Garantizado. 
 
-✅ **Más información**: [Turismo de Covarrubias](https://covarrubias.es/). 
+**Más información**: [Turismo de Covarrubias](https://covarrubias.es/). 
 
-✅ **Para saber más sobre Kristina de Noruega:** 
+**Para saber más sobre Kristina de Noruega:** 
 
 **Fundación Princesa Kristina** (fundacionprincesakristina.com) 
 
-📍Libros: [La flor del norte](https://amzn.to/3SK7MQv), de Espido Freire y [Viaje a Al 
-Ándalus](https://amzn.to/46gmIJq), de Per Erik Borge.
+Libros: _La flor del norte_, de Espido Freire y _Viaje a Al Ándalus_, de Per Erik Borge.

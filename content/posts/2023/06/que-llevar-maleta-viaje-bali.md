@@ -3,9 +3,9 @@ title: "Qué llevar en la maleta en un viaje a Bali"
 date: 2023-06-23
 coverImage: https://fotos.etheriamagazine.com/2023/06/maleta-bali-mujeres.jpg
 categories: 
-  - organiza-tu-viaje
-  - que-llevar-en-la-maleta
-  - viajes-para-mujeres
+  - qué-llevar-en-la-maleta
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

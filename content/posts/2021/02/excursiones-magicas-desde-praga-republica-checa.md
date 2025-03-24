@@ -3,9 +3,9 @@ title: "República Checa, un viaje al reino de la fantasía"
 date: 2021-02-26
 coverImage: https://fotos.etheriamagazine.com/2021/02/hluboka-nad-vltavou.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

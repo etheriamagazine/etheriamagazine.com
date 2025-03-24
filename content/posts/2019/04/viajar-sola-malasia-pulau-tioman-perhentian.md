@@ -3,9 +3,9 @@ title: "Viajar sola a Malasia, un itinerario entre islas y selva"
 date: 2019-04-12
 coverImage: https://fotos.etheriamagazine.com/2019/04/Malasia-puerto-isla-Perhentian.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Ana Vara y David Santiago
 ---

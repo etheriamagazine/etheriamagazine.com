@@ -3,9 +3,10 @@ title: "10 paisajes para evadirte en momentos de estrés"
 date: 2020-03-18
 coverImage: https://fotos.etheriamagazine.com/2020/03/Paisajes-perito-moreno.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

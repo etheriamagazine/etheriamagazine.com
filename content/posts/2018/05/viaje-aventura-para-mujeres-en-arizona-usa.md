@@ -4,6 +4,8 @@ date: 2018-05-29
 coverImage: https://fotos.etheriamagazine.com/2018/05/Antelope-Canyon.jpg
 categories: 
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Kris Ubach
 ---

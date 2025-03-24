@@ -3,9 +3,9 @@ title: "10 locales clandestinos de Madrid o donde las apariencias engañan"
 date: 2018-06-28
 coverImage: https://fotos.etheriamagazine.com/2018/06/Madrid-bar-clandestino.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

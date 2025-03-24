@@ -3,8 +3,9 @@ title: "Los Indianos, cuando La Palma se disfraza de Cuba"
 date: 2020-02-03
 coverImage: https://fotos.etheriamagazine.com/2020/01/la-palma-carnaval-indianos-polvos-plaza.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

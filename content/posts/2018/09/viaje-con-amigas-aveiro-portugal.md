@@ -3,10 +3,9 @@ title: "Aveiro no es la Venecia portuguesa, ni falta que hace"
 date: 2018-09-11
 coverImage: https://fotos.etheriamagazine.com/2018/09/aveiro-moliceiro-portugal-e1556956577209.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Kelu Robles
 ---

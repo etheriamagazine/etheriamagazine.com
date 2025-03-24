@@ -3,8 +3,9 @@ title: "Alicia Sornosa: “Toda aventura empieza con un sí”"
 date: 2018-09-24
 coverImage: https://fotos.etheriamagazine.com/2018/09/alicia-sornosa-viajera-etheria-magazine.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

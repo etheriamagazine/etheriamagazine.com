@@ -3,8 +3,9 @@ title: "Date un capricho cinco estrellas en el hotel Mandarin Oriental Milan"
 date: 2021-03-10
 coverImage: https://fotos.etheriamagazine.com/2021/03/hotel-oriental-mandarin-milan-fachada.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

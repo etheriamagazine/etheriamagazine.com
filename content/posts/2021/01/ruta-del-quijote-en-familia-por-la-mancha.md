@@ -3,8 +3,9 @@ title: "Ruta del Quijote, en familia por La Mancha"
 date: 2021-01-29
 coverImage: https://fotos.etheriamagazine.com/2021/01/Alcazar-de-San-Juan-atardecer-molinos.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

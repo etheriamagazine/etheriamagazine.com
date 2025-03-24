@@ -3,9 +3,9 @@ title: "Ruta del vino en Mallorca: descubre la D.O. Binissalem"
 date: 2018-07-26
 coverImage: https://fotos.etheriamagazine.com/2018/07/Vino-rosado-Enoturismo-Binissalem-Mallorca-e1553175846903.jpg
 categories: 
-  - viajes-romanticos
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

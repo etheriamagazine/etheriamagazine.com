@@ -3,7 +3,9 @@ title: "Los influencers que amaban a las langostas"
 date: 2023-07-28
 coverImage: https://fotos.etheriamagazine.com/2023/07/portada-langosta-3.jpg
 categories: 
-  - mi-peor-viaje
+  - historias
+destino: 
+  - España
 authors: 
   - Rafael de Rojas
 ---

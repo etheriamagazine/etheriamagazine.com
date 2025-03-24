@@ -3,8 +3,9 @@ title: "Madrigal de las Altas Torres, una excursi√≥n a la cuna de Isabel la Cat√
 date: 2022-02-14
 coverImage: https://fotos.etheriamagazine.com/2022/02/Panoramica-Madrigal.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Carmen Pineda
 ---

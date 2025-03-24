@@ -3,8 +3,9 @@ title: "Las 11 mejores series para llevarte de viaje"
 date: 2020-10-27
 coverImage: https://fotos.etheriamagazine.com/2020/10/series-viajar-el-mundo-en-llamas.jpg
 categories: 
-  - viajes-cine
-  - viajes-para-mujeres
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,8 +3,10 @@ title: "8 razones por las que te va a apetecer viajar a Valonia"
 date: 2023-05-16
 coverImage: https://fotos.etheriamagazine.com/2023/05/valonia-Dinant-lago.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

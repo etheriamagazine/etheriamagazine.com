@@ -3,9 +3,9 @@ title: "10 planes imprescindibles en Torremolinos"
 date: 2021-05-19
 coverImage: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-torremolinos.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

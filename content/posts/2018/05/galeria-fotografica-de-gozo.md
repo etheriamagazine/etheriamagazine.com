@@ -3,7 +3,9 @@ title: "La isla de Gozo en 10 imágenes"
 date: 2018-05-17
 coverImage: https://fotos.etheriamagazine.com/2018/05/8-Viaje-a-Gozo-y-Malta-Viñedos.jpg
 categories: 
-  - de-un-vistazo
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

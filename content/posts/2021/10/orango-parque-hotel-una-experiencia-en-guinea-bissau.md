@@ -3,9 +3,9 @@ title: "Orango Parque Hotel, vive una experiencia inolvidable en Guinea Bissau"
 date: 2021-10-14
 coverImage: https://fotos.etheriamagazine.com/2021/10/comida-hotel-orango-parque.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

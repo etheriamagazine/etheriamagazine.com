@@ -3,9 +3,10 @@ title: "Cenas o brunch, la Navidad en el Hotel Orfila se celebra por todo lo alt
 date: 2024-11-18
 coverImage: https://fotos.etheriamagazine.com/2024/11/Orfila_Navidad.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
+  - gourmet
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

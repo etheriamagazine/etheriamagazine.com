@@ -3,9 +3,10 @@ title: "Trekking a Ushguli, la aldea habitada más alta de Europa"
 date: 2021-02-16
 coverImage: https://fotos.etheriamagazine.com/2021/02/ushguli-georgia.jpg
 categories: 
-  - historias-en-femenino
-  - viajes-para-mujeres
   - viajar-sola
+  - historias
+destino: 
+  - Europa
 authors: 
   - Firmas invitadas
 ---

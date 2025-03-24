@@ -3,9 +3,9 @@ title: "Ruta en coche por Cerdeña, un plan irrechazable"
 date: 2018-09-14
 coverImage: https://fotos.etheriamagazine.com/2018/09/viaje-La-Pelosa-Stintino-Sardegna-e1550992140547.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

@@ -3,10 +3,9 @@ title: "Turín con amigas: viaja a la ciudad más supersticiosa de Italia"
 date: 2021-07-16
 coverImage: https://fotos.etheriamagazine.com/2019/12/viaje-mujeres-turin-portada-etheria.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Kelu Robles
 ---

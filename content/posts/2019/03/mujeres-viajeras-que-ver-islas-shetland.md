@@ -3,10 +3,11 @@ title: "Islas Shetland, un paraíso en el Atlántico Norte"
 date: 2019-03-21
 coverImage: https://fotos.etheriamagazine.com/2019/03/que-ver-islas-shetland-e1552903777244.jpg
 categories: 
-  - viajes-ecoturismo
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

@@ -3,9 +3,9 @@ title: "Marisa de León, de Viajes Mundo Amigo: \"Los viajes lo han aportado tod
 date: 2019-03-18
 coverImage: https://fotos.etheriamagazine.com/2019/03/marisa-viajes-mundo-amigo.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

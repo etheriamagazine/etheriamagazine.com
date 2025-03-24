@@ -3,8 +3,9 @@ title: "Valle Central de Costa Rica: 3 mujeres y 10 paradas imprescindibles"
 date: 2022-09-16
 coverImage: https://fotos.etheriamagazine.com/2022/09/Puerto-Viejo-costa-rica.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

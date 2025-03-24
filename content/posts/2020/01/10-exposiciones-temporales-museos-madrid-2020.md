@@ -3,8 +3,10 @@ title: "10 exposiciones en Madrid que no puedes perderte en 2020"
 date: 2020-01-16
 coverImage: https://fotos.etheriamagazine.com/2020/01/exposiciones-Madrid-Thyssen-alex-katz.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

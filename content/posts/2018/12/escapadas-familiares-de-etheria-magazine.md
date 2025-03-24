@@ -3,10 +3,11 @@ title: "Las 5 escapadas familiares más leídas"
 date: 2018-12-29
 coverImage: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-Volcan-Poas.jpg
 categories: 
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

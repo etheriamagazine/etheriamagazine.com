@@ -3,7 +3,9 @@ title: "Highlands o Tierras Altas de Escocia, una guía básica para recorrerlas
 date: 2020-09-10
 coverImage: https://fotos.etheriamagazine.com/2020/12/castillo-kilchurn-escocia.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Nuria Cortés
 ---

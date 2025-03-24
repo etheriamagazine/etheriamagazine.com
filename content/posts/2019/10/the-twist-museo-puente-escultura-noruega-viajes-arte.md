@@ -3,10 +3,10 @@ title: "The Twist, el museo más original de Noruega"
 date: 2019-10-03
 coverImage: https://fotos.etheriamagazine.com/2019/10/noruega-the-twist-museo-kistefos-mujeres.jpg
 categories: 
-  - organiza-tu-viaje
-  - exposiciones
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

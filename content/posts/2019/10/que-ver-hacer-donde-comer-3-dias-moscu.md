@@ -3,9 +3,9 @@ title: "Todo lo que debes ver en Moscú en un fin de semana"
 date: 2019-10-09
 coverImage: https://fotos.etheriamagazine.com/2019/09/viaje-mujeres-moscu.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

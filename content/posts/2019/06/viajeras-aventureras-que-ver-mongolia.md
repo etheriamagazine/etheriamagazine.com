@@ -3,10 +3,9 @@ title: "Mongolia, el país de los últimos nómadas"
 date: 2019-06-13
 coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-mongolia-Paisano-en-Shine-Ider.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Ana Vara y David Santiago
 ---

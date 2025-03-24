@@ -3,9 +3,10 @@ title: "'Objetivo: Viajar sola', no te pierdas el I Encuentro de Viajeras 2.0 de
 date: 2024-05-09
 coverImage: https://fotos.etheriamagazine.com/2024/05/mujer-viaja-sola.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -2,7 +2,9 @@
 title: "Gana 2 noches en el hotel Riad Belle Epoque"
 date: 2019-10-17
 categories: 
-  - sorteos-y-concursos
+  - sorteos
+destino: 
+  - España
 authors: 
   - Etheria Magazine
 ---

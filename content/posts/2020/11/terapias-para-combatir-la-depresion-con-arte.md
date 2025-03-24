@@ -3,7 +3,9 @@ title: "Arte para combatir la depresión y la ansiedad"
 date: 2020-11-04
 coverImage: https://fotos.etheriamagazine.com/2020/10/tristeza-depresion-mujres.jpg
 categories: 
-  - salud-bienestar-nutricion
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

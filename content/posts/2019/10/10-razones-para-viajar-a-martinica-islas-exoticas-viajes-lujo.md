@@ -3,10 +3,10 @@ title: "10 razones para viajar a Martinica, la perla de las Antillas menores"
 date: 2019-10-04
 coverImage: https://fotos.etheriamagazine.com/2019/09/Martinica-mont-pelee.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-romanticos
-  - de-un-vistazo
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - inspiración
+destino: 
+  - España
 authors: 
   - Yvonne Solé
 ---

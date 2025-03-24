@@ -3,8 +3,9 @@ title: "Regálame un libro"
 date: 2019-04-23
 coverImage: https://fotos.etheriamagazine.com/2019/04/libros-mujeres-etheria.jpg
 categories: 
-  - organiza-tu-viaje
-  - libros-de-viajes
+  - cultura
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

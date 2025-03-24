@@ -3,11 +3,11 @@ title: "Festival Grand Restaurant: comer de lujo por poco dinero en Chequia"
 date: 2019-12-13
 coverImage: https://fotos.etheriamagazine.com/2019/12/Tusculum-Karlovy-Vary.jpg
 categories: 
-  - organiza-tu-viaje
-  - festivales
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+  - gourmet
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

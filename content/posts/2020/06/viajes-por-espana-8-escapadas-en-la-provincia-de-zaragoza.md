@@ -3,11 +3,11 @@ title: "8 escapadas en la provincia de Zaragoza"
 date: 2020-06-08
 coverImage: https://fotos.etheriamagazine.com/2020/05/Zaragoza-Muel.jpg
 categories: 
-  - viajes-48-horas
-  - consejos-practicos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
   - viajar-sola
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

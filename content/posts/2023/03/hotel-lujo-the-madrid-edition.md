@@ -3,8 +3,9 @@ title: "The Madrid EDITION, un hotel de lujo lleno de estilo"
 date: 2023-03-27
 coverImage: https://fotos.etheriamagazine.com/2023/03/hotel-madrid-edition-sala.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

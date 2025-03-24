@@ -3,9 +3,9 @@ title: "Nuestros favoritos de Coimbra, una ciudad donde los sueños se hacen rea
 date: 2020-01-31
 coverImage: https://fotos.etheriamagazine.com/2020/01/universidad-coimbra.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

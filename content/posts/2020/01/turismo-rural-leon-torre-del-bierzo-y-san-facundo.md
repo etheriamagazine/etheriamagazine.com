@@ -3,9 +3,9 @@ title: "De la memoria minera de Torre del Bierzo al ‘milagro’ de San Facundo
 date: 2020-01-27
 coverImage: https://fotos.etheriamagazine.com/2020/01/Leon-pueblo-San-Facundo.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

@@ -3,9 +3,9 @@ title: "Viaje a Sri Lanka, el país de los elefantes"
 date: 2019-02-01
 coverImage: https://fotos.etheriamagazine.com/2019/01/Viajes-mujeres-Sri-lanka-7.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Ana Vara y David Santiago
 ---

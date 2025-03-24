@@ -3,9 +3,11 @@ title: "Picos de Europa, una ruta por la columna vertebral de Asturias, León y 
 date: 2018-10-17
 coverImage: https://fotos.etheriamagazine.com/2018/10/LAGOS-DE-COVADONGA.jpg
 categories: 
-  - viajes-48-horas
-  - de-un-vistazo
-  - planes-cultura-ocio
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

@@ -3,8 +3,9 @@ title: "9 planes divertidos en el Centro de Portugal con niños"
 date: 2019-06-28
 coverImage: https://fotos.etheriamagazine.com/2019/06/parque-aventura-figueira-da-foz-portugal.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

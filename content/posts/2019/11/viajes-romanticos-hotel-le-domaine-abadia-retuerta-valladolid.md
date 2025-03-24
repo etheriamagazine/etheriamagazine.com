@@ -3,9 +3,9 @@ title: "Fin de semana romántico en Le Domaine, el hotel de la bodega Abadía Re
 date: 2019-11-13
 coverImage: https://fotos.etheriamagazine.com/2019/11/Le-domaine-Desayuno-Jardín-del-Claustro.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Susana García
 ---

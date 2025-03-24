@@ -3,10 +3,10 @@ title: "'Todos los caminos llevan a Filipinas', un libro de mujeres extraordinar
 date: 2020-12-11
 coverImage: https://fotos.etheriamagazine.com/2020/12/mujeres-filipinas-Anna-Balcells.jpg
 categories: 
-  - libros-de-viajes
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - cultura
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

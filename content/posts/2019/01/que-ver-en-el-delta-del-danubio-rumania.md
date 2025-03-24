@@ -3,8 +3,10 @@ title: "10 razones para visitar el Delta del Danubio"
 date: 2019-01-10
 coverImage: https://fotos.etheriamagazine.com/2019/01/Delta-del-danubio-etheria.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Juan Carlos y Mar
 ---

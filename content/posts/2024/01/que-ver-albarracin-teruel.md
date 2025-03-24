@@ -3,10 +3,9 @@ title: "Secretos de Albarracín, el pueblo más bonito de Teruel"
 date: 2024-01-19
 coverImage: https://fotos.etheriamagazine.com/2024/01/albarracin-pueblo-teruel.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

@@ -3,9 +3,10 @@ title: "Cocina madre, el tributo de Joan Roca a su mejor maestra"
 date: 2021-04-03
 coverImage: https://fotos.etheriamagazine.com/2019/03/libro-joan-rica-cocina-madre.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - libros-de-viajes
+  - gourmet
+  - cultura
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

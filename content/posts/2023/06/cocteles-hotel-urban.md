@@ -3,10 +3,10 @@ title: "Cócteles de autor en el hotel Urban con Glass by Sips"
 date: 2023-06-14
 coverImage: https://fotos.etheriamagazine.com/2023/06/urban-glass-by-sips-bar.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - gourmet
+  - ocio
+destino: 
+  - España
 authors: 
   - Etheria Magazine
 ---

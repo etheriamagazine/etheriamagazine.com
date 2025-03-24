@@ -3,7 +3,9 @@ title: "Ruta en familia por Alsacia y Selva Negra"
 date: 2018-08-02
 coverImage: https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos-e1557596568371.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

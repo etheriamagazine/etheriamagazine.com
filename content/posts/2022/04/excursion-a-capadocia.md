@@ -3,8 +3,7 @@ title: "Averigua por qué Capadocia es una excursión idónea desde Estambul"
 date: 2022-04-22
 coverImage: https://fotos.etheriamagazine.com/2022/04/comida-capadocia-turquia.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
 authors: 
   - Redacción Etheria
 ---

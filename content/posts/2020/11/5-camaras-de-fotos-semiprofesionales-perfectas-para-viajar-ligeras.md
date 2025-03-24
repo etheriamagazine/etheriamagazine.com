@@ -3,8 +3,7 @@ title: "5 cámaras de fotos semiprofesionales perfectas para viajar ligeras"
 date: 2020-11-25
 coverImage: https://fotos.etheriamagazine.com/2020/11/camara-foto-viajes.jpg
 categories: 
-  - regalos-compras-viajeras
-  - organiza-tu-viaje
+  - compras
 authors: 
   - Redacción Etheria
 ---

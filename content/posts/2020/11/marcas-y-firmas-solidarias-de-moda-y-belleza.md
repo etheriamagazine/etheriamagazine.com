@@ -3,8 +3,9 @@ title: "Firmas solidarias de moda y belleza en las que tus compras también suma
 date: 2020-11-21
 coverImage: https://fotos.etheriamagazine.com/2020/11/moda-solidaria-makai.jpg
 categories: 
-  - regalos-compras-viajeras
-  - organiza-tu-viaje
+  - compras
+destino: 
+  - España
 authors: 
   - Rebeca Ávila
 ---

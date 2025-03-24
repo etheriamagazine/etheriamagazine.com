@@ -3,9 +3,10 @@ title: "La mujer bereber del Alto Atlas marroquí"
 date: 2019-04-01
 coverImage: https://fotos.etheriamagazine.com/2019/03/Valle-Ourika-mujer.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

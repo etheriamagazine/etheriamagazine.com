@@ -3,10 +3,9 @@ title: "Málaga con amigas, el fin de semana que os merecéis"
 date: 2021-05-03
 coverImage: https://fotos.etheriamagazine.com/2018/11/Malaga-museo-Picasso-teatro-romano.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Susana García
 ---

@@ -3,8 +3,9 @@ title: "10 festivales de música para bailar la primavera"
 date: 2019-02-23
 coverImage: https://fotos.etheriamagazine.com/2019/02/Festivales-primavera-concierto.jpg
 categories: 
-  - organiza-tu-viaje
-  - festivales
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,10 +3,9 @@ title: "Qué ver en Meteora: 6 monasterios que tocan el cielo griego"
 date: 2019-09-30
 coverImage: https://fotos.etheriamagazine.com/2019/09/visitas-templos-meteora.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Elena Ortega
 ---

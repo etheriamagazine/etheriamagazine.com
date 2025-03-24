@@ -3,9 +3,10 @@ title: "10 planes en Róterdam con amigas para un fin de semana movido"
 date: 2021-05-15
 coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-roterdam-Cubehouses.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - viajar-sola
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

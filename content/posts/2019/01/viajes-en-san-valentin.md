@@ -3,8 +3,10 @@ title: "5 escapadas de San Valentín"
 date: 2019-01-26
 coverImage: https://fotos.etheriamagazine.com/2019/01/Escapadas-San-Valentin-e1550912750315.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

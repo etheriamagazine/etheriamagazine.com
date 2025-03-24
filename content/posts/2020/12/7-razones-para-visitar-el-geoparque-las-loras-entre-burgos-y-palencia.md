@@ -3,7 +3,9 @@ title: "Geoparque Las Loras, una cita sorprendente entre Burgos y Palencia"
 date: 2020-12-23
 coverImage: https://fotos.etheriamagazine.com/2020/12/burgos-orbaneja-cascadas.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

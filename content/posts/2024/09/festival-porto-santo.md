@@ -3,9 +3,9 @@ title: "Festival de Colón en Porto Santo, la época de los Descubrimientos se v
 date: 2024-09-06
 coverImage: https://fotos.etheriamagazine.com/2024/09/festival-porto-santo-circo.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

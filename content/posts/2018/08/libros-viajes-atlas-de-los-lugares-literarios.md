@@ -3,7 +3,9 @@ title: "Descubre el fascinante mundo del Atlas de los lugares literarios"
 date: 2018-08-15
 coverImage: https://fotos.etheriamagazine.com/2018/07/Atlas_de_los_lugares_literarios.jpg
 categories: 
-  - libros-de-viajes
+  - cultura
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

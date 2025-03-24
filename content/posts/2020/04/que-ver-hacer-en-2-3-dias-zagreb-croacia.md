@@ -3,10 +3,9 @@ title: "10 visitas imprescindibles en Zagreb, la efervescente capital croata"
 date: 2020-04-24
 coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-croacia-zagreb-tkalciceva-street.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

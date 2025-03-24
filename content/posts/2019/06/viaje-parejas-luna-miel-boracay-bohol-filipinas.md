@@ -3,9 +3,9 @@ title: "Boracay y Bohol, un viaje romántico a Filipinas"
 date: 2019-06-07
 coverImage: https://fotos.etheriamagazine.com/2019/05/Filipinas-bohol-playa.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Mundo
 authors: 
   - Manena Munar
 ---

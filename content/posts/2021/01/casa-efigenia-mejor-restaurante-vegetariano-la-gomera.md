@@ -3,8 +3,10 @@ title: "Efigenia la de Las Hayas y la cocina que hechizó a Angela Merkel en La 
 date: 2021-01-06
 coverImage: https://fotos.etheriamagazine.com/2020/12/efigenia-las-hayas-la-gomera.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
-  - mujeres-que-inspiran
+  - gourmet
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

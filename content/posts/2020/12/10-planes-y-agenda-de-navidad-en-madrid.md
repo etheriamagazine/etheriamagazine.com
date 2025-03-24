@@ -3,8 +3,9 @@ title: "10 planes para disfrutar esta Navidad en Madrid"
 date: 2020-12-07
 coverImage: https://fotos.etheriamagazine.com/2020/12/Madrid-navidad-gran-via-autobus.jpg
 categories: 
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

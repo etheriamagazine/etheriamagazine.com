@@ -3,9 +3,10 @@ title: "Israel, una ruta con amigas desde el mar Rojo a Tel Aviv"
 date: 2020-01-01
 coverImage: https://fotos.etheriamagazine.com/2019/12/israel-timna-park.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

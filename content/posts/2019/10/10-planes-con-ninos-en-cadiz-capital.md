@@ -3,10 +3,11 @@ title: "Cádiz capital con niños, 10 planes en familia"
 date: 2019-10-17
 coverImage: https://fotos.etheriamagazine.com/2021/08/Andalucia-La-Caleta-Cadiz.jpg
 categories: 
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

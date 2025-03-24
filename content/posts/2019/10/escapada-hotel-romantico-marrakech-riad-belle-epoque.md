@@ -3,10 +3,10 @@ title: "Disfruta de una escapada en pareja al 'Riad Belle Epoque' de Marrakech"
 date: 2019-10-15
 coverImage: https://fotos.etheriamagazine.com/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-romanticos
+  - viajar-en-pareja
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

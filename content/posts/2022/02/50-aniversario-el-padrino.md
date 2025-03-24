@@ -3,9 +3,10 @@ title: "El Padrino vuelve a los cines en 4K para celebrar su 50 aniversario"
 date: 2022-02-23
 coverImage: https://fotos.etheriamagazine.com/2022/02/portada-El-Padrino-50-Anos.jpg
 categories: 
-  - viajes-cine
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - inspiración
+  - gourmet
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

@@ -3,9 +3,9 @@ title: "Buenas razones para viajar a Futuroscope en 2022"
 date: 2022-03-29
 coverImage: https://fotos.etheriamagazine.com/2022/03/aerobar-futuroscope.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

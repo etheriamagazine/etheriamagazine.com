@@ -3,11 +3,9 @@ title: "Zadar, la ciudad con el atardecer más bello del mundo"
 date: 2019-06-21
 coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-zadar-croacia-atardecer.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

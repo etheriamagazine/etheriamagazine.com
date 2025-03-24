@@ -3,9 +3,9 @@ title: "12 visitas para triunfar en un fin de semana con amigas en Mánchester"
 date: 2019-12-30
 coverImage: https://fotos.etheriamagazine.com/2019/12/viaje-manchester.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Elena Ortega
 ---

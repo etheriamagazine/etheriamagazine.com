@@ -3,9 +3,9 @@ title: "Hoteles Room Mate: diseño, ubicación, precio y... nombre de mujer"
 date: 2019-10-28
 coverImage: https://fotos.etheriamagazine.com/2019/10/Room-Mate-Anna-Barcelona-Executive-room.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,9 +3,10 @@ title: "Ada Coleman y María Dolors Boadas, referentes de la igualdad en la mixo
 date: 2020-05-12
 coverImage: https://fotos.etheriamagazine.com/2020/05/coctel-hanky-panky.jpeg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

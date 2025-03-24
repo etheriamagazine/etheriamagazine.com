@@ -3,8 +3,10 @@ title: "Livingston y Belice, la despedida caribeña de Sania Jelic"
 date: 2023-06-09
 coverImage: https://fotos.etheriamagazine.com/2023/06/sania-belice-buceo.jpg
 categories: 
-  - mujeres-que-inspiran
   - viajar-sola
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

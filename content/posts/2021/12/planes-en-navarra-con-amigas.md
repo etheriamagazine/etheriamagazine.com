@@ -3,7 +3,9 @@ title: "Planes increíbles por los que querrás viajar a Navarra"
 date: 2021-12-23
 coverImage: https://fotos.etheriamagazine.com/2021/12/paisajes-del-valle-del-Bidasoa.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

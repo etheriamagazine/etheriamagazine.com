@@ -3,9 +3,9 @@ title: "Crucero por las Islas Griegas"
 date: 2019-01-03
 coverImage: https://fotos.etheriamagazine.com/2018/12/viaje-mujeres-crucero-islas-griegas-Santorini-e1562660385975.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Yvonne Solé
 ---

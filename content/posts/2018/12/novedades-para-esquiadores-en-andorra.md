@@ -2,8 +2,8 @@
 title: "Novedades para esquiadores en Andorra"
 date: 2018-12-08
 coverImage: https://fotos.etheriamagazine.com/2018/12/raquetas-mujer-andorra.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

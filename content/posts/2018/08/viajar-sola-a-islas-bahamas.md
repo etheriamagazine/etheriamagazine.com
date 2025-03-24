@@ -3,9 +3,9 @@ title: "Qué hacer en Bahamas, un viaje a tu medida"
 date: 2018-08-14
 coverImage: https://fotos.etheriamagazine.com/2018/05/Viaje-Islas-Bahamas-faro-lejos.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

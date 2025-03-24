@@ -3,12 +3,12 @@ title: "10 hoteles para una escapada romántica de lujo"
 date: 2019-10-24
 coverImage: https://fotos.etheriamagazine.com/2018/05/Rayavadee-family-room.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-romanticos
+  - viajar-en-pareja
   - hoteles
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

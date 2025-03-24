@@ -3,11 +3,12 @@ title: "10 secretos de La Palma que deberías conocer"
 date: 2021-04-05
 coverImage: https://fotos.etheriamagazine.com/2018/09/La-Palma-Viajes-mujeres-etheria-laurisilva.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-ecoturismo
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

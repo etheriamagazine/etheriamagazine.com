@@ -3,7 +3,9 @@ title: "Ruta en coche por Asturias con amigas"
 date: 2022-01-17
 coverImage: https://fotos.etheriamagazine.com/2022/01/playa-Torimbia.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

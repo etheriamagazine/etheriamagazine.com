@@ -3,8 +3,9 @@ title: "La Habana, cómo disfrutar con tus amigas de la ciudad más excesiva de 
 date: 2024-08-30
 coverImage: https://fotos.etheriamagazine.com/2024/08/la-habana-coches-historicos.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Mundo
 authors: 
   - Susana García
 ---

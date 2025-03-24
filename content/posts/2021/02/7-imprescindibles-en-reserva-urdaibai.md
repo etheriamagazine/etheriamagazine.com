@@ -3,9 +3,9 @@ title: "Urdaibai, experimenta el efecto Hemingway en sólo siete paradas"
 date: 2021-02-18
 coverImage: https://fotos.etheriamagazine.com/2021/02/Urdaibai-Playa-Laga-Isla-Izaro.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

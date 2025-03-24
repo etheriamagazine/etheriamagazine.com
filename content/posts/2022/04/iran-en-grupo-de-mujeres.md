@@ -3,9 +3,10 @@ title: "Llevar a Irán a otras mujeres, el sueño de Leti Lagarda"
 date: 2022-04-01
 coverImage: https://fotos.etheriamagazine.com/2022/03/iran-mujeres.jpg
 categories: 
-  - mujeres-etheria
-  - proyectos-con-alma
-  - viajes-para-mujeres
+  - mujeres-top
+  - proyectos
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

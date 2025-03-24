@@ -3,8 +3,8 @@ title: "MdjemAfrica, mujeres que viajan en grupo para bailar"
 date: 2022-05-25
 coverImage: https://fotos.etheriamagazine.com/2022/05/mdjem-baile-africa-Bonaberi.jpg
 categories: 
-  - mujeres-etheria
-  - proyectos-con-alma
+  - mujeres-top
+  - proyectos
 authors: 
   - Firmas invitadas
 ---

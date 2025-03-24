@@ -3,9 +3,9 @@ title: "Las Arenas Balneario Resort, un hotel de lujo en Valencia hecho para dis
 date: 2021-04-08
 coverImage: https://fotos.etheriamagazine.com/2021/04/hotel-las-arenas-piscina.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

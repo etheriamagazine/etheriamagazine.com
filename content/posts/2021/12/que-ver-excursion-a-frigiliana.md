@@ -3,8 +3,9 @@ title: "Un día en Frigiliana, uno de los pueblos más bonitos de Málaga"
 date: 2021-12-15
 coverImage: https://fotos.etheriamagazine.com/2021/12/Frigiliana-calle-barrio-alto.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Susana García
 ---

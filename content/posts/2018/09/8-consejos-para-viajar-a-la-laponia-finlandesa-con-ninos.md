@@ -3,10 +3,11 @@ title: "8 consejos para viajar con niños a la Laponia Finlandesa"
 date: 2018-09-08
 coverImage: https://fotos.etheriamagazine.com/2018/04/Laponia-nina.jpg
 categories: 
-  - consejos-practicos
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

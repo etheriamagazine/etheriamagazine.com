@@ -3,9 +3,10 @@ title: "10 playas del mundo donde te quedarías a vivir"
 date: 2019-07-24
 coverImage: https://fotos.etheriamagazine.com/2019/07/playas-mundo-kauai-hawaii.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,12 +3,11 @@ title: "Visita de la catedral de Pamplona y su exposición Occidens"
 date: 2024-02-07
 coverImage: https://fotos.etheriamagazine.com/2024/02/pamplona-catedral-fachada.jpg
 categories: 
-  - organiza-tu-viaje
-  - exposiciones
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
-  - visitas-guiadas
+  - viajar-sola
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

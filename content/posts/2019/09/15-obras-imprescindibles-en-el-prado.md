@@ -3,7 +3,9 @@ title: "15 obras del Museo del Prado para una visita exprés"
 date: 2019-09-24
 coverImage: https://fotos.etheriamagazine.com/2019/09/museo-del-prado-Triptico-del-jardin-de-las-delicias.jpg
 categories: 
-  - exposiciones
+  - cultura
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

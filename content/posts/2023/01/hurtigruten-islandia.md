@@ -3,7 +3,9 @@ title: "'Círculo de hielo y fuego', conoce la nueva ruta del Hurtigruten en Isl
 date: 2023-01-12
 coverImage: https://fotos.etheriamagazine.com/2023/01/Stykkisholmur-islandia.jpg
 categories: 
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

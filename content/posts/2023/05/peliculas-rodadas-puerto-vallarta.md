@@ -3,7 +3,9 @@ title: "Puerto Vallarta de cine: de \"La noche de la iguana\" a \"Vacaciones en 
 date: 2023-05-22
 coverImage: https://fotos.etheriamagazine.com/2023/05/nuevo-vallarta-puerto.jpg
 categories: 
-  - viajes-cine
+  - inspiración
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

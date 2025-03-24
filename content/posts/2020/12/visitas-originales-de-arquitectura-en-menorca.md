@@ -3,8 +3,9 @@ title: "Descubre la sorprendente y variada arquitectura de Menorca"
 date: 2020-12-08
 coverImage: https://fotos.etheriamagazine.com/2020/11/viaje-menorca-Fornells-Torre-de-Fornells.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kris Ubach
 ---

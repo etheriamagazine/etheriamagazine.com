@@ -3,8 +3,9 @@ title: "8 planes de verano en Lisboa para todos los gustos"
 date: 2023-08-18
 coverImage: https://fotos.etheriamagazine.com/2023/08/tranvia-lisboa.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

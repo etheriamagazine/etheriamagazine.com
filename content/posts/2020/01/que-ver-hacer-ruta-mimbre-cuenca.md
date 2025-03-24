@@ -3,9 +3,9 @@ title: "Ruta de los Mimbres de Cuenca, belleza roja sin artificios"
 date: 2020-01-15
 coverImage: https://fotos.etheriamagazine.com/2020/01/ruta-mimbre-cuenca-apertura.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

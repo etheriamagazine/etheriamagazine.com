@@ -3,10 +3,10 @@ title: "Por qué es una buena idea viajar a Futuroscope en 2023"
 date: 2023-03-20
 coverImage: https://fotos.etheriamagazine.com/2023/03/Futuroscope-casa-al-reves.jpg
 categories: 
-  - viaje-en-familia
-  - parques-ocio
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,8 +3,9 @@ title: "Burgenland, el estado más desconocido y soleado de Austria"
 date: 2022-08-01
 coverImage: https://fotos.etheriamagazine.com/2022/07/austria-burgerland-jardines-Eisenstadt.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

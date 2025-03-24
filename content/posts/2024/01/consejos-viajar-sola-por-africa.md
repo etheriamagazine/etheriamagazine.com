@@ -3,10 +3,10 @@ title: "Consejos de Sania Jelic para viajar sola por África del sur y del este"
 date: 2024-01-31
 coverImage: https://fotos.etheriamagazine.com/2024/01/sania-desierto-namibia-duna.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
   - viajar-sola
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

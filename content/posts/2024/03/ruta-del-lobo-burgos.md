@@ -3,9 +3,9 @@ title: "Ruta del lobo ibérico en Burgos, la propuesta más original de Castilla
 date: 2024-03-29
 coverImage: https://fotos.etheriamagazine.com/2024/03/burgos-ruta-lobo.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

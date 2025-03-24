@@ -3,9 +3,7 @@ title: "Çirağan Palace Kempinski, un hotel con magia en Estambul"
 date: 2019-03-05
 coverImage: https://fotos.etheriamagazine.com/2019/02/ciragan-palace-kempinski-istanbul-exterior.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
 authors: 
   - Susana García
 ---

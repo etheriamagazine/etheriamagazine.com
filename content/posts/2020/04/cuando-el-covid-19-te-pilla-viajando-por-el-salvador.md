@@ -2,8 +2,8 @@
 title: "Qué ver en El Salvador, un bello país en cualquier circunstancia"
 date: 2020-04-01
 coverImage: https://fotos.etheriamagazine.com/2020/03/el-salvador-playa-El-tunco.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Marina Paul
 ---

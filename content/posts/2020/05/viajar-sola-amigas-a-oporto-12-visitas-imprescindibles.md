@@ -3,10 +3,9 @@ title: "12 visitas a Oporto para un viaje con amigas"
 date: 2020-05-01
 coverImage: https://fotos.etheriamagazine.com/2020/05/oporto-con-amigas.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

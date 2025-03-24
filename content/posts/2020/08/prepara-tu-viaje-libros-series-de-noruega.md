@@ -3,11 +3,11 @@ title: "Prepara tu viaje a Noruega: libros y películas para ante de viajar"
 date: 2020-08-18
 coverImage: https://fotos.etheriamagazine.com/2020/07/preparar-viaje-noruega-pulpito.jpg
 categories: 
-  - consejos-practicos
-  - organiza-tu-viaje
-  - planes-cultura-ocio
-  - que-llevar-en-la-maleta
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+  - qué-llevar-en-la-maleta
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

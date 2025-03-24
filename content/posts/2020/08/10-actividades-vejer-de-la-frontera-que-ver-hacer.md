@@ -3,13 +3,11 @@ title: "10 actividades para enamorarte de Vejer de la Frontera"
 date: 2020-08-11
 coverImage: https://fotos.etheriamagazine.com/2020/08/vejer-panoramica.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-romanticos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

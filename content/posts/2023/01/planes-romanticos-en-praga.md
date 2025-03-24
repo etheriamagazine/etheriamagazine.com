@@ -3,7 +3,9 @@ title: "Planes románticos en Praga, clásicos u originales"
 date: 2023-01-30
 coverImage: https://fotos.etheriamagazine.com/2023/01/praga-romantica-spa-cerveza.jpg
 categories: 
-  - viajes-romanticos
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Etheria Magazine
 ---

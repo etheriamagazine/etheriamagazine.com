@@ -3,8 +3,9 @@ title: "¿El peor viaje de mi vida? El día en que me metieron droga en la malet
 date: 2019-03-09
 coverImage: https://fotos.etheriamagazine.com/2019/03/peor-viaje-vida.jpg
 categories: 
-  - mi-peor-viaje
-  - viajes-para-mujeres
+  - historias
+destino: 
+  - España
 authors: 
   - Rafael de Rojas
 ---

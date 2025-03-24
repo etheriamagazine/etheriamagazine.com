@@ -3,8 +3,9 @@ title: "Namibia, un viaje para mujeres aventureras"
 date: 2019-09-27
 coverImage: https://fotos.etheriamagazine.com/2019/09/acacias-Deadvlei-7.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Juan Carlos y Mar
 ---

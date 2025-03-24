@@ -3,9 +3,10 @@ title: "Cómo organizar un viaje de novios inolvidable y no morir en el intento"
 date: 2021-01-13
 coverImage: https://fotos.etheriamagazine.com/2021/01/viaje-de-novios-maldivas.jpg
 categories: 
-  - consejos-practicos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

@@ -3,9 +3,9 @@ title: "El Camino de Finisterre: plan de fuga a los misterios del fin del mundo"
 date: 2019-03-06
 coverImage: https://fotos.etheriamagazine.com/2019/02/Mujeres-camino-santiago.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

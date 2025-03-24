@@ -3,8 +3,9 @@ title: "Fráncfort y Bremen se asoman a Madrid para mostrar sus encantos"
 date: 2022-05-31
 coverImage: https://fotos.etheriamagazine.com/2022/05/Francfort-alemania.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

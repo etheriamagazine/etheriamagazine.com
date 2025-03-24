@@ -3,8 +3,9 @@ title: "Matilde Urrutia y Capri, dos pasiones clandestinas de Pablo Neruda"
 date: 2019-01-15
 coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-capri.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

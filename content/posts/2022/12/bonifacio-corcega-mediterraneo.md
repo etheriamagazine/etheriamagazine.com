@@ -3,7 +3,9 @@ title: "Bonifacio, uno de los pueblos más bellos del Mediterráneo"
 date: 2022-12-05
 coverImage: https://fotos.etheriamagazine.com/2022/11/Bonifacio-castillo.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

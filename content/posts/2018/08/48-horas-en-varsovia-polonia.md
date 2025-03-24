@@ -3,10 +3,9 @@ title: "48 horas en Varsovia, qué ver en la capital polaca"
 date: 2018-08-17
 coverImage: https://fotos.etheriamagazine.com/2018/08/Maison-La-Regina-en-la-Ciudad-Nueva.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

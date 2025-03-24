@@ -3,10 +3,9 @@ title: "3 días en Kioto para ver los cerezos en flor"
 date: 2020-02-26
 coverImage: https://fotos.etheriamagazine.com/2020/02/Kioto-paseo-filosofo-geishas.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-romanticos
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Susana García
 ---

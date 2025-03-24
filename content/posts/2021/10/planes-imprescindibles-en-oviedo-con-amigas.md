@@ -3,10 +3,9 @@ title: "Oviedo con amigas, 8 planazos para descubrirla"
 date: 2021-10-05
 coverImage: https://fotos.etheriamagazine.com/2021/09/oviedo-estatua-parque-san-francisco.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Carmen Pineda
 ---

@@ -3,9 +3,9 @@ title: "Conoce las mejores tiendas de vinos de Madrid, Barcelona y otras ciudade
 date: 2019-12-17
 coverImage: https://fotos.etheriamagazine.com/2019/12/vinotecas-navidad.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

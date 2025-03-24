@@ -3,7 +3,9 @@ title: "15 lugares de Vizcaya que te dejarán sin aliento"
 date: 2023-05-15
 coverImage: https://fotos.etheriamagazine.com/2023/05/san-juan-gaztelugatxe-1.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

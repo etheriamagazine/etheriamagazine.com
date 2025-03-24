@@ -3,10 +3,9 @@ title: "Descubre la magia de Tokio en sólo tres días"
 date: 2021-07-28
 coverImage: https://fotos.etheriamagazine.com/2021/07/tokio-japon.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Susana García
 ---

@@ -3,10 +3,11 @@ title: "Australia no es un zoo, conoce sus animales más mortíferos"
 date: 2019-07-31
 coverImage: https://fotos.etheriamagazine.com/2019/07/Australia-animales-koala.jpg
 categories: 
-  - mi-peor-viaje
-  - consejos-practicos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - historias
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Elisabeth G. Iborra
 ---

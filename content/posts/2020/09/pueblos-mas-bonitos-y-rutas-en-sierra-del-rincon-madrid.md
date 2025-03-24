@@ -3,9 +3,9 @@ title: "Sierra del Rincón, una bonita escapada a los pueblos y hayedos de Madri
 date: 2020-09-15
 coverImage: https://fotos.etheriamagazine.com/2020/09/Sierra-rincon-mirador.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

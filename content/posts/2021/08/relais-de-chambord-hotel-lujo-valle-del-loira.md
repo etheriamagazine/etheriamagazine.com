@@ -3,9 +3,9 @@ title: "Relais de Chambord, un pequeño hotel de lujo en el corazón del Valle d
 date: 2021-08-02
 coverImage: https://fotos.etheriamagazine.com/2021/07/relais-de-chambord-restaurant-le-grand-saint-michel.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

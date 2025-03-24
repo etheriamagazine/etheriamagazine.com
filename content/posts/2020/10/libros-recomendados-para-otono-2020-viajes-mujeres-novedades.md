@@ -3,9 +3,10 @@ title: "Libros que invitan a quedarse en casa"
 date: 2020-10-01
 coverImage: https://fotos.etheriamagazine.com/2020/09/novedades-editoriales-2020.jpg
 categories: 
-  - libros-de-viajes
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

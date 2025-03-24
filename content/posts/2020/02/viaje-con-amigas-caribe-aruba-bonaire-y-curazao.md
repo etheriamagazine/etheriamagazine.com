@@ -3,9 +3,9 @@ title: "Aruba, Bonaire y Curazao, tres joyas caribeñas que son un sueño"
 date: 2020-02-12
 coverImage: https://fotos.etheriamagazine.com/2020/02/Curaçao-laguna-Willemstad.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Ana María Pareja
 ---

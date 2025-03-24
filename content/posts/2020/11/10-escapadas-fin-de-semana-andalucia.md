@@ -3,10 +3,11 @@ title: "10 escapadas para descubrir nuevos tesoros en Andalucía"
 date: 2020-11-06
 coverImage: https://fotos.etheriamagazine.com/2020/11/Andalucia-Ronda-puente-nuevo.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

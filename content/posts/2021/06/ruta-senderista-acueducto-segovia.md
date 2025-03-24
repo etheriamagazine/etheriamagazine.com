@@ -3,10 +3,10 @@ title: "Ruta para descubrir los secretos ocultos del acueducto de Segovia"
 date: 2021-06-25
 coverImage: https://fotos.etheriamagazine.com/2021/06/Segovia-azud-valle-acebeda.jpg
 categories: 
-  - viajes-ecoturismo
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

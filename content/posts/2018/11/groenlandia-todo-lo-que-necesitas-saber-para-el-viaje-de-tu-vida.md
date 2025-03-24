@@ -3,10 +3,9 @@ title: "¿Podría ser Groenlandia el viaje de tu vida? Averígualo aquí"
 date: 2018-11-14
 coverImage: https://fotos.etheriamagazine.com/2018/11/Groenlandia-Narsaq-viajes-mujeres-bis-e1581153169860.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Cristina R. Bareño
 ---

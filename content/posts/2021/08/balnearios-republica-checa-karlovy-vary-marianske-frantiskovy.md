@@ -3,10 +3,10 @@ title: "Karlovy Vary, Mariánské Lázně y Františkovy Lázně, descubre el se
 date: 2021-08-13
 coverImage: https://fotos.etheriamagazine.com/2021/08/republica-checa-Karlovy-Vary.jpg
 categories: 
-  - bienestar-belleza
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - bienestar
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

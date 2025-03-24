@@ -3,8 +3,9 @@ title: "El Museo del Louvre en dos horas, un viaje exprés por el arte"
 date: 2023-08-08
 coverImage: https://fotos.etheriamagazine.com/2023/08/paris-louvre-delacroix-mujeres-argel.jpg
 categories: 
-  - exposiciones
-  - visitas-guiadas
+  - cultura
+destino: 
+  - España
 authors: 
   - Susana García
 ---

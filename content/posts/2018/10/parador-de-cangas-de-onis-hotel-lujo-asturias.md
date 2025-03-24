@@ -3,9 +3,10 @@ title: "Parador de Cangas de Onís, un hotel digno de reyes"
 date: 2018-10-14
 coverImage: https://fotos.etheriamagazine.com/2018/10/Parador-de-Cangas-de-Onis-portada.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-romanticos
+  - viajar-en-pareja
   - hoteles
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

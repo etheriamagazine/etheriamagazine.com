@@ -3,8 +3,9 @@ title: "Qué visitar en la ruta de César Manrique en Lanzarote"
 date: 2019-09-10
 coverImage: https://fotos.etheriamagazine.com/2019/09/Casa-Museo-Cesar-Manrique-Haria-1.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

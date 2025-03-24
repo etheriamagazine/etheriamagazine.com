@@ -3,7 +3,9 @@ title: "Ruta de cine: 'Primos' en Comillas"
 date: 2019-09-03
 coverImage: https://fotos.etheriamagazine.com/2019/07/Viaje-comillas-vista-aerea.jpg
 categories: 
-  - viajes-cine
+  - inspiración
+destino: 
+  - España
 authors: 
   - Firmas invitadas
 ---

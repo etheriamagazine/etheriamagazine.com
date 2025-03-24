@@ -3,10 +3,9 @@ title: "Ruta del vino Cigales, 10 razones para brindar como los Reyes Católicos
 date: 2020-01-07
 coverImage: https://fotos.etheriamagazine.com/2020/01/etheria-ruta-vino-cigales-castillo-encantado.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

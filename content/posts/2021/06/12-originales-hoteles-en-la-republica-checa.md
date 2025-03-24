@@ -3,8 +3,9 @@ title: "12 hoteles en la República Checa con un toque muy original"
 date: 2021-06-05
 coverImage: https://fotos.etheriamagazine.com/2021/06/cabana-republica-checa.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

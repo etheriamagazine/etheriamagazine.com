@@ -3,8 +3,9 @@ title: "Escapada con amigas a Collioure y su Costa Bermeja"
 date: 2024-06-07
 coverImage: https://fotos.etheriamagazine.com/2024/06/Collioure-bahia.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

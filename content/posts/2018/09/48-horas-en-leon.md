@@ -3,10 +3,10 @@ title: "Enamórate de León en sólo 48 horas"
 date: 2018-09-27
 coverImage: https://fotos.etheriamagazine.com/2018/09/Leon-calle-ancha.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - planes-cultura-ocio
   - viajar-sola
+  - ocio
+destino: 
+  - España
 authors: 
   - Eva Madruga
 ---

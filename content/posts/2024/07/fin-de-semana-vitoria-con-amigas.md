@@ -3,8 +3,9 @@ title: "Buenas ideas para un fin de semana en Vitoria con amigas"
 date: 2024-07-10
 coverImage: https://fotos.etheriamagazine.com/2024/07/vitoria-plaza-machete-mujer.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Susana García
 ---

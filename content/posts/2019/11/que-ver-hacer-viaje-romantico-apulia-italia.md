@@ -3,10 +3,9 @@ title: "Esto es lo que ocurrirá si haces un viaje romántico a Apulia"
 date: 2019-11-25
 coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-puglia-trani-puerto.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

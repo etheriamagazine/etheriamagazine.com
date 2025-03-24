@@ -3,8 +3,9 @@ title: "Qué son las llaves Michelin y qué hoteles españoles las han conseguid
 date: 2024-05-07
 coverImage: https://fotos.etheriamagazine.com/2018/05/Le-Domaine-vinedos.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

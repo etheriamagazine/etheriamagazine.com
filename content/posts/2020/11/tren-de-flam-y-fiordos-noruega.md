@@ -2,8 +2,8 @@
 title: "El tren de Flåm, el recorrido más bonito del mundo"
 date: 2020-11-19
 coverImage: https://fotos.etheriamagazine.com/2020/11/tren-flam-noruega.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

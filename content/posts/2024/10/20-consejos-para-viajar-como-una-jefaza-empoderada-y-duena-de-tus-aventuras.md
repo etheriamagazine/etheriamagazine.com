@@ -3,9 +3,10 @@ title: "20 consejos para viajar como una jefaza: empoderada y dueña de tus aven
 date: 2024-10-07
 coverImage: https://fotos.etheriamagazine.com/2024/10/mujer-empoderada.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

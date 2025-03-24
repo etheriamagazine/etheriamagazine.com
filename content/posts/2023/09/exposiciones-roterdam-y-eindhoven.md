@@ -3,8 +3,10 @@ title: "Róterdam y Eindhoven: eventos y exposiciones que invitan a repensar la 
 date: 2023-09-27
 coverImage: https://fotos.etheriamagazine.com/2023/09/foodhallen-rotterdam.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
+  - cultura
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

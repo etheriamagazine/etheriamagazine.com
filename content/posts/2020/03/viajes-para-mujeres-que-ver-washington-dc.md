@@ -3,9 +3,7 @@ title: "Washington DC con amigas, descubre sus atractivos barrio a barrio"
 date: 2020-03-02
 coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-whasington-chinatown-museo.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
 authors: 
   - Kris Ubach
 ---

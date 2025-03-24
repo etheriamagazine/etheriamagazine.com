@@ -3,8 +3,9 @@ title: "Ruta Vicentina, senderismo en Alentejo y Algarve"
 date: 2018-07-25
 coverImage: https://fotos.etheriamagazine.com/2018/07/Cabo-Sardao-viajes-aventura-mujeres-1.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kris Ubach
 ---

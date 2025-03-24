@@ -3,9 +3,9 @@ title: "Nantucket, la sorprendente isla de Moby Dick"
 date: 2019-10-16
 coverImage: https://fotos.etheriamagazine.com/2019/10/viaje-mujeres-Nantucket.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Firmas invitadas
 ---

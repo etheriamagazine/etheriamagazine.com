@@ -3,10 +3,10 @@ title: "Elige uno de estos 10 motivos para viajar a La Siberia extremeña"
 date: 2021-09-26
 coverImage: https://fotos.etheriamagazine.com/2021/09/miradores-Reserva-Biosfera-La-Siberia.jpg
 categories: 
-  - viaje-en-familia
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

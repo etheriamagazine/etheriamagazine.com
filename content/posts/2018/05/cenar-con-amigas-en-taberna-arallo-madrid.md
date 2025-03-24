@@ -3,7 +3,9 @@ title: "Cenar con amigas en Arallo Taberna (Madrid)"
 date: 2018-05-17
 coverImage: https://fotos.etheriamagazine.com/2018/05/Taberna-Arallo-2.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
+  - gourmet
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

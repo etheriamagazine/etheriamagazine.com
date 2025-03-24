@@ -3,8 +3,9 @@ title: "Organiza tu viaje a Kerala, hoteles y consejos útiles"
 date: 2018-12-05
 coverImage: https://fotos.etheriamagazine.com/2018/11/playa-marari-kerala-645.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

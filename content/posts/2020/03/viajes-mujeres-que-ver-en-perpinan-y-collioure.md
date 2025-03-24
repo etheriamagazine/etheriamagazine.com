@@ -3,9 +3,9 @@ title: "Enamórate del sudeste francés en Perpiñán y Collioure"
 date: 2020-03-19
 coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-etheria-Collioure.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

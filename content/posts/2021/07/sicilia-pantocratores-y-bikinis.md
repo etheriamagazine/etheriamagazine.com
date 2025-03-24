@@ -2,8 +2,8 @@
 title: "Ruta en coche por Sicilia, entre pantocrátores y bikinis"
 date: 2021-07-05
 coverImage: https://fotos.etheriamagazine.com/2021/07/sicilia-viaje.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

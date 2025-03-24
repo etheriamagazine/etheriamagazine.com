@@ -3,7 +3,9 @@ title: "Ruta del Vino de Toro, secretos abrazados por el Duero"
 date: 2022-09-21
 coverImage: https://fotos.etheriamagazine.com/2022/09/ruta-vino-toro-volvoreta.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,8 +3,9 @@ title: "Descubre la belleza de Myanmar, uno de los destinos más mágicos del mu
 date: 2020-04-27
 coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-myanmar-bagan.jpg
 categories: 
-  - viajes-con-amigas
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Ana Vara y David Santiago
 ---

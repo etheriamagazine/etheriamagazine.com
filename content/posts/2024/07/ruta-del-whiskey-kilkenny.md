@@ -3,9 +3,9 @@ title: "Ruta del Whiskey, una buena excusa para recorrer el condado irlandés de
 date: 2024-07-20
 coverImage: https://fotos.etheriamagazine.com/2024/07/Kilkenny-Arts-Festival.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

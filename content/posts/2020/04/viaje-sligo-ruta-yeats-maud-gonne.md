@@ -3,9 +3,10 @@ title: "Sligo, el condado irlandés que enamoró a William Butler Yeats"
 date: 2020-04-22
 coverImage: https://fotos.etheriamagazine.com/2020/04/bosque-sligo.jpg
 categories: 
-  - viajes-48-horas
-  - historias-en-femenino
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - historias
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

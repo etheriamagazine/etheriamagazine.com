@@ -3,7 +3,9 @@ title: "Uruguay, un país que bien merece una escapada"
 date: 2023-07-07
 coverImage: https://fotos.etheriamagazine.com/2023/07/Montevideo-palacio-Salvo.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

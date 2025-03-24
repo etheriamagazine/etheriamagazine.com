@@ -3,8 +3,9 @@ title: "The St. Regis Cairo, un nuevo hotel de lujo a orillas del Nilo"
 date: 2021-02-09
 coverImage: https://fotos.etheriamagazine.com/2021/02/hotel-st-regis-cairo-escalera.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

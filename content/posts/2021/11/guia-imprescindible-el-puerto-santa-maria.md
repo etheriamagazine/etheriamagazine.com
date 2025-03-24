@@ -3,10 +3,10 @@ title: "El Puerto de Santa María, entre palacios, playas y vino"
 date: 2021-11-01
 coverImage: https://fotos.etheriamagazine.com/2021/10/Plaza-Espana-puerto-santa-maria.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Alfredo G. Reyes
 ---

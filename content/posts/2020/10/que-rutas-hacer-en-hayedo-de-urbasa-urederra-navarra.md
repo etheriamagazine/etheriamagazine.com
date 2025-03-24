@@ -3,9 +3,9 @@ title: "Rutas en el hayedo encantado de Urbasa y en Urederra (Navarra)"
 date: 2020-10-05
 coverImage: https://fotos.etheriamagazine.com/2020/09/nacedero-urederra-navarra.jpg
 categories: 
-  - viajes-ecoturismo
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

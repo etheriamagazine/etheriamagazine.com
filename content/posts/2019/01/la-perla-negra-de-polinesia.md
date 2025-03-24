@@ -3,9 +3,9 @@ title: "Fakarava, el paraíso de la perla negra de Polinesia"
 date: 2019-01-08
 coverImage: https://fotos.etheriamagazine.com/2019/01/Polinesia-francesa-perlas-negras-4.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

@@ -3,8 +3,9 @@ title: "Tossa de Mar, secretos de cine en la Costa Brava"
 date: 2020-06-24
 coverImage: https://fotos.etheriamagazine.com/2020/06/costa-brava-tossa-mar.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

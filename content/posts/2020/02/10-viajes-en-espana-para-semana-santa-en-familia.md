@@ -3,10 +3,11 @@ title: "10 viajes en España para una Semana Santa en familia"
 date: 2020-02-13
 coverImage: https://fotos.etheriamagazine.com/2019/09/Pontevedra-mirador-a-granxa.jpg
 categories: 
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

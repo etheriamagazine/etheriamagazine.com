@@ -3,9 +3,9 @@ title: "Viajar sola al lago Atitlán, una aventura fascinante"
 date: 2021-02-20
 coverImage: https://fotos.etheriamagazine.com/2020/01/lago-atitlan-mujeres-viajar-sola.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Cristina Fernández
 ---

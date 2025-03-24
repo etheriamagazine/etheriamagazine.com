@@ -3,10 +3,9 @@ title: "La Rochelle y la isla de Ré, consejos para organizar tu viaje"
 date: 2018-09-18
 coverImage: https://fotos.etheriamagazine.com/2018/09/Puerto-Viejo-La-Rochelle-e1578818092619.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

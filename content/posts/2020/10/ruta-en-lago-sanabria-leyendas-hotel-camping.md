@@ -3,8 +3,9 @@ title: "Descubre el lago de Sanabria y otros encantos de la Escocia zamorana"
 date: 2020-10-07
 coverImage: https://fotos.etheriamagazine.com/2020/10/etheria-laguna-sanabria-peces.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

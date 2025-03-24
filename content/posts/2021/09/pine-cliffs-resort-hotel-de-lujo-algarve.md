@@ -3,10 +3,10 @@ title: "Pine Cliffs Resort, un hotel de lujo para un viaje con niños al Algarve
 date: 2021-09-08
 coverImage: https://fotos.etheriamagazine.com/2021/09/pine-cliffs-resort-champagne-bar.jpg
 categories: 
-  - organiza-tu-viaje
-  - viaje-en-familia
+  - viajar-en-familia
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

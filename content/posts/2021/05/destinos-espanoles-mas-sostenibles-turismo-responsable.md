@@ -3,7 +3,9 @@ title: "Los 5 destinos españoles más sostenibles para escaparse esta primavera
 date: 2021-05-05
 coverImage: https://fotos.etheriamagazine.com/2021/04/las-hurdes-extremadura.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Rosa Marqués
 ---

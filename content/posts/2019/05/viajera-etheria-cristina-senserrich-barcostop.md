@@ -3,9 +3,9 @@ title: "Cristina Senserrich: \"Casi todo lo útil que he aprendido en esta vida 
 date: 2019-05-07
 coverImage: https://fotos.etheriamagazine.com/2019/05/cristina-senserrich-casa-malaika.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

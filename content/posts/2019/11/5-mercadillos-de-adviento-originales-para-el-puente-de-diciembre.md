@@ -2,8 +2,8 @@
 title: "5 Mercadillos de Adviento muy originales para el puente de diciembre"
 date: 2019-11-20
 coverImage: https://fotos.etheriamagazine.com/2019/11/mercadillo-acueducto-Adviento-Selva-Negra.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

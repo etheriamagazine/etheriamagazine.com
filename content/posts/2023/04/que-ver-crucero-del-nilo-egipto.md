@@ -3,8 +3,9 @@ title: "Crucero por el Nilo, qué ver en un viaje por la historia del Antiguo Eg
 date: 2023-04-26
 coverImage: https://fotos.etheriamagazine.com/2023/04/crucero-nilo-asuan-faluca.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Mundo
 authors: 
   - Susana García
 ---

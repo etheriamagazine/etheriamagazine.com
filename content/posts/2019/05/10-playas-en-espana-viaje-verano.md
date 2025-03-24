@@ -3,11 +3,11 @@ title: "10 playas bonitas de España para ir pensando en las vacaciones"
 date: 2019-05-16
 coverImage: https://fotos.etheriamagazine.com/2019/03/cala-xarraca-ibiza.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

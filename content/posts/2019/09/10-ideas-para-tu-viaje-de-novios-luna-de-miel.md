@@ -3,10 +3,11 @@ title: "10 ideas para tu viaje de novios"
 date: 2019-09-18
 coverImage: https://fotos.etheriamagazine.com/2019/09/luna-de-miel.jpg
 categories: 
-  - viajes-romanticos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

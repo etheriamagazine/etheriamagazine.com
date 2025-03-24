@@ -3,10 +3,11 @@ title: "Bazaruto, el archipiélago más virginal de Mozambique"
 date: 2019-08-21
 coverImage: https://fotos.etheriamagazine.com/2019/08/viaje-Mozambique-bazaruto-vilanculos-playa.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - Mundo
 authors: 
   - Ana Vara y David Santiago
 ---

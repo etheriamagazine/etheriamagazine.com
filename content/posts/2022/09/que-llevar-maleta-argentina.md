@@ -3,7 +3,9 @@ title: "Qué llevar en la maleta en un viaje a Argentina"
 date: 2022-09-14
 coverImage: https://fotos.etheriamagazine.com/2022/09/viaje-argentina.jpg
 categories: 
-  - que-llevar-en-la-maleta
+  - qué-llevar-en-la-maleta
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

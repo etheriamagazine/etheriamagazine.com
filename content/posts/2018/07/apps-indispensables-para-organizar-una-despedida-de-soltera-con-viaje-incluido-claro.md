@@ -3,9 +3,10 @@ title: "Apps indispensables para organizar una despedida de soltera (con viaje i
 date: 2018-07-20
 coverImage: https://fotos.etheriamagazine.com/2018/07/Despedida-de-soltera-moviles.jpg
 categories: 
-  - consejos-practicos
-  - organiza-tu-viaje
-  - planes-cultura-ocio
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Kelu Robles
 ---

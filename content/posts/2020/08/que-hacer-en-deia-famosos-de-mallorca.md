@@ -3,10 +3,9 @@ title: "Deià, el pueblo mallorquín que ha enamorado a ricos y famosos"
 date: 2020-08-28
 coverImage: https://fotos.etheriamagazine.com/2020/08/que-ver-deia-mallorca.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

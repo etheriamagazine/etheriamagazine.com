@@ -4,6 +4,8 @@ date: 2023-01-24
 coverImage: https://fotos.etheriamagazine.com/2023/01/sania-torres-paine.jpg
 categories: 
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

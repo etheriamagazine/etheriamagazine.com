@@ -4,6 +4,8 @@ date: 2023-02-06
 coverImage: https://fotos.etheriamagazine.com/2023/02/hotel-teepee-romantico-avila.jpg
 categories: 
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

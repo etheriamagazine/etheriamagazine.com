@@ -3,10 +3,10 @@ title: "16 planes imprescindibles en Conil con amigas"
 date: 2021-07-05
 coverImage: https://fotos.etheriamagazine.com/2021/01/cala-enebro-playa-conil.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

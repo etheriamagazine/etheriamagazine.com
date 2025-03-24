@@ -3,10 +3,9 @@ title: "Descubre Hamburgo en 48 horas, la Alemania más canalla"
 date: 2020-02-24
 coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-hamburgo.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Cristina Fernández
 ---

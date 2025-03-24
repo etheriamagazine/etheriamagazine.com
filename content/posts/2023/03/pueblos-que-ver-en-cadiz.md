@@ -3,8 +3,9 @@ title: "La mejor guía de Cádiz provincia para organizar tu viaje"
 date: 2023-03-06
 coverImage: https://fotos.etheriamagazine.com/2022/07/playa-bateles-conil.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

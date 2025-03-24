@@ -3,8 +3,9 @@ title: "Crucero Disney por Bahamas: mucho más que Mickey"
 date: 2018-05-04
 coverImage: https://fotos.etheriamagazine.com/2018/05/Bahamas-Crucero-Disney-mantas-en-Castaway-Cay-e1668765531193.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Susana García
 ---

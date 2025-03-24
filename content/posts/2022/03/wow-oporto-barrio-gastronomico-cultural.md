@@ -3,9 +3,9 @@ title: "WOW Oporto, el mayor barrio gastronómico y cultural de Portugal"
 date: 2022-03-14
 coverImage: https://fotos.etheriamagazine.com/2022/03/plaza-central-wow-oporto-1.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

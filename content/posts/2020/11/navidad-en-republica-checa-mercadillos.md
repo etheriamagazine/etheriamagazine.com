@@ -3,8 +3,9 @@ title: "Las tradiciones navideñas más curiosas de la República Checa"
 date: 2020-11-25
 coverImage: https://fotos.etheriamagazine.com/2020/11/mercadillo-Pilsen-navidad.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

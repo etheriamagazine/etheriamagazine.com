@@ -3,10 +3,11 @@ title: "10 viajes a Francia para disfrutar de la buena vida"
 date: 2020-09-02
 coverImage: https://fotos.etheriamagazine.com/2018/07/Riquewihr-viñedos-e1557596568371.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

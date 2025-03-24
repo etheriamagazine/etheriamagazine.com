@@ -3,10 +3,11 @@ title: "8 excursiones en Mallorca para un viaje en familia"
 date: 2020-06-16
 coverImage: https://fotos.etheriamagazine.com/2020/06/mallorca-tren-soller.jpg
 categories: 
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

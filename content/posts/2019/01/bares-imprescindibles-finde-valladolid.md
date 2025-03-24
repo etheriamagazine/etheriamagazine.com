@@ -3,10 +3,10 @@ title: "¿Por qué se come tan bien en Valladolid?"
 date: 2019-01-31
 coverImage: https://fotos.etheriamagazine.com/2019/01/comer-valladolid-Jero.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

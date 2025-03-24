@@ -3,9 +3,9 @@ title: "Visitas en Ámsterdam para un finde con tu madre"
 date: 2018-09-25
 coverImage: https://fotos.etheriamagazine.com/2018/09/Lot-Sixty-One-Kinkerstraat-Koen-Smilde-Photography-Rechtenvrij.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Cristina R. Bareño
 ---

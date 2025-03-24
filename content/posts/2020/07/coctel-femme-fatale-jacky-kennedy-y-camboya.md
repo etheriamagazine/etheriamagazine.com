@@ -3,7 +3,9 @@ title: "Femme Fatale, un cóctel de leyenda"
 date: 2020-07-24
 coverImage: https://fotos.etheriamagazine.com/2020/06/portada-femme-fatale-coctel.jpg
 categories: 
-  - historias-en-femenino
+  - historias
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

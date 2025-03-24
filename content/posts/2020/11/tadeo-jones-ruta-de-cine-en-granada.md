@@ -3,9 +3,9 @@ title: "Tadeo Jones en Granada, un viaje de cine en familia"
 date: 2020-11-22
 coverImage: https://fotos.etheriamagazine.com/2020/11/tadeo-jones-panoramica-alhambra.jpg
 categories: 
-  - viajes-cine
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Eva Madruga
 ---

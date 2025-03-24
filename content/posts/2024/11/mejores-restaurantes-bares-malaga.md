@@ -3,8 +3,9 @@ title: "Málaga en femenino singular: una ruta gastronómica para viajeras foodi
 date: 2024-11-13
 coverImage: https://fotos.etheriamagazine.com/2024/11/malaga-chiringuito-Las-palmeras.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

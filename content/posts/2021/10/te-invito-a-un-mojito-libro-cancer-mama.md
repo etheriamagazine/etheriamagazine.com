@@ -3,9 +3,10 @@ title: "'Te invito a un mojito', un libro que puede salvar vidas"
 date: 2021-10-19
 coverImage: https://fotos.etheriamagazine.com/2021/10/te-invito-mojito-paka-mabel.jpg
 categories: 
-  - libros-de-viajes
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

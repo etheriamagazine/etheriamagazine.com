@@ -3,10 +3,9 @@ title: "10 motivos convincentes para visitar Santoña (además de sus anchoas)"
 date: 2021-01-20
 coverImage: https://fotos.etheriamagazine.com/2021/01/arte-urbano-santona-cantabria.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

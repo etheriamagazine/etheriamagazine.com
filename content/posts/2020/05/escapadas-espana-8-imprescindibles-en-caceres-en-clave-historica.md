@@ -3,11 +3,11 @@ title: "8 visitas imprescindibles en Cáceres en clave histórica"
 date: 2020-05-26
 coverImage: https://fotos.etheriamagazine.com/2020/04/viaje-mujeres-solas-caceres.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Ana María Pareja
 ---

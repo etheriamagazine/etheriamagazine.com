@@ -3,10 +3,11 @@ title: "Descubre la belleza de Georgia en 10 visitas increíbles"
 date: 2019-02-13
 coverImage: https://fotos.etheriamagazine.com/2019/02/Viaje-mujeres-Georgia-iglesia-e1637066928892.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

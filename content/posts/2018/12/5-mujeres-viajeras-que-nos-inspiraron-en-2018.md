@@ -3,10 +3,11 @@ title: "5 mujeres que nos inspiraron en 2018"
 date: 2018-12-31
 coverImage: https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-stefanie.jpg
 categories: 
-  - de-un-vistazo
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - planes-cultura-ocio
+  - inspiración
+  - mujeres-top
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

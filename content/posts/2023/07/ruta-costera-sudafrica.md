@@ -3,8 +3,9 @@ title: "El desierto costero de Sudáfrica sólo florece en verano y otoño"
 date: 2023-07-12
 coverImage: https://fotos.etheriamagazine.com/2023/07/desierto-sudafrica-flores-Proteas.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

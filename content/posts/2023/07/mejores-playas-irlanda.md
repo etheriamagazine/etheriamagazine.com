@@ -3,7 +3,9 @@ title: "Estas 8 playas de Irlanda harán que te enamores (aún más) de la isla"
 date: 2023-07-21
 coverImage: https://fotos.etheriamagazine.com/2023/07/playa-Curracloe-irlanda.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

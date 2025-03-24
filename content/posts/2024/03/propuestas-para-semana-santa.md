@@ -3,10 +3,9 @@ title: "6 propuestas de última hora para viajar en Semana Santa"
 date: 2024-03-04
 coverImage: https://fotos.etheriamagazine.com/2024/03/lago-garda-italia.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

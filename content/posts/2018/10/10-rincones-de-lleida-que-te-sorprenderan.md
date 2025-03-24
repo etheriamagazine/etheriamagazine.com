@@ -3,10 +3,12 @@ title: "10 rincones de Lleida que te sorprenderán"
 date: 2018-10-10
 coverImage: https://fotos.etheriamagazine.com/2018/10/globo-sierra-del-montsec.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-ecoturismo
-  - de-un-vistazo
-  - planes-cultura-ocio
+  - viajar-con-amigas
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

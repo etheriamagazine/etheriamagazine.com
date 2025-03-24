@@ -3,8 +3,9 @@ title: "10 buenas razones para escaparse a la antigua Tarraco"
 date: 2021-12-29
 coverImage: https://fotos.etheriamagazine.com/2021/12/Ruta-del-VI-DO-TARRAGONA.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

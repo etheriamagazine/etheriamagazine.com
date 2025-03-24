@@ -3,8 +3,9 @@ title: "Vanessa Garrido: \"Viajar es invertir en conocimiento y tolerancia\""
 date: 2019-03-29
 coverImage: https://fotos.etheriamagazine.com/2019/03/vanessa-garrido-glaciar-perito-moreno.jpg
 categories: 
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,8 +3,9 @@ title: "10 pasos sostenibles para visitar Getxo"
 date: 2022-08-22
 coverImage: https://fotos.etheriamagazine.com/2022/08/getxo-humedal-de-Bolue.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

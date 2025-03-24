@@ -3,10 +3,11 @@ title: "6 escapadas nacionales para mujeres de buen comer"
 date: 2019-12-12
 coverImage: https://fotos.etheriamagazine.com/2019/06/Cinco-Jotas-Bodega-plato-jamon.jpg
 categories: 
-  - viajes-gastronomicos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

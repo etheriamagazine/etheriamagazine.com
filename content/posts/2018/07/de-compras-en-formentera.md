@@ -3,7 +3,9 @@ title: "Guía breve de compras en Formentera"
 date: 2018-07-06
 coverImage: https://fotos.etheriamagazine.com/2018/07/compras-formentera-mercadillo-mola-4-e1669654042454.jpeg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Nuria Cortés
 ---

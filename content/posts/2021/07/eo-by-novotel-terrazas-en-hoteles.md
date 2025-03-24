@@ -3,10 +3,9 @@ title: "‘eo by Novotel’, practica el terraceo más desenfadado y gourmet"
 date: 2021-07-27
 coverImage: https://fotos.etheriamagazine.com/2021/07/Terraza_Novotel-ibis-Styles-Madrid-City-Las-Ventas.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

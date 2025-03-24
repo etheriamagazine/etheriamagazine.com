@@ -3,9 +3,9 @@ title: "Mogarraz se retrata, así es el pueblo de las 800 caras de Salamanca"
 date: 2019-10-07
 coverImage: https://fotos.etheriamagazine.com/2019/09/mogarraz-portada.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

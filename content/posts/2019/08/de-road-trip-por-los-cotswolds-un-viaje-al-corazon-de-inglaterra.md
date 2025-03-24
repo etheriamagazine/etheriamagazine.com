@@ -3,10 +3,9 @@ title: "De road trip por los Cotswolds, un viaje al corazón de Inglaterra"
 date: 2019-08-08
 coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-mujeres-cotswolds.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Elena Ortega
 ---

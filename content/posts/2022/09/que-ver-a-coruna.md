@@ -2,8 +2,8 @@
 title: "15 lugares imprescindibles en A Coruña que miran al mar"
 date: 2022-09-23
 coverImage: https://fotos.etheriamagazine.com/2022/09/ortigueira-banco.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

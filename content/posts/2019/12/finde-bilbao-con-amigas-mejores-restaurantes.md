@@ -3,8 +3,9 @@ title: "Bilbao en clave 'gastro' para una escapada con amigas"
 date: 2019-12-23
 coverImage: https://fotos.etheriamagazine.com/2019/11/Restaurante-Mina-chef-Alvaro-Garrido.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Cristina R. Bareño
 ---

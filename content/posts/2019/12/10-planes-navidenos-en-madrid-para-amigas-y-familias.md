@@ -3,7 +3,9 @@ title: "10 Planes navideños en Madrid para mujeres (con o sin hijos)"
 date: 2019-12-19
 coverImage: https://fotos.etheriamagazine.com/2019/12/bola-navidad-gran-via-alcala.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

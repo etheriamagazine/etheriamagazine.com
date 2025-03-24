@@ -3,10 +3,11 @@ title: "Planes en Viena con amigas para vuestro uso y disfrute"
 date: 2022-07-07
 coverImage: https://fotos.etheriamagazine.com/2022/07/viena-Maria-Teresa-Platz.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

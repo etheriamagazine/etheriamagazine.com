@@ -3,10 +3,11 @@ title: "10 parques naturales de América Latina con paisajes increíbles"
 date: 2021-10-21
 coverImage: https://fotos.etheriamagazine.com/2021/10/paisajes-america-latina-Salar-Uyuni.jpg
 categories: 
-  - viajes-ecoturismo
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

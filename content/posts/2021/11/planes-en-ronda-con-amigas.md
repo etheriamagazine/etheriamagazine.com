@@ -3,7 +3,9 @@ title: "Ronda con amigas, pistas para gozar al máximo"
 date: 2021-11-23
 coverImage: https://fotos.etheriamagazine.com/2021/11/ronda-Arco-de-Felipe-V.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

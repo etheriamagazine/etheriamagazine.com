@@ -3,10 +3,9 @@ title: "Sevilla, la escapada perfecta a la andaluza"
 date: 2019-02-04
 coverImage: https://fotos.etheriamagazine.com/2019/01/viaje-mujeres-Aire-Sevilla.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Macarena Escrivá
 ---

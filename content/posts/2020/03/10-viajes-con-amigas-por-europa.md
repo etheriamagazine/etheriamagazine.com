@@ -3,10 +3,11 @@ title: "10 viajes con amigas por Europa"
 date: 2020-03-03
 coverImage: https://fotos.etheriamagazine.com/2019/11/Malta-Cafe-del-mar.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

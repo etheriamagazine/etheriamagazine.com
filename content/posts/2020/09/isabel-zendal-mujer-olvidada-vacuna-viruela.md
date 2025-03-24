@@ -3,8 +3,9 @@ title: "Isabel Zendal, la madre de todas las vacunas"
 date: 2020-09-21
 coverImage: https://fotos.etheriamagazine.com/2020/09/vacuna-viruela-isabel-zendal.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

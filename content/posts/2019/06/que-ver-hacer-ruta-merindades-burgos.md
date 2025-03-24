@@ -3,9 +3,9 @@ title: "Ruta para desconectar en Las Merindades de Burgos"
 date: 2019-06-04
 coverImage: https://fotos.etheriamagazine.com/2019/05/ruta-merindades-ojo-guarena.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

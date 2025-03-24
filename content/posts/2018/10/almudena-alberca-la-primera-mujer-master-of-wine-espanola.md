@@ -3,9 +3,10 @@ title: "Almudena Alberca, la primera mujer 'Master of Wine' española"
 date: 2018-10-08
 coverImage: https://fotos.etheriamagazine.com/2018/10/Almudena-Alberca-barricas.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

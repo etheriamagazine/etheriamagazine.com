@@ -3,8 +3,9 @@ title: "Playas de Menorca, la guía más completa que encontrarás"
 date: 2020-08-14
 coverImage: https://fotos.etheriamagazine.com/2020/08/playa-menorca-Es-Calo-blanc.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Nuria Cortés
 ---

@@ -3,7 +3,9 @@ title: "Gibraltar, planes para una escapada en familia"
 date: 2018-05-21
 coverImage: https://fotos.etheriamagazine.com/2018/05/Peñón-Gibraltar.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

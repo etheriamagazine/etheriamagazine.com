@@ -3,8 +3,9 @@ title: "Mercure San Sebastián Monte Igueldo, las mejores vistas de Donostia"
 date: 2020-06-25
 coverImage: https://fotos.etheriamagazine.com/2020/06/Portada-Mercure-San-Sebastian.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

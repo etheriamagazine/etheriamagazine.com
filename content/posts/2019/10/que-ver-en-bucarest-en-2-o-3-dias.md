@@ -3,9 +3,9 @@ title: "Bucarest en 3 días, descubre todos sus encantos"
 date: 2019-10-18
 coverImage: https://fotos.etheriamagazine.com/2019/10/bucarest-biblioteca-universidad.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Cristina R. Bareño
 ---

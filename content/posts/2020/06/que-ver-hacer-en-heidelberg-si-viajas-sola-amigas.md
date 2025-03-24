@@ -3,8 +3,9 @@ title: "Heidelberg, sola o con amigas, siempre es un planazo"
 date: 2020-06-12
 coverImage: https://fotos.etheriamagazine.com/2020/06/Heidelberg-vistas-puente.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

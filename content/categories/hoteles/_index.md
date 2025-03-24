@@ -1,7 +1,7 @@
 ---
 title: "Hoteles"
 slug: hoteles
-description: "Los hoteles que encontrarás en esta sección han sido cuidadosamente escogidos por el equipo de Etheria Magazine. Todos ellos merecen formar parte de tu próximo viaje."
+description: "Recomendaciones de los mejores hoteles y alojamientos para unas vacaciones cómodas y seguras."
 ---
 
 

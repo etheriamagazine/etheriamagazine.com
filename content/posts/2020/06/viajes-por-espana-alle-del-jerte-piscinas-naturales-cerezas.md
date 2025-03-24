@@ -3,8 +3,9 @@ title: "Valle del Jerte, entre cerezas y piscinas naturales"
 date: 2020-06-17
 coverImage: https://fotos.etheriamagazine.com/2020/06/viajes-mujeres-etheria-Valle-del-jerte.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

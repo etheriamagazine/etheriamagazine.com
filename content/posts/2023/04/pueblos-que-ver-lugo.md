@@ -3,7 +3,9 @@ title: "Descubre la belleza de la provincia de Lugo en 15 paradas"
 date: 2023-04-06
 coverImage: https://fotos.etheriamagazine.com/2023/03/torrentes-macara-palas-rei.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

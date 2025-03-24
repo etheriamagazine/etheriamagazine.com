@@ -3,8 +3,9 @@ title: "Ruta del Vino Montilla-Moriles, 20 años brindando en el corazón de And
 date: 2022-01-11
 coverImage: https://fotos.etheriamagazine.com/2022/01/montilla-moriles-vinedos.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

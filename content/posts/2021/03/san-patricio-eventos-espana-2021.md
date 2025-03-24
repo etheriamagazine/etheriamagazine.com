@@ -3,7 +3,9 @@ title: "San Patricio, la gran fiesta irlandesa, se celebra en casa este año"
 date: 2021-03-17
 coverImage: https://fotos.etheriamagazine.com/2021/03/St-Patricks-Day-irlanda.jpg
 categories: 
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,10 +3,9 @@ title: "Turismo activo en España, propuestas para deportistas"
 date: 2018-11-23
 coverImage: https://fotos.etheriamagazine.com/2018/11/viajes-mujeres-parque-alcornocales-senderismo.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Kris Ubach
 ---

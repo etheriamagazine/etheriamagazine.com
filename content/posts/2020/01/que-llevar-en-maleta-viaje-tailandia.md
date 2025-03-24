@@ -3,11 +3,11 @@ title: "Qué llevar en la maleta para un viaje a Tailandia"
 date: 2020-01-02
 coverImage: https://fotos.etheriamagazine.com/2019/12/maleta-tailandia-chicas.jpg
 categories: 
-  - consejos-practicos
-  - organiza-tu-viaje
-  - planes-cultura-ocio
-  - que-llevar-en-la-maleta
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+  - qué-llevar-en-la-maleta
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

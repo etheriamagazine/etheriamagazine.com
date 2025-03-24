@@ -3,7 +3,9 @@ title: "Malta en familia, 10 planazos para hacer con niños activos"
 date: 2022-05-19
 coverImage: https://fotos.etheriamagazine.com/2022/05/Malta-con-ninos.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

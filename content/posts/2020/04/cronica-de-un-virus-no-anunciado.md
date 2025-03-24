@@ -2,8 +2,8 @@
 title: "Crónica de un virus no anunciado"
 date: 2020-04-04
 coverImage: https://fotos.etheriamagazine.com/2020/04/soledad-coronavirus.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

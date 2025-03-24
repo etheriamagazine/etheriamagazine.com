@@ -3,9 +3,9 @@ title: "Las Terrazas y Viñales, descubre el corazón más verde de Cuba"
 date: 2024-12-06
 coverImage: https://fotos.etheriamagazine.com/2024/12/cuba-las-terrazas-jardines.jpg
 categories: 
-  - viajes-ecoturismo
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Mundo
 authors: 
   - Susana García
 ---

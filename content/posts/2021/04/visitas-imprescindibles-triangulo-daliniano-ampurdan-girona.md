@@ -2,8 +2,8 @@
 title: "Contágiate de la locura de Dalí en el Triángulo daliniano"
 date: 2021-04-21
 coverImage: https://fotos.etheriamagazine.com/2021/03/sala-de-Mae-West-Teatro-Museo-Dali.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

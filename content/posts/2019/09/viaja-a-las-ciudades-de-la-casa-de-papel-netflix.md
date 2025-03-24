@@ -3,11 +3,10 @@ title: "Viaja a las 13 ciudades de 'La Casa de Papel'"
 date: 2019-09-12
 coverImage: https://fotos.etheriamagazine.com/2019/09/viajes-la-casa-de-papel.jpg
 categories: 
-  - viajes-cine
-  - organiza-tu-viaje
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

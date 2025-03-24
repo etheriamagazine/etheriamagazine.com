@@ -3,7 +3,9 @@ title: "Qué ver en Brno: una escapada muy 'chic' a Chequia"
 date: 2022-08-26
 coverImage: https://fotos.etheriamagazine.com/2022/08/brno-catedral-pedro-pablo.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

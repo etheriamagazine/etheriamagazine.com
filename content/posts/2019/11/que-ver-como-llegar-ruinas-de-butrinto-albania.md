@@ -3,8 +3,9 @@ title: "Las ruinas de Butrinto, cómo y por qué visitar este tesoro de Albania"
 date: 2019-11-27
 coverImage: https://fotos.etheriamagazine.com/2019/11/ruinas-butrinto-albania.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Mundo
 authors: 
   - Cristina Fernández
 ---

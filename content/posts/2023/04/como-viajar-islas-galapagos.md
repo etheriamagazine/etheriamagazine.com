@@ -3,8 +3,10 @@ title: "Islas Galápagos, consejos de Sania para visitar el paraíso perdido"
 date: 2023-04-09
 coverImage: https://fotos.etheriamagazine.com/2023/04/sania-galapagos-tortuga.jpg
 categories: 
-  - historias-en-femenino
   - viajar-sola
+  - historias
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

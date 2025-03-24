@@ -3,9 +3,10 @@ title: "Viaja al futuro desde el Monasterio de Uclés"
 date: 2020-10-22
 coverImage: https://fotos.etheriamagazine.com/2020/10/re-nacimiento-monasterio-ucles.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

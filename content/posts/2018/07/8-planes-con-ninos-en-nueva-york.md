@@ -3,9 +3,9 @@ title: "Viaje a Nueva York con niños: 8 planes que no puedes perderte"
 date: 2018-07-23
 coverImage: https://fotos.etheriamagazine.com/2018/05/5-Nueva-York-Top-of-the-Rock-e1565512750575.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Susana García
 ---

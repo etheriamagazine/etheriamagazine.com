@@ -3,8 +3,9 @@ title: "Trucos para preparar torrijas normales y bajas en calorías"
 date: 2021-03-17
 coverImage: https://fotos.etheriamagazine.com/2021/03/torrijas-azucar-canela.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Susana García
 ---

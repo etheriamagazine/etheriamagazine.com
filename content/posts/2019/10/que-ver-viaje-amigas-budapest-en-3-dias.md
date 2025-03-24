@@ -3,11 +3,10 @@ title: "Budapest con amigas, imprescindibles para un fin de semana"
 date: 2019-10-25
 coverImage: https://fotos.etheriamagazine.com/2019/10/palacio-real-budapest.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - de-un-vistazo
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

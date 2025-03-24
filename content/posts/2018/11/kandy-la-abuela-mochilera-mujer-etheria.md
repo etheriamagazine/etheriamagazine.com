@@ -3,10 +3,11 @@ title: "La abuelita mochilera: “Creo que el viajar es como una droga, que cuan
 date: 2018-11-19
 coverImage: https://fotos.etheriamagazine.com/2018/11/Kandy-abuela-mochilera-8.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - mujeres-que-inspiran
   - viajar-sola
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

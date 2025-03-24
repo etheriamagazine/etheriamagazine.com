@@ -3,7 +3,9 @@ title: "El Hurtigruten, el barco postal desde el que ver las auroras boreales"
 date: 2022-03-11
 coverImage: https://fotos.etheriamagazine.com/2022/02/noruega-El-Expreso-del-Litoral.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

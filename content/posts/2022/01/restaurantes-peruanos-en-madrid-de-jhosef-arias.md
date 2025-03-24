@@ -3,10 +3,10 @@ title: "Restaurantes peruanos en Madrid con el sello del chef Jhosef Arias"
 date: 2022-01-24
 coverImage: https://fotos.etheriamagazine.com/2022/01/Platos-Piscomar-Bravazo.jpg
 categories: 
-  - viajes-con-amigas
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

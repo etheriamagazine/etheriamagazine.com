@@ -3,7 +3,9 @@ title: "Raclette, una original obra de teatro con toque gastronómico"
 date: 2021-06-10
 coverImage: https://fotos.etheriamagazine.com/2021/06/elena-gonzalez-hector-gonzalez-raclette.jpg
 categories: 
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

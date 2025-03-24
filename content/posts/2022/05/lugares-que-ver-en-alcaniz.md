@@ -3,8 +3,9 @@ title: "Alcañiz, rocanrol por la ciudad con las mejores curvas de Aragón"
 date: 2022-05-23
 coverImage: https://fotos.etheriamagazine.com/2022/05/Pueblo-Belmonte-de-San-Jose-Alcaniz.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

@@ -3,10 +3,11 @@ title: "10 costas de Europa perfectas para ir de vacaciones este verano"
 date: 2024-04-29
 coverImage: https://fotos.etheriamagazine.com/2024/04/creta-blos-beach.jpg
 categories: 
-  - viajes-romanticos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

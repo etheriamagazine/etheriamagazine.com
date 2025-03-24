@@ -3,8 +3,9 @@ title: "8 planes geniales con niños para descubrir el patrimonio industrial cat
 date: 2019-12-18
 coverImage: https://fotos.etheriamagazine.com/2019/12/mina-bellmunt-cataluna.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,7 +3,9 @@ title: "Mujeres de Costa Rica que nos han inspirado en 2022"
 date: 2022-12-30
 coverImage: https://fotos.etheriamagazine.com/2022/12/costa-rica-mujeres-bahia-drake-corcovado.jpg
 categories: 
-  - historias-en-femenino
+  - historias
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

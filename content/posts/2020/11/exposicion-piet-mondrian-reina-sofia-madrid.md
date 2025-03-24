@@ -3,8 +3,10 @@ title: "Piet Mondrian y su “belleza universal” de la geometría conquistan e
 date: 2020-11-27
 coverImage: https://fotos.etheriamagazine.com/2020/11/exposicion-mondrian-reina-sofia-1.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

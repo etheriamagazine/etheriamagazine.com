@@ -3,10 +3,10 @@ title: "10 paradas imprescindibles en las ruinas romanas de Baelo Claudia (Bolon
 date: 2019-08-22
 coverImage: https://fotos.etheriamagazine.com/2019/08/ruinas-romanas-bolonia.jpg
 categories: 
-  - viaje-en-familia
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

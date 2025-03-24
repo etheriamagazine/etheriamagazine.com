@@ -3,10 +3,11 @@ title: "Descubre las 10 sonrisas persas de Irán"
 date: 2019-11-06
 coverImage: https://fotos.etheriamagazine.com/2019/10/Yazd-ruta-caravanas-seda-4.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - Mundo
 authors: 
   - Juan Carlos y Mar
 ---

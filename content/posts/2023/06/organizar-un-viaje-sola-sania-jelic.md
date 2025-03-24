@@ -3,10 +3,11 @@ title: "Consejos de Sania Jelic para organizar un viaje sola de seis meses"
 date: 2023-06-29
 coverImage: https://fotos.etheriamagazine.com/2023/05/sania-subida-ciudad-perdida.jpg
 categories: 
-  - consejos-practicos
-  - mujeres-etheria
-  - mujeres-que-inspiran
   - viajar-sola
+  - inspiración
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Sania Jelic
 ---

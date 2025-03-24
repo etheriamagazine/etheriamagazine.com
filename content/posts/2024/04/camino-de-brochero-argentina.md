@@ -3,9 +3,9 @@ title: "Descubre el nuevo Camino de Brochero, el hermano pequeño de la Ruta Jac
 date: 2024-04-07
 coverImage: https://fotos.etheriamagazine.com/2024/03/camino-brochero.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 tags: 
   - camino-de-peregrinacion-argentino
 authors: 

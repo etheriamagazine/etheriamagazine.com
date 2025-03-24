@@ -3,13 +3,11 @@ title: "10 pueblos bonitos de Castilla-La Mancha para organizar una escapada"
 date: 2023-11-10
 coverImage: https://fotos.etheriamagazine.com/2023/11/consuegra-molinos-castilla-mancha.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-romanticos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---
@@ -36,11 +34,11 @@ no es para menos. Su casco histórico, con aportaciones del mudéjar, el románi
 gótico, le confiere una personalidad especial y es un lugar donde te sientes, al 
 instante, trasladado varios siglos atrás. Por Sigüenza hay que pasear con calma y 
 detenerse en su **Plaza Mayor**, con la fachada sur de la **Catedral de Santa María** y 
-el renacentista Palacio Municipal; en su **Castillo**, ocupado por el [Parador 
-Nacional](https://paradores.es/es/parador-de-siguenza); y en la Casa del Doncel. Además, 
-es imprescindible un paseo por la **Alameda**. Como curiosidad, esta ciudad de 
-Guadalajara guarda una curiosa historia que la relaciona con la “movida madrileña”, 
-puedes conocerla en el reportaje de Etheria Magazine que te indicamos a continuación. 
+el renacentista Palacio Municipal; en su **Castillo**, ocupado por el Parador Nacional; 
+y en la Casa del Doncel. Además, es imprescindible un paseo por la **Alameda**. Como 
+curiosidad, esta ciudad de Guadalajara guarda una curiosa historia que la relaciona con 
+la “movida madrileña”, puedes conocerla en el reportaje de Etheria Magazine que te 
+indicamos a continuación. 
 
 ✅ [Sigüenza: del pasado medieval a la Movida 
 madrileña](https://etheriamagazine.com/2020/12/14/que-ver-donde-comer-en-siguenza/) 

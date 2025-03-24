@@ -3,10 +3,9 @@ title: "La comarca del Matarranya, una joya entre tres provincias"
 date: 2019-07-16
 coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-matarranya-rio-uldemo-beceite.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Carmen Giró
 ---

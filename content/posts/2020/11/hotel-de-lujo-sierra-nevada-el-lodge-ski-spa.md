@@ -3,8 +3,9 @@ title: "El Lodge Ski & Spa, un hotel boutique de lujo en Sierra Nevada"
 date: 2020-11-12
 coverImage: https://fotos.etheriamagazine.com/2020/11/hotel-sierra-nevada-el-lodge-piscina.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

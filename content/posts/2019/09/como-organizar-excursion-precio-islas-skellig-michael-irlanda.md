@@ -3,8 +3,9 @@ title: "Islas Skellig, el enigmático escenario de Star Wars en Irlanda"
 date: 2019-09-05
 coverImage: https://fotos.etheriamagazine.com/2019/09/sendero-Skellig-Michael.jpg
 categories: 
-  - viajes-cine
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

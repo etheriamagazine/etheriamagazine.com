@@ -3,8 +3,9 @@ title: "Only YOU Valencia, un hotel donde no sólo querrás dormir"
 date: 2021-12-21
 coverImage: https://fotos.etheriamagazine.com/2021/12/Only-YOU-Hotel-Valencia-exterior.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

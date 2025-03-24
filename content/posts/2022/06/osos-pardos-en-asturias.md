@@ -3,7 +3,9 @@ title: "Ver osos pardos en Asturias, una experiencia inolvidable"
 date: 2022-06-07
 coverImage: https://fotos.etheriamagazine.com/2022/06/Oso-pardo-asturias.jpg
 categories: 
-  - viajes-ecoturismo
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

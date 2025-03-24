@@ -3,9 +3,9 @@ title: "Los valles de la Jacetania, las 'joyicas' del Pirineo aragonés"
 date: 2019-09-25
 coverImage: https://fotos.etheriamagazine.com/2019/09/Jacetania-puerto-somport.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

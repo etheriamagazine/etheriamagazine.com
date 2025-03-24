@@ -3,9 +3,9 @@ title: "Cascais, Sintra y Estoril, un trío portugués que siempre triunfa"
 date: 2018-07-31
 coverImage: https://fotos.etheriamagazine.com/2018/07/Palacio-de-Queluz-RuiCunha-turismo-Cascais.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

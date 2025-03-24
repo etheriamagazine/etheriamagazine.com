@@ -3,10 +3,10 @@ title: "10 planes originales en Salamanca para hacer con amigas"
 date: 2021-03-31
 coverImage: https://fotos.etheriamagazine.com/2021/03/salamanca-En-la-parra.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Firmas invitadas
 ---

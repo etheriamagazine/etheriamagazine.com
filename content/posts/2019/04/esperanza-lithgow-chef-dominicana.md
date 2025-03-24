@@ -3,9 +3,9 @@ title: "Doña Esperancita, la dama de los fogones dominicanos"
 date: 2019-04-06
 coverImage: https://fotos.etheriamagazine.com/2019/04/Chef-Esperanza-Lithgow.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

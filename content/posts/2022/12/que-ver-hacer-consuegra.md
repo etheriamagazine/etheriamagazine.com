@@ -3,7 +3,9 @@ title: "Consuegra, un pueblo con doce molinos y un castillo"
 date: 2022-12-20
 coverImage: https://fotos.etheriamagazine.com/2022/12/Molino-castillo-consuegra.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

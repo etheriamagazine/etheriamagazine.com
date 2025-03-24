@@ -3,11 +3,11 @@ title: "Los mejores miradores de Nueva York: nuevos, de pago y gratuitos"
 date: 2020-02-24
 coverImage: https://fotos.etheriamagazine.com/2020/02/viaje-mujeres-nueva-york-vistas-Edge.jpg
 categories: 
-  - consejos-practicos
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
   - viajar-sola
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

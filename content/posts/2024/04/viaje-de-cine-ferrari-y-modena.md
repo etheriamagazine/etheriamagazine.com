@@ -3,9 +3,10 @@ title: "Descubre Módena a través del biopic de Enzo Ferrari"
 date: 2024-04-19
 coverImage: https://fotos.etheriamagazine.com/2024/04/Modena-Motor-Valley-Fest.jpg
 categories: 
-  - viajes-cine
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - inspiración
+  - viajar-sola
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

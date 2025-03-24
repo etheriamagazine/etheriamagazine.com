@@ -4,6 +4,8 @@ date: 2023-02-10
 coverImage: https://fotos.etheriamagazine.com/2023/02/sania-tres-lagos-horizontal.jpg
 categories: 
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

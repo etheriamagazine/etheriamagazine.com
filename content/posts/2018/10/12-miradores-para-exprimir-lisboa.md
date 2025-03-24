@@ -3,8 +3,10 @@ title: "12 miradores de Lisboa para enamorarse de sus vistas"
 date: 2018-10-30
 coverImage: https://fotos.etheriamagazine.com/2018/10/Miradores-de-Lisboa-e1566028365742.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

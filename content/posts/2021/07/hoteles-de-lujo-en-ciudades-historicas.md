@@ -3,11 +3,11 @@ title: "7 hoteles de lujo para vivir 7 ciudades históricas"
 date: 2021-07-09
 coverImage: https://fotos.etheriamagazine.com/2021/07/ciragan-palace-kempinski-istanbul-exterior.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

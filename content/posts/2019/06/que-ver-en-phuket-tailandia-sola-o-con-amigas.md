@@ -3,10 +3,10 @@ title: "Planes en Phuket con amigas dispuestas a divertirse"
 date: 2019-06-26
 coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-phuket-tailandia-amigas-Crucero-HYPE.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

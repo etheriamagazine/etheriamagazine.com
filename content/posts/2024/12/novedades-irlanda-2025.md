@@ -3,8 +3,9 @@ title: "Tentaciones de Irlanda en 2025: cultura, música y paisajes de película
 date: 2024-12-11
 coverImage: https://fotos.etheriamagazine.com/2024/12/English-Food-Market-cork.jpeg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

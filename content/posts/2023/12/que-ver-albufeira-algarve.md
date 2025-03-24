@@ -3,8 +3,9 @@ title: "Albufeira, un destino en el Algarve para todo el año"
 date: 2023-12-15
 coverImage: https://fotos.etheriamagazine.com/2023/12/albufeira-playa-pescadores.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Susana García
 ---

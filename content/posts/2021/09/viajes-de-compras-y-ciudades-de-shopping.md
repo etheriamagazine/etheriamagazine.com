@@ -3,7 +3,9 @@ title: "12 ciudades donde el shopping debe estar en la agenda"
 date: 2021-09-07
 coverImage: https://fotos.etheriamagazine.com/2021/09/compras-londres.jpg
 categories: 
-  - regalos-compras-viajeras
+  - compras
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

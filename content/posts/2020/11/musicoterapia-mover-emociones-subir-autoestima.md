@@ -3,7 +3,9 @@ title: "Musicoterapia, un recurso importante para restaurar el equilibrio y la s
 date: 2020-11-11
 coverImage: https://fotos.etheriamagazine.com/2020/11/musicoterapia-ayuda-autoestima.jpg
 categories: 
-  - salud-bienestar-nutricion
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

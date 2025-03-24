@@ -3,8 +3,9 @@ title: "Fin de semana de lujo en Maastricht, bombonera del arte"
 date: 2019-03-01
 coverImage: https://fotos.etheriamagazine.com/2019/02/Maastricht-Feria-tefaf.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

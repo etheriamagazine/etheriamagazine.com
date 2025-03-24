@@ -3,9 +3,9 @@ title: "Una escapada romántica al hotel Faro Punta Cumplida en La Palma"
 date: 2019-06-03
 coverImage: https://fotos.etheriamagazine.com/2019/05/Rusticae-faro-punta-cumplida.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

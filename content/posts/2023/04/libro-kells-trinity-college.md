@@ -3,8 +3,10 @@ title: "Por qué deberías ver cuanto antes el Libro de Kells en el Trinity Coll
 date: 2023-04-25
 coverImage: https://fotos.etheriamagazine.com/2023/04/biblioteca-antigua-trinity-college-dublin.jpg
 categories: 
-  - viajes-con-amigas
-  - exposiciones
+  - viajar-con-amigas
+  - cultura
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

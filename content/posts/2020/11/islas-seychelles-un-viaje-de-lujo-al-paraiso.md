@@ -3,9 +3,9 @@ title: "Islas Seychelles, el nuevo paraíso para los viajeros españoles"
 date: 2020-11-16
 coverImage: https://fotos.etheriamagazine.com/2020/11/islas-seychelles-paraiso.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

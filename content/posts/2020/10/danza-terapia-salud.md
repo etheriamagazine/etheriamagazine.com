@@ -3,8 +3,9 @@ title: "Danza, la belleza que sana"
 date: 2020-10-21
 coverImage: https://fotos.etheriamagazine.com/2020/10/danza-terapia-salud.jpg
 categories: 
-  - salud-bienestar-nutricion
-  - viajes-para-mujeres
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

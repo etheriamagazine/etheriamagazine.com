@@ -3,9 +3,9 @@ title: "Descubre los secretos de la Ruta del Duero de pueblo en pueblo"
 date: 2022-05-17
 coverImage: https://fotos.etheriamagazine.com/2022/05/xokoreto-castronuno-ribera-duero.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

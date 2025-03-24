@@ -3,9 +3,9 @@ title: "Viaja con el paladar por España a través de estos 7 platos tradicional
 date: 2020-03-25
 coverImage: https://fotos.etheriamagazine.com/2020/03/cocinera.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,7 +3,9 @@ title: "Personas Altamente Sensibles. ¿Es realmente un don la sensibilidad?"
 date: 2020-11-25
 coverImage: https://fotos.etheriamagazine.com/2020/11/mujeres-alta-sensibilidad.jpg
 categories: 
-  - salud-bienestar-nutricion
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

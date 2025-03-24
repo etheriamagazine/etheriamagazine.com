@@ -3,9 +3,9 @@ title: "Gastronomía noruega, cocineros premiados y el mejor producto"
 date: 2019-03-28
 coverImage: https://fotos.etheriamagazine.com/2019/03/Restaurante-Maaemo-e1552995165298.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - Europa
 authors: 
   - Alfredo G. Reyes
 ---

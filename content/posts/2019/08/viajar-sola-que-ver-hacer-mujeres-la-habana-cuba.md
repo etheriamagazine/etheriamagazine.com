@@ -3,9 +3,9 @@ title: "Por qué viajar sola a La Habana, visitas y recomendaciones"
 date: 2019-08-16
 coverImage: https://fotos.etheriamagazine.com/2019/07/La-Habana-Vieja-calle.jpg
 categories: 
-  - viajes-urbanos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

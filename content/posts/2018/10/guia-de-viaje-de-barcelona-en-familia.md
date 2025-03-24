@@ -3,9 +3,9 @@ title: "Los mejores planes con niños en Barcelona"
 date: 2018-10-24
 coverImage: https://fotos.etheriamagazine.com/2018/10/viaje-familia-barcelona-golondrinas.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Yvonne Solé
 ---

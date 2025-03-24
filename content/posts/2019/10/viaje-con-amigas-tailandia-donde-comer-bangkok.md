@@ -3,7 +3,9 @@ title: "Bangkok con amigas, recomendaciones hedonistas"
 date: 2019-10-23
 coverImage: https://fotos.etheriamagazine.com/2019/10/viaje-amigas-tailandia-Coctel-en-Vertigo-Moon-Bar.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

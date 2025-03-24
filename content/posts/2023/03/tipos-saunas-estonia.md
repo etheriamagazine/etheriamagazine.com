@@ -3,7 +3,9 @@ title: "5 tipos de saunas en Estonia: desde la de humo a la flotante"
 date: 2023-03-01
 coverImage: https://fotos.etheriamagazine.com/2023/02/saunas-iglu.jpg
 categories: 
-  - bienestar-belleza
+  - bienestar
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

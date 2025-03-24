@@ -3,9 +3,9 @@ title: "Un fin de semana en la romántica Salzburgo invernal"
 date: 2019-12-02
 coverImage: https://fotos.etheriamagazine.com/2019/11/Salzburgo-Hohen-.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Ana María Pareja
 ---

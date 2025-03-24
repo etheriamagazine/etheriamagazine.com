@@ -3,10 +3,10 @@ title: "Suiza, descubre sus hoteles y restaurantes más sostenibles"
 date: 2021-05-26
 coverImage: https://fotos.etheriamagazine.com/2021/05/Suiza-hotel-cervo.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
+  - viajar-con-amigas
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

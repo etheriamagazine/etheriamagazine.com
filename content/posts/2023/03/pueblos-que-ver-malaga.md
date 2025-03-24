@@ -3,9 +3,10 @@ title: "Una guía para no perderte nada de la provincia de Málaga"
 date: 2023-03-23
 coverImage: https://fotos.etheriamagazine.com/2023/03/malaga-nerja-playa-calahonda.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - de-un-vistazo
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

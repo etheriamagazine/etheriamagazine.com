@@ -3,10 +3,10 @@ title: "De tapinas por León: el secreto mejor guardado de la capital del Santo 
 date: 2021-09-09
 coverImage: https://fotos.etheriamagazine.com/2021/06/leon-hotel-camarote.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

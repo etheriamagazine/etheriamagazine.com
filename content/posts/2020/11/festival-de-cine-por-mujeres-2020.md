@@ -3,8 +3,9 @@ title: "Miradas femeninas de 11 países en el Festival de Cine por Mujeres"
 date: 2020-11-04
 coverImage: https://fotos.etheriamagazine.com/2020/11/festival-cine-mujeres-Saint-Maud.jpg
 categories: 
-  - festivales
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

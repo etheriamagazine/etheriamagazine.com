@@ -3,7 +3,9 @@ title: "Granada con amigas: cultura, diversión y mucho arte"
 date: 2022-06-16
 coverImage: https://fotos.etheriamagazine.com/2022/06/granada-la-alhambra.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

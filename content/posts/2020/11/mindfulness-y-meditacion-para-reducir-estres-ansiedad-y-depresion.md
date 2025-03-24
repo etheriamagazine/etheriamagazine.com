@@ -3,7 +3,9 @@ title: "Mindfulness y meditación, tus mejores aliados para reducir el estrés y
 date: 2020-11-18
 coverImage: https://fotos.etheriamagazine.com/2020/11/pensamientos-positivos.jpg
 categories: 
-  - salud-bienestar-nutricion
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

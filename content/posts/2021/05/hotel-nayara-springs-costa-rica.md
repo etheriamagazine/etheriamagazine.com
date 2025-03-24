@@ -3,8 +3,9 @@ title: "Hotel Nayara Springs, lujo natural en Costa Rica"
 date: 2021-05-23
 coverImage: https://fotos.etheriamagazine.com/2018/05/COSTA-RICA-HOTEL-NAYARA-PISCINA.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - Mundo
 authors: 
   - Susana García
 ---

@@ -3,8 +3,9 @@ title: "Descubre las tradiciones navideñas de Alemania"
 date: 2020-11-30
 coverImage: https://fotos.etheriamagazine.com/2020/11/alemania-navidad-pastas.jpg
 categories: 
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

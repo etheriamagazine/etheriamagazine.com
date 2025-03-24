@@ -3,7 +3,9 @@ title: "Isla de Pascua, el misterio de los moáis y su 'mana'"
 date: 2019-02-15
 coverImage: https://fotos.etheriamagazine.com/2019/02/viaje-pascua-Ahu-Nao-Nao.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

@@ -2,8 +2,8 @@
 title: "La vida de Carmen Castellote, la última poetisa en el exilio, llega al teatro"
 date: 2021-06-23
 coverImage: https://fotos.etheriamagazine.com/2021/06/carmen-castellote-mexico-1995.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

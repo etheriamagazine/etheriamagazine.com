@@ -4,6 +4,8 @@ date: 2018-06-01
 coverImage: https://fotos.etheriamagazine.com/2018/06/Expreso-de-la-Robla-3.jpg
 categories: 
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Eva Madruga
 ---

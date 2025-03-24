@@ -3,10 +3,11 @@ title: "Tres montañas de Suiza a las que subir con niños sin despeinarse"
 date: 2018-09-28
 coverImage: https://fotos.etheriamagazine.com/2018/09/Suiza-subida-jungfrau-e1569136382763.jpg
 categories: 
-  - consejos-practicos
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

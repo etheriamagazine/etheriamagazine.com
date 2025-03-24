@@ -3,10 +3,9 @@ title: "Viaja al corazón de Cuba: Villa Clara y Sancti Spíritus"
 date: 2022-01-03
 coverImage: https://fotos.etheriamagazine.com/2020/07/Cuba-valle-ingenios.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

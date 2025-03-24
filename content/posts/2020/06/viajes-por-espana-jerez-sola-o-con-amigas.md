@@ -3,9 +3,9 @@ title: "Viaje con amigas a Jerez, el arte del buen vivir"
 date: 2020-06-10
 coverImage: https://fotos.etheriamagazine.com/2020/06/ruta-vino-jerez.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Rosa Marqués
 ---

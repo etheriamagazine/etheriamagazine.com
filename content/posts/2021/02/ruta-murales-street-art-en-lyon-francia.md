@@ -3,8 +3,9 @@ title: "Los murales XXL de Lyon, el atractivo más sorprendente de la ciudad fra
 date: 2021-02-03
 coverImage: https://fotos.etheriamagazine.com/2021/01/Le-Mur-des-Canuts.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Carmen Pineda
 ---

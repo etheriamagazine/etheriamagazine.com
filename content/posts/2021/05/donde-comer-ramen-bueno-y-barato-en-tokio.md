@@ -3,8 +3,9 @@ title: "Qué es el ramen y dónde probarlo en Tokio"
 date: 2021-05-06
 coverImage: https://fotos.etheriamagazine.com/2021/05/plato-ramen-tokio.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
+  - gourmet
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

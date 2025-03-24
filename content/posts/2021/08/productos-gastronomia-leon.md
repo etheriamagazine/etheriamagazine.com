@@ -3,12 +3,12 @@ title: "Siete productos que saben a León y no pueden faltar en tu mesa"
 date: 2021-08-23
 coverImage: https://fotos.etheriamagazine.com/2021/07/Leon-cecina.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

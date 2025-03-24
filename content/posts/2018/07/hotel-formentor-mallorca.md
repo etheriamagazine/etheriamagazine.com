@@ -4,6 +4,8 @@ date: 2018-07-04
 coverImage: https://fotos.etheriamagazine.com/2018/07/hotel-formentor-paisaje-e1558348682480.jpg
 categories: 
   - hoteles
+destino: 
+  - España
 authors: 
   - Susana García
 ---

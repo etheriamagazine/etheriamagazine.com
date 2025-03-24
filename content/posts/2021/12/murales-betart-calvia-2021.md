@@ -2,9 +2,8 @@
 title: "BetArt Calvià 2021, visita sus cinco nuevos murales"
 date: 2021-12-04
 coverImage: https://fotos.etheriamagazine.com/2021/12/Joan-Cabrer-1.jpg
-categories: 
-  - organiza-tu-viaje
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

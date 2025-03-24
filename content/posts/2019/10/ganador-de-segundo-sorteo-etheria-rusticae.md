@@ -3,7 +3,7 @@ title: "El 2º sorteo Etheria-Rusticae ya tiene ganador"
 date: 2019-10-29
 coverImage: https://fotos.etheriamagazine.com/2019/10/Riad-De-La-Belle-Epoque-Coco-Chanel.jpg
 categories: 
-  - sorteos-y-concursos
+  - sorteos
 authors: 
   - Redacción Etheria
 ---

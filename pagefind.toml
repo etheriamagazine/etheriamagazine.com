@@ -1,2 +1,2 @@
 site = "public"
-output_path = "static/pagefind"
+output_path = "public/pagefind"

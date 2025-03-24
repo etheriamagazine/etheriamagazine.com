@@ -3,9 +3,9 @@ title: "Visitas esenciales para enamorarse de Cracovia en dos días"
 date: 2018-07-23
 coverImage: https://fotos.etheriamagazine.com/2018/07/plaza-mercado-cracovia-1.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

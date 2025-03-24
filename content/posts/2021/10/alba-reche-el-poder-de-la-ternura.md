@@ -3,8 +3,9 @@ title: "Alba Reche o el empoderamiento de la ternura"
 date: 2021-10-10
 coverImage: https://fotos.etheriamagazine.com/2021/10/alba-reche-ex-operacion-triunfo-2018.jpg
 categories: 
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Firmas invitadas
 ---

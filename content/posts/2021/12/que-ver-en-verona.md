@@ -3,7 +3,9 @@ title: "Verona más allá de Julieta, descubre otras visitas esenciales"
 date: 2021-12-01
 coverImage: https://fotos.etheriamagazine.com/2021/11/piazza-delle-erbe-verona.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Alfredo G. Reyes
 ---

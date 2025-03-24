@@ -3,10 +3,11 @@ title: "Viajar sola a Noruega en busca de las auroras boreales: consejos de Sani
 date: 2024-11-01
 coverImage: https://fotos.etheriamagazine.com/2024/11/sania-noruega-aurora-boreal-vadso.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - viajes-para-mujeres
   - viajar-sola
+  - historias
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Sania Jelic
 ---

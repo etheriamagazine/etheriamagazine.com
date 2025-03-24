@@ -3,9 +3,9 @@ title: "Hotel One&Only Royal Mirage, un cinco estrellas perfecto para vivir Dub�
 date: 2022-02-04
 coverImage: https://fotos.etheriamagazine.com/2022/02/RoyalMirage-Playa.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Susana García
 ---

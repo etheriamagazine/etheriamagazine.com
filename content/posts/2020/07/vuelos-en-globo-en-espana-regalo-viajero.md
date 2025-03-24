@@ -3,9 +3,10 @@ title: "Volar en globo en España, una experiencia inolvidable"
 date: 2020-07-07
 coverImage: https://fotos.etheriamagazine.com/2020/07/volar-globo-espana.jpeg
 categories: 
-  - regalos-compras-viajeras
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - compras
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---
@@ -15,6 +16,8 @@ experiencias que no hayamos probado todavía. Si os faltan las ideas, algo que n
 olvidaréis nunca es un vuelo en globo, una actividad disponible en muchos lugares de 
 nuestra geografía. Tomad nota para volar en Mallorca, el P.N. Montseny, Segovia, Toledo 
 y Valladolid. 
+
+**Por María Eugenia Fernández** 
 
 ![Un globo de colores en pleno vuelo.](https://fotos.etheriamagazine.com/2020/07/volar-globo-espana.jpeg "Volar en globo, una gran experiencia viajera. © Aaron Burden")
 

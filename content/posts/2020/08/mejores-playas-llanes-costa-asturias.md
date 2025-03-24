@@ -3,9 +3,9 @@ title: "Ruta en coche por Llanes, descubre las visitas más espectaculares"
 date: 2020-08-17
 coverImage: https://fotos.etheriamagazine.com/2020/08/asturias-acantilados-llanes.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

@@ -3,10 +3,9 @@ title: "Sepúlveda y las hoces del Duratón, una escapada para toda la familia"
 date: 2019-07-11
 coverImage: https://fotos.etheriamagazine.com/2019/06/escapada-Sepulveda-Duraton-san-Frutos-ninas.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-ecoturismo
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Susana García
 ---

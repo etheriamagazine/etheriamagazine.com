@@ -3,9 +3,9 @@ title: "Sant Josep de sa Talaia, diez razones para visitar este rincón ibicenco
 date: 2022-02-18
 coverImage: https://fotos.etheriamagazine.com/2022/02/Platges-de-Comte.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

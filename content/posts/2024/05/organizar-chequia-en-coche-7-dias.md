@@ -3,10 +3,9 @@ title: "Cómo recorrer Chequia en coche durante una semana, qué ver y otros dat
 date: 2024-05-04
 coverImage: https://fotos.etheriamagazine.com/2024/05/ruta-coche-cesky-krumlov.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Etheria Magazine
 ---

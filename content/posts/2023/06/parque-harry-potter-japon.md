@@ -3,8 +3,7 @@ title: "Harry Potter ya tiene parque temático en Japón y es espectacular"
 date: 2023-06-19
 coverImage: https://fotos.etheriamagazine.com/2023/06/parque-Harry-Potter-japon.jpg
 categories: 
-  - parques-ocio
-  - planes-cultura-ocio
+  - ocio
 authors: 
   - Redacción Etheria
 ---

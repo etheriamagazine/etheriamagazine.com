@@ -3,9 +3,10 @@ title: "Cómo disfrutar de los deportes de invierno con total seguridad"
 date: 2023-12-11
 coverImage: https://fotos.etheriamagazine.com/2023/12/esqui-intermundial-mujer.jpg
 categories: 
-  - consejos-practicos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

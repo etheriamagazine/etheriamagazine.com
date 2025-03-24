@@ -3,8 +3,9 @@ title: "Escapada con niños a Suiza: excursiones para todos en torno al Jungfrau
 date: 2024-07-17
 coverImage: https://fotos.etheriamagazine.com/2024/07/Schynige-Platte-Faulhorn-First-ruta-ninos.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

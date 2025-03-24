@@ -3,8 +3,9 @@ title: "Cinco películas del Camino de Santiago que no puedes perderte en este A
 date: 2021-03-04
 coverImage: https://fotos.etheriamagazine.com/2021/02/camino-santiago-fotograma-Buen-camino-1.jpg
 categories: 
-  - viajes-cine
-  - viajes-para-mujeres
+  - inspiración
+destino: 
+  - España
 authors: 
   - Eva Madruga
 ---

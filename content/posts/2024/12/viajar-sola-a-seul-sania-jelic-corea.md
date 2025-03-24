@@ -3,9 +3,10 @@ title: "¿Es seguro viajar sola a Seúl? Sania Jelic comparte su experiencia en 
 date: 2024-12-13
 coverImage: https://fotos.etheriamagazine.com/2024/12/seul-sania-palacio-pabellon-Gyeongbokgung.jpg
 categories: 
-  - mujeres-etheria
-  - viajes-para-mujeres
   - viajar-sola
+  - mujeres-top
+destino: 
+  - Mundo
 authors: 
   - Sania Jelic
 ---

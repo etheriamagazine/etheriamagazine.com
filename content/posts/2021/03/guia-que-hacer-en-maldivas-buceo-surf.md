@@ -3,8 +3,9 @@ title: "Islas Maldivas, mucho más que un destino para lunas de miel"
 date: 2021-03-23
 coverImage: https://fotos.etheriamagazine.com/2018/10/Maldivas-playa.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Kris Ubach
 ---

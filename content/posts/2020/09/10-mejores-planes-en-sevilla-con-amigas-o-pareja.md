@@ -3,8 +3,9 @@ title: "10 planes originales con amigas en Sevilla"
 date: 2020-09-28
 coverImage: https://fotos.etheriamagazine.com/2020/09/viaje-Sevilla-en-bici.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

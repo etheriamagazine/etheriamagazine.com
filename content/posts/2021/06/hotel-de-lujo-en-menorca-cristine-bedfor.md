@@ -3,10 +3,10 @@ title: "Cristine Bedfor, un hotel para vivir Menorca con estilo"
 date: 2021-06-07
 coverImage: https://fotos.etheriamagazine.com/2021/06/Cristine-bedfor-terraza.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-romanticos
+  - viajar-en-pareja
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

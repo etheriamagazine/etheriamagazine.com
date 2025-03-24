@@ -3,9 +3,9 @@ title: "Sibenik, 8 razones para visitar esta ciudad croata"
 date: 2020-08-13
 coverImage: https://fotos.etheriamagazine.com/2020/08/Sibenik-detalles-puertas-centro-historico.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

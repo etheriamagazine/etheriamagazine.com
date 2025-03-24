@@ -3,9 +3,9 @@ title: "Qué comer en el Valle de Aosta, descubre los mejores sabores de los Alp
 date: 2023-11-08
 coverImage: https://fotos.etheriamagazine.com/2023/10/valle-de-aosta-queso-Fontina.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

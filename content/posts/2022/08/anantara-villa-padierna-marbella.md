@@ -3,9 +3,9 @@ title: "Anantara Villa Padierna, un hotel de lujo donde encontrar la paz en la c
 date: 2022-08-17
 coverImage: https://fotos.etheriamagazine.com/2022/08/Villa-padierna-piscina.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Susana García
 ---

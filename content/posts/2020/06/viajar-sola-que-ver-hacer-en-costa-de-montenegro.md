@@ -3,8 +3,9 @@ title: "Viajar sola a la costa de Montenegro: 6 lugares imprescindibles"
 date: 2020-06-29
 coverImage: https://fotos.etheriamagazine.com/2020/06/Montenegro-Sveti-Stefan-mar.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Marina Paul
 ---

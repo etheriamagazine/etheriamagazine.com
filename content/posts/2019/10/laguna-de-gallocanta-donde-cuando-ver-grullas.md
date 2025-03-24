@@ -3,10 +3,10 @@ title: "Laguna de Gallocanta, tienes una nueva cita con las grullas"
 date: 2019-10-29
 coverImage: https://fotos.etheriamagazine.com/2019/10/grullas-en-vuelo.jpg
 categories: 
-  - viajes-ecoturismo
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

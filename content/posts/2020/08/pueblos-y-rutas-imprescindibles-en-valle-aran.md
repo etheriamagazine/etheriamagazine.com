@@ -3,9 +3,9 @@ title: "Valle de Arán, organiza una ruta por sus pueblos y sendas imprescindibl
 date: 2020-08-31
 coverImage: https://fotos.etheriamagazine.com/2020/08/que-ver-valle-aran-pueblos.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

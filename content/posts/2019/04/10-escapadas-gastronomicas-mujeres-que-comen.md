@@ -3,11 +3,10 @@ title: "10 escapadas nacionales para mujeres que disfrutan comiendo"
 date: 2019-04-10
 coverImage: https://fotos.etheriamagazine.com/2019/03/escapada-gastro-asado.jpg
 categories: 
-  - viajes-con-amigas
-  - organiza-tu-viaje
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

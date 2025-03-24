@@ -3,9 +3,10 @@ title: "Cuota de género en Hollywood: el Paseo de la Fama con otros ojos"
 date: 2018-09-04
 coverImage: https://fotos.etheriamagazine.com/2018/08/viaje-los-angeles-Paseo-de-la-Fama-de-Hollywood-etheria.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

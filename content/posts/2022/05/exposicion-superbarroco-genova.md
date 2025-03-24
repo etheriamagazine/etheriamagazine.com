@@ -3,8 +3,10 @@ title: "Génova celebra el ‘Superbarroco’ por todo lo alto"
 date: 2022-05-24
 coverImage: https://fotos.etheriamagazine.com/2022/05/superbarroco-ascoli-piceno.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
+  - cultura
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

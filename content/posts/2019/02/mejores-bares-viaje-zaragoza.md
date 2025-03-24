@@ -3,10 +3,9 @@ title: "Zaragoza bien vale un vermú torero... o tres"
 date: 2019-02-12
 coverImage: https://fotos.etheriamagazine.com/2019/01/Zaragoza-casa-pedro.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

@@ -3,9 +3,10 @@ title: "Uzbekistán, el país de las mil y una noches"
 date: 2019-11-28
 coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-uzbekistan-bukhara.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Ana Vara y David Santiago
 ---

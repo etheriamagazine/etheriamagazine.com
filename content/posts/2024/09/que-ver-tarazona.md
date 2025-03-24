@@ -3,10 +3,9 @@ title: "Qué visitar en Tarazona, una ciudad donde vivir tu propio cuento mediev
 date: 2024-09-23
 coverImage: https://fotos.etheriamagazine.com/2024/09/tarazona-monumental.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

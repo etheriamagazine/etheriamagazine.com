@@ -3,10 +3,11 @@ title: "Descubre los 12 imprescindibles de Almería provincia"
 date: 2023-07-17
 coverImage: https://fotos.etheriamagazine.com/2023/06/Almeria-sierra-maria-velez-mirador.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

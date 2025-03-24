@@ -3,9 +3,9 @@ title: "Qué ver en Malta, un destino mediterráneo que nunca defrauda"
 date: 2019-11-19
 coverImage: https://fotos.etheriamagazine.com/2019/11/Malta-barca-tipica.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Miriam González
 ---

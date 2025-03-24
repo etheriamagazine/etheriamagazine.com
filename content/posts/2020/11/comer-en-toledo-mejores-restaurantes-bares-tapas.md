@@ -3,9 +3,10 @@ title: "10 grandes restaurantes para saborear lo mejor de Toledo"
 date: 2020-11-03
 coverImage: https://fotos.etheriamagazine.com/2020/10/Restaurantes-Toledo-cigarral-caravantes.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

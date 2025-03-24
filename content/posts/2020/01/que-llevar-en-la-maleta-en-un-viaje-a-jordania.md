@@ -3,9 +3,9 @@ title: "Qué llevar en la maleta en un viaje a Jordania"
 date: 2020-01-23
 coverImage: https://fotos.etheriamagazine.com/2020/01/consejos-maleta-viaje-jordania.jpg
 categories: 
-  - organiza-tu-viaje
-  - que-llevar-en-la-maleta
-  - viajes-para-mujeres
+  - qué-llevar-en-la-maleta
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

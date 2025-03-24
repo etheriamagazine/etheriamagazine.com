@@ -3,8 +3,9 @@ title: "Viaje en familia por Baviera: de Playmobil a Legoland"
 date: 2019-06-12
 coverImage: https://fotos.etheriamagazine.com/2019/05/Baviera-Rothenburg.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Susana García
 ---

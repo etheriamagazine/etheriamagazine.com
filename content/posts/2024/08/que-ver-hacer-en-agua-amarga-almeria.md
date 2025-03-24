@@ -3,10 +3,9 @@ title: "Agua Amarga, planes para vivir el mejor verano de tu vida"
 date: 2024-08-17
 coverImage: https://fotos.etheriamagazine.com/2021/04/Agua-Amarga-playa.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Cristina R. Bareño
 ---

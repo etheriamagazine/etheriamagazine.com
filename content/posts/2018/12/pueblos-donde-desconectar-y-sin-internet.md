@@ -1,12 +1,11 @@
 ---
-title: "Pueblos sin conexión: 5 lugares donde huir de los compromisos navideños"
+title: "Pueblos sin conexión: 5 lugares donde huir de los compromisos"
 date: 2018-12-18
 coverImage: https://fotos.etheriamagazine.com/2018/12/Viu-de-linas-etheria-magazine.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---
@@ -14,7 +13,7 @@ authors:
 Todavía quedan oasis donde no llegan los _wasaps_ en cadena de Nochevieja, los memes 
 tras el discurso del Rey, ni las llamadas de trabajo. Y benditos sean. 
 
-![vacaciones sin cobertura, navidad sin movil, viajes sin internet](https://fotos.etheriamagazine.com/2018/12/pueblos-sin-internet-1.jpg "Lugares donde desconectar del teléfono.")
+![Viu de Linás se encuentra al sur del Valle de Ordesa (Huesca).](https://fotos.etheriamagazine.com/2018/12/Viu-de-linas-etheria-magazine.jpg "Viu de Linás se encuentra al sur del Valle de Ordesa (Huesca). © Ordesa.net")
 
 Pero, si una vez en ellos la necesidad digital aprieta, quizá tengas que buscarte la 
 vida y subirte a una piedra para poder tener contacto con el resto del mundo. O 
@@ -81,8 +80,6 @@ Perdido y muy cerca de las estaciones de esquí de **Formigal y Panticosa**. En 
 comarca de Sobrarbe hay que dejarse sorprender por las elaboraciones típicas aragonesas 
 como el salmorrejo —con dos erres—, las tortetas, o las chiretas, platos basados en los 
 productos derivados de la matanza. 
-
-![Viu de Linás se encuentra al sur del Valle de Ordesa (Huesca).](https://fotos.etheriamagazine.com/2018/12/Viu-de-linas-etheria-magazine.jpg "Viu de Linás se encuentra al sur del Valle de Ordesa (Huesca). © Ordesa.net")
 
 ## El Castillo de Doiras
 

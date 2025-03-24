@@ -3,9 +3,9 @@ title: "Hotel Seaside Finolhu, un paraíso para el buceo en Maldivas"
 date: 2020-09-29
 coverImage: https://fotos.etheriamagazine.com/2020/09/hotel-seaside-finolhu-ocean-pool-villa.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

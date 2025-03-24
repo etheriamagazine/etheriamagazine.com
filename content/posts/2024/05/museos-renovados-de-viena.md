@@ -3,9 +3,10 @@ title: "Dos museos de Viena que ya puedes (re)visitar: Wien Museum y Kunst Haus"
 date: 2024-05-13
 coverImage: https://fotos.etheriamagazine.com/2024/05/viena-Fachada-Kunst-Haus.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

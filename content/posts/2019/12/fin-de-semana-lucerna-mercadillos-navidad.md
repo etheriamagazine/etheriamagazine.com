@@ -3,8 +3,9 @@ title: "8 actividades en Lucerna para un fin de semana navideño"
 date: 2019-12-04
 coverImage: https://fotos.etheriamagazine.com/2019/11/lucerna-luces-navidad.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Susana García
 ---

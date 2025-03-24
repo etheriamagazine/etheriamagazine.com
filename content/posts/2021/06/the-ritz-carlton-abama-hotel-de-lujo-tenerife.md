@@ -3,8 +3,9 @@ title: "The Ritz-Carlton Abama, un hotel de lujo para alejarse del mundo en Tene
 date: 2021-06-28
 coverImage: https://fotos.etheriamagazine.com/2021/06/hotel-abama-vistas.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

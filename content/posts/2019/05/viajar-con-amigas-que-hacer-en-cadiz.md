@@ -3,8 +3,9 @@ title: "Cádiz, tras las huellas de su legado andalusí"
 date: 2019-05-20
 coverImage: https://fotos.etheriamagazine.com/2019/05/viaje-cadiz-mujer-tapada-vejer.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

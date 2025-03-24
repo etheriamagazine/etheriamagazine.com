@@ -3,9 +3,9 @@ title: "Hotel Villa Rosario, un palacio indiano asturiano frente al Cantábrico"
 date: 2021-07-20
 coverImage: https://fotos.etheriamagazine.com/2021/07/hotel-villa-rosario-palacio-indiano.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

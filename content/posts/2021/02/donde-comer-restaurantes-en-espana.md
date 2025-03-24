@@ -3,10 +3,11 @@ title: "10 ciudades de España para saborear en sus restaurantes"
 date: 2021-02-19
 coverImage: https://fotos.etheriamagazine.com/2021/02/Restaurantes-Espana-Toledo.jpg
 categories: 
-  - consejos-practicos
-  - viajes-gastronomicos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,8 +3,9 @@ title: "Viajes de lujo y otros caprichos para millonarios"
 date: 2018-12-22
 coverImage: https://fotos.etheriamagazine.com/2018/12/polinesia-etheria-magazine-e1577003544324.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

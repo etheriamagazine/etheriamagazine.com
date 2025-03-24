@@ -3,9 +3,9 @@ title: "Grandes mujeres artistas. Arte ¡para ver y para comprar!"
 date: 2019-11-18
 coverImage: https://fotos.etheriamagazine.com/2019/11/Sofonisba-y-Lavinia-museo-del-prado.jpg
 categories: 
-  - organiza-tu-viaje
-  - exposiciones
-  - viajes-para-mujeres
+  - cultura
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

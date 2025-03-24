@@ -3,10 +3,10 @@ title: "Guía de Ruanda, consejos de Sania Jelic para recorrer el país más seg
 date: 2024-04-24
 coverImage: https://fotos.etheriamagazine.com/2024/04/sania-ruanda-kawali-costureras.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
   - viajar-sola
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

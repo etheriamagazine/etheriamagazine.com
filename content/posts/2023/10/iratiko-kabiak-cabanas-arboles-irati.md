@@ -3,9 +3,9 @@ title: "Iratiko Kabiak, las cabañas en los árboles de la Selva de Irati"
 date: 2023-10-06
 coverImage: https://fotos.etheriamagazine.com/2023/10/cama-colgante-iratiko-kabiak.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

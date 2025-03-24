@@ -3,11 +3,12 @@ title: "‘Nietas de la memoria’: 13 relatos de abuelas anónimas y luchadoras
 date: 2021-03-08
 coverImage: https://fotos.etheriamagazine.com/2021/03/Nietas-de-la-memoria-Bala-Perdida.jpg
 categories: 
-  - historias-en-femenino
-  - libros-de-viajes
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - planes-cultura-ocio
+  - historias
+  - cultura
+  - mujeres-top
+  - ocio
+destino: 
+  - España
 authors: 
   - Carmen Pineda
 ---

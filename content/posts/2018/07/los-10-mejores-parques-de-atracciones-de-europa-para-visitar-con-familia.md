@@ -3,8 +3,10 @@ title: "Los 10 mejores parques de atracciones de Europa para visitar con niños"
 date: 2018-07-09
 coverImage: https://fotos.etheriamagazine.com/2018/07/Legoland-Alemania-e1559207498634.jpg
 categories: 
-  - viaje-en-familia
-  - parques-ocio
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

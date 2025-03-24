@@ -3,8 +3,9 @@ title: "Hotel Cap Rocat, exclusividad en la costa mallorquina"
 date: 2023-04-12
 coverImage: https://fotos.etheriamagazine.com/2023/04/cap-rocat-habitacion-centinela.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

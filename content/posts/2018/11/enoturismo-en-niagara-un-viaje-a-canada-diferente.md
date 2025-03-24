@@ -3,9 +3,9 @@ title: "Enoturismo en Niágara, un viaje diferente a Canadá"
 date: 2018-11-20
 coverImage: https://fotos.etheriamagazine.com/2018/11/icewinebar-Wineries-of-Niagara-on-the-Lake.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Mundo
 authors: 
   - Eva Madruga
 ---

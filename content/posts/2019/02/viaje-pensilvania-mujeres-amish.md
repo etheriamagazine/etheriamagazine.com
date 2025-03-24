@@ -3,7 +3,9 @@ title: "¿Cómo es ser mujer en tierra de los Amish?"
 date: 2019-02-07
 coverImage: https://fotos.etheriamagazine.com/2019/02/mujeres-amish-etheria-magazine-e1582367792775.jpg
 categories: 
-  - historias-en-femenino
+  - historias
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

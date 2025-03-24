@@ -3,8 +3,9 @@ title: "Pueblos bonitos cerca de Conil y otras excursiones"
 date: 2023-08-02
 coverImage: https://fotos.etheriamagazine.com/2023/08/playa-roche-conil.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

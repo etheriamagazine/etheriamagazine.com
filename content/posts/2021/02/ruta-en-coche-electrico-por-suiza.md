@@ -2,8 +2,8 @@
 title: "Suiza en coche eléctrico, una aventura ecológica (y más económica)"
 date: 2021-02-10
 coverImage: https://fotos.etheriamagazine.com/2021/02/Coche-suiza-montanas.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

@@ -3,8 +3,9 @@ title: "Las rosquillas de San Isidro se renuevan en cinco pastelerías históric
 date: 2023-05-10
 coverImage: https://fotos.etheriamagazine.com/2023/05/rosquillas-violeta-el-pozo-madrid.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
-  - planes-originales-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

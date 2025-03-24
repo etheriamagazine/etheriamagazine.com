@@ -3,10 +3,11 @@ title: "Paisajes del agua en los 10 mejores cañones del País Vasco"
 date: 2019-04-09
 coverImage: https://fotos.etheriamagazine.com/2019/03/canon-sobron-pais-vasco.jpg
 categories: 
-  - viajes-ecoturismo
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

@@ -3,8 +3,9 @@ title: "AC Hotel Lima Miraflores, una atractiva propuesta en la capital de Perú
 date: 2020-02-27
 coverImage: https://fotos.etheriamagazine.com/2020/02/AC-Lima-Insumo-Rooftop.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

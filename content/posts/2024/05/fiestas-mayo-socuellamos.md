@@ -3,10 +3,9 @@ title: "Socuéllamos, tu escapada de mayo a sólo dos horas de Madrid"
 date: 2024-05-01
 coverImage: https://fotos.etheriamagazine.com/2024/04/socuellamos-casa-encomienda.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

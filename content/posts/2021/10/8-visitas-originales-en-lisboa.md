@@ -3,10 +3,9 @@ title: "8 visitas originales en Lisboa que (quizá) te quedan por hacer"
 date: 2021-10-27
 coverImage: https://fotos.etheriamagazine.com/2021/10/lisboa-detalle-chiado.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Cynthia Martín
 ---

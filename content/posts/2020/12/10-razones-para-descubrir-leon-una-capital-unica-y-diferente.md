@@ -3,8 +3,9 @@ title: "Si León no existiera, habría que inventarlo: 10 razones para descubrir
 date: 2020-12-28
 coverImage: https://fotos.etheriamagazine.com/2020/12/leon-casa-botines-fachada.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

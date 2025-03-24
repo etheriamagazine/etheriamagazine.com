@@ -3,9 +3,11 @@ title: "10 libros para regalar y quedar fenomenal"
 date: 2022-01-05
 coverImage: https://fotos.etheriamagazine.com/2022/01/portada-libros-2022.jpg
 categories: 
-  - regalos-compras-viajeras
-  - libros-de-viajes
-  - planes-cultura-ocio
+  - compras
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,8 +3,9 @@ title: "Qué ver en Esauira, la playa de Marruecos"
 date: 2023-06-05
 coverImage: https://fotos.etheriamagazine.com/2023/06/Murallas-de-Essauira.jpg
 categories: 
-  - viajes-cine
-  - viajes-para-mujeres
+  - inspiración
+destino: 
+  - Mundo
 authors: 
   - Pedro Grifol
 ---

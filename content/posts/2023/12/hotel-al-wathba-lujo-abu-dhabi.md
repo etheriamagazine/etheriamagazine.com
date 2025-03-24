@@ -3,9 +3,9 @@ title: "Hotel Al Wathba, una cita con el lujo en Abu Dhabi"
 date: 2023-12-20
 coverImage: https://fotos.etheriamagazine.com/2023/12/hotel-Al-Wathba-abu-dhabi-piscina.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

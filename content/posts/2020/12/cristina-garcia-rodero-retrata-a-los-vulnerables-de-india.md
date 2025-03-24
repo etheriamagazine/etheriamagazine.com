@@ -3,8 +3,10 @@ title: "'Tierra de sueños', la   realidad agridulce que retrata García Rodero"
 date: 2020-12-26
 coverImage: https://fotos.etheriamagazine.com/2020/12/apertura-tierra-suenos-etheria.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

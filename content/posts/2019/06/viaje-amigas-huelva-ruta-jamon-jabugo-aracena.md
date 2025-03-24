@@ -3,10 +3,10 @@ title: "Sierra de Aracena y Jabugo, una escapada 100% bellota"
 date: 2019-06-27
 coverImage: https://fotos.etheriamagazine.com/2019/06/gruta-maravillas-aracena.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Cristina R. Bareño
 ---

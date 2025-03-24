@@ -3,9 +3,9 @@ title: "Qué visitar en la Ruta del Impresionismo de Normandía"
 date: 2021-06-24
 coverImage: https://fotos.etheriamagazine.com/2020/10/normandia-Jardin-Casa-Monet.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

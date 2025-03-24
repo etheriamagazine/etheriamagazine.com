@@ -3,8 +3,9 @@ title: "Capadocia, la fantasía convertida en paisaje"
 date: 2019-02-26
 coverImage: https://fotos.etheriamagazine.com/2019/02/viaje-turquia-mujeres-capadocia.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Ana Vara y David Santiago
 ---

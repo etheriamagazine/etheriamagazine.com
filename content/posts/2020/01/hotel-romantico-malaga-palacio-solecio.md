@@ -3,8 +3,9 @@ title: "Escapada para dos al hotel boutique Palacio Solecio"
 date: 2020-01-20
 coverImage: https://fotos.etheriamagazine.com/2020/01/hotel-palacio-solecio-restaurante.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,9 +3,9 @@ title: "Hong Kong, qué hacer en una escapada a la jungla de asfalto"
 date: 2019-09-06
 coverImage: https://fotos.etheriamagazine.com/2019/08/shangay-tang-hong-kong-e1567194915790.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

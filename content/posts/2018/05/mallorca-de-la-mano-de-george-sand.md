@@ -3,7 +3,9 @@ title: "Por qué a George Sand no le gustó Mallorca"
 date: 2018-05-16
 coverImage: https://fotos.etheriamagazine.com/2018/05/mallorca-3257130_1920-e1558282089298.jpg
 categories: 
-  - historias-en-femenino
+  - historias
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

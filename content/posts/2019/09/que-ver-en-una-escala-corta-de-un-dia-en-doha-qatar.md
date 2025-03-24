@@ -3,9 +3,10 @@ title: "Qué ver en una escala de un día en Doha"
 date: 2019-09-19
 coverImage: https://fotos.etheriamagazine.com/2019/09/escala-un-dia-doha-museo-arte.jpg
 categories: 
-  - viajes-con-amigas
-  - consejos-practicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

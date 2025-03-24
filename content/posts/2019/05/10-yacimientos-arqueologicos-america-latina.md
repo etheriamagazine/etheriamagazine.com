@@ -3,9 +3,10 @@ title: "10 yacimientos arqueológicos en América Latina que tienes que conocer"
 date: 2019-05-29
 coverImage: https://fotos.etheriamagazine.com/2019/05/yacimientos-america-machu-picchu.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

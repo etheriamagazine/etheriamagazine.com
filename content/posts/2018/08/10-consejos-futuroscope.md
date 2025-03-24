@@ -3,9 +3,10 @@ title: "10 consejos para aprovechar una visita a Futuroscope"
 date: 2018-08-24
 coverImage: https://fotos.etheriamagazine.com/2018/08/Futuroscope-panoramica.jpg
 categories: 
-  - viaje-en-familia
-  - parques-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

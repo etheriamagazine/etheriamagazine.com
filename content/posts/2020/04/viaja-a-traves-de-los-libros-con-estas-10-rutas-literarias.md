@@ -3,9 +3,10 @@ title: "10 libros que invitan a realizar rutas literarias"
 date: 2020-04-09
 coverImage: https://fotos.etheriamagazine.com/2020/04/venecia.jpg
 categories: 
-  - libros-de-viajes
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

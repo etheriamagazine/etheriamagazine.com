@@ -3,8 +3,10 @@ title: "10 razones para viajar a República Dominicana"
 date: 2018-05-18
 coverImage: https://fotos.etheriamagazine.com/2018/05/3-Republica-Dominicana-Sur-7.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

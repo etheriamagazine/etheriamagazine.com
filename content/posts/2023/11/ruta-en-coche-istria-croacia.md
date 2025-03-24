@@ -3,8 +3,9 @@ title: "Ruta en coche por la península de Istria, la Riviera más estilosa de C
 date: 2023-11-16
 coverImage: https://fotos.etheriamagazine.com/2023/11/Istria-Rovinj.-Atardecer-chicas.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Alfredo G. Reyes
 ---

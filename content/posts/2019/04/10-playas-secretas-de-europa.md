@@ -3,8 +3,10 @@ title: "10 playas de Europa donde querrás perderte este verano"
 date: 2019-04-15
 coverImage: https://fotos.etheriamagazine.com/2019/03/Playas-Europa-Capo-Testa-Cerdena.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,8 +3,9 @@ title: "Ana Blasco: \"Islandia ha sido uno de mis grandes descubrimientos\""
 date: 2018-08-20
 coverImage: https://fotos.etheriamagazine.com/2018/08/ana-blasco-mujeres-etheria.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

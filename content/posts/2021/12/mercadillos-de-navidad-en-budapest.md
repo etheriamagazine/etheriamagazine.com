@@ -3,9 +3,9 @@ title: "Budapest en Navidad: mercadillos, visitas básicas y consejos para ahorr
 date: 2021-12-13
 coverImage: https://fotos.etheriamagazine.com/2021/12/mercadillo-basilica-san-esteban.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

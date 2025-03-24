@@ -3,9 +3,10 @@ title: "Planes en Soria con niños para desconectar en plena naturaleza"
 date: 2021-02-24
 coverImage: https://fotos.etheriamagazine.com/2021/02/planes-ninos-en-soria.jpg
 categories: 
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

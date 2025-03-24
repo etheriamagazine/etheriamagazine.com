@@ -3,11 +3,10 @@ title: "Planes secretos en Benidorm más allá de ir a la playa o tomar el sol"
 date: 2021-03-26
 coverImage: https://fotos.etheriamagazine.com/2021/03/benidorm-rascacielos.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

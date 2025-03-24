@@ -3,9 +3,10 @@ title: "Belfast, punk y diseño en Irlanda del Norte"
 date: 2019-11-04
 coverImage: https://fotos.etheriamagazine.com/2019/10/belfast-ruta-grafitis.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Rafael de Rojas
 ---

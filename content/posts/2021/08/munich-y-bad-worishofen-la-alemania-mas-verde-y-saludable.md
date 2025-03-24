@@ -3,9 +3,9 @@ title: "Múnich y Bad Wörishofen, la Alemania más verde y saludable"
 date: 2021-08-04
 coverImage: https://fotos.etheriamagazine.com/2021/07/alemania-kupark-bad-worishofen-scaled.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

@@ -3,7 +3,9 @@ title: "Izadi Larrosa, porque me gusta un rosado"
 date: 2018-05-11
 coverImage: https://fotos.etheriamagazine.com/2018/05/3-IZADI_LARROSA_2017.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
+  - gourmet
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

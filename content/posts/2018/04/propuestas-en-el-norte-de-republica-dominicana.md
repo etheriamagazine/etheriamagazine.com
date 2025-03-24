@@ -3,7 +3,9 @@ title: "Norte de República Dominicana: naturaleza, ron y merengue"
 date: 2018-04-13
 coverImage: https://fotos.etheriamagazine.com/2018/04/Rep-Dominicana-Bayahibe.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

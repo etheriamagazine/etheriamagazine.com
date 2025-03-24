@@ -3,9 +3,9 @@ title: "Aix-en-Provence, descubre el paraíso de Cézanne con tus mejores amigas
 date: 2020-01-03
 coverImage: https://fotos.etheriamagazine.com/2019/12/etheria-magazine-pabellon-vendome.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

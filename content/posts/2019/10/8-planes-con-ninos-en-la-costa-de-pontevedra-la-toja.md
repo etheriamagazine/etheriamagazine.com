@@ -3,10 +3,11 @@ title: "La costa de Pontevedra con niños, ocho planes para el verano"
 date: 2019-10-01
 coverImage: https://fotos.etheriamagazine.com/2019/09/Pontevedra-mirador-a-granxa.jpg
 categories: 
-  - consejos-practicos
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

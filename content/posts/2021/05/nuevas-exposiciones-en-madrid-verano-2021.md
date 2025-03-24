@@ -3,8 +3,10 @@ title: "8 exposiciones en Madrid que no puedes perderte"
 date: 2021-05-27
 coverImage: https://fotos.etheriamagazine.com/2021/05/Venus-y-Adonis-el-prado.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

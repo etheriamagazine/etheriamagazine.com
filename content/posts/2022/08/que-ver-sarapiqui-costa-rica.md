@@ -3,9 +3,10 @@ title: "Sarapiquí, ecoturismo y gastronomía en femenino en Costa Rica"
 date: 2022-08-18
 coverImage: https://fotos.etheriamagazine.com/2022/08/turismo-rural-sarapiquí.jpg
 categories: 
-  - viajes-con-amigas
-  - mujeres-etheria
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - mujeres-top
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

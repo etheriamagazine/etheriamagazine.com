@@ -3,9 +3,9 @@ title: "Linz, un viaje con amigas a orillas del Danubio"
 date: 2019-07-26
 coverImage: https://fotos.etheriamagazine.com/2019/07/que-ver-linz-austria-mujer.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

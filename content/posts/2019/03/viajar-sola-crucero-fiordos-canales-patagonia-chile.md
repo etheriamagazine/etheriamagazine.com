@@ -3,8 +3,9 @@ title: "Crucero por los fiordos y canales de la Patagonia chilena"
 date: 2019-03-22
 coverImage: https://fotos.etheriamagazine.com/2019/03/crucero-patagonia-chile.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

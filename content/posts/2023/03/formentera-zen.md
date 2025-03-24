@@ -3,9 +3,10 @@ title: "Por qué Formentera Zen 2023 es la escapada que necesitas"
 date: 2023-03-21
 coverImage: https://fotos.etheriamagazine.com/2023/03/formentera-zen-yoga.jpg
 categories: 
-  - salud-bienestar-nutricion
-  - viajes-con-amigas
   - viajar-sola
+  - bienestar
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

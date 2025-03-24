@@ -3,9 +3,9 @@ title: "Islas Eolias, 6 placeres entre el cielo y el infierno"
 date: 2020-07-31
 coverImage: https://fotos.etheriamagazine.com/2020/07/islas-eolias-Strombolicchio.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

@@ -3,9 +3,9 @@ title: "Tres rutas para recorrer Varsovia, una ciudad sorprendente"
 date: 2021-03-05
 coverImage: https://fotos.etheriamagazine.com/2021/03/varsovia-musica-clasica.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

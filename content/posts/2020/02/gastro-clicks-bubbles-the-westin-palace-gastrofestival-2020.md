@@ -3,10 +3,10 @@ title: "'Gastro, Clicks & Bubbles', siente las burbujas en The Westin Palace"
 date: 2020-02-06
 coverImage: https://fotos.etheriamagazine.com/2020/02/Quinoa-roja-con-langostinos-y-perlas-de-cava.jpg
 categories: 
-  - organiza-tu-viaje
-  - festivales
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - ocio
+  - gourmet
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,9 +3,9 @@ title: "Granada, el privilegio de la buena mesa"
 date: 2020-10-30
 coverImage: https://fotos.etheriamagazine.com/2020/10/plato-restaurante-farala-granada-2.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Alfredo G. Reyes
 ---

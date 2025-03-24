@@ -3,8 +3,9 @@ title: "Esférica Rioja Alavesa, un festival que celebra la cultura y la gastron
 date: 2023-08-07
 coverImage: https://fotos.etheriamagazine.com/2023/08/festival-esferica-rioja-alavesa.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

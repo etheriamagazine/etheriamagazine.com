@@ -3,9 +3,9 @@ title: "Tintablanca, libros de viajes como los de antes"
 date: 2019-07-06
 coverImage: https://fotos.etheriamagazine.com/2019/07/libros-viaje-tinta-blanca-madrid-nueva-york-paris.jpg
 categories: 
-  - organiza-tu-viaje
-  - libros-de-viajes
-  - viajes-para-mujeres
+  - cultura
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

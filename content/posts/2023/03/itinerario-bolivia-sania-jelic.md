@@ -3,8 +3,10 @@ title: "Bolivia bien vale un potosí, nueva etapa de Sania Jelic"
 date: 2023-03-13
 coverImage: https://fotos.etheriamagazine.com/2023/03/sania-sucre.jpg
 categories: 
-  - mujeres-que-inspiran
   - viajar-sola
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

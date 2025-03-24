@@ -3,9 +3,9 @@ title: "Cómo enamorarse de Navarra en 3 pueblos y 6 visitas culturales"
 date: 2023-10-16
 coverImage: https://fotos.etheriamagazine.com/2023/10/vistas-gallipienzo.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,9 +3,9 @@ title: "Etheria Magazine recibe uno de los Premios Tourism Women Friendly en Fit
 date: 2024-02-06
 coverImage: https://fotos.etheriamagazine.com/2024/02/premio-women-tourism-friendly-2024-etheria.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

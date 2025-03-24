@@ -3,10 +3,11 @@ title: "10 viajes con amigas en España: ideas para tu próxima escapada"
 date: 2019-02-06
 coverImage: https://fotos.etheriamagazine.com/2019/02/Viajes-amigas.jpg
 categories: 
-  - viajes-con-amigas
-  - consejos-practicos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

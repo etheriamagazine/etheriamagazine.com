@@ -2,8 +2,8 @@
 title: "A rapa das bestas, una cita en Sabucedo (Pontevedra)"
 date: 2019-06-24
 coverImage: https://fotos.etheriamagazine.com/2019/06/Rapa-das-Bestas-galicia.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

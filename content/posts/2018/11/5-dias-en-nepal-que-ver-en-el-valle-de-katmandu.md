@@ -3,9 +3,9 @@ title: "5 días en Nepal, un paseo por el Valle de Katmandú"
 date: 2018-11-28
 coverImage: https://fotos.etheriamagazine.com/2022/02/viajes-novios-originales-Katmandu-nepal.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

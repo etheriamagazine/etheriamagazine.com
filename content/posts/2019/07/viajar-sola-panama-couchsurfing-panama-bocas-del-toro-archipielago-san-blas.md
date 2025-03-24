@@ -3,9 +3,9 @@ title: "Couchsurfing en Panamá: viaja sola a Bocas del Toro y al archipiélago 
 date: 2019-07-12
 coverImage: https://fotos.etheriamagazine.com/2019/06/Panama-San-Blas-isla-diablo.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Elisabeth G. Iborra
 ---

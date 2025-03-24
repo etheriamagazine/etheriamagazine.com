@@ -3,7 +3,9 @@ title: "La pandemia se ceba con las personas con problemas de salud mental"
 date: 2021-10-08
 coverImage: https://fotos.etheriamagazine.com/2021/10/violencia-mujeres-pandemia.jpg
 categories: 
-  - salud-bienestar-nutricion
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

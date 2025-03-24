@@ -3,10 +3,9 @@ title: "'Hondalea', la escultura de Cristina Iglesias que ilumina el faro de la 
 date: 2021-05-04
 coverImage: https://fotos.etheriamagazine.com/2021/05/hondalea-faro-isla-santa-clara-Cristina-Iglesias.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
-  - visitas-guiadas
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

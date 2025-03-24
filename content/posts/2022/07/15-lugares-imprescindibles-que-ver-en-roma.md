@@ -3,11 +3,11 @@ title: "15 lugares imprescindibles que ver en Roma"
 date: 2022-07-11
 coverImage: https://fotos.etheriamagazine.com/2022/07/Roma-villa-borghese-mirador.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

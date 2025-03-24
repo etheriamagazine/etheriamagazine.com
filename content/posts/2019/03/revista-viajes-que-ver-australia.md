@@ -3,8 +3,9 @@ title: "Ruta definitiva para tu viaje a Australia"
 date: 2019-03-07
 coverImage: https://fotos.etheriamagazine.com/2019/02/australia-ayers-rock-uluru.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Mundo
 authors: 
   - Cristina R. Bareño
 ---

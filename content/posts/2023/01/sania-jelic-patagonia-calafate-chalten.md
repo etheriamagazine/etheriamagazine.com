@@ -4,6 +4,8 @@ date: 2023-01-20
 coverImage: https://fotos.etheriamagazine.com/2023/01/Sania-el-chalten-senderismo.jpg
 categories: 
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Sania Jelic
 ---

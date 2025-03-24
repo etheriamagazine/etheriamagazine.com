@@ -3,9 +3,10 @@ title: "Brasil con amigas: Salvador de Bahía y Praia do Forte"
 date: 2018-08-22
 coverImage: https://fotos.etheriamagazine.com/2018/08/Playa-Praia-do-Forte-viaje-brasil-e1578734128487.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

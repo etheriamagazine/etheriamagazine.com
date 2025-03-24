@@ -3,9 +3,10 @@ title: "Por qué la mujer no pudo votar en Suiza hasta 1971"
 date: 2021-04-12
 coverImage: https://fotos.etheriamagazine.com/2021/03/voto-femenino-suiza-el-orden-divino-manifestacion.jpg
 categories: 
-  - organiza-tu-viaje
-  - historias-en-femenino
-  - mujeres-etheria
+  - historias
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Carmen Pineda
 ---

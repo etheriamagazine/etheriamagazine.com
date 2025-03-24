@@ -3,9 +3,10 @@ title: "Consejos para un viaje a Costa Rica con niños"
 date: 2018-05-04
 coverImage: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-recogiendo-cafe-e1551613563281.jpg
 categories: 
-  - consejos-practicos
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

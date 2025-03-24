@@ -3,7 +3,9 @@ title: "En el temazcal, una experiencia \"mágica\" en Riviera Maya"
 date: 2023-07-10
 coverImage: https://fotos.etheriamagazine.com/2023/07/cenote-mexico-acuarela.jpg
 categories: 
-  - mi-peor-viaje
+  - historias
+destino: 
+  - España
 authors: 
   - Rafael de Rojas
 ---

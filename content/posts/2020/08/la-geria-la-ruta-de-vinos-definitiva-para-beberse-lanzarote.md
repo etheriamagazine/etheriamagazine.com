@@ -3,9 +3,9 @@ title: "La Geria: la ruta de vinos definitiva para beberse Lanzarote"
 date: 2020-08-04
 coverImage: https://fotos.etheriamagazine.com/2018/09/La-Geria-Lanzarote.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Cristina Fernández
 ---

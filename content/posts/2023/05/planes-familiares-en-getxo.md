@@ -3,8 +3,9 @@ title: "Getxo en familia: 22 planes y 4 visitas divertidas"
 date: 2023-05-29
 coverImage: https://fotos.etheriamagazine.com/2023/05/getxo-water-bikers.jpg
 categories: 
-  - viaje-en-familia
-  - planes-originales-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

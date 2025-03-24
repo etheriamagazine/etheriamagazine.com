@@ -3,8 +3,9 @@ title: "Zakopane, un lugar sorprendente en Polonia con su arquitectura de madera
 date: 2021-01-27
 coverImage: https://fotos.etheriamagazine.com/2021/01/zakopane.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

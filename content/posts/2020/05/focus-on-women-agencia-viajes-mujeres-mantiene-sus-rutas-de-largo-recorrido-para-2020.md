@@ -3,7 +3,9 @@ title: "La agencia de viajes Focus on Women mantiene sus rutas de largo recorrid
 date: 2020-05-22
 coverImage: https://fotos.etheriamagazine.com/2020/05/agencia-viajes-mujeres-fow.jpg
 categories: 
-  - mujeres-etheria
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

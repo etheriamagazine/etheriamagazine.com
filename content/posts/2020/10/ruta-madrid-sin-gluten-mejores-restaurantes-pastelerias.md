@@ -3,10 +3,10 @@ title: "Ruta por el Madrid más libre (de gluten)"
 date: 2020-10-02
 coverImage: https://fotos.etheriamagazine.com/2020/09/madrid-sin-gluten-celicioso.jpg
 categories: 
-  - organiza-tu-viaje
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

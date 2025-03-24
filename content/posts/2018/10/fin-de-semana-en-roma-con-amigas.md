@@ -3,9 +3,9 @@ title: "Roma, la escapada con amigas que necesitas"
 date: 2018-10-31
 coverImage: https://fotos.etheriamagazine.com/2018/10/Roma-hotel-de-russie-the-corner-e1552812919707.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Macarena Escrivá
 ---

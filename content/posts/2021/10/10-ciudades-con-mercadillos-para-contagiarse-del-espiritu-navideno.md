@@ -3,10 +3,11 @@ title: "10 ciudades con mercadillos navideños para contagiarse del espíritu de
 date: 2021-10-14
 coverImage: https://fotos.etheriamagazine.com/2018/10/tallin-mercado.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-sola
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

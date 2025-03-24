@@ -3,10 +3,11 @@ title: "Viajes de novios por Europa: 10 propuestas para acertar seguro"
 date: 2021-11-19
 coverImage: https://fotos.etheriamagazine.com/2021/11/everton-vila-AsahNlC0VhQ-unsplash.jpg
 categories: 
-  - viajes-romanticos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

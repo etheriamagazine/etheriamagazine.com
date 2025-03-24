@@ -3,9 +3,9 @@ title: "5 pueblos de Badajoz que no conoces y te sorprenderán"
 date: 2022-05-03
 coverImage: https://fotos.etheriamagazine.com/2022/05/Villanueva-de-la-Serena-iglesia-asuncion.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Carmen Pineda
 ---

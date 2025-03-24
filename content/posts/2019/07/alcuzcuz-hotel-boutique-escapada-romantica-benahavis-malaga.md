@@ -3,9 +3,9 @@ title: "Alcuzcuz Hotel Boutique, un oasis secreto en Benahavís (Málaga)"
 date: 2019-07-08
 coverImage: https://fotos.etheriamagazine.com/2019/07/hotel-alcuzcuz-patio.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

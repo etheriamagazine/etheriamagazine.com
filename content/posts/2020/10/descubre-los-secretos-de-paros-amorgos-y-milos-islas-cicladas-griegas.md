@@ -3,9 +3,9 @@ title: "Escapada 'slow' a Paros, Amorgos y Milos, el secreto mejor guardado de l
 date: 2020-10-20
 coverImage: https://fotos.etheriamagazine.com/2020/10/islas-griegas-cicladas-Chora.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Alicia Bea
 ---

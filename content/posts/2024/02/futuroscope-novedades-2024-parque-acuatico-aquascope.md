@@ -3,8 +3,9 @@ title: "Futuroscope en 2024: un parque acuático y otras novedades"
 date: 2024-02-26
 coverImage: https://fotos.etheriamagazine.com/2024/02/Futuroscope-Aquascope-toboganes.jpg
 categories: 
-  - parques-ocio
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

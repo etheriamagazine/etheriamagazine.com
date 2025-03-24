@@ -3,9 +3,9 @@ title: "California Dreams, una ruta entre viñedos"
 date: 2020-01-06
 coverImage: https://fotos.etheriamagazine.com/2019/12/bodegas-california-Francis-Ford-Coppola-Winery.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

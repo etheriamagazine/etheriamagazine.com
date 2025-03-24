@@ -3,9 +3,9 @@ title: "Razones, si es que las necesitas, por las que deberías planear ya una e
 date: 2021-03-09
 coverImage: https://fotos.etheriamagazine.com/2021/03/segovia-Jardines-y-palacio-de-La-Granja.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

@@ -3,8 +3,9 @@ title: "Getxo a bocados, una cita exquisita con el paladar"
 date: 2023-03-30
 coverImage: https://fotos.etheriamagazine.com/2023/03/Restaurante-Tamarises-Izarra.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

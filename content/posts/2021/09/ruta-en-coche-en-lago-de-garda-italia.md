@@ -2,9 +2,8 @@
 title: "Ruta en coche alrededor del lago de Garda, el mayor de Italia"
 date: 2021-09-22
 coverImage: https://fotos.etheriamagazine.com/2021/09/viaje-riva-del-garda.jpg
-categories: 
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Alfredo G. Reyes
 ---

@@ -3,8 +3,10 @@ title: "Geles hidroalcohólicos. Conoce las claves para elegir el más eficaz"
 date: 2020-11-05
 coverImage: https://fotos.etheriamagazine.com/2020/11/uso-gel-hidroalcoholico.jpg
 categories: 
-  - salud-bienestar-nutricion
-  - que-llevar-en-la-maleta
+  - bienestar
+  - qué-llevar-en-la-maleta
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

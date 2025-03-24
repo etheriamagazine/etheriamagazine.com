@@ -3,7 +3,9 @@ title: "Qué hacer en Cantabria con niños, planes divertidos"
 date: 2018-07-13
 coverImage: https://fotos.etheriamagazine.com/2018/07/Suances.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Susana García
 ---

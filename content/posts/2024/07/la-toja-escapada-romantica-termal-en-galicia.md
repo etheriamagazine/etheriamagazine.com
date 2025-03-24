@@ -3,10 +3,11 @@ title: "Una escapada en pareja a La Toja, historia y excursiones desde esta isla
 date: 2024-07-08
 coverImage: https://fotos.etheriamagazine.com/2021/02/hotel-Eurostars-Isla-de-la-Toja.jpg
 categories: 
-  - bienestar-belleza
-  - viajes-romanticos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - bienestar
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,10 +3,10 @@ title: "Lobster Club, el nuevo lugar de moda en Mallorca donde dejarse ver este 
 date: 2024-06-15
 coverImage: https://fotos.etheriamagazine.com/2024/06/LOBSTER-CLUB-PISCINA.jpg
 categories: 
-  - organiza-tu-viaje
-  - experiencias-viajeras
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - inspiración
+  - gourmet
+destino: 
+  - España
 authors: 
   - Susana García
 ---

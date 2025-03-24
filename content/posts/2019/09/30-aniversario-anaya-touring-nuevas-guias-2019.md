@@ -3,9 +3,9 @@ title: "30 años viajando con Anaya Touring"
 date: 2019-09-26
 coverImage: https://fotos.etheriamagazine.com/2019/09/anaya.jpg
 categories: 
-  - organiza-tu-viaje
-  - libros-de-viajes
-  - viajes-para-mujeres
+  - cultura
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

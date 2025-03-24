@@ -3,9 +3,9 @@ title: "Ruta en coche por Rumanía bien organizada"
 date: 2019-08-02
 coverImage: https://fotos.etheriamagazine.com/2019/07/2-rumania-aerea-transfagarasan.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Cristina R. Bareño
 ---

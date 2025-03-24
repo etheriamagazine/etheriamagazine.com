@@ -3,9 +3,9 @@ title: "Planes entre volcanes y titanes en la comarca de Entreparques"
 date: 2021-10-14
 coverImage: https://fotos.etheriamagazine.com/2021/10/ruta-todoterreno-parque-cabaneros.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

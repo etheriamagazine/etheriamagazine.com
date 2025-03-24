@@ -3,9 +3,10 @@ title: "Gijón: una gastroescapada que te dejará muy buen sabor de boca"
 date: 2021-01-25
 coverImage: https://fotos.etheriamagazine.com/2021/01/viaje-con-amigas-gijon.jpg
 categories: 
-  - viajes-con-amigas
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Alicia Bea
 ---

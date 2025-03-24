@@ -3,7 +3,9 @@ title: "El ayuno, una práctica milenaria de purificación que beneficia tu salu
 date: 2021-02-17
 coverImage: https://fotos.etheriamagazine.com/2021/02/ayuno-mujer.jpg
 categories: 
-  - salud-bienestar-nutricion
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

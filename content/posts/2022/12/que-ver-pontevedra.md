@@ -3,7 +3,9 @@ title: "Guía esencial de Pontevedra: ciudades, islas, castros y rutas mágicas"
 date: 2022-12-14
 coverImage: https://fotos.etheriamagazine.com/2022/12/faro-ons.jpg
 categories: 
-  - de-un-vistazo
+  - inspiración
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

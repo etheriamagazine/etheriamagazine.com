@@ -3,10 +3,10 @@ title: "Guía de Sania Jelic para visitar las cataratas Victoria"
 date: 2024-03-01
 coverImage: https://fotos.etheriamagazine.com/2024/03/sania-cataratas-victoria.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
   - viajar-sola
+  - mujeres-top
+destino: 
+  - Mundo
 authors: 
   - Sania Jelic
 ---

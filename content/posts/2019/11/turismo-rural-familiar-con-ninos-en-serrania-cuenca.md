@@ -3,8 +3,9 @@ title: "Tres planes con niños en la Serranía de Cuenca"
 date: 2019-11-29
 coverImage: https://fotos.etheriamagazine.com/2019/11/ruta-senderista-hoz-beteta.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

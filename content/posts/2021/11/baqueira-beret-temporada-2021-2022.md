@@ -3,8 +3,9 @@ title: "Baqueira Beret, novedades de la temporada 2021-2022 que te interesa cono
 date: 2021-11-24
 coverImage: https://fotos.etheriamagazine.com/2021/11/Baqueira-Beret-esquiadores.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,9 +3,9 @@ title: "Suiza encumbra a las mujeres con su 100% Women"
 date: 2021-03-12
 coverImage: https://fotos.etheriamagazine.com/2021/03/viajes-mujeres-suiza.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

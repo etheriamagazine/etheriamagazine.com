@@ -3,7 +3,9 @@ title: "Etheria (o Egeria), la primera viajera española"
 date: 2018-06-12
 coverImage: https://fotos.etheriamagazine.com/2018/06/Egeria-etheria-primera-viajera-espanola.jpg
 categories: 
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Firmas invitadas
 ---

@@ -3,7 +3,9 @@ title: "Armenia, descubre 10 pistas en el Jardín del Edén"
 date: 2019-05-02
 coverImage: https://fotos.etheriamagazine.com/2019/04/viaje-armenia-templo-garni-e1555859873292.jpg
 categories: 
-  - de-un-vistazo
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Juan Carlos y Mar
 ---

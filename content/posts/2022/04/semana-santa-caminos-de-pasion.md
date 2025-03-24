@@ -3,9 +3,9 @@ title: "10 visitas que sorprenden en Caminos de Pasión"
 date: 2022-04-04
 coverImage: https://fotos.etheriamagazine.com/2022/04/lucena-caminos-pasion.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

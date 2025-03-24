@@ -3,9 +3,9 @@ title: "The Westin Turtle Bay Resort & Spa, Mauritius, descanso de lujo en Isla 
 date: 2024-01-02
 coverImage: https://fotos.etheriamagazine.com/2024/01/mauricio-westin-turtle-bay-vista-aerea.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

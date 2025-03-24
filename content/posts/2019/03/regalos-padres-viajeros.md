@@ -3,11 +3,11 @@ title: "Especial Día del Padre: ideas para tener contento a un padre sibarita"
 date: 2019-03-13
 coverImage: https://fotos.etheriamagazine.com/2019/03/Dia-del-padre-bicicleta.jpg
 categories: 
-  - consejos-practicos
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - gourmet
+  - ocio
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

@@ -3,9 +3,10 @@ title: "10 exposiciones en Madrid para vivir el arte (2020-2021)"
 date: 2020-10-13
 coverImage: https://fotos.etheriamagazine.com/2020/10/exposiciones-madrid-expresionismo-aleman-thyssen.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

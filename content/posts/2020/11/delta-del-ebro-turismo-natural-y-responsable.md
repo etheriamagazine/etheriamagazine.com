@@ -3,8 +3,9 @@ title: "Delta del Ebro, un viaje natural sorprendente entre aves y arrozales"
 date: 2020-11-17
 coverImage: https://fotos.etheriamagazine.com/2020/11/delta-ebro-ave-arroz.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

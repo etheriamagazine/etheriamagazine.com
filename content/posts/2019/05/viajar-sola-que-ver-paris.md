@@ -3,9 +3,9 @@ title: "Qué hacer en París si viajas sola"
 date: 2019-05-15
 coverImage: https://fotos.etheriamagazine.com/2019/04/Viajar-sola-Paris.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Cristina R. Bareño
 ---

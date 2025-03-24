@@ -3,8 +3,9 @@ title: "12 actividades para hacer con niños en la provincia de Cádiz"
 date: 2020-03-12
 coverImage: https://fotos.etheriamagazine.com/2020/03/bautizo-submarinismo-cadiz.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,8 +3,9 @@ title: "6 planes en Luxemburgo que desvelan sus grandes secretos"
 date: 2020-03-04
 coverImage: https://fotos.etheriamagazine.com/2020/02/luxemburgo-viajes.jpg
 categories: 
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Miriam González
 ---

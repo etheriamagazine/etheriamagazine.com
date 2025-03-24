@@ -3,9 +3,9 @@ title: "Nueva York: el mejor plan con amigas al otro lado del charco"
 date: 2019-05-17
 coverImage: https://fotos.etheriamagazine.com/2019/05/Nueva-York-primavera-Central-Park.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Macarena Escrivá
 ---

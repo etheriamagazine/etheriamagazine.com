@@ -3,9 +3,9 @@ title: "Qué ver en Funchal, guía para 48 horas bien aprovechadas"
 date: 2022-08-08
 coverImage: https://fotos.etheriamagazine.com/2022/08/velero-por-Funchal.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

@@ -3,8 +3,10 @@ title: "Pormishuevismo, un libro y 12 rutas por la España del ladrillo"
 date: 2024-01-04
 coverImage: https://fotos.etheriamagazine.com/2024/01/por-mis-huevismo.jpg
 categories: 
-  - libros-de-viajes
-  - planes-cultura-ocio
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

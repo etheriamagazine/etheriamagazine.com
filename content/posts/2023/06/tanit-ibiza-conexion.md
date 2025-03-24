@@ -3,8 +3,9 @@ title: "Tanit Ibiza Conexion, una apuesta por el liderazgo femenino en Ibiza"
 date: 2023-06-02
 coverImage: https://fotos.etheriamagazine.com/2023/05/Tanit-fundadoras.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Susana García
 ---

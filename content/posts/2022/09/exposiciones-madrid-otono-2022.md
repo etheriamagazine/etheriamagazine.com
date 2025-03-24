@@ -3,7 +3,9 @@ title: "9 exposiciones en Madrid para este otoño: te van a apetecer todas"
 date: 2022-09-09
 coverImage: https://fotos.etheriamagazine.com/2022/09/exposiciones-madrid-frida-kalho-entrada.jpg
 categories: 
-  - exposiciones
+  - cultura
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

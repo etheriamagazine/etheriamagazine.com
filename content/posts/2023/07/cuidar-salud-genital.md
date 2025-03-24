@@ -3,8 +3,9 @@ title: "Cómo cuidar tu salud íntima, consejos básicos y falsos mitos"
 date: 2023-07-05
 coverImage: https://fotos.etheriamagazine.com/2023/07/depilacion-playa.jpg
 categories: 
-  - salud-bienestar-nutricion
-  - viajes-para-mujeres
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

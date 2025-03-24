@@ -3,9 +3,9 @@ title: "Cómo visitar Las Médulas, el skyline de El Bierzo"
 date: 2020-05-11
 coverImage: https://fotos.etheriamagazine.com/2020/04/viajar-leon-medulas-mirador-orellan.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

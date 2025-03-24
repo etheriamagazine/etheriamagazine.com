@@ -3,9 +3,9 @@ title: "Vive la vanguardia ibicenca en el hotel W Ibiza"
 date: 2020-08-20
 coverImage: https://fotos.etheriamagazine.com/2020/08/W-Ibiza-wet-deck.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

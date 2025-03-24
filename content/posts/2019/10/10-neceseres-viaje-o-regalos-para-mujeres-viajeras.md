@@ -3,10 +3,10 @@ title: "7 neceseres para mujeres viajeras"
 date: 2019-10-10
 coverImage: https://fotos.etheriamagazine.com/2019/10/set-natural-bath-skincare-products-in-white-packaging-on-wooden-table-spa-cosmetics-for-beauty-health-at-home-cosmetic-bag-toiletry-flowers-soap-moisturizer-cream-mockup-frame-copy-space.jpg
 categories: 
-  - consejos-practicos
-  - organiza-tu-viaje
-  - que-llevar-en-la-maleta
-  - viajes-para-mujeres
+  - inspiración
+  - qué-llevar-en-la-maleta
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

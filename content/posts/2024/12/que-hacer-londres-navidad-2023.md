@@ -3,14 +3,12 @@ title: "Londres en Navidad: mercadillos, espectáculos y mucho más"
 date: 2024-12-09
 coverImage: https://fotos.etheriamagazine.com/2023/11/londres-navidad-Hyde-Park-Winter-Wonderland-museo-hielo.jpg
 categories: 
-  - viajes-48-horas
-  - organiza-tu-viaje
-  - experiencias-viajeras
-  - parques-ocio
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - viajar-sola
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

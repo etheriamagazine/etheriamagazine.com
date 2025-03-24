@@ -3,9 +3,9 @@ title: "Planes para un fin de semana en San Sebastián: seguro que no te aburres
 date: 2021-04-01
 coverImage: https://fotos.etheriamagazine.com/2018/07/san-sebastian-playa-concha.jpg
 categories: 
-  - viajes-48-horas
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Susana García
 ---

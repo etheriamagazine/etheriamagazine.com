@@ -3,7 +3,9 @@ title: "Érase una vez un pescador noruego de ojos azul marino"
 date: 2018-06-04
 coverImage: https://fotos.etheriamagazine.com/2018/06/Noruega-Manena-Vista-general.jpg
 categories: 
-  - historias-en-femenino
+  - historias
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

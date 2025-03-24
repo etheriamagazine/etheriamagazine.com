@@ -3,8 +3,9 @@ title: "18 experiencias si viajas sola  al Algarve"
 date: 2020-08-07
 coverImage: https://fotos.etheriamagazine.com/2020/07/viajar-sola-mujer-algarve.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

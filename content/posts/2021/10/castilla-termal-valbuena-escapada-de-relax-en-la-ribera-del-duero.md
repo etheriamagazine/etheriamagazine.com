@@ -3,11 +3,10 @@ title: "Castilla Termal Valbuena, una escapada de relax en la Ribera del Duero"
 date: 2021-10-29
 coverImage: https://fotos.etheriamagazine.com/2021/10/circuito-de-contrastes-monasterio-valbuena.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

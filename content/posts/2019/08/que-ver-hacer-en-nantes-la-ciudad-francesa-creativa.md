@@ -3,10 +3,9 @@ title: "Nantes con amigas, descubrid la ciudad extraordinaria que soñó Julio V
 date: 2019-08-29
 coverImage: https://fotos.etheriamagazine.com/2019/08/viaje-nantes-elefante.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pilar Ortega
 ---

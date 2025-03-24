@@ -3,9 +3,9 @@ title: "La Sultana o el sueño de una noche en Marrakech"
 date: 2019-02-27
 coverImage: https://fotos.etheriamagazine.com/2019/02/La-Sultana-Marrakech-suite.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Susana García
 ---

@@ -3,7 +3,9 @@ title: "Viaje con amigas a Bolonia: 10 planes imbatibles en Italia"
 date: 2022-06-10
 coverImage: https://fotos.etheriamagazine.com/2022/06/Clock-Tower-bolonia.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

@@ -3,9 +3,9 @@ title: "Celia Díaz: \"Viajar nos completa y nos hace mejores personas\""
 date: 2020-02-11
 coverImage: https://fotos.etheriamagazine.com/2020/02/celia-diaz-Malecon-de-La-Habana.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,9 +3,10 @@ title: "Viajar en moto, trucos y consejos de Alicia Sornosa"
 date: 2021-03-19
 coverImage: https://fotos.etheriamagazine.com/2021/03/alicia-sornosa-viajera-moto.jpg
 categories: 
-  - libros-de-viajes
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

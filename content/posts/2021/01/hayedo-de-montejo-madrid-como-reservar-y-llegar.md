@@ -3,9 +3,9 @@ title: "Hayedo de Montejo, visitas guiadas y gratuitas todo el año"
 date: 2021-01-15
 coverImage: https://fotos.etheriamagazine.com/2021/01/visitas-hayedo-montejo-madrid.jpg
 categories: 
-  - viaje-en-familia
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

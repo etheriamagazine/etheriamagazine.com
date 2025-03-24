@@ -3,9 +3,9 @@ title: "Barceló Montecastillo Golf & Sport Resort, un hotel de lujo en Jerez pa
 date: 2020-06-11
 coverImage: https://fotos.etheriamagazine.com/2020/05/Barcelo-Montecastillo-aperitivo.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

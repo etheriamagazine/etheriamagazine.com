@@ -3,9 +3,9 @@ title: "Un día en Milán: del Duomo a Porta Venezia"
 date: 2023-09-29
 coverImage: https://fotos.etheriamagazine.com/2023/09/Milan-Liberty-Quartier-Casa-Galimbert.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

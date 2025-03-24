@@ -3,9 +3,10 @@ title: "Expo 2020 de Dubái: cómo aprovechar el tiempo durante tu visita"
 date: 2021-12-20
 coverImage: https://fotos.etheriamagazine.com/2021/12/Expo-Dubai-Al-Wasl-Plaza-dia.jpg
 categories: 
-  - consejos-practicos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

@@ -2,8 +2,8 @@
 title: "Jornadas Medievales de Ávila, una cita con el pasado"
 date: 2022-08-24
 coverImage: https://fotos.etheriamagazine.com/2022/08/mercado-medieval-avila.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

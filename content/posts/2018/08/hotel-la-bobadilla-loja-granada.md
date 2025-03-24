@@ -3,8 +3,9 @@ title: "La Bobadilla, uno de los hoteles más bonitos del mundo"
 date: 2018-08-23
 coverImage: https://fotos.etheriamagazine.com/2018/08/La-Bobadilla-panoramica.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Susana García
 ---

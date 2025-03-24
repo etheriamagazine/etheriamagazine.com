@@ -3,9 +3,9 @@ title: "Desiertos de película y pinchos “de cine”: una ruta por las Bardena
 date: 2024-10-12
 coverImage: https://fotos.etheriamagazine.com/2020/07/Tudela-catedral.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

@@ -3,8 +3,9 @@ title: "Pueblos bonitos de la Costa Brava para ir con amigas"
 date: 2019-05-28
 coverImage: https://fotos.etheriamagazine.com/2019/05/Calella-de-Palafrugel-viaje-amigas.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yvonne Solé
 ---

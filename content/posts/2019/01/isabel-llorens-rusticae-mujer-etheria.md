@@ -3,8 +3,9 @@ title: "Isabel Llorens: \"Viajar aporta respeto por todas las culturas, sus gent
 date: 2019-01-21
 coverImage: https://fotos.etheriamagazine.com/2019/01/Isabel-Llorens-Grecia.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Susana García
 ---

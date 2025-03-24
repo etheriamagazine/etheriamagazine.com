@@ -3,9 +3,10 @@ title: "Qué llevar en la maleta en un viaje a Cuba"
 date: 2024-02-28
 coverImage: https://fotos.etheriamagazine.com/2024/02/maleta-cuba-habana-casas.jpg
 categories: 
-  - organiza-tu-viaje
-  - planes-cultura-ocio
-  - que-llevar-en-la-maleta
+  - ocio
+  - qué-llevar-en-la-maleta
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

@@ -3,9 +3,9 @@ title: "Descubre el secreto de la felicidad que guarda celosamente Copenhague"
 date: 2019-09-23
 coverImage: https://fotos.etheriamagazine.com/2019/09/copenhague-original-coffee.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Ana María Pareja
 ---

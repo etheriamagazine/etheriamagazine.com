@@ -3,9 +3,10 @@ title: "Poitiers, ciudad de mujeres: de Leonor de Aquitania a la alcaldesa Léon
 date: 2024-10-02
 coverImage: https://fotos.etheriamagazine.com/2024/10/mercado-poitiers.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

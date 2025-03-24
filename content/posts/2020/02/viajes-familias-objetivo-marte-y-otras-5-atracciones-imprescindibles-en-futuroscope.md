@@ -3,10 +3,10 @@ title: "Objetivo Marte y otras 5 atracciones imprescindibles en Futuroscope"
 date: 2020-02-20
 coverImage: https://fotos.etheriamagazine.com/2020/02/Objetivo-Marte-montana-rusa.jpg
 categories: 
-  - viaje-en-familia
-  - parques-ocio
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

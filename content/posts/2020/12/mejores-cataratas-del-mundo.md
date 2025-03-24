@@ -3,9 +3,10 @@ title: "8 maravillosas cataratas del mundo para soñar"
 date: 2020-12-04
 coverImage: https://fotos.etheriamagazine.com/2020/11/cataratas-plitvice.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

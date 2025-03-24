@@ -3,11 +3,10 @@ title: "La Mancha toledana: excursión a Madridejos para conocer el mundo del az
 date: 2021-09-29
 coverImage: https://fotos.etheriamagazine.com/2021/09/seleccion-pistilos.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

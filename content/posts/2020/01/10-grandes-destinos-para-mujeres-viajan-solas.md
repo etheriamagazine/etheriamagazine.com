@@ -3,8 +3,10 @@ title: "10 destinos ideales para descubrir viajando sola"
 date: 2020-01-30
 coverImage: https://fotos.etheriamagazine.com/2019/05/viajar-sola-salar-uyuni.jpg
 categories: 
-  - de-un-vistazo
   - viajar-sola
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

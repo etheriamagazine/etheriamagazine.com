@@ -3,9 +3,11 @@ title: "Najat Kaanache, la mejor chef de África, desvela en NAJAT los secretos 
 date: 2021-02-04
 coverImage: https://fotos.etheriamagazine.com/2021/02/Najat-chef-restaurante-nur.jpg
 categories: 
-  - libros-de-viajes
-  - mujeres-etheria
-  - planes-cultura-ocio
+  - cultura
+  - mujeres-top
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

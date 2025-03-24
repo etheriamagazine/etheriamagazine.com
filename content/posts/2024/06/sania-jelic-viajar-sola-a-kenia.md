@@ -3,10 +3,11 @@ title: "Guía para viajar sola a Kenia, consejos básicos de Sania Jelic"
 date: 2024-06-02
 coverImage: https://fotos.etheriamagazine.com/2024/05/sania-safari-kenia.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - viajes-para-mujeres
   - viajar-sola
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

@@ -3,8 +3,9 @@ title: "Islas Galápagos, organiza el mejor viaje de tu vida"
 date: 2018-09-05
 coverImage: https://fotos.etheriamagazine.com/2018/08/iguana-viaje-galapagos-e1653807995591.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-romanticos
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

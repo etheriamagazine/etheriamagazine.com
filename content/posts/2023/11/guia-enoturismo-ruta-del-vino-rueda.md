@@ -3,9 +3,9 @@ title: "Cómo disfrutar de la Ruta del Vino de Rueda, tu guía más hedonista"
 date: 2023-11-14
 coverImage: https://fotos.etheriamagazine.com/2023/11/Bodega-Montepedroso.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

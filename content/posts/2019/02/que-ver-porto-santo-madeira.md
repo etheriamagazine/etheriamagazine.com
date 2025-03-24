@@ -3,9 +3,9 @@ title: "Por qué visitar Porto Santo si viajas a Madeira"
 date: 2019-02-05
 coverImage: https://fotos.etheriamagazine.com/2019/02/Porto-Santo-mirador-e1562660291487.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

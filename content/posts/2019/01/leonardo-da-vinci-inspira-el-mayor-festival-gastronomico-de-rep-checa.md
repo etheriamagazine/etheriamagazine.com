@@ -3,8 +3,9 @@ title: "Leonardo da Vinci inspira el mayor festival gastronómico de Rep. Checa"
 date: 2019-01-09
 coverImage: https://fotos.etheriamagazine.com/2019/01/chequia-Tusculum-Karlovy-Vary.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
+  - gourmet
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

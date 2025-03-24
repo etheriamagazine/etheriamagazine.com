@@ -3,8 +3,9 @@ title: "Camino de Santiago en La Rioja, un viaje que deja buen sabor de boca"
 date: 2019-05-01
 coverImage: https://fotos.etheriamagazine.com/2019/04/Camino-Santiago-La-Rioja-Santo-Domingo.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Carmen Bengoechea
 ---

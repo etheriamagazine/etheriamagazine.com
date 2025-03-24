@@ -3,8 +3,9 @@ title: "Ruta de fados en Lisboa de la mano de Amália Rodrigues"
 date: 2020-12-30
 coverImage: https://fotos.etheriamagazine.com/2020/12/lisboa-Amalia-Rodrigues-1965.jpg
 categories: 
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

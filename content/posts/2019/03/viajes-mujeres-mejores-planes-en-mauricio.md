@@ -3,9 +3,10 @@ title: "Isla Mauricio, 10 planes para un viaje inolvidable"
 date: 2019-03-26
 coverImage: https://fotos.etheriamagazine.com/2019/03/isla-mauricio-padle-surf.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

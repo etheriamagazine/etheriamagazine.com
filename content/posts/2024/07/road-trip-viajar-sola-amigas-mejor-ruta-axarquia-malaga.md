@@ -3,9 +3,9 @@ title: "Paradas en una ruta en coche por la Axarquía malagueña"
 date: 2024-07-11
 coverImage: https://fotos.etheriamagazine.com/2020/06/viajar-sola-axarquia-competa.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Cristina Fernández
 ---

@@ -4,6 +4,8 @@ date: 2022-10-07
 coverImage: https://fotos.etheriamagazine.com/2022/10/Hacienda-Na-Xamena-piscina.jpg
 categories: 
   - hoteles
+destino: 
+  - España
 authors: 
   - Susana García
 ---

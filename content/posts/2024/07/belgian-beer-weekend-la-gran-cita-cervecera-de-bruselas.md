@@ -2,8 +2,8 @@
 title: "Belgian Beer Weekend, la gran cita cervecera de Bruselas"
 date: 2024-07-12
 coverImage: https://fotos.etheriamagazine.com/2024/07/Belgian-Beer-Weekend-2024.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

@@ -3,8 +3,10 @@ title: "Miguel Jara: “Lo económico influye en la salud de las personas y tien
 date: 2021-11-17
 coverImage: https://fotos.etheriamagazine.com/2021/11/miguel-jara-escritor.jpg
 categories: 
-  - salud-bienestar-nutricion
-  - libros-de-viajes
+  - bienestar
+  - cultura
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

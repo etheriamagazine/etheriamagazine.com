@@ -3,9 +3,9 @@ title: "Gran Meliá Villa Agrippina, un oasis en el centro de Roma"
 date: 2022-05-30
 coverImage: https://fotos.etheriamagazine.com/2022/05/Villa-agripina-piscina.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

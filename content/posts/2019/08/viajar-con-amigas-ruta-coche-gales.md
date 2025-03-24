@@ -3,9 +3,10 @@ title: "Ruta en coche con amigas en Gales"
 date: 2019-08-23
 coverImage: https://fotos.etheriamagazine.com/2019/08/Gales-Tenby.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

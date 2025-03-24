@@ -4,6 +4,8 @@ date: 2019-01-29
 coverImage: https://fotos.etheriamagazine.com/2019/01/viajar-sola-europa.jpg
 categories: 
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,10 +3,11 @@ title: "Las bodegas son para el verano: 11 propuestas entre viñas y frescas sal
 date: 2020-07-08
 coverImage: https://fotos.etheriamagazine.com/2020/07/bodegas-franco-espanolas-cata.jpg
 categories: 
-  - viajes-gastronomicos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

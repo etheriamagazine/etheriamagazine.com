@@ -3,8 +3,9 @@ title: "Toca el cielo con las manos en el lago Titicaca y la Isla del Sol"
 date: 2019-12-20
 coverImage: https://fotos.etheriamagazine.com/2019/12/isla-del-sol-lago-titicaca.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Cris Aizpeolea
 ---

@@ -3,8 +3,9 @@ title: "Diez mujeres que nos inspiraron en 2020"
 date: 2021-01-05
 coverImage: https://fotos.etheriamagazine.com/2020/12/mujeres-2020-ada-coleman.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

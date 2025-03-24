@@ -3,8 +3,9 @@ title: "Por qué merece la pena viajar en El Transcantábrico"
 date: 2024-04-16
 coverImage: https://fotos.etheriamagazine.com/2024/04/vagon-panoramico-transcantabrico.jpg
 categories: 
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Firmas invitadas
 ---

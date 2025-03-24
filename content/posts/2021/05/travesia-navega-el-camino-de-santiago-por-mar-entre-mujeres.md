@@ -3,8 +3,9 @@ title: "El Camino de Santiago por mar: a vela y entre mujeres"
 date: 2021-05-31
 coverImage: https://fotos.etheriamagazine.com/2021/05/camino-santiago-mar.jpg
 categories: 
-  - historias-en-femenino
-  - viajes-para-mujeres
+  - historias
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,9 +3,9 @@ title: "Jordania, visitas y consejos imprescindibles para tu primer viaje"
 date: 2020-12-18
 coverImage: https://fotos.etheriamagazine.com/2020/12/viajar-sola-jordania-tesoro-de-petra.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

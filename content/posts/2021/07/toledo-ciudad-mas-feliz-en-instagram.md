@@ -3,8 +3,9 @@ title: "Toledo es la ciudad más feliz de España en Instagram"
 date: 2021-07-13
 coverImage: https://fotos.etheriamagazine.com/2021/07/mujeres-campo-girasoles.jpg
 categories: 
-  - salud-bienestar-nutricion
-  - viajes-para-mujeres
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

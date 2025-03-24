@@ -3,9 +3,9 @@ title: "Hotel boutique The Reserve, exclusividad al borde del Atlántico en Made
 date: 2023-10-28
 coverImage: https://fotos.etheriamagazine.com/2023/10/the-reserve-Jacaranda-Lounge.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

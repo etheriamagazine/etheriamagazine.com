@@ -3,11 +3,11 @@ title: "10 hoteles de lujo para una escapada romántica"
 date: 2021-01-21
 coverImage: https://fotos.etheriamagazine.com/2021/01/hoteles-lujo-Royal-hideaway-playacar.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

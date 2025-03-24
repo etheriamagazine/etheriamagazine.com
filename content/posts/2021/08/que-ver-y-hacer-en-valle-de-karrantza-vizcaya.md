@@ -3,9 +3,9 @@ title: "Valle de Karrantza, 10 experiencias rurales y genuinas en Vizcaya"
 date: 2021-08-18
 coverImage: https://fotos.etheriamagazine.com/2021/08/cueva-pozalagua-valle-karrantza.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

@@ -2,8 +2,8 @@
 title: "Machu Picchu y otros lugares imprescindibles de Perú"
 date: 2023-08-30
 coverImage: https://fotos.etheriamagazine.com/2023/08/Laguna-Huacachina.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

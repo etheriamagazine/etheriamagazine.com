@@ -3,11 +3,9 @@ title: "Ruta gastro por Pamplona: bares de pintxos, visitas y curiosidades"
 date: 2019-11-15
 coverImage: https://fotos.etheriamagazine.com/2019/11/Pamplona-Plaza-del-Castillo.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-gastronomicos
-  - viajes-urbanos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

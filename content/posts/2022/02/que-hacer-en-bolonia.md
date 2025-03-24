@@ -3,9 +3,9 @@ title: "Ir de bares y otros planes para enamorarte de Bolonia"
 date: 2022-02-21
 coverImage: https://fotos.etheriamagazine.com/2022/02/Plaza-Mayor-bolonia-noche.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Alfredo G. Reyes
 ---

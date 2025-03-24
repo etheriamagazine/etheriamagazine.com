@@ -3,9 +3,10 @@ title: "Avistar cetáceos en la costa vasca, una experiencia inolvidable"
 date: 2020-04-20
 coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-mujeres-bizkaia-ver-delfines.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

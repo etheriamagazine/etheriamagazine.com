@@ -3,8 +3,7 @@ title: "El lago Turkana, un viaje a Kenia que cambiará tu percepción del mundo
 date: 2020-02-07
 coverImage: https://fotos.etheriamagazine.com/2020/01/viaje-kenia-Mujeres-turkanas.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-en-familia
 authors: 
   - Pedro Grifol
 ---

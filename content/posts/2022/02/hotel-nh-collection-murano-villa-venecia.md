@@ -3,9 +3,9 @@ title: "NH Collection Murano Villa, un hotel perfecto para explorar Venecia"
 date: 2022-02-16
 coverImage: https://fotos.etheriamagazine.com/2022/02/NH_collection-murano-villa-terraza.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

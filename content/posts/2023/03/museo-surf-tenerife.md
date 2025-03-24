@@ -3,7 +3,9 @@ title: "La Capilla del Surf, descubre el primer museo del surf de Canarias"
 date: 2023-03-29
 coverImage: https://fotos.etheriamagazine.com/2023/03/capilla-surf-tenerife.jpg
 categories: 
-  - exposiciones
+  - cultura
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

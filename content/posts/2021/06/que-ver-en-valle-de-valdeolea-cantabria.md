@@ -3,9 +3,9 @@ title: "Valle de Valdeolea, 9 rituales para descubrir la esencia del sur de Cant
 date: 2021-06-04
 coverImage: https://fotos.etheriamagazine.com/2021/06/cantabria-valdeolea-menhir.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

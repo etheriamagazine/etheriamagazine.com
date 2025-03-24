@@ -3,9 +3,9 @@ title: "La Ruta Puccini, la Toscana sin masificación turística es posible"
 date: 2019-09-11
 coverImage: https://fotos.etheriamagazine.com/2019/09/viaje-lucca-ruta-puccini-revista-etheria.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

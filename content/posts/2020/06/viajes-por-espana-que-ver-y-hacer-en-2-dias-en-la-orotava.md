@@ -3,10 +3,9 @@ title: "Descubre la dulzura de La Orotava (Tenerife)"
 date: 2020-06-20
 coverImage: https://fotos.etheriamagazine.com/2020/06/orotava-iglesia-concepcion.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

@@ -3,12 +3,12 @@ title: "Cómo pedir atún en Cádiz como si fueses una experta"
 date: 2023-10-24
 coverImage: https://fotos.etheriamagazine.com/2023/10/sashimi-atun-palillos.jpg
 categories: 
-  - consejos-practicos
-  - organiza-tu-viaje
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - gourmet
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

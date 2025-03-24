@@ -3,8 +3,9 @@ title: "Qué hacer con amigas en Madrid este otoño e invierno"
 date: 2023-09-07
 coverImage: https://fotos.etheriamagazine.com/2023/09/terraza-hotel-suecia.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

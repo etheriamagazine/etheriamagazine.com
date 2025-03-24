@@ -3,10 +3,10 @@ title: "Mujeres artistas Suomi y Sami en Finlandia"
 date: 2019-07-01
 coverImage: https://fotos.etheriamagazine.com/2019/06/Mujeres-Finlandia-suomi-sami.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

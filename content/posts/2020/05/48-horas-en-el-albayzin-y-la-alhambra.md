@@ -3,8 +3,9 @@ title: "Cómo aprovechar bien dos días en Granada capital"
 date: 2020-05-29
 coverImage: https://fotos.etheriamagazine.com/2020/05/viajes-mujeres-granada-alhambra.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

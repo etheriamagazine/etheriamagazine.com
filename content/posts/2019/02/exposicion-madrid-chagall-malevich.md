@@ -3,8 +3,9 @@ title: "'De Chagall a Malévich: el arte en revolución'"
 date: 2019-02-14
 coverImage: https://fotos.etheriamagazine.com/2019/02/exposicion-madrid-Marc-Chagall.jpg
 categories: 
-  - organiza-tu-viaje
-  - exposiciones
+  - cultura
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

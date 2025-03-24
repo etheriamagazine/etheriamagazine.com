@@ -3,12 +3,11 @@ title: "La ruta de Lola Flores en Madrid a tu aire (con plano incluido)"
 date: 2024-04-11
 coverImage: https://fotos.etheriamagazine.com/2024/04/lola-flores-mapa-ruta.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-sola
+  - mujeres-top
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

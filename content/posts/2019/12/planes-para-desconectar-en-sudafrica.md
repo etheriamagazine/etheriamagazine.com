@@ -3,9 +3,9 @@ title: "Sudáfrica, un destino con hoteles fuera de cobertura"
 date: 2019-12-11
 coverImage: https://fotos.etheriamagazine.com/2019/12/sudafrica-Elandsberg.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

@@ -2,8 +2,8 @@
 title: "Puccini nos lleva de viaje (en coche) a Lucca"
 date: 2019-02-21
 coverImage: https://fotos.etheriamagazine.com/2019/02/puccini.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

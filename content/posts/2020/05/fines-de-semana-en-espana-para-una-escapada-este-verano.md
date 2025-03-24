@@ -3,10 +3,11 @@ title: "8 fines de semana en España para una escapada este verano"
 date: 2020-05-14
 coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-bizkaia-ver-ballenas.jpg
 categories: 
-  - viajes-48-horas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

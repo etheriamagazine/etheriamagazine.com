@@ -4,6 +4,8 @@ date: 2023-01-10
 coverImage: https://fotos.etheriamagazine.com/2023/01/portada-sania-jelic-patagonia.jpg
 categories: 
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

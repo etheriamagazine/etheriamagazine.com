@@ -3,10 +3,10 @@ title: "Terrazas en las azoteas de Madrid: 10 lugares con los que aciertas segur
 date: 2024-06-19
 coverImage: https://fotos.etheriamagazine.com/2024/06/hard-rock-hotel-terraza-foodtrucks.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

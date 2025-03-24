@@ -3,10 +3,11 @@ title: "Escapada para chicas en Castilla Termal Monasterio de Valbuena"
 date: 2018-09-06
 coverImage: https://fotos.etheriamagazine.com/2018/09/circuito-contrastes-monasterio-valbuena.jpg
 categories: 
-  - bienestar-belleza
-  - viajes-con-amigas
+  - viajar-con-amigas
+  - bienestar
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

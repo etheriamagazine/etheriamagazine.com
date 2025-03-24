@@ -3,8 +3,9 @@ title: "Un viaje apasionante con amigas por el sur de Perú"
 date: 2019-11-01
 coverImage: https://fotos.etheriamagazine.com/2019/10/peru-mercados-cuzco.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Mundo
 authors: 
   - Ana María Pareja
 ---

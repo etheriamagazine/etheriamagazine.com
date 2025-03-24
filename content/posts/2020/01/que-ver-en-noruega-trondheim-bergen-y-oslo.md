@@ -3,7 +3,9 @@ title: "Trondheim, Bergen y Oslo, las 3 capitales de Noruega"
 date: 2020-01-24
 coverImage: https://fotos.etheriamagazine.com/2020/01/Noruega-Trondheim-Nidelva-portada.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Marina Paul
 ---

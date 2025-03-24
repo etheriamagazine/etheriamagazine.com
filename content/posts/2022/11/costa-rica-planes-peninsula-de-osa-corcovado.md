@@ -3,7 +3,9 @@ title: "Península de Osa, planes con corazón en el último rincón de Costa Ri
 date: 2022-11-30
 coverImage: https://fotos.etheriamagazine.com/2022/11/costa-rica-caminos-de-osa-1.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Mundo
 authors: 
   - Etheria Magazine
 ---

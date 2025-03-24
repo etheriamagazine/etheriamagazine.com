@@ -3,9 +3,9 @@ title: "A la fresca de las bodegas en La Rioja Alavesa"
 date: 2019-07-25
 coverImage: https://fotos.etheriamagazine.com/2019/07/rioja-alavesa-segway.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kris Ubach
 ---

@@ -3,8 +3,10 @@ title: "Cinco consejos útiles para viajar embarazada sin riesgos"
 date: 2021-03-30
 coverImage: https://fotos.etheriamagazine.com/2019/02/embarazada-viaje.jpg
 categories: 
-  - salud-bienestar-nutricion
-  - consejos-practicos
+  - bienestar
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

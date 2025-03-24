@@ -3,8 +3,9 @@ title: "Aventura en Belmonte para toda la familia"
 date: 2019-09-09
 coverImage: https://fotos.etheriamagazine.com/2019/08/viaje-etheria-castillo-de-Belmonte-combate-medieval.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

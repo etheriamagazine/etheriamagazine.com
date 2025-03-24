@@ -3,9 +3,10 @@ title: "Una ruta gastro por los sabores de Gran Canaria"
 date: 2023-07-24
 coverImage: https://fotos.etheriamagazine.com/2023/06/Gran-canaria-dulcería-nublo.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Alfredo G. Reyes
 ---

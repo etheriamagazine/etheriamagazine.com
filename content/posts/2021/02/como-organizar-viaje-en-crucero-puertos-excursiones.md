@@ -3,9 +3,10 @@ title: "Tips imprescindibles para organizar tu primer viaje en crucero"
 date: 2021-02-25
 coverImage: https://fotos.etheriamagazine.com/2021/02/cruceros-Disney-castaway-cay.jpg
 categories: 
-  - consejos-practicos
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

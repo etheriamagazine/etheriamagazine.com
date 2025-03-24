@@ -3,10 +3,10 @@ title: "La aterradora 'Noche de los Krampus' de Salzburgo se celebra en Adviento
 date: 2024-12-04
 coverImage: https://fotos.etheriamagazine.com/2023/10/Salzburgo-nieve.jpg
 categories: 
-  - viajes-48-horas
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Pedro Grifol
 ---

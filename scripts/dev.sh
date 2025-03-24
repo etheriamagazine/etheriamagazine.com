@@ -4,13 +4,15 @@
 export HUGO_MODULE_WORKSPACE=hugo.work
 
 # first hugo pass
-hugo
+# hugo
 
-# create pagefind index
-bunx pagefind --site public
+# pagefind index
+# bunx pagefind
 
 # start server
-hugo server --logLevel info --cleanDestinationDir # --templateMetrics --templateMetricsHints --printUnusedTemplates
+hugo server --cleanDestinationDir # --templateMetrics --templateMetricsHints --printUnusedTemplates &
+
+
 
 # build hugo
 # HUGO_MODULE_WORKSPACE=hugo.work hugo server  --cleanDestinationDir

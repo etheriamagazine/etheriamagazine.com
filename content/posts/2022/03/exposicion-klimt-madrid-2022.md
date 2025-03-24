@@ -3,8 +3,9 @@ title: "Klimt en Madrid, la primera experiencia inmersiva de MAD en Matadero"
 date: 2022-03-18
 coverImage: https://fotos.etheriamagazine.com/2022/03/klimt-matadero-madrid.jpg
 categories: 
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

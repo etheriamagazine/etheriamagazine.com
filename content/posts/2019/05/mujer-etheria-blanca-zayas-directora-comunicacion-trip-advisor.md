@@ -3,10 +3,10 @@ title: "Blanca Zayas: \"Viajar es una inversión en cultura  y autoconocimiento\
 date: 2019-05-13
 coverImage: https://fotos.etheriamagazine.com/2019/05/blanca-zayas-apertura.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

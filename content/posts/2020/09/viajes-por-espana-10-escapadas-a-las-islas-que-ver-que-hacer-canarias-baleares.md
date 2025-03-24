@@ -3,9 +3,10 @@ title: "10 viajes a Baleares y Canarias para desconectar"
 date: 2020-09-16
 coverImage: https://fotos.etheriamagazine.com/2020/04/playa-ses-illetes-formentera.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

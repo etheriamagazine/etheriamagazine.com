@@ -3,8 +3,9 @@ title: "Caminos de Pasión a través de 10 mujeres apasionadas"
 date: 2019-12-06
 coverImage: https://fotos.etheriamagazine.com/2019/12/caminos-pasion-priego-cordoba-8.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

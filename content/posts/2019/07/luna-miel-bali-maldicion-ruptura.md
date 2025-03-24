@@ -3,8 +3,9 @@ title: "Si quieres a tu pareja no viajes a Bali"
 date: 2019-07-23
 coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-bali-tanah-lot.jpg
 categories: 
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Mundo
 authors: 
   - Elena Ortega
 ---

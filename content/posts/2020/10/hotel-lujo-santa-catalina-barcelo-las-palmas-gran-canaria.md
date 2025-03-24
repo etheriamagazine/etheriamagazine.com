@@ -3,9 +3,9 @@ title: "Santa Catalina, a Royal Hideaway Hotel, un tesoro en el corazón de Las 
 date: 2020-10-06
 coverImage: https://fotos.etheriamagazine.com/2020/10/Hotel-Santa-Catalina-piscina-atardecer.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

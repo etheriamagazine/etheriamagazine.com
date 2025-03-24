@@ -3,10 +3,9 @@ title: "Cómo organizar una escapada de cine a la Seminci 2019"
 date: 2019-10-14
 coverImage: https://fotos.etheriamagazine.com/2019/10/valladolid-teatro-calderon-seminci.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-cine
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Miriam González
 ---

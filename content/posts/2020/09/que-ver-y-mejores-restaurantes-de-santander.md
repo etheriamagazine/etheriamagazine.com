@@ -3,11 +3,9 @@ title: "Planes en Santander, entre arte y gastronomía anda el juego"
 date: 2020-09-23
 coverImage: https://fotos.etheriamagazine.com/2020/09/santander-taberna-la-radio-pulpo-braseado.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-urbanos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Alfredo G. Reyes
 ---

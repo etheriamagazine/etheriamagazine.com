@@ -3,10 +3,11 @@ title: "12 pueblos bonitos en Castilla y León que no puedes perderte"
 date: 2023-09-13
 coverImage: https://fotos.etheriamagazine.com/2021/12/segovia-Sepulveda.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

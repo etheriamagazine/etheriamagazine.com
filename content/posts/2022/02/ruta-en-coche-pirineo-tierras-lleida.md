@@ -2,8 +2,8 @@
 title: "Grand Tour de Cataluña por el Pirineo y las Tierras de Lleida"
 date: 2022-02-07
 coverImage: https://fotos.etheriamagazine.com/2022/02/Grand-Tour-de-Catalunya-lleida.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

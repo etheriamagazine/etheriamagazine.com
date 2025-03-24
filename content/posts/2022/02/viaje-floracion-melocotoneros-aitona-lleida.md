@@ -3,9 +3,10 @@ title: "Aitona en flor, un anuncio 'rosa' a las afueras de Lleida"
 date: 2022-02-24
 coverImage: https://fotos.etheriamagazine.com/2019/03/Fruiturismo-lleida.jpg
 categories: 
-  - viajes-ecoturismo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

@@ -3,9 +3,9 @@ title: "Viaje con niños a Costa Rica: aventura en la naturaleza"
 date: 2021-04-20
 coverImage: https://fotos.etheriamagazine.com/2018/05/Costa-Rica-rana-e1551175328952.jpg
 categories: 
-  - viajes-ecoturismo
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

@@ -3,11 +3,10 @@ title: "¿Por qué es buena idea viajar a Cork con amigas?"
 date: 2018-12-26
 coverImage: https://fotos.etheriamagazine.com/2018/12/carcel-cork-e1647553526412.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - de-un-vistazo
-  - viajes-para-mujeres
   - viajar-sola
+  - inspiración
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

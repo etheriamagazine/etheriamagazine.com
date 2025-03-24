@@ -3,7 +3,9 @@ title: "Abigail Sigüenza: \"Me encantaría viajar con Indiana Jones a Egipto o 
 date: 2018-07-17
 coverImage: https://fotos.etheriamagazine.com/2018/07/Abigail-Siguenza-mujer-etheria-murales.jpg
 categories: 
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

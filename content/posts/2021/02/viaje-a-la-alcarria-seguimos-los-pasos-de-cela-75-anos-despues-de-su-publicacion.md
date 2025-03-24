@@ -2,9 +2,8 @@
 title: "'Viaje a la Alcarria', seguimos los pasos de Cela 20 años después de que nos dejara"
 date: 2021-02-01
 coverImage: https://fotos.etheriamagazine.com/2021/01/viaje-alcarria-cela-Brihuega.jpg
-categories: 
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

@@ -3,7 +3,9 @@ title: "Valle de Chistau, descubre las mejores rutas en el cielo aragonés"
 date: 2021-12-07
 coverImage: https://fotos.etheriamagazine.com/2021/11/VAlle-Chistau-Vista-de-La-Comuna-y-Serveto.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

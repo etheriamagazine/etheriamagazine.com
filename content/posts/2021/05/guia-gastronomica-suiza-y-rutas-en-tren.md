@@ -3,8 +3,9 @@ title: "Descubre la mejor forma de recorrer y saborear Suiza"
 date: 2021-05-10
 coverImage: https://fotos.etheriamagazine.com/2021/04/Suiza-en-tren-Graubuenden-.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

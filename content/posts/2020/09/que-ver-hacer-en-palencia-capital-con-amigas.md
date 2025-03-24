@@ -3,10 +3,9 @@ title: "Palencia capital, la bella desconocida, y sus mejores restaurantes"
 date: 2020-09-30
 coverImage: https://fotos.etheriamagazine.com/2020/09/Palencia-catedral.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

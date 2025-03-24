@@ -3,8 +3,9 @@ title: "Aventura en Polonia: los últimos bisontes de Europa están en Bialowiez
 date: 2019-01-30
 coverImage: https://fotos.etheriamagazine.com/2019/01/Bialowieza-atardecer.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Kris Ubach
 ---

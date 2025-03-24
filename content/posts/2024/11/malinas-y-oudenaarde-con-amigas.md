@@ -3,8 +3,9 @@ title: "Escapada con amigas a Malinas y Oudenaarde, dos perlas escondidas en la 
 date: 2024-11-07
 coverImage: https://fotos.etheriamagazine.com/2024/11/Casas-Malinas.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

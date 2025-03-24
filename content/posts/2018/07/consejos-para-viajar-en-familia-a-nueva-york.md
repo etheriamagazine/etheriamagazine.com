@@ -3,10 +3,10 @@ title: "10 consejos para un viaje en familia a Nueva York"
 date: 2018-07-27
 coverImage: https://fotos.etheriamagazine.com/2018/07/nueva-york-familia-central-park.jpg
 categories: 
-  - consejos-practicos
-  - viaje-en-familia
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+destino: 
+  - Mundo
 authors: 
   - Susana García
 ---

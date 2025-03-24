@@ -3,9 +3,10 @@ title: "Viajar sola a las islas Lofoten para seguir la ruta del Rey Olav"
 date: 2019-11-12
 coverImage: https://fotos.etheriamagazine.com/2019/11/viaje-mujeres-lofoten-Henninsvaer.jpg
 categories: 
-  - consejos-practicos
-  - viajes-para-mujeres
   - viajar-sola
+  - inspiración
+destino: 
+  - España
 authors: 
   - Marina Paul
 ---

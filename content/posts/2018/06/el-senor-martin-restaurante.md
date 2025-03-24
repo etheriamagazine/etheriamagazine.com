@@ -3,8 +3,10 @@ title: "El Señor Martín Restaurante: talibanes del pescado"
 date: 2018-06-19
 coverImage: https://fotos.etheriamagazine.com/2018/06/El-Senor-Martin-entrada.jpg
 categories: 
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

@@ -3,8 +3,9 @@ title: "Concert Music Festival Sancti Petri (Chiclana, Cádiz)"
 date: 2018-06-29
 coverImage: https://fotos.etheriamagazine.com/2018/06/festival-sancti-petri.jpg
 categories: 
-  - organiza-tu-viaje
-  - festivales
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

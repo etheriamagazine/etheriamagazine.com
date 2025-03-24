@@ -3,9 +3,9 @@ title: "Descubre Guangxi, la otra cara de la Nueva China"
 date: 2019-12-27
 coverImage: https://fotos.etheriamagazine.com/2019/12/viaje-china-senderismo-colinas-guangxi.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Mundo
 authors: 
   - Ana Vara y David Santiago
 ---

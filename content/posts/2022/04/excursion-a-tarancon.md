@@ -3,9 +3,9 @@ title: "Visita Tarancón para probar el mejor chuletón del mundo"
 date: 2022-04-27
 coverImage: https://fotos.etheriamagazine.com/2022/04/chuleton-restaurante-essentia-1.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

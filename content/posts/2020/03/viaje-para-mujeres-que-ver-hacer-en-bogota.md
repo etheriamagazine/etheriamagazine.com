@@ -3,8 +3,9 @@ title: "Bogotá no es fea, es que no la sabes mirar"
 date: 2020-03-12
 coverImage: https://fotos.etheriamagazine.com/2020/03/viaje-bogota-ruta-gastro.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Kelu Robles
 ---

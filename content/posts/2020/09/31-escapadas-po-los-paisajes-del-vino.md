@@ -3,9 +3,9 @@ title: "31 escapadas para descubrir este otoño los paisajes del vino"
 date: 2020-09-07
 coverImage: https://fotos.etheriamagazine.com/2020/08/ruta-vino-penedes-Enoturismo.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

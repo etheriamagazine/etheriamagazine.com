@@ -3,9 +3,10 @@ title: "Flash Cultura: 'Sorolla. Femenino plural', nueva exposición en Madrid"
 date: 2020-09-25
 coverImage: https://fotos.etheriamagazine.com/2020/09/Bordadora-valenciana-sorolla.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

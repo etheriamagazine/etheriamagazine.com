@@ -3,10 +3,10 @@ title: "Cómo visitar la Alhambra, 10 consejos a tener en cuenta"
 date: 2021-10-25
 coverImage: https://fotos.etheriamagazine.com/2021/10/la-alhambra-patio-de-los-arrayanes-1.jpg
 categories: 
-  - consejos-practicos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

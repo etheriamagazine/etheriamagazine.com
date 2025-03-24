@@ -3,12 +3,11 @@ title: "Escapada para dos a Londres: ocho planes fuera de lo común"
 date: 2020-01-09
 coverImage: https://fotos.etheriamagazine.com/2019/12/londres-tate-modern.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-romanticos
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Ana María Pareja
 ---

@@ -3,9 +3,9 @@ title: "Qué ver en Ámsterdam en sólo dos días"
 date: 2019-04-11
 coverImage: https://fotos.etheriamagazine.com/2019/03/amsterdam-mercados-Noordermarkt.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Carmen Giró
 ---

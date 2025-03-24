@@ -3,8 +3,9 @@ title: "Innsbruck con amigas, una escapada con sello tirolés"
 date: 2023-10-18
 coverImage: https://fotos.etheriamagazine.com/2023/10/que-ver-innsbruck-Maria-Theresien-Strasse.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Alicia Bea
 ---

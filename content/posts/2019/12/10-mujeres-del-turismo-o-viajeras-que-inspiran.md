@@ -3,12 +3,12 @@ title: "10 mujeres que nos han inspirado en 2019"
 date: 2019-12-26
 coverImage: https://fotos.etheriamagazine.com/2019/04/milly-thomas-dust.jpg
 categories: 
-  - historias-en-femenino
-  - de-un-vistazo
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - historias
+  - inspiración
+  - mujeres-top
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

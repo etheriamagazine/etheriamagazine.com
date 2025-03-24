@@ -3,8 +3,9 @@ title: "Seis lugares alternativos de Praga fuera del circuito turístico para un
 date: 2024-08-02
 coverImage: https://fotos.etheriamagazine.com/2024/08/portada-praga.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

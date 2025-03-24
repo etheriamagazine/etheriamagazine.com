@@ -3,11 +3,11 @@ title: "San Francisco al desnudo en un puñado de planes caprichosos"
 date: 2021-04-09
 coverImage: https://fotos.etheriamagazine.com/2018/07/San-Francisco-Alamo-Square.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,9 +3,9 @@ title: "Conoce las 15 mejores playas y calas de Conil"
 date: 2021-02-05
 coverImage: https://fotos.etheriamagazine.com/2021/01/cala-conil-frailecillo.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

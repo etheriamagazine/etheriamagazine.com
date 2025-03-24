@@ -3,11 +3,11 @@ title: "10 excursiones en Menorca para unas vacaciones perfectas"
 date: 2023-10-13
 coverImage: https://fotos.etheriamagazine.com/2023/10/menorca-barcos-calas-macarella-macarelleta.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

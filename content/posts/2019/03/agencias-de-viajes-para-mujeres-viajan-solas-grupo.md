@@ -3,8 +3,9 @@ title: "Agencias de viajes para viajar sola pero en grupo"
 date: 2019-03-08
 coverImage: https://fotos.etheriamagazine.com/2019/03/WOM-agencia-mujeres.jpg
 categories: 
-  - historias-en-femenino
-  - viajes-para-mujeres
+  - historias
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

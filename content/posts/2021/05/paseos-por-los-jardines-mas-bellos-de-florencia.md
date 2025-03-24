@@ -3,8 +3,9 @@ title: "Nueve paseos a la italiana por los jardines más bellos de Florencia"
 date: 2021-05-21
 coverImage: https://fotos.etheriamagazine.com/2021/04/Jardin-Boboli-florencia.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Carmen Pineda
 ---

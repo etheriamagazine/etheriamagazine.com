@@ -3,8 +3,9 @@ title: "Viajar sola al Eje Cafetero, el corazón verde de Colombia"
 date: 2019-01-28
 coverImage: https://fotos.etheriamagazine.com/2019/01/Colombia-Salento-Quindio.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Mundo
 authors: 
   - Elisabeth G. Iborra
 ---

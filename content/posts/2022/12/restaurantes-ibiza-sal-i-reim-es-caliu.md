@@ -4,6 +4,8 @@ date: 2022-12-02
 coverImage: https://fotos.etheriamagazine.com/2022/12/restaurante-es-caliu-mesas.jpg
 categories: 
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

@@ -3,8 +3,9 @@ title: "El renovado Parador de León, un hotel de lujo para espíritus ilustrado
 date: 2020-12-22
 coverImage: https://fotos.etheriamagazine.com/2020/12/Parador-leon-fachada.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

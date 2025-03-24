@@ -3,9 +3,9 @@ title: "Guía básica para una ruta en autocaravana por la Subbética Cordobesa"
 date: 2022-03-23
 coverImage: https://fotos.etheriamagazine.com/2022/03/dona-mencia-area-caravanas.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

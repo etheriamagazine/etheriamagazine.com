@@ -3,11 +3,10 @@ title: "Qué hacer en Bangkok si tienes sólo tres días"
 date: 2021-05-29
 coverImage: https://fotos.etheriamagazine.com/2018/06/Bangkok-crucero-rio-chao-praya.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-romanticos
-  - planes-cultura-ocio
-  - viajes-urbanos
+  - viajar-en-pareja
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

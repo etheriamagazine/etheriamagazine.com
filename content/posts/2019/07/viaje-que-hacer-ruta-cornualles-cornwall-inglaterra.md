@@ -3,9 +3,9 @@ title: "Cornualles, ruta por la costa inglesa tocada por el sol"
 date: 2019-07-10
 coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-cornwall-Playa-Porthminster.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Kris Ubach
 ---

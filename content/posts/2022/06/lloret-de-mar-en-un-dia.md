@@ -3,10 +3,10 @@ title: "Qué hacer en Lloret de Mar en un día, 7 planes sin estresarte"
 date: 2022-06-20
 coverImage: https://fotos.etheriamagazine.com/2022/06/Playa-Sa-Boadella-lloret.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

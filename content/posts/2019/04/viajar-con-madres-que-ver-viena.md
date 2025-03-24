@@ -3,8 +3,9 @@ title: "Viena, un viaje para compartir con tu madre"
 date: 2019-04-24
 coverImage: https://fotos.etheriamagazine.com/2019/04/opera-viena-exterior.jpg
 categories: 
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Cristina R. Bareño
 ---

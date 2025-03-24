@@ -3,10 +3,10 @@ title: "12 pueblos blancos de la Sierra Cádiz que debes incluir en tu ruta"
 date: 2018-11-02
 coverImage: https://fotos.etheriamagazine.com/2018/10/5-Zahara-de-la-sierra-pueblos-blancos-cadiz-e1556353254846.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - de-un-vistazo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

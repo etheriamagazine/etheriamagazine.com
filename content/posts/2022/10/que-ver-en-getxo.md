@@ -3,7 +3,9 @@ title: "Descubre el Getxo más cultural, 15 lugares imprescindibles en tu agenda
 date: 2022-10-10
 coverImage: https://fotos.etheriamagazine.com/2022/10/paseo-grandes-villas-getxo.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

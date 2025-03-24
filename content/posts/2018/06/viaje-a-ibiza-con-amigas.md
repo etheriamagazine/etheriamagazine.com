@@ -3,7 +3,9 @@ title: "10 errores que debes evitar si vas a Ibiza con amigas"
 date: 2018-06-25
 coverImage: https://fotos.etheriamagazine.com/2018/05/Ibiza-atardecer_Benirras_consell-e1551949129730.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Nuria Cortés
 ---

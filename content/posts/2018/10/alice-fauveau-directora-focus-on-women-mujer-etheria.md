@@ -3,8 +3,9 @@ title: "Alice Fauveau: \"Cantaba por las calles para ganar dinero y poder seguir
 date: 2018-10-15
 coverImage: https://fotos.etheriamagazine.com/2018/09/Alice-Fauveau-Women-Etheria-magazine.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

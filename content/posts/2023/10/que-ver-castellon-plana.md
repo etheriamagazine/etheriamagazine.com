@@ -3,9 +3,10 @@ title: "Cómo organizar un día en Castellón para no perderte sus tesoros"
 date: 2023-10-02
 coverImage: https://fotos.etheriamagazine.com/2023/10/farola-modernista-castellon.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

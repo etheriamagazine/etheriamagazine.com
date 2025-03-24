@@ -3,10 +3,10 @@ title: "Guía de viaje de Sania Jelic para recorrer Namibia"
 date: 2024-02-09
 coverImage: https://fotos.etheriamagazine.com/2024/02/sania-namibia-desierto-namib.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
   - viajar-sola
+  - mujeres-top
+destino: 
+  - Mundo
 authors: 
   - Sania Jelic
 ---

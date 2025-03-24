@@ -3,7 +3,9 @@ title: "Ruta por Ribera del Duero: de bodega en bodega por la N-122"
 date: 2018-05-21
 coverImage: https://fotos.etheriamagazine.com/2018/05/Finca-Villacreces.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

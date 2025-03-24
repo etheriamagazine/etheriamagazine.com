@@ -2,8 +2,8 @@
 title: "6 experiencias inolvidables en el Algarve con tus mejores amigas"
 date: 2021-10-07
 coverImage: https://fotos.etheriamagazine.com/2021/10/algarve-amigas-excursiones.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Susana García
 ---

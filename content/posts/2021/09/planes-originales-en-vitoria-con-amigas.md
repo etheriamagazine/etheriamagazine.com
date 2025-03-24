@@ -3,10 +3,10 @@ title: "Planes en Vitoria con amigas dispuestas al picoteo"
 date: 2021-09-15
 coverImage: https://fotos.etheriamagazine.com/2021/09/plaza-virgen-blanca-vitoria.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

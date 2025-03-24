@@ -3,10 +3,11 @@ title: "Claves para disfrutar de una escapada a Bruselas por amor al arte"
 date: 2024-11-22
 coverImage: https://fotos.etheriamagazine.com/2024/11/Bruselas-Galeria-Costermans.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-sola
+  - cultura
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

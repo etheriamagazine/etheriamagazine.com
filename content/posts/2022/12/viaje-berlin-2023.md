@@ -3,8 +3,9 @@ title: "Qué hay de nuevo en Berlín: hoteles, restaurantes y museos"
 date: 2022-12-07
 coverImage: https://fotos.etheriamagazine.com/2022/12/berlin-atardecer.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

@@ -3,7 +3,9 @@ title: "Tres mujeres polacas que han hecho del mundo un lugar mejor"
 date: 2023-03-08
 coverImage: https://fotos.etheriamagazine.com/2023/03/mujer-polaca-wislawa-szymborska.jpg
 categories: 
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

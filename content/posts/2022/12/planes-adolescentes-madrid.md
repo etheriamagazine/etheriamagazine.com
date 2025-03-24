@@ -3,7 +3,9 @@ title: "Planes divertidos con adolescentes en Madrid"
 date: 2022-12-16
 coverImage: https://fotos.etheriamagazine.com/2022/12/madrid-sweet-space-nevera.jpg
 categories: 
-  - viaje-en-familia
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

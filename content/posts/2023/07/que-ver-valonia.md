@@ -3,8 +3,9 @@ title: "12 motivos por los que viajar a Valonia, la región más desconocida de 
 date: 2023-07-03
 coverImage: https://fotos.etheriamagazine.com/2023/06/Valonia-Grand-Place-Mons.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

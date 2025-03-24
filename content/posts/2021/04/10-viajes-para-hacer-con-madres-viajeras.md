@@ -3,9 +3,10 @@ title: "10 viajes con tu madre para celebrar su día"
 date: 2021-04-19
 coverImage: https://fotos.etheriamagazine.com/2021/04/viaje-madre-hija.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,9 +3,9 @@ title: "Organiza tu viaje a Eslovenia con amigas: un territorio no apto para per
 date: 2018-07-27
 coverImage: https://fotos.etheriamagazine.com/2018/07/Tolmin-eslovenia-viaje-aventura-e1578223707836.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Nuria Cortés
 ---

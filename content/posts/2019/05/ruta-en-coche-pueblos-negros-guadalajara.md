@@ -3,10 +3,9 @@ title: "Respirar ‘a pulmón abierto’ en los Pueblos Negros de Guadalajara"
 date: 2019-05-06
 coverImage: https://fotos.etheriamagazine.com/2019/05/viaje-pueblos-negros-Valverde-de-los-Arroyos.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

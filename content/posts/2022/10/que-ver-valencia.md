@@ -3,7 +3,9 @@ title: "Guía esencial de Valencia, imprescindibles en una ciudad que mira al fu
 date: 2022-10-03
 coverImage: https://fotos.etheriamagazine.com/2022/09/valencia-ciudad-artes.jpg
 categories: 
-  - de-un-vistazo
+  - inspiración
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

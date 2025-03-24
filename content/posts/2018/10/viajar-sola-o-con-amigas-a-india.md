@@ -3,9 +3,9 @@ title: "¿Puedo viajar sola o con amigas a India?"
 date: 2018-10-19
 coverImage: https://fotos.etheriamagazine.com/2018/10/ganges-varanasi-mujeres-india.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Cristina R. Bareño
 ---

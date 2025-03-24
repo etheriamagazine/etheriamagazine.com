@@ -3,7 +3,9 @@ title: "Diez destinos a los que viajaremos este año"
 date: 2020-12-31
 coverImage: https://fotos.etheriamagazine.com/2020/12/bogota-viajes-2021.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

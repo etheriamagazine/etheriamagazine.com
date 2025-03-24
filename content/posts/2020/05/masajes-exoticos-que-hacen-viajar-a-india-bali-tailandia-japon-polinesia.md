@@ -3,7 +3,9 @@ title: "Descubre en qué consisten los masajes más habituales"
 date: 2020-05-07
 coverImage: https://fotos.etheriamagazine.com/2020/05/tipos-masajes-balines.jpg
 categories: 
-  - bienestar-belleza
+  - bienestar
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

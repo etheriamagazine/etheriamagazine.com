@@ -3,7 +3,9 @@ title: "Gana un viaje a Costa Rica con Etheria Magazine"
 date: 2022-09-01
 coverImage: https://fotos.etheriamagazine.com/2022/09/playa-cocles-gandoca.jpg
 categories: 
-  - sorteos-y-concursos
+  - sorteos
+destino: 
+  - España
 authors: 
   - Etheria Magazine
 ---

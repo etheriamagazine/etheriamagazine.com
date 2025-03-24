@@ -3,9 +3,9 @@ title: "Marrakech con amigas, visitas para un fin de semana intenso"
 date: 2018-12-27
 coverImage: https://fotos.etheriamagazine.com/2019/11/marrakech-viajes-mayores-55.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Macarena Escrivá
 ---

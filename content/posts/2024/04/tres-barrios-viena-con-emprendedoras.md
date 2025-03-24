@@ -3,11 +3,11 @@ title: "Viena con amigas, proyectos en femenino en tres barrios sorprendentes de
 date: 2024-04-26
 coverImage: https://fotos.etheriamagazine.com/2024/04/viena-Manuela-Torres.jpg
 categories: 
-  - viajes-con-amigas
-  - historias-en-femenino
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - historias
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

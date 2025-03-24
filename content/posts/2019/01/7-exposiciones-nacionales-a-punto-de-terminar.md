@@ -3,10 +3,11 @@ title: "7 exposiciones con los días contados que no puedes perderte"
 date: 2019-01-16
 coverImage: https://fotos.etheriamagazine.com/2019/01/Exposición-Tamara-de-Lempicka.jpg
 categories: 
-  - organiza-tu-viaje
-  - de-un-vistazo
-  - exposiciones
-  - planes-cultura-ocio
+  - inspiración
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

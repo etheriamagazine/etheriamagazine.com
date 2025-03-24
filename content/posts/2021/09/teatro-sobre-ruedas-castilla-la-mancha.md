@@ -3,8 +3,9 @@ title: "'Teatro sobre ruedas' saca a escena a los pueblos de Castilla-La Mancha"
 date: 2021-09-13
 coverImage: https://fotos.etheriamagazine.com/2021/09/teatro-andante-castilla-la-mancha.jpg
 categories: 
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

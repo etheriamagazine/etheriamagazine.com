@@ -4,6 +4,8 @@ date: 2018-06-12
 coverImage: https://fotos.etheriamagazine.com/2018/06/Spa-Thalassotherapy-Bahiadelduque-e1668768608982.jpg
 categories: 
   - hoteles
+destino: 
+  - España
 authors: 
   - Susana García
 ---

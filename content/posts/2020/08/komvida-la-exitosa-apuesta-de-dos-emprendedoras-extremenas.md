@@ -3,9 +3,10 @@ title: "Komvida, un proyecto creado por dos emprendedoras extremeñas"
 date: 2020-08-10
 coverImage: https://fotos.etheriamagazine.com/2020/08/Komvida-portada.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

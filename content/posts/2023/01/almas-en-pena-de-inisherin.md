@@ -3,7 +3,9 @@ title: "'Almas en pena de Inisherin', paisajes de cine en Irlanda"
 date: 2023-01-30
 coverImage: https://fotos.etheriamagazine.com/2023/01/almas-pena-inisherin-1.jpg
 categories: 
-  - viajes-cine
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

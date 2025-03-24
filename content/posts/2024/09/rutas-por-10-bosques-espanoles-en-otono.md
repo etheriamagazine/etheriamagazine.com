@@ -3,8 +3,9 @@ title: "Rutas ideales por 10 bosques españoles a los que el otoño saca su mejo
 date: 2024-09-21
 coverImage: https://fotos.etheriamagazine.com/2021/09/bosque-otono-hoz-jucar.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

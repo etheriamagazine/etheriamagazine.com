@@ -3,8 +3,9 @@ title: "Ruta por la España de las grandes escritoras del siglo XX (2ª parte)"
 date: 2020-06-26
 coverImage: https://fotos.etheriamagazine.com/2020/06/2-cubierta-la-mujer-moderna.jpg
 categories: 
-  - historias-en-femenino
-  - viajes-para-mujeres
+  - historias
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

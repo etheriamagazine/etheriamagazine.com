@@ -3,9 +3,7 @@ title: "NH Collection Dubai The Palm, un hotel perfecto para descubrir los Emira
 date: 2024-03-06
 coverImage: https://fotos.etheriamagazine.com/2024/03/NH-Collection-Dubai-The_Palm-pisicna-.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
 authors: 
   - Redacción Etheria
 ---

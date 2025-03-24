@@ -3,9 +3,10 @@ title: "11 viajes para enamorarte de Italia"
 date: 2020-08-03
 coverImage: https://fotos.etheriamagazine.com/2019/07/vernazza-cinque-terre.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

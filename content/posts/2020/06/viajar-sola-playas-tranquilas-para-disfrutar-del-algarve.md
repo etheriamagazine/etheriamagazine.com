@@ -3,9 +3,10 @@ title: "Playas del Algarve, descubre sus tesoros menos masificados"
 date: 2020-06-19
 coverImage: https://fotos.etheriamagazine.com/2020/06/playas-Algarve-Armona.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-cultura-ocio
   - viajar-sola
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

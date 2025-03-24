@@ -3,9 +3,9 @@ title: "5 experiencias originales en el Alentejo"
 date: 2018-11-08
 coverImage: https://fotos.etheriamagazine.com/2018/11/museo-cafe-alentejo-portugal-e1658936074607.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

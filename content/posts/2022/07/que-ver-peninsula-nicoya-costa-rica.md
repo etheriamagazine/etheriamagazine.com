@@ -3,14 +3,18 @@ title: "Descubre la esencia de la Península de Nicoya, tierra de artesanas y na
 date: 2022-07-15
 coverImage: https://fotos.etheriamagazine.com/2022/07/costa-rica-surf-Playa-Teresa.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---
 
-La Península de Nicoya es la tierra de Ruth Guevara, el marco donde sus creaciones cobran vida y se convierten en codiciados recuerdos para los viajeros. Este rincón de Costa Rica nos habla de tradición, de historia y de un marco natural idóneo para la práctica del surf y del yoga. Descubre por qué es “urgente” viajar a este idílico destino.
+La Península de Nicoya es la tierra de Ruth Guevara, el marco donde sus creaciones 
+cobran vida y se convierten en codiciados recuerdos para los viajeros. Este rincón de 
+Costa Rica nos habla de tradición, de historia y de un marco natural idóneo para la 
+práctica del surf y del yoga. Descubre por qué es “urgente” viajar a este idílico 
+destino. 
 
 ![Atardecer en la playa de Santa Teresa, en la Península de Nicoya (Costa Rica).](https://fotos.etheriamagazine.com/2022/07/costa-rica-atardecer-santa-teresa.jpg "Atardecer en la playa de Santa Teresa, en la Península de Nicoya (Costa Rica).")
 
@@ -162,7 +166,7 @@ y una soledad abrumadoras.
 
 ![Playa virgen del Refugio Nacional de Vida Silvestre Curú](https://fotos.etheriamagazine.com/2022/07/costa-rica-Curu.jpg "Refugio Nacional de Vida Silvestre Curú. © Joan Vendrell")
 
-📍Si eres una enamorada de la vida natural, toma nota también del: 
+Si eres una enamorada de la vida natural, toma nota también del: 
 
 • **Refugio Nacional de Vida Silvestre Curú**, que se extiende desde Punta Quesera hasta 
 Punta Curú. El paisaje formado por manglares y bosques de transición tropical seco a 
@@ -219,10 +223,10 @@ remo parece desprender partículas de color azul eléctrico en cada impulso. Mar
 
 En los viajes de larga distancia se agradece contar con iniciativas que promuevan el 
 turismo rural y social. Una propuesta que te interesa conocer en viajes a Costa Rica es 
-la de [Active Woman](https://activewoman.es/), que impulsa el empleo entre las mujeres 
-locales. Con esta agencia vas a aprender sobre la cultura local y las tradiciones más 
-auténticas, al tiempo que contribuyes a impulsar el turismo responsable como herramienta 
-para mejorar la vida de las mujeres costarricenses. 
+la de Active Woman, que impulsa el empleo entre las mujeres locales. Con esta agencia 
+vas a aprender sobre la cultura local y las tradiciones más auténticas, al tiempo que 
+contribuyes a impulsar el turismo responsable como herramienta para mejorar la vida de 
+las mujeres costarricenses. 
 
 En un **viaje de 11 días en Costa Rica** tendrás la oportunidad de mantener encuentros 
 con mujeres emprendedoras artesanas, podrás descubrir la historia del chocolate, cocinar 
@@ -238,13 +242,12 @@ promueven el consumo responsable, trabajando por el **empoderamiento de la mujer
 formación profesional (ODS 5). Esta agencia promociona el turismo rural sostenible en 
 cualquier continente pero poniendo el centro, sobre todo, en la mujer rural. 
 
-📍Más información sobre la Península de Nicoya en [Turismo 
-d](https://www.visitcostarica.com/es)[e](https://www.visitcostarica.com/es) [Costa 
+Más información sobre la Península de Nicoya en [Turismo de Costa 
 Rica](https://www.visitcostarica.com/es)**.** 
 
 Fotos: Visit Costa Rica 
 
-### También te puede interesar...
+**También te puede interesar...** 
 
 [Costa Rica: de ‘la aventura quetzal’ a la nouvelle 
 cuisine](https://etheriamagazine.com/2021/12/17/ruta-quetzal-costa-rica/). 

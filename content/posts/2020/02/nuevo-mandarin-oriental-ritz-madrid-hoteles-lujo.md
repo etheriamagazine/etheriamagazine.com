@@ -3,9 +3,9 @@ title: "3 razones por las que querrás visitar el nuevo Mandarin Oriental Ritz M
 date: 2020-02-18
 coverImage: https://fotos.etheriamagazine.com/2020/02/Mandarin-Oriental-RitzPalm-Court.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

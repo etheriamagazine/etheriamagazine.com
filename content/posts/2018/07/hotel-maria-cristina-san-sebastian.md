@@ -4,6 +4,8 @@ date: 2018-07-21
 coverImage: https://fotos.etheriamagazine.com/2018/04/HOTEL-MARIA-CRISTINA-HDHotelMariaCristinaSanSebastianExteriorviewatnight.jpg
 categories: 
   - hoteles
+destino: 
+  - España
 authors: 
   - Susana García
 ---

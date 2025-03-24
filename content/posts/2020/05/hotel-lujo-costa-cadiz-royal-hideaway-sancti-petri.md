@@ -3,9 +3,9 @@ title: "Royal Hideaway Sancti Petri, un hotel Barceló para disfrutar de la Cost
 date: 2020-05-21
 coverImage: https://fotos.etheriamagazine.com/2020/05/Royal-hideaway-sancti-petri-piscinas.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,7 +3,9 @@ title: "Ruta del Atún Rojo de Cádiz, de Conil a Tarifa por la orilla del mar"
 date: 2018-06-12
 coverImage: https://fotos.etheriamagazine.com/2018/06/tartar-ruta-del-atun.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

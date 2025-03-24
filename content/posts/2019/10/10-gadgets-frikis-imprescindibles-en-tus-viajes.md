@@ -3,9 +3,10 @@ title: "10 gadgets imprescindibles en tus viajes"
 date: 2019-10-26
 coverImage: https://fotos.etheriamagazine.com/2019/10/gadget-equipaje-mujer-viajera.jpg
 categories: 
-  - consejos-practicos
-  - que-llevar-en-la-maleta
-  - viajes-para-mujeres
+  - inspiración
+  - qué-llevar-en-la-maleta
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

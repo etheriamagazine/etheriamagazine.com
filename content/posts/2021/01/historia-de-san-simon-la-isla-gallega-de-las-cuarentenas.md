@@ -3,9 +3,9 @@ title: "Historia de la isla de San Simón, de lazareto a campo de concentración
 date: 2021-01-04
 coverImage: https://fotos.etheriamagazine.com/2020/12/isla-pandemias-san-simon-jardines.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

@@ -3,8 +3,9 @@ title: "Laponia con niños, un viaje irrepetible"
 date: 2018-09-07
 coverImage: https://fotos.etheriamagazine.com/2018/04/7-NUESTROS-TOP-LAPONIA-FOTO-7.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

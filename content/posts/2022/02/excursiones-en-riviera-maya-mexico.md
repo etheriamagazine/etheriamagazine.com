@@ -3,11 +3,11 @@ title: "10 excursiones a la Riviera Maya para incluir en tu viaje"
 date: 2022-02-01
 coverImage: https://fotos.etheriamagazine.com/2022/01/Riviera-maya-cenote-tortuga.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

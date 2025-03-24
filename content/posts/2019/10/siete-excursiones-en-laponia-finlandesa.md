@@ -3,11 +3,11 @@ title: "7 excursiones que no puedes perderte en la Laponia finlandesa"
 date: 2019-10-31
 coverImage: https://fotos.etheriamagazine.com/2019/10/Laponia-finlandesa-aurora-boreal.jpg
 categories: 
-  - consejos-practicos
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

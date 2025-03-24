@@ -3,11 +3,10 @@ title: "Qué hacer en Oslo en una visita exprés"
 date: 2018-07-13
 coverImage: https://fotos.etheriamagazine.com/2018/04/1-Mujeres-Viajeras-en-Oslo-e1566888890200.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - planes-cultura-ocio
-  - viajes-urbanos
   - viajar-sola
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

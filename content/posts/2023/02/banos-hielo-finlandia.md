@@ -3,7 +3,9 @@ title: "Por qué deberías bañarte en el hielo en Finlandia"
 date: 2023-02-22
 coverImage: https://fotos.etheriamagazine.com/2023/02/finlandia-banarte-hielo-Karelia.jpg
 categories: 
-  - experiencias-viajeras
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

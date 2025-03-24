@@ -3,9 +3,9 @@ title: "Hotel Barceló La Nucía Palms, lujo y relax a un paso de las playas de 
 date: 2023-09-25
 coverImage: https://fotos.etheriamagazine.com/2023/09/barcelo-la-nuncia-palms-piscina.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

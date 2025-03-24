@@ -3,8 +3,9 @@ title: "Dos pueblos de Burgos con aroma de lavanda: Caleruega y Cilleruelo de Ar
 date: 2024-06-11
 coverImage: https://fotos.etheriamagazine.com/2024/06/Campos-lavanda-Caleruega.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,10 +3,9 @@ title: "Así son las mujeres de Brujas (y no, no son brujas)"
 date: 2019-07-03
 coverImage: https://fotos.etheriamagazine.com/2019/06/viaje-flandes-mujeres-paseo-bicicleta.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Kelu Robles
 ---

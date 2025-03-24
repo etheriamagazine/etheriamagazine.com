@@ -3,9 +3,10 @@ title: "Tenerife, la isla que necesitas si quieres impulsar tu creatividad"
 date: 2022-06-03
 coverImage: https://fotos.etheriamagazine.com/2022/05/Portada-nomada-digital-tenerife.jpg
 categories: 
-  - historias-en-femenino
-  - viajes-para-mujeres
   - viajar-sola
+  - historias
+destino: 
+  - España
 authors: 
   - Firmas invitadas
 ---

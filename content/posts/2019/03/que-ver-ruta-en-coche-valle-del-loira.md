@@ -3,10 +3,10 @@ title: "Ruta en coche por el Valle del Loira"
 date: 2019-03-14
 coverImage: https://fotos.etheriamagazine.com/2019/03/chateau-amboise-1.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

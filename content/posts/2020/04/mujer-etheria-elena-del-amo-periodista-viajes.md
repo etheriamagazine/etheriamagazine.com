@@ -3,9 +3,9 @@ title: "Elena del Amo: \"Recomendaría viajar a quien esté dispuesto a abrirse 
 date: 2020-04-25
 coverImage: https://fotos.etheriamagazine.com/2020/04/elena-del-amo-sri-lanka.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

@@ -3,8 +3,9 @@ title: "Una guía para que no te dejes (casi) nada por ver en Manhattan"
 date: 2024-01-11
 coverImage: https://fotos.etheriamagazine.com/2024/01/manhattan-ferry.jpg
 categories: 
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-sola
+destino: 
+  - España
 authors: 
   - Susana García
 ---

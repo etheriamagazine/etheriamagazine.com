@@ -3,8 +3,9 @@ title: "Carmona, Itálica y Doñana, una trilogía hispalense para un fin de sem
 date: 2020-07-13
 coverImage: https://fotos.etheriamagazine.com/2020/06/etheria-carmona-Torre-de-la-Iglesia-de-San-Pedro-y-La-Giraldilla.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

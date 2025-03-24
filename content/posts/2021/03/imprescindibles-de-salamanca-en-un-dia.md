@@ -3,10 +3,10 @@ title: "Salamanca en un día, pistas básicas para una visita cultural"
 date: 2021-03-14
 coverImage: https://fotos.etheriamagazine.com/2018/05/2-Viajar-sola-a-Salamanca.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-cultura-ocio
-  - viajes-para-mujeres
   - viajar-sola
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

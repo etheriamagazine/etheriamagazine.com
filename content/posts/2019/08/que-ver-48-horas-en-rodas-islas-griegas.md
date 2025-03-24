@@ -3,10 +3,10 @@ title: "Rodas, el primer paso para enamorarse de las Islas Griegas"
 date: 2019-08-14
 coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-rodas-Monolithos-Castle-e1564342953764.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Juan Carlos y Mar
 ---

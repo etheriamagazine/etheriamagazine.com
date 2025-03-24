@@ -3,9 +3,10 @@ title: "Sigue los pasos de Friedrich en Alemania en el 250 aniversario de su nac
 date: 2024-08-15
 coverImage: https://fotos.etheriamagazine.com/2024/08/friedrich-paisaje-dresde-mujer.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - cultura
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

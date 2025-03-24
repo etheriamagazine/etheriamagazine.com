@@ -3,10 +3,10 @@ title: "12 buenas excusas para viajar en 2022"
 date: 2022-01-07
 coverImage: https://fotos.etheriamagazine.com/2022/01/museo-Munch.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

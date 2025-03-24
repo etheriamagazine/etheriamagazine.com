@@ -3,10 +3,9 @@ title: "San Pedro de Atacama, la capital del 'buenrollismo’ está en Chile"
 date: 2019-01-04
 coverImage: https://fotos.etheriamagazine.com/2018/12/Valle-de-la-luna-atacama-chile-Etheria-magazine-e1655218795898.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Mundo
 authors: 
   - Kelu Robles
 ---

@@ -3,8 +3,9 @@ title: "'3 caminos' y 'Caminantes', emoción o terror en el Camino de Santiago"
 date: 2021-02-11
 coverImage: https://fotos.etheriamagazine.com/2021/02/3-Caminos-serie-amazon.jpg
 categories: 
-  - viajes-cine
-  - viajes-para-mujeres
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Eva Madruga
 ---

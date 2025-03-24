@@ -3,9 +3,10 @@ title: "10 razones por las que deberías hacer un safari en Botsuana"
 date: 2018-11-22
 coverImage: https://fotos.etheriamagazine.com/2018/11/Bostsuana-viaje-fauna-africa-e1552208227696.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Mundo
 authors: 
   - Juan Carlos y Mar
 ---

@@ -2,9 +2,8 @@
 title: "Andalucía en autocaravana y consejos prácticos para novatos"
 date: 2021-04-07
 coverImage: https://fotos.etheriamagazine.com/2021/04/autocaravana-estacionar.jpg
-categories: 
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

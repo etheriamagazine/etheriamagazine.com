@@ -3,7 +3,9 @@ title: "Chiang Mai en 3 días, una guía esencial para explorar el norte de Tail
 date: 2021-01-08
 coverImage: https://fotos.etheriamagazine.com/2021/01/Chiang-Mai-Wat-Phra-Singh-tejados.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
+destino: 
+  - Mundo
 authors: 
   - Pepa G. Marín
 ---

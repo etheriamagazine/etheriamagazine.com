@@ -3,9 +3,9 @@ title: "Castillo Hotel Son Vida, una experiencia de lujo inolvidable"
 date: 2022-04-20
 coverImage: https://fotos.etheriamagazine.com/2022/04/Son-vida-fachada.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

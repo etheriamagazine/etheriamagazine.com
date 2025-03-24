@@ -3,8 +3,10 @@ title: "Mary Ellen Mark desnuda la realidad en “Vida de Mujeres”"
 date: 2021-04-02
 coverImage: https://fotos.etheriamagazine.com/2021/04/Mary-Ellen-Mark-Amanda-y-su-prima-Amy-1990.jpg
 categories: 
-  - exposiciones
-  - planes-cultura-ocio
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

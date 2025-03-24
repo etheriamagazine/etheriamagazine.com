@@ -3,9 +3,10 @@ title: "Regala los mejores libros de cócteles de todos los tiempos"
 date: 2020-11-23
 coverImage: https://fotos.etheriamagazine.com/2020/11/libros-cocteles-modernos.jpg
 categories: 
-  - regalos-compras-viajeras
-  - organiza-tu-viaje
-  - libros-de-viajes
+  - compras
+  - cultura
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

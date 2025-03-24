@@ -3,10 +3,11 @@ title: "Prepara tu viaje a Egipto con libros y películas"
 date: 2021-03-01
 coverImage: https://fotos.etheriamagazine.com/2021/02/Egipto-viajar-pinturas.jpg
 categories: 
-  - consejos-practicos
-  - de-un-vistazo
-  - libros-de-viajes
-  - planes-cultura-ocio
+  - inspiración
+  - cultura
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

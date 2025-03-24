@@ -3,8 +3,9 @@ title: "Lo que unió al Che Guevara y Manuel de Falla en Alta Gracia (Argentina)
 date: 2019-02-20
 coverImage: https://fotos.etheriamagazine.com/2019/02/Viaje-cordoba-che-guevara.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

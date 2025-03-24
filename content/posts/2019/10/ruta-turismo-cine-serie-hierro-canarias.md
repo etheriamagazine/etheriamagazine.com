@@ -3,9 +3,9 @@ title: "El Hierro, una isla que desvela sus encantos en el cine"
 date: 2019-10-21
 coverImage: https://fotos.etheriamagazine.com/2019/10/serie-hierro.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

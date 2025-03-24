@@ -3,10 +3,10 @@ title: "Cristina Calvo, de Asuaire Travel: “Más que diferencias, todos tenemo
 date: 2019-01-07
 coverImage: https://fotos.etheriamagazine.com/2019/01/cristina-calvo-mujer-etheria.jpeg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

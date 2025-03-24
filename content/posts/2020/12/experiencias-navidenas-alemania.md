@@ -3,9 +3,10 @@ title: "10 experiencias navideñas en Alemania a través de sus länder"
 date: 2020-12-10
 coverImage: https://fotos.etheriamagazine.com/2020/12/Alemania-Baviera-Ramsau.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

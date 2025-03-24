@@ -3,9 +3,10 @@ title: "Kiev, ocho razones por las que amarás esta ciudad"
 date: 2020-02-05
 coverImage: https://fotos.etheriamagazine.com/2020/01/Kiev-san-miguel-de-las-cupulas-doradas.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Elena Ortega
 ---

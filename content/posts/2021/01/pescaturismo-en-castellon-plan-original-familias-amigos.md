@@ -3,11 +3,10 @@ title: "Pescaturismo en Castellón, un plan original para hacer con amigas o en 
 date: 2021-01-12
 coverImage: https://fotos.etheriamagazine.com/2020/05/amanecer-pescaturismo.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

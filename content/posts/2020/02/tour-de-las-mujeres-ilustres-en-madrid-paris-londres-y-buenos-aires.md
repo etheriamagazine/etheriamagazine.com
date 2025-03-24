@@ -3,9 +3,9 @@ title: "Tour de las Mujeres Ilustres en Madrid, París, Londres y Buenos Aires"
 date: 2020-02-27
 coverImage: https://fotos.etheriamagazine.com/2020/02/tour-mujeres-madrid.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,11 +3,11 @@ title: "12 consejos para aprovechar tu viaje a Disneyland Paris"
 date: 2018-11-06
 coverImage: https://fotos.etheriamagazine.com/2018/10/Disneyland-viaje-familia-1-e1577797377918.jpg
 categories: 
-  - consejos-practicos
-  - viaje-en-familia
-  - parques-ocio
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Yvonne Solé
 ---

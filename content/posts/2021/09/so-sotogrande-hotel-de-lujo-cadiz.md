@@ -4,6 +4,8 @@ date: 2021-09-27
 coverImage: https://fotos.etheriamagazine.com/2021/09/so-sotogrande-piscina.jpg
 categories: 
   - hoteles
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

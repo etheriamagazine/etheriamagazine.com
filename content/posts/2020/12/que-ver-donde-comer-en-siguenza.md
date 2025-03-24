@@ -3,8 +3,9 @@ title: "Sigüenza: del pasado medieval a la Movida madrileña"
 date: 2020-12-14
 coverImage: https://fotos.etheriamagazine.com/2020/12/parador-de-siguenza.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

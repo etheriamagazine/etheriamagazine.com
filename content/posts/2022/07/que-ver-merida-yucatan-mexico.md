@@ -3,9 +3,9 @@ title: "Mil razones para enamorarse de la Mérida mexicana"
 date: 2022-07-18
 coverImage: https://fotos.etheriamagazine.com/2022/07/que-ver-merida-mexico-portada.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Cris Aizpeolea
 ---

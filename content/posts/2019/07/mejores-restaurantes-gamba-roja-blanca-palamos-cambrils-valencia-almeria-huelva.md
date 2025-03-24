@@ -3,9 +3,9 @@ title: "Ruta de la gamba roja, lugares donde chuparse los dedos está bien visto
 date: 2019-07-02
 coverImage: https://fotos.etheriamagazine.com/2019/06/gamba-roja-experiencia-señor-martin.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

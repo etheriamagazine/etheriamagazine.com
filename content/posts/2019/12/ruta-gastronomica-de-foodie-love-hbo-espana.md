@@ -3,11 +3,10 @@ title: "Ruta gastronómica de 'Foodie Love' (HBO España)"
 date: 2019-12-16
 coverImage: https://fotos.etheriamagazine.com/2019/12/pelicula-foodie-love.jpg
 categories: 
-  - viajes-cine
-  - viajes-con-amigas
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

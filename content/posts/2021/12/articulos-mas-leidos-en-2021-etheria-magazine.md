@@ -3,9 +3,10 @@ title: "Los 10 artículos más leídos de 2021 son nacionales"
 date: 2021-12-31
 coverImage: https://fotos.etheriamagazine.com/2021/12/cala-conil-frailecillo.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

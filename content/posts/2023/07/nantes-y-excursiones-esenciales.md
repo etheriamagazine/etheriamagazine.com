@@ -3,8 +3,9 @@ title: "Apuntes para un “bon voyage” a la sorprendente Nantes y sus viñedos
 date: 2023-07-31
 coverImage: https://fotos.etheriamagazine.com/2023/07/vinhedos-Le-Domaine-Genaudieres.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

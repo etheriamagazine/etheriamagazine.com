@@ -3,8 +3,9 @@ title: "Baena, Montilla y Puente Genil, una ruta por la campiña cordobesa"
 date: 2021-05-25
 coverImage: https://fotos.etheriamagazine.com/2021/05/Baena-Parque-Arqueologico-Torreparedones-vistas.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

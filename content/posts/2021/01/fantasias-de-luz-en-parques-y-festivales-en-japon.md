@@ -3,8 +3,9 @@ title: "Cuatro fantasías lumínicas para alucinar en Japón"
 date: 2021-01-16
 coverImage: https://fotos.etheriamagazine.com/2021/01/japon-Huis-Ten-Bosh.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - Mundo
 authors: 
   - Redacción Etheria
 ---

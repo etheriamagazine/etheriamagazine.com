@@ -3,9 +3,9 @@ title: "Iberostar Selection Fuerteventura Palace, tu hotel de lujo en Fuertevent
 date: 2021-11-11
 coverImage: https://fotos.etheriamagazine.com/2021/11/Iberostar-fuerteventura-piscina.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

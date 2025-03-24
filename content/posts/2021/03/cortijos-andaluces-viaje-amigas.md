@@ -3,9 +3,10 @@ title: "9 preciosos cortijos andaluces para recibir a la primavera"
 date: 2021-03-16
 coverImage: https://fotos.etheriamagazine.com/2021/03/cortijo-bravo-malaga.jpg
 categories: 
-  - viajes-con-amigas
+  - viajar-con-amigas
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Rosa Marqués
 ---

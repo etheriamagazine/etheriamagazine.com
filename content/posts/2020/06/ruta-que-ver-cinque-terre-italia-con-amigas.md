@@ -3,9 +3,9 @@ title: "Cinque Terre, los cinco pueblos más bonitos de Liguria"
 date: 2020-06-04
 coverImage: https://fotos.etheriamagazine.com/2019/07/cinque-terre.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

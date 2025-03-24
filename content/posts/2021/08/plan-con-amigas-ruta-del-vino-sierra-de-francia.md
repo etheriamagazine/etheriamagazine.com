@@ -3,9 +3,9 @@ title: "Ruta del Vino de la Sierra de Francia, un brindis con amigas en Salamanc
 date: 2021-08-11
 coverImage: https://fotos.etheriamagazine.com/2021/08/Mogarraz-Salamanca.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

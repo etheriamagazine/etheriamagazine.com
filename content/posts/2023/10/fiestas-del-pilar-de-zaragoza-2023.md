@@ -3,8 +3,9 @@ title: "4 planazos para disfrutar de las Fiestas del Pilar en Zaragoza"
 date: 2023-10-10
 coverImage: https://fotos.etheriamagazine.com/2023/10/Rodrigo-Cuevas.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

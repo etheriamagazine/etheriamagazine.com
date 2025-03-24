@@ -3,9 +3,9 @@ title: "10 + 1 libros recomendados que son un regalazo"
 date: 2019-12-24
 coverImage: https://fotos.etheriamagazine.com/2019/12/libros-recomendados-100-mujeres.jpg
 categories: 
-  - organiza-tu-viaje
-  - libros-de-viajes
-  - viajes-para-mujeres
+  - cultura
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

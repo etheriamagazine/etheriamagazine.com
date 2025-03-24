@@ -3,9 +3,9 @@ title: "Ruta de Juego de Tronos en Irlanda del Norte"
 date: 2018-07-02
 coverImage: https://fotos.etheriamagazine.com/2018/05/3-Castle-Ward-Juego-de-Tronos-Irlanda-Norte.jpg
 categories: 
-  - viajes-cine
-  - viajes-con-amigas
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

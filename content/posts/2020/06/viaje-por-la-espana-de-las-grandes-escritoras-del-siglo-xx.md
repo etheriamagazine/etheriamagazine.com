@@ -3,9 +3,10 @@ title: "Ruta por la España de las grandes escritoras del siglo XX (Parte I)"
 date: 2020-06-15
 coverImage: https://fotos.etheriamagazine.com/2020/06/sinsombrero.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-que-inspiran
-  - viajes-para-mujeres
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

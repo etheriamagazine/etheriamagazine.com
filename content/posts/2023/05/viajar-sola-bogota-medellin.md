@@ -3,9 +3,10 @@ title: "Bogotá y Medellín, consejos básicos de Sania para visitarlas"
 date: 2023-05-03
 coverImage: https://fotos.etheriamagazine.com/2023/04/sania-colombia-lago-dorado.jpg
 categories: 
-  - historias-en-femenino
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - historias
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Sania Jelic
 ---

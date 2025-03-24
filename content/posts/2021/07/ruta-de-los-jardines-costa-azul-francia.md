@@ -3,9 +3,9 @@ title: "Ruta por los jardines y perfumes de la Costa Azul"
 date: 2021-07-07
 coverImage: https://fotos.etheriamagazine.com/2021/06/Costa-Azul-Expo-Rosas-Grasse.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Carmen Pineda
 ---

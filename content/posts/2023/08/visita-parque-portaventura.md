@@ -3,10 +3,10 @@ title: "Cómo organizar un viaje a PortAventura World"
 date: 2023-08-23
 coverImage: https://fotos.etheriamagazine.com/2023/08/port-aventura-Mediterrania.jpg
 categories: 
-  - viaje-en-familia
-  - parques-ocio
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

@@ -3,9 +3,10 @@ title: "El Muelle de las Carabelas, un plan ideal en La Rábida para hacer con n
 date: 2018-09-20
 coverImage: https://fotos.etheriamagazine.com/2018/09/Huelva-Parque-Carabelas-conjunto.jpg
 categories: 
-  - viaje-en-familia
-  - parques-ocio
-  - planes-cultura-ocio
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

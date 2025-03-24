@@ -3,8 +3,9 @@ title: "Munduk, una escapada romántica al Bali más auténtico"
 date: 2024-07-24
 coverImage: https://fotos.etheriamagazine.com/2024/07/bali-arrozales-Jatiluwih.jpg
 categories: 
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

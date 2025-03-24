@@ -3,10 +3,10 @@ title: "Despierta tu lado más friki: 9 destinos de cine y series"
 date: 2020-03-20
 coverImage: https://fotos.etheriamagazine.com/2019/06/viajes-cine-malta-juego-tronos.jpg
 categories: 
-  - viajes-cine
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

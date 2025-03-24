@@ -3,10 +3,9 @@ title: "Fin de semana Londres, qué hacer para exprimirlo al máximo"
 date: 2018-09-13
 coverImage: https://fotos.etheriamagazine.com/2018/08/Londres-Westminster.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-urbanos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Manena Munar
 ---

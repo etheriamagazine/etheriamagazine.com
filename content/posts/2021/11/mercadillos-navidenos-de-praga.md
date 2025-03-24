@@ -3,8 +3,9 @@ title: "Mercadillos navideños de Praga, una buena excusa para viajar a Chequia"
 date: 2021-11-10
 coverImage: https://fotos.etheriamagazine.com/2021/11/mercadillos-Praga.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

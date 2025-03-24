@@ -3,8 +3,9 @@ title: "8 excursiones con niños en Alicante"
 date: 2020-05-28
 coverImage: https://fotos.etheriamagazine.com/2020/05/Alicante-Tabarca.jpg
 categories: 
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

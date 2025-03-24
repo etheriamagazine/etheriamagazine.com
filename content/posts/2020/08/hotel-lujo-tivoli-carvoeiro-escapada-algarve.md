@@ -3,9 +3,9 @@ title: "Hotel Tivoli Carvoeiro, tu escondite secreto en el Algarve"
 date: 2020-08-05
 coverImage: https://fotos.etheriamagazine.com/2020/07/hotel-tivoli-cavoeiro-sky-bar.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

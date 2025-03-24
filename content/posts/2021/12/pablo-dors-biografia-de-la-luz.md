@@ -3,8 +3,9 @@ title: "Pablo d'Ors nos invita a “escuchar el sonido del silencio”"
 date: 2021-12-22
 coverImage: https://fotos.etheriamagazine.com/2021/12/kristina-flour-BcjdbyKWquw-unsplash-scaled.jpg
 categories: 
-  - salud-bienestar-nutricion
-  - viajes-para-mujeres
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

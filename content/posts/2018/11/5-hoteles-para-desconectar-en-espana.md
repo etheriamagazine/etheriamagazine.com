@@ -3,10 +3,11 @@ title: "5 hoteles para desconectar sin salir de España"
 date: 2018-11-27
 coverImage: https://fotos.etheriamagazine.com/2018/10/hermitage-spa.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - de-un-vistazo
-  - planes-cultura-ocio
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

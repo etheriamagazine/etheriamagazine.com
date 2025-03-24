@@ -3,10 +3,9 @@ title: "Dos razones bastan para viajar a la isla filipina de Bohol"
 date: 2024-03-13
 coverImage: https://fotos.etheriamagazine.com/2024/03/tarsius-isla-bohol.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-romanticos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

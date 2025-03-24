@@ -3,9 +3,9 @@ title: "Tierra Estella y Tierras de Iranzu, planes para un viaje en familia a Na
 date: 2021-02-08
 coverImage: https://fotos.etheriamagazine.com/2021/01/navarra-nacedero-urederra.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

@@ -3,7 +3,9 @@ title: "Barra libre de ansiolíticos y antidepresivos, ¿se medicalizan los prob
 date: 2021-04-14
 coverImage: https://fotos.etheriamagazine.com/2021/04/ansioliticos-mujeres.jpg
 categories: 
-  - salud-bienestar-nutricion
+  - bienestar
+destino: 
+  - España
 authors: 
   - Maria Miret
 ---

@@ -3,10 +3,10 @@ title: "10 planes para disfrutar al máximo de León en familia"
 date: 2021-07-05
 coverImage: https://fotos.etheriamagazine.com/2021/06/parque-cid-leon-con-ninos.jpg
 categories: 
-  - viaje-en-familia
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - España
 authors: 
   - Eva Madruga
 ---

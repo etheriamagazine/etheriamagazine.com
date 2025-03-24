@@ -3,8 +3,10 @@ title: "Conoce los secretos de Guanacaste y la ilusión de sus emprendedoras"
 date: 2022-10-27
 coverImage: https://fotos.etheriamagazine.com/2022/10/Guanacaste-playa-hermosa.jpg
 categories: 
-  - viajes-con-amigas
-  - historias-en-femenino
+  - viajar-con-amigas
+  - historias
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

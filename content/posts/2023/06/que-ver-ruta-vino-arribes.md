@@ -3,8 +3,9 @@ title: "12 visitas esenciales en la Ruta del Vino de Arribes"
 date: 2023-06-12
 coverImage: https://fotos.etheriamagazine.com/2023/06/ruta-vino-arribes.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

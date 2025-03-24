@@ -3,10 +3,10 @@ title: "5 datos para que te convenzas de que Halloween es irlandés"
 date: 2021-10-23
 coverImage: https://fotos.etheriamagazine.com/2021/10/Irlanda-halloween-Fuegos-de-Samhain.jpg
 categories: 
-  - organiza-tu-viaje
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

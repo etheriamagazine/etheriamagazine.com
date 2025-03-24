@@ -3,9 +3,10 @@ title: "10 yacimientos arqueológicos del mundo para visitar una vez en la vida"
 date: 2023-09-08
 coverImage: https://fotos.etheriamagazine.com/2023/09/yacimiento-templos-bagan.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

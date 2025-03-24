@@ -3,9 +3,10 @@ title: "Vigo, ¿por qué estás tan rematadamente bueno?"
 date: 2020-11-24
 coverImage: https://fotos.etheriamagazine.com/2020/11/Viaje-gastronomico-vigo.jpg
 categories: 
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

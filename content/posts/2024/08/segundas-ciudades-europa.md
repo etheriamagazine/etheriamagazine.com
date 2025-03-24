@@ -3,8 +3,10 @@ title: "10 segundas ciudades de Europa a las que deberías dar una oportunidad"
 date: 2024-08-19
 coverImage: https://fotos.etheriamagazine.com/2022/09/segundas-ciudades-europa-venecia-gondola-gran-canal.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
+  - viajar-con-amigas
+  - inspiración
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

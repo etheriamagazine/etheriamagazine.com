@@ -3,10 +3,9 @@ title: "Qué ver en Milán en un fin de semana"
 date: 2018-12-21
 coverImage: https://fotos.etheriamagazine.com/2018/12/Milan-navigli-e1567238593842.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-romanticos
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-en-pareja
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

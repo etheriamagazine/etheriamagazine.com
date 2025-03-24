@@ -3,10 +3,9 @@ title: "Descubre la magia de las playas y la costa de Huelva"
 date: 2020-07-01
 coverImage: https://fotos.etheriamagazine.com/2020/06/Huelva-playas-7.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

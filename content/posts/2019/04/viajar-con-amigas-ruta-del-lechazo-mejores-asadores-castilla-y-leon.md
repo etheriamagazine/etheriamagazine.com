@@ -3,8 +3,10 @@ title: "Ruta del lechazo: los mejores asadores de Castilla y León"
 date: 2019-04-25
 coverImage: https://fotos.etheriamagazine.com/2019/04/Ruta-lechazo-asado.jpg
 categories: 
-  - mejores-restaurantes-gastronomia
-  - planes-cultura-ocio
+  - gourmet
+  - ocio
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

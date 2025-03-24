@@ -3,9 +3,9 @@ title: "Una vuelta a España por sus mejores chiringuitos"
 date: 2019-08-05
 coverImage: https://fotos.etheriamagazine.com/2019/07/mejores-chiringuitos-el-bigotes-ibiza.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Macarena Escrivá
 ---

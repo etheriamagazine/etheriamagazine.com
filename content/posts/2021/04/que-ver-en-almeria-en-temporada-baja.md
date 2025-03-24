@@ -3,10 +3,10 @@ title: "Planes en Almería para una escapada en clave slow"
 date: 2021-04-17
 coverImage: https://fotos.etheriamagazine.com/2018/11/almeria-playa-escullos.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---

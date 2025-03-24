@@ -3,9 +3,9 @@ title: "Consejos para viajar sola al Salar de Uyuni, el desierto de sal más gra
 date: 2019-05-24
 coverImage: https://fotos.etheriamagazine.com/2019/05/viajar-sola-por-salar-uyuni.jpg
 categories: 
-  - viajes-ecoturismo
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Europa
 authors: 
   - Elisabeth G. Iborra
 ---

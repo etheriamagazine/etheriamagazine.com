@@ -3,8 +3,9 @@ title: "Mar Sánchez Villalta: \"Trato de hacer de la vida la mejor aventura\""
 date: 2018-10-01
 coverImage: https://fotos.etheriamagazine.com/2018/09/mar-air-mauritius-mujer-etheria.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

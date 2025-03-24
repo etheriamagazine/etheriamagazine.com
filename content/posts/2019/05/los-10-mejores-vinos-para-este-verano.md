@@ -3,12 +3,11 @@ title: "Top ten de vinos para quedar de cine en tu próxima barbacoa"
 date: 2019-05-23
 coverImage: https://fotos.etheriamagazine.com/2019/05/vinos-verano-amigos.jpg
 categories: 
-  - consejos-practicos
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - gourmet
+  - ocio
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

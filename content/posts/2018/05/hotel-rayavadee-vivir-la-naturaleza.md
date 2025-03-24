@@ -4,6 +4,8 @@ date: 2018-05-25
 coverImage: https://fotos.etheriamagazine.com/2018/05/The-Rayavadee-Villa_Exterior-Morning_Fotor-e1555063028881.jpg
 categories: 
   - hoteles
+destino: 
+  - Mundo
 authors: 
   - Susana García
 ---

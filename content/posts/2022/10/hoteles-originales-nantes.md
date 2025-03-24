@@ -4,6 +4,8 @@ date: 2022-10-17
 coverImage: https://fotos.etheriamagazine.com/2022/10/Mercure-Nantes-Centre-Grand-Hotel.jpg
 categories: 
   - hoteles
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

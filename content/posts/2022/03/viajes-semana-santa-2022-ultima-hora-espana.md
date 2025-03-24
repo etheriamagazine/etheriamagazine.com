@@ -3,10 +3,10 @@ title: "10 viajes de Semana Santa de última hora por el interior de España"
 date: 2022-03-28
 coverImage: https://fotos.etheriamagazine.com/2022/03/Semana-Santa-paisajes-del-valle-del-Bidasoa.jpg
 categories: 
-  - de-un-vistazo
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,9 +3,9 @@ title: "Vuelve a vivir los felices años 20 con el Benicàssim Belle Époque"
 date: 2024-07-31
 coverImage: https://fotos.etheriamagazine.com/2024/07/Benicassim-Belle-epoque-puesto.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

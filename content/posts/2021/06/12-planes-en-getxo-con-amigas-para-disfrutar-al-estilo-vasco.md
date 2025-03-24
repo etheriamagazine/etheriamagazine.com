@@ -3,10 +3,10 @@ title: "12 planes en Getxo con amigas para disfrutar al estilo vasco"
 date: 2021-06-14
 coverImage: https://fotos.etheriamagazine.com/2021/06/puerto-viejo-getxo-costa-vizcaya.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

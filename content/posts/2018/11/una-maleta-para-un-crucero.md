@@ -3,8 +3,9 @@ title: "Como preparar la maleta para un crucero"
 date: 2018-11-17
 coverImage: https://fotos.etheriamagazine.com/2018/11/hacer-maleta-crucero.jpg
 categories: 
-  - organiza-tu-viaje
-  - que-llevar-en-la-maleta
+  - qué-llevar-en-la-maleta
+destino: 
+  - Europa
 authors: 
   - Pepa G. Marín
 ---

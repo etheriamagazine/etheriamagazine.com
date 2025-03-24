@@ -3,10 +3,10 @@ title: "Viaje con niños a Engelberg, el corazón de Suiza"
 date: 2019-04-30
 coverImage: https://fotos.etheriamagazine.com/2019/04/Engelberg-ninas-Furenalp.jpg
 categories: 
-  - viajes-ecoturismo
-  - viaje-en-familia
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

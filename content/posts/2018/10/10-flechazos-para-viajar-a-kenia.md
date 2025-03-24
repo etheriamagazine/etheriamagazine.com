@@ -3,9 +3,10 @@ title: "Kenia, 10 experiencias que nunca olvidarás"
 date: 2018-10-25
 coverImage: https://fotos.etheriamagazine.com/2018/10/elefante-amboseli-viaje-mujeres-kenia-e1566113172608.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

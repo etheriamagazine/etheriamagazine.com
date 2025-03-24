@@ -3,8 +3,9 @@ title: "Tips para una escapada inolvidable con amigas a Berna"
 date: 2024-07-03
 coverImage: https://fotos.etheriamagazine.com/2024/07/berna-calle.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Yolanda Cardo
 ---

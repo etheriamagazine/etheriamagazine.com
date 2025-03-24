@@ -3,8 +3,9 @@ title: "Ángeles Alonso-Misol: \"Viajar me permite acercarme a la vida desde otr
 date: 2018-12-24
 coverImage: https://fotos.etheriamagazine.com/2018/12/Angeles-alonso-Shanghai.jpg
 categories: 
-  - mujeres-etheria
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

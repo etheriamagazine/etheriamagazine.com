@@ -3,9 +3,9 @@ title: "Qué ver y hacer en tu primera visita a Oslo"
 date: 2020-01-24
 coverImage: https://fotos.etheriamagazine.com/2020/01/mercado-oslo-Mathallen.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - Europa
 authors: 
   - Marina Paul
 ---

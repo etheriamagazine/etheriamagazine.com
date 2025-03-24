@@ -3,11 +3,9 @@ title: "Ruta por el paisaje gastronómico de La Rioja"
 date: 2019-01-23
 coverImage: https://fotos.etheriamagazine.com/2019/01/Restaurante-Cachetero-Txebiko-e1637097743651.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-gastronomicos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Carmen Bengoechea
 ---

@@ -3,9 +3,10 @@ title: "Ruta Saritísima por Campo de Criptana"
 date: 2019-04-08
 coverImage: https://fotos.etheriamagazine.com/2019/04/Sara-montiel-campo-criptana.jpg
 categories: 
-  - viajes-con-amigas
-  - historias-en-femenino
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - historias
+destino: 
+  - España
 authors: 
   - Kelu Robles
 ---

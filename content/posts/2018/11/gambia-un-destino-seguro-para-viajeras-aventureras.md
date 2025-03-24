@@ -3,9 +3,9 @@ title: "Gambia, un destino exótico y seguro para mujeres que viajan solas"
 date: 2018-11-07
 coverImage: https://fotos.etheriamagazine.com/2018/10/viaje-gambia-La-cocina-de-Ida-Cham-e1563899251767.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pedro Grifol
 ---

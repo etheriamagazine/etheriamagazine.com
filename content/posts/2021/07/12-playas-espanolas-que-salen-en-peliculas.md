@@ -3,9 +3,9 @@ title: "12 playas de cine en España donde darse el primer chapuzón"
 date: 2021-07-19
 coverImage: https://fotos.etheriamagazine.com/2021/07/Playa-Torimbia-pelicula-el-abuelo.jpg
 categories: 
-  - viajes-cine
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - inspiración
+destino: 
+  - España
 authors: 
   - Eva Madruga
 ---

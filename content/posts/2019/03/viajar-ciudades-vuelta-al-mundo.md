@@ -3,8 +3,8 @@ title: "10 ciudades que debes visitar en una vuelta al mundo"
 date: 2019-03-27
 coverImage: https://fotos.etheriamagazine.com/2019/03/Estambul-La-Mequita-Azul.jpg
 categories: 
-  - de-un-vistazo
-  - planes-cultura-ocio
+  - inspiración
+  - ocio
 authors: 
   - Redacción Etheria
 ---

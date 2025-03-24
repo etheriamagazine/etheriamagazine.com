@@ -3,9 +3,9 @@ title: "16 pueblos bonitos del interior de Andalucía para pasar un fin de seman
 date: 2023-12-29
 coverImage: https://fotos.etheriamagazine.com/2023/12/malaga-frigiliana.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

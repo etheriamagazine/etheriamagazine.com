@@ -3,11 +3,11 @@ title: "8 cenas de Nochevieja en Madrid para recibir el año 2022 por todo lo al
 date: 2021-11-29
 coverImage: https://fotos.etheriamagazine.com/2021/11/Nochevieja-hotel-orfila.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - gourmet
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

@@ -3,7 +3,9 @@ title: "El Ciclo de Grandes Autores e Intérpretes de la Música de Madrid 2020/
 date: 2020-12-19
 coverImage: https://fotos.etheriamagazine.com/2020/12/Pianista-Judith-Jauregui.jpg
 categories: 
-  - planes-cultura-ocio
+  - ocio
+destino: 
+  - España
 authors: 
   - Pilar Ortega
 ---

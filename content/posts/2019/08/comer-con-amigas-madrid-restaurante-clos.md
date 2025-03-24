@@ -3,9 +3,9 @@ title: "Clos Madrid, aires castizos para el nuevo estrella Michelin de la capita
 date: 2019-08-07
 coverImage: https://fotos.etheriamagazine.com/2019/07/Clos-detalle-mesa.jpg
 categories: 
-  - organiza-tu-viaje
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - gourmet
+destino: 
+  - España
 authors: 
   - Vanesa Viñolo
 ---

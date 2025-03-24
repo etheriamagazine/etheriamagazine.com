@@ -3,9 +3,9 @@ title: "10 experiencias que deberías vivir en Irán si eres una mujer viajera"
 date: 2022-04-18
 coverImage: https://fotos.etheriamagazine.com/2022/04/Iran-Mausoleo-Hilal-ibn-Ali.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Ana Vara y David Santiago
 ---

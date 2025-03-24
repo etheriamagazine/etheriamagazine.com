@@ -3,9 +3,10 @@ title: "Conca de Barberà, ¿te vienes a disfrutar de sus vinos?"
 date: 2022-06-01
 coverImage: https://fotos.etheriamagazine.com/2022/05/Mas-de-la-pansa-enologa.jpg
 categories: 
-  - viajes-gastronomicos
-  - mejores-restaurantes-gastronomia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - gourmet
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

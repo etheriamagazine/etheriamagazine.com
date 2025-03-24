@@ -3,8 +3,9 @@ title: "República Checa, visitas para mujeres que viajan solas"
 date: 2020-05-29
 coverImage: https://fotos.etheriamagazine.com/2020/05/salir-brno-chequia.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

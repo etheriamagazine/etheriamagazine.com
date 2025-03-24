@@ -3,10 +3,11 @@ title: "Palma con amigas: 8 planazos para exprimir la capital de Mallorca"
 date: 2021-06-02
 coverImage: https://fotos.etheriamagazine.com/2021/05/palma-amigas-Velero-Rafael-Verdera.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

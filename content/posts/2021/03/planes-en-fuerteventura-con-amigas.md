@@ -3,10 +3,10 @@ title: "10 planes en Fuerteventura con amigas para disfrutar al máximo de la is
 date: 2021-03-24
 coverImage: https://fotos.etheriamagazine.com/2021/03/fuerteventura-Playa-Los-Charcos.jpg
 categories: 
-  - viajes-con-amigas
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - ocio
+destino: 
+  - España
 authors: 
   - Elena Ortega
 ---

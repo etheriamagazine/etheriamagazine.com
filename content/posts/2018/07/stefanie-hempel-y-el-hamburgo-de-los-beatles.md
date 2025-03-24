@@ -3,7 +3,9 @@ title: "Stefanie Hempel te lleva por el Hamburgo de los Beatles"
 date: 2018-07-11
 coverImage: https://fotos.etheriamagazine.com/2018/07/Tour-hamburgo-los-beatles-5.jpg
 categories: 
-  - mujeres-que-inspiran
+  - mujeres-top
+destino: 
+  - Europa
 authors: 
   - Manena Munar
 ---

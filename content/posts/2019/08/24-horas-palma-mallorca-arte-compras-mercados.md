@@ -3,8 +3,9 @@ title: "Qué hacer en Palma de Mallorca: compras, mercados y arte"
 date: 2019-08-01
 coverImage: https://fotos.etheriamagazine.com/2019/07/viaje-palma-compras-hamman.jpg
 categories: 
-  - viajes-con-amigas
-  - organiza-tu-viaje
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

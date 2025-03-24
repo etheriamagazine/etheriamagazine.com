@@ -3,8 +3,9 @@ title: "Okinawa, el secreto mejor guardado de Japón"
 date: 2019-04-05
 coverImage: https://fotos.etheriamagazine.com/2019/04/okinawa-boda-japon.jpg
 categories: 
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - Mundo
 authors: 
   - Yvonne Solé
 ---

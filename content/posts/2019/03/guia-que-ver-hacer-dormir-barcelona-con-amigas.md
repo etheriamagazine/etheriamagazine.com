@@ -3,10 +3,9 @@ title: "Barcelona con amigas: visitas, compras y los mejores restaurantes"
 date: 2019-03-12
 coverImage: https://fotos.etheriamagazine.com/2019/03/Barcelona-bicing-en-el-gotico.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-con-amigas
-  - viajes-urbanos
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yvonne Solé
 ---

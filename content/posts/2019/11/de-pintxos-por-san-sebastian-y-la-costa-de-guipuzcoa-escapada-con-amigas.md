@@ -3,11 +3,9 @@ title: "Descubre los mejores bares de pintxos de San Sebastián para ir con amig
 date: 2019-11-08
 coverImage: https://fotos.etheriamagazine.com/2019/10/San-Sebastian-gastronomia-Gros.jpg
 categories: 
-  - viajes-48-horas
-  - viajes-gastronomicos
-  - viajes-urbanos
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Elisabeth G. Iborra
 ---

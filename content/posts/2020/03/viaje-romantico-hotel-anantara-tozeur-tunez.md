@@ -3,9 +3,7 @@ title: "Viaje en pareja al hotel Anantara Tozeur Resort"
 date: 2020-03-27
 coverImage: https://fotos.etheriamagazine.com/2020/03/hotel-Anantara-Tozeur-One-Bedroom-Pool-Villa.jpg
 categories: 
-  - organiza-tu-viaje
   - hoteles
-  - viajes-para-mujeres
 authors: 
   - Redacción Etheria
 ---

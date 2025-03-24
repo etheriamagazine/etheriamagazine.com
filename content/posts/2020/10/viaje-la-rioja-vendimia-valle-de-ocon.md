@@ -3,9 +3,9 @@ title: "Escapada al valle secreto de Ocón, un pellizco de La Toscana en La Rioj
 date: 2020-10-26
 coverImage: https://fotos.etheriamagazine.com/2020/10/Etheria-magazine-La-Rioja-molino-valle-ocon.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-ecoturismo
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Juan Carlos y Mar
 ---

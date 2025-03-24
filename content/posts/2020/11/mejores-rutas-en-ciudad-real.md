@@ -3,9 +3,9 @@ title: "8 razones por las que desearás conocer la provincia de Ciudad Real"
 date: 2020-11-10
 coverImage: https://fotos.etheriamagazine.com/2020/11/ciudad-real-Tablas-de-Daimiel.jpg
 categories: 
-  - viajes-con-amigas
-  - viaje-en-familia
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Yolanda Cardo
 ---

@@ -3,9 +3,9 @@ title: "Siete emocionantes experiencias para conectar con Andalucía"
 date: 2021-07-16
 coverImage: https://fotos.etheriamagazine.com/2021/07/paseo-caballo-el-palmar.jpg
 categories: 
-  - planes-originales-para-mujeres
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - ocio
+destino: 
+  - Europa
 authors: 
   - Redacción Etheria
 ---

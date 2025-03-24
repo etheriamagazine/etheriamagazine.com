@@ -4,7 +4,8 @@ date: 2024-11-25
 coverImage: https://fotos.etheriamagazine.com/2024/11/Hyatt-navidad-2024-Pintada-asada.jpeg
 categories: 
   - hoteles
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

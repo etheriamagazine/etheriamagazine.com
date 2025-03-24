@@ -3,9 +3,9 @@ title: "Cómo disfrutar de Menorca antes o después del verano"
 date: 2018-11-05
 coverImage: https://fotos.etheriamagazine.com/2018/10/puerto-ciudadela-menorca.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
   - viajar-sola
+destino: 
+  - España
 authors: 
   - Paloma Herce
 ---

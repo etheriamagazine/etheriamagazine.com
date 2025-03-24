@@ -2,8 +2,8 @@
 title: "No te pierdas los artículos de Etheria Magazine más leídos en 2023"
 date: 2023-12-26
 coverImage: https://fotos.etheriamagazine.com/2023/12/viajes-2023.jpg
-categories: 
-  - viajes-para-mujeres
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

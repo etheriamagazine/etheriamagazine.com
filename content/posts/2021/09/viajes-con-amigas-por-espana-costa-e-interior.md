@@ -3,10 +3,11 @@ title: "Viajes con amigas por España: el mejor plan posible"
 date: 2021-09-01
 coverImage: https://fotos.etheriamagazine.com/2021/08/puerto-gigantes-tenerife.jpg
 categories: 
-  - viajes-con-amigas
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-con-amigas
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

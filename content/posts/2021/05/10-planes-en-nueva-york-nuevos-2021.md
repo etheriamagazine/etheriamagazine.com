@@ -3,8 +3,9 @@ title: "10 planes en Nueva York que te emocionarán si viajas en 2021"
 date: 2021-05-10
 coverImage: https://fotos.etheriamagazine.com/2021/05/jardin-botanico-nueva-york-Kusama-Dancing-Pumpkin.jpg
 categories: 
-  - viajes-con-amigas
-  - viajes-para-mujeres
+  - viajar-con-amigas
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

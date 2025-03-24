@@ -3,8 +3,9 @@ title: "10 experiencias alucinantes en el Lejano Oeste americano"
 date: 2019-07-18
 coverImage: https://fotos.etheriamagazine.com/2019/06/3-viaje-california-Artist-Palette-e1562144658794.jpg
 categories: 
-  - de-un-vistazo
-  - viajes-para-mujeres
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Juan Carlos y Mar
 ---

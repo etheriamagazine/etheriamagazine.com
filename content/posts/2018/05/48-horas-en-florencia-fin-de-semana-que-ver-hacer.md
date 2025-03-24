@@ -3,7 +3,9 @@ title: "Florencia en un fin de semana, claves par aprovecharlo"
 date: 2018-05-16
 coverImage: https://fotos.etheriamagazine.com/2018/05/TOSCANA-FLORENCIA-FACHADA-CATEDRAL.jpg
 categories: 
-  - de-un-vistazo
+  - inspiración
+destino: 
+  - Europa
 authors: 
   - Susana García
 ---

@@ -3,10 +3,11 @@ title: "Huelva con niños: 6 excursiones para aprovechar el viaje al máximo"
 date: 2021-06-21
 coverImage: https://fotos.etheriamagazine.com/2021/06/huelva-aldea-rocio-al-atardecer.jpg
 categories: 
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

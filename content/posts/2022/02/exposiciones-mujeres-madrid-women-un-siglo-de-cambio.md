@@ -3,9 +3,9 @@ title: "WOMEN, un siglo de cambio"
 date: 2022-02-22
 coverImage: https://fotos.etheriamagazine.com/2020/03/Women-National-Geographic.jpg
 categories: 
-  - organiza-tu-viaje
-  - exposiciones
-  - viajes-para-mujeres
+  - cultura
+destino: 
+  - España
 authors: 
   - Pepa G. Marín
 ---

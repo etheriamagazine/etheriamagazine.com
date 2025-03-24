@@ -3,9 +3,9 @@ title: "Cuevas de Mallorca, cinco fantasías subterráneas"
 date: 2021-08-26
 coverImage: https://fotos.etheriamagazine.com/2021/08/Cuevas-arta-mallorca.jpg
 categories: 
-  - viaje-en-familia
-  - planes-originales-para-mujeres
-  - viajes-para-mujeres
+  - viajar-en-familia
+destino: 
+  - España
 authors: 
   - Redacción Etheria
 ---

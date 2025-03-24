@@ -3,11 +3,11 @@ title: "8 excursiones con niños desde el sur de Tenerife"
 date: 2020-03-06
 coverImage: https://fotos.etheriamagazine.com/2020/02/Tenerife-canadas-Teide.jpg
 categories: 
-  - consejos-practicos
-  - viaje-en-familia
-  - de-un-vistazo
-  - planes-cultura-ocio
-  - viajes-para-mujeres
+  - viajar-en-familia
+  - inspiración
+  - ocio
+destino: 
+  - España
 authors: 
   - Susana García
 ---
