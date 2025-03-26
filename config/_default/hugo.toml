@@ -17,21 +17,24 @@ summaryLength = 20
 [taxonomies]
   category = "categories"
   author = "authors"
+  destino = "destino"
+
 
 [permalinks]
   [permalinks.page]
-    posts = "/:year/:month/:day/:filename"
+    posts = "/articulos/:slug"
+    publicidad = "/publicidad/:slug"
 
-  [permalinks.section]
-    posts = "/articulos"
 
   [permalinks.taxonomy]
     categories = "/categorias"
-    authors = "/autores"
+    authors = "/autoras"
 
   [permalinks.term]
-    categories = "/categorias/:slug/"
-    authors = "/autores/:slug"
+    categories = "/:slug"
+    authors = "/autoras/:slug"
+
+
 
 [pagination]
   disableAliases = false
